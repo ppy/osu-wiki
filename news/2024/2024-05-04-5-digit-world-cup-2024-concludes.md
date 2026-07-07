@@ -49,7 +49,7 @@ In the beginning, all looked normal for Poland, the 98.6% favourite according to
 
 As the match charges on, Australia managed to earn point after point. Expecting an easy 3-0 lead, Poland picked HR3 and lost by a huge margin (by nearly 500k points). The score was now 2-1 and the ball was in Australia's court. Looking to tie things up, the Aussies went for FM2 and managed to win by 300k — a second victory in a row over the goliath that is the Polish team. Everyone's pick'ems were already shattered by this point, but the Australian team still had more up their sleeves and the score is tied 2-2.
 
-Lagging behind and desperately in need of momentum, Poland picked NM3. After an uncertain ending with ::{ flag=AU }:: [Trainjumper](https://osu.ppy.sh/users/2272587)'s client freezing on the livestream, the results were revealed in the [match logs](https://osu.ppy.sh/community/matches/113190844). Australia won again and now had the advantage at 2-3. They shot for NM2 and won yet another point, somehow flipping the script and making Australia the one with match point against the would-be winners of the tournament.
+Lagging behind and desperately in need of momentum, Poland picked NM3. After an uncertain ending with ::{ flag=AU }:: ::Trainjumper::{ user-id=2272587 }'s client freezing on the livestream, the results were revealed in the [match logs](https://osu.ppy.sh/community/matches/113190844). Australia won again and now had the advantage at 2-3. They shot for NM2 and won yet another point, somehow flipping the script and making Australia the one with match point against the would-be winners of the tournament.
 
 In the end, the run of a lifetime dissolved as Poland locked in and surged for victory, ultimately defeating the Australians in a 5-4 tiebreaker victory. The fact this match went to tiebreaker at all is incredible, and we're certain the Australian team is proud of their efforts.
 
@@ -61,11 +61,11 @@ In the end, the run of a lifetime dissolved as Poland locked in and surged for v
 
 Fighting for a chance at the crown or being cast to 3rd place, both teams initially won each of their picks in lockstep, but Canada's strides seemed more confident with their wider score margins. The even scoreline lasted even as the US began to show force in their Hard Rock picks.
 
-The first half of the match already revealed the stars of the show, with ::{ flag=CA }:: [ploot](https://osu.ppy.sh/users/7802400) carrying the Canadian team throughout their picks, and especially so during HD2, [t+pazolite - Heartache Debug feat. Akagawa Nene](https://osu.ppy.sh/beatmapsets/1833716#osu/3764512), snatching the lobby's only S-rank score at 99.45% accuracy. This was not without a fight from ::{ flag=US }:: [gilgamesh815](https://osu.ppy.sh/users/14040810) and ::{ flag=US }:: [zfr](https://osu.ppy.sh/users/11536421), who also performed exceptionally well throughout.
+The first half of the match already revealed the stars of the show, with ::{ flag=CA }:: ::ploot::{ user-id=7802400 } carrying the Canadian team throughout their picks, and especially so during HD2, [t+pazolite - Heartache Debug feat. Akagawa Nene](https://osu.ppy.sh/beatmapsets/1833716#osu/3764512), snatching the lobby's only S-rank score at 99.45% accuracy. This was not without a fight from ::{ flag=US }:: ::gilgamesh815::{ user-id=14040810 } and ::{ flag=US }:: ::zfr::{ user-id=11536421 }, who also performed exceptionally well throughout.
 
-Canada's slightly higher seed (#2 vs. #4) was first questioned when they almost lost on their own pick of [Hollow Wings](https://osu.ppy.sh/users/416662)'s famous map of [Halozy - Sentimental Skyscraper](https://osu.ppy.sh/beatmapsets/100348#osu/412288), falling behind yet taking it back on the second half. Carrying this momentum forward, Canada took the first breakpoint on America's HR3 pick, but traded it right back with America's double EZ roster on FM2.
+Canada's slightly higher seed (#2 vs. #4) was first questioned when they almost lost on their own pick of ::Hollow Wings::{ user-id=416662 }'s famous map of [Halozy - Sentimental Skyscraper](https://osu.ppy.sh/beatmapsets/100348#osu/412288), falling behind yet taking it back on the second half. Carrying this momentum forward, Canada took the first breakpoint on America's HR3 pick, but traded it right back with America's double EZ roster on FM2.
 
-Another win from the US' own pick later and the two podium finalists were taken to the tiebreaker of [Sydosys - Epsilon](https://osu.ppy.sh/beatmapsets/2166904#osu/4571684). After a mostly smooth first section of the song, everyone breaks combo on the transition except for two Canadians, and with ::{ flag=CA }:: [FetherFall](https://osu.ppy.sh/users/15296550)'s subsequent break it was ::{ flag=CA }:: [Birchman](https://osu.ppy.sh/users/10676573)'s time to shine while building a devastating lead. The scoreline swung in Canada's favour, and with Birchman's 430k-score performance topping the lobby, Canada's advancement to Grand Finals against Poland was sealed at this moment.
+Another win from the US' own pick later and the two podium finalists were taken to the tiebreaker of [Sydosys - Epsilon](https://osu.ppy.sh/beatmapsets/2166904#osu/4571684). After a mostly smooth first section of the song, everyone breaks combo on the transition except for two Canadians, and with ::{ flag=CA }:: ::FetherFall::{ user-id=15296550 }'s subsequent break it was ::{ flag=CA }:: ::Birchman::{ user-id=10676573 }'s time to shine while building a devastating lead. The scoreline swung in Canada's favour, and with Birchman's 430k-score performance topping the lobby, Canada's advancement to Grand Finals against Poland was sealed at this moment.
 
 ## osu! originals
 
@@ -123,11 +123,11 @@ Spectators see the matches and memories they create, but some memories reside in
 
 ::{#birchman}::
 
-[![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Birchman.png)](https://osu.ppy.sh/users/10676573)
+::!\1\1(/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Birchman.png)::{ user-id=10676573 }
 
 > Hi I'm Birchman, I've been playing the game off and on since August 2017, and I've been playing tournaments semi-actively since August 2022. I was on Canada's 5wc roster last year and had the chance to play for Canada again this year as well.
 
-Team Canada, which includes [Birchman](https://osu.ppy.sh/users/10676573), went on to place 2nd this year in the 5 Digit World Cup 2024, narrowly behind Poland.
+Team Canada, which includes ::Birchman::{ user-id=10676573 }, went on to place 2nd this year in the 5 Digit World Cup 2024, narrowly behind Poland.
 
 ---
 
@@ -135,11 +135,11 @@ Did you have any expectations going into the tournament? What went on in your mi
 
 > I remember last year, Canada got top 6 in the tournament, and while I wouldn't say that I 100% expected a better placement from us this year, I was definitely hoping that we'd at least beat last year's top 6 placing.
 > 
-> I think as we got further and further into the tournament, we started analyzing the other teams more and some of our practice habits changed. I remember around the semifinals stage of the tournament, [Fetherfall](https://osu.ppy.sh/users/15296550) would look at the mappool early into the week and started to highlight the maps depending on how much we needed to practice them which really helped. I think the team overall took the tournament more seriously as we transitioned into the later stages.
+> I think as we got further and further into the tournament, we started analyzing the other teams more and some of our practice habits changed. I remember around the semifinals stage of the tournament, ::Fetherfall::{ user-id=15296550 } would look at the mappool early into the week and started to highlight the maps depending on how much we needed to practice them which really helped. I think the team overall took the tournament more seriously as we transitioned into the later stages.
 
 How did you prepare for matches and 5WC itself?
 
-> For matches, we'd run multiplayer lobbies every week to practice the mappool as a team. On top of that our coaches [FlatPaper](https://osu.ppy.sh/users/11255340) and [LumenLogic](https://osu.ppy.sh/users/8171404) made comparison spreadsheets so that we could see how our opponents did in previous rounds compared to us. To prepare for 5wc itself, I personally tried to learn how to play with HDHR since if you had a player taking HDHR on your team, another player could go NM, and with the Freemod rules not requiring a player on HD, I thought I'd be more useful if I learned HDHR for the team.
+> For matches, we'd run multiplayer lobbies every week to practice the mappool as a team. On top of that our coaches ::FlatPaper::{ user-id=11255340 } and [LumenLogic](https://osu.ppy.sh/users/8171404) made comparison spreadsheets so that we could see how our opponents did in previous rounds compared to us. To prepare for 5wc itself, I personally tried to learn how to play with HDHR since if you had a player taking HDHR on your team, another player could go NM, and with the Freemod rules not requiring a player on HD, I thought I'd be more useful if I learned HDHR for the team.
 
 Are there any specific moments you remember the most vividly?
 
@@ -151,15 +151,15 @@ What was the first thing you did after the tournament?
 
 > Honestly I was really sad after taking Poland all the way to bracket reset just to lose, and really didn't do too much other than thinking a lot about how the match could've ended with Canada winning.
 > 
-> But on a more positive note, a day after the tournament concluded, [LumenLogic](https://osu.ppy.sh/users/8171404) made an announcement in the Canadian 5wc server highlighting our performance, as well as Canada B and C team's respective placements in the 5wc's Minor League (a separately hosted tournament). In the same announcement he also gave a shoutout to all the people who were involved with tryouts and roster making this year, which was a nice way to wrap up 5wc for Canada.
+> But on a more positive note, a day after the tournament concluded, ::LumenLogic::{ user-id=8171404 } made an announcement in the Canadian 5wc server highlighting our performance, as well as Canada B and C team's respective placements in the 5wc's Minor League (a separately hosted tournament). In the same announcement he also gave a shoutout to all the people who were involved with tryouts and roster making this year, which was a nice way to wrap up 5wc for Canada.
 
 ::{#naikou}::
 
-[![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Naikou.png)](https://osu.ppy.sh/users/29139453)
+::!\1\1(/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Naikou.png)::{ user-id=29139453 }
 
 > I'm a multigenre DTM producer that you probably don't know! I've been doing music for almost three years now and currently my style focuses on blending color bass elements with everything I do :3
 
-[Naikou](https://osu.ppy.sh/users/29139453) is no stranger to composing for osu! tournaments, with works spanning [Coul's Scuffed Overskilled 5 Digit Cup](https://osu.ppy.sh/community/forums/topics/1739981?n=1), [osu!mania SQUID GAME](https://osu.ppy.sh/community/forums/topics/1745098?n=1) and [4 Digit Player Tournament 6](https://osu.ppy.sh/community/forums/topics/1871322?n=1). For the 5 Digit World Cup 2024, Naikou composed [Beyond Reality](https://osu.ppy.sh/beatmapsets/2163553) as the Finals tiebreaker track.
+::Naikou::{ user-id=29139453 } is no stranger to composing for osu! tournaments, with works spanning [Coul's Scuffed Overskilled 5 Digit Cup](https://osu.ppy.sh/community/forums/topics/1739981?n=1), [osu!mania SQUID GAME](https://osu.ppy.sh/community/forums/topics/1745098?n=1) and [4 Digit Player Tournament 6](https://osu.ppy.sh/community/forums/topics/1871322?n=1). For the 5 Digit World Cup 2024, Naikou composed [Beyond Reality](https://osu.ppy.sh/beatmapsets/2163553) as the Finals tiebreaker track.
 
 ---
 
@@ -177,13 +177,13 @@ What was the process like to create *Beyond Reality*? Was there a main idea behi
 
 ::{#ajmosca}::
 
-[![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/ajmosca.png)](https://osu.ppy.sh/users/19884809)
+::!\1\1(/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/ajmosca.png)::{ user-id=19884809 }
 
 > Hi! I'm AJ, I'm a 4th year college student that started playing osu! in late 2020. In the last 2.5 years I've also become heavily involved in the tournament community, being a player and staffer for both rank-restricted and open rank competitions, as well as co-hosting a rank-restricted tournament, [Clashing Tides](https://osu.ppy.sh/community/forums/topics/1759097?n=1), last summer.
 > 
 > Additionally, I've been mapping for over 2 years and have created several custom maps for community tournaments, in particular mapping [an osu! original song](https://osu.ppy.sh/beatmapsets/2088549#osu/4376782) composed by [seleP](https://osu.ppy.sh/beatmaps/artists/138) for [OWC 2023](/wiki/Tournaments/OWC/2023). I also have a couple ranked maps of my own, mainly guest difficulties.
 
-[ajmosca](https://osu.ppy.sh/users/19884809) mapped 5 beatmaps specifically for the 5 Digit World Cup 2024, or 5 "custom maps" as they're commonly known.
+::ajmosca::{ user-id=19884809 } mapped 5 beatmaps specifically for the 5 Digit World Cup 2024, or 5 "custom maps" as they're commonly known.
 
 ---
 
@@ -203,7 +203,7 @@ How did creating 5 custom maps for 5WC 2024 come about? Was this a special occas
 
 Having collaborated with a few artists at this point for original songs in your maps, how would you describe your experience this time mapping the [Finals tiebreaker *Beyond Reality*](https://osu.ppy.sh/beatmapsets/2163553#osu/4562997)?
 
-> Compared to my other original song maps, the highlight for this occasion was how closely I was able to work with the song artist themselves. Working closely with [Naikou](https://osu.ppy.sh/users/29139453) during the various stages of creating this map was wonderful.
+> Compared to my other original song maps, the highlight for this occasion was how closely I was able to work with the song artist themselves. Working closely with ::Naikou::{ user-id=29139453 } during the various stages of creating this map was wonderful.
 > 
 > They provided so much for the map ranging from: different mp3 encodings to fit ranking criteria, the map's timing, the background, and even the song's sheet music to help us mappers in case we were confused about any rhythm. Being able to cycle feedback with the artist, both about the song and about the map, was an awesome experience and I believe it helped increase the quality of the final product significantly.
 > 
@@ -211,11 +211,11 @@ Having collaborated with a few artists at this point for original songs in your 
 
 ::{#lupa}::
 
-[![](/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Lupa.png)](https://osu.ppy.sh/users/4722369)
+::!\1\1(/wiki/shared/news/2024-05-04-5-digit-world-cup-2024-concludes/Lupa.png)::{ user-id=4722369 }
 
 > Hi there! My name's Lupa and I've been playing osu actively since 2014. I've followed tournaments like OWC since then but have been especially involved in 4/5 digit tournaments since 2021, playing in about 35 tournaments myself and hosting 3 with a 4th on the way.
 
-[Lupa](https://osu.ppy.sh/users/4722369) stepped up to the role of administration for 5WC 2024, as well as selecting the beatmaps that players can use in their matches (a process known as *mappooling*).
+::Lupa::{ user-id=4722369 } stepped up to the role of administration for 5WC 2024, as well as selecting the beatmaps that players can use in their matches (a process known as *mappooling*).
 
 ---
 
@@ -241,7 +241,7 @@ Have there been challenges in running 5WC that were specific to it, or have ther
 
 What have been your fondest memories from 5WC 2024
 
-> My favorite memory of 5WC 2024 was hearing [BlankTap](https://osu.ppy.sh/users/10137131) commentate [osu! MEGAMIX](https://osu.ppy.sh/beatmapsets/399575#osu/869704) as a tiebreaker in one of the first matches of the entire tournament, [#10 Brazil vs. #23 Hong Kong](https://www.youtube.com/watch?v=AzWb6NqDJg0). I had come up with the idea of using that as a tiebreaker a few weeks prior and had to do a good amount of convincing to get it into the pool.
+> My favorite memory of 5WC 2024 was hearing ::BlankTap::{ user-id=10137131 } commentate [osu! MEGAMIX](https://osu.ppy.sh/beatmapsets/399575#osu/869704) as a tiebreaker in one of the first matches of the entire tournament, [#10 Brazil vs. #23 Hong Kong](https://www.youtube.com/watch?v=AzWb6NqDJg0). I had come up with the idea of using that as a tiebreaker a few weeks prior and had to do a good amount of convincing to get it into the pool.
 > 
 > Even though the skillset is favored towards aim in that map, it was such an intensely hype song that brought so many communities together that I thought it'd be perfect to kick off the first round of bracket because of the memories associated with it for each and every osu player around the world.
 > 

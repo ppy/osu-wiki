@@ -13,7 +13,7 @@ Hello everyone and welcome to the second osu!mania edition of the Mapping Olympi
 
 Are you a new mapper and you want to prove to the world you have enough skills to partake in this challenge, or are you an veteran and you want to make history by becoming the second osu!mania Olympian? If either of these apply, you’ve landed in the right place!
 
-The first Mania edition of the Mapping Olympiad was won by [PianoLuigi](https://osu.ppy.sh/users/9665915), who managed to charm all the judges with his entry! Will you be next?
+The first Mania edition of the Mapping Olympiad was won by ::PianoLuigi::{ user-id=9665915 }, who managed to charm all the judges with his entry! Will you be next?
 
 Enough talk, let's jump into action!
 
@@ -79,7 +79,7 @@ For each eligible submitted difficulty, the judging panel will award points base
 
 After all valid entries are judged and the results are finalized, the top three entrants for each keymode will receive the following prizes:
 
-- **1st place**: 4 months of osu!supporter, 6 Olympiad points (awards *Mapping Olympian* badge), *Elite Mapper* title, and a quick ranking process granted by [Unpredictable](https://osu.ppy.sh/users/7560872) and [Kamuy](https://osu.ppy.sh/users/7439226)
+- **1st place**: 4 months of osu!supporter, 6 Olympiad points (awards *Mapping Olympian* badge), *Elite Mapper* title, and a quick ranking process granted by ::Unpredictable::{ user-id=7560872 } and [Kamuy](https://osu.ppy.sh/users/7439226)
 - **2nd place**: 3 months of osu!supporter and 4 Olympiad points
 - **3rd place**: 2 months of osu!supporter and 2 Olympiad points
 

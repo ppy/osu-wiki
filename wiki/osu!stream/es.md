@@ -16,7 +16,7 @@ El juego se presentó por primera vez a través de [un críptico vídeo de YouTu
 
 El desarrollo de osu!stream se detuvo en 2020. Para más información, lee la [publicación](https://blog.ppy.sh/osu-stream-2020-release/) relacionada con su última versión. El código fuente, junto con las herramientas de conversión y prueba de beatmaps, se puso a disposición de los usuarios ese mismo año bajo una licencia permisiva en [GitHub](https://github.com/ppy/osu-stream), y todos los mapas que antes eran de pago están ahora disponibles gratuitamente en la «tienda» del juego.
 
-En 2023, doce años después de su lanzamiento inicial, osu!stream fue finalmente [portado a Android](https://twitter.com/ppy/status/1613460209703456769) gracias al trabajo de ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) y otros colaboradores de código abierto.
+En 2023, doce años después de su lanzamiento inicial, osu!stream fue finalmente [portado a Android](https://twitter.com/ppy/status/1613460209703456769) gracias al trabajo de ::{ flag=FR }:: ::ThePooN::{ user-id=718454 } y otros colaboradores de código abierto.
 
 ## Instalación
 

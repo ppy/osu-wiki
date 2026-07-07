@@ -9,7 +9,7 @@ Anarchy enters our Featured Artist library through top-tier osu!taiko player **7
 
 ![](https://assets.ppy.sh/artists/356/header.jpg)
 
-Before even touching music production, [**7\_7**](https://osu.ppy.sh/users/7491106) was one of us.
+Before even touching music production, ::**7\_7**::{ user-id=7491106 } was one of us.
 
 Peaking at **global rank #5** in osu!taiko, **7\_7** has encountered and endless slew of insane songs through his drum bashing journey, leading him to produce a highly specific style of music that's perfect for rhythm games: *ultra-dense breakcore tracks with intensity that no other songs dare to match.*
 

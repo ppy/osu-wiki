@@ -26,12 +26,12 @@ The prizes were handed out in the form of points. Every 36 points could be redee
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=SI }:: [Redavor](https://osu.ppy.sh/users/3328606) |
-| Admin | ::{ flag=US }:: [-You Watanabe-](https://osu.ppy.sh/users/3188911), ::{ flag=SI }:: [DomenBzo](https://osu.ppy.sh/users/3450825), ::{ flag=AU }:: [Grassy](https://osu.ppy.sh/users/8067959), ::{ flag=SI }:: [kristi71111](https://osu.ppy.sh/users/3826105), ::{ flag=TR }:: [oralekin](https://osu.ppy.sh/users/7631823) |
-| Referee | ::{ flag=PH }:: [Deadpulse](https://osu.ppy.sh/users/8575527), ::{ flag=PH }:: [kristoffer09](https://osu.ppy.sh/users/3474344), ::{ flag=SG }:: [Kumabread](https://osu.ppy.sh/users/7210491), ::{ flag=PL }:: [MagBlood](https://osu.ppy.sh/users/6178640), ::{ flag=PH }:: [Misery](https://osu.ppy.sh/users/7892873), ::{ flag=GB }:: [Stedoss](https://osu.ppy.sh/users/8331546) |
-| Mappool selector | ::{ flag=TH }:: [GuChangeDeWorld](https://osu.ppy.sh/users/7125579), ::{ flag=CA }:: [Meow-Mix](https://osu.ppy.sh/users/3021634) |
-| Streamer | ::{ flag=SE }:: [BeatingHeart](https://osu.ppy.sh/users/4586549), ::{ flag=PL }:: [FreezingTooEasy](https://osu.ppy.sh/users/4022318) |
-| Commentator | ::{ flag=PL }:: [bsurma](https://osu.ppy.sh/users/509575), ::{ flag=SE }:: [ErroTheCube](https://osu.ppy.sh/users/4425262), ::{ flag=PH }:: [kristoffer09](https://osu.ppy.sh/users/3474344), ::{ flag=DE }:: [Niegth](https://osu.ppy.sh/users/1991114), ::{ flag=SI }:: [ultraregen](https://osu.ppy.sh/users/4106122) |
+| Host | ::{ flag=SI }:: ::Redavor::{ user-id=3328606 } |
+| Admin | ::{ flag=US }:: ::-You Watanabe-::{ user-id=3188911 }, ::{ flag=SI }:: ::DomenBzo::{ user-id=3450825 }, ::{ flag=AU }:: ::Grassy::{ user-id=8067959 }, ::{ flag=SI }:: ::kristi71111::{ user-id=3826105 }, ::{ flag=TR }:: ::oralekin::{ user-id=7631823 } |
+| Referee | ::{ flag=PH }:: ::Deadpulse::{ user-id=8575527 }, ::{ flag=PH }:: ::kristoffer09::{ user-id=3474344 }, ::{ flag=SG }:: ::Kumabread::{ user-id=7210491 }, ::{ flag=PL }:: ::MagBlood::{ user-id=6178640 }, ::{ flag=PH }:: ::Misery::{ user-id=7892873 }, ::{ flag=GB }:: ::Stedoss::{ user-id=8331546 } |
+| Mappool selector | ::{ flag=TH }:: ::GuChangeDeWorld::{ user-id=7125579 }, ::{ flag=CA }:: ::Meow-Mix::{ user-id=3021634 } |
+| Streamer | ::{ flag=SE }:: ::BeatingHeart::{ user-id=4586549 }, ::{ flag=PL }:: ::FreezingTooEasy::{ user-id=4022318 } |
+| Commentator | ::{ flag=PL }:: ::bsurma::{ user-id=509575 }, ::{ flag=SE }:: ::ErroTheCube::{ user-id=4425262 }, ::{ flag=PH }:: ::kristoffer09::{ user-id=3474344 }, ::{ flag=DE }:: ::Niegth::{ user-id=1991114 }, ::{ flag=SI }:: ::ultraregen::{ user-id=4106122 } |
 
 ## Links
 
@@ -45,28 +45,28 @@ Anyone was allowed to predict the outcome of the tournament until the starting d
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=RU }:: [nikervm](https://osu.ppy.sh/users/6832092) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=SI }:: [Redavor](https://osu.ppy.sh/users/3328606) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=TR }:: [Koizumi Hanayo](https://osu.ppy.sh/users/1988584) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=RU }:: ::nikervm::{ user-id=6832092 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=SI }:: ::Redavor::{ user-id=3328606 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=TR }:: ::Koizumi Hanayo::{ user-id=1988584 } |
 
 ## Participants
 
 16 players are admitted into each Invitational. Players eligible for Invitational 2 were:
 
-- ::{ flag=US }:: [\_Zyrenn](https://osu.ppy.sh/users/8389508)
-- ::{ flag=ES }:: [TheMightyNeko](https://osu.ppy.sh/users/7469737)
-- ::{ flag=PL }:: [MagBlood](https://osu.ppy.sh/users/6178640)
-- ::{ flag=DE }:: [Sasuke2g](https://osu.ppy.sh/users/7460142)
-- ::{ flag=PL }:: [~~AkaiKage~~](https://osu.ppy.sh/users/5949241)
-- ::{ flag=IT }:: [Ksero](https://osu.ppy.sh/users/6926212)
-- ::{ flag=ES }:: [EIVO](https://osu.ppy.sh/users/8111395)
-- ::{ flag=AR }:: [Linkel](https://osu.ppy.sh/users/4267947)
-- ::{ flag=TR }:: [Koizumi Hanayo](https://osu.ppy.sh/users/1988584)
-- ::{ flag=PL }:: [Missownik](https://osu.ppy.sh/users/7714761)
-- ::{ flag=NO }:: [AlosChan](https://osu.ppy.sh/users/8240328)
-- ::{ flag=ES }:: [-ZackFair](https://osu.ppy.sh/users/4388820)
-- ::{ flag=CA }:: [~~Chanigan~~](https://osu.ppy.sh/users/3266120)
-- ::{ flag=ID }:: [akirakai18](https://osu.ppy.sh/users/2956814)
+- ::{ flag=US }:: ::\_Zyrenn::{ user-id=8389508 }
+- ::{ flag=ES }:: ::TheMightyNeko::{ user-id=7469737 }
+- ::{ flag=PL }:: ::MagBlood::{ user-id=6178640 }
+- ::{ flag=DE }:: ::Sasuke2g::{ user-id=7460142 }
+- ::{ flag=PL }:: ::~~AkaiKage~~::{ user-id=5949241 }
+- ::{ flag=IT }:: ::Ksero::{ user-id=6926212 }
+- ::{ flag=ES }:: ::EIVO::{ user-id=8111395 }
+- ::{ flag=AR }:: ::Linkel::{ user-id=4267947 }
+- ::{ flag=TR }:: ::Koizumi Hanayo::{ user-id=1988584 }
+- ::{ flag=PL }:: ::Missownik::{ user-id=7714761 }
+- ::{ flag=NO }:: ::AlosChan::{ user-id=8240328 }
+- ::{ flag=ES }:: ::-ZackFair::{ user-id=4388820 }
+- ::{ flag=CA }:: ::~~Chanigan~~::{ user-id=3266120 }
+- ::{ flag=ID }:: ::akirakai18::{ user-id=2956814 }
 
 *Notice: AkaiKage and Chanigan gave up their places in the Invitational and EIVO and Koizumi Hanayo reached semi-finals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament, filler players.*
 
@@ -77,7 +77,7 @@ The filler players are chosen according to a few criteria in the following prior
 3. Number of times participated in RMoT
 4. Current PP
 
-::{ flag=SE }:: [ErroTheCube](https://osu.ppy.sh/users/4425262), ::{ flag=PL }:: [bsurma](https://osu.ppy.sh/users/509575), ::{ flag=PL }:: [Malson](https://osu.ppy.sh/users/6047395) and ::{ flag=NL }:: [Senpaii Hentaii](https://osu.ppy.sh/users/7093651) gained the right to participate in the Invitational, ErroTheCube being seeded higher than the other three.
+::{ flag=SE }:: ::ErroTheCube::{ user-id=4425262 }, ::{ flag=PL }:: ::bsurma::{ user-id=509575 }, ::{ flag=PL }:: ::Malson::{ user-id=6047395 } and ::{ flag=NL }:: ::Senpaii Hentaii::{ user-id=7093651 } gained the right to participate in the Invitational, ErroTheCube being seeded higher than the other three.
 
 ## Podium
 
@@ -85,9 +85,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: [MagBlood](https://osu.ppy.sh/users/6178640) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PL }:: [bsurma](https://osu.ppy.sh/users/509575) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PL }:: [Malson](https://osu.ppy.sh/users/6047395) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: ::MagBlood::{ user-id=6178640 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PL }:: ::bsurma::{ user-id=509575 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PL }:: ::Malson::{ user-id=6047395 } |
 
 ## Mappool
 

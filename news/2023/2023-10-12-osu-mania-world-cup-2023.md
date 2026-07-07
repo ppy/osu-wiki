@@ -63,11 +63,11 @@ We'd like to reserve a special spot for the following matches, so they will hope
 
 #### ::{ flag=VN }:: Vietnam vs. ::{ flag=TH }:: Thailand
 
-With these teams facing off, having seeded 8th and 9th in the Qualifiers respectively, Vietnam vs. Thailand was the most anticipated match of the Round of 16. After numerous break points and close calls on both ends, it came to a tiebreaker on [of Ambrosia](https://osu.ppy.sh/beatmapsets/1900478#mania/3917445), a smörgåsbord of rhythmically complex and technical patterns for 6 minutes. The scoreline was absurdly close during the entire map, but Thailand pulled through and secured their win, with [--Pavin--](https://osu.ppy.sh/users/12046267) getting a full combo.
+With these teams facing off, having seeded 8th and 9th in the Qualifiers respectively, Vietnam vs. Thailand was the most anticipated match of the Round of 16. After numerous break points and close calls on both ends, it came to a tiebreaker on [of Ambrosia](https://osu.ppy.sh/beatmapsets/1900478#mania/3917445), a smörgåsbord of rhythmically complex and technical patterns for 6 minutes. The scoreline was absurdly close during the entire map, but Thailand pulled through and secured their win, with ::--Pavin--::{ user-id=12046267 } getting a full combo.
 
 #### ::{ flag=CL }:: Chile vs. ::{ flag=CN }:: China
 
-This round also featured an absurd 999.8k score from [myucchii](https://osu.ppy.sh/users/10072733) on [Lift-off!](https://osu.ppy.sh/beatmapsets/2034984#mania/4242761) at 1.05x rate. With only 7 300s and no other bad judgments being hit, the accuracy rounded up to 100.00% on ScoreV2, a feat that has never been seen in MWC at any point in history. This is probably the only map in the tournament where an achievement like this is even close to viable, with it having been the easiest chordjack map in all the pools; but such a score is impressive nonetheless.
+This round also featured an absurd 999.8k score from ::myucchii::{ user-id=10072733 } on [Lift-off!](https://osu.ppy.sh/beatmapsets/2034984#mania/4242761) at 1.05x rate. With only 7 300s and no other bad judgments being hit, the accuracy rounded up to 100.00% on ScoreV2, a feat that has never been seen in MWC at any point in history. This is probably the only map in the tournament where an achievement like this is even close to viable, with it having been the easiest chordjack map in all the pools; but such a score is impressive nonetheless.
 
 ### Quarterfinals
 
@@ -83,7 +83,7 @@ With a final score of 6–4, Korea narrowly avoided a tiebreaker scenario agains
 
 #### ::{ flag=TH }:: Thailand vs. ::{ flag=CN }:: China
 
-Thailand and China faced off in the losers' bracket Semifinals. As a team that delivers the spiciest performances when you least expect them to, Thailand recovered from a 3–5 deficit, bringing China to the inevitable "thai-breaker". And despite a super impressive 1-miss run from [[GB]nyasun](https://osu.ppy.sh/users/16277321), Thailand takes a fabled win of 6–5, showing that their late-game abilities and grit were not to be underestimated.
+Thailand and China faced off in the losers' bracket Semifinals. As a team that delivers the spiciest performances when you least expect them to, Thailand recovered from a 3–5 deficit, bringing China to the inevitable "thai-breaker". And despite a super impressive 1-miss run from ::\1GB\1nyasun::{ user-id=16277321 }, Thailand takes a fabled win of 6–5, showing that their late-game abilities and grit were not to be underestimated.
 
 #### ::{ flag=CL }:: Chile vs. ::{ flag=VN }:: Vietnam
 
@@ -139,17 +139,17 @@ Along the way, we paid witness to some of the most impressively consistent and c
 
 ## Interviews
 
-Here are some brief snippets of player interviews conducted by [-mint-](https://osu.ppy.sh/users/8976576), to give some insight into how these players were feeling throughout the tournament.
+Here are some brief snippets of player interviews conducted by ::-mint-::{ user-id=8976576 }, to give some insight into how these players were feeling throughout the tournament.
 
 ### myucchii
 
-*Hello [myucchii](https://osu.ppy.sh/users/10072733)! Thank you so much for taking the time to do this quick interview with us. Let's just cut straight to the chase. First things first: let's talk about the tiebreaker between Chile and Vietnam. Walk us through what was going on in your mind, how you felt before, during, and after.*
+*Hello ::myucchii::{ user-id=10072733 }! Thank you so much for taking the time to do this quick interview with us. Let's just cut straight to the chase. First things first: let's talk about the tiebreaker between Chile and Vietnam. Walk us through what was going on in your mind, how you felt before, during, and after.*
 
 > **myucchii:** The match against Vietnam was overall very stressful to me. Even though I was feeling good, and the team was performing very well, we weren't getting the points we were expecting to get in the match. I was also really nervous because this was my first time getting into the semifinals. We ended up getting to the tiebreaker, [HALL](https://osu.ppy.sh/beatmapsets/2055332#mania/4294726), and I never checked the scoreboard at any point; I was only focused on comboing and trying my hardest to get my team to win. The moment I saw the final message from the referee, saying that we won the match, was probably one of the best moments I've ever experienced in my entire osu!mania career as a player, to the point where I cried because of how happy I was. Every time I scroll through my maps in the osu! menu and see HALL, I just think of that moment.
 
 *Tell us about your vision of the future for Team Chile. Do you have plans to continue to coach or develop players from your team to eventually reach the podium?*
 
-> **myucchii:** I've always had plans to continue assisting in fostering the competitive 4K environment within the Chilean community. I'm very glad to already have been able to assist players along their journeys and witness their potential manifest in real time; for instance, [MyAngelKokomi](https://osu.ppy.sh/users/8880797) and [[LS]bambi fnf](https://osu.ppy.sh/users/20360332), who had never even played in 4K MWC before, proved themselves to be two of the most capable tournament players Team Chile has seen. With them and even more players on the horizon, top 3 feels ever so slightly closer. It's still my ultimate goal to achieve in this game, and I won't ever stop trying to encourage my fellow Chilean players to share in that dream.
+> **myucchii:** I've always had plans to continue assisting in fostering the competitive 4K environment within the Chilean community. I'm very glad to already have been able to assist players along their journeys and witness their potential manifest in real time; for instance, ::MyAngelKokomi::{ user-id=8880797 } and [[LS]bambi fnf](https://osu.ppy.sh/users/20360332), who had never even played in 4K MWC before, proved themselves to be two of the most capable tournament players Team Chile has seen. With them and even more players on the horizon, top 3 feels ever so slightly closer. It's still my ultimate goal to achieve in this game, and I won't ever stop trying to encourage my fellow Chilean players to share in that dream.
 
 *Any closing thoughts?*
 
@@ -157,7 +157,7 @@ Here are some brief snippets of player interviews conducted by [-mint-](https://
 
 ### Nepijin
 
-*Congratulations to Team United States on the first place in 4K MWC 2023! [Nepijin](https://osu.ppy.sh/users/11734610), you've been playing in 4K MWC since 2021, as well as taking the leadership role as Team Captain for the past two years. You must have had quite the journey to get here; how are you feeling?*
+*Congratulations to Team United States on the first place in 4K MWC 2023! ::Nepijin::{ user-id=11734610 }, you've been playing in 4K MWC since 2021, as well as taking the leadership role as Team Captain for the past two years. You must have had quite the journey to get here; how are you feeling?*
 
 > **Nepijin:** I'm extremely ecstatic! Winning MWC has been a dream of mine ever since I started this game. From the very beginning, I've had a flame inside me to be one of the greats, and MWC always reignited it. To me, this win is a dream come true and a reflection of my growth as a player.
 
@@ -171,13 +171,13 @@ Here are some brief snippets of player interviews conducted by [-mint-](https://
 
 ### bad hd player
 
-*And here we have the captain of Team Indonesia, [bad hd player](https://osu.ppy.sh/users/13385865) a.k.a. Reyi! This is Indonesia's first time reaching the podium. Let's go back all the way, before the qualifier round even started – at that time, did you expect your team to make it to top 3? What was the original aim for your team, and did it change over the course of the tournament? What about when your team was knocked down to the lower bracket by Japan?*
+*And here we have the captain of Team Indonesia, ::bad hd player::{ user-id=13385865 } a.k.a. Reyi! This is Indonesia's first time reaching the podium. Let's go back all the way, before the qualifier round even started – at that time, did you expect your team to make it to top 3? What was the original aim for your team, and did it change over the course of the tournament? What about when your team was knocked down to the lower bracket by Japan?*
 
 > **bad hd player:** Our primary goal ever since 2021 was to get top 6. Our attitude was essentially to make sure everyone does their best, even with some mistakes. During the match against Japan, we all expected to lose against them, but that did not stop us from trying our best. After going down to the losers bracket, we were extremely confident going up against Hong Kong and Chile, and both teams fought extremely well.
 
 *Describe how you felt during the Finals weekend. After a close call with Brazil that went to a tiebreaker, and a 7-4 win against Thailand, your team fought valiantly to secure a top 3 position. What was the general atmosphere among your team? Were you feeling nervous, or excited, or a mix of both?*
 
-> **bad hd player:** Finals weekend was an absolute rollercoaster of emotions for me, and my teammates probably felt the same way. However, we didn't want to go down without a fight. One key moment of that match was our 500-point victory on Hybrid 2 ([GENE \~A mix\~](https://osu.ppy.sh/beatmapsets/2058822#mania/4303097) by [lemonguy](https://osu.ppy.sh/users/4693052)), which ultimately boosted our collective mental state going into the tiebreaker, and we came out victorious.
+> **bad hd player:** Finals weekend was an absolute rollercoaster of emotions for me, and my teammates probably felt the same way. However, we didn't want to go down without a fight. One key moment of that match was our 500-point victory on Hybrid 2 ([GENE \~A mix\~](https://osu.ppy.sh/beatmapsets/2058822#mania/4303097) by ::lemonguy::{ user-id=4693052 }), which ultimately boosted our collective mental state going into the tiebreaker, and we came out victorious.
 
 *How did you feel after winning against Thailand, knowing you had just secured a podium spot?*
 

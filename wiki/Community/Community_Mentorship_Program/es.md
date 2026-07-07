@@ -15,4 +15,4 @@ El programa se organiza a través de Discord y se gestiona en ciclos estacionale
 
 Entre 2010 y 2013, se creó una mentoría comunitaria para que los mappers sin experiencia aprendieran directamente de los miembros del [Beatmap Appreciation Team (*BAT*)](/wiki/People/Beatmap_Appreciation_Team) y del [Mapping Assistance Team (*MAT*)](/wiki/People/Mapping_Assistance_Team).
 
-Este programa fue organizado por [Ephemeral](https://osu.ppy.sh/users/102335), [Shiro](https://osu.ppy.sh/users/113005) y [Kurai](https://osu.ppy.sh/users/77089), cada uno en diferentes momentos de su historia.
+Este programa fue organizado por ::Ephemeral::{ user-id=102335 }, [Shiro](https://osu.ppy.sh/users/113005) y ::Kurai::{ user-id=77089 }, cada uno en diferentes momentos de su historia.

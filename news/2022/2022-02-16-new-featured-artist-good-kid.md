@@ -13,7 +13,7 @@ While rhythm games tend to focus on complicated electronic songs, we're changing
 
 **10** tracks from their full discography are here to stay. Check them out from [**Good Kid**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/240), then pick your favourite to begin your inevitable mapping journey.
 
-**Good Kid** might not be a household name on osu! yet, but they're bound to be soon. To get your mapping juices flowing, watch [-Noel-](https://osu.ppy.sh/users/9805331) play through [Good Kid - Alchemist](https://osu.ppy.sh/beatmapsets/1689430) using the new "Alternate" mod, then sample a few more songs below:
+**Good Kid** might not be a household name on osu! yet, but they're bound to be soon. To get your mapping juices flowing, watch ::-Noel-::{ user-id=9805331 } play through [Good Kid - Alchemist](https://osu.ppy.sh/beatmapsets/1689430) using the new "Alternate" mod, then sample a few more songs below:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ While rhythm games tend to focus on complicated electronic songs, we're changing
 
 ### Alchemist
 
-Test your alternating skills on [the beatmap from the video above](https://osu.ppy.sh/beatmapsets/1689430) hosted by [elicz1](https://osu.ppy.sh/users/8039342)!
+Test your alternating skills on [the beatmap from the video above](https://osu.ppy.sh/beatmapsets/1689430) hosted by ::elicz1::{ user-id=8039342 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/240/Good%20Kid/Good%20Kid%20-%20Alchemist.mp3" type="audio/mpeg">

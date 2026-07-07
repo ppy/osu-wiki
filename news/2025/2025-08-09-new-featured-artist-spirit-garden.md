@@ -17,7 +17,7 @@ Preview these tunes for yourself:
 
 ### [SPIRIT GARDEN \* - Continue](https://assets.ppy.sh/artists/489/Songs/SPIRIT%20GARDEN%20%20-%20Continue.osz) (180 BPM)
 
-Experience [**SPIRIT GARDEN \***'s first Ranked beatmap](https://osu.ppy.sh/beatmapsets/2343693) hosted by [Nelly](https://osu.ppy.sh/users/4741164) directly through [Pieter](https://osu.ppy.sh/users/11081858)'s fingertips at [COE 2025](/wiki/Community/cavoe's_osu!_event)!
+Experience [**SPIRIT GARDEN \***'s first Ranked beatmap](https://osu.ppy.sh/beatmapsets/2343693) hosted by ::Nelly::{ user-id=4741164 } directly through ::Pieter::{ user-id=11081858 }'s fingertips at [COE 2025](/wiki/Community/cavoe's_osu!_event)!
 
 <div align="center" class="osu-md__paragraph">
     <video width="75%" controls>

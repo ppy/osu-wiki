@@ -19,7 +19,7 @@ Give them a listen below:
 
 ### Cartoon Candy
 
-Check out [this popular hybrid set](https://osu.ppy.sh/beatmapsets/585435) hosted by [Charlotte](https://osu.ppy.sh/users/3686901)!
+Check out [this popular hybrid set](https://osu.ppy.sh/beatmapsets/585435) hosted by ::Charlotte::{ user-id=3686901 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/96/previews/2542.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this popular hybrid set](https://osu.ppy.sh/beatmapsets/585435) hoste
 
 ### Sulyvahn \[feat. USAO\]
 
-Check out [this collaborative osu! set](https://osu.ppy.sh/beatmapsets/787583) hosted by [Testo](https://osu.ppy.sh/users/5200881), and [this osu!mania set](https://osu.ppy.sh/beatmapsets/965114) by [Eon](https://osu.ppy.sh/users/3443963)!
+Check out [this collaborative osu! set](https://osu.ppy.sh/beatmapsets/787583) hosted by ::Testo::{ user-id=5200881 }, and [this osu!mania set](https://osu.ppy.sh/beatmapsets/965114) by ::Eon::{ user-id=3443963 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/96/previews/2555.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this collaborative osu! set](https://osu.ppy.sh/beatmapsets/787583) h
 
 ### Tool-Assisted Speedcore (TQBF Frame Advance RMX)
 
-Check out [this Loved challenge difficulty](https://osu.ppy.sh/beatmapsets/782508) from [Mismagius](https://osu.ppy.sh/users/19048)!
+Check out [this Loved challenge difficulty](https://osu.ppy.sh/beatmapsets/782508) from ::Mismagius::{ user-id=19048 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/96/previews/2558.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Check out [this Loved challenge difficulty](https://osu.ppy.sh/beatmapsets/78250
 
 ### Kumo No Kireme \[feat. kourin\]
 
-Check out [this Loved osu!mania set](https://osu.ppy.sh/beatmapsets/271493) by [Quick Draw](https://osu.ppy.sh/users/3174286)!
+Check out [this Loved osu!mania set](https://osu.ppy.sh/beatmapsets/271493) by ::Quick Draw::{ user-id=3174286 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/96/previews/2549.mp3" type="audio/mpeg">
@@ -51,7 +51,7 @@ Check out [this Loved osu!mania set](https://osu.ppy.sh/beatmapsets/271493) by [
 
 ### New Game Plus
 
-Check out [this osu!taiko set](https://osu.ppy.sh/beatmapsets/797710) by [Nepuri](https://osu.ppy.sh/users/6637817)!
+Check out [this osu!taiko set](https://osu.ppy.sh/beatmapsets/797710) by ::Nepuri::{ user-id=6637817 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/96/previews/2552.mp3" type="audio/mpeg">

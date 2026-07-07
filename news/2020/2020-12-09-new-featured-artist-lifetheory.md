@@ -21,7 +21,7 @@ In case you weren't with us yet when the **Lifetheory** craze was at its peak, c
     </video>
 </div>
 
-Still need more convincing? We've got you covered — check out the trilogy of maps that started it all, all mapped by [Zare](https://osu.ppy.sh/users/1437117):
+Still need more convincing? We've got you covered — check out the trilogy of maps that started it all, all mapped by ::Zare::{ user-id=1437117 }:
 
 ### Daisy
 

@@ -11,7 +11,7 @@ series: featured_artists
 
 Making waves in the Vocaloid scene for years with his unique take on instrumentation and composition, **Numtack05** (also known as *Putin-P* and *Teihen-P*) is a Japanese composer and producer who has been gaining attention in the osu! community as of late.
 
-Avid Vocaloid mappers like [Noffy](https://osu.ppy.sh/users/1541323) have been hard at work bringing his creations to life in beatmap form, and we're excited to announce that a selection of his works are now officially nestled under the Featured Artist banner.
+Avid Vocaloid mappers like ::Noffy::{ user-id=1541323 } have been hard at work bringing his creations to life in beatmap form, and we're excited to announce that a selection of his works are now officially nestled under the Featured Artist banner.
 
 **15** tracks from across his sprawling discography are now available, complete with a new showcase map from the ever-talented Mappers' Guild.
 
@@ -19,7 +19,7 @@ Check it all out:
 
 ### Genkaku Catastrophe
 
-Check out [this set](https://osu.ppy.sh/beatmapsets/675086) by [Noffy](https://osu.ppy.sh/users/1541323)!
+Check out [this set](https://osu.ppy.sh/beatmapsets/675086) by ::Noffy::{ user-id=1541323 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/90/previews/2374.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this set](https://osu.ppy.sh/beatmapsets/675086) by [Noffy](https://o
 
 ### Oshimai da ze!
 
-Check out [this Mappers' Guild showcase set](https://osu.ppy.sh/beatmapsets/1001813) by [Arphimigon](https://osu.ppy.sh/users/5392762)!
+Check out [this Mappers' Guild showcase set](https://osu.ppy.sh/beatmapsets/1001813) by ::Arphimigon::{ user-id=5392762 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/90/previews/2381.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this Mappers' Guild showcase set](https://osu.ppy.sh/beatmapsets/1001
 
 ### kimi no hitomi ni
 
-Check out [this collaborative marathon set](https://osu.ppy.sh/beatmapsets/632589) by [Noffy](https://osu.ppy.sh/users/1541323) and [Arphimigon](https://osu.ppy.sh/users/5392762), as well as [this solo marathon](https://osu.ppy.sh/beatmapsets/1103070) from [L3NNy](https://osu.ppy.sh/users/11756041)
+Check out [this collaborative marathon set](https://osu.ppy.sh/beatmapsets/632589) by ::Noffy::{ user-id=1541323 } and [Arphimigon](https://osu.ppy.sh/users/5392762), as well as [this solo marathon](https://osu.ppy.sh/beatmapsets/1103070) from ::L3NNy::{ user-id=11756041 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/90/previews/2385.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Check out [this collaborative marathon set](https://osu.ppy.sh/beatmapsets/63258
 
 ### Ikari
 
-Check out [this recent collaborative set](https://osu.ppy.sh/beatmapsets/1031812) hosted by [Noffy](https://osu.ppy.sh/users/1541323)!
+Check out [this recent collaborative set](https://osu.ppy.sh/beatmapsets/1031812) hosted by ::Noffy::{ user-id=1541323 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/90/previews/2376.mp3" type="audio/mpeg">

@@ -25,7 +25,7 @@ Looking for a fresh taste of **Kurubukko**'s sound? We've organized a few [showc
 
 ### Kurubukko - Rain
 
-Check out [this showcase map](https://osu.ppy.sh/beatmapsets/1578257) hosted by [Gibune](https://osu.ppy.sh/users/5778687) and featured in the video above!
+Check out [this showcase map](https://osu.ppy.sh/beatmapsets/1578257) hosted by ::Gibune::{ user-id=5778687 } and featured in the video above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/217/Songs/Kurubukko%20-%20Rain.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out [this showcase map](https://osu.ppy.sh/beatmapsets/1578257) hosted by 
 
 ### Kurubukko - The 84th Flight
 
-Try [this BPM-changing map](https://osu.ppy.sh/beatmapsets/1577313) hosted by a frequent contributor to Featured Artist mapping: [Niva](https://osu.ppy.sh/users/197805)!
+Try [this BPM-changing map](https://osu.ppy.sh/beatmapsets/1577313) hosted by a frequent contributor to Featured Artist mapping: ::Niva::{ user-id=197805 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/217/Songs/Kurubukko%20-%20The%2084th%20Flight.mp3" type="audio/mpeg">

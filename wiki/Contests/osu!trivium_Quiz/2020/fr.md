@@ -7,7 +7,7 @@ tags:
 
 # osu!trivium Quiz 2020
 
-Le **osu!trivium Quiz 2020** était un concours de quiz osu! gratuit organisé par ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718). Il s'agissait du premier osu!trivium Quiz, le quiz le plus difficile au monde sur osu!.
+Le **osu!trivium Quiz 2020** était un concours de quiz osu! gratuit organisé par ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 }. Il s'agissait du premier osu!trivium Quiz, le quiz le plus difficile au monde sur osu!.
 
 Des équipes de 4 personnes maximum se sont affrontées en répondant à des questions sur l'histoire du jeu, des faits obscurs et divers événements bizarres survenus dans la communauté au fil des ans.
 
@@ -35,8 +35,8 @@ Le osu!trivium Quiz 2020 a été organisé par divers membres de la communauté.
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Hôte | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Assistant | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) |
+| Hôte | ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 } |
+| Assistant | ::{ flag=AU }:: ::Jaye::{ user-id=4841352 }, ::{ flag=AT }:: ::Omgforz::{ user-id=578943 }, ::{ flag=AR }:: ::juankristal::{ user-id=443656 }, ::{ flag=ES }:: ::Deif::{ user-id=318565 }, ::{ flag=US }:: ::HappyStick::{ user-id=256802 } |
 
 ## Liens
 
@@ -51,9 +51,9 @@ Cette compétition s'est achevée sur le podium suivant :
 
 | Placement | Équipe | Joueurs |
 | :-: | :-- | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | nerd neck esoteric collection of individuals | ::{ flag=US }:: [1103](https://osu.ppy.sh/users/7306698), ::{ flag=US }:: [GalacticLightN](https://osu.ppy.sh/users/4772172), ::{ flag=US }:: [Leebs](https://osu.ppy.sh/users/7636779), ::{ flag=US }:: [headstack](https://osu.ppy.sh/users/10322186) |
-| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | 21 | ::{ flag=CL }:: [Barack](https://osu.ppy.sh/users/9402889), ::{ flag=CL }:: [Eunha](https://osu.ppy.sh/users/7701428), ::{ flag=CL }:: [kanocchi](https://osu.ppy.sh/users/2321050), ::{ flag=CL }:: [saumensch](https://osu.ppy.sh/users/18157510) |
-| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | 5 | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621), ::{ flag=US }:: [icedtea](https://osu.ppy.sh/users/9631242) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | nerd neck esoteric collection of individuals | ::{ flag=US }:: ::1103::{ user-id=7306698 }, ::{ flag=US }:: ::GalacticLightN::{ user-id=4772172 }, ::{ flag=US }:: ::Leebs::{ user-id=7636779 }, ::{ flag=US }:: ::headstack::{ user-id=10322186 } |
+| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | 21 | ::{ flag=CL }:: ::Barack::{ user-id=9402889 }, ::{ flag=CL }:: ::Eunha::{ user-id=7701428 }, ::{ flag=CL }:: ::kanocchi::{ user-id=2321050 }, ::{ flag=CL }:: ::saumensch::{ user-id=18157510 } |
+| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | 5 | ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 }, ::{ flag=MY }:: ::cdh::{ user-id=2403621 }, ::{ flag=US }:: ::icedtea::{ user-id=9631242 } |
 
 ## Réponses au quiz
 
@@ -69,4 +69,4 @@ Vous trouverez ci-dessous une liste de liens vers les réponses à chaque questi
 
 ## Règlement
 
-- Vous ne pouvez pas demander à [mangomizer](https://osu.ppy.sh/users/1893718) des informations, des conseils ou des réponses.
+- Vous ne pouvez pas demander à ::mangomizer::{ user-id=1893718 } des informations, des conseils ou des réponses.

@@ -23,7 +23,7 @@ Ever wondered how many people recognize osu! out in the wild? The answer is *a l
 
 ### The Title Track
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1396156) hosted by [Mimari](https://osu.ppy.sh/users/14339830) or [this healthier alternative](https://osu.ppy.sh/beatmapsets/1503591) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1396156) hosted by ::Mimari::{ user-id=14339830 } or [this healthier alternative](https://osu.ppy.sh/beatmapsets/1503591) hosted by ::Jemzuu::{ user-id=7890134 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/269/Somewhere%20City%2FOrigami%20Angel%20-%20The%20Title%20Track.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1396156)
 
 ### 24 Hr Drive-Thru
 
-If you're looking for something easier, try [this chill mapset](https://osu.ppy.sh/beatmapsets/1724847) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302)!
+If you're looking for something easier, try [this chill mapset](https://osu.ppy.sh/beatmapsets/1724847) hosted by ::SMOKELIND::{ user-id=9327302 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/269/Somewhere%20City%2FOrigami%20Angel%20-%2024%20Hr%20Drive-Thru.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ If you're looking for something easier, try [this chill mapset](https://osu.ppy.
 
 ### Neutrogena Spektor
 
-If that last map was too easy, [this mapset](https://osu.ppy.sh/beatmapsets/1654912) hosted by top player [Rektygon](https://osu.ppy.sh/users/7813296) should be your next priority.
+If that last map was too easy, [this mapset](https://osu.ppy.sh/beatmapsets/1654912) hosted by top player ::Rektygon::{ user-id=7813296 } should be your next priority.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/269/GAMI%20GANG%2FOrigami%20Angel%20-%20Neutrogena%20Spektor.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ If that last map was too easy, [this mapset](https://osu.ppy.sh/beatmapsets/1654
 
 ### Escape Rope
 
-You need more maps. Try [this one](https://osu.ppy.sh/beatmapsets/1757733) hosted by [Altai](https://osu.ppy.sh/users/5745865).
+You need more maps. Try [this one](https://osu.ppy.sh/beatmapsets/1757733) hosted by ::Altai::{ user-id=5745865 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/269/Somewhere%20City%2FOrigami%20Angel%20-%20Escape%20Rope.mp3" type="audio/mpeg">
@@ -55,7 +55,7 @@ You need more maps. Try [this one](https://osu.ppy.sh/beatmapsets/1757733) hoste
 
 ### 666 Flags
 
-Here's [the most intense map of them all](https://osu.ppy.sh/beatmapsets/1396650) hosted by [WashedUp Player](https://osu.ppy.sh/users/9112395) and maxing out at 7.5 stars!
+Here's [the most intense map of them all](https://osu.ppy.sh/beatmapsets/1396650) hosted by ::WashedUp Player::{ user-id=9112395 } and maxing out at 7.5 stars!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/269/Somewhere%20City%2FOrigami%20Angel%20-%20666%20Flags.mp3" type="audio/mpeg">

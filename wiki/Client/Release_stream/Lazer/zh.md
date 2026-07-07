@@ -32,7 +32,7 @@ tags:
 
 ## 历史
 
-在 2015 年中时，osu! 的首席设计师 [flyte](https://osu.ppy.sh/users/3103765) 启动了这个项目[^peppy-2017]，它作为稳定版客户端界面的新设计使用，代码名称为 "osu!next"。同年发布的[预告片](https://www.youtube.com/watch?v=lrWyqpNUwBo)首次展示了这一项目。
+在 2015 年中时，osu! 的首席设计师 ::flyte::{ user-id=3103765 } 启动了这个项目[^peppy-2017]，它作为稳定版客户端界面的新设计使用，代码名称为 "osu!next"。同年发布的[预告片](https://www.youtube.com/watch?v=lrWyqpNUwBo)首次展示了这一项目。
 
 从 2016 年开始，flyte 的[设计博客](https://osunext.tumblr.com/)上开始发布草稿版本。
 

@@ -18,7 +18,7 @@ Der Spielstil wird weithin als die schwerste Methode zum Spielen betrachtet und 
 
 Doppelmaus ist ein Spielstil, in welchem ein Spieler eine Maus in jeder Hand hat. Dabei wird eine Maus zum Tippen und die andere Maus zum Bewegen des Cursors im Spiel verwendet.
 
-Diese Spielweise wurde von den meisten Spielern als ein Scherz angesehen, bis im Mai 2013 der kanadische Spieler ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) Top-Scores auf hoch angesehenen Beatmaps wie [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) und [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) bekam, während er mit zwei Mäusen spielte.
+Diese Spielweise wurde von den meisten Spielern als ein Scherz angesehen, bis im Mai 2013 der kanadische Spieler ::{ flag=CA }:: ::Azer::{ user-id=2155578 } Top-Scores auf hoch angesehenen Beatmaps wie [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) und [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) bekam, während er mit zwei Mäusen spielte.
 
 *Anmerkung: Es ist auch üblich für Doppelmaus-Spieler die Maus, die für das Tippen benutzt wird, mit Hilfe von Klebeband an den Schreibtisch zu kleben.*
 

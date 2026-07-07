@@ -9,7 +9,7 @@ Another year of furious fruit catching competition has commenced in earnest, wit
 
 ![](/wiki/shared/news/banners/CWC_2018_banner.jpg)
 
-Greetings everyone, [JBHyperion](https://osu.ppy.sh/users/4879508) here to once again bring you an update on all the action from this year’s edition of the osu!catch World Cup. As in previous editions, more than 180 of the best players, representing 32 countries, are seeking the ultimate prize in fruit catching – a chance to forever etch their names in history as _osu!catch Champions_.
+Greetings everyone, ::JBHyperion::{ user-id=4879508 } here to once again bring you an update on all the action from this year’s edition of the osu!catch World Cup. As in previous editions, more than 180 of the best players, representing 32 countries, are seeking the ultimate prize in fruit catching – a chance to forever etch their names in history as _osu!catch Champions_.
 
 The osu!catch World Cup 2018 is already well underway, with the Group Stage having concluded this past weekend, but if you’re keen to find out how your favourite team performed, you’re in luck! VODs from the whole weekend are available on the [osu!live Twitch channel](https://www.twitch.tv/osulive).
 

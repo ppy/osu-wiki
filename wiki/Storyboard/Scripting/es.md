@@ -24,4 +24,4 @@ Véase los siguientes artículos:
 
 ## Herramientas de la comunidad
 
-La comunidad ha creado varias herramientas para abstraer y desarrollar secuencias de comandos de los storyboards, como la herramienta [storybrew](https://github.com/Damnae/storybrew "«repositorio de GitHub»"), hecha por ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377).
+La comunidad ha creado varias herramientas para abstraer y desarrollar secuencias de comandos de los storyboards, como la herramienta [storybrew](https://github.com/Damnae/storybrew "«repositorio de GitHub»"), hecha por ::{ flag=FR }:: ::Damnae::{ user-id=989377 }.

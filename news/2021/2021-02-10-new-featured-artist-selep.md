@@ -11,11 +11,11 @@ We're proud to welcome **seleP**, the artist behind *Scarlet Rose* aboard as our
 
 Whether you're a new player or you quit half a decade ago, you're likely more-than-familiar with the works of **seleP** — a Japanese producer with a massive library of electronic VOCALOID masterpieces.
 
-**seleP** took the osu! spotlight in early 2012 thanks to [val0108](https://osu.ppy.sh/users/243917)'s legendary beatmap of [Scarlet Rose](https://osu.ppy.sh/beatmapsets/41686), amassing more than 8 million plays to date and a reputation as one of the game's hardest beatmaps at the time. Along with a [handful of other well-liked maps](https://osu.ppy.sh/beatmapsets?q=selep), this artist rose to fame as a staple for the osu! community.
+**seleP** took the osu! spotlight in early 2012 thanks to ::val0108::{ user-id=243917 }'s legendary beatmap of [Scarlet Rose](https://osu.ppy.sh/beatmapsets/41686), amassing more than 8 million plays to date and a reputation as one of the game's hardest beatmaps at the time. Along with a [handful of other well-liked maps](https://osu.ppy.sh/beatmapsets?q=selep), this artist rose to fame as a staple for the osu! community.
 
 As of today, that legendary status has been officialized through **seleP** inclusion in our Featured Artists! We've got **24** new tracks ready for mapping spread across their 5 albums.
 
-In case you're the one osu! player who still hasn't heard these songs (yes, I'm talking to you Tim), feel free to sample any of the previews or watch [Aireu](https://osu.ppy.sh/users/1650010) play with low approach rates below:
+In case you're the one osu! player who still hasn't heard these songs (yes, I'm talking to you Tim), feel free to sample any of the previews or watch ::Aireu::{ user-id=1650010 } play with low approach rates below:
 
 <div align="center">
     <video width="95%" controls>
@@ -25,7 +25,7 @@ In case you're the one osu! player who still hasn't heard these songs (yes, I'm 
 
 ### Scarlet Rose
 
-Play the [classic map](https://osu.ppy.sh/beatmapsets/41686) by [val0108](https://osu.ppy.sh/users/243917) or try this [more modern interpretation](https://osu.ppy.sh/beatmapsets/528089) by [pkk](https://osu.ppy.sh/users/3620525)!
+Play the [classic map](https://osu.ppy.sh/beatmapsets/41686) by ::val0108::{ user-id=243917 } or try this [more modern interpretation](https://osu.ppy.sh/beatmapsets/528089) by ::pkk::{ user-id=3620525 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/138/LILIUM%20DOLL/seleP%20-%20Scarlet%20Rose.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Play the [classic map](https://osu.ppy.sh/beatmapsets/41686) by [val0108](https:
 
 ### Chloe
 
-Try out another [old-school map](https://osu.ppy.sh/beatmapsets/20201) by [Kochiya Sanae](https://osu.ppy.sh/users/395591)!
+Try out another [old-school map](https://osu.ppy.sh/beatmapsets/20201) by ::Kochiya Sanae::{ user-id=395591 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/138/Marie%C3%97Luise/seleP%20-%20Chloe.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Try out another [old-school map](https://osu.ppy.sh/beatmapsets/20201) by [Kochi
 
 ### Remember Me
 
-Play this massive [osu! x osu!taiko x osu!mania mapset](https://osu.ppy.sh/beatmapsets/110547) hosted by [Bara-](https://osu.ppy.sh/users/2533040)!
+Play this massive [osu! x osu!taiko x osu!mania mapset](https://osu.ppy.sh/beatmapsets/110547) hosted by ::Bara-::{ user-id=2533040 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/138/LILIUM%20DOLL/seleP%20-%20Remember%20me.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Play this massive [osu! x osu!taiko x osu!mania mapset](https://osu.ppy.sh/beatm
 
 ### December 9th
 
-Check out this [easier mapset](https://osu.ppy.sh/beatmapsets/46623) by [spboxer3](https://osu.ppy.sh/users/197974)!
+Check out this [easier mapset](https://osu.ppy.sh/beatmapsets/46623) by ::spboxer3::{ user-id=197974 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/138/LILIUM%20DOLL/seleP%20-%20December%209th.mp3" type="audio/mpeg">

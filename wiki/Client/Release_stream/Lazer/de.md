@@ -31,7 +31,7 @@ tags:
 
 ## Geschichte
 
-Das Projekt startete Mitte 2015[^peppy-2017] als ein neues Design für die Benutzeroberfläche des Stable-Clients, welche "osu!next" genannt wurde und von [flyte](https://osu.ppy.sh/users/3103765), dem führenden Designer von osu!, erstellt wurde. Dies wurde erstmals in einem [Teaser-Video](https://www.youtube.com/watch?v=lrWyqpNUwBo) noch im selben Jahr vorgestellt.
+Das Projekt startete Mitte 2015[^peppy-2017] als ein neues Design für die Benutzeroberfläche des Stable-Clients, welche "osu!next" genannt wurde und von ::flyte::{ user-id=3103765 }, dem führenden Designer von osu!, erstellt wurde. Dies wurde erstmals in einem [Teaser-Video](https://www.youtube.com/watch?v=lrWyqpNUwBo) noch im selben Jahr vorgestellt.
 
 Die Entwürfe wurden ab 2016 auf dem [Design-Blog](https://osunext.tumblr.com/) von flyte hochgeladen.
 

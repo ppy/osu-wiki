@@ -25,10 +25,10 @@ Inspire yourself with some of the beatmaps that brought **tsunamix** to osu!, th
 
 Check out any of these awesome maps:
 
-- [The first of many osu! maps](https://osu.ppy.sh/beatmapsets/223092) hosted by [TicClick](https://osu.ppy.sh/users/672931)
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1550437) hosted by [Horiiizon](https://osu.ppy.sh/users/8071438)
-- [Newer osu! map](https://osu.ppy.sh/beatmapsets/1742131) hosted by [Skubi](https://osu.ppy.sh/users/3687666)
-- [Newest osu! map](https://osu.ppy.sh/beatmapsets/1594769) hosted by [bob](https://osu.ppy.sh/users/5346261)
+- [The first of many osu! maps](https://osu.ppy.sh/beatmapsets/223092) hosted by ::TicClick::{ user-id=672931 }
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1550437) hosted by ::Horiiizon::{ user-id=8071438 }
+- [Newer osu! map](https://osu.ppy.sh/beatmapsets/1742131) hosted by ::Skubi::{ user-id=3687666 }
+- [Newest osu! map](https://osu.ppy.sh/beatmapsets/1594769) hosted by ::bob::{ user-id=5346261 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/329/Songs/tsunamix%20-%20Period.%20~%20Seishin%20no%20Kousoku%20to%20Jiyuu%20o%20Tsukamu%20Jouka.mp3" type="audio/mpeg">

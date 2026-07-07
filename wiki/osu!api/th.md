@@ -18,4 +18,4 @@ osu! มี [API](https://en.wikipedia.org/wiki/API) สาธารณะให
 
 ## เพิ่มเติม
 
-- โพสต์ฟอรั่มอันดั้งเดิม [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) โดย [peppy](https://osu.ppy.sh/users/2)
+- โพสต์ฟอรั่มอันดั้งเดิม [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) โดย ::peppy::{ user-id=2 }

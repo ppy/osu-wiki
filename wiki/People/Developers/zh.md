@@ -22,39 +22,39 @@ osu! 的开发者可以通过其粉红色的用户名、**osu!dev** 或 **osu!te
 
 [开发者小组页面](https://osu.ppy.sh/groups/11)列出了所有在任团队成员。
 
-osu! 的开发工作由 osu! 的创始人 ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)** 所领导。
+osu! 的开发工作由 osu! 的创始人 ::{ flag=AU }:: **::peppy::{ user-id=2 }** 所领导。
 
 ### 游戏客户端开发
 
-- ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660)
-- ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502)
-- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
-- ::{ flag=PL }:: [spaceman\_atlas](https://osu.ppy.sh/users/3035836)
+- ::{ flag=SK }:: ::Domco::{ user-id=3562660 }
+- ::{ flag=SA }:: ::frenzibyte::{ user-id=14210502 }
+- ::{ flag=AU }:: ::peppy::{ user-id=2 }
+- ::{ flag=AU }:: ::smoogipoo::{ user-id=1040328 }
+- ::{ flag=PL }:: ::spaceman\_atlas::{ user-id=3035836 }
 
 ### 基础架构开发
 
-- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
+- ::{ flag=AU }:: ::peppy::{ user-id=2 }
+- ::{ flag=FR }:: ::ThePooN::{ user-id=718454 }
 
 ### 网站开发
 
-- ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883)
-- ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)
-- ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776)
+- ::{ flag=JP }:: ::nanaya::{ user-id=2387883 }
+- ::{ flag=AU }:: ::nekodex::{ user-id=102 }
+- ::{ flag=JP }:: ::notbakaneko::{ user-id=10751776 }
 
 ### 设计
 
-- ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765)
+- ::{ flag=MY }:: ::flyte::{ user-id=3103765 }
 
 ### 社区管理
 
-- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
+- ::{ flag=AU }:: ::peppy::{ user-id=2 }
+- ::{ flag=AU }:: ::smoogipoo::{ user-id=1040328 }
 
 ### 机器人账户
 
-- ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397)
+- ::{ flag=AU }:: ::osu!team::{ user-id=4341397 }
 
 ### 贡献者
 
@@ -64,31 +64,31 @@ osu! 的开发工作由 osu! 的创始人 ::{ flag=AU }:: **[peppy](https://osu.
 
 *关于在 osu! 项目的详细贡献信息，请参阅：[`osu` 仓库的贡献者](https://github.com/ppy/osu/graphs/contributors)*
 
-- ::{ flag=CA }:: [DrabWeb](https://osu.ppy.sh/users/6946022)
-- ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706)
-- ::{ flag=BY }:: [EVAST](https://osu.ppy.sh/users/8195163)
-- ::{ flag=CN }:: [huoyaoyuan](https://osu.ppy.sh/users/2428732)
-- ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835)
+- ::{ flag=CA }:: ::DrabWeb::{ user-id=6946022 }
+- ::{ flag=JP }:: ::ekr::{ user-id=4497706 }
+- ::{ flag=BY }:: ::EVAST::{ user-id=8195163 }
+- ::{ flag=CN }:: ::huoyaoyuan::{ user-id=2428732 }
+- ::{ flag=US }:: ::Joehu::{ user-id=8549835 }
 
 #### osu!framework
 
 *关于在 osu!framework 项目的详细贡献信息，请参阅：[`osu-framework` 仓库的贡献者](https://github.com/ppy/osu-framework/graphs/contributors)*
 
-- ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706)
-- ::{ flag=CN }:: [huoyaoyuan](https://osu.ppy.sh/users/2428732)
-- ::{ flag=AU }:: [Samah](https://osu.ppy.sh/users/343490)
-- ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305)
-- ::{ flag=RU }:: [TocoToucan](https://osu.ppy.sh/users/1326350)
+- ::{ flag=JP }:: ::ekr::{ user-id=4497706 }
+- ::{ flag=CN }:: ::huoyaoyuan::{ user-id=2428732 }
+- ::{ flag=AU }:: ::Samah::{ user-id=343490 }
+- ::{ flag=HR }:: ::Susko3::{ user-id=18945305 }
+- ::{ flag=RU }:: ::TocoToucan::{ user-id=1326350 }
 
 #### osu!web
 
 *关于在 osu!web 项目的详细贡献信息，请参阅：[`osu-web` 仓库的贡献者](https://github.com/ppy/osu-web/graphs/contributors)*
 
-- ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350)
-- ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349)
-- ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384)
-- ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705)
-- ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631)
+- ::{ flag=US }:: ::clayton::{ user-id=3666350 }
+- ::{ flag=ID }:: ::GPR::{ user-id=10721349 }
+- ::{ flag=PL }:: ::LiquidPL::{ user-id=5044384 }
+- ::{ flag=PL }:: ::TPGPL::{ user-id=3944705 }
+- ::{ flag=PL }:: ::Venix::{ user-id=5999631 }
 
 ## 已退休的贡献者
 
@@ -96,6 +96,6 @@ osu! 的开发工作由 osu! 的创始人 ::{ flag=AU }:: **[peppy](https://osu.
 
 | User | Role |
 | :-- | :-- |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | 社区管理 |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | 游戏客户端开发 |
-| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | 游戏客户端开发 |
+| ::{ flag=AU }:: ::Ephemeral::{ user-id=102335 } | 社区管理 |
+| ::{ flag=NO }:: ::MillhioreF::{ user-id=941094 } | 游戏客户端开发 |
+| ::{ flag=DE }:: ::Tom94::{ user-id=1857058 } | 游戏客户端开发 |

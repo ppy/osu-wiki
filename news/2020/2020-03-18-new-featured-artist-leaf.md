@@ -17,7 +17,7 @@ In case you're not in the know, check out a sample of some of his work below:
 
 ### Aleph-0
 
-Check out this [Loved beatmap](https://osu.ppy.sh/beatmapsets/884669) by [Mr HeliX](https://osu.ppy.sh/users/2330619), and this [popular Loved osu!mania chart](https://osu.ppy.sh/beatmapsets/518951) by [jakads](https://osu.ppy.sh/users/259972)!
+Check out this [Loved beatmap](https://osu.ppy.sh/beatmapsets/884669) by ::Mr HeliX::{ user-id=2330619 }, and this [popular Loved osu!mania chart](https://osu.ppy.sh/beatmapsets/518951) by ::jakads::{ user-id=259972 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/73/previews/1980.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out this [Loved beatmap](https://osu.ppy.sh/beatmapsets/884669) by [Mr Hel
 
 ### Calamity Fortune
 
-Check out this [extremely popular classic beatmap](https://osu.ppy.sh/beatmapsets/96103) hosted by [Flower](https://osu.ppy.sh/users/1033017)!
+Check out this [extremely popular classic beatmap](https://osu.ppy.sh/beatmapsets/96103) hosted by ::Flower::{ user-id=1033017 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/73/previews/1984.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out this [extremely popular classic beatmap](https://osu.ppy.sh/beatmapset
 
 ### Evanescent
 
-Check out this [rule-breaking winner of the first Aspire beatmapping contest](https://osu.ppy.sh/beatmapsets/227126) created by [Charles445](https://osu.ppy.sh/users/85000), and this [popular hybrid set](https://osu.ppy.sh/beatmapsets/440997) hosted by [Anxient](https://osu.ppy.sh/users/4561368)!
+Check out this [rule-breaking winner of the first Aspire beatmapping contest](https://osu.ppy.sh/beatmapsets/227126) created by ::Charles445::{ user-id=85000 }, and this [popular hybrid set](https://osu.ppy.sh/beatmapsets/440997) hosted by ::Anxient::{ user-id=4561368 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/73/previews/1989.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Check out this [rule-breaking winner of the first Aspire beatmapping contest](ht
 
 ### I
 
-Check out this [popular beatmap](https://osu.ppy.sh/beatmapsets/99244) hosted by [Maddy](https://osu.ppy.sh/users/870584)!
+Check out this [popular beatmap](https://osu.ppy.sh/beatmapsets/99244) hosted by ::Maddy::{ user-id=870584 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/73/previews/1991.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Check out this [popular beatmap](https://osu.ppy.sh/beatmapsets/99244) hosted by
 
 ### MEPHISTO
 
-Check out this [popular classic beatmap](https://osu.ppy.sh/beatmapsets/106212) hosted by [Alumetorz](https://osu.ppy.sh/users/1145984)!
+Check out this [popular classic beatmap](https://osu.ppy.sh/beatmapsets/106212) hosted by ::Alumetorz::{ user-id=1145984 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/73/previews/1996.mp3" type="audio/mpeg">
@@ -57,7 +57,7 @@ Check out this [popular classic beatmap](https://osu.ppy.sh/beatmapsets/106212) 
 
 ### Wizdomiot
 
-Check out this [popular beatmap](https://osu.ppy.sh/beatmapsets/336099) created by [Asahina Momoko](https://osu.ppy.sh/users/3650145)!
+Check out this [popular beatmap](https://osu.ppy.sh/beatmapsets/336099) created by ::Asahina Momoko::{ user-id=3650145 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/73/previews/2005.mp3" type="audio/mpeg">

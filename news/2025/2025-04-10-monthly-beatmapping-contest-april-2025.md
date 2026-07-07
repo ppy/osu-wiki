@@ -36,8 +36,8 @@ This contest required all maps to use **equal difficulty settings**. [See the fu
 
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Sadu](https://osu.ppy.sh/users/16301262) | [Annabel - glimmer](https://osu.ppy.sh/beatmapsets/2352099) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| Runner-up | [Jemzuu](https://osu.ppy.sh/users/7890134) | [Ester - Abandoned Planet](https://osu.ppy.sh/beatmapsets/2353158) | - | +1 (7 total) |
+| Winner | ::Sadu::{ user-id=16301262 } | [Annabel - glimmer](https://osu.ppy.sh/beatmapsets/2352099) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
+| Runner-up | ::Jemzuu::{ user-id=7890134 } | [Ester - Abandoned Planet](https://osu.ppy.sh/beatmapsets/2353158) | - | +1 (7 total) |
 
 #### Top submissions
 
@@ -45,7 +45,7 @@ This contest required all maps to use **equal difficulty settings**. [See the fu
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/HHZrITxTBKk" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Thanks to [skill issue lol](https://osu.ppy.sh/users/12498861), [Liyac](https://osu.ppy.sh/users/4994598), [Mniam](https://osu.ppy.sh/users/6050530), and [Nelly](https://osu.ppy.sh/users/4741164) for judging this month's maps!
+Thanks to ::skill issue lol::{ user-id=12498861 }, [Liyac](https://osu.ppy.sh/users/4994598), ::Mniam::{ user-id=6050530 }, and [Nelly](https://osu.ppy.sh/users/4741164) for judging this month's maps!
 
 ### osu!mania results
 
@@ -55,8 +55,8 @@ This contest required **6K maps** with single note, long note, and total object 
 
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [oct4](https://osu.ppy.sh/users/10303887) | [kanemiko - Cold Fusion](https://osu.ppy.sh/beatmapsets/2352124) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (5 total) |
-| Runner-up | [tyrcs](https://osu.ppy.sh/users/13026904) | [Ludicin - Lost Requiem](https://osu.ppy.sh/beatmapsets/2352216) | - | +1 (7 total) |
+| Winner | ::oct4::{ user-id=10303887 } | [kanemiko - Cold Fusion](https://osu.ppy.sh/beatmapsets/2352124) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (5 total) |
+| Runner-up | ::tyrcs::{ user-id=13026904 } | [Ludicin - Lost Requiem](https://osu.ppy.sh/beatmapsets/2352216) | - | +1 (7 total) |
 
 #### Top submissions
 
@@ -64,7 +64,7 @@ This contest required **6K maps** with single note, long note, and total object 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/SF000HMYX9w" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Not so coincidentally, this contest also had 6 judges: [Ryax](https://osu.ppy.sh/users/8949769), [Antalf](https://osu.ppy.sh/users/8793773), [Carpihat](https://osu.ppy.sh/users/10085090), [gzdongsheng](https://osu.ppy.sh/users/8660315), [BKwind](https://osu.ppy.sh/users/8900975), and [U1d](https://osu.ppy.sh/users/10125072)!
+Not so coincidentally, this contest also had 6 judges: ::Ryax::{ user-id=8949769 }, [Antalf](https://osu.ppy.sh/users/8793773), ::Carpihat::{ user-id=10085090 }, [gzdongsheng](https://osu.ppy.sh/users/8660315), ::BKwind::{ user-id=8900975 }, and [U1d](https://osu.ppy.sh/users/10125072)!
 
 ## Game modes
 

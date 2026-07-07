@@ -7,7 +7,7 @@ tags:
 
 # UK Community Cup 3
 
-The **UK Community Cup 3** (***UKCC3***) was a British 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379) and ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973). It was the third instalment of the UK Community Cup series and the series' second 1v1 competition.
+The **UK Community Cup 3** (***UKCC3***) was a British 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 }, ::{ flag=GB }:: ::Jerome::{ user-id=3391379 } and ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }. It was the third instalment of the UK Community Cup series and the series' second 1v1 competition.
 
 ## Tournament schedule
 
@@ -30,11 +30,11 @@ The UK Community Cup 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Mappool selector | ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=MX }:: [Atsuro](https://osu.ppy.sh/users/2279351), ::{ flag=DE }:: [Kite](https://osu.ppy.sh/users/134572), ::{ flag=MY }:: [\[ -Scarlet- \]](https://osu.ppy.sh/users/2427693) |
-| Streamer | ::{ flag=GB }:: [Zain](https://osu.ppy.sh/users/4621060), ::{ flag=US }:: [Zelda101](https://osu.ppy.sh/users/4502238), ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142), ::{ flag=GB }:: [Chassit](https://osu.ppy.sh/users/3799313), ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [car0line96](https://osu.ppy.sh/users/9183970), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
-| Commentator | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025), ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379) |
-| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=GB }:: [minorman4](https://osu.ppy.sh/users/4837257), ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=GB }:: [Pobe](https://osu.ppy.sh/users/6340618), ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=GB }:: [dong](https://osu.ppy.sh/users/4422446), ::{ flag=GB }:: [Scootawoo](https://osu.ppy.sh/users/1464467), ::{ flag=GB }:: [Sobriquet](https://osu.ppy.sh/users/3891023), ::{ flag=GB }:: [Chassit](https://osu.ppy.sh/users/3799313), ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=GB }:: [ebanineo](https://osu.ppy.sh/users/7755063), ::{ flag=GB }:: [Mashihoe](https://osu.ppy.sh/users/8400612), ::{ flag=GB }:: [car0line96](https://osu.ppy.sh/users/9183970), ::{ flag=GB }:: [feliciaforever](https://osu.ppy.sh/users/6177798) |
+| Manager | ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 }, ::{ flag=GB }:: ::Jerome::{ user-id=3391379 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 } |
+| Mappool selector | ::{ flag=NL }:: ::n0ah::{ user-id=3086393 }, ::{ flag=US }:: ::DigitalHypno::{ user-id=4384207 }, ::{ flag=MX }:: ::Atsuro::{ user-id=2279351 }, ::{ flag=DE }:: ::Kite::{ user-id=134572 }, ::{ flag=MY }:: ::\[ -Scarlet- \]::{ user-id=2427693 } |
+| Streamer | ::{ flag=GB }:: ::Zain::{ user-id=4621060 }, ::{ flag=US }:: ::Zelda101::{ user-id=4502238 }, ::{ flag=GB }:: ::mmi-::{ user-id=5444914 }, ::{ flag=GB }:: ::Karthy::{ user-id=4196808 }, ::{ flag=GB }:: ::helix::{ user-id=3322597 }, ::{ flag=GB }:: ::OPJames::{ user-id=4117142 }, ::{ flag=GB }:: ::Chassit::{ user-id=3799313 }, ::{ flag=GB }:: ::Electovoid::{ user-id=6648263 }, ::{ flag=GB }:: ::Bae-::{ user-id=6576972 }, ::{ flag=GB }:: ::car0line96::{ user-id=9183970 }, ::{ flag=GB }:: ::Doomsday::{ user-id=18983 } |
+| Commentator | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::mmi-::{ user-id=5444914 }, ::{ flag=GB }:: ::Karthy::{ user-id=4196808 }, ::{ flag=GB }:: ::helix::{ user-id=3322597 }, ::{ flag=GB }:: ::AlexDark69::{ user-id=5146647 }, ::{ flag=SE }:: ::Kotayo::{ user-id=1730025 }, ::{ flag=GB }:: ::Electovoid::{ user-id=6648263 }, ::{ flag=GB }:: ::Bae-::{ user-id=6576972 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=GB }:: ::Jerome::{ user-id=3391379 } |
+| Referee | ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=FI }:: ::Lefafel::{ user-id=2295850 }, ::{ flag=GB }:: ::minorman4::{ user-id=4837257 }, ::{ flag=GB }:: ::OPJames::{ user-id=4117142 }, ::{ flag=GB }:: ::Pelzio::{ user-id=4775226 }, ::{ flag=GB }:: ::Pobe::{ user-id=6340618 }, ::{ flag=GB }:: ::SteffoST::{ user-id=6566765 }, ::{ flag=GB }:: ::dong::{ user-id=4422446 }, ::{ flag=GB }:: ::Scootawoo::{ user-id=1464467 }, ::{ flag=GB }:: ::Sobriquet::{ user-id=3891023 }, ::{ flag=GB }:: ::Chassit::{ user-id=3799313 }, ::{ flag=GB }:: ::mmi-::{ user-id=5444914 }, ::{ flag=GB }:: ::helix::{ user-id=3322597 }, ::{ flag=GB }:: ::AlexDark69::{ user-id=5146647 }, ::{ flag=GB }:: ::ebanineo::{ user-id=7755063 }, ::{ flag=GB }:: ::Mashihoe::{ user-id=8400612 }, ::{ flag=GB }:: ::car0line96::{ user-id=9183970 }, ::{ flag=GB }:: ::feliciaforever::{ user-id=6177798 } |
 
 ## Links
 
@@ -48,14 +48,14 @@ The UK Community Cup 3 was run by various community members.
 
 | Group | Members |
 | :-- | :-- |
-| Group A | ::{ flag=GB }:: **[Doomsday](https://osu.ppy.sh/users/18983)**, ::{ flag=GB }:: **[Volcanism](https://osu.ppy.sh/users/2316751)**, ::{ flag=GB }:: [Terrible](https://osu.ppy.sh/users/5171112), ::{ flag=GB }:: [Addstir](https://osu.ppy.sh/users/6009427) |
-| Group B | ::{ flag=GB }:: **[OPJames](https://osu.ppy.sh/users/4117142)**, ::{ flag=GB }:: **[Pelzio](https://osu.ppy.sh/users/4775226)**, ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [October](https://osu.ppy.sh/users/5513481) |
-| Group C | ::{ flag=GB }:: **[Woffel](https://osu.ppy.sh/users/3915122)**, ::{ flag=GB }:: **[Kardet](https://osu.ppy.sh/users/1438509)**, ::{ flag=CA }:: [Squapple](https://osu.ppy.sh/users/6826036), ::{ flag=GB }:: [Poi Panda](https://osu.ppy.sh/users/4693956) |
-| Group D | ::{ flag=GB }:: **[helix](https://osu.ppy.sh/users/3322597)**, ::{ flag=GB }:: **[Mykaterasu](https://osu.ppy.sh/users/4110225)**, ::{ flag=GB }:: [Chugger](https://osu.ppy.sh/users/4491713), ::{ flag=GB }:: [Majoreh](https://osu.ppy.sh/users/7959222) |
-| Group E | ::{ flag=GB }:: **[Wario](https://osu.ppy.sh/users/4361729)**, ::{ flag=GB }:: **[Cephus](https://osu.ppy.sh/users/3373206)**, ::{ flag=GB }:: [Sam](https://osu.ppy.sh/users/1453543), ::{ flag=GB }:: [jesse1412](https://osu.ppy.sh/users/230116) |
-| Group F | ::{ flag=GB }:: **[Bubbleman](https://osu.ppy.sh/users/5182050)**, ::{ flag=GB }:: **[Dag](https://osu.ppy.sh/users/4045400)**, ::{ flag=GB }:: [L britt](https://osu.ppy.sh/users/4107020), ::{ flag=GB }:: [Snookie](https://osu.ppy.sh/users/1484934) |
-| Group G | ::{ flag=GB }:: **[Nega](https://osu.ppy.sh/users/3181083)**, ::{ flag=IE }:: **[M a t t y](https://osu.ppy.sh/users/3737136)**, ::{ flag=GB }:: [Linkle](https://osu.ppy.sh/users/3253550), ::{ flag=GB }:: [xFluffyo](https://osu.ppy.sh/users/8397226) |
-| Group H | ::{ flag=GB }:: **[Karthy](https://osu.ppy.sh/users/4196808)**, ::{ flag=GB }:: **[Summer Solstice](https://osu.ppy.sh/users/3233710)**, ::{ flag=GB }:: [RndGuy](https://osu.ppy.sh/users/1201586), ::{ flag=GB }:: [ebanineo](https://osu.ppy.sh/users/7755063) |
+| Group A | ::{ flag=GB }:: **::Doomsday::{ user-id=18983 }**, ::{ flag=GB }:: **::Volcanism::{ user-id=2316751 }**, ::{ flag=GB }:: ::Terrible::{ user-id=5171112 }, ::{ flag=GB }:: ::Addstir::{ user-id=6009427 } |
+| Group B | ::{ flag=GB }:: **::OPJames::{ user-id=4117142 }**, ::{ flag=GB }:: **::Pelzio::{ user-id=4775226 }**, ::{ flag=GB }:: ::djsettle::{ user-id=4010354 }, ::{ flag=GB }:: ::October::{ user-id=5513481 } |
+| Group C | ::{ flag=GB }:: **::Woffel::{ user-id=3915122 }**, ::{ flag=GB }:: **::Kardet::{ user-id=1438509 }**, ::{ flag=CA }:: ::Squapple::{ user-id=6826036 }, ::{ flag=GB }:: ::Poi Panda::{ user-id=4693956 } |
+| Group D | ::{ flag=GB }:: **::helix::{ user-id=3322597 }**, ::{ flag=GB }:: **::Mykaterasu::{ user-id=4110225 }**, ::{ flag=GB }:: ::Chugger::{ user-id=4491713 }, ::{ flag=GB }:: ::Majoreh::{ user-id=7959222 } |
+| Group E | ::{ flag=GB }:: **::Wario::{ user-id=4361729 }**, ::{ flag=GB }:: **::Cephus::{ user-id=3373206 }**, ::{ flag=GB }:: ::Sam::{ user-id=1453543 }, ::{ flag=GB }:: ::jesse1412::{ user-id=230116 } |
+| Group F | ::{ flag=GB }:: **::Bubbleman::{ user-id=5182050 }**, ::{ flag=GB }:: **::Dag::{ user-id=4045400 }**, ::{ flag=GB }:: ::L britt::{ user-id=4107020 }, ::{ flag=GB }:: ::Snookie::{ user-id=1484934 } |
+| Group G | ::{ flag=GB }:: **::Nega::{ user-id=3181083 }**, ::{ flag=IE }:: **::M a t t y::{ user-id=3737136 }**, ::{ flag=GB }:: ::Linkle::{ user-id=3253550 }, ::{ flag=GB }:: ::xFluffyo::{ user-id=8397226 } |
+| Group H | ::{ flag=GB }:: **::Karthy::{ user-id=4196808 }**, ::{ flag=GB }:: **::Summer Solstice::{ user-id=3233710 }**, ::{ flag=GB }:: ::RndGuy::{ user-id=1201586 }, ::{ flag=GB }:: ::ebanineo::{ user-id=7755063 } |
 
 ## Podium
 
@@ -63,9 +63,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::OPJames::{ user-id=4117142 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::Karthy::{ user-id=4196808 } |
 
 ## Mappools
 
@@ -656,7 +656,7 @@ Monday, 3 July 2017:
 ### Rescheduling
 
 - The tournament matches will be drawn on weekends, the exact schedule to be released every Monday. Matches can however be rescheduled for any day in the week as long as there is a referee available to supervise.
-- If a reschedule is required, please agree a time with your opponents before coming to either ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) or ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) with it.
+- If a reschedule is required, please agree a time with your opponents before coming to either ::{ flag=GB }:: ::Jerome::{ user-id=3391379 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 } or ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 } with it.
 - A time to reschedule your match to must be agreed and staff informed before Friday, 12:00 BST, at which point the schedules will be locked. Any reschedule notices after this will be invalid.
 - If it is impossible to find a time to reschedule to that suits both players, both players should talk to the same staff member and we will attempt to sort something out.
 - Matches that are uncertain to happen (for example, losers’ bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.

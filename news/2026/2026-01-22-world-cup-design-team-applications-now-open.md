@@ -75,7 +75,7 @@ Due to the sensitive nature of unreleased content, designers are expected to rem
 
 Applicants will be asked to provide basic information, select the role(s) they are applying for, and submit a selection of their past designs or a design portfolio relevant to those roles.
 
-The application deadline is **Sunday, March 1st, 2026**. Applicants who miss the deadline may contact [Sakura006](https://osu.ppy.sh/users/10365024) regarding late submissions.
+The application deadline is **Sunday, March 1st, 2026**. Applicants who miss the deadline may contact ::Sakura006::{ user-id=10365024 } regarding late submissions.
 
 With the expected number of applications, the review process may take up to 4 weeks after applications close. We appreciate your patience as we thoroughly review your submissions. All applicants will be notified of their application result once the review process is complete.
 
@@ -90,10 +90,10 @@ To proceed with an acceptance or rejection decision, an application must receive
 
 | Role | Recruiters |
 | :-- | :-- |
-| Illustrator | ::{ flag=AU }:: [\-pineapple\-](https://osu.ppy.sh/users/11523326), ::{ flag=US }:: [\[celes\]](https://osu.ppy.sh/users/9108428), ::{ flag=US }:: [CMDR Saturn](https://osu.ppy.sh/users/22001295), ::{ flag=CN }:: [hourius](https://osu.ppy.sh/users/12580298), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=CA }:: [RedcXca](https://osu.ppy.sh/users/14056601) |
-| Graphic designer (GFX) | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [Boolmaster Flex](https://osu.ppy.sh/users/5394681), ::{ flag=CN }:: [hourius](https://osu.ppy.sh/users/12580298), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=MY }:: [Zeth](https://osu.ppy.sh/users/9912966) |
-| Visual effects designer (VFX) | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=MY }:: [Zeth](https://osu.ppy.sh/users/9912966) |
-| Storyboarder | ::{ flag=AU }:: [Coppertine](https://osu.ppy.sh/users/7279762), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=AU }:: [LowGraphics](https://osu.ppy.sh/users/5383942), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |
+| Illustrator | ::{ flag=AU }:: ::\-pineapple\-::{ user-id=11523326 }, ::{ flag=US }:: ::\[celes\]::{ user-id=9108428 }, ::{ flag=US }:: ::CMDR Saturn::{ user-id=22001295 }, ::{ flag=CN }:: ::hourius::{ user-id=12580298 }, ::{ flag=MY }:: ::Iyouka::{ user-id=7138499 }, ::{ flag=CA }:: ::RedcXca::{ user-id=14056601 } |
+| Graphic designer (GFX) | ::{ flag=CN }:: ::AlexDunk::{ user-id=9194799 }, ::{ flag=US }:: ::Boolmaster Flex::{ user-id=5394681 }, ::{ flag=CN }:: ::hourius::{ user-id=12580298 }, ::{ flag=MY }:: ::Iyouka::{ user-id=7138499 }, ::{ flag=IT }:: ::Kuroise::{ user-id=14547127 }, ::{ flag=CN }:: ::Sakura006::{ user-id=10365024 }, ::{ flag=SG }:: ::TheFunk::{ user-id=13981991 }, ::{ flag=MY }:: ::Zeth::{ user-id=9912966 } |
+| Visual effects designer (VFX) | ::{ flag=MY }:: ::Iyouka::{ user-id=7138499 }, ::{ flag=US }:: ::Noffy::{ user-id=1541323 }, ::{ flag=CN }:: ::Sakura006::{ user-id=10365024 }, ::{ flag=SG }:: ::TheFunk::{ user-id=13981991 }, ::{ flag=MY }:: ::Zeth::{ user-id=9912966 } |
+| Storyboarder | ::{ flag=AU }:: ::Coppertine::{ user-id=7279762 }, ::{ flag=MY }:: ::Iyouka::{ user-id=7138499 }, ::{ flag=IT }:: ::Kuroise::{ user-id=14547127 }, ::{ flag=AU }:: ::LowGraphics::{ user-id=5383942 }, ::{ flag=US }:: ::Noffy::{ user-id=1541323 } |
 
 The following criteria are used to evaluate applications for each role:
 

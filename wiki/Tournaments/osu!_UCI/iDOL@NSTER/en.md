@@ -50,11 +50,11 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Mappool selector | ::{ flag=IE }:: [[KoKo]](https://osu.ppy.sh/users/5322953), ::{ flag=US }:: [_Breeze](https://osu.ppy.sh/users/9726582), ::{ flag=US }:: [jlin_02](https://osu.ppy.sh/users/13192092), ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459), ::{ flag=US }:: [migin](https://osu.ppy.sh/users/11118735), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) |
-| Streamer | ::{ flag=US }:: [iShipxx](https://osu.ppy.sh/users/7546335), ::{ flag=US }:: [R34pling](https://osu.ppy.sh/users/7662172) |
-| Commentator | ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459), ::{ flag=US }:: [MyAngelNeptune](https://osu.ppy.sh/users/5290308), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) |
+| Mappool selector | ::{ flag=IE }:: ::\1KoKo\1::{ user-id=5322953 }, ::{ flag=US }:: ::\1Breeze::{ user-id=9726582 }, ::{ flag=US }:: ::jlin\102::{ user-id=13192092 }, ::{ flag=US }:: ::Kenny::{ user-id=1225459 }, ::{ flag=US }:: ::migin::{ user-id=11118735 }, ::{ flag=US }:: ::Riku on osu::{ user-id=3071659 } |
+| Streamer | ::{ flag=US }:: ::iShipxx::{ user-id=7546335 }, ::{ flag=US }:: ::R34pling::{ user-id=7662172 } |
+| Commentator | ::{ flag=US }:: ::Kenny::{ user-id=1225459 }, ::{ flag=US }:: ::MyAngelNeptune::{ user-id=5290308 }, ::{ flag=US }:: ::Riku on osu::{ user-id=3071659 } |
 | Designer | ::{ flag=XX }:: Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
-| Referee | ::{ flag=US }:: [_Breeze](https://osu.ppy.sh/users/9726582), ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=US }:: [ilalalayou](https://osu.ppy.sh/users/3144766), ::{ flag=US }:: [iShipxx](https://osu.ppy.sh/users/7546335), ::{ flag=US }:: [jlin_02](https://osu.ppy.sh/users/13192092), ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459), ::{ flag=US }:: [phamitsu](https://osu.ppy.sh/users/13045418), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) |
+| Referee | ::{ flag=US }:: ::\1Breeze::{ user-id=9726582 }, ::{ flag=US }:: ::clayton::{ user-id=3666350 }, ::{ flag=US }:: ::ilalalayou::{ user-id=3144766 }, ::{ flag=US }:: ::iShipxx::{ user-id=7546335 }, ::{ flag=US }:: ::jlin\102::{ user-id=13192092 }, ::{ flag=US }:: ::Kenny::{ user-id=1225459 }, ::{ flag=US }:: ::phamitsu::{ user-id=13045418 }, ::{ flag=US }:: ::Riku on osu::{ user-id=3071659 } |
 
 ## Links
 
@@ -71,27 +71,27 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 ### osu!
 
-- ::{ flag=US }:: [[KOR] Sora](https://osu.ppy.sh/users/11985468)
-- ::{ flag=US }:: [Achao3](https://osu.ppy.sh/users/12325019)
-- ::{ flag=US }:: [Darin on osu](https://osu.ppy.sh/users/4839876)
-- ::{ flag=US }:: [death grips](https://osu.ppy.sh/users/4829231)
-- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
-- ::{ flag=US }:: [Ikeda Chizuru](https://osu.ppy.sh/users/9288843)
-- ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313)
-- ::{ flag=US }:: [Musket](https://osu.ppy.sh/users/6124459)
-- ::{ flag=US }:: [MyAngelNeptune](https://osu.ppy.sh/users/5290308)
-- ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
-- ::{ flag=US }:: [Sliceofpie](https://osu.ppy.sh/users/3841872)
-- ::{ flag=US }:: [Slo](https://osu.ppy.sh/users/8839884)
-- ::{ flag=US }:: [YungCowboy](https://osu.ppy.sh/users/8176490)
+- ::{ flag=US }:: ::\1KOR\1 Sora::{ user-id=11985468 }
+- ::{ flag=US }:: ::Achao3::{ user-id=12325019 }
+- ::{ flag=US }:: ::Darin on osu::{ user-id=4839876 }
+- ::{ flag=US }:: ::death grips::{ user-id=4829231 }
+- ::{ flag=US }:: ::fieryrage::{ user-id=3533958 }
+- ::{ flag=US }:: ::Ikeda Chizuru::{ user-id=9288843 }
+- ::{ flag=US }:: ::Mathyu::{ user-id=6303313 }
+- ::{ flag=US }:: ::Musket::{ user-id=6124459 }
+- ::{ flag=US }:: ::MyAngelNeptune::{ user-id=5290308 }
+- ::{ flag=US }:: ::pishifat::{ user-id=3178418 }
+- ::{ flag=US }:: ::Sliceofpie::{ user-id=3841872 }
+- ::{ flag=US }:: ::Slo::{ user-id=8839884 }
+- ::{ flag=US }:: ::YungCowboy::{ user-id=8176490 }
 
 ### osu!mania
 
-- ::{ flag=US }:: [Chest Flattener](https://osu.ppy.sh/users/4292614)
-- ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383)
-- ::{ flag=US }:: [Ecal](https://osu.ppy.sh/users/8384260)
-- ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052)
-- ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760)
+- ::{ flag=US }:: ::Chest Flattener::{ user-id=4292614 }
+- ::{ flag=US }:: ::Crescendo PiaNo::{ user-id=8798383 }
+- ::{ flag=US }:: ::Ecal::{ user-id=8384260 }
+- ::{ flag=US }:: ::Ouchiee::{ user-id=6310052 }
+- ::{ flag=US }:: ::Trainer-::{ user-id=9331760 }
 
 ## Podium
 
@@ -99,19 +99,19 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [death grips](https://osu.ppy.sh/users/4829231) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: ::Mathyu::{ user-id=6303313 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: ::death grips::{ user-id=4829231 } |
 
-::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) also won the special *iDOLM@STER* prize.
+::{ flag=US }:: ::fieryrage::{ user-id=3533958 } also won the special *iDOLM@STER* prize.
 
 ### osu!mania
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: ::Crescendo PiaNo::{ user-id=8798383 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: ::Trainer-::{ user-id=9331760 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: ::Ouchiee::{ user-id=6310052 } |
 
 ## Mappools
 

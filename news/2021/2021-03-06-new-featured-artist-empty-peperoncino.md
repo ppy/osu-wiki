@@ -13,7 +13,7 @@ Hopping in with a new taste of Japanese rock, [**Empty Peperoncino**](https://os
 
 We've rounded up **9** bright 'n' shiny new tracks from **Empty Peperoncino**'s currently released album and EP, sure to scratch that J-rock itch.
 
-Looking for a sample? Give [Hazu-](https://osu.ppy.sh/users/4668230)'s mapset of [*End Roll*](https://osu.ppy.sh/beatmapsets/1361717) a try, or watch [Kingling](https://osu.ppy.sh/users/7010761) attempt it with some of lazer's unranked mods:
+Looking for a sample? Give ::Hazu-::{ user-id=4668230 }'s mapset of [*End Roll*](https://osu.ppy.sh/beatmapsets/1361717) a try, or watch ::Kingling::{ user-id=7010761 } attempt it with some of lazer's unranked mods:
 
 <div align="center">
     <video width="95%" controls>
@@ -25,7 +25,7 @@ Check out a few previews, plus some new showcase maps:
 
 ### Ame ni Utaeba
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1385670) with difficulties by [coco](https://osu.ppy.sh/users/9579526), [captin1](https://osu.ppy.sh/users/689997), [Deca](https://osu.ppy.sh/users/9088487), and [Leader](https://osu.ppy.sh/users/631530) of the Mappers' Guild!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1385670) with difficulties by ::coco::{ user-id=9579526 }, [captin1](https://osu.ppy.sh/users/689997), ::Deca::{ user-id=9088487 }, and [Leader](https://osu.ppy.sh/users/631530) of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/145/Ame%20ni%20Utaeba/Empty%20Peperoncino%20-%20Ame%20ni%20Utaeba.mp3" type="audio/mpeg">

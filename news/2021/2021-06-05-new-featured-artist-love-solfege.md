@@ -13,7 +13,7 @@ Boasting a musical style self-described as "classic art pop", **love solfege** i
 
 **10** songs are up for grabs from [**love solfege**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/171), each exemplifying their classically inspired style in a way that perfectly suits osu! mapping. Grab 'em while you can (which is forever, by the way).
 
-Although they've technically been part of the osu! world since 2011 through the beatmap [*arabesque of dif.*](https://osu.ppy.sh/beatmapsets/22742), **love solfege** didn't truly catch the community's eye until mid-2020 via [*Vanity Clock*](https://osu.ppy.sh/beatmapsets/609057). See what all the fuss is about through a combo video of [Vaxei](https://osu.ppy.sh/users/4787150)'s No Mod and Double Time scores, then listen to the rest of the previews below:
+Although they've technically been part of the osu! world since 2011 through the beatmap [*arabesque of dif.*](https://osu.ppy.sh/beatmapsets/22742), **love solfege** didn't truly catch the community's eye until mid-2020 via [*Vanity Clock*](https://osu.ppy.sh/beatmapsets/609057). See what all the fuss is about through a combo video of ::Vaxei::{ user-id=4787150 }'s No Mod and Double Time scores, then listen to the rest of the previews below:
 
 <div align="center">
     <video width="90%" controls>
@@ -23,7 +23,7 @@ Although they've technically been part of the osu! world since 2011 through the 
 
 ### Vanity Clock
 
-Check out [this loved beatmap](https://osu.ppy.sh/beatmapsets/609057) hosted by [Parachute](https://osu.ppy.sh/users/1175275) and seen in the video above!
+Check out [this loved beatmap](https://osu.ppy.sh/beatmapsets/609057) hosted by ::Parachute::{ user-id=1175275 } and seen in the video above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/171/Reception%20for%20witnesses%2Flove%20solfege%20-%20Vanity%20Clock.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [this loved beatmap](https://osu.ppy.sh/beatmapsets/609057) hosted by 
 
 ### La Fatalite
 
-Try playing [this super long marathon beatmap](https://osu.ppy.sh/beatmapsets/1398874) hosted by [Hey lululu](https://osu.ppy.sh/users/4086497)!
+Try playing [this super long marathon beatmap](https://osu.ppy.sh/beatmapsets/1398874) hosted by ::Hey lululu::{ user-id=4086497 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/171/La%20Fatalite%2Flove%20solfege%20-%20La%20Fatalite.mp3" type="audio/mpeg">

@@ -30,9 +30,9 @@ This contest's **24** submissions were narrowed down to the **top 8** by our [sc
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| 1st + Screener's pick | [bIG data](https://osu.ppy.sh/users/17744610) | [yaseta - Dreamy Goat](https://osu.ppy.sh/beatmapsets/2135463) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
-| 2nd | [fowwo](https://osu.ppy.sh/users/4547551) | [siqlo - Me & U](https://osu.ppy.sh/beatmapsets/2135872) | - | +1 (1 total) |
-| 3rd | [Sing](https://osu.ppy.sh/users/3795679) | [ALEPH - IMPULSE](https://osu.ppy.sh/beatmapsets/2135262) | - | - |
+| 1st + Screener's pick | ::bIG data::{ user-id=17744610 } | [yaseta - Dreamy Goat](https://osu.ppy.sh/beatmapsets/2135463) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
+| 2nd | ::fowwo::{ user-id=4547551 } | [siqlo - Me & U](https://osu.ppy.sh/beatmapsets/2135872) | - | +1 (1 total) |
+| 3rd | ::Sing::{ user-id=3795679 } | [ALEPH - IMPULSE](https://osu.ppy.sh/beatmapsets/2135262) | - | - |
 
 #### Top 10
 
@@ -40,7 +40,7 @@ This contest's **24** submissions were narrowed down to the **top 8** by our [sc
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/sWwGnOa0WxI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to [Uberzolik](https://osu.ppy.sh/users/1314547), [Aeril](https://osu.ppy.sh/users/4334976), [Astrolis](https://osu.ppy.sh/users/12357714), [Daycore](https://osu.ppy.sh/users/5596337), [Mattay](https://osu.ppy.sh/users/9748303), [Shii](https://osu.ppy.sh/users/9186316), and [Petal](https://osu.ppy.sh/users/7354729) for screening, along with [FuJu](https://osu.ppy.sh/users/10773882), [Gordon](https://osu.ppy.sh/users/7856835), [wafer](https://osu.ppy.sh/users/9416836), [enneya](https://osu.ppy.sh/users/10959501), [Tycani](https://osu.ppy.sh/users/6693266), [funny](https://osu.ppy.sh/users/8473573), and [Pennek](https://osu.ppy.sh/users/3723742) for judging!
+Special thanks to ::Uberzolik::{ user-id=1314547 }, [Aeril](https://osu.ppy.sh/users/4334976), ::Astrolis::{ user-id=12357714 }, [Daycore](https://osu.ppy.sh/users/5596337), ::Mattay::{ user-id=9748303 }, [Shii](https://osu.ppy.sh/users/9186316), and ::Petal::{ user-id=7354729 } for screening, along with ::FuJu::{ user-id=10773882 }, [Gordon](https://osu.ppy.sh/users/7856835), ::wafer::{ user-id=9416836 }, [enneya](https://osu.ppy.sh/users/10959501), ::Tycani::{ user-id=6693266 }, [funny](https://osu.ppy.sh/users/8473573), and ::Pennek::{ user-id=3723742 } for judging!
 
 ### osu!mania results
 
@@ -52,9 +52,9 @@ Following the same line of thought as **osu!**'s contest, **osu!mania**'s submis
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| 1st | [tyrcs](https://osu.ppy.sh/users/13026904) | [Frums - HALL](https://osu.ppy.sh/beatmapsets/2135386) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (4 total) |
-| 2nd + Screener's pick | [oct4](https://osu.ppy.sh/users/10303887) | [katagiri - Angel's Salad](https://osu.ppy.sh/beatmapsets/2135273) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| 3rd | [Kokistarr](https://osu.ppy.sh/users/25027073) | [D-D-Dice vs. siromaru - Catch the Glory](https://osu.ppy.sh/beatmapsets/2135278) | - | - |
+| 1st | ::tyrcs::{ user-id=13026904 } | [Frums - HALL](https://osu.ppy.sh/beatmapsets/2135386) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (4 total) |
+| 2nd + Screener's pick | ::oct4::{ user-id=10303887 } | [katagiri - Angel's Salad](https://osu.ppy.sh/beatmapsets/2135273) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
+| 3rd | ::Kokistarr::{ user-id=25027073 } | [D-D-Dice vs. siromaru - Catch the Glory](https://osu.ppy.sh/beatmapsets/2135278) | - | - |
 
 #### Top 10
 
@@ -62,7 +62,7 @@ Following the same line of thought as **osu!**'s contest, **osu!mania**'s submis
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/JlQpeQRN75A" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to [Paraxia](https://osu.ppy.sh/users/14001000), [SilentWuffer](https://osu.ppy.sh/users/11355206), [[ deleted ]](https://osu.ppy.sh/users/16341063), [Evening](https://osu.ppy.sh/users/2193881), [Maxus](https://osu.ppy.sh/users/4335785), and [Protastic101](https://osu.ppy.sh/users/6712747) for screening this contest, plus [epic man 2](https://osu.ppy.sh/users/14566000), [Unpredictable](https://osu.ppy.sh/users/7560872), [gzdongsheng](https://osu.ppy.sh/users/8660315), and [-mint-](https://osu.ppy.sh/users/8976576) for judging!
+Special thanks to ::Paraxia::{ user-id=14001000 }, [SilentWuffer](https://osu.ppy.sh/users/11355206), ::\1 deleted \1::{ user-id=16341063 }, [Evening](https://osu.ppy.sh/users/2193881), ::Maxus::{ user-id=4335785 }, and [Protastic101](https://osu.ppy.sh/users/6712747) for screening this contest, plus ::epic man 2::{ user-id=14566000 }, [Unpredictable](https://osu.ppy.sh/users/7560872), ::gzdongsheng::{ user-id=8660315 }, and [-mint-](https://osu.ppy.sh/users/8976576) for judging!
 
 ---
 

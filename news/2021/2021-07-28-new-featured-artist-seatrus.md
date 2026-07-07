@@ -23,7 +23,7 @@ For those who haven't heard of **seatrus** yet, we've organized a few [showcase 
 
 ### MONONOKE
 
-Enjoy [the OWC 2020 masterpiece](https://osu.ppy.sh/beatmapsets/1280194) hosted by [Realazy](https://osu.ppy.sh/users/918297) of the Mappers' Guild!
+Enjoy [the OWC 2020 masterpiece](https://osu.ppy.sh/beatmapsets/1280194) hosted by ::Realazy::{ user-id=918297 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/185/MONONOKE/seatrus%20-%20MONONOKE.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Enjoy [the OWC 2020 masterpiece](https://osu.ppy.sh/beatmapsets/1280194) hosted 
 
 ### %UnDeciphered-CryptoGraph in the Edifice%
 
-Play through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1203238) hosted by [WTHBRO](https://osu.ppy.sh/users/8957119)!
+Play through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1203238) hosted by ::WTHBRO::{ user-id=8957119 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/185/Songs/seatrus%20-%20%25UnDeciphered-CryptoGraph%20in%20the%20Edifice%25.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Play through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1203238) hosted
 
 ### efchi
 
-Or try [this other osu!taiko map](https://osu.ppy.sh/beatmapsets/1461343) hosted by [ikin5050](https://osu.ppy.sh/users/4007649) of the Mappers' Guild!
+Or try [this other osu!taiko map](https://osu.ppy.sh/beatmapsets/1461343) hosted by ::ikin5050::{ user-id=4007649 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/185/efchi/seatrus%20-%20efchi.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ Or try [this other osu!taiko map](https://osu.ppy.sh/beatmapsets/1461343) hosted
 
 ### TH3 5UMMONERS
 
-If you somehow missed it, try [this mapset](https://osu.ppy.sh/beatmapsets/1497954) by [Fisky](https://osu.ppy.sh/users/8352623) and [DTM9 Nowa](https://osu.ppy.sh/users/5428909) of the Mappers' Guild!
+If you somehow missed it, try [this mapset](https://osu.ppy.sh/beatmapsets/1497954) by ::Fisky::{ user-id=8352623 } and [DTM9 Nowa](https://osu.ppy.sh/users/5428909) of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/185/Songs/seatrus%20-%20TH3%205UMMONERS.mp3" type="audio/mpeg">

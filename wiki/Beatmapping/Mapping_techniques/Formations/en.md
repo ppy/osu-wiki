@@ -17,14 +17,14 @@ Also check if the article matches with ASC. See #5729 for more informations -->
 
 *Also known as: **Blanket Formation***
 
-Nominator: [m980](https://osu.ppy.sh/users/3288)
+Nominator: ::m980::{ user-id=3288 }
 
 **Blanket combos** are made up of a slider or a hit circle (as the base) with a slider that surrounds that object.
 Spacing between these two objects is very important as they are not allowed to overlay each other!
 
 ### Divebomb Combos
 
-Nominator: [m980](https://osu.ppy.sh/users/3288)
+Nominator: ::m980::{ user-id=3288 }
 
 **Divebomb combos** are made up of a straight line of hit objects travelling from the top of the screen (or the middle) towards the bottom.
 This makes the hit objects appear as if they are diving.
@@ -35,7 +35,7 @@ The last object should always be a slider.
 
 *Also known as: **Flower Formation***
 
-Nominator: [0_o](https://osu.ppy.sh/users/56708)
+Nominator: ::0\1o::{ user-id=56708 }
 
 **Flower combos** consist of 5 or more hit circles that are all placed around a central point.
 The central point can be a hit circle or a slider.
@@ -49,7 +49,7 @@ However, the difference here is that this forces the player to go along the edge
 
 ### Honeycomb Beats
 
-Nominator: [mm201](https://osu.ppy.sh/users/30655)
+Nominator: ::mm201::{ user-id=30655 }
 
 **Honeycomb beats** are streams of hit circles that are usually half beats apart.
 These are placed in a fashion that they all fit on a hexagonal grid.
@@ -61,7 +61,7 @@ This could be combined with a low AR (approach rate) to confuse the player.
 
 ### Star Formations
 
-Nominator: [Xgor](https://osu.ppy.sh/users/98661)
+Nominator: ::Xgor::{ user-id=98661 }
 
 A **star formation** is a 5 pointed star, using 5 or 6 hit circles (the sixth one would usually be placed underneath the first point to complete the star).
 The star can visually appear by following the followpoints.
@@ -75,14 +75,14 @@ However, the difference here is that this forces the player to go through to for
 
 ### The Kickstream
 
-Nominator: [Daru](https://osu.ppy.sh/users/32480)
+Nominator: ::Daru::{ user-id=32480 }
 
 **The kickstream** uses a kick slider (a really short slider) inside of a stream.
 This forces the player to pause in the middle of the stream to complete the kick, before continuing the stream.
 
 ### Tornado Combos
 
-Nominator: [Dragvon](https://osu.ppy.sh/users/126927)
+Nominator: ::Dragvon::{ user-id=126927 }
 
 **Tornado formations** are sets of notes that forces the player to tap circles in a circular motion at a high rate.
 This is basically a combination of small jumps (distance-wise) and streams (reaction time-wise).
@@ -93,7 +93,7 @@ This can also be a [square formation](#square-formation) and/or [diamond formati
 
 *Also known as: **ztrot Formation***
 
-Nominator: [Jarby](https://osu.ppy.sh/users/25615)
+Nominator: ::Jarby::{ user-id=25615 }
 
 **ztrot spacing** uses consistent beats placed in a circle-like shape.
 The distance between each note increases, then decreases.
@@ -119,13 +119,13 @@ The **Diamond formation** is just like the [square formation](#square-formation)
 
 ### Double Stacks
 
-Nominators: [-Xero-](https://osu.ppy.sh/users/179314) and [F1r3tar](https://osu.ppy.sh/users/5590317)
+Nominators: ::-Xero-::{ user-id=179314 } and [F1r3tar](https://osu.ppy.sh/users/5590317)
 
 **Double stacks** use two notes (or one note and a slider end) that are stacked on top of each other.
 
 ### QQ Diamonds
 
-Nominator: [Lybydose](https://osu.ppy.sh/users/64501)
+Nominator: ::Lybydose::{ user-id=64501 }
 
 **QQ diamonds** are four circles placed one beat apart from each other in a diamond pattern along the four edges (not corners) of the screen.
 This is similar to [diamond formation](#diamond-formation), but these are placed at the ends of the x-axis and y-axis.
@@ -151,7 +151,7 @@ The order of the combos forces the player to go along the square rather than thr
 
 ### Square Formation v2
 
-Nominators: Beuchi-chan and [mm201](https://osu.ppy.sh/users/30655)
+Nominators: Beuchi-chan and ::mm201::{ user-id=30655 }
 
 **Square formation v2** is pretty much the same as [square formation](#square-formation), but the order of the circles forces you to go diagonally through the square.
 
@@ -159,7 +159,7 @@ Nominators: Beuchi-chan and [mm201](https://osu.ppy.sh/users/30655)
 
 *Also known as: **Triangle Formation***
 
-Nominator: [kingcobra52](https://osu.ppy.sh/users/9934)
+Nominator: ::kingcobra52::{ user-id=9934 }
 
 **Triangle beats** is a very common mapping technique where 3 hit circles are arranged in a triangle.
 The order of the 3 hit circles nor the size of the triangle does not matter.
@@ -168,7 +168,7 @@ The order of the 3 hit circles nor the size of the triangle does not matter.
 
 *Also known as: **Zig-Zag Formation***
 
-Nominator: [0_o](https://osu.ppy.sh/users/56708)
+Nominator: ::0\1o::{ user-id=56708 }
 
 **Zig-Zag sliders** are made up of 1/2 sliders that are arranged in an inwards zig-zag pattern.
 

@@ -20,7 +20,7 @@ Congratulations to winner of the March Ranking Charts 2014:
 
 **Taiko**
 
-- **1st** [Konpaku Sariel](https://osu.ppy.sh/users/533502) \- 1 month supporter
+- **1st** ::Konpaku Sariel::{ user-id=533502 } \- 1 month supporter
 - **2nd** [horikawa159](https://osu.ppy.sh/users/horikawa159)
 - **3rd** [Midnaait](https://osu.ppy.sh/users/Midnaait)
 

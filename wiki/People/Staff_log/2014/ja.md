@@ -4,321 +4,321 @@
 
 ## 1月
 
-- [[Shi-Ra]](https://osu.ppy.sh/users/2008489)をビートマップアプリーシエイションチームに追加 (2014-01-01)
-- [TKS](https://osu.ppy.sh/users/940878)をビートマップアプリーシエイションチームに追加 (2014-01-04)
-- [Teara](https://osu.ppy.sh/users/123491)をビートマップアプリーシエイションチームに再追加 (2014-01-05)
-- [shARPII](https://osu.ppy.sh/users/776257)をチャットモデレーターに追加 (2014-01-16)
-- [Stickie](https://osu.ppy.sh/users/1248732)をチャットモデレーターに追加 (2014-01-16)
-- [Gabe](https://osu.ppy.sh/users/654108)をビートマップアプリーシエイションチームから削除 (2014-01-17)
-- [Krah](https://osu.ppy.sh/users/1436748)をビートマップアプリーシエイションチームに追加 (2014-01-20)
-- [dkun](https://osu.ppy.sh/users/154400)をビートマップアプリーシエイションチームに再追加 (2014-01-20)
-- [Breeze](https://osu.ppy.sh/users/77537)をosu! Alumniへ移動 (2014-01-21)
-- [HeatKai](https://osu.ppy.sh/users/332555)をビートマップアプリーシエイションチームから削除 (2014-01-21)
-- [jericho2442](https://osu.ppy.sh/users/88904)をosu! Alumniへ移動 (2014-01-21)
-- [lolcubes](https://osu.ppy.sh/users/578401)をosu! Alumniへ移動 (2014-01-21)
-- [MMzz](https://osu.ppy.sh/users/128993)をosu! Alumniへ移動 (2014-01-21)
-- [Sync](https://osu.ppy.sh/users/806921)をosu! Alumniへ移動 (2014-01-21)
-- [those](https://osu.ppy.sh/users/557166)をosu! Alumniへ移動 (2014-01-21)
-- [YGOKid8](https://osu.ppy.sh/users/69114)をosu! Alumniへ移動 (2014-01-21)
-- [Gabe](https://osu.ppy.sh/users/654108)をビートマップアプリーシエイションチームからosu! Alumniへ (2014-01-21) <!-- https://osu.ppy.sh/community/forums/posts/2819213 -->
-- [YGOKid8](https://osu.ppy.sh/users/69114)をビートマップアプリーシエイションチームに再追加 (2014-01-23)
-- [Sakura](https://osu.ppy.sh/users/289422)をosu! Alumniへ移動 (2014-01-24)
-- [Kurai](https://osu.ppy.sh/users/77089)をグローバルモデレーションチームへ移動 (2014-01-25)
-- [HelloSCV](https://osu.ppy.sh/users/798743)をビートマップアプリーシエイションチームに追加 (2014-01-27)
+- ::\1Shi-Ra\1::{ user-id=2008489 }をビートマップアプリーシエイションチームに追加 (2014-01-01)
+- ::TKS::{ user-id=940878 }をビートマップアプリーシエイションチームに追加 (2014-01-04)
+- ::Teara::{ user-id=123491 }をビートマップアプリーシエイションチームに再追加 (2014-01-05)
+- ::shARPII::{ user-id=776257 }をチャットモデレーターに追加 (2014-01-16)
+- ::Stickie::{ user-id=1248732 }をチャットモデレーターに追加 (2014-01-16)
+- ::Gabe::{ user-id=654108 }をビートマップアプリーシエイションチームから削除 (2014-01-17)
+- ::Krah::{ user-id=1436748 }をビートマップアプリーシエイションチームに追加 (2014-01-20)
+- ::dkun::{ user-id=154400 }をビートマップアプリーシエイションチームに再追加 (2014-01-20)
+- ::Breeze::{ user-id=77537 }をosu! Alumniへ移動 (2014-01-21)
+- ::HeatKai::{ user-id=332555 }をビートマップアプリーシエイションチームから削除 (2014-01-21)
+- ::jericho2442::{ user-id=88904 }をosu! Alumniへ移動 (2014-01-21)
+- ::lolcubes::{ user-id=578401 }をosu! Alumniへ移動 (2014-01-21)
+- ::MMzz::{ user-id=128993 }をosu! Alumniへ移動 (2014-01-21)
+- ::Sync::{ user-id=806921 }をosu! Alumniへ移動 (2014-01-21)
+- ::those::{ user-id=557166 }をosu! Alumniへ移動 (2014-01-21)
+- ::YGOKid8::{ user-id=69114 }をosu! Alumniへ移動 (2014-01-21)
+- ::Gabe::{ user-id=654108 }をビートマップアプリーシエイションチームからosu! Alumniへ (2014-01-21) <!-- https://osu.ppy.sh/community/forums/posts/2819213 -->
+- ::YGOKid8::{ user-id=69114 }をビートマップアプリーシエイションチームに再追加 (2014-01-23)
+- ::Sakura::{ user-id=289422 }をosu! Alumniへ移動 (2014-01-24)
+- ::Kurai::{ user-id=77089 }をグローバルモデレーションチームへ移動 (2014-01-25)
+- ::HelloSCV::{ user-id=798743 }をビートマップアプリーシエイションチームに追加 (2014-01-27)
 
 ## 2月
 
-- [Gabe](https://osu.ppy.sh/users/654108)をビートマップアプリーシエイションチームに追加 (2014-02-02)
-- [Blue Dragon](https://osu.ppy.sh/users/19048)をビートマップアプリーシエイションチームに再追加 (2014-02-03)
-- [Low](https://osu.ppy.sh/users/976963)をビートマップアプリーシエイションチームに再追加 (2014-02-03)
-- [KSHR](https://osu.ppy.sh/users/409957)をビートマップアプリーシエイションチームへ移動 (2014-02-07)
-- [Marcin](https://osu.ppy.sh/users/722665)をグローバルモデレーションチームへ移動 (2014-02-07)
-- [BeatofIke](https://osu.ppy.sh/users/1103522)をビートマップアプリーシエイションチームに追加 (2014-02-07)
-- [Zero\_\_wind](https://osu.ppy.sh/users/1822830)をビートマップアプリーシエイションチームに追加 (2014-02-07)
-- [kanpakyin](https://osu.ppy.sh/users/394326)をosu! Alumniへ移動 (2014-02-07)
-- [lolcubes](https://osu.ppy.sh/users/578401)をビートマップアプリーシエイションチームへ移動 (2014-02-10)
-- [Dangaard](https://osu.ppy.sh/users/19488)をosu! Alumniへ移動 (2014-02-15)
-- [Flanster](https://osu.ppy.sh/users/447818)をosu! Alumniへ移動 (2014-02-15)
-- [Kitokofox](https://osu.ppy.sh/users/1815420)をチャットモデレーターに追加 (2014-02-22)
-- [Nathanael](https://osu.ppy.sh/users/2295078)をSupport Teamに追加 (2014-02-23)
-- [Loneight](https://osu.ppy.sh/users/663131)をチャットモデレーターに追加 (2014-02-23)
-- [happy30](https://osu.ppy.sh/users/27767)をosu! Alumniへ移動 (2014-02-24)
-- [KanaRin](https://osu.ppy.sh/users/310747)をosu! Alumniへ移動 (2014-02-24)
-- [narakucrimson](https://osu.ppy.sh/users/287468)をosu! Alumniへ移動 (2014-02-24)
-- [NatsumeRin](https://osu.ppy.sh/users/151679)をosu! Alumniへ移動 (2014-02-24)
-- [Nymph](https://osu.ppy.sh/users/601990)をosu! Alumniへ移動 (2014-02-24)
-- [wcx19911123](https://osu.ppy.sh/users/376831)をosu! Alumniへ移動 (2014-02-24)
-- [mtmcl](https://osu.ppy.sh/users/5960)をosu! Alumniに追加 (2014-02-24)
+- ::Gabe::{ user-id=654108 }をビートマップアプリーシエイションチームに追加 (2014-02-02)
+- ::Blue Dragon::{ user-id=19048 }をビートマップアプリーシエイションチームに再追加 (2014-02-03)
+- ::Low::{ user-id=976963 }をビートマップアプリーシエイションチームに再追加 (2014-02-03)
+- ::KSHR::{ user-id=409957 }をビートマップアプリーシエイションチームへ移動 (2014-02-07)
+- ::Marcin::{ user-id=722665 }をグローバルモデレーションチームへ移動 (2014-02-07)
+- ::BeatofIke::{ user-id=1103522 }をビートマップアプリーシエイションチームに追加 (2014-02-07)
+- ::Zero\_\_wind::{ user-id=1822830 }をビートマップアプリーシエイションチームに追加 (2014-02-07)
+- ::kanpakyin::{ user-id=394326 }をosu! Alumniへ移動 (2014-02-07)
+- ::lolcubes::{ user-id=578401 }をビートマップアプリーシエイションチームへ移動 (2014-02-10)
+- ::Dangaard::{ user-id=19488 }をosu! Alumniへ移動 (2014-02-15)
+- ::Flanster::{ user-id=447818 }をosu! Alumniへ移動 (2014-02-15)
+- ::Kitokofox::{ user-id=1815420 }をチャットモデレーターに追加 (2014-02-22)
+- ::Nathanael::{ user-id=2295078 }をSupport Teamに追加 (2014-02-23)
+- ::Loneight::{ user-id=663131 }をチャットモデレーターに追加 (2014-02-23)
+- ::happy30::{ user-id=27767 }をosu! Alumniへ移動 (2014-02-24)
+- ::KanaRin::{ user-id=310747 }をosu! Alumniへ移動 (2014-02-24)
+- ::narakucrimson::{ user-id=287468 }をosu! Alumniへ移動 (2014-02-24)
+- ::NatsumeRin::{ user-id=151679 }をosu! Alumniへ移動 (2014-02-24)
+- ::Nymph::{ user-id=601990 }をosu! Alumniへ移動 (2014-02-24)
+- ::wcx19911123::{ user-id=376831 }をosu! Alumniへ移動 (2014-02-24)
+- ::mtmcl::{ user-id=5960 }をosu! Alumniに追加 (2014-02-24)
 
 ## 3月
 
-- [Chewin](https://osu.ppy.sh/users/617323)をosu! Alumniからビートマップアプリーシエイションチームへ (2014-03-06)
-- [HelloSCV](https://osu.ppy.sh/users/798743)をビートマップアプリーシエイションチームから削除 (2014-03-13)
-- [ljqandylee](https://osu.ppy.sh/users/141469)をosu! Alumniへ移動 (2014-03-17)
-- [h3k1ru](https://osu.ppy.sh/users/291211)をチャットモデレーターに追加 (2014-03-19)
-- [Stefan](https://osu.ppy.sh/users/626907)をチャットモデレーターに追加 (2014-03-28)
-- [blissfulyoshi](https://osu.ppy.sh/users/20865)をosu! Alumniへ移動 (2014-03-29)
-- [lolcubes](https://osu.ppy.sh/users/578401)をosu! Alumniへ移動 (2014-03-29)
-- [SapphireGhost](https://osu.ppy.sh/users/388602)をosu! Alumniへ移動 (2014-03-29)
-- [Teara](https://osu.ppy.sh/users/123491)をosu! Alumniへ移動 (2014-03-29)
-- [Low](https://osu.ppy.sh/users/976963)をビートマップアプリーシエイションチームから削除 (2014-03-29)
-- [ursa](https://osu.ppy.sh/users/321063)をビートマップアプリーシエイションチームに追加 (2014-03-30)
+- ::Chewin::{ user-id=617323 }をosu! Alumniからビートマップアプリーシエイションチームへ (2014-03-06)
+- ::HelloSCV::{ user-id=798743 }をビートマップアプリーシエイションチームから削除 (2014-03-13)
+- ::ljqandylee::{ user-id=141469 }をosu! Alumniへ移動 (2014-03-17)
+- ::h3k1ru::{ user-id=291211 }をチャットモデレーターに追加 (2014-03-19)
+- ::Stefan::{ user-id=626907 }をチャットモデレーターに追加 (2014-03-28)
+- ::blissfulyoshi::{ user-id=20865 }をosu! Alumniへ移動 (2014-03-29)
+- ::lolcubes::{ user-id=578401 }をosu! Alumniへ移動 (2014-03-29)
+- ::SapphireGhost::{ user-id=388602 }をosu! Alumniへ移動 (2014-03-29)
+- ::Teara::{ user-id=123491 }をosu! Alumniへ移動 (2014-03-29)
+- ::Low::{ user-id=976963 }をビートマップアプリーシエイションチームから削除 (2014-03-29)
+- ::ursa::{ user-id=321063 }をビートマップアプリーシエイションチームに追加 (2014-03-30)
 
 ## 4月
 
-- [Kurai](https://osu.ppy.sh/users/77089)をビートマップアプリーシエイションチームへ移動 (2014-04-04)
-- [UnitedWeSin](https://osu.ppy.sh/users/1778050)をビートマップアプリーシエイションチームから削除 (2014-04-11)
-- [Agnes](https://osu.ppy.sh/users/136982)をビートマップアプリーシエイションチームからosu! Alumniへ (2014-04-15)
-- [awp](https://osu.ppy.sh/users/2650)をosu! Alumniへ移動 (2014-04-15)
-- [Makar](https://osu.ppy.sh/users/686389)をosu! Alumniへ移動 (2014-04-15)
-- [La Cataline](https://osu.ppy.sh/users/301279)をosu! Alumniへ移動 (2014-04-15)
-- [senaya](https://osu.ppy.sh/users/304103)をosu! Alumniへ移動 (2014-04-15)
-- [Sushi](https://osu.ppy.sh/users/43108)をosu! Alumniへ移動 (2014-04-15)
-- [Love](https://osu.ppy.sh/users/467487)をビートマップアプリーシエイションチームに追加 (2014-04-21)
-- [Xytox](https://osu.ppy.sh/users/2229274)をチャットモデレーターに追加 (2014-04-21)
-- [Pokie](https://osu.ppy.sh/users/207340)をグローバルモデレーションチームへ移動 (2014-04-22)
-- [Darksonic](https://osu.ppy.sh/users/570042)をosu! Alumniへ移動 (2014-04-24)
+- ::Kurai::{ user-id=77089 }をビートマップアプリーシエイションチームへ移動 (2014-04-04)
+- ::UnitedWeSin::{ user-id=1778050 }をビートマップアプリーシエイションチームから削除 (2014-04-11)
+- ::Agnes::{ user-id=136982 }をビートマップアプリーシエイションチームからosu! Alumniへ (2014-04-15)
+- ::awp::{ user-id=2650 }をosu! Alumniへ移動 (2014-04-15)
+- ::Makar::{ user-id=686389 }をosu! Alumniへ移動 (2014-04-15)
+- ::La Cataline::{ user-id=301279 }をosu! Alumniへ移動 (2014-04-15)
+- ::senaya::{ user-id=304103 }をosu! Alumniへ移動 (2014-04-15)
+- ::Sushi::{ user-id=43108 }をosu! Alumniへ移動 (2014-04-15)
+- ::Love::{ user-id=467487 }をビートマップアプリーシエイションチームに追加 (2014-04-21)
+- ::Xytox::{ user-id=2229274 }をチャットモデレーターに追加 (2014-04-21)
+- ::Pokie::{ user-id=207340 }をグローバルモデレーションチームへ移動 (2014-04-22)
+- ::Darksonic::{ user-id=570042 }をosu! Alumniへ移動 (2014-04-24)
 
 ## 5月
 
-- [Asphyxia](https://osu.ppy.sh/users/1715720)をビートマップアプリーシエイションチームに追加 (2014-05-03)
-- [Leader](https://osu.ppy.sh/users/631530)をビートマップアプリーシエイションチームへ移動 (2014-05-03)
-- [Andrea](https://osu.ppy.sh/users/33599)をグローバルモデレーションチームへ移動 (2014-05-04)
-- [Blue Dragon](https://osu.ppy.sh/users/19048)をビートマップアプリーシエイションチームから削除 (2014-05-04)
-- [Trust](https://osu.ppy.sh/users/1470352)をビートマップアプリーシエイションチームに追加 (2014-05-04)
-- [captin1](https://osu.ppy.sh/users/689997)をビートマップアプリーシエイションチームに追加 (2014-05-04)
-- [kanpakyin](https://osu.ppy.sh/users/394326)をビートマップアプリーシエイションチームに再追加 (2014-05-04)
-- [DakeDekaane](https://osu.ppy.sh/users/1425253)をビートマップアプリーシエイションチームに追加 (2014-05-04)
-- [Guy](https://osu.ppy.sh/users/91738)をビートマップアプリーシエイションチームに追加 (2014-05-04)
-- [Gabe](https://osu.ppy.sh/users/654108)をグローバルモデレーションチームへ移動 (2014-05-05)
-- [Atrue](https://osu.ppy.sh/users/1758523)をビートマップアプリーシエイションチームに追加 (2014-05-06)
-- [Kenezz](https://osu.ppy.sh/users/167050)をビートマップアプリーシエイションチームに再追加 (2014-05-06)
-- [Shiro](https://osu.ppy.sh/users/113005)をビートマップアプリーシエイションチームへ移動 (2014-05-08)
-- [Byakugan249](https://osu.ppy.sh/users/660484)をosu! Alumniへ移動 (2014-05-11)
-- [Strawberry](https://osu.ppy.sh/users/519978)をビートマップアプリーシエイションチームからosu! Alumniへ (2014-05-11)
-- [Krah](https://osu.ppy.sh/users/1436748)をビートマップアプリーシエイションチームから削除 (2014-05-11)
-- [MMzz](https://osu.ppy.sh/users/128993)をosu! Alumniからビートマップアプリーシエイションチームへ (2014-05-15)
-- [Cookie](https://osu.ppy.sh/users/4697926)をチャットモデレーターに追加 (2014-05-16)
-- [Maeglwn](https://osu.ppy.sh/users/2440936)をチャットモデレーターに追加 (2014-05-16)
-- [Pereira006](https://osu.ppy.sh/users/537344)をチャットモデレーターに再追加 (2014-05-16)
-- [KanaRin](https://osu.ppy.sh/users/310747)をビートマップアプリーシエイションチームに再追加 (2014-05-16)
-- [wcx19911123](https://osu.ppy.sh/users/376831)をビートマップアプリーシエイションチームに再追加 (2014-05-19)
-- [Nathanael](https://osu.ppy.sh/users/2295078)をチャットモデレーターに追加 (2014-05-21)
+- ::Asphyxia::{ user-id=1715720 }をビートマップアプリーシエイションチームに追加 (2014-05-03)
+- ::Leader::{ user-id=631530 }をビートマップアプリーシエイションチームへ移動 (2014-05-03)
+- ::Andrea::{ user-id=33599 }をグローバルモデレーションチームへ移動 (2014-05-04)
+- ::Blue Dragon::{ user-id=19048 }をビートマップアプリーシエイションチームから削除 (2014-05-04)
+- ::Trust::{ user-id=1470352 }をビートマップアプリーシエイションチームに追加 (2014-05-04)
+- ::captin1::{ user-id=689997 }をビートマップアプリーシエイションチームに追加 (2014-05-04)
+- ::kanpakyin::{ user-id=394326 }をビートマップアプリーシエイションチームに再追加 (2014-05-04)
+- ::DakeDekaane::{ user-id=1425253 }をビートマップアプリーシエイションチームに追加 (2014-05-04)
+- ::Guy::{ user-id=91738 }をビートマップアプリーシエイションチームに追加 (2014-05-04)
+- ::Gabe::{ user-id=654108 }をグローバルモデレーションチームへ移動 (2014-05-05)
+- ::Atrue::{ user-id=1758523 }をビートマップアプリーシエイションチームに追加 (2014-05-06)
+- ::Kenezz::{ user-id=167050 }をビートマップアプリーシエイションチームに再追加 (2014-05-06)
+- ::Shiro::{ user-id=113005 }をビートマップアプリーシエイションチームへ移動 (2014-05-08)
+- ::Byakugan249::{ user-id=660484 }をosu! Alumniへ移動 (2014-05-11)
+- ::Strawberry::{ user-id=519978 }をビートマップアプリーシエイションチームからosu! Alumniへ (2014-05-11)
+- ::Krah::{ user-id=1436748 }をビートマップアプリーシエイションチームから削除 (2014-05-11)
+- ::MMzz::{ user-id=128993 }をosu! Alumniからビートマップアプリーシエイションチームへ (2014-05-15)
+- ::Cookie::{ user-id=4697926 }をチャットモデレーターに追加 (2014-05-16)
+- ::Maeglwn::{ user-id=2440936 }をチャットモデレーターに追加 (2014-05-16)
+- ::Pereira006::{ user-id=537344 }をチャットモデレーターに再追加 (2014-05-16)
+- ::KanaRin::{ user-id=310747 }をビートマップアプリーシエイションチームに再追加 (2014-05-16)
+- ::wcx19911123::{ user-id=376831 }をビートマップアプリーシエイションチームに再追加 (2014-05-19)
+- ::Nathanael::{ user-id=2295078 }をチャットモデレーターに追加 (2014-05-21)
 
 ## 6月
 
-- [Nymph](https://osu.ppy.sh/users/601990)をビートマップアプリーシエイションチームに再追加 (2014-06-03)
-- [[Shi-Ra]](https://osu.ppy.sh/users/2008489)をビートマップアプリーシエイションチームからosu! Alumniへ (2014-06-07)
-- [Flanster](https://osu.ppy.sh/users/447818)をosu! Alumniからチャットモデレーターへ (2014-06-11)
-- [Kytoxid](https://osu.ppy.sh/users/98460)をosu! Alumniへ移動 (2014-06-12)
-- [ZHSteven](https://osu.ppy.sh/users/142413)をosu! Alumniへ移動 (2014-06-12)
-- [Frostmourne](https://osu.ppy.sh/users/199669)をosu! Alumniへ移動 (2014-06-15)
-- [Krah](https://osu.ppy.sh/users/1436748)をビートマップアプリーシエイションチームに追加 (2014-06-16)
-- [[Shi-Ra]](https://osu.ppy.sh/users/2008489)をosu! Alumniからビートマップアプリーシエイションチームへ (2014-06-17)
-- [YGOkid8](https://osu.ppy.sh/users/69114)をosu! Alumniへ移動 (2014-06-18)
-- [ExPew](https://osu.ppy.sh/users/665612)をビートマップアプリーシエイションチームに追加 (2014-06-23)
-- [Oinari-Sama](https://osu.ppy.sh/users/405508)をSupport Team及びチャットモデレーターに追加 (2014-06-29)
+- ::Nymph::{ user-id=601990 }をビートマップアプリーシエイションチームに再追加 (2014-06-03)
+- ::\1Shi-Ra\1::{ user-id=2008489 }をビートマップアプリーシエイションチームからosu! Alumniへ (2014-06-07)
+- ::Flanster::{ user-id=447818 }をosu! Alumniからチャットモデレーターへ (2014-06-11)
+- ::Kytoxid::{ user-id=98460 }をosu! Alumniへ移動 (2014-06-12)
+- ::ZHSteven::{ user-id=142413 }をosu! Alumniへ移動 (2014-06-12)
+- ::Frostmourne::{ user-id=199669 }をosu! Alumniへ移動 (2014-06-15)
+- ::Krah::{ user-id=1436748 }をビートマップアプリーシエイションチームに追加 (2014-06-16)
+- ::\1Shi-Ra\1::{ user-id=2008489 }をosu! Alumniからビートマップアプリーシエイションチームへ (2014-06-17)
+- ::YGOkid8::{ user-id=69114 }をosu! Alumniへ移動 (2014-06-18)
+- ::ExPew::{ user-id=665612 }をビートマップアプリーシエイションチームに追加 (2014-06-23)
+- ::Oinari-Sama::{ user-id=405508 }をSupport Team及びチャットモデレーターに追加 (2014-06-29)
 
 ## 7月
 
-- [Ukami](https://osu.ppy.sh/users/820865)をチャットモデレーターに追加 (2014-07-07)
-- [Blue Dragon](https://osu.ppy.sh/users/19048)をチャットモデレーターに追加 (2014-07-16)
-- [Aleks719](https://osu.ppy.sh/users/360176)をビートマップアプリーシエイションチームへ移動 (2014-07-21)
-- [Nathanael](https://osu.ppy.sh/users/2295078)をチャットモデレーターからグローバルモデレーションチームへ (2014-07-22)
-- [kingking9](https://osu.ppy.sh/users/1277097)をosu! Alumniへ移動 (2014-07-22)
-- [UnderminE](https://osu.ppy.sh/users/444223)をosu! Alumniへ移動 (2014-07-22)
-- [Pereira006](https://osu.ppy.sh/users/537344)をチャットモデレーターからosu! Alumniへ (2014-07-22)
-- [Dragvon](https://osu.ppy.sh/users/126927)をosu! Alumniへ移動 (2014-07-22)
-- [Gabe](https://osu.ppy.sh/users/654108)をosu! Alumniへ移動 (2014-07-22)
-- [XPJ38](https://osu.ppy.sh/users/273531)をosu! Alumniへ移動 (2014-07-22)
-- [-kevincela-](https://osu.ppy.sh/users/266596)をosu! Alumniへ移動 (2014-07-24)
-- [CXu](https://osu.ppy.sh/users/84841)をosu! Alumniへ移動 (2014-07-24)
-- [Drafura](https://osu.ppy.sh/users/326099)をosu! Alumniへ移動 (2014-07-24)
-- [Lissette](https://osu.ppy.sh/users/326099)をosu! Alumniへ移動 (2014-07-24)
-- [Kawayi Rika](https://osu.ppy.sh/users/596298)をosu! Alumniへ移動 (2014-07-24)
-- [Melophobia](https://osu.ppy.sh/users/1077845)をosu! Alumniへ移動 (2014-07-24)
-- [Nyquill](https://osu.ppy.sh/users/682935)をosu! Alumniへ移動 (2014-07-24)
-- [Kurai](https://osu.ppy.sh/users/77089)をosu! Alumniへ移動 (2014-07-25)
-- [Strawberry](https://osu.ppy.sh/users/519978)をosu! Alumniからビートマップアプリーシエイションチームへ (2014-07-25)
-- [ErunamoJAZZ](https://osu.ppy.sh/users/1869764)をチャットモデレーターに追加 (2014-07-29)
-- [shARPII](https://osu.ppy.sh/users/776257)をチャットモデレーターからグローバルモデレーションチームへ (2014-07-30)
-- [Kurai](https://osu.ppy.sh/users/77089)をosu! Alumniからグローバルモデレーションチームへ (2014-07-30)
+- ::Ukami::{ user-id=820865 }をチャットモデレーターに追加 (2014-07-07)
+- ::Blue Dragon::{ user-id=19048 }をチャットモデレーターに追加 (2014-07-16)
+- ::Aleks719::{ user-id=360176 }をビートマップアプリーシエイションチームへ移動 (2014-07-21)
+- ::Nathanael::{ user-id=2295078 }をチャットモデレーターからグローバルモデレーションチームへ (2014-07-22)
+- ::kingking9::{ user-id=1277097 }をosu! Alumniへ移動 (2014-07-22)
+- ::UnderminE::{ user-id=444223 }をosu! Alumniへ移動 (2014-07-22)
+- ::Pereira006::{ user-id=537344 }をチャットモデレーターからosu! Alumniへ (2014-07-22)
+- ::Dragvon::{ user-id=126927 }をosu! Alumniへ移動 (2014-07-22)
+- ::Gabe::{ user-id=654108 }をosu! Alumniへ移動 (2014-07-22)
+- ::XPJ38::{ user-id=273531 }をosu! Alumniへ移動 (2014-07-22)
+- ::-kevincela-::{ user-id=266596 }をosu! Alumniへ移動 (2014-07-24)
+- ::CXu::{ user-id=84841 }をosu! Alumniへ移動 (2014-07-24)
+- ::Drafura::{ user-id=326099 }をosu! Alumniへ移動 (2014-07-24)
+- ::Lissette::{ user-id=326099 }をosu! Alumniへ移動 (2014-07-24)
+- ::Kawayi Rika::{ user-id=596298 }をosu! Alumniへ移動 (2014-07-24)
+- ::Melophobia::{ user-id=1077845 }をosu! Alumniへ移動 (2014-07-24)
+- ::Nyquill::{ user-id=682935 }をosu! Alumniへ移動 (2014-07-24)
+- ::Kurai::{ user-id=77089 }をosu! Alumniへ移動 (2014-07-25)
+- ::Strawberry::{ user-id=519978 }をosu! Alumniからビートマップアプリーシエイションチームへ (2014-07-25)
+- ::ErunamoJAZZ::{ user-id=1869764 }をチャットモデレーターに追加 (2014-07-29)
+- ::shARPII::{ user-id=776257 }をチャットモデレーターからグローバルモデレーションチームへ (2014-07-30)
+- ::Kurai::{ user-id=77089 }をosu! Alumniからグローバルモデレーションチームへ (2014-07-30)
 
 ## 8月
 
-- [CLSW](https://osu.ppy.sh/users/531253)をビートマップアプリーシエイションチームに追加 (2014-08-10)
-- [AnataNoBaka](https://osu.ppy.sh/users/1769646)をチャットモデレーターに追加 (2014-08-11)
-- [Charles445](https://osu.ppy.sh/users/85000)を品質保証チームへ移動 (2014-08-21)
-- [KSHR](https://osu.ppy.sh/users/409957)をビートマップアプリーシエイションチームから品質保証チームへ (2014-08-21)
-- [p3n](https://osu.ppy.sh/users/123703)を品質保証チームへ移動 (2014-08-21)
-- [Aleks719](https://osu.ppy.sh/users/360176)を品質保証チームへ移動 (2014-08-21)
-- [captin1](https://osu.ppy.sh/users/689997)を品質保証チームへ移動 (2014-08-21)
-- [Deif](https://osu.ppy.sh/users/318565)を品質保証チームへ移動 (2014-08-21)
-- [Garven](https://osu.ppy.sh/users/244216)を品質保証チームへ移動 (2014-08-21)
-- [Irreversible](https://osu.ppy.sh/users/1287964)を品質保証チームへ移動 (2014-08-21)
-- [kanpakyin](https://osu.ppy.sh/users/394326)を品質保証チームへ移動 (2014-08-21)
-- [Krah](https://osu.ppy.sh/users/1436748)をビートマップアプリーシエイションチームから品質保証チームへ (2014-08-21)
-- [Loctav](https://osu.ppy.sh/users/71366)を品質保証チームへ移動 (2014-08-21)
-- [MMzz](https://osu.ppy.sh/users/128993)をビートマップアプリーシエイションチームから品質保証チームへ (2014-08-21)
-- [OnosakiHito](https://osu.ppy.sh/users/290128)をビートマップアプリーシエイションチームから品質保証チームへ (2014-08-21)
-- [Shiro](https://osu.ppy.sh/users/113005)をビートマップアプリーシエイションチームから品質保証チームへ (2014-08-21)
-- [[Shi-Ra]](https://osu.ppy.sh/users/2008489)をビートマップアプリーシエイションチームから品質保証チームへ (2014-08-21)
-- [NoHitter](https://osu.ppy.sh/users/124455)をビートマップアプリーシエイションチームへ移動 (2014-08-22)
-- [narakucrimson](https://osu.ppy.sh/users/287468)をビートマップアプリーシエイションチームへ移動 (2014-08-22)
-- [happy30](https://osu.ppy.sh/users/27767)をビートマップアプリーシエイションチームへ移動 (2014-08-22)
-- [Kawayi Rika](https://osu.ppy.sh/users/596298)をビートマップアプリーシエイションチームへ移動 (2014-08-23)
-- [-kevincela-](https://osu.ppy.sh/users/266596)をosu! Alumniからビートマップアプリーシエイションチームへ (2014-08-23)
-- [Gonzvlo](https://osu.ppy.sh/users/237733)をビートマップアプリーシエイションチームへ移動 (2014-08-24)
-- [Krisom](https://osu.ppy.sh/users/99269)をビートマップアプリーシエイションチームへ移動 (2014-08-24)
-- [Melophobia](https://osu.ppy.sh/users/1077845)をビートマップアプリーシエイションチームへ移動 (2014-08-24)
-- [ToGlette](https://osu.ppy.sh/users/1076236)をチャットモデレーターに追加 (2014-08-27)
+- ::CLSW::{ user-id=531253 }をビートマップアプリーシエイションチームに追加 (2014-08-10)
+- ::AnataNoBaka::{ user-id=1769646 }をチャットモデレーターに追加 (2014-08-11)
+- ::Charles445::{ user-id=85000 }を品質保証チームへ移動 (2014-08-21)
+- ::KSHR::{ user-id=409957 }をビートマップアプリーシエイションチームから品質保証チームへ (2014-08-21)
+- ::p3n::{ user-id=123703 }を品質保証チームへ移動 (2014-08-21)
+- ::Aleks719::{ user-id=360176 }を品質保証チームへ移動 (2014-08-21)
+- ::captin1::{ user-id=689997 }を品質保証チームへ移動 (2014-08-21)
+- ::Deif::{ user-id=318565 }を品質保証チームへ移動 (2014-08-21)
+- ::Garven::{ user-id=244216 }を品質保証チームへ移動 (2014-08-21)
+- ::Irreversible::{ user-id=1287964 }を品質保証チームへ移動 (2014-08-21)
+- ::kanpakyin::{ user-id=394326 }を品質保証チームへ移動 (2014-08-21)
+- ::Krah::{ user-id=1436748 }をビートマップアプリーシエイションチームから品質保証チームへ (2014-08-21)
+- ::Loctav::{ user-id=71366 }を品質保証チームへ移動 (2014-08-21)
+- ::MMzz::{ user-id=128993 }をビートマップアプリーシエイションチームから品質保証チームへ (2014-08-21)
+- ::OnosakiHito::{ user-id=290128 }をビートマップアプリーシエイションチームから品質保証チームへ (2014-08-21)
+- ::Shiro::{ user-id=113005 }をビートマップアプリーシエイションチームから品質保証チームへ (2014-08-21)
+- ::\1Shi-Ra\1::{ user-id=2008489 }をビートマップアプリーシエイションチームから品質保証チームへ (2014-08-21)
+- ::NoHitter::{ user-id=124455 }をビートマップアプリーシエイションチームへ移動 (2014-08-22)
+- ::narakucrimson::{ user-id=287468 }をビートマップアプリーシエイションチームへ移動 (2014-08-22)
+- ::happy30::{ user-id=27767 }をビートマップアプリーシエイションチームへ移動 (2014-08-22)
+- ::Kawayi Rika::{ user-id=596298 }をビートマップアプリーシエイションチームへ移動 (2014-08-23)
+- ::-kevincela-::{ user-id=266596 }をosu! Alumniからビートマップアプリーシエイションチームへ (2014-08-23)
+- ::Gonzvlo::{ user-id=237733 }をビートマップアプリーシエイションチームへ移動 (2014-08-24)
+- ::Krisom::{ user-id=99269 }をビートマップアプリーシエイションチームへ移動 (2014-08-24)
+- ::Melophobia::{ user-id=1077845 }をビートマップアプリーシエイションチームへ移動 (2014-08-24)
+- ::ToGlette::{ user-id=1076236 }をチャットモデレーターに追加 (2014-08-27)
 
 ### BAT 新規追加
 
 以下の全てのユーザーは、2014-08-24に追加されました。
 
-- [arcwinolivirus](https://osu.ppy.sh/users/2039089)
-- [riffy](https://osu.ppy.sh/users/597957)
-- [CDFA](https://osu.ppy.sh/users/135630)
-- [Cherry Blossom](https://osu.ppy.sh/users/1156742)
-- [Delis](https://osu.ppy.sh/users/1603923)
-- [Myxo](https://osu.ppy.sh/users/2202645)
-- [EvilElvis](https://osu.ppy.sh/users/1848318)
-- [Flask](https://osu.ppy.sh/users/959763)
-- [Flower](https://osu.ppy.sh/users/1033017)
-- [Fycho](https://osu.ppy.sh/users/1876867)
-- [\_Gezo\_](https://osu.ppy.sh/users/481582)
-- [Hinsvar](https://osu.ppy.sh/users/1249323)
-- [Kyshiro](https://osu.ppy.sh/users/640611)
-- [Lanturn](https://osu.ppy.sh/users/1446665)
-- [Loneight](https://osu.ppy.sh/users/663131)
-- [Mao](https://osu.ppy.sh/users/2204515)
-- [mingmichael](https://osu.ppy.sh/users/1570876)
-- [mintong89](https://osu.ppy.sh/users/966210)
-- [Mystyk](https://osu.ppy.sh/users/930165)
-- [Nemis](https://osu.ppy.sh/users/1635091)
-- [No\_Gu](https://osu.ppy.sh/users/654883)
-- [qoot8123](https://osu.ppy.sh/users/766371)
-- [Rumia-](https://osu.ppy.sh/users/1787171)
-- [Sey](https://osu.ppy.sh/users/553656)
-- [Spectator](https://osu.ppy.sh/users/702598)
-- [TicClick](https://osu.ppy.sh/users/672931)
-- [UnitedWeSin](https://osu.ppy.sh/users/1778050)
+- ::arcwinolivirus::{ user-id=2039089 }
+- ::riffy::{ user-id=597957 }
+- ::CDFA::{ user-id=135630 }
+- ::Cherry Blossom::{ user-id=1156742 }
+- ::Delis::{ user-id=1603923 }
+- ::Myxo::{ user-id=2202645 }
+- ::EvilElvis::{ user-id=1848318 }
+- ::Flask::{ user-id=959763 }
+- ::Flower::{ user-id=1033017 }
+- ::Fycho::{ user-id=1876867 }
+- ::\_Gezo\_::{ user-id=481582 }
+- ::Hinsvar::{ user-id=1249323 }
+- ::Kyshiro::{ user-id=640611 }
+- ::Lanturn::{ user-id=1446665 }
+- ::Loneight::{ user-id=663131 }
+- ::Mao::{ user-id=2204515 }
+- ::mingmichael::{ user-id=1570876 }
+- ::mintong89::{ user-id=966210 }
+- ::Mystyk::{ user-id=930165 }
+- ::Nemis::{ user-id=1635091 }
+- ::No\_Gu::{ user-id=654883 }
+- ::qoot8123::{ user-id=766371 }
+- ::Rumia-::{ user-id=1787171 }
+- ::Sey::{ user-id=553656 }
+- ::Spectator::{ user-id=702598 }
+- ::TicClick::{ user-id=672931 }
+- ::UnitedWeSin::{ user-id=1778050 }
 
 ---
 
 以下の全てのユーザーは、2014-08-30に追加されました。
 
-- [Aka](https://osu.ppy.sh/users/1307553)
-- [Gero](https://osu.ppy.sh/users/1467715)
-- [IamKwaN](https://osu.ppy.sh/users/1856463)
-- [Kurokami](https://osu.ppy.sh/users/260933)
-- [Low](https://osu.ppy.sh/users/976963)
-- [Satellite](https://osu.ppy.sh/users/1661227)
-- [Secretpipe](https://osu.ppy.sh/users/2208964)
-- [Simple\_Star](https://osu.ppy.sh/users/2300597)
-- [Spy](https://osu.ppy.sh/users/1217122)
-- [Tari](https://osu.ppy.sh/users/1779172)
-- [those](https://osu.ppy.sh/users/557166)
-- [Xinely](https://osu.ppy.sh/users/1521445)
+- ::Aka::{ user-id=1307553 }
+- ::Gero::{ user-id=1467715 }
+- ::IamKwaN::{ user-id=1856463 }
+- ::Kurokami::{ user-id=260933 }
+- ::Low::{ user-id=976963 }
+- ::Satellite::{ user-id=1661227 }
+- ::Secretpipe::{ user-id=2208964 }
+- ::Simple\_Star::{ user-id=2300597 }
+- ::Spy::{ user-id=1217122 }
+- ::Tari::{ user-id=1779172 }
+- ::those::{ user-id=557166 }
+- ::Xinely::{ user-id=1521445 }
 
 ## 9月
 
-- [Gabe](https://osu.ppy.sh/users/654108)をosu! Alumniからビートマップアプリーシエイションチームへ (2014-09-02)
-- [Frostmourne](https://osu.ppy.sh/users/199669)をosu! Alumniから品質保証チームへ (2014-09-05)
-- [XavierJones](https://osu.ppy.sh/users/495733)をチャットモデレーターに追加 (2014-09-08)
-- [Card N'FoRcE](https://osu.ppy.sh/users/3936)をosu! Alumniへ移動 (2014-09-11)
-- [Asphyxia](https://osu.ppy.sh/users/1715720)をビートマップアプリーシエイションチームから品質保証チームへ (2014-09-20)
-- [captin1](https://osu.ppy.sh/users/689997)をビートマップアプリーシエイションチームへ移動 (2014-09-20)
-- [TicClick](https://osu.ppy.sh/users/672931)をビートマップアプリーシエイションチームから品質保証チームへ (2014-09-20)
-- [ztrot](https://osu.ppy.sh/users/6347)をビートマップアプリーシエイションチームへ移動 (2014-09-20)
-- [mintong89](https://osu.ppy.sh/users/966210)をビートマップアプリーシエイションチームから削除 (2014-09-23)
+- ::Gabe::{ user-id=654108 }をosu! Alumniからビートマップアプリーシエイションチームへ (2014-09-02)
+- ::Frostmourne::{ user-id=199669 }をosu! Alumniから品質保証チームへ (2014-09-05)
+- ::XavierJones::{ user-id=495733 }をチャットモデレーターに追加 (2014-09-08)
+- ::Card N'FoRcE::{ user-id=3936 }をosu! Alumniへ移動 (2014-09-11)
+- ::Asphyxia::{ user-id=1715720 }をビートマップアプリーシエイションチームから品質保証チームへ (2014-09-20)
+- ::captin1::{ user-id=689997 }をビートマップアプリーシエイションチームへ移動 (2014-09-20)
+- ::TicClick::{ user-id=672931 }をビートマップアプリーシエイションチームから品質保証チームへ (2014-09-20)
+- ::ztrot::{ user-id=6347 }をビートマップアプリーシエイションチームへ移動 (2014-09-20)
+- ::mintong89::{ user-id=966210 }をビートマップアプリーシエイションチームから削除 (2014-09-23)
 
 ### BAT 新規追加
 
 以下の全てのユーザーは、2014-09-17に追加されました。
 
-- [Konei](https://osu.ppy.sh/users/1446085)
-- [Natsu](https://osu.ppy.sh/users/1953876)
-- [nold\_1702](https://osu.ppy.sh/users/515967)
-- [Raiku](https://osu.ppy.sh/users/1525538)
-- [Stefan](https://osu.ppy.sh/users/626907)
-- [smallboat](https://osu.ppy.sh/users/243049)
-- [Umi](https://osu.ppy.sh/users/2075222)
-- [xChippy](https://osu.ppy.sh/users/1026491)
-- [Oracle](https://osu.ppy.sh/users/1504456)
-- [Lust](https://osu.ppy.sh/users/2316951)
+- ::Konei::{ user-id=1446085 }
+- ::Natsu::{ user-id=1953876 }
+- ::nold\_1702::{ user-id=515967 }
+- ::Raiku::{ user-id=1525538 }
+- ::Stefan::{ user-id=626907 }
+- ::smallboat::{ user-id=243049 }
+- ::Umi::{ user-id=2075222 }
+- ::xChippy::{ user-id=1026491 }
+- ::Oracle::{ user-id=1504456 }
+- ::Lust::{ user-id=2316951 }
 
 ## 10月
 
-- [Trust](https://osu.ppy.sh/users/1470352)をビートマップアプリーシエイションチームから削除 (2014-10-04)
-- [Spy](https://osu.ppy.sh/users/1217122)を品質保証チームへ移動 (2014-10-08)
-- [Chewin](https://osu.ppy.sh/users/617323)をosu! Alumniへ移動 (2014-10-19)
-- [wcx19911123](https://osu.ppy.sh/users/376831)をビートマップアプリーシエイションチームから削除 (2014-10-22)
-- [Kurai](https://osu.ppy.sh/users/77089)をグローバルモデレーションチームからosu! Alumniへ (2014-10-28)
-- [Sakura](https://osu.ppy.sh/users/289422)をosu! Alumniからグローバルモデレーションチームへ (2014-10-28)
-- [Sakura](https://osu.ppy.sh/users/289422)をビートマップアプリーシエイションチームへ移動 (2014-10-31)
+- ::Trust::{ user-id=1470352 }をビートマップアプリーシエイションチームから削除 (2014-10-04)
+- ::Spy::{ user-id=1217122 }を品質保証チームへ移動 (2014-10-08)
+- ::Chewin::{ user-id=617323 }をosu! Alumniへ移動 (2014-10-19)
+- ::wcx19911123::{ user-id=376831 }をビートマップアプリーシエイションチームから削除 (2014-10-22)
+- ::Kurai::{ user-id=77089 }をグローバルモデレーションチームからosu! Alumniへ (2014-10-28)
+- ::Sakura::{ user-id=289422 }をosu! Alumniからグローバルモデレーションチームへ (2014-10-28)
+- ::Sakura::{ user-id=289422 }をビートマップアプリーシエイションチームへ移動 (2014-10-31)
 
 ## 11月
 
-- [LunarSakuya](https://osu.ppy.sh/users/1027860)をosu! Alumniへ移動 (2014-11-02)
-- [alacat](https://osu.ppy.sh/users/869782)を品質保証チームへ移動 (2014-11-04)
-- [mancuso\_JM\_](https://osu.ppy.sh/users/521568)をグローバルモデレーションチームへ移動 (2014-11-05)
-- [Frostmourne](https://osu.ppy.sh/users/199669)を品質保証チームからosu! Alumniへ (2014-11-05)
-- [Maeglwn](https://osu.ppy.sh/users/2440936)をグローバルモデレーションチームへ移動 (2014-11-05)
-- [Stefan](https://osu.ppy.sh/users/626907)をチャットモデレーターからグローバルモデレーションチームへ (2014-11-05)
-- [drum drum](https://osu.ppy.sh/users/4435526)をSupport Teamに追加 (2014-11-06)
-- [Asphyxia](https://osu.ppy.sh/users/1715720)を品質保証チームからグローバルモデレーションチームへ (2014-11-14)
-- [Mao](https://osu.ppy.sh/users/2204515)を品質保証チームへ移動 (2014-11-14)
-- [Gonzvlo](https://osu.ppy.sh/users/237733)をosu! Alumniへ移動 (2014-11-19)
-- [Darksonic](https://osu.ppy.sh/users/570042)をosu! Alumniからグローバルモデレーションチームへ (2014-11-19)
-- [Krah](https://osu.ppy.sh/users/1436748)を品質保証チームからosu! Alumniへ (2014-11-25)
-- [ursa](https://osu.ppy.sh/users/321063)を品質保証チームへ移動 (2014-11-25)
-- [Neil Watts](https://osu.ppy.sh/users/3048059)をチャットモデレーターに追加 (2014-11-28)
+- ::LunarSakuya::{ user-id=1027860 }をosu! Alumniへ移動 (2014-11-02)
+- ::alacat::{ user-id=869782 }を品質保証チームへ移動 (2014-11-04)
+- ::mancuso\_JM\_::{ user-id=521568 }をグローバルモデレーションチームへ移動 (2014-11-05)
+- ::Frostmourne::{ user-id=199669 }を品質保証チームからosu! Alumniへ (2014-11-05)
+- ::Maeglwn::{ user-id=2440936 }をグローバルモデレーションチームへ移動 (2014-11-05)
+- ::Stefan::{ user-id=626907 }をチャットモデレーターからグローバルモデレーションチームへ (2014-11-05)
+- ::drum drum::{ user-id=4435526 }をSupport Teamに追加 (2014-11-06)
+- ::Asphyxia::{ user-id=1715720 }を品質保証チームからグローバルモデレーションチームへ (2014-11-14)
+- ::Mao::{ user-id=2204515 }を品質保証チームへ移動 (2014-11-14)
+- ::Gonzvlo::{ user-id=237733 }をosu! Alumniへ移動 (2014-11-19)
+- ::Darksonic::{ user-id=570042 }をosu! Alumniからグローバルモデレーションチームへ (2014-11-19)
+- ::Krah::{ user-id=1436748 }を品質保証チームからosu! Alumniへ (2014-11-25)
+- ::ursa::{ user-id=321063 }を品質保証チームへ移動 (2014-11-25)
+- ::Neil Watts::{ user-id=3048059 }をチャットモデレーターに追加 (2014-11-28)
 
 ### BAT 新規追加
 
 以下の全てのユーザーは、2014-11-22に追加されました。
 
-- [Gamu](https://osu.ppy.sh/users/611174)
-- [Hollow Wings](https://osu.ppy.sh/users/416662)
-- [Kenterz](https://osu.ppy.sh/users/1587976)
-- [Minakami Yuki](https://osu.ppy.sh/users/2433507)
-- [Nwolf](https://osu.ppy.sh/users/1910766)
-- [pishifat](https://osu.ppy.sh/users/3178418)
-- [Rakuen](https://osu.ppy.sh/users/2426126)
+- ::Gamu::{ user-id=611174 }
+- ::Hollow Wings::{ user-id=416662 }
+- ::Kenterz::{ user-id=1587976 }
+- ::Minakami Yuki::{ user-id=2433507 }
+- ::Nwolf::{ user-id=1910766 }
+- ::pishifat::{ user-id=3178418 }
+- ::Rakuen::{ user-id=2426126 }
 
 ## 12月
 
-- [KanaRin](https://osu.ppy.sh/users/310747)をビートマップアプリーシエイションチームから削除 (2014-12-02)
-- [those](https://osu.ppy.sh/users/557166)をビートマップアプリーシエイションチームから削除 (2014-12-02)
-- [grumd](https://osu.ppy.sh/users/530913)をビートマップアプリーシエイションチームから削除 (2014-12-02)
-- [UnitedWeSin](https://osu.ppy.sh/users/1778050)をビートマップアプリーシエイションチームから削除 (2014-12-02)
-- [Tasha](https://osu.ppy.sh/users/1031958)をビートマップアプリーシエイションチームから削除 (2014-12-02)
-- [Strawberry](https://osu.ppy.sh/users/519978)をビートマップアプリーシエイションチームからosu! Alumniへ (2014-12-02)
-- [happy30](https://osu.ppy.sh/users/27767)をosu! Alumniへ移動 (2014-12-02)
-- [ztrot](https://osu.ppy.sh/users/6347)をグローバルモデレーションチームへ移動 (2014-12-02)
-- [Roxas](https://osu.ppy.sh/users/1041833)をosu! Alumniへ移動 (2014-12-02)
-- [Kurai](https://osu.ppy.sh/users/77089)をosu! Alumniからグローバルモデレーションチームへ (2014-12-02)
-- [drum drum](https://osu.ppy.sh/users/4435526)をチャットモデレーターに追加 (2014-12-07)
-- [ExPew](https://osu.ppy.sh/users/665612)を品質保証チームへ移動 (2014-12-13)
-- [Atrue](https://osu.ppy.sh/users/1758523)をビートマップアプリーシエイションチームから品質保証チームへ (2014-12-16)
-- [KSHR](https://osu.ppy.sh/users/409957)を品質保証チームからosu! Alumniへ (2014-12-16)
-- [Pereira006](https://osu.ppy.sh/users/537344)をosu! Alumniからチャットモデレーターへ (2014-12-16)
-- [p3n](https://osu.ppy.sh/users/123703)をStaff Managementへ移動 (2014-12-22)
-- [popner](https://osu.ppy.sh/users/759860)をosu! Alumniへ移動 (2014-12-28)
-- [Scorpiour](https://osu.ppy.sh/users/867259)をグローバルモデレーションチームへ移動 (2014-12-29)
-- [IamKwaN](https://osu.ppy.sh/users/1856463)をチャットモデレーターに追加 (2014-12-30)
+- ::KanaRin::{ user-id=310747 }をビートマップアプリーシエイションチームから削除 (2014-12-02)
+- ::those::{ user-id=557166 }をビートマップアプリーシエイションチームから削除 (2014-12-02)
+- ::grumd::{ user-id=530913 }をビートマップアプリーシエイションチームから削除 (2014-12-02)
+- ::UnitedWeSin::{ user-id=1778050 }をビートマップアプリーシエイションチームから削除 (2014-12-02)
+- ::Tasha::{ user-id=1031958 }をビートマップアプリーシエイションチームから削除 (2014-12-02)
+- ::Strawberry::{ user-id=519978 }をビートマップアプリーシエイションチームからosu! Alumniへ (2014-12-02)
+- ::happy30::{ user-id=27767 }をosu! Alumniへ移動 (2014-12-02)
+- ::ztrot::{ user-id=6347 }をグローバルモデレーションチームへ移動 (2014-12-02)
+- ::Roxas::{ user-id=1041833 }をosu! Alumniへ移動 (2014-12-02)
+- ::Kurai::{ user-id=77089 }をosu! Alumniからグローバルモデレーションチームへ (2014-12-02)
+- ::drum drum::{ user-id=4435526 }をチャットモデレーターに追加 (2014-12-07)
+- ::ExPew::{ user-id=665612 }を品質保証チームへ移動 (2014-12-13)
+- ::Atrue::{ user-id=1758523 }をビートマップアプリーシエイションチームから品質保証チームへ (2014-12-16)
+- ::KSHR::{ user-id=409957 }を品質保証チームからosu! Alumniへ (2014-12-16)
+- ::Pereira006::{ user-id=537344 }をosu! Alumniからチャットモデレーターへ (2014-12-16)
+- ::p3n::{ user-id=123703 }をStaff Managementへ移動 (2014-12-22)
+- ::popner::{ user-id=759860 }をosu! Alumniへ移動 (2014-12-28)
+- ::Scorpiour::{ user-id=867259 }をグローバルモデレーションチームへ移動 (2014-12-29)
+- ::IamKwaN::{ user-id=1856463 }をチャットモデレーターに追加 (2014-12-30)
 
 ### BAT 新規追加
 
 以下の全てのユーザーは、2014-12-02に追加されました。
 
-- [Kibbleru](https://osu.ppy.sh/users/3193504)
-- [Kloyd](https://osu.ppy.sh/users/1574070)
-- [Kyubey](https://osu.ppy.sh/users/2195646)
-- [Leorda](https://osu.ppy.sh/users/119134)
-- [lkx_shore](https://osu.ppy.sh/users/247937)
-- [Sieg](https://osu.ppy.sh/users/1404615)
-- [wcx19911123](https://osu.ppy.sh/users/376831)
-- [xxdeathx](https://osu.ppy.sh/users/3034880)
+- ::Kibbleru::{ user-id=3193504 }
+- ::Kloyd::{ user-id=1574070 }
+- ::Kyubey::{ user-id=2195646 }
+- ::Leorda::{ user-id=119134 }
+- ::lkx\1shore::{ user-id=247937 }
+- ::Sieg::{ user-id=1404615 }
+- ::wcx19911123::{ user-id=376831 }
+- ::xxdeathx::{ user-id=3034880 }

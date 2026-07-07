@@ -25,7 +25,7 @@ American electronic producer **Kenneyon** offers a modern upbeat sound with a fo
 
 ### Kenneyon and Kara - Wildflower
 
-Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/1914385) hosted by [Deif](https://osu.ppy.sh/users/318565)!
+Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/1914385) hosted by ::Deif::{ user-id=318565 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/351/Wildflower/Kenneyon%20%26%20Kara%20-%20Wildflower.mp3">

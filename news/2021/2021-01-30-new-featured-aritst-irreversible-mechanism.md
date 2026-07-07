@@ -13,7 +13,7 @@ Holding true to their name, progressive death metal titan **Irreversible Mechani
 
 We've secured **14** songs from both of the band's records, mappers are free to venture and immerse themselves in the world created by **Irreversible Mechanism**.
 
-"What can I expect from these maps", you ask? We asked a few players around rank #50,000 to demo a section of [Into the Void](https://osu.ppy.sh/beatmapsets/454451) mapped by [Mazzerin](https://osu.ppy.sh/users/2942381) to give you a quick taste (plus some previews of other songs):
+"What can I expect from these maps", you ask? We asked a few players around rank #50,000 to demo a section of [Into the Void](https://osu.ppy.sh/beatmapsets/454451) mapped by ::Mazzerin::{ user-id=2942381 } to give you a quick taste (plus some previews of other songs):
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ We've secured **14** songs from both of the band's records, mappers are free to 
 
 ### Into the Void
 
-Check out [this osu! map](https://osu.ppy.sh/beatmapsets/454451) by [Mazzerin](https://osu.ppy.sh/users/2942381) or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/731758) by [Raiden](https://osu.ppy.sh/users/2239480).
+Check out [this osu! map](https://osu.ppy.sh/beatmapsets/454451) by ::Mazzerin::{ user-id=2942381 } or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/731758) by ::Raiden::{ user-id=2239480 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/135/Infinite%20Fields/Irreversible%20Mechanism%20-%20Into%20the%20Void.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [this osu! map](https://osu.ppy.sh/beatmapsets/454451) by [Mazzerin](h
 
 ### Cold Winds
 
-If you're not quite ready for carpal tunnel yet, maybe try [this easier mapset](https://osu.ppy.sh/beatmapsets/1030737) by [Platnuu](https://osu.ppy.sh/users/8396941)!
+If you're not quite ready for carpal tunnel yet, maybe try [this easier mapset](https://osu.ppy.sh/beatmapsets/1030737) by ::Platnuu::{ user-id=8396941 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/135/Infinite%20Fields/Irreversible%20Mechanism%20-%20Cold%20Winds.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ If you're not quite ready for carpal tunnel yet, maybe try [this easier mapset](
 
 ### Outburst
 
-Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1127872) by [Gabdu09](https://osu.ppy.sh/users/8852605)!
+Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1127872) by ::Gabdu09::{ user-id=8852605 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/135/Infinite%20Fields/Irreversible%20Mechanism%20-%20Outburst.mp3" type="audio/mpeg">

@@ -35,7 +35,7 @@ Project Loved 团队成员将获得一个显示其加入 Project Loved 年限的
 
 ## 琐闻
 
-- ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) 于 2017 年 9 月创建了最初的队长团队，并建立了[队长精选](/wiki/History_of_osu!/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present))系统，该系统后来更名为 Project Loved。直到 2019 年底，他一直都监督和管理着整个项目。
+- ::{ flag=US }:: ::Toy::{ user-id=2757689 } 于 2017 年 9 月创建了最初的队长团队，并建立了[队长精选](/wiki/History_of_osu!/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present))系统，该系统后来更名为 Project Loved。直到 2019 年底，他一直都监督和管理着整个项目。
 - 在 2021 年 4 月 28 日之前，[Project Loved 团队页面](https://osu.ppy.sh/groups/31)并未公开，仅用于管理目的。目前，此页面已公开。
-  - 在 2021 年 4 月 16 日之前，该小组中仅有的成员有 ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350)、::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237)、::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) 和 ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689)。现在，所有 Project Loved 团队成员均属于该小组。
+  - 在 2021 年 4 月 16 日之前，该小组中仅有的成员有 ::{ flag=US }:: ::clayton::{ user-id=3666350 }、::{ flag=LT }:: ::huu::{ user-id=6044237 }、::{ flag=SG }:: ::Shoegazer::{ user-id=2520707 } 和 ::{ flag=US }:: ::Toy::{ user-id=2757689 }。现在，所有 Project Loved 团队成员均属于该小组。
 - 自 2023 年 4 月 28 日起，团队成员将根据其在团队中的任期长度获得相应主页奖牌。

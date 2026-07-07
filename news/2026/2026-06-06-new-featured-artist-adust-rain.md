@@ -29,7 +29,7 @@ Preview **Adust Rain**'s sound for yourself:
 
 ### Adust Rain - psychology
 
-Try [the map that introduced **Adust Rain** to osu!](https://osu.ppy.sh/beatmapsets/890981) hosted by [eiri-](https://osu.ppy.sh/users/3388410) or [this Loved osu!taiko rendition](https://osu.ppy.sh/beatmapsets/834130) hosted by [Shallty](https://osu.ppy.sh/users/6205471)!
+Try [the map that introduced **Adust Rain** to osu!](https://osu.ppy.sh/beatmapsets/890981) hosted by ::eiri-::{ user-id=3388410 } or [this Loved osu!taiko rendition](https://osu.ppy.sh/beatmapsets/834130) hosted by ::Shallty::{ user-id=6205471 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/548/Songs/Adust%20Rain%20-%20psychology.mp3">
@@ -37,7 +37,7 @@ Try [the map that introduced **Adust Rain** to osu!](https://osu.ppy.sh/beatmaps
 
 ### Adust Rain - TRAUMATIC SYNDROME -Lenboxx Remix-
 
-Torture your extremities on [the hardest **Adust Rain** map to date](https://osu.ppy.sh/beatmapsets/1064743) hosted by [eiri-](https://osu.ppy.sh/users/3388410)!
+Torture your extremities on [the hardest **Adust Rain** map to date](https://osu.ppy.sh/beatmapsets/1064743) hosted by ::eiri-::{ user-id=3388410 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/548/Songs/Adust%20Rain%20-%20TRAUMATIC%20SYNDROME%20-Lenboxx%20Remix-.mp3">
@@ -45,7 +45,7 @@ Torture your extremities on [the hardest **Adust Rain** map to date](https://osu
 
 ### Adust Rain - Misery Song
 
-As mentioned above, not all of **Adust Rain**'s music is Touhou arrangements. Experience this fully original track through [this osu! map](https://osu.ppy.sh/beatmapsets/1201708) by [gazimal](https://osu.ppy.sh/users/6055351) or [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1962820) by [\[LS\]Yunxmi](https://osu.ppy.sh/users/21339826)!
+As mentioned above, not all of **Adust Rain**'s music is Touhou arrangements. Experience this fully original track through [this osu! map](https://osu.ppy.sh/beatmapsets/1201708) by ::gazimal::{ user-id=6055351 } or [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1962820) by ::\[LS\]Yunxmi::{ user-id=21339826 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/548/Songs/Adust%20Rain%20-%20Misery%20Song.mp3">
@@ -53,7 +53,7 @@ As mentioned above, not all of **Adust Rain**'s music is Touhou arrangements. Ex
 
 ### Adust Rain - Imperfect Cherry Blossom
 
-...Or go back to the Touhou classics with [this osu! map](https://osu.ppy.sh/beatmapsets/2069184) hosted by [Orkay](https://osu.ppy.sh/users/9321674) or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2095104) hosted by [Erowdi](https://osu.ppy.sh/users/22522738)!
+...Or go back to the Touhou classics with [this osu! map](https://osu.ppy.sh/beatmapsets/2069184) hosted by ::Orkay::{ user-id=9321674 } or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2095104) hosted by ::Erowdi::{ user-id=22522738 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/548/Songs/Adust%20Rain%20-%20Imperfect%20Cherry%20Blossom.mp3">
@@ -61,7 +61,7 @@ As mentioned above, not all of **Adust Rain**'s music is Touhou arrangements. Ex
 
 ### Adust Rain - Eleven Stud
 
-Play through [this Loved osu! difficulty](https://osu.ppy.sh/beatmapsets/909855) by [aru-](https://osu.ppy.sh/users/7379108) or [this 4K osu!mania difficulty](https://osu.ppy.sh/beatmapsets/2025551) by [\[LS\]Yunxmi](https://osu.ppy.sh/users/21339826)!
+Play through [this Loved osu! difficulty](https://osu.ppy.sh/beatmapsets/909855) by ::aru-::{ user-id=7379108 } or [this 4K osu!mania difficulty](https://osu.ppy.sh/beatmapsets/2025551) by ::\[LS\]Yunxmi::{ user-id=21339826 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/548/Songs/Adust%20Rain%20-%20Eleven%20Stud.mp3">
@@ -69,7 +69,7 @@ Play through [this Loved osu! difficulty](https://osu.ppy.sh/beatmapsets/909855)
 
 ### Adust Rain - Seven Style
 
-Experience [this osu! map](https://osu.ppy.sh/beatmapsets/930707) hosted by [tatemae](https://osu.ppy.sh/users/5223028) or [this hardcore Loved set](https://osu.ppy.sh/beatmapsets/857533) hosted by [Shallty](https://osu.ppy.sh/users/6205471)!
+Experience [this osu! map](https://osu.ppy.sh/beatmapsets/930707) hosted by ::tatemae::{ user-id=5223028 } or [this hardcore Loved set](https://osu.ppy.sh/beatmapsets/857533) hosted by ::Shallty::{ user-id=6205471 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/548/Songs/Adust%20Rain%20-%20Seven%20Style.mp3">
@@ -77,7 +77,7 @@ Experience [this osu! map](https://osu.ppy.sh/beatmapsets/930707) hosted by [tat
 
 ### Adust Rain - Joker's Cranberrybox
 
-Try out [this megaset](https://osu.ppy.sh/beatmapsets/1815728) hosted by [tokiko](https://osu.ppy.sh/users/2836455)!
+Try out [this megaset](https://osu.ppy.sh/beatmapsets/1815728) hosted by ::tokiko::{ user-id=2836455 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/548/Songs/Adust%20Rain%20-%20Joker%27s%20Cranberrybox.mp3">
@@ -85,7 +85,7 @@ Try out [this megaset](https://osu.ppy.sh/beatmapsets/1815728) hosted by [tokiko
 
 ### Adust Rain - Dawn
 
-Cool off with [this 4K osu!mania set](https://osu.ppy.sh/beatmapsets/657204) hosted by [laughingcomet](https://osu.ppy.sh/users/3432877)!
+Cool off with [this 4K osu!mania set](https://osu.ppy.sh/beatmapsets/657204) hosted by ::laughingcomet::{ user-id=3432877 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/548/Songs/Adust%20Rain%20-%20Dawn.mp3">

@@ -11,7 +11,7 @@ Behold, the Christmas gift of mapping and modding news for all! With major chang
 
 ## Opening
 
-by [JBHyperion](https://osu.ppy.sh/users/4879508)
+by ::JBHyperion::{ user-id=4879508 }
 
 Greetings everyone – it's been a while!
 
@@ -31,7 +31,7 @@ In future evaluations, we would like to trial a less punishing system, whereby e
 
 ### New Beatmap Nominator Service Badges
 
-Christmas wouldn't be Christmas without gift-giving! In the spirit of the holidays, and in recognition of some of our hardest-working and longest-serving Beatmap Nominators, please join me in showing your utmost appreciation for [Kawawa](https://osu.ppy.sh/users/4647754), [neonat](https://osu.ppy.sh/users/1561995), [tasuke912](https://osu.ppy.sh/users/2774767), (3 years of service each), [Critical_Star](https://osu.ppy.sh/users/3793196), [Rivals_7](https://osu.ppy.sh/users/4610379), [Sandalphon](https://osu.ppy.sh/users/2633753) and [Okoratu](https://osu.ppy.sh/users/1623405) (2 years of service each).
+Christmas wouldn't be Christmas without gift-giving! In the spirit of the holidays, and in recognition of some of our hardest-working and longest-serving Beatmap Nominators, please join me in showing your utmost appreciation for ::Kawawa::{ user-id=4647754 }, [neonat](https://osu.ppy.sh/users/1561995), ::tasuke912::{ user-id=2774767 }, (3 years of service each), ::Critical\1Star::{ user-id=3793196 }, [Rivals_7](https://osu.ppy.sh/users/4610379), ::Sandalphon::{ user-id=2633753 } and [Okoratu](https://osu.ppy.sh/users/1623405) (2 years of service each).
 
 All mentioned members will receive a shiny new profile badge (or incremental flair upgrade if they earned one previously), which we encourage them to wear with pride in appreciation of their meritorious voluntary service.
 
@@ -41,19 +41,19 @@ With the potential for significant change coming to the QAT over the coming week
 
 ### Beatmap Nominator Retirements
 
-With the prospect of new Nominator applications to hopefully be announced soon, we must also take a moment to acknowledge the lasting contributions of those who have since moved on. Please show your appreciation for [hikiko-](https://osu.ppy.sh/users/6512678), [Wishkey](https://osu.ppy.sh/users/1101704) and [Yauxo](https://osu.ppy.sh/users/898306) – may their future endeavours be as prosperous as their time in osu!.
+With the prospect of new Nominator applications to hopefully be announced soon, we must also take a moment to acknowledge the lasting contributions of those who have since moved on. Please show your appreciation for ::hikiko-::{ user-id=6512678 }, [Wishkey](https://osu.ppy.sh/users/1101704) and ::Yauxo::{ user-id=898306 } – may their future endeavours be as prosperous as their time in osu!.
 
 ## Within the Quality Assurance Team
 
 As mentioned previously, unprecedented levels of change could be just over the horizon for the Quality Assurance Team, so the final days of 2018 bring both apprehension and excitement in equal measure. There's undeniably a lot to take in over the following few paragraphs, but if you want to witness (or even better, participate in!) the next stage of osu! mapping evolution, it'll be well worth the read!
 
-Before we get stuck in however, please give a show of appreciation for current Quality Assurance Team Leader [Mao](https://osu.ppy.sh/users/2204515), who joined an elite club recently in racking up an incredible *four years of service* in the team. We sincerely hope Mao continues to retain his boundless enthusiasm as he prepares to lead the QAT through the coming change.
+Before we get stuck in however, please give a show of appreciation for current Quality Assurance Team Leader ::Mao::{ user-id=2204515 }, who joined an elite club recently in racking up an incredible *four years of service* in the team. We sincerely hope Mao continues to retain his boundless enthusiasm as he prepares to lead the QAT through the coming change.
 
 ### Proposed changes to the QAT
 
 As mentioned several times in this article already, significant changes could be just on the horizon for the Quality Assurance Team, which may drastically change how we operate in the future. You can find more details on this announcement and the reasons for it in the Development forum, where [discussions towards multiple osu!team and community proposals](https://osu.ppy.sh/community/forums/topics/842601) are currently taking place.
 
-The first of these changes has been one of leadership, with [-Mo-](https://osu.ppy.sh/users/2202163) replacing myself as QAT Leader, alongside the continuing [Mao](https://osu.ppy.sh/users/2204515). Whilst I have thoroughly enjoyed my time at the head of the QAT, my free time available for osu! has been reduced considerably over the past few months, and I no longer feel I can properly fulfil the expectations of my role, or the community who elected me to it. On a positive note, new faces provide the potential for new direction, so please support -Mo- warmly as he settles into the challenge of management!
+The first of these changes has been one of leadership, with ::-Mo-::{ user-id=2202163 } replacing myself as QAT Leader, alongside the continuing ::Mao::{ user-id=2204515 }. Whilst I have thoroughly enjoyed my time at the head of the QAT, my free time available for osu! has been reduced considerably over the past few months, and I no longer feel I can properly fulfil the expectations of my role, or the community who elected me to it. On a positive note, new faces provide the potential for new direction, so please support -Mo- warmly as he settles into the challenge of management!
 
 One key aspect of these changes is that the base proposal was intentionally "vague", in an effort to encourage community discussion and the generation of fresh ideas. When it comes to shaping the future of the osu! mapping and modding scene, there's perhaps never been a better time than right now to make your voice heard! If you feel you have a great idea, or the drive to help others realise theirs, head on over to the above-mentioned proposals and get discussing!
 
@@ -65,13 +65,13 @@ You can read an [announcement from the osu!team](https://osu.ppy.sh/community/fo
 
 ### New Quality Assurance Team additions
 
-Whilst this announcement may come more than just a bit late, please offer your congratulations to our newest members: [Gottagof4st](https://osu.ppy.sh/users/6122935), [Kuron-kun](https://osu.ppy.sh/users/2697284), [Noffy](https://osu.ppy.sh/users/1541323), [Regraz](https://osu.ppy.sh/users/3076909), [Yuii-](https://osu.ppy.sh/users/2935923), and the returning [Hobbes2](https://osu.ppy.sh/users/8157492)!
+Whilst this announcement may come more than just a bit late, please offer your congratulations to our newest members: ::Gottagof4st::{ user-id=6122935 }, [Kuron-kun](https://osu.ppy.sh/users/2697284), ::Noffy::{ user-id=1541323 }, [Regraz](https://osu.ppy.sh/users/3076909), ::Yuii-::{ user-id=2935923 }, and the returning ::Hobbes2::{ user-id=8157492 }!
 
 Whilst their and the QAT's future is uncertain, we greatly appreciate their timely involvement in Qualified map checking, veto mediation, Beatmap Nominator evaluations and moderation for the osu! game mode.
 
 ### Quality Assurance Team retirements
 
-Though many new members have joined recently, one person who has sadly decided to take their leave from the team is osu!taiko's [Aloda](https://osu.ppy.sh/users/1190127), who elected to step down and focus on other pursuits outside of osu! after six months of service. We wish Aloda the best in his future endeavours, and recognise his newfound status as an osu! Alumni for his contributions to quality control and Beatmap Nominator evaluation.
+Though many new members have joined recently, one person who has sadly decided to take their leave from the team is osu!taiko's ::Aloda::{ user-id=1190127 }, who elected to step down and focus on other pursuits outside of osu! after six months of service. We wish Aloda the best in his future endeavours, and recognise his newfound status as an osu! Alumni for his contributions to quality control and Beatmap Nominator evaluation.
 
 ## Summary
 

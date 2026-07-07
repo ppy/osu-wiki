@@ -17,4 +17,4 @@ Autoryzacja dla nowego API następuje przy użyciu [protokołu OAuth 2](https://
 
 ## Zobacz także
 
-- Oryginalny wątek na forum: [„osu!api open beta”](https://osu.ppy.sh/community/forums/topics/141240) autorstwa [peppy](https://osu.ppy.sh/users/2)
+- Oryginalny wątek na forum: [„osu!api open beta”](https://osu.ppy.sh/community/forums/topics/141240) autorstwa ::peppy::{ user-id=2 }

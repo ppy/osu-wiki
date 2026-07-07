@@ -48,16 +48,16 @@ outdated_since: 0bb2c43f0d6e6d0d036dfb8f55f343e0cd0cbe19
 
 ## Группа участников
 
-Проект организован ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976). Следующие участники сообщества ответственны за выбор карт:
+Проект организован ::{ flag=TN }:: ::Hivie::{ user-id=14102976 }. Следующие участники сообщества ответственны за выбор карт:
 
-- ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
-- ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464)
-- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
-- ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
-- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
-- ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052)
-- ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
-- ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802)
+- ::{ flag=IT }:: ::-kevincela-::{ user-id=266596 }
+- ::{ flag=SE }:: ::bite you death::{ user-id=6398464 }
+- ::{ flag=US }:: ::ChillierPear::{ user-id=9501251 }
+- ::{ flag=KR }:: ::momoyo::{ user-id=12469536 }
+- ::{ flag=MX }:: ::Riot::{ user-id=4256461 }
+- ::{ flag=US }:: ::TheMagicAnimals::{ user-id=17274052 }
+- ::{ flag=SE }:: ::Walavouchey::{ user-id=5773079 }
+- ::{ flag=IT }:: ::zekk::{ user-id=9704802 }
 
 ## Факты
 

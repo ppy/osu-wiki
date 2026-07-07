@@ -23,7 +23,7 @@ If you are not interested in *just reading* about the latest updates, you can al
 - **Fixed main menu eating keys if user presses too fast.** osu! can now keep up with your TAS-level menuing skills.
 - **User statistics updates now show on multiplayer and playlist results screen.** Did you know you can earn pp and gain ranks even in multiplayer? It turns out the client didn't, but now it does.
 - **Various stable parity tweaks.** Varying from visual to gameplay changes, the devs put in some extra work to make sure lazer matches stable to (mostly) pixel- and frame-perfect precision.
-- **Various performance improvements, especially for intense storyboards.** These have been spearheaded by [EVAST](https://osu.ppy.sh/users/8195163), and there are more improvements in the pipeline already!
+- **Various performance improvements, especially for intense storyboards.** These have been spearheaded by ::EVAST::{ user-id=8195163 }, and there are more improvements in the pipeline already!
 - **New main menu navigation hotkeys.** Similar to stable, you will now be able to use hotkeys to quickly get to your desired destination. For example:
   - `P` (x3) for song select (you could already do this)
   - `E` (x3) for the beatmap editor
@@ -47,7 +47,7 @@ See how that looks like in the video below:
 
 ### The default argon skin now has redesigned hitsounds
 
-The argon skin now has received brand-new hitsounds masterfully crafted by the one and only [nekodex](https://osu.ppy.sh/users/102)! Sit back, put some headphones on, and enjoy the showcase video below.
+The argon skin now has received brand-new hitsounds masterfully crafted by the one and only ::nekodex::{ user-id=102 }! Sit back, put some headphones on, and enjoy the showcase video below.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

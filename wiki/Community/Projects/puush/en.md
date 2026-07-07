@@ -11,7 +11,7 @@ tags:
 ![Screenshot of puush's interface](img/puushScreenshot.png "Screenshot of puush's application interface, as taken from CNET's coverage of the service")
 :::
 
-**[puush.me](https://puush.me)**, often referred to as **puush**, is a screenshot sharing service run and hosted by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) and ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102). First launched in June 2010, the service serves as a successor to [upppy](/wiki/upppy) with a greater focus on screen sharing and user data management. It was created out of necessity as an existing service that the two founders were using added heavy advertising and removed direct image hotlinking support.
+**[puush.me](https://puush.me)**, often referred to as **puush**, is a screenshot sharing service run and hosted by ::{ flag=AU }:: ::peppy::{ user-id=2 } and ::{ flag=AU }:: ::nekodex::{ user-id=102 }. First launched in June 2010, the service serves as a successor to [upppy](/wiki/upppy) with a greater focus on screen sharing and user data management. It was created out of necessity as an existing service that the two founders were using added heavy advertising and removed direct image hotlinking support.
 
 ## Service
 
@@ -30,7 +30,7 @@ Similar to osu!, all puush users are not subjected to any ads regardless of thei
 
 ## Downscaling
 
-Starting from March 2014, puush no longer accepts registrations for the Pro plan as PayPal suspended puush's account due to an unforeseen "Terms of Service breach".[^puush-paypal-suspension-ref] This resulted in ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) having to cover the ~$400 per month out of his own pocket to keep the service running.[^puush-finances-ref]
+Starting from March 2014, puush no longer accepts registrations for the Pro plan as PayPal suspended puush's account due to an unforeseen "Terms of Service breach".[^puush-paypal-suspension-ref] This resulted in ::{ flag=AU }:: ::peppy::{ user-id=2 } having to cover the ~$400 per month out of his own pocket to keep the service running.[^puush-finances-ref]
 
 Later that year, as the maintenance for puush comes to a halt, puush disabled registrations for all new accounts altogether — although existing users may continue to use the service as usual.[^puush-maintenance-ref]
 

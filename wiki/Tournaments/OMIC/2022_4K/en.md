@@ -38,17 +38,17 @@ The osu!mania 4K Indonesia Cup 2022 was run by various osu! community members pr
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072) |
-| Mappool selector | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=SG }:: [Eliminate 2](https://osu.ppy.sh/users/12297375), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [\[GS\]Rei](https://osu.ppy.sh/users/11964257), ::{ flag=GB }:: [TingMomentum](https://osu.ppy.sh/users/12489832) |
-| Mappool creator | ::{ flag=ID }:: Ainer, ::{ flag=ID }:: [Angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=GB }:: [TingMomentum](https://osu.ppy.sh/users/12489832) |
-| Mappool tester | ::{ flag=PH }:: [4Kenn](https://osu.ppy.sh/users/20496815), ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=IT }:: [- Pixie -](https://osu.ppy.sh/users/13878539), ::{ flag=PH }:: [Silicosis](https://osu.ppy.sh/users/15548876), ::{ flag=NL }:: [Toxic Scent](https://osu.ppy.sh/users/12599154) |
-| Streamer | ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [zutu](https://osu.ppy.sh/users/11184912) |
-| Referee | ::{ flag=DZ }:: [Demon-kira](https://osu.ppy.sh/users/20232838), ::{ flag=ID }:: [\[-Elaina-\]](https://osu.ppy.sh/users/12532297), ::{ flag=ID }:: [ElinLYPK](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [Kurami\_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=IN }:: [shreya7](https://osu.ppy.sh/users/16676388), ::{ flag=CH }:: [Sinsa92](https://osu.ppy.sh/users/13378002) |
-| Commentator | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604), ::{ flag=ID }:: [AZKiFanboy](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [EstaticStatisIO](https://osu.ppy.sh/users/17237364), ::{ flag=ID }:: [Oofyxl](https://osu.ppy.sh/users/20599160), ::{ flag=ID }:: [RayhanDelanova](https://osu.ppy.sh/users/17898143), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
-| Designer | ::{ flag=ID }:: [Yui Funami](https://osu.ppy.sh/users/14752579) |
-| Sheet manager | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680), ::{ flag=ID }:: [KotoriPana](https://osu.ppy.sh/users/6866937), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
-| Wiki editor | ::{ flag=ID }:: [KotoriPana](https://osu.ppy.sh/users/6866937), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
-| Sponsor | ::{ flag=ID }:: [Wowcake](https://osu.ppy.sh/users/16121851) |
+| Organiser | ::{ flag=ID }:: ::Reyi::{ user-id=13385865 }, ::{ flag=ID }:: ::Antipole::{ user-id=17258072 } |
+| Mappool selector | ::{ flag=ID }:: ::Antipole::{ user-id=17258072 }, ::{ flag=ID }:: ::\[Crz\]Crysarlene::{ user-id=5492871 }, ::{ flag=SG }:: ::Eliminate 2::{ user-id=12297375 }, ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 }, ::{ flag=ID }:: ::\[GS\]Rei::{ user-id=11964257 }, ::{ flag=GB }:: ::TingMomentum::{ user-id=12489832 } |
+| Mappool creator | ::{ flag=ID }:: Ainer, ::{ flag=ID }:: ::Angki::{ user-id=9038483 }, ::{ flag=ID }:: ::Antipole::{ user-id=17258072 }, ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 }, ::{ flag=ID }:: ::Reyi::{ user-id=13385865 }, ::{ flag=GB }:: ::TingMomentum::{ user-id=12489832 } |
+| Mappool tester | ::{ flag=PH }:: ::4Kenn::{ user-id=20496815 }, ::{ flag=DE }:: ::ERA Punish::{ user-id=10615367 }, ::{ flag=ID }:: ::Fyl::{ user-id=10069307 }, ::{ flag=IT }:: ::- Pixie -::{ user-id=13878539 }, ::{ flag=PH }:: ::Silicosis::{ user-id=15548876 }, ::{ flag=NL }:: ::Toxic Scent::{ user-id=12599154 } |
+| Streamer | ::{ flag=ID }:: ::Tix::{ user-id=11421465 }, ::{ flag=ID }:: ::zutu::{ user-id=11184912 } |
+| Referee | ::{ flag=DZ }:: ::Demon-kira::{ user-id=20232838 }, ::{ flag=ID }:: ::\[-Elaina-\]::{ user-id=12532297 }, ::{ flag=ID }:: ::ElinLYPK::{ user-id=5198950 }, ::{ flag=ID }:: ::Kurami\_San::{ user-id=8867495 }, ::{ flag=ID }:: ::Reihynn::{ user-id=16630515 }, ::{ flag=IN }:: ::shreya7::{ user-id=16676388 }, ::{ flag=CH }:: ::Sinsa92::{ user-id=13378002 } |
+| Commentator | ::{ flag=ID }:: ::2ndlegend::{ user-id=7621604 }, ::{ flag=ID }:: ::AZKiFanboy::{ user-id=5179764 }, ::{ flag=ID }:: ::EstaticStatisIO::{ user-id=17237364 }, ::{ flag=ID }:: ::Oofyxl::{ user-id=20599160 }, ::{ flag=ID }:: ::RayhanDelanova::{ user-id=17898143 }, ::{ flag=ID }:: ::Revv-::{ user-id=12424909 } |
+| Designer | ::{ flag=ID }:: ::Yui Funami::{ user-id=14752579 } |
+| Sheet manager | ::{ flag=GB }:: ::chromb::{ user-id=10238680 }, ::{ flag=ID }:: ::KotoriPana::{ user-id=6866937 }, ::{ flag=ID }:: ::Sies::{ user-id=6491991 } |
+| Wiki editor | ::{ flag=ID }:: ::KotoriPana::{ user-id=6866937 }, ::{ flag=ID }:: ::Sies::{ user-id=6491991 } |
+| Sponsor | ::{ flag=ID }:: ::Wowcake::{ user-id=16121851 } |
 
 ## Links
 
@@ -64,10 +64,10 @@ Below is the list of players that qualified to Round of 32 (alongside with seedi
 
 | Seed | Player |
 | :-: | :-- |
-| Top | ::{ flag=ID }:: [RetroEX](https://osu.ppy.sh/users/10540515), ::{ flag=ID }:: [Onta\_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=ID }:: [Fr05tyGD](https://osu.ppy.sh/users/14230684), ::{ flag=ID }:: [adihza](https://osu.ppy.sh/users/18309106), ::{ flag=ID }:: [\[ReyZ\]](https://osu.ppy.sh/users/16768803), ::{ flag=ID }:: [\[Albert\]](https://osu.ppy.sh/users/12689667), ::{ flag=ID }:: [haickalmh](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Dellia](https://osu.ppy.sh/users/12143152) |
-| High | ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Fieristik](https://osu.ppy.sh/users/21446926), ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [AZKiFanboy](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [TheLegend3RD](https://osu.ppy.sh/users/14732769), ::{ flag=ID }:: [\[ -Asriel- \]](https://osu.ppy.sh/users/11829623), ::{ flag=ID }:: [HEAL\_69](https://osu.ppy.sh/users/24559683), ::{ flag=ID }:: [Tsurumaki\_](https://osu.ppy.sh/users/18790026) |
-| Mid | ::{ flag=ID }:: [Heriza-](https://osu.ppy.sh/users/8911771), ::{ flag=ID }:: [Proxae](https://osu.ppy.sh/users/8410575), ::{ flag=ID }:: [CrossModic](https://osu.ppy.sh/users/25253022), ::{ flag=ID }:: [EVIRE-](https://osu.ppy.sh/users/11405908), ::{ flag=ID }:: [AzusaNakano2](https://osu.ppy.sh/users/9821346), ::{ flag=ID }:: [spectator\_boi](https://osu.ppy.sh/users/17400577), ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093), ::{ flag=ID }:: [LuxSayaka](https://osu.ppy.sh/users/8382579) |
-| Low | ::{ flag=ID }:: [danar mw](https://osu.ppy.sh/users/13859109), ::{ flag=ID }:: [Lordkolp](https://osu.ppy.sh/users/19330937), ::{ flag=ID }:: [\[ Albedo \]](https://osu.ppy.sh/users/14584195), ::{ flag=ID }:: [Dogethedoge25](https://osu.ppy.sh/users/15597315), ::{ flag=ID }:: [MzLord](https://osu.ppy.sh/users/14659672), ::{ flag=ID }:: [HorizonID](https://osu.ppy.sh/users/15881992), ::{ flag=ID }:: [KyoukaRy](https://osu.ppy.sh/users/13403380), ::{ flag=ID }:: [Yururu](https://osu.ppy.sh/users/4932319) |
+| Top | ::{ flag=ID }:: ::RetroEX::{ user-id=10540515 }, ::{ flag=ID }:: ::Onta\_Bekasi::{ user-id=8677684 }, ::{ flag=ID }:: ::Fr05tyGD::{ user-id=14230684 }, ::{ flag=ID }:: ::adihza::{ user-id=18309106 }, ::{ flag=ID }:: ::\[ReyZ\]::{ user-id=16768803 }, ::{ flag=ID }:: ::\[Albert\]::{ user-id=12689667 }, ::{ flag=ID }:: ::haickalmh::{ user-id=8243526 }, ::{ flag=ID }:: ::Dellia::{ user-id=12143152 } |
+| High | ::{ flag=ID }:: ::Revv-::{ user-id=12424909 }, ::{ flag=ID }:: ::Fieristik::{ user-id=21446926 }, ::{ flag=ID }:: ::-Yubi-::{ user-id=17851478 }, ::{ flag=ID }:: ::AZKiFanboy::{ user-id=5179764 }, ::{ flag=ID }:: ::TheLegend3RD::{ user-id=14732769 }, ::{ flag=ID }:: ::\[ -Asriel- \]::{ user-id=11829623 }, ::{ flag=ID }:: ::HEAL\_69::{ user-id=24559683 }, ::{ flag=ID }:: ::Tsurumaki\_::{ user-id=18790026 } |
+| Mid | ::{ flag=ID }:: ::Heriza-::{ user-id=8911771 }, ::{ flag=ID }:: ::Proxae::{ user-id=8410575 }, ::{ flag=ID }:: ::CrossModic::{ user-id=25253022 }, ::{ flag=ID }:: ::EVIRE-::{ user-id=11405908 }, ::{ flag=ID }:: ::AzusaNakano2::{ user-id=9821346 }, ::{ flag=ID }:: ::spectator\_boi::{ user-id=17400577 }, ::{ flag=ID }:: ::KinoJourney::{ user-id=15798093 }, ::{ flag=ID }:: ::LuxSayaka::{ user-id=8382579 } |
+| Low | ::{ flag=ID }:: ::danar mw::{ user-id=13859109 }, ::{ flag=ID }:: ::Lordkolp::{ user-id=19330937 }, ::{ flag=ID }:: ::\[ Albedo \]::{ user-id=14584195 }, ::{ flag=ID }:: ::Dogethedoge25::{ user-id=15597315 }, ::{ flag=ID }:: ::MzLord::{ user-id=14659672 }, ::{ flag=ID }:: ::HorizonID::{ user-id=15881992 }, ::{ flag=ID }:: ::KyoukaRy::{ user-id=13403380 }, ::{ flag=ID }:: ::Yururu::{ user-id=4932319 } |
 
 ## Podium
 
@@ -75,9 +75,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [\[Albert\]](https://osu.ppy.sh/users/12689667) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [RetroEX](https://osu.ppy.sh/users/10540515) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [Onta\_Bekasi](https://osu.ppy.sh/users/8677684) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: ::\[Albert\]::{ user-id=12689667 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: ::RetroEX::{ user-id=10540515 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: ::Onta\_Bekasi::{ user-id=8677684 } |
 
 ## Mappools
 

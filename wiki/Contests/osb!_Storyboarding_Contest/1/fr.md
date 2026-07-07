@@ -37,16 +37,16 @@ L'osb! Storyboarding Contest #1 a été organisé par le personnel du osu! story
 
 | Utilisateur | Responsabilité |
 | :-- | :-- |
-| ::{ flag=CA }:: [Sidetail](https://osu.ppy.sh/users/2036217) | Hôte, administrateur |
-| ::{ flag=VN }:: [Hokichi](https://osu.ppy.sh/users/6607303) | Co-hôte, graphiste, juge |
-| ::{ flag=GB }:: [WildOne94](https://osu.ppy.sh/users/3482692) | Membre du personnel, juge |
-| ::{ flag=AU }:: [Coppertine](https://osu.ppy.sh/users/7279762) | Membre du personnel, juge |
-| ::{ flag=DE }:: [Darky1](https://osu.ppy.sh/users/3372928) | Membre du personnel, juge |
-| ::{ flag=CA }:: [Marblelemons](https://osu.ppy.sh/users/8286416) | Membre du personnel, juge |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Juge |
-| ::{ flag=ID }:: [LordRaika](https://osu.ppy.sh/users/3265023) | Juge |
-| ::{ flag=US }:: [Starrodkirby86](https://osu.ppy.sh/users/410) | Juge |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Concepteur du logo |
+| ::{ flag=CA }:: ::Sidetail::{ user-id=2036217 } | Hôte, administrateur |
+| ::{ flag=VN }:: ::Hokichi::{ user-id=6607303 } | Co-hôte, graphiste, juge |
+| ::{ flag=GB }:: ::WildOne94::{ user-id=3482692 } | Membre du personnel, juge |
+| ::{ flag=AU }:: ::Coppertine::{ user-id=7279762 } | Membre du personnel, juge |
+| ::{ flag=DE }:: ::Darky1::{ user-id=3372928 } | Membre du personnel, juge |
+| ::{ flag=CA }:: ::Marblelemons::{ user-id=8286416 } | Membre du personnel, juge |
+| ::{ flag=BR }:: ::Dada::{ user-id=9119507 } | Juge |
+| ::{ flag=ID }:: ::LordRaika::{ user-id=3265023 } | Juge |
+| ::{ flag=US }:: ::Starrodkirby86::{ user-id=410 } | Juge |
+| ::{ flag=SE }:: ::Naxess::{ user-id=8129817 } | Concepteur du logo |
 
 ## Liens
 
@@ -57,9 +57,9 @@ L'osb! Storyboarding Contest #1 a été organisé par le personnel du osu! story
 
 | Storyboardeur | Entrée | Vidéo de présentation |
 | :-- | :-- | :-- |
-| ::{ flag=CA }:: [Gaia](https://osu.ppy.sh/users/2683648) | [puru - Grimheart (Original Mix & Cut Ver.) \[RED FOX\]](https://drive.google.com/uc?id=1dIBPlOdB00Mu-To8SdAwgGsi9OUSQ1JT) | [#1](https://www.youtube.com/watch?v=F4QL4B4Qgso) |
-| ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) | [Itou Kanako - COSMIC LOOPER (TV Size) \[MAINE COON\]](https://drive.google.com/uc?id=12i-RTXTOM60P1MfBx_QGBMwmB5qOWXbz) | [#1](https://www.youtube.com/watch?v=ucRjWfP6ZSA) |
-| ::{ flag=CA }:: [TheDuckMask](https://osu.ppy.sh/users/7405768) | [AVTechNO!xTreow - DYE/Re:flection+ \[SHIBA INU\]](https://drive.google.com/uc?id=1y51gyjGgrrIQJlxkjxNoGRwFu285KaeH) | [#1](https://www.youtube.com/watch?v=dFfXZfOJQPs) |
+| ::{ flag=CA }:: ::Gaia::{ user-id=2683648 } | [puru - Grimheart (Original Mix & Cut Ver.) \[RED FOX\]](https://drive.google.com/uc?id=1dIBPlOdB00Mu-To8SdAwgGsi9OUSQ1JT) | [#1](https://www.youtube.com/watch?v=F4QL4B4Qgso) |
+| ::{ flag=UA }:: ::PantyDev::{ user-id=5420543 } | [Itou Kanako - COSMIC LOOPER (TV Size) \[MAINE COON\]](https://drive.google.com/uc?id=12i-RTXTOM60P1MfBx_QGBMwmB5qOWXbz) | [#1](https://www.youtube.com/watch?v=ucRjWfP6ZSA) |
+| ::{ flag=CA }:: ::TheDuckMask::{ user-id=7405768 } | [AVTechNO!xTreow - DYE/Re:flection+ \[SHIBA INU\]](https://drive.google.com/uc?id=1y51gyjGgrrIQJlxkjxNoGRwFu285KaeH) | [#1](https://www.youtube.com/watch?v=dFfXZfOJQPs) |
 
 ## Podium
 
@@ -67,9 +67,9 @@ Cette compétition s'est achevée sur le podium suivant :
 
 | Placement | Participant |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=CA }:: [TheDuckMask](https://osu.ppy.sh/users/7405768) |
-| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) |
-| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=CA }:: [Gaia](https://osu.ppy.sh/users/2683648) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=CA }:: ::TheDuckMask::{ user-id=7405768 } |
+| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=UA }:: ::PantyDev::{ user-id=5420543 } |
+| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=CA }:: ::Gaia::{ user-id=2683648 } |
 
 ## Règlement
 

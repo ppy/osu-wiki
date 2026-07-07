@@ -55,7 +55,7 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 ---
 
-*Header and promotional artwork by [Hollow Wings](https://osu.ppy.sh/users/416662) from the [Aerial Antics Art Contest](https://osu.ppy.sh/community/contests/215)!*
+*Header and promotional artwork by ::Hollow Wings::{ user-id=416662 } from the [Aerial Antics Art Contest](https://osu.ppy.sh/community/contests/215)!*
 
 If you've made it this far, it's time to start cooking up your masterpiece! When you're done, head over to the [Outer Worlds Art Contest listing](https://osu.ppy.sh/community/contests/285) and drag-and-drop your entry (max 8 MiB) into the box with the plus sign in it.
 

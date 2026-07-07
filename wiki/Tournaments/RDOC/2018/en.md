@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2018 logo](img/logo.jpg)
 
-The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742), ::{ flag=DK }:: [Gladand](https://osu.ppy.sh/users/8996506), and ::{ flag=DK }:: [Crylizhy](https://osu.ppy.sh/users/3023138). It was the fourth instalment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: ::Pennek::{ user-id=3723742 }, ::{ flag=DK }:: ::Gladand::{ user-id=8996506 }, and ::{ flag=DK }:: ::Crylizhy::{ user-id=3023138 }. It was the fourth instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -39,14 +39,14 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=DK }:: [Crylizhy](https://osu.ppy.sh/users/3023138), ::{ flag=DK }:: [Gladand](https://osu.ppy.sh/users/8996506), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
-| Mappool selector | ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742), ::{ flag=IL }:: [Xilver](https://osu.ppy.sh/users/3099689) |
-| Referee | ::{ flag=DK }:: [Anderzs](https://osu.ppy.sh/users/10796791), ::{ flag=DK }:: [ArgetShurtugal](https://osu.ppy.sh/users/4401687), ::{ flag=DK }:: [Gladand](https://osu.ppy.sh/users/8996506), ::{ flag=DK }:: [MASQQ](https://osu.ppy.sh/users/5351497), ::{ flag=DK }:: [Micropose](https://osu.ppy.sh/users/11140740), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742), ::{ flag=DK }:: [Tenaxzity](https://osu.ppy.sh/users/7395529), ::{ flag=RU }:: [Ultraanus](https://osu.ppy.sh/users/5371851) |
-| Streamer | ::{ flag=MX }:: [Baskest](https://osu.ppy.sh/users/3963408), ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380), ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653) |
-| Commentator | ::{ flag=MX }:: [Baskest](https://osu.ppy.sh/users/3963408), ::{ flag=DK }:: [Gladand](https://osu.ppy.sh/users/8996506), ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380), ::{ flag=DK }:: [Power Supply](https://osu.ppy.sh/users/7091513), ::{ flag=DK }:: [ravioli boi2004](https://osu.ppy.sh/users/9450032), ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469), ::{ flag=DK }:: [Tona](https://osu.ppy.sh/users/2678812), ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653) |
-| Designer | ::{ flag=FI }:: [Micro](https://osu.ppy.sh/users/4801080) |
-| Wiki editor | ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
-| Donator | ::{ flag=DK }:: [Tropians](https://osu.ppy.sh/users/2536611) |
+| Manager | ::{ flag=DK }:: ::Crylizhy::{ user-id=3023138 }, ::{ flag=DK }:: ::Gladand::{ user-id=8996506 }, ::{ flag=DK }:: ::Pennek::{ user-id=3723742 } |
+| Mappool selector | ::{ flag=DK }:: ::Pennek::{ user-id=3723742 }, ::{ flag=IL }:: ::Xilver::{ user-id=3099689 } |
+| Referee | ::{ flag=DK }:: ::Anderzs::{ user-id=10796791 }, ::{ flag=DK }:: ::ArgetShurtugal::{ user-id=4401687 }, ::{ flag=DK }:: ::Gladand::{ user-id=8996506 }, ::{ flag=DK }:: ::MASQQ::{ user-id=5351497 }, ::{ flag=DK }:: ::Micropose::{ user-id=11140740 }, ::{ flag=DK }:: ::Pennek::{ user-id=3723742 }, ::{ flag=DK }:: ::Tenaxzity::{ user-id=7395529 }, ::{ flag=RU }:: ::Ultraanus::{ user-id=5371851 } |
+| Streamer | ::{ flag=MX }:: ::Baskest::{ user-id=3963408 }, ::{ flag=DK }:: ::iamVill::{ user-id=6295380 }, ::{ flag=DK }:: ::waefwerf::{ user-id=3868653 } |
+| Commentator | ::{ flag=MX }:: ::Baskest::{ user-id=3963408 }, ::{ flag=DK }:: ::Gladand::{ user-id=8996506 }, ::{ flag=DK }:: ::iamVill::{ user-id=6295380 }, ::{ flag=DK }:: ::Power Supply::{ user-id=7091513 }, ::{ flag=DK }:: ::ravioli boi2004::{ user-id=9450032 }, ::{ flag=DK }:: ::Spork Lover::{ user-id=3417469 }, ::{ flag=DK }:: ::Tona::{ user-id=2678812 }, ::{ flag=DK }:: ::waefwerf::{ user-id=3868653 } |
+| Designer | ::{ flag=FI }:: ::Micro::{ user-id=4801080 } |
+| Wiki editor | ::{ flag=DK }:: ::Pennek::{ user-id=3723742 } |
+| Donator | ::{ flag=DK }:: ::Tropians::{ user-id=2536611 } |
 
 ## Links
 
@@ -60,23 +60,23 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=DK }:: [Telomere](https://osu.ppy.sh/users/6295380), ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469), ::{ flag=DK }:: [raser1234](https://osu.ppy.sh/users/2527887), ::{ flag=DK }:: [Cerkie](https://osu.ppy.sh/users/2533400), ::{ flag=DK }:: [My Aim Zogs](https://osu.ppy.sh/users/3722715), ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754), ::{ flag=DK }:: [space potato](https://osu.ppy.sh/users/6545407), ::{ flag=DK }:: [Zakura](https://osu.ppy.sh/users/3053599) |
-| High | ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653), ::{ flag=DK }:: [Tona](https://osu.ppy.sh/users/2678812), ::{ flag=DK }:: [Katachi](https://osu.ppy.sh/users/5778925), ::{ flag=DK }:: [Lemmen](https://osu.ppy.sh/users/6090254), ::{ flag=DK }:: [ZestorTK](https://osu.ppy.sh/users/6592417), ::{ flag=DK }:: [Contaminate](https://osu.ppy.sh/users/4694589), ::{ flag=DK }:: [RipG](https://osu.ppy.sh/users/2750839), ::{ flag=DK }:: [StevenDANK](https://osu.ppy.sh/users/1729766) |
-| Low | ::{ flag=DK }:: [Lucasion](https://osu.ppy.sh/users/7382672), ::{ flag=DK }:: [Boje](https://osu.ppy.sh/users/5120773), ::{ flag=DK }:: [Power Supply](https://osu.ppy.sh/users/7091513), ::{ flag=DK }:: [_Alex](https://osu.ppy.sh/users/7882154), ::{ flag=DK }:: [Pallerik](https://osu.ppy.sh/users/9303652), ::{ flag=DK }:: [P3RS3X](https://osu.ppy.sh/users/9469362), ::{ flag=DK }:: [eLLezH](https://osu.ppy.sh/users/2143311), ::{ flag=DK }:: [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) |
-| Bottom | ::{ flag=DK }:: [Ghost Krillin](https://osu.ppy.sh/users/6913805), ::{ flag=DK }:: [FeelDaTonneh](https://osu.ppy.sh/users/4348782), ::{ flag=DK }:: [Kinety](https://osu.ppy.sh/users/5941273), ::{ flag=DK }:: [Waven7](https://osu.ppy.sh/users/11157036), ::{ flag=DK }:: [seb2110](https://osu.ppy.sh/users/5323224), ::{ flag=DK }:: [Syncopate](https://osu.ppy.sh/users/7232730), ::{ flag=DK }:: [LeDoodeNiss](https://osu.ppy.sh/users/7345263), ::{ flag=DK }:: [sanoJ](https://osu.ppy.sh/users/5385297) |
+| Top | ::{ flag=DK }:: ::Telomere::{ user-id=6295380 }, ::{ flag=DK }:: ::Spork Lover::{ user-id=3417469 }, ::{ flag=DK }:: ::raser1234::{ user-id=2527887 }, ::{ flag=DK }:: ::Cerkie::{ user-id=2533400 }, ::{ flag=DK }:: ::My Aim Zogs::{ user-id=3722715 }, ::{ flag=DK }:: ::Vandabe::{ user-id=7050754 }, ::{ flag=DK }:: ::space potato::{ user-id=6545407 }, ::{ flag=DK }:: ::Zakura::{ user-id=3053599 } |
+| High | ::{ flag=DK }:: ::waefwerf::{ user-id=3868653 }, ::{ flag=DK }:: ::Tona::{ user-id=2678812 }, ::{ flag=DK }:: ::Katachi::{ user-id=5778925 }, ::{ flag=DK }:: ::Lemmen::{ user-id=6090254 }, ::{ flag=DK }:: ::ZestorTK::{ user-id=6592417 }, ::{ flag=DK }:: ::Contaminate::{ user-id=4694589 }, ::{ flag=DK }:: ::RipG::{ user-id=2750839 }, ::{ flag=DK }:: ::StevenDANK::{ user-id=1729766 } |
+| Low | ::{ flag=DK }:: ::Lucasion::{ user-id=7382672 }, ::{ flag=DK }:: ::Boje::{ user-id=5120773 }, ::{ flag=DK }:: ::Power Supply::{ user-id=7091513 }, ::{ flag=DK }:: ::\1Alex::{ user-id=7882154 }, ::{ flag=DK }:: ::Pallerik::{ user-id=9303652 }, ::{ flag=DK }:: ::P3RS3X::{ user-id=9469362 }, ::{ flag=DK }:: ::eLLezH::{ user-id=2143311 }, ::{ flag=DK }:: ::\[THEDUCK\]::{ user-id=6080866 } |
+| Bottom | ::{ flag=DK }:: ::Ghost Krillin::{ user-id=6913805 }, ::{ flag=DK }:: ::FeelDaTonneh::{ user-id=4348782 }, ::{ flag=DK }:: ::Kinety::{ user-id=5941273 }, ::{ flag=DK }:: ::Waven7::{ user-id=11157036 }, ::{ flag=DK }:: ::seb2110::{ user-id=5323224 }, ::{ flag=DK }:: ::Syncopate::{ user-id=7232730 }, ::{ flag=DK }:: ::LeDoodeNiss::{ user-id=7345263 }, ::{ flag=DK }:: ::sanoJ::{ user-id=5385297 } |
 
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Bottom seed |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=DK }:: [space potato](https://osu.ppy.sh/users/6545407) | ::{ flag=DK }:: [ZestorTK](https://osu.ppy.sh/users/6592417) | ::{ flag=DK }:: [Boje](https://osu.ppy.sh/users/5120773) | ::{ flag=DK }:: [seb2110](https://osu.ppy.sh/users/5323224) |
-| **B** | ::{ flag=DK }:: [Telomere](https://osu.ppy.sh/users/6295380) | ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653) | ::{ flag=DK }:: [_Alex](https://osu.ppy.sh/users/7882154) | ::{ flag=DK }:: [Syncopate](https://osu.ppy.sh/users/7232730) |
-| **C** | ::{ flag=DK }:: [My Aim Zogs](https://osu.ppy.sh/users/3722715) | ::{ flag=DK }:: [StevenDANK](https://osu.ppy.sh/users/1729766) | ::{ flag=DK }:: [Pallerik](https://osu.ppy.sh/users/9303652) | ::{ flag=DK }:: [sanoJ](https://osu.ppy.sh/users/5385297) |
-| **D** | ::{ flag=DK }:: [Cerkie](https://osu.ppy.sh/users/2533400) | ::{ flag=DK }:: [Contaminate](https://osu.ppy.sh/users/4694589) | ::{ flag=DK }:: [Lucasion](https://osu.ppy.sh/users/7382672) | ::{ flag=DK }:: [FeelDaTonneh](https://osu.ppy.sh/users/4348782) |
-| **E** | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) | ::{ flag=DK }:: [Lemmen](https://osu.ppy.sh/users/6090254) | ::{ flag=DK }:: [eLLezH](https://osu.ppy.sh/users/2143311) | ::{ flag=DK }:: [Kinety](https://osu.ppy.sh/users/5941273) |
-| **F** | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) | ::{ flag=DK }:: [Katachi](https://osu.ppy.sh/users/5778925) | ::{ flag=DK }:: [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) | ::{ flag=DK }:: [Waven7](https://osu.ppy.sh/users/11157036) |
-| **G** | ::{ flag=DK }:: [raser1234](https://osu.ppy.sh/users/2527887) | ::{ flag=DK }:: [RipG](https://osu.ppy.sh/users/2750839) | ::{ flag=DK }:: [Power Supply](https://osu.ppy.sh/users/7091513) | ::{ flag=DK }:: [LeDoodeNiss](https://osu.ppy.sh/users/7345263) |
-| **H** | ::{ flag=DK }:: [Zakura](https://osu.ppy.sh/users/3053599) | ::{ flag=DK }:: [Tona](https://osu.ppy.sh/users/2678812) | ::{ flag=DK }:: [P3RS3X](https://osu.ppy.sh/users/9469362) | ::{ flag=DK }:: [Ghost Krillin](https://osu.ppy.sh/users/6913805) |
+| **A** | ::{ flag=DK }:: ::space potato::{ user-id=6545407 } | ::{ flag=DK }:: ::ZestorTK::{ user-id=6592417 } | ::{ flag=DK }:: ::Boje::{ user-id=5120773 } | ::{ flag=DK }:: ::seb2110::{ user-id=5323224 } |
+| **B** | ::{ flag=DK }:: ::Telomere::{ user-id=6295380 } | ::{ flag=DK }:: ::waefwerf::{ user-id=3868653 } | ::{ flag=DK }:: ::\1Alex::{ user-id=7882154 } | ::{ flag=DK }:: ::Syncopate::{ user-id=7232730 } |
+| **C** | ::{ flag=DK }:: ::My Aim Zogs::{ user-id=3722715 } | ::{ flag=DK }:: ::StevenDANK::{ user-id=1729766 } | ::{ flag=DK }:: ::Pallerik::{ user-id=9303652 } | ::{ flag=DK }:: ::sanoJ::{ user-id=5385297 } |
+| **D** | ::{ flag=DK }:: ::Cerkie::{ user-id=2533400 } | ::{ flag=DK }:: ::Contaminate::{ user-id=4694589 } | ::{ flag=DK }:: ::Lucasion::{ user-id=7382672 } | ::{ flag=DK }:: ::FeelDaTonneh::{ user-id=4348782 } |
+| **E** | ::{ flag=DK }:: ::Vandabe::{ user-id=7050754 } | ::{ flag=DK }:: ::Lemmen::{ user-id=6090254 } | ::{ flag=DK }:: ::eLLezH::{ user-id=2143311 } | ::{ flag=DK }:: ::Kinety::{ user-id=5941273 } |
+| **F** | ::{ flag=DK }:: ::Spork Lover::{ user-id=3417469 } | ::{ flag=DK }:: ::Katachi::{ user-id=5778925 } | ::{ flag=DK }:: ::\[THEDUCK\]::{ user-id=6080866 } | ::{ flag=DK }:: ::Waven7::{ user-id=11157036 } |
+| **G** | ::{ flag=DK }:: ::raser1234::{ user-id=2527887 } | ::{ flag=DK }:: ::RipG::{ user-id=2750839 } | ::{ flag=DK }:: ::Power Supply::{ user-id=7091513 } | ::{ flag=DK }:: ::LeDoodeNiss::{ user-id=7345263 } |
+| **H** | ::{ flag=DK }:: ::Zakura::{ user-id=3053599 } | ::{ flag=DK }:: ::Tona::{ user-id=2678812 } | ::{ flag=DK }:: ::P3RS3X::{ user-id=9469362 } | ::{ flag=DK }:: ::Ghost Krillin::{ user-id=6913805 } |
 
 ## Podium
 
@@ -84,9 +84,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: [Cerkie](https://osu.ppy.sh/users/2533400) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: [raser1234](https://osu.ppy.sh/users/2527887) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: ::Spork Lover::{ user-id=3417469 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: ::Cerkie::{ user-id=2533400 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: ::raser1234::{ user-id=2527887 } |
 
 ## Mappools
 

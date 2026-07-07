@@ -13,7 +13,7 @@ Among [Monstercat](https://osu.ppy.sh/beatmaps/artists/255)'s flagship artists, 
 
 You'll come across **11** breathtaking tracks when you *see* [**Pegboard Nerds**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/287), all of which are pre-timed and ready for mapping!
 
-**Pegboard Nerds** has been a staple in the osu! scene since 2014 thanks to a trio of absurdly popular beatmaps by old-school mapper [Timorisu](https://osu.ppy.sh/users/2128920). Still holding strong 8 years later, the [**Pegboard Nerds** mapography](https://osu.ppy.sh/beatmapsets?q=featured_artist%3D287) only continues to grow!
+**Pegboard Nerds** has been a staple in the osu! scene since 2014 thanks to a trio of absurdly popular beatmaps by old-school mapper ::Timorisu::{ user-id=2128920 }. Still holding strong 8 years later, the [**Pegboard Nerds** mapography](https://osu.ppy.sh/beatmapsets?q=featured_artist%3D287) only continues to grow!
 
 Check out some of **Pegboard Nerds**'s sound for yourself:
 
@@ -25,7 +25,7 @@ Check out some of **Pegboard Nerds**'s sound for yourself:
 
 ### Pegboard Nerds - Try This
 
-Just [try this](https://osu.ppy.sh/beatmapsets/301138). And appreciate the mapset host [Marmowka](https://osu.ppy.sh/users/2907237).
+Just [try this](https://osu.ppy.sh/beatmapsets/301138). And appreciate the mapset host ::Marmowka::{ user-id=2907237 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/287/Try%20This%2FPegboard%20Nerds%20-%20Try%20This.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Just [try this](https://osu.ppy.sh/beatmapsets/301138). And appreciate the mapse
 
 ### Pegboard Nerds - Disconnected
 
-Play through [this classic map](https://osu.ppy.sh/beatmapsets/134828) hosted by [Timorisu](https://osu.ppy.sh/users/2128920)!
+Play through [this classic map](https://osu.ppy.sh/beatmapsets/134828) hosted by ::Timorisu::{ user-id=2128920 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/287/Disconnected/Pegboard%20Nerds%20-%20Disconnected.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Play through [this classic map](https://osu.ppy.sh/beatmapsets/134828) hosted by
 
 ### Pegboard Nerds x MisterWives - Coffins
 
-Experience [the first ranked **Pegboard Nerds** map](https://osu.ppy.sh/beatmapsets/144771) hosted by [Timorisu](https://osu.ppy.sh/users/2128920) or [this modern rendition](https://osu.ppy.sh/beatmapsets/823272) hosted by [NeilPerry](https://osu.ppy.sh/users/841391)!
+Experience [the first ranked **Pegboard Nerds** map](https://osu.ppy.sh/beatmapsets/144771) hosted by ::Timorisu::{ user-id=2128920 } or [this modern rendition](https://osu.ppy.sh/beatmapsets/823272) hosted by ::NeilPerry::{ user-id=841391 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/287/Coffins/Pegboard%20Nerds%20x%20MisterWives%20-%20Coffins.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Experience [the first ranked **Pegboard Nerds** map](https://osu.ppy.sh/beatmaps
 
 ### Snails & Pegboard Nerds - Deep In The Night
 
-Pull out your subwoofer to properly *feel* [this map](https://osu.ppy.sh/beatmapsets/513194) hosted by [vanucik](https://osu.ppy.sh/users/5407943)!
+Pull out your subwoofer to properly *feel* [this map](https://osu.ppy.sh/beatmapsets/513194) hosted by ::vanucik::{ user-id=5407943 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/287/Deep%20In%20The%20Night%2FSnails%20%26%20Pegboard%20Nerds%20-%20Deep%20In%20The%20Night.mp3" type="audio/mpeg">
@@ -65,7 +65,7 @@ Pull out your subwoofer to properly *feel* [this map](https://osu.ppy.sh/beatmap
 
 ### Pegboard Nerds - Hero (feat. Elizaveta)
 
-Triumph over [this old-school beatmap](https://osu.ppy.sh/beatmapsets/191723) hosted by [Timorisu](https://osu.ppy.sh/users/2128920) or [this modern beatmap](https://osu.ppy.sh/beatmapsets/822892) hosted by [vergil chair](https://osu.ppy.sh/users/8331132)!
+Triumph over [this old-school beatmap](https://osu.ppy.sh/beatmapsets/191723) hosted by ::Timorisu::{ user-id=2128920 } or [this modern beatmap](https://osu.ppy.sh/beatmapsets/822892) hosted by ::vergil chair::{ user-id=8331132 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/287/Hero/Pegboard%20Nerds%20-%20Hero%20(feat.%20Elizaveta).mp3" type="audio/mpeg">
@@ -73,7 +73,7 @@ Triumph over [this old-school beatmap](https://osu.ppy.sh/beatmapsets/191723) ho
 
 ### Pegboard Nerds - We Are One (Original Vocal Mix)
 
-Check out [this awesome map](https://osu.ppy.sh/beatmapsets/605745) hosted by [Frey](https://osu.ppy.sh/users/695678)!
+Check out [this awesome map](https://osu.ppy.sh/beatmapsets/605745) hosted by ::Frey::{ user-id=695678 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/287/We%20Are%20One%2FPegboard%20Nerds%20-%20We%20Are%20One%20(Original%20Vocal%20Mix).mp3" type="audio/mpeg">
@@ -81,7 +81,7 @@ Check out [this awesome map](https://osu.ppy.sh/beatmapsets/605745) hosted by [F
 
 ### Pegboard Nerds - BAMF
 
-Bash drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/517687) hosted by [Dargin](https://osu.ppy.sh/users/7086439)!
+Bash drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/517687) hosted by ::Dargin::{ user-id=7086439 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/287/BAMF/Pegboard%20Nerds%20-%20BAMF.mp3" type="audio/mpeg">
@@ -89,7 +89,7 @@ Bash drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/517687) hosted
 
 ### Pegboard Nerds - Gunslinga (feat. MC Mota)
 
-You haven't experienced sliders until you've played [this map](https://osu.ppy.sh/beatmapsets/1234094) hosted by [Sylas](https://osu.ppy.sh/users/3906405).
+You haven't experienced sliders until you've played [this map](https://osu.ppy.sh/beatmapsets/1234094) hosted by ::Sylas::{ user-id=3906405 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/287/Gunslinga/Pegboard%20Nerds%20-%20Gunslinga%20(feat.%20MC%20Mota).mp3" type="audio/mpeg">
@@ -97,7 +97,7 @@ You haven't experienced sliders until you've played [this map](https://osu.ppy.s
 
 ### Pegboard Nerds - Just Dance (feat. Tia Simone)
 
-Enjoy some circle size 3 alternating with [this map](https://osu.ppy.sh/beatmapsets/750147) hosted by [Cheesecake](https://osu.ppy.sh/users/3700647)!
+Enjoy some circle size 3 alternating with [this map](https://osu.ppy.sh/beatmapsets/750147) hosted by ::Cheesecake::{ user-id=3700647 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/287/Just%20Dance/Pegboard%20Nerds%20-%20Just%20Dance%20(feat.%20Tia%20Simone).mp3" type="audio/mpeg">

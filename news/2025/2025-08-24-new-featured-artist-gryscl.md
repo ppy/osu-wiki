@@ -17,7 +17,7 @@ Whether you're looking for inspiration or something to listen to, you'll be sati
 
 ### [GRYSCL - Wwhatevver](https://assets.ppy.sh/artists/492/Trollian%20Archives/GRYSCL%20-%20Wwhatevver.osz)
 
-[chmekoe](https://osu.ppy.sh/users/7807444) had a massive Don costume at [COE 2025](/wiki/Community/cavoe's_osu!_event) as usual, so we were obligated to ask him to play [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2342916) by [iRedi](https://osu.ppy.sh/users/8005579)!
+::chmekoe::{ user-id=7807444 } had a massive Don costume at [COE 2025](/wiki/Community/cavoe's_osu!_event) as usual, so we were obligated to ask him to play [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2342916) by ::iRedi::{ user-id=8005579 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -27,7 +27,7 @@ Whether you're looking for inspiration or something to listen to, you'll be sati
 
 ### [GRYSCL - Escapism](https://assets.ppy.sh/artists/492/Songs/GRYSCL%20-%20Escapism.osz)
 
-7K key smashers rejoice: [Irone OSU](https://osu.ppy.sh/users/10678230) made [a new map](https://osu.ppy.sh/beatmapsets/2384418) just for you.
+7K key smashers rejoice: ::Irone OSU::{ user-id=10678230 } made [a new map](https://osu.ppy.sh/beatmapsets/2384418) just for you.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/492/Songs/GRYSCL%20-%20Escapism.mp3">

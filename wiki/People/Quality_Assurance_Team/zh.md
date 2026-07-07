@@ -15,7 +15,7 @@ QAT 在作图者和玩家群体中的声誉多为负面，原因是他们频繁 
 
 2016 年，QAT 开始从主动审核谱面转为基于用户举报被动下架谱面。这使得 QAT 的大部分工作转向与管理有关的事务，例如评估[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 的资格和改革谱面上架标准。
 
-2017 年，在 [Loctav](https://osu.ppy.sh/users/71366) 离开团队后，首批 [QAT 领导](/wiki/People/Quality_Assurance_Team/QAT_Leaders)设立，以促进 QAT 与 osu! 开发者之间的沟通。
+2017 年，在 ::Loctav::{ user-id=71366 } 离开团队后，首批 [QAT 领导](/wiki/People/Quality_Assurance_Team/QAT_Leaders)设立，以促进 QAT 与 osu! 开发者之间的沟通。
 
 质量保证仍属该团队的职责范围，但随着 BN 逐渐承担起把控谱面质量的主要职责，质量保证在团队工作中的重心地位不断下降。
 

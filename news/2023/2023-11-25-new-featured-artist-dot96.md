@@ -11,7 +11,7 @@ series: featured_artists
 
 From *CHUNITHM* to *maimai* to *Tone Sphere* and more, **DOT96**'s diverse sound has been showcased across the rhythm game spectrum.
 
-Here on osu! though, **DOT96** had a not-so-conventional introduction via [MAKE IT FUNKY NOW](https://osu.ppy.sh/beatmapsets/1485845) — a beatmap featuring storyboard trickery by [Aspire](/wiki/Contests/Aspire) contest champion [Mr HeliX](https://osu.ppy.sh/users/2330619).
+Here on osu! though, **DOT96** had a not-so-conventional introduction via [MAKE IT FUNKY NOW](https://osu.ppy.sh/beatmapsets/1485845) — a beatmap featuring storyboard trickery by [Aspire](/wiki/Contests/Aspire) contest champion ::Mr HeliX::{ user-id=2330619 }.
 
 [**DOT96**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/390) has **4** new tunes to sort through, one of which is bound to be the template for your next map.
 
@@ -25,7 +25,7 @@ Looking for some inspiration? Witness that storyboarding spectacle through the v
 
 ### DOT96 - MAKE IT FUNKY NOW
 
-Give your best attempt to [the map from the video above](https://osu.ppy.sh/beatmapsets/1485845) hosted by [Mr HeliX](https://osu.ppy.sh/users/2330619) or [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2085685) hosted by [BadDragon](https://osu.ppy.sh/users/6051688)!
+Give your best attempt to [the map from the video above](https://osu.ppy.sh/beatmapsets/1485845) hosted by ::Mr HeliX::{ user-id=2330619 } or [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2085685) hosted by ::BadDragon::{ user-id=6051688 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/390/NINETYSIX/DOT96 - MAKE IT FUNKY NOW.mp3">

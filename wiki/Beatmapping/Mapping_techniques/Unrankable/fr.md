@@ -8,20 +8,20 @@ outdated: true
 
 ## Burai Sliders
 
-Nominateur : [machol30](https://osu.ppy.sh/users/5772)
+Nominateur : ::machol30::{ user-id=5772 }
 
 Un **Burai sliders** est un slider qui se chevauche complètement sans laisser de place pour remarquer qu'il s'est effectivement chevauché, à l'exception de l'extrémité du slider.
 
 Ce pattern n'est pas classable en raison de la confusion qu'il crée en termes de lisibilité globale.
 Au contraire, si vous faites un pattern similaire mais en laissant un léger angle, il est classable.
 
-Cette technique a été nommée d'après l'ancien nom du créateur, buraimaster1234 (maintenant connu sous le nom de [machol30](https://osu.ppy.sh/users/5772)).
+Cette technique a été nommée d'après l'ancien nom du créateur, buraimaster1234 (maintenant connu sous le nom de ::machol30::{ user-id=5772 }).
 
 ## Hold Sliders
 
 *À ne pas confondre avec les [short repeating sliders](/wiki/Beatmapping/Mapping_techniques/Sliders#short-repeating-sliders).*
 
-Nominateur : [Shinxyn](https://osu.ppy.sh/users/13996)
+Nominateur : ::Shinxyn::{ user-id=13996 }
 
 Les sliders normaux qui modifient la vitesse utilisent normalement un point hérité de 0,5 ou 2,0.
 En revanche, les hold sliders utilisent un point hérité de 0,25 ou même de 0,125.

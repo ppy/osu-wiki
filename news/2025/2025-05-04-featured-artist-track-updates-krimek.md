@@ -33,7 +33,7 @@ Play through [**Krimek**'s submission to Kyoku 2024](https://osu.ppy.sh/beatmaps
 
 ### [Krimek feat. michiri9 - Lunaria](https://assets.ppy.sh/artists/371/Lunaria/Krimek%20feat.%20michiri9%20-%20Lunaria.osz)
 
-Try out [this map from last year's Resurrection Cup](https://osu.ppy.sh/beatmapsets/2215066) hosted by [Mimiliaa](https://osu.ppy.sh/users/7117621)!
+Try out [this map from last year's Resurrection Cup](https://osu.ppy.sh/beatmapsets/2215066) hosted by ::Mimiliaa::{ user-id=7117621 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/371/Lunaria/Krimek%20feat.%20michiri9%20-%20Lunaria.mp3">
@@ -41,7 +41,7 @@ Try out [this map from last year's Resurrection Cup](https://osu.ppy.sh/beatmaps
 
 ### [Krimek - Coeval Era](https://assets.ppy.sh/artists/371/Coeval%20Era/Krimek%20-%20Coeval%20Era.osz)
 
-Experience [DACH Open 2024's Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2214965) mapped by [Pho](https://osu.ppy.sh/users/3624692), [Lince Cosmico](https://osu.ppy.sh/users/6070370), [Megafan](https://osu.ppy.sh/users/6632605), and [MaestroSplinter](https://osu.ppy.sh/users/6707918)!
+Experience [DACH Open 2024's Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2214965) mapped by ::Pho::{ user-id=3624692 }, [Lince Cosmico](https://osu.ppy.sh/users/6070370), ::Megafan::{ user-id=6632605 }, and [MaestroSplinter](https://osu.ppy.sh/users/6707918)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/371/Coeval%20Era/Krimek%20-%20Coeval%20Era.mp3">
@@ -49,7 +49,7 @@ Experience [DACH Open 2024's Grand Finals tiebreaker](https://osu.ppy.sh/beatmap
 
 ### [Krimek feat. eili - Silent Sentinel](https://assets.ppy.sh/artists/371/Silent%20Sentinel/Krimek%20feat.%20eili%20-%20Silent%20Sentinel.osz)
 
-Here's the [Vietnam osu! Championship 2024's Knockout 2 tiebreaker](https://osu.ppy.sh/beatmapsets/2254625) mapped by [Typ4](https://osu.ppy.sh/users/6902361), [Ducky-](https://osu.ppy.sh/users/9351565), [nik](https://osu.ppy.sh/users/10077264), [Nagabi](https://osu.ppy.sh/users/10352099), [Vermasium](https://osu.ppy.sh/users/11106442), and [Arushii](https://osu.ppy.sh/users/15664628)!
+Here's the [Vietnam osu! Championship 2024's Knockout 2 tiebreaker](https://osu.ppy.sh/beatmapsets/2254625) mapped by ::Typ4::{ user-id=6902361 }, [Ducky-](https://osu.ppy.sh/users/9351565), ::nik::{ user-id=10077264 }, [Nagabi](https://osu.ppy.sh/users/10352099), ::Vermasium::{ user-id=11106442 }, and [Arushii](https://osu.ppy.sh/users/15664628)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/371/Silent%20Sentinel/Krimek%20feat.%20eili%20-%20Silent%20Sentinel.mp3">

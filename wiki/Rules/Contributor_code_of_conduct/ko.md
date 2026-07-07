@@ -44,7 +44,7 @@ no_native_review: true
 
 해당 메일에 액세스할 수 있는 커뮤니티 리더는 다음과 같습니다:
 
-- [peppy](https://osu.ppy.sh/users/2) ([pe@ppy.sh](mailto:pe@ppy.sh))
+- ::peppy::{ user-id=2 } ([pe@ppy.sh](mailto:pe@ppy.sh))
 
 모든 불만사항은 신속하고 공정하게 조사하며 검토됩니다.
 

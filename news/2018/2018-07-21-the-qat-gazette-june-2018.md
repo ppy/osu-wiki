@@ -11,7 +11,7 @@ A new month's worth of modding and mapping news is here for your convenience, wi
 
 ## Opening
 
-Hello everyone, [Protastic101](https://osu.ppy.sh/users/6712747) here, and it's that time of month again for modding and mapping news!
+Hello everyone, ::Protastic101::{ user-id=6712747 } here, and it's that time of month again for modding and mapping news!
 
 As already mentioned in the headline, there's been a lot going on this past month which hopefully more than makes up for June's slow start. In addition to all that, we also have news on a new BN activity scoring system, a new draft of the osu!mania Ranking Criteria, and as usual, all the latest comings and goings within our teams.
 
@@ -37,7 +37,7 @@ Still different from the BN score of pre-2014 days, this will take into account 
 
 After three agonizing weeks of waiting, we're pleased to welcome nine new Beatmap Nominators to our big happy family of nearly one hundred members. Please give a warm welcome to the following people, whose friendly faces will be in the discussion threads of your favorite Qualified and Ranked beatmaps:
 
-[_Stan](https://osu.ppy.sh/users/1653229), [DE-CADE](https://osu.ppy.sh/users/3734394), [DoNotMess](https://osu.ppy.sh/users/1596318), [Fii](https://osu.ppy.sh/users/3922569), [Lenfried-](https://osu.ppy.sh/users/5314573), [Nifty](https://osu.ppy.sh/users/4956097), [qoot8123](https://osu.ppy.sh/users/766371), [Unpredictable](https://osu.ppy.sh/users/7560872) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
+::\1Stan::{ user-id=1653229 }, [DE-CADE](https://osu.ppy.sh/users/3734394), ::DoNotMess::{ user-id=1596318 }, [Fii](https://osu.ppy.sh/users/3922569), ::Lenfried-::{ user-id=5314573 }, [Nifty](https://osu.ppy.sh/users/4956097), ::qoot8123::{ user-id=766371 }, [Unpredictable](https://osu.ppy.sh/users/7560872) and ::Yumeno Himiko::{ user-id=1806962 }
 
 Many congratulations on becoming Beatmap Nominators, everyone – we hope you enjoy your time with us!
 
@@ -45,7 +45,7 @@ Many congratulations on becoming Beatmap Nominators, everyone – we hope you en
 
 As always though, some of our hard working members have departed the team to pursue other goals outside of the focus of the Beatmap Nominators. Please give thanks to the following for their hard work and contribution to the wonderful mapping and modding community:
 
-[AyanokoRin](https://osu.ppy.sh/users/5376866), [dsco](https://osu.ppy.sh/users/4330511), [celerih](https://osu.ppy.sh/users/4696296), [frukoyurdakul](https://osu.ppy.sh/users/7612550), [Hailie](https://osu.ppy.sh/users/5226970) and [Kagetsu](https://osu.ppy.sh/users/6203841)
+::AyanokoRin::{ user-id=5376866 }, [dsco](https://osu.ppy.sh/users/4330511), ::celerih::{ user-id=4696296 }, [frukoyurdakul](https://osu.ppy.sh/users/7612550), ::Hailie::{ user-id=5226970 } and [Kagetsu](https://osu.ppy.sh/users/6203841)
 
 Their unique perspectives and courage to explore the frontiers of mapping have beaten a path for others to follow and expand. Thank you for your contributions and good luck wherever you go next.
 
@@ -75,21 +75,21 @@ Stop by and give the [current draft](https://gist.github.com/Okorin/1a5f5d6f4894
 
 ### New Quality Assurance Team additions
 
-This month, we welcome a new piano masher to the Quality Assurance Team. Formerly a long standing member of the Beatmap Nominators, [Maxus](https://osu.ppy.sh/users/4335785) will be assisting the Quality Assurance Helpers with checking and disqualifying beatmaps, and giving [Feerum](https://osu.ppy.sh/users/4815717) and myself a helping hand on the osu!mania community side of things. We're glad to have him on board!
+This month, we welcome a new piano masher to the Quality Assurance Team. Formerly a long standing member of the Beatmap Nominators, ::Maxus::{ user-id=4335785 } will be assisting the Quality Assurance Helpers with checking and disqualifying beatmaps, and giving ::Feerum::{ user-id=4815717 } and myself a helping hand on the osu!mania community side of things. We're glad to have him on board!
 
-On the osu! side of the coin, another new team member has arisen: [Hobbes2](https://osu.ppy.sh/users/8157492). Hobbes' recent output of checked beatmaps in the Quality Assurance Helpers has been frankly astonishing, and we hope that trend continues in the QAT to keep on top of the ever-growing pool of osu! beatmaps making their way to the Qualified section.
+On the osu! side of the coin, another new team member has arisen: ::Hobbes2::{ user-id=8157492 }. Hobbes' recent output of checked beatmaps in the Quality Assurance Helpers has been frankly astonishing, and we hope that trend continues in the QAT to keep on top of the ever-growing pool of osu! beatmaps making their way to the Qualified section.
 
 ### Quality Assurance Team retirements
 
 While not a retirement exactly, the Quality Assurance Team underwent a bit of spring cleaning this month, where we evaluated the direction and focus we want to have as a team, specifically one that is geared mostly towards disqualifications and beatmap checking.
 
-As a result, [Doyak](https://osu.ppy.sh/users/2046893) and [Kurai](https://osu.ppy.sh/users/77089) have been moved over to the Global Moderation Team, which better aligns with their previously moderation-heavy duties within the QAT.
+As a result, ::Doyak::{ user-id=2046893 } and [Kurai](https://osu.ppy.sh/users/77089) have been moved over to the Global Moderation Team, which better aligns with their previously moderation-heavy duties within the QAT.
 
-Following a more traditional retirement, [Kurokami](https://osu.ppy.sh/users/260933) has left the team after a faithful 3 years of service, rightfully earning him the 3 Year Quality Assurance Team badge to adorn his profile page.
+Following a more traditional retirement, ::Kurokami::{ user-id=260933 } has left the team after a faithful 3 years of service, rightfully earning him the 3 Year Quality Assurance Team badge to adorn his profile page.
 
 His contributions to the Beatmap Spotlights and to the osu!catch community in particular have inspired many others to seize the initiative and further the projects they love. These efforts are greatly appreciated and will not be forgotten any time soon. Despite no longer being part of the team, he still continues to work and improve on Beatmap Spotlights, so continue to expect more from him in the future!
 
-As the team's focus shifts, [Asherz007](https://osu.ppy.sh/users/9014047) has also decided to take his leave from the team and return to the more traditional hands-on duties of a Beatmap Nominator. He can still be found modding and nominating the osu!mania maps we all love however, and is also helping to organize the osu!mania duties of the Mapping Mentorship Program, only with a purple name instead of a red one. There's sure to be more from him in the future as he shows no signs of slowing down.
+As the team's focus shifts, ::Asherz007::{ user-id=9014047 } has also decided to take his leave from the team and return to the more traditional hands-on duties of a Beatmap Nominator. He can still be found modding and nominating the osu!mania maps we all love however, and is also helping to organize the osu!mania duties of the Mapping Mentorship Program, only with a purple name instead of a red one. There's sure to be more from him in the future as he shows no signs of slowing down.
 
 ## Summary
 

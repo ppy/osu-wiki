@@ -23,7 +23,7 @@ See what you've been missing out on:
 
 ### [uynet - Mach space journey](https://assets.ppy.sh/artists/453/Songs/uynet%20-%20Mach%20space%20journey.osz)
 
-Check out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2013835) hosted by [wIntEr7z](https://osu.ppy.sh/users/16509588) or [this 7K Loved rendition](https://osu.ppy.sh/beatmapsets/1337065) hosted by [yahweh](https://osu.ppy.sh/users/10465260)!
+Check out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2013835) hosted by ::wIntEr7z::{ user-id=16509588 } or [this 7K Loved rendition](https://osu.ppy.sh/beatmapsets/1337065) hosted by ::yahweh::{ user-id=10465260 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/453/Songs/uynet%20-%20Mach%20space%20journey.mp3">

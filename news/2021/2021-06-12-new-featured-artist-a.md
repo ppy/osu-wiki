@@ -9,7 +9,7 @@ series: featured_artists
 
 ![](https://assets.ppy.sh/artists/173/header.jpg)
 
-"Wouldn't it be cool to play an osu! map of my own music?" is a question surely every player has considered at some point. Few people actually go the extra mile to make it happen though, one example being J-core/breakcore producer **A?**, also known as Aquestion or [A__](https://osu.ppy.sh/users/12011880) on osu!.
+"Wouldn't it be cool to play an osu! map of my own music?" is a question surely every player has considered at some point. Few people actually go the extra mile to make it happen though, one example being J-core/breakcore producer **A?**, also known as Aquestion or ::A\1\1::{ user-id=12011880 } on osu!.
 
 Putting their osu!taiko experience to the test, **A?** grew a name for themselves through a vast collection of remixes that eventually expanded into the realm of original works. Each of their songs packs both insane energy and complex rhythms that likely come naturally to someone well versed in rhythm games.
 
@@ -25,7 +25,7 @@ Hungering for a taste? **A?**'s 1/4 and 1/6-filled song [*Arrogation*](https://o
 
 ### Arrogation
 
-Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1311422) by [OneShotFox](https://osu.ppy.sh/users/8840398) and [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1291023) by [ZTH](https://osu.ppy.sh/users/5258461)!
+Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1311422) by ::OneShotFox::{ user-id=8840398 } and [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1291023) by ::ZTH::{ user-id=5258461 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/173/Songs/A%20-%20Arrogation.mp3" type="audio/mpeg">

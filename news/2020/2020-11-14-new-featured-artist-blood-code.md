@@ -17,7 +17,7 @@ Check out a sample of what's new below:
 
 ### BLOOD CODE, TOFUKU - POP SHOVE-IT
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1294825) hosted by [Hobbes2](https://osu.ppy.sh/users/8157492) from the Mappers' Guild, featuring difficulties from [Gero](https://osu.ppy.sh/users/1467715)!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1294825) hosted by ::Hobbes2::{ user-id=8157492 } from the Mappers' Guild, featuring difficulties from ::Gero::{ user-id=1467715 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/115/previews/2989.mp3" type="audio/mpeg">

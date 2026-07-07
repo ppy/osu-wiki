@@ -8,7 +8,7 @@ tags:
 
 ![T2T 2019 logo](img/logo.jpg)
 
-The **TAG2 Tournament 2019** (***T2T 2019***) was an international Tag Team VS. tournament hosted by ::{ flag=FI }:: [Mara](https://osu.ppy.sh/users/194294) and ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178). It was the third instalment of the TAG Tournament series. The tournament followed on from ::{ flag=NL }:: [Tayo](https://osu.ppy.sh/users/8910355)'s two previous TAG Tournaments: [T4T 2017](https://osu.ppy.sh/community/forums/topics/624941) and [T4T 2018](https://osu.ppy.sh/community/forums/topics/789136).
+The **TAG2 Tournament 2019** (***T2T 2019***) was an international Tag Team VS. tournament hosted by ::{ flag=FI }:: ::Mara::{ user-id=194294 } and ::{ flag=GB }:: ::Malteser::{ user-id=5218178 }. It was the third instalment of the TAG Tournament series. The tournament followed on from ::{ flag=NL }:: ::Tayo::{ user-id=8910355 }'s two previous TAG Tournaments: [T4T 2017](https://osu.ppy.sh/community/forums/topics/624941) and [T4T 2018](https://osu.ppy.sh/community/forums/topics/789136).
 
 ## Tournament schedule
 
@@ -37,12 +37,12 @@ The TAG2 Tournament 2019 was run by various community members.
 
 | Position | Member(s) |
 | --: | :-- |
-| Host | ::{ flag=FI }:: [Mara](https://osu.ppy.sh/users/194294), ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178) |
-| Co-host | ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Mappool selector | ::{ flag=CA }:: [Legless](https://osu.ppy.sh/users/3224243), ::{ flag=GB }:: [Doughy](https://osu.ppy.sh/users/5275937), ::{ flag=FI }:: [Mara](https://osu.ppy.sh/users/194294), ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178), ::{ flag=US }:: [Junjou](https://osu.ppy.sh/users/7077648) |
-| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=BR }:: [Flow-](https://osu.ppy.sh/users/4222824), ::{ flag=PL }:: [HAEN24](https://osu.ppy.sh/users/4390077), ::{ flag=VN }:: [steve_04\_](https://osu.ppy.sh/users/10852911), ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731), ::{ flag=MY }:: [Stupid Idiot](https://osu.ppy.sh/users/8355574), ::{ flag=US }:: [YoshiLover456](https://osu.ppy.sh/users/6843383), ::{ flag=GR }:: [nikolomara](https://osu.ppy.sh/users/10077264), ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287) |
-| Statistician | ::{ flag=TR }:: [oralekin](https://osu.ppy.sh/users/7631823), ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) |
-| Designer | ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ::{ flag=FI }:: [Mara](https://osu.ppy.sh/users/194294) |
+| Host | ::{ flag=FI }:: ::Mara::{ user-id=194294 }, ::{ flag=GB }:: ::Malteser::{ user-id=5218178 } |
+| Co-host | ::{ flag=FI }:: ::Lefafel::{ user-id=2295850 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 } |
+| Mappool selector | ::{ flag=CA }:: ::Legless::{ user-id=3224243 }, ::{ flag=GB }:: ::Doughy::{ user-id=5275937 }, ::{ flag=FI }:: ::Mara::{ user-id=194294 }, ::{ flag=GB }:: ::Malteser::{ user-id=5218178 }, ::{ flag=US }:: ::Junjou::{ user-id=7077648 } |
+| Referee | ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=GB }:: ::Malteser::{ user-id=5218178 }, ::{ flag=FI }:: ::Lefafel::{ user-id=2295850 }, ::{ flag=TR }:: ::112servis::{ user-id=3953470 }, ::{ flag=BR }:: ::Flow-::{ user-id=4222824 }, ::{ flag=PL }:: ::HAEN24::{ user-id=4390077 }, ::{ flag=VN }:: ::steve\104\_::{ user-id=10852911 }, ::{ flag=FI }:: ::Laurakko::{ user-id=7253731 }, ::{ flag=MY }:: ::Stupid Idiot::{ user-id=8355574 }, ::{ flag=US }:: ::YoshiLover456::{ user-id=6843383 }, ::{ flag=GR }:: ::nikolomara::{ user-id=10077264 }, ::{ flag=CH }:: ::Icerite::{ user-id=7226287 } |
+| Statistician | ::{ flag=TR }:: ::oralekin::{ user-id=7631823 }, ::{ flag=NO }:: ::YokesPai::{ user-id=6399568 } |
+| Designer | ::{ flag=GB }:: ::Doomsday is Bad::{ user-id=3481378 }, ::{ flag=FI }:: ::Mara::{ user-id=194294 } |
 
 ## Links
 
@@ -56,52 +56,52 @@ The TAG2 Tournament 2019 was run by various community members.
 
 | Team | Members |
 | :-: | :-- |
-| **Jelosefied** | ::{ flag=GB }:: [deanio97](https://osu.ppy.sh/users/3284292), ::{ flag=IL }:: [My Waifu Holo](https://osu.ppy.sh/users/10822717) |
-| **tikkayes** | ::{ flag=FI }:: [tikkanen](https://osu.ppy.sh/users/7341081), ::{ flag=FI }:: [Yes](https://osu.ppy.sh/users/6567244) |
-| **osu! schmosu!** | ::{ flag=GB }:: [-Roxas](https://osu.ppy.sh/users/1986262), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| **KATIUSZA** | ::{ flag=RU }:: [\_NotSoFast\_](https://osu.ppy.sh/users/4663676), ::{ flag=PL }:: [Zabijaka](https://osu.ppy.sh/users/3526708), ::{ flag=PL }:: [ZBUKU](https://osu.ppy.sh/users/3669758) |
-| **https:/<!---->/puu.sh/CML6I/8e0e9c5219.png** | ::{ flag=DE }:: [Veth](https://osu.ppy.sh/users/1715441), ::{ flag=DE }:: [okinamo](https://osu.ppy.sh/users/3765989), ::{ flag=DE }:: [Knalli](https://osu.ppy.sh/users/8147403) |
-| **Pats** | ::{ flag=PL }:: [Hedzio](https://osu.ppy.sh/users/8028264), ::{ flag=PL }:: [Reazen](https://osu.ppy.sh/users/3053670), ::{ flag=PL }:: [Pawlyk here](https://osu.ppy.sh/users/2095976) |
-| **Fat sack of cat crap** | ::{ flag=NZ }:: [HashBrownDoyler](https://osu.ppy.sh/users/5975025), ::{ flag=US }:: [asneakyfatcat](https://osu.ppy.sh/users/5458499) |
-| **big gem slappers** | ::{ flag=LT }:: [shineroo](https://osu.ppy.sh/users/4360718), ::{ flag=NL }:: [Lazer](https://osu.ppy.sh/users/1799925) |
-| **A League of Our Own** | ::{ flag=NZ }:: [Blujae](https://osu.ppy.sh/users/10613885), ::{ flag=US }:: [_windex](https://osu.ppy.sh/users/7107711) |
-| **Order of the Black Knights** | ::{ flag=RU }:: [AD_GOD](https://osu.ppy.sh/users/7121899), ::{ flag=RU }:: [Zelepupka](https://osu.ppy.sh/users/10324595), ::{ flag=RU }:: [Liswiera](https://osu.ppy.sh/users/9356954) |
-| **Flyg slem** | ::{ flag=SE }:: [Reedkatt](https://osu.ppy.sh/users/8335950), ::{ flag=SE }:: [FlySlime](https://osu.ppy.sh/users/3876402) |
-| **NumZyo009** | ::{ flag=US }:: [Num5119](https://osu.ppy.sh/users/5198060), ::{ flag=US }:: [BearZyo](https://osu.ppy.sh/users/6116759), ::{ flag=US }:: [Ninjaadrian009](https://osu.ppy.sh/users/7017724) |
-| **@Zenzi#8087 CS?** | ::{ flag=DE }:: [Bakugo-](https://osu.ppy.sh/users/4990127), ::{ flag=DE }:: [Zenzi](https://osu.ppy.sh/users/7307130), ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) |
-| **You’re cute uwu** | ::{ flag=DE }:: [[Lucky]](https://osu.ppy.sh/users/1303685), ::{ flag=DE }:: [DokiPon](https://osu.ppy.sh/users/3283468), ::{ flag=IS }:: [davidercool](https://osu.ppy.sh/users/4043420) |
-| **taiko** | ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922), ::{ flag=US }:: [dragonworm](https://osu.ppy.sh/users/11464752) |
-| **:sunflower:** | ::{ flag=FR }:: [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=GB }:: [DeltaZero](https://osu.ppy.sh/users/6472042), ::{ flag=AU }:: [loveleft](https://osu.ppy.sh/users/9240047) |
-| **JMIH TEAM** | ::{ flag=RU }:: [slivkigames1](https://osu.ppy.sh/users/11240921), ::{ flag=RU }:: [HOMEPON](https://osu.ppy.sh/users/11978105), ::{ flag=KZ }:: [d4rkymode](https://osu.ppy.sh/users/12743301) |
-| **deranker fan club** | ::{ flag=CA }:: [trevrasher](https://osu.ppy.sh/users/3893420), ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) |
-| **Thank You** | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445), ::{ flag=IL }:: [Xilver15](https://osu.ppy.sh/users/3099689), ::{ flag=US }:: [Conyoh](https://osu.ppy.sh/users/4844496) |
-| **idk** | ::{ flag=PL }:: [pajwoj](https://osu.ppy.sh/users/4899393), ::{ flag=GB }:: [Nega](https://osu.ppy.sh/users/3181083), ::{ flag=LT }:: [PainSinger](https://osu.ppy.sh/users/697843) |
-| **sleepy squad** | ::{ flag=CA }:: [PayneTrain](https://osu.ppy.sh/users/10275038), ::{ flag=CA }:: [Saltystick](https://osu.ppy.sh/users/2165408) |
-| **HibikiLover** | ::{ flag=HK }:: [[- Hibiki-]](https://osu.ppy.sh/users/5413624), ::{ flag=HK }:: [[-Hibiki -]](https://osu.ppy.sh/users/9313951) |
-| **Lowkey Steez** | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458), ::{ flag=AU }:: [uyghti](https://osu.ppy.sh/users/3641404), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086) |
-| **Let’s Obtain This Grain** | ::{ flag=US }:: [Evan1](https://osu.ppy.sh/users/11951699), ::{ flag=US }:: [Adan](https://osu.ppy.sh/users/8130565), ::{ flag=US }:: [tux_frog](https://osu.ppy.sh/users/11951702) |
-| **De drie Jo's** | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619), ::{ flag=NL }:: [wooz](https://osu.ppy.sh/users/6888206), ::{ flag=NL }:: [Damnjelly](https://osu.ppy.sh/users/1666355) |
-| **Double Siusiaczki** | ::{ flag=PL }:: [Szago](https://osu.ppy.sh/users/2827078), ::{ flag=PL }:: [-yeXa-](https://osu.ppy.sh/users/10344658) |
-| **Splendid Hentai Booty** | ::{ flag=FI }:: [Urnukka](https://osu.ppy.sh/users/4765619), ::{ flag=DE }:: [LwL](https://osu.ppy.sh/users/3556856), ::{ flag=SE }:: [Ham Solo](https://osu.ppy.sh/users/3338630) |
-| **Souljaboii** | ::{ flag=GB }:: [coulrulner1](https://osu.ppy.sh/users/13318606), ::{ flag=GB }:: [Quantifiable](https://osu.ppy.sh/users/7102193) |
-| **흠** | ::{ flag=KR }:: [Mya](https://osu.ppy.sh/users/2868952), ::{ flag=KR }:: [Gambler](https://osu.ppy.sh/users/11415230), ::{ flag=KR }:: [Ansol](https://osu.ppy.sh/users/7302146) |
-| **Birkano** | ::{ flag=AR }:: [Maariianoo](https://osu.ppy.sh/users/6371395), ::{ flag=AR }:: [-Birke-](https://osu.ppy.sh/users/3265658) |
-| **Miss Generators** | ::{ flag=NL }:: [Turbotondel](https://osu.ppy.sh/users/9930215), ::{ flag=NL }:: [PatyYe-](https://osu.ppy.sh/users/3929829), ::{ flag=BG }:: [[Ted]](https://osu.ppy.sh/users/9717848) |
-| **invandrarna** | ::{ flag=SE }:: [zhichu](https://osu.ppy.sh/users/4766629), ::{ flag=DE }:: [silverin0](https://osu.ppy.sh/users/9099735), ::{ flag=SE }:: [Lord Grim](https://osu.ppy.sh/users/6788374) |
-| **Coventry Convent** | ::{ flag=GB }:: [Elit3](https://osu.ppy.sh/users/10086758), ::{ flag=GB }:: [Rumon](https://osu.ppy.sh/users/4000985) |
-| **2 Autis** | ::{ flag=ID }:: [Zexen](https://osu.ppy.sh/users/9102451), ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
-| **Wapitulas** | ::{ flag=AR }:: [Penguo](https://osu.ppy.sh/users/4389490), ::{ flag=AR }:: [Arua](https://osu.ppy.sh/users/5038837), ::{ flag=AR }:: [Nykke](https://osu.ppy.sh/users/8181950) |
-| **Haven't you heard? we are the twins** | ::{ flag=CA }:: [Bowlcut](https://osu.ppy.sh/users/4118327), ::{ flag=KR }:: [silverlightcs](https://osu.ppy.sh/users/9862564) |
-| **Moe Watchers** | ::{ flag=US }:: [Hot Cocoa](https://osu.ppy.sh/users/4986705), ::{ flag=CA }:: [trevrashar](https://osu.ppy.sh/users/7031287), ::{ flag=GB }:: [Dosh](https://osu.ppy.sh/users/7689172) |
-| **yousangumin** | ::{ flag=KR }:: [ftg](https://osu.ppy.sh/users/2128311), ::{ flag=KR }:: [ddm](https://osu.ppy.sh/users/7910282), ::{ flag=KR }:: [239](https://osu.ppy.sh/users/3261991) |
-| **dont know** | ::{ flag=AR }:: [-Urushihara-](https://osu.ppy.sh/users/6169195), ::{ flag=BR }:: [Astris](https://osu.ppy.sh/users/6173856) |
-| **yooo whats goodie eh** | ::{ flag=CA }:: [Vespirit](https://osu.ppy.sh/users/5425046), ::{ flag=CA }:: [neuro](https://osu.ppy.sh/users/3737401) |
-| **succducc** | ::{ flag=DE }:: [Coco senpai](https://osu.ppy.sh/users/2386274), ::{ flag=DE }:: [Kawaii Kaneki](https://osu.ppy.sh/users/3344333), ::{ flag=DE }:: [Gracidea](https://osu.ppy.sh/users/6254279) |
-| **short breads** | ::{ flag=US }:: [Tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=US }:: [theking1212](https://osu.ppy.sh/users/3205313), ::{ flag=US }:: [ikyy](https://osu.ppy.sh/users/10292384) |
-| **FutaLovers** | ::{ flag=CO }:: [ElMick33](https://osu.ppy.sh/users/5458323), ::{ flag=CO }:: [NecropedoSS](https://osu.ppy.sh/users/6273616), ::{ flag=CO }:: [cahsun](https://osu.ppy.sh/users/6043627) |
-| **egg** | ::{ flag=US }:: [Rysenen](https://osu.ppy.sh/users/8530170), ::{ flag=CA }:: [FluffyEcho](https://osu.ppy.sh/users/8543980), ::{ flag=US }:: [biscuithime](https://osu.ppy.sh/users/6567833) |
-| **Furfags OwO** | ::{ flag=ES }:: [RivenXLukario](https://osu.ppy.sh/users/9582556), ::{ flag=DE }:: [Umbre](https://osu.ppy.sh/users/2766034), ::{ flag=BR }:: [[ Max ]](https://osu.ppy.sh/users/8162936) |
-| **le Pepega** | ::{ flag=RU }:: [HullPerse](https://osu.ppy.sh/users/9469381), ::{ flag=NO }:: [Jonbaron](https://osu.ppy.sh/users/4360885), ::{ flag=SE }:: [momo015](https://osu.ppy.sh/users/5825443) |
+| **Jelosefied** | ::{ flag=GB }:: ::deanio97::{ user-id=3284292 }, ::{ flag=IL }:: ::My Waifu Holo::{ user-id=10822717 } |
+| **tikkayes** | ::{ flag=FI }:: ::tikkanen::{ user-id=7341081 }, ::{ flag=FI }:: ::Yes::{ user-id=6567244 } |
+| **osu! schmosu!** | ::{ flag=GB }:: ::-Roxas::{ user-id=1986262 }, ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 } |
+| **KATIUSZA** | ::{ flag=RU }:: ::\_NotSoFast\_::{ user-id=4663676 }, ::{ flag=PL }:: ::Zabijaka::{ user-id=3526708 }, ::{ flag=PL }:: ::ZBUKU::{ user-id=3669758 } |
+| **https:/<!---->/puu.sh/CML6I/8e0e9c5219.png** | ::{ flag=DE }:: ::Veth::{ user-id=1715441 }, ::{ flag=DE }:: ::okinamo::{ user-id=3765989 }, ::{ flag=DE }:: ::Knalli::{ user-id=8147403 } |
+| **Pats** | ::{ flag=PL }:: ::Hedzio::{ user-id=8028264 }, ::{ flag=PL }:: ::Reazen::{ user-id=3053670 }, ::{ flag=PL }:: ::Pawlyk here::{ user-id=2095976 } |
+| **Fat sack of cat crap** | ::{ flag=NZ }:: ::HashBrownDoyler::{ user-id=5975025 }, ::{ flag=US }:: ::asneakyfatcat::{ user-id=5458499 } |
+| **big gem slappers** | ::{ flag=LT }:: ::shineroo::{ user-id=4360718 }, ::{ flag=NL }:: ::Lazer::{ user-id=1799925 } |
+| **A League of Our Own** | ::{ flag=NZ }:: ::Blujae::{ user-id=10613885 }, ::{ flag=US }:: ::\1windex::{ user-id=7107711 } |
+| **Order of the Black Knights** | ::{ flag=RU }:: ::AD\1GOD::{ user-id=7121899 }, ::{ flag=RU }:: ::Zelepupka::{ user-id=10324595 }, ::{ flag=RU }:: ::Liswiera::{ user-id=9356954 } |
+| **Flyg slem** | ::{ flag=SE }:: ::Reedkatt::{ user-id=8335950 }, ::{ flag=SE }:: ::FlySlime::{ user-id=3876402 } |
+| **NumZyo009** | ::{ flag=US }:: ::Num5119::{ user-id=5198060 }, ::{ flag=US }:: ::BearZyo::{ user-id=6116759 }, ::{ flag=US }:: ::Ninjaadrian009::{ user-id=7017724 } |
+| **@Zenzi#8087 CS?** | ::{ flag=DE }:: ::Bakugo-::{ user-id=4990127 }, ::{ flag=DE }:: ::Zenzi::{ user-id=7307130 }, ::{ flag=DE }:: ::Sylvarus::{ user-id=4505918 } |
+| **You’re cute uwu** | ::{ flag=DE }:: ::\1Lucky\1::{ user-id=1303685 }, ::{ flag=DE }:: ::DokiPon::{ user-id=3283468 }, ::{ flag=IS }:: ::davidercool::{ user-id=4043420 } |
+| **taiko** | ::{ flag=US }:: ::closed::{ user-id=5116922 }, ::{ flag=US }:: ::dragonworm::{ user-id=11464752 } |
+| **:sunflower:** | ::{ flag=FR }:: ::TLQ\1Yoshii::{ user-id=7157133 }, ::{ flag=GB }:: ::DeltaZero::{ user-id=6472042 }, ::{ flag=AU }:: ::loveleft::{ user-id=9240047 } |
+| **JMIH TEAM** | ::{ flag=RU }:: ::slivkigames1::{ user-id=11240921 }, ::{ flag=RU }:: ::HOMEPON::{ user-id=11978105 }, ::{ flag=KZ }:: ::d4rkymode::{ user-id=12743301 } |
+| **deranker fan club** | ::{ flag=CA }:: ::trevrasher::{ user-id=3893420 }, ::{ flag=PL }:: ::Bartek22830::{ user-id=6404027 }, ::{ flag=GB }:: ::majoreh::{ user-id=7959222 } |
+| **Thank You** | ::{ flag=US }:: ::Apraxia::{ user-id=4194445 }, ::{ flag=IL }:: ::Xilver15::{ user-id=3099689 }, ::{ flag=US }:: ::Conyoh::{ user-id=4844496 } |
+| **idk** | ::{ flag=PL }:: ::pajwoj::{ user-id=4899393 }, ::{ flag=GB }:: ::Nega::{ user-id=3181083 }, ::{ flag=LT }:: ::PainSinger::{ user-id=697843 } |
+| **sleepy squad** | ::{ flag=CA }:: ::PayneTrain::{ user-id=10275038 }, ::{ flag=CA }:: ::Saltystick::{ user-id=2165408 } |
+| **HibikiLover** | ::{ flag=HK }:: ::\1- Hibiki-\1::{ user-id=5413624 }, ::{ flag=HK }:: ::\1-Hibiki -\1::{ user-id=9313951 } |
+| **Lowkey Steez** | ::{ flag=AU }:: ::Jordan The Bear::{ user-id=7477458 }, ::{ flag=AU }:: ::uyghti::{ user-id=3641404 }, ::{ flag=AU }:: ::Monk Gyatso::{ user-id=4012086 } |
+| **Let’s Obtain This Grain** | ::{ flag=US }:: ::Evan1::{ user-id=11951699 }, ::{ flag=US }:: ::Adan::{ user-id=8130565 }, ::{ flag=US }:: ::tux\1frog::{ user-id=11951702 } |
+| **De drie Jo's** | ::{ flag=NL }:: ::Mr HeliX::{ user-id=2330619 }, ::{ flag=NL }:: ::wooz::{ user-id=6888206 }, ::{ flag=NL }:: ::Damnjelly::{ user-id=1666355 } |
+| **Double Siusiaczki** | ::{ flag=PL }:: ::Szago::{ user-id=2827078 }, ::{ flag=PL }:: ::-yeXa-::{ user-id=10344658 } |
+| **Splendid Hentai Booty** | ::{ flag=FI }:: ::Urnukka::{ user-id=4765619 }, ::{ flag=DE }:: ::LwL::{ user-id=3556856 }, ::{ flag=SE }:: ::Ham Solo::{ user-id=3338630 } |
+| **Souljaboii** | ::{ flag=GB }:: ::coulrulner1::{ user-id=13318606 }, ::{ flag=GB }:: ::Quantifiable::{ user-id=7102193 } |
+| **흠** | ::{ flag=KR }:: ::Mya::{ user-id=2868952 }, ::{ flag=KR }:: ::Gambler::{ user-id=11415230 }, ::{ flag=KR }:: ::Ansol::{ user-id=7302146 } |
+| **Birkano** | ::{ flag=AR }:: ::Maariianoo::{ user-id=6371395 }, ::{ flag=AR }:: ::-Birke-::{ user-id=3265658 } |
+| **Miss Generators** | ::{ flag=NL }:: ::Turbotondel::{ user-id=9930215 }, ::{ flag=NL }:: ::PatyYe-::{ user-id=3929829 }, ::{ flag=BG }:: ::\1Ted\1::{ user-id=9717848 } |
+| **invandrarna** | ::{ flag=SE }:: ::zhichu::{ user-id=4766629 }, ::{ flag=DE }:: ::silverin0::{ user-id=9099735 }, ::{ flag=SE }:: ::Lord Grim::{ user-id=6788374 } |
+| **Coventry Convent** | ::{ flag=GB }:: ::Elit3::{ user-id=10086758 }, ::{ flag=GB }:: ::Rumon::{ user-id=4000985 } |
+| **2 Autis** | ::{ flag=ID }:: ::Zexen::{ user-id=9102451 }, ::{ flag=ID }:: ::NoVaLian::{ user-id=6459827 }, ::{ flag=ID }:: ::Seox::{ user-id=3793938 } |
+| **Wapitulas** | ::{ flag=AR }:: ::Penguo::{ user-id=4389490 }, ::{ flag=AR }:: ::Arua::{ user-id=5038837 }, ::{ flag=AR }:: ::Nykke::{ user-id=8181950 } |
+| **Haven't you heard? we are the twins** | ::{ flag=CA }:: ::Bowlcut::{ user-id=4118327 }, ::{ flag=KR }:: ::silverlightcs::{ user-id=9862564 } |
+| **Moe Watchers** | ::{ flag=US }:: ::Hot Cocoa::{ user-id=4986705 }, ::{ flag=CA }:: ::trevrashar::{ user-id=7031287 }, ::{ flag=GB }:: ::Dosh::{ user-id=7689172 } |
+| **yousangumin** | ::{ flag=KR }:: ::ftg::{ user-id=2128311 }, ::{ flag=KR }:: ::ddm::{ user-id=7910282 }, ::{ flag=KR }:: ::239::{ user-id=3261991 } |
+| **dont know** | ::{ flag=AR }:: ::-Urushihara-::{ user-id=6169195 }, ::{ flag=BR }:: ::Astris::{ user-id=6173856 } |
+| **yooo whats goodie eh** | ::{ flag=CA }:: ::Vespirit::{ user-id=5425046 }, ::{ flag=CA }:: ::neuro::{ user-id=3737401 } |
+| **succducc** | ::{ flag=DE }:: ::Coco senpai::{ user-id=2386274 }, ::{ flag=DE }:: ::Kawaii Kaneki::{ user-id=3344333 }, ::{ flag=DE }:: ::Gracidea::{ user-id=6254279 } |
+| **short breads** | ::{ flag=US }:: ::Tekkito::{ user-id=7075211 }, ::{ flag=US }:: ::theking1212::{ user-id=3205313 }, ::{ flag=US }:: ::ikyy::{ user-id=10292384 } |
+| **FutaLovers** | ::{ flag=CO }:: ::ElMick33::{ user-id=5458323 }, ::{ flag=CO }:: ::NecropedoSS::{ user-id=6273616 }, ::{ flag=CO }:: ::cahsun::{ user-id=6043627 } |
+| **egg** | ::{ flag=US }:: ::Rysenen::{ user-id=8530170 }, ::{ flag=CA }:: ::FluffyEcho::{ user-id=8543980 }, ::{ flag=US }:: ::biscuithime::{ user-id=6567833 } |
+| **Furfags OwO** | ::{ flag=ES }:: ::RivenXLukario::{ user-id=9582556 }, ::{ flag=DE }:: ::Umbre::{ user-id=2766034 }, ::{ flag=BR }:: ::\1 Max \1::{ user-id=8162936 } |
+| **le Pepega** | ::{ flag=RU }:: ::HullPerse::{ user-id=9469381 }, ::{ flag=NO }:: ::Jonbaron::{ user-id=4360885 }, ::{ flag=SE }:: ::momo015::{ user-id=5825443 } |
 
 ## Podium
 
@@ -109,9 +109,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Thank You** (::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445), ::{ flag=IL }:: [Xilver15](https://osu.ppy.sh/users/3099689), ::{ flag=US }:: [Conyoh](https://osu.ppy.sh/users/4844496)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **osu! schmosu!** (::{ flag=GB }:: [-Roxas](https://osu.ppy.sh/users/1986262), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **yooo whats goodie eh** (::{ flag=CA }:: [Vespirit](https://osu.ppy.sh/users/5425046), ::{ flag=CA }:: [neuro](https://osu.ppy.sh/users/3737401)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Thank You** (::{ flag=US }:: ::Apraxia::{ user-id=4194445 }, ::{ flag=IL }:: ::Xilver15::{ user-id=3099689 }, ::{ flag=US }:: ::Conyoh::{ user-id=4844496 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **osu! schmosu!** (::{ flag=GB }:: ::-Roxas::{ user-id=1986262 }, ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **yooo whats goodie eh** (::{ flag=CA }:: ::Vespirit::{ user-id=5425046 }, ::{ flag=CA }:: ::neuro::{ user-id=3737401 }) |
 
 ## Mappools
 

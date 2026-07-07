@@ -23,7 +23,7 @@ Given the rhythmic complexity of **Mono.**'s music, it's no surprise that the os
 
 ### Mono. - ST4RDUST*XABER
 
-Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/1658451) by [Crisper](https://osu.ppy.sh/users/16482505), or if osu!mania isn't your jam, try [this new osu! beatmap](https://osu.ppy.sh/beatmapsets/1810657) created by [\_Epreus](https://osu.ppy.sh/users/7342798) specifically for this announcement!
+Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/1658451) by ::Crisper::{ user-id=16482505 }, or if osu!mania isn't your jam, try [this new osu! beatmap](https://osu.ppy.sh/beatmapsets/1810657) created by ::\_Epreus::{ user-id=7342798 } specifically for this announcement!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/307/Songs/Mono.%20-%20ST4RDUSTXABER.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/16584
 
 ### Mono. - Peaceful+Piece
 
-Or experiment with [this novel 10K osu!mania map](https://osu.ppy.sh/beatmapsets/1520393) created by [Hugged](https://osu.ppy.sh/users/12589220)!
+Or experiment with [this novel 10K osu!mania map](https://osu.ppy.sh/beatmapsets/1520393) created by ::Hugged::{ user-id=12589220 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/307/Songs/Mono.%20-%20Peaceful%2BPiece.mp3" type="audio/mpeg">

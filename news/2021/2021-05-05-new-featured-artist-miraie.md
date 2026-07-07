@@ -25,7 +25,7 @@ Ever wondered how an osu! player thinks about music? Wonder no more since we int
 
 ### miraie & blackwinterwells - facade
 
-Try playing [this osu! mapset](https://osu.ppy.sh/beatmapsets/1320542) hosted by [Mayflower](https://osu.ppy.sh/users/10302848)!
+Try playing [this osu! mapset](https://osu.ppy.sh/beatmapsets/1320542) hosted by ::Mayflower::{ user-id=10302848 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/162/facade/miraie%20&%20blackwinterwells%20-%20facade.mp3" type="audio/mpeg">

@@ -10,7 +10,7 @@ tags:
 
 ![CC logo](img/logo.png)
 
-The **Corgi Cup: June 2016** (***CC***) was a 1v1 single-elimination osu! tournament hosted by ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), and ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973). It was the first instalment of the Corgi Cup.
+The **Corgi Cup: June 2016** (***CC***) was a 1v1 single-elimination osu! tournament hosted by ::{ flag=FI }:: ::M8gazine::{ user-id=5039710 }, ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, and ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }. It was the first instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -37,13 +37,13 @@ Corgi Cup: June 2016 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710) |
-| Co-host | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
-| Mappool selector | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758) |
-| Streamer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
-| Commentator | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [- Isozaki -](https://osu.ppy.sh/users/3987676), ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378) |
-| Designer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
-| Referee | ::{ flag=RS }:: [SirCircle](https://osu.ppy.sh/users/3794917), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710) |
+| Host | ::{ flag=FI }:: ::M8gazine::{ user-id=5039710 } |
+| Co-host | ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=GB }:: ::Doomsday::{ user-id=18983 } |
+| Mappool selector | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=PL }:: ::Wilchq::{ user-id=2021758 } |
+| Streamer | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 } |
+| Commentator | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::- Isozaki -::{ user-id=3987676 }, ::{ flag=GB }:: ::Doomsday is bad::{ user-id=3481378 } |
+| Designer | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 } |
+| Referee | ::{ flag=RS }:: ::SirCircle::{ user-id=3794917 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=FI }:: ::M8gazine::{ user-id=5039710 } |
 
 ## Links
 
@@ -55,10 +55,10 @@ Corgi Cup: June 2016 was run by various community members.
 
 | Seed | Members |
 | :-: | :-- |
-| Group A | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=GB }:: Sopison <!-- missing -->, ::{ flag=US }:: [Micmck101](https://osu.ppy.sh/users/5117269), ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |
-| Group B | ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238), ::{ flag=US }:: [Lazulite](https://osu.ppy.sh/users/4094169), ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354) |
-| Group C | ::{ flag=SE }:: [Atrocious](https://osu.ppy.sh/users/5126607), ::{ flag=GB }:: [Seraxis](https://osu.ppy.sh/users/5068922), ::{ flag=GB }:: [MagicMantwon](https://osu.ppy.sh/users/6183136), ::{ flag=GB }:: [dong](https://osu.ppy.sh/users/4422446) |
-| Group D | ::{ flag=GB }:: [rafalbrew](https://osu.ppy.sh/users/3872602), ::{ flag=GB }:: [YouKittenMe](https://osu.ppy.sh/users/6129402), ::{ flag=DE }:: [Blegie](https://osu.ppy.sh/users/6063132), ::{ flag=CZ }:: [NyarkoO](https://osu.ppy.sh/users/6622567) |
+| Group A | ::{ flag=GB }:: ::Pelzio::{ user-id=4775226 }, ::{ flag=GB }:: Sopison <!-- missing -->, ::{ flag=US }:: ::Micmck101::{ user-id=5117269 }, ::{ flag=GB }:: ::Hydria::{ user-id=808176 } |
+| Group B | ::{ flag=US }:: ::zelda101::{ user-id=4502238 }, ::{ flag=US }:: ::Lazulite::{ user-id=4094169 }, ::{ flag=GB }:: ::SteffoST::{ user-id=6566765 }, ::{ flag=GB }:: ::djsettle::{ user-id=4010354 } |
+| Group C | ::{ flag=SE }:: ::Atrocious::{ user-id=5126607 }, ::{ flag=GB }:: ::Seraxis::{ user-id=5068922 }, ::{ flag=GB }:: ::MagicMantwon::{ user-id=6183136 }, ::{ flag=GB }:: ::dong::{ user-id=4422446 } |
+| Group D | ::{ flag=GB }:: ::rafalbrew::{ user-id=3872602 }, ::{ flag=GB }:: ::YouKittenMe::{ user-id=6129402 }, ::{ flag=DE }:: ::Blegie::{ user-id=6063132 }, ::{ flag=CZ }:: ::NyarkoO::{ user-id=6622567 } |
 
 ## Podium
 
@@ -66,9 +66,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [rafalbrew](https://osu.ppy.sh/users/3872602) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::rafalbrew::{ user-id=3872602 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: ::Pelzio::{ user-id=4775226 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: ::zelda101::{ user-id=4502238 } |
 
 ## Mappools
 

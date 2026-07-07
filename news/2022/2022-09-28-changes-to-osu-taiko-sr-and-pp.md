@@ -11,7 +11,7 @@ It's no secret that osu!taiko star rating is overdue for a rework. Thanks to you
 
 This effort was led by the newly formed [osu!taiko pp committee](/wiki/People/Performance_Points_Committee) in response to the results of the [osu!taiko SR and PP community survey](https://osu.ppy.sh/home/news/2022-02-07-taiko-mania-survey-results) held earlier this year. This group of individuals is responsible for reviewing all changes regarding star rating and performance points in the osu!taiko game mode.
 
-The team is comprised of two parts: [vun](https://osu.ppy.sh/users/6932501) and [-Lawtron-](https://osu.ppy.sh/users/11475208) are leading the development of the new rework, whereas [mangomizer](https://osu.ppy.sh/users/1893718) and [Horiiizon](https://osu.ppy.sh/users/8071438) are providing the backing for the community organisation and feedback.
+The team is comprised of two parts: ::vun::{ user-id=6932501 } and [-Lawtron-](https://osu.ppy.sh/users/11475208) are leading the development of the new rework, whereas ::mangomizer::{ user-id=1893718 } and [Horiiizon](https://osu.ppy.sh/users/8071438) are providing the backing for the community organisation and feedback.
 
 Before we proceed, there are a few key terms and ideas to define.
 
@@ -108,7 +108,7 @@ Previous approaches were tailored towards scaling maps with respect to [difficul
 
 This also means that star rating values for beatmaps where top-end players are almost — but not quite — getting full combo scores will now extend well into the 10 star range, rather than capping out at around 9.5 stars (medal hunters rejoice!).
 
-While the difference doesn't seem like much, the impact of this kind of change can perhaps be better described by the effect it has on performance points, namely that top player [syaron105](https://osu.ppy.sh/users/8741695) gains over 6400 total pp as a result.
+While the difference doesn't seem like much, the impact of this kind of change can perhaps be better described by the effect it has on performance points, namely that top player ::syaron105::{ user-id=8741695 } gains over 6400 total pp as a result.
 
 ## Changes to performance points
 
@@ -164,7 +164,7 @@ Future changes will involve rhythm (which hasn't been touched in these changes s
 
 For people eager to dive into the technicalities of these upcoming changes, work-in-progress details are available [here](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit). If you would like to give feedback or help contribute, please join the [osu!dev Discord server](https://discord.gg/ppy) and direct your comments towards the `#difficulty-taiko` channel. Additionally, the dedicated [Performance Points Discord server](https://discord.gg/aqPCnXu) may be of interest if you wish to further discuss, contribute, or simply observe star rating and performance points development with a plate-sized magnifying glass.
 
-The osu!taiko pp committee would like to give a huge thank you towards osu!taiko community for the heavy amounts of surveying, testing and feedback during the process. Another big thank you goes to [spaceman_atlas](https://osu.ppy.sh/users/3035836) and [smoogipoo](https://osu.ppy.sh/users/1040328) for helping to support and review the changes to the code.
+The osu!taiko pp committee would like to give a huge thank you towards osu!taiko community for the heavy amounts of surveying, testing and feedback during the process. Another big thank you goes to ::spaceman\1atlas::{ user-id=3035836 } and [smoogipoo](https://osu.ppy.sh/users/1040328) for helping to support and review the changes to the code.
 
 While it's been a long wait, we hope that these changes will help you enjoy climbing the ranks, with pp that better reflects the difficulties of the beatmaps you know and love!
 

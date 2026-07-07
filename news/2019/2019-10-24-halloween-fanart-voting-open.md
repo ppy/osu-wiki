@@ -25,7 +25,7 @@ But don't take my word for the madness, here's a little video showcasing the ent
     </video>
 </div>
 
-*(Thanks to [Flanster](https://osu.ppy.sh/users/447818) for making the showcase video extra pretty!)*
+*(Thanks to ::Flanster::{ user-id=447818 } for making the showcase video extra pretty!)*
 
 [Head on over to the **Halloween 2019 Fanart Contest** listing and vote now!](https://osu.ppy.sh/community/contests/81)
 

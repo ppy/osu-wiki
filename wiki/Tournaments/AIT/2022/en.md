@@ -8,7 +8,7 @@ tags:
 
 ![Ascaveth Invitational Tournament 2022 logo](img/logo.jpg)
 
-The **Ascaveth Invitational Tournament 2022** was a single-elimination 1v1 invitational osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and co-organised by ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), and ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966). It was the second major LAN osu! tournament to ever be held in Indonesia, following the [osu! Rhythmical Adventure Competition](https://osu.ppy.sh/community/forums/topics/98417) event ten years before.
+The **Ascaveth Invitational Tournament 2022** was a single-elimination 1v1 invitational osu! tournament hosted by ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 } and co-organised by ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Millie::{ user-id=3484548 }, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, and ::{ flag=ID }:: ::Raids::{ user-id=15640966 }. It was the second major LAN osu! tournament to ever be held in Indonesia, following the [osu! Rhythmical Adventure Competition](https://osu.ppy.sh/community/forums/topics/98417) event ten years before.
 
 ## Tournament schedule
 
@@ -45,20 +45,20 @@ The Ascaveth Invitational Tournament 2022 was run by various osu! community memb
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) |
-| Organiser | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) |
-| Mappool selector | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548) |
-| Mappool helper | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253), ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
-| Streamer | ::{ flag=ID }:: [HORAS](https://osu.ppy.sh/users/11421465) |
-| Commentator | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) |
-| Referee | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490) |
-| Logistics and equipment | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [HORAS](https://osu.ppy.sh/users/11421465) |
-| Security and permissions | ::{ flag=ID }:: [Deorum](https://osu.ppy.sh/users/5933031) |
-| Documentation | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [liykun](https://osu.ppy.sh/users/9500057) |
-| Catering | ::{ flag=ID }:: [Nareisk](https://osu.ppy.sh/users/18382879) |
-| Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592) |
-| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
-| Additional helper | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Arca 9](https://osu.ppy.sh/users/14042319), ::{ flag=ID }:: [xLipz](https://osu.ppy.sh/users/8358833), ::{ flag=ID }:: Hollowness, ::{ flag=ID }:: Vanties, ::{ flag=ID }:: Aniki, ::{ flag=ID }:: St. Dark\_Pha, ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
+| Host | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 } |
+| Organiser | ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Millie::{ user-id=3484548 }, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::Raids::{ user-id=15640966 } |
+| Mappool selector | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Millie::{ user-id=3484548 } |
+| Mappool helper | ::{ flag=ID }:: ::fnayR::{ user-id=2800253 }, ::{ flag=ID }:: ::Caviar-::{ user-id=10474988 }, ::{ flag=ID }:: ::StayMusical::{ user-id=12688176 }, ::{ flag=ID }:: ::Kuro Fuyusaki::{ user-id=2667496 } |
+| Streamer | ::{ flag=ID }:: ::HORAS::{ user-id=11421465 } |
+| Commentator | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Millie::{ user-id=3484548 }, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::Victim\_Crasher::{ user-id=2084869 }, ::{ flag=ID }:: ::Venta::{ user-id=11320627 } |
+| Referee | ::{ flag=ID }:: ::Millie::{ user-id=3484548 }, ::{ flag=ID }:: ::Genjitsu::{ user-id=3531490 } |
+| Logistics and equipment | ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::HORAS::{ user-id=11421465 } |
+| Security and permissions | ::{ flag=ID }:: ::Deorum::{ user-id=5933031 } |
+| Documentation | ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::liykun::{ user-id=9500057 } |
+| Catering | ::{ flag=ID }:: ::Nareisk::{ user-id=18382879 } |
+| Graphic designer | ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::Zavier::{ user-id=11379592 } |
+| Wiki editor | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
+| Additional helper | ::{ flag=ID }:: ::Seox::{ user-id=3793938 }, ::{ flag=ID }:: ::Arca 9::{ user-id=14042319 }, ::{ flag=ID }:: ::xLipz::{ user-id=8358833 }, ::{ flag=ID }:: Hollowness, ::{ flag=ID }:: Vanties, ::{ flag=ID }:: Aniki, ::{ flag=ID }:: St. Dark\_Pha, ::{ flag=MY }:: ::Laphii::{ user-id=9364594 } |
 
 ## Links
 
@@ -71,16 +71,16 @@ The Ascaveth Invitational Tournament 2022 was run by various osu! community memb
 
 Listed below are the players who were invited into the tournament:
 
-- ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222)
-- ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635)
-- ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275)
-- ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008)
-- ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956)
-- ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594)
-- ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633)
-- ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809)
+- ::{ flag=ID }:: ::Lifeline::{ user-id=11367222 }
+- ::{ flag=ID }:: ::Vinno::{ user-id=10717635 }
+- ::{ flag=ID }:: ::Crezz::{ user-id=7108275 }
+- ::{ flag=ID }:: ::Skydiver::{ user-id=4750008 }
+- ::{ flag=ID }:: ::Fuma::{ user-id=1501956 }
+- ::{ flag=ID }:: ::Thatnoobguy::{ user-id=11091594 }
+- ::{ flag=ID }:: ::Daffy::{ user-id=5968633 }
+- ::{ flag=ID }:: ::Walfrid::{ user-id=6600809 }
 
-In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was drafted as a back-up player, in case someone had to back out from the event on a short notice.
+In addition, ::{ flag=ID }:: ::Suikami::{ user-id=1929336 } was drafted as a back-up player, in case someone had to back out from the event on a short notice.
 
 ## Podium
 
@@ -144,29 +144,29 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 
 | Match code | Player 1 |  |  | Player 2 | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| Grand Final | [Skydiver](https://osu.ppy.sh/users/4750008) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/99571190) | [#1](https://www.youtube.com/watch?v=9S82GWnX08s) |
+| Grand Final | ::Skydiver::{ user-id=4750008 } ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **::Vinno::{ user-id=10717635 }** | [#1](https://osu.ppy.sh/community/matches/99571190) | [#1](https://www.youtube.com/watch?v=9S82GWnX08s) |
 
 ### 3rd Place Match
 
 | Match code | Player 1 |  |  | Player 2 | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 3rd Place Match | **[Crezz](https://osu.ppy.sh/users/7108275)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | [#1](https://osu.ppy.sh/community/matches/103532224) | [#1](https://www.youtube.com/watch?v=HKiF4Ahh5Uk) |
+| 3rd Place Match | **::Crezz::{ user-id=7108275 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: ::Lifeline::{ user-id=11367222 } | [#1](https://osu.ppy.sh/community/matches/103532224) | [#1](https://www.youtube.com/watch?v=HKiF4Ahh5Uk) |
 
 ### Semifinals
 
 | Match code | Player 1 |  |  | Player 2 | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| Semifinal 1 | [Lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/103529223) | [#1](https://www.youtube.com/watch?v=hk5f4eTc39c) |
-| Semifinal 2 | **[Skydiver](https://osu.ppy.sh/users/7108275)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) | [#1](https://osu.ppy.sh/community/matches/103528575) | [#1](https://www.youtube.com/watch?v=sn8pseCo9fU) |
+| Semifinal 1 | ::Lifeline::{ user-id=11367222 } ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **::Vinno::{ user-id=10717635 }** | [#1](https://osu.ppy.sh/community/matches/103529223) | [#1](https://www.youtube.com/watch?v=hk5f4eTc39c) |
+| Semifinal 2 | **::Skydiver::{ user-id=7108275 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: ::Crezz::{ user-id=7108275 } | [#1](https://osu.ppy.sh/community/matches/103528575) | [#1](https://www.youtube.com/watch?v=sn8pseCo9fU) |
 
 ### Quarterfinals
 
 | Match code | Player 1 |  |  | Player 2 | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| Quarterfinal 1 | [Thatnoobguy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[Crezz](https://osu.ppy.sh/users/7108275)** | [#1](https://osu.ppy.sh/community/matches/103525528) | [#1](https://www.youtube.com/watch?v=_MhOuxc_XIw) |
-| Quarterfinal 2 | **[Lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/103526744) | [#1](https://www.youtube.com/watch?v=uAiB2JpiD8s) |
-| Quarterfinal 3 | [Daffy](https://osu.ppy.sh/users/5968633) ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **[Vinno](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/103527716) | [#1](https://www.youtube.com/watch?v=LMKNeV5SJdU) |
-| Quarterfinal 4 | **[Skydiver](https://osu.ppy.sh/users/4750008)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809) | [#1](https://osu.ppy.sh/community/matches/103528575) | [#1](https://www.youtube.com/watch?v=Uk5ljWTDhOA) |
+| Quarterfinal 1 | ::Thatnoobguy::{ user-id=11091594 } ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **::Crezz::{ user-id=7108275 }** | [#1](https://osu.ppy.sh/community/matches/103525528) | [#1](https://www.youtube.com/watch?v=_MhOuxc_XIw) |
+| Quarterfinal 2 | **::Lifeline::{ user-id=11367222 }** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: ::Fuma::{ user-id=1501956 } | [#1](https://osu.ppy.sh/community/matches/103526744) | [#1](https://www.youtube.com/watch?v=uAiB2JpiD8s) |
+| Quarterfinal 3 | ::Daffy::{ user-id=5968633 } ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **::Vinno::{ user-id=10717635 }** | [#1](https://osu.ppy.sh/community/matches/103527716) | [#1](https://www.youtube.com/watch?v=LMKNeV5SJdU) |
+| Quarterfinal 4 | **::Skydiver::{ user-id=4750008 }** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: ::Walfrid::{ user-id=6600809 } | [#1](https://osu.ppy.sh/community/matches/103528575) | [#1](https://www.youtube.com/watch?v=Uk5ljWTDhOA) |
 
 ## Ruleset
 

@@ -16,7 +16,7 @@ Two more subforums would later be created: *Mafia* on 14 September 2011, and *Su
 
 Given the nonsensical nature of OT, the majority of threads and discussions carried out therein are of very poor quality. Threads are rarely considered great, but when they are they are said to have reached valhalla.
 
-The term was first used by [Ephemeral](https://osu.ppy.sh/users/102335) in the [ITT: We're Dirty](https://osu.ppy.sh/community/forums/topics/40298) thread, and subsequently a few times after. Since then, other people in the subforum have adopted the term.
+The term was first used by ::Ephemeral::{ user-id=102335 } in the [ITT: We're Dirty](https://osu.ppy.sh/community/forums/topics/40298) thread, and subsequently a few times after. Since then, other people in the subforum have adopted the term.
 
 ### Old Avatar Week
 
@@ -26,19 +26,19 @@ The term was first used by [Ephemeral](https://osu.ppy.sh/users/102335) in the [
 
 People in the early Off-Topic days occasionally created threads dedicated to dancing anime girls. If a thread was bad, then posting a few dancing anime girls made it better. When people started making threads about quitting OT and actually not quitting, people took that as attention-grabbing and posted dancing anime girls to change the thread's topic. Posting dancing anime girls on any goodbye or welcome thread eventually became the common thing to do, and thus solidifying it as tradition.[^ot-dancing-girls]
 
-On 9 June 2017, [Ephemeral](https://osu.ppy.sh/users/102335) asserted a slightly different version of the tradition into the [Off-Topic rules](https://osu.ppy.sh/community/forums/topics/604424) by requiring people to post no less than 3 dancing anime girls on birthday threads. This made its way to osu!'s official rules[^ot-rules-official] up until 11 November 2019, when it was removed in a [cleanup effort](https://github.com/ppy/osu-wiki/pull/2655), but it still stands in the Off-Topic subforum's rules.
+On 9 June 2017, ::Ephemeral::{ user-id=102335 } asserted a slightly different version of the tradition into the [Off-Topic rules](https://osu.ppy.sh/community/forums/topics/604424) by requiring people to post no less than 3 dancing anime girls on birthday threads. This made its way to osu!'s official rules[^ot-rules-official] up until 11 November 2019, when it was removed in a [cleanup effort](https://github.com/ppy/osu-wiki/pull/2655), but it still stands in the Off-Topic subforum's rules.
 
 ### Exile
 
-**Exile** is an unofficial moderation concept introduced by [Ephemeral](https://osu.ppy.sh/users/102335) in [the grand edict thread](https://osu.ppy.sh/community/forums/topics/604424) in response to people repeatedly spamming the subforum and creating otherwise annoying content. The exile system is enforced by removing any threads, and sometimes posts, by the person who is exiled. It serves as an indicator that the person is on the verge of being heavily sanctioned by more official means of moderation.
+**Exile** is an unofficial moderation concept introduced by ::Ephemeral::{ user-id=102335 } in [the grand edict thread](https://osu.ppy.sh/community/forums/topics/604424) in response to people repeatedly spamming the subforum and creating otherwise annoying content. The exile system is enforced by removing any threads, and sometimes posts, by the person who is exiled. It serves as an indicator that the person is on the verge of being heavily sanctioned by more official means of moderation.
 
 ### Denizen
 
-Since the Off-Topic subforum is composed of mostly the same regulars chatting among themselves in threads, everyone comes to know one another. Those who stick around long enough to be considered regulars are called "**denizens**". While this term was first used by [Ephemeral](https://osu.ppy.sh/users/102335) in [this post](https://osu.ppy.sh/community/forums/posts/1607086), it was not adopted by regulars until its popularisation by the [OT!News thread series](https://osu.ppy.sh/community/forums/topics/577518).
+Since the Off-Topic subforum is composed of mostly the same regulars chatting among themselves in threads, everyone comes to know one another. Those who stick around long enough to be considered regulars are called "**denizens**". While this term was first used by ::Ephemeral::{ user-id=102335 } in [this post](https://osu.ppy.sh/community/forums/posts/1607086), it was not adopted by regulars until its popularisation by the [OT!News thread series](https://osu.ppy.sh/community/forums/topics/577518).
 
 ### OT Lore
 
-**OT Lore** is an effort started by [abraker](https://osu.ppy.sh/users/4635891) and perpetuated by other denizens to create an overarching narrative from the various threads people have created in OT. The culmination of this effort was compiled into the [OT!Chronicles](https://osu.ppy.sh/community/forums/posts/6230570), which caused a time period in OT consisting of many improvised roleplay-related threads.
+**OT Lore** is an effort started by ::abraker::{ user-id=4635891 } and perpetuated by other denizens to create an overarching narrative from the various threads people have created in OT. The culmination of this effort was compiled into the [OT!Chronicles](https://osu.ppy.sh/community/forums/posts/6230570), which caused a time period in OT consisting of many improvised roleplay-related threads.
 
 ### Thread derailment
 

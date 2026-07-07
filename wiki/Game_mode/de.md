@@ -46,7 +46,7 @@ Beim Spielmodus *osu!catch* müssen Spieler einen Fänger steuern, um Früchte v
 
 *Hauptseite: [osu!mania](osu!mania)*
 
-*osu!mania* ist ein vertikal scrollender Rhythmusspielmodus (VSRG), der als Klavier-Simulator konzipiert wurde. Er wurde vor allem von [woc2006](https://osu.ppy.sh/users/1105845) [vorgestellt sowie implementiert](https://osu.ppy.sh/community/forums/topics/100751) und basiert auf einer Reihe Förderband-artiger Rhythmusspiele (nämlich [Dance Dance Revolution](https://de.wikipedia.org/wiki/Dance_Dance_Revolution) und [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Die Maskottchen von osu!mania sind die Zwillinge [Mani und Mari](/wiki/Mascots#mani-&-mari), die beide violettes und hellviolettes Haar haben.
+*osu!mania* ist ein vertikal scrollender Rhythmusspielmodus (VSRG), der als Klavier-Simulator konzipiert wurde. Er wurde vor allem von ::woc2006::{ user-id=1105845 } [vorgestellt sowie implementiert](https://osu.ppy.sh/community/forums/topics/100751) und basiert auf einer Reihe Förderband-artiger Rhythmusspiele (nämlich [Dance Dance Revolution](https://de.wikipedia.org/wiki/Dance_Dance_Revolution) und [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Die Maskottchen von osu!mania sind die Zwillinge [Mani und Mari](/wiki/Mascots#mani-&-mari), die beide violettes und hellviolettes Haar haben.
 
 ![Gameplay von osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania-Gameplay")
 

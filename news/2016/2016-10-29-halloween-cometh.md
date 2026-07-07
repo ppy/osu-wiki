@@ -21,7 +21,7 @@ You have these wonderful artists to thank for the new menu backgrounds:
 - [xiemon](https://osu.ppy.sh/users/xiemon) with their delightful ["osu! or treat" pumpkin party featuring pippi and yuzu (and cats!)](https://puu.sh/rZkG6/0c238598bd.jpg)
 - [Dramilion](https://osu.ppy.sh/users/Dramilion)'s [quite frankly terrifying rendition of the Spookinator 9000](https://puu.sh/rZkG4/00c41caea6.jpg) trick-or-treating at Aiko's house
 - [SkyDiverFox](https://osu.ppy.sh/users/SkyDiverFox) showing [Aiko, pippi and a taikodon soaring above a Halloween festival](https://puu.sh/rZkFU/6182192764.jpg)
-- [d o _ o b](https://osu.ppy.sh/users/5402247)'s adorable [witch-pippi wishing everyone a happy "holloween"](https://puu.sh/rZkFR/b72f79fe47.jpg)
+- ::d o \1 o b::{ user-id=5402247 }'s adorable [witch-pippi wishing everyone a happy "holloween"](https://puu.sh/rZkFR/b72f79fe47.jpg)
 - [DarkieMonster](https://osu.ppy.sh/users/DarkieMonster)'s vibrant, [colour-weaving, eye-ball flinging witch-pippi](https://puu.sh/rZkFT/ee1e7da052.jpg)
 - [Adarin](https://osu.ppy.sh/users/Adarin)'s night-sky overlook [featuring a dashing Yuzu-cula, neko witch-pippi and a succubus Maria being chased over the moon by the Taikonator](https://puu.sh/rZkFY/114aa28463.jpg).
 - [DreamWisps](https://osu.ppy.sh/users/DreamWisps)'s striking [digital painting of witch-pippi and a catgirl companion before the full moon](https://puu.sh/rZkFW/e9bd9c587f.jpg)

@@ -19,7 +19,7 @@ Check out a sample of what we've got below:
 
 ### Juggernaut
 
-Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1244973) from [Raiden](https://osu.ppy.sh/users/2239480) of the Mappers' Guild!
+Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1244973) from ::Raiden::{ user-id=2239480 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/103/previews/2725.mp3" type="audio/mpeg">

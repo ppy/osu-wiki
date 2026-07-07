@@ -46,7 +46,7 @@ Per cambiare modalità, clicca il pulsante `Mode` in fondo alla pagina di selezi
 
 *Pagina Principale: [osu!mania](osu!mania)*
 
-*osu!mania* è una modalità di Gioco Ritmico a Scrollo Verticale (VSRG) progettata come un simulatore di pianoforte. È stato [introdotto ed implementato](https://osu.ppy.sh/community/forums/topics/100751) principalmente da [woc2006](https://osu.ppy.sh/users/1105845), ed è basato su una varietà di giochi ritmici a scorrimento (soprattutto [Dance Dance Revolution](https://it.wikipedia.org/wiki/Dance_Dance_Revolution) e [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Le mascotte di osu!mania sono i gemelli [Mani and Mari](/wiki/Mascots#mani-&-mari), entrambi con capelli viola e viola chiaro.
+*osu!mania* è una modalità di Gioco Ritmico a Scrollo Verticale (VSRG) progettata come un simulatore di pianoforte. È stato [introdotto ed implementato](https://osu.ppy.sh/community/forums/topics/100751) principalmente da ::woc2006::{ user-id=1105845 }, ed è basato su una varietà di giochi ritmici a scorrimento (soprattutto [Dance Dance Revolution](https://it.wikipedia.org/wiki/Dance_Dance_Revolution) e [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Le mascotte di osu!mania sono i gemelli [Mani and Mari](/wiki/Mascots#mani-&-mari), entrambi con capelli viola e viola chiaro.
 
 ![Gameplay di osu!mania](/wiki/shared/mania-gameplay.jpg "Gameplay di osu!mania")
 

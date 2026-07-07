@@ -44,18 +44,18 @@ Spielserien werden auf dem Nutzerprofil abhängig von den erreichten Meilenstein
 
 ## Mitwirkende
 
-Das Projekt wird von ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) geleitet. Die folgenden Community-Mitwirkenden sind für die Auswahl der Beatmaps verantwortlich:
+Das Projekt wird von ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } geleitet. Die folgenden Community-Mitwirkenden sind für die Auswahl der Beatmaps verantwortlich:
 
-- ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
-- ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464)
-- ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327)
-- ::{ flag=IT }:: [gansijiye](https://osu.ppy.sh/users/9704802)
-- ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
-- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
-- ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052)
-- ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
-- ::{ flag=US }:: [Willy](https://osu.ppy.sh/users/3521482)
-- ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
+- ::{ flag=IT }:: ::-kevincela-::{ user-id=266596 }
+- ::{ flag=SE }:: ::byd::{ user-id=6398464 }
+- ::{ flag=FI }:: ::fllecc::{ user-id=14060327 }
+- ::{ flag=IT }:: ::gansijiye::{ user-id=9704802 }
+- ::{ flag=KR }:: ::momoyo::{ user-id=12469536 }
+- ::{ flag=MX }:: ::Riot::{ user-id=4256461 }
+- ::{ flag=US }:: ::TheMagicAnimals::{ user-id=17274052 }
+- ::{ flag=SE }:: ::Walavouchey::{ user-id=5773079 }
+- ::{ flag=US }:: ::Willy::{ user-id=3521482 }
+- ::{ flag=US }:: ::Wispy::{ user-id=11106929 }
 
 ## Trivia
 

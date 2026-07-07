@@ -65,4 +65,4 @@ Wenn das Sampleset eines geerbten Timing-Points wie oben gezeigt auf `S:C2` gese
 
 ## Externe Quellen
 
-- [Forenantwort *how to add custom hitsound?*](https://osu.ppy.sh/community/forums/posts/3215699) von [neonat](https://osu.ppy.sh/users/1561995)
+- [Forenantwort *how to add custom hitsound?*](https://osu.ppy.sh/community/forums/posts/3215699) von ::neonat::{ user-id=1561995 }

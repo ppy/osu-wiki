@@ -8,7 +8,7 @@ tags:
 
 ![o!BAM 2 banner](img/banner.png)
 
-The **osu! Battle Archive Malaysia 2022** (***o!BAM2***) was a double-elimination 2v2 osu! tournament hosted by ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) and ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976). The tournament was open to teams of two with a ::{ flag=MY }:: Malaysian player as their captain, and the second player coming from one of the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) regardless of rank. Despite the change in format from its previous iterations, the tournament was formally regarded as the second instalment of the osu! Battle Archive Malaysia.
+The **osu! Battle Archive Malaysia 2022** (***o!BAM2***) was a double-elimination 2v2 osu! tournament hosted by ::{ flag=MY }:: ::LouisZpro::{ user-id=6231292 } and ::{ flag=MY }:: ::Tzero::{ user-id=6088976 }. The tournament was open to teams of two with a ::{ flag=MY }:: Malaysian player as their captain, and the second player coming from one of the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) regardless of rank. Despite the change in format from its previous iterations, the tournament was formally regarded as the second instalment of the osu! Battle Archive Malaysia.
 
 ## Tournament schedule
 
@@ -41,16 +41,16 @@ The osu! Battle Archive Malaysia 2022 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292), ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976) |
-| Administrator | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) |
-| Mappool selector | ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292), ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498), ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976) |
-| Playtester | ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490), ::{ flag=US }:: [bananaman533](https://osu.ppy.sh/users/1284243), ::{ flag=US }:: [BATBALL](https://osu.ppy.sh/users/15173952), ::{ flag=SG }:: [Demonical](https://osu.ppy.sh/users/5447609), ::{ flag=CA }:: [FlatPaper](https://osu.ppy.sh/users/11255340), ::{ flag=KR }:: [lolboatz](https://osu.ppy.sh/users/12962464), ::{ flag=SG }:: [m0fum0fu](https://osu.ppy.sh/users/5143605), ::{ flag=JP }:: [makipan](https://osu.ppy.sh/users/12944109), ::{ flag=SG }:: [Randomguruz](https://osu.ppy.sh/users/8040494), ::{ flag=SG }:: [Rtyzen](https://osu.ppy.sh/users/2439822) |
-| Streamer | ::{ flag=MY }:: [Khoo Hao Yit](https://osu.ppy.sh/users/9534110), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594),  ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612) |
-| Commentator | ::{ flag=MY }:: [banner](https://osu.ppy.sh/users/14290988), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=MY }:: [Fancyyy](https://osu.ppy.sh/users/12616268), ::{ flag=MY }:: [Hanami-](https://osu.ppy.sh/users/8703188), ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612), ::{ flag=MY }:: [malaidan](https://osu.ppy.sh/users/14279913), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=MY }:: [squidstain](https://osu.ppy.sh/users/11073207) |
-| Referee | ::{ flag=BN }:: [aaronkoichi](https://osu.ppy.sh/users/11288235), ::{ flag=MY }:: [dragonlemmy](https://osu.ppy.sh/users/14053835), ::{ flag=MY }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=MY }:: [Honor27](https://osu.ppy.sh/users/25419414), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Online](https://osu.ppy.sh/users/13486575), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=MY }:: [Wen4ng3L](https://osu.ppy.sh/users/9288833) |
-| Graphic designer | ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) |
-| Spreadsheet manager | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
-| Wiki editor | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
+| Organiser | ::{ flag=MY }:: ::LouisZpro::{ user-id=6231292 }, ::{ flag=MY }:: ::Tzero::{ user-id=6088976 } |
+| Administrator | ::{ flag=MY }:: ::Laphii::{ user-id=9364594 }, ::{ flag=SG }:: ::Kotoha::{ user-id=7823498 } |
+| Mappool selector | ::{ flag=MY }:: ::LouisZpro::{ user-id=6231292 }, ::{ flag=SG }:: ::Kotoha::{ user-id=7823498 }, ::{ flag=MY }:: ::Tzero::{ user-id=6088976 } |
+| Playtester | ::{ flag=MY }:: ::Agagak::{ user-id=3645490 }, ::{ flag=US }:: ::bananaman533::{ user-id=1284243 }, ::{ flag=US }:: ::BATBALL::{ user-id=15173952 }, ::{ flag=SG }:: ::Demonical::{ user-id=5447609 }, ::{ flag=CA }:: ::FlatPaper::{ user-id=11255340 }, ::{ flag=KR }:: ::lolboatz::{ user-id=12962464 }, ::{ flag=SG }:: ::m0fum0fu::{ user-id=5143605 }, ::{ flag=JP }:: ::makipan::{ user-id=12944109 }, ::{ flag=SG }:: ::Randomguruz::{ user-id=8040494 }, ::{ flag=SG }:: ::Rtyzen::{ user-id=2439822 } |
+| Streamer | ::{ flag=MY }:: ::Khoo Hao Yit::{ user-id=9534110 }, ::{ flag=MY }:: ::Laphii::{ user-id=9364594 },  ::{ flag=MY }:: ::Its not Marvin::{ user-id=13600612 } |
+| Commentator | ::{ flag=MY }:: ::banner::{ user-id=14290988 }, ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 }, ::{ flag=MY }:: ::Fancyyy::{ user-id=12616268 }, ::{ flag=MY }:: ::Hanami-::{ user-id=8703188 }, ::{ flag=MY }:: ::Its not Marvin::{ user-id=13600612 }, ::{ flag=MY }:: ::malaidan::{ user-id=14279913 }, ::{ flag=MY }:: ::Racers03::{ user-id=11621976 }, ::{ flag=ID }:: ::Raids::{ user-id=15640966 }, ::{ flag=MY }:: ::squidstain::{ user-id=11073207 } |
+| Referee | ::{ flag=BN }:: ::aaronkoichi::{ user-id=11288235 }, ::{ flag=MY }:: ::dragonlemmy::{ user-id=14053835 }, ::{ flag=MY }:: ::Hand Sanitiser::{ user-id=5091293 }, ::{ flag=MY }:: ::Honor27::{ user-id=25419414 }, ::{ flag=MY }:: ::Laphii::{ user-id=9364594 }, ::{ flag=MY }:: ::Online::{ user-id=13486575 }, ::{ flag=VN }:: ::rock-on::{ user-id=9676089 }, ::{ flag=MY }:: ::Wen4ng3L::{ user-id=9288833 } |
+| Graphic designer | ::{ flag=MY }:: ::LouisZpro::{ user-id=6231292 } |
+| Spreadsheet manager | ::{ flag=MY }:: ::Laphii::{ user-id=9364594 } |
+| Wiki editor | ::{ flag=MY }:: ::Laphii::{ user-id=9364594 } |
 
 ## Links
 
@@ -65,38 +65,38 @@ The osu! Battle Archive Malaysia 2022 was run by various community members.
 
 | Seed No. | Team | Members | Z-Sum |
 | :-: | :-- | :-- | :-- |
-| 1 | **sturrige curry** | ::{ flag=MY }:: **[DuoX](https://osu.ppy.sh/users/9560694)**, ::{ flag=ID }:: [i love uma](https://osu.ppy.sh/users/7108275) | 16.43 |
-| 2 | **Anti-Cunny Action** | ::{ flag=MY }:: **[not\_aweeb](https://osu.ppy.sh/users/9375317)**, ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) | 15.26 |
-| 3 | **Diggas in paris** | ::{ flag=MY }:: **[Zeph2003](https://osu.ppy.sh/users/10343292)**, ::{ flag=SG }:: [Dawnwing](https://osu.ppy.sh/users/5144534) | 14.26 |
-| 4 | **kinda hot tho** | ::{ flag=MY }:: **[Ryouuta](https://osu.ppy.sh/users/15020799)**, ::{ flag=VN }:: [[sin]](https://osu.ppy.sh/users/11021073) | 13.59 |
-| 5 | **ENERGY GAP** | ::{ flag=MY }:: **[milo Penguin](https://osu.ppy.sh/users/10702232)**, ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) | 13.04 |
-| 6 | **Miyu Archive** | ::{ flag=MY }:: **[Houshou Marine](https://osu.ppy.sh/users/6402211)**, ::{ flag=ID }:: [-Reuto-](https://osu.ppy.sh/users/10717635) | 12.44 |
-| 7 | **RUDOLF ENJOYERS** | ::{ flag=MY }:: **[Rampax](https://osu.ppy.sh/users/3995630)**, ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | 11.76 |
-| 8 | **Cat Enjoyer** | ::{ flag=MY }:: **[Lunasa](https://osu.ppy.sh/users/16436446)**, ::{ flag=SG }:: [GSBlank](https://osu.ppy.sh/users/2312106) | 11.49 |
-| 9 | **Where Love Lies** | ::{ flag=MY }:: **[Tokino Sora](https://osu.ppy.sh/users/6996926)**, ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 10.39 |
-| 10 | **The Cunnysseurs** | ::{ flag=MY }:: **[Blethz](https://osu.ppy.sh/users/11918602)**, ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 5.88 |
-| 11 | **Flover** | ::{ flag=MY }:: **[heyimcrunchy](https://osu.ppy.sh/users/13067221)**, ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635) | 4.65 |
-| 12 | **osu retirement** | ::{ flag=MY }:: **[iraozm](https://osu.ppy.sh/users/12443104)**, ::{ flag=TH }:: [\_Arigato](https://osu.ppy.sh/users/9317938) | 4.57 |
-| 13 | **yes seggs** | ::{ flag=MY }:: **[Chiyuu](https://osu.ppy.sh/users/8226107)**, ::{ flag=MY }:: [Zygody](https://osu.ppy.sh/users/3677251) | 3.57 |
-| 14 | **Dreamy Color** | ::{ flag=MY }:: **[Jolene](https://osu.ppy.sh/users/13626098)**, ::{ flag=MY }:: [Chibi Maruko](https://osu.ppy.sh/users/5585377) | 3.40 |
-| 15 | **Vanity** | ::{ flag=MY }:: **[Inugami Korone](https://osu.ppy.sh/users/4474918)**, ::{ flag=MY }:: [Mumei Nanashi](https://osu.ppy.sh/users/5414124) | 1.87 |
-| 16 | **chungus capoo** | ::{ flag=MY }:: **[GKen](https://osu.ppy.sh/users/12633052)**, ::{ flag=VN }:: [realshin](https://osu.ppy.sh/users/8006029) | 0.52 |
-| 17 | **openureyesyouwillsee** | ::{ flag=MY }:: **[Judicious](https://osu.ppy.sh/users/8087710)**, ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | -1.19 |
-| 18 | **NAJIB FANCLUB** | ::{ flag=MY }:: **[Hu_Ai](https://osu.ppy.sh/users/10910261)**, ::{ flag=SG }:: [JokThree](https://osu.ppy.sh/users/7713152) | -1.49 |
-| 19 | **Offensize Name** | ::{ flag=MY }:: **[rhatson](https://osu.ppy.sh/users/14826877)**, ::{ flag=TH }:: [heathenz\_](https://osu.ppy.sh/users/14180969) | -1.51 |
-| 20 | **koko soko asoko** | ::{ flag=MY }:: **[RyzenPP](https://osu.ppy.sh/users/16391241)**, ::{ flag=MY }:: [Tengkosu](https://osu.ppy.sh/users/17724583) | -1.68 |
-| 21 | **LENG ZAI** | ::{ flag=MY }:: **[GodKnows](https://osu.ppy.sh/users/11058193)**, ::{ flag=SG }:: [Eagle5324](https://osu.ppy.sh/users/11987104) | -1.77 |
-| 22 | **shiroko's bicycle** | ::{ flag=MY }:: **[AkariAoi](https://osu.ppy.sh/users/14067834)**, ::{ flag=SG }:: [Anderwear](https://osu.ppy.sh/users/14429830) | -2.76 |
-| 23 | **The Platinum Wok** | ::{ flag=MY }:: **[Freion](https://osu.ppy.sh/users/15852740)**, ::{ flag=SG }:: [AhPlatus](https://osu.ppy.sh/users/15799171) | -2.84 |
-| 24 | **:froggy:** | ::{ flag=MY }:: **[Desumond](https://osu.ppy.sh/users/7399262)**, ::{ flag=VN }:: [walle](https://osu.ppy.sh/users/8431549) | -3.68 |
-| 25 | **洪家派驰名海鲜煮炒餐馆 (Hongjiapai Famous Seafood Restaurant)** | ::{ flag=MY }:: **[Racers03](https://osu.ppy.sh/users/11621976)**, ::{ flag=MY }:: [DaNoobSlayaar](https://osu.ppy.sh/users/8688777) | -3.78 |
-| 26 | **Can We Get Much Higher** | ::{ flag=MY }:: **[Snowy5441](https://osu.ppy.sh/users/13865320)**, ::{ flag=MY }:: [LITFAM123](https://osu.ppy.sh/users/13584478) | -3.94 |
-| 27 | **Japanese Goblin** | ::{ flag=MY }:: **[Mano Aloe](https://osu.ppy.sh/users/5429513)**, ::{ flag=MY }:: [Watson Amelia](https://osu.ppy.sh/users/12674638) | -4.63 |
-| 28 | **Damn bratty crewmate** | ::{ flag=MY }:: **[Floth](https://osu.ppy.sh/users/11134301)**, ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) | -4.91 |
-| 29 | **Ikan** | ::{ flag=MY }:: **[-quack](https://osu.ppy.sh/users/16502529)**, ::{ flag=MY }:: [Izayoii](https://osu.ppy.sh/users/15542056) | -6.96 |
-| 30 | **Mandekissafriend** | ::{ flag=MY }:: **[Ookami Mion](https://osu.ppy.sh/users/8009988)**, ::{ flag=MY }:: [Hachune Miku](https://osu.ppy.sh/users/10584780) | -7.7 |
-| 31 | **Marv and Willy show** | ::{ flag=MY }:: **[Its not Marvin](https://osu.ppy.sh/users/13600612)**, ::{ flag=MY }:: [Hanami-](https://osu.ppy.sh/users/8703188) | -8.03 |
-| 32 | **AMOGUS SUSSY BAKA S\_** | ::{ flag=MY }:: **[Lollicornzi](https://osu.ppy.sh/users/14454744)**, ::{ flag=MY }:: [cherry sweet](https://osu.ppy.sh/users/12079158) | -8.05 |
+| 1 | **sturrige curry** | ::{ flag=MY }:: **::DuoX::{ user-id=9560694 }**, ::{ flag=ID }:: ::i love uma::{ user-id=7108275 } | 16.43 |
+| 2 | **Anti-Cunny Action** | ::{ flag=MY }:: **::not\_aweeb::{ user-id=9375317 }**, ::{ flag=ID }:: ::Rexeez::{ user-id=1987591 } | 15.26 |
+| 3 | **Diggas in paris** | ::{ flag=MY }:: **::Zeph2003::{ user-id=10343292 }**, ::{ flag=SG }:: ::Dawnwing::{ user-id=5144534 } | 14.26 |
+| 4 | **kinda hot tho** | ::{ flag=MY }:: **::Ryouuta::{ user-id=15020799 }**, ::{ flag=VN }:: ::\1sin\1::{ user-id=11021073 } | 13.59 |
+| 5 | **ENERGY GAP** | ::{ flag=MY }:: **::milo Penguin::{ user-id=10702232 }**, ::{ flag=SG }:: ::megumic::{ user-id=7537133 } | 13.04 |
+| 6 | **Miyu Archive** | ::{ flag=MY }:: **::Houshou Marine::{ user-id=6402211 }**, ::{ flag=ID }:: ::-Reuto-::{ user-id=10717635 } | 12.44 |
+| 7 | **RUDOLF ENJOYERS** | ::{ flag=MY }:: **::Rampax::{ user-id=3995630 }**, ::{ flag=SG }:: ::Inquisitives::{ user-id=10722794 } | 11.76 |
+| 8 | **Cat Enjoyer** | ::{ flag=MY }:: **::Lunasa::{ user-id=16436446 }**, ::{ flag=SG }:: ::GSBlank::{ user-id=2312106 } | 11.49 |
+| 9 | **Where Love Lies** | ::{ flag=MY }:: **::Tokino Sora::{ user-id=6996926 }**, ::{ flag=ID }:: ::Fuma::{ user-id=1501956 } | 10.39 |
+| 10 | **The Cunnysseurs** | ::{ flag=MY }:: **::Blethz::{ user-id=11918602 }**, ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } | 5.88 |
+| 11 | **Flover** | ::{ flag=MY }:: **::heyimcrunchy::{ user-id=13067221 }**, ::{ flag=SG }:: ::Hecatia::{ user-id=8244635 } | 4.65 |
+| 12 | **osu retirement** | ::{ flag=MY }:: **::iraozm::{ user-id=12443104 }**, ::{ flag=TH }:: ::\_Arigato::{ user-id=9317938 } | 4.57 |
+| 13 | **yes seggs** | ::{ flag=MY }:: **::Chiyuu::{ user-id=8226107 }**, ::{ flag=MY }:: ::Zygody::{ user-id=3677251 } | 3.57 |
+| 14 | **Dreamy Color** | ::{ flag=MY }:: **::Jolene::{ user-id=13626098 }**, ::{ flag=MY }:: ::Chibi Maruko::{ user-id=5585377 } | 3.40 |
+| 15 | **Vanity** | ::{ flag=MY }:: **::Inugami Korone::{ user-id=4474918 }**, ::{ flag=MY }:: ::Mumei Nanashi::{ user-id=5414124 } | 1.87 |
+| 16 | **chungus capoo** | ::{ flag=MY }:: **::GKen::{ user-id=12633052 }**, ::{ flag=VN }:: ::realshin::{ user-id=8006029 } | 0.52 |
+| 17 | **openureyesyouwillsee** | ::{ flag=MY }:: **::Judicious::{ user-id=8087710 }**, ::{ flag=SG }:: ::\_gt::{ user-id=8301957 } | -1.19 |
+| 18 | **NAJIB FANCLUB** | ::{ flag=MY }:: **::Hu\1Ai::{ user-id=10910261 }**, ::{ flag=SG }:: ::JokThree::{ user-id=7713152 } | -1.49 |
+| 19 | **Offensize Name** | ::{ flag=MY }:: **::rhatson::{ user-id=14826877 }**, ::{ flag=TH }:: ::heathenz\_::{ user-id=14180969 } | -1.51 |
+| 20 | **koko soko asoko** | ::{ flag=MY }:: **::RyzenPP::{ user-id=16391241 }**, ::{ flag=MY }:: ::Tengkosu::{ user-id=17724583 } | -1.68 |
+| 21 | **LENG ZAI** | ::{ flag=MY }:: **::GodKnows::{ user-id=11058193 }**, ::{ flag=SG }:: ::Eagle5324::{ user-id=11987104 } | -1.77 |
+| 22 | **shiroko's bicycle** | ::{ flag=MY }:: **::AkariAoi::{ user-id=14067834 }**, ::{ flag=SG }:: ::Anderwear::{ user-id=14429830 } | -2.76 |
+| 23 | **The Platinum Wok** | ::{ flag=MY }:: **::Freion::{ user-id=15852740 }**, ::{ flag=SG }:: ::AhPlatus::{ user-id=15799171 } | -2.84 |
+| 24 | **:froggy:** | ::{ flag=MY }:: **::Desumond::{ user-id=7399262 }**, ::{ flag=VN }:: ::walle::{ user-id=8431549 } | -3.68 |
+| 25 | **洪家派驰名海鲜煮炒餐馆 (Hongjiapai Famous Seafood Restaurant)** | ::{ flag=MY }:: **::Racers03::{ user-id=11621976 }**, ::{ flag=MY }:: ::DaNoobSlayaar::{ user-id=8688777 } | -3.78 |
+| 26 | **Can We Get Much Higher** | ::{ flag=MY }:: **::Snowy5441::{ user-id=13865320 }**, ::{ flag=MY }:: ::LITFAM123::{ user-id=13584478 } | -3.94 |
+| 27 | **Japanese Goblin** | ::{ flag=MY }:: **::Mano Aloe::{ user-id=5429513 }**, ::{ flag=MY }:: ::Watson Amelia::{ user-id=12674638 } | -4.63 |
+| 28 | **Damn bratty crewmate** | ::{ flag=MY }:: **::Floth::{ user-id=11134301 }**, ::{ flag=MY }:: ::Axorite::{ user-id=9124278 } | -4.91 |
+| 29 | **Ikan** | ::{ flag=MY }:: **::-quack::{ user-id=16502529 }**, ::{ flag=MY }:: ::Izayoii::{ user-id=15542056 } | -6.96 |
+| 30 | **Mandekissafriend** | ::{ flag=MY }:: **::Ookami Mion::{ user-id=8009988 }**, ::{ flag=MY }:: ::Hachune Miku::{ user-id=10584780 } | -7.7 |
+| 31 | **Marv and Willy show** | ::{ flag=MY }:: **::Its not Marvin::{ user-id=13600612 }**, ::{ flag=MY }:: ::Hanami-::{ user-id=8703188 } | -8.03 |
+| 32 | **AMOGUS SUSSY BAKA S\_** | ::{ flag=MY }:: **::Lollicornzi::{ user-id=14454744 }**, ::{ flag=MY }:: ::cherry sweet::{ user-id=12079158 } | -8.05 |
 
 ## Groups
 
@@ -117,9 +117,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Miyu Archive** (::{ flag=MY }:: **[Houshou Marine](https://osu.ppy.sh/users/6402211)**, ::{ flag=ID }:: [-Reuto-](https://osu.ppy.sh/users/10717635)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **RUDOLF ENJOYERS** (::{ flag=MY }:: **[Rampax](https://osu.ppy.sh/users/3995630)**, ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Diggas in paris** (::{ flag=MY }:: **[Zeph2003](https://osu.ppy.sh/users/10343292)**, ::{ flag=SG }:: [Dawnwing](https://osu.ppy.sh/users/5144534)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Miyu Archive** (::{ flag=MY }:: **::Houshou Marine::{ user-id=6402211 }**, ::{ flag=ID }:: ::-Reuto-::{ user-id=10717635 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **RUDOLF ENJOYERS** (::{ flag=MY }:: **::Rampax::{ user-id=3995630 }**, ::{ flag=SG }:: ::Inquisitives::{ user-id=10722794 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Diggas in paris** (::{ flag=MY }:: **::Zeph2003::{ user-id=10343292 }**, ::{ flag=SG }:: ::Dawnwing::{ user-id=5144534 }) |
 
 ## Mappools
 

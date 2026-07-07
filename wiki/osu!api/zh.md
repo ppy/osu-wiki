@@ -12,4 +12,4 @@ osu!api 的 2.0 版本可在 [osu-web](https://github.com/ppy/osu-web) 上使用
 
 ## 参见
 
-- 论坛原贴： [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) by [peppy](https://osu.ppy.sh/users/2)
+- 论坛原贴： [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) by ::peppy::{ user-id=2 }

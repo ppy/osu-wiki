@@ -13,7 +13,7 @@ Shifting from the usual electronic rhythm game-y sound, **Michael Cera Palin** i
 
 We picked up **9** stunning tracks for [**Michael Cera Palin**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/182) (which is every original song they've released!).
 
-Beatmapper [Hobbes2](https://osu.ppy.sh/users/8157492) introduced **Michael Cera Palin** to the osu! scene, so it's only fitting to introduce you to the band's sound through Hobbes2's beatmap of [*Portrait of a Woman on a Couch With Cats*](https://osu.ppy.sh/beatmapsets/1275141)! Check that out and give a quick run through the rest of these awesome previews:
+Beatmapper ::Hobbes2::{ user-id=8157492 } introduced **Michael Cera Palin** to the osu! scene, so it's only fitting to introduce you to the band's sound through Hobbes2's beatmap of [*Portrait of a Woman on a Couch With Cats*](https://osu.ppy.sh/beatmapsets/1275141)! Check that out and give a quick run through the rest of these awesome previews:
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ Beatmapper [Hobbes2](https://osu.ppy.sh/users/8157492) introduced **Michael Cera
 
 ### Portrait of a Woman on a Couch With Cats
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1275141) hosted by [Hobbes2](https://osu.ppy.sh/users/8157492)
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1275141) hosted by ::Hobbes2::{ user-id=8157492 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/182/I%20Don%27t%20Know%20How%20To%20Explain%20It%2FMichael%20Cera%20Palin%20-%20Portrait%20of%20a%20Woman%20on%20a%20Couch%20with%20Cats.mp3" type="audio/mpeg">

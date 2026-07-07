@@ -30,9 +30,9 @@ This article is split into a few sections. Skip to whatever you'd like:
 
 | Placement | User | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [acnozei](https://osu.ppy.sh/users/10141268) | [Akiri - Symphony Of The Heavenly Relic](https://osu.ppy.sh/beatmapsets/2177875) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (7 total) |
-| Runner-up | [0ppInOsu](https://osu.ppy.sh/users/12551840) | [Redside - beachballs!](https://osu.ppy.sh/beatmapsets/2177828) | - | - | +1 (3 total) |
-| [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [fowwo](https://osu.ppy.sh/users/4547551) | [Akiri - Symphony Of The Heavenly Relic](https://osu.ppy.sh/beatmapsets/2177831) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | +1 (2 total) |
+| Winner | ::acnozei::{ user-id=10141268 } | [Akiri - Symphony Of The Heavenly Relic](https://osu.ppy.sh/beatmapsets/2177875) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (7 total) |
+| Runner-up | ::0ppInOsu::{ user-id=12551840 } | [Redside - beachballs!](https://osu.ppy.sh/beatmapsets/2177828) | - | - | +1 (3 total) |
+| [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | ::fowwo::{ user-id=4547551 } | [Akiri - Symphony Of The Heavenly Relic](https://osu.ppy.sh/beatmapsets/2177831) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | +1 (2 total) |
 
 #### Top 10
 
@@ -40,9 +40,9 @@ This article is split into a few sections. Skip to whatever you'd like:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/wmAgHelhVA8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to [Aeril](https://osu.ppy.sh/users/4334976), [mapping](https://osu.ppy.sh/users/30730829), [Petal](https://osu.ppy.sh/users/7354729), [Mattay](https://osu.ppy.sh/users/9748303), [Elzix](https://osu.ppy.sh/users/4990127), [Nachmark](https://osu.ppy.sh/users/17584310), [Shii](https://osu.ppy.sh/users/9186316), [too](https://osu.ppy.sh/users/12196931), [Uberzolik](https://osu.ppy.sh/users/1314547), and [Astrolis](https://osu.ppy.sh/users/12357714) for screening this contest, plus [flake](https://osu.ppy.sh/users/7627157), [Daycore](https://osu.ppy.sh/users/5596337), [Vararaup](https://osu.ppy.sh/users/8257675), [fllecc](https://osu.ppy.sh/users/14060327), [MeowUsername](https://osu.ppy.sh/users/13241584), [enneya](https://osu.ppy.sh/users/10959501), and [FuJu](https://osu.ppy.sh/users/10773882) for judging!
+Special thanks to ::Aeril::{ user-id=4334976 }, [mapping](https://osu.ppy.sh/users/30730829), ::Petal::{ user-id=7354729 }, [Mattay](https://osu.ppy.sh/users/9748303), ::Elzix::{ user-id=4990127 }, [Nachmark](https://osu.ppy.sh/users/17584310), ::Shii::{ user-id=9186316 }, [too](https://osu.ppy.sh/users/12196931), ::Uberzolik::{ user-id=1314547 }, and [Astrolis](https://osu.ppy.sh/users/12357714) for screening this contest, plus ::flake::{ user-id=7627157 }, [Daycore](https://osu.ppy.sh/users/5596337), ::Vararaup::{ user-id=8257675 }, [fllecc](https://osu.ppy.sh/users/14060327), ::MeowUsername::{ user-id=13241584 }, [enneya](https://osu.ppy.sh/users/10959501), and ::FuJu::{ user-id=10773882 } for judging!
 
-And of course, congrats to [acnozei](https://osu.ppy.sh/users/10141268) for joining osu!'s lineup of *Elite Mappers*!
+And of course, congrats to ::acnozei::{ user-id=10141268 } for joining osu!'s lineup of *Elite Mappers*!
 
 ### osu!mania results
 
@@ -52,8 +52,8 @@ And of course, congrats to [acnozei](https://osu.ppy.sh/users/10141268) for join
 
 | Placement | User | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Disguise](https://osu.ppy.sh/users/10764851) | [Redside - beachballs!](https://osu.ppy.sh/beatmapsets/2177753) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | +2 (2 total) |
-| Runner-up + [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [tyrcs](https://osu.ppy.sh/users/13026904) | [Redside - beachballs!](https://osu.ppy.sh/beatmapsets/2177980) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | Elite Mapper | +2 (6 total) |
+| Winner | ::Disguise::{ user-id=10764851 } | [Redside - beachballs!](https://osu.ppy.sh/beatmapsets/2177753) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | +2 (2 total) |
+| Runner-up + [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | ::tyrcs::{ user-id=13026904 } | [Redside - beachballs!](https://osu.ppy.sh/beatmapsets/2177980) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | Elite Mapper | +2 (6 total) |
 
 #### Top 5
 
@@ -61,9 +61,9 @@ And of course, congrats to [acnozei](https://osu.ppy.sh/users/10141268) for join
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/mzH2R60-I98" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Another special thanks to [Maxus](https://osu.ppy.sh/users/4335785), [gzdongsheng](https://osu.ppy.sh/users/8660315), [SilentWuffer](https://osu.ppy.sh/users/11355206), [Protastic101](https://osu.ppy.sh/users/6712747), [Evening](https://osu.ppy.sh/users/2193881), [doctormango](https://osu.ppy.sh/users/13370527), [Monoseul](https://osu.ppy.sh/users/16010604), and [BadDragon](https://osu.ppy.sh/users/6051688) for screening this contest's submissions, along with [-mint-](https://osu.ppy.sh/users/8976576), [Unpredictable](https://osu.ppy.sh/users/7560872), [Paraxia](https://osu.ppy.sh/users/14001000), and [elexire](https://osu.ppy.sh/users/9206093) for judging the rest!
+Another special thanks to ::Maxus::{ user-id=4335785 }, [gzdongsheng](https://osu.ppy.sh/users/8660315), ::SilentWuffer::{ user-id=11355206 }, [Protastic101](https://osu.ppy.sh/users/6712747), ::Evening::{ user-id=2193881 }, [doctormango](https://osu.ppy.sh/users/13370527), ::Monoseul::{ user-id=16010604 }, and [BadDragon](https://osu.ppy.sh/users/6051688) for screening this contest's submissions, along with ::-mint-::{ user-id=8976576 }, [Unpredictable](https://osu.ppy.sh/users/7560872), ::Paraxia::{ user-id=14001000 }, and [elexire](https://osu.ppy.sh/users/9206093) for judging the rest!
 
-And of course, give a warm welcome to osu!mania's first *Elite Mapper* (through MBC): [tyrcs](https://osu.ppy.sh/users/13026904)!
+And of course, give a warm welcome to osu!mania's first *Elite Mapper* (through MBC): ::tyrcs::{ user-id=13026904 }!
 
 ## Game modes
 

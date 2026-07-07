@@ -47,7 +47,7 @@ The prize pool is community-funded! If you want to contribute, check the [forum 
 
 *Ensure that you consult all [rules](https://osu.ppy.sh/community/forums/topics/2178368) before registering for the tournament, as Battle of the Box has historically not followed conventional tournament formats.*
 
-If you're interested in contributing as staff, you can contact [Fulserish](https://osu.ppy.sh/users/14252162) on Discord (by the same name) and provide any prior staffing experience.
+If you're interested in contributing as staff, you can contact ::Fulserish::{ user-id=14252162 } on Discord (by the same name) and provide any prior staffing experience.
 
 Otherwise, you're welcome to ask any questions related to the tournament on the [Discord server](https://discord.com/invite/XT6sGbRNQs).
 

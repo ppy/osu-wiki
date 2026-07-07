@@ -8,7 +8,7 @@ tags:
 
 ![NSATT 2019 logo](img/logo.jpg)
 
-The **North & South American Taiko Tournament 2019** (***NSATT 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035) and ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027). The tournament was restricted to players within the North and South American countries only. It was the fourth instalment of the North & South American Taiko Tournament.
+The **North & South American Taiko Tournament 2019** (***NSATT 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=US }:: ::Garpo::{ user-id=4097035 } and ::{ flag=US }:: ::incandescence::{ user-id=6256027 }. The tournament was restricted to players within the North and South American countries only. It was the fourth instalment of the North & South American Taiko Tournament.
 
 ## Tournament schedule
 
@@ -38,14 +38,14 @@ The North & South American Taiko Tournament 2019 was run by various community me
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027) |
-| Mappool selector | ::{ flag=GB }:: [\_DUSK\_](https://osu.ppy.sh/users/6092181), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=GB }:: [Lno](https://osu.ppy.sh/users/1900787), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |
-| Referee | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078), ::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961), ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907), ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669), ::{ flag=US }:: [Voltaeyx](https://osu.ppy.sh/users/2715118) |
-| Streamer | ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035) |
-| Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977), ::{ flag=CA }:: [DuckyDoom](https://osu.ppy.sh/users/3153062), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) |
-| Designer | ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) |
-| Statistician | ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organizer | ::{ flag=US }:: ::Garpo::{ user-id=4097035 }, ::{ flag=US }:: ::incandescence::{ user-id=6256027 } |
+| Mappool selector | ::{ flag=GB }:: ::\_DUSK\_::{ user-id=6092181 }, ::{ flag=US }:: ::incandescence::{ user-id=6256027 }, ::{ flag=GB }:: ::Lno::{ user-id=1900787 }, ::{ flag=US }:: ::Nifty::{ user-id=4956097 } |
+| Referee | ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 }, ::{ flag=US }:: ::Edgar\_Figaro::{ user-id=6508754 }, ::{ flag=GB }:: ::goheegy::{ user-id=8057655 }, ::{ flag=US }:: ::JDrago14::{ user-id=7690078 }, ::{ flag=US }:: ::Ney::{ user-id=5991961 }, ::{ flag=US }:: ::radar::{ user-id=7131099 }, ::{ flag=SE }:: ::Raphalge::{ user-id=3918650 }, ::{ flag=AT }:: ::Stefan::{ user-id=626907 }, ::{ flag=CL }:: ::Ulqui::{ user-id=1263669 }, ::{ flag=US }:: ::Voltaeyx::{ user-id=2715118 } |
+| Streamer | ::{ flag=US }:: ::cheese salad::{ user-id=6349821 }, ::{ flag=US }:: ::Garpo::{ user-id=4097035 } |
+| Commentator | ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 }, ::{ flag=US }:: ::CaptainEChan::{ user-id=9536977 }, ::{ flag=CA }:: ::DuckyDoom::{ user-id=3153062 }, ::{ flag=US }:: ::Edgar\_Figaro::{ user-id=6508754 }, ::{ flag=GB }:: ::goheegy::{ user-id=8057655 }, ::{ flag=US }:: ::incandescence::{ user-id=6256027 }, ::{ flag=CA }:: ::janitoreihil::{ user-id=3307897 } |
+| Designer | ::{ flag=US }:: ::DigitalHypno::{ user-id=4384207 } |
+| Statistician | ::{ flag=US }:: ::Garpo::{ user-id=4097035 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Links
 
@@ -58,23 +58,23 @@ The North & South American Taiko Tournament 2019 was run by various community me
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897), ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773), ::{ flag=BR }:: [eae](https://osu.ppy.sh/users/4050738), ::{ flag=US }:: [Loopy542](https://osu.ppy.sh/users/5468461), ::{ flag=AR }:: [BossPlays](https://osu.ppy.sh/users/7341471), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=US }:: [jyake](https://osu.ppy.sh/users/9099822), ::{ flag=BR }:: [Skull Kid](https://osu.ppy.sh/users/3044264) |
-| Middle | ::{ flag=US }:: [\_knots](https://osu.ppy.sh/users/4407678), ::{ flag=AR }:: [trollocat](https://osu.ppy.sh/users/9228032), ::{ flag=US }:: [Whulf](https://osu.ppy.sh/users/11601107), ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=VE }:: [My Angel Kazu](https://osu.ppy.sh/users/5136821), ::{ flag=VE }:: [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), ::{ flag=BR }:: [Kyoumo](https://osu.ppy.sh/users/8145223), ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922) |
-| Low | ::{ flag=AR }:: [Jintsuu](https://osu.ppy.sh/users/7165127), ::{ flag=BR }:: [Coryn](https://osu.ppy.sh/users/2828556), ::{ flag=MX }:: [Ammy](https://osu.ppy.sh/users/4183406), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=US }:: [Brames](https://osu.ppy.sh/users/6417190), ::{ flag=AR }:: [Atreevete](https://osu.ppy.sh/users/2615199), ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977), ::{ flag=US }:: [Kotu776](https://osu.ppy.sh/users/8494571) |
-| Unseeded | ::{ flag=CA }:: [DuckyDoom](https://osu.ppy.sh/users/3153062), ::{ flag=AR }:: [warning dark](https://osu.ppy.sh/users/5040981), ::{ flag=CL }:: [Catulus](https://osu.ppy.sh/users/6276709), ::{ flag=MX }:: [\[ItsTakane\]](https://osu.ppy.sh/users/4420046), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=US }:: [DiggyDogg](https://osu.ppy.sh/users/5014664), ::{ flag=US }:: [InsaneToe](https://osu.ppy.sh/users/6389252), ::{ flag=US }:: [Binsu](https://osu.ppy.sh/users/6236911) |
+| Top | ::{ flag=CA }:: ::janitoreihil::{ user-id=3307897 }, ::{ flag=CA }:: ::vladyushko::{ user-id=4908773 }, ::{ flag=BR }:: ::eae::{ user-id=4050738 }, ::{ flag=US }:: ::Loopy542::{ user-id=5468461 }, ::{ flag=AR }:: ::BossPlays::{ user-id=7341471 }, ::{ flag=US }:: ::cheese salad::{ user-id=6349821 }, ::{ flag=US }:: ::jyake::{ user-id=9099822 }, ::{ flag=BR }:: ::Skull Kid::{ user-id=3044264 } |
+| Middle | ::{ flag=US }:: ::\_knots::{ user-id=4407678 }, ::{ flag=AR }:: ::trollocat::{ user-id=9228032 }, ::{ flag=US }:: ::Whulf::{ user-id=11601107 }, ::{ flag=AR }:: ::Axer::{ user-id=7299864 }, ::{ flag=VE }:: ::My Angel Kazu::{ user-id=5136821 }, ::{ flag=VE }:: ::\[\_Chichinya\_\]::{ user-id=2140739 }, ::{ flag=BR }:: ::Kyoumo::{ user-id=8145223 }, ::{ flag=US }:: ::closed::{ user-id=5116922 } |
+| Low | ::{ flag=AR }:: ::Jintsuu::{ user-id=7165127 }, ::{ flag=BR }:: ::Coryn::{ user-id=2828556 }, ::{ flag=MX }:: ::Ammy::{ user-id=4183406 }, ::{ flag=US }:: ::Backfire::{ user-id=263110 }, ::{ flag=US }:: ::Brames::{ user-id=6417190 }, ::{ flag=AR }:: ::Atreevete::{ user-id=2615199 }, ::{ flag=US }:: ::CaptainEChan::{ user-id=9536977 }, ::{ flag=US }:: ::Kotu776::{ user-id=8494571 } |
+| Unseeded | ::{ flag=CA }:: ::DuckyDoom::{ user-id=3153062 }, ::{ flag=AR }:: ::warning dark::{ user-id=5040981 }, ::{ flag=CL }:: ::Catulus::{ user-id=6276709 }, ::{ flag=MX }:: ::\[ItsTakane\]::{ user-id=4420046 }, ::{ flag=EC }:: ::Gamelan4::{ user-id=9856910 }, ::{ flag=US }:: ::DiggyDogg::{ user-id=5014664 }, ::{ flag=US }:: ::InsaneToe::{ user-id=6389252 }, ::{ flag=US }:: ::Binsu::{ user-id=6236911 } |
 
 ## Groups
 
 | Group | Top seed | Middle seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977) | ::{ flag=CL }:: [Catulus](https://osu.ppy.sh/users/6276709) |
-| **B** | ::{ flag=US }:: [jyake](https://osu.ppy.sh/users/9099822) | ::{ flag=AR }:: [trollocat](https://osu.ppy.sh/users/9228032) | ::{ flag=AR }:: [Jintsuu](https://osu.ppy.sh/users/7165127) | ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910) |
-| **C** | ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821) | ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922) | ::{ flag=AR }:: [Atreevete](https://osu.ppy.sh/users/2615199) | ::{ flag=CA }:: [DuckyDoom](https://osu.ppy.sh/users/3153062) |
-| **D** | ::{ flag=BR }:: [eae](https://osu.ppy.sh/users/4050738) | ::{ flag=VE }:: [My Angel Kazu](https://osu.ppy.sh/users/5136821) | ::{ flag=BR }:: [Coryn](https://osu.ppy.sh/users/2828556) | ::{ flag=MX }:: [\[ItsTakane\]](https://osu.ppy.sh/users/4420046) |
-| **E** | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=VE }:: [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739) | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) | ::{ flag=US }:: [DiggyDogg](https://osu.ppy.sh/users/5014664) |
-| **F** | ::{ flag=US }:: [Loopy542](https://osu.ppy.sh/users/5468461) | ::{ flag=BR }:: [Kyoumo](https://osu.ppy.sh/users/8145223) | ::{ flag=MX }:: [Ammy](https://osu.ppy.sh/users/4183406) | ::{ flag=AR }:: [warning dark](https://osu.ppy.sh/users/5040981) |
-| **G** | ::{ flag=BR }:: [Skull Kid](https://osu.ppy.sh/users/3044264) | ::{ flag=US }:: [Whulf](https://osu.ppy.sh/users/11601107) | ::{ flag=US }:: [Kotu776](https://osu.ppy.sh/users/8494571) | ::{ flag=US }:: [Binsu](https://osu.ppy.sh/users/6236911) |
-| **H** | ::{ flag=AR }:: [BossPlays](https://osu.ppy.sh/users/7341471) | ::{ flag=US }:: [\_knots](https://osu.ppy.sh/users/4407678) | ::{ flag=US }:: [Brames](https://osu.ppy.sh/users/6417190) | ::{ flag=US }:: [InsaneToe](https://osu.ppy.sh/users/6389252) |
+| **A** | ::{ flag=CA }:: ::vladyushko::{ user-id=4908773 } | ::{ flag=AR }:: ::Axer::{ user-id=7299864 } | ::{ flag=US }:: ::CaptainEChan::{ user-id=9536977 } | ::{ flag=CL }:: ::Catulus::{ user-id=6276709 } |
+| **B** | ::{ flag=US }:: ::jyake::{ user-id=9099822 } | ::{ flag=AR }:: ::trollocat::{ user-id=9228032 } | ::{ flag=AR }:: ::Jintsuu::{ user-id=7165127 } | ::{ flag=EC }:: ::Gamelan4::{ user-id=9856910 } |
+| **C** | ::{ flag=US }:: ::cheese salad::{ user-id=6349821 } | ::{ flag=US }:: ::closed::{ user-id=5116922 } | ::{ flag=AR }:: ::Atreevete::{ user-id=2615199 } | ::{ flag=CA }:: ::DuckyDoom::{ user-id=3153062 } |
+| **D** | ::{ flag=BR }:: ::eae::{ user-id=4050738 } | ::{ flag=VE }:: ::My Angel Kazu::{ user-id=5136821 } | ::{ flag=BR }:: ::Coryn::{ user-id=2828556 } | ::{ flag=MX }:: ::\[ItsTakane\]::{ user-id=4420046 } |
+| **E** | ::{ flag=CA }:: ::janitoreihil::{ user-id=3307897 } | ::{ flag=VE }:: ::\[\_Chichinya\_\]::{ user-id=2140739 } | ::{ flag=US }:: ::Backfire::{ user-id=263110 } | ::{ flag=US }:: ::DiggyDogg::{ user-id=5014664 } |
+| **F** | ::{ flag=US }:: ::Loopy542::{ user-id=5468461 } | ::{ flag=BR }:: ::Kyoumo::{ user-id=8145223 } | ::{ flag=MX }:: ::Ammy::{ user-id=4183406 } | ::{ flag=AR }:: ::warning dark::{ user-id=5040981 } |
+| **G** | ::{ flag=BR }:: ::Skull Kid::{ user-id=3044264 } | ::{ flag=US }:: ::Whulf::{ user-id=11601107 } | ::{ flag=US }:: ::Kotu776::{ user-id=8494571 } | ::{ flag=US }:: ::Binsu::{ user-id=6236911 } |
+| **H** | ::{ flag=AR }:: ::BossPlays::{ user-id=7341471 } | ::{ flag=US }:: ::\_knots::{ user-id=4407678 } | ::{ flag=US }:: ::Brames::{ user-id=6417190 } | ::{ flag=US }:: ::InsaneToe::{ user-id=6389252 } |
 
 ## Podium
 
@@ -82,9 +82,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=BR }:: [eae](https://osu.ppy.sh/users/4050738) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: ::janitoreihil::{ user-id=3307897 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: ::vladyushko::{ user-id=4908773 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=BR }:: ::eae::{ user-id=4050738 } |
 
 ## Mappools
 

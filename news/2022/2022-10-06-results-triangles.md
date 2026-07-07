@@ -19,7 +19,7 @@ And now we're here.
 
 ## Results livestream
 
-In case you're allergic to text, we livestreamed the contest results too! Check out the full showcase in the video below, including commentary from [pishifat](https://osu.ppy.sh/users/3178418), [Mismagius](https://osu.ppy.sh/users/19048), and [Mao](https://osu.ppy.sh/users/2204515), along with brief input from each map/storyboard's creators!
+In case you're allergic to text, we livestreamed the contest results too! Check out the full showcase in the video below, including commentary from ::pishifat::{ user-id=3178418 }, [Mismagius](https://osu.ppy.sh/users/19048), and ::Mao::{ user-id=2204515 }, along with brief input from each map/storyboard's creators!
 
 <div align="center">
     <iframe width="95%" height="400" src="https://www.youtube.com/embed/4Xzrqu68Ypk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -31,13 +31,13 @@ If you want to watch alongside Twitch chat, [the VOD is here too!](https://www.t
 
 ### Storyboarders' pick
 
-Let's kick things off with [**this submission**](https://osu.ppy.sh/beatmapsets/1842041) by [Fisky](https://osu.ppy.sh/users/8352623), [ScubDomino](https://osu.ppy.sh/users/8972308), [fanzhen0019](https://osu.ppy.sh/users/418699), [Tommy Phelps](https://osu.ppy.sh/users/10974581) and [VenerableNyanta](https://osu.ppy.sh/users/12243368)! Despite earning #3 overall, this entry managed to win the **#1 spot in the storyboarding department!**
+Let's kick things off with [**this submission**](https://osu.ppy.sh/beatmapsets/1842041) by ::Fisky::{ user-id=8352623 }, [ScubDomino](https://osu.ppy.sh/users/8972308), ::fanzhen0019::{ user-id=418699 }, [Tommy Phelps](https://osu.ppy.sh/users/10974581) and ::VenerableNyanta::{ user-id=12243368 }! Despite earning #3 overall, this entry managed to win the **#1 spot in the storyboarding department!**
 
 ![Storyboarders' Pick](/wiki/shared/news/2022-10-04-results-triangles/sb.jpg)
 
 [![submission preview](/wiki/shared/news/2022-10-04-results-triangles/sbpreview.png)](https://osu.ppy.sh/beatmapsets/1842041)
 
-Combining the expertise of [Tommy Phelps](https://osu.ppy.sh/users/10974581) and [VenerableNyanta](https://osu.ppy.sh/users/12243368) (a.k.a. two of osu!'s most well-known storyboarders), it's no surprise that this team managed to win the hearts of the storyboarder panel.
+Combining the expertise of ::Tommy Phelps::{ user-id=10974581 } and [VenerableNyanta](https://osu.ppy.sh/users/12243368) (a.k.a. two of osu!'s most well-known storyboarders), it's no surprise that this team managed to win the hearts of the storyboarder panel.
 
 However, it's definitely surprising to learn that they managed to create their winning storyboard *in less than a week*. When you're this skilled, anything is possible, right?
 
@@ -51,15 +51,15 @@ Along with this prize, the storyboarders of this team have earned themselves the
 
 ### Runner-up winner
 
-Veteran winners from our previous team-based mapping contest [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) made a return this year with [**the most artsy submission around**](https://osu.ppy.sh/beatmapsets/1841845)! Created by [Altai](https://osu.ppy.sh/users/5745865), [DeviousPanda](https://osu.ppy.sh/users/4966334), [Mao](https://osu.ppy.sh/users/2204515), [Noffy](https://osu.ppy.sh/users/1541323) and [TheDuckMask](https://osu.ppy.sh/users/7405768), this submission came super close to the winning spot in all categories, ultimately making it the **overall runner-up** in the contest!
+Veteran winners from our previous team-based mapping contest [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) made a return this year with [**the most artsy submission around**](https://osu.ppy.sh/beatmapsets/1841845)! Created by ::Altai::{ user-id=5745865 }, [DeviousPanda](https://osu.ppy.sh/users/4966334), ::Mao::{ user-id=2204515 }, [Noffy](https://osu.ppy.sh/users/1541323) and ::TheDuckMask::{ user-id=7405768 }, this submission came super close to the winning spot in all categories, ultimately making it the **overall runner-up** in the contest!
 
 ![Overall runner-up](/wiki/shared/news/2022-10-04-results-triangles/runnerup.jpg)
 
 [![submission preview](/wiki/shared/news/2022-10-04-results-triangles/runneruppreview.png)](https://osu.ppy.sh/beatmapsets/1841845)
 
-Tackling the challenge of a <1MB storyboard led many teams to use minimalistic vector styles, but [Noffy](https://osu.ppy.sh/users/1541323) and [TheDuckMask](https://osu.ppy.sh/users/7405768) took the challenge in a completely different direction — they drew a story uniting all of osu!'s mascots (including the new mascot *DJ peppy*), all with original artwork drawn by the two artists.
+Tackling the challenge of a <1MB storyboard led many teams to use minimalistic vector styles, but ::Noffy::{ user-id=1541323 } and [TheDuckMask](https://osu.ppy.sh/users/7405768) took the challenge in a completely different direction — they drew a story uniting all of osu!'s mascots (including the new mascot *DJ peppy*), all with original artwork drawn by the two artists.
 
-The map itself is on another level too! Quoting [Mismagius](https://osu.ppy.sh/users/19048) during the results stream, "you can *feel* DeviousPanda in this map", which can only be taken as a compliment. The map is outstandingly well designed and takes some experimental liberties throughout the whole mapset, lending to a fresh experience all around.
+The map itself is on another level too! Quoting ::Mismagius::{ user-id=19048 } during the results stream, "you can *feel* DeviousPanda in this map", which can only be taken as a compliment. The map is outstandingly well designed and takes some experimental liberties throughout the whole mapset, lending to a fresh experience all around.
 
 Everyone in this team has earned the **Overall runner-up** profile badge!
 
@@ -67,7 +67,7 @@ Everyone in this team has earned the **Overall runner-up** profile badge!
 
 ### Overall winner
 
-Telling a story about how osu! reaches all corners of the world, [this submission](https://osu.ppy.sh/beatmapsets/1841885) by [yf_bmp](https://osu.ppy.sh/users/1243669), [TtmnZk](https://osu.ppy.sh/users/2495509), [Yugu](https://osu.ppy.sh/users/3161834), [Chaoslitz](https://osu.ppy.sh/users/3621552) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962) is not only the **overall winner**, but also the **highest scoring entry from the mapper judge panel** and the **community vote winner** by over 100 votes!
+Telling a story about how osu! reaches all corners of the world, [this submission](https://osu.ppy.sh/beatmapsets/1841885) by ::yf\1bmp::{ user-id=1243669 }, [TtmnZk](https://osu.ppy.sh/users/2495509), ::Yugu::{ user-id=3161834 }, [Chaoslitz](https://osu.ppy.sh/users/3621552) and ::Yumeno Himiko::{ user-id=1806962 } is not only the **overall winner**, but also the **highest scoring entry from the mapper judge panel** and the **community vote winner** by over 100 votes!
 
 ![Overall winner](/wiki/shared/news/2022-10-04-results-triangles/overall.jpg)
 
@@ -135,11 +135,11 @@ As an added bonus, we also decided to reward the players at the top of each play
 
 Give some credit to these playlist leaders:
 
-- Easy playlist: [-Matyr-](https://osu.ppy.sh/users/13771539)
-- Normal playlist: [TheRealStevie](https://osu.ppy.sh/users/12153630)
-- Hard playlist: [fieryrage](https://osu.ppy.sh/users/3533958)
-- Insane playlist: [fieryrage](https://osu.ppy.sh/users/3533958)
-- Expert playlist: [Intercambing](https://osu.ppy.sh/users/2546001)
+- Easy playlist: ::-Matyr-::{ user-id=13771539 }
+- Normal playlist: ::TheRealStevie::{ user-id=12153630 }
+- Hard playlist: ::fieryrage::{ user-id=3533958 }
+- Insane playlist: ::fieryrage::{ user-id=3533958 }
+- Expert playlist: ::Intercambing::{ user-id=2546001 }
 
 ## Conclusion
 

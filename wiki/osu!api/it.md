@@ -12,4 +12,4 @@ L'autenticazione per le nuove API segue il [protocollo OAuth 2](https://oauth.ne
 
 ## Guarda anche
 
-- Post sul forum originale: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) di [peppy](https://osu.ppy.sh/users/2)
+- Post sul forum originale: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) di ::peppy::{ user-id=2 }

@@ -23,7 +23,7 @@ For those who haven't heard **Tanger** before, prepare your ears:
 
 ### [Tanger - tiny windows (feat. Frizk)](https://assets.ppy.sh/artists/507/tinywindows/Tanger%20-%20tiny%20windows%20(feat.%20Frizk).osz)
 
-The saying "two heads is better than one" doesn't exactly apply to circle clicking, but [ESCRUPULILLO](https://osu.ppy.sh/users/18217876) and [uatzap](https://osu.ppy.sh/users/16509171) played [this map](https://osu.ppy.sh/beatmapsets/2391171) by [Nagi Seishiro](https://osu.ppy.sh/users/6300910) in tandem anyway. (And for anyone keeping track, this is the last [COE 2025](/wiki/Community/cavoe's_osu!_event) clip we have. For now.)
+The saying "two heads is better than one" doesn't exactly apply to circle clicking, but ::ESCRUPULILLO::{ user-id=18217876 } and [uatzap](https://osu.ppy.sh/users/16509171) played [this map](https://osu.ppy.sh/beatmapsets/2391171) by ::Nagi Seishiro::{ user-id=6300910 } in tandem anyway. (And for anyone keeping track, this is the last [COE 2025](/wiki/Community/cavoe's_osu!_event) clip we have. For now.)
 
 <div align="center" class="osu-md__paragraph">
     <video width="100%" controls>

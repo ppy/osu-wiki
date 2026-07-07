@@ -88,7 +88,7 @@ Apabila kamu telah melanggar peraturan dan ingin mengaku, silakan hubungi [accou
 
 ## Bagaimana caranya agar saya tidak sampai di-silence atau dibatasi?
 
-Baca dan pahami [peraturan yang berlaku](/wiki/Rules) secara seksama. Apabila kamu tidak yakin apakah sesuatu yang ingin kamu lakukan melanggar peraturan atau tidak, hubungi salah satu anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team). Apabila kamu tidak yakin siapa yang harus kamu tanya, [hubungi pengguna ini](https://osu.ppy.sh/users/5999631).
+Baca dan pahami [peraturan yang berlaku](/wiki/Rules) secara seksama. Apabila kamu tidak yakin apakah sesuatu yang ingin kamu lakukan melanggar peraturan atau tidak, hubungi salah satu anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team). Apabila kamu tidak yakin siapa yang harus kamu tanya, ::hubungi pengguna ini::{ user-id=5999631 }.
 
 ## Catatan
 

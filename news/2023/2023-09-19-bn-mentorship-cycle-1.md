@@ -29,10 +29,10 @@ The available game modes for this cycle are **osu!**, **osu!taiko**, and **osu!m
 
 | ![osu!](/wiki/shared/mode/osu.png "osu!") Mentor | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") Mentor | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") Mentor |
 | :-- | :-- | :-- |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) |  |  |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) |  |  |
+| ::{ flag=BR }:: ::Dada::{ user-id=9119507 } | ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | ::{ flag=ID }:: ::Maxus::{ user-id=4335785 } |
+| ::{ flag=BE }:: ::enneya::{ user-id=10959501 } | ::{ flag=US }:: ::radar::{ user-id=7131099 } | ::{ flag=ES }:: ::RandomeLoL::{ user-id=7080063 } |
+| ::{ flag=DE }:: ::FuJu::{ user-id=10773882 } |  |  |
+| ::{ flag=BE }:: ::yaspo::{ user-id=4945926 } |  |  |
 
 [![application link](/wiki/shared/news/banners/bn-mentorship/apply.png)](https://forms.gle/YCPNaGSMEXmyDtvKA)
 

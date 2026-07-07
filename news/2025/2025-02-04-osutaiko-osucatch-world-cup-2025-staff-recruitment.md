@@ -17,11 +17,11 @@ Please note that if you are accepted into either team, *you will not be eligible
 
 ## osu!taiko World Cup 2025
 
-The osu!taiko World Cup mappooling team headed by [Nurend](https://osu.ppy.sh/users/9905079) and [Raphalge](https://osu.ppy.sh/users/3918650) is looking for **mappers** and **playtesters**. To sign up, follow [this link](http://apps.leoflt.com/forms/form/twc2025-staff-recruitment).
+The osu!taiko World Cup mappooling team headed by ::Nurend::{ user-id=9905079 } and [Raphalge](https://osu.ppy.sh/users/3918650) is looking for **mappers** and **playtesters**. To sign up, follow [this link](http://apps.leoflt.com/forms/form/twc2025-staff-recruitment).
 
 ## osu!catch World Cup 2025
 
-The osu!catch World Cup mappooling team headed by [wwwww](https://osu.ppy.sh/users/8434466) and [Yoshi_green](https://osu.ppy.sh/users/1035891) is looking for **mappers**, **map modders**, and **playtesters**. To sign up, follow [this link](https://forms.gle/JzY8qFPGZaFGGYb8A).
+The osu!catch World Cup mappooling team headed by ::wwwww::{ user-id=8434466 } and [Yoshi_green](https://osu.ppy.sh/users/1035891) is looking for **mappers**, **map modders**, and **playtesters**. To sign up, follow [this link](https://forms.gle/JzY8qFPGZaFGGYb8A).
 
 ---
 

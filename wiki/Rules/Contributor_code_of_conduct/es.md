@@ -40,7 +40,7 @@ Instancias de conductas abusivas, acosadoras o inaceptables de otro modo podrán
 
 Los líderes de la comunidad que tienen acceso a esta bandeja de entrada son:
 
-- [peppy](https://osu.ppy.sh/users/2) ([pe@ppy.sh](mailto:pe@ppy.sh))
+- ::peppy::{ user-id=2 } ([pe@ppy.sh](mailto:pe@ppy.sh))
 
 Todas las quejas serán evaluadas e investigadas de una manera puntual y justa.
 

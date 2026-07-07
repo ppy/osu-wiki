@@ -29,7 +29,7 @@
 
 <!-- as-is, this section's only purpose is to say that these projects exist (plus a popular example). this would be a good place to link away to other helpful projects or an article about them. -->
 
-社区制作出了多种用来提取与构建故事板脚本的工具，比如 ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) 的 [storybrew](https://github.com/Damnae/storybrew "GitHub 仓库")。
+社区制作出了多种用来提取与构建故事板脚本的工具，比如 ::{ flag=FR }:: ::Damnae::{ user-id=989377 } 的 [storybrew](https://github.com/Damnae/storybrew "GitHub 仓库")。
 
 <!--
 might be useful reference for historical topics in/around this article

@@ -18,7 +18,7 @@ The play style is widely considered to be the hardest method to play with and mo
 
 Dual mouse is a play style in which a player has a mouse in each hand; using one mouse to tap and another mouse to move the in-game cursor.
 
-The play style used to be considered a joke play style to most players until May 2013 when Canadian player ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) starting getting top scores on highly-respected maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) whilst playing with two mice.
+The play style used to be considered a joke play style to most players until May 2013 when Canadian player ::{ flag=CA }:: ::Azer::{ user-id=2155578 } starting getting top scores on highly-respected maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) whilst playing with two mice.
 
 *Note: It is also common for dual mouse players to tape the mouse used for clicking to the desk.*
 

@@ -17,7 +17,7 @@ Treat your ears to what **Frums** has in stock:
 
 ### 24eeev0-$
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/1086289#osu/2271666) hosted by [Niva](https://osu.ppy.sh/users/197805)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/1086289#osu/2271666) hosted by ::Niva::{ user-id=197805 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/68/previews/1880.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Treat your ears to what **Frums** has in stock:
 
 ### Pictured as Perfect
 
-*[Check out this osu!taiko set](https://osu.ppy.sh/beatmapsets/966235#taiko/2045088) by [_yu68](https://osu.ppy.sh/users/6170507)!*
+*[Check out this osu!taiko set](https://osu.ppy.sh/beatmapsets/966235#taiko/2045088) by ::\1yu68::{ user-id=6170507 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/68/previews/1889.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Treat your ears to what **Frums** has in stock:
 
 ### theyaremanycolors
 
-*[Check out this 4K osu!mania set](https://osu.ppy.sh/beatmapsets/829383#mania/1737654) hosted by [Vortex-](https://osu.ppy.sh/users/4999669)!*
+*[Check out this 4K osu!mania set](https://osu.ppy.sh/beatmapsets/829383#mania/1737654) hosted by ::Vortex-::{ user-id=4999669 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/68/previews/1894.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Treat your ears to what **Frums** has in stock:
 
 ### Mdrqnxtagon
 
-*[Check out this osu!taiko set](https://osu.ppy.sh/beatmapsets/967870#taiko/2025380) hosted by [Nifty](https://osu.ppy.sh/users/4956097)!*
+*[Check out this osu!taiko set](https://osu.ppy.sh/beatmapsets/967870#taiko/2025380) hosted by ::Nifty::{ user-id=4956097 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/68/previews/1885.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Treat your ears to what **Frums** has in stock:
 
 ### Credits
 
-*[Check out this 9K osu!mania set](https://osu.ppy.sh/beatmapsets/996443#mania/2084314) hosted by [-MysticEyes](https://osu.ppy.sh/users/6253266)!*
+*[Check out this 9K osu!mania set](https://osu.ppy.sh/beatmapsets/996443#mania/2084314) hosted by ::-MysticEyes::{ user-id=6253266 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/68/previews/1881.mp3" type="audio/mpeg">

@@ -23,7 +23,7 @@ Experience **Koven**'s sound for yourself through any of the previews below, or 
 
 ### Koven - Love Wins Again
 
-Play [the map from the video above](https://osu.ppy.sh/beatmapsets/1485184) hosted by none other than [Strategas](https://osu.ppy.sh/users/2971837)!
+Play [the map from the video above](https://osu.ppy.sh/beatmapsets/1485184) hosted by none other than ::Strategas::{ user-id=2971837 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/293/Love%20Wins%20Again%2FKoven%20-%20Love%20Wins%20Again.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Play [the map from the video above](https://osu.ppy.sh/beatmapsets/1485184) host
 
 ### MUZZ, Koven & Feint - Worth The Lie
 
-Or check out [this jump-oriented map](https://osu.ppy.sh/beatmapsets/1217548) hosted by [Elinor](https://osu.ppy.sh/users/5419324)!
+Or check out [this jump-oriented map](https://osu.ppy.sh/beatmapsets/1217548) hosted by ::Elinor::{ user-id=5419324 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/293/Monstercat%20Uncaged%20-%20Vol.%203%2FMUZZ%2C%20Koven%20%26%20Feint%20-%20Worth%20The%20Lie.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Or check out [this jump-oriented map](https://osu.ppy.sh/beatmapsets/1217548) ho
 
 ### Feint - Take It In (feat. Koven)
 
-Try [this classic map](https://osu.ppy.sh/beatmapsets/616023) hosted by [Hobbes2](https://osu.ppy.sh/users/8157492)!
+Try [this classic map](https://osu.ppy.sh/beatmapsets/616023) hosted by ::Hobbes2::{ user-id=8157492 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/293/Liquicity%20Alchemy%202%2FFeint%20-%20Take%20It%20In%20(feat.%20Koven).mp3" type="audio/mpeg">

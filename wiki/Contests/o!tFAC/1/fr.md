@@ -32,9 +32,9 @@ L'osu!taiko Featured Artist Cup #1 a été organisée par divers membres de la c
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Hôte | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
-| Designer | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
-| Juge | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
+| Hôte | ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } |
+| Designer | ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } |
+| Juge | ::{ flag=US }:: ::Alchyr::{ user-id=4993032 }, ::{ flag=AR }:: ::Axer::{ user-id=7299864 }, ::{ flag=US }:: ::Nifty::{ user-id=4956097 }, ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } |
 
 ## Prix
 
@@ -58,9 +58,9 @@ Cette compétition s'est achevée sur le podium suivant :
 
 | Place | Utilisateur |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) |
-| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) |
-| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=KR }:: ::woosungko::{ user-id=14184157 } |
+| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=TH }:: ::Ph0eNiiXZ::{ user-id=9463721 } |
+| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=IT }:: ::D3kuu::{ user-id=7807444 } |
 
 ## Règlement
 
@@ -82,4 +82,4 @@ Cette compétition s'est achevée sur le podium suivant :
 
 ## Notes
 
-[^prix-classée]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) et ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) modderont et propulseront l'entrée gagnante vers le classement si le gagnant le souhaite, et **s'ils obtiennent les difficultés nécessaires pour former un spread classable le cas échéant**.
+[^prix-classée]: ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } et ::{ flag=US }:: ::Nifty::{ user-id=4956097 } modderont et propulseront l'entrée gagnante vers le classement si le gagnant le souhaite, et **s'ils obtiennent les difficultés nécessaires pour former un spread classable le cas échéant**.

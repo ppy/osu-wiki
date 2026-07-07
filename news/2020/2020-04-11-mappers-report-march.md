@@ -82,23 +82,23 @@ Just as last month, the BNG never rests. We always have new additions and retire
 
 ### BN Additions
 
-- **osu!:** [Affirmation](https://osu.ppy.sh/users/6186628), [BaAR_Vendel](https://osu.ppy.sh/users/8679346), [MaridiuS](https://osu.ppy.sh/users/4496961), [Nao Tomori](https://osu.ppy.sh/users/5364763) & [wafer](https://osu.ppy.sh/users/9416836)
-- **osu!taiko:** [Roger](https://osu.ppy.sh/users/1538223) & [Raiden](https://osu.ppy.sh/users/2239480)
-- **osu!catch:** [Daletto](https://osu.ppy.sh/users/7592136) & [Sinnoh](https://osu.ppy.sh/users/4236057)
-- **osu!mania:** [dudehacker](https://osu.ppy.sh/users/748722)
+- **osu!:** ::Affirmation::{ user-id=6186628 }, [BaAR_Vendel](https://osu.ppy.sh/users/8679346), ::MaridiuS::{ user-id=4496961 }, [Nao Tomori](https://osu.ppy.sh/users/5364763) & ::wafer::{ user-id=9416836 }
+- **osu!taiko:** ::Roger::{ user-id=1538223 } & [Raiden](https://osu.ppy.sh/users/2239480)
+- **osu!catch:** ::Daletto::{ user-id=7592136 } & [Sinnoh](https://osu.ppy.sh/users/4236057)
+- **osu!mania:** ::dudehacker::{ user-id=748722 }
 
 ### BN Resignations
 
-- **osu!:** [-Aqua](https://osu.ppy.sh/users/7150015), [Bibbity Bill](https://osu.ppy.sh/users/4446810), [Gero](https://osu.ppy.sh/users/1467715), [Teky](https://osu.ppy.sh/users/10520912) & [Petal](https://osu.ppy.sh/users/7354729)
-- **osu!catch:** [wonjae](https://osu.ppy.sh/users/5032045)
+- **osu!:** ::-Aqua::{ user-id=7150015 }, [Bibbity Bill](https://osu.ppy.sh/users/4446810), ::Gero::{ user-id=1467715 }, [Teky](https://osu.ppy.sh/users/10520912) & ::Petal::{ user-id=7354729 }
+- **osu!catch:** ::wonjae::{ user-id=5032045 }
 
 ### NAT Additions
 
-Good news everyone! We have a new person in the team. For osu!taiko, **[Tyistiana](https://osu.ppy.sh/users/1421452)** joined the NAT! After over one year of work as a Beatmap Nominator, and recently receiving the title of Elite Nominator, Tyistiana will now support Nepuri and Faputa with the osu!taiko Beatmap Nominator evaluations. Once again, welcome to the team!
+Good news everyone! We have a new person in the team. For osu!taiko, **::Tyistiana::{ user-id=1421452 }** joined the NAT! After over one year of work as a Beatmap Nominator, and recently receiving the title of Elite Nominator, Tyistiana will now support Nepuri and Faputa with the osu!taiko Beatmap Nominator evaluations. Once again, welcome to the team!
 
 ### NAT Retirement
 
-Just as we had a new addition with **[Tyistiana](https://osu.ppy.sh/users/1421452)**,  we had to say farewell to **[Ascendance](https://osu.ppy.sh/users/2931883)**. After one year of duty as a NAT he decided to take his leave. Ascendance served well in osu!catch and helped bring back life into the osu!taiko BNG with his care package. Thank you Ascendance for all your work and we wish you all the best in the future!
+Just as we had a new addition with **::Tyistiana::{ user-id=1421452 }**,  we had to say farewell to **::Ascendance::{ user-id=2931883 }**. After one year of duty as a NAT he decided to take his leave. Ascendance served well in osu!catch and helped bring back life into the osu!taiko BNG with his care package. Thank you Ascendance for all your work and we wish you all the best in the future!
 
 ## Mappers' Showcase
 
@@ -106,11 +106,11 @@ Mappers' Report never disappoints in bringing you fresh content! This month's ad
 
 ### Striderin
 
-A hidden gem of a mapper gone particularly unnoticed, **[Striderin](https://osu.ppy.sh/users/10193902)** has been building up a collection of truly innovative maps. Combining small circles, unique flow, and signature breathtaking hitsounds, Striderin fuses the three concepts together to create some inspiring works of art. This can best be showcased through his passion-filled renditions of Wednesday Campanella songs, such as [Melos](https://osu.ppy.sh/beatmapsets/967776) and [The Bamboo Princess](https://osu.ppy.sh/beatmapsets/1014364); the latter of which also features a quite nifty storyboard! Striderin is a must-see if you enjoy maps that stand out from the crowd, ones that go above and beyond compared to most.
+A hidden gem of a mapper gone particularly unnoticed, **::Striderin::{ user-id=10193902 }** has been building up a collection of truly innovative maps. Combining small circles, unique flow, and signature breathtaking hitsounds, Striderin fuses the three concepts together to create some inspiring works of art. This can best be showcased through his passion-filled renditions of Wednesday Campanella songs, such as [Melos](https://osu.ppy.sh/beatmapsets/967776) and [The Bamboo Princess](https://osu.ppy.sh/beatmapsets/1014364); the latter of which also features a quite nifty storyboard! Striderin is a must-see if you enjoy maps that stand out from the crowd, ones that go above and beyond compared to most.
 
 ### KnightC0re
 
-An inspiration to many new mappers should be **[KnightC0re](https://osu.ppy.sh/users/7894340)**. He is the shining example that hard work and dedication to one's craft will bear fruits. From expert hitsounding, to developing his style to fit songs of all difficulties and genres, KnightC0re can do it all. Just last year he showed up with a couple incredible ranked maps among others - one of which being his map of [Matsumoto Sara's Suika](https://osu.ppy.sh/beatmapsets/950929#osu/1985881), where he demonstrated his mastery of movement and hitsounding to form a poignant take on a beloved song. Another such example would be his Insane difficulty on [sokoninaru's Tenohira de odoru](https://osu.ppy.sh/beatmapsets/902587#osu/2096993) where he showcased his ability to map a whole spectrum of music - from serene instrumental to crazy math rock pieces in any difficulty he likes. We are eager to see KnightC0re's next projects take shape, and so should you.
+An inspiration to many new mappers should be **::KnightC0re::{ user-id=7894340 }**. He is the shining example that hard work and dedication to one's craft will bear fruits. From expert hitsounding, to developing his style to fit songs of all difficulties and genres, KnightC0re can do it all. Just last year he showed up with a couple incredible ranked maps among others - one of which being his map of [Matsumoto Sara's Suika](https://osu.ppy.sh/beatmapsets/950929#osu/1985881), where he demonstrated his mastery of movement and hitsounding to form a poignant take on a beloved song. Another such example would be his Insane difficulty on [sokoninaru's Tenohira de odoru](https://osu.ppy.sh/beatmapsets/902587#osu/2096993) where he showcased his ability to map a whole spectrum of music - from serene instrumental to crazy math rock pieces in any difficulty he likes. We are eager to see KnightC0re's next projects take shape, and so should you.
 
 Even though the Mappers' Showcase starts off with osu!standard, each month will showcase a different gamemode. That means next month will be feataturing osu!taiko. So stay tuned!
 
@@ -120,13 +120,13 @@ In addition to summarizing upcoming contests, we will also use this space to hig
 
 ### King of Catch Mapping Contest
 
-The [King of Catch Mapping Contest](https://osu.ppy.sh/community/forums/topics/1004441) is a currently ongoing osu!catch event organized by [MBomb](https://osu.ppy.sh/users/3071175) that is entering the 3rd of its challenges. The contest uses a quite interesting elimination system featuring a gauntlet of mapping challenges, where the lowest placing participant of a given round is removed from the contest while the others continue, until only 1 mapper is left.
+The [King of Catch Mapping Contest](https://osu.ppy.sh/community/forums/topics/1004441) is a currently ongoing osu!catch event organized by ::MBomb::{ user-id=3071175 } that is entering the 3rd of its challenges. The contest uses a quite interesting elimination system featuring a gauntlet of mapping challenges, where the lowest placing participant of a given round is removed from the contest while the others continue, until only 1 mapper is left.
 
-So far in the contest, [Jemzuu](https://osu.ppy.sh/users/7890134) has found himself at the top of the podium during the first 2 rounds, quite impressive! Good luck to those participating in the approaching rounds and we hope to see more novel well organized contests like this in the future.
+So far in the contest, ::Jemzuu::{ user-id=7890134 } has found himself at the top of the podium during the first 2 rounds, quite impressive! Good luck to those participating in the approaching rounds and we hope to see more novel well organized contests like this in the future.
 
 ### Monthly Beatmapping Contest: February 2020 Results
 
-We’d like to congratulate [Aphestra](https://osu.ppy.sh/users/11949191) on their win in the 2nd Monthly Beatmapping Contest, earning them a profile badge! Good job as well to [UndeadCapulet](https://osu.ppy.sh/users/2523533) and [Mao](https://osu.ppy.sh/users/2204515) who were the community vote runner-up and screening crew favourite respectively. Both of them find themselves halfway to a beautiful profile badge thanks to their placements. Full results for the contest can be found [here!](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results)
+We’d like to congratulate ::Aphestra::{ user-id=11949191 } on their win in the 2nd Monthly Beatmapping Contest, earning them a profile badge! Good job as well to ::UndeadCapulet::{ user-id=2523533 } and [Mao](https://osu.ppy.sh/users/2204515) who were the community vote runner-up and screening crew favourite respectively. Both of them find themselves halfway to a beautiful profile badge thanks to their placements. Full results for the contest can be found [here!](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results)
 
 ### Monthly Beatmapping Contest: April 2020
 
@@ -134,11 +134,11 @@ Another month, another monthly beatmapping contest! Head over to the [news post]
 
 ## Around the Community
 
-Another new section this month! All around the community. Whenever something interesting happens in the community which does not fit into any category above we will include that here. Should you have/know about something interesting that’s happening within the mapping community, do not hesitate to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it!
+Another new section this month! All around the community. Whenever something interesting happens in the community which does not fit into any category above we will include that here. Should you have/know about something interesting that’s happening within the mapping community, do not hesitate to let ::Feerum::{ user-id=4815717 } or [Noffy](https://osu.ppy.sh/users/1541323) know about it!
 
 ### The osu! Map Cast
 
-Starting up 2 months ago, there’s been a new podcast series hosted by [Cinnabun](https://osu.ppy.sh/users/11868659) titled the **osu! Map Cast**. This podcast is a series hosted on YouTube where Cinnabun talks with mappers, BNs, and NATs about their views on mapping, modding, and other related topics. With 9 episodes out and new episodes released weekly it will only further grow from here. In the episodes released so far, they’ve talked to the guests about osu! as well as their own personal experiences, so be sure to check it out if you want to learn something new or just want to listen to something osu! related. You can find out more about the osu! Map Cast [here](https://osu.ppy.sh/community/forums/topics/1043221)!
+Starting up 2 months ago, there’s been a new podcast series hosted by ::Cinnabun::{ user-id=11868659 } titled the **osu! Map Cast**. This podcast is a series hosted on YouTube where Cinnabun talks with mappers, BNs, and NATs about their views on mapping, modding, and other related topics. With 9 episodes out and new episodes released weekly it will only further grow from here. In the episodes released so far, they’ve talked to the guests about osu! as well as their own personal experiences, so be sure to check it out if you want to learn something new or just want to listen to something osu! related. You can find out more about the osu! Map Cast [here](https://osu.ppy.sh/community/forums/topics/1043221)!
 
 ### Community Mentorship
 

@@ -41,7 +41,7 @@ We proudly present to you, a selection of some of the finest music you'll ever h
     <source src="https://assets.ppy.sh/artists/727/previews/2014.mp3" type="audio/mpeg">
 </audio>
 
-### There's Gold Beneath Your Waltzing Rainbow (feat. [Mismagius](https://osu.ppy.sh/users/19048))
+### There's Gold Beneath Your Waltzing Rainbow (feat. ::Mismagius::{ user-id=19048 })
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/727/previews/shish.mp3" type="audio/mpeg">
@@ -53,7 +53,7 @@ As usual, all of the above are available right now from [**MillhioreF**'s Featur
 
 The hint guessing game this time was... astonishing, to say the least. Avid tweeter @jehlpxyz attempted some reality-warping investigative juju that nearly turned our beloved **MillhioreF** into an award-winning British power metal band, but this was stopped just in time by one of our twenty-seven interns tweeting out the counter-chant. Lucky save!
 
-We were so impressed by this herculean feat that we tracked down the person who owns the account and identified them as [jehlp](https://osu.ppy.sh/users/7568542), who we have now conscripted into the Beatmap Nominators. It goes without saying that such a galaxy brain cannot be allowed to exist outside of the BN for the safety of us all.
+We were so impressed by this herculean feat that we tracked down the person who owns the account and identified them as ::jehlp::{ user-id=7568542 }, who we have now conscripted into the Beatmap Nominators. It goes without saying that such a galaxy brain cannot be allowed to exist outside of the BN for the safety of us all.
 
 In other news, we've decided to double-up this week's release for *reasons*. Check back in a day or two for another highly vaunted Featured Artist release to tide you over, if for some reason the world's greatest folk musician just isn't enough for you. Keep an eye on the [@osugame Twitter](https://twitter.com/osugame) during the week, because we've got a lot going to kick off the month, including art contests and more!
 

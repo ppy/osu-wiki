@@ -15,20 +15,20 @@ Also check if the article matches with ASC. See #5729 for more informations -->
 
 ## Burai Sliders
 
-Nominator: [machol30](https://osu.ppy.sh/users/5772)
+Nominator: ::machol30::{ user-id=5772 }
 
 **Burai sliders** is a slider that completely overlaps itself without leaving room to notice that it has actually overlapped with the exception of the slider end.
 
 This pattern is unrankable due to the confusion it creates in terms of overall readability.
 On the contrary, if you do a similar pattern but leave it as a slight angle, it is rankable.
 
-This technique was named after the creator's former name, buraimaster1234 (now known as [machol30](https://osu.ppy.sh/users/5772)).
+This technique was named after the creator's former name, buraimaster1234 (now known as ::machol30::{ user-id=5772 }).
 
 ## Hold Sliders
 
 *Not to be confused with [Short Repeating Sliders](/wiki/Beatmapping/Mapping_techniques/Sliders#short-repeating-sliders).*
 
-Nominator: [Shinxyn](https://osu.ppy.sh/users/13996)
+Nominator: ::Shinxyn::{ user-id=13996 }
 
 Normal sliders that change speed normally use an inherited point of 0.5 or 2.0.
 On the other hand, **hold sliders** use an inherited point of 0.25 or even 0.125.

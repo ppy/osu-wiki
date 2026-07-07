@@ -13,7 +13,7 @@ Hailing from England, **PTB10** has been constructing his own blend of electroni
 
 **8** mindblowing tracks are at your doorstep and ready for mapping from [**PTB10**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/227).
 
-**PTB10** might be a new name to some osu! players, so you're lucky that [Altai](https://osu.ppy.sh/users/5745865) from the Mappers' Guild has prepared a showcase beatmap of [PTB10 - Starfall](https://osu.ppy.sh/beatmapsets/1648460). See how it looks when the cursor is replaced with a literal marble, then listen through the rest of the previews!
+**PTB10** might be a new name to some osu! players, so you're lucky that ::Altai::{ user-id=5745865 } from the Mappers' Guild has prepared a showcase beatmap of [PTB10 - Starfall](https://osu.ppy.sh/beatmapsets/1648460). See how it looks when the cursor is replaced with a literal marble, then listen through the rest of the previews!
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ Hailing from England, **PTB10** has been constructing his own blend of electroni
 
 ### Starfall
 
-Try [the map seen above](https://osu.ppy.sh/beatmapsets/1648460) hosted by [Altai](https://osu.ppy.sh/users/5745865)!
+Try [the map seen above](https://osu.ppy.sh/beatmapsets/1648460) hosted by ::Altai::{ user-id=5745865 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/227/Starfall/PTB10%20-%20Starfall.mp3" type="audio/mpeg">

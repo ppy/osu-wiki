@@ -59,4 +59,4 @@ L'[équipe de support aux comptes](/wiki/People/Account_support_team) examinera 
 ## Le saviez-vous ?
 
 - Le badge `BOT` est affiché sur les comptes avec un groupe principal de `Chat Bots` (groupe #29). La liste des membres du groupe n'est pas publique.
-- Quelques comptes personnels sont dans le groupe des bots de tchat car les propriétaires de ceux-ci ne souhaitaient pas ou n'avaient pas demandé à avoir un compte bot séparé pour leur service, par exemple ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) et ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454). Cette fonction n'est plus proposée, et tous les nouveaux bots rejoignant le groupe auront un compte bot séparé.
+- Quelques comptes personnels sont dans le groupe des bots de tchat car les propriétaires de ceux-ci ne souhaitaient pas ou n'avaient pas demandé à avoir un compte bot séparé pour leur service, par exemple ::{ flag=DE }:: ::Tillerino::{ user-id=2070907 } et ::{ flag=FR }:: ::ThePooN::{ user-id=718454 }. Cette fonction n'est plus proposée, et tous les nouveaux bots rejoignant le groupe auront un compte bot séparé.

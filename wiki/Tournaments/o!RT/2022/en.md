@@ -8,7 +8,7 @@ tags:
 
 ![RoCup 2022 logo](img/logo.png)
 
-The **Romanian osu! Cup 2022** (***RoCup 2022***) was a 1v1 double elimination osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), and ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626). Initially considered a standalone tournament, it has since been retroactively recognized as the 4th instalment of the [osu! Romania Tournament](/wiki/Tournaments/o!RT).
+The **Romanian osu! Cup 2022** (***RoCup 2022***) was a 1v1 double elimination osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: ::RatonGolzache::{ user-id=11649551 }, ::{ flag=RO }:: ::Teetoos::{ user-id=10065874 }, and ::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 }. Initially considered a standalone tournament, it has since been retroactively recognized as the 4th instalment of the [osu! Romania Tournament](/wiki/Tournaments/o!RT).
 
 ## Tournament schedule
 
@@ -39,13 +39,13 @@ The Romanian osu! Cup 2022 was run by various community members:
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626) |
-| Mappool selector | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645), ::{ flag=CA }:: [Takiaz](https://osu.ppy.sh/users/11177233), ::{ flag=PL }:: [cezgru](https://osu.ppy.sh/users/2629617) |
-| Streamer | ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=DE }:: [Knorke75](https://osu.ppy.sh/users/18125082) |
-| Commentator | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [HiRys Its IRys](https://osu.ppy.sh/users/18789828), ::{ flag=RO }:: [Skyblade1](https://osu.ppy.sh/users/4429612), ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [Kehest](https://osu.ppy.sh/users/6145000) |
-| Designer | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040), ::{ flag=SE }:: [Velle](https://osu.ppy.sh/users/12849926), ::{ flag=IN }:: [shreya7](https://osu.ppy.sh/users/16676388), ::{ flag=FI }:: [zMici](https://osu.ppy.sh/users/7807368), ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) |
-| Referee | ::{ flag=RO }:: [calancis](https://osu.ppy.sh/users/7980091), ::{ flag=RO }:: [Lernaeus](https://osu.ppy.sh/users/9703390), ::{ flag=BY }:: [RemTouk](https://osu.ppy.sh/users/11558544), ::{ flag=IN }:: [ArtoriaMyAngel](https://osu.ppy.sh/users/11412507), ::{ flag=RO }:: [STRYKEX](https://osu.ppy.sh/users/15799234), ::{ flag=HK }:: [pedeko](https://osu.ppy.sh/users/8645133), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040) |
-| Sheet Manager | ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
+| Host | ::{ flag=RO }:: ::RatonGolzache::{ user-id=11649551 }, ::{ flag=RO }:: ::Teetoos::{ user-id=10065874 }, ::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 } |
+| Mappool selector | ::{ flag=PL }:: ::Bartek22830::{ user-id=6404027 }, ::{ flag=GR }:: ::JackPaX::{ user-id=11226645 }, ::{ flag=CA }:: ::Takiaz::{ user-id=11177233 }, ::{ flag=PL }:: ::cezgru::{ user-id=2629617 } |
+| Streamer | ::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 }, ::{ flag=RO }:: ::Teetoos::{ user-id=10065874 }, ::{ flag=DE }:: ::Knorke75::{ user-id=18125082 } |
+| Commentator | ::{ flag=RO }:: ::Teetoos::{ user-id=10065874 }, ::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 }, ::{ flag=RO }:: ::RatonGolzache::{ user-id=11649551 }, ::{ flag=RO }:: ::HiRys Its IRys::{ user-id=18789828 }, ::{ flag=RO }:: ::Skyblade1::{ user-id=4429612 }, ::{ flag=RO }:: ::eternum::{ user-id=4581069 }, ::{ flag=RO }:: ::Kehest::{ user-id=6145000 } |
+| Designer | ::{ flag=FI }:: ::Aetherian::{ user-id=6263040 }, ::{ flag=SE }:: ::Velle::{ user-id=12849926 }, ::{ flag=IN }:: ::shreya7::{ user-id=16676388 }, ::{ flag=FI }:: ::zMici::{ user-id=7807368 }, ::{ flag=PL }:: ::Redo\1::{ user-id=7122165 } |
+| Referee | ::{ flag=RO }:: ::calancis::{ user-id=7980091 }, ::{ flag=RO }:: ::Lernaeus::{ user-id=9703390 }, ::{ flag=BY }:: ::RemTouk::{ user-id=11558544 }, ::{ flag=IN }:: ::ArtoriaMyAngel::{ user-id=11412507 }, ::{ flag=RO }:: ::STRYKEX::{ user-id=15799234 }, ::{ flag=HK }:: ::pedeko::{ user-id=8645133 }, ::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user-id=12609866 }, ::{ flag=FI }:: ::Aetherian::{ user-id=6263040 } |
+| Sheet Manager | ::{ flag=VN }:: ::rock-on::{ user-id=9676089 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user-id=12609866 } |
 
 ## Links
 
@@ -58,10 +58,10 @@ The Romanian osu! Cup 2022 was run by various community members:
 
 | Seed | Players |
 | :-- | :-- |
-| 1-8 | ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351), ::{ flag=RO }:: [SatonoDiamond](https://osu.ppy.sh/users/12366071), ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890), ::{ flag=RO }:: [Lalisa](https://osu.ppy.sh/users/10778261), ::{ flag=RO }:: [cristi2708](https://osu.ppy.sh/users/7552300), ::{ flag=RO }:: [Chiu](https://osu.ppy.sh/users/3148900), ::{ flag=RO }:: [Kehest](https://osu.ppy.sh/users/6145000) |
-| 9-16 | ::{ flag=RO }:: [HowlPleb](https://osu.ppy.sh/users/15995105), ::{ flag=RO }:: [Ninja Fail](https://osu.ppy.sh/users/9517058), ::{ flag=RO }:: [LuchiBuchi](https://osu.ppy.sh/users/10897656), ::{ flag=RO }:: [Nature angel](https://osu.ppy.sh/users/16555513), ::{ flag=RO }:: [ent](https://osu.ppy.sh/users/10261883), ::{ flag=RO }:: [KoleciAlexandru](https://osu.ppy.sh/users/7352365), ::{ flag=RO }:: [L9 MATEIUT](https://osu.ppy.sh/users/14774102), ::{ flag=RO }:: [Paato](https://osu.ppy.sh/users/9390417) |
-| 17-24 | ::{ flag=RO }:: [gadzzaa](https://osu.ppy.sh/users/14367771), ::{ flag=RO }:: [\_Silvian](https://osu.ppy.sh/users/8511882), ::{ flag=RO }:: [Shrikyun](https://osu.ppy.sh/users/21644645), ::{ flag=RO }:: [[dUwUb]](https://osu.ppy.sh/users/13132294), ::{ flag=RO }:: [Slato](https://osu.ppy.sh/users/6275784), ::{ flag=RO }:: [A-XLE](https://osu.ppy.sh/users/12487373), ::{ flag=RO }:: [Mely06](https://osu.ppy.sh/users/23629406), ::{ flag=RO }:: [zhuqing](https://osu.ppy.sh/users/14575641) |
-| 25-32 | ::{ flag=RO }:: [Teikem](https://osu.ppy.sh/users/16357854), ::{ flag=RO }:: [My Angel vuru](https://osu.ppy.sh/users/8244518), ::{ flag=RO }:: [AlexBelea](https://osu.ppy.sh/users/19430137), ::{ flag=RO }:: [IIANTONIOII](https://osu.ppy.sh/users/12274213), ::{ flag=RO }:: [bossuromaniei](https://osu.ppy.sh/users/19994316), ::{ flag=RO }:: [Acey Pacey](https://osu.ppy.sh/users/13590474), ::{ flag=RO }:: [Florin_Kon](https://osu.ppy.sh/users/10144817), ::{ flag=RO }:: [Deephjk](https://osu.ppy.sh/users/14299935) |
+| 1-8 | ::{ flag=RO }:: ::Lucrise::{ user-id=9719351 }, ::{ flag=RO }:: ::SatonoDiamond::{ user-id=12366071 }, ::{ flag=RO }:: ::eternum::{ user-id=4581069 }, ::{ flag=RO }:: ::badeu::{ user-id=1473890 }, ::{ flag=RO }:: ::Lalisa::{ user-id=10778261 }, ::{ flag=RO }:: ::cristi2708::{ user-id=7552300 }, ::{ flag=RO }:: ::Chiu::{ user-id=3148900 }, ::{ flag=RO }:: ::Kehest::{ user-id=6145000 } |
+| 9-16 | ::{ flag=RO }:: ::HowlPleb::{ user-id=15995105 }, ::{ flag=RO }:: ::Ninja Fail::{ user-id=9517058 }, ::{ flag=RO }:: ::LuchiBuchi::{ user-id=10897656 }, ::{ flag=RO }:: ::Nature angel::{ user-id=16555513 }, ::{ flag=RO }:: ::ent::{ user-id=10261883 }, ::{ flag=RO }:: ::KoleciAlexandru::{ user-id=7352365 }, ::{ flag=RO }:: ::L9 MATEIUT::{ user-id=14774102 }, ::{ flag=RO }:: ::Paato::{ user-id=9390417 } |
+| 17-24 | ::{ flag=RO }:: ::gadzzaa::{ user-id=14367771 }, ::{ flag=RO }:: ::\_Silvian::{ user-id=8511882 }, ::{ flag=RO }:: ::Shrikyun::{ user-id=21644645 }, ::{ flag=RO }:: ::\1dUwUb\1::{ user-id=13132294 }, ::{ flag=RO }:: ::Slato::{ user-id=6275784 }, ::{ flag=RO }:: ::A-XLE::{ user-id=12487373 }, ::{ flag=RO }:: ::Mely06::{ user-id=23629406 }, ::{ flag=RO }:: ::zhuqing::{ user-id=14575641 } |
+| 25-32 | ::{ flag=RO }:: ::Teikem::{ user-id=16357854 }, ::{ flag=RO }:: ::My Angel vuru::{ user-id=8244518 }, ::{ flag=RO }:: ::AlexBelea::{ user-id=19430137 }, ::{ flag=RO }:: ::IIANTONIOII::{ user-id=12274213 }, ::{ flag=RO }:: ::bossuromaniei::{ user-id=19994316 }, ::{ flag=RO }:: ::Acey Pacey::{ user-id=13590474 }, ::{ flag=RO }:: ::Florin\1Kon::{ user-id=10144817 }, ::{ flag=RO }:: ::Deephjk::{ user-id=14299935 } |
 
 ## Podium
 
@@ -69,9 +69,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: [SatonoDiamond](https://osu.ppy.sh/users/12366071) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=RO }:: ::badeu::{ user-id=1473890 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: ::SatonoDiamond::{ user-id=12366071 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RO }:: ::eternum::{ user-id=4581069 } |
 
 ## Mappools
 

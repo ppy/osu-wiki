@@ -17,7 +17,7 @@ Japanese producer **NIWASHI** is known for their extensive collection of artcore
 
 **14** staggering tracks. One fantastic beatmapper (that's you). Get started already by finding your favourite track from [**NIWASHI**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/228) and opening its beatmap template in the editor.
 
-The complexity and density of these tracks perfectly lends to novel beatmaps, as made clear through [Down](https://osu.ppy.sh/users/4694602)'s iconic beatmap of [Playing With Ruby](https://osu.ppy.sh/beatmapsets/1306570). See the map's rank \#1 and \#2 scores in the video below, then check out the rest of what's up for grabs:
+The complexity and density of these tracks perfectly lends to novel beatmaps, as made clear through ::Down::{ user-id=4694602 }'s iconic beatmap of [Playing With Ruby](https://osu.ppy.sh/beatmapsets/1306570). See the map's rank \#1 and \#2 scores in the video below, then check out the rest of what's up for grabs:
 
 <div align="center">
     <video width="100%" controls>
@@ -29,9 +29,9 @@ The complexity and density of these tracks perfectly lends to novel beatmaps, as
 
 Try out one of these super cool maps:
 
-- [osu! mapset](https://osu.ppy.sh/beatmapsets/1306570) hosted by [Down](https://osu.ppy.sh/users/4694602) as seen in the video above
-- [Loved osu! mapset](https://osu.ppy.sh/beatmapsets/1178229) hosted by [CallieCube](https://osu.ppy.sh/users/7535045)
-- [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1328323) hosted by [Cychloryn](https://osu.ppy.sh/users/6921736)
+- [osu! mapset](https://osu.ppy.sh/beatmapsets/1306570) hosted by ::Down::{ user-id=4694602 } as seen in the video above
+- [Loved osu! mapset](https://osu.ppy.sh/beatmapsets/1178229) hosted by ::CallieCube::{ user-id=7535045 }
+- [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1328323) hosted by ::Cychloryn::{ user-id=6921736 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/228/Songs/NIWASHI%20-%20Playing%20with%20Ruby.mp3" type="audio/mpeg">

@@ -33,7 +33,7 @@ Read and watch the [detailed match summaries further below](#grand-finals-recap)
 
 We would like to thank the mappool selectors for their hard work this year. Together with the mappers and playtesters, they worked on the best possible quality for everyone. This doesn't only include choosing maps, but also mapping them and giving specifications to our amazing artists this year.
 
-Meet ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), a longstanding contributor to pooling, mapping and playtesting for the osu!taiko World Cups. Unfortunately, he is retiring from his mappool selector position going forward, so we took the chance and asked for a few insights. Answers that we **and** you always wanted to know, now you get to chance to learn more!
+Meet ::{ flag=SE }:: ::Raphalge::{ user-id=3918650 }, a longstanding contributor to pooling, mapping and playtesting for the osu!taiko World Cups. Unfortunately, he is retiring from his mappool selector position going forward, so we took the chance and asked for a few insights. Answers that we **and** you always wanted to know, now you get to chance to learn more!
 
 <style>
     .news-chat-quote__avatar {
@@ -97,7 +97,7 @@ At the end of the line, the Sunday of TWC 2025's Grand Finals weekend brought us
 
 Winning the roll, Japan picked [HYKARVS - No matter What](https://osu.ppy.sh/beatmapsets/2358328#taiko/5080882) (NM2), but got an early scare, as Korea's lower accuracy barely offset their lower misscount and Japan held their first pick by a tight margin of 6,523! This turned out to be the first close call of many, with Korea's choice of [rusino - Debug Drug](https://osu.ppy.sh/beatmapsets/2358248#taiko/5080742) (FM1) also going to Japan by 10,004 score, with both teams taking incredible risks using 5 mods each on the brutal freemod.
 
-Now 2–0 up, Japan seemed to hit their stride, winning [96-glass - Contradiction](https://osu.ppy.sh/beatmapsets/2358205#taiko/5080602) (NM6) by 85,892 thanks in part to ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196)'s mind-blowing 99.88% full combo, and breaking Korea again despite their reading prowess on [Jane Remover - Psychoboost ft danny brown](https://osu.ppy.sh/beatmapsets/2358227#taiko/5080666) (FM2) by another not-so-narrow margin. However, just when everyone thought the procession was starting, Japan picked [AVTechNO!xTreow - DYE/Re:flection+](https://osu.ppy.sh/beatmapsets/1019970#taiko/2134290) (DT1).
+Now 2–0 up, Japan seemed to hit their stride, winning [96-glass - Contradiction](https://osu.ppy.sh/beatmapsets/2358205#taiko/5080602) (NM6) by 85,892 thanks in part to ::{ flag=JP }:: ::\1Kan2::{ user-id=7160196 }'s mind-blowing 99.88% full combo, and breaking Korea again despite their reading prowess on [Jane Remover - Psychoboost ft danny brown](https://osu.ppy.sh/beatmapsets/2358227#taiko/5080666) (FM2) by another not-so-narrow margin. However, just when everyone thought the procession was starting, Japan picked [AVTechNO!xTreow - DYE/Re:flection+](https://osu.ppy.sh/beatmapsets/1019970#taiko/2134290) (DT1).
 
 Japan has always been considered the strongest Double Time team, even more so than similar contenders for other mod brackets, on account of their sheer accuracy, especially in the later rounds when other teams start to struggle. After all these years, they've seemed to find an equal in a Korean team that mounted a last-second comeback, only to fall within an agonising 501 score of a break point. If anyone thought Japan was truly safe in this matchup, this point proved them wrong. The very end of this map was especially nerve-wracking:
 
@@ -105,7 +105,7 @@ Japan has always been considered the strongest Double Time team, even more so th
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&time=0h35m38s&video=2444004606" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Rather than get nervous from the sheer closeness of so many picks, however, Japan proceeded to take Korea's next pick of [tosho_aTe - Shizume Chiku Zensen](https://osu.ppy.sh/beatmapsets/2268539#taiko/4831238) (HD1) and wipe the floor with it, a relatively relaxing 145-thousand-point victory headed by ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073). The Japanese captain, known for being the best slow Hidden player in the world, overcame all nerves and all difficulty to flex the rare Grand Finals SS rank, achieving the maximum possible score on South Korea’s final pick. In what's become a pattern now, Japan proceeded to pick a mechanics-based map in [CyoucyoP feat.Hatsune Miku - End of the World](https://osu.ppy.sh/beatmapsets/215476#taiko/506018) (DT2), and win, closing out their 12th straight TWC victory in a sweep... by 5,158 points, with Korea closing the lead to triple digits for a brief moment in the final seconds.
+Rather than get nervous from the sheer closeness of so many picks, however, Japan proceeded to take Korea's next pick of [tosho_aTe - Shizume Chiku Zensen](https://osu.ppy.sh/beatmapsets/2268539#taiko/4831238) (HD1) and wipe the floor with it, a relatively relaxing 145-thousand-point victory headed by ::{ flag=JP }:: ::Grape\1Tea::{ user-id=9540073 }. The Japanese captain, known for being the best slow Hidden player in the world, overcame all nerves and all difficulty to flex the rare Grand Finals SS rank, achieving the maximum possible score on South Korea’s final pick. In what's become a pattern now, Japan proceeded to pick a mechanics-based map in [CyoucyoP feat.Hatsune Miku - End of the World](https://osu.ppy.sh/beatmapsets/215476#taiko/506018) (DT2), and win, closing out their 12th straight TWC victory in a sweep... by 5,158 points, with Korea closing the lead to triple digits for a brief moment in the final seconds.
 
 There's a lot to be said about this match that the final score alone would never tell: although Japan won 7–0, many spectators remarked that it could very well have been 3–4 or even 2–5 in South Korea's favour after 7 maps, and it's not hard to see where that idea comes from with the knife-edge so many picks were balanced on. South Korea's performance this year was truly something special, and they should be commended as such, but at the end of it all, tournaments are won by the team with the higher scores, and even if the gaps were far smaller than usual, that team in 2025 was still Japan.
 
@@ -335,7 +335,7 @@ Fraser and friends also released a music video for the song filmed in a nuclear 
 
 ![](/wiki/shared/news/2025-05-04-osutaiko-world-cup-concludes/Coppertine.png)
 
-For TWC 2025, [Coppertine](https://osu.ppy.sh/users/7279762) was responsible for the storyboard creation of the Grand Finals tiebreaker BUZZ CUTZ, which stands as the longest osu! original ever featured in World Cups. Her previous contributions span across multiple World Cups, including the storyboard for *Operation: Zenithfall* in OWC 2024.
+For TWC 2025, ::Coppertine::{ user-id=7279762 } was responsible for the storyboard creation of the Grand Finals tiebreaker BUZZ CUTZ, which stands as the longest osu! original ever featured in World Cups. Her previous contributions span across multiple World Cups, including the storyboard for *Operation: Zenithfall* in OWC 2024.
 
 ---
 
@@ -351,9 +351,9 @@ Many in the storyboarding and mapping scene are familiar with your work, but for
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7279762">Coppertine</a></p>
 
-Yo! I am Coppertine, I have been a storyboarder since 2016 and have made various storyboards over the time. People may know of me as the storyboarder of [wafer](https://osu.ppy.sh/users/9416836)'s infamous map [Uncanny long arms](https://osu.ppy.sh/beatmapsets/2094154#osu/4390731). I have also worked alongside [Enkrypton](https://osu.ppy.sh/users/5178122) for CWC 2024's Grand Finals NM2 pick of [WangleLine](https://osu.ppy.sh/beatmaps/artists/427)'s [Journey to the rabbit moon base](https://osu.ppy.sh/beatmapsets/2202809#fruits/5042330), and the OWC 2024 Grand Finals tiebreaker pick of [Camellia](https://osu.ppy.sh/beatmaps/artists/31)'s [Operation: Zenithfall](https://osu.ppy.sh/beatmapsets/2287992#osu/4881796) alongside Enkrypton, [VenerableNyanta](https://osu.ppy.sh/users/12243368) and [Noffy](https://osu.ppy.sh/users/1541323).
+Yo! I am Coppertine, I have been a storyboarder since 2016 and have made various storyboards over the time. People may know of me as the storyboarder of ::wafer::{ user-id=9416836 }'s infamous map [Uncanny long arms](https://osu.ppy.sh/beatmapsets/2094154#osu/4390731). I have also worked alongside ::Enkrypton::{ user-id=5178122 } for CWC 2024's Grand Finals NM2 pick of [WangleLine](https://osu.ppy.sh/beatmaps/artists/427)'s [Journey to the rabbit moon base](https://osu.ppy.sh/beatmapsets/2202809#fruits/5042330), and the OWC 2024 Grand Finals tiebreaker pick of [Camellia](https://osu.ppy.sh/beatmaps/artists/31)'s [Operation: Zenithfall](https://osu.ppy.sh/beatmapsets/2287992#osu/4881796) alongside Enkrypton, ::VenerableNyanta::{ user-id=12243368 } and [Noffy](https://osu.ppy.sh/users/1541323).
 
-I normally create with [storybrew](https://github.com/Damnae/storybrew/), a C# based storyboard creation tool from the wonderful [Damnae](https://osu.ppy.sh/users/989377), to enhance the experience of the beatmap whilst ensuring my storyboard creations can be enjoyed by many with a focus on storytelling and atmospheric styles in mind.
+I normally create with [storybrew](https://github.com/Damnae/storybrew/), a C# based storyboard creation tool from the wonderful ::Damnae::{ user-id=989377 }, to enhance the experience of the beatmap whilst ensuring my storyboard creations can be enjoyed by many with a focus on storytelling and atmospheric styles in mind.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
@@ -369,9 +369,9 @@ Gaining a sense of the visual process for this project wasn't easy, especially w
 
 Even with that in mind, we were pretty quick to gain tonnes of ideas. In fact, my first ever idea when I checked out the song was that I wanted some form of a black and white strobing effect within the song. Other than that, we essentially went off with the brief of a simple male character with a blue themed storyboard about self-identity and music creation.
 
-First thing we did was a simple VC call where the team brainstormed ideas and an overall storyline for the visual side of the song. We started with the character design of Tatsuma, where [Celestial](https://osu.ppy.sh/users/9108428) and [Hiro](https://osu.ppy.sh/users/15251809) drew multiple sketches. Those sketches were further refined in the following weeks. At the same time, [Kuroise](https://osu.ppy.sh/users/14547127) started off by writing story beats for each section of the storyboard.
+First thing we did was a simple VC call where the team brainstormed ideas and an overall storyline for the visual side of the song. We started with the character design of Tatsuma, where ::Celestial::{ user-id=9108428 } and [Hiro](https://osu.ppy.sh/users/15251809) drew multiple sketches. Those sketches were further refined in the following weeks. At the same time, ::Kuroise::{ user-id=14547127 } started off by writing story beats for each section of the storyboard.
 
-As the illustrations were being produced, [Iyouka](https://osu.ppy.sh/users/7138499) worked on a lyrics text overlay for [CrewK](https://osu.ppy.sh/users/11488604)'s cyan abstract-like animation that [Sakura006](https://osu.ppy.sh/users/10365024) composited all together in a 3D LED screen style video for the intro. Luckily, I created a little effect that acted like the LED backlights that helped compliment the video and allowed others to use the video at full resolution on their own beatmaps.
+As the illustrations were being produced, ::Iyouka::{ user-id=7138499 } worked on a lyrics text overlay for ::CrewK::{ user-id=11488604 }'s cyan abstract-like animation that ::Sakura006::{ user-id=10365024 } composited all together in a 3D LED screen style video for the intro. Luckily, I created a little effect that acted like the LED backlights that helped compliment the video and allowed others to use the video at full resolution on their own beatmaps.
 
 Throughout development of the storyboard, a lot of scenes were revised. For example, one major section that had to be toned down a lot was what I internally call the "[flashing section (Epilepsy Warning)](https://www.youtube.com/watch?v=4K-ruOYQTss)". Found 8 and a half minutes in, it was an extremely simple scene with Tatsuma and the background both flashing through 4 different states with overlay segments throughout. However, upon initial feedback, the frame rate had to be lowered in half and was given a aqua colour tint to make the scene a lot less harmful to the eyes.
 
@@ -397,7 +397,7 @@ Altogether, I felt that we as a team have made designs that is both cohesive and
 
 ![](/wiki/shared/news/2025-05-04-osutaiko-world-cup-concludes/chibamasu.png)
 
-[chibamasu](https://osu.ppy.sh/users/16067522) was a member of Team Chile, which placed 4th in this year's osu!taiko World Cup alongside their teammates.
+::chibamasu::{ user-id=16067522 } was a member of Team Chile, which placed 4th in this year's osu!taiko World Cup alongside their teammates.
 
 ---
 

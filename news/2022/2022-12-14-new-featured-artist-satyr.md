@@ -15,7 +15,7 @@ Progressive rock band **Satyr** brings a new type of complexity, showcasing unor
 
 **5** uncontrollable tracks have been unleashed on [**Satyr**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/328), each accompanied by a handy set of timing points.
 
-You need to hear **Satyr** to truly understand what the hype is all about. Check out [Topoi](https://osu.ppy.sh/users/6157605) play through this brand-new map of [Picayune](https://osu.ppy.sh/beatmapsets/1902228), then look through the rest of what's available:
+You need to hear **Satyr** to truly understand what the hype is all about. Check out ::Topoi::{ user-id=6157605 } play through this brand-new map of [Picayune](https://osu.ppy.sh/beatmapsets/1902228), then look through the rest of what's available:
 
 <div align="center">
     <video width="100%" controls>
@@ -25,7 +25,7 @@ You need to hear **Satyr** to truly understand what the hype is all about. Check
 
 ### Satyr - Picayune
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1902228) hosted by metal mapping legend [Blood9](https://osu.ppy.sh/users/11214999)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1902228) hosted by metal mapping legend ::Blood9::{ user-id=11214999 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/328/Totem/Satyr%20-%20Picayune.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1902228)
 
 ### Satyr - Levitator
 
-Or check out [this massive mapset](https://osu.ppy.sh/beatmapsets/1520317) hosted by [IllusionB](https://osu.ppy.sh/users/13292488) featuring guest difficulties from [flake](https://osu.ppy.sh/users/7627157), [Zoli](https://osu.ppy.sh/users/7641573), [Zetera](https://osu.ppy.sh/users/587737), [LMT](https://osu.ppy.sh/users/7262798), and [ItsWinter](https://osu.ppy.sh/users/6381153)!
+Or check out [this massive mapset](https://osu.ppy.sh/beatmapsets/1520317) hosted by ::IllusionB::{ user-id=13292488 } featuring guest difficulties from ::flake::{ user-id=7627157 }, [Zoli](https://osu.ppy.sh/users/7641573), ::Zetera::{ user-id=587737 }, [LMT](https://osu.ppy.sh/users/7262798), and ::ItsWinter::{ user-id=6381153 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/328/Locus/Satyr%20-%20Levitator.mp3" type="audio/mpeg">

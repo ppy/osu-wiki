@@ -8,7 +8,7 @@ tags:
 
 ![CFB 6 logo](img/logo.jpg)
 
-La **Catch French Beginner 6** (***CFB 6***) était un tournoi osu!catch débutant français à double élimination en 1v1 organisé par ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) et ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). Les joueurs français classés entre 3 500 et moins ont pu participer. C'était la sixième édition de la Catch French Beginner.
+La **Catch French Beginner 6** (***CFB 6***) était un tournoi osu!catch débutant français à double élimination en 1v1 organisé par ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 } et ::{ flag=FR }:: ::Laffey Gaming::{ user-id=5122949 }. Les joueurs français classés entre 3 500 et moins ont pu participer. C'était la sixième édition de la Catch French Beginner.
 
 ## Dates du tournoi
 
@@ -40,14 +40,14 @@ La Catch French Beginner 6 était organisée par différents membres de la commu
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Organisateur | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949) |
-| Mapsetter | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| Arbitre | ::{ flag=FR }:: [bambinex](https://osu.ppy.sh/users/18818124), ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=AT }:: [Mashiro Mama](https://osu.ppy.sh/users/10415976), ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990), ::{ flag=FR }:: [Taevas](https://osu.ppy.sh/users/7276846) |
-| Streamer | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Bebar](https://osu.ppy.sh/users/12584928), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167) |
-| Commentateur | ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732), ::{ flag=FR }:: [Kitsuka](https://osu.ppy.sh/users/10334943), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| Designer | ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) |
-| Statisticien | ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949) |
-| Rédacteur du wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organisateur | ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::Laffey Gaming::{ user-id=5122949 } |
+| Mapsetter | ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::Holloh::{ user-id=7612994 }, ::{ flag=FR }:: ::Kasumi-sama::{ user-id=6177263 }, ::{ flag=FR }:: ::Natsuko::{ user-id=8266817 }, ::{ flag=FR }:: ::Realmas::{ user-id=6567640 }, ::{ flag=FR }:: ::Yruama::{ user-id=8221467 } |
+| Arbitre | ::{ flag=FR }:: ::bambinex::{ user-id=18818124 }, ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::Jielefe::{ user-id=15334170 }, ::{ flag=AT }:: ::Mashiro Mama::{ user-id=10415976 }, ::{ flag=FR }:: ::Laffey Gaming::{ user-id=5122949 }, ::{ flag=FR }:: ::Pizou::{ user-id=9475990 }, ::{ flag=FR }:: ::Taevas::{ user-id=7276846 } |
+| Streamer | ::{ flag=FR }:: ::AiNA::{ user-id=4426908 }, ::{ flag=FR }:: ::Bebar::{ user-id=12584928 }, ::{ flag=FR }:: ::Jielefe::{ user-id=15334170 }, ::{ flag=FR }:: ::Noctalium::{ user-id=6488167 } |
+| Commentateur | ::{ flag=FR }:: ::\_Manyura::{ user-id=8335913 }, ::{ flag=FR }:: ::AiNA::{ user-id=4426908 }, ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::Jielefe::{ user-id=15334170 }, ::{ flag=FR }:: ::JunkoAndHiro::{ user-id=14004732 }, ::{ flag=FR }:: ::Kitsuka::{ user-id=10334943 }, ::{ flag=FR }:: ::MitsukeZ::{ user-id=12943161 }, ::{ flag=FR }:: ::Yruama::{ user-id=8221467 } |
+| Designer | ::{ flag=FR }:: ::Jielefe::{ user-id=15334170 }, ::{ flag=CA }:: ::Zyoulou::{ user-id=8668722 } |
+| Statisticien | ::{ flag=FR }:: ::Laffey Gaming::{ user-id=5122949 } |
+| Rédacteur du wiki | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Liens
 
@@ -61,10 +61,10 @@ La Catch French Beginner 6 était organisée par différents membres de la commu
 
 | Seed | Membres |
 | :-- | :-- |
-| Top | ::{ flag=BE }:: [Kuzuyo](https://osu.ppy.sh/users/18277357), ::{ flag=FR }:: [RexyChann](https://osu.ppy.sh/users/16965749), ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606), ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732) |
-| High | ::{ flag=FR }:: [\_\_\_\_\_\_\_\_\_\_\_\_](https://osu.ppy.sh/users/6973354), ::{ flag=FR }:: [Issuko](https://osu.ppy.sh/users/11447466), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Utopsia](https://osu.ppy.sh/users/11080305) |
-| Low | ::{ flag=FR }:: [Gibralti](https://osu.ppy.sh/users/14824174), ::{ flag=FR }:: [MRkayle](https://osu.ppy.sh/users/8296712), ::{ flag=FR }:: [Firelex](https://osu.ppy.sh/users/13235008), ::{ flag=FR }:: [leeiplo](https://osu.ppy.sh/users/11353650) |
-| Unseeded | ::{ flag=FR }:: [MissFlufly](https://osu.ppy.sh/users/13979291) |
+| Top | ::{ flag=BE }:: ::Kuzuyo::{ user-id=18277357 }, ::{ flag=FR }:: ::RexyChann::{ user-id=16965749 }, ::{ flag=FR }:: ::iron-wish::{ user-id=12264606 }, ::{ flag=FR }:: ::JunkoAndHiro::{ user-id=14004732 } |
+| High | ::{ flag=FR }:: ::\_\_\_\_\_\_\_\_\_\_\_\_::{ user-id=6973354 }, ::{ flag=FR }:: ::Issuko::{ user-id=11447466 }, ::{ flag=FR }:: ::Mimir::{ user-id=7382734 }, ::{ flag=FR }:: ::Utopsia::{ user-id=11080305 } |
+| Low | ::{ flag=FR }:: ::Gibralti::{ user-id=14824174 }, ::{ flag=FR }:: ::MRkayle::{ user-id=8296712 }, ::{ flag=FR }:: ::Firelex::{ user-id=13235008 }, ::{ flag=FR }:: ::leeiplo::{ user-id=11353650 } |
+| Unseeded | ::{ flag=FR }:: ::MissFlufly::{ user-id=13979291 } |
 
 ## Podium
 
@@ -72,9 +72,9 @@ Cette compétition s'est conclue sur le podium suivant :
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: [\_\_\_\_\_\_\_\_\_\_\_\_](https://osu.ppy.sh/users/6973354) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=FR }:: ::JunkoAndHiro::{ user-id=14004732 } |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=FR }:: ::iron-wish::{ user-id=12264606 } |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: ::\_\_\_\_\_\_\_\_\_\_\_\_::{ user-id=6973354 } |
 
 ## Liste des beatmaps
 

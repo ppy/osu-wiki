@@ -37,7 +37,7 @@ Les membres de l'équipe du Project Loved reçoivent un [badge de profil](/wiki/
 
 ## Le saviez-vous ?
 
-- ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) a créé l'équipe originelle de capitaines en septembre 2017 ainsi que le système [Captain's Pick](/wiki/History_of_osu!/History_of_Loved#captain's-pick-et-project-loved-(septembre-2017---présent)) qui a ensuite été renommé Project Loved. Jusqu'à fin 2019, il a supervisé et géré l'ensemble du projet.
+- ::{ flag=US }:: ::Toy::{ user-id=2757689 } a créé l'équipe originelle de capitaines en septembre 2017 ainsi que le système [Captain's Pick](/wiki/History_of_osu!/History_of_Loved#captain's-pick-et-project-loved-(septembre-2017---présent)) qui a ensuite été renommé Project Loved. Jusqu'à fin 2019, il a supervisé et géré l'ensemble du projet.
 - Avant le 28 avril 2021, la [page du groupe Project Loved](https://osu.ppy.sh/groups/31) n'était pas publique et n'était utilisée qu'à des fins administratives. Elle est maintenant accessible au public.
-- Jusqu'au 16 avril 2021, les seules personnes qui faisaient partie du groupe étaient ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237), ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707), et ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689). Maintenant, tous les utilisateurs faisant partie de la Project Loved Team appartiennent au groupe.
+- Jusqu'au 16 avril 2021, les seules personnes qui faisaient partie du groupe étaient ::{ flag=US }:: ::clayton::{ user-id=3666350 }, ::{ flag=LT }:: ::huu::{ user-id=6044237 }, ::{ flag=SG }:: ::Shoegazer::{ user-id=2520707 }, et ::{ flag=US }:: ::Toy::{ user-id=2757689 }. Maintenant, tous les utilisateurs faisant partie de la Project Loved Team appartiennent au groupe.
 - À partir du 28 avril 2023, les membres de l'équipe se voient attribuer des badges en fonction de leur ancienneté dans l'équipe.

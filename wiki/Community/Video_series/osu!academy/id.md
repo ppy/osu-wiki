@@ -10,7 +10,7 @@ outdated_translation: true
 **osu!academy** memiliki tujuan untuk memberikan pandangan lengkap terhadap semua aspek osu!, mulai dari cara bermain hingga mapping dan segala sesuatu yang ada di dalamnya.
 
 Kami berharap pemain baru dapat menemukan video informatif ini sehingga membantu para pemain dalam mempelajari hal-hal yang mendasar dari permainan ini.
-Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot](https://osu.ppy.sh/users/6347), dia adalah pemilik satu-satunya osu!academy bersamaan dengan channel YouTube-nya.
+Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada ::ztrot::{ user-id=6347 }, dia adalah pemilik satu-satunya osu!academy bersamaan dengan channel YouTube-nya.
 
 [Berikut merupakan trailernya](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg).
 

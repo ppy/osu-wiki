@@ -13,7 +13,7 @@ Hailing from New York, **Candle** has been spewing EDM tunes for years, inspired
 
 [**Candle**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/431) has pre-timed beatmap templates for **8** songs, one (or all) of which are bound to become your next map.
 
-Somehow every one of [\[FL\]ash](https://osu.ppy.sh/users/3756437)'s top plays use the Flashlight mod. See how that pairs with one of **Candle**'s songs down here:
+Somehow every one of ::\[FL\]ash::{ user-id=3756437 }'s top plays use the Flashlight mod. See how that pairs with one of **Candle**'s songs down here:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ Somehow every one of [\[FL\]ash](https://osu.ppy.sh/users/3756437)'s top plays u
 
 ### Candle - Dust Powered Sniper Rifle
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/2129710) hosted by [Irone OSU](https://osu.ppy.sh/users/10678230)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/2129710) hosted by ::Irone OSU::{ user-id=10678230 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/431/Dust%20Powered%20Sniper%20Rifle/Candle%20-%20Dust%20Powered%20Sniper%20Rifle.mp3">

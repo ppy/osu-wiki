@@ -12,7 +12,7 @@ Also check if the article matches with ASC. See #5729 for more informations -->
 This article is a how-to on making good sliders.
 In the most basic form, all you need is a [bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve).
 
-From [Ephemeral](https://osu.ppy.sh/users/102335),
+From ::Ephemeral::{ user-id=102335 },
 
 > always align slider endpoints to the smallest possible value - that is, if you drag them any further backwards, the slider will shorten. the point will centre itself in the slider end and will make attaining passable curves much easier to accomplish.
 
@@ -66,7 +66,7 @@ Keep in mind that if you want a slider to blanket **and** be perfectly symmetric
 
 ---
 
-From [Gonzvlo](https://osu.ppy.sh/users/237733),
+From ::Gonzvlo::{ user-id=237733 },
 
 > as a variation of beat blankets, sometimes I use a spinner to make nice circles.
 

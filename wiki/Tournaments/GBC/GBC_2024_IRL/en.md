@@ -11,7 +11,7 @@ tags:
 
 ![GBC 2024 IRL banner](img/gbc2024irl-banner.jpg)
 
-**GB Cup 2024 In Real Life** (***GBC 2024 IRL***) is a osu!mania 4-key solo LAN tournament hosted by [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) and organised by Team GB. It was the sixth instalment of the GB Cup series and the first instalment of the GB Cup IRL. This LAN tournament was held offline at the Kululu Music Game Carnival in Shanghai, China.
+**GB Cup 2024 In Real Life** (***GBC 2024 IRL***) is a osu!mania 4-key solo LAN tournament hosted by ::\[GB\]yobrevelc::{ user-id=14128407 } and organised by Team GB. It was the sixth instalment of the GB Cup series and the first instalment of the GB Cup IRL. This LAN tournament was held offline at the Kululu Music Game Carnival in Shanghai, China.
 
 ## Tournament schedule
 
@@ -40,21 +40,21 @@ GB Cup 2024 In Real Life was run by the Team GB and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Staff | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [[GB]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [zeroRain-](https://osu.ppy.sh/users/30440199), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [Mooos](https://osu.ppy.sh/users/13788556) |
-| Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018) |
-| Streamer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856) |
-| Referee | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018) |
-| Additional referee | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[Crz\]raber](https://osu.ppy.sh/users/6753592) |
-| Statistician & wiki editor | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| Host | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 } |
+| Staff | ::{ flag=CN }:: ::Blue\1Potion::{ user-id=13094831 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user-id=8586018 }, ::{ flag=CN }:: ::\1GB\1V1do::{ user-id=17527968 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user-id=3046856 }, ::{ flag=CN }:: ::zeroRain-::{ user-id=30440199 }, ::{ flag=CN }:: ::\[GB\]Akamite::{ user-id=13418334 }, ::{ flag=CN }:: ::MidRed::{ user-id=17641994 }, ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user-id=16586663 }, ::{ flag=CN }:: ::Mooos::{ user-id=13788556 } |
+| Mappool selector | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user-id=8586018 } |
+| Streamer | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user-id=3046856 } |
+| Referee | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 }, ::{ flag=CN }:: ::Blue\1Potion::{ user-id=13094831 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user-id=8586018 } |
+| Additional referee | ::{ flag=CN }:: ::\[GB\]Mafufu::{ user-id=10884561 }, ::{ flag=CN }:: ::\[Crz\]raber::{ user-id=6753592 } |
+| Statistician & wiki editor | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 } |
 
 ## Links
 
 - [Information spreadsheet](https://docs.qq.com/sheet/DTWpxUkN6SGtrS29m)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1933148?n=1)
 - Livestream
-  - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
-  - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
+  - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 })
+  - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: ::aiyulu::{ user-id=189617 })
 - [GBC QQ group](https://jq.qq.com/?_wv=1027&k=ZIwYVryh)
 - [Day 1 VOD - Player introductions](https://www.bilibili.com/video/BV1um421374R)
 - [Day 1 VOD - Round of 16](https://www.bilibili.com/video/BV1pb421J7AJ)
@@ -64,11 +64,11 @@ GB Cup 2024 In Real Life was run by the Team GB and various community members.
 
 | Tiers | Participants |
 | :-- | :-- |
-| Tier 1 | ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[Crz\]Xinyi2016](https://osu.ppy.sh/users/14213841), ::{ flag=CN }:: [Mantozi](https://osu.ppy.sh/users/10764424) |
-| Tier 2 | ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511), ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840), ::{ flag=CN }:: [\[Crz\]Riko](https://osu.ppy.sh/users/7928981), ::{ flag=CA }:: [LazyGhost14](https://osu.ppy.sh/users/13185425) |
-| Tier 3 | ::{ flag=CN }:: [\[ Classic \]](https://osu.ppy.sh/users/5858053), ::{ flag=CN }:: [Nyagato Yuki](https://osu.ppy.sh/users/32954144), ::{ flag=CN }:: [\[Crz\]raber](https://osu.ppy.sh/users/6753592), ::{ flag=CN }:: [\[Crz\]Nickname](https://osu.ppy.sh/users/10817494) |
-| Tier 4 | ::{ flag=CN }:: [Shenzouz](https://osu.ppy.sh/users/29606773), ::{ flag=CN }:: [vanposen](https://osu.ppy.sh/users/15289293), ::{ flag=CN }:: [\[GB\]Burger King](https://osu.ppy.sh/users/9841162), ::{ flag=CN }:: [\[GB\]QAQlingjiu](https://osu.ppy.sh/users/27288518) |
-| Qualifier | ::{ flag=CN }:: [\[GB\]KCINE](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [neeeeeh](https://osu.ppy.sh/users/18586390), ::{ flag=CN }:: [Muze_0407](https://osu.ppy.sh/users/16551233), ::{ flag=CN }:: [Samyuan1216](https://osu.ppy.sh/users/23892945), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=CN }:: [2580697339](https://osu.ppy.sh/users/6311072), ::{ flag=CN }:: [\[GB\]Color0](https://osu.ppy.sh/users/31417108), ::{ flag=CN }:: [bili_TYL](https://osu.ppy.sh/users/30993101), ::{ flag=CN }:: [\[ETX\]LinZi](https://osu.ppy.sh/users/28482727), ::{ flag=CN }:: [\[GB\]Fomurz](https://osu.ppy.sh/users/26883256), ::{ flag=CN }:: [qlchedan](https://osu.ppy.sh/users/15522107), ::{ flag=CN }:: [lxw200839](https://osu.ppy.sh/users/27055297), ::{ flag=CN }:: [ToukiM](https://osu.ppy.sh/users/28917056), ::{ flag=CN }:: [\[GB\]Lingyu](https://osu.ppy.sh/users/29743849), ::{ flag=CN }:: [Chiral Cabbage](https://osu.ppy.sh/users/32288791), ::{ flag=CN }:: [Zrc_2796](https://osu.ppy.sh/users/29837830), ::{ flag=CN }:: [nyasunfangirl](https://osu.ppy.sh/users/33886210), ::{ flag=CN }:: [\[GB\]THfairy](https://osu.ppy.sh/users/24972681), ::{ flag=CN }:: [SFangZhou](https://osu.ppy.sh/users/14023266), ::{ flag=CN }:: [Ghost Neko](https://osu.ppy.sh/users/31157409), ::{ flag=CN }:: [dzq](https://osu.ppy.sh/users/23697335), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [\[AR\]lv3plane](https://osu.ppy.sh/users/15964029), ::{ flag=CN }:: [ruler](https://osu.ppy.sh/users/31497468), ::{ flag=CN }:: [c6H8o6_](https://osu.ppy.sh/users/20984576), ::{ flag=CN }:: [Starfeather2007](https://osu.ppy.sh/users/25502203), ::{ flag=CN }:: [Eliyaa](https://osu.ppy.sh/users/29547250), ::{ flag=CN }:: [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903), ::{ flag=CN }:: [6XvX7](https://osu.ppy.sh/users/33948486), ::{ flag=CN }:: [rfsfreffr](https://osu.ppy.sh/users/21693996), ::{ flag=CN }:: [Takoke](https://osu.ppy.sh/users/11628037), ::{ flag=CN }:: [Kirchhoff123](https://osu.ppy.sh/users/29546640), ::{ flag=CN }:: [nick-haoran](https://osu.ppy.sh/users/29944863), ::{ flag=CN }:: [shuaize](https://osu.ppy.sh/users/29620953), ::{ flag=CN }:: [\[Crz\]Sirius](https://osu.ppy.sh/users/8692698), ::{ flag=CN }:: [CLLbin](https://osu.ppy.sh/users/11837219), ::{ flag=CN }:: [awask233](https://osu.ppy.sh/users/30750250) |
+| Tier 1 | ::{ flag=CN }:: ::\[GB\]GanyuAngel::{ user-id=27233308 }, ::{ flag=CN }:: ::\[GB\]Mafufu::{ user-id=10884561 }, ::{ flag=CN }:: ::\[Crz\]Xinyi2016::{ user-id=14213841 }, ::{ flag=CN }:: ::Mantozi::{ user-id=10764424 } |
+| Tier 2 | ::{ flag=CN }:: ::nyasunfanboy::{ user-id=14066511 }, ::{ flag=CN }:: ::DawnX::{ user-id=8534840 }, ::{ flag=CN }:: ::\[Crz\]Riko::{ user-id=7928981 }, ::{ flag=CA }:: ::LazyGhost14::{ user-id=13185425 } |
+| Tier 3 | ::{ flag=CN }:: ::\[ Classic \]::{ user-id=5858053 }, ::{ flag=CN }:: ::Nyagato Yuki::{ user-id=32954144 }, ::{ flag=CN }:: ::\[Crz\]raber::{ user-id=6753592 }, ::{ flag=CN }:: ::\[Crz\]Nickname::{ user-id=10817494 } |
+| Tier 4 | ::{ flag=CN }:: ::Shenzouz::{ user-id=29606773 }, ::{ flag=CN }:: ::vanposen::{ user-id=15289293 }, ::{ flag=CN }:: ::\[GB\]Burger King::{ user-id=9841162 }, ::{ flag=CN }:: ::\[GB\]QAQlingjiu::{ user-id=27288518 } |
+| Qualifier | ::{ flag=CN }:: ::\[GB\]KCINE::{ user-id=24289042 }, ::{ flag=CN }:: ::neeeeeh::{ user-id=18586390 }, ::{ flag=CN }:: ::Muze\10407::{ user-id=16551233 }, ::{ flag=CN }:: ::Samyuan1216::{ user-id=23892945 }, ::{ flag=CN }:: ::\[GB\]mmttyy233::{ user-id=28639641 }, ::{ flag=CN }:: ::2580697339::{ user-id=6311072 }, ::{ flag=CN }:: ::\[GB\]Color0::{ user-id=31417108 }, ::{ flag=CN }:: ::bili\1TYL::{ user-id=30993101 }, ::{ flag=CN }:: ::\[ETX\]LinZi::{ user-id=28482727 }, ::{ flag=CN }:: ::\[GB\]Fomurz::{ user-id=26883256 }, ::{ flag=CN }:: ::qlchedan::{ user-id=15522107 }, ::{ flag=CN }:: ::lxw200839::{ user-id=27055297 }, ::{ flag=CN }:: ::ToukiM::{ user-id=28917056 }, ::{ flag=CN }:: ::\[GB\]Lingyu::{ user-id=29743849 }, ::{ flag=CN }:: ::Chiral Cabbage::{ user-id=32288791 }, ::{ flag=CN }:: ::Zrc\12796::{ user-id=29837830 }, ::{ flag=CN }:: ::nyasunfangirl::{ user-id=33886210 }, ::{ flag=CN }:: ::\[GB\]THfairy::{ user-id=24972681 }, ::{ flag=CN }:: ::SFangZhou::{ user-id=14023266 }, ::{ flag=CN }:: ::Ghost Neko::{ user-id=31157409 }, ::{ flag=CN }:: ::dzq::{ user-id=23697335 }, ::{ flag=CN }:: ::\[GB\]Tyris::{ user-id=10497659 }, ::{ flag=CN }:: ::\[AR\]lv3plane::{ user-id=15964029 }, ::{ flag=CN }:: ::ruler::{ user-id=31497468 }, ::{ flag=CN }:: ::c6H8o6\1::{ user-id=20984576 }, ::{ flag=CN }:: ::Starfeather2007::{ user-id=25502203 }, ::{ flag=CN }:: ::Eliyaa::{ user-id=29547250 }, ::{ flag=CN }:: ::\[Crz\]hinako1804::{ user-id=13747903 }, ::{ flag=CN }:: ::6XvX7::{ user-id=33948486 }, ::{ flag=CN }:: ::rfsfreffr::{ user-id=21693996 }, ::{ flag=CN }:: ::Takoke::{ user-id=11628037 }, ::{ flag=CN }:: ::Kirchhoff123::{ user-id=29546640 }, ::{ flag=CN }:: ::nick-haoran::{ user-id=29944863 }, ::{ flag=CN }:: ::shuaize::{ user-id=29620953 }, ::{ flag=CN }:: ::\[Crz\]Sirius::{ user-id=8692698 }, ::{ flag=CN }:: ::CLLbin::{ user-id=11837219 }, ::{ flag=CN }:: ::awask233::{ user-id=30750250 } |
 
 ## Podium
 

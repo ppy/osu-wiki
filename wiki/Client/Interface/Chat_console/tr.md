@@ -17,7 +17,7 @@ osu!'daki pek çok ekranda `F8` tuşuna ya da sağ alttaki `Show Chat` butonuna 
 | **Kırmızı** | [Global Moderation Team](/wiki/People/Global_Moderation_Team) ya da [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) üyesi |
 | **Yeşil** | Satır, adınızı veya [highlight](Highlight) tetiklemek için eklediğiniz belirli anahtar kelimeleri içerir. İletinin bir kopyası, tüm bu satırları içeren özel bir kanal olan `#highlight` kanalında da görünür. |
 | **Mavi** | Özel Mesaj |
-| **Camgöbeği** | [peppy](https://osu.ppy.sh/users/2), osu!'nun yaratıcısı! |
+| **Camgöbeği** | ::peppy::{ user-id=2 }, osu!'nun yaratıcısı! |
 | **Pembe** | [BanchoBot](/wiki/BanchoBot) |
 
 - Sohbet konsolu kapalıyken en güncel mesajların ekranın en altında gözükmesi için `Show Ticker` kutucuğunu işaretleyin.
@@ -79,7 +79,7 @@ Etkinleştirmek için numarayı tıklatın veya çubuğu tıklatın:
 | `/addfriend [kullanıcı]` | Arkadaş listenize `[kullanıcı]` ekleyin. | `/addfriend Amigo` | Artık Amigo ile arkadaşsınız. |
 | `/delfriend [kullanıcı]` | Arkadaş listenizden `[kullanıcı]` kaldırın. | `/delfriend Amigo` | Artık Amigo ile arkadaş değilsiniz. |
 | `/away [mesaj]` | Bir dışarıda iletisi ayarlar (Size PM gönderen kullanıcılara gönderilir). İptal etmek için iletiyi boş bırakın. | `/away Ben John Smith.` | You have been marked as being away: Ben John Smith. Amigo size /msg John Neredesin~? dediğinde BanchoBot: Ben John Smith. |
-| `/bb` | BanchoBot'a `!stats [kullanıcı]` gibi bir komutu doğrudan göndermenizi sağlar. | `/bb !stats Uan` | \[15/11/12] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+| `/bb` | BanchoBot'a `!stats [kullanıcı]` gibi bir komutu doğrudan göndermenizi sağlar. | `/bb !stats Uan` | \[15/11/12] Stats for ::Uan::{ user-id=147623 }: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [kullanıcı]` veya `/msg [kullanıcı]` veya `/query [kullanıcı]` | Belirtilen kullanıcıyla yeni bir sohbet sekmesi açın. | `/chat Amigo` | (Amigo sekmesi açıldı) |
 | `/clear` | Geçerli sohbet penceresini temizler. | '/clear' | (Geçerli sekmede aşağı yukarı her şeyi temizler) |
 | `/ignore [kullanıcı][@chp]` | Bu oturum için belirtilen kullanıcıdan gelen tüm iletileri yoksayın. Bir @ ekledikten sonra ardından c, h ve/veya p harfi eklerseniz, onları sohbette (chat), [vurgulamalarda (highlight)](Highlight) ve özel mesajlarda (Private message) susturabilirsiniz. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Sohbet konsolunuz artık Amigo'dan gelen herhangi bir sohbet mesajı \[c], Amigo tarafından yapılan herhangi bir vurgulamayı \[h], ve Amigo tarafından gönderilen herhangi özel mesajı \[p], dikkate almamak için ayarlandı. |

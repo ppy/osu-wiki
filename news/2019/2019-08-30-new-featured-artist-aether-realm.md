@@ -9,7 +9,7 @@ Filling out their entry in the annals of osu!, [**Æther Realm**](https://osu.pp
 
 ![](https://assets.ppy.sh/artists/47/header.jpg)
 
-After the unprecedented popularity of the band's 19-minute epic [**The Sun, The Moon, The Star**](https://osu.ppy.sh/beatmapsets/933630#osu/1949106) mapped by [ItsWinter](https://osu.ppy.sh/users/6381153) and [Ghouru](https://osu.ppy.sh/users/6273855), **Æther Realm** has been a highly requested addition to the osu! Featured Artist family.
+After the unprecedented popularity of the band's 19-minute epic [**The Sun, The Moon, The Star**](https://osu.ppy.sh/beatmapsets/933630#osu/1949106) mapped by ::ItsWinter::{ user-id=6381153 } and [Ghouru](https://osu.ppy.sh/users/6273855), **Æther Realm** has been a highly requested addition to the osu! Featured Artist family.
 
 The band's powerful folk metal vocals and deep-rooted power and symphonic metal riffs leave little to be desired in setting the scene for an epic journey from start to end in every track.
 

@@ -29,7 +29,7 @@ Two more new songs have been produced for the osu!taiko World Cup 2026. Read on 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/y-BsRNpkVUU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Producer [Cansol](https://osu.ppy.sh/beatmaps/artists/407), who has released songs for other World Cup iterations in the past, returns with a new osu! original for the osu!taiko World Cup 2026. [Jazz Invasion](https://osu.ppy.sh/beatmapsets/2530688#taiko/5593650) combines 178 beats per minute with a unique rhythm and a catchy melody making this song, mapped by [Nurend](https://osu.ppy.sh/users/9905079) and [uone](https://osu.ppy.sh/users/5321719), a perfect fit for the Quarterfinals' NM6 slot. Experience the ultimate *Jazz Invasion* today!
+Producer [Cansol](https://osu.ppy.sh/beatmaps/artists/407), who has released songs for other World Cup iterations in the past, returns with a new osu! original for the osu!taiko World Cup 2026. [Jazz Invasion](https://osu.ppy.sh/beatmapsets/2530688#taiko/5593650) combines 178 beats per minute with a unique rhythm and a catchy melody making this song, mapped by ::Nurend::{ user-id=9905079 } and [uone](https://osu.ppy.sh/users/5321719), a perfect fit for the Quarterfinals' NM6 slot. Experience the ultimate *Jazz Invasion* today!
 
 ---
 
@@ -37,7 +37,7 @@ Producer [Cansol](https://osu.ppy.sh/beatmaps/artists/407), who has released son
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/lPRDPSB5Nj0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[uynet](https://osu.ppy.sh/beatmaps/artists/453), known for being a Featured Artist and for loving the piano and overwhelmingly cute stuff, returns with a brand-new song for the osu!taiko World Cup 2026. [Lunar Eclipse](https://osu.ppy.sh/beatmapsets/2530668#taiko/5593610) is the most recent addition to his Featured Artist listing and the HR2 slot in the Quarterfinals pool mapped by [X a v y](https://osu.ppy.sh/users/3738344) and [5_5](https://osu.ppy.sh/users/6853438).
+[uynet](https://osu.ppy.sh/beatmaps/artists/453), known for being a Featured Artist and for loving the piano and overwhelmingly cute stuff, returns with a brand-new song for the osu!taiko World Cup 2026. [Lunar Eclipse](https://osu.ppy.sh/beatmapsets/2530668#taiko/5593610) is the most recent addition to his Featured Artist listing and the HR2 slot in the Quarterfinals pool mapped by ::X a v y::{ user-id=3738344 } and [5_5](https://osu.ppy.sh/users/6853438).
 
 ## Quarterfinals results
 
@@ -78,7 +78,7 @@ This week's lower bracket was brutal, with this year's 2v2 format allowing many 
 
 France won the roll and jumped straight into the popular osu! original pick of [Cansol - Jazz Invasion](https://osu.ppy.sh/beatmapsets/2530688#taiko/5593650) (NM6), showing their mechanics prowess by coming painfully close to **a team-wide full combo** on the tricky speedtech map.
 
-Malaysia picked [Azumalim - Jinrui Mina Senpai! (Mtell & Ange;art Hardcore Bootleg)](https://osu.ppy.sh/beatmapsets/1133749#taiko/2367712) (DT2), but a stellar performance from France, headed by ::{ flag=FR }:: [Ranshi](https://osu.ppy.sh/users/6680785)'s 99.5% FC, landed them a break point and a 3-1 lead! France's pick of [Hyparpax - depth meter](https://osu.ppy.sh/beatmapsets/2530720#taiko/5593723) (FM3) saw all four players running the dangerous HDHR mod combo, and looked lost towards the end with Malaysia sitting on very high accuracy… then the ending streams commenced.
+Malaysia picked [Azumalim - Jinrui Mina Senpai! (Mtell & Ange;art Hardcore Bootleg)](https://osu.ppy.sh/beatmapsets/1133749#taiko/2367712) (DT2), but a stellar performance from France, headed by ::{ flag=FR }:: ::Ranshi::{ user-id=6680785 }'s 99.5% FC, landed them a break point and a 3-1 lead! France's pick of [Hyparpax - depth meter](https://osu.ppy.sh/beatmapsets/2530720#taiko/5593723) (FM3) saw all four players running the dangerous HDHR mod combo, and looked lost towards the end with Malaysia sitting on very high accuracy… then the ending streams commenced.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -86,7 +86,7 @@ Malaysia picked [Azumalim - Jinrui Mina Senpai! (Mtell & Ange;art Hardcore Bootl
     </video>
 </div>
 
-With ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982)'s infamous full single-tap play style allowing him to be comfortable on the otherwise insane patterns of the ending, he secured one of the craziest-looking FCs of the tournament, and made the difference in a huge win.
+With ::{ flag=FR }:: ::YaniFR::{ user-id=11260982 }'s infamous full single-tap play style allowing him to be comfortable on the otherwise insane patterns of the ending, he secured one of the craziest-looking FCs of the tournament, and made the difference in a huge win.
 
 Malaysia seemed to get some stability back with a double FC on [uynet - Lunar Eclipse](https://osu.ppy.sh/beatmapsets/2530668#taiko/5593610) (HR2), before France secured three match points with a close call on [CHON - Splash](https://osu.ppy.sh/beatmapsets/2530697#taiko/5593663) (NM2) that came down to a **score difference of 3,234** due to some misses on the final pattern!
 
@@ -102,7 +102,7 @@ And a miracle is exactly what they got. With this **137-point stunner**, France 
 
 ## Score highlights
 
-- This week's NM2, [CHON - Splash](https://osu.ppy.sh/beatmapsets/2530697#taiko/5593663), was one of the hardest accuracy tests in recent history. When we say it has multiple BPM changes per second, we're not joking! For Indonesia's ::{ flag=ID }:: [-Sera](https://osu.ppy.sh/users/6048245), though, this was just another tech pick to shine on. He stunned everyone with a 99.9% full combo against Slovakia, then proved it wasn't a fluke with a 99.85% FC the next day against New Zealand. These were the top two scores of the weekend on a map contested by many top teams!
+- This week's NM2, [CHON - Splash](https://osu.ppy.sh/beatmapsets/2530697#taiko/5593663), was one of the hardest accuracy tests in recent history. When we say it has multiple BPM changes per second, we're not joking! For Indonesia's ::{ flag=ID }:: ::-Sera::{ user-id=6048245 }, though, this was just another tech pick to shine on. He stunned everyone with a 99.9% full combo against Slovakia, then proved it wasn't a fluke with a 99.85% FC the next day against New Zealand. These were the top two scores of the weekend on a map contested by many top teams!
 
 ---
 

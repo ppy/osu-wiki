@@ -34,11 +34,11 @@ The osu! Philippines Mascots Fanart Contest 2024 is run by the following staff:
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
-| Contest moderator | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=PH }::  [topecnz](https://osu.ppy.sh/users/2103927) |
-| Developer | ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
-| Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Wiki editor | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Host | ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 }, ::{ flag=PH }:: ::SurfChu85::{ user-id=4469895 }, ::{ flag=PH }:: ::topecnz::{ user-id=2103927 } |
+| Contest moderator | ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 }, ::{ flag=CN }:: ::Sakura006::{ user-id=10365024 }, ::{ flag=PH }::  ::topecnz::{ user-id=2103927 } |
+| Developer | ::{ flag=PH }:: ::-Ichinose::{ user-id=12635292 }, ::{ flag=PH }:: ::topecnz::{ user-id=2103927 } |
+| Statistician | ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 }, ::{ flag=PH }:: ::SurfChu85::{ user-id=4469895 } |
+| Wiki editor | ::{ flag=PH }:: ::SurfChu85::{ user-id=4469895 } |
 
 ## Links
 

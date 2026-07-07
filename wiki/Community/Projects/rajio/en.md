@@ -7,7 +7,7 @@ tags:
 
 ![rajio logo](img/logo.png)
 
-**rajio.ppy.sh**, often referred to as **rajio**, was a request-based online radio service run and hosted by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) as a side project to osu! in 2008. It allowed people to queue up songs of their choice to be played in a global broadcast.
+**rajio.ppy.sh**, often referred to as **rajio**, was a request-based online radio service run and hosted by ::{ flag=AU }:: ::peppy::{ user-id=2 } as a side project to osu! in 2008. It allowed people to queue up songs of their choice to be played in a global broadcast.
 
 ## Service
 
@@ -17,7 +17,7 @@ As rajio didn't support fetching songs from external sources such as [YouTube](h
 
 ## Decommissioning and brief revival
 
-rajio initially ran for a couple of years before being shut down in 2010.[^rajio-out-of-service-ref] A year later, due to increased community interest, ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) brought rajio back to life along with a new, dedicated `#rajio` channel in the [osu! chat](/wiki/Community/Internet_Relay_Chat).[^rajio-revival-ref1][^rajio-revival-ref2] This revival only lasted for a brief period before the service and the chat channel were gone for good.
+rajio initially ran for a couple of years before being shut down in 2010.[^rajio-out-of-service-ref] A year later, due to increased community interest, ::{ flag=AU }:: ::peppy::{ user-id=2 } brought rajio back to life along with a new, dedicated `#rajio` channel in the [osu! chat](/wiki/Community/Internet_Relay_Chat).[^rajio-revival-ref1][^rajio-revival-ref2] This revival only lasted for a brief period before the service and the chat channel were gone for good.
 
 ## References
 

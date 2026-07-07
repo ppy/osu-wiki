@@ -23,7 +23,7 @@ We've snagged just about **every song** (19 in total) from her four-album-discog
 
 ### AI to CodeQ no Hate
 
-Or play through [this multi-difficulty marathon mapset](https://osu.ppy.sh/beatmapsets/1515036) designed by [Hinsvar](https://osu.ppy.sh/users/1249323) of the Mappers' Guild (and featured in the video above)!
+Or play through [this multi-difficulty marathon mapset](https://osu.ppy.sh/beatmapsets/1515036) designed by ::Hinsvar::{ user-id=1249323 } of the Mappers' Guild (and featured in the video above)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/189/CodeQ/Natsume%20Itsuki%20-%20AI%20to%20CodeQ%20no%20Hate.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Or play through [this multi-difficulty marathon mapset](https://osu.ppy.sh/beatm
 
 ### Mayday
 
-Play through [this mapset](https://osu.ppy.sh/beatmapsets/1506697) by [SMOKELIND](https://osu.ppy.sh/users/9327302) of the Mappers' Guild!
+Play through [this mapset](https://osu.ppy.sh/beatmapsets/1506697) by ::SMOKELIND::{ user-id=9327302 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/189/CodeQ/Natsume%20Itsuki%20-%20Mayday.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Play through [this mapset](https://osu.ppy.sh/beatmapsets/1506697) by [SMOKELIND
 
 ### Miniascape
 
-If you're looking for something easier, [this mapset](https://osu.ppy.sh/beatmapsets/1509856) by [-Aqua](https://osu.ppy.sh/users/7150015) of the Mappers' Guild will satisfy your craving.
+If you're looking for something easier, [this mapset](https://osu.ppy.sh/beatmapsets/1509856) by ::-Aqua::{ user-id=7150015 } of the Mappers' Guild will satisfy your craving.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/189/CodeQ/Natsume%20Itsuki%20-%20Miniascape.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ If you're looking for something easier, [this mapset](https://osu.ppy.sh/beatmap
 
 ### Beginning
 
-And if you're looking for something accessible to all types of players, [this mapset](https://osu.ppy.sh/beatmapsets/1173059) by [Garden](https://osu.ppy.sh/users/2849992) is worth your time.
+And if you're looking for something accessible to all types of players, [this mapset](https://osu.ppy.sh/beatmapsets/1173059) by ::Garden::{ user-id=2849992 } is worth your time.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/189/Elis%27%20Dogma/Natsume%20Itsuki%20-%20Beginning.mp3" type="audio/mpeg">

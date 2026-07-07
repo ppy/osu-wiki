@@ -9,7 +9,7 @@ Bringing a whole new meaning to fashionably late, the voting for Aspire 2018 is 
 
 [![](https://assets.ppy.sh/contests/68/header.jpg)](https://osu.ppy.sh/community/contests/68)
 
-The voting is [now open over at the Aspire 2018 contest listing](https://osu.ppy.sh/community/contests/68) complete with a bundle of replays by none other than the Champion Above Champions himself, [-GN](https://osu.ppy.sh/users/895581).
+The voting is [now open over at the Aspire 2018 contest listing](https://osu.ppy.sh/community/contests/68) complete with a bundle of replays by none other than the Champion Above Champions himself, ::-GN::{ user-id=895581 }.
 
 Your votes will help decide the Public Impression scoring aspect of the contest, and like previous iterations of the format, this will account for 50% of the overall score that a map receives, meaning that your vote is *super* important.
 

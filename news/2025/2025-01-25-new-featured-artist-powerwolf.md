@@ -15,7 +15,7 @@ A total of **14** songs are part of [**Powerwolf**'s Featured Artist listing](ht
 
 ### [Powerwolf - Christ & Combat](https://assets.ppy.sh/artists/457/Blessed%20and%20Possessed/Powerwolf%20-%20Christ%20%26%20Combat.osz)
 
-We've had **Powerwolf** in our backlog for a long time — since before [COE 2024](/wiki/Community/cavoe's_osu!_event/2024), where [Optimism](https://osu.ppy.sh/users/2064831) blasted through the streams of [Christ & Combat](https://osu.ppy.sh/beatmapsets/1013426) by [piroshki](https://osu.ppy.sh/users/7645522) using only his thumb and index finger. We're not sure how it's possible either, but the proof is here:
+We've had **Powerwolf** in our backlog for a long time — since before [COE 2024](/wiki/Community/cavoe's_osu!_event/2024), where ::Optimism::{ user-id=2064831 } blasted through the streams of [Christ & Combat](https://osu.ppy.sh/beatmapsets/1013426) by ::piroshki::{ user-id=7645522 } using only his thumb and index finger. We're not sure how it's possible either, but the proof is here:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -25,7 +25,7 @@ We've had **Powerwolf** in our backlog for a long time — since before [COE 202
 
 ### [Powerwolf - Army Of The Night](https://assets.ppy.sh/artists/457/The%20Monumental%20Mass%20-%20A%20Cinematic%20Metal%20Event/Powerwolf%20-%20Army%20Of%20The%20Night.osz)
 
-Try out [this Ranked map](https://osu.ppy.sh/beatmapsets/1044785) also mapped by [piroshki](https://osu.ppy.sh/users/7645522) or [this Loved rendition](https://osu.ppy.sh/beatmapsets/764649) hosted by [Amberessence](https://osu.ppy.sh/users/10145026)!
+Try out [this Ranked map](https://osu.ppy.sh/beatmapsets/1044785) also mapped by ::piroshki::{ user-id=7645522 } or [this Loved rendition](https://osu.ppy.sh/beatmapsets/764649) hosted by ::Amberessence::{ user-id=10145026 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/457/The%20Monumental%20Mass%20-%20A%20Cinematic%20Metal%20Event/Powerwolf%20-%20Army%20Of%20The%20Night.mp3">

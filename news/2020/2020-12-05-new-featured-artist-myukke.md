@@ -13,7 +13,7 @@ A master of cutting and re-arranging vocals with a fast paced rhythm-game vibe, 
 
 We've grabbed hold of **20** high energy tracks for his Featured Artist listing, all of which we're sure you'll love.
 
-How does **MYUKKE.**'s music convert to mapping? The Mappers' Guild can show you how it's done with their collab mapset for [*BUNA☆SYNERGY!!!*](https://osu.ppy.sh/beatmapsets/1294640) hosted by [Realazy](https://osu.ppy.sh/users/918297). See the combination of music and mapping mastery in the preview below.
+How does **MYUKKE.**'s music convert to mapping? The Mappers' Guild can show you how it's done with their collab mapset for [*BUNA☆SYNERGY!!!*](https://osu.ppy.sh/beatmapsets/1294640) hosted by ::Realazy::{ user-id=918297 }. See the combination of music and mapping mastery in the preview below.
 
 <div align="center">
     <video width="95%" controls>

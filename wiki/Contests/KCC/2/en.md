@@ -32,10 +32,10 @@ The **Korean Charting Contest 2022** (***KCC2022***) is an osu!mania mapping con
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) |
-| Manager | ::{ flag=KR }:: [Oni Suika](https://osu.ppy.sh/users/4848023) |
-| Designer | ::{ flag=KR }:: [Manwon](https://osu.ppy.sh/users/4129020) |
-| Judge | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146) |
+| Organiser | ::{ flag=KR }:: ::Garalulu::{ user-id=757783 } |
+| Manager | ::{ flag=KR }:: ::Oni Suika::{ user-id=4848023 } |
+| Designer | ::{ flag=KR }:: ::Manwon::{ user-id=4129020 } |
+| Judge | ::{ flag=CN }:: ::\1Stan::{ user-id=1653229 }, ::{ flag=SG }:: ::Evening::{ user-id=2193881 }, ::{ flag=KR }:: ::Garalulu::{ user-id=757783 }, ::{ flag=PH }:: ::lenpai::{ user-id=5314573 }, ::{ flag=KR }:: ::Remuring::{ user-id=6522146 } |
 
 ## Links
 
@@ -65,9 +65,9 @@ The **Korean Charting Contest 2022** (***KCC2022***) is an osu!mania mapping con
 
 | Place | Mapper |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: [Rio1-](https://osu.ppy.sh/users/5604329) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: [JuHaa](https://osu.ppy.sh/users/15526127) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=KR }:: [WintMin](https://osu.ppy.sh/users/11161386) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: ::Rio1-::{ user-id=5604329 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: ::JuHaa::{ user-id=15526127 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=KR }:: ::WintMin::{ user-id=11161386 } |
 
 ## Ruleset
 

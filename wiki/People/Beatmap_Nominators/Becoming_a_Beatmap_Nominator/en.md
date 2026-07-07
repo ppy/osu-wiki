@@ -100,7 +100,7 @@ The *group stage* lasts at most until 14 days after the applicant sent in their 
 
 At this stage, the comments and votes from each evaluator are revealed to the other evaluators, and in the case of an ambiguous verdict, they will discuss until a consensus is reached.
 
-Additional feedback is then written to add any missing information from the evaluators' comments and the application result is sent back to the applicant by the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) as an [announcement message](/wiki/Announcement_messages), after which the evaluation will be archived for future reference. Successful applicants are added as a probationary BN immediately after the result is sent.
+Additional feedback is then written to add any missing information from the evaluators' comments and the application result is sent back to the applicant by the ::Nomination Assessment Team bot::{ user-id=6616586 } as an [announcement message](/wiki/Announcement_messages), after which the evaluation will be archived for future reference. Successful applicants are added as a probationary BN immediately after the result is sent.
 
 ## Communication post-application
 

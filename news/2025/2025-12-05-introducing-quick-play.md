@@ -17,7 +17,7 @@ We hope you'll join over the coming four weeks for a system stress-test, with th
 
 ## But what exactly is quick play?
 
-For those who still haven't checked the latest update video, here's a quick rundown of what quick play is by the hands of [peppy](https://osu.ppy.sh/users/2) and [smoogipoo](https://osu.ppy.sh/users/1040328) — the minds behind quick play as a whole!
+For those who still haven't checked the latest update video, here's a quick rundown of what quick play is by the hands of ::peppy::{ user-id=2 } and [smoogipoo](https://osu.ppy.sh/users/1040328) — the minds behind quick play as a whole!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/YKUQ0Y_pHaI?start=0&end=307" frameborder="0" allowfullscreen></iframe>

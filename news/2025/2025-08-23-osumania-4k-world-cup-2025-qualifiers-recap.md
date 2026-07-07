@@ -15,7 +15,7 @@ Despite some of the changes catching a handful of teams off guard, most players 
 
 Without further ado, let's get this week's recap started! We believe that many of you will find the Qualifier placements to be quite exciting.
 
-And just like [MWC 7K's news posts](https://osu.ppy.sh/home/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap), we'll have weekly video coverage of the recaps by the hands of [Dynascape](https://osu.ppy.sh/users/8784587), [SunApple](https://osu.ppy.sh/users/11817622), [Normiplier](https://osu.ppy.sh/users/10069850), and [akace100](https://osu.ppy.sh/users/9308128). We highly encourage you give them a watch!
+And just like [MWC 7K's news posts](https://osu.ppy.sh/home/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap), we'll have weekly video coverage of the recaps by the hands of ::Dynascape::{ user-id=8784587 }, [SunApple](https://osu.ppy.sh/users/11817622), ::Normiplier::{ user-id=10069850 }, and [akace100](https://osu.ppy.sh/users/9308128). We highly encourage you give them a watch!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/8OWGgG84tZ4" frameborder="0" allowfullscreen></iframe>
@@ -33,13 +33,13 @@ And just like [MWC 7K's news posts](https://osu.ppy.sh/home/news/2025-01-17-osum
 
 Starting the tournament off, we're given an ever so slightly different stage structure compared to last year, with the only noteworthy change being that the original stage 1, SV, has been removed. Every other slot remained the same as previous years, with the pool's size consisting of 7 stages instead of 8.
 
-As for the highlights, a good start would be [Camellia - FM Synthesis Experiment (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2417719#mania/5256626) (HB1) by ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093) and ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065). For an early-game hybrid, its approach differed a bit from previous years, with most of its difficulty coming from rice sections over long notes. That's not to say the LN department is lacking, however, as the most chokeable parts arguably lie within the heavy long note sections.
+As for the highlights, a good start would be [Camellia - FM Synthesis Experiment (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2417719#mania/5256626) (HB1) by ::{ flag=US }:: ::elexire::{ user-id=9206093 } and ::{ flag=CA }:: ::guden::{ user-id=11626065 }. For an early-game hybrid, its approach differed a bit from previous years, with most of its difficulty coming from rice sections over long notes. That's not to say the LN department is lacking, however, as the most chokeable parts arguably lie within the heavy long note sections.
 
-On the more LN-heavy end we have [Tanya Degurechaff (CV: Yuuki Aoi) - Los! Los! Los!](https://osu.ppy.sh/beatmapsets/2417716#mania/5256623) (LN1) by ::{ flag=TH }:: [MyZterion-](https://osu.ppy.sh/users/8521723). Considering this LN coordination map's difficulty is akin to that of a mid-game pick, its patterns are definitely going to give a run for the players' money! Additionally, for those looking for an extra release accuracy challenge, there's an uncut version waiting for those who wish for an extra challenge!
+On the more LN-heavy end we have [Tanya Degurechaff (CV: Yuuki Aoi) - Los! Los! Los!](https://osu.ppy.sh/beatmapsets/2417716#mania/5256623) (LN1) by ::{ flag=TH }:: ::MyZterion-::{ user-id=8521723 }. Considering this LN coordination map's difficulty is akin to that of a mid-game pick, its patterns are definitely going to give a run for the players' money! Additionally, for those looking for an extra release accuracy challenge, there's an uncut version waiting for those who wish for an extra challenge!
 
 For those unitiated on what LN Coordination is; LN Coordination is generally defined by high-tempo patterning primarily characterized by shields and decorated with LN flams, short bursts, complex staggered releases, and difficult one-handed patterning. This slot also typically tests consistency in LN patterning, as its physicality and technicality are fairly balanced.
 
-Lastly, to round off the highlights, we've got [Creepy Nuts - Otonoke](https://osu.ppy.sh/beatmapsets/2417729#mania/5256642) (RC3) by ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851) and ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576). Being a rather unexpected song for such a stage, it ended up working as a really, really difficult technical vocal dump chart. A far cry from what players would expect at a first glance! Without a shadow of a doubt, it is by far the hardest map in the pool. Players who wish to get a high-contending score can't allow themselves to be distracted while playing it.
+Lastly, to round off the highlights, we've got [Creepy Nuts - Otonoke](https://osu.ppy.sh/beatmapsets/2417729#mania/5256642) (RC3) by ::{ flag=PL }:: ::Disguise::{ user-id=10764851 } and ::{ flag=US }:: ::-mint-::{ user-id=8976576 }. Being a rather unexpected song for such a stage, it ended up working as a really, really difficult technical vocal dump chart. A far cry from what players would expect at a first glance! Without a shadow of a doubt, it is by far the hardest map in the pool. Players who wish to get a high-contending score can't allow themselves to be distracted while playing it.
 
 ## Qualifier highlights
 
@@ -92,7 +92,7 @@ Many people underestimate how big of an undertaking preparing a tournament as th
 
 ![](/wiki/shared/news/2025-08-23-osumania-4k-world-cup-2025-qualifiers-recap/elexire.png)
 
-[elexire](https://osu.ppy.sh/users/9206093) may not be as known as the other members of the pooling team, but their work is nothing short of impressive. Their tournament experience across multiple community tournaments did not go unnoticed by the rest of mappool selectors, leading straight to their addition to the team as of last year. Let's get their perspective working as a pooler as they begin to shape the osu!mania 4K World Cups of tomorrow!
+::elexire::{ user-id=9206093 } may not be as known as the other members of the pooling team, but their work is nothing short of impressive. Their tournament experience across multiple community tournaments did not go unnoticed by the rest of mappool selectors, leading straight to their addition to the team as of last year. Let's get their perspective working as a pooler as they begin to shape the osu!mania 4K World Cups of tomorrow!
 
 <div class="news-chat-quote__text-container">
 
@@ -116,7 +116,7 @@ Personally, my goals moving forward would be to have more versatility, if that m
 
 ![](/wiki/shared/news/2025-08-23-osumania-4k-world-cup-2025-qualifiers-recap/V1do-.png)
 
-Ever since they ranked their first map back in 2022, [V1do-](https://osu.ppy.sh/users/17527968) has rapidly made a name for themselves across the entire community. As they garnered more experience, they ended up giving tournament mapping a much deserved chance. Lo and behold, their efforts managed to bear fruit as they joined the mapping team in 2024! A true testament to their dedication to the art of mapping and community alike.
+Ever since they ranked their first map back in 2022, ::V1do-::{ user-id=17527968 } has rapidly made a name for themselves across the entire community. As they garnered more experience, they ended up giving tournament mapping a much deserved chance. Lo and behold, their efforts managed to bear fruit as they joined the mapping team in 2024! A true testament to their dedication to the art of mapping and community alike.
 
 <div class="news-chat-quote__text-container">
 
@@ -144,7 +144,7 @@ The osu!mania 4K World Cup mapping team have been one of the best teams I've had
 
 ![](/wiki/shared/news/2025-08-23-osumania-4k-world-cup-2025-qualifiers-recap/mashu.png)
 
-Two-time MWC 4K winner for team USA and playlist winner extraordinaire, [mashu](https://osu.ppy.sh/users/12028216) has forsaken their right to play for the tournament to become a playtester for the second time in a row! Let us hear their thoughts after having been on both sides of the fence for so long.
+Two-time MWC 4K winner for team USA and playlist winner extraordinaire, ::mashu::{ user-id=12028216 } has forsaken their right to play for the tournament to become a playtester for the second time in a row! Let us hear their thoughts after having been on both sides of the fence for so long.
 
 <div class="news-chat-quote__text-container">
 

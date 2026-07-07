@@ -9,7 +9,7 @@ Mappers and musicians, gather up! Express your creativity to the maximum with ma
 
 ![](https://assets.ppy.sh/contests/211/banner.jpg)
 
-Brought to you by [bokeru](https://osu.ppy.sh/users/11308433), [chidodou](https://osu.ppy.sh/users/13868581), [Supportive](https://osu.ppy.sh/users/21482068) and [Whithard](https://osu.ppy.sh/users/24552396), this contest revolves around the idea of expression, versatility, and best of all, **expression**! Keep reading to see how you can join in on the fun by participating!
+Brought to you by ::bokeru::{ user-id=11308433 }, [chidodou](https://osu.ppy.sh/users/13868581), ::Supportive::{ user-id=21482068 } and [Whithard](https://osu.ppy.sh/users/24552396), this contest revolves around the idea of expression, versatility, and best of all, **expression**! Keep reading to see how you can join in on the fun by participating!
 
 With the first iteration, being most inspired from [THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) (surely something you've heard about before), Kyoku is a contest that will focus on not only beatmapping, but song production as well.
 
@@ -74,11 +74,11 @@ Only one team member needs to submit, and you can reupload your submission as ma
 
 ### Judges
 
-- [-Doodle](https://osu.ppy.sh/users/12337329)
-- [9ami](https://osu.ppy.sh/users/1499997)
-- [funny](https://osu.ppy.sh/users/8473573)
-- [Lotragon](https://osu.ppy.sh/users/6063342)
-- [nooj](https://osu.ppy.sh/users/8271086)
+- ::-Doodle::{ user-id=12337329 }
+- ::9ami::{ user-id=1499997 }
+- ::funny::{ user-id=8473573 }
+- ::Lotragon::{ user-id=6063342 }
+- ::nooj::{ user-id=8271086 }
 
 ## Prizes
 

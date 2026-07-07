@@ -13,7 +13,7 @@ tags:
 ## Enlaces
 
 - **[Sitio web](https://ppy.sh/)**
-- [Página de perfil](https://osu.ppy.sh/users/2)
+- ::Página de perfil::{ user-id=2 }
 - [Blog de ppy](https://blog.ppy.sh/)
 - [GitHub](https://github.com/peppy)
 - [Twitter](https://twitter.com/ppy)

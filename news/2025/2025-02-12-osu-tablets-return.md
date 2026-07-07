@@ -37,7 +37,7 @@ True to its name, the ***intro* tablet** even has instructions and recommendatio
 
 [![](/wiki/shared/news/2025-02-12-osu-tablets-return/quickstart.jpg)](https://osu.ppy.sh/store/products/1447)
 
-But of course, this isn't *just* a tablet. It's a *beautiful* tablet. Send all of your appreciation to veteran mapper [meiikyuu](https://osu.ppy.sh/users/1043627) for the design!
+But of course, this isn't *just* a tablet. It's a *beautiful* tablet. Send all of your appreciation to veteran mapper ::meiikyuu::{ user-id=1043627 } for the design!
 
 [![](/wiki/shared/news/2025-02-12-osu-tablets-return/beauty.jpg)](https://osu.ppy.sh/store/products/1447)
 

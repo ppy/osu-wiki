@@ -9,7 +9,7 @@ A brand new set of changes to the performance points and star rating algorithms 
 
 ![](/wiki/shared/news/banners/star-rating.jpg)
 
-Thanks to the efforts of some very bright minds, a new batch of changes are live for both the osu! and osu!mania game modes. Read on below to check out all the changes stated in full (courtesy of a write-up from [spaceman_atlas](https://osu.ppy.sh/users/3035836)), including a number of graphs and charts to help things along.
+Thanks to the efforts of some very bright minds, a new batch of changes are live for both the osu! and osu!mania game modes. Read on below to check out all the changes stated in full (courtesy of a write-up from ::spaceman\1atlas::{ user-id=3035836 }), including a number of graphs and charts to help things along.
 
 Please note: the current batch of changes contain things that will take effect immediately, as well as ones which will have no visible change for the moment but will lay out the groundwork for improvements in the future.
 
@@ -87,7 +87,7 @@ This process creates a list of "peak strains" for each portion of the map, which
 
 As it turns out, this weighting process means that the highest few peaks constitute most of the final difficulty value for a given skill, which favoured maps with short strain spikes.
 
-That's where [**emu1337**](https://osu.ppy.sh/users/2185987) stepped in, and proposed [a change](https://github.com/ppy/osu/pull/13483) that applies a damping factor to the 10 most difficult sections for the aim skill and the 5 most difficult for the speed skill.
+That's where ::**emu1337**::{ user-id=2185987 } stepped in, and proposed [a change](https://github.com/ppy/osu/pull/13483) that applies a damping factor to the 10 most difficult sections for the aim skill and the 5 most difficult for the speed skill.
 
 This means that the final star rating values will decrease across the board for those skills, but maps with high but short strain spikes will be impacted more than maps with consistent strain values throughout.
 
@@ -105,7 +105,7 @@ As it turns out, strain skills had a problem where the presence of rate-changing
 
 This was most obvious when a map was manually stretched or squished in the editor to play as if either mod was not active. In practice, this error meant that maps with Half Time active had inflated star rating values while maps with Double Time had deflated values.
 
-[**Syrin**](https://osu.ppy.sh/users/5701575) [hunted down](https://github.com/ppy/osu/pull/11849) this particular problem some time ago during a previous restructuring and fixed it for good.
+::**Syrin**::{ user-id=5701575 } [hunted down](https://github.com/ppy/osu/pull/11849) this particular problem some time ago during a previous restructuring and fixed it for good.
 
 Changes to existing maps are not expected to be large (in the range of single percentage points at most) but it is an important change for the correctness of star rating calculation.
 
@@ -117,7 +117,7 @@ Changes to existing maps are not expected to be large (in the range of single pe
 
 The bonus was made dependent on the count of objects in a map, linearly scaling from nothing at 0 objects to the full value at 1000 objects or more.
 
-After some concerns voiced in the community about this change, [**StanR**](https://osu.ppy.sh/users/7217455) has piped up with [another adjustment](https://github.com/ppy/osu/pull/13826) that aims to reward mid-length maps (about ~600 objects) a bit more.
+After some concerns voiced in the community about this change, ::**StanR**::{ user-id=7217455 } has piped up with [another adjustment](https://github.com/ppy/osu/pull/13826) that aims to reward mid-length maps (about ~600 objects) a bit more.
 
 Consult the graphs below to see how this adjustment works in closer detail.
 
@@ -133,7 +133,7 @@ As mentioned previously, approach rate values lower than 8 and and greater than 
 
 Previously, these values stacked together in the end result, which makes very little sense given that approach circles become increasingly less visible when Flashlight ramps up at higher combos.
 
-Going forward, only the larger of the two bonuses will be applied as part of a [set of changes](https://github.com/ppy/osu/pull/13483) laid out by [**emu1337**](https://osu.ppy.sh/users/2185987).
+Going forward, only the larger of the two bonuses will be applied as part of a [set of changes](https://github.com/ppy/osu/pull/13483) laid out by ::**emu1337**::{ user-id=2185987 }.
 
 Additionally, these changes slightly reduce aim skill rewards in the case of wide-angle jumps. See the graph below for a rough visual that aims to convey how the change will impact jumps:
 
@@ -156,7 +156,7 @@ Note: the following changes only affect osu!(lazer) and **star rating** for now.
 
 ### osu!mania: Improved accuracy of osu!(lazer) difficulty calculation
 
-osu!team's very own [**smoogipoo**](https://osu.ppy.sh/users/1040328) has [successfully managed](https://github.com/ppy/osu/pull/10453) to port the mania difficulty calculation algorithm from stable.
+osu!team's very own ::**smoogipoo**::{ user-id=1040328 } has [successfully managed](https://github.com/ppy/osu/pull/10453) to port the mania difficulty calculation algorithm from stable.
 
 While not 100% perfect, it is essentially as close as it can get, resulting in differences below 0.01 stars for the vast majority of all cases. Only one mania-specific map and seven converts with leaderboards have any changes in star rating above 0.2 stars, and most are due to rounding shenanigans and unintended behaviour in stable (commonly referred to as gimmicks) which are fixed in osu!(lazer).
 
@@ -166,7 +166,7 @@ Though solely in the domain of osu!(lazer), it may eventually resolve a [fair](h
 
 As community members explore new ideas in the domain of difficulty and performance calculation, the limitations of how things were previously set up can come to affect new efforts in quite stifling ways.
 
-Long-term contributor [**Syrin**](https://osu.ppy.sh/users/5701575) has made great strides in revamping this process for the benefit of anyone interested in creating their own rulesets in the changes listed below:
+Long-term contributor ::**Syrin**::{ user-id=5701575 } has made great strides in revamping this process for the benefit of anyone interested in creating their own rulesets in the changes listed below:
 
 - [Skills now receive a list of active mods](https://github.com/ppy/osu/pull/11687), which will allow their creators to very easily create mod-specific adjustments in the future. Notably, this new capability has already been utilised to [clean up existing osu!catch star rating calculations](https://github.com/ppy/osu/pull/11857).
 - Skills were previously hard-limited in how many objects they could operate on. [A new change](https://github.com/ppy/osu/pull/11688) now allows direct and manual specification of how many objects can be acted on in relation to any one object, allowing for much more robust algorithms to be developed.
@@ -176,6 +176,6 @@ In summary, ruleset creators now have considerably more fine-grained control ove
 
 ---
 
-A huge thank you goes out to everyone involved in creating, testing and discussing these changes, and another big thanks to [spaceman_atlas](https://osu.ppy.sh/users/3035836) for condensing all of these changes down to an easily digestible format.
+A huge thank you goes out to everyone involved in creating, testing and discussing these changes, and another big thanks to ::spaceman\1atlas::{ user-id=3035836 } for condensing all of these changes down to an easily digestible format.
 
 —osu!team

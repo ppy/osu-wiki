@@ -9,7 +9,7 @@ Thanks to the efforts of many bright-minded individuals in the community, osu!ca
 
 ![](/wiki/shared/news/2020-05-14-osucatch-scoring-updates/generic_equations.jpg)
 
-Befitting of his name, long-term osu!catch player [Sorcerer](https://osu.ppy.sh/users/1913190) has taken the lead on a big update involving many aspects of how difficulty calculation and performance points work in osu!catch, complete with lots of math wizardry and careful adjustment.
+Befitting of his name, long-term osu!catch player ::Sorcerer::{ user-id=1913190 } has taken the lead on a big update involving many aspects of how difficulty calculation and performance points work in osu!catch, complete with lots of math wizardry and careful adjustment.
 
 After much testing and discussion by the osu-dev community, the cumulative changes are now being pushed to live. Note that it will take a few days for the updates to completely reflect. During this time, osu!catch pp updates may be delayed to maintain rank stability.
 

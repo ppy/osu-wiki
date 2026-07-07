@@ -11,7 +11,7 @@ New rules on beatmap vetoing and disqualifications, contributor badges for long-
 
 ## Opening
 
-by [JBHyperion](https://osu.ppy.sh/users/4879508)
+by ::JBHyperion::{ user-id=4879508 }
 
 Hello once again! It’s time for some mapping and modding news you don’t want to lose!
 
@@ -19,7 +19,7 @@ I know I say this every issue, but this time especially so - April was a *busy* 
 
 ## Within the Beatmap Nominators
 
-by [Protastic101](https://osu.ppy.sh/users/6712747)
+by ::Protastic101::{ user-id=6712747 }
 
 This month, we welcome an additional wave of new members to the Beatmap Nominators for the osu! game mode. All the while, the current Beatmap Nominators show no signs of slowing down, continuing the steady growth we saw last month.
 
@@ -35,19 +35,19 @@ These badges will be incremental in nature, with slight variations to the design
 
 After much deliberation and discussion among members of the applications branch of the QAT, over an astounding 94 applicants in the recent osu! round, we finally have results, and are proud to welcome **19 new and returning Beatmap Nominators** to the team! Please give a warm welcome to the following:
 
-[Mirash](https://osu.ppy.sh/users/2841009), [Kyuukai](https://osu.ppy.sh/users/5337374), [Net0](https://osu.ppy.sh/users/5099768), [Ultima Fox](https://osu.ppy.sh/users/3198109), [Deramok](https://osu.ppy.sh/users/1428455), [hypercyte](https://osu.ppy.sh/users/9155377), [Smokeman](https://osu.ppy.sh/users/2140676), [Trynna](https://osu.ppy.sh/users/2652951), [Ryuusei Aika](https://osu.ppy.sh/users/7777875), [SnowNiNo_](https://osu.ppy.sh/users/2506267), [kwk](https://osu.ppy.sh/users/365586), [Sonnyc](https://osu.ppy.sh/users/11771), [Lafayla](https://osu.ppy.sh/users/5312547), [bossandy](https://osu.ppy.sh/users/360437), [Andrea](https://osu.ppy.sh/users/33599), [Sieg](https://osu.ppy.sh/users/1404615), [Mordred](https://osu.ppy.sh/users/7265097), [Kalibe](https://osu.ppy.sh/users/3376777), and [Nao Tomori](https://osu.ppy.sh/users/5364763)!
+::Mirash::{ user-id=2841009 }, [Kyuukai](https://osu.ppy.sh/users/5337374), ::Net0::{ user-id=5099768 }, [Ultima Fox](https://osu.ppy.sh/users/3198109), ::Deramok::{ user-id=1428455 }, [hypercyte](https://osu.ppy.sh/users/9155377), ::Smokeman::{ user-id=2140676 }, [Trynna](https://osu.ppy.sh/users/2652951), ::Ryuusei Aika::{ user-id=7777875 }, [SnowNiNo_](https://osu.ppy.sh/users/2506267), ::kwk::{ user-id=365586 }, [Sonnyc](https://osu.ppy.sh/users/11771), ::Lafayla::{ user-id=5312547 }, [bossandy](https://osu.ppy.sh/users/360437), ::Andrea::{ user-id=33599 }, [Sieg](https://osu.ppy.sh/users/1404615), ::Mordred::{ user-id=7265097 }, [Kalibe](https://osu.ppy.sh/users/3376777), and ::Nao Tomori::{ user-id=5364763 }!
 
 ### Beatmap Nominator Retirements
 
 As the month draws to a close though, we must also say goodbye to familiar faces within the Beatmap Nominators who have moved on from circle and fruit modding to pursue other paths. Please extend gratitude to the following members who have worked hard to bring new and refreshing content to the Ranked section:
 
-[Voli](https://osu.ppy.sh/users/2522275), [Sanyi](https://osu.ppy.sh/users/7496029), [ezek](https://osu.ppy.sh/users/180241), [Hareimu](https://osu.ppy.sh/users/4138746), [Kencho](https://osu.ppy.sh/users/3178411) and [Chromoxx](https://osu.ppy.sh/users/1881639)
+::Voli::{ user-id=2522275 }, [Sanyi](https://osu.ppy.sh/users/7496029), ::ezek::{ user-id=180241 }, [Hareimu](https://osu.ppy.sh/users/4138746), ::Kencho::{ user-id=3178411 } and [Chromoxx](https://osu.ppy.sh/users/1881639)
 
 While we are sad to see you all go, your efforts will be remembered and we wish you luck in your future endeavors!
 
 ## Within the Quality Assurance Team
 
-by [Asherz007](https://osu.ppy.sh/users/9014047)
+by ::Asherz007::{ user-id=9014047 }
 
 This month has seen a fair amount of change for the Quality Assurance Team, as far as operations are concerned at least. There have been plenty of tweaks here and there that have added up to result in a huge impact on how the team works as a collective unit.
 
@@ -79,17 +79,17 @@ These meetings will always share their location in common though - head on over 
 
 ### New Quality Assurance Team additions
 
-With the enormous amount of osu!taiko maps reaching the Ranked section, it is no surprise that more and more people are needed to ensure that their fellow drum bashers are enjoying beatmaps of the highest quality. With that said, give a warm welcome to [Aloda](https://osu.ppy.sh/users/1190127), who joins the disqualification branch!
+With the enormous amount of osu!taiko maps reaching the Ranked section, it is no surprise that more and more people are needed to ensure that their fellow drum bashers are enjoying beatmaps of the highest quality. With that said, give a warm welcome to ::Aloda::{ user-id=1190127 }, who joins the disqualification branch!
 
 ### QAT Interviews
 
-One final thing to note: since his return to the Quality Assurance Team last month, [Feerum](https://osu.ppy.sh/users/4815717) has expressed interest in reviving an old feature that never quite made it to our previous issues - **QAT Interviews**. These will essentially take the form of a short Q&A with interested team members, similar to the “Ask Me Anything!” feature from the previous tumblr blog.
+One final thing to note: since his return to the Quality Assurance Team last month, ::Feerum::{ user-id=4815717 } has expressed interest in reviving an old feature that never quite made it to our previous issues - **QAT Interviews**. These will essentially take the form of a short Q&A with interested team members, similar to the “Ask Me Anything!” feature from the previous tumblr blog.
 
 If you’d like a chance to get to know your Quality Assurance Team better, or get a more personal insight as to our work and how we came to be, head on over to the [QAT Interview discussion & poll](https://osu.ppy.sh/community/forums/topics/739410) and share your thoughts!
 
 ## Summary
 
-by [JBHyperion](https://osu.ppy.sh/users/4879508)
+by ::JBHyperion::{ user-id=4879508 }
 
 If you managed to make it through all that, thanks for staying with us! I have a sneaking suspicion that if past history is anything to go by, next month will be just as chaotic - but that makes it all the more interesting! One thing you can count on though is that we’ll be back again next month to share it all with you!
 

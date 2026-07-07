@@ -9,7 +9,7 @@ An Australian origin isn't the only thing osu! and our newest Featured Artist ha
 
 ![](https://assets.ppy.sh/artists/538/header.jpg)
 
-**jeko** (known around here as [J3C](https://osu.ppy.sh/users/15956540)) has been clicking circles for the better half of a decade, where they've been hearing the rhythm game-y sounds of renowned producers like [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31), *celtix* and *ReeK*.
+**jeko** (known around here as ::J3C::{ user-id=15956540 }) has been clicking circles for the better half of a decade, where they've been hearing the rhythm game-y sounds of renowned producers like [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31), *celtix* and *ReeK*.
 
 Consistent exposure is bound to have an effect. In the words of **jeko**...
 
@@ -23,7 +23,7 @@ Regardless of how you engage with **jeko**'s music, we can all agree that it's a
 
 ### jeko - Geheimnis
 
-While **jeko** is a circle clicker, their music's introduction to the wider osu! audience was [this 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2463674) hosted by [FAMoss](https://osu.ppy.sh/users/7707789)!
+While **jeko** is a circle clicker, their music's introduction to the wider osu! audience was [this 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2463674) hosted by ::FAMoss::{ user-id=7707789 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -33,7 +33,7 @@ While **jeko** is a circle clicker, their music's introduction to the wider osu!
 
 ### jeko - persistence
 
-A technical song calls for [a technical map](https://osu.ppy.sh/beatmapsets/2494074). Thank [Roupus](https://osu.ppy.sh/users/11117670) and [virtuoso](https://osu.ppy.sh/users/7540631) for delivering.
+A technical song calls for [a technical map](https://osu.ppy.sh/beatmapsets/2494074). Thank ::Roupus::{ user-id=11117670 } and [virtuoso](https://osu.ppy.sh/users/7540631) for delivering.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/538/Songs/jeko%20-%20persistence.mp3">

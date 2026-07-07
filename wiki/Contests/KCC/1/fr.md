@@ -33,10 +33,10 @@ Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping o
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Organisateur | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) |
-| Responsable | ::{ flag=KR }:: [Oni Suika](https://osu.ppy.sh/users/4848023) |
-| Designer | ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| Juges | ::{ flag=PL }:: [_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=GT }:: [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754), ::{ flag=KR }:: [Pengdoll](https://osu.ppy.sh/users/6392061) |
+| Organisateur | ::{ flag=KR }:: ::Garalulu::{ user-id=757783 } |
+| Responsable | ::{ flag=KR }:: ::Oni Suika::{ user-id=4848023 } |
+| Designer | ::{ flag=KR }:: ::POCARI SWEAT::{ user-id=5082685 } |
+| Juges | ::{ flag=PL }:: ::\1underjoy::{ user-id=2235750 }, ::{ flag=KR }:: ::Garalulu::{ user-id=757783 }, ::{ flag=GT }:: ::Hoto Cocoa::{ user-id=6974536 }, ::{ flag=KR }:: ::Kawawa::{ user-id=4647754 }, ::{ flag=KR }:: ::Pengdoll::{ user-id=6392061 } |
 
 ## Liens
 
@@ -70,9 +70,9 @@ Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping o
 
 | Places | Mappeur |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ::{ flag=KR }:: [11Bit](https://osu.ppy.sh/users/14804526) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ::{ flag=KR }:: [Sherie](https://osu.ppy.sh/users/9113475) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | ::{ flag=CA }:: [arpia97](https://osu.ppy.sh/users/6363008) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ::{ flag=KR }:: ::11Bit::{ user-id=14804526 } |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ::{ flag=KR }:: ::Sherie::{ user-id=9113475 } |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | ::{ flag=CA }:: ::arpia97::{ user-id=6363008 } |
 
 ## Règles
 

@@ -23,7 +23,7 @@ See what the hype is about for yourself:
 
 ### Ruination
 
-Explore [the map from the video above](https://osu.ppy.sh/beatmapsets/1848184) hosted by [Shii](https://osu.ppy.sh/users/9186316)!
+Explore [the map from the video above](https://osu.ppy.sh/beatmapsets/1848184) hosted by ::Shii::{ user-id=9186316 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/339/The%20Architect%2FFRASER%20EDWARDS%20-%20Ruination.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Explore [the map from the video above](https://osu.ppy.sh/beatmapsets/1848184) h
 
 ### Stop Saying We Sound Like Dragonforce
 
-Try out [this Loved osu! map](https://osu.ppy.sh/beatmapsets/1173967) hosted by [GLORYHAMMER](https://osu.ppy.sh/users/6137858) or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1189876) hosted by [frukoyurdakul](https://osu.ppy.sh/users/7612550)!
+Try out [this Loved osu! map](https://osu.ppy.sh/beatmapsets/1173967) hosted by ::GLORYHAMMER::{ user-id=6137858 } or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1189876) hosted by ::frukoyurdakul::{ user-id=7612550 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/339/The%20Architect%2FFRASER%20EDWARDS%20-%20Stop%20Saying%20We%20Sound%20Like%20Dragonforce.mp3" type="audio/mpeg">

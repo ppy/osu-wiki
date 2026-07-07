@@ -17,7 +17,7 @@ Sample some of **lexycat**'s tunes down here:
 
 ### [lexycat - incision](https://assets.ppy.sh/artists/468/crystal%20forest/lexycat%20-%20incision.osz)
 
-[COE](/wiki/Community/cavoe's_osu!_event) 2025 is on the horizon, but memories of last year's event are as fresh as yesterday... or as fresh as right now, if you recall [mangomizer](https://osu.ppy.sh/users/1893718)'s thumbs tapping to [HEAVENLY MOON](https://osu.ppy.sh/users/13681283)'s map of [incision](https://osu.ppy.sh/beatmapsets/2208878):
+[COE](/wiki/Community/cavoe's_osu!_event) 2025 is on the horizon, but memories of last year's event are as fresh as yesterday... or as fresh as right now, if you recall ::mangomizer::{ user-id=1893718 }'s thumbs tapping to ::HEAVENLY MOON::{ user-id=13681283 }'s map of [incision](https://osu.ppy.sh/beatmapsets/2208878):
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -27,7 +27,7 @@ Sample some of **lexycat**'s tunes down here:
 
 ### [lexycat - glitter *](https://assets.ppy.sh/artists/468/glitter/lexycat%20-%20glitter%20.osz)
 
-Use your own thumbs on [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2300144) hosted by [Irone OSU](https://osu.ppy.sh/users/10678230)!
+Use your own thumbs on [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2300144) hosted by ::Irone OSU::{ user-id=10678230 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/468/glitter/lexycat%20-%20glitter%20.mp3">
@@ -35,7 +35,7 @@ Use your own thumbs on [this osu!taiko map](https://osu.ppy.sh/beatmapsets/23001
 
 ### [lexycat - Abyssal Storm](https://assets.ppy.sh/artists/468/Abyssal%20Storm/lexycat%20-%20Abyssal%20Storm.osz)
 
-Or stretch the rest of your fingers on [this osu!mania map](https://osu.ppy.sh/beatmapsets/2285560) hosted by [Usagi_](https://osu.ppy.sh/users/16046205)!
+Or stretch the rest of your fingers on [this osu!mania map](https://osu.ppy.sh/beatmapsets/2285560) hosted by ::Usagi\1::{ user-id=16046205 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/468/Abyssal%20Storm/lexycat%20-%20Abyssal%20Storm.mp3">

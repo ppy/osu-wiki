@@ -18,4 +18,4 @@ Authenticatie voor de nieuwe API gebeurt via het [OAuth 2 protocol](https://oaut
 
 ## Zie ook
 
-- Oorspronkelijke forumpost: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) door [peppy](https://osu.ppy.sh/users/2)
+- Oorspronkelijke forumpost: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) door ::peppy::{ user-id=2 }

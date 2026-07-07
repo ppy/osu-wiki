@@ -52,7 +52,7 @@ Before this change, all overlapping long notes would receive a fixed bonus. Afte
 
 This change also fixes an oversight with long notes in the rightmost column of a map taking precedence in overlap calculation.
 
-An in-depth [blog post](https://eve-ning.github.io/#/blog/004/) and [interactive demonstration](https://www.desmos.com/calculator/7eboanfzne) by [**Evening**](https://osu.ppy.sh/users/2193881) may help visualise how this change affects the long note bonus if you're interested.
+An in-depth [blog post](https://eve-ning.github.io/#/blog/004/) and [interactive demonstration](https://www.desmos.com/calculator/7eboanfzne) by ::**Evening**::{ user-id=2193881 } may help visualise how this change affects the long note bonus if you're interested.
 
 ### Chord difficulty changes
 

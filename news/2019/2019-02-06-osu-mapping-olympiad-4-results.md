@@ -24,11 +24,11 @@ Back in September, we challenged our great mapping community to create a thoroug
 | \#9 | hoangnobitang | Dutiful Manatee | 6 | 3 | 2 | 3 | 1 | 3 | **18** |
 | \#10 | Oeti | Aromatic Owl | 6 | 3 | 2 | 3 | 0 | 3 | **17** |
 
-Securing **first place** for the inaugural osu!catch Mapping Olympiad is [**Sinnoh**](https://osu.ppy.sh/users/4236057) with a total score of **135**! Sinnoh's entry blew away the competition, securing the highest aggregate scores in Musical Relevance, Creativity and Technique, and also garnered a perfect score from two of the three judges' in the Impression category.
+Securing **first place** for the inaugural osu!catch Mapping Olympiad is ::**Sinnoh**::{ user-id=4236057 } with a total score of **135**! Sinnoh's entry blew away the competition, securing the highest aggregate scores in Musical Relevance, Creativity and Technique, and also garnered a perfect score from two of the three judges' in the Impression category.
 
-A strong **second place** is awarded to [**Minato Yukina**](https://osu.ppy.sh/users/531253) with a total score of **126**! Minato Yukina's entry tied with Sinnoh's for the best Difficulty Spread, and whilst not placing first in any particular category, put in a strong performance across the board to secure a respectably high finish from the veteran.
+A strong **second place** is awarded to ::**Minato Yukina**::{ user-id=531253 } with a total score of **126**! Minato Yukina's entry tied with Sinnoh's for the best Difficulty Spread, and whilst not placing first in any particular category, put in a strong performance across the board to secure a respectably high finish from the veteran.
 
-Rounding out the podium in **third place** is [**Ascendance**](https://osu.ppy.sh/users/2931883) with a total score of **117.5**! Though he could not repeat his feats from 2017's osu!catch Beatmapping Contest, receiving the highest score for hitsounding and solid marks across all other categories helped the most recent *Elite Mapper* in osu!catch edge ahead of fierce competition.
+Rounding out the podium in **third place** is ::**Ascendance**::{ user-id=2931883 } with a total score of **117.5**! Though he could not repeat his feats from 2017's osu!catch Beatmapping Contest, receiving the highest score for hitsounding and solid marks across all other categories helped the most recent *Elite Mapper* in osu!catch edge ahead of fierce competition.
 
 [Complete results for this content, including the judges' comments for each submission can be found here.](https://docs.google.com/spreadsheets/d/1QTQGLqWne1WeJIu36_lS_AIZ0et4-DJ-OngAVCftA08/edit?usp=sharing)
 
@@ -40,7 +40,7 @@ A huge thank you to everyone who submitted an entry and congratulations to the t
 
 [A complete listing of all accumulated Olympiad Points can be located here](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing). Updates should be posted shortly after each contest.
 
-Additional thanks to our hard-working judges for this contest: [Absolute Zero](https://osu.ppy.sh/users/4847256), [Nokashi](https://osu.ppy.sh/users/5431196) and [-Plus-](https://osu.ppy.sh/users/829284). Unfortunately -Plus- was unable to complete his judge comments due to real-life issues which we hope he is able to resolve soon. Nevertheless, our judges have devoted a great deal of time and effort to ensure the success of this contest, so please show your appreciation!
+Additional thanks to our hard-working judges for this contest: ::Absolute Zero::{ user-id=4847256 }, [Nokashi](https://osu.ppy.sh/users/5431196) and ::-Plus-::{ user-id=829284 }. Unfortunately -Plus- was unable to complete his judge comments due to real-life issues which we hope he is able to resolve soon. Nevertheless, our judges have devoted a great deal of time and effort to ensure the success of this contest, so please show your appreciation!
 
 If you enjoyed the contest and song, assistance with the Ranking process for [Sinnoh's winning entry](https://osu.ppy.sh/beatmapsets/921419#fruits/1924123) would be greatly appreciated! Additionally, [all of the entries can be downloaded here](https://drive.google.com/open?id=1cTCPOygsn21-AHpEWPrUsfEg4f6Kfybk) if you wish to check them out for yourselves!
 

@@ -9,7 +9,7 @@ Yep.
 
 ![](https://assets.ppy.sh/artists/385/header.jpg)
 
-**Will Stetson** is a one-of-a-kind [osu! player](https://osu.ppy.sh/users/4909088). While he was grinding thousands of hours clicking circles, winning tournaments, and commentating for our very own [osu! World Cup](/wiki/Tournaments/OWC), he's also been pursuing a career as a vocalist!
+**Will Stetson** is a one-of-a-kind ::osu! player::{ user-id=4909088 }. While he was grinding thousands of hours clicking circles, winning tournaments, and commentating for our very own [osu! World Cup](/wiki/Tournaments/OWC), he's also been pursuing a career as a vocalist!
 
 For the better half of a decade, **Will Stetson** has been pumping out covers of iconic songs in the osu! community. (A certain *"me no mae no"* may ring a bell.) As of 2023, he's begun producing his own original tracks, and that's why he's here today!
 
@@ -25,7 +25,7 @@ Sticking to his roots as an osu! player, **Will Stetson**'s debut as a Featured 
 
 ### Will Stetson - Koala (Self Cover)
 
-Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/2078554#osu/4352324) hosted by [Luscent](https://osu.ppy.sh/users/2688581)!
+Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/2078554#osu/4352324) hosted by ::Luscent::{ user-id=2688581 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/385/Koala/Will Stetson - Koala (Self Cover).mp3">

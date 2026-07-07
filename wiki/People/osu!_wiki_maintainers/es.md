@@ -10,24 +10,24 @@ Si necesitas ayuda para hacer una contribución o quieres una revisión de tu so
 
 | Perfil de osu! | Perfil de GitHub | Estado | Idiomas adicionales |
 | :-- | :-- | :-- | :-- |
-| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Inactivo |  |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | Inactivo |  |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) | **Activo** | Árabe |
-| ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Inactivo |  |
-| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inactivo | Español |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | Inactivo | Alemán |
-| ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | Inactivo |  |
-| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | [Nivalyx](https://github.com/Nivalyx) | **Activo** | Indonesio |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Inactivo | Alemán |
-| ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Activo** | Japonés |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) | Inactivo |  |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | [MChecaH](https://github.com/MChecaH) | **Activo** | Español |
-| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Repflez](https://github.com/Repflez) | Inactivo | Español |
-| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | Inactivo | Francés |
-| ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **Activo** | Ruso |
-| ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | Inactivo | Polaco |
-| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | **Activo** | Finlandés, sueco |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | Inactivo | Español |
+| ::{ flag=US }:: ::clayton::{ user-id=3666350 } | [cl8n](https://github.com/cl8n) | Inactivo |  |
+| ::{ flag=AU }:: ::Ephemeral::{ user-id=102335 } | [Ephemeralis](https://github.com/Ephemeralis) | Inactivo |  |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | [Hiviexd](https://github.com/Hiviexd) | **Activo** | Árabe |
+| ::{ flag=US }:: ::Joehu::{ user-id=8549835 } | [Joehuu](https://github.com/Joehuu) | Inactivo |  |
+| ::{ flag=AR }:: ::juankristal::{ user-id=443656 } | [juankristal](https://github.com/juankristal) | Inactivo | Español |
+| ::{ flag=DE }:: ::Loctav::{ user-id=71366 } | [Loctav](https://github.com/Loctav) | Inactivo | Alemán |
+| ::{ flag=US }:: ::MegaApple\1Pi::{ user-id=2148208 } | [MegaApplePi](https://github.com/MegaApplePi) | Inactivo |  |
+| ::{ flag=ID }:: ::Niva::{ user-id=197805 } | [Nivalyx](https://github.com/Nivalyx) | **Activo** | Indonesio |
+| ::{ flag=DE }:: ::Okoratu::{ user-id=1623405 } | [Okorin](https://github.com/Okorin) | Inactivo | Alemán |
+| ::{ flag=AU }:: ::peppy::{ user-id=2 } | [peppy](https://github.com/peppy) | **Activo** | Japonés |
+| ::{ flag=US }:: ::pishifat::{ user-id=3178418 } | [pishifat](https://github.com/pishifat) | Inactivo |  |
+| ::{ flag=ES }:: ::RandomeLoL::{ user-id=7080063 } | [MChecaH](https://github.com/MChecaH) | **Activo** | Español |
+| ::{ flag=MX }:: ::Repflez::{ user-id=201392 } | [Repflez](https://github.com/Repflez) | Inactivo | Español |
+| ::{ flag=FR }:: ::Shiro::{ user-id=113005 } | [osuShiro](https://github.com/osuShiro) | Inactivo | Francés |
+| ::{ flag=CH }:: ::TicClick::{ user-id=672931 } | [TicClick](https://github.com/TicClick) | **Activo** | Ruso |
+| ::{ flag=PL }:: ::TPGPL::{ user-id=3944705 } | [TPGPL](https://github.com/TPGPL) | Inactivo | Polaco |
+| ::{ flag=SE }:: ::Walavouchey::{ user-id=5773079 } | [Walavouchey](https://github.com/Walavouchey) | **Activo** | Finlandés, sueco |
+| ::{ flag=CL }:: ::WalterToro::{ user-id=5281416 } | [WalterToro](https://github.com/WalterToro) | Inactivo | Español |
 
 ## Mantenedores de noticias
 
@@ -35,18 +35,18 @@ Los siguientes son mantenedores que, además de sus responsabilidades habituales
 
 | Perfil de osu! | Perfil de GitHub |
 | :-- | :-- |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) |
-| ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) |
-| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) |
+| ::{ flag=AU }:: ::Ephemeral::{ user-id=102335 } | [Ephemeralis](https://github.com/Ephemeralis) |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | [Hiviexd](https://github.com/Hiviexd) |
+| ::{ flag=AU }:: ::peppy::{ user-id=2 } | [peppy](https://github.com/peppy) |
+| ::{ flag=US }:: ::pishifat::{ user-id=3178418 } | [pishifat](https://github.com/pishifat) |
+| ::{ flag=SE }:: ::Walavouchey::{ user-id=5773079 } | [Walavouchey](https://github.com/Walavouchey) |
 
 ## Mantenedores pasados
 
 Los siguientes son mantenedores que ya no figuran como parte del [equipo de la wiki](https://github.com/orgs/ppy/teams/wiki/members). Esto también incluye a los mantenedores del [MediaWiki](/wiki/History_of_osu!/osu!_wiki#mediawiki-(2011---2017)), que era donde se alojaba la wiki de osu! antes de su migración a GitHub.
 
-- ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032)
-- ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)
-- ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570)
-- ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078)
-- ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865)
+- ::{ flag=RU }:: ::Dellirium::{ user-id=519032 }
+- ::{ flag=NZ }:: ::deadbeat::{ user-id=128370 }
+- ::{ flag=PL }:: ::Galkan::{ user-id=169570 }
+- ::{ flag=PH }:: ::Nathanael::{ user-id=2295078 }
+- ::{ flag=PL }:: ::Ukami::{ user-id=820865 }

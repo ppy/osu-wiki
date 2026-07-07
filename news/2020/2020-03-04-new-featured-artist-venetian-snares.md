@@ -13,7 +13,7 @@ An undisputed master of the majesty that is eclectic sampling and sheer experime
 
 It is no surprise that an artist so focused on rhythmic layering would find his work embraced by osu! mappers, especially with our vaunted history of tracks from the likes of *goreshit* and others.
 
-We're proud to welcome **Venetian Snares** aboard with a cursory selection of **8** tracks from across his entire body of work, encompassing the broad selection of beatmaps made by mappers like [fergas](https://osu.ppy.sh/users/3144542) and [Blue Dragon](https://osu.ppy.sh/users/19048) (now Mismagius).
+We're proud to welcome **Venetian Snares** aboard with a cursory selection of **8** tracks from across his entire body of work, encompassing the broad selection of beatmaps made by mappers like ::fergas::{ user-id=3144542 } and [Blue Dragon](https://osu.ppy.sh/users/19048) (now Mismagius).
 
 Check out a sample below:
 

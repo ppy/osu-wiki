@@ -119,13 +119,13 @@ stars>=7 stars<8 od<8
 unplayed= status=r christmas
 ```
 
-(Client, website) Check if at least one difficulty of [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmapsets/28107) by ::{ flag=FR }:: [galvenize](https://osu.ppy.sh/users/381444) is downloaded:
+(Client, website) Check if at least one difficulty of [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmapsets/28107) by ::{ flag=FR }:: ::galvenize::{ user-id=381444 } is downloaded:
 
 ```
 28107
 ```
 
-(Website) Find beatmaps ranked between August and October 2010 which contain at least a single difficulty made by ::{ flag=GB }:: [Natteke](https://osu.ppy.sh/users/157177):
+(Website) Find beatmaps ranked between August and October 2010 which contain at least a single difficulty made by ::{ flag=GB }:: ::Natteke::{ user-id=157177 }:
 
 ```
 ranked>=2010-08 ranked<2010-11 creator=Natteke

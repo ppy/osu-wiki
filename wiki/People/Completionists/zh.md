@@ -21,19 +21,19 @@ tags:
 
 | 名字 | 全收集日期 | 玩过的所有难度数量 |
 | :-- | :-- | :-- |
-| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | 2019-04-27 | 60,845 |
-| ::{ flag=PL }:: [PookieBear](https://osu.ppy.sh/users/7635621) | 2021-08-11 | 82,298 |
-| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | 2023-03-12 | 99,842 |
+| ::{ flag=US }:: ::xasuma::{ user-id=3172980 } | 2019-04-27 | 60,845 |
+| ::{ flag=PL }:: ::PookieBear::{ user-id=7635621 } | 2021-08-11 | 82,298 |
+| ::{ flag=US }:: ::EEEEEEEEEEEEEEE::{ user-id=2927048 } | 2023-03-12 | 99,842 |
 
 ### osu!taiko
 
 | 名字 | 全收集日期 | 玩过的所有难度数量 |
 | :-- | :-- | :-- |
-| ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | 2019-11-03 | 8,841 |
-| ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) | 2023-08-14 | 22,170 |
+| ::{ flag=AU }:: ::Jaye::{ user-id=4841352 } | 2019-11-03 | 8,841 |
+| ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } | 2023-08-14 | 22,170 |
 
 ## 冷知识
 
-- ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) 因为是第一个完成这个成就的玩家，所以他收到了 *The First Completionist* [玩家头衔](/wiki/Community/User_title)。
-- ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) 因为是第一个完成这个成就的太鼓玩家，并且，他在每张 osu!taiko 上架谱面上都打出了全连成绩，所以他收到了 *Drum Decimator* 玩家头衔。
+- ::{ flag=US }:: ::xasuma::{ user-id=3172980 } 因为是第一个完成这个成就的玩家，所以他收到了 *The First Completionist* [玩家头衔](/wiki/Community/User_title)。
+- ::{ flag=AU }:: ::Jaye::{ user-id=4841352 } 因为是第一个完成这个成就的太鼓玩家，并且，他在每张 osu!taiko 上架谱面上都打出了全连成绩，所以他收到了 *Drum Decimator* 玩家头衔。
 - 在 2023 年 9 月之前，达成此成就的玩家会收到 *osu!completionist* [玩家头衔](/wiki/Community/User_title) 作为奖赏。现在该玩家头衔已经停用，取而代之的是相应的[主页奖牌](/wiki/Community/Profile_badge)。

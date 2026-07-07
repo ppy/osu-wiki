@@ -5,13 +5,13 @@ date: 2023-07-07 12:00:00 +0000
 series: offline_events
 ---
 
-16 of osu!'s fiercest tournament players battle in this year's edition of **The Roundtable**, a major in-person invitational tournament hosted by [BTMC](https://osu.ppy.sh/users/3171691)!
+16 of osu!'s fiercest tournament players battle in this year's edition of **The Roundtable**, a major in-person invitational tournament hosted by ::BTMC::{ user-id=3171691 }!
 
 ![](/wiki/shared/news/2023-07-07-the-roundtable-ii/banner.jpg)
 
 **The Roundtable II** takes the concept behind [last year's prototype tournament](/wiki/Tournaments/The_Roundtable) and raises the bar tenfold.
 
-This **3-day** event from **July 7–9** features **2 major tournaments** and a bundle of side events, all streamed from [BTMC](https://osu.ppy.sh/users/3171691)'s [Twitch channel](https://twitch.tv/BTMC)!
+This **3-day** event from **July 7–9** features **2 major tournaments** and a bundle of side events, all streamed from ::BTMC::{ user-id=3171691 }'s [Twitch channel](https://twitch.tv/BTMC)!
 
 ## Schedule
 
@@ -56,7 +56,7 @@ This year's roster features players from all over the globe, along with the high
 
 **The Roundtable II** is just around the corner.
 
-Experience the most highly anticipated in-person osu! tournament of the year through the livestream on [BTMC](https://osu.ppy.sh/users/3171691)'s [Twitch channel](https://twitch.tv/BTMC)!
+Experience the most highly anticipated in-person osu! tournament of the year through the livestream on ::BTMC::{ user-id=3171691 }'s [Twitch channel](https://twitch.tv/BTMC)!
 
 We'll see you there.
 

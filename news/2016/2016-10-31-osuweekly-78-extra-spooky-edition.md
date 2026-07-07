@@ -30,24 +30,24 @@ Do you ever get the feeling the game changes whenever you're not looking at it? 
 
 **Now for this week's most numerically inclined section - the weekly scorewatch!** Who doesn't love to be swarmed in some good ol' scores and achievements? Let's jump right in.
 
-Earlier in October, [RAMPAGE88](https://osu.ppy.sh/users/448547), a Saudi Arabian osu!catch player, set a record for having the highest ranked score in all modes, with 200,000,000,000. osu!catch has been setting many records, with the highest pp play also in osu!catch. I'll wait for someone to hit 250,000,000,000. That's a *lot* of zeroes.
+Earlier in October, ::RAMPAGE88::{ user-id=448547 }, a Saudi Arabian osu!catch player, set a record for having the highest ranked score in all modes, with 200,000,000,000. osu!catch has been setting many records, with the highest pp play also in osu!catch. I'll wait for someone to hit 250,000,000,000. That's a *lot* of zeroes.
 
 Fancy some taiko action? [\_yu68](https://osu.ppy.sh/users/_yu68) FCed [DragonForce - Heroes Of Our Time](https://osu.ppy.sh/beatmapsets/461782) on DT (99.52%), gaining 586pp. This was an 8.44* FC as well, making it all the more impressive.
 
 ![](https://osu.ppy.sh/ss/6435657)
 <p style="text-align:center;"><i>More like the Horrors of Our Time. Do people even have fingers left after >8 star plays?</i></p>
 
-Step aside Rafis and hvick225, [Gayzmcgee](https://osu.ppy.sh/users/1419095) has stolen No.1 on [FLOWxGRANRODEO - 7 -seven-](https://osu.ppy.sh/beatmapsets/282345) with an impressive HDDT SS, supplying him a tasty 564pp score.
+Step aside Rafis and hvick225, ::Gayzmcgee::{ user-id=1419095 } has stolen No.1 on [FLOWxGRANRODEO - 7 -seven-](https://osu.ppy.sh/beatmapsets/282345) with an impressive HDDT SS, supplying him a tasty 564pp score.
 
 ![](https://osu.ppy.sh/ss/6435665)
 <p style="text-align:center;"><i>The only way this could've been more satisfying is if it were 565pp, or had a seven in it somehow.</i></p>
 
-[Toy](https://osu.ppy.sh/users/2757689) is USA's boy indeed! He not only managed to SS [Our Stolen Theory - United (L.A.O.S Remix)](https://osu.ppy.sh/beatmapsets/237768), granting him 521pp, but also FCed [Yooh - Ice Angel](https://osu.ppy.sh/beatmapsets/297933) with an HDHR 98.90% score giving him 575pp. He will also participate in the World Cup this year again, so watch out for this man!
+::Toy::{ user-id=2757689 } is USA's boy indeed! He not only managed to SS [Our Stolen Theory - United (L.A.O.S Remix)](https://osu.ppy.sh/beatmapsets/237768), granting him 521pp, but also FCed [Yooh - Ice Angel](https://osu.ppy.sh/beatmapsets/297933) with an HDHR 98.90% score giving him 575pp. He will also participate in the World Cup this year again, so watch out for this man!
 
 ![](https://osu.ppy.sh/ss/6435682)
 <p style="text-align:center;"><i>Infinitely spooky indeed.</i></p>
 
-Remember the rarity of 700pp plays? No? Me neither! [Vaxei](https://osu.ppy.sh/users/4787150) and [Rafis](https://osu.ppy.sh/users/2558286) went on to set respective 700pp plays; the former setting a HDDT 98.73% Rank 1 FC score on [Aquors - Aozora Jumping Heart \[hvick225's Extra\]](https://osu.ppy.sh/beatmaps/1063410?m=0) granting him 711pp, the latter setting a HDDTHR 99.25% Rank 1 FC score on [Ayase Rie - Yuima-ru*World TVver. \[Extra\]](https://osu.ppy.sh/beatmaps/983680?m=0), giving him 713pp.
+Remember the rarity of 700pp plays? No? Me neither! ::Vaxei::{ user-id=4787150 } and [Rafis](https://osu.ppy.sh/users/2558286) went on to set respective 700pp plays; the former setting a HDDT 98.73% Rank 1 FC score on [Aquors - Aozora Jumping Heart \[hvick225's Extra\]](https://osu.ppy.sh/beatmaps/1063410?m=0) granting him 711pp, the latter setting a HDDTHR 99.25% Rank 1 FC score on [Ayase Rie - Yuima-ru*World TVver. \[Extra\]](https://osu.ppy.sh/beatmaps/983680?m=0), giving him 713pp.
 
 ![](https://osu.ppy.sh/ss/6452900)
 <p style="text-align:center;"><i>Something's jumping, and it isn't a heart.</i></p>

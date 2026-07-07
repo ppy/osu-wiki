@@ -42,4 +42,4 @@ Paczki beatmap znajdują się [tutaj](https://osu.ppy.sh/beatmaps/packs).
 > Uwaga: Torrenty z beatmapami wydają się być martwe wśród społeczności osu!.
 
 - [Torrenty z beatmapami](https://osu.ppy.sh/community/forums/topics/147478)
-  - [HiraOsu! - Torrenty](http://osu.hiramiya.me/torrents.htm) utworzone przez użytkownika [Hiramiya](https://osu.ppy.sh/users/1313441)
+  - [HiraOsu! - Torrenty](http://osu.hiramiya.me/torrents.htm) utworzone przez użytkownika ::Hiramiya::{ user-id=1313441 }

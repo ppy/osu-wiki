@@ -8,7 +8,7 @@ outdated: true
 
 ### Patrones de 15 grados
 
-Nominador: [grumd](https://osu.ppy.sh/users/530913)
+Nominador: ::grumd::{ user-id=530913 }
 
 Los **patrones de 15 grados** son una técnica exclusiva para los sliders.
 Empieza por trazar una sección con solo sliders horizontales y verticales.
@@ -34,13 +34,13 @@ También pueden usarse ángulos de entre 10 y 80 grados.
 
 *No debe confundirse con [Espaciado hacia fuera](#espaciado-hacia-fuera).*
 
-Nominador: [Gabi](https://osu.ppy.sh/users/57057)
+Nominador: ::Gabi::{ user-id=57057 }
 
 El **espaciado acelerado** es cuando la distancia de cada objeto se coloca cada vez más lejos, mientras que el tiempo entre ellos sigue siendo el mismo.
 
 ### Ritmos de ida y vuelta
 
-Nominador: [kingcobra52](https://osu.ppy.sh/users/9934)
+Nominador: ::kingcobra52::{ user-id=9934 }
 
 Los **ritmos de ida y vuelta** se componen de dos stacks de ritmos (o más), con las notas impares en un stack y las pares en el otro.
 Para usarlo, el jugador debe alternar entre los dos stacks.
@@ -49,7 +49,7 @@ Se recomienda que solo se usen para las dificultades más difíciles, ya que pue
 
 ### Stacks diferenciales
 
-Nominador: [NoHItter](https://osu.ppy.sh/users/124455)
+Nominador: ::NoHItter::{ user-id=124455 }
 
 Los **stacks diferenciales** consisten en notas que están espaciadas entre sí de forma incoherente en la línea de tiempo.
 Algo notable es que estos objetos se mapean como si fueran un ritmo consistente.
@@ -60,7 +60,7 @@ Al jugar un beatmap que usa esta técnica, puede ser muy desafiante jugar con el
 
 ### Secciones de drenaje
 
-Nominador: [SapphireGhost](https://osu.ppy.sh/users/388602)
+Nominador: ::SapphireGhost::{ user-id=388602 }
 
 Las **secciones de drenaje** son secciones de un beatmap que de repente se vuelven *más lentas* o *menos difíciles* en un intento de adaptarse mejor a la canción o hacer que la barra de HP se drene.
 
@@ -70,14 +70,14 @@ Las secciones de drenaje deben usarse con moderación y solo cuando la canción 
 
 ### Medio tiempo
 
-Nominador: [Ekaru](https://osu.ppy.sh/users/17938)
+Nominador: ::Ekaru::{ user-id=17938 }
 
 El **medio tiempo** se compone de un cuarto de un pulso seguido de dos octavos de un pulso, dispuestos de forma similar a los [ritmos de ida y vuelta](#ritmos-de-ida-y-vuelta) excepto que la tercera nota se detiene.
 Esto creará una línea recta.
 
 ### Centro con extremos
 
-Nominador: [Beuchi](https://osu.ppy.sh/users/67192)
+Nominador: ::Beuchi::{ user-id=67192 }
 
 La formación de un **centro con extremos** es literalmente un centro con extremos que sobresalen.
 Esta técnica requiere al menos 8 o 9 objetos que estén a medio pulso uno de otro.
@@ -94,7 +94,7 @@ Sin embargo, puedes usar 3, 5 o 6 extremos en su lugar (cuando hagas esto, aseg�
 
 ### Ida y vuelta lineal
 
-Nominador: [Derekku](https://osu.ppy.sh/users/91341)
+Nominador: ::Derekku::{ user-id=91341 }
 
 La **ida y vuelta lineal** es una variante de los [ritmos de ida y vuelta](#ritmos-de-ida-y-vuelta).
 La diferencia es que estos no usan stacks, sino que requieren que el jugador se mueva hacia adelante y hacia atrás entre los objetos.
@@ -104,7 +104,7 @@ Es muy importante que el mapper deje clara la dirección hacia la que se dirigen
 
 *No debe confundirse con [Espaciado acelerado](#espaciado-acelerado)*
 
-Nominador: [Pasonia](https://osu.ppy.sh/users/43345)
+Nominador: ::Pasonia::{ user-id=43345 }
 
 El **espaciado hacia afuera** se refiere a los objetos en los que están colocados en distancia, no en tiempo.
 Esta técnica tiene la ventaja de mantener el ritmo de una melodía durante esa sección del mapa.
@@ -117,7 +117,7 @@ Otra variante que puedes añadir es colocar un círculo en el centro después de
 
 ### Pasos alejados
 
-Nominador: [OzzyOzrock](https://osu.ppy.sh/users/465153)
+Nominador: ::OzzyOzrock::{ user-id=465153 }
 
 Los **pasos alejados** usan una trayectoria lineal de círculos que están separados por un cuarto de pulso.
 Sin embargo, al golpear el «final» de la línea, los objetos retroceden un espacio (el círculo antes de que la línea hubiera terminado) y luego cambian de dirección.
@@ -126,7 +126,7 @@ Sin embargo, al golpear el «final» de la línea, los objetos retroceden un esp
 
 ### Ralentización de los sliders
 
-Nominador: [123MegaApple123](https://osu.ppy.sh/users/2148208)
+Nominador: ::123MegaApple123::{ user-id=2148208 }
 
 Las **ralentizaciones de los sliders** ralentizan bruscamente un slider reduciendo temporalmente a la mitad un punto de tiempo heredado (los verdes) para complementar la nota larga de la música (o de la voz).
 
@@ -136,7 +136,7 @@ Las **ralentizaciones de los sliders** ralentizan bruscamente un slider reducien
 
 ### Streams comprimidos
 
-Nominador: [pieguyn](https://osu.ppy.sh/users/107485)
+Nominador: ::pieguyn::{ user-id=107485 }
 
 Los **streams comprimidos** usan círculos que están separados por solo 3 espacios en la rejilla (en un nivel de 2 o 3 de la rejilla).
 De lo contrario, simplemente haz que el stream sea considerablemente más pequeño en comparación con el resto del mapa.
@@ -145,13 +145,13 @@ Lo más probable es que la mayoría de los mapas que usen streams se vean usando
 
 ### Streams discontinuos
 
-Nominador: [benguin](https://osu.ppy.sh/users/1322807)
+Nominador: ::benguin::{ user-id=1322807 }
 
 Un **stream discontinuo** es cuando hay un *jump* en el stream incluso si el tiempo entre las notas del jump son de la misma duración que el tiempo entre las notas del resto del stream.
 
 ### Deathstreams
 
-Nominador: [NoHItter](https://osu.ppy.sh/users/124455)
+Nominador: ::NoHItter::{ user-id=124455 }
 
 Los **deathstreams** son streams *muy* largos y difíciles.
 Consisten en sliders (con o sin repeticiones), círculos o una combinación de ambos.
@@ -162,7 +162,7 @@ Durante la era de la [clasificación por puntuación](/wiki/Ranking#clasificaci�
 
 ### Streams con sliders y jumps
 
-Nominadores: [dkun](https://osu.ppy.sh/users/154400) y [MMzz](https://osu.ppy.sh/users/128993)
+Nominadores: ::dkun::{ user-id=154400 } y [MMzz](https://osu.ppy.sh/users/128993)
 
 Los **streams con sliders y jumps** es una técnica más avanzada para osu!.
 En lugar de usar un stream ortodoxo, lo reemplazas por sliders.
@@ -172,7 +172,7 @@ Básicamente, lo que haces es «saltar» con el cursor y seguir el stream, de ah
 
 ### Streams de triples
 
-Nominador: [Lybydose](https://osu.ppy.sh/users/64501)
+Nominador: ::Lybydose::{ user-id=64501 }
 
 Los **streams de triples** usan un conjunto de tres círculos que requieren ser golpeados en una rápida sucesión.
 Estos se colocan comúnmente en un divisor de ritmo de 1/4 dependiendo del BPM del mapa.
@@ -183,13 +183,13 @@ Ten en cuenta que los streams de triples **no** se refieren a un tresillo real s
 
 ### Streams con espaciado variable
 
-Nominador: [fartownik](https://osu.ppy.sh/users/56917)
+Nominador: ::fartownik::{ user-id=56917 }
 
 Los **streams con espaciado variable** usan streams más largos con un ajuste de distancia inconsistente (normalmente creciente).
 
 ### Streams en zigzag
 
-Nominador: [Daru](https://osu.ppy.sh/users/32480)
+Nominador: ::Daru::{ user-id=32480 }
 
 Los **streams en zig-zag** son streams con objetos colocados de tal manera que forman una línea muy irregular.
 Sin embargo, están colocados muy cerca, de modo que se pueden pasar moviendo el cursor a través de ellos en una línea recta que cruza todas las notas.

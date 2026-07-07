@@ -12,7 +12,7 @@
 
 :::
 
-**cavoe's osu! event** (***COE***) is an annual osu! convention hosted in the Netherlands, founded by ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815). The event hosts tournaments and features reservable bring-your-own-computer (BYOC) seating, game booths, osu!-related stage events, and other activities.
+**cavoe's osu! event** (***COE***) is an annual osu! convention hosted in the Netherlands, founded by ::{ flag=NL }:: ::cavoeboy::{ user-id=7361815 }. The event hosts tournaments and features reservable bring-your-own-computer (BYOC) seating, game booths, osu!-related stage events, and other activities.
 
 ## Iterations
 
@@ -35,7 +35,7 @@
 
 As an event simply called "osu! event" with only around 35 people and lasting 3 days, COE started in 2017 as a "Dutch national meetup with a few visitors from other countries" at café De Hangar in Eindhoven.
 
-The 2018 iteration expanded into notability with over 300 attendees and a runtime of 10 days, featuring top players such as ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) (then Cookiezi), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) (then BeasttrollMC), and ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828).
+The 2018 iteration expanded into notability with over 300 attendees and a runtime of 10 days, featuring top players such as ::{ flag=KR }:: ::chocomint::{ user-id=124493 } (then Cookiezi), ::{ flag=US }:: ::BTMC::{ user-id=3171691 } (then BeasttrollMC), and ::{ flag=PL }:: ::WubWoofWolf::{ user-id=39828 }.
 
 COE 2019 moved its operations to Brabanthallen in 's-Hertogenbosch (a.k.a. Den Bosch). With the bigger venue, notably sporting a large stage, the convention housed over 500 people and offered more VR booths, stage events, and a dedicated VIP area.
 

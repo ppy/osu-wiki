@@ -25,10 +25,10 @@ osu! has been entranced by **Ruby My Dear**'s sound for years, appealing to mapp
 
 Check out any of these iconic maps:
 
-- [osu! map from the video above](https://osu.ppy.sh/beatmapsets/1203147) hosted by [Hobbes2](https://osu.ppy.sh/users/8157492)
-- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/1272922) hosted by [Abraxos](https://osu.ppy.sh/users/5025064)
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1039985) hosted by [Gamelan4](https://osu.ppy.sh/users/9856910)
-- [Brand-new osu!catch map](https://osu.ppy.sh/beatmapsets/2009607) hosted by [Kimitakari](https://osu.ppy.sh/users/4741164)
+- [osu! map from the video above](https://osu.ppy.sh/beatmapsets/1203147) hosted by ::Hobbes2::{ user-id=8157492 }
+- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/1272922) hosted by ::Abraxos::{ user-id=5025064 }
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1039985) hosted by ::Gamelan4::{ user-id=9856910 }
+- [Brand-new osu!catch map](https://osu.ppy.sh/beatmapsets/2009607) hosted by ::Kimitakari::{ user-id=4741164 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/370/Brame/Ruby%20My%20Dear%20-%20Croque%20Monsieur%20A%20Disneyland.mp3">
@@ -38,10 +38,10 @@ Check out any of these iconic maps:
 
 Even more maps. Good luck:
 
-- [Legendary 4K osu!mania map](https://osu.ppy.sh/beatmapsets/347453) hosted by [Parachor](https://osu.ppy.sh/users/5241655)
-- [Loved osu! map](https://osu.ppy.sh/beatmapsets/466872) hosted by [Shru](https://osu.ppy.sh/users/6304675)
-- [Full osu!taiko difficulty spread](https://osu.ppy.sh/beatmapsets/680739) hosted by [-Kazu-](https://osu.ppy.sh/users/920861)
-- [Marathon osu!taiko map](https://osu.ppy.sh/beatmapsets/594135) hosted by [yea](https://osu.ppy.sh/users/6874332)
+- [Legendary 4K osu!mania map](https://osu.ppy.sh/beatmapsets/347453) hosted by ::Parachor::{ user-id=5241655 }
+- [Loved osu! map](https://osu.ppy.sh/beatmapsets/466872) hosted by ::Shru::{ user-id=6304675 }
+- [Full osu!taiko difficulty spread](https://osu.ppy.sh/beatmapsets/680739) hosted by ::-Kazu-::{ user-id=920861 }
+- [Marathon osu!taiko map](https://osu.ppy.sh/beatmapsets/594135) hosted by ::yea::{ user-id=6874332 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/370/Maigre/Igorrr%20%26%20Ruby%20My%20Dear%20-%20Figue%20Folle.mp3">
@@ -57,7 +57,7 @@ Regardless of whether you prefer 4K or 7K, [this Loved osu!mania map](https://os
 
 ### Ruby My Dear - Mini Short
 
-Unleash your inner stag with [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2018560) by [LemonDust](https://osu.ppy.sh/users/8065042). Zesty!
+Unleash your inner stag with [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2018560) by ::LemonDust::{ user-id=8065042 }. Zesty!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/370/Brame/Ruby%20My%20Dear%20-%20Mini%20Short.mp3">
@@ -65,7 +65,7 @@ Unleash your inner stag with [this osu!taiko map](https://osu.ppy.sh/beatmapsets
 
 ### Igorrr & Ruby My Dear - Barbecue
 
-Try out this [Loved osu! map](https://osu.ppy.sh/beatmapsets/520617) hosted by [-PC](https://osu.ppy.sh/users/2916414)!
+Try out this [Loved osu! map](https://osu.ppy.sh/beatmapsets/520617) hosted by ::-PC::{ user-id=2916414 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/370/Maigre/Igorrr%20%26%20Ruby%20My%20Dear%20-%20Barbecue.mp3">
@@ -73,7 +73,7 @@ Try out this [Loved osu! map](https://osu.ppy.sh/beatmapsets/520617) hosted by [
 
 ### Ruby My Dear - Spectacle
 
-Or try out [this Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/747789) hosted by [Ulqui](https://osu.ppy.sh/users/1263669)!
+Or try out [this Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/747789) hosted by ::Ulqui::{ user-id=1263669 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/370/Brame/Ruby%20My%20Dear%20-%20Spectacle.mp3">
@@ -81,7 +81,7 @@ Or try out [this Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/747789) hos
 
 ### Igorrr & Ruby My Dear - Biquette
 
-Warm up your fingers (four of them specifically) with [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/439776) hosted by [Pope Gadget](https://osu.ppy.sh/users/2288341)!
+Warm up your fingers (four of them specifically) with [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/439776) hosted by ::Pope Gadget::{ user-id=2288341 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/370/Maigre/Igorrr%20%26%20Ruby%20My%20Dear%20-%20Biquette.mp3">
@@ -89,7 +89,7 @@ Warm up your fingers (four of them specifically) with [this 4K osu!mania map](ht
 
 ### Ruby My Dear - Nour
 
-One map left: [an osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1190733) hosted by [yoxavv](https://osu.ppy.sh/users/2329572)!
+One map left: [an osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1190733) hosted by ::yoxavv::{ user-id=2329572 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/370/Balloon/Ruby%20My%20Dear%20-%20Nour.mp3">

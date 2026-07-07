@@ -86,7 +86,7 @@ Wenn du gegen die Regeln verstoßen hast und dies bereinigen möchtest, wende di
 
 ## Wie kann ich verhindern, dass mein Account stumm geschaltet oder eingeschränkt wird?
 
-Lies die [Regeln](/wiki/Rules) sorgfältig durch und befolge sie. Wenn du dir unsicher bist, ob etwas gegen die Regeln verstößt, frag ein Mitglied des [Globalen Moderationsteams](/wiki/People/Global_Moderation_Team). Wenn du nicht weißt, wen du fragen kannst, dann [wende dich an diese Person](https://osu.ppy.sh/users/5999631).
+Lies die [Regeln](/wiki/Rules) sorgfältig durch und befolge sie. Wenn du dir unsicher bist, ob etwas gegen die Regeln verstößt, frag ein Mitglied des [Globalen Moderationsteams](/wiki/People/Global_Moderation_Team). Wenn du nicht weißt, wen du fragen kannst, dann ::wende dich an diese Person::{ user-id=5999631 }.
 
 ## Anmerkungen
 

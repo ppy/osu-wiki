@@ -104,10 +104,10 @@ After each season has finalized, the curators will handpick a mapper featured in
 
 To get things started, we're starting this new initiative off straight away with the participants of the Summer Beatmap Spotlights:
 
-- osu!: [Limp Bizkit - Take A Look Around \[life lesson feat. piroshki\]](https://osu.ppy.sh/beatmapsets/1109633#osu/2318842) by [FCL](https://osu.ppy.sh/users/4715762)
-- osu!taiko: [LeaF - Doppelganger (extended ver.) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/833092#taiko/1746831) by [Reficul](https://osu.ppy.sh/users/1506011)
-- osu!catch: [IKIMONOGAKARI - Blue Bird feat. k*chan [ dj-Jo Remix ] TV Size \[Overdose\]](https://osu.ppy.sh/beatmapsets/1174801#fruits/2450381) by [Ascendance](https://osu.ppy.sh/users/2931883)
-- osu!mania: [Chroma - lost memory (Youwhang) \[a light received from you.\]](https://osu.ppy.sh/beatmapsets/961321#mania/2012530) by [Youwhang](https://osu.ppy.sh/users/3011818)
+- osu!: [Limp Bizkit - Take A Look Around \[life lesson feat. piroshki\]](https://osu.ppy.sh/beatmapsets/1109633#osu/2318842) by ::FCL::{ user-id=4715762 }
+- osu!taiko: [LeaF - Doppelganger (extended ver.) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/833092#taiko/1746831) by ::Reficul::{ user-id=1506011 }
+- osu!catch: [IKIMONOGAKARI - Blue Bird feat. k*chan [ dj-Jo Remix ] TV Size \[Overdose\]](https://osu.ppy.sh/beatmapsets/1174801#fruits/2450381) by ::Ascendance::{ user-id=2931883 }
+- osu!mania: [Chroma - lost memory (Youwhang) \[a light received from you.\]](https://osu.ppy.sh/beatmapsets/961321#mania/2012530) by ::Youwhang::{ user-id=3011818 }
 
 Congratulations to those who won! We're planning to keep investigating ways we can make the Beatmap Spotlights more rewarding for everyone, so stay tuned.
 

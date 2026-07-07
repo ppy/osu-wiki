@@ -25,10 +25,10 @@ There's a lot of **USAO** to consume. Check out some of the existing maps for th
 
 Explore these mapsets (most of which are included in the video above!):
 
-- [Full osu! spread](https://osu.ppy.sh/beatmapsets/438839) hosted by [Side](https://osu.ppy.sh/users/3442339)
-- [osu! marathon](https://osu.ppy.sh/beatmapsets/446658) hosted by [Hikaru Rose](https://osu.ppy.sh/users/4811275)
-- [Another osu! marathon](https://osu.ppy.sh/beatmapsets/688191) hosted by [Naguri](https://osu.ppy.sh/users/3935174)
-- [osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1083470) hosted by [radar](https://osu.ppy.sh/users/7131099)
+- [Full osu! spread](https://osu.ppy.sh/beatmapsets/438839) hosted by ::Side::{ user-id=3442339 }
+- [osu! marathon](https://osu.ppy.sh/beatmapsets/446658) hosted by ::Hikaru Rose::{ user-id=4811275 }
+- [Another osu! marathon](https://osu.ppy.sh/beatmapsets/688191) hosted by ::Naguri::{ user-id=3935174 }
+- [osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1083470) hosted by ::radar::{ user-id=7131099 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/248/Kick%27s%20For%20Liberation%205/USAO%20-%20Showdown.mp3" type="audio/mpeg">
@@ -38,10 +38,10 @@ Explore these mapsets (most of which are included in the video above!):
 
 And here's another dump of awesome beatmaps:
 
-- [osu! marathon](https://osu.ppy.sh/beatmapsets/579451) hosted by [\_MiaoFUuU\_](https://osu.ppy.sh/users/4299356)
-- [Another osu! marathon](https://osu.ppy.sh/beatmapsets/624963) hosted by [Imouto koko](https://osu.ppy.sh/users/7679162)
-- [osu!mania marathon](https://osu.ppy.sh/beatmapsets/967701) hosted by [Spy](https://osu.ppy.sh/users/1217122)
-- [osu!taiko spread of DJ Myosuke's remix](https://osu.ppy.sh/beatmapsets/692594) hosted by [jyake](https://osu.ppy.sh/users/9099822)
+- [osu! marathon](https://osu.ppy.sh/beatmapsets/579451) hosted by ::\_MiaoFUuU\_::{ user-id=4299356 }
+- [Another osu! marathon](https://osu.ppy.sh/beatmapsets/624963) hosted by ::Imouto koko::{ user-id=7679162 }
+- [osu!mania marathon](https://osu.ppy.sh/beatmapsets/967701) hosted by ::Spy::{ user-id=1217122 }
+- [osu!taiko spread of DJ Myosuke's remix](https://osu.ppy.sh/beatmapsets/692594) hosted by ::jyake::{ user-id=9099822 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/248/Kick%27s%20For%20Liberation%205/USAO%20-%20Extra%20Mode.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ And here's another dump of awesome beatmaps:
 
 ### Try again
 
-Try [this osu! marathon](https://osu.ppy.sh/beatmapsets/804339) hosted by [JrSzZ](https://osu.ppy.sh/users/8845986) or [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/969024) hosted by [Kannes](https://osu.ppy.sh/users/10821432)!
+Try [this osu! marathon](https://osu.ppy.sh/beatmapsets/804339) hosted by ::JrSzZ::{ user-id=8845986 } or [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/969024) hosted by ::Kannes::{ user-id=10821432 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/248/Kick%27s%20For%20Liberation%207/USAO%20-%20Try%20again.mp3" type="audio/mpeg">
@@ -57,7 +57,7 @@ Try [this osu! marathon](https://osu.ppy.sh/beatmapsets/804339) hosted by [JrSzZ
 
 ### Get on
 
-Play through [this osu! marathon](https://osu.ppy.sh/beatmapsets/554084) hosted by [sionKotori](https://osu.ppy.sh/users/1083407)!
+Play through [this osu! marathon](https://osu.ppy.sh/beatmapsets/554084) hosted by ::sionKotori::{ user-id=1083407 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/248/Songs/USAO%20-%20Get%20on.mp3" type="audio/mpeg">
@@ -65,7 +65,7 @@ Play through [this osu! marathon](https://osu.ppy.sh/beatmapsets/554084) hosted 
 
 ### TAPIOCA
 
-Enjoy [this osu! marathon](https://osu.ppy.sh/beatmapsets/1267298) hosted by [Realazy](https://osu.ppy.sh/users/918297) and created as a tiebreaker for [Corsace Open 2020](https://osu.ppy.sh/community/forums/topics/1117976)'s semifinals!
+Enjoy [this osu! marathon](https://osu.ppy.sh/beatmapsets/1267298) hosted by ::Realazy::{ user-id=918297 } and created as a tiebreaker for [Corsace Open 2020](https://osu.ppy.sh/community/forums/topics/1117976)'s semifinals!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/248/Songs/USAO%20-%20TAPIOCA.mp3" type="audio/mpeg">
@@ -73,7 +73,7 @@ Enjoy [this osu! marathon](https://osu.ppy.sh/beatmapsets/1267298) hosted by [Re
 
 ### Ashigaru
 
-Only one more map: [an osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1022714) hosted by [xtrem3x](https://osu.ppy.sh/users/136385). Savor it.
+Only one more map: [an osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1022714) hosted by ::xtrem3x::{ user-id=136385 }. Savor it.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/248/Songs/USAO%20-%20Ashigaru.mp3" type="audio/mpeg">

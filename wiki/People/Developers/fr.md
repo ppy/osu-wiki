@@ -17,39 +17,39 @@ Les développeurs d'osu! sont reconnaissables à leur titre d'utilisateur "osu!d
 
 La [page du groupe des développeurs](https://osu.ppy.sh/groups/11) présente tous les membres de l'équipe.
 
-L'effort de développement d'osu! est dirigé par ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)**, le créateur d'osu!
+L'effort de développement d'osu! est dirigé par ::{ flag=AU }:: **::peppy::{ user-id=2 }**, le créateur d'osu!
 
 ### Développeurs du client
 
-- ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660)
-- ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502)
-- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
-- ::{ flag=PL }:: [spaceman\_atlas](https://osu.ppy.sh/users/3035836)
+- ::{ flag=SK }:: ::Domco::{ user-id=3562660 }
+- ::{ flag=SA }:: ::frenzibyte::{ user-id=14210502 }
+- ::{ flag=AU }:: ::peppy::{ user-id=2 }
+- ::{ flag=AU }:: ::smoogipoo::{ user-id=1040328 }
+- ::{ flag=PL }:: ::spaceman\_atlas::{ user-id=3035836 }
 
 ### Développeurs de l'infrastructures
 
-- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
+- ::{ flag=AU }:: ::peppy::{ user-id=2 }
+- ::{ flag=FR }:: ::ThePooN::{ user-id=718454 }
 
 ### Développeurs du site web
 
-- ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883)
-- ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)
-- ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776)
+- ::{ flag=JP }:: ::nanaya::{ user-id=2387883 }
+- ::{ flag=AU }:: ::nekodex::{ user-id=102 }
+- ::{ flag=JP }:: ::notbakaneko::{ user-id=10751776 }
 
 ### Designers
 
-- ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765)
+- ::{ flag=MY }:: ::flyte::{ user-id=3103765 }
 
 ### Responsables de la communauté
 
-- ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)
-- ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328)
+- ::{ flag=AU }:: ::peppy::{ user-id=2 }
+- ::{ flag=AU }:: ::smoogipoo::{ user-id=1040328 }
 
 ### Comptes de bot
 
-- ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397)
+- ::{ flag=AU }:: ::osu!team::{ user-id=4341397 }
 
 ### Contributeurs
 
@@ -59,31 +59,31 @@ Actuellement, les principaux projets d'osu! sont hébergés sur GitHub et tout l
 
 *Pour des informations détaillées sur les contributions au projet osu!, voir : [Contributors of the `osu` repository](https://github.com/ppy/osu/graphs/contributors)*
 
-- ::{ flag=CA }:: [DrabWeb](https://osu.ppy.sh/users/6946022)
-- ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706)
-- ::{ flag=BY }:: [EVAST](https://osu.ppy.sh/users/8195163)
-- ::{ flag=CN }:: [huoyaoyuan](https://osu.ppy.sh/users/2428732)
-- ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835)
+- ::{ flag=CA }:: ::DrabWeb::{ user-id=6946022 }
+- ::{ flag=JP }:: ::ekr::{ user-id=4497706 }
+- ::{ flag=BY }:: ::EVAST::{ user-id=8195163 }
+- ::{ flag=CN }:: ::huoyaoyuan::{ user-id=2428732 }
+- ::{ flag=US }:: ::Joehu::{ user-id=8549835 }
 
 #### osu!framework
 
 *Pour des informations détaillées sur les contributions au projet osu!framework, voir : [Contributors of the `osu-framework` repository](https://github.com/ppy/osu-framework/graphs/contributors)*
 
-- ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706)
-- ::{ flag=CN }:: [huoyaoyuan](https://osu.ppy.sh/users/2428732)
-- ::{ flag=AU }:: [Samah](https://osu.ppy.sh/users/343490)
-- ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305)
-- ::{ flag=RU }:: [TocoToucan](https://osu.ppy.sh/users/1326350)
+- ::{ flag=JP }:: ::ekr::{ user-id=4497706 }
+- ::{ flag=CN }:: ::huoyaoyuan::{ user-id=2428732 }
+- ::{ flag=AU }:: ::Samah::{ user-id=343490 }
+- ::{ flag=HR }:: ::Susko3::{ user-id=18945305 }
+- ::{ flag=RU }:: ::TocoToucan::{ user-id=1326350 }
 
 #### osu!web
 
 *Pour des informations détaillées sur les contributions au projet osu!web, voir : [Contributors of the `osu-web` repository](https://github.com/ppy/osu-web/graphs/contributors)*
 
-- ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350)
-- ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349)
-- ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384)
-- ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705)
-- ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631)
+- ::{ flag=US }:: ::clayton::{ user-id=3666350 }
+- ::{ flag=ID }:: ::GPR::{ user-id=10721349 }
+- ::{ flag=PL }:: ::LiquidPL::{ user-id=5044384 }
+- ::{ flag=PL }:: ::TPGPL::{ user-id=3944705 }
+- ::{ flag=PL }:: ::Venix::{ user-id=5999631 }
 
 ## Contributeurs à la retraite
 
@@ -91,6 +91,6 @@ Vous trouverez ci-dessous la liste des utilisateurs qui ont abandonné les effor
 
 | Nom | Rôle |
 | :-- | :-- |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Responsables de la communauté |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Développeur du client |
-| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Développeur du client |
+| ::{ flag=AU }:: ::Ephemeral::{ user-id=102335 } | Responsables de la communauté |
+| ::{ flag=NO }:: ::MillhioreF::{ user-id=941094 } | Développeur du client |
+| ::{ flag=DE }:: ::Tom94::{ user-id=1857058 } | Développeur du client |

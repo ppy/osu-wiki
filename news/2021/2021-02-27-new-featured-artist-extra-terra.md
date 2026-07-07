@@ -13,7 +13,7 @@ No cyberpunk future would be complete without the sounds of **Extra Terra** blas
 
 **10** futuristic themes by **Extra Terra** are on the menu today, stretching from old to new across his entire discography. With a catalog of songs that even reach back to mainstream EDM styles, there's bound to be something for each and every mapper to soak up.
 
-Speaking of catalog, some of these songs have already seen a bit of love from the osu! community, such as [*Spacecraft*](https://osu.ppy.sh/beatmapsets/712901) mapped by [Pandize](https://osu.ppy.sh/users/5490937). Check out how a top player fares on this map using only mouse, or preview some of the more modern tunes below:
+Speaking of catalog, some of these songs have already seen a bit of love from the osu! community, such as [*Spacecraft*](https://osu.ppy.sh/beatmapsets/712901) mapped by ::Pandize::{ user-id=5490937 }. Check out how a top player fares on this map using only mouse, or preview some of the more modern tunes below:
 
 <div align="center">
     <video width="95%" controls>

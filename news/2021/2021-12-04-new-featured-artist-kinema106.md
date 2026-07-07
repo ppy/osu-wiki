@@ -25,7 +25,7 @@ Take a look for yourself:
 
 ### Juubaku
 
-Play [the beatmap that brought **KINEMA106** to osu](https://osu.ppy.sh/beatmapsets/529724) hosted by [Meg](https://osu.ppy.sh/users/1872496)!
+Play [the beatmap that brought **KINEMA106** to osu](https://osu.ppy.sh/beatmapsets/529724) hosted by ::Meg::{ user-id=1872496 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/222/Juu/KINEMA106%20-%20Juubaku.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Play [the beatmap that brought **KINEMA106** to osu](https://osu.ppy.sh/beatmaps
 
 ### Juusou
 
-Or try [the spiritual successor to the beatmap above](https://osu.ppy.sh/beatmapsets/1301393) hosted by [Mordred](https://osu.ppy.sh/users/7265097)!
+Or try [the spiritual successor to the beatmap above](https://osu.ppy.sh/beatmapsets/1301393) hosted by ::Mordred::{ user-id=7265097 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/222/Juu/KINEMA106%20-%20Juusou.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Or try [the spiritual successor to the beatmap above](https://osu.ppy.sh/beatmap
 
 ### Asu e no Kyoukaisen
 
-Enjoy [this full difficulty spread](https://osu.ppy.sh/beatmapsets/1613010) hosted by v-tuber enthusiast [-Aqua](https://osu.ppy.sh/users/7150015)!
+Enjoy [this full difficulty spread](https://osu.ppy.sh/beatmapsets/1613010) hosted by v-tuber enthusiast ::-Aqua::{ user-id=7150015 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/222/Kaen%20no%20Suisai/KINEMA106%20-%20Asu%20e%20no%20Kyoukaisen.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Enjoy [this full difficulty spread](https://osu.ppy.sh/beatmapsets/1613010) host
 
 ### N.M.W
 
-Try out [this alternating-focused beatmap](https://osu.ppy.sh/beatmapsets/1621874) hosted yet again by [Mordred](https://osu.ppy.sh/users/7265097)!
+Try out [this alternating-focused beatmap](https://osu.ppy.sh/beatmapsets/1621874) hosted yet again by ::Mordred::{ user-id=7265097 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/222/Yongou%20Bunshou/KINEMA106%20-%20N.M.W.mp3" type="audio/mpeg">
@@ -57,7 +57,7 @@ Try out [this alternating-focused beatmap](https://osu.ppy.sh/beatmapsets/162187
 
 ### Rend Ens
 
-If you're looking for something easier, [this beatmap](https://osu.ppy.sh/beatmapsets/1599737) hosted by [- Clubber -](https://osu.ppy.sh/users/12905443) might be your cup of tea.
+If you're looking for something easier, [this beatmap](https://osu.ppy.sh/beatmapsets/1599737) hosted by ::- Clubber -::{ user-id=12905443 } might be your cup of tea.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/222/Shinen/KINEMA106%20-%20Rend%20Ens.mp3" type="audio/mpeg">
@@ -65,7 +65,7 @@ If you're looking for something easier, [this beatmap](https://osu.ppy.sh/beatma
 
 ### Luna
 
-Congrats on making it this far. Now check out [this longer beatmap](https://osu.ppy.sh/beatmapsets/1153323) hosted by [-Eresh](https://osu.ppy.sh/users/7605060)!
+Congrats on making it this far. Now check out [this longer beatmap](https://osu.ppy.sh/beatmapsets/1153323) hosted by ::-Eresh::{ user-id=7605060 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/222/Ray/KINEMA106%20-%20Luna.mp3" type="audio/mpeg">

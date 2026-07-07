@@ -17,7 +17,7 @@ As much as we want to gush about **MIDInco**'s music, these songs can speak for 
 
 ### [MIDInco - Shatter](https://assets.ppy.sh/artists/515/Songs/MIDInco%20-%20Shatter.osz)
 
-Experience **MIDInco**'s sound the way it was intended: alongside [a beatmap](https://osu.ppy.sh/beatmapsets/2401660) hosted by [Cytusine](https://osu.ppy.sh/users/11557554)!
+Experience **MIDInco**'s sound the way it was intended: alongside [a beatmap](https://osu.ppy.sh/beatmapsets/2401660) hosted by ::Cytusine::{ user-id=11557554 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

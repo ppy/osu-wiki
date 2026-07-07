@@ -35,9 +35,9 @@ L'osu!taiko Featured Artist Cup : 2nd Edition a été organisée par divers memb
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Hôte | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
-| Designer | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
-| Juge | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |
+| Hôte | ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } |
+| Designer | ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } |
+| Juge | ::{ flag=AR }:: ::Axer::{ user-id=7299864 }, ::{ flag=NL }:: ::Boaz::{ user-id=13302996 }, ::{ flag=DE }:: ::Greenshell::{ user-id=8693851 }, ::{ flag=US }:: ::Nifty::{ user-id=4956097 } |
 
 ## Prix
 
@@ -63,9 +63,9 @@ Cette compétition s'est achevée sur le podium suivant :
 
 | Rang | Beatmap | Jugement | Impression du juge (20) | Critères de classement (20) | Structure (40) | Pertinence (40) | Créativité (40) | Score Muzukashii (40) | Total (standardisé/brut) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | [Raimukun - Cthulhu](https://osu.ppy.sh/beatmapsets/1814085) par ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | [Details](https://mappersguild.com/contests/results?submission=62b79898ecf25121cfe7b670) | 19 | 20 | 37 | 37 | 29 | 36 | **5.44** (178) |
-| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | [Riya - Laboratory-18](https://osu.ppy.sh/beatmapsets/1814106) par ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | [Details](https://mappersguild.com/contests/results?submission=629d98f4ecf25121cfe5c787) | 18 | 19 | 34 | 34 | 35 | 34 | **5.39** (174) |
-| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | [Raimukun - Firmament Star](https://osu.ppy.sh/beatmapsets/1814107) par ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484) | [Details](https://mappersguild.com/contests/results?submission=62b7649fecf25121cfe7b173) | 17 | 19 | 35 | 34 | 32 | 34 | **4.34** (171) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | [Raimukun - Cthulhu](https://osu.ppy.sh/beatmapsets/1814085) par ::{ flag=AR }:: ::KyeX::{ user-id=15118934 } | [Details](https://mappersguild.com/contests/results?submission=62b79898ecf25121cfe7b670) | 19 | 20 | 37 | 37 | 29 | 36 | **5.44** (178) |
+| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | [Riya - Laboratory-18](https://osu.ppy.sh/beatmapsets/1814106) par ::{ flag=KR }:: ::woosungko::{ user-id=14184157 } | [Details](https://mappersguild.com/contests/results?submission=629d98f4ecf25121cfe5c787) | 18 | 19 | 34 | 34 | 35 | 34 | **5.39** (174) |
+| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | [Raimukun - Firmament Star](https://osu.ppy.sh/beatmapsets/1814107) par ::{ flag=FI }:: ::duski::{ user-id=6506484 } | [Details](https://mappersguild.com/contests/results?submission=62b7649fecf25121cfe7b173) | 17 | 19 | 35 | 34 | 32 | 34 | **4.34** (171) |
 
 ## Règlement
 
@@ -90,4 +90,4 @@ Cette compétition s'est achevée sur le podium suivant :
 
 ## Notes
 
-[^prix-classée]: 2 Beatmap Nominators de l'équipe d'organisation du concours (soit ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ou ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)) modderont et propulseront la map vers Ranked si le mappeur le souhaite, et **s'ils obtiennent les difficultés nécessaires pour former un spread classable en cas de besoin**.
+[^prix-classée]: 2 Beatmap Nominators de l'équipe d'organisation du concours (soit ::{ flag=AR }:: ::Axer::{ user-id=7299864 }, ::{ flag=DE }:: ::Greenshell::{ user-id=8693851 }, ::{ flag=TN }:: ::Hivie::{ user-id=14102976 }, ou ::{ flag=US }:: ::Nifty::{ user-id=4956097 }) modderont et propulseront la map vers Ranked si le mappeur le souhaite, et **s'ils obtiennent les difficultés nécessaires pour former un spread classable en cas de besoin**.

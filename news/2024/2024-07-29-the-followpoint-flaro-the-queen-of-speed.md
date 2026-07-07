@@ -9,7 +9,7 @@ A new top player interview just dropped. This time: speed meta opinions and the 
 
 ![](/wiki/shared/news/2024-07-29-the-followpoint-flaro-the-queen-of-speed/banner.jpg)
 
-Welcome back to The Followpoint! Today, we are joined by [Flaro](https://osu.ppy.sh/users/10323184), a top speed player who has been #1 in USA for many months at a time and *nearly* achieved the performance point record *several times*!
+Welcome back to The Followpoint! Today, we are joined by ::Flaro::{ user-id=10323184 }, a top speed player who has been #1 in USA for many months at a time and *nearly* achieved the performance point record *several times*!
 
 Let's get right into the interview!
 
@@ -202,7 +202,7 @@ Is there any specific scores you want to achieve or see others achieve in the fu
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10323184">Flaro</a></p>
 
-Scores that are on my to-do list currently are probably [Rat Race](https://osu.ppy.sh/beatmapsets/958005#osu/2069969), [Everything Went Numb](https://osu.ppy.sh/beatmapsets/414289#osu/898106), [Happy! Lucky!](https://osu.ppy.sh/beatmapsets/1594964#osu/3257742), and just focusing on more aim oriented scores in general. I don't really pay attention to the scores that others get, but I always get super hyped when I see another high BPM aim score from [mrekk](https://osu.ppy.sh/users/7562902), those are always legendary to watch, and I hope to see more.
+Scores that are on my to-do list currently are probably [Rat Race](https://osu.ppy.sh/beatmapsets/958005#osu/2069969), [Everything Went Numb](https://osu.ppy.sh/beatmapsets/414289#osu/898106), [Happy! Lucky!](https://osu.ppy.sh/beatmapsets/1594964#osu/3257742), and just focusing on more aim oriented scores in general. I don't really pay attention to the scores that others get, but I always get super hyped when I see another high BPM aim score from ::mrekk::{ user-id=7562902 }, those are always legendary to watch, and I hope to see more.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 

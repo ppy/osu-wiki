@@ -31,9 +31,9 @@ La osu!taiko Featured Artist Cup #1 fue organizada por varios miembros de la com
 
 | Posición | Miembro(s) |
 | :-- | :-- |
-| Anfitrión | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
-| Diseñador | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
-| Juez | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
+| Anfitrión | ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } |
+| Diseñador | ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } |
+| Juez | ::{ flag=US }:: ::Alchyr::{ user-id=4993032 }, ::{ flag=AR }:: ::Axer::{ user-id=7299864 }, ::{ flag=US }:: ::Nifty::{ user-id=4956097 }, ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } |
 
 ## Premios
 
@@ -57,9 +57,9 @@ Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
 | Posición | Usuario |
 | :-: | :-- |
-| ![Corona de oro](/wiki/shared/crown-gold.png "1er lugar") | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) |
-| ![Corona de plata](/wiki/shared/crown-silver.png "2do lugar") | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) |
-| ![Corona de bronce](/wiki/shared/crown-bronze.png "3er lugar") | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) |
+| ![Corona de oro](/wiki/shared/crown-gold.png "1er lugar") | ::{ flag=KR }:: ::woosungko::{ user-id=14184157 } |
+| ![Corona de plata](/wiki/shared/crown-silver.png "2do lugar") | ::{ flag=TH }:: ::Ph0eNiiXZ::{ user-id=9463721 } |
+| ![Corona de bronce](/wiki/shared/crown-bronze.png "3er lugar") | ::{ flag=IT }:: ::D3kuu::{ user-id=7807444 } |
 
 ## Reglamento
 
@@ -81,4 +81,4 @@ Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
 ## Notas
 
-[^prizes-ranked]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) y ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) modearán y clasificarán el mapa ganador si el ganador así lo desea, y **si el mapa tiene las dificultades necesarias para formar una distribución clasificable cuando sea necesario**.
+[^prizes-ranked]: ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } y ::{ flag=US }:: ::Nifty::{ user-id=4956097 } modearán y clasificarán el mapa ganador si el ganador así lo desea, y **si el mapa tiene las dificultades necesarias para formar una distribución clasificable cuando sea necesario**.

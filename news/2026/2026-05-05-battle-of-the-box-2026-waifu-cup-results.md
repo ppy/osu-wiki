@@ -9,7 +9,7 @@ The flag has been waved, and a new racing champion has claimed the Waifu Cup in 
 
 ![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-results/banner.jpg)
 
-From around the world, players fought tooth and nail for their chance to take the Waifu Cup. This iteration of Battle of the Box, the flagship tournament of [xootynator](https://osu.ppy.sh/users/3717598), was filled with close matches and nail-biter moments, but finally, after a month of competition, a new champion has been crowned!
+From around the world, players fought tooth and nail for their chance to take the Waifu Cup. This iteration of Battle of the Box, the flagship tournament of ::xootynator::{ user-id=3717598 }, was filled with close matches and nail-biter moments, but finally, after a month of competition, a new champion has been crowned!
 
 Join us as we go over just a few highlights of this tournament that [began in February](https://osu.ppy.sh/home/news/2026-02-12-battle-of-the-box-2026-waifu-cup-registrations-now-open), from the results to the custom songs, and as we discuss what's next!
 
@@ -17,7 +17,7 @@ Join us as we go over just a few highlights of this tournament that [began in Fe
 
 ![Podium](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-results/podium.jpg)
 
-Congratulations to ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961), ::{ flag=PL }:: [liliel](https://osu.ppy.sh/users/13108233), ::{ flag=PL }:: [Ivaxa](https://osu.ppy.sh/users/15406985) and ::{ flag=PL }:: [ecca](https://osu.ppy.sh/users/30947671) for winning the Waifu Cup! Fun fact: this was MALISZEWSKI's third time participating and their first-ever first-place finish! They beat the odds, coming back from the losers' bracket and securing a 7–2 bracket reset victory against ::{ flag=KR }:: [Suyong_](https://osu.ppy.sh/users/8799923), ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) and ::{ flag=KR }:: [mx10000](https://osu.ppy.sh/users/3730848), who finished in 2nd place. Finally, shout-outs to our 3rd-place-finishing team, which consisted of ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839), ::{ flag=HK }:: [misha awa](https://osu.ppy.sh/users/14503423), ::{ flag=KR }:: [Chipori](https://osu.ppy.sh/users/7027766) and ::{ flag=KR }:: [KRZY](https://osu.ppy.sh/users/114017)!
+Congratulations to ::{ flag=PL }:: ::MALISZEWSKI::{ user-id=12408961 }, ::{ flag=PL }:: ::liliel::{ user-id=13108233 }, ::{ flag=PL }:: ::Ivaxa::{ user-id=15406985 } and ::{ flag=PL }:: ::ecca::{ user-id=30947671 } for winning the Waifu Cup! Fun fact: this was MALISZEWSKI's third time participating and their first-ever first-place finish! They beat the odds, coming back from the losers' bracket and securing a 7–2 bracket reset victory against ::{ flag=KR }:: ::Suyong\1::{ user-id=8799923 }, ::{ flag=KR }:: ::FlyingTuna::{ user-id=9224078 }, ::{ flag=KR }:: ::\1Karcher\1::{ user-id=11443437 } and ::{ flag=KR }:: ::mx10000::{ user-id=3730848 }, who finished in 2nd place. Finally, shout-outs to our 3rd-place-finishing team, which consisted of ::{ flag=KR }:: ::Amamya Kokoro::{ user-id=2511839 }, ::{ flag=HK }:: ::misha awa::{ user-id=14503423 }, ::{ flag=KR }:: ::Chipori::{ user-id=7027766 } and ::{ flag=KR }:: ::KRZY::{ user-id=114017 }!
 
 ## Custom works
 

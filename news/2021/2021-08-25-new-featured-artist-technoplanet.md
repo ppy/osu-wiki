@@ -13,7 +13,7 @@ Delivering a new experience around every corner, **technoplanet** is the monster
 
 Explore the otherworldly beatmapping possibilities of the **12** songs available from [**technoplanet**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/193)!
 
-If you'd rather taste a sample before diving in, feel free to experience [Entry](https://osu.ppy.sh/users/10213311)'s rendition of [*technoplanet - Tepic Tepoch*](https://osu.ppy.sh/beatmapsets/1551369) through osu!lazer's Mirror mod in the video below, then give these other previews a listen:
+If you'd rather taste a sample before diving in, feel free to experience ::Entry::{ user-id=10213311 }'s rendition of [*technoplanet - Tepic Tepoch*](https://osu.ppy.sh/beatmapsets/1551369) through osu!lazer's Mirror mod in the video below, then give these other previews a listen:
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ If you'd rather taste a sample before diving in, feel free to experience [Entry]
 
 ### Tepic Tepoch feat. chamo
 
-Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/1551369) hosted by [Entry](https://osu.ppy.sh/users/10213311)!
+Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/1551369) hosted by ::Entry::{ user-id=10213311 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/193/MAGIC/technoplanet%20-%20Tepic%20Tepoch.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/15513
 
 ### Megastructure
 
-Bash some drums to [this osu!taiko spread](https://osu.ppy.sh/beatmapsets/1499443) hosted by [duski](https://osu.ppy.sh/users/6506484)!
+Bash some drums to [this osu!taiko spread](https://osu.ppy.sh/beatmapsets/1499443) hosted by ::duski::{ user-id=6506484 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/193/Senritsu%20Sekai/technoplanet%20-%20Megastructure.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Bash some drums to [this osu!taiko spread](https://osu.ppy.sh/beatmapsets/149944
 
 ### Intuition
 
-Or maybe start a healthy diet with [this osu!catch map](https://osu.ppy.sh/beatmapsets/1553878) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)!
+Or maybe start a healthy diet with [this osu!catch map](https://osu.ppy.sh/beatmapsets/1553878) hosted by ::Jemzuu::{ user-id=7890134 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/193/Strange%20Story/technoplanet%20-%20Intuition.mp3" type="audio/mpeg">

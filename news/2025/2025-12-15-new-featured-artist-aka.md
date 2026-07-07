@@ -17,7 +17,7 @@ To an osu! player, the most familiar of those places is [**AKA**'s Featured Arti
 
 ### [Sweet Dove feat. AKA - Omoide Kakera](https://assets.ppy.sh/artists/516/re%27LOAD/Sweet%20Dove%20feat.%20AKA%20-%20Omoide%20Kakera.osz)
 
-Try out any difficulty from [this full spread](https://osu.ppy.sh/beatmapsets/2433381) hosted by [Aeril](https://osu.ppy.sh/users/4334976)!
+Try out any difficulty from [this full spread](https://osu.ppy.sh/beatmapsets/2433381) hosted by ::Aeril::{ user-id=4334976 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -27,7 +27,7 @@ Try out any difficulty from [this full spread](https://osu.ppy.sh/beatmapsets/24
 
 ### [AZALI & indrop feat. AKA - Faceless Memories](https://assets.ppy.sh/artists/516/re%27LOAD/AZALI%20%26%20indrop%20feat.%20AKA%20-%20Faceless%20Memories.osz)
 
-If you're looking for something on the simpler side, [this osu!catch map](https://osu.ppy.sh/beatmapsets/2419849) by [Slyme](https://osu.ppy.sh/users/11695793) is it.
+If you're looking for something on the simpler side, [this osu!catch map](https://osu.ppy.sh/beatmapsets/2419849) by ::Slyme::{ user-id=11695793 } is it.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/516/re%27LOAD/AZALI%20%26%20indrop%20feat.%20AKA%20-%20Faceless%20Memories.mp3">

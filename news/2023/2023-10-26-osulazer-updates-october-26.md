@@ -29,7 +29,7 @@ There is a [full changelog](https://osu.ppy.sh/home/changelog/lazer/2023.1026.0)
 
 ---
 
-Some of these changes may be hard to fully grasp from one or two sentences, but [pishifat](https://osu.ppy.sh/users/3178418) does an excellent job explaining them in the video above.
+Some of these changes may be hard to fully grasp from one or two sentences, but ::pishifat::{ user-id=3178418 } does an excellent job explaining them in the video above.
 
 [You know what to do.](https://osu.ppy.sh/home/download)
 

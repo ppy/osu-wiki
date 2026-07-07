@@ -25,7 +25,7 @@ Check it out for yourself:
 
 ### Honogurai Tsuioku
 
-Try out [the mapset from the video](https://osu.ppy.sh/beatmapsets/1544897) and its stellar guest difficulties hosted by [CallieCube](https://osu.ppy.sh/users/7535045)!
+Try out [the mapset from the video](https://osu.ppy.sh/beatmapsets/1544897) and its stellar guest difficulties hosted by ::CallieCube::{ user-id=7535045 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/211/Furin%20Kagerou/Risa%20Yuzuki%20-%20Honogurai%20Tsuioku.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Try out [the mapset from the video](https://osu.ppy.sh/beatmapsets/1544897) and 
 
 ### Amatsu Sumizome
 
-Or try [this easier mapset](https://osu.ppy.sh/beatmapsets/1591003) hosted by [Affirmation](https://osu.ppy.sh/users/6186628)!
+Or try [this easier mapset](https://osu.ppy.sh/beatmapsets/1591003) hosted by ::Affirmation::{ user-id=6186628 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/211/Furin%20Kagerou/Risa%20Yuzuki%20-%20Amatsu%20Sumizome.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Or try [this easier mapset](https://osu.ppy.sh/beatmapsets/1591003) hosted by [A
 
 ### Replique
 
-Test your dexterity with low-BPM streams on [this mapset](https://osu.ppy.sh/beatmapsets/1571215) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323) or [this osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1580723) hosted by [Faputa](https://osu.ppy.sh/users/845733)!
+Test your dexterity with low-BPM streams on [this mapset](https://osu.ppy.sh/beatmapsets/1571215) hosted by ::Hinsvar::{ user-id=1249323 } or [this osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1580723) hosted by ::Faputa::{ user-id=845733 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/211/Replique/Risa%20Yuzuki%20-%20Replique.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Test your dexterity with low-BPM streams on [this mapset](https://osu.ppy.sh/bea
 
 ### Cinderella Maker
 
-Improve your diet with [this osu!catch map](https://osu.ppy.sh/beatmapsets/1582952) hosted by [Secre](https://osu.ppy.sh/users/2306637)!
+Improve your diet with [this osu!catch map](https://osu.ppy.sh/beatmapsets/1582952) hosted by ::Secre::{ user-id=2306637 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/211/Replique/Risa%20Yuzuki%20-%20Cinderella%20Maker.mp3" type="audio/mpeg">
@@ -57,7 +57,7 @@ Improve your diet with [this osu!catch map](https://osu.ppy.sh/beatmapsets/15829
 
 ### Stellalude
 
-Play through [this mapset](https://osu.ppy.sh/beatmapsets/1515209) also hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!
+Play through [this mapset](https://osu.ppy.sh/beatmapsets/1515209) also hosted by ::Hinsvar::{ user-id=1249323 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/150/Songs/BlackY%20feat.%20Risa%20Yuzuki%20-%20Stellalude.mp3" type="audio/mpeg">
@@ -65,7 +65,7 @@ Play through [this mapset](https://osu.ppy.sh/beatmapsets/1515209) also hosted b
 
 ### Furin Kagerou
 
-Last but definitely not least, explore [this map](https://osu.ppy.sh/beatmapsets/1511294) hosted by [Niva](https://osu.ppy.sh/users/197805)!
+Last but definitely not least, explore [this map](https://osu.ppy.sh/beatmapsets/1511294) hosted by ::Niva::{ user-id=197805 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/150/Songs/BlackY%20feat.%20Risa%20Yuzuki%20-%20Furin%20Kagerou.mp3" type="audio/mpeg">

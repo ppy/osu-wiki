@@ -17,7 +17,7 @@ If the name "**MEMODEMO**" sounds familiar, that may be due to their presence in
 
 ### [MEMODEMO - Showoff Showdown](https://assets.ppy.sh/artists/508/Songs/MEMODEMO%20-%20Showoff%20Showdown.osz)
 
-Play through [the map that was uploaded today](https://osu.ppy.sh/beatmapsets/2455348) hosted by [Chaoslitz](https://osu.ppy.sh/users/3621552)!
+Play through [the map that was uploaded today](https://osu.ppy.sh/beatmapsets/2455348) hosted by ::Chaoslitz::{ user-id=3621552 }!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/uX5Bg3E6SfE" frameborder="0" allowfullscreen></iframe>
@@ -25,7 +25,7 @@ Play through [the map that was uploaded today](https://osu.ppy.sh/beatmapsets/24
 
 ### [MEMODEMO - Love Language](https://assets.ppy.sh/artists/508/Songs/MEMODEMO%20-%20Love%20Language.osz)
 
-If circles aren't your thing, you can also experience [this osu!catch marathon](https://osu.ppy.sh/beatmapsets/2152480) hosted by [Unlucky_w](https://osu.ppy.sh/users/4820793)!
+If circles aren't your thing, you can also experience [this osu!catch marathon](https://osu.ppy.sh/beatmapsets/2152480) hosted by ::Unlucky\1w::{ user-id=4820793 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/508/Songs/MEMODEMO%20-%20Love%20Language.mp3">

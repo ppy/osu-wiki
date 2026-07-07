@@ -9,7 +9,7 @@ Check out what's been happening in the new community meetings, and fill out a ne
 
 ![](https://assets.ppy.sh/media/generic-header.png)
 
-If you're not in the know, we've been hosting [community meetings](/wiki/Community/osu!_community_meetings) since mid-September in 2021. Originally, these meetings were a Q&A-style panel featuring [peppy](https://osu.ppy.sh/users/2), [smoogipoo](https://osu.ppy.sh/users/1040328) and [Ephemeral](https://osu.ppy.sh/users/102335) as they tackled specific topics and open questions from the community at large, mostly regarding the future of the game with things like lazer.
+If you're not in the know, we've been hosting [community meetings](/wiki/Community/osu!_community_meetings) since mid-September in 2021. Originally, these meetings were a Q&A-style panel featuring ::peppy::{ user-id=2 }, [smoogipoo](https://osu.ppy.sh/users/1040328) and ::Ephemeral::{ user-id=102335 } as they tackled specific topics and open questions from the community at large, mostly regarding the future of the game with things like lazer.
 
 Not familiar with what lazer is? Check out this brief overview:
 
@@ -17,7 +17,7 @@ Not familiar with what lazer is? Check out this brief overview:
 
 Recently, the format of these meetings has changed slightly in an effort to be both more concise and targeted (as they tended to drag on and become a bit sprawling in terms of the topics covered), and also to get more people involved in hosting them.
 
-[DigitalHypno](https://osu.ppy.sh/users/4384207) has stepped up as the first of hopefully many hosts for these new short-form meetings, which started back in February in response to outcry regarding a temporary change made to the score multipliers in lazer.
+::DigitalHypno::{ user-id=4384207 } has stepped up as the first of hopefully many hosts for these new short-form meetings, which started back in February in response to outcry regarding a temporary change made to the score multipliers in lazer.
 
 If you missed [that meeting](https://www.youtube.com/watch?v=d66pU5lsHvE), here's a (very) quick rundown of what was talked about:
 

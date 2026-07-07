@@ -12,7 +12,7 @@ tags:
 
 ![CCVI logo](img/logo.png)
 
-The **Corgi Cup VI** (***CCVI***) was a 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), and ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973). It was the sixth instalment of the Corgi Cup.
+The **Corgi Cup VI** (***CCVI***) was a 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, and ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }. It was the sixth instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -44,13 +44,13 @@ Corgi Cup VI was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Mappool selector | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203) |
-| Streamer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
-| Commentator | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=FI }:: [Mara](https://osu.ppy.sh/users/194294), ::{ flag=GB }:: [Insp1r3](https://osu.ppy.sh/users/7131254), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025), ::{ flag=GB }:: [sut_son](https://osu.ppy.sh/users/9622163) |
-| Designer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
-| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287), ::{ flag=US }:: [dblade](https://osu.ppy.sh/users/4272841), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=MA }:: [clorox_1g](https://osu.ppy.sh/users/9702728), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) |
-| Statistician | ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) |
+| Host | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 } |
+| Mappool selector | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 }, ::{ flag=AU }:: ::Kano::{ user-id=3036203 } |
+| Streamer | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::Kingling::{ user-id=7010761 } |
+| Commentator | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=FI }:: ::Mara::{ user-id=194294 }, ::{ flag=GB }:: ::Insp1r3::{ user-id=7131254 }, ::{ flag=GB }:: ::Bae-::{ user-id=6576972 }, ::{ flag=SE }:: ::Kotayo::{ user-id=1730025 }, ::{ flag=GB }:: ::sut\1son::{ user-id=9622163 } |
+| Designer | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::Doomsday is Bad::{ user-id=3481378 } |
+| Referee | ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=US }:: ::this1neguy::{ user-id=1797189 }, ::{ flag=CH }:: ::Icerite::{ user-id=7226287 }, ::{ flag=US }:: ::dblade::{ user-id=4272841 }, ::{ flag=FR }:: ::Mimir::{ user-id=7382734 }, ::{ flag=MA }:: ::clorox\11g::{ user-id=9702728 }, ::{ flag=NL }:: ::nik::{ user-id=10077264 } |
+| Statistician | ::{ flag=NO }:: ::YokesPai::{ user-id=6399568 } |
 
 ## Links
 
@@ -63,10 +63,10 @@ Corgi Cup VI was run by various community members.
 
 | Seed | Members |
 | :-: | :-- |
-| 1-8 | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581), ::{ flag=GB }:: [-Roxas](https://osu.ppy.sh/users/1986262), ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238), ::{ flag=GB }:: [OskaRRRitoS](https://osu.ppy.sh/users/7051163), ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568), ::{ flag=GB }:: [TopSp1n](https://osu.ppy.sh/users/7657761), ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) |
-| 9-16 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549), ::{ flag=US }:: [Conyoh](https://osu.ppy.sh/users/4844496), ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807), ::{ flag=GB }:: [Summer Solstice](https://osu.ppy.sh/users/3233710), ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761), ::{ flag=SE }:: [Nitroz](https://osu.ppy.sh/users/5256529), ::{ flag=LV }:: [waywern2012](https://osu.ppy.sh/users/5870453), ::{ flag=GB }:: [Malteser](https://osu.ppy.sh/users/5218178) |
-| 17-24 | ::{ flag=GB }:: [Domblade](https://osu.ppy.sh/users/6701945), ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=PT }:: [KingLizardYT](https://osu.ppy.sh/users/7817891), ::{ flag=DE }:: [LwL](https://osu.ppy.sh/users/3556856), ::{ flag=GB }:: [idealnettles](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [Kerantina](https://osu.ppy.sh/users/7516484), ::{ flag=GB }:: [Felicia](https://osu.ppy.sh/users/6177798) |
-| 25-32 | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=FI }:: [Anq](https://osu.ppy.sh/users/2336656), ::{ flag=FI }:: [Doomsdaddy](https://osu.ppy.sh/users/5039710), ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ::{ flag=FI }:: [Urnukka](https://osu.ppy.sh/users/4765619), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=FI }:: [Poofie](https://osu.ppy.sh/users/3517198) |
+| 1-8 | ::{ flag=GB }:: ::Karthy::{ user-id=4196808 }, ::{ flag=NO }:: ::-GN::{ user-id=895581 }, ::{ flag=GB }:: ::-Roxas::{ user-id=1986262 }, ::{ flag=US }:: ::zelda101::{ user-id=4502238 }, ::{ flag=GB }:: ::OskaRRRitoS::{ user-id=7051163 }, ::{ flag=NO }:: ::YokesPai::{ user-id=6399568 }, ::{ flag=GB }:: ::TopSp1n::{ user-id=7657761 }, ::{ flag=GB }:: ::majoreh::{ user-id=7959222 } |
+| 9-16 | ::{ flag=GB }:: ::Apo11o::{ user-id=9558549 }, ::{ flag=US }:: ::Conyoh::{ user-id=4844496 }, ::{ flag=NL }:: ::jackylam5::{ user-id=1540807 }, ::{ flag=GB }:: ::Summer Solstice::{ user-id=3233710 }, ::{ flag=GB }:: ::Kingling::{ user-id=7010761 }, ::{ flag=SE }:: ::Nitroz::{ user-id=5256529 }, ::{ flag=LV }:: ::waywern2012::{ user-id=5870453 }, ::{ flag=GB }:: ::Malteser::{ user-id=5218178 } |
+| 17-24 | ::{ flag=GB }:: ::Domblade::{ user-id=6701945 }, ::{ flag=GB }:: ::Electovoid::{ user-id=6648263 }, ::{ flag=PT }:: ::KingLizardYT::{ user-id=7817891 }, ::{ flag=DE }:: ::LwL::{ user-id=3556856 }, ::{ flag=GB }:: ::idealnettles::{ user-id=4010354 }, ::{ flag=GB }:: ::Bae-::{ user-id=6576972 }, ::{ flag=GB }:: ::Kerantina::{ user-id=7516484 }, ::{ flag=GB }:: ::Felicia::{ user-id=6177798 } |
+| 25-32 | ::{ flag=GB }:: ::mmi-::{ user-id=5444914 }, ::{ flag=FI }:: ::Lefafel::{ user-id=2295850 }, ::{ flag=FI }:: ::Anq::{ user-id=2336656 }, ::{ flag=FI }:: ::Doomsdaddy::{ user-id=5039710 }, ::{ flag=GB }:: ::Doomsday is Bad::{ user-id=3481378 }, ::{ flag=FI }:: ::Urnukka::{ user-id=4765619 }, ::{ flag=GB }:: ::Pelzio::{ user-id=4775226 }, ::{ flag=FI }:: ::Poofie::{ user-id=3517198 } |
 
 ## Podium
 
@@ -74,9 +74,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [-Roxas](https://osu.ppy.sh/users/1986262) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::-Roxas::{ user-id=1986262 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NO }:: ::YokesPai::{ user-id=6399568 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::majoreh::{ user-id=7959222 } |
 
 ## Mappools
 
@@ -481,7 +481,7 @@ Wednesday, 24 April 2019:
 
 - CorgiCup VI is a 32 player, 1v1, Double Elimination tournament, with Score V2 as the scoring system used.
 - In order to participate, you must have the "Subscriber" or the "Friend" role on Doomsday's Discord.
-- The Top 4 from last CorgiCup (::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581), ::{ flag=GB }:: [-Roxas](https://osu.ppy.sh/users/1986262) and ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142)) all have automatic qualifications into the Round of 32 should they accept their invitation.
+- The Top 4 from last CorgiCup (::{ flag=GB }:: ::Karthy::{ user-id=4196808 }, ::{ flag=NO }:: ::-GN::{ user-id=895581 }, ::{ flag=GB }:: ::-Roxas::{ user-id=1986262 } and ::{ flag=GB }:: ::OPJames::{ user-id=4117142 }) all have automatic qualifications into the Round of 32 should they accept their invitation.
 - Should more than 28 people sign up for the tournament, qualifiers will take place.
 - The top 28 scores from the qualifiers will progress into the Round of 32.
 - Referees will create the match and invite players 10 mins before the match is due to start.

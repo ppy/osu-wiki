@@ -19,7 +19,7 @@ In any case, all **9** new tracks are part of [**ELFENSJoN**'s Featured Artist l
 
 ### [ELFENSJoN - Hadareyuki](https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN%20-%20Hadareyuki.osz)
 
-In preparation for this announcement, Mappers' Guild conductor [Hinsvar](https://osu.ppy.sh/users/1249323) made a map for [ELFENSJoN - Hadareyuki](https://osu.ppy.sh/beatmapsets/2266310) which you can either play through for yourself or witness below!
+In preparation for this announcement, Mappers' Guild conductor ::Hinsvar::{ user-id=1249323 } made a map for [ELFENSJoN - Hadareyuki](https://osu.ppy.sh/beatmapsets/2266310) which you can either play through for yourself or witness below!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -29,7 +29,7 @@ In preparation for this announcement, Mappers' Guild conductor [Hinsvar](https:/
 
 ### [ELFENSJoN - Hotarubi (REINCARNATE ver)](https://assets.ppy.sh/artists/69/REINCARNATE/ELFENSJoN%20-%20Hotarubi%20(REINCARNATE%20ver).osz)
 
-*REINCARNATE ver* refers to a remake of [a previous song](https://osu.ppy.sh/beatmapsets/1131083). Explore [the new version](https://osu.ppy.sh/beatmapsets/2116675) mapped by [Hanakumo Rin](https://osu.ppy.sh/users/12895865)!
+*REINCARNATE ver* refers to a remake of [a previous song](https://osu.ppy.sh/beatmapsets/1131083). Explore [the new version](https://osu.ppy.sh/beatmapsets/2116675) mapped by ::Hanakumo Rin::{ user-id=12895865 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/69/REINCARNATE/ELFENSJoN%20-%20Hotarubi%20(REINCARNATE%20ver).mp3">

@@ -9,11 +9,11 @@ Begin your voyage into the endless unknown with our latest Featured Artist **II-
 
 ![](https://assets.ppy.sh/artists/172/header.jpg)
 
-Showcased in the grand finals of OWC 2020 through [*SPUTNIK-3*](https://osu.ppy.sh/beatmapsets/1312076) by [DeviousPanda](https://osu.ppy.sh/users/4966334), **II-L** is the experimental producer behind the most rhythmically diverse music ever to touch the world of rhythm games. Best recognized for their self-defined genre *psy footwork*, **II-L** has been a household name among osu! players since their introduction, and is finally ready to take the throne as one of our Featured Artists!
+Showcased in the grand finals of OWC 2020 through [*SPUTNIK-3*](https://osu.ppy.sh/beatmapsets/1312076) by ::DeviousPanda::{ user-id=4966334 }, **II-L** is the experimental producer behind the most rhythmically diverse music ever to touch the world of rhythm games. Best recognized for their self-defined genre *psy footwork*, **II-L** has been a household name among osu! players since their introduction, and is finally ready to take the throne as one of our Featured Artists!
 
 We've snagged **12** of **II-L**'s unforgettable tracks, most pulling from their unorthodox space-themed albums and the rest from a few other scattered releases (all available from [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/172), of course).
 
-Need a sample? Take a trip beyond the atmosphere with [Ekoro](https://osu.ppy.sh/users/284905)'s insanely impressive finger control play of [*SPUTNIK-3*](https://osu.ppy.sh/beatmapsets/1312076), then listen to the previews below:
+Need a sample? Take a trip beyond the atmosphere with ::Ekoro::{ user-id=284905 }'s insanely impressive finger control play of [*SPUTNIK-3*](https://osu.ppy.sh/beatmapsets/1312076), then listen to the previews below:
 
 <div align="center">
     <video width="90%" controls>
@@ -23,7 +23,7 @@ Need a sample? Take a trip beyond the atmosphere with [Ekoro](https://osu.ppy.sh
 
 ### VANGUARD-1
 
-Launch with [this loved osu! map](https://osu.ppy.sh/beatmapsets/1249519) hosted by [ktgster](https://osu.ppy.sh/users/53378) or [this loved osu!mania map](https://osu.ppy.sh/beatmapsets/1055051) hosted by [Elekton](https://osu.ppy.sh/users/4990211)!
+Launch with [this loved osu! map](https://osu.ppy.sh/beatmapsets/1249519) hosted by ::ktgster::{ user-id=53378 } or [this loved osu!mania map](https://osu.ppy.sh/beatmapsets/1055051) hosted by ::Elekton::{ user-id=4990211 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/172/PROJECT%20VANGUARD/II-L%20-%20VANGUARD-1.mp3" type="audio/mpeg">

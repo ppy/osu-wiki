@@ -9,7 +9,7 @@ The Followpoint is back with another interview! Learn more about Motion and his 
 
 ![](/wiki/shared/news/2024-08-19-the-followpoint-motion-the-ultimate-catcher/banner.jpg)
 
-Welcome or welcome back to The Followpoint, a series where we interview various community figures and players! This time we interviewed [Motion](https://osu.ppy.sh/users/3885626), a player who has mastered osu!catch to the point where he just recently managed to end [YesMyDarknesss](https://osu.ppy.sh/users/4158549)' 3-year reign as rank #1!
+Welcome or welcome back to The Followpoint, a series where we interview various community figures and players! This time we interviewed ::Motion::{ user-id=3885626 }, a player who has mastered osu!catch to the point where he just recently managed to end ::YesMyDarknesss::{ user-id=4158549 }' 3-year reign as rank #1!
 
 So, let's have a read!
 
@@ -78,7 +78,7 @@ Why did you choose to play osu!catch of all game modes osu! has to offer? And wa
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
 
-Actually, my first game mode was neither osu!catch nor osu!mania. But one of the main reasons why I tried and eventually fell in love with osu!catch was [ExGon](https://osu.ppy.sh/users/214187) who had been dominating for a long time - who is still the greatest of all time for us.
+Actually, my first game mode was neither osu!catch nor osu!mania. But one of the main reasons why I tried and eventually fell in love with osu!catch was ::ExGon::{ user-id=214187 } who had been dominating for a long time - who is still the greatest of all time for us.
 
 After watching his plays on both osu! and YouTube, I naturally tried that game mode and it ended up being my main game mode.
 
@@ -200,9 +200,9 @@ Who or what was (or still is) your main inspiration to become better at this gam
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
 
-[ExGon](https://osu.ppy.sh/users/214187) was for sure my main inspiration for a long time (and still is).
+::ExGon::{ user-id=214187 } was for sure my main inspiration for a long time (and still is).
 
-And my current one would be [ArMa79](https://osu.ppy.sh/users/4982799) and [Dahcreeper](https://osu.ppy.sh/users/6926006). They are definitely the ones who helped me become better and let me go further by competing with me and pushing my limits.
+And my current one would be ::ArMa79::{ user-id=4982799 } and [Dahcreeper](https://osu.ppy.sh/users/6926006). They are definitely the ones who helped me become better and let me go further by competing with me and pushing my limits.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -220,7 +220,7 @@ Looking back on the last 10 years, luckily not once have I had to take a long br
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-lvd" href="https://osu.ppy.sh/users/18152711">MegaMix</a></p>
 
-How do you feel after taking the #1 rank from [YesMyDarknesss](https://osu.ppy.sh/users/4158549), who had it for a huge while?
+How do you feel after taking the #1 rank from ::YesMyDarknesss::{ user-id=4158549 }, who had it for a huge while?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3885626" style="background-image: url('/wiki/shared/avatars/Motion.jpg')"></a>
 
@@ -284,7 +284,7 @@ And before we finish, let me ask you some bonus questions, starting with the cla
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
 
-If I were to pick the most impressive score, it would be probably ["Oracion(TV-Size) [Crystal's Rain]" +HDDTHR](https://osu.ppy.sh/scores/fruits/173627724) played by [ExGon](https://osu.ppy.sh/users/214187), because high approach rate (mostly AR10.5~11) in osu!catch is really tricky and difficult skillset to master.
+If I were to pick the most impressive score, it would be probably ["Oracion(TV-Size) [Crystal's Rain]" +HDDTHR](https://osu.ppy.sh/scores/fruits/173627724) played by ::ExGon::{ user-id=214187 }, because high approach rate (mostly AR10.5~11) in osu!catch is really tricky and difficult skillset to master.
 
 ![](/wiki/shared/news/2024-08-19-the-followpoint-motion-the-ultimate-catcher/oracion.jpg)
 
@@ -316,7 +316,7 @@ If you could choose any osu! player, who would you want to meet IRL the most, an
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3885626">Motion</a></p>
 
-There are so many osu! players who I really want to meet IRL, but if I have to choose one of them then it would definitely be [ExGon](https://osu.ppy.sh/users/214187), because he's the one who got me into osu!catch - my inspiration and my idol.
+There are so many osu! players who I really want to meet IRL, but if I have to choose one of them then it would definitely be ::ExGon::{ user-id=214187 }, because he's the one who got me into osu!catch - my inspiration and my idol.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 

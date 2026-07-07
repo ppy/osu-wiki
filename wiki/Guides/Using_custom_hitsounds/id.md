@@ -65,4 +65,4 @@ Ketika sampleset dari *inherited timing point* diset ke `S:C2` seperti pada gamb
 
 ## Sumber eksternal
 
-- [Balasan forum *how to add custom hitsound?*](https://osu.ppy.sh/community/forums/posts/3215699) oleh [neonat](https://osu.ppy.sh/users/1561995)
+- [Balasan forum *how to add custom hitsound?*](https://osu.ppy.sh/community/forums/posts/3215699) oleh ::neonat::{ user-id=1561995 }

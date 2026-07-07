@@ -37,7 +37,7 @@ The situation was clear: Chile, seeded fourth in qualifiers, were the clear favo
 
 Both teams' first picks turned out to be great choices leading to a 1–1 scoreline. Spain's second pick, however, didn't go as planned and Chile took away a breakpoint on NM2. They looked to consolidate the point with NM5, a low-AR rhythm map, which on paper heavily favoured the Chilean roster. Spain, despite having banned the other low-AR map of the round, managed to put up a great team performance and took a breakpoint right back tying the match.
 
-After Spain won their next pick and went up ahead 2–3, a NM4 pick from Chile went down to the wire, and a great performance from ::{ flag=ES }:: [M A N O L O](https://osu.ppy.sh/users/12296128) sealed yet another breakpoint for Spain with a narrow 40,000 score gap, bringing them to match point. For Spain's last pick, they secured the win on DT1 with another relatively close lead of 150,000, knocking the 4th seed Chile down to the lower bracket and advancing to face 21st seed Taiwan in the Round of 16. Taiwan had also pulled an incredible upset in their match, defeating the 12th seed Japan.
+After Spain won their next pick and went up ahead 2–3, a NM4 pick from Chile went down to the wire, and a great performance from ::{ flag=ES }:: ::M A N O L O::{ user-id=12296128 } sealed yet another breakpoint for Spain with a narrow 40,000 score gap, bringing them to match point. For Spain's last pick, they secured the win on DT1 with another relatively close lead of 150,000, knocking the 4th seed Chile down to the lower bracket and advancing to face 21st seed Taiwan in the Round of 16. Taiwan had also pulled an incredible upset in their match, defeating the 12th seed Japan.
 
 ### Semifinals: ::{ flag=KR }:: South Korea vs. ::{ flag=CN }:: China
 
@@ -63,7 +63,7 @@ With a rematch of last year's Grand Finals, the Canadian team once again stands 
 
 Canada had a tough journey this year, dropping to the losers' bracket early after a defeat to China in the Round of 16. They managed to put together an impressive comeback though, knocking out several formidable opponents including the 3rd seed South Korea and later China, the very team that had sent them to the losers' bracket earlier. Meanwhile, the United States maintained their dominance throughout, showing no major weaknesses on their way to the Grand Finals. The question now was: will this match be as close and thrilling as last year, or a more one-sided showing?
 
-The match begins with the United States picking NM5, where ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106) puts up an incredible full combo helping his team secure the point. Canada responds with a pick on NM6, where they narrowly come on top with an overall better team performance. The United States then puts their foot on the pedal, winning three maps in a row before Canada manages to stop them with another close win on HR2 to bring the match to 4–2. The next pick, FM1, presents an opportunity for Canada to come back with a breakpoint, but the United States manages to stay on top winning by only 51,000 points.
+The match begins with the United States picking NM5, where ::{ flag=US }:: ::Pezz::{ user-id=10651106 } puts up an incredible full combo helping his team secure the point. Canada responds with a pick on NM6, where they narrowly come on top with an overall better team performance. The United States then puts their foot on the pedal, winning three maps in a row before Canada manages to stop them with another close win on HR2 to bring the match to 4–2. The next pick, FM1, presents an opportunity for Canada to come back with a breakpoint, but the United States manages to stay on top winning by only 51,000 points.
 
 Both teams start to find their rhythm, winning their respective picks and bringing the match to 6–3 with the United States at match point. The match reaches its climax as Canada picks FM3, where after a stellar team performance from both teams, the United States clinch the win by a mere 23,000 points, securing their crown as the 4WC champions for the second consecutive year and solidifying their status as the powerhouse of the 4-digit tournament scene.
 
@@ -73,7 +73,7 @@ Here are some wise words from a few people involved in various aspects of the to
 
 ::{#jimarrah}::
 
-[![](/wiki/shared/news/2024-06-24-4-digit-world-cup-2024-concludes/jimarrah-banner.png)](https://osu.ppy.sh/users/11267857)
+::!\1\1(/wiki/shared/news/2024-06-24-4-digit-world-cup-2024-concludes/jimarrah-banner.png)::{ user-id=11267857 }
 
 > Hi, I'm BOOM MEGA WIN, but you're probably more familiar with me as Jimarrah. I've been playing tournaments since May 2020, spending a majority of my time in the 4 digit scene. Recently I've been taking the game more casually, but 4WC 2024 was a big opportunity for me to compete again.
 
@@ -99,7 +99,7 @@ Here are some wise words from a few people involved in various aspects of the to
 
 ::{#blanktap}::
 
-[![](/wiki/shared/news/2024-06-24-4-digit-world-cup-2024-concludes/blanktap-banner.png)](https://osu.ppy.sh/users/10137131)
+::!\1\1(/wiki/shared/news/2024-06-24-4-digit-world-cup-2024-concludes/blanktap-banner.png)::{ user-id=10137131 }
 
 > Hello, I'm BlankTap. I'm a bit of a tournament player and recently more known as a commentator, probably one that gets a bit too excited at times. I've been commentating actively for one and half years now and had the chance to contribute regarding 4WC's casting.
 
@@ -125,7 +125,7 @@ Here are some wise words from a few people involved in various aspects of the to
 
 ::{#shurelia}::
 
-[![](/wiki/shared/news/2024-06-24-4-digit-world-cup-2024-concludes/shurelia-banner.png)](https://osu.ppy.sh/users/3807986)
+::!\1\1(/wiki/shared/news/2024-06-24-4-digit-world-cup-2024-concludes/shurelia-banner.png)::{ user-id=3807986 }
 
 > Before I start my introduction, I would love to share my gratitude towards the 4WC 2024 staff for the opportunity to let me be involved with their event, and also for the participants and their positive feedback towards my maps which boosts my confidence on this. I thank you, really.
 > 
@@ -137,7 +137,7 @@ Here are some wise words from a few people involved in various aspects of the to
 
 *What brought you into mapping? Why have you decided to create custom maps for tournaments such as 4WC 2024?*
 
-> The reason why I started mapping for osu! standard specifically was due to being a heavy convert player in catch and wanting to gain #1 on a song that I really like. But the reason why I WANT to be better in mapping is because I got captivated by [Lan Wing](https://osu.ppy.sh/users/467860)'s beatmap of [t=NODE - Four Seasons](https://osu.ppy.sh/beatmapsets/285718#osu/645242). This map moves me so much that I randomly shed tears despite having no clue about osu! standard at all due to how beautiful the map and the song is.
+> The reason why I started mapping for osu! standard specifically was due to being a heavy convert player in catch and wanting to gain #1 on a song that I really like. But the reason why I WANT to be better in mapping is because I got captivated by ::Lan Wing::{ user-id=467860 }'s beatmap of [t=NODE - Four Seasons](https://osu.ppy.sh/beatmapsets/285718#osu/645242). This map moves me so much that I randomly shed tears despite having no clue about osu! standard at all due to how beautiful the map and the song is.
 > 
 > I decided to create custom maps because I just love watching people playing my maps, especially when it's in a big tournament such as 4WC 2024. It also lets me learn many things to improve my mapping knowledge gameplay wise by learning what the players think about my map when they try it, because as I mentioned, I do not play osu! standard at all and thus it's obvious that I don't testplay my own maps at all. Custom mapping is such a good way to improve myself, at least that's what I'm thinking.
 
@@ -149,11 +149,11 @@ Here are some wise words from a few people involved in various aspects of the to
 
 A lot happened this tournament that can be shown off by statistics! We've compiled all the per-round statistics into a [neat folder](https://drive.google.com/drive/u/0/folders/1dvBabKdU7V1nx1wEMhINi89NSdBvDU5f), but here are some extra picks that deserve their own mentions:
 
-- There were a total of 33 scores set worth more than 500 pp, the highest of which being ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745)'s 651 pp full combo on [BABYMETAL - Arkadia \[Extreme\]](https://osu.ppy.sh/beatmapsets/1695872#osu/3644487) in Sweden's [Semifinals match against Brazil](https://osu.ppy.sh/community/matches/114120011).
+- There were a total of 33 scores set worth more than 500 pp, the highest of which being ::{ flag=SE }:: ::scylla::{ user-id=9405745 }'s 651 pp full combo on [BABYMETAL - Arkadia \[Extreme\]](https://osu.ppy.sh/beatmapsets/1695872#osu/3644487) in Sweden's [Semifinals match against Brazil](https://osu.ppy.sh/community/matches/114120011).
 - We saw a total of 16 seed upsets out of 62 matches played, the biggest of which were:
   - [::{ flag=CL }:: Chile (#5) vs. ::{ flag=ES }:: Spain (#28)](https://www.youtube.com/watch?v=vYchqxY_2SI) in the Round of 32, in which 98% of pick'em players incorrectly predicted Chile to win.
   - [::{ flag=KR }:: South Korea (#2) vs. ::{ flag=CN }:: China (#14)](https://www.youtube.com/watch?v=UlJ0BW0XI4M) in the Semifinals, notable for being very late in the bracket to have such an upset.
-- Panama qualified for their first ever world-cup-style tournament with ::{ flag=PA }:: [Leonard H](https://osu.ppy.sh/users/11562243) (a.k.a. hammytr) getting 10th place in individual performance statistics, boosting the team to the 32nd spot.
+- Panama qualified for their first ever world-cup-style tournament with ::{ flag=PA }:: ::Leonard H::{ user-id=11562243 } (a.k.a. hammytr) getting 10th place in individual performance statistics, boosting the team to the 32nd spot.
 
 ---
 

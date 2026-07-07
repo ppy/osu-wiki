@@ -57,4 +57,4 @@ Das [Account-Support-Team](/wiki/People/Account_support_team) wird deinen Antrag
 ## Trivia
 
 - Das Gruppenabzeichen `BOT` wird auf Accounts mit der primären Gruppe `Chat Bots` (Gruppe 29) angezeigt. Die Auflistung der Gruppe ist nicht öffentlich.
-- Einige persönliche Accounts sind in der Chatbots-Gruppe, weil ihre Betreiber keine Anfrage eingereicht haben, einen separaten Bot-Account für ihren Dienst zu erstellen, beispielsweise ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) und ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454). Dieses Setup wird nicht mehr angeboten und neue Bots, die der Gruppe beitreten, werden immer einen exklusiven Account erhalten.
+- Einige persönliche Accounts sind in der Chatbots-Gruppe, weil ihre Betreiber keine Anfrage eingereicht haben, einen separaten Bot-Account für ihren Dienst zu erstellen, beispielsweise ::{ flag=DE }:: ::Tillerino::{ user-id=2070907 } und ::{ flag=FR }:: ::ThePooN::{ user-id=718454 }. Dieses Setup wird nicht mehr angeboten und neue Bots, die der Gruppe beitreten, werden immer einen exklusiven Account erhalten.

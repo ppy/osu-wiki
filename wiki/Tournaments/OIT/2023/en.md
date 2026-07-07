@@ -8,7 +8,7 @@ tags:
 
 ![OIT 2023 logo](img/logo.jpg)
 
-The **osu! Indonesia Tournament #13 (2023)** (***OIT 2023***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548). The tournament was open to all players from Indonesia with 6,000 pp or above in the osu! game mode to their name. It was the thirteenth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #13 (2023)** (***OIT 2023***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }. The tournament was open to all players from Indonesia with 6,000 pp or above in the osu! game mode to their name. It was the thirteenth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -25,7 +25,7 @@ The **osu! Indonesia Tournament #13 (2023)** (***OIT 2023***) was an Indonesian 
 
 ## Prizes
 
-The osu! Indonesia Tournament #13 (2023) offered an initial prize pool of 3,000,000 IDR as generously donated by ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) and ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206). This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
+The osu! Indonesia Tournament #13 (2023) offered an initial prize pool of 3,000,000 IDR as generously donated by ::{ flag=ID }:: ::Raids::{ user-id=15640966 } and ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }. This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -43,19 +43,19 @@ The osu! Indonesia Tournament #13 (2023) was run by various osu! community membe
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548) |
-| Co-host | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Senritsu](https://osu.ppy.sh/users/1165368) |
-| Admin | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465) |
-| Mappool selector | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=MY }:: [LouisZPro](https://osu.ppy.sh/users/6231292), ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976) |
-| Mappool helper | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302) |
-| Custom mapper | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [Shinjuko](https://osu.ppy.sh/users/10558466), ::{ flag=ID }:: [Adinda](https://osu.ppy.sh/users/15959751), ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007), ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/3545579), ::{ flag=ID }:: [Riene](https://osu.ppy.sh/users/8549009), ::{ flag=ID }:: [Ciyus Miapah](https://osu.ppy.sh/users/2805457), ::{ flag=ID }:: [lushifer](https://osu.ppy.sh/users/13356408), ::{ flag=ID }:: [araran](https://osu.ppy.sh/users/8937198), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=ID }:: [Melize](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490), ::{ flag=KR }:: [cotton\_\_123](https://osu.ppy.sh/users/9823042), ::{ flag=RS }:: [Seolv](https://osu.ppy.sh/users/8067876) |
-| Playtester | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [TheRealPlayer](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ::{ flag=US }:: [Sawada](https://osu.ppy.sh/users/8198848), ::{ flag=US }:: [Wixonater](https://osu.ppy.sh/users/10083084) |
-| Streamer | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612) |
-| Commentator | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [-Kiichirou-](https://osu.ppy.sh/users/5791467), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
-| Referee | ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=ID }:: [lucidators](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [Tazkiz](https://osu.ppy.sh/users/3738010), ::{ flag=ID }:: [WoodenPickaxe](https://osu.ppy.sh/users/14463105), ::{ flag=ID }:: [Osawa Rurino](https://osu.ppy.sh/users/20160331), ::{ flag=ID }:: [Vincent A](https://osu.ppy.sh/users/11050632), ::{ flag=ID }:: [nabirra](https://osu.ppy.sh/users/16053739), ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299), ::{ flag=ID }:: [Kurotei](https://osu.ppy.sh/users/19428674), ::{ flag=ID }:: [BlooMertz](https://osu.ppy.sh/users/24134742), ::{ flag=ID }:: [NotDens](https://osu.ppy.sh/users/17311355), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897),  ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656), ::{ flag=MY }:: [Rumah](https://osu.ppy.sh/users/12086495), ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=HK }:: [Smato](https://osu.ppy.sh/users/5616307), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
-| Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319/), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Takagi-chan](https://osu.ppy.sh/users/11379592) |
-| Spreadsheet manager | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
-| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 } |
+| Co-host | ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Raids::{ user-id=15640966 }, ::{ flag=ID }:: ::Senritsu::{ user-id=1165368 } |
+| Admin | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::Felter::{ user-id=5865319 }, ::{ flag=ID }:: ::Sunohara Kokona::{ user-id=11421465 } |
+| Mappool selector | ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Raids::{ user-id=15640966 }, ::{ flag=MY }:: ::LouisZPro::{ user-id=6231292 }, ::{ flag=MY }:: ::Tzero::{ user-id=6088976 } |
+| Mappool helper | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::Felter::{ user-id=5865319 }, ::{ flag=ID }:: ::Kuro Fuyusaki::{ user-id=2667496 }, ::{ flag=ID }:: ::phizh::{ user-id=4569302 } |
+| Custom mapper | ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Raids::{ user-id=15640966 }, ::{ flag=ID }:: ::Felter::{ user-id=5865319 }, ::{ flag=ID }:: ::Kuro Fuyusaki::{ user-id=2667496 }, ::{ flag=ID }:: ::Crezz::{ user-id=7108275 }, ::{ flag=ID }:: ::Seox::{ user-id=3793938 }, ::{ flag=ID }:: ::Venta::{ user-id=11320627 }, ::{ flag=ID }:: ::Shinjuko::{ user-id=10558466 }, ::{ flag=ID }:: ::Adinda::{ user-id=15959751 }, ::{ flag=ID }:: ::SupaV::{ user-id=19511007 }, ::{ flag=ID }:: ::Celine::{ user-id=3545579 }, ::{ flag=ID }:: ::Riene::{ user-id=8549009 }, ::{ flag=ID }:: ::Ciyus Miapah::{ user-id=2805457 }, ::{ flag=ID }:: ::lushifer::{ user-id=13356408 }, ::{ flag=ID }:: ::araran::{ user-id=8937198 }, ::{ flag=ID }:: ::ScubDomino::{ user-id=8972308 }, ::{ flag=ID }:: ::Melize::{ user-id=10778215 }, ::{ flag=ID }:: ::FAW::{ user-id=11070577 }, ::{ flag=MY }:: ::Agagak::{ user-id=3645490 }, ::{ flag=KR }:: ::cotton\_\_123::{ user-id=9823042 }, ::{ flag=RS }:: ::Seolv::{ user-id=8067876 } |
+| Playtester | ::{ flag=ID }:: ::Victim\_Crasher::{ user-id=2084869 }, ::{ flag=ID }:: ::Crezz::{ user-id=7108275 }, ::{ flag=ID }:: ::TheRealPlayer::{ user-id=8688737 }, ::{ flag=ID }:: ::PatrickFPSGamer::{ user-id=4796773 }, ::{ flag=US }:: ::Sawada::{ user-id=8198848 }, ::{ flag=US }:: ::Wixonater::{ user-id=10083084 } |
+| Streamer | ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, ::{ flag=ID }:: ::Raids::{ user-id=15640966 }, ::{ flag=ID }:: ::Sunohara Kokona::{ user-id=11421465 }, ::{ flag=ID }:: ::Victim\1Crasher::{ user-id=2084869 }, ::{ flag=ID }:: ::wiam103::{ user-id=4109839 }, ::{ flag=MY }:: ::Laphii::{ user-id=9364594 }, ::{ flag=MY }:: ::Its not Marvin::{ user-id=13600612 } |
+| Commentator | ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Raids::{ user-id=15640966 }, ::{ flag=ID }:: ::Sunohara Kokona::{ user-id=11421465 }, ::{ flag=ID }:: ::Kuro Fuyusaki::{ user-id=2667496 }, ::{ flag=ID }:: ::Victim\1Crasher::{ user-id=2084869 }, ::{ flag=ID }:: ::-Kiichirou-::{ user-id=5791467 }, ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 }, ::{ flag=ID }:: ::Tama-desu::{ user-id=3813174 }, ::{ flag=ID }:: ::Seox::{ user-id=3793938 } |
+| Referee | ::{ flag=ID }:: ::NoVaLian::{ user-id=6459827 }, ::{ flag=ID }:: ::lucidators::{ user-id=10154981 }, ::{ flag=ID }:: ::Tazkiz::{ user-id=3738010 }, ::{ flag=ID }:: ::WoodenPickaxe::{ user-id=14463105 }, ::{ flag=ID }:: ::Osawa Rurino::{ user-id=20160331 }, ::{ flag=ID }:: ::Vincent A::{ user-id=11050632 }, ::{ flag=ID }:: ::nabirra::{ user-id=16053739 }, ::{ flag=ID }:: ::-TwiHD::{ user-id=5470299 }, ::{ flag=ID }:: ::Kurotei::{ user-id=19428674 }, ::{ flag=ID }:: ::BlooMertz::{ user-id=24134742 }, ::{ flag=ID }:: ::NotDens::{ user-id=17311355 }, ::{ flag=ID }:: ::YaeMyMommy::{ user-id=17278897 },  ::{ flag=ID }:: ::diorytt::{ user-id=10989656 }, ::{ flag=MY }:: ::Rumah::{ user-id=12086495 }, ::{ flag=PH }:: ::-PeKoRa-::{ user-id=17959882 }, ::{ flag=HK }:: ::Smato::{ user-id=5616307 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user-id=12609866 } |
+| Graphic designer | ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Felter::{ user-id=5865319 }, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::Takagi-chan::{ user-id=11379592 } |
+| Spreadsheet manager | ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user-id=12609866 } |
+| Wiki editor | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
 
 ## Links
 
@@ -71,22 +71,22 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 
 | Seed No. | Player | Z-Sum |
 | :-- | :-- | :-- |
-| 1 | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) | 10.36 |
-| 2 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 10.22 |
-| 3 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | 9.57 |
-| 4 | ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) | 9.56 |
-| 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | 9.54 |
-| 6 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 9.45 |
-| 7 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | 9.18 |
-| 8 | ::{ flag=ID }:: [adyoz](https://osu.ppy.sh/users/2454767) | 8.62 |
-| 9 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | 8.32 |
-| 10 | ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633) | 7.96 |
-| 11 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 7.84 |
-| 12 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | 7.70 |
-| 13 | ::{ flag=ID }:: [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) | 7.63 |
-| 14 | ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510) | 7.47 |
-| 15 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | 7.31 |
-| 16 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | 7.28 |
+| 1 | ::{ flag=ID }:: ::NazunaAmemiya::{ user-id=12159899 } | 10.36 |
+| 2 | ::{ flag=ID }:: ::lifeline::{ user-id=11367222 } | 10.22 |
+| 3 | ::{ flag=ID }:: ::rHO::{ user-id=1629553 } | 9.57 |
+| 4 | ::{ flag=ID }:: ::ThatNOOBGuy::{ user-id=11091594 } | 9.56 |
+| 5 | ::{ flag=ID }:: ::Hakui Koyori::{ user-id=10717635 } | 9.54 |
+| 6 | ::{ flag=ID }:: ::Fuma::{ user-id=1501956 } | 9.45 |
+| 7 | ::{ flag=ID }:: ::DeathHydra::{ user-id=7457788 } | 9.18 |
+| 8 | ::{ flag=ID }:: ::adyoz::{ user-id=2454767 } | 8.62 |
+| 9 | ::{ flag=ID }:: ::Rosemi Lovelock::{ user-id=1987591 } | 8.32 |
+| 10 | ::{ flag=ID }:: ::Daffy::{ user-id=5968633 } | 7.96 |
+| 11 | ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } | 7.84 |
+| 12 | ::{ flag=ID }:: ::Caruma::{ user-id=13187450 } | 7.70 |
+| 13 | ::{ flag=ID }:: ::Ninomae Ina-nis::{ user-id=11983229 } | 7.63 |
+| 14 | ::{ flag=ID }:: ::Anhydrous::{ user-id=11272510 } | 7.47 |
+| 15 | ::{ flag=ID }:: ::XenoitesBadPog::{ user-id=11461426 } | 7.31 |
+| 16 | ::{ flag=ID }:: ::DEETO::{ user-id=10069909 } | 7.28 |
 
 ## Podium
 
@@ -272,13 +272,13 @@ Saturday, 29 July 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/109737714) |
+| Lower | ::NazunaAmemiya::{ user-id=12159899 } ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **::rHO::{ user-id=1629553 }** | [#1](https://osu.ppy.sh/community/matches/109737714) |
 
 Sunday, 30 July 2023, Grand Final:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **7** | 5 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | [#1](https://osu.ppy.sh/community/matches/109750968) |
+| Grand Final | **::lifeline::{ user-id=11367222 }** ::{ flag=ID }:: | **7** | 5 | ::{ flag=ID }:: ::rHO::{ user-id=1629553 } | [#1](https://osu.ppy.sh/community/matches/109750968) |
 
 ### Finals (week 1)
 
@@ -286,15 +286,15 @@ Saturday, 22 July 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/109619011) |
-| Upper | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/109620970) |
-| Lower | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/109623175) |
+| Lower | **::Hakui Koyori::{ user-id=10717635 }** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: ::DEETO::{ user-id=10069909 } | [#1](https://osu.ppy.sh/community/matches/109619011) |
+| Upper | ::NazunaAmemiya::{ user-id=12159899 } ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **::lifeline::{ user-id=11367222 }** | [#1](https://osu.ppy.sh/community/matches/109620970) |
+| Lower | ::Fuma::{ user-id=1501956 } ::{ flag=ID }:: | 2 | **7** | ::{ flag=ID }:: **::rHO::{ user-id=1629553 }** | [#1](https://osu.ppy.sh/community/matches/109623175) |
 
 Sunday, 23 July 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/109640383) |
+| Lower | ::Hakui Koyori::{ user-id=10717635 } ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **::rHO::{ user-id=1629553 }** | [#1](https://osu.ppy.sh/community/matches/109640383) |
 
 ### Semifinals
 
@@ -302,29 +302,29 @@ Thursday, 13 July 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/109473585) |
-| Lower | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | [#1](https://osu.ppy.sh/community/matches/109472911) |
+| Lower | ::Rosemi Lovelock::{ user-id=1987591 } ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **::rHO::{ user-id=1629553 }** | [#1](https://osu.ppy.sh/community/matches/109473585) |
+| Lower | **::ThatNOOBGuy::{ user-id=11091594 }** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: ::XenoitesBadPog::{ user-id=11461426 } | [#1](https://osu.ppy.sh/community/matches/109472911) |
 
 Friday, 14 July 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/109490570) |
+| Lower | ::ThatNOOBGuy::{ user-id=11091594 } ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **::rHO::{ user-id=1629553 }** | [#1](https://osu.ppy.sh/community/matches/109490570) |
 
 Saturday, 15 July 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Anhydrous](https://osu.ppy.sh/users/11272510) ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/109505402) |
-| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/109506277) |
-| Lower | [DeathHydra](https://osu.ppy.sh/users/7457788) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[Ninomae Ina-nis](https://osu.ppy.sh/users/11983229)** | [#1](https://osu.ppy.sh/community/matches/109506204) |
+| Lower | ::Anhydrous::{ user-id=11272510 } ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **::DEETO::{ user-id=10069909 }** | [#1](https://osu.ppy.sh/community/matches/109505402) |
+| Upper | **::lifeline::{ user-id=11367222 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: ::Fuma::{ user-id=1501956 } | [#1](https://osu.ppy.sh/community/matches/109506277) |
+| Lower | ::DeathHydra::{ user-id=7457788 } ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **::Ninomae Ina-nis::{ user-id=11983229 }** | [#1](https://osu.ppy.sh/community/matches/109506204) |
 
 Sunday, 16 July 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[NazunaAmemiya](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/109521317) |
-| Lower | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) | [#1](https://osu.ppy.sh/community/matches/109525652) |
+| Upper | **::NazunaAmemiya::{ user-id=12159899 }** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: ::Hakui Koyori::{ user-id=10717635 } | [#1](https://osu.ppy.sh/community/matches/109521317) |
+| Lower | **::DEETO::{ user-id=10069909 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::Ninomae Ina-nis::{ user-id=11983229 } | [#1](https://osu.ppy.sh/community/matches/109525652) |
 
 ### Quarterfinals
 
@@ -332,19 +332,19 @@ Saturday, 8 July 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[rHO](https://osu.ppy.sh/users/1629553)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/109388652) |
+| Lower | **::rHO::{ user-id=1629553 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } | [#1](https://osu.ppy.sh/community/matches/109388652) |
 
 Sunday, 9 July 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Ninomae Ina-nis](https://osu.ppy.sh/users/11983229)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/109407517) |
-| Upper | [Anhydrous](https://osu.ppy.sh/users/11272510) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/109408858) |
-| Lower | **[XenoitesBadPog](https://osu.ppy.sh/users/11461426)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/109409404) |
-| Upper | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/109407605) |
-| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/109405757) |
-| Upper | **[NazunaAmemiya](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/109409917) |
-| Lower | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [adyoz](https://osu.ppy.sh/users/2454767) | [#1](https://osu.ppy.sh/community/matches/109410214) |
+| Lower | **::Ninomae Ina-nis::{ user-id=11983229 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::Caruma::{ user-id=13187450 } | [#1](https://osu.ppy.sh/community/matches/109407517) |
+| Upper | ::Anhydrous::{ user-id=11272510 } ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **::Fuma::{ user-id=1501956 }** | [#1](https://osu.ppy.sh/community/matches/109408858) |
+| Lower | **::XenoitesBadPog::{ user-id=11461426 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: ::Daffy::{ user-id=5968633 } | [#1](https://osu.ppy.sh/community/matches/109409404) |
+| Upper | ::ThatNOOBGuy::{ user-id=11091594 } ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **::Hakui Koyori::{ user-id=10717635 }** | [#1](https://osu.ppy.sh/community/matches/109407605) |
+| Upper | **::lifeline::{ user-id=11367222 }** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: ::DeathHydra::{ user-id=7457788 } | [#1](https://osu.ppy.sh/community/matches/109405757) |
+| Upper | **::NazunaAmemiya::{ user-id=12159899 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: ::Rosemi Lovelock::{ user-id=1987591 } | [#1](https://osu.ppy.sh/community/matches/109409917) |
+| Lower | **::DEETO::{ user-id=10069909 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: ::adyoz::{ user-id=2454767 } | [#1](https://osu.ppy.sh/community/matches/109410214) |
 
 ### Round of 16
 
@@ -352,24 +352,24 @@ Friday, 30 June 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[DeathHydra](https://osu.ppy.sh/users/7457788)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633) | [#1](https://osu.ppy.sh/community/matches/109260584) |
-| Upper | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) | [#1](https://osu.ppy.sh/community/matches/109263529) |
+| Upper | **::DeathHydra::{ user-id=7457788 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: ::Daffy::{ user-id=5968633 } | [#1](https://osu.ppy.sh/community/matches/109260584) |
+| Upper | **::ThatNOOBGuy::{ user-id=11091594 }** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: ::Ninomae Ina-nis::{ user-id=11983229 } | [#1](https://osu.ppy.sh/community/matches/109263529) |
 
 Saturday, 1 July 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[NazunaAmemiya](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/109276960) |
-| Upper | [adyoz](https://osu.ppy.sh/users/2454767) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/109281328) |
-| Upper | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/109282423) |
+| Upper | **::NazunaAmemiya::{ user-id=12159899 }** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: ::DEETO::{ user-id=10069909 } | [#1](https://osu.ppy.sh/community/matches/109276960) |
+| Upper | ::adyoz::{ user-id=2454767 } ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **::Rosemi Lovelock::{ user-id=1987591 }** | [#1](https://osu.ppy.sh/community/matches/109281328) |
+| Upper | **::Hakui Koyori::{ user-id=10717635 }** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: ::Caruma::{ user-id=13187450 } | [#1](https://osu.ppy.sh/community/matches/109282423) |
 
 Sunday, 2 July 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | [#1](https://osu.ppy.sh/community/matches/109294580) |
-| Upper | [rHO](https://osu.ppy.sh/users/1629553) ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **[Anhydrous](https://osu.ppy.sh/users/11272510)** | [#1](https://osu.ppy.sh/community/matches/109296248) |
-| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/109298415) |
+| Upper | **::lifeline::{ user-id=11367222 }** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: ::XenoitesBadPog::{ user-id=11461426 } | [#1](https://osu.ppy.sh/community/matches/109294580) |
+| Upper | ::rHO::{ user-id=1629553 } ::{ flag=ID }:: | 3 | **5** | ::{ flag=ID }:: **::Anhydrous::{ user-id=11272510 }** | [#1](https://osu.ppy.sh/community/matches/109296248) |
+| Upper | **::Fuma::{ user-id=1501956 }** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } | [#1](https://osu.ppy.sh/community/matches/109298415) |
 
 ## Ruleset
 

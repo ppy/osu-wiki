@@ -25,9 +25,9 @@ Looking for a sample of **SEBii**'s music? "Yes" is the correct answer. Check ou
 
 Play through any of these awesome maps from (almost) any mode:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/1391589) hosted by [Vanchanical](https://osu.ppy.sh/users/12235033) from the video above
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1463622) hosted by [Horiiizon](https://osu.ppy.sh/users/8071438)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/1512572) hosted by [Nelly](https://osu.ppy.sh/users/4741164) (made specifically for this artist announcement!)
+- [osu! map](https://osu.ppy.sh/beatmapsets/1391589) hosted by ::Vanchanical::{ user-id=12235033 } from the video above
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1463622) hosted by ::Horiiizon::{ user-id=8071438 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/1512572) hosted by ::Nelly::{ user-id=4741164 } (made specifically for this artist announcement!)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/186/Songs/SEBii%20-%20Play%20Poker%20Remix%20%28wMaple%29%20%28Cut%20Ver.%29.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Play through any of these awesome maps from (almost) any mode:
 
 ### BONErr
 
-Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1393604) hosted by [Mokobe](https://osu.ppy.sh/users/10374819)!
+Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1393604) hosted by ::Mokobe::{ user-id=10374819 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/186/Songs/SEBii%20-%20BONErr.mp3" type="audio/mpeg">

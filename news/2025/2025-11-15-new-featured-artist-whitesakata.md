@@ -9,7 +9,7 @@ There's been a void in our Featured Artist library for too long, and **WhiteSaka
 
 ![](https://assets.ppy.sh/artists/512/header.jpg)
 
-With inspirations like [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31) and [*seatrus*](https://osu.ppy.sh/beatmaps/artists/185), you should be able to guess exactly what kind of music **WhiteSakata** makes. When also considering the fact that they've been [an osu!taiko player](https://osu.ppy.sh/users/15400295) for the better half of a decade, your suspicions should be confirmed: **WhiteSakata** has a knack for hyper-intense electronic tunes that perfectly fit rhythm games.
+With inspirations like [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31) and [*seatrus*](https://osu.ppy.sh/beatmaps/artists/185), you should be able to guess exactly what kind of music **WhiteSakata** makes. When also considering the fact that they've been ::an osu!taiko player::{ user-id=15400295 } for the better half of a decade, your suspicions should be confirmed: **WhiteSakata** has a knack for hyper-intense electronic tunes that perfectly fit rhythm games.
 
 **5** top-tier tracks can be found on [**WhiteSakata**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/512), soon to be downloaded and mapped by you.
 
@@ -19,7 +19,7 @@ If you have ears, listening to these previews is your next step:
 
 ### [WhiteSakata - R(eiterat)e:](https://assets.ppy.sh/artists/512/R(eiterat)e/WhiteSakata%20-%20R(eiterat)e.osz)
 
-If you've been following the Featured Artist video saga of the last few weeks, you'll already know that a bunch of osu! players were at [a certain LAN event](https://osu.ppy.sh/home/news/2025-09-16-osu-uk-epic46) recently. That's where the one and only [MALTESER](https://osu.ppy.sh/users/5218178) played [this map](https://osu.ppy.sh/beatmapsets/2407278) hosted by [Wispy](https://osu.ppy.sh/users/11106929)!
+If you've been following the Featured Artist video saga of the last few weeks, you'll already know that a bunch of osu! players were at [a certain LAN event](https://osu.ppy.sh/home/news/2025-09-16-osu-uk-epic46) recently. That's where the one and only ::MALTESER::{ user-id=5218178 } played [this map](https://osu.ppy.sh/beatmapsets/2407278) hosted by ::Wispy::{ user-id=11106929 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

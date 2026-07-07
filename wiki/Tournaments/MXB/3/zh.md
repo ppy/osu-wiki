@@ -25,7 +25,7 @@ tags:
 
 ## 奖品
 
-本次比赛奖品由 [IA daisuki](https://osu.ppy.sh/users/11238501) 提供。
+本次比赛奖品由 ::IA daisuki::{ user-id=11238501 } 提供。
 
 | 名次 | 奖品 |
 | :-: | :-- |
@@ -37,12 +37,12 @@ tags:
 
 | 职位 | 成员 |
 | :-: | :-- |
-| 比赛经理 | ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501) |
-| 比赛监督 | ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329) |
-| 图池管理 | ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501), ::{ flag=US }:: [qqqant](https://osu.ppy.sh/users/8976576), ::{ flag=CN }:: [Toki 0w0](https://osu.ppy.sh/users/10392201), ::{ flag=CN }:: [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
-| 直播裁判 | ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [NimaPro](https://osu.ppy.sh/users/11524571), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
-| 解说团队 | ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [NimaPro](https://osu.ppy.sh/users/11524571), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
-| Wiki | ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
+| 比赛经理 | ::{ flag=CN }:: ::IA daisuki::{ user-id=11238501 } |
+| 比赛监督 | ::{ flag=CN }:: ::Flow Light::{ user-id=6705256 }, ::{ flag=CN }:: ::hans1999::{ user-id=6679329 } |
+| 图池管理 | ::{ flag=CN }:: ::ExNeko::{ user-id=7590894 }, ::{ flag=CN }:: ::IA daisuki::{ user-id=11238501 }, ::{ flag=US }:: ::qqqant::{ user-id=8976576 }, ::{ flag=CN }:: ::Toki 0w0::{ user-id=10392201 }, ::{ flag=CN }:: ::-\[Ulazis\]-::{ user-id=11144363 } |
+| 直播裁判 | ::{ flag=CN }:: ::Flow Light::{ user-id=6705256 }, ::{ flag=CN }:: ::IA daisuki::{ user-id=11238501 }, ::{ flag=CN }:: ::NimaPro::{ user-id=11524571 }, ::{ flag=CN }:: ::Rasis::{ user-id=1209363 }, ::{ flag=CN }:: ::kj415j45::{ user-id=9367540 } |
+| 解说团队 | ::{ flag=CN }:: ::crazybrother::{ user-id=8045083 }, ::{ flag=CN }:: ::Flow Light::{ user-id=6705256 }, ::{ flag=CN }:: ::NimaPro::{ user-id=11524571 }, ::{ flag=CN }:: ::Rasis::{ user-id=1209363 }, ::{ flag=CN }:: ::-\[Ulazis\]-::{ user-id=11144363 } |
+| Wiki | ::{ flag=CN }:: ::IA daisuki::{ user-id=11238501 }, ::{ flag=CN }:: ::kj415j45::{ user-id=9367540 } |
 
 ## 链接
 
@@ -57,21 +57,21 @@ tags:
 
 | 名次 | 选手 |
 | :-: | :-- |
-| ![金冠](/wiki/shared/crown-gold.png "第一名") | [A M D](https://osu.ppy.sh/users/5321112) |
-| ![银冠](/wiki/shared/crown-silver.png "第二名") | [shizehao](https://osu.ppy.sh/users/4928674) |
-| ![铜冠](/wiki/shared/crown-bronze.png "第三名") | [Yutto007](https://osu.ppy.sh/users/10269172) |
+| ![金冠](/wiki/shared/crown-gold.png "第一名") | ::A M D::{ user-id=5321112 } |
+| ![银冠](/wiki/shared/crown-silver.png "第二名") | ::shizehao::{ user-id=4928674 } |
+| ![铜冠](/wiki/shared/crown-bronze.png "第三名") | ::Yutto007::{ user-id=10269172 } |
 
 ## 参赛选手
 
 |  |  |  |  |
 | :-: | :-: | :-: | :-: |
-| [525426806](https://osu.ppy.sh/users/10194722) | [H-Shjie](https://osu.ppy.sh/users/11109612) | [Star0v0](https://osu.ppy.sh/users/3675841) | [wuzhin](https://osu.ppy.sh/users/11722256) |
-| [Anonie](https://osu.ppy.sh/users/13725543) | [shizehao](https://osu.ppy.sh/users/4928674) | [biIibiIi-\_-](https://osu.ppy.sh/users/13859478) | [s\_w\_w](https://osu.ppy.sh/users/12192069) |
-| [KirigayaSnow](https://osu.ppy.sh/users/10721528) | [Yutto007](https://osu.ppy.sh/users/10269172) | [RW233](https://osu.ppy.sh/users/10018541) | [solende](https://osu.ppy.sh/users/11863106) |
-| [\[xiao ba\]](https://osu.ppy.sh/users/12451181) | [Chinese\_Psy](https://osu.ppy.sh/users/11049989) | [qiuzhilin](https://osu.ppy.sh/users/11192692) | [Earnestlyqq](https://osu.ppy.sh/users/10637430) |
-| [a794151336](https://osu.ppy.sh/users/9912076) | [A M D](https://osu.ppy.sh/users/5321112) | [bouquetww](https://osu.ppy.sh/users/13007770) | [KaffuCchino](https://osu.ppy.sh/users/13461151) |
-| [yuki hirahira](https://osu.ppy.sh/users/11740840) | [HerrySun](https://osu.ppy.sh/users/13235020) | [Blue\_Potion](https://osu.ppy.sh/users/13094831) | [magical Sao](https://osu.ppy.sh/users/13235020) |
-| [1ess__](https://osu.ppy.sh/users/10823750) |  |  |  |
+| ::525426806::{ user-id=10194722 } | [H-Shjie](https://osu.ppy.sh/users/11109612) | ::Star0v0::{ user-id=3675841 } | [wuzhin](https://osu.ppy.sh/users/11722256) |
+| ::Anonie::{ user-id=13725543 } | [shizehao](https://osu.ppy.sh/users/4928674) | ::biIibiIi-\_-::{ user-id=13859478 } | [s\_w\_w](https://osu.ppy.sh/users/12192069) |
+| ::KirigayaSnow::{ user-id=10721528 } | [Yutto007](https://osu.ppy.sh/users/10269172) | ::RW233::{ user-id=10018541 } | [solende](https://osu.ppy.sh/users/11863106) |
+| ::\[xiao ba\]::{ user-id=12451181 } | [Chinese\_Psy](https://osu.ppy.sh/users/11049989) | ::qiuzhilin::{ user-id=11192692 } | [Earnestlyqq](https://osu.ppy.sh/users/10637430) |
+| ::a794151336::{ user-id=9912076 } | [A M D](https://osu.ppy.sh/users/5321112) | ::bouquetww::{ user-id=13007770 } | [KaffuCchino](https://osu.ppy.sh/users/13461151) |
+| ::yuki hirahira::{ user-id=11740840 } | [HerrySun](https://osu.ppy.sh/users/13235020) | ::Blue\_Potion::{ user-id=13094831 } | [magical Sao](https://osu.ppy.sh/users/13235020) |
+| ::1ess\1\1::{ user-id=10823750 } |  |  |  |
 
 ## 分组
 

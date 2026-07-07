@@ -8,7 +8,7 @@ tags:
 
 ![Ascaveth Invitational Tournament 2023 logo](img/logo.png)
 
-The **Ascaveth Invitational Tournament 2023** was a double-elimination 1v1 invitational osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and co-organised by ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), and ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677). The tournament was the third major LAN osu! tournament to ever be held in Indonesia, as well as the second one to be run under the [Ascaveth Invitational Tournament](/wiki/Tournaments/AIT) banner.
+The **Ascaveth Invitational Tournament 2023** was a double-elimination 1v1 invitational osu! tournament hosted by ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 } and co-organised by ::{ flag=ID }:: ::Raids::{ user-id=15640966 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, and ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }. The tournament was the third major LAN osu! tournament to ever be held in Indonesia, as well as the second one to be run under the [Ascaveth Invitational Tournament](/wiki/Tournaments/AIT) banner.
 
 ## Tournament schedule
 
@@ -52,23 +52,23 @@ The Ascaveth Invitational Tournament 2023 was run by various osu! community memb
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) |
-| Organiser | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) |
-| Mappool selector | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) |
-| Custom mapper | ::{ flag=ID }:: [jiwoas](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [Riene](https://osu.ppy.sh/users/8549009), ::{ flag=ID }:: [Adinda](https://osu.ppy.sh/users/15959751) |
-| Playtester | ::{ flag=ID }:: [i love uma](https://osu.ppy.sh/users/7108275), ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
-| Streamer | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) |
-| Commentator | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [i love uma](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Deorum](https://osu.ppy.sh/users/5933031), ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956), ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635), ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
-| Referee | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465) |
-| Logistics and equipment | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490), ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633), ::{ flag=ID }:: [Pmy](https://osu.ppy.sh/users/9083094), ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302) |
-| Merchandising | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633), ::{ flag=ID }:: RayindaZERO [(↗)](https://www.deviantart.com/rayindazero) |
-| Security and permissions | ::{ flag=ID }:: [Deorum](https://osu.ppy.sh/users/5933031) |
-| Documentation | ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [liykun](https://osu.ppy.sh/users/9500057) |
-| Catering | ::{ flag=ID }:: [Nareisk](https://osu.ppy.sh/users/18382879) |
-| Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Nexa-](https://osu.ppy.sh/users/6155896), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Zaald](https://osu.ppy.sh/users/12088808), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) |
-| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 } |
+| Organiser | ::{ flag=ID }:: ::Raids::{ user-id=15640966 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 } |
+| Mappool selector | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::Raids::{ user-id=15640966 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, ::{ flag=ID }:: ::Caviar-::{ user-id=10474988 }, ::{ flag=ID }:: ::fnayR::{ user-id=2800253 } |
+| Custom mapper | ::{ flag=ID }:: ::jiwoas::{ user-id=10778215 }, ::{ flag=ID }:: ::Riene::{ user-id=8549009 }, ::{ flag=ID }:: ::Adinda::{ user-id=15959751 } |
+| Playtester | ::{ flag=ID }:: ::i love uma::{ user-id=7108275 }, ::{ flag=MY }:: ::DuoX::{ user-id=9560694 }, ::{ flag=MY }:: ::Laphii::{ user-id=9364594 } |
+| Streamer | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::lifeline::{ user-id=11367222 } |
+| Commentator | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::i love uma::{ user-id=7108275 }, ::{ flag=ID }:: ::Genjitsu::{ user-id=3531490 }, ::{ flag=ID }:: ::Victim\_Crasher::{ user-id=2084869 }, ::{ flag=ID }:: ::Deorum::{ user-id=5933031 }, ::{ flag=ID }:: ::Suikami::{ user-id=1929336 }, ::{ flag=ID }:: ::Fuma::{ user-id=1501956 }, ::{ flag=ID }:: ::Hakui Koyori::{ user-id=10717635 }, ::{ flag=ID }:: ::Skydiver::{ user-id=4750008 }, ::{ flag=ID }:: ::ScubDomino::{ user-id=8972308 }, ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } |
+| Referee | ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, ::{ flag=ID }:: ::Genjitsu::{ user-id=3531490 }, ::{ flag=ID }:: ::Sunohara Kokona::{ user-id=11421465 } |
+| Logistics and equipment | ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::Genjitsu::{ user-id=3531490 }, ::{ flag=ID }:: ::Sunohara Kokona::{ user-id=11421465 }, ::{ flag=ID }:: ::Victim\_Crasher::{ user-id=2084869 }, ::{ flag=ID }:: ::Daffy::{ user-id=5968633 }, ::{ flag=ID }:: ::Pmy::{ user-id=9083094 }, ::{ flag=ID }:: ::Walfrid::{ user-id=6600809 }, ::{ flag=ID }:: ::phizh::{ user-id=4569302 } |
+| Merchandising | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::Daffy::{ user-id=5968633 }, ::{ flag=ID }:: RayindaZERO [(↗)](https://www.deviantart.com/rayindazero) |
+| Security and permissions | ::{ flag=ID }:: ::Deorum::{ user-id=5933031 } |
+| Documentation | ::{ flag=ID }:: ::Suikami::{ user-id=1929336 }, ::{ flag=ID }:: ::Zavier::{ user-id=11379592 }, ::{ flag=ID }:: ::liykun::{ user-id=9500057 } |
+| Catering | ::{ flag=ID }:: ::Nareisk::{ user-id=18382879 } |
+| Graphic designer | ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::Zavier::{ user-id=11379592 }, ::{ flag=ID }:: ::Nexa-::{ user-id=6155896 }, ::{ flag=ID }:: ::Felter::{ user-id=5865319 }, ::{ flag=ID }:: ::Zaald::{ user-id=12088808 }, ::{ flag=ID }:: ::CubeixID200::{ user-id=10678919 } |
+| Wiki editor | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
 | Merch artist | ::{ flag=ID }:: satomiz [(↗)](https://web.facebook.com/stmzu), ::{ flag=ID }:: aikovio [(↗)](https://twitter.com/aikovio), ::{ flag=MY }:: th_nore [(↗)](https://twitter.com/th_nore) |
-| Special thanks | ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) |
+| Special thanks | ::{ flag=ID }:: ::Venta::{ user-id=11320627 } |
 
 ## Links
 
@@ -83,16 +83,16 @@ The Ascaveth Invitational Tournament 2023 was run by various osu! community memb
 
 Listed below are the players who were invited into the tournament:
 
-- ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) *([Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) winner)*
-- ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) *([Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) runner-up)*
-- ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) winner)*
-- ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) runner-up)*
-- ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) 3rd-place finisher)*
-- ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) best non-podium finisher)*
-- ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) *([Ascaveth Invitational Tournament 2023: Last Chance Qualifier](/wiki/Tournaments/AIT/2023_LCQ) winner)*
-- ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) *([Ascaveth Invitational Tournament 2023: Last Chance Qualifier](/wiki/Tournaments/AIT/2023_LCQ) runner-up)*
+- ::{ flag=ID }:: ::Hakui Koyori::{ user-id=10717635 } *([Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) winner)*
+- ::{ flag=ID }:: ::Skydiver::{ user-id=4750008 } *([Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) runner-up)*
+- ::{ flag=ID }:: ::lifeline::{ user-id=11367222 } *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) winner)*
+- ::{ flag=ID }:: ::rHO::{ user-id=1629553 } *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) runner-up)*
+- ::{ flag=ID }:: ::NazunaAmemiya::{ user-id=12159899 } *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) 3rd-place finisher)*
+- ::{ flag=ID }:: ::Fuma::{ user-id=1501956 } *([osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) best non-podium finisher)*
+- ::{ flag=ID }:: ::ThatNOOBGuy::{ user-id=11091594 } *([Ascaveth Invitational Tournament 2023: Last Chance Qualifier](/wiki/Tournaments/AIT/2023_LCQ) winner)*
+- ::{ flag=ID }:: ::DEETO::{ user-id=10069909 } *([Ascaveth Invitational Tournament 2023: Last Chance Qualifier](/wiki/Tournaments/AIT/2023_LCQ) runner-up)*
 
-In addition, the tournament management also included ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) as a reserve player in case someone had to withdraw on short notice due to unforeseen circumstances.
+In addition, the tournament management also included ::{ flag=ID }:: ::Suikami::{ user-id=1929336 } as a reserve player in case someone had to withdraw on short notice due to unforeseen circumstances.
 
 ## Podium
 
@@ -208,35 +208,35 @@ In addition, the tournament management also included ::{ flag=ID }:: [Suikami](h
 
 | Bracket/match code | Player 1 |  |  | Player 2 | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| Lower/match 13L | [lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/111641719) | [#1](https://www.youtube.com/watch?v=Da2_AUdHeIU) |
-| Grand Final/match 14 | **[rHO](https://osu.ppy.sh/users/1629553)** ::{ flag=ID }:: | **7** | 6 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/111642879) | [#1](https://www.youtube.com/watch?v=4BDIj5AaFBI) |
+| Lower/match 13L | ::lifeline::{ user-id=11367222 } ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **::DEETO::{ user-id=10069909 }** | [#1](https://osu.ppy.sh/community/matches/111641719) | [#1](https://www.youtube.com/watch?v=Da2_AUdHeIU) |
+| Grand Final/match 14 | **::rHO::{ user-id=1629553 }** ::{ flag=ID }:: | **7** | 6 | ::{ flag=ID }:: ::DEETO::{ user-id=10069909 } | [#1](https://osu.ppy.sh/community/matches/111642879) | [#1](https://www.youtube.com/watch?v=4BDIj5AaFBI) |
 
 ### Finals
 
 | Bracket/match code | Player 1 |  |  | Player 2 | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| Lower/match 9L | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) | [#1](https://osu.ppy.sh/community/matches/111639091) | [#1](https://www.youtube.com/watch?v=3MPDLiLOR5I) |
-| Lower/match 10L | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/111639131) | [#1](https://www.youtube.com/watch?v=ZykCdwrb0Cg) |
-| Lower/match 11L | **[DEETO](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/111639900) | [#1](https://www.youtube.com/watch?v=P4fgx3jskvE) |
-| Upper/match 12U | [lifeline](https://osu.ppy.sh/users/11367222) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111639683) | [#1](https://www.youtube.com/watch?v=Lr6b_d-1WWg) |
+| Lower/match 9L | **::DEETO::{ user-id=10069909 }** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: ::NazunaAmemiya::{ user-id=12159899 } | [#1](https://osu.ppy.sh/community/matches/111639091) | [#1](https://www.youtube.com/watch?v=3MPDLiLOR5I) |
+| Lower/match 10L | ::Fuma::{ user-id=1501956 } ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **::Hakui Koyori::{ user-id=10717635 }** | [#1](https://osu.ppy.sh/community/matches/111639131) | [#1](https://www.youtube.com/watch?v=ZykCdwrb0Cg) |
+| Lower/match 11L | **::DEETO::{ user-id=10069909 }** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: ::Hakui Koyori::{ user-id=10717635 } | [#1](https://osu.ppy.sh/community/matches/111639900) | [#1](https://www.youtube.com/watch?v=P4fgx3jskvE) |
+| Upper/match 12U | ::lifeline::{ user-id=11367222 } ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **::rHO::{ user-id=1629553 }** | [#1](https://osu.ppy.sh/community/matches/111639683) | [#1](https://www.youtube.com/watch?v=Lr6b_d-1WWg) |
 
 ### Semifinals
 
 | Bracket/match code | Player 1 |  |  | Player 2 | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| Upper/match 5U | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/111638406) | [#1](https://www.youtube.com/watch?v=1G7WRAcT4xY) |
-| Upper/match 6U | [DEETO](https://osu.ppy.sh/users/10069909) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111638367) | [#1](https://www.youtube.com/watch?v=mzEkON7Yz4A) |
-| Lower/match 7L | [Skydiver](https://osu.ppy.sh/users/10069909) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[NazunaAmemiya](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111637354) | [#1](https://www.youtube.com/watch?v=xsR2ONgbxws) |
-| Lower/match 8L | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/111637200) | [#1](https://www.youtube.com/watch?v=BFtQSPAt5wM) |
+| Upper/match 5U | **::lifeline::{ user-id=11367222 }** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: ::Fuma::{ user-id=1501956 } | [#1](https://osu.ppy.sh/community/matches/111638406) | [#1](https://www.youtube.com/watch?v=1G7WRAcT4xY) |
+| Upper/match 6U | ::DEETO::{ user-id=10069909 } ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **::rHO::{ user-id=1629553 }** | [#1](https://osu.ppy.sh/community/matches/111638367) | [#1](https://www.youtube.com/watch?v=mzEkON7Yz4A) |
+| Lower/match 7L | ::Skydiver::{ user-id=10069909 } ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **::NazunaAmemiya::{ user-id=1629553 }** | [#1](https://osu.ppy.sh/community/matches/111637354) | [#1](https://www.youtube.com/watch?v=xsR2ONgbxws) |
+| Lower/match 8L | ::ThatNOOBGuy::{ user-id=11091594 } ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **::Hakui Koyori::{ user-id=10717635 }** | [#1](https://osu.ppy.sh/community/matches/111637200) | [#1](https://www.youtube.com/watch?v=BFtQSPAt5wM) |
 
 ### Quarterfinals
 
 | Bracket/match code | Player 1 |  |  | Player 2 | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| Upper/match 1 | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/111636056) | [#1](https://www.youtube.com/watch?v=R89qo_lUIZw) |
-| Upper/match 2 | [NazunaAmemiya](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/111636028) | [#1](https://www.youtube.com/watch?v=oUR_7aGTgHc) |
-| Upper/match 3 | [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | [#1](https://osu.ppy.sh/community/matches/111636056) | [#1](https://www.youtube.com/watch?v=o2ElMLDCMag) |
-| Upper/match 4 | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** | [#1](https://osu.ppy.sh/community/matches/111636056) | [#1](https://www.youtube.com/watch?v=a4sRF_PiJxE) |
+| Upper/match 1 | **::lifeline::{ user-id=11367222 }** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: ::Skydiver::{ user-id=4750008 } | [#1](https://osu.ppy.sh/community/matches/111636056) | [#1](https://www.youtube.com/watch?v=R89qo_lUIZw) |
+| Upper/match 2 | ::NazunaAmemiya::{ user-id=12159899 } ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **::Fuma::{ user-id=1501956 }** | [#1](https://osu.ppy.sh/community/matches/111636028) | [#1](https://www.youtube.com/watch?v=oUR_7aGTgHc) |
+| Upper/match 3 | ::ThatNOOBGuy::{ user-id=11091594 } ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **::DEETO::{ user-id=10069909 }** | [#1](https://osu.ppy.sh/community/matches/111636056) | [#1](https://www.youtube.com/watch?v=o2ElMLDCMag) |
+| Upper/match 4 | ::Hakui Koyori::{ user-id=10717635 } ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **::rHO::{ user-id=1629553 }** | [#1](https://osu.ppy.sh/community/matches/111636056) | [#1](https://www.youtube.com/watch?v=a4sRF_PiJxE) |
 
 ## Ruleset
 

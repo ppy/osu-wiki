@@ -9,7 +9,7 @@ outdated_since: df4b0dcdbd340e2f26e11e79eb047274dfcb5ef3
 
 ## Januari
 
-Sistem [*performance point* (pp)](/wiki/Performance_points) dinonaktifkan untuk proses pemeliharaan pada tanggal 20 Januari 2014 akibat kesalahan perhitungan yang terjadi pada beberapa bulan sebelumnya.[^ranking-maintenance] Penonaktifan tersebut diikuti oleh pengumuman pada tanggal 26 Januari 2014 yang menjelaskan seputar perombakan sistem pp secara menyeluruh.[^new-perf-ranking][^pp-article] Sistem baru ini dirancang dan diimplementasikan oleh [Tom94](https://osu.ppy.sh/users/1857058) dan bertujuan agar skor pp ke depannya dihitung berdasarkan nilai kesulitan ("*difficulty value*") yang terpisah dari [*star rating*](/wiki/Beatmap/Star_rating) untuk seluruh kombinasi [*beatmap*](/wiki/Beatmap) dan [*mod*](/wiki/Gameplay/Game_modifier) yang berlaku.[^ranking-maintenance] Sebagai dampaknya, sistem pp yang lama kemudian dikenal sebagai "ppv1" dan sistem pp yang baru dinamakan "ppv2".
+Sistem [*performance point* (pp)](/wiki/Performance_points) dinonaktifkan untuk proses pemeliharaan pada tanggal 20 Januari 2014 akibat kesalahan perhitungan yang terjadi pada beberapa bulan sebelumnya.[^ranking-maintenance] Penonaktifan tersebut diikuti oleh pengumuman pada tanggal 26 Januari 2014 yang menjelaskan seputar perombakan sistem pp secara menyeluruh.[^new-perf-ranking][^pp-article] Sistem baru ini dirancang dan diimplementasikan oleh ::Tom94::{ user-id=1857058 } dan bertujuan agar skor pp ke depannya dihitung berdasarkan nilai kesulitan ("*difficulty value*") yang terpisah dari [*star rating*](/wiki/Beatmap/Star_rating) untuk seluruh kombinasi [*beatmap*](/wiki/Beatmap) dan [*mod*](/wiki/Gameplay/Game_modifier) yang berlaku.[^ranking-maintenance] Sebagai dampaknya, sistem pp yang lama kemudian dikenal sebagai "ppv1" dan sistem pp yang baru dinamakan "ppv2".
 
 ## Maret
 
@@ -21,11 +21,11 @@ Dari area *skinning*, elemen `playfield.jpg` yang sebelumnya dapat dimodifikasi 
 
 ## April
 
-"osu! Monthly Fanart Contest" diumumkan untuk pertama kalinya pada tanggal 3 April 2014. Kontes tersebut merupakan kontes informal yang diselenggarakan oleh [LuigiHann](https://osu.ppy.sh/users/1079) dan menghadiahkan [osu!supporter](https://osu.ppy.sh/home/support) kepada dua orang pemenang setiap bulannya (dengan satu orang pemenang dipilih oleh publik dan pemenang lainnya dipilih oleh staf osu!).[^fanart] Hasil dari edisi pertama kontes ini diumumkan pada [*newspost*](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results) tertanggal 21 Mei 2014, di mana [kunny](https://osu.ppy.sh/users/3931585) dan [DumplingYumYum](https://osu.ppy.sh/users/1715930) masing-masing dinyatakan sebagai juara pertama dan kedua.[^fanart-results]
+"osu! Monthly Fanart Contest" diumumkan untuk pertama kalinya pada tanggal 3 April 2014. Kontes tersebut merupakan kontes informal yang diselenggarakan oleh ::LuigiHann::{ user-id=1079 } dan menghadiahkan [osu!supporter](https://osu.ppy.sh/home/support) kepada dua orang pemenang setiap bulannya (dengan satu orang pemenang dipilih oleh publik dan pemenang lainnya dipilih oleh staf osu!).[^fanart] Hasil dari edisi pertama kontes ini diumumkan pada [*newspost*](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results) tertanggal 21 Mei 2014, di mana ::kunny::{ user-id=3931585 } dan [DumplingYumYum](https://osu.ppy.sh/users/1715930) masing-masing dinyatakan sebagai juara pertama dan kedua.[^fanart-results]
 
 ## Juni
 
-Pada tanggal 18 Juni 2014, [peppy](https://osu.ppy.sh/users/2) mengumumkan bahwa batas unduhan beatmap akan dihapus untuk seluruh pemain. Meskipun demikian, osu! akan tetap menerapkan sistem uji kewarasan (*sanity check*) untuk mencegah akun bot mengunduh beatmap dalam jumlah yang berlebihan.[^download]
+Pada tanggal 18 Juni 2014, ::peppy::{ user-id=2 } mengumumkan bahwa batas unduhan beatmap akan dihapus untuk seluruh pemain. Meskipun demikian, osu! akan tetap menerapkan sistem uji kewarasan (*sanity check*) untuk mencegah akun bot mengunduh beatmap dalam jumlah yang berlebihan.[^download]
 
 ## Agustus
 
@@ -35,7 +35,7 @@ Pada tanggal 21 Agustus 2014, melalui sebuah [*newspost*](https://osu.ppy.sh/hom
 
 Berbagai fitur baru ditambahkan ke osu! pada bulan ini, mulai dari layar masuk (*sign-in screen*) baru, sistem *scrolling* [osu!mania](/wiki/Game_mode/osu!mania) baru yang berdasar pada BPM, animasi intro dan outro baru, hingga lagu tema baru yang akan terdengar setiap kali osu! dinyalakan.
 
-Di samping itu, dalam rangka meningkatkan laju pengembangan dan penumpasan bug (*debugging*) yang ada, [peppy](https://osu.ppy.sh/users/2) juga merilis klien osu! versi "osu!test" (yang kini dikenal dengan nama "Cutting Edge") secara publik di mana sebelumnya klien ini hanya tersedia bagi para pemilik [osu!supporter](https://osu.ppy.sh/home/support).
+Di samping itu, dalam rangka meningkatkan laju pengembangan dan penumpasan bug (*debugging*) yang ada, ::peppy::{ user-id=2 } juga merilis klien osu! versi "osu!test" (yang kini dikenal dengan nama "Cutting Edge") secara publik di mana sebelumnya klien ini hanya tersedia bagi para pemilik [osu!supporter](https://osu.ppy.sh/home/support).
 
 ## Referensi
 

@@ -15,7 +15,7 @@ As of today, those tracks are officially part of osu!.
 
 **5** happy hardcore/electro house/upbeat bass tunes can be found on [**Rocket Start**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/400), all of which are pre-timed and *not* pre-mapped (that's your job).
 
-*Elite Storyboarder* [Shmiklak](https://osu.ppy.sh/users/5504231) gathered some mappers to create a map of [Sushi Blast](https://osu.ppy.sh/beatmapsets/2069690) for this announcement. Take a peek at that and everything else:
+*Elite Storyboarder* ::Shmiklak::{ user-id=5504231 } gathered some mappers to create a map of [Sushi Blast](https://osu.ppy.sh/beatmapsets/2069690) for this announcement. Take a peek at that and everything else:
 
 <div align="center">
     <video width="95%" controls>
@@ -25,7 +25,7 @@ As of today, those tracks are officially part of osu!.
 
 ### Rocket Start - Sushi Blast
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/2069690) hosted by [Shmiklak](https://osu.ppy.sh/users/5504231)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/2069690) hosted by ::Shmiklak::{ user-id=5504231 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/400/Sushi%20Blast/Rocket%20Start%20-%20Sushi%20Blast.mp3">

@@ -30,9 +30,9 @@ BN applications will still work roughly the same as last time, where you are req
 
 As osu! is a community driven game, these changes were made to give members of the community more control over what reaches the ranked section. We expect to see improvements in the way beatmap quality is managed, particularly with controversial maps, where the outcome will be more in line with the desires of the community.
 
-With these changes, the following members of the QAT will not be joining the NAT: [Fycho](https://osu.ppy.sh/users/1876867), [Gabe](https://osu.ppy.sh/users/654108), [Hobbes2](https://osu.ppy.sh/users/8157492), [Kuron-kun](https://osu.ppy.sh/users/2697284), [Lanturn](https://osu.ppy.sh/users/1446665), [p3n](https://osu.ppy.sh/users/123703), [Regraz](https://osu.ppy.sh/users/3076909), [Raiden](https://osu.ppy.sh/users/2239480), [JBHyperion](https://osu.ppy.sh/users/4879508), [Protastic101](https://osu.ppy.sh/users/6712747), [-Kazu-](https://osu.ppy.sh/users/920861), and [Noffy](https://osu.ppy.sh/users/1541323). Nonetheless, we greatly appreciate their time in the QAT and thank them all for their hard work up until now. Most of them will still be active as BNs or GMT.
+With these changes, the following members of the QAT will not be joining the NAT: ::Fycho::{ user-id=1876867 }, [Gabe](https://osu.ppy.sh/users/654108), ::Hobbes2::{ user-id=8157492 }, [Kuron-kun](https://osu.ppy.sh/users/2697284), ::Lanturn::{ user-id=1446665 }, [p3n](https://osu.ppy.sh/users/123703), ::Regraz::{ user-id=3076909 }, [Raiden](https://osu.ppy.sh/users/2239480), ::JBHyperion::{ user-id=4879508 }, [Protastic101](https://osu.ppy.sh/users/6712747), ::-Kazu-::{ user-id=920861 }, and [Noffy](https://osu.ppy.sh/users/1541323). Nonetheless, we greatly appreciate their time in the QAT and thank them all for their hard work up until now. Most of them will still be active as BNs or GMT.
 
-On the other hand, please welcome [Ascendance](https://osu.ppy.sh/users/2931883) to the NAT, who will be focusing their efforts on the affairs of the osu!catch nominators!
+On the other hand, please welcome ::Ascendance::{ user-id=2931883 } to the NAT, who will be focusing their efforts on the affairs of the osu!catch nominators!
 
 For more information on what Beatmap Nominators do and how to join them, have a look at their [wiki page](/wiki/People/The_Team/Beatmap_Nominators)!
 

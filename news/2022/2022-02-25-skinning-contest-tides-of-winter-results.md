@@ -17,7 +17,7 @@ Naturally, it took us a bit of time to count all the votes, make necessary prepa
 
 ## 3rd Place - Azure Snowfall
 
-Capturing a total of **1697** voters by heart with an exquisite yet simplistic piece of art, [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) by [thetasigma](https://osu.ppy.sh/users/6234482) achieves 3rd place!
+Capturing a total of **1697** voters by heart with an exquisite yet simplistic piece of art, [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) by ::thetasigma::{ user-id=6234482 } achieves 3rd place!
 
 Projecting the tides of winter in a minimalistic approach, Azure Snowfall, as its name suggests, combines the flakes of snow with the beauty of the sky at night. Opting for shades of dark blue tones almost everywhere, the skin neatly and artistically accommodates both snow and sky, providing a stargazing-inspired experience featuring the bluest of zeniths above the mountains, where flakes and stars meet.
 
@@ -31,7 +31,7 @@ Having snowy mountains and shiny stars meet at the horizon, thetasigma gets to a
 
 ## 2nd Place - GanyuTeks:Futur Céleste
 
-**2006** voters were brought a smile by none other than this masterpiece of delicate tech style, letting [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) by [BPChingu](https://osu.ppy.sh/users/4236855) claim 2nd place!
+**2006** voters were brought a smile by none other than this masterpiece of delicate tech style, letting [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) by ::BPChingu::{ user-id=4236855 } claim 2nd place!
 
 As the name might suggest, GanyuTeks:Futur Céleste is heavily inspired by the renowned *Genshin Impact* character Ganyu, and transports her into a futuristic osu! skin theme masterfully. Paying homage to the frigid Cryo element she wields in the original game, the skin is as much icy as it is minimalistic and futuristic, knitted together with an absolutely fantastic choice of colour palette overall.
 
@@ -47,7 +47,7 @@ Their beloved masterpiece GanyuTeks:Futur Céleste reserves BPChingu 2nd place! 
 
 ## Winner - - 『Wintherest』 -
 
-With majestic flair, crafted by the hands of a skinner extraordinaire, [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) by [Redo\_](https://osu.ppy.sh/users/7122165) takes the lead with **2347** votes, surpassing 2nd place with quite the margin!
+With majestic flair, crafted by the hands of a skinner extraordinaire, [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) by ::Redo\_::{ user-id=7122165 } takes the lead with **2347** votes, surpassing 2nd place with quite the margin!
 
 Utilising minimalistic and modern styling methods, - 『Wintherest』 - brings the serenity of a wintry day and the vivid display of aurorae together on your osu! client. The way snow is accumulated near the play button over which the logo of the skin is placed ensures a smooth transition to the anthracite layer that looks like a frosted glass filtering the lights of colour. On top of that, the use of white speech bubbles combined with various minuscule indicators strenghtens the skin's minimalistic ambience even further.
 

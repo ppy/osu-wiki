@@ -25,7 +25,7 @@ In case you've never done late-night homework assignments while listening to **i
 
 ### interdimensional portal leading to a cute place feat. snail's house
 
-Check out [this map from the video above](https://osu.ppy.sh/beatmapsets/1729796) hosted by [bongo](https://osu.ppy.sh/users/5312202)!
+Check out [this map from the video above](https://osu.ppy.sh/beatmapsets/1729796) hosted by ::bongo::{ user-id=5312202 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/257/interdimensional%20portal%20leading%20to%20a%20cute%20place/in%20love%20with%20a%20ghost%20-%20interdimensional%20portal%20leading%20to%20a%20cute%20place%20feat.%20snail%27s%20house.mp3" type="audio/mpeg">

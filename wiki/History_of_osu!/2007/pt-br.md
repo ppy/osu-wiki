@@ -6,13 +6,13 @@ outdated_since: f2c89f5c250e64121a2a94aab12046306fa6147d
 
 # História do osu! 2007
 
-O seguinte é um dos maiores eventos da história do osu! desde o começo. Agradecimento especial para o [Sinistro](https://osu.ppy.sh/users/5530) por ajudar a reunir o conteúdo de 2007/2008.
+O seguinte é um dos maiores eventos da história do osu! desde o começo. Agradecimento especial para o ::Sinistro::{ user-id=5530 } por ajudar a reunir o conteúdo de 2007/2008.
 
 ![](img/2007.jpg)
 
 ## Julho
 
-O osu! começa como uma prova de seu conceito nomeado "ouentest".[^ouentest] A primeira versão foi lançada em 1 de julho, 2007 para um grupo pequeno de amigos próximos do [peppy](https://osu.ppy.sh/users/2) onde se destacava um [editor de beatmap](/wiki/Client/Beatmap_editor) e um modo de bem básico.
+O osu! começa como uma prova de seu conceito nomeado "ouentest".[^ouentest] A primeira versão foi lançada em 1 de julho, 2007 para um grupo pequeno de amigos próximos do ::peppy::{ user-id=2 } onde se destacava um [editor de beatmap](/wiki/Client/Beatmap_editor) e um modo de bem básico.
 
 O editor poderia somente fazer [beatmaps](/wiki/Beatmap) *muito* simples, sem as funções de seeking ou [snapping](/wiki/Beatmapping/Snapping) disponíveis e sem sliders nem spinners, somente círculos e contador de pontuação básico. O primeiro lançamento demorou aproximadamente 16 horas de programação e foi feito em uma *única noite*. O `pUpdater` foi introduzido (posteriormente conhecido como `osume`) [^osume] com a função de atualizar para a última versão.
 

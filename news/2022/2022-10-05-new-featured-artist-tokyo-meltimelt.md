@@ -25,7 +25,7 @@ Check everything out:
 
 ### I ain't need my heart feat. Hatsuki Yura
 
-Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/1800571) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302)!
+Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/1800571) hosted by ::SMOKELIND::{ user-id=9327302 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/308/Songs/Tokyo.MeltiMelt%20-%20I%20ain't%20need%20my%20heart%20feat.%20Hatsuki%20Yura.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/18005
 
 ### Virgin Mary feat. Sennzai
 
-Try out [this brand-new beatmap featuring a 2008-tier difficulty spread](https://osu.ppy.sh/beatmapsets/1830770) hosted by [-Aqua](https://osu.ppy.sh/users/7150015)!
+Try out [this brand-new beatmap featuring a 2008-tier difficulty spread](https://osu.ppy.sh/beatmapsets/1830770) hosted by ::-Aqua::{ user-id=7150015 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/308/Songs/Tokyo.MeltiMelt%20-%20Virgin%20Mary%20feat.%20Sennzai.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Try out [this brand-new beatmap featuring a 2008-tier difficulty spread](https:/
 
 ### the Beautiful Cure feat. nayuta
 
-Experience [the map that introduced **Tokyo.MeltiMelt** to osu!](https://osu.ppy.sh/beatmapsets/1574009) hosted by [jonathanlfj](https://osu.ppy.sh/users/270377) or [this newer rendition](https://osu.ppy.sh/beatmapsets/1791173) hosted by [Shii](https://osu.ppy.sh/users/9186316)!
+Experience [the map that introduced **Tokyo.MeltiMelt** to osu!](https://osu.ppy.sh/beatmapsets/1574009) hosted by ::jonathanlfj::{ user-id=270377 } or [this newer rendition](https://osu.ppy.sh/beatmapsets/1791173) hosted by ::Shii::{ user-id=9186316 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/308/Songs/Tokyo.MeltiMelt%20-%20the%20Beautiful%20Cure%20feat.%20nayuta.mp3" type="audio/mpeg">

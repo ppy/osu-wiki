@@ -19,7 +19,7 @@ On top of that, we've also got two showcase maps from the eternally-talented Map
 
 ### Scintillations
 
-Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1037567) hosted by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) of the Mappers' Guild!
+Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1037567) hosted by ::Nardoxyribonucleic::{ user-id=876419 } of the Mappers' Guild!
 
 *You might also recognize this track from the World Cup streams over at [osulive](https://www.twitch.tv/osulive)!*
 
@@ -29,7 +29,7 @@ Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1037567) 
 
 ### The Evil Spirit
 
-Check out [this brand new showcase set](https://osu.ppy.sh/beatmapsets/1233230) hosted by [Yugu](https://osu.ppy.sh/users/3161834) of the Mappers' Guild!
+Check out [this brand new showcase set](https://osu.ppy.sh/beatmapsets/1233230) hosted by ::Yugu::{ user-id=3161834 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/107/previews/2811.mp3" type="audio/mpeg">

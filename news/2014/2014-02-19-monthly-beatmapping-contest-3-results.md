@@ -8,9 +8,9 @@ series: monthly_beatmapping_contest
 
 The results are in, and we have a winner for the third Monthly Beatmapping Contest!
 
-[ktgster](https://osu.ppy.sh/users/53378) wins MBC #3 with a high score of 163 points, taking home the grand prize of 6 months supporter, an osu!tablet and eternal accolades in the osu! Hall of Fame as an Elite Mapper! Congratulations!
+::ktgster::{ user-id=53378 } wins MBC #3 with a high score of 163 points, taking home the grand prize of 6 months supporter, an osu!tablet and eternal accolades in the osu! Hall of Fame as an Elite Mapper! Congratulations!
 
-Honourable mentions go to [Cherry Blossom](https://osu.ppy.sh/users/1156742) and [DakeDekaane](https://osu.ppy.sh/users/1425253), scoring in at 157 and 156 respectively - barely a single point in difference between second and third place!
+Honourable mentions go to ::Cherry Blossom::{ user-id=1156742 } and [DakeDekaane](https://osu.ppy.sh/users/1425253), scoring in at 157 and 156 respectively - barely a single point in difference between second and third place!
 
 Play the winning beatmap [here](https://osu.ppy.sh/beatmapsets/151878), and view the judges comments [here](https://osu.ppy.sh/p/contestresults/?c=9).
 

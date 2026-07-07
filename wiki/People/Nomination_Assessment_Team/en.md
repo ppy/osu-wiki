@@ -96,16 +96,16 @@ Once an NAT member chooses to depart from the team under amicable terms, they ma
 
 Former NAT members who currently have internal access are:
 
-- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
+- ::{ flag=GB }:: ::AJT::{ user-id=3181083 }
+- ::{ flag=DE }:: ::FuJu::{ user-id=10773882 }
+- ::{ flag=CN }:: ::Ryuusei Aika::{ user-id=7777875 }
+- ::{ flag=BE }:: ::yaspo::{ user-id=4945926 }
 
 ## NAT Leadership
 
 As of March 2023, the NAT has decided to re-adopt the concept of leadership, which was [previously used](/wiki/People/Quality_Assurance_Team/QAT_Leaders) in the [QAT](/wiki/People/Quality_Assurance_Team). The NAT leader has the combined responsibility of both evaluation and structural categories so they can watch over and stay involved with every aspect of the NAT.
 
-The current NAT leader is ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976).
+The current NAT leader is ::{ flag=TN }:: ::Hivie::{ user-id=14102976 }.
 
 ### Responsibilities
 
@@ -132,49 +132,49 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italian |
-| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
-| ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Finnish |
-| ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | Swedish |
-| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Thai |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
-| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finnish |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | French, Spanish |
-| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chinese |
-| ::{ flag=RO }:: [bsm](https://osu.ppy.sh/users/12366071) | Romanian |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | German |
+| ::{ flag=IT }:: ::-kevincela-::{ user-id=266596 } | Italian |
+| ::{ flag=US }:: ::-White::{ user-id=16276548 } |  |
+| ::{ flag=FI }:: ::Asphyxia::{ user-id=1715720 } | Finnish |
+| ::{ flag=SE }:: ::byd::{ user-id=6398464 } | Swedish |
+| ::{ flag=TH }:: ::Electoz::{ user-id=6485263 } | Thai |
+| ::{ flag=BE }:: ::enneya::{ user-id=10959501 } | Dutch |
+| ::{ flag=FI }:: ::fllecc::{ user-id=14060327 } | Finnish |
+| ::{ flag=CA }:: ::Lafayla::{ user-id=5312547 } |  |
+| ::{ flag=CN }:: ::Mafumafu::{ user-id=3076909 } | Chinese |
+| ::{ flag=KR }:: ::momoyo::{ user-id=12469536 } | French, Spanish |
+| ::{ flag=TW }:: ::Muchin::{ user-id=9834516 } | Chinese |
+| ::{ flag=RO }:: ::bsm::{ user-id=12366071 } | Romanian |
+| ::{ flag=US }:: ::Noffy::{ user-id=1541323 } |  |
+| ::{ flag=DE }:: ::Okoayu::{ user-id=1623405 } | German |
 
 #### osu!taiko
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chinese |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonese, Chinese |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portuguese |
-| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
+| ::{ flag=SG }:: ::arcpotato::{ user-id=12842392 } | Chinese |
+| ::{ flag=HK }:: ::BlackBN::{ user-id=6291741 } | Cantonese, Chinese |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | Arabic, French |
+| ::{ flag=BR }:: ::Ideal::{ user-id=3869519 } | Portuguese |
+| ::{ flag=AT }:: ::Yasuho::{ user-id=8458835 } | German, some French |
 
 #### osu!catch
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | German |
-| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Korean |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Korean |
+| ::{ flag=AT }:: ::Daletto::{ user-id=7592136 } | German |
+| ::{ flag=KR }:: ::Rocma::{ user-id=566276 } | Korean |
+| ::{ flag=KR }:: ::Spectator::{ user-id=702598 } | Korean |
 
 #### osu!mania
 
 | Name | Additional languages |
 | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Spanish |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinese |
-| ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | Italian |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Spanish |
+| ::{ flag=VN }:: ::Akasha-::{ user-id=2596306 } | Vietnamese |
+| ::{ flag=DO }:: ::Antalf::{ user-id=8793773 } | Spanish |
+| ::{ flag=CN }:: ::gzdongsheng::{ user-id=8660315 } | Chinese |
+| ::{ flag=IT }:: ::Harbyter::{ user-id=1147679 } | Italian |
+| ::{ flag=ID }:: ::Maxus::{ user-id=4335785 } | Indonesian |
+| ::{ flag=ES }:: ::RandomeLoL::{ user-id=7080063 } | Catalan, Spanish |
 
 ### Structural
 
@@ -182,18 +182,18 @@ The following NAT members are exclusively responsible for structural tasks, and 
 
 | User | Task |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) development |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
+| ::{ flag=GB }:: ::-Mo-::{ user-id=2202163 } | Handling internal discussions, affairs, and documentation |
+| ::{ flag=BR }:: ::Dada::{ user-id=9119507 } | BN Mentorship organisation |
+| ::{ flag=NL }:: ::Greaper::{ user-id=2369776 } | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) development |
+| ::{ flag=US }:: ::pishifat::{ user-id=3178418 } | [BN Management website](https://bn.mappersguild.com) development |
 
 The following NAT members are primarily evaluators, but also contribute to structural tasks:
 
 | User | Task |
 | :-- | :-- |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Handling content reports, [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | NAT leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
+| ::{ flag=ES }:: ::RandomeLoL::{ user-id=7080063 } | Handling content reports, [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
 
 ---
 
-In addition, the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) acts as a proxy for the NAT to collectively deliver messages under one user account without directly attributing them to anyone. It may be used for evaluation responses, mock evaluations, mediations, reports, and content reviews, along any other miscellaneous purposes.
+In addition, the ::Nomination Assessment Team bot::{ user-id=6616586 } acts as a proxy for the NAT to collectively deliver messages under one user account without directly attributing them to anyone. It may be used for evaluation responses, mock evaluations, mediations, reports, and content reviews, along any other miscellaneous purposes.

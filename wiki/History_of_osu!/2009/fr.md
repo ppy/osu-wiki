@@ -6,7 +6,7 @@ no_native_review: true
 
 ## Janvier
 
-osu! arrive sur l'iPhone grâce à une compatibilité réalisé par [nuudles](https://osu.ppy.sh/users/21312). Le projet a reçu son propre [sous-forum](https://osu.ppy.sh/community/forums/47), maintenant archivé.[^iphone]
+osu! arrive sur l'iPhone grâce à une compatibilité réalisé par ::nuudles::{ user-id=21312 }. Le projet a reçu son propre [sous-forum](https://osu.ppy.sh/community/forums/47), maintenant archivé.[^iphone]
 
 ![](img/2009-01_01.jpg "L'écran de titre d'osu! sur l'iPhone")
 
@@ -96,7 +96,7 @@ Depuis le 6 septembre, tous les scores de [Taiko ont été réinitialisés](http
 
 Un nouvel écran d'information sur le classement a été ajouté, qui a jeté les bases du système de classement mis en place ultérieurement.[^stable-b1077][^custom-changelog]
 
-La 10 000ème beatmap a été soumise, [Imogen Heap - Sweet Religion](https://osu.ppy.sh/beatmapsets/10000#osu/97517) par [Larto](https://osu.ppy.sh/users/12328).[^beatmap-10k]
+La 10 000ème beatmap a été soumise, [Imogen Heap - Sweet Religion](https://osu.ppy.sh/beatmapsets/10000#osu/97517) par ::Larto::{ user-id=12328 }.[^beatmap-10k]
 
 En plus des osu! news en juillet 2009, le [changelog](/wiki/Changelog) est devenu disponible sous forme de flux RSS le 25 octobre également.[^rss-changelog]
 

@@ -25,10 +25,10 @@ A [página de grupo da Equipe de Suporte](https://osu.ppy.sh/groups/22) lista to
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | Italiano |
-| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
-| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
-| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Coreano, japonês |
-| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Alemão |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
-| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polonês |
+| ::{ flag=IT }:: ::- Marco -::{ user-id=1273955 } | Italiano |
+| ::{ flag=US }:: ::Blushing::{ user-id=5927823 } |  |
+| ::{ flag=GB }:: ::chromb::{ user-id=10238680 } |  |
+| ::{ flag=KR }:: ::Civil oath::{ user-id=3216107 } | Coreano, japonês |
+| ::{ flag=DE }:: ::Lyawi::{ user-id=5851253 } | Alemão |
+| ::{ flag=PH }:: ::Nathanael::{ user-id=2295078 } | Filipino |
+| ::{ flag=PL }:: ::spaceman\1atlas::{ user-id=3035836 } | Polonês |

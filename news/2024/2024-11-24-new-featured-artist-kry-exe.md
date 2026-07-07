@@ -23,7 +23,7 @@ And in case you missed it, here's the debut of this year's OWC Finals tiebreaker
 
 ### [nm-y vs. Kry.exe - Kaiju](https://assets.ppy.sh/artists/448/Songs/nm-y%20vs.%20Kry.exe%20-%20Kaiju.osz)
 
-Give your best attempt on [the map above](https://osu.ppy.sh/beatmapsets/2284698) by [Aerousea](https://osu.ppy.sh/users/15664628), [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654)!
+Give your best attempt on [the map above](https://osu.ppy.sh/beatmapsets/2284698) by ::Aerousea::{ user-id=15664628 }, [9ami](https://osu.ppy.sh/users/1499997) and ::oTwinkle::{ user-id=15095654 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/448/Songs/nm-y%20vs.%20Kry.exe%20-%20Kaiju.mp3">
@@ -33,11 +33,11 @@ Give your best attempt on [the map above](https://osu.ppy.sh/beatmapsets/2284698
 
 This tune from Beat Saber World Cup 2022 has a lot of maps:
 
-- Try [this massive 7K osu!mania difficulty spread](https://osu.ppy.sh/beatmapsets/1866317) hosted by [Critical_Star](https://osu.ppy.sh/users/3793196)
-- Enjoy [this osu!catch marathon](https://osu.ppy.sh/beatmapsets/2039804) hosted by [-Rustyy](https://osu.ppy.sh/users/16355636)
-- Bang your keyboard to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2146011) hosted by [Kyoko Sakura](https://osu.ppy.sh/users/13279859)
-- Here's [a 4K rendition](https://osu.ppy.sh/beatmapsets/1924015) hosted by [\[GB\]ReMILia](https://osu.ppy.sh/users/18334226)
-- ...and here's [*another* 4K rendition](https://osu.ppy.sh/beatmapsets/1964175) by [Mich_](https://osu.ppy.sh/users/11784492). People really like 4K.
+- Try [this massive 7K osu!mania difficulty spread](https://osu.ppy.sh/beatmapsets/1866317) hosted by ::Critical\1Star::{ user-id=3793196 }
+- Enjoy [this osu!catch marathon](https://osu.ppy.sh/beatmapsets/2039804) hosted by ::-Rustyy::{ user-id=16355636 }
+- Bang your keyboard to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2146011) hosted by ::Kyoko Sakura::{ user-id=13279859 }
+- Here's [a 4K rendition](https://osu.ppy.sh/beatmapsets/1924015) hosted by ::\[GB\]ReMILia::{ user-id=18334226 }
+- ...and here's [*another* 4K rendition](https://osu.ppy.sh/beatmapsets/1964175) by ::Mich\1::{ user-id=11784492 }. People really like 4K.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/448/Songs/Kry.exe%20feat.%20Ice%20-%20Last%20Wish.mp3">
@@ -45,7 +45,7 @@ This tune from Beat Saber World Cup 2022 has a lot of maps:
 
 ### [Kry.exe - SENT://iNEL](https://assets.ppy.sh/artists/448/Songs/Kry.exe%20-%20SENTiNEL.osz)
 
-Experience [The Roundtable II's Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2023743) hosted by [hehe](https://osu.ppy.sh/users/2123087)!
+Experience [The Roundtable II's Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2023743) hosted by ::hehe::{ user-id=2123087 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/448/Songs/Kry.exe%20-%20SENTiNEL.mp3">

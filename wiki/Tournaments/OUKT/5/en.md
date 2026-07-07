@@ -8,7 +8,7 @@ tags:
 
 # osu! UK Tournament 5
 
-The **osu! UK tournament 5** (***OUKT5***) was a ::{ flag=GB }:: United Kingdom mixed elimination 1v1 osu! tournament hosted by ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134). It is the 5th and final iteration of the **osu! UK Tournament** (***OUKT***) series, it was succeeded by the UK Community Cup (UKCC).
+The **osu! UK tournament 5** (***OUKT5***) was a ::{ flag=GB }:: United Kingdom mixed elimination 1v1 osu! tournament hosted by ::{ flag=GB }:: ::PortalLife::{ user-id=929134 }. It is the 5th and final iteration of the **osu! UK Tournament** (***OUKT***) series, it was succeeded by the UK Community Cup (UKCC).
 
 ## Tournament schedule
 
@@ -32,13 +32,13 @@ OUKT5 was run by various community members
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134) |
-| Draw master | ::{ flag=GB }:: [Mollerz](https://osu.ppy.sh/users/1820042) |
-| Referee | ::{ flag=BE }:: [Ascension](https://osu.ppy.sh/users/9511483), ::{ flag=GB }:: [Lemonosity](https://osu.ppy.sh/users/5668221), ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176), ::{ flag=SG }:: [Histoire](https://osu.ppy.sh/users/3801463), ::{ flag=GB }:: [Churcheell](https://osu.ppy.sh/users/2585115), ::{ flag=GB }:: [Scootawoo](https://osu.ppy.sh/users/1464467), ::{ flag=GB }:: [yamikarasu](https://osu.ppy.sh/users/4422446), ::{ flag=DE }:: [Cray](https://osu.ppy.sh/users/1350338), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379) |
-| Streamer | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=GB }:: [Helix](https://osu.ppy.sh/users/3322597) |
-| Mappool selector | ::{ flag=AT }:: [Alumetorz](https://osu.ppy.sh/users/1145984), ::{ flag=DE }:: [Jenny](https://osu.ppy.sh/users/579428) |
-| Commentators | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Soap755](https://osu.ppy.sh/users/4867721), ::{ flag=GB }:: [Churcheell](https://osu.ppy.sh/users/2585115) |
-| Backup help | ::{ flag=GB }:: [Mahiro Yasaka](https://osu.ppy.sh/users/3481378) |
+| Host | ::{ flag=GB }:: ::PortalLife::{ user-id=929134 } |
+| Draw master | ::{ flag=GB }:: ::Mollerz::{ user-id=1820042 } |
+| Referee | ::{ flag=BE }:: ::Ascension::{ user-id=9511483 }, ::{ flag=GB }:: ::Lemonosity::{ user-id=5668221 }, ::{ flag=GB }:: ::Hydria::{ user-id=808176 }, ::{ flag=SG }:: ::Histoire::{ user-id=3801463 }, ::{ flag=GB }:: ::Churcheell::{ user-id=2585115 }, ::{ flag=GB }:: ::Scootawoo::{ user-id=1464467 }, ::{ flag=GB }:: ::yamikarasu::{ user-id=4422446 }, ::{ flag=DE }:: ::Cray::{ user-id=1350338 }, ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::Jerome::{ user-id=3391379 } |
+| Streamer | ::{ flag=GB }:: ::PortalLife::{ user-id=929134 }, ::{ flag=GB }:: ::Helix::{ user-id=3322597 } |
+| Mappool selector | ::{ flag=AT }:: ::Alumetorz::{ user-id=1145984 }, ::{ flag=DE }:: ::Jenny::{ user-id=579428 } |
+| Commentators | ::{ flag=GB }:: ::PortalLife::{ user-id=929134 }, ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::Soap755::{ user-id=4867721 }, ::{ flag=GB }:: ::Churcheell::{ user-id=2585115 } |
+| Backup help | ::{ flag=GB }:: ::Mahiro Yasaka::{ user-id=3481378 } |
 
 ## Links
 
@@ -53,9 +53,9 @@ OUKT5 was run by various community members
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [bahamete](https://osu.ppy.sh/users/960620) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Kakiage](https://osu.ppy.sh/users/3104031) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::bahamete::{ user-id=960620 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::Kakiage::{ user-id=3104031 } |
 
 ## Mappools
 

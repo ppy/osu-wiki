@@ -25,11 +25,11 @@ We're sure you've heard **rejection**'s music already, but since you're clearly 
 
 Check out all these maps from the most popular **rejection** song on osu!:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/1286349) hosted by [Yukiyo](https://osu.ppy.sh/users/4541873) (featured in the video!)
-- [osu! map](https://osu.ppy.sh/beatmapsets/1241769) hosted by [Livia](https://osu.ppy.sh/users/1298844)
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1104277) hosted by [Cychloryn](https://osu.ppy.sh/users/6921736) (first ranked map of this song!)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/1129636) hosted by [-MomoX](https://osu.ppy.sh/users/2150415)
-- [osu!taiko map of Mameyudoufu's remix](https://osu.ppy.sh/beatmapsets/1190233) by [KappuChinooo](https://osu.ppy.sh/users/9582525)
+- [osu! map](https://osu.ppy.sh/beatmapsets/1286349) hosted by ::Yukiyo::{ user-id=4541873 } (featured in the video!)
+- [osu! map](https://osu.ppy.sh/beatmapsets/1241769) hosted by ::Livia::{ user-id=1298844 }
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1104277) hosted by ::Cychloryn::{ user-id=6921736 } (first ranked map of this song!)
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/1129636) hosted by ::-MomoX::{ user-id=2150415 }
+- [osu!taiko map of Mameyudoufu's remix](https://osu.ppy.sh/beatmapsets/1190233) by ::KappuChinooo::{ user-id=9582525 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/199/Songs/rejection%20-%20Signal%20%28feat.%20Such%29.mp3" type="audio/mpeg">
@@ -37,7 +37,7 @@ Check out all these maps from the most popular **rejection** song on osu!:
 
 ### Calling
 
-Brag about your tech skills while getting 72% acc on [this osu! map](https://osu.ppy.sh/beatmapsets/1458359) hosted by [Realazy](https://osu.ppy.sh/users/918297)!
+Brag about your tech skills while getting 72% acc on [this osu! map](https://osu.ppy.sh/beatmapsets/1458359) hosted by ::Realazy::{ user-id=918297 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/199/Songs/rejection%20-%20Calling.mp3" type="audio/mpeg">
@@ -45,7 +45,7 @@ Brag about your tech skills while getting 72% acc on [this osu! map](https://osu
 
 ### The Way of Adventure (feat. Kusaka Akira)
 
-Mash through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1367326) hosted by [KuroKuroKuro](https://osu.ppy.sh/users/11931563)
+Mash through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1367326) hosted by ::KuroKuroKuro::{ user-id=11931563 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/199/encore%20plus%20chaptire%2001/rejection%20-%20The%20Way%20of%20Adventure%20%28feat.%20Kusaka%20Akira%29.mp3" type="audio/mpeg">
@@ -53,7 +53,7 @@ Mash through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1367326) hosted
 
 ### Open Your Heart (feat. Renko)
 
-Or try out [another osu!taiko map](https://osu.ppy.sh/beatmapsets/1443296) hosted by [Hivie](https://osu.ppy.sh/users/14102976)!
+Or try out [another osu!taiko map](https://osu.ppy.sh/beatmapsets/1443296) hosted by ::Hivie::{ user-id=14102976 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/199/Songs/rejection%20-%20Open%20Your%20Heart%20%28feat.%20Renko%29.mp3" type="audio/mpeg">

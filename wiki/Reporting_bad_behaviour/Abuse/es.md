@@ -8,7 +8,7 @@ Si te sientes lo suficientemente incómodo como para estar leyendo esta página,
 
 Tenemos cero tolerancias hacia cualquier tipo de atención sexual o avances no queridos en esta comunidad.
 
-La dirección de correo electrónico de abuso solo la puede ver [peppy](https://osu.ppy.sh/users/2) (el creador del juego).
+La dirección de correo electrónico de abuso solo la puede ver ::peppy::{ user-id=2 } (el creador del juego).
 
 Nada de lo que envíes a [abuse@ppy.sh](mailto:abuse@ppy.sh) será compartido con ninguna otra persona que no sea él.
 
@@ -32,7 +32,7 @@ Si sientes que los comentarios/avances fueron altamente inapropiados o si eres u
 
 Para hacerlo, haz clic en el botón `Reportar publicación` en la esquina superior derecha de la publicación del foro.
 
-Alternativamente, haz clic en el nombre de usuario de cualquier miembro del equipo de moderadores en la lista de esa página. Esto te llevará a su perfil. Si no estás seguro de a quién hacer clic, simplemente usa [este enlace](https://osu.ppy.sh/users/5999631).
+Alternativamente, haz clic en el nombre de usuario de cualquier miembro del equipo de moderadores en la lista de esa página. Esto te llevará a su perfil. Si no estás seguro de a quién hacer clic, simplemente usa ::este enlace::{ user-id=5999631 }.
 
 Haz clic en el botón con una carta justo debajo de la bandera del país del usuario. Esto te llevará a la pantalla del chat.
 

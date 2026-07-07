@@ -23,7 +23,7 @@ See what the hype is about for yourself:
 
 ### Spire - Somnambulism
 
-Explore [this spread of a classic track](https://osu.ppy.sh/beatmapsets/1171893) hosted by [verychill](https://osu.ppy.sh/users/10132936)!
+Explore [this spread of a classic track](https://osu.ppy.sh/beatmapsets/1171893) hosted by ::verychill::{ user-id=10132936 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/373/otonikki%20vol.%203/Spire%20-%20Somnambulism.mp3">
@@ -47,7 +47,7 @@ If that last map was too easy, [this osu!taiko marathon](https://osu.ppy.sh/beat
 
 ### Supire - Forgotten Hate
 
-Finish things off with [this unreasonably difficult osu! marathon](https://osu.ppy.sh/beatmapsets/1407936) hosted by recently added Featured Artist [Krimek](https://osu.ppy.sh/users/2345078)!
+Finish things off with [this unreasonably difficult osu! marathon](https://osu.ppy.sh/beatmapsets/1407936) hosted by recently added Featured Artist ::Krimek::{ user-id=2345078 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/373/Howling%20EP/Supire%20-%20Forgotten%20Hate.mp3">

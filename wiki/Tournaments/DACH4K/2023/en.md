@@ -9,7 +9,7 @@ tags:
 
 ![DACH 4k Championship 2023 banner](img/DACH4K-2023-banner.png)
 
-The **DACH 4k Championship 2023** (***DACH4K 2023***) was an osu!mania 4K tournament hosted by ::{ flag=DE }:: [ERA medium kek](https://osu.ppy.sh/users/11625617) for players in the DACH region (::{ flag=DE }:: Germany, ::{ flag=AT }:: Austria, and ::{ flag=CH }:: Switzerland). It was the first instalment of the DACH 4k Championship.
+The **DACH 4k Championship 2023** (***DACH4K 2023***) was an osu!mania 4K tournament hosted by ::{ flag=DE }:: ::ERA medium kek::{ user-id=11625617 } for players in the DACH region (::{ flag=DE }:: Germany, ::{ flag=AT }:: Austria, and ::{ flag=CH }:: Switzerland). It was the first instalment of the DACH 4k Championship.
 
 ## Tournament schedule
 
@@ -40,17 +40,17 @@ The DACH 4k Championship 2023 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=DE }:: [ERA medium kek](https://osu.ppy.sh/users/11625617) |
-| Co-Host | ::{ flag=DE }:: [ERA Sirbeyy](https://osu.ppy.sh/users/12917829) |
-| Mappooler / mapper | ::{ flag=DE }:: [ERA Sirbeyy](https://osu.ppy.sh/users/12917829) , ::{ flag=DE }:: [EimitMaggi999](https://osu.ppy.sh/users/10922297) ,  ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) , ::{ flag=US }:: [ERA Imperial](https://osu.ppy.sh/users/5066305) , ::{ flag=US }:: [\[GS\]Rose](https://osu.ppy.sh/users/9481266),  ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722) , ::{ flag=DE }:: [AL-E](https://osu.ppy.sh/users/18096415) |
-| Playtester / replay maker | ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444) , ::{ flag=SG }:: [AdamAckerville](https://osu.ppy.sh/users/12297375) , ::{ flag=MX }:: [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) , ::{ flag=MY }:: [ERA Nanachi](https://osu.ppy.sh/users/25604245) , ::{ flag=ES }:: [ERA Minikrimi](https://osu.ppy.sh/users/15186865) , ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622) |
-| Referee | ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444) , ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856) , ::{ flag=US }:: [\[GS\]Rose](https://osu.ppy.sh/users/9481266) , ::{ flag=AE }:: [dragiee](https://osu.ppy.sh/users/17959501) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) , ::{ flag=DE }:: [EimitMaggi999](https://osu.ppy.sh/users/10922297) |
-| Streamer | ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) , ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622) |
-| Commentator | ::{ flag=DE }::  [araciumhd](https://osu.ppy.sh/users/15882740) , ::{ flag=DE }:: [datnonameboi](https://osu.ppy.sh/users/14217761) , ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) , ::{ flag=DE }:: [AL-E](https://osu.ppy.sh/users/18096415) , ::{ flag=AE }:: [dragiee](https://osu.ppy.sh/users/17959501) , ::{ flag=DE }:: [cakeboss05](https://osu.ppy.sh/users/12586864) ,  ::{ flag=DE }:: [EimitMaggi999](https://osu.ppy.sh/users/10922297) ,  ::{ flag=DE }:: [Maxim-Miau](https://osu.ppy.sh/users/12660835) ,  ::{ flag=DE }:: [Blacku1](https://osu.ppy.sh/users/14160917) |
-| Graphic designer | ::{ flag=DE }:: [araciumhd](https://osu.ppy.sh/users/15882740) , ::{ flag=DK }:: [ERA Urrk](https://osu.ppy.sh/users/11539225) |
-| Sheeter | ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052) |
-| Wiki editor | ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856) |
-| Musician | ::{ flag=DE }::  [XaverXD](https://osu.ppy.sh/users/12448575) |
+| Host | ::{ flag=DE }:: ::ERA medium kek::{ user-id=11625617 } |
+| Co-Host | ::{ flag=DE }:: ::ERA Sirbeyy::{ user-id=12917829 } |
+| Mappooler / mapper | ::{ flag=DE }:: ::ERA Sirbeyy::{ user-id=12917829 } , ::{ flag=DE }:: ::EimitMaggi999::{ user-id=10922297 } ,  ::{ flag=DE }:: ::Maxim-Miau::{ user-id=12660835 } , ::{ flag=US }:: ::ERA Imperial::{ user-id=5066305 } , ::{ flag=US }:: ::\[GS\]Rose::{ user-id=9481266 },  ::{ flag=NL }:: ::DannyPX::{ user-id=11253722 } , ::{ flag=DE }:: ::AL-E::{ user-id=18096415 } |
+| Playtester / replay maker | ::{ flag=PE }:: ::ERA Xuste::{ user-id=17989444 } , ::{ flag=SG }:: ::AdamAckerville::{ user-id=12297375 } , ::{ flag=MX }:: ::\[Crz\]Crystalize::{ user-id=3072763 } , ::{ flag=DE }:: ::cakeboss05::{ user-id=12586864 } , ::{ flag=MY }:: ::ERA Nanachi::{ user-id=25604245 } , ::{ flag=ES }:: ::ERA Minikrimi::{ user-id=15186865 } , ::{ flag=US }:: ::SunApple::{ user-id=11817622 } |
+| Referee | ::{ flag=PE }:: ::ERA Xuste::{ user-id=17989444 } , ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user-id=3046856 } , ::{ flag=US }:: ::\[GS\]Rose::{ user-id=9481266 } , ::{ flag=AE }:: ::dragiee::{ user-id=17959501 } , ::{ flag=DE }:: ::cakeboss05::{ user-id=12586864 } , ::{ flag=DE }:: ::EimitMaggi999::{ user-id=10922297 } |
+| Streamer | ::{ flag=DE }:: ::Vincus::{ user-id=16124906 } , ::{ flag=DE }:: ::cakeboss05::{ user-id=12586864 } , ::{ flag=US }:: ::SunApple::{ user-id=11817622 } |
+| Commentator | ::{ flag=DE }::  ::araciumhd::{ user-id=15882740 } , ::{ flag=DE }:: ::datnonameboi::{ user-id=14217761 } , ::{ flag=DE }:: ::Vincus::{ user-id=16124906 } , ::{ flag=DE }:: ::AL-E::{ user-id=18096415 } , ::{ flag=AE }:: ::dragiee::{ user-id=17959501 } , ::{ flag=DE }:: ::cakeboss05::{ user-id=12586864 } ,  ::{ flag=DE }:: ::EimitMaggi999::{ user-id=10922297 } ,  ::{ flag=DE }:: ::Maxim-Miau::{ user-id=12660835 } ,  ::{ flag=DE }:: ::Blacku1::{ user-id=14160917 } |
+| Graphic designer | ::{ flag=DE }:: ::araciumhd::{ user-id=15882740 } , ::{ flag=DK }:: ::ERA Urrk::{ user-id=11539225 } |
+| Sheeter | ::{ flag=US }:: ::EpsilonMaiagare::{ user-id=3855052 } |
+| Wiki editor | ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user-id=3046856 } |
+| Musician | ::{ flag=DE }::  ::XaverXD::{ user-id=12448575 } |
 
 ## Links
 
@@ -65,27 +65,27 @@ The DACH 4k Championship 2023 was run by various community members.
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | ::{ flag=DE }:: [ERA Leo](https://osu.ppy.sh/users/15440118) |
-| 2 | ::{ flag=DE }:: [TsukiyaWhiskers](https://osu.ppy.sh/users/12598261) |
-| 3 | ::{ flag=DE }:: [Blacku1](https://osu.ppy.sh/users/14160917) |
-| 4 | ::{ flag=DE }:: [Akurazi](https://osu.ppy.sh/users/30232155) |
-| 5 | ::{ flag=DE }:: [Niko_Plays](https://osu.ppy.sh/users/9409456) |
-| 6 | ::{ flag=DE }:: [Takedown05](https://osu.ppy.sh/users/18060303) |
-| 7 | ::{ flag=DE }:: [araciumhd](https://osu.ppy.sh/users/15882740) |
-| 8 | ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) |
-| 9 | ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367) |
-| 10 | ::{ flag=DE }:: [Era Walk-](https://osu.ppy.sh/users/32873498) |
-| 11 | ::{ flag=DE }:: [sorgenfresser](https://osu.ppy.sh/users/12039847) |
-| 12 | ::{ flag=DE }:: [datnonameboi](https://osu.ppy.sh/users/14217761) |
-| 13 | ::{ flag=DE }:: [\[GE\] Arthur](https://osu.ppy.sh/users/24122055) |
-| 14 | ::{ flag=DE }:: [ReimBuch](https://osu.ppy.sh/users/18110897) |
-| 15 | ::{ flag=DE }:: [Spongybit](https://osu.ppy.sh/users/25531456) |
-| 16 | ::{ flag=DE }:: [d3lt3x](https://osu.ppy.sh/users/14283669) |
-| 17 | ::{ flag=AT }:: [Fabi03](https://osu.ppy.sh/users/16235845) |
-| 18 | ::{ flag=DE }:: [Roppi](https://osu.ppy.sh/users/23283427) |
-| 19 | ::{ flag=DE }::  [Kien200753](https://osu.ppy.sh/users/19123540) |
-| 20 | ::{ flag=DE }::  [S a b i s u k i](https://osu.ppy.sh/users/9597659) |
-| 21 | ::{ flag=AT }:: [Verloren](https://osu.ppy.sh/users/11103586) |
+| 1 | ::{ flag=DE }:: ::ERA Leo::{ user-id=15440118 } |
+| 2 | ::{ flag=DE }:: ::TsukiyaWhiskers::{ user-id=12598261 } |
+| 3 | ::{ flag=DE }:: ::Blacku1::{ user-id=14160917 } |
+| 4 | ::{ flag=DE }:: ::Akurazi::{ user-id=30232155 } |
+| 5 | ::{ flag=DE }:: ::Niko\1Plays::{ user-id=9409456 } |
+| 6 | ::{ flag=DE }:: ::Takedown05::{ user-id=18060303 } |
+| 7 | ::{ flag=DE }:: ::araciumhd::{ user-id=15882740 } |
+| 8 | ::{ flag=DE }:: ::Vincus::{ user-id=16124906 } |
+| 9 | ::{ flag=DE }:: ::ERA Punish::{ user-id=10615367 } |
+| 10 | ::{ flag=DE }:: ::Era Walk-::{ user-id=32873498 } |
+| 11 | ::{ flag=DE }:: ::sorgenfresser::{ user-id=12039847 } |
+| 12 | ::{ flag=DE }:: ::datnonameboi::{ user-id=14217761 } |
+| 13 | ::{ flag=DE }:: ::\[GE\] Arthur::{ user-id=24122055 } |
+| 14 | ::{ flag=DE }:: ::ReimBuch::{ user-id=18110897 } |
+| 15 | ::{ flag=DE }:: ::Spongybit::{ user-id=25531456 } |
+| 16 | ::{ flag=DE }:: ::d3lt3x::{ user-id=14283669 } |
+| 17 | ::{ flag=AT }:: ::Fabi03::{ user-id=16235845 } |
+| 18 | ::{ flag=DE }:: ::Roppi::{ user-id=23283427 } |
+| 19 | ::{ flag=DE }::  ::Kien200753::{ user-id=19123540 } |
+| 20 | ::{ flag=DE }::  ::S a b i s u k i::{ user-id=9597659 } |
+| 21 | ::{ flag=AT }:: ::Verloren::{ user-id=11103586 } |
 
 ## Podium
 

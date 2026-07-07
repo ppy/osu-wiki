@@ -38,7 +38,7 @@ These points carry over between each month's contests. By reaching certain point
 - **MBC profile badge** (different badges at 2, 4, and 6 point thresholds)
 - ***Elite Mapper* forum title** (6 points)
 
-In case you're confused, the [MBC wiki page](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) covers the rewards in more detail. This page also shows how [Sylas](https://osu.ppy.sh/users/3906405), [Mao](https://osu.ppy.sh/users/2204515), and [Acylica](https://osu.ppy.sh/users/1943309) are only inches away from the *Elite Mapper* prize, so you'd be wise to bet that they're submitting to this month's contest.
+In case you're confused, the [MBC wiki page](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) covers the rewards in more detail. This page also shows how ::Sylas::{ user-id=3906405 }, [Mao](https://osu.ppy.sh/users/2204515), and ::Acylica::{ user-id=1943309 } are only inches away from the *Elite Mapper* prize, so you'd be wise to bet that they're submitting to this month's contest.
 
 ## Beatmapping
 
@@ -60,7 +60,7 @@ Because we're technically running *two* contests this month (one for each mode),
 
 And just to be super clear about the osu! limitation: 1/4 sliders with reverse arrows are not allowed, while a 1/8 slider with a reverse arrow is. This limitation is focused on the length of the original slider, like [this limitation from last year](https://osu.ppy.sh/home/news/2020-06-04-monthly-beatmapping-contest-june#limitation).
 
-Major props to [radar](https://osu.ppy.sh/users/7131099) for organizing and deciding the limitation for osu!taiko's contest. Hopefully taiko mappers don't find his limitation too cruel, unlike standard osu! mappers who surely will find the "no 1/4 sliders" limitation obnoxious.
+Major props to ::radar::{ user-id=7131099 } for organizing and deciding the limitation for osu!taiko's contest. Hopefully taiko mappers don't find his limitation too cruel, unlike standard osu! mappers who surely will find the "no 1/4 sliders" limitation obnoxious.
 
 ### Songs
 

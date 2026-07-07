@@ -52,7 +52,7 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 ---
 
-*Header and promotional artwork by finalist [LeeNarie](https://osu.ppy.sh/users/2667849) from the [Spring 2024 Fanart Contest](https://osu.ppy.sh/home/news/2024-03-30-spring-fanart-results)!*
+*Header and promotional artwork by finalist ::LeeNarie::{ user-id=2667849 } from the [Spring 2024 Fanart Contest](https://osu.ppy.sh/home/news/2024-03-30-spring-fanart-results)!*
 
 Rumors say that if you've made it this far, you're ready to cook up and submit your masterpiece! Head over to the [Spring 2026 Fanart Contest listing](https://osu.ppy.sh/community/contests/282) and drag-and-drop your entry into the box with the plus sign in it.
 

@@ -11,7 +11,7 @@ After three weeks of Qualifiers and Group Stage play, the 2025 osu! World Cup re
 
 Finally, the top 8 teams got to show their stuff on the biggest stage osu! has to offer, while the Contenders and Challengers who had survived the early rounds of play joined them to attempt to play spoiler. Would the favourites dominate? Could the underdogs pull off any massive upsets? Which losers' bracket teams were sent home? It was time for the Round of 16 to get underway.
 
-For those who prefer a visual recap of the week's action, you can once more check out [D I O](https://osu.ppy.sh/users/3958619)'s video here:
+For those who prefer a visual recap of the week's action, you can once more check out ::D I O::{ user-id=3958619 }'s video here:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/_BHmgpFbYFo" frameborder="0" allowfullscreen></iframe>
@@ -33,13 +33,13 @@ For those who prefer a visual recap of the week's action, you can once more chec
 
 ![](/wiki/shared/news/2025-11-21-osu-world-cup-2025-round-of-16-recap/mappool.png?2)
 
-This Round of 16 mappool had some quite interesting maps to offer, with plenty of unique ones chosen. From the already existing maps, some selections stood out, such as [CWC 2024](/wiki/Tournaments/CWC/2024)'s [osu! original](/wiki/Community/Bespoke_music) [step by step](https://osu.ppy.sh/beatmapsets/2298768#osu/5167719), as well as [Oboetete Ii Yo](https://osu.ppy.sh/beatmapsets/53791#osu/163836). *step by step* was a swing offering with interesting flow and slider aim tests, while [cRyo[iceeicee]](https://osu.ppy.sh/users/835998)'s *Oboetete Ii Yo* map was a nostalgic, mechanically intense fast pick on DT, and an interesting view into 13-year-old mapping.
+This Round of 16 mappool had some quite interesting maps to offer, with plenty of unique ones chosen. From the already existing maps, some selections stood out, such as [CWC 2024](/wiki/Tournaments/CWC/2024)'s [osu! original](/wiki/Community/Bespoke_music) [step by step](https://osu.ppy.sh/beatmapsets/2298768#osu/5167719), as well as [Oboetete Ii Yo](https://osu.ppy.sh/beatmapsets/53791#osu/163836). *step by step* was a swing offering with interesting flow and slider aim tests, while ::cRyo\1iceeicee\1::{ user-id=835998 }'s *Oboetete Ii Yo* map was a nostalgic, mechanically intense fast pick on DT, and an interesting view into 13-year-old mapping.
 
-Speaking of CWC originals, our tiebreaker this week was yet another one, this time CWC 2025's Grand Finals tiebreaker song, [*Eternity* by Yooh](https://osu.ppy.sh/beatmapsets/2462029#osu/5386544), which acted as the grand decider for this Round of 16 pool, offering a classic tech-oriented experience mapped by [[ Drop ]](https://osu.ppy.sh/users/2391299) and [Arushii](https://osu.ppy.sh/users/15664628).
+Speaking of CWC originals, our tiebreaker this week was yet another one, this time CWC 2025's Grand Finals tiebreaker song, [*Eternity* by Yooh](https://osu.ppy.sh/beatmapsets/2462029#osu/5386544), which acted as the grand decider for this Round of 16 pool, offering a classic tech-oriented experience mapped by ::\1 Drop \1::{ user-id=2391299 } and [Arushii](https://osu.ppy.sh/users/15664628).
 
 For the new customs in the bulk of the pool, maps such as [Ring Ring Ring](https://osu.ppy.sh/beatmapsets/2462142#osu/5386835) and [Gascon Cocktail](https://osu.ppy.sh/beatmapsets/2462129#osu/5386798) exemplified the pool's overall commitment to different types of music: the former was a slightly technical DT alt pick, while the latter was a snappy, rhythmically intensive alt offering on Nomod.
 
-The most popular pick, however, was a familiar face mapping a familiar song, but with a newer coat of paint. It was none other than [Satellite](https://osu.ppy.sh/users/1661227)'s map... of [a song by senya](https://osu.ppy.sh/beatmapsets/2462140#osu/5386832). Sometimes all you want is the comfort of the known, and the Yuuhei Satellite ex-vocalist's music has been a mainstay in any tournament's DT pools for a long time.
+The most popular pick, however, was a familiar face mapping a familiar song, but with a newer coat of paint. It was none other than ::Satellite::{ user-id=1661227 }'s map... of [a song by senya](https://osu.ppy.sh/beatmapsets/2462140#osu/5386832). Sometimes all you want is the comfort of the known, and the Yuuhei Satellite ex-vocalist's music has been a mainstay in any tournament's DT pools for a long time.
 
 ---
 
@@ -53,7 +53,7 @@ Finally, we did have one [osu! original](/wiki/osu!_originals) this week. The gr
     </audio>
 </div>
 
-I, as the writer of this column, cannot describe the track, or its map, made by our resident mad scientist [Ryuusei Aika](https://osu.ppy.sh/users/7777875), in good enough wording in a short enough word count. Just go [give it a quick listen](https://www.youtube.com/watch?v=_KgODmONdZA). It's less than two minutes of your time — I promise you'll understand why it defies description.
+I, as the writer of this column, cannot describe the track, or its map, made by our resident mad scientist ::Ryuusei Aika::{ user-id=7777875 }, in good enough wording in a short enough word count. Just go [give it a quick listen](https://www.youtube.com/watch?v=_KgODmONdZA). It's less than two minutes of your time — I promise you'll understand why it defies description.
 
 It happened to captivate a lot of our players as well, so much so that it ended up being our second most popular pick in this week's pool. No more words come to mind, other than those often repeated in our stream chats during this round: *paling paling paling paling*.
 
@@ -98,7 +98,7 @@ It was left to the lone losers' bracket match of Saturday to produce a competiti
 
 The match was a roller coaster from the get-go, with Türkiye taking an early break point for a 2–0 lead, only to see Italy find a break point of their own on the highly volatile [NM5](https://osu.ppy.sh/beatmapsets/2462132#osu/5386813) before tying the match up on their own [HD2](https://osu.ppy.sh/beatmapsets/2089293#osu/4378380) pick. Italy continued building momentum by winning another break point on [DT3](https://osu.ppy.sh/beatmapsets/2462142#osu/5386835), but now it was Türkiye's chance to turn the tables.
 
-Winning [NM3](https://osu.ppy.sh/beatmapsets/2462129#osu/5386798) at the last moment by a bare margin of 3,320 points, Türkiye opted into [FM3](https://osu.ppy.sh/beatmapsets/2429306#osu/5290020) with their final pick, winning it to earn a single match point at 4–3. Down to their last pick, Italy selected [NM4](https://osu.ppy.sh/beatmapsets/2298768#osu/5167719), but ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528) led the way with an FC as Türkiye slammed the door shut by a margin of over 800,000 points to win the map and with it the match by a final score of 5–3.
+Winning [NM3](https://osu.ppy.sh/beatmapsets/2462129#osu/5386798) at the last moment by a bare margin of 3,320 points, Türkiye opted into [FM3](https://osu.ppy.sh/beatmapsets/2429306#osu/5290020) with their final pick, winning it to earn a single match point at 4–3. Down to their last pick, Italy selected [NM4](https://osu.ppy.sh/beatmapsets/2298768#osu/5167719), but ::{ flag=TR }:: ::Raikouhou::{ user-id=8007528 } led the way with an FC as Türkiye slammed the door shut by a margin of over 800,000 points to win the map and with it the match by a final score of 5–3.
 
 ### ::{ flag=TH }:: Thailand vs. ::{ flag=JP }:: Japan
 
@@ -108,7 +108,7 @@ Winning [NM3](https://osu.ppy.sh/beatmapsets/2462129#osu/5386798) at the last mo
 
 As one of the earlier matches of Sunday, Thailand vs. Japan started off with a bang, featuring two absolute nailbiter picks right out of the gate. Thailand's first pick of [HD1](https://osu.ppy.sh/beatmapsets/1233657#osu/2602195) slipped through their hands by a mere 47,592 points in the last few seconds following multiple misses, and Japan barely consolidated their break point with a 57,356-point victory on [DT2](https://osu.ppy.sh/beatmapsets/2462140#osu/5386832), placing them at a strong 2–0 lead going into the third pick of the match.
 
-This pick was an important chance for Thailand to get back into the match, and they took full advantage of it with a huge 754,792-point win on the alt-focused [NM3](https://osu.ppy.sh/beatmapsets/2462129#osu/5386798), led by ::{ flag=TH }:: [Arz3](https://osu.ppy.sh/users/6571991)'s 908,297 full combo. Not to be outdone, Japan attempted the same on [DT3](https://osu.ppy.sh/beatmapsets/2462142#osu/5386835). Despite ::{ flag=TH }:: [Lesperry](https://osu.ppy.sh/users/18092331)'s 1,022,595 full combo tugging the rope with full force, Japan's overall team performance was enough to earn them the point for a 3–1 lead.
+This pick was an important chance for Thailand to get back into the match, and they took full advantage of it with a huge 754,792-point win on the alt-focused [NM3](https://osu.ppy.sh/beatmapsets/2462129#osu/5386798), led by ::{ flag=TH }:: ::Arz3::{ user-id=6571991 }'s 908,297 full combo. Not to be outdone, Japan attempted the same on [DT3](https://osu.ppy.sh/beatmapsets/2462142#osu/5386835). Despite ::{ flag=TH }:: ::Lesperry::{ user-id=18092331 }'s 1,022,595 full combo tugging the rope with full force, Japan's overall team performance was enough to earn them the point for a 3–1 lead.
 
 After a few more traded picks, Japan was the first to reach match point at 4–2. Thailand opted for the [NM1](https://osu.ppy.sh/beatmapsets/2462126#osu/5386789) pick as their last, utilising their stronger consistency to outlast Japan with a 177,494 point lead. Japan followed by choosing [DT1](https://osu.ppy.sh/beatmapsets/53791#osu/163836), a 2012 blast from the past, as the last pick of the match.
 

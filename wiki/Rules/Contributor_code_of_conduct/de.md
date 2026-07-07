@@ -40,7 +40,7 @@ Fälle von beleidigendem, belästigendem oder anderweitig inakzeptablem Verhalte
 
 Die Führungspersönlichkeiten der Community, die Zugriff auf diesen Posteingang haben, sind:
 
-- [peppy](https://osu.ppy.sh/users/2) ([pe@ppy.sh](mailto:pe@ppy.sh))
+- ::peppy::{ user-id=2 } ([pe@ppy.sh](mailto:pe@ppy.sh))
 
 Alle Beschwerden werden unverzüglich und fair überprüft sowie untersucht.
 

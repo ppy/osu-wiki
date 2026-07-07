@@ -13,7 +13,7 @@ A fresh face in the rhythm game music scene and an even fresher face to osu!, we
 
 **8** tunes are now permanently available for mapping from [**Aiyru**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/296)!
 
-[juankristal](https://osu.ppy.sh/users/443656) is here to prove that COE will never end with a liveplay of [Station](https://osu.ppy.sh/beatmapsets/1794071) using osu!(lazer)'s "Wind Up" mod. Once you're convinced to start mapping, check out the rest of the songs too:
+::juankristal::{ user-id=443656 } is here to prove that COE will never end with a liveplay of [Station](https://osu.ppy.sh/beatmapsets/1794071) using osu!(lazer)'s "Wind Up" mod. Once you're convinced to start mapping, check out the rest of the songs too:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ A fresh face in the rhythm game music scene and an even fresher face to osu!, we
 
 ### Station
 
-Play [this osu! map](https://osu.ppy.sh/beatmapsets/1789344) hosted by [PaRaDogi](https://osu.ppy.sh/users/2054596) or [this osu!mania map](https://osu.ppy.sh/beatmapsets/1794071) hosted by [FAMoss](https://osu.ppy.sh/users/7707789) and showcased in the video above!
+Play [this osu! map](https://osu.ppy.sh/beatmapsets/1789344) hosted by ::PaRaDogi::{ user-id=2054596 } or [this osu!mania map](https://osu.ppy.sh/beatmapsets/1794071) hosted by ::FAMoss::{ user-id=7707789 } and showcased in the video above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/296/Songs/Aiyru%20-%20Station.mp3" type="audio/mpeg">

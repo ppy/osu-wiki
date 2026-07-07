@@ -23,10 +23,10 @@ Below you'll find a list of mentors for the available game modes, alongside thei
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | UTC+8 |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | UTC+8 |
-| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | UTC-4 |
-| ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) | UTC-4 |
+| ::{ flag=SG }:: ::arcpotato::{ user-id=12842392 } | UTC+8 |
+| ::{ flag=HK }:: ::BlackBN::{ user-id=6291741 } | UTC+8 |
+| ::{ flag=US }:: ::meiqth::{ user-id=12565402 } | UTC-4 |
+| ::{ flag=CA }:: ::SN707::{ user-id=31404061 } | UTC-4 |
 
 Do note that the osu!taiko mentors may opt in to hold a joint class depending on the amount of registrations.
 
@@ -34,18 +34,18 @@ Do note that the osu!taiko mentors may opt in to hold a joint class depending on
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | UTC+8 |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | UTC+1 |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | UTC+9 |
+| ::{ flag=HK }:: ::BlackBN::{ user-id=6291741 } | UTC+8 |
+| ::{ flag=NL }:: ::Greaper::{ user-id=2369776 } | UTC+1 |
+| ::{ flag=KR }:: ::Spectator::{ user-id=702598 } | UTC+9 |
 
 ### ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania mentors
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | UTC-4 |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | UTC+7 |
-| ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | UTC+9 |
-| ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | UTC+1 |
+| ::{ flag=DO }:: ::Antalf::{ user-id=8793773 } | UTC-4 |
+| ::{ flag=ID }:: ::Maxus::{ user-id=4335785 } | UTC+7 |
+| ::{ flag=KR }:: ::Murumoo::{ user-id=8001433 } | UTC+9 |
+| ::{ flag=NL }:: ::Muse Dash::{ user-id=13695676 } | UTC+1 |
 
 ---
 

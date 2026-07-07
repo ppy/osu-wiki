@@ -9,7 +9,7 @@ series: featured_artists
 
 ![](https://assets.ppy.sh/artists/46/header.jpg)
 
-Made famous in osu! by the giant collaborative beatmap [**Boogie**](https://osu.ppy.sh/beatmapsets/411435#osu/966177) hosted by [Spaghetti](https://osu.ppy.sh/users/4761930) back in 2016, [**Billain**](https://osu.ppy.sh/beatmaps/artists/46) has been an eminent name among much of the high-end mapping scene ever since.
+Made famous in osu! by the giant collaborative beatmap [**Boogie**](https://osu.ppy.sh/beatmapsets/411435#osu/966177) hosted by ::Spaghetti::{ user-id=4761930 } back in 2016, [**Billain**](https://osu.ppy.sh/beatmaps/artists/46) has been an eminent name among much of the high-end mapping scene ever since.
 
 His unique fusion of atmospheric, neurofunk-inspired sound design interwoven with classic drum & bass style leads produces a uniquely compelling long-form experience that we're sure people are bound to pick up and experiment with.
 

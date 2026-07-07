@@ -23,7 +23,7 @@ Need some mapping inspiration? See how **:Poin7less**'s music translates to mapp
 
 ### Love Infection
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1747369) hosted by [Ogura Yui](https://osu.ppy.sh/users/6644401)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1747369) hosted by ::Ogura Yui::{ user-id=6644401 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/275/Love%20Infection%2FPoin7less%20-%20Love%20Infection.mp3" type="audio/mpeg">

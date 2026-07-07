@@ -9,7 +9,7 @@ Join us for an interview with BTMC, one of osu!'s most iconic content creators!
 
 ![](/wiki/shared/news/2024-03-13-the-followpoint-btmc-the-face-of-osu/banner.jpg?1)
 
-[BTMC](https://osu.ppy.sh/users/3171691) is definitely a name in the community that doesn't need any introduction, their influence reaching every corner of osu!'s vast community while still continuously improving and innovating their content, all in the goal of serving the community.
+::BTMC::{ user-id=3171691 } is definitely a name in the community that doesn't need any introduction, their influence reaching every corner of osu!'s vast community while still continuously improving and innovating their content, all in the goal of serving the community.
 
 Next to content creation they are also a top osu! player, event organiser, and community contributor with tenures in [Project Loved](/wiki/Community/Project_Loved) and osu! World Cup casting.
 
@@ -25,11 +25,11 @@ Let's take a look at how their osu! journey started, where it's led so far, and 
 
 *How did you get introduced to osu!, who are your earliest influences from the game?*
 
-> In 2013, while playing on the "MCPVP" Minecraft server, I was first introduced to osu! through its content creators like [Zephhyre](https://www.youtube.com/@Zephhyre), who posted an osu! video titled "[OSU! Catastrophe - MuryokuP [Cataclysm Difficulty]](https://www.youtube.com/watch?v=kfVUP7B9Tco)", and Gayzmcgee (now [Aricin](https://osu.ppy.sh/users/1419095)), who suddenly started livestreaming osu! on their Twitch. Funnily enough, by complete chance, I was at a convention and ran into [meiikyuu](https://osu.ppy.sh/users/1043627), the mapper of the beatmap featured in Zephhyre's video, and we've now been together for over two years. I like to think it was her that actually brought me into this wonderful community.
+> In 2013, while playing on the "MCPVP" Minecraft server, I was first introduced to osu! through its content creators like [Zephhyre](https://www.youtube.com/@Zephhyre), who posted an osu! video titled "[OSU! Catastrophe - MuryokuP [Cataclysm Difficulty]](https://www.youtube.com/watch?v=kfVUP7B9Tco)", and Gayzmcgee (now ::Aricin::{ user-id=1419095 }), who suddenly started livestreaming osu! on their Twitch. Funnily enough, by complete chance, I was at a convention and ran into ::meiikyuu::{ user-id=1043627 }, the mapper of the beatmap featured in Zephhyre's video, and we've now been together for over two years. I like to think it was her that actually brought me into this wonderful community.
 
 *How did your content creation career start, did you ever think you would be making content for a living?*
 
-> My content creation journey began with a rivalry with a former MCPVPer and an unexpected twist. After facing two false DMCA take down notices from a Brazilian Minecraft YouTuber, I made all my videos unlisted, but when I republished them, my osu! content detailing my osu! rivalry with [ChaosRaidz](https://osu.ppy.sh/users/3715823) unintentionally went public. One of which is now infamous in the community: "[And some say he never played osu! again](https://www.youtube.com/watch?v=WKja2Ee7Pys)".
+> My content creation journey began with a rivalry with a former MCPVPer and an unexpected twist. After facing two false DMCA take down notices from a Brazilian Minecraft YouTuber, I made all my videos unlisted, but when I republished them, my osu! content detailing my osu! rivalry with ::ChaosRaidz::{ user-id=3715823 } unintentionally went public. One of which is now infamous in the community: "[And some say he never played osu! again](https://www.youtube.com/watch?v=WKja2Ee7Pys)".
 > 
 > I never initially envisioned content creation as a career; the concept of earning a living from YouTube and livestreaming was far from mainstream at the time. The term "[Creator Economy](https://en.wikipedia.org/wiki/Creator_economy)" wasn't even coined yet. However, I knew I wanted a path that wasn't confined to a traditional 9-5 job or a single career trajectory. Discovering that livestreaming earned me more in a week than a month at my job scooping popcorn at a movie theater, I fully embraced the uncertainty and dedicated everything to find a way to make it work. Because of that, I'm extremely humbled by all of my viewers, supporters, and fellow creators from all across the industry for making this possible.
 
@@ -59,11 +59,11 @@ Let's take a look at how their osu! journey started, where it's led so far, and 
 
 *Finally, before moving onto your recent IRL ventures, what osu! content creators would you recommend for people to watch?*
 
-> Because I'm an osu! content creator, I actually struggle to watch other osu! content because instead of consuming and appreciating the content for what it is, I see potential areas of improvement and different ways that I would've tackled the same concept differently. The only osu! content creator I watch actively is [pishi](https://osu.ppy.sh/users/3178418) with his [videos on lazer's development](https://www.youtube.com/playlist?list=PLmWVQsxi34bMTmgpDArfxJ32Q0mBLhcE-). However, I openly offer help and am in constant communication with every osu! content creator to offer my help in advice or feedback. A rising tide lifts all boats here.
+> Because I'm an osu! content creator, I actually struggle to watch other osu! content because instead of consuming and appreciating the content for what it is, I see potential areas of improvement and different ways that I would've tackled the same concept differently. The only osu! content creator I watch actively is ::pishi::{ user-id=3178418 } with his [videos on lazer's development](https://www.youtube.com/playlist?list=PLmWVQsxi34bMTmgpDArfxJ32Q0mBLhcE-). However, I openly offer help and am in constant communication with every osu! content creator to offer my help in advice or feedback. A rising tide lifts all boats here.
 
 *Moving onto "IRL", I believe the Roundtable was the first time you hosted an IRL event, how did you come to the idea of it?*
 
-> The original idea came from Pishi and [Kroytz](https://osu.ppy.sh/users/2339768), and was originally inspired by the events hosted by Beyond the Summit. I was hanging with them, and we realized that technically the only thing we were missing was money, so when I mentioned I'd cover it we got straight to work.
+> The original idea came from Pishi and ::Kroytz::{ user-id=2339768 }, and was originally inspired by the events hosted by Beyond the Summit. I was hanging with them, and we realized that technically the only thing we were missing was money, so when I mentioned I'd cover it we got straight to work.
 
 *Hosting such an event is a huge undertaking, both financially and logistically. What were some of the biggest/unexpected obstacles you faced during its organisation?*
 
@@ -91,7 +91,7 @@ Let's take a look at how their osu! journey started, where it's led so far, and 
 
 > Well the goal of The Roundtable Invitational is to create an experience for its most talented and invested players to look forward to and to create a show that can bring together the community and showcase the best that osu! has to offer.
 > 
-> There were many aspects that I feel we improved on such as catering, prize pools, and event variety, but the one I feel the most proud of was our technical team behind The Roundtable Battle Royale overlays. We wanted to make the user experience of viewing the event better, as we hope that some people may get introduced to osu! through the content on The Roundtable. The team, as lead by [Deadrote](https://osu.ppy.sh/users/7943969), was able to create an overlay that was innovative, groundbreaking, and easy for viewers to understand and follow along which I'm extremely proud of.
+> There were many aspects that I feel we improved on such as catering, prize pools, and event variety, but the one I feel the most proud of was our technical team behind The Roundtable Battle Royale overlays. We wanted to make the user experience of viewing the event better, as we hope that some people may get introduced to osu! through the content on The Roundtable. The team, as lead by ::Deadrote::{ user-id=7943969 }, was able to create an overlay that was innovative, groundbreaking, and easy for viewers to understand and follow along which I'm extremely proud of.
 
 *To wrap things up, what does the future hold for BTMC? Do you have any 2024 goals you are willing to share with the community?*
 

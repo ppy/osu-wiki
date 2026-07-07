@@ -9,7 +9,7 @@ Instead of announcing a new Featured Artist this weekend, we're putting the spot
 
 ![](https://assets.ppy.sh/artists/401/header.jpg)
 
-For anyone not in the know, **Akiri** (a.k.a. [ERA Akiri](https://osu.ppy.sh/users/19587411) here on osu!) is a devout key smasher who [debuted as a Featured Artist](https://osu.ppy.sh/home/news/2024-02-11-new-featured-artist-akiri) during [last year's osu!mania 7K World Cup](/wiki/Tournaments/MWC/2024_7K) with a grandiose [7-minute tiebreaker track](https://www.youtube.com/watch?v=bEHMtQxhzqM)! It's been a year since then, and **Akiri** was eager to bring their newest tunes to osu!, so here we are.
+For anyone not in the know, **Akiri** (a.k.a. ::ERA Akiri::{ user-id=19587411 } here on osu!) is a devout key smasher who [debuted as a Featured Artist](https://osu.ppy.sh/home/news/2024-02-11-new-featured-artist-akiri) during [last year's osu!mania 7K World Cup](/wiki/Tournaments/MWC/2024_7K) with a grandiose [7-minute tiebreaker track](https://www.youtube.com/watch?v=bEHMtQxhzqM)! It's been a year since then, and **Akiri** was eager to bring their newest tunes to osu!, so here we are.
 
 **30** new tracks are now part of [**Akiri**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/401). You'll find them with this not-so-creative **NEW** tag:
 
@@ -21,7 +21,7 @@ Anyways, music awaits:
 
 ### [Akiri - Evolutionary Anima](https://assets.ppy.sh/artists/401/Songs/Akiri_-_Evolutionary_Anima.osz)
 
-One of those new tracks comes straight out of [2025's osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K): [*Evolutionary Anima*](https://osu.ppy.sh/beatmapsets/2314344) mapped by [Maxus](https://osu.ppy.sh/users/4335785) and [Critical_Star](https://osu.ppy.sh/users/3793196).
+One of those new tracks comes straight out of [2025's osu!mania 7K World Cup](/wiki/Tournaments/MWC/2025_7K): [*Evolutionary Anima*](https://osu.ppy.sh/beatmapsets/2314344) mapped by ::Maxus::{ user-id=4335785 } and [Critical_Star](https://osu.ppy.sh/users/3793196).
 
 If you tune into [this weekend's matches](https://www.twitch.tv/osulive), you might see this map played by one of the surviving teams!
 
@@ -31,7 +31,7 @@ If you tune into [this weekend's matches](https://www.twitch.tv/osulive), you mi
 
 ### [Akiri - the song of 2024](https://assets.ppy.sh/artists/401/Your%20Moms%20Revenge/Akiri%20-%20the%20song%20of%202024.osz)
 
-Give in to the allure of CS 7 with [this map](https://osu.ppy.sh/beatmapsets/2310247) hosted by [Wispy](https://osu.ppy.sh/users/11106929)!
+Give in to the allure of CS 7 with [this map](https://osu.ppy.sh/beatmapsets/2310247) hosted by ::Wispy::{ user-id=11106929 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/401/Your%20Moms%20Revenge/Akiri%20-%20the%20song%20of%202024.mp3">

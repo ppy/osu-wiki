@@ -13,7 +13,7 @@ The combined efforts of two rhythm game masterminds, **MisoilePunch** joins the 
 
 Look no further than [**MisoilePunch**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/239) to find **10** high-energy songs catering specifically towards high-energy beatmapping.
 
-Need a refresher? Sample **MisoilePunch**'s sound through a video of [MisoilePunch - DisXloss](https://osu.ppy.sh/beatmapsets/1647720) (just recently ranked by [SMOKELIND](https://osu.ppy.sh/users/9327302)!), then tread on over to the rest of the previews below:
+Need a refresher? Sample **MisoilePunch**'s sound through a video of [MisoilePunch - DisXloss](https://osu.ppy.sh/beatmapsets/1647720) (just recently ranked by ::SMOKELIND::{ user-id=9327302 }!), then tread on over to the rest of the previews below:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ Need a refresher? Sample **MisoilePunch**'s sound through a video of [MisoilePun
 
 ### DisXloss
 
-Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1647720) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302)!
+Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1647720) hosted by ::SMOKELIND::{ user-id=9327302 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/239/Songs/MisoilePunch%20%7EHarumaki%20Soe%7E%20-%20DisXloss.mp3" type="audio/mpeg">

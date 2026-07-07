@@ -11,7 +11,7 @@ tags:
 ![Captura de pantalla de la interfaz de puush](img/puushScreenshot.png "Captura de pantalla de la interfaz de la aplicación puush, tomada del artículo de CNET sobre el servicio")
 :::
 
-**[puush.me](https://puush.me)**, también conocido como **puush**, es un servicio para compartir capturas de pantalla gestionado y alojado por ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) y ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102). Lanzado por primera vez en junio de 2010, el servicio es el sucesor de [upppy](/wiki/upppy) y se centra más en compartir el contenido de la pantalla y gestionar los datos de los usuarios. Fue creado por necesidad, ya que un servicio existente que usaban los dos fundadores añadió mucha publicidad y quitó la compatibilidad con los enlaces directos a imágenes.
+**[puush.me](https://puush.me)**, también conocido como **puush**, es un servicio para compartir capturas de pantalla gestionado y alojado por ::{ flag=AU }:: ::peppy::{ user-id=2 } y ::{ flag=AU }:: ::nekodex::{ user-id=102 }. Lanzado por primera vez en junio de 2010, el servicio es el sucesor de [upppy](/wiki/upppy) y se centra más en compartir el contenido de la pantalla y gestionar los datos de los usuarios. Fue creado por necesidad, ya que un servicio existente que usaban los dos fundadores añadió mucha publicidad y quitó la compatibilidad con los enlaces directos a imágenes.
 
 ## Servicio
 
@@ -30,7 +30,7 @@ Al igual que en osu!, ningún usuario de puush será expuesto a anuncios, indepe
 
 ## Reducción del servicio
 
-Desde marzo de 2014, puush ya no acepta registros para el plan Pro, ya que PayPal suspendió la cuenta de puush debido a un «incumplimiento de los términos del servicio» imprevisto.[^puush-paypal-suspension-ref] Esto provocó que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) tuviera que pagar de su propio bolsillo unos 400 dólares al mes para mantener el servicio en funcionamiento.[^puush-finances-ref]
+Desde marzo de 2014, puush ya no acepta registros para el plan Pro, ya que PayPal suspendió la cuenta de puush debido a un «incumplimiento de los términos del servicio» imprevisto.[^puush-paypal-suspension-ref] Esto provocó que ::{ flag=AU }:: ::peppy::{ user-id=2 } tuviera que pagar de su propio bolsillo unos 400 dólares al mes para mantener el servicio en funcionamiento.[^puush-finances-ref]
 
 Ese mismo año, al detenerse el mantenimiento de puush, se desactivaron por completo los registros de nuevas cuentas, aunque los usuarios existentes pueden seguir usando el servicio como de costumbre.[^puush-maintenance-ref]
 

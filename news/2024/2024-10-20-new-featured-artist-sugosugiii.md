@@ -23,7 +23,7 @@ Anyone who played today's [daily challenge](https://osu.ppy.sh/home/news/2024-07
 
 ### sugosugiii - Times New Roman
 
-Try out [the map in today's daily challenge](https://osu.ppy.sh/beatmapsets/2240606) hosted by [Aeril](https://osu.ppy.sh/users/4334976)!
+Try out [the map in today's daily challenge](https://osu.ppy.sh/beatmapsets/2240606) hosted by ::Aeril::{ user-id=4334976 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/442/xv%E6%B5%AA%E6%BC%AB/sugosugiii_-_Times_New_Roman.mp3">
@@ -31,7 +31,7 @@ Try out [the map in today's daily challenge](https://osu.ppy.sh/beatmapsets/2240
 
 ### sugosugiii, SiLiS - Reminiscing Onward
 
-If osu!taiko is your thing, try [this map](https://osu.ppy.sh/beatmapsets/2241960) hosted by [Slyme](https://osu.ppy.sh/users/11695793) instead!
+If osu!taiko is your thing, try [this map](https://osu.ppy.sh/beatmapsets/2241960) hosted by ::Slyme::{ user-id=11695793 } instead!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/442/Reminiscing%20Onward/sugosugiii_SiLiS_-_Reminiscing_Onward.mp3">
@@ -39,7 +39,7 @@ If osu!taiko is your thing, try [this map](https://osu.ppy.sh/beatmapsets/224196
 
 ### sugosugiii - The Edge of Bravery
 
-Here's [one more map](https://osu.ppy.sh/beatmapsets/2148426) hosted by [-Ming-](https://osu.ppy.sh/users/20127755) with an original song created specifically for [4K Korean Mania Tournament 2](https://osu.ppy.sh/community/forums/topics/1866795?n=1)!
+Here's [one more map](https://osu.ppy.sh/beatmapsets/2148426) hosted by ::-Ming-::{ user-id=20127755 } with an original song created specifically for [4K Korean Mania Tournament 2](https://osu.ppy.sh/community/forums/topics/1866795?n=1)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/442/The%20Edge%20Of%20Bravery/sugosugiii%20-%20The%20Edge%20of%20Bravery.mp3">

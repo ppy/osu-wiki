@@ -58,7 +58,7 @@ Previously, any map with an approach rate (hereafter referred to as AR) higher t
 
 Maps at AR 11 are often considered to be similar to the Flashlight mod in that they become considerably more difficult the longer they are. This fact was not reflected in the previous version of the algorithm with its static 20% increase.
 
-As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following change has been applied:
+As suggested by ::**Xexxar**::{ user-id=2773526 }, the following change has been applied:
 
 - The buff for AR 11 maps now scales from 0% at 0 objects, to 26.66% at a maximum of 1000 objects. The previous 20% buff is now attained at around 750 objects instead.
     - Old value: 20% flat.
@@ -75,7 +75,7 @@ Consult the graphs below for a visualization of the changes:
 
 Before today's changes, the performance points algorithm applied a flat 10% reduction in the maximum possible pp (not score) you could receive for a play made with the No Fail mod active.
 
-As suggested by [**StanR**](https://osu.ppy.sh/users/7217455) in [this pull request](https://github.com/ppy/osu-performance/pull/127), the following change has been applied:
+As suggested by ::**StanR**::{ user-id=7217455 } in [this pull request](https://github.com/ppy/osu-performance/pull/127), the following change has been applied:
 
 - No Fail's pp multiplier now scales based on the number of misses.
     - New value: 1.0x base, with -0.02x applied for each miss to a maximum reduction back to 0.9x
@@ -89,7 +89,7 @@ This makes sudden "pop-off" performances made with the No Fail mod less punishin
 
 Similar to how NoFail used to function as described above, Spun Out also applied a flat 5% reduction in the maximum possible pp (again, not score) you could receive while making a play with it enabled.
 
-As suggested by [**StanR**](https://osu.ppy.sh/users/7217455) in [this pull request](https://github.com/ppy/osu-performance/pull/110), the following change has been applied:
+As suggested by ::**StanR**::{ user-id=7217455 } in [this pull request](https://github.com/ppy/osu-performance/pull/110), the following change has been applied:
 
 - Spun Out's pp multiplier now scales based on the number of spinners in the map.
     - New value: ```1 - (Number of Spinners / Total Hitobjects)^0.85```
@@ -109,7 +109,7 @@ To understand these changes, it is important to know that the performance points
 
 This meant that 3 misses on a 100 note map was functionally equivalent to 3 misses on a 1000 note map.
 
-As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following change has been applied:
+As suggested by ::**Xexxar**::{ user-id=2773526 }, the following change has been applied:
 
 - The miss penalty curve has been adjusted.
     - Any number of misses on a map instantly incurs a once-off 3% penalty to total pp awarded for both aim and speed.
@@ -128,7 +128,7 @@ As osu! has evolved over time, accuracy has slowly but steadily fallen to the wa
 
 Today, many scores pull less than 20% of their score from accuracy instead, relying on raw speed as the largest influencing component on how scores are set. This has reduced the meaningful impact of accuracy as a skill considerably, which is a peculiar approach for a rhythm game where accuracy should be king.
 
-As suggested by [**Xexxar**](https://osu.ppy.sh/users/2773526), the following change has been applied:
+As suggested by ::**Xexxar**::{ user-id=2773526 }, the following change has been applied:
 
 - A new speed curve has been introduced which factors in Overall Difficulty and accuracy.
     - New value: ![](/wiki/shared/news/2021-01-14-performance-points-updates/new-curve.png)
@@ -157,6 +157,6 @@ All of this is a lot of math to digest, especially if you don't understand the M
 
 ---
 
-A big thank you to everyone involved in these changes, and especially to [**Xexxar**](https://osu.ppy.sh/users/2773526), who has floated the major triad of the top-level changes this time around, performing all the formulaic wizardry required to make them tick largely on his own.
+A big thank you to everyone involved in these changes, and especially to ::**Xexxar**::{ user-id=2773526 }, who has floated the major triad of the top-level changes this time around, performing all the formulaic wizardry required to make them tick largely on his own.
 
 —osu!team

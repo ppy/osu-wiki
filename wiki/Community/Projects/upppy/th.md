@@ -6,4 +6,4 @@ outdated_since: 316f139f5c8542a22c470f162bb0eea2ffd31af8
 
 # upppy
 
-**[upppy](https://up.ppy.sh)** เป็นบริการอัปโหลดไฟล์ที่ให้บริการโดย ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) ใช้ในการแบ่งปันรูปภาพกับชุมชน osu! เป็นหลัก
+**[upppy](https://up.ppy.sh)** เป็นบริการอัปโหลดไฟล์ที่ให้บริการโดย ::{ flag=AU }:: ::peppy::{ user-id=2 } ใช้ในการแบ่งปันรูปภาพกับชุมชน osu! เป็นหลัก

@@ -24,9 +24,9 @@ Proyek Beatmap Spotlights dijalankan oleh berbagai anggota komunitas di semua mo
 
 | Jabatan | Anggota |
 | :-- | :-- |
-| Pimpinan proyek | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
-| Manajer proyek | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
-| Manajer website | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227) |
+| Pimpinan proyek | ::{ flag=PL }:: ::Venix::{ user-id=5999631 } |
+| Manajer proyek | ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } |
+| Manajer website | ::{ flag=PL }:: ::Venix::{ user-id=5999631 }, ::{ flag=US }:: ::Snowleopard::{ user-id=3790227 } |
 
 ## Kurator
 
@@ -34,43 +34,43 @@ Setiap rilis Beatmap Spotlights disusun oleh tim kurator khusus dan dipilih seca
 
 ### Kurator osu!
 
-- ::{ flag=FI }:: **[Nowaie](https://osu.ppy.sh/users/5428909)**
-- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
-- ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
-- ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850)
-- ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943)
-- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
-- ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
+- ::{ flag=FI }:: **::Nowaie::{ user-id=5428909 }**
+- ::{ flag=US }:: ::ChillierPear::{ user-id=9501251 }
+- ::{ flag=GB }:: ::DeviousPanda::{ user-id=4966334 }
+- ::{ flag=US }:: ::DigitalHypno::{ user-id=4384207 }
+- ::{ flag=FI }:: ::Lefafel::{ user-id=2295850 }
+- ::{ flag=AT }:: ::Omgforz::{ user-id=578943 }
+- ::{ flag=MX }:: ::Riot::{ user-id=4256461 }
+- ::{ flag=PL }:: ::Zelq::{ user-id=8953955 }
 
 ### Kurator osu!taiko
 
-- ::{ flag=TN }:: **[Hivie](https://osu.ppy.sh/users/14102976)**
-- ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864)
-- ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
-- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
-- ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966)
+- ::{ flag=TN }:: **::Hivie::{ user-id=14102976 }**
+- ::{ flag=AR }:: ::Axer::{ user-id=7299864 }
+- ::{ flag=US }:: ::Nifty::{ user-id=4956097 }
+- ::{ flag=US }:: ::radar::{ user-id=7131099 }
+- ::{ flag=JP }:: ::uone::{ user-id=5321719 }
+- ::{ flag=MY }:: ::\1Zeth\1::{ user-id=9912966 }
 
 ### Kurator osu!catch
 
-- ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
-- ::{ flag=KR }:: [x_angelkawaii_x](https://osu.ppy.sh/users/566276)
-- ::{ flag=US }:: [Snowless](https://osu.ppy.sh/users/4316266)
-- ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
+- ::{ flag=CA }:: **::SadEgg::{ user-id=10278243 }**
+- ::{ flag=US }:: ::radar::{ user-id=7131099 }
+- ::{ flag=KR }:: ::x\1angelkawaii\1x::{ user-id=566276 }
+- ::{ flag=US }:: ::Snowless::{ user-id=4316266 }
+- ::{ flag=US }:: ::wonjae::{ user-id=5032045 }
 
 ### Kurator osu!mania
 
-- ::{ flag=GB }:: **[Hydria](https://osu.ppy.sh/users/808176)**
-- ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370)
-- ::{ flag=CA }:: [BringoBrango](https://osu.ppy.sh/users/10274043)
-- ::{ flag=AU }:: [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
-- ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768)
-- ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600)
-- ::{ flag=DO }:: [Kaito-kun](https://osu.ppy.sh/users/4715184)
-- ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493)
-- ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573)
+- ::{ flag=GB }:: **::Hydria::{ user-id=808176 }**
+- ::{ flag=KR }:: ::Aruel::{ user-id=3984370 }
+- ::{ flag=CA }:: ::BringoBrango::{ user-id=10274043 }
+- ::{ flag=AU }:: ::CrumpetFiddler::{ user-id=3518705 }
+- ::{ flag=AU }:: ::\1 Decku \1::{ user-id=13360768 }
+- ::{ flag=TH }:: ::HowToPlayLN::{ user-id=10879600 }
+- ::{ flag=DO }:: ::Kaito-kun::{ user-id=4715184 }
+- ::{ flag=MY }:: ::Kibitz::{ user-id=7418493 }
+- ::{ flag=PH }:: ::lenpai::{ user-id=5314573 }
 
 ## Musim Spotlights
 
@@ -170,12 +170,12 @@ Semua pelamar kemudian akan ditinjau oleh manajemen proyek dan pemimpin tim, di 
 
 ## Sejarah
 
-Awalnya bernama "Ranking Charts" dan dimulai pada November 2009 oleh ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) dan ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), proyek ini bertujuan untuk menyorot beatmap terbaik dalam sebulan dengan mengizinkan [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) dan [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) mencalonkan dan memilih kandidat yang paling sesuai.
+Awalnya bernama "Ranking Charts" dan dimulai pada November 2009 oleh ::{ flag=US }:: ::Cyclone::{ user-id=18589 } dan ::{ flag=AU }:: ::peppy::{ user-id=2 }, proyek ini bertujuan untuk menyorot beatmap terbaik dalam sebulan dengan mengizinkan [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) dan [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) mencalonkan dan memilih kandidat yang paling sesuai.
 
 Proyek ini mengalami beberapa perubahan dan penambahan, seperti [Ranking Chart bertema](https://osu.ppy.sh/rankings/osu/charts?spotlight=26), [Ranking Charts dengan mod yang dibatasi](https://osu.ppy.sh/rankings/osu/charts?spotlight=19) atau [Papan peringkat musiman](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart). Awalnya, pemenang Ranking Charts diberi hadiah osu! Supporter Tag. Kemudian, hadiah untuk mapper atau pemenang papan peringkat musiman telah ditambahkan.
 
-Pimpinan proyek telah berubah beberapa kali dalam sejarahnya. ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) mengambil alih pimpinan proyek pada Mei 2012, diikuti oleh ::{ flag=US }:: [DeathXShinigami](https://osu.ppy.sh/users/49516) dan ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389). ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) dan ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) mengambil atas proyek tersebut pada bulan Desember 2013. Pada bulan Maret 2015, proyek tersebut berubah dari desain awal nominasi dan pemungutan suara menjadi terkenal [anggota komunitas secara pribadi memilih daftar set beatmap](https://osu.ppy.sh/home/news/2015-03-18-february-2015-Monthly-ranking-charts-new-season) yang mereka rekomendasikan. Pada bulan September 2016, [sistem pemilihan sebagian besar telah dikembalikan](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) dan memberi otoritas [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) yang kemudian bertugas memilih set beatmap yang dirasa paling penting.
+Pimpinan proyek telah berubah beberapa kali dalam sejarahnya. ::{ flag=US }:: ::SapphireGhost::{ user-id=388602 } mengambil alih pimpinan proyek pada Mei 2012, diikuti oleh ::{ flag=US }:: ::DeathXShinigami::{ user-id=49516 } dan ::{ flag=US }:: ::Makar::{ user-id=686389 }. ::{ flag=DE }:: ::Loctav::{ user-id=71366 } dan ::{ flag=DE }:: ::OnosakiHito::{ user-id=290128 } mengambil atas proyek tersebut pada bulan Desember 2013. Pada bulan Maret 2015, proyek tersebut berubah dari desain awal nominasi dan pemungutan suara menjadi terkenal [anggota komunitas secara pribadi memilih daftar set beatmap](https://osu.ppy.sh/home/news/2015-03-18-february-2015-Monthly-ranking-charts-new-season) yang mereka rekomendasikan. Pada bulan September 2016, [sistem pemilihan sebagian besar telah dikembalikan](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) dan memberi otoritas [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) yang kemudian bertugas memilih set beatmap yang dirasa paling penting.
 
-Berganti nama menjadi [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) pada Maret 2017, sistem itu sendiri sebagian besar tetap konsisten sambil menambahkan hadiah tambahan seperti medali dan meningkatkan presentasi Beatmap Spotlights lebih lanjut. Selama perbaikan internal Quality Assurance Team, tanggung jawab untuk proyek telah dialihkan ke ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) dan mengimplementasikan kembali seleksi berbasis komunitas. Pada November 2018, frekuensi Spotlights telah diubah menjadi [siklus rilis musiman](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Pada Maret 2020, ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) bergabung kembali dengan pimpinan proyek bersama dengan Kurokami, keduanya mengerjakan ulang menjadi bentuk baru dan menyusun tim baru yaitu osu! kurator.
+Berganti nama menjadi [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) pada Maret 2017, sistem itu sendiri sebagian besar tetap konsisten sambil menambahkan hadiah tambahan seperti medali dan meningkatkan presentasi Beatmap Spotlights lebih lanjut. Selama perbaikan internal Quality Assurance Team, tanggung jawab untuk proyek telah dialihkan ke ::{ flag=HU }:: ::Kurokami::{ user-id=260933 } dan mengimplementasikan kembali seleksi berbasis komunitas. Pada November 2018, frekuensi Spotlights telah diubah menjadi [siklus rilis musiman](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Pada Maret 2020, ::{ flag=DE }:: ::Loctav::{ user-id=71366 } bergabung kembali dengan pimpinan proyek bersama dengan Kurokami, keduanya mengerjakan ulang menjadi bentuk baru dan menyusun tim baru yaitu osu! kurator.
 
-Pada Agustus 2020, ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) mengundurkan diri sebagai pemimpin proyek Beatmap Spotlights. Pada akhir November 2020, ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) turut mengundurkan diri di mana setelahnya kepemimpinan atas proyek Beatmap Spotlights dipercayakan kepada ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) bersama dengan ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418).
+Pada Agustus 2020, ::{ flag=HU }:: ::Kurokami::{ user-id=260933 } mengundurkan diri sebagai pemimpin proyek Beatmap Spotlights. Pada akhir November 2020, ::{ flag=DE }:: ::Loctav::{ user-id=71366 } turut mengundurkan diri di mana setelahnya kepemimpinan atas proyek Beatmap Spotlights dipercayakan kepada ::{ flag=PL }:: ::Venix::{ user-id=5999631 } bersama dengan ::{ flag=US }:: ::pishifat::{ user-id=3178418 }.

@@ -393,15 +393,15 @@ These projects simplify the process of formatting text with BBCode:
 
 | Name | Project lead | Description |
 | :-: | :-: | :-- |
-| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | BBCode editor with real-time preview for osu! profile |
-| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | BBCode editor with real-time preview for osu! profile (Archived) |
-| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[_____________]](https://osu.ppy.sh/users/12036908) | Create color gradients for osu! profile |
-| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Browser extension that adds more BBCode buttons and other features to osu! website |
+| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: ::rezzvy::{ user-id=8804560 } | BBCode editor with real-time preview for osu! profile |
+| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: ::HonokaKousakaTV::{ user-id=18595366 } | BBCode editor with real-time preview for osu! profile (Archived) |
+| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: ::\1\1\1\1\1\1\1\1\1\1\1\1\1\1\1::{ user-id=12036908 } | Create color gradients for osu! profile |
+| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: ::RockRoller::{ user-id=8388854 } | Browser extension that adds more BBCode buttons and other features to osu! website |
 | [textcolorizer](https://www.stuffbydavid.com/textcolorizer) | david | BBCode and HTML text colorising |
 
 ## Trivia
 
-- This wiki article was originally adapted from the ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum thread by [Stefan](https://osu.ppy.sh/users/626907).
+- This wiki article was originally adapted from the ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum thread by ::Stefan::{ user-id=626907 }.
 - There used to be a bug which allowed users to make the text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (`=`).
   - As of now, the text will revert back to the default colour (white) when this happens.
 - Before the `imagemap` tag was added, it was possible to add a hyperlink to an image by combining the `url` and `img` tags, however, only one hyperlink can be set per image. This would require slicing the original image into several pieces (i.e. for each link one partial image) and arranging them horizontally side by side.

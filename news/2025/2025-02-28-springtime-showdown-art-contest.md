@@ -54,7 +54,7 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 ---
 
-*Header and promotional artwork by finalist [Yuuehan](https://osu.ppy.sh/users/7614399) from the [15th Anniversary Art Contest](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results)!*
+*Header and promotional artwork by finalist ::Yuuehan::{ user-id=7614399 } from the [15th Anniversary Art Contest](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results)!*
 
 Hyped? Good, your next task is to head over to the [Springtime Showdown Art Contest listing](https://osu.ppy.sh/community/contests/242) once you've finished cooking your masterpiece and drop it there. You may reupload your entry to your heart's desire if you want to make any adjustments, but you only have **20 days** to do so before the doors close off forever (20 March 2025, 18:00 UTC), so don't brood over which brush to use for too long!
 

@@ -17,7 +17,7 @@ Widely acclaimed and then widely reviled shortly after, the category has been th
 
 ## This week's guests
 
-Joining myself ([HappyStick](https://osu.ppy.sh/users/256802)) for the discussion will be one of the community's most prolific members of the QAT, [pishifat](https://osu.ppy.sh/users/3178418), and one of the people responsible for pushing the category in the first place, [Ephemeral](https://osu.ppy.sh/users/102335) from the osu!team.
+Joining myself (::HappyStick::{ user-id=256802 }) for the discussion will be one of the community's most prolific members of the QAT, ::pishifat::{ user-id=3178418 }, and one of the people responsible for pushing the category in the first place, ::Ephemeral::{ user-id=102335 } from the osu!team.
 
 Together, we'll be going through why Loved is the way it is, what brought about its development in the first place, and where it will be heading in the future.
 

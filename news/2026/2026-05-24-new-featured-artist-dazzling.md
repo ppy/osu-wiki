@@ -19,7 +19,7 @@ Preview stuff down here:
 
 ### Dazzling - ultra-kawaii-pic.png
 
-You can all thank [Mita](https://osu.ppy.sh/users/22882379) for bringing [this osu! map](https://osu.ppy.sh/beatmapsets/2468185) into reality!
+You can all thank ::Mita::{ user-id=22882379 } for bringing [this osu! map](https://osu.ppy.sh/beatmapsets/2468185) into reality!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -29,7 +29,7 @@ You can all thank [Mita](https://osu.ppy.sh/users/22882379) for bringing [this o
 
 ### krystAL (Dazzling vs. XH)
 
-For those who prefer circles without numbers, [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2462088) created by [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) is for you!
+For those who prefer circles without numbers, [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2462088) created by ::\_HeLLFly\_::{ user-id=14225226 } is for you!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/545/Songs/krystAL%20(Dazzling%20vs.%20XH)%20-%20Future%20MicrrrOwave.mp3">

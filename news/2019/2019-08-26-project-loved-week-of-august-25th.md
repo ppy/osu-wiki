@@ -28,70 +28,70 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/FKyJHfWWAgA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
+osu!standard Loved candidates were chosen by ::DigitalHypno::{ user-id=4384207 }, [-Roxas](https://osu.ppy.sh/users/1986262), ::BeasttrollMC::{ user-id=3171691 }, [Bubbleman](https://osu.ppy.sh/users/5182050), ::fartownik::{ user-id=56917 } and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
 ---
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/osu/1-we-luv-lama.jpg)](https://osu.ppy.sh/community/forums/topics/953244)
 
-[DJ Sharpnel - WE LUV LAMA](https://osu.ppy.sh/beatmapsets/862695#osu) by [-Tynamo](https://osu.ppy.sh/users/3638962)\
+[DJ Sharpnel - WE LUV LAMA](https://osu.ppy.sh/beatmapsets/862695#osu) by ::-Tynamo::{ user-id=3638962 }\
 210 BPM, 5:22 | 7.43★\
-*description written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
+*description written by ::BeasttrollMC::{ user-id=3171691 }*
 
 1025\. Very few people have the patience to count that high, but that's okay! Those who know this map will recognize this number. Not only in reference to the difficulty name, but because of one particular stream in this map. That's right, this map contains a 1025 note deathstream with zero breaks. Originally submitted back in October 2018, -Tynamo's *WE LUV LAMA* gained popularity extremely quickly after top players began to conquer this deathstream, including the likes of [Informous](https://i.imgur.com/TU1Xiey.jpg) and [Gayzmcgee](https://www.youtube.com/watch?v=WlSCV_LTpLY). Soon after, this map became one of the most well known stamina training maps for any aspiring player looking to test their endurance.
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/osu/2-asphyxia.jpg)](https://osu.ppy.sh/community/forums/topics/953243)
 
-[Co Shu Nie - asphyxia](https://osu.ppy.sh/beatmapsets/845368#osu) by [Jounzan](https://osu.ppy.sh/users/1848318)\
+[Co Shu Nie - asphyxia](https://osu.ppy.sh/beatmapsets/845368#osu) by ::Jounzan::{ user-id=1848318 }\
 117 BPM, 2:54 | 6.90★\
-*description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+*description written by ::DigitalHypno::{ user-id=4384207 }*
 
 Jounzan really does have a unique mapping style, and this map shows it off like no other. Put both your cursor control and finger control to the test with these three minutes of 165 BPM MADNESS. The map being OD 9 only makes things harder when it comes to keeping high accuracy and holding on to all those tricky sliderends. See how far you can push your mechanical skills by giving your best on this map!
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/osu/3-indifferent.jpg)](https://osu.ppy.sh/community/forums/topics/953242)
 
-[Misanthrop - Indifferent](https://osu.ppy.sh/beatmapsets/522763#osu) by [taku](https://osu.ppy.sh/users/684433)\
+[Misanthrop - Indifferent](https://osu.ppy.sh/beatmapsets/522763#osu) by ::taku::{ user-id=684433 }\
 172 BPM, 4:07 | 6.40★\
-*description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+*description written by ::DigitalHypno::{ user-id=4384207 }*
 
 taku's map of *Indifferent* is a well-executed technical map featuring constantly changing slider velocities and frequent spaced bursts. If that wording can't get the point across, the grass at the bottom of the editor can. The constant SV changes and overall mapping style capture each sound in the song in a way that's satisfying to play, so if you're keen to engaging technical maps, this is one you can't skip out on.
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/osu/4-squartatrice.jpg)](https://osu.ppy.sh/community/forums/topics/953241)
 
-[Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice](https://osu.ppy.sh/beatmapsets/40499#osu) by [soulfear](https://osu.ppy.sh/users/226171)\
+[Miki Sayaka vs. Miki Sayaka (fw. Miki Sayaka) - squartatrice](https://osu.ppy.sh/beatmapsets/40499#osu) by ::soulfear::{ user-id=226171 }\
 180 BPM, 2:09 | 1.56★ – 6.46★\
-*description written by [Toy](https://osu.ppy.sh/users/2757689)*
+*description written by ::Toy::{ user-id=2757689 }*
 
 Some of you may remember this map sparking a bit of controversy a year ago. Following some community outcry regarding soulfear's unconventional mix of old-style and modern mapping, *squartatrice* was left to rot in a shallow grave(yard). Now, it makes a return in this week's Loved vote to attempt to prove the naysayers wrong despite losing a long battle on the trenches of the Pending section. Try it out and see if this one-of-a-kind mapping style still holds up.
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/osu/5-chaoz-fantasy-extended-mix.jpg)](https://osu.ppy.sh/community/forums/topics/953239)
 
-[ParagonX9 - Chaoz Fantasy Extended Mix](https://osu.ppy.sh/beatmapsets/89799#osu) by [onlyforyou](https://osu.ppy.sh/users/597858)\
+[ParagonX9 - Chaoz Fantasy Extended Mix](https://osu.ppy.sh/beatmapsets/89799#osu) by ::onlyforyou::{ user-id=597858 }\
 162 BPM, 3:58 | 5.42★, 5.78★, 6.13★, 6.43★\
-*description written by [Toy](https://osu.ppy.sh/users/2757689)*
+*description written by ::Toy::{ user-id=2757689 }*
 
 Though many would consider this set a "practice mapset", *Chaoz Fantasy* hosts a multitude of difficulties meant to push your finger control to its absolute limit. Waves of doubles, quads, triples, and singletaps of varying BPM await you in this grueling benchmark mapset. Work your way up to a staggering 211 BPM and see what true pain, egg pain+++, feels like.
 
 ## osu!taiko
 
-osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
+osu!taiko Loved candidates were chosen by ::-Kazu-::{ user-id=920861 }, [iceOC](https://osu.ppy.sh/users/5482401), ::jyake::{ user-id=9099822 } and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
 ---
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/taiko/1-papayapa-bass.jpg)](https://osu.ppy.sh/community/forums/topics/953237)
 
-[Camellia feat. Nanahira - PAPAYAPA BASS](https://osu.ppy.sh/beatmapsets/584714#taiko) by [Nwolf](https://osu.ppy.sh/users/1910766)\
+[Camellia feat. Nanahira - PAPAYAPA BASS](https://osu.ppy.sh/beatmapsets/584714#taiko) by ::Nwolf::{ user-id=1910766 }\
 147 BPM, 2:01 | 6.37★\
-*description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
+*description written by ::-Kazu-::{ user-id=920861 }*
 
 This week we bring *PAPAYAPA BASS* to Loved as one of the most known maps in the community as it's been featured in both osu!taiko and osu!catch tournaments—it's likely to ring a bell!\
 Regarding its taiko diff, Nwolf did a great job at establishing a standard for tricky maps that are both fun to play and provide a reading challenge, offering a smooth entrance to higher levels for people who are getting into tech-y maps.
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/taiko/2-hide-away-my-heart.jpg)](https://osu.ppy.sh/community/forums/topics/953236)
 
-[MaxNRG - Hide Away My Heart](https://osu.ppy.sh/beatmapsets/693120#taiko) by [Chromoxx](https://osu.ppy.sh/users/1881639) and [Midnaait](https://osu.ppy.sh/users/1506011)\
+[MaxNRG - Hide Away My Heart](https://osu.ppy.sh/beatmapsets/693120#taiko) by ::Chromoxx::{ user-id=1881639 } and [Midnaait](https://osu.ppy.sh/users/1506011)\
 174 BPM, 2:13 | 1.41★ – 8.07★\
-*description written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
+*description written by ::nyanmi-1828::{ user-id=6866480 }*
 
 Hide Away My Heartの最高難易度であるRefugeでは、1/8が連続した高速連打が存在します。\
 このパターンは「スピナースタイル」と呼ばれ、中指と人差し指を使い、kd/dk/kd/dkのようにノーツを2つずつ右手と左手で処理する方法が一般的です。\
@@ -102,51 +102,51 @@ Refuge, the top difficulty from *Hide Away My Heart*, has fast 1/8 patterns. Thi
 
 ## osu!catch
 
-osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)! This week, all osu!catch beatmap descriptions were written by [Tenshichan](https://osu.ppy.sh/users/1101600).
+osu!catch Loved candidates were chosen by ::Tenshichan::{ user-id=1101600 }, [Sartan](https://osu.ppy.sh/users/4100941), ::Wesley::{ user-id=2407265 } and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)! This week, all osu!catch beatmap descriptions were written by ::Tenshichan::{ user-id=1101600 }.
 
 ---
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/catch/1-hurting-for-a-very-hurtful-pain.jpg)](https://osu.ppy.sh/community/forums/topics/953234)
 
-[Soraru & Lon - Hurting for a Very Hurtful Pain](https://osu.ppy.sh/beatmapsets/213083#fruits) by [Magiyu](https://osu.ppy.sh/users/1667470)\
+[Soraru & Lon - Hurting for a Very Hurtful Pain](https://osu.ppy.sh/beatmapsets/213083#fruits) by ::Magiyu::{ user-id=1667470 }\
 140 BPM, 3:00 | 5.50★
 
 Magiyu is an osu!catch player who quit the game long ago, but during the time they were active they also worked on a few maps. One of these was *Hurting for a Very Hurtful Pain*. The main eyecatcher is the various wiggle patterns throughout the map. Not all of them play the same way, so the player needs to adjust their movement constantly. The map was created before decimal values became a thing, which means that the map is set to AR 9 which might make it slightly harder to play for some players. Overall, the map is really fun to play and I can only recommend to give it a shot!
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/catch/2-blue-night.jpg)](https://osu.ppy.sh/community/forums/topics/953233)
 
-[Renard - Blue Night](https://osu.ppy.sh/beatmapsets/64842#fruits) by [DaxMasterix](https://osu.ppy.sh/users/264914) et al.\
+[Renard - Blue Night](https://osu.ppy.sh/beatmapsets/64842#fruits) by ::DaxMasterix::{ user-id=264914 } et al.\
 200 BPM, 3:35 | 4.84★
 
-DaxMasterix is known as an old-style mapper and his osu!catch difficulty of *Blue Night* is no exception. It is full of patterns which were regularly used back in the day, meaning there are a lot of jumps to look out for which might catch you off guard. The map is quite old—it was made before the hyperdash change which turned a few hyperjumps into way harder timing jumps. But nonetheless, the map still plays very well. A few jumps might require some practice to catch consistently, but other than that everything is perfectly doable. This does not mean the map is easy, but most of the top players should be able to FC the map. This mapset is hosted by [grumd](https://osu.ppy.sh/users/530913) and also contains standard difficulties.
+DaxMasterix is known as an old-style mapper and his osu!catch difficulty of *Blue Night* is no exception. It is full of patterns which were regularly used back in the day, meaning there are a lot of jumps to look out for which might catch you off guard. The map is quite old—it was made before the hyperdash change which turned a few hyperjumps into way harder timing jumps. But nonetheless, the map still plays very well. A few jumps might require some practice to catch consistently, but other than that everything is perfectly doable. This does not mean the map is easy, but most of the top players should be able to FC the map. This mapset is hosted by ::grumd::{ user-id=530913 } and also contains standard difficulties.
 
 ## osu!mania
 
-osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+osu!mania Loved candidates were chosen by ::Shoegazer::{ user-id=2520707 }, [Lenfried-](https://osu.ppy.sh/users/5314573), ::Pope Gadget::{ user-id=2288341 } and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
 ---
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/mania/1-starfall.jpg)](https://osu.ppy.sh/community/forums/topics/953231)
 
-[Kopophobia & Ajataa - Starfall](https://osu.ppy.sh/beatmapsets/762671#mania) by [riktoi](https://osu.ppy.sh/users/4940393)\
+[Kopophobia & Ajataa - Starfall](https://osu.ppy.sh/beatmapsets/762671#mania) by ::riktoi::{ user-id=4940393 }\
 240 BPM, 5:15 | \[4K\] 6.30★, \[4K\] 6.56★, \[4K\] 6.82★
 
 riktoi earns his first nominated mapset with *Starfall*. One of *Starfall*'s difficulties, Planetary Annihilation 1.1x, is notorious for being the hardest rice chart used in MWC 4K 2018, and was arguably the hardest rice chart used in any MWC up to this point.
 
 *Starfall* falls under the musical genre of dark psytrance and, as per tradition for most dark psytrance tracks, *Starfall* is a relentless dense jumpstream stamina chart with very few notable breaks. *Starfall* is also considerably faster than most dark psytrance tracks, clocking in at 240 BPM, making the chart really, really hard. The jumpstream patterns in *Starfall* are not particularly lenient either. There are many, many split jumptrill patterns layered throughout the chart and most of those patterns are present in sections where your stamina would be completely drained.
 
-Players who enjoyed [Jole](https://osu.ppy.sh/users/2883132)'s *[Peter on Crack](https://osu.ppy.sh/beatmapsets/631020#mania/1332080)* will enjoy playing through this chart.The song choice is fairly similar and the chart structures are quite similar as well. For higher-level players, this mapset is excellent for jumpstream practice. If long periods of 240 BPM dense jumpstream isn't too bad for you, then try the 1.05x and 1.1x difficulties. You'll most likely find a difficulty where you'd find your fingers or joints bleeding in one way or another.
+Players who enjoyed ::Jole::{ user-id=2883132 }'s *[Peter on Crack](https://osu.ppy.sh/beatmapsets/631020#mania/1332080)* will enjoy playing through this chart.The song choice is fairly similar and the chart structures are quite similar as well. For higher-level players, this mapset is excellent for jumpstream practice. If long periods of 240 BPM dense jumpstream isn't too bad for you, then try the 1.05x and 1.1x difficulties. You'll most likely find a difficulty where you'd find your fingers or joints bleeding in one way or another.
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/mania/2-stress.jpg)](https://osu.ppy.sh/community/forums/topics/953230)
 
-[xKore - Stress](https://osu.ppy.sh/beatmapsets/861705#mania) by [Halogen-](https://osu.ppy.sh/users/169992)\
+[xKore - Stress](https://osu.ppy.sh/beatmapsets/861705#mania) by ::Halogen-::{ user-id=169992 }\
 280 BPM, 1:37 | \[4K\] 3.15★
 
 *Stress* is a map that very directly embodies the name it was given. A brutally tough creation by Halogen-, local osu!mania sadist, *Stress* proves to provide the players with an intensely stressful experience chock-full of unexpected, unorthodox snappings and the main meat of the map: SVs that prove to be both predictable and unpredictable at the same time. Although they are sightreadable to a certain extent, they are extremely tough consisting almost completely of instantaneous jumps followed by slow approaches of the following notes, a technique that, if understood, can be played with great finesse. Without an understanding of these SV gimmicks though, it may as well be the most difficult SV chart in osu!mania's maplist making it a great target for those extreme SV enthusiasts. The map gained great exposure about as soon as it was released and it is clear why as it's so difficult, yet rewarding to play making it the perfect choice for loved.
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/mania/3-play-time.jpg)](https://osu.ppy.sh/community/forums/topics/953229)
 
-[kors k x marasy - Play Time!!](https://osu.ppy.sh/beatmapsets/429609#mania) by [qodtjr](https://osu.ppy.sh/users/3021168)\
+[kors k x marasy - Play Time!!](https://osu.ppy.sh/beatmapsets/429609#mania) by ::qodtjr::{ user-id=3021168 }\
 185 BPM, 2:53 | \[7K\] 5.53★, \[7K\] 6.52★
 
 qodtjr makes another comeback for this round of Project Loved with his map *Play Time!!*
@@ -159,7 +159,7 @@ qodtjr maps are arguably a crowd favorite and *Play Time!!* deserves a spot for 
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 
-In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank [Noffy](https://osu.ppy.sh/users/1541323), [huu](https://osu.ppy.sh/users/6044237) and [Ephemeral](https://osu.ppy.sh/users/102335) for their miscellaneous help in managing Project Loved.
+In addition to all of the Loved captains that choose the maps and write the descriptions, make sure to thank ::Noffy::{ user-id=1541323 }, [huu](https://osu.ppy.sh/users/6044237) and ::Ephemeral::{ user-id=102335 } for their miscellaneous help in managing Project Loved.
 
 If you have any suggestions for beatmaps to be added to the Loved category, please submit them using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! You can view the current submissions on the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0). For osu!mania, please use [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform) and [this Google sheet](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit) instead.
 

@@ -9,7 +9,7 @@ tags:
 
 ![112ST2019 logo](img/logo.png)
 
-The **112's Summer Tournament 2019** (***112ST***) was a double-elimination 2v2 osu! tournament started with 1v1 qualifiers hosted by ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779) and ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fourth instalment of 112's Tournaments series.
+The **112's Summer Tournament 2019** (***112ST***) was a double-elimination 2v2 osu! tournament started with 1v1 qualifiers hosted by ::{ flag=TR }:: ::112servis::{ user-id=3953470 }, ::{ flag=TR }:: ::heyronii::{ user-id=5642779 } and ::{ flag=TR }:: ::Sibyl::{ user-id=10440852 }. The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fourth instalment of 112's Tournaments series.
 
 ## Tournament schedule
 
@@ -37,14 +37,14 @@ The 112's Summer Tournament 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Mappool selector | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=TH }:: [Seaweed](https://osu.ppy.sh/users/5151214), ::{ flag=TR }:: [sentez](https://osu.ppy.sh/users/8816305) |
-| Referee | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311), ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=NL }:: [goeo_](https://osu.ppy.sh/users/6832107), ::{ flag=TR }:: [LeBoum](https://osu.ppy.sh/users/8700026), ::{ flag=TR }:: [oralekin](https://osu.ppy.sh/users/7631823), ::{ flag=TR }:: [ozge1907](https://osu.ppy.sh/users/6511453), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521) |
-| Streamer | ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=NL }:: [goeo\_](https://osu.ppy.sh/users/6832107), ::{ flag=TR }:: [pyth0nix](https://osu.ppy.sh/users/10922849) |
-| Commentator | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [bigbirb-](https://osu.ppy.sh/users/11285985), ::{ flag=TR }:: [Ekin](https://osu.ppy.sh/users/2947405), ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=TR }:: [Lxran](https://osu.ppy.sh/users/3651081), ::{ flag=TR }:: [mezelyus](https://osu.ppy.sh/users/5938859), ::{ flag=NL }:: [goeo\_](https://osu.ppy.sh/users/6832107) |
-| Designer | ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Statistician | ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779) |
-| Wiki editor | ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) |
+| Organizer | ::{ flag=TR }:: ::112servis::{ user-id=3953470 }, ::{ flag=TR }:: ::heyronii::{ user-id=5642779 }, ::{ flag=TR }:: ::Sibyl::{ user-id=10440852 } |
+| Mappool selector | ::{ flag=TR }:: ::112servis::{ user-id=3953470 }, ::{ flag=TR }:: ::heyronii::{ user-id=5642779 }, ::{ flag=TH }:: ::Seaweed::{ user-id=5151214 }, ::{ flag=TR }:: ::sentez::{ user-id=8816305 } |
+| Referee | ::{ flag=TR }:: ::112servis::{ user-id=3953470 }, ::{ flag=TR }:: ::Entry::{ user-id=10213311 }, ::{ flag=TR }:: ::heyronii::{ user-id=5642779 }, ::{ flag=NL }:: ::goeo\1::{ user-id=6832107 }, ::{ flag=TR }:: ::LeBoum::{ user-id=8700026 }, ::{ flag=TR }:: ::oralekin::{ user-id=7631823 }, ::{ flag=TR }:: ::ozge1907::{ user-id=6511453 }, ::{ flag=PL }:: ::P a t r i c k::{ user-id=6814521 } |
+| Streamer | ::{ flag=TR }:: ::heyronii::{ user-id=5642779 }, ::{ flag=NL }:: ::goeo\_::{ user-id=6832107 }, ::{ flag=TR }:: ::pyth0nix::{ user-id=10922849 } |
+| Commentator | ::{ flag=TR }:: ::112servis::{ user-id=3953470 }, ::{ flag=TR }:: ::bigbirb-::{ user-id=11285985 }, ::{ flag=TR }:: ::Ekin::{ user-id=2947405 }, ::{ flag=TR }:: ::heyronii::{ user-id=5642779 }, ::{ flag=TR }:: ::Lxran::{ user-id=3651081 }, ::{ flag=TR }:: ::mezelyus::{ user-id=5938859 }, ::{ flag=NL }:: ::goeo\_::{ user-id=6832107 } |
+| Designer | ::{ flag=TR }:: ::Sibyl::{ user-id=10440852 } |
+| Statistician | ::{ flag=TR }:: ::heyronii::{ user-id=5642779 } |
+| Wiki editor | ::{ flag=TR }:: ::Zeus-::{ user-id=5464437 } |
 
 ## Links
 
@@ -59,27 +59,27 @@ The 112's Summer Tournament 2019 was run by various community members.
 
 | Seed ranking | Players | Qualifier points |
 | :-- | :-- | :-- |
-| #1 | ::{ flag=DE }:: [-Kanzaki](https://osu.ppy.sh/users/1652478) | 1.6 |
-| #2 | ::{ flag=TR }:: [egemenbsrms](https://osu.ppy.sh/users/4520477) | 2 |
-| #3 | ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528) | 5.4 |
-| #4 | ::{ flag=TR }:: [AkashiDagara](https://osu.ppy.sh/users/6118485) | 6.2 |
-| #5 | ::{ flag=TR }:: [edizberkserbest](https://osu.ppy.sh/users/9256771) | 7.6 |
-| #6 | ::{ flag=TR }:: [star1322](https://osu.ppy.sh/users/8128670) | 8.2 |
-| #7 | ::{ flag=TR }:: [KaraElmas](https://osu.ppy.sh/users/9300293) | 8.8 |
-| #8 | ::{ flag=TR }:: [Iron Man](https://osu.ppy.sh/users/4242381) | 9.2 |
-| #9 | ::{ flag=TR }:: [dragonsaga](https://osu.ppy.sh/users/4982690) | 9.6 |
-| #10 | ::{ flag=TR }:: [exporage](https://osu.ppy.sh/users/5573525) | 10.8 |
-| #11 | ::{ flag=TR }:: [Ruushin](https://osu.ppy.sh/users/4696304) | 11 |
-| #12 | ::{ flag=TR }:: [Ekin](https://osu.ppy.sh/users/2947405) | 11 |
-| #13 | ::{ flag=TR }:: [Cynesta](https://osu.ppy.sh/users/8674027) | 13 |
-| #14 | ::{ flag=TR }:: [huckmen444](https://osu.ppy.sh/users/5019334) | 13.2 |
-| #15 | ::{ flag=TR }:: [Mr\_Ege](https://osu.ppy.sh/users/9542170) | 13.8 |
-| #16 | ::{ flag=TR }:: [Valiente](https://osu.ppy.sh/users/2617985) | 15.2 |
-| E | ::{ flag=TR }:: [Aga Kalk Sahur](https://osu.ppy.sh/users/8212609) | 15.2 |
-| E | ::{ flag=TR }:: [Duoquote](https://osu.ppy.sh/users/4920617) | 15.4 |
-| E | ::{ flag=TR }:: [SusKuN](https://osu.ppy.sh/users/9723526) | 16.8 |
-| E | ::{ flag=TR }:: [KaanKorkmaz](https://osu.ppy.sh/users/4906401) | 18.2 |
-| E | ::{ flag=TR }:: [cqyc](https://osu.ppy.sh/users/6748059) | 18.8 |
+| #1 | ::{ flag=DE }:: ::-Kanzaki::{ user-id=1652478 } | 1.6 |
+| #2 | ::{ flag=TR }:: ::egemenbsrms::{ user-id=4520477 } | 2 |
+| #3 | ::{ flag=TR }:: ::Raikouhou::{ user-id=8007528 } | 5.4 |
+| #4 | ::{ flag=TR }:: ::AkashiDagara::{ user-id=6118485 } | 6.2 |
+| #5 | ::{ flag=TR }:: ::edizberkserbest::{ user-id=9256771 } | 7.6 |
+| #6 | ::{ flag=TR }:: ::star1322::{ user-id=8128670 } | 8.2 |
+| #7 | ::{ flag=TR }:: ::KaraElmas::{ user-id=9300293 } | 8.8 |
+| #8 | ::{ flag=TR }:: ::Iron Man::{ user-id=4242381 } | 9.2 |
+| #9 | ::{ flag=TR }:: ::dragonsaga::{ user-id=4982690 } | 9.6 |
+| #10 | ::{ flag=TR }:: ::exporage::{ user-id=5573525 } | 10.8 |
+| #11 | ::{ flag=TR }:: ::Ruushin::{ user-id=4696304 } | 11 |
+| #12 | ::{ flag=TR }:: ::Ekin::{ user-id=2947405 } | 11 |
+| #13 | ::{ flag=TR }:: ::Cynesta::{ user-id=8674027 } | 13 |
+| #14 | ::{ flag=TR }:: ::huckmen444::{ user-id=5019334 } | 13.2 |
+| #15 | ::{ flag=TR }:: ::Mr\_Ege::{ user-id=9542170 } | 13.8 |
+| #16 | ::{ flag=TR }:: ::Valiente::{ user-id=2617985 } | 15.2 |
+| E | ::{ flag=TR }:: ::Aga Kalk Sahur::{ user-id=8212609 } | 15.2 |
+| E | ::{ flag=TR }:: ::Duoquote::{ user-id=4920617 } | 15.4 |
+| E | ::{ flag=TR }:: ::SusKuN::{ user-id=9723526 } | 16.8 |
+| E | ::{ flag=TR }:: ::KaanKorkmaz::{ user-id=4906401 } | 18.2 |
+| E | ::{ flag=TR }:: ::cqyc::{ user-id=6748059 } | 18.8 |
 
 \*E: Eliminated
 
@@ -87,24 +87,24 @@ The 112's Summer Tournament 2019 was run by various community members.
 
 | Seed ranking | Players | Qualifier points |
 | :-- | :-- | :-- |
-| #1 | ::{ flag=TR }:: [pyth0nix](https://osu.ppy.sh/users/10922849) | 2 |
-| #2 | ::{ flag=TR }:: [mezelyus](https://osu.ppy.sh/users/5938859) | 2.6 |
-| #3 | ::{ flag=TR }:: [Fequin](https://osu.ppy.sh/users/11665593) | 3.6 |
-| #4 | ::{ flag=TR }:: [Tsuda-](https://osu.ppy.sh/users/6713666) | 4.8 |
-| #5 | ::{ flag=TR }:: [tingirmin](https://osu.ppy.sh/users/9027514) | 5.4 |
-| #6 | ::{ flag=TR }:: [Purple_Glasses](https://osu.ppy.sh/users/9045874) | 6 |
-| #7 | ::{ flag=TR }:: [withmystyle](https://osu.ppy.sh/users/7953720) | 8.2 |
-| #8 | ::{ flag=TR }:: [empirasu](https://osu.ppy.sh/users/12500084) | 9 |
-| #9 | ::{ flag=TR }:: [emptypudding](https://osu.ppy.sh/users/11003085) | 9.4 |
-| #10 | ::{ flag=TR }:: [Ekrem Imamoglu](https://osu.ppy.sh/users/10801545) | 10.8 |
-| #11 | ::{ flag=TR }:: [sezaiemre](https://osu.ppy.sh/users/10807430) | 11.4 |
-| #12 | ::{ flag=TR }:: [aimlessplayr](https://osu.ppy.sh/users/4903088) | 11.4 |
-| #13 | ::{ flag=TR }:: [HayunGuys](https://osu.ppy.sh/users/9693852) | 13.4 |
-| #14 | ::{ flag=TR }:: [amdinstartor](https://osu.ppy.sh/users/10505284) | 13.4 |
-| #15 | ::{ flag=TR }:: [karyuunatsu](https://osu.ppy.sh/users/12575190) | 14 |
-| #16 | ::{ flag=TR }:: [Horoz](https://osu.ppy.sh/users/11614447) | 14 |
-| E | ::{ flag=TR }:: [L Lones](https://osu.ppy.sh/users/4954493) | 14.6 |
-| E | ::{ flag=TR }:: [Mikazu](https://osu.ppy.sh/users/12474487) | 17 |
+| #1 | ::{ flag=TR }:: ::pyth0nix::{ user-id=10922849 } | 2 |
+| #2 | ::{ flag=TR }:: ::mezelyus::{ user-id=5938859 } | 2.6 |
+| #3 | ::{ flag=TR }:: ::Fequin::{ user-id=11665593 } | 3.6 |
+| #4 | ::{ flag=TR }:: ::Tsuda-::{ user-id=6713666 } | 4.8 |
+| #5 | ::{ flag=TR }:: ::tingirmin::{ user-id=9027514 } | 5.4 |
+| #6 | ::{ flag=TR }:: ::Purple\1Glasses::{ user-id=9045874 } | 6 |
+| #7 | ::{ flag=TR }:: ::withmystyle::{ user-id=7953720 } | 8.2 |
+| #8 | ::{ flag=TR }:: ::empirasu::{ user-id=12500084 } | 9 |
+| #9 | ::{ flag=TR }:: ::emptypudding::{ user-id=11003085 } | 9.4 |
+| #10 | ::{ flag=TR }:: ::Ekrem Imamoglu::{ user-id=10801545 } | 10.8 |
+| #11 | ::{ flag=TR }:: ::sezaiemre::{ user-id=10807430 } | 11.4 |
+| #12 | ::{ flag=TR }:: ::aimlessplayr::{ user-id=4903088 } | 11.4 |
+| #13 | ::{ flag=TR }:: ::HayunGuys::{ user-id=9693852 } | 13.4 |
+| #14 | ::{ flag=TR }:: ::amdinstartor::{ user-id=10505284 } | 13.4 |
+| #15 | ::{ flag=TR }:: ::karyuunatsu::{ user-id=12575190 } | 14 |
+| #16 | ::{ flag=TR }:: ::Horoz::{ user-id=11614447 } | 14 |
+| E | ::{ flag=TR }:: ::L Lones::{ user-id=4954493 } | 14.6 |
+| E | ::{ flag=TR }:: ::Mikazu::{ user-id=12474487 } | 17 |
 
 \*E: Eliminated
 
@@ -116,14 +116,14 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 | Team | 1 - 15K seed | 15K+ seed |
 | :-: | :-- | :-- |
-| KaFein | ::{ flag=DE }:: [-Kanzaki](https://osu.ppy.sh/users/1652478) | ::{ flag=TR }:: [Fequin](https://osu.ppy.sh/users/11665593) |
-| bum patladın | ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528) | ::{ flag=TR }:: [Tsuda-](https://osu.ppy.sh/users/6713666) |
-| Kwk Yelleri | ::{ flag=TR }:: [KaraElmas](https://osu.ppy.sh/users/9300293) | ::{ flag=TR }:: [mezelyus](https://osu.ppy.sh/users/5938859) |
-| KFC Managers | ::{ flag=TR }:: [dragonsaga](https://osu.ppy.sh/users/4982690) | ::{ flag=TR }:: [pyth0nix](https://osu.ppy.sh/users/10922849) |
-| eTi dasmjasdk | ::{ flag=TR }:: [edizberkserbest](https://osu.ppy.sh/users/9256771) | ::{ flag=TR }:: [tingirmin](https://osu.ppy.sh/users/9027514) |
-| egemen ve aimless | ::{ flag=TR }:: [egemenbsrms](https://osu.ppy.sh/users/4520477) | ::{ flag=TR }:: [aimlessplayr](https://osu.ppy.sh/users/4903088) |
-| İsim bulamadık pingleme artık | ::{ flag=TR }:: [AkashiDagara](https://osu.ppy.sh/users/6118485) | ::{ flag=TR }:: [empirasu](https://osu.ppy.sh/users/12500084) |
-| Yürü baba fingo | ::{ flag=TR }:: [Iron Man](https://osu.ppy.sh/users/4242381) | ::{ flag=TR }:: [emptypudding](https://osu.ppy.sh/users/11003085) |
+| KaFein | ::{ flag=DE }:: ::-Kanzaki::{ user-id=1652478 } | ::{ flag=TR }:: ::Fequin::{ user-id=11665593 } |
+| bum patladın | ::{ flag=TR }:: ::Raikouhou::{ user-id=8007528 } | ::{ flag=TR }:: ::Tsuda-::{ user-id=6713666 } |
+| Kwk Yelleri | ::{ flag=TR }:: ::KaraElmas::{ user-id=9300293 } | ::{ flag=TR }:: ::mezelyus::{ user-id=5938859 } |
+| KFC Managers | ::{ flag=TR }:: ::dragonsaga::{ user-id=4982690 } | ::{ flag=TR }:: ::pyth0nix::{ user-id=10922849 } |
+| eTi dasmjasdk | ::{ flag=TR }:: ::edizberkserbest::{ user-id=9256771 } | ::{ flag=TR }:: ::tingirmin::{ user-id=9027514 } |
+| egemen ve aimless | ::{ flag=TR }:: ::egemenbsrms::{ user-id=4520477 } | ::{ flag=TR }:: ::aimlessplayr::{ user-id=4903088 } |
+| İsim bulamadık pingleme artık | ::{ flag=TR }:: ::AkashiDagara::{ user-id=6118485 } | ::{ flag=TR }:: ::empirasu::{ user-id=12500084 } |
+| Yürü baba fingo | ::{ flag=TR }:: ::Iron Man::{ user-id=4242381 } | ::{ flag=TR }:: ::emptypudding::{ user-id=11003085 } |
 
 ## Podium
 

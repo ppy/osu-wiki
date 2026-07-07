@@ -13,13 +13,13 @@ The man behind the aural wonder of hit indie game *FEZ*'s hugely popular soundtr
 
 Though some of those hit tracks like *I Am Only a Man* remain out of reach for now, we're excited to share a catalogue of **16** tracks with you, including several popular pieces from *FEZ*.
 
-[Mao](https://osu.ppy.sh/users/2204515) from the Mappers' Guild has also been hard at work creating a brand new modern showcase map set to [Wagering Lights](https://osu.ppy.sh/beatmapsets/1163910), so make sure to check it out if you want to experience the new to go with the old!
+::Mao::{ user-id=2204515 } from the Mappers' Guild has also been hard at work creating a brand new modern showcase map set to [Wagering Lights](https://osu.ppy.sh/beatmapsets/1163910), so make sure to check it out if you want to experience the new to go with the old!
 
 Check out a sample of what's available:
 
 ### Sync
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/95510) by [\[Luanny\]](https://osu.ppy.sh/users/802909)!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/95510) by ::\[Luanny\]::{ user-id=802909 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/81/previews/2150.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this classic set](https://osu.ppy.sh/beatmapsets/95510) by [\[Luanny\
 
 ### Jump Error
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/426652) by [Bonsai](https://osu.ppy.sh/users/987334)!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/426652) by ::Bonsai::{ user-id=987334 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/81/previews/2157.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this classic set](https://osu.ppy.sh/beatmapsets/426652) by [Bonsai](
 
 ### Love
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/190284) by [Leader](https://osu.ppy.sh/users/631530)!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/190284) by ::Leader::{ user-id=631530 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/81/previews/2148.mp3" type="audio/mpeg">

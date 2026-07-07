@@ -13,7 +13,7 @@ Este sistema se implementó en respuesta al cambio de función del [Quality Assu
 
 Para decidir qué Beatmap Nominators pertenecerían a cada nivel, todos los miembros de los BN recibieron una [prueba](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test). A diferencia de las pruebas anteriores, esta se diseñó para identificar problemas generales en un conjunto de mapas.
 
-En general, las puntuaciones de la prueba no eran fiables porque la mayoría de los usuarios obtuvieron puntuaciones extremadamente bajas. El plan inicial era dividir a los usuarios en niveles equitativos según los puntajes de las pruebas, pero los puntajes de las pruebas en la mitad superior eran demasiado bajos para que esa fuera una opción viable. En cambio, solo los 13 mejores usuarios con puntuaciones superiores al 50 % fueron admitidos en el segundo nivel. La puntuación más alta la obtuvo [Yuii-](https://osu.ppy.sh/users/2935923) con un 76 %.
+En general, las puntuaciones de la prueba no eran fiables porque la mayoría de los usuarios obtuvieron puntuaciones extremadamente bajas. El plan inicial era dividir a los usuarios en niveles equitativos según los puntajes de las pruebas, pero los puntajes de las pruebas en la mitad superior eran demasiado bajos para que esa fuera una opción viable. En cambio, solo los 13 mejores usuarios con puntuaciones superiores al 50 % fueron admitidos en el segundo nivel. La puntuación más alta la obtuvo ::Yuii-::{ user-id=2935923 } con un 76 %.
 
 Si bien estaba previsto crear varias pruebas para distinguir los niveles, solo se usó una a lo largo de los 5 meses de vida útil del sistema.
 

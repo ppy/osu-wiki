@@ -9,7 +9,7 @@ We're proud to welcome underground producer **False Noise** as our latest additi
 
 ![](https://assets.ppy.sh/artists/52/header.jpg)
 
-Rising to prominence in osu! during early 2017 via the [*Skyshards*](https://osu.ppy.sh/beatmapsets/606995) collaborative map by [Shiirn](https://osu.ppy.sh/users/465126) and [Mir](https://osu.ppy.sh/users/8688812), **False Noise** has been something of a cult sensation among the mapping scene for his incredibly unique and compelling musical flavour, fusing elements of drum and bass and stylistic licks from all across electronica.
+Rising to prominence in osu! during early 2017 via the [*Skyshards*](https://osu.ppy.sh/beatmapsets/606995) collaborative map by ::Shiirn::{ user-id=465126 } and [Mir](https://osu.ppy.sh/users/8688812), **False Noise** has been something of a cult sensation among the mapping scene for his incredibly unique and compelling musical flavour, fusing elements of drum and bass and stylistic licks from all across electronica.
 
 We've managed to snag **11** tracks from his wide catalogue of sound, including *Skyshards*, *Serpentine* and *Kek*, bringing people the **False Noise** they know and love, with a sprinkling of extra tracks as well.
 

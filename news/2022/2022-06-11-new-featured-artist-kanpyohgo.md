@@ -27,9 +27,9 @@ If you're somehow unaware of the hype behind **Kanpyohgo** and his song *Unmei n
 
 Try any of these maps:
 
-- [Insanely popular osu! map](https://osu.ppy.sh/beatmapsets/514980) hosted by [My Angel Azusa](https://osu.ppy.sh/users/5318910)
-- [Brand new 4K osu!mania map](https://osu.ppy.sh/beatmapsets/984737) hosted by [FAMoss](https://osu.ppy.sh/users/7707789)
-- [Loved osu!catch map](https://osu.ppy.sh/beatmapsets/454574) hosted by [dazzulay](https://osu.ppy.sh/users/1948043)
+- [Insanely popular osu! map](https://osu.ppy.sh/beatmapsets/514980) hosted by ::My Angel Azusa::{ user-id=5318910 }
+- [Brand new 4K osu!mania map](https://osu.ppy.sh/beatmapsets/984737) hosted by ::FAMoss::{ user-id=7707789 }
+- [Loved osu!catch map](https://osu.ppy.sh/beatmapsets/454574) hosted by ::dazzulay::{ user-id=1948043 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/274/Songs/Kanpyohgo%20-%20Unmei%20no%20Dark%20Side%20-Rolling%20Gothic%20Mix-.mp3" type="audio/mpeg">
@@ -37,7 +37,7 @@ Try any of these maps:
 
 ### Mannen Okigasa ni Gochui o -Festive extended-
 
-Play through [this osu! marathon](https://osu.ppy.sh/beatmapsets/301879) hosted by [wring](https://osu.ppy.sh/users/275300)!
+Play through [this osu! marathon](https://osu.ppy.sh/beatmapsets/301879) hosted by ::wring::{ user-id=275300 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/274/Songs/Kanpyohgo%20-%20Mannen%20Okigasa%20ni%20Gochui%20o%20-Festive%20Extended-.mp3" type="audio/mpeg">
@@ -45,7 +45,7 @@ Play through [this osu! marathon](https://osu.ppy.sh/beatmapsets/301879) hosted 
 
 ### Tozaseshi Kumo no Kayoiji -Stormy Extended-
 
-Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1783062) by [Halfslashed](https://osu.ppy.sh/users/4598899)!
+Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1783062) by ::Halfslashed::{ user-id=4598899 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/274/Songs/Kanpyohgo%20-%20Tozaseshi%20Kumo%20no%20Kayoiji%20-Stormy%20Extended-.mp3" type="audio/mpeg">

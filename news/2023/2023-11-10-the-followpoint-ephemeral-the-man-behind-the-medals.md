@@ -9,7 +9,7 @@ Come join us to delve into the science and magnets behind medals with Ephemeral,
 
 ![](/wiki/shared/news/2023-11-10-the-followpoint-ephemeral-the-man-behind-the-medals/banner.jpg)
 
-Welcome to **The Followpoint**, a brand-new series of interview-style podcasts with a different guest each release! This time around we were joined by [Ephemeral](https://osu.ppy.sh/users/102335), the swole seagull who is in charge of all the magic behind [medals](/wiki/Medals)!
+Welcome to **The Followpoint**, a brand-new series of interview-style podcasts with a different guest each release! This time around we were joined by ::Ephemeral::{ user-id=102335 }, the swole seagull who is in charge of all the magic behind [medals](/wiki/Medals)!
 
 Ephemeral is a bit of an ever-present figure in osu!. Players as ancient as him may remember him for making [one of the (top 200) most played beatmaps of all time](https://osu.ppy.sh/beatmapsets/10435), but most people know him for being a "community manager", having a hand in many things going on in the back-end.
 

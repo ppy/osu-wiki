@@ -13,7 +13,7 @@ From playing rhythm games to composing music for them, **tokiwa** is a Japanese 
 
 [**tokiwa**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/202) has **8** tracks for you to sink your teeth into. New mappers are permitted to gum the tracks too.
 
-[Mocaotic](https://osu.ppy.sh/users/9487458) of the Mappers' Guild is here to kick things off with their beatmap of [*wasurena feat. Sennzai*](https://osu.ppy.sh/beatmapsets/1496234). Experience how **tokiwa**'s music translates to mapping through the minimalist osu! experience below, then sift through the rest of the maps/previews:
+::Mocaotic::{ user-id=9487458 } of the Mappers' Guild is here to kick things off with their beatmap of [*wasurena feat. Sennzai*](https://osu.ppy.sh/beatmapsets/1496234). Experience how **tokiwa**'s music translates to mapping through the minimalist osu! experience below, then sift through the rest of the maps/previews:
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ From playing rhythm games to composing music for them, **tokiwa** is a Japanese 
 
 ### wasurena feat. Sennzai
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1496234) hosted by [Mocaotic](https://osu.ppy.sh/users/9487458) from the video above!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1496234) hosted by ::Mocaotic::{ user-id=9487458 } from the video above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/202/Songs/tokiwa%20-%20Wasurena%20feat.%20Sennzai.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1496234) hosted by 
 
 ### Syuou Sange
 
-Explore this future bass classic through [an osu! map](https://osu.ppy.sh/beatmapsets/1387277) hosted by [Ayate](https://osu.ppy.sh/users/18319978) or [an osu!mania map](https://osu.ppy.sh/beatmapsets/1265840) hosted by [DarkistDeci](https://osu.ppy.sh/users/13360768)!
+Explore this future bass classic through [an osu! map](https://osu.ppy.sh/beatmapsets/1387277) hosted by ::Ayate::{ user-id=18319978 } or [an osu!mania map](https://osu.ppy.sh/beatmapsets/1265840) hosted by ::DarkistDeci::{ user-id=13360768 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/202/Songs/tokiwa%20-%20Syuou%20Sange.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Explore this future bass classic through [an osu! map](https://osu.ppy.sh/beatma
 
 ### Memoirs feat. Aitsuki Nakuru
 
-Try [the osu!taiko + osu!mania map](https://osu.ppy.sh/beatmapsets/976366) hosted by [_Kobii](https://osu.ppy.sh/users/6209713) that put **tokiwa** on the radar!
+Try [the osu!taiko + osu!mania map](https://osu.ppy.sh/beatmapsets/976366) hosted by ::\1Kobii::{ user-id=6209713 } that put **tokiwa** on the radar!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/202/Songs/tokiwa%20-%20Memoirs%20feat.%20Aitsuki%20Nakuru.mp3" type="audio/mpeg">

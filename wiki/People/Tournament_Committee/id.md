@@ -25,28 +25,28 @@ Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat meng
 
 ## Anggota
 
-- ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
-- ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
-- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
-- ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619)
-- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
-- ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
-- ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
-- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
-- ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
-- ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
-- ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)
-- ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973)
+- ::{ flag=FR }:: ::\1yosh::{ user-id=7157133 }
+- ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 }
+- ::{ flag=US }:: ::ChillierPear::{ user-id=9501251 }
+- ::{ flag=US }:: ::D I O::{ user-id=3958619 }
+- ::{ flag=BR }:: ::LeoFLT::{ user-id=3668779 }
+- ::{ flag=SE }:: ::Raphalge::{ user-id=3918650 }
+- ::{ flag=US }:: ::Snowleopard::{ user-id=3790227 }
+- ::{ flag=FR }:: ::ThePooN::{ user-id=718454 }
+- ::{ flag=US }:: ::this1neguy::{ user-id=1797189 }
+- ::{ flag=CL }:: ::WalterToro::{ user-id=5281416 }
+- ::{ flag=NL }:: ::Wesley::{ user-id=2407265 }
+- ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }
 
 ## Alumni
 
-- ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
-- ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
-- ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
-- ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
-- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
-- ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
-- ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
-- ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
-- ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
-- ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)
+- ::{ flag=FR }:: ::\1yosh::{ user-id=7157133 }
+- ::{ flag=CA }:: ::Azer::{ user-id=2155578 }
+- ::{ flag=AR }:: ::juankristal::{ user-id=443656 }
+- ::{ flag=FR }:: ::Kasumi-sama::{ user-id=6177263 }
+- ::{ flag=BR }:: ::LeoFLT::{ user-id=3668779 }
+- ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 }
+- ::{ flag=NL }:: ::n0ah::{ user-id=3086393 }
+- ::{ flag=US }:: ::Stage::{ user-id=8191845 }
+- ::{ flag=CL }:: ::WalterToro::{ user-id=5281416 }
+- ::{ flag=NL }:: ::Wesley::{ user-id=2407265 }

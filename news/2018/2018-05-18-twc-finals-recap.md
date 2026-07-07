@@ -41,7 +41,7 @@ And that wraps up all the matches for this year! Here's how the entire eliminati
 
 ### Finals Mappool
 
-There was bound to be diversity in the picks, since teams required a whole 7 map wins in order to win in this stage. As the work for the mappool selectors this year has come to an end, here is a closing comment from [mangomizer](https://osu.ppy.sh/users/1893718):
+There was bound to be diversity in the picks, since teams required a whole 7 map wins in order to win in this stage. As the work for the mappool selectors this year has come to an end, here is a closing comment from ::mangomizer::{ user-id=1893718 }:
 
 "It may come as a surprise to you that the Finals Mappool was the second mappool we started work on, immediately following Group Stage. This was done as a precaution to avoid having a repeat of the thermal runaway mappool that almost killed everyone last year. In spite of this, the Finals Mappool still ended up being extremely difficult – perhaps even more challenging than last year. We are thankful to have started this early, as it gave us more time to ensure the balance of the mappool.
 
@@ -61,7 +61,7 @@ We also saw some mid-seeded teams really step up this year. Hong Kong taking Can
 
 [You can also watch the entire Grand Finals segment over on the official osu! YouTube channel if you missed it!](https://youtu.be/1m3A_Fh6gSk), or check out [osulive on Twitch](https://www.twitch.tv/osulive) for VODs of the past matches live, including chat!
 
-For more information surrounding the tournament, you can check out [the wiki page](/wiki/Tournaments/TWC/2018) or [the statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#) by [Nwolf](https://osu.ppy.sh/users/1910766) and [deadbeat](https://osu.ppy.sh/users/128370).
+For more information surrounding the tournament, you can check out [the wiki page](/wiki/Tournaments/TWC/2018) or [the statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#) by ::Nwolf::{ user-id=1910766 } and [deadbeat](https://osu.ppy.sh/users/128370).
 
 Now then, it's time to set our sights on the next event, which is the osu!catch World Cup 2018 starting in June. Feel free to hype it up in [the discussion thread](https://osu.ppy.sh/community/forums/topics/739799) while we wait.
 

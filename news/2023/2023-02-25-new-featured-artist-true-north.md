@@ -23,7 +23,7 @@ Enough words. Let your ears take it from here:
 
 ### True North - Fake Love
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1440001) hosted by [nemidnight](https://osu.ppy.sh/users/14204590)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1440001) hosted by ::nemidnight::{ user-id=14204590 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/344/Fake%20Love%2FTrue%20North%20-%20Fake%20Love.mp3">

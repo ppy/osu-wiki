@@ -23,7 +23,7 @@ The genres explored in **Aethoro**'s music are fairly new to the Featured Artist
 
 ### Woodfairies
 
-Check out [this mapset from the video above](https://osu.ppy.sh/beatmapsets/1309729) hosted by [verychill](https://osu.ppy.sh/users/10132936)!
+Check out [this mapset from the video above](https://osu.ppy.sh/beatmapsets/1309729) hosted by ::verychill::{ user-id=10132936 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/153/Spiritdance/Aethoro%20-%20Woodfairies.mp3" type="audio/mpeg">

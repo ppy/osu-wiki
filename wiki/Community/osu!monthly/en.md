@@ -4,7 +4,7 @@
 
 ## Original magazine run (2011)
 
-The original run of osu!monthly, founded by ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985) and ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270), ran from March to October 2011. It started as a Google document, but quickly evolved into a PDF format resembling a print magazine. This run was well known for its wide variety of articles as well as its distinct and creative artistic direction.
+The original run of osu!monthly, founded by ::{ flag=US }:: ::jjrocks::{ user-id=30985 } and ::{ flag=GB }:: ::Corin::{ user-id=639270 }, ran from March to October 2011. It started as a Google document, but quickly evolved into a PDF format resembling a print magazine. This run was well known for its wide variety of articles as well as its distinct and creative artistic direction.
 
 More information can be found on [jjrocks's website](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html) (archived). Various links regarding the project are at the bottom of [the osu!monthly website](https://osumonthly.com/).
 
@@ -19,7 +19,7 @@ More information can be found on [jjrocks's website](https://web.archive.org/web
 
 ## Magazine revival (2017–2018)
 
-Inspired by the first run of osu!monthly, ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) and ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) founded a new team with the goal of continuing the project where it left off. New iterations of the magazine were published from October 2017 to February 2018.
+Inspired by the first run of osu!monthly, ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 } and ::{ flag=US }:: ::clayton::{ user-id=3666350 } founded a new team with the goal of continuing the project where it left off. New iterations of the magazine were published from October 2017 to February 2018.
 
 More information can be found on [its website](https://osumonthly.com/).
 
@@ -31,7 +31,7 @@ More information can be found on [its website](https://osumonthly.com/).
 
 ## News posts (2022–2023)
 
-With a desire to bring the project back in a more modern form, ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) led a new team to revive the project again, this time as news posts on the osu! website. The series ran editions from July 2022 to March 2023, focusing more heavily on current events and monthly recaps covering various topics.
+With a desire to bring the project back in a more modern form, ::{ flag=RS }:: ::0x84f::{ user-id=7944724 } led a new team to revive the project again, this time as news posts on the osu! website. The series ran editions from July 2022 to March 2023, focusing more heavily on current events and monthly recaps covering various topics.
 
 | Name | Date of publication |
 | :-- | :-- |
@@ -49,9 +49,9 @@ With a desire to bring the project back in a more modern form, ::{ flag=RS }:: [
 
 | Position | Member(s) |
 | :-- | :-- |
-| Maintainer | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724), ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag=FR }:: [Pisapou](https://osu.ppy.sh/users/16640021), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
-| Writer | ::{ flag=CA }:: [ianpep](https://osu.ppy.sh/users/7699030), ::{ flag=ES }:: [kadoen](https://osu.ppy.sh/users/12780575), ::{ flag=ES }:: [Patatitta](https://osu.ppy.sh/users/16294034), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) |
-| Trivia tinkerer | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680), ::{ flag=HR }:: [Kurboh](https://osu.ppy.sh/users/15243233) |
-| Graphic designer | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233), ::{ flag=US }:: [jacksonisiah](https://osu.ppy.sh/users/10739248), ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965), ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966) |
-| Helper | ::{ flag=ID }:: [Wowcake](https://osu.ppy.sh/users/16121851) |
-| Informant | ::{ flag=FI }:: [Nowaie](https://osu.ppy.sh/users/5428909), ::{ flag=US }:: [olc](https://osu.ppy.sh/users/7081160), ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) and the [skinship team](https://skinship.xyz/), ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) |
+| Maintainer | ::{ flag=RS }:: ::0x84f::{ user-id=7944724 }, ::{ flag=US }:: ::Blushing::{ user-id=5927823 }, ::{ flag=FR }:: ::Pisapou::{ user-id=16640021 }, ::{ flag=SE }:: ::Walavouchey::{ user-id=5773079 } |
+| Writer | ::{ flag=CA }:: ::ianpep::{ user-id=7699030 }, ::{ flag=ES }:: ::kadoen::{ user-id=12780575 }, ::{ flag=ES }:: ::Patatitta::{ user-id=16294034 }, ::{ flag=ES }:: ::RandomeLoL::{ user-id=7080063 } |
+| Trivia tinkerer | ::{ flag=GB }:: ::chromb::{ user-id=10238680 }, ::{ flag=HR }:: ::Kurboh::{ user-id=15243233 } |
+| Graphic designer | ::{ flag=ID }:: ::Dreamxiety::{ user-id=13103233 }, ::{ flag=US }:: ::jacksonisiah::{ user-id=10739248 }, ::{ flag=GB }:: ::Tanza3D::{ user-id=10379965 }, ::{ flag=MY }:: ::\1Zeth\1::{ user-id=9912966 } |
+| Helper | ::{ flag=ID }:: ::Wowcake::{ user-id=16121851 } |
+| Informant | ::{ flag=FI }:: ::Nowaie::{ user-id=5428909 }, ::{ flag=US }:: ::olc::{ user-id=7081160 }, ::{ flag=DE }:: ::RockRoller::{ user-id=8388854 } and the [skinship team](https://skinship.xyz/), ::{ flag=US }:: ::wafer::{ user-id=9416836 } |

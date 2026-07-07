@@ -7,7 +7,7 @@ tags:
 
 # UK Community Cup 2
 
-The **UK Community Cup 2** (***UKCC2***) was a British 2v2 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) and ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379). It was the second instalment of the UK Community Cup series and the series' first 2v2 competition.
+The **UK Community Cup 2** (***UKCC2***) was a British 2v2 double-elimination osu! tournament hosted by ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 } and ::{ flag=GB }:: ::Jerome::{ user-id=3391379 }. It was the second instalment of the UK Community Cup series and the series' first 2v2 competition.
 
 ## Tournament schedule
 
@@ -29,10 +29,10 @@ The UK Community Cup 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379) |
-| Mappool selector | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=AT }:: [omgforz](https://osu.ppy.sh/users/5182050), ::{ flag=DE }:: [Kite](https://osu.ppy.sh/users/134572), ::{ flag=MY }:: [\[ -Scarlet- \]](https://osu.ppy.sh/users/2427693) |
-| Streamer | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Zainny](https://osu.ppy.sh/users/4621060), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=GB }:: [Helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
-| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=FI }:: [LefafeI](https://osu.ppy.sh/users/2295850), ::{ flag=GB }:: [minorman4](https://osu.ppy.sh/users/4837257), ::{ flag=GB }:: [minorman4](https://osu.ppy.sh/users/6566765), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647), ::{ flag=GB }:: [Scootawoo](https://osu.ppy.sh/users/1464467), ::{ flag=GB }:: [- Isozaki -](https://osu.ppy.sh/users/3987676), ::{ flag=GB }:: [Pobe](https://osu.ppy.sh/users/6340618) |
+| Host | ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 }, ::{ flag=GB }:: ::Jerome::{ user-id=3391379 } |
+| Mappool selector | ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 }, ::{ flag=AT }:: ::omgforz::{ user-id=5182050 }, ::{ flag=DE }:: ::Kite::{ user-id=134572 }, ::{ flag=MY }:: ::\[ -Scarlet- \]::{ user-id=2427693 } |
+| Streamer | ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 }, ::{ flag=GB }:: ::Zainny::{ user-id=4621060 }, ::{ flag=GB }:: ::Karthy::{ user-id=4196808 }, ::{ flag=GB }:: ::Helix::{ user-id=3322597 }, ::{ flag=GB }:: ::Doomsday::{ user-id=18983 } |
+| Referee | ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=FI }:: ::LefafeI::{ user-id=2295850 }, ::{ flag=GB }:: ::minorman4::{ user-id=4837257 }, ::{ flag=GB }:: ::minorman4::{ user-id=6566765 }, ::{ flag=GB }:: ::Pelzio::{ user-id=4775226 }, ::{ flag=GB }:: ::AlexDark69::{ user-id=5146647 }, ::{ flag=GB }:: ::Scootawoo::{ user-id=1464467 }, ::{ flag=GB }:: ::- Isozaki -::{ user-id=3987676 }, ::{ flag=GB }:: ::Pobe::{ user-id=6340618 } |
 
 ## Links
 
@@ -46,50 +46,50 @@ The UK Community Cup 2 was run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **British Hackers** | ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=GB }:: [AlexDark69](https://osu.ppy.sh/users/5146647) |
-| **tv size** | ::{ flag=GB }:: [Kuramu](https://osu.ppy.sh/users/4159167), ::{ flag=GB }:: [Uzairr](https://osu.ppy.sh/users/4542811) |
-| **Best England Player +1** | ::{ flag=GB }:: [Snookie](https://osu.ppy.sh/users/1484934), ::{ flag=GB }:: [Scootawoo](https://osu.ppy.sh/users/1464467) |
-| **Washed Up** | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378) |
-| **Room 24** | ::{ flag=GB }:: [Jameslike](https://osu.ppy.sh/users/2415743), ::{ flag=GB }:: [humble0102](https://osu.ppy.sh/users/2938909) |
-| **Emilia is ok** | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=GB }:: [Spook](https://osu.ppy.sh/users/2232928) |
-| **Trump \| Pence** | ::{ flag=GB }:: [dong](https://osu.ppy.sh/users/4422446), ::{ flag=GB }:: [Jimzzyyy](https://osu.ppy.sh/users/3600441) |
-| **Best FriendS** | ::{ flag=GB }:: [Alphabet](https://osu.ppy.sh/users/4879380), ::{ flag=GB }:: [Chemistry](https://osu.ppy.sh/users/6069540) |
-| **benis** | ::{ flag=GB }:: [bahamete](https://osu.ppy.sh/users/960620), ::{ flag=GB }:: [Ommetaphobia](https://osu.ppy.sh/users/3082695) |
-| **papaya** | ::{ flag=GB }:: [Kardet](https://osu.ppy.sh/users/1438509), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597) |
-| **Yaz's Loli's XD** | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972) |
-| **THE --KURANTIUNIFROSTOASCENDCOLUMNABUTLER1=W= HABANERO** | ::{ flag=GR }:: [-Raijin](https://osu.ppy.sh/users/5380583), ::{ flag=GB }:: [-Kisaki](https://osu.ppy.sh/users/7305067) |
-| **jack\_rotmg** | ::{ flag=GB }:: [Litgib](https://osu.ppy.sh/users/3229629), ::{ flag=GB }:: [\[ J \]](https://osu.ppy.sh/users/4110445) |
-| **Trenchcoat Mafia** | ::{ flag=GB }:: [icecream-chan](https://osu.ppy.sh/users/4776591), ::{ flag=GB }:: [Chug](https://osu.ppy.sh/users/5097341) |
-| **Global Elight** | ::{ flag=IE }:: [Aernat](https://osu.ppy.sh/users/4073754), ::{ flag=IE }:: [Tripp](https://osu.ppy.sh/users/3480201) |
-| **Spare Fish** | ::{ flag=GB }:: [001thefish](https://osu.ppy.sh/users/4121535), ::{ flag=GB }:: [Spare](https://osu.ppy.sh/users/2204373) |
-| **Jem Is Fat** | ::{ flag=GB }:: [MaxTheSquirrel](https://osu.ppy.sh/users/6741042), ::{ flag=GB }:: [Obese](https://osu.ppy.sh/users/3937808) |
-| **Don't let your memes be dreams** | ::{ flag=GB }:: [-Cephus-](https://osu.ppy.sh/users/3373206), ::{ flag=GB }:: [RojasowyPL](https://osu.ppy.sh/users/3027841) |
-| **Team PogChamp** | ::{ flag=GB }:: [ifailedatlife](https://osu.ppy.sh/users/6331918), ::{ flag=GB }:: [Kakiage](https://osu.ppy.sh/users/3104031) |
-| **Click the simple closed shapes in euclidean geometry to the basic unit of time of the mensural level** | ::{ flag=GB }:: [Summer Solstice](https://osu.ppy.sh/users/3233710), ::{ flag=GB }:: [YunoWhoItIs](https://osu.ppy.sh/users/1331455) |
-| **Super Trash Losers** | ::{ flag=GB }:: [toadee](https://osu.ppy.sh/users/6080429), ::{ flag=US }:: [Bengay202](https://osu.ppy.sh/users/5263789) |
-| **Brexited to Trump** | ::{ flag=GB }:: [S\_Zizzle](https://osu.ppy.sh/users/7599813), ::{ flag=GB }:: [Ascended](https://osu.ppy.sh/users/7067894) |
-| **Smiling face with open mouth and tightly closed eyes** | ::{ flag=GB }:: [Wario](https://osu.ppy.sh/users/4361729), ::{ flag=GB }:: [Toadstool](https://osu.ppy.sh/users/3741296) |
-| **UR8 Gameboy Luke here** | ::{ flag=GB }:: [Faulks](https://osu.ppy.sh/users/3763175), ::{ flag=GB }:: [Sithlordben](https://osu.ppy.sh/users/8112797) |
-| **Houkago Double Time** | ::{ flag=GB }:: [Dag](https://osu.ppy.sh/users/4045400), ::{ flag=GB }:: [RedKing](https://osu.ppy.sh/users/2754924) |
-| **OwO** | ::{ flag=GB }:: [Darkdog](https://osu.ppy.sh/users/2931939), ::{ flag=GB }:: [NickTSMITW](https://osu.ppy.sh/users/923224) |
-| **We'll think of something later** | ::{ flag=GB }:: [Xim](https://osu.ppy.sh/users/2083664), ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142) |
-| **Its just a name** | ::{ flag=GB }:: [Naruhodo](https://osu.ppy.sh/users/1986262/), ::{ flag=GB }:: [m a w a r e-](https://osu.ppy.sh/users/2166072) |
-| **FriedShrimp** | ::{ flag=GB }:: [Hii](https://osu.ppy.sh/users/5475585), ::{ flag=GB }:: [feliciaforever](https://osu.ppy.sh/users/6177798) |
-| **Serpent Pigeons** | ::{ flag=GB }:: [Sobriquet](https://osu.ppy.sh/users/3891023), ::{ flag=GB }:: [ShadowDrake77](https://osu.ppy.sh/users/4823119) |
-| **SPICY KEBBABS** | ::{ flag=GB }:: [Proteus](https://osu.ppy.sh/users/4073572), ::{ flag=GB }:: [-MoeYandere-](https://osu.ppy.sh/users/2565902) |
-| **Tequila Slammers** | ::{ flag=GB }:: [Tassadar](https://osu.ppy.sh/users/3135193), ::{ flag=GB }:: [MarcusTequila](https://osu.ppy.sh/users/4325664) |
-| **We are pepsi one** | ::{ flag=GB }:: [OskaRRRitoS](https://osu.ppy.sh/users/7051163), ::{ flag=GB }:: [Supev](https://osu.ppy.sh/users/7383111) |
-| **Blood Brothers** | ::{ flag=GB }:: [Kixs Student](https://osu.ppy.sh/users/6761714), ::{ flag=CA }:: [Squapple](https://osu.ppy.sh/users/6826036) |
-| **Team Blart -1** | ::{ flag=GB }:: [\[ fantasy \]](https://osu.ppy.sh/users/2578541), ::{ flag=GB }:: [Pudol](https://osu.ppy.sh/users/9187647) |
-| **Article 50** | ::{ flag=GB }:: [minorman4](https://osu.ppy.sh/users/4837257), ::{ flag=GB }:: [Dovahcake](https://osu.ppy.sh/users/6235181) |
-| **According to all known laws of aviation, there is no way a bee should be able to fly.** | ::{ flag=GB }:: [Poi Panda](https://osu.ppy.sh/users/4693956), ::{ flag=GB }:: [Pyrooo](https://osu.ppy.sh/users/5276579) |
-| **N/A** | ::{ flag=GB }:: [Nega](https://osu.ppy.sh/users/3181083), ::{ flag=GB }:: [God Bless You](https://osu.ppy.sh/users/5338466) |
-| **Anything you want to put ahaha im not bothered :')** | ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=GB }:: [Doughy](https://osu.ppy.sh/users/5275937) |
-| **Pff who needs accuracy?** | ::{ flag=GB }:: [Misti](https://osu.ppy.sh/users/3425197), ::{ flag=GB }:: [Gazza](https://osu.ppy.sh/users/3648459) |
-| **Will win by no show** | ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [mjozog3](https://osu.ppy.sh/users/4785993) |
-| **The Fingernails** | ::{ flag=GB }:: [FlowR](https://osu.ppy.sh/users/2245830), ::{ flag=GB }:: [rockstarrzz](https://osu.ppy.sh/users/4221626) |
-| **Shitmissers** | ::{ flag=GB }:: [NotToBlame](https://osu.ppy.sh/users/5489311), ::{ flag=GB }:: [Majoreh](https://osu.ppy.sh/users/7959222) |
-| **huy pls** | ::{ flag=GB }:: [RndGuy](https://osu.ppy.sh/users/1201586), ::{ flag=GB }:: [awesampimp](https://osu.ppy.sh/users/7554712) |
+| **British Hackers** | ::{ flag=GB }:: ::SteffoST::{ user-id=6566765 }, ::{ flag=GB }:: ::AlexDark69::{ user-id=5146647 } |
+| **tv size** | ::{ flag=GB }:: ::Kuramu::{ user-id=4159167 }, ::{ flag=GB }:: ::Uzairr::{ user-id=4542811 } |
+| **Best England Player +1** | ::{ flag=GB }:: ::Snookie::{ user-id=1484934 }, ::{ flag=GB }:: ::Scootawoo::{ user-id=1464467 } |
+| **Washed Up** | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::Doomsday is Bad::{ user-id=3481378 } |
+| **Room 24** | ::{ flag=GB }:: ::Jameslike::{ user-id=2415743 }, ::{ flag=GB }:: ::humble0102::{ user-id=2938909 } |
+| **Emilia is ok** | ::{ flag=GB }:: ::Pelzio::{ user-id=4775226 }, ::{ flag=GB }:: ::Spook::{ user-id=2232928 } |
+| **Trump \| Pence** | ::{ flag=GB }:: ::dong::{ user-id=4422446 }, ::{ flag=GB }:: ::Jimzzyyy::{ user-id=3600441 } |
+| **Best FriendS** | ::{ flag=GB }:: ::Alphabet::{ user-id=4879380 }, ::{ flag=GB }:: ::Chemistry::{ user-id=6069540 } |
+| **benis** | ::{ flag=GB }:: ::bahamete::{ user-id=960620 }, ::{ flag=GB }:: ::Ommetaphobia::{ user-id=3082695 } |
+| **papaya** | ::{ flag=GB }:: ::Kardet::{ user-id=1438509 }, ::{ flag=GB }:: ::helix::{ user-id=3322597 } |
+| **Yaz's Loli's XD** | ::{ flag=GB }:: ::Karthy::{ user-id=4196808 }, ::{ flag=GB }:: ::Bae-::{ user-id=6576972 } |
+| **THE --KURANTIUNIFROSTOASCENDCOLUMNABUTLER1=W= HABANERO** | ::{ flag=GR }:: ::-Raijin::{ user-id=5380583 }, ::{ flag=GB }:: ::-Kisaki::{ user-id=7305067 } |
+| **jack\_rotmg** | ::{ flag=GB }:: ::Litgib::{ user-id=3229629 }, ::{ flag=GB }:: ::\[ J \]::{ user-id=4110445 } |
+| **Trenchcoat Mafia** | ::{ flag=GB }:: ::icecream-chan::{ user-id=4776591 }, ::{ flag=GB }:: ::Chug::{ user-id=5097341 } |
+| **Global Elight** | ::{ flag=IE }:: ::Aernat::{ user-id=4073754 }, ::{ flag=IE }:: ::Tripp::{ user-id=3480201 } |
+| **Spare Fish** | ::{ flag=GB }:: ::001thefish::{ user-id=4121535 }, ::{ flag=GB }:: ::Spare::{ user-id=2204373 } |
+| **Jem Is Fat** | ::{ flag=GB }:: ::MaxTheSquirrel::{ user-id=6741042 }, ::{ flag=GB }:: ::Obese::{ user-id=3937808 } |
+| **Don't let your memes be dreams** | ::{ flag=GB }:: ::-Cephus-::{ user-id=3373206 }, ::{ flag=GB }:: ::RojasowyPL::{ user-id=3027841 } |
+| **Team PogChamp** | ::{ flag=GB }:: ::ifailedatlife::{ user-id=6331918 }, ::{ flag=GB }:: ::Kakiage::{ user-id=3104031 } |
+| **Click the simple closed shapes in euclidean geometry to the basic unit of time of the mensural level** | ::{ flag=GB }:: ::Summer Solstice::{ user-id=3233710 }, ::{ flag=GB }:: ::YunoWhoItIs::{ user-id=1331455 } |
+| **Super Trash Losers** | ::{ flag=GB }:: ::toadee::{ user-id=6080429 }, ::{ flag=US }:: ::Bengay202::{ user-id=5263789 } |
+| **Brexited to Trump** | ::{ flag=GB }:: ::S\_Zizzle::{ user-id=7599813 }, ::{ flag=GB }:: ::Ascended::{ user-id=7067894 } |
+| **Smiling face with open mouth and tightly closed eyes** | ::{ flag=GB }:: ::Wario::{ user-id=4361729 }, ::{ flag=GB }:: ::Toadstool::{ user-id=3741296 } |
+| **UR8 Gameboy Luke here** | ::{ flag=GB }:: ::Faulks::{ user-id=3763175 }, ::{ flag=GB }:: ::Sithlordben::{ user-id=8112797 } |
+| **Houkago Double Time** | ::{ flag=GB }:: ::Dag::{ user-id=4045400 }, ::{ flag=GB }:: ::RedKing::{ user-id=2754924 } |
+| **OwO** | ::{ flag=GB }:: ::Darkdog::{ user-id=2931939 }, ::{ flag=GB }:: ::NickTSMITW::{ user-id=923224 } |
+| **We'll think of something later** | ::{ flag=GB }:: ::Xim::{ user-id=2083664 }, ::{ flag=GB }:: ::OPJames::{ user-id=4117142 } |
+| **Its just a name** | ::{ flag=GB }:: ::Naruhodo::{ user-id=1986262 }, ::{ flag=GB }:: ::m a w a r e-::{ user-id=2166072 } |
+| **FriedShrimp** | ::{ flag=GB }:: ::Hii::{ user-id=5475585 }, ::{ flag=GB }:: ::feliciaforever::{ user-id=6177798 } |
+| **Serpent Pigeons** | ::{ flag=GB }:: ::Sobriquet::{ user-id=3891023 }, ::{ flag=GB }:: ::ShadowDrake77::{ user-id=4823119 } |
+| **SPICY KEBBABS** | ::{ flag=GB }:: ::Proteus::{ user-id=4073572 }, ::{ flag=GB }:: ::-MoeYandere-::{ user-id=2565902 } |
+| **Tequila Slammers** | ::{ flag=GB }:: ::Tassadar::{ user-id=3135193 }, ::{ flag=GB }:: ::MarcusTequila::{ user-id=4325664 } |
+| **We are pepsi one** | ::{ flag=GB }:: ::OskaRRRitoS::{ user-id=7051163 }, ::{ flag=GB }:: ::Supev::{ user-id=7383111 } |
+| **Blood Brothers** | ::{ flag=GB }:: ::Kixs Student::{ user-id=6761714 }, ::{ flag=CA }:: ::Squapple::{ user-id=6826036 } |
+| **Team Blart -1** | ::{ flag=GB }:: ::\[ fantasy \]::{ user-id=2578541 }, ::{ flag=GB }:: ::Pudol::{ user-id=9187647 } |
+| **Article 50** | ::{ flag=GB }:: ::minorman4::{ user-id=4837257 }, ::{ flag=GB }:: ::Dovahcake::{ user-id=6235181 } |
+| **According to all known laws of aviation, there is no way a bee should be able to fly.** | ::{ flag=GB }:: ::Poi Panda::{ user-id=4693956 }, ::{ flag=GB }:: ::Pyrooo::{ user-id=5276579 } |
+| **N/A** | ::{ flag=GB }:: ::Nega::{ user-id=3181083 }, ::{ flag=GB }:: ::God Bless You::{ user-id=5338466 } |
+| **Anything you want to put ahaha im not bothered :')** | ::{ flag=GB }:: ::Electovoid::{ user-id=6648263 }, ::{ flag=GB }:: ::Doughy::{ user-id=5275937 } |
+| **Pff who needs accuracy?** | ::{ flag=GB }:: ::Misti::{ user-id=3425197 }, ::{ flag=GB }:: ::Gazza::{ user-id=3648459 } |
+| **Will win by no show** | ::{ flag=GB }:: ::djsettle::{ user-id=4010354 }, ::{ flag=GB }:: ::mjozog3::{ user-id=4785993 } |
+| **The Fingernails** | ::{ flag=GB }:: ::FlowR::{ user-id=2245830 }, ::{ flag=GB }:: ::rockstarrzz::{ user-id=4221626 } |
+| **Shitmissers** | ::{ flag=GB }:: ::NotToBlame::{ user-id=5489311 }, ::{ flag=GB }:: ::Majoreh::{ user-id=7959222 } |
+| **huy pls** | ::{ flag=GB }:: ::RndGuy::{ user-id=1201586 }, ::{ flag=GB }:: ::awesampimp::{ user-id=7554712 } |
 
 ## Podium
 
@@ -97,9 +97,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **benis** (::{ flag=GB }:: [bahamete](https://osu.ppy.sh/users/960620), ::{ flag=GB }:: [Ommetaphobia](https://osu.ppy.sh/users/3082695)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Spare Fish** (::{ flag=GB }:: [001thefish](https://osu.ppy.sh/users/4121535), ::{ flag=GB }:: [Spare](https://osu.ppy.sh/users/2204373)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **We'll think of something** (::{ flag=GB }:: [Xim](https://osu.ppy.sh/users/2083664), ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **benis** (::{ flag=GB }:: ::bahamete::{ user-id=960620 }, ::{ flag=GB }:: ::Ommetaphobia::{ user-id=3082695 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Spare Fish** (::{ flag=GB }:: ::001thefish::{ user-id=4121535 }, ::{ flag=GB }:: ::Spare::{ user-id=2204373 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **We'll think of something** (::{ flag=GB }:: ::Xim::{ user-id=2083664 }, ::{ flag=GB }:: ::OPJames::{ user-id=4117142 }) |
 
 ## Mappools
 

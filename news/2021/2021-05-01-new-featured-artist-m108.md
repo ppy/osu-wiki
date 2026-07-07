@@ -23,7 +23,7 @@ Speaking of maps, cool dudes from the [Mappers' Guild](/wiki/Community/Mappers_G
 
 ### Sunflower
 
-Check out [this osu! mapset](https://osu.ppy.sh/beatmapsets/1403962) by [Leader](https://osu.ppy.sh/users/631530) of the Mappers' Guild!
+Check out [this osu! mapset](https://osu.ppy.sh/beatmapsets/1403962) by ::Leader::{ user-id=631530 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/161/Songs/m108%20-%20Sunflower.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [this osu! mapset](https://osu.ppy.sh/beatmapsets/1403962) by [Leader]
 
 ### \* Crow Solace \*
 
-Or play [this osu!mania mapset](https://osu.ppy.sh/beatmapsets/354157) by [Critical_Star](https://osu.ppy.sh/users/3793196) that introduced **m108**'s music to osu!.
+Or play [this osu!mania mapset](https://osu.ppy.sh/beatmapsets/354157) by ::Critical\1Star::{ user-id=3793196 } that introduced **m108**'s music to osu!.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/161/Songs/m108%20-%20%20Crow%20Solace%20.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Or play [this osu!mania mapset](https://osu.ppy.sh/beatmapsets/354157) by [Criti
 
 ### XIII Charlotte
 
-Try out [this osu!mania mapset](https://osu.ppy.sh/beatmapsets/1366994) by [FAMoss](https://osu.ppy.sh/users/7707789)! If you're more of a fruit person, [this osu!catch mapset](https://osu.ppy.sh/beatmapsets/1400205) by [Du5t](https://osu.ppy.sh/users/6053071) and [Nelly](https://osu.ppy.sh/users/4741164) may be a healthier choice.
+Try out [this osu!mania mapset](https://osu.ppy.sh/beatmapsets/1366994) by ::FAMoss::{ user-id=7707789 }! If you're more of a fruit person, [this osu!catch mapset](https://osu.ppy.sh/beatmapsets/1400205) by ::Du5t::{ user-id=6053071 } and [Nelly](https://osu.ppy.sh/users/4741164) may be a healthier choice.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/161/Songs/m108%20-%20XIII%20Charlotte.mp3" type="audio/mpeg">

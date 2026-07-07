@@ -27,7 +27,7 @@ If you've never heard **Shadren**'s sound before, his osu!-themed song *You're H
 
 ### Shadren - You're Here Forever
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1948970) hosted by [Daycore](https://osu.ppy.sh/users/5596337)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1948970) hosted by ::Daycore::{ user-id=5596337 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/362/Songs/Shadren%20-%20You're%20Here%20Forever.mp3">
@@ -35,7 +35,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1948970)
 
 ### Kuba Oms - My Love (Shadren Remix)
 
-Or check out [this retro remix of an osu! classic](https://osu.ppy.sh/beatmapsets/1382412) hosted by [M a r v o l l o](https://osu.ppy.sh/users/5504231)!
+Or check out [this retro remix of an osu! classic](https://osu.ppy.sh/beatmapsets/1382412) hosted by ::M a r v o l l o::{ user-id=5504231 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/362/Songs/Kuba%20Oms%20-%20My%20Love%20(Shadren%20Remix).mp3">
@@ -43,7 +43,7 @@ Or check out [this retro remix of an osu! classic](https://osu.ppy.sh/beatmapset
 
 ### Shadren - Agleam (feat. Asperatus)
 
-If those weren't your style, here's [a completely different genre experience](https://osu.ppy.sh/beatmapsets/1926857) also hosted by [M a r v o l l o](https://osu.ppy.sh/users/5504231)!
+If those weren't your style, here's [a completely different genre experience](https://osu.ppy.sh/beatmapsets/1926857) also hosted by ::M a r v o l l o::{ user-id=5504231 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/362/Songs/Shadren%20-%20Agleam%20(feat.%20Asperatus).mp3">

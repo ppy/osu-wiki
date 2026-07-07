@@ -12,7 +12,7 @@ The MAT were overseen by a [MAT Leader](/wiki/People/Mapping_Assistance_Team/MAT
 
 ## History
 
-The MAT was formed on the 27th of December, 2009, with initial members being hand-picked by members of the BAT.[^1] The first interim leader of the MAT was ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335).
+The MAT was formed on the 27th of December, 2009, with initial members being hand-picked by members of the BAT.[^1] The first interim leader of the MAT was ::{ flag=AU }:: ::Ephemeral::{ user-id=102335 }.
 
 Shortly afterwards, open applications were held, allowing all members of the general mapping and modding community to apply for a position in the MAT. On the 26th of February, 2010, the first new batch of MAT members were added from these applicants,[^2] based on a collective evaluation from members of the BAT and existing MAT. Further application cycles were held regularly to scout for new members, as well as provide feedback to unsuccessful applicants.
 

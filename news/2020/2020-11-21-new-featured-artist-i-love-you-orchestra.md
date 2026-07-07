@@ -13,13 +13,13 @@ Straying *just a bit* from your standard orchestra, **I love you Orchestra** is 
 
 We've managed to round up **9** head-bangable tracks from the band's *Trigger* album, all available from their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/117).
 
-Curious how they translate to mapping? Thanks to [Mirash](https://osu.ppy.sh/users/2841009), [Leader](https://osu.ppy.sh/users/631530), and [Hinsvar](https://osu.ppy.sh/users/1249323) of the [Mappers' Guild](/wiki/Community/Mappers_Guild), you can test out the full range of the 1 to 7 star spectrum in the showcase mapset below!
+Curious how they translate to mapping? Thanks to ::Mirash::{ user-id=2841009 }, [Leader](https://osu.ppy.sh/users/631530), and ::Hinsvar::{ user-id=1249323 } of the [Mappers' Guild](/wiki/Community/Mappers_Guild), you can test out the full range of the 1 to 7 star spectrum in the showcase mapset below!
 
 Open your ears to some samples of their work:
 
 ### Tenshin - Trigger ver
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1285271) hosted by [Mirash](https://osu.ppy.sh/users/2841009) of the Mappers' Guild!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1285271) hosted by ::Mirash::{ user-id=2841009 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/117/previews/3015.mp3" type="audio/mpeg">

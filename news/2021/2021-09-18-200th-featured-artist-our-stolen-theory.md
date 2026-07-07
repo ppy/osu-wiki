@@ -19,7 +19,7 @@ Unlike our usual artist announcements, there's only 1 song available on [**Our S
 
 As new osu! players climb ranks and older ones retire, some major events in the community fade from memory.
 
-Even so, [Azer](https://osu.ppy.sh/users/2155578)'s journey to full combo-ing [the first ranked map of *United (L.A.O.S Remix)*](https://osu.ppy.sh/beatmapsets/237768) with HDHR is an event that'll never be forgotten.
+Even so, ::Azer::{ user-id=2155578 }'s journey to full combo-ing [the first ranked map of *United (L.A.O.S Remix)*](https://osu.ppy.sh/beatmapsets/237768) with HDHR is an event that'll never be forgotten.
 
 Regardless of whether you're a new player or an osu! veteran, relive the excitement of this play through Azer's video, then play through any of the other awesome beatmaps of listed below!
 
@@ -29,12 +29,12 @@ Regardless of whether you're a new player or an osu! veteran, relive the excitem
 
 Experience this timeless classic for yourself through any of these top-tier beatmaps:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/237768) by [Asphyxia](https://osu.ppy.sh/users/1715720) - the first ranked and most popular of the bunch!
-- [osu! map](https://osu.ppy.sh/beatmapsets/953303) by [Sotarks](https://osu.ppy.sh/users/4452992) - a modern rendition showcasing a different style!
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/559371) by [hikiko-](https://osu.ppy.sh/users/6512678)
-- [another osu!taiko map](https://osu.ppy.sh/beatmapsets/556731) by [Yuzeyun](https://osu.ppy.sh/users/481582)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/527777) by [Minato Yukina](https://osu.ppy.sh/users/531253) - loved beatmap featuring an outstanding storyboard!
-- [osu!mania map](https://osu.ppy.sh/beatmapsets/726545) by [riunosk](https://osu.ppy.sh/users/5594381) - a full spread for 4K players!
+- [osu! map](https://osu.ppy.sh/beatmapsets/237768) by ::Asphyxia::{ user-id=1715720 } - the first ranked and most popular of the bunch!
+- [osu! map](https://osu.ppy.sh/beatmapsets/953303) by ::Sotarks::{ user-id=4452992 } - a modern rendition showcasing a different style!
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/559371) by ::hikiko-::{ user-id=6512678 }
+- [another osu!taiko map](https://osu.ppy.sh/beatmapsets/556731) by ::Yuzeyun::{ user-id=481582 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/527777) by ::Minato Yukina::{ user-id=531253 } - loved beatmap featuring an outstanding storyboard!
+- [osu!mania map](https://osu.ppy.sh/beatmapsets/726545) by ::riunosk::{ user-id=5594381 } - a full spread for 4K players!
 
 [Download the beatmap template](https://assets.ppy.sh/artists/200/Songs/Our%20Stolen%20Theory%20-%20United%20(L.A.O.S%20Remix).osz) to make your own map of this song!
 

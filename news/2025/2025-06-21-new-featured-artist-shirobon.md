@@ -19,7 +19,7 @@ Experience them for yourself:
 
 ### [meganeko x Shirobon - Mind/ /Pulse](https://assets.ppy.sh/artists/483/Songs/meganeko%20x%20Shirobon%20-%20Mind%20Pulse.osz)
 
-Try [the slider velocity spectacle below](https://osu.ppy.sh/beatmapsets/1830086) hosted by [AverageBoi](https://osu.ppy.sh/users/13688647)!
+Try [the slider velocity spectacle below](https://osu.ppy.sh/beatmapsets/1830086) hosted by ::AverageBoi::{ user-id=13688647 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

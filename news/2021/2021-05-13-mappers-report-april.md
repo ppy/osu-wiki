@@ -38,9 +38,9 @@ As is the cycle of life, some Beatmap Nominators come and go every month. Here�
 
 ### BN Additions
 
-- **osu!:** [Okoratu](https://osu.ppy.sh/users/1623405) & [CallieCube](https://osu.ppy.sh/users/7535045)
-- **osu!taiko:** [CallMeLyra](https://osu.ppy.sh/users/15272997)
-- **osu!catch:** [-Luminate](https://osu.ppy.sh/users/4778689), [Souvenir](https://osu.ppy.sh/users/14057792) & [My Angel RangE](https://osu.ppy.sh/users/6336713)
+- **osu!:** ::Okoratu::{ user-id=1623405 } & [CallieCube](https://osu.ppy.sh/users/7535045)
+- **osu!taiko:** ::CallMeLyra::{ user-id=15272997 }
+- **osu!catch:** ::-Luminate::{ user-id=4778689 }, [Souvenir](https://osu.ppy.sh/users/14057792) & ::My Angel RangE::{ user-id=6336713 }
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
@@ -48,17 +48,17 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and a
 
 ### BN Departures
 
-- **osu!:** [-Aqua](https://osu.ppy.sh/users/7150015), [Ayucchi](https://osu.ppy.sh/users/7823498) & [Milan-](https://osu.ppy.sh/users/1052994),
-- **osu!taiko:** [Ulqui](https://osu.ppy.sh/users/1263669)
-- **osu!catch:** [Xinely](https://osu.ppy.sh/users/1521445) & [Myxo](https://osu.ppy.sh/users/2202645)
+- **osu!:** ::-Aqua::{ user-id=7150015 }, [Ayucchi](https://osu.ppy.sh/users/7823498) & ::Milan-::{ user-id=1052994 },
+- **osu!taiko:** ::Ulqui::{ user-id=1263669 }
+- **osu!catch:** ::Xinely::{ user-id=1521445 } & [Myxo](https://osu.ppy.sh/users/2202645)
 
 ## Mappers' Showcase
 
-Since we have so many amazing storyboarders, we've decided to sneak in another storyboarder showcase this time around! Big thanks to [Walavouchey](https://osu.ppy.sh/users/5773079) for this month's picks.
+Since we have so many amazing storyboarders, we've decided to sneak in another storyboarder showcase this time around! Big thanks to ::Walavouchey::{ user-id=5773079 } for this month's picks.
 
 ### Peter
 
-With an ever-growing prowess for the technical side of storyboarding, [Peter](https://osu.ppy.sh/users/8623835) continues to create impressive chaotic marvels to look at. Be warned, however, because you may need a decent computer in order to play these maps properly!
+With an ever-growing prowess for the technical side of storyboarding, ::Peter::{ user-id=8623835 } continues to create impressive chaotic marvels to look at. Be warned, however, because you may need a decent computer in order to play these maps properly!
 
 The concept choice for their interpretation of [Rachel (CV: Chisuga Haruka) - Pray](https://osu.ppy.sh/beatmapsets/940111) is more than fitting for the dark mood of the song. The dense flood of sprites forms a dynamic texture as the background. Along with just the right colour scheme, image choice, and some 3D effects to boot, this storyboard scores full marks on musical representation!
 
@@ -68,7 +68,7 @@ For even more craziness, check out the visuals for [BilliumMoto - life flashes b
 
 ### - AzRaeL -
 
-Being undoubtedly an outstanding storyboarder for a couple years now, [- AzRaeL -](https://osu.ppy.sh/users/10027577) has amassed quite the collection of beautiful storyboards! Their meticulously squeaky clean visuals have only been improving time after time, showing excellence despite simplicity.
+Being undoubtedly an outstanding storyboarder for a couple years now, ::- AzRaeL -::{ user-id=10027577 } has amassed quite the collection of beautiful storyboards! Their meticulously squeaky clean visuals have only been improving time after time, showing excellence despite simplicity.
 
 A prime showcase of - AzRaeL -'s expertise is on [Tanchiky - WABI-CIRCUIT (Original Mix)](https://osu.ppy.sh/beatmapsets/1081177), featuring gorgeous artwork with parallax, clean transition effects, and exceptional design. For the intense map, the amazing but minimal background may lend itself well to players who play better without flashy distractions. Do give it a try!
 
@@ -104,11 +104,11 @@ Details regarding the results, along with the livestream VOD (which includes com
 
 Just like our monthly mapping-flavoured bulletin, the streak continues for the Monthly Beatmapping Contest as well.
 
-If you recall, the March edition of the contest was held in both osu! and osu!taiko game modes. On the osu! side of things, we have an underdog among the veterans, [Innovation](https://osu.ppy.sh/users/6304412) winning the contest.
+If you recall, the March edition of the contest was held in both osu! and osu!taiko game modes. On the osu! side of things, we have an underdog among the veterans, ::Innovation::{ user-id=6304412 } winning the contest.
 
-On the other hand, appearing as the runner-up, [Mao](https://osu.ppy.sh/users/2204515) not only achieves the third tier profile badge, but also attains the *Elite Mapper* user title. But it doesn't end there, because this title laters turns into *Elite Mapper II* thanks to his participation in the winning entry for [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest). As for the Screener Crew #1, [Acylica](https://osu.ppy.sh/users/1943309) takes the spotlight and gets an inch closer to the *Elite Mapper* title. Huge applause to them for their flawless victories!
+On the other hand, appearing as the runner-up, ::Mao::{ user-id=2204515 } not only achieves the third tier profile badge, but also attains the *Elite Mapper* user title. But it doesn't end there, because this title laters turns into *Elite Mapper II* thanks to his participation in the winning entry for [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest). As for the Screener Crew #1, ::Acylica::{ user-id=1943309 } takes the spotlight and gets an inch closer to the *Elite Mapper* title. Huge applause to them for their flawless victories!
 
-The osu!taiko section of the contest had [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) rise to the first place, followed by [Nifty](https://osu.ppy.sh/users/4956097) as the runner-up. Many congrats to both of them!
+The osu!taiko section of the contest had ::Ph0eNiiXZ::{ user-id=9463721 } rise to the first place, followed by ::Nifty::{ user-id=4956097 } as the runner-up. Many congrats to both of them!
 
 If you're craving for some details, [this newspost](https://osu.ppy.sh/home/news/2021-04-23-results-monthly-beatmapping-contest-march-2021) should satisfy your needs.
 
@@ -142,7 +142,7 @@ The particulars concerning the contest and so much more can be found in full wit
 
 Attention to all J-Rock fans out there! If you're keen on playing the keytar, this will probably catch your interest.
 
-Organized by [RiP46](https://osu.ppy.sh/users/5222596), osu!mania J-Rock Mapping Contest is featuring three lovely songs, each of which everyone can participate in.
+Organized by ::RiP46::{ user-id=5222596 }, osu!mania J-Rock Mapping Contest is featuring three lovely songs, each of which everyone can participate in.
 
 As for the most exciting part (the prizes), the winning mapset for each song will be pushed to ranked. Yes, you read it right, but that's not even it! The second and third place runner-ups will have the chance to participate in the winning set with a guest difficulty.
 
@@ -152,7 +152,7 @@ Well, what are you waiting for? Start tuning your keytar and head over to the [f
 
 Looks like another osu!mania-related mapping contest is on the horizon. Here comes the Otaku TV Size Mapping Contest for you to enjoy the spirit of anime to the fullest!
 
-Hosted by [Sun](https://osu.ppy.sh/users/4115819), [Murumoo](https://osu.ppy.sh/users/8001433), [Paran](https://osu.ppy.sh/users/13340203) and [deta5859](https://osu.ppy.sh/users/15275662), the contest allows everyone to participate in both of the two pre-selected songs.
+Hosted by ::Sun::{ user-id=4115819 }, [Murumoo](https://osu.ppy.sh/users/8001433), ::Paran::{ user-id=13340203 } and [deta5859](https://osu.ppy.sh/users/15275662), the contest allows everyone to participate in both of the two pre-selected songs.
 
 The winning entry hosting the runner-ups' guest difficulties will be speed-carried to the ranked section, and you will have the pleasure of being remembered as an *Otaku Mapper*! For better or worse.
 
@@ -166,7 +166,7 @@ And that’s it for this month's issue of the Mappers’ Report! We were a bit l
 
 As always, should you know anything mapping or modding related, be it guides, podcasts or videos, let us know. We would love to touch upon them in the next issue of Mappers' Report!
 
-You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H).
+You can either directly contact ::Feerum::{ user-id=4815717 } or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H).
 
 Hope to see you there soon. Thank you for reading ⁠— stay safe and healthy!
 

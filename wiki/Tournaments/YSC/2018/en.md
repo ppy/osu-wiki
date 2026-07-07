@@ -8,7 +8,7 @@ tags:
 
 ![YSC 2018 logo](img/logo.jpg)
 
-**Yaz's Summer Cup 2018** (***YSC 2018***) was a 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973). It was the second instalment of Yaz's Summer Cup.
+**Yaz's Summer Cup 2018** (***YSC 2018***) was a 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }. It was the second instalment of Yaz's Summer Cup.
 
 ## Tournament schedule
 
@@ -42,15 +42,15 @@ Yaz's Summer Cup 2018 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Co-host | ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393) |
-| Mappool selector | ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393), ::{ flag=CA }:: [Legless](https://osu.ppy.sh/users/3224243), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) |
-| Streamer | ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619), ::{ flag=US }:: [noctisv_v](https://osu.ppy.sh/users/6775083), ::{ flag=DE }:: [Sir Hywen](https://osu.ppy.sh/users/7601761), ::{ flag=GB }:: [ChriGarr](https://osu.ppy.sh/users/10111130), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=GB }:: [ShiiTsuin](https://osu.ppy.sh/users/9186316) |
-| Commentator | ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393), ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150), ::{ flag=AT }:: [Eta Carinae](https://osu.ppy.sh/users/5841333), ::{ flag=CA }:: [Legless](https://osu.ppy.sh/users/3224243), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=DE }:: [Sir Hywen](https://osu.ppy.sh/users/7601761), ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=SG }:: [woahsia](https://osu.ppy.sh/users/195946), ::{ flag=GB }:: [ShiiTsuin](https://osu.ppy.sh/users/9186316) |
-| Designer | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [minorman4](https://osu.ppy.sh/users/4837257), ::{ flag=US }:: [Joezapy](https://osu.ppy.sh/users/6725659), ::{ flag=US }:: [Aoiyuuki-](https://osu.ppy.sh/users/1820694), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619), ::{ flag=US }:: [\_P0ke\_](https://osu.ppy.sh/users/5434711), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=CZ }:: [IamEld3st](https://osu.ppy.sh/users/6940934), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=SG }:: [Anfang](https://osu.ppy.sh/users/9424243), ::{ flag=US }:: [Noya](https://osu.ppy.sh/users/4276374), ::{ flag=SI }:: [Redavor](https://osu.ppy.sh/users/3328606), ::{ flag=LT }:: [Eismis](https://osu.ppy.sh/users/1436793), ::{ flag=DE }:: [Flaiimz](https://osu.ppy.sh/users/9172811), ::{ flag=GB }:: [ChriGarr](https://osu.ppy.sh/users/10111130), ::{ flag=AU }:: [Illinon](https://osu.ppy.sh/users/8306102), ::{ flag=SG }:: [woahsia](https://osu.ppy.sh/users/195946), ::{ flag=GR }:: [nikolomara](https://osu.ppy.sh/users/10077264), ::{ flag=US }:: [divinereigns](https://osu.ppy.sh/users/9244014) |
-| Spreadsheet manager | ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) |
-| Scheduling | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) |
+| Host | ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 } |
+| Co-host | ::{ flag=FI }:: ::Lefafel::{ user-id=2295850 }, ::{ flag=NL }:: ::n0ah::{ user-id=3086393 } |
+| Mappool selector | ::{ flag=NL }:: ::n0ah::{ user-id=3086393 }, ::{ flag=CA }:: ::Legless::{ user-id=3224243 }, ::{ flag=BR }:: ::Dada::{ user-id=9119507 }, ::{ flag=FI }:: ::Nyanaro::{ user-id=4157611 } |
+| Streamer | ::{ flag=FI }:: ::Lefafel::{ user-id=2295850 }, ::{ flag=US }:: ::this1neguy::{ user-id=1797189 }, ::{ flag=NL }:: ::Mr HeliX::{ user-id=2330619 }, ::{ flag=US }:: ::noctisv\1v::{ user-id=6775083 }, ::{ flag=DE }:: ::Sir Hywen::{ user-id=7601761 }, ::{ flag=GB }:: ::ChriGarr::{ user-id=10111130 }, ::{ flag=FR }:: ::Kaeldori::{ user-id=962519 }, ::{ flag=GB }:: ::ShiiTsuin::{ user-id=9186316 } |
+| Commentator | ::{ flag=NL }:: ::n0ah::{ user-id=3086393 }, ::{ flag=CA }:: ::emanfman::{ user-id=4136150 }, ::{ flag=AT }:: ::Eta Carinae::{ user-id=5841333 }, ::{ flag=CA }:: ::Legless::{ user-id=3224243 }, ::{ flag=FI }:: ::Lefafel::{ user-id=2295850 }, ::{ flag=DE }:: ::Sir Hywen::{ user-id=7601761 }, ::{ flag=FI }:: ::Nyanaro::{ user-id=4157611 }, ::{ flag=FR }:: ::Kaeldori::{ user-id=962519 }, ::{ flag=SG }:: ::woahsia::{ user-id=195946 }, ::{ flag=GB }:: ::ShiiTsuin::{ user-id=9186316 } |
+| Designer | ::{ flag=TH }:: ::Trigonoculus::{ user-id=7627013 } |
+| Referee | ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=FI }:: ::Lefafel::{ user-id=2295850 }, ::{ flag=NL }:: ::n0ah::{ user-id=3086393 }, ::{ flag=GB }:: ::Bae-::{ user-id=6576972 }, ::{ flag=GB }:: ::minorman4::{ user-id=4837257 }, ::{ flag=US }:: ::Joezapy::{ user-id=6725659 }, ::{ flag=US }:: ::Aoiyuuki-::{ user-id=1820694 }, ::{ flag=US }:: ::this1neguy::{ user-id=1797189 }, ::{ flag=NL }:: ::Mr HeliX::{ user-id=2330619 }, ::{ flag=US }:: ::\_P0ke\_::{ user-id=5434711 }, ::{ flag=BR }:: ::Dada::{ user-id=9119507 }, ::{ flag=CZ }:: ::IamEld3st::{ user-id=6940934 }, ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 }, ::{ flag=SG }:: ::Anfang::{ user-id=9424243 }, ::{ flag=US }:: ::Noya::{ user-id=4276374 }, ::{ flag=SI }:: ::Redavor::{ user-id=3328606 }, ::{ flag=LT }:: ::Eismis::{ user-id=1436793 }, ::{ flag=DE }:: ::Flaiimz::{ user-id=9172811 }, ::{ flag=GB }:: ::ChriGarr::{ user-id=10111130 }, ::{ flag=AU }:: ::Illinon::{ user-id=8306102 }, ::{ flag=SG }:: ::woahsia::{ user-id=195946 }, ::{ flag=GR }:: ::nikolomara::{ user-id=10077264 }, ::{ flag=US }:: ::divinereigns::{ user-id=9244014 } |
+| Spreadsheet manager | ::{ flag=US }:: ::this1neguy::{ user-id=1797189 } |
+| Scheduling | ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=US }:: ::this1neguy::{ user-id=1797189 } |
 
 ## Links
 
@@ -64,22 +64,22 @@ Yaz's Summer Cup 2018 was run by various community members.
 
 | Group | Members |
 | :-: | :-- |
-| Group A | ::{ flag=GB }:: **[sut\_son](https://osu.ppy.sh/users/9622163)**, ::{ flag=PL }:: **[Malolat](https://osu.ppy.sh/users/4317480)**, ::{ flag=CA }:: [principe](https://osu.ppy.sh/users/2796962), ::{ flag=JP }:: [Natori Sana](https://osu.ppy.sh/users/3540294) |
-| Group B | ::{ flag=AT }:: **[Teppi](https://osu.ppy.sh/users/1371974)**, ::{ flag=PL }:: **[Piggey](https://osu.ppy.sh/users/4163860)**, ::{ flag=GB }:: [Topsp1n](https://osu.ppy.sh/users/7657761), ::{ flag=PL }:: [Kurogami](https://osu.ppy.sh/users/4435332) |
-| Group C | ::{ flag=US }:: **[Woey](https://osu.ppy.sh/users/3792472)**, ::{ flag=KR }:: **[Yaong](https://osu.ppy.sh/users/1883865)**, ::{ flag=US }:: [Jensen](https://osu.ppy.sh/users/4719055), ::{ flag=GB }:: [Wario](https://osu.ppy.sh/users/4361729) |
-| Group D | ::{ flag=US }:: **[BeasttrollMC](https://osu.ppy.sh/users/3171691)**, ::{ flag=US }:: **[conradmittn](https://osu.ppy.sh/users/8208289)**, ::{ flag=RU }:: [\_Kyori](https://osu.ppy.sh/users/6660546), ::{ flag=AU }:: [GranDSenpai](https://osu.ppy.sh/users/3997580) |
-| Group E | ::{ flag=US }:: **[My Love Saoie](https://osu.ppy.sh/users/4681410)**, ::{ flag=DE }:: **[likejaxirl](https://osu.ppy.sh/users/7093373)**, ::{ flag=PL }:: [Moreon](https://osu.ppy.sh/users/5286078), ::{ flag=US }:: [Donkey Kong](https://osu.ppy.sh/users/4787150) |
-| Group F | ::{ flag=GB }:: **[Bloo](https://osu.ppy.sh/users/6778877)**, ::{ flag=US }:: **[Exarch](https://osu.ppy.sh/users/5370153)**, ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238) |
-| Group G | ::{ flag=IL }:: **[Xilver](https://osu.ppy.sh/users/3099689)**, ::{ flag=DE }:: **[Shiny Chariot](https://osu.ppy.sh/users/3115283)**, ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142), ::{ flag=CN }:: [MyAngelMiku](https://osu.ppy.sh/users/7025429) |
-| Group H | ::{ flag=GB }:: **[Bubbleman](https://osu.ppy.sh/users/5182050)**, ::{ flag=US }:: **[Num5119](https://osu.ppy.sh/users/5198060)**, ::{ flag=HU }:: [Lexion](https://osu.ppy.sh/users/5271371), ::{ flag=CA }:: [alkalde](https://osu.ppy.sh/users/7314046) |
-| Group I | ::{ flag=FR }:: **[Flaven](https://osu.ppy.sh/users/3213239)**, ::{ flag=AU }:: **[CeilingWaffle](https://osu.ppy.sh/users/3336090)**, ::{ flag=US }:: [he rack](https://osu.ppy.sh/users/2644828), ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027) |
-| Group J | ::{ flag=PL }:: **[Alien](https://osu.ppy.sh/users/4743869)**, ::{ flag=PL }:: **[-NeBu-](https://osu.ppy.sh/users/4099626)**, ::{ flag=JP }:: [\_YuriNee](https://osu.ppy.sh/users/1794082), ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263) |
-| Group K | ::{ flag=GB }:: **[Doomsday](https://osu.ppy.sh/users/18983)**, ::{ flag=PL }:: **[MrBooM](https://osu.ppy.sh/users/1837989)**, ::{ flag=AT }:: [Eta Carinae](https://osu.ppy.sh/users/5841333), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086) |
-| Group L | ::{ flag=JP }:: **[Angel Arrow](https://osu.ppy.sh/users/1970239)**, ::{ flag=PL }:: **[QbaDoo](https://osu.ppy.sh/users/2395405)**, ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008), ::{ flag=MA }:: [FGSky](https://osu.ppy.sh/users/2094566) |
-| Group M | ::{ flag=US }:: **[Apraxia](https://osu.ppy.sh/users/4194445)**, ::{ flag=AU }:: **[Jordan The Bear](https://osu.ppy.sh/users/7477458)**, ::{ flag=RU }:: [z0mbir](https://osu.ppy.sh/users/4939107), ::{ flag=EE }:: [Tiger Claw](https://osu.ppy.sh/users/2064445) |
-| Group N | ::{ flag=CA }:: **[Azer](https://osu.ppy.sh/users/2155578)**, ::{ flag=GB }:: **[Woffel](https://osu.ppy.sh/users/3915122)**, ::{ flag=SE }:: [Saika-](https://osu.ppy.sh/users/4316633), ::{ flag=ES }:: [Betwin](https://osu.ppy.sh/users/1968481) |
-| Group O | ::{ flag=US }:: **[fieryrage](https://osu.ppy.sh/users/3533958)**, ::{ flag=US }:: **[DigitalHypno](https://osu.ppy.sh/users/4384207)**, ::{ flag=SG }:: [GSBlank](https://osu.ppy.sh/users/2312106), ::{ flag=DE }:: [respektive](https://osu.ppy.sh/users/1023489) |
-| Group P | ::{ flag=RO }:: **[Chamosiala](https://osu.ppy.sh/users/1469892)**, ::{ flag=CN }:: **[davidqu2](https://osu.ppy.sh/users/6090175)**, ::{ flag=US }:: [Cappy](https://osu.ppy.sh/users/6668666), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) |
+| Group A | ::{ flag=GB }:: **::sut\_son::{ user-id=9622163 }**, ::{ flag=PL }:: **::Malolat::{ user-id=4317480 }**, ::{ flag=CA }:: ::principe::{ user-id=2796962 }, ::{ flag=JP }:: ::Natori Sana::{ user-id=3540294 } |
+| Group B | ::{ flag=AT }:: **::Teppi::{ user-id=1371974 }**, ::{ flag=PL }:: **::Piggey::{ user-id=4163860 }**, ::{ flag=GB }:: ::Topsp1n::{ user-id=7657761 }, ::{ flag=PL }:: ::Kurogami::{ user-id=4435332 } |
+| Group C | ::{ flag=US }:: **::Woey::{ user-id=3792472 }**, ::{ flag=KR }:: **::Yaong::{ user-id=1883865 }**, ::{ flag=US }:: ::Jensen::{ user-id=4719055 }, ::{ flag=GB }:: ::Wario::{ user-id=4361729 } |
+| Group D | ::{ flag=US }:: **::BeasttrollMC::{ user-id=3171691 }**, ::{ flag=US }:: **::conradmittn::{ user-id=8208289 }**, ::{ flag=RU }:: ::\_Kyori::{ user-id=6660546 }, ::{ flag=AU }:: ::GranDSenpai::{ user-id=3997580 } |
+| Group E | ::{ flag=US }:: **::My Love Saoie::{ user-id=4681410 }**, ::{ flag=DE }:: **::likejaxirl::{ user-id=7093373 }**, ::{ flag=PL }:: ::Moreon::{ user-id=5286078 }, ::{ flag=US }:: ::Donkey Kong::{ user-id=4787150 } |
+| Group F | ::{ flag=GB }:: **::Bloo::{ user-id=6778877 }**, ::{ flag=US }:: **::Exarch::{ user-id=5370153 }**, ::{ flag=GB }:: ::Karthy::{ user-id=4196808 }, ::{ flag=US }:: ::zelda101::{ user-id=4502238 } |
+| Group G | ::{ flag=IL }:: **::Xilver::{ user-id=3099689 }**, ::{ flag=DE }:: **::Shiny Chariot::{ user-id=3115283 }**, ::{ flag=GB }:: ::OPJames::{ user-id=4117142 }, ::{ flag=CN }:: ::MyAngelMiku::{ user-id=7025429 } |
+| Group H | ::{ flag=GB }:: **::Bubbleman::{ user-id=5182050 }**, ::{ flag=US }:: **::Num5119::{ user-id=5198060 }**, ::{ flag=HU }:: ::Lexion::{ user-id=5271371 }, ::{ flag=CA }:: ::alkalde::{ user-id=7314046 } |
+| Group I | ::{ flag=FR }:: **::Flaven::{ user-id=3213239 }**, ::{ flag=AU }:: **::CeilingWaffle::{ user-id=3336090 }**, ::{ flag=US }:: ::he rack::{ user-id=2644828 }, ::{ flag=PL }:: ::Bartek22830::{ user-id=6404027 } |
+| Group J | ::{ flag=PL }:: **::Alien::{ user-id=4743869 }**, ::{ flag=PL }:: **::-NeBu-::{ user-id=4099626 }**, ::{ flag=JP }:: ::\_YuriNee::{ user-id=1794082 }, ::{ flag=GB }:: ::Electovoid::{ user-id=6648263 } |
+| Group K | ::{ flag=GB }:: **::Doomsday::{ user-id=18983 }**, ::{ flag=PL }:: **::MrBooM::{ user-id=1837989 }**, ::{ flag=AT }:: ::Eta Carinae::{ user-id=5841333 }, ::{ flag=AU }:: ::Monk Gyatso::{ user-id=4012086 } |
+| Group L | ::{ flag=JP }:: **::Angel Arrow::{ user-id=1970239 }**, ::{ flag=PL }:: **::QbaDoo::{ user-id=2395405 }**, ::{ flag=ID }:: ::Skydiver::{ user-id=4750008 }, ::{ flag=MA }:: ::FGSky::{ user-id=2094566 } |
+| Group M | ::{ flag=US }:: **::Apraxia::{ user-id=4194445 }**, ::{ flag=AU }:: **::Jordan The Bear::{ user-id=7477458 }**, ::{ flag=RU }:: ::z0mbir::{ user-id=4939107 }, ::{ flag=EE }:: ::Tiger Claw::{ user-id=2064445 } |
+| Group N | ::{ flag=CA }:: **::Azer::{ user-id=2155578 }**, ::{ flag=GB }:: **::Woffel::{ user-id=3915122 }**, ::{ flag=SE }:: ::Saika-::{ user-id=4316633 }, ::{ flag=ES }:: ::Betwin::{ user-id=1968481 } |
+| Group O | ::{ flag=US }:: **::fieryrage::{ user-id=3533958 }**, ::{ flag=US }:: **::DigitalHypno::{ user-id=4384207 }**, ::{ flag=SG }:: ::GSBlank::{ user-id=2312106 }, ::{ flag=DE }:: ::respektive::{ user-id=1023489 } |
+| Group P | ::{ flag=RO }:: **::Chamosiala::{ user-id=1469892 }**, ::{ flag=CN }:: **::davidqu2::{ user-id=6090175 }**, ::{ flag=US }:: ::Cappy::{ user-id=6668666 }, ::{ flag=PH }:: ::zonelouise::{ user-id=1492995 } |
 
 See the [participants sheet](https://docs.google.com/spreadsheets/d/1WtnGJAAhkwrYsQgado0hciHonb4FTULREGJ8_yRw6zA/edit#gid=1453703532) for a list of all 124 initial participants.
 
@@ -89,10 +89,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: [Yaong](https://osu.ppy.sh/users/1883865) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
-| *4th place* | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: ::Yaong::{ user-id=1883865 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 } |
+| *4th place* | ::{ flag=US }:: ::Apraxia::{ user-id=4194445 } |
 
 ## Mappools
 
@@ -805,7 +805,7 @@ Thursday, 21 June 2018:
 - This tournament will consist of 128 players.
 - Matches will be head to head, with score v2 as the scoring system used.
 - There will be no rank limit on sign-ups, however if we reach 120 sign-ups we will take the top 120 players in terms of rank.
-- The Top 4 from YSC 2017 (::{ flag=US }:: [Donkey Kong](https://osu.ppy.sh/users/4787150), ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689), ::{ flag=KR }:: [Cookiezi](https://osu.ppy.sh/users/124493) and ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)) all have automatic qualifications into the Group Stage should they accept their invitation.
+- The Top 4 from YSC 2017 (::{ flag=US }:: ::Donkey Kong::{ user-id=4787150 }, ::{ flag=US }:: ::Toy::{ user-id=2757689 }, ::{ flag=KR }:: ::Cookiezi::{ user-id=124493 } and ::{ flag=CA }:: ::Azer::{ user-id=2155578 }) all have automatic qualifications into the Group Stage should they accept their invitation.
 - Ranks will be taken and locked when registrations have concluded
 - Anyone who does sign up must be able to play maps with a difficulty of at least 5*.
 - Host, co-hosts, referees, schedulers, and mappool selectors are not permitted to sign up for the tournament.

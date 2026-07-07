@@ -47,7 +47,7 @@ Lazer Grand Arena 2026 offers a $1,000 cash prize pool and profile badges for th
 
 ## Registration / Qualifier stage
 
-No sign-up required — **just play!** Find the pinned playlist in-game by searching for "[Lazer Grand Arena 2026 - Qualifiers (Official)](https://osu.ppy.sh/multiplayer/rooms/2759137)", hosted by [LeoFLT](https://osu.ppy.sh/users/3668779).
+No sign-up required — **just play!** Find the pinned playlist in-game by searching for "[Lazer Grand Arena 2026 - Qualifiers (Official)](https://osu.ppy.sh/multiplayer/rooms/2759137)", hosted by ::LeoFLT::{ user-id=3668779 }.
 
 The playlist will run for **one week**, closing on **Sunday, May 10 at 19:00 UTC**. To participate, you will have to complete the **12 playlist maps** using a total of **18 tries**. The only requirement to participate is to not have violated any of the [osu! community rules](/wiki/Rules) in the past 12 months. To that end, all qualifying participants will be screened, as with any tournament.
 

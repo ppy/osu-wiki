@@ -26,7 +26,7 @@ House With Legs: [alacat's rendition](https://osu.ppy.sh/beatmapsets/360680)
 
 Dovregubben's Hall: [Guy's rendition](https://osu.ppy.sh/beatmapsets/360950)
 
-Each of these maps will be bundled with the game client for an indeterminate period of time. [monstrata](https://osu.ppy.sh/users/2706438), [alacat](https://osu.ppy.sh/users/869782#osu) and [Guy](https://osu.ppy.sh/users/91738) will all receive **$50 in osu!store credit, 6 months of osu!supporter, and a unique profile badge** for their effort.
+Each of these maps will be bundled with the game client for an indeterminate period of time. ::monstrata::{ user-id=2706438 }, [alacat](https://osu.ppy.sh/users/869782#osu) and ::Guy::{ user-id=91738 } will all receive **$50 in osu!store credit, 6 months of osu!supporter, and a unique profile badge** for their effort.
 
 *(Their profile badges may not be live at the time of posting, we're still trying to figure out a suitably awesome badge for their efforts.)*
 

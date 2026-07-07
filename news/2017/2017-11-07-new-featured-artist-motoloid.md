@@ -27,7 +27,7 @@ Here's a sample of a few, complete with maps already made and ready to play - si
 </audio>
 </center>
 
-A bridge into symphonic rock hits and a hint of metal, **Yuyoyuppe** of Vocaloid fame stretches his producing muscles to create something entirely new, and enthralling. Mapped by [**pishifat**](https://osu.ppy.sh/users/3178418) - check it out [here](https://osu.ppy.sh/beatmapsets/682286).
+A bridge into symphonic rock hits and a hint of metal, **Yuyoyuppe** of Vocaloid fame stretches his producing muscles to create something entirely new, and enthralling. Mapped by ::**pishifat**::{ user-id=3178418 } - check it out [here](https://osu.ppy.sh/beatmapsets/682286).
 
 ## baker - For a Dead Girl+
 
@@ -39,7 +39,7 @@ A bridge into symphonic rock hits and a hint of metal, **Yuyoyuppe** of Vocaloid
 </audio>
 </center>
 
-Deceptively entrancing, **baker's** musical mastery is plain to the ear in this fairly progressive track, featuring the vocals of Megurine Luka. Don't let it catch you off guard - things get heated in the second half of the song, and you might not see it coming! Mapped by [**handsome**](https://osu.ppy.sh/users/2123087) - check it out [here](https://osu.ppy.sh/beatmapsets/682287).
+Deceptively entrancing, **baker's** musical mastery is plain to the ear in this fairly progressive track, featuring the vocals of Megurine Luka. Don't let it catch you off guard - things get heated in the second half of the song, and you might not see it coming! Mapped by ::**handsome**::{ user-id=2123087 } - check it out [here](https://osu.ppy.sh/beatmapsets/682287).
 
 ## Hige Driver - I Wanna Feel Your Love (feat. shully)
 
@@ -51,7 +51,7 @@ Deceptively entrancing, **baker's** musical mastery is plain to the ear in this 
 </audio>
 </center>
 
-Thumping house-style beats and overarching club synths mix together with _shully_'s rising voice to create an experience that leaves you longing for more. Mapped by [**Delis**](https://osu.ppy.sh/users/1603923) - check it out [here](https://osu.ppy.sh/beatmapsets/682289).
+Thumping house-style beats and overarching club synths mix together with _shully_'s rising voice to create an experience that leaves you longing for more. Mapped by ::**Delis**::{ user-id=1603923 } - check it out [here](https://osu.ppy.sh/beatmapsets/682289).
 
 ## Hige Driver - Miracle Sugite Yabai (feat. shully)
 
@@ -63,7 +63,7 @@ Thumping house-style beats and overarching club synths mix together with _shully
 </audio>
 </center>
 
-Featuring _Hige Driver_'s signature chiptune sparkle set beside _shully_'s lyrical mastery, this track is sure to get you swinging. Mapped by [**Milan-**](https://osu.ppy.sh/users/1052994) - check it out [here](https://osu.ppy.sh/beatmapsets/682290).
+Featuring _Hige Driver_'s signature chiptune sparkle set beside _shully_'s lyrical mastery, this track is sure to get you swinging. Mapped by ::**Milan-**::{ user-id=1052994 } - check it out [here](https://osu.ppy.sh/beatmapsets/682290).
 
 ## Hige Driver - Palette
 
@@ -75,7 +75,7 @@ Featuring _Hige Driver_'s signature chiptune sparkle set beside _shully_'s lyric
 </audio>
 </center>
 
-A remastered take on _Yuyoyuppe_'s timeless Vocaloid classic, Palette features kickin' drum 'n bass backing lines set to a new vocal imagining. Mapped by [**Jounzan**](https://osu.ppy.sh/users/1848318) - check it out [here](https://osu.ppy.sh/beatmapsets/682416).
+A remastered take on _Yuyoyuppe_'s timeless Vocaloid classic, Palette features kickin' drum 'n bass backing lines set to a new vocal imagining. Mapped by ::**Jounzan**::{ user-id=1848318 } - check it out [here](https://osu.ppy.sh/beatmapsets/682416).
 
 ## baker - Kimi ga Kimi ga -vocanico remix-
 
@@ -87,7 +87,7 @@ A remastered take on _Yuyoyuppe_'s timeless Vocaloid classic, Palette features k
 </audio>
 </center>
 
-Electronic, Vocaloid and _baker_. What more needs to be said? Warbling synths set to a thudding, drum 'n bass inspired backline and accompanied with Vocaloid.. vocals, this one's an osu! classic in the making. Mapped by [**jonathanlfj**](https://osu.ppy.sh/users/270377) - check it out [here](https://osu.ppy.sh/beatmapsets/682595).
+Electronic, Vocaloid and _baker_. What more needs to be said? Warbling synths set to a thudding, drum 'n bass inspired backline and accompanied with Vocaloid.. vocals, this one's an osu! classic in the making. Mapped by ::**jonathanlfj**::{ user-id=270377 } - check it out [here](https://osu.ppy.sh/beatmapsets/682595).
 
 ---
 

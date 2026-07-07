@@ -12,14 +12,14 @@ Congratulations to last month's winners!
 
 **osu! standard**
 
-1. [Delis](https://osu.ppy.sh/users/1603923) \- 1 month of supporter
-2. [Michi](https://osu.ppy.sh/users/932342)
+1. ::Delis::{ user-id=1603923 } \- 1 month of supporter
+2. ::Michi::{ user-id=932342 }
 3. [Raiku](https://osu.ppy.sh/users/Raiku)
 
 **Taiko**
 
-1. [Midnaait](https://osu.ppy.sh/users/1506011) \- 1 month of supporter
-2. [Konpaku Sariel](https://osu.ppy.sh/users/533502)
+1. ::Midnaait::{ user-id=1506011 } \- 1 month of supporter
+2. ::Konpaku Sariel::{ user-id=533502 }
 3. [Nashmun](https://osu.ppy.sh/users/Nashmun)
 
 **Catch the Beat**

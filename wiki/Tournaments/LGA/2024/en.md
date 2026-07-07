@@ -26,7 +26,7 @@ The **Lazer Grand Arena 2024** (***LGA 2024***) was an osu!(lazer) tournament ho
 
 ## Prizes
 
-The Lazer Grand Arena offered limited-edition merch (courtesy of [megumic](https://osu.ppy.sh/users/7537133)).
+The Lazer Grand Arena offered limited-edition merch (courtesy of ::megumic::{ user-id=7537133 }).
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -40,14 +40,14 @@ The Lazer Grand Arena was run by the [osu! team](/wiki/People/osu!_team) and var
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Mappool selector | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=US }:: [Librarian](https://osu.ppy.sh/users/10083084) |
-| Mappool playtester | ::{ flag=PL }:: [\-Sylvari](https://osu.ppy.sh/users/3493804), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=CA }:: [El Condor Pasa](https://osu.ppy.sh/users/4415285), ::{ flag=US }:: [Emerald Ages](https://osu.ppy.sh/users/10224047), ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058), ::{ flag=CA }:: [Wieran](https://osu.ppy.sh/users/2303856) |
-| Mapper | ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997), ::{ flag=EE }:: [riot1133](https://osu.ppy.sh/users/11877992), ::{ flag=CA }:: [Sing](https://osu.ppy.sh/users/3795679) |
-| Commentator | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=CA }:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116) |
-| Referee | ::{ flag=FR }:: [Aidown](https://osu.ppy.sh/users/1522146), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
-| Statistician | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
-| Developer | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692) |
+| Manager | ::{ flag=CA }:: ::Azer::{ user-id=2155578 }, ::{ flag=US }:: ::ChillierPear::{ user-id=9501251 }, ::{ flag=BR }:: ::LeoFLT::{ user-id=3668779 } |
+| Mappool selector | ::{ flag=CA }:: ::Azer::{ user-id=2155578 }, ::{ flag=CA }:: ::chiv::{ user-id=6701656 }, ::{ flag=BR }:: ::Dada::{ user-id=9119507 }, ::{ flag=US }:: ::Librarian::{ user-id=10083084 } |
+| Mappool playtester | ::{ flag=PL }:: ::\-Sylvari::{ user-id=3493804 }, ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 }, ::{ flag=US }:: ::DigitalHypno::{ user-id=4384207 }, ::{ flag=CA }:: ::El Condor Pasa::{ user-id=4415285 }, ::{ flag=US }:: ::Emerald Ages::{ user-id=10224047 }, ::{ flag=US }:: ::Jakson::{ user-id=8788058 }, ::{ flag=CA }:: ::Wieran::{ user-id=2303856 } |
+| Mapper | ::{ flag=US }:: ::captin1::{ user-id=689997 }, ::{ flag=EE }:: ::riot1133::{ user-id=11877992 }, ::{ flag=CA }:: ::Sing::{ user-id=3795679 } |
+| Commentator | ::{ flag=CA }:: ::Azer::{ user-id=2155578 }, ::{ flag=CA }:: ::D I O::{ user-id=3958619 }, ::{ flag=GB }:: ::Damarsh::{ user-id=7465147 }, ::{ flag=US }:: ::Dohland::{ user-id=5220511 }, ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=US }:: ::fieryrage::{ user-id=3533958 }, ::{ flag=CA }:: ::I-Flame::{ user-id=11257542 }, ::{ flag=AU }:: ::Jordan The Bear::{ user-id=7477458 }, ::{ flag=AU }:: ::Mavs::{ user-id=11076938 }, ::{ flag=US }:: ::M I L E S::{ user-id=6036351 }, ::{ flag=AU }:: ::Monk Gyatso::{ user-id=4012086 }, ::{ flag=GB }:: ::SadShiba::{ user-id=10747626 }, ::{ flag=US }:: ::this1neguy::{ user-id=1797189 }, ::{ flag=AU }:: ::Vordi::{ user-id=6659116 } |
+| Referee | ::{ flag=FR }:: ::Aidown::{ user-id=1522146 }, ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 }, ::{ flag=BR }:: ::LeoFLT::{ user-id=3668779 }, ::{ flag=NL }:: ::nik::{ user-id=10077264 }, ::{ flag=IN }:: ::Speshimen::{ user-id=7720204 }, ::{ flag=FI }:: ::shdewz::{ user-id=10000899 }, ::{ flag=US }:: ::tigereyes144::{ user-id=6499811 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=US }:: ::\[K\]::{ user-id=16551387 } |
+| Statistician | ::{ flag=BR }:: ::LeoFLT::{ user-id=3668779 }, ::{ flag=FI }:: ::shdewz::{ user-id=10000899 } |
+| Developer | ::{ flag=GB }:: ::ilw8::{ user-id=14167692 } |
 
 ## Links
 
@@ -60,38 +60,38 @@ The Lazer Grand Arena was run by the [osu! team](/wiki/People/osu!_team) and var
 
 |  | Country | Username |
 | :-: | :-: | :-- |
-| ::{ flag=RS }:: | **Serbia** | [-Petar](https://osu.ppy.sh/users/9106690) |
-| ::{ flag=NZ }:: | **New Zealand** | [2oomer](https://osu.ppy.sh/users/11141578) |
-| ::{ flag=ES }:: | **Spain** | [A N T O N I O](https://osu.ppy.sh/users/12760743) |
-| ::{ flag=AU }:: | **Australia** | [aknzx](https://osu.ppy.sh/users/9938943) |
-| ::{ flag=FI }:: | **Finland** | [AllyrD](https://osu.ppy.sh/users/9561644) |
-| ::{ flag=KR }:: | **South Korea** | [Amamya Kokoro](https://osu.ppy.sh/users/2511839) |
-| ::{ flag=FI }:: | **Finland** | [Amasetic](https://osu.ppy.sh/users/11375251) |
-| ::{ flag=US }:: | **United States** | [ampy](https://osu.ppy.sh/users/4458239) |
-| ::{ flag=FR }:: | **France** | [Arakii](https://osu.ppy.sh/users/6133101) |
-| ::{ flag=RU }:: | **Russian Federation** | [arqx](https://osu.ppy.sh/users/2569683) |
-| ::{ flag=PH }:: | **Philippines** | [enri](https://osu.ppy.sh/users/8640970) |
-| ::{ flag=KR }:: | **South Korea** | [FlyingTuna](https://osu.ppy.sh/users/9224078) |
-| ::{ flag=NO }:: | **Norway** | [Hundur](https://osu.ppy.sh/users/3145033) |
-| ::{ flag=CL }:: | **Chile** | [Intercambing](https://osu.ppy.sh/users/2546001) |
-| ::{ flag=PL }:: | **Poland** | [Kosiarek](https://osu.ppy.sh/users/9086565) |
-| ::{ flag=BR }:: | **Brazil** | [Kurumiw](https://osu.ppy.sh/users/11415687) |
-| ::{ flag=FI }:: | **Finland** | [Nev-](https://osu.ppy.sh/users/11836334) |
-| ::{ flag=CA }:: | **Canada** | [nick1324](https://osu.ppy.sh/users/612898) |
-| ::{ flag=KR }:: | **South Korea** | [Nopekjk](https://osu.ppy.sh/users/4585186) |
-| ::{ flag=NO }:: | **Norway** | [Pinguinzi](https://osu.ppy.sh/users/9414229) |
-| ::{ flag=GB }:: | **United Kingdom** | [rudj](https://osu.ppy.sh/users/11592896) |
-| ::{ flag=MN }:: | **Mongolia** | [seegii](https://osu.ppy.sh/users/4659319) |
-| ::{ flag=DK }:: | **Denmark** | [Sobu-](https://osu.ppy.sh/users/13872272) |
-| ::{ flag=PL }:: | **Poland** | [Sowisty](https://osu.ppy.sh/users/6808620) |
-| ::{ flag=SG }:: | **Singapore** | [Tebi](https://osu.ppy.sh/users/5407620) |
-| ::{ flag=US }:: | **United States** | [ThisIsGod](https://osu.ppy.sh/users/6736936) |
-| ::{ flag=US }:: | **United States** | [TrickyPugster](https://osu.ppy.sh/users/8082362) |
-| ::{ flag=SE }:: | **Sweden** | [trumpatino69](https://osu.ppy.sh/users/10903510) |
-| ::{ flag=RU }:: | **Russian Federation** | [Welter](https://osu.ppy.sh/users/11552867) |
-| ::{ flag=CA }:: | **Canada** | [xootynator](https://osu.ppy.sh/users/3717598) |
-| ::{ flag=NO }:: | **Norway** | [YokesPai](https://osu.ppy.sh/users/6399568) |
-| ::{ flag=SA }:: | **Saudi Arabia** | [Zesdash](https://osu.ppy.sh/users/5965797) |
+| ::{ flag=RS }:: | **Serbia** | ::-Petar::{ user-id=9106690 } |
+| ::{ flag=NZ }:: | **New Zealand** | ::2oomer::{ user-id=11141578 } |
+| ::{ flag=ES }:: | **Spain** | ::A N T O N I O::{ user-id=12760743 } |
+| ::{ flag=AU }:: | **Australia** | ::aknzx::{ user-id=9938943 } |
+| ::{ flag=FI }:: | **Finland** | ::AllyrD::{ user-id=9561644 } |
+| ::{ flag=KR }:: | **South Korea** | ::Amamya Kokoro::{ user-id=2511839 } |
+| ::{ flag=FI }:: | **Finland** | ::Amasetic::{ user-id=11375251 } |
+| ::{ flag=US }:: | **United States** | ::ampy::{ user-id=4458239 } |
+| ::{ flag=FR }:: | **France** | ::Arakii::{ user-id=6133101 } |
+| ::{ flag=RU }:: | **Russian Federation** | ::arqx::{ user-id=2569683 } |
+| ::{ flag=PH }:: | **Philippines** | ::enri::{ user-id=8640970 } |
+| ::{ flag=KR }:: | **South Korea** | ::FlyingTuna::{ user-id=9224078 } |
+| ::{ flag=NO }:: | **Norway** | ::Hundur::{ user-id=3145033 } |
+| ::{ flag=CL }:: | **Chile** | ::Intercambing::{ user-id=2546001 } |
+| ::{ flag=PL }:: | **Poland** | ::Kosiarek::{ user-id=9086565 } |
+| ::{ flag=BR }:: | **Brazil** | ::Kurumiw::{ user-id=11415687 } |
+| ::{ flag=FI }:: | **Finland** | ::Nev-::{ user-id=11836334 } |
+| ::{ flag=CA }:: | **Canada** | ::nick1324::{ user-id=612898 } |
+| ::{ flag=KR }:: | **South Korea** | ::Nopekjk::{ user-id=4585186 } |
+| ::{ flag=NO }:: | **Norway** | ::Pinguinzi::{ user-id=9414229 } |
+| ::{ flag=GB }:: | **United Kingdom** | ::rudj::{ user-id=11592896 } |
+| ::{ flag=MN }:: | **Mongolia** | ::seegii::{ user-id=4659319 } |
+| ::{ flag=DK }:: | **Denmark** | ::Sobu-::{ user-id=13872272 } |
+| ::{ flag=PL }:: | **Poland** | ::Sowisty::{ user-id=6808620 } |
+| ::{ flag=SG }:: | **Singapore** | ::Tebi::{ user-id=5407620 } |
+| ::{ flag=US }:: | **United States** | ::ThisIsGod::{ user-id=6736936 } |
+| ::{ flag=US }:: | **United States** | ::TrickyPugster::{ user-id=8082362 } |
+| ::{ flag=SE }:: | **Sweden** | ::trumpatino69::{ user-id=10903510 } |
+| ::{ flag=RU }:: | **Russian Federation** | ::Welter::{ user-id=11552867 } |
+| ::{ flag=CA }:: | **Canada** | ::xootynator::{ user-id=3717598 } |
+| ::{ flag=NO }:: | **Norway** | ::YokesPai::{ user-id=6399568 } |
+| ::{ flag=SA }:: | **Saudi Arabia** | ::Zesdash::{ user-id=5965797 } |
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/8475d0c316b1ea7c1cb66ca93902d810).
 
@@ -175,21 +175,21 @@ Saturday, 27 July 2024:
 
 | Stage | Red Player |  |  | Blue Player | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
-| Quarterfinals | **[Amamya Kokoro](https://osu.ppy.sh/users/2511839)** | **5.02 M** | 4.48 M | [enri](https://osu.ppy.sh/users/8640970) | [#1](https://osu.ppy.sh/multiplayer/rooms/799914) | [#1](https://www.twitch.tv/videos/2210815333) |
-| Quarterfinals | [Nopekjk](https://osu.ppy.sh/users/4585186) | 3.58 M | **4.21 M** | **[Tebi](https://osu.ppy.sh/users/5407620)** | [#1](https://osu.ppy.sh/multiplayer/rooms/799656) | [#1](https://www.twitch.tv/videos/2210932598) |
-| Quarterfinals | **[aknzx](https://osu.ppy.sh/users/9938943)** | **5.23 M** | 5.17 M | [xootynator](https://osu.ppy.sh/users/3717598) | [#1](https://osu.ppy.sh/multiplayer/rooms/799918) | [#1](https://www.twitch.tv/videos/2210937061) |
-| Quarterfinals | [Welter](https://osu.ppy.sh/users/11552867) | FF | **0.00 M** | **[FlyingTuna](https://osu.ppy.sh/users/9224078)** |  |  |
-| Semifinals | **[Amamya Kokoro](https://osu.ppy.sh/users/2511839)** | **5.05 M** | 4.36 M | [Tebi](https://osu.ppy.sh/users/5407620) | [#1](https://osu.ppy.sh/multiplayer/rooms/800094) | [#1](https://www.twitch.tv/videos/2210939520) |
+| Quarterfinals | **::Amamya Kokoro::{ user-id=2511839 }** | **5.02 M** | 4.48 M | ::enri::{ user-id=8640970 } | [#1](https://osu.ppy.sh/multiplayer/rooms/799914) | [#1](https://www.twitch.tv/videos/2210815333) |
+| Quarterfinals | ::Nopekjk::{ user-id=4585186 } | 3.58 M | **4.21 M** | **::Tebi::{ user-id=5407620 }** | [#1](https://osu.ppy.sh/multiplayer/rooms/799656) | [#1](https://www.twitch.tv/videos/2210932598) |
+| Quarterfinals | **::aknzx::{ user-id=9938943 }** | **5.23 M** | 5.17 M | ::xootynator::{ user-id=3717598 } | [#1](https://osu.ppy.sh/multiplayer/rooms/799918) | [#1](https://www.twitch.tv/videos/2210937061) |
+| Quarterfinals | ::Welter::{ user-id=11552867 } | FF | **0.00 M** | **::FlyingTuna::{ user-id=9224078 }** |  |  |
+| Semifinals | **::Amamya Kokoro::{ user-id=2511839 }** | **5.05 M** | 4.36 M | ::Tebi::{ user-id=5407620 } | [#1](https://osu.ppy.sh/multiplayer/rooms/800094) | [#1](https://www.twitch.tv/videos/2210939520) |
 
 Sunday, 28 July 2024:
 
 | Stage | Red Player |  |  | Blue Player | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
-| Semifinals | [aknzx](https://osu.ppy.sh/users/9938943) | 5.16 M | **5.45 M** | **[FlyingTuna](https://osu.ppy.sh/users/9224078)** | [#1](https://osu.ppy.sh/multiplayer/rooms/801277) | [#1](https://www.twitch.tv/videos/2210941471) |
-| Finals (LB) | [Tebi](https://osu.ppy.sh/users/5407620) | 4.01 M | **5.36 M** | **[aknzx](https://osu.ppy.sh/users/9938943)** | [#1](https://osu.ppy.sh/multiplayer/rooms/801552) | [#1](https://www.twitch.tv/videos/2210971660) |
-| Finals (WB) | [Amamya Kokoro](https://osu.ppy.sh/users/2511839) | 5.01 M | **5.64 M** | **[FlyingTuna](https://osu.ppy.sh/users/9224078)** | [#1](https://osu.ppy.sh/multiplayer/rooms/801647) | [#1](https://www.twitch.tv/videos/2210975699) |
-| Grand Finals (LB) | [Amamya Kokoro](https://osu.ppy.sh/users/2511839) | 4.70 M | **4.94 M** | **[aknzx](https://osu.ppy.sh/users/9938943)** | [#1](https://osu.ppy.sh/multiplayer/rooms/801736) | [#1](https://www.twitch.tv/videos/2210975700) |
-| Grand Finals | [aknzx](https://osu.ppy.sh/users/9938943) | 4.78 M | **5.43 M** | **[FlyingTuna](https://osu.ppy.sh/users/9224078)** | [#1](https://osu.ppy.sh/multiplayer/rooms/801806) | [#1](https://www.twitch.tv/videos/2210975698) |
+| Semifinals | ::aknzx::{ user-id=9938943 } | 5.16 M | **5.45 M** | **::FlyingTuna::{ user-id=9224078 }** | [#1](https://osu.ppy.sh/multiplayer/rooms/801277) | [#1](https://www.twitch.tv/videos/2210941471) |
+| Finals (LB) | ::Tebi::{ user-id=5407620 } | 4.01 M | **5.36 M** | **::aknzx::{ user-id=9938943 }** | [#1](https://osu.ppy.sh/multiplayer/rooms/801552) | [#1](https://www.twitch.tv/videos/2210971660) |
+| Finals (WB) | ::Amamya Kokoro::{ user-id=2511839 } | 5.01 M | **5.64 M** | **::FlyingTuna::{ user-id=9224078 }** | [#1](https://osu.ppy.sh/multiplayer/rooms/801647) | [#1](https://www.twitch.tv/videos/2210975699) |
+| Grand Finals (LB) | ::Amamya Kokoro::{ user-id=2511839 } | 4.70 M | **4.94 M** | **::aknzx::{ user-id=9938943 }** | [#1](https://osu.ppy.sh/multiplayer/rooms/801736) | [#1](https://www.twitch.tv/videos/2210975700) |
+| Grand Finals | ::aknzx::{ user-id=9938943 } | 4.78 M | **5.43 M** | **::FlyingTuna::{ user-id=9224078 }** | [#1](https://osu.ppy.sh/multiplayer/rooms/801806) | [#1](https://www.twitch.tv/videos/2210975698) |
 
 ### Week 1
 
@@ -197,37 +197,37 @@ Saturday, 20 July 2024:
 
 | Stage | Red Player |  |  | Blue Player | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
-| RO32 | **[FlyingTuna](https://osu.ppy.sh/users/9224078)** | **4.25 M** | 2.72 M | [Nev-](https://osu.ppy.sh/users/11836334) | [#1](https://osu.ppy.sh/multiplayer/rooms/788242) | [#1](https://www.twitch.tv/videos/2210828680) |
-| RO32 | **[Tebi](https://osu.ppy.sh/users/5407620)** | **3.35 M** | 2.44 M | [YokesPai](https://osu.ppy.sh/users/6399568) | [#1](https://osu.ppy.sh/multiplayer/rooms/788313) | [#1](https://www.twitch.tv/videos/2210828681) |
-| RO32 | **[2oomer](https://osu.ppy.sh/users/11141578)** | **3.35 M** | 2.13 M | [Kosiarek](https://osu.ppy.sh/users/9086565) | [#1](https://osu.ppy.sh/multiplayer/rooms/788311) |  |
-| RO32 | **[Nopekjk](https://osu.ppy.sh/users/4585186)** | **3.26 M** | 2.68 M | [Zesdash](https://osu.ppy.sh/users/5965797) | [#1](https://osu.ppy.sh/multiplayer/rooms/788385) | [#1](https://www.twitch.tv/videos/2210828682) |
-| RO32 | **[aknzx](https://osu.ppy.sh/users/9938943)** | **2.97 M** | 2.80 M | [arqx](https://osu.ppy.sh/users/2569683) | [#1](https://osu.ppy.sh/multiplayer/rooms/788397) |  |
-| RO32 | **[Sobu-](https://osu.ppy.sh/users/13872272)** | **3.62 M** | 3.14 M | [trumpatino69](https://osu.ppy.sh/users/10903510) | [#1](https://osu.ppy.sh/multiplayer/rooms/788523) | [#1](https://www.twitch.tv/videos/2210852909) |
-| RO32 | **[Amasetic](https://osu.ppy.sh/users/11375251)** | **3.82 M** | 3.57 M | [Kurumiw](https://osu.ppy.sh/users/11415687) | [#1](https://osu.ppy.sh/multiplayer/rooms/788632) | [#1](https://www.twitch.tv/videos/2210852910) |
-| RO32 | [AllyrD](https://osu.ppy.sh/users/9561644) | 3.69 M | **3.70 M** | **[seegii](https://osu.ppy.sh/users/4659319)** | [#1](https://osu.ppy.sh/multiplayer/rooms/788630) | [#1](https://www.twitch.tv/videos/2204729842) |
-| RO32 | **[Amamya Kokoro](https://osu.ppy.sh/users/2511839)** | **4.03 M** | 1.91 M | [ThisIsGod](https://osu.ppy.sh/users/6736936) | [#1](https://osu.ppy.sh/multiplayer/rooms/788722) | [#1](https://www.twitch.tv/videos/2210852906) |
-| RO32 | **[nick1324](https://osu.ppy.sh/users/612898)** | **3.17 M** | 2.89 M | [Sowisty](https://osu.ppy.sh/users/6808620) | [#1](https://osu.ppy.sh/multiplayer/rooms/788827) | [#1](https://www.twitch.tv/videos/2210852907) |
-| RO32 | **[Welter](https://osu.ppy.sh/users/11552867)** | **3.79 M** | 3.00 M | [-Petar](https://osu.ppy.sh/users/9106690) | [#1](https://osu.ppy.sh/multiplayer/rooms/788913) | [#1](https://www.twitch.tv/videos/2210852908) |
-| RO32 | **[Intercambing](https://osu.ppy.sh/users/2546001)** | **3.50 M** | 2.37 M | [Arakii](https://osu.ppy.sh/users/6133101) | [#1](https://osu.ppy.sh/multiplayer/rooms/789062) | [#1](https://www.twitch.tv/videos/2210855646) |
-| RO32 | **[xootynator](https://osu.ppy.sh/users/3717598)** | **3.90 M** | 2.67 M | [TrickyPugster](https://osu.ppy.sh/users/8082362) | [#1](https://osu.ppy.sh/multiplayer/rooms/789074) |  |
-| RO16 | **[Amamya Kokoro](https://osu.ppy.sh/users/2511839)** | **4.16 M** | 3.63 M | [Sobu-](https://osu.ppy.sh/users/13872272) | [#1](https://osu.ppy.sh/multiplayer/rooms/788831) | [#1](https://www.twitch.tv/videos/2204731424) |
+| RO32 | **::FlyingTuna::{ user-id=9224078 }** | **4.25 M** | 2.72 M | ::Nev-::{ user-id=11836334 } | [#1](https://osu.ppy.sh/multiplayer/rooms/788242) | [#1](https://www.twitch.tv/videos/2210828680) |
+| RO32 | **::Tebi::{ user-id=5407620 }** | **3.35 M** | 2.44 M | ::YokesPai::{ user-id=6399568 } | [#1](https://osu.ppy.sh/multiplayer/rooms/788313) | [#1](https://www.twitch.tv/videos/2210828681) |
+| RO32 | **::2oomer::{ user-id=11141578 }** | **3.35 M** | 2.13 M | ::Kosiarek::{ user-id=9086565 } | [#1](https://osu.ppy.sh/multiplayer/rooms/788311) |  |
+| RO32 | **::Nopekjk::{ user-id=4585186 }** | **3.26 M** | 2.68 M | ::Zesdash::{ user-id=5965797 } | [#1](https://osu.ppy.sh/multiplayer/rooms/788385) | [#1](https://www.twitch.tv/videos/2210828682) |
+| RO32 | **::aknzx::{ user-id=9938943 }** | **2.97 M** | 2.80 M | ::arqx::{ user-id=2569683 } | [#1](https://osu.ppy.sh/multiplayer/rooms/788397) |  |
+| RO32 | **::Sobu-::{ user-id=13872272 }** | **3.62 M** | 3.14 M | ::trumpatino69::{ user-id=10903510 } | [#1](https://osu.ppy.sh/multiplayer/rooms/788523) | [#1](https://www.twitch.tv/videos/2210852909) |
+| RO32 | **::Amasetic::{ user-id=11375251 }** | **3.82 M** | 3.57 M | ::Kurumiw::{ user-id=11415687 } | [#1](https://osu.ppy.sh/multiplayer/rooms/788632) | [#1](https://www.twitch.tv/videos/2210852910) |
+| RO32 | ::AllyrD::{ user-id=9561644 } | 3.69 M | **3.70 M** | **::seegii::{ user-id=4659319 }** | [#1](https://osu.ppy.sh/multiplayer/rooms/788630) | [#1](https://www.twitch.tv/videos/2204729842) |
+| RO32 | **::Amamya Kokoro::{ user-id=2511839 }** | **4.03 M** | 1.91 M | ::ThisIsGod::{ user-id=6736936 } | [#1](https://osu.ppy.sh/multiplayer/rooms/788722) | [#1](https://www.twitch.tv/videos/2210852906) |
+| RO32 | **::nick1324::{ user-id=612898 }** | **3.17 M** | 2.89 M | ::Sowisty::{ user-id=6808620 } | [#1](https://osu.ppy.sh/multiplayer/rooms/788827) | [#1](https://www.twitch.tv/videos/2210852907) |
+| RO32 | **::Welter::{ user-id=11552867 }** | **3.79 M** | 3.00 M | ::-Petar::{ user-id=9106690 } | [#1](https://osu.ppy.sh/multiplayer/rooms/788913) | [#1](https://www.twitch.tv/videos/2210852908) |
+| RO32 | **::Intercambing::{ user-id=2546001 }** | **3.50 M** | 2.37 M | ::Arakii::{ user-id=6133101 } | [#1](https://osu.ppy.sh/multiplayer/rooms/789062) | [#1](https://www.twitch.tv/videos/2210855646) |
+| RO32 | **::xootynator::{ user-id=3717598 }** | **3.90 M** | 2.67 M | ::TrickyPugster::{ user-id=8082362 } | [#1](https://osu.ppy.sh/multiplayer/rooms/789074) |  |
+| RO16 | **::Amamya Kokoro::{ user-id=2511839 }** | **4.16 M** | 3.63 M | ::Sobu-::{ user-id=13872272 } | [#1](https://osu.ppy.sh/multiplayer/rooms/788831) | [#1](https://www.twitch.tv/videos/2204731424) |
 
 Sunday, 21 July 2024:
 
 | Stage | Red Player |  |  | Blue Player | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
-| RO16 | [Intercambing](https://osu.ppy.sh/users/2546001) | 2.84 M | **3.66 M** | **[Nopekjk](https://osu.ppy.sh/users/4585186)** | [#1](https://osu.ppy.sh/multiplayer/rooms/790385) | [#1](https://www.twitch.tv/videos/2210917956) |
-| RO16 | [nick1324](https://osu.ppy.sh/users/612898) | 2.48 M | **3.03 M** | **[Tebi](https://osu.ppy.sh/users/5407620)** | [#1](https://osu.ppy.sh/multiplayer/rooms/790361) | [#1](https://www.twitch.tv/videos/2210917954) |
-| RO16 | **[aknzx](https://osu.ppy.sh/users/9938943)** | **4.25 M** | 3.58 M | [2oomer](https://osu.ppy.sh/users/11141578) | [#1](https://osu.ppy.sh/multiplayer/rooms/789920) | [#1](https://www.twitch.tv/videos/2210861845) |
-| RO16 | **[xootynator](https://osu.ppy.sh/users/3717598)** | **3.84 M** | 3.77 M | [A N T O N I O](https://osu.ppy.sh/users/12760743) | [#1](https://osu.ppy.sh/multiplayer/rooms/790544) | [#1](https://www.twitch.tv/videos/2210921410) |
-| RO16 | **[Welter](https://osu.ppy.sh/users/11552867)** | **3.43 M** | 3.38 M | [seegii](https://osu.ppy.sh/users/4659319) | [#1](https://osu.ppy.sh/multiplayer/rooms/789975) | [#1](https://www.twitch.tv/videos/2210861846) |
-| RO16 | **[FlyingTuna](https://osu.ppy.sh/users/9224078)** | **3.89 M** | 2.89 M | [ampy](https://osu.ppy.sh/users/4458239) | [#1](https://osu.ppy.sh/multiplayer/rooms/790439) | [#1](https://www.twitch.tv/videos/2210917955) |
+| RO16 | ::Intercambing::{ user-id=2546001 } | 2.84 M | **3.66 M** | **::Nopekjk::{ user-id=4585186 }** | [#1](https://osu.ppy.sh/multiplayer/rooms/790385) | [#1](https://www.twitch.tv/videos/2210917956) |
+| RO16 | ::nick1324::{ user-id=612898 } | 2.48 M | **3.03 M** | **::Tebi::{ user-id=5407620 }** | [#1](https://osu.ppy.sh/multiplayer/rooms/790361) | [#1](https://www.twitch.tv/videos/2210917954) |
+| RO16 | **::aknzx::{ user-id=9938943 }** | **4.25 M** | 3.58 M | ::2oomer::{ user-id=11141578 } | [#1](https://osu.ppy.sh/multiplayer/rooms/789920) | [#1](https://www.twitch.tv/videos/2210861845) |
+| RO16 | **::xootynator::{ user-id=3717598 }** | **3.84 M** | 3.77 M | ::A N T O N I O::{ user-id=12760743 } | [#1](https://osu.ppy.sh/multiplayer/rooms/790544) | [#1](https://www.twitch.tv/videos/2210921410) |
+| RO16 | **::Welter::{ user-id=11552867 }** | **3.43 M** | 3.38 M | ::seegii::{ user-id=4659319 } | [#1](https://osu.ppy.sh/multiplayer/rooms/789975) | [#1](https://www.twitch.tv/videos/2210861846) |
+| RO16 | **::FlyingTuna::{ user-id=9224078 }** | **3.89 M** | 2.89 M | ::ampy::{ user-id=4458239 } | [#1](https://osu.ppy.sh/multiplayer/rooms/790439) | [#1](https://www.twitch.tv/videos/2210917955) |
 
 Monday, 22 July 2024:
 
 | Stage | Red Player |  |  | Blue Player | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
-| RO16 | [Amasetic](https://osu.ppy.sh/users/11375251) | 3.51 M | **3.71 M** | **[enri](https://osu.ppy.sh/users/8640970)** | [#1](https://osu.ppy.sh/multiplayer/rooms/791681) | [#1](https://www.twitch.tv/videos/2210923049) |
+| RO16 | ::Amasetic::{ user-id=11375251 } | 3.51 M | **3.71 M** | **::enri::{ user-id=8640970 }** | [#1](https://osu.ppy.sh/multiplayer/rooms/791681) | [#1](https://www.twitch.tv/videos/2210923049) |
 
 ### Qualifiers
 
@@ -343,7 +343,7 @@ Monday, 22 July 2024:
    - Hard Rock: 2 beatmaps
    - Double Time: 3 beatmaps
 4. Players will participate in an osu!(lazer) playlist lobby, which can be completed anywhere from Sunday, July 7 19:00 UTC to Sunday, July 14 19:00 UTC.
-   - The playlist to be played is titled `Lazer Grand Arena - Qualifiers`, hosted by [LeoFLT](https://osu.ppy.sh/users/3668779).
+   - The playlist to be played is titled `Lazer Grand Arena - Qualifiers`, hosted by ::LeoFLT::{ user-id=3668779 }.
    - *Notice: the playlist **closes** on July 14, 19:00 UTC, at which point no new scores will be allowed. No exceptions will be made.*
 5. Players will have 22 tries to use across the 11 playlist entries, with no restrictions on the order of play or amount of tries per individual item.
 6. To be eligible for seeding, every player must submit *at least* one score for every beatmap listed.

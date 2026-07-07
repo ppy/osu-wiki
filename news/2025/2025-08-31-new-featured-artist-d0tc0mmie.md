@@ -17,7 +17,7 @@ Check things out:
 
 ### [d0tc0mmie - Guilty feat. Kasane Teto](https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie%20-%20Guilty%20feat.%20Kasane%20Teto.osz)
 
-We tracked down [aceticke](https://osu.ppy.sh/users/8838763) at [COE 2025](/wiki/Community/cavoe's_osu!_event) and forced him to play [this map](https://osu.ppy.sh/beatmapsets/2371889) by [Ryxliee](https://osu.ppy.sh/users/15823344) with osu!(lazer)'s [Single Tap](/wiki/Gameplay/Game_modifier/Single_Tap) mod. Here's how that went:
+We tracked down ::aceticke::{ user-id=8838763 } at [COE 2025](/wiki/Community/cavoe's_osu!_event) and forced him to play [this map](https://osu.ppy.sh/beatmapsets/2371889) by ::Ryxliee::{ user-id=15823344 } with osu!(lazer)'s [Single Tap](/wiki/Gameplay/Game_modifier/Single_Tap) mod. Here's how that went:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -27,7 +27,7 @@ We tracked down [aceticke](https://osu.ppy.sh/users/8838763) at [COE 2025](/wiki
 
 ### [d0tc0mmie - Strobe Light feat. Kasane Teto](https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie%20-%20Strobe%20Light%20feat.%20Kasane%20Teto.osz)
 
-osu!taiko mappers must love Kasane Teto too. Here's another [osu!taiko map](https://osu.ppy.sh/beatmapsets/2351120) hosted by [MicSup08](https://osu.ppy.sh/users/8834793)!
+osu!taiko mappers must love Kasane Teto too. Here's another [osu!taiko map](https://osu.ppy.sh/beatmapsets/2351120) hosted by ::MicSup08::{ user-id=8834793 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie%20-%20Strobe%20Light%20feat.%20Kasane%20Teto.mp3">

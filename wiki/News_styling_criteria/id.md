@@ -12,7 +12,7 @@ outdated_translation: true
 
 Seperti artikel wiki, semua postingan berita harus memiliki ejaan dan tata bahasa yang benar, serta memiliki informasi yang benar dan terkini.
 
-Siapapun yang tertarik untuk berkontribusi atau menulis postingan berita, hubungi kami di saluran `#osu-news` dari [server Discord osu!](https://discord.com/invite/ppy). Alternatifnya hubungi ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) atau [wiki aktif atau pengelola berita](/wiki/People/osu!_wiki_maintainers) mana pun.
+Siapapun yang tertarik untuk berkontribusi atau menulis postingan berita, hubungi kami di saluran `#osu-news` dari [server Discord osu!](https://discord.com/invite/ppy). Alternatifnya hubungi ::{ flag=AU }:: ::Ephemeral::{ user-id=102335 } atau [wiki aktif atau pengelola berita](/wiki/People/osu!_wiki_maintainers) mana pun.
 
 ## Lokal
 

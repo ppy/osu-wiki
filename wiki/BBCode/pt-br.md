@@ -303,6 +303,6 @@ A tag *Cabeçalhos (v2)* é uma tag desatualizada que já foi usada nos fóruns 
 
 ## Trivia
 
-- Este artigo da wiki foi adaptado da postagem no fórum [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) feita por [Stefan](https://osu.ppy.sh/users/626907).
+- Este artigo da wiki foi adaptado da postagem no fórum [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) feita por ::Stefan::{ user-id=626907 }.
 - Existia um bug que permitia aos usuários criar textos transparentes ao utilizar a tag de [cores](#cores) e digitando "transparent" após o sinal de igualdade (`=`).
   - Atualmente, o texto é automaticamente revertido para a cor padrão (branco) quando isto acontecer.

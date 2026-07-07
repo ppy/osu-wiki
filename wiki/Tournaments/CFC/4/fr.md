@@ -8,7 +8,7 @@ tags:
 
 ![CFC 4 logo](img/logo.png)
 
-La **Catch French Cup 4** (***CFC 4***) était un tournoi osu!catch français en 1v1 organisé par ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) et ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263). Ceci était la quatrième édition de la Catch French Cup.
+La **Catch French Cup 4** (***CFC 4***) était un tournoi osu!catch français en 1v1 organisé par ::{ flag=CA }:: ::Sinaeb::{ user-id=1576095 } et ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 }. Ceci était la quatrième édition de la Catch French Cup.
 
 ## Planning du tournoi
 
@@ -35,14 +35,14 @@ La Catch French Cup 4 était gérée par différents membres de la communauté.
 
 | Poste | Membre(s) |
 | :-- | :-- |
-| Organisateur | ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Sélectionneur de beatmap | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Arbitre | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172) |
-| Streamer | ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517), ::{ flag=FR }:: [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Commentateur | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467), ::{ flag=FR }:: [Tbotas](https://osu.ppy.sh/users/2084568), ::{ flag=FR }:: [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913) |
-| Designer | ::{ flag=FR }:: [Lotchidych](https://osu.ppy.sh/users/8375240) |
-| Statisticien | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Éditeur de wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organisateur | ::{ flag=CA }:: ::Sinaeb::{ user-id=1576095 }, ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 } |
+| Sélectionneur de beatmap | ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 } |
+| Arbitre | ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 }, ::{ flag=FR }:: ::Ryumi::{ user-id=6596270 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user-id=7157133 }, ::{ flag=CA }:: ::Sinaeb::{ user-id=1576095 }, ::{ flag=FR }:: ::Mimir::{ user-id=7382734 }, ::{ flag=JP }:: ::Briesmas::{ user-id=2865172 } |
+| Streamer | ::{ flag=CA }:: ::Sinaeb::{ user-id=1576095 }, ::{ flag=FR }:: ::FulgurentKille::{ user-id=4096322 }, ::{ flag=FR }:: ::Mirthille::{ user-id=7548517 }, ::{ flag=FR }:: ::TLQ\1Yoshii::{ user-id=7157133 } |
+| Commentateur | ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 }, ::{ flag=FR }:: ::redjiii::{ user-id=1378728 }, ::{ flag=FR }:: ::FulgurentKille::{ user-id=4096322 }, ::{ flag=FR }:: ::Yruama::{ user-id=8221467 }, ::{ flag=FR }:: ::Tbotas::{ user-id=2084568 }, ::{ flag=FR }:: ::TLQ\1Yoshii::{ user-id=7157133 }, ::{ flag=FR }:: ::\_Manyura::{ user-id=8335913 } |
+| Designer | ::{ flag=FR }:: ::Lotchidych::{ user-id=8375240 } |
+| Statisticien | ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 } |
+| Éditeur de wiki | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Liens
 
@@ -55,19 +55,19 @@ La Catch French Cup 4 était gérée par différents membres de la communauté.
 
 | Seed | Membres |
 | :-- | :-- |
-| Top | ::{ flag=FR }:: [Tbotas](https://osu.ppy.sh/users/2084568), ::{ flag=FR }:: [Alostis](https://osu.ppy.sh/users/2986875), ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
-| High | ::{ flag=FR }:: [Sounny](https://osu.ppy.sh/users/7326109), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994), ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
-| Low | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239), ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725), ::{ flag=FR }:: [Tantei B](https://osu.ppy.sh/users/6063108) |
-| Unseeded | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949), ::{ flag=FR }:: [Sageru](https://osu.ppy.sh/users/10769450), ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626), ::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397) |
+| Top | ::{ flag=FR }:: ::Tbotas::{ user-id=2084568 }, ::{ flag=FR }:: ::Alostis::{ user-id=2986875 }, ::{ flag=FR }:: ::Boros::{ user-id=5490623 }, ::{ flag=TN }:: ::-Ken::{ user-id=4430811 } |
+| High | ::{ flag=FR }:: ::Sounny::{ user-id=7326109 }, ::{ flag=FR }:: ::Holloh::{ user-id=7612994 }, ::{ flag=FR }:: ::AAAAAAAAAAAAHHH::{ user-id=4864877 }, ::{ flag=FR }:: ::Noulayfe::{ user-id=4316542 } |
+| Low | ::{ flag=FR }:: ::Noctalium::{ user-id=6488167 }, ::{ flag=FR }:: ::Julo::{ user-id=4203239 }, ::{ flag=FR }:: ::dracoV::{ user-id=7925725 }, ::{ flag=FR }:: ::Tantei B::{ user-id=6063108 } |
+| Unseeded | ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 }, ::{ flag=FR }:: ::Sageru::{ user-id=10769450 }, ::{ flag=FR }:: ::Zard::{ user-id=6277626 }, ::{ flag=FR }:: ::Dask::{ user-id=4151397 } |
 
 ## Groupes
 
 | Groupe | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=FR }:: [Tbotas](https://osu.ppy.sh/users/2084568) | ::{ flag=FR }:: [Sounny](https://osu.ppy.sh/users/7326109) | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167) | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| **B** | ::{ flag=FR }:: [Alostis](https://osu.ppy.sh/users/2986875) | ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994) | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) | ::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397) |
-| **C** | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877) | ::{ flag=FR }:: [Tantei B](https://osu.ppy.sh/users/6063108) | ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626) |
-| **D** | ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623) | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) | ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239) | ::{ flag=FR }:: [Sageru](https://osu.ppy.sh/users/10769450) |
+| **A** | ::{ flag=FR }:: ::Tbotas::{ user-id=2084568 } | ::{ flag=FR }:: ::Sounny::{ user-id=7326109 } | ::{ flag=FR }:: ::Noctalium::{ user-id=6488167 } | ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 } |
+| **B** | ::{ flag=FR }:: ::Alostis::{ user-id=2986875 } | ::{ flag=FR }:: ::Holloh::{ user-id=7612994 } | ::{ flag=FR }:: ::dracoV::{ user-id=7925725 } | ::{ flag=FR }:: ::Dask::{ user-id=4151397 } |
+| **C** | ::{ flag=TN }:: ::-Ken::{ user-id=4430811 } | ::{ flag=FR }:: ::AAAAAAAAAAAAHHH::{ user-id=4864877 } | ::{ flag=FR }:: ::Tantei B::{ user-id=6063108 } | ::{ flag=FR }:: ::Zard::{ user-id=6277626 } |
+| **D** | ::{ flag=FR }:: ::Boros::{ user-id=5490623 } | ::{ flag=FR }:: ::Noulayfe::{ user-id=4316542 } | ::{ flag=FR }:: ::Julo::{ user-id=4203239 } | ::{ flag=FR }:: ::Sageru::{ user-id=10769450 } |
 
 ## Podium
 
@@ -75,9 +75,9 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=FR }:: [Alostis](https://osu.ppy.sh/users/2986875) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=FR }:: ::Alostis::{ user-id=2986875 } |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=TN }:: ::-Ken::{ user-id=4430811 } |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: ::Noulayfe::{ user-id=4316542 } |
 
 ## Liste des beatmaps
 

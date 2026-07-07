@@ -8,7 +8,7 @@ outdated_translation: true
 
 Seu hospedeiro do [servidor de chat do osu!](/wiki/Community/Internet_Relay_Chat).
 
-[tem um perfil!](https://osu.ppy.sh/users/3)
+::tem um perfil!::{ user-id=3 }
 
 ## Aparência e trabalho
 

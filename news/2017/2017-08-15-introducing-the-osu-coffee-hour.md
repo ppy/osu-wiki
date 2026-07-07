@@ -25,7 +25,7 @@ Post any questions on your mind regarding the topic or guests on that week's sho
 
 ## The first episode
 
-As an introduction to the osu! Coffee Hour, we'll be starting out simple but strong. [HappyStick](https://osu.ppy.sh/users/256802) will be hosting the show, joined by none other than the game's lead developer, [peppy](https://osu.ppy.sh/users/2).
+As an introduction to the osu! Coffee Hour, we'll be starting out simple but strong. ::HappyStick::{ user-id=256802 } will be hosting the show, joined by none other than the game's lead developer, ::peppy::{ user-id=2 }.
 
 Together, they'll be going over the current state of the community and the issues we're facing, as well as looking ahead at the future of osu! and what vision the staff holds going forward.
 

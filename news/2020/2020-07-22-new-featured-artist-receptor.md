@@ -11,7 +11,7 @@ We're excited to welcome **Receptor** aboard as our latest Featured Artist!
 
 Popular in osu! during the 2013 era and beyond, [**Receptor**](https://osu.ppy.sh/beatmaps/artists/91) is a Russian electronic music producer most well known for his unique spin on drum-and-bass.
 
-He's remixed tracks from *Black Sun Empire* and *Noisia* to considerable critical acclaim, with mappers like [fergas](https://osu.ppy.sh/users/3144542), [FCL](https://osu.ppy.sh/users/4715762) and [Natteke](https://osu.ppy.sh/users/157177) mirroring that same excellence within the osu! community as well.
+He's remixed tracks from *Black Sun Empire* and *Noisia* to considerable critical acclaim, with mappers like ::fergas::{ user-id=3144542 }, [FCL](https://osu.ppy.sh/users/4715762) and ::Natteke::{ user-id=157177 } mirroring that same excellence within the osu! community as well.
 
 **44** stonking new tracks are now available from across **Receptor**'s entire discography, all complete with his signature sound that you just can't find anywhere else.
 
@@ -19,7 +19,7 @@ Have a listen to a few previews below and see for yourself:
 
 ### Lullaby (ft. K.I.R.A)
 
-Check out [this popular 2015 set](https://osu.ppy.sh/beatmapsets/372505) by [FCL](https://osu.ppy.sh/users/4715762)!
+Check out [this popular 2015 set](https://osu.ppy.sh/beatmapsets/372505) by ::FCL::{ user-id=4715762 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/91/previews/2429.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this popular 2015 set](https://osu.ppy.sh/beatmapsets/372505) by [FCL
 
 ### Redstar
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/184301) by [fergas](https://osu.ppy.sh/users/3144542)!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/184301) by ::fergas::{ user-id=3144542 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/91/previews/2420.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this classic set](https://osu.ppy.sh/beatmapsets/184301) by [fergas](
 
 ### Kislorod
 
-Check out [this Loved set](https://osu.ppy.sh/beatmapsets/689366) by [Xearo](https://osu.ppy.sh/users/4644931)!
+Check out [this Loved set](https://osu.ppy.sh/beatmapsets/689366) by ::Xearo::{ user-id=4644931 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/91/previews/2411.mp3" type="audio/mpeg">

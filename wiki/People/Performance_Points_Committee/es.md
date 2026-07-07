@@ -29,8 +29,8 @@ Los mantenedores son elegidos personalmente por los desarrolladores de osu! y es
 
 | Perfil de osu! | Perfil de GitHub |
 | :-- | :-- |
-| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
-| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) |
+| ::{ flag=RU }:: ::StanR::{ user-id=7217455 } | [stanriders](https://github.com/stanriders) |
+| ::{ flag=GB }:: ::tsunyoku::{ user-id=11315329 } | [tsunyoku](https://github.com/tsunyoku) |
 
 ## Miembros del comité
 
@@ -42,16 +42,16 @@ El comité de osu! se anunció por primera vez al público en la [noticia de nov
 
 | Perfil de osu! | Perfil de GitHub | Fecha de ingreso |
 | :-- | :-- | :-- |
-| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) | 9 de noviembre de 2021 |
-| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) | 12 de abril de 2024 |
+| ::{ flag=RU }:: ::StanR::{ user-id=7217455 } | [stanriders](https://github.com/stanriders) | 9 de noviembre de 2021 |
+| ::{ flag=GB }:: ::tsunyoku::{ user-id=11315329 } | [tsunyoku](https://github.com/tsunyoku) | 12 de abril de 2024 |
 
 #### Miembros anteriores
 
 | Perfil de osu! | Fecha de ingreso | Fecha de salida |
 | :-- | :-- | :-- |
-| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | 9 de noviembre de 2021 | 12 de abril de 2024 |
-| ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987) | 9 de noviembre de 2021 | 12 de abril de 2024 |
-| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | 9 de noviembre de 2021 | 29 de octubre de 2024 |
+| ::{ flag=AU }:: ::MBmasher::{ user-id=4498616 } | 9 de noviembre de 2021 | 12 de abril de 2024 |
+| ::{ flag=HU }:: ::emu1337::{ user-id=2185987 } | 9 de noviembre de 2021 | 12 de abril de 2024 |
+| ::{ flag=GB }:: ::moonpoint::{ user-id=9558549 } | 9 de noviembre de 2021 | 29 de octubre de 2024 |
 
 ### osu!taiko
 
@@ -59,21 +59,21 @@ El comité de osu!taiko se formó el 1 de mayo de 2022 en respuesta a [una encue
 
 | Perfil de osu! | Perfil de GitHub | Fecha de ingreso |
 | :-- | :-- | :-- |
-| ::{ flag=AU }:: [ltca](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | 1 de mayo de 2022 |
-| ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728) | [Babysnakes101](https://github.com/BabySnakes101) | 1 de diciembre de 2024 |
-| ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | 17 de septiembre de 2023 |
-| ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982) | [YaniFR](https://github.com/YaniFR) | 1 de diciembre de 2024 |
-| ::{ flag=GB }:: [rloseise](https://osu.ppy.sh/users/6793778) | [buyaspacecube](https://github.com/buyaspacecube) | 15 de enero de 2025 |
+| ::{ flag=AU }:: ::ltca::{ user-id=11475208 } | [Lawtrohux](https://github.com/Lawtrohux) | 1 de mayo de 2022 |
+| ::{ flag=PT }:: ::BabySnakes::{ user-id=4669728 } | [Babysnakes101](https://github.com/BabySnakes101) | 1 de diciembre de 2024 |
+| ::{ flag=DE }:: ::ph1::{ user-id=22194163 } | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | 17 de septiembre de 2023 |
+| ::{ flag=FR }:: ::YaniFR::{ user-id=11260982 } | [YaniFR](https://github.com/YaniFR) | 1 de diciembre de 2024 |
+| ::{ flag=GB }:: ::rloseise::{ user-id=6793778 } | [buyaspacecube](https://github.com/buyaspacecube) | 15 de enero de 2025 |
 
 #### Miembros anteriores
 
 | Perfil de osu! | Fecha de ingreso | Fecha de salida |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | 1 de mayo de 2022 | 17 de septiembre de 2023 |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 1 de mayo de 2022 | 31 de octubre de 2024 |
-| ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | 25 de julio de 2023 | 19 de noviembre de 2024 |
-| ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | 1 de mayo de 2022 | 24 de noviembre de 2024 |
-| ::{ flag=US }:: [shinosky](https://osu.ppy.sh/users/9272314) | 1 de diciembre de 2024 | 6 de enero de 2025 |
+| ::{ flag=MY }:: ::vun::{ user-id=6932501 } | 1 de mayo de 2022 | 17 de septiembre de 2023 |
+| ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 } | 1 de mayo de 2022 | 31 de octubre de 2024 |
+| ::{ flag=CA }:: ::Natelytle::{ user-id=17607667 } | 25 de julio de 2023 | 19 de noviembre de 2024 |
+| ::{ flag=GB }:: ::Horiiizon::{ user-id=8071438 } | 1 de mayo de 2022 | 24 de noviembre de 2024 |
+| ::{ flag=US }:: ::shinosky::{ user-id=9272314 } | 1 de diciembre de 2024 | 6 de enero de 2025 |
 
 ### osu!catch
 
@@ -81,17 +81,17 @@ El comité de osu!catch se formó el 14 de octubre de 2023.
 
 | Perfil de osu! | Perfil de GitHub | Fecha de ingreso |
 | :-- | :-- | :-- |
-| ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | [bastoo0](https://github.com/bastoo0) | 14 de octubre de 2023 |
-| ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) | [wulpine](https://github.com/wulpine) | 23 de abril de 2025 |
-| ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | [Flawnpiece](https://github.com/Flawnpiece) | 14 de octubre de 2023 |
+| ::{ flag=FR }:: ::bastoo0::{ user-id=4864877 } | [bastoo0](https://github.com/bastoo0) | 14 de octubre de 2023 |
+| ::{ flag=RU }:: ::KitsunIvy::{ user-id=7055384 } | [wulpine](https://github.com/wulpine) | 23 de abril de 2025 |
+| ::{ flag=CA }:: ::Zyoulou::{ user-id=8668722 } | [Flawnpiece](https://github.com/Flawnpiece) | 14 de octubre de 2023 |
 
 #### Miembros anteriores
 
 | Perfil de osu! | Fecha de ingreso | Fecha de salida |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [Sorceress](https://osu.ppy.sh/users/1913190) | 14 de octubre de 2023 | 11 de diciembre de 2024 |
-| ::{ flag=GB }:: [Zoggoth](https://osu.ppy.sh/users/2799946) | 14 de octubre de 2023 | 11 de diciembre de 2024 |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | 14 de octubre de 2023 | 3 de septiembre de 2025 |
+| ::{ flag=GB }:: ::Sorceress::{ user-id=1913190 } | 14 de octubre de 2023 | 11 de diciembre de 2024 |
+| ::{ flag=GB }:: ::Zoggoth::{ user-id=2799946 } | 14 de octubre de 2023 | 11 de diciembre de 2024 |
+| ::{ flag=US }:: ::Secre::{ user-id=2306637 } | 14 de octubre de 2023 | 3 de septiembre de 2025 |
 
 ### osu!mania
 
@@ -99,7 +99,7 @@ El comité de osu!mania se formó el 22 de abril de 2022 en respuesta a [una enc
 
 | Perfil de osu! | Perfil de GitHub | Fecha de ingreso |
 | :-- | :-- | :-- |
-| ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) | [abraker95](https://github.com/abraker95) | 22 de abril de 2022 |
-| ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881) | [Eve-ning](https://github.com/Eve-ning) | 22 de abril de 2022 |
-| ::{ flag=AU }:: [molneya](https://osu.ppy.sh/users/8945180) | [molneya](https://github.com/molneya) | 22 de abril de 2022 |
-| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | [Kominaru](https://github.com/Kominaru) | 22 de abril de 2022 |
+| ::{ flag=US }:: ::abraker::{ user-id=4635891 } | [abraker95](https://github.com/abraker95) | 22 de abril de 2022 |
+| ::{ flag=SG }:: ::Evening::{ user-id=2193881 } | [Eve-ning](https://github.com/Eve-ning) | 22 de abril de 2022 |
+| ::{ flag=AU }:: ::molneya::{ user-id=8945180 } | [molneya](https://github.com/molneya) | 22 de abril de 2022 |
+| ::{ flag=ES }:: ::Quenlla::{ user-id=4725379 } | [Kominaru](https://github.com/Kominaru) | 22 de abril de 2022 |

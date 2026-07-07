@@ -32,7 +32,7 @@ The **Chinese osu!mania 4K Tournament 2018** (***CMT 4K 2018***) is the third on
 | ![](/wiki/shared/crown-silver.png) | 4 months of osu!supporter |
 | ![](/wiki/shared/crown-bronze.png) | 2 months of osu!supporter |
 
-All prizes are sponsored by **[Arkaaalin](https://osu.ppy.sh/users/7477382)**.
+All prizes are sponsored by **::Arkaaalin::{ user-id=7477382 }**.
 
 ## Organisation
 
@@ -40,12 +40,12 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members.
 
 | Position | Member(s) |
 | --: | :-- |
-| Management and organisation | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256) |
-| Coordinator | ::{ flag=CN }:: [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| Mappool selector | ::{ flag=US }:: [qqqant](https://osu.ppy.sh/users/8976576), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) |
-| Streamer and referee | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
-| Commentator | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=AU }:: [williammak](https://osu.ppy.sh/users/11083079), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540), ::{ flag=CN }:: [NimaPro](https://osu.ppy.sh/users/11524571), ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501) |
-| Wiki editor | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Management and organisation | ::{ flag=CN }:: ::hans1999::{ user-id=6679329 }, ::{ flag=CN }:: ::Flow Light::{ user-id=6705256 } |
+| Coordinator | ::{ flag=CN }:: ::SSV Normandy::{ user-id=6475977 } |
+| Mappool selector | ::{ flag=US }:: ::qqqant::{ user-id=8976576 }, ::{ flag=SG }:: ::Polytetral::{ user-id=8612061 }, ::{ flag=US }:: ::Trainer-::{ user-id=9331760 }, ::{ flag=SG }:: ::Raveille::{ user-id=1388767 } |
+| Streamer and referee | ::{ flag=CN }:: ::aiyulu::{ user-id=189617 }, ::{ flag=CN }:: ::Flow Light::{ user-id=6705256 }, ::{ flag=CN }:: ::kj415j45::{ user-id=9367540 } |
+| Commentator | ::{ flag=CN }:: ::hans1999::{ user-id=6679329 }, ::{ flag=CN }:: ::Flow Light::{ user-id=6705256 }, ::{ flag=AU }:: ::williammak::{ user-id=11083079 }, ::{ flag=CN }:: ::crazybrother::{ user-id=8045083 }, ::{ flag=CN }:: ::kj415j45::{ user-id=9367540 }, ::{ flag=CN }:: ::NimaPro::{ user-id=11524571 }, ::{ flag=CN }:: ::IA daisuki::{ user-id=11238501 } |
+| Wiki editor | ::{ flag=CN }:: ::kj415j45::{ user-id=9367540 } |
 
 ## Links
 

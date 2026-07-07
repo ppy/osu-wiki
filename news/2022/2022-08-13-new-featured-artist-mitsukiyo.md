@@ -13,7 +13,7 @@ A master of variety, Korean composer **Mitsukiyo** designs cute and casual tunes
 
 [**Mitsukiyo**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/292) is the new home for **12** of those ultra catchy tunes. Pick up a song and begin crafting your magnum opus beatmap.
 
-Not sure where to start? Here's a few previews to give you a sample of **Mitsukiyo**'s works, including a special osu!taiko touchscreen showcase video featuring [mangomizer](https://osu.ppy.sh/users/1893718) playing [Mitsukiyo - Dream Leaf](https://osu.ppy.sh/beatmapsets/1792033). Check it all out:
+Not sure where to start? Here's a few previews to give you a sample of **Mitsukiyo**'s works, including a special osu!taiko touchscreen showcase video featuring ::mangomizer::{ user-id=1893718 } playing [Mitsukiyo - Dream Leaf](https://osu.ppy.sh/beatmapsets/1792033). Check it all out:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ Not sure where to start? Here's a few previews to give you a sample of **Mitsuki
 
 ### Dream Leaf
 
-Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1792033) hosted by [Hivie](https://osu.ppy.sh/users/14102976)!
+Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1792033) hosted by ::Hivie::{ user-id=14102976 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/292/Midori%20no%20Tegami%2FMitsukiyo%20-%20Dream%20Leaf.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1792033) hoste
 
 ### Mutual Panorama (feat. Aitsuki Nakuru)
 
-Or try [this brand-new showcase beatmap](https://osu.ppy.sh/beatmapsets/1806127) hosted by [Ayesha Altugle](https://osu.ppy.sh/users/1125647)!
+Or try [this brand-new showcase beatmap](https://osu.ppy.sh/beatmapsets/1806127) hosted by ::Ayesha Altugle::{ user-id=1125647 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/292/Balloon%20Party%2FMitsukiyo%20-%20Mutual%20Panorama%20(feat.%20Aitsuki%20Nakuru).mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Or try [this brand-new showcase beatmap](https://osu.ppy.sh/beatmapsets/1806127)
 
 ### Kimi to Boku no Sekai (feat. \*namirin)
 
-Orrrrrrrr try [this other brand-new showcase beatmap](https://osu.ppy.sh/beatmapsets/1806117) hosted by [Amateurre](https://osu.ppy.sh/users/7326908)!
+Orrrrrrrr try [this other brand-new showcase beatmap](https://osu.ppy.sh/beatmapsets/1806117) hosted by ::Amateurre::{ user-id=7326908 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/292/Balloon%20Party%2FMitsukiyo%20-%20Kimi%20to%20Boku%20no%20Sekai%20(feat.%20namirin).mp3" type="audio/mpeg">

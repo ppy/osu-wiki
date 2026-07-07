@@ -9,7 +9,7 @@ Favourites looked to assert dominance. Underdogs had upsets in their sights. Fro
 
 ![](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/banner.jpg)
 
-As before, be sure to check out [D I O](https://osu.ppy.sh/users/3958619)'s video if you'd like a more visual recap of the past week's matches:
+As before, be sure to check out ::D I O::{ user-id=3958619 }'s video if you'd like a more visual recap of the past week's matches:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/KjK2Z6WxDEY" frameborder="0" allowfullscreen></iframe>
@@ -47,7 +47,7 @@ This week had two [osu! original](/wiki/Community/Bespoke_music) debuts as well!
     </audio>
 </div>
 
-In the No Mod pool, the amazing [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430)'s [ILLUSTRIOUS DRIFTERS](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699), an electronic, high-tempo banger mapped as a classic tech map by [Altai](https://osu.ppy.sh/users/5745865) and [Aistre](https://osu.ppy.sh/users/4879380), with an extremely cool storyboard by [Kuroise](https://osu.ppy.sh/users/14547127) accented by the cute design of the original character Aurora, a chat-favourite over the weekend.
+In the No Mod pool, the amazing [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430)'s [ILLUSTRIOUS DRIFTERS](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699), an electronic, high-tempo banger mapped as a classic tech map by ::Altai::{ user-id=5745865 } and [Aistre](https://osu.ppy.sh/users/4879380), with an extremely cool storyboard by ::Kuroise::{ user-id=14547127 } accented by the cute design of the original character Aurora, a chat-favourite over the weekend.
 
 [![](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/nastrond_banner.jpg)](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873)
 
@@ -57,7 +57,7 @@ In the No Mod pool, the amazing [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artis
     </audio>
 </div>
 
-And for the tiebreaker, a familiar face returned to osu!, as one of the earliest and most iconic Featured Artists, [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), gave us a chilling yet epic song in [Nástrǫnd](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873), mapped by [funny](https://osu.ppy.sh/users/8473573), [Mir](https://osu.ppy.sh/users/8688812) and [toybot](https://osu.ppy.sh/users/2848604) in a mechanically heavy, yet still distinctly technical way. Do check out the storyboard by [LowGraphics](https://osu.ppy.sh/users/5383942) as well (maybe through the [commentary video below](#helblinde)), it's incredibly impressive!
+And for the tiebreaker, a familiar face returned to osu!, as one of the earliest and most iconic Featured Artists, [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), gave us a chilling yet epic song in [Nástrǫnd](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873), mapped by ::funny::{ user-id=8473573 }, [Mir](https://osu.ppy.sh/users/8688812) and ::toybot::{ user-id=2848604 } in a mechanically heavy, yet still distinctly technical way. Do check out the storyboard by ::LowGraphics::{ user-id=5383942 } as well (maybe through the [commentary video below](#helblinde)), it's incredibly impressive!
 
 ## Saturday summary
 
@@ -80,20 +80,20 @@ And for the tiebreaker, a familiar face returned to osu!, as one of the earliest
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2625094523&parent=osu.ppy.sh&autoplay=false&time=0h8m51s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-The story of Saturday was the #26 seed Taiwan and the ascension of ::{ flag=TW }:: [GAO HAO](https://osu.ppy.sh/users/8964050). An unheralded player to many coming into this World Cup, he would make himself into a household name over the course of Taiwan's shocking upset of #12 seed Romania in the losers' bracket round 2.
+The story of Saturday was the #26 seed Taiwan and the ascension of ::{ flag=TW }:: ::GAO HAO::{ user-id=8964050 }. An unheralded player to many coming into this World Cup, he would make himself into a household name over the course of Taiwan's shocking upset of #12 seed Romania in the losers' bracket round 2.
 
-The match began inauspiciously with the teams trading picks for the first four maps before Romania stole a break point on Taiwan's 3rd pick of [HR1](https://osu.ppy.sh/beatmapsets/2465285#osu/5396555), led by ::{ flag=RO }:: [origin_](https://osu.ppy.sh/users/15095811) and his 608,503 score. Romania consolidated the break point by dominating [FM2](https://osu.ppy.sh/beatmapsets/2465435#osu/5396931) next for a 4–2 lead, after which the teams traded points with Romania taking match point advantage at 5–3.
+The match began inauspiciously with the teams trading picks for the first four maps before Romania stole a break point on Taiwan's 3rd pick of [HR1](https://osu.ppy.sh/beatmapsets/2465285#osu/5396555), led by ::{ flag=RO }:: ::origin\1::{ user-id=15095811 } and his 608,503 score. Romania consolidated the break point by dominating [FM2](https://osu.ppy.sh/beatmapsets/2465435#osu/5396931) next for a 4–2 lead, after which the teams traded points with Romania taking match point advantage at 5–3.
 
-At this point, it was do or die time for Taiwan, whose tournament lives were on the line heading into their final pick of DT1. On the iconic [Remote Control](https://osu.ppy.sh/beatmapsets/351630#osu/774965), they put together a strong overall team performance led by ::{ flag=TW }:: [Flyer](https://osu.ppy.sh/users/9767342) putting up a 906,008 score to win the map and force Romania into their own final selection.
+At this point, it was do or die time for Taiwan, whose tournament lives were on the line heading into their final pick of DT1. On the iconic [Remote Control](https://osu.ppy.sh/beatmapsets/351630#osu/774965), they put together a strong overall team performance led by ::{ flag=TW }:: ::Flyer::{ user-id=9767342 } putting up a 906,008 score to win the map and force Romania into their own final selection.
 
-[NM3](https://osu.ppy.sh/beatmapsets/2465419#osu/5396883) was their choice for their final opportunity to win the match outright. The Romanian roster for this map looked strong, led by ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890), historically one of the best alt players in the world. However, ::{ flag=TW }:: [GAO HAO](https://osu.ppy.sh/users/8964050) had other ideas: he coolly and calmly dropped the only full combo on the map of the entire weekend, bringing the match to a tie and forcing the tiebreaker. The newly minted Taiwanese carry would continue his momentum into that tiebreaker, top-scoring [Nastrond](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873) with a score of 671,250 and leading Taiwan to an improbable victory, one of the largest seeding upsets in World Cup history.
+[NM3](https://osu.ppy.sh/beatmapsets/2465419#osu/5396883) was their choice for their final opportunity to win the match outright. The Romanian roster for this map looked strong, led by ::{ flag=RO }:: ::badeu::{ user-id=1473890 }, historically one of the best alt players in the world. However, ::{ flag=TW }:: ::GAO HAO::{ user-id=8964050 } had other ideas: he coolly and calmly dropped the only full combo on the map of the entire weekend, bringing the match to a tie and forcing the tiebreaker. The newly minted Taiwanese carry would continue his momentum into that tiebreaker, top-scoring [Nastrond](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873) with a score of 671,250 and leading Taiwan to an improbable victory, one of the largest seeding upsets in World Cup history.
 
 ---
 
 While the remainder of Saturday’s matches were won by the higher seeds in largely straightforward fashion, two other matchups bear mentioning among the highlights of the day:
 
 - ::{ flag=BR }:: Brazil (#11) vs. ::{ flag=FI }:: Finland (#22) was a topsy-turvy affair in which Brazil jumped out to a 4–1 lead that Finland brought all the way back to 4–4 before Brazil took the final two maps for a 6–4 final margin of victory.
-- ::{ flag=CA }:: Canada (#4) vs. ::{ flag=DE }:: Germany (#5), a matchup of titans in the winners' Quarterfinals, played out similarly, as Canada dominated the early stages of the match to take a 5–1 lead before a ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659) masterclass on [HD1](https://osu.ppy.sh/beatmapsets/2424357#osu/5276838) and [HR1](https://osu.ppy.sh/beatmapsets/2465285#osu/5396555) notched Germany two further points, but Canada shut the door on their comeback attempt by eking out a 92,115 margin of victory on [FM4](https://osu.ppy.sh/beatmapsets/2412331#osu/5297696) to finish off the match 6–3.
+- ::{ flag=CA }:: Canada (#4) vs. ::{ flag=DE }:: Germany (#5), a matchup of titans in the winners' Quarterfinals, played out similarly, as Canada dominated the early stages of the match to take a 5–1 lead before a ::{ flag=DE }:: ::criller::{ user-id=8116659 } masterclass on [HD1](https://osu.ppy.sh/beatmapsets/2424357#osu/5276838) and [HR1](https://osu.ppy.sh/beatmapsets/2465285#osu/5396555) notched Germany two further points, but Canada shut the door on their comeback attempt by eking out a 92,115 margin of victory on [FM4](https://osu.ppy.sh/beatmapsets/2412331#osu/5297696) to finish off the match 6–3.
 
 ## Sunday summary
 
@@ -106,7 +106,7 @@ While the remainder of Saturday’s matches were won by the higher seeds in larg
 | Philippines ::{ flag=PH }:: | 3 | **6** | ::{ flag=RU }:: **Russian Federation** |
 | **Norway** ::{ flag=NO }:: | **6** | 3 | ::{ flag=BR }:: Brazil |
 
-Sunday's slate featured the remaining two Quarterfinals matches and the losers' bracket Round 3 potential matches, in which LB winners from Saturday faced off for the remaining spots in the top 12. In the Winners side of the bracket, Australia sent the defending champions South Korea to the losers' bracket by a score of 6–2 including highlights such as [ASecretBox](https://osu.ppy.sh/users/7341183) and [mrekk](https://osu.ppy.sh/users/7562902) dropping double FCs on [FM1](https://osu.ppy.sh/beatmapsets/2294086#osu/4898892) and FM4 with [palr](https://osu.ppy.sh/users/15429006) joining them for a ridiculous triple FC on [FM2](https://osu.ppy.sh/beatmapsets/2465435#osu/5396931).
+Sunday's slate featured the remaining two Quarterfinals matches and the losers' bracket Round 3 potential matches, in which LB winners from Saturday faced off for the remaining spots in the top 12. In the Winners side of the bracket, Australia sent the defending champions South Korea to the losers' bracket by a score of 6–2 including highlights such as ::ASecretBox::{ user-id=7341183 } and [mrekk](https://osu.ppy.sh/users/7562902) dropping double FCs on [FM1](https://osu.ppy.sh/beatmapsets/2294086#osu/4898892) and FM4 with ::palr::{ user-id=15429006 } joining them for a ridiculous triple FC on [FM2](https://osu.ppy.sh/beatmapsets/2465435#osu/5396931).
 
 Following this, #1 seed Poland put on a clinic against China with a 6–1 victory in which they won each of their points by 400,000 points or more — though China stole the show with an [unbelievable team score](https://www.twitch.tv/videos/2625999082?t=0h23m32s) on [HR3](https://osu.ppy.sh/beatmapsets/755651#osu/1590460) that's a must-to-watch for all OWC fans.
 
@@ -223,9 +223,9 @@ At some point you will find your little niche where you can start adding individ
 
 ::{#lowgraphics}::
 
-[![LowGraphics](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/LowGraphics.png?1)](https://osu.ppy.sh/users/5383942)
+::!\1LowGraphics\1(/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/LowGraphics.png?1)::{ user-id=5383942 }
 
-When it comes to lyric-driven storyboards, few names stand out in the community quite like [LowGraphics](https://osu.ppy.sh/users/5383942). Recognised for his visual storytelling through text design, LowGraphics left us a lasting impression with his work on [Lies Playing Truth](https://youtu.be/v5ZaTeibemI) in OWC 2024 and [Veil of Ash](https://youtu.be/1a8kmvlpSj4) in CWC 2025. We now see him making a return to take on the Quarterfinals Tiebreaker [Helblinde - Nástrǫnd](https://youtu.be/k0fRmaEWty8), a challenging dark mythological design rooted in Norse lore.
+When it comes to lyric-driven storyboards, few names stand out in the community quite like ::LowGraphics::{ user-id=5383942 }. Recognised for his visual storytelling through text design, LowGraphics left us a lasting impression with his work on [Lies Playing Truth](https://youtu.be/v5ZaTeibemI) in OWC 2024 and [Veil of Ash](https://youtu.be/1a8kmvlpSj4) in CWC 2025. We now see him making a return to take on the Quarterfinals Tiebreaker [Helblinde - Nástrǫnd](https://youtu.be/k0fRmaEWty8), a challenging dark mythological design rooted in Norse lore.
 
 <div class="news-chat-quote__text-container">
 

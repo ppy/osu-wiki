@@ -8,7 +8,7 @@ series: monthly_beatmapping_contest
 
 After all the mappers had been working hard away at their mapsets for this slower paced song, the results are in and the winner has been decided. This one was a osu!standard map only, so no taiko, ctb or mania difficulties this time around!
 
-The winner of the contest was [Damnae](https://osu.ppy.sh/users/989377) with a score of 175 points. This is a solid 13 point lead over [Cherry Blossom](https://osu.ppy.sh/users/1156742), who scored 162 points from the judges to get second place. Not far behind with only a 4 point difference was a two way tie for third between [Frey](https://osu.ppy.sh/users/695678) and [Shadren](https://osu.ppy.sh/users/745494), who both got 158 points.
+The winner of the contest was ::Damnae::{ user-id=989377 } with a score of 175 points. This is a solid 13 point lead over ::Cherry Blossom::{ user-id=1156742 }, who scored 162 points from the judges to get second place. Not far behind with only a 4 point difference was a two way tie for third between ::Frey::{ user-id=695678 } and [Shadren](https://osu.ppy.sh/users/745494), who both got 158 points.
 
 This map is going to be bundled into the installer for the game along with 6 months of supporter and a mapper title for the winning entry, but for those who would like to play it right now, you can find it [here](https://osu.ppy.sh/beatmaps/671412). Make sure you give it a go, as the map definitely earned its place as a first place score.
 

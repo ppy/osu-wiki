@@ -42,12 +42,12 @@ The osu!mania 4K Chinese National Cup 2022 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
-| Mappool selector | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [aa219040](https://osu.ppy.sh/users/11653961), ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138) |
-| Streamer | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [110](https://osu.ppy.sh/users/4524921), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363) |
-| Designer | ::{ flag=CN }:: [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |
-| Referee | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363) |
-| Statistician | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) |
+| Manager | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 } |
+| Mappool selector | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 }, ::{ flag=CN }:: ::\[Crz\]Satori::{ user-id=7082178 }, ::{ flag=CN }:: ::YuEast 2018::{ user-id=13953619 }, ::{ flag=CN }:: ::\[GB\]Sanae::{ user-id=11238501 }, ::{ flag=CN }:: ::aa219040::{ user-id=11653961 }, ::{ flag=CN }:: ::\_Stan::{ user-id=1653229 }, ::{ flag=ID }:: ::eZmmR::{ user-id=8647138 } |
+| Streamer | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 }, ::{ flag=CN }:: ::Sonoaoi::{ user-id=9755808 }, ::{ flag=CN }:: ::110::{ user-id=4524921 }, ::{ flag=CN }:: ::Muziyami::{ user-id=7003013 }, ::{ flag=CN }:: ::Sonoaoi::{ user-id=9755808 }, ::{ flag=CN }:: ::FcEazy::{ user-id=7825227 }, ::{ flag=CN }:: ::\[Crz\]Makii::{ user-id=5242158 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user-id=11279273 }, ::{ flag=CN }:: ::Rasis::{ user-id=1209363 } |
+| Designer | ::{ flag=CN }:: ::Dr\_Tissues::{ user-id=5106681 } |
+| Referee | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 }, ::{ flag=CN }:: ::\[GB\]Sanae::{ user-id=11238501 }, ::{ flag=CN }:: ::Muziyami::{ user-id=7003013 }, ::{ flag=CN }:: ::Sonoaoi::{ user-id=9755808 }, ::{ flag=CN }:: ::\[Crz\]Makii::{ user-id=5242158 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user-id=11279273 }, ::{ flag=CN }:: ::FcEazy::{ user-id=7825227 }, ::{ flag=CN }:: ::Rasis::{ user-id=1209363 } |
+| Statistician | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user-id=11279273 } |
 
 ## Links
 
@@ -63,69 +63,69 @@ The osu!mania 4K Chinese National Cup 2022 was run by various community members.
 
 | Seed | Player |
 | :-: | :-- |
-| #1 | ::{ flag=HK }:: [MegMewtwoZ](https://osu.ppy.sh/users/13235067) |
-| #2 | ::{ flag=HK }:: [Quotient GD](https://osu.ppy.sh/users/11313227) |
-| #3 | ::{ flag=HK }:: [Ricizus](https://osu.ppy.sh/users/10884561) |
-| #4 | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
-| #5 | ::{ flag=CN }:: [Akermo](https://osu.ppy.sh/users/14934242) |
-| #6 | ::{ flag=CN }:: [Kuiiiiteeee](https://osu.ppy.sh/users/7304075) |
-| #7 | ::{ flag=CN }:: [\[Crz\]Reimu](https://osu.ppy.sh/users/14318312) |
-| #8 | ::{ flag=CN }:: [\[Crz\]rebellion](https://osu.ppy.sh/users/15625432) |
-| #9 | ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291) |
-| #10 | ::{ flag=CN }:: [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) |
-| #11 | ::{ flag=CN }:: [\[Crz\]Riko](https://osu.ppy.sh/users/7928981) |
-| #12 | ::{ flag=CN }:: [alivn](https://osu.ppy.sh/users/15807665) |
-| #13 | ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) |
-| #14 | ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517) |
-| #15 | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018) |
-| #16 | ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409) |
-| #17 | ::{ flag=CN }:: [YuLiangSSS](https://osu.ppy.sh/users/15889644) |
-| #18 | ::{ flag=CN }:: [\[Crz\]lf1f1f](https://osu.ppy.sh/users/8611484) |
-| #19 | ::{ flag=CN }:: [Miyes](https://osu.ppy.sh/users/12942073) |
-| #20 | ::{ flag=CN }:: [- Minato Aqua -](https://osu.ppy.sh/users/14767969) |
-| #21 | ::{ flag=TW }:: [murorachi](https://osu.ppy.sh/users/8682905) |
-| #22 | ::{ flag=CN }:: [-Chen-](https://osu.ppy.sh/users/14030362) |
-| #23 | ::{ flag=CN }:: [rurudo1o1o](https://osu.ppy.sh/users/10443855) |
-| #24 | ::{ flag=CN }:: [H dame](https://osu.ppy.sh/users/13673300) |
-| #25 | ::{ flag=CN }:: [- Xiaoluoli -](https://osu.ppy.sh/users/9502281) |
-| #26 | ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659) |
-| #27 | ::{ flag=CN }:: [Krn\_](https://osu.ppy.sh/users/12452291) |
-| #28 | ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275) |
-| #29 | ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016) |
-| #30 | ::{ flag=CN }:: [\[Crz\]IsxI](https://osu.ppy.sh/users/18042127) |
-| #31 | ::{ flag=CN }:: [Wings_AnChen](https://osu.ppy.sh/users/12694894) |
-| #32 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| #33 | ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562) |
-| #34 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) |
-| #35 | ::{ flag=CN }:: [CLLbin](https://osu.ppy.sh/users/11837219) |
-| #36 | ::{ flag=CN }:: [MkoTenshi](https://osu.ppy.sh/users/6532520) |
-| #37 | ::{ flag=CN }:: [YUCInoback](https://osu.ppy.sh/users/24449770) |
-| #38 | ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674) |
-| #39 | ::{ flag=CN }:: [Molli](https://osu.ppy.sh/users/8893772) |
-| #40 | ::{ flag=CN }:: [DJ Sharpnel](https://osu.ppy.sh/users/5132402) |
-| #41 | ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072) |
-| #42 | ::{ flag=CN }:: [Rudown](https://osu.ppy.sh/users/7850540) |
-| #43 | ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648) |
-| #44 | ::{ flag=CN }:: [\[JbL\]Hx_032](https://osu.ppy.sh/users/11603156) |
-| #45 | ::{ flag=CN }:: [shade0214](https://osu.ppy.sh/users/14665128) |
-| #46 | ::{ flag=CN }:: [N3k0ha_5h12uku](https://osu.ppy.sh/users/8781662) |
-| #47 | ::{ flag=CN }:: [Etanity Larva](https://osu.ppy.sh/users/10449022) |
-| #48 | ::{ flag=CN }:: [katiexie](https://osu.ppy.sh/users/5908765) |
-| #49 | ::{ flag=HK }:: [MCPXiaoBai](https://osu.ppy.sh/users/11259611) |
-| #50 | ::{ flag=CN }:: [Sakurada Shiro](https://osu.ppy.sh/users/14617751) |
-| #51 | ::{ flag=CN }:: [2580697339](https://osu.ppy.sh/users/6311072) |
-| #52 | ::{ flag=CN }:: [Gregcraft](https://osu.ppy.sh/users/18809246) |
-| #53 | ::{ flag=CN }:: [\[GB\]Cz](https://osu.ppy.sh/users/9191281) |
-| #54 | ::{ flag=CN }:: [ICspoon](https://osu.ppy.sh/users/10398689) |
-| #55 | ::{ flag=CN }:: [MIKUlove_](https://osu.ppy.sh/users/20387245) |
-| #56 | ::{ flag=CN }:: [dreamed123](https://osu.ppy.sh/users/20602698) |
-| #57 | ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740) |
-| #58 | ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) |
-| #59 | ::{ flag=CN }:: [Hunxin](https://osu.ppy.sh/users/6397367) |
-| #60 | ::{ flag=CN }:: [YuanLiang](https://osu.ppy.sh/users/21013668) |
-| #61 | ::{ flag=CN }:: [luluxia](https://osu.ppy.sh/users/5863409) |
-| #62 | ::{ flag=CN }:: [zerda](https://osu.ppy.sh/users/20421597) |
-| #63 | ::{ flag=CN }:: [Yayoi Takatsuki](https://osu.ppy.sh/users/11970894) |
+| #1 | ::{ flag=HK }:: ::MegMewtwoZ::{ user-id=13235067 } |
+| #2 | ::{ flag=HK }:: ::Quotient GD::{ user-id=11313227 } |
+| #3 | ::{ flag=HK }:: ::Ricizus::{ user-id=10884561 } |
+| #4 | ::{ flag=CN }:: ::\[GB\]Mafufu::{ user-id=10884561 } |
+| #5 | ::{ flag=CN }:: ::Akermo::{ user-id=14934242 } |
+| #6 | ::{ flag=CN }:: ::Kuiiiiteeee::{ user-id=7304075 } |
+| #7 | ::{ flag=CN }:: ::\[Crz\]Reimu::{ user-id=14318312 } |
+| #8 | ::{ flag=CN }:: ::\[Crz\]rebellion::{ user-id=15625432 } |
+| #9 | ::{ flag=CN }:: ::\[GB\]AelSan::{ user-id=14095291 } |
+| #10 | ::{ flag=CN }:: ::\[Crz\]sunnyxxy::{ user-id=10333739 } |
+| #11 | ::{ flag=CN }:: ::\[Crz\]Riko::{ user-id=7928981 } |
+| #12 | ::{ flag=CN }:: ::alivn::{ user-id=15807665 } |
+| #13 | ::{ flag=CN }:: ::tyrcs::{ user-id=13026904 } |
+| #14 | ::{ flag=HK }:: ::Yana Feiya::{ user-id=7802517 } |
+| #15 | ::{ flag=CN }:: ::\[GB\]Luoxuan0327::{ user-id=8586018 } |
+| #16 | ::{ flag=CN }:: ::\[GB\]gluefly::{ user-id=8715409 } |
+| #17 | ::{ flag=CN }:: ::YuLiangSSS::{ user-id=15889644 } |
+| #18 | ::{ flag=CN }:: ::\[Crz\]lf1f1f::{ user-id=8611484 } |
+| #19 | ::{ flag=CN }:: ::Miyes::{ user-id=12942073 } |
+| #20 | ::{ flag=CN }:: ::- Minato Aqua -::{ user-id=14767969 } |
+| #21 | ::{ flag=TW }:: ::murorachi::{ user-id=8682905 } |
+| #22 | ::{ flag=CN }:: ::-Chen-::{ user-id=14030362 } |
+| #23 | ::{ flag=CN }:: ::rurudo1o1o::{ user-id=10443855 } |
+| #24 | ::{ flag=CN }:: ::H dame::{ user-id=13673300 } |
+| #25 | ::{ flag=CN }:: ::- Xiaoluoli -::{ user-id=9502281 } |
+| #26 | ::{ flag=CN }:: ::\[GB\]Tyris::{ user-id=10497659 } |
+| #27 | ::{ flag=CN }:: ::Krn\_::{ user-id=12452291 } |
+| #28 | ::{ flag=CN }:: ::Zyuuu::{ user-id=15389275 } |
+| #29 | ::{ flag=CN }:: ::chana::{ user-id=18375016 } |
+| #30 | ::{ flag=CN }:: ::\[Crz\]IsxI::{ user-id=18042127 } |
+| #31 | ::{ flag=CN }:: ::Wings\1AnChen::{ user-id=12694894 } |
+| #32 | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 } |
+| #33 | ::{ flag=CN }:: ::\[GB\]sherweifa::{ user-id=17457562 } |
+| #34 | ::{ flag=CN }:: ::gzdongsheng::{ user-id=8660315 } |
+| #35 | ::{ flag=CN }:: ::CLLbin::{ user-id=11837219 } |
+| #36 | ::{ flag=CN }:: ::MkoTenshi::{ user-id=6532520 } |
+| #37 | ::{ flag=CN }:: ::YUCInoback::{ user-id=24449770 } |
+| #38 | ::{ flag=CN }:: ::shizehao::{ user-id=4928674 } |
+| #39 | ::{ flag=CN }:: ::Molli::{ user-id=8893772 } |
+| #40 | ::{ flag=CN }:: ::DJ Sharpnel::{ user-id=5132402 } |
+| #41 | ::{ flag=CN }:: ::U1d::{ user-id=10125072 } |
+| #42 | ::{ flag=CN }:: ::Rudown::{ user-id=7850540 } |
+| #43 | ::{ flag=HK }:: ::Alptraum::{ user-id=26496648 } |
+| #44 | ::{ flag=CN }:: ::\[JbL\]Hx\1032::{ user-id=11603156 } |
+| #45 | ::{ flag=CN }:: ::shade0214::{ user-id=14665128 } |
+| #46 | ::{ flag=CN }:: ::N3k0ha\15h12uku::{ user-id=8781662 } |
+| #47 | ::{ flag=CN }:: ::Etanity Larva::{ user-id=10449022 } |
+| #48 | ::{ flag=CN }:: ::katiexie::{ user-id=5908765 } |
+| #49 | ::{ flag=HK }:: ::MCPXiaoBai::{ user-id=11259611 } |
+| #50 | ::{ flag=CN }:: ::Sakurada Shiro::{ user-id=14617751 } |
+| #51 | ::{ flag=CN }:: ::2580697339::{ user-id=6311072 } |
+| #52 | ::{ flag=CN }:: ::Gregcraft::{ user-id=18809246 } |
+| #53 | ::{ flag=CN }:: ::\[GB\]Cz::{ user-id=9191281 } |
+| #54 | ::{ flag=CN }:: ::ICspoon::{ user-id=10398689 } |
+| #55 | ::{ flag=CN }:: ::MIKUlove\1::{ user-id=20387245 } |
+| #56 | ::{ flag=CN }:: ::dreamed123::{ user-id=20602698 } |
+| #57 | ::{ flag=CN }:: ::\[GB\]dotdot::{ user-id=15923740 } |
+| #58 | ::{ flag=HK }:: ::iRedi::{ user-id=8005579 } |
+| #59 | ::{ flag=CN }:: ::Hunxin::{ user-id=6397367 } |
+| #60 | ::{ flag=CN }:: ::YuanLiang::{ user-id=21013668 } |
+| #61 | ::{ flag=CN }:: ::luluxia::{ user-id=5863409 } |
+| #62 | ::{ flag=CN }:: ::zerda::{ user-id=20421597 } |
+| #63 | ::{ flag=CN }:: ::Yayoi Takatsuki::{ user-id=11970894 } |
 
 ### Podium
 
@@ -133,9 +133,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=HK }:: [Quotient GD](https://osu.ppy.sh/users/11313227) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=HK }:: [MegMewtwoZ](https://osu.ppy.sh/users/13235067) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=HK }:: ::Quotient GD::{ user-id=11313227 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: ::\[Crz\]sunnyxxy::{ user-id=10333739 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=HK }:: ::MegMewtwoZ::{ user-id=13235067 } |
 
 ![MCNC 4K 2022 podium](img/podium.png)
 

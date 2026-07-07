@@ -224,7 +224,7 @@ Poniższe tabele zawierają listę wszystkich tagów użytkowników pogrupowanyc
 
 ## Ciekawostki
 
-- Pierwsze wydanie tagów użytkowników 21 marca 2025 roku było inspirowane projektem [OMDB](https://omdb.nyahh.net/), który miał podobny cel dostarczania systemu tagów kuratorowanego przez użytkowników. Pierwotnie opracowany przez ::{ flag=GB }:: [apollodw](https://osu.ppy.sh/users/9558549), projekt został zamknięty 1 marca 2025 roku [z powodów osobistych](https://x.com/bunnygirltwink/status/1892328084893815059).
+- Pierwsze wydanie tagów użytkowników 21 marca 2025 roku było inspirowane projektem [OMDB](https://omdb.nyahh.net/), który miał podobny cel dostarczania systemu tagów kuratorowanego przez użytkowników. Pierwotnie opracowany przez ::{ flag=GB }:: ::apollodw::{ user-id=9558549 }, projekt został zamknięty 1 marca 2025 roku [z powodów osobistych](https://x.com/bunnygirltwink/status/1892328084893815059).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

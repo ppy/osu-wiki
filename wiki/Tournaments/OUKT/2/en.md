@@ -8,7 +8,7 @@ tags:
 
 # UK osu!standard tournament 2
 
-The **UK osu!standard tournament 2** (***OUKT2***) was a ::{ flag=GB }:: United Kingdom single elimination 1v1 osu! tournament hosted by ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134). It is the second iteration of the **osu! UK Tournament** (***OUKT***) series.
+The **UK osu!standard tournament 2** (***OUKT2***) was a ::{ flag=GB }:: United Kingdom single elimination 1v1 osu! tournament hosted by ::{ flag=GB }:: ::PortalLife::{ user-id=929134 }. It is the second iteration of the **osu! UK Tournament** (***OUKT***) series.
 
 ## Tournament schedule
 
@@ -37,10 +37,10 @@ The OUKT2 was run by various community members
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134) |
-| Mappool selector | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599), ::{ flag=PL }:: [AmaiHachimitsu](https://osu.ppy.sh/users/844815) |
-| Referee | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379) |
-| Streamer | ::{ flag=GB }:: [Deathosaurus](https://osu.ppy.sh/users/1825822) |
+| Host | ::{ flag=GB }:: ::PortalLife::{ user-id=929134 } |
+| Mappool selector | ::{ flag=GB }:: ::PortalLife::{ user-id=929134 }, ::{ flag=IT }:: ::Andrea::{ user-id=33599 }, ::{ flag=PL }:: ::AmaiHachimitsu::{ user-id=844815 } |
+| Referee | ::{ flag=GB }:: ::PortalLife::{ user-id=929134 }, ::{ flag=GB }:: ::Jerome::{ user-id=3391379 } |
+| Streamer | ::{ flag=GB }:: ::Deathosaurus::{ user-id=1825822 } |
 
 ## Links
 
@@ -52,22 +52,22 @@ The OUKT2 was run by various community members
 
 | Seed | Players |
 | :-- | :-- |
-| 1-8 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [iLikeMudkipz](https://osu.ppy.sh/users/552515), ::{ flag=GB }:: [R a h a r u](https://osu.ppy.sh/users/785193), ::{ flag=GB }:: [jesus1412](https://osu.ppy.sh/users/230116), ::{ flag=GB }:: [Raiku](https://osu.ppy.sh/users/1525538), ::{ flag=GB }:: [Could This Be](https://osu.ppy.sh/users/2313772), ::{ flag=GB }:: [Navi](https://osu.ppy.sh/users/926304), ::{ flag=GB }:: [Charleyzard](https://osu.ppy.sh/users/1062584) |
-| 9-16 | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=GB }:: [vidya](https://osu.ppy.sh/users/413305), ::{ flag=GB }:: [Kardet](https://osu.ppy.sh/users/1438509), ::{ flag=GB }:: [SoraRoxas01](https://osu.ppy.sh/users/1986262), ::{ flag=GB }:: [bahamete](https://osu.ppy.sh/users/960620), ::{ flag=GB }:: [kozuka](https://osu.ppy.sh/users/2733537), ::{ flag=GB }:: [Viremon](https://osu.ppy.sh/users/827070), ::{ flag=GB }:: [Crai](https://osu.ppy.sh/users/2285207) |
-| 17-24 | ::{ flag=GB }:: [spaminabox](https://osu.ppy.sh/users/1418433), ::{ flag=GB }:: [sullyjhf](https://osu.ppy.sh/users/1994780), ::{ flag=GB }:: [SamC](https://osu.ppy.sh/users/1453543), ::{ flag=GB }:: [Cozzzy](https://osu.ppy.sh/users/2003917), ::{ flag=GB }:: K E I  <!-- missing -->, ::{ flag=GB }:: Tsuneko-chan <!-- missing -->, ::{ flag=GB }:: [the holy beans](https://osu.ppy.sh/users/1726133), ::{ flag=GB }:: [Neroh](https://osu.ppy.sh/users/2257584) |
-| 25-32 | ::{ flag=GB }:: [YunoWhoItIs](https://osu.ppy.sh/users/1331455), ::{ flag=GB }:: [gadrin](https://osu.ppy.sh/users/2245830), ::{ flag=GB }:: [Snookie](https://osu.ppy.sh/users/1484934), ::{ flag=GB }:: [AshleyCarnine](https://osu.ppy.sh/users/2752380), ::{ flag=GB }:: [-MoeYandere-](https://osu.ppy.sh/users/2565902), ::{ flag=GB }:: [Jameslike](https://osu.ppy.sh/users/2415743), ::{ flag=GB }:: [Uphox](https://osu.ppy.sh/users/3233710), ::{ flag=GB }:: [Syrus](https://osu.ppy.sh/users/1372358) |
-| 33-40 | ::{ flag=GB }:: [Fluttershy03](https://osu.ppy.sh/users/2175201), ::{ flag=GB }:: [Blaziken](https://osu.ppy.sh/users/898196), ::{ flag=GB }:: Behaviour <!-- missing -->, ::{ flag=GB }:: [Ommetaphobia](https://osu.ppy.sh/users/3082695), ::{ flag=GB }:: [Udon](https://osu.ppy.sh/users/2232928), ::{ flag=GB }:: [litejason](https://osu.ppy.sh/users/2258232), ::{ flag=GB }:: [Jeromelol](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [Kry](https://osu.ppy.sh/users/2746200) |
-| 41-48 | ::{ flag=GB }:: [EzLyn](https://osu.ppy.sh/users/2709812), ::{ flag=GB }:: [EatYourMattress](https://osu.ppy.sh/users/2525888), ::{ flag=GB }:: Albert Donger <!-- missing -->, ::{ flag=GB }:: [Destructor966](https://osu.ppy.sh/users/2667584), ::{ flag=GB }:: [-Kyou-](https://osu.ppy.sh/users/3269265), ::{ flag=GB }:: [\[ Thanatos \]](https://osu.ppy.sh/users/2707041), ::{ flag=GB }:: [ibecolours](https://osu.ppy.sh/users/3098931), ::{ flag=GB }:: [Swaayy](https://osu.ppy.sh/users/2412218) |
-| 49-56 | ::{ flag=GB }:: [Just Miku](https://osu.ppy.sh/users/2167861), ::{ flag=GB }:: [casmith789](https://osu.ppy.sh/users/2773242), ::{ flag=GB }:: [Grimdeath](https://osu.ppy.sh/users/276999), ::{ flag=GB }:: [Yoishi](https://osu.ppy.sh/users/2167556), ::{ flag=GB }:: [ChicagoTed7172](https://osu.ppy.sh/users/2948139), ::{ flag=GB }:: [Juiceb0x](https://osu.ppy.sh/users/2166072), ::{ flag=GB }:: [Kakiage](https://osu.ppy.sh/users/3104031), ::{ flag=GB }:: [SirCadams](https://osu.ppy.sh/users/3419130) |
-| 59-64 | ::{ flag=GB }:: [dreeeaam](https://osu.ppy.sh/users/3582719), ::{ flag=GB }:: [Riari](https://osu.ppy.sh/users/2553016), ::{ flag=GB }:: [Garchojoker](https://osu.ppy.sh/users/2514433), ::{ flag=GB }:: [OmegaSin](https://osu.ppy.sh/users/3360259), ::{ flag=GB }:: [KyleDinny](https://osu.ppy.sh/users/3806179), ::{ flag=GB }:: [C3Swamp](https://osu.ppy.sh/users/3362607), ::{ flag=GB }:: [Regafu](https://osu.ppy.sh/users/3979445), ::{ flag=GB }:: [Chunelle](https://osu.ppy.sh/users/3983623) |
+| 1-8 | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::iLikeMudkipz::{ user-id=552515 }, ::{ flag=GB }:: ::R a h a r u::{ user-id=785193 }, ::{ flag=GB }:: ::jesus1412::{ user-id=230116 }, ::{ flag=GB }:: ::Raiku::{ user-id=1525538 }, ::{ flag=GB }:: ::Could This Be::{ user-id=2313772 }, ::{ flag=GB }:: ::Navi::{ user-id=926304 }, ::{ flag=GB }:: ::Charleyzard::{ user-id=1062584 } |
+| 9-16 | ::{ flag=GB }:: ::PortalLife::{ user-id=929134 }, ::{ flag=GB }:: ::vidya::{ user-id=413305 }, ::{ flag=GB }:: ::Kardet::{ user-id=1438509 }, ::{ flag=GB }:: ::SoraRoxas01::{ user-id=1986262 }, ::{ flag=GB }:: ::bahamete::{ user-id=960620 }, ::{ flag=GB }:: ::kozuka::{ user-id=2733537 }, ::{ flag=GB }:: ::Viremon::{ user-id=827070 }, ::{ flag=GB }:: ::Crai::{ user-id=2285207 } |
+| 17-24 | ::{ flag=GB }:: ::spaminabox::{ user-id=1418433 }, ::{ flag=GB }:: ::sullyjhf::{ user-id=1994780 }, ::{ flag=GB }:: ::SamC::{ user-id=1453543 }, ::{ flag=GB }:: ::Cozzzy::{ user-id=2003917 }, ::{ flag=GB }:: K E I  <!-- missing -->, ::{ flag=GB }:: Tsuneko-chan <!-- missing -->, ::{ flag=GB }:: ::the holy beans::{ user-id=1726133 }, ::{ flag=GB }:: ::Neroh::{ user-id=2257584 } |
+| 25-32 | ::{ flag=GB }:: ::YunoWhoItIs::{ user-id=1331455 }, ::{ flag=GB }:: ::gadrin::{ user-id=2245830 }, ::{ flag=GB }:: ::Snookie::{ user-id=1484934 }, ::{ flag=GB }:: ::AshleyCarnine::{ user-id=2752380 }, ::{ flag=GB }:: ::-MoeYandere-::{ user-id=2565902 }, ::{ flag=GB }:: ::Jameslike::{ user-id=2415743 }, ::{ flag=GB }:: ::Uphox::{ user-id=3233710 }, ::{ flag=GB }:: ::Syrus::{ user-id=1372358 } |
+| 33-40 | ::{ flag=GB }:: ::Fluttershy03::{ user-id=2175201 }, ::{ flag=GB }:: ::Blaziken::{ user-id=898196 }, ::{ flag=GB }:: Behaviour <!-- missing -->, ::{ flag=GB }:: ::Ommetaphobia::{ user-id=3082695 }, ::{ flag=GB }:: ::Udon::{ user-id=2232928 }, ::{ flag=GB }:: ::litejason::{ user-id=2258232 }, ::{ flag=GB }:: ::Jeromelol::{ user-id=3391379 }, ::{ flag=GB }:: ::Kry::{ user-id=2746200 } |
+| 41-48 | ::{ flag=GB }:: ::EzLyn::{ user-id=2709812 }, ::{ flag=GB }:: ::EatYourMattress::{ user-id=2525888 }, ::{ flag=GB }:: Albert Donger <!-- missing -->, ::{ flag=GB }:: ::Destructor966::{ user-id=2667584 }, ::{ flag=GB }:: ::-Kyou-::{ user-id=3269265 }, ::{ flag=GB }:: ::\[ Thanatos \]::{ user-id=2707041 }, ::{ flag=GB }:: ::ibecolours::{ user-id=3098931 }, ::{ flag=GB }:: ::Swaayy::{ user-id=2412218 } |
+| 49-56 | ::{ flag=GB }:: ::Just Miku::{ user-id=2167861 }, ::{ flag=GB }:: ::casmith789::{ user-id=2773242 }, ::{ flag=GB }:: ::Grimdeath::{ user-id=276999 }, ::{ flag=GB }:: ::Yoishi::{ user-id=2167556 }, ::{ flag=GB }:: ::ChicagoTed7172::{ user-id=2948139 }, ::{ flag=GB }:: ::Juiceb0x::{ user-id=2166072 }, ::{ flag=GB }:: ::Kakiage::{ user-id=3104031 }, ::{ flag=GB }:: ::SirCadams::{ user-id=3419130 } |
+| 59-64 | ::{ flag=GB }:: ::dreeeaam::{ user-id=3582719 }, ::{ flag=GB }:: ::Riari::{ user-id=2553016 }, ::{ flag=GB }:: ::Garchojoker::{ user-id=2514433 }, ::{ flag=GB }:: ::OmegaSin::{ user-id=3360259 }, ::{ flag=GB }:: ::KyleDinny::{ user-id=3806179 }, ::{ flag=GB }:: ::C3Swamp::{ user-id=3362607 }, ::{ flag=GB }:: ::Regafu::{ user-id=3979445 }, ::{ flag=GB }:: ::Chunelle::{ user-id=3983623 } |
 
 ## Podium
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [SoraRoxas01](https://osu.ppy.sh/users/1986262) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::iLikeMudkipz::{ user-id=552515 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::SoraRoxas01::{ user-id=1986262 } |
 
 ## Mappools
 

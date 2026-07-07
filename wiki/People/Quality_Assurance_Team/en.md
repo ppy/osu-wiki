@@ -15,7 +15,7 @@ The QAT's reputation among mappers and players was mostly negative in response t
 
 In 2016, the QAT began reactively disqualifying beatmaps based on user reports rather than proactively reviewing beatmaps for disqualifications. This led to most of the QAT's tasks being management related, such as evaluating [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) and reforming the ranking criteria.
 
-The first [QAT Leaders](/wiki/People/Quality_Assurance_Team/QAT_Leaders) were established in 2017 to allow communication between the QAT and osu!'s developers after [Loctav](https://osu.ppy.sh/users/71366)'s leave from the team.
+The first [QAT Leaders](/wiki/People/Quality_Assurance_Team/QAT_Leaders) were established in 2017 to allow communication between the QAT and osu!'s developers after ::Loctav::{ user-id=71366 }'s leave from the team.
 
 Quality assurance was still part of the team's responsibilities, but it continually became less of a focus point as members of the BN took the primary quality control position.
 

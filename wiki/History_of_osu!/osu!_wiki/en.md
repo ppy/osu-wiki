@@ -14,44 +14,44 @@ This article details the major events in the **history of the osu! wiki** from t
 
 #### December
 
-- **2011-12-05:** The barebones of the osu! wiki was put into place, with ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) making the first edits.
+- **2011-12-05:** The barebones of the osu! wiki was put into place, with ::{ flag=AU }:: ::Ephemeral::{ user-id=102335 } making the first edits.
 - **2011-12-06:** The osu! wiki [went live to the public](https://osu.ppy.sh/community/forums/topics/68525).
 
 ### 2012
 
 #### November
 
-- **2012-11-29:** ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) and ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) were [added](https://osu.ppy.sh/community/forums/posts/1944044) to the osu! wiki's MediaWiki admins.
+- **2012-11-29:** ::{ flag=MX }:: ::Repflez::{ user-id=201392 } and ::{ flag=RU }:: ::Dellirium::{ user-id=519032 } were [added](https://osu.ppy.sh/community/forums/posts/1944044) to the osu! wiki's MediaWiki admins.
 
 ### 2013
 
 #### January
 
-- **2013-01-27:** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) integrated the osu! wiki with the [main site design](https://osu.ppy.sh/community/forums/posts/2082803).
+- **2013-01-27:** ::{ flag=AU }:: ::peppy::{ user-id=2 } integrated the osu! wiki with the [main site design](https://osu.ppy.sh/community/forums/posts/2082803).
 
 ### 2014
 
 #### December
 
 - **Unknown date:** The osu! wiki became a true information centre of osu! after core pages such the [osu! team](/wiki/People/osu!_team) and the [Rules](/wiki/Rules) were migrated over to the wiki.
-- **Unknown date:** ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) and ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) were added to the osu! wiki's MediaWiki admins.
+- **Unknown date:** ::{ flag=NZ }:: ::deadbeat::{ user-id=128370 } and ::{ flag=DE }:: ::Loctav::{ user-id=71366 } were added to the osu! wiki's MediaWiki admins.
 
 ### 2015
 
 #### December
 
 - **Unknown date:** The osu! wiki received an influx of contributors who did article translations to their native languages.
-- **Unknown date:** ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032)'s position as an admin was replaced by ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005).
+- **Unknown date:** ::{ flag=RU }:: ::Dellirium::{ user-id=519032 }'s position as an admin was replaced by ::{ flag=FR }:: ::Shiro::{ user-id=113005 }.
 
 ### 2016
 
 #### February
 
-- **2016-02-22:** ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) and ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) were added to the osu! wiki's MediaWiki admins.
+- **2016-02-22:** ::{ flag=PL }:: ::Ukami::{ user-id=820865 } and ::{ flag=PL }:: ::Galkan::{ user-id=169570 } were added to the osu! wiki's MediaWiki admins.
 
 #### April
 
-- **2016-04-01:** ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) was added to the osu! wiki's MediaWiki admins.
+- **2016-04-01:** ::{ flag=PH }:: ::Nathanael::{ user-id=2295078 } was added to the osu! wiki's MediaWiki admins.
 
 #### August
 
@@ -71,18 +71,18 @@ This article details the major events in the **history of the osu! wiki** from t
 
 #### August
 
-- **2016-08-26:** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) [created the osu-wiki repository](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e).
+- **2016-08-26:** ::{ flag=AU }:: ::peppy::{ user-id=2 } [created the osu-wiki repository](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e).
 
 #### September
 
-- **2016-09-02:** ::{ flag=US }:: [craftu](https://osu.ppy.sh/users/16468119) and ::{ flag=US }:: [XYLOO](https://osu.ppy.sh/users/27809907) finished porting most the legacy osu! wiki contents from MediaWiki to the repository, leaving only the images and certain syntax errors due to the differences between MediaWiki's [Wikitext](https://en.wikipedia.org/wiki/Help:Wikitext) and GitHub's [Markdown](https://en.wikipedia.org/wiki/Markdown) language.
+- **2016-09-02:** ::{ flag=US }:: ::craftu::{ user-id=16468119 } and ::{ flag=US }:: ::XYLOO::{ user-id=27809907 } finished porting most the legacy osu! wiki contents from MediaWiki to the repository, leaving only the images and certain syntax errors due to the differences between MediaWiki's [Wikitext](https://en.wikipedia.org/wiki/Help:Wikitext) and GitHub's [Markdown](https://en.wikipedia.org/wiki/Markdown) language.
 
 ### 2017
 
 #### January
 
-- **2017-01-26:** ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) talked about the upcoming integration of the GitHub repository with the osu! website itself in [a development blog post](https://blog.ppy.sh/post/156390386433/2017-01-dev-meeting).
-- **Unknown date:** ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) finished the backend support of the new osu! wiki, allowing the wiki to be fully integrated with the osu! website.
+- **2017-01-26:** ::{ flag=AU }:: ::Ephemeral::{ user-id=102335 } talked about the upcoming integration of the GitHub repository with the osu! website itself in [a development blog post](https://blog.ppy.sh/post/156390386433/2017-01-dev-meeting).
+- **Unknown date:** ::{ flag=JP }:: ::nanaya::{ user-id=2387883 } finished the backend support of the new osu! wiki, allowing the wiki to be fully integrated with the osu! website.
 
 #### May
 
@@ -91,7 +91,7 @@ This article details the major events in the **history of the osu! wiki** from t
 
 #### June
 
-- **Unknown date:** ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) was given a special write-access to the osu! wiki repository.
+- **Unknown date:** ::{ flag=PL }:: ::TPGPL::{ user-id=3944705 } was given a special write-access to the osu! wiki repository.
 - **Unknown date:** [Search functionality](https://github.com/ppy/osu-web/pull/2331) was added to the wiki.
 
 ### 2018
@@ -108,7 +108,7 @@ This article details the major events in the **history of the osu! wiki** from t
 
 #### June
 
-- **2021-06-01:** ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349) implemented the [osu! wiki overlay](https://github.com/ppy/osu/pull/12950) in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), allowing certain pages of the wiki to be accessed directly from inside the osu!(lazer) client.
+- **2021-06-01:** ::{ flag=ID }:: ::GPR::{ user-id=10721349 } implemented the [osu! wiki overlay](https://github.com/ppy/osu/pull/12950) in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), allowing certain pages of the wiki to be accessed directly from inside the osu!(lazer) client.
 
 #### August
 

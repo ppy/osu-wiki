@@ -27,13 +27,13 @@ Last weekend, 12 teams played in the Semifinals round, but in the end, only 6 re
 
 ![](/wiki/shared/news/2025-07-11-osucatch-world-cup-2025-semifinals-recap/cwc-2025-sf-mappool.png)
 
-The Semifinals mappool was one of the biggest step-ups in difficulty in the tournament so far. It makes sense given the remaining teams, giving us an introduction to late-tournament pools. It started right away with [R.I.P.](https://osu.ppy.sh/beatmapsets/2395421#fruits/5188524) (NM1), mapped by [Zyzyx](https://osu.ppy.sh/users/2888013) and [Yoshi_green](https://osu.ppy.sh/users/1035891), standing at a star rating of 7.95 and featuring intense and stamina-draining patterning for the full three and a half minutes. 
+The Semifinals mappool was one of the biggest step-ups in difficulty in the tournament so far. It makes sense given the remaining teams, giving us an introduction to late-tournament pools. It started right away with [R.I.P.](https://osu.ppy.sh/beatmapsets/2395421#fruits/5188524) (NM1), mapped by ::Zyzyx::{ user-id=2888013 } and [Yoshi_green](https://osu.ppy.sh/users/1035891), standing at a star rating of 7.95 and featuring intense and stamina-draining patterning for the full three and a half minutes. 
 
-Surprisingly, three mappers made their CWC debut this round: [Cruwev](https://osu.ppy.sh/users/12195994), [Phob](https://osu.ppy.sh/users/6069462), and [Zileni](https://osu.ppy.sh/users/23525574). Cruwev made a bold entrance with their [Big Daddy (Cut ver.)](https://osu.ppy.sh/beatmapsets/2395283#fruits/5188079) (NM3) map, serving as the gimmick pick of the round. Cruwev's unconventional mapping style mixed with a high circle size and a low approach rate made for one of the biggest standouts in the mappool, both in terms of difficulty and hype factor. 
+Surprisingly, three mappers made their CWC debut this round: ::Cruwev::{ user-id=12195994 }, [Phob](https://osu.ppy.sh/users/6069462), and ::Zileni::{ user-id=23525574 }. Cruwev made a bold entrance with their [Big Daddy (Cut ver.)](https://osu.ppy.sh/beatmapsets/2395283#fruits/5188079) (NM3) map, serving as the gimmick pick of the round. Cruwev's unconventional mapping style mixed with a high circle size and a low approach rate made for one of the biggest standouts in the mappool, both in terms of difficulty and hype factor. 
 
 Phob, a first-time mappooler this edition, debuted not with just one, but two maps this round, those being [Yakujinsama no Couple Dance](https://osu.ppy.sh/beatmapsets/2395303#fruits/5188114) (HD2), and [Idolize](https://osu.ppy.sh/beatmapsets/2395304#fruits/5188115) (DT4). Both maps feature the classic Phob flair, filled with unique ideas and unconventional patterning. And finally, Zileni delivered us [Deglaciation](https://osu.ppy.sh/beatmapsets/2395287#fruits/5188086) (HR3), a more conventional yet explosive mechanical Hard Rock pick for this round. New custom mappers are a rare sight in the osu!catch scene, so having three fresh faces was a pleasant surprise to see for everyone involved.
 
-This round also featured the first [ExGon](https://osu.ppy.sh/users/214187) appearances of the year in [Xabon](https://osu.ppy.sh/beatmapsets/2395292#fruits/5188099) (HD3), as well as [Necrotopia](https://osu.ppy.sh/beatmapsets/2395391#fruits/5188321) (TB), the latter being a collaboration with [Spectator](https://osu.ppy.sh/users/702598). A staple mapper in tournaments over the past few years, the osu!catch legend returns once again for CWC 2025, with each map more unique than the last.
+This round also featured the first ::ExGon::{ user-id=214187 } appearances of the year in [Xabon](https://osu.ppy.sh/beatmapsets/2395292#fruits/5188099) (HD3), as well as [Necrotopia](https://osu.ppy.sh/beatmapsets/2395391#fruits/5188321) (TB), the latter being a collaboration with ::Spectator::{ user-id=702598 }. A staple mapper in tournaments over the past few years, the osu!catch legend returns once again for CWC 2025, with each map more unique than the last.
 
 ---
 
@@ -47,9 +47,9 @@ Two weeks ago, the first [osu! original](/wiki/osu!_originals) of the tournament
     </audio>
 </div>
 
-We started off strong with [SUTEGORO](https://osu.ppy.sh/beatmapsets/2395265#fruits/5187955) by [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220). Mapped by the Polish duo consisting of [Mniam](https://osu.ppy.sh/users/6050530) and [Malai](https://osu.ppy.sh/users/4863096), this explosive math rock track was done justice with a Hidden pick that caught many players off guard. Reflecting the calculated chaos of the instrumentals, the map combines repeated antiflows, inconsistent spacings, and 1/16 hyperwalks, resulting in a pick that even the strongest teams struggled to keep up with.
+We started off strong with [SUTEGORO](https://osu.ppy.sh/beatmapsets/2395265#fruits/5187955) by [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220). Mapped by the Polish duo consisting of ::Mniam::{ user-id=6050530 } and [Malai](https://osu.ppy.sh/users/4863096), this explosive math rock track was done justice with a Hidden pick that caught many players off guard. Reflecting the calculated chaos of the instrumentals, the map combines repeated antiflows, inconsistent spacings, and 1/16 hyperwalks, resulting in a pick that even the strongest teams struggled to keep up with.
 
-Also, be sure to check out the beautiful photography by [Amphy](https://osu.ppy.sh/users/10762223), edited by [hourius](https://osu.ppy.sh/users/12580298) used for the background art!
+Also, be sure to check out the beautiful photography by ::Amphy::{ user-id=10762223 }, edited by [hourius](https://osu.ppy.sh/users/12580298) used for the background art!
 
 [![](/wiki/shared/news/2025-07-11-osucatch-world-cup-2025-semifinals-recap/SidebySide_Banner.png)](https://osu.ppy.sh/beatmapsets/2395293#fruits/5188100)
 
@@ -59,9 +59,9 @@ Also, be sure to check out the beautiful photography by [Amphy](https://osu.ppy.
     </audio>
 </div>
 
-It's Touhou Eurobeat time. A fairly uncommon genre in osu!catch, it was a pleasant surprise when [A-One](https://osu.ppy.sh/beatmaps/artists/168) was revealed as the artist for one of this week's originals — [Side by Side](https://osu.ppy.sh/beatmapsets/2395293#fruits/5188100). The high-octane instrumentals accompanied by the classic A-One vocals combined into an infectious bundle of energy designed to set your fingers — and the floor — on fire. Mapped by [Bunnrei](https://osu.ppy.sh/users/829284) and featured as a Mixed Mod pick, it would end up being a four-minute stamina gauntlet filled with stop-and-go patterns, with barely any breathing room for anyone playing it. 
+It's Touhou Eurobeat time. A fairly uncommon genre in osu!catch, it was a pleasant surprise when [A-One](https://osu.ppy.sh/beatmaps/artists/168) was revealed as the artist for one of this week's originals — [Side by Side](https://osu.ppy.sh/beatmapsets/2395293#fruits/5188100). The high-octane instrumentals accompanied by the classic A-One vocals combined into an infectious bundle of energy designed to set your fingers — and the floor — on fire. Mapped by ::Bunnrei::{ user-id=829284 } and featured as a Mixed Mod pick, it would end up being a four-minute stamina gauntlet filled with stop-and-go patterns, with barely any breathing room for anyone playing it. 
 
-[Peargor](https://www.youtube.com/@Peargor/videos) made an appearance to work on the illustration for the song and [Noffy](https://osu.ppy.sh/users/1541323) worked on the storyboard, so go check out the map to get the full *Side by Side* experience.
+[Peargor](https://www.youtube.com/@Peargor/videos) made an appearance to work on the illustration for the song and ::Noffy::{ user-id=1541323 } worked on the storyboard, so go check out the map to get the full *Side by Side* experience.
 
 [![](/wiki/shared/news/2025-07-11-osucatch-world-cup-2025-semifinals-recap/Sonatina_Banner.jpg)](https://osu.ppy.sh/beatmapsets/2395334#fruits/5188192)
 
@@ -73,7 +73,7 @@ It's Touhou Eurobeat time. A fairly uncommon genre in osu!catch, it was a pleasa
 
 If you've been following the past few news posts, you'll know that [Ice](https://osu.ppy.sh/beatmaps/artists/484), titan of rhythm game music, [is now a Featured Artist](https://osu.ppy.sh/home/news/2025-06-29-new-featured-artist-ice). The bombshell was dropped during this round's mappool showcase, revealing the new osu! original [Nostalgia Sonatina Op.3](https://osu.ppy.sh/beatmapsets/2395334#fruits/5188192) in the process.
 
-Following the previous "Nostalgia Sonatinas" made for other rhythm games, the third entry of the series would be for this CWC, featured as a Mixed Mod map by [Ascendance](https://osu.ppy.sh/users/2931883) and [Jemzuu](https://osu.ppy.sh/users/7890134). It focused mostly on mechanics, with many wiggles and stream patterns for the classic Ice piano melodies. Welcome to the Featured Artist lineup!
+Following the previous "Nostalgia Sonatinas" made for other rhythm games, the third entry of the series would be for this CWC, featured as a Mixed Mod map by ::Ascendance::{ user-id=2931883 } and [Jemzuu](https://osu.ppy.sh/users/7890134). It focused mostly on mechanics, with many wiggles and stream patterns for the classic Ice piano melodies. Welcome to the Featured Artist lineup!
 
 ## Semifinals summary
 
@@ -109,7 +109,7 @@ With that being said, let's look at some highlights of the round!
 
 Canada (#12) and the Russian Federation (#3) were two teams with very different runs in the tournament. Canada were sent down to the losers' bracket in the Round of 16 by France, while the Russian Federation placed third in the Qualifiers, and dominated the winners' bracket until encountering Finland, who ended up defeating them thanks to their amazing consistency on the Quarterfinals pool. This Russian roster is arguably the strongest they've ever had, while Canada was trying to remain as strong a competitor as the previous years.
 
-Both rosters were starting to show weaknesses due to the scaling of the mappool this week, but Canada was expected to perform on the gimmicky picks and Hidden, and the Russian Federation on the more mechanical picks. This is exactly what happened in the beginning of the match, with Canada going for [MM2](https://osu.ppy.sh/beatmapsets/2395319#fruits/5188169), [MM3](https://osu.ppy.sh/beatmapsets/2395334#fruits/5188192), and [HD1](https://osu.ppy.sh/beatmapsets/2395265#fruits/5187955) and winning all of them, with a standout FC from ::{ flag=CA }:: [CTBWhiteCat](https://osu.ppy.sh/users/7620002) on MM3 with Hard Rock. The Russian Federation followed suit, picking and winning [NM2](https://osu.ppy.sh/beatmapsets/2395295#fruits/5188102) and [HR2](https://osu.ppy.sh/beatmapsets/2395286#fruits/5188085).
+Both rosters were starting to show weaknesses due to the scaling of the mappool this week, but Canada was expected to perform on the gimmicky picks and Hidden, and the Russian Federation on the more mechanical picks. This is exactly what happened in the beginning of the match, with Canada going for [MM2](https://osu.ppy.sh/beatmapsets/2395319#fruits/5188169), [MM3](https://osu.ppy.sh/beatmapsets/2395334#fruits/5188192), and [HD1](https://osu.ppy.sh/beatmapsets/2395265#fruits/5187955) and winning all of them, with a standout FC from ::{ flag=CA }:: ::CTBWhiteCat::{ user-id=7620002 } on MM3 with Hard Rock. The Russian Federation followed suit, picking and winning [NM2](https://osu.ppy.sh/beatmapsets/2395295#fruits/5188102) and [HR2](https://osu.ppy.sh/beatmapsets/2395286#fruits/5188085).
 
 At this point, both teams were just looking to get a break point to get a lead in the match, and Canada would be the first to get one on what looked like a very solid [DT1](https://osu.ppy.sh/beatmapsets/2395333#fruits/5188189) pick from the Russian roster. Team Canada knew that they weren't out of picks either — this mappool featured many maps on the more unconventional side which they enjoyed playing around, like they did on [NM3](https://osu.ppy.sh/beatmapsets/2395283#fruits/5188079) next to secure the break point. The Russian Federation won their [NM1](https://osu.ppy.sh/beatmapsets/2395421#fruits/5188524) gamble, and even managed to win on Hidden against Canada on [HD3](https://osu.ppy.sh/beatmapsets/2395292#fruits/5188099) to get back to an even scoreline.
 
@@ -158,7 +158,7 @@ Each pick ended up being a nailbiter — would this be the map that Poland comes
 
 </style>
 
-This week's interviewee is [Phob](https://osu.ppy.sh/users/6069462), mappooler for the first time this edition, who also made his debut this round as a mapper. He gives us some insights on his approach to mappooling, and the process for this edition.
+This week's interviewee is ::Phob::{ user-id=6069462 }, mappooler for the first time this edition, who also made his debut this round as a mapper. He gives us some insights on his approach to mappooling, and the process for this edition.
 
 <div class="news-chat-quote__text-container">
 

@@ -19,7 +19,7 @@ Don't know what all the hype is about? We bet you do, just take a listen to a br
 
 ### Snow Drive
 
-Check out [this classic 2015 set](https://osu.ppy.sh/beatmapsets/323522) by [Yales](https://osu.ppy.sh/users/2377881), and [this classic 2016 collaborative set](https://osu.ppy.sh/beatmapsets/478405) hosted by [Kroytz](https://osu.ppy.sh/users/2339768)!
+Check out [this classic 2015 set](https://osu.ppy.sh/beatmapsets/323522) by ::Yales::{ user-id=2377881 }, and [this classic 2016 collaborative set](https://osu.ppy.sh/beatmapsets/478405) hosted by ::Kroytz::{ user-id=2339768 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/104/previews/2756.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this classic 2015 set](https://osu.ppy.sh/beatmapsets/323522) by [Yal
 
 ### Teo
 
-Check out [this highly popular 2018 collaborative set](https://osu.ppy.sh/beatmapsets/721804) hosted by [Kroytz](https://osu.ppy.sh/users/2339768)!
+Check out [this highly popular 2018 collaborative set](https://osu.ppy.sh/beatmapsets/721804) hosted by ::Kroytz::{ user-id=2339768 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/104/previews/2758.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this highly popular 2018 collaborative set](https://osu.ppy.sh/beatma
 
 ### Nee William
 
-Check out [this classic 2014 set](https://osu.ppy.sh/beatmapsets/164155) by [Yales](https://osu.ppy.sh/users/2377881)!
+Check out [this classic 2014 set](https://osu.ppy.sh/beatmapsets/164155) by ::Yales::{ user-id=2377881 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/104/previews/2761.mp3" type="audio/mpeg">

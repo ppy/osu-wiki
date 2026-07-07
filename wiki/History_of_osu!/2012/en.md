@@ -6,7 +6,7 @@ A new feature was tested out which added an integrated [IRC](https://en.wikipedi
 
 ## April
 
-::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) hosted an art contest for achievement graphics, in which users were required to design icons for various given standalone and beatmap pack titles. The users whose graphics were picked by peppy received 3 months of [osu!supporter](/wiki/osu!supporter) as a reward.[^achievements]
+::{ flag=AU }:: ::peppy::{ user-id=2 } hosted an art contest for achievement graphics, in which users were required to design icons for various given standalone and beatmap pack titles. The users whose graphics were picked by peppy received 3 months of [osu!supporter](/wiki/osu!supporter) as a reward.[^achievements]
 
 ![](img/achievement-submission.jpg "Exemplary icons submitted for the contest")
 
@@ -18,7 +18,7 @@ A [live stream listing](https://osu.ppy.sh/community/livestreams) was added to t
 
 osu! received an update featuring a SS [grade](/wiki/Gameplay/Grade) version of the [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_death) mod and game mode filters for the user list, among other things.[^stable-b0813]
 
-From 11 June to 1 July, participants in the [osu! 2012 T-shirt Design Contest](https://osu.ppy.sh/community/forums/topics/86971?n=1) were required to create artworks for t-shirts sold in the osu!store. Following the contest, a public voting was organised to determine the winning submissions. ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) won the 1st place with 324 votes. Prizes for the finalists included a t-shirt with the user's submission printed on it, a 20$ gift to freely spend on any available merchandise and varying amounts of osu!supporter.[^shirt-voting][^shirt-winner]
+From 11 June to 1 July, participants in the [osu! 2012 T-shirt Design Contest](https://osu.ppy.sh/community/forums/topics/86971?n=1) were required to create artworks for t-shirts sold in the osu!store. Following the contest, a public voting was organised to determine the winning submissions. ::{ flag=CN }:: ::Ballance::{ user-id=165946 } won the 1st place with 324 votes. Prizes for the finalists included a t-shirt with the user's submission printed on it, a 20$ gift to freely spend on any available merchandise and varying amounts of osu!supporter.[^shirt-voting][^shirt-winner]
 
 ![](img/shirt-contest.png "1st place entry by Ballance")
 
@@ -36,7 +36,7 @@ osu! and its community celebrated osu!'s 5th birthday on September 17, 2012. Dur
 
 ![](img/2012-10_01.jpg "osu!mania logo")
 
-On October 8, the Vertical Scrolling Rhythm Game (VSRG) [osu!mania](/wiki/Game_mode/osu!mania) implemented by ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) was released to the public.[^stable-b1008] The community voiced mixed opinions on the new game mode. Some players gave praise over the effort done while others criticised the score [judgement](/wiki/Gameplay/Judgement/osu!mania) for being too strict in comparison to O2JAM, a rhythm game with similar gameplay mechanics. For some players the update felt too rushed, as ranking, submitting osu!mania beatmaps, difficulty modification and gameplay were not polished enough or completed. A few players had issues updating their osu! client due to the enormous size of the update (around 20 MB). Most of these issues had been resolved in November with a lot of feedback from the community. Nevertheless, many users wanted to try out the new game mode<!--TODO: data on how many exactly?-->.
+On October 8, the Vertical Scrolling Rhythm Game (VSRG) [osu!mania](/wiki/Game_mode/osu!mania) implemented by ::{ flag=CN }:: ::woc2006::{ user-id=1105845 } was released to the public.[^stable-b1008] The community voiced mixed opinions on the new game mode. Some players gave praise over the effort done while others criticised the score [judgement](/wiki/Gameplay/Judgement/osu!mania) for being too strict in comparison to O2JAM, a rhythm game with similar gameplay mechanics. For some players the update felt too rushed, as ranking, submitting osu!mania beatmaps, difficulty modification and gameplay were not polished enough or completed. A few players had issues updating their osu! client due to the enormous size of the update (around 20 MB). Most of these issues had been resolved in November with a lot of feedback from the community. Nevertheless, many users wanted to try out the new game mode<!--TODO: data on how many exactly?-->.
 
 ::: Infobox
 
@@ -54,12 +54,12 @@ For players who entered the [multiplayer](/wiki/Client/Interface/Multiplayer) lo
 
 In addition to the new game mode, the following had been implemented in the update:
 
-- Per-object hitsounds were added in the editor, thanks to ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655).
+- Per-object hitsounds were added in the editor, thanks to ::{ flag=CA }:: ::mm201::{ user-id=30655 }.
 - Players became able to recover from failing in [multiplayer](/wiki/Client/Interface/Multiplayer) by reaching full HP (this was not the case if the [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) or [Perfect](/wiki/Gameplay/Game_modifier/Perfect) mod was enabled).
 - Scrolling support was added to the in-game online ranking list.
 - Improvements for the [skin selection](/wiki/Client/Options#skin) to make the preview play more realistically.
 
-::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089) helped in setting up the new osu!store to offer the designs submitted in the [t-shirt design contest](https://osu.ppy.sh/community/forums/topics/94466?n=1) on high-quality t-shirts, with the eventual goal of expanding the product range to other items such as stickers<!--related to the wiki article "past osu! store items"?-->.[^osu-market]
+::{ flag=FR }:: ::Kurai::{ user-id=77089 } helped in setting up the new osu!store to offer the designs submitted in the [t-shirt design contest](https://osu.ppy.sh/community/forums/topics/94466?n=1) on high-quality t-shirts, with the eventual goal of expanding the product range to other items such as stickers<!--related to the wiki article "past osu! store items"?-->.[^osu-market]
 
 ::: Infobox
 

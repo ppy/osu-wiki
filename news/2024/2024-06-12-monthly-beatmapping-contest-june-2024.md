@@ -30,8 +30,8 @@ This article is LONG, so we've split it up into a few sections:
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [-Kazuha](https://osu.ppy.sh/users/29978316) | [onumi - FAKE](https://osu.ppy.sh/beatmapsets/2195755) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| Runner-up | [Alchyr](https://osu.ppy.sh/users/4993032) | [Kikuo - Aishite Aishite Aishite](https://osu.ppy.sh/beatmapsets/2195740) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +1 (2 total) |
+| Winner | ::-Kazuha::{ user-id=29978316 } | [onumi - FAKE](https://osu.ppy.sh/beatmapsets/2195755) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
+| Runner-up | ::Alchyr::{ user-id=4993032 } | [Kikuo - Aishite Aishite Aishite](https://osu.ppy.sh/beatmapsets/2195740) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +1 (2 total) |
 
 #### Top 10
 
@@ -39,7 +39,7 @@ This article is LONG, so we've split it up into a few sections:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/V6XoFime8Z4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Send some appreciation to [arcpotato](https://osu.ppy.sh/users/12842392), [meiqth](https://osu.ppy.sh/users/12565402), [Yasuho](https://osu.ppy.sh/users/8458835), and [Greenshell](https://osu.ppy.sh/users/8693851) for judging!
+Send some appreciation to ::arcpotato::{ user-id=12842392 }, [meiqth](https://osu.ppy.sh/users/12565402), ::Yasuho::{ user-id=8458835 }, and [Greenshell](https://osu.ppy.sh/users/8693851) for judging!
 
 ### osu!catch results
 
@@ -49,8 +49,8 @@ Send some appreciation to [arcpotato](https://osu.ppy.sh/users/12842392), [meiqt
 
 | Placement | User | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [Kommisar - Clover](https://osu.ppy.sh/beatmapsets/2195848) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (7 total) |
-| Runner-up | [Ilhamuharam](https://osu.ppy.sh/users/7657968) | [Boom Kitty - Warzone](https://osu.ppy.sh/beatmapsets/2195813) | - | - | +1 (1 total) |
+| Winner | ::Unlucky\1w::{ user-id=4820793 } | [Kommisar - Clover](https://osu.ppy.sh/beatmapsets/2195848) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (7 total) |
+| Runner-up | ::Ilhamuharam::{ user-id=7657968 } | [Boom Kitty - Warzone](https://osu.ppy.sh/beatmapsets/2195813) | - | - | +1 (1 total) |
 
 #### Top 8
 
@@ -58,13 +58,13 @@ Send some appreciation to [arcpotato](https://osu.ppy.sh/users/12842392), [meiqt
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/RTuIWL6BQXY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-5 years ago, [Xinnoh](https://osu.ppy.sh/users/4236057) was the last osu!catch mapper to earn the *Elite Mapper* title.
+5 years ago, ::Xinnoh::{ user-id=4236057 } was the last osu!catch mapper to earn the *Elite Mapper* title.
 
 Today, that streak of silence is broken.
 
-[Unlucky_w](https://osu.ppy.sh/users/4820793) accomplished an incredible feat: **placing 1st in *three contests* in a row!** welcome osu!catch's newest *Elite Mapper*!
+::Unlucky\1w::{ user-id=4820793 } accomplished an incredible feat: **placing 1st in *three contests* in a row!** welcome osu!catch's newest *Elite Mapper*!
 
-And thanks to [Morusya](https://osu.ppy.sh/users/13681464), [wwwww](https://osu.ppy.sh/users/8434466), [fayew](https://osu.ppy.sh/users/12498861), and [Mniam](https://osu.ppy.sh/users/6050530) for judging these maps!
+And thanks to ::Morusya::{ user-id=13681464 }, [wwwww](https://osu.ppy.sh/users/8434466), ::fayew::{ user-id=12498861 }, and [Mniam](https://osu.ppy.sh/users/6050530) for judging these maps!
 
 ## Game modes
 

@@ -8,7 +8,7 @@ tags:
 
 ![CFIC Logo](img/logo.png)
 
-La **Catch French Intermediate Cup** (***CFIC***) était un tournoi 1v1 français intermédiaire en osu!catch organisé par ::{ flag=FR }:: [FayeurS 5](https://osu.ppy.sh/users/6177263). C'en était la première édition et une nouvelle branche de la Catch French Cup.
+La **Catch French Intermediate Cup** (***CFIC***) était un tournoi 1v1 français intermédiaire en osu!catch organisé par ::{ flag=FR }:: ::FayeurS 5::{ user-id=6177263 }. C'en était la première édition et une nouvelle branche de la Catch French Cup.
 
 ## Planning du tournoi
 
@@ -36,14 +36,14 @@ La Catch French Intermediate Cup était gérée par différents membres de la co
 
 | Poste | Membre(s) |
 | :-- | :-- |
-| Organisateur | ::{ flag=FR }:: [FayeurS 5](https://osu.ppy.sh/users/6177263) |
-| Sélectionneur de beatmap | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=FR }:: [Rougoku](https://osu.ppy.sh/users/6900166) |
-| Arbitres | ::{ flag=FR }:: [FayeurS 5](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734) |
-| Streamers | ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| Commentateurs | ::{ flag=FR }:: [FayeurS 5](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
-| Designer | ::{ flag=FR }:: [Lotchidych](https://osu.ppy.sh/users/8375240) |
-| Statisticien | ::{ flag=FR }:: [FayeurS 5](https://osu.ppy.sh/users/6177263) |
-| Wiki | ::{ flag=ID }:: [Naruk](https://osu.ppy.sh/users/7100002) |
+| Organisateur | ::{ flag=FR }:: ::FayeurS 5::{ user-id=6177263 } |
+| Sélectionneur de beatmap | ::{ flag=TN }:: ::-Ken::{ user-id=4430811 }, ::{ flag=FR }:: ::Rougoku::{ user-id=6900166 } |
+| Arbitres | ::{ flag=FR }:: ::FayeurS 5::{ user-id=6177263 }, ::{ flag=FR }:: ::Ryumi::{ user-id=6596270 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user-id=7157133 }, ::{ flag=CA }:: ::Sinaeb::{ user-id=1576095 }, ::{ flag=FR }:: ::Mimir::{ user-id=7382734 } |
+| Streamers | ::{ flag=FR }:: ::FulgurentKille::{ user-id=4096322 }, ::{ flag=CA }:: ::Sinaeb::{ user-id=1576095 } |
+| Commentateurs | ::{ flag=FR }:: ::FayeurS 5::{ user-id=6177263 }, ::{ flag=FR }:: ::FulgurentKille::{ user-id=4096322 }, ::{ flag=FR }:: ::redjiii::{ user-id=1378728 } |
+| Designer | ::{ flag=FR }:: ::Lotchidych::{ user-id=8375240 } |
+| Statisticien | ::{ flag=FR }:: ::FayeurS 5::{ user-id=6177263 } |
+| Wiki | ::{ flag=ID }:: ::Naruk::{ user-id=7100002 } |
 
 ## Liens
 
@@ -57,19 +57,19 @@ La Catch French Intermediate Cup était gérée par différents membres de la co
 
 | Seed | Membres |
 | :-- | :-- |
-| Top | ::{ flag=BE }:: [-\[Smoked\]-](https://osu.ppy.sh/users/8731044), ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141), ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| High | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467), ::{ flag=FR }:: [Rizhen-](https://osu.ppy.sh/users/6802893), ::{ flag=FR }:: [pierreCHT](https://osu.ppy.sh/users/4508720), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015) |
-| Low | ::{ flag=FR }:: [Khalemm](https://osu.ppy.sh/users/11983416), ::{ flag=FR }:: [oasix42](https://osu.ppy.sh/users/6183012), ::{ flag=FR }:: [Sageru](https://osu.ppy.sh/users/10769450), ::{ flag=FR }:: [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) |
-| Unseeded | ::{ flag=FR }:: [ACinfr](https://osu.ppy.sh/users/3561482), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728), ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626), ::{ flag=FR }:: [rpp1](https://osu.ppy.sh/users/3463504) |
+| Top | ::{ flag=BE }:: ::-\[Smoked\]-::{ user-id=8731044 }, ::{ flag=FR }:: ::Aequo3::{ user-id=4495141 }, ::{ flag=FR }:: ::Realmas::{ user-id=6567640 }, ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 } |
+| High | ::{ flag=FR }:: ::Yruama::{ user-id=8221467 }, ::{ flag=FR }:: ::Rizhen-::{ user-id=6802893 }, ::{ flag=FR }:: ::pierreCHT::{ user-id=4508720 }, ::{ flag=FR }:: ::floflim::{ user-id=5954015 } |
+| Low | ::{ flag=FR }:: ::Khalemm::{ user-id=11983416 }, ::{ flag=FR }:: ::oasix42::{ user-id=6183012 }, ::{ flag=FR }:: ::Sageru::{ user-id=10769450 }, ::{ flag=FR }:: ::4L-Chan 3 Porte::{ user-id=7253987 } |
+| Unseeded | ::{ flag=FR }:: ::ACinfr::{ user-id=3561482 }, ::{ flag=FR }:: ::redjiii::{ user-id=1378728 }, ::{ flag=FR }:: ::Zard::{ user-id=6277626 }, ::{ flag=FR }:: ::rpp1::{ user-id=3463504 } |
 
 ## Groupes
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141) | ::{ flag=FR }:: [pierreCHT](https://osu.ppy.sh/users/4508720) | ::{ flag=FR }:: [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) | ::{ flag=FR }:: [ACinfr](https://osu.ppy.sh/users/3561482) |
-| **B** | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) | ::{ flag=FR }:: [oasix42](https://osu.ppy.sh/users/6183012) | ::{ flag=FR }:: [rpp1](https://osu.ppy.sh/users/3463504) |
-| **C** | ::{ flag=BE }:: [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) | ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015) | ::{ flag=FR }:: [Khalemm](https://osu.ppy.sh/users/11983416) | ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
-| **D** | ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640) | ::{ flag=FR }:: [Rizhen-](https://osu.ppy.sh/users/6802893) | ::{ flag=FR }:: [Sageru](https://osu.ppy.sh/users/10769450) | ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626) |
+| **A** | ::{ flag=FR }:: ::Aequo3::{ user-id=4495141 } | ::{ flag=FR }:: ::pierreCHT::{ user-id=4508720 } | ::{ flag=FR }:: ::4L-Chan 3 Porte::{ user-id=7253987 } | ::{ flag=FR }:: ::ACinfr::{ user-id=3561482 } |
+| **B** | ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 } | ::{ flag=FR }:: ::Yruama::{ user-id=8221467 } | ::{ flag=FR }:: ::oasix42::{ user-id=6183012 } | ::{ flag=FR }:: ::rpp1::{ user-id=3463504 } |
+| **C** | ::{ flag=BE }:: ::-\[Smoked\]-::{ user-id=8731044 } | ::{ flag=FR }:: ::floflim::{ user-id=5954015 } | ::{ flag=FR }:: ::Khalemm::{ user-id=11983416 } | ::{ flag=FR }:: ::redjiii::{ user-id=1378728 } |
+| **D** | ::{ flag=FR }:: ::Realmas::{ user-id=6567640 } | ::{ flag=FR }:: ::Rizhen-::{ user-id=6802893 } | ::{ flag=FR }:: ::Sageru::{ user-id=10769450 } | ::{ flag=FR }:: ::Zard::{ user-id=6277626 } |
 
 ## Podium
 
@@ -77,9 +77,9 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=FR }:: ::Realmas::{ user-id=6567640 } |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=FR }:: ::Yruama::{ user-id=8221467 } |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: ::Zard::{ user-id=6277626 } |
 
 ## Liste des beatmaps
 

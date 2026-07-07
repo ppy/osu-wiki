@@ -52,21 +52,21 @@ F2 - Rohi Pack.zip
 На данный момент все наборы карт находятся на сервере `packs.ppy.sh`. При недоступности или излишней медлительности сервера можно воспользоваться зеркалами, созданными другими людьми:
 
 - [(Не)официальный перечень наборов карт](https://osu.ppy.sh/community/forums/topics/1528191)
-  - [Таблица Google](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) от ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449)
+  - [Таблица Google](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) от ::{ flag=KR }:: ::Shige-Tori\[a\]::{ user-id=4459449 }
 - Старое хранилище до миграции на `packs.ppy.sh` (в районе 07.05.2023)
-  - [Диск MEGA](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw) от ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907)
+  - [Диск MEGA](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw) от ::{ flag=AT }:: ::Stefan::{ user-id=626907 }
 - [Зеркало наборов карт osu! v2](https://osu.ppy.sh/community/forums/topics/57381)
-  - [Сайт-зеркало](http://osu.yas-online.net/) от ::{ flag=DE }:: [nanashirei](https://osu.ppy.sh/users/807630)
+  - [Сайт-зеркало](http://osu.yas-online.net/) от ::{ flag=DE }:: ::nanashirei::{ user-id=807630 }
 
 ### Торренты
 
 Торренты — отличный метод для массового скачивания карт. Установите какой-нибудь торрент-клиент, а затем пройдите по одной из ссылок ниже:
 
 - [Osu! Beatmap Packs @ Resilio Sync](https://osu.ppy.sh/community/forums/topics/1255023)
-  - [Торрент-файл Resilio Sync](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2) от ::{ flag=RU }:: [glukki](https://osu.ppy.sh/users/14285150)
+  - [Торрент-файл Resilio Sync](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2) от ::{ flag=RU }:: ::glukki::{ user-id=14285150 }
 - [[Beatmap Packs] All ranked maps (2007 - 2023)](https://osu.ppy.sh/community/forums/topics/330552)
-  - [Торрент-файл](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing) от ::{ flag=RE }:: [Elessey](https://osu.ppy.sh/users/4925105)
+  - [Торрент-файл](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing) от ::{ flag=RE }:: ::Elessey::{ user-id=4925105 }
 - [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
-  - [Сайт PandoTracker](https://pandotracker.me) от ::{ flag=IT }:: [- Pandoro](https://osu.ppy.sh/users/2574057)
+  - [Сайт PandoTracker](https://pandotracker.me) от ::{ flag=IT }:: ::- Pandoro::{ user-id=2574057 }
 
 Учтите, что на скачивание вообще всех возможных наборов карт можно потратить очень много времени (а также интернет-траффика).

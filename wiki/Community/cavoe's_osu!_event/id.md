@@ -16,7 +16,7 @@ no_native_review: true
 
 :::
 
-**cavoe's osu! event** (***COE***) merupakan konvensi osu! tahunan di Belanda yang dipelopori oleh ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815). Acara ini merupakan tuan rumah bagi berbagai turnamen dan menghadirkan tempat duduk *bring-your-own computer* (BYOC) yang dapat direservasi, gerai permainan, acara panggung seputar osu!, serta aneka aktivitas lainnya.
+**cavoe's osu! event** (***COE***) merupakan konvensi osu! tahunan di Belanda yang dipelopori oleh ::{ flag=NL }:: ::cavoeboy::{ user-id=7361815 }. Acara ini merupakan tuan rumah bagi berbagai turnamen dan menghadirkan tempat duduk *bring-your-own computer* (BYOC) yang dapat direservasi, gerai permainan, acara panggung seputar osu!, serta aneka aktivitas lainnya.
 
 ## Iterasi
 
@@ -39,7 +39,7 @@ no_native_review: true
 
 COE pertama kali digelar pada tahun 2017 sebagai kegiatan yang semata-mata dikenal sebagai "osu!event" dengan hanya dihadiri oleh 35 peserta selama 3 hari. Pada saat itu, acara ini diawali sebagai "acara kopi darat nasional Belanda dengan beberapa pemain tamu dari negara lain" yang bertempat di kafe De Hangar, Eindhoven.
 
-Konvensi ini kemudian dikembangkan pada tahun 2018 dengan lebih dari 300 peserta selama 10 hari, yang menghadirkan berbagai pemain kenamaan seperti ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) (Cookiezi), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) (BeasttrollMC), dan ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828).
+Konvensi ini kemudian dikembangkan pada tahun 2018 dengan lebih dari 300 peserta selama 10 hari, yang menghadirkan berbagai pemain kenamaan seperti ::{ flag=KR }:: ::chocomint::{ user-id=124493 } (Cookiezi), ::{ flag=US }:: ::BTMC::{ user-id=3171691 } (BeasttrollMC), dan ::{ flag=PL }:: ::WubWoofWolf::{ user-id=39828 }.
 
 Pada tahun 2019, COE berpindah lokasi ke Brabanthallen di 's-Hertogenbosch (Den Bosch). Dengan gedung yang lebih luas dan panggung yang lebih besar, COE tahun ini dihadiri oleh lebih dari 500 peserta dan menghadirkan lebih banyak gerai VR, acara panggung, serta area VIP khusus.
 

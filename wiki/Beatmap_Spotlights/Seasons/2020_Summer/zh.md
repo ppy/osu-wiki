@@ -84,221 +84,221 @@ tags:
 
 | 排名 | 玩家 | 段位 |
 | --: | :-- | :-: |
-| #1 | [DigitalHypno](https://osu.ppy.sh/users/4384207) | ![][osu-ri2] |
-| #2 | [Fangzy](https://osu.ppy.sh/users/4497691) | ![][osu-ri2] |
-| #3 | [Bartek22830](https://osu.ppy.sh/users/6404027) | ![][osu-ri2] |
-| #4 | [Ideallism](https://osu.ppy.sh/users/3869519) | ![][osu-ri1] |
-| #5 | [Koba](https://osu.ppy.sh/users/4448118) | ![][osu-ri1] |
-| #6 | [Crystal](https://osu.ppy.sh/users/1646397) | ![][osu-ri1] |
-| #7 | [Doomsday](https://osu.ppy.sh/users/18983) | ![][osu-ri1] |
-| #8 | [hallowatcher](https://osu.ppy.sh/users/1874761) | ![][osu-ri1] |
-| #9 | [Maxe191](https://osu.ppy.sh/users/2184751) | ![][osu-ri1] |
-| #10 | [Xilver15](https://osu.ppy.sh/users/3099689) | ![][osu-ri1] |
-| #11 | [Spev](https://osu.ppy.sh/users/9047729) | ![][osu-diamond2] |
-| #12 | [Kingling](https://osu.ppy.sh/users/7010761) | ![][osu-diamond2] |
-| #13 | [Amuro](https://osu.ppy.sh/users/7119659) | ![][osu-diamond2] |
-| #14 | [Thundur](https://osu.ppy.sh/users/4141918) | ![][osu-diamond2] |
-| #15 | [Willy](https://osu.ppy.sh/users/3521482) | ![][osu-diamond2] |
-| #16 | [Skill](https://osu.ppy.sh/users/7802027) | ![][osu-diamond2] |
-| #17 | [ShirohaMyMommy](https://osu.ppy.sh/users/1603923) | ![][osu-diamond2] |
-| #18 | [StreaminDemon](https://osu.ppy.sh/users/6245906) | ![][osu-diamond2] |
-| #19 | [TheOmyNomy](https://osu.ppy.sh/users/4241054) | ![][osu-diamond2] |
-| #20 | [Civil oath](https://osu.ppy.sh/users/3216107) | ![][osu-diamond1] |
-| #21 | [Regou](https://osu.ppy.sh/users/419954) | ![][osu-diamond1] |
-| #22 | [_Criller](https://osu.ppy.sh/users/8116659) | ![][osu-diamond1] |
-| #23 | [HiroM](https://osu.ppy.sh/users/3359654) | ![][osu-diamond1] |
-| #24 | [my angel mode](https://osu.ppy.sh/users/7636779) | ![][osu-diamond1] |
-| #25 | [witchhunted](https://osu.ppy.sh/users/6192320) | ![][osu-diamond1] |
-| #26 | [DeadZoNeD](https://osu.ppy.sh/users/3859506) | ![][osu-diamond1] |
-| #27 | [Satellite](https://osu.ppy.sh/users/1661227) | ![][osu-diamond1] |
-| #28 | [_YuriNee](https://osu.ppy.sh/users/1794082) | ![][osu-diamond1] |
-| #29 | [King Hong](https://osu.ppy.sh/users/7263047) | ![][osu-diamond1] |
-| #30 | [Shigeru22](https://osu.ppy.sh/users/2581664) | ![][osu-diamond1] |
-| #31 | [enjoyit1025](https://osu.ppy.sh/users/2206844) | ![][osu-diamond1] |
-| #32 | [TableRaw](https://osu.ppy.sh/users/4372688) | ![][osu-platinum2] |
-| #33 | [Lexion](https://osu.ppy.sh/users/5271371) | ![][osu-platinum2] |
-| #34 | [shdewz](https://osu.ppy.sh/users/10000899) | ![][osu-platinum2] |
-| #35 | [Nyakko](https://osu.ppy.sh/users/4383554) | ![][osu-platinum2] |
-| #36 | [Kahli](https://osu.ppy.sh/users/8926244) | ![][osu-platinum2] |
-| #37 | [Buszek](https://osu.ppy.sh/users/6867478) | ![][osu-platinum2] |
-| #38 | [sentez](https://osu.ppy.sh/users/8816305) | ![][osu-platinum2] |
-| #39 | [Bitcoin](https://osu.ppy.sh/users/654296) | ![][osu-platinum2] |
-| #40 | [pel](https://osu.ppy.sh/users/7070424) | ![][osu-platinum2] |
-| #41 | [ColdTooth](https://osu.ppy.sh/users/1654186) | ![][osu-platinum2] |
-| #42 | [1103](https://osu.ppy.sh/users/7306698) | ![][osu-platinum2] |
-| #43 | [xLastGame](https://osu.ppy.sh/users/8215374) | ![][osu-platinum2] |
-| #44 | [Hibiki](https://osu.ppy.sh/users/5413624) | ![][osu-platinum2] |
-| #45 | [iPuncake](https://osu.ppy.sh/users/6633574) | ![][osu-platinum2] |
-| #46 | [Symra](https://osu.ppy.sh/users/6248691) | ![][osu-platinum2] |
-| #47 | [Moshu](https://osu.ppy.sh/users/3611422) | ![][osu-platinum2] |
-| #48 | [Nekoraw](https://osu.ppy.sh/users/4207965) | ![][osu-platinum2] |
-| #49 | [Shinkir0](https://osu.ppy.sh/users/6093148) | ![][osu-platinum2] |
-| #50 | [Lafafel](https://osu.ppy.sh/users/2295850) | ![][osu-platinum2] |
+| #1 | ::DigitalHypno::{ user-id=4384207 } | ![][osu-ri2] |
+| #2 | ::Fangzy::{ user-id=4497691 } | ![][osu-ri2] |
+| #3 | ::Bartek22830::{ user-id=6404027 } | ![][osu-ri2] |
+| #4 | ::Ideallism::{ user-id=3869519 } | ![][osu-ri1] |
+| #5 | ::Koba::{ user-id=4448118 } | ![][osu-ri1] |
+| #6 | ::Crystal::{ user-id=1646397 } | ![][osu-ri1] |
+| #7 | ::Doomsday::{ user-id=18983 } | ![][osu-ri1] |
+| #8 | ::hallowatcher::{ user-id=1874761 } | ![][osu-ri1] |
+| #9 | ::Maxe191::{ user-id=2184751 } | ![][osu-ri1] |
+| #10 | ::Xilver15::{ user-id=3099689 } | ![][osu-ri1] |
+| #11 | ::Spev::{ user-id=9047729 } | ![][osu-diamond2] |
+| #12 | ::Kingling::{ user-id=7010761 } | ![][osu-diamond2] |
+| #13 | ::Amuro::{ user-id=7119659 } | ![][osu-diamond2] |
+| #14 | ::Thundur::{ user-id=4141918 } | ![][osu-diamond2] |
+| #15 | ::Willy::{ user-id=3521482 } | ![][osu-diamond2] |
+| #16 | ::Skill::{ user-id=7802027 } | ![][osu-diamond2] |
+| #17 | ::ShirohaMyMommy::{ user-id=1603923 } | ![][osu-diamond2] |
+| #18 | ::StreaminDemon::{ user-id=6245906 } | ![][osu-diamond2] |
+| #19 | ::TheOmyNomy::{ user-id=4241054 } | ![][osu-diamond2] |
+| #20 | ::Civil oath::{ user-id=3216107 } | ![][osu-diamond1] |
+| #21 | ::Regou::{ user-id=419954 } | ![][osu-diamond1] |
+| #22 | ::\1Criller::{ user-id=8116659 } | ![][osu-diamond1] |
+| #23 | ::HiroM::{ user-id=3359654 } | ![][osu-diamond1] |
+| #24 | ::my angel mode::{ user-id=7636779 } | ![][osu-diamond1] |
+| #25 | ::witchhunted::{ user-id=6192320 } | ![][osu-diamond1] |
+| #26 | ::DeadZoNeD::{ user-id=3859506 } | ![][osu-diamond1] |
+| #27 | ::Satellite::{ user-id=1661227 } | ![][osu-diamond1] |
+| #28 | ::\1YuriNee::{ user-id=1794082 } | ![][osu-diamond1] |
+| #29 | ::King Hong::{ user-id=7263047 } | ![][osu-diamond1] |
+| #30 | ::Shigeru22::{ user-id=2581664 } | ![][osu-diamond1] |
+| #31 | ::enjoyit1025::{ user-id=2206844 } | ![][osu-diamond1] |
+| #32 | ::TableRaw::{ user-id=4372688 } | ![][osu-platinum2] |
+| #33 | ::Lexion::{ user-id=5271371 } | ![][osu-platinum2] |
+| #34 | ::shdewz::{ user-id=10000899 } | ![][osu-platinum2] |
+| #35 | ::Nyakko::{ user-id=4383554 } | ![][osu-platinum2] |
+| #36 | ::Kahli::{ user-id=8926244 } | ![][osu-platinum2] |
+| #37 | ::Buszek::{ user-id=6867478 } | ![][osu-platinum2] |
+| #38 | ::sentez::{ user-id=8816305 } | ![][osu-platinum2] |
+| #39 | ::Bitcoin::{ user-id=654296 } | ![][osu-platinum2] |
+| #40 | ::pel::{ user-id=7070424 } | ![][osu-platinum2] |
+| #41 | ::ColdTooth::{ user-id=1654186 } | ![][osu-platinum2] |
+| #42 | ::1103::{ user-id=7306698 } | ![][osu-platinum2] |
+| #43 | ::xLastGame::{ user-id=8215374 } | ![][osu-platinum2] |
+| #44 | ::Hibiki::{ user-id=5413624 } | ![][osu-platinum2] |
+| #45 | ::iPuncake::{ user-id=6633574 } | ![][osu-platinum2] |
+| #46 | ::Symra::{ user-id=6248691 } | ![][osu-platinum2] |
+| #47 | ::Moshu::{ user-id=3611422 } | ![][osu-platinum2] |
+| #48 | ::Nekoraw::{ user-id=4207965 } | ![][osu-platinum2] |
+| #49 | ::Shinkir0::{ user-id=6093148 } | ![][osu-platinum2] |
+| #50 | ::Lafafel::{ user-id=2295850 } | ![][osu-platinum2] |
 
 ### osu!taiko
 
 | 排名 | 玩家 | 段位 |
 | --: | :-- | :-: |
-| #1 | [uone](https://osu.ppy.sh/users/5321719) | ![][taiko-ri2] |
-| #2 | [sing216](https://osu.ppy.sh/users/6096445) | ![][taiko-ri1] |
-| #3 | [Siva Inu](https://osu.ppy.sh/users/7510267) | ![][taiko-ri1] |
-| #4 | [Consified](https://osu.ppy.sh/users/6502903) | ![][taiko-diamond2] |
-| #5 | [oL0](https://osu.ppy.sh/users/1134683) | ![][taiko-diamond2] |
-| #6 | [J a c k y](https://osu.ppy.sh/users/8011704) | ![][taiko-diamond2] |
-| #7 | [yuzu_rinrin](https://osu.ppy.sh/users/4616752) | ![][taiko-diamond2] |
-| #8 | [HiroK](https://osu.ppy.sh/users/4050738) | ![][taiko-diamond1] |
-| #9 | [Faputa](https://osu.ppy.sh/users/845733) | ![][taiko-diamond1] |
-| #10 | [growATMfarmz](https://osu.ppy.sh/users/12273160) | ![][taiko-diamond1] |
-| #11 | [Nozdormu](https://osu.ppy.sh/users/7169208) | ![][taiko-platinum2] |
-| #12 | [Antti](https://osu.ppy.sh/users/13281473) | ![][taiko-platinum2] |
-| #13 | [Reu70](https://osu.ppy.sh/users/10547895) | ![][taiko-platinum2] |
-| #14 | [Arrival](https://osu.ppy.sh/users/1694000) | ![][taiko-platinum2] |
-| #15 | [Cookie_Tree](https://osu.ppy.sh/users/502722) | ![][taiko-platinum1] |
-| #16 | [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | ![][taiko-platinum1] |
-| #17 | [Brown918](https://osu.ppy.sh/users/9805760) | ![][taiko-platinum1] |
-| #18 | [SHK](https://osu.ppy.sh/users/2660111) | ![][taiko-platinum1] |
-| #19 | [VestaraKhai48](https://osu.ppy.sh/users/7257168) | ![][taiko-platinum1] |
-| #20 | [TwinT](https://osu.ppy.sh/users/9976154) | ![][taiko-platinum1] |
-| #21 | [Hydria](https://osu.ppy.sh/users/808176) | ![][taiko-gold2] |
-| #22 | [Hynix](https://osu.ppy.sh/users/10507557) | ![][taiko-gold2] |
-| #23 | [OnosakiHito](https://osu.ppy.sh/users/290128) | ![][taiko-gold2] |
-| #24 | [enjoyit1025](https://osu.ppy.sh/users/2206844) | ![][taiko-gold2] |
-| #25 | [Ansonjason2005](https://osu.ppy.sh/users/13271178) | ![][taiko-gold2] |
-| #26 | [owatanimal](https://osu.ppy.sh/users/5769293) | ![][taiko-gold2] |
-| #27 | [Strijkljzer](https://osu.ppy.sh/users/4130926) | ![][taiko-gold2] |
-| #28 | [Yuemiao](https://osu.ppy.sh/users/4493348) | ![][taiko-gold2] |
-| #29 | [Lime717](https://osu.ppy.sh/users/7918664) | ![][taiko-gold2] |
-| #30 | [Boaz](https://osu.ppy.sh/users/13302996) | ![][taiko-gold2] |
-| #31 | [Maeda](https://osu.ppy.sh/users/12615278) | ![][taiko-gold1] |
-| #32 | [Ku_Ren](https://osu.ppy.sh/users/2535243) | ![][taiko-gold1] |
-| #33 | [haga1115](https://osu.ppy.sh/users/6574823) | ![][taiko-gold1] |
-| #34 | [Axer](https://osu.ppy.sh/users/7299864) | ![][taiko-gold1] |
-| #35 | [Foxeru](https://osu.ppy.sh/users/7479684) | ![][taiko-gold1] |
-| #36 | [Kuron-kun](https://osu.ppy.sh/users/2697284) | ![][taiko-gold1] |
-| #37 | [Bitcoin](https://osu.ppy.sh/users/654296) | ![][taiko-gold1] |
-| #38 | [Skey](https://osu.ppy.sh/users/7718539) | ![][taiko-gold1] |
-| #39 | [AuroraPhasmata](https://osu.ppy.sh/users/13664116) | ![][taiko-gold1] |
-| #40 | [JarHed](https://osu.ppy.sh/users/7488794) | ![][taiko-gold1] |
-| #41 | [Zetera](https://osu.ppy.sh/users/587737) | ![][taiko-gold1] |
-| #42 | [FurryBoujee](https://osu.ppy.sh/users/12630336) | ![][taiko-gold1] |
-| #43 | [davidminh0111](https://osu.ppy.sh/users/9623142) | ![][taiko-gold1] |
-| #44 | [Doomsday](https://osu.ppy.sh/users/18983) | ![][taiko-gold1] |
-| #45 | [Sanjenin Nagi](https://osu.ppy.sh/users/224280) | ![][taiko-gold1] |
-| #46 | [Hidden is fun](https://osu.ppy.sh/users/10449071) | ![][taiko-gold1] |
-| #47 | [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | ![][taiko-gold1] |
-| #48 | [Lafafel](https://osu.ppy.sh/users/2295850) | ![][taiko-gold1] |
-| #49 | [ILOVEMARISA](https://osu.ppy.sh/users/8767392) | ![][taiko-gold1] |
-| #50 | [WTHBRO](https://osu.ppy.sh/users/8957119) | ![][taiko-gold1] |
+| #1 | ::uone::{ user-id=5321719 } | ![][taiko-ri2] |
+| #2 | ::sing216::{ user-id=6096445 } | ![][taiko-ri1] |
+| #3 | ::Siva Inu::{ user-id=7510267 } | ![][taiko-ri1] |
+| #4 | ::Consified::{ user-id=6502903 } | ![][taiko-diamond2] |
+| #5 | ::oL0::{ user-id=1134683 } | ![][taiko-diamond2] |
+| #6 | ::J a c k y::{ user-id=8011704 } | ![][taiko-diamond2] |
+| #7 | ::yuzu\1rinrin::{ user-id=4616752 } | ![][taiko-diamond2] |
+| #8 | ::HiroK::{ user-id=4050738 } | ![][taiko-diamond1] |
+| #9 | ::Faputa::{ user-id=845733 } | ![][taiko-diamond1] |
+| #10 | ::growATMfarmz::{ user-id=12273160 } | ![][taiko-diamond1] |
+| #11 | ::Nozdormu::{ user-id=7169208 } | ![][taiko-platinum2] |
+| #12 | ::Antti::{ user-id=13281473 } | ![][taiko-platinum2] |
+| #13 | ::Reu70::{ user-id=10547895 } | ![][taiko-platinum2] |
+| #14 | ::Arrival::{ user-id=1694000 } | ![][taiko-platinum2] |
+| #15 | ::Cookie\1Tree::{ user-id=502722 } | ![][taiko-platinum1] |
+| #16 | ::Cynplytholowazy::{ user-id=3901754 } | ![][taiko-platinum1] |
+| #17 | ::Brown918::{ user-id=9805760 } | ![][taiko-platinum1] |
+| #18 | ::SHK::{ user-id=2660111 } | ![][taiko-platinum1] |
+| #19 | ::VestaraKhai48::{ user-id=7257168 } | ![][taiko-platinum1] |
+| #20 | ::TwinT::{ user-id=9976154 } | ![][taiko-platinum1] |
+| #21 | ::Hydria::{ user-id=808176 } | ![][taiko-gold2] |
+| #22 | ::Hynix::{ user-id=10507557 } | ![][taiko-gold2] |
+| #23 | ::OnosakiHito::{ user-id=290128 } | ![][taiko-gold2] |
+| #24 | ::enjoyit1025::{ user-id=2206844 } | ![][taiko-gold2] |
+| #25 | ::Ansonjason2005::{ user-id=13271178 } | ![][taiko-gold2] |
+| #26 | ::owatanimal::{ user-id=5769293 } | ![][taiko-gold2] |
+| #27 | ::Strijkljzer::{ user-id=4130926 } | ![][taiko-gold2] |
+| #28 | ::Yuemiao::{ user-id=4493348 } | ![][taiko-gold2] |
+| #29 | ::Lime717::{ user-id=7918664 } | ![][taiko-gold2] |
+| #30 | ::Boaz::{ user-id=13302996 } | ![][taiko-gold2] |
+| #31 | ::Maeda::{ user-id=12615278 } | ![][taiko-gold1] |
+| #32 | ::Ku\1Ren::{ user-id=2535243 } | ![][taiko-gold1] |
+| #33 | ::haga1115::{ user-id=6574823 } | ![][taiko-gold1] |
+| #34 | ::Axer::{ user-id=7299864 } | ![][taiko-gold1] |
+| #35 | ::Foxeru::{ user-id=7479684 } | ![][taiko-gold1] |
+| #36 | ::Kuron-kun::{ user-id=2697284 } | ![][taiko-gold1] |
+| #37 | ::Bitcoin::{ user-id=654296 } | ![][taiko-gold1] |
+| #38 | ::Skey::{ user-id=7718539 } | ![][taiko-gold1] |
+| #39 | ::AuroraPhasmata::{ user-id=13664116 } | ![][taiko-gold1] |
+| #40 | ::JarHed::{ user-id=7488794 } | ![][taiko-gold1] |
+| #41 | ::Zetera::{ user-id=587737 } | ![][taiko-gold1] |
+| #42 | ::FurryBoujee::{ user-id=12630336 } | ![][taiko-gold1] |
+| #43 | ::davidminh0111::{ user-id=9623142 } | ![][taiko-gold1] |
+| #44 | ::Doomsday::{ user-id=18983 } | ![][taiko-gold1] |
+| #45 | ::Sanjenin Nagi::{ user-id=224280 } | ![][taiko-gold1] |
+| #46 | ::Hidden is fun::{ user-id=10449071 } | ![][taiko-gold1] |
+| #47 | ::Nardoxyribonucleic::{ user-id=876419 } | ![][taiko-gold1] |
+| #48 | ::Lafafel::{ user-id=2295850 } | ![][taiko-gold1] |
+| #49 | ::ILOVEMARISA::{ user-id=8767392 } | ![][taiko-gold1] |
+| #50 | ::WTHBRO::{ user-id=8957119 } | ![][taiko-gold1] |
 
 ### osu!catch
 
 | 排名 | 玩家 | 段位 |
 | --: | :-- | :-: |
-| #1 | [Rocma](https://osu.ppy.sh/users/566276) | ![][catch-ri2] |
-| #2 | [- N a g i -](https://osu.ppy.sh/users/2956936) | ![][catch-ri1] |
-| #3 | [Crystal](https://osu.ppy.sh/users/1646397) | ![][catch-ri1] |
-| #4 | [SHK](https://osu.ppy.sh/users/2660111) | ![][catch-diamond2] |
-| #5 | [-Ken](https://osu.ppy.sh/users/4430811) | ![][catch-diamond2] |
-| #6 | [Dusk](https://osu.ppy.sh/users/533210) | ![][catch-diamond2] |
-| #7 | [dika312](https://osu.ppy.sh/users/741613) | ![][catch-diamond1] |
-| #8 | [Predominator](https://osu.ppy.sh/users/4568537) | ![][catch-diamond1] |
-| #9 | [Chatie](https://osu.ppy.sh/users/6524765) | ![][catch-diamond1] |
-| #10 | [Nelly](https://osu.ppy.sh/users/4741164) | ![][catch-diamond1] |
-| #11 | [Ascendance](https://osu.ppy.sh/users/2931883) | ![][catch-diamond1] |
-| #12 | [Nana Tsubasa](https://osu.ppy.sh/users/4948624) | ![][catch-platinum2] |
-| #13 | [Deif](https://osu.ppy.sh/users/318565) | ![][catch-platinum2] |
-| #14 | [KevKjef](https://osu.ppy.sh/users/9114235) | ![][catch-platinum2] |
-| #15 | [\-Nirfu\-](https://osu.ppy.sh/users/7332050) | ![][catch-platinum2] |
-| #16 | [Cyanus](https://osu.ppy.sh/users/4624693) | ![][catch-platinum2] |
-| #17 | [Callionet](https://osu.ppy.sh/users/3072921) | ![][catch-platinum1] |
-| #18 | [JBHyperion](https://osu.ppy.sh/users/4879508) | ![][catch-platinum1] |
-| #19 | [Enjuxx](https://osu.ppy.sh/users/10727985) | ![][catch-platinum1] |
-| #20 | [Zeus-](https://osu.ppy.sh/users/5464437) | ![][catch-platinum1] |
-| #21 | [Netamaru](https://osu.ppy.sh/users/1830361) | ![][catch-platinum1] |
-| #22 | [vexAkita](https://osu.ppy.sh/users/8923804) | ![][catch-platinum1] |
-| #23 | [enjoyit1025](https://osu.ppy.sh/users/2206844) | ![][catch-platinum1] |
-| #24 | [Titan-](https://osu.ppy.sh/users/7855767) | ![][catch-gold2] |
-| #25 | [Novoids](https://osu.ppy.sh/users/5163523) | ![][catch-gold2] |
-| #26 | [\[\_-Kukkai-\_\]](https://osu.ppy.sh/users/7811952) | ![][catch-gold2] |
-| #27 | [Gordon123](https://osu.ppy.sh/users/2789905) | ![][catch-gold2] |
-| #28 | [by-ad](https://osu.ppy.sh/users/7439939) | ![][catch-gold2] |
-| #29 | [Roido](https://osu.ppy.sh/users/6829103) | ![][catch-gold2] |
-| #30 | [Spectator](https://osu.ppy.sh/users/702598) | ![][catch-gold2] |
-| #31 | [Kasumii-sama](https://osu.ppy.sh/users/6177263) | ![][catch-gold2] |
-| #32 | [Mafumafu](https://osu.ppy.sh/users/3076909) | ![][catch-gold2] |
-| #33 | [-Joni-](https://osu.ppy.sh/users/9988837) | ![][catch-gold2] |
-| #34 | [Leinou](https://osu.ppy.sh/users/7024526) | ![][catch-gold2] |
-| #35 | [Gato2499](https://osu.ppy.sh/users/7857559) | ![][catch-gold2] |
-| #36 | [Terton](https://osu.ppy.sh/users/6955523) | ![][catch-gold1] |
-| #37 | [AutoLs](https://osu.ppy.sh/users/9155988) | ![][catch-gold1] |
-| #38 | [MajorNikolai54](https://osu.ppy.sh/users/7712274) | ![][catch-gold1] |
-| #39 | [Ruiz](https://osu.ppy.sh/users/10095644) | ![][catch-gold1] |
-| #40 | [Bitcoin](https://osu.ppy.sh/users/654296) | ![][catch-gold1] |
-| #41 | [aiyulu](https://osu.ppy.sh/users/189617) | ![][catch-gold1] |
-| #42 | [Kerilia](https://osu.ppy.sh/users/7990615) | ![][catch-gold1] |
-| #43 | [Hidden is fun](https://osu.ppy.sh/users/10449071) | ![][catch-gold1] |
-| #44 | [Zech](https://osu.ppy.sh/users/5022932) | ![][catch-gold1] |
-| #45 | [catch the Exgon](https://osu.ppy.sh/users/12081746) | ![][catch-gold1] |
-| #46 | [Dabo](https://osu.ppy.sh/users/9507660) | ![][catch-gold1] |
-| #47 | [Icymice](https://osu.ppy.sh/users/8205964) | ![][catch-gold1] |
-| #48 | [Stardust Prism](https://osu.ppy.sh/users/8525921) | ![][catch-gold1] |
-| #49 | [PokeSky](https://osu.ppy.sh/users/3617111) | ![][catch-gold1] |
-| #50 | [K 3 V R A L](https://osu.ppy.sh/users/9852829) | ![][catch-gold1] |
+| #1 | ::Rocma::{ user-id=566276 } | ![][catch-ri2] |
+| #2 | ::- N a g i -::{ user-id=2956936 } | ![][catch-ri1] |
+| #3 | ::Crystal::{ user-id=1646397 } | ![][catch-ri1] |
+| #4 | ::SHK::{ user-id=2660111 } | ![][catch-diamond2] |
+| #5 | ::-Ken::{ user-id=4430811 } | ![][catch-diamond2] |
+| #6 | ::Dusk::{ user-id=533210 } | ![][catch-diamond2] |
+| #7 | ::dika312::{ user-id=741613 } | ![][catch-diamond1] |
+| #8 | ::Predominator::{ user-id=4568537 } | ![][catch-diamond1] |
+| #9 | ::Chatie::{ user-id=6524765 } | ![][catch-diamond1] |
+| #10 | ::Nelly::{ user-id=4741164 } | ![][catch-diamond1] |
+| #11 | ::Ascendance::{ user-id=2931883 } | ![][catch-diamond1] |
+| #12 | ::Nana Tsubasa::{ user-id=4948624 } | ![][catch-platinum2] |
+| #13 | ::Deif::{ user-id=318565 } | ![][catch-platinum2] |
+| #14 | ::KevKjef::{ user-id=9114235 } | ![][catch-platinum2] |
+| #15 | ::\-Nirfu\-::{ user-id=7332050 } | ![][catch-platinum2] |
+| #16 | ::Cyanus::{ user-id=4624693 } | ![][catch-platinum2] |
+| #17 | ::Callionet::{ user-id=3072921 } | ![][catch-platinum1] |
+| #18 | ::JBHyperion::{ user-id=4879508 } | ![][catch-platinum1] |
+| #19 | ::Enjuxx::{ user-id=10727985 } | ![][catch-platinum1] |
+| #20 | ::Zeus-::{ user-id=5464437 } | ![][catch-platinum1] |
+| #21 | ::Netamaru::{ user-id=1830361 } | ![][catch-platinum1] |
+| #22 | ::vexAkita::{ user-id=8923804 } | ![][catch-platinum1] |
+| #23 | ::enjoyit1025::{ user-id=2206844 } | ![][catch-platinum1] |
+| #24 | ::Titan-::{ user-id=7855767 } | ![][catch-gold2] |
+| #25 | ::Novoids::{ user-id=5163523 } | ![][catch-gold2] |
+| #26 | ::\[\_-Kukkai-\_\]::{ user-id=7811952 } | ![][catch-gold2] |
+| #27 | ::Gordon123::{ user-id=2789905 } | ![][catch-gold2] |
+| #28 | ::by-ad::{ user-id=7439939 } | ![][catch-gold2] |
+| #29 | ::Roido::{ user-id=6829103 } | ![][catch-gold2] |
+| #30 | ::Spectator::{ user-id=702598 } | ![][catch-gold2] |
+| #31 | ::Kasumii-sama::{ user-id=6177263 } | ![][catch-gold2] |
+| #32 | ::Mafumafu::{ user-id=3076909 } | ![][catch-gold2] |
+| #33 | ::-Joni-::{ user-id=9988837 } | ![][catch-gold2] |
+| #34 | ::Leinou::{ user-id=7024526 } | ![][catch-gold2] |
+| #35 | ::Gato2499::{ user-id=7857559 } | ![][catch-gold2] |
+| #36 | ::Terton::{ user-id=6955523 } | ![][catch-gold1] |
+| #37 | ::AutoLs::{ user-id=9155988 } | ![][catch-gold1] |
+| #38 | ::MajorNikolai54::{ user-id=7712274 } | ![][catch-gold1] |
+| #39 | ::Ruiz::{ user-id=10095644 } | ![][catch-gold1] |
+| #40 | ::Bitcoin::{ user-id=654296 } | ![][catch-gold1] |
+| #41 | ::aiyulu::{ user-id=189617 } | ![][catch-gold1] |
+| #42 | ::Kerilia::{ user-id=7990615 } | ![][catch-gold1] |
+| #43 | ::Hidden is fun::{ user-id=10449071 } | ![][catch-gold1] |
+| #44 | ::Zech::{ user-id=5022932 } | ![][catch-gold1] |
+| #45 | ::catch the Exgon::{ user-id=12081746 } | ![][catch-gold1] |
+| #46 | ::Dabo::{ user-id=9507660 } | ![][catch-gold1] |
+| #47 | ::Icymice::{ user-id=8205964 } | ![][catch-gold1] |
+| #48 | ::Stardust Prism::{ user-id=8525921 } | ![][catch-gold1] |
+| #49 | ::PokeSky::{ user-id=3617111 } | ![][catch-gold1] |
+| #50 | ::K 3 V R A L::{ user-id=9852829 } | ![][catch-gold1] |
 
 ### osu!mania
 
 | 排名 | 玩家 | 段位 |
 | --: | :-- | :-: |
-| #1 | [Cryolien](https://osu.ppy.sh/users/1626983) | ![][mania-ri2] |
-| #2 | [KcHecKa](https://osu.ppy.sh/users/4584427) | ![][mania-ri1] |
-| #3 | [Schopfer](https://osu.ppy.sh/users/11270477) | ![][mania-ri1] |
-| #4 | [Opean](https://osu.ppy.sh/users/4544555) | ![][mania-diamond2] |
-| #5 | [Gonzaalooo](https://osu.ppy.sh/users/1948903) | ![][mania-diamond2] |
-| #6 | [Ienpai](https://osu.ppy.sh/users/5314573) | ![][mania-diamond2] |
-| #7 | [by-ad](https://osu.ppy.sh/users/7439939) | ![][mania-diamond2] |
-| #8 | [Solleks](https://osu.ppy.sh/users/9683287) | ![][mania-diamond1] |
-| #9 | [IdrusShahab](https://osu.ppy.sh/users/8996332) | ![][mania-diamond1] |
-| #10 | [SHK](https://osu.ppy.sh/users/2660111) | ![][mania-diamond1] |
-| #11 | [Faputa](https://osu.ppy.sh/users/845733) | ![][mania-platinum2] |
-| #12 | [Irone OSU](https://osu.ppy.sh/users/10678230) | ![][mania-platinum2] |
-| #13 | [yobrevelc](https://osu.ppy.sh/users/14128407) | ![][mania-platinum2] |
-| #14 | [miminc](https://osu.ppy.sh/users/8472615) | ![][mania-platinum2] |
-| #15 | [Blight-kun](https://osu.ppy.sh/users/7785754) | ![][mania-platinum1] |
-| #16 | [enjoyit1025](https://osu.ppy.sh/users/2206844) | ![][mania-platinum1] |
-| #17 | [\[Illustrious\]](https://osu.ppy.sh/users/4082595) | ![][mania-platinum1] |
-| #18 | [Sebaex](https://osu.ppy.sh/users/4686036) | ![][mania-platinum1] |
-| #19 | [Hellnote102](https://osu.ppy.sh/users/2218066) | ![][mania-platinum1] |
-| #20 | [tsusai](https://osu.ppy.sh/users/7637292) | ![][mania-platinum1] |
-| #21 | [akace100](https://osu.ppy.sh/users/9308128) | ![][mania-platinum1] |
-| #22 | [Gaymie](https://osu.ppy.sh/users/2377299) | ![][mania-gold2] |
-| #23 | [Hidden is fun](https://osu.ppy.sh/users/10449071) | ![][mania-gold2] |
-| #24 | [Muse Dash](https://osu.ppy.sh/users/13695676) | ![][mania-gold2] |
-| #25 | [medium kek](https://osu.ppy.sh/users/11625617) | ![][mania-gold2] |
-| #26 | [Suichan203](https://osu.ppy.sh/users/9821346) | ![][mania-gold2] |
-| #27 | [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | ![][mania-gold2] |
-| #28 | [GhostRevenge](https://osu.ppy.sh/users/8980266) | ![][mania-gold2] |
-| #29 | [Crystal](https://osu.ppy.sh/users/1646397) | ![][mania-gold2] |
-| #30 | [Raveille](https://osu.ppy.sh/users/1388767) | ![][mania-gold2] |
-| #31 | [Gato2499](https://osu.ppy.sh/users/7857559) | ![][mania-gold2] |
-| #32 | [Dilly\_P](https://osu.ppy.sh/users/12907431) | ![][mania-gold1] |
-| #33 | [A M D](https://osu.ppy.sh/users/5321112) | ![][mania-gold1] |
-| #34 | [Callionet](https://osu.ppy.sh/users/3072921) | ![][mania-gold1] |
-| #35 | [Joylintp](https://osu.ppy.sh/users/13579078) | ![][mania-gold1] |
-| #36 | [cocoalatte](https://osu.ppy.sh/users/9059651) | ![][mania-gold1] |
-| #37 | [Doofyplayer](https://osu.ppy.sh/users/9828552) | ![][mania-gold1] |
-| #38 | [Joppe27](https://osu.ppy.sh/users/11753018) | ![][mania-gold1] |
-| #39 | [DecayingInOsu](https://osu.ppy.sh/users/10690052) | ![][mania-gold1] |
-| #40 | [Predominador](https://osu.ppy.sh/users/4568537) | ![][mania-gold1] |
-| #41 | [3zachm](https://osu.ppy.sh/users/8630110) | ![][mania-gold1] |
-| #42 | [\[Crz\]Arkener](https://osu.ppy.sh/users/4116072) | ![][mania-gold1] |
-| #43 | [Rashod](https://osu.ppy.sh/users/12705051) | ![][mania-gold1] |
-| #44 | [King Hong](https://osu.ppy.sh/users/7263047) | ![][mania-gold1] |
-| #45 | [Toushi](https://osu.ppy.sh/users/2367825) | ![][mania-gold1] |
-| #46 | [PokeSky](https://osu.ppy.sh/users/3617111) | ![][mania-gold1] |
-| #47 | [hero_jeff](https://osu.ppy.sh/users/3375226) | ![][mania-gold1] |
-| #48 | [CrumpetFiddler](https://osu.ppy.sh/users/3518705) | ![][mania-gold1] |
-| #49 | [chromb](https://osu.ppy.sh/users/10238680) | ![][mania-gold1] |
-| #50 | [dennischan](https://osu.ppy.sh/users/2875497) | ![][mania-gold1] |
+| #1 | ::Cryolien::{ user-id=1626983 } | ![][mania-ri2] |
+| #2 | ::KcHecKa::{ user-id=4584427 } | ![][mania-ri1] |
+| #3 | ::Schopfer::{ user-id=11270477 } | ![][mania-ri1] |
+| #4 | ::Opean::{ user-id=4544555 } | ![][mania-diamond2] |
+| #5 | ::Gonzaalooo::{ user-id=1948903 } | ![][mania-diamond2] |
+| #6 | ::Ienpai::{ user-id=5314573 } | ![][mania-diamond2] |
+| #7 | ::by-ad::{ user-id=7439939 } | ![][mania-diamond2] |
+| #8 | ::Solleks::{ user-id=9683287 } | ![][mania-diamond1] |
+| #9 | ::IdrusShahab::{ user-id=8996332 } | ![][mania-diamond1] |
+| #10 | ::SHK::{ user-id=2660111 } | ![][mania-diamond1] |
+| #11 | ::Faputa::{ user-id=845733 } | ![][mania-platinum2] |
+| #12 | ::Irone OSU::{ user-id=10678230 } | ![][mania-platinum2] |
+| #13 | ::yobrevelc::{ user-id=14128407 } | ![][mania-platinum2] |
+| #14 | ::miminc::{ user-id=8472615 } | ![][mania-platinum2] |
+| #15 | ::Blight-kun::{ user-id=7785754 } | ![][mania-platinum1] |
+| #16 | ::enjoyit1025::{ user-id=2206844 } | ![][mania-platinum1] |
+| #17 | ::\[Illustrious\]::{ user-id=4082595 } | ![][mania-platinum1] |
+| #18 | ::Sebaex::{ user-id=4686036 } | ![][mania-platinum1] |
+| #19 | ::Hellnote102::{ user-id=2218066 } | ![][mania-platinum1] |
+| #20 | ::tsusai::{ user-id=7637292 } | ![][mania-platinum1] |
+| #21 | ::akace100::{ user-id=9308128 } | ![][mania-platinum1] |
+| #22 | ::Gaymie::{ user-id=2377299 } | ![][mania-gold2] |
+| #23 | ::Hidden is fun::{ user-id=10449071 } | ![][mania-gold2] |
+| #24 | ::Muse Dash::{ user-id=13695676 } | ![][mania-gold2] |
+| #25 | ::medium kek::{ user-id=11625617 } | ![][mania-gold2] |
+| #26 | ::Suichan203::{ user-id=9821346 } | ![][mania-gold2] |
+| #27 | ::Cynplytholowazy::{ user-id=3901754 } | ![][mania-gold2] |
+| #28 | ::GhostRevenge::{ user-id=8980266 } | ![][mania-gold2] |
+| #29 | ::Crystal::{ user-id=1646397 } | ![][mania-gold2] |
+| #30 | ::Raveille::{ user-id=1388767 } | ![][mania-gold2] |
+| #31 | ::Gato2499::{ user-id=7857559 } | ![][mania-gold2] |
+| #32 | ::Dilly\_P::{ user-id=12907431 } | ![][mania-gold1] |
+| #33 | ::A M D::{ user-id=5321112 } | ![][mania-gold1] |
+| #34 | ::Callionet::{ user-id=3072921 } | ![][mania-gold1] |
+| #35 | ::Joylintp::{ user-id=13579078 } | ![][mania-gold1] |
+| #36 | ::cocoalatte::{ user-id=9059651 } | ![][mania-gold1] |
+| #37 | ::Doofyplayer::{ user-id=9828552 } | ![][mania-gold1] |
+| #38 | ::Joppe27::{ user-id=11753018 } | ![][mania-gold1] |
+| #39 | ::DecayingInOsu::{ user-id=10690052 } | ![][mania-gold1] |
+| #40 | ::Predominador::{ user-id=4568537 } | ![][mania-gold1] |
+| #41 | ::3zachm::{ user-id=8630110 } | ![][mania-gold1] |
+| #42 | ::\[Crz\]Arkener::{ user-id=4116072 } | ![][mania-gold1] |
+| #43 | ::Rashod::{ user-id=12705051 } | ![][mania-gold1] |
+| #44 | ::King Hong::{ user-id=7263047 } | ![][mania-gold1] |
+| #45 | ::Toushi::{ user-id=2367825 } | ![][mania-gold1] |
+| #46 | ::PokeSky::{ user-id=3617111 } | ![][mania-gold1] |
+| #47 | ::hero\1jeff::{ user-id=3375226 } | ![][mania-gold1] |
+| #48 | ::CrumpetFiddler::{ user-id=3518705 } | ![][mania-gold1] |
+| #49 | ::chromb::{ user-id=10238680 } | ![][mania-gold1] |
+| #50 | ::dennischan::{ user-id=2875497 } | ![][mania-gold1] |
 
 ## 课题
 

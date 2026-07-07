@@ -23,7 +23,7 @@ osu! first laid ears on **LandRoot** through *Need To De-stress*, a tune that's 
 
 ### LandRoot - Need To De-stress
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1834399) hosted by [PaRaDogi](https://osu.ppy.sh/users/2054596) or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1474263) hosted by [Capu](https://osu.ppy.sh/users/2474015)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1834399) hosted by ::PaRaDogi::{ user-id=2054596 } or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1474263) hosted by ::Capu::{ user-id=2474015 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/327/Songs/LandRoot%20-%20Need%20To%20De-Stress.mp3" type="audio/mpeg">

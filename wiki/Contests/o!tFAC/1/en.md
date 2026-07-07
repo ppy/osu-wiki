@@ -31,9 +31,9 @@ The osu!taiko Featured Artist Cup #1 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
-| Designer | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
-| Judge | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
+| Host | ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } |
+| Designer | ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } |
+| Judge | ::{ flag=US }:: ::Alchyr::{ user-id=4993032 }, ::{ flag=AR }:: ::Axer::{ user-id=7299864 }, ::{ flag=US }:: ::Nifty::{ user-id=4956097 }, ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } |
 
 ## Prizes
 
@@ -57,9 +57,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: ::woosungko::{ user-id=14184157 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=TH }:: ::Ph0eNiiXZ::{ user-id=9463721 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=IT }:: ::D3kuu::{ user-id=7807444 } |
 
 ## Ruleset
 
@@ -81,4 +81,4 @@ This competition has come to an end and resulted in the following podium:
 
 ## Notes
 
-[^prizes-ranked]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) and ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) will mod and push the winning entry to Ranked if the winner chooses to, and **if they get the necessary difficulties to form a rankable spread when needed**.
+[^prizes-ranked]: ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } and ::{ flag=US }:: ::Nifty::{ user-id=4956097 } will mod and push the winning entry to Ranked if the winner chooses to, and **if they get the necessary difficulties to form a rankable spread when needed**.

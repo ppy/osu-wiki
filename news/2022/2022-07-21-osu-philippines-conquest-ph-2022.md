@@ -11,7 +11,7 @@ The first ever Filipino LAN event, the **Quickfire Showdown**, will be hosted at
 
 ![Quickfire Showdown Banner](/wiki/shared/news/2022-07-21-osu-philippines-conquest-ph-2022/quickfire_showdown_banner.png)
 
-As an extra special addition, [BTMC](https://osu.ppy.sh/users/3171691) will be present at the event playing with the talented players of the osu! Philippines community!
+As an extra special addition, ::BTMC::{ user-id=3171691 } will be present at the event playing with the talented players of the osu! Philippines community!
 
 ## Tournament
 

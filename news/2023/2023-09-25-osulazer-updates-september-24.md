@@ -18,7 +18,7 @@ Things are progressing faster towards the goal of leaderboards by the end of the
 ### Changes
 
 - **Velocity change visualisation toggle in the editor.** In osu!mania and osu!taiko, the speed of objects can be toggled to be constant or reflect gameplay.
-- **New minimum -10 approach rate for the Difficulty Adjust mod.** Courtesy of reading expert [-GN](https://osu.ppy.sh/users/895581), you may now attempt and fail something he does with ease.
+- **New minimum -10 approach rate for the Difficulty Adjust mod.** Courtesy of reading expert ::-GN::{ user-id=895581 }, you may now attempt and fail something he does with ease.
 - **Removed slider head movement.** No more misses when hitting a slider late. This was a consequence of the new slider "snake out" feature, but has now been fixed.
 - **Beatmap attribute display in the mod select overlay.** Star rating, BPM, and other info can be seen on the left-side "details" tab, but when trying to select mods, a huge (albeit fabulous) overlay would rudely block the view. That is now fixed along with other quality-of-life improvements.
 - **Missing beatmap download on replay import.** The game will present you with the correct beatmap (in a new *nano-sized* beatmap card) if you don't have the map for a replay your friend sent you. If you tick `Automatically download missing beatmaps` in the options, it'll skip this fancy presentation and just download the map automatically (which is still fancy).

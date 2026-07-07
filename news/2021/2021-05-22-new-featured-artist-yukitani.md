@@ -13,7 +13,7 @@ Parading an unforgettable persona through his self-designed costume, **yukitani*
 
 Short but sweet, we've snagged **5** tracks from **yukitani**'s collection, all ready for mapping from their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/167)!
 
-Older generations of osu! players might already be well-versed with **yukitani**'s sound through a nearly 2-million-play beatmap of [*Kurubukko vs yukitani - Minamichita EVOLVED*](https://osu.ppy.sh/beatmapsets/136632) hosted by [Cherry Blossom](https://osu.ppy.sh/users/1156742). Play the map for yourself or watch us run through it in the video below on 5 different osu! setups:
+Older generations of osu! players might already be well-versed with **yukitani**'s sound through a nearly 2-million-play beatmap of [*Kurubukko vs yukitani - Minamichita EVOLVED*](https://osu.ppy.sh/beatmapsets/136632) hosted by ::Cherry Blossom::{ user-id=1156742 }. Play the map for yourself or watch us run through it in the video below on 5 different osu! setups:
 
 <div align="center">
     <video width="95%" controls>
@@ -25,7 +25,7 @@ Older generations of osu! players might already be well-versed with **yukitani**
 
 ### Amusing Reflection Rag.
 
-Check out [this new osu!taiko showcase beatmap](https://osu.ppy.sh/beatmapsets/1436446) hosted by [Reficul](https://osu.ppy.sh/users/1506011) of the Mappers' Guild!
+Check out [this new osu!taiko showcase beatmap](https://osu.ppy.sh/beatmapsets/1436446) hosted by ::Reficul::{ user-id=1506011 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/167/Songs/yukitani%20-%20Amusing%20Reflection%20Rag..mp3" type="audio/mpeg">

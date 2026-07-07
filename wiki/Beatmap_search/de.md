@@ -119,13 +119,13 @@ stars>=7 stars<8 od<8
 unplayed= status=r christmas
 ```
 
-(Client, Webseite) Prüfe, ob mindestens ein Level von ::{ flag=FR }:: [galvenize](https://osu.ppy.sh/users/381444) aus [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmapsets/28107) heruntergeladen wurde:
+(Client, Webseite) Prüfe, ob mindestens ein Level von ::{ flag=FR }:: ::galvenize::{ user-id=381444 } aus [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmapsets/28107) heruntergeladen wurde:
 
 ```
 28107
 ```
 
-(Webseite) Finde Beatmaps, die zwischen August und Oktober 2010 gerankt wurden und mindestens ein von ::{ flag=GB }:: [Natteke](https://osu.ppy.sh/users/157177) erstelltes Level enthalten:
+(Webseite) Finde Beatmaps, die zwischen August und Oktober 2010 gerankt wurden und mindestens ein von ::{ flag=GB }:: ::Natteke::{ user-id=157177 } erstelltes Level enthalten:
 
 ```
 ranked>=2010-08 ranked<2010-11 creator=Natteke

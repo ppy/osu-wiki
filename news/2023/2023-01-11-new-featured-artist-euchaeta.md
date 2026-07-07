@@ -13,7 +13,7 @@ Japanese-style instrumentation, folk-inspired vocals, and VOCALOID are some main
 
 **9** tracks unlike anything you've ever heard are available at your digital fingertips via [**Euchaeta**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/333). Grab them while supplies last (a.k.a. until the internet stops existing).
 
-If you haven't heard **Euchaeta**'s sound yet, that's about to change. Witness [Regou](https://osu.ppy.sh/users/419954) play through [A Songwriter's Cosmos](https://osu.ppy.sh/beatmapsets/1858201) with mouse only, then follow your gut by clicking on every other preview:
+If you haven't heard **Euchaeta**'s sound yet, that's about to change. Witness ::Regou::{ user-id=419954 } play through [A Songwriter's Cosmos](https://osu.ppy.sh/beatmapsets/1858201) with mouse only, then follow your gut by clicking on every other preview:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ If you haven't heard **Euchaeta**'s sound yet, that's about to change. Witness [
 
 ### Euchaeta - A Songwriter's Cosmos
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1858201) hosted by [Niva](https://osu.ppy.sh/users/197805)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1858201) hosted by ::Niva::{ user-id=197805 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/333/Songs/Euchaeta%20-%20A%20Songwriter's%20Cosmos.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1858201)
 
 ### Euchaeta - Spirit Away
 
-Also check out [this map created for this announcement](https://osu.ppy.sh/beatmapsets/1857409) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!
+Also check out [this map created for this announcement](https://osu.ppy.sh/beatmapsets/1857409) hosted by ::Hinsvar::{ user-id=1249323 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/333/Songs/Euchaeta%20-%20Spirit%20Away.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Also check out [this map created for this announcement](https://osu.ppy.sh/beatm
 
 ### Euchaeta - How to Chase Two Rabbits
 
-Try [this low-difficulty marathon](https://osu.ppy.sh/beatmapsets/1460070) hosted by **Euchaeta**'s biggest fan [P\_O](https://osu.ppy.sh/users/831979)!
+Try [this low-difficulty marathon](https://osu.ppy.sh/beatmapsets/1460070) hosted by **Euchaeta**'s biggest fan ::P\_O::{ user-id=831979 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/333/Songs/Euchaeta%20-%20How%20to%20Chase%20Two%20Rabbits.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ Try [this low-difficulty marathon](https://osu.ppy.sh/beatmapsets/1460070) hoste
 
 ### Euchaeta - Sono Iro
 
-Or try [this other marathon](https://osu.ppy.sh/beatmapsets/1590203) hosted by [P\_O](https://osu.ppy.sh/users/831979)!
+Or try [this other marathon](https://osu.ppy.sh/beatmapsets/1590203) hosted by ::P\_O::{ user-id=831979 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/333/Songs/Euchaeta%20-%20Sono%20Iro.mp3" type="audio/mpeg">
@@ -55,7 +55,7 @@ Or try [this other marathon](https://osu.ppy.sh/beatmapsets/1590203) hosted by [
 
 ### Euchaeta - Who's World?
 
-Orrrr maybe try [yet another marathon](https://osu.ppy.sh/beatmapsets/1622155) hosted yet again by [P\_O](https://osu.ppy.sh/users/831979)!
+Orrrr maybe try [yet another marathon](https://osu.ppy.sh/beatmapsets/1622155) hosted yet again by ::P\_O::{ user-id=831979 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/333/Songs/Euchaeta%20-%20Who's%20World.mp3" type="audio/mpeg">

@@ -33,10 +33,10 @@ La **Korean Charting Contest 2022** (***KCC2022***) est un concours de mapping o
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Organisateur | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) |
-| Gestionnaire | ::{ flag=KR }:: [Oni Suika](https://osu.ppy.sh/users/4848023) |
-| Designer | ::{ flag=KR }:: [Manwon](https://osu.ppy.sh/users/4129020) |
-| Juge | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146) |
+| Organisateur | ::{ flag=KR }:: ::Garalulu::{ user-id=757783 } |
+| Gestionnaire | ::{ flag=KR }:: ::Oni Suika::{ user-id=4848023 } |
+| Designer | ::{ flag=KR }:: ::Manwon::{ user-id=4129020 } |
+| Juge | ::{ flag=CN }:: ::\1Stan::{ user-id=1653229 }, ::{ flag=SG }:: ::Evening::{ user-id=2193881 }, ::{ flag=KR }:: ::Garalulu::{ user-id=757783 }, ::{ flag=PH }:: ::lenpai::{ user-id=5314573 }, ::{ flag=KR }:: ::Remuring::{ user-id=6522146 } |
 
 ## Liens
 
@@ -66,9 +66,9 @@ La **Korean Charting Contest 2022** (***KCC2022***) est un concours de mapping o
 
 | Place | Mappeur |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ::{ flag=KR }:: [Rio1-](https://osu.ppy.sh/users/5604329) |
-| ![Couronne en argent](/wiki/shared/crown-silver.png "Deuxième place") | ::{ flag=KR }:: [JuHaa](https://osu.ppy.sh/users/15526127) |
-| ![Couronne en bronze](/wiki/shared/crown-bronze.png "Troisième place") | ::{ flag=KR }:: [WintMin](https://osu.ppy.sh/users/11161386) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ::{ flag=KR }:: ::Rio1-::{ user-id=5604329 } |
+| ![Couronne en argent](/wiki/shared/crown-silver.png "Deuxième place") | ::{ flag=KR }:: ::JuHaa::{ user-id=15526127 } |
+| ![Couronne en bronze](/wiki/shared/crown-bronze.png "Troisième place") | ::{ flag=KR }:: ::WintMin::{ user-id=11161386 } |
 
 ## Règlement
 

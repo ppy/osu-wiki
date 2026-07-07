@@ -22,52 +22,52 @@ tags:
 
 | 角色 | 成员 |
 | :-- | :-- |
-| 项目领导 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
-| 项目管理 | ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705)，::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850) |
+| 项目领导 | ::{ flag=PL }:: ::Venix::{ user-id=5999631 } |
+| 项目管理 | ::{ flag=AU }:: ::Crumpey::{ user-id=3518705 }，::{ flag=FI }:: ::Lefafel::{ user-id=2295850 } |
 
 每期谱面聚光灯发布时，专门的策展人团队都会集结起来。团队带头人使用粗体标出。
 
 ### osu! 策展人
 
-- ::{ flag=FI }:: **[Lefafel](https://osu.ppy.sh/users/2295850)**
-- ::{ flag=US }:: [Boolin](https://osu.ppy.sh/users/10664409)
-- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
-- ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340)
-- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
-- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ::{ flag=RO }:: [verily](https://osu.ppy.sh/users/12366071)
-- ::{ flag=US }:: [Willy](https://osu.ppy.sh/users/3521482)
-- ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
-- ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802)
+- ::{ flag=FI }:: **::Lefafel::{ user-id=2295850 }**
+- ::{ flag=US }:: ::Boolin::{ user-id=10664409 }
+- ::{ flag=HK }:: ::Chaoslitz::{ user-id=3621552 }
+- ::{ flag=US }:: ::DigitalHypno::{ user-id=4384207 }
+- ::{ flag=GB }:: ::KnightC0re::{ user-id=7894340 }
+- ::{ flag=MX }:: ::Riot::{ user-id=4256461 }
+- ::{ flag=CN }:: ::Ryuusei Aika::{ user-id=7777875 }
+- ::{ flag=RO }:: ::verily::{ user-id=12366071 }
+- ::{ flag=US }:: ::Willy::{ user-id=3521482 }
+- ::{ flag=US }:: ::Wispy::{ user-id=11106929 }
+- ::{ flag=IT }:: ::zekk::{ user-id=9704802 }
 
 ### osu!taiko 策展人
 
-- ::{ flag=AT }:: **[Yasuho](https://osu.ppy.sh/users/8458835)**
-- ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)
-- ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910)
-- ::{ flag=SK }:: [nevqr](https://osu.ppy.sh/users/14269506)
-- ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128)
-- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
+- ::{ flag=AT }:: **::Yasuho::{ user-id=8458835 }**
+- ::{ flag=GB }:: ::Horiiizon::{ user-id=8071438 }
+- ::{ flag=JP }:: ::Maimaing::{ user-id=14520910 }
+- ::{ flag=SK }:: ::nevqr::{ user-id=14269506 }
+- ::{ flag=DE }:: ::OnosakiHito::{ user-id=290128 }
+- ::{ flag=JP }:: ::uone::{ user-id=5321719 }
 
 ### osu!catch 策展人
 
-- ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
-- ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898)
-- ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164)
-- ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
-- ::{ flag=FR }:: [Realmaas](https://osu.ppy.sh/users/6567640)
+- ::{ flag=CA }:: **::SadEgg::{ user-id=10278243 }**
+- ::{ flag=ID }:: ::Constantine::{ user-id=3221898 }
+- ::{ flag=RU }:: ::Nelly::{ user-id=4741164 }
+- ::{ flag=PL }:: ::Phob::{ user-id=6069462 }
+- ::{ flag=FR }:: ::Realmaas::{ user-id=6567640 }
 
 ### osu!mania 策展人
 
-- ::{ flag=ID }:: **[Maxus](https://osu.ppy.sh/users/4335785)**
-- ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773)
-- ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
-- ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090)
-- ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705)
-- ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154)
-- ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676)
-- ::{ flag=KR }:: [Rurvker](https://osu.ppy.sh/users/24526335)
-- ::{ flag=KR }:: [Seulgi](https://osu.ppy.sh/users/4918394)
-- ::{ flag=TW }:: [Spy](https://osu.ppy.sh/users/1217122)
-- ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619)
+- ::{ flag=ID }:: **::Maxus::{ user-id=4335785 }**
+- ::{ flag=DO }:: ::Antalf::{ user-id=8793773 }
+- ::{ flag=VN }:: ::Akasha-::{ user-id=2596306 }
+- ::{ flag=CN }:: ::Carpihat::{ user-id=10085090 }
+- ::{ flag=AU }:: ::Crumpey::{ user-id=3518705 }
+- ::{ flag=ID }:: ::Ilham::{ user-id=3057154 }
+- ::{ flag=NL }:: ::Muse Dash::{ user-id=13695676 }
+- ::{ flag=KR }:: ::Rurvker::{ user-id=24526335 }
+- ::{ flag=KR }:: ::Seulgi::{ user-id=4918394 }
+- ::{ flag=TW }:: ::Spy::{ user-id=1217122 }
+- ::{ flag=CN }:: ::YuEast 2018::{ user-id=13953619 }

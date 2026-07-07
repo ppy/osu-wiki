@@ -17,7 +17,7 @@ Check it out:
 
 ### connection
 
-Check out [this osu!taiko showcase mapset](https://osu.ppy.sh/beatmapsets/1183142) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)!
+Check out [this osu!taiko showcase mapset](https://osu.ppy.sh/beatmapsets/1183142) hosted by ::Cynplytholowazy::{ user-id=3901754 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/101/previews/2702.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out [this osu!taiko showcase mapset](https://osu.ppy.sh/beatmapsets/118314
 
 ### mango sago
 
-Check out [this osu!taiko showcase mapset](https://osu.ppy.sh/beatmapsets/1191159) hosted by [komasy](https://osu.ppy.sh/users/1980256)!
+Check out [this osu!taiko showcase mapset](https://osu.ppy.sh/beatmapsets/1191159) hosted by ::komasy::{ user-id=1980256 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/101/previews/2705.mp3" type="audio/mpeg">

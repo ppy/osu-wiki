@@ -40,11 +40,11 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 | Job | Person(s) |
 | :-- | :-- |
-| 토너먼트 관리 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=US }:: [dkun](https://osu.ppy.sh/users/154400) |
-| 비트맵 선별 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042), ::{ flag=AR }:: [Wishy](https://osu.ppy.sh/users/495477), ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323) |
-| 방송 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55), ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935), ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389) |
-| 해설 | ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078), ::{ flag=US }:: [Agnes](https://osu.ppy.sh/users/136982), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347), ::{ flag=NO }:: [kriers](https://osu.ppy.sh/users/333241), ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094), ::{ flag=AU }:: [LaVolpe024](https://osu.ppy.sh/users/597796), ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) |
-| 통계 | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
+| 토너먼트 관리 | ::{ flag=DE }:: ::Loctav::{ user-id=71366 }, ::{ flag=DE }:: ::p3n::{ user-id=123703 }, ::{ flag=US }:: ::dkun::{ user-id=154400 } |
+| 비트맵 선별 | ::{ flag=AR }:: ::Darksonic::{ user-id=570042 }, ::{ flag=AR }:: ::Wishy::{ user-id=495477 }, ::{ flag=IT }:: ::Chewin::{ user-id=617323 } |
+| 방송 | ::{ flag=AU }:: ::peppy::{ user-id=2 }, ::{ flag=AU }:: ::Zallius::{ user-id=55 }, ::{ flag=CA }:: ::Nyquill::{ user-id=682935 }, ::{ flag=US }:: ::Makar::{ user-id=686389 } |
+| 해설 | ::{ flag=FR }:: ::Mr Color::{ user-id=116078 }, ::{ flag=US }:: ::Agnes::{ user-id=136982 }, ::{ flag=US }:: ::ztrot::{ user-id=6347 }, ::{ flag=NO }:: ::kriers::{ user-id=333241 }, ::{ flag=NO }:: ::MillhioreF::{ user-id=941094 }, ::{ flag=AU }:: ::LaVolpe024::{ user-id=597796 }, ::{ flag=NZ }:: ::deadbeat::{ user-id=128370 } |
+| 통계 | ::{ flag=PL }:: ::Marcin::{ user-id=722665 } |
 
 ## 링크
 
@@ -59,10 +59,10 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 | Country | Members |
 | :-- | :-- |
-| ::{ flag=CN }:: China | **[Furudo\_Erika](https://osu.ppy.sh/users/169878)**, [wobeinimacao](https://osu.ppy.sh/users/350723), [N a n o](https://osu.ppy.sh/users/694114), [5231\_Kinoko](https://osu.ppy.sh/users/181057), [GGBY](https://osu.ppy.sh/users/629717), [Dsan](https://osu.ppy.sh/users/1266166), [InabaTewi](https://osu.ppy.sh/users/1078004), [GunS\_N\_Rose](https://osu.ppy.sh/users/1349849) |
-| ::{ flag=DE }:: Germany | **[ShadowSoul](https://osu.ppy.sh/users/494970)**, [CookEasy](https://osu.ppy.sh/users/453226), [Michi](https://osu.ppy.sh/users/932342), [Dustice](https://osu.ppy.sh/users/754565), [BDDav](https://osu.ppy.sh/users/1164526), [cptnXn](https://osu.ppy.sh/users/495272), [Imamoto](https://osu.ppy.sh/users/1201224), [dukambe](https://osu.ppy.sh/users/880002) |
-| ::{ flag=JP }:: Japan | **[Karuta](https://osu.ppy.sh/users/360552)**, [rrtyui](https://osu.ppy.sh/users/352328), [Potofu](https://osu.ppy.sh/users/657404), [serea](https://osu.ppy.sh/users/371961), [mugio3](https://osu.ppy.sh/users/491522), [Homura-](https://osu.ppy.sh/users/482120), [Gokuri](https://osu.ppy.sh/users/343865), [doctorindark](https://osu.ppy.sh/users/609227) |
-| ::{ flag=KR }:: Korea | **[Dungeon](https://osu.ppy.sh/users/461720)**, [K i R i K a R u](https://osu.ppy.sh/users/139670), [dragonhuman](https://osu.ppy.sh/users/713266), [ffury](https://osu.ppy.sh/users/2056071), [CheEZ](https://osu.ppy.sh/users/272117), [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), [Tengu](https://osu.ppy.sh/users/380836), [Shizuru-](https://osu.ppy.sh/users/1341421) |
+| ::{ flag=CN }:: China | **::Furudo\_Erika::{ user-id=169878 }**, [wobeinimacao](https://osu.ppy.sh/users/350723), ::N a n o::{ user-id=694114 }, [5231\_Kinoko](https://osu.ppy.sh/users/181057), ::GGBY::{ user-id=629717 }, [Dsan](https://osu.ppy.sh/users/1266166), ::InabaTewi::{ user-id=1078004 }, [GunS\_N\_Rose](https://osu.ppy.sh/users/1349849) |
+| ::{ flag=DE }:: Germany | **::ShadowSoul::{ user-id=494970 }**, [CookEasy](https://osu.ppy.sh/users/453226), ::Michi::{ user-id=932342 }, [Dustice](https://osu.ppy.sh/users/754565), ::BDDav::{ user-id=1164526 }, [cptnXn](https://osu.ppy.sh/users/495272), ::Imamoto::{ user-id=1201224 }, [dukambe](https://osu.ppy.sh/users/880002) |
+| ::{ flag=JP }:: Japan | **::Karuta::{ user-id=360552 }**, [rrtyui](https://osu.ppy.sh/users/352328), ::Potofu::{ user-id=657404 }, [serea](https://osu.ppy.sh/users/371961), ::mugio3::{ user-id=491522 }, [Homura-](https://osu.ppy.sh/users/482120), ::Gokuri::{ user-id=343865 }, [doctorindark](https://osu.ppy.sh/users/609227) |
+| ::{ flag=KR }:: Korea | **::Dungeon::{ user-id=461720 }**, [K i R i K a R u](https://osu.ppy.sh/users/139670), ::dragonhuman::{ user-id=713266 }, [ffury](https://osu.ppy.sh/users/2056071), ::CheEZ::{ user-id=272117 }, [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), ::Tengu::{ user-id=380836 }, [Shizuru-](https://osu.ppy.sh/users/1341421) |
 | ::{ flag=PL }:: Poland | **fartownik**, Niko, WubWoofWolf, AmaiHachimitsu, rEdo, worst fl player, Piotrekol, Beniek |
 | ::{ flag=TW }:: Taiwan | **Uan**, Rucker, SnowWhite, Small K, I will be back, Yuyuko sama, dabanlong, onlyforyou |
 | ::{ flag=TH }:: Thailand | **NonxE**, Frostmourne, 0OoMickeyoO0, Popo\[Mikoto\], Cint, Neolution |
@@ -72,7 +72,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 | Country | Members |
 | :-- | :-- |
-| ::{ flag=AR }:: Argentina | **[Metro](https://osu.ppy.sh/users/306737)**, [Glazbom](https://osu.ppy.sh/users/608277), [Salvage](https://osu.ppy.sh/users/242119), [Hernan](https://osu.ppy.sh/users/516680), [Fabi](https://osu.ppy.sh/users/173114), [druidxd](https://osu.ppy.sh/users/841441), [CBA-ES-CAB](https://osu.ppy.sh/users/1875237), [Mikumiku97](https://osu.ppy.sh/users/503749) |
+| ::{ flag=AR }:: Argentina | **::Metro::{ user-id=306737 }**, [Glazbom](https://osu.ppy.sh/users/608277), ::Salvage::{ user-id=242119 }, [Hernan](https://osu.ppy.sh/users/516680), ::Fabi::{ user-id=173114 }, [druidxd](https://osu.ppy.sh/users/841441), ::CBA-ES-CAB::{ user-id=1875237 }, [Mikumiku97](https://osu.ppy.sh/users/503749) |
 | ::{ flag=BR }:: Brazil | **fabriciorby**, Blue Dragon, shoTt, nouk, Ghost Princess, powerstream89, AdRon Zh3Ro, antsu |
 | ::{ flag=HK }:: Hong Kong | **SilviZ**, Akiko-, HineX, K47, Fir3k0, galen1922, Yakumo Yukarin, auweichun |
 | ::{ flag=LV }:: Latvia | **LoGo**, nomen, Forseen, Vmx, Suika Ibuki, NewNyuu, nek2high, PyramidX |

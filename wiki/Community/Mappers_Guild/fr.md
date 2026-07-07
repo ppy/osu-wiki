@@ -43,7 +43,7 @@ Les quêtes prioritaires sont classées en fonction de leur difficulté. Le nive
 
 Les récompenses sont distribuées par le biais d'un système de points. Lorsqu'un utilisateur atteint un seuil de points[^points] spécifié, il obtient un rang différent matérialisé par un badge de profil.
 
-Dans les débuts de la Mappers' Guild, il y avait trois niveaux d'insignes de profil : 100, 250 et 500 points respectivement. Lorsque [Annabel](https://osu.ppy.sh/users/3388410) est devenue la première utilisatrice à atteindre 1000 points, un quatrième niveau a été créé, et lorsque [Hinsvar](https://osu.ppy.sh/users/1249323) est devenu le premier utilisateur à atteindre 2500 points, un cinquième niveau a été créé. Si un utilisateur atteint 5000 points, un sixième niveau peut être ajouté.
+Dans les débuts de la Mappers' Guild, il y avait trois niveaux d'insignes de profil : 100, 250 et 500 points respectivement. Lorsque ::Annabel::{ user-id=3388410 } est devenue la première utilisatrice à atteindre 1000 points, un quatrième niveau a été créé, et lorsque ::Hinsvar::{ user-id=1249323 } est devenu le premier utilisateur à atteindre 2500 points, un cinquième niveau a été créé. Si un utilisateur atteint 5000 points, un sixième niveau peut être ajouté.
 
 Des points sont gagnés pour différentes tâches de la Mappers' Guild. Les gains varient d'une tâche à l'autre, bien qu'ils soient généralement pondérés en fonction du temps requis. Par exemple, le mapping d'une difficulté Hard prend plus de temps que le mapping d'une difficulté Easy, donc le premier récompense plus de points que le second.
 
@@ -103,7 +103,7 @@ Suivant les traces de ces deux packs de beatmaps, la Mappers' Guild a continuell
 
 ### Automatisation
 
-Alors que le plan initial de la Mappers' Guild avait toujours été d'avoir des éléments MMO comme des quêtes, il s'est avéré que cela n'était pas pratique à gérer tout en gérant manuellement les délais pour le nombre limité de participants à la guilde. ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) et ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) ont commencé à développer un site web pour automatiser la Mappers' Guild à la fin de l'année 2018, permettant une distribution plus adéquate des récompenses et la gestion des systèmes de quêtes/parties.
+Alors que le plan initial de la Mappers' Guild avait toujours été d'avoir des éléments MMO comme des quêtes, il s'est avéré que cela n'était pas pratique à gérer tout en gérant manuellement les délais pour le nombre limité de participants à la guilde. ::{ flag=US }:: ::pishifat::{ user-id=3178418 } et ::{ flag=CL }:: ::Milan-::{ user-id=1052994 } ont commencé à développer un site web pour automatiser la Mappers' Guild à la fin de l'année 2018, permettant une distribution plus adéquate des récompenses et la gestion des systèmes de quêtes/parties.
 
 Le [site web de la Mappers' Guild](https://mappersguild.com/) a été lancé le 1er mars 2019, et c'est là que tout ce qui concerne la Mappers' Guild est actuellement contrôlé. Depuis son ouverture au public, la guilde a atteint un nombre de membres supérieur à 500 et publie des [posts de news des mises à jour](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) pour tenir le reste de la communauté d'osu! au courant du contenu de mapping des Featured Artist.
 

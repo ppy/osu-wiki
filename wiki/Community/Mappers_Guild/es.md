@@ -43,7 +43,7 @@ Las misiones prioritarias están etiquetadas por dificultad. El nivel 1 es el m�
 
 Las recompensas se distribuyen a través de un sistema de puntos. Cuando un usuario alcanza un umbral de puntos específico[^points], obtiene un rango diferente indicada por una insignia de perfil.
 
-Cuando se creó el Mappers' Guild, había tres niveles de insignia de perfil de 100, 250 y 500 puntos respectivamente. Después de que [Annabel](https://osu.ppy.sh/users/3388410) se convirtiera en el primer usuario en alcanzar los 1000 puntos, se creó un cuarto nivel, y después de que [Hinsvar](https://osu.ppy.sh/users/1249323) se convirtió en el primer usuario en alcanzar 2500 puntos, se creó un quinto nivel. Si un usuario alcanza los 5000 puntos, se puede agregar un sexto nivel.
+Cuando se creó el Mappers' Guild, había tres niveles de insignia de perfil de 100, 250 y 500 puntos respectivamente. Después de que ::Annabel::{ user-id=3388410 } se convirtiera en el primer usuario en alcanzar los 1000 puntos, se creó un cuarto nivel, y después de que ::Hinsvar::{ user-id=1249323 } se convirtió en el primer usuario en alcanzar 2500 puntos, se creó un quinto nivel. Si un usuario alcanza los 5000 puntos, se puede agregar un sexto nivel.
 
 Se obtienen puntos por diferentes tareas del Mappers' Guild. Las ganancias varían según las tareas, aunque generalmente se ponderan según la cantidad de tiempo requerido. Por ejemplo, mapear una dificultad Hard lleva más tiempo que mapear una dificultad Easy, por lo que la primera recompensa con más puntos que la segunda.
 
@@ -103,7 +103,7 @@ Siguiendo los pasos de estos dos paquetes de beatmaps, Mappers' Guild aumentó c
 
 ### Automatización
 
-Si bien el plan inicial para Mappers' Guild siempre había sido tener elementos MMO como misiones, se descubrió que eso no era práctico de manejar mientras se administraban manualmente los plazos para el número limitado de participantes del gremio. ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) y ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) comenzaron a desarrollar un sitio web para automatizar Mappers' Guild a finales de 2018, lo que permite una distribución más adecuada de las recompensas y la gestión de los sistemas de misiones/bandas.
+Si bien el plan inicial para Mappers' Guild siempre había sido tener elementos MMO como misiones, se descubrió que eso no era práctico de manejar mientras se administraban manualmente los plazos para el número limitado de participantes del gremio. ::{ flag=US }:: ::pishifat::{ user-id=3178418 } y ::{ flag=CL }:: ::Milan-::{ user-id=1052994 } comenzaron a desarrollar un sitio web para automatizar Mappers' Guild a finales de 2018, lo que permite una distribución más adecuada de las recompensas y la gestión de los sistemas de misiones/bandas.
 
 El [sitio web de Mappers' Guild](https://mappersguild.com/) se lanzó el 1 de marzo de 2019 y es donde actualmente se controla todo lo relacionado con Mappers' Guild. Desde que se abrió al público, el gremio ha alcanzado un número de miembros de más de 500 y publica [noticias actualizadas](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) para mantener al resto de la comunidad de osu! al día con el contenido de mapas de Artistas Destacados.
 

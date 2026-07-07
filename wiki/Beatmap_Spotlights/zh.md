@@ -117,21 +117,21 @@ outdated_since: 4e8396611b85a8579afd4cbed4d7ff290c1a3707
 
 ## 历史
 
-该项目最初由 ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) 和 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 在 2009 年 10 月[^charts-09-oct] [^charts-09-nov]提出，原名 “Ranking Charts”。该项目旨在让 [BAT](/wiki/People/Beatmap_Appreciation_Team) 和 [MAT](/wiki/People/Mapping_Assistance_Team) 提名并投票选出展示为期一个月或一年[^charts-10-jan]的最佳谱面。2011 年 9 月, osu!taiko 和 osu!catch 也启动了类似的项目[^charts-11-per-mode]。
+该项目最初由 ::{ flag=US }:: ::Cyclone::{ user-id=18589 } 和 ::{ flag=AU }:: ::peppy::{ user-id=2 } 在 2009 年 10 月[^charts-09-oct] [^charts-09-nov]提出，原名 “Ranking Charts”。该项目旨在让 [BAT](/wiki/People/Beatmap_Appreciation_Team) 和 [MAT](/wiki/People/Mapping_Assistance_Team) 提名并投票选出展示为期一个月或一年[^charts-10-jan]的最佳谱面。2011 年 9 月, osu!taiko 和 osu!catch 也启动了类似的项目[^charts-11-per-mode]。
 
 该项目进行了多次更改和补充，例如[主题月赛](https://osu.ppy.sh/rankings/osu/charts?spotlight=26)，[Mod 月赛](https://osu.ppy.sh/rankings/osu/charts?spotlight=19)或是[赛季排行榜](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart)等等。最初，只有月赛胜者才能获得 [osu! 支持者](/wiki/osu!supporter)标签。后来，添加了对谱面作者或赛季排行榜胜者的奖励。
 
-项目负责人在其历史上已经发生了数次变化。::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) 于 2012 年 5 月接任项目负责人[^charts-manager-sg]，随后是 ::{ flag=US }:: [DeathXShinigami](https://osu.ppy.sh/users/49516) [^charts-manager-dxs] 和 ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389) [^charts-manager-makar]。::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 和 ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) 于 2013 年 12 月接任项目负责人[^charts-manager-loctav]。
+项目负责人在其历史上已经发生了数次变化。::{ flag=US }:: ::SapphireGhost::{ user-id=388602 } 于 2012 年 5 月接任项目负责人[^charts-manager-sg]，随后是 ::{ flag=US }:: ::DeathXShinigami::{ user-id=49516 } [^charts-manager-dxs] 和 ::{ flag=US }:: ::Makar::{ user-id=686389 } [^charts-manager-makar]。::{ flag=DE }:: ::Loctav::{ user-id=71366 } 和 ::{ flag=DE }:: ::OnosakiHito::{ user-id=290128 } 于 2013 年 12 月接任项目负责人[^charts-manager-loctav]。
 
 2014 年 1 月，月赛浏览器被添加到 osu! 客户端当中[^charts-in-osu-14-jan]，同年 6 月，几位知名玩家被招募进入了 [CAT](/wiki/Beatmap_Spotlights/Chart_Assembly_Team)[^charts-cat-recruitment-14-jun]。从 2015 年 3 月开始，该项目从最初的提名和投票，转变为让[知名社区成员逐个选择他们推荐的谱面](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)[^charts-curated-15-mar]。在 2016 年 9 月，提名系统已大体恢复[^charts-reverted-16-sep]。此时，[QAT](/wiki/People/Quality_Assurance_Team) 将负责选择最值得关注的谱面。
 
-在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)[^charts-renamed-into-spotlights]。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在 QAT 休整期间，::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 重新任职为该项目的负责人，并重组了一个基于社区的谱面选择团队。2018 年 11 月，月赛的频率更改为季节性[^spotlights-seasonal]。2020 年 3 月，::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 和 Kurokami 重任项目负责人、重新设计项目结构、并新建了名为 osu! 策展人的团队[^spotlights-reworked-20-june]。
+在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)[^charts-renamed-into-spotlights]。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在 QAT 休整期间，::{ flag=HU }:: ::Kurokami::{ user-id=260933 } 重新任职为该项目的负责人，并重组了一个基于社区的谱面选择团队。2018 年 11 月，月赛的频率更改为季节性[^spotlights-seasonal]。2020 年 3 月，::{ flag=DE }:: ::Loctav::{ user-id=71366 } 和 Kurokami 重任项目负责人、重新设计项目结构、并新建了名为 osu! 策展人的团队[^spotlights-reworked-20-june]。
 
-2020 年 8 月，::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底 ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) 和 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
+2020 年 8 月，::{ flag=HU }:: ::Kurokami::{ user-id=260933 } 退出了该项目，在 2020 年 11 月底 ::{ flag=DE }:: ::Loctav::{ user-id=71366 } 也随 Kurokami 辞职。于是 ::{ flag=PL }:: ::Venix::{ user-id=5999631 } 和 ::{ flag=US }:: ::pishifat::{ user-id=3178418 } 一起接管了该项目。
 
-在第 4 赛季（2021 春）后，项目进入停顿期。直至 2021 年 9 月，出现了复兴的倾向，::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 卸任，而 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 加入管理团队，于 2022 年 2 月，在人员重组后，项目恢复了运作。
+在第 4 赛季（2021 春）后，项目进入停顿期。直至 2021 年 9 月，出现了复兴的倾向，::{ flag=US }:: ::pishifat::{ user-id=3178418 } 卸任，而 ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } 加入管理团队，于 2022 年 2 月，在人员重组后，项目恢复了运作。
 
-2023 年 10 月，::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705) 被提拔为项目经理，主要帮助全局组织项目。2023 年 11 月，::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 辞去了项目经理职务。
+2023 年 10 月，::{ flag=AU }:: ::Crumpey::{ user-id=3518705 } 被提拔为项目经理，主要帮助全局组织项目。2023 年 11 月，::{ flag=TN }:: ::Hivie::{ user-id=14102976 } 辞去了项目经理职务。
 
 ## 参见
 

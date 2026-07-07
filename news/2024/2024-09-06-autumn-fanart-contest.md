@@ -51,7 +51,7 @@ Like any contest, this one has rules. We advise you to read through them even if
 
 Got any questions, or any urgent matters that need to be looked at? Don't hesitate to [send Hivie a message](https://osu.ppy.sh/community/chat?sendto=14102976) for any inquiries regarding this contest!
 
-*Header and promotional artwork by finalist [**Khize**](https://osu.ppy.sh/users/12736392) from the [**Journey into a Beatmap World Art Contest**](https://osu.ppy.sh/home/news/2023-05-01-journey-into-a-beatmap-world-contest-results)!*
+*Header and promotional artwork by finalist ::**Khize**::{ user-id=12736392 } from the [**Journey into a Beatmap World Art Contest**](https://osu.ppy.sh/home/news/2023-05-01-journey-into-a-beatmap-world-contest-results)!*
 
 ---
 

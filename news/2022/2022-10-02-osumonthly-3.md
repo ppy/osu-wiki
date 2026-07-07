@@ -45,7 +45,7 @@ The editor also received some quality-of-life updates and bug fixes, such as add
 
 As for the gameplay, the singleplayer leaderboards are now added as well! Currently looking (and functioning) identically to the multiplayer leaderboards, the current implementation is a basic one, meant as a placeholder. Among other things, touch support has been added for osu!catch, a clicks-per-second counter was added as an optional skin element within the skin editor, automatic beatmap intro skipping in multiplayer has been added as a toggle, and judgement colours have been added in the hit distribution graph on the results screen!
 
-Do you think that osu!(lazer)'s UI is slightly too big or too small for you? Do you want the game in a different position than the center, or in a non-native size? Well fear not, [peppy](https://osu.ppy.sh/users/2) has devised a solution for you!
+Do you think that osu!(lazer)'s UI is slightly too big or too small for you? Do you want the game in a different position than the center, or in a non-native size? Well fear not, ::peppy::{ user-id=2 } has devised a solution for you!
 
 By opening up the settings and heading into `Graphics` > `UI scaling`, you can change the scale of the UI to fit your needs! Furthermore, if you want your game in a non-native size or off centre, you can do that too under `Graphics` > `Screen scaling`! Check out the example video below:
 
@@ -61,7 +61,7 @@ Of course, we were not able to cover everything from the patch notes, so if you 
 
 ![](https://assets.ppy.sh/contests/153/header.jpg?1)
 
-The voting for osu!'s [15th Anniversary Art Contest](https://osu.ppy.sh/community/contests/153) has concluded! Congratulations to [Dreamxiety](https://osu.ppy.sh/users/13103233) on first place with a whopping 7912 votes. [illuminae2005](https://osu.ppy.sh/users/29866964) was right under them with 7248 votes and third place was taken by [urgutz](https://osu.ppy.sh/users/11731553) with 6671 votes. Even though only the top 3 entries get a profile badge made from their artwork, you will be able to see a wide range of top-voted entries officially added into osu! as part of the main menu seasonal backgrounds!
+The voting for osu!'s [15th Anniversary Art Contest](https://osu.ppy.sh/community/contests/153) has concluded! Congratulations to ::Dreamxiety::{ user-id=13103233 } on first place with a whopping 7912 votes. ::illuminae2005::{ user-id=29866964 } was right under them with 7248 votes and third place was taken by ::urgutz::{ user-id=11731553 } with 6671 votes. Even though only the top 3 entries get a profile badge made from their artwork, you will be able to see a wide range of top-voted entries officially added into osu! as part of the main menu seasonal backgrounds!
 
 If you are interested in checking out all of the entries, [you can do so here](https://osu.ppy.sh/community/contests/153)! If you are interested in downloading the finalist entries, [you can do that here](https://assets.ppy.sh/contests/153/winners/osu15anniversaryfinalists.zip).
 
@@ -73,7 +73,7 @@ Word on the street is that there will be more Hush-Hush medals coming soon, so i
 
 ![](/wiki/shared/news/2022-10-01-osumonthly-3/corsacebanner.jpg)
 
-If you don't already know by now, Corsace Open is one of two yearly tournaments hosted by [VINXIS](https://osu.ppy.sh/users/4323406) and is widely considered to be one of the best osu! tournaments of the year, constantly raising the bar for high-end tournaments with formatting changes, custom high-quality maps and commissioned songs made specifically for Corsace! Speaking of commissioned songs, you can check all of the [Corsace Open 2022 originals](/wiki/osu!_originals#corsace-open-2022) out via their official playlist:
+If you don't already know by now, Corsace Open is one of two yearly tournaments hosted by ::VINXIS::{ user-id=4323406 } and is widely considered to be one of the best osu! tournaments of the year, constantly raising the bar for high-end tournaments with formatting changes, custom high-quality maps and commissioned songs made specifically for Corsace! Speaking of commissioned songs, you can check all of the [Corsace Open 2022 originals](/wiki/osu!_originals#corsace-open-2022) out via their official playlist:
 
 <iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLEl1E3ToUuS3pGhy6LwqBjgkIA7zY_Rux" allow="autoplay; encrypted-media" allowfullscreen="" width="100%" height="400" frameborder="0"></iframe>
 
@@ -91,7 +91,7 @@ We want to congratulate anyone who participated in the tournament. Most importan
 
 There have been so many highlights, break points, and tiebreakers in this year's MWC that it would be impossible to fully recap it all in one post. For anyone who missed the Grand Finals match, [we'd suggest watching it to experience it yourself](https://www.twitch.tv/videos/1594471207). No words can convey the excitement generated from the event! Without spoiling anything, it can be said that [getting a point difference of 3](https://www.twitch.tv/osulive/clip/SlickArtsyToothVoteNay-QQorakYX4O8MqCB6) is surely something to be amazed by. (And you can click the link if you want to get spoiled.)
 
-But there was one last surprise: the [custom tiebreaker](https://osu.ppy.sh/beatmapsets/1846639#mania/3793375). Players got to experience the skill peak of the tournament, expressed on a beatmap charted by [-mint-](https://osu.ppy.sh/users/8976576), [guden](https://osu.ppy.sh/users/11626065), [MyZterioN-](https://osu.ppy.sh/users/8521723), and [Toaph Daddy](https://osu.ppy.sh/users/7616811). And if that was not enough, the organisers also managed to add [ああああ](https://osu.ppy.sh/beatmaps/artists/301) (which in the western alphabet means *AAAA*) as an official Featured Artist! Let's also not forget about [poca_p0ca](https://osu.ppy.sh/users/5082685) and their amazing GFX proficiency.
+But there was one last surprise: the [custom tiebreaker](https://osu.ppy.sh/beatmapsets/1846639#mania/3793375). Players got to experience the skill peak of the tournament, expressed on a beatmap charted by ::-mint-::{ user-id=8976576 }, [guden](https://osu.ppy.sh/users/11626065), ::MyZterioN-::{ user-id=8521723 }, and [Toaph Daddy](https://osu.ppy.sh/users/7616811). And if that was not enough, the organisers also managed to add [ああああ](https://osu.ppy.sh/beatmaps/artists/301) (which in the western alphabet means *AAAA*) as an official Featured Artist! Let's also not forget about ::poca\1p0ca::{ user-id=5082685 } and their amazing GFX proficiency.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CRD-2sk6Zt8" frameborder="0" allowfullscreen></iframe>
 
@@ -99,21 +99,21 @@ With all this said, let us thank all organisers and staff members for hyping up 
 
 ### Notable osu! plays of the month
 
-*Section written by [0x84f](https://osu.ppy.sh/users/7944724)*
+*Section written by ::0x84f::{ user-id=7944724 }*
 
-This month [Aricin](https://osu.ppy.sh/users/1419095) made a return and set some amazing scores, one of which we would love to showcase being his FC on [Night of Knights](https://osu.ppy.sh/scores/osu/4267347706).
+This month ::Aricin::{ user-id=1419095 } made a return and set some amazing scores, one of which we would love to showcase being his FC on [Night of Knights](https://osu.ppy.sh/scores/osu/4267347706).
 
 As the first person to pass the ~750 combo threshold, he truly showcased his amazing ability at not only speed, but his godlike finger control as well.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ceCrd8OBQDc?start=139" frameborder="0" allowfullscreen></iframe>
 
-A couple of other interesting plays would be [chocomint](https://osu.ppy.sh/users/124493)'s [first HD FC on *Arkadia*](https://osu.ppy.sh/scores/osu/4280979847) and [WhiteCat](https://osu.ppy.sh/users/4504101)'s [HR score on *Revolutionary Etude*](https://reddit.com/r/osugame/comments/xg3p1n/whitecat_chopin_revolutionary_etude/). WhiteCat's score in particular really showcases how far ahead of the pack he is when it comes to aim.
+A couple of other interesting plays would be ::chocomint::{ user-id=124493 }'s [first HD FC on *Arkadia*](https://osu.ppy.sh/scores/osu/4280979847) and ::WhiteCat::{ user-id=4504101 }'s [HR score on *Revolutionary Etude*](https://reddit.com/r/osugame/comments/xg3p1n/whitecat_chopin_revolutionary_etude/). WhiteCat's score in particular really showcases how far ahead of the pack he is when it comes to aim.
 
 ### Notable mania plays of the month
 
-*Section written by [kadoen](https://osu.ppy.sh/users/12780575)*
+*Section written by ::kadoen::{ user-id=12780575 }*
 
-[CrewK](https://osu.ppy.sh/users/11488604) does it again. A year ago, just after it was loved, he achieved the first FC and 99% accuracy on [polyriddim [brrrrrrrrrrrrrr]](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806), the original difficulty of the SV insanity that [HowToPlayLN](https://osu.ppy.sh/users/10879600) manufactured. Now he returns, motivated by the [1100 USD (!) bounty](https://twitter.com/AdamAckerville/status/1572237235273236488), with a monumental first FC/99%/#1 on the [brrrrrrrrrrrrrr vip](https://osu.ppy.sh/beatmapsets/1182702#mania/2769068) difficulty, consisting of entirely new patterns and SVs, increasing the difficulty of the already extremely hard original chart to a whole new level.
+::CrewK::{ user-id=11488604 } does it again. A year ago, just after it was loved, he achieved the first FC and 99% accuracy on [polyriddim [brrrrrrrrrrrrrr]](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806), the original difficulty of the SV insanity that ::HowToPlayLN::{ user-id=10879600 } manufactured. Now he returns, motivated by the [1100 USD (!) bounty](https://twitter.com/AdamAckerville/status/1572237235273236488), with a monumental first FC/99%/#1 on the [brrrrrrrrrrrrrr vip](https://osu.ppy.sh/beatmapsets/1182702#mania/2769068) difficulty, consisting of entirely new patterns and SVs, increasing the difficulty of the already extremely hard original chart to a whole new level.
 
 Most of this map has to be completely memorised — patterns, weird rhythms, everything — making this play an astounding SV achievement by one of the (if not the) best SV players in the game. Even if you don't play or follow mania, I strongly recommend you to go watch it. I guarantee you'll be impressed.
 
@@ -121,29 +121,29 @@ Most of this map has to be completely memorised — patterns, weird rhythms, eve
 
 ### Notable taiko plays of the month
 
-*Section written by [ianpep](https://osu.ppy.sh/users/7699030)*
+*Section written by ::ianpep::{ user-id=7699030 }*
 
-Not everyone has heard of [shinchikuhome](https://osu.ppy.sh/users/3174184)'s dominance, but those who know him already know what's coming up.
+Not everyone has heard of ::shinchikuhome::{ user-id=3174184 }'s dominance, but those who know him already know what's coming up.
 
-A mere 4 hours after being ranked, the infamous taiko pro shinchikuhome took the #1 spot with an astounding DT FC on [KawaiiBass](https://osu.ppy.sh/users/11992585)' beatmap of [Yomi Yori](https://osu.ppy.sh/beatmapsets/1819997#taiko/3734552), earning themselves 1102 pp, which is well deserved for a play of this caliber. This FC comes in at a blisteringly fast 330 BPM, filled with long stamina-draining streams alongside difficult colour and rhythm changes. Not to mention the insane accuracy as well, only hitting 20 100's throughout this 5-minute behemoth. This test of stamina and accuracy is certainly one to see!
+A mere 4 hours after being ranked, the infamous taiko pro shinchikuhome took the #1 spot with an astounding DT FC on ::KawaiiBass::{ user-id=11992585 }' beatmap of [Yomi Yori](https://osu.ppy.sh/beatmapsets/1819997#taiko/3734552), earning themselves 1102 pp, which is well deserved for a play of this caliber. This FC comes in at a blisteringly fast 330 BPM, filled with long stamina-draining streams alongside difficult colour and rhythm changes. Not to mention the insane accuracy as well, only hitting 20 100's throughout this 5-minute behemoth. This test of stamina and accuracy is certainly one to see!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/NWqfPNdXrJg" frameborder="0" allowfullscreen></iframe>
 
-Some other notable scores this month include [loneyze](https://osu.ppy.sh/users/12464220/taiko)'s beatmap of [Noah - Reflection](https://osu.ppy.sh/beatmapsets/1822689), being the only HDDT FC on the map and bringing them 980 pp, alongside [Ney](https://osu.ppy.sh/users/5991961/taiko)'s HDHRFL SS on [Mike Morasky - Faster Than A Speeding Bullet](https://osu.ppy.sh/beatmapsets/1070783#taiko/2241389) taking an already tricky map to the next level, and earning himself #1 on the map.
+Some other notable scores this month include ::loneyze::{ user-id=12464220 }'s beatmap of [Noah - Reflection](https://osu.ppy.sh/beatmapsets/1822689), being the only HDDT FC on the map and bringing them 980 pp, alongside ::Ney::{ user-id=5991961 }'s HDHRFL SS on [Mike Morasky - Faster Than A Speeding Bullet](https://osu.ppy.sh/beatmapsets/1070783#taiko/2241389) taking an already tricky map to the next level, and earning himself #1 on the map.
 
 ### Notable catch plays of the month
 
-*Section written by [Patatitta](https://osu.ppy.sh/users/16294034)*
+*Section written by ::Patatitta::{ user-id=16294034 }*
 
-[Camme79](https://osu.ppy.sh/users/5220794) has shown his DT proficiency with [an FC on *Senketsu no Chikai*](https://osu.ppy.sh/scores/fruits/209219015), a super tough 2011 map, which combines an uncomfortably high AR with incredibly spaced old-school patterns that prove a serious challenge even to the game's best players.
+::Camme79::{ user-id=5220794 } has shown his DT proficiency with [an FC on *Senketsu no Chikai*](https://osu.ppy.sh/scores/fruits/209219015), a super tough 2011 map, which combines an uncomfortably high AR with incredibly spaced old-school patterns that prove a serious challenge even to the game's best players.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SonwRhyol28" frameborder="0" allowfullscreen></iframe>
 
-However, this certainly hasn't been the only impressive play this month, as we've seen [ttobas](https://osu.ppy.sh/users/2084568) set a [new NM pp record](https://osu.ppy.sh/scores/fruits/209125694) on the recently ranked [Ravensblood - Storms of Ages](https://osu.ppy.sh/beatmapsets/1673971#fruits/3419551), a map with the highest star rating in osu!catch.
+However, this certainly hasn't been the only impressive play this month, as we've seen ::ttobas::{ user-id=2084568 } set a [new NM pp record](https://osu.ppy.sh/scores/fruits/209125694) on the recently ranked [Ravensblood - Storms of Ages](https://osu.ppy.sh/beatmapsets/1673971#fruits/3419551), a map with the highest star rating in osu!catch.
 
 ## Did you know?
 
-[LilyPichu](https://osu.ppy.sh/users/17679), a now prominent content creator loaned her voice to several skin creators back in the early 2010's. For example, you can check out the [Nexus Slate & Nexus Ivory](https://osu.ppy.sh/community/forums/topics/55948?n=1) pair of skins which include her voice in places such as the map start countdown and applause at the end of a map.
+::LilyPichu::{ user-id=17679 }, a now prominent content creator loaned her voice to several skin creators back in the early 2010's. For example, you can check out the [Nexus Slate & Nexus Ivory](https://osu.ppy.sh/community/forums/topics/55948?n=1) pair of skins which include her voice in places such as the map start countdown and applause at the end of a map.
 
 See if you can find more skins that include her voice and let us know in the comments!
 

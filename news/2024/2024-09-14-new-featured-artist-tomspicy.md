@@ -15,7 +15,7 @@ Ever since the short tune's release in 2021, **tomspicy** has been dedicated to 
 
 **16** tunes available on [**tomspicy**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/437), including an extended version of the fieryrage accordion hardcore remix and three new [original songs](/wiki/osu!_originals) produced specifically for this Featured Artist reveal!
 
-For who haven't heard **tomspicy**'s sound yet, your first experience can be through [jackylam5](https://osu.ppy.sh/users/1540807) unfolding a new way to play osu! from [COE 2024](/wiki/Community/cavoe's_osu!_event/2024):
+For who haven't heard **tomspicy**'s sound yet, your first experience can be through ::jackylam5::{ user-id=1540807 } unfolding a new way to play osu! from [COE 2024](/wiki/Community/cavoe's_osu!_event/2024):
 
 <div align="center">
     <video width="95%" controls>
@@ -27,9 +27,9 @@ For who haven't heard **tomspicy**'s sound yet, your first experience can be thr
 
 Take your pick:
 
-- [The map from the video above](https://osu.ppy.sh/beatmapsets/1516867) hosted by [Aakki](https://osu.ppy.sh/users/11077540)
-- [This osu!taiko rendition](https://osu.ppy.sh/beatmapsets/1516860) hosted by [Hivie](https://osu.ppy.sh/users/14102976)
-- [An osu!catch difficulty spread](https://osu.ppy.sh/beatmapsets/1921382) hosted by [Juansy-](https://osu.ppy.sh/users/12588215)
+- [The map from the video above](https://osu.ppy.sh/beatmapsets/1516867) hosted by ::Aakki::{ user-id=11077540 }
+- [This osu!taiko rendition](https://osu.ppy.sh/beatmapsets/1516860) hosted by ::Hivie::{ user-id=14102976 }
+- [An osu!catch difficulty spread](https://osu.ppy.sh/beatmapsets/1921382) hosted by ::Juansy-::{ user-id=12588215 }
 - [Your own future osu!mania map](https://assets.ppy.sh/artists/437/tomspicy%20osu!%20collection%2001/tomspicy%20-%20fieryrage%20accordion%20(hardcore%20remix)%20(TV%20Size).osz)
 
 <audio controls>

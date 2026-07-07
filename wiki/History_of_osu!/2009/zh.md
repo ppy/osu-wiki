@@ -2,7 +2,7 @@
 
 ## 一月
 
-[nuudles](https://osu.ppy.sh/users/21312) 将 osu! 移植到了 iPhone 上。该项目曾经拥有自己的[子论坛](https://osu.ppy.sh/community/forums/47)，现已存档。[^iphone]
+::nuudles::{ user-id=21312 } 将 osu! 移植到了 iPhone 上。该项目曾经拥有自己的[子论坛](https://osu.ppy.sh/community/forums/47)，现已存档。[^iphone]
 
 ![](img/2009-01_01.jpg "osu! iPhone 版的主界面")
 
@@ -92,7 +92,7 @@ Twitter 账号 [@osustatus](https://twitter.com/osustatus) 被创建，用于通
 
 新增了一个排名信息界面，为后来排名图表系统的实现奠定了基础。[^stable-b1077][^custom-changelog]
 
-由 [Larto](https://osu.ppy.sh/users/12328) 提交的 [Imogen Heap - Sweet Religion](https://osu.ppy.sh/beatmapsets/10000#osu/97517) 成为了 osu! 中的第 10000 张谱面。[^beatmap-10k]
+由 ::Larto::{ user-id=12328 } 提交的 [Imogen Heap - Sweet Religion](https://osu.ppy.sh/beatmapsets/10000#osu/97517) 成为了 osu! 中的第 10000 张谱面。[^beatmap-10k]
 
 自 10 月 25 日起，除了 2009 年 7 月开始提供的 osu! 新闻外，[更新日志](/wiki/Changelog) 也通过 RSS 源提供。[^rss-changelog]
 

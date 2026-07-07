@@ -38,13 +38,13 @@ The osu! Philippines Nationals 2022 - osu!catch was run by various community mem
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=PH }:: [Lobsterr](https://osu.ppy.sh/users/6575915), ::{ flag=PH }:: [Nosuri](https://osu.ppy.sh/users/2150415), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) |
-| Mappool selector | ::{ flag=PH }:: [Crowley](https://osu.ppy.sh/users/6341006), ::{ flag=PH }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=PH }:: [Lobsterr](https://osu.ppy.sh/users/6575915), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) |
-| Statistician | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) |
-| Designer | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/18789292) |
-| Streamer | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Nosuri](https://osu.ppy.sh/users/2150415) |
-| Referee | ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [KagamineRin](https://osu.ppy.sh/users/1626093), ::{ flag=PH }:: [Liabear Simp](https://osu.ppy.sh/users/9834366), ::{ flag=PH }:: [ShizuVoice](https://osu.ppy.sh/users/9570552), ::{ flag=PH }:: [Nosuri](https://osu.ppy.sh/users/2150415), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
-| Wiki writer | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292) |
+| Host | ::{ flag=PH }:: ::Lobsterr::{ user-id=6575915 }, ::{ flag=PH }:: ::Nosuri::{ user-id=2150415 }, ::{ flag=PH }:: ::Roido::{ user-id=6829103 } |
+| Mappool selector | ::{ flag=PH }:: ::Crowley::{ user-id=6341006 }, ::{ flag=PH }:: ::Katsuragi::{ user-id=3616480 }, ::{ flag=PH }:: ::Lobsterr::{ user-id=6575915 }, ::{ flag=PH }:: ::Roido::{ user-id=6829103 } |
+| Statistician | ::{ flag=PH }:: ::SurfChu85::{ user-id=4469895 }, ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 } |
+| Designer | ::{ flag=PH }:: ::FLCammo::{ user-id=18789292 }, ::{ flag=PH }:: ::yukina meng::{ user-id=18789292 } |
+| Streamer | ::{ flag=PH }:: ::Aiery::{ user-id=10363380 }, ::{ flag=PH }:: ::Nosuri::{ user-id=2150415 } |
+| Referee | ::{ flag=PH }:: ::-Ichinose::{ user-id=12635292 }, ::{ flag=PH }:: ::Aiery::{ user-id=10363380 }, ::{ flag=PH }:: ::KagamineRin::{ user-id=1626093 }, ::{ flag=PH }:: ::Liabear Simp::{ user-id=9834366 }, ::{ flag=PH }:: ::ShizuVoice::{ user-id=9570552 }, ::{ flag=PH }:: ::Nosuri::{ user-id=2150415 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user-id=11517895 }, ::{ flag=PH }:: ::topecnz::{ user-id=2103927 } |
+| Wiki writer | ::{ flag=PH }:: ::topecnz::{ user-id=2103927 }, ::{ flag=PH }:: ::-Ichinose::{ user-id=12635292 } |
 
 ## Links
 
@@ -56,20 +56,20 @@ The osu! Philippines Nationals 2022 - osu!catch was run by various community mem
 
 ## Participants
 
-- ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636)
-- ::{ flag=PH }:: [- Kielzu -](https://osu.ppy.sh/users/6221114)
-- ::{ flag=CA }:: [Henrick](https://osu.ppy.sh/users/8840982)
-- ::{ flag=PH }:: [Mawile](https://osu.ppy.sh/users/12256216)
-- ::{ flag=PH }:: [Jinyori](https://osu.ppy.sh/users/14042059)
-- ::{ flag=AU }:: [CoolEVT](https://osu.ppy.sh/users/3252653)
-- ::{ flag=PH }:: [Laqure](https://osu.ppy.sh/users/1642435)
-- ::{ flag=PH }:: [Chloebe](https://osu.ppy.sh/users/4577865)
-- ::{ flag=GB }:: [arwab](https://osu.ppy.sh/users/16496103)
-- ::{ flag=PH }:: [Kyonkichi](https://osu.ppy.sh/users/7585544)
-- ::{ flag=PH }:: [Puro and Colin](https://osu.ppy.sh/users/14391949)
-- ::{ flag=PH }:: [-HyperDream](https://osu.ppy.sh/users/12410693)
-- ::{ flag=PH }:: [slvn_pedro](https://osu.ppy.sh/users/11614862)
-- ::{ flag=PH }:: [Kuroiden](https://osu.ppy.sh/users/16855004)
+- ::{ flag=PH }:: ::-Rustyy::{ user-id=16355636 }
+- ::{ flag=PH }:: ::- Kielzu -::{ user-id=6221114 }
+- ::{ flag=CA }:: ::Henrick::{ user-id=8840982 }
+- ::{ flag=PH }:: ::Mawile::{ user-id=12256216 }
+- ::{ flag=PH }:: ::Jinyori::{ user-id=14042059 }
+- ::{ flag=AU }:: ::CoolEVT::{ user-id=3252653 }
+- ::{ flag=PH }:: ::Laqure::{ user-id=1642435 }
+- ::{ flag=PH }:: ::Chloebe::{ user-id=4577865 }
+- ::{ flag=GB }:: ::arwab::{ user-id=16496103 }
+- ::{ flag=PH }:: ::Kyonkichi::{ user-id=7585544 }
+- ::{ flag=PH }:: ::Puro and Colin::{ user-id=14391949 }
+- ::{ flag=PH }:: ::-HyperDream::{ user-id=12410693 }
+- ::{ flag=PH }:: ::slvn\1pedro::{ user-id=11614862 }
+- ::{ flag=PH }:: ::Kuroiden::{ user-id=16855004 }
 
 ## Podium
 
@@ -77,9 +77,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: [Henrick](https://osu.ppy.sh/users/8840982) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [- Kielzu -](https://osu.ppy.sh/users/6221114) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: ::Henrick::{ user-id=8840982 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::-Rustyy::{ user-id=16355636 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::- Kielzu -::{ user-id=6221114 } |
 
 ## Mappool
 

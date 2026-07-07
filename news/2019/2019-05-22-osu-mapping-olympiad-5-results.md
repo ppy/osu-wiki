@@ -26,11 +26,11 @@ This installment of the Mapping Olympiad contest challenged mappers to create a 
 | #11 | \_fluffyy | Apathetic Elephant | 18.5 | 26.5 | 15.5 | 16.5 | 7 | **84** |
 | #12 | AlienSlayerX | Unique Warbler | 9 | 14 | 8 | 9.5 | 3.5 | **44** |
 
-In **first place** are [**Necho**](https://osu.ppy.sh/users/4086593) and [**Ryuusei Aika**](https://osu.ppy.sh/users/7777875) with a total score of **168**! All of the judges were impressed by their entry, which demonstrated excellence across all categories including achieving the highest scores for Musical Relevance and Impression. Congratulations on joining the ranks of osu!'s *Elite Mappers*!
+In **first place** are ::**Necho**::{ user-id=4086593 } and [**Ryuusei Aika**](https://osu.ppy.sh/users/7777875) with a total score of **168**! All of the judges were impressed by their entry, which demonstrated excellence across all categories including achieving the highest scores for Musical Relevance and Impression. Congratulations on joining the ranks of osu!'s *Elite Mappers*!
 
-Creating both entries alone, in **second place** is [**yaspo**](https://osu.ppy.sh/users/4945926) with a total score of **161.5**! With the highest score across all entries for Creativity and Hitsounding, yaspo created a pair of excellent maps that were the highest scoring from judges Electoz and Myxomatosis.
+Creating both entries alone, in **second place** is ::**yaspo**::{ user-id=4945926 } with a total score of **161.5**! With the highest score across all entries for Creativity and Hitsounding, yaspo created a pair of excellent maps that were the highest scoring from judges Electoz and Myxomatosis.
 
-And in **third place** are [**J1_**](https://osu.ppy.sh/users/5918561) and [**how2miss**](https://osu.ppy.sh/users/4477199) with a total score of **157**! Alongside tying the winning entry for highest score in Technique, they were awarded the highest score from judge pishifat. All in all an excellent entry from this pair.
+And in **third place** are ::**J1\1**::{ user-id=5918561 } and [**how2miss**](https://osu.ppy.sh/users/4477199) with a total score of **157**! Alongside tying the winning entry for highest score in Technique, they were awarded the highest score from judge pishifat. All in all an excellent entry from this pair.
 
 Thank you to everybody who submitted an entry and congratulations to all of the top three finishers! Here is what each person will receive as their reward (as a reminder, 6 Olympiad Points are needed for one badge level):
 
@@ -42,12 +42,12 @@ As a bonus for winning first place, each of the winners' badge descriptions will
 
 [Here is a listing of all accumulated Olympiad Points](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing) which is updated after each contest.
 
-We'd like to thank all of the judges who spent their time going through and judging all of the entries: [Electoz](https://osu.ppy.sh/users/6485263), [Myxomatosis](https://osu.ppy.sh/users/2202645), [pishifat](https://osu.ppy.sh/users/3178418), and [Sonnyc](https://osu.ppy.sh/users/11771). Contests would not be able to be run without the time and effort of judges, and for that we are truly grateful for their efforts.
+We'd like to thank all of the judges who spent their time going through and judging all of the entries: ::Electoz::{ user-id=6485263 }, [Myxomatosis](https://osu.ppy.sh/users/2202645), ::pishifat::{ user-id=3178418 }, and [Sonnyc](https://osu.ppy.sh/users/11771). Contests would not be able to be run without the time and effort of judges, and for that we are truly grateful for their efforts.
 
 You can see all of the scores and comments from the judges [via this spreadsheet](https://docs.google.com/spreadsheets/d/1nJ9uyasmJpj0cmsP-6mDDHsmjLxCV2lF20Y8RmmA74A), and you can [click here to check out all of the entries!](https://drive.google.com/open?id=1w53t4grwOSK2hM3ZCcW012-gdJVNrzaU).
 
 As a brief aside, for those of you who may have been wondering about the osu!taiko and osu!mania contests, we apologize for the delay. A number of unexpected circumstances came up between the judges for both contests, but we will finally be able to announce the results for both contests soon.
 
-Thank you to everyone who participated and showed interest, and congratulations once again to [**Necho**](https://osu.ppy.sh/users/4086593) and [**Ryuusei Aika**](https://osu.ppy.sh/users/7777875)! We look forward to seeing you all and more in the next Olympiad contest!
+Thank you to everyone who participated and showed interest, and congratulations once again to ::**Necho**::{ user-id=4086593 } and [**Ryuusei Aika**](https://osu.ppy.sh/users/7777875)! We look forward to seeing you all and more in the next Olympiad contest!
 
 —Chaos

@@ -9,7 +9,7 @@ A new species of metal music crawled into our Featured Artist library, courtesy 
 
 ![](https://assets.ppy.sh/artists/450/header.jpg)
 
-Self-proclaimed "buffoons", Russian band **Zmey Gorynich** made a name for itself by playing an unusual combo of cheerful extreme metal since 2012. They were brought to the forefront of osu! by metal mastermind [Mazzerin](https://osu.ppy.sh/users/2942381) with [Sorochinskaya Yarmarka](https://osu.ppy.sh/beatmapsets/1191853), a stream map featuring unreal slider-centric design perfectly fitting the insanity of the tune.
+Self-proclaimed "buffoons", Russian band **Zmey Gorynich** made a name for itself by playing an unusual combo of cheerful extreme metal since 2012. They were brought to the forefront of osu! by metal mastermind ::Mazzerin::{ user-id=2942381 } with [Sorochinskaya Yarmarka](https://osu.ppy.sh/beatmapsets/1191853), a stream map featuring unreal slider-centric design perfectly fitting the insanity of the tune.
 
 A grand total of **8** aural gems have been put on display in [**Zmey Gorynich**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/450). Use the pre-timed beatmap templates while you can (which will be forever).
 
@@ -25,9 +25,9 @@ Words aren't very good at describing music. osu! gameplay does a better job:
 
 You have options:
 
-- [The map from the video above](https://osu.ppy.sh/beatmapsets/1191853) hosted by [Mazzerin](https://osu.ppy.sh/users/2942381)
-- [osu!taiko spread](https://osu.ppy.sh/beatmapsets/1399899) hosted by [liku](https://osu.ppy.sh/users/11357694)
-- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/1899136) hosted by [keksikosu](https://osu.ppy.sh/users/23097320)
+- [The map from the video above](https://osu.ppy.sh/beatmapsets/1191853) hosted by ::Mazzerin::{ user-id=2942381 }
+- [osu!taiko spread](https://osu.ppy.sh/beatmapsets/1399899) hosted by ::liku::{ user-id=11357694 }
+- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/1899136) hosted by ::keksikosu::{ user-id=23097320 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/450/Songs/Zmey%20Gorynich%20-%20Sorochinskaya%20Yarmarka.mp3">
@@ -35,7 +35,7 @@ You have options:
 
 ### [Zmey Gorynich - Zmey Gorynych"](https://assets.ppy.sh/artists/450/Songs/Zmey%20Gorynich%20-%20Zmey%20Gorynych.osz)
 
-Here's [a classic osu!taiko spread](https://osu.ppy.sh/beatmapsets/1647772) hosted by [liku](https://osu.ppy.sh/users/11357694)!
+Here's [a classic osu!taiko spread](https://osu.ppy.sh/beatmapsets/1647772) hosted by ::liku::{ user-id=11357694 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/450/Songs/Zmey%20Gorynich%20-%20Zmey%20Gorynych.mp3">
@@ -43,7 +43,7 @@ Here's [a classic osu!taiko spread](https://osu.ppy.sh/beatmapsets/1647772) host
 
 ### [Zmey Gorynich - Medveplyas"](https://assets.ppy.sh/artists/450/Songs/Zmey%20Gorynich%20-%20Medveplyas.osz)
 
-Test yourself with [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1849644) hosted by [a familiar face](https://osu.ppy.sh/users/11357694)!
+Test yourself with [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1849644) hosted by ::a familiar face::{ user-id=11357694 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/450/Songs/Zmey%20Gorynich%20-%20Medveplyas.mp3">

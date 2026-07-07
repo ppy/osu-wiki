@@ -23,19 +23,19 @@ Without further ado, let's get right into the results!
 
 **Congratulations to Team Japan for winning the osu!taiko World Cup 2019!**
 
-With new leadership in the form of [iceOC](https://osu.ppy.sh/users/5482401), Team Japan showed few signs of weakness throughout the tournament, and will continue to defend their championship title for the **sixth** year in a row! Surely there must be someone that can arrest their momentum... right? hello?
+With new leadership in the form of ::iceOC::{ user-id=5482401 }, Team Japan showed few signs of weakness throughout the tournament, and will continue to defend their championship title for the **sixth** year in a row! Surely there must be someone that can arrest their momentum... right? hello?
 
 Team Japan will receive the grand prize: $150 per team member, profile badges, and the highly coveted "osu!taiko Champion" user title for one year!
 
 **Team Taiwan will continue to defend their silver title for the fifth year running!**
 
-Despite losing their powerhouse [stu00608](https://osu.ppy.sh/users/1977606) from last year, Taiwan's tenacity remains unchallenged in the face of any opposition. Veteran Team Captain [-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910) (in her 9 year tenure) led her team with flair and elegance, clutching second place by a hair—a splendid performance indeed.
+Despite losing their powerhouse ::stu00608::{ user-id=1977606 } from last year, Taiwan's tenacity remains unchallenged in the face of any opposition. Veteran Team Captain ::-\1 ix Ishida xi \1-::{ user-id=242910 } (in her 9 year tenure) led her team with flair and elegance, clutching second place by a hair—a splendid performance indeed.
 
 Team Taiwan will receive a prize of $80 per team member and profile badges to commemorate their success.
 
 **Team South Korea makes their debut appearance on the TWC podium, taking home the bronze!**
 
-With an expanded roster compared to last year, Team Captain [Peaceful](https://osu.ppy.sh/users/165027) led his team in a bloody crusade, laying waste to many teams in a number of surprising victories. Their performance this year was absolutely mind-boggling and with this victory, they become the second country ever to have stood on the podium across all the World Cups!
+With an expanded roster compared to last year, Team Captain ::Peaceful::{ user-id=165027 } led his team in a bloody crusade, laying waste to many teams in a number of surprising victories. Their performance this year was absolutely mind-boggling and with this victory, they become the second country ever to have stood on the podium across all the World Cups!
 
 Team South Korea will receive a prize of $40 per team member and profile badges to commemorate their success.
 

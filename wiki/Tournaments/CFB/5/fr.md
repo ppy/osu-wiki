@@ -8,7 +8,7 @@ tags:
 
 ![CFB5 logo](img/logo.jpg)
 
-La **Catch French Beginner 5** (***CFB5***) était un tournoi 1v1 français débutant en osu!catch organisé par ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949). Seuls les joueurs classé #2,500 **ou plus** peuvent participer. C'était la cinquième édition de la Catch French Beginner.
+La **Catch French Beginner 5** (***CFB5***) était un tournoi 1v1 français débutant en osu!catch organisé par ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 }. Seuls les joueurs classé #2,500 **ou plus** peuvent participer. C'était la cinquième édition de la Catch French Beginner.
 
 ## Planning du tournoi
 
@@ -33,7 +33,7 @@ La **Catch French Beginner 5** (***CFB5***) était un tournoi 1v1 français déb
 
 ![](img/badge.jpg "Badge du gagnant du CFB5")
 
-Les généreux dons de ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) et ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) ont aidés à financer certains prix.
+Les généreux dons de ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::Kammthaar::{ user-id=8802523 }, ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 } et ::{ flag=FR }:: ::Yruama::{ user-id=8221467 } ont aidés à financer certains prix.
 
 ## Organisation
 
@@ -41,14 +41,14 @@ La Catch French Beginner 5 était gérée par différents membres de la communau
 
 | Poste | Membre(s) |
 | :-- | :-- |
-| Organisateur | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Mapsetter | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012), ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| Arbitre | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Streamer | ::{ flag=FR }:: [Fulgu](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [JeSuisJLF](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728), ::{ flag=FR }:: [Ttobas](https://osu.ppy.sh/users/2084568), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565) |
-| Commentateur | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [JeSuisJLF](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| Designer du badge | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Statisticien | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Éditeur du wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organisateur | ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 } |
+| Mapsetter | ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 }, ::{ flag=FR }:: ::Oasix::{ user-id=6183012 }, ::{ flag=CA }:: ::Remyria::{ user-id=1699875 }, ::{ flag=FR }:: ::Yruama::{ user-id=8221467 } |
+| Arbitre | ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::Oasix::{ user-id=6183012 }, ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 } |
+| Streamer | ::{ flag=FR }:: ::Fulgu::{ user-id=4096322 }, ::{ flag=FR }:: ::JeSuisJLF::{ user-id=15334170 }, ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 }, ::{ flag=FR }:: ::redjiii::{ user-id=1378728 }, ::{ flag=FR }:: ::Ttobas::{ user-id=2084568 }, ::{ flag=FR }:: ::Un bretzel::{ user-id=1542565 } |
+| Commentateur | ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::JeSuisJLF::{ user-id=15334170 }, ::{ flag=FR }:: ::JunKoAndHiro::{ user-id=14004732 }, ::{ flag=FR }:: ::Kammthaar::{ user-id=8802523 }, ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 }, ::{ flag=FR }:: ::MitsukeZ::{ user-id=12943161 }, ::{ flag=FR }:: ::redjiii::{ user-id=1378728 }, ::{ flag=FR }:: ::Un bretzel::{ user-id=1542565 }, ::{ flag=FR }:: ::Yruama::{ user-id=8221467 } |
+| Designer du badge | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
+| Statisticien | ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 } |
+| Éditeur du wiki | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Liens
 
@@ -62,11 +62,11 @@ La Catch French Beginner 5 était gérée par différents membres de la communau
 
 | Seed | Membres |
 | :-- | :-- |
-| Top | ::{ flag=FR }:: [Enias](https://osu.ppy.sh/users/8384680), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210) |
-| High | ::{ flag=FR }:: [Jibsz](https://osu.ppy.sh/users/12269489), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728), ::{ flag=FR }:: [Beltheor](https://osu.ppy.sh/users/14966708), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161) |
-| Low | ::{ flag=FR }:: [caillrot](https://osu.ppy.sh/users/13108984), ::{ flag=FR }:: [Okawashi](https://osu.ppy.sh/users/6636540), ::{ flag=FR }:: [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ::{ flag=FR }:: [AceEpmo](https://osu.ppy.sh/users/16725715) |
-| Unseeded | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606), ::{ flag=FR }:: [Nos\_If](https://osu.ppy.sh/users/7365196), ::{ flag=FR }:: [Utopsia](https://osu.ppy.sh/users/11080305), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523) |
-| Eliminé | ::{ flag=FR }:: [SverdWyrd](https://osu.ppy.sh/users/10996443), ::{ flag=FR }:: [Hitsumo](https://osu.ppy.sh/users/3199415) |
+| Top | ::{ flag=FR }:: ::Enias::{ user-id=8384680 }, ::{ flag=FR }:: ::Un bretzel::{ user-id=1542565 }, ::{ flag=FR }:: ::Shamookie::{ user-id=12441210 } |
+| High | ::{ flag=FR }:: ::Jibsz::{ user-id=12269489 }, ::{ flag=FR }:: ::redjiii::{ user-id=1378728 }, ::{ flag=FR }:: ::Beltheor::{ user-id=14966708 }, ::{ flag=FR }:: ::MitsukeZ::{ user-id=12943161 } |
+| Low | ::{ flag=FR }:: ::caillrot::{ user-id=13108984 }, ::{ flag=FR }:: ::Okawashi::{ user-id=6636540 }, ::{ flag=FR }:: ::JunKoAndHiro::{ user-id=14004732 }, ::{ flag=FR }:: ::AceEpmo::{ user-id=16725715 } |
+| Unseeded | ::{ flag=FR }:: ::iron-wish::{ user-id=12264606 }, ::{ flag=FR }:: ::Nos\_If::{ user-id=7365196 }, ::{ flag=FR }:: ::Utopsia::{ user-id=11080305 }, ::{ flag=FR }:: ::Kammthaar::{ user-id=8802523 } |
+| Eliminé | ::{ flag=FR }:: ::SverdWyrd::{ user-id=10996443 }, ::{ flag=FR }:: ::Hitsumo::{ user-id=3199415 } |
 
 *Note : Les joueurs sont triés selon les résultats des qualifications.*
 
@@ -76,9 +76,9 @@ La compétition s'est terminée et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=FR }:: [Enias](https://osu.ppy.sh/users/8384680) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=FR }:: ::Enias::{ user-id=8384680 } |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=FR }:: ::redjiii::{ user-id=1378728 } |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: ::MitsukeZ::{ user-id=12943161 } |
 
 ## Mappools
 
@@ -324,23 +324,23 @@ Dimanche, 24 Janvier 2021:
 
 | Seed | Joueur | Rang moyen |
 | --: | :-- | --: |
-| #1 | ::{ flag=FR }:: [Enias](https://osu.ppy.sh/users/8384680) | 2.6 |
-| #2 | ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565) | 3.8 |
-| #3 | ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210) | 4 |
-| #4 | ::{ flag=FR }:: [Jibsz](https://osu.ppy.sh/users/12269489) | 4.8 |
-| #5 | ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) | 5.6 |
-| #6 | ::{ flag=FR }:: [Beltheor](https://osu.ppy.sh/users/14966708) | 6.6 |
-| #7 | ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161) | 7.6 |
-| #8 | ::{ flag=FR }:: [caillrot](https://osu.ppy.sh/users/13108984) | 8.6 |
-| #9 | ::{ flag=FR }:: [Okawashi](https://osu.ppy.sh/users/6636540) | 10.4 |
-| #10 | ::{ flag=FR }:: [JunKoAndHiro](https://osu.ppy.sh/users/14004732) | 11.8 |
-| #10 | ::{ flag=FR }:: [AceEpmo](https://osu.ppy.sh/users/16725715) | 11.8 |
-| #12 | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606) | 13 |
-| #13 | ::{ flag=FR }:: [Nos\_If](https://osu.ppy.sh/users/7365196) | 13.4 |
-| #14 | ::{ flag=FR }:: [Utopsia](https://osu.ppy.sh/users/11080305) | 14 |
-| #15 | ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523) | 14.6 |
-| #16 | ::{ flag=FR }:: [SverdWyrd](https://osu.ppy.sh/users/10996443) | 17.2 |
-| #17 | ::{ flag=FR }:: [Hitsumo](https://osu.ppy.sh/users/3199415) | 17.8 |
+| #1 | ::{ flag=FR }:: ::Enias::{ user-id=8384680 } | 2.6 |
+| #2 | ::{ flag=FR }:: ::Un bretzel::{ user-id=1542565 } | 3.8 |
+| #3 | ::{ flag=FR }:: ::Shamookie::{ user-id=12441210 } | 4 |
+| #4 | ::{ flag=FR }:: ::Jibsz::{ user-id=12269489 } | 4.8 |
+| #5 | ::{ flag=FR }:: ::redjiii::{ user-id=1378728 } | 5.6 |
+| #6 | ::{ flag=FR }:: ::Beltheor::{ user-id=14966708 } | 6.6 |
+| #7 | ::{ flag=FR }:: ::MitsukeZ::{ user-id=12943161 } | 7.6 |
+| #8 | ::{ flag=FR }:: ::caillrot::{ user-id=13108984 } | 8.6 |
+| #9 | ::{ flag=FR }:: ::Okawashi::{ user-id=6636540 } | 10.4 |
+| #10 | ::{ flag=FR }:: ::JunKoAndHiro::{ user-id=14004732 } | 11.8 |
+| #10 | ::{ flag=FR }:: ::AceEpmo::{ user-id=16725715 } | 11.8 |
+| #12 | ::{ flag=FR }:: ::iron-wish::{ user-id=12264606 } | 13 |
+| #13 | ::{ flag=FR }:: ::Nos\_If::{ user-id=7365196 } | 13.4 |
+| #14 | ::{ flag=FR }:: ::Utopsia::{ user-id=11080305 } | 14 |
+| #15 | ::{ flag=FR }:: ::Kammthaar::{ user-id=8802523 } | 14.6 |
+| #16 | ::{ flag=FR }:: ::SverdWyrd::{ user-id=10996443 } | 17.2 |
+| #17 | ::{ flag=FR }:: ::Hitsumo::{ user-id=3199415 } | 17.8 |
 
 ## Règlement
 

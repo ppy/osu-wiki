@@ -19,7 +19,7 @@ If you still need convincing, try soaking up some of these hits:
 
 ### Smiling
 
-Check out [this loved osu! set](https://osu.ppy.sh/beatmapsets/450363) by [elchxyrlia](https://osu.ppy.sh/users/1722835) and [this osu!mania set](https://osu.ppy.sh/beatmapsets/810911) by [Kawawa](https://osu.ppy.sh/users/4647754)!
+Check out [this loved osu! set](https://osu.ppy.sh/beatmapsets/450363) by ::elchxyrlia::{ user-id=1722835 } and [this osu!mania set](https://osu.ppy.sh/beatmapsets/810911) by ::Kawawa::{ user-id=4647754 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/116/previews/3004.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this loved osu! set](https://osu.ppy.sh/beatmapsets/450363) by [elchx
 
 ### 8bit Adventurer
 
-Check out [this osu! showcase set](https://osu.ppy.sh/beatmapsets/1225869) by [Hazu-](https://osu.ppy.sh/users/4668230) and [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1225007) by [komasy](https://osu.ppy.sh/users/1980256) of the Mappers' Guild!
+Check out [this osu! showcase set](https://osu.ppy.sh/beatmapsets/1225869) by ::Hazu-::{ user-id=4668230 } and [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1225007) by ::komasy::{ user-id=1980256 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/116/previews/2996.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this osu! showcase set](https://osu.ppy.sh/beatmapsets/1225869) by [H
 
 ### Harmony
 
-Check out [this osu!catch showcase set](https://osu.ppy.sh/beatmapsets/1231601) hosted by [wonjae](https://osu.ppy.sh/users/5032045) of the Mappers' Guild!
+Check out [this osu!catch showcase set](https://osu.ppy.sh/beatmapsets/1231601) hosted by ::wonjae::{ user-id=5032045 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/116/previews/3000.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Check out [this osu!catch showcase set](https://osu.ppy.sh/beatmapsets/1231601) 
 
 ### Renai Syndrome
 
-Check out [this set](https://osu.ppy.sh/beatmapsets/166062) hosted by [kisata](https://osu.ppy.sh/users/1929729) and [this showcase set](https://osu.ppy.sh/beatmapsets/1295855#osu/2688677) by [Cheri](https://osu.ppy.sh/users/5226970) of the Mappers' Guild!
+Check out [this set](https://osu.ppy.sh/beatmapsets/166062) hosted by ::kisata::{ user-id=1929729 } and [this showcase set](https://osu.ppy.sh/beatmapsets/1295855#osu/2688677) by ::Cheri::{ user-id=5226970 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/116/previews/3001.mp3" type="audio/mpeg">
@@ -51,7 +51,7 @@ Check out [this set](https://osu.ppy.sh/beatmapsets/166062) hosted by [kisata](h
 
 ### Chronomia
 
-Check out [this osu!mania set](https://osu.ppy.sh/beatmapsets/885596) by [Insp1r3](https://osu.ppy.sh/users/7131254)!
+Check out [this osu!mania set](https://osu.ppy.sh/beatmapsets/885596) by ::Insp1r3::{ user-id=7131254 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/116/previews/2999.mp3" type="audio/mpeg">

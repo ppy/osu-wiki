@@ -104,7 +104,7 @@ Les commentaires et les votes des évaluateurs à ce stade sont cachés aux autr
 
 À ce stade, les commentaires et les votes de chaque évaluateur sont révélés aux autres évaluateurs et, en cas de verdict ambigu, ils discutent jusqu'à ce qu'un consensus soit atteint.
 
-Des commentaires supplémentaires sont alors rédigés pour ajouter toute information manquante dans les commentaires des évaluateurs et le résultat de la candidature est renvoyé au candidat par le [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) sous la forme d'un [message d'annonce](/wiki/Announcement_messages), après quoi l'évaluation est archivée pour référence future. Les candidats retenus sont ajoutés en tant que BN probatoire immédiatement après l'envoi du résultat.
+Des commentaires supplémentaires sont alors rédigés pour ajouter toute information manquante dans les commentaires des évaluateurs et le résultat de la candidature est renvoyé au candidat par le ::Nomination Assessment Team bot::{ user-id=6616586 } sous la forme d'un [message d'annonce](/wiki/Announcement_messages), après quoi l'évaluation est archivée pour référence future. Les candidats retenus sont ajoutés en tant que BN probatoire immédiatement après l'envoi du résultat.
 
 ## Communication post-candidature
 

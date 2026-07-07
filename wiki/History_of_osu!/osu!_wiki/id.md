@@ -18,44 +18,44 @@ Artikel ini merincikan berbagai peristiwa penting dalam **sejarah osu! wiki** mu
 
 #### Desember
 
-- **2011-12-05:** Landasan awal osu! wiki mulai dirintis, dengan ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) membuat beberapa penyuntingan awal.
+- **2011-12-05:** Landasan awal osu! wiki mulai dirintis, dengan ::{ flag=AU }:: ::Ephemeral::{ user-id=102335 } membuat beberapa penyuntingan awal.
 - **2011-12-06:** osu! wiki [resmi dirilis secara publik](https://osu.ppy.sh/community/forums/topics/68525).
 
 ### 2012
 
 #### November
 
-- **2012-11-29:** ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) dan ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) [ditambahkan](https://osu.ppy.sh/community/forums/posts/1944044) ke tim admin osu! wiki di Mediawiki.
+- **2012-11-29:** ::{ flag=MX }:: ::Repflez::{ user-id=201392 } dan ::{ flag=RU }:: ::Dellirium::{ user-id=519032 } [ditambahkan](https://osu.ppy.sh/community/forums/posts/1944044) ke tim admin osu! wiki di Mediawiki.
 
 ### 2013
 
 #### January
 
-- **2013-01-27:** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) memadankan tampilan osu! wiki dengan tampilan [situs utama osu!](https://osu.ppy.sh/community/forums/posts/2082803).
+- **2013-01-27:** ::{ flag=AU }:: ::peppy::{ user-id=2 } memadankan tampilan osu! wiki dengan tampilan [situs utama osu!](https://osu.ppy.sh/community/forums/posts/2082803).
 
 ### 2014
 
 #### Desember
 
 - **Tanggal yang tidak diketahui:** osu! wiki menjadi pusat informasi osu! yang hakiki setelah berbagai halaman inti seperti [tim osu!](/wiki/People/osu!_team) dan [Peraturan](/wiki/Rules) dipindahkan ke osu! wiki.
-- **Tanggal yang tidak diketahui:** ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) dan ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) ditambahkan ke tim admin osu! wiki di MediaWiki.
+- **Tanggal yang tidak diketahui:** ::{ flag=NZ }:: ::deadbeat::{ user-id=128370 } dan ::{ flag=DE }:: ::Loctav::{ user-id=71366 } ditambahkan ke tim admin osu! wiki di MediaWiki.
 
 ### 2015
 
 #### Desember
 
 - **Tanggal yang tidak diketahui:** osu! wiki menerima banyak kontributor baru yang membantu menerjemahkan berbagai artikel ke dalam bahasa mereka masing-masing.
-- **Tanggal yang tidak diketahui:** Posisi ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) sebagai admin digantikan oleh ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005).
+- **Tanggal yang tidak diketahui:** Posisi ::{ flag=RU }:: ::Dellirium::{ user-id=519032 } sebagai admin digantikan oleh ::{ flag=FR }:: ::Shiro::{ user-id=113005 }.
 
 ### 2016
 
 #### Februari
 
-- **2016-02-22:** ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) dan ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) ditambahkan ke tim admin osu! wiki di MediaWiki.
+- **2016-02-22:** ::{ flag=PL }:: ::Ukami::{ user-id=820865 } dan ::{ flag=PL }:: ::Galkan::{ user-id=169570 } ditambahkan ke tim admin osu! wiki di MediaWiki.
 
 #### April
 
-- **2016-04-01:** ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) ditambahkan ke tim admin osu! wiki di MediaWiki.
+- **2016-04-01:** ::{ flag=PH }:: ::Nathanael::{ user-id=2295078 } ditambahkan ke tim admin osu! wiki di MediaWiki.
 
 #### Agustus
 
@@ -75,18 +75,18 @@ Artikel ini merincikan berbagai peristiwa penting dalam **sejarah osu! wiki** mu
 
 #### Agustus
 
-- **2016-08-26:** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) [membuat repositori osu-wiki](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e).
+- **2016-08-26:** ::{ flag=AU }:: ::peppy::{ user-id=2 } [membuat repositori osu-wiki](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e).
 
 #### September
 
-- **2016-09-02:** ::{ flag=US }:: [craftu](https://osu.ppy.sh/users/16468119) and ::{ flag=US }:: [XYLOO](https://osu.ppy.sh/users/27809907) selesai memindahkan sebagian besar konten osu! wiki lawas dari MediaWiki ke repositori GitHub, menyisakan hanya gambar dan kesalahan sintaks tertentu yang tidak dapat dipindahkan karena perbedaan bahasa antara [Wikitext](https://en.wikipedia.org/wiki/Help:Wikitext) yang digunakan oleh MediaWiki dan [Markdown](https://en.wikipedia.org/wiki/Markdown) yang digunakan oleh GitHub.
+- **2016-09-02:** ::{ flag=US }:: ::craftu::{ user-id=16468119 } and ::{ flag=US }:: ::XYLOO::{ user-id=27809907 } selesai memindahkan sebagian besar konten osu! wiki lawas dari MediaWiki ke repositori GitHub, menyisakan hanya gambar dan kesalahan sintaks tertentu yang tidak dapat dipindahkan karena perbedaan bahasa antara [Wikitext](https://en.wikipedia.org/wiki/Help:Wikitext) yang digunakan oleh MediaWiki dan [Markdown](https://en.wikipedia.org/wiki/Markdown) yang digunakan oleh GitHub.
 
 ### 2017
 
 #### Januari
 
-- **2017-01-26:**::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) berbicara seputar rencana integrasi antara repositori Github dengan situs web osu! itu sendiri pada [postingan blog pengembangan](https://blog.ppy.sh/post/156390386433/2017-01-dev-meeting).
-- **Tanggal yang tidak diketahui:** ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) merampungkan dukungan backend untuk osu! wiki yang baru, yang memungkinkan wiki ini untuk dapat sepenuhnya terintegrasi dengan situs web osu!.
+- **2017-01-26:**::{ flag=AU }:: ::Ephemeral::{ user-id=102335 } berbicara seputar rencana integrasi antara repositori Github dengan situs web osu! itu sendiri pada [postingan blog pengembangan](https://blog.ppy.sh/post/156390386433/2017-01-dev-meeting).
+- **Tanggal yang tidak diketahui:** ::{ flag=JP }:: ::nanaya::{ user-id=2387883 } merampungkan dukungan backend untuk osu! wiki yang baru, yang memungkinkan wiki ini untuk dapat sepenuhnya terintegrasi dengan situs web osu!.
 
 #### Mei
 
@@ -95,7 +95,7 @@ Artikel ini merincikan berbagai peristiwa penting dalam **sejarah osu! wiki** mu
 
 #### Juni
 
-- **Tanggal yang tidak diketahui:** ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) diberikan izin tulis khusus ke repositori osu! wiki.
+- **Tanggal yang tidak diketahui:** ::{ flag=PL }:: ::TPGPL::{ user-id=3944705 } diberikan izin tulis khusus ke repositori osu! wiki.
 - **Tanggal yang tidak diketahui:** [Fungsi pencarian](https://github.com/ppy/osu-web/pull/2331) ditambahkan ke osu! wiki.
 
 ### 2018
@@ -112,7 +112,7 @@ Artikel ini merincikan berbagai peristiwa penting dalam **sejarah osu! wiki** mu
 
 #### Juni
 
-- **2021-06-01:** ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349) mengimplementasikan [overlay osu! wiki](https://github.com/ppy/osu/pull/12950) di [osu!(lazer)](/wiki/Client/Release_stream/Lazer), yang memungkinkan halaman wiki tertentu untuk dapat diakses secara langsung dari dalam klien osu!(lazer).
+- **2021-06-01:** ::{ flag=ID }:: ::GPR::{ user-id=10721349 } mengimplementasikan [overlay osu! wiki](https://github.com/ppy/osu/pull/12950) di [osu!(lazer)](/wiki/Client/Release_stream/Lazer), yang memungkinkan halaman wiki tertentu untuk dapat diakses secara langsung dari dalam klien osu!(lazer).
 
 #### Agustus
 

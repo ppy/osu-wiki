@@ -6,7 +6,7 @@ tags:
 
 # Catch the Beat Indonesia Cup 2013
 
-The **Catch the Beat Indonesia Cup 2013** (***CIC 2013***) was an Indonesian 4-players osu!catch tournament hosted by ::{ flag=ID }:: [MOD-](https://osu.ppy.sh/users/1272422). It was the second instalment of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2013** (***CIC 2013***) was an Indonesian 4-players osu!catch tournament hosted by ::{ flag=ID }:: ::MOD-::{ user-id=1272422 }. It was the second instalment of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -33,11 +33,11 @@ The Catch the Beat Indonesia Cup 2013 was run by various Indonesian osu!catch co
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=ID }:: [\_Tokage\_](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Ableh\_ZZZ](https://osu.ppy.sh/users/917216), ::{ flag=ID }:: [-Newbie-](https://osu.ppy.sh/users/434914), ::{ flag=ID }:: [MOD-](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [urs4chan](https://osu.ppy.sh/users/321063) |
-| Schedule organizer | ::{ flag=ID }:: [MOD-](https://osu.ppy.sh/users/1272422) |
-| Referee | ::{ flag=ID }:: [El SolarBeam](https://osu.ppy.sh/users/1074710), ::{ flag=ID }:: [\_Tokage\_](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Frans Niko](https://osu.ppy.sh/users/906991), ::{ flag=ID }:: [nirvashzero](https://osu.ppy.sh/users/1254373), ::{ flag=ID }:: Sena Aizawa |
-| Mappool selector | ::{ flag=ID }:: [MOD-](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [mana\_vayne](https://osu.ppy.sh/users/872884), ::{ flag=ID }:: [\[Sena Airi\]](https://osu.ppy.sh/users/1151612), ::{ flag=ID }:: [urs4chan](https://osu.ppy.sh/users/321063), ::{ flag=ID }:: [Ableh\_ZZZ](https://osu.ppy.sh/users/917216) |
-| Additional | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Ava](https://osu.ppy.sh/users/1531280), ::{ flag=ID }:: [Yunia Anindya](https://osu.ppy.sh/users/1339271), ::{ flag=ID }:: [- t e n n y a -](https://osu.ppy.sh/users/678794) |
+| Manager | ::{ flag=ID }:: ::\_Tokage\_::{ user-id=1595221 }, ::{ flag=ID }:: ::Ableh\_ZZZ::{ user-id=917216 }, ::{ flag=ID }:: ::-Newbie-::{ user-id=434914 }, ::{ flag=ID }:: ::MOD-::{ user-id=1272422 }, ::{ flag=ID }:: ::urs4chan::{ user-id=321063 } |
+| Schedule organizer | ::{ flag=ID }:: ::MOD-::{ user-id=1272422 } |
+| Referee | ::{ flag=ID }:: ::El SolarBeam::{ user-id=1074710 }, ::{ flag=ID }:: ::\_Tokage\_::{ user-id=1595221 }, ::{ flag=ID }:: ::Frans Niko::{ user-id=906991 }, ::{ flag=ID }:: ::nirvashzero::{ user-id=1254373 }, ::{ flag=ID }:: Sena Aizawa |
+| Mappool selector | ::{ flag=ID }:: ::MOD-::{ user-id=1272422 }, ::{ flag=ID }:: ::mana\_vayne::{ user-id=872884 }, ::{ flag=ID }:: ::\[Sena Airi\]::{ user-id=1151612 }, ::{ flag=ID }:: ::urs4chan::{ user-id=321063 }, ::{ flag=ID }:: ::Ableh\_ZZZ::{ user-id=917216 } |
+| Additional | ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Ava::{ user-id=1531280 }, ::{ flag=ID }:: ::Yunia Anindya::{ user-id=1339271 }, ::{ flag=ID }:: ::- t e n n y a -::{ user-id=678794 } |
 
 ## Links
 
@@ -47,14 +47,14 @@ The Catch the Beat Indonesia Cup 2013 was run by various Indonesian osu!catch co
 
 | Group |  |  |  |  |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=ID }:: [nirvashzero](https://osu.ppy.sh/users/1254373) | ::{ flag=ID }:: [Nazalion](https://osu.ppy.sh/users/2272165) | ::{ flag=ID }:: [-FireThunder-](https://osu.ppy.sh/users/1294154) | ::{ flag=ID }:: [Drexel13](https://osu.ppy.sh/users/1140567) |
-| **B** | ::{ flag=ID }:: [THS](https://osu.ppy.sh/users/1218514) | ::{ flag=ID }:: [Rey Fullbuster](https://osu.ppy.sh/users/500032) | ::{ flag=ID }:: Sena Aizawa | ::{ flag=ID }:: [Serphin](https://osu.ppy.sh/users/878037) |
-| **C** | ::{ flag=ID }:: Usui Kazuyoshi | ::{ flag=ID }:: [FakeShield21](https://osu.ppy.sh/users/1739225) | ::{ flag=ID }:: [Takamaru\_17](https://osu.ppy.sh/users/1762922) | ::{ flag=ID }:: -X\_slasher- |
-| **D** | ::{ flag=ID }:: [lody tomiya](https://osu.ppy.sh/users/1808039) | ::{ flag=ID }:: [Gatyaa420](https://osu.ppy.sh/users/984132) | ::{ flag=ID }:: [Akashi Yokai](https://osu.ppy.sh/users/1669936) | ::{ flag=ID }:: yunnogasaii- |
-| **E** | ::{ flag=ID }:: [AveORena](https://osu.ppy.sh/users/1397764) | ::{ flag=ID }:: Jacqli | ::{ flag=ID }:: [Kyon97](https://osu.ppy.sh/users/1491901) | ::{ flag=ID }:: [pacmanmania](https://osu.ppy.sh/users/942688) |
-| **F** | ::{ flag=ID }:: [Xinely](https://osu.ppy.sh/users/1521445) | ::{ flag=ID }:: [Frans Niko](https://osu.ppy.sh/users/906991) | ::{ flag=ID }:: [edgeiaisha](https://osu.ppy.sh/users/1653418) | ::{ flag=ID }:: [Ryuusuke-](https://osu.ppy.sh/users/1401639) |
-| **G** | ::{ flag=ID }:: \[ Rii \] | ::{ flag=ID }:: [\_Tokage\_](https://osu.ppy.sh/users/1595221) | ::{ flag=ID }:: [Vlad-](https://osu.ppy.sh/users/1475521) | ::{ flag=ID }:: [17day](https://osu.ppy.sh/users/1948411) |
-| **H** | ::{ flag=ID }:: [El SolarBeam](https://osu.ppy.sh/users/1074710) | ::{ flag=ID }:: [Sherii](https://osu.ppy.sh/users/2160394) | ::{ flag=ID }:: Jekate | ::{ flag=ID }:: [chybi](https://osu.ppy.sh/users/1456069) |
+| **A** | ::{ flag=ID }:: ::nirvashzero::{ user-id=1254373 } | ::{ flag=ID }:: ::Nazalion::{ user-id=2272165 } | ::{ flag=ID }:: ::-FireThunder-::{ user-id=1294154 } | ::{ flag=ID }:: ::Drexel13::{ user-id=1140567 } |
+| **B** | ::{ flag=ID }:: ::THS::{ user-id=1218514 } | ::{ flag=ID }:: ::Rey Fullbuster::{ user-id=500032 } | ::{ flag=ID }:: Sena Aizawa | ::{ flag=ID }:: ::Serphin::{ user-id=878037 } |
+| **C** | ::{ flag=ID }:: Usui Kazuyoshi | ::{ flag=ID }:: ::FakeShield21::{ user-id=1739225 } | ::{ flag=ID }:: ::Takamaru\_17::{ user-id=1762922 } | ::{ flag=ID }:: -X\_slasher- |
+| **D** | ::{ flag=ID }:: ::lody tomiya::{ user-id=1808039 } | ::{ flag=ID }:: ::Gatyaa420::{ user-id=984132 } | ::{ flag=ID }:: ::Akashi Yokai::{ user-id=1669936 } | ::{ flag=ID }:: yunnogasaii- |
+| **E** | ::{ flag=ID }:: ::AveORena::{ user-id=1397764 } | ::{ flag=ID }:: Jacqli | ::{ flag=ID }:: ::Kyon97::{ user-id=1491901 } | ::{ flag=ID }:: ::pacmanmania::{ user-id=942688 } |
+| **F** | ::{ flag=ID }:: ::Xinely::{ user-id=1521445 } | ::{ flag=ID }:: ::Frans Niko::{ user-id=906991 } | ::{ flag=ID }:: ::edgeiaisha::{ user-id=1653418 } | ::{ flag=ID }:: ::Ryuusuke-::{ user-id=1401639 } |
+| **G** | ::{ flag=ID }:: \[ Rii \] | ::{ flag=ID }:: ::\_Tokage\_::{ user-id=1595221 } | ::{ flag=ID }:: ::Vlad-::{ user-id=1475521 } | ::{ flag=ID }:: ::17day::{ user-id=1948411 } |
+| **H** | ::{ flag=ID }:: ::El SolarBeam::{ user-id=1074710 } | ::{ flag=ID }:: ::Sherii::{ user-id=2160394 } | ::{ flag=ID }:: Jekate | ::{ flag=ID }:: ::chybi::{ user-id=1456069 } |
 
 ## Podium
 
@@ -62,9 +62,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [\_Tokage\_](https://osu.ppy.sh/users/1595221) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [FakeShield21](https://osu.ppy.sh/users/1739225) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [El SolarBeam](https://osu.ppy.sh/users/1074710) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: ::\_Tokage\_::{ user-id=1595221 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: ::FakeShield21::{ user-id=1739225 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: ::El SolarBeam::{ user-id=1074710 } |
 | *4th place* | ::{ flag=ID }:: Sena Aizawa |
 
 ## Mappools
@@ -211,7 +211,7 @@ Saturday, 18 May 2013:
 
 | Match type |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| Championship | ::{ flag=ID }:: **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (16)** | ::{ flag=ID }:: [FakeShield21](https://osu.ppy.sh/users/1739225) (11) | ::{ flag=ID }:: [El SolarBeam](https://osu.ppy.sh/users/1074710) (10) | ::{ flag=ID }:: Sena Aizawa (-1) |
+| Championship | ::{ flag=ID }:: **::\_Tokage\_::{ user-id=1595221 } (16)** | ::{ flag=ID }:: ::FakeShield21::{ user-id=1739225 } (11) | ::{ flag=ID }:: ::El SolarBeam::{ user-id=1074710 } (10) | ::{ flag=ID }:: Sena Aizawa (-1) |
 
 ### Semifinals
 
@@ -219,13 +219,13 @@ Friday, 10 May 2013:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| B | ::{ flag=ID }:: [Xinely](https://osu.ppy.sh/users/1521445) (0) | ::{ flag=ID }:: [Kyon97](https://osu.ppy.sh/users/1491901) (6) | ::{ flag=ID }:: **[El SolarBeam](https://osu.ppy.sh/users/1074710) (17)** | ::{ flag=ID }:: **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (9)** |
+| B | ::{ flag=ID }:: ::Xinely::{ user-id=1521445 } (0) | ::{ flag=ID }:: ::Kyon97::{ user-id=1491901 } (6) | ::{ flag=ID }:: **::El SolarBeam::{ user-id=1074710 } (17)** | ::{ flag=ID }:: **::\_Tokage\_::{ user-id=1595221 } (9)** |
 
 Saturday, 11 May 2013:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| A | ::{ flag=ID }:: [THS](https://osu.ppy.sh/users/1218514) (4) | ::{ flag=ID }:: **Sena Aizawa (11)** | ::{ flag=ID }:: **[FakeShield21](https://osu.ppy.sh/users/1739225) (11)** | ::{ flag=ID }:: [lody tomiya](https://osu.ppy.sh/users/1808039) (6) |
+| A | ::{ flag=ID }:: ::THS::{ user-id=1218514 } (4) | ::{ flag=ID }:: **Sena Aizawa (11)** | ::{ flag=ID }:: **::FakeShield21::{ user-id=1739225 } (11)** | ::{ flag=ID }:: ::lody tomiya::{ user-id=1808039 } (6) |
 
 ### Quarterfinals
 
@@ -233,15 +233,15 @@ Saturday, 4 May 2013:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| D | ::{ flag=ID }:: \[ Rii \] (0) | ::{ flag=ID }:: **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (19)** | ::{ flag=ID }:: Jekate (5) | ::{ flag=ID }:: **[El SolarBeam](https://osu.ppy.sh/users/1074710) (8)** |
-| C | ::{ flag=ID }:: Jacqli (6) | ::{ flag=ID }:: **[Kyon97](https://osu.ppy.sh/users/1491901) (13)** | ::{ flag=ID }:: [Ryuusuke-](https://osu.ppy.sh/users/1401639) (1) | ::{ flag=ID }:: **[Xinely](https://osu.ppy.sh/users/1521445) (12)** |
+| D | ::{ flag=ID }:: \[ Rii \] (0) | ::{ flag=ID }:: **::\_Tokage\_::{ user-id=1595221 } (19)** | ::{ flag=ID }:: Jekate (5) | ::{ flag=ID }:: **::El SolarBeam::{ user-id=1074710 } (8)** |
+| C | ::{ flag=ID }:: Jacqli (6) | ::{ flag=ID }:: **::Kyon97::{ user-id=1491901 } (13)** | ::{ flag=ID }:: ::Ryuusuke-::{ user-id=1401639 } (1) | ::{ flag=ID }:: **::Xinely::{ user-id=1521445 } (12)** |
 
 Sunday, 5 May 2013:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| A | ::{ flag=ID }:: [nirvashzero](https://osu.ppy.sh/users/1254373) (6) | ::{ flag=ID }:: [Nazalion](https://osu.ppy.sh/users/2272165) (1) | ::{ flag=ID }:: **Sena Aizawa (13)** | ::{ flag=ID }:: **[THS](https://osu.ppy.sh/users/1218514) (12)** |
-| B | ::{ flag=ID }:: [Takamaru\_17](https://osu.ppy.sh/users/1762922) (4) | ::{ flag=ID }:: **[FakeShield21](https://osu.ppy.sh/users/1739225) (14)** | ::{ flag=ID }:: **[lody tomiya](https://osu.ppy.sh/users/1808039) (14)** | ::{ flag=ID }:: [Gatyaa420](https://osu.ppy.sh/users/984132) (0) |
+| A | ::{ flag=ID }:: ::nirvashzero::{ user-id=1254373 } (6) | ::{ flag=ID }:: ::Nazalion::{ user-id=2272165 } (1) | ::{ flag=ID }:: **Sena Aizawa (13)** | ::{ flag=ID }:: **::THS::{ user-id=1218514 } (12)** |
+| B | ::{ flag=ID }:: ::Takamaru\_17::{ user-id=1762922 } (4) | ::{ flag=ID }:: **::FakeShield21::{ user-id=1739225 } (14)** | ::{ flag=ID }:: **::lody tomiya::{ user-id=1808039 } (14)** | ::{ flag=ID }:: ::Gatyaa420::{ user-id=984132 } (0) |
 
 ### Group stage
 
@@ -249,24 +249,24 @@ Friday, 26 April 2013:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| F | ::{ flag=ID }:: **[Xinely](https://osu.ppy.sh/users/1521445) (13)** | ::{ flag=ID }:: [Frans Niko](https://osu.ppy.sh/users/906991) (5) | ::{ flag=ID }:: [edgeiaisha](https://osu.ppy.sh/users/1653418) (0) | ::{ flag=ID }:: **[Ryuusuke-](https://osu.ppy.sh/users/1401639) (16)** |
+| F | ::{ flag=ID }:: **::Xinely::{ user-id=1521445 } (13)** | ::{ flag=ID }:: ::Frans Niko::{ user-id=906991 } (5) | ::{ flag=ID }:: ::edgeiaisha::{ user-id=1653418 } (0) | ::{ flag=ID }:: **::Ryuusuke-::{ user-id=1401639 } (16)** |
 
 Saturday, 27 April 2013:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| C | ::{ flag=ID }:: Usui Kazuyoshi (0) | ::{ flag=ID }:: **[FakeShield21](https://osu.ppy.sh/users/1739225) (13)** | ::{ flag=ID }:: **[Takamaru\_17](https://osu.ppy.sh/users/1762922) (14)** | ::{ flag=ID }:: -X\_slasher- (7) |
-| A | ::{ flag=ID }:: **[nirvashzero](https://osu.ppy.sh/users/1254373) (12)** | ::{ flag=ID }:: **[Nazalion](https://osu.ppy.sh/users/2272165) (7)** | ::{ flag=ID }:: [-FireThunder-](https://osu.ppy.sh/users/1294154) (7) | ::{ flag=ID }:: [Drexel13](https://osu.ppy.sh/users/1140567) (6) |
-| H | ::{ flag=ID }:: **[El SolarBeam](https://osu.ppy.sh/users/1074710) (17)** | ::{ flag=ID }:: [Sherii](https://osu.ppy.sh/users/2160394) (0) | ::{ flag=ID }:: **Jekate (12)** | ::{ flag=ID }:: [chybi](https://osu.ppy.sh/users/1456069) (5) |
-| B | ::{ flag=ID }:: **[THS](https://osu.ppy.sh/users/1218514) (13)** | ::{ flag=ID }:: [Rey Fullbuster](https://osu.ppy.sh/users/500032) (-1) | ::{ flag=ID }:: **Sena Aizawa (11)** | ::{ flag=ID }:: [Serphin](https://osu.ppy.sh/users/878037) (9) |
-| G | ::{ flag=ID }:: **\[ Rii \] (14)** | ::{ flag=ID }:: **[\_Tokage\_](https://osu.ppy.sh/users/1595221) (16)** | ::{ flag=ID }:: [Vlad-](https://osu.ppy.sh/users/1475521) (14) | ::{ flag=ID }:: [17day](https://osu.ppy.sh/users/1948411) (0) |
+| C | ::{ flag=ID }:: Usui Kazuyoshi (0) | ::{ flag=ID }:: **::FakeShield21::{ user-id=1739225 } (13)** | ::{ flag=ID }:: **::Takamaru\_17::{ user-id=1762922 } (14)** | ::{ flag=ID }:: -X\_slasher- (7) |
+| A | ::{ flag=ID }:: **::nirvashzero::{ user-id=1254373 } (12)** | ::{ flag=ID }:: **::Nazalion::{ user-id=2272165 } (7)** | ::{ flag=ID }:: ::-FireThunder-::{ user-id=1294154 } (7) | ::{ flag=ID }:: ::Drexel13::{ user-id=1140567 } (6) |
+| H | ::{ flag=ID }:: **::El SolarBeam::{ user-id=1074710 } (17)** | ::{ flag=ID }:: ::Sherii::{ user-id=2160394 } (0) | ::{ flag=ID }:: **Jekate (12)** | ::{ flag=ID }:: ::chybi::{ user-id=1456069 } (5) |
+| B | ::{ flag=ID }:: **::THS::{ user-id=1218514 } (13)** | ::{ flag=ID }:: ::Rey Fullbuster::{ user-id=500032 } (-1) | ::{ flag=ID }:: **Sena Aizawa (11)** | ::{ flag=ID }:: ::Serphin::{ user-id=878037 } (9) |
+| G | ::{ flag=ID }:: **\[ Rii \] (14)** | ::{ flag=ID }:: **::\_Tokage\_::{ user-id=1595221 } (16)** | ::{ flag=ID }:: ::Vlad-::{ user-id=1475521 } (14) | ::{ flag=ID }:: ::17day::{ user-id=1948411 } (0) |
 
 Sunday, 28 April 2013:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| D | ::{ flag=ID }:: **[lody tomiya](https://osu.ppy.sh/users/1808039) (15)** | ::{ flag=ID }:: **[Gatyaa420](https://osu.ppy.sh/users/984132) (13)** | ::{ flag=ID }:: yunnogasaii- (0) | ::{ flag=ID }:: [Akashi Yokai](https://osu.ppy.sh/users/1669936) (0) |
-| E | ::{ flag=ID }:: [AveORena](https://osu.ppy.sh/users/1397764) (0) | ::{ flag=ID }:: **Jacqli (10)** | ::{ flag=ID }:: **[Kyon97](https://osu.ppy.sh/users/1491901) (16)** | ::{ flag=ID }:: [pacmanmania](https://osu.ppy.sh/users/942688) (6) |
+| D | ::{ flag=ID }:: **::lody tomiya::{ user-id=1808039 } (15)** | ::{ flag=ID }:: **::Gatyaa420::{ user-id=984132 } (13)** | ::{ flag=ID }:: yunnogasaii- (0) | ::{ flag=ID }:: ::Akashi Yokai::{ user-id=1669936 } (0) |
+| E | ::{ flag=ID }:: ::AveORena::{ user-id=1397764 } (0) | ::{ flag=ID }:: **Jacqli (10)** | ::{ flag=ID }:: **::Kyon97::{ user-id=1491901 } (16)** | ::{ flag=ID }:: ::pacmanmania::{ user-id=942688 } (6) |
 
 ## Ruleset
 

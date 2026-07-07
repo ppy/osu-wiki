@@ -51,7 +51,7 @@ On top of that, anyone who completes a priority quest also receives a **customis
 
 ![keychain](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/keychain.jpg)
 
-Depending on your country, shipping this may be difficult or impossible. [pishifat](https://osu.ppy.sh/users/3178418) (the dude writing this article) will be creating and shipping these individually, so don't expect the same efficiency as a professional production studio. :)
+Depending on your country, shipping this may be difficult or impossible. ::pishifat::{ user-id=3178418 } (the dude writing this article) will be creating and shipping these individually, so don't expect the same efficiency as a professional production studio. :)
 
 And on top of *all of that*, we're also offering a new profile badge to anyone who completes 3+ priority quests.
 
@@ -101,58 +101,58 @@ Instead of completely locking users out of quests, the party leader can now comp
 
 ## Major contributors
 
-A ton of people are involved in the **Mappers' Guild**, but some stand out above the crowd. Below are some of the top contributors to the guild! (More specifically, this is anyone who's contributed 10+ difficulties to Ranked Featured Artist maps since last July... and [SMOKELIND](https://osu.ppy.sh/users/9327302), who focused on total Ranked maps instead.)
+A ton of people are involved in the **Mappers' Guild**, but some stand out above the crowd. Below are some of the top contributors to the guild! (More specifically, this is anyone who's contributed 10+ difficulties to Ranked Featured Artist maps since last July... and ::SMOKELIND::{ user-id=9327302 }, who focused on total Ranked maps instead.)
 
 | User | Modes | Ranked beatmaps | Ranked difficulties |
 | :-- | :-- | :-- | :-- |
-| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | osu! | 15 | 65 |
-| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | osu!taiko, osu!mania | 7 | 43 |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | osu!mania | 9 | 40 |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | osu!, osu!catch | 10 | 31 |
-| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | osu!, osu!catch | 7 | 29 |
-| ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) | osu!taiko | 10 | 28 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | osu!taiko | 6 | 27 |
-| ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | osu!taiko | 5 | 27 |
-| ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | osu!, osu!taiko, osu!mania | 7 | 25 |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch | 5 | 24 |
-| ::{ flag=TR }:: [skolodojko](https://osu.ppy.sh/users/11716851) | osu!taiko | 3 | 17 |
-| ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) | osu!catch | 3 | 16 |
-| ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) | osu!taiko | 4 | 16 |
-| ::{ flag=PH }:: [Ayesha Altugle](https://osu.ppy.sh/users/1125647) | osu! | 2 | 15 |
-| ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) | osu! | 5 | 15 |
-| ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | osu!taiko | 4 | 15 |
-| ::{ flag=TH }:: [Kukkai](https://osu.ppy.sh/users/7811952) | osu!catch | 3 | 15 |
-| ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032) | osu!taiko | 6 | 14 |
-| ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | osu!catch | 4 | 14 |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | osu! | 3 | 14 |
-| ::{ flag=UA }:: [allein](https://osu.ppy.sh/users/6221637) | osu! | 4 | 14 |
-| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | osu!taiko | 3 | 14 |
-| ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | osu!taiko | 5 | 14 |
-| ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918) | osu! | 4 | 14 |
-| ::{ flag=RU }:: [PandaHero](https://osu.ppy.sh/users/1233255) | osu! | 4 | 13 |
-| ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | osu! | 3 | 13 |
-| ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | osu!taiko, osu!catch | 3 | 13 |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | osu!taiko, osu!catch | 3 | 13 |
-| ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | osu!taiko | 3 | 13 |
-| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | osu! | 3 | 12 |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | osu!catch | 3 | 12 |
-| ::{ flag=UZ }:: [M a r v o l l o](https://osu.ppy.sh/users/5504231) | osu!, storyboarder | 2 | 12 |
-| ::{ flag=ID }:: [frozz](https://osu.ppy.sh/users/7891266) | osu! | 2 | 12 |
-| ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | osu! | 3 | 12 |
-| ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | osu!taiko | 2 | 12 |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | osu!taiko | 1 | 12 |
-| ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | osu! | 4 | 11 |
-| ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | osu!catch | 1 | 11 |
-| ::{ flag=CN }:: [cai_ji_ccc](https://osu.ppy.sh/users/20750584) | osu!mania | 2 | 11 |
-| ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | osu!taiko | 2 | 10 |
-| ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | osu! | 2 | 10 |
-| ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) | osu! | 1 | 10 |
-| ::{ flag=DE }:: [PaRaDogi](https://osu.ppy.sh/users/2054596) | osu! | 4 | 10 |
-| ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391) | osu!taiko | 2 | 10 |
-| ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | osu!taiko | 4 | 10 |
-| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) | osu!mania | 2 | 10 |
-| ::{ flag=CA }:: [Unlucky_w](https://osu.ppy.sh/users/4820793) | osu!, osu!catch | 3 | 10 |
-| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | osu! | 8 | 8 |
+| ::{ flag=ID }:: ::Hinsvar::{ user-id=1249323 } | osu! | 15 | 65 |
+| ::{ flag=HK }:: ::Faputa::{ user-id=845733 } | osu!taiko, osu!mania | 7 | 43 |
+| ::{ flag=ID }:: ::FAMoss::{ user-id=7707789 } | osu!mania | 9 | 40 |
+| ::{ flag=ES }:: ::Deif::{ user-id=318565 } | osu!, osu!catch | 10 | 31 |
+| ::{ flag=PH }:: ::Jemzuu::{ user-id=7890134 } | osu!, osu!catch | 7 | 29 |
+| ::{ flag=IE }:: ::HEAVENLY MOON::{ user-id=13681283 } | osu!taiko | 10 | 28 |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | osu!taiko | 6 | 27 |
+| ::{ flag=AR }:: ::KyeX::{ user-id=15118934 } | osu!taiko | 5 | 27 |
+| ::{ flag=HK }:: ::Cynplytholowazy::{ user-id=3901754 } | osu!, osu!taiko, osu!mania | 7 | 25 |
+| ::{ flag=GB }:: ::JBHyperion::{ user-id=4879508 } | osu!catch | 5 | 24 |
+| ::{ flag=TR }:: ::skolodojko::{ user-id=11716851 } | osu!taiko | 3 | 17 |
+| ::{ flag=PL }:: ::Verti::{ user-id=10674528 } | osu!catch | 3 | 16 |
+| ::{ flag=US }:: ::op45667::{ user-id=21973491 } | osu!taiko | 4 | 16 |
+| ::{ flag=PH }:: ::Ayesha Altugle::{ user-id=1125647 } | osu! | 2 | 15 |
+| ::{ flag=GB }:: ::AJT::{ user-id=3181083 } | osu! | 5 | 15 |
+| ::{ flag=FI }:: ::Antti::{ user-id=13281473 } | osu!taiko | 4 | 15 |
+| ::{ flag=TH }:: ::Kukkai::{ user-id=7811952 } | osu!catch | 3 | 15 |
+| ::{ flag=US }:: ::Alchyr::{ user-id=4993032 } | osu!taiko | 6 | 14 |
+| ::{ flag=HK }:: ::autofanboy::{ user-id=636114 } | osu!catch | 4 | 14 |
+| ::{ flag=CN }:: ::Garden::{ user-id=2849992 } | osu! | 3 | 14 |
+| ::{ flag=UA }:: ::allein::{ user-id=6221637 } | osu! | 4 | 14 |
+| ::{ flag=US }:: ::meiqth::{ user-id=12565402 } | osu!taiko | 3 | 14 |
+| ::{ flag=NL }:: ::Boaz::{ user-id=13302996 } | osu!taiko | 5 | 14 |
+| ::{ flag=HU }:: ::Nytrocide\1::{ user-id=11327918 } | osu! | 4 | 14 |
+| ::{ flag=RU }:: ::PandaHero::{ user-id=1233255 } | osu! | 4 | 13 |
+| ::{ flag=RU }:: ::Daycore::{ user-id=5596337 } | osu! | 3 | 13 |
+| ::{ flag=NL }:: ::GIGACHAD::{ user-id=11081858 } | osu!taiko, osu!catch | 3 | 13 |
+| ::{ flag=HK }:: ::BlackBN::{ user-id=6291741 } | osu!taiko, osu!catch | 3 | 13 |
+| ::{ flag=TR }:: ::Burak::{ user-id=13213075 } | osu!taiko | 3 | 13 |
+| ::{ flag=DE }:: ::Lasse::{ user-id=896613 } | osu! | 3 | 12 |
+| ::{ flag=CL }:: ::ZiRoX::{ user-id=200768 } | osu!catch | 3 | 12 |
+| ::{ flag=UZ }:: ::M a r v o l l o::{ user-id=5504231 } | osu!, storyboarder | 2 | 12 |
+| ::{ flag=ID }:: ::frozz::{ user-id=7891266 } | osu! | 2 | 12 |
+| ::{ flag=KR }:: ::Down::{ user-id=4694602 } | osu! | 3 | 12 |
+| ::{ flag=GB }:: ::Horiiizon::{ user-id=8071438 } | osu!taiko | 2 | 12 |
+| ::{ flag=SG }:: ::arcpotato::{ user-id=12842392 } | osu!taiko | 1 | 12 |
+| ::{ flag=LT }:: ::Strategas::{ user-id=2971837 } | osu! | 4 | 11 |
+| ::{ flag=PH }:: ::-Rustyy::{ user-id=16355636 } | osu!catch | 1 | 11 |
+| ::{ flag=CN }:: ::cai\1ji\1ccc::{ user-id=20750584 } | osu!mania | 2 | 11 |
+| ::{ flag=US }:: ::Annabel::{ user-id=3388410 } | osu!taiko | 2 | 10 |
+| ::{ flag=GB }:: ::DeviousPanda::{ user-id=4966334 } | osu! | 2 | 10 |
+| ::{ flag=AU }:: ::Iceluin::{ user-id=3558897 } | osu! | 1 | 10 |
+| ::{ flag=DE }:: ::PaRaDogi::{ user-id=2054596 } | osu! | 4 | 10 |
+| ::{ flag=PH }:: ::Eyenine::{ user-id=1259391 } | osu!taiko | 2 | 10 |
+| ::{ flag=TH }:: ::Ph0eNiiXZ::{ user-id=9463721 } | osu!taiko | 4 | 10 |
+| ::{ flag=US }:: ::-NoName-::{ user-id=10400730 } | osu!mania | 2 | 10 |
+| ::{ flag=CA }:: ::Unlucky\1w::{ user-id=4820793 } | osu!, osu!catch | 3 | 10 |
+| ::{ flag=RU }:: ::SMOKELIND::{ user-id=9327302 } | osu! | 8 | 8 |
 
 While these folks may be in the spotlight, there's a lot of other people in the [**Mappers' Guild**](/wiki/Community/Mappers_Guild) who contribute too. If you're one of them, thanks for the help!
 

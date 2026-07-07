@@ -10,14 +10,14 @@ outdated: true
 
 *Aussi connu sous le nom de : **Blanket Formation***
 
-Nominateur : [m980](https://osu.ppy.sh/users/3288)
+Nominateur : ::m980::{ user-id=3288 }
 
 Les **blanket combos** sont constitués d'un slider ou d'un cercle comme base) avec un slider qui entoure cet objet.
 L'espacement entre ces deux objets est très important car ils ne doivent pas se superposer !
 
 ### Divebomb Combos
 
-Nominateur : [m980](https://osu.ppy.sh/users/3288)
+Nominateur : ::m980::{ user-id=3288 }
 
 Les **divebomb combos** sont constitués d'une ligne droite d'objets se déplaçant du haut de l'écran (ou du milieu) vers le bas.
 Cela donne l'impression que les objets sont en train de plonger.
@@ -28,7 +28,7 @@ Le dernier objet doit toujours être un slider.
 
 *Aussi connu sous le nom de : **Flower Formation***
 
-Nominateur : [0_o](https://osu.ppy.sh/users/56708)
+Nominateur : ::0\1o::{ user-id=56708 }
 
 Les **flower combos** consistent en 5 cercles ou plus qui sont tous placés autour d'un point central.
 Le point central peut être un cercle ou un slider.
@@ -42,7 +42,7 @@ Cependant, la différence ici est que cela oblige le joueur à longer les bords 
 
 ### Honeycomb Beats
 
-Nominateur : [mm201](https://osu.ppy.sh/users/30655)
+Nominateur : ::mm201::{ user-id=30655 }
 
 Le **honeycomb beats** est un stream de cercles qui sont généralement espacés d'un demi battement.
 Ceux-ci sont placés de manière à ce qu'ils s'insèrent tous dans une grille hexagonale.
@@ -54,7 +54,7 @@ Cela pourrait être combiné avec un faible AR (approach rate) pour confondre le
 
 ### Formation en étoile
 
-Nominateur : [Xgor](https://osu.ppy.sh/users/98661)
+Nominateur : ::Xgor::{ user-id=98661 }
 
 Une **formation en étoile** est une étoile à 5 branches, utilisant 5 ou 6 cercles (le sixième est généralement placé sous la première branche pour compléter l'étoile).
 L'étoile peut apparaître visuellement en suivant les followpoints.
@@ -68,14 +68,14 @@ Cependant, la différence ici est que cela oblige le joueur à passer à travers
 
 ### The Kickstream
 
-Nominateur : [Daru](https://osu.ppy.sh/users/32480)
+Nominateur : ::Daru::{ user-id=32480 }
 
 Le **the kickstream** utilise un kick slider (un slider très court) à l'intérieur d'un stream.
 Cela oblige le joueur à faire une pause au milieu du stream pour terminer le kick, avant de continuer le stream.
 
 ### Tornado Combos
 
-Nominateur : [Dragvon](https://osu.ppy.sh/users/126927)
+Nominateur : ::Dragvon::{ user-id=126927 }
 
 La **tornado formation** sont des ensembles de notes qui obligent le joueur à frapper des cercles dans un mouvement circulaire à un rythme élevé.
 Il s'agit essentiellement d'une combinaison de petits jumps (en termes de distance) et de streams (en termes de temps de réaction).
@@ -86,7 +86,7 @@ Il peut également s'agir d'une [formation en carrée](#formation-en-carrée) et
 
 *Aussi connu sous le nom de : **ztrot Formation***
 
-Nominateur : [Jarby](https://osu.ppy.sh/users/25615)
+Nominateur : ::Jarby::{ user-id=25615 }
 
 Le **ztrot spacing** utilise des battements cohérents placés dans une forme de cercle.
 La distance entre chaque note augmente, puis diminue.
@@ -112,13 +112,13 @@ La **formation en diamant** est identique à la [formation en carrée](#formatio
 
 ### Double Stacks
 
-Nominateur : [-Xero-](https://osu.ppy.sh/users/179314) et [F1r3tar](https://osu.ppy.sh/users/5590317)
+Nominateur : ::-Xero-::{ user-id=179314 } et [F1r3tar](https://osu.ppy.sh/users/5590317)
 
 Le **double stacks** utilise deux notes (ou une note et une extrémité du slider) qui sont empilées l'une sur l'autre.
 
 ### QQ Diamonds
 
-Nominateur : [Lybydose](https://osu.ppy.sh/users/64501)
+Nominateur : ::Lybydose::{ user-id=64501 }
 
 Le **qq diamonds** sont quatre cercles placés à un temps d'intervalle les uns des autres en forme de losange le long des quatre bords (et non des coins) de l'écran.
 C'est similaire à la [formation en diamant](#formation-en-diamant), mais ils sont placés aux extrémités de l'axe des x et de l'axe des y.
@@ -144,7 +144,7 @@ L'ordre des combos oblige le joueur à longer le carré plutôt que de le traver
 
 ### Formation en carrée v2
 
-Nominateur : Beuchi-chan et [mm201](https://osu.ppy.sh/users/30655)
+Nominateur : Beuchi-chan et ::mm201::{ user-id=30655 }
 
 La **formation en carré v2** est à peu près la même que la [formation en carré](#formation-en-carrée), mais l'ordre des cercles vous oblige à traverser le carré en diagonale.
 
@@ -152,7 +152,7 @@ La **formation en carré v2** est à peu près la même que la [formation en car
 
 *Aussi connu sous le nom de : **Triangle Formation***
 
-Nominateur : [kingcobra52](https://osu.ppy.sh/users/9934)
+Nominateur : ::kingcobra52::{ user-id=9934 }
 
 Le **triangle beats** est une technique de mapping très courante où 3 cercles sont disposés en triangle.
 L'ordre des 3 cercles et la taille du triangle n'ont pas d'importance.
@@ -161,7 +161,7 @@ L'ordre des 3 cercles et la taille du triangle n'ont pas d'importance.
 
 *Aussi connu sous le nom de : **Zig-Zag Formation***
 
-Nominateur : [0_o](https://osu.ppy.sh/users/56708)
+Nominateur : ::0\1o::{ user-id=56708 }
 
 Le **slider en zig-zag** sont constitués de 1/2 slider disposés en zig-zag vers l'intérieur.
 

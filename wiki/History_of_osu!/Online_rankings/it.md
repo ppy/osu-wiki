@@ -20,19 +20,19 @@ Numerosi giocatori hanno raggiunto il primo posto in ogni modalità di gioco con
 
 *Pagina principale: [Cronologia delle classifiche di osu!](osu!)*
 
-Al 3 agosto 2024, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
+Al 3 agosto 2024, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=AU }:: ::mrekk::{ user-id=7562902 }.
 
 ## ![][osu!taiko] osu!taiko
 
-Al 19 giugno 2024, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+Al 19 giugno 2024, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: ::shinchikuhome::{ user-id=3174184 }.
 
 ## ![][osu!catch] osu!catch
 
-Al 2 novembre 2024, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
+Al 2 novembre 2024, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=KR }:: ::qwhj79::{ user-id=7547506 }.
 
 ## ![][osu!mania] osu!mania
 
-Al 31 dicembre 2024, nella [classifica delle performance di osu!mania](https://osu.ppy.sh/rankings/mania/performance) il giocatore numero 1 è ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
+Al 31 dicembre 2024, nella [classifica delle performance di osu!mania](https://osu.ppy.sh/rankings/mania/performance) il giocatore numero 1 è ::{ flag=KR }:: ::Kalkai::{ user-id=10790649 }.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

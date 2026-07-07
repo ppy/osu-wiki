@@ -50,31 +50,31 @@ When [**Aoi**](https://osu.ppy.sh/beatmaps/artists/183) created [Welkius](https:
 
 Each of the tournament's maps can be played here:
 
-### [Kagetora. vs. ikaruga_nex - Gott der Apokalypse](https://osu.ppy.sh/beatmapsets/2226230) mapped by [Gordon](https://osu.ppy.sh/users/7856835) and [ajmosca](https://osu.ppy.sh/users/19884809)
+### [Kagetora. vs. ikaruga_nex - Gott der Apokalypse](https://osu.ppy.sh/beatmapsets/2226230) mapped by ::Gordon::{ user-id=7856835 } and [ajmosca](https://osu.ppy.sh/users/19884809)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/381/Corsace%20Open%202024/Kagetora.%20vs.%20ikaruga%27nex%20-%20Gott%20der%20Apokalypse.mp3" type="audio/mpeg">
 </audio>
 
-### [Kurokotei x kanemiko - astranelique](https://osu.ppy.sh/beatmapsets/2234516) mapped by [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654)
+### [Kurokotei x kanemiko - astranelique](https://osu.ppy.sh/beatmapsets/2234516) mapped by ::9ami::{ user-id=1499997 } and [oTwinkle](https://osu.ppy.sh/users/15095654)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/381/Corsace%20Open%202024/Kurokotei%20x%20kanemiko%20-%20astranelique.mp3" type="audio/mpeg">
 </audio>
 
-### [Aethral - Lacrima Elegy](https://osu.ppy.sh/beatmapsets/2230360) mapped by [Aeril](https://osu.ppy.sh/users/4334976)
+### [Aethral - Lacrima Elegy](https://osu.ppy.sh/beatmapsets/2230360) mapped by ::Aeril::{ user-id=4334976 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/381/Corsace%20Open%202024/Aethral%20-%20Lacrima%20Elegy.mp3" type="audio/mpeg">
 </audio>
 
-### [orangentle - Chromatolight](https://osu.ppy.sh/beatmapsets/2238833) mapped by [Uberzolik](https://osu.ppy.sh/users/1314547)
+### [orangentle - Chromatolight](https://osu.ppy.sh/beatmapsets/2238833) mapped by ::Uberzolik::{ user-id=1314547 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/381/Corsace%20Open%202024/orangentle%20-%20Chromatolight.mp3" type="audio/mpeg">
 </audio>
 
-### [N_dog - Cyclic Universe Theory](https://osu.ppy.sh/beatmapsets/2238742) mapped by [Mun](https://osu.ppy.sh/users/6699165) and [Zetera](https://osu.ppy.sh/users/587737)
+### [N_dog - Cyclic Universe Theory](https://osu.ppy.sh/beatmapsets/2238742) mapped by ::Mun::{ user-id=6699165 } and [Zetera](https://osu.ppy.sh/users/587737)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/381/Corsace%20Open%202024/N%27dog%20-%20Cyclic%20Universe%20Theory.mp3" type="audio/mpeg">
@@ -118,19 +118,19 @@ A few tracks are below, but the rest can be found on [**cygnus**'s Featured Arti
 
 If comments on [osu!'s changelog YouTube videos](https://www.youtube.com/@osugame) are to be believed, a lot of people like [**Good Kid**](https://osu.ppy.sh/beatmaps/artists/240)'s music. We have 4 more tunes as of today:
 
-### [Good Kid - Break](https://osu.ppy.sh/beatmapsets/2146620) mapped by [_ethan](https://osu.ppy.sh/users/16345483)
+### [Good Kid - Break](https://osu.ppy.sh/beatmapsets/2146620) mapped by ::\1ethan::{ user-id=16345483 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Break.mp3" type="audio/mpeg">
 </audio>
 
-### [Good Kid - Dance Class](https://osu.ppy.sh/beatmapsets/2207794) mapped by [chr](https://osu.ppy.sh/users/3810322)
+### [Good Kid - Dance Class](https://osu.ppy.sh/beatmapsets/2207794) mapped by ::chr::{ user-id=3810322 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Dance_Class.mp3" type="audio/mpeg">
 </audio>
 
-### [Good Kid - Premier Inn](https://osu.ppy.sh/beatmapsets/2238376) mapped by [Dino99](https://osu.ppy.sh/users/849555)
+### [Good Kid - Premier Inn](https://osu.ppy.sh/beatmapsets/2238376) mapped by ::Dino99::{ user-id=849555 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Premier_Inn.mp3" type="audio/mpeg">
@@ -140,8 +140,8 @@ If comments on [osu!'s changelog YouTube videos](https://www.youtube.com/@osugam
 
 There are two maps for this one:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/2185941) hosted by [boifrosty](https://osu.ppy.sh/users/12926684)
-- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/2253116) hosted by [Akiri-](https://osu.ppy.sh/users/19587411)
+- [osu! map](https://osu.ppy.sh/beatmapsets/2185941) hosted by ::boifrosty::{ user-id=12926684 }
+- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/2253116) hosted by ::Akiri-::{ user-id=19587411 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Summer.mp3" type="audio/mpeg">
@@ -183,9 +183,9 @@ Listen through a few here, and the rest on [**JOYLESS**'s Featured Artist listin
 
 Three maps are on the docket:
 
-- [osu! marathon](https://osu.ppy.sh/beatmapsets/1663147) mapped by [Niva](https://osu.ppy.sh/users/197805) and [Icekalt](https://osu.ppy.sh/beatmapsets/1663147)
-- [Two osu!taiko marathons](https://osu.ppy.sh/beatmapsets/1703070) mapped by [DEtermination21](https://osu.ppy.sh/users/17741163)
-- [4K osu!mania difficulty spread](https://osu.ppy.sh/beatmapsets/1895713) hosted by [AutotelicBrown](https://osu.ppy.sh/users/4238941)
+- [osu! marathon](https://osu.ppy.sh/beatmapsets/1663147) mapped by ::Niva::{ user-id=197805 } and [Icekalt](https://osu.ppy.sh/beatmapsets/1663147)
+- [Two osu!taiko marathons](https://osu.ppy.sh/beatmapsets/1703070) mapped by ::DEtermination21::{ user-id=17741163 }
+- [4K osu!mania difficulty spread](https://osu.ppy.sh/beatmapsets/1895713) hosted by ::AutotelicBrown::{ user-id=4238941 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/75/Songs/meganeko_-_The_Cyber_Grind.mp3" type="audio/mpeg">
@@ -209,7 +209,7 @@ Three maps are on the docket:
 
 Sometimes you just need one more track to round out a listing. That's why we picked [**Pratanallis**](https://osu.ppy.sh/beatmaps/artists/175)'s *Black Berserker*.
 
-### [Pratanallis - Black Berserker](https://osu.ppy.sh/beatmapsets/2204750) mapped by [tacoyaki5](https://osu.ppy.sh/users/24168968)
+### [Pratanallis - Black Berserker](https://osu.ppy.sh/beatmapsets/2204750) mapped by ::tacoyaki5::{ user-id=24168968 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/175/Songs/Pratanallis_feat._KOKOMI_-_Black_Berserker.mp3" type="audio/mpeg">
@@ -221,7 +221,7 @@ Sometimes you just need one more track to round out a listing. That's why we pic
 
 While most of you may recognise [**Release Hallucination**](https://osu.ppy.sh/beatmaps/artists/194) for their original track *VANITAS* for the *osu! World Cup 2023*, the band made another track for an osu! event one year later. *ASTERIA* from *Sidi's Winter Invitational* is officially part of osu!.
 
-### [Release Hallucination - ASTERIA](https://osu.ppy.sh/beatmapsets/2301277) mapped by [Aeril](https://osu.ppy.sh/users/4334976) and [FrenZ](https://osu.ppy.sh/users/9531903)
+### [Release Hallucination - ASTERIA](https://osu.ppy.sh/beatmapsets/2301277) mapped by ::Aeril::{ user-id=4334976 } and [FrenZ](https://osu.ppy.sh/users/9531903)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/194/Songs/Release_Hallucination_-_ASTERIA.mp3" type="audio/mpeg">
@@ -263,7 +263,7 @@ osu! wouldn't be a rhythm game without music like what [**seatrus**](https://osu
 
 [Veil of Ash](https://osu.ppy.sh/beatmapsets/2391791) debuted just a few weeks ago as one of this year's osu!catch original tracks, but that's not the end of what [**Symholic**](https://osu.ppy.sh/beatmaps/artists/130) has to offer. We have two extra tracks for their listing: 
 
-### [Symholic - Kimi ni Tewatashita Ichirin no Hana](https://osu.ppy.sh/beatmapsets/2212213) mapped by [dahkjdas](https://osu.ppy.sh/users/5062396)
+### [Symholic - Kimi ni Tewatashita Ichirin no Hana](https://osu.ppy.sh/beatmapsets/2212213) mapped by ::dahkjdas::{ user-id=5062396 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/130/Ansrail%20(Symholic%2011th%20CD)/Symholic%20-%20Kimi%20ni%20Tewatashita%20Ichirin%20no%20Hana.mp3" type="audio/mpeg">
@@ -315,7 +315,7 @@ Everything is on [**Tenchio**'s Featured Artist listing](https://osu.ppy.sh/beat
 
 One more artist to round things out: the one and only [**Trina Lydia**](https://osu.ppy.sh/beatmaps/artists/440) with their original track for *One Key World Cup 2025*:
 
-### [Trina Lydia - Late-Night Rocket Ride](https://osu.ppy.sh/beatmapsets/2377074) mapped by [Jaye](https://osu.ppy.sh/users/4841352)
+### [Trina Lydia - Late-Night Rocket Ride](https://osu.ppy.sh/beatmapsets/2377074) mapped by ::Jaye::{ user-id=4841352 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/440/Late-Night%20Rocket%20Ride/Trina%20Lydia%20-%20Late-Night%20Rocket%20Ride.mp3" type="audio/mpeg">

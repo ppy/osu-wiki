@@ -12,7 +12,7 @@ The [Wai-con](https://en.wikipedia.org/wiki/Wai-Con) anime convention in Perth h
 
 ## March
 
-Through February to March, [peppy](https://osu.ppy.sh/users/2) organised an art competition dedicated to banners for in-game challenges, with the prize being the art's official recognition and a year of [osu!supporter](/wiki/osu!supporter) or physical goods. After a [community voting](https://osu.ppy.sh/community/forums/topics/27112?n=1) round, the osu! team made the final choice.[^art-challenge]
+Through February to March, ::peppy::{ user-id=2 } organised an art competition dedicated to banners for in-game challenges, with the prize being the art's official recognition and a year of [osu!supporter](/wiki/osu!supporter) or physical goods. After a [community voting](https://osu.ppy.sh/community/forums/topics/27112?n=1) round, the osu! team made the final choice.[^art-challenge]
 
 On March 8, an osu! update brought considerable performance and audio improvements to the game.[^stable-b1485]
 
@@ -28,7 +28,7 @@ On August 2, all users were granted a single username change. To change username
 
 The [`!report`](/wiki/BanchoBot#report) chat command was added to [Bancho](/wiki/BanchoBot), which allowed people to notify chat moderators about users misbehaving in the chat.[^bancho-report]
 
-[nardii](https://osu.ppy.sh/users/1017) gave peppy access to their [Twitter](https://twitter.com) account [@osugame](https://twitter.com/osugame) which was used for general osu! news from then on.[^twitter-osugame]
+::nardii::{ user-id=1017 } gave peppy access to their [Twitter](https://twitter.com) account [@osugame](https://twitter.com/osugame) which was used for general osu! news from then on.[^twitter-osugame]
 
 ## September
 

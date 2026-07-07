@@ -116,5 +116,5 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 ![osu!catch logo in the Special Modes](/wiki/shared/Ctb_logo.jpg "Catch the Beat logo in Special Mode")
 
 - Until April 10th 2012, osu!catch maps could not be ranked or be included in ranked maps. However, this is no longer the case and mappers may make and rank osu!catch-specific difficulties and mapsets, provided they follow the [ranking criteria](/wiki/Ranking_criteria/osu!catch).
-- The first ranked beatmap which contains at least one osu!catch difficulty is [Yousei Teikoku - Dare so Ka no Gekka (TV Size)](https://osu.ppy.sh/beatmapsets/13676), with the mapset being hosted by ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) and the osu!catch guest difficulty mapped by ::{ flag=CN }:: [Uran](https://osu.ppy.sh/users/133302).
-- The first ranked osu!catch-only beatmap is [Rita - Hajimari no Toki](https://osu.ppy.sh/beatmapsets/91485) which is hosted and made by - ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565).
+- The first ranked beatmap which contains at least one osu!catch difficulty is [Yousei Teikoku - Dare so Ka no Gekka (TV Size)](https://osu.ppy.sh/beatmapsets/13676), with the mapset being hosted by ::{ flag=CN }:: ::NatsumeRin::{ user-id=151679 } and the osu!catch guest difficulty mapped by ::{ flag=CN }:: ::Uran::{ user-id=133302 }.
+- The first ranked osu!catch-only beatmap is [Rita - Hajimari no Toki](https://osu.ppy.sh/beatmapsets/91485) which is hosted and made by - ::{ flag=ES }:: ::Deif::{ user-id=318565 }.

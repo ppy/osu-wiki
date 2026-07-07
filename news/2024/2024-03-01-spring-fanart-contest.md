@@ -41,7 +41,7 @@ As always, a selection of the top-voted finalists will make it to the main menu 
 - **Do not leave the dotted osu! cookie template visible in your submission.** Let's keep the streak going as strong as ever.
 - **If you're using characters from other intellectual properties, do so sparingly.** All the official osu! mascots and the community mascots are fair game, but please avoid using excessive representations of characters from other worlds or franchises in your work — the contest is about osu! foremost, after all. Remember also that the community mascots are someone else's treasured creation, so please treat them with the same respect that you'd treat your own OCs and work.
 
-*Header and promotional artwork by finalist [xxxxxx2800](https://osu.ppy.sh/users/4084853) from the [Spring Indoors 2020 Fanart Contest](https://osu.ppy.sh/community/contests/92)!*
+*Header and promotional artwork by finalist ::xxxxxx2800::{ user-id=4084853 } from the [Spring Indoors 2020 Fanart Contest](https://osu.ppy.sh/community/contests/92)!*
 
 ---
 

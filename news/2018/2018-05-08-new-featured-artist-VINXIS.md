@@ -9,7 +9,7 @@ Continuing the recent trend of getting homegrown talent straight from the osu! c
 
 [![](https://assets.ppy.sh/artists/22/header.jpg)](https://osu.ppy.sh/beatmaps/artists/22)
 
-A veteran osu! player and accomplished mapper to boot, **[VINXIS](https://osu.ppy.sh/users/4323406)** has lived and even helped create the moments that make osu! really tick. On days that aren't particularly sidetracked, he's experimenting with new sounds in his music, or just generally pottering around osu! and enjoying his time with friends.
+A veteran osu! player and accomplished mapper to boot, **::VINXIS::{ user-id=4323406 }** has lived and even helped create the moments that make osu! really tick. On days that aren't particularly sidetracked, he's experimenting with new sounds in his music, or just generally pottering around osu! and enjoying his time with friends.
 
 Beyond that, VINXIS has also been a major force in the osu! community at large, having helped organize and run major events like OHC and the Mapper's Choice Awards. There's very little that he *hasn't* done - you're bound to have seen or heard of him somewhere!
 
@@ -25,7 +25,7 @@ Here's just a sample of what we've got in store for you from his body of work:
 
 <div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/-40fLtf9Hio?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div><br><br>
 
-> Perhaps one of his most iconic tracks, Sidetracked Day is something of an osu! cultural institution at this point. Made famous by the [titular map](https://osu.ppy.sh/beatmapsets/728276) by [SnowNiNo\_](https://osu.ppy.sh/users/2506267), Sidetracked Day builds and just keeps on building right until the very end.
+> Perhaps one of his most iconic tracks, Sidetracked Day is something of an osu! cultural institution at this point. Made famous by the [titular map](https://osu.ppy.sh/beatmapsets/728276) by ::SnowNiNo\_::{ user-id=2506267 }, Sidetracked Day builds and just keeps on building right until the very end.
 
 *A short version of this track is available.*
 

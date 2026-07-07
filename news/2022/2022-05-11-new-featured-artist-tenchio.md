@@ -23,7 +23,7 @@ It should come as no surprise that these dense and complex songs have been most 
 
 ### skeleton (Lettuce ver.)
 
-Try out [this scream-filled osu!mania map](https://osu.ppy.sh/beatmapsets/1749371) hosted appropriately by [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1709635) hosted by [skolodojko](https://osu.ppy.sh/users/11716851)!
+Try out [this scream-filled osu!mania map](https://osu.ppy.sh/beatmapsets/1749371) hosted appropriately by ::AHHHHHHHHHHHHHH::{ user-id=8249608 } or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1709635) hosted by ::skolodojko::{ user-id=11716851 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/265/skeleton%20(Lettuce%20ver.)%2FTenchio%20-%20skeleton%20(Lettuce%20ver.).mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Try out [this scream-filled osu!mania map](https://osu.ppy.sh/beatmapsets/174937
 
 ### Avi Avidan's Speech
 
-Test your drumming with [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1431573) hosted by [Gamelan4](https://osu.ppy.sh/users/9856910)!
+Test your drumming with [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1431573) hosted by ::Gamelan4::{ user-id=9856910 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/265/A.S.S.L.O.A.D%2FTenchio%20-%20Avi%20Avidan's%20Speech.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Test your drumming with [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1431
 
 ### reDiSConnect
 
-And here's one more [osu!taiko map](https://osu.ppy.sh/beatmapsets/1669641) hosted yet again by [skolodojko](https://osu.ppy.sh/users/11716851)!
+And here's one more [osu!taiko map](https://osu.ppy.sh/beatmapsets/1669641) hosted yet again by ::skolodojko::{ user-id=11716851 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/265/Crosshatching%20Holographs%20of%20a%20Cityscape%20(Antiopus)%2FTenchio%20-%20reDiSConnect.mp3" type="audio/mpeg">

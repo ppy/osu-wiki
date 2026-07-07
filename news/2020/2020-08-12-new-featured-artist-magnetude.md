@@ -17,7 +17,7 @@ Don't be left wondering what all the hype's about - see for yourself with the pr
 
 ### Broken
 
-Check out [this single difficulty set](https://osu.ppy.sh/beatmapsets/729559) by [Asonate](https://osu.ppy.sh/users/2907231)!
+Check out [this single difficulty set](https://osu.ppy.sh/beatmapsets/729559) by ::Asonate::{ user-id=2907231 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/94/previews/2510.mp3" type="audio/mpeg">

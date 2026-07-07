@@ -72,7 +72,7 @@ Die Kollektion bestand aus einer Breite an Produkten wie zum Beispiel:
 *Siehe auch: [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139)*\
 *Für Hilfe zu diesem Produkt, siehe: [Shoparchiv § osu!tablet](/wiki/Help_centre/Store/Store_archive#osu-tablet)*
 
-Das **osu!tablet** war ein offizielles, von osu! vertriebenes Grafiktablett, das in Zusammenarbeit mit der Elektronikfirma [HUION](https://www.huion.com/) entstand. Es wurde von ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) entworfen und als eine erschwingliche Alternative für die, die einfach ein Grafiktablett für osu! haben wollten, herausgebracht.
+Das **osu!tablet** war ein offizielles, von osu! vertriebenes Grafiktablett, das in Zusammenarbeit mit der Elektronikfirma [HUION](https://www.huion.com/) entstand. Es wurde von ::{ flag=MY }:: ::flyte::{ user-id=3103765 } entworfen und als eine erschwingliche Alternative für die, die einfach ein Grafiktablett für osu! haben wollten, herausgebracht.
 
 Das Produkt wurde in zwei Ausführungen angeboten: Das originale "[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)", welches zuerst 2013 verkauft wurde. Das verbesserte [osu!tablet v2](https://twitter.com/ppy/status/744778218524160000) kam ab 2016 auf den Markt, bevor es im Jahre 2017 im Rahmen einer [Anpassung der Entwicklungsschwerpunkte](https://twitter.com/ppy/status/846190076853870592) eingestellt wurde.
 

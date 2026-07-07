@@ -13,7 +13,7 @@ Taking notes from major rhythm game music producers like [Chroma](https://osu.pp
 
 Speaking of albums, **Zenpaku** joins our Featured Artist catalogue today while simultaneously releasing his newest mini-album *Odyssey Cycle* (which is available for mapping, of course). Take a look at the full **7** song list over on [**Zenpaku**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/316)!
 
-[Reform](https://osu.ppy.sh/users/3723568) has been mapping **Zenpaku**'s magic since the beginning. Take a peek at this video featuring his 9 star beatmap of [Zenpaku - Enkindle feat. vally.exe](https://osu.ppy.sh/beatmapsets/1762718), then explore the rest of what's up for grabs:
+::Reform::{ user-id=3723568 } has been mapping **Zenpaku**'s magic since the beginning. Take a peek at this video featuring his 9 star beatmap of [Zenpaku - Enkindle feat. vally.exe](https://osu.ppy.sh/beatmapsets/1762718), then explore the rest of what's up for grabs:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ Speaking of albums, **Zenpaku** joins our Featured Artist catalogue today while 
 
 ### Zenpaku - Enkindle feat. vally.exe
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1762718) hosted by [Reform](https://osu.ppy.sh/users/3723568)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1762718) hosted by ::Reform::{ user-id=3723568 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/316/Songs/Zenpaku%20-%20Enkindle%20feat.%20vally.exe.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1762718)
 
 ### Zenpaku - Effluxion feat. Ririsya
 
-Or check out [the map that introduced **Zenpaku** to osu!](https://osu.ppy.sh/beatmapsets/1714509), also hosted by [Reform](https://osu.ppy.sh/users/3723568)!
+Or check out [the map that introduced **Zenpaku** to osu!](https://osu.ppy.sh/beatmapsets/1714509), also hosted by ::Reform::{ user-id=3723568 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/316/Songs/Zenpaku%20-%20Effluxion%20feat.%20Ririsya.mp3" type="audio/mpeg">

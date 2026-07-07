@@ -17,7 +17,7 @@ Use your ears to experience the previews below, along with your sight, touch, an
 
 ### [DraGonis x Ghost Voices - Stargazing in Liyue](https://assets.ppy.sh/artists/488/Songs/DraGonis%20x%20Ghost%20Voices%20-%20Stargazing%20in%20Liyue.osz)
 
-Try out [this relaxing spread](https://osu.ppy.sh/beatmapsets/2361261) hosted by [Fufla](https://osu.ppy.sh/users/14367317)!
+Try out [this relaxing spread](https://osu.ppy.sh/beatmapsets/2361261) hosted by ::Fufla::{ user-id=14367317 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

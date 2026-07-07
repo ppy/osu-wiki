@@ -29,7 +29,7 @@ Not sure how to start your next map? These might give you some inspiration:
 
 ### [sugosugiii - Zyphorath Quixalune](https://assets.ppy.sh/artists/442/Zyphorath%20Quixalune/sugosugiii%20-%20Zyphorath%20Quixalune.osz)
 
-Try out [the *3 Digit World Cup* Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2337098) mapped by [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654)!
+Try out [the *3 Digit World Cup* Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2337098) mapped by ::9ami::{ user-id=1499997 } and [oTwinkle](https://osu.ppy.sh/users/15095654)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/442/Zyphorath%20Quixalune/sugosugiii%20-%20Zyphorath%20Quixalune.mp3">
@@ -37,7 +37,7 @@ Try out [the *3 Digit World Cup* Grand Finals tiebreaker](https://osu.ppy.sh/bea
 
 ### [sugosugiii - Achromatism Entangle](https://assets.ppy.sh/artists/442/Achromatism%20Entangle/sugosugiii%20-%20Achromatism%20Entangle.osz)
 
-Or try [the Semifinals tiebreaker from *VNMC2024*](https://osu.ppy.sh/beatmapsets/2226716) mapped by [Micleak](https://osu.ppy.sh/users/16140674), [Lott](https://osu.ppy.sh/users/13821222), [ERA Aracium](https://osu.ppy.sh/users/15882740), [V1do-](https://osu.ppy.sh/users/17527968), and [Polarin](https://osu.ppy.sh/users/15104680)!
+Or try [the Semifinals tiebreaker from *VNMC2024*](https://osu.ppy.sh/beatmapsets/2226716) mapped by ::Micleak::{ user-id=16140674 }, [Lott](https://osu.ppy.sh/users/13821222), ::ERA Aracium::{ user-id=15882740 }, [V1do-](https://osu.ppy.sh/users/17527968), and ::Polarin::{ user-id=15104680 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/442/Achromatism%20Entangle/sugosugiii%20-%20Achromatism%20Entangle.mp3">
@@ -45,7 +45,7 @@ Or try [the Semifinals tiebreaker from *VNMC2024*](https://osu.ppy.sh/beatmapset
 
 ### [sugosugiii - rightnow!](https://assets.ppy.sh/artists/442/rightnow!/sugosugiii%20-%20rightnow!.osz)
 
-Check out [this map from *5 Digit World Cup*](https://osu.ppy.sh/beatmapsets/2351121) hosted by [Elcheer](https://osu.ppy.sh/users/4420014)!
+Check out [this map from *5 Digit World Cup*](https://osu.ppy.sh/beatmapsets/2351121) hosted by ::Elcheer::{ user-id=4420014 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/442/rightnow!/sugosugiii%20-%20rightnow!.mp3">
@@ -53,7 +53,7 @@ Check out [this map from *5 Digit World Cup*](https://osu.ppy.sh/beatmapsets/235
 
 ### [SiLiS & sugosugiii (feat. InabaYap) - Keisuteknon](https://assets.ppy.sh/artists/442/Keisuteknon/SiLiS%20%26%20sugosugiii%20(feat.%20InabaYap)%20-%20Keisuteknon.osz)
 
-Another tournament map! Try [this map from *ASC2024*](https://osu.ppy.sh/beatmapsets/2222935) mapped by [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), [TheFunk](https://osu.ppy.sh/users/13981991), and [\[GB\]Rick](https://osu.ppy.sh/users/25263357)!
+Another tournament map! Try [this map from *ASC2024*](https://osu.ppy.sh/beatmapsets/2222935) mapped by ::\[Crz\]FolAH1217::{ user-id=6232458 }, [TheFunk](https://osu.ppy.sh/users/13981991), and ::\[GB\]Rick::{ user-id=25263357 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/442/Keisuteknon/SiLiS%20%26%20sugosugiii%20(feat.%20InabaYap)%20-%20Keisuteknon.mp3">
@@ -61,7 +61,7 @@ Another tournament map! Try [this map from *ASC2024*](https://osu.ppy.sh/beatmap
 
 ### [sugosugiii - Love me for "Eternity"](https://assets.ppy.sh/artists/442/Bokura%20no%20Yume%20wa%20Genjitsu%20ni%20Nattanda/sugosugiii%20-%20Love%20me%20for%20Eternity.osz)
 
-Finish off with [this map from the osu! LAN *Bingsu!*](https://osu.ppy.sh/beatmapsets/2310205) mapped by [girltekk](https://osu.ppy.sh/users/6248691)!
+Finish off with [this map from the osu! LAN *Bingsu!*](https://osu.ppy.sh/beatmapsets/2310205) mapped by ::girltekk::{ user-id=6248691 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/442/Bokura%20no%20Yume%20wa%20Genjitsu%20ni%20Nattanda/sugosugiii%20-%20Love%20me%20for%20Eternity.mp3">

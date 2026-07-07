@@ -26,19 +26,19 @@ Banyak pemain telah memegang peringkat #1 di setiap mode permainan dengan sistem
 
 *Halaman utama: [Sejarah peringkat osu!](osu!)*
 
-Mulai 3 Agustus 2024, di [peringkat *performance* osu!](https://osu.ppy.sh/rankings/osu/performance) pemain peringkat #1 adalah ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
+Mulai 3 Agustus 2024, di [peringkat *performance* osu!](https://osu.ppy.sh/rankings/osu/performance) pemain peringkat #1 adalah ::{ flag=AU }:: ::mrekk::{ user-id=7562902 }.
 
 ## ![][osu!taiko] osu!taiko
 
-Mulai 19 Juni 2024, pada [peringkat *performance* osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) pemain peringkat #1 adalah ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+Mulai 19 Juni 2024, pada [peringkat *performance* osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) pemain peringkat #1 adalah ::{ flag=JP }:: ::shinchikuhome::{ user-id=3174184 }.
 
 ## ![][osu!catch] osu!catch
 
-Mulai 2 November 2024, pada [peringkat *performance* osu!taiko](https://osu.ppy.sh/rankings/fruits/performance) pemain peringkat #1 adalah ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
+Mulai 2 November 2024, pada [peringkat *performance* osu!taiko](https://osu.ppy.sh/rankings/fruits/performance) pemain peringkat #1 adalah ::{ flag=KR }:: ::qwhj79::{ user-id=7547506 }.
 
 ## ![][osu!mania] osu!mania
 
-Mulai 31 Desember 2024, pada [peringkat *performance* osu!mania](https://osu.ppy.sh/rankings/mania/performance) pemain peringkat #1 adalah ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
+Mulai 31 Desember 2024, pada [peringkat *performance* osu!mania](https://osu.ppy.sh/rankings/mania/performance) pemain peringkat #1 adalah ::{ flag=KR }:: ::Kalkai::{ user-id=10790649 }.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

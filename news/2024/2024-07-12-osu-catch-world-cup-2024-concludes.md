@@ -214,7 +214,7 @@ As usual, we interview people in order to get an insight into the going-ons behi
 
 ![](/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/secre-lexii-and-dahcreeper.png)
 
-[Secre](https://osu.ppy.sh/users/2306637), [Lexii](https://osu.ppy.sh/users/7226149) and [Dahcreeper](https://osu.ppy.sh/users/6926006) competed for the winning team of the osu!catch World Cup 2024, the United States.
+::Secre::{ user-id=2306637 }, [Lexii](https://osu.ppy.sh/users/7226149) and ::Dahcreeper::{ user-id=6926006 } competed for the winning team of the osu!catch World Cup 2024, the United States.
 
 ---
 
@@ -224,7 +224,7 @@ As usual, we interview people in order to get an insight into the going-ons behi
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
-Secre, you took over as captain for the USA in 2019 (with the exception of 2020 with [rostld](https://osu.ppy.sh/users/4365562) leading). Since then your team has amassed an impressive run of 3 straight podium performances ('21–'24) leading up to your win this year. Considering this experience, what traits do you think any successful captain must have?
+Secre, you took over as captain for the USA in 2019 (with the exception of 2020 with ::rostld::{ user-id=4365562 } leading). Since then your team has amassed an impressive run of 3 straight podium performances ('21–'24) leading up to your win this year. Considering this experience, what traits do you think any successful captain must have?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2306637" style="background-image: url('/wiki/shared/avatars/Secre.jpg')"></a>
 
@@ -286,9 +286,9 @@ I'm not exactly sure what the future holds cause I've been playing cwc for a whi
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/2306637">Secre</a></p>
 
-For the future of the USA CWC roster, it's pretty uncertain right now. I think I can say without a doubt that we will not be running back the same 6 man roster that we did this year. I think [Colin](https://osu.ppy.sh/users/5502521), [Trent](https://osu.ppy.sh/users/3438241), and [rostld](https://osu.ppy.sh/users/4365562) are all going to be taking a step back from world cups.
+For the future of the USA CWC roster, it's pretty uncertain right now. I think I can say without a doubt that we will not be running back the same 6 man roster that we did this year. I think ::Colin::{ user-id=5502521 }, [Trent](https://osu.ppy.sh/users/3438241), and ::rostld::{ user-id=4365562 } are all going to be taking a step back from world cups.
 
-As for myself, [dahcreeper](https://osu.ppy.sh/users/6926006), and [lexii](https://osu.ppy.sh/users/7226149), there's the potential we will keep playing together as long as the others do. It's been a long time for all of us though, and we are really looking for new players to take the reigns. Consider this part of my plea for new USA players to step up to the task!
+As for myself, ::dahcreeper::{ user-id=6926006 }, and [lexii](https://osu.ppy.sh/users/7226149), there's the potential we will keep playing together as long as the others do. It's been a long time for all of us though, and we are really looking for new players to take the reigns. Consider this part of my plea for new USA players to step up to the task!
 
 </div>
 
@@ -298,7 +298,7 @@ As for myself, [dahcreeper](https://osu.ppy.sh/users/6926006), and [lexii](https
 
 ![](/wiki/shared/news/2024-07-12-osu-catch-world-cup-2024-concludes/wwwww-and-yoshi_green.png)
 
-[wwwww](https://osu.ppy.sh/users/8434466) and [Yoshi_green](https://osu.ppy.sh/users/1035891) assisted in various tasks as "advisors" for the osu!catch World Cup 2024.
+::wwwww::{ user-id=8434466 } and [Yoshi_green](https://osu.ppy.sh/users/1035891) assisted in various tasks as "advisors" for the osu!catch World Cup 2024.
 
 ---
 

@@ -25,9 +25,9 @@ Take a dive into [**Mage**'s Featured Artist listing](https://osu.ppy.sh/beatmap
 
 Check out any of these stellar maps:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/1470072) hosted by drum & bass aficionado [Strategas](https://osu.ppy.sh/users/2971837)
-- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/1637697) hosted by [Jole](https://osu.ppy.sh/users/2883132)
-- [7K osu!mania map](https://osu.ppy.sh/beatmapsets/1590107) hosted by [-NoName-](https://osu.ppy.sh/users/10400730)
+- [osu! map](https://osu.ppy.sh/beatmapsets/1470072) hosted by drum & bass aficionado ::Strategas::{ user-id=2971837 }
+- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/1637697) hosted by ::Jole::{ user-id=2883132 }
+- [7K osu!mania map](https://osu.ppy.sh/beatmapsets/1590107) hosted by ::-NoName-::{ user-id=10400730 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/258/Songs/Mage%20-%20The%20Words%20I%20Never%20Said%20in%20D%26B.mp3" type="audio/mpeg">

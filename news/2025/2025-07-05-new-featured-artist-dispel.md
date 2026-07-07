@@ -9,7 +9,7 @@ Send only your warmest welcomes to **Dispel**, our new Featured Artist!
 
 ![](https://assets.ppy.sh/artists/486/header.jpg)
 
-Indonesian producer and [osu! player](https://osu.ppy.sh/users/15205070) **Dispel** took the optimal music production route: immediately after learning classical piano, they shifted towards the realm of rhythm game music. Inspired by *Laur* and various artcore/gothic hardcore tunes, **Dispel** continuously develops their own distinct sound in the evolving music game scene, and is supported by their production circle *LUMiNOZ* (which is full of [even more osu! players](https://osu.ppy.sh/teams/26313)!).
+Indonesian producer and ::osu! player::{ user-id=15205070 } **Dispel** took the optimal music production route: immediately after learning classical piano, they shifted towards the realm of rhythm game music. Inspired by *Laur* and various artcore/gothic hardcore tunes, **Dispel** continuously develops their own distinct sound in the evolving music game scene, and is supported by their production circle *LUMiNOZ* (which is full of [even more osu! players](https://osu.ppy.sh/teams/26313)!).
 
 [**Dispel**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/486) has pre-timed `.osz`s for **11** tracks (a.k.a. everything you could ever want to map).
 
@@ -23,7 +23,7 @@ Seeing as **Dispel** is an osu!mania player, it's only fitting that their songs 
 
 ### [Dispel - Weiss Schnabel](https://assets.ppy.sh/artists/486/Songs/Dispel%20-%20Weiss%20Schnabel.osz)
 
-Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2338118) hosted by [Raisky757](https://osu.ppy.sh/users/14635553)!
+Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2338118) hosted by ::Raisky757::{ user-id=14635553 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/486/Songs/Dispel%20-%20Weiss%20Schnabel.mp3">
@@ -31,7 +31,7 @@ Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2338118) hosted b
 
 ### [Dispel vs. Rakakun- - Funkotism](https://assets.ppy.sh/artists/486/Funkotism/Dispel%20vs.%20Rakakun-%20-%20Funkotism.osz)
 
-Experience [the artist](https://osu.ppy.sh/users/15205070)'s interpetation of their own music through [this 4K map](https://osu.ppy.sh/beatmapsets/2120597)!
+Experience ::the artist::{ user-id=15205070 }'s interpetation of their own music through [this 4K map](https://osu.ppy.sh/beatmapsets/2120597)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/486/Funkotism/Dispel%20vs.%20Rakakun-%20-%20Funkotism.mp3">
@@ -39,7 +39,7 @@ Experience [the artist](https://osu.ppy.sh/users/15205070)'s interpetation of th
 
 ### [KURORYU vs. Dispel - Miserea](https://assets.ppy.sh/artists/486/Miserea/KURORYU%20vs.%20Dispel%20-%20Miserea.osz)
 
-[This 4K + 7K map](https://osu.ppy.sh/beatmapsets/2329509) hosted by [-\[ Peachy \]-](https://osu.ppy.sh/users/5238367) is anything but misery.
+[This 4K + 7K map](https://osu.ppy.sh/beatmapsets/2329509) hosted by ::-\[ Peachy \]-::{ user-id=5238367 } is anything but misery.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/486/Miserea/KURORYU%20vs.%20Dispel%20-%20Miserea.mp3">
@@ -47,7 +47,7 @@ Experience [the artist](https://osu.ppy.sh/users/15205070)'s interpetation of th
 
 ### [Rakakun- & Dispel - Shitsusei (feat. Altair Aquila)](https://assets.ppy.sh/artists/486/Shitsusei/Rakakun-%20%26%20Dispel%20-%20Shitsusei%20(feat.%20Altair%20Aquila).osz)
 
-Relax with [this simple 4K map](https://osu.ppy.sh/beatmapsets/2246218) hosted by [FerdiXIA-](https://osu.ppy.sh/users/9030389)!
+Relax with [this simple 4K map](https://osu.ppy.sh/beatmapsets/2246218) hosted by ::FerdiXIA-::{ user-id=9030389 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/486/Shitsusei/Rakakun-%20%26%20Dispel%20-%20Shitsusei%20(feat.%20Altair%20Aquila).mp3">
@@ -55,7 +55,7 @@ Relax with [this simple 4K map](https://osu.ppy.sh/beatmapsets/2246218) hosted b
 
 ### [Dispel - Hyacinth](https://assets.ppy.sh/artists/486/Songs/Dispel%20-%20Hyacinth.osz)
 
-Close things out with [this 4K difficulty spread](https://osu.ppy.sh/beatmapsets/2050409) hosted by [**Dispel**](https://osu.ppy.sh/users/15205070)!
+Close things out with [this 4K difficulty spread](https://osu.ppy.sh/beatmapsets/2050409) hosted by ::**Dispel**::{ user-id=15205070 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/486/Songs/Dispel%20-%20Hyacinth.mp3">

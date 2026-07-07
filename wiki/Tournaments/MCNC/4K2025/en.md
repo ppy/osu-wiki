@@ -45,13 +45,13 @@ The osu!mania 4K Chinese National Cup 2025 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227) |
-| Mappool selector | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[Crz\]Flandre](https://osu.ppy.sh/users/6949941) |
-| Custom mapper | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=CN }:: [Ycloki](https://osu.ppy.sh/users/10861624), ::{ flag=CN }:: [OxalicAcid](https://osu.ppy.sh/users/17146433), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [Muses](https://osu.ppy.sh/users/9705896), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071), ::{ flag=CN }:: [Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [0DZ0](https://osu.ppy.sh/users/28156707), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=CN }:: [Doshowz](https://osu.ppy.sh/users/5799435), ::{ flag=CN }:: [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=KR }:: [Nicknem_](https://osu.ppy.sh/users/16615040), ::{ flag=KR }:: [frolica](https://osu.ppy.sh/users/4324195), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516), ::{ flag=ES }:: [Ska](https://osu.ppy.sh/users/10313023) |
-| Mappool playtester | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [OxalicAcid](https://osu.ppy.sh/users/17146433), ::{ flag=CN }:: [\[Crz\]Flandre](https://osu.ppy.sh/users/6949941), ::{ flag=CN }:: [Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=CN }:: [FenggeTGOB](https://osu.ppy.sh/users/35928532) |
-| Graphics | ::{ flag=CN }:: [Dr_Tissues](https://osu.ppy.sh/users/5106681) |
-| Referees | ::{ flag=ES }:: [\[AR\]lv3plane](https://osu.ppy.sh/users/15964029), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [CapooFanboy](https://osu.ppy.sh/users/27235859), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [FenggeTGOB](https://osu.ppy.sh/users/35928532), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [Mrhbyy](https://osu.ppy.sh/users/16491593), ::{ flag=CN }:: [Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [Shuji_Machu](https://osu.ppy.sh/users/11264367), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=HK }:: [wanderloop](https://osu.ppy.sh/users/13858681) |
-| Streamers | ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [CapooFanboy](https://osu.ppy.sh/users/27235859), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [Mrhbyy](https://osu.ppy.sh/users/16491593), ::{ flag=CN }:: [Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [Shiki-Natsume](https://osu.ppy.sh/users/6338477), ::{ flag=CN }:: [Shuji_Machu](https://osu.ppy.sh/users/11264367) |
+| Host | ::{ flag=CN }:: ::FcEazy::{ user-id=7825227 } |
+| Mappool selector | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 }, ::{ flag=CN }:: ::Yuiesta::{ user-id=13953619 }, ::{ flag=CN }:: ::\[Crz\]Flandre::{ user-id=6949941 } |
+| Custom mapper | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 }, ::{ flag=CN }:: ::AelSan::{ user-id=14095291 }, ::{ flag=CN }:: ::Yuiesta::{ user-id=13953619 }, ::{ flag=HK }:: ::Alptraum::{ user-id=26496648 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user-id=11279273 }, ::{ flag=CN }:: ::gzdongsheng::{ user-id=8660315 }, ::{ flag=ID }:: ::eZmmR::{ user-id=8647138 }, ::{ flag=CN }:: ::Ycloki::{ user-id=10861624 }, ::{ flag=CN }:: ::OxalicAcid::{ user-id=17146433 }, ::{ flag=CN }:: ::FcEazy::{ user-id=7825227 }, ::{ flag=CN }:: ::Blue\1Potion::{ user-id=13094831 }, ::{ flag=GB }:: ::epic man 2::{ user-id=14566000 }, ::{ flag=CN }:: ::\[Crz\]Makii::{ user-id=5242158 }, ::{ flag=CN }:: ::Muses::{ user-id=9705896 }, ::{ flag=CN }:: ::\[GB\]sherweifa::{ user-id=17457562 }, ::{ flag=CN }:: ::Hidden is fun::{ user-id=10449071 }, ::{ flag=CN }:: ::Mafufu::{ user-id=10884561 }, ::{ flag=US }:: ::-mint-::{ user-id=8976576 }, ::{ flag=VN }:: ::Lott::{ user-id=13821222 }, ::{ flag=CN }:: ::AlexDunk::{ user-id=9194799 }, ::{ flag=US }:: ::0DZ0::{ user-id=28156707 }, ::{ flag=ID }:: ::\[Crz\]Crysarlene::{ user-id=5492871 }, ::{ flag=CN }:: ::ExNeko::{ user-id=7590894 }, ::{ flag=CN }:: ::Doshowz::{ user-id=5799435 }, ::{ flag=CN }:: ::\[Crz\]MemoryI::{ user-id=8179131 }, ::{ flag=TH }:: ::MyZterioN-::{ user-id=8521723 }, ::{ flag=KR }:: ::Nicknem\1::{ user-id=16615040 }, ::{ flag=KR }:: ::frolica::{ user-id=4324195 }, ::{ flag=HK }:: ::zero2snow::{ user-id=7751516 }, ::{ flag=ES }:: ::Ska::{ user-id=10313023 } |
+| Mappool playtester | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 }, ::{ flag=CN }:: ::Yuiesta::{ user-id=13953619 }, ::{ flag=CN }:: ::OxalicAcid::{ user-id=17146433 }, ::{ flag=CN }:: ::\[Crz\]Flandre::{ user-id=6949941 }, ::{ flag=CN }:: ::Mafufu::{ user-id=10884561 }, ::{ flag=VN }:: ::Lott::{ user-id=13821222 }, ::{ flag=CN }:: ::FenggeTGOB::{ user-id=35928532 } |
+| Graphics | ::{ flag=CN }:: ::Dr\1Tissues::{ user-id=5106681 } |
+| Referees | ::{ flag=ES }:: ::\[AR\]lv3plane::{ user-id=15964029 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user-id=11279273 }, ::{ flag=CN }:: ::\[Crz\]Makii::{ user-id=5242158 }, ::{ flag=CN }:: ::CapooFanboy::{ user-id=27235859 }, ::{ flag=CN }:: ::cdwcgt::{ user-id=14721101 }, ::{ flag=CN }:: ::FenggeTGOB::{ user-id=35928532 }, ::{ flag=CN }:: ::MidRed::{ user-id=17641994 }, ::{ flag=CN }:: ::Mrhbyy::{ user-id=16491593 }, ::{ flag=CN }:: ::Rush\1FTK::{ user-id=3046856 }, ::{ flag=CN }:: ::Shuji\1Machu::{ user-id=11264367 }, ::{ flag=DE }:: ::TheHunter1::{ user-id=6496016 }, ::{ flag=HK }:: ::wanderloop::{ user-id=13858681 } |
+| Streamers | ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user-id=11279273 }, ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 }, ::{ flag=CN }:: ::CapooFanboy::{ user-id=27235859 }, ::{ flag=CN }:: ::cdwcgt::{ user-id=14721101 }, ::{ flag=CN }:: ::MidRed::{ user-id=17641994 }, ::{ flag=CN }:: ::Mrhbyy::{ user-id=16491593 }, ::{ flag=CN }:: ::Rush\1FTK::{ user-id=3046856 }, ::{ flag=CN }:: ::Shiki-Natsume::{ user-id=6338477 }, ::{ flag=CN }:: ::Shuji\1Machu::{ user-id=11264367 } |
 
 ## Links
 
@@ -65,52 +65,52 @@ The osu!mania 4K Chinese National Cup 2025 was run by various community members.
 
 | Seed | Player |
 | :-: | :-- |
-| #1 | ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) |
-| #2 | ::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902) |
-| #3 | ::{ flag=CN }:: [WOEM2436](https://osu.ppy.sh/users/36120676) |
-| #4 | ::{ flag=CN }:: [FoaMelt1](https://osu.ppy.sh/users/36570108) |
-| #5 | ::{ flag=HK }:: [koshepen](https://osu.ppy.sh/users/17115114) |
-| #6 | ::{ flag=TW }:: [Kesrie](https://osu.ppy.sh/users/13631923) |
-| #7 | ::{ flag=CN }:: [MyAngelTeru](https://osu.ppy.sh/users/35458163) |
-| #8 | ::{ flag=CN }:: [\[Crz\]Nickname](https://osu.ppy.sh/users/10817494) |
-| #9 | ::{ flag=CN }:: [ComboPower](https://osu.ppy.sh/users/19477584) |
-| #10 | ::{ flag=CN }:: [\[Crz\]Reimu](https://osu.ppy.sh/users/14318312) |
-| #11 | ::{ flag=CN }:: [Namia](https://osu.ppy.sh/users/21102581) |
-| #12 | ::{ flag=CN }:: [verysour](https://osu.ppy.sh/users/32358269) |
-| #13 | ::{ flag=CN }:: [HowToPlaySV](https://osu.ppy.sh/users/32494511) |
-| #14 | ::{ flag=TW }:: [elicccc](https://osu.ppy.sh/users/22491203) |
-| #15 | ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042) |
-| #16 | ::{ flag=CN }:: [HxcQ777](https://osu.ppy.sh/users/18282863) |
-| #17 | ::{ flag=CN }:: [tiantangw](https://osu.ppy.sh/users/25769457) |
-| #18 | ::{ flag=CN }:: [WhatuLvfor](https://osu.ppy.sh/users/26278347) |
-| #19 | ::{ flag=CN }:: [6XvX7](https://osu.ppy.sh/users/33948486) |
-| #20 | ::{ flag=CN }:: [Shenzouz](https://osu.ppy.sh/users/29606773) |
-| #21 | ::{ flag=CN }:: [Kirchhoff123](https://osu.ppy.sh/users/29546640) |
-| #22 | ::{ flag=CN }:: [\[GB\]TakinaQwQ](https://osu.ppy.sh/users/18160033) |
-| #23 | ::{ flag=CN }:: [Fie Claussell](https://osu.ppy.sh/users/20763941) |
-| #24 | ::{ flag=HK }:: [Quotient](https://osu.ppy.sh/users/11313227) |
-| #25 | ::{ flag=MO }:: [Randumbs](https://osu.ppy.sh/users/27657112) |
-| #26 | ::{ flag=CN }:: [socins](https://osu.ppy.sh/users/26919955) |
-| #27 | ::{ flag=TW }:: [waterwater8787](https://osu.ppy.sh/users/17385011) |
-| #28 | ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663) |
-| #29 | ::{ flag=CN }:: [Suang](https://osu.ppy.sh/users/20222452) |
-| #30 | ::{ flag=CN }:: [quailty](https://osu.ppy.sh/users/6423914) |
-| #31 | ::{ flag=CN }:: [Old Pigeon](https://osu.ppy.sh/users/26116770) |
-| #32 | ::{ flag=CN }:: [Leaper](https://osu.ppy.sh/users/36115565) |
-| #33 | ::{ flag=CN }:: [-Sheena-](https://osu.ppy.sh/users/28653364) |
-| #34 | ::{ flag=CN }:: [Arisu Tendou](https://osu.ppy.sh/users/34278014) |
-| #35 | ::{ flag=TW }:: [SWADEEF](https://osu.ppy.sh/users/18268743) |
-| #36 | ::{ flag=CN }:: [ringbot](https://osu.ppy.sh/users/28548350) |
-| #37 | ::{ flag=CN }:: [036js](https://osu.ppy.sh/users/29089125) |
-| #38 | ::{ flag=CN }:: [lolol233](https://osu.ppy.sh/users/11375105) |
-| #39 | ::{ flag=CN }:: [\[GB\]sharkful](https://osu.ppy.sh/users/35850313) |
-| #40 | ::{ flag=CN }:: [ZapHeavenly](https://osu.ppy.sh/users/19348819) |
-| #41 | ::{ flag=CN }:: [eqfd1](https://osu.ppy.sh/users/32539500) |
-| #42 | ::{ flag=CN }:: [cibuleng](https://osu.ppy.sh/users/29492852) |
-| #43 | ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575) |
-| #44 | ::{ flag=CN }:: [fivlier](https://osu.ppy.sh/users/14926274) |
-| #45 | ::{ flag=CN }:: [Lzq12345](https://osu.ppy.sh/users/15012640) |
-| #46 | ::{ flag=TW }:: [leegun](https://osu.ppy.sh/users/33413887) |
+| #1 | ::{ flag=CN }:: ::DawnX::{ user-id=8534840 } |
+| #2 | ::{ flag=CN }:: ::\[GB\]ParasolTree::{ user-id=27552902 } |
+| #3 | ::{ flag=CN }:: ::WOEM2436::{ user-id=36120676 } |
+| #4 | ::{ flag=CN }:: ::FoaMelt1::{ user-id=36570108 } |
+| #5 | ::{ flag=HK }:: ::koshepen::{ user-id=17115114 } |
+| #6 | ::{ flag=TW }:: ::Kesrie::{ user-id=13631923 } |
+| #7 | ::{ flag=CN }:: ::MyAngelTeru::{ user-id=35458163 } |
+| #8 | ::{ flag=CN }:: ::\[Crz\]Nickname::{ user-id=10817494 } |
+| #9 | ::{ flag=CN }:: ::ComboPower::{ user-id=19477584 } |
+| #10 | ::{ flag=CN }:: ::\[Crz\]Reimu::{ user-id=14318312 } |
+| #11 | ::{ flag=CN }:: ::Namia::{ user-id=21102581 } |
+| #12 | ::{ flag=CN }:: ::verysour::{ user-id=32358269 } |
+| #13 | ::{ flag=CN }:: ::HowToPlaySV::{ user-id=32494511 } |
+| #14 | ::{ flag=TW }:: ::elicccc::{ user-id=22491203 } |
+| #15 | ::{ flag=CN }:: ::\[GB\]Cinelia::{ user-id=24289042 } |
+| #16 | ::{ flag=CN }:: ::HxcQ777::{ user-id=18282863 } |
+| #17 | ::{ flag=CN }:: ::tiantangw::{ user-id=25769457 } |
+| #18 | ::{ flag=CN }:: ::WhatuLvfor::{ user-id=26278347 } |
+| #19 | ::{ flag=CN }:: ::6XvX7::{ user-id=33948486 } |
+| #20 | ::{ flag=CN }:: ::Shenzouz::{ user-id=29606773 } |
+| #21 | ::{ flag=CN }:: ::Kirchhoff123::{ user-id=29546640 } |
+| #22 | ::{ flag=CN }:: ::\[GB\]TakinaQwQ::{ user-id=18160033 } |
+| #23 | ::{ flag=CN }:: ::Fie Claussell::{ user-id=20763941 } |
+| #24 | ::{ flag=HK }:: ::Quotient::{ user-id=11313227 } |
+| #25 | ::{ flag=MO }:: ::Randumbs::{ user-id=27657112 } |
+| #26 | ::{ flag=CN }:: ::socins::{ user-id=26919955 } |
+| #27 | ::{ flag=TW }:: ::waterwater8787::{ user-id=17385011 } |
+| #28 | ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user-id=16586663 } |
+| #29 | ::{ flag=CN }:: ::Suang::{ user-id=20222452 } |
+| #30 | ::{ flag=CN }:: ::quailty::{ user-id=6423914 } |
+| #31 | ::{ flag=CN }:: ::Old Pigeon::{ user-id=26116770 } |
+| #32 | ::{ flag=CN }:: ::Leaper::{ user-id=36115565 } |
+| #33 | ::{ flag=CN }:: ::-Sheena-::{ user-id=28653364 } |
+| #34 | ::{ flag=CN }:: ::Arisu Tendou::{ user-id=34278014 } |
+| #35 | ::{ flag=TW }:: ::SWADEEF::{ user-id=18268743 } |
+| #36 | ::{ flag=CN }:: ::ringbot::{ user-id=28548350 } |
+| #37 | ::{ flag=CN }:: ::036js::{ user-id=29089125 } |
+| #38 | ::{ flag=CN }:: ::lolol233::{ user-id=11375105 } |
+| #39 | ::{ flag=CN }:: ::\[GB\]sharkful::{ user-id=35850313 } |
+| #40 | ::{ flag=CN }:: ::ZapHeavenly::{ user-id=19348819 } |
+| #41 | ::{ flag=CN }:: ::eqfd1::{ user-id=32539500 } |
+| #42 | ::{ flag=CN }:: ::cibuleng::{ user-id=29492852 } |
+| #43 | ::{ flag=CN }:: ::G1NYA::{ user-id=31767575 } |
+| #44 | ::{ flag=CN }:: ::fivlier::{ user-id=14926274 } |
+| #45 | ::{ flag=CN }:: ::Lzq12345::{ user-id=15012640 } |
+| #46 | ::{ flag=TW }:: ::leegun::{ user-id=33413887 } |
 
 ### Podium
 
@@ -118,9 +118,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=TW }:: [WOEM2436](https://osu.ppy.sh/users/36120676) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: ::DawnX::{ user-id=8534840 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: ::\[GB\]ParasolTree::{ user-id=27552902 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=TW }:: ::WOEM2436::{ user-id=36120676 } |
 
 ## Mappools
 

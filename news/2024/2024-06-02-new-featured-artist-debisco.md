@@ -23,7 +23,7 @@ Witness some of **DeBisco**'s music in action (with some [osu! keycaps](https://
 
 ### DeBisco - FLASHBACK
 
-Try out [the map seen above](https://osu.ppy.sh/beatmapsets/2132887) hosted by [Shii](https://osu.ppy.sh/users/9186316)!
+Try out [the map seen above](https://osu.ppy.sh/beatmapsets/2132887) hosted by ::Shii::{ user-id=9186316 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/422/FLASHBACK/DeBisco%20-%20FLASHBACK%20(Radio%20Edit).mp3">
@@ -31,7 +31,7 @@ Try out [the map seen above](https://osu.ppy.sh/beatmapsets/2132887) hosted by [
 
 ### DeBisco - Overclocked
 
-Or experience [this map](https://osu.ppy.sh/beatmapsets/2133686) hosted by [PaRaDogi](https://osu.ppy.sh/users/2054596)!
+Or experience [this map](https://osu.ppy.sh/beatmapsets/2133686) hosted by ::PaRaDogi::{ user-id=2054596 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/422/Overclocked/DeBisco%20-%20Overclocked%20(Pocket%20Size).mp3">

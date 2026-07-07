@@ -23,7 +23,7 @@ Experience some of **PaceMKR** for yourself through a scary number of mods in os
 
 ### PaceMKR - Break It Down
 
-Try [the map from the video above](https://osu.ppy.sh/beatmapsets/2051128) hosted by [Daycore](https://osu.ppy.sh/users/5596337) — ideally with fewer mods.
+Try [the map from the video above](https://osu.ppy.sh/beatmapsets/2051128) hosted by ::Daycore::{ user-id=5596337 } — ideally with fewer mods.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/414/Break%20It%20Down/PaceMKR%20-%20Break%20It%20Down.mp3">

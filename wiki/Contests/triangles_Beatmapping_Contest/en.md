@@ -36,18 +36,18 @@ Submissions to this contest include:
 
 | Team name | Beatmapper(s) | Storyboarder(s) | Submission |
 | :-- | :-- | :-- | :-- |
-| ? | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667) | ::{ flag=NL }:: [Apichu](https://osu.ppy.sh/users/14967853) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841847) |
-| absolutno pofig | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231), ::{ flag=RU }:: [Shime](https://osu.ppy.sh/users/11558207), ::{ flag=BG }:: [Delette](https://osu.ppy.sh/users/7835664), ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522), ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) | ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841846) |
-| Crazy Thursday | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834), ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669), ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841885) |
-| Crush the Candy Boys | ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865), ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334), ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=CA }:: [TheDuckMask](https://osu.ppy.sh/users/7405768) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841845) |
-| dreamers | ::{ flag=GE }:: [RetroSpectors](https://osu.ppy.sh/users/29665779), ::{ flag=SK }:: [DJMakerMusician](https://osu.ppy.sh/users/17416390) | ::{ flag=SK }:: [DJMakerMusician](https://osu.ppy.sh/users/17416390) | pending link |
-| GokuLook Princesa | ::{ flag=ES }:: [Nachmark](https://osu.ppy.sh/users/17584310), ::{ flag=ES }:: [CebollaVladimir](https://osu.ppy.sh/users/15308238), ::{ flag=ES }:: [Jaime Altozano](https://osu.ppy.sh/users/7567228), ::{ flag=ES }:: [Yuri Enjoyer](https://osu.ppy.sh/users/6961543) | ::{ flag=US }:: [binarie](https://osu.ppy.sh/users/15632854) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841839) |
-| Penta-force | ::{ flag=TH }:: [PukPow](https://osu.ppy.sh/users/16407679), ::{ flag=AU }:: [Share](https://osu.ppy.sh/users/14305018), ::{ flag=AU }:: [Coppertine](https://osu.ppy.sh/users/7279762), ::{ flag=UA }:: [Esutarosa](https://osu.ppy.sh/users/12024753) | ::{ flag=AU }:: [Coppertine](https://osu.ppy.sh/users/7279762) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841996) |
-| Team Funny | ::{ flag=PL }:: [M i X](https://osu.ppy.sh/users/7160660), ::{ flag=DE }:: [thexo](https://osu.ppy.sh/users/4887938), ::{ flag=ID }:: [KlaksoncakFish](https://osu.ppy.sh/users/3866821) | ::{ flag=PH }:: [Jiysea](https://osu.ppy.sh/users/7354700) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1842149) |
-| TV Sizers | ::{ flag=CL }:: [MystyCute](https://osu.ppy.sh/users/10210657), ::{ flag=IL }:: [TheSword](https://osu.ppy.sh/users/14004374), ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280), ::{ flag=CL }:: [kanocchi](https://osu.ppy.sh/users/2321050), ::{ flag=CL }:: [[-Evil-]](https://osu.ppy.sh/users/10234313) | ::{ flag=IL }:: [TheSword](https://osu.ppy.sh/users/14004374) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841923) |
-| ULTRA ICE TEA | ::{ flag=GB }:: [-jordan-](https://osu.ppy.sh/users/7288862), ::{ flag=IE }:: [hytaa](https://osu.ppy.sh/users/17190075), ::{ flag=JP }:: [too](https://osu.ppy.sh/users/12196931), ::{ flag=DE }:: [Celektus](https://osu.ppy.sh/users/4294993) | ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841926) |
-| Δ = b² – 4ac | ::{ flag=BR }:: [Kalindraz](https://osu.ppy.sh/users/2313166), ::{ flag=BR }:: [NEURONIO](https://osu.ppy.sh/users/7198334), ::{ flag=BR }:: [Sakura Airi](https://osu.ppy.sh/users/8682057), ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | ::{ flag=BR }:: [K4L1](https://osu.ppy.sh/users/11334594), ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1842004) |
-| 三角形.tar.gz | ::{ flag=NO }:: [Fisky](https://osu.ppy.sh/users/8352623), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | ::{ flag=RU }:: [Tommy Phelps](https://osu.ppy.sh/users/10974581), ::{ flag=DZ }:: [VenerableNyanta](https://osu.ppy.sh/users/12243368) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1842041) |
+| ? | ::{ flag=RU }:: ::kuyusu::{ user-id=11758667 } | ::{ flag=NL }:: ::Apichu::{ user-id=14967853 } | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841847) |
+| absolutno pofig | ::{ flag=RU }:: ::Shmiklak::{ user-id=5504231 }, ::{ flag=RU }:: ::Shime::{ user-id=11558207 }, ::{ flag=BG }:: ::Delette::{ user-id=7835664 }, ::{ flag=RU }:: ::piroshki::{ user-id=7645522 }, ::{ flag=UA }:: ::PantyDev::{ user-id=5420543 } | ::{ flag=UA }:: ::PantyDev::{ user-id=5420543 } | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841846) |
+| Crazy Thursday | ::{ flag=CN }:: ::Yugu::{ user-id=3161834 }, ::{ flag=CN }:: ::yf\1bmp::{ user-id=1243669 }, ::{ flag=CN }:: ::TtmnZk::{ user-id=2495509 }, ::{ flag=HK }:: ::Chaoslitz::{ user-id=3621552 } | ::{ flag=HK }:: ::Chaoslitz::{ user-id=3621552 }, ::{ flag=CN }:: ::yf\1bmp::{ user-id=1243669 }, ::{ flag=CN }:: ::Yumeno Himiko::{ user-id=1806962 } | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841885) |
+| Crush the Candy Boys | ::{ flag=GB }:: ::Altai::{ user-id=5745865 }, ::{ flag=GB }:: ::DeviousPanda::{ user-id=4966334 }, ::{ flag=DE }:: ::Mao::{ user-id=2204515 } | ::{ flag=US }:: ::Noffy::{ user-id=1541323 }, ::{ flag=CA }:: ::TheDuckMask::{ user-id=7405768 } | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841845) |
+| dreamers | ::{ flag=GE }:: ::RetroSpectors::{ user-id=29665779 }, ::{ flag=SK }:: ::DJMakerMusician::{ user-id=17416390 } | ::{ flag=SK }:: ::DJMakerMusician::{ user-id=17416390 } | pending link |
+| GokuLook Princesa | ::{ flag=ES }:: ::Nachmark::{ user-id=17584310 }, ::{ flag=ES }:: ::CebollaVladimir::{ user-id=15308238 }, ::{ flag=ES }:: ::Jaime Altozano::{ user-id=7567228 }, ::{ flag=ES }:: ::Yuri Enjoyer::{ user-id=6961543 } | ::{ flag=US }:: ::binarie::{ user-id=15632854 } | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841839) |
+| Penta-force | ::{ flag=TH }:: ::PukPow::{ user-id=16407679 }, ::{ flag=AU }:: ::Share::{ user-id=14305018 }, ::{ flag=AU }:: ::Coppertine::{ user-id=7279762 }, ::{ flag=UA }:: ::Esutarosa::{ user-id=12024753 } | ::{ flag=AU }:: ::Coppertine::{ user-id=7279762 } | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841996) |
+| Team Funny | ::{ flag=PL }:: ::M i X::{ user-id=7160660 }, ::{ flag=DE }:: ::thexo::{ user-id=4887938 }, ::{ flag=ID }:: ::KlaksoncakFish::{ user-id=3866821 } | ::{ flag=PH }:: ::Jiysea::{ user-id=7354700 } | [Beatmap link](https://osu.ppy.sh/beatmapsets/1842149) |
+| TV Sizers | ::{ flag=CL }:: ::MystyCute::{ user-id=10210657 }, ::{ flag=IL }:: ::TheSword::{ user-id=14004374 }, ::{ flag=CL }:: ::Cris-::{ user-id=6175280 }, ::{ flag=CL }:: ::kanocchi::{ user-id=2321050 }, ::{ flag=CL }:: ::\1-Evil-\1::{ user-id=10234313 } | ::{ flag=IL }:: ::TheSword::{ user-id=14004374 } | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841923) |
+| ULTRA ICE TEA | ::{ flag=GB }:: ::-jordan-::{ user-id=7288862 }, ::{ flag=IE }:: ::hytaa::{ user-id=17190075 }, ::{ flag=JP }:: ::too::{ user-id=12196931 }, ::{ flag=DE }:: ::Celektus::{ user-id=4294993 } | ::{ flag=HU }:: ::Himada::{ user-id=10959366 } | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841926) |
+| Δ = b² – 4ac | ::{ flag=BR }:: ::Kalindraz::{ user-id=2313166 }, ::{ flag=BR }:: ::NEURONIO::{ user-id=7198334 }, ::{ flag=BR }:: ::Sakura Airi::{ user-id=8682057 }, ::{ flag=BR }:: ::Maot::{ user-id=3914271 } | ::{ flag=BR }:: ::K4L1::{ user-id=11334594 }, ::{ flag=BR }:: ::Maot::{ user-id=3914271 } | [Beatmap link](https://osu.ppy.sh/beatmapsets/1842004) |
+| 三角形.tar.gz | ::{ flag=NO }:: ::Fisky::{ user-id=8352623 }, ::{ flag=ID }:: ::ScubDomino::{ user-id=8972308 }, ::{ flag=CN }:: ::fanzhen0019::{ user-id=418699 } | ::{ flag=RU }:: ::Tommy Phelps::{ user-id=10974581 }, ::{ flag=DZ }:: ::VenerableNyanta::{ user-id=12243368 } | [Beatmap link](https://osu.ppy.sh/beatmapsets/1842041) |
 
 ## Results
 
@@ -88,15 +88,15 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
   - **Runner-up:** 3 months of osu!supporter
   - **Winner:**  6 months of osu!supporter + *Mappers' Pick* profile badge
 - Panelists:
-  - ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163)
-  - ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549)
-  - ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861)
-  - ::{ flag=US }:: [IOException](https://osu.ppy.sh/users/2688103)
-  - ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909)
-  - ::{ flag=BR }:: [Mismagius](https://osu.ppy.sh/users/19048)
-  - ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438)
-  - ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805)
-  - ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
+  - ::{ flag=GB }:: ::-Mo-::{ user-id=2202163 }
+  - ::{ flag=GB }:: ::Apo11o::{ user-id=9558549 }
+  - ::{ flag=CN }:: ::Elayue::{ user-id=6400861 }
+  - ::{ flag=US }:: ::IOException::{ user-id=2688103 }
+  - ::{ flag=CN }:: ::Mafumafu::{ user-id=3076909 }
+  - ::{ flag=BR }:: ::Mismagius::{ user-id=19048 }
+  - ::{ flag=CA }:: ::Monstrata::{ user-id=2706438 }
+  - ::{ flag=ID }:: ::Niva::{ user-id=197805 }
+  - ::{ flag=GB }:: ::Shii::{ user-id=9186316 }
 
 ![Mappers' Pick profile badge](/wiki/shared/news/2022-05-26-triangles/mappers@2x.png)
 
@@ -107,14 +107,14 @@ Contest judging will be handled by two panels of mappers and storyboarders. Beca
   - **Runner-up:** 3 months of osu!supporter
   - **Winner:**  6 months of osu!supporter + *Storyboarders' Pick* profile badge
 - Panelists:
-  - ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163)
-  - ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366)
-  - ::{ flag=CA }:: [Enkrypton](https://osu.ppy.sh/users/5178122)
-  - ::{ flag=VN }:: [Hokichi](https://osu.ppy.sh/users/6607303)
-  - ::{ flag=CN }:: [Kuse](https://osu.ppy.sh/users/6984103)
-  - ::{ flag=PL }:: [Moko](https://osu.ppy.sh/users/6488658)
-  - ::{ flag=TH }:: [ohm002](https://osu.ppy.sh/users/4468239)
-  - ::{ flag=US }:: [Storyboarder](https://osu.ppy.sh/users/6124671)
+  - ::{ flag=GB }:: ::-Mo-::{ user-id=2202163 }
+  - ::{ flag=DK }:: ::-Tochi::{ user-id=3664366 }
+  - ::{ flag=CA }:: ::Enkrypton::{ user-id=5178122 }
+  - ::{ flag=VN }:: ::Hokichi::{ user-id=6607303 }
+  - ::{ flag=CN }:: ::Kuse::{ user-id=6984103 }
+  - ::{ flag=PL }:: ::Moko::{ user-id=6488658 }
+  - ::{ flag=TH }:: ::ohm002::{ user-id=4468239 }
+  - ::{ flag=US }:: ::Storyboarder::{ user-id=6124671 }
 
 ![Storyboarders' Pick profile badge](/wiki/shared/news/2022-05-26-triangles/storyboarders@2x.png)
 

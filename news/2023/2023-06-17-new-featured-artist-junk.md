@@ -27,11 +27,11 @@ If you're curious how **Junk**'s sound translates to osu! (and osu!mania) gamepl
 
 Check out any of these maps:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/226133) hosted by [rui](https://osu.ppy.sh/users/74313)
-- Another [osu! map](https://osu.ppy.sh/beatmapsets/2010589) hosted by [Daycore](https://osu.ppy.sh/users/5596337)
-- [osu!mania map](https://osu.ppy.sh/beatmapsets/302726) hosted by [Starry-](https://osu.ppy.sh/users/2166199)
-- [Brand-new osu!catch map](https://osu.ppy.sh/beatmapsets/2006758) hosted by [Secre](https://osu.ppy.sh/users/2306637)
-- [Brand-new osu!taiko map](https://osu.ppy.sh/beatmapsets/2010165) hosted by [gaston_2199](https://osu.ppy.sh/users/5938161)
+- [osu! map](https://osu.ppy.sh/beatmapsets/226133) hosted by ::rui::{ user-id=74313 }
+- Another [osu! map](https://osu.ppy.sh/beatmapsets/2010589) hosted by ::Daycore::{ user-id=5596337 }
+- [osu!mania map](https://osu.ppy.sh/beatmapsets/302726) hosted by ::Starry-::{ user-id=2166199 }
+- [Brand-new osu!catch map](https://osu.ppy.sh/beatmapsets/2006758) hosted by ::Secre::{ user-id=2306637 }
+- [Brand-new osu!taiko map](https://osu.ppy.sh/beatmapsets/2010165) hosted by ::gaston\12199::{ user-id=5938161 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/365/Songs/Junk%20-%20Yellow%20Smile.mp3">
@@ -39,7 +39,7 @@ Check out any of these maps:
 
 ### Junk - Qualia
 
-Try [the 4K and 7K osu!mania map that introduced **Junk** to osu!](https://osu.ppy.sh/beatmapsets/177155) hosted by [Mashiro-Fang](https://osu.ppy.sh/users/3282749) or [this new osu!catch map](https://osu.ppy.sh/beatmapsets/2010010) hosted by [Chatie](https://osu.ppy.sh/users/6524765)!
+Try [the 4K and 7K osu!mania map that introduced **Junk** to osu!](https://osu.ppy.sh/beatmapsets/177155) hosted by ::Mashiro-Fang::{ user-id=3282749 } or [this new osu!catch map](https://osu.ppy.sh/beatmapsets/2010010) hosted by ::Chatie::{ user-id=6524765 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/365/Songs/Junk%20-%20Qualia.mp3">
@@ -47,7 +47,7 @@ Try [the 4K and 7K osu!mania map that introduced **Junk** to osu!](https://osu.p
 
 ### Junk - Life is PIANO
 
-If you're looking for something more modern, [this osu!mania map](https://osu.ppy.sh/beatmapsets/1304251) hosted by [yahweh](https://osu.ppy.sh/users/10465260) was released just last year!
+If you're looking for something more modern, [this osu!mania map](https://osu.ppy.sh/beatmapsets/1304251) hosted by ::yahweh::{ user-id=10465260 } was released just last year!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/365/Songs/Junk%20-%20Life%20is%20PIANO.mp3">
@@ -55,7 +55,7 @@ If you're looking for something more modern, [this osu!mania map](https://osu.pp
 
 ### Junk - elegante
 
-Finish things off with [this... *elegant*... beatmap](https://osu.ppy.sh/beatmapsets/1045019) hosted by [ktgster](https://osu.ppy.sh/users/53378).
+Finish things off with [this... *elegant*... beatmap](https://osu.ppy.sh/beatmapsets/1045019) hosted by ::ktgster::{ user-id=53378 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/365/Songs/Junk%20-%20elegante.mp3">

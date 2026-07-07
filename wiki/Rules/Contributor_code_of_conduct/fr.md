@@ -44,7 +44,7 @@ Les cas de comportements abusifs, harcelants ou tout autre comportement inaccept
 
 Les responsables communautaires qui ont accès à cette boîte de réception sont les suivants :
 
-- [peppy](https://osu.ppy.sh/users/2) ([pe@ppy.sh](mailto:pe@ppy.sh))
+- ::peppy::{ user-id=2 } ([pe@ppy.sh](mailto:pe@ppy.sh))
 
 Toutes les plaintes seront examinées et feront l'objet d'une enquête rapide et équitable.
 

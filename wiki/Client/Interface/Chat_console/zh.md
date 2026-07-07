@@ -15,7 +15,7 @@
 | **红色** | [全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 或[审核评估团队 (NAT)](/wiki/People/Quality_Assurance_Team) 的成员 |
 | **绿色** | 含有你的用户名或某个你添加的可触发[高亮标记](Highlight)的关键词的消息。高亮消息的副本也会出现在单独的 `#highlight` 频道中。 |
 | **蓝色** | 私信消息 |
-| **蓝绿色** | osu! 的创造者 [peppy](https://osu.ppy.sh/users/2) |
+| **蓝绿色** | osu! 的创造者 ::peppy::{ user-id=2 } |
 | **粉色** | [BanchoBot](/wiki/BanchoBot) 机器人 |
 
 - 点击 `Show Ticker` 按钮将在聊天面板不可见的情况下，在屏幕最底部一行显示当前频道里最新的消息。
@@ -77,7 +77,7 @@
 | `/addfriend [用户]` | 将`[用户]`添加到好友列表。 | `/addfriend Amigo` | 你和 Amigo 现在是好友了。 (You are now friends with Amigo.) |
 | `/delfriend [用户]` | 将`[用户]`从好友列表中移除。 | `/delfriend Amigo` | 你和 Amigo 已不再是好友。 (You are no longer friends with Amigo.) |
 | `/away [消息]` | 设置离开消息（将回复至私信你的用户）。将消息留空以取消离开状态。 | `/away 我是 John Smith.` | 你已被标为离开：我是 John Smith. (You have been marked as being away: 我是 John Smith.) 当 Amigo 在私信 John 问他在哪儿时，BanchoBot 将回答： `我是 John Smith`. |
-| `/bb` | 给 Bancho 发送消息以执行命令（比如 `!stats [用户]`）。如： rank `[number]` | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+| `/bb` | 给 Bancho 发送消息以执行命令（比如 `!stats [用户]`）。如： rank `[number]` | `/bb !stats Uan` | \[15/11/12\] Stats for ::Uan::{ user-id=147623 }: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [用户]` 或 `/msg [用户]` 或 `/query [用户]` | 打开指定用户的聊天标签页。 | `/chat Amigo` | （会打开 Amigo 标签页） |
 | `/clear` | 清除当前聊天标签页的全部内容。 | `/clear` | （ 基本上，当前标签页下的所有内容均会被清除 ） |
 | `/ignore [用户][@chp]` | 在本次登录中忽略特定用户的所有消息。在后面加上 @ 和/或 c、 h、 p 字母，可以分别从聊天、[提及你的消息](Highlight)和私信中屏蔽该用户。 | `/ignore Amigo@chp` | BanchoBot: 你不会再收到 Amigo 的{聊天消息}{提及你的消息}{私信}。 (You will no longer hear Amigo {chat} {highlights} {PM}) （你的聊天面板被设为：\[c\] 屏蔽 Amigo 发送的任何消息，\[h\] 屏蔽 Amigo 发送的任何提及你名字的消息，\[p\] 屏蔽 Amigo 给你发送的任何私信） |

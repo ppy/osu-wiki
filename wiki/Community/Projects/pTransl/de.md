@@ -5,7 +5,7 @@ tags:
 
 # pTransl
 
-**li.ppy.sh**, besser bekannt als **pTransl**, war eine für die Community geschaffene Übersetzungsplattform, die von ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) betrieben wurde. Die Plattform wurde hauptsächlich genutzt, um Mitgliedern aus der osu!-Community die Möglichkeit zu geben, das Spiel in ihre eigene Muttersprache zu übersetzen.
+**li.ppy.sh**, besser bekannt als **pTransl**, war eine für die Community geschaffene Übersetzungsplattform, die von ::{ flag=AU }:: ::peppy::{ user-id=2 } betrieben wurde. Die Plattform wurde hauptsächlich genutzt, um Mitgliedern aus der osu!-Community die Möglichkeit zu geben, das Spiel in ihre eigene Muttersprache zu übersetzen.
 
 ## Dienst
 

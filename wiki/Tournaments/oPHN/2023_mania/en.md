@@ -38,15 +38,15 @@ The osu! Philippines Nationals 2023 - osu!mania 4K/7K was run by various communi
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [gay short cat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
-| Mappool selector (4K) | ::{ flag=PH }:: [gay short cat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Lott](https://osu.ppy.sh/users/13821222) |
-| Mappool selector (7K) | ::{ flag=PH }:: [Makiba](https://osu.ppy.sh/users/7539957), ::{ flag=PH }:: [MadBrickTree](https://osu.ppy.sh/users/4790958), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Referee | ::{ flag=PH }:: [walmart5193](https://osu.ppy.sh/users/16468962), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [-Hanamaru-](https://osu.ppy.sh/users/11348518), ::{ flag=PH }:: [Kyonkichi](https://osu.ppy.sh/users/7585544), ::{ flag=PH }:: [Gerwin13](https://osu.ppy.sh/users/15776185), ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [gay short cat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550), ::{ flag=PH }:: [Sam1Ko](https://osu.ppy.sh/users/24435526), ::{ flag=PH }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=PH }:: [PorkisGreat](https://osu.ppy.sh/users/10756322) |
-| Streamer | ::{ flag=PH }:: [GADO](https://osu.ppy.sh/users/1519847), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550), ::{ flag=PH }:: [konkawe](https://osu.ppy.sh/users/15665805), ::{ flag=PH }:: [bonkmi](https://osu.ppy.sh/users/21148690) |
-| Commentator | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [gay short cat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550), ::{ flag=PH }:: [Itawachi](https://osu.ppy.sh/users/12929973), ::{ flag=PH }:: [My Angel Venti](https://osu.ppy.sh/users/16391523), ::{ flag=PH }:: [walmart5193](https://osu.ppy.sh/users/16468962), ::{ flag=PH }:: [MyukaMyMommy](https://osu.ppy.sh/users/12297375), ::{ flag=PH }:: [-VRX-](https://osu.ppy.sh/users/8597906), ::{ flag=PH }:: [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), ::{ flag=PH }:: [Znow](https://osu.ppy.sh/users/15513303), ::{ flag=PH }:: [[LS]Tenshi](https://osu.ppy.sh/users/18520056), ::{ flag=PH }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=PH }:: [Argefangirl](https://osu.ppy.sh/users/13132585) |
-| Statistician | ::{ flag=PH }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PH }:: [-[Pochi]-](https://osu.ppy.sh/users/18293050), ::{ flag=PH }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Graphic designer | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [jari](https://osu.ppy.sh/users/13262551), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
-| Wiki writer | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292) |
+| Host | ::{ flag=PH }:: ::SurfChu85::{ user-id=4469895 }, ::{ flag=PH }:: ::gay short cat::{ user-id=4848294 }, ::{ flag=PH }:: ::Toadette::{ user-id=11517895 }, ::{ flag=PH }:: ::yukina meng::{ user-id=9919550 } |
+| Mappool selector (4K) | ::{ flag=PH }:: ::gay short cat::{ user-id=4848294 }, ::{ flag=PH }:: ::Lott::{ user-id=13821222 } |
+| Mappool selector (7K) | ::{ flag=PH }:: ::Makiba::{ user-id=7539957 }, ::{ flag=PH }:: ::MadBrickTree::{ user-id=4790958 }, ::{ flag=PH }:: ::SurfChu85::{ user-id=4469895 } |
+| Referee | ::{ flag=PH }:: ::walmart5193::{ user-id=16468962 }, ::{ flag=PH }:: ::-Ichinose::{ user-id=12635292 }, ::{ flag=PH }:: ::-Hanamaru-::{ user-id=11348518 }, ::{ flag=PH }:: ::Kyonkichi::{ user-id=7585544 }, ::{ flag=PH }:: ::Gerwin13::{ user-id=15776185 }, ::{ flag=PH }:: ::Normiplier::{ user-id=10069850 }, ::{ flag=PH }:: ::SurfChu85::{ user-id=4469895 }, ::{ flag=PH }:: ::gay short cat::{ user-id=4848294 }, ::{ flag=PH }:: ::Toadette::{ user-id=11517895 }, ::{ flag=PH }:: ::yukina meng::{ user-id=9919550 }, ::{ flag=PH }:: ::Sam1Ko::{ user-id=24435526 }, ::{ flag=PH }:: ::ERA Xuste::{ user-id=17989444 }, ::{ flag=PH }:: ::PorkisGreat::{ user-id=10756322 } |
+| Streamer | ::{ flag=PH }:: ::GADO::{ user-id=1519847 }, ::{ flag=PH }:: ::Toadette::{ user-id=11517895 }, ::{ flag=PH }:: ::yukina meng::{ user-id=9919550 }, ::{ flag=PH }:: ::konkawe::{ user-id=15665805 }, ::{ flag=PH }:: ::bonkmi::{ user-id=21148690 } |
+| Commentator | ::{ flag=PH }:: ::SurfChu85::{ user-id=4469895 }, ::{ flag=PH }:: ::gay short cat::{ user-id=4848294 }, ::{ flag=PH }:: ::Toadette::{ user-id=11517895 }, ::{ flag=PH }:: ::yukina meng::{ user-id=9919550 }, ::{ flag=PH }:: ::Itawachi::{ user-id=12929973 }, ::{ flag=PH }:: ::My Angel Venti::{ user-id=16391523 }, ::{ flag=PH }:: ::walmart5193::{ user-id=16468962 }, ::{ flag=PH }:: ::MyukaMyMommy::{ user-id=12297375 }, ::{ flag=PH }:: ::-VRX-::{ user-id=8597906 }, ::{ flag=PH }:: ::DaMeMeThEiFxD::{ user-id=14324153 }, ::{ flag=PH }:: ::Znow::{ user-id=15513303 }, ::{ flag=PH }:: ::\1LS\1Tenshi::{ user-id=18520056 }, ::{ flag=PH }:: ::Lott::{ user-id=13821222 }, ::{ flag=PH }:: ::Argefangirl::{ user-id=13132585 } |
+| Statistician | ::{ flag=PH }:: ::Albionthegreat::{ user-id=9853595 }, ::{ flag=PH }:: ::-\1Pochi\1-::{ user-id=18293050 }, ::{ flag=PH }:: ::ShadeCegLgMn::{ user-id=12609866 }, ::{ flag=PH }:: ::SurfChu85::{ user-id=4469895 } |
+| Graphic designer | ::{ flag=PH }:: ::FLCammo::{ user-id=18789292 }, ::{ flag=PH }:: ::jari::{ user-id=13262551 }, ::{ flag=PH }:: ::yukina meng::{ user-id=9919550 } |
+| Wiki writer | ::{ flag=PH }:: ::topecnz::{ user-id=2103927 }, ::{ flag=PH }:: ::-Ichinose::{ user-id=12635292 } |
 
 ## Links
 
@@ -57,63 +57,63 @@ The osu! Philippines Nationals 2023 - osu!mania 4K/7K was run by various communi
 
 ## Participants (osu!mania 4K)
 
-- ::{ flag=PH }:: [xNickSpark](https://osu.ppy.sh/users/8857066)
-- ::{ flag=PH }:: [Xyrenoxx](https://osu.ppy.sh/users/14174524)
-- ::{ flag=PH }:: [[LS]Tenshi](https://osu.ppy.sh/users/18520056)
-- ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405)
-- ::{ flag=AE }:: [dragiee](https://osu.ppy.sh/users/17959501)
-- ::{ flag=PH }:: [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153)
-- ::{ flag=PH }:: [Silicosis](https://osu.ppy.sh/users/15548876)
-- ::{ flag=PH }:: [FlyingTilapia](https://osu.ppy.sh/users/17922922)
-- ::{ flag=PH }:: [Anosious](https://osu.ppy.sh/users/24776314)
-- ::{ flag=PH }:: [- Hago -](https://osu.ppy.sh/users/11923046)
-- ::{ flag=PH }:: [DiamondGenius75](https://osu.ppy.sh/users/19107638)
-- ::{ flag=PH }:: [- Shikimori -](https://osu.ppy.sh/users/14429772)
-- ::{ flag=PH }:: [HydraBoy54](https://osu.ppy.sh/users/10905488)
-- ::{ flag=PH }:: [Onigiggles](https://osu.ppy.sh/users/24133430)
-- ::{ flag=PH }:: [[KN]CuB-03](https://osu.ppy.sh/users/18560307)
-- ::{ flag=PH }:: [Axfaerie](https://osu.ppy.sh/users/13857689)
-- ::{ flag=PH }:: [Dephy](https://osu.ppy.sh/users/10648440)
-- ::{ flag=PH }:: [Dyei](https://osu.ppy.sh/users/23643731)
-- ::{ flag=PH }:: [Pataray XDD](https://osu.ppy.sh/users/14948441)
-- ::{ flag=PH }:: [bojii the rock](https://osu.ppy.sh/users/10083439)
-- ::{ flag=PH }:: [Vulpsi](https://osu.ppy.sh/users/12584420)
-- ::{ flag=PH }:: [Stevensbadtime](https://osu.ppy.sh/users/28288858)
-- ::{ flag=PH }:: [TigerWasTaken](https://osu.ppy.sh/users/17103236)
-- ::{ flag=PH }:: [iid3rp](https://osu.ppy.sh/users/23274559)
-- ::{ flag=PH }:: [Sailoring](https://osu.ppy.sh/users/17741392)
-- ::{ flag=PH }:: [[KN]Puddles](https://osu.ppy.sh/users/12123265)
-- ::{ flag=PH }:: [NoTion](https://osu.ppy.sh/users/25828081)
-- ::{ flag=PH }:: [NoobFiddle](https://osu.ppy.sh/users/14843745)
-- ::{ flag=PH }:: [nodus](https://osu.ppy.sh/users/26036316)
-- ::{ flag=PH }:: [ManiaDegengod](https://osu.ppy.sh/users/13193798)
-- ::{ flag=PH }:: [ERA Frossno](https://osu.ppy.sh/users/17480973)
-- ::{ flag=PH }:: [jianawesome22](https://osu.ppy.sh/users/23609936)
-- ::{ flag=PH }:: [Jarodpog](https://osu.ppy.sh/users/23604857)
-- ::{ flag=PH }:: [OwsiiV3](https://osu.ppy.sh/users/30127010)
-- ::{ flag=PH }:: [CpuX](https://osu.ppy.sh/users/13450752)
-- ::{ flag=US }:: [z2a](https://osu.ppy.sh/users/12542173)
+- ::{ flag=PH }:: ::xNickSpark::{ user-id=8857066 }
+- ::{ flag=PH }:: ::Xyrenoxx::{ user-id=14174524 }
+- ::{ flag=PH }:: ::\1LS\1Tenshi::{ user-id=18520056 }
+- ::{ flag=PH }:: ::- Kura -::{ user-id=11420405 }
+- ::{ flag=AE }:: ::dragiee::{ user-id=17959501 }
+- ::{ flag=PH }:: ::DaMeMeThEiFxD::{ user-id=14324153 }
+- ::{ flag=PH }:: ::Silicosis::{ user-id=15548876 }
+- ::{ flag=PH }:: ::FlyingTilapia::{ user-id=17922922 }
+- ::{ flag=PH }:: ::Anosious::{ user-id=24776314 }
+- ::{ flag=PH }:: ::- Hago -::{ user-id=11923046 }
+- ::{ flag=PH }:: ::DiamondGenius75::{ user-id=19107638 }
+- ::{ flag=PH }:: ::- Shikimori -::{ user-id=14429772 }
+- ::{ flag=PH }:: ::HydraBoy54::{ user-id=10905488 }
+- ::{ flag=PH }:: ::Onigiggles::{ user-id=24133430 }
+- ::{ flag=PH }:: ::\1KN\1CuB-03::{ user-id=18560307 }
+- ::{ flag=PH }:: ::Axfaerie::{ user-id=13857689 }
+- ::{ flag=PH }:: ::Dephy::{ user-id=10648440 }
+- ::{ flag=PH }:: ::Dyei::{ user-id=23643731 }
+- ::{ flag=PH }:: ::Pataray XDD::{ user-id=14948441 }
+- ::{ flag=PH }:: ::bojii the rock::{ user-id=10083439 }
+- ::{ flag=PH }:: ::Vulpsi::{ user-id=12584420 }
+- ::{ flag=PH }:: ::Stevensbadtime::{ user-id=28288858 }
+- ::{ flag=PH }:: ::TigerWasTaken::{ user-id=17103236 }
+- ::{ flag=PH }:: ::iid3rp::{ user-id=23274559 }
+- ::{ flag=PH }:: ::Sailoring::{ user-id=17741392 }
+- ::{ flag=PH }:: ::\1KN\1Puddles::{ user-id=12123265 }
+- ::{ flag=PH }:: ::NoTion::{ user-id=25828081 }
+- ::{ flag=PH }:: ::NoobFiddle::{ user-id=14843745 }
+- ::{ flag=PH }:: ::nodus::{ user-id=26036316 }
+- ::{ flag=PH }:: ::ManiaDegengod::{ user-id=13193798 }
+- ::{ flag=PH }:: ::ERA Frossno::{ user-id=17480973 }
+- ::{ flag=PH }:: ::jianawesome22::{ user-id=23609936 }
+- ::{ flag=PH }:: ::Jarodpog::{ user-id=23604857 }
+- ::{ flag=PH }:: ::OwsiiV3::{ user-id=30127010 }
+- ::{ flag=PH }:: ::CpuX::{ user-id=13450752 }
+- ::{ flag=US }:: ::z2a::{ user-id=12542173 }
 
 ## Participants (osu!mania 7K)
 
-- ::{ flag=PH }:: [[LS]Tenshi](https://osu.ppy.sh/users/18520056)
-- ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405)
-- ::{ flag=PH }:: [Sanni](https://osu.ppy.sh/users/3036686)
-- ::{ flag=PH }:: [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153)
-- ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664)
-- ::{ flag=PH }:: [DumbFunk](https://osu.ppy.sh/users/16446375)
-- ::{ flag=QA }:: [bustinman](https://osu.ppy.sh/users/19089928)
-- ::{ flag=PH }:: [[LS]Shark](https://osu.ppy.sh/users/18270641)
-- ::{ flag=PH }:: [bojii the rock](https://osu.ppy.sh/users/10083439)
-- ::{ flag=PH }:: [arcwinolivirus](https://osu.ppy.sh/users/2039089)
-- ::{ flag=PH }:: [-VRX-](https://osu.ppy.sh/users/8597906)
-- ::{ flag=PH }:: [Wewoj](https://osu.ppy.sh/users/3166596)
-- ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936)
-- ::{ flag=PH }:: [mama mo](https://osu.ppy.sh/users/9085137)
-- ::{ flag=PH }:: [bananacake304](https://osu.ppy.sh/users/3741704)
-- ::{ flag=PH }:: [ManiaDegengod](https://osu.ppy.sh/users/13193798)
-- ::{ flag=AU }:: [shorts](https://osu.ppy.sh/users/8021372)
-- ::{ flag=PH }:: [shadowkun-](https://osu.ppy.sh/users/13450837)
+- ::{ flag=PH }:: ::\1LS\1Tenshi::{ user-id=18520056 }
+- ::{ flag=PH }:: ::- Kura -::{ user-id=11420405 }
+- ::{ flag=PH }:: ::Sanni::{ user-id=3036686 }
+- ::{ flag=PH }:: ::DaMeMeThEiFxD::{ user-id=14324153 }
+- ::{ flag=PH }:: ::Arona::{ user-id=8748664 }
+- ::{ flag=PH }:: ::DumbFunk::{ user-id=16446375 }
+- ::{ flag=QA }:: ::bustinman::{ user-id=19089928 }
+- ::{ flag=PH }:: ::\1LS\1Shark::{ user-id=18270641 }
+- ::{ flag=PH }:: ::bojii the rock::{ user-id=10083439 }
+- ::{ flag=PH }:: ::arcwinolivirus::{ user-id=2039089 }
+- ::{ flag=PH }:: ::-VRX-::{ user-id=8597906 }
+- ::{ flag=PH }:: ::Wewoj::{ user-id=3166596 }
+- ::{ flag=PH }:: ::MapleSyrup-::{ user-id=1192936 }
+- ::{ flag=PH }:: ::mama mo::{ user-id=9085137 }
+- ::{ flag=PH }:: ::bananacake304::{ user-id=3741704 }
+- ::{ flag=PH }:: ::ManiaDegengod::{ user-id=13193798 }
+- ::{ flag=AU }:: ::shorts::{ user-id=8021372 }
+- ::{ flag=PH }:: ::shadowkun-::{ user-id=13450837 }
 
 ## Podium
 
@@ -123,17 +123,17 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [bojii the rock](https://osu.ppy.sh/users/10083439) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [[KN]CuB-03](https://osu.ppy.sh/users/18560307) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [iid3rp](https://osu.ppy.sh/users/23274559) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::bojii the rock::{ user-id=10083439 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::\1KN\1CuB-03::{ user-id=18560307 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::iid3rp::{ user-id=23274559 } |
 
 ### osu!mania 7K
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Sanni](https://osu.ppy.sh/users/3036686) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [bojii the rock](https://osu.ppy.sh/users/10083439) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::Sanni::{ user-id=3036686 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::Arona::{ user-id=8748664 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::bojii the rock::{ user-id=10083439 } |
 
 ## Mappools
 

@@ -32,7 +32,7 @@ tags:
 
 ## Historia
 
-El proyecto comenzó a mediados de 2015[^peppy-2017] como un nuevo diseño para la interfaz del cliente estable con el nombre en código «osu!next» realizado por [flyte](https://osu.ppy.sh/users/3103765), el diseñador principal de osu!. Esto se mostró por primera vez en un [vídeo de presentación](https://www.youtube.com/watch?v=lrWyqpNUwBo) el mismo año.
+El proyecto comenzó a mediados de 2015[^peppy-2017] como un nuevo diseño para la interfaz del cliente estable con el nombre en código «osu!next» realizado por ::flyte::{ user-id=3103765 }, el diseñador principal de osu!. Esto se mostró por primera vez en un [vídeo de presentación](https://www.youtube.com/watch?v=lrWyqpNUwBo) el mismo año.
 
 Las versiones preliminares se subieron en el [blog de diseño](https://osunext.tumblr.com/) de flyte a partir de 2016.
 

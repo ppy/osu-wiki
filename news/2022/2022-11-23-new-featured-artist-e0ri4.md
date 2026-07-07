@@ -25,9 +25,9 @@ Rhythm game music, hardcore songs, and *BMS OF FIGHTERS* submissions are the bul
 
 Check out any maps from the video:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/1889263) hosted by [Strategas](https://osu.ppy.sh/users/2971837) and created specifically for this announcement!
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1718565) hosted by [KTYN](https://osu.ppy.sh/users/2250574)
-- [5K osu!mania map](https://osu.ppy.sh/beatmapsets/1725779) hosted by [by-ad](https://osu.ppy.sh/users/7439939)
+- [osu! map](https://osu.ppy.sh/beatmapsets/1889263) hosted by ::Strategas::{ user-id=2971837 } and created specifically for this announcement!
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1718565) hosted by ::KTYN::{ user-id=2250574 }
+- [5K osu!mania map](https://osu.ppy.sh/beatmapsets/1725779) hosted by ::by-ad::{ user-id=7439939 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/322/Emotional%20Reality%2FE0ri4%20-%20L0V3%204RR0W%205H007.mp3" type="audio/mpeg">

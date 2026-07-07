@@ -220,7 +220,7 @@
 
 ## 趣闻
 
-- 玩家标签功能于 2025 年 3 月 21 日首次推出，其灵感来源于旨在为谱面提供玩家策划的标签系统的 [OMDB](https://omdb.nyahh.net/) 项目。该项目最初由 ::{ flag=GB }:: [apollodw](https://osu.ppy.sh/users/9558549) 开发，于 2025 年 3 月 1 日[因个人原因](https://x.com/bunnygirltwink/status/1892328084893815059)停止运营。
+- 玩家标签功能于 2025 年 3 月 21 日首次推出，其灵感来源于旨在为谱面提供玩家策划的标签系统的 [OMDB](https://omdb.nyahh.net/) 项目。该项目最初由 ::{ flag=GB }:: ::apollodw::{ user-id=9558549 } 开发，于 2025 年 3 月 1 日[因个人原因](https://x.com/bunnygirltwink/status/1892328084893815059)停止运营。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

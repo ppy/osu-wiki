@@ -8,7 +8,7 @@ tags:
 
 ![osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park logo](img/logo.jpg)
 
-The **osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park** was a single-elimination 1v1 osu!mania LAN tournament hosted by [Perkumpulan Orang Santai Total (POST)](https://santai.web.id/) under the guidance and supervision of ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) and ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) from the Indonesian osu! community. It was the first-ever osu!mania tournament of this scale to be held by POST, which had previously facilitated tournaments for other games such as Tekken 7.
+The **osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park** was a single-elimination 1v1 osu!mania LAN tournament hosted by [Perkumpulan Orang Santai Total (POST)](https://santai.web.id/) under the guidance and supervision of ::{ flag=ID }:: ::Niva::{ user-id=197805 } and ::{ flag=ID }:: ::Vvn::{ user-id=3204677 } from the Indonesian osu! community. It was the first-ever osu!mania tournament of this scale to be held by POST, which had previously facilitated tournaments for other games such as Tekken 7.
 
 ## Tournament schedule
 
@@ -44,14 +44,14 @@ The osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park was run
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=ID }:: Raben (POST), ::{ flag=ID }:: Ijul (POST), ::{ flag=ID }:: Erlangga (POST) |
-| Steering committee | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) |
-| Mappool selector | ::{ flag=ID }:: [Mipha-](https://osu.ppy.sh/users/5767941), ::{ flag=ID }:: [Symmatrix-](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [IceVee](https://osu.ppy.sh/users/8108213) |
-| Mappool helper | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
-| Commentator | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) |
-| Referee | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
-| Documentation | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [liykun](https://osu.ppy.sh/users/9500057) |
-| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
-| Additional helper | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) |
+| Steering committee | ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 } |
+| Mappool selector | ::{ flag=ID }:: ::Mipha-::{ user-id=5767941 }, ::{ flag=ID }:: ::Symmatrix-::{ user-id=17258072 }, ::{ flag=ID }:: ::IceVee::{ user-id=8108213 } |
+| Mappool helper | ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::Sies::{ user-id=6491991 } |
+| Commentator | ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::Maxus::{ user-id=4335785 } |
+| Referee | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
+| Documentation | ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::liykun::{ user-id=9500057 } |
+| Wiki editor | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
+| Additional helper | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::Suikami::{ user-id=1929336 } |
 
 ## Links
 
@@ -64,15 +64,15 @@ The osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park was run
 
 Listed below are the players who were admitted into the tournament:
 
-- ::{ flag=ID }:: [\[ -Asriel- \]](https://osu.ppy.sh/users/11829623)
-- ::{ flag=ID }:: [LuxKooky](https://osu.ppy.sh/users/4691146)
-- ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093)
-- ::{ flag=ID }:: [\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224)
-- ::{ flag=ID }:: [Fansly](https://osu.ppy.sh/users/10410817)
-- ::{ flag=ID }:: [Ihram-san](https://osu.ppy.sh/users/9908055)
-- ::{ flag=ID }:: [youtoo12](https://osu.ppy.sh/users/5110129)
-- ::{ flag=ID }:: [anteiku7](https://osu.ppy.sh/users/7013247)
-- ::{ flag=ID }:: [KarinaKatsuna](https://osu.ppy.sh/users/31669247)
+- ::{ flag=ID }:: ::\[ -Asriel- \]::{ user-id=11829623 }
+- ::{ flag=ID }:: ::LuxKooky::{ user-id=4691146 }
+- ::{ flag=ID }:: ::KinoJourney::{ user-id=15798093 }
+- ::{ flag=ID }:: ::\[ID\]Xenotia-::{ user-id=13865224 }
+- ::{ flag=ID }:: ::Fansly::{ user-id=10410817 }
+- ::{ flag=ID }:: ::Ihram-san::{ user-id=9908055 }
+- ::{ flag=ID }:: ::youtoo12::{ user-id=5110129 }
+- ::{ flag=ID }:: ::anteiku7::{ user-id=7013247 }
+- ::{ flag=ID }:: ::KarinaKatsuna::{ user-id=31669247 }
 
 ## Podium
 
@@ -80,9 +80,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [LuxKooky](https://osu.ppy.sh/users/4691146) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [\[ -Asriel- \]](https://osu.ppy.sh/users/11829623) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: ::LuxKooky::{ user-id=4691146 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: ::\[ -Asriel- \]::{ user-id=11829623 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: ::KinoJourney::{ user-id=15798093 } |
 
 ## Mappools
 
@@ -141,35 +141,35 @@ This competition has come to an end and resulted in the following podium:
 
 | Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[LuxKooky](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: [\[ -Asriel- \]](https://osu.ppy.sh/users/11829623) | [#1](https://osu.ppy.sh/community/matches/105421255) |
+| Grand Final | **::LuxKooky::{ user-id=4691146 }** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: ::\[ -Asriel- \]::{ user-id=11829623 } | [#1](https://osu.ppy.sh/community/matches/105421255) |
 
 ### 3rd-place match
 
 | Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 3rd-place match | [\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224) ::{ flag=ID }:: | 2 | **4** | ::{ flag=ID }:: **[KinoJourney](https://osu.ppy.sh/users/15798093)** | [#1](https://osu.ppy.sh/community/matches/105421643) |
+| 3rd-place match | ::\[ID\]Xenotia-::{ user-id=13865224 } ::{ flag=ID }:: | 2 | **4** | ::{ flag=ID }:: **::KinoJourney::{ user-id=15798093 }** | [#1](https://osu.ppy.sh/community/matches/105421643) |
 
 ### Semifinals
 
 | Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Semifinal 1 | **[LuxKooky](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093) | [#1](https://osu.ppy.sh/community/matches/105420605) |
-| Semifinal 2 | [\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224) ::{ flag=ID }:: | 1 | **3** | ::{ flag=ID }:: **[\[ -Asriel- \]](https://osu.ppy.sh/users/11829623)** | [#1](https://osu.ppy.sh/community/matches/105420755) |
+| Semifinal 1 | **::LuxKooky::{ user-id=4691146 }** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: ::KinoJourney::{ user-id=15798093 } | [#1](https://osu.ppy.sh/community/matches/105420605) |
+| Semifinal 2 | ::\[ID\]Xenotia-::{ user-id=13865224 } ::{ flag=ID }:: | 1 | **3** | ::{ flag=ID }:: **::\[ -Asriel- \]::{ user-id=11829623 }** | [#1](https://osu.ppy.sh/community/matches/105420755) |
 
 ### Quarterfinals
 
 | Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Quarterfinal 1 | **[LuxKooky](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: [youtoo12](https://osu.ppy.sh/users/5110129) | [#1](https://osu.ppy.sh/community/matches/105418603) |
-| Quarterfinal 2 | [anteiku7](https://osu.ppy.sh/users/7013247) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **[KinoJourney](https://osu.ppy.sh/users/15798093)** | [#1](https://osu.ppy.sh/community/matches/105418912) |
-| Quarterfinal 3 | **[\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224)** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: [Fansly](https://osu.ppy.sh/users/10410817) | [#1](https://osu.ppy.sh/community/matches/105419216) |
-| Quarterfinal 4 | [KarinaKatsuna](https://osu.ppy.sh/users/31669247) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **[\[ -Asriel- \]](https://osu.ppy.sh/users/11829623)** | [#1](https://osu.ppy.sh/community/matches/105419558) |
+| Quarterfinal 1 | **::LuxKooky::{ user-id=4691146 }** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: ::youtoo12::{ user-id=5110129 } | [#1](https://osu.ppy.sh/community/matches/105418603) |
+| Quarterfinal 2 | ::anteiku7::{ user-id=7013247 } ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **::KinoJourney::{ user-id=15798093 }** | [#1](https://osu.ppy.sh/community/matches/105418912) |
+| Quarterfinal 3 | **::\[ID\]Xenotia-::{ user-id=13865224 }** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: ::Fansly::{ user-id=10410817 } | [#1](https://osu.ppy.sh/community/matches/105419216) |
+| Quarterfinal 4 | ::KarinaKatsuna::{ user-id=31669247 } ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **::\[ -Asriel- \]::{ user-id=11829623 }** | [#1](https://osu.ppy.sh/community/matches/105419558) |
 
 ### Extra preliminary match
 
 | Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Extra preliminary match | [Ihram-san](https://osu.ppy.sh/users/9908055) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **[LuxKooky](https://osu.ppy.sh/users/4691146)** | [#1](https://osu.ppy.sh/community/matches/105418155) |
+| Extra preliminary match | ::Ihram-san::{ user-id=9908055 } ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **::LuxKooky::{ user-id=4691146 }** | [#1](https://osu.ppy.sh/community/matches/105418155) |
 
 ## Ruleset
 

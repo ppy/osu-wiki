@@ -39,7 +39,7 @@ The contest came and went, and for many months, there was only silence as things
 
 Much like Mocha and Yuzu before them, Mani and Mari represent a great joining in osu!'s history where the creators of the game and the community come together to bring things to life.
 
-The product of [**xiemon**'s](https://osu.ppy.sh/users/5203667) artistic design and concept direction, Mari and Mani are an exciting new addition to the osu!mascot roster, and we hope that people find their twin-hating antics as amusing and endearing as we did. xiemon really went above and beyond in his characterization of the twins, impressing us from day one with their vibrant personalities.
+The product of ::**xiemon**'s::{ user-id=5203667 } artistic design and concept direction, Mari and Mani are an exciting new addition to the osu!mascot roster, and we hope that people find their twin-hating antics as amusing and endearing as we did. xiemon really went above and beyond in his characterization of the twins, impressing us from day one with their vibrant personalities.
 
 You might be wondering, wow, Mari sure looks like Maria - weren't we supposed to be saying goodbye to her? In all of xiemon's brilliance, he took the groundwork laid down by Daru and the community across years of fanart contests and breathed new life into the design, bringing her back as Mari. It's only fitting, after all - there's no way she'd ever let her brother hog all of the spotlight!
 

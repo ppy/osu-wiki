@@ -23,7 +23,7 @@ Haven't heard **nyankobrq**'s music yet? Use your circle-clicking instincts and 
 
 ### nyankobrq & yaca - twinkle night (feat. somunia)
 
-Explore [the map that introduced **nyankobrq** to osu!](https://osu.ppy.sh/beatmapsets/1684705) hosted by [climbx3145](https://osu.ppy.sh/users/14014646)!
+Explore [the map that introduced **nyankobrq** to osu!](https://osu.ppy.sh/beatmapsets/1684705) hosted by ::climbx3145::{ user-id=14014646 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/330/Songs/nyankobrq%20_%20yaca%20-%20twinkle%20night%20(feat.%20somunia).mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Explore [the map that introduced **nyankobrq** to osu!](https://osu.ppy.sh/beatm
 
 ### nyankobrq - Snorkel
 
-Or check out [this brand-new map](https://osu.ppy.sh/beatmapsets/1886230) hosted by [Ogura Yui](https://osu.ppy.sh/users/6644401)!
+Or check out [this brand-new map](https://osu.ppy.sh/beatmapsets/1886230) hosted by ::Ogura Yui::{ user-id=6644401 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/330/Songs/nyankobrq%20-%20Snorkel.mp3" type="audio/mpeg">

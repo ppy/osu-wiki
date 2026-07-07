@@ -25,7 +25,7 @@ If mapping isn't your thing, feel free to watch and play through these beatmaps 
 
 ### Aquellex - Cortex Charger
 
-Play through [the osu! original showcased above](https://osu.ppy.sh/beatmapsets/2062236) hosted by [Halogen-](https://osu.ppy.sh/users/169992)!
+Play through [the osu! original showcased above](https://osu.ppy.sh/beatmapsets/2062236) hosted by ::Halogen-::{ user-id=169992 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/380/Songs/Aquellex - Cortex Charger.mp3">
@@ -33,7 +33,7 @@ Play through [the osu! original showcased above](https://osu.ppy.sh/beatmapsets/
 
 ### Aquellex - Tachyon Beam Cannon
 
-If you're ready for more chaos, try out [this Loved 4K map](https://osu.ppy.sh/beatmapsets/852921) hosted by [lemonguy](https://osu.ppy.sh/users/4693052)!
+If you're ready for more chaos, try out [this Loved 4K map](https://osu.ppy.sh/beatmapsets/852921) hosted by ::lemonguy::{ user-id=4693052 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/380/Songs/Aquellex - Tachyon Beam Cannon.mp3">
@@ -41,7 +41,7 @@ If you're ready for more chaos, try out [this Loved 4K map](https://osu.ppy.sh/b
 
 ### Aquellex - Wanderflux
 
-If 4 fingers aren't enough, try [this Loved 7K map](https://osu.ppy.sh/beatmapsets/925899) also hosted [lemonguy](https://osu.ppy.sh/users/4693052) or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/1763568) hosted by [meiqth](https://osu.ppy.sh/users/12565402)!
+If 4 fingers aren't enough, try [this Loved 7K map](https://osu.ppy.sh/beatmapsets/925899) also hosted ::lemonguy::{ user-id=4693052 } or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/1763568) hosted by ::meiqth::{ user-id=12565402 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/380/Songs/Aquellex - Wanderflux.mp3">
@@ -49,7 +49,7 @@ If 4 fingers aren't enough, try [this Loved 7K map](https://osu.ppy.sh/beatmapse
 
 ### Aquellex - Starflight
 
-Your next mission is to play [this 4K map](https://osu.ppy.sh/beatmapsets/1752950) hosted yet again by [lemonguy](https://osu.ppy.sh/users/4693052).
+Your next mission is to play [this 4K map](https://osu.ppy.sh/beatmapsets/1752950) hosted yet again by ::lemonguy::{ user-id=4693052 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/380/Songs/Aquellex - Starflight.mp3">
@@ -57,7 +57,7 @@ Your next mission is to play [this 4K map](https://osu.ppy.sh/beatmapsets/175295
 
 ### Aquellex - Ballistic Bunny (feat. Kommisar)
 
-Last but definitely not least, try out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1079067) hosted by [Alchyr](https://osu.ppy.sh/users/4993032)!
+Last but definitely not least, try out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1079067) hosted by ::Alchyr::{ user-id=4993032 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/380/Songs/Aquellex - Ballistic Bunny (feat. Kommisar).mp3">

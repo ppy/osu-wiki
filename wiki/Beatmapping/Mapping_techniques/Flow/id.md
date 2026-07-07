@@ -45,9 +45,9 @@ Karena subjektivitas flow dan jumlah pola pergerakan kursor yang dapat terjadi, 
 
 ## Lihat pula
 
-- [Analyzing Flow in Beatmaps](https://osu.ppy.sh/community/forums/topics/86329), panduan oleh ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000)
-- [Mapping Analysis #1 - Flow](https://osu.ppy.sh/home/news/2013-09-15-mapping-analysis-1-flow), postingan berita oleh ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005)
-- [flow + circles](https://www.youtube.com/watch?v=ig7nTSbWwVc) dan [flow + sliders](https://www.youtube.com/watch?v=GYGatwQszwQ), episode dari [osu!mapping](/wiki/Community/Video_series/osu!mapping) serial YouTube oleh ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
+- [Analyzing Flow in Beatmaps](https://osu.ppy.sh/community/forums/topics/86329), panduan oleh ::{ flag=US }:: ::Charles445::{ user-id=85000 }
+- [Mapping Analysis #1 - Flow](https://osu.ppy.sh/home/news/2013-09-15-mapping-analysis-1-flow), postingan berita oleh ::{ flag=FR }:: ::Shiro::{ user-id=113005 }
+- [flow + circles](https://www.youtube.com/watch?v=ig7nTSbWwVc) dan [flow + sliders](https://www.youtube.com/watch?v=GYGatwQszwQ), episode dari [osu!mapping](/wiki/Community/Video_series/osu!mapping) serial YouTube oleh ::{ flag=US }:: ::pishifat::{ user-id=3178418 }
 
 ## Catatan kaki
 

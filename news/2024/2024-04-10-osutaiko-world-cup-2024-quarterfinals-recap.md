@@ -96,9 +96,9 @@ This meant it was the perfect time to bounce back! They quickly turned the table
 
 52 weeks ago, or 364 days ago if you prefer, Canada and Russia met on the battlefield in the Quarterfinals just like this year. However, back then, both teams dealt huge amounts of damage to each other and numerous breakpoints occurred. "That was not going to happen this year", both teams thought silently, and they couldn't have been more right.
 
-It was a tough and destructive battle with almost zero breakpoints! Both teams really gave it their all. The lead kept flickering throughout the entire match and the tiebreaker's shadow was slowly revealing itself at the end of the tunnel. Near the end at the battle's pinnacle, Canada won their streamy [NM5 pick](https://osu.ppy.sh/beatmapsets/531697#taiko/1126786), mapped 8 years ago by the one and only [frukoyurdakul](https://osu.ppy.sh/users/7612550)!
+It was a tough and destructive battle with almost zero breakpoints! Both teams really gave it their all. The lead kept flickering throughout the entire match and the tiebreaker's shadow was slowly revealing itself at the end of the tunnel. Near the end at the battle's pinnacle, Canada won their streamy [NM5 pick](https://osu.ppy.sh/beatmapsets/531697#taiko/1126786), mapped 8 years ago by the one and only ::frukoyurdakul::{ user-id=7612550 }!
 
-The score was now 5–4, leaning towards Canada. Because of this, Russia decided to pick the [fast DT2](https://osu.ppy.sh/beatmapsets/2159330#taiko/4552816), the banger of a lifetime mapped by legendary [D3kuu](https://osu.ppy.sh/users/7807444), and all the spectators raised their hands for the upcoming stress-inducing battle — and holy smokes was this an intense battle.
+The score was now 5–4, leaning towards Canada. Because of this, Russia decided to pick the [fast DT2](https://osu.ppy.sh/beatmapsets/2159330#taiko/4552816), the banger of a lifetime mapped by legendary ::D3kuu::{ user-id=7807444 }, and all the spectators raised their hands for the upcoming stress-inducing battle — and holy smokes was this an intense battle.
 
 Russia missed first but found a humongous trade from Canada. Both teams kept finding gigantic accuracy drops, but Russia crumbled under the enormous pressure at the end, and when the intensity loosened, everyone realised what had just happened. Canada won Russia's pick with the first breakpoint of the match, avoiding the menacing tiebreaker altogether. What a match!
 
@@ -106,7 +106,7 @@ Russia missed first but found a humongous trade from Canada. Both teams kept fin
 
 We have a couple of interesting statistics to share, and hopefully you will find them as cool as we did!
 
-- ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738) achieved four 1x100 scores in a row, two of which being Free Mod maps with Hidden + Hard Rock.
+- ::{ flag=BR }:: ::HiroK::{ user-id=4050738 } achieved four 1x100 scores in a row, two of which being Free Mod maps with Hidden + Hard Rock.
 - Team UK was only 1x100 short of a perfect 3,000,000 score on [Uroko - How 2(torial) move out](https://osu.ppy.sh/beatmapsets/2159324#taiko/4552782) to win their match against Team Taiwan.
 - Team Chile was the first team to score a point against Team Japan after they went untouched in 2023, also on [Uroko - How 2(torial) move out](https://osu.ppy.sh/beatmapsets/2159324#taiko/4552782).
 

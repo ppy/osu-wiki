@@ -65,4 +65,4 @@ When the sampleset of an inherited timing point is set to `S:C2` as in the image
 
 ## External sources
 
-- [*how to add custom hitsound?* forum reply](https://osu.ppy.sh/community/forums/posts/3215699) by [neonat](https://osu.ppy.sh/users/1561995)
+- [*how to add custom hitsound?* forum reply](https://osu.ppy.sh/community/forums/posts/3215699) by ::neonat::{ user-id=1561995 }

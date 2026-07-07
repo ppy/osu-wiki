@@ -15,7 +15,7 @@ In case you're out of the loop, the **Monthly Beatmapping Contest** (***MBC***) 
 
 Votes for all finalists can be found on the [contest's listing](https://osu.ppy.sh/community/contests/84).
 
-**Community vote winner:** **[MYLK - Kiradoki Harmony](https://osu.ppy.sh/beatmapsets/1111940#osu/2323164)** by **[melon boy](https://osu.ppy.sh/users/3053382)** (previously known as Fuccho), masked as Prejudicial Robin.
+**Community vote winner:** **[MYLK - Kiradoki Harmony](https://osu.ppy.sh/beatmapsets/1111940#osu/2323164)** by **::melon boy::{ user-id=3053382 }** (previously known as Fuccho), masked as Prejudicial Robin.
 
 Receiving a towering **78** votes, melon boy's submission soared to the top of the community vote poll and was crowned the #1 entry in this month's contest! This beatmap features tons of 145 BPM stream jumps with a large circle size, making for a difficult yet manageable alternating-focused experience!
 
@@ -23,13 +23,13 @@ For his reward, melon boy has earned a newly-polished profile badge (design belo
 
 ![](/wiki/shared/news/2020-02-20-monthly-beatmapping-contest-1-results/mbc-badge-1.png)
 
-**Community vote runner-up:** **[MYLK - Waffle Wave](https://osu.ppy.sh/beatmapsets/1112024#osu/2323356)** by **[Moecho](https://osu.ppy.sh/users/5075660)**, masked as Imprudent Bunting.
+**Community vote runner-up:** **[MYLK - Waffle Wave](https://osu.ppy.sh/beatmapsets/1112024#osu/2323356)** by **::Moecho::{ user-id=5075660 }**, masked as Imprudent Bunting.
 
 With an impressive **66** votes, Moecho's entry landed in second place for the contest's community vote! While the users in charge of deciding this contest's finalists were more than exhausted by hearing *Waffle Wave* hundreds of times, they noted that this beatmap's rhythms featuring reversing sliders stood out. If you're looking for a refreshing take on rhythm choice, give this map a shot!
 
 As the contest's runner-up, Moecho earned a month of supporter and is halfway to the first reward tier's profile badge prize! Again, see the **[rewards](#rewards)** section for more details.
 
-**Screening crew's favorite:** **[MYLK - Daydreamer](https://assets.ppy.sh/contests/84/entries/osz/MYLK%20-%20Daydreamer%20(Warm%20Pronghorn).osz?2020)** by **[Altai](https://osu.ppy.sh/users/5745865)**, masked as Warm Pronghorn.
+**Screening crew's favorite:** **[MYLK - Daydreamer](https://assets.ppy.sh/contests/84/entries/osz/MYLK%20-%20Daydreamer%20(Warm%20Pronghorn).osz?2020)** by **::Altai::{ user-id=5745865 }**, masked as Warm Pronghorn.
 
 All MBC submissions are screened by about 10 experienced beatmappers to decide the finalists. This month, more than half of the screening crew placed Altai's submission in their top 5 out of over 100 entries! With a high contrast slider velocity gimmick, this beatmap is an experience like no other. It didn't quite pull in community votes, but may appeal more to the mapper audience!
 

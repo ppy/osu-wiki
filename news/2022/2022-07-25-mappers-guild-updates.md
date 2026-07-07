@@ -68,7 +68,7 @@ Want your own maps showcased on the [@osugame Twitter](https://twitter.com/osuga
 1. Register on the [**Mappers' Guild** website](https://mappersguild.com)
 2. Mark yourself as a **FA showcase mapper** via the top-right menu
 ![](/wiki/shared/news/2022-07-25-mappers-guild-updates/fashowcase.gif)
-3. Wait for a message from the [mappersguild bot](https://osu.ppy.sh/users/23648635) (these are sent in batches, so it may take a while to receive the message!)
+3. Wait for a message from the ::mappersguild bot::{ user-id=23648635 } (these are sent in batches, so it may take a while to receive the message!)
 
 ### Showcase beatmap requirements
 
@@ -132,41 +132,41 @@ There's absolutely no way we could highlight every beatmap/quest, but we *can* s
 
 | User | Modes | Beatmaps Ranked | Difficulties Ranked |
 | :-- | :-- | :-- | :-- |
-| [eiri-](https://osu.ppy.sh/users/3388410) | osu!, osu!taiko | 25 | 110 |
-| [Hivie](https://osu.ppy.sh/users/14102976) | osu!, osu!taiko | 17 | 96 |
-| [Faputa](https://osu.ppy.sh/users/845733) | osu!mania, osu!taiko | 16 | 87 |
-| [Hinsvar](https://osu.ppy.sh/users/1249323) | osu! | 17 | 85 |
-| [Jemzuu](https://osu.ppy.sh/users/7890134) | osu!catch | 14 | 76 |
-| [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) | osu!taiko | 20 | 71 |
-| [FAMoss](https://osu.ppy.sh/users/7707789) | osu!mania | 16 | 63 |
-| [Niva](https://osu.ppy.sh/users/197805) | osu! | 12 | 47 |
-| [duski](https://osu.ppy.sh/users/6506484) | osu!taiko | 13 | 44 |
-| [Lasse](https://osu.ppy.sh/users/896613) | osu! | 7 | 42 |
-| [Nelly](https://osu.ppy.sh/users/4741164) | osu!catch | 8 | 40 |
-| [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | osu!taiko, osu! | 7 | 37 |
-| [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch | 7 | 33 |
-| [ikin5050](https://osu.ppy.sh/users/4007649) | osu!taiko | 10 | 31 |
-| [-Aqua](https://osu.ppy.sh/users/7150015) | osu! | 6 | 29 |
-| [Spectator](https://osu.ppy.sh/users/702598) | osu!catch | 6 | 28 |
-| [Capu](https://osu.ppy.sh/users/2474015) | osu!taiko | 5 | 28 |
-| [Kukkai](https://osu.ppy.sh/users/7811952) | osu!catch | 5 | 28 |
-| [Deif](https://osu.ppy.sh/users/318565) | osu!catch | 5 | 25 |
-| [Jaltzu](https://osu.ppy.sh/users/2597417) | osu!taiko | 8 | 25 |
-| [Strategas](https://osu.ppy.sh/users/2971837) | osu! | 5 | 23 |
-| [DakeDekaane](https://osu.ppy.sh/users/1425253) | osu!taiko | 5 | 23 |
-| [GIGACHAD](https://osu.ppy.sh/users/11081858) | osu!catch, osu!taiko | 5 | 22 |
-| [Nao Tomori](https://osu.ppy.sh/users/5364763) | osu!, osu!taiko | 5 | 21 |
-| [Secre](https://osu.ppy.sh/users/2306637) | osu!catch | 9 | 18 |
-| [SMOKELIND](https://osu.ppy.sh/users/9327302) | osu!, osu!taiko | 10 | 17 |
-| [Cris-](https://osu.ppy.sh/users/6175280) | osu! | 5 | 14 |
-| [Axer](https://osu.ppy.sh/users/7299864) | osu!taiko | 6 | 14 |
-| [elicz1](https://osu.ppy.sh/users/8039342) | osu! | 5 | 13 |
-| [Daletto](https://osu.ppy.sh/users/7592136) | osu!catch, osu!taiko | 5 | 12 |
-| [PandaHero](https://osu.ppy.sh/users/1233255) | osu! | 5 | 11 |
-| [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | osu!taiko | 5 | 11 |
-| [Razor Sharp](https://osu.ppy.sh/users/3414261) | osu!catch | 5 | 9 |
-| [Heaxys](https://osu.ppy.sh/users/5671417) | osu!taiko | 5 | 9 |
-| [ItsWinter](https://osu.ppy.sh/users/6381153) | osu! | 6 | 7 |
+| ::eiri-::{ user-id=3388410 } | osu!, osu!taiko | 25 | 110 |
+| ::Hivie::{ user-id=14102976 } | osu!, osu!taiko | 17 | 96 |
+| ::Faputa::{ user-id=845733 } | osu!mania, osu!taiko | 16 | 87 |
+| ::Hinsvar::{ user-id=1249323 } | osu! | 17 | 85 |
+| ::Jemzuu::{ user-id=7890134 } | osu!catch | 14 | 76 |
+| ::HEAVENLY MOON::{ user-id=13681283 } | osu!taiko | 20 | 71 |
+| ::FAMoss::{ user-id=7707789 } | osu!mania | 16 | 63 |
+| ::Niva::{ user-id=197805 } | osu! | 12 | 47 |
+| ::duski::{ user-id=6506484 } | osu!taiko | 13 | 44 |
+| ::Lasse::{ user-id=896613 } | osu! | 7 | 42 |
+| ::Nelly::{ user-id=4741164 } | osu!catch | 8 | 40 |
+| ::Cynplytholowazy::{ user-id=3901754 } | osu!taiko, osu! | 7 | 37 |
+| ::JBHyperion::{ user-id=4879508 } | osu!catch | 7 | 33 |
+| ::ikin5050::{ user-id=4007649 } | osu!taiko | 10 | 31 |
+| ::-Aqua::{ user-id=7150015 } | osu! | 6 | 29 |
+| ::Spectator::{ user-id=702598 } | osu!catch | 6 | 28 |
+| ::Capu::{ user-id=2474015 } | osu!taiko | 5 | 28 |
+| ::Kukkai::{ user-id=7811952 } | osu!catch | 5 | 28 |
+| ::Deif::{ user-id=318565 } | osu!catch | 5 | 25 |
+| ::Jaltzu::{ user-id=2597417 } | osu!taiko | 8 | 25 |
+| ::Strategas::{ user-id=2971837 } | osu! | 5 | 23 |
+| ::DakeDekaane::{ user-id=1425253 } | osu!taiko | 5 | 23 |
+| ::GIGACHAD::{ user-id=11081858 } | osu!catch, osu!taiko | 5 | 22 |
+| ::Nao Tomori::{ user-id=5364763 } | osu!, osu!taiko | 5 | 21 |
+| ::Secre::{ user-id=2306637 } | osu!catch | 9 | 18 |
+| ::SMOKELIND::{ user-id=9327302 } | osu!, osu!taiko | 10 | 17 |
+| ::Cris-::{ user-id=6175280 } | osu! | 5 | 14 |
+| ::Axer::{ user-id=7299864 } | osu!taiko | 6 | 14 |
+| ::elicz1::{ user-id=8039342 } | osu! | 5 | 13 |
+| ::Daletto::{ user-id=7592136 } | osu!catch, osu!taiko | 5 | 12 |
+| ::PandaHero::{ user-id=1233255 } | osu! | 5 | 11 |
+| ::Ph0eNiiXZ::{ user-id=9463721 } | osu!taiko | 5 | 11 |
+| ::Razor Sharp::{ user-id=3414261 } | osu!catch | 5 | 9 |
+| ::Heaxys::{ user-id=5671417 } | osu!taiko | 5 | 9 |
+| ::ItsWinter::{ user-id=6381153 } | osu! | 6 | 7 |
 
 Thanks to everyone here (and everyone else who's done *anything* in the guild) for hard-carrying osu!'s steady supply of Featured Artist content.
 

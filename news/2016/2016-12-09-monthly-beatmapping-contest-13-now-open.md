@@ -6,7 +6,7 @@ tumblr_url: http://osunews.tumblr.com/post/154237931188/monthly-beatmapping-cont
 series: monthly_beatmapping_contest
 ---
 
-It's been a long while since our last monthly contest, but we're back with a brand new challenge, featuring the winner of the [first osu!remix contest](https://osu.ppy.sh/community/contests/1), [BilliumMoto](https://osu.ppy.sh/users/3862471) and his track *HDHR*!
+It's been a long while since our last monthly contest, but we're back with a brand new challenge, featuring the winner of the [first osu!remix contest](https://osu.ppy.sh/community/contests/1), ::BilliumMoto::{ user-id=3862471 } and his track *HDHR*!
 
 We'll be continuing the MBC series across other gamemodes (including osu!, of course) in 2017. To end 2016 on a high note and celebrate the OWC finals, we figure we'd give the creative side of the game the means to flex their muscles in a more competitive environment as well.
 

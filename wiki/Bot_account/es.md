@@ -62,4 +62,4 @@ El [equipo de soporte de cuentas](/wiki/People/Account_support_team) revisará t
 ## Curiosidades
 
 - La insignia de grupo `BOT` se muestra en cuentas con un grupo principal de `Chat Bots` (grupo #29). El listado del grupo no es público.
-- Algunas cuentas personales están en el grupo de bots de chat porque los propietarios no quisieron o no solicitaron tener una cuenta de bot separada para su servicio, por ejemplo ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) y ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454). Esta configuración ya no se ofrece, y los nuevos bots que entren en el grupo recibirán siempre una cuenta exclusiva.
+- Algunas cuentas personales están en el grupo de bots de chat porque los propietarios no quisieron o no solicitaron tener una cuenta de bot separada para su servicio, por ejemplo ::{ flag=DE }:: ::Tillerino::{ user-id=2070907 } y ::{ flag=FR }:: ::ThePooN::{ user-id=718454 }. Esta configuración ya no se ofrece, y los nuevos bots que entren en el grupo recibirán siempre una cuenta exclusiva.

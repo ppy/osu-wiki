@@ -25,7 +25,7 @@ Check everything out for yourself:
 
 ### tbh i dont like being social
 
-Try [the map from the video](https://osu.ppy.sh/beatmapsets/1557097) hosted by [ellae](https://osu.ppy.sh/users/15487855)!
+Try [the map from the video](https://osu.ppy.sh/beatmapsets/1557097) hosted by ::ellae::{ user-id=15487855 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/250/tbh%20i%20dont%20like%20being%20social/luvlxckdown%20-%20tbh%20i%20dont%20like%20being%20social.mp3" type="audio/mpeg">

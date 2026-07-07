@@ -21,11 +21,11 @@ To be specific, there are now **8** new tracks on [**kanemiko**'s Featured Artis
 
 Some songs are so good that they're mapped over and over again by the osu! community:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/2338171) by [eringiRa](https://osu.ppy.sh/users/16383529)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/2055747) by [Nelly](https://osu.ppy.sh/users/4741164), [Deif](https://osu.ppy.sh/users/318565), [autofanboy](https://osu.ppy.sh/users/636114), [Greaper](https://osu.ppy.sh/users/2369776), [Jemzuu](https://osu.ppy.sh/users/7890134), and [wwwww](https://osu.ppy.sh/users/8434466)
+- [osu! map](https://osu.ppy.sh/beatmapsets/2338171) by ::eringiRa::{ user-id=16383529 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/2055747) by ::Nelly::{ user-id=4741164 }, [Deif](https://osu.ppy.sh/users/318565), ::autofanboy::{ user-id=636114 }, [Greaper](https://osu.ppy.sh/users/2369776), ::Jemzuu::{ user-id=7890134 }, and [wwwww](https://osu.ppy.sh/users/8434466)
 - [4K osu!mania map](https://osu.ppy.sh/beatmapsets/2259859) by [Toaph Daddy](https://osu.ppy.sh/beatmapsets/2259859)
-- [Another 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2229971) by [Ulazis](https://osu.ppy.sh/users/11144363)
-- [Yet another 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2371088) by [\_Vexxxx\_](https://osu.ppy.sh/users/29374048)
+- [Another 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2229971) by ::Ulazis::{ user-id=11144363 }
+- [Yet another 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2371088) by ::\_Vexxxx\_::{ user-id=29374048 }
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -35,7 +35,7 @@ Some songs are so good that they're mapped over and over again by the osu! commu
 
 ### kanemiko - Dream Escapism Fantasia
 
-Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2128816) by [elexire](https://osu.ppy.sh/users/9206093) and [Unpredictable](https://osu.ppy.sh/users/7560872)!
+Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2128816) by ::elexire::{ user-id=9206093 } and [Unpredictable](https://osu.ppy.sh/users/7560872)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/367/Songs/kanemiko_-_Dream_Escapism_Fantasia.mp3">
@@ -43,7 +43,7 @@ Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2128816) by [elex
 
 ### Us4KKi - Aria for Lepus
 
-Make your best effort on [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1908573) by [Dekovner](https://osu.ppy.sh/users/19859015) or [this osu!catch version](https://osu.ppy.sh/beatmapsets/2075714) by [autofanboy](https://osu.ppy.sh/users/636114), [Natsuko](https://osu.ppy.sh/users/8266817), and [fayew](https://osu.ppy.sh/users/12498861)!
+Make your best effort on [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1908573) by ::Dekovner::{ user-id=19859015 } or [this osu!catch version](https://osu.ppy.sh/beatmapsets/2075714) by ::autofanboy::{ user-id=636114 }, [Natsuko](https://osu.ppy.sh/users/8266817), and ::fayew::{ user-id=12498861 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/367/Songs/Us4KKi_-_Aria_for_Lepus.mp3">
@@ -53,9 +53,9 @@ Make your best effort on [this osu!taiko map](https://osu.ppy.sh/beatmapsets/190
 
 You have three options:
 
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/2011522) (released with the song!) by [Jemzuu](https://osu.ppy.sh/users/7890134) and [Zyzyx](https://osu.ppy.sh/users/2888013)
-- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/2011539) by [-mint-](https://osu.ppy.sh/users/8976576)
-- [6K osu!mania map](https://osu.ppy.sh/beatmapsets/2352124) by [oct4](https://osu.ppy.sh/users/10303887)
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/2011522) (released with the song!) by ::Jemzuu::{ user-id=7890134 } and [Zyzyx](https://osu.ppy.sh/users/2888013)
+- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/2011539) by ::-mint-::{ user-id=8976576 }
+- [6K osu!mania map](https://osu.ppy.sh/beatmapsets/2352124) by ::oct4::{ user-id=10303887 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/367/Cold%20Fusion/kanemiko%20-%20Cold%20Fusion.mp3">
@@ -65,9 +65,9 @@ You have three options:
 
 Take your pick:
 
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/1774562) (the first Ranked **kanemiko** map!) hosted by [Unlucky_w](https://osu.ppy.sh/users/4820793)
-- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/2429906) by [FanIsAnIdiot](https://osu.ppy.sh/users/18293924)
-- [Significantly harder 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2250586) by [VividCycle](https://osu.ppy.sh/users/14351534)
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/1774562) (the first Ranked **kanemiko** map!) hosted by ::Unlucky\1w::{ user-id=4820793 }
+- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/2429906) by ::FanIsAnIdiot::{ user-id=18293924 }
+- [Significantly harder 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2250586) by ::VividCycle::{ user-id=14351534 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/367/HARDCORE%20UTOPIA%203/kanemiko%20-%20Electrolytes.mp3">
@@ -75,7 +75,7 @@ Take your pick:
 
 ### kanemiko - Twilight of the Abyss
 
-Experience [this extensive spread](https://osu.ppy.sh/beatmapsets/2209401) hosted by [nominomu](https://osu.ppy.sh/users/30485380)!
+Experience [this extensive spread](https://osu.ppy.sh/beatmapsets/2209401) hosted by ::nominomu::{ user-id=30485380 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/367/Songs/kanemiko_-_Twilight_of_the_Abyss.mp3">
@@ -83,7 +83,7 @@ Experience [this extensive spread](https://osu.ppy.sh/beatmapsets/2209401) hoste
 
 ### Kurokotei x kanemiko - astranelique
 
-Check out [this map](https://osu.ppy.sh/beatmapsets/2234516) by [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654) made for [Corsace Open 2024](https://osu.ppy.sh/beatmaps/artists/381), or [this osu!catch rendition](https://osu.ppy.sh/beatmapsets/2329129) by [wwwww](https://osu.ppy.sh/users/8434466), [yeeeter](https://osu.ppy.sh/users/15274666), [Zileni](https://osu.ppy.sh/users/23525574), and [Eunie](https://osu.ppy.sh/users/24092731)!
+Check out [this map](https://osu.ppy.sh/beatmapsets/2234516) by ::9ami::{ user-id=1499997 } and [oTwinkle](https://osu.ppy.sh/users/15095654) made for [Corsace Open 2024](https://osu.ppy.sh/beatmaps/artists/381), or [this osu!catch rendition](https://osu.ppy.sh/beatmapsets/2329129) by ::wwwww::{ user-id=8434466 }, [yeeeter](https://osu.ppy.sh/users/15274666), ::Zileni::{ user-id=23525574 }, and [Eunie](https://osu.ppy.sh/users/24092731)!
 
 <audio controls class="osu-md__paragraph">
     <source src="https://assets.ppy.sh/artists/367/Songs/Kurokotei_x_kanemiko_-_astranelique.mp3">
@@ -93,7 +93,7 @@ In case you missed these unreasonably awesome videos from World Cup mappool show
 
 ### kanemiko & Kyutatsuki & Aoi - Fractal Vertex
 
-Try out [the original tiebreaker set](https://osu.ppy.sh/beatmapsets/2253784) mapped by [Toaph Daddy](https://osu.ppy.sh/users/7616811), [MyZterioN-](https://osu.ppy.sh/users/8521723), [-mint-](https://osu.ppy.sh/users/8976576), [elexire](https://osu.ppy.sh/users/9206093), and [guden](https://osu.ppy.sh/users/11626065), or [this Ranked version](https://osu.ppy.sh/beatmapsets/2433249) by [\[GS\]hina](https://osu.ppy.sh/users/20040607)!
+Try out [the original tiebreaker set](https://osu.ppy.sh/beatmapsets/2253784) mapped by ::Toaph Daddy::{ user-id=7616811 }, [MyZterioN-](https://osu.ppy.sh/users/8521723), ::-mint-::{ user-id=8976576 }, [elexire](https://osu.ppy.sh/users/9206093), and ::guden::{ user-id=11626065 }, or [this Ranked version](https://osu.ppy.sh/beatmapsets/2433249) by ::\[GS\]hina::{ user-id=20040607 }!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/iTY7lcYZRVQ" frameborder="0" allowfullscreen></iframe>
@@ -103,10 +103,10 @@ Try out [the original tiebreaker set](https://osu.ppy.sh/beatmapsets/2253784) ma
 
 Play through any of these maps:
 
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/2354646) by [Alchyr](https://osu.ppy.sh/users/4993032)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/2321573) by [Bunnrei](https://osu.ppy.sh/users/829284) and [Yoshi_green](https://osu.ppy.sh/users/1035891)
-- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/2319270) by [chy030_ft_pH5_6](https://osu.ppy.sh/users/9492856)
-- [7K osu!mania map](https://osu.ppy.sh/beatmapsets/2318032) (the original tiebreaker!) by [\_Stan](https://osu.ppy.sh/users/1653229), [Mochineko](https://osu.ppy.sh/users/3793196), [Maxus](https://osu.ppy.sh/users/4335785), [kaulpakka](https://osu.ppy.sh/users/7115625), [ExNeko](https://osu.ppy.sh/users/7590894), and [taba2](https://osu.ppy.sh/users/7850508)
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/2354646) by ::Alchyr::{ user-id=4993032 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/2321573) by ::Bunnrei::{ user-id=829284 } and [Yoshi_green](https://osu.ppy.sh/users/1035891)
+- [4K osu!mania map](https://osu.ppy.sh/beatmapsets/2319270) by ::chy030\1ft\1pH5\16::{ user-id=9492856 }
+- [7K osu!mania map](https://osu.ppy.sh/beatmapsets/2318032) (the original tiebreaker!) by ::\_Stan::{ user-id=1653229 }, [Mochineko](https://osu.ppy.sh/users/3793196), ::Maxus::{ user-id=4335785 }, [kaulpakka](https://osu.ppy.sh/users/7115625), ::ExNeko::{ user-id=7590894 }, and [taba2](https://osu.ppy.sh/users/7850508)
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/rip9J3RtiSA" frameborder="0" allowfullscreen></iframe>

@@ -49,7 +49,7 @@ That's enough about playlists. Open up osu!(lazer) already or fill your ears wit
 
 ### Andora - Euphoria (feat. WaMi)
 
-Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1905874) hosted by [-Aqua](https://osu.ppy.sh/users/7150015)!
+Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1905874) hosted by ::-Aqua::{ user-id=7150015 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/363/Euphoria%20(feat.%20WaMi)/Andora%20-%20Euphoria%20(feat.%20WaMi).mp3">
@@ -57,7 +57,7 @@ Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1905874) hoste
 
 ### Andora - Flicker (feat. RANASOL)
 
-Or maybe try [this osu!mania map](https://osu.ppy.sh/beatmapsets/1978179) hosted by [FAMoss](https://osu.ppy.sh/users/7707789)!
+Or maybe try [this osu!mania map](https://osu.ppy.sh/beatmapsets/1978179) hosted by ::FAMoss::{ user-id=7707789 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/363/Flicker%20(feat.%20RANASOL)/Andora%20-%20Flicker%20(feat.%20RANASOL).mp3">

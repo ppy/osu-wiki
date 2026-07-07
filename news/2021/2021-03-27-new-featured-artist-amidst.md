@@ -13,7 +13,7 @@ Hailing from the artistic hub of San Francisco, **Amidst** is an electronic prod
 
 We've snagged a solid **27** tracks from his future bass and EDM-filled catalogue, all available from [**Amidst**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/151)!
 
-Looking for a taste of this musical magic? Folks from the Mappers' Guild created a bunch of mapsets just for this announcement, including a mapset of [*Digital*](https://osu.ppy.sh/beatmapsets/1320499) by [Daycore](https://osu.ppy.sh/users/5596337) with hitsounding contributions from the legend himself, **Amidst**! See how it turned out in this video, then check out the other songs and maps below!
+Looking for a taste of this musical magic? Folks from the Mappers' Guild created a bunch of mapsets just for this announcement, including a mapset of [*Digital*](https://osu.ppy.sh/beatmapsets/1320499) by ::Daycore::{ user-id=5596337 } with hitsounding contributions from the legend himself, **Amidst**! See how it turned out in this video, then check out the other songs and maps below!
 
 <div align="center">
     <video width="95%" controls>
@@ -39,7 +39,7 @@ Play through [this unexpectedly difficult mapset](https://osu.ppy.sh/beatmapsets
 
 ### Treat
 
-Or play [this shorter mapset](https://osu.ppy.sh/beatmapsets/1345615) hosted by the Mappers' Guild's [Daycore](https://osu.ppy.sh/users/5596337)!
+Or play [this shorter mapset](https://osu.ppy.sh/beatmapsets/1345615) hosted by the Mappers' Guild's ::Daycore::{ user-id=5596337 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/151/Songs/Amidst%20-%20Treat.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ Or play [this shorter mapset](https://osu.ppy.sh/beatmapsets/1345615) hosted by 
 
 ### Amidst & OHEY - Need U
 
-Check out [this jump-filled mapset](https://osu.ppy.sh/beatmapsets/1319384) hosted by [Shmiklak](https://osu.ppy.sh/users/5504231) of the Mappers' Guild!
+Check out [this jump-filled mapset](https://osu.ppy.sh/beatmapsets/1319384) hosted by ::Shmiklak::{ user-id=5504231 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/151/Songs/Amidst%20&%20OHEY%20-%20Need%20U.mp3" type="audio/mpeg">

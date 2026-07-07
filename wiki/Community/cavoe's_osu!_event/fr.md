@@ -12,7 +12,7 @@
 
 :::
 
-**cavoe's osu! event** (***COE***) est une convention osu! annuelle hébergée aux Pays-Bas, fondée par ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815). L'événement accueille des tournois et propose des places réservées pour les ordinateurs personnels (BYOC), des stands de jeux, des événements scéniques liés à osu! et d'autres activités.
+**cavoe's osu! event** (***COE***) est une convention osu! annuelle hébergée aux Pays-Bas, fondée par ::{ flag=NL }:: ::cavoeboy::{ user-id=7361815 }. L'événement accueille des tournois et propose des places réservées pour les ordinateurs personnels (BYOC), des stands de jeux, des événements scéniques liés à osu! et d'autres activités.
 
 ## Itérations
 
@@ -35,7 +35,7 @@
 
 En tant qu'événement appelé sobrement "osu! event" et avec uniquement 35 personnes pour une durée de 3 jours, le COE a commencé en 2017 comme un "meetup national néerlandais avec quelques visiteurs d'autres pays" au café De Hangar à Eindhoven.
 
-L'itération 2018 s'est développée jusqu'à devenir notoire avec plus de 300 participants et une durée de 10 jours, mettant en vedette des joueurs de premier plan tels que ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) (auparavant Cookiezi), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) (auparavant BeasttrollMC), et ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828).
+L'itération 2018 s'est développée jusqu'à devenir notoire avec plus de 300 participants et une durée de 10 jours, mettant en vedette des joueurs de premier plan tels que ::{ flag=KR }:: ::chocomint::{ user-id=124493 } (auparavant Cookiezi), ::{ flag=US }:: ::BTMC::{ user-id=3171691 } (auparavant BeasttrollMC), et ::{ flag=PL }:: ::WubWoofWolf::{ user-id=39828 }.
 
 Le COE 2019 a déplacé ses opérations au Brabanthallen à 's-Hertogenbosch (alias Den Bosch). Dans un lieu plus grand, doté notamment d'une grande scène. La convention a accueilli plus de 500 personnes et a proposé davantage de stands VR, d'événements scéniques et une zone VIP dédiée.
 

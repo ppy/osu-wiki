@@ -29,7 +29,7 @@ La actividad de los Beatmap Nominators se mide a través de las nominaciones,[^m
 - Cuando se te advierta de tu actividad, los requisitos mínimos de actividad deben cumplirse al cabo de 30 días.
 - No cumplir con el mínimo requerido cuando se ha sido advertido por ello en un periodo de 1 año supondrá la expulsión de los Beatmap Nominators.
 
-Cuando se haya creado la evaluación de un Beatmap Nominator y aún tenga que cumplir sus requisitos mínimos de actividad, recibirá un recordatorio a través del [bot del NAT](https://osu.ppy.sh/users/6616586) y tendrá **7** días para cumplir su cuota.
+Cuando se haya creado la evaluación de un Beatmap Nominator y aún tenga que cumplir sus requisitos mínimos de actividad, recibirá un recordatorio a través del ::bot del NAT::{ user-id=6616586 } y tendrá **7** días para cumplir su cuota.
 
 ## Nominaciones
 

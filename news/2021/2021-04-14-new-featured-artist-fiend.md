@@ -13,7 +13,7 @@ A trailblazer in his own musical niche, **fiend** is an Australian producer reno
 
 We rounded up **5** tracks from **fiend**'s ever-popular *FEVER DREAM* album. While selection may be limited, each of these songs is an experience unlike any other, lending to more mapping opportunities than you'd expect from the short tracklist.
 
-Anyone who hasn't heard **fiend** is missing out. It's the honest truth. If you need an introduction, this cursor-tracking gameplay of the title track [*FEVER DREAM (feat. yzzyx)*](https://osu.ppy.sh/beatmapsets/1405913) mapped by [Niva](https://osu.ppy.sh/users/197805) is a perfect starting point, followed by any of the previews below:
+Anyone who hasn't heard **fiend** is missing out. It's the honest truth. If you need an introduction, this cursor-tracking gameplay of the title track [*FEVER DREAM (feat. yzzyx)*](https://osu.ppy.sh/beatmapsets/1405913) mapped by ::Niva::{ user-id=197805 } is a perfect starting point, followed by any of the previews below:
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ Anyone who hasn't heard **fiend** is missing out. It's the honest truth. If you 
 
 ### 2DF2
 
-Play through [this map of the short bonus track](https://osu.ppy.sh/beatmapsets/1288865) mapped by [0ppInOsu](https://osu.ppy.sh/users/12551840)!
+Play through [this map of the short bonus track](https://osu.ppy.sh/beatmapsets/1288865) mapped by ::0ppInOsu::{ user-id=12551840 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/156/FEVER%20DREAM%2Ffiend%20-%202DF2%20%28real%29.mp3" type="audio/mpeg">

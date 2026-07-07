@@ -13,7 +13,7 @@ If high BPM piano melodies are your jam, you've got a friend in **Plum**. **Plum
 
 **13** tracks have arrived at your doorstep (assuming your doorstep is [**Plum**'s Featured Artist library](https://osu.ppy.sh/beatmaps/artists/249)).
 
-Need a sample? [_Epreus](https://osu.ppy.sh/users/7342798) produced a map of [Maelstrom](https://osu.ppy.sh/beatmapsets/1679690) specifically for this announcement to showcase the true potential of **Plum**'s sound. See how a top player manages that 7 star beatmap, then check out the rest of the previews below:
+Need a sample? ::\1Epreus::{ user-id=7342798 } produced a map of [Maelstrom](https://osu.ppy.sh/beatmapsets/1679690) specifically for this announcement to showcase the true potential of **Plum**'s sound. See how a top player manages that 7 star beatmap, then check out the rest of the previews below:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ Need a sample? [_Epreus](https://osu.ppy.sh/users/7342798) produced a map of [Ma
 
 ### Maelstrom
 
-Try [this map from the video above](https://osu.ppy.sh/beatmapsets/1679690) hosted by [_Epreus](https://osu.ppy.sh/users/7342798)!
+Try [this map from the video above](https://osu.ppy.sh/beatmapsets/1679690) hosted by ::\1Epreus::{ user-id=7342798 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/249/Melody%20From%20Sky/Plum%20-%20Maelstrom.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Try [this map from the video above](https://osu.ppy.sh/beatmapsets/1679690) host
 
 ### Timeline
 
-Play the piano to **Plum**'s piano tune through [this osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1510034) hosted by [TakJun](https://osu.ppy.sh/users/4356322)!
+Play the piano to **Plum**'s piano tune through [this osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1510034) hosted by ::TakJun::{ user-id=4356322 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/249/Musicbox%2024-7%20-%20Side%20PM/Plum%20-%20Timeline.mp3" type="audio/mpeg">

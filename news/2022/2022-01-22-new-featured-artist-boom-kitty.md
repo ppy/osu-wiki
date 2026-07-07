@@ -23,7 +23,7 @@ As an innovator in the EDM scene, it's only fitting that you experience **Boom K
 
 ### Boom Kitty - Any Other Way (feat. Ivy Marie)
 
-Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1673457) created by [elicz1](https://osu.ppy.sh/users/8039342) and [Zelq](https://osu.ppy.sh/users/8953955)!
+Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1673457) created by ::elicz1::{ user-id=8039342 } and [Zelq](https://osu.ppy.sh/users/8953955)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/233/Songs/Boom%20Kitty%20-%20Any%20Other%20Way%20%28feat.%20Ivy%20Marie%29.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1673457) creat
 
 ### Boom Kitty & HeliXiX - Tokyo Takedown
 
-Check out [the osu!taiko map that introduced **Boom Kitty** to our community](https://osu.ppy.sh/beatmapsets/798245) hosted by [realy0_](https://osu.ppy.sh/users/8863359)!
+Check out [the osu!taiko map that introduced **Boom Kitty** to our community](https://osu.ppy.sh/beatmapsets/798245) hosted by ::realy0\1::{ user-id=8863359 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/233/Songs/Boom%20Kitty%20%26%20Ubi%20-%20Tokyo%20Takedown.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Check out [the osu!taiko map that introduced **Boom Kitty** to our community](ht
 
 ### Boom Kitty - Firewall
 
-More osu!taiko? [More osu!taiko](https://osu.ppy.sh/beatmapsets/1254357). Hosted by [Jaltzu](https://osu.ppy.sh/users/2597417).
+More osu!taiko? [More osu!taiko](https://osu.ppy.sh/beatmapsets/1254357). Hosted by ::Jaltzu::{ user-id=2597417 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/233/Songs/Boom%20Kitty%20-%20Firewall.mp3" type="audio/mpeg">

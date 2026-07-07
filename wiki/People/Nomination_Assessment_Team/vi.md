@@ -91,19 +91,19 @@ Khi một thành viên NAT quyết định rời đi, họ có thể nhận đư
 
 Cựu thành viên NAT hiện đang có quyền truy cập nội bộ bao gồm:
 
-- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
-- ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501)
-- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
-- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
+- ::{ flag=GB }:: ::AJT::{ user-id=3181083 }
+- ::{ flag=BR }:: ::Dada::{ user-id=9119507 }
+- ::{ flag=BE }:: ::enneya::{ user-id=10959501 }
+- ::{ flag=DE }:: ::FuJu::{ user-id=10773882 }
+- ::{ flag=US }:: ::radar::{ user-id=7131099 }
+- ::{ flag=CN }:: ::Ryuusei Aika::{ user-id=7777875 }
+- ::{ flag=BE }:: ::yaspo::{ user-id=4945926 }
 
 ## Trưởng nhóm NAT
 
 Kể từ tháng Ba năm 2023, NAT đã quyết định lập trưởng nhóm [như tiền thân của NAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) là [QAT](/wiki/People/Quality_Assurance_Team). Trưởng nhóm NAT phụ trách công việc của cả mảng đánh giá và tổ chức để họ có thể quản lý và tham gia vào mọi khía cạnh của NAT.
 
-Trưởng nhóm NAT hiện tại là ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976).
+Trưởng nhóm NAT hiện tại là ::{ flag=TN }:: ::Hivie::{ user-id=14102976 }.
 
 ### Trách nhiệm của trưởng nhóm
 
@@ -128,51 +128,51 @@ Trưởng nhóm NAT phụ trách những việc sau:
 
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Tiếng Ý |
-| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
-| ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Tiếng Phần Lan |
-| ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | Tiếng Thụy Điển |
-| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Tiếng Thái |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Tiếng Hà Lan |
-| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Tiếng Phần Lan |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Tiếng Trung Quốc |
-| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Tiếng Nga |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Tiếng pháp, Tây Ban Nha |
-| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Trung Quốc |
-| ::{ flag=RO }:: [bms](https://osu.ppy.sh/users/12366071) | Romanian |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Tiếng Đức |
+| ::{ flag=IT }:: ::-kevincela-::{ user-id=266596 } | Tiếng Ý |
+| ::{ flag=US }:: ::-White::{ user-id=16276548 } |  |
+| ::{ flag=FI }:: ::Asphyxia::{ user-id=1715720 } | Tiếng Phần Lan |
+| ::{ flag=SE }:: ::byd::{ user-id=6398464 } | Tiếng Thụy Điển |
+| ::{ flag=TH }:: ::Electoz::{ user-id=6485263 } | Tiếng Thái |
+| ::{ flag=BE }:: ::enneya::{ user-id=10959501 } | Tiếng Hà Lan |
+| ::{ flag=FI }:: ::fllecc::{ user-id=14060327 } | Tiếng Phần Lan |
+| ::{ flag=CA }:: ::Lafayla::{ user-id=5312547 } |  |
+| ::{ flag=CN }:: ::Mafumafu::{ user-id=3076909 } | Tiếng Trung Quốc |
+| ::{ flag=RU }:: ::Mirash::{ user-id=2841009 } | Tiếng Nga |
+| ::{ flag=KR }:: ::momoyo::{ user-id=12469536 } | Tiếng pháp, Tây Ban Nha |
+| ::{ flag=TW }:: ::Muchin::{ user-id=9834516 } | Trung Quốc |
+| ::{ flag=RO }:: ::bms::{ user-id=12366071 } | Romanian |
+| ::{ flag=US }:: ::Noffy::{ user-id=1541323 } |  |
+| ::{ flag=DE }:: ::Okoayu::{ user-id=1623405 } | Tiếng Đức |
 
 #### osu!taiko
 
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Tiếng Trung Quốc |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonese, Tiếng Trung Quốc |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Tiếng Ả Rập, Tiếng đức |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Tiếng Bồ Đào Nha |
-| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Tiếng Đức, một chút tiếng Pháp |
+| ::{ flag=SG }:: ::arcpotato::{ user-id=12842392 } | Tiếng Trung Quốc |
+| ::{ flag=HK }:: ::BlackBN::{ user-id=6291741 } | Cantonese, Tiếng Trung Quốc |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | Tiếng Ả Rập, Tiếng đức |
+| ::{ flag=BR }:: ::Ideal::{ user-id=3869519 } | Tiếng Bồ Đào Nha |
+| ::{ flag=AT }:: ::Yasuho::{ user-id=8458835 } | Tiếng Đức, một chút tiếng Pháp |
 
 #### osu!catch
 
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Tiếng Đức |
-| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Hàn Quốc |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Hàn Quốc |
+| ::{ flag=AT }:: ::Daletto::{ user-id=7592136 } | Tiếng Đức |
+| ::{ flag=KR }:: ::Rocma::{ user-id=566276 } | Hàn Quốc |
+| ::{ flag=KR }:: ::Spectator::{ user-id=702598 } | Hàn Quốc |
 
 #### osu!mania
 
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Tiếng Việt |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Tây Ban Nha |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Trung quốc |
-| ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | Tiếng Ý |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Tiếng Ả Rập, Tiếng Pháp |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Tây Ban Nha |
+| ::{ flag=VN }:: ::Akasha-::{ user-id=2596306 } | Tiếng Việt |
+| ::{ flag=DO }:: ::Antalf::{ user-id=8793773 } | Tây Ban Nha |
+| ::{ flag=CN }:: ::gzdongsheng::{ user-id=8660315 } | Trung quốc |
+| ::{ flag=IT }:: ::Harbyter::{ user-id=1147679 } | Tiếng Ý |
+| ::{ flag=ID }:: ::Maxus::{ user-id=4335785 } | Indonesian |
+| ::{ flag=DZ }:: ::Scotty::{ user-id=11085809 } | Tiếng Ả Rập, Tiếng Pháp |
+| ::{ flag=ES }:: ::RandomeLoL::{ user-id=7080063 } | Catalan, Tây Ban Nha |
 
 ### Bộ phận tổ chức
 
@@ -180,18 +180,18 @@ Những thành viên NAT sau đây chỉ đảm nhận công việc của mảng
 
 | Tên | Nhiệm vụ |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Xử lý các cuộc thảo luận, công việc và tài liệu nội bộ |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Tổ chức cố vấn BN |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Phát triển [Công cụ lên kế hoạch đề cử](https://bnplanner.greaper.net/beatmaps) và phát triển [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Phát triển [Trang web quản lý BN](https://bn.mappersguild.com) |
+| ::{ flag=GB }:: ::-Mo-::{ user-id=2202163 } | Xử lý các cuộc thảo luận, công việc và tài liệu nội bộ |
+| ::{ flag=BR }:: ::Dada::{ user-id=9119507 } | Tổ chức cố vấn BN |
+| ::{ flag=NL }:: ::Greaper::{ user-id=2369776 } | Phát triển [Công cụ lên kế hoạch đề cử](https://bnplanner.greaper.net/beatmaps) và phát triển [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
+| ::{ flag=US }:: ::pishifat::{ user-id=3178418 } | Phát triển [Trang web quản lý BN](https://bn.mappersguild.com) |
 
 Những thành viên NAT sau đây giữ vai trò đánh giá là chủ yếu, nhưng đồng thời có đóng góp vào mảng tổ chức:
 
 | Tên | Nhiệm vụ |
 | :-- | :-- |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Ban lãnh đạo NAT, phát triển [Trang quản lý BN](https://bn.mappersguild.com) và [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Xử lý báo cáo nội dung, phát triển [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | Ban lãnh đạo NAT, phát triển [Trang quản lý BN](https://bn.mappersguild.com) và [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) |
+| ::{ flag=ES }:: ::RandomeLoL::{ user-id=7080063 } | Xử lý báo cáo nội dung, phát triển [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) |
 
 ---
 
-Ngoài ra, [tài khoản bot của Đội ngũ Đánh giá Đề cử](https://osu.ppy.sh/users/6616586) hoạt động như một đại diện NAT để gửi thông báo chung dưới một tài khoản người dùng mà không trực tiếp gắn với cá nhân nào. Bot có thể được sử dụng để gửi các phản hồi đánh giá, các đợt đánh giá thử, hòa giải, báo cáo và xem xét nội dung và các mục đích khác.
+Ngoài ra, ::tài khoản bot của Đội ngũ Đánh giá Đề cử::{ user-id=6616586 } hoạt động như một đại diện NAT để gửi thông báo chung dưới một tài khoản người dùng mà không trực tiếp gắn với cá nhân nào. Bot có thể được sử dụng để gửi các phản hồi đánh giá, các đợt đánh giá thử, hòa giải, báo cáo và xem xét nội dung và các mục đích khác.

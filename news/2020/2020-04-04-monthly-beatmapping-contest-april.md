@@ -21,7 +21,7 @@ And to make voting even easier, you can preview all entries in this super-conven
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLp7-THR1EUHG8-4SWVlSCN4OhgCDFvP7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Special thanks to [Regou](https://osu.ppy.sh/users/419954) for providing replays for the videos. With that out of the way, let's dive into April's contest!
+Special thanks to ::Regou::{ user-id=419954 } for providing replays for the videos. With that out of the way, let's dive into April's contest!
 
 ## Schedule
 

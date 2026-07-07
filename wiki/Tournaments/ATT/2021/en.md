@@ -8,7 +8,7 @@ tags:
 
 ![ATT 2021 logo](img/logo.jpg)
 
-The **Ausu!Taiko Tournament 2021** (**ATT 2021**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235). The tournament was restricted to players within the Southeast Asian countries only. It was the seventh instalment of the Ausu!Taiko Tournament.
+The **Ausu!Taiko Tournament 2021** (**ATT 2021**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 }. The tournament was restricted to players within the Southeast Asian countries only. It was the seventh instalment of the Ausu!Taiko Tournament.
 
 ## Tournament schedule
 
@@ -37,13 +37,13 @@ The Ausu!Taiko Tournament 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) |
-| Mappool selector | ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) |
-| Referee | ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=MY }:: [Xeltic Rival](https://osu.ppy.sh/users/7500364), ::{ flag=US }:: [zachmanthethird](https://osu.ppy.sh/users/15048710) |
-| Streamer | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442) |
-| Designer | ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867) |
-| Statistician | ::{ flag=US }:: [zachmanthethird](https://osu.ppy.sh/users/15048710) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organizer | ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 } |
+| Mappool selector | ::{ flag=JP }:: ::Maimaing::{ user-id=14520910 }, ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 } |
+| Referee | ::{ flag=MY }:: ::cdh::{ user-id=2403621 }, ::{ flag=AU }:: ::Fairy Bread::{ user-id=8306102 }, ::{ flag=FR }:: ::Kasumi-sama::{ user-id=6177263 }, ::{ flag=SG }:: ::Spartric::{ user-id=7740442 }, ::{ flag=MY }:: ::Xeltic Rival::{ user-id=7500364 }, ::{ flag=US }:: ::zachmanthethird::{ user-id=15048710 } |
+| Streamer | ::{ flag=FR }:: ::Kasumi-sama::{ user-id=6177263 }, ::{ flag=SG }:: ::Spartric::{ user-id=7740442 } |
+| Designer | ::{ flag=PH }:: ::OsuMe65::{ user-id=852867 } |
+| Statistician | ::{ flag=US }:: ::zachmanthethird::{ user-id=15048710 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Links
 
@@ -58,24 +58,24 @@ The Ausu!Taiko Tournament 2021 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=ID }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647), ::{ flag=AU }:: [r1chyy](https://osu.ppy.sh/users/11499467), ::{ flag=ID }:: [misaki\_tk](https://osu.ppy.sh/users/3866964), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=PH }:: [jmeh07](https://osu.ppy.sh/users/2852269), ::{ flag=TH }:: [Ponamis](https://osu.ppy.sh/users/7897892), ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722), ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071) |
-| High | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664), ::{ flag=SG }:: [Element118](https://osu.ppy.sh/users/2283992), ::{ flag=SG }:: [Bobfree](https://osu.ppy.sh/users/10096125), ::{ flag=SG }:: [Prehistoria](https://osu.ppy.sh/users/8364237), ::{ flag=SG }:: [tzechi](https://osu.ppy.sh/users/4662795), ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183) |
-| Mid | ::{ flag=TH }:: [ConieSan](https://osu.ppy.sh/users/2035344), ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/users/9755504), ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247), ::{ flag=PH }:: [Kotaro](https://osu.ppy.sh/users/796530), ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=PH }:: [DescriptiCringe](https://osu.ppy.sh/users/10882115) |
-| Low | ::{ flag=NZ }:: [arley\_](https://osu.ppy.sh/users/9039824), ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501), ::{ flag=NZ }:: [Bwhaa](https://osu.ppy.sh/users/7960435), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115), ::{ flag=SG }:: [kuudere-desu](https://osu.ppy.sh/users/10694200), ::{ flag=PH }:: [Astrid Park](https://osu.ppy.sh/users/12320451), ::{ flag=NZ }:: [Blujae](https://osu.ppy.sh/users/10613885), ::{ flag=MY }:: [nikolpai\_15](https://osu.ppy.sh/users/11584592) |
-| Unseeded | ::{ flag=SG }:: [dantoh000](https://osu.ppy.sh/users/11414361), ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957), ::{ flag=TH }:: [KappuChinooo](https://osu.ppy.sh/users/9582525), ::{ flag=MY }:: [TaikOseania](https://osu.ppy.sh/users/14036825) |
+| Top | ::{ flag=ID }:: ::apaajaboleh10::{ user-id=5151647 }, ::{ flag=AU }:: ::r1chyy::{ user-id=11499467 }, ::{ flag=ID }:: ::misaki\_tk::{ user-id=3866964 }, ::{ flag=MY }:: ::Jerry::{ user-id=605973 }, ::{ flag=PH }:: ::jmeh07::{ user-id=2852269 }, ::{ flag=TH }:: ::Ponamis::{ user-id=7897892 }, ::{ flag=ID }:: ::Naverlyn::{ user-id=14324722 }, ::{ flag=ID }:: ::Volta::{ user-id=4154071 } |
+| High | ::{ flag=PH }:: ::Aiery::{ user-id=10363380 }, ::{ flag=ID }:: ::Katdon\_donKat::{ user-id=8089664 }, ::{ flag=SG }:: ::Element118::{ user-id=2283992 }, ::{ flag=SG }:: ::Bobfree::{ user-id=10096125 }, ::{ flag=SG }:: ::Prehistoria::{ user-id=8364237 }, ::{ flag=SG }:: ::tzechi::{ user-id=4662795 }, ::{ flag=PH }:: ::ezeenS::{ user-id=3679969 }, ::{ flag=AU }:: ::Tsubasa2::{ user-id=6835183 } |
+| Mid | ::{ flag=TH }:: ::ConieSan::{ user-id=2035344 }, ::{ flag=MY }:: ::CrabCow::{ user-id=9755504 }, ::{ flag=PH }:: ::CoEqual::{ user-id=14167247 }, ::{ flag=PH }:: ::Kotaro::{ user-id=796530 }, ::{ flag=AU }:: ::AmateurMonkeyYT::{ user-id=8379046 }, ::{ flag=MY }:: ::Bedwyr Aorta::{ user-id=10875855 }, ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 }, ::{ flag=PH }:: ::DescriptiCringe::{ user-id=10882115 } |
+| Low | ::{ flag=NZ }:: ::arley\_::{ user-id=9039824 }, ::{ flag=MY }:: ::vun::{ user-id=6932501 }, ::{ flag=NZ }:: ::Bwhaa::{ user-id=7960435 }, ::{ flag=PH }:: ::qish::{ user-id=17050115 }, ::{ flag=SG }:: ::kuudere-desu::{ user-id=10694200 }, ::{ flag=PH }:: ::Astrid Park::{ user-id=12320451 }, ::{ flag=NZ }:: ::Blujae::{ user-id=10613885 }, ::{ flag=MY }:: ::nikolpai\_15::{ user-id=11584592 } |
+| Unseeded | ::{ flag=SG }:: ::dantoh000::{ user-id=11414361 }, ::{ flag=SG }:: ::\_gt::{ user-id=8301957 }, ::{ flag=TH }:: ::KappuChinooo::{ user-id=9582525 }, ::{ flag=MY }:: ::TaikOseania::{ user-id=14036825 } |
 
 ## Groups
 
 | Group | Top seed | High seed | Mid seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380) | ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/users/9755504) | ::{ flag=SG }:: [kuudere-desu](https://osu.ppy.sh/users/10694200) | ::{ flag=TH }:: [KappuChinooo](https://osu.ppy.sh/users/9582525) |
-| **B** | ::{ flag=ID }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647) | ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183) | ::{ flag=PH }:: [CoEqual](https://osu.ppy.sh/users/14167247) | ::{ flag=PH }:: [Astrid Park](https://osu.ppy.sh/users/12320451) | - |
-| **C** | ::{ flag=AU }:: [r1chyy](https://osu.ppy.sh/users/11499467) | ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664) | ::{ flag=PH }:: [Kotaro](https://osu.ppy.sh/users/796530) | ::{ flag=NZ }:: [Blujae](https://osu.ppy.sh/users/10613885) | - |
-| **D** | ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071) | ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969) | ::{ flag=PH }:: [DescriptiCringe](https://osu.ppy.sh/users/10882115) | ::{ flag=NZ }:: [Bwhaa](https://osu.ppy.sh/users/7960435) | - |
-| **E** | ::{ flag=TH }:: [Ponamis](https://osu.ppy.sh/users/7897892) | ::{ flag=SG }:: [Element118](https://osu.ppy.sh/users/2283992) | ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) | ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | ::{ flag=SG }:: [dantoh000](https://osu.ppy.sh/users/11414361) |
-| **F** | ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722) | ::{ flag=SG }:: [tzechi](https://osu.ppy.sh/users/4662795) | ::{ flag=TH }:: [ConieSan](https://osu.ppy.sh/users/2035344) | ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115) | ::{ flag=MY }:: [TaikOseania](https://osu.ppy.sh/users/14036825) |
-| **G** | ::{ flag=ID }:: [misaki_tk](https://osu.ppy.sh/users/3866964) | ::{ flag=SG }:: [Prehistoria](https://osu.ppy.sh/users/8364237) | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) | ::{ flag=NZ }:: [arley\_](https://osu.ppy.sh/users/9039824) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) |
-| **H** | ::{ flag=PH }:: [jmeh07](https://osu.ppy.sh/users/2852269) | ::{ flag=SG }:: [Bobfree](https://osu.ppy.sh/users/10096125) | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) | ::{ flag=MY }:: [nikolpai\_15](https://osu.ppy.sh/users/11584592) | - |
+| **A** | ::{ flag=MY }:: ::Jerry::{ user-id=605973 } | ::{ flag=PH }:: ::Aiery::{ user-id=10363380 } | ::{ flag=MY }:: ::CrabCow::{ user-id=9755504 } | ::{ flag=SG }:: ::kuudere-desu::{ user-id=10694200 } | ::{ flag=TH }:: ::KappuChinooo::{ user-id=9582525 } |
+| **B** | ::{ flag=ID }:: ::apaajaboleh10::{ user-id=5151647 } | ::{ flag=AU }:: ::Tsubasa2::{ user-id=6835183 } | ::{ flag=PH }:: ::CoEqual::{ user-id=14167247 } | ::{ flag=PH }:: ::Astrid Park::{ user-id=12320451 } | - |
+| **C** | ::{ flag=AU }:: ::r1chyy::{ user-id=11499467 } | ::{ flag=ID }:: ::Katdon\_donKat::{ user-id=8089664 } | ::{ flag=PH }:: ::Kotaro::{ user-id=796530 } | ::{ flag=NZ }:: ::Blujae::{ user-id=10613885 } | - |
+| **D** | ::{ flag=ID }:: ::Volta::{ user-id=4154071 } | ::{ flag=PH }:: ::ezeenS::{ user-id=3679969 } | ::{ flag=PH }:: ::DescriptiCringe::{ user-id=10882115 } | ::{ flag=NZ }:: ::Bwhaa::{ user-id=7960435 } | - |
+| **E** | ::{ flag=TH }:: ::Ponamis::{ user-id=7897892 } | ::{ flag=SG }:: ::Element118::{ user-id=2283992 } | ::{ flag=AU }:: ::AmateurMonkeyYT::{ user-id=8379046 } | ::{ flag=MY }:: ::vun::{ user-id=6932501 } | ::{ flag=SG }:: ::dantoh000::{ user-id=11414361 } |
+| **F** | ::{ flag=ID }:: ::Naverlyn::{ user-id=14324722 } | ::{ flag=SG }:: ::tzechi::{ user-id=4662795 } | ::{ flag=TH }:: ::ConieSan::{ user-id=2035344 } | ::{ flag=PH }:: ::qish::{ user-id=17050115 } | ::{ flag=MY }:: ::TaikOseania::{ user-id=14036825 } |
+| **G** | ::{ flag=ID }:: ::misaki\1tk::{ user-id=3866964 } | ::{ flag=SG }:: ::Prehistoria::{ user-id=8364237 } | ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 } | ::{ flag=NZ }:: ::arley\_::{ user-id=9039824 } | ::{ flag=SG }:: ::\_gt::{ user-id=8301957 } |
+| **H** | ::{ flag=PH }:: ::jmeh07::{ user-id=2852269 } | ::{ flag=SG }:: ::Bobfree::{ user-id=10096125 } | ::{ flag=MY }:: ::Bedwyr Aorta::{ user-id=10875855 } | ::{ flag=MY }:: ::nikolpai\_15::{ user-id=11584592 } | - |
 
 ## Podium
 
@@ -83,9 +83,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [jmeh07](https://osu.ppy.sh/users/2852269) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: ::Katdon\_donKat::{ user-id=8089664 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::jmeh07::{ user-id=2852269 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: ::apaajaboleh10::{ user-id=5151647 } |
 
 ## Mappools
 

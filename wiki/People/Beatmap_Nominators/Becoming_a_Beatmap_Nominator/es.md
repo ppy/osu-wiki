@@ -100,7 +100,7 @@ La *etapa grupal* dura como máximo hasta 14 días después de que el solicitant
 
 En esta etapa, los comentarios y votos de cada evaluador se revelan a los demás evaluadores, y en caso de un veredicto ambiguo, discutirán hasta llegar a un consenso.
 
-A continuación, se escriben comentarios adicionales para añadir cualquier información que falte en el informe de los evaluadores y el resultado de la solicitud es enviado de vuelta al solicitante por el [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) como un [mensaje de anuncio](/wiki/Announcement_messages), tras lo cual la evaluación será archivada para referencia futura. Los solicitantes seleccionados se añaden como BN de prueba inmediatamente después de que se envía el resultado.
+A continuación, se escriben comentarios adicionales para añadir cualquier información que falte en el informe de los evaluadores y el resultado de la solicitud es enviado de vuelta al solicitante por el ::Nomination Assessment Team bot::{ user-id=6616586 } como un [mensaje de anuncio](/wiki/Announcement_messages), tras lo cual la evaluación será archivada para referencia futura. Los solicitantes seleccionados se añaden como BN de prueba inmediatamente después de que se envía el resultado.
 
 ## Comunicación posterior a la solicitud
 

@@ -37,12 +37,12 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
-| Mappool selector | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
-| Referee | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=PL }:: [crafciak31](https://osu.ppy.sh/users/8426128), ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=PL }:: [Yamakazi](https://osu.ppy.sh/users/4726691) |
-| Streamer | ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [Miq](https://osu.ppy.sh/users/2424440), ::{ flag=PL }:: [Open](https://osu.ppy.sh/users/7082921), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
-| Commentator | ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [Open](https://osu.ppy.sh/users/7082921), ::{ flag=PL }:: [paprotka](https://osu.ppy.sh/users/7233032), ::{ flag=PL }:: [Shizune](https://osu.ppy.sh/users/8682644), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282) |
-| Graphic designer | ::{ flag=PL }:: [W D Gaster](https://osu.ppy.sh/users/1475814) |
+| Host | ::{ flag=PL }:: ::Benzopirene::{ user-id=1887068 }, ::{ flag=PL }:: ::SitekX::{ user-id=3840946 } |
+| Mappool selector | ::{ flag=PL }:: ::Benzopirene::{ user-id=1887068 }, ::{ flag=PL }:: ::DaDarkDragon::{ user-id=8902097 }, ::{ flag=PL }:: ::SitekX::{ user-id=3840946 } |
+| Referee | ::{ flag=PL }:: ::Benzopirene::{ user-id=1887068 }, ::{ flag=PL }:: ::crafciak31::{ user-id=8426128 }, ::{ flag=PL }:: ::DaDarkDragon::{ user-id=8902097 }, ::{ flag=PL }:: ::Kamikaze::{ user-id=2124783 }, ::{ flag=PL }:: ::SitekX::{ user-id=3840946 }, ::{ flag=CL }:: ::WalterToro::{ user-id=5281416 }, ::{ flag=PL }:: ::Yamakazi::{ user-id=4726691 } |
+| Streamer | ::{ flag=PL }:: ::DaDarkDragon::{ user-id=8902097 }, ::{ flag=PL }:: ::Deroo::{ user-id=8360475 }, ::{ flag=PL }:: ::Kamikaze::{ user-id=2124783 }, ::{ flag=PL }:: ::Miq::{ user-id=2424440 }, ::{ flag=PL }:: ::Open::{ user-id=7082921 }, ::{ flag=PL }:: ::SitekX::{ user-id=3840946 } |
+| Commentator | ::{ flag=PL }:: ::Kamikaze::{ user-id=2124783 }, ::{ flag=PL }:: ::Open::{ user-id=7082921 }, ::{ flag=PL }:: ::paprotka::{ user-id=7233032 }, ::{ flag=PL }:: ::Shizune::{ user-id=8682644 }, ::{ flag=PL }:: ::SitekX::{ user-id=3840946 }, ::{ flag=PL }:: ::Tidek::{ user-id=743282 } |
+| Graphic designer | ::{ flag=PL }:: ::W D Gaster::{ user-id=1475814 } |
 
 ## Links
 
@@ -54,9 +54,9 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 | Seed | Users |
 | :-- | :-- |
-| Top (#1 - #8) | ::{ flag=PL }:: [- gero -](https://osu.ppy.sh/users/5068537), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [-Karen-chan-](https://osu.ppy.sh/users/1333495), ::{ flag=PL }:: [EWGF](https://osu.ppy.sh/users/8422748), ::{ flag=PL }:: [Brunwald\_1410](https://osu.ppy.sh/users/1639587), ::{ flag=PL }:: [PanzerRaymanPL](https://osu.ppy.sh/users/8352830), ::{ flag=PL }:: [Jakub Janda](https://osu.ppy.sh/users/12393014), ::{ flag=PL }:: [Lorwick](https://osu.ppy.sh/users/5481019) |
-| High (#9 - #16) | ::{ flag=PL }:: [-Maus-](https://osu.ppy.sh/users/3109917), ::{ flag=PL }:: [Alicejoy](https://osu.ppy.sh/users/10678683), ::{ flag=PL }:: [jasionnn](https://osu.ppy.sh/users/6886081), ::{ flag=PL }:: [TheFalek](https://osu.ppy.sh/users/10214260), ::{ flag=PL }:: [Miq](https://osu.ppy.sh/users/2424440), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282), ::{ flag=PL }:: [Justin14p](https://osu.ppy.sh/users/8461297), ::{ flag=PL }:: [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654) |
-| Low (#17 - #24) | ::{ flag=PL }:: [Doktorek626](https://osu.ppy.sh/users/2122669), ::{ flag=PL }:: [capsafangirl](https://osu.ppy.sh/users/4308015), ::{ flag=PL }:: [AgregaTxD](https://osu.ppy.sh/users/5115492), ::{ flag=PL }:: [Yamakazi](https://osu.ppy.sh/users/4726691), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=PL }:: [Bobini-](https://osu.ppy.sh/users/7352299), ::{ flag=PL }:: [xROCKETx](https://osu.ppy.sh/users/7442009), ::{ flag=PL }:: [Felix27](https://osu.ppy.sh/users/7447943) |
+| Top (#1 - #8) | ::{ flag=PL }:: ::- gero -::{ user-id=5068537 }, ::{ flag=PL }:: ::Kamikaze::{ user-id=2124783 }, ::{ flag=PL }:: ::-Karen-chan-::{ user-id=1333495 }, ::{ flag=PL }:: ::EWGF::{ user-id=8422748 }, ::{ flag=PL }:: ::Brunwald\_1410::{ user-id=1639587 }, ::{ flag=PL }:: ::PanzerRaymanPL::{ user-id=8352830 }, ::{ flag=PL }:: ::Jakub Janda::{ user-id=12393014 }, ::{ flag=PL }:: ::Lorwick::{ user-id=5481019 } |
+| High (#9 - #16) | ::{ flag=PL }:: ::-Maus-::{ user-id=3109917 }, ::{ flag=PL }:: ::Alicejoy::{ user-id=10678683 }, ::{ flag=PL }:: ::jasionnn::{ user-id=6886081 }, ::{ flag=PL }:: ::TheFalek::{ user-id=10214260 }, ::{ flag=PL }:: ::Miq::{ user-id=2424440 }, ::{ flag=PL }:: ::Tidek::{ user-id=743282 }, ::{ flag=PL }:: ::Justin14p::{ user-id=8461297 }, ::{ flag=PL }:: ::PoweR\_LendzeR::{ user-id=2894654 } |
+| Low (#17 - #24) | ::{ flag=PL }:: ::Doktorek626::{ user-id=2122669 }, ::{ flag=PL }:: ::capsafangirl::{ user-id=4308015 }, ::{ flag=PL }:: ::AgregaTxD::{ user-id=5115492 }, ::{ flag=PL }:: ::Yamakazi::{ user-id=4726691 }, ::{ flag=PL }:: ::Eclipse-::{ user-id=8493070 }, ::{ flag=PL }:: ::Bobini-::{ user-id=7352299 }, ::{ flag=PL }:: ::xROCKETx::{ user-id=7442009 }, ::{ flag=PL }:: ::Felix27::{ user-id=7447943 } |
 
 ## Groups
 
@@ -77,9 +77,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: [**- gero -**](https://osu.ppy.sh/users/5068537) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PL }:: [**Kamikaze**](https://osu.ppy.sh/users/2124783) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PL }:: [**-Karen-chan-**](https://osu.ppy.sh/users/1333495) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: ::**- gero -**::{ user-id=5068537 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PL }:: ::**Kamikaze**::{ user-id=2124783 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PL }:: ::**-Karen-chan-**::{ user-id=1333495 } |
 
 ## Mappools
 

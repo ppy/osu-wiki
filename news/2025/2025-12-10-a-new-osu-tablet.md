@@ -37,7 +37,7 @@ Depending on who you live with, your pen may often find its way from your desk t
 
 [![Cat](/wiki/shared/news/2025-12-10-a-new-osu-tablet/pen.jpg)](https://osu.ppy.sh/store/products/1448)
 
-Just like the [intro tablet](https://osu.ppy.sh/store/products/1447), the new [pro tablet](https://osu.ppy.sh/store/products/1448) had its cover designed by the one and only [meiikyuu](https://osu.ppy.sh/users/1043627). In unison, everyone please say "thank you meiikyuu".
+Just like the [intro tablet](https://osu.ppy.sh/store/products/1447), the new [pro tablet](https://osu.ppy.sh/store/products/1448) had its cover designed by the one and only ::meiikyuu::{ user-id=1043627 }. In unison, everyone please say "thank you meiikyuu".
 
 [![Design](/wiki/shared/news/2025-12-10-a-new-osu-tablet/design.jpg)](https://osu.ppy.sh/store/products/1448)
 

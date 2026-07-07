@@ -5,11 +5,11 @@ date: 2024-07-14 23:00:00 +0000
 series: followpoint
 ---
 
-Dive into an interview with [WhiteCat](https://osu.ppy.sh/users/4504101), a legendary *cat* and an osu! player!
+Dive into an interview with ::WhiteCat::{ user-id=4504101 }, a legendary *cat* and an osu! player!
 
 ![](/wiki/shared/news/2024-07-14-the-followpoint-whitecat-the-cat-who-dominated-osu/banner.jpg)
 
-Hey, did you hear that? That's the sound of a new interview! Today we are joined by WhiteCat, a top player who many remember as someone who was dominating the scene, before [mrekk](https://osu.ppy.sh/users/7562902)'s rise, as a former rank #1 player!
+Hey, did you hear that? That's the sound of a new interview! Today we are joined by WhiteCat, a top player who many remember as someone who was dominating the scene, before ::mrekk::{ user-id=7562902 }'s rise, as a former rank #1 player!
 
 So, let's get right to reading!
 
@@ -210,7 +210,7 @@ Who would you want to meet IRL the most if you could meet any osu! player?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4504101">WhiteCat</a></p>
 
-[Vaxei](https://osu.ppy.sh/users/4787150), always been pleasant to chat with and turns out we share quite a few interests.
+::Vaxei::{ user-id=4787150 }, always been pleasant to chat with and turns out we share quite a few interests.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 

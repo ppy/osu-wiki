@@ -61,7 +61,7 @@ Considering he's an artist + osu! player who's been here since nearly the beginn
 
 ### BilliumMoto - LINK\[INIT\]
 
-Try out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1483609) hosted by [Capu](https://osu.ppy.sh/users/2474015)!
+Try out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1483609) hosted by ::Capu::{ user-id=2474015 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/38/Songs/BilliumMoto_-_LINKINIT.mp3" type="audio/mpeg">
@@ -69,7 +69,7 @@ Try out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1483609) hosted by [
 
 ### BilliumMoto & Miyolophone - IX's Shadow
 
-Or check out [another osu!taiko map](https://osu.ppy.sh/beatmapsets/1827828) hosted by [rubies87](https://osu.ppy.sh/users/4949934)!
+Or check out [another osu!taiko map](https://osu.ppy.sh/beatmapsets/1827828) hosted by ::rubies87::{ user-id=4949934 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/38/Songs/BilliumMoto__Miyolophone_-_IXs_Shadow.mp3" type="audio/mpeg">
@@ -95,7 +95,7 @@ Experience interdimensional travel via the surreal beats [**II-L**](https://osu.
 
 ### II-L - Unidentified Frequency Op.3 (Type-Triangle)
 
-Test your capabilities with [this Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/1632760) from [EGTS 2021](/wiki/Tournaments/GTS/EGTS_2021) and hosted by [Wadsy](https://osu.ppy.sh/users/2598555), or smash some keys to [this Ranked 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1632950) hosted by [-mint-](https://osu.ppy.sh/users/8976576)!
+Test your capabilities with [this Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/1632760) from [EGTS 2021](/wiki/Tournaments/GTS/EGTS_2021) and hosted by ::Wadsy::{ user-id=2598555 }, or smash some keys to [this Ranked 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1632950) hosted by ::-mint-::{ user-id=8976576 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/172/Songs/II-L_-_Unidentified_Frequency_Op.3_Type-Triangle.mp3" type="audio/mpeg">
@@ -103,7 +103,7 @@ Test your capabilities with [this Loved osu!taiko map](https://osu.ppy.sh/beatma
 
 ### II-L - PIONEER-4
 
-Warm up before attempting [this map](https://osu.ppy.sh/beatmapsets/2100532) by [oatmilk](https://osu.ppy.sh/users/16516525)!
+Warm up before attempting [this map](https://osu.ppy.sh/beatmapsets/2100532) by ::oatmilk::{ user-id=16516525 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/172/PIONEER%20PROGRAM/II-L%20-%20PIONEER-4.mp3" type="audio/mpeg">
@@ -123,7 +123,7 @@ A foundation for osu!'s tech mapping scene, [**KOAN Sound**](https://osu.ppy.sh/
 
 ### KOAN Sound - Chronos
 
-Play through [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1667473) hosted by [Dreamwalker](https://osu.ppy.sh/users/8946550)!
+Play through [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1667473) hosted by ::Dreamwalker::{ user-id=8946550 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/49/Songs/KOAN_Sound_-_Chronos.mp3" type="audio/mpeg">
@@ -181,7 +181,7 @@ Anyone who's heard [**seatrus**](https://osu.ppy.sh/beatmaps/artists/185)'s hype
 
 ### seatrus - Metal Globe
 
-Try out [this map from The Perennial 2024](https://osu.ppy.sh/beatmapsets/2214194) hosted by [nooj](https://osu.ppy.sh/users/8271086)!
+Try out [this map from The Perennial 2024](https://osu.ppy.sh/beatmapsets/2214194) hosted by ::nooj::{ user-id=8271086 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/185/Songs/seatrus_-_Metal_Globe.mp3" type="audio/mpeg">
@@ -251,7 +251,7 @@ Try out [this map from The Perennial 2024](https://osu.ppy.sh/beatmapsets/221419
 
 [![](https://assets.ppy.sh/artists/45/header.jpg)](https://osu.ppy.sh/beatmaps/artists/45)
 
-You've been living under a rock if you haven't played an [**UNDEAD CORPORATION**](https://osu.ppy.sh/beatmaps/artists/45) map. Best known for [Ekoro](https://osu.ppy.sh/users/284905)'s masterpiece [Everything will freeze](https://osu.ppy.sh/beatmapsets/158023), the band still outputs Touhou and original tunes on the regular. Their 4 newest tunes are now officially part of osu!, each with both instrumental and vocal versions:
+You've been living under a rock if you haven't played an [**UNDEAD CORPORATION**](https://osu.ppy.sh/beatmaps/artists/45) map. Best known for ::Ekoro::{ user-id=284905 }'s masterpiece [Everything will freeze](https://osu.ppy.sh/beatmapsets/158023), the band still outputs Touhou and original tunes on the regular. Their 4 newest tunes are now officially part of osu!, each with both instrumental and vocal versions:
 
 ### UNDEAD CORPORATION - Bloodstained Nocturne
 

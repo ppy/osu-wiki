@@ -47,10 +47,10 @@ All prizes were awarded to osu! and osu!mania winners separately.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=US }:: [Chest Flattener](https://osu.ppy.sh/users/4292614), ::{ flag=US }:: [ForceJansen](https://osu.ppy.sh/users/5566923) |
-| Commentator | ::{ flag=US }:: [Chest Flattener](https://osu.ppy.sh/users/4292614), ::{ flag=US }:: [ForceJansen](https://osu.ppy.sh/users/5566923), ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612) |
-| Mappool selector | ::{ flag=US }:: [Chest Flattener](https://osu.ppy.sh/users/4292614), ::{ flag=US }:: [ForceJansen](https://osu.ppy.sh/users/5566923), ::{ flag=US }:: [KuroNeko2180](https://osu.ppy.sh/users/10421267), ::{ flag=US }:: [migin](https://osu.ppy.sh/users/11118735), ::{ flag=CN }:: [Tofu1222](https://osu.ppy.sh/users/6089608) |
-| Referee | ::{ flag=US }:: [Chest Flattener](https://osu.ppy.sh/users/4292614), ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=US }:: [KuroNeko2180](https://osu.ppy.sh/users/10421267), ::{ flag=US }:: [migin](https://osu.ppy.sh/users/11118735), ::{ flag=US }:: [MyAngelNeptune](https://osu.ppy.sh/users/5290308), ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612) |
+| Host | ::{ flag=US }:: ::Chest Flattener::{ user-id=4292614 }, ::{ flag=US }:: ::ForceJansen::{ user-id=5566923 } |
+| Commentator | ::{ flag=US }:: ::Chest Flattener::{ user-id=4292614 }, ::{ flag=US }:: ::ForceJansen::{ user-id=5566923 }, ::{ flag=US }:: ::pishifat::{ user-id=3178418 }, ::{ flag=US }:: ::stupud man::{ user-id=2141612 } |
+| Mappool selector | ::{ flag=US }:: ::Chest Flattener::{ user-id=4292614 }, ::{ flag=US }:: ::ForceJansen::{ user-id=5566923 }, ::{ flag=US }:: ::KuroNeko2180::{ user-id=10421267 }, ::{ flag=US }:: ::migin::{ user-id=11118735 }, ::{ flag=CN }:: ::Tofu1222::{ user-id=6089608 } |
+| Referee | ::{ flag=US }:: ::Chest Flattener::{ user-id=4292614 }, ::{ flag=US }:: ::clayton::{ user-id=3666350 }, ::{ flag=US }:: ::KuroNeko2180::{ user-id=10421267 }, ::{ flag=US }:: ::migin::{ user-id=11118735 }, ::{ flag=US }:: ::MyAngelNeptune::{ user-id=5290308 }, ::{ flag=US }:: ::Ouchiee::{ user-id=6310052 }, ::{ flag=US }:: ::stupud man::{ user-id=2141612 } |
 
 ## Links
 
@@ -67,17 +67,17 @@ All prizes were awarded to osu! and osu!mania winners separately.
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Darin on osu](https://osu.ppy.sh/users/4839876) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [R Y A N](https://osu.ppy.sh/users/2765201) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: ::idke::{ user-id=4650315 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: ::Darin on osu::{ user-id=4839876 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: ::R Y A N::{ user-id=2765201 } |
 
 ### osu!mania
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Ecal](https://osu.ppy.sh/users/8384260) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: ::stupud man::{ user-id=2141612 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: ::Ecal::{ user-id=8384260 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: ::Ouchiee::{ user-id=6310052 } |
 
 ## Mappools
 
@@ -278,7 +278,7 @@ All prizes were awarded to osu! and osu!mania winners separately.
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[idke](https://osu.ppy.sh/users/4650315)** ::{ flag=US }:: | **6** | 0 | ::{ flag=US }:: [Darin on osu](https://osu.ppy.sh/users/4839876) | [#1](https://osu.ppy.sh/community/matches/56352027) |
+| **::idke::{ user-id=4650315 }** ::{ flag=US }:: | **6** | 0 | ::{ flag=US }:: ::Darin on osu::{ user-id=4839876 } | [#1](https://osu.ppy.sh/community/matches/56352027) |
 
 #### Finals
 
@@ -286,13 +286,13 @@ All prizes were awarded to osu! and osu!mania winners separately.
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [R Y A N](https://osu.ppy.sh/users/2765201) ::{ flag=US }:: | 0 | **5** | ::{ flag=US }:: **[idke](https://osu.ppy.sh/users/4650315)** | [#1](https://osu.ppy.sh/community/matches/56350008) |
+| ::R Y A N::{ user-id=2765201 } ::{ flag=US }:: | 0 | **5** | ::{ flag=US }:: **::idke::{ user-id=4650315 }** | [#1](https://osu.ppy.sh/community/matches/56350008) |
 
 ##### Losers bracket
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [R Y A N](https://osu.ppy.sh/users/2765201) ::{ flag=US }:: | 1 | **5** | ::{ flag=US }:: **[Darin on osu](https://osu.ppy.sh/users/4839876)** | [#1](https://osu.ppy.sh/community/matches/56351631) |
+| ::R Y A N::{ user-id=2765201 } ::{ flag=US }:: | 1 | **5** | ::{ flag=US }:: **::Darin on osu::{ user-id=4839876 }** | [#1](https://osu.ppy.sh/community/matches/56351631) |
 
 #### Semifinals
 
@@ -300,16 +300,16 @@ All prizes were awarded to osu! and osu!mania winners separately.
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[R Y A N](https://osu.ppy.sh/users/2765201)** ::{ flag=US }:: | **4** | 2 | ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459) | [#1](https://osu.ppy.sh/community/matches/56349125) |
-| **[idke](https://osu.ppy.sh/users/4650315)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [Darin on osu](https://osu.ppy.sh/users/4839876) | [#1](https://osu.ppy.sh/community/matches/56348978) |
+| **::R Y A N::{ user-id=2765201 }** ::{ flag=US }:: | **4** | 2 | ::{ flag=US }:: ::Kenny::{ user-id=1225459 } | [#1](https://osu.ppy.sh/community/matches/56349125) |
+| **::idke::{ user-id=4650315 }** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: ::Darin on osu::{ user-id=4839876 } | [#1](https://osu.ppy.sh/community/matches/56348978) |
 
 ##### Losers bracket
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Kenny](https://osu.ppy.sh/users/1225459) ::{ flag=US }:: | 3 | **4** | ::{ flag=US }:: **[jms8719](https://osu.ppy.sh/users/2042565)** | [#1](https://osu.ppy.sh/community/matches/56349775) |
-| **[Darin on osu](https://osu.ppy.sh/users/4839876)** ::{ flag=US }:: | **4** | 2 | ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) | [#1](https://osu.ppy.sh/community/matches/56349582) |
-| [jms8719](https://osu.ppy.sh/users/2042565) ::{ flag=US }:: | 1 | **4** | ::{ flag=US }:: **[Darin on osu](https://osu.ppy.sh/users/4839876)** | [#1](https://osu.ppy.sh/community/matches/56351273) |
+| ::Kenny::{ user-id=1225459 } ::{ flag=US }:: | 3 | **4** | ::{ flag=US }:: **::jms8719::{ user-id=2042565 }** | [#1](https://osu.ppy.sh/community/matches/56349775) |
+| **::Darin on osu::{ user-id=4839876 }** ::{ flag=US }:: | **4** | 2 | ::{ flag=US }:: ::Riku on osu::{ user-id=3071659 } | [#1](https://osu.ppy.sh/community/matches/56349582) |
+| ::jms8719::{ user-id=2042565 } ::{ flag=US }:: | 1 | **4** | ::{ flag=US }:: **::Darin on osu::{ user-id=4839876 }** | [#1](https://osu.ppy.sh/community/matches/56351273) |
 
 #### Quarterfinals
 
@@ -317,50 +317,50 @@ All prizes were awarded to osu! and osu!mania winners separately.
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[R Y A N](https://osu.ppy.sh/users/2765201)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [#1](https://osu.ppy.sh/community/matches/56348292) |
-| **[Kenny](https://osu.ppy.sh/users/1225459)** ::{ flag=US }:: | **3** | 2 | ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) | [#1](https://osu.ppy.sh/community/matches/56348320) |
-| **[idke](https://osu.ppy.sh/users/4650315)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [Ikeda](https://osu.ppy.sh/users/9288843) | [#1](https://osu.ppy.sh/community/matches/56348302) |
-| **[Darin on osu](https://osu.ppy.sh/users/4839876)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [jms8719](https://osu.ppy.sh/users/2042565) | [#1](https://osu.ppy.sh/community/matches/56348311) |
+| **::R Y A N::{ user-id=2765201 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: ::pishifat::{ user-id=3178418 } | [#1](https://osu.ppy.sh/community/matches/56348292) |
+| **::Kenny::{ user-id=1225459 }** ::{ flag=US }:: | **3** | 2 | ::{ flag=US }:: ::Riku on osu::{ user-id=3071659 } | [#1](https://osu.ppy.sh/community/matches/56348320) |
+| **::idke::{ user-id=4650315 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: ::Ikeda::{ user-id=9288843 } | [#1](https://osu.ppy.sh/community/matches/56348302) |
+| **::Darin on osu::{ user-id=4839876 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: ::jms8719::{ user-id=2042565 } | [#1](https://osu.ppy.sh/community/matches/56348311) |
 
 ##### Losers bracket
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[jms8719](https://osu.ppy.sh/users/2042565)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [SSplosionz](https://osu.ppy.sh/users/9511965) | [#1](https://osu.ppy.sh/community/matches/56348720) |
-| [Ikeda](https://osu.ppy.sh/users/9288843) ::{ flag=US }:: | 1 | **3** | ::{ flag=US }:: **[J\_8579](https://osu.ppy.sh/users/5590317)** | [#1](https://osu.ppy.sh/community/matches/56348731) |
-| **[Riku on osu](https://osu.ppy.sh/users/3071659)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) | [#1](https://osu.ppy.sh/community/matches/56348716) |
-| **[pishifat](https://osu.ppy.sh/users/3178418)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [TeknoHead247](https://osu.ppy.sh/users/1847311) | [#1](https://osu.ppy.sh/community/matches/56348673) |
-| **[jms8719](https://osu.ppy.sh/users/2042565)** ::{ flag=US }:: | **4** | 3 | ::{ flag=US }:: [J\_8579](https://osu.ppy.sh/users/5590317) | [#1](https://osu.ppy.sh/community/matches/56349220) |
-| **[Riku on osu](https://osu.ppy.sh/users/3071659)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [#1](https://osu.ppy.sh/community/matches/56349099) |
+| **::jms8719::{ user-id=2042565 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: ::SSplosionz::{ user-id=9511965 } | [#1](https://osu.ppy.sh/community/matches/56348720) |
+| ::Ikeda::{ user-id=9288843 } ::{ flag=US }:: | 1 | **3** | ::{ flag=US }:: **::J\_8579::{ user-id=5590317 }** | [#1](https://osu.ppy.sh/community/matches/56348731) |
+| **::Riku on osu::{ user-id=3071659 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: ::Ouchiee::{ user-id=6310052 } | [#1](https://osu.ppy.sh/community/matches/56348716) |
+| **::pishifat::{ user-id=3178418 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: ::TeknoHead247::{ user-id=1847311 } | [#1](https://osu.ppy.sh/community/matches/56348673) |
+| **::jms8719::{ user-id=2042565 }** ::{ flag=US }:: | **4** | 3 | ::{ flag=US }:: ::J\_8579::{ user-id=5590317 } | [#1](https://osu.ppy.sh/community/matches/56349220) |
+| **::Riku on osu::{ user-id=3071659 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: ::pishifat::{ user-id=3178418 } | [#1](https://osu.ppy.sh/community/matches/56349099) |
 
 #### Round of 16
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[pishifat](https://osu.ppy.sh/users/3178418)** ::{ flag=US }:: | **3** | 2 | ::{ flag=US }:: [SSplosionz](https://osu.ppy.sh/users/9511965) | [#1](https://osu.ppy.sh/community/matches/56347658) |
-| **[Riku on osu](https://osu.ppy.sh/users/3071659)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [J\_8579](https://osu.ppy.sh/users/5590317) | [#1](https://osu.ppy.sh/community/matches/56347945) |
-| **[Ikeda](https://osu.ppy.sh/users/9288843)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) | [#1](https://osu.ppy.sh/community/matches/56347877) |
-| **[jms8719](https://osu.ppy.sh/users/2042565)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [TeknoHead247](https://osu.ppy.sh/users/1847311) | [#1](https://osu.ppy.sh/community/matches/56347725) |
+| **::pishifat::{ user-id=3178418 }** ::{ flag=US }:: | **3** | 2 | ::{ flag=US }:: ::SSplosionz::{ user-id=9511965 } | [#1](https://osu.ppy.sh/community/matches/56347658) |
+| **::Riku on osu::{ user-id=3071659 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: ::J\_8579::{ user-id=5590317 } | [#1](https://osu.ppy.sh/community/matches/56347945) |
+| **::Ikeda::{ user-id=9288843 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: ::Ouchiee::{ user-id=6310052 } | [#1](https://osu.ppy.sh/community/matches/56347877) |
+| **::jms8719::{ user-id=2042565 }** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: ::TeknoHead247::{ user-id=1847311 } | [#1](https://osu.ppy.sh/community/matches/56347725) |
 
 #### Seeding
 
-Seeding maps were played in a [multiplayer match](https://osu.ppy.sh/community/matches/56346534). After seeding was played, ::{ flag=US }:: [MintyYumi](https://osu.ppy.sh/users/3600982) decided to drop the tournament and ::{ flag=US }:: [J\_8579](https://osu.ppy.sh/users/5590317) joined late as the 12th seed.
+Seeding maps were played in a [multiplayer match](https://osu.ppy.sh/community/matches/56346534). After seeding was played, ::{ flag=US }:: ::MintyYumi::{ user-id=3600982 } decided to drop the tournament and ::{ flag=US }:: ::J\_8579::{ user-id=5590317 } joined late as the 12th seed.
 
 | Player | Aggregate placement |
 | :-- | :-- |
-| ::{ flag=US }:: [R Y A N](https://osu.ppy.sh/users/2765201) | 16 |
-| ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315) | 18 |
-| ::{ flag=US }:: [Darin on osu](https://osu.ppy.sh/users/4839876) | 27 |
-| ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459) | 31 |
-| ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) | 37 |
-| ::{ flag=US }:: [jms8719](https://osu.ppy.sh/users/2042565) | 47 |
-| ::{ flag=US }:: [Ikeda](https://osu.ppy.sh/users/9288843) | 52 |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | 63 |
-| ::{ flag=US }:: [SSplosionz](https://osu.ppy.sh/users/9511965) | 68 |
-| ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) | 81 |
-| ::{ flag=US }:: [MintyYumi](https://osu.ppy.sh/users/3600982) | 87 (dropped) |
-| ::{ flag=US }:: [TeknoHead247](https://osu.ppy.sh/users/1847311) | 96 |
-| ::{ flag=US }:: [J\_8579](https://osu.ppy.sh/users/5590317) | Joined late |
+| ::{ flag=US }:: ::R Y A N::{ user-id=2765201 } | 16 |
+| ::{ flag=US }:: ::idke::{ user-id=4650315 } | 18 |
+| ::{ flag=US }:: ::Darin on osu::{ user-id=4839876 } | 27 |
+| ::{ flag=US }:: ::Kenny::{ user-id=1225459 } | 31 |
+| ::{ flag=US }:: ::Riku on osu::{ user-id=3071659 } | 37 |
+| ::{ flag=US }:: ::jms8719::{ user-id=2042565 } | 47 |
+| ::{ flag=US }:: ::Ikeda::{ user-id=9288843 } | 52 |
+| ::{ flag=US }:: ::pishifat::{ user-id=3178418 } | 63 |
+| ::{ flag=US }:: ::SSplosionz::{ user-id=9511965 } | 68 |
+| ::{ flag=US }:: ::Ouchiee::{ user-id=6310052 } | 81 |
+| ::{ flag=US }:: ::MintyYumi::{ user-id=3600982 } | 87 (dropped) |
+| ::{ flag=US }:: ::TeknoHead247::{ user-id=1847311 } | 96 |
+| ::{ flag=US }:: ::J\_8579::{ user-id=5590317 } | Joined late |
 
 ### osu!mania
 
@@ -368,7 +368,7 @@ Seeding maps were played in a [multiplayer match](https://osu.ppy.sh/community/m
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[stupud man](https://osu.ppy.sh/users/2141612)** ::{ flag=US }:: | **6** | 0 | ::{ flag=US }:: [Ecal](https://osu.ppy.sh/users/8384260) | [#1](https://osu.ppy.sh/community/matches/56346607) |
+| **::stupud man::{ user-id=2141612 }** ::{ flag=US }:: | **6** | 0 | ::{ flag=US }:: ::Ecal::{ user-id=8384260 } | [#1](https://osu.ppy.sh/community/matches/56346607) |
 
 #### Finals
 
@@ -376,21 +376,21 @@ Seeding maps were played in a [multiplayer match](https://osu.ppy.sh/community/m
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[stupud man](https://osu.ppy.sh/users/2141612)** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: [Ecal](https://osu.ppy.sh/users/8384260) | [#1](https://osu.ppy.sh/community/matches/56345192) |
+| **::stupud man::{ user-id=2141612 }** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: ::Ecal::{ user-id=8384260 } | [#1](https://osu.ppy.sh/community/matches/56345192) |
 
 ##### Losers bracket
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Ventus720](https://osu.ppy.sh/users/2687477) ::{ flag=US }:: | 0 | **5** | ::{ flag=US }:: **[Ouchiee](https://osu.ppy.sh/users/6310052)** | [#1](https://osu.ppy.sh/community/matches/56345196) |
-| **[Ecal](https://osu.ppy.sh/users/8384260)** ::{ flag=US }:: | **5** | 1 | ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) | [#1](https://osu.ppy.sh/community/matches/56345861) |
+| ::Ventus720::{ user-id=2687477 } ::{ flag=US }:: | 0 | **5** | ::{ flag=US }:: **::Ouchiee::{ user-id=6310052 }** | [#1](https://osu.ppy.sh/community/matches/56345196) |
+| **::Ecal::{ user-id=8384260 }** ::{ flag=US }:: | **5** | 1 | ::{ flag=US }:: ::Ouchiee::{ user-id=6310052 } | [#1](https://osu.ppy.sh/community/matches/56345861) |
 
 #### Semifinals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[stupud man](https://osu.ppy.sh/users/2141612)** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [Ventus720](https://osu.ppy.sh/users/2687477) | [#1](https://osu.ppy.sh/community/matches/56344335) |
-| **[Ecal](https://osu.ppy.sh/users/8384260)** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) | [#1](https://osu.ppy.sh/community/matches/56344326) |
+| **::stupud man::{ user-id=2141612 }** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: ::Ventus720::{ user-id=2687477 } | [#1](https://osu.ppy.sh/community/matches/56344335) |
+| **::Ecal::{ user-id=8384260 }** ::{ flag=US }:: | **4** | 1 | ::{ flag=US }:: ::Ouchiee::{ user-id=6310052 } | [#1](https://osu.ppy.sh/community/matches/56344326) |
 
 ## Ruleset
 

@@ -29,13 +29,13 @@ Additionally, the semifinalist teams in the Winners Bracket also had some seriou
 
 I took the time to ask for the opinion of each Mappool Selector to see how their and opinions differentiated; these are some of the excerpts:
 
-***[juankristal:](https://osu.ppy.sh/users/443656)*** *The song choice was really good for semis, and the mappool covered all skillsets in a pretty good way - or at least in the way we wanted to be, especially on long notes. I am pretty proud of how the long note maps ended up working out. Just a bit sad that we only had three SV maps, but hey, many other maps had some SVs.*
+***::juankristal:::{ user-id=443656 }*** *The song choice was really good for semis, and the mappool covered all skillsets in a pretty good way - or at least in the way we wanted to be, especially on long notes. I am pretty proud of how the long note maps ended up working out. Just a bit sad that we only had three SV maps, but hey, many other maps had some SVs.*
 
-***[Pope Gadget:](https://osu.ppy.sh/users/2288341)*** *I think we did a pretty solid job when it comes to not only map variety but song variety as well - quite happy with that. I forget the name of the player, but I think it surprised even us as the map selectors that a player purposefully avoided hitting those LNs (at the end of [LaChryma\<Re:Queen'M\>](https://osu.ppy.sh/beatmapsets/415886#mania/901050)) in order to focus on the trill. Selecting the map, I doubt any of us were expecting such a strategy to be carried out.*
+***::Pope Gadget:::{ user-id=2288341 }*** *I think we did a pretty solid job when it comes to not only map variety but song variety as well - quite happy with that. I forget the name of the player, but I think it surprised even us as the map selectors that a player purposefully avoided hitting those LNs (at the end of [LaChryma\<Re:Queen'M\>](https://osu.ppy.sh/beatmapsets/415886#mania/901050)) in order to focus on the trill. Selecting the map, I doubt any of us were expecting such a strategy to be carried out.*
 
-(That player who tactically dropped the long notes would be [Cunu](https://osu.ppy.sh/users/7190228), from France - more on that later!)
+(That player who tactically dropped the long notes would be ::Cunu::{ user-id=7190228 }, from France - more on that later!)
 
-***[Blocko:](https://osu.ppy.sh/users/4075092)*** *Better than quarterfinals. I think that Semifinals needed more SV maps, but we kinda ran out of luck looking for them. I think it was mentioned that they were a big component in Quarterfinals, plus we were lacking on those kinds of maps on this stage. The tiebreaker is much harder compared to the rest of the pool though, but we managed to keep things interesting and give it a bit of hype (I think).*
+***::Blocko:::{ user-id=4075092 }*** *Better than quarterfinals. I think that Semifinals needed more SV maps, but we kinda ran out of luck looking for them. I think it was mentioned that they were a big component in Quarterfinals, plus we were lacking on those kinds of maps on this stage. The tiebreaker is much harder compared to the rest of the pool though, but we managed to keep things interesting and give it a bit of hype (I think).*
 
 ### Mappool Statistics
 

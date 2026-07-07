@@ -15,7 +15,7 @@ Taking a step away from electronic music production in recent time, **Phantom Sa
 
 Celebrating his older works here on osu!, we've snagged a collection of **10** songs for your choosing, including classics like *Holystone* and *MIKO*.
 
-Not familiar with **Phantom Sage**'s songs? Worry not — [WillCookie](https://osu.ppy.sh/users/6404488) is here to show you how a top player manages on a map of Sage's music (albeit with some handicaps).
+Not familiar with **Phantom Sage**'s songs? Worry not — ::WillCookie::{ user-id=6404488 } is here to show you how a top player manages on a map of Sage's music (albeit with some handicaps).
 
 <div align="center">
     <video width="95%" controls>
@@ -25,9 +25,9 @@ Not familiar with **Phantom Sage**'s songs? Worry not — [WillCookie](https://o
 
 ### Holystone
 
-Give [this osu! set](https://osu.ppy.sh/beatmapsets/515297) by [sheela](https://osu.ppy.sh/users/1138027) or [this osu! set](https://osu.ppy.sh/beatmapsets/514942) by [Nozhomi](https://osu.ppy.sh/users/2716981) a play, both part of the 2nd French Beatmapping Contest!
+Give [this osu! set](https://osu.ppy.sh/beatmapsets/515297) by ::sheela::{ user-id=1138027 } or [this osu! set](https://osu.ppy.sh/beatmapsets/514942) by ::Nozhomi::{ user-id=2716981 } a play, both part of the 2nd French Beatmapping Contest!
 
-Or if you're a keyboard smasher, [UnluckyCroco](https://osu.ppy.sh/users/9461160)'s [osu!mania mapset](https://osu.ppy.sh/beatmapsets/1001794) may be a better choice.
+Or if you're a keyboard smasher, ::UnluckyCroco::{ user-id=9461160 }'s [osu!mania mapset](https://osu.ppy.sh/beatmapsets/1001794) may be a better choice.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/129/Holystone/Phantom%20Sage%20-%20Holystone.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Or if you're a keyboard smasher, [UnluckyCroco](https://osu.ppy.sh/users/9461160
 
 ### MIKO
 
-Or check out [this osu!mania mapset](https://osu.ppy.sh/beatmapsets/453386) by [Protastic101](https://osu.ppy.sh/users/6712747) for a more relaxing experience!
+Or check out [this osu!mania mapset](https://osu.ppy.sh/beatmapsets/453386) by ::Protastic101::{ user-id=6712747 } for a more relaxing experience!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/129/MIKO/Phantom%20Sage%20-%20MIKO.mp3" type="audio/mpeg">

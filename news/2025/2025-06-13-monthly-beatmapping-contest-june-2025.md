@@ -36,8 +36,8 @@ This contest came shortly after the conclusion of this year's [osu!mania 7K Worl
 
 | Placement | User | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [tyrcs](https://osu.ppy.sh/users/13026904) | [Axya - Again, Weeping Brilliantly](https://osu.ppy.sh/beatmapsets/2384801) | - | - | +2 (9 total) |
-| Runner-up | [oct4](https://osu.ppy.sh/users/10303887) | [linear ring - lalabai call me](https://osu.ppy.sh/beatmapsets/2384834) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +1 (6 total) |
+| Winner | ::tyrcs::{ user-id=13026904 } | [Axya - Again, Weeping Brilliantly](https://osu.ppy.sh/beatmapsets/2384801) | - | - | +2 (9 total) |
+| Runner-up | ::oct4::{ user-id=10303887 } | [linear ring - lalabai call me](https://osu.ppy.sh/beatmapsets/2384834) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +1 (6 total) |
 
 #### Top submissions
 
@@ -45,13 +45,13 @@ This contest came shortly after the conclusion of this year's [osu!mania 7K Worl
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/hRjPmFu1wVQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The ~~3rd~~ ~~4th~~ 5th time's the charm. After **5** podium placements in different Monthly Beatmapping Contests, [oct4](https://osu.ppy.sh/users/10303887) has finally managed to join the ranks as one of osu!'s *Elite Mappers*.
+The ~~3rd~~ ~~4th~~ 5th time's the charm. After **5** podium placements in different Monthly Beatmapping Contests, ::oct4::{ user-id=10303887 } has finally managed to join the ranks as one of osu!'s *Elite Mappers*.
 
-[tyrcs](https://osu.ppy.sh/users/13026904) deserves praise for winning too of course, but he's already won enough Monthly Beatmapping Contests to earn the *Elite Mapper* title months ago!
+::tyrcs::{ user-id=13026904 } deserves praise for winning too of course, but he's already won enough Monthly Beatmapping Contests to earn the *Elite Mapper* title months ago!
 
 Additionally, following our collaboration with [7K GLOBAL's bi-monthly event](https://osu.ppy.sh/community/forums/topics/2065328?n=1), we'd like to congratulate the mappers who'll make it into the event's pool — including those who didn't make it into the contest itself! While we cannot announce the pool in advance, stay tuned in the forum post to discover the event's winners.
 
-And of course, we can't forget the folks who helped judge this month's contest: [ExNeko](https://osu.ppy.sh/users/7590894), [Maxus](https://osu.ppy.sh/users/4335785), [Tailsdk](https://osu.ppy.sh/users/6751666), [Blocko](https://osu.ppy.sh/users/4075092), and [_Kobii](https://osu.ppy.sh/users/6209713)!
+And of course, we can't forget the folks who helped judge this month's contest: ::ExNeko::{ user-id=7590894 }, [Maxus](https://osu.ppy.sh/users/4335785), ::Tailsdk::{ user-id=6751666 }, [Blocko](https://osu.ppy.sh/users/4075092), and ::\1Kobii::{ user-id=6209713 }!
 
 ## Contest listing
 

@@ -46,7 +46,7 @@ To switch between modes, click the `Mode` button at the bottom of the song selec
 
 *Main page: [osu!mania](osu!mania)*
 
-*osu!mania* is a vertical scrolling rhythm game (VSRG) mode designed as a piano simulator. It was chiefly [introduced and implemented](https://osu.ppy.sh/community/forums/topics/100751) by [woc2006](https://osu.ppy.sh/users/1105845), and is based on a variety of conveyor-type rhythm games (namely [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) and [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). osu!mania's mascots are the twins [Mani and Mari](/wiki/Mascots#mani-&-mari), both with purple and light purple hair.
+*osu!mania* is a vertical scrolling rhythm game (VSRG) mode designed as a piano simulator. It was chiefly [introduced and implemented](https://osu.ppy.sh/community/forums/topics/100751) by ::woc2006::{ user-id=1105845 }, and is based on a variety of conveyor-type rhythm games (namely [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) and [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). osu!mania's mascots are the twins [Mani and Mari](/wiki/Mascots#mani-&-mari), both with purple and light purple hair.
 
 ![Gameplay of osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania gameplay")
 

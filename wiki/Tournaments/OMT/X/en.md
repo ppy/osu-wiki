@@ -8,7 +8,7 @@ tags:
 
 ![osu! Malaysia Tournament X banner](img/banner.jpg)
 
-The **osu! Malaysia Tournament X** (OMT X) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594). The tournament was open to all players from Malaysia with a global rank of #99,999 or higher in the osu! game mode. It was the tenth iteration of the osu! Malaysia Tournament.
+The **osu! Malaysia Tournament X** (OMT X) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=MY }:: ::Sagisawa Arisu::{ user-id=9364594 }. The tournament was open to all players from Malaysia with a global rank of #99,999 or higher in the osu! game mode. It was the tenth iteration of the osu! Malaysia Tournament.
 
 ## Tournament schedule
 
@@ -40,18 +40,18 @@ The osu! Malaysia Tournament X was run by various osu! community members from Ma
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594) |
-| Co-host | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=MY }:: [Amamiya Kokoro](https://osu.ppy.sh/users/9534110) |
-| Mappool selector | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594), ::{ flag=VN }:: [realshin](https://osu.ppy.sh/users/8006029), ::{ flag=HK }:: [maxbireo](https://osu.ppy.sh/users/4682646) |
-| Custom mapper | ::{ flag=MY }:: [Mahiru Shiina](https://osu.ppy.sh/users/13866023), ::{ flag=MY }:: [\[ -Elaina- \]](https://osu.ppy.sh/users/13893348), ::{ flag=MY }:: [Banner](https://osu.ppy.sh/users/14290988), ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490), ::{ flag=MY }:: [anjay](https://osu.ppy.sh/users/15553329), ::{ flag=MY }:: [Stick2Glue](https://osu.ppy.sh/users/6928574), ::{ flag=MY }:: [Kardshark](https://osu.ppy.sh/users/4724315), ::{ flag=MY }:: [\[ Fiz \]](https://osu.ppy.sh/users/6928574) |
-| Custom map quality assurance | ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976) |
-| Streamer | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [-Shiran-](https://osu.ppy.sh/users/9773374), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=AU }:: [dGeist](https://osu.ppy.sh/users/7262064) |
-| Commentator | ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=MY }:: [Fancyyy](https://osu.ppy.sh/users/12616268), ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940), ::{ flag=MY }:: [lous](https://osu.ppy.sh/users/6231292), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
-| Referee | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=MY }:: [Rumah](https://osu.ppy.sh/users/12086495), ::{ flag=MY }:: [dragonlemmy](https://osu.ppy.sh/users/14053835), ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293) |
-| Graphic designer | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=AU }:: [Merami Kitten](https://osu.ppy.sh/users/11523326) |
-| Spreadsheet manager | ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594) |
-| Character illustrator | ::{ flag=MY }:: [guwichiee](https://osu.ppy.sh/users/12170475), ::{ flag=MY }:: th_nore [(↗)](https://twitter.com/th_nore) |
-| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=MY }:: ::Sagisawa Arisu::{ user-id=9364594 } |
+| Co-host | ::{ flag=MY }:: ::Iyouka::{ user-id=7138499 }, ::{ flag=MY }:: ::Amamiya Kokoro::{ user-id=9534110 } |
+| Mappool selector | ::{ flag=MY }:: ::Sagisawa Arisu::{ user-id=9364594 }, ::{ flag=VN }:: ::realshin::{ user-id=8006029 }, ::{ flag=HK }:: ::maxbireo::{ user-id=4682646 } |
+| Custom mapper | ::{ flag=MY }:: ::Mahiru Shiina::{ user-id=13866023 }, ::{ flag=MY }:: ::\[ -Elaina- \]::{ user-id=13893348 }, ::{ flag=MY }:: ::Banner::{ user-id=14290988 }, ::{ flag=MY }:: ::Agagak::{ user-id=3645490 }, ::{ flag=MY }:: ::anjay::{ user-id=15553329 }, ::{ flag=MY }:: ::Stick2Glue::{ user-id=6928574 }, ::{ flag=MY }:: ::Kardshark::{ user-id=4724315 }, ::{ flag=MY }:: ::\[ Fiz \]::{ user-id=6928574 } |
+| Custom map quality assurance | ::{ flag=MY }:: ::Tzero::{ user-id=6088976 } |
+| Streamer | ::{ flag=MY }:: ::Sagisawa Arisu::{ user-id=9364594 }, ::{ flag=MY }:: ::-Shiran-::{ user-id=9773374 }, ::{ flag=MY }:: ::Iyouka::{ user-id=7138499 }, ::{ flag=NZ }:: ::Hand Sanitiser::{ user-id=5091293 }, ::{ flag=AU }:: ::dGeist::{ user-id=7262064 } |
+| Commentator | ::{ flag=MY }:: ::Tzero::{ user-id=6088976 }, ::{ flag=MY }:: ::Racers03::{ user-id=11621976 }, ::{ flag=MY }:: ::Fancyyy::{ user-id=12616268 }, ::{ flag=MY }:: ::VenDService::{ user-id=15107940 }, ::{ flag=MY }:: ::lous::{ user-id=6231292 }, ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } |
+| Referee | ::{ flag=MY }:: ::Sagisawa Arisu::{ user-id=9364594 }, ::{ flag=MY }:: ::Racers03::{ user-id=11621976 }, ::{ flag=MY }:: ::Rumah::{ user-id=12086495 }, ::{ flag=MY }:: ::dragonlemmy::{ user-id=14053835 }, ::{ flag=SG }:: ::Quickeryes::{ user-id=18227681 }, ::{ flag=NZ }:: ::Hand Sanitiser::{ user-id=5091293 } |
+| Graphic designer | ::{ flag=MY }:: ::Iyouka::{ user-id=7138499 }, ::{ flag=MY }:: ::R3aCt10n::{ user-id=17020051 }, ::{ flag=SG }:: ::Polytetral::{ user-id=8612061 }, ::{ flag=AU }:: ::Merami Kitten::{ user-id=11523326 } |
+| Spreadsheet manager | ::{ flag=MY }:: ::Sagisawa Arisu::{ user-id=9364594 } |
+| Character illustrator | ::{ flag=MY }:: ::guwichiee::{ user-id=12170475 }, ::{ flag=MY }:: th_nore [(↗)](https://twitter.com/th_nore) |
+| Wiki editor | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
 
 ## Links
 
@@ -69,30 +69,30 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 | Seed no. | Player | Z-score |
 | :-- | :-- | :-- |
-| 1 | ::{ flag=MY }:: [wuhua](https://osu.ppy.sh/users/2932510) | +21.53 |
-| 2 | ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446) | +21.36 |
-| 3 | ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/3995630) | +19.34 |
-| 4 | ::{ flag=MY }:: [AHotDawg](https://osu.ppy.sh/users/15271985) | +14.50 |
-| 5 | ::{ flag=MY }:: [Breast](https://osu.ppy.sh/users/11918602) | +13.88 |
-| 6 | ::{ flag=MY }:: [Auxuelus](https://osu.ppy.sh/users/5414124) | +10.39 |
-| 7 | ::{ flag=MY }:: [Chibi Maruko](https://osu.ppy.sh/users/5585377) | +10.34 |
-| 8 | ::{ flag=MY }:: [ohshitweeb](https://osu.ppy.sh/users/12999285) | +7.75 |
-| 9 | ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694) | +6.83 |
-| 10 | ::{ flag=MY }:: [stumphole145](https://osu.ppy.sh/users/14623152) | +6.43 |
-| 11 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | +5.69 |
-| 12 | ::{ flag=MY }:: [Snowy5441](https://osu.ppy.sh/users/13865320) | +4.18 |
-| 13 | ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976) | -0.21 |
-| 14 | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) | -0.50 |
-| 15 | ::{ flag=MY }:: [Addam](https://osu.ppy.sh/users/11716599) | -0.70 |
-| 16 | ::{ flag=MY }:: [Inugami Korone](https://osu.ppy.sh/users/4474918) | -0.82 |
-| 17 | ::{ flag=MY }:: [Chiyuu](https://osu.ppy.sh/users/8226107) | -0.88 |
-| 18 | ::{ flag=MY }:: [Makise Kurisu](https://osu.ppy.sh/users/6996926) | -2.01 |
-| 19 | ::{ flag=MY }:: [MadDdDio](https://osu.ppy.sh/users/15086959) | -2.31 |
-| 20 | ::{ flag=MY }:: [a hotdog](https://osu.ppy.sh/users/8688777) | -2.52 |
-| 21 | ::{ flag=MY }:: [W1nter1](https://osu.ppy.sh/users/23185001) | -3.51 |
-| 22 | ::{ flag=MY }:: [-Shiran-](https://osu.ppy.sh/users/9773374) | -4.48 |
-| 23 | ::{ flag=MY }:: [Atomium](https://osu.ppy.sh/users/19186968) | -4.77 |
-| 24 | ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940) | -4.84 |
+| 1 | ::{ flag=MY }:: ::wuhua::{ user-id=2932510 } | +21.53 |
+| 2 | ::{ flag=MY }:: ::Lunasa::{ user-id=16436446 } | +21.36 |
+| 3 | ::{ flag=MY }:: ::Rampax::{ user-id=3995630 } | +19.34 |
+| 4 | ::{ flag=MY }:: ::AHotDawg::{ user-id=15271985 } | +14.50 |
+| 5 | ::{ flag=MY }:: ::Breast::{ user-id=11918602 } | +13.88 |
+| 6 | ::{ flag=MY }:: ::Auxuelus::{ user-id=5414124 } | +10.39 |
+| 7 | ::{ flag=MY }:: ::Chibi Maruko::{ user-id=5585377 } | +10.34 |
+| 8 | ::{ flag=MY }:: ::ohshitweeb::{ user-id=12999285 } | +7.75 |
+| 9 | ::{ flag=MY }:: ::DuoX::{ user-id=9560694 } | +6.83 |
+| 10 | ::{ flag=MY }:: ::stumphole145::{ user-id=14623152 } | +6.43 |
+| 11 | ::{ flag=MY }:: ::Jolene::{ user-id=13626098 } | +5.69 |
+| 12 | ::{ flag=MY }:: ::Snowy5441::{ user-id=13865320 } | +4.18 |
+| 13 | ::{ flag=MY }:: ::Racers03::{ user-id=11621976 } | -0.21 |
+| 14 | ::{ flag=MY }:: ::Axorite::{ user-id=9124278 } | -0.50 |
+| 15 | ::{ flag=MY }:: ::Addam::{ user-id=11716599 } | -0.70 |
+| 16 | ::{ flag=MY }:: ::Inugami Korone::{ user-id=4474918 } | -0.82 |
+| 17 | ::{ flag=MY }:: ::Chiyuu::{ user-id=8226107 } | -0.88 |
+| 18 | ::{ flag=MY }:: ::Makise Kurisu::{ user-id=6996926 } | -2.01 |
+| 19 | ::{ flag=MY }:: ::MadDdDio::{ user-id=15086959 } | -2.31 |
+| 20 | ::{ flag=MY }:: ::a hotdog::{ user-id=8688777 } | -2.52 |
+| 21 | ::{ flag=MY }:: ::W1nter1::{ user-id=23185001 } | -3.51 |
+| 22 | ::{ flag=MY }:: ::-Shiran-::{ user-id=9773374 } | -4.48 |
+| 23 | ::{ flag=MY }:: ::Atomium::{ user-id=19186968 } | -4.77 |
+| 24 | ::{ flag=MY }:: ::VenDService::{ user-id=15107940 } | -4.84 |
 
 ## Podium
 
@@ -297,14 +297,14 @@ Saturday, 12 October 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Rampax](https://osu.ppy.sh/users/13626098)** ::{ flag=MY }:: | **7** | 4 | ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/12999285) | [#1](https://osu.ppy.sh/community/matches/115836997) |
+| Lower | **::Rampax::{ user-id=13626098 }** ::{ flag=MY }:: | **7** | 4 | ::{ flag=MY }:: ::Lunasa::{ user-id=12999285 } | [#1](https://osu.ppy.sh/community/matches/115836997) |
 
 Sunday, 13 October 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | [wuhua](https://osu.ppy.sh/users/2932510) ::{ flag=MY }:: | 4 | **7** | ::{ flag=MY }:: **[Rampax](https://osu.ppy.sh/users/13626098)** | [#1](https://osu.ppy.sh/community/matches/115838167) |
-| Grand Final (bracket reset) | [Rampax](https://osu.ppy.sh/users/13626098) ::{ flag=MY }:: | 4 | **7** | ::{ flag=MY }:: **[wuhua](https://osu.ppy.sh/users/2932510)** | [#1](https://osu.ppy.sh/community/matches/115839526) |
+| Grand Final | ::wuhua::{ user-id=2932510 } ::{ flag=MY }:: | 4 | **7** | ::{ flag=MY }:: **::Rampax::{ user-id=13626098 }** | [#1](https://osu.ppy.sh/community/matches/115838167) |
+| Grand Final (bracket reset) | ::Rampax::{ user-id=13626098 } ::{ flag=MY }:: | 4 | **7** | ::{ flag=MY }:: **::wuhua::{ user-id=2932510 }** | [#1](https://osu.ppy.sh/community/matches/115839526) |
 
 ### Finals (week 1)
 
@@ -312,15 +312,15 @@ Saturday, 5 October 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Breast](https://osu.ppy.sh/users/11918602) ::{ flag=MY }:: | 2 | **7** | ::{ flag=MY }:: **[Chibi Maruko](https://osu.ppy.sh/users/5585377)** | [#1](https://osu.ppy.sh/community/matches/115745125) |
-| Lower | **[Lunasa](https://osu.ppy.sh/users/12999285)** ::{ flag=MY }:: | **7** | 1 | ::{ flag=MY }:: [AHotDawg](https://osu.ppy.sh/users/15271985) | [#1](https://osu.ppy.sh/community/matches/115743535) |
+| Lower | ::Breast::{ user-id=11918602 } ::{ flag=MY }:: | 2 | **7** | ::{ flag=MY }:: **::Chibi Maruko::{ user-id=5585377 }** | [#1](https://osu.ppy.sh/community/matches/115745125) |
+| Lower | **::Lunasa::{ user-id=12999285 }** ::{ flag=MY }:: | **7** | 1 | ::{ flag=MY }:: ::AHotDawg::{ user-id=15271985 } | [#1](https://osu.ppy.sh/community/matches/115743535) |
 
 Sunday, 6 October 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[wuhua](https://osu.ppy.sh/users/2932510)** ::{ flag=MY }:: | **7** | 4 | ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/115745112) |
-| Lower | [Chibi Maruko](https://osu.ppy.sh/users/5585377) ::{ flag=MY }:: | 6 | **7** | ::{ flag=MY }:: **[Lunasa](https://osu.ppy.sh/users/12999285)** | [#1](https://osu.ppy.sh/community/matches/115759255) |
+| Upper | **::wuhua::{ user-id=2932510 }** ::{ flag=MY }:: | **7** | 4 | ::{ flag=MY }:: ::Rampax::{ user-id=13626098 } | [#1](https://osu.ppy.sh/community/matches/115745112) |
+| Lower | ::Chibi Maruko::{ user-id=5585377 } ::{ flag=MY }:: | 6 | **7** | ::{ flag=MY }:: **::Lunasa::{ user-id=12999285 }** | [#1](https://osu.ppy.sh/community/matches/115759255) |
 
 ### Semifinals
 
@@ -328,24 +328,24 @@ Friday, 27 September 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [ohshitweeb](https://osu.ppy.sh/users/12999285) ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **[Jolene](https://osu.ppy.sh/users/13626098)** | [#1](https://osu.ppy.sh/community/matches/115647570) |
-| Lower | **[Chibi Maruko](https://osu.ppy.sh/users/5585377)** ::{ flag=MY }:: | **6** | 2 | ::{ flag=MY }:: [Snowy5441](https://osu.ppy.sh/users/13865320) | [#1](https://osu.ppy.sh/community/matches/115648452) |
+| Lower | ::ohshitweeb::{ user-id=12999285 } ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **::Jolene::{ user-id=13626098 }** | [#1](https://osu.ppy.sh/community/matches/115647570) |
+| Lower | **::Chibi Maruko::{ user-id=5585377 }** ::{ flag=MY }:: | **6** | 2 | ::{ flag=MY }:: ::Snowy5441::{ user-id=13865320 } | [#1](https://osu.ppy.sh/community/matches/115648452) |
 
 Saturday, 28 September 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Lunasa](https://osu.ppy.sh/users/12999285) ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **[Rampax](https://osu.ppy.sh/users/13626098)** | [#1](https://osu.ppy.sh/community/matches/115663965) |
-| Lower | **[AHotDawg](https://osu.ppy.sh/users/15271985)** ::{ flag=MY }:: | **6** | 1 | ::{ flag=MY }:: [stumphole145](https://osu.ppy.sh/users/14623152) | [#1](https://osu.ppy.sh/community/matches/115662145) |
-| Lower | [Auxuelus](https://osu.ppy.sh/users/5414124) ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **[Chiyuu](https://osu.ppy.sh/users/8226107)** | [#1](https://osu.ppy.sh/community/matches/115663054) |
-| Upper | **[wuhua](https://osu.ppy.sh/users/2932510)** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: [Breast](https://osu.ppy.sh/users/11918602) | [#1](https://osu.ppy.sh/community/matches/115662104) |
+| Upper | ::Lunasa::{ user-id=12999285 } ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **::Rampax::{ user-id=13626098 }** | [#1](https://osu.ppy.sh/community/matches/115663965) |
+| Lower | **::AHotDawg::{ user-id=15271985 }** ::{ flag=MY }:: | **6** | 1 | ::{ flag=MY }:: ::stumphole145::{ user-id=14623152 } | [#1](https://osu.ppy.sh/community/matches/115662145) |
+| Lower | ::Auxuelus::{ user-id=5414124 } ::{ flag=MY }:: | 5 | **6** | ::{ flag=MY }:: **::Chiyuu::{ user-id=8226107 }** | [#1](https://osu.ppy.sh/community/matches/115663054) |
+| Upper | **::wuhua::{ user-id=2932510 }** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: ::Breast::{ user-id=11918602 } | [#1](https://osu.ppy.sh/community/matches/115662104) |
 
 Sunday, 29 September 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Chiyuu](https://osu.ppy.sh/users/8226107) ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **[Chibi Maruko](https://osu.ppy.sh/users/5585377)** | [#1](https://osu.ppy.sh/community/matches/115677859) |
-| Lower | **[AHotDawg](https://osu.ppy.sh/users/15271985)** ::{ flag=MY }:: | **6** | 4 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/115673985) |
+| Lower | ::Chiyuu::{ user-id=8226107 } ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **::Chibi Maruko::{ user-id=5585377 }** | [#1](https://osu.ppy.sh/community/matches/115677859) |
+| Lower | **::AHotDawg::{ user-id=15271985 }** ::{ flag=MY }:: | **6** | 4 | ::{ flag=MY }:: ::Jolene::{ user-id=13626098 } | [#1](https://osu.ppy.sh/community/matches/115673985) |
 
 ### Quarterfinals
 
@@ -353,24 +353,24 @@ Thursday, 19 September 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Axorite](https://osu.ppy.sh/users/9124278) ::{ flag=MY }:: | 4 | **6** | ::{ flag=MY }:: **[Jolene](https://osu.ppy.sh/users/13626098)** | [#1](https://osu.ppy.sh/community/matches/115551388) |
+| Lower | ::Axorite::{ user-id=9124278 } ::{ flag=MY }:: | 4 | **6** | ::{ flag=MY }:: **::Jolene::{ user-id=13626098 }** | [#1](https://osu.ppy.sh/community/matches/115551388) |
 
 Saturday, 21 September 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[wuhua](https://osu.ppy.sh/users/2932510)** ::{ flag=MY }:: | **6** | 1 | ::{ flag=MY }:: [ohshitweeb](https://osu.ppy.sh/users/12999285) | [#1](https://osu.ppy.sh/community/matches/115577375) |
-| Lower | [Racers03](https://osu.ppy.sh/users/11621976) ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **[Snowy5441](https://osu.ppy.sh/users/13865320)** | [#1](https://osu.ppy.sh/community/matches/115573793) |
-| Upper | **[Rampax](https://osu.ppy.sh/users/3995630)** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: [Auxuelus](https://osu.ppy.sh/users/5414124) | [#1](https://osu.ppy.sh/community/matches/115578132) |
-| Upper | **[Lunasa](https://osu.ppy.sh/users/16436446)** ::{ flag=MY }:: | **6** | 3 | ::{ flag=MY }:: [Chibi Maruko](https://osu.ppy.sh/users/5585377) | [#1](https://osu.ppy.sh/community/matches/115579100) |
-| Lower | **[Chiyuu](https://osu.ppy.sh/users/8226107)** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694) | *win by default* |
-| Lower | [Addam](https://osu.ppy.sh/users/11716599) ::{ flag=MY }:: | 0 | **6** | ::{ flag=MY }:: **[stumphole145](https://osu.ppy.sh/users/1462315214623152)** | *win by default* |
+| Upper | **::wuhua::{ user-id=2932510 }** ::{ flag=MY }:: | **6** | 1 | ::{ flag=MY }:: ::ohshitweeb::{ user-id=12999285 } | [#1](https://osu.ppy.sh/community/matches/115577375) |
+| Lower | ::Racers03::{ user-id=11621976 } ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **::Snowy5441::{ user-id=13865320 }** | [#1](https://osu.ppy.sh/community/matches/115573793) |
+| Upper | **::Rampax::{ user-id=3995630 }** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: ::Auxuelus::{ user-id=5414124 } | [#1](https://osu.ppy.sh/community/matches/115578132) |
+| Upper | **::Lunasa::{ user-id=16436446 }** ::{ flag=MY }:: | **6** | 3 | ::{ flag=MY }:: ::Chibi Maruko::{ user-id=5585377 } | [#1](https://osu.ppy.sh/community/matches/115579100) |
+| Lower | **::Chiyuu::{ user-id=8226107 }** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: ::DuoX::{ user-id=9560694 } | *win by default* |
+| Lower | ::Addam::{ user-id=11716599 } ::{ flag=MY }:: | 0 | **6** | ::{ flag=MY }:: **::stumphole145::{ user-id=1462315214623152 }** | *win by default* |
 
 Sunday, 22 September 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [AHotDawg](https://osu.ppy.sh/users/15271985) ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **[Breast](https://osu.ppy.sh/users/11918602)** | [#1](https://osu.ppy.sh/community/matches/115589176) |
+| Upper | ::AHotDawg::{ user-id=15271985 } ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **::Breast::{ user-id=11918602 }** | [#1](https://osu.ppy.sh/community/matches/115589176) |
 
 ### Round of 16
 
@@ -378,19 +378,19 @@ Saturday, 14 September 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[ohshitweeb](https://osu.ppy.sh/users/12999285)** ::{ flag=MY }:: | **5** | 4 | ::{ flag=MY }:: [DuoX](https://osu.ppy.sh/users/9560694) | [#1](https://osu.ppy.sh/community/matches/115490279) |
-| Upper | **[Breast](https://osu.ppy.sh/users/11918602)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [Snowy5441](https://osu.ppy.sh/users/13865320) | [#1](https://osu.ppy.sh/community/matches/115490326) |
-| Upper | **[Rampax](https://osu.ppy.sh/users/3995630)** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) | [#1](https://osu.ppy.sh/community/matches/115489335) |
-| Upper | **[AHotDawg](https://osu.ppy.sh/users/15271985)** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976) | [#1](https://osu.ppy.sh/community/matches/115488463) |
-| Upper | **[Auxuelus](https://osu.ppy.sh/users/5414124)** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/115489315) |
+| Upper | **::ohshitweeb::{ user-id=12999285 }** ::{ flag=MY }:: | **5** | 4 | ::{ flag=MY }:: ::DuoX::{ user-id=9560694 } | [#1](https://osu.ppy.sh/community/matches/115490279) |
+| Upper | **::Breast::{ user-id=11918602 }** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: ::Snowy5441::{ user-id=13865320 } | [#1](https://osu.ppy.sh/community/matches/115490326) |
+| Upper | **::Rampax::{ user-id=3995630 }** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: ::Axorite::{ user-id=9124278 } | [#1](https://osu.ppy.sh/community/matches/115489335) |
+| Upper | **::AHotDawg::{ user-id=15271985 }** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: ::Racers03::{ user-id=11621976 } | [#1](https://osu.ppy.sh/community/matches/115488463) |
+| Upper | **::Auxuelus::{ user-id=5414124 }** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: ::Jolene::{ user-id=13626098 } | [#1](https://osu.ppy.sh/community/matches/115489315) |
 
 Sunday, 15 September 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Chibi Maruko](https://osu.ppy.sh/users/5585377)** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: [stumphole145](https://osu.ppy.sh/users/14623152) | [#1](https://osu.ppy.sh/community/matches/115504467) |
-| Upper | **[wuhua](https://osu.ppy.sh/users/2932510)** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: [Chiyuu](https://osu.ppy.sh/users/8226107) | [#1](https://osu.ppy.sh/community/matches/115506210) |
-| Upper | **[Lunasa](https://osu.ppy.sh/users/16436446)** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: [Addam](https://osu.ppy.sh/users/11716599) | *win by default* |
+| Upper | **::Chibi Maruko::{ user-id=5585377 }** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: ::stumphole145::{ user-id=14623152 } | [#1](https://osu.ppy.sh/community/matches/115504467) |
+| Upper | **::wuhua::{ user-id=2932510 }** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: ::Chiyuu::{ user-id=8226107 } | [#1](https://osu.ppy.sh/community/matches/115506210) |
+| Upper | **::Lunasa::{ user-id=16436446 }** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: ::Addam::{ user-id=11716599 } | *win by default* |
 
 ### Runoff brackets
 
@@ -398,28 +398,28 @@ Friday, 6 September 2024:
 
 | Match classification | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| R2 | **[Chiyuu](https://osu.ppy.sh/users/8226107)** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: [VenDService](https://osu.ppy.sh/users/15107940) | [#1](https://osu.ppy.sh/community/matches/115382928) |
-| R2 | **[MadDdDio](https://osu.ppy.sh/users/15086959)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [-Shiran-](https://osu.ppy.sh/users/9773374) | [#1](https://osu.ppy.sh/community/matches/115385117) |
+| R2 | **::Chiyuu::{ user-id=8226107 }** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: ::VenDService::{ user-id=15107940 } | [#1](https://osu.ppy.sh/community/matches/115382928) |
+| R2 | **::MadDdDio::{ user-id=15086959 }** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: ::-Shiran-::{ user-id=9773374 } | [#1](https://osu.ppy.sh/community/matches/115385117) |
 
 Saturday, 7 September 2024:
 
 | Match classification | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| R2 | [Makise Kurisu](https://osu.ppy.sh/users/6996926) ::{ flag=MY }:: | 2 | **5** | ::{ flag=MY }:: **[Atomium](https://osu.ppy.sh/users/19186968)** | [#1](https://osu.ppy.sh/community/matches/115401125) |
-| R1 | **[Jolene](https://osu.ppy.sh/users/13626098)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) | [#1](https://osu.ppy.sh/community/matches/115414986) |
-| R2 | **[a hotdog](https://osu.ppy.sh/users/8688777)** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: [W1nter1](https://osu.ppy.sh/users/23185001) | [#1](https://osu.ppy.sh/community/matches/115413637) |
-| R1 | **[stumphole145](https://osu.ppy.sh/users/14623152)** ::{ flag=MY }:: | **5** | 4 | ::{ flag=MY }:: [Addam](https://osu.ppy.sh/users/11716599) | [#1](https://osu.ppy.sh/community/matches/115400685) |
-| R1 | **[DuoX](https://osu.ppy.sh/users/9560694)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [Inugami Korone](https://osu.ppy.sh/users/4474918) | [#1](https://osu.ppy.sh/community/matches/115404426) |
-| R1 | [Snowy5441](https://osu.ppy.sh/users/13865320) ::{ flag=MY }:: | 1 | **5** | ::{ flag=MY }:: **[Racers03](https://osu.ppy.sh/users/11621976)** | [#1](https://osu.ppy.sh/community/matches/115399896) |
+| R2 | ::Makise Kurisu::{ user-id=6996926 } ::{ flag=MY }:: | 2 | **5** | ::{ flag=MY }:: **::Atomium::{ user-id=19186968 }** | [#1](https://osu.ppy.sh/community/matches/115401125) |
+| R1 | **::Jolene::{ user-id=13626098 }** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: ::Axorite::{ user-id=9124278 } | [#1](https://osu.ppy.sh/community/matches/115414986) |
+| R2 | **::a hotdog::{ user-id=8688777 }** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: ::W1nter1::{ user-id=23185001 } | [#1](https://osu.ppy.sh/community/matches/115413637) |
+| R1 | **::stumphole145::{ user-id=14623152 }** ::{ flag=MY }:: | **5** | 4 | ::{ flag=MY }:: ::Addam::{ user-id=11716599 } | [#1](https://osu.ppy.sh/community/matches/115400685) |
+| R1 | **::DuoX::{ user-id=9560694 }** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: ::Inugami Korone::{ user-id=4474918 } | [#1](https://osu.ppy.sh/community/matches/115404426) |
+| R1 | ::Snowy5441::{ user-id=13865320 } ::{ flag=MY }:: | 1 | **5** | ::{ flag=MY }:: **::Racers03::{ user-id=11621976 }** | [#1](https://osu.ppy.sh/community/matches/115399896) |
 
 Sunday, 8 September 2024:
 
 | Match classification | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| R3 | [Inugami Korone](https://osu.ppy.sh/users/4474918) ::{ flag=MY }:: | 2 | **5** | ::{ flag=MY }:: **[Chiyuu](https://osu.ppy.sh/users/8226107)** | [#1](https://osu.ppy.sh/community/matches/115412910) |
-| R3 | **[Addam](https://osu.ppy.sh/users/11716599)** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: [Atomium](https://osu.ppy.sh/users/19186968) | [#1](https://osu.ppy.sh/community/matches/115415362) |
-| R3 | **[Snowy5441](https://osu.ppy.sh/users/13865320)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: [a hotdog](https://osu.ppy.sh/users/8688777) | [#1](https://osu.ppy.sh/community/matches/115416992) |
-| R3 | **[Axorite](https://osu.ppy.sh/users/9124278)** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: [MadDdDio](https://osu.ppy.sh/users/15086959) | [#1](https://osu.ppy.sh/community/matches/115416087) |
+| R3 | ::Inugami Korone::{ user-id=4474918 } ::{ flag=MY }:: | 2 | **5** | ::{ flag=MY }:: **::Chiyuu::{ user-id=8226107 }** | [#1](https://osu.ppy.sh/community/matches/115412910) |
+| R3 | **::Addam::{ user-id=11716599 }** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: ::Atomium::{ user-id=19186968 } | [#1](https://osu.ppy.sh/community/matches/115415362) |
+| R3 | **::Snowy5441::{ user-id=13865320 }** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: ::a hotdog::{ user-id=8688777 } | [#1](https://osu.ppy.sh/community/matches/115416992) |
+| R3 | **::Axorite::{ user-id=9124278 }** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: ::MadDdDio::{ user-id=15086959 } | [#1](https://osu.ppy.sh/community/matches/115416087) |
 
 ## Ruleset
 

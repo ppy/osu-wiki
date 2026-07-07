@@ -23,7 +23,7 @@ Not familiar with **NILFRUITS**? Not a concern. Watch through this video showcas
 
 ### Ironina
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1767671) hosted by [Yugu](https://osu.ppy.sh/users/3161834)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1767671) hosted by ::Yugu::{ user-id=3161834 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/278/POPGATO/NILFRUITS%20-%20Ironina.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1767671)
 
 ### Salvador
 
-Or play through [the map that introduced **NILFRUITS** to osu!](https://osu.ppy.sh/beatmapsets/1541499) hosted by [Astrolis](https://osu.ppy.sh/users/12357714)!
+Or play through [the map that introduced **NILFRUITS** to osu!](https://osu.ppy.sh/beatmapsets/1541499) hosted by ::Astrolis::{ user-id=12357714 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/278/POPGATO/NILFRUITS%20-%20Salvador.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Or play through [the map that introduced **NILFRUITS** to osu!](https://osu.ppy.
 
 ### Arandano
 
-Slam some drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1786165) hosted by [Gamelan4](https://osu.ppy.sh/users/9856910)!
+Slam some drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1786165) hosted by ::Gamelan4::{ user-id=9856910 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/278/POPGATO/NILFRUITS%20-%20Arandano.mp3" type="audio/mpeg">

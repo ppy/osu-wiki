@@ -15,7 +15,7 @@ Without further ado:
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Evaine.jpg)](https://assets.ppy.sh/contests/66/winners/Evaine.png)
 
-In first place with a blistering **7329** votes is [Evaine](https://osu.ppy.sh/users/7295733)'s positively breathtaking piece featuring Aiko and Alisa cooling off in a shallow pond beneath a starlit sky.
+In first place with a blistering **7329** votes is ::Evaine::{ user-id=7295733 }'s positively breathtaking piece featuring Aiko and Alisa cooling off in a shallow pond beneath a starlit sky.
 
 This is about as tastefully intimate as we've ever seen a fanart contest entry get, and with more poise and grace than we honestly could've ever expected from a *tit*ular summer-themed contest.
 
@@ -25,71 +25,71 @@ Yowza.
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Alba.jpg)](https://assets.ppy.sh/contests/66/winners/Alba.png)
 
-Second place went to [Alba](https://osu.ppy.sh/users/12164832)'s frilly and flowery masterpiece, with **6710** voters wishing they were among the sunflowers in Pippi's arms.
+Second place went to ::Alba::{ user-id=12164832 }'s frilly and flowery masterpiece, with **6710** voters wishing they were among the sunflowers in Pippi's arms.
 
 The skies all but sang the praises of summer in a beautifully muted wave of colour that produced perhaps one of the most evocative entries we've ever seen, at least in this author's humble opinion.
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Sylux6.jpg)](https://assets.ppy.sh/contests/66/winners/Sylux6.png)
 
-Summer means swimsuits, and [Sylux6](https://osu.ppy.sh/users/2607507) absolutely delivered, hosing down third place with **6660** votes for this particularly *endowed* take on Mocha and Pippi enjoying some fun in the sun.
+Summer means swimsuits, and ::Sylux6::{ user-id=2607507 } absolutely delivered, hosing down third place with **6660** votes for this particularly *endowed* take on Mocha and Pippi enjoying some fun in the sun.
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Sunako.jpg)](https://assets.ppy.sh/contests/66/winners/Sunako.png)
 
-Scoring **6433** votes, [Sunako](https://osu.ppy.sh/users/2801166)'s sunlit piece featured Pippi, Aiko and Mocha enjoying some time at the beach. This one wins a bonus mention from us for absolutely superb renditions of all three mascot designs in perhaps their most pure form yet.
+Scoring **6433** votes, ::Sunako::{ user-id=2801166 }'s sunlit piece featured Pippi, Aiko and Mocha enjoying some time at the beach. This one wins a bonus mention from us for absolutely superb renditions of all three mascot designs in perhaps their most pure form yet.
 
 And getting to see more Aiko is never a bad thing, especially when she's enjoying herself so much!
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Shuuzo.jpg)](https://assets.ppy.sh/contests/66/winners/Shuuzo.png)
 
-Flying high with **5913** votes, [Shuuzo](https://osu.ppy.sh/users/3661521) nearly knocked the ball out of the beach with his take of Pippi enjoying a game of catch with a giant inflatable ball. Simple, but superb.
+Flying high with **5913** votes, ::Shuuzo::{ user-id=3661521 } nearly knocked the ball out of the beach with his take of Pippi enjoying a game of catch with a giant inflatable ball. Simple, but superb.
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/TheTofuBoi.jpg)](https://assets.ppy.sh/contests/66/winners/TheTofuBoi.png)
 
-Sticks at the ready, [TheTofuBoi](https://osu.ppy.sh/users/4817223) drummed up **5631** votes with his vibrant take on Mocha and a pair of dons making themselves known.
+Sticks at the ready, ::TheTofuBoi::{ user-id=4817223 } drummed up **5631** votes with his vibrant take on Mocha and a pair of dons making themselves known.
 
 He's also made a [speedpainting video](https://youtu.be/2TDP-GC3tkE) detailing the whole process, check it out if you're interested!
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/rennine.jpg)](https://assets.ppy.sh/contests/66/winners/rennine.png)
 
-**4899** votes heralded [rennine](https://osu.ppy.sh/users/6140529)'s fantastically unique rendition of Pippi and Mocha in summer dress, featuring a few nifty little accessory touches and some of the nicest costume design we've seen overall in a while.
+**4899** votes heralded ::rennine::{ user-id=6140529 }'s fantastically unique rendition of Pippi and Mocha in summer dress, featuring a few nifty little accessory touches and some of the nicest costume design we've seen overall in a while.
 
 All of our finalists are truly something special, and this one is really something quite distinct and gorgeous. Well done!
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/aets.jpg)](https://assets.ppy.sh/contests/66/winners/aets.png)
 
-A tidal wave of **4890** votes brought [aets](https://osu.ppy.sh/users/12379188)' piece ashore, sporting Pippi and Mocha riding the maelstrom, and a little pyun surfing off in the distance.
+A tidal wave of **4890** votes brought ::aets::{ user-id=12379188 }' piece ashore, sporting Pippi and Mocha riding the maelstrom, and a little pyun surfing off in the distance.
 
 Bonus points from us for extremely creative use of the template design!
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/PaperDawge.jpg)](https://assets.ppy.sh/contests/66/winners/PaperDawge.png)
 
-**4567** votes cheered all four of the main mascots on in [PaperDawge](https://osu.ppy.sh/users/7721841)'s well-received piece. Rare to see them all together, and even rarer to see Yuzu sporting his height and pecs over the poor shortness that is Mocha.
+**4567** votes cheered all four of the main mascots on in ::PaperDawge::{ user-id=7721841 }'s well-received piece. Rare to see them all together, and even rarer to see Yuzu sporting his height and pecs over the poor shortness that is Mocha.
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/R3_AL.jpg)](https://assets.ppy.sh/contests/66/winners/R3_AL.png)
 
-**4537** people were ready for SUMMER TIME!!! with [R3_AL](https://osu.ppy.sh/users/11983357)'s take on a schoolgirl Pippi in of course, summer uniform. Sometimes less is more!
+**4537** people were ready for SUMMER TIME!!! with ::R3\1AL::{ user-id=11983357 }'s take on a schoolgirl Pippi in of course, summer uniform. Sometimes less is more!
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/snowyani2000.jpg)](https://assets.ppy.sh/contests/66/winners/snowyani2000.png)
 
-**4337** brave souls managed to pick through the sea of references in [snowyani2000](https://osu.ppy.sh/users/2691590)'s latest entry. A paragraph (or five) couldn't do the sheer number of cameos justice. *Among other things that shall not be named nor encouraged.*
+**4337** brave souls managed to pick through the sea of references in ::snowyani2000::{ user-id=2691590 }'s latest entry. A paragraph (or five) couldn't do the sheer number of cameos justice. *Among other things that shall not be named nor encouraged.*
 
 We would just like to politely note that *someone* apparently can defeat Airman, if a candid little shot in this piece is to be believed. Have fun finding who it is!
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/YaoiForeva.jpg)](https://assets.ppy.sh/contests/66/winners/YaoiForeva.png)
 
-**3933** voters probably did not expect to see a mermaid Aiko and Mocha, but that is precisely what they got from [YaoiForeva](https://osu.ppy.sh/users/7959038)'s adorable entry. Blub blub blub. They're almost too cute for this world.
+**3933** voters probably did not expect to see a mermaid Aiko and Mocha, but that is precisely what they got from ::YaoiForeva::{ user-id=7959038 }'s adorable entry. Blub blub blub. They're almost too cute for this world.
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Yaruwashi.jpg)](https://assets.ppy.sh/contests/66/winners/Yaruwashi.png)
 
-Is there really anything more iconic than fireworks at a festival for a Japanese-themed summer? **3506** voters agreed, sending their support for [Yaruwashi](https://osu.ppy.sh/users/12024581)'s entry. Featuring Pippi, Mocha and Maria enjoying themselves with all the classic treats, this one definitely shines bright.
+Is there really anything more iconic than fireworks at a festival for a Japanese-themed summer? **3506** voters agreed, sending their support for ::Yaruwashi::{ user-id=12024581 }'s entry. Featuring Pippi, Mocha and Maria enjoying themselves with all the classic treats, this one definitely shines bright.
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Reivaru-.jpg)](https://assets.ppy.sh/contests/66/winners/Reivaru-.png)
 
-**3506** votes rose the heat for [Reivaru\-](https://osu.ppy.sh/users/11084189)'s piece, showcasing Pippi and Mocha enjoying a bit of relief from the summer sky under a straw hat and umbrella.
+**3506** votes rose the heat for ::Reivaru\-::{ user-id=11084189 }'s piece, showcasing Pippi and Mocha enjoying a bit of relief from the summer sky under a straw hat and umbrella.
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Vio.jpg)](https://assets.ppy.sh/contests/66/winners/Vio.png)
 
-And last but certainly not least, **3468** votes took Pippi's invitation to take a walk down the beachside wharf in [Vio](https://osu.ppy.sh/users/5661237)'s striking entry. Really, how could you say no to that face?
+And last but certainly not least, **3468** votes took Pippi's invitation to take a walk down the beachside wharf in ::Vio::{ user-id=5661237 }'s striking entry. Really, how could you say no to that face?
 
 ---
 

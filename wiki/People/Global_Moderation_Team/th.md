@@ -58,89 +58,89 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 | รายชื่อ | ภาษาที่ใช้ | ตำแหน่ง/หน้าที่ |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | เยอรมัน | ผู้ดูแลแชท |
-| ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | อิตาลี | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
-| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | อิตาลี | ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730) |  | ผู้ดูแลแชท |
-| ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) | จีน, มาเลย์, กวางตุ้ง, ญี่ปุ่น บ้าง | ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | จีน | ผู้ดูแลชุมชนการแมป/การ mod, ผู้ดูแลฟอรั่ม |
-| ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | รัสเซีย | ผู้ดูแลแชท |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | เซอร์เบีย | Team leadership, general moderation |
-| ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | ผู้ดูแลฟอรั่ม |
-| ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod, general moderation |
-| ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) | ดัตช์, เยอรมัน บ้าง | General moderation |
-| ::{ flag=US }:: [Atrue](https://osu.ppy.sh/users/1758523) | จีน | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | ฝรั่งเศส | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | ผู้บริหารทัวร์นาเมนต์ |
-| ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | จีน, มาเลย์ | ผู้ดูแลแชท |
-| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้สนับสนุนทางเทคนิค |
-| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | สวีเดน, สเปน | General moderation, ผู้บริหารทัวร์นาเมนต์ |
-| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | ผู้ดูแลแชท |
-| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | เกาหลี, ญี่ปุ่น | ผู้ดูแลแชท |
-| ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | ฝรั่งเศส | ผู้ดูแลฟอรั่ม |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | สเปน บ้าง | ผู้บริหารทัวร์นาเมนต์ |
-| ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172) | โปรตุเกส | ผู้ดูแลแชท |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | ผู้ดูแลฟอรั่ม, ผู้สนับสนุนทางเทคนิค |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | ผู้สนับสนุนทางเทคนิค |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | ผู้สนับสนุนผู้เล่น, ผู้ดูแลวิกิ |
-| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | ฟินแลนด์, สวีเดน บ้าง | ผู้ดูแลแชท |
-| ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | จีน | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | โปแลนด์ | ผู้ดูแลแชท |
-| ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | ฝรั่งเศส | ผู้ดูแลแชท |
-| ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=DE }:: [Hopes](https://osu.ppy.sh/users/4907504) | เยอรมัน, ตุรกี | ผู้ดูแลแชท |
-| ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | อินโดนีเซีย | ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | ฝรั่งเศส, สเปน | ผู้ดูแลแชท |
-| ::{ flag=BR }:: [Jaguar](https://osu.ppy.sh/users/3660954) | โปรตุเกส | ผู้ดูแลแชท |
-| ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | กวางตุ้ง, จีน, ญี่ปุ่น | ผู้ดูแลแชท |
-| ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | รัสเซีย | Team leadership, ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
-| ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | รัสเซีย | ผู้ดูแลแชท |
-| ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | ฟินแลนด์, สวีเดน บ้าง | ผู้ดูแลแชท |
-| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | โปรตุเกส, สเปน | ผู้ดูแลแชท, ผู้บริหารทัวร์นาเมนต์ |
-| ::{ flag=VE }:: [Leon Brigido](https://osu.ppy.sh/users/13570072) | สเปน | ผู้ดูแลแชท |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | เยอรมัน | ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=GB }:: [Log Off Now](https://osu.ppy.sh/users/4378277) |  | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | เยอรมัน | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | กวางตุ้ง, จีน | ผู้บริหารทัวร์นาเมนต์ |
-| ::{ flag=BR }:: [maot](https://osu.ppy.sh/users/3914271) | โปรตุเกส | ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | ผู้พัฒนา osu! |
-| ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | เวียดนาม | ผู้ดูแลแชท |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | ฟิลิปปินส์ | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้สนับสนุนทางเทคนิค |
-| ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | อินโดนีเซีย | ผู้ดูแลแชท |
-| ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | ฝรั่งเศส | ผู้ดูแลแชท |
-| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | เยอรมัน, เซอร์เบีย | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | ทีมอย่างเป็นทางการ |
-| ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | ฝรั่งเศส | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | กวางตุ้ง, จีน | General moderation |
-| ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | เกาหลี, ญี่ปุ่น | ผู้ดูแลแชท |
-| ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | มาเลย์ | ผู้ดูแลแชท |
-| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | โปแลนด์ | Skinning community moderation |
-| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | สเปน | ผู้ดูแลแชท |
-| ::{ flag=FI }:: [Riverism](https://osu.ppy.sh/users/4980738) | ฟินแลนด์, สวีเดน บ้าง, ญี่ปุ่น บ้าง | ผู้ดูแลชุมชนการแมป/การ mod, ผู้ดูแลฟอรั่ม |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | ดัตช์, ญี่ปุ่น | Skinning community moderation |
-| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | เยอรมัน | Skinning community moderation, ผู้ดูแลฟอรั่ม |
-| ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | ญี่ปุ่น | ผู้ดูแลแชท |
-| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | สวีเดน, สเปน | ผู้ดูแลแชท |
-| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | ฝรั่งเศส, สเปน | ผู้ดูแลแชท |
-| ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | อินโดนีเซีย | ผู้ดูแลแชท |
-| ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | อินโดนีเซีย, เวียดนาม บ้าง | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
-| ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | จีน | ผู้ดูแลแชท |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | เกาหลี | ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | เยอรมัน, เซอร์เบีย | ผู้ดูแลฟอรั่ม |
-| ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | ฟินแลนด์ | ผู้ดูแลแชท |
-| ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | ผู้ดูแลฟอรั่ม, ผู้ดูแลแชท |
-| ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | สเปน | ผู้ดูแลแชท |
-| ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | รัสเซีย | ผู้ดูแลแชท, ผู้ดูแลวิกิ |
-| ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | ฟิลิปปินส์ | ผู้ดูแลแชท |
-| ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | ไทย | ผู้ดูแลแชท |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | สเปน | ผู้สนับสนุนทางเทคนิค |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | โปแลนด์ | Team leadership, ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=IT }:: [VoidGod](https://osu.ppy.sh/users/4724656) | อิตาลี | ผู้ดูแลแชท |
-| ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | อินโดนีเซีย | ผู้ดูแลแชท |
-| ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | โปแลนด์ | ผู้ดูแลแชท |
-| ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | ผู้ดูแลแชท |
-| ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | สเปน | ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=DE }:: ::- Felix::{ user-id=8503985 } | เยอรมัน | ผู้ดูแลแชท |
+| ::{ flag=IT }:: ::- Marco -::{ user-id=1273955 } | อิตาลี | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
+| ::{ flag=IT }:: ::-kevincela-::{ user-id=266596 } | อิตาลี | ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=US }:: ::-NoName-::{ user-id=10400730 } |  | ผู้ดูแลแชท |
+| ::{ flag=MY }:: ::\_Kobii::{ user-id=6209713 } | จีน, มาเลย์, กวางตุ้ง, ญี่ปุ่น บ้าง | ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=CN }:: ::\_Stan::{ user-id=1653229 } | จีน | ผู้ดูแลชุมชนการแมป/การ mod, ผู้ดูแลฟอรั่ม |
+| ::{ flag=CH }:: ::\[ryuu\]::{ user-id=5698467 } | รัสเซีย | ผู้ดูแลแชท |
+| ::{ flag=RS }:: ::0x84f::{ user-id=7944724 } | เซอร์เบีย | Team leadership, general moderation |
+| ::{ flag=US }:: ::abraker::{ user-id=4635891 } |  | ผู้ดูแลฟอรั่ม |
+| ::{ flag=GB }:: ::aceticke::{ user-id=8838763 } |  | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod, general moderation |
+| ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 } | ดัตช์, เยอรมัน บ้าง | General moderation |
+| ::{ flag=US }:: ::Atrue::{ user-id=1758523 } | จีน | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=CA }:: ::Aurele::{ user-id=654108 } | ฝรั่งเศส | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=CA }:: ::Azer::{ user-id=2155578 } |  | ผู้บริหารทัวร์นาเมนต์ |
+| ::{ flag=MY }:: ::bibitaru::{ user-id=4482419 } | จีน, มาเลย์ | ผู้ดูแลแชท |
+| ::{ flag=US }:: ::Blushing::{ user-id=5927823 } |  | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้สนับสนุนทางเทคนิค |
+| ::{ flag=US }:: ::ChillierPear::{ user-id=9501251 } | สวีเดน, สเปน | General moderation, ผู้บริหารทัวร์นาเมนต์ |
+| ::{ flag=GB }:: ::chromb::{ user-id=10238680 } |  | ผู้ดูแลแชท |
+| ::{ flag=KR }:: ::Civil oath::{ user-id=3216107 } | เกาหลี, ญี่ปุ่น | ผู้ดูแลแชท |
+| ::{ flag=FR }:: ::Corne2Plum3::{ user-id=15646039 } | ฝรั่งเศส | ผู้ดูแลฟอรั่ม |
+| ::{ flag=CA }:: ::D I O::{ user-id=3958619 } | สเปน บ้าง | ผู้บริหารทัวร์นาเมนต์ |
+| ::{ flag=BR }:: ::DizzyH::{ user-id=9896172 } | โปรตุเกส | ผู้ดูแลแชท |
+| ::{ flag=US }:: ::Death::{ user-id=3242450 } |  | ผู้ดูแลฟอรั่ม, ผู้สนับสนุนทางเทคนิค |
+| ::{ flag=US }:: ::Dntm8kmeeatu::{ user-id=5428812 } |  | ผู้สนับสนุนทางเทคนิค |
+| ::{ flag=AU }:: ::Ephemeral::{ user-id=102335 } |  | ผู้สนับสนุนผู้เล่น, ผู้ดูแลวิกิ |
+| ::{ flag=FI }:: ::Flutteh::{ user-id=5042507 } | ฟินแลนด์, สวีเดน บ้าง | ผู้ดูแลแชท |
+| ::{ flag=CN }:: ::Fycho::{ user-id=1876867 } | จีน | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=PL }:: ::Galkan::{ user-id=169570 } | โปแลนด์ | ผู้ดูแลแชท |
+| ::{ flag=FR }:: ::Ganondorf::{ user-id=10660738 } | ฝรั่งเศส | ผู้ดูแลแชท |
+| ::{ flag=US }:: ::Halfslashed::{ user-id=4598899 } |  | ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=DE }:: ::Hopes::{ user-id=4907504 } | เยอรมัน, ตุรกี | ผู้ดูแลแชท |
+| ::{ flag=ID }:: ::Ilham::{ user-id=3057154 } | อินโดนีเซีย | ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=FR }:: ::Imakuri::{ user-id=6100837 } | ฝรั่งเศส, สเปน | ผู้ดูแลแชท |
+| ::{ flag=BR }:: ::Jaguar::{ user-id=3660954 } | โปรตุเกส | ผู้ดูแลแชท |
+| ::{ flag=HK }:: ::kanpakyin::{ user-id=394326 } | กวางตุ้ง, จีน, ญี่ปุ่น | ผู้ดูแลแชท |
+| ::{ flag=RU }:: ::Kobold84::{ user-id=3227533 } | รัสเซีย | Team leadership, ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
+| ::{ flag=RU }:: ::Kudou Chitose::{ user-id=9936528 } | รัสเซีย | ผู้ดูแลแชท |
+| ::{ flag=FI }:: ::Laurakko::{ user-id=7253731 } | ฟินแลนด์, สวีเดน บ้าง | ผู้ดูแลแชท |
+| ::{ flag=BR }:: ::LeoFLT::{ user-id=3668779 } | โปรตุเกส, สเปน | ผู้ดูแลแชท, ผู้บริหารทัวร์นาเมนต์ |
+| ::{ flag=VE }:: ::Leon Brigido::{ user-id=13570072 } | สเปน | ผู้ดูแลแชท |
+| ::{ flag=DE }:: ::Loctav::{ user-id=71366 } | เยอรมัน | ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=GB }:: ::Log Off Now::{ user-id=4378277 } |  | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=DE }:: ::Lyawi::{ user-id=5851253 } | เยอรมัน | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
+| ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 } | กวางตุ้ง, จีน | ผู้บริหารทัวร์นาเมนต์ |
+| ::{ flag=BR }:: ::maot::{ user-id=3914271 } | โปรตุเกส | ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=NO }:: ::MillhioreF::{ user-id=941094 } |  | ผู้พัฒนา osu! |
+| ::{ flag=VN }:: ::My Angel Chino::{ user-id=20547597 } | เวียดนาม | ผู้ดูแลแชท |
+| ::{ flag=PH }:: ::Nathanael::{ user-id=2295078 } | ฟิลิปปินส์ | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม, ผู้สนับสนุนทางเทคนิค |
+| ::{ flag=US }:: ::Nevo::{ user-id=7451883 } |  | ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=ID }:: ::Niva::{ user-id=197805 } | อินโดนีเซีย | ผู้ดูแลแชท |
+| ::{ flag=FR }:: ::Nozhomi::{ user-id=2716981 } | ฝรั่งเศส | ผู้ดูแลแชท |
+| ::{ flag=DE }:: ::OnosakiHito::{ user-id=290128 } | เยอรมัน, เซอร์เบีย | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=AU }:: ::osu!team::{ user-id=4341397 } |  | ทีมอย่างเป็นทางการ |
+| ::{ flag=FR }:: ::Pachiru::{ user-id=2850983 } | ฝรั่งเศส | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
+| ::{ flag=HK }:: ::Petal::{ user-id=7354729 } | กวางตุ้ง, จีน | General moderation |
+| ::{ flag=KR }:: ::Petit::{ user-id=4637369 } | เกาหลี, ญี่ปุ่น | ผู้ดูแลแชท |
+| ::{ flag=MY }:: ::QHideaki13::{ user-id=733998 } | มาเลย์ | ผู้ดูแลแชท |
+| ::{ flag=PL }:: ::Redo\1::{ user-id=7122165 } | โปแลนด์ | Skinning community moderation |
+| ::{ flag=MX }:: ::Repflez::{ user-id=201392 } | สเปน | ผู้ดูแลแชท |
+| ::{ flag=FI }:: ::Riverism::{ user-id=4980738 } | ฟินแลนด์, สวีเดน บ้าง, ญี่ปุ่น บ้าง | ผู้ดูแลชุมชนการแมป/การ mod, ผู้ดูแลฟอรั่ม |
+| ::{ flag=NL }:: ::Roan::{ user-id=8214639 } | ดัตช์, ญี่ปุ่น | Skinning community moderation |
+| ::{ flag=DE }:: ::RockRoller::{ user-id=8388854 } | เยอรมัน | Skinning community moderation, ผู้ดูแลฟอรั่ม |
+| ::{ flag=JP }:: ::S o h::{ user-id=2234772 } | ญี่ปุ่น | ผู้ดูแลแชท |
+| ::{ flag=SE }:: ::Saten::{ user-id=444506 } | สวีเดน, สเปน | ผู้ดูแลแชท |
+| ::{ flag=FR }:: ::Shiro::{ user-id=113005 } | ฝรั่งเศส, สเปน | ผู้ดูแลแชท |
+| ::{ flag=ID }:: ::Shurelia::{ user-id=3807986 } | อินโดนีเซีย | ผู้ดูแลแชท |
+| ::{ flag=ID }:: ::Sies::{ user-id=6491991 } | อินโดนีเซีย, เวียดนาม บ้าง | ผู้ดูแลแชท, ผู้ดูแลฟอรั่ม |
+| ::{ flag=TW }:: ::spboxer3::{ user-id=197974 } | จีน | ผู้ดูแลแชท |
+| ::{ flag=KR }:: ::Spectator::{ user-id=702598 } | เกาหลี | ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=AT }:: ::Stefan::{ user-id=626907 } | เยอรมัน, เซอร์เบีย | ผู้ดูแลฟอรั่ม |
+| ::{ flag=FI }:: ::terho::{ user-id=6090105 } | ฟินแลนด์ | ผู้ดูแลแชท |
+| ::{ flag=NZ }:: ::THAT\1otaku::{ user-id=11798717 } |  | ผู้ดูแลฟอรั่ม, ผู้ดูแลแชท |
+| ::{ flag=PE }:: ::Tiburon::{ user-id=18115022 } | สเปน | ผู้ดูแลแชท |
+| ::{ flag=CH }:: ::TicClick::{ user-id=672931 } | รัสเซีย | ผู้ดูแลแชท, ผู้ดูแลวิกิ |
+| ::{ flag=PH }:: ::topecnz::{ user-id=2103927 } | ฟิลิปปินส์ | ผู้ดูแลแชท |
+| ::{ flag=TH }:: ::Trigonoculus::{ user-id=7627013 } | ไทย | ผู้ดูแลแชท |
+| ::{ flag=ES }:: ::Trosk-::{ user-id=3469385 } | สเปน | ผู้สนับสนุนทางเทคนิค |
+| ::{ flag=PL }:: ::Venix::{ user-id=5999631 } | โปแลนด์ | Team leadership, ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
+| ::{ flag=IT }:: ::VoidGod::{ user-id=4724656 } | อิตาลี | ผู้ดูแลแชท |
+| ::{ flag=ID }:: ::wowcake::{ user-id=16121851 } | อินโดนีเซีย | ผู้ดูแลแชท |
+| ::{ flag=PL }:: ::Yason::{ user-id=2574392 } | โปแลนด์ | ผู้ดูแลแชท |
+| ::{ flag=HM }:: ::Zallius::{ user-id=55 } |  | ผู้ดูแลแชท |
+| ::{ flag=CL }:: ::ZiRoX::{ user-id=200768 } | สเปน | ผู้ดูแลชุมชนการแมป/การ mod |
 
 ### เรียงจากรายชื่อภาษา
 
@@ -148,30 +148,30 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
 | `#bulgarian` |  |  |
-| `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
-| `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=US }:: [Atrue](https://osu.ppy.sh/users/1758523), ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |
+| `#cantonese` |  | ::{ flag=HK }:: ::kanpakyin::{ user-id=394326 }, ::{ flag=HK }:: ::Petal::{ user-id=7354729 } |
+| `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=CN }:: ::\_Stan::{ user-id=1653229 }, ::{ flag=US }:: ::Atrue::{ user-id=1758523 }, ::{ flag=MY }:: ::bibitaru::{ user-id=4482419 }, ::{ flag=CN }:: ::Fycho::{ user-id=1876867 }, ::{ flag=HK }:: ::kanpakyin::{ user-id=394326 }, ::{ flag=TW }:: ::spboxer3::{ user-id=197974 } |
 | `#czechoslovak` |  |  |
-| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595) |
+| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 } |
 | `#english` |  | *ผู้ดูแลทั้งหมด* |
-| `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
-| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507),  ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731), ::{ flag=FI }:: [Riverism](https://osu.ppy.sh/users/4980738),  ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) |
-| `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108), ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039), ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738), ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983), ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) |
-| `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985), ::{ flag=DE }:: [Hopes](https://osu.ppy.sh/users/4907504), ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128), ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854), ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) |
+| `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: ::Nathanael::{ user-id=2295078 }, ::{ flag=PH }:: ::topecnz::{ user-id=2103927 } |
+| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: ::Flutteh::{ user-id=5042507 },  ::{ flag=FI }:: ::Laurakko::{ user-id=7253731 }, ::{ flag=FI }:: ::Riverism::{ user-id=4980738 },  ::{ flag=FI }:: ::terho::{ user-id=6090105 } |
+| `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ::{ flag=CA }:: ::Aurele::{ user-id=654108 }, ::{ flag=FR }:: ::Corne2Plum3::{ user-id=15646039 }, ::{ flag=FR }:: ::Ganondorf::{ user-id=10660738 }, ::{ flag=FR }:: ::Imakuri::{ user-id=6100837 }, ::{ flag=FR }:: ::Nozhomi::{ user-id=2716981 }, ::{ flag=FR }:: ::Pachiru::{ user-id=2850983 }, ::{ flag=FR }:: ::Shiro::{ user-id=113005 } |
+| `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: ::- Felix::{ user-id=8503985 }, ::{ flag=DE }:: ::Hopes::{ user-id=4907504 }, ::{ flag=DE }:: ::Lyawi::{ user-id=5851253 }, ::{ flag=DE }:: ::OnosakiHito::{ user-id=290128 }, ::{ flag=DE }:: ::RockRoller::{ user-id=8388854 }, ::{ flag=AT }:: ::Stefan::{ user-id=626907 } |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
 | `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) |  |
-| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991), ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) |
-| `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955), ::{ flag=IT }:: [VoidGod](https://osu.ppy.sh/users/4724656) |
-| `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) |
-| `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) |
-| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) |
-| `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) |
-| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=BR }:: [Jaguar](https://osu.ppy.sh/users/3660954), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
+| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Shurelia::{ user-id=3807986 }, ::{ flag=ID }:: ::Sies::{ user-id=6491991 }, ::{ flag=ID }:: ::wowcake::{ user-id=16121851 } |
+| `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ::{ flag=IT }:: ::- Marco -::{ user-id=1273955 }, ::{ flag=IT }:: ::VoidGod::{ user-id=4724656 } |
+| `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: ::Civil oath::{ user-id=3216107 }, ::{ flag=HK }:: ::kanpakyin::{ user-id=394326 }, ::{ flag=KR }:: ::Petit::{ user-id=4637369 }, ::{ flag=JP }:: ::S o h::{ user-id=2234772 } |
+| `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: ::Civil oath::{ user-id=3216107 }, ::{ flag=KR }:: ::Petit::{ user-id=4637369 } |
+| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: ::bibitaru::{ user-id=4482419 }, ::{ flag=MY }:: ::QHideaki13::{ user-id=733998 } |
+| `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: ::Galkan::{ user-id=169570 }, ::{ flag=PL }:: ::Venix::{ user-id=5999631 }, ::{ flag=PL }:: ::Yason::{ user-id=2574392 } |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: ::DizzyH::{ user-id=9896172 }, ::{ flag=BR }:: ::Jaguar::{ user-id=3660954 }, ::{ flag=BR }:: ::LeoFLT::{ user-id=3668779 } |
 | `#romanian` |  |  |
-| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
-| `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |
-| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=VE }:: [Leon Brigido](https://osu.ppy.sh/users/13570072), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392), ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) |
-| `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ::{ flag=DE }:: [Hopes](https://osu.ppy.sh/users/4907504) |
+| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: ::\[ryuu\]::{ user-id=5698467 }, ::{ flag=RU }:: ::Kobold84::{ user-id=3227533 }, ::{ flag=RU }:: ::Kudou Chitose::{ user-id=9936528 }, ::{ flag=CH }:: ::TicClick::{ user-id=672931 } |
+| `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: ::ChillierPear::{ user-id=9501251 }, ::{ flag=SE }:: ::Saten::{ user-id=444506 } |
+| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=BR }:: ::LeoFLT::{ user-id=3668779 }, ::{ flag=VE }:: ::Leon Brigido::{ user-id=13570072 }, ::{ flag=MX }:: ::Repflez::{ user-id=201392 }, ::{ flag=PE }:: ::Tiburon::{ user-id=18115022 } |
+| `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: ::Trigonoculus::{ user-id=7627013 } |
+| `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ::{ flag=DE }:: ::Hopes::{ user-id=4907504 } |
 | `#ukrainian` |  |  |
-| `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
+| `#vietnamese` |  | ::{ flag=VN }:: ::My Angel Chino::{ user-id=20547597 }, ::{ flag=ID }:: ::Sies::{ user-id=6491991 } |

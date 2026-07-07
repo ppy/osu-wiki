@@ -15,7 +15,7 @@ From the heart of land-locked America comes **Stars Hollow**, a 3-piece midwest 
 
 If you've ever wondered how mappers *actually make maps*, today's the day to find out. We're hosting a livestream on [the *osulive* Twitch channel](https://www.twitch.tv/osulive) where a few things are happening:
 
-1. **Mapping:** Experienced mapper [pishifat](https://osu.ppy.sh/users/3178418) creates a map for a **Stars Hollow** songs and explains his thought process along the way
+1. **Mapping:** Experienced mapper ::pishifat::{ user-id=3178418 } creates a map for a **Stars Hollow** songs and explains his thought process along the way
 2. **Map comparison:** An amateur mapper creates a map for the same song with occassional feedback and analysis from pishifat
 3. **Viewer feedback:** [Send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418) with your own **Stars Hollow** beatmap for instant feedback
 
@@ -31,7 +31,7 @@ But before that, explore everything **Stars Hollow** has to offer:
 
 ### Stars Hollow - It's Not That
 
-Click circles to your heart's content on [the map from the video above](https://osu.ppy.sh/beatmapsets/1714779) hosted by [im cute](https://osu.ppy.sh/users/10374819)!
+Click circles to your heart's content on [the map from the video above](https://osu.ppy.sh/beatmapsets/1714779) hosted by ::im cute::{ user-id=10374819 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/353/Happy%20Again%20(Deluxe)%2FStars%20Hollow%20-%20It's%20Not%20That.mp3">
@@ -41,7 +41,7 @@ Click circles to your heart's content on [the map from the video above](https://
 
 ### Stars Hollow - as you were before.
 
-Or bash some drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1509638) hosted by [Yorshka](https://osu.ppy.sh/users/15312155)!
+Or bash some drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1509638) hosted by ::Yorshka::{ user-id=15312155 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/353/Happy%20Again%20(Deluxe)%2FStars%20Hollow%20-%20as%20you%20were%20before..mp3">

@@ -12,7 +12,7 @@ outdated_since: 4a75f667505af5dc619a81b7326eac73d6483a3e
 
 如果您有興趣提問，請確實閱讀下方的規範。
 
-目前 osu! 社群會議的主持人為 [peppy](https://osu.ppy.sh/users/2)、[Ephemeral](https://osu.ppy.sh/users/102335)、和 [smoogipoo](https://osu.ppy.sh/users/1040328)。
+目前 osu! 社群會議的主持人為 ::peppy::{ user-id=2 }、[Ephemeral](https://osu.ppy.sh/users/102335)、和 ::smoogipoo::{ user-id=1040328 }。
 
 ## 參與其中
 

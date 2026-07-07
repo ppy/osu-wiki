@@ -57,7 +57,7 @@ COE 2024 foi realizado por vários membros da comunidade e organizações parcei
 
 | Posição | Membro(s) |
 | :-- | :-- |
-| Organizador | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) |
+| Organizador | ::{ flag=NL }:: ::cavoeboy::{ user-id=7361815 }, ::{ flag=DE }:: ::Meyer::{ user-id=5452367 } |
 | Parceiro Operacional | [osu!frlive](https://osufr.live/), [Wooting](https://next.wooting.io/), [WoozPC](https://woozpc.nl/), [Zed Up](https://www.zed-up.de/), [Yuki Aim](https://yuki.gg/) |
 
 ### Off-site activities

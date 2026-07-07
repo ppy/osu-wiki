@@ -29,13 +29,13 @@ Massive congratulations to the Philippines and Malaysia as well for putting up a
 
 The Grand Finals match between South Korea and Malaysia may fall into the records as one of the best exhibitions of VSRG skill ever. The ever-dominant South Korea comes into this match with a mission to regain the crown that they lost in 2023. Team Malaysia, on the other hand, hoping to end this Cinderella run of theirs the best way possible.
 
-The Malaysians immediately took the first point on LN3, [xi - Garyou Tensei](https://osu.ppy.sh/beatmapsets/2137702#mania/4498825), repeating the situation during their match in the Finals. ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497)'s performance in particular with 981k score outperformed the Koreans. The statement was clear, as Malaysia would be the only team to ever take points from South Korea in the tournament.
+The Malaysians immediately took the first point on LN3, [xi - Garyou Tensei](https://osu.ppy.sh/beatmapsets/2137702#mania/4498825), repeating the situation during their match in the Finals. ::{ flag=MY }:: ::cheewee10::{ user-id=4477497 }'s performance in particular with 981k score outperformed the Koreans. The statement was clear, as Malaysia would be the only team to ever take points from South Korea in the tournament.
 
-The Koreans proved too formidable, however, as they would ramp up their onslaught with ever greater intensity. By the fourth map with their pick on RC5, [sepiarecorders - \*\*\*\*\*\*](https://osu.ppy.sh/beatmapsets/2137690#mania/4498796) (that's the track name), they amassed a 157.8k score gap where ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) probably made a case for having the score of the tournament, achieving the only 99%-accuracy score on this chart.
+The Koreans proved too formidable, however, as they would ramp up their onslaught with ever greater intensity. By the fourth map with their pick on RC5, [sepiarecorders - \*\*\*\*\*\*](https://osu.ppy.sh/beatmapsets/2137690#mania/4498796) (that's the track name), they amassed a 157.8k score gap where ::{ flag=KR }:: ::yz1155::{ user-id=2071008 } probably made a case for having the score of the tournament, achieving the only 99%-accuracy score on this chart.
 
 Never to falter completely, the Malaysians grabbed their final point from South Korea right afterwards on LN1, [Tatsh - Reunion](https://osu.ppy.sh/beatmapsets/1785469#mania/3657073), again with heroics coming from cheewee10 with a 969k score. South Korea then managed outstanding performances for the remaining maps, and while there was a glimpse of hope for Malaysia on RC4, [SHIKI - Orfevre](https://osu.ppy.sh/beatmapsets/2137727#mania/4498898), the final scoreline was sealed with extraordinary finish for the Koreans, and yz1155 in particular, on HB1, [Juggernaut. vs Gram - Seraphim](https://osu.ppy.sh/beatmapsets/2137710#mania/4498842).
 
-The Koreans regained the championship of MWC7K after losing it to the Philippines last year, and have shown a level of dominance that has been expected of them since the dawn of osu!mania. Massive, massive props to Malaysia's dynamic duo as well, cheewee10 and ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987), for taking Malaysia to the silver placement for the second time ever and standing tall among the best!
+The Koreans regained the championship of MWC7K after losing it to the Philippines last year, and have shown a level of dominance that has been expected of them since the dawn of osu!mania. Massive, massive props to Malaysia's dynamic duo as well, cheewee10 and ::{ flag=MY }:: ::Neokje::{ user-id=7727987 }, for taking Malaysia to the silver placement for the second time ever and standing tall among the best!
 
 ### ::{ flag=MY }:: Malaysia vs. ::{ flag=PH }:: Philippines
 
@@ -45,7 +45,7 @@ The Koreans regained the championship of MWC7K after losing it to the Philippine
 
 Malaysia's last hurdle before their final showdown against South Korea was their match against the Philippines, a very strong team who has shown its fangs during the whole tournament. To say the stakes of this match were high would be an understatement.
 
-Malaysia started strong with their emphasis on LN picks throughout the match. Starting with [xi - Garyou Tensei](https://osu.ppy.sh/beatmapsets/2137702#mania/4498825) and [Juggernaut. vs Gram - Seraphim](https://osu.ppy.sh/beatmapsets/2137710#mania/4498842), despite ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497)'s impressive scores, the Philippines managed to go 0–2 in the first two maps giving them an edge.
+Malaysia started strong with their emphasis on LN picks throughout the match. Starting with [xi - Garyou Tensei](https://osu.ppy.sh/beatmapsets/2137702#mania/4498825) and [Juggernaut. vs Gram - Seraphim](https://osu.ppy.sh/beatmapsets/2137710#mania/4498842), despite ::{ flag=MY }:: ::cheewee10::{ user-id=4477497 }'s impressive scores, the Philippines managed to go 0–2 in the first two maps giving them an edge.
 
 Even with Malaysia's performance on [wotoha - O108ROCKET (feat. Neko Hacker)](https://osu.ppy.sh/beatmapsets/2137706#mania/4498837), they weren't able to keep up with the Philippines going all the way to 1–6. It was match point for the Philippines, but in a surprising turn of events, Malaysia's resilience kept them going! The Philippines weren't able to take that last point, and team Malaysia was able to tie 6–6 just in the nick of time.
 
@@ -153,7 +153,7 @@ Who would be better placed to educate us on the thoughts and attention put into 
 
 ::{#butanic}::
 
-[![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/butanic.png)](https://osu.ppy.sh/users/1433586)
+::!\1\1(/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/butanic.png)::{ user-id=1433586 }
 
 Even though it's their first time participating, **butanic** is a Japanese legend and veteran when it comes to anything VSRG-related. With such accolades to their name, they've shredded through every RC pick this year, and provided an anchor for the team when they needed it the most.
 
@@ -185,7 +185,7 @@ Even though it's their first time participating, **butanic** is a Japanese legen
 
 ::{#yz1155}::
 
-[![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/yz1155.png)](https://osu.ppy.sh/users/2071008)
+::!\1\1(/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/yz1155.png)::{ user-id=2071008 }
 
 Born and raised in osu!mania, **yz1155** has climbed through the ranks and is now standing shoulder to shoulder next to some of the greatest osu!mania players ever on the osu!mania 7K World Cup stage. They have outdone themselves this year by being a core player for the South Korean team, with emphasis on their amazing performance on technical charts.
 
@@ -207,11 +207,11 @@ Born and raised in osu!mania, **yz1155** has climbed through the ranks and is no
 
 *Do you have anything you want to let the readers know?*
 
-> [dressurf](https://osu.ppy.sh/users/758406), [cheewee](https://osu.ppy.sh/users/4477497) and [Kura](https://osu.ppy.sh/users/11420405) are not earthlings. It's a huge secret, so don't let anyone know.
+> ::dressurf::{ user-id=758406 }, [cheewee](https://osu.ppy.sh/users/4477497) and ::Kura::{ user-id=11420405 } are not earthlings. It's a huge secret, so don't let anyone know.
 
 ::{#-noname-}::
 
-[![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/noname.png)](https://osu.ppy.sh/users/10400730)
+::!\1\1(/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/noname.png)::{ user-id=10400730 }
 
 **-NoName-** has gone absolutely bonkers this year, not only answering the call of being a mappool selector, but also going above and beyond by contributing to **12** of the picks throughout this year's tournament. Some say they placed 50,000 notes over the course of this year's tournament alone, but we'll leave actually counting them to someone else.
 
@@ -219,15 +219,15 @@ Born and raised in osu!mania, **yz1155** has climbed through the ranks and is no
 
 *What were your initial thoughts about stepping up as the head pooler for this World Cup? What made you go for it?*
 
-> Did you know that originally, this was going to be a Round of 16 tournament? That was my original plan because I assumed that we would follow last year's format, but then [-mint-](https://osu.ppy.sh/users/8976576) (4K MWC's head pooler) told me that it should be a Round of 24 since Qualifier results from 2023 showed that seeds 19–24 were somewhat competitive. That was the "Oh shoot, I'm actually in charge of this now" moment for me.
+> Did you know that originally, this was going to be a Round of 16 tournament? That was my original plan because I assumed that we would follow last year's format, but then ::-mint-::{ user-id=8976576 } (4K MWC's head pooler) told me that it should be a Round of 24 since Qualifier results from 2023 showed that seeds 19–24 were somewhat competitive. That was the "Oh shoot, I'm actually in charge of this now" moment for me.
 
 *What were your favourite charts in the pool, if there are any? Are there any favourites among the ones you worked on?*
 
-> The most obvious one is [Evening](https://osu.ppy.sh/users/2193881)'s chart of [rosso](https://osu.ppy.sh/beatmapsets/2134144), the tiebreaker for the Finals round. He spent four months working on it. It is hardly recognizable now compared to what it was a few months ago. The reception to it was equally crazy as well, and it also produced [one of the best endings to a match](https://www.twitch.tv/videos/2066497602?t=1h5m19s) I've ever seen.
+> The most obvious one is ::Evening::{ user-id=2193881 }'s chart of [rosso](https://osu.ppy.sh/beatmapsets/2134144), the tiebreaker for the Finals round. He spent four months working on it. It is hardly recognizable now compared to what it was a few months ago. The reception to it was equally crazy as well, and it also produced [one of the best endings to a match](https://www.twitch.tv/videos/2066497602?t=1h5m19s) I've ever seen.
 > 
-> I thought [zeno](https://osu.ppy.sh/users/6576888)'s [Hi Genjitsu Tohi](https://osu.ppy.sh/beatmapsets/1885701#mania/4490678) (Finals LN2) was neat as well. It is a lot closer to traditional *O2Jam* patterns than people have previously seen in the tournament. The people asked for shields after 2023, and that is what they got.
+> I thought ::zeno::{ user-id=6576888 }'s [Hi Genjitsu Tohi](https://osu.ppy.sh/beatmapsets/1885701#mania/4490678) (Finals LN2) was neat as well. It is a lot closer to traditional *O2Jam* patterns than people have previously seen in the tournament. The people asked for shields after 2023, and that is what they got.
 > 
-> [_Yiiiii](https://osu.ppy.sh/users/6066359)'s Round of 24 tiebreaker, [Majestic 12](https://osu.ppy.sh/beatmapsets/2119554#mania/4452392), was cool as well. I think it was very well-balanced, and the chart is just fun to play. It also introduced me to this banger of a song, so thanks for that! It was interesting seeing people's reactions to various players missing on the seemingly easy breaks in the match, though. A lot of people who don't play 7K osu!mania thought people were missing on easy parts for no reason. If only they knew…
+> ::\1Yiiiii::{ user-id=6066359 }'s Round of 24 tiebreaker, [Majestic 12](https://osu.ppy.sh/beatmapsets/2119554#mania/4452392), was cool as well. I think it was very well-balanced, and the chart is just fun to play. It also introduced me to this banger of a song, so thanks for that! It was interesting seeing people's reactions to various players missing on the seemingly easy breaks in the match, though. A lot of people who don't play 7K osu!mania thought people were missing on easy parts for no reason. If only they knew…
 
 *Any messages you want to impart to the team? Or to anyone who wants to become part of any tournament's map selection team?*
 
@@ -237,7 +237,7 @@ Born and raised in osu!mania, **yz1155** has climbed through the ranks and is no
 
 ::{#akiri}::
 
-[![](/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/akiri.png)](https://osu.ppy.sh/users/19587411)
+::!\1\1(/wiki/shared/news/2024-02-29-osu-mania-7k-world-cup-2024-concludes/akiri.png)::{ user-id=19587411 }
 
 **Akiri** is first and foremost one of our own, a community member and osu!mania player. They had their World Cup debut with this year's Semifinals tiebreaker, but their music journey goes [so far beyond that](https://osu.ppy.sh/beatmaps/artists/401).
 

@@ -33,8 +33,8 @@ This article covers results from the last contest, plus criteria for this contes
 
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | [Kou! - RE_generate:fractal](https://osu.ppy.sh/beatmapsets/2448091) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (3 total) |
-| Runner-up | [LuroxS](https://osu.ppy.sh/users/22504149) | [LeaF - MARENOL](https://osu.ppy.sh/beatmapsets/2448090) | - | +1 (1 total) |
+| Winner | ::\_HeLLFly\_::{ user-id=14225226 } | [Kou! - RE_generate:fractal](https://osu.ppy.sh/beatmapsets/2448091) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (3 total) |
+| Runner-up | ::LuroxS::{ user-id=22504149 } | [LeaF - MARENOL](https://osu.ppy.sh/beatmapsets/2448090) | - | +1 (1 total) |
 
 #### Top 10
 
@@ -42,7 +42,7 @@ This article covers results from the last contest, plus criteria for this contes
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/iQnp29rbNeg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Give some appreciation to this contest's judges: [arcpotato](https://osu.ppy.sh/users/12842392), [Yasuho](https://osu.ppy.sh/users/8458835), [_gt](https://osu.ppy.sh/users/8301957), and [ulko](https://osu.ppy.sh/users/1263669)!
+Give some appreciation to this contest's judges: ::arcpotato::{ user-id=12842392 }, [Yasuho](https://osu.ppy.sh/users/8458835), ::\1gt::{ user-id=8301957 }, and [ulko](https://osu.ppy.sh/users/1263669)!
 
 ### osu!catch results
 
@@ -52,8 +52,8 @@ Give some appreciation to this contest's judges: [arcpotato](https://osu.ppy.sh/
 
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [NIWASHI - Playing with Ruby](https://osu.ppy.sh/beatmapsets/2448165) | - | +2 (11 total) |
-| Runner-up | [Spectator](https://osu.ppy.sh/users/702598) | [rae - UNABLE](https://osu.ppy.sh/beatmapsets/2448206) | - | +1 (1 total) |
+| Winner | ::Unlucky\1w::{ user-id=4820793 } | [NIWASHI - Playing with Ruby](https://osu.ppy.sh/beatmapsets/2448165) | - | +2 (11 total) |
+| Runner-up | ::Spectator::{ user-id=702598 } | [rae - UNABLE](https://osu.ppy.sh/beatmapsets/2448206) | - | +1 (1 total) |
 
 A certain someone is curious what happens when you reach double the [contest point](/wiki/Contests/Contest_points) threshold for achieving the *Elite Mapper* title. We might have the answer fairly soon...
 
@@ -63,7 +63,7 @@ A certain someone is curious what happens when you reach double the [contest poi
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/-WX4GGsagA0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to [Chatie](https://osu.ppy.sh/users/6524765), [Sadu](https://osu.ppy.sh/users/16301262), [SadEgg](https://osu.ppy.sh/users/10278243), and [Zileni](https://osu.ppy.sh/users/23525574) for judging these maps and making this contest possible!
+Special thanks to ::Chatie::{ user-id=6524765 }, [Sadu](https://osu.ppy.sh/users/16301262), ::SadEgg::{ user-id=10278243 }, and [Zileni](https://osu.ppy.sh/users/23525574) for judging these maps and making this contest possible!
 
 ## Game modes
 

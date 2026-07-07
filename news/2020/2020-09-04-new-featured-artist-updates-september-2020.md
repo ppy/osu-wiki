@@ -35,7 +35,7 @@ New tracks from **Redneck Vikings From Hell**:
 - **Æther Realm - TMHC**
 - **Æther Realm - Craft and the Creator**
 
-osu!'s metal mapping scene has been requesting Æther Realm's newest album *[Redneck Vikings From Hell](https://aether-realm.bandcamp.com/album/redneck-vikings-from-hell)* since the moment it was released, and we're here to deliver! Listen through these masterpieces and pick the one you'd most love to map! [SILENCE PLAYER](https://osu.ppy.sh/users/6381153) has already gotten a head start with his map of [One Hollow Word](https://osu.ppy.sh/beatmapsets/1160797#osu/2421848).
+osu!'s metal mapping scene has been requesting Æther Realm's newest album *[Redneck Vikings From Hell](https://aether-realm.bandcamp.com/album/redneck-vikings-from-hell)* since the moment it was released, and we're here to deliver! Listen through these masterpieces and pick the one you'd most love to map! ::SILENCE PLAYER::{ user-id=6381153 } has already gotten a head start with his map of [One Hollow Word](https://osu.ppy.sh/beatmapsets/1160797#osu/2421848).
 
 ## [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51)
 
@@ -57,7 +57,7 @@ New tracks:
 
 We've caught hold of **11** hits by Akira Complex, including both new and old tracks! Featuring collaborations from popular artists you've surely heard of, this batch of songs will definitely satisfy mappers invested in a high energy rhythm-gamey sound.
 
-Also, [Odyssey (Au5 Remix)](https://osu.ppy.sh/beatmapsets/341007#osu/754143) has already been mapped by [ProfessionalBox](https://osu.ppy.sh/users/3250792)! Give it a play, it's practically a classic at this point.
+Also, [Odyssey (Au5 Remix)](https://osu.ppy.sh/beatmapsets/341007#osu/754143) has already been mapped by ::ProfessionalBox::{ user-id=3250792 }! Give it a play, it's practically a classic at this point.
 
 ## [IAHN](https://osu.ppy.sh/beatmaps/artists/3)
 

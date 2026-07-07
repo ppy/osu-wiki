@@ -15,7 +15,7 @@
 | **Красный** | [Модератор](/wiki/People/Global_Moderation_Team) или член [команды оценки номинаций](/wiki/People/Nomination_Assessment_Team) |
 | **Зелёный** | Автор сообщения с вашим ником или словом, которое вы добавили в список [упоминаний (хайлайтов)](Highlight). Копия такого сообщения появится во вкладке `#highlight`. |
 | **Синий** | Собеседник в личной переписке |
-| **Голубой** | [peppy](https://osu.ppy.sh/users/2), создатель osu! |
+| **Голубой** | ::peppy::{ user-id=2 }, создатель osu! |
 | **Розовый** | [BanchoBot](/wiki/BanchoBot) |
 
 - Кликните на `Show Ticker` для отображения новых сообщений в нижней части экрана, когда окно чата скрыто.
@@ -77,7 +77,7 @@
 | `/addfriend [пользователь]` | Добавить `[пользователь]` в список друзей. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [пользователь]` | Удалить `[пользователь]` из списка друзей. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [сообщение]` | Настроить сообщение для автоответа другим пользователям. Оставьте `[сообщение]` пустым, чтобы выключить автоответчик. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~? BanchoBot: I am John Smith. |
-| `/bb` | Отправить сообщение лично BanchoBot, например, `!stats [пользователь]` | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+| `/bb` | Отправить сообщение лично BanchoBot, например, `!stats [пользователь]` | `/bb !stats Uan` | \[15/11/12\] Stats for ::Uan::{ user-id=147623 }: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [пользователь]` или `/msg [пользователь]` или `/query [пользователь]` | Открыть вкладку чата с пользователем. | `/chat Amigo` | (Открылась вкладка чата с Amigo) |
 | `/clear` | Очистить историю чата. | `/clear` | (Стирает весь текст в открытой вкладке) |
 | `/ignore [пользователь][@chp]` | Скрывать все сообщения пользователя до перезапуска игры. Дописав после ника символ `@` и буквы `c`, `h` или `p`, вы можете скрыть сообщения в чате, [упоминаниях](Highlight) или личной переписке соответственно. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Теперь все сообщения \[c\], все упоминания \[h\] и личные сообщения \[p\] от Amigo будут скрыты. |

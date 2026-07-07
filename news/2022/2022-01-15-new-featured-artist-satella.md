@@ -13,7 +13,7 @@ series: featured_artists
 
 We've snagged **12** tracks covering a healthy mix of both of those musical worlds, all available from [**satella**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/231)!
 
-A few of **satella**'s tracks also include vocal performances by [Aitsuki Nakuru](https://osu.ppy.sh/beatmaps/artists/127) and [Sennzai](https://osu.ppy.sh/beatmaps/artists/110), including the map that introduced **satella** to osu!: [Irith](https://osu.ppy.sh/beatmapsets/1352944) mapped by [Sakura Airi](https://osu.ppy.sh/users/8682057). Experience the beatmap and its complementary storyboard through the video below, then check out a few more song previews:
+A few of **satella**'s tracks also include vocal performances by [Aitsuki Nakuru](https://osu.ppy.sh/beatmaps/artists/127) and [Sennzai](https://osu.ppy.sh/beatmaps/artists/110), including the map that introduced **satella** to osu!: [Irith](https://osu.ppy.sh/beatmapsets/1352944) mapped by ::Sakura Airi::{ user-id=8682057 }. Experience the beatmap and its complementary storyboard through the video below, then check out a few more song previews:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ A few of **satella**'s tracks also include vocal performances by [Aitsuki Nakuru
 
 ### satella feat. Aitsuki Nakuru - Irith
 
-Play through [the map from the video](https://osu.ppy.sh/beatmapsets/1352944) mapped by [Sakura Airi](https://osu.ppy.sh/users/8682057)!
+Play through [the map from the video](https://osu.ppy.sh/beatmapsets/1352944) mapped by ::Sakura Airi::{ user-id=8682057 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/231/Irith/satella%20feat.%20Aitsuki%20Nakuru%20-%20Irith.mp3" type="audio/mpeg">

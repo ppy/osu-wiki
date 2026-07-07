@@ -17,7 +17,7 @@ Don't just take our word for it though, give his stuff a quick listen below:
 
 ### Aoba
 
-Check out [this brand new osu! showcase map](https://osu.ppy.sh/beatmapsets/1131726) by [Niva](https://osu.ppy.sh/users/197805) from the Mappers' Guild!
+Check out [this brand new osu! showcase map](https://osu.ppy.sh/beatmapsets/1131726) by ::Niva::{ user-id=197805 } from the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/95/previews/2521.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out [this brand new osu! showcase map](https://osu.ppy.sh/beatmapsets/1131
 
 ### Regret
 
-Check out [this brand new osu!taiko showcase map](https://osu.ppy.sh/beatmapsets/1184228) by [Nepuri](https://osu.ppy.sh/users/6637817) from the Mappers' Guild!
+Check out [this brand new osu!taiko showcase map](https://osu.ppy.sh/beatmapsets/1184228) by ::Nepuri::{ user-id=6637817 } from the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/95/previews/2536.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out [this brand new osu!taiko showcase map](https://osu.ppy.sh/beatmapsets
 
 ### Infection
 
-Check out [this new osu! showcase map](https://osu.ppy.sh/beatmapsets/1225001) by [Niva](https://osu.ppy.sh/users/197805) from the Mappers' Guild!
+Check out [this new osu! showcase map](https://osu.ppy.sh/beatmapsets/1225001) by ::Niva::{ user-id=197805 } from the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/95/previews/2528.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Check out [this new osu! showcase map](https://osu.ppy.sh/beatmapsets/1225001) b
 
 ### Lantinid
 
-Check out [this classic osu!mania set](https://osu.ppy.sh/beatmapsets/472269) from [Wonki](https://osu.ppy.sh/users/7898495)!
+Check out [this classic osu!mania set](https://osu.ppy.sh/beatmapsets/472269) from ::Wonki::{ user-id=7898495 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/95/previews/2530.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Check out [this classic osu!mania set](https://osu.ppy.sh/beatmapsets/472269) fr
 
 ### Final Resonance
 
-Check out [this recent osu!mania set](https://osu.ppy.sh/beatmapsets/909666) from [\[ A v a l o n \]](https://osu.ppy.sh/users/4632359)!
+Check out [this recent osu!mania set](https://osu.ppy.sh/beatmapsets/909666) from ::\[ A v a l o n \]::{ user-id=4632359 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/95/previews/2525.mp3" type="audio/mpeg">
@@ -65,7 +65,7 @@ Check out [this recent osu!mania set](https://osu.ppy.sh/beatmapsets/909666) fro
 
 You know the drill by now — all of the above plus a whole bunch more are available right now from [**ARForest**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/95) pre-timed and just waiting for you to fill in the gaps with your own creative genius.
 
-Two weeks in a row, the Hintern claims victory again, with this week's hint less of an actual hint and more like a homage. "The heart echoes" refers to a flair quip in the description of [\[ A v a l o n \]](https://osu.ppy.sh/users/4632359)'s map for [Final Resonance](https://osu.ppy.sh/beatmapsets/909666) which has clocked over 200k plays since it was ranked in 2019. Keep tabs on your osu! lore, people!
+Two weeks in a row, the Hintern claims victory again, with this week's hint less of an actual hint and more like a homage. "The heart echoes" refers to a flair quip in the description of ::\[ A v a l o n \]::{ user-id=4632359 }'s map for [Final Resonance](https://osu.ppy.sh/beatmapsets/909666) which has clocked over 200k plays since it was ranked in 2019. Keep tabs on your osu! lore, people!
 
 That's all for this week, but we'll be back again at the same time next week with another extraordinarily talented artist for you. Stay on top of all things osu! by following the [@osugame Twitter](https://twitter.com/osugame), and until then, enjoy your circle clicking!
 

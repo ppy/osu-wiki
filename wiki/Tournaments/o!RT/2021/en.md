@@ -8,7 +8,7 @@ tags:
 
 ![o!RST 2021 logo](img/logo.png)
 
-The **osu! Romania Summer Tournament 2021** (***o!RST 2021***) was a 1v1 double elimination osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), and ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229). It was the third instalment of the osu! Romania Tournament.
+The **osu! Romania Summer Tournament 2021** (***o!RST 2021***) was a 1v1 double elimination osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: ::Nice Aesthetics::{ user-id=7782553 }, ::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 }, and ::{ flag=RO }:: ::Ahrinity::{ user-id=11587229 }. It was the third instalment of the osu! Romania Tournament.
 
 ## Tournament schedule
 
@@ -40,12 +40,12 @@ The osu! Romania Summer Tournament 2021 was run by various community members:
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553),::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229) |
-| Mappool selector | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890), ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229), ::{ flag=PL }:: [Najmsb](https://osu.ppy.sh/users/13742685) |
-| Streamer | ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626) |
-| Commentator | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229), ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [My Angel vuru](https://osu.ppy.sh/users/8244518), ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) |
-| Designer | ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626) |
-| Referee | ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [LuchiBuchi](https://osu.ppy.sh/users/10897656), ::{ flag=RO }:: [Piggy Bank](https://osu.ppy.sh/users/8190224/), ::{ flag=RO }:: [STRYKEX](https://osu.ppy.sh/users/15799234), ::{ flag=RO }:: [basil simp](https://osu.ppy.sh/users/18515010), ::{ flag=RO }:: [Canonbomb18](https://osu.ppy.sh/users/9480076), ::{ flag=FR }:: [Taevas](https://osu.ppy.sh/users/7276846), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229) |
+| Host | ::{ flag=RO }:: ::Nice Aesthetics::{ user-id=7782553 },::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 }, ::{ flag=RO }:: ::Ahrinity::{ user-id=11587229 } |
+| Mappool selector | ::{ flag=RO }:: ::badeu::{ user-id=1473890 }, ::{ flag=GR }:: ::JackPaX::{ user-id=11226645 }, ::{ flag=RO }:: ::Ahrinity::{ user-id=11587229 }, ::{ flag=PL }:: ::Najmsb::{ user-id=13742685 } |
+| Streamer | ::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 } |
+| Commentator | ::{ flag=RO }:: ::Teetoos::{ user-id=10065874 }, ::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 }, ::{ flag=RO }:: ::Nice Aesthetics::{ user-id=7782553 }, ::{ flag=RO }:: ::Ahrinity::{ user-id=11587229 }, ::{ flag=RO }:: ::eternum::{ user-id=4581069 }, ::{ flag=RO }:: ::My Angel vuru::{ user-id=8244518 }, ::{ flag=RO }:: ::L9 ELOVATOR::{ user-id=9578404 } |
+| Designer | ::{ flag=RO }:: ::Nice Aesthetics::{ user-id=7782553 }, ::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 } |
+| Referee | ::{ flag=RO }:: ::Nice Aesthetics::{ user-id=7782553 }, ::{ flag=RO }:: ::LuchiBuchi::{ user-id=10897656 }, ::{ flag=RO }:: ::Piggy Bank::{ user-id=8190224 }, ::{ flag=RO }:: ::STRYKEX::{ user-id=15799234 }, ::{ flag=RO }:: ::basil simp::{ user-id=18515010 }, ::{ flag=RO }:: ::Canonbomb18::{ user-id=9480076 }, ::{ flag=FR }:: ::Taevas::{ user-id=7276846 }, ::{ flag=RO }:: ::Ahrinity::{ user-id=11587229 } |
 
 ## Links
 
@@ -58,10 +58,10 @@ The osu! Romania Summer Tournament 2021 was run by various community members:
 
 | Seed | Players |
 | :-- | :-- |
-| Top | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138), ::{ flag=RO }:: [Razei](https://osu.ppy.sh/users/10778261), ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351), ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404), ::{ flag=RO }:: [cristi2708](https://osu.ppy.sh/users/7552300), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=RO }:: [Rekkke](https://osu.ppy.sh/users/11133864) |
-| High | ::{ flag=RO }:: [Gadzzaa](https://osu.ppy.sh/users/14367771), ::{ flag=RO }:: [RedGameBoy](https://osu.ppy.sh/users/8942234), ::{ flag=RO }:: [entsetzen](https://osu.ppy.sh/users/10261883), ::{ flag=RO }:: [WhySoInsecure](https://osu.ppy.sh/users/10198597), ::{ flag=RO }:: [Paato](https://osu.ppy.sh/users/9390417), ::{ flag=RO }:: [A-XLE](https://osu.ppy.sh/users/12487373), ::{ flag=RO }:: [Lernaeus](https://osu.ppy.sh/users/9703390), ::{ flag=RO }:: [GMTrooll](https://osu.ppy.sh/users/7593010) |
-| Low | ::{ flag=RO }:: [Dank Uta](https://osu.ppy.sh/users/6566362), ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [SiKKr](https://osu.ppy.sh/users/10959013), ::{ flag=RO }:: [megalapin](https://osu.ppy.sh/users/21023217), ::{ flag=RO }:: [RareshRSN](https://osu.ppy.sh/users/9542018), ::{ flag=RO }:: [hroni](https://osu.ppy.sh/users/14414337), ::{ flag=RO }:: [sarpili](https://osu.ppy.sh/users/14381318), ::{ flag=RO }:: [Australia](https://osu.ppy.sh/users/16196079) |
-| Bottom | ::{ flag=RO }:: [MariusBDR](https://osu.ppy.sh/users/16334893), ::{ flag=RO }:: [Boticeli](https://osu.ppy.sh/users/13494470), ::{ flag=RO }:: [Dano Osu](https://osu.ppy.sh/users/11013717), ::{ flag=RO }:: [L9 MATEIUT](https://osu.ppy.sh/users/14774102), ::{ flag=RO }:: [rzvthePsycho](https://osu.ppy.sh/users/10310918), ::{ flag=RO }:: [VenTryXX](https://osu.ppy.sh/users/10808572) |
+| Top | ::{ flag=RO }:: ::eternum::{ user-id=4581069 }, ::{ flag=RO }:: ::\_AfterWind::{ user-id=2086138 }, ::{ flag=RO }:: ::Razei::{ user-id=10778261 }, ::{ flag=RO }:: ::Lucrise::{ user-id=9719351 }, ::{ flag=RO }:: ::L9 ELOVATOR::{ user-id=9578404 }, ::{ flag=RO }:: ::cristi2708::{ user-id=7552300 }, ::{ flag=RO }:: ::nanoya::{ user-id=12366071 }, ::{ flag=RO }:: ::Rekkke::{ user-id=11133864 } |
+| High | ::{ flag=RO }:: ::Gadzzaa::{ user-id=14367771 }, ::{ flag=RO }:: ::RedGameBoy::{ user-id=8942234 }, ::{ flag=RO }:: ::entsetzen::{ user-id=10261883 }, ::{ flag=RO }:: ::WhySoInsecure::{ user-id=10198597 }, ::{ flag=RO }:: ::Paato::{ user-id=9390417 }, ::{ flag=RO }:: ::A-XLE::{ user-id=12487373 }, ::{ flag=RO }:: ::Lernaeus::{ user-id=9703390 }, ::{ flag=RO }:: ::GMTrooll::{ user-id=7593010 } |
+| Low | ::{ flag=RO }:: ::Dank Uta::{ user-id=6566362 }, ::{ flag=RO }:: ::RatonGolzache::{ user-id=11649551 }, ::{ flag=RO }:: ::SiKKr::{ user-id=10959013 }, ::{ flag=RO }:: ::megalapin::{ user-id=21023217 }, ::{ flag=RO }:: ::RareshRSN::{ user-id=9542018 }, ::{ flag=RO }:: ::hroni::{ user-id=14414337 }, ::{ flag=RO }:: ::sarpili::{ user-id=14381318 }, ::{ flag=RO }:: ::Australia::{ user-id=16196079 } |
+| Bottom | ::{ flag=RO }:: ::MariusBDR::{ user-id=16334893 }, ::{ flag=RO }:: ::Boticeli::{ user-id=13494470 }, ::{ flag=RO }:: ::Dano Osu::{ user-id=11013717 }, ::{ flag=RO }:: ::L9 MATEIUT::{ user-id=14774102 }, ::{ flag=RO }:: ::rzvthePsycho::{ user-id=10310918 }, ::{ flag=RO }:: ::VenTryXX::{ user-id=10808572 } |
 
 ## Podium
 
@@ -69,9 +69,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RO }:: [_AfterWind](https://osu.ppy.sh/users/2086138) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=RO }:: ::eternum::{ user-id=4581069 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: ::L9 ELOVATOR::{ user-id=9578404 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RO }:: ::\1AfterWind::{ user-id=2086138 } |
 
 ![o!RST 2021 podium](img/podium.png)
 

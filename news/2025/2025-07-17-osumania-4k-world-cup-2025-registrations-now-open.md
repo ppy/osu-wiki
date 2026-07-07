@@ -11,7 +11,7 @@ Keysmashers, rejoice! The wait is over as the osu!mania 4K World Cup 2025 return
 
 ## Format changes
 
-For this year's 4K MWC, we've decided to retire the dedicated Slider Velocity (SV) slot. This means you won't see any dedicated SV slots or SV patterns in other categories. It was a tough call to make, as we are aware of the large SV playerbase that looked forward to the map every week. This change is a result of many factors, which you can read in detail in the [MWC 4K 2025 Changes document](https://docs.google.com/document/d/1ALxnlQR4UKBCFw_m1YjD0j5yS33vTqnq-YcIp6_N38M) written by our head mappooler and advisor [-mint-](https://osu.ppy.sh/users/8976576).
+For this year's 4K MWC, we've decided to retire the dedicated Slider Velocity (SV) slot. This means you won't see any dedicated SV slots or SV patterns in other categories. It was a tough call to make, as we are aware of the large SV playerbase that looked forward to the map every week. This change is a result of many factors, which you can read in detail in the [MWC 4K 2025 Changes document](https://docs.google.com/document/d/1ALxnlQR4UKBCFw_m1YjD0j5yS33vTqnq-YcIp6_N38M) written by our head mappooler and advisor ::-mint-::{ user-id=8976576 }.
 
 With SV gone, mappool sizes and win conditions needed to be adjusted. The new arrangement means that the Round of 16 and Semifinals pools are a bit smaller, and the number of wins needed for those rounds has been reduced accordingly. Here's a table outlining the current bracket format:
 

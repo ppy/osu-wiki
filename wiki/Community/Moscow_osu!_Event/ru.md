@@ -12,7 +12,7 @@
 
 :::
 
-**Moscow osu! Event** (**MOE**) — ежегодный фестиваль osu!, проводимый в России. Организаторами выступают ::{ flag=RU }:: [Stanwald](https://osu.ppy.sh/users/1628227), ::{ flag=RU }:: [\[kr\]](https://osu.ppy.sh/users/9472862), ::{ flag=RU }:: [ThankYou](https://osu.ppy.sh/users/4571241), ::{ flag=RU }:: [Rainbowtaves](https://osu.ppy.sh/users/10079847) и ::{ flag=RU }:: [InditaiX](https://osu.ppy.sh/users/8303943). На мероприятии проводятся турниры по всем [игровым режимам](/wiki/Game_mode) для участников из СНГ-сообщества. Гостям доступны игровые компьютеры и зона BYOC ("Bring Your Own Computer"). Также работают тематические и сувенирные стенды.
+**Moscow osu! Event** (**MOE**) — ежегодный фестиваль osu!, проводимый в России. Организаторами выступают ::{ flag=RU }:: ::Stanwald::{ user-id=1628227 }, ::{ flag=RU }:: ::\[kr\]::{ user-id=9472862 }, ::{ flag=RU }:: ::ThankYou::{ user-id=4571241 }, ::{ flag=RU }:: ::Rainbowtaves::{ user-id=10079847 } и ::{ flag=RU }:: ::InditaiX::{ user-id=8303943 }. На мероприятии проводятся турниры по всем [игровым режимам](/wiki/Game_mode) для участников из СНГ-сообщества. Гостям доступны игровые компьютеры и зона BYOC ("Bring Your Own Computer"). Также работают тематические и сувенирные стенды.
 
 ## Итерации
 

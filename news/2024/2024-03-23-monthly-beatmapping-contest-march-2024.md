@@ -30,9 +30,9 @@ Navigate to whatever interests you:
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| 1st | [ZTH](https://osu.ppy.sh/users/5258461) | [Billain & Kursa - NEWGROOVEORDER](https://osu.ppy.sh/beatmapsets/2152531) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| 2nd | [_gt](https://osu.ppy.sh/users/8301957) | [KOAN Sound & Asa - Fuego](https://osu.ppy.sh/beatmapsets/2152936) | - | +1 (5 total) |
-| 3rd | [Nifty](https://osu.ppy.sh/users/4956097) | [False Noise - Sky Shards](https://osu.ppy.sh/beatmapsets/2152477) | - | - |
+| 1st | ::ZTH::{ user-id=5258461 } | [Billain & Kursa - NEWGROOVEORDER](https://osu.ppy.sh/beatmapsets/2152531) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
+| 2nd | ::\1gt::{ user-id=8301957 } | [KOAN Sound & Asa - Fuego](https://osu.ppy.sh/beatmapsets/2152936) | - | +1 (5 total) |
+| 3rd | ::Nifty::{ user-id=4956097 } | [False Noise - Sky Shards](https://osu.ppy.sh/beatmapsets/2152477) | - | - |
 
 #### Top 10
 
@@ -40,7 +40,7 @@ Navigate to whatever interests you:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/_f_F7jG269o" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to [Yasuho](https://osu.ppy.sh/users/8458835), [arcpotato](https://osu.ppy.sh/users/12842392), [meiqth](https://osu.ppy.sh/users/12565402), and [Raphalge](https://osu.ppy.sh/users/3918650) for judging this contest!
+Special thanks to ::Yasuho::{ user-id=8458835 }, [arcpotato](https://osu.ppy.sh/users/12842392), ::meiqth::{ user-id=12565402 }, and [Raphalge](https://osu.ppy.sh/users/3918650) for judging this contest!
 
 ### osu!catch results
 
@@ -50,9 +50,9 @@ Special thanks to [Yasuho](https://osu.ppy.sh/users/8458835), [arcpotato](https:
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| 1st | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [MEMODEMO - Love Language](https://osu.ppy.sh/beatmapsets/2152480) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (5 total) |
-| 2nd | [Dika312](https://osu.ppy.sh/users/741613) | [Snails & Pegboard Nerds - Deep In The Night](https://osu.ppy.sh/beatmapsets/2152539) | - | +1 (1 total) |
-| 3rd | [Malai](https://osu.ppy.sh/users/4863096) | [DOT96 - MAKE IT FUNKY NOW](https://osu.ppy.sh/beatmapsets/2152487) | - | - |
+| 1st | ::Unlucky\1w::{ user-id=4820793 } | [MEMODEMO - Love Language](https://osu.ppy.sh/beatmapsets/2152480) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (5 total) |
+| 2nd | ::Dika312::{ user-id=741613 } | [Snails & Pegboard Nerds - Deep In The Night](https://osu.ppy.sh/beatmapsets/2152539) | - | +1 (1 total) |
+| 3rd | ::Malai::{ user-id=4863096 } | [DOT96 - MAKE IT FUNKY NOW](https://osu.ppy.sh/beatmapsets/2152487) | - | - |
 
 #### Top 10
 
@@ -60,7 +60,7 @@ Special thanks to [Yasuho](https://osu.ppy.sh/users/8458835), [arcpotato](https:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/YCL_kBJVKL8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Another special thanks to [wwwww](https://osu.ppy.sh/users/8434466), [Chatie](https://osu.ppy.sh/users/6524765), [GiGas](https://osu.ppy.sh/users/7300747), and [Dapulezatos](https://osu.ppy.sh/users/8140944) for judging this contest!
+Another special thanks to ::wwwww::{ user-id=8434466 }, [Chatie](https://osu.ppy.sh/users/6524765), ::GiGas::{ user-id=7300747 }, and [Dapulezatos](https://osu.ppy.sh/users/8140944) for judging this contest!
 
 ---
 

@@ -13,7 +13,7 @@ If you ever thought rhythm game music wasn't complicated enough, **Toromaru** is
 
 A dozen of these masterpieces can be found on [**Toromaru**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/279)!
 
-If you need some mapping inspiration, [this beatmap of Formless Canvas](https://osu.ppy.sh/beatmapsets/1727694) demonstrates exactly how **Toromaru**'s elaborate sound translates to circles and sliders. See exactly how a top player follows this dense mapping through this video featuring [BTMC](https://osu.ppy.sh/users/3171691), then check out everything else:
+If you need some mapping inspiration, [this beatmap of Formless Canvas](https://osu.ppy.sh/beatmapsets/1727694) demonstrates exactly how **Toromaru**'s elaborate sound translates to circles and sliders. See exactly how a top player follows this dense mapping through this video featuring ::BTMC::{ user-id=3171691 }, then check out everything else:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ If you need some mapping inspiration, [this beatmap of Formless Canvas](https://
 
 ### Formless Canvas
 
-Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1727694) hosted by [DeviousPanda](https://osu.ppy.sh/users/4966334) or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/1589862) hosted by [Nifty](https://osu.ppy.sh/users/4956097)!
+Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1727694) hosted by ::DeviousPanda::{ user-id=4966334 } or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/1589862) hosted by ::Nifty::{ user-id=4956097 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/279/Songs/Toromaru%20-%20Formless%20Canvas.mp3" type="audio/mpeg">
@@ -51,10 +51,10 @@ In other news, the first batch of osu!(lazer) [**Featured Artist playlists**](ht
 
 | Mode | Rank #1 | Rank #2 | Rank #3 | Profile badge |
 | :-- | :-- | :-- | :-- | :-- |
-| osu! | ::{ flag=US }:: [Trail Mix](https://osu.ppy.sh/users/3328742) | ::{ flag=SE }:: [Felrion](https://osu.ppy.sh/users/3673083) | ::{ flag=HU }:: [Lexion](https://osu.ppy.sh/users/5271371) | ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) |
-| osu!taiko | ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722) | ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650) | ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821) | ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) |
-| osu!catch | ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | ::{ flag=RU }:: [cosilgam](https://osu.ppy.sh/users/15960747) | ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!catch.png) |
-| osu!mania | ::{ flag=CA }:: [UmmmMrMoo](https://osu.ppy.sh/users/15314355) | ::{ flag=US }:: [[GS]Teo](https://osu.ppy.sh/users/7081478) | ::{ flag=ID }:: [AncuL](https://osu.ppy.sh/users/2449200) | ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png) |
+| osu! | ::{ flag=US }:: ::Trail Mix::{ user-id=3328742 } | ::{ flag=SE }:: ::Felrion::{ user-id=3673083 } | ::{ flag=HU }:: ::Lexion::{ user-id=5271371 } | ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) |
+| osu!taiko | ::{ flag=NL }:: ::Cookie\1Tree::{ user-id=502722 } | ::{ flag=SE }:: ::Raphalge::{ user-id=3918650 } | ::{ flag=US }:: ::cheese salad::{ user-id=6349821 } | ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) |
+| osu!catch | ::{ flag=RU }:: ::KitsunIvy::{ user-id=7055384 } | ::{ flag=RU }:: ::Nelly::{ user-id=4741164 } | ::{ flag=RU }:: ::cosilgam::{ user-id=15960747 } | ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!catch.png) |
+| osu!mania | ::{ flag=CA }:: ::UmmmMrMoo::{ user-id=15314355 } | ::{ flag=US }:: ::\1GS\1Teo::{ user-id=7081478 } | ::{ flag=ID }:: ::AncuL::{ user-id=2449200 } | ![Featured Artist profile badge](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png) |
 
 We've also noted how many of you absolutely *hated* the Hidden mod in these playlists, so we'll take a different approach to next month's playlists (which involves freemod!). Those will drop at the turn of the month, so stay tuned!
 

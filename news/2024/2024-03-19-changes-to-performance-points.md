@@ -21,7 +21,7 @@ In short, you will find yourself having more bonus pp unless you're one of the s
 
 Also, since both osu!(lazer) and osu!(stable) are now using the same performance point processor, scores set on osu!(lazer) will always be included in your pp value — even when playing on osu!(stable).
 
-Your rank graph will also no longer flip-flop when you switch between clients. This means if your graph [looked](https://osu.ppy.sh/users/30070868) [something](https://osu.ppy.sh/users/5773079) [like](https://twitter.com/stompymymood/status/1769833222450405756) [this](https://twitter.com/Vid_osu/status/1770132123141251427)...
+Your rank graph will also no longer flip-flop when you switch between clients. This means if your graph ::looked::{ user-id=30070868 } [something](https://osu.ppy.sh/users/5773079) [like](https://twitter.com/stompymymood/status/1769833222450405756) [this](https://twitter.com/Vid_osu/status/1770132123141251427)...
 
 ![](/wiki/shared/news/2024-03-19-changes-to-performance-points/performance-graph-flip-flop.png)
 

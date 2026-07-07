@@ -27,10 +27,10 @@ We never skimp on an opportunity to showcase a classic. Relive some memories thr
 
 Try your hand at any of these:
 
-- [The map from the video above](https://osu.ppy.sh/beatmapsets/268693) hosted by [Asphyxia](https://osu.ppy.sh/users/1715720)
-- [An osu!mania rendition](https://osu.ppy.sh/beatmapsets/569392) hosted by [TheToaphster](https://osu.ppy.sh/users/7616811)
-- [A spread of Insane and Expert difficulties](https://osu.ppy.sh/beatmapsets/313081) hosted by [tsubaki131](https://osu.ppy.sh/users/3749666)
-- [One more difficulty for osu!catch](https://osu.ppy.sh/beatmapsets/802243) hosted by [CLSW](https://osu.ppy.sh/users/531253)
+- [The map from the video above](https://osu.ppy.sh/beatmapsets/268693) hosted by ::Asphyxia::{ user-id=1715720 }
+- [An osu!mania rendition](https://osu.ppy.sh/beatmapsets/569392) hosted by ::TheToaphster::{ user-id=7616811 }
+- [A spread of Insane and Expert difficulties](https://osu.ppy.sh/beatmapsets/313081) hosted by ::tsubaki131::{ user-id=3749666 }
+- [One more difficulty for osu!catch](https://osu.ppy.sh/beatmapsets/802243) hosted by ::CLSW::{ user-id=531253 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/395/Songs/Hitori Tori - perthed again (yambabom remix).mp3">

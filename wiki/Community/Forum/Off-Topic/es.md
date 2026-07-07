@@ -16,7 +16,7 @@ Más tarde se crearían otros dos subforos: *Mafia* el 14 de septiembre de 2011,
 
 Dada la naturaleza absurda de OT, la mayoría de los hilos y discusiones que se llevan a cabo en él son de muy baja calidad. Los hilos rara vez se consideran grandiosos, pero cuando lo son, se dice que han alcanzado el valhalla.
 
-El término fue usado por primera vez por [Ephemeral](https://osu.ppy.sh/users/102335) en el hilo [ITT: We're Dirty](https://osu.ppy.sh/community/forums/topics/40298), y posteriormente unas cuantas veces más. Desde entonces, otras personas en el subforo han adoptado el término.
+El término fue usado por primera vez por ::Ephemeral::{ user-id=102335 } en el hilo [ITT: We're Dirty](https://osu.ppy.sh/community/forums/topics/40298), y posteriormente unas cuantas veces más. Desde entonces, otras personas en el subforo han adoptado el término.
 
 ### Old Avatar Week
 
@@ -26,19 +26,19 @@ El término fue usado por primera vez por [Ephemeral](https://osu.ppy.sh/users/1
 
 En los inicios de Off-Topic, a veces se creaban hilos dedicados a chicas de anime bailando. Si un hilo era malo, poner unas cuantas chicas de anime bailando lo mejoraba. Cuando la gente empezó a hacer hilos sobre dejar OT y en realidad no lo dejaban, la gente lo tomaba como una llamada de atención y ponían chicas de anime bailando para cambiar el tema del hilo. Publicar chicas de anime bailando en cualquier hilo de despedida o bienvenida acabó convirtiéndose en algo habitual, y así se solidificó como tradición.[^ot-dancing-girls]
 
-El 9 de junio de 2017, [Ephemeral](https://osu.ppy.sh/users/102335) impuso una versión ligeramente diferente de la tradición en las [reglas de Off-Topic](https://osu.ppy.sh/community/forums/topics/604424), pidiendo a la gente que publique un mínimo de 3 chicas de anime bailando en los hilos de cumpleaños. Esto llegó a las reglas oficiales de osu![^ot-rules-official] hasta el 11 de noviembre de 2019, cuando fue eliminado en una [limpieza](https://github.com/ppy/osu-wiki/pull/2655), pero sigue vigente en las reglas del subforo Off-Topic.
+El 9 de junio de 2017, ::Ephemeral::{ user-id=102335 } impuso una versión ligeramente diferente de la tradición en las [reglas de Off-Topic](https://osu.ppy.sh/community/forums/topics/604424), pidiendo a la gente que publique un mínimo de 3 chicas de anime bailando en los hilos de cumpleaños. Esto llegó a las reglas oficiales de osu![^ot-rules-official] hasta el 11 de noviembre de 2019, cuando fue eliminado en una [limpieza](https://github.com/ppy/osu-wiki/pull/2655), pero sigue vigente en las reglas del subforo Off-Topic.
 
 ### Exilio
 
-El **exilio** es un concepto de moderación no oficial introducido por [Ephemeral](https://osu.ppy.sh/users/102335) en el hilo [the grand edict](https://osu.ppy.sh/community/forums/topics/604424) como respuesta a la gente que repetidamente hacía spam en el subforo y creaba contenido molesto. El sistema de exilio se aplica eliminando los hilos y, a veces, las publicaciones de la persona exiliada. Sirve como indicador de que la persona está a punto de ser fuertemente sancionada por medios más oficiales de moderación.
+El **exilio** es un concepto de moderación no oficial introducido por ::Ephemeral::{ user-id=102335 } en el hilo [the grand edict](https://osu.ppy.sh/community/forums/topics/604424) como respuesta a la gente que repetidamente hacía spam en el subforo y creaba contenido molesto. El sistema de exilio se aplica eliminando los hilos y, a veces, las publicaciones de la persona exiliada. Sirve como indicador de que la persona está a punto de ser fuertemente sancionada por medios más oficiales de moderación.
 
 ### Denizen
 
-Dado que el subforo Off-Topic está compuesto en su mayoría por los mismos usuarios habituales que charlan entre ellos en los hilos, todo el mundo acaba conociéndose. A los que se quedan el tiempo suficiente para ser considerados usuarios habituales se les llama «**denizens**». Si bien este término fue usado por primera vez por [Ephemeral](https://osu.ppy.sh/users/102335) en [esta publicación](https://osu.ppy.sh/community/forums/posts/1607086), no fue adoptado por los usuarios habituales hasta su popularización en la [serie de hilos OT!News](https://osu.ppy.sh/community/forums/topics/577518).
+Dado que el subforo Off-Topic está compuesto en su mayoría por los mismos usuarios habituales que charlan entre ellos en los hilos, todo el mundo acaba conociéndose. A los que se quedan el tiempo suficiente para ser considerados usuarios habituales se les llama «**denizens**». Si bien este término fue usado por primera vez por ::Ephemeral::{ user-id=102335 } en [esta publicación](https://osu.ppy.sh/community/forums/posts/1607086), no fue adoptado por los usuarios habituales hasta su popularización en la [serie de hilos OT!News](https://osu.ppy.sh/community/forums/topics/577518).
 
 ### OT Lore
 
-**OT Lore** es un proyecto iniciado por [abraker](https://osu.ppy.sh/users/4635891) y continuado por otros denizens para crear una narrativa global a partir de los diversos hilos que la gente ha creado en OT. La culminación de este proyecto se recopiló en [OT!Chronicles](https://osu.ppy.sh/community/forums/posts/6230570), que dio lugar a un periodo de tiempo en OT compuesto por muchos hilos improvisados relacionados con los juegos de rol.
+**OT Lore** es un proyecto iniciado por ::abraker::{ user-id=4635891 } y continuado por otros denizens para crear una narrativa global a partir de los diversos hilos que la gente ha creado en OT. La culminación de este proyecto se recopiló en [OT!Chronicles](https://osu.ppy.sh/community/forums/posts/6230570), que dio lugar a un periodo de tiempo en OT compuesto por muchos hilos improvisados relacionados con los juegos de rol.
 
 ### Descarrilamiento del hilo
 

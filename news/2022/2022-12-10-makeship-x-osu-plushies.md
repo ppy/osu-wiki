@@ -33,7 +33,7 @@ Take a moment to look back on how far we've come, from clicking circles and maki
 
 [![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/the-og.jpg)](https://www.makeship.com/search?q=ppy)
 
-When our dashing developer [smoogipoo](https://osu.ppy.sh/users/1040328) isn't carefully considering code commits, he moonlights as a plushie salesman. Instead of punching time cards, our developers try to sell you things that just straight-up punch you instead.
+When our dashing developer ::smoogipoo::{ user-id=1040328 } isn't carefully considering code commits, he moonlights as a plushie salesman. Instead of punching time cards, our developers try to sell you things that just straight-up punch you instead.
 
 [![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/smoog.jpg)](https://www.makeship.com/search?q=ppy)
 

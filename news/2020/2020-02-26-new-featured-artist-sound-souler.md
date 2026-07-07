@@ -17,7 +17,7 @@ Here's a brief preview of what's available:
 
 ### Aqua Stars
 
-Check out [this set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1085144#osu/2269224) hosted by [Affirmation](https://osu.ppy.sh/users/6186628)!
+Check out [this set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1085144#osu/2269224) hosted by ::Affirmation::{ user-id=6186628 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/70/previews/1916.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out [this set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1085
 
 ### Absent Color
 
-Check out [this set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1093465#osu/2285424) hosted by [Sonnyc](https://osu.ppy.sh/users/11771)!
+Check out [this set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1093465#osu/2285424) hosted by ::Sonnyc::{ user-id=11771 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/70/previews/1914.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out [this set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1093
 
 ### Gloom After Death
 
-Check out [this set](https://osu.ppy.sh/beatmapsets/980331#osu/2051545) from [eiri-](https://osu.ppy.sh/users/3388410)!
+Check out [this set](https://osu.ppy.sh/beatmapsets/980331#osu/2051545) from ::eiri-::{ user-id=3388410 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/70/previews/1928.mp3" type="audio/mpeg">

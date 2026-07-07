@@ -23,7 +23,7 @@ Experience **Genkaku Aria**'s sound and story for yourself:
 
 ### Genkaku Aria - Souhaku Rebellion
 
-Check out [the map that introduced **Genkaku Aria** to osu!](https://osu.ppy.sh/beatmapsets/1072923) created by [Lasse](https://osu.ppy.sh/users/896613)!
+Check out [the map that introduced **Genkaku Aria** to osu!](https://osu.ppy.sh/beatmapsets/1072923) created by ::Lasse::{ user-id=896613 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/358/Songs%2FGenkaku%20Aria%20-%20Souhaku%20Rebellion.mp3">
@@ -31,7 +31,7 @@ Check out [the map that introduced **Genkaku Aria** to osu!](https://osu.ppy.sh/
 
 ### Genkaku Aria - Kuuchuu Teien Dystopia
 
-Or explore [this insanely difficult marathon](https://osu.ppy.sh/beatmapsets/1684028) (paired with an insanely long difficulty name) hosted by [Livermorium](https://osu.ppy.sh/users/16368505)!
+Or explore [this insanely difficult marathon](https://osu.ppy.sh/beatmapsets/1684028) (paired with an insanely long difficulty name) hosted by ::Livermorium::{ user-id=16368505 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/358/Songs/Genkaku%20Aria%20-%20Kuuchuu%20Teien%20Dystopia.mp3">
@@ -39,7 +39,7 @@ Or explore [this insanely difficult marathon](https://osu.ppy.sh/beatmapsets/168
 
 ### Genkaku Aria - Velvet Romancer
 
-And if that's too much for you, [this map](https://osu.ppy.sh/beatmapsets/1557663) hosted by [Adinda](https://osu.ppy.sh/users/15959751) should be a bit simpler.
+And if that's too much for you, [this map](https://osu.ppy.sh/beatmapsets/1557663) hosted by ::Adinda::{ user-id=15959751 } should be a bit simpler.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/358/Songs/Genkaku%20Aria%20-%20Velvet%20Romancer.mp3">

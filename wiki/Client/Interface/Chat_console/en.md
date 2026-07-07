@@ -17,7 +17,7 @@ From most screens in osu! you can press `F8` or click the `Show Chat` button on 
 | **Red** | [Global Moderation Team](/wiki/People/Global_Moderation_Team) or [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) member |
 | **Green** | Line contains your name or certain keywords that you have added to trigger a [highlight](Highlight). A copy of the message will also appear in a dedicated channel, `#highlight`, which contains all of these lines. |
 | **Blue** | Private Message |
-| **Cyan** | [peppy](https://osu.ppy.sh/users/2), the creator of osu! |
+| **Cyan** | ::peppy::{ user-id=2 }, the creator of osu! |
 | **Pink** | [BanchoBot](/wiki/BanchoBot) |
 
 - Click the `Show Ticker` box to display the newest chat message at the bottom of the screen when the chat console is not visible.
@@ -79,7 +79,7 @@ Press the number or click the bar to activate:
 | `/addfriend [user]` | Add `[user]` to your friends list. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [user]` | Remove `[user]` from your friends list. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [message]` | Sets an away message (sent to users PMing you). Leave the message blank to cancel. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~? BanchoBot: I am John Smith. |
-| `/bb` | Sends a message to Bancho to execute a command like `!stats [user]` | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+| `/bb` | Sends a message to Bancho to execute a command like `!stats [user]` | `/bb !stats Uan` | \[15/11/12\] Stats for ::Uan::{ user-id=147623 }: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [user]`, `/msg [user]`, or `/query [user]` | Opens a new chat tab with the specified user. | `/chat Amigo` | (Amigo tab is opened) |
 | `/clear` | Clears the current chat buffer. | `/clear` | (Clears basically everything on the current tab) |
 | `/ignore [user][@chp]` | Ignore all messages from the specified user for this session. By adding an @ followed by the letters, c, h, and/or p, you may ignore them in chat, [highlights](Highlight), or PMs respectively. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Your chat console is set to: ignore any text written by Amigo \[c\], any possible text highlighting you by Amigo \[h\] any Private Message sent to you by Amigo \[p\]) |

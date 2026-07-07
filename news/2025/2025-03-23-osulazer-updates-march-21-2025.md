@@ -47,7 +47,7 @@ Mother Nature is slowly rolling out the new spring 2025 update, featuring warmer
 
 - **Minor design adjustments have been made to the leaderboards and multiplayer lounge.** The scale of rooms in multiplayer lounge has been lowered, and the leaderboard was adjusted slightly, although a major redesign of the whole song select screen is slated for next release (fingers crossed).
 - **The taskbar will now flash when a multiplayer game starts.** This is a life-saver for those who constantly tab out of the game.
-- **Beatmap user tags have been added, along with the ability to vote on them after completing a play.** With the shutdown of [apollodw](https://osu.ppy.sh/users/9558549)'s [OMDB](https://omdb.nyahh.net/), the various tags have been ported over to the game itself, and anyone who sets a play over a certain threshold will be able to vote on the tags.
+- **Beatmap user tags have been added, along with the ability to vote on them after completing a play.** With the shutdown of ::apollodw::{ user-id=9558549 }'s [OMDB](https://omdb.nyahh.net/), the various tags have been ported over to the game itself, and anyone who sets a play over a certain threshold will be able to vote on the tags.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

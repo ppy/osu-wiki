@@ -58,21 +58,21 @@ As a reminder of the various core values in the difficulty calculation algorithm
 
 Currently, performance calculation treats every object in a beatmap equally when weighing accuracy. Beatmaps which feature a lot of filler notes between tough sections unfairly benefit from this, as accuracy will be scaled across the whole map rather than only on the difficult sections.
 
-Thanks to [emu1337](https://osu.ppy.sh/users/2185987)'s efforts with [these changes](https://github.com/ppy/osu/pull/15035), the number of notes that are considered difficult by speed calculations will now be counted. Accuracy will then be scaled by the average between this count and the overall object count, meaning the punishment from 100s/50s/misses should now reflect the composition of a given map more accurately.
+Thanks to ::emu1337::{ user-id=2185987 }'s efforts with [these changes](https://github.com/ppy/osu/pull/15035), the number of notes that are considered difficult by speed calculations will now be counted. Accuracy will then be scaled by the average between this count and the overall object count, meaning the punishment from 100s/50s/misses should now reflect the composition of a given map more accurately.
 
 Prime examples of the effects of this change can be found in [various *Hidamari no Uta* difficulties](https://osu.ppy.sh/beatmapsets?m=0&q=%22hidamari%20no%20uta%22) that feature difficulty spike sections.
 
 ### Remove non-overlapping velocity change bonus from aim
 
-Throughout the past few months, [Lasse](https://osu.ppy.sh/users/896613)'s [kakichoco - Zan'ei [Illusion]](https://osu.ppy.sh/beatmapsets/1759729#osu/3601629) drew widespread community attention thanks to its abuse of the newly introduced velocity change buff. Coupled together with the wide angle bonus, the result is a notoriously overweighted map that has found its way into ~31% of all 5 digit players' top plays.
+Throughout the past few months, ::Lasse::{ user-id=896613 }'s [kakichoco - Zan'ei [Illusion]](https://osu.ppy.sh/beatmapsets/1759729#osu/3601629) drew widespread community attention thanks to its abuse of the newly introduced velocity change buff. Coupled together with the wide angle bonus, the result is a notoriously overweighted map that has found its way into ~31% of all 5 digit players' top plays.
 
-Fixing this was a high-priority task, so [this proposal](https://github.com/ppy/osu/pull/19004) to remove the non-overlapping segment of the velocity change buff was approved. This addresses maps such as *Zan'ei*, but it unfortunately adversely affects maps that genuinely benefitted from the buff such as [eiri-](https://osu.ppy.sh/users/3388410)'s [Akatsuki Records - Trance Dance Anarchy [Don't Look Back]](https://osu.ppy.sh/beatmapsets/1124084#osu/2348869).
+Fixing this was a high-priority task, so [this proposal](https://github.com/ppy/osu/pull/19004) to remove the non-overlapping segment of the velocity change buff was approved. This addresses maps such as *Zan'ei*, but it unfortunately adversely affects maps that genuinely benefitted from the buff such as ::eiri-::{ user-id=3388410 }'s [Akatsuki Records - Trance Dance Anarchy [Don't Look Back]](https://osu.ppy.sh/beatmapsets/1124084#osu/2348869).
 
 This is an unfortunate but necessary side effect, and rebuffing these maps is considered high priority for the future. Maps featuring cutstreams are mostly unaffected.
 
 ### General balancing pass
 
-A general balancing pass, mostly for performance points calculation, was applied in [this proposal](https://github.com/ppy/osu/pull/19001) by [StanR](https://osu.ppy.sh/users/7217455). This aims to alleviate some concerns shared by both the team of developers and the community.
+A general balancing pass, mostly for performance points calculation, was applied in [this proposal](https://github.com/ppy/osu/pull/19001) by ::StanR::{ user-id=7217455 }. This aims to alleviate some concerns shared by both the team of developers and the community.
 
 - **Aim has been slightly buffed.** Slider aim and high-BPM aim should be mostly unaffected by this.
 - **Speed's 50s nerf has been reduced.** This was something highly requested by speed players and is now doable with the aforementioned worst-case accuracy speed scaling change.
@@ -82,15 +82,15 @@ A general balancing pass, mostly for performance points calculation, was applied
 
 Previously, calculating the difficulty of arbitrary objects in a beatmap was prohibitively difficult from a development perspective. This was a significantly limiting factor in creating coded considerations for particular patterns and beatmapping concepts.
 
-Following a refactor effort by [Apo11o](https://osu.ppy.sh/users/9558549) involving [two](https://github.com/ppy/osu/pull/18368) [changes](https://github.com/ppy/osu/pull/18458), this is now much less of a problem, allowing for more specific and comprehensive adjustments to be made much more easily, or outright possible to begin with.
+Following a refactor effort by ::Apo11o::{ user-id=9558549 } involving [two](https://github.com/ppy/osu/pull/18368) [changes](https://github.com/ppy/osu/pull/18458), this is now much less of a problem, allowing for more specific and comprehensive adjustments to be made much more easily, or outright possible to begin with.
 
 These changes are now seeing use in both osu! and osu!taiko, with one example listed directly below.
 
 ### Improved double tap detection in speed
 
-It's extremely rare that maps need to be disqualified and put on hold from getting into the Ranked section because of pp abuse. However, push came to shove a few months ago when [pewdekz](https://osu.ppy.sh/users/5754859)'s mapset on [TAG underground - POSSESSION](https://osu.ppy.sh/beatmapsets/1691083#osu/3455732) was [held back forcefully by the NAT](https://osu.ppy.sh/beatmapsets/1691083/discussion/-/generalAll#/3020552).
+It's extremely rare that maps need to be disqualified and put on hold from getting into the Ranked section because of pp abuse. However, push came to shove a few months ago when ::pewdekz::{ user-id=5754859 }'s mapset on [TAG underground - POSSESSION](https://osu.ppy.sh/beatmapsets/1691083#osu/3455732) was [held back forcefully by the NAT](https://osu.ppy.sh/beatmapsets/1691083/discussion/-/generalAll#/3020552).
 
-Featuring incredibly quick double taps, *POSSESSION* unintentionally benefitted from a previous change that removed the speed cap, causing the system to consider the pattern to be much harder than it actually is during real play. Thanks to [this change](https://github.com/ppy/osu/pull/18692) by [Apo11o](https://osu.ppy.sh/users/9558549), this should now be fixed.
+Featuring incredibly quick double taps, *POSSESSION* unintentionally benefitted from a previous change that removed the speed cap, causing the system to consider the pattern to be much harder than it actually is during real play. Thanks to [this change](https://github.com/ppy/osu/pull/18692) by ::Apo11o::{ user-id=9558549 }, this should now be fixed.
 
 The system now compares the 300 hit window size to the time between the previous and the current object, and determines whether the player has enough breathing room after the current note to be able to comfortably double-tap in the first place.
 
@@ -102,11 +102,11 @@ If you want to visualise how this works with different note timings, feel free t
 
 Ever since 2017, scores with touch screen detection have a reduction to aim pp — but not star rating. This means that players with touch screen could attain medals for higher star ratings, despite the system valuing touch screen aim less.
 
-This nerf has now been applied to star rating as well with [this change](https://github.com/ppy/osu/pull/16524) proposed by [StanR](https://osu.ppy.sh/users/7217455), making the aim requirement for medals around 20% higher (on average) for all touch screen players.
+This nerf has now been applied to star rating as well with [this change](https://github.com/ppy/osu/pull/16524) proposed by ::StanR::{ user-id=7217455 }, making the aim requirement for medals around 20% higher (on average) for all touch screen players.
 
 ### Flashlight changes
 
-The incredible illuminator [MBmasher](https://osu.ppy.sh/users/4498616) continues his focused efforts on improving Flashlight difficulty calculation, yielding a series of changes to the Flashlight skill that were introduced in the last deployment.
+The incredible illuminator ::MBmasher::{ user-id=4498616 } continues his focused efforts on improving Flashlight difficulty calculation, yielding a series of changes to the Flashlight skill that were introduced in the last deployment.
 
 #### Hit object opacity
 
@@ -120,7 +120,7 @@ An object's opacity is affected by its approach rate and whether the Hidden mod 
 
 Maps with Flashlight applied become significantly easier if the successive object placement is predictable. One of the major ways this can manifest is through the use of repeated angles, which [this change](https://github.com/ppy/osu/pull/19716) aims to nerf.
 
-Throughout the development process for the Flashlight changes, a number of grid-style maps such as [DJPop](https://osu.ppy.sh/users/2363)'s [beatMARIO - Night of Knights [SOLO]](https://osu.ppy.sh/beatmapsets/15920#osu/58063) became increasingly concerning as their values rose. By reducing the influence of repeated angles, grid-style maps such as this one will now settle at a more suitable value for the skill involved.
+Throughout the development process for the Flashlight changes, a number of grid-style maps such as ::DJPop::{ user-id=2363 }'s [beatMARIO - Night of Knights [SOLO]](https://osu.ppy.sh/beatmapsets/15920#osu/58063) became increasingly concerning as their values rose. By reducing the influence of repeated angles, grid-style maps such as this one will now settle at a more suitable value for the skill involved.
 
 #### Slider bonus
 
@@ -138,9 +138,9 @@ The bonus only kicks in once a slider is fast enough since slow sliders are easi
 
 Alongside all those big changes above, there are some changes on the smaller side of things:
 
-- [**The speed skill now measures distance correctly.**](https://github.com/ppy/osu/pull/15758) [GoldenMine](https://osu.ppy.sh/users/8058206) discovered that distance has been calculated improperly since the last set of changes, causing aim from sliders to be potentially overemphasised. This has now been corrected.
-- [**The miss count estimate is now smooth.**](https://github.com/ppy/osu/pull/16331) Previously, the miss count estimate could jump from 1 miss to 2 misses within a combo, but this transition is done more smoothly now that the estimated miss count is calculated as a decimal value, thanks to [StanR](https://osu.ppy.sh/users/7217455).
-- [**1x100 scores no longer break miss count estimate.**](https://github.com/ppy/osu/pull/19804) [StanR](https://osu.ppy.sh/users/7217455) addressed an issue where a single 100 on a score would potentially count as more than one miss.
+- [**The speed skill now measures distance correctly.**](https://github.com/ppy/osu/pull/15758) ::GoldenMine::{ user-id=8058206 } discovered that distance has been calculated improperly since the last set of changes, causing aim from sliders to be potentially overemphasised. This has now been corrected.
+- [**The miss count estimate is now smooth.**](https://github.com/ppy/osu/pull/16331) Previously, the miss count estimate could jump from 1 miss to 2 misses within a combo, but this transition is done more smoothly now that the estimated miss count is calculated as a decimal value, thanks to ::StanR::{ user-id=7217455 }.
+- [**1x100 scores no longer break miss count estimate.**](https://github.com/ppy/osu/pull/19804) ::StanR::{ user-id=7217455 } addressed an issue where a single 100 on a score would potentially count as more than one miss.
 
 ---
 

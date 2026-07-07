@@ -7,7 +7,7 @@ outdated: true
 Este artículo es un manual sobre cómo hacer buenos sliders.
 En su forma más básica, todo lo que necesitas es una [curva de Bézier](https://es.wikipedia.org/wiki/Curva_de_Bézier).
 
-Mensaje de [Ephemeral](https://osu.ppy.sh/users/102335) traducido al español:
+Mensaje de ::Ephemeral::{ user-id=102335 } traducido al español:
 
 > Alinea siempre los puntos finales de los sliders al valor más pequeño posible, es decir, si los arrastras más hacia atrás, el slider se reducirá. El punto se centrará en el final del slider y facilitará mucho la realización de curvas transitables.
 
@@ -61,7 +61,7 @@ Ten en cuenta que si quieres que un slider cubra **y** sea perfectamente simétr
 
 ---
 
-Mensaje de [Gonzvlo](https://osu.ppy.sh/users/237733) traducido al español:
+Mensaje de ::Gonzvlo::{ user-id=237733 } traducido al español:
 
 > Como variante de los blankets, a veces uso un spinner para hacer círculos bonitos.
 

@@ -9,11 +9,11 @@ series: featured_artists
 
 ![](https://assets.ppy.sh/artists/204/header.jpg)
 
-On today's episode of *osu!'s Got Talent*, Japanese producer and [6-digit osu! player **DJ Raisei**](https://osu.ppy.sh/users/9892920) proves without a shadow of a doubt that osu! players are actually good at something other than clicking circles. Filled with every aspect of speed, emotion, and insanity, **DJ Raisei**'s soundscape is a paradise for the tech mapping world that you really wouldn't want to miss.
+On today's episode of *osu!'s Got Talent*, Japanese producer and ::6-digit osu! player **DJ Raisei**::{ user-id=9892920 } proves without a shadow of a doubt that osu! players are actually good at something other than clicking circles. Filled with every aspect of speed, emotion, and insanity, **DJ Raisei**'s soundscape is a paradise for the tech mapping world that you really wouldn't want to miss.
 
 **10** of these incredible tracks are up for grabs from [**DJ Raisei**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/204), each sporting a unique form of complexity that begs for beatmaps across the difficulty and creativity spectrums.
 
-[Realazy](https://osu.ppy.sh/users/918297)'s massive mapset of [*ISOMERZ (DJ Raisei + seatrus) - Symmetric*](https://osu.ppy.sh/beatmapsets/1381824) with guest difficulties from 8 different mappers showcases exactly what we're talking about. Explore that through the video and check out the rest of the songs below:
+::Realazy::{ user-id=918297 }'s massive mapset of [*ISOMERZ (DJ Raisei + seatrus) - Symmetric*](https://osu.ppy.sh/beatmapsets/1381824) with guest difficulties from 8 different mappers showcases exactly what we're talking about. Explore that through the video and check out the rest of the songs below:
 
 <div align="center">
     <video width="95%" controls>

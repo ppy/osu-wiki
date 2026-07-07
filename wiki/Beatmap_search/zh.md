@@ -123,13 +123,13 @@ stars>=7 stars<8 od<8
 unplayed= status=r christmas
 ```
 
-（客户端、网站）搜 ::{ flag=FR }:: [galvenize](https://osu.ppy.sh/users/381444) 制作的 [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmapsets/28107) 的谱面难度：
+（客户端、网站）搜 ::{ flag=FR }:: ::galvenize::{ user-id=381444 } 制作的 [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmapsets/28107) 的谱面难度：
 
 ```
 28107
 ```
 
-（网站）搜 ::{ flag=GB }:: [Natteke](https://osu.ppy.sh/users/157177) 在2010年8月至10月之间上架的难度：
+（网站）搜 ::{ flag=GB }:: ::Natteke::{ user-id=157177 } 在2010年8月至10月之间上架的难度：
 
 ```
 ranked>=2010-08 ranked<2010-11 creator=Natteke

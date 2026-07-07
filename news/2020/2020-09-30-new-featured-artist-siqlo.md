@@ -19,7 +19,7 @@ Check out a sample of what's available below:
 
 ### Forest Haze
 
-Check out [this classic 2015 collaborative set](https://osu.ppy.sh/beatmapsets/281695) hosted by [Lust](https://osu.ppy.sh/users/2316951)!
+Check out [this classic 2015 collaborative set](https://osu.ppy.sh/beatmapsets/281695) hosted by ::Lust::{ user-id=2316951 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/102/previews/2709.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this classic 2015 collaborative set](https://osu.ppy.sh/beatmapsets/2
 
 ### Dirigeant Decision
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1240362) by [PandaHero](https://osu.ppy.sh/users/1233255) of the Mappers' Guild!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1240362) by ::PandaHero::{ user-id=1233255 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/102/previews/2708.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1240362) by [PandaH
 
 ### Me & U
 
-Check out [this osu!catch showcase set](https://osu.ppy.sh/beatmapsets/1225300) by [Jemzuu](https://osu.ppy.sh/users/7890134) of the Mappers' Guild!
+Check out [this osu!catch showcase set](https://osu.ppy.sh/beatmapsets/1225300) by ::Jemzuu::{ user-id=7890134 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/102/previews/2711.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Check out [this osu!catch showcase set](https://osu.ppy.sh/beatmapsets/1225300) 
 
 ### Midnight, Sunrise Sign
 
-Check out [this osu!catch showcase set](https://osu.ppy.sh/beatmapsets/1224186) by [Rocma](https://osu.ppy.sh/users/566276) of the Mappers' Guild!
+Check out [this osu!catch showcase set](https://osu.ppy.sh/beatmapsets/1224186) by ::Rocma::{ user-id=566276 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/102/previews/2712.mp3" type="audio/mpeg">
@@ -51,7 +51,7 @@ Check out [this osu!catch showcase set](https://osu.ppy.sh/beatmapsets/1224186) 
 
 ### YInMn Blue
 
-Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1233593) by [gaston_2199](https://osu.ppy.sh/users/5938161) of the Mappers' Guild!
+Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1233593) by ::gaston\12199::{ user-id=5938161 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/102/previews/2718.mp3" type="audio/mpeg">

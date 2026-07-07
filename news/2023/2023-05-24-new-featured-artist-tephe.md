@@ -15,7 +15,7 @@ While most musicians here boast years of experience and massive back catalogues 
 
 Check out both of **tephe**'s masterpieces from [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/361)! ...or just scroll down.
 
-If you've never heard **tephe**'s sound before, experiencing it through [peppy](https://osu.ppy.sh/users/2)'s mouse-only gameplay is the best way to do it:
+If you've never heard **tephe**'s sound before, experiencing it through ::peppy::{ user-id=2 }'s mouse-only gameplay is the best way to do it:
 
 <div align="center">
     <video width="95%" controls>
@@ -27,9 +27,9 @@ If you've never heard **tephe**'s sound before, experiencing it through [peppy](
 
 Try out any of these maps:
 
-- [osu! map from the video above](https://osu.ppy.sh/beatmapsets/1789854) hosted and storyboarded by [Jiysea](https://osu.ppy.sh/users/7354700)
-- [Another osu! map](https://osu.ppy.sh/beatmapsets/1805752) hosted by [EnuHQ](https://osu.ppy.sh/users/5281072)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/1796767) hosted by [zerokt](https://osu.ppy.sh/users/13776127)
+- [osu! map from the video above](https://osu.ppy.sh/beatmapsets/1789854) hosted and storyboarded by ::Jiysea::{ user-id=7354700 }
+- [Another osu! map](https://osu.ppy.sh/beatmapsets/1805752) hosted by ::EnuHQ::{ user-id=5281072 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/1796767) hosted by ::zerokt::{ user-id=13776127 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/361/Songs/tephe%20-%20Neppa%20feat.%20Butter.mp3">
@@ -37,7 +37,7 @@ Try out any of these maps:
 
 ### tephe - Genjitsu Escape feat. Kagamine Len
 
-Check out [this osu! set](https://osu.ppy.sh/beatmapsets/1997470) hosted by [AirinCat](https://osu.ppy.sh/users/11119539)!
+Check out [this osu! set](https://osu.ppy.sh/beatmapsets/1997470) hosted by ::AirinCat::{ user-id=11119539 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/361/Songs/tephe%20-%20Genjitsu%20Escape.mp3">

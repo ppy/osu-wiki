@@ -17,7 +17,7 @@ Curious about what a phantom entity can create? Divert your eyes and ears below:
 
 ### [The Musical Ghost - Thinking Of](https://assets.ppy.sh/artists/478/Thinking%20Of/The%20Musical%20Ghost%20-%20Thinking%20Of.osz)
 
-Check out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2275105) by [chocomilku-](https://osu.ppy.sh/users/16687756) with a slick storyboard:
+Check out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2275105) by ::chocomilku-::{ user-id=16687756 } with a slick storyboard:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

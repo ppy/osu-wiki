@@ -18,25 +18,25 @@ Numerous players have held rank #1 in each game mode under different ranking sys
 
 *Main page: [osu! rankings history](osu!)*
 
-As of 14 June 2026, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160/osu).
+As of 14 June 2026, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ::{ flag=RU }:: ::cryshina::{ user-id=14715160 }.
 
 ## ![][osu!taiko] osu!taiko
 
 <!-- TODO: Add ranking history page similar to osu! -->
 
-As of 24 March 2026, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
+As of 24 March 2026, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: ::Sinon\133::{ user-id=31148838 }.
 
 ## ![][osu!catch] osu!catch
 
 *Main page: [osu!catch rankings history](osu!catch)*
 
-As of 2 November 2024, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
+As of 2 November 2024, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=KR }:: ::qwhj79::{ user-id=7547506 }.
 
 ## ![][osu!mania] osu!mania
 
 <!-- TODO: Add ranking history page similar to osu! -->
 
-As of 4 April 2026, on the [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) the rank #1 player is ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
+As of 4 April 2026, on the [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) the rank #1 player is ::{ flag=KR }:: ::Kalkai::{ user-id=10790649 }.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

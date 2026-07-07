@@ -9,7 +9,7 @@ series: featured_artists
 
 ![](https://assets.ppy.sh/artists/401/header.jpg?1)
 
-From [osu!mania player](https://osu.ppy.sh/users/19587411) to full flavour music producer, **Akiri** is the mastermind behind a new wave of grandiose aural creations (also known as cool music).
+From ::osu!mania player::{ user-id=19587411 } to full flavour music producer, **Akiri** is the mastermind behind a new wave of grandiose aural creations (also known as cool music).
 
 And as of today, **48** of those songs are officially part of our Featured Artist library! Check out the previews and pre-timed `.osz` files for *every song* from [**Akiri**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/401).
 
@@ -21,7 +21,7 @@ You might've already heard **Akiri** through this year's [osu!mania 7K World Cup
 
 ### Akiri - Symphony Of The Lost Souls
 
-Experience [the MWC7K Semifinals tiebreaker](https://osu.ppy.sh/beatmapsets/2130621) hosted by [-NoName-](https://osu.ppy.sh/users/10400730)!
+Experience [the MWC7K Semifinals tiebreaker](https://osu.ppy.sh/beatmapsets/2130621) hosted by ::-NoName-::{ user-id=10400730 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/401/The%20Lost%20Symphonies/Akiri%20-%20Symphony%20Of%20The%20Lost%20Souls.mp3">
@@ -37,7 +37,7 @@ Or check out [the map that was showcased earlier today for MWC 7K](https://osu.p
 
 ### Akiri - Anata ga Satta Shunkan
 
-Okay, no more 7K. Instead, try [this 4K map](https://osu.ppy.sh/beatmapsets/1974310) hosted by [Disguise](https://osu.ppy.sh/users/10764851)!
+Okay, no more 7K. Instead, try [this 4K map](https://osu.ppy.sh/beatmapsets/1974310) hosted by ::Disguise::{ user-id=10764851 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/401/Dreamless%20Wanderers/Akiri%20-%20The%20Moment%20You%20Left%20Me.mp3">

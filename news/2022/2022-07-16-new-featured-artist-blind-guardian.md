@@ -15,7 +15,7 @@ And through an insane turn of events, this legendary band is now officially a pa
 
 Discover **11** power metal fables from [**Blind Guardian**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/284)!
 
-Stream-focused mapping has been a rising trend lately, and **Blind Guardian** has been a major contributor! Watch how [\[Karcher\]](https://osu.ppy.sh/users/11443437) (who has recently full combo'd [Yomi yori](https://osu.ppy.sh/beatmapsets/461744)!) applies his consistency skillset to [A Voice In The Dark](https://osu.ppy.sh/beatmapsets/1672400) as the beatmap's only HDHR FC:
+Stream-focused mapping has been a rising trend lately, and **Blind Guardian** has been a major contributor! Watch how ::\[Karcher\]::{ user-id=11443437 } (who has recently full combo'd [Yomi yori](https://osu.ppy.sh/beatmapsets/461744)!) applies his consistency skillset to [A Voice In The Dark](https://osu.ppy.sh/beatmapsets/1672400) as the beatmap's only HDHR FC:
 
 <div align="center">
     <video width="100%" controls>
@@ -25,7 +25,7 @@ Stream-focused mapping has been a rising trend lately, and **Blind Guardian** ha
 
 ### A Voice In The Dark
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1672400) hosted by [nebuwua](https://osu.ppy.sh/users/14729352) or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/617257) hosted by [frukoyurdakul](https://osu.ppy.sh/users/7612550)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1672400) hosted by ::nebuwua::{ user-id=14729352 } or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/617257) hosted by ::frukoyurdakul::{ user-id=7612550 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/284/At%20the%20Edge%20of%20Time%2FBlind%20Guardian%20-%20A%20Voice%20In%20The%20Dark.mp3" type="audio/mpeg">
@@ -51,7 +51,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1672400)
 
 ---
 
-If you want to contribute to the next generation of stream mapping, visit [**Blind Guardian**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/284). [\[Karcher\]](https://osu.ppy.sh/users/11443437) is waiting for you.
+If you want to contribute to the next generation of stream mapping, visit [**Blind Guardian**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/284). ::\[Karcher\]::{ user-id=11443437 } is waiting for you.
 
 The [@osugame Twitter](https://twitter.com/osugame) may also be waiting for you, assuming you have a desire to find out about new Featured Artists as soon as they drop. Look forward to our next addition on Wednesday!
 

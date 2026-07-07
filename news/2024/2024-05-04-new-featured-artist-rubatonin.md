@@ -45,7 +45,7 @@ Here's a taste of what **Rubatonin** has to offer:
 
 ### Hexacube - SUPER-ENTHUSIASTIC!!
 
-Play [this recently Qualified map](https://osu.ppy.sh/beatmapsets/2049613) hosted by [Strategas](https://osu.ppy.sh/users/2971837)!
+Play [this recently Qualified map](https://osu.ppy.sh/beatmapsets/2049613) hosted by ::Strategas::{ user-id=2971837 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/418/Great%20Means%20Not%20Good/Hexacube%20-%20SUPER-ENTHUSIASTIC!!.mp3">
@@ -53,7 +53,7 @@ Play [this recently Qualified map](https://osu.ppy.sh/beatmapsets/2049613) hoste
 
 ### dabih & polarN - Koushyoku no Melody
 
-Begin your 4K journey with [this map](https://osu.ppy.sh/beatmapsets/2174509) hosted by [fvrex](https://osu.ppy.sh/users/11863699)!
+Begin your 4K journey with [this map](https://osu.ppy.sh/beatmapsets/2174509) hosted by ::fvrex::{ user-id=11863699 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/418/Great%20Means%20Not%20Good/dabih%20%26%20polarN%20-%20Koushyoku%20no%20Melody.mp3">
@@ -61,7 +61,7 @@ Begin your 4K journey with [this map](https://osu.ppy.sh/beatmapsets/2174509) ho
 
 ### LucaProject - Recovery
 
-Take the next step in that 4K journey with [this map](https://osu.ppy.sh/beatmapsets/2115263) by [Ucitysm](https://osu.ppy.sh/users/14768693)!
+Take the next step in that 4K journey with [this map](https://osu.ppy.sh/beatmapsets/2115263) by ::Ucitysm::{ user-id=14768693 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/418/Recovery/LucaProject%20-%20Recovery.mp3">
@@ -69,7 +69,7 @@ Take the next step in that 4K journey with [this map](https://osu.ppy.sh/beatmap
 
 ### Essbee - Rubix
 
-And finish off that 4K journey with [this map](https://osu.ppy.sh/beatmapsets/2098237) by [fvrex](https://osu.ppy.sh/users/11863699)!
+And finish off that 4K journey with [this map](https://osu.ppy.sh/beatmapsets/2098237) by ::fvrex::{ user-id=11863699 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/418/Late%20Summer%20Homework/Essbee%20-%20Rubix.mp3">
@@ -77,7 +77,7 @@ And finish off that 4K journey with [this map](https://osu.ppy.sh/beatmapsets/20
 
 ### Xeudo Code - TERRAFORGE
 
-Experiment with [the map that'll probably be a tournament tiebreaker one day](https://osu.ppy.sh/beatmapsets/2089942) hosted by [ikin5050](https://osu.ppy.sh/users/4007649)!
+Experiment with [the map that'll probably be a tournament tiebreaker one day](https://osu.ppy.sh/beatmapsets/2089942) hosted by ::ikin5050::{ user-id=4007649 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/418/TERRAFORGE/Xeudo%20Code%20-%20TERRAFORGE.mp3">

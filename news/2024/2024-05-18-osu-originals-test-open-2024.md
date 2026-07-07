@@ -23,31 +23,31 @@ Test out these tunes for yourself:
     </video>
 </div>
 
-### [kanemiko - Twilight of the Abyss](https://osu.ppy.sh/beatmapsets/2170063) mapped by [captin1](https://osu.ppy.sh/users/689997), [Aeril](https://osu.ppy.sh/users/4334976), and [toybot](https://osu.ppy.sh/users/2848604)
+### [kanemiko - Twilight of the Abyss](https://osu.ppy.sh/beatmapsets/2170063) mapped by ::captin1::{ user-id=689997 }, [Aeril](https://osu.ppy.sh/users/4334976), and ::toybot::{ user-id=2848604 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/420/TEST%20Originals/kanemiko%20-%20Twilight%20of%20the%20Abyss.mp3">
 </audio>
 
-### [Aethral - Phoenix](https://osu.ppy.sh/beatmapsets/2177371) mapped by [Sing](https://osu.ppy.sh/users/3795679)
+### [Aethral - Phoenix](https://osu.ppy.sh/beatmapsets/2177371) mapped by ::Sing::{ user-id=3795679 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/420/TEST%20Originals/Aethral%20-%20Phoenix.mp3">
 </audio>
 
-### [Aethral - Cyber Surge](https://osu.ppy.sh/beatmapsets/2177377) mapped by [Creepattack](https://osu.ppy.sh/users/12626424) and [Cocoyu](https://osu.ppy.sh/users/20101640)
+### [Aethral - Cyber Surge](https://osu.ppy.sh/beatmapsets/2177377) mapped by ::Creepattack::{ user-id=12626424 } and [Cocoyu](https://osu.ppy.sh/users/20101640)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/420/TEST%20Originals/Aethral%20-%20Cyber%20Surge.mp3">
 </audio>
 
-### [Kou! - RE_generate:fractal](https://osu.ppy.sh/beatmapsets/2180803) mapped by [Anxient](https://osu.ppy.sh/users/4561368)
+### [Kou! - RE_generate:fractal](https://osu.ppy.sh/beatmapsets/2180803) mapped by ::Anxient::{ user-id=4561368 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/420/TEST%20Originals/Kou!%20-%20RE_generatefractal.mp3">
 </audio>
 
-### [Kou! - Fermion Amplification](https://osu.ppy.sh/beatmapsets/2180934) mapped by [Tycani](https://osu.ppy.sh/users/6693266) and [play rainworld](https://osu.ppy.sh/users/6496950)
+### [Kou! - Fermion Amplification](https://osu.ppy.sh/beatmapsets/2180934) mapped by ::Tycani::{ user-id=6693266 } and [play rainworld](https://osu.ppy.sh/users/6496950)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/420/TEST%20Originals/Kou!%20-%20Fermion%20Amplification.mp3">

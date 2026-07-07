@@ -10,7 +10,7 @@ tags:
 
 ![Ulat Cup 2022 logo](img/logo.jpg)
 
-The **Ulat Cup 2022** (***UCUP 2022***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548). The tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) within the #5,000 - #30,000 rank range. Despite yet another format change from its previous iterations, the tournament was formally regarded as the fifth official instalment of the Ulat Bulu Cup tournament series.
+The **Ulat Cup 2022** (***UCUP 2022***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: ::Millie::{ user-id=3484548 }. The tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) within the #5,000 - #30,000 rank range. Despite yet another format change from its previous iterations, the tournament was formally regarded as the fifth official instalment of the Ulat Bulu Cup tournament series.
 
 ## Tournament schedule
 
@@ -42,16 +42,16 @@ UCUP 2022 was run by various osu! community members predominantly hailing from t
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548) |
-| Organiser | ::{ flag=ID }:: [HORAS](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [honeymint](https://osu.ppy.sh/users/4796773), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302) |
-| Mappool selector | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag_=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174) |
-| Mappool helper | ::{ flag=ID }:: [i love uma](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [Ryzen-dono](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [lushifer](https://osu.ppy.sh/users/13356408), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) |
-| Streamer | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Arca 9](https://osu.ppy.sh/users/14042319) |
-| Commentator | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Deorum](https://osu.ppy.sh/users/5933031), ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988) |
-| Referee | ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=PH }:: [-Pekora-](https://osu.ppy.sh/users/17959882), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=FR }:: [jehukm](https://osu.ppy.sh/users/10981418) |
-| Graphic designer | ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) |
-| Spreadsheet manager | ::{ flag=ID }:: [HORAS](https://osu.ppy.sh/users/11421465) |
-| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: ::Millie::{ user-id=3484548 } |
+| Organiser | ::{ flag=ID }:: ::HORAS::{ user-id=11421465 }, ::{ flag=ID }:: ::honeymint::{ user-id=4796773 }, ::{ flag=ID }:: ::phizh::{ user-id=4569302 } |
+| Mappool selector | ::{ flag=ID }:: ::Millie::{ user-id=3484548 }, ::{ flag_=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::Kuro Fuyusaki::{ user-id=2667496 }, ::{ flag=ID }:: ::fnayR::{ user-id=2800253 }, ::{ flag=ID }:: ::Tama-desu::{ user-id=3813174 } |
+| Mappool helper | ::{ flag=ID }:: ::i love uma::{ user-id=7108275 }, ::{ flag=ID }:: ::Ryzen-dono::{ user-id=10778215 }, ::{ flag=ID }:: ::lushifer::{ user-id=13356408 }, ::{ flag=ID }:: ::Raids::{ user-id=15640966 } |
+| Streamer | ::{ flag=ID }:: ::Millie::{ user-id=3484548 }, ::{ flag=ID }:: ::Victim\1Crasher::{ user-id=2084869 }, ::{ flag=ID }:: ::Arca 9::{ user-id=14042319 } |
+| Commentator | ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 }, ::{ flag=ID }:: ::Seox::{ user-id=3793938 }, ::{ flag=ID }:: ::Deorum::{ user-id=5933031 }, ::{ flag=ID }:: ::Caviar-::{ user-id=10474988 } |
+| Referee | ::{ flag=ID }:: ::NoVaLian::{ user-id=6459827 }, ::{ flag=PH }:: ::-Pekora-::{ user-id=17959882 }, ::{ flag=ID }:: ::YaeMyMommy::{ user-id=17278897 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user-id=12609866 }, ::{ flag=FR }:: ::jehukm::{ user-id=10981418 } |
+| Graphic designer | ::{ flag=ID }:: ::CubeixID200::{ user-id=10678919 } |
+| Spreadsheet manager | ::{ flag=ID }:: ::HORAS::{ user-id=11421465 } |
+| Wiki editor | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
 
 ## Links
 
@@ -67,38 +67,38 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 | Seed No. | Player | Z-Sum |
 | :-: | :-- | :-- |
-| 1 | ::{ flag=TH }:: [chests](https://osu.ppy.sh/users/14806365) | 9.51 |
-| 2 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 8.69 |
-| 3 | ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) | 8.13 |
-| 4 | ::{ flag=SG }:: [Moroha29](https://osu.ppy.sh/users/9182389) | 7.78 |
-| 5 | ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661) | 7.77 |
-| 6 | ::{ flag=PH }:: [Yukixo](https://osu.ppy.sh/users/17847877) | 7.63 |
-| 7 | ::{ flag=TH }:: [Estella fanboy](https://osu.ppy.sh/users/19052463) | 7.62 |
-| 8 | ::{ flag=SG }:: [Anderwear](https://osu.ppy.sh/users/14429830) | 7.15 |
-| 9 | ::{ flag=MY }:: [iraozm](https://osu.ppy.sh/users/12443104) | 6.97 |
-| 10 | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) | 6.95 |
-| 11 | ::{ flag=ID }:: [NaFish](https://osu.ppy.sh/users/9974314) | 6.94 |
-| 12 | ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299) | 6.91 |
-| 13 | ::{ flag=PH }:: [caetrn](https://osu.ppy.sh/users/18425276) | 6.77 |
-| 14 | ::{ flag=PH }:: [bluezenithgames](https://osu.ppy.sh/users/12681578) | 6.74 |
-| 15 | ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667) | 6.44 |
-| 16 | ::{ flag=PH }:: [miggie](https://osu.ppy.sh/users/12028437) | 6.39 |
-| 17 | ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439) | 6.25 |
-| 18 | ::{ flag=MY }:: [Amatsuka Uto](https://osu.ppy.sh/users/9364594) | 6.09 |
-| 19 | ::{ flag=PH }:: [MarvelWizardKH](https://osu.ppy.sh/users/5356586) | 5.58 |
-| 20 | ::{ flag=PH }:: [Hinatsuru Ai](https://osu.ppy.sh/users/10442993) | 5.54 |
-| 21 | ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | 5.53 |
-| 22 | ::{ flag=SG }:: [uniqly](https://osu.ppy.sh/users/8876527) | 5.43 |
-| 23 | ::{ flag=SG }:: [JokThree](https://osu.ppy.sh/users/7713152) | 5.42 |
-| 24 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | 5.41 |
-| 25 | ::{ flag=ID }:: [Contra](https://osu.ppy.sh/users/12011863) | 5.35 |
-| 26 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | 5.24 |
-| 27 | ::{ flag=ID }:: [-Ayame](https://osu.ppy.sh/users/7128826) | 5.23 |
-| 28 | ::{ flag=ID }:: [Hazui](https://osu.ppy.sh/users/9919208) | 5,19 |
-| 29 | ::{ flag=ID }:: [Grandidierite](https://osu.ppy.sh/users/11976077) | 5.17 |
-| 30 | ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988) | 5.15 |
-| 31 | ::{ flag=ID }:: [gkyla](https://osu.ppy.sh/users/5638585) | 4.50 |
-| 32 | ::{ flag=PH }:: [Chooga](https://osu.ppy.sh/users/9477784) | 4.43 |
+| 1 | ::{ flag=TH }:: ::chests::{ user-id=14806365 } | 9.51 |
+| 2 | ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } | 8.69 |
+| 3 | ::{ flag=MY }:: ::LouisZpro::{ user-id=6231292 } | 8.13 |
+| 4 | ::{ flag=SG }:: ::Moroha29::{ user-id=9182389 } | 7.78 |
+| 5 | ::{ flag=ID }:: ::malvon::{ user-id=11113661 } | 7.77 |
+| 6 | ::{ flag=PH }:: ::Yukixo::{ user-id=17847877 } | 7.63 |
+| 7 | ::{ flag=TH }:: ::Estella fanboy::{ user-id=19052463 } | 7.62 |
+| 8 | ::{ flag=SG }:: ::Anderwear::{ user-id=14429830 } | 7.15 |
+| 9 | ::{ flag=MY }:: ::iraozm::{ user-id=12443104 } | 6.97 |
+| 10 | ::{ flag=ID }:: ::Seox::{ user-id=3793938 } | 6.95 |
+| 11 | ::{ flag=ID }:: ::NaFish::{ user-id=9974314 } | 6.94 |
+| 12 | ::{ flag=ID }:: ::-TwiHD::{ user-id=5470299 } | 6.91 |
+| 13 | ::{ flag=PH }:: ::caetrn::{ user-id=18425276 } | 6.77 |
+| 14 | ::{ flag=PH }:: ::bluezenithgames::{ user-id=12681578 } | 6.74 |
+| 15 | ::{ flag=PH }:: ::xidorn::{ user-id=7904667 } | 6.44 |
+| 16 | ::{ flag=PH }:: ::miggie::{ user-id=12028437 } | 6.39 |
+| 17 | ::{ flag=ID }:: ::moyamoyano\_sa::{ user-id=3891439 } | 6.25 |
+| 18 | ::{ flag=MY }:: ::Amatsuka Uto::{ user-id=9364594 } | 6.09 |
+| 19 | ::{ flag=PH }:: ::MarvelWizardKH::{ user-id=5356586 } | 5.58 |
+| 20 | ::{ flag=PH }:: ::Hinatsuru Ai::{ user-id=10442993 } | 5.54 |
+| 21 | ::{ flag=SG }:: ::Inquisitives::{ user-id=10722794 } | 5.53 |
+| 22 | ::{ flag=SG }:: ::uniqly::{ user-id=8876527 } | 5.43 |
+| 23 | ::{ flag=SG }:: ::JokThree::{ user-id=7713152 } | 5.42 |
+| 24 | ::{ flag=MY }:: ::Jolene::{ user-id=13626098 } | 5.41 |
+| 25 | ::{ flag=ID }:: ::Contra::{ user-id=12011863 } | 5.35 |
+| 26 | ::{ flag=ID }:: ::Azasapag::{ user-id=18347666 } | 5.24 |
+| 27 | ::{ flag=ID }:: ::-Ayame::{ user-id=7128826 } | 5.23 |
+| 28 | ::{ flag=ID }:: ::Hazui::{ user-id=9919208 } | 5,19 |
+| 29 | ::{ flag=ID }:: ::Grandidierite::{ user-id=11976077 } | 5.17 |
+| 30 | ::{ flag=ID }:: ::Caviar-::{ user-id=10474988 } | 5.15 |
+| 31 | ::{ flag=ID }:: ::gkyla::{ user-id=5638585 } | 4.50 |
+| 32 | ::{ flag=PH }:: ::Chooga::{ user-id=9477784 } | 4.43 |
 
 ## Podium
 
@@ -106,9 +106,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=TH }:: **[chests](https://osu.ppy.sh/users/14806365)** |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: **[BlankTap](https://osu.ppy.sh/users/10137131)** |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MY }:: **[LouisZpro](https://osu.ppy.sh/users/6231292)** |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=TH }:: **::chests::{ user-id=14806365 }** |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: **::BlankTap::{ user-id=10137131 }** |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MY }:: **::LouisZpro::{ user-id=6231292 }** |
 
 ## Mappools
 
@@ -303,13 +303,13 @@ Thursday. 8 December 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **8** | 5 | ::{ flag=MY }:: [LouisZPro](https://osu.ppy.sh/users/6231292) | [#1](https://osu.ppy.sh/community/matches/105519457) |
+| Lower | **::BlankTap::{ user-id=10137131 }** ::{ flag=ID }:: | **8** | 5 | ::{ flag=MY }:: ::LouisZPro::{ user-id=6231292 } | [#1](https://osu.ppy.sh/community/matches/105519457) |
 
 Monday, 12 December 2022, Grand Final:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **8** | 4 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/105599592) |
+| Grand Final | **::chests::{ user-id=14806365 }** ::{ flag=TH }:: | **8** | 4 | ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } | [#1](https://osu.ppy.sh/community/matches/105599592) |
 
 ### Finals (week 1)
 
@@ -317,15 +317,15 @@ Saturday. 3 December 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [-TwiHD](https://osu.ppy.sh/users/5470299) ::{ flag=ID }:: | 6 | **7** | ::{ flag=PH }:: **[Yukixo](https://osu.ppy.sh/users/17847877)** | [#1](https://osu.ppy.sh/community/matches/105419682) |
-| Lower | **[LouisZPro](https://osu.ppy.sh/users/6231292)** ::{ flag=MY }:: | **7** | 0 | ::{ flag=SG }:: [Moroha29](https://osu.ppy.sh/users/9182389) | *win by default* |
+| Lower | ::-TwiHD::{ user-id=5470299 } ::{ flag=ID }:: | 6 | **7** | ::{ flag=PH }:: **::Yukixo::{ user-id=17847877 }** | [#1](https://osu.ppy.sh/community/matches/105419682) |
+| Lower | **::LouisZPro::{ user-id=6231292 }** ::{ flag=MY }:: | **7** | 0 | ::{ flag=SG }:: ::Moroha29::{ user-id=9182389 } | *win by default* |
 
 Sunday, 4 December 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Yukixo](https://osu.ppy.sh/users/17847877) ::{ flag=PH }:: | 3 | **7** | ::{ flag=MY }:: **[LouisZPro](https://osu.ppy.sh/users/6231292)** | [#1](https://osu.ppy.sh/community/matches/105451523) |
-| Upper | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **7** | 2 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/105449220) |
+| Lower | ::Yukixo::{ user-id=17847877 } ::{ flag=PH }:: | 3 | **7** | ::{ flag=MY }:: **::LouisZPro::{ user-id=6231292 }** | [#1](https://osu.ppy.sh/community/matches/105451523) |
+| Upper | **::chests::{ user-id=14806365 }** ::{ flag=TH }:: | **7** | 2 | ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } | [#1](https://osu.ppy.sh/community/matches/105449220) |
 
 ### Semifinals
 
@@ -333,24 +333,24 @@ Friday. 25 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **7** | 5 | ::{ flag=MY }:: [LouisZPro](https://osu.ppy.sh/users/6231292) | [#1](https://osu.ppy.sh/community/matches/105267805) |
+| Upper | **::BlankTap::{ user-id=10137131 }** ::{ flag=ID }:: | **7** | 5 | ::{ flag=MY }:: ::LouisZPro::{ user-id=6231292 } | [#1](https://osu.ppy.sh/community/matches/105267805) |
 
 Saturday. 26 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Yukixo](https://osu.ppy.sh/users/17847877)** ::{ flag=PH }:: | **7** | 3 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | [#1](https://osu.ppy.sh/community/matches/105286576) |
-| Lower | **[Moroha29](https://osu.ppy.sh/users/9182389)** ::{ flag=SG }:: | **7** | 0 | ::{ flag=PH }:: [bluezenithgames](https://osu.ppy.sh/users/12681578) | [#1](https://osu.ppy.sh/community/matches/105286561) |
-| Lower | [JokThree](https://osu.ppy.sh/users/17847877) ::{ flag=SG }:: | 0 | **7** | ::{ flag=ID }:: **[moyamoyano\_sa](https://osu.ppy.sh/users/3891439)** | *win by default* |
-| Lower | [iraozm](https://osu.ppy.sh/users/12443104) ::{ flag=MY }:: | 0 | **7** | ::{ flag=PH }:: **[Hinatsuru Ai](https://osu.ppy.sh/users/10442993)** | *win by default* |
+| Lower | **::Yukixo::{ user-id=17847877 }** ::{ flag=PH }:: | **7** | 3 | ::{ flag=ID }:: ::Azasapag::{ user-id=18347666 } | [#1](https://osu.ppy.sh/community/matches/105286576) |
+| Lower | **::Moroha29::{ user-id=9182389 }** ::{ flag=SG }:: | **7** | 0 | ::{ flag=PH }:: ::bluezenithgames::{ user-id=12681578 } | [#1](https://osu.ppy.sh/community/matches/105286561) |
+| Lower | ::JokThree::{ user-id=17847877 } ::{ flag=SG }:: | 0 | **7** | ::{ flag=ID }:: **::moyamoyano\_sa::{ user-id=3891439 }** | *win by default* |
+| Lower | ::iraozm::{ user-id=12443104 } ::{ flag=MY }:: | 0 | **7** | ::{ flag=PH }:: **::Hinatsuru Ai::{ user-id=10442993 }** | *win by default* |
 
 Sunday. 27 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Moroha29](https://osu.ppy.sh/users/9182389)** ::{ flag=SG }:: | **7** | 3 | ::{ flag=PH }:: [Hinatsuru Ai](https://osu.ppy.sh/users/10442993) | [#1](https://osu.ppy.sh/community/matches/105316803) |
-| Upper | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **7** | 2 | ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299) | [#1](https://osu.ppy.sh/community/matches/105313028) |
-| Lower | **[Yukixo](https://osu.ppy.sh/users/17847877)** ::{ flag=PH }:: | **7** | 3 | ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439) | [#1](https://osu.ppy.sh/community/matches/105313354) |
+| Lower | **::Moroha29::{ user-id=9182389 }** ::{ flag=SG }:: | **7** | 3 | ::{ flag=PH }:: ::Hinatsuru Ai::{ user-id=10442993 } | [#1](https://osu.ppy.sh/community/matches/105316803) |
+| Upper | **::chests::{ user-id=14806365 }** ::{ flag=TH }:: | **7** | 2 | ::{ flag=ID }:: ::-TwiHD::{ user-id=5470299 } | [#1](https://osu.ppy.sh/community/matches/105313028) |
+| Lower | **::Yukixo::{ user-id=17847877 }** ::{ flag=PH }:: | **7** | 3 | ::{ flag=ID }:: ::moyamoyano\_sa::{ user-id=3891439 } | [#1](https://osu.ppy.sh/community/matches/105313354) |
 
 ### Quarterfinals
 
@@ -358,32 +358,32 @@ Friday, 18 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[malvon](https://osu.ppy.sh/users/11113661)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=MY }:: [Amatsuka Uto](https://osu.ppy.sh/users/9364594) | [#1](https://osu.ppy.sh/community/matches/105128014) |
-| Upper | [Moroha29](https://osu.ppy.sh/users/9182389) ::{ flag=SG }:: | 2 | **6** | ::{ flag=ID }:: **[-TwiHD](https://osu.ppy.sh/users/5470299)** | [#1](https://osu.ppy.sh/community/matches/105128910) |
-| Lower | **[bluezenithgames](https://osu.ppy.sh/users/12681578)** ::{ flag=PH }:: | **6** | 5 | ::{ flag=ID }:: [Contra](https://osu.ppy.sh/users/12011863) | [#1](https://osu.ppy.sh/community/matches/105128797) |
-| Lower | [uniqly](https://osu.ppy.sh/users/8876527) ::{ flag=SG }:: | 3 | **6** | ::{ flag=PH }:: **[Miggie](https://osu.ppy.sh/users/12028437)** | [#1](https://osu.ppy.sh/community/matches/105125552) |
-| Lower | [Estella fanboy](https://osu.ppy.sh/users/19052463) ::{ flag=TH }:: | 0 | **6** | ::{ flag=PH }:: **[Hinatsuru Ai](https://osu.ppy.sh/users/10442993)** | *win by default* |
+| Lower | **::malvon::{ user-id=11113661 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=MY }:: ::Amatsuka Uto::{ user-id=9364594 } | [#1](https://osu.ppy.sh/community/matches/105128014) |
+| Upper | ::Moroha29::{ user-id=9182389 } ::{ flag=SG }:: | 2 | **6** | ::{ flag=ID }:: **::-TwiHD::{ user-id=5470299 }** | [#1](https://osu.ppy.sh/community/matches/105128910) |
+| Lower | **::bluezenithgames::{ user-id=12681578 }** ::{ flag=PH }:: | **6** | 5 | ::{ flag=ID }:: ::Contra::{ user-id=12011863 } | [#1](https://osu.ppy.sh/community/matches/105128797) |
+| Lower | ::uniqly::{ user-id=8876527 } ::{ flag=SG }:: | 3 | **6** | ::{ flag=PH }:: **::Miggie::{ user-id=12028437 }** | [#1](https://osu.ppy.sh/community/matches/105125552) |
+| Lower | ::Estella fanboy::{ user-id=19052463 } ::{ flag=TH }:: | 0 | **6** | ::{ flag=PH }:: **::Hinatsuru Ai::{ user-id=10442993 }** | *win by default* |
 
 Saturday, 19 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [xidorn](https://osu.ppy.sh/users/7904667) ::{ flag=PH }:: | 5 | **6** | ::{ flag=ID }:: **[Hazui](https://osu.ppy.sh/users/9919208)** | [#1](https://osu.ppy.sh/community/matches/105151234) |
-| Lower | **[Anderwear](https://osu.ppy.sh/users/14429830)** ::{ flag=SG }:: | **6** | 2 | ::{ flag=PH }:: [MarvelWizardKH](https://osu.ppy.sh/users/5356586) | [#1](https://osu.ppy.sh/community/matches/105151571) |
-| Lower | [caetrn](https://osu.ppy.sh/users/9182389) ::{ flag=PH }:: | 3 | **6** | ::{ flag=ID }:: **[Azasapag](https://osu.ppy.sh/users/18347666)** | [#1](https://osu.ppy.sh/community/matches/105149108) |
-| Lower | **[moyamoyano\_sa](https://osu.ppy.sh/users/3891439)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [-Ayame](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/105154281) |
-| Lower | [Miggie](https://osu.ppy.sh/users/12028437) ::{ flag=PH }:: | 2 | **6** | ::{ flag=PH }:: **[bluezenithgames](https://osu.ppy.sh/users/12681578)** | [#1](https://osu.ppy.sh/community/matches/105153029) |
+| Lower | ::xidorn::{ user-id=7904667 } ::{ flag=PH }:: | 5 | **6** | ::{ flag=ID }:: **::Hazui::{ user-id=9919208 }** | [#1](https://osu.ppy.sh/community/matches/105151234) |
+| Lower | **::Anderwear::{ user-id=14429830 }** ::{ flag=SG }:: | **6** | 2 | ::{ flag=PH }:: ::MarvelWizardKH::{ user-id=5356586 } | [#1](https://osu.ppy.sh/community/matches/105151571) |
+| Lower | ::caetrn::{ user-id=9182389 } ::{ flag=PH }:: | 3 | **6** | ::{ flag=ID }:: **::Azasapag::{ user-id=18347666 }** | [#1](https://osu.ppy.sh/community/matches/105149108) |
+| Lower | **::moyamoyano\_sa::{ user-id=3891439 }** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: ::-Ayame::{ user-id=7128826 } | [#1](https://osu.ppy.sh/community/matches/105154281) |
+| Lower | ::Miggie::{ user-id=12028437 } ::{ flag=PH }:: | 2 | **6** | ::{ flag=PH }:: **::bluezenithgames::{ user-id=12681578 }** | [#1](https://osu.ppy.sh/community/matches/105153029) |
 
 Sunday, 20 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=SG }:: [JokThree](https://osu.ppy.sh/users/7713152) | [#1](https://osu.ppy.sh/community/matches/105175847) |
-| Lower | **[Hinatsuru Ai](https://osu.ppy.sh/users/10442993)** ::{ flag=PH }:: | **6** | 3 | ::{ flag=ID }:: [Hazui](https://osu.ppy.sh/users/9919208) | [#1](https://osu.ppy.sh/community/matches/105173027) |
-| Upper | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **6** | 2 | ::{ flag=MY }:: [iraozm](https://osu.ppy.sh/users/12443104) | [#1](https://osu.ppy.sh/community/matches/105179796) |
-| Lower | [Anderwear](https://osu.ppy.sh/users/14429830) ::{ flag=SG }:: | 3 | **6** | ::{ flag=ID }:: **[moyamoyano\_sa](https://osu.ppy.sh/users/3891439)** | [#1](https://osu.ppy.sh/community/matches/105180095) |
-| Upper | **[LouisZPro](https://osu.ppy.sh/users/6231292)** ::{ flag=MY }:: | **6** | 1 | ::{ flag=PH }:: [Yukixo](https://osu.ppy.sh/users/17847877) | [#1](https://osu.ppy.sh/community/matches/105180004) |
-| Lower | [malvon](https://osu.ppy.sh/users/11113661) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[Azasapag](https://osu.ppy.sh/users/18347666)** | [#1](https://osu.ppy.sh/community/matches/105175127) |
+| Upper | **::BlankTap::{ user-id=10137131 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=SG }:: ::JokThree::{ user-id=7713152 } | [#1](https://osu.ppy.sh/community/matches/105175847) |
+| Lower | **::Hinatsuru Ai::{ user-id=10442993 }** ::{ flag=PH }:: | **6** | 3 | ::{ flag=ID }:: ::Hazui::{ user-id=9919208 } | [#1](https://osu.ppy.sh/community/matches/105173027) |
+| Upper | **::chests::{ user-id=14806365 }** ::{ flag=TH }:: | **6** | 2 | ::{ flag=MY }:: ::iraozm::{ user-id=12443104 } | [#1](https://osu.ppy.sh/community/matches/105179796) |
+| Lower | ::Anderwear::{ user-id=14429830 } ::{ flag=SG }:: | 3 | **6** | ::{ flag=ID }:: **::moyamoyano\_sa::{ user-id=3891439 }** | [#1](https://osu.ppy.sh/community/matches/105180095) |
+| Upper | **::LouisZPro::{ user-id=6231292 }** ::{ flag=MY }:: | **6** | 1 | ::{ flag=PH }:: ::Yukixo::{ user-id=17847877 } | [#1](https://osu.ppy.sh/community/matches/105180004) |
+| Lower | ::malvon::{ user-id=11113661 } ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **::Azasapag::{ user-id=18347666 }** | [#1](https://osu.ppy.sh/community/matches/105175127) |
 
 ### Round of 16
 
@@ -391,32 +391,32 @@ Friday, 11 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Contra](https://osu.ppy.sh/users/12011863)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/104987552) |
-| Upper | **[LouisZPro](https://osu.ppy.sh/users/6231292)** ::{ flag=MY }:: | **6** | 2 | ::{ flag=PH }:: [bluezenithgames](https://osu.ppy.sh/users/12681578) | [#1](https://osu.ppy.sh/community/matches/104992308) |
-| Lower | [gkyla](https://osu.ppy.sh/users/5638585) ::{ flag=ID }:: | 4 | **6** | ::{ flag=MY }:: **[Amatsuka Uto](https://osu.ppy.sh/users/9364594)** | [#1](https://osu.ppy.sh/community/matches/104988029) |
-| Lower | **[Hazui](https://osu.ppy.sh/users/9919208)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | *win by default* |
+| Lower | **::Contra::{ user-id=12011863 }** ::{ flag=ID }:: | **6** | 4 | ::{ flag=MY }:: ::Jolene::{ user-id=13626098 } | [#1](https://osu.ppy.sh/community/matches/104987552) |
+| Upper | **::LouisZPro::{ user-id=6231292 }** ::{ flag=MY }:: | **6** | 2 | ::{ flag=PH }:: ::bluezenithgames::{ user-id=12681578 } | [#1](https://osu.ppy.sh/community/matches/104992308) |
+| Lower | ::gkyla::{ user-id=5638585 } ::{ flag=ID }:: | 4 | **6** | ::{ flag=MY }:: **::Amatsuka Uto::{ user-id=9364594 }** | [#1](https://osu.ppy.sh/community/matches/104988029) |
+| Lower | **::Hazui::{ user-id=9919208 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=SG }:: ::Inquisitives::{ user-id=10722794 } | *win by default* |
 
 Saturday, 12 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Chooga](https://osu.ppy.sh/users/9477784) ::{ flag=PH }:: | 0 | **6** | ::{ flag=PH }:: **[Miggie](https://osu.ppy.sh/users/12028437)** | [#1](https://osu.ppy.sh/community/matches/105013687) |
-| Lower | **[Azasapag](https://osu.ppy.sh/users/18347666)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) | [#1](https://osu.ppy.sh/community/matches/105012605) |
-| Upper | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **6** | 1 | ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439) | [#1](https://osu.ppy.sh/community/matches/105015077) |
-| Lower | [Caviar-](https://osu.ppy.sh/users/10474988) ::{ flag=ID }:: | 1 | **6** | ::{ flag=PH }:: **[MarvelWizardKH](https://osu.ppy.sh/users/5356586)** | [#1](https://osu.ppy.sh/community/matches/105013739) |
-| Upper | [Anderwear](https://osu.ppy.sh/users/14429830) ::{ flag=SG }:: | 5 | **6** | ::{ flag=MY }:: **[iraozm](https://osu.ppy.sh/users/12443104)** | [#1](https://osu.ppy.sh/community/matches/105016303) |
-| Lower | [Grandidierite](https://osu.ppy.sh/users/11976077) ::{ flag=ID }:: | 1 | **6** | ::{ flag=PH }:: **[Hinatsuru Ai](https://osu.ppy.sh/users/10442993)** | [#1](https://osu.ppy.sh/community/matches/105012500) |
-| Upper | [Estella fanboy](https://osu.ppy.sh/users/19052463) ::{ flag=TH }:: | 5 | **6** | ::{ flag=SG }:: **[JokThree](https://osu.ppy.sh/users/7713152)** | [#1](https://osu.ppy.sh/community/matches/105010897) |
-| Upper | **[Moroha29](https://osu.ppy.sh/users/9182389)** ::{ flag=SG }:: | **6** | 0 | ::{ flag=PH }:: [caetrn](https://osu.ppy.sh/users/18425276) | *win by default* |
-| Lower | **[-Ayame](https://osu.ppy.sh/users/7128826)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [NaFish](https://osu.ppy.sh/users/9974314) | *win by default* |
+| Lower | ::Chooga::{ user-id=9477784 } ::{ flag=PH }:: | 0 | **6** | ::{ flag=PH }:: **::Miggie::{ user-id=12028437 }** | [#1](https://osu.ppy.sh/community/matches/105013687) |
+| Lower | **::Azasapag::{ user-id=18347666 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::Seox::{ user-id=3793938 } | [#1](https://osu.ppy.sh/community/matches/105012605) |
+| Upper | **::chests::{ user-id=14806365 }** ::{ flag=TH }:: | **6** | 1 | ::{ flag=ID }:: ::moyamoyano\_sa::{ user-id=3891439 } | [#1](https://osu.ppy.sh/community/matches/105015077) |
+| Lower | ::Caviar-::{ user-id=10474988 } ::{ flag=ID }:: | 1 | **6** | ::{ flag=PH }:: **::MarvelWizardKH::{ user-id=5356586 }** | [#1](https://osu.ppy.sh/community/matches/105013739) |
+| Upper | ::Anderwear::{ user-id=14429830 } ::{ flag=SG }:: | 5 | **6** | ::{ flag=MY }:: **::iraozm::{ user-id=12443104 }** | [#1](https://osu.ppy.sh/community/matches/105016303) |
+| Lower | ::Grandidierite::{ user-id=11976077 } ::{ flag=ID }:: | 1 | **6** | ::{ flag=PH }:: **::Hinatsuru Ai::{ user-id=10442993 }** | [#1](https://osu.ppy.sh/community/matches/105012500) |
+| Upper | ::Estella fanboy::{ user-id=19052463 } ::{ flag=TH }:: | 5 | **6** | ::{ flag=SG }:: **::JokThree::{ user-id=7713152 }** | [#1](https://osu.ppy.sh/community/matches/105010897) |
+| Upper | **::Moroha29::{ user-id=9182389 }** ::{ flag=SG }:: | **6** | 0 | ::{ flag=PH }:: ::caetrn::{ user-id=18425276 } | *win by default* |
+| Lower | **::-Ayame::{ user-id=7128826 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: ::NaFish::{ user-id=9974314 } | *win by default* |
 
 Sunday, 13 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [malvon](https://osu.ppy.sh/users/11113661) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[-TwiHD](https://osu.ppy.sh/users/5470299)** | [#1](https://osu.ppy.sh/community/matches/105041119) |
-| Upper | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667) | [#1](https://osu.ppy.sh/community/matches/105038415) |
-| Upper | **[Yukixo](https://osu.ppy.sh/users/17847877)** ::{ flag=PH }:: | **3** | 4 | ::{ flag=SG }:: [uniqly](https://osu.ppy.sh/users/8876527) | [#1](https://osu.ppy.sh/community/matches/105041215) |
+| Upper | ::malvon::{ user-id=11113661 } ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **::-TwiHD::{ user-id=5470299 }** | [#1](https://osu.ppy.sh/community/matches/105041119) |
+| Upper | **::BlankTap::{ user-id=10137131 }** ::{ flag=ID }:: | **6** | 4 | ::{ flag=PH }:: ::xidorn::{ user-id=7904667 } | [#1](https://osu.ppy.sh/community/matches/105038415) |
+| Upper | **::Yukixo::{ user-id=17847877 }** ::{ flag=PH }:: | **3** | 4 | ::{ flag=SG }:: ::uniqly::{ user-id=8876527 } | [#1](https://osu.ppy.sh/community/matches/105041215) |
 
 ### Round of 32
 
@@ -424,32 +424,32 @@ Friday, 4 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[iraozm](https://osu.ppy.sh/users/12443104)** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: [Jolene](https://osu.ppy.sh/users/13626098) | [#1](https://osu.ppy.sh/community/matches/104848905) |
-| Upper | **[chests](https://osu.ppy.sh/users/14806365)** ::{ flag=TH }:: | **5** | 0 | ::{ flag=PH }:: [Chooga](https://osu.ppy.sh/users/9477784) | [#1](https://osu.ppy.sh/community/matches/104850024) |
-| Upper | **[Anderwear](https://osu.ppy.sh/users/14429830)** ::{ flag=SG }:: | **5** | 4 | ::{ flag=ID }:: [Contra](https://osu.ppy.sh/users/12011863) | [#1](https://osu.ppy.sh/community/matches/104848226) |
-| Upper | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [gkyla](https://osu.ppy.sh/users/5638585) | *win by default* |
+| Upper | **::iraozm::{ user-id=12443104 }** ::{ flag=MY }:: | **5** | 3 | ::{ flag=MY }:: ::Jolene::{ user-id=13626098 } | [#1](https://osu.ppy.sh/community/matches/104848905) |
+| Upper | **::chests::{ user-id=14806365 }** ::{ flag=TH }:: | **5** | 0 | ::{ flag=PH }:: ::Chooga::{ user-id=9477784 } | [#1](https://osu.ppy.sh/community/matches/104850024) |
+| Upper | **::Anderwear::{ user-id=14429830 }** ::{ flag=SG }:: | **5** | 4 | ::{ flag=ID }:: ::Contra::{ user-id=12011863 } | [#1](https://osu.ppy.sh/community/matches/104848226) |
+| Upper | **::BlankTap::{ user-id=10137131 }** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: ::gkyla::{ user-id=5638585 } | *win by default* |
 
 Saturday, 5 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[malvon](https://osu.ppy.sh/users/11113661)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Hazui](https://osu.ppy.sh/users/9919208) | [#1](https://osu.ppy.sh/community/matches/104874530) |
-| Upper | [NaFish](https://osu.ppy.sh/users/9974314) ::{ flag=ID }:: | 4 | **5** | ::{ flag=SG }:: **[uniqly](https://osu.ppy.sh/users/8876527)** | [#1](https://osu.ppy.sh/community/matches/104873289) |
-| Upper | **[Estella fanboy](https://osu.ppy.sh/users/19052463)** ::{ flag=TH }:: | **5** | 1 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | [#1](https://osu.ppy.sh/community/matches/104874668) |
-| Upper | **[caetrn](https://osu.ppy.sh/users/18425276)** ::{ flag=PH }:: | **5** | 2 | ::{ flag=MY }:: [Hinatsuru Ai](https://osu.ppy.sh/users/10442993) | [#1](https://osu.ppy.sh/community/matches/104848226) |
+| Upper | **::malvon::{ user-id=11113661 }** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: ::Hazui::{ user-id=9919208 } | [#1](https://osu.ppy.sh/community/matches/104874530) |
+| Upper | ::NaFish::{ user-id=9974314 } ::{ flag=ID }:: | 4 | **5** | ::{ flag=SG }:: **::uniqly::{ user-id=8876527 }** | [#1](https://osu.ppy.sh/community/matches/104873289) |
+| Upper | **::Estella fanboy::{ user-id=19052463 }** ::{ flag=TH }:: | **5** | 1 | ::{ flag=ID }:: ::Azasapag::{ user-id=18347666 } | [#1](https://osu.ppy.sh/community/matches/104874668) |
+| Upper | **::caetrn::{ user-id=18425276 }** ::{ flag=PH }:: | **5** | 2 | ::{ flag=MY }:: ::Hinatsuru Ai::{ user-id=10442993 } | [#1](https://osu.ppy.sh/community/matches/104848226) |
 
 Sunday, 6 November 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[bluezenithgames](https://osu.ppy.sh/users/12681578)** ::{ flag=PH }:: | **5** | 3 | ::{ flag=PH }:: [MarvelWizardKH](https://osu.ppy.sh/users/5356586) | [#1](https://osu.ppy.sh/community/matches/104899284) |
-| Upper | **[xidorn](https://osu.ppy.sh/users/7904667)** ::{ flag=PH }:: | **5** | 3 | ::{ flag=MY }:: [Amatsuka Uto](https://osu.ppy.sh/users/9364594) | [#1](https://osu.ppy.sh/community/matches/104898329) |
-| Upper | [Seox](https://osu.ppy.sh/users/3793938) ::{ flag=ID }:: | 1 | **5** | ::{ flag=SG }:: **[JokThree](https://osu.ppy.sh/users/7713152)** | [#1](https://osu.ppy.sh/community/matches/104899939) |
-| Upper | **[LouisZPro](https://osu.ppy.sh/users/6231292)** ::{ flag=MY }:: | **5** | 1 | ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988) | [#1](https://osu.ppy.sh/community/matches/104901043) |
-| Upper | **[Yukixo](https://osu.ppy.sh/users/17847877)** ::{ flag=PH }:: | **5** | 3 | ::{ flag=ID }:: [-Ayame](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/104901104) |
-| Upper | **[Moroha29](https://osu.ppy.sh/users/10137131)** ::{ flag=SG }:: | **5** | 0 | ::{ flag=ID }:: [Grandidierite](https://osu.ppy.sh/users/11976077) | *win by default* |
-| Upper | [Miggie](https://osu.ppy.sh/users/12028437) ::{ flag=PH }:: | 0 | **5** | ::{ flag=ID }:: **[moyamoyano\_sa](https://osu.ppy.sh/users/3891439)** | *win by default* |
-| Upper | **[-TwiHD](https://osu.ppy.sh/users/5470299)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | *win by default* |
+| Upper | **::bluezenithgames::{ user-id=12681578 }** ::{ flag=PH }:: | **5** | 3 | ::{ flag=PH }:: ::MarvelWizardKH::{ user-id=5356586 } | [#1](https://osu.ppy.sh/community/matches/104899284) |
+| Upper | **::xidorn::{ user-id=7904667 }** ::{ flag=PH }:: | **5** | 3 | ::{ flag=MY }:: ::Amatsuka Uto::{ user-id=9364594 } | [#1](https://osu.ppy.sh/community/matches/104898329) |
+| Upper | ::Seox::{ user-id=3793938 } ::{ flag=ID }:: | 1 | **5** | ::{ flag=SG }:: **::JokThree::{ user-id=7713152 }** | [#1](https://osu.ppy.sh/community/matches/104899939) |
+| Upper | **::LouisZPro::{ user-id=6231292 }** ::{ flag=MY }:: | **5** | 1 | ::{ flag=ID }:: ::Caviar-::{ user-id=10474988 } | [#1](https://osu.ppy.sh/community/matches/104901043) |
+| Upper | **::Yukixo::{ user-id=17847877 }** ::{ flag=PH }:: | **5** | 3 | ::{ flag=ID }:: ::-Ayame::{ user-id=7128826 } | [#1](https://osu.ppy.sh/community/matches/104901104) |
+| Upper | **::Moroha29::{ user-id=10137131 }** ::{ flag=SG }:: | **5** | 0 | ::{ flag=ID }:: ::Grandidierite::{ user-id=11976077 } | *win by default* |
+| Upper | ::Miggie::{ user-id=12028437 } ::{ flag=PH }:: | 0 | **5** | ::{ flag=ID }:: **::moyamoyano\_sa::{ user-id=3891439 }** | *win by default* |
+| Upper | **::-TwiHD::{ user-id=5470299 }** ::{ flag=ID }:: | **5** | 0 | ::{ flag=SG }:: ::Inquisitives::{ user-id=10722794 } | *win by default* |
 
 ## Ruleset
 

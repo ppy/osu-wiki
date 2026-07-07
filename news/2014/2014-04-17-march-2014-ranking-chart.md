@@ -26,7 +26,7 @@ Congratulations to winner of the January Ranking Charts 2014:
 
 **Catch the Beat**
 
-- **1st** [\[_Crystal\]](https://osu.ppy.sh/users/1646397) \- 1 month supporter
+- **1st** ::\[\1Crystal\]::{ user-id=1646397 } \- 1 month supporter
 - **2nd** [Awabiz](https://osu.ppy.sh/users/Awabiz)
 - **3rd** [\_Lorenzo\_](https://osu.ppy.sh/users/_Lorenzo_)
 
@@ -58,7 +58,7 @@ Moreover, congratulations to the winners of February Ranking Charts 2014:
 
 **osu!mania**
 
-- **1st** [\- R e b a -](https://osu.ppy.sh/users/3087654) \- 1 month supporter
+- **1st** ::\- R e b a -::{ user-id=3087654 } \- 1 month supporter
 - **2nd** [Cryolien](https://osu.ppy.sh/users/Cryolien)
 - **3rd** [iLLUi](https://osu.ppy.sh/users/iLLUi)
 

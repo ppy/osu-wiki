@@ -13,7 +13,7 @@ Founder of the music label *Foxtail-Grass Studio*, you might already be familiar
 
 With an expansive and emotive sound, we're absolutely confident that you'll love what **Hamu** has to offer, so we've partnered up to snag **16** new tracks across his entire range, from slow meandering through moonlit vistas to head-bopping, high-energy J-Pop that'll get stuck in your head for the rest of all eternity.
 
-Thanks to the crowned creators of the [Mappers' Guild](https://mappersguild.com/), we're also excited to showcase an all-new beatmap to get things rolling, played by esteemed osu! veteran [Mlaw](https://osu.ppy.sh/users/3126596) and corn connoisseur [Woey](https://osu.ppy.sh/users/3792472) IRL at COE2022:
+Thanks to the crowned creators of the [Mappers' Guild](https://mappersguild.com/), we're also excited to showcase an all-new beatmap to get things rolling, played by esteemed osu! veteran ::Mlaw::{ user-id=3126596 } and corn connoisseur ::Woey::{ user-id=3792472 } IRL at COE2022:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ Thanks to the crowned creators of the [Mappers' Guild](https://mappersguild.com/
 
 ### Secret Clover
 
-Check out [the beatmap featured in the video above](https://osu.ppy.sh/beatmapsets/1815789) made by [Heroine](https://osu.ppy.sh/users/12727076) of the Mappers' Guild!
+Check out [the beatmap featured in the video above](https://osu.ppy.sh/beatmapsets/1815789) made by ::Heroine::{ user-id=12727076 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/289/Songs/Hamu%20-%20Secret%20Clover.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [the beatmap featured in the video above](https://osu.ppy.sh/beatmapse
 
 ### Lemrina
 
-Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/1799400) hosted by [Usaha](https://osu.ppy.sh/users/6443117) of the Mappers' Guild!
+Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/1799400) hosted by ::Usaha::{ user-id=6443117 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/289/Songs/Hamu%20-%20Lemrina.mp3" type="audio/mpeg">

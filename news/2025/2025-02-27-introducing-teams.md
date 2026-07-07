@@ -9,7 +9,7 @@ These are not "clans", they're not "subdivisions", nor are they "guilds" — the
 
 ![](/wiki/shared/news/2025-02-27-introducing-teams/banner.jpg)
 
-It's time for a [15-year-old feature request](https://osu.ppy.sh/community/forums/topics/29780) to see reality. This feature which was once requested by [[Sean]](https://osu.ppy.sh/users/202721) 14 years, 9 months and 10 days before it would be implemented, ended up amassing a total star priority of **+11,744** over the years. An idea which was widely supported by the community up to this day has finally come into fruition!
+It's time for a [15-year-old feature request](https://osu.ppy.sh/community/forums/topics/29780) to see reality. This feature which was once requested by ::\1Sean\1::{ user-id=202721 } 14 years, 9 months and 10 days before it would be implemented, ended up amassing a total star priority of **+11,744** over the years. An idea which was widely supported by the community up to this day has finally come into fruition!
 
 Despite how many years have passed since the inception of the idea, the core goals of the feature remain the same: to grow and nurture osu!'s many, scattered sub-communities. Users can find new ways to engage with other like-minded members with many of the new features to come. We always knew this was a community game, but this feature will make this aspect ever so slightly more prevalent!
 

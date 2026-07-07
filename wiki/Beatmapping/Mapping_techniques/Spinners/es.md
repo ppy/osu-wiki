@@ -8,14 +8,14 @@ outdated: true
 
 ### Nota después de un spinner
 
-Nominador: [NoHItter](https://osu.ppy.sh/users/124455)
+Nominador: ::NoHItter::{ user-id=124455 }
 
 La **nota después de un spinner** se compone de un objeto después de un spinner largo.
 Suele colocarse al final de la canción.
 
 ### Nota antes de un spinner
 
-Nominador: [NoHItter](https://osu.ppy.sh/users/124455)
+Nominador: ::NoHItter::{ user-id=124455 }
 
 La **nota antes de un spinner** se compone de un objeto que se coloca justo antes de un spinner.
 Este objeto da el *ritmo* mientras que el spinner proporciona la resolución a ese *ritmo*.
@@ -28,7 +28,7 @@ Los mapas antiguos solían superponer estos objetos y el spinner.
 
 ### Spinners dobles
 
-Nominador: [Lilac](https://osu.ppy.sh/users/58197)
+Nominador: ::Lilac::{ user-id=58197 }
 
 Los **spinners dobles** se explican por sí solos.
 Se colocan dos spinners uno detrás del otro, normalmente para crear un hitsound para el siguiente spinner sin usar un círculo o una [nota antes del spinner](#nota-antes-de-un-spinner).

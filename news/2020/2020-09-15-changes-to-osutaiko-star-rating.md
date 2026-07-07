@@ -11,7 +11,7 @@ Exemplars among the osu!taiko community have come together to push forward a bra
 
 Over the past many months, some astute osu!taiko fanatics have come together in the [osu!dev #difficulty-taiko Discord channel](https://discord.com/invite/ppy) in order to fix some long-standing issues with how Star Rating is calculated as the mapping scene has developed.
 
-Foremost among them, [morth1](https://osu.ppy.sh/users/7246874) has led the charge with a full-scale implementation of what can only be described as sweeping changes across multiple aspects of play. We'll be covering a simplified version of the changes in this article - if you're after the nitty gritty technical details (and math!), consult [this Google document](https://docs.google.com/document/d/1JjHSh6Gzigja0thJDiHwW4E1oH3fxcS0Pze5HJXLErk/edit#heading=h.ybas4q9w8ba1) written by morth1 himself.
+Foremost among them, ::morth1::{ user-id=7246874 } has led the charge with a full-scale implementation of what can only be described as sweeping changes across multiple aspects of play. We'll be covering a simplified version of the changes in this article - if you're after the nitty gritty technical details (and math!), consult [this Google document](https://docs.google.com/document/d/1JjHSh6Gzigja0thJDiHwW4E1oH3fxcS0Pze5HJXLErk/edit#heading=h.ybas4q9w8ba1) written by morth1 himself.
 
 These changes should make it so that Star Rating much more accurately reflects the actual difficulty of a map, versus how it was previously where it only really described how much a mapper was capable of cheesing it, especially at the high end of the difficulty spectrum.
 
@@ -123,7 +123,7 @@ This means that across the board, the Star Ratings of top level maps have genera
 
 ---
 
-A huge thank you goes out to [morth1](https://osu.ppy.sh/users/7246874) for pioneering much of these changes and soliciting the osu!taiko community for feedback during the process. Another big thank you goes to [bdach](https://github.com/bdach) for helping to describe much of these changes and for contributions to the code.
+A huge thank you goes out to ::morth1::{ user-id=7246874 } for pioneering much of these changes and soliciting the osu!taiko community for feedback during the process. Another big thank you goes to [bdach](https://github.com/bdach) for helping to describe much of these changes and for contributions to the code.
 
 We hope these changes help you better navigate the catalog of osu!taiko maps out there!
 

@@ -17,7 +17,7 @@ When listening through previews for these Featured Artist announcements, it's al
 
 ### [lexxndr - The Beginning](https://assets.ppy.sh/artists/510/the%20beginning%20and%20the%20end/lexxndr%20-%20the%20beginning.osz)
 
-[EPIC46](https://osu.ppy.sh/home/news/2025-09-16-osu-uk-epic46) may have ended last week, but we still hear echoes of [chromb](https://osu.ppy.sh/users/10238680)'s keyboard tapping to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2432317) hosted by [iRedi](https://osu.ppy.sh/users/8005579).
+[EPIC46](https://osu.ppy.sh/home/news/2025-09-16-osu-uk-epic46) may have ended last week, but we still hear echoes of ::chromb::{ user-id=10238680 }'s keyboard tapping to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2432317) hosted by ::iRedi::{ user-id=8005579 }.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

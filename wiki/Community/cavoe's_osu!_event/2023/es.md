@@ -55,14 +55,14 @@ COE 2023 estuvo dirigido por varios miembros de la comunidad y organizaciones as
 
 | Posición | Miembro(s) |
 | :-- | :-- |
-| Organizador | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) |
-| Desarrollador/técnico | ::{ flag=NL }:: [Bram](https://osu.ppy.sh/users/7581482), ::{ flag=NL }:: [Ethereal](https://osu.ppy.sh/users/9357932), ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=NL }:: [OMKelderman](https://osu.ppy.sh/users/2756335), ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
-| Coordinador de escenario | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835), ::{ flag=NL }:: [Hyruler](https://osu.ppy.sh/users/7161345), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
-| Personal del torneo | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Coordinador de actividades externas | ::{ flag=NL }:: [Anass](https://osu.ppy.sh/users/19743946), ::{ flag=MA }:: [clorox\_1g](https://osu.ppy.sh/users/9702728) |
-| Diseñador | ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=NL }:: [uta](https://osu.ppy.sh/users/9315038) |
-| Jefe de piso | ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393), ::{ flag=GB }:: [shoshuu](https://osu.ppy.sh/users/10337355) |
-| Otros miembros del personal | ::{ flag=GB }:: [Argent Pride](https://osu.ppy.sh/users/12008928), ::{ flag=LT }:: [a Sensei](https://osu.ppy.sh/users/7053499), ::{ flag=NL }:: [CakeAndBanana](https://osu.ppy.sh/users/1981424), ::{ flag=DE }:: [egedi](https://osu.ppy.sh/users/3975137), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=DE }:: [helenkiller](https://osu.ppy.sh/users/16182877), ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807), ::{ flag=DE }:: [khz](https://osu.ppy.sh/users/9254536), ::{ flag=BE }:: [LGM](https://osu.ppy.sh/users/24518245), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=DE }:: [Massive](https://osu.ppy.sh/users/11163973), ::{ flag=FR }:: [Mimi](https://osu.ppy.sh/users/7117621), ::{ flag=DE }:: [Mou](https://osu.ppy.sh/users/1453009), ::{ flag=DE }:: [neoekn](https://osu.ppy.sh/users/23574071), ::{ flag=BE }:: [Nino](https://osu.ppy.sh/users/10081296), ::{ flag=FI }:: [Riv](https://osu.ppy.sh/users/8019011), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438), ::{ flag=BE }:: [Tiddo](https://osu.ppy.sh/users/11257873), ::{ flag=GB }:: [Tomato](https://osu.ppy.sh/users/9239206), ::{ flag=NL }:: [TomBoBotSer](https://osu.ppy.sh/users/7273315), ::{ flag=NL }:: [Toshii](https://osu.ppy.sh/users/12091138), ::{ flag=NL }:: [Yael](https://osu.ppy.sh/users/3875866) |
+| Organizador | ::{ flag=NL }:: ::cavoeboy::{ user-id=7361815 }, ::{ flag=DE }:: ::Meyer::{ user-id=5452367 } |
+| Desarrollador/técnico | ::{ flag=NL }:: ::Bram::{ user-id=7581482 }, ::{ flag=NL }:: ::Ethereal::{ user-id=9357932 }, ::{ flag=DE }:: ::hallowatcher::{ user-id=1874761 }, ::{ flag=PL }:: ::LiquidPL::{ user-id=5044384 }, ::{ flag=DE }:: ::Meyer::{ user-id=5452367 }, ::{ flag=NL }:: ::OMKelderman::{ user-id=2756335 }, ::{ flag=AU }:: ::Syrin::{ user-id=5701575 }, ::{ flag=FR }:: ::ThePooN::{ user-id=718454 } |
+| Coordinador de escenario | ::{ flag=CA }:: ::Gordon::{ user-id=7856835 }, ::{ flag=NL }:: ::Hyruler::{ user-id=7161345 }, ::{ flag=FR }:: ::Nozhomi::{ user-id=2716981 }, ::{ flag=FR }:: ::ThePooN::{ user-id=718454 } |
+| Personal del torneo | ::{ flag=US }:: ::ChillierPear::{ user-id=9501251 }, ::{ flag=FR }:: ::Kasumi-sama::{ user-id=6177263 }, ::{ flag=DE }:: ::TheHunter1::{ user-id=6496016 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 } |
+| Coordinador de actividades externas | ::{ flag=NL }:: ::Anass::{ user-id=19743946 }, ::{ flag=MA }:: ::clorox\_1g::{ user-id=9702728 } |
+| Diseñador | ::{ flag=DE }:: ::Meyer::{ user-id=5452367 }, ::{ flag=NL }:: ::uta::{ user-id=9315038 } |
+| Jefe de piso | ::{ flag=NL }:: ::n0ah::{ user-id=3086393 }, ::{ flag=GB }:: ::shoshuu::{ user-id=10337355 } |
+| Otros miembros del personal | ::{ flag=GB }:: ::Argent Pride::{ user-id=12008928 }, ::{ flag=LT }:: ::a Sensei::{ user-id=7053499 }, ::{ flag=NL }:: ::CakeAndBanana::{ user-id=1981424 }, ::{ flag=DE }:: ::egedi::{ user-id=3975137 }, ::{ flag=FR }:: ::floflim::{ user-id=5954015 }, ::{ flag=DE }:: ::helenkiller::{ user-id=16182877 }, ::{ flag=NL }:: ::jackylam5::{ user-id=1540807 }, ::{ flag=DE }:: ::khz::{ user-id=9254536 }, ::{ flag=BE }:: ::LGM::{ user-id=24518245 }, ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 }, ::{ flag=DE }:: ::Massive::{ user-id=11163973 }, ::{ flag=FR }:: ::Mimi::{ user-id=7117621 }, ::{ flag=DE }:: ::Mou::{ user-id=1453009 }, ::{ flag=DE }:: ::neoekn::{ user-id=23574071 }, ::{ flag=BE }:: ::Nino::{ user-id=10081296 }, ::{ flag=FI }:: ::Riv::{ user-id=8019011 }, ::{ flag=NL }:: ::TaikoMom::{ user-id=9086438 }, ::{ flag=BE }:: ::Tiddo::{ user-id=11257873 }, ::{ flag=GB }:: ::Tomato::{ user-id=9239206 }, ::{ flag=NL }:: ::TomBoBotSer::{ user-id=7273315 }, ::{ flag=NL }:: ::Toshii::{ user-id=12091138 }, ::{ flag=NL }:: ::Yael::{ user-id=3875866 } |
 | Socios operativos | [osu!frlive](https://osufr.live/), [Wooting](https://next.wooting.io/), [WoozPC](https://woozpc.nl/), [Zed Up](https://www.zed-up.de/) |
 
 ## Eventos
@@ -133,12 +133,12 @@ Un torneo LAN de 1v1 organizado por el equipo de COE.
 | Exhibición de *Elite Beat Agents* | 31 de julio (15:00) | Exhibición de [Elite Beat Agents](https://es.wikipedia.org/wiki/Elite_Beat_Agents) para la Nintendo DS, la serie de juegos que junto con [Osu! Tatakae! Ouendan](https://es.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) fue la inspiración de osu! |
 | Survivor | 3 de agosto (12:30) | Un juego de trivia en el que se eliminaban a los jugadores que más se alejaban del número correcto |
 | Exhibición de osu!catch | 3 de agosto (14:30) | Jugadores experimentados en el evento de exhibición para osu!catch |
-| Concurso de preguntas y respuestas | 3 de agosto (17:30) | Un concurso de preguntas y respuestas conducido por ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) |
+| Concurso de preguntas y respuestas | 3 de agosto (17:30) | Un concurso de preguntas y respuestas conducido por ::{ flag=FI }:: ::Nyanaro::{ user-id=4157611 } |
 
 #### Escenario secundario
 
 | Evento | Marca de tiempo (UTC+2) | Descripción |
 | :-- | :-- | :-- |
-| Pub quiz | 31 de julio (20:00) | Un juego de trivia organizado por ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) y ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |
+| Pub quiz | 31 de julio (20:00) | Un juego de trivia organizado por ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 } y ::{ flag=GB }:: ::chromb::{ user-id=10238680 } |
 | *CS:GO* Wingman tournament | 3 de agosto (16:00-19:00) | Un torneo de *CS:GO* organizado por COE y WoozPC en el modo de juego Wingman |
 | Karaoke | 3 de agosto (19:00) | Un evento en el que cualquiera podía tomar el micrófono y cantar canciones con todo el mundo |

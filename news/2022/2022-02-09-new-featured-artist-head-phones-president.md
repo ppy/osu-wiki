@@ -23,7 +23,7 @@ An innovator in Japan's alternative heavy rock movement, 4-piece band **HEAD PHO
 
 ### Until I Die
 
-Dip your toes into [this osu! beatmap](https://osu.ppy.sh/beatmapsets/1692553) hosted by [Mordred](https://osu.ppy.sh/users/7265097) and seen in the video above!
+Dip your toes into [this osu! beatmap](https://osu.ppy.sh/beatmapsets/1692553) hosted by ::Mordred::{ user-id=7265097 } and seen in the video above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/238/Respawn/HEAD%20PHONES%20PRESIDENT%20-%20Until%20I%20Die.mp3" type="audio/mpeg">

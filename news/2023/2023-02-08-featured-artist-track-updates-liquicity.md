@@ -23,7 +23,7 @@ Anyway, take a gander at every newly added track, starting with this video of an
 
 ### Dan Dakota - Stood In The Dark
 
-Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1888924) hosted by [Garden](https://osu.ppy.sh/users/2849992)!
+Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1888924) hosted by ::Garden::{ user-id=2849992 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/340/Songs/Dan%20Dakota%20-%20Stood%20In%20The%20Dark.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1888924) h
 
 ### Priority One & Twothirds - City Needs Sleep (Fox Stevenson Remix)
 
-Or try [this million-play map](https://osu.ppy.sh/beatmapsets/821050) hosted by [SquareTude](https://osu.ppy.sh/users/6280862)!
+Or try [this million-play map](https://osu.ppy.sh/beatmapsets/821050) hosted by ::SquareTude::{ user-id=6280862 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/340/Songs/Priority%20One%20%26%20Twothirds%20-%20City%20Needs%20Sleep%20(Fox%20Stevenson%20Remix).mp3" type="audio/mpeg">

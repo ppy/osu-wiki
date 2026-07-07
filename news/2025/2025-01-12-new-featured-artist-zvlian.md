@@ -23,7 +23,7 @@ Take some inspiration from a couple **ZVLIAN** songs that have already been tran
 
 ### [ZVLIAN - SHIFTING GROUND](https://assets.ppy.sh/artists/455/SHIFTING%20GROUND/ZVLIAN%20-%20SHIFTING%20GROUND.osz)
 
-Check out [this multi-mode mapset](https://osu.ppy.sh/beatmapsets/2247612) hosted by [Daycore](https://osu.ppy.sh/users/5596337)!
+Check out [this multi-mode mapset](https://osu.ppy.sh/beatmapsets/2247612) hosted by ::Daycore::{ user-id=5596337 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/455/SHIFTING%20GROUND/ZVLIAN%20-%20SHIFTING%20GROUND.mp3">
@@ -31,7 +31,7 @@ Check out [this multi-mode mapset](https://osu.ppy.sh/beatmapsets/2247612) hoste
 
 ### [ZVLIAN - Worlds](https://assets.ppy.sh/artists/455/Worlds/ZVLIAN%20-%20Worlds.osz)
 
-Or try [this quick map](https://osu.ppy.sh/beatmapsets/2240082) hosted by [Nytrocide_](https://osu.ppy.sh/users/11327918)!
+Or try [this quick map](https://osu.ppy.sh/beatmapsets/2240082) hosted by ::Nytrocide\1::{ user-id=11327918 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/455/Worlds/ZVLIAN%20-%20Worlds.mp3">

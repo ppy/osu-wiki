@@ -23,36 +23,36 @@ Below you'll find a list of mentors for each game mode, alongside their time zon
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | UTC+1 |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | UTC-3 |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) | UTC-4 |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | UTC-5 |
-| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) & ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) (joint class) | UTC+5 & UTC+3 |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | UTC+3 |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | UTC-5 |
+| ::{ flag=SE }:: ::bite you death::{ user-id=6398464 } | UTC+1 |
+| ::{ flag=BR }:: ::Dada::{ user-id=9119507 } | UTC-3 |
+| ::{ flag=CA }:: ::Lafayla::{ user-id=5312547 } | UTC-4 |
+| ::{ flag=CN }:: ::Mafumafu::{ user-id=3076909 } | UTC-5 |
+| ::{ flag=RU }:: ::Mirash::{ user-id=2841009 } & ::{ flag=RU }:: ::NeKroMan4ik::{ user-id=11387664 } (joint class) | UTC+5 & UTC+3 |
+| ::{ flag=KR }:: ::momoyo::{ user-id=12469536 } | UTC+3 |
+| ::{ flag=US }:: ::Noffy::{ user-id=1541323 } | UTC-5 |
 
 ### ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko mentors
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) & ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) (joint class) | UTC+8 & UTC+1 |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | UTC+8 |
+| ::{ flag=SG }:: ::arcpotato::{ user-id=12842392 } & ::{ flag=AT }:: ::Yasuho::{ user-id=8458835 } (joint class) | UTC+8 & UTC+1 |
+| ::{ flag=HK }:: ::BlackBN::{ user-id=6291741 } | UTC+8 |
 
 ### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch mentors
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | UTC+1 |
+| ::{ flag=NL }:: ::Greaper::{ user-id=2369776 } | UTC+1 |
 
 ### ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania mentors
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | UTC-4 |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | UTC+7 |
-| ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | UTC+1 |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | UTC+1 |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | UTC+8 |
+| ::{ flag=DO }:: ::Antalf::{ user-id=8793773 } | UTC-4 |
+| ::{ flag=ID }:: ::Maxus::{ user-id=4335785 } | UTC+7 |
+| ::{ flag=NL }:: ::Muse Dash::{ user-id=13695676 } | UTC+1 |
+| ::{ flag=ES }:: ::RandomeLoL::{ user-id=7080063 } | UTC+1 |
+| ::{ flag=CN }:: ::Seiran-::{ user-id=14351534 } | UTC+8 |
 
 ---
 

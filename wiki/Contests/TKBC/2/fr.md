@@ -25,9 +25,9 @@ Le concours Taiko Korean Beatmap Contest #2 a été organisé par des membres de
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Gestionnaire | ::{ flag=KR }:: [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) |
-| Designer | ::{ flag=KR }:: [oL0](https://osu.ppy.sh/users/1134683) |
-| Juge | ::{ flag=KR }:: [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Ozu](https://osu.ppy.sh/users/980092) |
+| Gestionnaire | ::{ flag=KR }:: ::\[Karcher\] 2::{ user-id=9892196 }, ::{ flag=KR }:: ::Civil oath::{ user-id=3216107 } |
+| Designer | ::{ flag=KR }:: ::oL0::{ user-id=1134683 } |
+| Juge | ::{ flag=KR }:: ::\[Karcher\] 2::{ user-id=9892196 }, ::{ flag=KR }:: ::Petit::{ user-id=4637369 }, ::{ flag=KR }:: ::Ozu::{ user-id=980092 } |
 
 ## Prix
 
@@ -47,9 +47,9 @@ Cette compétition s'est achevée sur le podium suivant :
 
 | Classement | Utilisateur |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349) |
-| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=KR }:: [4\_4](https://osu.ppy.sh/users/1152851) |
-| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=KR }:: [ddm](https://osu.ppy.sh/users/7910282) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=KR }:: ::applerss::{ user-id=983349 } |
+| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=KR }:: ::4\_4::{ user-id=1152851 } |
+| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=KR }:: ::ddm::{ user-id=7910282 } |
 
 ## Règlement
 

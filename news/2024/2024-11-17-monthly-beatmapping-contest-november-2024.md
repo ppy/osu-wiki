@@ -33,8 +33,8 @@ This article covers results from the last contest, plus criteria for this contes
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Paraxia](https://osu.ppy.sh/users/14001000) | [Frums (unknown "λ") - 19ZZ](https://osu.ppy.sh/beatmapsets/2280917) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| Runner-up | [Irone OSU](https://osu.ppy.sh/users/10678230) | [Mili - Lemonade](https://osu.ppy.sh/beatmapsets/2281063) | - | +1 (1 total) |
+| Winner | ::Paraxia::{ user-id=14001000 } | [Frums (unknown "λ") - 19ZZ](https://osu.ppy.sh/beatmapsets/2280917) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
+| Runner-up | ::Irone OSU::{ user-id=10678230 } | [Mili - Lemonade](https://osu.ppy.sh/beatmapsets/2281063) | - | +1 (1 total) |
 
 #### Top 10
 
@@ -42,7 +42,7 @@ This article covers results from the last contest, plus criteria for this contes
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/mpjFNSPuQA0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Thanks to the usual judging crew for evaluating every map this month: [arcpotato](https://osu.ppy.sh/users/12842392), [meiqth](https://osu.ppy.sh/users/12565402), [Yasuho](https://osu.ppy.sh/users/8458835), and [SimplySynthy](https://osu.ppy.sh/users/15272997)!
+Thanks to the usual judging crew for evaluating every map this month: ::arcpotato::{ user-id=12842392 }, [meiqth](https://osu.ppy.sh/users/12565402), ::Yasuho::{ user-id=8458835 }, and [SimplySynthy](https://osu.ppy.sh/users/15272997)!
 
 ### osu!catch results
 
@@ -52,8 +52,8 @@ Thanks to the usual judging crew for evaluating every map this month: [arcpotato
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [-Ken](https://osu.ppy.sh/users/4430811) | [II-L feat. amelie xoxo - THE EARTH](https://osu.ppy.sh/beatmapsets/2280943) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| Runner-up | [wwwww](https://osu.ppy.sh/users/8434466) | [KOAN Sound - Virtual Light](https://osu.ppy.sh/beatmapsets/2280871) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +1 (2 total) |
+| Winner | ::-Ken::{ user-id=4430811 } | [II-L feat. amelie xoxo - THE EARTH](https://osu.ppy.sh/beatmapsets/2280943) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
+| Runner-up | ::wwwww::{ user-id=8434466 } | [KOAN Sound - Virtual Light](https://osu.ppy.sh/beatmapsets/2280871) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +1 (2 total) |
 
 #### Top 10
 
@@ -61,9 +61,9 @@ Thanks to the usual judging crew for evaluating every map this month: [arcpotato
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/J3Al-yZgKEw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Send your appreciation to [Morusya](https://osu.ppy.sh/users/13681464), [Mniam](https://osu.ppy.sh/users/6050530), [Jemzuu](https://osu.ppy.sh/users/7890134), and [Greaper](https://osu.ppy.sh/users/2369776) for judging this month's contest!
+Send your appreciation to ::Morusya::{ user-id=13681464 }, [Mniam](https://osu.ppy.sh/users/6050530), ::Jemzuu::{ user-id=7890134 }, and [Greaper](https://osu.ppy.sh/users/2369776) for judging this month's contest!
 
-And special thanks to [Nelly](https://osu.ppy.sh/users/4741164) for coordinating the Monthly Beatmapping Contest for osu!catch throughout the last year! Starting with this month's contest, [Morusya](https://osu.ppy.sh/users/13681464) is stepping up to the plate in his stead.
+And special thanks to ::Nelly::{ user-id=4741164 } for coordinating the Monthly Beatmapping Contest for osu!catch throughout the last year! Starting with this month's contest, ::Morusya::{ user-id=13681464 } is stepping up to the plate in his stead.
 
 ## Game modes
 
@@ -85,7 +85,7 @@ This month's contest is open to **osu!taiko** and **osu!catch** mappers.
 
 We keep things fresh around here with *limitations*, a.k.a. special rules that make each month's contest unique.
 
-If you're confused about how these work, ask for clarification in the comments, or send a message to [Hivie](https://osu.ppy.sh/community/chat?sendto=14102976) (for osu!taiko) or [Morusya](https://osu.ppy.sh/users/13681464) (for osu!catch).
+If you're confused about how these work, ask for clarification in the comments, or send a message to [Hivie](https://osu.ppy.sh/community/chat?sendto=14102976) (for osu!taiko) or ::Morusya::{ user-id=13681464 } (for osu!catch).
 
 #### osu!taiko
 

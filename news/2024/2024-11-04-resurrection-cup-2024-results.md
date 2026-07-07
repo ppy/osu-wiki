@@ -19,7 +19,7 @@ In this rather late recap, we'll go over the most exciting matches, the song rel
 
 ## Highlights
 
-Instantly recognised by the iconic yet simple "Greetings!", [osu! content creator](https://www.youtube.com/@vertoHUN) [verto](https://osu.ppy.sh/users/2015300) made his appearance as a commentator in the Quarterfinals. Together with veteran [SadShiba](https://osu.ppy.sh/users/10747626), they offered thrilling commentary of the intense match between team *swaglords* and team *Germany owc B* to the delight of viewers.
+Instantly recognised by the iconic yet simple "Greetings!", [osu! content creator](https://www.youtube.com/@vertoHUN) ::verto::{ user-id=2015300 } made his appearance as a commentator in the Quarterfinals. Together with veteran ::SadShiba::{ user-id=10747626 }, they offered thrilling commentary of the intense match between team *swaglords* and team *Germany owc B* to the delight of viewers.
 
 *Germany owc B*, not favoured to win it, put up an incredible fight and almost managed to cause an upset. However, despite their determined efforts coming back from a 4–2 deficit @ [57:30](https://www.youtube.com/watch?v=2l4KS5feTA8&t=3450s), *Germany owc B* ultimately couldn't keep up and fell just short. Right before a tiebreaker could be reached, they lost to *swaglords*' pick of [Drastic Dramatic](https://osu.ppy.sh/beatmapsets/2206803#osu/4672803) (FM4) @ [1:17:45](https://www.youtube.com/watch?v=2l4KS5feTA8&t=4665s). That being said, their battle was nothing short of exciting and a true testament to osu! players' competitive spirit.
 
@@ -27,7 +27,7 @@ Instantly recognised by the iconic yet simple "Greetings!", [osu! content creato
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2l4KS5feTA8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-In the Finals, top-seeded *kotomiler* faced off against the second seed *fresh off the boat* in a highly anticipated matchup. The intense game saw no breakpoints until the last two picks @ [1:25:40](https://www.youtube.com/watch?v=R0FSFEV_uLA&t=5140s), leading the match to culminate in a tiebreaker. Here, ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078) gave an incredible performance by S-ranking Shokiii's original song [Eterna](https://osu.ppy.sh/beatmapsets/2215097#osu/4693364) @ [1:38:08](https://www.youtube.com/watch?v=R0FSFEV_uLA&t=5888s). Despite finding a slider break in the final kiai section, this performance pulled team *fresh of the boat* across the finish line, securing them the victory in the match.
+In the Finals, top-seeded *kotomiler* faced off against the second seed *fresh off the boat* in a highly anticipated matchup. The intense game saw no breakpoints until the last two picks @ [1:25:40](https://www.youtube.com/watch?v=R0FSFEV_uLA&t=5140s), leading the match to culminate in a tiebreaker. Here, ::{ flag=KR }:: ::FlyingTuna::{ user-id=9224078 } gave an incredible performance by S-ranking Shokiii's original song [Eterna](https://osu.ppy.sh/beatmapsets/2215097#osu/4693364) @ [1:38:08](https://www.youtube.com/watch?v=R0FSFEV_uLA&t=5888s). Despite finding a slider break in the final kiai section, this performance pulled team *fresh of the boat* across the finish line, securing them the victory in the match.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/R0FSFEV_uLA" frameborder="0" allowfullscreen></iframe>
@@ -35,7 +35,7 @@ In the Finals, top-seeded *kotomiler* faced off against the second seed *fresh o
 
 And at last, the summit of the tournament this year. Taking place on a fully custom-mapped mappool, the Grand Finals match between *kotomiler* and *fresh off the boat* was a rematch for the ages. Starting off with [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5), *kotomiler* got off to a good start, securing the first pick of the match. After trading points for a while, once the scoreline hit 3–3 @ [56:00](https://www.youtube.com/watch?v=wYxXtFU1SRY&t=3360s), *kotomiler* managed to run away with it, secure 2 breakpoints, and take *fresh off the boat* to a bracket reset.
 
-In the bracket reset, *kotomiler* couldn't keep their momentum going, losing their very next pick. Down by 2 points after 4 maps, they finally managed to turn the tide around, by picking [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5) once more @ [2:06:15](https://youtu.be/wYxXtFU1SRY?t=7575). Here, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) and ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450) put up a momentous performance, achieving 2 FCs and taking the point home for *kotomiler*. After this, only 1 more point was lost to *fresh off the boat*, and with nearly 3 hours of splendid performances on both sides, *kotomiler* ultimately took home the victory.
+In the bracket reset, *kotomiler* couldn't keep their momentum going, losing their very next pick. Down by 2 points after 4 maps, they finally managed to turn the tide around, by picking [Acid Burst](https://osu.ppy.sh/beatmapsets/2218478#osu/4702398) (NM5) once more @ [2:06:15](https://youtu.be/wYxXtFU1SRY?t=7575). Here, ::{ flag=PL }:: ::MALISZEWSKI::{ user-id=12408961 } and ::{ flag=KR }:: ::worst hr player::{ user-id=14106450 } put up a momentous performance, achieving 2 FCs and taking the point home for *kotomiler*. After this, only 1 more point was lost to *fresh off the boat*, and with nearly 3 hours of splendid performances on both sides, *kotomiler* ultimately took home the victory.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/wYxXtFU1SRY" frameborder="0" allowfullscreen></iframe>
@@ -219,7 +219,7 @@ A lot of people were involved in making Resurrection Cup happen. We've asked a f
 
 ![](/wiki/shared/news/2024-11-04-resurrection-cup-2024-results/alvearia-and-luminous-sky.jpg)
 
-As members of the Mappool Quality Assurance team, [Alvearia](https://osu.ppy.sh/users/6248691) and [Luminous Sky](https://osu.ppy.sh/users/4429612) were indispensable in integrating nearly 100 custom maps into the different mappools.
+As members of the Mappool Quality Assurance team, ::Alvearia::{ user-id=6248691 } and [Luminous Sky](https://osu.ppy.sh/users/4429612) were indispensable in integrating nearly 100 custom maps into the different mappools.
 
 ---
 
@@ -355,7 +355,7 @@ I draw inspiration from these three and try to incorporate their strengths into 
 
 ![](/wiki/shared/news/2024-11-04-resurrection-cup-2024-results/hoaq-and-[boy]dalat.jpg)
 
-[Hoaq](https://osu.ppy.sh/users/7696512) and [[Boy]DaLat](https://osu.ppy.sh/users/8266808) went above and beyond with their immersive and captivating stream overlay. The recognisable and distinctive design elevated the viewing experience and helped to distinguish ResCup from the more conventional overlays.
+::Hoaq::{ user-id=7696512 } and [[Boy]DaLat](https://osu.ppy.sh/users/8266808) went above and beyond with their immersive and captivating stream overlay. The recognisable and distinctive design elevated the viewing experience and helped to distinguish ResCup from the more conventional overlays.
 
 ---
 

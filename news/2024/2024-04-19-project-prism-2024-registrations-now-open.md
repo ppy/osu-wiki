@@ -13,7 +13,7 @@ As the successor to the [osu!taiko Malaysian Tournament (OTMT)](/wiki/Tournament
 
 Not too keen on competing in the tournament side of things? We got you covered. The event also includes a special Raid Battle system, available for everyone to participate in! Read on to find out more.
 
-Check out the opening video below for a succinct summary of everything the tournament has to offer, with stunning visuals by [Iyouka](https://osu.ppy.sh/users/7138499) and a banger [original track](https://soundcloud.com/takehirotei/yaefract-opening) by [takehirotei](https://osu.ppy.sh/users/11793794)!
+Check out the opening video below for a succinct summary of everything the tournament has to offer, with stunning visuals by ::Iyouka::{ user-id=7138499 } and a banger [original track](https://soundcloud.com/takehirotei/yaefract-opening) by ::takehirotei::{ user-id=11793794 }!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/N6PRgV6Hu5s" frameborder="0" allowfullscreen></iframe>

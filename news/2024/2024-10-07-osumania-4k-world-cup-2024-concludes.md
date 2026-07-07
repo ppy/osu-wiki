@@ -33,13 +33,13 @@ Taking into consideration that this is the United States' second world cup victo
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2257700954&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-At last, we've reached the end. This was the hardest the pools would get, and it clearly shows, with a great example being [Mare Nectaris (Camellia's "Ingenii" Remix)](https://osu.ppy.sh/beatmapsets/2253779#mania/4793983) by [0DZ0](https://osu.ppy.sh/users/28156707) (RC7). Containing over four whole minutes of pure rice, it has just about all patterns you could imagine seeing in a chart of this length. In other words, it's a rice tiebreaker.
+At last, we've reached the end. This was the hardest the pools would get, and it clearly shows, with a great example being [Mare Nectaris (Camellia's "Ingenii" Remix)](https://osu.ppy.sh/beatmapsets/2253779#mania/4793983) by ::0DZ0::{ user-id=28156707 } (RC7). Containing over four whole minutes of pure rice, it has just about all patterns you could imagine seeing in a chart of this length. In other words, it's a rice tiebreaker.
 
 The remaining two examples can be shown by the [osu! originals](/wiki/osu!_originals) this pool gave us (which you can listen to [further below](#grand-finals)).
 
-[Ashrount](https://osu.ppy.sh/beatmaps/artists/352) has been known for their tracks in other rhythm games, and this time they're bringing us an incredible track for the HB1 slot, [GALVANIZER](https://osu.ppy.sh/beatmapsets/2253764#mania/4793954) mapped by [guden](https://osu.ppy.sh/users/11626065)! As expected of the slot, it's fairly straightforward with 1/4 snaps, but that's not to say it's straightforward to play, as 288BPM is really pushing the limits for what's doable. Doubt it? Give it a try yourself!
+[Ashrount](https://osu.ppy.sh/beatmaps/artists/352) has been known for their tracks in other rhythm games, and this time they're bringing us an incredible track for the HB1 slot, [GALVANIZER](https://osu.ppy.sh/beatmapsets/2253764#mania/4793954) mapped by ::guden::{ user-id=11626065 }! As expected of the slot, it's fairly straightforward with 1/4 snaps, but that's not to say it's straightforward to play, as 288BPM is really pushing the limits for what's doable. Doubt it? Give it a try yourself!
 
-To wrap up all mappools, where would we be without the Grand Finals tiebreaker? [kanemiko](https://osu.ppy.sh/beatmaps/artists/367), [Kyutatsuki](https://twitter.com/Kyutatsuki) and [Aoi](https://osu.ppy.sh/beatmaps/artists/183) bring us our final chart, [Fractal Vertex](https://osu.ppy.sh/beatmapsets/2253784#mania/4793996), mapped by [-mint-](https://osu.ppy.sh/users/8976576), [Toaph Daddy](https://osu.ppy.sh/users/7616811), [elexire](https://osu.ppy.sh/users/9206093), [guden](https://osu.ppy.sh/users/11626065), and [MyZterioN-](https://osu.ppy.sh/users/8521723)!
+To wrap up all mappools, where would we be without the Grand Finals tiebreaker? [kanemiko](https://osu.ppy.sh/beatmaps/artists/367), [Kyutatsuki](https://twitter.com/Kyutatsuki) and [Aoi](https://osu.ppy.sh/beatmaps/artists/183) bring us our final chart, [Fractal Vertex](https://osu.ppy.sh/beatmapsets/2253784#mania/4793996), mapped by ::-mint-::{ user-id=8976576 }, [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::elexire::{ user-id=9206093 }, [guden](https://osu.ppy.sh/users/11626065), and ::MyZterioN-::{ user-id=8521723 }!
 
 While it might be slightly easier than last year's tiebreaker, that's not to say it is without a doubt the hardest thing in the pool. In typical tiebreaker fashion, it goes through a ton of patterns, relentlessly throwing more and more at you despite how much you'd want a short break. Even if this is out of your skill range, we heavily recommend to at least give it a look and appreciate the work of the designers who toiled away to make this happen.
 
@@ -57,10 +57,10 @@ After **61** matches and **30** eliminated teams, we have finally reached the fi
 
 China on the other hand has had an incredible losers' bracket run after getting knocked down in the Round of 16, and winning every single match until this point. They were the lowest-seeded team (#8) we've ever seen enter the Grand Finals match out of any World Cup.
 
-- [DJ TECHNORCH - Digital Kecak No.5 (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2253780#mania/4793984) ([-mint-](https://osu.ppy.sh/users/8976576), LN4) @ [16:24](https://www.twitch.tv/videos/2263460006?t=00h16m24s) - China, down 2–0, turned to LN4, a map that forces you to triumph over relentless awkward and high BPM shields, as well as demanding consistency in all skills with a release-intensive section. It looked like the United States was about to take another point, but the tides turned in a flash.
-- [Billain feat. Malux - Extraction (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2253769#mania/4793962) ([\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), [Alptraum](https://osu.ppy.sh/users/26496648), [Abraxos](https://osu.ppy.sh/users/5025064), HB3) @ [27:39](https://www.twitch.tv/videos/2263460006?t=00h27m39s) - Looking to catch the United States off guard, China picked HB3, a technical challenge with brutal staircase sections and extreme amounts of LN. The United States responded with shocking precision, ::{ flag=US }:: [Hello_Son](https://osu.ppy.sh/users/17308009)'s monstrous 991k FC with only 3x200s alongside ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610)'s solid 981k left team China stunned, shifting the match's momentum.
-- [Ashrount - GALVANIZER](https://osu.ppy.sh/beatmapsets/2253764#mania/4793954) ([guden](https://osu.ppy.sh/users/11626065), HB1) @ [33:42](https://www.twitch.tv/videos/2263460006?t=00h33m42s) - Riding their momentum, the United States opted for HB1, a brutal *7.27*\* 288 BPM hybrid map that has technical stream sections with jacks sprinkled in the mix in an attempt to break combos. Players on both sides fought hard, but none more so than ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), who delivered a spectacular near-perfect score with only a single 200 hit.
-- [sakuraburst - Glacierfall (Park Remix)](https://osu.ppy.sh/beatmapsets/2253778#mania/4793979) ([awdse22](https://osu.ppy.sh/users/8743513), SV1) @ [45:17](https://www.twitch.tv/videos/2263460006?t=00h45m17s) - With the score at 6–1, the United States held match point and chose to close out in style on SV1, a memorisation-heavy map where sight-readers would are hit with vicious speed variations controlled by BPM changes. ::{ flag=US }:: [Reshiram](https://osu.ppy.sh/users/7794488) took the spotlight, delivering a near-flawless performance with only one 200 hit. And soon then, the tournament was officially over.
+- [DJ TECHNORCH - Digital Kecak No.5 (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2253780#mania/4793984) (::-mint-::{ user-id=8976576 }, LN4) @ [16:24](https://www.twitch.tv/videos/2263460006?t=00h16m24s) - China, down 2–0, turned to LN4, a map that forces you to triumph over relentless awkward and high BPM shields, as well as demanding consistency in all skills with a release-intensive section. It looked like the United States was about to take another point, but the tides turned in a flash.
+- [Billain feat. Malux - Extraction (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2253769#mania/4793962) (::\[Crz\]FolAH1217::{ user-id=6232458 }, [Alptraum](https://osu.ppy.sh/users/26496648), ::Abraxos::{ user-id=5025064 }, HB3) @ [27:39](https://www.twitch.tv/videos/2263460006?t=00h27m39s) - Looking to catch the United States off guard, China picked HB3, a technical challenge with brutal staircase sections and extreme amounts of LN. The United States responded with shocking precision, ::{ flag=US }:: ::Hello\1Son::{ user-id=17308009 }'s monstrous 991k FC with only 3x200s alongside ::{ flag=US }:: ::Nepijin::{ user-id=11734610 }'s solid 981k left team China stunned, shifting the match's momentum.
+- [Ashrount - GALVANIZER](https://osu.ppy.sh/beatmapsets/2253764#mania/4793954) (::guden::{ user-id=11626065 }, HB1) @ [33:42](https://www.twitch.tv/videos/2263460006?t=00h33m42s) - Riding their momentum, the United States opted for HB1, a brutal *7.27*\* 288 BPM hybrid map that has technical stream sections with jacks sprinkled in the mix in an attempt to break combos. Players on both sides fought hard, but none more so than ::{ flag=US }:: ::Nepijin::{ user-id=11734610 }, who delivered a spectacular near-perfect score with only a single 200 hit.
+- [sakuraburst - Glacierfall (Park Remix)](https://osu.ppy.sh/beatmapsets/2253778#mania/4793979) (::awdse22::{ user-id=8743513 }, SV1) @ [45:17](https://www.twitch.tv/videos/2263460006?t=00h45m17s) - With the score at 6–1, the United States held match point and chose to close out in style on SV1, a memorisation-heavy map where sight-readers would are hit with vicious speed variations controlled by BPM changes. ::{ flag=US }:: ::Reshiram::{ user-id=7794488 } took the spotlight, delivering a near-flawless performance with only one 200 hit. And soon then, the tournament was officially over.
 
 With that match, the United States has won the world cup again, making it their first-ever back-to-back win in osu!mania 4K World Cup history. While China played incredibly this year with an insane losers' bracket run that any team would dream about, sadly they were unable to overturn USA in the last showdown. Nevertheless, it's a legendary World Cup ending if we've ever seen one.
 
@@ -229,7 +229,7 @@ As per tradition, this part of the news post is reserved for a few questions for
 
 ![](/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/_Kiruru-banner.png)
 
-[\_Kiruru](https://osu.ppy.sh/users/17699745) is team Thailand's captain, and has successfully led the team to their first-ever podium finish, achieving 3rd place in the osu!mania 4K World Cup 2024.
+::\_Kiruru::{ user-id=17699745 } is team Thailand's captain, and has successfully led the team to their first-ever podium finish, achieving 3rd place in the osu!mania 4K World Cup 2024.
 
 ---
 
@@ -245,7 +245,7 @@ Hello there, congrats on achieving the first-ever top 3 placement for Thailand! 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/17699745">_Kiruru</a></p>
 
-I don't think we had any special strategy because the Thailand team heavily relies on our main players such as [konkawe](https://osu.ppy.sh/users/15665805) and [--Pavin--](https://osu.ppy.sh/users/12046267), but if I have to say what made us come this far, it would have to be how much effort we put into practising to keep improving throughout the entire tournament.
+I don't think we had any special strategy because the Thailand team heavily relies on our main players such as ::konkawe::{ user-id=15665805 } and [--Pavin--](https://osu.ppy.sh/users/12046267), but if I have to say what made us come this far, it would have to be how much effort we put into practising to keep improving throughout the entire tournament.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/11354436" style="background-image: url('/wiki/shared/avatars/Utiba.jpg')"></a>
 
@@ -281,7 +281,7 @@ Lastly, I would like to thank the MWC2024 Thailand team for practising and makin
 
 ![](/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/Paturages-banner.png)
 
-[Paturages](https://osu.ppy.sh/users/1375479) is a long-time community member and an all-rounder when it comes to their contributions. This year they coordinated all SV parts of the world cup mappool, in order to ensure players are both challenged and having fun while playing.
+::Paturages::{ user-id=1375479 } is a long-time community member and an all-rounder when it comes to their contributions. This year they coordinated all SV parts of the world cup mappool, in order to ensure players are both challenged and having fun while playing.
 
 ---
 
@@ -341,7 +341,7 @@ Even users from other modes can appreciate the uniqueness of SVs! From a pooler'
 
 ![](/wiki/shared/news/2024-10-07-osumania-4k-world-cup-2024-concludes/Supa7onyz-banner.png)
 
-Supa7onyz (also known as [[GB]Azukisan](https://osu.ppy.sh/users/5378805) here on osu!) is both a Featured Artist *and* a fellow community member. They debuted on the world cup stage this year with their brand-new osu! original, [Les Cadences Magiques](https://osu.ppy.sh/beatmapsets/2238686#mania/4757070).
+Supa7onyz (also known as ::\1GB\1Azukisan::{ user-id=5378805 } here on osu!) is both a Featured Artist *and* a fellow community member. They debuted on the world cup stage this year with their brand-new osu! original, [Les Cadences Magiques](https://osu.ppy.sh/beatmapsets/2238686#mania/4757070).
 
 ---
 

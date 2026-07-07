@@ -17,10 +17,10 @@ The past month has signalled a relative calm following significant changes broug
 
 ### New Beatmap Nominator Promotions
 
-**We have been joined by a new wave of Beatmap Nominators for osu!** After processing the recent round of applications, we are pleased to announce the names of our newly-appointed circle inspectors: [celerih](https://osu.ppy.sh/users/4696296), [Cerulean Veyron](https://osu.ppy.sh/users/1886524), [Chewin](https://osu.ppy.sh/users/617323), [DeRandom Otaku](https://osu.ppy.sh/users/5156153),
-[Halfslashed](https://osu.ppy.sh/users/4598899), [MaridiuS](https://osu.ppy.sh/users/4496961), [Kisses](https://osu.ppy.sh/users/4276114) and [Sinnoh](https://osu.ppy.sh/users/4236057). Please wish them well in the initial probation period and beyond as they help to push glorious new content to a Ranked section near you!
+**We have been joined by a new wave of Beatmap Nominators for osu!** After processing the recent round of applications, we are pleased to announce the names of our newly-appointed circle inspectors: ::celerih::{ user-id=4696296 }, [Cerulean Veyron](https://osu.ppy.sh/users/1886524), ::Chewin::{ user-id=617323 }, [DeRandom Otaku](https://osu.ppy.sh/users/5156153),
+::Halfslashed::{ user-id=4598899 }, [MaridiuS](https://osu.ppy.sh/users/4496961), ::Kisses::{ user-id=4276114 } and [Sinnoh](https://osu.ppy.sh/users/4236057). Please wish them well in the initial probation period and beyond as they help to push glorious new content to a Ranked section near you!
 
-In addition, **two current members of the Beatmap Nominators for osu!taiko** have added proficiency in modding osu! to their repertoire: [Chromoxx](https://osu.ppy.sh/users/1881639) and [neonat](https://osu.ppy.sh/users/1561995). Congratulations to them also on this impressive accomplishment!
+In addition, **two current members of the Beatmap Nominators for osu!taiko** have added proficiency in modding osu! to their repertoire: ::Chromoxx::{ user-id=1881639 } and [neonat](https://osu.ppy.sh/users/1561995). Congratulations to them also on this impressive accomplishment!
 
 ### Beatmap Nominator Workflow
 
@@ -34,13 +34,13 @@ Most of the major outputs of the QAT this month have already been covered, from 
 
 ### Developments in Metadata Checking
 
-With the departure of [IamKwaN](https://osu.ppy.sh/users/1856463) last month, extra work has been funneled into metadata checking to assist our lone remaining specialist, [Doyak](https://osu.ppy.sh/users/2046893). In order to alleviate some of this burden, **we recently opened a Discord server to discuss and catalogue metadata across newly Qualified maps**.
+With the departure of ::IamKwaN::{ user-id=1856463 } last month, extra work has been funneled into metadata checking to assist our lone remaining specialist, ::Doyak::{ user-id=2046893 }. In order to alleviate some of this burden, **we recently opened a Discord server to discuss and catalogue metadata across newly Qualified maps**.
 
 Anyone is welcome to join if they're looking for advice on sourcing reliable information for their maps, but **we are especially looking for knowledgeable and motivated volunteers** to help out with searching for and verifying metadata. If this sounds like something you'd be interested in helping out with, please join the [Metadata Heap server](https://discord.gg/9Y4EdyM) and make yourself known to the Helper team without delay!
 
 ### New Beatmapping Contests
 
-In addition to the Mapping With Rewards scheme discussed in [last month's issue](https://osu.ppy.sh/home/news/2017-10-16-qat-gazette-october-2017), organisation towards more regularly scheduled beatmapping contests is underway. Quality Assurance Team member [Irreversible](https://osu.ppy.sh/users/1287964) and Global Moderator [Chaos](https://osu.ppy.sh/users/2628870) are currently finalising details and timelines for the self-styled **"Mapping Olympiad"**, which we hope will eventually incorporate a mix of conventional beatmapping contests, Aspire-type contests and still other themed or special-restriction mapping events across all of osu!'s four game modes.
+In addition to the Mapping With Rewards scheme discussed in [last month's issue](https://osu.ppy.sh/home/news/2017-10-16-qat-gazette-october-2017), organisation towards more regularly scheduled beatmapping contests is underway. Quality Assurance Team member ::Irreversible::{ user-id=1287964 } and Global Moderator ::Chaos::{ user-id=2628870 } are currently finalising details and timelines for the self-styled **"Mapping Olympiad"**, which we hope will eventually incorporate a mix of conventional beatmapping contests, Aspire-type contests and still other themed or special-restriction mapping events across all of osu!'s four game modes.
 
 I won't reveal too much here, but you can expect a more-detailed announcement regarding this initiative very soon, so stay tuned!
 

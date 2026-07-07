@@ -23,7 +23,7 @@ These songs contrast intense rhythm game tones with **EmoCosine**'s iconic upbea
 
 ### Nekojarashi
 
-Explore [this osu! beatmap](https://osu.ppy.sh/beatmapsets/1710593) hosted by [Garden](https://osu.ppy.sh/users/2849992) and seen in the video above!
+Explore [this osu! beatmap](https://osu.ppy.sh/beatmapsets/1710593) hosted by ::Garden::{ user-id=2849992 } and seen in the video above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/246/Songs/EmoCosine%20-%20Nekojarashi.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Explore [this osu! beatmap](https://osu.ppy.sh/beatmapsets/1710593) hosted by [G
 
 ### MAGENTA POTION
 
-Sip on [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1502054) hosted by [Rycy](https://osu.ppy.sh/users/7394522)!
+Sip on [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1502054) hosted by ::Rycy::{ user-id=7394522 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/246/Love%20Kills%20U%20EP/EmoCosine%20-%20MAGENTA%20POTION.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Sip on [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1502054) hosted b
 
 ### Give You My World
 
-Or dedicate yourself to [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1225464) hosted by [Capu](https://osu.ppy.sh/users/2474015)!
+Or dedicate yourself to [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1225464) hosted by ::Capu::{ user-id=2474015 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/246/Love%20Kills%20U%20EP/EmoCosine%20-%20Give%20You%20My%20World.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ Or dedicate yourself to [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/
 
 ### Cutter
 
-Last but definitely not least, take a slice of [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1598606) hosted yet again by [Rycy](https://osu.ppy.sh/users/7394522)!
+Last but definitely not least, take a slice of [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1598606) hosted yet again by ::Rycy::{ user-id=7394522 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/246/Love%20Kills%20U%20EP/EmoCosine%20-%20Cutter.mp3" type="audio/mpeg">

@@ -25,7 +25,7 @@ tags:
 
 ## 奖品
 
-本次比赛奖品由 ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329) 赞助。
+本次比赛奖品由 ::{ flag=CN }:: ::hans1999::{ user-id=6679329 } 赞助。
 
 | 名次 | 奖品 |
 | :-: | :-- |
@@ -37,12 +37,12 @@ tags:
 
 | 职位 | 成员 |
 | :-: | :-- |
-| 比赛经理 | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329)、::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256) |
+| 比赛经理 | ::{ flag=CN }:: ::hans1999::{ user-id=6679329 }、::{ flag=CN }:: ::Flow Light::{ user-id=6705256 } |
 | 比赛监督 | ::{ flag=CN }:: [SSV Normandy](https://osu.ppy.sh/user/6475977) |
-| 图池管理 | ::{ flag=CN }:: [Tofu1222](https://osu.ppy.sh/user/6089608)、::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329) |
-| 直播裁判 | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/user/189617)、::{ flag=CN }:: [Rasis](https://osu.ppy.sh/user/1209363)、::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256)、::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
-| 解说团队 | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329)、::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256)、::{ flag=CN }:: [Rasis](https://osu.ppy.sh/user/1209363)、::{ flag=CN }:: [644520858](https://osu.ppy.sh/users/5507069)、::{ flag=CN }:: [wuhuanmin](https://osu.ppy.sh/user/935322) 、::{ flag=CN }:: [704661982](https://osu.ppy.sh/user/7080633) |
-| wiki | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
+| 图池管理 | ::{ flag=CN }:: [Tofu1222](https://osu.ppy.sh/user/6089608)、::{ flag=CN }:: ::hans1999::{ user-id=6679329 } |
+| 直播裁判 | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/user/189617)、::{ flag=CN }:: [Rasis](https://osu.ppy.sh/user/1209363)、::{ flag=CN }:: ::Flow Light::{ user-id=6705256 }、::{ flag=CN }:: ::kj415j45::{ user-id=9367540 } |
+| 解说团队 | ::{ flag=CN }:: ::hans1999::{ user-id=6679329 }、::{ flag=CN }:: ::Flow Light::{ user-id=6705256 }、::{ flag=CN }:: [Rasis](https://osu.ppy.sh/user/1209363)、::{ flag=CN }:: ::644520858::{ user-id=5507069 }、::{ flag=CN }:: [wuhuanmin](https://osu.ppy.sh/user/935322) 、::{ flag=CN }:: [704661982](https://osu.ppy.sh/user/7080633) |
+| wiki | ::{ flag=CN }:: ::kj415j45::{ user-id=9367540 } |
 
 ## 相关链接
 

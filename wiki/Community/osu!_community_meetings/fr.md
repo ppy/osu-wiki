@@ -10,7 +10,7 @@ Il y a bien longtemps, dans le [lointain passé du jeu](https://twitter.com/ppy/
 
 Si vous souhaitez poser des questions, assurez-vous d'avoir lu les directives énumérées plus bas sur cette page.
 
-Actuellement, les osu! community meetings sont présidées par [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335), et [smoogipoo](https://osu.ppy.sh/users/1040328).
+Actuellement, les osu! community meetings sont présidées par ::peppy::{ user-id=2 }, [Ephemeral](https://osu.ppy.sh/users/102335), et ::smoogipoo::{ user-id=1040328 }.
 
 ## S'impliquer
 

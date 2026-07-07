@@ -25,10 +25,10 @@ The Vocaloid Mapping Contest is hosted and organised by the [Vocaloid Appreciati
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |
-| Staff | ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122), ::{ flag=SG }:: [Ixcors](https://osu.ppy.sh/users/11194087) |
-| Judge | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548), ::{ flag=CA }:: [Shanipika](https://osu.ppy.sh/users/6336729), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=SV }::[Natsu](https://osu.ppy.sh/users/1953876), ::{ flag=US }:: [tutuhaha](https://osu.ppy.sh/users/546991) |
-| Designer | ::{ flag=VE }:: [Mithia](https://osu.ppy.sh/users/9748438) |
+| Host | ::{ flag=US }:: ::-White::{ user-id=16276548 } |
+| Staff | ::{ flag=IT }:: ::Kuroise::{ user-id=14547127 }, ::{ flag=US }:: ::Local Hero::{ user-id=16134122 }, ::{ flag=SG }:: ::Ixcors::{ user-id=11194087 } |
+| Judge | ::{ flag=US }:: ::Noffy::{ user-id=1541323 }, ::{ flag=US }:: ::-White::{ user-id=16276548 }, ::{ flag=CA }:: ::Shanipika::{ user-id=6336729 }, ::{ flag=CN }:: ::Mafumafu::{ user-id=3076909 }, ::{ flag=SV }::::Natsu::{ user-id=1953876 }, ::{ flag=US }:: ::tutuhaha::{ user-id=546991 } |
+| Designer | ::{ flag=VE }:: ::Mithia::{ user-id=9748438 } |
 
 ## Prizes
 
@@ -85,10 +85,10 @@ Five (5) songs were selected from the Featured Artist library. These songs were 
 
 | Rank | Mapper | Anonymised map name | Raw score (600) | Standardised score |
 | :-: | :-- | :-- | :-- | :-- |
-| #1 | [Meijiro McQueen](https://osu.ppy.sh/users/11555612) | grew forth | 478 | **6.7** |
-| #2 | [Pho](https://osu.ppy.sh/users/3624692) | near student | 476 | **6.1** |
-| #3 | [Rorupan L9](https://osu.ppy.sh/users/9471638) | heading save | 458 | **5.2** |
-| Honorable Mention | [AndAda](https://osu.ppy.sh/users/10574844) | old hang | 458 | **4.7** |
+| #1 | ::Meijiro McQueen::{ user-id=11555612 } | grew forth | 478 | **6.7** |
+| #2 | ::Pho::{ user-id=3624692 } | near student | 476 | **6.1** |
+| #3 | ::Rorupan L9::{ user-id=9471638 } | heading save | 458 | **5.2** |
+| Honorable Mention | ::AndAda::{ user-id=10574844 } | old hang | 458 | **4.7** |
 
 Get the maps and see detailed scores and judge comments for all the entries [here](https://mappersguild.com/contests/results?contest=647aee2825010a34c8badd15).
 

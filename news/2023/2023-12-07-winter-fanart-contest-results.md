@@ -17,65 +17,65 @@ A week of anticipation later, we've arrived with some of the closest voting we'v
 
 [![](https://assets.ppy.sh/contests/189/banners/ZunK.jpg)](https://assets.ppy.sh/contests/189/winners/ZunK.png)
 
-Seizing victory by the teeth, [**ZunK**](https://osu.ppy.sh/users/1070783)'s marvellous mascots unwrapping presents before a clear winter's day earned the stars of **1779** voters, edging over second place by a mere *five* votes — coincidentally also the number of beloved characters to feature in their piece.
+Seizing victory by the teeth, ::**ZunK**::{ user-id=1070783 }'s marvellous mascots unwrapping presents before a clear winter's day earned the stars of **1779** voters, edging over second place by a mere *five* votes — coincidentally also the number of beloved characters to feature in their piece.
 
 ZunK has been a long-time veteran in many of our fanart contests spanning back as far as 2020, and we're absolutely delighted to see them rise to the top spot. Well done, and well earned!
 
 [![](https://assets.ppy.sh/contests/189/banners/JlNN.jpg)](https://assets.ppy.sh/contests/189/winners/JlNN.png)
 
-Hot on first place's heels was [**JlNN**](https://osu.ppy.sh/users/22499692)'s depiction of a delightfully demure pippi holding a present whilst a tuckered-out Chirou gets some rest. **1774** voters couldn't resist that smile, and frankly, neither could we. That damned smile...
+Hot on first place's heels was ::**JlNN**::{ user-id=22499692 }'s depiction of a delightfully demure pippi holding a present whilst a tuckered-out Chirou gets some rest. **1774** voters couldn't resist that smile, and frankly, neither could we. That damned smile...
 
 [![](https://assets.ppy.sh/contests/189/banners/Sjao.jpg)](https://assets.ppy.sh/contests/189/winners/Sjao.png)
 
-[**Sjao**](https://osu.ppy.sh/users/7295733) returns with a ferociously wonderful Santa-pippi enjoying a plate of iced cherry blossom cookies and a mug of marshmallow cocoa out in the winter chill. **1763** voters couldn't hit the star button fast enough, and we fully understand why.
+::**Sjao**::{ user-id=7295733 } returns with a ferociously wonderful Santa-pippi enjoying a plate of iced cherry blossom cookies and a mug of marshmallow cocoa out in the winter chill. **1763** voters couldn't hit the star button fast enough, and we fully understand why.
 
 [![](https://assets.ppy.sh/contests/189/banners/Scissors_Mori.jpg)](https://assets.ppy.sh/contests/189/winners/Scissors_Mori.png)
 
-**1723** voters decided to peel oranges with [**Scissors_Mori**](https://osu.ppy.sh/users/31302044)'s absurdly cute take on a santa-pippi enjoying a citrusy snack before the warmth of a crackling fireplace. We've clearly opened our presents ahead of the big day, at this rate.
+**1723** voters decided to peel oranges with ::**Scissors\1Mori**::{ user-id=31302044 }'s absurdly cute take on a santa-pippi enjoying a citrusy snack before the warmth of a crackling fireplace. We've clearly opened our presents ahead of the big day, at this rate.
 
 [![](https://assets.ppy.sh/contests/189/banners/tehfire.jpg)](https://assets.ppy.sh/contests/189/winners/tehfire.png)
 
-**1715** voters couldn't help but feel kindred with [**tehfire**](https://osu.ppy.sh/users/7082924)'s portrayal of a lounging Mocha chomping on a drumstick, with a presumably passed-out pippi by her side. Food coma is so real.
+**1715** voters couldn't help but feel kindred with ::**tehfire**::{ user-id=7082924 }'s portrayal of a lounging Mocha chomping on a drumstick, with a presumably passed-out pippi by her side. Food coma is so real.
 
 [![](https://assets.ppy.sh/contests/189/banners/MyAngelNeptune.jpg)](https://assets.ppy.sh/contests/189/winners/MyAngelNeptune.png)
 
-**1621** voters warmed their heckles with [**MyAngelNeptune**](https://osu.ppy.sh/users/5290308)'s positively radiant rendition of pippi enjoying a hot drink before a blazing fireplace and a vast assortment of festive feasting fixtures. Warm smiles all around!
+**1621** voters warmed their heckles with ::**MyAngelNeptune**::{ user-id=5290308 }'s positively radiant rendition of pippi enjoying a hot drink before a blazing fireplace and a vast assortment of festive feasting fixtures. Warm smiles all around!
 
 [![](https://assets.ppy.sh/contests/189/banners/Arehandotsu.jpg)](https://assets.ppy.sh/contests/189/winners/Arehandotsu.png)
 
-[**Arehandotsu**](https://osu.ppy.sh/users/18540068) summoned forth The Gang, and **1414** voters answered! pippi, Mocha, Chirou and a Don are all ready to go for the new year even if we're still a couple of weeks out.
+::**Arehandotsu**::{ user-id=18540068 } summoned forth The Gang, and **1414** voters answered! pippi, Mocha, Chirou and a Don are all ready to go for the new year even if we're still a couple of weeks out.
 
 [![](https://assets.ppy.sh/contests/189/banners/Amplui.jpg)](https://assets.ppy.sh/contests/189/winners/Amplui.png)
 
-An explosion of colour blew **1376** voters sky-high alongside [**Amplui**](https://osu.ppy.sh/users/24820805)'s take on Chirou lounging amidst the clouds in a sea of festive balloons. A feast for our eyes indeed!
+An explosion of colour blew **1376** voters sky-high alongside ::**Amplui**::{ user-id=24820805 }'s take on Chirou lounging amidst the clouds in a sea of festive balloons. A feast for our eyes indeed!
 
 [![](https://assets.ppy.sh/contests/189/banners/Triantafyllia.jpg)](https://assets.ppy.sh/contests/189/winners/Triantafyllia.png)
 
-Speaking of colour, **1312** voters beheld the festive marvel of [**Triantafyllia**](https://osu.ppy.sh/users/17084594)'s fabulous creation, showcasing pippi, Chirou, Mocha and Tama all enjoying a feast to end all feasts. There's also more than a few referential tidbits hiding in this one, so why not see if you can find them all?
+Speaking of colour, **1312** voters beheld the festive marvel of ::**Triantafyllia**::{ user-id=17084594 }'s fabulous creation, showcasing pippi, Chirou, Mocha and Tama all enjoying a feast to end all feasts. There's also more than a few referential tidbits hiding in this one, so why not see if you can find them all?
 
 [![](https://assets.ppy.sh/contests/189/banners/Mintzs.jpg)](https://assets.ppy.sh/contests/189/winners/Mintzs.png)
 
-**1260** voters stood among the ruins with [**Mintzs**](https://osu.ppy.sh/users/26978235)'s portrayal of a wintered-up pippi. You might be noticing a trend of us being a bit lax about the whole "feast" thing that was supposed to be the theme of the contest, but with art like this, we figured we may as well just roll with it!
+**1260** voters stood among the ruins with ::**Mintzs**::{ user-id=26978235 }'s portrayal of a wintered-up pippi. You might be noticing a trend of us being a bit lax about the whole "feast" thing that was supposed to be the theme of the contest, but with art like this, we figured we may as well just roll with it!
 
 [![](https://assets.ppy.sh/contests/189/banners/Rainikiru.jpg)](https://assets.ppy.sh/contests/189/winners/Rainikiru.png)
 
-**1244** voters threw their lot in with [**Rainikiru**](https://osu.ppy.sh/users/21722610) when they saw it. Saw what, you ask? Why, the snow-lit horizon and a sea of presents beside a festively dressed pippi and Mocha, what else?
+**1244** voters threw their lot in with ::**Rainikiru**::{ user-id=21722610 } when they saw it. Saw what, you ask? Why, the snow-lit horizon and a sea of presents beside a festively dressed pippi and Mocha, what else?
 
 [![](https://assets.ppy.sh/contests/189/banners/kittens_.jpg)](https://assets.ppy.sh/contests/189/winners/kittens_.png)
 
-**1218** voters decided to watch [**kittens_**](https://osu.ppy.sh/users/12689044)' take on a kimono-clad pippi enjoying some dango in the snow, and really, who could blame them? There's a joke to be made here about mochi and Mocha, but we don't have the heart to make it.
+**1218** voters decided to watch ::**kittens\1**::{ user-id=12689044 }' take on a kimono-clad pippi enjoying some dango in the snow, and really, who could blame them? There's a joke to be made here about mochi and Mocha, but we don't have the heart to make it.
 
 [![](https://assets.ppy.sh/contests/189/banners/Bayki.jpg)](https://assets.ppy.sh/contests/189/winners/Bayki.png)
 
-To the victor go the spoils. And so **1125** voters witnessed with [**Bayki**](https://osu.ppy.sh/users/15984389)'s pippi boldly proclaiming her ownership of the last festive dinner drumstick. You snooze, you lose!
+To the victor go the spoils. And so **1125** voters witnessed with ::**Bayki**::{ user-id=15984389 }'s pippi boldly proclaiming her ownership of the last festive dinner drumstick. You snooze, you lose!
 
 [![](https://assets.ppy.sh/contests/189/banners/Partyu.jpg)](https://assets.ppy.sh/contests/189/winners/Partyu.png)
 
-[**Partyu**](https://osu.ppy.sh/users/12659629) conjured forth a veritable *party* of osu! mascots to the acclaim of **1014** voters! A motherly pippi with some osu!-themed cookies presents her creations to practically the entire popular osu!taiko mascot ensemble, with Mocha, Aiko, Tama and the venerable Don making an appearance. Mari is off in the background er... having a moment, as she is wont to do. We suspect she may have beaten Mani over the head with whatever she's holding... *as she is wont to do.*
+::**Partyu**::{ user-id=12659629 } conjured forth a veritable *party* of osu! mascots to the acclaim of **1014** voters! A motherly pippi with some osu!-themed cookies presents her creations to practically the entire popular osu!taiko mascot ensemble, with Mocha, Aiko, Tama and the venerable Don making an appearance. Mari is off in the background er... having a moment, as she is wont to do. We suspect she may have beaten Mani over the head with whatever she's holding... *as she is wont to do.*
 
 [![](https://assets.ppy.sh/contests/189/banners/ase4an.jpg)](https://assets.ppy.sh/contests/189/winners/ase4an.png)
 
-**980** voters had hearts in their eyes for [**ase4an**](https://osu.ppy.sh/users/12646324)'s rendition of a festive pippi, Chirou and Mocha set before a dazzling array of fireworks. Someone's got a present she's eager to pass along, by the looks of things.
+**980** voters had hearts in their eyes for ::**ase4an**::{ user-id=12646324 }'s rendition of a festive pippi, Chirou and Mocha set before a dazzling array of fireworks. Someone's got a present she's eager to pass along, by the looks of things.
 
 ### peppy's Picks
 

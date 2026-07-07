@@ -2,7 +2,7 @@
 
 ## Januar
 
-osu! gelangt durch eine Portierung von [nuudles](https://osu.ppy.sh/users/21312) auf das iPhone. Das Projekt bekam sein eigenes [Subforum](https://osu.ppy.sh/community/forums/47), welches inzwischen archiviert wurde.[^iphone]
+osu! gelangt durch eine Portierung von ::nuudles::{ user-id=21312 } auf das iPhone. Das Projekt bekam sein eigenes [Subforum](https://osu.ppy.sh/community/forums/47), welches inzwischen archiviert wurde.[^iphone]
 
 ![](img/2009-01_01.jpg "Titelbildschirm des osu! iPhone")
 
@@ -92,7 +92,7 @@ Am 6. September wurden alle [Taiko-Scores zurückgesetzt](https://osu.ppy.sh/com
 
 Eine neue Rang-Anzeige wurde hinzugefügt, die die Basis für das später implementierte Ranglistensystem legte.[^stable-b1077][^custom-changelog]
 
-Die 10.000te Beatmap [Imogen Heap - Sweet Religion](https://osu.ppy.sh/beatmapsets/10000#osu/97517) von [Larto](https://osu.ppy.sh/users/12328) wurde eingereicht.[^beatmap-10k]
+Die 10.000te Beatmap [Imogen Heap - Sweet Religion](https://osu.ppy.sh/beatmapsets/10000#osu/97517) von ::Larto::{ user-id=12328 } wurde eingereicht.[^beatmap-10k]
 
 Zusätzlich zu den osu!-News im Juli 2009 konnte das [Änderungsprotokoll](/wiki/Changelog) seit dem 25. Oktober auch als RSS-Feed abgerufen werden.[^rss-changelog]
 

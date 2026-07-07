@@ -51,7 +51,7 @@ Everyone's been at [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event) for 
 
 ### Sydosys - Voyage
 
-You might have caught [this map](https://osu.ppy.sh/beatmapsets/2150872) hosted by [Tailsdk](https://osu.ppy.sh/users/6751666) from this year's [MWC 7K 2024](/wiki/Tournaments/MWC/2024_7K). If not, you can play through it now instead!
+You might have caught [this map](https://osu.ppy.sh/beatmapsets/2150872) hosted by ::Tailsdk::{ user-id=6751666 } from this year's [MWC 7K 2024](/wiki/Tournaments/MWC/2024_7K). If not, you can play through it now instead!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Voyage.mp3">
@@ -59,7 +59,7 @@ You might have caught [this map](https://osu.ppy.sh/beatmapsets/2150872) hosted 
 
 ### Sydosys as "\[LS\]Ham" - Apollyon
 
-Try out [**Sydosys**'s first osu! original](https://osu.ppy.sh/beatmapsets/1990588) hosted by [Alchyr](https://osu.ppy.sh/users/4993032)!
+Try out [**Sydosys**'s first osu! original](https://osu.ppy.sh/beatmapsets/1990588) hosted by ::Alchyr::{ user-id=4993032 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/392/Songs/Sydosys_as_LSHam_-_Apollyon.mp3">
@@ -67,7 +67,7 @@ Try out [**Sydosys**'s first osu! original](https://osu.ppy.sh/beatmapsets/19905
 
 ### Sydosys - Wandered
 
-Run through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2192657) hosted by [WOYOU_YUYUZHENG](https://osu.ppy.sh/users/34186004) or [this rendition](https://osu.ppy.sh/beatmapsets/2085296) from [OWC 2023](/wiki/Tournaments/OWC/2023) hosted by [bad boy](https://osu.ppy.sh/beatmapsets/2085296)!
+Run through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2192657) hosted by ::WOYOU\1YUYUZHENG::{ user-id=34186004 } or [this rendition](https://osu.ppy.sh/beatmapsets/2085296) from [OWC 2023](/wiki/Tournaments/OWC/2023) hosted by [bad boy](https://osu.ppy.sh/beatmapsets/2085296)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/392/Songs/Sydosys%20-%20Wandered.mp3">

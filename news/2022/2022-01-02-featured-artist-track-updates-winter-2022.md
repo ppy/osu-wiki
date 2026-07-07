@@ -75,7 +75,7 @@ For good measure, listen to a couple songs too:
 
 [![](https://assets.ppy.sh/artists/31/header.jpg)](https://osu.ppy.sh/beatmaps/artists/31)
 
-Surprising absolutely nobody, **23** songs from **Camellia**'s newest and vaguely osu!-related album *U.U.F.O.* are here to stay. Experience music that's inspired by osu! figures like [Toy](https://osu.ppy.sh/users/2757689), [Aireu](https://osu.ppy.sh/users/1650010), and [BTMC](https://osu.ppy.sh/users/3171691):
+Surprising absolutely nobody, **23** songs from **Camellia**'s newest and vaguely osu!-related album *U.U.F.O.* are here to stay. Experience music that's inspired by osu! figures like ::Toy::{ user-id=2757689 }, [Aireu](https://osu.ppy.sh/users/1650010), and ::BTMC::{ user-id=3171691 }:
 
 - **Camellia - Mystery Circles Ultra / U.U.F.O.**
 - **Camellia - (The) Red \* Room**
@@ -88,14 +88,14 @@ Surprising absolutely nobody, **23** songs from **Camellia**'s newest and vaguel
 - **Camellia - FINAL BLENDERMAN APPEARED. (feat. RichaadEB)**
 - **Camellia - WYSI (When You See It)**
 - **Camellia - We Magicians Still Alive in 2021**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1516120) hosted by [Mir](https://osu.ppy.sh/users/8688812)
-  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1517336) hosted by [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721)
-  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1517582) hosted by [HowToPlayLN](https://osu.ppy.sh/users/10879600)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1516120) hosted by ::Mir::{ user-id=8688812 }
+  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1517336) hosted by ::Ph0eNiiXZ::{ user-id=9463721 }
+  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1517582) hosted by ::HowToPlayLN::{ user-id=10879600 }
 - **Camellia - Hello (BPM) 2021**
 - **Camellia feat. Camellia - AREA 52**
 - **Camellia - Kisaragi**
 - **Camellia - Bermuda Triangle (feat. The8BitDrummer)**
-- [**Camellia - CICADA3302**](https://osu.ppy.sh/beatmapsets/1637599) hosted by [rubies87](https://osu.ppy.sh/users/4949934)
+- [**Camellia - CICADA3302**](https://osu.ppy.sh/beatmapsets/1637599) hosted by ::rubies87::{ user-id=4949934 }
 - **Camellia - SLIME INCIDENT**
 - **Camellia - The Cat Evolved Into The Microwave-proof Cat!**
 - **Camellia - ZOMBIE CIRCUS**
@@ -198,7 +198,7 @@ Singlehandedly raising the skill ceiling for osu!'s finger control limits, **II-
 - **II-L - SPUTNIK-8**
 - **II-L - SPUTNIK-9**
 - **II-L - SPUTNIK-10**
-- [**II-L - Asteroid Field of DECAPLETS**](https://osu.ppy.sh/beatmapsets/1563553) hosted by [Wadsy](https://osu.ppy.sh/users/2598555)
+- [**II-L - Asteroid Field of DECAPLETS**](https://osu.ppy.sh/beatmapsets/1563553) hosted by ::Wadsy::{ user-id=2598555 }
 
 ### II-L - Asteroid Field of DECAPLETS
 

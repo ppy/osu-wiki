@@ -20,19 +20,19 @@ Les joueurs suivants ont été reconnus comme completionists par l'osu! team :
 
 | Joueur | Date de réalisation | Total des difficultés jouées |
 | :-- | :-- | :-- |
-| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | 27/04/2019 | 60 845 |
-| ::{ flag=PL }:: [PookieBear](https://osu.ppy.sh/users/7635621) | 11/08/2021 | 82 298 |
-| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | 12/03/2023 | 99 842 |
+| ::{ flag=US }:: ::xasuma::{ user-id=3172980 } | 27/04/2019 | 60 845 |
+| ::{ flag=PL }:: ::PookieBear::{ user-id=7635621 } | 11/08/2021 | 82 298 |
+| ::{ flag=US }:: ::EEEEEEEEEEEEEEE::{ user-id=2927048 } | 12/03/2023 | 99 842 |
 
 ### osu!taiko
 
 | Joueur | Date de réalisation | Total des difficultés jouées |
 | :-- | :-- | :-- |
-| ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | 03/11/2019 | 8 841 |
-| ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) | 14/08/2023 | 22 170 |
+| ::{ flag=AU }:: ::Jaye::{ user-id=4841352 } | 03/11/2019 | 8 841 |
+| ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } | 14/08/2023 | 22 170 |
 
 ## Le saviez-vous ?
 
-- ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) a reçu le [titre d'utilisateur](/wiki/Community/User_title) *The First Completionist* pour avoir été le premier joueur à réaliser cet exploit.
-- ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) a reçu le titre d'utilisateur *Drum Decimator* pour avoir été le premier joueur à réaliser un score toutes les beatmaps classées du mode osu!taiko, et pour avoir obtenu un full combo sur chacune d'entre elles.
+- ::{ flag=US }:: ::xasuma::{ user-id=3172980 } a reçu le [titre d'utilisateur](/wiki/Community/User_title) *The First Completionist* pour avoir été le premier joueur à réaliser cet exploit.
+- ::{ flag=AU }:: ::Jaye::{ user-id=4841352 } a reçu le titre d'utilisateur *Drum Decimator* pour avoir été le premier joueur à réaliser un score toutes les beatmaps classées du mode osu!taiko, et pour avoir obtenu un full combo sur chacune d'entre elles.
 - Jusqu'à septembre 2023, les joueurs pouvaient obtenir un titre d'utilisateur *osu!completionist*, qui a été abandonné au profit des badges de profil.

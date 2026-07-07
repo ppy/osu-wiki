@@ -29,10 +29,10 @@ Anyways, back to **Yokomin**. Take a peek at the video below to see how differen
 
 Check out every map from the video above:
 
-- [The map that introduced **Yokomin** to circle clickers](https://osu.ppy.sh/beatmapsets/428432) hosted by [Shiirn](https://osu.ppy.sh/users/465126)
-- [An alternative cover with an extra osu!taiko difficulty](https://osu.ppy.sh/beatmapsets/808764) hosted by [Nao Tomori](https://osu.ppy.sh/users/5364763)
-- [A harder rendition](https://osu.ppy.sh/beatmapsets/1540629) hosted by [Camo](https://osu.ppy.sh/users/5194391)
-- [And an even harder rendition](https://osu.ppy.sh/beatmapsets/1699079) hosted by [-Unlimit-](https://osu.ppy.sh/users/2032353)
+- [The map that introduced **Yokomin** to circle clickers](https://osu.ppy.sh/beatmapsets/428432) hosted by ::Shiirn::{ user-id=465126 }
+- [An alternative cover with an extra osu!taiko difficulty](https://osu.ppy.sh/beatmapsets/808764) hosted by ::Nao Tomori::{ user-id=5364763 }
+- [A harder rendition](https://osu.ppy.sh/beatmapsets/1540629) hosted by ::Camo::{ user-id=5194391 }
+- [And an even harder rendition](https://osu.ppy.sh/beatmapsets/1699079) hosted by ::-Unlimit-::{ user-id=2032353 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/355/Songs/Yokomin%20-%20Yukari.mp3">
@@ -40,7 +40,7 @@ Check out every map from the video above:
 
 ### Yokomin - Story In Everlasting Princess
 
-Experience [these 4K or 5K osu!mania difficulties](https://osu.ppy.sh/beatmapsets/332130) hosted by [\[ A v a l o n \]](https://osu.ppy.sh/users/4632359) or [this osu!taiko version](https://osu.ppy.sh/beatmapsets/527735) hosted by [Chromoxx](https://osu.ppy.sh/users/1881639)!
+Experience [these 4K or 5K osu!mania difficulties](https://osu.ppy.sh/beatmapsets/332130) hosted by ::\[ A v a l o n \]::{ user-id=4632359 } or [this osu!taiko version](https://osu.ppy.sh/beatmapsets/527735) hosted by ::Chromoxx::{ user-id=1881639 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/355/You%20%26%20Me%2FYokomin%20-%20Story%20In%20Everlasting%20Princess.mp3">
@@ -48,7 +48,7 @@ Experience [these 4K or 5K osu!mania difficulties](https://osu.ppy.sh/beatmapset
 
 ### Yokomin - Colorful Pastel
 
-Play [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/494699) hosted by [\[ A v a l o n \]](https://osu.ppy.sh/users/4632359)!
+Play [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/494699) hosted by ::\[ A v a l o n \]::{ user-id=4632359 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/355/Songs/Yokomin%20-%20Colorful%20Pastel.mp3">
@@ -56,7 +56,7 @@ Play [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/494699) hosted by [\
 
 ### Yokomin - Proof -Album ver-
 
-If you still need more osu!mania maps, [here's one more](https://osu.ppy.sh/beatmapsets/465705) by [\[ A v a l o n \]](https://osu.ppy.sh/users/4632359)!
+If you still need more osu!mania maps, [here's one more](https://osu.ppy.sh/beatmapsets/465705) by ::\[ A v a l o n \]::{ user-id=4632359 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/355/You%20%26%20Me%2FYokomin%20-%20Proof%20-Album%20ver-.mp3">

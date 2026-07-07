@@ -17,7 +17,7 @@ Don't take my word for it, check them out:
 
 ### Vigilantes
 
-Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/1126238) hosted by [Affirmation](https://osu.ppy.sh/users/6186628)!
+Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/1126238) hosted by ::Affirmation::{ user-id=6186628 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/84/previews/2201.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/1126238) hoste
 
 ### Running Blind
 
-Check out [this osu!mania set](https://osu.ppy.sh/beatmapsets/1125991) by [FAMoss](https://osu.ppy.sh/users/7707789)!
+Check out [this osu!mania set](https://osu.ppy.sh/beatmapsets/1125991) by ::FAMoss::{ user-id=7707789 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/84/previews/2198.mp3" type="audio/mpeg">

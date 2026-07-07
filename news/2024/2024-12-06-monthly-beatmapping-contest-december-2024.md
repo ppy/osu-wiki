@@ -31,8 +31,8 @@ This article covers results from the last contest, plus criteria for this contes
 
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [KomachiBaka](https://osu.ppy.sh/users/6155320) & [Frakturehawkens](https://osu.ppy.sh/users/7458583) | [Marmalade butcher - NaRKiSSuS](https://osu.ppy.sh/beatmapsets/2288181) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 each |
-| Runner-up | [iPhone 10](https://osu.ppy.sh/users/12473857) & [-Doodle](https://osu.ppy.sh/users/12337329) | [Annabel - pedalnote](https://osu.ppy.sh/beatmapsets/2289404) | - | +1 each |
+| Winner | ::KomachiBaka::{ user-id=6155320 } & [Frakturehawkens](https://osu.ppy.sh/users/7458583) | [Marmalade butcher - NaRKiSSuS](https://osu.ppy.sh/beatmapsets/2288181) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 each |
+| Runner-up | ::iPhone 10::{ user-id=12473857 } & [-Doodle](https://osu.ppy.sh/users/12337329) | [Annabel - pedalnote](https://osu.ppy.sh/beatmapsets/2289404) | - | +1 each |
 
 #### Top 10
 
@@ -40,7 +40,7 @@ This article covers results from the last contest, plus criteria for this contes
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VcMLL6hLI2k" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[Daycore](https://osu.ppy.sh/users/5596337), [Beomsan](https://osu.ppy.sh/users/3626063), [seros](https://osu.ppy.sh/users/10562853), [Ghouru](https://osu.ppy.sh/users/6273855), [Net0](https://osu.ppy.sh/users/5099768), and [mintIceCream_](https://osu.ppy.sh/users/13221589) judged each and every map in this month's contest. After you send your appreciation to everyone who participated, thank these folks too.
+::Daycore::{ user-id=5596337 }, [Beomsan](https://osu.ppy.sh/users/3626063), ::seros::{ user-id=10562853 }, [Ghouru](https://osu.ppy.sh/users/6273855), ::Net0::{ user-id=5099768 }, and [mintIceCream_](https://osu.ppy.sh/users/13221589) judged each and every map in this month's contest. After you send your appreciation to everyone who participated, thank these folks too.
 
 ### osu!mania results
 
@@ -50,8 +50,8 @@ This article covers results from the last contest, plus criteria for this contes
 
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [-mint-](https://osu.ppy.sh/users/8976576) & [elexire](https://osu.ppy.sh/users/9206093) | [KOAN Sound & Asa - Fuego](https://osu.ppy.sh/beatmapsets/2287548) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 each |
-| Runner-up | [Saemitsu](https://osu.ppy.sh/users/14262789) & [TheFunk](https://osu.ppy.sh/users/13981991) | [Culprate - Junglist Acid (osu! Edit)](https://osu.ppy.sh/beatmapsets/2287873) | - | +1 each |
+| Winner | ::-mint-::{ user-id=8976576 } & [elexire](https://osu.ppy.sh/users/9206093) | [KOAN Sound & Asa - Fuego](https://osu.ppy.sh/beatmapsets/2287548) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 each |
+| Runner-up | ::Saemitsu::{ user-id=14262789 } & [TheFunk](https://osu.ppy.sh/users/13981991) | [Culprate - Junglist Acid (osu! Edit)](https://osu.ppy.sh/beatmapsets/2287873) | - | +1 each |
 
 #### Top 10
 
@@ -59,7 +59,7 @@ This article covers results from the last contest, plus criteria for this contes
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/_4bLXt-ZSZo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to [taba2](https://osu.ppy.sh/users/7850508), [[GB]SuddenDeath](https://osu.ppy.sh/users/6699923), [Antalf](https://osu.ppy.sh/users/8793773), [gzdongsheng](https://osu.ppy.sh/users/8660315), [Hydria](https://osu.ppy.sh/users/808176), and [Monoseul](https://osu.ppy.sh/users/16010604) for judging this month's maps!
+Special thanks to ::taba2::{ user-id=7850508 }, [[GB]SuddenDeath](https://osu.ppy.sh/users/6699923), ::Antalf::{ user-id=8793773 }, [gzdongsheng](https://osu.ppy.sh/users/8660315), ::Hydria::{ user-id=808176 }, and [Monoseul](https://osu.ppy.sh/users/16010604) for judging this month's maps!
 
 ## Game modes
 

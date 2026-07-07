@@ -17,7 +17,7 @@ Our crewmates have finally finished counting all the votes and now is the time t
 
 ## 3rd Place - notMiku
 
-[**Nikstrim**](https://osu.ppy.sh/users/10577559) managed to impress **1435** voters with this terrific piece of art named [notMiku](https://osu.ppy.sh/community/forums/topics/1292954), achieving themselves a shiny bronze medal!
+::**Nikstrim**::{ user-id=10577559 } managed to impress **1435** voters with this terrific piece of art named [notMiku](https://osu.ppy.sh/community/forums/topics/1292954), achieving themselves a shiny bronze medal!
 
 Accommodating a rather minimalistic and flat design, notMiku takes the idea of a futuristic design and implements it for osu! perfectly. Opting for plain colours and simple effects, the skin creates the perfect environment where players can not only focus on the gameplay but also take all its techno-charm in at the same time. This skin will make you feel like seeing the world through a visor with its sharp-edged interface elements and clean icons.
 
@@ -31,7 +31,7 @@ The harmony of futuristic design and simplistic structures illustrated in notMik
 
 ## 2nd Place - Minimalist 2.0
 
-**1849** voters couldn't help but cast their vote for this masterpiece called [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223), crafted by the very hands of [**Krizto**](https://osu.ppy.sh/users/13474556), reserving them 2nd place on the podium!
+**1849** voters couldn't help but cast their vote for this masterpiece called [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223), crafted by the very hands of ::**Krizto**::{ user-id=13474556 }, reserving them 2nd place on the podium!
 
 As the name suggests, Minimalist 2.0 takes a better approach to the notion of minimalism in skinning by making good use of colouring and diagonal layouts. From the relaxation provided by the bubbles flying out of the menu to the refreshment taken in from the diagonal layouts and the novel approach to the mode select interface, the skin manages to keep the fancy elements properly rubbed in under its minimalistic structure.
 
@@ -45,7 +45,7 @@ Krizto's beloved masterpiece, Minimalist 2.0, earns them a shiny 2nd place profi
 
 ## Winner - FREEDOM DiVE↓
 
-Forged with love by the well-known osu! player [**BTMC**](https://osu.ppy.sh/users/3171691) and his team, [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) takes the lead with **3705** votes, outscoring the 2nd place by just over twice as much!
+Forged with love by the well-known osu! player ::**BTMC**::{ user-id=3171691 } and his team, [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) takes the lead with **3705** votes, outscoring the 2nd place by just over twice as much!
 
 Rather than simplicity and minimalism as harboured by most other submissions, FREEDOM DiVE↓ features a vivid theme with colourful visual effects, carried out masterfully with aesthetic hand-drawn elements. Inspired by the song belonging to one of the most iconic beatmaps of all time, [xi - FREEDOM DiVE](https://osu.ppy.sh/beatmapsets/39804), the skin revolves around the little animate orb greeting the user on every screen with its cute expressions.
 

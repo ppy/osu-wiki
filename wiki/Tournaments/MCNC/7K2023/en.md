@@ -43,12 +43,12 @@ The osu!mania 7K Chinese National Cup 2023 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
-| Mappool selector | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=MY }:: [Critical_Star](https://osu.ppy.sh/users/3793196) |
-| Mappool tester | ::{ flag=US }:: [-NoName-](https://osu.ppy.sh/users/10400730), ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |
-| Streamer | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=CN }:: [UselessPlayer](https://osu.ppy.sh/users/15030466), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [osu happy](https://osu.ppy.sh/users/9580470), ::{ flag=CN }:: [- Rainbow -](https://osu.ppy.sh/users/8742486), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [NaimuTongzi](https://osu.ppy.sh/users/8883892), ::{ flag=CN }:: [silly me](https://osu.ppy.sh/users/6433183), ::{ flag=CN }:: [110](https://osu.ppy.sh/users/4524921), ::{ flag=CN }:: [WorthlessPlayer](https://osu.ppy.sh/users/13858681) |
-| Designer | ::{ flag=CN }:: [Dr_Tissues](https://osu.ppy.sh/users/5106681) |
-| Referee | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [UselessPlayer](https://osu.ppy.sh/users/15030466), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [osu happy](https://osu.ppy.sh/users/9580470), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [silly me](https://osu.ppy.sh/users/6433183), ::{ flag=CN }:: [110](https://osu.ppy.sh/users/4524921), ::{ flag=CN }:: [WorthlessPlayer](https://osu.ppy.sh/users/13858681) |
+| Manager | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 } |
+| Mappool selector | ::{ flag=CN }:: ::\_Stan::{ user-id=1653229 }, ::{ flag=CN }:: ::tyrcs::{ user-id=13026904 }, ::{ flag=CN }:: ::\[Crz\]Satori::{ user-id=7082178 }, ::{ flag=CN }:: ::ExNeko::{ user-id=7590894 }, ::{ flag=MY }:: ::Critical\1Star::{ user-id=3793196 } |
+| Mappool tester | ::{ flag=US }:: ::-NoName-::{ user-id=10400730 }, ::{ flag=MY }:: ::\_Kobii::{ user-id=6209713 } |
+| Streamer | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user-id=11279273 }, ::{ flag=CN }:: ::FcEazy::{ user-id=7825227 }, ::{ flag=CN }:: ::UselessPlayer::{ user-id=15030466 }, ::{ flag=CN }:: ::VialVistas::{ user-id=9697708 }, ::{ flag=CN }:: ::cdwcgt::{ user-id=14721101 }, ::{ flag=CN }:: ::osu happy::{ user-id=9580470 }, ::{ flag=CN }:: ::- Rainbow -::{ user-id=8742486 }, ::{ flag=CN }:: ::Muziyami::{ user-id=7003013 }, ::{ flag=CN }:: ::Sonoaoi::{ user-id=9755808 }, ::{ flag=CN }:: ::NaimuTongzi::{ user-id=8883892 }, ::{ flag=CN }:: ::silly me::{ user-id=6433183 }, ::{ flag=CN }:: ::110::{ user-id=4524921 }, ::{ flag=CN }:: ::WorthlessPlayer::{ user-id=13858681 } |
+| Designer | ::{ flag=CN }:: ::Dr\1Tissues::{ user-id=5106681 } |
+| Referee | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 }, ::{ flag=CN }:: ::\[Crz\]Makii::{ user-id=5242158 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user-id=11279273 }, ::{ flag=CN }:: ::UselessPlayer::{ user-id=15030466 }, ::{ flag=CN }:: ::VialVistas::{ user-id=9697708 }, ::{ flag=CN }:: ::cdwcgt::{ user-id=14721101 }, ::{ flag=CN }:: ::osu happy::{ user-id=9580470 }, ::{ flag=CN }:: ::Muziyami::{ user-id=7003013 }, ::{ flag=CN }:: ::Sonoaoi::{ user-id=9755808 }, ::{ flag=CN }:: ::silly me::{ user-id=6433183 }, ::{ flag=CN }:: ::110::{ user-id=4524921 }, ::{ flag=CN }:: ::WorthlessPlayer::{ user-id=13858681 } |
 
 ## Links
 
@@ -64,45 +64,45 @@ The osu!mania 7K Chinese National Cup 2023 was run by various community members.
 
 | Seed | Player |
 | :-: | :-- |
-| #1 | ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072) |
-| #2 | ::{ flag=CN }:: [af-](https://osu.ppy.sh/users/10512663) |
-| #3 | ::{ flag=CN }:: [QingJiDing](https://osu.ppy.sh/users/10569738) |
-| #4 | ::{ flag=CN }:: [HxcQ777](https://osu.ppy.sh/users/18282863) |
-| #5 | ::{ flag=CN }:: [VanWilder](https://osu.ppy.sh/users/89545) |
-| #6 | ::{ flag=CN }:: [\[Crz\]Reimu](https://osu.ppy.sh/users/14318312) |
-| #7 | ::{ flag=CN }:: [Krn\_](https://osu.ppy.sh/users/12452291) |
-| #8 | ::{ flag=MO }:: [idqoos123](https://osu.ppy.sh/users/3946113) |
-| #9 | ::{ flag=CN }:: [\[GB\]King Fish](https://osu.ppy.sh/users/8468203) |
-| #10 | ::{ flag=CN }:: [\[Paw\]FIood](https://osu.ppy.sh/users/6336721) |
-| #11 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) |
-| #12 | ::{ flag=CN }:: [Watch01](https://osu.ppy.sh/users/13967954) |
-| #13 | ::{ flag=CN }:: [Mi-a](https://osu.ppy.sh/users/8021339) |
-| #14 | ::{ flag=TW }:: [IllIlllIIlIIlIl](https://osu.ppy.sh/users/7227070) |
-| #15 | ::{ flag=CN }:: [wjh123](https://osu.ppy.sh/users/1147820) |
-| #16 | ::{ flag=CN }:: [SilentParleHorn](https://osu.ppy.sh/users/5190592) |
-| #17 | ::{ flag=CN }:: [\_Yiiiii](https://osu.ppy.sh/users/6066359) |
-| #18 | ::{ flag=CN }:: [fishbone2445](https://osu.ppy.sh/users/17640814) |
-| #19 | ::{ flag=CN }:: [WANGTIANDADA](https://osu.ppy.sh/users/11400322) |
-| #20 | ::{ flag=CN }:: [Shenzouz](https://osu.ppy.sh/users/29606773) |
-| #21 | ::{ flag=CN }:: [Mito Van](https://osu.ppy.sh/users/14703345) |
-| #22 | ::{ flag=CN }:: [- Xiaoluoli -](https://osu.ppy.sh/users/9502281) |
-| #23 | ::{ flag=CN }:: [YuLiangSSS](https://osu.ppy.sh/users/15889644) |
-| #24 | ::{ flag=CN }:: [a ri su](https://osu.ppy.sh/users/5069628) |
-| #25 | ::{ flag=CN }:: [Rain -](https://osu.ppy.sh/users/8018261) |
-| #26 | ::{ flag=CN }:: [lovely_hyahya](https://osu.ppy.sh/users/10318380) |
-| #27 | ::{ flag=CN }:: [quailty](https://osu.ppy.sh/users/6423914) |
-| #28 | ::{ flag=CN }:: [\[ Classic \]](https://osu.ppy.sh/users/5858053) |
-| #29 | ::{ flag=CN }:: [Mitto](https://osu.ppy.sh/users/9602755) |
-| #30 | ::{ flag=CN }:: [SoftC418](https://osu.ppy.sh/users/26856985) |
-| #31 | ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291) |
-| #32 | ::{ flag=CN }:: [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
-| #33 | ::{ flag=CN }:: [Kuiiiiteeee](https://osu.ppy.sh/users/7304075) |
-| #34 | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018) |
-| #35 | ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334) |
-| #36 | ::{ flag=CN }:: [\[Crz\]Nickname](https://osu.ppy.sh/users/10817494) |
-| #37 | ::{ flag=CN }:: [mitaiiiiiiii](https://osu.ppy.sh/users/19173683) |
-| #38 | ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016) |
-| #39 | ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856) |
+| #1 | ::{ flag=CN }:: ::U1d::{ user-id=10125072 } |
+| #2 | ::{ flag=CN }:: ::af-::{ user-id=10512663 } |
+| #3 | ::{ flag=CN }:: ::QingJiDing::{ user-id=10569738 } |
+| #4 | ::{ flag=CN }:: ::HxcQ777::{ user-id=18282863 } |
+| #5 | ::{ flag=CN }:: ::VanWilder::{ user-id=89545 } |
+| #6 | ::{ flag=CN }:: ::\[Crz\]Reimu::{ user-id=14318312 } |
+| #7 | ::{ flag=CN }:: ::Krn\_::{ user-id=12452291 } |
+| #8 | ::{ flag=MO }:: ::idqoos123::{ user-id=3946113 } |
+| #9 | ::{ flag=CN }:: ::\[GB\]King Fish::{ user-id=8468203 } |
+| #10 | ::{ flag=CN }:: ::\[Paw\]FIood::{ user-id=6336721 } |
+| #11 | ::{ flag=CN }:: ::AWMRone::{ user-id=10351684 } |
+| #12 | ::{ flag=CN }:: ::Watch01::{ user-id=13967954 } |
+| #13 | ::{ flag=CN }:: ::Mi-a::{ user-id=8021339 } |
+| #14 | ::{ flag=TW }:: ::IllIlllIIlIIlIl::{ user-id=7227070 } |
+| #15 | ::{ flag=CN }:: ::wjh123::{ user-id=1147820 } |
+| #16 | ::{ flag=CN }:: ::SilentParleHorn::{ user-id=5190592 } |
+| #17 | ::{ flag=CN }:: ::\_Yiiiii::{ user-id=6066359 } |
+| #18 | ::{ flag=CN }:: ::fishbone2445::{ user-id=17640814 } |
+| #19 | ::{ flag=CN }:: ::WANGTIANDADA::{ user-id=11400322 } |
+| #20 | ::{ flag=CN }:: ::Shenzouz::{ user-id=29606773 } |
+| #21 | ::{ flag=CN }:: ::Mito Van::{ user-id=14703345 } |
+| #22 | ::{ flag=CN }:: ::- Xiaoluoli -::{ user-id=9502281 } |
+| #23 | ::{ flag=CN }:: ::YuLiangSSS::{ user-id=15889644 } |
+| #24 | ::{ flag=CN }:: ::a ri su::{ user-id=5069628 } |
+| #25 | ::{ flag=CN }:: ::Rain -::{ user-id=8018261 } |
+| #26 | ::{ flag=CN }:: ::lovely\1hyahya::{ user-id=10318380 } |
+| #27 | ::{ flag=CN }:: ::quailty::{ user-id=6423914 } |
+| #28 | ::{ flag=CN }:: ::\[ Classic \]::{ user-id=5858053 } |
+| #29 | ::{ flag=CN }:: ::Mitto::{ user-id=9602755 } |
+| #30 | ::{ flag=CN }:: ::SoftC418::{ user-id=26856985 } |
+| #31 | ::{ flag=CN }:: ::AelSan::{ user-id=14095291 } |
+| #32 | ::{ flag=CN }:: ::-\[Ulazis\]-::{ user-id=11144363 } |
+| #33 | ::{ flag=CN }:: ::Kuiiiiteeee::{ user-id=7304075 } |
+| #34 | ::{ flag=CN }:: ::\[GB\]Luoxuan0327::{ user-id=8586018 } |
+| #35 | ::{ flag=CN }:: ::\[GB\]Akamite::{ user-id=13418334 } |
+| #36 | ::{ flag=CN }:: ::\[Crz\]Nickname::{ user-id=10817494 } |
+| #37 | ::{ flag=CN }:: ::mitaiiiiiiii::{ user-id=19173683 } |
+| #38 | ::{ flag=CN }:: ::chana::{ user-id=18375016 } |
+| #39 | ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user-id=3046856 } |
 
 ## Podium
 
@@ -110,9 +110,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: [VanWilder](https://osu.ppy.sh/users/89545) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CN }:: [QingJiDing](https://osu.ppy.sh/users/10569738) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: ::VanWilder::{ user-id=89545 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: ::U1d::{ user-id=10125072 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CN }:: ::QingJiDing::{ user-id=10569738 } |
 
 ## Mappools
 

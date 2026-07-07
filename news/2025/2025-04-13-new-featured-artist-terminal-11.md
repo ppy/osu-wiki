@@ -17,7 +17,7 @@ Take a peek:
 
 ### [Terminal 11 - Echoes](https://assets.ppy.sh/artists/470/Echoes/Terminal%2011%20-%20Echoes.osz)
 
-This year's osu!taiko World Cup gave some love to **Terminal 11** too! Earlier today, [Echoes](https://osu.ppy.sh/beatmapsets/2354615) (mapped by [Xay](https://osu.ppy.sh/users/961417)) was showcased as part of the Finals mappool!
+This year's osu!taiko World Cup gave some love to **Terminal 11** too! Earlier today, [Echoes](https://osu.ppy.sh/beatmapsets/2354615) (mapped by ::Xay::{ user-id=961417 }) was showcased as part of the Finals mappool!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/P0vgkkz0DTs" frameborder="0" allowfullscreen></iframe>
@@ -25,7 +25,7 @@ This year's osu!taiko World Cup gave some love to **Terminal 11** too! Earlier t
 
 ### [Terminal 11 - Fury](https://assets.ppy.sh/artists/470/Self%20Exorcism/Terminal%2011%20-%20Fury.osz)
 
-Check out [this Loved map](https://osu.ppy.sh/beatmapsets/1632108) hosted by [Pizza69](https://osu.ppy.sh/users/25285704)!
+Check out [this Loved map](https://osu.ppy.sh/beatmapsets/1632108) hosted by ::Pizza69::{ user-id=25285704 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/470/Self%20Exorcism/Terminal%2011%20-%20Fury.mp3">

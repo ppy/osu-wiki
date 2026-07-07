@@ -43,16 +43,16 @@ Check out the respective game mode seasonal rankings:
 
 ## Summer Season 2025 first playlists {id=playlists}
 
-The preview videos for each of the playlists were provided by [Noffy](https://osu.ppy.sh/users/1541323).
+The preview videos for each of the playlists were provided by ::Noffy::{ user-id=1541323 }.
 
-### ![](/wiki/shared/mode/osu.png) osu! (led by [Lefafel](https://osu.ppy.sh/users/2295850))
+### ![](/wiki/shared/mode/osu.png) osu! (led by ::Lefafel::{ user-id=2295850 })
 
 #### Beatmap of the Season - Curators' Pick
 
 [![](/wiki/shared/news/2025-08-22-beatmap-spotlights-summer-2025/2282492.jpg)](https://osu.ppy.sh/beatmapsets/2282492#osu/4883166)
 
-**[SOUND HOLIC feat. Meramipop - Koiiro no Yume (NekuMagetsu) \[lit120's Hard\]](https://osu.ppy.sh/beatmapsets/2282492#osu/4883166)**, created by [lit120](https://osu.ppy.sh/users/3109248)\
-*primarily suggested and described by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+**[SOUND HOLIC feat. Meramipop - Koiiro no Yume (NekuMagetsu) \[lit120's Hard\]](https://osu.ppy.sh/beatmapsets/2282492#osu/4883166)**, created by ::lit120::{ user-id=3109248 }\
+*primarily suggested and described by ::DigitalHypno::{ user-id=4384207 }*
 
 This map is a role model when it comes to recreating the old map style we all know and love, which is why it was chosen as the map of the season!
 
@@ -60,7 +60,7 @@ The mapset as a whole is a tribute to a [2009 map of the same song](https://osu.
 
 In short, this is the perfect map to give you the purest osu! experience: chilling out and peacefully clicking circles to a catchy song. Have fun!
 
-Fun fact: [Andrea](https://osu.ppy.sh/users/33599) nominated both the original 2009 map and this new 2025 map.
+Fun fact: ::Andrea::{ user-id=33599 } nominated both the original 2009 map and this new 2025 map.
 
 #### Playlist A
 
@@ -70,29 +70,29 @@ Fun fact: [Andrea](https://osu.ppy.sh/users/33599) nominated both the original 2
   </video>
 </div>
 
-- [SOUND HOLIC feat. Meramipop - Koiiro no Yume (NekuMagetsu) \[lit120's Hard\]](https://osu.ppy.sh/beatmapsets/2282492#osu/4883166), suggested by [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- [ATARASHII GAKKO! - OTONABLUE (Kyouren) \[LIAN X KYOUREN'S HARD!\]](https://osu.ppy.sh/beatmapsets/2121712#osu/4474041), suggested by [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- [AKI - Color of Happiness (Garden) \[Insane\]](https://osu.ppy.sh/beatmapsets/2250158#osu/4785277), suggested by [Lefafel](https://osu.ppy.sh/users/2295850)
-- [Tedjimo yomigY - JezoensiS (Pisapou) \[Nozuchi's insanE\]](https://osu.ppy.sh/beatmapsets/2272348#osu/4879429), suggested by [Riot](https://osu.ppy.sh/users/4256461)
-- [orion sun - antidote (jamesjan3) \[wherever\]](https://osu.ppy.sh/beatmapsets/2154716#osu/4541319), suggested by [Boolin](https://osu.ppy.sh/users/10664409)
-- [PUP - Bloody Mary, Kate and Ashley (table tennis) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1938104#osu/4922783), suggested by [Boolin](https://osu.ppy.sh/users/10664409)
-- [ELECTROCUTICA feat. EVO+ - Moon Seeker (Lulu-) \[Lulu x Bonzi - Pulsation\]](https://osu.ppy.sh/beatmapsets/1235544#osu/2568398), suggested by [Boolin](https://osu.ppy.sh/users/10664409)
-- [Peter Gabriel - Big Time (Mismagius) \[Larger Than Life\]](https://osu.ppy.sh/beatmapsets/2139563#osu/4503012), suggested by [Lefafel](https://osu.ppy.sh/users/2295850)
-- [Kagetora. - Tenchi-Kaibyaku (Arsalan) \[acnozei's extra\]](https://osu.ppy.sh/beatmapsets/2265132#osu/4851947), suggested by [Riot](https://osu.ppy.sh/users/4256461)
+- [SOUND HOLIC feat. Meramipop - Koiiro no Yume (NekuMagetsu) \[lit120's Hard\]](https://osu.ppy.sh/beatmapsets/2282492#osu/4883166), suggested by ::DigitalHypno::{ user-id=4384207 }
+- [ATARASHII GAKKO! - OTONABLUE (Kyouren) \[LIAN X KYOUREN'S HARD!\]](https://osu.ppy.sh/beatmapsets/2121712#osu/4474041), suggested by ::DigitalHypno::{ user-id=4384207 }
+- [AKI - Color of Happiness (Garden) \[Insane\]](https://osu.ppy.sh/beatmapsets/2250158#osu/4785277), suggested by ::Lefafel::{ user-id=2295850 }
+- [Tedjimo yomigY - JezoensiS (Pisapou) \[Nozuchi's insanE\]](https://osu.ppy.sh/beatmapsets/2272348#osu/4879429), suggested by ::Riot::{ user-id=4256461 }
+- [orion sun - antidote (jamesjan3) \[wherever\]](https://osu.ppy.sh/beatmapsets/2154716#osu/4541319), suggested by ::Boolin::{ user-id=10664409 }
+- [PUP - Bloody Mary, Kate and Ashley (table tennis) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1938104#osu/4922783), suggested by ::Boolin::{ user-id=10664409 }
+- [ELECTROCUTICA feat. EVO+ - Moon Seeker (Lulu-) \[Lulu x Bonzi - Pulsation\]](https://osu.ppy.sh/beatmapsets/1235544#osu/2568398), suggested by ::Boolin::{ user-id=10664409 }
+- [Peter Gabriel - Big Time (Mismagius) \[Larger Than Life\]](https://osu.ppy.sh/beatmapsets/2139563#osu/4503012), suggested by ::Lefafel::{ user-id=2295850 }
+- [Kagetora. - Tenchi-Kaibyaku (Arsalan) \[acnozei's extra\]](https://osu.ppy.sh/beatmapsets/2265132#osu/4851947), suggested by ::Riot::{ user-id=4256461 }
 
-### ![](/wiki/shared/mode/taiko.png) osu!taiko (led by [Yasuho](https://osu.ppy.sh/users/8458835))
+### ![](/wiki/shared/mode/taiko.png) osu!taiko (led by ::Yasuho::{ user-id=8458835 })
 
 #### Beatmap of the Season - Curators' Pick
 
 [![](/wiki/shared/news/2025-08-22-beatmap-spotlights-summer-2025/2347284.jpg)](https://osu.ppy.sh/beatmapsets/2347284#osu/5048624)
 
-**[Supire - Dead Aire (Jayceko) \[Nwolf's & Jayceko's Inherited Misfortune\]](https://osu.ppy.sh/beatmapsets/2347284#osu/5048624)**, created by [Jayceko](https://osu.ppy.sh/users/19951350) and [Nwolf](https://osu.ppy.sh/users/1910766)\
-*primarily suggested by [nevqr](https://osu.ppy.sh/users/14269506)*\
-*described by [Yasuho](https://osu.ppy.sh/users/8458835)*
+**[Supire - Dead Aire (Jayceko) \[Nwolf's & Jayceko's Inherited Misfortune\]](https://osu.ppy.sh/beatmapsets/2347284#osu/5048624)**, created by ::Jayceko::{ user-id=19951350 } and [Nwolf](https://osu.ppy.sh/users/1910766)\
+*primarily suggested by ::nevqr::{ user-id=14269506 }*\
+*described by ::Yasuho::{ user-id=8458835 }*
 
-Let's all take a well-needed breather and go back to one of the greatest maps the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025) had to offer. Of course, we are talking about [Supire - Dead Aire](https://osu.ppy.sh/beatmapsets/2347284#taiko/5048624) mapped by [Jayceko](https://osu.ppy.sh/users/19951350) and [Nwolf](https://osu.ppy.sh/users/1910766), this year's Quarterfinals tiebreaker.
+Let's all take a well-needed breather and go back to one of the greatest maps the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025) had to offer. Of course, we are talking about [Supire - Dead Aire](https://osu.ppy.sh/beatmapsets/2347284#taiko/5048624) mapped by ::Jayceko::{ user-id=19951350 } and [Nwolf](https://osu.ppy.sh/users/1910766), this year's Quarterfinals tiebreaker.
 
-Amazing design and song meets beatmapping extraordinaire — a collab we didn't know we needed. The techy mapping style is greatly supported by this song's neurofunk atmosphere. From start to finish, players receive plenty of difficult snapping and slider velocity changes and a custom song experience that can very easily cause goosebumps. Also remember to turn on the storyboard by [binarie](https://osu.ppy.sh/users/15632854) for the full experience.
+Amazing design and song meets beatmapping extraordinaire — a collab we didn't know we needed. The techy mapping style is greatly supported by this song's neurofunk atmosphere. From start to finish, players receive plenty of difficult snapping and slider velocity changes and a custom song experience that can very easily cause goosebumps. Also remember to turn on the storyboard by ::binarie::{ user-id=15632854 } for the full experience.
 
 What are you waiting for? Make sure to go play it if you haven't already! And if you have... PLAY IT AGAIN!
 
@@ -104,26 +104,26 @@ What are you waiting for? Make sure to go play it if you haven't already! And if
   </video>
 </div>
 
-- [Essbee - Rubix (BlackBN) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/2201516#osu/4659219), suggested by [uone](https://osu.ppy.sh/users/5321719)
-- [HyuN - Fuyu no Hime (Charlotte) \[Vulkin's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1202956#osu/2550219), suggested by [Boaz](https://osu.ppy.sh/users/13302996)
-- [Hiro Shinosawa (CV: Reina Kawamura) - mekurume (Game Ver.) (ler1211) \[uone's oni\]](https://osu.ppy.sh/beatmapsets/2306665#osu/4937675), suggested by [Boaz](https://osu.ppy.sh/users/13302996)
-- [Rahatt - Dirty Doll (ndrrr) \[ulko's Oni\]](https://osu.ppy.sh/beatmapsets/2087957#osu/4566657), suggested by [uone](https://osu.ppy.sh/users/5321719)
-- [Marmalade butcher - Amanita (Eltigant) \[Oni\]](https://osu.ppy.sh/beatmapsets/2270594#osu/4836220), suggested by [Boaz](https://osu.ppy.sh/users/13302996)
-- [Kocchi no Kento - Hai Yorokonde (Magens Remix) feat. Hatsune Miku (Hivie) \[Overdose!\]](https://osu.ppy.sh/beatmapsets/2298691#osu/4911448), suggested by [nevqr](https://osu.ppy.sh/users/14269506)
-- [BiSH - innocent arrogance (tv size) (radar) \[heaven\]](https://osu.ppy.sh/beatmapsets/1978565#osu/4107670), suggested by [Boaz](https://osu.ppy.sh/users/13302996)
-- [Kitsune^2 - Free (\_gt) \[Fly\]](https://osu.ppy.sh/beatmapsets/2308735#osu/4938721), suggested by [nevqr](https://osu.ppy.sh/users/14269506)
-- [Supire - Dead Aire (Jayceko) \[Nwolf's & Jayceko's Inherited Misfortune\]](https://osu.ppy.sh/beatmapsets/2347284#osu/5048624), suggested by [nevqr](https://osu.ppy.sh/users/14269506)
+- [Essbee - Rubix (BlackBN) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/2201516#osu/4659219), suggested by ::uone::{ user-id=5321719 }
+- [HyuN - Fuyu no Hime (Charlotte) \[Vulkin's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1202956#osu/2550219), suggested by ::Boaz::{ user-id=13302996 }
+- [Hiro Shinosawa (CV: Reina Kawamura) - mekurume (Game Ver.) (ler1211) \[uone's oni\]](https://osu.ppy.sh/beatmapsets/2306665#osu/4937675), suggested by ::Boaz::{ user-id=13302996 }
+- [Rahatt - Dirty Doll (ndrrr) \[ulko's Oni\]](https://osu.ppy.sh/beatmapsets/2087957#osu/4566657), suggested by ::uone::{ user-id=5321719 }
+- [Marmalade butcher - Amanita (Eltigant) \[Oni\]](https://osu.ppy.sh/beatmapsets/2270594#osu/4836220), suggested by ::Boaz::{ user-id=13302996 }
+- [Kocchi no Kento - Hai Yorokonde (Magens Remix) feat. Hatsune Miku (Hivie) \[Overdose!\]](https://osu.ppy.sh/beatmapsets/2298691#osu/4911448), suggested by ::nevqr::{ user-id=14269506 }
+- [BiSH - innocent arrogance (tv size) (radar) \[heaven\]](https://osu.ppy.sh/beatmapsets/1978565#osu/4107670), suggested by ::Boaz::{ user-id=13302996 }
+- [Kitsune^2 - Free (\_gt) \[Fly\]](https://osu.ppy.sh/beatmapsets/2308735#osu/4938721), suggested by ::nevqr::{ user-id=14269506 }
+- [Supire - Dead Aire (Jayceko) \[Nwolf's & Jayceko's Inherited Misfortune\]](https://osu.ppy.sh/beatmapsets/2347284#osu/5048624), suggested by ::nevqr::{ user-id=14269506 }
 
-### ![](/wiki/shared/mode/catch.png) osu!catch (led by [SadEgg](https://osu.ppy.sh/users/10278243))
+### ![](/wiki/shared/mode/catch.png) osu!catch (led by ::SadEgg::{ user-id=10278243 })
 
 #### Beatmap of the Season - Curators' Pick
 
 [![](/wiki/shared/news/2025-08-22-beatmap-spotlights-summer-2025/2281583.jpg)](https://osu.ppy.sh/beatmapsets/2281583#osu/4879141)
 
-**[IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Spectator) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/2281583#osu/4879141)**, created by [Rocma](https://osu.ppy.sh/users/566276)\
-*primarily suggested and described by [Morusya](https://osu.ppy.sh/users/13681464)*
+**[IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Spectator) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/2281583#osu/4879141)**, created by ::Rocma::{ user-id=566276 }\
+*primarily suggested and described by ::Morusya::{ user-id=13681464 }*
 
-Summer looks to have been a plenteous one for osu!catch. And what could be better to kick off the seasonal spotlights with than everyone's favourite IOSYS? Of course, a [Rocma](https://osu.ppy.sh/users/566276) map to boot!
+Summer looks to have been a plenteous one for osu!catch. And what could be better to kick off the seasonal spotlights with than everyone's favourite IOSYS? Of course, a ::Rocma::{ user-id=566276 } map to boot!
 
 Rocma, better known by their complex and technical maps, continues to surprise us once again, this time in the minimalist area. Their map for [Chanteikku Sanyousei no Itazura Daisensou](https://osu.ppy.sh/beatmapsets/2281583#fruits/4879141) is an excellent demonstration of how even with a simplistic approach, one can create a rather interesting and fun map. The unusual usage of playfield and standstills create an exciting experience for fans of reading and control maps that you don't want to miss!
 
@@ -137,26 +137,26 @@ This Rain difficulty is sure to appeal to both new players who are just learning
   </video>
 </div>
 
-- [Kuba Oms - My Love (Deif) \[Collab Platter\]](https://osu.ppy.sh/beatmapsets/2299967#osu/4914685), suggested by [Nelly](https://osu.ppy.sh/users/4741164)
-- [MYUKKE. - Beta Snow (Spectator) \[Platter\]](https://osu.ppy.sh/beatmapsets/2275058#osu/4870662), suggested by [Morusya](https://osu.ppy.sh/users/13681464)
-- [Hagumi Nishizawa - My Hero! Up to you! (Game Ver.) (Katsuragi) \[Rain\]](https://osu.ppy.sh/beatmapsets/2239390#osu/4758983), suggested by [Morusya](https://osu.ppy.sh/users/13681464)
-- [-45 - System Zero (skill issue lol) \[2zz's Rain\]](https://osu.ppy.sh/beatmapsets/1984907#osu/4566061), suggested by [Morusya](https://osu.ppy.sh/users/13681464)
-- [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Spectator) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/2281583#osu/4879141), suggested by [Morusya](https://osu.ppy.sh/users/13681464)
-- [Azuna Riko - Katachi (TV Size) (Mniam) \[Faputa (CV: Mniam)\]](https://osu.ppy.sh/beatmapsets/1925863#osu/3976666), suggested by [Phob](https://osu.ppy.sh/users/6069462)
-- [Sasuke Haraguchi feat. Kasane Teto - Igaku (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2230485#osu/4733442), suggested by [Morusya](https://osu.ppy.sh/users/13681464)
-- [cassie - me & u (succducc bootleg) (Spectator) \[us\]](https://osu.ppy.sh/beatmapsets/1281611#osu/2662017), suggested by [Morusya](https://osu.ppy.sh/users/13681464)
-- [roer - ViLLAGE OF CHRYSANTHEMUM (Morusya) \[Chrysanth Haven\]](https://osu.ppy.sh/beatmapsets/2257774#osu/4804041), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
+- [Kuba Oms - My Love (Deif) \[Collab Platter\]](https://osu.ppy.sh/beatmapsets/2299967#osu/4914685), suggested by ::Nelly::{ user-id=4741164 }
+- [MYUKKE. - Beta Snow (Spectator) \[Platter\]](https://osu.ppy.sh/beatmapsets/2275058#osu/4870662), suggested by ::Morusya::{ user-id=13681464 }
+- [Hagumi Nishizawa - My Hero! Up to you! (Game Ver.) (Katsuragi) \[Rain\]](https://osu.ppy.sh/beatmapsets/2239390#osu/4758983), suggested by ::Morusya::{ user-id=13681464 }
+- [-45 - System Zero (skill issue lol) \[2zz's Rain\]](https://osu.ppy.sh/beatmapsets/1984907#osu/4566061), suggested by ::Morusya::{ user-id=13681464 }
+- [IOSYS - Chanteikku Sanyousei no Itazura Daisensou (Spectator) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/2281583#osu/4879141), suggested by ::Morusya::{ user-id=13681464 }
+- [Azuna Riko - Katachi (TV Size) (Mniam) \[Faputa (CV: Mniam)\]](https://osu.ppy.sh/beatmapsets/1925863#osu/3976666), suggested by ::Phob::{ user-id=6069462 }
+- [Sasuke Haraguchi feat. Kasane Teto - Igaku (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2230485#osu/4733442), suggested by ::Morusya::{ user-id=13681464 }
+- [cassie - me & u (succducc bootleg) (Spectator) \[us\]](https://osu.ppy.sh/beatmapsets/1281611#osu/2662017), suggested by ::Morusya::{ user-id=13681464 }
+- [roer - ViLLAGE OF CHRYSANTHEMUM (Morusya) \[Chrysanth Haven\]](https://osu.ppy.sh/beatmapsets/2257774#osu/4804041), suggested by ::SadEgg::{ user-id=10278243 }
 
-### ![](/wiki/shared/mode/mania.png) osu!mania (led by [Maxus](https://osu.ppy.sh/users/4335785))
+### ![](/wiki/shared/mode/mania.png) osu!mania (led by ::Maxus::{ user-id=4335785 })
 
 #### Beatmap of the Season - Curators' Pick
 
 [![](/wiki/shared/news/2025-08-22-beatmap-spotlights-summer-2025/2203489.jpg)](https://osu.ppy.sh/beatmapsets/2203489#osu/4793111)
 
-**[technoplanet - Vomit (\_Stan) \[\[7K\] Blocko's Cascade\]](https://osu.ppy.sh/beatmapsets/2203489#osu/4793111)**, created by [Blocko](https://osu.ppy.sh/users/4075092)\
-*primarily suggested and described by [Maxus](https://osu.ppy.sh/users/4335785)*
+**[technoplanet - Vomit (\_Stan) \[\[7K\] Blocko's Cascade\]](https://osu.ppy.sh/beatmapsets/2203489#osu/4793111)**, created by ::Blocko::{ user-id=4075092 }\
+*primarily suggested and described by ::Maxus::{ user-id=4335785 }*
 
-This season, we are thrilled to highlight a remarkable [osu! original](/wiki/Community/Bespoke_music) created exclusively for the [osu!mania 7K World Cup 2024](/wiki/Tournaments/MWC/2024_7K). Composed by the talented [technoplanet](https://osu.ppy.sh/beatmaps/artists/193) and brought to life through the expert mapping of [Blocko](https://osu.ppy.sh/users/4075092), one of the community’s finest 7K mappers, this masterpiece stands proudly as our Beatmap of the Season.
+This season, we are thrilled to highlight a remarkable [osu! original](/wiki/Community/Bespoke_music) created exclusively for the [osu!mania 7K World Cup 2024](/wiki/Tournaments/MWC/2024_7K). Composed by the talented [technoplanet](https://osu.ppy.sh/beatmaps/artists/193) and brought to life through the expert mapping of ::Blocko::{ user-id=4075092 }, one of the community’s finest 7K mappers, this masterpiece stands proudly as our Beatmap of the Season.
 
 Prepare for an unforgettable challenge! This chart delivers a perfect harmony of rice and long notes, combined with unconventional, high-intensity patterns that will keep players engaged from the very first note. It demands physical precision, technical mastery, and impeccable coordination. A true test for anyone aiming to conquer its most intricate sections. As the music builds toward its epic final climax, the map transforms into an immersive journey, each note meticulously emphasizing the song's story and emotional progression.
 
@@ -170,15 +170,15 @@ We are beyond excited to present this beatmap as the highlight of the season, co
   </video>
 </div>
 
-- [SP-# - tinnitus (taba2) \[\[7K\] Hard\]](https://osu.ppy.sh/beatmapsets/2045302#osu/4269217), suggested by [Maxus](https://osu.ppy.sh/users/4335785)
-- [Juggernaut. - Catastrophe (Alptraum) \[\[6K\] Hyper\]](https://osu.ppy.sh/beatmapsets/2085392#osu/4478583), suggested by [Seulgi](https://osu.ppy.sh/users/4918394)
-- [Blacklolita - Antithese (Anwul\_) \[\[8K\] Insane\]](https://osu.ppy.sh/beatmapsets/2192430#osu/4686263), suggested by [Maxus](https://osu.ppy.sh/users/4335785)
-- [Yuta Imai vs. Qlarabelle - ALTER EGO (Murumoo) \[\[4K\] Beyond\]](https://osu.ppy.sh/beatmapsets/2223694#osu/4789446), suggested by [Maxus](https://osu.ppy.sh/users/4335785)
-- [Emma Stone, Callie Hernandez, Sonoya Mizuno, Jessica Rothe - Someone In The Crowd (AHHHHHHHHHHHHHH) \[\[4K\] Soulmate\]](https://osu.ppy.sh/beatmapsets/1412093#osu/2910941), suggested by [Carpihat](https://osu.ppy.sh/users/10085090)
-- [STEAKA - Medic: A Doll (oTipa) \[\[4K\] Fantastical / VOID\]](https://osu.ppy.sh/beatmapsets/2299672#osu/4913933), suggested by [Crumpey](https://osu.ppy.sh/users/3518705)
-- [Kou! - sub/zerO (Ppass) \[\[4K\] Absolute Zero\]](https://osu.ppy.sh/beatmapsets/2210057#osu/4681207), suggested by [Ilham](https://osu.ppy.sh/users/3057154)
-- [Sound piercer & ginkiha (feat. Yuzuha & NeLiME) - MI:LIGHT CONNECT (Hoshimegu Mio) \[\[7K\] Extra\]](https://osu.ppy.sh/beatmapsets/2259046#osu/4807368), suggested by [Maxus](https://osu.ppy.sh/users/4335785)
-- [technoplanet - Vomit (\_Stan) \[\[7K\] Blocko's Cascade\]](https://osu.ppy.sh/beatmapsets/2203489#osu/4793111), suggested by [Maxus](https://osu.ppy.sh/users/4335785)
+- [SP-# - tinnitus (taba2) \[\[7K\] Hard\]](https://osu.ppy.sh/beatmapsets/2045302#osu/4269217), suggested by ::Maxus::{ user-id=4335785 }
+- [Juggernaut. - Catastrophe (Alptraum) \[\[6K\] Hyper\]](https://osu.ppy.sh/beatmapsets/2085392#osu/4478583), suggested by ::Seulgi::{ user-id=4918394 }
+- [Blacklolita - Antithese (Anwul\_) \[\[8K\] Insane\]](https://osu.ppy.sh/beatmapsets/2192430#osu/4686263), suggested by ::Maxus::{ user-id=4335785 }
+- [Yuta Imai vs. Qlarabelle - ALTER EGO (Murumoo) \[\[4K\] Beyond\]](https://osu.ppy.sh/beatmapsets/2223694#osu/4789446), suggested by ::Maxus::{ user-id=4335785 }
+- [Emma Stone, Callie Hernandez, Sonoya Mizuno, Jessica Rothe - Someone In The Crowd (AHHHHHHHHHHHHHH) \[\[4K\] Soulmate\]](https://osu.ppy.sh/beatmapsets/1412093#osu/2910941), suggested by ::Carpihat::{ user-id=10085090 }
+- [STEAKA - Medic: A Doll (oTipa) \[\[4K\] Fantastical / VOID\]](https://osu.ppy.sh/beatmapsets/2299672#osu/4913933), suggested by ::Crumpey::{ user-id=3518705 }
+- [Kou! - sub/zerO (Ppass) \[\[4K\] Absolute Zero\]](https://osu.ppy.sh/beatmapsets/2210057#osu/4681207), suggested by ::Ilham::{ user-id=3057154 }
+- [Sound piercer & ginkiha (feat. Yuzuha & NeLiME) - MI:LIGHT CONNECT (Hoshimegu Mio) \[\[7K\] Extra\]](https://osu.ppy.sh/beatmapsets/2259046#osu/4807368), suggested by ::Maxus::{ user-id=4335785 }
+- [technoplanet - Vomit (\_Stan) \[\[7K\] Blocko's Cascade\]](https://osu.ppy.sh/beatmapsets/2203489#osu/4793111), suggested by ::Maxus::{ user-id=4335785 }
 
 ## Spring Season 2025 Beatmap of the Season - Players' Pick
 
@@ -199,14 +199,14 @@ Following up on recent Beatmap Spotlight Curator applications, there's been some
 
 We’d like to give a warm welcome to the new members joining us this season. They will support the existing Curators team in crafting the best playlists for you to compete on!
 
-- **osu!**: [Boolin](https://osu.ppy.sh/users/10664409), [Chaoslitz](https://osu.ppy.sh/users/3621552), [nanoya](https://osu.ppy.sh/users/12366071), [Ryuusei Aika](https://osu.ppy.sh/users/7777875), [Willy](https://osu.ppy.sh/users/3521482), [Wispy](https://osu.ppy.sh/users/11106929), [zekk](https://osu.ppy.sh/users/9704802)
-- **osu!taiko**: [nevqr](https://osu.ppy.sh/users/14269506), [Yasuho](https://osu.ppy.sh/users/8458835)
-- **osu!catch**: [Constantine](https://osu.ppy.sh/users/3221898), [Realmaas](https://osu.ppy.sh/users/6567640)
-- **osu!mania**: [Akasha-](https://osu.ppy.sh/users/2596306), [Muse Dash](https://osu.ppy.sh/users/13695676), [Rurvker](https://osu.ppy.sh/users/24526335), [Spy](https://osu.ppy.sh/users/1217122)
+- **osu!**: ::Boolin::{ user-id=10664409 }, [Chaoslitz](https://osu.ppy.sh/users/3621552), ::nanoya::{ user-id=12366071 }, [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::Willy::{ user-id=3521482 }, [Wispy](https://osu.ppy.sh/users/11106929), ::zekk::{ user-id=9704802 }
+- **osu!taiko**: ::nevqr::{ user-id=14269506 }, [Yasuho](https://osu.ppy.sh/users/8458835)
+- **osu!catch**: ::Constantine::{ user-id=3221898 }, [Realmaas](https://osu.ppy.sh/users/6567640)
+- **osu!mania**: ::Akasha-::{ user-id=2596306 }, [Muse Dash](https://osu.ppy.sh/users/13695676), ::Rurvker::{ user-id=24526335 }, [Spy](https://osu.ppy.sh/users/1217122)
 
-We would also like to say farewell to the following people who decided to step down from the team: [Boaz](https://osu.ppy.sh/users/13302996), [DeviousPanda](https://osu.ppy.sh/users/4966334), [enri](https://osu.ppy.sh/users/8640970), [Hivie](https://osu.ppy.sh/users/14102976), [meiqth](https://osu.ppy.sh/users/12565402) and [sularis](https://osu.ppy.sh/users/14571181). Big thanks for your service!
+We would also like to say farewell to the following people who decided to step down from the team: ::Boaz::{ user-id=13302996 }, [DeviousPanda](https://osu.ppy.sh/users/4966334), ::enri::{ user-id=8640970 }, [Hivie](https://osu.ppy.sh/users/14102976), ::meiqth::{ user-id=12565402 } and [sularis](https://osu.ppy.sh/users/14571181). Big thanks for your service!
 
-This season, [Yasuho](https://osu.ppy.sh/users/8458835) also took over the osu!taiko curators, while [Maxus](https://osu.ppy.sh/users/4335785) has started taking the reins with leading the osu!mania team.
+This season, ::Yasuho::{ user-id=8458835 } also took over the osu!taiko curators, while ::Maxus::{ user-id=4335785 } has started taking the reins with leading the osu!mania team.
 
 ---
 

@@ -1,6 +1,6 @@
 # Guía de modding de osu!mania
 
-*Autor original: ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717).*
+*Autor original: ::{ flag=DE }:: ::Feerum::{ user-id=4815717 }.*
 
 Esta guía explica cómo modear un [beatmap](/wiki/Beatmap) en [osu!mania](/wiki/Game_mode/osu!mania). El [modding](/wiki/Modding) es un proceso relativamente sencillo, y con la suficiente práctica, puede llevarte a convertirte en un [Beatmap Nominator](/wiki/People/Beatmap_Nominators). Así que, ¡empecemos!
 

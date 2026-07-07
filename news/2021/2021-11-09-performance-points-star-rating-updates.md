@@ -58,7 +58,7 @@ While the aforementioned "user total" step is aimed to cover the majority of vis
 
 Based on the feedback from the [last survey we held on scoring and performance](https://assets.ppy.sh/pp-survey-results/viewer.htm?v=1337), we have established a Performance Points Committee to help facilitate faster review and uptake of incoming changes.
 
-This committee presently consists of [**StanR**](https://osu.ppy.sh/users/7217455), [**emu1337**](https://osu.ppy.sh/users/2185987), [**MBmasher**](https://osu.ppy.sh/users/4498616) and [**Apo11o**](https://osu.ppy.sh/users/9558549). All of them are experienced and long-time contributors to the scene, and we are optimistic about where this new approach might take us.
+This committee presently consists of ::**StanR**::{ user-id=7217455 }, [**emu1337**](https://osu.ppy.sh/users/2185987), ::**MBmasher**::{ user-id=4498616 } and [**Apo11o**](https://osu.ppy.sh/users/9558549). All of them are experienced and long-time contributors to the scene, and we are optimistic about where this new approach might take us.
 
 ## osu! changes
 
@@ -71,7 +71,7 @@ As a reminder of the various core values in the difficulty calculation algorithm
 
 ### New aim algorithm
 
-A [new aim algorithm](https://github.com/ppy/osu/pull/14767) written by [**Xexxar**](https://osu.ppy.sh/users/2773526) has been added as a part of this change.
+A [new aim algorithm](https://github.com/ppy/osu/pull/14767) written by ::**Xexxar**::{ user-id=2773526 } has been added as a part of this change.
 
 This new algorithm introduces not only a variety of quality-of-life enhancements to existing infrastructure, but also a series of core changes and additions to the basic factors of aim scoring. In particular, four major things have been added:
 
@@ -86,7 +86,7 @@ We intend to stay alert on these developments in the future and promptly address
 
 ### Rhythm complexity
 
-With [a new change](https://github.com/ppy/osu/pull/14395) submitted by [**Xexxar**](https://osu.ppy.sh/users/2773526), rhythm complexity will now play a more important role in determining the star rating of a map.
+With [a new change](https://github.com/ppy/osu/pull/14395) submitted by ::**Xexxar**::{ user-id=2773526 }, rhythm complexity will now play a more important role in determining the star rating of a map.
 
 This change introduces an algorithmic assessment of the complexity of note patterns and will introduce a more accurate assessment for maps that feature atypical combinations of triples, doubles, quints and much more!
 
@@ -110,7 +110,7 @@ Good luck setting new, impressive top plays that showcase your skills!
 
 ### Total star rating adjustments
 
-The correlation between star rating and performance points has now been improved, following the mathematical derivation work from [**Naitsirk**](https://osu.ppy.sh/users/8202998) in [this pull request](https://github.com/ppy/osu/pull/13986).
+The correlation between star rating and performance points has now been improved, following the mathematical derivation work from ::**Naitsirk**::{ user-id=8202998 } in [this pull request](https://github.com/ppy/osu/pull/13986).
 
 To summarize these changes briefly, star rating now combines the different core skill values mentioned earlier with consideration for how large they are in relation to each other, which is more analogous to how it's done for performance points, whereas before it was just the simple sum of each constituent skill value. In other words, maps which focus on one skill will now receive a lower star rating than ones which focus on many. **These changes do not affect performance points.**
 
@@ -123,13 +123,13 @@ As for the formula change, the graph below should help illustrate the difference
 
 ![Star rating adjustments graph](/wiki/shared/news/2021-11-08-performance-points-star-rating-updates/star-rating-function.png)
 
-If you're interested in the mathematical details of this change, please consult  [**the initial proposal document**](https://docs.google.com/document/d/10DZGYYSsT_yjz2Mtp6yIJld0Rqx4E-vVHupCqiM4TNI/edit?usp=sharing) written up by [Naitsirk](https://osu.ppy.sh/users/8202998).
+If you're interested in the mathematical details of this change, please consult  [**the initial proposal document**](https://docs.google.com/document/d/10DZGYYSsT_yjz2Mtp6yIJld0Rqx4E-vVHupCqiM4TNI/edit?usp=sharing) written up by ::Naitsirk::{ user-id=8202998 }.
 
 ### New Flashlight difficulty skill
 
 Flashlight in difficulty calculation is now revamped, as it moves from an object count-based multiplier applied to the Aim skill to a brand new skill of its own.
 
-The difficulty that Flashlight adds to a map is now measured much more accurately, thanks to [**MBmasher**](https://osu.ppy.sh/users/4498616)'s change in [this pull request](https://github.com/ppy/osu/pull/14217).
+The difficulty that Flashlight adds to a map is now measured much more accurately, thanks to ::**MBmasher**::{ user-id=4498616 }'s change in [this pull request](https://github.com/ppy/osu/pull/14217).
 
 Previously, the object count-based method posed a number of issues. Flow aim (used for hitting streams) is mostly represented by the speed skill, not aim. Additionally, the aim skill, unsurprisingly, only measures the aim difficulty, not the Flashlight difficulty. To put this simply, there will be types of jumps that are hard to aim but quite easy to read with Flashlight, and vice versa.
 
@@ -141,11 +141,11 @@ The creation of a Flashlight skill makes it possible to have it contribute to st
 
 It is also worth noting that the Hidden mod now applies a 1.3x multiplier on the Flashlight skill. The visibility of hit objects are decreased significantly due to the fading of circles and the absence of approach circles.
 
-Find yourself curious about the details? [MBmasher](https://osu.ppy.sh/users/4498616)'s write-up about the implementation will very likely scratch that itch, so feel free to [**indulge in some Flashlight theory**](https://docs.google.com/document/d/11FBEEPXK8yI2d5uTZuebJC3S9nVUKgMD8WdvblERyYA/edit).
+Find yourself curious about the details? ::MBmasher::{ user-id=4498616 }'s write-up about the implementation will very likely scratch that itch, so feel free to [**indulge in some Flashlight theory**](https://docs.google.com/document/d/11FBEEPXK8yI2d5uTZuebJC3S9nVUKgMD8WdvblERyYA/edit).
 
 ### Speed hard cap removal
 
-The speed hard cap in osu! has been removed by [**emu1337**](https://osu.ppy.sh/users/2185987) and [**Apo11o**](https://osu.ppy.sh/users/9558549) in [this pull request](https://github.com/ppy/osu/pull/14617), allowing 300+ BPM streams to be weighed accurately.
+The speed hard cap in osu! has been removed by ::**emu1337**::{ user-id=2185987 } and [**Apo11o**](https://osu.ppy.sh/users/9558549) in [this pull request](https://github.com/ppy/osu/pull/14617), allowing 300+ BPM streams to be weighed accurately.
 
 The speed cap was previously set to 300 BPM to prevent abuse cases, which means that calculating difficulty on beatmaps with higher BPM requires special consideration. Two adjustments were made to account for that:
 
@@ -160,16 +160,16 @@ As an added bonus, the star ratings of absurdly fast maps are now measured more 
 
 Alongside all those big changes above, there are some changes on the smaller side of things:
 
-- [Sliderbreaks are now approximated into the total miss count](https://github.com/ppy/osu/pull/15086) in performance calculation, following [**StanR**](https://osu.ppy.sh/users/7217455)'s pull request. This is guessed by comparing the achieved combo to the maximum combo possible on a map.
-- [Instant spinners no longer give an insane amount of strain](https://github.com/ppy/osu/pull/15009), thanks to [**StanR**](https://osu.ppy.sh/users/7217455). This fixes maps [such as this one](https://osu.ppy.sh/beatmapsets/814850#osu/1901200), which abused this.
-- [**Joz**](https://osu.ppy.sh/users/10644596) spotted that the initial strain for skills started at 1, not 0. [This has been fixed](https://github.com/ppy/osu/pull/15014).
-- In preparation for osu!(lazer), difficulty calculation for [the Blinds mod](https://github.com/ppy/osu/pull/14921) and [the Relax mod](https://github.com/ppy/osu/pull/14942) has been added by [**Apo11o**](https://osu.ppy.sh/users/9558549).
+- [Sliderbreaks are now approximated into the total miss count](https://github.com/ppy/osu/pull/15086) in performance calculation, following ::**StanR**::{ user-id=7217455 }'s pull request. This is guessed by comparing the achieved combo to the maximum combo possible on a map.
+- [Instant spinners no longer give an insane amount of strain](https://github.com/ppy/osu/pull/15009), thanks to ::**StanR**::{ user-id=7217455 }. This fixes maps [such as this one](https://osu.ppy.sh/beatmapsets/814850#osu/1901200), which abused this.
+- ::**Joz**::{ user-id=10644596 } spotted that the initial strain for skills started at 1, not 0. [This has been fixed](https://github.com/ppy/osu/pull/15014).
+- In preparation for osu!(lazer), difficulty calculation for [the Blinds mod](https://github.com/ppy/osu/pull/14921) and [the Relax mod](https://github.com/ppy/osu/pull/14942) has been added by ::**Apo11o**::{ user-id=9558549 }.
   - These could be potentially enabled in the future once osu!(lazer) leaderboard submissions go live, since the concept of "ranked mods" will be no more.
 
 **UPDATE:** In response to community feedback, scores on slider-aim-heavy maps will now be rated lower if they are very likely to have dropped slider ends. This is done by scaling between the aim difficulty of a map with and without sliders, depending on an estimate based on score data, which should address the concerns over the current abuse cases. This hotfix also ships an additional minor nerf to slider aim.
 
 ---
 
-Massive thanks to listed contributors for all the changes made above plus providing details and assistance with this newspost, and all the members of the community who gave their feedback. We'd also like to thank all of the wikifriends involved in helping iron out this article, especially [spaceman_atlas](https://osu.ppy.sh/users/3035836), [Walavouchey](https://osu.ppy.sh/users/5773079) and [clayton](https://osu.ppy.sh/users/3666350).
+Massive thanks to listed contributors for all the changes made above plus providing details and assistance with this newspost, and all the members of the community who gave their feedback. We'd also like to thank all of the wikifriends involved in helping iron out this article, especially ::spaceman\1atlas::{ user-id=3035836 }, [Walavouchey](https://osu.ppy.sh/users/5773079) and ::clayton::{ user-id=3666350 }.
 
 —osu!team

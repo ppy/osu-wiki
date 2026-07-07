@@ -23,7 +23,7 @@ Hungry for maps? Look no further than about 2 centimeters below:
 
 ### xiiiac13 - who let him cook
 
-Consume [this map from the video above](https://osu.ppy.sh/beatmapsets/2169368) hosted by [Nytrocide_](https://osu.ppy.sh/users/11327918)!
+Consume [this map from the video above](https://osu.ppy.sh/beatmapsets/2169368) hosted by ::Nytrocide\1::{ user-id=11327918 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/423/xiiiac13%20Collection%20Volume%20%231/xiiiac13%20-%20who%20let%20him%20cook.mp3">
@@ -31,7 +31,7 @@ Consume [this map from the video above](https://osu.ppy.sh/beatmapsets/2169368) 
 
 ### xiiiac13 - got a compliment today
 
-Witness [this cat](https://osu.ppy.sh/beatmapsets/2163558) hosted by [Chaoslitz](https://osu.ppy.sh/users/3621552)!
+Witness [this cat](https://osu.ppy.sh/beatmapsets/2163558) hosted by ::Chaoslitz::{ user-id=3621552 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/423/xiiiac13%20Collection%20Volume%20%231/xiiiac13%20-%20got%20a%20compliment%20today.mp3">

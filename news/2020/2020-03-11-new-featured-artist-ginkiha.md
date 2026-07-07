@@ -19,7 +19,7 @@ Check out a sample of a few:
 
 ### Oriens
 
-Check out [this classic collab set](https://osu.ppy.sh/beatmapsets/65855#osu/192515) hosted by [Deif](https://osu.ppy.sh/users/318565)!
+Check out [this classic collab set](https://osu.ppy.sh/beatmapsets/65855#osu/192515) hosted by ::Deif::{ user-id=318565 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/72/previews/1948.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this classic collab set](https://osu.ppy.sh/beatmapsets/65855#osu/192
 
 ### EOS
 
-Check out [this legendary collaboration](https://osu.ppy.sh/beatmapsets/151720#osu/373781) hosted by [alacat](https://osu.ppy.sh/users/869782), featuring [RLC](https://osu.ppy.sh/users/1047883) and the visual design of [11t](https://osu.ppy.sh/users/2112092)!
+Check out [this legendary collaboration](https://osu.ppy.sh/beatmapsets/151720#osu/373781) hosted by ::alacat::{ user-id=869782 }, featuring [RLC](https://osu.ppy.sh/users/1047883) and the visual design of ::11t::{ user-id=2112092 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/72/previews/1943.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this legendary collaboration](https://osu.ppy.sh/beatmapsets/151720#o
 
 ### Paved Garden
 
-Check out [this set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1110961#osu/2321257) hosted by [Leader](https://osu.ppy.sh/users/631530)!
+Check out [this set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1110961#osu/2321257) hosted by ::Leader::{ user-id=631530 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/72/previews/1949.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Check out [this set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1110
 
 ### Haruka (Short Ver.) w/ TEA
 
-Check out [this set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1110461#osu/2320392) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!
+Check out [this set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1110461#osu/2320392) hosted by ::Hinsvar::{ user-id=1249323 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/72/previews/1965.mp3" type="audio/mpeg">

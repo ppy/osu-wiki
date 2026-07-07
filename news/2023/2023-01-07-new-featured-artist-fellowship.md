@@ -13,7 +13,7 @@ Ever since [Glory Days](https://osu.ppy.sh/beatmapsets/1781620) made it to the r
 
 If power metal and insane streams are your two favourite things, you might wanna check out [**Fellowship**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/332) for **10** future osu! classics.
 
-[Umbre](https://osu.ppy.sh/users/2766034) is here to officially raise **Fellowship** into the halls of osu! with his Hidden SS play on the hardest difficulty of *Glory Days*. Check out his unreal composure through this video, then journey into the rest of what's available:
+::Umbre::{ user-id=2766034 } is here to officially raise **Fellowship** into the halls of osu! with his Hidden SS play on the hardest difficulty of *Glory Days*. Check out his unreal composure through this video, then journey into the rest of what's available:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ If power metal and insane streams are your two favourite things, you might wanna
 
 ### Fellowship - Glory Days
 
-Test your streaming might with [this difficulty spread](https://osu.ppy.sh/beatmapsets/1781620) hosted by [nebuwua](https://osu.ppy.sh/users/14729352)!
+Test your streaming might with [this difficulty spread](https://osu.ppy.sh/beatmapsets/1781620) hosted by ::nebuwua::{ user-id=14729352 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/332/The%20Saberlight%20Chronicles%2FFellowship%20-%20Glory%20Days.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Test your streaming might with [this difficulty spread](https://osu.ppy.sh/beatm
 
 ### Fellowship - The Frozen Land
 
-Dive into [this marathon](https://osu.ppy.sh/beatmapsets/1835572) also hosted by [nebuwua](https://osu.ppy.sh/users/14729352)!
+Dive into [this marathon](https://osu.ppy.sh/beatmapsets/1835572) also hosted by ::nebuwua::{ user-id=14729352 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/332/Songs/Fellowship%20-%20The%20Frozen%20Land.mp3" type="audio/mpeg">

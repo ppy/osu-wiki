@@ -17,14 +17,14 @@ Also check if the article matches with ASC. See #5729 for more informations -->
 
 ### Anti-Jumps
 
-Nominator: [Seibei4211](https://osu.ppy.sh/users/31537)
+Nominator: ::Seibei4211::{ user-id=31537 }
 
 **Anti-Jumps** consist of a normal set of placed hit objects, followed by a stream of notes with half the spacing (placed closer) than the previous comboset.
 This part could be a separate comboset.
 
 ### Anti-SeibeiStyle-Jumps
 
-Nominator: [Seibei4211](https://osu.ppy.sh/users/31537)
+Nominator: ::Seibei4211::{ user-id=31537 }
 
 **Anti-SeibeiStyle-Jumps** consist of a beat stream with a few beats with the same spacing further apart on the timeline than the others in the same combo.
 
@@ -32,7 +32,7 @@ Basically, hit objects are placed to have the appearance of a constant beat; how
 
 ### Centre Anti-Jumps
 
-Nominator: [NoHitter](https://osu.ppy.sh/users/124455)
+Nominator: ::NoHitter::{ user-id=124455 }
 
 **Centre anti-jumps** have a note or a slider placed in the centre while the other hit objects but are spaced the same in the timeline as a form of an [anti-jump](#anti-jumps).
 
@@ -42,7 +42,7 @@ Nominator: [NoHitter](https://osu.ppy.sh/users/124455)
 
 ### Oibon Jumps
 
-Nominator: [Zekira](https://osu.ppy.sh/users/36749)
+Nominator: ::Zekira::{ user-id=36749 }
 
 **Oibon jumps** are jumps from the left side of the screen to the right side (or vice versa).
 
@@ -50,20 +50,20 @@ Nominator: [Zekira](https://osu.ppy.sh/users/36749)
 
 ### B&F Sliderbased Jumps
 
-Nominator: [Blue Dragon](https://osu.ppy.sh/users/19048)
+Nominator: ::Blue Dragon::{ user-id=19048 }
 
 **B&F sliderbased jumps** consist of making a [back and forth](/wiki/Beatmapping/Mapping_techniques/Rhythm#back-and-forth-beats) jump (or triangle) using the slider as the base for the jump.
 
 ### Endpoint Slider Jumps
 
-Nominator: [Lybydose](https://osu.ppy.sh/users/64501)
+Nominator: ::Lybydose::{ user-id=64501 }
 
 **Endpoint slider jumps** use two sliders, and a hit circle.
 A slider is mapped, followed by a hit circle, followed by a horizontally-flipped copy of the slider.
 
 ### Orbital Sliders
 
-Nominator: [Card N'FoRcE](https://osu.ppy.sh/users/3936)
+Nominator: ::Card N'FoRcE::{ user-id=3936 }
 
 **Orbital sliders** use mirrored sliders with a note in the middle.
 

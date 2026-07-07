@@ -8,7 +8,7 @@ tags:
 
 ![UCUP 2020 logo](img/logo.jpg)
 
-The **Ulat Bulu Cup 2020** (***UCUP 2020***) was an Indonesian double-elimination 2v2 osu! tournament hosted by ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773). The tournament was restricted to Indonesian-speaking players only. This was the third instalment of the Ulat Bulu Cup.
+The **Ulat Bulu Cup 2020** (***UCUP 2020***) was an Indonesian double-elimination 2v2 osu! tournament hosted by ::{ flag=ID }:: ::PatrickFPSGamer::{ user-id=4796773 }. The tournament was restricted to Indonesian-speaking players only. This was the third instalment of the Ulat Bulu Cup.
 
 ## Tournament schedule
 
@@ -35,14 +35,14 @@ The Ulat Bulu Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773) |
-| Co-organizer | ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174) |
-| Mappool selector | ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174), ::{ flag=ID }:: [thefarrel007](https://osu.ppy.sh/users/2429128) |
-| Referee | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=ID }:: [Eg2nD](https://osu.ppy.sh/users/5365662), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ::{ flag=ID }:: [phizh](https://osu.ppy.sh/users/4569302), ::{ flag=ID }:: [Ryuujou](https://osu.ppy.sh/users/3416659), ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465) |
-| Caster | ::{ flag=ID }:: [Alice Pi](https://osu.ppy.sh/users/8787324), ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
-| Designer | ::{ flag=ID }:: [Nexa-](https://osu.ppy.sh/users/6155896) |
-| Statistician | ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organizer | ::{ flag=ID }:: ::PatrickFPSGamer::{ user-id=4796773 } |
+| Co-organizer | ::{ flag=ID }:: ::Fre::{ user-id=3484548 }, ::{ flag=ID }:: ::phizh::{ user-id=4569302 }, ::{ flag=ID }:: ::Tama-desu::{ user-id=3813174 } |
+| Mappool selector | ::{ flag=ID }:: ::Fre::{ user-id=3484548 }, ::{ flag=ID }:: ::Kuro Fuyusaki::{ user-id=2667496 }, ::{ flag=ID }:: ::PatrickFPSGamer::{ user-id=4796773 }, ::{ flag=ID }:: ::phizh::{ user-id=4569302 }, ::{ flag=ID }:: ::Tama-desu::{ user-id=3813174 }, ::{ flag=ID }:: ::thefarrel007::{ user-id=2429128 } |
+| Referee | ::{ flag=ID }:: ::Crezz::{ user-id=7108275 }, ::{ flag=ID }:: ::CubeixID200::{ user-id=10678919 }, ::{ flag=ID }:: ::Eg2nD::{ user-id=5365662 }, ::{ flag=ID }:: ::Fyl::{ user-id=10069307 }, ::{ flag=ID }:: ::PatrickFPSGamer::{ user-id=4796773 }, ::{ flag=ID }:: ::phizh::{ user-id=4569302 }, ::{ flag=ID }:: ::Ryuujou::{ user-id=3416659 }, ::{ flag=ID }:: ::Tix::{ user-id=11421465 } |
+| Caster | ::{ flag=ID }:: ::Alice Pi::{ user-id=8787324 }, ::{ flag=ID }:: ::Fre::{ user-id=3484548 }, ::{ flag=ID }:: ::Victim\_Crasher::{ user-id=2084869 } |
+| Designer | ::{ flag=ID }:: ::Nexa-::{ user-id=6155896 } |
+| Statistician | ::{ flag=ID }:: ::Fre::{ user-id=3484548 }, ::{ flag=ID }:: ::Tama-desu::{ user-id=3813174 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Links
 
@@ -55,26 +55,26 @@ The Ulat Bulu Cup 2020 was run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **(; ･`д･´)** | ::{ flag=ID }:: **[smh](https://osu.ppy.sh/users/1629553)**, ::{ flag=ID }:: [Midwinter](https://osu.ppy.sh/users/9762056), ::{ flag=ID }:: [Medseba](https://osu.ppy.sh/users/9000010) |
-| **A B B C** | ::{ flag=ID }:: **[LLEENN](https://osu.ppy.sh/users/2427901)**, ::{ flag=ID }:: [Skitzor](https://osu.ppy.sh/users/3353314), ::{ flag=ID }:: [atsudan](https://osu.ppy.sh/users/3287169) |
-| **ABC Team** | ::{ flag=ID }:: **[BimCradz](https://osu.ppy.sh/users/13954584)**, ::{ flag=ID }:: [C1M](https://osu.ppy.sh/users/7115775) |
-| **AutisNgopi4Hed** | ::{ flag=ID }:: **[Veltlion](https://osu.ppy.sh/users/10999079)**, ::{ flag=ID }:: [Takagi-chan](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [KalosZen](https://osu.ppy.sh/users/11832058) |
-| **awan fanclub** | ::{ flag=ID }:: **[Skydiver](https://osu.ppy.sh/users/4750008)**, ::{ flag=ID }:: [MasterfulNote5](https://osu.ppy.sh/users/7247988) |
-| **DARAWET ANJENG** | ::{ flag=ID }:: **[PanTsuArmy](https://osu.ppy.sh/users/9083094)**, ::{ flag=ID }:: [GtaDestroyer](https://osu.ppy.sh/users/3773461), ::{ flag=ID }:: [Mitsuru-](https://osu.ppy.sh/users/8004635) |
-| **Eleftheria** | ::{ flag=ID }:: **[VNtXDDD](https://osu.ppy.sh/users/11320627)**, ::{ flag=ID }:: [Zlotz](https://osu.ppy.sh/users/11191544) |
-| **Em1ruBigDumb** | ::{ flag=ID }:: **[Walfrid](https://osu.ppy.sh/users/6600809)**, ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490), ::{ flag=SG }:: [Reset-](https://osu.ppy.sh/users/3850861) |
-| **host toxic ccd** | ::{ flag=ID }:: **[bsbsatria](https://osu.ppy.sh/users/3302610)**, ::{ flag=ID }:: [Azaragi](https://osu.ppy.sh/users/3585384) |
-| **Hulat** | ::{ flag=ID }:: **[fnayR](https://osu.ppy.sh/users/2800253)**, ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827) |
-| **Kowok Gamers** | ::{ flag=ID }:: **[Fayn](https://osu.ppy.sh/users/5390495)**, ::{ flag=ID }:: [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ::{ flag=ID }:: [Rinzler](https://osu.ppy.sh/users/2133381) |
-| **Ibnoob** | ::{ flag=ID }:: **[-Rizie](https://osu.ppy.sh/users/10423227)**, ::{ flag=ID }:: [Freya-](https://osu.ppy.sh/users/10659385), ::{ flag=ID }:: [Grandidierite](https://osu.ppy.sh/users/11976077) |
-| **pemain\_osu2020** | ::{ flag=ID }:: **[RealViolence](https://osu.ppy.sh/users/5638585)**, ::{ flag=ID }:: [Aizu-](https://osu.ppy.sh/users/7074941) |
-| **Press 3 Fs to pay respects** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)**, ::{ flag=ID }:: [\[fry\]](https://osu.ppy.sh/users/4917604), ::{ flag=ID }:: [F4UZ4N](https://osu.ppy.sh/users/11070577) |
-| **retards united** | ::{ flag=ID }:: **[Lifeline](https://osu.ppy.sh/users/11367222)**, ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) |
-| **SotarksNoJutsu** | ::{ flag=ID }:: **[Splacten](https://osu.ppy.sh/users/10018405)**, ::{ flag=ID }:: [Blue1ST](https://osu.ppy.sh/users/11777312) |
-| **Sumippe's Simp** | ::{ flag=ID }:: **[sumippe](https://osu.ppy.sh/users/1929336)**, ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [audreych](https://osu.ppy.sh/users/9181855) |
-| **Tim Ayam** | ::{ flag=ID }:: **[MOMO543959](https://osu.ppy.sh/users/2373484)**, ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [liykun](https://osu.ppy.sh/users/9500057) |
-| **terserah** | ::{ flag=ID }:: **[xHirayuki](https://osu.ppy.sh/users/3245206)**, ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591), ::{ flag=ID }:: [Takaichi](https://osu.ppy.sh/users/909745) |
-| **WHOMEGALUL** | ::{ flag=ID }:: **[cfood](https://osu.ppy.sh/users/8626190)**, ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633), ::{ flag=ID }:: [LongExistence](https://osu.ppy.sh/users/2380426) |
+| **(; ･`д･´)** | ::{ flag=ID }:: **::smh::{ user-id=1629553 }**, ::{ flag=ID }:: ::Midwinter::{ user-id=9762056 }, ::{ flag=ID }:: ::Medseba::{ user-id=9000010 } |
+| **A B B C** | ::{ flag=ID }:: **::LLEENN::{ user-id=2427901 }**, ::{ flag=ID }:: ::Skitzor::{ user-id=3353314 }, ::{ flag=ID }:: ::atsudan::{ user-id=3287169 } |
+| **ABC Team** | ::{ flag=ID }:: **::BimCradz::{ user-id=13954584 }**, ::{ flag=ID }:: ::C1M::{ user-id=7115775 } |
+| **AutisNgopi4Hed** | ::{ flag=ID }:: **::Veltlion::{ user-id=10999079 }**, ::{ flag=ID }:: ::Takagi-chan::{ user-id=11379592 }, ::{ flag=ID }:: ::KalosZen::{ user-id=11832058 } |
+| **awan fanclub** | ::{ flag=ID }:: **::Skydiver::{ user-id=4750008 }**, ::{ flag=ID }:: ::MasterfulNote5::{ user-id=7247988 } |
+| **DARAWET ANJENG** | ::{ flag=ID }:: **::PanTsuArmy::{ user-id=9083094 }**, ::{ flag=ID }:: ::GtaDestroyer::{ user-id=3773461 }, ::{ flag=ID }:: ::Mitsuru-::{ user-id=8004635 } |
+| **Eleftheria** | ::{ flag=ID }:: **::VNtXDDD::{ user-id=11320627 }**, ::{ flag=ID }:: ::Zlotz::{ user-id=11191544 } |
+| **Em1ruBigDumb** | ::{ flag=ID }:: **::Walfrid::{ user-id=6600809 }**, ::{ flag=ID }:: ::Genjitsu::{ user-id=3531490 }, ::{ flag=SG }:: ::Reset-::{ user-id=3850861 } |
+| **host toxic ccd** | ::{ flag=ID }:: **::bsbsatria::{ user-id=3302610 }**, ::{ flag=ID }:: ::Azaragi::{ user-id=3585384 } |
+| **Hulat** | ::{ flag=ID }:: **::fnayR::{ user-id=2800253 }**, ::{ flag=ID }:: ::NoVaLian::{ user-id=6459827 } |
+| **Kowok Gamers** | ::{ flag=ID }:: **::Fayn::{ user-id=5390495 }**, ::{ flag=ID }:: ::Rayhan Hamil::{ user-id=4085825 }, ::{ flag=ID }:: ::Rinzler::{ user-id=2133381 } |
+| **Ibnoob** | ::{ flag=ID }:: **::-Rizie::{ user-id=10423227 }**, ::{ flag=ID }:: ::Freya-::{ user-id=10659385 }, ::{ flag=ID }:: ::Grandidierite::{ user-id=11976077 } |
+| **pemain\_osu2020** | ::{ flag=ID }:: **::RealViolence::{ user-id=5638585 }**, ::{ flag=ID }:: ::Aizu-::{ user-id=7074941 } |
+| **Press 3 Fs to pay respects** | ::{ flag=ID }:: **::Fuma::{ user-id=1501956 }**, ::{ flag=ID }:: ::\[fry\]::{ user-id=4917604 }, ::{ flag=ID }:: ::F4UZ4N::{ user-id=11070577 } |
+| **retards united** | ::{ flag=ID }:: **::Lifeline::{ user-id=11367222 }**, ::{ flag=ID }:: ::Caviar-::{ user-id=10474988 }, ::{ flag=ID }:: ::Felter::{ user-id=5865319 } |
+| **SotarksNoJutsu** | ::{ flag=ID }:: **::Splacten::{ user-id=10018405 }**, ::{ flag=ID }:: ::Blue1ST::{ user-id=11777312 } |
+| **Sumippe's Simp** | ::{ flag=ID }:: **::sumippe::{ user-id=1929336 }**, ::{ flag=ID }:: ::Seox::{ user-id=3793938 }, ::{ flag=ID }:: ::audreych::{ user-id=9181855 } |
+| **Tim Ayam** | ::{ flag=ID }:: **::MOMO543959::{ user-id=2373484 }**, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::liykun::{ user-id=9500057 } |
+| **terserah** | ::{ flag=ID }:: **::xHirayuki::{ user-id=3245206 }**, ::{ flag=ID }:: ::Rexeez::{ user-id=1987591 }, ::{ flag=ID }:: ::Takaichi::{ user-id=909745 } |
+| **WHOMEGALUL** | ::{ flag=ID }:: **::cfood::{ user-id=8626190 }**, ::{ flag=ID }:: ::Daffy::{ user-id=5968633 }, ::{ flag=ID }:: ::LongExistence::{ user-id=2380426 } |
 
 ## Groups
 
@@ -91,9 +91,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **awan fanclub** (::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008), ::{ flag=ID }:: [MasterfulNote5](https://osu.ppy.sh/users/7247988)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Press 3 Fs to pay respects** (::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956), ::{ flag=ID }:: [\[fry\]](https://osu.ppy.sh/users/4917604), ::{ flag=ID }:: [F4UZ4N](https://osu.ppy.sh/users/11070577)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **terserah** (::{ flag=ID }:: [xHirayuki](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591), ::{ flag=ID }:: [Takaichi](https://osu.ppy.sh/users/909745)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **awan fanclub** (::{ flag=ID }:: ::Skydiver::{ user-id=4750008 }, ::{ flag=ID }:: ::MasterfulNote5::{ user-id=7247988 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Press 3 Fs to pay respects** (::{ flag=ID }:: ::Fuma::{ user-id=1501956 }, ::{ flag=ID }:: ::\[fry\]::{ user-id=4917604 }, ::{ flag=ID }:: ::F4UZ4N::{ user-id=11070577 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **terserah** (::{ flag=ID }:: ::xHirayuki::{ user-id=3245206 }, ::{ flag=ID }:: ::Rexeez::{ user-id=1987591 }, ::{ flag=ID }:: ::Takaichi::{ user-id=909745 }) |
 
 ## Mappools
 

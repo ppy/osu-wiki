@@ -17,7 +17,7 @@ Pick up a pre-timed `.osz` and try mapping for yourself:
 
 ### [rae - UNABLE](https://assets.ppy.sh/artists/464/TRANQUILITY%20RESOLVE/rae%20-%20UNABLE.osz)
 
-Explore your mode of choice in [this hybrid osu!/osu!taiko map](https://osu.ppy.sh/beatmapsets/2275451) hosted by [Daycore](https://osu.ppy.sh/users/5596337)!
+Explore your mode of choice in [this hybrid osu!/osu!taiko map](https://osu.ppy.sh/beatmapsets/2275451) hosted by ::Daycore::{ user-id=5596337 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

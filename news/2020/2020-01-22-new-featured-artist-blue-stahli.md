@@ -17,7 +17,7 @@ Not convinced? Give these tracks a listen, and click the links above the sound b
 
 ### Shotgun Senorita (Zardonic Remix)
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/65853#osu) by [Aleks719](https://osu.ppy.sh/users/360176)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/65853#osu) by ::Aleks719::{ user-id=360176 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/65/previews/1840.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Not convinced? Give these tracks a listen, and click the links above the sound b
 
 ### Throw Away
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/1061411#osu) by [fieryrage](https://osu.ppy.sh/users/3533958)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/1061411#osu) by ::fieryrage::{ user-id=3533958 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/65/previews/1825.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Not convinced? Give these tracks a listen, and click the links above the sound b
 
 ### Suit Up
 
-*[Check out this osu!catch set](https://osu.ppy.sh/beatmapsets/1061425#fruits) by [MBomb](https://osu.ppy.sh/users/3071175)!*
+*[Check out this osu!catch set](https://osu.ppy.sh/beatmapsets/1061425#fruits) by ::MBomb::{ user-id=3071175 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/65/previews/1841.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Not convinced? Give these tracks a listen, and click the links above the sound b
 
 ### Atom Smasher
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/87626#osu) by [Cobra](https://osu.ppy.sh/users/1699726)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/87626#osu) by ::Cobra::{ user-id=1699726 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/65/previews/1816.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Not convinced? Give these tracks a listen, and click the links above the sound b
 
 ### Run The Track
 
-*[Check out this osu!catch set](https://osu.ppy.sh/beatmapsets/1071229#fruits) by [Sinnoh](https://osu.ppy.sh/users/4236057)!*
+*[Check out this osu!catch set](https://osu.ppy.sh/beatmapsets/1071229#fruits) by ::Sinnoh::{ user-id=4236057 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/65/previews/1842.mp3" type="audio/mpeg">

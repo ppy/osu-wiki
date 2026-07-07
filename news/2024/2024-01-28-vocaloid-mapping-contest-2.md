@@ -11,7 +11,7 @@ VOCALOID lovers rejoice! The Vocaloid Mapping Contest returns bigger and better 
 
 Yep, you heard right. **iroha(sasaki)**, the artist behind the legendary VOCALOID classic *Meltdown* featured in *many* classic osu! maps, is now a Featured Artist (and the 400th one, no less)!
 
-*Meltdown* has already earned its place in osu!'s history with several popular Ranked maps, including [Diasios](https://osu.ppy.sh/users/25999)'s [early map of *Meltdown*](https://osu.ppy.sh/beatmapsets/9070#osu/36814) from 2009, [ertyukjh010](https://osu.ppy.sh/users/220939)'s [map and unique storyboard](https://osu.ppy.sh/beatmapsets/45672#osu/142590) from 2012, and even more recently [ohm002](https://osu.ppy.sh/users/4468239)'s [modern marathon](https://osu.ppy.sh/beatmapsets/1743736#osu/3564761) from 2022!
+*Meltdown* has already earned its place in osu!'s history with several popular Ranked maps, including ::Diasios::{ user-id=25999 }'s [early map of *Meltdown*](https://osu.ppy.sh/beatmapsets/9070#osu/36814) from 2009, ::ertyukjh010::{ user-id=220939 }'s [map and unique storyboard](https://osu.ppy.sh/beatmapsets/45672#osu/142590) from 2012, and even more recently ::ohm002::{ user-id=4468239 }'s [modern marathon](https://osu.ppy.sh/beatmapsets/1743736#osu/3564761) from 2022!
 
 Regardless of how popular *Meltdown* may be, it's far from **iroha(sasaki)**'s only song — we're happy to announce that **11** songs are part of [**iroha(sasaki)**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/399)!
 
@@ -37,7 +37,7 @@ In **iroha(sasaki)**'s own words:
 
 > I am just one person who loves music. That's all. It would be more than enough if I can help the "osu!" content flourish, even if only in the shadows.
 
-But we didn't stop at simply featuring **iroha(sasaki)**'s amazing music. We realised that this contest demanded a judge who truly understands the essence of VOCALOID mapping. Who better to join our judging panel than the extraordinary mapper of many osu! classics like [Kakuzetsu Thanatos](https://osu.ppy.sh/beatmapsets/76396), **[NatsumeRin](https://osu.ppy.sh/users/151679)**!
+But we didn't stop at simply featuring **iroha(sasaki)**'s amazing music. We realised that this contest demanded a judge who truly understands the essence of VOCALOID mapping. Who better to join our judging panel than the extraordinary mapper of many osu! classics like [Kakuzetsu Thanatos](https://osu.ppy.sh/beatmapsets/76396), **::NatsumeRin::{ user-id=151679 }**!
 
 Want to participate? Here's what you need to know:
 
@@ -74,7 +74,7 @@ More precise details regarding the stream schedule etc. will be announced in the
 
 ### Prizes
 
-What would VOCALOID be without its mascots? For a contest featuring **iroha(sasaki)** songs sung by Kagamine *Rin* and judged by Natsume*Rin*, the first-place osu! winner will receive a *custom VMC Winner Kagamine Rin plushie* handcrafted by none other than [Noffy](https://osu.ppy.sh/users/1541323)!
+What would VOCALOID be without its mascots? For a contest featuring **iroha(sasaki)** songs sung by Kagamine *Rin* and judged by Natsume*Rin*, the first-place osu! winner will receive a *custom VMC Winner Kagamine Rin plushie* handcrafted by none other than ::Noffy::{ user-id=1541323 }!
 
 | Placing | Prize(s) |  |
 | :-: | :-- | :-- |

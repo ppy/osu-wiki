@@ -15,7 +15,7 @@ Reese originally found osu! by watching a *League of Legends* streamer called [B
 
 > I really wanted to focus on liveplays because I wanted to capture them in the moment. I wanted it to be where you could relive the moment it happened just by watching the video, so I always incorporated Twitch chat or the ingame chat when I could. And even for those that weren't there live you could still feel like you was there by seeing people's reactions.
 
-As if by divine intervention, the initiative to share amazing moments perfectly coincided with [Cookiezi](https://osu.ppy.sh/users/124493/osu)'s (now known as chocomint) return to online play after being banned for 2 years, a moment Reese was among the first to capture:
+As if by divine intervention, the initiative to share amazing moments perfectly coincided with ::Cookiezi::{ user-id=124493 }'s (now known as chocomint) return to online play after being banned for 2 years, a moment Reese was among the first to capture:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/EUSDdnNO0Ss" frameborder="0" allowfullscreen></iframe>
 
@@ -25,7 +25,7 @@ Many iconic plays forever engraved into osu! history were captured during this p
 
 Unknown to him in the moment, Reese's YouTube channel was starting to turn into a time capsule of a simpler era, what some commentators today consider to be the "golden age of osu!". At the time, the combination of the hype towards fierce competition for the #1 spot, a legendary player returning and the mapping meta shifting to "pp mapping" (allowing for *big* pp numbers) was spurring the community into a score-craving frenzy.
 
-High-achieving players such as [Rafis](https://osu.ppy.sh/users/2558286), [Angelsim](https://osu.ppy.sh/users/1777162) and Cookiezi would all log on to a sea of viewers and spectators. Foundations were laid for practices like "replay recording", paving the way for YouTube channels such as [Circle People](https://www.youtube.com/@CirclePeople) to do just that later in 2016, beginning a period of fierce competition between channels fighting to be the first to snatch the latest big play.
+High-achieving players such as ::Rafis::{ user-id=2558286 }, [Angelsim](https://osu.ppy.sh/users/1777162) and Cookiezi would all log on to a sea of viewers and spectators. Foundations were laid for practices like "replay recording", paving the way for YouTube channels such as [Circle People](https://www.youtube.com/@CirclePeople) to do just that later in 2016, beginning a period of fierce competition between channels fighting to be the first to snatch the latest big play.
 
 What the community didn't know is that Reese's uploads were about to come to a screeching halt.
 
@@ -43,6 +43,6 @@ Hopefully this write-up hit older players with a wave of nostalgia for how thing
 
 Even though Reese is no longer holding the camera, his legacy will always live with the community in some capacity.
 
-The full [text interview](https://gist.github.com/0x84f/61c96e7c18a77eccad7e543674bbf0e9) is available for your perusal. Thank you [Tanza3D](https://osu.ppy.sh/users/10379965) for the news post banner!
+The full [text interview](https://gist.github.com/0x84f/61c96e7c18a77eccad7e543674bbf0e9) is available for your perusal. Thank you ::Tanza3D::{ user-id=10379965 } for the news post banner!
 
 —0x84f

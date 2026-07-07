@@ -23,7 +23,7 @@ Check everything out:
 
 ### Draper - Set Me Free
 
-Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/329442) hosted by drum & bass legend [Secretpipe](https://osu.ppy.sh/users/2208964), or try playing [this modern rendition](https://osu.ppy.sh/beatmapsets/1679483) hosted by [AJT](https://osu.ppy.sh/users/3181083)!
+Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/329442) hosted by drum & bass legend ::Secretpipe::{ user-id=2208964 }, or try playing [this modern rendition](https://osu.ppy.sh/beatmapsets/1679483) hosted by ::AJT::{ user-id=3181083 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/403/Songs/Draper%20-%20Set%20Me%20Free.mp3">
@@ -31,7 +31,7 @@ Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/329442
 
 ### Draper - Joyride
 
-Take a trip through [this map](https://osu.ppy.sh/beatmapsets/392188) hosted by [Rohit6](https://osu.ppy.sh/users/3206945)!
+Take a trip through [this map](https://osu.ppy.sh/beatmapsets/392188) hosted by ::Rohit6::{ user-id=3206945 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/403/Songs/Draper%20-%20Joyride.mp3">

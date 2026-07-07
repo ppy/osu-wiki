@@ -56,7 +56,7 @@ This will fix scores occasionally being out of order on profiles under "Best Per
 
 Currently, any reward for playing beatmaps with a difficult AR (both high and low) or with HD comes from static multipliers in the Aim and Speed skills. This means these buffs are based off of the AR value only, and do not consider the difficulty required to read patterns.
 
-Thanks to a [brand new skill](https://github.com/ppy/osu/pull/33196) created by [kwotaq](https://osu.ppy.sh/users/8195972) (with some early contributions from [moonpoint](https://osu.ppy.sh/users/9558549)), these bonuses are now replaced by a new skill called Reading.
+Thanks to a [brand new skill](https://github.com/ppy/osu/pull/33196) created by ::kwotaq::{ user-id=8195972 } (with some early contributions from ::moonpoint::{ user-id=9558549 }), these bonuses are now replaced by a new skill called Reading.
 
 This new Reading skill aims to replace the current bonuses by calculating the density at each note and using that to scale reading difficulty, alongside some basic angle bonuses. As the old bonuses were a single multiplier onto Aim and Speed, you can expect to see losses for very high ranking players as their scores were receiving too much bonus for simply being high AR, as well as some buffs on high AR in the lower rankings due to not providing *enough* reward.
 
@@ -68,7 +68,7 @@ As a result of the density changes, you can expect to see large-scale buffs on l
 
 Final difficulty is formed by doing a geometric sum of difficulties, meaning that only a certain number of notes end up contributing a non-negligible amount of difficulty. This means that a length bonus in PP has been necessary in order to ensure that adding more notes increases the reward for a map.
 
-Thanks to a [change](https://github.com/ppy/osu/pull/34696) by [kwotaq](https://osu.ppy.sh/users/8195972), this final difficulty is now formed using a harmonic sum for the Speed skill. This means that every note contributes to Speed's final difficulty, and does not require a length bonus to ensure more notes increase star rating. This also comes with the advantage that the reward for more notes is directly tied to difficulty, so maps with a lot of easy notes will receive a lower reward than maps of equal object count with a higher number of difficult notes.
+Thanks to a [change](https://github.com/ppy/osu/pull/34696) by ::kwotaq::{ user-id=8195972 }, this final difficulty is now formed using a harmonic sum for the Speed skill. This means that every note contributes to Speed's final difficulty, and does not require a length bonus to ensure more notes increase star rating. This also comes with the advantage that the reward for more notes is directly tied to difficulty, so maps with a lot of easy notes will receive a lower reward than maps of equal object count with a higher number of difficult notes.
 
 ![](/wiki/shared/news/2026-07-03-performance-points-star-rating-updates/harmonic-summation.png)
 
@@ -76,7 +76,7 @@ Thanks to a [change](https://github.com/ppy/osu/pull/34696) by [kwotaq](https://
 
 First, some context: a core principal in difficulty calculation is chunking. Rather than difficulty being awarded for every single object, chunking splits the map into 400ms segments and the hardest note in each chunk is the difficulty for that chunk. However, this causes issues, as it is prone to fluctuations without changing a beatmap's difficulty. Adjusting a beatmap's offset, for example, is one way that chunking could result in changing star rating without changing the perceived difficulty. Rate changes are another, where 0.01 increments could see a decrease in star rating due to the BPM change. This is due to chunks being a fixed size, meaning BPM and offset changes will shift which chunks certain notes in a beatmap fall into (thus changing final difficulty).
 
-Thanks to a [change](https://github.com/ppy/osu/pull/33351) by [Finadoggie](https://osu.ppy.sh/users/14182048), chunks are now tied to objects and are allowed to vary in size. This means that offset and BPM changes are no longer able to influence difficulty on their own.
+Thanks to a [change](https://github.com/ppy/osu/pull/33351) by ::Finadoggie::{ user-id=14182048 }, chunks are now tied to objects and are allowed to vary in size. This means that offset and BPM changes are no longer able to influence difficulty on their own.
 
 Ultimately, this results in random (albeit minor) gains and losses across the board as previous chunking was essentially a random number generator by itself.
 
@@ -84,7 +84,7 @@ Ultimately, this results in random (albeit minor) gains and losses across the bo
 
 Aim calculations have a set of angle bonuses intended to award difficulty for patterns which are awkward to aim. For sliders, these angles are calculated by estimating the lazy path a player would take in order to correctly hit a slider. Until now, the calculated path has been unrealistic and resulted in a lot of unfair buffs to certain slider patterns.
 
-A [change](https://github.com/ppy/osu/pull/35555) by [Nisico](https://osu.ppy.sh/users/23384384) improves this by changing which parts of the slider are used to form the angle.
+A [change](https://github.com/ppy/osu/pull/35555) by ::Nisico::{ user-id=23384384 } improves this by changing which parts of the slider are used to form the angle.
 
 ![](/wiki/shared/news/2026-07-03-performance-points-star-rating-updates/slider-angles.png)
 
@@ -92,9 +92,9 @@ A [change](https://github.com/ppy/osu/pull/35555) by [Nisico](https://osu.ppy.sh
 
 Until now, aim evaluation has prioritised high BPMs with lower distances over low BPMs with higher distances. This is due to a mechanism to decay difficulty which scales by time.
 
-Thanks to a [change](https://github.com/ppy/osu/pull/36417) by [Natelytle](https://osu.ppy.sh/users/17607667), we can now change this mechanism without adverse effects to strain.
+Thanks to a [change](https://github.com/ppy/osu/pull/36417) by ::Natelytle::{ user-id=17607667 }, we can now change this mechanism without adverse effects to strain.
 
-As a result, a [set](https://github.com/ppy/osu/pull/36792) of [changes](https://github.com/ppy/osu/pull/36813) by [StanR](https://osu.ppy.sh/users/7217455) were made in order to edge this mechanism closer towards rewarding BPM and distance increases equally:
+As a result, a [set](https://github.com/ppy/osu/pull/36792) of [changes](https://github.com/ppy/osu/pull/36813) by ::StanR::{ user-id=7217455 } were made in order to edge this mechanism closer towards rewarding BPM and distance increases equally:
 
 ![](/wiki/shared/news/2026-07-03-performance-points-star-rating-updates/aim-strain-influence.png)
 
@@ -110,7 +110,7 @@ In effect, higher spacing patterns as well as slower jumps will generally see a 
 
 Up until now, all star rating for flow aim has come from a bonus for distance on the Speed skill. This was particularly frustrating to work with, as it meant having no control over flow aim difficulty beyond the distance, whilst also being attached to the tapping skill.
 
-Thanks to a [change](https://github.com/ppy/osu/pull/36902) by [StanR](https://osu.ppy.sh/users/7217455), this distance bonus has been replaced with a new flow aim difficulty evaluator in the Aim skill.
+Thanks to a [change](https://github.com/ppy/osu/pull/36902) by ::StanR::{ user-id=7217455 }, this distance bonus has been replaced with a new flow aim difficulty evaluator in the Aim skill.
 
 This change is only laying the ground work for future flow aim improvements, but flow aim now considers velocity and angle changes rather than simply distance.
 
@@ -118,9 +118,9 @@ This change is only laying the ground work for future flow aim improvements, but
 
 ### Replace Speed accuracy scaling with deviation scaling
 
-Tapping deviation is a statistic similar to unstable rate created by [Frostium](https://osu.ppy.sh/users/8202998), combining a score's hit statistics, OD and amount of difficult "speed notes" (high-strain notes relevant to speed PP) in a beatmap. This metric has already been in use in order to nerf scores that require tapping improperly (e.g. "rake tapping").
+Tapping deviation is a statistic similar to unstable rate created by ::Frostium::{ user-id=8202998 }, combining a score's hit statistics, OD and amount of difficult "speed notes" (high-strain notes relevant to speed PP) in a beatmap. This metric has already been in use in order to nerf scores that require tapping improperly (e.g. "rake tapping").
 
-Thanks to a [change](https://github.com/ppy/osu/pull/36475) by [StanR](https://osu.ppy.sh/users/7217455), we are now using this deviation metric as a replacement for accuracy scaling within Speed.
+Thanks to a [change](https://github.com/ppy/osu/pull/36475) by ::StanR::{ user-id=7217455 }, we are now using this deviation metric as a replacement for accuracy scaling within Speed.
 
 The main goal with replacing accuracy scaling is to fix an inequality for scores set on higher ODs with non-perfect accuracy. Due to the nature of arbitrarily scaling Speed by accuracy and OD, scores with lower accuracies on high OD may be worth less PP than if they were played at a lower OD. Deviation is a normalised metric, meaning we can more accurately represent how inaccurate a score was.
 
@@ -139,7 +139,7 @@ An example of how this scales for a DTHR score on [Manticora - Humiliation Supre
 
 Remember her?
 
-Well, thanks to a [change](https://github.com/ppy/osu/pull/36559) by [kwotaq](https://osu.ppy.sh/users/8195972), acute-angled jumps now receive a nerf depending on their repetitiveness.
+Well, thanks to a [change](https://github.com/ppy/osu/pull/36559) by ::kwotaq::{ user-id=8195972 }, acute-angled jumps now receive a nerf depending on their repetitiveness.
 
 This nerf also takes the jump's vectors into account - repetitive acute angles that also lack any rotation are nerfed the most. This also means that unpredictable and generally uncomfortable jumps receive a buff as well.
 
@@ -151,7 +151,7 @@ Some examples of beatmaps nerfed by this change:
 
 ### Adjust miss penalty to be harsher on initial impact
 
-A [change](https://github.com/ppy/osu/pull/37040) by [StanR](https://osu.ppy.sh/users/7217455) was made in order to harshen the miss penalty's initial impact:
+A [change](https://github.com/ppy/osu/pull/37040) by ::StanR::{ user-id=7217455 } was made in order to harshen the miss penalty's initial impact:
 
 ![](/wiki/shared/news/2026-07-03-performance-points-star-rating-updates/miss-penalty.png)
 
@@ -163,46 +163,46 @@ In practice:
 
 ### Minor changes
 
-- A [fix](https://github.com/ppy/osu/pull/29993) by [Givy120](https://osu.ppy.sh/users/10560705) to make the comparison between slider and slider-less aim difficulty more accurate
-- A [fix](https://github.com/ppy/osu/pull/37264) by [Givy120](https://osu.ppy.sh/users/10560705) to include 50s in osu!(stable) slider break estimations
-- A [fix](https://github.com/ppy/osu/pull/37636) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure that patterns too spaced to be doubletapped are not penalised by doubletap nerfs
-- A [fix](https://github.com/ppy/osu/pull/37263) by [Givy120](https://osu.ppy.sh/users/10560705) to improve stability of osu!(stable) slider break estimations
-- A [fix](https://github.com/ppy/osu/pull/36599) by [molneya](https://osu.ppy.sh/users/8945180) to nerf total difficulty for Flashlight when Reading difficulty is extremely high
-- A [fix](https://github.com/ppy/osu/pull/36216) by [StanR](https://osu.ppy.sh/users/7217455) to fix aim slider bonuses being awarded to the incorrect note
-- A [set](https://github.com/ppy/osu/pull/36569) of [fixes](https://github.com/ppy/osu/pull/36593) by [StanR](https://osu.ppy.sh/users/7217455) to improve slider-to-circle Rhythm difficulty
-- A [fix](https://github.com/ppy/osu/pull/37609) by [StanR](https://osu.ppy.sh/users/7217455) to ensure rhythm complexity is decreased for long islands
-- A [fix](https://github.com/ppy/osu/pull/38082) by [StanR](https://osu.ppy.sh/users/7217455) to ensure single-note timing point changes do not inflate difficulty
-- A [set](https://github.com/ppy/osu/pull/36773) of [fixes](https://github.com/ppy/osu/pull/36806) by [StanR](https://osu.ppy.sh/users/7217455) to fix slider velocity calculations using inflated velocity
-- A [fix](https://github.com/ppy/osu/pull/37624) by [StanR](https://osu.ppy.sh/users/7217455) to ensure the slider end penalty scales with difficulty correctly
-- A [fix](https://github.com/ppy/osu/pull/36209) by [tsunyoku](https://osu.ppy.sh/users/11315329) to fix score-based miss estimations using incorrect multipliers for scores with mods
-- A [set of fixes](https://github.com/ppy/osu/pull/36999) by [tsunyoku](https://osu.ppy.sh/users/11315329) to improve flow aim evaluation for overlapping notes and sliders
-- A [change](https://github.com/ppy/osu/pull/35962) by [Givy120](https://osu.ppy.sh/users/10560705) to skip score-based miss estimations for ScoreV2
-- A [change](https://github.com/ppy/osu/pull/33019) by [Givy120](https://osu.ppy.sh/users/10560705) to consider Hidden's "only hide approach circles" setting in Flashlight calculations
-- A [change](https://github.com/ppy/osu/pull/35724) by [Givy120](https://osu.ppy.sh/users/10560705) to adjust full-combo threshold depending on how difficult sliders are
-- A [change](https://github.com/ppy/osu/pull/36466) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure alternating angles do not explode Reading difficulty
-- A [change](https://github.com/ppy/osu/pull/36554) by [Givy120](https://osu.ppy.sh/users/10560705) to harshen Speed deviation scaling at lower difficulties
-- A [change](https://github.com/ppy/osu/pull/36623) by [Givy120](https://osu.ppy.sh/users/10560705) to nerf Reading's perfect-stack bonus for Hidden
-- A [change](https://github.com/ppy/osu/pull/36900) by [molneya](https://osu.ppy.sh/users/8945180) to remove accuracy bonus for Flashlight
-- A [change](https://github.com/ppy/osu/pull/36555) by [piiid](https://osu.ppy.sh/users/37091194) to rebalance Aim bonuses for Traceable
-- A [change](https://github.com/ppy/osu/pull/36148) by [StanR](https://osu.ppy.sh/users/7217455) to scale doubletap detections more harshly, punishing some edge case beatmaps
-- A [change](https://github.com/ppy/osu/pull/36513) by [StanR](https://osu.ppy.sh/users/7217455) to remove a now unnecessary high CS slider nerf
-- A [change](https://github.com/ppy/osu/pull/36063) by [StanR](https://osu.ppy.sh/users/7217455) to simplify final star rating calculations
-- A [change](https://github.com/ppy/osu/pull/36669) by [StanR](https://osu.ppy.sh/users/7217455) to uncap Accuracy PP's object count bonus
-- A [change](https://github.com/ppy/osu/pull/37099) by [StanR](https://osu.ppy.sh/users/7217455) to buff longer jump sections
-- A [refactor](https://github.com/ppy/osu/pull/35817) by [Givy120](https://osu.ppy.sh/users/10560705) to remove some unnecessary difficulty code
-- A [refactor](https://github.com/ppy/osu/pull/36465) by [Givy120](https://osu.ppy.sh/users/10560705) to simplify Reading's Hidden difficulty calculation
-- A [refactor](https://github.com/ppy/osu/pull/37119) by [kwotaq](https://osu.ppy.sh/users/8195972) to improve Aim evaluation code quality
-- A [set](https://github.com/ppy/osu/pull/36918) of [refactors](https://github.com/ppy/osu/pull/36944) by [Rian8337](https://osu.ppy.sh/users/5383997) to improve readability of Reading calculations
-- A [refactor](https://github.com/ppy/osu/pull/37460) by [Natelytle](https://osu.ppy.sh/users/17607667) to improve difficulty code quality
-- A [set](https://discord.com/channels/1166126757141827775/1166126758261686294/1506273339835158558) of [refactors](https://github.com/ppy/osu/pull/37623) by [StanR](https://osu.ppy.sh/users/7217455) to move more difficulty adjustments to apply per-note
-- A [refactor](https://github.com/ppy/osu/pull/37654) by [StanR](https://osu.ppy.sh/users/7217455) to improve osu!(stable) slider break estimation code quality
-- A [refactor](https://github.com/ppy/osu/pull/36112) by [tsunyoku](https://osu.ppy.sh/users/11315329) to improve performance in some areas of difficulty calculation
+- A [fix](https://github.com/ppy/osu/pull/29993) by ::Givy120::{ user-id=10560705 } to make the comparison between slider and slider-less aim difficulty more accurate
+- A [fix](https://github.com/ppy/osu/pull/37264) by ::Givy120::{ user-id=10560705 } to include 50s in osu!(stable) slider break estimations
+- A [fix](https://github.com/ppy/osu/pull/37636) by ::Givy120::{ user-id=10560705 } to ensure that patterns too spaced to be doubletapped are not penalised by doubletap nerfs
+- A [fix](https://github.com/ppy/osu/pull/37263) by ::Givy120::{ user-id=10560705 } to improve stability of osu!(stable) slider break estimations
+- A [fix](https://github.com/ppy/osu/pull/36599) by ::molneya::{ user-id=8945180 } to nerf total difficulty for Flashlight when Reading difficulty is extremely high
+- A [fix](https://github.com/ppy/osu/pull/36216) by ::StanR::{ user-id=7217455 } to fix aim slider bonuses being awarded to the incorrect note
+- A [set](https://github.com/ppy/osu/pull/36569) of [fixes](https://github.com/ppy/osu/pull/36593) by ::StanR::{ user-id=7217455 } to improve slider-to-circle Rhythm difficulty
+- A [fix](https://github.com/ppy/osu/pull/37609) by ::StanR::{ user-id=7217455 } to ensure rhythm complexity is decreased for long islands
+- A [fix](https://github.com/ppy/osu/pull/38082) by ::StanR::{ user-id=7217455 } to ensure single-note timing point changes do not inflate difficulty
+- A [set](https://github.com/ppy/osu/pull/36773) of [fixes](https://github.com/ppy/osu/pull/36806) by ::StanR::{ user-id=7217455 } to fix slider velocity calculations using inflated velocity
+- A [fix](https://github.com/ppy/osu/pull/37624) by ::StanR::{ user-id=7217455 } to ensure the slider end penalty scales with difficulty correctly
+- A [fix](https://github.com/ppy/osu/pull/36209) by ::tsunyoku::{ user-id=11315329 } to fix score-based miss estimations using incorrect multipliers for scores with mods
+- A [set of fixes](https://github.com/ppy/osu/pull/36999) by ::tsunyoku::{ user-id=11315329 } to improve flow aim evaluation for overlapping notes and sliders
+- A [change](https://github.com/ppy/osu/pull/35962) by ::Givy120::{ user-id=10560705 } to skip score-based miss estimations for ScoreV2
+- A [change](https://github.com/ppy/osu/pull/33019) by ::Givy120::{ user-id=10560705 } to consider Hidden's "only hide approach circles" setting in Flashlight calculations
+- A [change](https://github.com/ppy/osu/pull/35724) by ::Givy120::{ user-id=10560705 } to adjust full-combo threshold depending on how difficult sliders are
+- A [change](https://github.com/ppy/osu/pull/36466) by ::Givy120::{ user-id=10560705 } to ensure alternating angles do not explode Reading difficulty
+- A [change](https://github.com/ppy/osu/pull/36554) by ::Givy120::{ user-id=10560705 } to harshen Speed deviation scaling at lower difficulties
+- A [change](https://github.com/ppy/osu/pull/36623) by ::Givy120::{ user-id=10560705 } to nerf Reading's perfect-stack bonus for Hidden
+- A [change](https://github.com/ppy/osu/pull/36900) by ::molneya::{ user-id=8945180 } to remove accuracy bonus for Flashlight
+- A [change](https://github.com/ppy/osu/pull/36555) by ::piiid::{ user-id=37091194 } to rebalance Aim bonuses for Traceable
+- A [change](https://github.com/ppy/osu/pull/36148) by ::StanR::{ user-id=7217455 } to scale doubletap detections more harshly, punishing some edge case beatmaps
+- A [change](https://github.com/ppy/osu/pull/36513) by ::StanR::{ user-id=7217455 } to remove a now unnecessary high CS slider nerf
+- A [change](https://github.com/ppy/osu/pull/36063) by ::StanR::{ user-id=7217455 } to simplify final star rating calculations
+- A [change](https://github.com/ppy/osu/pull/36669) by ::StanR::{ user-id=7217455 } to uncap Accuracy PP's object count bonus
+- A [change](https://github.com/ppy/osu/pull/37099) by ::StanR::{ user-id=7217455 } to buff longer jump sections
+- A [refactor](https://github.com/ppy/osu/pull/35817) by ::Givy120::{ user-id=10560705 } to remove some unnecessary difficulty code
+- A [refactor](https://github.com/ppy/osu/pull/36465) by ::Givy120::{ user-id=10560705 } to simplify Reading's Hidden difficulty calculation
+- A [refactor](https://github.com/ppy/osu/pull/37119) by ::kwotaq::{ user-id=8195972 } to improve Aim evaluation code quality
+- A [set](https://github.com/ppy/osu/pull/36918) of [refactors](https://github.com/ppy/osu/pull/36944) by ::Rian8337::{ user-id=5383997 } to improve readability of Reading calculations
+- A [refactor](https://github.com/ppy/osu/pull/37460) by ::Natelytle::{ user-id=17607667 } to improve difficulty code quality
+- A [set](https://discord.com/channels/1166126757141827775/1166126758261686294/1506273339835158558) of [refactors](https://github.com/ppy/osu/pull/37623) by ::StanR::{ user-id=7217455 } to move more difficulty adjustments to apply per-note
+- A [refactor](https://github.com/ppy/osu/pull/37654) by ::StanR::{ user-id=7217455 } to improve osu!(stable) slider break estimation code quality
+- A [refactor](https://github.com/ppy/osu/pull/36112) by ::tsunyoku::{ user-id=11315329 } to improve performance in some areas of difficulty calculation
 
 ## osu!taiko
 
 ### Nerf long gaps during frequent rhythm changes
 
-Patterns of frequent rhythm changes followed by long gaps would previously award unexpectedly high rhythm difficulty. This [change](https://github.com/ppy/osu/pull/37200) by [rloseise](https://osu.ppy.sh/users/6793778) targets and penalises this specific case.
+Patterns of frequent rhythm changes followed by long gaps would previously award unexpectedly high rhythm difficulty. This [change](https://github.com/ppy/osu/pull/37200) by ::rloseise::{ user-id=6793778 } targets and penalises this specific case.
 
 Some examples of beatmaps affected by this change:
 
@@ -213,8 +213,8 @@ Some examples of beatmaps affected by this change:
 
 ### Minor changes
 
-- A [change](https://github.com/ppy/osu/pull/36628) by [StanR](https://osu.ppy.sh/users/7217455) to return 0 difficulty for swells and drum rolls
-- A [change](https://github.com/ppy/osu/pull/36671) by [StanR](https://osu.ppy.sh/users/7217455) to use the full hit-window for rhythm calculations
+- A [change](https://github.com/ppy/osu/pull/36628) by ::StanR::{ user-id=7217455 } to return 0 difficulty for swells and drum rolls
+- A [change](https://github.com/ppy/osu/pull/36671) by ::StanR::{ user-id=7217455 } to use the full hit-window for rhythm calculations
 
 ## osu!catch
 
@@ -222,7 +222,7 @@ Some examples of beatmaps affected by this change:
 
 Beatmaps such as [CRIM3S - Stay Ugly [PHOB;S jiov\erdddd (DELUGE)(ddose]](https://osu.ppy.sh/beatmapsets/2485027#fruits/5454338) abuse the fact that linear spaced patterns with no variability don't require additional input.
 
-A [change](https://github.com/ppy/osu/pull/37287) by [Kitsunivy](https://osu.ppy.sh/users/7055384) was made in order to ensure linear patterns which don't require additional inputs are punished accordingly.
+A [change](https://github.com/ppy/osu/pull/37287) by ::Kitsunivy::{ user-id=7055384 } was made in order to ensure linear patterns which don't require additional inputs are punished accordingly.
 
 [CRIM3S - Stay Ugly [PHOB;S jiov\erdddd (DELUGE)(ddose]](https://osu.ppy.sh/beatmapsets/2485027#fruits/5454338) +DTHR is nerfed from 12.33* to 9.25* as a result of this change.
 

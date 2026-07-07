@@ -13,7 +13,7 @@ Our newest Featured Artist **PHAZE** steps into the virtual spotlight!
 
 **5** fresh tunes have been slammed onto [**PHAZE**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/387), all pre-timed for your next mapping session (which should be right now).
 
-Ever tried clicking circles without your index finger? It's uncomfortable. And that's what renowned mapper [LMT](https://osu.ppy.sh/users/7262798) does all the time. Watch him play [PHAZE - Mirai Isho](https://osu.ppy.sh/beatmapsets/1989072) from [COE](/wiki/Community/cavoe's_osu!_event/2023), then check out the rest of these previews:
+Ever tried clicking circles without your index finger? It's uncomfortable. And that's what renowned mapper ::LMT::{ user-id=7262798 } does all the time. Watch him play [PHAZE - Mirai Isho](https://osu.ppy.sh/beatmapsets/1989072) from [COE](/wiki/Community/cavoe's_osu!_event/2023), then check out the rest of these previews:
 
 <div align="center">
     <video width="85%" controls>
@@ -23,7 +23,7 @@ Ever tried clicking circles without your index finger? It's uncomfortable. And t
 
 ### PHAZE - Mirai Isho
 
-Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1989072) hosted by [KaedeharaKazuha](https://osu.ppy.sh/users/6300910)!
+Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1989072) hosted by ::KaedeharaKazuha::{ user-id=6300910 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/387/Songs/PHAZE_-_Mirai_lsho.mp3">
@@ -31,7 +31,7 @@ Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1989072) h
 
 ### PHAZE - abyss
 
-Or try [this recently Ranked map](https://osu.ppy.sh/beatmapsets/2047330) hosted by [AirinCat](https://osu.ppy.sh/users/11119539)!
+Or try [this recently Ranked map](https://osu.ppy.sh/beatmapsets/2047330) hosted by ::AirinCat::{ user-id=11119539 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/387/abyss/PHAZE%20-%20abyss.mp3">

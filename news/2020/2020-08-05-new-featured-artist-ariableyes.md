@@ -19,7 +19,7 @@ Wondering what all the hype is about? Check out these previews - one listen is a
 
 ### Kegare Naki Bara Juuji
 
-Check out [this popular 2016 collab set](https://osu.ppy.sh/beatmapsets/448818) hosted by [yf_bmp](https://osu.ppy.sh/users/1243669), and this [unranked collab set](https://osu.ppy.sh/beatmapsets/1116349) hosted by [Reform](https://osu.ppy.sh/users/3723568)!
+Check out [this popular 2016 collab set](https://osu.ppy.sh/beatmapsets/448818) hosted by ::yf\1bmp::{ user-id=1243669 }, and this [unranked collab set](https://osu.ppy.sh/beatmapsets/1116349) hosted by ::Reform::{ user-id=3723568 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/93/previews/2471.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this popular 2016 collab set](https://osu.ppy.sh/beatmapsets/448818) 
 
 ### Zankyou wa Hitsugi no Naka e
 
-Check out [this 2018 single-difficulty set](https://osu.ppy.sh/beatmapsets/813773) by [Yusomi](https://osu.ppy.sh/users/4174940)!
+Check out [this 2018 single-difficulty set](https://osu.ppy.sh/beatmapsets/813773) by ::Yusomi::{ user-id=4174940 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/93/previews/2502.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this 2018 single-difficulty set](https://osu.ppy.sh/beatmapsets/81377
 
 ### Reflect
 
-Check out [this 2018 hybrid osu! and osu!taiko set](https://osu.ppy.sh/beatmapsets/744482) hosted by [ailv](https://osu.ppy.sh/users/6933054)!
+Check out [this 2018 hybrid osu! and osu!taiko set](https://osu.ppy.sh/beatmapsets/744482) hosted by ::ailv::{ user-id=6933054 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/93/previews/2483.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Check out [this 2018 hybrid osu! and osu!taiko set](https://osu.ppy.sh/beatmapse
 
 ### Symmetric Rose
 
-Check out [this 2019 single-difficulty set](https://osu.ppy.sh/beatmapsets/1015765) by [Shanipika](https://osu.ppy.sh/users/6336729), which featured as the Quarterfinals Tiebreaker for the [SST](/wiki/Tournaments/SST) tournament series!
+Check out [this 2019 single-difficulty set](https://osu.ppy.sh/beatmapsets/1015765) by ::Shanipika::{ user-id=6336729 }, which featured as the Quarterfinals Tiebreaker for the [SST](/wiki/Tournaments/SST) tournament series!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/93/previews/2493.mp3" type="audio/mpeg">
@@ -51,7 +51,7 @@ Check out [this 2019 single-difficulty set](https://osu.ppy.sh/beatmapsets/10157
 
 ### Asphodelos
 
-Check out [this 2018 single-difficulty osu!taiko set](https://osu.ppy.sh/beatmapsets/781256) by [Greenshell](https://osu.ppy.sh/users/8693851)!
+Check out [this 2018 single-difficulty osu!taiko set](https://osu.ppy.sh/beatmapsets/781256) by ::Greenshell::{ user-id=8693851 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/93/previews/2456.mp3" type="audio/mpeg">

@@ -17,7 +17,7 @@ samples:
 
 ### La de da de da de da de day oh
 
-[circle beatmap](https://osu.ppy.sh/beatmapsets/725234) by [mindmaster107](https://osu.ppy.sh/users/8819496)
+[circle beatmap](https://osu.ppy.sh/beatmapsets/725234) by ::mindmaster107::{ user-id=8819496 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/236/Songs/bill%20wurtz%20-%20La%20de%20da%20de%20da%20de%20da%20de%20day%20oh.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ samples:
 
 ### outside
 
-[piano beatmap](https://osu.ppy.sh/beatmapsets/735580) by [Nivrad00](https://osu.ppy.sh/users/1984634)
+[piano beatmap](https://osu.ppy.sh/beatmapsets/735580) by ::Nivrad00::{ user-id=1984634 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/236/Songs/bill%20wurtz%20-%20outside.mp3" type="audio/mpeg">

@@ -56,7 +56,7 @@ COE 2024 is run by various community members and partnered organisations.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) |
+| Organiser | ::{ flag=NL }:: ::cavoeboy::{ user-id=7361815 }, ::{ flag=DE }:: ::Meyer::{ user-id=5452367 } |
 | Operational partner | [osu!frlive](https://osufr.live/), [Wooting](https://next.wooting.io/), [WoozPC](https://woozpc.nl/), [Zed Up](https://www.zed-up.de/), [Yuki Aim](https://yuki.gg/) |
 
 ### Off-site activities

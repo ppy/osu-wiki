@@ -8,7 +8,7 @@ tags:
 
 ![CFIC 3 logo](img/logo.jpg)
 
-La **Catch French Intermediate Cup 3** (***CFIC 3***) était un tournoi osu!catch intermédiaire français à double élimination en 1v1 organisé par ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) et ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949). Les joueurs français classés entre 900 et 2 999 ont pu participer. C'était la troisième édition de la Catch French Intermediate Cup et fait partie de la Catch French Cup.
+La **Catch French Intermediate Cup 3** (***CFIC 3***) était un tournoi osu!catch intermédiaire français à double élimination en 1v1 organisé par ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 } et ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 }. Les joueurs français classés entre 900 et 2 999 ont pu participer. C'était la troisième édition de la Catch French Intermediate Cup et fait partie de la Catch French Cup.
 
 ## Dates du tournoi
 
@@ -41,14 +41,14 @@ La Catch French Intermediate Cup 3 était organisée par différents membres de 
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Organisateur | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Mapsetter | ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=AT }:: [Mashiro Mama](https://osu.ppy.sh/users/10415976), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012), ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640) |
-| Arbitre | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Nyton](https://osu.ppy.sh/users/9475990), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012), ::{ flag=FR }:: [Taevas](https://osu.ppy.sh/users/7276846), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Streamer | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210), ::{ flag=FR }:: [Shamookie Simp](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565) |
-| Commentateur | ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ::{ flag=FR }:: [lgor](https://osu.ppy.sh/users/10769450), ::{ flag=FR }:: [Kitsuka](https://osu.ppy.sh/users/10334943), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=FR }:: [Shamookie Simp](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [SkyBlazedPTK](https://osu.ppy.sh/users/8710703) ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| Designer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Statisticien | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Rédacteur du wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organisateur | ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 } |
+| Mapsetter | ::{ flag=FR }:: ::\_Manyura::{ user-id=8335913 }, ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=AT }:: ::Mashiro Mama::{ user-id=10415976 }, ::{ flag=FR }:: ::Natsuko::{ user-id=8266817 }, ::{ flag=FR }:: ::Noctalium::{ user-id=6488167 }, ::{ flag=FR }:: ::Oasix::{ user-id=6183012 }, ::{ flag=FR }:: ::Realmas::{ user-id=6567640 } |
+| Arbitre | ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::Nyton::{ user-id=9475990 }, ::{ flag=FR }:: ::Oasix::{ user-id=6183012 }, ::{ flag=FR }:: ::Taevas::{ user-id=7276846 }, ::{ flag=FR }:: ::Un bretzel::{ user-id=1542565 }, ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 } |
+| Streamer | ::{ flag=FR }:: ::Noctalium::{ user-id=6488167 }, ::{ flag=FR }:: ::Realmas::{ user-id=6567640 }, ::{ flag=FR }:: ::Shamookie::{ user-id=12441210 }, ::{ flag=FR }:: ::Shamookie Simp::{ user-id=15334170 }, ::{ flag=FR }:: ::Un bretzel::{ user-id=1542565 } |
+| Commentateur | ::{ flag=FR }:: ::\_Manyura::{ user-id=8335913 }, ::{ flag=FR }:: ::AiNA::{ user-id=4426908 }, ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::JunKoAndHiro::{ user-id=14004732 }, ::{ flag=FR }:: ::lgor::{ user-id=10769450 }, ::{ flag=FR }:: ::Kitsuka::{ user-id=10334943 }, ::{ flag=FR }:: ::Natsuko::{ user-id=8266817 }, ::{ flag=FR }:: ::Realmas::{ user-id=6567640 }, ::{ flag=FR }:: ::Shamookie Simp::{ user-id=15334170 }, ::{ flag=FR }:: ::SkyBlazedPTK::{ user-id=8710703 } ::{ flag=FR }:: ::Yruama::{ user-id=8221467 } |
+| Designer | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
+| Statisticien | ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 } |
+| Rédacteur du wiki | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Liens
 
@@ -65,11 +65,11 @@ La Catch French Intermediate Cup 3 était organisée par différents membres de 
 
 | Seed | Membres |
 | :-- | :-- |
-| Top | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210), ::{ flag=FR }:: [Shamookie Simp](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| High | ::{ flag=FR }:: [Papy Enias](https://osu.ppy.sh/users/8384680), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466), ::{ flag=FR }:: [Bebar](https://osu.ppy.sh/users/12584928) |
-| Low | ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172), ::{ flag=FR }:: [Kaudae](https://osu.ppy.sh/users/9294630), ::{ flag=FR }:: [caillrot](https://osu.ppy.sh/users/13108984), ::{ flag=FR }:: [wind in seoul](https://osu.ppy.sh/users/14803288) |
-| Unseeded | ::{ flag=FR }:: [Le Gentil](https://osu.ppy.sh/users/14716810), ::{ flag=FR }:: [NoLimitFS](https://osu.ppy.sh/users/10411609), ::{ flag=FR }:: [Kanna\_Shiro](https://osu.ppy.sh/users/12943235), ::{ flag=FR }:: [BigNounours](https://osu.ppy.sh/users/11632258) |
-| Éliminé | ::{ flag=FR }:: [ilade](https://osu.ppy.sh/users/18061899), ::{ flag=FR }:: [Jibsz](https://osu.ppy.sh/users/12269489), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
+| Top | ::{ flag=FR }:: ::AiNA::{ user-id=4426908 }, ::{ flag=FR }:: ::Shamookie::{ user-id=12441210 }, ::{ flag=FR }:: ::Shamookie Simp::{ user-id=15334170 }, ::{ flag=FR }:: ::Yruama::{ user-id=8221467 } |
+| High | ::{ flag=FR }:: ::Papy Enias::{ user-id=8384680 }, ::{ flag=FR }:: ::floflim::{ user-id=5954015 }, ::{ flag=FR }:: ::Cryophenix::{ user-id=3996466 }, ::{ flag=FR }:: ::Bebar::{ user-id=12584928 } |
+| Low | ::{ flag=FR }:: ::Trifano::{ user-id=15126172 }, ::{ flag=FR }:: ::Kaudae::{ user-id=9294630 }, ::{ flag=FR }:: ::caillrot::{ user-id=13108984 }, ::{ flag=FR }:: ::wind in seoul::{ user-id=14803288 } |
+| Unseeded | ::{ flag=FR }:: ::Le Gentil::{ user-id=14716810 }, ::{ flag=FR }:: ::NoLimitFS::{ user-id=10411609 }, ::{ flag=FR }:: ::Kanna\_Shiro::{ user-id=12943235 }, ::{ flag=FR }:: ::BigNounours::{ user-id=11632258 } |
+| Éliminé | ::{ flag=FR }:: ::ilade::{ user-id=18061899 }, ::{ flag=FR }:: ::Jibsz::{ user-id=12269489 }, ::{ flag=FR }:: ::redjiii::{ user-id=1378728 } |
 
 ## Podium
 
@@ -77,9 +77,9 @@ Cette compétition s'est conclue sur le podium suivant :
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=FR }:: ::Yruama::{ user-id=8221467 } |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=FR }:: ::AiNA::{ user-id=4426908 } |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: ::Cryophenix::{ user-id=3996466 } |
 
 ## Liste des beatmaps
 

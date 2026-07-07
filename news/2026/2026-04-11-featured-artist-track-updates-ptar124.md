@@ -27,7 +27,7 @@ Note that the inconspicuous [***NEW*** icon next to each track](/wiki/shared/new
 
 ### Viatores Nebulae feat. Megurine Luka - Heart of Epitaph
 
-Play through [this full spread](https://osu.ppy.sh/beatmapsets/2412283) from [Locus 2025](/wiki/Contests/Locus/2025) hosted by [-Hitomi](https://osu.ppy.sh/users/15583987)!
+Play through [this full spread](https://osu.ppy.sh/beatmapsets/2412283) from [Locus 2025](/wiki/Contests/Locus/2025) hosted by ::-Hitomi::{ user-id=15583987 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/409/Ennodia/Viatores%20Nebulae%20feat.%20Megurine%20Luka%20-%20Heart%20of%20Epitaph.mp3">
@@ -35,7 +35,7 @@ Play through [this full spread](https://osu.ppy.sh/beatmapsets/2412283) from [Lo
 
 ### Ille Triumviratus - Via Memoriae
 
-Experience [this map](https://osu.ppy.sh/beatmapsets/2406557) from [cavoe's osu! event Global Taiko Showdown 2025](https://gtsosu.com/coegts/home) hosted by [Jayceko](https://osu.ppy.sh/users/19951350)!
+Experience [this map](https://osu.ppy.sh/beatmapsets/2406557) from [cavoe's osu! event Global Taiko Showdown 2025](https://gtsosu.com/coegts/home) hosted by ::Jayceko::{ user-id=19951350 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/409/Ennodia/Ille%20Triumviratus%20-%20Via%20Memoriae.mp3">
@@ -43,7 +43,7 @@ Experience [this map](https://osu.ppy.sh/beatmapsets/2406557) from [cavoe's osu!
 
 ### Viator Caelorum - Caerula
 
-Click circles on [this map](https://osu.ppy.sh/beatmapsets/2448971) created for [Vietnam osu! Championship 2025](https://osu.ppy.sh/community/forums/topics/2110201) and hosted by [ANON TOKYO](https://osu.ppy.sh/users/8266808)!
+Click circles on [this map](https://osu.ppy.sh/beatmapsets/2448971) created for [Vietnam osu! Championship 2025](https://osu.ppy.sh/community/forums/topics/2110201) and hosted by ::ANON TOKYO::{ user-id=8266808 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/409/Ennodia/Viator%20Caelorum%20-%20Caerula.mp3">
@@ -51,7 +51,7 @@ Click circles on [this map](https://osu.ppy.sh/beatmapsets/2448971) created for 
 
 ### ptar124 feat. IA, flower & SEKAI - nymphae silvae
 
-Try out [one of these difficulties](https://osu.ppy.sh/beatmapsets/2340091) the mapset for [Expert Global Taiko Showdown 2025](https://osu.ppy.sh/home/news/2025-05-06-expert-global-taiko-showdown-2025-concludes) by [Shinsekai-](https://osu.ppy.sh/users/2140739)!
+Try out [one of these difficulties](https://osu.ppy.sh/beatmapsets/2340091) the mapset for [Expert Global Taiko Showdown 2025](https://osu.ppy.sh/home/news/2025-05-06-expert-global-taiko-showdown-2025-concludes) by ::Shinsekai-::{ user-id=2140739 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/409/Ennodia/ptar124%20feat.%20IA%2C%20flower%20%26%20SEKAI%20-%20nymphae%20silvae.mp3">
@@ -59,7 +59,7 @@ Try out [one of these difficulties](https://osu.ppy.sh/beatmapsets/2340091) the 
 
 ### ptar124 - Navis Tranquilla Jungitur
 
-If you're not an osu!taiko expert, [this map](https://osu.ppy.sh/beatmapsets/2421684) by [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [arcpotato](https://osu.ppy.sh/users/12842392), [hz404](https://osu.ppy.sh/users/14947043), and [K a y o k o](https://osu.ppy.sh/users/17664300) from [Newbie Taiko Journey 3](https://osu.ppy.sh/community/forums/topics/2095592) might be for you.
+If you're not an osu!taiko expert, [this map](https://osu.ppy.sh/beatmapsets/2421684) by ::Cynplytholowazy::{ user-id=3901754 }, [arcpotato](https://osu.ppy.sh/users/12842392), ::hz404::{ user-id=14947043 }, and [K a y o k o](https://osu.ppy.sh/users/17664300) from [Newbie Taiko Journey 3](https://osu.ppy.sh/community/forums/topics/2095592) might be for you.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/409/Ennodia/ptar124%20-%20Navis%20Tranquilla%20Jungitur.mp3">
@@ -67,7 +67,7 @@ If you're not an osu!taiko expert, [this map](https://osu.ppy.sh/beatmapsets/242
 
 ### Spaceport Sound Team - Strive;
 
-Run through [this gimmick map](https://osu.ppy.sh/beatmapsets/2340046) by [SolaEclipse](https://osu.ppy.sh/users/6621158) and [Nozdormu](https://osu.ppy.sh/users/7169208) and created for [Expert Global Taiko Showdown 2025](https://osu.ppy.sh/home/news/2025-05-06-expert-global-taiko-showdown-2025-concludes)!
+Run through [this gimmick map](https://osu.ppy.sh/beatmapsets/2340046) by ::SolaEclipse::{ user-id=6621158 } and [Nozdormu](https://osu.ppy.sh/users/7169208) and created for [Expert Global Taiko Showdown 2025](https://osu.ppy.sh/home/news/2025-05-06-expert-global-taiko-showdown-2025-concludes)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/409/Ennodia/Spaceport%20Sound%20Team%20-%20Strive%27.mp3">
@@ -75,7 +75,7 @@ Run through [this gimmick map](https://osu.ppy.sh/beatmapsets/2340046) by [SolaE
 
 ### ptar124 & 1zm8 - A World of Whiplash When You're Interrupted by a Cutscene
 
-There is no option to skip. You must play through [this 2 minutes and 17 seconds long ~~cutscene~~ map](https://osu.ppy.sh/beatmapsets/2395794) made for [Resurrection Cup 2025](/wiki/Tournaments/RESC/2025) and created by [Castiello](https://osu.ppy.sh/users/15369635).
+There is no option to skip. You must play through [this 2 minutes and 17 seconds long ~~cutscene~~ map](https://osu.ppy.sh/beatmapsets/2395794) made for [Resurrection Cup 2025](/wiki/Tournaments/RESC/2025) and created by ::Castiello::{ user-id=15369635 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/409/Ennodia/ptar124%20%26%201zm8%20-%20A%20World%20of%20Whiplash%20When%20You%27re%20Interrupted%20by%20a%20Cutscene.mp3">

@@ -33,8 +33,8 @@ Save your precious fingers from scrolling too much by skipping to any section be
 
 | Placement | User | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [uone](https://osu.ppy.sh/users/5321719) | [Frums - Jam with Pancake](https://osu.ppy.sh/beatmapsets/2240031) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | *Elite Mapper* | +2 (6 total) |
-| Runner-up | [-Kazuha](https://osu.ppy.sh/users/29978316) | [BlackY - Swing Edge](https://osu.ppy.sh/beatmapsets/2240072) | - | - | +1 (3 total) |
+| Winner | ::uone::{ user-id=5321719 } | [Frums - Jam with Pancake](https://osu.ppy.sh/beatmapsets/2240031) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | *Elite Mapper* | +2 (6 total) |
+| Runner-up | ::-Kazuha::{ user-id=29978316 } | [BlackY - Swing Edge](https://osu.ppy.sh/beatmapsets/2240072) | - | - | +1 (3 total) |
 
 #### Top 10
 
@@ -42,9 +42,9 @@ Save your precious fingers from scrolling too much by skipping to any section be
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Ew8lA40LtH8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[uone](https://osu.ppy.sh/users/5321719) has been a [contest point](/wiki/Contests/Contest_points) collector recently. After winning [Twin Trials](/wiki/Contests/Twin_Trials_Contest), [Vocaloid Mapping Contest 2](/wiki/Contests/VMC/2), and June's MBC, he's earned his well-deserved status in the halls of our *Elite Mappers*!
+::uone::{ user-id=5321719 } has been a [contest point](/wiki/Contests/Contest_points) collector recently. After winning [Twin Trials](/wiki/Contests/Twin_Trials_Contest), [Vocaloid Mapping Contest 2](/wiki/Contests/VMC/2), and June's MBC, he's earned his well-deserved status in the halls of our *Elite Mappers*!
 
-Special thanks to [arcpotato](https://osu.ppy.sh/users/12842392), [meiqth](https://osu.ppy.sh/users/12565402), [Yasuho](https://osu.ppy.sh/users/8458835), and [SimplySynthy](https://osu.ppy.sh/users/15272997) for judging!
+Special thanks to ::arcpotato::{ user-id=12842392 }, [meiqth](https://osu.ppy.sh/users/12565402), ::Yasuho::{ user-id=8458835 }, and [SimplySynthy](https://osu.ppy.sh/users/15272997) for judging!
 
 ### osu!catch results
 
@@ -54,8 +54,8 @@ Special thanks to [arcpotato](https://osu.ppy.sh/users/12842392), [meiqth](https
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Xinnoh](https://osu.ppy.sh/users/4236057) | [Silentroom - NULCTRL EX](https://osu.ppy.sh/beatmapsets/2240189) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| Runner-up | [2zz](https://osu.ppy.sh/users/8201267) | [antiPLUR - No One Is Around To Help](https://osu.ppy.sh/beatmapsets/2240425) | - | +1 (1 total) |
+| Winner | ::Xinnoh::{ user-id=4236057 } | [Silentroom - NULCTRL EX](https://osu.ppy.sh/beatmapsets/2240189) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
+| Runner-up | ::2zz::{ user-id=8201267 } | [antiPLUR - No One Is Around To Help](https://osu.ppy.sh/beatmapsets/2240425) | - | +1 (1 total) |
 
 #### Top 10
 
@@ -63,9 +63,9 @@ Special thanks to [arcpotato](https://osu.ppy.sh/users/12842392), [meiqth](https
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/nJ_2RZN3Whc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[Xinnoh](https://osu.ppy.sh/users/4236057) received the *Elite Mapper* title long ago through another mapping contest, but he's back again to continue proving his osu!catch competence. Congrats on yet another success!
+::Xinnoh::{ user-id=4236057 } received the *Elite Mapper* title long ago through another mapping contest, but he's back again to continue proving his osu!catch competence. Congrats on yet another success!
 
-These results were determined by osu!catch's judging panel: [Morusya](https://osu.ppy.sh/users/13681464), [Unlucky_w](https://osu.ppy.sh/users/4820793), [Greaper](https://osu.ppy.sh/users/2369776), and [Chatie](https://osu.ppy.sh/users/6524765)!
+These results were determined by osu!catch's judging panel: ::Morusya::{ user-id=13681464 }, [Unlucky_w](https://osu.ppy.sh/users/4820793), ::Greaper::{ user-id=2369776 }, and [Chatie](https://osu.ppy.sh/users/6524765)!
 
 ## Game modes
 

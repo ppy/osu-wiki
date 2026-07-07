@@ -30,7 +30,7 @@ If you are interested in checking out all of the previous editions, feel free to
 
 This month, osu!(lazer) received an update jam-packed full of performance updates.
 
-First of all, argon (the new default osu!(lazer) skin) has finally received its initial implementation for osu!taiko, making the skin available for osu! gamers of all game modes. As announced by [peppy](https://osu.ppy.sh/users/2) in the update video above, the mania portion of the argon skin will receive another pass of fine-tuning in the future, following various feedback from players.
+First of all, argon (the new default osu!(lazer) skin) has finally received its initial implementation for osu!taiko, making the skin available for osu! gamers of all game modes. As announced by ::peppy::{ user-id=2 } in the update video above, the mania portion of the argon skin will receive another pass of fine-tuning in the future, following various feedback from players.
 
 As for what's coming in the future for the visual look of osu!(lazer), the gameplay HUD is slated for a redesign as per the [WIP design documents](https://www.figma.com/file/up6guVobzpc3DZlQxWzVmv/Gameplay-Layout). Go have a peek!
 
@@ -50,7 +50,7 @@ Other than that, there have been lots of smaller performance, UI, UX, gameplay a
 
 ![](/wiki/shared/news/2022-12-01-osumonthly-5/banner-OWC.jpg)
 
-*Section written by [Junihuhn](https://osu.ppy.sh/users/4182339)*
+*Section written by ::Junihuhn::{ user-id=4182339 }*
 
 One of the most competitive and dramatic iterations of the osu! World Cup has come to an end in late November.
 
@@ -62,11 +62,11 @@ One of the most competitive and dramatic iterations of the osu! World Cup has co
 
 The top 3 of OWC 2021 have returned for this year's podium, but the placings have shuffled around a bit. The US team extended their title streak to five in a row, beating South Korea in a tense bracket reset. Germany keeps gathering OWC badges with a third-place finish.
 
-Everything was set for a South Korean Cinderella story. After the fifth-place seeding, the Asian roster was widely regarded as one of the top teams, but was predicted to fall short on making the Grand Finals stage. The main reason: two key members, namely [FlyingTuna](https://osu.ppy.sh/users/9224078) and [Karuna](https://osu.ppy.sh/users/8775024), have left the team and five new members were introduced. However, a new unstoppable duo with [worst hr player](https://osu.ppy.sh/users/14106450) and [[Karcher]](https://osu.ppy.sh/users/11443437) appeared, both having an incredible year of solo and team community tournaments. The mental stability helped to win back-to-back tiebreaker fights against the North American teams Canada and, surprisingly, the USA.
+Everything was set for a South Korean Cinderella story. After the fifth-place seeding, the Asian roster was widely regarded as one of the top teams, but was predicted to fall short on making the Grand Finals stage. The main reason: two key members, namely ::FlyingTuna::{ user-id=9224078 } and [Karuna](https://osu.ppy.sh/users/8775024), have left the team and five new members were introduced. However, a new unstoppable duo with ::worst hr player::{ user-id=14106450 } and [[Karcher]](https://osu.ppy.sh/users/11443437) appeared, both having an incredible year of solo and team community tournaments. The mental stability helped to win back-to-back tiebreaker fights against the North American teams Canada and, surprisingly, the USA.
 
-South Korea's opponent in the winners' bracket finals was Germany with captain [criller](https://osu.ppy.sh/users/8116659) and star player [WhiteCat](https://osu.ppy.sh/users/4504101). They have constantly "passed the eye test" with rock-solid wins relying on aim and speed, but they showed unexpected flaws on the consistency and Double Time picks against the South Korean roster. The Asian side used these weaknesses to their advantage and secured their top 2 spot with a 7-3 victory. Now, the Germans would meet the US team once again — in the Grand Finals losers' bracket.
+South Korea's opponent in the winners' bracket finals was Germany with captain ::criller::{ user-id=8116659 } and star player ::WhiteCat::{ user-id=4504101 }. They have constantly "passed the eye test" with rock-solid wins relying on aim and speed, but they showed unexpected flaws on the consistency and Double Time picks against the South Korean roster. The Asian side used these weaknesses to their advantage and secured their top 2 spot with a 7-3 victory. Now, the Germans would meet the US team once again — in the Grand Finals losers' bracket.
 
-After a winning streak of 22 matches, the USA in the lower bracket was an unusual sight. Up until their loss against South Korea, their performance looked somewhat shaky. Nevertheless, their roster — once again — turned out to be the best late-game team in the world, beating Romania and Poland in Losers' Finals without much issue. The skill difference was especially displayed at the Grand Finals level, as the American side nearly swept Germany to knock them out of the tournament. Even though the USA has a deep and versatile roster, [Utami](https://osu.ppy.sh/users/7512553), the rookie of OWC 2021, stood out as the main carry of his team.
+After a winning streak of 22 matches, the USA in the lower bracket was an unusual sight. Up until their loss against South Korea, their performance looked somewhat shaky. Nevertheless, their roster — once again — turned out to be the best late-game team in the world, beating Romania and Poland in Losers' Finals without much issue. The skill difference was especially displayed at the Grand Finals level, as the American side nearly swept Germany to knock them out of the tournament. Even though the USA has a deep and versatile roster, ::Utami::{ user-id=7512553 }, the rookie of OWC 2021, stood out as the main carry of his team.
 
 Their dominant showing continued in Grand Finals against South Korea, landing the same result (7-1) to force the bracket reset. One more time, the team around the Korean power duo \[Karcher\] and worst hr player showed huge morale for a comeback, but their carry performances didn't come to fruition as the United States proceeded to win 7-4 to become champion for the fifth consecutive year.
 
@@ -78,11 +78,11 @@ The 2nd edition of osu!taiko Malaysian Tournament (OTMT for short) has concluded
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [CrabCow](https://osu.ppy.sh/users/9755504) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [HHVanilla Ice](https://osu.ppy.sh/users/12803930) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [JyaKeii](https://osu.ppy.sh/users/12086753) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::CrabCow::{ user-id=9755504 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::HHVanilla Ice::{ user-id=12803930 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::JyaKeii::{ user-id=12086753 } |
 
-After crawling back out of the Losers' Bracket by dealing a swift 7-1 blow to [JyaKeii](https://osu.ppy.sh/users/12086753), [HHVanilla Ice](https://osu.ppy.sh/users/12803930) was well on their way to defend their OTMT 2021 Champion title by forcing a 7-5 bracket reset against [CrabCow](https://osu.ppy.sh/users/9755504) and even pushing for an initial 4-1 lead in the second set. However, CrabCow quickly found their footing and blasted through the remaining maps to challenge HHVanilla Ice in an epic tiebreaker showdown, closing off the tournament with a 30k point difference and securing their first OTMT Champion title.
+After crawling back out of the Losers' Bracket by dealing a swift 7-1 blow to ::JyaKeii::{ user-id=12086753 }, [HHVanilla Ice](https://osu.ppy.sh/users/12803930) was well on their way to defend their OTMT 2021 Champion title by forcing a 7-5 bracket reset against ::CrabCow::{ user-id=9755504 } and even pushing for an initial 4-1 lead in the second set. However, CrabCow quickly found their footing and blasted through the remaining maps to challenge HHVanilla Ice in an epic tiebreaker showdown, closing off the tournament with a 30k point difference and securing their first OTMT Champion title.
 
 If you are interested in watching the match yourself, you can find the [Twitch VOD here](https://www.twitch.tv/videos/1664000839), or if you want to listen to the insane commissioned tiebreaker song (and custom map), feel free to check out the YouTube video below!
 
@@ -90,9 +90,9 @@ If you are interested in watching the match yourself, you can find the [Twitch V
 
 ### JPK314's Slider Picturator
 
-If you are at all interested in mapping on osu! you have probably already heard of [OliBomby](https://osu.ppy.sh/users/6573093) and his [Mapping Tools](https://mappingtools.github.io/) program that makes life easier for hundreds of mappers. But have you seen the latest update, or the [tweet](https://twitter.com/OliBomby/status/1592941194291863553?t=TEB1KmJ9pLdquaoVT9kv-g&s=19) from OliBomby on Twitter, revealing the Slider Picturator™?
+If you are at all interested in mapping on osu! you have probably already heard of ::OliBomby::{ user-id=6573093 } and his [Mapping Tools](https://mappingtools.github.io/) program that makes life easier for hundreds of mappers. But have you seen the latest update, or the [tweet](https://twitter.com/OliBomby/status/1592941194291863553?t=TEB1KmJ9pLdquaoVT9kv-g&s=19) from OliBomby on Twitter, revealing the Slider Picturator™?
 
-[JPK314](https://osu.ppy.sh/users/10067391) has developed this new utility with the help of OliBomby and a few others, which has since been added to Mapping Tools! It allows you to transform your slider into any image. That's right, any image can now be embedded as a slider in a map. You don't have to be a genius to understand all the possibilities this can offer, and many mappers have already started to experiment with it. With each new update to Mapping Tools, OliBomby seems to push the limits of the editor. How far can we go from here? Only the future will tell.
+::JPK314::{ user-id=10067391 } has developed this new utility with the help of OliBomby and a few others, which has since been added to Mapping Tools! It allows you to transform your slider into any image. That's right, any image can now be embedded as a slider in a map. You don't have to be a genius to understand all the possibilities this can offer, and many mappers have already started to experiment with it. With each new update to Mapping Tools, OliBomby seems to push the limits of the editor. How far can we go from here? Only the future will tell.
 
 This tech is very experimental and may not work correctly on some resolutions and GPUs, but it allows for some pretty cool stuff. With sliders appearing as arbitrary images, multiple images can be displayed sequentially. Of course, whenever such technology is possible, there's only one thing to do: turn it into *Bad Apple*.
 
@@ -110,7 +110,7 @@ Word on the street is that there will be more Hush-Hush medals coming soon, so i
 
 ![](/wiki/shared/news/2022-12-01-osumonthly-5/BResports-banner.jpg)
 
-It is already a very hard feat to be recognised as one of the best, most versatile players 4K osu!mania has ever seen. [SillyFanGirl](https://osu.ppy.sh/users/2288363) has not only been able to achieve this, but is also an active [content creator](https://www.youtube.com/@SillyFangirlosu), an active tournament player, and overall an incredible community member to interact with!
+It is already a very hard feat to be recognised as one of the best, most versatile players 4K osu!mania has ever seen. ::SillyFanGirl::{ user-id=2288363 } has not only been able to achieve this, but is also an active [content creator](https://www.youtube.com/@SillyFangirlosu), an active tournament player, and overall an incredible community member to interact with!
 
 But as if their astounding performance on [this year's osu!mania World Cup](/wiki/Tournaments/MWC/2022_4K) was not enough, for the second consecutive year they've been nominated in Brazil's eSports Award in the "Best Athlete in Other Modalities" category!
 
@@ -118,21 +118,21 @@ If you want to directly support them or get yourself involved in the Brazil's eS
 
 ### Notable osu! plays of the month
 
-*Section written by [0x84f](https://osu.ppy.sh/users/7944724)*
+*Section written by ::0x84f::{ user-id=7944724 }*
 
-Month after month [mrekk](https://osu.ppy.sh/users/7562902) keeps proving why he is the best osu! player in the world, and if you *still* needed some justification as to why people consider him as one of the greatest players of all time, check out his HDDT play on [Save Me](https://osu.ppy.sh/beatmapsets/594170#osu/1256809).
+Month after month ::mrekk::{ user-id=7562902 } keeps proving why he is the best osu! player in the world, and if you *still* needed some justification as to why people consider him as one of the greatest players of all time, check out his HDDT play on [Save Me](https://osu.ppy.sh/beatmapsets/594170#osu/1256809).
 
-This 11-minute long marathon by [Drummer](https://osu.ppy.sh/users/4102249) has been considered by some as the "endgame" map to FC with HDDT, but unfortunately mrekk choked at the end with 4 misses and a couple of slider breaks. Nonetheless, it's an amazing play to witness.
+This 11-minute long marathon by ::Drummer::{ user-id=4102249 } has been considered by some as the "endgame" map to FC with HDDT, but unfortunately mrekk choked at the end with 4 misses and a couple of slider breaks. Nonetheless, it's an amazing play to witness.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/SSJOtgLmOIo" frameborder="0" allowfullscreen></iframe>
 
-Another notable play amongst a sea of mrekk's scores that push the game beyond its limits would be [worst hr player](https://osu.ppy.sh/users/14106450/)'s 1x slider break run on [Katagiri](https://osu.ppy.sh/beatmaps/artists/176)'s remix of [true DJ MAG top ranker's song Zenpen](https://osu.ppy.sh/beatmapsets/1357624#osu/2809623), which you can [check out here](https://www.youtube.com/watch?v=qKOefiZZT8U).
+Another notable play amongst a sea of mrekk's scores that push the game beyond its limits would be ::worst hr player::{ user-id=14106450 }'s 1x slider break run on [Katagiri](https://osu.ppy.sh/beatmaps/artists/176)'s remix of [true DJ MAG top ranker's song Zenpen](https://osu.ppy.sh/beatmapsets/1357624#osu/2809623), which you can [check out here](https://www.youtube.com/watch?v=qKOefiZZT8U).
 
 ### Notable osu!taiko plays of the month
 
-*Section written by [Blushing](https://osu.ppy.sh/users/5927823)*
+*Section written by ::Blushing::{ user-id=5927823 }*
 
-It's one thing to get the number one spot on the leaderboard with Hidden, but it's another to be the only FC with a mod at all. Though, [Peaceful](https://osu.ppy.sh/users/165027) took up the challenge and managed to absolutely *violate* [The Violation](https://osu.ppy.sh/beatmapsets/1452092#taiko/2985808).
+It's one thing to get the number one spot on the leaderboard with Hidden, but it's another to be the only FC with a mod at all. Though, ::Peaceful::{ user-id=165027 } took up the challenge and managed to absolutely *violate* [The Violation](https://osu.ppy.sh/beatmapsets/1452092#taiko/2985808).
 
 While not being the longest nor fastest map osu!monthly has showcased, it is definitely a merit in and of itself. Coming in at 270 BPM, various rhythm changes, not to mention these timing changes are happening within 1/4 streams, and being over 5 minutes into nigh non-stop drumming action, this map definitely holds up to its name.
 
@@ -140,25 +140,25 @@ Beware, although Peaceful makes the map look like a walk in the park, one should
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/xdNJyMYHw0A" frameborder="0" allowfullscreen></iframe>
 
-Some other notable plays for November include [shinchikuhome](https://osu.ppy.sh/users/3174184)'s [DT 3x100 FC](https://osu.ppy.sh/scores/taiko/175425262) on [Lunaticon](https://osu.ppy.sh/beatmapsets/1727109#taiko/3529595), and while this one is a Loved map, conquering it is no small feat to be done — but lets be real: shinchikuhome does no such thing as small feats.
+Some other notable plays for November include ::shinchikuhome::{ user-id=3174184 }'s [DT 3x100 FC](https://osu.ppy.sh/scores/taiko/175425262) on [Lunaticon](https://osu.ppy.sh/beatmapsets/1727109#taiko/3529595), and while this one is a Loved map, conquering it is no small feat to be done — but lets be real: shinchikuhome does no such thing as small feats.
 
-Also, we have [nurend](https://osu.ppy.sh/users/9905079)'s [Nightcore 10x miss](https://osu.ppy.sh/scores/taiko/175201104) on [Central Nucleous](https://osu.ppy.sh/beatmapsets/695399#taiko/1473448) being the Nightcore-enhanced play with the second highest combo and lowest miss count yet.
+Also, we have ::nurend::{ user-id=9905079 }'s [Nightcore 10x miss](https://osu.ppy.sh/scores/taiko/175201104) on [Central Nucleous](https://osu.ppy.sh/beatmapsets/695399#taiko/1473448) being the Nightcore-enhanced play with the second highest combo and lowest miss count yet.
 
 ### Notable osu!catch plays of the month
 
-*Section written by [Patatitta](https://osu.ppy.sh/users/16294034)*
+*Section written by ::Patatitta::{ user-id=16294034 }*
 
-[Aryssiel](https://osu.ppy.sh/users/2389481) has broken yet another record, getting a [DT FC](https://osu.ppy.sh/scores/fruits/210115320) on the top difficulty of the recently ranked map [Kick Back!](https://osu.ppy.sh/beatmapsets/1864673#fruits/3834979). This marks a new pp record for the mod, being the first 1000 pp play on this category of play, and beating the previous record by over 50 pp.
+::Aryssiel::{ user-id=2389481 } has broken yet another record, getting a [DT FC](https://osu.ppy.sh/scores/fruits/210115320) on the top difficulty of the recently ranked map [Kick Back!](https://osu.ppy.sh/beatmapsets/1864673#fruits/3834979). This marks a new pp record for the mod, being the first 1000 pp play on this category of play, and beating the previous record by over 50 pp.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7NUzL8_lFh4" frameborder="0" allowfullscreen></iframe>
 
-There has been many other outstanding plays this month, but [b-a-d-s123](https://osu.ppy.sh/users/2084568)'s [HDDT SS](https://osu.ppy.sh/scores/fruits/210344480) on the top difficulty of [Now on stage!!](https://osu.ppy.sh/beatmapsets/745838#fruits/1572198) has stood on top of them, showing once again their impressive convert and DT skills on this massively popular map.
+There has been many other outstanding plays this month, but ::b-a-d-s123::{ user-id=2084568 }'s [HDDT SS](https://osu.ppy.sh/scores/fruits/210344480) on the top difficulty of [Now on stage!!](https://osu.ppy.sh/beatmapsets/745838#fruits/1572198) has stood on top of them, showing once again their impressive convert and DT skills on this massively popular map.
 
 ### Notable osu!mania plays of the month
 
-*Section written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
+*Section written by ::RandomeLoL::{ user-id=7080063 }*
 
-Roughly 24 hours passed since [stεganography](https://osu.ppy.sh/beatmapsets/1846639#mania/3793375) — osu!mania's most recent challenging chart — was released. That's the amount of time it took [bojii](https://osu.ppy.sh/users/10083439/mania) to submit the first Full Combo in its leaderboards.
+Roughly 24 hours passed since [stεganography](https://osu.ppy.sh/beatmapsets/1846639#mania/3793375) — osu!mania's most recent challenging chart — was released. That's the amount of time it took ::bojii::{ user-id=10083439 } to submit the first Full Combo in its leaderboards.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/npZLSLb6REA" frameborder="0" allowfullscreen></iframe>
 
@@ -178,14 +178,14 @@ Furthermore, descriptions have been added to all user groups, informing players 
 
 Last month's question took a bit longer to answer than usual, but the answer was still found!
 
-Congratulations to [metis_](https://osu.ppy.sh/users/8171561) for being the first person to answer last month's question and score themselves 1 month of osu!supporter!
+Congratulations to ::metis\1::{ user-id=8171561 } for being the first person to answer last month's question and score themselves 1 month of osu!supporter!
 For anyone who missed last month's edition, the question was:
 
 *"What symbol of Halloween went extinct in early 2015, and what did they drop after their reincarnation?"*
 
 and the answer was: *BAT (Beatmap Appreciation Team)*. If you were curious, the "T" was dropped after the group was renamed into "Beatmap Appreciators".
 
-Thanks to [chromb](https://osu.ppy.sh/users/10238680) we have got yet another puzzling question for you, and that question is...
+Thanks to ::chromb::{ user-id=10238680 } we have got yet another puzzling question for you, and that question is...
 
 **What turbulent seas does Bancho sail through in order to deliver your messages?**
 

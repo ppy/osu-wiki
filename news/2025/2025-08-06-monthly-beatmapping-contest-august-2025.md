@@ -27,11 +27,11 @@ Read below for results from [the last osu! iteration of the MBC](https://osu.ppy
 
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [fowwo](https://osu.ppy.sh/users/4547551) | [James Landino & Kabuki - Birdsong](https://osu.ppy.sh/beatmapsets/2414725) | - | +2 (10 total) |
-| Runner-up | [0ppInOsu](https://osu.ppy.sh/users/12551840) | [ISOMERZ (DJ Raisei + seatrus) - Symmetric](https://osu.ppy.sh/beatmapsets/2414579) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +1 (4 total) |
-| [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [iBell](https://osu.ppy.sh/users/4298072) | [Junk - Kagaribi](https://osu.ppy.sh/beatmapsets/2414817) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +1 (4 total) |
+| Winner | ::fowwo::{ user-id=4547551 } | [James Landino & Kabuki - Birdsong](https://osu.ppy.sh/beatmapsets/2414725) | - | +2 (10 total) |
+| Runner-up | ::0ppInOsu::{ user-id=12551840 } | [ISOMERZ (DJ Raisei + seatrus) - Symmetric](https://osu.ppy.sh/beatmapsets/2414579) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +1 (4 total) |
+| [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | ::iBell::{ user-id=4298072 } | [Junk - Kagaribi](https://osu.ppy.sh/beatmapsets/2414817) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +1 (4 total) |
 
-Despite having earned all the prizes offered by the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) already, [**fowwo**](https://osu.ppy.sh/users/4547551) is still competing!
+Despite having earned all the prizes offered by the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) already, ::**fowwo**::{ user-id=4547551 } is still competing!
 
 If it's possible to earn *Elite Mapper II* from the MBC, **fowwo** is bound to find out.
 
@@ -43,8 +43,8 @@ If it's possible to earn *Elite Mapper II* from the MBC, **fowwo** is bound to f
 
 Special thanks for those who helped make this contest possible: 
 
-- Screeners: [Andrea](https://osu.ppy.sh/users/33599), [Uberzolik](https://osu.ppy.sh/users/1314547), [an3](https://osu.ppy.sh/users/11954090), [Bloxi](https://osu.ppy.sh/users/9022451), [Elzix](https://osu.ppy.sh/users/4990127), [Firiiu](https://osu.ppy.sh/users/7825971), [Le Mirai](https://osu.ppy.sh/users/13646997), [lit120](https://osu.ppy.sh/users/3109248), [Chiga](https://osu.ppy.sh/users/10719127), [Delta_](https://osu.ppy.sh/users/14272323), [Garden](https://osu.ppy.sh/users/2849992), and [kowari](https://osu.ppy.sh/users/5404892)
-- Judges: [Omekyu](https://osu.ppy.sh/users/14348073), [zadknus](https://osu.ppy.sh/users/12101917), [Daycore](https://osu.ppy.sh/users/5596337), [riot1133](https://osu.ppy.sh/users/11877992), [Evil-](https://osu.ppy.sh/users/10234313), [Sanch-KK](https://osu.ppy.sh/users/9131844), and [Sonnyc](https://osu.ppy.sh/users/11771)
+- Screeners: ::Andrea::{ user-id=33599 }, [Uberzolik](https://osu.ppy.sh/users/1314547), ::an3::{ user-id=11954090 }, [Bloxi](https://osu.ppy.sh/users/9022451), ::Elzix::{ user-id=4990127 }, [Firiiu](https://osu.ppy.sh/users/7825971), ::Le Mirai::{ user-id=13646997 }, [lit120](https://osu.ppy.sh/users/3109248), ::Chiga::{ user-id=10719127 }, [Delta_](https://osu.ppy.sh/users/14272323), ::Garden::{ user-id=2849992 }, and [kowari](https://osu.ppy.sh/users/5404892)
+- Judges: ::Omekyu::{ user-id=14348073 }, [zadknus](https://osu.ppy.sh/users/12101917), ::Daycore::{ user-id=5596337 }, [riot1133](https://osu.ppy.sh/users/11877992), ::Evil-::{ user-id=10234313 }, [Sanch-KK](https://osu.ppy.sh/users/9131844), and ::Sonnyc::{ user-id=11771 }
 
 ## Game modes
 

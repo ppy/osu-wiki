@@ -8,7 +8,7 @@ tags:
 
 ![TW logo](img/logo.png)
 
-The **Taiko Wars** (***TW***) was a 2v2 interactive strategy double-elimination osu!taiko tournament hosted by ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=CA }:: [FlamingRok](https://osu.ppy.sh/users/2015353), and ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027). It was the first instalment of the Taiko Wars.
+The **Taiko Wars** (***TW***) was a 2v2 interactive strategy double-elimination osu!taiko tournament hosted by ::{ flag=CA }:: ::rubies87::{ user-id=4949934 }, ::{ flag=CA }:: ::FlamingRok::{ user-id=2015353 }, and ::{ flag=US }:: ::incandescence::{ user-id=6256027 }. It was the first instalment of the Taiko Wars.
 
 ## Tournament schedule
 
@@ -36,14 +36,14 @@ The Taiko Wars was run by various osu!taiko community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=CA }:: [FlamingRok](https://osu.ppy.sh/users/2015353), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027) |
-| Mappool selector | ::{ flag=CA }:: [FlamingRok](https://osu.ppy.sh/users/2015353), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078) |
-| Streamer | ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
-| Commentator | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897), ::{ flag=CA }:: [FlamingRok](https://osu.ppy.sh/users/2015353), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=CA }:: [DuckyDoom](https://osu.ppy.sh/users/3153062) |
-| Designer | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) |
-| Referee | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=RU }:: [-dragon67](https://osu.ppy.sh/users/4328734) |
-| Statistician | ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=CA }:: ::rubies87::{ user-id=4949934 }, ::{ flag=CA }:: ::FlamingRok::{ user-id=2015353 }, ::{ flag=US }:: ::incandescence::{ user-id=6256027 } |
+| Mappool selector | ::{ flag=CA }:: ::FlamingRok::{ user-id=2015353 }, ::{ flag=US }:: ::incandescence::{ user-id=6256027 }, ::{ flag=US }:: ::JDrago14::{ user-id=7690078 } |
+| Streamer | ::{ flag=US }:: ::ITotallyGetThat::{ user-id=8770622 } |
+| Commentator | ::{ flag=CA }:: ::janitoreihil::{ user-id=3307897 }, ::{ flag=CA }:: ::FlamingRok::{ user-id=2015353 }, ::{ flag=US }:: ::incandescence::{ user-id=6256027 }, ::{ flag=US }:: ::Das::{ user-id=3165416 }, ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 }, ::{ flag=US }:: ::CaptainEChan::{ user-id=9536977 }, ::{ flag=EC }:: ::Gamelan4::{ user-id=9856910 }, ::{ flag=CA }:: ::DuckyDoom::{ user-id=3153062 } |
+| Designer | ::{ flag=US }:: ::Backfire::{ user-id=263110 } |
+| Referee | ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 }, ::{ flag=US }:: ::incandescence::{ user-id=6256027 }, ::{ flag=JP }:: ::Briesmas::{ user-id=2865172 }, ::{ flag=US }:: ::CaptainEChan::{ user-id=9536977 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user-id=7157133 }, ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 }, ::{ flag=RU }:: ::-dragon67::{ user-id=4328734 } |
+| Statistician | ::{ flag=CA }:: ::rubies87::{ user-id=4949934 }, ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Links
 
@@ -56,17 +56,17 @@ The Taiko Wars was run by various osu!taiko community members.
 
 | Team | Members |
 | :-- | :-- |
-| **Bolsonaros Unidos** | ::{ flag=BR }:: **[Ppus](https://osu.ppy.sh/users/5918857)**, ::{ flag=BR }:: [Kyoumo](https://osu.ppy.sh/users/8145223), ::{ flag=BR }:: [-Shikamaru](https://osu.ppy.sh/users/8655327) |
-| **cu** | ::{ flag=CL }:: **[Ulqui](https://osu.ppy.sh/users/1263669)**, ::{ flag=CL }:: [-F1-](https://osu.ppy.sh/users/5810867), ::{ flag=BR }:: [Kbludoh](https://osu.ppy.sh/users/2543764) |
-| **Gib Sinep** | ::{ flag=BR }:: **[Skull Kid](https://osu.ppy.sh/users/3044264)**, ::{ flag=VE }:: [Colorojo12](https://osu.ppy.sh/users/5136821), ::{ flag=US }:: [Bauregaurd](https://osu.ppy.sh/users/2598555) |
-| **Iceland** | ::{ flag=CA }:: **[janitoreihil](https://osu.ppy.sh/users/3307897)**, ::{ flag=BR }:: [Kqrth](https://osu.ppy.sh/users/4115718), ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922) |
-| **Land of Foda-se 2: Electric Boogaloo** | ::{ flag=BR }:: **[HiroK](https://osu.ppy.sh/users/4050738)**, ::{ flag=BR }:: [Foxerus](https://osu.ppy.sh/users/7479684), ::{ flag=CA }:: [beary605](https://osu.ppy.sh/users/2198070) |
-| **Laundry Ca𝔹oclo Warriors** | ::{ flag=BR }:: **[Brasil](https://osu.ppy.sh/users/3949268)**, ::{ flag=BR }:: [Berg](https://osu.ppy.sh/users/8097465), ::{ flag=BR }:: [Coryn](https://osu.ppy.sh/users/2828556) |
-| **Paragay** | ::{ flag=CA }:: **[Nyanners-](https://osu.ppy.sh/users/459886)**, ::{ flag=US }:: [Protonori](https://osu.ppy.sh/users/6049990), ::{ flag=CL }:: [Maniaco1](https://osu.ppy.sh/users/1158576) |
-| **Republic of Froot Loop Salad** | ::{ flag=US }:: **[Loopy542](https://osu.ppy.sh/users/5468461)**, ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=CA }:: [Spooky Mango](https://osu.ppy.sh/users/3582786) |
-| **Team II Empire** | ::{ flag=CA }:: **[vladyushko](https://osu.ppy.sh/users/4908773)**, ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035), ::{ flag=CA }:: [Player-](https://osu.ppy.sh/users/3724819) |
-| **Ununited States of Namepiking Gamers** | ::{ flag=US }:: **[\_knots](https://osu.ppy.sh/users/4407678)**, ::{ flag=US }:: [jyake\_ou](https://osu.ppy.sh/users/9099822), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910) |
-| **Urugay** | ::{ flag=US }:: **[Das](https://osu.ppy.sh/users/3165416)**, ::{ flag=VE }:: [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) |
+| **Bolsonaros Unidos** | ::{ flag=BR }:: **::Ppus::{ user-id=5918857 }**, ::{ flag=BR }:: ::Kyoumo::{ user-id=8145223 }, ::{ flag=BR }:: ::-Shikamaru::{ user-id=8655327 } |
+| **cu** | ::{ flag=CL }:: **::Ulqui::{ user-id=1263669 }**, ::{ flag=CL }:: ::-F1-::{ user-id=5810867 }, ::{ flag=BR }:: ::Kbludoh::{ user-id=2543764 } |
+| **Gib Sinep** | ::{ flag=BR }:: **::Skull Kid::{ user-id=3044264 }**, ::{ flag=VE }:: ::Colorojo12::{ user-id=5136821 }, ::{ flag=US }:: ::Bauregaurd::{ user-id=2598555 } |
+| **Iceland** | ::{ flag=CA }:: **::janitoreihil::{ user-id=3307897 }**, ::{ flag=BR }:: ::Kqrth::{ user-id=4115718 }, ::{ flag=US }:: ::closed::{ user-id=5116922 } |
+| **Land of Foda-se 2: Electric Boogaloo** | ::{ flag=BR }:: **::HiroK::{ user-id=4050738 }**, ::{ flag=BR }:: ::Foxerus::{ user-id=7479684 }, ::{ flag=CA }:: ::beary605::{ user-id=2198070 } |
+| **Laundry Ca𝔹oclo Warriors** | ::{ flag=BR }:: **::Brasil::{ user-id=3949268 }**, ::{ flag=BR }:: ::Berg::{ user-id=8097465 }, ::{ flag=BR }:: ::Coryn::{ user-id=2828556 } |
+| **Paragay** | ::{ flag=CA }:: **::Nyanners-::{ user-id=459886 }**, ::{ flag=US }:: ::Protonori::{ user-id=6049990 }, ::{ flag=CL }:: ::Maniaco1::{ user-id=1158576 } |
+| **Republic of Froot Loop Salad** | ::{ flag=US }:: **::Loopy542::{ user-id=5468461 }**, ::{ flag=US }:: ::cheese salad::{ user-id=6349821 }, ::{ flag=CA }:: ::Spooky Mango::{ user-id=3582786 } |
+| **Team II Empire** | ::{ flag=CA }:: **::vladyushko::{ user-id=4908773 }**, ::{ flag=US }:: ::Garpo::{ user-id=4097035 }, ::{ flag=CA }:: ::Player-::{ user-id=3724819 } |
+| **Ununited States of Namepiking Gamers** | ::{ flag=US }:: **::\_knots::{ user-id=4407678 }**, ::{ flag=US }:: ::jyake\_ou::{ user-id=9099822 }, ::{ flag=EC }:: ::Gamelan4::{ user-id=9856910 } |
+| **Urugay** | ::{ flag=US }:: **::Das::{ user-id=3165416 }**, ::{ flag=VE }:: ::\[\_Chichinya\_\]::{ user-id=2140739 }, ::{ flag=US }:: ::Backfire::{ user-id=263110 } |
 
 ## Podium
 
@@ -74,10 +74,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Land of Foda-se 2: Electric Boogaloo** (::{ flag=BR }:: **[HiroK](https://osu.ppy.sh/users/4050738)**, ::{ flag=BR }:: [Foxerus](https://osu.ppy.sh/users/7479684), ::{ flag=CA }:: [beary605](https://osu.ppy.sh/users/2198070) |
-| **Laundry Ca𝔹oclo Warriors** | ::{ flag=BR }:: **[Brasil](https://osu.ppy.sh/users/3949268)**, ::{ flag=BR }:: [Berg](https://osu.ppy.sh/users/8097465), ::{ flag=BR }:: [Coryn](https://osu.ppy.sh/users/2828556)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **cu** (::{ flag=CL }:: **[Ulqui](https://osu.ppy.sh/users/1263669)**, ::{ flag=CL }:: [-F1-](https://osu.ppy.sh/users/5810867), ::{ flag=BR }:: [Kbludoh](https://osu.ppy.sh/users/2543764)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Iceland** (::{ flag=CA }:: **[janitoreihil](https://osu.ppy.sh/users/3307897)**, ::{ flag=BR }:: [Kqrth](https://osu.ppy.sh/users/4115718), ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Land of Foda-se 2: Electric Boogaloo** (::{ flag=BR }:: **::HiroK::{ user-id=4050738 }**, ::{ flag=BR }:: ::Foxerus::{ user-id=7479684 }, ::{ flag=CA }:: ::beary605::{ user-id=2198070 } |
+| **Laundry Ca𝔹oclo Warriors** | ::{ flag=BR }:: **::Brasil::{ user-id=3949268 }**, ::{ flag=BR }:: ::Berg::{ user-id=8097465 }, ::{ flag=BR }:: ::Coryn::{ user-id=2828556 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **cu** (::{ flag=CL }:: **::Ulqui::{ user-id=1263669 }**, ::{ flag=CL }:: ::-F1-::{ user-id=5810867 }, ::{ flag=BR }:: ::Kbludoh::{ user-id=2543764 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Iceland** (::{ flag=CA }:: **::janitoreihil::{ user-id=3307897 }**, ::{ flag=BR }:: ::Kqrth::{ user-id=4115718 }, ::{ flag=US }:: ::closed::{ user-id=5116922 }) |
 
 ## Mappools
 

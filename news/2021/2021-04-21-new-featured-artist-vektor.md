@@ -13,7 +13,7 @@ Continuing the trend of pulling the best of the best metal bands into osu!, we'r
 
 **22** epic tracks have been scoured from across **Vektor**'s 3 studio albums, all available for mapping now from their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/158).
 
-Distinguished metal mapper [Mazzerin](https://osu.ppy.sh/users/2942381) started the **Vektor** trend with his map of [*Fast Paced Society*](https://osu.ppy.sh/beatmapsets/298996), so it's only fitting to introduce them to osu! officially with the same map. Check out the 5-way combo-holding competition in the video below, or preview these other songs:
+Distinguished metal mapper ::Mazzerin::{ user-id=2942381 } started the **Vektor** trend with his map of [*Fast Paced Society*](https://osu.ppy.sh/beatmapsets/298996), so it's only fitting to introduce them to osu! officially with the same map. Check out the 5-way combo-holding competition in the video below, or preview these other songs:
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ Distinguished metal mapper [Mazzerin](https://osu.ppy.sh/users/2942381) started 
 
 ### Tetrastructural Minds
 
-Check out [this osu! map](https://osu.ppy.sh/beatmapsets/361035) hosted by [Makeli](https://osu.ppy.sh/users/3411824) or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1047259) hosted by [radar](https://osu.ppy.sh/users/7131099)!
+Check out [this osu! map](https://osu.ppy.sh/beatmapsets/361035) hosted by ::Makeli::{ user-id=3411824 } or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1047259) hosted by ::radar::{ user-id=7131099 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/158/Outer%20Isolation/Vektor%20-%20Tetrastructural%20Minds.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [this osu! map](https://osu.ppy.sh/beatmapsets/361035) hosted by [Make
 
 ### Cosmic Cortex
 
-Give [this osu! map](https://osu.ppy.sh/beatmapsets/357996#osu/787307) by [Mazzerin](https://osu.ppy.sh/users/2942381) an attempt or two. Or twenty. You'll need all of them.
+Give [this osu! map](https://osu.ppy.sh/beatmapsets/357996#osu/787307) by ::Mazzerin::{ user-id=2942381 } an attempt or two. Or twenty. You'll need all of them.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/158/Outer%20Isolation/Vektor%20-%20Cosmic%20Cortex.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Give [this osu! map](https://osu.ppy.sh/beatmapsets/357996#osu/787307) by [Mazze
 
 ### Outer Isolation
 
-Try playing [this osu! map](https://osu.ppy.sh/beatmapsets/469408) hosted by [FCL](https://osu.ppy.sh/users/4715762)!
+Try playing [this osu! map](https://osu.ppy.sh/beatmapsets/469408) hosted by ::FCL::{ user-id=4715762 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/158/Outer%20Isolation/Vektor%20-%20Outer%20Isolation.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ Try playing [this osu! map](https://osu.ppy.sh/beatmapsets/469408) hosted by [FC
 
 ### Fast Paced Society
 
-Play [the osu! map](https://osu.ppy.sh/beatmapsets/298996) from the video above hosted by [Mazzerin](https://osu.ppy.sh/users/2942381). If you're a drum basher, [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1118123) by [3san](https://osu.ppy.sh/users/8050850) and [this osu!taiko map](https://osu.ppy.sh/beatmapsets/518689) by [Skull Kid](https://osu.ppy.sh/users/3044264) are options too.
+Play [the osu! map](https://osu.ppy.sh/beatmapsets/298996) from the video above hosted by ::Mazzerin::{ user-id=2942381 }. If you're a drum basher, [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1118123) by ::3san::{ user-id=8050850 } and [this osu!taiko map](https://osu.ppy.sh/beatmapsets/518689) by ::Skull Kid::{ user-id=3044264 } are options too.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/158/Outer%20Isolation/Vektor%20-%20Fast%20Paced%20Society.mp3" type="audio/mpeg">

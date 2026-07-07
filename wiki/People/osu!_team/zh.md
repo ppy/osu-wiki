@@ -18,34 +18,34 @@ tags:
 
 | 名称 | 职责 |
 | :-- | :-- |
-| ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)** | 项目负责人 |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 摸图和作图领域顾问 |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | [世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员 |
-| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | 秩序维护员，[世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员 |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | 秩序维护员，[管理员](/wiki/People/Global_Moderation_Team) |
-| ::{ flag=SK }:: [Domco](https://osu.ppy.sh/users/3562660) | osu! 开发者 |
-| ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) | 设计负责人，常驻创意云监视者 |
-| ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | osu! 开发者 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 秩序维护员，[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 领导，[喜爱计划](/wiki/Community/Project_Loved) 领导 |
-| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | [世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员 |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [精选艺术家](/wiki/People/Featured_Artists)募集者，[世界杯](/wiki/Tournaments#官方世界杯)秘书 |
-| ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | osu!web 开发者 |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | 秩序维护员，内容审核顾问 |
-| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | 音效艺术家，[精选艺术家](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 开发者 |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | 摸图和作图领域顾问 |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! YouTube 频道](https://www.youtube.com/@osugame)主，[谱师公会 (Mappers' Guild)](/wiki/Community/Mappers_Guild) 组织者，精选艺术家募集者 |
-| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | [世界杯](/wiki/Tournaments#官方世界杯)设计协调员 |
-| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 秩序维护员 |
-| ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 开发者，osu!mania 社区喜爱评估者，bug 杀手（测试工程师） |
-| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | osu! 开发者，技术支持 |
-| ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | 设计者 |
-| ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | osu! 底层开发者 |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 秩序维护员，锦标赛援助，“接线员” (THE OPERATOR) |
-| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | 秩序维护员，清扫者 |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | [管理员](/wiki/People/Global_Moderation_Team)，[谱面聚光灯](/wiki/Beatmap_Spotlights)策展人 |
-| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Wiki 维护员](/wiki/People/osu!_wiki_maintainers)，新闻编辑 |
-| ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | 濒危物种（团队吉祥物） |
+| ::{ flag=AU }:: **::peppy::{ user-id=2 }** | 项目负责人 |
+| ::{ flag=GB }:: ::-Mo-::{ user-id=2202163 } | 摸图和作图领域顾问 |
+| ::{ flag=CA }:: ::Azer::{ user-id=2155578 } | [世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员 |
+| ::{ flag=US }:: ::ChillierPear::{ user-id=9501251 } | 秩序维护员，[世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员 |
+| ::{ flag=US }:: ::Death::{ user-id=3242450 } | 秩序维护员，[管理员](/wiki/People/Global_Moderation_Team) |
+| ::{ flag=SK }:: ::Domco::{ user-id=3562660 } | osu! 开发者 |
+| ::{ flag=MY }:: ::flyte::{ user-id=3103765 } | 设计负责人，常驻创意云监视者 |
+| ::{ flag=SA }:: ::frenzibyte::{ user-id=14210502 } | osu! 开发者 |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | 秩序维护员，[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 领导，[喜爱计划](/wiki/Community/Project_Loved) 领导 |
+| ::{ flag=BR }:: ::LeoFLT::{ user-id=3668779 } | [世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员 |
+| ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 } | [精选艺术家](/wiki/People/Featured_Artists)募集者，[世界杯](/wiki/Tournaments#官方世界杯)秘书 |
+| ::{ flag=JP }:: ::nanaya::{ user-id=2387883 } | osu!web 开发者 |
+| ::{ flag=PH }:: ::Nathanael::{ user-id=2295078 } | 秩序维护员，内容审核顾问 |
+| ::{ flag=AU }:: ::nekodex::{ user-id=102 } | 音效艺术家，[精选艺术家](https://osu.ppy.sh/beatmaps/artists/1) |
+| ::{ flag=JP }:: ::notbakaneko::{ user-id=10751776 } | osu!web 开发者 |
+| ::{ flag=DE }:: ::Okoayu::{ user-id=1623405 } | 摸图和作图领域顾问 |
+| ::{ flag=US }:: ::pishifat::{ user-id=3178418 } | [osu! YouTube 频道](https://www.youtube.com/@osugame)主，[谱师公会 (Mappers' Guild)](/wiki/Community/Mappers_Guild) 组织者，精选艺术家募集者 |
+| ::{ flag=CN }:: ::Sakura006::{ user-id=10365024 } | [世界杯](/wiki/Tournaments#官方世界杯)设计协调员 |
+| ::{ flag=FR }:: ::Shiro::{ user-id=113005 } | 秩序维护员 |
+| ::{ flag=AU }:: ::smoogipoo::{ user-id=1040328 } | osu! 开发者，osu!mania 社区喜爱评估者，bug 杀手（测试工程师） |
+| ::{ flag=PL }:: ::spaceman\1atlas::{ user-id=3035836 } | osu! 开发者，技术支持 |
+| ::{ flag=GB }:: ::Tanza::{ user-id=10379965 } | 设计者 |
+| ::{ flag=FR }:: ::ThePooN::{ user-id=718454 } | osu! 底层开发者 |
+| ::{ flag=ES }:: ::Trosk-::{ user-id=3469385 } | 秩序维护员，锦标赛援助，“接线员” (THE OPERATOR) |
+| ::{ flag=US }:: ::tybug::{ user-id=12092800 } | 秩序维护员，清扫者 |
+| ::{ flag=PL }:: ::Venix::{ user-id=5999631 } | [管理员](/wiki/People/Global_Moderation_Team)，[谱面聚光灯](/wiki/Beatmap_Spotlights)策展人 |
+| ::{ flag=SE }:: ::Walavouchey::{ user-id=5773079 } | [Wiki 维护员](/wiki/People/osu!_wiki_maintainers)，新闻编辑 |
+| ::{ flag=AU }:: ::Zallius::{ user-id=55 } | 濒危物种（团队吉祥物） |
 
 [账户支持团队](/wiki/People/Account_support_team)还能帮助解决以上所述职责范围之外的问题。
 
@@ -53,42 +53,42 @@ tags:
 
 | 名称 | 职责 |
 | :-- | :-- |
-| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | 秩序维护员和援助者，萌版人物设计者。 |
-| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [管理员](/wiki/People/Global_Moderation_Team)，社区顾问 |
-| ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | 音频设计者，[精选艺术家](https://osu.ppy.sh/beatmaps/artists/2) |
-| ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | [故事板](/wiki/Storyboard)开发者 |
-| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu! 画师 |
-| ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | [世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员 |
-| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | 秩序维护员，社区管理员 |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [管理员](/wiki/People/Global_Moderation_Team)，技术支持 |
-| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! 开发者，游戏 IRC 聊天一体化，网站管理员。 |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | 项目和社区维护，[精选艺术家](/wiki/People/Featured_Artists)募集者 |
-| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 主办，世界杯比赛直播员，锦标赛组织者 |
-| ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 开发者，osz2/p2p 后端开发者 |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | 前[质量保障团队 (QAT)](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 领导 |
-| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | 原版网站设计者，早期的托管服务器提供者。 |
-| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员 |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员，前质量保障团队 (QAT) 领导，社区管理员 |
-| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 优秀的皮肤设计者，设计了图标和默认皮肤。 |
-| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | 前[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 领导 |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | osu! 开发者，技术支持 |
-| ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | osu! 开发者，mm 滑条创始人 |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 摸图和作图领域顾问 |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | 摸图和作图领域顾问 |
-| ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone 开发者 |
-| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | osu! 开发者，[谱师公会 (Mappers' Guild)](/wiki/Community/Mappers_Guild) 组织者 |
-| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | 审核顾问 |
-| ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | 论坛设计者 |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | 前[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 领导 |
-| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [管理员](/wiki/People/Global_Moderation_Team)，[wiki 维护员](/wiki/People/osu!_wiki_maintainers) |
-| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu! 画师，制作了很酷的素材 |
-| ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | 初代 [pippi](/wiki/Mascots#pippi) 概念设计和美术设计者。 |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | 早期的社区管理员和领头人，讨论记录与 FAQ 贡献者 |
-| ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) 设计者 |
-| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | osu! 和[表现分 (pp)](/wiki/Performance_points) 开发者 |
-| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | 社区喜爱计划 (Project Loved) 组织者，社区顾问，精选艺术家募集者 |
-| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [精选艺术家](https://osu.ppy.sh/beatmaps/artists/22)，摸图和作图领域顾问 |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | 秩序维护员，[世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员，[wiki 维护员](/wiki/People/osu!_wiki_maintainers) |
-| ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | osu! 开发者，osu!mania 的创始人 |
-| ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | [osu! 商店](https://osu.ppy.sh/store/listing)管理员 |
-| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | [osu! 学院](/wiki/Community/Video_series/osu!academy)教授，媒体和人物设计者 |
+| ::{ flag=CA }:: ::awp::{ user-id=2650 } | 秩序维护员和援助者，萌版人物设计者。 |
+| ::{ flag=US }:: ::Chaos::{ user-id=2628870 } | [管理员](/wiki/People/Global_Moderation_Team)，社区顾问 |
+| ::{ flag=NO }:: ::cYsmix::{ user-id=272870 } | 音频设计者，[精选艺术家](https://osu.ppy.sh/beatmaps/artists/2) |
+| ::{ flag=FR }:: ::Damnae::{ user-id=989377 } | [故事板](/wiki/Storyboard)开发者 |
+| ::{ flag=US }:: ::Daru::{ user-id=32480 } | osu! 画师 |
+| ::{ flag=NZ }:: ::deadbeat::{ user-id=128370 } | [世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员 |
+| ::{ flag=US }:: ::Derekku::{ user-id=91341 } | 秩序维护员，社区管理员 |
+| ::{ flag=US }:: ::Dntm8kmeeatu::{ user-id=5428812 } | [管理员](/wiki/People/Global_Moderation_Team)，技术支持 |
+| ::{ flag=NZ }:: ::Echo::{ user-id=431 } | osu! 开发者，游戏 IRC 聊天一体化，网站管理员。 |
+| ::{ flag=AU }:: ::Ephemeral::{ user-id=102335 } | 项目和社区维护，[精选艺术家](/wiki/People/Featured_Artists)募集者 |
+| ::{ flag=US }:: ::HappyStick::{ user-id=256802 } | osu! Coffee Hour 主办，世界杯比赛直播员，锦标赛组织者 |
+| ::{ flag=NL }:: ::Intermezzo::{ user-id=136842 } | osu! 开发者，osz2/p2p 后端开发者 |
+| ::{ flag=GB }:: ::JBHyperion::{ user-id=4879508 } | 前[质量保障团队 (QAT)](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 领导 |
+| ::{ flag=US }:: ::Datawalke::{ user-id=142 } | 原版网站设计者，早期的托管服务器提供者。 |
+| ::{ flag=AR }:: ::juankristal::{ user-id=443656 } | [世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员 |
+| ::{ flag=DE }:: ::Loctav::{ user-id=71366 } | [世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员，前质量保障团队 (QAT) 领导，社区管理员 |
+| ::{ flag=US }:: ::LuigiHann::{ user-id=1079 } | 优秀的皮肤设计者，设计了图标和默认皮肤。 |
+| ::{ flag=DE }:: ::Mao::{ user-id=2204515 } | 前[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 领导 |
+| ::{ flag=NO }:: ::MillhioreF::{ user-id=941094 } | osu! 开发者，技术支持 |
+| ::{ flag=CA }:: ::mm201::{ user-id=30655 } | osu! 开发者，mm 滑条创始人 |
+| ::{ flag=SE }:: ::Naxess::{ user-id=8129817 } | 摸图和作图领域顾问 |
+| ::{ flag=US }:: ::Noffy::{ user-id=1541323 } | 摸图和作图领域顾问 |
+| ::{ flag=US }:: ::nuudles::{ user-id=21312 } | osu! iPhone 开发者 |
+| ::{ flag=CA }:: ::Nyquill::{ user-id=682935 } | osu! 开发者，[谱师公会 (Mappers' Guild)](/wiki/Community/Mappers_Guild) 组织者 |
+| ::{ flag=DE }:: ::p3n::{ user-id=123703 } | 审核顾问 |
+| ::{ flag=AU }:: ::phill::{ user-id=53 } | 论坛设计者 |
+| ::{ flag=US }:: ::radar::{ user-id=7131099 } | 前[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 领导 |
+| ::{ flag=MX }:: ::Repflez::{ user-id=201392 } | [管理员](/wiki/People/Global_Moderation_Team)，[wiki 维护员](/wiki/People/osu!_wiki_maintainers) |
+| ::{ flag=US }:: ::RBRat3::{ user-id=307202 } | osu! 画师，制作了很酷的素材 |
+| ::{ flag=US }:: ::Sarumaru::{ user-id=9427 } | 初代 [pippi](/wiki/Mascots#pippi) 概念设计和美术设计者。 |
+| ::{ flag=GR }:: ::Sinistro::{ user-id=5530 } | 早期的社区管理员和领头人，讨论记录与 FAQ 贡献者 |
+| ::{ flag=AU }:: ::-Tim-::{ user-id=836963 } | [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) 设计者 |
+| ::{ flag=DE }:: ::Tom94::{ user-id=1857058 } | osu! 和[表现分 (pp)](/wiki/Performance_points) 开发者 |
+| ::{ flag=US }:: ::Toy::{ user-id=2757689 } | 社区喜爱计划 (Project Loved) 组织者，社区顾问，精选艺术家募集者 |
+| ::{ flag=CA }:: ::VINXIS::{ user-id=4323406 } | [精选艺术家](https://osu.ppy.sh/beatmaps/artists/22)，摸图和作图领域顾问 |
+| ::{ flag=CL }:: ::WalterToro::{ user-id=5281416 } | 秩序维护员，[世界杯](/wiki/Tournaments#官方世界杯)比赛组织者与管理员，[wiki 维护员](/wiki/People/osu!_wiki_maintainers) |
+| ::{ flag=CN }:: ::woc2006::{ user-id=1105845 } | osu! 开发者，osu!mania 的创始人 |
+| ::{ flag=JP }:: ::yelle::{ user-id=4916903 } | [osu! 商店](https://osu.ppy.sh/store/listing)管理员 |
+| ::{ flag=US }:: ::ztrot::{ user-id=6347 } | [osu! 学院](/wiki/Community/Video_series/osu!academy)教授，媒体和人物设计者 |

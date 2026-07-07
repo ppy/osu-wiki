@@ -13,7 +13,7 @@ What's the one thing better than a beatmap? *More* beatmaps.
 
 For this reason, the engineers over at the osu! beatmap pack factory have been working hard to scale up operations in order to deliver high-quality packs right to your doorstep, and their new line-up is sure to excite you!
 
-But first, we'd like to welcome some new talent into the beatmap packing business, namely [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449), who has for a long while catalogued existing packs in an [exhaustively expansive unofficial spreadsheet](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo/edit#gid=430213160). We'd also like to give a somber and grateful farewell to [Stefan](https://osu.ppy.sh/users/626907), who has kept the lights on at the beatmap pack assembly line for *many, many years* with his tireless toil.
+But first, we'd like to welcome some new talent into the beatmap packing business, namely ::Shige-Tori\[a\]::{ user-id=4459449 }, who has for a long while catalogued existing packs in an [exhaustively expansive unofficial spreadsheet](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo/edit#gid=430213160). We'd also like to give a somber and grateful farewell to ::Stefan::{ user-id=626907 }, who has kept the lights on at the beatmap pack assembly line for *many, many years* with his tireless toil.
 
 "What are beatmap packs", you ask? They are collections of hand-picked beatmaps that you can download in bulk from one place, instead of tediously looking around to find them all. The [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs) even tracks your completion on each one!
 
@@ -45,9 +45,9 @@ To this day, there are only *14* mappers who have reached the incredible milesto
 
 These packs can be found in the [themed pack listing](https://osu.ppy.sh/beatmaps/packs?type=theme), so why not give them a spin?
 
-In addition to the packs, all of the mappers to have achieved this ridiculous milestone have also been granted an *exquisite* new profile badge (many thanks to [Tanza3D](https://osu.ppy.sh/users/10379965) for the design).
+In addition to the packs, all of the mappers to have achieved this ridiculous milestone have also been granted an *exquisite* new profile badge (many thanks to ::Tanza3D::{ user-id=10379965 } for the design).
 
-In particular, for their astounding dedication to the creation of beatmaps, the entire team would like to extend utmost congratulations to ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347), ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992), ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613), ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763), ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883), ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883), ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733), ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) and ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)!
+In particular, for their astounding dedication to the creation of beatmaps, the entire team would like to extend utmost congratulations to ::{ flag=TH }:: ::DJPop::{ user-id=2363 }, ::{ flag=IT }:: ::Andrea::{ user-id=33599 }, ::{ flag=US }:: ::ztrot::{ user-id=6347 }, ::{ flag=FR }:: ::Sotarks::{ user-id=4452992 }, ::{ flag=DE }:: ::Lasse::{ user-id=896613 }, ::{ flag=US }:: ::Nao Tomori::{ user-id=5364763 }, ::{ flag=US }:: ::Annabel::{ user-id=3388410 }, ::{ flag=US }:: ::Ascendance::{ user-id=2931883 }, ::{ flag=US }:: ::Nevo::{ user-id=7451883 }, ::{ flag=HK }:: ::Faputa::{ user-id=845733 }, ::{ flag=GR }:: ::Genjuro::{ user-id=3196091 }, ::{ flag=CN }:: ::Ryuusei Aika::{ user-id=7777875 }, ::{ flag=US }:: ::Secre::{ user-id=2306637 } and ::{ flag=RU }:: ::SMOKELIND::{ user-id=9327302 }!
 
 ---
 

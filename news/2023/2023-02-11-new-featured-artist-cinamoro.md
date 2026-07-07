@@ -13,7 +13,7 @@ Korean producer **Cinamoro** (formerly known as *artifact* or *artworld*) may be
 
 **6** outstanding tunes have made the journey to [**Cinamoro**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/341). Pick them up while supplies last (which is forever)!
 
-[FAMoss](https://osu.ppy.sh/users/7707789) has been working hard behind the scenes to spotlight **Cinamoro** through a [showcase beatmap](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) of [Cinamoro - Another](https://osu.ppy.sh/beatmapsets/1910036). Check out how an osu!mania difficulty spread from Easy to Expert looks through the video below, then check out the rest of what's up for grabs:
+::FAMoss::{ user-id=7707789 } has been working hard behind the scenes to spotlight **Cinamoro** through a [showcase beatmap](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) of [Cinamoro - Another](https://osu.ppy.sh/beatmapsets/1910036). Check out how an osu!mania difficulty spread from Easy to Expert looks through the video below, then check out the rest of what's up for grabs:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ Korean producer **Cinamoro** (formerly known as *artifact* or *artworld*) may be
 
 ### Another
 
-Play [the map from the video above](https://osu.ppy.sh/beatmapsets/1910036) hosted by [FAMoss](https://osu.ppy.sh/users/7707789)!
+Play [the map from the video above](https://osu.ppy.sh/beatmapsets/1910036) hosted by ::FAMoss::{ user-id=7707789 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/341/Another/Cinamoro%20-%20Another.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Play [the map from the video above](https://osu.ppy.sh/beatmapsets/1910036) host
 
 ### Paleturquoise
 
-Or click [these circles](https://osu.ppy.sh/beatmapsets/1874826) created by [PaRaDogi](https://osu.ppy.sh/users/2054596)!
+Or click [these circles](https://osu.ppy.sh/beatmapsets/1874826) created by ::PaRaDogi::{ user-id=2054596 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/341/Paleturquoise/Cinamoro%20-%20Paleturquoise.mp3" type="audio/mpeg">

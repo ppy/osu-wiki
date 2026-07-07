@@ -15,4 +15,4 @@ Le programme est organisé via Discord et est géré par cycles saisonniers. Cha
 
 Entre 2010 et 2013, un Community Mentorship était mis en place afin d'aider les mappeurs inexpérimentés à s'intégrer dans la communauté du mapping. L'équipe de collaborateurs était principalement composée des membres de la [Beatmap Appreciation Team (*BAT*)](/wiki/People/Beatmap_Appreciation_Team) et de la [Mapping Assistance Team (*MAT*)](/wiki/People/Mapping_Assistance_Team).
 
-Ce programme a été organisé par [Ephemeral](https://osu.ppy.sh/users/102335), [Shiro](https://osu.ppy.sh/users/113005) et [Kurai](https://osu.ppy.sh/users/77089), chacun/chacune à des périodes différentes de l'histoire du programme.
+Ce programme a été organisé par ::Ephemeral::{ user-id=102335 }, [Shiro](https://osu.ppy.sh/users/113005) et ::Kurai::{ user-id=77089 }, chacun/chacune à des périodes différentes de l'histoire du programme.

@@ -13,7 +13,7 @@ A household name when it comes to both mobile and arcade-based music games, **po
 
 **15** expertly rendered tracks are available right now to slam your mapper brains into, so visit [**polysha**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/146) to see the full list!
 
-We understand that clicking a link is super difficult for you (it's okay to admit — we already know), but maybe a sample of **polysha**'s talent will convince you to click anyway. Watch how [Craftyman64](https://osu.ppy.sh/users/3180654) plays an osu!mania map of [*TAKEMIKADUCHI*](https://osu.ppy.sh/beatmapsets/1357994) by [FAMoss](https://osu.ppy.sh/users/7707789) using a literal piano and guitar, or check out some other song previews:
+We understand that clicking a link is super difficult for you (it's okay to admit — we already know), but maybe a sample of **polysha**'s talent will convince you to click anyway. Watch how ::Craftyman64::{ user-id=3180654 } plays an osu!mania map of [*TAKEMIKADUCHI*](https://osu.ppy.sh/beatmapsets/1357994) by ::FAMoss::{ user-id=7707789 } using a literal piano and guitar, or check out some other song previews:
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ We understand that clicking a link is super difficult for you (it's okay to admi
 
 ### Hypnos Metropolis
 
-Check out [this osu!catch map](https://osu.ppy.sh/beatmapsets/1339895) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)!
+Check out [this osu!catch map](https://osu.ppy.sh/beatmapsets/1339895) hosted by ::Jemzuu::{ user-id=7890134 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/146/Songs/polysha%20-%20Hypnos%20Metropolis.mp3" type="audio/mpeg">

@@ -39,13 +39,13 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=ID }:: [LuxAzure](https://osu.ppy.sh/users/6045757) |
-| Documentation | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
-| Mappool selector | ::{ flag=ID }:: [-Rem-](https://osu.ppy.sh/users/5767941), ::{ flag=ID }:: [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=ID }:: [LuxAzure](https://osu.ppy.sh/users/6045757) |
-| Streamer | ::{ flag=ID }:: [Ulat Bulu](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
-| Referee | ::{ flag=ID }:: [-ExRazor](https://osu.ppy.sh/users/6807769), ::{ flag=ID }:: [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=ID }:: [[Kii - kun]](https://osu.ppy.sh/users/11246935), ::{ flag=ID }:: [\_Riku1602](https://osu.ppy.sh/users/6918271), ::{ flag=ID }:: [Aishdoll-](https://osu.ppy.sh/users/7751704), ::{ flag=ID }:: [angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Kirana](https://osu.ppy.sh/users/4566442), ::{ flag=ID }:: [LuxAzure](https://osu.ppy.sh/users/6045757), ::{ flag=ID }:: [LuxAzusa](https://osu.ppy.sh/users/3957170), ::{ flag=ID }:: [projectc1](https://osu.ppy.sh/users/2663343), ::{ flag=ID }:: [SayoriFangirl](https://osu.ppy.sh/users/4569035), ::{ flag=ID }:: [Ulat Bulu](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
-| Commentator | ::{ flag=ID }:: [-ExRazor](https://osu.ppy.sh/users/6807769), ::{ flag=ID }:: [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=ID }:: [Artemis-](https://osu.ppy.sh/users/9025266), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Halsy](https://osu.ppy.sh/users/6551704), ::{ flag=ID }:: [projectc1](https://osu.ppy.sh/users/2663343), ::{ flag=ID }:: [Proxae](https://osu.ppy.sh/users/8410575), ::{ flag=ID }:: [SayoriFangirl](https://osu.ppy.sh/users/4569035), ::{ flag=ID }:: [Ulat Bulu](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
-| Designer | ::{ flag=ID }:: [Acrylate](https://osu.ppy.sh/users/14208229) |
+| Organiser | ::{ flag=ID }:: ::LuxAzure::{ user-id=6045757 } |
+| Documentation | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
+| Mappool selector | ::{ flag=ID }:: ::-Rem-::{ user-id=5767941 }, ::{ flag=ID }:: ::\1Crz\1Crysarlene::{ user-id=5492871 }, ::{ flag=ID }:: ::LuxAzure::{ user-id=6045757 } |
+| Streamer | ::{ flag=ID }:: ::Ulat Bulu::{ user-id=3484548 }, ::{ flag=ID }:: ::Victim\_Crasher::{ user-id=2084869 } |
+| Referee | ::{ flag=ID }:: ::-ExRazor::{ user-id=6807769 }, ::{ flag=ID }:: ::\1Crz\1Crysarlene::{ user-id=5492871 }, ::{ flag=ID }:: ::\1Kii - kun\1::{ user-id=11246935 }, ::{ flag=ID }:: ::\_Riku1602::{ user-id=6918271 }, ::{ flag=ID }:: ::Aishdoll-::{ user-id=7751704 }, ::{ flag=ID }:: ::angki::{ user-id=9038483 }, ::{ flag=ID }:: ::Kirana::{ user-id=4566442 }, ::{ flag=ID }:: ::LuxAzure::{ user-id=6045757 }, ::{ flag=ID }:: ::LuxAzusa::{ user-id=3957170 }, ::{ flag=ID }:: ::projectc1::{ user-id=2663343 }, ::{ flag=ID }:: ::SayoriFangirl::{ user-id=4569035 }, ::{ flag=ID }:: ::Ulat Bulu::{ user-id=3484548 }, ::{ flag=ID }:: ::Victim\1Crasher::{ user-id=2084869 } |
+| Commentator | ::{ flag=ID }:: ::-ExRazor::{ user-id=6807769 }, ::{ flag=ID }:: ::\1Crz\1Crysarlene::{ user-id=5492871 }, ::{ flag=ID }:: ::Artemis-::{ user-id=9025266 }, ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 }, ::{ flag=ID }:: ::Fyl::{ user-id=10069307 }, ::{ flag=ID }:: ::Halsy::{ user-id=6551704 }, ::{ flag=ID }:: ::projectc1::{ user-id=2663343 }, ::{ flag=ID }:: ::Proxae::{ user-id=8410575 }, ::{ flag=ID }:: ::SayoriFangirl::{ user-id=4569035 }, ::{ flag=ID }:: ::Ulat Bulu::{ user-id=3484548 }, ::{ flag=ID }:: ::Victim\_Crasher::{ user-id=2084869 } |
+| Designer | ::{ flag=ID }:: ::Acrylate::{ user-id=14208229 } |
 
 ## Links
 
@@ -60,23 +60,23 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 
 | Seed | Player |
 | :-: | :-- |
-| Top | ::{ flag=ID }:: [Kevin-sama](https://osu.ppy.sh/users/6991664), ::{ flag=ID }:: [reyss](https://osu.ppy.sh/users/4557440), ::{ flag=ID }:: [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146), ::{ flag=ID }:: [Yamada Kitaro](https://osu.ppy.sh/users/7670805), ::{ flag=ID }:: [Artem1s](https://osu.ppy.sh/users/12561379), ::{ flag=ID }:: [ChocoCoki-](https://osu.ppy.sh/users/3565870), ::{ flag=ID }:: [kebannedanjg](https://osu.ppy.sh/users/12971540), ::{ flag=ID }:: [Heriza-](https://osu.ppy.sh/users/8911771), ::{ flag=ID }:: [Slowless](https://osu.ppy.sh/users/10053987), ::{ flag=ID }:: [Neptunia-chan](https://osu.ppy.sh/users/11608122), ::{ flag=ID }:: [\[ID\]Catalyst-](https://osu.ppy.sh/users/8810018), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Proxae](https://osu.ppy.sh/users/8410575), ::{ flag=ID }:: [\_claidheamh](https://osu.ppy.sh/users/4686520), ::{ flag=ID }:: [Sadatsuka-Chan](https://osu.ppy.sh/users/9670957), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
-| High | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604), ::{ flag=ID }:: [Zero\[13\]](https://osu.ppy.sh/users/13942350), ::{ flag=ID }:: [\[KonG-69\]](https://osu.ppy.sh/users/8847412), ::{ flag=ID }:: [budiex112](https://osu.ppy.sh/users/8867693), ::{ flag=ID }:: [Noch Einen](https://osu.ppy.sh/users/12668735), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [anzutto232](https://osu.ppy.sh/users/https://osu.ppy.sh/users/13408635), ::{ flag=ID }:: [\[-TiaZark-\]](https://osu.ppy.sh/users/14294140), ::{ flag=ID }:: [Onii\_ue](https://osu.ppy.sh/users/12471868), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [-MyLoveIka-](https://osu.ppy.sh/users/12039798), ::{ flag=ID }:: [Kawaisou-](https://osu.ppy.sh/users/11248741), ::{ flag=ID }:: [MATEH ON](https://osu.ppy.sh/users/8136810), ::{ flag=ID }:: [Merlinch](https://osu.ppy.sh/users/4901971), ::{ flag=ID }:: [alvinrainbow](https://osu.ppy.sh/users/4783042), ::{ flag=ID }:: [Dil-](https://osu.ppy.sh/users/3796282) |
-| Mid | ::{ flag=ID }:: [World_Disaster](https://osu.ppy.sh/users/10666064), ::{ flag=ID }:: [Fazurey](https://osu.ppy.sh/users/6548973), ::{ flag=ID }:: [rizki20](https://osu.ppy.sh/users/6523286), ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933), ::{ flag=ID }:: [Yuusha006](https://osu.ppy.sh/users/11214161), ::{ flag=ID }:: [Its A Name](https://osu.ppy.sh/users/8724363), ::{ flag=ID }:: [ilhamsyah849](https://osu.ppy.sh/users/4679215), ::{ flag=ID }:: [Hilmi Ghazian](https://osu.ppy.sh/users/3200342), ::{ flag=ID }:: [CrashOOF](https://osu.ppy.sh/users/13788391), ::{ flag=ID }:: [BIMZ](https://osu.ppy.sh/users/9037581), ::{ flag=ID }:: [Vels](https://osu.ppy.sh/users/5319494), ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055), ::{ flag=ID }:: [THEmpire](https://osu.ppy.sh/users/12142847), ::{ flag=ID }:: [Kurami](https://osu.ppy.sh/users/10184990), ::{ flag=ID }:: [\[AST\]Rosary](https://osu.ppy.sh/users/12504843), ::{ flag=ID }:: [ReZ\_TB](https://osu.ppy.sh/users/9113955) |
-| Low | ::{ flag=ID }:: [XnoxID](https://osu.ppy.sh/users/13605876), ::{ flag=ID }:: [JintanSama](https://osu.ppy.sh/users/12652371), ::{ flag=ID }:: [ElinLYPK](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [agung0210](https://osu.ppy.sh/users/4663559), ::{ flag=ID }:: [PetrikPintar](https://osu.ppy.sh/users/13489565), ::{ flag=ID }:: [Fathan2Gaming](https://osu.ppy.sh/users/11982790), ::{ flag=ID }:: [pakyan29](https://osu.ppy.sh/users/7879632), ::{ flag=ID }:: [RizSama](https://osu.ppy.sh/users/9281315) |
+| Top | ::{ flag=ID }:: ::Kevin-sama::{ user-id=6991664 }, ::{ flag=ID }:: ::reyss::{ user-id=4557440 }, ::{ flag=ID }:: ::-\[ChoKy\]-::{ user-id=4691146 }, ::{ flag=ID }:: ::Yamada Kitaro::{ user-id=7670805 }, ::{ flag=ID }:: ::Artem1s::{ user-id=12561379 }, ::{ flag=ID }:: ::ChocoCoki-::{ user-id=3565870 }, ::{ flag=ID }:: ::kebannedanjg::{ user-id=12971540 }, ::{ flag=ID }:: ::Heriza-::{ user-id=8911771 }, ::{ flag=ID }:: ::Slowless::{ user-id=10053987 }, ::{ flag=ID }:: ::Neptunia-chan::{ user-id=11608122 }, ::{ flag=ID }:: ::\[ID\]Catalyst-::{ user-id=8810018 }, ::{ flag=ID }:: ::Fyl::{ user-id=10069307 }, ::{ flag=ID }:: ::Proxae::{ user-id=8410575 }, ::{ flag=ID }:: ::\_claidheamh::{ user-id=4686520 }, ::{ flag=ID }:: ::Sadatsuka-Chan::{ user-id=9670957 }, ::{ flag=ID }:: ::Yangga::{ user-id=12143152 } |
+| High | ::{ flag=ID }:: ::2ndlegend::{ user-id=7621604 }, ::{ flag=ID }:: ::Zero\[13\]::{ user-id=13942350 }, ::{ flag=ID }:: ::\[KonG-69\]::{ user-id=8847412 }, ::{ flag=ID }:: ::budiex112::{ user-id=8867693 }, ::{ flag=ID }:: ::Noch Einen::{ user-id=12668735 }, ::{ flag=ID }:: ::Felter::{ user-id=5865319 }, ::{ flag=ID }:: [anzutto232](https://osu.ppy.sh/users/https://osu.ppy.sh/users/13408635), ::{ flag=ID }:: ::\[-TiaZark-\]::{ user-id=14294140 }, ::{ flag=ID }:: ::Onii\_ue::{ user-id=12471868 }, ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 }, ::{ flag=ID }:: ::-MyLoveIka-::{ user-id=12039798 }, ::{ flag=ID }:: ::Kawaisou-::{ user-id=11248741 }, ::{ flag=ID }:: ::MATEH ON::{ user-id=8136810 }, ::{ flag=ID }:: ::Merlinch::{ user-id=4901971 }, ::{ flag=ID }:: ::alvinrainbow::{ user-id=4783042 }, ::{ flag=ID }:: ::Dil-::{ user-id=3796282 } |
+| Mid | ::{ flag=ID }:: ::World\1Disaster::{ user-id=10666064 }, ::{ flag=ID }:: ::Fazurey::{ user-id=6548973 }, ::{ flag=ID }:: ::rizki20::{ user-id=6523286 }, ::{ flag=ID }:: ::StyxFearNite::{ user-id=8390933 }, ::{ flag=ID }:: ::Yuusha006::{ user-id=11214161 }, ::{ flag=ID }:: ::Its A Name::{ user-id=8724363 }, ::{ flag=ID }:: ::ilhamsyah849::{ user-id=4679215 }, ::{ flag=ID }:: ::Hilmi Ghazian::{ user-id=3200342 }, ::{ flag=ID }:: ::CrashOOF::{ user-id=13788391 }, ::{ flag=ID }:: ::BIMZ::{ user-id=9037581 }, ::{ flag=ID }:: ::Vels::{ user-id=5319494 }, ::{ flag=ID }:: ::Ihram-San::{ user-id=9908055 }, ::{ flag=ID }:: ::THEmpire::{ user-id=12142847 }, ::{ flag=ID }:: ::Kurami::{ user-id=10184990 }, ::{ flag=ID }:: ::\[AST\]Rosary::{ user-id=12504843 }, ::{ flag=ID }:: ::ReZ\_TB::{ user-id=9113955 } |
+| Low | ::{ flag=ID }:: ::XnoxID::{ user-id=13605876 }, ::{ flag=ID }:: ::JintanSama::{ user-id=12652371 }, ::{ flag=ID }:: ::ElinLYPK::{ user-id=5198950 }, ::{ flag=ID }:: ::agung0210::{ user-id=4663559 }, ::{ flag=ID }:: ::PetrikPintar::{ user-id=13489565 }, ::{ flag=ID }:: ::Fathan2Gaming::{ user-id=11982790 }, ::{ flag=ID }:: ::pakyan29::{ user-id=7879632 }, ::{ flag=ID }:: ::RizSama::{ user-id=9281315 } |
 
 ### Group Distribution Stage
 
 | Group | Top seed | High seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=ID }:: [Artem1s](https://osu.ppy.sh/users/12561379) | ::{ flag=ID }:: [Sadatsuka-Chan](https://osu.ppy.sh/users/9670957) | ::{ flag=ID }:: [Zero\[13\]](https://osu.ppy.sh/users/13942350) | ::{ flag=ID }:: [alvinrainbow](https://osu.ppy.sh/users/4783042) |
-| **B** | ::{ flag=ID }:: [Yamada Kitaro](https://osu.ppy.sh/users/7670805) | ::{ flag=ID }:: [\[ID\]Catalyst-](https://osu.ppy.sh/users/8810018) | ::{ flag=ID }:: [\[KonG-69\]](https://osu.ppy.sh/users/8847412) | ::{ flag=ID }:: [rizki20](https://osu.ppy.sh/users/6523286) |
-| **C** | ::{ flag=ID }:: [Heriza-](https://osu.ppy.sh/users/8911771) | ::{ flag=ID }:: [Slowless](https://osu.ppy.sh/users/10053987) | ::{ flag=ID }:: [budiex112](https://osu.ppy.sh/users/8867693) | ::{ flag=ID }:: [MATEH ON](https://osu.ppy.sh/users/8136810) |
-| **D** | ::{ flag=ID }:: [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) | ::{ flag=ID }:: [\[-TiaZark-\]](https://osu.ppy.sh/users/14294140) | ::{ flag=ID }:: [Its A Name](https://osu.ppy.sh/users/8724363) |
-| **E** | ::{ flag=ID }:: [Kevin-sama](https://osu.ppy.sh/users/6991664) | ::{ flag=ID }:: [Proxae](https://osu.ppy.sh/users/8410575) | ::{ flag=ID }:: [Noch Einen](https://osu.ppy.sh/users/12668735) | ::{ flag=ID }:: [Dil-](https://osu.ppy.sh/users/3796282) |
-| **F** | ::{ flag=ID }:: [reyss](https://osu.ppy.sh/users/4557440) | ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307) | ::{ flag=ID }:: [Onii\_ue](https://osu.ppy.sh/users/12471868) | ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304) |
-| **G** | ::{ flag=ID }:: [ChocoCoki-](https://osu.ppy.sh/users/3565870) | ::{ flag=ID }:: [Neptunia-chan](https://osu.ppy.sh/users/11608122) | ::{ flag=ID }:: [anzutto232](https://osu.ppy.sh/users/13408635) | ::{ flag=ID }:: [Merlinch](https://osu.ppy.sh/users/4901971) |
-| **H** | ::{ flag=ID }:: [kebannedanjg](https://osu.ppy.sh/users/12971540) | ::{ flag=ID }:: [\_claidheamh](https://osu.ppy.sh/users/4686520) | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604) | ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933) |
+| **A** | ::{ flag=ID }:: ::Artem1s::{ user-id=12561379 } | ::{ flag=ID }:: ::Sadatsuka-Chan::{ user-id=9670957 } | ::{ flag=ID }:: ::Zero\[13\]::{ user-id=13942350 } | ::{ flag=ID }:: ::alvinrainbow::{ user-id=4783042 } |
+| **B** | ::{ flag=ID }:: ::Yamada Kitaro::{ user-id=7670805 } | ::{ flag=ID }:: ::\[ID\]Catalyst-::{ user-id=8810018 } | ::{ flag=ID }:: ::\[KonG-69\]::{ user-id=8847412 } | ::{ flag=ID }:: ::rizki20::{ user-id=6523286 } |
+| **C** | ::{ flag=ID }:: ::Heriza-::{ user-id=8911771 } | ::{ flag=ID }:: ::Slowless::{ user-id=10053987 } | ::{ flag=ID }:: ::budiex112::{ user-id=8867693 } | ::{ flag=ID }:: ::MATEH ON::{ user-id=8136810 } |
+| **D** | ::{ flag=ID }:: ::-\[ChoKy\]-::{ user-id=4691146 } | ::{ flag=ID }:: ::Yangga::{ user-id=12143152 } | ::{ flag=ID }:: ::\[-TiaZark-\]::{ user-id=14294140 } | ::{ flag=ID }:: ::Its A Name::{ user-id=8724363 } |
+| **E** | ::{ flag=ID }:: ::Kevin-sama::{ user-id=6991664 } | ::{ flag=ID }:: ::Proxae::{ user-id=8410575 } | ::{ flag=ID }:: ::Noch Einen::{ user-id=12668735 } | ::{ flag=ID }:: ::Dil-::{ user-id=3796282 } |
+| **F** | ::{ flag=ID }:: ::reyss::{ user-id=4557440 } | ::{ flag=ID }:: ::Fyl::{ user-id=10069307 } | ::{ flag=ID }:: ::Onii\_ue::{ user-id=12471868 } | ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 } |
+| **G** | ::{ flag=ID }:: ::ChocoCoki-::{ user-id=3565870 } | ::{ flag=ID }:: ::Neptunia-chan::{ user-id=11608122 } | ::{ flag=ID }:: ::anzutto232::{ user-id=13408635 } | ::{ flag=ID }:: ::Merlinch::{ user-id=4901971 } |
+| **H** | ::{ flag=ID }:: ::kebannedanjg::{ user-id=12971540 } | ::{ flag=ID }:: ::\_claidheamh::{ user-id=4686520 } | ::{ flag=ID }:: ::2ndlegend::{ user-id=7621604 } | ::{ flag=ID }:: ::StyxFearNite::{ user-id=8390933 } |
 
 ## Mappools
 
@@ -197,8 +197,8 @@ Sunday, 25 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: [ChocoCoki-](https://osu.ppy.sh/users/3565870) | [#1](https://osu.ppy.sh/community/matches/54171320) |
-| **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | [#1](https://osu.ppy.sh/community/matches/54345380) |
+| **::-\[ChoKy\]-::{ user-id=4691146 }** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: ::ChocoCoki-::{ user-id=3565870 } | [#1](https://osu.ppy.sh/community/matches/54171320) |
+| **::Kevin-sama::{ user-id=6991664 }** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: ::-\[ChoKy\]-::{ user-id=4691146 } | [#1](https://osu.ppy.sh/community/matches/54345380) |
 
 ### Finals
 
@@ -206,8 +206,8 @@ Sunday, 18 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | [#1](https://osu.ppy.sh/community/matches/54166162) |
-| [\_claidheamh](https://osu.ppy.sh/users/4686520) ::{ flag=ID }:: | 5 | **7** | ::{ flag=ID }:: **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** | [#1](https://osu.ppy.sh/community/matches/54171320) |
+| **::Kevin-sama::{ user-id=6991664 }** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: ::-\[ChoKy\]-::{ user-id=4691146 } | [#1](https://osu.ppy.sh/community/matches/54166162) |
+| ::\_claidheamh::{ user-id=4686520 } ::{ flag=ID }:: | 5 | **7** | ::{ flag=ID }:: **::ChocoCoki-::{ user-id=3565870 }** | [#1](https://osu.ppy.sh/community/matches/54171320) |
 
 ### Semifinals
 
@@ -215,29 +215,29 @@ Saturday, 3 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[\_claidheamh](https://osu.ppy.sh/users/4686520)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) | [#1](https://osu.ppy.sh/community/matches/53799475) |
-| [\[KonG-69\]](https://osu.ppy.sh/users/8847412) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[Proxae](https://osu.ppy.sh/users/8410575)** | [#1](https://osu.ppy.sh/community/matches/53802393) |
-| **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Slowless](https://osu.ppy.sh/users/10053987) | [#1](https://osu.ppy.sh/community/matches/53805517) |
+| **::\_claidheamh::{ user-id=4686520 }** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: ::Yangga::{ user-id=12143152 } | [#1](https://osu.ppy.sh/community/matches/53799475) |
+| ::\[KonG-69\]::{ user-id=8847412 } ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **::Proxae::{ user-id=8410575 }** | [#1](https://osu.ppy.sh/community/matches/53802393) |
+| **::ChocoCoki-::{ user-id=3565870 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: ::Slowless::{ user-id=10053987 } | [#1](https://osu.ppy.sh/community/matches/53805517) |
 
 Sunday, 4 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Heriza-](https://osu.ppy.sh/users/8911771) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[Kevin-sama](https://osu.ppy.sh/users/6991664)** | *win by default* |
+| ::Heriza-::{ user-id=8911771 } ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **::Kevin-sama::{ user-id=6991664 }** | *win by default* |
 
 Saturday, 10 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Yamada Kitaro](https://osu.ppy.sh/users/7670805) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[Fyl](https://osu.ppy.sh/users/10069307)** | [#1](https://osu.ppy.sh/community/matches/53967434) |
-| **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [reyss](https://osu.ppy.sh/users/4557440) | [#1](https://osu.ppy.sh/community/matches/53968412) |
-| **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Proxae](https://osu.ppy.sh/users/8410575) | [#1](https://osu.ppy.sh/community/matches/53971409) |
+| ::Yamada Kitaro::{ user-id=7670805 } ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **::Fyl::{ user-id=10069307 }** | [#1](https://osu.ppy.sh/community/matches/53967434) |
+| **::-\[ChoKy\]-::{ user-id=4691146 }** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: ::reyss::{ user-id=4557440 } | [#1](https://osu.ppy.sh/community/matches/53968412) |
+| **::ChocoCoki-::{ user-id=3565870 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: ::Proxae::{ user-id=8410575 } | [#1](https://osu.ppy.sh/community/matches/53971409) |
 
 Sunday, 11 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[\_claidheamh](https://osu.ppy.sh/users/4686520)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307) | *win by default* |
+| **::\_claidheamh::{ user-id=4686520 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: ::Fyl::{ user-id=10069307 } | *win by default* |
 
 ### Quarterfinals
 
@@ -245,19 +245,19 @@ Saturday, 27 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [\[KonG-69\]](https://osu.ppy.sh/users/8847412) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Heriza-](https://osu.ppy.sh/users/8911771)** | [#1](https://osu.ppy.sh/community/matches/53632020) |
-| **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [ChocoCoki-](https://osu.ppy.sh/users/3565870) | [#1](https://osu.ppy.sh/community/matches/53633296) |
-| **[reyss](https://osu.ppy.sh/users/4557440)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [\_claidheamh](https://osu.ppy.sh/users/4686520) | [#1](https://osu.ppy.sh/community/matches/53636930) |
+| ::\[KonG-69\]::{ user-id=8847412 } ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **::Heriza-::{ user-id=8911771 }** | [#1](https://osu.ppy.sh/community/matches/53632020) |
+| **::Kevin-sama::{ user-id=6991664 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: ::ChocoCoki-::{ user-id=3565870 } | [#1](https://osu.ppy.sh/community/matches/53633296) |
+| **::reyss::{ user-id=4557440 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: ::\_claidheamh::{ user-id=4686520 } | [#1](https://osu.ppy.sh/community/matches/53636930) |
 
 Sunday, 28 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [alvinrainbow](https://osu.ppy.sh/users/4783042) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[Yangga](https://osu.ppy.sh/users/12143152)** | [#1](https://osu.ppy.sh/community/matches/53655829) |
-| **[Proxae](https://osu.ppy.sh/users/8410575)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Merlinch](https://osu.ppy.sh/users/4901971) | *win by default* |
-| [Yamada Kitaro](https://osu.ppy.sh/users/7670805) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** | [#1](https://osu.ppy.sh/community/matches/53658604) |
-| **[Fyl](https://osu.ppy.sh/users/10069307)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604) | [#1](https://osu.ppy.sh/community/matches/53661646) |
-| [Artem1s](https://osu.ppy.sh/users/12561379) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[Slowless](https://osu.ppy.sh/users/10053987)** | *win by default* |
+| ::alvinrainbow::{ user-id=4783042 } ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **::Yangga::{ user-id=12143152 }** | [#1](https://osu.ppy.sh/community/matches/53655829) |
+| **::Proxae::{ user-id=8410575 }** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: ::Merlinch::{ user-id=4901971 } | *win by default* |
+| ::Yamada Kitaro::{ user-id=7670805 } ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **::-\[ChoKy\]-::{ user-id=4691146 }** | [#1](https://osu.ppy.sh/community/matches/53658604) |
+| **::Fyl::{ user-id=10069307 }** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: ::2ndlegend::{ user-id=7621604 } | [#1](https://osu.ppy.sh/community/matches/53661646) |
+| ::Artem1s::{ user-id=12561379 } ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **::Slowless::{ user-id=10053987 }** | *win by default* |
 
 ### Round of 16
 
@@ -265,19 +265,19 @@ Saturday, 20 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307) | [#1](https://osu.ppy.sh/community/matches/53470726) |
-| **[Heriza-](https://osu.ppy.sh/users/8911771)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) | [#1](https://osu.ppy.sh/community/matches/53474229) |
-| **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604) | [#1](https://osu.ppy.sh/community/matches/53475726) |
+| **::Kevin-sama::{ user-id=6991664 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: ::Fyl::{ user-id=10069307 } | [#1](https://osu.ppy.sh/community/matches/53470726) |
+| **::Heriza-::{ user-id=8911771 }** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: ::Yangga::{ user-id=12143152 } | [#1](https://osu.ppy.sh/community/matches/53474229) |
+| **::ChocoCoki-::{ user-id=3565870 }** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: ::2ndlegend::{ user-id=7621604 } | [#1](https://osu.ppy.sh/community/matches/53475726) |
 
 Sunday, 21 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Merlinch](https://osu.ppy.sh/users/4901971) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[\_claidheamh](https://osu.ppy.sh/users/4686520)** | [#1](https://osu.ppy.sh/community/matches/53491947) |
-| **[\[KonG-69\]](https://osu.ppy.sh/users/8847412)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [alvinrainbow](https://osu.ppy.sh/users/4783042) | [#1](https://osu.ppy.sh/community/matches/53493068) |
-| [Artem1s](https://osu.ppy.sh/users/12561379) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Yamada Kitaro](https://osu.ppy.sh/users/7670805)** | [*win by default*](https://osu.ppy.sh/community/matches/53494572) |
-| [Slowless](https://osu.ppy.sh/users/10053987) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** | [#1](https://osu.ppy.sh/community/matches/53497372) |
-| [Proxae](https://osu.ppy.sh/users/8410575) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[reyss](https://osu.ppy.sh/users/4557440)** | [#1](https://osu.ppy.sh/community/matches/53499829) |
+| ::Merlinch::{ user-id=4901971 } ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **::\_claidheamh::{ user-id=4686520 }** | [#1](https://osu.ppy.sh/community/matches/53491947) |
+| **::\[KonG-69\]::{ user-id=8847412 }** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: ::alvinrainbow::{ user-id=4783042 } | [#1](https://osu.ppy.sh/community/matches/53493068) |
+| ::Artem1s::{ user-id=12561379 } ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **::Yamada Kitaro::{ user-id=7670805 }** | [*win by default*](https://osu.ppy.sh/community/matches/53494572) |
+| ::Slowless::{ user-id=10053987 } ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **::-\[ChoKy\]-::{ user-id=4691146 }** | [#1](https://osu.ppy.sh/community/matches/53497372) |
+| ::Proxae::{ user-id=8410575 } ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **::reyss::{ user-id=4557440 }** | [#1](https://osu.ppy.sh/community/matches/53499829) |
 
 ### Group Distribution Stage
 
@@ -285,69 +285,69 @@ Saturday, 6 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Artem1s](https://osu.ppy.sh/users/12561379) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[alvinrainbow](https://osu.ppy.sh/users/4783042)** | *win by default* |
-| **[\[KonG-69\]](https://osu.ppy.sh/users/8847412)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [\[ID\]Catalyst-](https://osu.ppy.sh/users/8810018) | *win by default* |
-| **[Yamada Kitaro](https://osu.ppy.sh/users/7670805)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [rizki20](https://osu.ppy.sh/users/6523286) | [#1](https://osu.ppy.sh/community/matches/53143776) |
-| [rizki20](https://osu.ppy.sh/users/6523286) ::{ flag=ID }:: | 3 | **4** | ::{ flag=ID }:: **[\[KonG-69\]](https://osu.ppy.sh/users/8847412)** | [#1](https://osu.ppy.sh/community/matches/53147326) |
-| [budiex112](https://osu.ppy.sh/users/8867693) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[Slowless](https://osu.ppy.sh/users/10053987)** | *win by default* |
-| **[Heriza-](https://osu.ppy.sh/users/8911771)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [MATEH ON](https://osu.ppy.sh/users/8136810) | [#1](https://osu.ppy.sh/community/matches/53147338) |
-| **[MATEH ON](https://osu.ppy.sh/users/8136810)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [budiex112](https://osu.ppy.sh/users/8867693) | *win by default* |
-| [\[-TiaZark-\]](https://osu.ppy.sh/users/14294140) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[Yangga](https://osu.ppy.sh/users/12143152)** | [#1](https://osu.ppy.sh/community/matches/53146701) |
-| **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [Its A Name](https://osu.ppy.sh/users/8724363) | [#1](https://osu.ppy.sh/community/matches/53147623) |
-| [Its A Name](https://osu.ppy.sh/users/8724363) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[\[-TiaZark-\]](https://osu.ppy.sh/users/14294140)** | [#1](https://osu.ppy.sh/community/matches/53148808) |
-| [Onii\_ue](https://osu.ppy.sh/users/12471868) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[Fyl](https://osu.ppy.sh/users/10069307)** | [#1](https://osu.ppy.sh/community/matches/53143001) |
+| ::Artem1s::{ user-id=12561379 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::alvinrainbow::{ user-id=4783042 }** | *win by default* |
+| **::\[KonG-69\]::{ user-id=8847412 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::\[ID\]Catalyst-::{ user-id=8810018 } | *win by default* |
+| **::Yamada Kitaro::{ user-id=7670805 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::rizki20::{ user-id=6523286 } | [#1](https://osu.ppy.sh/community/matches/53143776) |
+| ::rizki20::{ user-id=6523286 } ::{ flag=ID }:: | 3 | **4** | ::{ flag=ID }:: **::\[KonG-69\]::{ user-id=8847412 }** | [#1](https://osu.ppy.sh/community/matches/53147326) |
+| ::budiex112::{ user-id=8867693 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::Slowless::{ user-id=10053987 }** | *win by default* |
+| **::Heriza-::{ user-id=8911771 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::MATEH ON::{ user-id=8136810 } | [#1](https://osu.ppy.sh/community/matches/53147338) |
+| **::MATEH ON::{ user-id=8136810 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::budiex112::{ user-id=8867693 } | *win by default* |
+| ::\[-TiaZark-\]::{ user-id=14294140 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::Yangga::{ user-id=12143152 }** | [#1](https://osu.ppy.sh/community/matches/53146701) |
+| **::-\[ChoKy\]-::{ user-id=4691146 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::Its A Name::{ user-id=8724363 } | [#1](https://osu.ppy.sh/community/matches/53147623) |
+| ::Its A Name::{ user-id=8724363 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::\[-TiaZark-\]::{ user-id=14294140 }** | [#1](https://osu.ppy.sh/community/matches/53148808) |
+| ::Onii\_ue::{ user-id=12471868 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::Fyl::{ user-id=10069307 }** | [#1](https://osu.ppy.sh/community/matches/53143001) |
 
 Sunday, 7 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[reyss](https://osu.ppy.sh/users/4557440)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304) | [#1](https://osu.ppy.sh/community/matches/53164790) |
-| **[alvinrainbow](https://osu.ppy.sh/users/4783042)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [Zero\[13\]](https://osu.ppy.sh/users/13942350) | *win by default* |
-| **[Merlinch](https://osu.ppy.sh/users/4901971)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [anzutto232](https://osu.ppy.sh/users/13408635) | *win by default* |
-| **[kebannedanjg](https://osu.ppy.sh/users/12971540)** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933) | [#1](https://osu.ppy.sh/community/matches/53165446) |
-| **[anzutto232](https://osu.ppy.sh/users/13408635)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [Neptunia-chan](https://osu.ppy.sh/users/11608122) | *win by default* |
-| **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: [Merlinch](https://osu.ppy.sh/users/4901971) | [#1](https://osu.ppy.sh/community/matches/53167554) |
-| [FelixSpade](https://osu.ppy.sh/users/2651304) ::{ flag=ID }:: | 3 | **4** | ::{ flag=ID }:: **[Onii\_ue](https://osu.ppy.sh/users/12471868)** | [#1](https://osu.ppy.sh/community/matches/53167551) |
-| **[Dil-](https://osu.ppy.sh/users/3796282)** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: [Noch Einen](https://osu.ppy.sh/users/12668735) | [#1](https://osu.ppy.sh/community/matches/53170004) |
-| **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [Dil-](https://osu.ppy.sh/users/3796282) | *win by default* |
-| [StyxFearNite](https://osu.ppy.sh/users/8390933) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[2ndlegend](https://osu.ppy.sh/users/7621604)** | [#1](https://osu.ppy.sh/community/matches/53170940) |
-| [2ndlegend](https://osu.ppy.sh/users/7621604) ::{ flag=ID }:: | 1 | **4** | ::{ flag=ID }:: **[\_claidheamh](https://osu.ppy.sh/users/4686520)** | [#1](https://osu.ppy.sh/community/matches/53172560) |
-| [Noch Einen](https://osu.ppy.sh/users/12668735) ::{ flag=ID }:: | 3 | **4** | ::{ flag=ID }:: **[Proxae](https://osu.ppy.sh/users/8410575)** | [#1](https://osu.ppy.sh/community/matches/53172596) |
+| **::reyss::{ user-id=4557440 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 } | [#1](https://osu.ppy.sh/community/matches/53164790) |
+| **::alvinrainbow::{ user-id=4783042 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::Zero\[13\]::{ user-id=13942350 } | *win by default* |
+| **::Merlinch::{ user-id=4901971 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::anzutto232::{ user-id=13408635 } | *win by default* |
+| **::kebannedanjg::{ user-id=12971540 }** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: ::StyxFearNite::{ user-id=8390933 } | [#1](https://osu.ppy.sh/community/matches/53165446) |
+| **::anzutto232::{ user-id=13408635 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::Neptunia-chan::{ user-id=11608122 } | *win by default* |
+| **::ChocoCoki-::{ user-id=3565870 }** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: ::Merlinch::{ user-id=4901971 } | [#1](https://osu.ppy.sh/community/matches/53167554) |
+| ::FelixSpade::{ user-id=2651304 } ::{ flag=ID }:: | 3 | **4** | ::{ flag=ID }:: **::Onii\_ue::{ user-id=12471868 }** | [#1](https://osu.ppy.sh/community/matches/53167551) |
+| **::Dil-::{ user-id=3796282 }** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: ::Noch Einen::{ user-id=12668735 } | [#1](https://osu.ppy.sh/community/matches/53170004) |
+| **::Kevin-sama::{ user-id=6991664 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::Dil-::{ user-id=3796282 } | *win by default* |
+| ::StyxFearNite::{ user-id=8390933 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::2ndlegend::{ user-id=7621604 }** | [#1](https://osu.ppy.sh/community/matches/53170940) |
+| ::2ndlegend::{ user-id=7621604 } ::{ flag=ID }:: | 1 | **4** | ::{ flag=ID }:: **::\_claidheamh::{ user-id=4686520 }** | [#1](https://osu.ppy.sh/community/matches/53172560) |
+| ::Noch Einen::{ user-id=12668735 } ::{ flag=ID }:: | 3 | **4** | ::{ flag=ID }:: **::Proxae::{ user-id=8410575 }** | [#1](https://osu.ppy.sh/community/matches/53172596) |
 
 Saturday, 13 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Fyl](https://osu.ppy.sh/users/10069307) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[reyss](https://osu.ppy.sh/users/4557440)** | [#1](https://osu.ppy.sh/community/matches/53303113) |
-| **[\_claidheamh](https://osu.ppy.sh/users/4686520)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [kebannedanjg](https://osu.ppy.sh/users/12971540) | [#1](https://osu.ppy.sh/community/matches/53302756) |
-| **[Zero\[13\]](https://osu.ppy.sh/users/13942350)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [Sadatsuka-Chan](https://osu.ppy.sh/users/9670957) | *win by default* |
-| [kebannedanjg](https://osu.ppy.sh/users/12971540) ::{ flag=ID }:: | 2 | **4** | ::{ flag=ID }:: **[2ndlegend](https://osu.ppy.sh/users/7621604)** | [#1](https://osu.ppy.sh/community/matches/53303200) |
-| **[Heriza-](https://osu.ppy.sh/users/8911771)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [budiex112](https://osu.ppy.sh/users/8867693) | *win by default* |
-| [Proxae](https://osu.ppy.sh/users/8410575) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[Kevin-sama](https://osu.ppy.sh/users/6991664)** | [#1](https://osu.ppy.sh/community/matches/53305254) |
-| **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [anzutto232](https://osu.ppy.sh/users/13408635) | [#1](https://osu.ppy.sh/community/matches/53305012) |
-| **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [Noch Einen](https://osu.ppy.sh/users/12668735) | *win by default* |
-| **[Fyl](https://osu.ppy.sh/users/10069307)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304) | [#1](https://osu.ppy.sh/community/matches/53303113) |
-| **[Proxae](https://osu.ppy.sh/users/8410575)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [Dil-](https://osu.ppy.sh/users/3796282) | *win by default* |
-| [Neptunia-chan](https://osu.ppy.sh/users/11608122) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[Merlinch](https://osu.ppy.sh/users/4901971)** | *win by default* |
-| [Slowless](https://osu.ppy.sh/users/10053987) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[Heriza-](https://osu.ppy.sh/users/8911771)** | [#1](https://osu.ppy.sh/community/matches/53307906) |
-| **[reyss](https://osu.ppy.sh/users/4557440)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [Onii\_ue](https://osu.ppy.sh/users/12471868) | *win by default* |
-| [Neptunia-chan](https://osu.ppy.sh/users/11608122) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** | *win by default* |
-| **[\_claidheamh](https://osu.ppy.sh/users/4686520)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933) | *win by default* |
+| ::Fyl::{ user-id=10069307 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::reyss::{ user-id=4557440 }** | [#1](https://osu.ppy.sh/community/matches/53303113) |
+| **::\_claidheamh::{ user-id=4686520 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::kebannedanjg::{ user-id=12971540 } | [#1](https://osu.ppy.sh/community/matches/53302756) |
+| **::Zero\[13\]::{ user-id=13942350 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::Sadatsuka-Chan::{ user-id=9670957 } | *win by default* |
+| ::kebannedanjg::{ user-id=12971540 } ::{ flag=ID }:: | 2 | **4** | ::{ flag=ID }:: **::2ndlegend::{ user-id=7621604 }** | [#1](https://osu.ppy.sh/community/matches/53303200) |
+| **::Heriza-::{ user-id=8911771 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::budiex112::{ user-id=8867693 } | *win by default* |
+| ::Proxae::{ user-id=8410575 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::Kevin-sama::{ user-id=6991664 }** | [#1](https://osu.ppy.sh/community/matches/53305254) |
+| **::ChocoCoki-::{ user-id=3565870 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::anzutto232::{ user-id=13408635 } | [#1](https://osu.ppy.sh/community/matches/53305012) |
+| **::Kevin-sama::{ user-id=6991664 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::Noch Einen::{ user-id=12668735 } | *win by default* |
+| **::Fyl::{ user-id=10069307 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 } | [#1](https://osu.ppy.sh/community/matches/53303113) |
+| **::Proxae::{ user-id=8410575 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::Dil-::{ user-id=3796282 } | *win by default* |
+| ::Neptunia-chan::{ user-id=11608122 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::Merlinch::{ user-id=4901971 }** | *win by default* |
+| ::Slowless::{ user-id=10053987 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::Heriza-::{ user-id=8911771 }** | [#1](https://osu.ppy.sh/community/matches/53307906) |
+| **::reyss::{ user-id=4557440 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::Onii\_ue::{ user-id=12471868 } | *win by default* |
+| ::Neptunia-chan::{ user-id=11608122 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::ChocoCoki-::{ user-id=3565870 }** | *win by default* |
+| **::\_claidheamh::{ user-id=4686520 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::StyxFearNite::{ user-id=8390933 } | *win by default* |
 
 Sunday, 14 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Sadatsuka-Chan](https://osu.ppy.sh/users/9670957) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[alvinrainbow](https://osu.ppy.sh/users/4783042)** | *win by default* |
-| [Sadatsuka-Chan](https://osu.ppy.sh/users/9670957) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[Artem1s](https://osu.ppy.sh/users/12561379)** | *win by default* |
-| **[Yamada Kitaro](https://osu.ppy.sh/users/7670805)** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: [\[KonG-69\]](https://osu.ppy.sh/users/8847412) | [#1](https://osu.ppy.sh/community/matches/53328132) |
-| [\[ID\]Catalyst-](https://osu.ppy.sh/users/8810018) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[Yamada Kitaro](https://osu.ppy.sh/users/7670805)** | *win by default* |
-| **[Yangga](https://osu.ppy.sh/users/12143152)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [Its A Name](https://osu.ppy.sh/users/8724363) | [#1](https://osu.ppy.sh/community/matches/53328679) |
-| **[\[ID\]Catalyst-](https://osu.ppy.sh/users/8810018)** ::{ flag=ID }:: | **4** | 3 | ::{ flag=ID }:: [rizki20](https://osu.ppy.sh/users/6523286) | [#1](https://osu.ppy.sh/community/matches/53329314) |
-| **[Artem1s](https://osu.ppy.sh/users/12561379)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [Zero\[13\]](https://osu.ppy.sh/users/13942350) | [#1](https://osu.ppy.sh/community/matches/53331799) |
-| [Yangga](https://osu.ppy.sh/users/12143152) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** | [#1](https://osu.ppy.sh/community/matches/53331589) |
-| **[Slowless](https://osu.ppy.sh/users/10053987)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [MATEH ON](https://osu.ppy.sh/users/8136810) | [#1](https://osu.ppy.sh/community/matches/53333251) |
-| **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [\[-TiaZark-\]](https://osu.ppy.sh/users/14294140) | [#1](https://osu.ppy.sh/community/matches/53333168) |
+| ::Sadatsuka-Chan::{ user-id=9670957 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::alvinrainbow::{ user-id=4783042 }** | *win by default* |
+| ::Sadatsuka-Chan::{ user-id=9670957 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::Artem1s::{ user-id=12561379 }** | *win by default* |
+| **::Yamada Kitaro::{ user-id=7670805 }** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: ::\[KonG-69\]::{ user-id=8847412 } | [#1](https://osu.ppy.sh/community/matches/53328132) |
+| ::\[ID\]Catalyst-::{ user-id=8810018 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::Yamada Kitaro::{ user-id=7670805 }** | *win by default* |
+| **::Yangga::{ user-id=12143152 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::Its A Name::{ user-id=8724363 } | [#1](https://osu.ppy.sh/community/matches/53328679) |
+| **::\[ID\]Catalyst-::{ user-id=8810018 }** ::{ flag=ID }:: | **4** | 3 | ::{ flag=ID }:: ::rizki20::{ user-id=6523286 } | [#1](https://osu.ppy.sh/community/matches/53329314) |
+| **::Artem1s::{ user-id=12561379 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::Zero\[13\]::{ user-id=13942350 } | [#1](https://osu.ppy.sh/community/matches/53331799) |
+| ::Yangga::{ user-id=12143152 } ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **::-\[ChoKy\]-::{ user-id=4691146 }** | [#1](https://osu.ppy.sh/community/matches/53331589) |
+| **::Slowless::{ user-id=10053987 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::MATEH ON::{ user-id=8136810 } | [#1](https://osu.ppy.sh/community/matches/53333251) |
+| **::-\[ChoKy\]-::{ user-id=4691146 }** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: ::\[-TiaZark-\]::{ user-id=14294140 } | [#1](https://osu.ppy.sh/community/matches/53333168) |
 
 ### Round of 56
 
@@ -355,19 +355,19 @@ Saturday, 29 June 2019:
 
 | Group | Players | Match link |
 | :-: | :-- | :-: |
-| **Group A** | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604) (14 points), ::{ flag=ID }:: [Onii\_ue](https://osu.ppy.sh/users/12471868) (13 points), ::{ flag=ID }:: [World_Disaster](https://osu.ppy.sh/users/10666064) (5 points), ::{ flag=ID }:: [XnoxID](https://osu.ppy.sh/users/13605876) (4 points), ::{ flag=ID }:: [CrashOOF](https://osu.ppy.sh/users/13788391) (0 points) | [#1](https://osu.ppy.sh/community/matches/52988947) |
-| **Group B** | ::{ flag=ID }:: [Zero\[13\]](https://osu.ppy.sh/users/13942350) (14 points), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304) (7 points, Memenangkan Tiebreaker), ::{ flag=ID }:: [Fazurey](https://osu.ppy.sh/users/6548973) (7 points), ::{ flag=ID }:: [JintanSama](https://osu.ppy.sh/users/12652371) (4 points), ::{ flag=ID }:: [BIMZ](https://osu.ppy.sh/users/9037581) (4 points) | [#1](https://osu.ppy.sh/community/matches/53011613) |
-| **Group C** | ::{ flag=ID }:: [\[KonG-69\]](https://osu.ppy.sh/users/8847412) (14 points), ::{ flag=ID }:: [rizki20](https://osu.ppy.sh/users/6523286) (12 points), ::{ flag=ID }:: [-MyLoveIka-](https://osu.ppy.sh/users/12039798) (6 points), ::{ flag=ID }:: [Vels](https://osu.ppy.sh/users/5319494) (3 points), ::{ flag=ID }:: [ElinLYPK](https://osu.ppy.sh/users/5198950) (1 points) | [#1](https://osu.ppy.sh/community/matches/52985075) |
-| **Group D** | ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933) (15 points), ::{ flag=ID }:: [budiex112](https://osu.ppy.sh/users/8867693) (14 points), ::{ flag=ID }:: [agung0210](https://osu.ppy.sh/users/4663559) (7 points), ::{ flag=ID }:: [Kawaisou-](https://osu.ppy.sh/users/11248741) (0 points), ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) (0 points) | [#1](https://osu.ppy.sh/community/matches/52987435) |
+| **Group A** | ::{ flag=ID }:: ::2ndlegend::{ user-id=7621604 } (14 points), ::{ flag=ID }:: ::Onii\_ue::{ user-id=12471868 } (13 points), ::{ flag=ID }:: ::World\1Disaster::{ user-id=10666064 } (5 points), ::{ flag=ID }:: ::XnoxID::{ user-id=13605876 } (4 points), ::{ flag=ID }:: ::CrashOOF::{ user-id=13788391 } (0 points) | [#1](https://osu.ppy.sh/community/matches/52988947) |
+| **Group B** | ::{ flag=ID }:: ::Zero\[13\]::{ user-id=13942350 } (14 points), ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 } (7 points, Memenangkan Tiebreaker), ::{ flag=ID }:: ::Fazurey::{ user-id=6548973 } (7 points), ::{ flag=ID }:: ::JintanSama::{ user-id=12652371 } (4 points), ::{ flag=ID }:: ::BIMZ::{ user-id=9037581 } (4 points) | [#1](https://osu.ppy.sh/community/matches/53011613) |
+| **Group C** | ::{ flag=ID }:: ::\[KonG-69\]::{ user-id=8847412 } (14 points), ::{ flag=ID }:: ::rizki20::{ user-id=6523286 } (12 points), ::{ flag=ID }:: ::-MyLoveIka-::{ user-id=12039798 } (6 points), ::{ flag=ID }:: ::Vels::{ user-id=5319494 } (3 points), ::{ flag=ID }:: ::ElinLYPK::{ user-id=5198950 } (1 points) | [#1](https://osu.ppy.sh/community/matches/52985075) |
+| **Group D** | ::{ flag=ID }:: ::StyxFearNite::{ user-id=8390933 } (15 points), ::{ flag=ID }:: ::budiex112::{ user-id=8867693 } (14 points), ::{ flag=ID }:: ::agung0210::{ user-id=4663559 } (7 points), ::{ flag=ID }:: ::Kawaisou-::{ user-id=11248741 } (0 points), ::{ flag=ID }:: ::Ihram-San::{ user-id=9908055 } (0 points) | [#1](https://osu.ppy.sh/community/matches/52987435) |
 
 Sunday, 30 June 2019:
 
 | Group | Players | Match link |
 | :-: | :-- | :-: |
-| **Group E** | ::{ flag=ID }:: [MATEH ON](https://osu.ppy.sh/users/8136810) (13 points), ::{ flag=ID }:: [Noch Einen](https://osu.ppy.sh/users/12668735) (13 points), ::{ flag=ID }:: [Yuusha006](https://osu.ppy.sh/users/11214161) (10 points), ::{ flag=ID }:: [THEmpire](https://osu.ppy.sh/users/12142847) (0 points), ::{ flag=ID }:: [PetrikPintar](https://osu.ppy.sh/users/13489565) (0 points) | [#1](https://osu.ppy.sh/community/matches/53010360) |
-| **Group F** | ::{ flag=ID }:: [Merlinch](https://osu.ppy.sh/users/4901971) (13 points), ::{ flag=ID }:: [Its A Name](https://osu.ppy.sh/users/8724363) (11 points), ::{ flag=ID }:: [Kurami](https://osu.ppy.sh/users/10184990) (10 points), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) (2 points), ::{ flag=ID }:: [Fathan2Gaming](https://osu.ppy.sh/users/11982790) (0 points) | [#1](https://osu.ppy.sh/community/matches/53006427) |
-| **Group G** | ::{ flag=ID }:: [alvinrainbow](https://osu.ppy.sh/users/4783042) (15 points), ::{ flag=ID }:: [anzutto232](https://osu.ppy.sh/users/13408635) (15 points), ::{ flag=ID }:: [pakyan29](https://osu.ppy.sh/users/7879632) (6 points), ::{ flag=ID }:: [ilhamsyah849](https://osu.ppy.sh/users/4679215) (0 points), ::{ flag=ID }:: [\[AST\]Rosary](https://osu.ppy.sh/users/12504843) (0 points) | [#1](https://osu.ppy.sh/community/matches/53005726) |
-| **Group H** | ::{ flag=ID }:: [\[-TiaZark-\]](https://osu.ppy.sh/users/14294140) (13 points), ::{ flag=ID }:: [Dil-](https://osu.ppy.sh/users/3796282) (11 points), ::{ flag=ID }:: [ReZ\_TB](https://osu.ppy.sh/users/9113955) (6 points), ::{ flag=ID }:: [Hilmi Ghazian](https://osu.ppy.sh/users/3200342) (6 points), ::{ flag=ID }:: [RizSama](https://osu.ppy.sh/users/9281315) (0 points) | [#1](https://osu.ppy.sh/community/matches/53009213) |
+| **Group E** | ::{ flag=ID }:: ::MATEH ON::{ user-id=8136810 } (13 points), ::{ flag=ID }:: ::Noch Einen::{ user-id=12668735 } (13 points), ::{ flag=ID }:: ::Yuusha006::{ user-id=11214161 } (10 points), ::{ flag=ID }:: ::THEmpire::{ user-id=12142847 } (0 points), ::{ flag=ID }:: ::PetrikPintar::{ user-id=13489565 } (0 points) | [#1](https://osu.ppy.sh/community/matches/53010360) |
+| **Group F** | ::{ flag=ID }:: ::Merlinch::{ user-id=4901971 } (13 points), ::{ flag=ID }:: ::Its A Name::{ user-id=8724363 } (11 points), ::{ flag=ID }:: ::Kurami::{ user-id=10184990 } (10 points), ::{ flag=ID }:: ::Felter::{ user-id=5865319 } (2 points), ::{ flag=ID }:: ::Fathan2Gaming::{ user-id=11982790 } (0 points) | [#1](https://osu.ppy.sh/community/matches/53006427) |
+| **Group G** | ::{ flag=ID }:: ::alvinrainbow::{ user-id=4783042 } (15 points), ::{ flag=ID }:: ::anzutto232::{ user-id=13408635 } (15 points), ::{ flag=ID }:: ::pakyan29::{ user-id=7879632 } (6 points), ::{ flag=ID }:: ::ilhamsyah849::{ user-id=4679215 } (0 points), ::{ flag=ID }:: ::\[AST\]Rosary::{ user-id=12504843 } (0 points) | [#1](https://osu.ppy.sh/community/matches/53005726) |
+| **Group H** | ::{ flag=ID }:: ::\[-TiaZark-\]::{ user-id=14294140 } (13 points), ::{ flag=ID }:: ::Dil-::{ user-id=3796282 } (11 points), ::{ flag=ID }:: ::ReZ\_TB::{ user-id=9113955 } (6 points), ::{ flag=ID }:: ::Hilmi Ghazian::{ user-id=3200342 } (6 points), ::{ flag=ID }:: ::RizSama::{ user-id=9281315 } (0 points) | [#1](https://osu.ppy.sh/community/matches/53009213) |
 
 ## Ruleset
 

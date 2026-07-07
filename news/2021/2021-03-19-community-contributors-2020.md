@@ -21,7 +21,7 @@ We present to you, the latest of the greatest:
 
 ## Contributors
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/hallowatcher.jpg)](https://osu.ppy.sh/users/1874761)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/hallowatcher.jpg)::{ user-id=1874761 }
 
 **hallowatcher** has had a long and storied history with osu!, but is most renowned for his creation of the now-ubiquitous 'pickems' games that accompany the official World Cups and a number of community tournaments as well. Pickems have since become something of a sensation, attracting well over 5000+ unique users and over 40 variants hosted. So recognized have these games become that several of them have even received official World Cup profile badges in commemoration.
 
@@ -31,13 +31,13 @@ His efforts have quite literally, helped shape a scene for years to come and bro
 
 Belated though it may be, we finally welcome him aboard as a Community Contributor, and a most deserved one at that.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/mangomizer.jpg)](https://osu.ppy.sh/users/1893718)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/mangomizer.jpg)::{ user-id=1893718 }
 
 When he isn't setting improbable feats of calculation and endurance as the self-titled "osu!taiko masochist", **mangomizer** is an ever-present aid in the World Cup scene, either hosting in or assisting with an absolute glut of projects intended to help brighten up people's day.
 
 A five year plus referee in the osu!taiko World Cup and the cryptic mastermind of many a World Cup bingo or the very aptly named osu! Trivium Quiz, **mangomizer** has without a doubt left a profoundly positive impact upon the community with his efforts, and stands starkly as a rare example of someone who seeks to build with and uplift others, embodying the core osu! spirit of "making things more awesome for everyone".
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/lasse.jpg)](https://osu.ppy.sh/users/896613)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/lasse.jpg)::{ user-id=896613 }
 
 Though recently retired from the role, during his heyday **Lasse** remained consistently one of the most active members of the Nomination Assessment Team who still attended to the general duties of a normal Beatmap Nominator, advancing to stand at the very pinnacle of the overall kudosu ranking and consistently scoring top tier levels of activity among the BN, doing enough to earn himself a simultaneous Elite Nominator title in the process.
 
@@ -47,7 +47,7 @@ But wait, there's more! **Lasse** also has a storied history of reaching out to 
 
 To sum it up, **Lasse** has done a *lot*. He stands as a shining example of the community-based spirit that makes osu! tick, and we (and the thousands of people's he's helped) are thankful for his efforts over the years.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/spaceman_atlas.jpg)](https://osu.ppy.sh/users/3035836)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/spaceman\1atlas.jpg)::{ user-id=3035836 }
 
 Known as [bdach](https://github.com/bdach) on GitHub, **spaceman_atlas** has quickly risen to the fore as one of the most active contributors to osu!lazer’s ongoing development in a large variety of domains.
 
@@ -55,7 +55,7 @@ Since he began in early 2019, he has authored over 763 individual contributions 
 
 His dedication to the very future of the game has proven instrumental in accelerating the pace of osu!lazer’s development significantly, and the handful of wikifriends and lazer contributors among us all know that if there is a question to be answered or data to be crunched, **spaceman_atlas** is never far away.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/rockroller.jpg)](https://osu.ppy.sh/users/8388854)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/rockroller.jpg)::{ user-id=8388854 }
 
 Heading efforts to help guide the skinning community on osu! for many years, **RockRoller** is a seasoned veteran when it comes to all things involving anime girls and fancy shapes inside your osu! client.
 
@@ -63,7 +63,7 @@ A relatively recent addition to the Global Moderation Team, **RockRoller** almos
 
 It is clear to any with eyes that his drive to assist in osu!'s continued development is not only skin deep.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/xexxar.jpg)](https://osu.ppy.sh/users/2773526)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/xexxar.jpg)::{ user-id=2773526 }
 
 Formerly known as **Xexxar**, *I Must Decrease* has been almost solely responsible for several of the recent and long-spanning adjustments to the performance points and star rating algorithm.
 
@@ -71,7 +71,7 @@ Formerly known as **Xexxar**, *I Must Decrease* has been almost solely responsib
 
 Though **Xexxar** has decided to withdraw from the osu! community for the meantime to focus on real life affairs, his work has left a distinct mark on the game for the better, and we have him to thank for much of the evolution of the performance points system in recent times.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/this1neguy.jpg)](https://osu.ppy.sh/users/1797189)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/this1neguy.jpg)::{ user-id=1797189 }
 
 **this1neguy** (affectionately known as t1g) has made a name for himself as a dedicated referee and assistant for over 70 tournaments across osu!, including several World Cup events.
 
@@ -87,7 +87,7 @@ Until today, osu! remained the last game mode to not formally acknowledge any su
 
 Now, we welcome the two new osu! Paragons:
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/pishifat.jpg)](https://osu.ppy.sh/users/3178418)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/pishifat.jpg)::{ user-id=3178418 }
 
 Perhaps the first person to ever appear twice in the Community Contributor series, **pishifat**'s contributions towards osu! are so widespread and numerous at this point that they are almost difficult to count.
 
@@ -97,7 +97,7 @@ In light of this, we award **pishifat** not with a second contributor badge, but
 
 We all knew anyway, though.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/charles445.jpg)](https://osu.ppy.sh/users/85000)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/charles445.jpg)::{ user-id=85000 }
 
 Though he may now be retired and roaming the interwebs elsewhere (some of you who play RLCraft may be surprised to see who’s on the contributor list), during an earlier time of osu!, **Charles445** was an era-defining modder and mapper with a unique penchant for discussing and dissecting the minute details of what makes beatmaps truly tick. His tenure in the now-defunct Beatmap Approval Team (a precursor to the modern Nomination Assessment Team) and position as the North American member of the BAT management wing led to a proliferation of his ethics, ideas and concepts into what is now known as the modern age of osu!.
 
@@ -117,7 +117,7 @@ Today, we honour some of the finest examples from among the Beatmap Nominators, 
 
 As is tradition, the description for these accolades was collectively written by the members of the Nominator Assessment Team, who know these people better than the backs of their hands.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/mordred.jpg)](https://osu.ppy.sh/users/7265097)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/mordred.jpg)::{ user-id=7265097 }
 
 Receiving the accolade two years running, **Mordred**'s performance remains consistently at the top echelon in almost every conceivable and measurable metric we have.
 
@@ -125,19 +125,19 @@ His unrelenting drive to push full length beatmaps has never faltered, and he re
 
 **Mordred** is becoming synonymous with the Elite title, and for very, very good reason.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/lasse.jpg)](https://osu.ppy.sh/users/896613)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/lasse.jpg)::{ user-id=896613 }
 
 If being mentioned in a Community Contributor article twice is not prize enough, **Lasse**'s outstanding performance as a Beatmap Nominator (while also being a member of the NAT) should truly emphasise just how incredible his work ethic is.
 
 His presence in the modding scene is difficult to ignore as he consistently checks and pushes beatmaps with superb accuracy and speed, tending to over 100 unique mappers in a single year.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/agatsu.jpg)](https://osu.ppy.sh/users/5579871)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/agatsu.jpg)::{ user-id=5579871 }
 
 Remaining one of the most active beatmap nominators to date, **Agatsu** is renowned for the level of care he puts into each review and is well respected for being an indisputably solid and supportive modder.
 
 He has since risen to take his place among the Nomination Assessment Team, if that were not indicative enough of his considerable expertise and drive to see the modding and mapping scene improve.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/baar_vendel.jpg)](https://osu.ppy.sh/users/8679346)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/baar\1vendel.jpg)::{ user-id=8679346 }
 
 Despite only entering the fray less than a year ago, **BaAR_Vendel** has proven themselves to be utterly exceptional at their role.
 
@@ -145,17 +145,17 @@ They have tirelessly helped numerous mappers earn their first ranked map and ass
 
 Very befitting of an Elite Nominator, in our eyes.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/milan.jpg)](https://osu.ppy.sh/users/1052994)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/milan.jpg)::{ user-id=1052994 }
 
 While perhaps not the most active name on the list so far, **Milan-** is certainly one of the most consistent. They have focused on helping as many unique mappers as possible with special attention given to those new to the scene, all without compromising on the quality of the maps that they push forward into Ranked - especially notable as they've received nearly no disqualifications despite a *very* packed 2020.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/eiri.jpg)](https://osu.ppy.sh/users/3388410)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/eiri.jpg)::{ user-id=3388410 }
 
 Living in two worlds, **eiri-** is perhaps one of the most interconnected hybrid beatmap nominators there has ever been. Proficient in not one but *two* game modes, **eiri-** has pulling twice their weight in almost flawlessly pushing over 100 osu!taiko beatmaps in 2020 alone plus nearly another 70 in osu! beatmaps, not to mention the fact that they were an Elite Nominator recipient last year as well... for osu!.
 
 This year, they join the ranks in not one, but *two* modes (osu! and osu!taiko), technically making them the first triple recipient of the title.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/raiden.jpg)](https://osu.ppy.sh/users/2239480)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/raiden.jpg)::{ user-id=2239480 }
 
 A recent BN+GMT retiree and previous long-time QAT member, **Raiden** is indisputably a household name in the osu!taiko scene, joining a host of individuals who have managed to maintain exemplary nominator activity in their given modes while tending to the difficulties of GMT life.
 
@@ -163,7 +163,7 @@ A recent BN+GMT retiree and previous long-time QAT member, **Raiden** is indispu
 
 While he has since retired from the nominator life in general, we applaud **Raiden**'s pursuit of excellence, and wish him all the best in his endeavours elsewhere.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/jemzuu.jpg)](https://osu.ppy.sh/users/7890134)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/jemzuu.jpg)::{ user-id=7890134 }
 
 Something of a role model for the osu!catch community, **Jemzuu** remains a most Elite pick from this high fiber bunch.
 
@@ -171,17 +171,17 @@ Their dedication throughout 2020 was impossible to ignore, with their activity r
 
 Much like the other two-year recipients, **Jemzuu** embodies the dedication and spirit that it truly takes to remain (and attain) Elite.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/xinely.jpg)](https://osu.ppy.sh/users/1521445)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/xinely.jpg)::{ user-id=1521445 }
 
 Though recently retired from the beatmap nominators for a while, **Xinely**'s four year tenure as an osu!catch expert left a profound mark on the scene, with their top-tier modding quality and noted expertise in lower-level difficulties setting a high standard for the rest of the scene to follow.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/unpredictable.jpg)](https://osu.ppy.sh/users/7560872)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/unpredictable.jpg)::{ user-id=7560872 }
 
 Unsurprising to anyone who is familiar the osu!mania scene, this pick will seem almost... predictable. **Unpredictable** topped the charts for overall nomination activity during 2020 and decided to go a step further, deliberately seeking out despondent mappers who had all but lost hope getting their work seen to, and giving them the attention their creations required.
 
 Their efforts to help salvage the lost creations speaks well enough for their character alone, showcasing the kind of tenacity and drive that makes someone truly Elite.
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/rivals_7.jpg)](https://osu.ppy.sh/users/4610379)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/rivals\17.jpg)::{ user-id=4610379 }
 
 Another recent departure from the team, **Rivals_7** sported a long history across four years of consistently being one of the most active and dedicated nominators for osu!mania, well-known to pay special attention towards mappers new to the scene and supporting a vibrant range of keymodes and multi-key sets in their searches.
 
@@ -189,9 +189,9 @@ Another recent departure from the team, **Rivals_7** sported a long history acro
 
 Long the subject of hushed discussions among the highest echelons of the osu!team, the fabled Elite Storyboarders are selected only through exhaustive review of an extensive body of work, making it arguably one of the hardest (if not *the* hardest) Elite titles to achieve.
 
-Today, we welcome two more creators into the fold, as described by our modding and mapping scene advisor [-Mo-](https://osu.ppy.sh/users/2202163), and accompanied by video compilations from our latest osu!Paragon himself, [pishifat](https://osu.ppy.sh/users/3178418):
+Today, we welcome two more creators into the fold, as described by our modding and mapping scene advisor ::-Mo-::{ user-id=2202163 }, and accompanied by video compilations from our latest osu!Paragon himself, ::pishifat::{ user-id=3178418 }:
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/tochi.jpg)](https://osu.ppy.sh/users/3664366)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/tochi.jpg)::{ user-id=3664366 }
 
 <div align="center">
     <video width="95%" controls>
@@ -212,7 +212,7 @@ Here's a few highlights from them:
 - [PSYQUI - Hype feat. Such (lapix Remix)](https://osu.ppy.sh/beatmapsets/1009824)
 - [Feryquitous - \(S\).0ngs//---::compilation.\[TQR-f3\]](https://osu.ppy.sh/beatmapsets/1124097)
 
-[![](/wiki/shared/news/2021-03-19-community-contributors-2020/yf_bmp.jpg)](https://osu.ppy.sh/users/1243669)
+::!\1\1(/wiki/shared/news/2021-03-19-community-contributors-2020/yf\1bmp.jpg)::{ user-id=1243669 }
 
 <div align="center">
     <video width="95%" controls>
@@ -238,7 +238,7 @@ Here's a few highlights of their work:
 
 ---
 
-A big thank you to [Noffy](https://osu.ppy.sh/users/1541323), [pishifat](https://osu.ppy.sh/users/3178418), [-Mo-](https://osu.ppy.sh/users/2202163) and much of the NAT as a whole for their help in compiling, composing videos, selecting and writing most of the Elite section here.
+A big thank you to ::Noffy::{ user-id=1541323 }, [pishifat](https://osu.ppy.sh/users/3178418), ::-Mo-::{ user-id=2202163 } and much of the NAT as a whole for their help in compiling, composing videos, selecting and writing most of the Elite section here.
 
 2020 was a tumultuous year for many, but with it has come some of the sharpest increases in osu!'s growth that we have ever seen in over a decade. Accordingly, this list is nowhere near exhaustive in giving gratitude to those who help make the community a better place, and we know there are dozens more people waiting in the wings for their moment in the spotlight.
 

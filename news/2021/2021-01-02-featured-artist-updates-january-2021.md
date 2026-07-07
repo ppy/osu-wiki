@@ -23,7 +23,7 @@ Got all that? Great. Let's go.
 
 [![](https://assets.ppy.sh/artists/56/header.jpg)](https://osu.ppy.sh/beatmaps/artists/56)
 
-- [**Celldweller - Goodbye (Remixed by Klayton)**](https://osu.ppy.sh/beatmapsets/1157287#osu/2415041) mapped by [Myahkey](https://osu.ppy.sh/users/6684556)
+- [**Celldweller - Goodbye (Remixed by Klayton)**](https://osu.ppy.sh/beatmapsets/1157287#osu/2415041) mapped by ::Myahkey::{ user-id=6684556 }
 - **Celldweller - Retros**
 - **Celldweller - The Wings of Icarus (feat. James Dooley)**
 - **Celldweller - Birthright**
@@ -68,7 +68,7 @@ One of the oldest members of the FA roster is back again! We've got **7** new dr
 
 [![](https://assets.ppy.sh/artists/94/header.jpg)](https://osu.ppy.sh/beatmaps/artists/94)
 
-- **[Magnetude - Signals](https://osu.ppy.sh/beatmapsets/850972#osu/1891907)** mapped by [Firebool](https://osu.ppy.sh/users/6182439)
+- **[Magnetude - Signals](https://osu.ppy.sh/beatmapsets/850972#osu/1891907)** mapped by ::Firebool::{ user-id=6182439 }
 - **Magnetude - Before The Dawn (feat. Julia Marks) \[Drum & Bass Mix\]**
 - **Magnetude - Entr'acte**
 - **Magnetude - Arcade**
@@ -85,7 +85,7 @@ James Peacock and Rustam Mansurov (a.k.a. the dude behind [Rusty K](https://osu.
 - **MIMI - Soshite Yoruto Tomoru**
 - **MIMI - Yoake Maeni Tobinotte**
 
-Pop vocaloid extraordinaire **MIMI** is back with more! Their journey as a Featured Artist began strong thanks to maps like [Ai no Sukima](https://osu.ppy.sh/beatmapsets/952409) and [Mizuoto to Curtain](https://osu.ppy.sh/beatmapsets/968171) by [Log Off Now](https://osu.ppy.sh/users/4378277), later branching out into a massive collection of ranked maps by all sorts of mappers! Clearly **MIMI**'s music has an impact on osu! players, so we're proud to bring more your way!
+Pop vocaloid extraordinaire **MIMI** is back with more! Their journey as a Featured Artist began strong thanks to maps like [Ai no Sukima](https://osu.ppy.sh/beatmapsets/952409) and [Mizuoto to Curtain](https://osu.ppy.sh/beatmapsets/968171) by ::Log Off Now::{ user-id=4378277 }, later branching out into a massive collection of ranked maps by all sorts of mappers! Clearly **MIMI**'s music has an impact on osu! players, so we're proud to bring more your way!
 
 ## [onumi](https://osu.ppy.sh/beatmaps/artists/32)
 
@@ -124,8 +124,8 @@ Released only a bit over a month ago, we've snagged **SOOOO**'s newest track *Ra
 
 [![](https://assets.ppy.sh/artists/98/header.jpg)](https://osu.ppy.sh/beatmaps/artists/98)
 
-- **[Umeboshi Chazuke - Wakare no Namida wa Mata Au Hi made](https://osu.ppy.sh/beatmapsets/830444#osu/1768797)** mapped by [Azzedd](https://osu.ppy.sh/users/8889054)
-- **[Umeboshi Chazuke - Galaxy in Toybox](https://osu.ppy.sh/beatmapsets/1012123#taiko/2118477)** mapped by [\_DUSK\_](https://osu.ppy.sh/users/6092181)
+- **[Umeboshi Chazuke - Wakare no Namida wa Mata Au Hi made](https://osu.ppy.sh/beatmapsets/830444#osu/1768797)** mapped by ::Azzedd::{ user-id=8889054 }
+- **[Umeboshi Chazuke - Galaxy in Toybox](https://osu.ppy.sh/beatmapsets/1012123#taiko/2118477)** mapped by ::\_DUSK\_::{ user-id=6092181 }
 - **Umeboshi Chazuke - Banana! DX Choco Crepe!**
 - **Umeboshi Chazuke - Hacha-Mecha Traveler!**
 - **Umeboshi Chazuke - Midnight Trickster**

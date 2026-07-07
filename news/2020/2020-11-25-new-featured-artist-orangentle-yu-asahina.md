@@ -17,7 +17,7 @@ Take a peek at what we've got in store:
 
 ### HAELEQ∩INZ -the clown of 24stairs-
 
-Check out this [loved osu! set](https://osu.ppy.sh/beatmapsets/618645#osu/1350134) from [My Angel Watame](https://osu.ppy.sh/users/4525153), this [osu!taiko set](https://osu.ppy.sh/beatmapsets/623427#taiko/1313997) from [Jaye](https://osu.ppy.sh/users/4841352), and this [osu!mania set](https://osu.ppy.sh/beatmapsets/338199#mania/909107) from [AncuL](https://osu.ppy.sh/users/2449200)!
+Check out this [loved osu! set](https://osu.ppy.sh/beatmapsets/618645#osu/1350134) from ::My Angel Watame::{ user-id=4525153 }, this [osu!taiko set](https://osu.ppy.sh/beatmapsets/623427#taiko/1313997) from ::Jaye::{ user-id=4841352 }, and this [osu!mania set](https://osu.ppy.sh/beatmapsets/338199#mania/909107) from ::AncuL::{ user-id=2449200 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/118/HAELEQUIN-HAELEQ%E2%88%A9INZ/orangentle%20%20Yu_Asahina%20-%20HAELEQUINZ%20-the%20clown%20of%2024stairs-.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out this [loved osu! set](https://osu.ppy.sh/beatmapsets/618645#osu/135013
 
 ### Trickstarz
 
-Check out this [osu!taiko set](https://osu.ppy.sh/beatmapsets/1118075#taiko/2335498) from [kitafuma](https://osu.ppy.sh/users/8987606) and this [osu!mania set](https://osu.ppy.sh/beatmapsets/349432#mania/770548) from [hi19hi19](https://osu.ppy.sh/users/1014473)!
+Check out this [osu!taiko set](https://osu.ppy.sh/beatmapsets/1118075#taiko/2335498) from ::kitafuma::{ user-id=8987606 } and this [osu!mania set](https://osu.ppy.sh/beatmapsets/349432#mania/770548) from ::hi19hi19::{ user-id=1014473 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/118/HAELEQUIN-HAELEQ%E2%88%A9INZ/Yu_Asahina%20-%20Trickstarz.mp3" type="audio/mpeg">

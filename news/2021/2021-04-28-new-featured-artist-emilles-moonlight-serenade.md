@@ -13,7 +13,7 @@ Sporting the longest artist name you'll probably ever see, **Emille's Moonlight 
 
 Considering how prolific this group has been, it only makes sense that we've gathered a hefty **64** songs for their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/160).
 
-Keen ears might've already heard [*ito*](https://osu.ppy.sh/beatmapsets/1077982) by [Lasse](https://osu.ppy.sh/users/896613) through 2019's osu! world cup finals. For those who haven't though, watch [FlyingTuna](https://osu.ppy.sh/users/9224078) breeze through 158BPM spaced streams in the video below, then check out the rest of the previews:
+Keen ears might've already heard [*ito*](https://osu.ppy.sh/beatmapsets/1077982) by ::Lasse::{ user-id=896613 } through 2019's osu! world cup finals. For those who haven't though, watch ::FlyingTuna::{ user-id=9224078 } breeze through 158BPM spaced streams in the video below, then check out the rest of the previews:
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ Keen ears might've already heard [*ito*](https://osu.ppy.sh/beatmapsets/1077982)
 
 ### Gengaku Opera House
 
-Check out [this mapset](https://osu.ppy.sh/beatmapsets/1347917) hosted by [gazimal](https://osu.ppy.sh/users/6055351)!
+Check out [this mapset](https://osu.ppy.sh/beatmapsets/1347917) hosted by ::gazimal::{ user-id=6055351 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/160/Gengaku%20Opera%20House/Emiru%20no%20Aishita%20Tsukiyo%20ni%20Dai%20San%20Gensou%20Kyoku%20wo%20-%20Gengaku%20Opera%20House.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [this mapset](https://osu.ppy.sh/beatmapsets/1347917) hosted by [gazim
 
 ### Kimi no Na wo Hibikasete
 
-Or try out [this mapset](https://osu.ppy.sh/beatmapsets/938781) hosted by [Senseabel](https://osu.ppy.sh/users/6184386)!
+Or try out [this mapset](https://osu.ppy.sh/beatmapsets/938781) hosted by ::Senseabel::{ user-id=6184386 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/160/Tsuiten%20no%20Bara/Emiru%20no%20Aishita%20Tsukiyo%20ni%20Dai%20San%20Gensou%20Kyoku%20wo%20-%20Kimi%20no%20Na%20wo%20Hibikasete.mp3" type="audio/mpeg">

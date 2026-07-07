@@ -25,7 +25,7 @@ tags:
 
 ## Prizes
 
-Prizes for this tournament are sponsored by ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329).
+Prizes for this tournament are sponsored by ::{ flag=CN }:: ::hans1999::{ user-id=6679329 }.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -37,12 +37,12 @@ Prizes for this tournament are sponsored by ::{ flag=CN }:: [hans1999](https://o
 
 | Position | Member(s) |
 | :-: | :-- |
-| Organizer | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256) |
-| Manager | ::{ flag=CN }:: [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| Mappool selector | ::{ flag=CN }:: [Tofu1222](https://osu.ppy.sh/users/6089608), ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329) |
-| Streaming judgement | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
-| Commentator | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [644520858](https://osu.ppy.sh/users/5507069), ::{ flag=CN }:: [wuhuanmin](https://osu.ppy.sh/users/935322) , ::{ flag=CN }:: [704661982](https://osu.ppy.sh/users/7080633) |
-| Wiki editor | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Organizer | ::{ flag=CN }:: ::hans1999::{ user-id=6679329 }, ::{ flag=CN }:: ::Flow Light::{ user-id=6705256 } |
+| Manager | ::{ flag=CN }:: ::SSV Normandy::{ user-id=6475977 } |
+| Mappool selector | ::{ flag=CN }:: ::Tofu1222::{ user-id=6089608 }, ::{ flag=CN }:: ::hans1999::{ user-id=6679329 } |
+| Streaming judgement | ::{ flag=CN }:: ::aiyulu::{ user-id=189617 }, ::{ flag=CN }:: ::Rasis::{ user-id=1209363 }, ::{ flag=CN }:: ::Flow Light::{ user-id=6705256 }, ::{ flag=CN }:: ::kj415j45::{ user-id=9367540 } |
+| Commentator | ::{ flag=CN }:: ::hans1999::{ user-id=6679329 }, ::{ flag=CN }:: ::Flow Light::{ user-id=6705256 }, ::{ flag=CN }:: ::Rasis::{ user-id=1209363 }, ::{ flag=CN }:: ::644520858::{ user-id=5507069 }, ::{ flag=CN }:: ::wuhuanmin::{ user-id=935322 } , ::{ flag=CN }:: ::704661982::{ user-id=7080633 } |
+| Wiki editor | ::{ flag=CN }:: ::kj415j45::{ user-id=9367540 } |
 
 ## Links
 

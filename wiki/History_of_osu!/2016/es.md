@@ -14,7 +14,7 @@
 
 Si bien gran parte de la respuesta de la comunidad fue en desaprobación del nuevo cambio de regla (que intentaba limitar la cantidad de dificultades permitidas en un solo beatmap clasificado), se inició una discusión mucho más amplia que se centró en el descontento de muchos usuarios hacia el personal de osu! debido a lo que sentían que era una falta de transparencia y representación de los jugadores con respecto a los cambios recientes en el BAT (Beatmap Appreciation Team), así como la creación del RCC (Ranking Criteria Council).[^mapset-restructure-proposal]
 
-Unos días después del incidente (17 de febrero), [Ephemeral](https://osu.ppy.sh/users/102335) hizo una publicación en [el blog de peppy](https://blog.ppy.sh) intentando aclarar el asunto con una línea de tiempo de los eventos que condujeron a la situación y lo que el osu! team pretendía hacer para resolverlo. Con esto, se reveló que se estaban realizando muchos cambios con respecto a la estructura del BAT, el beatmapping en general y los procesos de clasificación con poca o ninguna discusión previa o aprobación explícita del BAT o QAT.[^meet-ephemeral][^mv2-timeline-doc]
+Unos días después del incidente (17 de febrero), ::Ephemeral::{ user-id=102335 } hizo una publicación en [el blog de peppy](https://blog.ppy.sh) intentando aclarar el asunto con una línea de tiempo de los eventos que condujeron a la situación y lo que el osu! team pretendía hacer para resolverlo. Con esto, se reveló que se estaban realizando muchos cambios con respecto a la estructura del BAT, el beatmapping en general y los procesos de clasificación con poca o ninguna discusión previa o aprobación explícita del BAT o QAT.[^meet-ephemeral][^mv2-timeline-doc]
 
 Además, en respuesta a la reacción violenta de la comunidad, Ephemeral prometió que los cambios en los criterios de clasificación se suspenderían temporalmente y que el osu! team se comprometería a ser más transparente en sus procesos:
 
@@ -34,7 +34,7 @@ Además, en respuesta a la reacción violenta de la comunidad, Ephemeral prometi
 
 ## Abril
 
-**El panel de modding en el nuevo sitio web de osu! (new.ppy.sh) se puso en marcha para pruebas públicas el 11 de abril de 2016**. Sin embargo, la prueba solo estuvo disponible para [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) y [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). Según [Loctav](https://osu.ppy.sh/users/71366), la idea principal del panel era dividir los problemas en publicaciones separadas y luego discutirlas individualmente para facilitar el seguimiento de los problemas y como parte de los pasos hacia la implementación del tan esperado «Modding V2».[^mv2-feedback-thread]
+**El panel de modding en el nuevo sitio web de osu! (new.ppy.sh) se puso en marcha para pruebas públicas el 11 de abril de 2016**. Sin embargo, la prueba solo estuvo disponible para [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) y [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). Según ::Loctav::{ user-id=71366 }, la idea principal del panel era dividir los problemas en publicaciones separadas y luego discutirlas individualmente para facilitar el seguimiento de los problemas y como parte de los pasos hacia la implementación del tan esperado «Modding V2».[^mv2-feedback-thread]
 
 **Se agregaron nuevos diseños de medallas a osu! el 14 de abril de 2016.**[^medals-showcase-yt] Pretendían estar más en línea con la filosofía de diseño de «[osu!next](https://osunext.tumblr.com/about)» que se usó en el [nuevo cliente de osu!](/wiki/Client/Release_stream/Lazer) (nombre en código «lazer») y en el nuevo sitio web.[^osu-weekly-57][^apr-15-changelog]
 
@@ -44,7 +44,7 @@ Además, en respuesta a la reacción violenta de la comunidad, Ephemeral prometi
 
 ![](img/maria.jpg "Obra de arte oficial de Maria en su publicación de anuncio.")
 
-**El QAT (Quality Assurance Team) y su participación en los procesos de beatmapping y modding cambiaron significativamente el 25 de abril de 2016.** Los cambios realizados fueron descritos por [Loctav](https://osu.ppy.sh/users/71366) en una publicación del foro en ese momento:
+**El QAT (Quality Assurance Team) y su participación en los procesos de beatmapping y modding cambiaron significativamente el 25 de abril de 2016.** Los cambios realizados fueron descritos por ::Loctav::{ user-id=71366 } en una publicación del foro en ese momento:
 
 > En el futuro, el QAT ya no estará obligado a verificar cada beatmap calificado para verificar la calidad. En cambio, serán de naturaleza reactiva, respondiendo y abordando los informes realizados por miembros de la comunidad sobre la calidad de un mapa.
 >
@@ -60,13 +60,13 @@ La recepción de la comunidad hacia este cambio fue en general mayormente positi
 
 ## Mayo
 
-**El primer concurso de osu! remix comenzó el 6 de mayo de 2016.** «osu!remix» fue un concurso nuevo que desafió a los participantes a hacer un remix de la canción [circles!](https://soundcloud.com/nekodex/circles) de [nekodex](https://osu.ppy.sh/users/102). El ganador del gran premio (elegido por el personal de osu!) tendría su remix destacado en osu! junto con $250 USD de crédito en la osu!store, una insignia de perfil, y un concurso oficial de beatmapping con el remix. El ganador secundario (elegido por voto de la comunidad) recibiría $50 USD de crédito en la osu!store. La fecha límite para el concurso se fijó para el 9 de julio de 2016 (00:00 UTC).[^news-circles-remix-contest]
+**El primer concurso de osu! remix comenzó el 6 de mayo de 2016.** «osu!remix» fue un concurso nuevo que desafió a los participantes a hacer un remix de la canción [circles!](https://soundcloud.com/nekodex/circles) de ::nekodex::{ user-id=102 }. El ganador del gran premio (elegido por el personal de osu!) tendría su remix destacado en osu! junto con $250 USD de crédito en la osu!store, una insignia de perfil, y un concurso oficial de beatmapping con el remix. El ganador secundario (elegido por voto de la comunidad) recibiría $50 USD de crédito en la osu!store. La fecha límite para el concurso se fijó para el 9 de julio de 2016 (00:00 UTC).[^news-circles-remix-contest]
 
-**[peppy](https://osu.ppy.sh/users/2) realizó una solicitud de «colaboradores anticipados» el 18 de mayo de 2016.** La solicitud pedía específicamente personas con conocimiento en [C#](https://es.wikipedia.org/wiki/C_Sharp) 6.0 y suficiente tiempo libre y disposición para ayudar a limpiar y refactorizar grandes áreas del nuevo código base del cliente de osu!.[^early-bird-contributors] peppy también pidió más tarde «refuerzos» en forma de colaboradores adicionales familiarizados con [Laravel](https://es.wikipedia.org/wiki/Laravel) y [React](https://es.wikipedia.org/wiki/React).[^ppy-tweet-may-31]
+**::peppy::{ user-id=2 } realizó una solicitud de «colaboradores anticipados» el 18 de mayo de 2016.** La solicitud pedía específicamente personas con conocimiento en [C#](https://es.wikipedia.org/wiki/C_Sharp) 6.0 y suficiente tiempo libre y disposición para ayudar a limpiar y refactorizar grandes áreas del nuevo código base del cliente de osu!.[^early-bird-contributors] peppy también pidió más tarde «refuerzos» en forma de colaboradores adicionales familiarizados con [Laravel](https://es.wikipedia.org/wiki/Laravel) y [React](https://es.wikipedia.org/wiki/React).[^ppy-tweet-may-31]
 
 ## Junio
 
-**Después de nueve meses, los resultados del primer concurso de [Mapping With Rewards](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) se publicaron el 1 de junio de 2016.** Se eligieron tres ganadores en el concurso, uno para cada canción: [monstrata](https://osu.ppy.sh/users/2706438) (ganó [Manic](https://osu.ppy.sh/beatmapsets/361175#osu/793620)), [alacat](https://osu.ppy.sh/users/869782#osu) (ganó [House With Legs](https://osu.ppy.sh/beatmapsets/360680#osu/793357)), [Guy](https://osu.ppy.sh/users/91738) (ganó [Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950#osu/793190)). Además de tener sus beatmaps incluidos en el instalador de osu!, también recibieron $50 USD de crédito en la osu!store y una insignia de perfil única como premio.[^news-mwr-bounties]
+**Después de nueve meses, los resultados del primer concurso de [Mapping With Rewards](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) se publicaron el 1 de junio de 2016.** Se eligieron tres ganadores en el concurso, uno para cada canción: ::monstrata::{ user-id=2706438 } (ganó [Manic](https://osu.ppy.sh/beatmapsets/361175#osu/793620)), ::alacat::{ user-id=869782 } (ganó [House With Legs](https://osu.ppy.sh/beatmapsets/360680#osu/793357)), ::Guy::{ user-id=91738 } (ganó [Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950#osu/793190)). Además de tener sus beatmaps incluidos en el instalador de osu!, también recibieron $50 USD de crédito en la osu!store y una insignia de perfil única como premio.[^news-mwr-bounties]
 
 **El [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!) se lanzó al público el 9 de junio de 2016.** Tal como se anunció en Twitter, el propósito del servidor era reemplazar al equipo público de Slack que anteriormente estaba en su lugar debido a la falta de controles de moderación. Cualquiera con el enlace al servidor de Discord podría unirse y seguir el desarrollo de osu!, aunque no podrían hablar en canales de texto a menos que un moderador les dé acceso específicamente.[^ppy-tweet-june-09][^osu-weekly-65]
 
@@ -86,10 +86,10 @@ La recepción de la comunidad hacia este cambio fue en general mayormente positi
 
 | Puesto | Pista | Artista | Premio(s) |
 | :-- | :-: | :-: | :-- |
-| **Voto del personal** | [HDHR](https://soundcloud.com/billiummoto/hdhr) | [BilliumMoto](https://osu.ppy.sh/users/3862471) | Pista destacada como beatmap oficial del concurso, $250 USD de crédito en la osu!store, insignia de perfil única |
+| **Voto del personal** | [HDHR](https://soundcloud.com/billiummoto/hdhr) | ::BilliumMoto::{ user-id=3862471 } | Pista destacada como beatmap oficial del concurso, $250 USD de crédito en la osu!store, insignia de perfil única |
 | **Primer lugar en la votación de la comunidad** | HDHR | BilliumMoto | N/A |
-| **Segundo lugar en la votación de la comunidad** | [circles! (黒皇帝 Remix)](https://soundcloud.com/dialgadu77/circles-remix) | [Sayaka-](https://osu.ppy.sh/users/398275) | $50 USD de crédito en la osu!store |
-| **Tercer lugar en la votación de la comunidad** | [circles! (happy30 Remix)](https://soundcloud.com/happy30/circles-happy30-remix) | [happy30](https://osu.ppy.sh/users/27767) | Mención honorífica |
+| **Segundo lugar en la votación de la comunidad** | [circles! (黒皇帝 Remix)](https://soundcloud.com/dialgadu77/circles-remix) | ::Sayaka-::{ user-id=398275 } | $50 USD de crédito en la osu!store |
+| **Tercer lugar en la votación de la comunidad** | [circles! (happy30 Remix)](https://soundcloud.com/happy30/circles-happy30-remix) | ::happy30::{ user-id=27767 } | Mención honorífica |
 
 Aunque BilliumMoto ganó el primer lugar en la votación de la comunidad, el premio para el ganador de la votación de la comunidad ($50 USD de crédito en la osu!store) fue otorgado al subcampeón, Sayaka, ya que BilliumMoto ya había ganado la votación del personal y sus premios.[^news-circles-remix-contest-results]
 
@@ -101,9 +101,9 @@ Aunque BilliumMoto ganó el primer lugar en la votación de la comunidad, el pre
 
 | Puesto | Personaje | Artista | Premio(s) |
 | :-- | :-: | :-: | :-- |
-| **Primer lugar** | Aiko | [JMC](https://osu.ppy.sh/users/774010) | título de usuario de **osu!artist**, 12 meses de osu!supporter, crédito de $50 USD en la osu!store |
-| **Segundo lugar** | Alisa | [\[ Glitch \]](https://osu.ppy.sh/users/3781400) | 3 meses de osu!supporter |
-| **Tercer lugar** | Tama | [crystalsuicine](https://osu.ppy.sh/users/9974) | 1 mes de osu!supporter |
+| **Primer lugar** | Aiko | ::JMC::{ user-id=774010 } | título de usuario de **osu!artist**, 12 meses de osu!supporter, crédito de $50 USD en la osu!store |
+| **Segundo lugar** | Alisa | ::\[ Glitch \]::{ user-id=3781400 } | 3 meses de osu!supporter |
+| **Tercer lugar** | Tama | ::crystalsuicine::{ user-id=9974 } | 1 mes de osu!supporter |
 
 A pesar de estas clasificaciones y recompensas, se recordó a los usuarios que la mascota oficial de osu!taiko aún estaría sujeta a votación del personal, independientemente de los resultados de la votación de la comunidad, aunque la mascota elegida por el personal no terminó siendo anunciada a finales de año.[^news-taiko-mascot-voting][^news-taiko-mascot-voting-results]
 
@@ -117,7 +117,7 @@ A pesar de estas clasificaciones y recompensas, se recordó a los usuarios que l
 >
 > A medida que se acerque osu!next, haremos más esfuerzos para que la comunidad se involucre nuevamente. Una gran parte del rediseño implica no solo rediseñar el sitio web y el cliente del juego, sino también cómo funciona la comunidad. Nos encanta dejar que la comunidad guíe el curso del juego, y esperamos que al expandir el equipo con nuevas caras y perspectivas, podamos lograrlo mejor en el futuro.
 
-—[shARPII](https://osu.ppy.sh/users/776257), «GMT Applications Now Open»[^news-gmt-applications]
+—::shARPII::{ user-id=776257 }, «GMT Applications Now Open»[^news-gmt-applications]
 
 Las aplicaciones que se entregaron en ese momento eran diferentes de las aplicaciones para BN (Beatmap Nominator) en que simplemente completar un formulario con «buenas respuestas» no garantizaba una posición: los usuarios que eran de interés para el GMT serían contactados por el GMT y una inspección adicional seguiría a partir de ahí. Además, no había un número limitado de «lugares» disponibles para el GMT. Si el equipo sentía que alguien estaba calificado para el puesto, lo agregarían, independientemente de la cantidad de miembros actuales.[^news-gmt-applications]
 

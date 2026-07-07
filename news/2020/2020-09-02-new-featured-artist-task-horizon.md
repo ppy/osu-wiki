@@ -17,7 +17,7 @@ Check out a preview of a few tracks below:
 
 ### Enigma Machine
 
-Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1165587) from [Capu](https://osu.ppy.sh/users/2474015) of the Mappers' Guild!
+Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1165587) from ::Capu::{ user-id=2474015 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/97/previews/2564.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1165587) 
 
 ### Phase Prism
 
-Check out [this storyboarded osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1195463) hosted by [Raiden](https://osu.ppy.sh/users/2239480) of the Mappers' Guild!
+Check out [this storyboarded osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1195463) hosted by ::Raiden::{ user-id=2239480 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/97/previews/2594.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out [this storyboarded osu!taiko showcase set](https://osu.ppy.sh/beatmaps
 
 ### Weave The Strands
 
-Check out [this single-difficulty osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1219062) from [Nepuri](https://osu.ppy.sh/users/6637817) of the Mappers' Guild!
+Check out [this single-difficulty osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1219062) from ::Nepuri::{ user-id=6637817 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/97/previews/2603.mp3" type="audio/mpeg">

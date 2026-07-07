@@ -34,12 +34,12 @@ The Chinese osu!mania 4K Tournament 2017 was run by various community members.
 
 | Position | Member(s) |
 | --: | :-- |
-| Manager | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Scslag](https://osu.ppy.sh/users/6705256) |
-| Coordinator | ::{ flag=CN }:: [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| Mappool selector | ::{ flag=GB }:: [Imperial Wolf](https://osu.ppy.sh/users/9080296), ::{ flag=TW }:: [Spy](https://osu.ppy.sh/users/1217122), ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329) |
-| Streamer and referee | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
-| Commentator | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Scslag](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [644520858](https://osu.ppy.sh/users/5507069), ::{ flag=CN }:: [wuhuanmin](https://osu.ppy.sh/users/935322) |
-| Wiki editor | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540), ::{ flag=CN }:: [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
+| Manager | ::{ flag=CN }:: ::hans1999::{ user-id=6679329 }, ::{ flag=CN }:: ::Scslag::{ user-id=6705256 } |
+| Coordinator | ::{ flag=CN }:: ::SSV Normandy::{ user-id=6475977 } |
+| Mappool selector | ::{ flag=GB }:: ::Imperial Wolf::{ user-id=9080296 }, ::{ flag=TW }:: ::Spy::{ user-id=1217122 }, ::{ flag=CN }:: ::hans1999::{ user-id=6679329 } |
+| Streamer and referee | ::{ flag=CN }:: ::aiyulu::{ user-id=189617 }, ::{ flag=CN }:: ::Rasis::{ user-id=1209363 }, ::{ flag=CN }:: ::Ookura Asahi::{ user-id=4786951 } |
+| Commentator | ::{ flag=CN }:: ::hans1999::{ user-id=6679329 }, ::{ flag=CN }:: ::Scslag::{ user-id=6705256 }, ::{ flag=CN }:: ::Rasis::{ user-id=1209363 }, ::{ flag=CN }:: ::644520858::{ user-id=5507069 }, ::{ flag=CN }:: ::wuhuanmin::{ user-id=935322 } |
+| Wiki editor | ::{ flag=CN }:: ::kj415j45::{ user-id=9367540 }, ::{ flag=CN }:: ::Ookura Asahi::{ user-id=4786951 } |
 
 ## Links
 
@@ -50,40 +50,40 @@ The Chinese osu!mania 4K Tournament 2017 was run by various community members.
 
 ## Participants
 
-- ::{ flag=TW }:: [CHUMIKO](https://osu.ppy.sh/users/4469570)
-- ::{ flag=CN }:: [- Xiaoluoli -](https://osu.ppy.sh/users/9502281)
-- ::{ flag=CN }:: [Molli](https://osu.ppy.sh/users/8893772)
-- ::{ flag=CN }:: [\[Crz\] Luna](https://osu.ppy.sh/users/8377593)
-- ::{ flag=CN }:: [\[Crz\]Liusecy](https://osu.ppy.sh/users/9082105)
-- ::{ flag=CN }:: [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131)
-- ::{ flag=CN }:: [\[Crz\]Mix0130](https://osu.ppy.sh/users/7215250)
-- ::{ flag=CN }:: [\[Crz\]Riri](https://osu.ppy.sh/users/6148622)
-- ::{ flag=CN }:: [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215)
-- ::{ flag=AU }:: [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989)
+- ::{ flag=TW }:: ::CHUMIKO::{ user-id=4469570 }
+- ::{ flag=CN }:: ::- Xiaoluoli -::{ user-id=9502281 }
+- ::{ flag=CN }:: ::Molli::{ user-id=8893772 }
+- ::{ flag=CN }:: ::\[Crz\] Luna::{ user-id=8377593 }
+- ::{ flag=CN }:: ::\[Crz\]Liusecy::{ user-id=9082105 }
+- ::{ flag=CN }:: ::\[Crz\]MemoryI::{ user-id=8179131 }
+- ::{ flag=CN }:: ::\[Crz\]Mix0130::{ user-id=7215250 }
+- ::{ flag=CN }:: ::\[Crz\]Riri::{ user-id=6148622 }
+- ::{ flag=CN }:: ::\[Crz\]ScSolAr::{ user-id=1591215 }
+- ::{ flag=AU }:: ::\[Crz\]Yukikaze-::{ user-id=8832989 }
 - ::{ flag=CN }:: \[M1nzzZ\]
-- ::{ flag=MY }:: [\[MY\]xRay](https://osu.ppy.sh/users/8287005)
-- ::{ flag=HK }:: [AnLs](https://osu.ppy.sh/users/1724045)
-- ::{ flag=CN }:: [Banshasan](https://osu.ppy.sh/users/6269122)
-- ::{ flag=SG }:: [FDXiaoQian](https://osu.ppy.sh/users/7229381)
-- ::{ flag=MY }:: [Chizuru Shinkai](https://osu.ppy.sh/users/10049347)
-- ::{ flag=HK }:: [drunkenstein](https://osu.ppy.sh/users/4565389)
-- ::{ flag=MY }:: [fgdg858](https://osu.ppy.sh/users/6225807)
-- ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315)
-- ::{ flag=CN }:: [\[ Classic \]](https://osu.ppy.sh/users/5858053)
-- ::{ flag=CN }:: [Luv Letter](https://osu.ppy.sh/users/8072222)
-- ::{ flag=CA }:: [Murasame](https://osu.ppy.sh/users/6541990)
-- ::{ flag=CN }:: [NED\_Q](https://osu.ppy.sh/users/8048611)
-- ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987)
-- ::{ flag=HK }:: [Opean](https://osu.ppy.sh/users/4544555)
-- ::{ flag=CN }:: [pikechu](https://osu.ppy.sh/users/6511662)
+- ::{ flag=MY }:: ::\[MY\]xRay::{ user-id=8287005 }
+- ::{ flag=HK }:: ::AnLs::{ user-id=1724045 }
+- ::{ flag=CN }:: ::Banshasan::{ user-id=6269122 }
+- ::{ flag=SG }:: ::FDXiaoQian::{ user-id=7229381 }
+- ::{ flag=MY }:: ::Chizuru Shinkai::{ user-id=10049347 }
+- ::{ flag=HK }:: ::drunkenstein::{ user-id=4565389 }
+- ::{ flag=MY }:: ::fgdg858::{ user-id=6225807 }
+- ::{ flag=CN }:: ::gzdongsheng::{ user-id=8660315 }
+- ::{ flag=CN }:: ::\[ Classic \]::{ user-id=5858053 }
+- ::{ flag=CN }:: ::Luv Letter::{ user-id=8072222 }
+- ::{ flag=CA }:: ::Murasame::{ user-id=6541990 }
+- ::{ flag=CN }:: ::NED\_Q::{ user-id=8048611 }
+- ::{ flag=MY }:: ::Neokje::{ user-id=7727987 }
+- ::{ flag=HK }:: ::Opean::{ user-id=4544555 }
+- ::{ flag=CN }:: ::pikechu::{ user-id=6511662 }
 - ::{ flag=CN }:: prelude8792916
-- ::{ flag=CN }:: [\[Crz\]LfyJ](https://osu.ppy.sh/users/6470012)
-- ::{ flag=CN }:: [qiluo](https://osu.ppy.sh/users/9424823)
-- ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744)
-- ::{ flag=CN }:: [Stink God](https://osu.ppy.sh/users/7381289)
-- ::{ flag=CN }:: [WF Night](https://osu.ppy.sh/users/7109100)
-- ::{ flag=CN }:: [wjh123](https://osu.ppy.sh/users/1147820)
-- ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516)
+- ::{ flag=CN }:: ::\[Crz\]LfyJ::{ user-id=6470012 }
+- ::{ flag=CN }:: ::qiluo::{ user-id=9424823 }
+- ::{ flag=CN }:: ::spensll::{ user-id=4547744 }
+- ::{ flag=CN }:: ::Stink God::{ user-id=7381289 }
+- ::{ flag=CN }:: ::WF Night::{ user-id=7109100 }
+- ::{ flag=CN }:: ::wjh123::{ user-id=1147820 }
+- ::{ flag=HK }:: ::zero2snow::{ user-id=7751516 }
 
 ## Podium
 

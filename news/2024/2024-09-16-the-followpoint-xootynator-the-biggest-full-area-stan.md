@@ -9,7 +9,7 @@ Get ready for an artistic spin with xootynator, the sorceress of full area!
 
 ![](/wiki/shared/news/2024-09-16-the-followpoint-xootynator-the-biggest-full-area-stan/banner.jpg)
 
-Guess what? The Followpoint is back to bring you another banger, an interview with [xootynator](https://osu.ppy.sh/users/3717598)! You likely heard of her at least once because of her community contributions such as tournament staffing, content making, tournament participation, arts or her unique play style. Today we have a chance to learn more about her and her osu! journey.
+Guess what? The Followpoint is back to bring you another banger, an interview with ::xootynator::{ user-id=3717598 }! You likely heard of her at least once because of her community contributions such as tournament staffing, content making, tournament participation, arts or her unique play style. Today we have a chance to learn more about her and her osu! journey.
 
 So, let's get into this interview!
 
@@ -142,7 +142,7 @@ I remember you mentioning it in one of your previous interviews, but can you tel
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-Stan Full Area has a pretty funny origin, since it was actually our team name for the 2020 iteration of [MRC (Mahloola Regional Cup)](https://osu.ppy.sh/community/forums/topics/1136787). The team was me, [Rupertion](https://osu.ppy.sh/users/5774823) and [Eddie-](https://osu.ppy.sh/users/3898396), three players who played with the entire area of our tablets. No changes to the size of the active area at all. Eddie is a big k-pop fan, so gave us the name Stan Full Area. Since then, it's sort of just stuck as a tag to recognize other people with the same play style!
+Stan Full Area has a pretty funny origin, since it was actually our team name for the 2020 iteration of [MRC (Mahloola Regional Cup)](https://osu.ppy.sh/community/forums/topics/1136787). The team was me, ::Rupertion::{ user-id=5774823 } and [Eddie-](https://osu.ppy.sh/users/3898396), three players who played with the entire area of our tablets. No changes to the size of the active area at all. Eddie is a big k-pop fan, so gave us the name Stan Full Area. Since then, it's sort of just stuck as a tag to recognize other people with the same play style!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -180,7 +180,7 @@ Who or what was your main inspiration to improve when you just started playing?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-The first player I looked up to was [rrtyui](https://osu.ppy.sh/users/352328). I remember spectating back in the day and pretty much discovering maps other than generic anime aim existed. I have another core memory of spectating them and seeing the map [Arousing](https://osu.ppy.sh/beatmapsets?q=title%3D%22%22Arousing%22%22) by [DJ TOTTO feat. Sunao Yoshikawa](https://osu.ppy.sh/beatmapsets?q=artist%3D%22%22DJ%20TOTTO%20feat.%20Sunao%20Yoshikawa%22%22), and I fell in love with tech mapping ever since then. I also think it helped me become a much more rounded player!
+The first player I looked up to was ::rrtyui::{ user-id=352328 }. I remember spectating back in the day and pretty much discovering maps other than generic anime aim existed. I have another core memory of spectating them and seeing the map [Arousing](https://osu.ppy.sh/beatmapsets?q=title%3D%22%22Arousing%22%22) by [DJ TOTTO feat. Sunao Yoshikawa](https://osu.ppy.sh/beatmapsets?q=artist%3D%22%22DJ%20TOTTO%20feat.%20Sunao%20Yoshikawa%22%22), and I fell in love with tech mapping ever since then. I also think it helped me become a much more rounded player!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -192,7 +192,7 @@ Who would you want to meet IRL the most if you could choose any player, and why?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-The first person that comes to mind is probably [val0108](https://osu.ppy.sh/users/243917). I love pretty much all of their maps, and I used to always love the little Twitter updates they'd post about their life! At one point val0108 came in to my Twitch chat, and I was star struck. I remember them saying something about my scores being cool with full area, it was inspiring, and I just think that val has a silly personality!
+The first person that comes to mind is probably ::val0108::{ user-id=243917 }. I love pretty much all of their maps, and I used to always love the little Twitter updates they'd post about their life! At one point val0108 came in to my Twitch chat, and I was star struck. I remember them saying something about my scores being cool with full area, it was inspiring, and I just think that val has a silly personality!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -204,7 +204,7 @@ How different do LAN tourneys feel from regular tourneys played at home?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-Totally a night and day difference. I've always loved the pro player community since everyone is super friendly even competitively. I feel like everyone can recognize a good match and not be too sour if things don't go their way, so overall a really great experience. Playing at a LAN is a totally different story though! I can just go right up and hug my opponent after a good match! During my time at [The Roundtable](/wiki/Tournaments/The_Roundtable) LAN in LA, I even got to rub elbows with [Rafis](https://osu.ppy.sh/users/2558286) while playing against him during the 1v1's. Looking over at each other, commenting on our scores, and even having people walk around and see the matches happening at real time feels so surreal. I'm for sure saying yes to any LAN I get invited to if I can go!
+Totally a night and day difference. I've always loved the pro player community since everyone is super friendly even competitively. I feel like everyone can recognize a good match and not be too sour if things don't go their way, so overall a really great experience. Playing at a LAN is a totally different story though! I can just go right up and hug my opponent after a good match! During my time at [The Roundtable](/wiki/Tournaments/The_Roundtable) LAN in LA, I even got to rub elbows with ::Rafis::{ user-id=2558286 } while playing against him during the 1v1's. Looking over at each other, commenting on our scores, and even having people walk around and see the matches happening at real time feels so surreal. I'm for sure saying yes to any LAN I get invited to if I can go!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -294,7 +294,7 @@ And as a finishing touch, do you have anything else that you'd like to mention?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-I hope to continue doing my best with osu! and with content creation, and I hope I can contribute more to the game as time goes on. One of my favourite contributions has been the tournament I co-host with [Fulserish](https://osu.ppy.sh/users/14252162), dubbed "[Battle of the Box](https://osu.ppy.sh/community/forums/topics/1862856)", which encouraged a lot of artists in the community to contribute to tournaments, which I think had a domino effect where many more tournaments are featuring custom artwork for custom maps! If you would like to get involved in that, please consider joining the [osu! Artist Hub](https://discord.gg/KVPDmKAkjV) Discord, where there are a lot of like-minded individuals who want to be better artists and continue contributing to the game.
+I hope to continue doing my best with osu! and with content creation, and I hope I can contribute more to the game as time goes on. One of my favourite contributions has been the tournament I co-host with ::Fulserish::{ user-id=14252162 }, dubbed "[Battle of the Box](https://osu.ppy.sh/community/forums/topics/1862856)", which encouraged a lot of artists in the community to contribute to tournaments, which I think had a domino effect where many more tournaments are featuring custom artwork for custom maps! If you would like to get involved in that, please consider joining the [osu! Artist Hub](https://discord.gg/KVPDmKAkjV) Discord, where there are a lot of like-minded individuals who want to be better artists and continue contributing to the game.
 
 Besides that, I'm very grateful to be interviewed by The Followpoint, and thank you MegaMix for all your hard work, and to the other staff of osu! that keep the game running smoothly!
 

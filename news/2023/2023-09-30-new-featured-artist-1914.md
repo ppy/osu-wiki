@@ -15,7 +15,7 @@ Some musicians create music inspired by their favourite artists or genres. Ukrai
 
 More specifically, **7** masterfully crafted stories (featuring intense metal backing) can be found on [**1914**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/382).
 
-During [COE](/wiki/Community/cavoe's_osu!_event/2023) two months ago, we glued [etn](https://osu.ppy.sh/users/4581069) to a chair and forced him to full combo the climax of [Arrival. The Meuse-Argonne](https://osu.ppy.sh/beatmapsets/1734521). Check that out (along with the rest of these previews):
+During [COE](/wiki/Community/cavoe's_osu!_event/2023) two months ago, we glued ::etn::{ user-id=4581069 } to a chair and forced him to full combo the climax of [Arrival. The Meuse-Argonne](https://osu.ppy.sh/beatmapsets/1734521). Check that out (along with the rest of these previews):
 
 <div align="center">
     <video width="95%" controls>
@@ -25,7 +25,7 @@ During [COE](/wiki/Community/cavoe's_osu!_event/2023) two months ago, we glued [
 
 ### 1914 - Arrival. The Meuse-Argonne
 
-Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/1734521) hosted by [nebuwua](https://osu.ppy.sh/users/14729352) for yourself!
+Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/1734521) hosted by ::nebuwua::{ user-id=14729352 } for yourself!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/382/The Blind Leading The Blind/1914 - Arrival. The Meuse-Argonne.mp3">
@@ -33,7 +33,7 @@ Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/1734521
 
 ### 1914 - FN .380 ACP#19074
 
-Or try [this collab marathon](https://osu.ppy.sh/beatmapsets/1736332) created by [MANi](https://osu.ppy.sh/users/12006447) and [morphne](https://osu.ppy.sh/users/12927633)!
+Or try [this collab marathon](https://osu.ppy.sh/beatmapsets/1736332) created by ::MANi::{ user-id=12006447 } and [morphne](https://osu.ppy.sh/users/12927633)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/382/Where%20Fear%20And%20Weapons%20Meet/1914%20-%20FN%20.380%20ACP%2319074.mp3">
@@ -41,7 +41,7 @@ Or try [this collab marathon](https://osu.ppy.sh/beatmapsets/1736332) created by
 
 ### 1914 - Don't Tread on Me (Harlem Hellfighters)
 
-Surpass the 8-star barrier with [this map](https://osu.ppy.sh/beatmapsets/1899983) hosted by [monzuul](https://osu.ppy.sh/users/15599657)!
+Surpass the 8-star barrier with [this map](https://osu.ppy.sh/beatmapsets/1899983) hosted by ::monzuul::{ user-id=15599657 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/382/Where Fear And Weapons Meet/1914 - Don_t Tread on Me (Harlem Hellfighters).mp3">

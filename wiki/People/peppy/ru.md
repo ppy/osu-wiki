@@ -13,7 +13,7 @@ tags:
 ## Ссылки
 
 - **[Веб-сайт](https://ppy.sh/)**
-- [Профиль в osu!](https://osu.ppy.sh/users/2)
+- ::Профиль в osu!::{ user-id=2 }
 - [Блог разработчика](https://blog.ppy.sh)
 - [GitHub](https://github.com/peppy)
 - [Twitter](https://twitter.com/ppy)

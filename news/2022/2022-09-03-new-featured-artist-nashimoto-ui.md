@@ -15,7 +15,7 @@ If this is a familiar sight, you're already familiar with both pain and **Nashim
 
 The mind behind [AaAaAaAAaAaAAa](https://osu.ppy.sh/beatmapsets/1017271) has officially joined osu! as of today, providing a solid **7** dark VOCALOID tracks for mappers to dig into. Pick up any of 'em from [**Nashimoto Ui**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/298)!
 
-See what the hype is about with this slow-mo view of [ciru](https://osu.ppy.sh/users/6114695)'s DT play on *AaAaAaAAaAaAAa*, then check out the rest of these tracks while you're here:
+See what the hype is about with this slow-mo view of ::ciru::{ user-id=6114695 }'s DT play on *AaAaAaAAaAaAAa*, then check out the rest of these tracks while you're here:
 
 <div align="center">
     <video width="100%" controls>
@@ -25,7 +25,7 @@ See what the hype is about with this slow-mo view of [ciru](https://osu.ppy.sh/u
 
 ### AaAaAaAAaAaAAa
 
-Try out [this jumpy map](https://osu.ppy.sh/beatmapsets/1017271) hosted by [Sotarks](https://osu.ppy.sh/users/4452992) or [this reading map](https://osu.ppy.sh/beatmapsets/1159170) hosted by [Morrighan](https://osu.ppy.sh/users/12042090)!
+Try out [this jumpy map](https://osu.ppy.sh/beatmapsets/1017271) hosted by ::Sotarks::{ user-id=4452992 } or [this reading map](https://osu.ppy.sh/beatmapsets/1159170) hosted by ::Morrighan::{ user-id=12042090 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/298/Songs/Nashimoto%20Ui%20-%20AaAaAaAAaAaAAa.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Try out [this jumpy map](https://osu.ppy.sh/beatmapsets/1017271) hosted by [Sota
 
 ### Enkou Shoujo
 
-Play through [this marathon](https://osu.ppy.sh/beatmapsets/1078896) hosted by [Sylvarus](https://osu.ppy.sh/users/4505918)!
+Play through [this marathon](https://osu.ppy.sh/beatmapsets/1078896) hosted by ::Sylvarus::{ user-id=4505918 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/298/Songs/Nashimoto%20Ui%20-%20Enkou%20Shoujo.mp3" type="audio/mpeg">

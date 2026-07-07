@@ -135,5 +135,5 @@ También ten en cuenta que los redobles de 1/6 se dan si se usa una tasa de marc
 ![Logo de osu!taiko en modo especial](img/Taiko_logo.jpg "Logo de taiko en modo especial")
 
 - La opción `Utilizar la skin de Taiko para Taiko` en la barra lateral de opciones en la sección de skins usará los elementos de la carpeta `taiko` cuando juegues en *osu!taiko*, independientemente de los elementos taiko de la skin actual. La carpeta usada para mantener la skin *[Taiko por LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)*, que se puede descargar desde el ahora obsoleto `osume.exe` (el sistema de actualización original, antes de que se integrara en el juego) en la pestaña `Skin`.
-- El primer beatmap clasificado que contenía una dificultad de osu!taiko fue [Taiko no Tatsujin - Saitama2000](https://osu.ppy.sh/beatmapsets/210) de [Kharl](https://osu.ppy.sh/users/452)
-- El primer beatmap clasificado específico de osu!taiko fue [Mutsuhiko Izumi - Red Goose](https://osu.ppy.sh/beatmapsets/55920) de [lepidopus](https://osu.ppy.sh/users/194807)
+- El primer beatmap clasificado que contenía una dificultad de osu!taiko fue [Taiko no Tatsujin - Saitama2000](https://osu.ppy.sh/beatmapsets/210) de ::Kharl::{ user-id=452 }
+- El primer beatmap clasificado específico de osu!taiko fue [Mutsuhiko Izumi - Red Goose](https://osu.ppy.sh/beatmapsets/55920) de ::lepidopus::{ user-id=194807 }

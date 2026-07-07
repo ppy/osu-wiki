@@ -32,7 +32,7 @@ For the Round Of 16, this meant that Indonesia would face their fellow top seed 
 
 The rejection of accuracy maps in this stage was made even more apparent by the bans. The OD7 Hidden map [Ice - Entrance](https://osu.ppy.sh/beatmapsets/755569#taiko/1590333) and the long DoubleTime pick [FELT - Day After](https://osu.ppy.sh/beatmapsets/323180#taiko/718430) combined made up almost half of all Group Stage bans.
 
-A word on the picks/bans by [Nwolf](https://osu.ppy.sh/users/1910766), one of the map selectors:
+A word on the picks/bans by ::Nwolf::{ user-id=1910766 }, one of the map selectors:
 
 *In Group Stage picks and bans mostly went as expected. We were surprised by the huge amount of picks on Shiawase and Goin' Under which we thought would be banned (and Caramel Custard which we thought would get ignored a bit more because it's technical and risky), and the high amount of bans on Entrance, which we considered the easier HD map.*
 
@@ -64,13 +64,13 @@ The last match of the day was also arguably the most even one, United Kingdom vs
 
 The Quarterfinals stage marked the end of the journeys of 4 teams in the Taiko World Cup. Those being Argentina, Malaysia, United Kingdom and France. Better luck to them next year!
 
-**Hong Kong kicked off Saturday by sweeping Argentina 5-0.** Argentina did arrive with enough players this time, but their star player [Midnaait](https://osu.ppy.sh/users/1506011) unfortunately was not one of them.
+**Hong Kong kicked off Saturday by sweeping Argentina 5-0.** Argentina did arrive with enough players this time, but their star player ::Midnaait::{ user-id=1506011 } unfortunately was not one of them.
 
-The match between Poland and France seemed like an even one when the teams traded wins until 2-2. At that point, Poland had enough. With [CreepyDuck](https://osu.ppy.sh/users/2435013) leading the way, **Poland won the last 3 maps to cause a 5-2 upset against the top-seeded French.**
+The match between Poland and France seemed like an even one when the teams traded wins until 2-2. At that point, Poland had enough. With ::CreepyDuck::{ user-id=2435013 } leading the way, **Poland won the last 3 maps to cause a 5-2 upset against the top-seeded French.**
 
 The United Kingdom were missing a couple key players, which **Brazil took full advantage of and swept the UK 5-0.**
 
-Spain versus United States is another match where the teams looked balanced early on, but **the US ran away with the game to win 5-1.** Spain edged out the win on the speedy nomod pick [LeaF - I](https://osu.ppy.sh/beatmaps/1607811) to equalize the score at 1-1. Other than that, the US dominated every map in style and set some jaw-dropping scores while doing so. [Dargin](https://osu.ppy.sh/users/7086439) intimidated Spain right away with an amazing accuracy of only three 100s on the DoubleTime map [M2U - Masquerade](https://osu.ppy.sh/beatmapsets/132040/#taiko/332272). Later in the match, [JDrago14](https://osu.ppy.sh/users/7690078) displayed their amazing reading skills by getting a full combo on the Hidden map [CHON - Perfect Pillow](https://osu.ppy.sh/beatmapsets/741465/#taiko/1564247). This also happened:
+Spain versus United States is another match where the teams looked balanced early on, but **the US ran away with the game to win 5-1.** Spain edged out the win on the speedy nomod pick [LeaF - I](https://osu.ppy.sh/beatmaps/1607811) to equalize the score at 1-1. Other than that, the US dominated every map in style and set some jaw-dropping scores while doing so. ::Dargin::{ user-id=7086439 } intimidated Spain right away with an amazing accuracy of only three 100s on the DoubleTime map [M2U - Masquerade](https://osu.ppy.sh/beatmapsets/132040/#taiko/332272). Later in the match, ::JDrago14::{ user-id=7690078 } displayed their amazing reading skills by getting a full combo on the Hidden map [CHON - Perfect Pillow](https://osu.ppy.sh/beatmapsets/741465/#taiko/1564247). This also happened:
 ![](/wiki/shared/news/2018-04-19-twc-ro16-recap/usa-2-100s.jpg)
 
 For the first match on Sunday, **Australia swiftly eliminated their northern neighbours Malaysia 5-0.**
@@ -84,7 +84,7 @@ The last match of this stage was Taiwan versus Canada is the winners bracket. Th
 
 ### Quarterfinals Mappool
 
-In the Quarterfinals we saw every map get played atleast twice except for the tiebreaker and [U-F SEQUENCER - EupHolic](https://osu.ppy.sh/beatmapsets/763005#taiko/1604103) (FreeMod) which didn't get picked at all. This map was also the most targeted ban along with [CHON - Perfect Pillow](https://osu.ppy.sh/beatmapsets/741465/#taiko/1564247) (Hidden). Some thoughts from one of the map selectors, [mangomizer](https://osu.ppy.sh/users/1893718), regarding the Quarterfinals mappool:
+In the Quarterfinals we saw every map get played atleast twice except for the tiebreaker and [U-F SEQUENCER - EupHolic](https://osu.ppy.sh/beatmapsets/763005#taiko/1604103) (FreeMod) which didn't get picked at all. This map was also the most targeted ban along with [CHON - Perfect Pillow](https://osu.ppy.sh/beatmapsets/741465/#taiko/1564247) (Hidden). Some thoughts from one of the map selectors, ::mangomizer::{ user-id=1893718 }, regarding the Quarterfinals mappool:
 
 *"We were pleasantly surprised by the spread of picks - it seems that the players coped well with most of the niches we set for this stage. I didn't expect Jikininki (the longest map) to be the most popular pick (6/8 matches), nor did I expect Eupholic to not be picked at all.*
 
@@ -96,7 +96,7 @@ The tiebreaker drought is indeed real, but these upcoming matches are looking li
 
 ### Useful Links
 
-This is surely shaping up to be an exciting Semifinals stage, and **you can watch it all go down this weekend at the [osulive twitch channel](https://www.twitch.tv/osulive). The first match starts 13:30UTC on Saturday.** While you're there, you can also [rewatch past matches](https://www.twitch.tv/osulive/videos/all). If you're into stats, you'll find various ones compiled by [deadbeat](https://osu.ppy.sh/users/128370) and [Nwolf](https://osu.ppy.sh/users/1910766) by clicking [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#).
+This is surely shaping up to be an exciting Semifinals stage, and **you can watch it all go down this weekend at the [osulive twitch channel](https://www.twitch.tv/osulive). The first match starts 13:30UTC on Saturday.** While you're there, you can also [rewatch past matches](https://www.twitch.tv/osulive/videos/all). If you're into stats, you'll find various ones compiled by ::deadbeat::{ user-id=128370 } and [Nwolf](https://osu.ppy.sh/users/1910766) by clicking [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSp05eL_jYsj4RGa2-lsS39wC1AQDLYXidmQJn0jcLU3c6nETCVZW2BhB5Cy_uIQ_Cp3K_BuTtLJDy4/pubhtml#).
 
 **Also, don't forget to buy a banner!** You can support your favourite team by purchasing a banner at the [osu!store](https://osu.ppy.sh/store/products/296). By doing so, you contribute to the tournament prize pool.
 

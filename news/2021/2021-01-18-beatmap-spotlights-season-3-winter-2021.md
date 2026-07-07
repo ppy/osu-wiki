@@ -114,10 +114,10 @@ After each season has finalized, the curators will handpick a mapper featured in
 
 To kick things off, we're formally presenting the best of Autumn Season 2020 as chosen by our curators:
 
-- osu!: [TAROLIN feat. Katakiri Rekka - Cardinal Rave \[Cub's Insane\]](https://osu.ppy.sh/beatmapsets/1116399#osu/2355610) by [Cubby](https://osu.ppy.sh/users/10914582)
-- osu!taiko: [REDALiCE vs. USAO - SAIKYO STRONGER \[Oni\]](https://osu.ppy.sh/beatmapsets/1145432#taiko/2394331) by [MMzz](https://osu.ppy.sh/users/128993)
-- osu!catch: [Street - Sakura Fubuki \[Himiko's Expert\]](https://osu.ppy.sh/beatmapsets/1143608#fruits/2440597) by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
-- osu!mania: [Camellia - Tornado \[Hurricane\]](https://osu.ppy.sh/beatmapsets/666454#mania/1410606) by [Fresh Chicken](https://osu.ppy.sh/users/3984370)
+- osu!: [TAROLIN feat. Katakiri Rekka - Cardinal Rave \[Cub's Insane\]](https://osu.ppy.sh/beatmapsets/1116399#osu/2355610) by ::Cubby::{ user-id=10914582 }
+- osu!taiko: [REDALiCE vs. USAO - SAIKYO STRONGER \[Oni\]](https://osu.ppy.sh/beatmapsets/1145432#taiko/2394331) by ::MMzz::{ user-id=128993 }
+- osu!catch: [Street - Sakura Fubuki \[Himiko's Expert\]](https://osu.ppy.sh/beatmapsets/1143608#fruits/2440597) by ::Yumeno Himiko::{ user-id=1806962 }
+- osu!mania: [Camellia - Tornado \[Hurricane\]](https://osu.ppy.sh/beatmapsets/666454#mania/1410606) by ::Fresh Chicken::{ user-id=3984370 }
 
 Congratulations to those who won! We're hoping to see such great creations in future seasons as well!
 

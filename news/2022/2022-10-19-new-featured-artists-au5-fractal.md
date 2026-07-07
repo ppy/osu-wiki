@@ -29,7 +29,7 @@ The editor awaits:
 
 ### Au5 & Fractal - Blue
 
-Check out [this classic map](https://osu.ppy.sh/beatmapsets/305381) by [Poggo](https://osu.ppy.sh/users/1367296) or [this newer rendition](https://osu.ppy.sh/beatmapsets/697327) by [Nozhomi](https://osu.ppy.sh/users/2716981)!
+Check out [this classic map](https://osu.ppy.sh/beatmapsets/305381) by ::Poggo::{ user-id=1367296 } or [this newer rendition](https://osu.ppy.sh/beatmapsets/697327) by ::Nozhomi::{ user-id=2716981 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/313/Secret%20Weapon%2FAu5%20%26%20Fractal%20-%20Blue.mp3" type="audio/mpeg">
@@ -37,7 +37,7 @@ Check out [this classic map](https://osu.ppy.sh/beatmapsets/305381) by [Poggo](h
 
 ### Au5 & Fractal - Halcyon
 
-Explore [the beatmap with the most inaccurate difficulty name in osu!](https://osu.ppy.sh/beatmapsets/1135050) hosted by [Mao](https://osu.ppy.sh/users/2204515)!
+Explore [the beatmap with the most inaccurate difficulty name in osu!](https://osu.ppy.sh/beatmapsets/1135050) hosted by ::Mao::{ user-id=2204515 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/313%2FMonstercat%20013%20-%20Awakening%2FAu5%20%26%20Fractal%20-%20Halcyon.mp3" type="audio/mpeg">
@@ -45,7 +45,7 @@ Explore [the beatmap with the most inaccurate difficulty name in osu!](https://o
 
 ### Au5 - Blossom
 
-Test your low-BPM accuracy with [this marathon](https://osu.ppy.sh/beatmapsets/1186559) hosted by [Nozhomi](https://osu.ppy.sh/users/2716981)!
+Test your low-BPM accuracy with [this marathon](https://osu.ppy.sh/beatmapsets/1186559) hosted by ::Nozhomi::{ user-id=2716981 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/312/Blossom%20EP%2FAu5%20-%20Blossom.mp3" type="audio/mpeg">
@@ -53,7 +53,7 @@ Test your low-BPM accuracy with [this marathon](https://osu.ppy.sh/beatmapsets/1
 
 ### Fractal - Spection
 
-Reach into the void with [this epic collab map](https://osu.ppy.sh/beatmapsets/942117) hosted by [NeilPerry](https://osu.ppy.sh/users/841391)!
+Reach into the void with [this epic collab map](https://osu.ppy.sh/beatmapsets/942117) hosted by ::NeilPerry::{ user-id=841391 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/313/Spection/Fractal%20-%20Spection.mp3" type="audio/mpeg">
@@ -61,7 +61,7 @@ Reach into the void with [this epic collab map](https://osu.ppy.sh/beatmapsets/9
 
 ### Au5 - Eden (feat. Danyka Nadeau)
 
-Try out [this marathon](https://osu.ppy.sh/beatmapsets/959999) hosted by [Ksardas](https://osu.ppy.sh/users/6115007)!
+Try out [this marathon](https://osu.ppy.sh/beatmapsets/959999) hosted by ::Ksardas::{ user-id=6115007 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/312/Eden/Au5%20-%20Eden%20(feat.%20Danyka%20Nadeau).mp3" type="audio/mpeg">
@@ -69,7 +69,7 @@ Try out [this marathon](https://osu.ppy.sh/beatmapsets/959999) hosted by [Ksarda
 
 ### Fractal - Collide (feat. Danyka Nadeau)
 
-The vocalist above makes a return in [another epic collab map](https://osu.ppy.sh/beatmapsets/753365) hosted by [NeilPerry](https://osu.ppy.sh/users/841391)!
+The vocalist above makes a return in [another epic collab map](https://osu.ppy.sh/beatmapsets/753365) hosted by ::NeilPerry::{ user-id=841391 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/313/Gaia/Fractal%20-%20Collide%20(feat.%20Danyka%20Nadeau).mp3" type="audio/mpeg">
@@ -77,7 +77,7 @@ The vocalist above makes a return in [another epic collab map](https://osu.ppy.s
 
 ### Au5 - Moonland
 
-If you're into insanely fast sliders, you'll want to marry [this map](https://osu.ppy.sh/beatmapsets/790382) by [Nowaie](https://osu.ppy.sh/users/5428909)!
+If you're into insanely fast sliders, you'll want to marry [this map](https://osu.ppy.sh/beatmapsets/790382) by ::Nowaie::{ user-id=5428909 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/312/Blossom%20EP%2FAu5%20-%20Moonland.mp3" type="audio/mpeg">
@@ -85,7 +85,7 @@ If you're into insanely fast sliders, you'll want to marry [this map](https://os
 
 ### Au5 feat. Trove - The Journey
 
-Continue your own journey with [this map](https://osu.ppy.sh/beatmapsets/1130730) hosted by [Azuelle](https://osu.ppy.sh/users/12518076)!
+Continue your own journey with [this map](https://osu.ppy.sh/beatmapsets/1130730) hosted by ::Azuelle::{ user-id=12518076 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/312/The%20Journey%2FAu5%20-%20The%20Journey%20(feat.%20Trove).mp3" type="audio/mpeg">
@@ -93,7 +93,7 @@ Continue your own journey with [this map](https://osu.ppy.sh/beatmapsets/1130730
 
 ### Fractal - Sanctum (feat. Amiya Inspiration)
 
-Cool down with [this (relatively) relaxing map](https://osu.ppy.sh/beatmapsets/365539) hosted by [Zectro](https://osu.ppy.sh/users/2594097)!
+Cool down with [this (relatively) relaxing map](https://osu.ppy.sh/beatmapsets/365539) hosted by ::Zectro::{ user-id=2594097 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/313/Gaia/Fractal%20-%20Sanctum%20(feat.%20Amiya%20Inspiration).mp3" type="audio/mpeg">

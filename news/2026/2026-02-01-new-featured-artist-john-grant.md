@@ -17,7 +17,7 @@ For **10** one-of-a-kind tracks in pre-timed `.osz` form, head to [**John Grant*
 
 ### John Grant - Toy Box
 
-Experience [the map from the video below](https://osu.ppy.sh/beatmapsets/2305059) hosted by [nik](https://osu.ppy.sh/users/10077264) or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/2222419) hosted by [Irone OSU](https://osu.ppy.sh/users/10678230)!
+Experience [the map from the video below](https://osu.ppy.sh/beatmapsets/2305059) hosted by ::nik::{ user-id=10077264 } or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/2222419) hosted by ::Irone OSU::{ user-id=10678230 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -27,7 +27,7 @@ Experience [the map from the video below](https://osu.ppy.sh/beatmapsets/2305059
 
 ### John Grant - Fabled Frontiers
 
-The moral of the fable: [this map](https://osu.ppy.sh/beatmapsets/2237488) hosted by [nik](https://osu.ppy.sh/users/10077264) is pretty good.
+The moral of the fable: [this map](https://osu.ppy.sh/beatmapsets/2237488) hosted by ::nik::{ user-id=10077264 } is pretty good.
 
 <audio controls class="osu-md__paragraph">
     <source src="https://assets.ppy.sh/artists/524/Songs/John%20Grant%20-%20Fabled%20Frontiers.mp3">

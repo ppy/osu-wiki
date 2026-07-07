@@ -13,7 +13,7 @@ Surely anyone familiar with the drum & bass scene knows about Boston-based produ
 
 We've pulled **10** tracks from his catalogue of work, all of which are masterpieces in their own right.
 
-To demonstrate exactly how these songs translate to mapping, we asked [BoshyMan741](https://osu.ppy.sh/users/4830687) to play a map of [*Tramontane*](https://osu.ppy.sh/beatmapsets/1016398) created by [Alumetri](https://osu.ppy.sh/users/5371497) while using a fully minimalist skin. See how it turned out, and check out the other song/map samples below:
+To demonstrate exactly how these songs translate to mapping, we asked ::BoshyMan741::{ user-id=4830687 } to play a map of [*Tramontane*](https://osu.ppy.sh/beatmapsets/1016398) created by ::Alumetri::{ user-id=5371497 } while using a fully minimalist skin. See how it turned out, and check out the other song/map samples below:
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ To demonstrate exactly how these songs translate to mapping, we asked [BoshyMan7
 
 ### Boxplot - Escape With The Clouds
 
-Play [the map that introduced Boxplot to osu!](https://osu.ppy.sh/beatmapsets/379897) created by [Strategas](https://osu.ppy.sh/users/2971837)!
+Play [the map that introduced Boxplot to osu!](https://osu.ppy.sh/beatmapsets/379897) created by ::Strategas::{ user-id=2971837 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/154/Escape%20with%20the%20Clouds/Boxplot%20-%20Escape%20With%20The%20Clouds.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Play [the map that introduced Boxplot to osu!](https://osu.ppy.sh/beatmapsets/37
 
 ### Boxplot - My Non-Existent Friend, Alice
 
-Check out [this map's 7 minutes of intense build-up](https://osu.ppy.sh/beatmapsets/1318025) created by [Ksardas](https://osu.ppy.sh/users/6115007)!
+Check out [this map's 7 minutes of intense build-up](https://osu.ppy.sh/beatmapsets/1318025) created by ::Ksardas::{ user-id=6115007 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/154/My%20Non-Existent%20Friend,%20Alice/Boxplot%20-%20My%20Non-Existent%20Friend,%20Alice.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ Bang drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1103353]) crea
 
 ### Boxplot - Escape With The Clouds (V.I.P)
 
-Check out [this new rendition of a classic](https://osu.ppy.sh/beatmapsets/1340790) hosted by [Spy_RO](https://osu.ppy.sh/users/10772404)!
+Check out [this new rendition of a classic](https://osu.ppy.sh/beatmapsets/1340790) hosted by ::Spy\1RO::{ user-id=10772404 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/154/Escape%20With%20the%20Clouds%20(V.I.P)/Boxplot%20-%20Escape%20With%20the%20Clouds%20(V.I.P).mp3" type="audio/mpeg">
@@ -55,7 +55,7 @@ Check out [this new rendition of a classic](https://osu.ppy.sh/beatmapsets/13407
 
 ### Idun Nicoline - Lost Without You (Boxplot Remix)
 
-Try playing [the easiest map of the bunch](https://osu.ppy.sh/beatmapsets/1314891) hosted by [Log Off Now](https://osu.ppy.sh/users/4378277)!
+Try playing [the easiest map of the bunch](https://osu.ppy.sh/beatmapsets/1314891) hosted by ::Log Off Now::{ user-id=4378277 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/154/Lost%20Without%20You%20(Boxplot%20Remix)/Idun%20Nicoline%20-%20Lost%20Without%20You%20(Boxplot%20Remix).mp3" type="audio/mpeg">

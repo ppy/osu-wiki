@@ -11,11 +11,11 @@ We're proud to welcome **Ritorikal** to our Featured Artist collection!
 
 Merging various influences, genres, and his own unending curiosity, producer **Ritorikal** has been generating tunes since as far back as 2009. While electronic music is his shtick, he tends to pull in more organic sounds on top (primarily strings, keys, and guitars), making for a less conventional EDM vibe.
 
-Oh, and **Ritorikal** is also [an osu! player](https://osu.ppy.sh/users/8061786), and with kindred musical influences like *MitiS*, *Seven Lions*, [*Koven*](https://osu.ppy.sh/beatmaps/artists/293), and *Virtual Riot*, we're certain that his sound will find a natural home in the community.
+Oh, and **Ritorikal** is also ::an osu! player::{ user-id=8061786 }, and with kindred musical influences like *MitiS*, *Seven Lions*, [*Koven*](https://osu.ppy.sh/beatmaps/artists/293), and *Virtual Riot*, we're certain that his sound will find a natural home in the community.
 
 Enough stalling. Start mapping by picking up any of the **12** tracks available on [**Ritorikal**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/305)!
 
-Need some persuasion? [Hinsvar](https://osu.ppy.sh/users/1249323) designed a full difficulty spread of [Synergy](https://osu.ppy.sh/beatmapsets/1742868), which you can either experience through watching this new way to play Hidden on osu!(lazer), or by slapping the circles on your own:
+Need some persuasion? ::Hinsvar::{ user-id=1249323 } designed a full difficulty spread of [Synergy](https://osu.ppy.sh/beatmapsets/1742868), which you can either experience through watching this new way to play Hidden on osu!(lazer), or by slapping the circles on your own:
 
 <div align="center">
     <video width="100%" controls>
@@ -25,7 +25,7 @@ Need some persuasion? [Hinsvar](https://osu.ppy.sh/users/1249323) designed a ful
 
 ### Ritorikal - Synergy
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1742868) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1742868) hosted by ::Hinsvar::{ user-id=1249323 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/305/Synergy/Ritorikal%20-%20Synergy.mp3" type="audio/mpeg">

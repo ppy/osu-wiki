@@ -23,7 +23,7 @@ In case you're looking for some inspiration, here's two instances of **ptar124**
 
 ### ptar124 & SiLiS - Ad infinitum \~ein sof\~
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/2159337) hosted by [frz](https://osu.ppy.sh/users/6956922)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/2159337) hosted by ::frz::{ user-id=6956922 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/409/Songs/Viatores%20Nebulae%20(ptar124%20%26%20SiLiS)%20-%20Ad%20infinitum%20%7Eein%20sof%7E.mp3">
@@ -31,7 +31,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/2159337)
 
 ### ptar124 - AmbidextrouS \~The Alchemist of The Left x The Sage of The Right\~
 
-Experience [an osu!catch tournament's Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/1698560) hosted by [Deif](https://osu.ppy.sh/users/318565)!
+Experience [an osu!catch tournament's Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/1698560) hosted by ::Deif::{ user-id=318565 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/409/Songs/ptar124%20-%20AmbidextrouS%20%7EThe%20Alchemist%20of%20The%20Left%20x%20The%20Sage%20of%20The%20Right%7E.mp3">
@@ -39,7 +39,7 @@ Experience [an osu!catch tournament's Grand Finals tiebreaker](https://osu.ppy.s
 
 ### ptar124 - aqua vitae feat. Kagamine Rin & Kagamine Len
 
-Or try [this osu! original revealed during last week's TWC stream](https://osu.ppy.sh/beatmapsets/2155621) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)!
+Or try [this osu! original revealed during last week's TWC stream](https://osu.ppy.sh/beatmapsets/2155621) hosted by ::Cynplytholowazy::{ user-id=3901754 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/409/Songs/ptar124%20-%20aqua%20vitae%20feat.%20Kagamine%20Rin%20%26%20Kagamine%20Len.mp3">

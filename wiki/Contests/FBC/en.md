@@ -25,37 +25,37 @@ The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?
 
 | Place | Mappers |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Secretpipe](https://osu.ppy.sh/users/2208964) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [rezoons](https://osu.ppy.sh/users/1893035) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: ::Secretpipe::{ user-id=2208964 } |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: ::Kin::{ user-id=480689 } |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: ::rezoons::{ user-id=1893035 } |
 
 ### osu!taiko Winners
 
 | Place | Mappers |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Nofool](https://osu.ppy.sh/users/672430) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Aldwych](https://osu.ppy.sh/users/1416484) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Gezoda](https://osu.ppy.sh/users/481582) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: ::Nofool::{ user-id=672430 } |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: ::Aldwych::{ user-id=1416484 } |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: ::Gezoda::{ user-id=481582 } |
 
 ### osu!mania Winners
 
 | Place | Mappers |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: [Julie](https://osu.ppy.sh/users/2420987) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Todestrieb](https://osu.ppy.sh/users/4056690) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: ::Julie::{ user-id=2420987 } |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: ::Todestrieb::{ user-id=4056690 } |
 
 ### osu!catch Winners
 
 | Place | Mappers |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [rezoons](https://osu.ppy.sh/users/1893035) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: ::rezoons::{ user-id=1893035 } |
 
 ### Organisation
 
 | Roles | Members |
 | :-- | :-- |
-| Host | ::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089) |
-| Judge | ::{ flag=PL }:: [Krfawy](https://osu.ppy.sh/users/1478292), ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596), ::{ flag=IT }:: [Leader](https://osu.ppy.sh/users/631530), ::{ flag=US }:: [OzzyOzrock](https://osu.ppy.sh/users/465153), ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253), ::{ flag=GB }:: [Mysticalia](https://osu.ppy.sh/users/2728676) |
+| Host | ::{ flag=FR }:: ::Kurai::{ user-id=77089 } |
+| Judge | ::{ flag=PL }:: ::Krfawy::{ user-id=1478292 }, ::{ flag=IT }:: ::-kevincela-::{ user-id=266596 }, ::{ flag=IT }:: ::Leader::{ user-id=631530 }, ::{ flag=US }:: ::OzzyOzrock::{ user-id=465153 }, ::{ flag=MX }:: ::DakeDekaane::{ user-id=1425253 }, ::{ flag=GB }:: ::Mysticalia::{ user-id=2728676 } |
 
 ### Links
 
@@ -74,16 +74,16 @@ The song picked for osu! and osu!catch was [Phantom Sage - Holystone](https://ww
 
 | Place | Mappers |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: [sheela](https://osu.ppy.sh/users/1138027) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Secretpipe](https://osu.ppy.sh/users/2208964) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: ::sheela::{ user-id=1138027 } |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: ::Secretpipe::{ user-id=2208964 } |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: ::Nozhomi::{ user-id=2716981 } |
 
 ### Organisation
 
 | Roles | Members |
 | :-- | :-- |
-| Host | ::{ flag=FR }:: [Ovoui](https://osu.ppy.sh/users/2282098) |
-| Judge | ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689), ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692), ::{ flag=AU }:: [sahuang](https://osu.ppy.sh/users/5318910) |
+| Host | ::{ flag=FR }:: ::Ovoui::{ user-id=2282098 } |
+| Judge | ::{ flag=FR }:: ::Kin::{ user-id=480689 }, ::{ flag=DE }:: ::Pho::{ user-id=3624692 }, ::{ flag=AU }:: ::sahuang::{ user-id=5318910 } |
 
 ### Links
 
@@ -102,16 +102,16 @@ The song picked for this contest edition was [ak+q - Excelsia](https://soundclou
 
 | Place | Mappers |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [BOUYAAA](https://osu.ppy.sh/users/405449) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: ::Sotarks::{ user-id=4452992 } |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: ::BOUYAAA::{ user-id=405449 } |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CH }:: ::Irreversible::{ user-id=1287964 } |
 
 ### Organisation
 
 | Roles | Members |
 | :-- | :-- |
-| Host | ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983), ::{ flag=CA }:: [Gabe](https://osu.ppy.sh/users/654108) |
-| Judge | ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689), ::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) |
+| Host | ::{ flag=FR }:: ::Pachiru::{ user-id=2850983 }, ::{ flag=CA }:: ::Gabe::{ user-id=654108 } |
+| Judge | ::{ flag=FR }:: ::Kin::{ user-id=480689 }, ::{ flag=FR }:: ::Kurai::{ user-id=77089 }, ::{ flag=FR }:: ::Nozhomi::{ user-id=2716981 }, ::{ flag=FR }:: ::Pachiru::{ user-id=2850983 } |
 
 ### Link
 
@@ -129,16 +129,16 @@ The song picked for this tournament edition was [Thaehan - Sunrise](https://www.
 
 | Place | Mappers |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: [celerih](https://osu.ppy.sh/users/4696296) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CA }:: [J1_](https://osu.ppy.sh/users/5918561), ::{ flag=FR }:: [PoNo](https://osu.ppy.sh/users/4610047) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: ::Realazy::{ user-id=918297 } |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: ::celerih::{ user-id=4696296 } |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CA }:: ::J1\1::{ user-id=5918561 }, ::{ flag=FR }:: ::PoNo::{ user-id=4610047 } |
 
 ### Organisation
 
 | Roles | Members |
 | :-- | :-- |
-| Host | ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983), ::{ flag=CA }:: [Gabe](https://osu.ppy.sh/users/654108) |
-| Judge | ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492), ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812), ::{ flag=US }:: [ailv](https://osu.ppy.sh/users/6933054), ::{ flag=IT }:: [MrSergio](https://osu.ppy.sh/users/2581696) |
+| Host | ::{ flag=FR }:: ::Pachiru::{ user-id=2850983 }, ::{ flag=CA }:: ::Gabe::{ user-id=654108 } |
+| Judge | ::{ flag=US }:: ::Hobbes2::{ user-id=8157492 }, ::{ flag=DE }:: ::Mir::{ user-id=8688812 }, ::{ flag=US }:: ::ailv::{ user-id=6933054 }, ::{ flag=IT }:: ::MrSergio::{ user-id=2581696 } |
 
 ### Links
 

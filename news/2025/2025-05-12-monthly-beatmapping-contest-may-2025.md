@@ -40,9 +40,9 @@ This contest's restriction: **all sliders must be straight lines**. Due to a hig
 
 | Placement | User | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [phyr](https://osu.ppy.sh/users/13181574) | [OISHII - ONIGIRI FREEWAY](https://osu.ppy.sh/beatmapsets/2365980) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (6 total) |
-| Runner-up | [fowwo](https://osu.ppy.sh/users/4547551) | [Akiri - Oracle](https://osu.ppy.sh/beatmapsets/2367563) | - | - | +1 (8 total) |
-| [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [-YeLing-](https://osu.ppy.sh/users/14726718) | Aethoro - Deertracks | - | - | +1 (1 total) |
+| Winner | ::phyr::{ user-id=13181574 } | [OISHII - ONIGIRI FREEWAY](https://osu.ppy.sh/beatmapsets/2365980) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (6 total) |
+| Runner-up | ::fowwo::{ user-id=4547551 } | [Akiri - Oracle](https://osu.ppy.sh/beatmapsets/2367563) | - | - | +1 (8 total) |
+| [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | ::-YeLing-::{ user-id=14726718 } | Aethoro - Deertracks | - | - | +1 (1 total) |
 
 #### Top submissions
 
@@ -52,7 +52,7 @@ This contest's restriction: **all sliders must be straight lines**. Due to a hig
 
 Since as far back as 2021, **phyr** has been pumping out maps for the Monthly Beatmapping Contest. Despite *still* having 0 Ranked maps, **phyr** has proven that you don't need to be an established mapper to join the hall of fame as one of osu!'s *Elite Mappers*.
 
-And of course, thanks to [Uberzolik](https://osu.ppy.sh/users/1314547), [velamy](https://osu.ppy.sh/users/15538779), [Andrea](https://osu.ppy.sh/users/33599), [Chromasia](https://osu.ppy.sh/users/7306251), [nuclei](https://osu.ppy.sh/users/25134566), [fllecc](https://osu.ppy.sh/users/14060327), [table tennis](https://osu.ppy.sh/users/17592067), [Mafumafu](https://osu.ppy.sh/users/3076909), and [plork](https://osu.ppy.sh/users/10994474) for screening this month's contest, plus [LaurKappita](https://osu.ppy.sh/users/23040683), [isle](https://osu.ppy.sh/users/8247685), [Snowflake](https://osu.ppy.sh/users/18688946), [LeCandy](https://osu.ppy.sh/users/6626249), [Daycore](https://osu.ppy.sh/users/5596337), and [GalenTori](https://osu.ppy.sh/users/5057420) for judging!
+And of course, thanks to ::Uberzolik::{ user-id=1314547 }, [velamy](https://osu.ppy.sh/users/15538779), ::Andrea::{ user-id=33599 }, [Chromasia](https://osu.ppy.sh/users/7306251), ::nuclei::{ user-id=25134566 }, [fllecc](https://osu.ppy.sh/users/14060327), ::table tennis::{ user-id=17592067 }, [Mafumafu](https://osu.ppy.sh/users/3076909), and ::plork::{ user-id=10994474 } for screening this month's contest, plus ::LaurKappita::{ user-id=23040683 }, [isle](https://osu.ppy.sh/users/8247685), ::Snowflake::{ user-id=18688946 }, [LeCandy](https://osu.ppy.sh/users/6626249), ::Daycore::{ user-id=5596337 }, and [GalenTori](https://osu.ppy.sh/users/5057420) for judging!
 
 ### osu!taiko results
 
@@ -62,8 +62,8 @@ This contest was themed around **finishers**. [See the full results here!](https
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Alchyr](https://osu.ppy.sh/users/4993032) | [Akiri - Symphony Of The Lost Souls](https://osu.ppy.sh/beatmapsets/2365975) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (4 total) |
-| Runner-up | [tasuke912](https://osu.ppy.sh/users/2774767) | [Chroma - Destroy, Destroy, Destroy The Happy End](https://osu.ppy.sh/beatmapsets/2367066) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +1 (4 total) |
+| Winner | ::Alchyr::{ user-id=4993032 } | [Akiri - Symphony Of The Lost Souls](https://osu.ppy.sh/beatmapsets/2365975) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (4 total) |
+| Runner-up | ::tasuke912::{ user-id=2774767 } | [Chroma - Destroy, Destroy, Destroy The Happy End](https://osu.ppy.sh/beatmapsets/2367066) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +1 (4 total) |
 
 #### Top submissions
 
@@ -71,7 +71,7 @@ This contest was themed around **finishers**. [See the full results here!](https
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/L7SMKpHMjvM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Send some appreciation to [BlackBN](https://osu.ppy.sh/users/6291741), [arcpotato](https://osu.ppy.sh/users/12842392), [meiqth](https://osu.ppy.sh/users/12565402), and [Yasuho](https://osu.ppy.sh/users/8458835) for judging this contest!
+Send some appreciation to ::BlackBN::{ user-id=6291741 }, [arcpotato](https://osu.ppy.sh/users/12842392), ::meiqth::{ user-id=12565402 }, and [Yasuho](https://osu.ppy.sh/users/8458835) for judging this contest!
 
 ## Game modes
 

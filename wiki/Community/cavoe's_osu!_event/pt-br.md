@@ -16,7 +16,7 @@ no_native_review: true
 
 :::
 
-**cavoe's osu! event** (***COE***) é  um evento anual de osu realizado na Holanda, criada por ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815). O evento inclui torneios e oferece espaço para os participantes trazerem seus respectivos setups, estandes de jogos, eventos no palo relacionados ao osu! e outras atividades.
+**cavoe's osu! event** (***COE***) é  um evento anual de osu realizado na Holanda, criada por ::{ flag=NL }:: ::cavoeboy::{ user-id=7361815 }. O evento inclui torneios e oferece espaço para os participantes trazerem seus respectivos setups, estandes de jogos, eventos no palo relacionados ao osu! e outras atividades.
 
 ## Iterações
 
@@ -39,7 +39,7 @@ no_native_review: true
 
 Chamado simplesmente de "osu! event", com cerca de 35 pessoas e durando 3 dias, o COE começou em 2017 como um "Encontro Nacional Holandês com visitantes de outros países" no café De Hangar em Eindhoven
 
-A edição de 2018 se expandiu em notoriedade com mais de 300 participantes e uma duração de 10 dias, apresentando grandes nomes como  ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) (conhecido como Cookiezi), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) (conhecido como BeasttrollMC), e ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828).
+A edição de 2018 se expandiu em notoriedade com mais de 300 participantes e uma duração de 10 dias, apresentando grandes nomes como  ::{ flag=KR }:: ::chocomint::{ user-id=124493 } (conhecido como Cookiezi), ::{ flag=US }:: ::BTMC::{ user-id=3171691 } (conhecido como BeasttrollMC), e ::{ flag=PL }:: ::WubWoofWolf::{ user-id=39828 }.
 
 COE 2019 transferiu suas operações para o Brabanthallen em 's-Hertogenbosch (também conhecida como Den Bosch). Com um espaço mais amplo e um palco maior, a convenção recebeu mais de 500 pessoas e ofereceu mais estandes de Realidade Virtual, eventos no palco e uma área VIP exclusiva
 

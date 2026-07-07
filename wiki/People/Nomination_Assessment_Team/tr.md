@@ -48,54 +48,54 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusça, Rusça | Evaluation |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Evaluation |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portekizce | Evaluation |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Felemenkçe | Evaluation |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Çince | Evaluation |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Almanca | Evaluation, structural |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Çince | Evaluation |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Structural |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kantonca, Çince | Evaluation |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Çince | Evaluation |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, structural |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Felemenkçe | Evaluation |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Lehçe | Evaluation |
+| ::{ flag=GB }:: ::-Mo-::{ user-id=2202163 } |  | Structural |
+| ::{ flag=BY }:: ::AirinCat::{ user-id=11119539 } | Belarusça, Rusça | Evaluation |
+| ::{ flag=HK }:: ::Chaoslitz::{ user-id=3621552 } | Kantonca, Çince | Evaluation |
+| ::{ flag=BR }:: ::Dada::{ user-id=9119507 } | Portekizce | Evaluation |
+| ::{ flag=AU }:: ::elicz1::{ user-id=8039342 } |  | Evaluation |
+| ::{ flag=BE }:: ::enneya::{ user-id=10959501 } | Felemenkçe | Evaluation |
+| ::{ flag=CN }:: ::Firika::{ user-id=9590557 } | Çince | Evaluation |
+| ::{ flag=DE }:: ::FuJu::{ user-id=10773882 } | Almanca | Evaluation, structural |
+| ::{ flag=CN }:: ::Garden::{ user-id=2849992 } | Çince | Evaluation |
+| ::{ flag=SE }:: ::Naxess::{ user-id=8129817 } | İsveççe | Structural |
+| ::{ flag=US }:: ::Noffy::{ user-id=1541323 } |  | Evaluation |
+| ::{ flag=HK }:: ::Petal::{ user-id=7354729 } | Kantonca, Çince | Evaluation |
+| ::{ flag=US }:: ::pishifat::{ user-id=3178418 } |  | Structural |
+| ::{ flag=CN }:: ::Ryuusei Aika::{ user-id=7777875 } | Çince | Evaluation |
+| ::{ flag=US }:: ::StarCastler::{ user-id=12402453 } |  | Evaluation, structural |
+| ::{ flag=BE }:: ::yaspo::{ user-id=4945926 } | Felemenkçe | Evaluation |
+| ::{ flag=US }:: ::Yogurtt::{ user-id=2649717 } |  | Evaluation |
+| ::{ flag=PL }:: ::Zelq::{ user-id=8953955 } | Lehçe | Evaluation |
 
 ### osu!taiko
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Almanca | Evaluation |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urduca, biraz Arapça | Evaluation |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arapça, Fransızca, biraz İtalyanca | Leadership |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portekizce | Evaluation |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |
+| ::{ flag=DE }:: ::Capu::{ user-id=2474015 } | Almanca | Evaluation |
+| ::{ flag=GB }:: ::Dusk-::{ user-id=6092181 } | Urduca, biraz Arapça | Evaluation |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | Arapça, Fransızca, biraz İtalyanca | Leadership |
+| ::{ flag=BR }:: ::Ideal::{ user-id=3869519 } | Portekizce | Evaluation |
+| ::{ flag=US }:: ::radar::{ user-id=7131099 } |  | Leadership |
 
 ### osu!catch
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | Evaluation |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Felemenkçe | Evaluation |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluation |
+| ::{ flag=ES }:: ::Deif::{ user-id=318565 } | İspanyolca, Almanca | Evaluation |
+| ::{ flag=NL }:: ::Greaper::{ user-id=2369776 } | Felemenkçe | Evaluation |
+| ::{ flag=US }:: ::Secre::{ user-id=2306637 } |  | Evaluation |
 
 ### osu!mania
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamca | Evaluation |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Çince | Evaluation |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Endonezce | Evaluation |
-| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danca | Evaluation |
+| ::{ flag=VN }:: ::Akasha-::{ user-id=2596306 } | Vietnamca | Evaluation |
+| ::{ flag=CN }:: ::gzdongsheng::{ user-id=8660315 } | Çince | Evaluation |
+| ::{ flag=ID }:: ::Maxus::{ user-id=4335785 } | Endonezce | Evaluation |
+| ::{ flag=DK }:: ::Tailsdk::{ user-id=6751666 } | Danca | Evaluation |
 
 ### Bot hesaplar
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
+| ::{ flag=XX }:: ::Nomination Assessment Team::{ user-id=6616586 } |  |  |

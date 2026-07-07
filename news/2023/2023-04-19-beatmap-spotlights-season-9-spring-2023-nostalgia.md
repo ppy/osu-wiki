@@ -47,8 +47,8 @@ A big thank you to everyone who voted!
 
 ![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1659645.jpg)
 
-**[GONE.Fludd - TRAXXXMANIA [XXXTR]](https://osu.ppy.sh/beatmapsets/1659645#osu/3387976)**, mapped by [jamesjan3](https://osu.ppy.sh/users/6260705)\
-*primarily suggested and described by [DeviousPanda](https://osu.ppy.sh/users/4966334)*
+**[GONE.Fludd - TRAXXXMANIA [XXXTR]](https://osu.ppy.sh/beatmapsets/1659645#osu/3387976)**, mapped by ::jamesjan3::{ user-id=6260705 }\
+*primarily suggested and described by ::DeviousPanda::{ user-id=4966334 }*
 
 TRAXXXMANIA is another classic banger by jamesjan3, pairing a catchy song with even more addicting mapping, this map was voted the best spotlights map by players for a reason.
 
@@ -60,9 +60,9 @@ When you do play this, make sure to turn the storyboard on to see the duck spin 
 
 ![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1638064.jpg)
 
-**[Early Eyes - Marigolds [Sunbathing]](https://osu.ppy.sh/beatmapsets/1638064#osu/3343502)**, mapped by [wafer](https://osu.ppy.sh/users/9416836)\
-*primarily suggested by [Omgforz](https://osu.ppy.sh/users/578943)*\
-*described by [enri](https://osu.ppy.sh/users/8640970) and [Nowaie](https://osu.ppy.sh/users/5428909)*
+**[Early Eyes - Marigolds [Sunbathing]](https://osu.ppy.sh/beatmapsets/1638064#osu/3343502)**, mapped by ::wafer::{ user-id=9416836 }\
+*primarily suggested by ::Omgforz::{ user-id=578943 }*\
+*described by ::enri::{ user-id=8640970 } and [Nowaie](https://osu.ppy.sh/users/5428909)*
 
 If you wanna sunbathe in the dreamy atmosphere of indie pop, we've got just the thing for you!
 
@@ -80,9 +80,9 @@ Regardless of whether you have years of experience or are just starting out, you
 
 ![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1215016.jpg)
 
-**[The Flashbulb - The Bridgeport Run [Oni]](https://osu.ppy.sh/beatmapsets/1215016#taiko/3302085)**, mapped by [Faputa](https://osu.ppy.sh/users/845733)\
-*primarily suggested by [[Zeth]](https://osu.ppy.sh/users/9912966)*\
-*described by [Nifty](https://osu.ppy.sh/users/4956097)*
+**[The Flashbulb - The Bridgeport Run [Oni]](https://osu.ppy.sh/beatmapsets/1215016#taiko/3302085)**, mapped by ::Faputa::{ user-id=845733 }\
+*primarily suggested by ::\1Zeth\1::{ user-id=9912966 }*\
+*described by ::Nifty::{ user-id=4956097 }*
 
 The players kept it simple, nominating Faputa’s interpretation of The Flashbulb’s *The Bridgeport Run* \[Oni\] as their map of the season.
 
@@ -92,9 +92,9 @@ Known primarily for the variety present in the top difficulties, this map also i
 
 ![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1828466.jpg)
 
-**[KAF x Hakushi Hasegawa - TSUBOMI ni KAMINARI [withered petals, blooming ink]](https://osu.ppy.sh/beatmapsets/1828466#taiko/3752713)**, mapped by [[Zeth]](https://osu.ppy.sh/users/9912966), [cdh](https://osu.ppy.sh/users/2403621), and [MTNTWarz](https://osu.ppy.sh/users/14036825)\
-*primarily suggested by [Hivie](https://osu.ppy.sh/users/14102976)*\
-*described by [Nifty](https://osu.ppy.sh/users/4956097)*
+**[KAF x Hakushi Hasegawa - TSUBOMI ni KAMINARI [withered petals, blooming ink]](https://osu.ppy.sh/beatmapsets/1828466#taiko/3752713)**, mapped by ::\1Zeth\1::{ user-id=9912966 }, [cdh](https://osu.ppy.sh/users/2403621), and ::MTNTWarz::{ user-id=14036825 }\
+*primarily suggested by ::Hivie::{ user-id=14102976 }*\
+*described by ::Nifty::{ user-id=4956097 }*
 
 *withered petals, blooming in*\
 *new life from faded dreams*\
@@ -112,9 +112,9 @@ If you haven’t already played this map, give it a try!
 
 ![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1769575.jpg)
 
-**[cYsmix - Peer Gynt (Mniam) [oVerdose]](https://osu.ppy.sh/beatmapsets/1769575#fruits/3622391)**, mapped by [Mniam](https://osu.ppy.sh/users/6050530)\
-*primarily suggested by [wwwww](https://osu.ppy.sh/users/8434466)*\
-*described by [WadBot](https://osu.ppy.sh/users/14571181)*
+**[cYsmix - Peer Gynt (Mniam) [oVerdose]](https://osu.ppy.sh/beatmapsets/1769575#fruits/3622391)**, mapped by ::Mniam::{ user-id=6050530 }\
+*primarily suggested by ::wwwww::{ user-id=8434466 }*\
+*described by ::WadBot::{ user-id=14571181 }*
 
 Are you a fan of long sliders, tap dashes, and wiggles? Of low-approach rate, low-bpm Overdoses? If you answered yes to either of those, Peer Gynt (as mapped by multi-MCA winner Mniam) might just be the map for you! Also featured in the 2022 osu!catch World Cup Round of 32 NoMod pool, this is our player's pick this season.
 
@@ -124,9 +124,9 @@ Personally, we'd recommend playing this map with Double Time, if you're looking 
 
 ![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1774562.jpg)
 
-**[kanemiko - Electrolytes (Unlucky_w) [Deluge]](https://osu.ppy.sh/beatmapsets/1774562#fruits/3633671)**, mapped by [Unlucky_w](https://osu.ppy.sh/users/4820793)\
-*primarily suggested by [WadBot](https://osu.ppy.sh/users/14571181)*\
-*described by [wwwww](https://osu.ppy.sh/users/8434466)*
+**[kanemiko - Electrolytes (Unlucky_w) [Deluge]](https://osu.ppy.sh/beatmapsets/1774562#fruits/3633671)**, mapped by ::Unlucky\1w::{ user-id=4820793 }\
+*primarily suggested by ::WadBot::{ user-id=14571181 }*\
+*described by ::wwwww::{ user-id=8434466 }*
 
 This spotlights season, we have been told that we have a *tie*. Despite this fact, we'd like to talk a bit about THE ACTUAL WINNER for this season.
 
@@ -134,9 +134,9 @@ We consider electrolytes to be an absolute phenomenal display of Unlucky_w's bes
 
 ![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1810556.jpg)
 
-**[Camellia - Ryuuseigun [Byeol]](https://osu.ppy.sh/beatmapsets/1810556#fruits/3713590)**, mapped by [Rocma](https://osu.ppy.sh/users/566276)\
-*primarily suggested by [WadBot](https://osu.ppy.sh/users/14571181)*\
-*described by [Phob](https://osu.ppy.sh/users/6069462)*
+**[Camellia - Ryuuseigun [Byeol]](https://osu.ppy.sh/beatmapsets/1810556#fruits/3713590)**, mapped by ::Rocma::{ user-id=566276 }\
+*primarily suggested by ::WadBot::{ user-id=14571181 }*\
+*described by ::Phob::{ user-id=6069462 }*
 
 We deeply apologize for the misinformation-spreading troll above, they're really getting out of control lately. Jokes aside, let's move on to the REAL, INDISPUTABLE winner of this season.
 
@@ -150,9 +150,9 @@ There is, however, one big flaw about Ryuuseigun, which is its criminally low pl
 
 ![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1721944.jpg)
 
-**[ReeK - Multigenre Smackdown [[4K] TESTESTESTESTESTESTESTESTEST]](https://osu.ppy.sh/beatmapsets/1721944#mania/3519359)**, mapped by [[Crz]hinako1804](https://osu.ppy.sh/users/13747903)\
-*primarily suggested by [Kibitz](https://osu.ppy.sh/users/7418493)*\
-*described by [Maxus](https://osu.ppy.sh/users/4335785)*
+**[ReeK - Multigenre Smackdown [[4K] TESTESTESTESTESTESTESTESTEST]](https://osu.ppy.sh/beatmapsets/1721944#mania/3519359)**, mapped by ::\1Crz\1hinako1804::{ user-id=13747903 }\
+*primarily suggested by ::Kibitz::{ user-id=7418493 }*\
+*described by ::Maxus::{ user-id=4335785 }*
 
 Hinako has come into the fray with one of the most dynamic and versatile marathon chart to enter the Spotlights! His ability to conceptualize his ideas and also the abundant amount of variation within each section is the main selling point that makes it the player's popular choice of the season.
 
@@ -164,8 +164,8 @@ Certainly, this pick is one of the pinnacle examples of how a challenging and fu
 
 #### Curators' Pick
 
-**[\[REDACTED\]](https://osu.ppy.sh/beatmapsets/1756972#mania/3595522)**, mapped by [Ryax](https://osu.ppy.sh/users/8949769)\
-*primarily suggested and described by [Crumpey](https://osu.ppy.sh/users/3518705)*
+**[\[REDACTED\]](https://osu.ppy.sh/beatmapsets/1756972#mania/3595522)**, mapped by ::Ryax::{ user-id=8949769 }\
+*primarily suggested and described by ::Crumpey::{ user-id=3518705 }*
 
 Ryax's debut to the ranked scene sure won't be forgotten soon with his ranked map.
 
@@ -190,16 +190,16 @@ We will also say farewell to some, so let's thank them for their long-lasting ef
 
 **Curator additions:**
 
-- **osu!**: [enri](https://osu.ppy.sh/users/8640970), [Kingling](https://osu.ppy.sh/users/7010761), [KnightC0re](https://osu.ppy.sh/users/7894340), [piroshki](https://osu.ppy.sh/users/7645522), [rHO](https://osu.ppy.sh/users/1629553)
-- **osu!taiko**: [Boaz](https://osu.ppy.sh/users/13302996), [Maimaing](https://osu.ppy.sh/users/14520910), [meiqth](https://osu.ppy.sh/users/12565402)
-- **osu!catch**: [M0RU](https://osu.ppy.sh/users/13681464), [Phob](https://osu.ppy.sh/users/6069462)
-- **osu!mania**: [AWMRone](https://osu.ppy.sh/users/10351684), [Ilham](https://osu.ppy.sh/users/3057154), [Seulgi](https://osu.ppy.sh/users/4918394), [YuEast 2018](https://osu.ppy.sh/users/13953619)
+- **osu!**: ::enri::{ user-id=8640970 }, [Kingling](https://osu.ppy.sh/users/7010761), ::KnightC0re::{ user-id=7894340 }, [piroshki](https://osu.ppy.sh/users/7645522), ::rHO::{ user-id=1629553 }
+- **osu!taiko**: ::Boaz::{ user-id=13302996 }, [Maimaing](https://osu.ppy.sh/users/14520910), ::meiqth::{ user-id=12565402 }
+- **osu!catch**: ::M0RU::{ user-id=13681464 }, [Phob](https://osu.ppy.sh/users/6069462)
+- **osu!mania**: ::AWMRone::{ user-id=10351684 }, [Ilham](https://osu.ppy.sh/users/3057154), ::Seulgi::{ user-id=4918394 }, [YuEast 2018](https://osu.ppy.sh/users/13953619)
 
 **Curator resignations:**
 
-- **osu!**: [Omgforz](https://osu.ppy.sh/users/578943)
-- **osu!taiko**: [[Zeth]](https://osu.ppy.sh/users/9912966)
-- **osu!mania**: [Kibitz](https://osu.ppy.sh/users/7418493), [lenpai](https://osu.ppy.sh/users/5314573)
+- **osu!**: ::Omgforz::{ user-id=578943 }
+- **osu!taiko**: ::\1Zeth\1::{ user-id=9912966 }
+- **osu!mania**: ::Kibitz::{ user-id=7418493 }, [lenpai](https://osu.ppy.sh/users/5314573)
 
 For the full Spotlights Team members list, check out the [Beatmap Spotlight Curators wiki article](/wiki/People/The_Team/Beatmap_Spotlight_Curators).
 
@@ -241,57 +241,57 @@ The Rhythm Incarnate tier threshold is picked manually based on the season's par
 
 #### Playlist A (Nostalgia)
 
-- [Outkast - Hey Ya! (Lesjuh) \[Hey Lesjuh!\]](https://osu.ppy.sh/beatmapsets/10605#osu/42654), suggested by [Lefafel](https://osu.ppy.sh/users/2295850)
-- [La Cataline - Fade (La Cataline) \[Hard\]](https://osu.ppy.sh/beatmapsets/38348#osu/122780), suggested by [Zelq](https://osu.ppy.sh/users/8953955)
-- [Dio ft. Sef - Tijdmachine (Lesjuh) \[Lesjuh! '09\]](https://osu.ppy.sh/beatmapsets/6997#osu/129874), suggested by [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- [Daisuke Achiwa - BASARA (100pa-) \[BASARA\]](https://osu.ppy.sh/beatmapsets/13019#osu/48416), suggested by [ChillierPear](https://osu.ppy.sh/users/9501251)
-- [Caramell - Caramelldansen (Speedycake Remix) (Lesjuh) \[LESJUH DIFFICULTY!!\]](https://osu.ppy.sh/beatmapsets/7380#osu/43423), suggested by [Zelq](https://osu.ppy.sh/users/8953955)
-- [Tsukasa - Heaven's Race Guitar Style (La Cataline) \[Collab\]](https://osu.ppy.sh/beatmapsets/41974#osu/132260), suggested by [Omgforz](https://osu.ppy.sh/users/578943)
-- [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#osu/96523), suggested by [Lefafel](https://osu.ppy.sh/users/2295850)
-- [Hatsune Miku - With a Dance Number (val0108) \[0108 style\]](https://osu.ppy.sh/beatmapsets/29691#osu/98415), suggested by [Nowaie](https://osu.ppy.sh/users/5428909)
-- [The Ghost Of 3.13 - Forgotten (grumd) \[grumd\]](https://osu.ppy.sh/beatmapsets/55560#osu/169841), suggested by [Riot](https://osu.ppy.sh/users/4256461)
+- [Outkast - Hey Ya! (Lesjuh) \[Hey Lesjuh!\]](https://osu.ppy.sh/beatmapsets/10605#osu/42654), suggested by ::Lefafel::{ user-id=2295850 }
+- [La Cataline - Fade (La Cataline) \[Hard\]](https://osu.ppy.sh/beatmapsets/38348#osu/122780), suggested by ::Zelq::{ user-id=8953955 }
+- [Dio ft. Sef - Tijdmachine (Lesjuh) \[Lesjuh! '09\]](https://osu.ppy.sh/beatmapsets/6997#osu/129874), suggested by ::DigitalHypno::{ user-id=4384207 }
+- [Daisuke Achiwa - BASARA (100pa-) \[BASARA\]](https://osu.ppy.sh/beatmapsets/13019#osu/48416), suggested by ::ChillierPear::{ user-id=9501251 }
+- [Caramell - Caramelldansen (Speedycake Remix) (Lesjuh) \[LESJUH DIFFICULTY!!\]](https://osu.ppy.sh/beatmapsets/7380#osu/43423), suggested by ::Zelq::{ user-id=8953955 }
+- [Tsukasa - Heaven's Race Guitar Style (La Cataline) \[Collab\]](https://osu.ppy.sh/beatmapsets/41974#osu/132260), suggested by ::Omgforz::{ user-id=578943 }
+- [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#osu/96523), suggested by ::Lefafel::{ user-id=2295850 }
+- [Hatsune Miku - With a Dance Number (val0108) \[0108 style\]](https://osu.ppy.sh/beatmapsets/29691#osu/98415), suggested by ::Nowaie::{ user-id=5428909 }
+- [The Ghost Of 3.13 - Forgotten (grumd) \[grumd\]](https://osu.ppy.sh/beatmapsets/55560#osu/169841), suggested by ::Riot::{ user-id=4256461 }
 
 ### osu!taiko
 
 #### Playlist A (Nostalgia)
 
-- [kors k feat.Yoshikawa Sunao - 7 Colors (Naryuga) \[Naryuga's Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/148397#taiko/369596), suggested by [uone](https://osu.ppy.sh/users/5321719)
-- [M2U - Gypsy Tronic (lepidopodus) \[lepidon! - Muzukashii\]](https://osu.ppy.sh/beatmapsets/100445#taiko/332289), suggested by [uone](https://osu.ppy.sh/users/5321719)
-- [LeaF - Calamity Fortune (TKS) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/96103#taiko/263683), suggested by [Nifty](https://osu.ppy.sh/users/4956097)
-- [capitaro - Yoiduki Maiuta (hs714) \[714's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/70057#taiko/206233), suggested by [uone](https://osu.ppy.sh/users/5321719)
-- [Caravan Palace - Dragons (MMzz) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/46733#taiko/145511), suggested by [uone](https://osu.ppy.sh/users/5321719)
-- [Comp - Gensou no Satellite (Nwolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/122757#taiko/313792), suggested by [Nifty](https://osu.ppy.sh/users/4956097)
-- [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/140418#taiko/350721), suggested by [\[Zeth\]](https://osu.ppy.sh/users/9912966)
-- [Renard - Terminal (mintong89) \[mint's Inner Oni\]](https://osu.ppy.sh/beatmapsets/102282#taiko/291218), suggested by [uone](https://osu.ppy.sh/users/5321719)
-- [LeaF - MEPHISTO (TKS) \[TK'S Inner Oni\]](https://osu.ppy.sh/beatmapsets/106212#taiko/284037), suggested by [uone](https://osu.ppy.sh/users/5321719)
+- [kors k feat.Yoshikawa Sunao - 7 Colors (Naryuga) \[Naryuga's Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/148397#taiko/369596), suggested by ::uone::{ user-id=5321719 }
+- [M2U - Gypsy Tronic (lepidopodus) \[lepidon! - Muzukashii\]](https://osu.ppy.sh/beatmapsets/100445#taiko/332289), suggested by ::uone::{ user-id=5321719 }
+- [LeaF - Calamity Fortune (TKS) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/96103#taiko/263683), suggested by ::Nifty::{ user-id=4956097 }
+- [capitaro - Yoiduki Maiuta (hs714) \[714's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/70057#taiko/206233), suggested by ::uone::{ user-id=5321719 }
+- [Caravan Palace - Dragons (MMzz) \[MM's Taiko\]](https://osu.ppy.sh/beatmapsets/46733#taiko/145511), suggested by ::uone::{ user-id=5321719 }
+- [Comp - Gensou no Satellite (Nwolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/122757#taiko/313792), suggested by ::Nifty::{ user-id=4956097 }
+- [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/140418#taiko/350721), suggested by ::\[Zeth\]::{ user-id=9912966 }
+- [Renard - Terminal (mintong89) \[mint's Inner Oni\]](https://osu.ppy.sh/beatmapsets/102282#taiko/291218), suggested by ::uone::{ user-id=5321719 }
+- [LeaF - MEPHISTO (TKS) \[TK'S Inner Oni\]](https://osu.ppy.sh/beatmapsets/106212#taiko/284037), suggested by ::uone::{ user-id=5321719 }
 
 ### osu!catch
 
 #### Playlist A (Nostalgia)
 
-- [CLIFF EDGE - Endless Tears feat. Nakamura Maiko (CLSW) \[Platter\]](https://osu.ppy.sh/beatmapsets/197689#fruits/485404), suggested by [wonjae](https://osu.ppy.sh/users/5032045)
-- [Rita - Hajimari no Toki (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/91485#fruits/247642), suggested by [wwwww](https://osu.ppy.sh/users/8434466)
-- [Mili - Utopiosphere (Spectator) \[Ecstasia\]](https://osu.ppy.sh/beatmapsets/187177#fruits/446769), suggested by [Kimitakari](https://osu.ppy.sh/users/4741164)
-- [Persona - Area184 (autofanboy) \[Rain184\]](https://osu.ppy.sh/beatmapsets/160955#fruits/393051), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
-- [Hylian Lemon - Foresight Is for Losers (ZiRoX & Deif) \[Collab Rain\]](https://osu.ppy.sh/beatmapsets/342751#fruits/757539), suggested by [wonjae](https://osu.ppy.sh/users/5032045)
-- [void feat. Komatsuna - Akatsuki no Tsuki (Spectator) \[Oriental\]](https://osu.ppy.sh/beatmapsets/297668#fruits/668162), suggested by [wonjae](https://osu.ppy.sh/users/5032045)
-- [Halozy - Genryuu Kaiko (CLSW) \[Distorted Scythe\]](https://osu.ppy.sh/beatmapsets/253969#fruits/582801), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
-- [Camellia - dreamless wanderer (CLSW) \[Crystal's Overdose\]](https://osu.ppy.sh/beatmapsets/286414#fruits/686374), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
-- [KOTOKO - Wing my way (ZHSteven) \[Hell-Jumping\]](https://osu.ppy.sh/beatmapsets/17744#fruits/328412), suggested by [wonjae](https://osu.ppy.sh/users/5032045)
+- [CLIFF EDGE - Endless Tears feat. Nakamura Maiko (CLSW) \[Platter\]](https://osu.ppy.sh/beatmapsets/197689#fruits/485404), suggested by ::wonjae::{ user-id=5032045 }
+- [Rita - Hajimari no Toki (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/91485#fruits/247642), suggested by ::wwwww::{ user-id=8434466 }
+- [Mili - Utopiosphere (Spectator) \[Ecstasia\]](https://osu.ppy.sh/beatmapsets/187177#fruits/446769), suggested by ::Kimitakari::{ user-id=4741164 }
+- [Persona - Area184 (autofanboy) \[Rain184\]](https://osu.ppy.sh/beatmapsets/160955#fruits/393051), suggested by ::SadEgg::{ user-id=10278243 }
+- [Hylian Lemon - Foresight Is for Losers (ZiRoX & Deif) \[Collab Rain\]](https://osu.ppy.sh/beatmapsets/342751#fruits/757539), suggested by ::wonjae::{ user-id=5032045 }
+- [void feat. Komatsuna - Akatsuki no Tsuki (Spectator) \[Oriental\]](https://osu.ppy.sh/beatmapsets/297668#fruits/668162), suggested by ::wonjae::{ user-id=5032045 }
+- [Halozy - Genryuu Kaiko (CLSW) \[Distorted Scythe\]](https://osu.ppy.sh/beatmapsets/253969#fruits/582801), suggested by ::SadEgg::{ user-id=10278243 }
+- [Camellia - dreamless wanderer (CLSW) \[Crystal's Overdose\]](https://osu.ppy.sh/beatmapsets/286414#fruits/686374), suggested by ::SadEgg::{ user-id=10278243 }
+- [KOTOKO - Wing my way (ZHSteven) \[Hell-Jumping\]](https://osu.ppy.sh/beatmapsets/17744#fruits/328412), suggested by ::wonjae::{ user-id=5032045 }
 
 ### osu!mania
 
 #### Playlist A (Nostalgia)
 
-- [8284 vs wa. - Adularescence (Marirose) \[5K Hyper\]](https://osu.ppy.sh/beatmapsets/337035#mania/745762), suggested by [Protastic101](https://osu.ppy.sh/users/6712747)
-- [AKINO from bless4 - MIIRO (Ayachi-) \[\[4K\] Poi\]](https://osu.ppy.sh/beatmapsets/288794#mania/652299), suggested by [Crumpey](https://osu.ppy.sh/users/3518705)
-- [Rissyu - uni (HanzeR) \[\[7K\] Insane\]](https://osu.ppy.sh/beatmapsets/84156#mania/232025), suggested by [lenpai](https://osu.ppy.sh/users/5314573)
-- [Seiryu - Critical Crystal (Sandalphon) \[\[4K\] Another\]](https://osu.ppy.sh/beatmapsets/376340#mania/823920), suggested by [Antalf](https://osu.ppy.sh/users/8793773)
-- [Camellia - overcomplexification (Starry-) \[\[4K\] Lv.10\]](https://osu.ppy.sh/beatmapsets/323493#mania/718998), suggested by [Hydria](https://osu.ppy.sh/users/808176)
-- [Ayane - Endless Tears... (ljqandylee) \[\[7K\] CrossOver\]](https://osu.ppy.sh/beatmapsets/201476#mania/477041), suggested by [MadBricktree](https://osu.ppy.sh/users/4790958)
-- [Yooh - Ice Angel (pporse) \[\[7K\] Euphoria\]](https://osu.ppy.sh/beatmapsets/379365#mania/830448), suggested by [Maxus](https://osu.ppy.sh/users/4335785)
-- [Camellia as "Bang Riot" - Blastix Riotz (Jinjin) \[\[4K\] Jinjin's INFINITE\]](https://osu.ppy.sh/beatmapsets/349208#mania/789784), suggested by [Kibitz](https://osu.ppy.sh/users/7418493)
-- [DragonForce - The Warrior Inside (\_underjoy) \[6K Collab Guardian\]](https://osu.ppy.sh/beatmapsets/330405#mania/1038663), suggested by [Antalf](https://osu.ppy.sh/users/8793773)
+- [8284 vs wa. - Adularescence (Marirose) \[5K Hyper\]](https://osu.ppy.sh/beatmapsets/337035#mania/745762), suggested by ::Protastic101::{ user-id=6712747 }
+- [AKINO from bless4 - MIIRO (Ayachi-) \[\[4K\] Poi\]](https://osu.ppy.sh/beatmapsets/288794#mania/652299), suggested by ::Crumpey::{ user-id=3518705 }
+- [Rissyu - uni (HanzeR) \[\[7K\] Insane\]](https://osu.ppy.sh/beatmapsets/84156#mania/232025), suggested by ::lenpai::{ user-id=5314573 }
+- [Seiryu - Critical Crystal (Sandalphon) \[\[4K\] Another\]](https://osu.ppy.sh/beatmapsets/376340#mania/823920), suggested by ::Antalf::{ user-id=8793773 }
+- [Camellia - overcomplexification (Starry-) \[\[4K\] Lv.10\]](https://osu.ppy.sh/beatmapsets/323493#mania/718998), suggested by ::Hydria::{ user-id=808176 }
+- [Ayane - Endless Tears... (ljqandylee) \[\[7K\] CrossOver\]](https://osu.ppy.sh/beatmapsets/201476#mania/477041), suggested by ::MadBricktree::{ user-id=4790958 }
+- [Yooh - Ice Angel (pporse) \[\[7K\] Euphoria\]](https://osu.ppy.sh/beatmapsets/379365#mania/830448), suggested by ::Maxus::{ user-id=4335785 }
+- [Camellia as "Bang Riot" - Blastix Riotz (Jinjin) \[\[4K\] Jinjin's INFINITE\]](https://osu.ppy.sh/beatmapsets/349208#mania/789784), suggested by ::Kibitz::{ user-id=7418493 }
+- [DragonForce - The Warrior Inside (\_underjoy) \[6K Collab Guardian\]](https://osu.ppy.sh/beatmapsets/330405#mania/1038663), suggested by ::Antalf::{ user-id=8793773 }
 
 ## The future
 

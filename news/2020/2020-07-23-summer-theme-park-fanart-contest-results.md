@@ -21,77 +21,77 @@ Without further ado, let's get straight into it:
 
 [![](https://assets.ppy.sh/contests/107/banners/Shuuzo.jpg)](https://assets.ppy.sh/contests/107/winners/Shuuzo.png)
 
-Leading the pack by a healthy margin, [**Shuuzo**](https://osu.ppy.sh/users/3661521) is our grand victor for this contest with a whopping **5966** votes detailing their take on a casual pippi enjoying a lakeside crepe overlooking a ferris wheel and rollercoaster.
+Leading the pack by a healthy margin, ::**Shuuzo**::{ user-id=3661521 } is our grand victor for this contest with a whopping **5966** votes detailing their take on a casual pippi enjoying a lakeside crepe overlooking a ferris wheel and rollercoaster.
 
 Stunning use of colour, composition and cute combine to create something truly special, as is plain by the sheer number of votes it received. Well done!
 
 [![](https://assets.ppy.sh/contests/107/banners/AnimeAttics.jpg)](https://assets.ppy.sh/contests/107/winners/AnimeAttics.png)
 
-In second place with **5605** votes, [**AnimeAttics**](https://osu.ppy.sh/users/14876991) wowed crowds with a well-dressed Chirou waiting for you with an excited don at the gates to an osu!-branded theme park.
+In second place with **5605** votes, ::**AnimeAttics**::{ user-id=14876991 } wowed crowds with a well-dressed Chirou waiting for you with an excited don at the gates to an osu!-branded theme park.
 
 Striking use of shade and shadowing to produce that classic summer feeling really elevate this piece, especially when Chirou is also rendered so stupendously gorgeous at the same time.
 
 [![](https://assets.ppy.sh/contests/107/banners/Sjao.jpg)](https://assets.ppy.sh/contests/107/winners/Sjao.png)
 
-[**Sjao**](https://osu.ppy.sh/users/7295733) is back at it again, scoring **5052** votes with their evocative piece of a very excited and casually-attired Mocha dragging someone to their ferris wheeled fate. Or perhaps to the rollercoaster.
+::**Sjao**::{ user-id=7295733 } is back at it again, scoring **5052** votes with their evocative piece of a very excited and casually-attired Mocha dragging someone to their ferris wheeled fate. Or perhaps to the rollercoaster.
 
 Either way, you're coming along, and it isn't surprising in the slightest that this picked up third place overall. Simply superb.
 
 [![](https://assets.ppy.sh/contests/107/banners/xxxxxx2800.jpg)](https://assets.ppy.sh/contests/107/winners/xxxxxx2800.png)
 
-Scoring **4877** votes, [**xxxxxx2800**](https://osu.ppy.sh/users/4084853)'s take on Maria, pippi and Chirou enjoying some candy at an all-gamemodes theme park impressed voters for sure.
+Scoring **4877** votes, ::**xxxxxx2800**::{ user-id=4084853 }'s take on Maria, pippi and Chirou enjoying some candy at an all-gamemodes theme park impressed voters for sure.
 
 [![](https://assets.ppy.sh/contests/107/banners/KrisyYy.jpg)](https://assets.ppy.sh/contests/107/winners/KrisyYy.png)
 
-Edging in as the last of the badge-winning finalists with **4791** votes, [**KrisyYy**](https://osu.ppy.sh/users/7266506)'s take on a more maturely-fashioned Mocha and inexplicable catgirl pippi enjoying the seaside view from atop a ferris wheel was well ahead of the rest of the pack, and for good reason.
+Edging in as the last of the badge-winning finalists with **4791** votes, ::**KrisyYy**::{ user-id=7266506 }'s take on a more maturely-fashioned Mocha and inexplicable catgirl pippi enjoying the seaside view from atop a ferris wheel was well ahead of the rest of the pack, and for good reason.
 
 It may be hard to take your eyes off the mascots, but a little attention diverted to the scenic background reveals a stunning amount of attention to detail, including things like the little rocks on the beach, the wash of the coastline and even the specular refraction off the ocean and ride compartment. Awesome stuff.
 
 [![](https://assets.ppy.sh/contests/107/banners/McFriedFries.jpg)](https://assets.ppy.sh/contests/107/winners/McFriedFries.png)
 
-Coming in sixth place with **4646** votes, [**McFriedFries**](https://osu.ppy.sh/users/12694139) wowed with their summertime botanical pippi enjoying a bit of rest with a plunging rollercoaster doing its thing in the background.
+Coming in sixth place with **4646** votes, ::**McFriedFries**::{ user-id=12694139 } wowed with their summertime botanical pippi enjoying a bit of rest with a plunging rollercoaster doing its thing in the background.
 
 [![](https://assets.ppy.sh/contests/107/banners/Ariisha.jpg)](https://assets.ppy.sh/contests/107/winners/Ariisha.png)
 
-[**Ariisha**](https://osu.ppy.sh/users/6246943) nabbed **4543** votes for a superbly stylized take on a whole bunch of our mascots enjoying time at a splash park, including Yuzu being harassed by the lifeguard for going into the pool without a shirt on.
+::**Ariisha**::{ user-id=6246943 } nabbed **4543** votes for a superbly stylized take on a whole bunch of our mascots enjoying time at a splash park, including Yuzu being harassed by the lifeguard for going into the pool without a shirt on.
 
 The connotations of that need not be said, but I doubt they surprise anyone at this point.
 
 [![](https://assets.ppy.sh/contests/107/banners/XShadowGirlX.jpg)](https://assets.ppy.sh/contests/107/winners/XShadowGirlX.png)
 
-[**XShadowGirlX**](https://osu.ppy.sh/users/11596939) scored **3963** votes for a gentle nighttime portrayal of pippi enjoying some cotton candy before a skill-testing machine filled with all sorts of community icons, including (but not limited to) Taikonator, Sotarks, WhiteCat, Airman, Mocha and a strip of bacon. Crispy.
+::**XShadowGirlX**::{ user-id=11596939 } scored **3963** votes for a gentle nighttime portrayal of pippi enjoying some cotton candy before a skill-testing machine filled with all sorts of community icons, including (but not limited to) Taikonator, Sotarks, WhiteCat, Airman, Mocha and a strip of bacon. Crispy.
 
 [![](https://assets.ppy.sh/contests/107/banners/TofuMang.jpg)](https://assets.ppy.sh/contests/107/winners/TofuMang.png)
 
-Long-time crowd favourite [**TofuMang**](https://osu.ppy.sh/users/4817223) returns to scoop up **3922** votes with his delightfully fantastical take on pippi enjoying a most marvellous carousel ride, complete with a sky whale, and two hot Airman balloons.
+Long-time crowd favourite ::**TofuMang**::{ user-id=4817223 } returns to scoop up **3922** votes with his delightfully fantastical take on pippi enjoying a most marvellous carousel ride, complete with a sky whale, and two hot Airman balloons.
 
 [![](https://assets.ppy.sh/contests/107/banners/Dreamxiety.jpg)](https://assets.ppy.sh/contests/107/winners/Dreamxiety.png)
 
-[**Dreamxiety**](https://osu.ppy.sh/users/13103233) nabbed **3826** with their take on a super-excited pippi all pumped up to ride a super-detailed carousel.
+::**Dreamxiety**::{ user-id=13103233 } nabbed **3826** with their take on a super-excited pippi all pumped up to ride a super-detailed carousel.
 
 [![](https://assets.ppy.sh/contests/107/banners/snowyani2000.jpg)](https://assets.ppy.sh/contests/107/winners/snowyani2000.png)
 
-Another long-time crowd favourite and regular contestant, [**snowyani2000**](https://osu.ppy.sh/users/2691590) scooped up **3522** votes with an incredibly detailed theme park vista showcasing all of the major mascots lounging about in the sunset hours atop a spinning teacup ride.
+Another long-time crowd favourite and regular contestant, ::**snowyani2000**::{ user-id=2691590 } scooped up **3522** votes with an incredibly detailed theme park vista showcasing all of the major mascots lounging about in the sunset hours atop a spinning teacup ride.
 
 The attention to lighting, framing and overall composition in this piece is phenomenal, as is always the case with his work!
 
 [![](https://assets.ppy.sh/contests/107/banners/Hecatia.jpg)](https://assets.ppy.sh/contests/107/winners/Hecatia.png)
 
-[**Hecatia**](https://osu.ppy.sh/users/8244635)'s take on a car-lounging pippi enjoying a brief drink scored **3313** votes and earns extra imaginary points in this writer's eyes for taking the time to do something considerably different from the norm.
+::**Hecatia**::{ user-id=8244635 }'s take on a car-lounging pippi enjoying a brief drink scored **3313** votes and earns extra imaginary points in this writer's eyes for taking the time to do something considerably different from the norm.
 
 [![](https://assets.ppy.sh/contests/107/banners/HEKUSODASU.jpg)](https://assets.ppy.sh/contests/107/winners/HEKUSODASU.png)
 
-[**HEKUSODASU**](https://osu.ppy.sh/users/9044692) took mascot performances to the next level and incited a crowd of **2882** voters, with pippi, Mocha, Maria and Aiko striking it out in front of a very enthusiastic crowd.
+::**HEKUSODASU**::{ user-id=9044692 } took mascot performances to the next level and incited a crowd of **2882** voters, with pippi, Mocha, Maria and Aiko striking it out in front of a very enthusiastic crowd.
 
 It has been far, far too long since we've had a chibi-stylled entry. Moar!
 
 [![](https://assets.ppy.sh/contests/107/banners/Boom_Beatz123.jpg)](https://assets.ppy.sh/contests/107/winners/Boom_Beatz123.png)
 
-[**Boom_Beatz123**](https://osu.ppy.sh/users/6358726) took fantasy palettes to the next level and won the attention of **2791** voters with their smiling pippi set to a backdrop of festival lights and a candy-coloured ferris wheel.
+::**Boom\1Beatz123**::{ user-id=6358726 } took fantasy palettes to the next level and won the attention of **2791** voters with their smiling pippi set to a backdrop of festival lights and a candy-coloured ferris wheel.
 
 [![](https://assets.ppy.sh/contests/107/banners/VoidSynatic.jpg)](https://assets.ppy.sh/contests/107/winners/VoidSynatic.png)
 
-**2787** voters were dragged around the park by [**VoidSynatic**](https://osu.ppy.sh/users/8270353)'s piece detailing the full osu!taiko mascot line-up of Tama, Aiko and Mocha making the rounds about a very big theme park, with Mocha looking like she can't quite keep up with the rest of their tolerance for the rides.
+**2787** voters were dragged around the park by ::**VoidSynatic**::{ user-id=8270353 }'s piece detailing the full osu!taiko mascot line-up of Tama, Aiko and Mocha making the rounds about a very big theme park, with Mocha looking like she can't quite keep up with the rest of their tolerance for the rides.
 
 There's always one person in every group during those kinds of outings!
 

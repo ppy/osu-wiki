@@ -1,12 +1,12 @@
 # History of osu! 2007
 
-The following is some of the major events in osu!'s history since its beginning. Special thanks to [Sinistro](https://osu.ppy.sh/users/5530) for helping in compiling the 2007/2008 content.
+The following is some of the major events in osu!'s history since its beginning. Special thanks to ::Sinistro::{ user-id=5530 } for helping in compiling the 2007/2008 content.
 
 ![](img/2007.jpg)
 
 ## July
 
-osu! began as a proof-of-concept named "ouentest".[^ouentest] The first version was released on July 1, 2007 to a small group of [peppy](https://osu.ppy.sh/users/2)'s close friends and featured a very basic [beatmap editor](/wiki/Client/Beatmap_editor) and play mode. The editor could only make *very* simple [beatmaps](/wiki/Beatmap) with no seeking or [snapping](/wiki/Beatmapping/Snapping) functions available and there were no sliders or spinners, only circles and basic scoring/combo counters. The first release took approximately 16 hours of coding time and was done in a *single all-nighter*. `pUpdater` was introduced (soon to be known as `osume`)[^osume] to handle updating to the latest version.<!-- "pUpdater" and "osume" need article stubs to link to -->
+osu! began as a proof-of-concept named "ouentest".[^ouentest] The first version was released on July 1, 2007 to a small group of ::peppy::{ user-id=2 }'s close friends and featured a very basic [beatmap editor](/wiki/Client/Beatmap_editor) and play mode. The editor could only make *very* simple [beatmaps](/wiki/Beatmap) with no seeking or [snapping](/wiki/Beatmapping/Snapping) functions available and there were no sliders or spinners, only circles and basic scoring/combo counters. The first release took approximately 16 hours of coding time and was done in a *single all-nighter*. `pUpdater` was introduced (soon to be known as `osume`)[^osume] to handle updating to the latest version.<!-- "pUpdater" and "osume" need article stubs to link to -->
 
 ![](img/2007-07_01.jpg "Song Selection")
 

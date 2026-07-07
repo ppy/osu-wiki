@@ -25,7 +25,7 @@ We know, we know. You're already in love with **Annabel**'s music. For good meas
 
 ### pedalnote
 
-Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1669381) hosted by [Agatsu](https://osu.ppy.sh/users/5579871)!
+Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1669381) hosted by ::Agatsu::{ user-id=5579871 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/234/caracol/Annabel%20-%20pedalnote.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1669381) hoste
 
 ### little voice
 
-Check out [this low-difficulty beatmap](https://osu.ppy.sh/beatmapsets/1619033) hosted by [PandaHero](https://osu.ppy.sh/users/1233255)!
+Check out [this low-difficulty beatmap](https://osu.ppy.sh/beatmapsets/1619033) hosted by ::PandaHero::{ user-id=1233255 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/234/caracol/Annabel%20-%20little%20voice.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Check out [this low-difficulty beatmap](https://osu.ppy.sh/beatmapsets/1619033) 
 
 ### Kareru
 
-Play through [this full beatmap spread](https://osu.ppy.sh/beatmapsets/1680958) hosted by [Lanzhu](https://osu.ppy.sh/users/12469536)!
+Play through [this full beatmap spread](https://osu.ppy.sh/beatmapsets/1680958) hosted by ::Lanzhu::{ user-id=12469536 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/234/slow%20light%2C%20slow%20glass/Annabel%20-%20Kareru.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Play through [this full beatmap spread](https://osu.ppy.sh/beatmapsets/1680958) 
 
 ### glimmer
 
-If you're up for a challenge, [this immensely long marathon map](https://osu.ppy.sh/beatmapsets/1525495) hosted by [Keqing](https://osu.ppy.sh/users/8501291) might be right up your alley.
+If you're up for a challenge, [this immensely long marathon map](https://osu.ppy.sh/beatmapsets/1525495) hosted by ::Keqing::{ user-id=8501291 } might be right up your alley.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/234/caracol/Annabel%20-%20glimmer.mp3" type="audio/mpeg">
@@ -57,7 +57,7 @@ If you're up for a challenge, [this immensely long marathon map](https://osu.ppy
 
 ### lilac slumber (cosmic ver.)
 
-Relax with [this beatmap](https://osu.ppy.sh/beatmapsets/1569646) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302), [this set](https://osu.ppy.sh/beatmapsets/1661304) hosted by [mnyui](https://osu.ppy.sh/users/14261540), or [this creation](https://osu.ppy.sh/beatmapsets/1593278) hosted by [PandaHero](https://osu.ppy.sh/users/1233255)!
+Relax with [this beatmap](https://osu.ppy.sh/beatmapsets/1569646) hosted by ::SMOKELIND::{ user-id=9327302 }, [this set](https://osu.ppy.sh/beatmapsets/1661304) hosted by ::mnyui::{ user-id=14261540 }, or [this creation](https://osu.ppy.sh/beatmapsets/1593278) hosted by ::PandaHero::{ user-id=1233255 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/234/cosmic%20gardener/Annabel%20-%20lilac%20slumber%20-cosmic%20ver.-.mp3" type="audio/mpeg">

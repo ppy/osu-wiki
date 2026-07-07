@@ -9,11 +9,11 @@ If you think 200 BPM streams are fast, you haven't considered what **MetaHumanBo
 
 ![](https://assets.ppy.sh/artists/430/header.jpg)
 
-A modern master of speedcore (and the countless other J-EDM subgenres that treat 220 BPM as normal), **MetaHumanBoi** knows exactly what makes an intense rhythm game song. Of course, knowledge like that comes best with experience — **MetaHumanBoi** spends a bunch of their time in games like *A Dance of Fire and Ice* and, of course, [osu!](https://osu.ppy.sh/users/14782369).
+A modern master of speedcore (and the countless other J-EDM subgenres that treat 220 BPM as normal), **MetaHumanBoi** knows exactly what makes an intense rhythm game song. Of course, knowledge like that comes best with experience — **MetaHumanBoi** spends a bunch of their time in games like *A Dance of Fire and Ice* and, of course, ::osu!::{ user-id=14782369 }.
 
 **8** awesome songs are part of [**MetaHumanBoi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/430), and soon as you try mapping, they'll be part of your beatmap library too.
 
-260 BPM? 8.5 stars? Not an issue for [MALISZEWSKI](https://osu.ppy.sh/users/12408961):
+260 BPM? 8.5 stars? Not an issue for ::MALISZEWSKI::{ user-id=12408961 }:
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ A modern master of speedcore (and the countless other J-EDM subgenres that treat
 
 ### MetaHumanBoi - Solar Strike
 
-Try [the map above for yourself](https://osu.ppy.sh/beatmapsets/2142528) hosted by [Daycore](https://osu.ppy.sh/users/5596337)!
+Try [the map above for yourself](https://osu.ppy.sh/beatmapsets/2142528) hosted by ::Daycore::{ user-id=5596337 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/430/Songs/MetaHumanBoi%20-%20Solar%20Strike.mp3">
@@ -31,7 +31,7 @@ Try [the map above for yourself](https://osu.ppy.sh/beatmapsets/2142528) hosted 
 
 ### MetaHumanBoi - Trusted Villain
 
-We're done with 4K and 7K. Try [this 5K map](https://osu.ppy.sh/beatmapsets/2171291) hosted by [Protastic101](https://osu.ppy.sh/users/6712747)!
+We're done with 4K and 7K. Try [this 5K map](https://osu.ppy.sh/beatmapsets/2171291) hosted by ::Protastic101::{ user-id=6712747 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/430/Songs/MetaHumanBoi%20-%20Trusted%20Villain.mp3">
@@ -39,7 +39,7 @@ We're done with 4K and 7K. Try [this 5K map](https://osu.ppy.sh/beatmapsets/2171
 
 ### MetaHumanBoi - Speed Bomb
 
-Apparently [osu!taiko maps can reach 9.5 stars](https://osu.ppy.sh/beatmapsets/2005930). (That's a discovery made by [youtune3](https://osu.ppy.sh/users/6442010)!)
+Apparently [osu!taiko maps can reach 9.5 stars](https://osu.ppy.sh/beatmapsets/2005930). (That's a discovery made by ::youtune3::{ user-id=6442010 }!)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/430/Songs/MetaHumanBoi%20-%20Speed%20Bomb.mp3">

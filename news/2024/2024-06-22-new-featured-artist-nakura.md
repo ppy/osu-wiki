@@ -25,7 +25,7 @@ See how **Nakura** translates to osu! for yourself:
 
 ### Nakura - Takin' U There (osu! edit)
 
-Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/2134284) hosted by [nanoya](https://osu.ppy.sh/users/12366071)!
+Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/2134284) hosted by ::nanoya::{ user-id=12366071 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/426/Takin%27%20U%20There/Nakura%20-%20Takin%27%20U%20There%20(osu!%20edit).mp3">
@@ -33,7 +33,7 @@ Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/2134284
 
 ### Nakura - 7th Sphere
 
-If clicking circles isn't your thing, try [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2155698) hosted by [Yasuho](https://osu.ppy.sh/users/8458835)!
+If clicking circles isn't your thing, try [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2155698) hosted by ::Yasuho::{ user-id=8458835 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/426/7th%20Sphere/Nakura%20-%207th%20Sphere.mp3">

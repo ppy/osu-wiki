@@ -54,7 +54,7 @@ The profile banners will be available from the results' announcement date until 
 
 Got any questions, or any urgent matters that need to be looked at? Don't hesitate to [shoot Hivie a message](https://osu.ppy.sh/community/chat?sendto=14102976) for any inquiries regarding this contest!
 
-*Header and promotional artwork by finalist [**Amplui**](https://osu.ppy.sh/users/24820805) from the [**Winter 2023 Fanart Contest**](https://osu.ppy.sh/community/contests/189)!*
+*Header and promotional artwork by finalist ::**Amplui**::{ user-id=24820805 } from the [**Winter 2023 Fanart Contest**](https://osu.ppy.sh/community/contests/189)!*
 
 ---
 

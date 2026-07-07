@@ -65,10 +65,10 @@ The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidd
 
 ### BN Additions
 
-- **osu!:** [Teky](https://osu.ppy.sh/users/10520912), [DeviousPanda](https://osu.ppy.sh/users/4966334), [Stixy](https://osu.ppy.sh/users/9000308), [Trynna](https://osu.ppy.sh/users/2652951), [Fall](https://osu.ppy.sh/users/4800816), [Elayue](https://osu.ppy.sh/users/6400861), [NexusQI](https://osu.ppy.sh/users/13822800) & [Garden](https://osu.ppy.sh/users/2849992)
-- **osu!taiko:** [realy0\_](https://osu.ppy.sh/users/8863359), [\_DUSK\_](https://osu.ppy.sh/users/6092181), [davidminh0111](https://osu.ppy.sh/users/9623142), [Cychloryn](https://osu.ppy.sh/users/6921736) & [Axer](https://osu.ppy.sh/users/7299864)
-- **osu!catch:** [Baron](https://osu.ppy.sh/users/10286499), [Secre](https://osu.ppy.sh/users/2306637) & [Bastian](https://osu.ppy.sh/users/6345176)
-- **osu!mania:** [Kyousukee](https://osu.ppy.sh/users/8842107), [Shima Rin](https://osu.ppy.sh/users/6089608), [Garalulu](https://osu.ppy.sh/users/757783) & [Muse Dash](https://osu.ppy.sh/users/13695676)
+- **osu!:** ::Teky::{ user-id=10520912 }, [DeviousPanda](https://osu.ppy.sh/users/4966334), ::Stixy::{ user-id=9000308 }, [Trynna](https://osu.ppy.sh/users/2652951), ::Fall::{ user-id=4800816 }, [Elayue](https://osu.ppy.sh/users/6400861), ::NexusQI::{ user-id=13822800 } & [Garden](https://osu.ppy.sh/users/2849992)
+- **osu!taiko:** ::realy0\_::{ user-id=8863359 }, [\_DUSK\_](https://osu.ppy.sh/users/6092181), ::davidminh0111::{ user-id=9623142 }, [Cychloryn](https://osu.ppy.sh/users/6921736) & ::Axer::{ user-id=7299864 }
+- **osu!catch:** ::Baron::{ user-id=10286499 }, [Secre](https://osu.ppy.sh/users/2306637) & ::Bastian::{ user-id=6345176 }
+- **osu!mania:** ::Kyousukee::{ user-id=8842107 }, [Shima Rin](https://osu.ppy.sh/users/6089608), ::Garalulu::{ user-id=757783 } & [Muse Dash](https://osu.ppy.sh/users/13695676)
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
@@ -76,10 +76,10 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and a
 
 ### BN Departures
 
-- **osu!:** [Affirmation](https://osu.ppy.sh/users/6186628), [Namki](https://osu.ppy.sh/users/5248582) & [wafer](https://osu.ppy.sh/users/9416836)
-- **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [Gamelan4](https://osu.ppy.sh/users/9856910) & [Metzo](https://osu.ppy.sh/users/10633982)
-- **osu!catch:** [-Luminate](https://osu.ppy.sh/users/4778689) & [Lacrima](https://osu.ppy.sh/users/4915649)
-- **osu!mania:** [\_Kobii](https://osu.ppy.sh/users/6209713), [Drum-Hitnormal](https://osu.ppy.sh/users/748722) & [Unpredictable](https://osu.ppy.sh/users/7560872)
+- **osu!:** ::Affirmation::{ user-id=6186628 }, [Namki](https://osu.ppy.sh/users/5248582) & ::wafer::{ user-id=9416836 }
+- **osu!taiko:** ::Cynplytholowazy::{ user-id=3901754 }, [Gamelan4](https://osu.ppy.sh/users/9856910) & ::Metzo::{ user-id=10633982 }
+- **osu!catch:** ::-Luminate::{ user-id=4778689 } & [Lacrima](https://osu.ppy.sh/users/4915649)
+- **osu!mania:** ::\_Kobii::{ user-id=6209713 }, [Drum-Hitnormal](https://osu.ppy.sh/users/748722) & ::Unpredictable::{ user-id=7560872 }
 
 ### BN and QAT/NAT Badges
 
@@ -89,23 +89,23 @@ We are thankful for all their contributions and hope to see much more in the fut
 
 Here is the list of everyone who received a badge this past session:
 
-- **BN 1 Year Badge:** [incandescence](https://osu.ppy.sh/users/6256027), [Kaitjuh](https://osu.ppy.sh/users/2225327), [Unpredictable](https://osu.ppy.sh/users/7560872), [Nuvolina](https://osu.ppy.sh/users/10974170) & [Dored](https://osu.ppy.sh/users/10284894)
-- **BN 2 Year Badge:** [JBHyperion](https://osu.ppy.sh/users/4879508), [Nevo](https://osu.ppy.sh/users/7451883), [Mordred](https://osu.ppy.sh/users/7265097), [bossandy](https://osu.ppy.sh/users/360437) & [Namki](https://osu.ppy.sh/users/5248582)
-- **BN 3 Year Badge:** [Benita](https://osu.ppy.sh/users/4023183) & [Sonnyc](https://osu.ppy.sh/users/11771)
-- **BN 4 Year Badge:**  [Nozhomi](https://osu.ppy.sh/users/2716981)
-- **QAT/NAT 1 Year Badge:** [Ascendance](https://osu.ppy.sh/users/2931883), [Noffy](https://osu.ppy.sh/users/1541323) & [Faputa](https://osu.ppy.sh/users/845733)
-- **QAT/NAT 2 Year Badge:** [Lasse](https://osu.ppy.sh/users/896613), [-Mo-](https://osu.ppy.sh/users/2202163) & [Chaoslitz](https://osu.ppy.sh/users/3621552)
-- **QAT 3 Year Badge:** [OnosakiHito](https://osu.ppy.sh/users/290128)
+- **BN 1 Year Badge:** ::incandescence::{ user-id=6256027 }, [Kaitjuh](https://osu.ppy.sh/users/2225327), ::Unpredictable::{ user-id=7560872 }, [Nuvolina](https://osu.ppy.sh/users/10974170) & ::Dored::{ user-id=10284894 }
+- **BN 2 Year Badge:** ::JBHyperion::{ user-id=4879508 }, [Nevo](https://osu.ppy.sh/users/7451883), ::Mordred::{ user-id=7265097 }, [bossandy](https://osu.ppy.sh/users/360437) & ::Namki::{ user-id=5248582 }
+- **BN 3 Year Badge:** ::Benita::{ user-id=4023183 } & [Sonnyc](https://osu.ppy.sh/users/11771)
+- **BN 4 Year Badge:**  ::Nozhomi::{ user-id=2716981 }
+- **QAT/NAT 1 Year Badge:** ::Ascendance::{ user-id=2931883 }, [Noffy](https://osu.ppy.sh/users/1541323) & ::Faputa::{ user-id=845733 }
+- **QAT/NAT 2 Year Badge:** ::Lasse::{ user-id=896613 }, [-Mo-](https://osu.ppy.sh/users/2202163) & ::Chaoslitz::{ user-id=3621552 }
+- **QAT 3 Year Badge:** ::OnosakiHito::{ user-id=290128 }
 
 ## Mappers' Showcase
 
 The Mappers' Showcase presents lesser-known mappers from every game mode. Since we bundled two issues in one post, we will feature two game modes this month.
 
-Thanks to [Jemzuu](https://osu.ppy.sh/users/7890134) for the osu!catch selections and [Scotty](https://osu.ppy.sh/users/11085809) & [Unpredictable](https://osu.ppy.sh/users/7560872) for the osu!mania selections!
+Thanks to ::Jemzuu::{ user-id=7890134 } for the osu!catch selections and ::Scotty::{ user-id=11085809 } & [Unpredictable](https://osu.ppy.sh/users/7560872) for the osu!mania selections!
 
 ### Phob (osu!catch)
 
-Having recently breached the gates of the ranked section, **[Phob](https://osu.ppy.sh/users/6069462)** is a new mapper that is currently having a decent breakout year so far. Although he's more known for being a skilled Hidden player, his mapping definitely deserves more recognition! He crafts his maps with brilliant relevance to the music showing such coherence in patterning, proving he clearly knows what he's doing!
+Having recently breached the gates of the ranked section, **::Phob::{ user-id=6069462 }** is a new mapper that is currently having a decent breakout year so far. Although he's more known for being a skilled Hidden player, his mapping definitely deserves more recognition! He crafts his maps with brilliant relevance to the music showing such coherence in patterning, proving he clearly knows what he's doing!
 
 His take on [Feint - Snake Eyes (feat. CoMa)](https://osu.ppy.sh/beatmapsets/1034056#fruits/2162020) exemplifies the mapping spirit of clean and consistency-based maps, as throughout his difficulties, they were made of superb quality. For a relatively new mapper, this set is surely impressive!
 
@@ -115,7 +115,7 @@ Phob also tends to favour mapping lower difficulties, especially Salads, so he i
 
 ### dika312 (osu!catch)
 
-A long-term mapper that has been crafting maps for almost 5 years, **[dika312](https://osu.ppy.sh/users/741613)** is someone that strives for an intuitive yet a very interesting mapping style that will keep you on the edge of your seat! Despite his long mapping experience, none of dika's works has reached the ranked section (yet!), and most of his maps are sadly unnoticed by the public.
+A long-term mapper that has been crafting maps for almost 5 years, **::dika312::{ user-id=741613 }** is someone that strives for an intuitive yet a very interesting mapping style that will keep you on the edge of your seat! Despite his long mapping experience, none of dika's works has reached the ranked section (yet!), and most of his maps are sadly unnoticed by the public.
 
 A diamond in the rough are his maps such as [Kikuo - Neko no Shokutaku](https://osu.ppy.sh/beatmapsets/839016#fruits/1756467), in which he has demonstrated his virtuosity in movement and exquisite patterning to create a gratifying piece of art from such a lovely song. Another solid example would be his rendition of [MALVA. - Trane](https://osu.ppy.sh/beatmapsets/1010141#fruits/2114540), wherein he has shown his proficiency in varying platter-motion once again — making use of diverse flow and patterns, leaving a pleasurable experience and taste for both mappers and players.
 
@@ -123,7 +123,7 @@ Another of his great works that is worth mentioning would be his take on [KikuoH
 
 ### BringoBrango (osu!mania)
 
-**[BringoBrango](https://osu.ppy.sh/users/10274043)** is a Canadian mapper who's been in the mapping community for about 2-3 years now and has really made a name for himself since late 2019 with his creative innovations and unique takes on the songs he maps. His most popular mapset so far is [Iglooghost - Bug Thief](https://osu.ppy.sh/beatmapsets/887787#mania/2033667), with his later creation set to [PSYQUI - Multitalents](https://osu.ppy.sh/beatmapsets/1024323#mania/2142612) being used in last year's osu!mania World Cup.
+**::BringoBrango::{ user-id=10274043 }** is a Canadian mapper who's been in the mapping community for about 2-3 years now and has really made a name for himself since late 2019 with his creative innovations and unique takes on the songs he maps. His most popular mapset so far is [Iglooghost - Bug Thief](https://osu.ppy.sh/beatmapsets/887787#mania/2033667), with his later creation set to [PSYQUI - Multitalents](https://osu.ppy.sh/beatmapsets/1024323#mania/2142612) being used in last year's osu!mania World Cup.
 
 However, some of his other maps that haven't taken the spotlight unlike the other two, such as [acloudyskye - Alignment](https://osu.ppy.sh/beatmapsets/1031818#mania/2157673), which perfectly showcases what he's capable of and how to utilize certain aspects of a song to their advantage. The map showcases everything that BringoBrango learnt over the course of his mapping career, which turned out excellently as it features LN layering schemes, jacks, heavy use of repetition, utilizing 1/6 and 1/8 flams, and especially the amount of SVs that adds a lot more to the map than it originally had such as stutters, slowjams, speedups, and so much more that perfectly craft this map together into a complex, yet mesmerizing map for anyone that dares to give it a try.
 
@@ -135,7 +135,7 @@ We hope to see more of his work in the future as he's definitely quite the anoma
 
 ### Ticle (osu!mania)
 
-Despite not being around for long, **[Ticle](https://osu.ppy.sh/users/11602148)** has been able to develop an explosive style of LN mapping. Their takes on electronic tracks are heavily expressive and intuitive, yet come with a particular level of detail and rigidity. The end results are highly addictive LN maps for both players and mappers alike! Recently, they have been able to gain attention with their debut in the loved section [tomatoism – UMP9](https://osu.ppy.sh/beatmapsets/970727#mania/2032725). However, we believe that is just the beginning of their showcase-worthy mapping career.
+Despite not being around for long, **::Ticle::{ user-id=11602148 }** has been able to develop an explosive style of LN mapping. Their takes on electronic tracks are heavily expressive and intuitive, yet come with a particular level of detail and rigidity. The end results are highly addictive LN maps for both players and mappers alike! Recently, they have been able to gain attention with their debut in the loved section [tomatoism – UMP9](https://osu.ppy.sh/beatmapsets/970727#mania/2032725). However, we believe that is just the beginning of their showcase-worthy mapping career.
 
 An example of a map which demonstrates this is their rendition of [Sta - 99 Glooms](https://osu.ppy.sh/beatmapsets/961775#mania/2013908). Its liberal usage of flams and more detailed interpretation of the track's various piano and synth are what really take it a step above the rest. Another notable work of theirs is [sasakure.UK - Jack-the-Ripper](https://osu.ppy.sh/beatmapsets/1130177#mania/2360897), a map featuring complex timing and even more complex representation of the track's guitar sounds.
 
@@ -151,7 +151,7 @@ In this section you can see what contests were held in May and June or are ongoi
 
 The [Monthly Beatmapping Contests](/wiki/Contests/Monthly_Beatmapping_Contest) (MBC) give you your monthly dose of mapping competitions. Each month's contest features a different mapping limitation that entries must adhere to.
 
-The April's contest results are out and we congratulate [hypercyte](https://osu.ppy.sh/users/9155377) for winning and getting his Tier 2 badge! Good job to [fanzhen0019](https://osu.ppy.sh/users/418699) as well for being the community vote runner-up and [Acylica](https://osu.ppy.sh/users/1943309) for being the screening crew favorite!
+The April's contest results are out and we congratulate ::hypercyte::{ user-id=9155377 } for winning and getting his Tier 2 badge! Good job to ::fanzhen0019::{ user-id=418699 } as well for being the community vote runner-up and ::Acylica::{ user-id=1943309 } for being the screening crew favorite!
 
 The May and June Monthly Beatmapping Contests both have their submission phases concluded and we hope to see the results soon. Once they are out, we'll be sure to let you know!
 
@@ -243,7 +243,7 @@ The world needs you!
 
 Phew, that was a bit of a read, right? We're happy that you made it all the way 'til the end! Once again, we're sorry for the long wait with this month's double-issue. We will work on our schedule to make sure future issues of the Mappers' Report get released on time.
 
-And please, don't forget, should you have anything interesting and mapping or modding related for us to mention, make sure to contact [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) with all the details.
+And please, don't forget, should you have anything interesting and mapping or modding related for us to mention, make sure to contact ::Feerum::{ user-id=4815717 } or [Noffy](https://osu.ppy.sh/users/1541323) with all the details.
 
 Until then, thank you for reading and stay safe and healthy!
 

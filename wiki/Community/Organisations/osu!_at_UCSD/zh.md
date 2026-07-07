@@ -29,8 +29,8 @@ tags:
 
 ## 现任负责人
 
-- ::{ flag=US }:: Darin "[Darin on osu](https://osu.ppy.sh/users/4839876)" Nguyen (*会长*)
-- ::{ flag=US }:: Ash "[Ahntaea](https://osu.ppy.sh/users/4941097)" Tran
-- ::{ flag=CN }:: Jason "[friidryce](https://osu.ppy.sh/users/8271310)" Au
-- ::{ flag=US }:: Peter "[Potor10](https://osu.ppy.sh/users/8029687)" Liu
-- ::{ flag=US }:: Philip "[philisophic](https://osu.ppy.sh/users/7040672)" Lin
+- ::{ flag=US }:: Darin "::Darin on osu::{ user-id=4839876 }" Nguyen (*会长*)
+- ::{ flag=US }:: Ash "::Ahntaea::{ user-id=4941097 }" Tran
+- ::{ flag=CN }:: Jason "::friidryce::{ user-id=8271310 }" Au
+- ::{ flag=US }:: Peter "::Potor10::{ user-id=8029687 }" Liu
+- ::{ flag=US }:: Philip "::philisophic::{ user-id=7040672 }" Lin

@@ -13,7 +13,7 @@ osu! is one of the few rhythm games that promotes *every* genre of music, and **
 
 **7** songs are up for the taking, all pre-timed and available from [**JOYLESS**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/267).
 
-What's more engaging than an osu! liveplay? TWO liveplays. Watch [Monko2k](https://osu.ppy.sh/users/4852013) and [Kahli](https://osu.ppy.sh/users/8926244) play two difficulties of [JOYLESS - Bristol](https://osu.ppy.sh/beatmapsets/1728251) at the same time, then try out a few maps for yourself:
+What's more engaging than an osu! liveplay? TWO liveplays. Watch ::Monko2k::{ user-id=4852013 } and [Kahli](https://osu.ppy.sh/users/8926244) play two difficulties of [JOYLESS - Bristol](https://osu.ppy.sh/beatmapsets/1728251) at the same time, then try out a few maps for yourself:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ What's more engaging than an osu! liveplay? TWO liveplays. Watch [Monko2k](https
 
 ### Bristol
 
-Play [the map from the video](https://osu.ppy.sh/beatmapsets/1728251) hosted by [wafer](https://osu.ppy.sh/users/9416836)!
+Play [the map from the video](https://osu.ppy.sh/beatmapsets/1728251) hosted by ::wafer::{ user-id=9416836 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/267/JOYLESS/JOYLESS%20-%20Bristol.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Play [the map from the video](https://osu.ppy.sh/beatmapsets/1728251) hosted by 
 
 ### Dream
 
-Experience [this ultra-clean map](https://osu.ppy.sh/beatmapsets/1729551) hosted by [Shii](https://osu.ppy.sh/users/9186316)!
+Experience [this ultra-clean map](https://osu.ppy.sh/beatmapsets/1729551) hosted by ::Shii::{ user-id=9186316 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/267/JOYLESS/JOYLESS%20-%20Dream.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Experience [this ultra-clean map](https://osu.ppy.sh/beatmapsets/1729551) hosted
 
 ### Back to Start
 
-And try [one more map](https://osu.ppy.sh/beatmapsets/1738503) hosted by [Zelq](https://osu.ppy.sh/users/8953955)!
+And try [one more map](https://osu.ppy.sh/beatmapsets/1738503) hosted by ::Zelq::{ user-id=8953955 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/267/JOYLESS/JOYLESS%20-%20Back%20To%20Start.mp3" type="audio/mpeg">

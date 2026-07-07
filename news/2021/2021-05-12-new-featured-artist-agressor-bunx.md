@@ -13,13 +13,13 @@ A trailblazer in electronic music scenes for a decade, **Agressor Bunx** is a Uk
 
 We've picked up a solid **7** tracks for today's release, each with a shorter ~2 minute version available from [**Agressor Bunx**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/164)!
 
-No video this time around, but it's safe to bet that you've heard **Agressor Bunx**'s music already thanks to a popular beatmap of [*Tornado*](https://osu.ppy.sh/beatmapsets/236292) hosted by [Shadren](https://osu.ppy.sh/users/745494). On top of the classic *Tornado*, we've snagged a few of the duo's newer tracks as well!
+No video this time around, but it's safe to bet that you've heard **Agressor Bunx**'s music already thanks to a popular beatmap of [*Tornado*](https://osu.ppy.sh/beatmapsets/236292) hosted by ::Shadren::{ user-id=745494 }. On top of the classic *Tornado*, we've snagged a few of the duo's newer tracks as well!
 
 Check it all out:
 
 ### Tornado
 
-Play [this osu! map](https://osu.ppy.sh/beatmapsets/236292) by [Shadren](https://osu.ppy.sh/users/745494) and take a guaranteed nostalgia trip back to the days of learning to play Hard Rock for the first time.
+Play [this osu! map](https://osu.ppy.sh/beatmapsets/236292) by ::Shadren::{ user-id=745494 } and take a guaranteed nostalgia trip back to the days of learning to play Hard Rock for the first time.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/164/Return%20Of%20Gods%20EP%2FAgressor%20Bunx%20-%20Tornado.mp3" type="audio/mpeg">

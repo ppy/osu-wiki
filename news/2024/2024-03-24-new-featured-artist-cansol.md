@@ -31,7 +31,7 @@ Try [the map for this osu! original](https://osu.ppy.sh/beatmapsets/2155531) hos
 
 ### Cansol - 1,2,3,4!
 
-Experience [the map that introduced **Cansol** to osu!](https://osu.ppy.sh/beatmapsets/1658671) hosted by [uone](https://osu.ppy.sh/users/5321719) or [this 4K osu!mania rendition](https://osu.ppy.sh/beatmapsets/1926697) hosted by [snomi](https://osu.ppy.sh/users/14410101)!
+Experience [the map that introduced **Cansol** to osu!](https://osu.ppy.sh/beatmapsets/1658671) hosted by ::uone::{ user-id=5321719 } or [this 4K osu!mania rendition](https://osu.ppy.sh/beatmapsets/1926697) hosted by ::snomi::{ user-id=14410101 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/407/Songs/Cansol - 1,2,3,4!.mp3">

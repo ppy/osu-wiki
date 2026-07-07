@@ -25,8 +25,8 @@ Congratulations to last month's winners!
 **Catch the Beat**
 
 1. [Dusk](https://osu.ppy.sh/users/Dusk) \- 1 month of supporter
-2. [Sakurano Kurimu](https://osu.ppy.sh/users/1338103)
-3. [\[_Crystal\]](https://osu.ppy.sh/users/1646397)
+2. ::Sakurano Kurimu::{ user-id=1338103 }
+3. ::\[\1Crystal\]::{ user-id=1646397 }
 
 **osu!mania**
 

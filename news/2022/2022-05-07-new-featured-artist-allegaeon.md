@@ -23,7 +23,7 @@ Proudly sporting a mix of technical, extreme, and melodic metal in each of their
 
 ### Biomech - Vals No. 666
 
-Ruin your fingers while playing [the map from the video above](https://osu.ppy.sh/beatmapsets/1569833) hosted by [Mazzerin](https://osu.ppy.sh/users/2942381)!
+Ruin your fingers while playing [the map from the video above](https://osu.ppy.sh/beatmapsets/1569833) hosted by ::Mazzerin::{ user-id=2942381 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/264/Fragments%20of%20Form%20and%20Function%2FAllegaeon%20-%20Biomech%20-%20Vals%20No.666.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Ruin your fingers while playing [the map from the video above](https://osu.ppy.s
 
 ### Of Mind and Matrix
 
-If you prefer to ruin your fingers *without aiming*, instead try [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1530982) hosted by [Crysally](https://osu.ppy.sh/users/7792131).
+If you prefer to ruin your fingers *without aiming*, instead try [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1530982) hosted by ::Crysally::{ user-id=7792131 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/264/Proponent%20for%20Sentience%2FAllegaeon%20-%20Of%20Mind%20and%20Matrix.mp3" type="audio/mpeg">

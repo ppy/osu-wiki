@@ -19,7 +19,7 @@ Check it all out:
 
 ### CONSOLE1
 
-Check out [this short version showcase set](https://osu.ppy.sh/beatmapsets/1267302) hosted by [Nao Tomori](https://osu.ppy.sh/users/5364763) of the Mappers' Guild!
+Check out [this short version showcase set](https://osu.ppy.sh/beatmapsets/1267302) hosted by ::Nao Tomori::{ user-id=5364763 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/111/previews/2911.mp3" type="audio/mpeg">

@@ -12,7 +12,7 @@ Apabila kamu merasa tidak nyaman sampai-sampai kamu harus merujuk pada artikel i
 
 Kami tidak membenarkan segala bentuk tindakan atau rayuan seksual yang tidak diinginkan di dalam komunitas kami.
 
-Akun email penyalahgunaan kami hanya dapat diakses [peppy](https://osu.ppy.sh/users/2) (selaku pembuat osu!).
+Akun email penyalahgunaan kami hanya dapat diakses ::peppy::{ user-id=2 } (selaku pembuat osu!).
 
 Segala sesuatunya yang kamu kirimkan ke [abuse@ppy.sh](mailto:abuse@ppy.sh) tidak akan pernah dibagikan dengan siapa pun juga kecuali peppy sendiri.
 
@@ -36,7 +36,7 @@ Apabila kamu merasa bahwa komentar/rayuan yang kamu terima sudah sangat tidak pa
 
 Untuk melapor, klik tompol `Laporkan postingan` yang terdapat pada pojok kanan atas postingan forum yang bersangkutan.
 
-Sebagai alternatifnya, klik nama pengguna salah satu GMT yang tertera pada halaman di atas. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat [langsung menghubungi pengguna ini](https://osu.ppy.sh/users/5999631).
+Sebagai alternatifnya, klik nama pengguna salah satu GMT yang tertera pada halaman di atas. Hal ini akan membawamu ke profil mereka masing-masing. Apabila kamu tidak yakin kepada siapa kamu harus melapor, kamu dapat ::langsung menghubungi pengguna ini::{ user-id=5999631 }.
 
 Apabila sudah, klik tombol amplop yang berada tepat di bawah bendera negara mereka. Setelahnya, layar pesan obrolan pribadi (*private message*) akan terbuka.
 

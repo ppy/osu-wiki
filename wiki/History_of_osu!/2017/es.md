@@ -2,7 +2,7 @@
 
 ## Enero
 
-[Ephemeral](https://osu.ppy.sh/users/102335) publicó una noticia sobre el nuevo año para asegurar que sucederán muchas cosas importantes en 2017. [S3RL](https://osu.ppy.sh/beatmaps/artists/9) y [nanobii](https://osu.ppy.sh/beatmaps/artists/10) fueron anunciados como nuevos Artistas Destacados de osu!. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2), [yuki.](https://osu.ppy.sh/beatmaps/artists/4) y [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) lanzaron cada uno un nuevo álbum dando a osu! 26 nuevas canciones para mapear. Aspire regresa para 2017.
+::Ephemeral::{ user-id=102335 } publicó una noticia sobre el nuevo año para asegurar que sucederán muchas cosas importantes en 2017. [S3RL](https://osu.ppy.sh/beatmaps/artists/9) y [nanobii](https://osu.ppy.sh/beatmaps/artists/10) fueron anunciados como nuevos Artistas Destacados de osu!. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2), [yuki.](https://osu.ppy.sh/beatmaps/artists/4) y [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) lanzaron cada uno un nuevo álbum dando a osu! 26 nuevas canciones para mapear. Aspire regresa para 2017.
 
 Enlaces:
 
@@ -33,7 +33,7 @@ Enlaces:
 
 ## Abril
 
-El Monthly Beatmapping Contest \#13 concluyó con [RyoKazuka](https://osu.ppy.sh/users/6258586) obteniendo el primer lugar. Apsire 2017: la etapa uno concluyó con [ProfessionalBox](https://osu.ppy.sh/users/3250792) ocupando el primer lugar. Se abrió la votación para el concurso de fanart de primavera. Se publicó la edición n.º 100(?) de osu!weekly. La osu!taiko World Cup 2017 concluyó con la victoria de Japón contra Taiwán. Antes de que terminara abril, los votos del concurso de fanart de primavera estaban listos, lo que permitió que [Evaine](https://osu.ppy.sh/users/7295733) obtuviera el primer lugar.
+El Monthly Beatmapping Contest \#13 concluyó con ::RyoKazuka::{ user-id=6258586 } obteniendo el primer lugar. Apsire 2017: la etapa uno concluyó con ::ProfessionalBox::{ user-id=3250792 } ocupando el primer lugar. Se abrió la votación para el concurso de fanart de primavera. Se publicó la edición n.º 100(?) de osu!weekly. La osu!taiko World Cup 2017 concluyó con la victoria de Japón contra Taiwán. Antes de que terminara abril, los votos del concurso de fanart de primavera estaban listos, lo que permitió que ::Evaine::{ user-id=7295733 } obtuviera el primer lugar.
 
 Enlaces:
 
@@ -68,7 +68,7 @@ Enlaces:
 
 ## Julio
 
-Se abren las inscripciones para la osu!mania 4K World Cup. Se abrió la votación para el concurso de fanart de Mocha en verano. La osu!catch World Cup 2017 concluyó con Corea del Sur tomando el primer lugar de China. Se abrieron las inscripciones para el Community Mentorship Program Fall 2017. El último día de julio, el concurso de fanart de Mocha en verano concluyó con [2Su](https://osu.ppy.sh/users/6598966) obteniendo el primer lugar.
+Se abren las inscripciones para la osu!mania 4K World Cup. Se abrió la votación para el concurso de fanart de Mocha en verano. La osu!catch World Cup 2017 concluyó con Corea del Sur tomando el primer lugar de China. Se abrieron las inscripciones para el Community Mentorship Program Fall 2017. El último día de julio, el concurso de fanart de Mocha en verano concluyó con ::2Su::{ user-id=6598966 } obteniendo el primer lugar.
 
 Enlaces:
 
@@ -123,7 +123,7 @@ Enlaces:
 
 ## Diciembre
 
-Se publicaron los resultados del Winter 2017 Fanart Contest, premiando a [Leissss](https://osu.ppy.sh/users/4750716) con la mayor cantidad de votos. La OWC 2017 concluyó con la victoria de Polonia. Gracias a LiquidPL, la vergonzoza página de descarga de la osu!web se rehizo. El día antes de Navidad, se anunció otro puñado de contribuidores de la comunidad. Todos los jugadores recibieron el estado de osu!supporter temporalmente con fines de prueba, lo que casualmente sucedió en Nochebuena. peppy finaliza el año con un video, dando a 2017 una revisión del año con respecto a la versión [lazer](/wiki/Client/Release_stream/Lazer) de osu!.
+Se publicaron los resultados del Winter 2017 Fanart Contest, premiando a ::Leissss::{ user-id=4750716 } con la mayor cantidad de votos. La OWC 2017 concluyó con la victoria de Polonia. Gracias a LiquidPL, la vergonzoza página de descarga de la osu!web se rehizo. El día antes de Navidad, se anunció otro puñado de contribuidores de la comunidad. Todos los jugadores recibieron el estado de osu!supporter temporalmente con fines de prueba, lo que casualmente sucedió en Nochebuena. peppy finaliza el año con un video, dando a 2017 una revisión del año con respecto a la versión [lazer](/wiki/Client/Release_stream/Lazer) de osu!.
 
 Enlaces:
 

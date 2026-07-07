@@ -9,7 +9,7 @@ We're proud to pull back the curtain and welcome **MIMI** aboard as our latest F
 
 ![](https://assets.ppy.sh/artists/77/header.jpg)
 
-Brought to prominence in osu! by [one intrepid user's efforts](https://osu.ppy.sh/users/4378277) in the past year or two, **MIMI** is a Japanese producer and artist focused on working with the *VOCALOID* lineup.
+Brought to prominence in osu! by ::one intrepid user's efforts::{ user-id=4378277 } in the past year or two, **MIMI** is a Japanese producer and artist focused on working with the *VOCALOID* lineup.
 
 Gathering nearly 15 million plays in total, **MIMI**'s sound is clearly a hit amongst the community, and we're stoked to bring them aboard officially with a selection of **10 tracks** from their discography.
 
@@ -17,7 +17,7 @@ Check out a sample below:
 
 ### Ai no Sukima
 
-Check out [this set](https://osu.ppy.sh/beatmapsets/952409) by [Log Off Now](https://osu.ppy.sh/users/4378277)!
+Check out [this set](https://osu.ppy.sh/beatmapsets/952409) by ::Log Off Now::{ user-id=4378277 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/77/previews/2076.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out [this set](https://osu.ppy.sh/beatmapsets/952409) by [Log Off Now](htt
 
 ### Mizuoto to Curtain
 
-Check out [this set](https://osu.ppy.sh/beatmapsets/968171) by [Log Off Now](https://osu.ppy.sh/users/4378277)!
+Check out [this set](https://osu.ppy.sh/beatmapsets/968171) by ::Log Off Now::{ user-id=4378277 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/77/previews/2081.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out [this set](https://osu.ppy.sh/beatmapsets/968171) by [Log Off Now](htt
 
 ### Marshmary / Marshmallow
 
-Check out [this set](https://osu.ppy.sh/beatmapsets/962088) by [Log Off Now](https://osu.ppy.sh/users/4378277)!
+Check out [this set](https://osu.ppy.sh/beatmapsets/962088) by ::Log Off Now::{ user-id=4378277 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/77/previews/2079.mp3" type="audio/mpeg">

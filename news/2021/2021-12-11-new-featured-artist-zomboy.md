@@ -13,7 +13,7 @@ For the last 10 years, **Zomboy** has been a growing fireball of hot electronic 
 
 We've slapped **7** songs into [**Zomboy**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/224), all of which are pre-timed and ready for consumption.
 
-For those out of the loop, **Zomboy**'s music is *immensely* popular. Like, popular to the point of receiving millions of streams on a bunch of different songs. On osu!, **Zomboy**'s fame comes primarily from the classic beatmap [Nuclear (Hands Up)](https://osu.ppy.sh/beatmapsets/449299) mapped by [Shadren](https://osu.ppy.sh/users/745494). Watch through its top 8 scores paired with skins showcased in the last issue of the [Skinners' Bulletin](https://osu.ppy.sh/home/news/2021-11-05-skinners-bulletin-august-2021), then preview the rest of the tracks:
+For those out of the loop, **Zomboy**'s music is *immensely* popular. Like, popular to the point of receiving millions of streams on a bunch of different songs. On osu!, **Zomboy**'s fame comes primarily from the classic beatmap [Nuclear (Hands Up)](https://osu.ppy.sh/beatmapsets/449299) mapped by ::Shadren::{ user-id=745494 }. Watch through its top 8 scores paired with skins showcased in the last issue of the [Skinners' Bulletin](https://osu.ppy.sh/home/news/2021-11-05-skinners-bulletin-august-2021), then preview the rest of the tracks:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ For those out of the loop, **Zomboy**'s music is *immensely* popular. Like, popu
 
 ### Nuclear (Hands Up)
 
-Try [the map from the video above](https://osu.ppy.sh/beatmapsets/449299) hosted by [Shadren](https://osu.ppy.sh/users/745494)!
+Try [the map from the video above](https://osu.ppy.sh/beatmapsets/449299) hosted by ::Shadren::{ user-id=745494 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/224/The%20Dead%20Symphonic%20EP/Zomboy%20-%20Nuclear%20%28Hands%20Up%29.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Try [the map from the video above](https://osu.ppy.sh/beatmapsets/449299) hosted
 
 ### Mind Control
 
-Or check out [this popular unranked map](https://osu.ppy.sh/beatmapsets/174918) hosted by [69653863](https://osu.ppy.sh/users/1361697) (a.k.a. inverness)!
+Or check out [this popular unranked map](https://osu.ppy.sh/beatmapsets/174918) hosted by ::69653863::{ user-id=1361697 } (a.k.a. inverness)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/224/Songs/Zomboy%20-%20Mind%20Control.mp3" type="audio/mpeg">

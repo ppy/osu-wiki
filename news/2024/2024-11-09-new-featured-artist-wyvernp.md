@@ -13,7 +13,7 @@ While Korean producer **WyvernP** is best known for creating VOCALOID tracks, th
 
 [**WyvernP**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/445) is now home to **5** tracks, each pre-timed so you can create a map with one less step.
 
-Shift your reading from these words to these circles, somehow clicked by [Nyanaro](https://osu.ppy.sh/users/4157611) at [COE](/wiki/Community/cavoe's_osu!_event/2024) earlier this year:
+Shift your reading from these words to these circles, somehow clicked by ::Nyanaro::{ user-id=4157611 } at [COE](/wiki/Community/cavoe's_osu!_event/2024) earlier this year:
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ Shift your reading from these words to these circles, somehow clicked by [Nyanar
 
 ### [WyvernP - I'm not a HERO (2023 Remake)](https://assets.ppy.sh/artists/445/Songs/WyvernP%20-%20I%27m%20not%20a%20HERO%20(2023%20Remake).osz)
 
-Try [the map from the video above](https://osu.ppy.sh/beatmapsets/2202737) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!
+Try [the map from the video above](https://osu.ppy.sh/beatmapsets/2202737) hosted by ::Hinsvar::{ user-id=1249323 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/445/Songs/WyvernP%20-%20I%27m%20not%20a%20HERO%20(2023%20Remake).mp3">
@@ -31,7 +31,7 @@ Try [the map from the video above](https://osu.ppy.sh/beatmapsets/2202737) hoste
 
 ### [WyvernP - White Devil](https://assets.ppy.sh/artists/445/Songs/WyvernP%20-%20White%20Devil.osz)
 
-Or experience [this 300 BPM osu!taiko map](https://osu.ppy.sh/beatmapsets/2194042) hosted by [Alchyr](https://osu.ppy.sh/users/4993032)!
+Or experience [this 300 BPM osu!taiko map](https://osu.ppy.sh/beatmapsets/2194042) hosted by ::Alchyr::{ user-id=4993032 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/445/Songs/WyvernP%20-%20White%20Devil.mp3">

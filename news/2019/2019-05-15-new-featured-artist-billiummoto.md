@@ -55,6 +55,6 @@ As always, all of the tracks above plus the rest available on [**BilliumMoto**'s
 
 We're unofficially declaring May as the "home-grown" month for the Featured Artist project, and boy do we have a surprise slated for our next release at the end of the month. Keep your eyes and ears peeled; you won't want to miss out!
 
-In other extra news, we've recently welcomed a few more hands into the particulars of the Featured Artist project to keep things moving at a blazing pace, namely [Toy](https://osu.ppy.sh/users/2757689) and [pishifat](https://osu.ppy.sh/users/3178418), so prepare yourself for a continuation of the two-a-month release cycle we've been holding strong all year so far!
+In other extra news, we've recently welcomed a few more hands into the particulars of the Featured Artist project to keep things moving at a blazing pace, namely ::Toy::{ user-id=2757689 } and [pishifat](https://osu.ppy.sh/users/3178418), so prepare yourself for a continuation of the two-a-month release cycle we've been holding strong all year so far!
 
 —Ephemeral

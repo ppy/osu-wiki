@@ -2,59 +2,59 @@
 
 ## Январь
 
-- Перемещение [ToGlette](https://osu.ppy.sh/users/1076236) из osu! Alumni в Global Moderation Team (2017-01-22)
-- Перемещение [Atrue](https://osu.ppy.sh/users/1758523) из osu! Alumni в Global Moderation Team (2017-01-22)
-- Добавление [n0ah](https://osu.ppy.sh/users/3086393) в Global Moderation Team (2017-01-26)
-- Добавление [heyronii](https://osu.ppy.sh/users/5642779) в Global Moderation Team (2017-01-28)
-- Добавление [ruexia](https://osu.ppy.sh/users/385069) в Global Moderation Team (2017-01-29)
+- Перемещение ::ToGlette::{ user-id=1076236 } из osu! Alumni в Global Moderation Team (2017-01-22)
+- Перемещение ::Atrue::{ user-id=1758523 } из osu! Alumni в Global Moderation Team (2017-01-22)
+- Добавление ::n0ah::{ user-id=3086393 } в Global Moderation Team (2017-01-26)
+- Добавление ::heyronii::{ user-id=5642779 } в Global Moderation Team (2017-01-28)
+- Добавление ::ruexia::{ user-id=385069 } в Global Moderation Team (2017-01-29)
 
 ### Добавления в Beatmap Nominator
 
 Перечисленные ниже пользователи были добавлены в один день, 2017-01-20.
 
-- [riffy](https://osu.ppy.sh/users/597957)
-- [Battle](https://osu.ppy.sh/users/4037545)
-- [F D Flourite](https://osu.ppy.sh/users/2459589)
-- [Garden](https://osu.ppy.sh/users/2849992)
-- [Nao Tomori](https://osu.ppy.sh/users/5364763)
-- [Naxess](https://osu.ppy.sh/users/8129817)
+- ::riffy::{ user-id=597957 }
+- ::Battle::{ user-id=4037545 }
+- ::F D Flourite::{ user-id=2459589 }
+- ::Garden::{ user-id=2849992 }
+- ::Nao Tomori::{ user-id=5364763 }
+- ::Naxess::{ user-id=8129817 }
 
 ## Февраль
 
-- Добавление [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) в Quality Assurance Team (2017-02-20)
+- Добавление ::Nardoxyribonucleic::{ user-id=876419 } в Quality Assurance Team (2017-02-20)
 
 ## Март
 
-- Добавление [S o h](https://osu.ppy.sh/users/2234772) в Global Moderation Team (2017-03-29)
-- Перемещение [QHideaki13](https://osu.ppy.sh/users/733998) из Global Moderation Team в osu! Alumni (2017-03-29)
+- Добавление ::S o h::{ user-id=2234772 } в Global Moderation Team (2017-03-29)
+- Перемещение ::QHideaki13::{ user-id=733998 } из Global Moderation Team в osu! Alumni (2017-03-29)
 
 ## Апрель
 
-- Перемещение [Uni](https://osu.ppy.sh/users/617106) из osu! Alumni в Global Moderation Team (2017-04-03)
-- Перемещение [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) из Global Moderation Team в osu! Alumni (2017-04-03)
-- Перемещение [DakeDekaane](https://osu.ppy.sh/users/1425253) из Quality Assurance Team в osu! Alumni (2017-04-27)
-- Перемещение [Myxo](https://osu.ppy.sh/users/2202645) из Quality Assurance Team в osu! Alumni (2017-04-27)
-- Перемещение [Fycho](https://osu.ppy.sh/users/1876867) из Global Moderation Team и Quality Assurance Team в osu! Alumni (2017-04-27)
+- Перемещение ::Uni::{ user-id=617106 } из osu! Alumni в Global Moderation Team (2017-04-03)
+- Перемещение ::ErunamoJAZZ::{ user-id=1869764 } из Global Moderation Team в osu! Alumni (2017-04-03)
+- Перемещение ::DakeDekaane::{ user-id=1425253 } из Quality Assurance Team в osu! Alumni (2017-04-27)
+- Перемещение ::Myxo::{ user-id=2202645 } из Quality Assurance Team в osu! Alumni (2017-04-27)
+- Перемещение ::Fycho::{ user-id=1876867 } из Global Moderation Team и Quality Assurance Team в osu! Alumni (2017-04-27)
 
 ### Добавления в Beatmap Nominator
 
 Перечисленные ниже пользователи были добавлены в один день, 2017-04-25.
 
-- [Arrival](https://osu.ppy.sh/users/1694000)
-- [Benny-](https://osu.ppy.sh/users/4023183)
-- [Jonawaga](https://osu.ppy.sh/users/3653035)
-- [Julie](https://osu.ppy.sh/users/2420987)
-- [Kin](https://osu.ppy.sh/users/480689)
-- [Skylish](https://osu.ppy.sh/users/2845958)
-- [Stefan](https://osu.ppy.sh/users/626907)
-- [Surono](https://osu.ppy.sh/users/3611370)
-- [thzz](https://osu.ppy.sh/users/1614839)
+- ::Arrival::{ user-id=1694000 }
+- ::Benny-::{ user-id=4023183 }
+- ::Jonawaga::{ user-id=3653035 }
+- ::Julie::{ user-id=2420987 }
+- ::Kin::{ user-id=480689 }
+- ::Skylish::{ user-id=2845958 }
+- ::Stefan::{ user-id=626907 }
+- ::Surono::{ user-id=3611370 }
+- ::thzz::{ user-id=1614839 }
 
 ## Май
 
-- Добавление [Cryptic](https://osu.ppy.sh/users/3728904) в Quality Assurance Team (2017-05-02)
-- Перемещение [Doyak](https://osu.ppy.sh/users/2046893) из Beatmap Nominators в Quality Assurance Team (2017-05-03)
-- Добавление [WalterToro](https://osu.ppy.sh/users/5281416) в Global Moderation Team (2017-05-22)
+- Добавление ::Cryptic::{ user-id=3728904 } в Quality Assurance Team (2017-05-02)
+- Перемещение ::Doyak::{ user-id=2046893 } из Beatmap Nominators в Quality Assurance Team (2017-05-03)
+- Добавление ::WalterToro::{ user-id=5281416 } в Global Moderation Team (2017-05-22)
 
 ## Июнь
 
@@ -62,90 +62,90 @@
 
 Перечисленные ниже пользователи были добавлены в один день, 2017-06-30.
 
-- [-Mo-](https://osu.ppy.sh/users/2202163)
-- [Delis](https://osu.ppy.sh/users/1603923)
-- [Doormat](https://osu.ppy.sh/users/3230571)
-- [Hobbes2](https://osu.ppy.sh/users/8157492)
-- [Kurai](https://osu.ppy.sh/users/77089)
-- [Mir](https://osu.ppy.sh/users/8688812)
-- [Plaudible](https://osu.ppy.sh/users/7149815)
-- [squirrelpascals](https://osu.ppy.sh/users/6151332)
-- [Voli](https://osu.ppy.sh/users/2522275)
+- ::-Mo-::{ user-id=2202163 }
+- ::Delis::{ user-id=1603923 }
+- ::Doormat::{ user-id=3230571 }
+- ::Hobbes2::{ user-id=8157492 }
+- ::Kurai::{ user-id=77089 }
+- ::Mir::{ user-id=8688812 }
+- ::Plaudible::{ user-id=7149815 }
+- ::squirrelpascals::{ user-id=6151332 }
+- ::Voli::{ user-id=2522275 }
 
 ## Август
 
-- Перемещение [alacat](https://osu.ppy.sh/users/869782) из Quality Assurance Team в osu! Alumni (2017-08-20)
+- Перемещение ::alacat::{ user-id=869782 } из Quality Assurance Team в osu! Alumni (2017-08-20)
 
 ## Сентябрь
 
-- Добавление [Lassikko](https://osu.ppy.sh/users/7253731) в Global Moderation Team (2017-09-11)
-- Перемещение [Pereira006](https://osu.ppy.sh/users/537344) из Global Moderation Team в osu! Alumni (2017-09-21)
-- Перемещение [Shockwave](https://osu.ppy.sh/users/251631) из Global Moderation Team в osu! Alumni (2017-09-21)
+- Добавление ::Lassikko::{ user-id=7253731 } в Global Moderation Team (2017-09-11)
+- Перемещение ::Pereira006::{ user-id=537344 } из Global Moderation Team в osu! Alumni (2017-09-21)
+- Перемещение ::Shockwave::{ user-id=251631 } из Global Moderation Team в osu! Alumni (2017-09-21)
 
 ### Добавления в Beatmap Nominator
 
 Перечисленные ниже пользователи были добавлены в один день, 2017-09-10.
 
-- [Asherz007](https://osu.ppy.sh/users/9014047)
-- [Gabe](https://osu.ppy.sh/users/654108)
-- [frukoyurdakul](https://osu.ppy.sh/users/7612550)
-- [Taikocracy](https://osu.ppy.sh/users/6256027)
-- [Weber](https://osu.ppy.sh/users/6410432)
-- [Litharrale](https://osu.ppy.sh/users/3189995)
-- [Electoz](https://osu.ppy.sh/users/6485263)
-- [alienflybot](https://osu.ppy.sh/users/636114)
-- [neonat](https://osu.ppy.sh/users/1561995)
-- [xfraczynho](https://osu.ppy.sh/users/2192669)
-- [Chromoxx](https://osu.ppy.sh/users/1881639)
+- ::Asherz007::{ user-id=9014047 }
+- ::Gabe::{ user-id=654108 }
+- ::frukoyurdakul::{ user-id=7612550 }
+- ::Taikocracy::{ user-id=6256027 }
+- ::Weber::{ user-id=6410432 }
+- ::Litharrale::{ user-id=3189995 }
+- ::Electoz::{ user-id=6485263 }
+- ::alienflybot::{ user-id=636114 }
+- ::neonat::{ user-id=1561995 }
+- ::xfraczynho::{ user-id=2192669 }
+- ::Chromoxx::{ user-id=1881639 }
 
 ## Октябрь
 
-- Перемещение [mancuso\_JM\_](https://osu.ppy.sh/users/521568) из osu! Alumni в Global Moderation Team (2017-10-03)
-- Исключение [Cryptic](https://osu.ppy.sh/users/3728904) из Quality Assurance Team (2017-10-03)
-- Добавление [Naxess](https://osu.ppy.sh/users/8129817) в Quality Assurance Team (2017-10-05)
-- Добавление [Raiden](https://osu.ppy.sh/users/2239480) в Quality Assurance Team (2017-10-05)
-- Исключение [IamKwaN](https://osu.ppy.sh/users/1856463) из Global Moderation Team (2017-10-12)
-- Перемещение [n0ah](https://osu.ppy.sh/users/3086393) из Global Moderation Team в osu! Alumni (2017-10-12)
-- Перемещение [Stefan](https://osu.ppy.sh/users/626907) из Global Moderation Team в osu! Alumni (2017-10-12)
-- Перемещение [IamKwaN](https://osu.ppy.sh/users/1856463) из Quality Assurance Team в osu! Alumni (2017-10-14)
-- Добавление [Death](https://osu.ppy.sh/users/3242450) в Global Moderation Team и Support Team (2017-10-20)
+- Перемещение ::mancuso\_JM\_::{ user-id=521568 } из osu! Alumni в Global Moderation Team (2017-10-03)
+- Исключение ::Cryptic::{ user-id=3728904 } из Quality Assurance Team (2017-10-03)
+- Добавление ::Naxess::{ user-id=8129817 } в Quality Assurance Team (2017-10-05)
+- Добавление ::Raiden::{ user-id=2239480 } в Quality Assurance Team (2017-10-05)
+- Исключение ::IamKwaN::{ user-id=1856463 } из Global Moderation Team (2017-10-12)
+- Перемещение ::n0ah::{ user-id=3086393 } из Global Moderation Team в osu! Alumni (2017-10-12)
+- Перемещение ::Stefan::{ user-id=626907 } из Global Moderation Team в osu! Alumni (2017-10-12)
+- Перемещение ::IamKwaN::{ user-id=1856463 } из Quality Assurance Team в osu! Alumni (2017-10-14)
+- Добавление ::Death::{ user-id=3242450 } в Global Moderation Team и Support Team (2017-10-20)
 
 ### Добавления в Beatmap Nominator
 
 Перечисленные ниже пользователи были добавлены в один день, 2017-10-24.
 
-- [celerih](https://osu.ppy.sh/users/4696296)
-- [Cerulean Veyron](https://osu.ppy.sh/users/1886524)
-- [Chewin](https://osu.ppy.sh/users/617323)
-- [DeRandom Otaku](https://osu.ppy.sh/users/5156153)
-- [Halfslashed](https://osu.ppy.sh/users/4598899)
-- [MaridiuS](https://osu.ppy.sh/users/4496961)
-- [Kisses](https://osu.ppy.sh/users/4276114)
-- [Sinnoh](https://osu.ppy.sh/users/4236057)
+- ::celerih::{ user-id=4696296 }
+- ::Cerulean Veyron::{ user-id=1886524 }
+- ::Chewin::{ user-id=617323 }
+- ::DeRandom Otaku::{ user-id=5156153 }
+- ::Halfslashed::{ user-id=4598899 }
+- ::MaridiuS::{ user-id=4496961 }
+- ::Kisses::{ user-id=4276114 }
+- ::Sinnoh::{ user-id=4236057 }
 
 ## Декабрь
 
-- Добавление [Protastic101](https://osu.ppy.sh/users/6712747) в Quality Assurance Team (2017-12-11)
-- Перемещение [OnosakiHito](https://osu.ppy.sh/users/290128) из Quality Assurance Team в osu! Alumni (2017-12-11)
-- Перемещение [Seijiro](https://osu.ppy.sh/users/2581696) из Global Moderation Team в osu! Alumni (2017-12-17)
-- Перемещение [Loctav](https://osu.ppy.sh/users/71366) в osu! Alumni (2017-12-17)
-- Перемещение [n0ah](https://osu.ppy.sh/users/3086393) из osu! Alumni в Global Moderation Team (2017-12-26)
-- Добавление [Edu](https://osu.ppy.sh/users/5618109) в Global Moderation Team (2017-12-29)
-- Добавление [Clobohne](https://osu.ppy.sh/users/499343) в Global Moderation Team (2017-12-29)
-- Перемещение [Kurai](https://osu.ppy.sh/users/77089) из Beatmap Nominators в Quality Assurance Team (2017-12-31)
+- Добавление ::Protastic101::{ user-id=6712747 } в Quality Assurance Team (2017-12-11)
+- Перемещение ::OnosakiHito::{ user-id=290128 } из Quality Assurance Team в osu! Alumni (2017-12-11)
+- Перемещение ::Seijiro::{ user-id=2581696 } из Global Moderation Team в osu! Alumni (2017-12-17)
+- Перемещение ::Loctav::{ user-id=71366 } в osu! Alumni (2017-12-17)
+- Перемещение ::n0ah::{ user-id=3086393 } из osu! Alumni в Global Moderation Team (2017-12-26)
+- Добавление ::Edu::{ user-id=5618109 } в Global Moderation Team (2017-12-29)
+- Добавление ::Clobohne::{ user-id=499343 } в Global Moderation Team (2017-12-29)
+- Перемещение ::Kurai::{ user-id=77089 } из Beatmap Nominators в Quality Assurance Team (2017-12-31)
 
 ### Добавления в Beatmap Nominator
 
 Перечисленные ниже пользователи были добавлены в один день, 2017-12-11.
 
-- [Aloda](https://osu.ppy.sh/users/1190127)
-- [Garalulu](https://osu.ppy.sh/users/757783)
-- [Hareimu](https://osu.ppy.sh/users/4138746)
-- [Kamikaze](https://osu.ppy.sh/users/2124783)
-- [Nokashi](https://osu.ppy.sh/users/5431196)
-- [Sorcerer](https://osu.ppy.sh/users/1913190)
-- [Tofu1222](https://osu.ppy.sh/users/6089608)
+- ::Aloda::{ user-id=1190127 }
+- ::Garalulu::{ user-id=757783 }
+- ::Hareimu::{ user-id=4138746 }
+- ::Kamikaze::{ user-id=2124783 }
+- ::Nokashi::{ user-id=5431196 }
+- ::Sorcerer::{ user-id=1913190 }
+- ::Tofu1222::{ user-id=6089608 }
 
 ### Исключения из Beatmap Nominator
 
-- [Monstrata](https://osu.ppy.sh/users/2706438) - неподобающее поведение в течение долгого времени (2017-12-19)
+- ::Monstrata::{ user-id=2706438 } - неподобающее поведение в течение долгого времени (2017-12-19)

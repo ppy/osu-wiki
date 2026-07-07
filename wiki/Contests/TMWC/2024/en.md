@@ -58,10 +58,10 @@ The osu!taiko Mapping World Cup 2024 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) |
-| Advisor | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
-| Designers | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
-| Judges | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491), ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128), ::{ flag=JP }:: [TKS](https://osu.ppy.sh/users/940878), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=GB }:: [arialle](https://osu.ppy.sh/users/18597899), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402), ::{ flag=US }:: [Asagi Mutsuki](https://osu.ppy.sh/users/2403621) |
+| Host | ::{ flag=NL }:: ::ikin5050::{ user-id=4007649 } |
+| Advisor | ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } |
+| Designers | ::{ flag=MY }:: ::Jerry::{ user-id=605973 }, ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } |
+| Judges | ::{ flag=US }:: ::Nifty::{ user-id=4956097 }, ::{ flag=AT }:: ::Yasuho::{ user-id=8458835 }, ::{ flag=DE }:: ::Greenshell::{ user-id=8693851 }, ::{ flag=US }:: ::op45667::{ user-id=21973491 }, ::{ flag=TH }:: ::Ph0eNiiXZ::{ user-id=9463721 }, ::{ flag=HK }:: ::Cynplytholowazy::{ user-id=3901754 }, ::{ flag=NL }:: ::Boaz::{ user-id=13302996 }, ::{ flag=JP }:: ::Maimaing::{ user-id=14520910 }, ::{ flag=DE }:: ::OnosakiHito::{ user-id=290128 }, ::{ flag=JP }:: ::TKS::{ user-id=940878 }, ::{ flag=VN }:: ::davidminh0111::{ user-id=9623142 }, ::{ flag=AR }:: ::Axer::{ user-id=7299864 }, ::{ flag=GB }:: ::arialle::{ user-id=18597899 }, ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 }, ::{ flag=US }:: ::Backfire::{ user-id=263110 }, ::{ flag=US }:: ::meiqth::{ user-id=12565402 }, ::{ flag=US }:: ::Asagi Mutsuki::{ user-id=2403621 } |
 
 ## Links
 

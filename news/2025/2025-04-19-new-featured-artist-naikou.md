@@ -17,7 +17,7 @@ Inspired by the likes of [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31), [
 
 ### [Naikou - Final Call](https://assets.ppy.sh/artists/471/Final%20Call/Naikou%20-%20Final%20Call.osz)
 
-**Naikou**'s most recent addition to the tournament scene is the Grand Finals tiebreaker for *5 Digit World Cup*: [Final Call](https://osu.ppy.sh/beatmapsets/2351118) mapped by [v0x](https://osu.ppy.sh/users/18128385), [Gordon](https://osu.ppy.sh/users/7856835), [subahibi](https://osu.ppy.sh/users/10627594), and [Kyairie](https://osu.ppy.sh/users/10910405)! Check out the fancy beatmap showcase video made by [Happy_24](https://osu.ppy.sh/users/12876323) below.
+**Naikou**'s most recent addition to the tournament scene is the Grand Finals tiebreaker for *5 Digit World Cup*: [Final Call](https://osu.ppy.sh/beatmapsets/2351118) mapped by ::v0x::{ user-id=18128385 }, [Gordon](https://osu.ppy.sh/users/7856835), ::subahibi::{ user-id=10627594 }, and [Kyairie](https://osu.ppy.sh/users/10910405)! Check out the fancy beatmap showcase video made by ::Happy\124::{ user-id=12876323 } below.
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/DX3gPJS_jCI" frameborder="0" allowfullscreen></iframe>
@@ -25,7 +25,7 @@ Inspired by the likes of [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31), [
 
 ### [Naikou - Beyond Reality](https://assets.ppy.sh/artists/471/Beyond%20Reality/Naikou%20-%20Beyond%20Reality.osz)
 
-Try out [a tiebreaker from last year's 5 Digit World Cup](https://osu.ppy.sh/beatmapsets/2163553) mapped by [ajmosca](https://osu.ppy.sh/users/19884809), [Feiri](https://osu.ppy.sh/users/3214844), and [Kyairie](https://osu.ppy.sh/users/10910405)!
+Try out [a tiebreaker from last year's 5 Digit World Cup](https://osu.ppy.sh/beatmapsets/2163553) mapped by ::ajmosca::{ user-id=19884809 }, [Feiri](https://osu.ppy.sh/users/3214844), and ::Kyairie::{ user-id=10910405 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/471/Beyond%20Reality/Naikou%20-%20Beyond%20Reality.mp3">

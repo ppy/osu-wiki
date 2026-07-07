@@ -69,9 +69,9 @@ The OMC5 is run by members of the Korean mapping community.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | **[Enon](https://osu.ppy.sh/users/2043401)**, [Beomsan](https://osu.ppy.sh/users/3626063), [GimBab](https://osu.ppy.sh/users/3141964), [My Angel RangE](https://osu.ppy.sh/users/6336713), [Sonnyc](https://osu.ppy.sh/users/11771) |
+| Manager | **::Enon::{ user-id=2043401 }**, [Beomsan](https://osu.ppy.sh/users/3626063), ::GimBab::{ user-id=3141964 }, [My Angel RangE](https://osu.ppy.sh/users/6336713), ::Sonnyc::{ user-id=11771 } |
 | Judge | (will be announced when the results are announced) |
-| Designer | [Enon](https://osu.ppy.sh/users/2043401) |
+| Designer | ::Enon::{ user-id=2043401 } |
 
 ## Links
 

@@ -30,10 +30,10 @@ tags:
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | 意大利语 |
-| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
-| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
-| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | 韩语，日语 |
-| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | 德语 |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 |
-| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | 波兰语 |
+| ::{ flag=IT }:: ::- Marco -::{ user-id=1273955 } | 意大利语 |
+| ::{ flag=US }:: ::Blushing::{ user-id=5927823 } |  |
+| ::{ flag=GB }:: ::chromb::{ user-id=10238680 } |  |
+| ::{ flag=KR }:: ::Civil oath::{ user-id=3216107 } | 韩语，日语 |
+| ::{ flag=DE }:: ::Lyawi::{ user-id=5851253 } | 德语 |
+| ::{ flag=PH }:: ::Nathanael::{ user-id=2295078 } | 菲律宾语 |
+| ::{ flag=PL }:: ::spaceman\1atlas::{ user-id=3035836 } | 波兰语 |

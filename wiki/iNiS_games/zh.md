@@ -25,7 +25,7 @@ tags:
 
 *另请参阅：[osu! (消歧义)](/wiki/Disambiguation/osu!)*
 
-[osu!](/wiki/Game_mode/osu!) [模式](/wiki/Game_mode)以及 osu! 这个游戏本身最初是基于 **[iNiS 公司](https://en.wikipedia.org/wiki/INiS_Corporation)** 于 2000 年代初期在 [任天堂 DS](https://zh.wikipedia.org/wiki/任天堂DS) 平台上开发的一些节奏游戏。::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 开发出 osu! 的目的是作为 iNiS 游戏的模拟器和谱面编辑器，并且最早的社区成员通常也是这些游戏的粉丝。早期的[谱面](/wiki/Beatmap)深受 iNiS 的关卡设计影响。
+[osu!](/wiki/Game_mode/osu!) [模式](/wiki/Game_mode)以及 osu! 这个游戏本身最初是基于 **[iNiS 公司](https://en.wikipedia.org/wiki/INiS_Corporation)** 于 2000 年代初期在 [任天堂 DS](https://zh.wikipedia.org/wiki/任天堂DS) 平台上开发的一些节奏游戏。::{ flag=AU }:: ::peppy::{ user-id=2 } 开发出 osu! 的目的是作为 iNiS 游戏的模拟器和谱面编辑器，并且最早的社区成员通常也是这些游戏的粉丝。早期的[谱面](/wiki/Beatmap)深受 iNiS 的关卡设计影响。
 
 这些游戏包括：
 

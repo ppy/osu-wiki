@@ -36,13 +36,13 @@ The Skinning Contest #1 was run by various community members.
 
 | User | Responsibility |
 | :-- | :-- |
-| ::{ flag=DE }:: [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning |
-| ::{ flag=RO }:: [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning, graphic design |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Contest planning |
-| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening, showcase preparations |
-| ::{ flag=GB }:: [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning, showcase preparations |
-| ::{ flag=NL }:: [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
-| ::{ flag=PL }:: [watterino](https://osu.ppy.sh/users/3512261) | Video editor, showcase preparations |
+| ::{ flag=DE }:: ::Master-TigerKun::{ user-id=10688456 } | Contest planning |
+| ::{ flag=RO }:: ::Matt2e2::{ user-id=12144912 } | Contest planning, graphic design |
+| ::{ flag=NL }:: ::Roan::{ user-id=8214639 } | Contest planning |
+| ::{ flag=DE }:: ::RockRoller::{ user-id=8388854 } | Contest planning, submission screening, showcase preparations |
+| ::{ flag=GB }:: ::tetsui::{ user-id=10974678 } | Contest planning, showcase preparations |
+| ::{ flag=NL }:: ::vvivi::{ user-id=10432755 } | Contest planning |
+| ::{ flag=PL }:: ::watterino::{ user-id=3512261 } | Video editor, showcase preparations |
 
 ## Links
 
@@ -59,37 +59,37 @@ The Skinning Contest #1 was run by various community members.
 
 | Skinner | Entry |
 | :-- | :-- |
-| ::{ flag=SI }:: [\[ Foxxo \]](https://osu.ppy.sh/users/15183579) | [AI](https://osu.ppy.sh/community/forums/topics/1271982) |
-| ::{ flag=DE }:: [5teven](https://osu.ppy.sh/users/8568397) | [5kin](https://osu.ppy.sh/community/forums/topics/1292897) |
-| ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | [Simplified Dark](https://osu.ppy.sh/community/forums/topics/1270022) |
-| ::{ flag=DE }:: [Aregularhuman](https://osu.ppy.sh/users/20727092) | [冷戦(Reisen)](https://osu.ppy.sh/community/forums/topics/1292152) |
-| ::{ flag=AR }:: [Atreevete](https://osu.ppy.sh/users/2615199) | [Starcruiser](https://osu.ppy.sh/community/forums/topics/1289843) |
-| ::{ flag=SA }:: [Beatzs](https://osu.ppy.sh/users/8095677) | [Beats's Own Negligible](https://osu.ppy.sh/community/forums/topics/1275236) |
-| ::{ flag=PH }:: [BPChingu](https://osu.ppy.sh/users/4236855) | [FocusNeo: Focus to the Future](https://osu.ppy.sh/community/forums/topics/1291126) |
-| ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) |
-| ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | [Night05](https://osu.ppy.sh/community/forums/topics/1292097) |
-| ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | [WhiteCat 2.1](https://osu.ppy.sh/community/forums/topics/1279815) |
-| ::{ flag=NZ }:: [downy](https://osu.ppy.sh/users/4585661) | [New Zealand](https://osu.ppy.sh/community/forums/topics/1292880) |
-| ::{ flag=PL }:: [h3oCharles](https://osu.ppy.sh/users/8712289) | [Untitled Red](https://osu.ppy.sh/community/forums/topics/1278791) |
-| ::{ flag=PH }:: [Inflique](https://osu.ppy.sh/users/13865585) | [Ai Hayasaka non-weeb ver.](https://osu.ppy.sh/community/forums/topics/1293078) |
-| ::{ flag=VE }:: [Kim Minnie](https://osu.ppy.sh/users/3858685) | [Elation](https://osu.ppy.sh/community/forums/topics/1293200) |
-| ::{ flag=VN }:: [koomo](https://osu.ppy.sh/users/2168518) | [Loona](https://osu.ppy.sh/community/forums/topics/1285299) |
-| ::{ flag=EE }:: [Krizto](https://osu.ppy.sh/users/13474556) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) |
-| ::{ flag=CN }:: [McEndu](https://osu.ppy.sh/users/14059135) | [Rhombus](https://osu.ppy.sh/community/forums/topics/1288510) |
-| ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | [bingV](https://osu.ppy.sh/community/forums/topics/1293209) |
-| ::{ flag=CA }:: [Nashboss100](https://osu.ppy.sh/users/15802424) | [The Nash Skin](https://osu.ppy.sh/community/forums/topics/1278022) |
-| ::{ flag=ID }:: [Nikano](https://osu.ppy.sh/users/8196177) | [Neynda.](https://osu.ppy.sh/community/forums/topics/1291076) |
-| ::{ flag=RU }:: [Nikstrim](https://osu.ppy.sh/users/10577559) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) |
-| ::{ flag=MX }:: [Nochito](https://osu.ppy.sh/users/15255804) | [Nochito Chocomint](https://osu.ppy.sh/community/forums/topics/1281445) |
-| ::{ flag=TR }:: [NotConsistent](https://osu.ppy.sh/users/13845312) | [Space \[Universal Apocalypse\]](https://osu.ppy.sh/community/forums/topics/1267043) |
-| ::{ flag=UA }:: [Pirasto](https://osu.ppy.sh/users/6766278) | [Prinz Heinrich](https://osu.ppy.sh/community/forums/topics/1292847) |
-| ::{ flag=AU }:: [spiefie99](https://osu.ppy.sh/users/10934017) | [Glassmorphism](https://osu.ppy.sh/community/forums/topics/1269582) |
-| ::{ flag=VE }:: [Suminoze](https://osu.ppy.sh/users/5308780) | [1stTry](https://osu.ppy.sh/community/forums/topics/1285565) |
-| ::{ flag=PL }:: [tearek\_](https://osu.ppy.sh/users/20767121) | [Multicolor Diamond HUD](https://osu.ppy.sh/community/forums/topics/1272664) |
-| ::{ flag=VN }:: [TKieen](https://osu.ppy.sh/users/12561202) | [Randoline](https://osu.ppy.sh/community/forums/topics/1291235) |
-| ::{ flag=MX }:: [xet](https://osu.ppy.sh/users/16274977) | [Who Tao](https://osu.ppy.sh/community/forums/topics/1281532) |
-| ::{ flag=PH }:: [Xyber Voltage](https://osu.ppy.sh/users/10443089) | [FreeMod is EZ](https://osu.ppy.sh/community/forums/topics/1269099) |
-| ::{ flag=MX }:: [ZixkyST](https://osu.ppy.sh/users/11844975) | [ZixStar](https://osu.ppy.sh/community/forums/topics/1278132) |
+| ::{ flag=SI }:: ::\[ Foxxo \]::{ user-id=15183579 } | [AI](https://osu.ppy.sh/community/forums/topics/1271982) |
+| ::{ flag=DE }:: ::5teven::{ user-id=8568397 } | [5kin](https://osu.ppy.sh/community/forums/topics/1292897) |
+| ::{ flag=ID }:: ::ArchieA7::{ user-id=7087699 } | [Simplified Dark](https://osu.ppy.sh/community/forums/topics/1270022) |
+| ::{ flag=DE }:: ::Aregularhuman::{ user-id=20727092 } | [冷戦(Reisen)](https://osu.ppy.sh/community/forums/topics/1292152) |
+| ::{ flag=AR }:: ::Atreevete::{ user-id=2615199 } | [Starcruiser](https://osu.ppy.sh/community/forums/topics/1289843) |
+| ::{ flag=SA }:: ::Beatzs::{ user-id=8095677 } | [Beats's Own Negligible](https://osu.ppy.sh/community/forums/topics/1275236) |
+| ::{ flag=PH }:: ::BPChingu::{ user-id=4236855 } | [FocusNeo: Focus to the Future](https://osu.ppy.sh/community/forums/topics/1291126) |
+| ::{ flag=US }:: ::BTMC::{ user-id=3171691 } | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) |
+| ::{ flag=FR }:: ::Corne2Plum3::{ user-id=15646039 } | [Night05](https://osu.ppy.sh/community/forums/topics/1292097) |
+| ::{ flag=RU }:: ::cyperdark::{ user-id=9893708 } | [WhiteCat 2.1](https://osu.ppy.sh/community/forums/topics/1279815) |
+| ::{ flag=NZ }:: ::downy::{ user-id=4585661 } | [New Zealand](https://osu.ppy.sh/community/forums/topics/1292880) |
+| ::{ flag=PL }:: ::h3oCharles::{ user-id=8712289 } | [Untitled Red](https://osu.ppy.sh/community/forums/topics/1278791) |
+| ::{ flag=PH }:: ::Inflique::{ user-id=13865585 } | [Ai Hayasaka non-weeb ver.](https://osu.ppy.sh/community/forums/topics/1293078) |
+| ::{ flag=VE }:: ::Kim Minnie::{ user-id=3858685 } | [Elation](https://osu.ppy.sh/community/forums/topics/1293200) |
+| ::{ flag=VN }:: ::koomo::{ user-id=2168518 } | [Loona](https://osu.ppy.sh/community/forums/topics/1285299) |
+| ::{ flag=EE }:: ::Krizto::{ user-id=13474556 } | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) |
+| ::{ flag=CN }:: ::McEndu::{ user-id=14059135 } | [Rhombus](https://osu.ppy.sh/community/forums/topics/1288510) |
+| ::{ flag=NL }:: ::Mr HeliX::{ user-id=2330619 } | [bingV](https://osu.ppy.sh/community/forums/topics/1293209) |
+| ::{ flag=CA }:: ::Nashboss100::{ user-id=15802424 } | [The Nash Skin](https://osu.ppy.sh/community/forums/topics/1278022) |
+| ::{ flag=ID }:: ::Nikano::{ user-id=8196177 } | [Neynda.](https://osu.ppy.sh/community/forums/topics/1291076) |
+| ::{ flag=RU }:: ::Nikstrim::{ user-id=10577559 } | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) |
+| ::{ flag=MX }:: ::Nochito::{ user-id=15255804 } | [Nochito Chocomint](https://osu.ppy.sh/community/forums/topics/1281445) |
+| ::{ flag=TR }:: ::NotConsistent::{ user-id=13845312 } | [Space \[Universal Apocalypse\]](https://osu.ppy.sh/community/forums/topics/1267043) |
+| ::{ flag=UA }:: ::Pirasto::{ user-id=6766278 } | [Prinz Heinrich](https://osu.ppy.sh/community/forums/topics/1292847) |
+| ::{ flag=AU }:: ::spiefie99::{ user-id=10934017 } | [Glassmorphism](https://osu.ppy.sh/community/forums/topics/1269582) |
+| ::{ flag=VE }:: ::Suminoze::{ user-id=5308780 } | [1stTry](https://osu.ppy.sh/community/forums/topics/1285565) |
+| ::{ flag=PL }:: ::tearek\_::{ user-id=20767121 } | [Multicolor Diamond HUD](https://osu.ppy.sh/community/forums/topics/1272664) |
+| ::{ flag=VN }:: ::TKieen::{ user-id=12561202 } | [Randoline](https://osu.ppy.sh/community/forums/topics/1291235) |
+| ::{ flag=MX }:: ::xet::{ user-id=16274977 } | [Who Tao](https://osu.ppy.sh/community/forums/topics/1281532) |
+| ::{ flag=PH }:: ::Xyber Voltage::{ user-id=10443089 } | [FreeMod is EZ](https://osu.ppy.sh/community/forums/topics/1269099) |
+| ::{ flag=MX }:: ::ZixkyST::{ user-id=11844975 } | [ZixStar](https://osu.ppy.sh/community/forums/topics/1278132) |
 
 ## Podium
 

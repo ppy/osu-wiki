@@ -49,7 +49,7 @@ No *osu!catch*, frutas de todas as variedades caem do topo da tela, e o jogador 
 
 *Página Principal: [osu!mania](osu!mania)*
 
-*osu!mania* é um modo de jogo vertical, é feito para ser um simulador de piano. Foi principalmente [introduzido e implementado](https://osu.ppy.sh/community/forums/topics/100751) pelo [woc2006](https://osu.ppy.sh/users/1105845), e é inspirado em uma variedade de jogos de ritmo do tipo "conveyor" (nomeados [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) e [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Os mascotes do osu!mania são gêmeas,[Mani and Mari](/wiki/Mascots#mani-&-mari), as duas com cabelo roxo e claro.
+*osu!mania* é um modo de jogo vertical, é feito para ser um simulador de piano. Foi principalmente [introduzido e implementado](https://osu.ppy.sh/community/forums/topics/100751) pelo ::woc2006::{ user-id=1105845 }, e é inspirado em uma variedade de jogos de ritmo do tipo "conveyor" (nomeados [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) e [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Os mascotes do osu!mania são gêmeas,[Mani and Mari](/wiki/Mascots#mani-&-mari), as duas com cabelo roxo e claro.
 
 ![Gameplay do osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania gameplay")
 

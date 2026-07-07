@@ -13,9 +13,9 @@ The community has spoken with **3792** players casting a total of **9981** votes
 
 ## 3rd Place - QUAVER: DIVIDE BY 8
 
-**1022** quaver retry spammers decided [thetasigma](https://osu.ppy.sh/users/6234482)'s [QUAVER: DIVIDE BY 8](https://osu.ppy.sh/community/forums/topics/1792739) was worthy of their votes, netting themselves the **3rd** place!
+**1022** quaver retry spammers decided ::thetasigma::{ user-id=6234482 }'s [QUAVER: DIVIDE BY 8](https://osu.ppy.sh/community/forums/topics/1792739) was worthy of their votes, netting themselves the **3rd** place!
 
-Based on [Sotarks](https://osu.ppy.sh/users/4452992)' [quaver](https://osu.ppy.sh/beatmapsets/873811#osu/1859185) beatmap, this skin fully embodies the map's background and incorporates the universe theme across the entire skin. The song selection screen is beautifully done with various planets and stars floating about, and even [Stardust](https://vocaloid.fandom.com/wiki/Xingchen) from the original background makes an appearance across several gameplay screens.
+Based on ::Sotarks::{ user-id=4452992 }' [quaver](https://osu.ppy.sh/beatmapsets/873811#osu/1859185) beatmap, this skin fully embodies the map's background and incorporates the universe theme across the entire skin. The song selection screen is beautifully done with various planets and stars floating about, and even [Stardust](https://vocaloid.fandom.com/wiki/Xingchen) from the original background makes an appearance across several gameplay screens.
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dVbEeRi0y_A" frameborder="0" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ Unfortunately for thetasigma, they were unable to get their [2nd win in a row](/
 
 ## 2nd Place - Everlasting Moment
 
-Time stood still as **1058** voters cast their votes, resulting in a very close battle between 3rd and 2nd place. In the end, [Chromasia](https://osu.ppy.sh/users/7306251) was able to win the battle and achieve **2nd** place with their entry!
+Time stood still as **1058** voters cast their votes, resulting in a very close battle between 3rd and 2nd place. In the end, ::Chromasia::{ user-id=7306251 } was able to win the battle and achieve **2nd** place with their entry!
 
 [Everlasting Moment](https://osu.ppy.sh/community/forums/topics/1792308) keeps up with the universe theme, while providing a unique flair based on the background art used in several beatmaps of [Release Hallucination](https://osu.ppy.sh/beatmaps/artists/194)'s *Chronostasis*. The colour palette is in line with the original art, and that makes this skin very pleasing to use!
 
@@ -41,7 +41,7 @@ We are very impressed with the quality of their work and cannot wait to see what
 
 ## Winner - FOOL MOON NIGHT
 
-[Spoo](https://osu.ppy.sh/users/11805037) was not a *fool* when they chose their theme (which somehow again involves the universe or space), because this skin stands head and shoulders above all other entries with a mind-blowing **1303** votes!
+::Spoo::{ user-id=11805037 } was not a *fool* when they chose their theme (which somehow again involves the universe or space), because this skin stands head and shoulders above all other entries with a mind-blowing **1303** votes!
 
 Inspired from the [2016 map of *A FOOL MOON NIGHT*](https://osu.ppy.sh/beatmapsets/524026#osu/1186901) by The Koxx, [Spoo's entry](https://osu.ppy.sh/community/forums/topics/1775136?n=1) completely blew the minds of the community by hand-drawing **everything** in the style of the original background. The quality of this skin is impeccable, and the **1st** place is absolutely deserved.
 

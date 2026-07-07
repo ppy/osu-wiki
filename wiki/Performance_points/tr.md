@@ -19,7 +19,7 @@ Piyasaya çıkmasından birkaç ay sonra, 20120722-24 osu! sürümünde, eski [D
 
 *Not: Performans Puanları sisteminin orijinal yapımı olan ppv1 sisteminin de bir değişiklik kaydı vardır. Bunu, ilgili [forum konusundan](https://osu.ppy.sh/community/forums/topics/92185) görüntüleyebilirsiniz.*
 
-Bir yılı aşkın bir süre boyunca bu kapasitede devam etti, ta ki *osu!tp* puanlama ölçütünün yaratıcısı [Tom94](https://osu.ppy.sh/users/1857058) [osu! team](/wiki/People/osu!_team)'e katılana ve kendi dizaynını mevcut sisteme uygulayana kadar. Sonucunda ortaya çıkan sistem *ppv2* olarak adlandırıldı, ve 27 Ocak 2014 tarihinde güncel sürüme eklendi. Böylece eski sistem de *[ppv1](/wiki/Performance_points/ppv1)* olarak yeniden adlandırıldı.
+Bir yılı aşkın bir süre boyunca bu kapasitede devam etti, ta ki *osu!tp* puanlama ölçütünün yaratıcısı ::Tom94::{ user-id=1857058 } [osu! team](/wiki/People/osu!_team)'e katılana ve kendi dizaynını mevcut sisteme uygulayana kadar. Sonucunda ortaya çıkan sistem *ppv2* olarak adlandırıldı, ve 27 Ocak 2014 tarihinde güncel sürüme eklendi. Böylece eski sistem de *[ppv1](/wiki/Performance_points/ppv1)* olarak yeniden adlandırıldı.
 
 ppv2 şu anda aktif olarak, kendi [değişiklik kaydına](https://osu.ppy.sh/p/changelog?category=pp) zamanla eklenen güncellemelerle hizmet vermeye devam etmektedir.
 

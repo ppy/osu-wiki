@@ -391,15 +391,15 @@ Estos proyectos simplifican el proceso de formatear texto con BBCode:
 
 | Nombre | Responsable del proyecto | Descripción |
 | :-: | :-: | :-- |
-| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | Editor de BBCode con vista previa en tiempo real para el perfil de osu! |
-| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | Editor de BBCode con vista previa en tiempo real para el perfil de osu! (Archivado) |
-| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[____________]](https://osu.ppy.sh/users/12036908) | Crea degradados de color para el perfil de osu! |
-| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Extensión del navegador que añade más botones de BBCode y otras funciones al sitio web de osu! |
+| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: ::rezzvy::{ user-id=8804560 } | Editor de BBCode con vista previa en tiempo real para el perfil de osu! |
+| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: ::HonokaKousakaTV::{ user-id=18595366 } | Editor de BBCode con vista previa en tiempo real para el perfil de osu! (Archivado) |
+| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: ::\1\1\1\1\1\1\1\1\1\1\1\1\1\1::{ user-id=12036908 } | Crea degradados de color para el perfil de osu! |
+| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: ::RockRoller::{ user-id=8388854 } | Extensión del navegador que añade más botones de BBCode y otras funciones al sitio web de osu! |
 | [textcolorizer](https://www.stuffbydavid.com/textcolorizer) | david | Coloración de texto para BBCode y HTML |
 
 ## Curiosidades
 
-- Este artículo de la wiki originalmente fue adaptado del hilo del foro [«HOW TO: Forum BBCodes»](https://osu.ppy.sh/community/forums/topics/445599) por [Stefan](https://osu.ppy.sh/users/626907).
+- Este artículo de la wiki originalmente fue adaptado del hilo del foro [«HOW TO: Forum BBCodes»](https://osu.ppy.sh/community/forums/topics/445599) por ::Stefan::{ user-id=626907 }.
 - Solía haber un error que permitía a los usuarios hacer que el texto fuera transparente usando la [etiqueta de color](#color) y escribiendo «transparent» después del signo igual (`=`).
   - A partir de ahora, el texto volverá al color predeterminado (blanco) cuando esto suceda.
 - Antes de que se agregara la etiqueta `imagemap`, era posible agregar un hipervínculo a una imagen combinando las etiquetas `url` e `img`; sin embargo, solo se puede establecer un hipervínculo por imagen. Esto requeriría cortar la imagen original en varias piezas (es decir, una imagen parcial para cada enlace) y colocarlas horizontalmente una al lado de la otra.

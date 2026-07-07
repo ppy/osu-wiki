@@ -6,7 +6,7 @@ tags:
 
 # Catch French Dual Tournament
 
-The **Catch French Dual Tournament** (***CFDT***) was a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133). Teams consisted of two players, where the first player was ranked between #100 and #799, and the latter was ranked between #800 and #2,999. It was the first instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
+The **Catch French Dual Tournament** (***CFDT***) was a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 } and ::{ flag=FR }:: ::\_yosh::{ user-id=7157133 }. Teams consisted of two players, where the first player was ranked between #100 and #799, and the latter was ranked between #800 and #2,999. It was the first instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
 
 ## Tournament schedule
 
@@ -30,7 +30,7 @@ The **Catch French Dual Tournament** (***CFDT***) was a French double-eliminatio
 
 ![](img/badge.jpg "CFDT winner badge")
 
-Generous donations from ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161), ::{ flag=FR }:: [JustinBrizou](https://osu.ppy.sh/users/21879889), and ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) helped fund some of the prizes.
+Generous donations from ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::MitsukeZ::{ user-id=12943161 }, ::{ flag=FR }:: ::JustinBrizou::{ user-id=21879889 }, and ::{ flag=FR }:: ::Yruama::{ user-id=8221467 } helped fund some of the prizes.
 
 ## Organisation
 
@@ -38,13 +38,13 @@ The Catch French Dual Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133) |
-| Mappool selector | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) |
-| Referee | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [JeSuisJLF](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=FR }:: [Taevas](https://osu.ppy.sh/users/7276846), ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133) |
-| Streamer | ::{ flag=FR }:: [JeSuisJLF](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=LU }:: [Melodies](https://osu.ppy.sh/users/7787785), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510) |
-| Commentator | ::{ flag=FR }:: [Fulgu](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [JeSuisJLF](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| Designer | ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organiser | ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::\_yosh::{ user-id=7157133 } |
+| Mappool selector | ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 } |
+| Referee | ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::JeSuisJLF::{ user-id=15334170 }, ::{ flag=FR }:: ::Mimir::{ user-id=7382734 }, ::{ flag=FR }:: ::Ryumi::{ user-id=6596270 }, ::{ flag=FR }:: ::Taevas::{ user-id=7276846 }, ::{ flag=FR }:: ::\_yosh::{ user-id=7157133 } |
+| Streamer | ::{ flag=FR }:: ::JeSuisJLF::{ user-id=15334170 }, ::{ flag=FR }:: ::Kasumi-sama::{ user-id=6177263 }, ::{ flag=LU }:: ::Melodies::{ user-id=7787785 }, ::{ flag=FR }:: ::Un bretzel::{ user-id=1542565 }, ::{ flag=FR }:: ::Yostel::{ user-id=3594510 } |
+| Commentator | ::{ flag=FR }:: ::Fulgu::{ user-id=4096322 }, ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::JeSuisJLF::{ user-id=15334170 }, ::{ flag=FR }:: ::Kasumi-sama::{ user-id=6177263 }, ::{ flag=FR }:: ::MitsukeZ::{ user-id=12943161 }, ::{ flag=FR }:: ::Un bretzel::{ user-id=1542565 }, ::{ flag=FR }:: ::Yruama::{ user-id=8221467 } |
+| Designer | ::{ flag=KR }:: ::POCARI SWEAT::{ user-id=5082685 } |
+| Wiki writer | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Links
 
@@ -58,15 +58,15 @@ The Catch French Dual Tournament was run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **CFIC1 group B High/Top seed** | ::{ flag=FR }:: **[YANOO123](https://osu.ppy.sh/users/5122949)**, ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| **Convert player but no fc** | ::{ flag=FR }:: **[Pizu](https://osu.ppy.sh/users/9475990)**, ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913) |
-| **Cuties** | ::{ flag=FR }:: **[AgentYous](https://osu.ppy.sh/users/255854)**, ::{ flag=LU }:: [Melodies](https://osu.ppy.sh/users/7787785) |
-| **les bg** | ::{ flag=FR }:: **[Realmas](https://osu.ppy.sh/users/6567640)**, ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522) |
-| **Nameless** | ::{ flag=FR }:: **[Akan0o](https://osu.ppy.sh/users/11286034)**, ::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510) |
-| **Oask'eyeS** | ::{ flag=FR }:: **[Dask](https://osu.ppy.sh/users/4151397)**, ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012) |
-| **Rocma Fanclub** | ::{ flag=FR }:: **[Noctalium](https://osu.ppy.sh/users/6488167)**, ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210) |
-| **Stacker King** | ::{ flag=FR }:: **[Kasumi-sama](https://osu.ppy.sh/users/6177263)**, ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565) |
-| **TheFramazing** | ::{ flag=FR }:: **[TheFrozenGamer](https://osu.ppy.sh/users/2756781)**, ::{ flag=FR }:: [TheAmazing976\_](https://osu.ppy.sh/users/13984214) |
+| **CFIC1 group B High/Top seed** | ::{ flag=FR }:: **::YANOO123::{ user-id=5122949 }**, ::{ flag=FR }:: ::Yruama::{ user-id=8221467 } |
+| **Convert player but no fc** | ::{ flag=FR }:: **::Pizu::{ user-id=9475990 }**, ::{ flag=FR }:: ::\_Manyura::{ user-id=8335913 } |
+| **Cuties** | ::{ flag=FR }:: **::AgentYous::{ user-id=255854 }**, ::{ flag=LU }:: ::Melodies::{ user-id=7787785 } |
+| **les bg** | ::{ flag=FR }:: **::Realmas::{ user-id=6567640 }**, ::{ flag=BE }:: ::Cakenoob::{ user-id=6045522 } |
+| **Nameless** | ::{ flag=FR }:: **::Akan0o::{ user-id=11286034 }**, ::{ flag=FR }:: ::Yostel::{ user-id=3594510 } |
+| **Oask'eyeS** | ::{ flag=FR }:: **::Dask::{ user-id=4151397 }**, ::{ flag=FR }:: ::Oasix::{ user-id=6183012 } |
+| **Rocma Fanclub** | ::{ flag=FR }:: **::Noctalium::{ user-id=6488167 }**, ::{ flag=FR }:: ::Shamookie::{ user-id=12441210 } |
+| **Stacker King** | ::{ flag=FR }:: **::Kasumi-sama::{ user-id=6177263 }**, ::{ flag=FR }:: ::Un bretzel::{ user-id=1542565 } |
+| **TheFramazing** | ::{ flag=FR }:: **::TheFrozenGamer::{ user-id=2756781 }**, ::{ flag=FR }:: ::TheAmazing976\_::{ user-id=13984214 } |
 
 ## Podium
 
@@ -74,9 +74,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Nameless** (::{ flag=FR }:: **[Akan0o](https://osu.ppy.sh/users/11286034)**, ::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **les bg** (::{ flag=FR }:: **[Realmas](https://osu.ppy.sh/users/6567640)**, ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Oask'eyeS** (::{ flag=FR }:: **[Dask](https://osu.ppy.sh/users/4151397)**, ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Nameless** (::{ flag=FR }:: **::Akan0o::{ user-id=11286034 }**, ::{ flag=FR }:: ::Yostel::{ user-id=3594510 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **les bg** (::{ flag=FR }:: **::Realmas::{ user-id=6567640 }**, ::{ flag=BE }:: ::Cakenoob::{ user-id=6045522 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Oask'eyeS** (::{ flag=FR }:: **::Dask::{ user-id=4151397 }**, ::{ flag=FR }:: ::Oasix::{ user-id=6183012 }) |
 
 ## Mappools
 

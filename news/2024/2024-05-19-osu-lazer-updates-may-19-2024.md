@@ -24,7 +24,7 @@ The devs have collected all the feedback submitted by the community so far, and 
 - **Word filters are now working in osu!(lazer).** Whether it's a multiplayer room name or a chat conversation, explicit language will automatically be filtered out.
 - **Hiding the HUD during gameplay will no longer hide skin elements that are in the playfield layer.** This allows greater flexibility for players to choose what essential elements (such as the hit error graph) need to stay even if the HUD is hidden.
 - **Dedicated touch areas for mobile osu!mania.** There are apparently a surprising amount of mobile players already. A starting step here is a new touchscreen input system, though for the moment, the sizes and positions of the touch areas are not customisable (but will be in the future!).
-- **Skin elements will now have their anchor follow the origin when being placed.** If you're confused about what anchors and origins are, [pishifat](https://osu.ppy.sh/users/3178418) explains this with visuals at [0:40 in the above video](https://www.youtube.com/watch?v=Y0SWx_n_AeQ&t=40s).
+- **Skin elements will now have their anchor follow the origin when being placed.** If you're confused about what anchors and origins are, ::pishifat::{ user-id=3178418 } explains this with visuals at [0:40 in the above video](https://www.youtube.com/watch?v=Y0SWx_n_AeQ&t=40s).
 - **77 additional Hush-Hush medals have been deployed since last update.** They're gradually being ported over from osu!(stable).
 
 ### New bundled beatmaps

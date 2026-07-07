@@ -27,11 +27,11 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 
 | Име | Допълнителен език |
 | :-- | :-- |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Филипински |
-| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Шведски, Испански |
-| ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
-| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Немски |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Испански |
+| ::{ flag=US }:: ::Death::{ user-id=3242450 } |  |
+| ::{ flag=US }:: ::Dntm8kmeeatu::{ user-id=5428812 } |  |
+| ::{ flag=NO }:: ::MillhioreF::{ user-id=941094 } |  |
+| ::{ flag=PH }:: ::Nathanael::{ user-id=2295078 } | Филипински |
+| ::{ flag=SE }:: ::Saten::{ user-id=444506 } | Шведски, Испански |
+| ::{ flag=AU }:: ::smoogipoo::{ user-id=1040328 } |  |
+| ::{ flag=DE }:: ::Tom94::{ user-id=1857058 } | Немски |
+| ::{ flag=ES }:: ::Trosk-::{ user-id=3469385 } | Испански |

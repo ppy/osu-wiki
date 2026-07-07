@@ -9,7 +9,7 @@ The Followpoint is back with another interview! This time it will be very artist
 
 ![](/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/banner.jpg)
 
-What's this? A new interview from The Followpoint? That's right, today we are back with [Dreamxiety](https://osu.ppy.sh/users/13103233). You may know her for creating artworks for the seasonal art contests, and you've probably seen them in the main menu whenever you load up osu!, if you have them enabled that is...
+What's this? A new interview from The Followpoint? That's right, today we are back with ::Dreamxiety::{ user-id=13103233 }. You may know her for creating artworks for the seasonal art contests, and you've probably seen them in the main menu whenever you load up osu!, if you have them enabled that is...
 
 Anyway, let's get right into it!
 
@@ -190,7 +190,7 @@ The world cup originals are nowadays introduced with animations using art assets
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/13103233">Dreamxiety</a></p>
 
-I was approached by [mangomizer](https://osu.ppy.sh/users/1893718), asking me if I'm interested in doing world cup assets. I thought it was a pretty crazy thing to even get asked that and I was excited, so I accepted it. It's still crazy how much I've been involved in providing assets for this game, I never would've expected this to happen.
+I was approached by ::mangomizer::{ user-id=1893718 }, asking me if I'm interested in doing world cup assets. I thought it was a pretty crazy thing to even get asked that and I was excited, so I accepted it. It's still crazy how much I've been involved in providing assets for this game, I never would've expected this to happen.
 
 ![](/wiki/shared/news/2024-09-02-the-followpoint-dreamxiety-the-osu-artist-extraordinaire/dreamxiety-world-cup.jpg)
 
@@ -206,7 +206,7 @@ I was approached by [mangomizer](https://osu.ppy.sh/users/1893718), asking me if
 
 That was actually pretty interesting. I chose osu!catch specifically because it's the mode I'm currently playing and I thought it'd be cool for me to provide art assets for it, kinda representing catch players in a way since there's not a lot of people in the community in the first place.
 
-That was my first time doing a collab project with other artists and designers. I don't know if I'm exactly good at communicating with other people so I was nervous, but it actually turned out to be fun. Shoutout to [nepperoni](https://osu.ppy.sh/users/7082924) and [saturn](https://osu.ppy.sh/users/22001295) for the awesome background art, and [Sakura006](https://osu.ppy.sh/users/10365024) for animating and carrying the whole project!
+That was my first time doing a collab project with other artists and designers. I don't know if I'm exactly good at communicating with other people so I was nervous, but it actually turned out to be fun. Shoutout to ::nepperoni::{ user-id=7082924 } and [saturn](https://osu.ppy.sh/users/22001295) for the awesome background art, and ::Sakura006::{ user-id=10365024 } for animating and carrying the whole project!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/2iYtNVtL9ds" frameborder="0" allowfullscreen></iframe>

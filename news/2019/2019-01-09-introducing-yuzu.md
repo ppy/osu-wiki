@@ -19,7 +19,7 @@ Okay, where was I? Yeah, "refashionising". Ah, I love it when they scream in pai
 
 ![](https://assets.ppy.sh/media/yuzu/yuzu-full-cover.jpg)
 
-I picked through all of the things people suggested (a wizard hat? really?) and decided to go with [Thievley](https://osu.ppy.sh/users/4717672)'s design because I felt you know... *connected* to her design. It screams... *speed*.
+I picked through all of the things people suggested (a wizard hat? really?) and decided to go with ::Thievley::{ user-id=4717672 }'s design because I felt you know... *connected* to her design. It screams... *speed*.
 
 Okay, really, more like because she made me look pretty cool.
 
@@ -51,7 +51,7 @@ Hmm? Is that someone banging on my door? Oh, welp, guess it's time for me to get
 
 *[Download the full, high quality design documentation here!](https://assets.ppy.sh/media/yuzu/yuzu-hq.pdf)*
 
-Character Design & Illustrations: [Thievley](https://osu.ppy.sh/users/4717672)\
-Key Art & Additional Illustrations: [Crowie](https://osu.ppy.sh/users/6894067)
+Character Design & Illustrations: ::Thievley::{ user-id=4717672 }\
+Key Art & Additional Illustrations: ::Crowie::{ user-id=6894067 }
 
 —Yuzu

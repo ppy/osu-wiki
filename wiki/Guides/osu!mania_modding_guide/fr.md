@@ -5,7 +5,7 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 
 # Guide de modding d'osu!mania
 
-*Auteur original : ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717).*
+*Auteur original : ::{ flag=DE }:: ::Feerum::{ user-id=4815717 }.*
 
 Ce guide explique comment modifier une [beatmap](/wiki/Beatmap) dans [osu!mania](/wiki/Game_mode/osu!mania). Le [modding](/wiki/Modding) est un processus relativement simple, et avec suffisamment de pratique, il peut vous amener à devenir un [Beatmap Nominator](/wiki/People/Beatmap_Nominators). Alors, c'est parti !
 

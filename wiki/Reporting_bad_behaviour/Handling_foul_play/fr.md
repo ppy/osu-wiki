@@ -87,7 +87,7 @@ Si vous avez enfreint les règles et que vous souhaitez vous racheter, veuillez 
 
 ## Comment puis-je éviter d'être réduit au silence ou restreint ?
 
-Lisez attentivement et suivez les [règles](/wiki/Rules). Si vous n'êtes pas sûr que ce que vous voulez faire enfreigne les règles, demandez à un membre de la [Global Moderation Team](/wiki/People/Global_Moderation_Team). Si vous ne savez pas à qui demander, [cliquez ici](https://osu.ppy.sh/users/5999631).
+Lisez attentivement et suivez les [règles](/wiki/Rules). Si vous n'êtes pas sûr que ce que vous voulez faire enfreigne les règles, demandez à un membre de la [Global Moderation Team](/wiki/People/Global_Moderation_Team). Si vous ne savez pas à qui demander, ::cliquez ici::{ user-id=5999631 }.
 
 ## Notes
 

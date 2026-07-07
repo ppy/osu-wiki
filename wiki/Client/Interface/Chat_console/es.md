@@ -15,7 +15,7 @@ Desde la mayoría de las pantallas en osu! puedes presionar `F8` o hacer clic en
 | **Rojo** | Miembro del [Global Moderation Team](/wiki/People/Global_Moderation_Team) o [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). |
 | **Verde** | La línea contiene tu nombre o ciertas palabras clave que has añadido para activar un [resaltado](Highlight). También aparecerá una copia del mensaje en un canal dedicado, `#highlight`, que contiene todas estas líneas. |
 | **Azul** | Mensaje privado. |
-| **Cian** | [peppy](https://osu.ppy.sh/users/2), el creador de osu!. |
+| **Cian** | ::peppy::{ user-id=2 }, el creador de osu!. |
 | **Rosa** | [BanchoBot](/wiki/BanchoBot). |
 
 - Haz clic en el cuadro `Show Ticker` para mostrar el mensaje de chat más nuevo en la parte inferior de la pantalla cuando la consola de chat no esté visible.

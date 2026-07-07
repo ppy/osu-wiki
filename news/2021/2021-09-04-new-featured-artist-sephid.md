@@ -13,7 +13,7 @@ series: featured_artists
 
 **19** songs are ready to be paired with your mapping prowess from [**SEPHID**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/196)!
 
-Curious how these tunes translate to mapping? Experience 12 users trying to full combo [*SEPHID - Critical Cannonball (Extended ver.)*](https://osu.ppy.sh/beatmapsets/1189616) by [DeviousPanda](https://osu.ppy.sh/users/4966334), then take a peek at the rest of these previews:
+Curious how these tunes translate to mapping? Experience 12 users trying to full combo [*SEPHID - Critical Cannonball (Extended ver.)*](https://osu.ppy.sh/beatmapsets/1189616) by ::DeviousPanda::{ user-id=4966334 }, then take a peek at the rest of these previews:
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ Curious how these tunes translate to mapping? Experience 12 users trying to full
 
 ### Critical Cannonball (Extended ver.)
 
-Check out [this beatmap from OWC 2020](https://osu.ppy.sh/beatmapsets/1189616) hosted by [DeviousPanda](https://osu.ppy.sh/users/4966334)!
+Check out [this beatmap from OWC 2020](https://osu.ppy.sh/beatmapsets/1189616) hosted by ::DeviousPanda::{ user-id=4966334 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/196/Songs/SEPHID%20-%20Critical%20Cannonball%20(Extended%20ver.).mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [this beatmap from OWC 2020](https://osu.ppy.sh/beatmapsets/1189616) h
 
 ### Fu Xiang Di Xin De Luo Ri Liu Hao ~ Little Raven
 
-Or check out [this awesome beatmap](https://osu.ppy.sh/beatmapsets/1173187) hosted by [Realazy](https://osu.ppy.sh/users/918297)
+Or check out [this awesome beatmap](https://osu.ppy.sh/beatmapsets/1173187) hosted by ::Realazy::{ user-id=918297 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/196/Songs/SEPHID%20feat.%20darkxixin%20-%20Fu%20Xiang%20Di%20Xin%20De%20Luo%20Ri%20Liu%20Hao%20%7E%20Little%20Raven.mp3" type="audio/mpeg">

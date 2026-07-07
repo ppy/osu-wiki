@@ -53,7 +53,7 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 ---
 
-*Header and promotional artwork by finalist [Amplui](https://osu.ppy.sh/users/24820805) from the [Halloween 2023 Fanart Contest](https://osu.ppy.sh/community/contests/186)!*
+*Header and promotional artwork by finalist ::Amplui::{ user-id=24820805 } from the [Halloween 2023 Fanart Contest](https://osu.ppy.sh/community/contests/186)!*
 
 With all that said, it's lock-in time! Whenever you're ready, head over to the [Halloween 2025 Fanart Contest listing](https://osu.ppy.sh/community/contests/260) and drag-&-drop your entry into the box with the plus sign in it.
 

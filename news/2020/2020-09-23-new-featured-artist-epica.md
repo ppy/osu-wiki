@@ -19,7 +19,7 @@ Check it all out:
 
 ### The Solace System
 
-Check out [this showcase map](https://osu.ppy.sh/beatmapsets/1224868) hosted by [Cris-](https://osu.ppy.sh/users/6175280) of the Mappers' Guild!
+Check out [this showcase map](https://osu.ppy.sh/beatmapsets/1224868) hosted by ::Cris-::{ user-id=6175280 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/100/previews/2698.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this showcase map](https://osu.ppy.sh/beatmapsets/1224868) hosted by 
 
 ### Beyond the Matrix
 
-Check out [this showcase map](https://osu.ppy.sh/beatmapsets/1247240) hosted by [Crissa](https://osu.ppy.sh/users/5405836) of the Mappers' Guild!
+Check out [this showcase map](https://osu.ppy.sh/beatmapsets/1247240) hosted by ::Crissa::{ user-id=5405836 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/100/previews/2684.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this showcase map](https://osu.ppy.sh/beatmapsets/1247240) hosted by 
 
 ### Universal Death Squad
 
-Check out [this single-difficulty showcase challenge map](https://osu.ppy.sh/beatmapsets/1262302) by [Mao](https://osu.ppy.sh/users/2204515) of the Mappers' Guild, and [this 2018 osu!taiko challenge map](https://osu.ppy.sh/beatmapsets/733461) by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)!
+Check out [this single-difficulty showcase challenge map](https://osu.ppy.sh/beatmapsets/1262302) by ::Mao::{ user-id=2204515 } of the Mappers' Guild, and [this 2018 osu!taiko challenge map](https://osu.ppy.sh/beatmapsets/733461) by ::Nardoxyribonucleic::{ user-id=876419 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/100/previews/2693.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Check out [this single-difficulty showcase challenge map](https://osu.ppy.sh/bea
 
 ### Dancing In A Hurricane
 
-Check out [this 2018 osu! challenge map](https://osu.ppy.sh/beatmapsets/818826) by [Hobbes2](https://osu.ppy.sh/users/8157492), which featured as a tiebreaker for the SS Tournament Group Stage!
+Check out [this 2018 osu! challenge map](https://osu.ppy.sh/beatmapsets/818826) by ::Hobbes2::{ user-id=8157492 }, which featured as a tiebreaker for the SS Tournament Group Stage!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/100/previews/2686.mp3" type="audio/mpeg">

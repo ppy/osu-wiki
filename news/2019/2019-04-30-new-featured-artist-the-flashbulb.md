@@ -15,7 +15,7 @@ Sporting [one of the earliest beatmaps to enter the revised Loved category](http
 
 We're proud to present a selection of **30** tracks from over **11** albums from **The Flashbulb**'s incredibly varied sound, focusing mainly on his older works of the breakcore variety. Many of these are already timeless classics in the rhythm gaming scene, and we're excited to see what people can do with the rest!
 
-That being said, we have also acquired a small selection of his later works, which focus on more cinematic and pensive sounds, made popular by [Mismagius'](https://osu.ppy.sh/users/19048) sets for [*Hymn To The Unobtainable*](https://osu.ppy.sh/beatmapsets/539042) and [*Dead On The 4th Of July*](https://osu.ppy.sh/beatmapsets/347882) respectively.
+That being said, we have also acquired a small selection of his later works, which focus on more cinematic and pensive sounds, made popular by ::Mismagius'::{ user-id=19048 } sets for [*Hymn To The Unobtainable*](https://osu.ppy.sh/beatmapsets/539042) and [*Dead On The 4th Of July*](https://osu.ppy.sh/beatmapsets/347882) respectively.
 
 Check out a preview of a few tracks below - there's much, MUCH more over at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/37):
 

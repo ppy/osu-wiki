@@ -46,54 +46,54 @@ The storyboarding phase schedule will be revealed in the near future.
 
 | Team name | Members | Submission |
 | :-- | :-- | :-- |
-| blacklist international | ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268), ::{ flag=PH }:: [flake](https://osu.ppy.sh/users/7627157) | [#1](https://osu.ppy.sh/beatmapsets/1971997) |
-| bulochki k chayu | ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522), ::{ flag=BG }:: [Delette](https://osu.ppy.sh/users/7835664) | [#1](https://osu.ppy.sh/beatmapsets/1972171) |
-| dönerbuden bande | ::{ flag=DE }:: [Slifer](https://osu.ppy.sh/users/15084122), ::{ flag=DE }:: [PaRaDogi](https://osu.ppy.sh/users/2054596) | [#1](https://osu.ppy.sh/beatmapsets/1971983) |
-| Double Trouble | ::{ flag=DZ }:: [IssaFR](https://osu.ppy.sh/users/23234320), ::{ flag=DE }:: [SiriusOnly](https://osu.ppy.sh/users/22287370) | [#1](https://osu.ppy.sh/beatmapsets/1972412) |
-| Eye of Aeon | ::{ flag=UA }:: [allein](https://osu.ppy.sh/users/6221637), ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | [#1](https://osu.ppy.sh/beatmapsets/1972126) |
-| FUMO 20 GRAMMI IN 10 SEC CAR | ::{ flag=IT }:: [Shiraya Sayuki](https://osu.ppy.sh/users/19077461), ::{ flag=KR }:: [Kaguya_Sama](https://osu.ppy.sh/users/9326064) | [#1](https://osu.ppy.sh/beatmapsets/1972425) |
-| Harvard Dropouts™ | ::{ flag=BE }:: [Sylas](https://osu.ppy.sh/users/3906405), ::{ flag=US }:: [Mimari](https://osu.ppy.sh/users/14339830) | [#1](https://osu.ppy.sh/beatmapsets/1972749) |
-| Imperishable Night | ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602), ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | [#1](https://osu.ppy.sh/beatmapsets/1972104) |
-| Nightcord at Various Times | ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122), ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127) | [#1](https://osu.ppy.sh/beatmapsets/1972105) |
-| nilou mains | ::{ flag=GB }:: [-jordan-](https://osu.ppy.sh/users/7288862), ::{ flag=ID }:: [Shinjuko](https://osu.ppy.sh/users/10558466) | [#1](https://osu.ppy.sh/beatmapsets/1972507) |
-| PepeBusinessCorp | ::{ flag=EE }:: [iljaaz](https://osu.ppy.sh/users/8501291), ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | [#1](https://osu.ppy.sh/beatmapsets/1971987) |
-| Salute, bebra | ::{ flag=RU }:: [zadknus](https://osu.ppy.sh/users/12101917), ::{ flag=RU }:: [Hyokar](https://osu.ppy.sh/users/16546696) | [#1](https://osu.ppy.sh/beatmapsets/1973571) |
-| Twin-Tails | ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669), ::{ flag=CN }:: [Moecho](https://osu.ppy.sh/users/5075660) | [#1](https://osu.ppy.sh/beatmapsets/1972202) |
+| blacklist international | ::{ flag=PH }:: ::acnozei::{ user-id=10141268 }, ::{ flag=PH }:: ::flake::{ user-id=7627157 } | [#1](https://osu.ppy.sh/beatmapsets/1971997) |
+| bulochki k chayu | ::{ flag=RU }:: ::piroshki::{ user-id=7645522 }, ::{ flag=BG }:: ::Delette::{ user-id=7835664 } | [#1](https://osu.ppy.sh/beatmapsets/1972171) |
+| dönerbuden bande | ::{ flag=DE }:: ::Slifer::{ user-id=15084122 }, ::{ flag=DE }:: ::PaRaDogi::{ user-id=2054596 } | [#1](https://osu.ppy.sh/beatmapsets/1971983) |
+| Double Trouble | ::{ flag=DZ }:: ::IssaFR::{ user-id=23234320 }, ::{ flag=DE }:: ::SiriusOnly::{ user-id=22287370 } | [#1](https://osu.ppy.sh/beatmapsets/1972412) |
+| Eye of Aeon | ::{ flag=UA }:: ::allein::{ user-id=6221637 }, ::{ flag=RU }:: ::Mirash::{ user-id=2841009 } | [#1](https://osu.ppy.sh/beatmapsets/1972126) |
+| FUMO 20 GRAMMI IN 10 SEC CAR | ::{ flag=IT }:: ::Shiraya Sayuki::{ user-id=19077461 }, ::{ flag=KR }:: ::Kaguya\1Sama::{ user-id=9326064 } | [#1](https://osu.ppy.sh/beatmapsets/1972425) |
+| Harvard Dropouts™ | ::{ flag=BE }:: ::Sylas::{ user-id=3906405 }, ::{ flag=US }:: ::Mimari::{ user-id=14339830 } | [#1](https://osu.ppy.sh/beatmapsets/1972749) |
+| Imperishable Night | ::{ flag=KR }:: ::Down::{ user-id=4694602 }, ::{ flag=KR }:: ::Dailycare::{ user-id=1634445 } | [#1](https://osu.ppy.sh/beatmapsets/1972104) |
+| Nightcord at Various Times | ::{ flag=US }:: ::Local Hero::{ user-id=16134122 }, ::{ flag=IT }:: ::Kuroise::{ user-id=14547127 } | [#1](https://osu.ppy.sh/beatmapsets/1972105) |
+| nilou mains | ::{ flag=GB }:: ::-jordan-::{ user-id=7288862 }, ::{ flag=ID }:: ::Shinjuko::{ user-id=10558466 } | [#1](https://osu.ppy.sh/beatmapsets/1972507) |
+| PepeBusinessCorp | ::{ flag=EE }:: ::iljaaz::{ user-id=8501291 }, ::{ flag=GB }:: ::DeviousPanda::{ user-id=4966334 } | [#1](https://osu.ppy.sh/beatmapsets/1971987) |
+| Salute, bebra | ::{ flag=RU }:: ::zadknus::{ user-id=12101917 }, ::{ flag=RU }:: ::Hyokar::{ user-id=16546696 } | [#1](https://osu.ppy.sh/beatmapsets/1973571) |
+| Twin-Tails | ::{ flag=CN }:: ::yf\1bmp::{ user-id=1243669 }, ::{ flag=CN }:: ::Moecho::{ user-id=5075660 } | [#1](https://osu.ppy.sh/beatmapsets/1972202) |
 
 ### osu!taiko
 
 | Team name | Members | Submission |
 | :-- | :-- | :-- |
-| -w-)b | ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680) | [#1](https://osu.ppy.sh/beatmapsets/1972219) |
-| Frozen Bananas | ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401) | [#1](https://osu.ppy.sh/beatmapsets/1972268) |
-| meow | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | [#1](https://osu.ppy.sh/beatmapsets/1975181) |
-| Playing Counter Strike: Global Offensive | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | [#1](https://osu.ppy.sh/beatmapsets/1972018) |
-| Printemps | ::{ flag=JP }:: [makimen](https://osu.ppy.sh/users/10869389), ::{ flag=JP }:: [uranosu1030](https://osu.ppy.sh/users/9029238) | [#1](https://osu.ppy.sh/beatmapsets/1975991) |
-| we spent one discord message thinking of this teamname | ::{ flag=US }:: [SilentWuffer](https://osu.ppy.sh/users/11355206), ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) | [#1](https://osu.ppy.sh/beatmapsets/1971951) |
+| -w-)b | ::{ flag=FR }:: ::\1yosh::{ user-id=7157133 }, ::{ flag=MY }:: ::ler1211::{ user-id=19901680 } | [#1](https://osu.ppy.sh/beatmapsets/1972219) |
+| Frozen Bananas | ::{ flag=JP }:: ::uone::{ user-id=5321719 }, ::{ flag=JP }:: ::iceOC::{ user-id=5482401 } | [#1](https://osu.ppy.sh/beatmapsets/1972268) |
+| meow | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 }, ::{ flag=GB }:: ::Horiiizon::{ user-id=8071438 } | [#1](https://osu.ppy.sh/beatmapsets/1975181) |
+| Playing Counter Strike: Global Offensive | ::{ flag=HK }:: ::Faputa::{ user-id=845733 }, ::{ flag=HK }:: ::Cynplytholowazy::{ user-id=3901754 } | [#1](https://osu.ppy.sh/beatmapsets/1972018) |
+| Printemps | ::{ flag=JP }:: ::makimen::{ user-id=10869389 }, ::{ flag=JP }:: ::uranosu1030::{ user-id=9029238 } | [#1](https://osu.ppy.sh/beatmapsets/1975991) |
+| we spent one discord message thinking of this teamname | ::{ flag=US }:: ::SilentWuffer::{ user-id=11355206 }, ::{ flag=US }:: ::Jonarwhal::{ user-id=3653035 } | [#1](https://osu.ppy.sh/beatmapsets/1971951) |
 
 ### osu!catch
 
 | Team name | Members | Submission |
 | :-- | :-- | :-- |
-| :moyai: | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | [#1](https://osu.ppy.sh/beatmapsets/1972145) |
-| Alien Tails | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | [#1](https://osu.ppy.sh/beatmapsets/1972368) |
-| Catch the AFK | ::{ flag=CN }:: [sxy62146214](https://osu.ppy.sh/users/8386591), ::{ flag=MY }:: [Summerleopard](https://osu.ppy.sh/users/8437630) | [#1](https://osu.ppy.sh/beatmapsets/1972031) |
-| Team name | ::{ flag=CA }:: [Unlucky_w](https://osu.ppy.sh/users/4820793), ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) | [#1](https://osu.ppy.sh/beatmapsets/1972394) |
+| :moyai: | ::{ flag=PH }:: ::Jemzuu::{ user-id=7890134 }, ::{ flag=PH }:: ::-Rustyy::{ user-id=16355636 } | [#1](https://osu.ppy.sh/beatmapsets/1972145) |
+| Alien Tails | ::{ flag=ES }:: ::Deif::{ user-id=318565 }, ::{ flag=HK }:: ::autofanboy::{ user-id=636114 } | [#1](https://osu.ppy.sh/beatmapsets/1972368) |
+| Catch the AFK | ::{ flag=CN }:: ::sxy62146214::{ user-id=8386591 }, ::{ flag=MY }:: ::Summerleopard::{ user-id=8437630 } | [#1](https://osu.ppy.sh/beatmapsets/1972031) |
+| Team name | ::{ flag=CA }:: ::Unlucky\1w::{ user-id=4820793 }, ::{ flag=CA }:: ::Ymiir::{ user-id=3922569 } | [#1](https://osu.ppy.sh/beatmapsets/1972394) |
 
 ### osu!mania
 
 | Team name | Members | Submission |
 | :-- | :-- | :-- |
-| "world cup" | ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=KR }:: [GDBlack](https://osu.ppy.sh/users/16976072) | [#1](https://osu.ppy.sh/beatmapsets/1972607) |
-| IceDynamix | ::{ flag=DE }:: [EimitMaggi999](https://osu.ppy.sh/users/10922297), ::{ flag=DE }:: [Vincus](https://osu.ppy.sh/users/16124906) | [#1](https://osu.ppy.sh/beatmapsets/1972310) |
-| Olsen's Shipmates | ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263), ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693) | [#1](https://osu.ppy.sh/beatmapsets/1972324) |
-| Petmalu | ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | [#1](https://osu.ppy.sh/beatmapsets/1972411) |
-| pishifat | ::{ flag=CA }:: [BringoBrango](https://osu.ppy.sh/users/10274043), ::{ flag=CA }:: [Stability](https://osu.ppy.sh/users/6701738) | [#1](https://osu.ppy.sh/beatmapsets/1972413) |
-| Ppassapgosu | ::{ flag=KR }:: [ssapgosu](https://osu.ppy.sh/users/16564480), ::{ flag=KR }:: [Ppass](https://osu.ppy.sh/users/4782226) | [#1](https://osu.ppy.sh/beatmapsets/1972919) |
-| PrtSc | ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [richardfeder](https://osu.ppy.sh/users/2446000) | [#1](https://osu.ppy.sh/beatmapsets/1972242) |
-| The Furries Are Mitosising | ::{ flag=US }:: [SilentWuffer](https://osu.ppy.sh/users/11355206), ::{ flag=VN }:: [NotiiJohn0](https://osu.ppy.sh/users/12578741) | [#1](https://osu.ppy.sh/beatmapsets/1971949) |
-| The Wolf and the Fox | ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941), ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | [#1](https://osu.ppy.sh/beatmapsets/1972034) |
-| why are we here | ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991) | [#1](https://osu.ppy.sh/beatmapsets/1974129) |
+| "world cup" | ::{ flag=GB }:: ::epic man 2::{ user-id=14566000 }, ::{ flag=KR }:: ::GDBlack::{ user-id=16976072 } | [#1](https://osu.ppy.sh/beatmapsets/1972607) |
+| IceDynamix | ::{ flag=DE }:: ::EimitMaggi999::{ user-id=10922297 }, ::{ flag=DE }:: ::Vincus::{ user-id=16124906 } | [#1](https://osu.ppy.sh/beatmapsets/1972310) |
+| Olsen's Shipmates | ::{ flag=PH }:: ::Hytex::{ user-id=8536263 }, ::{ flag=ID }:: ::Ucitysm::{ user-id=14768693 } | [#1](https://osu.ppy.sh/beatmapsets/1972324) |
+| Petmalu | ::{ flag=PH }:: ::MapleSyrup-::{ user-id=1192936 }, ::{ flag=PH }:: ::lenpai::{ user-id=5314573 } | [#1](https://osu.ppy.sh/beatmapsets/1972411) |
+| pishifat | ::{ flag=CA }:: ::BringoBrango::{ user-id=10274043 }, ::{ flag=CA }:: ::Stability::{ user-id=6701738 } | [#1](https://osu.ppy.sh/beatmapsets/1972413) |
+| Ppassapgosu | ::{ flag=KR }:: ::ssapgosu::{ user-id=16564480 }, ::{ flag=KR }:: ::Ppass::{ user-id=4782226 } | [#1](https://osu.ppy.sh/beatmapsets/1972919) |
+| PrtSc | ::{ flag=CN }:: ::tyrcs::{ user-id=13026904 }, ::{ flag=CN }:: ::richardfeder::{ user-id=2446000 } | [#1](https://osu.ppy.sh/beatmapsets/1972242) |
+| The Furries Are Mitosising | ::{ flag=US }:: ::SilentWuffer::{ user-id=11355206 }, ::{ flag=VN }:: ::NotiiJohn0::{ user-id=12578741 } | [#1](https://osu.ppy.sh/beatmapsets/1971949) |
+| The Wolf and the Fox | ::{ flag=BR }:: ::AutotelicBrown::{ user-id=4238941 }, ::{ flag=VN }:: ::Akasha-::{ user-id=2596306 } | [#1](https://osu.ppy.sh/beatmapsets/1972034) |
+| why are we here | ::{ flag=VN }:: ::Lott::{ user-id=13821222 }, ::{ flag=SG }:: ::TheFunk::{ user-id=13981991 } | [#1](https://osu.ppy.sh/beatmapsets/1974129) |
 
 ## Prizes
 
@@ -113,10 +113,10 @@ Just like prizes, judges for this contest are separated by mode:
 
 | Game mode | Judges |
 | :-- | :-- |
-| osu! | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835), ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882), ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316), ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918), ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419), ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802), ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551), ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498), ::{ flag=SG }:: [chaser01](https://osu.ppy.sh/users/18730172), ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871), ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) |
-| osu!taiko | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402), ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650) |
-| osu!catch | ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) |
-| osu!mania | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872), ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |
+| osu! | ::{ flag=CA }:: ::Gordon::{ user-id=7856835 }, ::{ flag=DE }:: ::FuJu::{ user-id=10773882 }, ::{ flag=GB }:: ::Shii::{ user-id=9186316 }, ::{ flag=HU }:: ::Nytrocide\1::{ user-id=11327918 }, ::{ flag=PH }:: ::newton-::{ user-id=5875419 }, ::{ flag=IT }:: ::Zekk::{ user-id=9704802 }, ::{ flag=US }:: ::fowwo::{ user-id=4547551 }, ::{ flag=SG }:: ::achyoo::{ user-id=7823498 }, ::{ flag=SG }:: ::chaser01::{ user-id=18730172 }, ::{ flag=CA }:: ::Agatsu::{ user-id=5579871 }, ::{ flag=DE }:: ::Mao::{ user-id=2204515 } |
+| osu!taiko | ::{ flag=DE }:: ::Greenshell::{ user-id=8693851 }, ::{ flag=US }:: ::meiqth::{ user-id=12565402 }, ::{ flag=NL }:: ::Boaz::{ user-id=13302996 }, ::{ flag=SE }:: ::Raphalge::{ user-id=3918650 } |
+| osu!catch | ::{ flag=CA }:: ::wwwww::{ user-id=8434466 }, ::{ flag=KR }:: ::Rocma::{ user-id=566276 }, ::{ flag=NL }:: ::Greaper::{ user-id=2369776 }, ::{ flag=NL }:: ::Chatie::{ user-id=6524765 } |
+| osu!mania | ::{ flag=US }:: ::Unpredictable::{ user-id=7560872 }, ::{ flag=CN }:: ::\1Stan::{ user-id=1653229 }, ::{ flag=CN }:: ::MadBricktree::{ user-id=4790958 }, ::{ flag=CN }:: ::gzdongsheng::{ user-id=8660315 }, ::{ flag=US }:: ::Protastic101::{ user-id=6712747 } |
 
 ### Community vote
 
@@ -228,8 +228,8 @@ The following categories were evaluated across all difficulties in a submission:
 
 |  | ![](/wiki/shared/mode/osu.png) osu! | ![](/wiki/shared/mode/taiko.png) osu!taiko | ![](/wiki/shared/mode/catch.png) osu!catch | ![](/wiki/shared/mode/mania.png) osu!mania |
 | :-- | :-- | :-- | :-- | :-- |
-| **Easy playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=VN }:: [\[ Primakien \]](https://osu.ppy.sh/users/23941998) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
-| **Normal playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=LV }:: [AnApple7](https://osu.ppy.sh/users/12567935) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
-| **Hard playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=TR }:: [Yasinnnnnn](https://osu.ppy.sh/users/17482520) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
-| **Insane playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=LV }:: [AnApple7](https://osu.ppy.sh/users/12567935) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
-| **Expert playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
+| **Easy playlists** | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 } | ::{ flag=JP }:: ::Yukiama95::{ user-id=18535502 } | ::{ flag=VN }:: ::\[ Primakien \]::{ user-id=23941998 } | ::{ flag=US }:: ::mashu::{ user-id=12028216 } |
+| **Normal playlists** | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 } | ::{ flag=JP }:: ::Yukiama95::{ user-id=18535502 } | ::{ flag=LV }:: ::AnApple7::{ user-id=12567935 } | ::{ flag=US }:: ::mashu::{ user-id=12028216 } |
+| **Hard playlists** | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 } | ::{ flag=JP }:: ::Yukiama95::{ user-id=18535502 } | ::{ flag=TR }:: ::Yasinnnnnn::{ user-id=17482520 } | ::{ flag=US }:: ::mashu::{ user-id=12028216 } |
+| **Insane playlists** | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 } | ::{ flag=JP }:: ::Yukiama95::{ user-id=18535502 } | ::{ flag=LV }:: ::AnApple7::{ user-id=12567935 } | ::{ flag=US }:: ::mashu::{ user-id=12028216 } |
+| **Expert playlists** | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 } | ::{ flag=JP }:: ::Grape\1Tea::{ user-id=9540073 } | ::{ flag=RU }:: ::Kimitakari::{ user-id=4741164 } | ::{ flag=US }:: ::mashu::{ user-id=12028216 } |

@@ -15,14 +15,14 @@ The Mappers' Guild has been working hard since the beginning of the year, with t
 
 The new set features the following beatmaps:
 
-- [yuki. - Spring Signal](https://osu.ppy.sh/beatmapsets/716211) hosted by [pishifat](https://osu.ppy.sh/users/3178418)
-- [dark cat - BUBBLE TEA (feat. juu & cinders)](https://osu.ppy.sh/beatmapsets/716213) hosted by [Regou](https://osu.ppy.sh/users/419954)
-- [LukHash - CLONED](https://osu.ppy.sh/beatmapsets/716215) hosted by [Mirash](https://osu.ppy.sh/users/2841009)
-- [IAHN - Snowdrop](https://osu.ppy.sh/beatmapsets/716219) hosted by [Milan-](https://osu.ppy.sh/users/1052994)
-- [\*namirin - Senaka Awase no Kuukyo (with Kakichoco)](https://osu.ppy.sh/beatmapsets/716249) hosted by [jonathanlfj](https://osu.ppy.sh/users/270377)
-- [sakuraburst - SHA](https://osu.ppy.sh/beatmapsets/716390) hosted by [handsome](https://osu.ppy.sh/users/2123087)
-- [Fractal Dreamers - Paradigm Shift](https://osu.ppy.sh/beatmapsets/716441) hosted by [appleeaterx](https://osu.ppy.sh/users/2407160)
-- [S3RL - MTC (Radio Edit)](https://osu.ppy.sh/beatmapsets/716630) hosted by [Okoratu](https://osu.ppy.sh/users/1623405)
+- [yuki. - Spring Signal](https://osu.ppy.sh/beatmapsets/716211) hosted by ::pishifat::{ user-id=3178418 }
+- [dark cat - BUBBLE TEA (feat. juu & cinders)](https://osu.ppy.sh/beatmapsets/716213) hosted by ::Regou::{ user-id=419954 }
+- [LukHash - CLONED](https://osu.ppy.sh/beatmapsets/716215) hosted by ::Mirash::{ user-id=2841009 }
+- [IAHN - Snowdrop](https://osu.ppy.sh/beatmapsets/716219) hosted by ::Milan-::{ user-id=1052994 }
+- [\*namirin - Senaka Awase no Kuukyo (with Kakichoco)](https://osu.ppy.sh/beatmapsets/716249) hosted by ::jonathanlfj::{ user-id=270377 }
+- [sakuraburst - SHA](https://osu.ppy.sh/beatmapsets/716390) hosted by ::handsome::{ user-id=2123087 }
+- [Fractal Dreamers - Paradigm Shift](https://osu.ppy.sh/beatmapsets/716441) hosted by ::appleeaterx::{ user-id=2407160 }
+- [S3RL - MTC (Radio Edit)](https://osu.ppy.sh/beatmapsets/716630) hosted by ::Okoratu::{ user-id=1623405 }
 
 Play through the entire set and you'll snag yourself the first of the Mappers' Guild Pack medals for fun and profit. Shiny.
 

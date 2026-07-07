@@ -23,7 +23,7 @@ Preview a few tracks for yourself:
 
 ### yaseta - Dreamy Goat
 
-Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/1917139) hosted by [Nytrocide\_](https://osu.ppy.sh/users/11327918)!
+Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/1917139) hosted by ::Nytrocide\_::{ user-id=11327918 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/342/Day%20by%20Day%2Fyaseta%20-%20Dreamy%20Goat.mp3">
@@ -33,9 +33,9 @@ Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/19171
 
 Check out any of these maps:
 
-- [3+ million play osu! marathon](https://osu.ppy.sh/beatmapsets/707032) hosted by [Meg](https://osu.ppy.sh/users/1872496)
-- [osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1455404) hosted by [D3kuu](https://osu.ppy.sh/users/7807444)
-- [Another osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1149883) hosted by [Vasyadogs](https://osu.ppy.sh/users/7239762)
+- [3+ million play osu! marathon](https://osu.ppy.sh/beatmapsets/707032) hosted by ::Meg::{ user-id=1872496 }
+- [osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1455404) hosted by ::D3kuu::{ user-id=7807444 }
+- [Another osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1149883) hosted by ::Vasyadogs::{ user-id=7239762 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/342/Songs/yaseta%20-%20Bluenation.mp3">
@@ -43,7 +43,7 @@ Check out any of these maps:
 
 ### yaseta - Labyrinth
 
-Try [this 4K osu!mania marathon](https://osu.ppy.sh/beatmapsets/1595581) hosted by [Kyrya](https://osu.ppy.sh/users/12459591)!
+Try [this 4K osu!mania marathon](https://osu.ppy.sh/beatmapsets/1595581) hosted by ::Kyrya::{ user-id=12459591 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/342/Songs/yaseta%20-%20Labyrinth.mp3">
@@ -51,7 +51,7 @@ Try [this 4K osu!mania marathon](https://osu.ppy.sh/beatmapsets/1595581) hosted 
 
 ### yaseta - Nightscape
 
-Finish things off with [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1794782) hosted by [Maimaing](https://osu.ppy.sh/users/14520910)!
+Finish things off with [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1794782) hosted by ::Maimaing::{ user-id=14520910 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/342/Purple%20Disco%20(Legacy%20Collection)%2Fyaseta%20-%20Nightscape.mp3">

@@ -33,8 +33,8 @@ We start these articles with results from the last contest, then we cover detail
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner + [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [iBell](https://osu.ppy.sh/users/4298072) | [-45 - Malice Call](https://osu.ppy.sh/beatmapsets/2255714) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
-| Runner-up | [KomachiBaka](https://osu.ppy.sh/users/6155320) | [Yu_Asahina vs. orangentle - EMOTIONALL BRINGBACKK](https://osu.ppy.sh/beatmapsets/2255652) | - | +1 (1 total) |
+| Winner + [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | ::iBell::{ user-id=4298072 } | [-45 - Malice Call](https://osu.ppy.sh/beatmapsets/2255714) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
+| Runner-up | ::KomachiBaka::{ user-id=6155320 } | [Yu_Asahina vs. orangentle - EMOTIONALL BRINGBACKK](https://osu.ppy.sh/beatmapsets/2255652) | - | +1 (1 total) |
 
 #### Top maps
 
@@ -42,7 +42,7 @@ We start these articles with results from the last contest, then we cover detail
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/bSSVw1oPZb0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to [nebuwua](https://osu.ppy.sh/users/14729352), [Daycore](https://osu.ppy.sh/users/5596337), [Deppyforce](https://osu.ppy.sh/users/5286213), and [Anxient](https://osu.ppy.sh/users/4561368) for their judging efforts!
+Special thanks to ::nebuwua::{ user-id=14729352 }, [Daycore](https://osu.ppy.sh/users/5596337), ::Deppyforce::{ user-id=5286213 }, and [Anxient](https://osu.ppy.sh/users/4561368) for their judging efforts!
 
 ### osu!mania results
 
@@ -54,9 +54,9 @@ Because this contest had so many submissions (**51** to be specific), we're rewa
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [wolfyou](https://osu.ppy.sh/users/12565254) | [Culprate & Signal - Hydraulic](https://osu.ppy.sh/beatmapsets/2255700) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
-| 2nd | [elexire](https://osu.ppy.sh/users/9206093) | [Mili - String Theocracy](https://osu.ppy.sh/beatmapsets/2255626) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| 3rd | [Alptraum](https://osu.ppy.sh/users/26496648) | [kaitendaentai - Toki no Ryousen (Supire Remix)](https://osu.ppy.sh/beatmapsets/2255748) | - | +1 (1 total) |
+| Winner | ::wolfyou::{ user-id=12565254 } | [Culprate & Signal - Hydraulic](https://osu.ppy.sh/beatmapsets/2255700) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
+| 2nd | ::elexire::{ user-id=9206093 } | [Mili - String Theocracy](https://osu.ppy.sh/beatmapsets/2255626) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
+| 3rd | ::Alptraum::{ user-id=26496648 } | [kaitendaentai - Toki no Ryousen (Supire Remix)](https://osu.ppy.sh/beatmapsets/2255748) | - | +1 (1 total) |
 
 #### Top maps
 
@@ -64,7 +64,7 @@ Because this contest had so many submissions (**51** to be specific), we're rewa
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/75hyWfFW_7Y" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Somehow [gzdongsheng](https://osu.ppy.sh/users/8660315), [Monoseul](https://osu.ppy.sh/users/16010604), [Unpredictable](https://osu.ppy.sh/users/7560872), [Maxus](https://osu.ppy.sh/users/4335785), and [Hydria](https://osu.ppy.sh/users/808176) judged every single entry. We don't know how it was possible, but we appreciate it.
+Somehow ::gzdongsheng::{ user-id=8660315 }, [Monoseul](https://osu.ppy.sh/users/16010604), ::Unpredictable::{ user-id=7560872 }, [Maxus](https://osu.ppy.sh/users/4335785), and ::Hydria::{ user-id=808176 } judged every single entry. We don't know how it was possible, but we appreciate it.
 
 ## Game modes
 

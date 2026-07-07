@@ -22,11 +22,11 @@ For the inaugural Olympiad contest, we tasked mappers with choosing one of three
 | \#5 | kiwixs | Sour Blackbird | 17.7 | 17.5 | 16.5 | 18 | 7.5 | **77.2** |
 | \#6 | Uraomote Error | Resolute Harrier | 18 | 14.5 | 19.5 | 18 | 4 | **74** |
 
-Coming in **first place** for *Beautiful Uncertainty (Redux)* is [**pishifat**](https://osu.ppy.sh/users/3178418) with a total score of **190.5**! pishifat received the highest score from three of the judges as well as top marks for musical relevance and technique!
+Coming in **first place** for *Beautiful Uncertainty (Redux)* is ::**pishifat**::{ user-id=3178418 } with a total score of **190.5**! pishifat received the highest score from three of the judges as well as top marks for musical relevance and technique!
 
-Very close behind in **second place** is [**Fallmorph**](https://osu.ppy.sh/users/5720389) with a total score of **185.5**! Fallmorph received the highest score from the other two judges as well as top marks for creativity, impression, and hitsounding.
+Very close behind in **second place** is ::**Fallmorph**::{ user-id=5720389 } with a total score of **185.5**! Fallmorph received the highest score from the other two judges as well as top marks for creativity, impression, and hitsounding.
 
-And rounding out the top three, **third place** belongs to [**Gaia**](https://osu.ppy.sh/users/2683648) with a total score of **157.7**! Gaia received consistently high scores from each of the judges and across all categories.
+And rounding out the top three, **third place** belongs to ::**Gaia**::{ user-id=2683648 } with a total score of **157.7**! Gaia received consistently high scores from each of the judges and across all categories.
 
 [Click here for the complete results for *Beautiful Uncertainty (Redux)* including judges' comments for each entry.](https://docs.google.com/spreadsheets/d/1Q_5ATaQR25fLneqR2uG4T_Pj-xsKb9Y6QJ7d3t8wQII/edit?usp=sharing)
 
@@ -47,11 +47,11 @@ And rounding out the top three, **third place** belongs to [**Gaia**](https://os
 | \#11 | Mattchanhew | Ignorant Ibis | 19.9 | 17.5 | 18.5 | 18.8 | 3.5 | **78.2** |
 | \#12 | makillerts | Vile Crow | 14.2 | 11 | 13.2 | 14 | 7.3 | **59.7** |
 
-In **first place** for *Escapism* is [**Bonzi**](https://osu.ppy.sh/users/1313969) with a total score of **195.5**! Bonzi received the highest marks for every category, demonstrating that his entry was truly a cut above the rest!
+In **first place** for *Escapism* is ::**Bonzi**::{ user-id=1313969 } with a total score of **195.5**! Bonzi received the highest marks for every category, demonstrating that his entry was truly a cut above the rest!
 
-**Second place** goes to [**Rokkea**](https://osu.ppy.sh/users/2500099) with a total score of **185.1**! Rokkea scored excellently in each category, just barely behind Bonzi across the board.
+**Second place** goes to ::**Rokkea**::{ user-id=2500099 } with a total score of **185.1**! Rokkea scored excellently in each category, just barely behind Bonzi across the board.
 
-**Third place** goes to [**fanzhen0019**](https://osu.ppy.sh/users/418699) with a total score of **177.9**! fanzhen also scored excellently in each category, falling slightly behind on creativity and technique.
+**Third place** goes to ::**fanzhen0019**::{ user-id=418699 } with a total score of **177.9**! fanzhen also scored excellently in each category, falling slightly behind on creativity and technique.
 
 [Click here for the complete results for *Escapism* including judges' comments for each entry.](https://docs.google.com/spreadsheets/d/1ZcS7sDjjJSeiHs17ZX0k9p5fouZlqVQWJ59LR363Fnc/edit?usp=sharing)
 
@@ -73,11 +73,11 @@ In **first place** for *Escapism* is [**Bonzi**](https://osu.ppy.sh/users/131396
 | \#12 | ARGENTINE DREAM | Wistful Iguana | 18.5 | 12 | 14.5 | 15 | 10.5 | **70.5** |
 | \#13 | - Crow | Ultimate Chameleon | 16.5 | 18.5 | 17.3 | 17 | 1 | **70.3** |
 
-**First place** for *HONEY SNOWFLAKES* goes to [**Monstrata**](https://osu.ppy.sh/users/2706438) with a total score of **190.8**! Monstrata's entry surpassed all the others by a large margin, achieving the highest scores for each category as well as the only exceptional score from judge Electoz.
+**First place** for *HONEY SNOWFLAKES* goes to ::**Monstrata**::{ user-id=2706438 } with a total score of **190.8**! Monstrata's entry surpassed all the others by a large margin, achieving the highest scores for each category as well as the only exceptional score from judge Electoz.
 
-In **second place** is [**Kibbleru**](https://osu.ppy.sh/users/3193504) with a total score of **166.3**! Kibbleru scored consistently high in each category showcasing an overall skillful entry.
+In **second place** is ::**Kibbleru**::{ user-id=3193504 } with a total score of **166.3**! Kibbleru scored consistently high in each category showcasing an overall skillful entry.
 
-And **third place** goes to [**Nozhomi**](https://osu.ppy.sh/users/2716981) with a total score of **157.5**! Nozhomi also scored consistently high in each category, notably ahead of the rest of the entries.
+And **third place** goes to ::**Nozhomi**::{ user-id=2716981 } with a total score of **157.5**! Nozhomi also scored consistently high in each category, notably ahead of the rest of the entries.
 
 [Click here for the complete results for *HONEY SNOWFLAKES* including judges' comments for each entry.](https://docs.google.com/spreadsheets/d/1DFpLr0JEsoWqMHdKEN8ytN4uW0mYShUpe0VTp8k-08k/edit?usp=sharing)
 
@@ -91,7 +91,7 @@ As a bonus for winning first place, each of the winners' badge descriptions will
 
 For future reference, [here is a listing of all accumulated Olympiad Points](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing) which will be updated after each contest.
 
-We'd like to thank all of the judges who spent several weeks going through and judging all of the entries: [Cerulean Veyron](https://osu.ppy.sh/users/1886524), [Electoz](https://osu.ppy.sh/users/6485263), [Kuron-kun](https://osu.ppy.sh/users/2697284), [Sinnoh](https://osu.ppy.sh/users/4236057), and [Sonnyc](https://osu.ppy.sh/users/11771). None of this would have been possible without you all.
+We'd like to thank all of the judges who spent several weeks going through and judging all of the entries: ::Cerulean Veyron::{ user-id=1886524 }, [Electoz](https://osu.ppy.sh/users/6485263), ::Kuron-kun::{ user-id=2697284 }, [Sinnoh](https://osu.ppy.sh/users/4236057), and ::Sonnyc::{ user-id=11771 }. None of this would have been possible without you all.
 
 Lastly, below are all of the entries for each song for everyone to look through. In addition, pishifat, Bonzi, and Monstrata will be putting together mapsets for ranking which will include the top three entries for each of the songs they won respectively:
 

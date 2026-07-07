@@ -42,7 +42,7 @@ osu!는 4가지 **게임 모드**가 있는데: [osu!](#-osu!), [osu!taiko](#-os
 
 *메인 문서: [osu!mania](osu!mania)*
 
-*osu!mania*는 다양한 종류의 종스크롤 리듬 게임([댄스 댄스 레볼루션](https://ko.wikipedia.org/wiki/%EB%8C%84%EC%8A%A4_%EB%8C%84%EC%8A%A4_%EB%A0%88%EB%B3%BC%EB%A3%A8%EC%85%98)과 비트매니아)에 기반을 두고 있습니다. 이 게임 모드는 [woc2006](https://osu.ppy.sh/users/1105845)이 총괄해 도입 및 구현되었으며, 키보드를 통해 실제 피아노를 연주하는 듯한 느낌을 모방해 만들어졌습니다.
+*osu!mania*는 다양한 종류의 종스크롤 리듬 게임([댄스 댄스 레볼루션](https://ko.wikipedia.org/wiki/%EB%8C%84%EC%8A%A4_%EB%8C%84%EC%8A%A4_%EB%A0%88%EB%B3%BC%EB%A3%A8%EC%85%98)과 비트매니아)에 기반을 두고 있습니다. 이 게임 모드는 ::woc2006::{ user-id=1105845 }이 총괄해 도입 및 구현되었으며, 키보드를 통해 실제 피아노를 연주하는 듯한 느낌을 모방해 만들어졌습니다.
 
 ![osu!mania 게임플레이](/wiki/shared/mania-gameplay.jpg "osu!mania 게임플레이")
 

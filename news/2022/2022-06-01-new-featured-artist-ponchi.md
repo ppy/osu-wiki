@@ -27,7 +27,7 @@ Oh, and once you're done, check out everything else too:
 
 ### Mousou <3 Chuu!
 
-Check out [this speedy set](https://osu.ppy.sh/beatmapsets/1726676) hosted by [Usaha](https://osu.ppy.sh/users/6443117) and seen in the video above!
+Check out [this speedy set](https://osu.ppy.sh/beatmapsets/1726676) hosted by ::Usaha::{ user-id=6443117 } and seen in the video above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/271/Songs/Ponchi%20feat.%20haxchi%20-%20Mousou%203%20Chuu!!.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this speedy set](https://osu.ppy.sh/beatmapsets/1726676) hosted by [U
 
 ### Correct Hearts
 
-Or try [this slower set](https://osu.ppy.sh/beatmapsets/1742463) hosted by [-Aqua](https://osu.ppy.sh/users/7150015) (and also seen in the video)!
+Or try [this slower set](https://osu.ppy.sh/beatmapsets/1742463) hosted by ::-Aqua::{ user-id=7150015 } (and also seen in the video)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/271/Songs/Ponchi%20feat.%20haxchi%20-%20Correct%20Hearts.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Or try [this slower set](https://osu.ppy.sh/beatmapsets/1742463) hosted by [-Aqu
 
 ### Anemone
 
-If that first map wasn't fast enough, maybe [this 256-BPM map](https://osu.ppy.sh/beatmapsets/1753715) hosted by [Strategas](https://osu.ppy.sh/users/2971837) will satisfy you.
+If that first map wasn't fast enough, maybe [this 256-BPM map](https://osu.ppy.sh/beatmapsets/1753715) hosted by ::Strategas::{ user-id=2971837 } will satisfy you.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/271/Songs/Ponchi%20feat.%20haxchi%20-%20Anemone.mp3" type="audio/mpeg">

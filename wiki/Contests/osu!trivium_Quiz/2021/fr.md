@@ -9,7 +9,7 @@ tags:
 
 ![Bannière de l'osu!trivium Quiz 2021](img/banner.png)
 
-Le **osu!trivium Quiz 2021** était un concours de quiz osu! gratuit organisé par ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718). Il s'agissait du deuxième osu!trivium Quiz, le quiz le plus difficile au monde sur osu!.
+Le **osu!trivium Quiz 2021** était un concours de quiz osu! gratuit organisé par ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 }. Il s'agissait du deuxième osu!trivium Quiz, le quiz le plus difficile au monde sur osu!.
 
 Des équipes de 4 personnes maximum se sont affrontées en répondant à des questions sur l'histoire du jeu, des faits obscurs et divers événements bizarres survenus dans la communauté au fil des ans.
 
@@ -37,9 +37,9 @@ Le osu!trivium Quiz 2021 a été organisé par divers membres de la communauté.
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Hôte | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Assistant | ::{ flag=US }:: [AndrewRK](https://osu.ppy.sh/users/9066838), ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722) |
-| Testeur de jeu | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=US }:: [moof](https://osu.ppy.sh/users/8457202), ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) |
+| Hôte | ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 } |
+| Assistant | ::{ flag=US }:: ::AndrewRK::{ user-id=9066838 }, ::{ flag=US }:: ::Charles445::{ user-id=85000 }, ::{ flag=US }:: ::Noffy::{ user-id=1541323 }, ::{ flag=AU }:: ::PotassiumF::{ user-id=4247722 } |
+| Testeur de jeu | ::{ flag=AU }:: ::Ephemeral::{ user-id=102335 }, ::{ flag=AU }:: ::Jaye::{ user-id=4841352 }, ::{ flag=US }:: ::moof::{ user-id=8457202 }, ::{ flag=FR }:: ::Shiro::{ user-id=113005 } |
 
 ## Liens
 
@@ -56,9 +56,9 @@ Cette compétition s'est achevée sur le podium suivant :
 
 | Placement | Équipe | Joueurs |
 | :-: | :-- | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | Squid Balls | ::{ flag=MY }:: [squidstain](https://osu.ppy.sh/users/11073207), ::{ flag=US }:: [Codazen](https://osu.ppy.sh/users/18291144), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621) |
-| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | untouchaball-epic-fail-crew-9000-nightmarecore-mix | ::{ flag=US }:: [1103](https://osu.ppy.sh/users/7306698), ::{ flag=US }:: [GalacticLightN](https://osu.ppy.sh/users/4772172), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) |
-| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | sleep squad | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525), ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | Squid Balls | ::{ flag=MY }:: ::squidstain::{ user-id=11073207 }, ::{ flag=US }:: ::Codazen::{ user-id=18291144 }, ::{ flag=HK }:: ::autofanboy::{ user-id=636114 }, ::{ flag=MY }:: ::cdh::{ user-id=2403621 } |
+| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | untouchaball-epic-fail-crew-9000-nightmarecore-mix | ::{ flag=US }:: ::1103::{ user-id=7306698 }, ::{ flag=US }:: ::GalacticLightN::{ user-id=4772172 }, ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 }, ::{ flag=US }:: ::Backfire::{ user-id=263110 } |
+| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | sleep squad | ::{ flag=KR }:: ::Civil oath::{ user-id=3216107 }, ::{ flag=SE }:: ::PuffBuck::{ user-id=4234525 }, ::{ flag=NZ }:: ::deadbeat::{ user-id=128370 }, ::{ flag=US }:: ::ztrot::{ user-id=6347 } |
 
 ## Réponses au quiz
 
@@ -74,4 +74,4 @@ Vous trouverez ci-dessous une liste de liens vers les réponses à chaque questi
 
 ## Règlement
 
-- Vous ne pouvez pas demander à [mangomizer](https://osu.ppy.sh/users/1893718) ou à [peppy](https://osu.ppy.sh/users/2) des informations, des conseils ou des réponses.
+- Vous ne pouvez pas demander à ::mangomizer::{ user-id=1893718 } ou à [peppy](https://osu.ppy.sh/users/2) des informations, des conseils ou des réponses.

@@ -21,7 +21,7 @@ Check out a sample below:
 
 ### Blacklolita feat. Sennzai - Tears of Warrior
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1242059) hosted by [DTM9 Nowa](https://osu.ppy.sh/users/5428909) of the Mappers' Guild!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1242059) hosted by ::DTM9 Nowa::{ user-id=5428909 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/110/previews/2889.mp3" type="audio/mpeg">
@@ -29,7 +29,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1242059) hosted by 
 
 ### Powerless feat. Sennzai - Unrequited
 
-Check out [this critically acclaimed Loved set](https://osu.ppy.sh/beatmapsets/543109) hosted by [VINXIS](https://osu.ppy.sh/users/4323406), featuring a difficulty from Elite Mapper [fanzhen0019](https://osu.ppy.sh/users/418699)!
+Check out [this critically acclaimed Loved set](https://osu.ppy.sh/beatmapsets/543109) hosted by ::VINXIS::{ user-id=4323406 }, featuring a difficulty from Elite Mapper ::fanzhen0019::{ user-id=418699 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/110/previews/2893.mp3" type="audio/mpeg">

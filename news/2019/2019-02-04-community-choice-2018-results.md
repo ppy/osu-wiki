@@ -15,7 +15,7 @@ Thousands of people voted on their favorite beatmaps from 2018, but there can on
 
 [![](/wiki/shared/news/2019-02-04-community-choice-2018-results/kda2.jpg)](https://osu.ppy.sh/beatmapsets/874948)
 
-**2489** voters could feel the rush now as they enjoyed [Nathan](https://osu.ppy.sh/users/4785223)'s take on the video-game cross K-pop masterpiece that took the world by storm, **[K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns)](https://osu.ppy.sh/beatmapsets/874948)**!
+**2489** voters could feel the rush now as they enjoyed ::Nathan::{ user-id=4785223 }'s take on the video-game cross K-pop masterpiece that took the world by storm, **[K/DA - POP/STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns)](https://osu.ppy.sh/beatmapsets/874948)**!
 
 This will likely come as a surprise to some who expected one map from the ubiquitous deluge of "farm" maps to nab top place, but as this goes to show, sometimes you just need to stop farming creeps and get out there and start nabbing kills, something that Nathan and his collaborators managed with effortless ease.
 
@@ -37,7 +37,7 @@ The finalists were:
 
 [![](/wiki/shared/news/2019-02-04-community-choice-2018-results/xinobikill.jpg)](https://osu.ppy.sh/beatmapsets/742966)
 
-**121** drum fanatics stepped forward and said "hell yes" to **[SOUND HOLIC feat. Nana Takahashi - XINOBIKILL](https://osu.ppy.sh/beatmapsets/742966)** by [Skull Kid](https://osu.ppy.sh/users/3044264), in some of the closest voting we've ever observed in a Community Choice poll *or* a "Best Of" to date.
+**121** drum fanatics stepped forward and said "hell yes" to **[SOUND HOLIC feat. Nana Takahashi - XINOBIKILL](https://osu.ppy.sh/beatmapsets/742966)** by ::Skull Kid::{ user-id=3044264 }, in some of the closest voting we've ever observed in a Community Choice poll *or* a "Best Of" to date.
 
 Seriously, at some points, there were less than 3 votes splitting first, second, and third place. When we tweeted about the votes drawing to a close, there was a two-way tie for first place for at least a day before the votes were slated to close.
 
@@ -61,7 +61,7 @@ The finalists were:
 
 [![](/wiki/shared/news/2019-02-04-community-choice-2018-results/asphyxia.jpg)](https://osu.ppy.sh/beatmapsets/758101)
 
-With **182** votes, the collaborative sets by [Ascendance](https://osu.ppy.sh/users/2931883), [Spectator](https://osu.ppy.sh/users/702598) and [Hareimu](https://osu.ppy.sh/users/4138746) on **[Co shu Nie - asphyxia (TV edit)](https://osu.ppy.sh/beatmapsets/758101)** hosted by [Monstrata](https://osu.ppy.sh/users/2706438) strangled out the competition solidly with a nearly 50 point lead.
+With **182** votes, the collaborative sets by ::Ascendance::{ user-id=2931883 }, [Spectator](https://osu.ppy.sh/users/702598) and ::Hareimu::{ user-id=4138746 } on **[Co shu Nie - asphyxia (TV edit)](https://osu.ppy.sh/beatmapsets/758101)** hosted by ::Monstrata::{ user-id=2706438 } strangled out the competition solidly with a nearly 50 point lead.
 
 Similar to osu!taiko, the voting for osu!catch was a super close endeavour all up until the last three or four days of voting, when asphyxia surged forward with a lead that the other sets could just not recover from.
 
@@ -87,7 +87,7 @@ The finalists were:
 
 [![](/wiki/shared/news/2019-02-04-community-choice-2018-results/mazare.jpg)](https://osu.ppy.sh/beatmapsets/650415)
 
-**621** voters saw reason to celebrate **[MAZARE - Mazare Party](https://osu.ppy.sh/beatmapsets/650415)** by [Insp1r3](https://osu.ppy.sh/users/7131254) with a positively dominating lead over its competition, leading the pack by nearly a solid third of the next highest finalist.
+**621** voters saw reason to celebrate **[MAZARE - Mazare Party](https://osu.ppy.sh/beatmapsets/650415)** by ::Insp1r3::{ user-id=7131254 } with a positively dominating lead over its competition, leading the pack by nearly a solid third of the next highest finalist.
 
 Having been featured in the Seasonal Spotlights already, it's no surprise that this map was a crowd favourite.
 

@@ -17,7 +17,7 @@ Nowadays, **TRIAL** centres his music on happy hardcore and early techno styles 
 
 ### Notorious (Nota & TRIAL) - HOPE
 
-We're in the middle of the [osu!catch World Cup](/wiki/Tournaments/CWC/2026), so it's only fitting that we're showcasing today's artist with [an osu!catch map](https://osu.ppy.sh/beatmapsets/2462562) crafted by [Bunnrei](https://osu.ppy.sh/users/829284)!
+We're in the middle of the [osu!catch World Cup](/wiki/Tournaments/CWC/2026), so it's only fitting that we're showcasing today's artist with [an osu!catch map](https://osu.ppy.sh/beatmapsets/2462562) crafted by ::Bunnrei::{ user-id=829284 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

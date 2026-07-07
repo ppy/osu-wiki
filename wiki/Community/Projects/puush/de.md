@@ -11,7 +11,7 @@ tags:
 ![Bildschirmaufnahme der Benutzeroberfläche von puush](img/puushScreenshot.png "Bildschirmaufnahme der Benutzeroberfläche von puush, so wie von CNET über den Dienst berichtet")
 :::
 
-**[puush.me](https://puush.me)**, oft auch **puush** genannt, ist ein Dienst zum Teilen von Screenshots, der von ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) und ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) betrieben wird. Im Juni 2010 wurde der Dienst erstmals vorgestellt und dient als Nachfolger von [upppy](/wiki/upppy), mit einem stärkeren Fokus auf das Teilen von Bildschirminhalten sowie die Verwaltung von Nutzerdaten. puush enstand aus der Not heraus, da ein bereits existierender Dienst, den die beiden Gründer nutzten, massiv Werbung schaltete und die Unterstützung für direktes [Hotlinking](https://de.wikipedia.org/wiki/Hotlinking) von Bildern entfernte.
+**[puush.me](https://puush.me)**, oft auch **puush** genannt, ist ein Dienst zum Teilen von Screenshots, der von ::{ flag=AU }:: ::peppy::{ user-id=2 } und ::{ flag=AU }:: ::nekodex::{ user-id=102 } betrieben wird. Im Juni 2010 wurde der Dienst erstmals vorgestellt und dient als Nachfolger von [upppy](/wiki/upppy), mit einem stärkeren Fokus auf das Teilen von Bildschirminhalten sowie die Verwaltung von Nutzerdaten. puush enstand aus der Not heraus, da ein bereits existierender Dienst, den die beiden Gründer nutzten, massiv Werbung schaltete und die Unterstützung für direktes [Hotlinking](https://de.wikipedia.org/wiki/Hotlinking) von Bildern entfernte.
 
 ## Dienst
 
@@ -30,7 +30,7 @@ Genauso wie bei osu! wird Nutzern keine Werbung ausgespielt, unabhängig davon, 
 
 ## Teilweise Deaktivierung des Dienstes
 
-Seit März 2014 kann das Abonnement nicht mehr abgeschlossen werden, da PayPal das Konto von puush aufgrund einer unerwartenden "Verletzung der Nutzungsbedingungen" gesperrt hat.[^puush-paypal-suspension-ref] Dadurch musste ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) die circa $400 pro Monat für den Betrieb des Dienstes aus eigener Tasche finanzieren.[^puush-finances-ref]
+Seit März 2014 kann das Abonnement nicht mehr abgeschlossen werden, da PayPal das Konto von puush aufgrund einer unerwartenden "Verletzung der Nutzungsbedingungen" gesperrt hat.[^puush-paypal-suspension-ref] Dadurch musste ::{ flag=AU }:: ::peppy::{ user-id=2 } die circa $400 pro Monat für den Betrieb des Dienstes aus eigener Tasche finanzieren.[^puush-finances-ref]
 
 Später im selben Jahr, als die Instandhaltung von puush komplett eingestellt wird, werden Neuregistrierungen bei puush gänzlich deaktiviert — Bereits existierende Konten können jedoch voraussichtlich weiterhin genutzt werden.[^puush-maintenance-ref]
 

@@ -9,7 +9,7 @@ tags:
 
 ![GST:LIVE 2022 banner](img/banner.png)
 
-**GST:LIVE 2022** is a 2v2 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133), and ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957). It is the second instalment of GST:LIVE. The bracket stage is to be held on the 17th of December in conjunction with [Asia Esports Festival Online 2022](https://esportsasia.net/upcoming-events/aef-online-2022/) (*AEF Online 2022*).
+**GST:LIVE 2022** is a 2v2 single-elimination osu! tournament hosted by ::{ flag=SG }:: ::megumic::{ user-id=7537133 }, and ::{ flag=SG }:: ::\_gt::{ user-id=8301957 }. It is the second instalment of GST:LIVE. The bracket stage is to be held on the 17th of December in conjunction with [Asia Esports Festival Online 2022](https://esportsasia.net/upcoming-events/aef-online-2022/) (*AEF Online 2022*).
 
 ## Tournament schedule
 
@@ -43,12 +43,12 @@ GST:LIVE 2022 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133), ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) |
-| Custom mapper | ::{ flag=VN }:: [-Eresh](https://osu.ppy.sh/users/7605060), ::{ flag=MY }:: [\[ -Scarlet- \]](https://osu.ppy.sh/users/2427693), ::{ flag=DK }:: [bongo](https://osu.ppy.sh/users/5312202), ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997), ::{ flag=SG }:: [chaser01](https://osu.ppy.sh/users/18730172), ::{ flag=TH }:: [Deppyforce](https://osu.ppy.sh/users/5286213),  ::{ flag=SG }:: [Fsjallink](https://osu.ppy.sh/users/12704035), ::{ flag=SG }:: [hehe](https://osu.ppy.sh/users/2123087), ::{ flag=SG }:: [Ixcors](https://osu.ppy.sh/users/11194087), ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498), ::{ flag=BR }:: [Kowari](https://osu.ppy.sh/users/5404892), ::{ flag=SG }:: [Mrgglock](https://osu.ppy.sh/users/10734032), ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419), ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447), ::{ flag=SG }:: [P4ndemonium](https://osu.ppy.sh/users/6639059), ::{ flag=US }:: [Shirahane Suou](https://osu.ppy.sh/users/10820856), ::{ flag=SG }:: [Slyze-](https://osu.ppy.sh/users/9162649), ::{ flag=SG }:: [sorciere](https://osu.ppy.sh/users/2500099), ::{ flag=US }:: [squirrelpascals](https://osu.ppy.sh/users/6151332), ::{ flag=CA }:: [ThunderBird2678](https://osu.ppy.sh/users/3388082), ::{ flag=US }:: [Voltaeyx](https://osu.ppy.sh/users/2715118), ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667) |
-| Developer | ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
-| GFX artist | ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635), ::{ flag=SG }:: [iroha\_2807](https://osu.ppy.sh/users/27014435), ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133), ::{ flag=SG }:: [NoPengoo](https://osu.ppy.sh/users/11825315) |
-| On-site staff | ::{ flag=SG }:: [AhChungus](https://osu.ppy.sh/users/7188399), ::{ flag=SG }:: [Dreamy](https://osu.ppy.sh/users/8547527), ::{ flag=SG }:: [ellyn](https://osu.ppy.sh/users/10592989), ::{ flag=SG }:: [Tebi](https://osu.ppy.sh/users/5407620) |
-| Wiki editor | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) |
+| Organiser | ::{ flag=SG }:: ::megumic::{ user-id=7537133 }, ::{ flag=SG }:: ::\_gt::{ user-id=8301957 } |
+| Custom mapper | ::{ flag=VN }:: ::-Eresh::{ user-id=7605060 }, ::{ flag=MY }:: ::\[ -Scarlet- \]::{ user-id=2427693 }, ::{ flag=DK }:: ::bongo::{ user-id=5312202 }, ::{ flag=US }:: ::captin1::{ user-id=689997 }, ::{ flag=SG }:: ::chaser01::{ user-id=18730172 }, ::{ flag=TH }:: ::Deppyforce::{ user-id=5286213 },  ::{ flag=SG }:: ::Fsjallink::{ user-id=12704035 }, ::{ flag=SG }:: ::hehe::{ user-id=2123087 }, ::{ flag=SG }:: ::Ixcors::{ user-id=11194087 }, ::{ flag=SG }:: ::Kotoha::{ user-id=7823498 }, ::{ flag=BR }:: ::Kowari::{ user-id=5404892 }, ::{ flag=SG }:: ::Mrgglock::{ user-id=10734032 }, ::{ flag=PH }:: ::newton-::{ user-id=5875419 }, ::{ flag=SG }:: ::oneplusone::{ user-id=1843447 }, ::{ flag=SG }:: ::P4ndemonium::{ user-id=6639059 }, ::{ flag=US }:: ::Shirahane Suou::{ user-id=10820856 }, ::{ flag=SG }:: ::Slyze-::{ user-id=9162649 }, ::{ flag=SG }:: ::sorciere::{ user-id=2500099 }, ::{ flag=US }:: ::squirrelpascals::{ user-id=6151332 }, ::{ flag=CA }:: ::ThunderBird2678::{ user-id=3388082 }, ::{ flag=US }:: ::Voltaeyx::{ user-id=2715118 }, ::{ flag=PH }:: ::xidorn::{ user-id=7904667 } |
+| Developer | ::{ flag=TR }:: ::heyronii::{ user-id=5642779 }, ::{ flag=TR }:: ::Sibyl::{ user-id=10440852 } |
+| GFX artist | ::{ flag=SG }:: ::Hecatia::{ user-id=8244635 }, ::{ flag=SG }:: ::iroha\_2807::{ user-id=27014435 }, ::{ flag=SG }:: ::megumic::{ user-id=7537133 }, ::{ flag=SG }:: ::NoPengoo::{ user-id=11825315 } |
+| On-site staff | ::{ flag=SG }:: ::AhChungus::{ user-id=7188399 }, ::{ flag=SG }:: ::Dreamy::{ user-id=8547527 }, ::{ flag=SG }:: ::ellyn::{ user-id=10592989 }, ::{ flag=SG }:: ::Tebi::{ user-id=5407620 } |
+| Wiki editor | ::{ flag=SG }:: ::\_gt::{ user-id=8301957 } |
 
 ## Links
 

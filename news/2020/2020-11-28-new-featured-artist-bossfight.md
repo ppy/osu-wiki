@@ -17,7 +17,7 @@ Traverse the white light and give these samples a listen:
 
 ### Sonder
 
-Check out [this osu! set](https://osu.ppy.sh/beatmapsets/476666) hosted by [VINXIS](https://osu.ppy.sh/users/4323406) and [this osu!catch set](https://osu.ppy.sh/beatmapsets/412743#fruits/932087) hosted by [WildOne94](https://osu.ppy.sh/users/3482692)!
+Check out [this osu! set](https://osu.ppy.sh/beatmapsets/476666) hosted by ::VINXIS::{ user-id=4323406 } and [this osu!catch set](https://osu.ppy.sh/beatmapsets/412743#fruits/932087) hosted by ::WildOne94::{ user-id=3482692 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/119/Songs/Bossfight%20-%20Sonder.mp3" type="audio/mpeg">

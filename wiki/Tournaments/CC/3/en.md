@@ -12,7 +12,7 @@ tags:
 
 ![CCIII logo](img/logo.png)
 
-The **Corgi Cup III: April 2017** (***CCIII***) was a 1v1 single-elimination osu! tournament hosted by ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), and ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983). It was the third instalment of the Corgi Cup.
+The **Corgi Cup III: April 2017** (***CCIII***) was a 1v1 single-elimination osu! tournament hosted by ::{ flag=FI }:: ::M8gazine::{ user-id=5039710 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, and ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }. It was the third instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -42,12 +42,12 @@ Corgi Cup III: April 2017 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
-| Mappool selector | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=AT }:: [omgforz](https://osu.ppy.sh/users/578943), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025) |
-| Streamer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238) |
-| Commentator | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378), ::{ flag=GB }:: [Isozaki](https://osu.ppy.sh/users/3987676), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=DE }:: [Irate](https://osu.ppy.sh/users/7166084), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025) |
-| Designer | ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378) |
-| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Minorman4](https://osu.ppy.sh/users/4837257), ::{ flag=GB }:: [LefafeI](https://osu.ppy.sh/users/2295850), ::{ flag=GB }:: [Nitronic Techno](https://osu.ppy.sh/users/5298504), ::{ flag=DE }:: [Irate](https://osu.ppy.sh/users/7166084), ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354) |
+| Host | ::{ flag=FI }:: ::M8gazine::{ user-id=5039710 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=GB }:: ::Doomsday::{ user-id=18983 } |
+| Mappool selector | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=AT }:: ::omgforz::{ user-id=578943 }, ::{ flag=SE }:: ::Kotayo::{ user-id=1730025 } |
+| Streamer | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=US }:: ::zelda101::{ user-id=4502238 } |
+| Commentator | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::Doomsday is bad::{ user-id=3481378 }, ::{ flag=GB }:: ::Isozaki::{ user-id=3987676 }, ::{ flag=GB }:: ::Jerome::{ user-id=3391379 }, ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 }, ::{ flag=DE }:: ::Irate::{ user-id=7166084 }, ::{ flag=SE }:: ::Kotayo::{ user-id=1730025 } |
+| Designer | ::{ flag=GB }:: ::Doomsday is bad::{ user-id=3481378 } |
+| Referee | ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=GB }:: ::Minorman4::{ user-id=4837257 }, ::{ flag=GB }:: ::LefafeI::{ user-id=2295850 }, ::{ flag=GB }:: ::Nitronic Techno::{ user-id=5298504 }, ::{ flag=DE }:: ::Irate::{ user-id=7166084 }, ::{ flag=GB }:: ::djsettle::{ user-id=4010354 } |
 
 ## Links
 
@@ -59,10 +59,10 @@ Corgi Cup III: April 2017 was run by various community members.
 
 | Seed | Members |
 | :-: | :-- |
-| 1-8 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026), ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238), ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581), ::{ flag=GB }:: [OPJames](https://osu.ppy.sh/users/4117142), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [dong](https://osu.ppy.sh/users/4422446) |
-| 9-16 | ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765), ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=LV }:: [waywern2012](https://osu.ppy.sh/users/5870453), ::{ flag=NO }:: [gilmat](https://osu.ppy.sh/users/5779181), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [bahamete](https://osu.ppy.sh/users/960620), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=DE }:: [Blegie](https://osu.ppy.sh/users/6063132) |
-| 17-24 | ::{ flag=FI }:: [Poofie](https://osu.ppy.sh/users/3517198), ::{ flag=GB }:: [MagicMantwon](https://osu.ppy.sh/users/6183136), ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354), ::{ flag=NO }:: [Runeandre4](https://osu.ppy.sh/users/4930482), ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=CZ }:: [NyarkoO](https://osu.ppy.sh/users/6622567), ::{ flag=GB }:: [feliciaforever](https://osu.ppy.sh/users/6177798) |
-| 25-32 | ::{ flag=FI }:: [LefafeI](https://osu.ppy.sh/users/2295850), ::{ flag=GB }:: [NotToBlame](https://osu.ppy.sh/users/5489311), ::{ flag=US }:: [MicMck101](https://osu.ppy.sh/users/5117269), ::{ flag=GB }:: [Doomsday is Bad](https://osu.ppy.sh/users/3481378), ::{ flag=GB }:: [bazzadwarf](https://osu.ppy.sh/users/4422329), ::{ flag=GB }:: [minorman4](https://osu.ppy.sh/users/4837257), ::{ flag=GB }:: [DeZa](https://osu.ppy.sh/users/9061365), ::{ flag=NO }:: [k3v5t3r](https://osu.ppy.sh/users/8143379) |
+| 1-8 | ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 }, ::{ flag=GB }:: ::Karthy::{ user-id=4196808 }, ::{ flag=RO }:: ::Rohulk::{ user-id=3219026 }, ::{ flag=US }:: ::zelda101::{ user-id=4502238 }, ::{ flag=NO }:: ::-GN::{ user-id=895581 }, ::{ flag=GB }:: ::OPJames::{ user-id=4117142 }, ::{ flag=GB }:: ::helix::{ user-id=3322597 }, ::{ flag=GB }:: ::dong::{ user-id=4422446 } |
+| 9-16 | ::{ flag=GB }:: ::SteffoST::{ user-id=6566765 }, ::{ flag=GB }:: ::Electovoid::{ user-id=6648263 }, ::{ flag=LV }:: ::waywern2012::{ user-id=5870453 }, ::{ flag=NO }:: ::gilmat::{ user-id=5779181 }, ::{ flag=GB }:: ::Jerome::{ user-id=3391379 }, ::{ flag=GB }:: ::bahamete::{ user-id=960620 }, ::{ flag=GB }:: ::Bae-::{ user-id=6576972 }, ::{ flag=DE }:: ::Blegie::{ user-id=6063132 } |
+| 17-24 | ::{ flag=FI }:: ::Poofie::{ user-id=3517198 }, ::{ flag=GB }:: ::MagicMantwon::{ user-id=6183136 }, ::{ flag=GB }:: ::djsettle::{ user-id=4010354 }, ::{ flag=NO }:: ::Runeandre4::{ user-id=4930482 }, ::{ flag=GB }:: ::mmi-::{ user-id=5444914 }, ::{ flag=GB }:: ::Pelzio::{ user-id=4775226 }, ::{ flag=CZ }:: ::NyarkoO::{ user-id=6622567 }, ::{ flag=GB }:: ::feliciaforever::{ user-id=6177798 } |
+| 25-32 | ::{ flag=FI }:: ::LefafeI::{ user-id=2295850 }, ::{ flag=GB }:: ::NotToBlame::{ user-id=5489311 }, ::{ flag=US }:: ::MicMck101::{ user-id=5117269 }, ::{ flag=GB }:: ::Doomsday is Bad::{ user-id=3481378 }, ::{ flag=GB }:: ::bazzadwarf::{ user-id=4422329 }, ::{ flag=GB }:: ::minorman4::{ user-id=4837257 }, ::{ flag=GB }:: ::DeZa::{ user-id=9061365 }, ::{ flag=NO }:: ::k3v5t3r::{ user-id=8143379 } |
 
 ## Podium
 
@@ -70,9 +70,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: ::Rohulk::{ user-id=3219026 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::Karthy::{ user-id=4196808 } |
 
 ## Mappools
 
@@ -324,7 +324,7 @@ Monday, 3 April 2017:
   - The Grand Final will be BO9 (first to 5).
 - Should more than 28 people sign up for the tournament, qualifiers will take place.
 - The top 28 scores from the qualifiers will progress into the Round of 32.
-- The Top 4 from last CorgiCup (::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) and ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238)) all have automatic qualifications into the Round of 32 should they accept their invitation.
+- The Top 4 from last CorgiCup (::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 }, ::{ flag=GB }:: ::Karthy::{ user-id=4196808 }, ::{ flag=RO }:: ::Rohulk::{ user-id=3219026 } and ::{ flag=US }:: ::zelda101::{ user-id=4502238 }) all have automatic qualifications into the Round of 32 should they accept their invitation.
 - Referees will create the match and invite players 10 mins before the match is due to start.
   - If a player fails to turn up before or on the time their match is due to start, a 10 minute timer will be started. After 10 minutes, if the player has still not shown up, the other player wins.
   - If both players fail to show up, the match can be rescheduled during the times given.

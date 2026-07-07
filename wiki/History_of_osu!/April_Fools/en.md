@@ -22,7 +22,7 @@ Every year, the [osu! team](/wiki/People/osu!_team) likes to play pranks on the 
 
 The [beatmap](/wiki/Beatmap) ["Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267) was [ranked](/wiki/Beatmap/Category#ranked) on 1 April 2009, as part of that year's April Fools' joke. The beatmap was very much an in-joke within the community with users sarcastically claiming that such a beatmap should be kept ranked forever.[^lemontree-reddit][^lemontree-post-machol30][^lemontree-post-peppy] Its ranked status was removed by the moderation team shortly afterwards.[^lemontree-post-machol30]
 
-After some time, the original beatmap was removed at the request of its creator; however, it was eventually re-uploaded on 24 August 2012 by [MillhioreF](https://osu.ppy.sh/users/941094) for archival purposes.[^lemontree-post-millhioref]
+After some time, the original beatmap was removed at the request of its creator; however, it was eventually re-uploaded on 24 August 2012 by ::MillhioreF::{ user-id=941094 } for archival purposes.[^lemontree-post-millhioref]
 
 ## 2010
 
@@ -36,7 +36,7 @@ For the 2010 April Fools' prank, the osu! website along with the in-game main me
 
 The joke largely stems from a [long-standing feature request](https://osu.ppy.sh/community/forums/topics/19307) to create a [game mode](/wiki/Game_mode) based on the currently-existing [osu!catch](/wiki/Game_mode/osu!catch) game mode with the core gameplay from the Touhou Project games.
 
-There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/102335) jokingly remarking that buying an osu!supporter tag would show a naked Marisa Kirisame on the main menu screen instead of a fully clothed one. However, this claim was only a joke and was quickly disproven by others.[^touhousu-forums-2]
+There was also a report at the time of ::Ephemeral::{ user-id=102335 } jokingly remarking that buying an osu!supporter tag would show a naked Marisa Kirisame on the main menu screen instead of a fully clothed one. However, this claim was only a joke and was quickly disproven by others.[^touhousu-forums-2]
 
 ## 2011
 
@@ -66,7 +66,7 @@ The "Bad Apple Ranking Chart" was a joke ranking chart based on a variety of bea
 
 —Cyclone, "Bad Apple Ranking Chart!"[^bad-apple-news]
 
-The chart was opened on 1 April 2012 and closed on 2 April 2012. At the end of the ranking period, [Mesita](https://osu.ppy.sh/users/201459) was the number one player with a ranked score of 145,623,328.[^bad-aple-frontpage]
+The chart was opened on 1 April 2012 and closed on 2 April 2012. At the end of the ranking period, ::Mesita::{ user-id=201459 } was the number one player with a ranked score of 145,623,328.[^bad-aple-frontpage]
 
 The beatmaps included in the ranking chart are listed below:
 
@@ -109,7 +109,7 @@ On 1 April 2014, the osu! main menu screen was temporarily changed (shown below)
 
 ![](img/2015-osucoins.png "The osu! coins")
 
-On 31 March 2015, [peppy](https://osu.ppy.sh/users/2) released [a newspost](https://osu.ppy.sh/home/news/2015-03-31-osucoins) that announced the addition of a new in-game currency, called "osu!coins".[^osu-coins-news][^osu-coins-ontheweb] The newspost explained what the in-game currency was and how it worked along with a specially-created [osu!academy video](https://www.youtube.com/watch?v=BImc5McuK1o). Along with this, peppy also joked that his reasoning behind the change was due to the fact that the current monetary gain from player donations would not have been enough to buy him a personal jet within his lifetime:
+On 31 March 2015, ::peppy::{ user-id=2 } released [a newspost](https://osu.ppy.sh/home/news/2015-03-31-osucoins) that announced the addition of a new in-game currency, called "osu!coins".[^osu-coins-news][^osu-coins-ontheweb] The newspost explained what the in-game currency was and how it worked along with a specially-created [osu!academy video](https://www.youtube.com/watch?v=BImc5McuK1o). Along with this, peppy also joked that his reasoning behind the change was due to the fact that the current monetary gain from player donations would not have been enough to buy him a personal jet within his lifetime:
 
 > At the current rate of return, it would be unlikely for me to purchase a personal jet within my lifetime, which is one of my primary life goals. Thus I held discussions with the team on alternate forms of monetisation, studying the current trends in similar free-to-play games currently available on the market.
 
@@ -127,7 +127,7 @@ The update was generally well-received by players and saw some actual support fo
 
 ### osu! in virtual reality
 
-On 1 April 2016, [a newspost](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) was published detailing the announcement of plans to add support for the [Oculus Rift](https://en.wikipedia.org/wiki/Oculus_Rift) as a new [input method](/wiki/Gameplay/Input_device) in osu!. The post, written by [Evrien](https://osu.ppy.sh/users/791660), referenced many quotes from a supposed interview of [peppy](https://osu.ppy.sh/users/2) in which he explained his reasoning for the announcement and ideas for how the concept might work.[^osu-vr-news]
+On 1 April 2016, [a newspost](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) was published detailing the announcement of plans to add support for the [Oculus Rift](https://en.wikipedia.org/wiki/Oculus_Rift) as a new [input method](/wiki/Gameplay/Input_device) in osu!. The post, written by ::Evrien::{ user-id=791660 }, referenced many quotes from a supposed interview of ::peppy::{ user-id=2 } in which he explained his reasoning for the announcement and ideas for how the concept might work.[^osu-vr-news]
 
 Regarding how players might use the Oculus Rift as an input method, the newspost describes that "the player will experience a first person point-of-view of the cursor as it travels to and from hit-objects on screen…" and will hit hit objects by "…having the player produce vowel-like sounds using their mouth". No actual in-game changes were made related to using the Oculus Rift or a similar [virtual reality (VR)](https://en.wikipedia.org/wiki/Virtual_reality) device to control osu!.[^osu-vr-news]
 
@@ -167,7 +167,7 @@ For the April Fools' day of 2019, there was approximately a 1 in 20 chance of he
 
 ### MillhioreF joins the Featured Artists
 
-[MillhioreF](https://osu.ppy.sh/users/941094) — a long-time osu! moderator, developer and [Easy mod](/wiki/Gameplay/Game_modifier/Easy) player — was announced in [a newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) to have "joined" the list of [Featured Artists](/wiki/People/Featured_Artists) as "Millhiore Firianno Biscotti" on 1 April 2020 with a selection of five songs to boot:[^irish-fa]
+::MillhioreF::{ user-id=941094 } — a long-time osu! moderator, developer and [Easy mod](/wiki/Gameplay/Game_modifier/Easy) player — was announced in [a newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) to have "joined" the list of [Featured Artists](/wiki/People/Featured_Artists) as "Millhiore Firianno Biscotti" on 1 April 2020 with a selection of five songs to boot:[^irish-fa]
 
 - Waltz o' the Irish
 - The Waltzing Irishman

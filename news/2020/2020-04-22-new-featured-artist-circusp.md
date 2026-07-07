@@ -25,7 +25,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1143814) by [Noffy]
 
 ### Goodbye
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/251269) by [neonat](https://osu.ppy.sh/users/1561995)!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/251269) by ::neonat::{ user-id=1561995 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/78/previews/2089.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out [this classic set](https://osu.ppy.sh/beatmapsets/251269) by [neonat](
 
 ### Lie
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/114480) by [BounceBabe](https://osu.ppy.sh/users/551125)!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/114480) by ::BounceBabe::{ user-id=551125 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/78/previews/2091.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Check out [this classic set](https://osu.ppy.sh/beatmapsets/114480) by [BounceBa
 
 ### iNSaNiTY
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/100016) by [Gabe](https://osu.ppy.sh/users/654108)!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/100016) by ::Gabe::{ user-id=654108 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/78/previews/2093.mp3" type="audio/mpeg">

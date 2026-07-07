@@ -9,7 +9,7 @@ Tune in for the latest batch of improvements to the game!
 
 ![](/wiki/shared/news/2023-08-11-osulazer-updates-august-11-2023/banner.jpg)
 
-Before we jump straight into the updates, you can also find them in a video format below, presented by [pishifat](https://osu.ppy.sh/users/3178418), [peppy](https://osu.ppy.sh/users/2) and *a few other guests*:
+Before we jump straight into the updates, you can also find them in a video format below, presented by ::pishifat::{ user-id=3178418 }, [peppy](https://osu.ppy.sh/users/2) and *a few other guests*:
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/JLqhjygGDYI" frameborder="0" allowfullscreen></iframe>

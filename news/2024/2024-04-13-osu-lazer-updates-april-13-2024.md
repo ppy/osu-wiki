@@ -21,7 +21,7 @@ A new month brings yet another round of updates, which you can consume in both t
 - **You can no longer fail in osu!catch during a banana shower.** The catch community can finally indulge in banana showers in peace.
 - **The rotate tool button now works even if only 1 circle is selected.** A small, but welcome change for the mapping community.
 - **Support for searching by multiple beatmap statuses in song select.** This means you can type `status=loved,ranked` to get both Loved and Ranked maps. See [this wiki article](/wiki/Beatmap_search) for a list of all search filters.
-- **Editor performance improvements.** Thank you [EVAST](https://osu.ppy.sh/users/8195163)!
+- **Editor performance improvements.** Thank you ::EVAST::{ user-id=8195163 }!
 
 ### Various visual changes
 
@@ -89,7 +89,7 @@ If you've been experiencing graphical or performance issues (or even if you have
 
 You probably shouldn't be expecting any FPS gains, but the new renderers may behave more reliably for some people.
 
-In case you like technical details, [smoogipoo](https://osu.ppy.sh/users/1040328) (the developer who implemented the change) has written an excellent [blog post](https://smgi.me/blog/post/deferred-renderer/) covering everything that went into this and how it all works.
+In case you like technical details, ::smoogipoo::{ user-id=1040328 } (the developer who implemented the change) has written an excellent [blog post](https://smgi.me/blog/post/deferred-renderer/) covering everything that went into this and how it all works.
 
 ### Some Hush-Hush medals are available
 
@@ -105,7 +105,7 @@ How do you get them? Well, that's the fun part...
 
 ![](/wiki/shared/news/2024-04-13-osulazer-updates-april-13-2024/new-cookie.png)
 
-Designed by [flyte](https://osu.ppy.sh/users/3103765), this iteration of the logo was intended to refresh and modernise. The main change is the (slightly modified) use of the "Torus" font, which is nowadays used everywhere in osu! designs, instead of osu!(stable)'s "Aller".
+Designed by ::flyte::{ user-id=3103765 }, this iteration of the logo was intended to refresh and modernise. The main change is the (slightly modified) use of the "Torus" font, which is nowadays used everywhere in osu! designs, instead of osu!(stable)'s "Aller".
 
 However, after [widespread](https://twitter.com/ppy/status/1762766657855041571) [critique](https://www.youtube.com/watch?v=xUSxEjQQ1UI), [the community has spoken](https://osu.ppy.sh/community/forums/topics/1890232):
 

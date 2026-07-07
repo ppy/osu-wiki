@@ -70,30 +70,30 @@ New Beatmap Nominators! Quick, request all your beatmaps! Jokes aside, the Beatm
 
 ### BN Additions
 
-- **osu!:** [Agatsu](https://osu.ppy.sh/users/5579871) & [Smoke](https://osu.ppy.sh/users/10726630)
-- **osu!taiko:** [Greenshell](https://osu.ppy.sh/users/8693851)
-- **osu!catch:** [Dako](https://osu.ppy.sh/users/11081858)
-- **osu!mania:** [Sun](https://osu.ppy.sh/users/4115819)
+- **osu!:** ::Agatsu::{ user-id=5579871 } & [Smoke](https://osu.ppy.sh/users/10726630)
+- **osu!taiko:** ::Greenshell::{ user-id=8693851 }
+- **osu!catch:** ::Dako::{ user-id=11081858 }
+- **osu!mania:** ::Sun::{ user-id=4115819 }
 
 Interested in becoming a Beatmap Nominator and deciding what maps reach ranked? Want to help new mappers to get their beatmaps ranked? Head to the [Beatmap Nominator website](https://bn.mappersguild.com/) and apply today!
 
 ### BN Resignations
 
-- **osu!:** [celerih](https://osu.ppy.sh/users/4696296), [Chinochan](https://osu.ppy.sh/users/3626063) & [Namki](https://osu.ppy.sh/users/5248582)
-- **osu!catch:** [Lacrima](https://osu.ppy.sh/users/4915649)
+- **osu!:** ::celerih::{ user-id=4696296 }, [Chinochan](https://osu.ppy.sh/users/3626063) & ::Namki::{ user-id=5248582 }
+- **osu!catch:** ::Lacrima::{ user-id=4915649 }
 
 ### NAT Additions
 
-Our office cat **[Mao](https://osu.ppy.sh/users/2204515)** has returned! After stepping down from the NAT duties in December 2019, he decided to make his return. Mao is lending the other osu! NAT members a helping hand with Beatmap Nominator evaluations. Welcome back!
+Our office cat **::Mao::{ user-id=2204515 }** has returned! After stepping down from the NAT duties in December 2019, he decided to make his return. Mao is lending the other osu! NAT members a helping hand with Beatmap Nominator evaluations. Welcome back!
 
 ## Mappers' Showcase
 
 The Mappers' Showcase parades lesser-known mappers from every game mode.
-This month features osu!taiko thanks to our selectors [radar](https://osu.ppy.sh/users/7131099) and [Capu](https://osu.ppy.sh/users/2474015).
+This month features osu!taiko thanks to our selectors ::radar::{ user-id=7131099 } and [Capu](https://osu.ppy.sh/users/2474015).
 
 ### Idealism
 
-**[Idealism](https://osu.ppy.sh/users/3869519)** is an osu!taiko mapper (as well as an osu! top player) from Brazil who has been around the community for a while now, though he definitely deserves more credit for his work in the mapping scene! His maps blend creativity with smooth and interesting patterning which leave a good taste in the mouths of mappers and players alike.
+**::Idealism::{ user-id=3869519 }** is an osu!taiko mapper (as well as an osu! top player) from Brazil who has been around the community for a while now, though he definitely deserves more credit for his work in the mapping scene! His maps blend creativity with smooth and interesting patterning which leave a good taste in the mouths of mappers and players alike.
 
 A map of his that truly shines is his rendition of [Cyte - Command Prompt](https://osu.ppy.sh/beatmapsets/1068145#taiko/2236237) ranked at the start of the year. On the top difficulty (mind bogglingly named "C:\Program Files\Difficulties\434f525255505445442046494c45.exe"), Idealism proves that even when mapping genres out of his comfort zone he can still shine.
 
@@ -101,7 +101,7 @@ Some of his other notable and equally as great maps would be his renditions of [
 
 ### Yuemiao
 
-Recently making her first appearance in the ranked section with her take on [Mizutama by YUC'e and Nor](https://osu.ppy.sh/beatmapsets/1009290#taiko/2112927),  **[Yuemiao](https://osu.ppy.sh/users/4493348)** shows us that she knows what she's doing.
+Recently making her first appearance in the ranked section with her take on [Mizutama by YUC'e and Nor](https://osu.ppy.sh/beatmapsets/1009290#taiko/2112927),  **::Yuemiao::{ user-id=4493348 }** shows us that she knows what she's doing.
 
 Perfect execution of different snaps and rhythms along with clean consistency throughout her difficulties makes this map one of the most interesting additions to the ranked section as of late.
 Implementing her own little rhythms with intuitive yet interesting kat placement really shows how good osu!taiko can sound and how it's possible to enhance the song that is mapped when someone knows their craft!
@@ -134,24 +134,24 @@ The contest required users to submit a full beatmap spread of any game mode for 
 
 #### [Loki/Thaehan](https://osu.ppy.sh/beatmaps/artists/7) - A New King Is Born
 
-- [osu! mapset](https://osu.ppy.sh/beatmapsets/760694) by [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
-- [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1158282) by [Raiden](https://osu.ppy.sh/users/2239480)
-- [osu!mania mapset](https://osu.ppy.sh/beatmapsets/772257) by [chouyaa](https://osu.ppy.sh/users/8404646)
+- [osu! mapset](https://osu.ppy.sh/beatmapsets/760694) by ::DTM9 Nowa::{ user-id=5428909 }
+- [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1158282) by ::Raiden::{ user-id=2239480 }
+- [osu!mania mapset](https://osu.ppy.sh/beatmapsets/772257) by ::chouyaa::{ user-id=8404646 }
 
 #### [*namirin](https://osu.ppy.sh/beatmaps/artists/18) - closing eyes
 
-- [osu! mapset](https://osu.ppy.sh/beatmapsets/669437) by [pishifat](https://osu.ppy.sh/users/3178418)
-- [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/705499) by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+- [osu! mapset](https://osu.ppy.sh/beatmapsets/669437) by ::pishifat::{ user-id=3178418 }
+- [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/705499) by ::Nardoxyribonucleic::{ user-id=876419 }
 
 #### [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) - Fortuna Redux
 
-- [osu! mapset](https://osu.ppy.sh/beatmapsets/712974) by [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
+- [osu! mapset](https://osu.ppy.sh/beatmapsets/712974) by ::DTM9 Nowa::{ user-id=5428909 }
 
 Each of the winners has been awarded with the Mapping With Rewards profile badge seen below!
 
 ![](/wiki/shared/news/2020-05-08-mappers-report-april/mwr_badge2x.png)
 
-Late congratulations to the winners and thank you to [Okoratu](https://osu.ppy.sh/users/1623405), [Mir](https://osu.ppy.sh/users/8688812), [Zetera](https://osu.ppy.sh/users/587737), [Nepuri](https://osu.ppy.sh/users/6637817), [Yuzeyun](https://osu.ppy.sh/users/481582), [Maxus](https://osu.ppy.sh/users/4335785), and [Protastic101](https://osu.ppy.sh/users/6712747) for judging entries over a year ago. Full judging comments and more can be found in [this forum post](https://osu.ppy.sh/community/forums/posts/7139243).
+Late congratulations to the winners and thank you to ::Okoratu::{ user-id=1623405 }, [Mir](https://osu.ppy.sh/users/8688812), ::Zetera::{ user-id=587737 }, [Nepuri](https://osu.ppy.sh/users/6637817), ::Yuzeyun::{ user-id=481582 }, [Maxus](https://osu.ppy.sh/users/4335785), and ::Protastic101::{ user-id=6712747 } for judging entries over a year ago. Full judging comments and more can be found in [this forum post](https://osu.ppy.sh/community/forums/posts/7139243).
 
 With that said, Mapping With Rewards has reached its end. Closure, *finally*!
 
@@ -165,15 +165,15 @@ While we try to keep watch over all running contests, we might miss some. If you
 
 ## Around the Community
 
-This section is all about interesting things which have been happening or will happen soon in the mapping and modding community! Should you have/know about something worth including, be sure to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! For this month, we have updates on the mapping podcast **The osu! Map Cast**, the **Electoz Advanced Modding Guide**, and how **super long marathons can now be ranked**!
+This section is all about interesting things which have been happening or will happen soon in the mapping and modding community! Should you have/know about something worth including, be sure to let ::Feerum::{ user-id=4815717 } or [Noffy](https://osu.ppy.sh/users/1541323) know about it! For this month, we have updates on the mapping podcast **The osu! Map Cast**, the **Electoz Advanced Modding Guide**, and how **super long marathons can now be ranked**!
 
 ### The osu! Map Cast
 
-Mentioned in [last month's Mappers' Report](https://osu.ppy.sh/home/news/2020-04-11-mappers-report-march), the **osu! Map Cast** is still going strong, with five new episodes! Usually once per week, this podcast hosted by [Cinnabun](https://osu.ppy.sh/users/11868659) features him talking with a wide variety of mapping community members about osu! and beyond. In the past month and a bit, the osu! Map Cast has published new episodes with [the Elite Nominator Cheri](https://www.youtube.com/watch?v=KpuEXzbmrys), [the osu!taiko Nominator incandescence](https://www.youtube.com/watch?v=poaLJGGeD68), [osu! NAT and former video mapping tutorial extraordinaire pishifat](https://www.youtube.com/watch?v=pJwSShQT3eA), [the new osu! Beatmap Nominator wafer](https://www.youtube.com/watch?v=91oq-hgHAdY), and [a group episode with Nevo, Cheri, incandsecence and Cinnabun all together!](https://www.youtube.com/watch?v=J8Wc8yX4ems) The podcast episodes cover a wide variety of topics, both within osu! such as mapping and modding experiences, and outside of osu! such as birds. Be sure to check out more details and links on the [osu! Map Cast forum post](https://osu.ppy.sh/community/forums/topics/1043221) if this so far has spiked your interest!
+Mentioned in [last month's Mappers' Report](https://osu.ppy.sh/home/news/2020-04-11-mappers-report-march), the **osu! Map Cast** is still going strong, with five new episodes! Usually once per week, this podcast hosted by ::Cinnabun::{ user-id=11868659 } features him talking with a wide variety of mapping community members about osu! and beyond. In the past month and a bit, the osu! Map Cast has published new episodes with [the Elite Nominator Cheri](https://www.youtube.com/watch?v=KpuEXzbmrys), [the osu!taiko Nominator incandescence](https://www.youtube.com/watch?v=poaLJGGeD68), [osu! NAT and former video mapping tutorial extraordinaire pishifat](https://www.youtube.com/watch?v=pJwSShQT3eA), [the new osu! Beatmap Nominator wafer](https://www.youtube.com/watch?v=91oq-hgHAdY), and [a group episode with Nevo, Cheri, incandsecence and Cinnabun all together!](https://www.youtube.com/watch?v=J8Wc8yX4ems) The podcast episodes cover a wide variety of topics, both within osu! such as mapping and modding experiences, and outside of osu! such as birds. Be sure to check out more details and links on the [osu! Map Cast forum post](https://osu.ppy.sh/community/forums/topics/1043221) if this so far has spiked your interest!
 
 ### Electoz Advanced Modding Guide
 
-Making waves in the modding community recently is the freshly published modding guide by [Electoz](https://osu.ppy.sh/users/6485263) who is a former Beatmap Nominator and long-time mentor in the Mapping Mentorship Program. The modding guide which can be found on their userpage and [here](https://electoz.s-ul.eu/N7Y53Jaj) goes in-depth on basically everything you would need to know about modding at a more advanced level. Electoz has fully infused the guide with his own knowledge and experiences, and the guide itself is largely based off how they would mentor successful aspiring modders! If you're into modding, or want to get into it, checking out the Electoz Advanced Modding Guide should definitely be worth your while.
+Making waves in the modding community recently is the freshly published modding guide by ::Electoz::{ user-id=6485263 } who is a former Beatmap Nominator and long-time mentor in the Mapping Mentorship Program. The modding guide which can be found on their userpage and [here](https://electoz.s-ul.eu/N7Y53Jaj) goes in-depth on basically everything you would need to know about modding at a more advanced level. Electoz has fully infused the guide with his own knowledge and experiences, and the guide itself is largely based off how they would mentor successful aspiring modders! If you're into modding, or want to get into it, checking out the Electoz Advanced Modding Guide should definitely be worth your while.
 
 ### Super long marathons are now rankable!
 

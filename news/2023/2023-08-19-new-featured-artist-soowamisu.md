@@ -13,7 +13,7 @@ A living, breathing collection of breakcore samples (a.k.a. **soowamisu**) is no
 
 **16** of those experiences are available from [**soowamisu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/376), all pre-timed for your upcoming pristine editor experience.
 
-[COE](/wiki/Community/cavoe's_osu!_event/2023) never ended. Check out [Bubbleman](https://osu.ppy.sh/users/5182050)'s return from retirement as he attempts to play a 4-star **soowamisu** map with touchscreen:
+[COE](/wiki/Community/cavoe's_osu!_event/2023) never ended. Check out ::Bubbleman::{ user-id=5182050 }'s return from retirement as he attempts to play a 4-star **soowamisu** map with touchscreen:
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ A living, breathing collection of breakcore samples (a.k.a. **soowamisu**) is no
 
 ### soowamisu - .vaporcore
 
-Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1999116) hosted by [Kyouren](https://osu.ppy.sh/users/2013571)!
+Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1999116) hosted by ::Kyouren::{ user-id=2013571 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/376/Songs/soowamisu%20-%20.vaporcore.mp3">
@@ -31,7 +31,7 @@ Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1999116) h
 
 ### soowamisu - floating architecture of an abstract heaven
 
-Or attempt [this recently Ranked map](https://osu.ppy.sh/beatmapsets/1988496) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)!
+Or attempt [this recently Ranked map](https://osu.ppy.sh/beatmapsets/1988496) hosted by ::Hinsvar::{ user-id=1249323 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/376/Songs/soowamisu%20-%20floating%20architecture%20of%20an%20abstract%20heaven.mp3">
@@ -65,61 +65,61 @@ Playlist leaders earn prizes based on [this cumulative leaderboard](/wiki/People
 
 | Rank | User | Points earned | Total points |
 | --: | :-- | :-- | :-- |
-| #1 | ::{ flag=DE }:: [Maxe191](https://osu.ppy.sh/users/2184751) | **10** | **16** |
-| #2 | ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) | 5 | 5 |
-| #3 | ::{ flag=HK }:: [AbbeyChan6203](https://osu.ppy.sh/users/20971891) | 3 | 3 |
-| #4 | ::{ flag=MY }:: [Zeph2003](https://osu.ppy.sh/users/10343292) | 2 | 5 |
-| #5 | ::{ flag=US }:: [1103](https://osu.ppy.sh/users/7306698) | 2 | 2 |
-| #6 | ::{ flag=US }:: [yencis](https://osu.ppy.sh/users/10852203) | 1 | 1 |
-| #7 | ::{ flag=SI }:: [Sirek](https://osu.ppy.sh/users/14666725) | 1 | 1 |
-| #8 | ::{ flag=HU }:: [Lexion](https://osu.ppy.sh/users/5271371) | 1 | 4 |
-| #9 | ::{ flag=US }:: [Leebs](https://osu.ppy.sh/users/7636779) | 1 | 1 |
-| #10 | ::{ flag=US }:: [Stoppedpuma](https://osu.ppy.sh/users/12654568) | 1 | 2 |
+| #1 | ::{ flag=DE }:: ::Maxe191::{ user-id=2184751 } | **10** | **16** |
+| #2 | ::{ flag=US }:: ::DigitalHypno::{ user-id=4384207 } | 5 | 5 |
+| #3 | ::{ flag=HK }:: ::AbbeyChan6203::{ user-id=20971891 } | 3 | 3 |
+| #4 | ::{ flag=MY }:: ::Zeph2003::{ user-id=10343292 } | 2 | 5 |
+| #5 | ::{ flag=US }:: ::1103::{ user-id=7306698 } | 2 | 2 |
+| #6 | ::{ flag=US }:: ::yencis::{ user-id=10852203 } | 1 | 1 |
+| #7 | ::{ flag=SI }:: ::Sirek::{ user-id=14666725 } | 1 | 1 |
+| #8 | ::{ flag=HU }:: ::Lexion::{ user-id=5271371 } | 1 | 4 |
+| #9 | ::{ flag=US }:: ::Leebs::{ user-id=7636779 } | 1 | 1 |
+| #10 | ::{ flag=US }:: ::Stoppedpuma::{ user-id=12654568 } | 1 | 2 |
 
 ### osu!taiko
 
 | Rank | User | Points earned | Total points |
 | --: | :-- | :-- | :-- |
-| #1 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | **10** | **10** |
-| #2 | ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116) | 5 | 5 |
-| #3 | ::{ flag=US }:: [Arityle](https://osu.ppy.sh/users/18397349) | 3 | 3 |
-| #4 | ::{ flag=JP }:: [makimen](https://osu.ppy.sh/users/10869389) | 2 | 2 |
-| #5 | ::{ flag=NZ }:: [Zed0x](https://osu.ppy.sh/users/12136108) | 2 | 2 |
-| #6 | ::{ flag=PH }:: [JoshEco4](https://osu.ppy.sh/users/18591473) | 1 | 1 |
-| #7 | ::{ flag=KR }:: [NaNaHiDa](https://osu.ppy.sh/users/30114023) | 1 | 1 |
-| #8 | ::{ flag=TW }:: [rex0988476](https://osu.ppy.sh/users/11426995) | 1 | 1 |
-| #9 | ::{ flag=IN }:: [CheesedToMeet](https://osu.ppy.sh/users/12309983) | 1 | 1 |
-| #10 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | 1 | 1 |
+| #1 | ::{ flag=JP }:: ::Grape\1Tea::{ user-id=9540073 } | **10** | **10** |
+| #2 | ::{ flag=US }:: ::AuroraPhasmata::{ user-id=13664116 } | 5 | 5 |
+| #3 | ::{ flag=US }:: ::Arityle::{ user-id=18397349 } | 3 | 3 |
+| #4 | ::{ flag=JP }:: ::makimen::{ user-id=10869389 } | 2 | 2 |
+| #5 | ::{ flag=NZ }:: ::Zed0x::{ user-id=12136108 } | 2 | 2 |
+| #6 | ::{ flag=PH }:: ::JoshEco4::{ user-id=18591473 } | 1 | 1 |
+| #7 | ::{ flag=KR }:: ::NaNaHiDa::{ user-id=30114023 } | 1 | 1 |
+| #8 | ::{ flag=TW }:: ::rex0988476::{ user-id=11426995 } | 1 | 1 |
+| #9 | ::{ flag=IN }:: ::CheesedToMeet::{ user-id=12309983 } | 1 | 1 |
+| #10 | ::{ flag=GB }:: ::chromb::{ user-id=10238680 } | 1 | 1 |
 
 ### osu!catch
 
 | Rank | User | Points earned | Total points |
 | --: | :-- | :-- | :-- |
-| #1 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | **10** | **10** |
-| #2 | ::{ flag=VN }:: [[ Primakien ]](https://osu.ppy.sh/users/23941998) | 5 | 9 |
-| #3 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | 3 | 9 |
-| #4 | ::{ flag=BR }:: [Predominador](https://osu.ppy.sh/users/4568537) | 2 | 5 |
-| #5 | ::{ flag=PL }:: [-Filow-](https://osu.ppy.sh/users/3157472) | 2 | 2 |
-| #6 | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | 1 | **11** |
-| #7 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | 1 | 6 |
-| #8 | ::{ flag=LV }:: [AnApple7](https://osu.ppy.sh/users/12567935) | 1 | 1 |
-| #9 | ::{ flag=US }:: [poi4](https://osu.ppy.sh/users/7299865) | 1 | 1 |
-| #10 | ::{ flag=MK }:: [MysticalTeaPot](https://osu.ppy.sh/users/25198181) | 1 | 1 |
+| #1 | ::{ flag=KR }:: ::Spectator::{ user-id=702598 } | **10** | **10** |
+| #2 | ::{ flag=VN }:: ::\1 Primakien \1::{ user-id=23941998 } | 5 | 9 |
+| #3 | ::{ flag=RU }:: ::Kimitakari::{ user-id=4741164 } | 3 | 9 |
+| #4 | ::{ flag=BR }:: ::Predominador::{ user-id=4568537 } | 2 | 5 |
+| #5 | ::{ flag=PL }:: ::-Filow-::{ user-id=3157472 } | 2 | 2 |
+| #6 | ::{ flag=TN }:: ::-Ken::{ user-id=4430811 } | 1 | **11** |
+| #7 | ::{ flag=NL }:: ::Chatie::{ user-id=6524765 } | 1 | 6 |
+| #8 | ::{ flag=LV }:: ::AnApple7::{ user-id=12567935 } | 1 | 1 |
+| #9 | ::{ flag=US }:: ::poi4::{ user-id=7299865 } | 1 | 1 |
+| #10 | ::{ flag=MK }:: ::MysticalTeaPot::{ user-id=25198181 } | 1 | 1 |
 
 ### osu!mania
 
 | Rank | User | Points earned | Total points |
 | --: | :-- | :-- | :-- |
-| #1 | ::{ flag=PL }:: [bagjettka](https://osu.ppy.sh/users/18338179) | **10** | **12** |
-| #2 | ::{ flag=TH }:: [Monpluk](https://osu.ppy.sh/users/23299675) | 5 | **10** |
-| #3 | ::{ flag=DE }:: [ERA Sirbeyy](https://osu.ppy.sh/users/12917829) | 3 | 6 |
-| #4 | ::{ flag=TW }:: [jkboos](https://osu.ppy.sh/users/13249066) | 2 | 2 |
-| #5 | ::{ flag=US }:: [Mill1424](https://osu.ppy.sh/users/27762510) | 2 | 2 |
-| #6 | ::{ flag=JP }:: [Mi0117](https://osu.ppy.sh/users/15501680) | 1 | 1 |
-| #7 | ::{ flag=US }:: [TPColor](https://osu.ppy.sh/users/19102458) | 1 | 1 |
-| #8 | ::{ flag=US }:: [netzoid](https://osu.ppy.sh/users/25673755) | 1 | 1 |
-| #9 | ::{ flag=US }:: [IMaxI](https://osu.ppy.sh/users/29186011) | 1 | 2 |
-| #10 | ::{ flag=CL }:: [-Kori](https://osu.ppy.sh/users/12490530) | 1 | 2 |
+| #1 | ::{ flag=PL }:: ::bagjettka::{ user-id=18338179 } | **10** | **12** |
+| #2 | ::{ flag=TH }:: ::Monpluk::{ user-id=23299675 } | 5 | **10** |
+| #3 | ::{ flag=DE }:: ::ERA Sirbeyy::{ user-id=12917829 } | 3 | 6 |
+| #4 | ::{ flag=TW }:: ::jkboos::{ user-id=13249066 } | 2 | 2 |
+| #5 | ::{ flag=US }:: ::Mill1424::{ user-id=27762510 } | 2 | 2 |
+| #6 | ::{ flag=JP }:: ::Mi0117::{ user-id=15501680 } | 1 | 1 |
+| #7 | ::{ flag=US }:: ::TPColor::{ user-id=19102458 } | 1 | 1 |
+| #8 | ::{ flag=US }:: ::netzoid::{ user-id=25673755 } | 1 | 1 |
+| #9 | ::{ flag=US }:: ::IMaxI::{ user-id=29186011 } | 1 | 2 |
+| #10 | ::{ flag=CL }:: ::-Kori::{ user-id=12490530 } | 1 | 2 |
 
 ---
 

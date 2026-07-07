@@ -18,6 +18,6 @@ If you're interested in how it all went down, check out the links below:
 
 Just like with the results from the [osu! survey](https://osu.ppy.sh/home/news/2021-09-02-pp-sr-survey-results), you can use the buttons on the left side to navigate through each rank group to get a better understanding of where things sit across players of varying skill and dedication levels.
 
-A big thank you to everyone who took the time out of their day to take the survey, [mangomizer](https://osu.ppy.sh/users/1893718) and [-Lawtron-](https://osu.ppy.sh/users/11475208) for designing the osu!taiko survey, and [taggerung](https://osu.ppy.sh/users/14751043) and [Quenlla](https://osu.ppy.sh/users/4725379) for designing the osu!mania survey.
+A big thank you to everyone who took the time out of their day to take the survey, ::mangomizer::{ user-id=1893718 } and [-Lawtron-](https://osu.ppy.sh/users/11475208) for designing the osu!taiko survey, and ::taggerung::{ user-id=14751043 } and [Quenlla](https://osu.ppy.sh/users/4725379) for designing the osu!mania survey.
 
 —osu!team

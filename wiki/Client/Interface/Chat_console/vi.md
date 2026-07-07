@@ -19,7 +19,7 @@ Từ hầu hết các màn hình trong osu!, bạn có thể nhấn `F8` hoặc 
 | **Đỏ** | Thành viên [Global Moderation Team](/wiki/People/Global_Moderation_Team) hoặc [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) |
 | **Xanh lá cây** | Dòng chứa tên của bạn hoặc các từ khóa bạn đã thêm để kích hoạt [highlight](Highlight). Một bản sao của tin nhắn cũng sẽ xuất hiện trong kênh `#highlight`, chứa tất cả các dòng này. |
 | **Xanh dương** | Tin nhắn riêng |
-| **Xanh lơ** | [peppy](https://osu.ppy.sh/users/2), người sáng lập osu! |
+| **Xanh lơ** | ::peppy::{ user-id=2 }, người sáng lập osu! |
 | **Hồng** | [BanchoBot](/wiki/BanchoBot) |
 
 - Nhấp vào ô `Show Ticker` để hiển thị tin nhắn mới nhất ở dưới cùng của màn hình khi bảng chat không hiển thị.

@@ -67,4 +67,4 @@ Maintenant que vous avez fini d'éditer la vidéo, allez dans 'Fichier', puis cl
 
 Appuyez sur le bouton d'enregistrement, et votre vidéo sera terminée en quelques minutes. Elle est maintenant prête pour YouTube ! Veuillez noter qu'il faudra un certain temps avant que la vidéo soit disponible en haute résolution sur YouTube, soyez patient !
 
-**Maintenant, allez faire des vidéos et répandez osu!** Guide fait par [Remco32](https://osu.ppy.sh/users/9199), fil original [ici](https://osu.ppy.sh/community/forums/topics/18112)
+**Maintenant, allez faire des vidéos et répandez osu!** Guide fait par ::Remco32::{ user-id=9199 }, fil original [ici](https://osu.ppy.sh/community/forums/topics/18112)

@@ -25,7 +25,7 @@ Check it all out through this video showcasing osu!(lazer)'s in-play leaderboard
 
 ### Rise Of The Chaos Wizards
 
-Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1621226) hosted by stream savant [nebuwua](https://osu.ppy.sh/users/14729352) or [this multi-million-play Loved map](https://osu.ppy.sh/beatmapsets/694464) hosted by [xChorse](https://osu.ppy.sh/users/2217628)!
+Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1621226) hosted by stream savant ::nebuwua::{ user-id=14729352 } or [this multi-million-play Loved map](https://osu.ppy.sh/beatmapsets/694464) hosted by ::xChorse::{ user-id=2217628 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/311/Space%201992%20-%20Rise%20of%20the%20Chaos%20Wizards/GLORYHAMMER%20-%20Rise%20Of%20The%20Chaos%20Wizards.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1621226) h
 
 ### The Epic Rage of Furious Thunder
 
-[More than 8 minutes of **GLORYHAMMER**](https://osu.ppy.sh/beatmapsets/1848202) have arrived, provided by [Nymphe](https://osu.ppy.sh/users/10507407) specifically for this Featured Artist announcement!
+[More than 8 minutes of **GLORYHAMMER**](https://osu.ppy.sh/beatmapsets/1848202) have arrived, provided by ::Nymphe::{ user-id=10507407 } specifically for this Featured Artist announcement!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/311/Tales%20from%20the%20Kingdom%20of%20Fife%2FGLORYHAMMER%20-%20The%20Epic%20Rage%20of%20Furious%20Thunder.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1621226) h
 
 ### The Unicorn Invasion of Dundee
 
-Play [the introduction to the story](https://osu.ppy.sh/beatmapsets/1072728) hosted by [greenhue](https://osu.ppy.sh/users/4967662)!
+Play [the introduction to the story](https://osu.ppy.sh/beatmapsets/1072728) hosted by ::greenhue::{ user-id=4967662 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/311/Tales%20from%20the%20Kingdom%20of%20Fife%2FGLORYHAMMER%20-%20The%20Unicorn%20Invasion%20of%20Dundee.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Play [the introduction to the story](https://osu.ppy.sh/beatmapsets/1072728) hos
 
 ### Questlords of Inverness, Ride to the Galactic Fortress!
 
-Challenge yourself with [this marathon](https://osu.ppy.sh/beatmapsets/1630218) hosted by [iamtickrate](https://osu.ppy.sh/users/10772580)!
+Challenge yourself with [this marathon](https://osu.ppy.sh/beatmapsets/1630218) hosted by ::iamtickrate::{ user-id=10772580 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/311/Space%201992%20-%20Rise%20of%20the%20Chaos%20Wizards%2FGLORYHAMMER%20-%20Questlords%20of%20Inverness%2C%20Ride%20to%20the%20Galactic%20Fortress!.mp3" type="audio/mpeg">

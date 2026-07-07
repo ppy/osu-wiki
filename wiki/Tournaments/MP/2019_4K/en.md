@@ -42,14 +42,14 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783) |
-| Coordinator | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=PL }:: [Marleza](https://osu.ppy.sh/users/5396181), ::{ flag=PL }:: [Open](https://osu.ppy.sh/users/7082921) |
-| Mappool selector | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=ID }:: [-Rem-](https://osu.ppy.sh/users/5767941), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Referee | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
-| Streamer | ::{ flag=PL }:: [Arkitev](https://osu.ppy.sh/users/6905790), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PH }:: [LohaWarpe](https://osu.ppy.sh/users/8560810), ::{ flag=PL }:: [Miq](https://osu.ppy.sh/users/2424440), ::{ flag=PL }:: [Open](https://osu.ppy.sh/users/7082921), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
-| Commentator | ::{ flag=PL }:: [Arkitev](https://osu.ppy.sh/users/6905790), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [Open](https://osu.ppy.sh/users/7082921), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750) |
-| Designer | ::{ flag=PL }:: [W D Gaster](https://osu.ppy.sh/users/1475814) |
-| Statistician helper | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Host | ::{ flag=PL }:: ::Kamikaze::{ user-id=2124783 } |
+| Coordinator | ::{ flag=PL }:: ::Benzopirene::{ user-id=1887068 }, ::{ flag=PL }:: ::Marleza::{ user-id=5396181 }, ::{ flag=PL }:: ::Open::{ user-id=7082921 } |
+| Mappool selector | ::{ flag=PL }:: ::Benzopirene::{ user-id=1887068 }, ::{ flag=MY }:: ::cheewee10::{ user-id=4477497 }, ::{ flag=PL }:: ::Kamikaze::{ user-id=2124783 }, ::{ flag=ID }:: ::-Rem-::{ user-id=5767941 }, ::{ flag=CL }:: ::WalterToro::{ user-id=5281416 } |
+| Referee | ::{ flag=PL }:: ::Benzopirene::{ user-id=1887068 }, ::{ flag=PL }:: ::Kamikaze::{ user-id=2124783 }, ::{ flag=PL }:: ::SitekX::{ user-id=3840946 } |
+| Streamer | ::{ flag=PL }:: ::Arkitev::{ user-id=6905790 }, ::{ flag=PL }:: ::Kamikaze::{ user-id=2124783 }, ::{ flag=PH }:: ::LohaWarpe::{ user-id=8560810 }, ::{ flag=PL }:: ::Miq::{ user-id=2424440 }, ::{ flag=PL }:: ::Open::{ user-id=7082921 }, ::{ flag=PL }:: ::SitekX::{ user-id=3840946 } |
+| Commentator | ::{ flag=PL }:: ::Arkitev::{ user-id=6905790 }, ::{ flag=PL }:: ::Kamikaze::{ user-id=2124783 }, ::{ flag=PL }:: ::Open::{ user-id=7082921 }, ::{ flag=PL }:: ::SitekX::{ user-id=3840946 }, ::{ flag=PL }:: ::\_underjoy::{ user-id=2235750 } |
+| Designer | ::{ flag=PL }:: ::W D Gaster::{ user-id=1475814 } |
+| Statistician helper | ::{ flag=PH }:: ::SurfChu85::{ user-id=4469895 } |
 
 ## Links
 
@@ -62,10 +62,10 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 
 | Seed | Users |
 | :-- | :-- |
-| Top (#1 - #8) | ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282), ::{ flag=PL }:: [Nick Wilde](https://osu.ppy.sh/users/8550320), ::{ flag=PL }:: [Arkitev](https://osu.ppy.sh/users/6905790), ::{ flag=PL }:: [Triksu](https://osu.ppy.sh/users/7233032), ::{ flag=PL }:: [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654), ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=PL }:: [TheFalek](https://osu.ppy.sh/users/10214260) |
-| High (#9 - #16) | ::{ flag=PL }:: [Moskas](https://osu.ppy.sh/users/1934077), ::{ flag=PL }:: [Miq](https://osu.ppy.sh/users/2424440), ::{ flag=PL }:: [Hvb3rt](https://osu.ppy.sh/users/7749033), ::{ flag=PL }:: [arfuk0134](https://osu.ppy.sh/users/13618563), ::{ flag=PL }:: [capsafangirl](https://osu.ppy.sh/users/4308015), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=PL }:: [Archaic84](https://osu.ppy.sh/users/8611177), ::{ flag=PL }:: [Justin14p](https://osu.ppy.sh/users/8461297) |
-| Mid (#17 - #24) | ::{ flag=PL }:: [EWGF](https://osu.ppy.sh/users/8422748), ::{ flag=PL }:: [Felix27](https://osu.ppy.sh/users/7447943), ::{ flag=PL }:: [PIayer69](https://osu.ppy.sh/users/10694850), ::{ flag=PL }:: [C18-H27-NO3](https://osu.ppy.sh/users/8682644), ::{ flag=PL }:: [Shadow Cultist](https://osu.ppy.sh/users/3827078), ::{ flag=PL }:: [Marqez](https://osu.ppy.sh/users/9579664), ::{ flag=PL }:: [m666](https://osu.ppy.sh/users/8623171), ::{ flag=PL }:: [klodaa](https://osu.ppy.sh/users/10584535) |
-| Low (#25 - #32) | ::{ flag=PL }:: [FD5GD](https://osu.ppy.sh/users/9477978), ::{ flag=PL }:: [Kush-kun](https://osu.ppy.sh/users/9922294), ::{ flag=PL }:: [p4v31](https://osu.ppy.sh/users/7474409), ::{ flag=PL }:: [Otis1204](https://osu.ppy.sh/users/11431349), ::{ flag=PL }:: [Kupamasla](https://osu.ppy.sh/users/9066667), ::{ flag=PL }:: [Acrith](https://osu.ppy.sh/users/389880), ::{ flag=PL }:: [ricoMeister](https://osu.ppy.sh/users/9117305), ::{ flag=PL }:: [MrBoom](https://osu.ppy.sh/users/1837989) |
+| Top (#1 - #8) | ::{ flag=PL }:: ::SitekX::{ user-id=3840946 }, ::{ flag=PL }:: ::Tidek::{ user-id=743282 }, ::{ flag=PL }:: ::Nick Wilde::{ user-id=8550320 }, ::{ flag=PL }:: ::Arkitev::{ user-id=6905790 }, ::{ flag=PL }:: ::Triksu::{ user-id=7233032 }, ::{ flag=PL }:: ::PoweR\_LendzeR::{ user-id=2894654 }, ::{ flag=PL }:: ::\_underjoy::{ user-id=2235750 }, ::{ flag=PL }:: ::TheFalek::{ user-id=10214260 } |
+| High (#9 - #16) | ::{ flag=PL }:: ::Moskas::{ user-id=1934077 }, ::{ flag=PL }:: ::Miq::{ user-id=2424440 }, ::{ flag=PL }:: ::Hvb3rt::{ user-id=7749033 }, ::{ flag=PL }:: ::arfuk0134::{ user-id=13618563 }, ::{ flag=PL }:: ::capsafangirl::{ user-id=4308015 }, ::{ flag=PL }:: ::Eclipse-::{ user-id=8493070 }, ::{ flag=PL }:: ::Archaic84::{ user-id=8611177 }, ::{ flag=PL }:: ::Justin14p::{ user-id=8461297 } |
+| Mid (#17 - #24) | ::{ flag=PL }:: ::EWGF::{ user-id=8422748 }, ::{ flag=PL }:: ::Felix27::{ user-id=7447943 }, ::{ flag=PL }:: ::PIayer69::{ user-id=10694850 }, ::{ flag=PL }:: ::C18-H27-NO3::{ user-id=8682644 }, ::{ flag=PL }:: ::Shadow Cultist::{ user-id=3827078 }, ::{ flag=PL }:: ::Marqez::{ user-id=9579664 }, ::{ flag=PL }:: ::m666::{ user-id=8623171 }, ::{ flag=PL }:: ::klodaa::{ user-id=10584535 } |
+| Low (#25 - #32) | ::{ flag=PL }:: ::FD5GD::{ user-id=9477978 }, ::{ flag=PL }:: ::Kush-kun::{ user-id=9922294 }, ::{ flag=PL }:: ::p4v31::{ user-id=7474409 }, ::{ flag=PL }:: ::Otis1204::{ user-id=11431349 }, ::{ flag=PL }:: ::Kupamasla::{ user-id=9066667 }, ::{ flag=PL }:: ::Acrith::{ user-id=389880 }, ::{ flag=PL }:: ::ricoMeister::{ user-id=9117305 }, ::{ flag=PL }:: ::MrBoom::{ user-id=1837989 } |
 
 ## Groups
 

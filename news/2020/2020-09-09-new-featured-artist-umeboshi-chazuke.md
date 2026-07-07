@@ -17,7 +17,7 @@ Check it all out:
 
 ### Bison Charge
 
-Check out [this collaborative osu! set](https://osu.ppy.sh/beatmapsets/894701) hosted by [Nao Tomori](https://osu.ppy.sh/users/5364763), [this collaborative osu!taiko set](https://osu.ppy.sh/beatmapsets/739116) hosted by [Reficul](https://osu.ppy.sh/users/1506011) (previously known as Midnaait), and [this highly popular collaborative osu!mania set](https://osu.ppy.sh/beatmapsets/838465) hosted by [\_Asha](https://osu.ppy.sh/users/11103764)!
+Check out [this collaborative osu! set](https://osu.ppy.sh/beatmapsets/894701) hosted by ::Nao Tomori::{ user-id=5364763 }, [this collaborative osu!taiko set](https://osu.ppy.sh/beatmapsets/739116) hosted by ::Reficul::{ user-id=1506011 } (previously known as Midnaait), and [this highly popular collaborative osu!mania set](https://osu.ppy.sh/beatmapsets/838465) hosted by ::\_Asha::{ user-id=11103764 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/98/previews/2646.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out [this collaborative osu! set](https://osu.ppy.sh/beatmapsets/894701) h
 
 ### Panic! Pop'n! Picnic!
 
-Check out [this collaborative osu!mania set](https://osu.ppy.sh/beatmapsets/528031) hosted by [jakads](https://osu.ppy.sh/users/259972)!
+Check out [this collaborative osu!mania set](https://osu.ppy.sh/beatmapsets/528031) hosted by ::jakads::{ user-id=259972 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/98/previews/2652.mp3" type="audio/mpeg">

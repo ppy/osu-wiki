@@ -25,11 +25,11 @@ Dive into **Chroma**'s catalogue with a showcase of [*Chroma - sink to the deep 
 
 Play through any of these **5** loved beatmaps:
 
-- [osu! beatmap](https://osu.ppy.sh/beatmapsets/779495) hosted by [None1637](https://osu.ppy.sh/users/7184125) as seen in the video above
-- [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/589811) hosted by [Ulqui](https://osu.ppy.sh/users/1263669)
-- [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/650973) hosted by [Rocma](https://osu.ppy.sh/users/566276)
-- [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/355103) hosted by [LeiN-](https://osu.ppy.sh/users/2162939)
-- [7K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/529516) hosted by [sankansuki](https://osu.ppy.sh/users/2877926)
+- [osu! beatmap](https://osu.ppy.sh/beatmapsets/779495) hosted by ::None1637::{ user-id=7184125 } as seen in the video above
+- [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/589811) hosted by ::Ulqui::{ user-id=1263669 }
+- [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/650973) hosted by ::Rocma::{ user-id=566276 }
+- [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/355103) hosted by ::LeiN-::{ user-id=2162939 }
+- [7K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/529516) hosted by ::sankansuki::{ user-id=2877926 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/215/Songs/Chroma%20-%20sink%20to%20the%20deep%20sea%20world.mp3" type="audio/mpeg">
@@ -37,7 +37,7 @@ Play through any of these **5** loved beatmaps:
 
 ### lost memory
 
-Try [this 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/961321) hosted by [Youwhang](https://osu.ppy.sh/users/3011818) or [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1266220) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)! For a real challenge, you could also try pronouncing that mapper's name.
+Try [this 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/961321) hosted by ::Youwhang::{ user-id=3011818 } or [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1266220) hosted by ::Cynplytholowazy::{ user-id=3901754 }! For a real challenge, you could also try pronouncing that mapper's name.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/215/Ai%20o%20Yorokobu%20Machi/Chroma%20-%20lost%20memory.mp3" type="audio/mpeg">
@@ -45,7 +45,7 @@ Try [this 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/961321) hosted by
 
 ### lost found melody
 
-Check out [this loved 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1051052) hosted by [Ciel](https://osu.ppy.sh/users/1455309) or [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/832348) hosted by [zkane2](https://osu.ppy.sh/users/6359835)!
+Check out [this loved 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1051052) hosted by ::Ciel::{ user-id=1455309 } or [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/832348) hosted by ::zkane2::{ user-id=6359835 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/215/Songs/Chroma%20-%20lost%20found%20melody.mp3" type="audio/mpeg">
@@ -53,7 +53,7 @@ Check out [this loved 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/10510
 
 ### The First Snowfall On My Secret Base
 
-Relax with [this simple 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1295555) hosted by the not-so-relaxing user known as [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608).
+Relax with [this simple 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1295555) hosted by the not-so-relaxing user known as ::AHHHHHHHHHHHHHH::{ user-id=8249608 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/215/Songs/Chroma%20-%20The%20First%20Snowfall%20On%20My%20Secret%20Base.mp3" type="audio/mpeg">
@@ -61,7 +61,7 @@ Relax with [this simple 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/129
 
 ### Saraba Senyuu
 
-Flex your piano prowess with [this 7K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1344144) hosted by [Wonki](https://osu.ppy.sh/users/7898495)!
+Flex your piano prowess with [this 7K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1344144) hosted by ::Wonki::{ user-id=7898495 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/215/Songs/Chroma%20-%20Saraba%20Senyuu.mp3" type="audio/mpeg">
@@ -69,7 +69,7 @@ Flex your piano prowess with [this 7K osu!mania beatmap](https://osu.ppy.sh/beat
 
 ### Umeboshi Chazuke + Chroma - Omoide Note
 
-Play any difficulty of this [full osu! beatmap spread](https://osu.ppy.sh/beatmapsets/782791) hosted by [Azzedd](https://osu.ppy.sh/users/8889054)!
+Play any difficulty of this [full osu! beatmap spread](https://osu.ppy.sh/beatmapsets/782791) hosted by ::Azzedd::{ user-id=8889054 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/215/Songs/Umeboshi%20Chazuke%20%2B%20Chroma%20-%20Omoide%20Note.mp3" type="audio/mpeg">
@@ -79,10 +79,10 @@ Play any difficulty of this [full osu! beatmap spread](https://osu.ppy.sh/beatma
 
 Try out any of these cool maps:
 
-- [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/581509) hosted by [Wonki](https://osu.ppy.sh/users/7898495)
-- [Loved osu!catch and 4K osu!mania beatmaps](https://osu.ppy.sh/beatmapsets/248074) hosted by [LeiN-](https://osu.ppy.sh/users/2162939)
-- [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1202121) hosted by [A-40](https://osu.ppy.sh/users/14510301)
-- [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1121344) hosted by [Rocma](https://osu.ppy.sh/users/566276)
+- [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/581509) hosted by ::Wonki::{ user-id=7898495 }
+- [Loved osu!catch and 4K osu!mania beatmaps](https://osu.ppy.sh/beatmapsets/248074) hosted by ::LeiN-::{ user-id=2162939 }
+- [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1202121) hosted by ::A-40::{ user-id=14510301 }
+- [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1121344) hosted by ::Rocma::{ user-id=566276 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/215/Songs/Chroma%20-%20Hoshi%20ga%20Furanai%20Machi.mp3" type="audio/mpeg">
@@ -90,7 +90,7 @@ Try out any of these cool maps:
 
 ### Field: Kaerezu no Chi
 
-Explore [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/897127) hosted by [tasuke912](https://osu.ppy.sh/users/2774767)!
+Explore [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/897127) hosted by ::tasuke912::{ user-id=2774767 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/215/Songs/Chroma%20-%20Field%20Kaerezu%20no%20Chi.mp3" type="audio/mpeg">
@@ -98,7 +98,7 @@ Explore [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/897127) hosted b
 
 ### Destroy, Destroy, Destroy The Happy End
 
-Or explore [yet another osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1265951) hosted by [Eyenine](https://osu.ppy.sh/users/1259391)!
+Or explore [yet another osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1265951) hosted by ::Eyenine::{ user-id=1259391 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/215/Songs/Chroma%20-%20Destroy%2C%20Destroy%2C%20Destroy%20The%20Happy%20End.mp3" type="audio/mpeg">
@@ -106,7 +106,7 @@ Or explore [yet another osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/126595
 
 ### Dark Sheep
 
-Last but definitely not least, play through [this 4K osu!mania beatmap spread](https://osu.ppy.sh/beatmapsets/939798) hosted by [Feylos](https://osu.ppy.sh/users/4565040)!
+Last but definitely not least, play through [this 4K osu!mania beatmap spread](https://osu.ppy.sh/beatmapsets/939798) hosted by ::Feylos::{ user-id=4565040 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/215/Dark%20Sheep/Chroma%20-%20Dark%20Sheep.mp3" type="audio/mpeg">

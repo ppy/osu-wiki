@@ -23,7 +23,7 @@ The osu!mania community was the first to take a liking to **Solarbear**'s compli
 
 ### Solarbear - Stick Your Ins Out
 
-Play any (or every) difficulty from [the map above](https://osu.ppy.sh/beatmapsets/1149112) hosted by [Pope Gadget](https://osu.ppy.sh/users/2288341)!
+Play any (or every) difficulty from [the map above](https://osu.ppy.sh/beatmapsets/1149112) hosted by ::Pope Gadget::{ user-id=2288341 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/388/Songs/Solarbear%20-%20Stick%20Your%20Ins%20Out.mp3">
@@ -31,7 +31,7 @@ Play any (or every) difficulty from [the map above](https://osu.ppy.sh/beatmapse
 
 ### Solarbear - See You Later, Emaciator!
 
-If you're into 7K, [this map](https://osu.ppy.sh/beatmapsets/513563) by [lenpai](https://osu.ppy.sh/users/5314573) is for you.
+If you're into 7K, [this map](https://osu.ppy.sh/beatmapsets/513563) by ::lenpai::{ user-id=5314573 } is for you.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/388/Songs/Solarbear%20-%20See%20You%20Later%2C%20Emaciator!.mp3">

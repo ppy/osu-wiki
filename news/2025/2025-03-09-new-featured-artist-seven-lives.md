@@ -18,7 +18,7 @@ You can judge for yourself though:
 
 ### [SEVEN LIVES - Statues](https://assets.ppy.sh/artists/461/spirals/SEVEN%20LIVES%20-%20Statues.osz)
 
-Check out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2197744) from the video below by [Nifty](https://osu.ppy.sh/users/4956097)!
+Check out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2197744) from the video below by ::Nifty::{ user-id=4956097 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

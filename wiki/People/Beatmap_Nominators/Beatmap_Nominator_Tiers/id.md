@@ -13,7 +13,7 @@ Sistem ini diterapkan sebagai tanggapan dari perubahan fungsi [Quality Assurance
 
 Untuk memutuskan tingkatan dari masing-masing Beatmap Nominator, semua anggota BN akan diberikan sebuah [Tes BN](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test). Tidak seperti tes BN sebelumnya, tes ini dirancang untuk mengidentifikasi masalah umum dalam sebuah mapset.
 
-Skor tes secara keseluruhan tidak dapat diandalkan karena sebagian besar pengguna memiliki skor yang sangat rendah. Rencana awalnya adalah untuk membagi pengguna menjadi beberapa tingkatan berdasarkan skor tes, tetapi separuh keatas dari hasil skor tes terlalu rendah untuk menjadi pilihan yang layak. Sebaliknya, hanya 13 pengguna teratas dengan skor >50% yang diterima di tingkat kedua. Skor tertinggi diraih oleh [Yuii-](https://osu.ppy.sh/users/2935923) yaitu 76%.
+Skor tes secara keseluruhan tidak dapat diandalkan karena sebagian besar pengguna memiliki skor yang sangat rendah. Rencana awalnya adalah untuk membagi pengguna menjadi beberapa tingkatan berdasarkan skor tes, tetapi separuh keatas dari hasil skor tes terlalu rendah untuk menjadi pilihan yang layak. Sebaliknya, hanya 13 pengguna teratas dengan skor >50% yang diterima di tingkat kedua. Skor tertinggi diraih oleh ::Yuii-::{ user-id=2935923 } yaitu 76%.
 
 Meskipun telah direncanakan untuk mengadakan beberapa tes untuk membedakan tingkatan, hanya satu yang digunakan selama masa pakai sistem (5 bulan).
 

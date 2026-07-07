@@ -25,9 +25,9 @@ Those familiar with the popular beatmap [Chaos City Niigata - Ukiyoe Yokochou](h
 
 Play through any of these perfect maps:
 
-- [osu! mapset](https://osu.ppy.sh/beatmapsets/713506) hosted by [Otosaka-Yu](https://osu.ppy.sh/users/3170678) as seen in the video above!
-- [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1088536) hosted by [-Dusk](https://osu.ppy.sh/users/6092181)
-- [osu!mania mapset](https://osu.ppy.sh/beatmapsets/1330313) hosted by [WintMin](https://osu.ppy.sh/users/11161386)
+- [osu! mapset](https://osu.ppy.sh/beatmapsets/713506) hosted by ::Otosaka-Yu::{ user-id=3170678 } as seen in the video above!
+- [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1088536) hosted by ::-Dusk::{ user-id=6092181 }
+- [osu!mania mapset](https://osu.ppy.sh/beatmapsets/1330313) hosted by ::WintMin::{ user-id=11161386 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/223/Ukiyoe%20Yokochou/Chaos%20City%20Niigata%20-%20Ukiyoe%20Yokochou.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Play through any of these perfect maps:
 
 ### Tedjimo yomigY - Lorikeet
 
-Play through [this colourful beatmap](https://osu.ppy.sh/beatmapsets/539888) hosted by [yassu-](https://osu.ppy.sh/users/7095592)!
+Play through [this colourful beatmap](https://osu.ppy.sh/beatmapsets/539888) hosted by ::yassu-::{ user-id=7095592 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/223/Lorikeet/Tedjimo%20yomigY%20-%20Lorikeet.mp3" type="audio/mpeg">

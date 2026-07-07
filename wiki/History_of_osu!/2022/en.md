@@ -4,7 +4,7 @@
 
 More artists joined the [Featured Artist](/wiki/People/Featured_Artists) program in the new year, namely [NIWASHI](https://osu.ppy.sh/beatmaps/artists/228), [DGK](https://osu.ppy.sh/beatmaps/artists/229), [Haywyre](https://osu.ppy.sh/beatmaps/artists/230), [satella](https://osu.ppy.sh/beatmaps/artists/231), [Vansire](https://osu.ppy.sh/beatmaps/artists/232), [Boom Kitty](https://osu.ppy.sh/beatmaps/artists/233), [Annabel](https://osu.ppy.sh/beatmaps/artists/234), and [Maduk](https://osu.ppy.sh/beatmaps/artists/235).
 
-On 9 January, an [osu! community meeting](/wiki/Community/osu!_community_meetings) was held by the [osu! team](/wiki/People/osu!_team), discussing HP mechanics and general questions with community members.[^community-meeting-hp] In particular, many osu!mania players voiced that they desired osu!(lazer)'s HP drain to be less harsh, since osu!mania in osu!(stable) had no passive drain contrary to osu!(lazer) at the time. [peppy](https://osu.ppy.sh/users/2) mentioned that he would like to standardise HP drain across all 4 game modes to simplify gameplay for newcomers on lazer. 2 weeks later, on 22 January, there was another meeting with the osu! team detailing the continued development and answering various questions from the community.[^community-meeting-dev]
+On 9 January, an [osu! community meeting](/wiki/Community/osu!_community_meetings) was held by the [osu! team](/wiki/People/osu!_team), discussing HP mechanics and general questions with community members.[^community-meeting-hp] In particular, many osu!mania players voiced that they desired osu!(lazer)'s HP drain to be less harsh, since osu!mania in osu!(stable) had no passive drain contrary to osu!(lazer) at the time. ::peppy::{ user-id=2 } mentioned that he would like to standardise HP drain across all 4 game modes to simplify gameplay for newcomers on lazer. 2 weeks later, on 22 January, there was another meeting with the osu! team detailing the continued development and answering various questions from the community.[^community-meeting-dev]
 
 The editor in osu!(lazer) got a new feature which allows mappers to rotate selections via a button.[^editor-rotate] Meanwhile, a new database system called [Realm](https://realm.io/) was implemented in the client, providing better efficiency and reliability. A progress bar was added at the start of the game while migration was going on, as it could take a while if there were large amounts of beatmaps and other data.[^realm]
 
@@ -20,7 +20,7 @@ The third osu! community meeting of the year on 6 February was held concerning v
 
 osu!(lazer) received the Aim Assist mod as a new feature which draws hit objects to the cursor, essentially requiring less cursor movement from the player.[^aim-assist] The mod was renamed to Magnetised one month after the initial implementation.[^aim-assist-rename] Furthermore, the Alternate mod was also added, requiring the player to *alternate* between two keys when hitting circles.[^alternate] The osu!mania game mode in osu!(lazer) got a new Hold Off mod where hold notes get converted to two regular notes.[^hold-off]
 
-Following the first iteration in May last year, there was another skinning contest, this time with [Tides of Winter](https://osu.ppy.sh/home/news/2021-12-02-skinning-contest-tides-of-winter-announcement) as the theme. The contest concluded with [thetasigma](https://osu.ppy.sh/users/6234482), [BPChingu](https://osu.ppy.sh/users/4236855), and [Redo_](https://osu.ppy.sh/users/7122165) getting third, second, and first place respectively.[^tides-of-winter]
+Following the first iteration in May last year, there was another skinning contest, this time with [Tides of Winter](https://osu.ppy.sh/home/news/2021-12-02-skinning-contest-tides-of-winter-announcement) as the theme. The contest concluded with ::thetasigma::{ user-id=6234482 }, [BPChingu](https://osu.ppy.sh/users/4236855), and ::Redo\1::{ user-id=7122165 } getting third, second, and first place respectively.[^tides-of-winter]
 
 ## March
 
@@ -28,7 +28,7 @@ This month, [Yunosuke](https://osu.ppy.sh/beatmaps/artists/244), [City Girl](htt
 
 On 6 March, there was another osu! community meeting to determine how leaderboards and displaying scores should be handled. The solution implemented was displaying stable scores in lazer with Classic mod applied. Yet unresolved was the possibility of displaying lazer scores in stable, as the new lazer mods would decidedly not be implemented in stable and therefore displaying such scores in stable would only be possible with certain constraints. To integrate the community into this process, there was a [survey about scoreboards in lazer](https://docs.google.com/forms/d/1jAWlFkjECDftXJ7iZFgipH1sJuwYDvPtF0CuaciFiW8/viewanalytics). While preserving history was and still is a priority, the question of splitting or merging old and new leaderboards was left to the community to decide.[^community-meeting-leaderboard] Another community meeting on 20 March was held to give an insight in ongoing development.[^community-meeting-dev-2]
 
-[BTMC](https://osu.ppy.sh/users/3171691) interviewed peppy about plans for osu!(lazer). Most of the questions were submitted by the community, with a few personal questions mixed in between.[^btmc-peppy-interview] One major topic was the state of the ranking system, but there were also more general questions regarding the osu! ecosystem and its future.
+::BTMC::{ user-id=3171691 } interviewed peppy about plans for osu!(lazer). Most of the questions were submitted by the community, with a few personal questions mixed in between.[^btmc-peppy-interview] One major topic was the state of the ranking system, but there were also more general questions regarding the osu! ecosystem and its future.
 
 The two mods Adaptive Speed and Strict Tracking were implemented in osu!(lazer). Adaptive Speed changes the track rate depending on if the hit was early or late.[^adaptive-speed] When the Strict Tracking mod is enabled, the cursor must stay in the slider ball at all times to prevent a combo break.[^strict-tracking]
 
@@ -46,7 +46,7 @@ After 5 years, [Reddit](https://www.reddit.com/) hosted April Fools event r/plac
 
 This month, [Ardolf](https://osu.ppy.sh/beatmaps/artists/263), [Allegaeon](https://osu.ppy.sh/beatmaps/artists/264), [Tenchio](https://osu.ppy.sh/beatmaps/artists/265), [Neko Hacker](https://osu.ppy.sh/beatmaps/artists/266), [JOYLESS](https://osu.ppy.sh/beatmaps/artists/267), [69 de 74](https://osu.ppy.sh/beatmaps/artists/268), [Origami Angel](https://osu.ppy.sh/beatmaps/artists/269), and [Rameses B](https://osu.ppy.sh/beatmaps/artists/270) joined osu! as Featured Artists.
 
-In the [A Place To Belong](https://osu.ppy.sh/home/news/2022-04-11-place-to-belong-fanart-contest) fanart contest, artists were prompted to draw osu! mascots going on adventures they had never been to. [Dreamxiety](https://osu.ppy.sh/users/13103233) won the contest with 3,713 votes.[^aptb-results]
+In the [A Place To Belong](https://osu.ppy.sh/home/news/2022-04-11-place-to-belong-fanart-contest) fanart contest, artists were prompted to draw osu! mascots going on adventures they had never been to. ::Dreamxiety::{ user-id=13103233 } won the contest with 3,713 votes.[^aptb-results]
 
 From 20 May to 22 May, users could listen to various speeches in the [osu! Talk Event: Overcoming Obstacles](https://osu.ppy.sh/home/news/2022-05-19-osu-talk-event-overcoming-obstacles). As the title suggests, the talks were about addressing challenges with mindset in improvement, competition, and the like. Many topics in this event were about how to apply ideas from osu! to real life.
 
@@ -66,7 +66,7 @@ Several voluntary contributors were awarded with a Community Contributor badge f
 
 osu!weekly was a newsletter for providing informative articles about all kinds of events in the community.[^osu-weekly] A team of voluntary contributors worked together to publish the [osu!monthly](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1), rekindling osu!weekly after 5 years in a monthly format, while also becoming the namesake of the first and second editions of [osu!monthly](/wiki/Community/osu!monthly) last published 4 years prior on the osu! forums. These showcased development updates from osu!(lazer), community events, scores by top players among other things, as well as offering a community quiz, awarding the quickest user to answer with osu!supporter.[^monthly-quiz]
 
-From 8 July to 10 July, 16 players were invited to compete in [The Roundtable](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable). Organised and hosted by BTMC in Los Angeles, the event was commented on by various content creators. The winner of this tournament was [Utami](https://osu.ppy.sh/users/7512553), with [mrekk](https://osu.ppy.sh/users/7562902) taking the second place.[^roundtable-winners]
+From 8 July to 10 July, 16 players were invited to compete in [The Roundtable](https://osu.ppy.sh/home/news/2022-07-08-the-roundtable). Organised and hosted by BTMC in Los Angeles, the event was commented on by various content creators. The winner of this tournament was ::Utami::{ user-id=7512553 }, with [mrekk](https://osu.ppy.sh/users/7562902) taking the second place.[^roundtable-winners]
 
 The Single Tap mod was implemented for the osu! game mode in osu!(lazer), challenging players to tap with just one key.[^single-tap]
 
@@ -74,7 +74,7 @@ The Single Tap mod was implemented for the osu! game mode in osu!(lazer), challe
 
 This month, osu! was able to get a hold of [Hamu](https://osu.ppy.sh/beatmaps/artists/289), [Darkney](https://osu.ppy.sh/beatmaps/artists/290), [Waterflame](https://osu.ppy.sh/beatmaps/artists/291), [Mitsukiyo](https://osu.ppy.sh/beatmaps/artists/292), [Koven](https://osu.ppy.sh/beatmaps/artists/293), [Abuse](https://osu.ppy.sh/beatmaps/artists/294), [DJ Genki / Gram](https://osu.ppy.sh/beatmaps/artists/295), [Aiyru](https://osu.ppy.sh/beatmaps/artists/296), and [-45](https://osu.ppy.sh/beatmaps/artists/297) to become Featured Artists.
 
-At 2022's [cavoe's osu! event (COE)](/wiki/Community/cavoe's_osu!_event), one of the largest osu! conventions, peppy hosted a technical presentation together with [ThePoon](https://osu.ppy.sh/users/718454) on what the infrastructure of osu! looks like behind the scenes. They went over topics such as server cost, database storage, and how containerisation software like Docker and Kubernetes are used to implement infrastructure as code.[^coe-osu-infra]
+At 2022's [cavoe's osu! event (COE)](/wiki/Community/cavoe's_osu!_event), one of the largest osu! conventions, peppy hosted a technical presentation together with ::ThePoon::{ user-id=718454 } on what the infrastructure of osu! looks like behind the scenes. They went over topics such as server cost, database storage, and how containerisation software like Docker and Kubernetes are used to implement infrastructure as code.[^coe-osu-infra]
 
 osu!(lazer) received an additional feature, making it possible to create mod presets from the mod select screen that save mod combinations and their settings.[^presets]
 
@@ -82,11 +82,11 @@ osu!(lazer) received an additional feature, making it possible to create mod pre
 
 [Nashimoto Ui](https://osu.ppy.sh/beatmaps/artists/298), [Nitro Fun](https://osu.ppy.sh/beatmaps/artists/299), [Rezonate](https://osu.ppy.sh/beatmaps/artists/300), [AAAA](https://osu.ppy.sh/beatmaps/artists/301), [Andy Gillion](https://osu.ppy.sh/beatmaps/artists/302), [Vorso](https://osu.ppy.sh/beatmaps/artists/303), [Alestorm](https://osu.ppy.sh/beatmaps/artists/304), [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305), and [Feint](https://osu.ppy.sh/beatmaps/artists/306) joined osu! as Featured Artists.
 
-Since its 15 years of existence, osu! had grown a lively community with many voluntary contributors. In the wake of this event, an anniversary art contest was organised by the osu! team. The challenge was to create drawings of osu!'s mascots in historic moments. The first, second, and third place went to [Dreamxiety](https://osu.ppy.sh/users/13103233), [illuminae2005](https://osu.ppy.sh/users/29866964), and [urgutz](https://osu.ppy.sh/users/11731553) respectively. Among the results, peppy also shared some of his personal favourites.[^15-anniversary-results]
+Since its 15 years of existence, osu! had grown a lively community with many voluntary contributors. In the wake of this event, an anniversary art contest was organised by the osu! team. The challenge was to create drawings of osu!'s mascots in historic moments. The first, second, and third place went to ::Dreamxiety::{ user-id=13103233 }, [illuminae2005](https://osu.ppy.sh/users/29866964), and ::urgutz::{ user-id=11731553 } respectively. Among the results, peppy also shared some of his personal favourites.[^15-anniversary-results]
 
 Following the contest, there was a celebration event on the [osu! Discord Server](/wiki/Community/Discord_servers#official), where the osu! team played games together with community members and talked about random topics.[^15-celebration]
 
-A new design proposed by [flyte](https://osu.ppy.sh/users/3103765) was implemented in the form of the "argon" skin to replace the old "triangles" skin from 2017.[^argon] The visual appearance of each game mode received a major overhaul, improving clarity and readability.
+A new design proposed by ::flyte::{ user-id=3103765 } was implemented in the form of the "argon" skin to replace the old "triangles" skin from 2017.[^argon] The visual appearance of each game mode received a major overhaul, improving clarity and readability.
 
 osu!'s star rating and performance point systems were revamped this month. Among a general balancing pass and other changes, playing on a touchscreen would now affect star rating.[^osu-sr-pp] The star rating and performance point systems in osu!taiko received a rework as well, with multiple new types of skill being taken into account in the calculation.[^osu-taiko-sr-pp]
 
@@ -98,19 +98,19 @@ Several Hush-Hush medals, along with 3 new beatmap pack medals were added.[^meda
 
 This month, [Mono.](https://osu.ppy.sh/beatmaps/artists/307), [Tokyo.MeltiMelt](https://osu.ppy.sh/beatmaps/artists/308), [Ata](https://osu.ppy.sh/beatmaps/artists/309), [Hybrid Minds](https://osu.ppy.sh/beatmaps/artists/310), [GLORYHAMMER](https://osu.ppy.sh/beatmaps/artists/311), [Au5](https://osu.ppy.sh/beatmaps/artists/312), [Fractal](https://osu.ppy.sh/beatmaps/artists/313), [Kikuo](https://osu.ppy.sh/beatmaps/artists/314), [Hinkik](https://osu.ppy.sh/beatmaps/artists/315), and [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) were announced to be the new Featured Artists.
 
-The [triangles](https://osu.ppy.sh/home/news/2022-05-31-triangles) beatmapping and storyboarding contest concluded this month, with team Crazy Thursday consisting of [yf_bmp](https://osu.ppy.sh/users/1243669), [TtmnZk](https://osu.ppy.sh/users/2495509), [Yugu](https://osu.ppy.sh/users/3161834), [Chaoslitz](https://osu.ppy.sh/users/3621552) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962) taking the first place. Their beatmap will be included in every installation of osu!(lazer) as the contest's grand price.[^triangles-results]
+The [triangles](https://osu.ppy.sh/home/news/2022-05-31-triangles) beatmapping and storyboarding contest concluded this month, with team Crazy Thursday consisting of ::yf\1bmp::{ user-id=1243669 }, [TtmnZk](https://osu.ppy.sh/users/2495509), ::Yugu::{ user-id=3161834 }, [Chaoslitz](https://osu.ppy.sh/users/3621552) and ::Yumeno Himiko::{ user-id=1806962 } taking the first place. Their beatmap will be included in every installation of osu!(lazer) as the contest's grand price.[^triangles-results]
 
 Among other changes, osu!mania now uses accuracy instead of score when calculating performance points, due to changes to the star rating and performance point systems.[^osu-mania-sr-pp]
 
-osu! passed 4,294,967,296 scores, meaning that the old database system has reached its limit. Every score is saved with a unique 32-bit unsigned integer which means that the database can not store more than 2^32 scores. The expanded database infrastructure was already planned months prior to this and migrated to with a few weeks to spare.[^score-limit][^osu-death][^score-submission] The last score submitted on the old system was [\*namirin - Kanzen Shouri\*Esper Girl](https://osu.ppy.sh/scores/osu/4294967295) played by [ElDanetex](https://osu.ppy.sh/users/18930084).
+osu! passed 4,294,967,296 scores, meaning that the old database system has reached its limit. Every score is saved with a unique 32-bit unsigned integer which means that the database can not store more than 2^32 scores. The expanded database infrastructure was already planned months prior to this and migrated to with a few weeks to spare.[^score-limit][^osu-death][^score-submission] The last score submitted on the old system was [\*namirin - Kanzen Shouri\*Esper Girl](https://osu.ppy.sh/scores/osu/4294967295) played by ::ElDanetex::{ user-id=18930084 }.
 
-Creative people proved their talent in the [Chromatic Alteration](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement) skinning contest. The challenge of this contest had an interesting twist because the types of colours had to be from one of three specified colour spectra corresponding to vision deficiencies [protanopia, deuteranopia, and tritanopia](https://en.wikipedia.org/wiki/Color_blindness). [Winners of this contest](/wiki/Contests/Skinning_Contest/3#podium) taking the first, second, and third place were [thetasigma](https://osu.ppy.sh/users/6234482), [Corne2Plum3](https://osu.ppy.sh/users/15646039), and [koomo](https://osu.ppy.sh/users/2168518) respectively.[^chromatic-alt-results]
+Creative people proved their talent in the [Chromatic Alteration](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement) skinning contest. The challenge of this contest had an interesting twist because the types of colours had to be from one of three specified colour spectra corresponding to vision deficiencies [protanopia, deuteranopia, and tritanopia](https://en.wikipedia.org/wiki/Color_blindness). [Winners of this contest](/wiki/Contests/Skinning_Contest/3#podium) taking the first, second, and third place were ::thetasigma::{ user-id=6234482 }, [Corne2Plum3](https://osu.ppy.sh/users/15646039), and ::koomo::{ user-id=2168518 } respectively.[^chromatic-alt-results]
 
 osu!(lazer) received the Freeze Frame mod which would only show one whole combo at a time, requiring more reading ability from the player.[^freeze-frame]
 
 An update to the osu! website enabled display of the highest rank a player has ever achieved when hovering over a player's rank on their profile.[^highest-rank]
 
-For this year's Halloween, there was a [fanart contest](https://osu.ppy.sh/home/news/2022-10-10-halloween-fanart-contest) once again where artists were encouraged to draw the osu! mascots in spooky costumes. [Dreamxiety](https://osu.ppy.sh/users/13103233) won the first place in the contest with 3,749 votes.[^halloween] One entry was revoked because it was deemed too fear-inducing and the author was awarded with a custom badge instead.[^grin-reddit][^grin-twitter][^grin-badge]
+For this year's Halloween, there was a [fanart contest](https://osu.ppy.sh/home/news/2022-10-10-halloween-fanart-contest) once again where artists were encouraged to draw the osu! mascots in spooky costumes. ::Dreamxiety::{ user-id=13103233 } won the first place in the contest with 3,749 votes.[^halloween] One entry was revoked because it was deemed too fear-inducing and the author was awarded with a custom badge instead.[^grin-reddit][^grin-twitter][^grin-badge]
 
 ## November
 
@@ -130,7 +130,7 @@ A collaboration with makeship this year created 3 different osu! plush figure de
 
 Another built-in skin was added to osu!(lazer) called "argon pro", a variant of the "argon" skin aimed to contain more minimalistic gameplay elements, starting with a new set of hitsounds for the osu! game mode.[^argon-pro] Skins with fewer visual distractions are often preferred by top players.
 
-In the last art contest of the year, [New Beginnings](https://osu.ppy.sh/home/news/2022-11-27-new-beginnings-art-contest), the participants needed to draw the osu! mascots welcoming 2023 on New Year's Eve. The winner of this contest was [Dreamxiety](https://osu.ppy.sh/users/13103233) with 2,203 votes.[^new-beginnings]
+In the last art contest of the year, [New Beginnings](https://osu.ppy.sh/home/news/2022-11-27-new-beginnings-art-contest), the participants needed to draw the osu! mascots welcoming 2023 on New Year's Eve. The winner of this contest was ::Dreamxiety::{ user-id=13103233 } with 2,203 votes.[^new-beginnings]
 
 ## References
 
@@ -194,7 +194,7 @@ In the last art contest of the year, [New Beginnings](https://osu.ppy.sh/home/ne
 [^halloween]: [News post by Ephemeral (2022-10-29) "Halloween 2022 Fanart Contest Results"](https://osu.ppy.sh/home/news/2022-10-29-halloween-fanart-results)
 [^grin-reddit]: [Reddit comment by u/pepppppy in r/osugame (2022-10-30) in "osu seriously booted another submission as “too scary” again"](https://www.reddit.com/r/osugame/comments/yhh6hd/comment/iuh6ii2/)
 [^grin-twitter]: [Tweet by xx_aether (2022-10-29)](https://twitter.com/xx_aether/status/1586438659292569600)
-[^grin-badge]: [Roro-san's osu! profile](https://osu.ppy.sh/users/11084479)
+[^grin-badge]: ::Roro-san's osu! profile::{ user-id=11084479 }
 
 [^medals-november]: [News post by 0x84f, Junihuhn, Pisapou, and RandomeLoL (2022-12-01) "osu!monthly, November 2022"](https://osu.ppy.sh/home/news/2022-12-01-osumonthly-5#new-medals)
 

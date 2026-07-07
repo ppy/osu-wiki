@@ -122,13 +122,13 @@ stars>=7 stars<8 od<8
 unplayed= status=r christmas
 ```
 
-(Клиент, веб-сайт) Проверить, есть ли у вас хотя бы одна сложность [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmapsets/28107) от ::{ flag=FR }:: [galvenize](https://osu.ppy.sh/users/381444):
+(Клиент, веб-сайт) Проверить, есть ли у вас хотя бы одна сложность [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmapsets/28107) от ::{ flag=FR }:: ::galvenize::{ user-id=381444 }:
 
 ```
 28107
 ```
 
-(Веб-сайт) Найти карты, ранкнутые с августа по октябрь 2010, в которых есть хотя бы одна сложность от ::{ flag=GB }:: [Natteke](https://osu.ppy.sh/users/157177):
+(Веб-сайт) Найти карты, ранкнутые с августа по октябрь 2010, в которых есть хотя бы одна сложность от ::{ flag=GB }:: ::Natteke::{ user-id=157177 }:
 
 ```
 ranked>=2010-08 ranked<2010-11 creator=Natteke

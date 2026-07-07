@@ -10,7 +10,7 @@ tags:
 
 ![Gulano Cup #5 banner](img/banner.png)
 
-**Gulano Cup #5** merupakan turnamen osu!mania 4K perseorangan khusus wilayah Indonesia yang diselenggarakan oleh ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912) dan ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909). Turnamen ini menggunakan sistem pertandingan satu lawan satu dengan format eliminasi ganda (*double elimination*). Turnamen ini memiliki gimik berupa map **wildcard** yang dikirimkan oleh para pemain dan dapat digunakan dalam pertandingan dengan memilih secara acak dari daftar map wildcard. Hanya pemain yang belum pernah berpartisipasi di turnamen [osu!mania 4K World Cup](/wiki/Tournaments/MWC#osu!mania-4k-world-cup). yang dapat mengikuti turnamen ini. Turnamen ini merupakan iterasi kelima dari seri Gulano Cup.
+**Gulano Cup #5** merupakan turnamen osu!mania 4K perseorangan khusus wilayah Indonesia yang diselenggarakan oleh ::{ flag=ID }:: ::danar::{ user-id=11184912 } dan ::{ flag=ID }:: ::Revv-::{ user-id=12424909 }. Turnamen ini menggunakan sistem pertandingan satu lawan satu dengan format eliminasi ganda (*double elimination*). Turnamen ini memiliki gimik berupa map **wildcard** yang dikirimkan oleh para pemain dan dapat digunakan dalam pertandingan dengan memilih secara acak dari daftar map wildcard. Hanya pemain yang belum pernah berpartisipasi di turnamen [osu!mania 4K World Cup](/wiki/Tournaments/MWC#osu!mania-4k-world-cup). yang dapat mengikuti turnamen ini. Turnamen ini merupakan iterasi kelima dari seri Gulano Cup.
 
 ## Jadwal turnamen
 
@@ -42,20 +42,20 @@ Gulano Cup #5 diselenggarakan oleh berbagai anggota komunitas osu! yang berasal 
 
 | Posisi | Anggota |
 | :-- | :-- |
-| Penyelenggara | ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
-| Pengurus | ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [AsanagiYori](https://osu.ppy.sh/users/17223636), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Elin-](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Raakcon](https://osu.ppy.sh/users/15178052), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
-| Pemilih map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
-| Pembuat map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[-SVzzZ-]](https://osu.ppy.sh/users/26574578), ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154), ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Sarahkuai](https://osu.ppy.sh/users/5246861), ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643), ::{ flag=ID }:: [Who_is_Marpang](https://osu.ppy.sh/users/24787752) |
-| Penguji map | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[ID]Xenotia-](https://osu.ppy.sh/users/13865224), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Gxbran](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [Onta_Bekasi](https://osu.ppy.sh/users/8677684), ::{ flag=ID }:: [Rakanovan](https://osu.ppy.sh/users/10478980), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
-| Penyiar | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Hookseye](https://osu.ppy.sh/users/19030920), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) |
-| Wasit | ::{ flag=ID }:: [[ Friz ]](https://osu.ppy.sh/users/9382787), ::{ flag=ID }:: [[ Raiid ]](https://osu.ppy.sh/users/20037405), ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [Angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Elin-](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [exvius](https://osu.ppy.sh/users/15822192), ::{ flag=ID }:: [FerryAnanda](https://osu.ppy.sh/users/20788796), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Gxbran](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154), ::{ flag=ID }:: [Kurami_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [My Angel Satori](https://osu.ppy.sh/users/15522414), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
-| Komentator | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [[ID]Xenotia-](https://osu.ppy.sh/users/13865224), ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604), ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Elin-](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Gxbran](https://osu.ppy.sh/users/8243526), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [Kurami_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [Rakanovan](https://osu.ppy.sh/users/10478980), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) |
-| Desainer | ::{ flag=ID }:: [Aikiyo Fuuka](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [AuristelaVlyn](https://osu.ppy.sh/users/26772932), ::{ flag=ID }:: chaji[^komisi] ([Instagram](https://www.instagram.com/chaji_8736/)), ::{ flag=ID }:: EnZore[^komisi] ([Facebook](https://www.facebook.com/enjor.s/)), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138), ::{ flag=ID }:: [Kada-](https://osu.ppy.sh/users/16176978), ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379), ::{ flag=ID }:: [Nqinn](https://osu.ppy.sh/users/11312272), ::{ flag=ID }:: [Raakcon](https://osu.ppy.sh/users/15178052), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [vexule-](https://osu.ppy.sh/users/18215071) |
-| Programmer | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304) |
-| Komposer | ::{ flag=ID }:: Altair Aquila[^komisi] ([YouTube](https://www.youtube.com/@AltairAquila)), ::{ flag=ID }:: Mariela Riona[^komisi] ([YouTube](https://www.youtube.com/@MarielaRionaCh)), ::{ flag=ID }:: morethanahalf[^komisi] ([SoundCloud](https://soundcloud.com/morethanahalf)), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: sarochi ([Spotify](https://open.spotify.com/artist/4zCVrst2LBGjrrlBKQhNoc)), ::{ flag=ID }:: typeMARS[^komisi] ([SoundCloud](https://soundcloud.com/typemars)) |
-| Pengelola spreadsheet | ::{ flag=ID }:: [danar](https://osu.ppy.sh/users/11184912), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
-| Statistisi | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
-| Editor wiki | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
+| Penyelenggara | ::{ flag=ID }:: ::danar::{ user-id=11184912 }, ::{ flag=ID }:: ::Revv-::{ user-id=12424909 } |
+| Pengurus | ::{ flag=ID }:: ::Ainer::{ user-id=13371424 }, ::{ flag=ID }:: ::Antipole::{ user-id=17258072 }, ::{ flag=ID }:: ::AsanagiYori::{ user-id=17223636 }, ::{ flag=ID }:: ::danar::{ user-id=11184912 }, ::{ flag=ID }:: ::Elin-::{ user-id=5198950 }, ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 }, ::{ flag=ID }:: ::Raakcon::{ user-id=15178052 }, ::{ flag=ID }:: ::Reihynn::{ user-id=16630515 }, ::{ flag=ID }:: ::Revv-::{ user-id=12424909 } |
+| Pemilih map | ::{ flag=ID }:: ::-Yubi-::{ user-id=17851478 }, ::{ flag=ID }:: ::Ainer::{ user-id=13371424 }, ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 }, ::{ flag=ID }:: ::Revv-::{ user-id=12424909 } |
+| Pembuat map | ::{ flag=ID }:: ::-Yubi-::{ user-id=17851478 }, ::{ flag=ID }:: ::\1-SVzzZ-\1::{ user-id=26574578 }, ::{ flag=ID }:: ::Ainer::{ user-id=13371424 }, ::{ flag=ID }:: ::Antipole::{ user-id=17258072 }, ::{ flag=ID }:: ::danar::{ user-id=11184912 }, ::{ flag=ID }:: ::eZmmR::{ user-id=8647138 }, ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 }, ::{ flag=ID }:: ::Ilham::{ user-id=3057154 }, ::{ flag=ID }:: ::Onta\1Bekasi::{ user-id=8677684 }, ::{ flag=ID }:: ::Reihynn::{ user-id=16630515 }, ::{ flag=ID }:: ::Revv-::{ user-id=12424909 }, ::{ flag=ID }:: ::Reyi::{ user-id=13385865 }, ::{ flag=ID }:: ::Sarahkuai::{ user-id=5246861 }, ::{ flag=ID }:: ::Syrion-::{ user-id=15380643 }, ::{ flag=ID }:: ::Who\1is\1Marpang::{ user-id=24787752 } |
+| Penguji map | ::{ flag=ID }:: ::-Yubi-::{ user-id=17851478 }, ::{ flag=ID }:: ::\1ID\1Xenotia-::{ user-id=13865224 }, ::{ flag=ID }:: ::Fyl::{ user-id=10069307 }, ::{ flag=ID }:: ::Gxbran::{ user-id=8243526 }, ::{ flag=ID }:: ::Kada-::{ user-id=16176978 }, ::{ flag=ID }:: ::Onta\1Bekasi::{ user-id=8677684 }, ::{ flag=ID }:: ::Rakanovan::{ user-id=10478980 }, ::{ flag=ID }:: ::Revv-::{ user-id=12424909 }, ::{ flag=ID }:: ::Yangga::{ user-id=12143152 } |
+| Penyiar | ::{ flag=ID }:: ::-Yubi-::{ user-id=17851478 }, ::{ flag=ID }:: ::danar::{ user-id=11184912 }, ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 }, ::{ flag=ID }:: ::Fyl::{ user-id=10069307 }, ::{ flag=ID }:: ::Hookseye::{ user-id=19030920 }, ::{ flag=ID }:: ::Reyi::{ user-id=13385865 }, ::{ flag=ID }:: ::Virtue-::{ user-id=6144772 } |
+| Wasit | ::{ flag=ID }:: ::\1 Friz \1::{ user-id=9382787 }, ::{ flag=ID }:: ::\1 Raiid \1::{ user-id=20037405 }, ::{ flag=ID }:: ::Aikiyo Fuuka::{ user-id=5179764 }, ::{ flag=ID }:: ::Angki::{ user-id=9038483 }, ::{ flag=ID }:: ::Elin-::{ user-id=5198950 }, ::{ flag=ID }:: ::exvius::{ user-id=15822192 }, ::{ flag=ID }:: ::FerryAnanda::{ user-id=20788796 }, ::{ flag=ID }:: ::Fyl::{ user-id=10069307 }, ::{ flag=ID }:: ::Gxbran::{ user-id=8243526 }, ::{ flag=ID }:: ::Ilham::{ user-id=3057154 }, ::{ flag=ID }:: ::Kurami\1San::{ user-id=8867495 }, ::{ flag=ID }:: ::My Angel Satori::{ user-id=15522414 }, ::{ flag=ID }:: ::Reihynn::{ user-id=16630515 }, ::{ flag=ID }:: ::Revv-::{ user-id=12424909 }, ::{ flag=ID }:: ::Syadow-::{ user-id=3484485 }, ::{ flag=ID }:: ::Yangga::{ user-id=12143152 } |
+| Komentator | ::{ flag=ID }:: ::-Yubi-::{ user-id=17851478 }, ::{ flag=ID }:: ::\1ID\1Xenotia-::{ user-id=13865224 }, ::{ flag=ID }:: ::2ndlegend::{ user-id=7621604 }, ::{ flag=ID }:: ::Aikiyo Fuuka::{ user-id=5179764 }, ::{ flag=ID }:: ::Antipole::{ user-id=17258072 }, ::{ flag=ID }:: ::danar::{ user-id=11184912 }, ::{ flag=ID }:: ::Elin-::{ user-id=5198950 }, ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 }, ::{ flag=ID }:: ::Fyl::{ user-id=10069307 }, ::{ flag=ID }:: ::Gxbran::{ user-id=8243526 }, ::{ flag=ID }:: ::Kada-::{ user-id=16176978 }, ::{ flag=ID }:: ::Kurami\1San::{ user-id=8867495 }, ::{ flag=ID }:: ::Rakanovan::{ user-id=10478980 }, ::{ flag=ID }:: ::Revv-::{ user-id=12424909 }, ::{ flag=ID }:: ::Reyi::{ user-id=13385865 }, ::{ flag=ID }:: ::Yangga::{ user-id=12143152 } |
+| Desainer | ::{ flag=ID }:: ::Aikiyo Fuuka::{ user-id=5179764 }, ::{ flag=ID }:: ::AuristelaVlyn::{ user-id=26772932 }, ::{ flag=ID }:: chaji[^komisi] ([Instagram](https://www.instagram.com/chaji_8736/)), ::{ flag=ID }:: EnZore[^komisi] ([Facebook](https://www.facebook.com/enjor.s/)), ::{ flag=ID }:: ::eZmmR::{ user-id=8647138 }, ::{ flag=ID }:: ::Kada-::{ user-id=16176978 }, ::{ flag=ID }:: ::nayuu::{ user-id=12561379 }, ::{ flag=ID }:: ::Nqinn::{ user-id=11312272 }, ::{ flag=ID }:: ::Raakcon::{ user-id=15178052 }, ::{ flag=ID }:: ::Reihynn::{ user-id=16630515 }, ::{ flag=ID }:: ::Revv-::{ user-id=12424909 }, ::{ flag=ID }:: ::Reyi::{ user-id=13385865 }, ::{ flag=ID }:: ::vexule-::{ user-id=18215071 } |
+| Programmer | ::{ flag=ID }:: ::Antipole::{ user-id=17258072 }, ::{ flag=ID }:: ::danar::{ user-id=11184912 }, ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 } |
+| Komposer | ::{ flag=ID }:: Altair Aquila[^komisi] ([YouTube](https://www.youtube.com/@AltairAquila)), ::{ flag=ID }:: Mariela Riona[^komisi] ([YouTube](https://www.youtube.com/@MarielaRionaCh)), ::{ flag=ID }:: morethanahalf[^komisi] ([SoundCloud](https://soundcloud.com/morethanahalf)), ::{ flag=ID }:: ::Reyi::{ user-id=13385865 }, ::{ flag=ID }:: sarochi ([Spotify](https://open.spotify.com/artist/4zCVrst2LBGjrrlBKQhNoc)), ::{ flag=ID }:: typeMARS[^komisi] ([SoundCloud](https://soundcloud.com/typemars)) |
+| Pengelola spreadsheet | ::{ flag=ID }:: ::danar::{ user-id=11184912 }, ::{ flag=ID }:: ::Reihynn::{ user-id=16630515 }, ::{ flag=ID }:: ::Revv-::{ user-id=12424909 } |
+| Statistisi | ::{ flag=ID }:: ::Reihynn::{ user-id=16630515 } |
+| Editor wiki | ::{ flag=ID }:: ::Reihynn::{ user-id=16630515 } |
 | Sponsor | [FTG]Kagamine, AsanagiYori, danar, Halsy, hira_osu, Ilham, lolohpela, MightyTech, Molten Cheese, typeMARS, Yuvya Anastasya |
 
 ## Daftar tautan
@@ -71,94 +71,94 @@ Gulano Cup #5 diselenggarakan oleh berbagai anggota komunitas osu! yang berasal 
 
 | Peringkat | Pemain |
 | --: | :-- |
-| #33 | ::{ flag=ID }:: [RaffCo](https://osu.ppy.sh/users/7589503) |
-| #109 | ::{ flag=ID }:: [_yea](https://osu.ppy.sh/users/20834055) |
-| #158 | ::{ flag=ID }:: [AzusaNakano2](https://osu.ppy.sh/users/9821346) |
-| #197 | ::{ flag=ID }:: [[ -Asriel- ]](https://osu.ppy.sh/users/11829623) |
-| #234 | ::{ flag=ID }:: [Endorfinn-](https://osu.ppy.sh/users/14588134) |
-| #542 | ::{ flag=ID }:: [lisachandra](https://osu.ppy.sh/users/26634482) |
-| #749 | ::{ flag=ID }:: [[LS] akarii](https://osu.ppy.sh/users/20040064) |
-| #981 | ::{ flag=ID }:: [yeedinobro](https://osu.ppy.sh/users/33683529) |
-| #1105 | ::{ flag=ID }:: [ARDHANA](https://osu.ppy.sh/users/29169697) |
-| #1124 | ::{ flag=ID }:: [\_Reggie\_](https://osu.ppy.sh/users/22933961) |
-| #1143 | ::{ flag=ID }:: [DAENGXicisae-](https://osu.ppy.sh/users/8029883) |
-| #1304 | ::{ flag=ID }:: [MightyTech](https://osu.ppy.sh/users/34454156) |
-| #1746 | ::{ flag=ID }:: [askL330](https://osu.ppy.sh/users/30640092) |
-| #2093 | ::{ flag=ID }:: [[LS]Robi](https://osu.ppy.sh/users/21900872) |
-| #2154 | ::{ flag=ID }:: [Violet-](https://osu.ppy.sh/users/13274715) |
-| #2173 | ::{ flag=ID }:: [Az-u](https://osu.ppy.sh/users/15801261) |
-| #2218 | ::{ flag=ID }:: [danar mw](https://osu.ppy.sh/users/13859109) |
-| #2235 | ::{ flag=ID }:: [Prinow6](https://osu.ppy.sh/users/18658630) |
-| #2384 | ::{ flag=ID }:: [beethiven](https://osu.ppy.sh/users/18560270) |
-| #3143 | ::{ flag=ID }:: [[Shiroko]](https://osu.ppy.sh/users/21129437) |
-| #3193 | ::{ flag=ID }:: [uThot](https://osu.ppy.sh/users/13716503) |
-| #3372 | ::{ flag=ID }:: [[ID]Catalyst-](https://osu.ppy.sh/users/8810018) |
-| #3428 | ::{ flag=ID }:: [D_ana](https://osu.ppy.sh/users/16240550) |
-| #3457 | ::{ flag=ID }:: [Tsurumaki_](https://osu.ppy.sh/users/18790026) |
-| #3477 | ::{ flag=ID }:: [IzKun-](https://osu.ppy.sh/users/9104881) |
-| #3543 | ::{ flag=ID }:: [Proxae](https://osu.ppy.sh/users/8410575) |
-| #3547 | ::{ flag=ID }:: [spectator_boi](https://osu.ppy.sh/users/17400577) |
-| #3619 | ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093) |
-| #3660 | ::{ flag=ID }:: [SnakesYxle](https://osu.ppy.sh/users/22842079) |
-| #3731 | ::{ flag=ID }:: [KyoukaRy](https://osu.ppy.sh/users/13403380) |
-| #3761 | ::{ flag=ID }:: [Molten Cheese](https://osu.ppy.sh/users/16824892) |
-| #4348 | ::{ flag=ID }:: [MzLord](https://osu.ppy.sh/users/14659672) |
-| #4393 | ::{ flag=ID }:: [ChocoCoki-](https://osu.ppy.sh/users/3565870) |
-| #4555 | ::{ flag=ID }:: [TheLegend3RD](https://osu.ppy.sh/users/14732769) |
-| #4561 | ::{ flag=ID }:: [Neptunia-chan](https://osu.ppy.sh/users/11608122) |
-| #4664 | ::{ flag=ID }:: [Animerge](https://osu.ppy.sh/users/6667024) |
-| #4955 | ::{ flag=ID }:: [EVIRE-](https://osu.ppy.sh/users/11405908) |
-| #4987 | ::{ flag=ID }:: [NizT](https://osu.ppy.sh/users/23115247) |
-| #5025 | ::{ flag=ID }:: [My Angel Chen](https://osu.ppy.sh/users/24285111) |
-| #5401 | ::{ flag=ID }:: [MrFlinxy](https://osu.ppy.sh/users/4681744) |
-| #5442 | ::{ flag=ID }:: [syamisu-](https://osu.ppy.sh/users/23484954) |
-| #5535 | ::{ flag=ID }:: [ImOyZo](https://osu.ppy.sh/users/14875989) |
-| #5583 | ::{ flag=ID }:: [Dogethedoge25](https://osu.ppy.sh/users/15597315) |
-| #5609 | ::{ flag=ID }:: [-Nandakai-](https://osu.ppy.sh/users/31299157) |
-| #5851 | ::{ flag=ID }:: [tentrempm](https://osu.ppy.sh/users/8346342) |
-| #6177 | ::{ flag=ID }:: [Catzu](https://osu.ppy.sh/users/11330898) |
-| #6680 | ::{ flag=ID }:: [Darrel27](https://osu.ppy.sh/users/25806849) |
-| #7103 | ::{ flag=ID }:: [[-Vanart-]](https://osu.ppy.sh/users/34756991) |
-| #7882 | ::{ flag=ID }:: [3 7](https://osu.ppy.sh/users/14077201) |
-| #8074 | ::{ flag=ID }:: [Marcille-](https://osu.ppy.sh/users/12423717) |
-| #9017 | ::{ flag=ID }:: [skadidragen](https://osu.ppy.sh/users/32350370) |
-| #9815 | ::{ flag=ID }:: [Aimaina](https://osu.ppy.sh/users/13217193) |
-| #9994 | ::{ flag=ID }:: [Lyz-](https://osu.ppy.sh/users/9670957) |
-| #10383 | ::{ flag=ID }:: [Remuu](https://osu.ppy.sh/users/18777094) |
-| #10396 | ::{ flag=ID }:: [[-Elaina-]](https://osu.ppy.sh/users/12532297) |
-| #10632 | ::{ flag=ID }:: [-Aji](https://osu.ppy.sh/users/10058745) |
-| #10699 | ::{ flag=ID }:: [Napeace](https://osu.ppy.sh/users/30833471) |
-| #11245 | ::{ flag=ID }:: [KafuuChlno](https://osu.ppy.sh/users/31102647) |
-| #11869 | ::{ flag=ID }:: [shidqidragon](https://osu.ppy.sh/users/27379902) |
-| #12106 | ::{ flag=ID }:: [[ Zenith ]](https://osu.ppy.sh/users/8405046) |
-| #12477 | ::{ flag=ID }:: [ZhasK_667](https://osu.ppy.sh/users/19541103) |
-| #13444 | ::{ flag=ID }:: [lyoneljose](https://osu.ppy.sh/users/23212300) |
-| #13469 | ::{ flag=ID }:: [ocaibo](https://osu.ppy.sh/users/30615609) |
-| #13678 | ::{ flag=ID }:: [Raeaw](https://osu.ppy.sh/users/27835772) |
-| #14287 | ::{ flag=ID }:: [[ Heez ]](https://osu.ppy.sh/users/17957861) |
-| #14449 | ::{ flag=ID }:: [bloxymon](https://osu.ppy.sh/users/21325882) |
-| #14674 | ::{ flag=ID }:: [LuxSenaa](https://osu.ppy.sh/users/6807769) |
-| #15492 | ::{ flag=ID }:: [OOOOAAAAEEEEEE](https://osu.ppy.sh/users/11190601) |
-| #15769 | ::{ flag=ID }:: [EterEnvy](https://osu.ppy.sh/users/13762505) |
-| #16117 | ::{ flag=ID }:: [menprogemink](https://osu.ppy.sh/users/30547760) |
-| #16366 | ::{ flag=ID }:: [lucknut](https://osu.ppy.sh/users/19724595) |
-| #16563 | ::{ flag=ID }:: [MahiroCHID](https://osu.ppy.sh/users/33495414) |
-| #17258 | ::{ flag=ID }:: [chantomoe](https://osu.ppy.sh/users/20835843) |
-| #19573 | ::{ flag=ID }:: [MGD FURRY](https://osu.ppy.sh/users/16800937) |
-| #25114 | ::{ flag=ID }:: [YumekoJabami](https://osu.ppy.sh/users/9167935) |
-| #25172 | ::{ flag=ID }:: [124fa](https://osu.ppy.sh/users/16263257) |
-| #25811 | ::{ flag=ID }:: [Virz12](https://osu.ppy.sh/users/25905194) |
-| #26108 | ::{ flag=ID }:: [hafishoka](https://osu.ppy.sh/users/8071728) |
-| #26906 | ::{ flag=ID }:: [D31T7](https://osu.ppy.sh/users/7421690) |
-| #29128 | ::{ flag=ID }:: [FinHazel](https://osu.ppy.sh/users/13660273) |
-| #29976 | ::{ flag=ID }:: [zReol](https://osu.ppy.sh/users/23539213) |
-| #31936 | ::{ flag=ID }:: [SakuyaIz](https://osu.ppy.sh/users/14708166) |
-| #33971 | ::{ flag=ID }:: [KimoTaki](https://osu.ppy.sh/users/13451556) |
-| #35400 | ::{ flag=ID }:: [XZeuzCR](https://osu.ppy.sh/users/15302695) |
-| #37394 | ::{ flag=ID }:: [MyRisu](https://osu.ppy.sh/users/36244414) |
-| #53810 | ::{ flag=ID }:: [RealTBNRKenny](https://osu.ppy.sh/users/17731576) |
-| #109156 | ::{ flag=ID }:: [anteiku7](https://osu.ppy.sh/users/7013247) |
-| #123939 | ::{ flag=ID }:: [vivol](https://osu.ppy.sh/users/31408326) |
+| #33 | ::{ flag=ID }:: ::RaffCo::{ user-id=7589503 } |
+| #109 | ::{ flag=ID }:: ::\1yea::{ user-id=20834055 } |
+| #158 | ::{ flag=ID }:: ::AzusaNakano2::{ user-id=9821346 } |
+| #197 | ::{ flag=ID }:: ::\1 -Asriel- \1::{ user-id=11829623 } |
+| #234 | ::{ flag=ID }:: ::Endorfinn-::{ user-id=14588134 } |
+| #542 | ::{ flag=ID }:: ::lisachandra::{ user-id=26634482 } |
+| #749 | ::{ flag=ID }:: ::\1LS\1 akarii::{ user-id=20040064 } |
+| #981 | ::{ flag=ID }:: ::yeedinobro::{ user-id=33683529 } |
+| #1105 | ::{ flag=ID }:: ::ARDHANA::{ user-id=29169697 } |
+| #1124 | ::{ flag=ID }:: ::\_Reggie\_::{ user-id=22933961 } |
+| #1143 | ::{ flag=ID }:: ::DAENGXicisae-::{ user-id=8029883 } |
+| #1304 | ::{ flag=ID }:: ::MightyTech::{ user-id=34454156 } |
+| #1746 | ::{ flag=ID }:: ::askL330::{ user-id=30640092 } |
+| #2093 | ::{ flag=ID }:: ::\1LS\1Robi::{ user-id=21900872 } |
+| #2154 | ::{ flag=ID }:: ::Violet-::{ user-id=13274715 } |
+| #2173 | ::{ flag=ID }:: ::Az-u::{ user-id=15801261 } |
+| #2218 | ::{ flag=ID }:: ::danar mw::{ user-id=13859109 } |
+| #2235 | ::{ flag=ID }:: ::Prinow6::{ user-id=18658630 } |
+| #2384 | ::{ flag=ID }:: ::beethiven::{ user-id=18560270 } |
+| #3143 | ::{ flag=ID }:: ::\1Shiroko\1::{ user-id=21129437 } |
+| #3193 | ::{ flag=ID }:: ::uThot::{ user-id=13716503 } |
+| #3372 | ::{ flag=ID }:: ::\1ID\1Catalyst-::{ user-id=8810018 } |
+| #3428 | ::{ flag=ID }:: ::D\1ana::{ user-id=16240550 } |
+| #3457 | ::{ flag=ID }:: ::Tsurumaki\1::{ user-id=18790026 } |
+| #3477 | ::{ flag=ID }:: ::IzKun-::{ user-id=9104881 } |
+| #3543 | ::{ flag=ID }:: ::Proxae::{ user-id=8410575 } |
+| #3547 | ::{ flag=ID }:: ::spectator\1boi::{ user-id=17400577 } |
+| #3619 | ::{ flag=ID }:: ::KinoJourney::{ user-id=15798093 } |
+| #3660 | ::{ flag=ID }:: ::SnakesYxle::{ user-id=22842079 } |
+| #3731 | ::{ flag=ID }:: ::KyoukaRy::{ user-id=13403380 } |
+| #3761 | ::{ flag=ID }:: ::Molten Cheese::{ user-id=16824892 } |
+| #4348 | ::{ flag=ID }:: ::MzLord::{ user-id=14659672 } |
+| #4393 | ::{ flag=ID }:: ::ChocoCoki-::{ user-id=3565870 } |
+| #4555 | ::{ flag=ID }:: ::TheLegend3RD::{ user-id=14732769 } |
+| #4561 | ::{ flag=ID }:: ::Neptunia-chan::{ user-id=11608122 } |
+| #4664 | ::{ flag=ID }:: ::Animerge::{ user-id=6667024 } |
+| #4955 | ::{ flag=ID }:: ::EVIRE-::{ user-id=11405908 } |
+| #4987 | ::{ flag=ID }:: ::NizT::{ user-id=23115247 } |
+| #5025 | ::{ flag=ID }:: ::My Angel Chen::{ user-id=24285111 } |
+| #5401 | ::{ flag=ID }:: ::MrFlinxy::{ user-id=4681744 } |
+| #5442 | ::{ flag=ID }:: ::syamisu-::{ user-id=23484954 } |
+| #5535 | ::{ flag=ID }:: ::ImOyZo::{ user-id=14875989 } |
+| #5583 | ::{ flag=ID }:: ::Dogethedoge25::{ user-id=15597315 } |
+| #5609 | ::{ flag=ID }:: ::-Nandakai-::{ user-id=31299157 } |
+| #5851 | ::{ flag=ID }:: ::tentrempm::{ user-id=8346342 } |
+| #6177 | ::{ flag=ID }:: ::Catzu::{ user-id=11330898 } |
+| #6680 | ::{ flag=ID }:: ::Darrel27::{ user-id=25806849 } |
+| #7103 | ::{ flag=ID }:: ::\1-Vanart-\1::{ user-id=34756991 } |
+| #7882 | ::{ flag=ID }:: ::3 7::{ user-id=14077201 } |
+| #8074 | ::{ flag=ID }:: ::Marcille-::{ user-id=12423717 } |
+| #9017 | ::{ flag=ID }:: ::skadidragen::{ user-id=32350370 } |
+| #9815 | ::{ flag=ID }:: ::Aimaina::{ user-id=13217193 } |
+| #9994 | ::{ flag=ID }:: ::Lyz-::{ user-id=9670957 } |
+| #10383 | ::{ flag=ID }:: ::Remuu::{ user-id=18777094 } |
+| #10396 | ::{ flag=ID }:: ::\1-Elaina-\1::{ user-id=12532297 } |
+| #10632 | ::{ flag=ID }:: ::-Aji::{ user-id=10058745 } |
+| #10699 | ::{ flag=ID }:: ::Napeace::{ user-id=30833471 } |
+| #11245 | ::{ flag=ID }:: ::KafuuChlno::{ user-id=31102647 } |
+| #11869 | ::{ flag=ID }:: ::shidqidragon::{ user-id=27379902 } |
+| #12106 | ::{ flag=ID }:: ::\1 Zenith \1::{ user-id=8405046 } |
+| #12477 | ::{ flag=ID }:: ::ZhasK\1667::{ user-id=19541103 } |
+| #13444 | ::{ flag=ID }:: ::lyoneljose::{ user-id=23212300 } |
+| #13469 | ::{ flag=ID }:: ::ocaibo::{ user-id=30615609 } |
+| #13678 | ::{ flag=ID }:: ::Raeaw::{ user-id=27835772 } |
+| #14287 | ::{ flag=ID }:: ::\1 Heez \1::{ user-id=17957861 } |
+| #14449 | ::{ flag=ID }:: ::bloxymon::{ user-id=21325882 } |
+| #14674 | ::{ flag=ID }:: ::LuxSenaa::{ user-id=6807769 } |
+| #15492 | ::{ flag=ID }:: ::OOOOAAAAEEEEEE::{ user-id=11190601 } |
+| #15769 | ::{ flag=ID }:: ::EterEnvy::{ user-id=13762505 } |
+| #16117 | ::{ flag=ID }:: ::menprogemink::{ user-id=30547760 } |
+| #16366 | ::{ flag=ID }:: ::lucknut::{ user-id=19724595 } |
+| #16563 | ::{ flag=ID }:: ::MahiroCHID::{ user-id=33495414 } |
+| #17258 | ::{ flag=ID }:: ::chantomoe::{ user-id=20835843 } |
+| #19573 | ::{ flag=ID }:: ::MGD FURRY::{ user-id=16800937 } |
+| #25114 | ::{ flag=ID }:: ::YumekoJabami::{ user-id=9167935 } |
+| #25172 | ::{ flag=ID }:: ::124fa::{ user-id=16263257 } |
+| #25811 | ::{ flag=ID }:: ::Virz12::{ user-id=25905194 } |
+| #26108 | ::{ flag=ID }:: ::hafishoka::{ user-id=8071728 } |
+| #26906 | ::{ flag=ID }:: ::D31T7::{ user-id=7421690 } |
+| #29128 | ::{ flag=ID }:: ::FinHazel::{ user-id=13660273 } |
+| #29976 | ::{ flag=ID }:: ::zReol::{ user-id=23539213 } |
+| #31936 | ::{ flag=ID }:: ::SakuyaIz::{ user-id=14708166 } |
+| #33971 | ::{ flag=ID }:: ::KimoTaki::{ user-id=13451556 } |
+| #35400 | ::{ flag=ID }:: ::XZeuzCR::{ user-id=15302695 } |
+| #37394 | ::{ flag=ID }:: ::MyRisu::{ user-id=36244414 } |
+| #53810 | ::{ flag=ID }:: ::RealTBNRKenny::{ user-id=17731576 } |
+| #109156 | ::{ flag=ID }:: ::anteiku7::{ user-id=7013247 } |
+| #123939 | ::{ flag=ID }:: ::vivol::{ user-id=31408326 } |
 
 ## Podium
 
@@ -168,10 +168,10 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 
 | Peringkat | Pemain |
 | :-: | :-- |
-| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara pertama") | ::{ flag=ID }:: [lisachandra](https://osu.ppy.sh/users/26634482) |
-| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara kedua") | ::{ flag=ID }:: [[LS]Robi](https://osu.ppy.sh/users/21900872) |
-| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara ketiga") | ::{ flag=ID }:: [MightyTech](https://osu.ppy.sh/users/34454156) |
-| Finalis | ::{ flag=ID }:: [[LS] akarii](https://osu.ppy.sh/users/20040064), ::{ flag=ID }:: [DAENGXicisae-](https://osu.ppy.sh/users/8029883), ::{ flag=ID }:: [SnakesYxle](https://osu.ppy.sh/users/22842079) |
+| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara pertama") | ::{ flag=ID }:: ::lisachandra::{ user-id=26634482 } |
+| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara kedua") | ::{ flag=ID }:: ::\1LS\1Robi::{ user-id=21900872 } |
+| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara ketiga") | ::{ flag=ID }:: ::MightyTech::{ user-id=34454156 } |
+| Finalis | ::{ flag=ID }:: ::\1LS\1 akarii::{ user-id=20040064 }, ::{ flag=ID }:: ::DAENGXicisae-::{ user-id=8029883 }, ::{ flag=ID }:: ::SnakesYxle::{ user-id=22842079 } |
 
 ## Mappool
 
@@ -368,265 +368,265 @@ Turnamen ini telah berakhir dengan podium sebagai berikut:
 ### Wildcard
 
 - GM1 | **[Unduh mappack babak ini di sini! (732 MB)](https://drive.google.com/file/d/1qIb5uJF9fpckyFF4HwBcOccBSvnfJJ1c/view?usp=sharing)**
-  1. [rei sirose - Lost Umbrella (Cut Ver.) (Monheim) [STEPDWI's Deluge]](https://osu.ppy.sh/beatmapsets/1751372#mania/3583021) dikirim oleh [ocaibo](https://osu.ppy.sh/users/30615609)
-  2. [callasoiled - ARTIFICALIMAGE (Cut Ver.) (Paturages) [WHAT IS NOT REAL CANNOT HURT YOU]](https://osu.ppy.sh/beatmapsets/2137954#mania/4499441) dikirim oleh [[ Zenith ]](https://osu.ppy.sh/users/8405046)
-  3. [GTA feat. Sam Bruno - Red Lips (Mendus Remix) (Hydria) [Hard (SV)]](https://osu.ppy.sh/beatmapsets/728227#mania/1537498) dikirim oleh [Raeaw](https://osu.ppy.sh/users/27835772)
-  4. [Gram & Camellia - Ragnarok -cut- (signupredir111) [Universe Collapse (Zero)]](https://osu.ppy.sh/beatmapsets/1037475#mania/2825299) dikirim oleh [MightyTech](https://osu.ppy.sh/users/34454156)
-  5. [ShinRa-Bansho - signal flare (Starpage) [lonely noodles [1,3x Rate]]](https://osu.ppy.sh/beatmapsets/1707174#mania/3489580) dikirim oleh [skadidragen](https://osu.ppy.sh/users/32350370)
-  6. [Kashii Moimi feat. KAFU - Cat Loving (kageminori bootleg) (Robeats) [I'm more of a dog person tbh]](https://osu.ppy.sh/beatmapsets/2200258#mania/4656541) dikirim oleh [-Nandakai-](https://osu.ppy.sh/users/31299157)
-  7. [Lime - Stargazer (Kamikaze) [Astral [1,1x Rate]]](https://osu.ppy.sh/beatmapsets/946116#mania/1975564) dikirim oleh [Remuu](https://osu.ppy.sh/users/18777094)
-  8. [katagiri - ch3rry (My Angel Koishi) [Sar4CORE! [1.2x Rate]]](https://osu.ppy.sh/beatmapsets/1367260#mania/2827577) dikirim oleh [lisachandra](https://osu.ppy.sh/users/26634482)
-  9. [Smigonaut - Shower Beer (Tidek) [Shower Thought]](https://osu.ppy.sh/beatmapsets/1838003#mania/3774021) dikirim oleh [ChocoCoki-](https://osu.ppy.sh/users/3565870)
-  10. [Zimba TS - The Vicious Cycle of Cat (awdse22) [omg the chef cat cooked]](https://osu.ppy.sh/beatmapsets/2234832#mania/4747347) dikirim oleh [Prinow6](https://osu.ppy.sh/users/18658630)
-  11. [cygnus - Tree of Misery (Miaurichesu) [Agony]](https://osu.ppy.sh/beatmapsets/2242640#mania/4766759) dikirim oleh [yeedinobro](https://osu.ppy.sh/users/33683529)
-  12. [Mikito-P - Shoujorei (Aimaina) [Ghost]](https://osu.ppy.sh/beatmapsets/1840381#mania/3779996) dikirim oleh [Aimaina](https://osu.ppy.sh/users/13217193)
-  13. [COOL&CREATE - Lunatic Eyes ~ Invisible Full Moon (Cut Ver.) (TheFunk) [Blood Moon 1.35x (270bpm)]](https://osu.ppy.sh/beatmapsets/1888601#mania/3889548) dikirim oleh [NizT](https://osu.ppy.sh/users/23115247)
-  14. [Random dude on tiktok - Alight Motion Edit ([ReyZ]) [Jedag Jedug [1.3x Rate]]](https://osu.ppy.sh/beatmapsets/1808153#mania/3708296) dikirim oleh [KinoJourney](https://osu.ppy.sh/users/15798093)
-  15. [Camellia - KillerBeast (IceDynamix) [hunter (sv)]](https://osu.ppy.sh/beatmapsets/1032781#mania/2160748) dikirim oleh [Tsurumaki_](https://osu.ppy.sh/users/18790026)
-  16. [Chroma - I (Promachos) [UNEXPECTED LOVE]](https://osu.ppy.sh/beatmapsets/2230738#mania/4734213) dikirim oleh [Az-u](https://osu.ppy.sh/users/15801261)
-  17. [DJ Mars - Lemon Tree (Lemon Dance) (Lemmie) [Challenge]](https://osu.ppy.sh/beatmapsets/1296605#mania/2690149) dikirim oleh [[LS] akarii](https://osu.ppy.sh/users/20040064)
-  18. [Camellia - WYSI (When You See It) (Murumoo) [OverCharge]](https://osu.ppy.sh/beatmapsets/1516403#mania/3104321) dikirim oleh [MrFlinxy](https://osu.ppy.sh/users/4681744)
-  19. [Sujak + Jakads (feat. arpia97) - Vibro on Jakads's belly fat (Slick6969) [electric tickle]](https://osu.ppy.sh/beatmapsets/1540011#mania/3148213) dikirim oleh [askL330](https://osu.ppy.sh/users/30640092)
-  20. [Camellia - overcomplexification ("Quaternion" Long ver.) (0DZ0) [convolution (cut) [0.95x Rate]]](https://osu.ppy.sh/beatmapsets/2058875#mania/4303205) dikirim oleh [SnakesYxle](https://osu.ppy.sh/users/22842079)
-  21. [Jack Stauber - Dinner Is Not Over (NotiiJohn0) [Bon Appetit]](https://osu.ppy.sh/beatmapsets/1991686#mania/4138217) dikirim oleh [_yea](https://osu.ppy.sh/users/20834055)
-  22. [katagiri - Angel's Salad (lovely_hyahya) [Duck 00: Tenshi Duck]](https://osu.ppy.sh/beatmapsets/2218467#mania/4702352) dikirim oleh [My Angel Chen](https://osu.ppy.sh/users/24285111)
-  23. [Haraguchi Sasuke - Hito mania (ICECAKE) [SV mania]](https://osu.ppy.sh/beatmapsets/2099820#mania/4404921) dikirim oleh [shidqidragon](https://osu.ppy.sh/users/27379902)
-  24. [Ariabl'eyeS - Raison d'etre (Pyra-san) [The Essence of Existence]](https://osu.ppy.sh/beatmapsets/2259433#mania/4808336) dikirim oleh [Neptunia-chan](https://osu.ppy.sh/users/11608122)
-  25. [Various Artists - Dan ~ REFORM ~ Finalmaps ([GB]Thaumiel) [Laur - Exitium ~ Eta Tech ~]](https://osu.ppy.sh/beatmapsets/1188968#mania/4490038) dikirim oleh [[LS]Robi](https://osu.ppy.sh/users/21900872)
-  26. [Akaza Akari(CV:Mikami Shiori) - Watashi, Shuyaku no Akaza Akari desu (MuridJhlee0133) [4K VIBROAKARIN]](https://osu.ppy.sh/beatmapsets/633410#mania/1344355) dikirim oleh [AzusaNakano2](https://osu.ppy.sh/users/9821346)
-  27. [Yu-dachi - Shukufuku no Shikisai wa Omoi Musubu Kimitachi made (ML-ysg) [MAXIMUM]](https://osu.ppy.sh/beatmapsets/2045075#mania/4268617) dikirim oleh [lyoneljose](https://osu.ppy.sh/users/23212300)
-  28. [Utatane Yasumi (CV: Itou Miku) & Yuugure Yuuhi (CV: Toyota Moe) - STAND BY YOU (TV Size) (Drum-Hitnormal) [CS' BE WITH YOU]](https://osu.ppy.sh/beatmapsets/2172974#mania/4655981) dikirim oleh [Napeace](https://osu.ppy.sh/users/30833471)
-  29. [KOAN Sound - Traverse ([Crz]hinako1804) [oan]](https://osu.ppy.sh/beatmapsets/1878315#mania/3866380) dikirim oleh [D_ana](https://osu.ppy.sh/users/16240550)
-  30. [EmoCosine - This Club is Not 4 U (short ver.) (RuleBlazing) [Stage 1: Gatekeep]](https://osu.ppy.sh/beatmapsets/1817977#mania/3729870) dikirim oleh [EterEnvy](https://osu.ppy.sh/users/13762505)
-  31. [Hana - Sakura no Uta (Yururu) [Ruruchan!!]](https://osu.ppy.sh/beatmapsets/632912#mania/1343374) dikirim oleh [[ -Asriel- ]](https://osu.ppy.sh/users/11829623)
-  32. [Giga-P - BRING IT ON (Axy) [BRING THE LNS ON]](https://osu.ppy.sh/beatmapsets/1320732#mania/2736010) dikirim oleh [-Aji](https://osu.ppy.sh/users/10058745)
-  33. [CHiCO with HoneyWorks - Minikui ikimono (RushiPettan) [Otherworld Lily]](https://osu.ppy.sh/beatmapsets/1855174#mania/3812318) dikirim oleh [IzKun-](https://osu.ppy.sh/users/9104881)
-  34. [Giga-P - BRING IT ON (Axy) [BRING THE LNS ON]](https://osu.ppy.sh/beatmapsets/1320732#mania/2736010) dikirim oleh [ZhasK_667](https://osu.ppy.sh/users/19541103)
-  35. [LeaF - ATHAZA (BossMadWolf) [ASVZA]](https://osu.ppy.sh/beatmapsets/1279294#mania/2657548) dikirim oleh [[-Elaina-]](https://osu.ppy.sh/users/12532297)
-  36. [Various Artists - Anto's High BPM Dense Chordjack Pack 16 (Anto_) [(Anto_) Sugar Loli 0.85x]](https://osu.ppy.sh/beatmapsets/2231457#mania/4736168) dikirim oleh [\_Reggie\_](https://osu.ppy.sh/users/22933961)
-  37. [Lil Boom - Already Dead (tentrempm) [Deadman]](https://osu.ppy.sh/beatmapsets/1086967#mania/2272979) dikirim oleh [tentrempm](https://osu.ppy.sh/users/8346342)
-  38. [sakuraburst - serotonin (Catzu) [sleep, my child]](https://osu.ppy.sh/beatmapsets/2218448#mania/4702316) dikirim oleh [Catzu](https://osu.ppy.sh/users/11330898)
-  39. [MisomyL - Catalinesie (Stelar) [Catalyst of Amnesia]](https://osu.ppy.sh/beatmapsets/1904667#mania/3927353) dikirim oleh [ARDHANA](https://osu.ppy.sh/users/29169697)
-  40. [MUZZ - Nemesis (Cut Ver.) (Revv-) [Musuh Terlihat]](https://osu.ppy.sh/beatmapsets/2149002#mania/4527113) dikirim oleh [lucknut](https://osu.ppy.sh/users/19724595)
-  41. [Mr Rock - wii theme but its the worst thing you will ever hear (DarckoSeth) [error.exe]](https://osu.ppy.sh/beatmapsets/908007#mania/1894828) dikirim oleh [Molten Cheese](https://osu.ppy.sh/users/16824892)
-  42. [sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix) (Ciel) [fn(top=true,sv=false)]](https://osu.ppy.sh/beatmapsets/1569250#mania/3204544) dikirim oleh [dogethedoge25](https://osu.ppy.sh/users/15597315)
-  43. [DJ SHARPNEL - Kaze no Naka no Subaru ~Hyougenshatachi~ (Jole) [subarushii]](https://osu.ppy.sh/beatmapsets/1628745#mania/3325116) dikirim oleh [TheLegend3RD](https://osu.ppy.sh/users/14732769)
-  44. [Sharks & Chime - Water Elemental (Guilhermeziat) [Stage 3: Stormbound]](https://osu.ppy.sh/beatmapsets/1917756#mania/3957466) dikirim oleh [spectator_boi](https://osu.ppy.sh/users/17400577)
-  45. [Risshuu feat. Choko - Take (LNP-) [Beyond]](https://osu.ppy.sh/beatmapsets/1377628#mania/2847100) dikirim oleh [KafuuChlno](https://osu.ppy.sh/users/31102647)
-  46. [korea - oronaminC (Staravia) [korean vibro]](https://osu.ppy.sh/beatmapsets/543648#mania/1152244) dikirim oleh [RaffCo](https://osu.ppy.sh/users/7589503)
-  47. [Angelic Burster - Star Bubble (Magikarp1234) [AngeliChan!!]](https://osu.ppy.sh/beatmapsets/1271321#mania/2641914) dikirim oleh [Kyoukary](https://osu.ppy.sh/users/13403380)
-  48. Laser Imouto - Prismatix (SMOCMouse) \[SMOCMouse \[Jumpstream+trill\] 1.1x (220bpm) OD8\] dikirim oleh [danar mw](https://osu.ppy.sh/users/13859109)
-  49. [Various Artists - arpia97's Vibro Anthology (arpia97) [Electric Butterfly (ATTang)]](https://osu.ppy.sh/beatmapsets/724338#mania/3261950) dikirim oleh [beethiven](https://osu.ppy.sh/users/18560270)
-  50. [The Quick Brown Fox - ~ GAMAMA DAN ~ Break (Handhurt Remix) (Cortexiphan) [BREAKBREAKBREAKBREAK]](https://osu.ppy.sh/beatmapsets/2101452#mania/4409616) dikirim oleh [ImOyZo](https://osu.ppy.sh/users/14875989)
-  51. [crafter2011 - keep out! (MeWhenYourMom) [Myst's OUT!!!]](https://osu.ppy.sh/beatmapsets/2068972#mania/4328936) dikirim oleh [FinHazel](https://osu.ppy.sh/users/13660273)
-  52. [Harumaki Gohan feat. isui - Suisei ni Nareta nara (Castella) [Starfall]](https://osu.ppy.sh/beatmapsets/2124253#mania/4464482) dikirim oleh [MzLord](https://osu.ppy.sh/users/14659672)
-  53. [MoonDeity - NEON BLADE (IsonafShikolake) [level 10 [1.1x Rate]]](https://osu.ppy.sh/beatmapsets/1789311#mania/3666507) dikirim oleh [[ Heez ]](https://osu.ppy.sh/users/17957861)
-  54. [Marmalade butcher - Floccinaucinihilipilification (Cokiiplay) [Grundstucksverkehrsgenehmigungszustandigkeitsubertragungsverordnung]](https://osu.ppy.sh/beatmapsets/1020778#mania/2135894) dikirim oleh [Proxae](https://osu.ppy.sh/users/8410575)
-  55. [Don't Hug Me I'm Scared - The Creativity Song (AscensionDTWhen) [C'mon, guys. Let's get creative!]](https://osu.ppy.sh/beatmapsets/848746#mania/1774897) dikirim oleh [[Shiroko]](https://osu.ppy.sh/users/21129437)
-  56. [AiRI - DREAMxSCRAMBLE! (Lyz-) [Splash!]](https://osu.ppy.sh/beatmapsets/1038568#mania/2171003) dikirim oleh [Lyz-](https://osu.ppy.sh/users/9670957)
-  57. [Kocchi no Kento - Hai Yorokonde (Magens Remix) feat. Hatsune Miku (9SuRodn) [Aut0's Another]](https://osu.ppy.sh/beatmapsets/2249870#mania/4824862) dikirim oleh [DAENGXicisae-](https://osu.ppy.sh/users/8029883)
-  58. [Various Artists - Zia's 4K ChordJack Training Pack (Zia) [DJ TOTTO - Crystalia]](https://osu.ppy.sh/beatmapsets/1625765#mania/3319255) dikirim oleh [[-Vanart-]](https://osu.ppy.sh/users/34756991)
-  59. [Various Artists - arpia97's Vibro Anthology (arpia97) [Electric Butterfly (ATTang)]](https://osu.ppy.sh/beatmapsets/724338#mania/3261950) dikirim oleh [Darrel27](https://osu.ppy.sh/users/25806849)
-  60. [Siti Badriah - Mama Minta Pulsa (Speed Up Ver.) (Draftnell) [Greget]](https://osu.ppy.sh/beatmapsets/532917#mania/1129049) dikirim oleh [Marcille-](https://osu.ppy.sh/users/12423717)
-  61. [Suicidal Angels - Torment Payback (edited ver.) ([GB]Thaumiel) [Massacre (2020)]](https://osu.ppy.sh/beatmapsets/2134166#mania/4491143) dikirim oleh [Violet-](https://osu.ppy.sh/users/13274715)
-  62. [Aaron Spectre - You Don't Know (aeoliancarp) [It Is a Mystery [1.1x]]](https://osu.ppy.sh/beatmapsets/1537106#mania/3142809) dikirim oleh [uThot](https://osu.ppy.sh/users/13716503)
-  63. [Camellia - Final-Boss-Chan (Critical_Star) [Stage 4: vs. Mid Boss Aruel]](https://osu.ppy.sh/beatmapsets/1726370#mania/3531225) dikirim oleh [Animerge](https://osu.ppy.sh/users/6667024)
-  64. [Ari Lasso - Penjaga Hati (DJ Asia Remix) (mxiucism) [kubayangkan]](https://osu.ppy.sh/beatmapsets/1771279#mania/3626095) dikirim oleh [syamisu-](https://osu.ppy.sh/users/23484954)
+  1. [rei sirose - Lost Umbrella (Cut Ver.) (Monheim) [STEPDWI's Deluge]](https://osu.ppy.sh/beatmapsets/1751372#mania/3583021) dikirim oleh ::ocaibo::{ user-id=30615609 }
+  2. [callasoiled - ARTIFICALIMAGE (Cut Ver.) (Paturages) [WHAT IS NOT REAL CANNOT HURT YOU]](https://osu.ppy.sh/beatmapsets/2137954#mania/4499441) dikirim oleh ::\1 Zenith \1::{ user-id=8405046 }
+  3. [GTA feat. Sam Bruno - Red Lips (Mendus Remix) (Hydria) [Hard (SV)]](https://osu.ppy.sh/beatmapsets/728227#mania/1537498) dikirim oleh ::Raeaw::{ user-id=27835772 }
+  4. [Gram & Camellia - Ragnarok -cut- (signupredir111) [Universe Collapse (Zero)]](https://osu.ppy.sh/beatmapsets/1037475#mania/2825299) dikirim oleh ::MightyTech::{ user-id=34454156 }
+  5. [ShinRa-Bansho - signal flare (Starpage) [lonely noodles [1,3x Rate]]](https://osu.ppy.sh/beatmapsets/1707174#mania/3489580) dikirim oleh ::skadidragen::{ user-id=32350370 }
+  6. [Kashii Moimi feat. KAFU - Cat Loving (kageminori bootleg) (Robeats) [I'm more of a dog person tbh]](https://osu.ppy.sh/beatmapsets/2200258#mania/4656541) dikirim oleh ::-Nandakai-::{ user-id=31299157 }
+  7. [Lime - Stargazer (Kamikaze) [Astral [1,1x Rate]]](https://osu.ppy.sh/beatmapsets/946116#mania/1975564) dikirim oleh ::Remuu::{ user-id=18777094 }
+  8. [katagiri - ch3rry (My Angel Koishi) [Sar4CORE! [1.2x Rate]]](https://osu.ppy.sh/beatmapsets/1367260#mania/2827577) dikirim oleh ::lisachandra::{ user-id=26634482 }
+  9. [Smigonaut - Shower Beer (Tidek) [Shower Thought]](https://osu.ppy.sh/beatmapsets/1838003#mania/3774021) dikirim oleh ::ChocoCoki-::{ user-id=3565870 }
+  10. [Zimba TS - The Vicious Cycle of Cat (awdse22) [omg the chef cat cooked]](https://osu.ppy.sh/beatmapsets/2234832#mania/4747347) dikirim oleh ::Prinow6::{ user-id=18658630 }
+  11. [cygnus - Tree of Misery (Miaurichesu) [Agony]](https://osu.ppy.sh/beatmapsets/2242640#mania/4766759) dikirim oleh ::yeedinobro::{ user-id=33683529 }
+  12. [Mikito-P - Shoujorei (Aimaina) [Ghost]](https://osu.ppy.sh/beatmapsets/1840381#mania/3779996) dikirim oleh ::Aimaina::{ user-id=13217193 }
+  13. [COOL&CREATE - Lunatic Eyes ~ Invisible Full Moon (Cut Ver.) (TheFunk) [Blood Moon 1.35x (270bpm)]](https://osu.ppy.sh/beatmapsets/1888601#mania/3889548) dikirim oleh ::NizT::{ user-id=23115247 }
+  14. [Random dude on tiktok - Alight Motion Edit ([ReyZ]) [Jedag Jedug [1.3x Rate]]](https://osu.ppy.sh/beatmapsets/1808153#mania/3708296) dikirim oleh ::KinoJourney::{ user-id=15798093 }
+  15. [Camellia - KillerBeast (IceDynamix) [hunter (sv)]](https://osu.ppy.sh/beatmapsets/1032781#mania/2160748) dikirim oleh ::Tsurumaki\1::{ user-id=18790026 }
+  16. [Chroma - I (Promachos) [UNEXPECTED LOVE]](https://osu.ppy.sh/beatmapsets/2230738#mania/4734213) dikirim oleh ::Az-u::{ user-id=15801261 }
+  17. [DJ Mars - Lemon Tree (Lemon Dance) (Lemmie) [Challenge]](https://osu.ppy.sh/beatmapsets/1296605#mania/2690149) dikirim oleh ::\1LS\1 akarii::{ user-id=20040064 }
+  18. [Camellia - WYSI (When You See It) (Murumoo) [OverCharge]](https://osu.ppy.sh/beatmapsets/1516403#mania/3104321) dikirim oleh ::MrFlinxy::{ user-id=4681744 }
+  19. [Sujak + Jakads (feat. arpia97) - Vibro on Jakads's belly fat (Slick6969) [electric tickle]](https://osu.ppy.sh/beatmapsets/1540011#mania/3148213) dikirim oleh ::askL330::{ user-id=30640092 }
+  20. [Camellia - overcomplexification ("Quaternion" Long ver.) (0DZ0) [convolution (cut) [0.95x Rate]]](https://osu.ppy.sh/beatmapsets/2058875#mania/4303205) dikirim oleh ::SnakesYxle::{ user-id=22842079 }
+  21. [Jack Stauber - Dinner Is Not Over (NotiiJohn0) [Bon Appetit]](https://osu.ppy.sh/beatmapsets/1991686#mania/4138217) dikirim oleh ::\1yea::{ user-id=20834055 }
+  22. [katagiri - Angel's Salad (lovely_hyahya) [Duck 00: Tenshi Duck]](https://osu.ppy.sh/beatmapsets/2218467#mania/4702352) dikirim oleh ::My Angel Chen::{ user-id=24285111 }
+  23. [Haraguchi Sasuke - Hito mania (ICECAKE) [SV mania]](https://osu.ppy.sh/beatmapsets/2099820#mania/4404921) dikirim oleh ::shidqidragon::{ user-id=27379902 }
+  24. [Ariabl'eyeS - Raison d'etre (Pyra-san) [The Essence of Existence]](https://osu.ppy.sh/beatmapsets/2259433#mania/4808336) dikirim oleh ::Neptunia-chan::{ user-id=11608122 }
+  25. [Various Artists - Dan ~ REFORM ~ Finalmaps ([GB]Thaumiel) [Laur - Exitium ~ Eta Tech ~]](https://osu.ppy.sh/beatmapsets/1188968#mania/4490038) dikirim oleh ::\1LS\1Robi::{ user-id=21900872 }
+  26. [Akaza Akari(CV:Mikami Shiori) - Watashi, Shuyaku no Akaza Akari desu (MuridJhlee0133) [4K VIBROAKARIN]](https://osu.ppy.sh/beatmapsets/633410#mania/1344355) dikirim oleh ::AzusaNakano2::{ user-id=9821346 }
+  27. [Yu-dachi - Shukufuku no Shikisai wa Omoi Musubu Kimitachi made (ML-ysg) [MAXIMUM]](https://osu.ppy.sh/beatmapsets/2045075#mania/4268617) dikirim oleh ::lyoneljose::{ user-id=23212300 }
+  28. [Utatane Yasumi (CV: Itou Miku) & Yuugure Yuuhi (CV: Toyota Moe) - STAND BY YOU (TV Size) (Drum-Hitnormal) [CS' BE WITH YOU]](https://osu.ppy.sh/beatmapsets/2172974#mania/4655981) dikirim oleh ::Napeace::{ user-id=30833471 }
+  29. [KOAN Sound - Traverse ([Crz]hinako1804) [oan]](https://osu.ppy.sh/beatmapsets/1878315#mania/3866380) dikirim oleh ::D\1ana::{ user-id=16240550 }
+  30. [EmoCosine - This Club is Not 4 U (short ver.) (RuleBlazing) [Stage 1: Gatekeep]](https://osu.ppy.sh/beatmapsets/1817977#mania/3729870) dikirim oleh ::EterEnvy::{ user-id=13762505 }
+  31. [Hana - Sakura no Uta (Yururu) [Ruruchan!!]](https://osu.ppy.sh/beatmapsets/632912#mania/1343374) dikirim oleh ::\1 -Asriel- \1::{ user-id=11829623 }
+  32. [Giga-P - BRING IT ON (Axy) [BRING THE LNS ON]](https://osu.ppy.sh/beatmapsets/1320732#mania/2736010) dikirim oleh ::-Aji::{ user-id=10058745 }
+  33. [CHiCO with HoneyWorks - Minikui ikimono (RushiPettan) [Otherworld Lily]](https://osu.ppy.sh/beatmapsets/1855174#mania/3812318) dikirim oleh ::IzKun-::{ user-id=9104881 }
+  34. [Giga-P - BRING IT ON (Axy) [BRING THE LNS ON]](https://osu.ppy.sh/beatmapsets/1320732#mania/2736010) dikirim oleh ::ZhasK\1667::{ user-id=19541103 }
+  35. [LeaF - ATHAZA (BossMadWolf) [ASVZA]](https://osu.ppy.sh/beatmapsets/1279294#mania/2657548) dikirim oleh ::\1-Elaina-\1::{ user-id=12532297 }
+  36. [Various Artists - Anto's High BPM Dense Chordjack Pack 16 (Anto_) [(Anto_) Sugar Loli 0.85x]](https://osu.ppy.sh/beatmapsets/2231457#mania/4736168) dikirim oleh ::\_Reggie\_::{ user-id=22933961 }
+  37. [Lil Boom - Already Dead (tentrempm) [Deadman]](https://osu.ppy.sh/beatmapsets/1086967#mania/2272979) dikirim oleh ::tentrempm::{ user-id=8346342 }
+  38. [sakuraburst - serotonin (Catzu) [sleep, my child]](https://osu.ppy.sh/beatmapsets/2218448#mania/4702316) dikirim oleh ::Catzu::{ user-id=11330898 }
+  39. [MisomyL - Catalinesie (Stelar) [Catalyst of Amnesia]](https://osu.ppy.sh/beatmapsets/1904667#mania/3927353) dikirim oleh ::ARDHANA::{ user-id=29169697 }
+  40. [MUZZ - Nemesis (Cut Ver.) (Revv-) [Musuh Terlihat]](https://osu.ppy.sh/beatmapsets/2149002#mania/4527113) dikirim oleh ::lucknut::{ user-id=19724595 }
+  41. [Mr Rock - wii theme but its the worst thing you will ever hear (DarckoSeth) [error.exe]](https://osu.ppy.sh/beatmapsets/908007#mania/1894828) dikirim oleh ::Molten Cheese::{ user-id=16824892 }
+  42. [sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix) (Ciel) [fn(top=true,sv=false)]](https://osu.ppy.sh/beatmapsets/1569250#mania/3204544) dikirim oleh ::dogethedoge25::{ user-id=15597315 }
+  43. [DJ SHARPNEL - Kaze no Naka no Subaru ~Hyougenshatachi~ (Jole) [subarushii]](https://osu.ppy.sh/beatmapsets/1628745#mania/3325116) dikirim oleh ::TheLegend3RD::{ user-id=14732769 }
+  44. [Sharks & Chime - Water Elemental (Guilhermeziat) [Stage 3: Stormbound]](https://osu.ppy.sh/beatmapsets/1917756#mania/3957466) dikirim oleh ::spectator\1boi::{ user-id=17400577 }
+  45. [Risshuu feat. Choko - Take (LNP-) [Beyond]](https://osu.ppy.sh/beatmapsets/1377628#mania/2847100) dikirim oleh ::KafuuChlno::{ user-id=31102647 }
+  46. [korea - oronaminC (Staravia) [korean vibro]](https://osu.ppy.sh/beatmapsets/543648#mania/1152244) dikirim oleh ::RaffCo::{ user-id=7589503 }
+  47. [Angelic Burster - Star Bubble (Magikarp1234) [AngeliChan!!]](https://osu.ppy.sh/beatmapsets/1271321#mania/2641914) dikirim oleh ::Kyoukary::{ user-id=13403380 }
+  48. Laser Imouto - Prismatix (SMOCMouse) \[SMOCMouse \[Jumpstream+trill\] 1.1x (220bpm) OD8\] dikirim oleh ::danar mw::{ user-id=13859109 }
+  49. [Various Artists - arpia97's Vibro Anthology (arpia97) [Electric Butterfly (ATTang)]](https://osu.ppy.sh/beatmapsets/724338#mania/3261950) dikirim oleh ::beethiven::{ user-id=18560270 }
+  50. [The Quick Brown Fox - ~ GAMAMA DAN ~ Break (Handhurt Remix) (Cortexiphan) [BREAKBREAKBREAKBREAK]](https://osu.ppy.sh/beatmapsets/2101452#mania/4409616) dikirim oleh ::ImOyZo::{ user-id=14875989 }
+  51. [crafter2011 - keep out! (MeWhenYourMom) [Myst's OUT!!!]](https://osu.ppy.sh/beatmapsets/2068972#mania/4328936) dikirim oleh ::FinHazel::{ user-id=13660273 }
+  52. [Harumaki Gohan feat. isui - Suisei ni Nareta nara (Castella) [Starfall]](https://osu.ppy.sh/beatmapsets/2124253#mania/4464482) dikirim oleh ::MzLord::{ user-id=14659672 }
+  53. [MoonDeity - NEON BLADE (IsonafShikolake) [level 10 [1.1x Rate]]](https://osu.ppy.sh/beatmapsets/1789311#mania/3666507) dikirim oleh ::\1 Heez \1::{ user-id=17957861 }
+  54. [Marmalade butcher - Floccinaucinihilipilification (Cokiiplay) [Grundstucksverkehrsgenehmigungszustandigkeitsubertragungsverordnung]](https://osu.ppy.sh/beatmapsets/1020778#mania/2135894) dikirim oleh ::Proxae::{ user-id=8410575 }
+  55. [Don't Hug Me I'm Scared - The Creativity Song (AscensionDTWhen) [C'mon, guys. Let's get creative!]](https://osu.ppy.sh/beatmapsets/848746#mania/1774897) dikirim oleh ::\1Shiroko\1::{ user-id=21129437 }
+  56. [AiRI - DREAMxSCRAMBLE! (Lyz-) [Splash!]](https://osu.ppy.sh/beatmapsets/1038568#mania/2171003) dikirim oleh ::Lyz-::{ user-id=9670957 }
+  57. [Kocchi no Kento - Hai Yorokonde (Magens Remix) feat. Hatsune Miku (9SuRodn) [Aut0's Another]](https://osu.ppy.sh/beatmapsets/2249870#mania/4824862) dikirim oleh ::DAENGXicisae-::{ user-id=8029883 }
+  58. [Various Artists - Zia's 4K ChordJack Training Pack (Zia) [DJ TOTTO - Crystalia]](https://osu.ppy.sh/beatmapsets/1625765#mania/3319255) dikirim oleh ::\1-Vanart-\1::{ user-id=34756991 }
+  59. [Various Artists - arpia97's Vibro Anthology (arpia97) [Electric Butterfly (ATTang)]](https://osu.ppy.sh/beatmapsets/724338#mania/3261950) dikirim oleh ::Darrel27::{ user-id=25806849 }
+  60. [Siti Badriah - Mama Minta Pulsa (Speed Up Ver.) (Draftnell) [Greget]](https://osu.ppy.sh/beatmapsets/532917#mania/1129049) dikirim oleh ::Marcille-::{ user-id=12423717 }
+  61. [Suicidal Angels - Torment Payback (edited ver.) ([GB]Thaumiel) [Massacre (2020)]](https://osu.ppy.sh/beatmapsets/2134166#mania/4491143) dikirim oleh ::Violet-::{ user-id=13274715 }
+  62. [Aaron Spectre - You Don't Know (aeoliancarp) [It Is a Mystery [1.1x]]](https://osu.ppy.sh/beatmapsets/1537106#mania/3142809) dikirim oleh ::uThot::{ user-id=13716503 }
+  63. [Camellia - Final-Boss-Chan (Critical_Star) [Stage 4: vs. Mid Boss Aruel]](https://osu.ppy.sh/beatmapsets/1726370#mania/3531225) dikirim oleh ::Animerge::{ user-id=6667024 }
+  64. [Ari Lasso - Penjaga Hati (DJ Asia Remix) (mxiucism) [kubayangkan]](https://osu.ppy.sh/beatmapsets/1771279#mania/3626095) dikirim oleh ::syamisu-::{ user-id=23484954 }
 - GM2 | **[Unduh mappack babak ini di sini! (643 MB)](https://drive.google.com/file/d/1vDZ87CPcKZhpxwz88pxCT6OChmbPDH5q/view?usp=sharing)**
-  1. [-45 - Reikou Hatsuden (Monheim) [Rapture]](https://osu.ppy.sh/beatmapsets/1502322#mania/3082924) dikirim oleh [ocaibo](https://osu.ppy.sh/users/30615609)
-  2. [dIJe aLoK - Linganguliguli (ocydo) [brainrot]](https://osu.ppy.sh/beatmapsets/2286351#mania/4877346) dikirim oleh [[ Zenith ]](https://osu.ppy.sh/users/8405046)
-  3. [Raimukun - Myths Orbis (Ppass) [Trapezium Cluster]](https://osu.ppy.sh/beatmapsets/1916843#mania/3955346) dikirim oleh [Raeaw](https://osu.ppy.sh/users/27835772)
-  4. [Taylor Swift - The Very First Night (Taylor's Version) (Pokedogga) [I wish I could fly... 1.4x]](https://osu.ppy.sh/beatmapsets/1967549#mania/4080505) dikirim oleh [MightyTech](https://osu.ppy.sh/users/34454156)
-  5. [Geoxor - Aurora (Reihynn) [Dreamy]](https://osu.ppy.sh/beatmapsets/1912928#mania/3966441) dikirim oleh [skadidragen](https://osu.ppy.sh/users/32350370)
-  6. [MisomyL - Catalinesie (Stelar) [Catalyst of Amnesia]](https://osu.ppy.sh/beatmapsets/1904667#mania/3927353) dikirim oleh [-Nandakai-](https://osu.ppy.sh/users/31299157)
-  7. [Slax - Sugar Loli (NikoSek) [x1.0]](https://osu.ppy.sh/beatmapsets/1126349#mania/2353484) dikirim oleh [Remuu](https://osu.ppy.sh/users/18777094)
-  8. [Seishun Buta Yarou Cast - Fukashigi no Karte (K@keru Bootleg Remix) (My Angel Koishi) [Sar4CORE! [1.2x Rate]]](https://osu.ppy.sh/beatmapsets/1319421#mania/3718967) dikirim oleh [lisachandra](https://osu.ppy.sh/users/26634482)
-  9. [Camellia - ORCA (Orca-) [Orca's Challenge]](https://osu.ppy.sh/beatmapsets/1451562#mania/2984802) dikirim oleh [ChocoCoki-](https://osu.ppy.sh/users/3565870)
-  10. [DJ Majokko Mirakurun - Mafain (Orca-) [Phasmos]](https://osu.ppy.sh/beatmapsets/1569493#mania/3205012) dikirim oleh [Prinow6](https://osu.ppy.sh/users/18658630)
-  11. [Frums - gur yvsr (kari) (Vortex-) [(^^)]](https://osu.ppy.sh/beatmapsets/2242442#mania/4766318) dikirim oleh [yeedinobro](https://osu.ppy.sh/users/33683529)
-  12. [Yuuka - Girls' Carnival (Aimaina) [<3]](https://osu.ppy.sh/beatmapsets/1796570#mania/3682701) dikirim oleh [Aimaina](https://osu.ppy.sh/users/13217193)
-  13. [siinamota - Shoujo A (Foco_) [Quick and hateful cold [1.35x Rate]]](https://osu.ppy.sh/beatmapsets/1677199#mania/4399288) dikirim oleh [NizT](https://osu.ppy.sh/users/23115247)
-  14. [Yorushika - Yuunagi, Bou, Hana Madoi (Hylotl) [Fireworks, Summer Night (LN)]](https://osu.ppy.sh/beatmapsets/1815269#mania/3723959) dikirim oleh [KinoJourney](https://osu.ppy.sh/users/15798093)
-  15. [xKore - Stress (Halogen-) [Syncope]](https://osu.ppy.sh/beatmapsets/861705#mania/1802667) dikirim oleh [Tsurumaki_](https://osu.ppy.sh/users/18790026)
-  16. [Nemune Muni - Time Sleep! (Tartarate Remix) (Silicosis 2) [Tragic Time-freezing Love Extra]](https://osu.ppy.sh/beatmapsets/2284994#mania/4873689) dikirim oleh [Az-u](https://osu.ppy.sh/users/15801261)
-  17. [Icona Pop - I Love It ([KN]Yunxmi) [x1.15]](https://osu.ppy.sh/beatmapsets/1702864#mania/3479387) dikirim oleh [[LS] akarii](https://osu.ppy.sh/users/20040064)
-  18. [tofubeats - CANDYLAND feat. LIZ (Pa's Lam System Remix) (gemboyong) [CandyLand]](https://osu.ppy.sh/beatmapsets/581015#mania/1229992) dikirim oleh [MrFlinxy](https://osu.ppy.sh/users/4681744)
-  19. [Various Artists - Vibro Pack (Alvin69-) [Vibro Star]](https://osu.ppy.sh/beatmapsets/716178#mania/1513156) dikirim oleh [askL330](https://osu.ppy.sh/users/30640092)
-  20. [KANKAN - Boost Anima (fvrex) [Overdrive]](https://osu.ppy.sh/beatmapsets/2238606#mania/4756867) dikirim oleh [SnakesYxle](https://osu.ppy.sh/users/22842079)
-  21. [aran - L.F.O (stupud man) [Phase Shift]](https://osu.ppy.sh/beatmapsets/1375934#mania/3173029) dikirim oleh [_yea](https://osu.ppy.sh/users/20834055)
-  22. [Amamiya Kokoro - Kyu-kurarin (Antipole) [>w<]](https://osu.ppy.sh/beatmapsets/1935685#mania/4008773) dikirim oleh [My Angel Chen](https://osu.ppy.sh/users/24285111)
-  23. [inoqx - decode (Jhown) [p_q]](https://osu.ppy.sh/beatmapsets/2113952#mania/4438671) dikirim oleh [shidqidragon](https://osu.ppy.sh/users/27379902)
-  24. [umu. - humanly (Raveille) [timing hell?]](https://osu.ppy.sh/beatmapsets/1184226#mania/2468707) dikirim oleh [Neptunia-chan](https://osu.ppy.sh/users/11608122)
-  25. [Various Artists - Dan ~ REFORM ~ Finalmaps ([GB]Thaumiel) [S.S.H. - Intersect Thunderbolt-Remix ~ Eta Speed ~]](https://osu.ppy.sh/beatmapsets/1188968#mania/4490042) dikirim oleh [[LS]Robi](https://osu.ppy.sh/users/21900872)
-  26. [You (ft.nayuta) - Dimond Smile (Skorer) [Vibro Expert]](https://osu.ppy.sh/beatmapsets/562354#mania/1188981) dikirim oleh [AzusaNakano2](https://osu.ppy.sh/users/9821346)
-  27. [The Quick Brown Fox - Big Money (Mage) [Shana's Dollar [SC]]](https://osu.ppy.sh/beatmapsets/440508#mania/1009933) dikirim oleh [lyoneljose](https://osu.ppy.sh/users/23212300)
-  28. [Nakanoke no Itsutsugo - Hatsukoi (TV Size) (Savageeeee) [I Love You]](https://osu.ppy.sh/beatmapsets/1996262#mania/4148863) dikirim oleh [Napeace](https://osu.ppy.sh/users/30833471)
-  29. [Trerey-U + NIWASHI - Hisui (ler1211) [Jade]](https://osu.ppy.sh/beatmapsets/2173214#mania/4592599) dikirim oleh [D_ana](https://osu.ppy.sh/users/16240550)
-  30. [Teminite & MDK - Space Invaders (Cut Ver.) (FelixSpade) [LN Expert // Infringer (OD6.5)]](https://osu.ppy.sh/beatmapsets/2132580#mania/4486045) dikirim oleh [EterEnvy](https://osu.ppy.sh/users/13762505)
-  31. [TUYU - Itsuka Otona ni Nareru to Ii ne. (Emida) [MieAyam!!]](https://osu.ppy.sh/beatmapsets/1783344#mania/3652200) dikirim oleh [[ -Asriel- ]](https://osu.ppy.sh/users/11829623)
-  32. [Sayuri - Mikazuki (Napur) [EXCLUSIVER]](https://osu.ppy.sh/beatmapsets/542295#mania/1194600) dikirim oleh [-Aji](https://osu.ppy.sh/users/10058745)
-  33. [Nana Mizuki - STARTING NOW! (Niima) [Jumping!]](https://osu.ppy.sh/beatmapsets/515209#mania/1094161) dikirim oleh [IzKun-](https://osu.ppy.sh/users/9104881)
-  34. [Kashii Moimi feat. KAFU - Cat Loving (kageminori bootleg) (Robeats) [I'm more of a dog person tbh]](https://osu.ppy.sh/beatmapsets/2200258#mania/4656541) dikirim oleh [ZhasK_667](https://osu.ppy.sh/users/19541103)
-  35. [Yukopi - Kyoufuu All Back (P e n g k i) [Weird]](https://osu.ppy.sh/beatmapsets/1983375#mania/4119132) dikirim oleh [[-Elaina-]](https://osu.ppy.sh/users/12532297)
-  36. [TUYU - If there was an endpoint. (a? edit) (Anto_) [ade_maine's Challenge 1.1x (154bpm)]](https://osu.ppy.sh/beatmapsets/2174965#mania/4592107) dikirim oleh [\_Reggie\_](https://osu.ppy.sh/users/22933961)
-  37. [cute girls doing cute things - Main Heroine (tentrempm) [Telolet Full Ver.]](https://osu.ppy.sh/beatmapsets/1580768#mania/3231666) dikirim oleh [tentrempm](https://osu.ppy.sh/users/8346342)
-  38. [INHUMAN - AUGMENTED (Catzu) [WAKE UP FROM YOUR DREAM // EXTRA]](https://osu.ppy.sh/beatmapsets/2172853#mania/4586908) dikirim oleh [Catzu](https://osu.ppy.sh/users/11330898)
-  39. [None Like Joshua - Naruto's Ninja Way (0DZ0) [DZ's 1000 Years of Pain]](https://osu.ppy.sh/beatmapsets/1671839#mania/3860117) dikirim oleh [ARDHANA](https://osu.ppy.sh/users/29169697)
-  40. [Lee Jin Ah - Target for Love (DenYi) [Target]](https://osu.ppy.sh/beatmapsets/1664254#mania/3397529) dikirim oleh [lucknut](https://osu.ppy.sh/users/19724595)
-  41. [Sabicas - Carcelera - Reflejo Andaluz (Atsumin) [de_inferno]](https://osu.ppy.sh/beatmapsets/2301291#mania/4918035) dikirim oleh [Molten Cheese](https://osu.ppy.sh/users/16824892)
-  42. [KimuraYP - Kouon Katsuzetsu-chuu Oniki Hayakuchi Test (Hydria) [For The Jumptrill / Blastix Baka]](https://osu.ppy.sh/beatmapsets/1960147#mania/4061965) dikirim oleh [dogethedoge25](https://osu.ppy.sh/users/15597315)
-  43. [DJ Sharpnel feat.Chiroru Ohyama - Can You Say KanColle? (Xingyue) [Lv.XXIII]](https://osu.ppy.sh/beatmapsets/1599881#mania/3267509) dikirim oleh [TheLegend3RD](https://osu.ppy.sh/users/14732769)
-  44. [Silentroom - Shuu no Hazama (Shoegazer) [Rainshower]](https://osu.ppy.sh/beatmapsets/1307803#mania/2843594) dikirim oleh [spectator_boi](https://osu.ppy.sh/users/17400577)
-  45. [Slax - Too Much Loli (NikoSek) [x1.2]](https://osu.ppy.sh/beatmapsets/1165592#mania/2444465) dikirim oleh [KafuuChlno](https://osu.ppy.sh/users/31102647)
-  46. [gems - Gems Pack 12 - LN Master 4th (gemboyong) [31 - Koxx, A Fool Moon Night]](https://osu.ppy.sh/beatmapsets/518271#mania/1111631) dikirim oleh [RaffCo](https://osu.ppy.sh/users/7589503)
-  47. [Aiobahn feat. KOTOKO - INTERNET YAMERO (shenglinnn) [SA! I! KOU! (YES SV)]](https://osu.ppy.sh/beatmapsets/1958394#mania/4057358) dikirim oleh [Kyoukary](https://osu.ppy.sh/users/13403380)
-  48. [Caravan Palace - Lone Digger (XeoStyle) [Jack Digger]](https://osu.ppy.sh/beatmapsets/537933#mania/1139757) dikirim oleh [danar mw](https://osu.ppy.sh/users/13859109)
-  49. [Ludicin - Onus Regulus (uL-) [Conqueror Of The Universe | 4K Extreme]](https://osu.ppy.sh/beatmapsets/2046363#mania/4271568) dikirim oleh [beethiven](https://osu.ppy.sh/users/18560270)
-  50. [Dion Timmer - Shiawase (VIP) (syaro-) [1.2x]](https://osu.ppy.sh/beatmapsets/2063884#mania/4316770) dikirim oleh [ImOyZo](https://osu.ppy.sh/users/14875989)
-  51. [ZxNX - huggy wuggy (senkhyu) [sv]](https://osu.ppy.sh/beatmapsets/1785865#mania/3658240) dikirim oleh [FinHazel](https://osu.ppy.sh/users/13660273)
-  52. [Laur - Laur chan taiso dai ichi (Kim_GodSSI) [Hardcore Gymnastics]](https://osu.ppy.sh/beatmapsets/1761023#mania/3604249) dikirim oleh [MzLord](https://osu.ppy.sh/users/14659672)
-  53. [Hana - Sakura no Uta (TimBergling) [Berguling uwu]](https://osu.ppy.sh/beatmapsets/575638#mania/1218839) dikirim oleh [[ Heez ]](https://osu.ppy.sh/users/17957861)
-  54. [Mili - Between Two Worlds (Proxae) [Dunkelheit]](https://osu.ppy.sh/beatmapsets/2013745#mania/4216703) dikirim oleh [Proxae](https://osu.ppy.sh/users/8410575)
-  55. [Mrs. GREEN APPLE - StaRt  (Speed up Ver.) (-Xooti-) [Celebration!]](https://osu.ppy.sh/beatmapsets/1713083#mania/3500381) dikirim oleh [[Shiroko]](https://osu.ppy.sh/users/21129437)
-  56. [a crowd of rebellion - Ill (Lyz-) [Goodbye]](https://osu.ppy.sh/beatmapsets/2285764#mania/4875879) dikirim oleh [Lyz-](https://osu.ppy.sh/users/9670957)
-  57. [Creaky Jackals - PLVCK (Flexo123) [Extra]](https://osu.ppy.sh/beatmapsets/409921#mania/889671) dikirim oleh [DAENGXicisae-](https://osu.ppy.sh/users/8029883)
-  58. [Foreground Eclipse - Storytellers (Napur) [EXCLUSIVER]](https://osu.ppy.sh/beatmapsets/565184#mania/1194598) dikirim oleh [[-Vanart-]](https://osu.ppy.sh/users/34756991)
-  59. [KARUT 01 - Colorful Mess (Revv-) [bang darevv]](https://osu.ppy.sh/beatmapsets/1495042#mania/3064144) dikirim oleh [Darrel27](https://osu.ppy.sh/users/25806849)
-  60. [Porter Robinson & Madeon - Shelter (Zyph) [4K DUMP]](https://osu.ppy.sh/beatmapsets/524791#mania/1113809) dikirim oleh [Marcille-](https://osu.ppy.sh/users/12423717)
-  61. [Various Artists - Dan ~ REFORM ~ Finalmaps ([GB]Thaumiel) [DJ Myosuke - Collapse of Ego ~ Eta Stamina ~]](https://osu.ppy.sh/beatmapsets/1188968#mania/4490036) dikirim oleh [Violet-](https://osu.ppy.sh/users/13274715)
-  62. [Maroon 5 - Misery (uThot) [Firstmaple8's Hard 1.06x]](https://osu.ppy.sh/beatmapsets/2303330#mania/4923198) dikirim oleh [uThot](https://osu.ppy.sh/users/13716503)
-  63. [BlackY fused with WAiKURO - Alea jacta est! (Animerge) [MASTER]](https://osu.ppy.sh/beatmapsets/990281#mania/2138308) dikirim oleh [Animerge](https://osu.ppy.sh/users/6667024)
-  64. [nokia 6015i - hatsune miku arabic ringtone (Sephira Su) [JUNGKOOK: ding dong call me on my phone]](https://osu.ppy.sh/beatmapsets/1259170#mania/2617474) dikirim oleh [syamisu-](https://osu.ppy.sh/users/23484954)
+  1. [-45 - Reikou Hatsuden (Monheim) [Rapture]](https://osu.ppy.sh/beatmapsets/1502322#mania/3082924) dikirim oleh ::ocaibo::{ user-id=30615609 }
+  2. [dIJe aLoK - Linganguliguli (ocydo) [brainrot]](https://osu.ppy.sh/beatmapsets/2286351#mania/4877346) dikirim oleh ::\1 Zenith \1::{ user-id=8405046 }
+  3. [Raimukun - Myths Orbis (Ppass) [Trapezium Cluster]](https://osu.ppy.sh/beatmapsets/1916843#mania/3955346) dikirim oleh ::Raeaw::{ user-id=27835772 }
+  4. [Taylor Swift - The Very First Night (Taylor's Version) (Pokedogga) [I wish I could fly... 1.4x]](https://osu.ppy.sh/beatmapsets/1967549#mania/4080505) dikirim oleh ::MightyTech::{ user-id=34454156 }
+  5. [Geoxor - Aurora (Reihynn) [Dreamy]](https://osu.ppy.sh/beatmapsets/1912928#mania/3966441) dikirim oleh ::skadidragen::{ user-id=32350370 }
+  6. [MisomyL - Catalinesie (Stelar) [Catalyst of Amnesia]](https://osu.ppy.sh/beatmapsets/1904667#mania/3927353) dikirim oleh ::-Nandakai-::{ user-id=31299157 }
+  7. [Slax - Sugar Loli (NikoSek) [x1.0]](https://osu.ppy.sh/beatmapsets/1126349#mania/2353484) dikirim oleh ::Remuu::{ user-id=18777094 }
+  8. [Seishun Buta Yarou Cast - Fukashigi no Karte (K@keru Bootleg Remix) (My Angel Koishi) [Sar4CORE! [1.2x Rate]]](https://osu.ppy.sh/beatmapsets/1319421#mania/3718967) dikirim oleh ::lisachandra::{ user-id=26634482 }
+  9. [Camellia - ORCA (Orca-) [Orca's Challenge]](https://osu.ppy.sh/beatmapsets/1451562#mania/2984802) dikirim oleh ::ChocoCoki-::{ user-id=3565870 }
+  10. [DJ Majokko Mirakurun - Mafain (Orca-) [Phasmos]](https://osu.ppy.sh/beatmapsets/1569493#mania/3205012) dikirim oleh ::Prinow6::{ user-id=18658630 }
+  11. [Frums - gur yvsr (kari) (Vortex-) [(^^)]](https://osu.ppy.sh/beatmapsets/2242442#mania/4766318) dikirim oleh ::yeedinobro::{ user-id=33683529 }
+  12. [Yuuka - Girls' Carnival (Aimaina) [<3]](https://osu.ppy.sh/beatmapsets/1796570#mania/3682701) dikirim oleh ::Aimaina::{ user-id=13217193 }
+  13. [siinamota - Shoujo A (Foco_) [Quick and hateful cold [1.35x Rate]]](https://osu.ppy.sh/beatmapsets/1677199#mania/4399288) dikirim oleh ::NizT::{ user-id=23115247 }
+  14. [Yorushika - Yuunagi, Bou, Hana Madoi (Hylotl) [Fireworks, Summer Night (LN)]](https://osu.ppy.sh/beatmapsets/1815269#mania/3723959) dikirim oleh ::KinoJourney::{ user-id=15798093 }
+  15. [xKore - Stress (Halogen-) [Syncope]](https://osu.ppy.sh/beatmapsets/861705#mania/1802667) dikirim oleh ::Tsurumaki\1::{ user-id=18790026 }
+  16. [Nemune Muni - Time Sleep! (Tartarate Remix) (Silicosis 2) [Tragic Time-freezing Love Extra]](https://osu.ppy.sh/beatmapsets/2284994#mania/4873689) dikirim oleh ::Az-u::{ user-id=15801261 }
+  17. [Icona Pop - I Love It ([KN]Yunxmi) [x1.15]](https://osu.ppy.sh/beatmapsets/1702864#mania/3479387) dikirim oleh ::\1LS\1 akarii::{ user-id=20040064 }
+  18. [tofubeats - CANDYLAND feat. LIZ (Pa's Lam System Remix) (gemboyong) [CandyLand]](https://osu.ppy.sh/beatmapsets/581015#mania/1229992) dikirim oleh ::MrFlinxy::{ user-id=4681744 }
+  19. [Various Artists - Vibro Pack (Alvin69-) [Vibro Star]](https://osu.ppy.sh/beatmapsets/716178#mania/1513156) dikirim oleh ::askL330::{ user-id=30640092 }
+  20. [KANKAN - Boost Anima (fvrex) [Overdrive]](https://osu.ppy.sh/beatmapsets/2238606#mania/4756867) dikirim oleh ::SnakesYxle::{ user-id=22842079 }
+  21. [aran - L.F.O (stupud man) [Phase Shift]](https://osu.ppy.sh/beatmapsets/1375934#mania/3173029) dikirim oleh ::\1yea::{ user-id=20834055 }
+  22. [Amamiya Kokoro - Kyu-kurarin (Antipole) [>w<]](https://osu.ppy.sh/beatmapsets/1935685#mania/4008773) dikirim oleh ::My Angel Chen::{ user-id=24285111 }
+  23. [inoqx - decode (Jhown) [p_q]](https://osu.ppy.sh/beatmapsets/2113952#mania/4438671) dikirim oleh ::shidqidragon::{ user-id=27379902 }
+  24. [umu. - humanly (Raveille) [timing hell?]](https://osu.ppy.sh/beatmapsets/1184226#mania/2468707) dikirim oleh ::Neptunia-chan::{ user-id=11608122 }
+  25. [Various Artists - Dan ~ REFORM ~ Finalmaps ([GB]Thaumiel) [S.S.H. - Intersect Thunderbolt-Remix ~ Eta Speed ~]](https://osu.ppy.sh/beatmapsets/1188968#mania/4490042) dikirim oleh ::\1LS\1Robi::{ user-id=21900872 }
+  26. [You (ft.nayuta) - Dimond Smile (Skorer) [Vibro Expert]](https://osu.ppy.sh/beatmapsets/562354#mania/1188981) dikirim oleh ::AzusaNakano2::{ user-id=9821346 }
+  27. [The Quick Brown Fox - Big Money (Mage) [Shana's Dollar [SC]]](https://osu.ppy.sh/beatmapsets/440508#mania/1009933) dikirim oleh ::lyoneljose::{ user-id=23212300 }
+  28. [Nakanoke no Itsutsugo - Hatsukoi (TV Size) (Savageeeee) [I Love You]](https://osu.ppy.sh/beatmapsets/1996262#mania/4148863) dikirim oleh ::Napeace::{ user-id=30833471 }
+  29. [Trerey-U + NIWASHI - Hisui (ler1211) [Jade]](https://osu.ppy.sh/beatmapsets/2173214#mania/4592599) dikirim oleh ::D\1ana::{ user-id=16240550 }
+  30. [Teminite & MDK - Space Invaders (Cut Ver.) (FelixSpade) [LN Expert // Infringer (OD6.5)]](https://osu.ppy.sh/beatmapsets/2132580#mania/4486045) dikirim oleh ::EterEnvy::{ user-id=13762505 }
+  31. [TUYU - Itsuka Otona ni Nareru to Ii ne. (Emida) [MieAyam!!]](https://osu.ppy.sh/beatmapsets/1783344#mania/3652200) dikirim oleh ::\1 -Asriel- \1::{ user-id=11829623 }
+  32. [Sayuri - Mikazuki (Napur) [EXCLUSIVER]](https://osu.ppy.sh/beatmapsets/542295#mania/1194600) dikirim oleh ::-Aji::{ user-id=10058745 }
+  33. [Nana Mizuki - STARTING NOW! (Niima) [Jumping!]](https://osu.ppy.sh/beatmapsets/515209#mania/1094161) dikirim oleh ::IzKun-::{ user-id=9104881 }
+  34. [Kashii Moimi feat. KAFU - Cat Loving (kageminori bootleg) (Robeats) [I'm more of a dog person tbh]](https://osu.ppy.sh/beatmapsets/2200258#mania/4656541) dikirim oleh ::ZhasK\1667::{ user-id=19541103 }
+  35. [Yukopi - Kyoufuu All Back (P e n g k i) [Weird]](https://osu.ppy.sh/beatmapsets/1983375#mania/4119132) dikirim oleh ::\1-Elaina-\1::{ user-id=12532297 }
+  36. [TUYU - If there was an endpoint. (a? edit) (Anto_) [ade_maine's Challenge 1.1x (154bpm)]](https://osu.ppy.sh/beatmapsets/2174965#mania/4592107) dikirim oleh ::\_Reggie\_::{ user-id=22933961 }
+  37. [cute girls doing cute things - Main Heroine (tentrempm) [Telolet Full Ver.]](https://osu.ppy.sh/beatmapsets/1580768#mania/3231666) dikirim oleh ::tentrempm::{ user-id=8346342 }
+  38. [INHUMAN - AUGMENTED (Catzu) [WAKE UP FROM YOUR DREAM // EXTRA]](https://osu.ppy.sh/beatmapsets/2172853#mania/4586908) dikirim oleh ::Catzu::{ user-id=11330898 }
+  39. [None Like Joshua - Naruto's Ninja Way (0DZ0) [DZ's 1000 Years of Pain]](https://osu.ppy.sh/beatmapsets/1671839#mania/3860117) dikirim oleh ::ARDHANA::{ user-id=29169697 }
+  40. [Lee Jin Ah - Target for Love (DenYi) [Target]](https://osu.ppy.sh/beatmapsets/1664254#mania/3397529) dikirim oleh ::lucknut::{ user-id=19724595 }
+  41. [Sabicas - Carcelera - Reflejo Andaluz (Atsumin) [de_inferno]](https://osu.ppy.sh/beatmapsets/2301291#mania/4918035) dikirim oleh ::Molten Cheese::{ user-id=16824892 }
+  42. [KimuraYP - Kouon Katsuzetsu-chuu Oniki Hayakuchi Test (Hydria) [For The Jumptrill / Blastix Baka]](https://osu.ppy.sh/beatmapsets/1960147#mania/4061965) dikirim oleh ::dogethedoge25::{ user-id=15597315 }
+  43. [DJ Sharpnel feat.Chiroru Ohyama - Can You Say KanColle? (Xingyue) [Lv.XXIII]](https://osu.ppy.sh/beatmapsets/1599881#mania/3267509) dikirim oleh ::TheLegend3RD::{ user-id=14732769 }
+  44. [Silentroom - Shuu no Hazama (Shoegazer) [Rainshower]](https://osu.ppy.sh/beatmapsets/1307803#mania/2843594) dikirim oleh ::spectator\1boi::{ user-id=17400577 }
+  45. [Slax - Too Much Loli (NikoSek) [x1.2]](https://osu.ppy.sh/beatmapsets/1165592#mania/2444465) dikirim oleh ::KafuuChlno::{ user-id=31102647 }
+  46. [gems - Gems Pack 12 - LN Master 4th (gemboyong) [31 - Koxx, A Fool Moon Night]](https://osu.ppy.sh/beatmapsets/518271#mania/1111631) dikirim oleh ::RaffCo::{ user-id=7589503 }
+  47. [Aiobahn feat. KOTOKO - INTERNET YAMERO (shenglinnn) [SA! I! KOU! (YES SV)]](https://osu.ppy.sh/beatmapsets/1958394#mania/4057358) dikirim oleh ::Kyoukary::{ user-id=13403380 }
+  48. [Caravan Palace - Lone Digger (XeoStyle) [Jack Digger]](https://osu.ppy.sh/beatmapsets/537933#mania/1139757) dikirim oleh ::danar mw::{ user-id=13859109 }
+  49. [Ludicin - Onus Regulus (uL-) [Conqueror Of The Universe | 4K Extreme]](https://osu.ppy.sh/beatmapsets/2046363#mania/4271568) dikirim oleh ::beethiven::{ user-id=18560270 }
+  50. [Dion Timmer - Shiawase (VIP) (syaro-) [1.2x]](https://osu.ppy.sh/beatmapsets/2063884#mania/4316770) dikirim oleh ::ImOyZo::{ user-id=14875989 }
+  51. [ZxNX - huggy wuggy (senkhyu) [sv]](https://osu.ppy.sh/beatmapsets/1785865#mania/3658240) dikirim oleh ::FinHazel::{ user-id=13660273 }
+  52. [Laur - Laur chan taiso dai ichi (Kim_GodSSI) [Hardcore Gymnastics]](https://osu.ppy.sh/beatmapsets/1761023#mania/3604249) dikirim oleh ::MzLord::{ user-id=14659672 }
+  53. [Hana - Sakura no Uta (TimBergling) [Berguling uwu]](https://osu.ppy.sh/beatmapsets/575638#mania/1218839) dikirim oleh ::\1 Heez \1::{ user-id=17957861 }
+  54. [Mili - Between Two Worlds (Proxae) [Dunkelheit]](https://osu.ppy.sh/beatmapsets/2013745#mania/4216703) dikirim oleh ::Proxae::{ user-id=8410575 }
+  55. [Mrs. GREEN APPLE - StaRt  (Speed up Ver.) (-Xooti-) [Celebration!]](https://osu.ppy.sh/beatmapsets/1713083#mania/3500381) dikirim oleh ::\1Shiroko\1::{ user-id=21129437 }
+  56. [a crowd of rebellion - Ill (Lyz-) [Goodbye]](https://osu.ppy.sh/beatmapsets/2285764#mania/4875879) dikirim oleh ::Lyz-::{ user-id=9670957 }
+  57. [Creaky Jackals - PLVCK (Flexo123) [Extra]](https://osu.ppy.sh/beatmapsets/409921#mania/889671) dikirim oleh ::DAENGXicisae-::{ user-id=8029883 }
+  58. [Foreground Eclipse - Storytellers (Napur) [EXCLUSIVER]](https://osu.ppy.sh/beatmapsets/565184#mania/1194598) dikirim oleh ::\1-Vanart-\1::{ user-id=34756991 }
+  59. [KARUT 01 - Colorful Mess (Revv-) [bang darevv]](https://osu.ppy.sh/beatmapsets/1495042#mania/3064144) dikirim oleh ::Darrel27::{ user-id=25806849 }
+  60. [Porter Robinson & Madeon - Shelter (Zyph) [4K DUMP]](https://osu.ppy.sh/beatmapsets/524791#mania/1113809) dikirim oleh ::Marcille-::{ user-id=12423717 }
+  61. [Various Artists - Dan ~ REFORM ~ Finalmaps ([GB]Thaumiel) [DJ Myosuke - Collapse of Ego ~ Eta Stamina ~]](https://osu.ppy.sh/beatmapsets/1188968#mania/4490036) dikirim oleh ::Violet-::{ user-id=13274715 }
+  62. [Maroon 5 - Misery (uThot) [Firstmaple8's Hard 1.06x]](https://osu.ppy.sh/beatmapsets/2303330#mania/4923198) dikirim oleh ::uThot::{ user-id=13716503 }
+  63. [BlackY fused with WAiKURO - Alea jacta est! (Animerge) [MASTER]](https://osu.ppy.sh/beatmapsets/990281#mania/2138308) dikirim oleh ::Animerge::{ user-id=6667024 }
+  64. [nokia 6015i - hatsune miku arabic ringtone (Sephira Su) [JUNGKOOK: ding dong call me on my phone]](https://osu.ppy.sh/beatmapsets/1259170#mania/2617474) dikirim oleh ::syamisu-::{ user-id=23484954 }
 - GM3 | **[Unduh mappack babak ini di sini! (856 MB)](https://drive.google.com/file/d/113950ZcV9ZXFariECVb-w8GjqtKyrUgn/view?usp=sharing)**
-  1. [Tobu & Syndec - Dusk (Radio Edit) (Maxim-Miau) [Nostalgia]](https://osu.ppy.sh/beatmapsets/1798162#mania/3686104) dikirim oleh [ocaibo](https://osu.ppy.sh/users/30615609)
-  2. [gingus - dont say "i can sample that" for 24 hours challenge (Promachos) [dont say "i can sv map that" for 24 hours challenge]](https://osu.ppy.sh/beatmapsets/2025428#mania/4219688) dikirim oleh [[ Zenith ]](https://osu.ppy.sh/users/8405046)
-  3. [brains - Housoushitsu (AnatharaX) [FM / Insane]](https://osu.ppy.sh/beatmapsets/2011243#mania/4185086) dikirim oleh [Raeaw](https://osu.ppy.sh/users/27835772)
-  4. [Olivia Rodrigo - Bad Idea right (Lilrag7) [x1.25]](https://osu.ppy.sh/beatmapsets/2191420#mania/4635382) dikirim oleh [MightyTech](https://osu.ppy.sh/users/34454156)
-  5. [Tacitly - Wake Me Up (Zia) [Wake Up x1.1]](https://osu.ppy.sh/beatmapsets/1567616#mania/3200806) dikirim oleh [skadidragen](https://osu.ppy.sh/users/32350370)
-  6. [Ooguni Kanon - Fuuen no 135-byou (Touru0711) [Eternal Flame]](https://osu.ppy.sh/beatmapsets/1877909#mania/3865636) dikirim oleh [-Nandakai-](https://osu.ppy.sh/users/31299157)
-  7. [Rissyuu feat. Choko - Paa ~PaPaPaPaa ver~ (Tidek) [d-_-b]](https://osu.ppy.sh/beatmapsets/1381649#mania/2854762) dikirim oleh [Remuu](https://osu.ppy.sh/users/18777094)
-  8. [pencil - little (girl) goodbye.rah (Elekton) [parting [1.3x Rate]]](https://osu.ppy.sh/beatmapsets/650089#mania/2204533) dikirim oleh [lisachandra](https://osu.ppy.sh/users/26634482)
-  9. [Camellia - AttraqtiA (Orca-) [Spatial Scission]](https://osu.ppy.sh/beatmapsets/1846614#mania/3793332) dikirim oleh [ChocoCoki-](https://osu.ppy.sh/users/3565870)
-  10. [Nanahira - Nanahira singing from the window to a firetrucking van (PianoLuigi) [PRI PRI]](https://osu.ppy.sh/beatmapsets/1234546#mania/2566354) dikirim oleh [Prinow6](https://osu.ppy.sh/users/18658630)
-  11. [Two Door Cinema Club - Undercover Martyn (Cokii-) [Main Streets 1.2x]](https://osu.ppy.sh/beatmapsets/1315153#mania/2725455) dikirim oleh [yeedinobro](https://osu.ppy.sh/users/33683529)
-  12. [Syalis Hime (CV: Minase Inori) - Kaimin! Anmin! Syalist Seikatsu (TV Size) (Aimaina) [Bobo]](https://osu.ppy.sh/beatmapsets/1791606#mania/3671504) dikirim oleh [Aimaina](https://osu.ppy.sh/users/13217193)
-  13. [toby fox - Quiet Water (Maxim-Miau) [Easy]](https://osu.ppy.sh/beatmapsets/1596272#mania/3485740) dikirim oleh [NizT](https://osu.ppy.sh/users/23115247)
-  14. [Hana - Sakura no Uta (Sped Up Ver.) ([HD]Softer64) [The eternal phase, the ending of the poem of Sakura...]](https://osu.ppy.sh/beatmapsets/2122755#mania/4460603) dikirim oleh [KinoJourney](https://osu.ppy.sh/users/15798093)
-  15. [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion (Garalulu) [Koi Koi]](https://osu.ppy.sh/beatmapsets/683691#mania/1446011) dikirim oleh [Tsurumaki_](https://osu.ppy.sh/users/18790026)
-  16. [7_7 feat. kasane vavzed - Yakou (TheFunk) [Deliverance]](https://osu.ppy.sh/beatmapsets/2222887#mania/4713590) dikirim oleh [Az-u](https://osu.ppy.sh/users/15801261)
-  17. [Tsukino - Darling Dance ([Crz]Rachel) [Delusion]](https://osu.ppy.sh/beatmapsets/1451854#mania/2985342) dikirim oleh [[LS] akarii](https://osu.ppy.sh/users/20040064)
-  18. [Shiraishi - Odin (Fullerene-) [VIKINGFJORD]](https://osu.ppy.sh/beatmapsets/352759#mania/777356) dikirim oleh [MrFlinxy](https://osu.ppy.sh/users/4681744)
-  19. [Various Artists - 4k Vibro pack (Staravia) [Machine Gun]](https://osu.ppy.sh/beatmapsets/516441#mania/1108163) dikirim oleh [askL330](https://osu.ppy.sh/users/30640092)
-  20. [Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix) ([GB]V1do) [Blossom]](https://osu.ppy.sh/beatmapsets/2218443#mania/4702309) dikirim oleh [SnakesYxle](https://osu.ppy.sh/users/22842079)
-  21. [DJ SHARPNEL - KLASSIKER EINHEIT (Cut Ver.) (YuEast 2018) [Yasashii / 1.00]](https://osu.ppy.sh/beatmapsets/2242540#mania/4766574) dikirim oleh [_yea](https://osu.ppy.sh/users/20834055)
-  22. [Helblinde - Grief & Malice (FelixSpade) [LN Prodigy (cut) 1.05x (210bpm)]](https://osu.ppy.sh/beatmapsets/1853497#mania/3808592) dikirim oleh [My Angel Chen](https://osu.ppy.sh/users/24285111)
-  23. [Sia - Unstoppable (Envy Frenchcore Remix) (HikariNayo) [1.05x]](https://osu.ppy.sh/beatmapsets/2150367#mania/4530385) dikirim oleh [shidqidragon](https://osu.ppy.sh/users/27379902)
-  24. [Hino Isuka - #be_fortunate (HowToPlayLN) [#be_columnlocked]](https://osu.ppy.sh/beatmapsets/1099229#mania/2296388) dikirim oleh [Neptunia-chan](https://osu.ppy.sh/users/11608122)
-  25. [AAAA - Hoshi no Otoshimono (NKEYBOARD) [Hoshiboard]](https://osu.ppy.sh/beatmapsets/1529391#mania/3128460) dikirim oleh [[LS]Robi](https://osu.ppy.sh/users/21900872)
-  26. [Blend A - Bon Appetit S (Emperor of Time) [4K Star BurSt!!!!!!!!]](https://osu.ppy.sh/beatmapsets/690527#mania/1461414) dikirim oleh [AzusaNakano2](https://osu.ppy.sh/users/9821346)
-  27. [Kaneko Chiharu - Kai Dan (Tofu1222) [Daitatsujin]](https://osu.ppy.sh/beatmapsets/623951#mania/1315053) dikirim oleh [lyoneljose](https://osu.ppy.sh/users/23212300)
-  28. [VIichan - I want to be your lover (Niks) [Koibito]](https://osu.ppy.sh/beatmapsets/2121893#mania/4732089) dikirim oleh [Napeace](https://osu.ppy.sh/users/30833471)
-  29. [sasakure.UK feat. Shirakami Fubuki - KINGWORLD (PORTTAYER) [FubuKING]](https://osu.ppy.sh/beatmapsets/1778490#mania/3643666) dikirim oleh [D_ana](https://osu.ppy.sh/users/16240550)
-  30. [syudou - day by days (Aix-) [advanced]](https://osu.ppy.sh/beatmapsets/1806479#mania/3732432) dikirim oleh [EterEnvy](https://osu.ppy.sh/users/13762505)
-  31. [Ayo - Hanjuuryoku no Machi (ruka) [Levitation]](https://osu.ppy.sh/beatmapsets/850757#mania/1778630) dikirim oleh [[ -Asriel- ]](https://osu.ppy.sh/users/11829623)
-  32. [SiLiS - Hebe (RuleBlazing) [Fountain of Youth]](https://osu.ppy.sh/beatmapsets/2234586#mania/4746375) dikirim oleh [-Aji](https://osu.ppy.sh/users/10058745)
-  33. [Sayuri - Hana no Tou (RushiPettan) [Lily [1,2x Rate]]](https://osu.ppy.sh/beatmapsets/1821572#mania/3801740) dikirim oleh [IzKun-](https://osu.ppy.sh/users/9104881)
-  34. [trinadtsat' karat - davay rasskazhem (ily Frenchcore Remix) (Sped Up Ver.) (keksikosu) [d-_-b]](https://osu.ppy.sh/beatmapsets/2087660#mania/4374753) dikirim oleh [ZhasK_667](https://osu.ppy.sh/users/19541103)
-  35. [Tamura Yukari feat. Motsu - You & Me (eZmmR) [eZmmR's 4K For You]](https://osu.ppy.sh/beatmapsets/1253163#mania/2604386) dikirim oleh [[-Elaina-]](https://osu.ppy.sh/users/12532297)
-  36. [Masaki - Astronomy (HikariNayo) [Kangcm's Challenge 1.15x]](https://osu.ppy.sh/beatmapsets/2009918#mania/4182009) dikirim oleh [\_Reggie\_](https://osu.ppy.sh/users/22933961)
-  37. [Aitsuki Nakuru & A than_Lily - Presenter* (tentrempm) [Syr's coLlectioN]](https://osu.ppy.sh/beatmapsets/1593755#mania/3300001) dikirim oleh [tentrempm](https://osu.ppy.sh/users/8346342)
-  38. [Limpid - HAZARD (Catzu) [/chance(1x?);]](https://osu.ppy.sh/beatmapsets/1891829#mania/3897911) dikirim oleh [Catzu](https://osu.ppy.sh/users/11330898)
-  39. [penoreri - Everlasting Message (ATing) [GRAVITY]](https://osu.ppy.sh/beatmapsets/1469677#mania/3017336) dikirim oleh [ARDHANA](https://osu.ppy.sh/users/29169697)
-  40. [Dj CUTMAN - POP/STARS vs. MEGALOVANIA (PokeSky) [POP/SANS]](https://osu.ppy.sh/beatmapsets/1167660#mania/2436229) dikirim oleh [lucknut](https://osu.ppy.sh/users/19724595)
-  41. [LBDJS - Tari Ubur Ubur (Hendro Engkeng Remix) (Cut Ver) (S1lent-) [Paket Phoenix]](https://osu.ppy.sh/beatmapsets/1491765#mania/3063643) dikirim oleh [Molten Cheese](https://osu.ppy.sh/users/16824892)
-  42. [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Evening) [Giant PaSVic Octopus]](https://osu.ppy.sh/beatmapsets/453985#mania/977744) dikirim oleh [dogethedoge25](https://osu.ppy.sh/users/15597315)
-  43. [DJ Sharpnel - Fuwatanity (11Bit) [K-ON!]](https://osu.ppy.sh/beatmapsets/1395107#mania/2879679) dikirim oleh [TheLegend3RD](https://osu.ppy.sh/users/14732769)
-  44. [Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit (Gekido-) [Tech Shit]](https://osu.ppy.sh/beatmapsets/966210#mania/2022451) dikirim oleh [spectator_boi](https://osu.ppy.sh/users/17400577)
-  45. [goreshit - satori de pon! (Loebad434) [4K MX]](https://osu.ppy.sh/beatmapsets/435015#mania/1026633) dikirim oleh [KafuuChlno](https://osu.ppy.sh/users/31102647)
-  46. [t+pazolite - Garakuta Doll Play (\_S h i r o\_) [4K Challenge]](https://osu.ppy.sh/beatmapsets/451327#mania/968241) dikirim oleh [RaffCo](https://osu.ppy.sh/users/7589503)
-  47. [Porter Robinson & Madeon - Shelter (towakane) [Allein Quad 1.2]](https://osu.ppy.sh/beatmapsets/1490961#mania/3056264) dikirim oleh [Kyoukary](https://osu.ppy.sh/users/13403380)
-  48. [Nakiri Ayame - Good-bye sengen (LuxSayaka) [Ojou]](https://osu.ppy.sh/beatmapsets/1603078#mania/3273717) dikirim oleh [danar mw](https://osu.ppy.sh/users/13859109)
-  49. [Remo Prototype (CV: Hanamori Yumiri) - Sendan Life (katagiri Bootleg) (LaoXiao-) [Chord Life [135]]](https://osu.ppy.sh/beatmapsets/1170842#mania/2442473) dikirim oleh [beethiven](https://osu.ppy.sh/users/18560270)
-  50. HoneyWorks feat.Kotoha - Ai ni Deai Koi wa Tsuzuku (SMOCMouse) \[SMOCMouse \[Chordjack\] 1.6x (320bpm) OD8\] dikirim oleh [ImOyZo](https://osu.ppy.sh/users/14875989)
-  51. [Chroma feat. mikanzil - Koi no Kuuchuu Bunkai (AlexDunk) [bittersweet love.]](https://osu.ppy.sh/beatmapsets/2014990#mania/4193642) dikirim oleh [FinHazel](https://osu.ppy.sh/users/13660273)
-  52. [Yoshida Yasei feat. Kasane Teto - Override (Bacon Haniwa) [pasta]](https://osu.ppy.sh/beatmapsets/2105074#mania/4417022) dikirim oleh [MzLord](https://osu.ppy.sh/users/14659672)
-  53. [Pastel*Palettes - Zettai Sengen ~Recital~ (cryochan) [Trick or Escape!]](https://osu.ppy.sh/beatmapsets/1052116#mania/2198742) dikirim oleh [[ Heez ]](https://osu.ppy.sh/users/17957861)
-  54. [Pastry - Goblin Girl (Lolicide) [Another]](https://osu.ppy.sh/beatmapsets/863534#mania/1806257) dikirim oleh [Proxae](https://osu.ppy.sh/users/8410575)
-  55. [DECO*27 x PinocchioP - (Not) A Devil feat. Hatsune Miku (Castella) [TIMING HELL]](https://osu.ppy.sh/beatmapsets/2060823#mania/4307929) dikirim oleh [[Shiroko]](https://osu.ppy.sh/users/21129437)
-  56. [KIIXSHI&phonk.me - GHOST (Remix) (Lyz-) [RAGE]](https://osu.ppy.sh/beatmapsets/2265145#mania/4822375) dikirim oleh [Lyz-](https://osu.ppy.sh/users/9670957)
-  57. [Cillia - FIRST (XII-) [Hymn's Of Cillia]](https://osu.ppy.sh/beatmapsets/2215079#mania/4710751) dikirim oleh [DAENGXicisae-](https://osu.ppy.sh/users/8029883)
-  58. [lapix - Artificial Human (Sarahkuai) [Singularity]](https://osu.ppy.sh/beatmapsets/2074540#mania/4342417) dikirim oleh [[-Vanart-]](https://osu.ppy.sh/users/34756991)
-  59. [Remo Prototype (CV: Hanamori Yumiri) - Sendan Life (katagiri Bootleg) (LaoXiao-) [Chord Life [170]]](https://osu.ppy.sh/beatmapsets/1170842#mania/3328353) dikirim oleh [Darrel27](https://osu.ppy.sh/users/25806849)
-  60. [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (short ver.) (Draftnell) [Hoi !!!!]](https://osu.ppy.sh/beatmapsets/568962#mania/1206254) dikirim oleh [Marcille-](https://osu.ppy.sh/users/12423717)
-  61. [Hylen - Minerva ([Crz]Crysarlene) [Ravenheart]](https://osu.ppy.sh/beatmapsets/2044392#mania/4266970) dikirim oleh [Violet-](https://osu.ppy.sh/users/13274715)
-  62. [The Veronicas - Untouched (lmao) [Challenge]](https://osu.ppy.sh/beatmapsets/786343#mania/1650706) dikirim oleh [uThot](https://osu.ppy.sh/users/13716503)
-  63. [Hoshina Megumi - Star Trip (Short Ver.) (Muse Dash) [Madoka's Starlight]](https://osu.ppy.sh/beatmapsets/1247923#mania/2749961) dikirim oleh [Animerge](https://osu.ppy.sh/users/6667024)
-  64. [syamisu - Neoteric Metropolis (syamisu-) [Revolutionary]](https://osu.ppy.sh/beatmapsets/2304467#mania/4926291) dikirim oleh [syamisu-](https://osu.ppy.sh/users/23484954)
+  1. [Tobu & Syndec - Dusk (Radio Edit) (Maxim-Miau) [Nostalgia]](https://osu.ppy.sh/beatmapsets/1798162#mania/3686104) dikirim oleh ::ocaibo::{ user-id=30615609 }
+  2. [gingus - dont say "i can sample that" for 24 hours challenge (Promachos) [dont say "i can sv map that" for 24 hours challenge]](https://osu.ppy.sh/beatmapsets/2025428#mania/4219688) dikirim oleh ::\1 Zenith \1::{ user-id=8405046 }
+  3. [brains - Housoushitsu (AnatharaX) [FM / Insane]](https://osu.ppy.sh/beatmapsets/2011243#mania/4185086) dikirim oleh ::Raeaw::{ user-id=27835772 }
+  4. [Olivia Rodrigo - Bad Idea right (Lilrag7) [x1.25]](https://osu.ppy.sh/beatmapsets/2191420#mania/4635382) dikirim oleh ::MightyTech::{ user-id=34454156 }
+  5. [Tacitly - Wake Me Up (Zia) [Wake Up x1.1]](https://osu.ppy.sh/beatmapsets/1567616#mania/3200806) dikirim oleh ::skadidragen::{ user-id=32350370 }
+  6. [Ooguni Kanon - Fuuen no 135-byou (Touru0711) [Eternal Flame]](https://osu.ppy.sh/beatmapsets/1877909#mania/3865636) dikirim oleh ::-Nandakai-::{ user-id=31299157 }
+  7. [Rissyuu feat. Choko - Paa ~PaPaPaPaa ver~ (Tidek) [d-_-b]](https://osu.ppy.sh/beatmapsets/1381649#mania/2854762) dikirim oleh ::Remuu::{ user-id=18777094 }
+  8. [pencil - little (girl) goodbye.rah (Elekton) [parting [1.3x Rate]]](https://osu.ppy.sh/beatmapsets/650089#mania/2204533) dikirim oleh ::lisachandra::{ user-id=26634482 }
+  9. [Camellia - AttraqtiA (Orca-) [Spatial Scission]](https://osu.ppy.sh/beatmapsets/1846614#mania/3793332) dikirim oleh ::ChocoCoki-::{ user-id=3565870 }
+  10. [Nanahira - Nanahira singing from the window to a firetrucking van (PianoLuigi) [PRI PRI]](https://osu.ppy.sh/beatmapsets/1234546#mania/2566354) dikirim oleh ::Prinow6::{ user-id=18658630 }
+  11. [Two Door Cinema Club - Undercover Martyn (Cokii-) [Main Streets 1.2x]](https://osu.ppy.sh/beatmapsets/1315153#mania/2725455) dikirim oleh ::yeedinobro::{ user-id=33683529 }
+  12. [Syalis Hime (CV: Minase Inori) - Kaimin! Anmin! Syalist Seikatsu (TV Size) (Aimaina) [Bobo]](https://osu.ppy.sh/beatmapsets/1791606#mania/3671504) dikirim oleh ::Aimaina::{ user-id=13217193 }
+  13. [toby fox - Quiet Water (Maxim-Miau) [Easy]](https://osu.ppy.sh/beatmapsets/1596272#mania/3485740) dikirim oleh ::NizT::{ user-id=23115247 }
+  14. [Hana - Sakura no Uta (Sped Up Ver.) ([HD]Softer64) [The eternal phase, the ending of the poem of Sakura...]](https://osu.ppy.sh/beatmapsets/2122755#mania/4460603) dikirim oleh ::KinoJourney::{ user-id=15798093 }
+  15. [Sara - Ren Ren Ai Ai Cir Cir Cula Cula Tion Tion (Garalulu) [Koi Koi]](https://osu.ppy.sh/beatmapsets/683691#mania/1446011) dikirim oleh ::Tsurumaki\1::{ user-id=18790026 }
+  16. [7_7 feat. kasane vavzed - Yakou (TheFunk) [Deliverance]](https://osu.ppy.sh/beatmapsets/2222887#mania/4713590) dikirim oleh ::Az-u::{ user-id=15801261 }
+  17. [Tsukino - Darling Dance ([Crz]Rachel) [Delusion]](https://osu.ppy.sh/beatmapsets/1451854#mania/2985342) dikirim oleh ::\1LS\1 akarii::{ user-id=20040064 }
+  18. [Shiraishi - Odin (Fullerene-) [VIKINGFJORD]](https://osu.ppy.sh/beatmapsets/352759#mania/777356) dikirim oleh ::MrFlinxy::{ user-id=4681744 }
+  19. [Various Artists - 4k Vibro pack (Staravia) [Machine Gun]](https://osu.ppy.sh/beatmapsets/516441#mania/1108163) dikirim oleh ::askL330::{ user-id=30640092 }
+  20. [Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix) ([GB]V1do) [Blossom]](https://osu.ppy.sh/beatmapsets/2218443#mania/4702309) dikirim oleh ::SnakesYxle::{ user-id=22842079 }
+  21. [DJ SHARPNEL - KLASSIKER EINHEIT (Cut Ver.) (YuEast 2018) [Yasashii / 1.00]](https://osu.ppy.sh/beatmapsets/2242540#mania/4766574) dikirim oleh ::\1yea::{ user-id=20834055 }
+  22. [Helblinde - Grief & Malice (FelixSpade) [LN Prodigy (cut) 1.05x (210bpm)]](https://osu.ppy.sh/beatmapsets/1853497#mania/3808592) dikirim oleh ::My Angel Chen::{ user-id=24285111 }
+  23. [Sia - Unstoppable (Envy Frenchcore Remix) (HikariNayo) [1.05x]](https://osu.ppy.sh/beatmapsets/2150367#mania/4530385) dikirim oleh ::shidqidragon::{ user-id=27379902 }
+  24. [Hino Isuka - #be_fortunate (HowToPlayLN) [#be_columnlocked]](https://osu.ppy.sh/beatmapsets/1099229#mania/2296388) dikirim oleh ::Neptunia-chan::{ user-id=11608122 }
+  25. [AAAA - Hoshi no Otoshimono (NKEYBOARD) [Hoshiboard]](https://osu.ppy.sh/beatmapsets/1529391#mania/3128460) dikirim oleh ::\1LS\1Robi::{ user-id=21900872 }
+  26. [Blend A - Bon Appetit S (Emperor of Time) [4K Star BurSt!!!!!!!!]](https://osu.ppy.sh/beatmapsets/690527#mania/1461414) dikirim oleh ::AzusaNakano2::{ user-id=9821346 }
+  27. [Kaneko Chiharu - Kai Dan (Tofu1222) [Daitatsujin]](https://osu.ppy.sh/beatmapsets/623951#mania/1315053) dikirim oleh ::lyoneljose::{ user-id=23212300 }
+  28. [VIichan - I want to be your lover (Niks) [Koibito]](https://osu.ppy.sh/beatmapsets/2121893#mania/4732089) dikirim oleh ::Napeace::{ user-id=30833471 }
+  29. [sasakure.UK feat. Shirakami Fubuki - KINGWORLD (PORTTAYER) [FubuKING]](https://osu.ppy.sh/beatmapsets/1778490#mania/3643666) dikirim oleh ::D\1ana::{ user-id=16240550 }
+  30. [syudou - day by days (Aix-) [advanced]](https://osu.ppy.sh/beatmapsets/1806479#mania/3732432) dikirim oleh ::EterEnvy::{ user-id=13762505 }
+  31. [Ayo - Hanjuuryoku no Machi (ruka) [Levitation]](https://osu.ppy.sh/beatmapsets/850757#mania/1778630) dikirim oleh ::\1 -Asriel- \1::{ user-id=11829623 }
+  32. [SiLiS - Hebe (RuleBlazing) [Fountain of Youth]](https://osu.ppy.sh/beatmapsets/2234586#mania/4746375) dikirim oleh ::-Aji::{ user-id=10058745 }
+  33. [Sayuri - Hana no Tou (RushiPettan) [Lily [1,2x Rate]]](https://osu.ppy.sh/beatmapsets/1821572#mania/3801740) dikirim oleh ::IzKun-::{ user-id=9104881 }
+  34. [trinadtsat' karat - davay rasskazhem (ily Frenchcore Remix) (Sped Up Ver.) (keksikosu) [d-_-b]](https://osu.ppy.sh/beatmapsets/2087660#mania/4374753) dikirim oleh ::ZhasK\1667::{ user-id=19541103 }
+  35. [Tamura Yukari feat. Motsu - You & Me (eZmmR) [eZmmR's 4K For You]](https://osu.ppy.sh/beatmapsets/1253163#mania/2604386) dikirim oleh ::\1-Elaina-\1::{ user-id=12532297 }
+  36. [Masaki - Astronomy (HikariNayo) [Kangcm's Challenge 1.15x]](https://osu.ppy.sh/beatmapsets/2009918#mania/4182009) dikirim oleh ::\_Reggie\_::{ user-id=22933961 }
+  37. [Aitsuki Nakuru & A than_Lily - Presenter* (tentrempm) [Syr's coLlectioN]](https://osu.ppy.sh/beatmapsets/1593755#mania/3300001) dikirim oleh ::tentrempm::{ user-id=8346342 }
+  38. [Limpid - HAZARD (Catzu) [/chance(1x?);]](https://osu.ppy.sh/beatmapsets/1891829#mania/3897911) dikirim oleh ::Catzu::{ user-id=11330898 }
+  39. [penoreri - Everlasting Message (ATing) [GRAVITY]](https://osu.ppy.sh/beatmapsets/1469677#mania/3017336) dikirim oleh ::ARDHANA::{ user-id=29169697 }
+  40. [Dj CUTMAN - POP/STARS vs. MEGALOVANIA (PokeSky) [POP/SANS]](https://osu.ppy.sh/beatmapsets/1167660#mania/2436229) dikirim oleh ::lucknut::{ user-id=19724595 }
+  41. [LBDJS - Tari Ubur Ubur (Hendro Engkeng Remix) (Cut Ver) (S1lent-) [Paket Phoenix]](https://osu.ppy.sh/beatmapsets/1491765#mania/3063643) dikirim oleh ::Molten Cheese::{ user-id=16824892 }
+  42. [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Evening) [Giant PaSVic Octopus]](https://osu.ppy.sh/beatmapsets/453985#mania/977744) dikirim oleh ::dogethedoge25::{ user-id=15597315 }
+  43. [DJ Sharpnel - Fuwatanity (11Bit) [K-ON!]](https://osu.ppy.sh/beatmapsets/1395107#mania/2879679) dikirim oleh ::TheLegend3RD::{ user-id=14732769 }
+  44. [Virus Syndicate & Virtual Riot & Dion Timmer - Gang Shit (Gekido-) [Tech Shit]](https://osu.ppy.sh/beatmapsets/966210#mania/2022451) dikirim oleh ::spectator\1boi::{ user-id=17400577 }
+  45. [goreshit - satori de pon! (Loebad434) [4K MX]](https://osu.ppy.sh/beatmapsets/435015#mania/1026633) dikirim oleh ::KafuuChlno::{ user-id=31102647 }
+  46. [t+pazolite - Garakuta Doll Play (\_S h i r o\_) [4K Challenge]](https://osu.ppy.sh/beatmapsets/451327#mania/968241) dikirim oleh ::RaffCo::{ user-id=7589503 }
+  47. [Porter Robinson & Madeon - Shelter (towakane) [Allein Quad 1.2]](https://osu.ppy.sh/beatmapsets/1490961#mania/3056264) dikirim oleh ::Kyoukary::{ user-id=13403380 }
+  48. [Nakiri Ayame - Good-bye sengen (LuxSayaka) [Ojou]](https://osu.ppy.sh/beatmapsets/1603078#mania/3273717) dikirim oleh ::danar mw::{ user-id=13859109 }
+  49. [Remo Prototype (CV: Hanamori Yumiri) - Sendan Life (katagiri Bootleg) (LaoXiao-) [Chord Life [135]]](https://osu.ppy.sh/beatmapsets/1170842#mania/2442473) dikirim oleh ::beethiven::{ user-id=18560270 }
+  50. HoneyWorks feat.Kotoha - Ai ni Deai Koi wa Tsuzuku (SMOCMouse) \[SMOCMouse \[Chordjack\] 1.6x (320bpm) OD8\] dikirim oleh ::ImOyZo::{ user-id=14875989 }
+  51. [Chroma feat. mikanzil - Koi no Kuuchuu Bunkai (AlexDunk) [bittersweet love.]](https://osu.ppy.sh/beatmapsets/2014990#mania/4193642) dikirim oleh ::FinHazel::{ user-id=13660273 }
+  52. [Yoshida Yasei feat. Kasane Teto - Override (Bacon Haniwa) [pasta]](https://osu.ppy.sh/beatmapsets/2105074#mania/4417022) dikirim oleh ::MzLord::{ user-id=14659672 }
+  53. [Pastel*Palettes - Zettai Sengen ~Recital~ (cryochan) [Trick or Escape!]](https://osu.ppy.sh/beatmapsets/1052116#mania/2198742) dikirim oleh ::\1 Heez \1::{ user-id=17957861 }
+  54. [Pastry - Goblin Girl (Lolicide) [Another]](https://osu.ppy.sh/beatmapsets/863534#mania/1806257) dikirim oleh ::Proxae::{ user-id=8410575 }
+  55. [DECO*27 x PinocchioP - (Not) A Devil feat. Hatsune Miku (Castella) [TIMING HELL]](https://osu.ppy.sh/beatmapsets/2060823#mania/4307929) dikirim oleh ::\1Shiroko\1::{ user-id=21129437 }
+  56. [KIIXSHI&phonk.me - GHOST (Remix) (Lyz-) [RAGE]](https://osu.ppy.sh/beatmapsets/2265145#mania/4822375) dikirim oleh ::Lyz-::{ user-id=9670957 }
+  57. [Cillia - FIRST (XII-) [Hymn's Of Cillia]](https://osu.ppy.sh/beatmapsets/2215079#mania/4710751) dikirim oleh ::DAENGXicisae-::{ user-id=8029883 }
+  58. [lapix - Artificial Human (Sarahkuai) [Singularity]](https://osu.ppy.sh/beatmapsets/2074540#mania/4342417) dikirim oleh ::\1-Vanart-\1::{ user-id=34756991 }
+  59. [Remo Prototype (CV: Hanamori Yumiri) - Sendan Life (katagiri Bootleg) (LaoXiao-) [Chord Life [170]]](https://osu.ppy.sh/beatmapsets/1170842#mania/3328353) dikirim oleh ::Darrel27::{ user-id=25806849 }
+  60. [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (short ver.) (Draftnell) [Hoi !!!!]](https://osu.ppy.sh/beatmapsets/568962#mania/1206254) dikirim oleh ::Marcille-::{ user-id=12423717 }
+  61. [Hylen - Minerva ([Crz]Crysarlene) [Ravenheart]](https://osu.ppy.sh/beatmapsets/2044392#mania/4266970) dikirim oleh ::Violet-::{ user-id=13274715 }
+  62. [The Veronicas - Untouched (lmao) [Challenge]](https://osu.ppy.sh/beatmapsets/786343#mania/1650706) dikirim oleh ::uThot::{ user-id=13716503 }
+  63. [Hoshina Megumi - Star Trip (Short Ver.) (Muse Dash) [Madoka's Starlight]](https://osu.ppy.sh/beatmapsets/1247923#mania/2749961) dikirim oleh ::Animerge::{ user-id=6667024 }
+  64. [syamisu - Neoteric Metropolis (syamisu-) [Revolutionary]](https://osu.ppy.sh/beatmapsets/2304467#mania/4926291) dikirim oleh ::syamisu-::{ user-id=23484954 }
 - GM4 | **[Unduh mappack babak ini di sini! (658 MB)](https://drive.google.com/file/d/1kJuzGIQ9w5aKa9aswgolfOLEEGR1YAsO/view?usp=sharing)**
-  1. [DVRST - Close Eyes (Plutes) [Danger]](https://osu.ppy.sh/beatmapsets/1603090#mania/3273735) dikirim oleh [ocaibo](https://osu.ppy.sh/users/30615609)
-  2. [Kolaa & Mestie - Digibuprofen (Paturages) [Lauren]](https://osu.ppy.sh/beatmapsets/2062256#mania/4311995) dikirim oleh [[ Zenith ]](https://osu.ppy.sh/users/8405046)
-  3. [SHIKI - Rose Quartz (Bulanzel) [Dumpstream x1.15]](https://osu.ppy.sh/beatmapsets/2170297#mania/4580277) dikirim oleh [Raeaw](https://osu.ppy.sh/users/27835772)
-  4. [a_hisa - Anhedonia (Jhown) [x1.05]](https://osu.ppy.sh/beatmapsets/1567138#mania/4304650) dikirim oleh [MightyTech](https://osu.ppy.sh/users/34454156)
-  5. [Sakuzyo - Distorted Fate ([Crz]Crysarlene) [Elysian]](https://osu.ppy.sh/beatmapsets/2040444#mania/4256508) dikirim oleh [skadidragen](https://osu.ppy.sh/users/32350370)
-  6. [CK - Nirv lucE (Crisper) [End]](https://osu.ppy.sh/beatmapsets/1768392#mania/4230764) dikirim oleh [-Nandakai-](https://osu.ppy.sh/users/31299157)
-  7. [Carinho - Caipirinha (IOSYS Remix) (Jarodpog) [Stage 1: Nico Nico 2008]](https://osu.ppy.sh/beatmapsets/2071884#mania/4335675) dikirim oleh [Remuu](https://osu.ppy.sh/users/18777094)
-  8. [Yorushika - Shikaki to Coffee (FelixSpade) [composer 1.4x (252bpm)]](https://osu.ppy.sh/beatmapsets/1248279#mania/3061601) dikirim oleh [lisachandra](https://osu.ppy.sh/users/26634482)
-  9. [Nanahoshi Kangengakudan - No.39 (juankristal) [t!m!ng h#ll]](https://osu.ppy.sh/beatmapsets/1846256#mania/3792661) dikirim oleh [ChocoCoki-](https://osu.ppy.sh/users/3565870)
-  10. [SickStrophe - Pop Up Tha Bass (Cokiiplay) [Jump]](https://osu.ppy.sh/beatmapsets/615707#mania/1298710) dikirim oleh [Prinow6](https://osu.ppy.sh/users/18658630)
-  11. [StudioEIM - Crescent Moon Island (Shoegazer) [Kuro]](https://osu.ppy.sh/beatmapsets/547451#mania/3262554) dikirim oleh [yeedinobro](https://osu.ppy.sh/users/33683529)
-  12. [BlackY feat. Risa Yuzuki - SHION -sublimation mix- (Aimaina) [Memory]](https://osu.ppy.sh/beatmapsets/1744266#mania/3566539) dikirim oleh [Aimaina](https://osu.ppy.sh/users/13217193)
-  13. [R3 Music Box - FREEDOM DiVE (-XxbluezaperxX-) [CLASSiCAL DiMENSiON]](https://osu.ppy.sh/beatmapsets/1786568#mania/3659745) dikirim oleh [NizT](https://osu.ppy.sh/users/23115247)
-  14. [SICK HACK - Watashi Dake Yuurei (eZmmR) [Prostitute]](https://osu.ppy.sh/beatmapsets/1982486#mania/4117168) dikirim oleh [KinoJourney](https://osu.ppy.sh/users/15798093)
-  15. [SickStrophe - Pop Up Tha Bass (Cokiiplay) [Jump]](https://osu.ppy.sh/beatmapsets/615707#mania/1298710) dikirim oleh [Tsurumaki_](https://osu.ppy.sh/users/18790026)
-  16. [Reizoko Cj - Happy Arnold=) (hi19hi19) [Nice To Meet You=)]](https://osu.ppy.sh/beatmapsets/2040243#mania/4256058) dikirim oleh [Az-u](https://osu.ppy.sh/users/15801261)
-  17. [Various Artists - LTD Pack (LTD) [Camellia - BRACE FOR FRICKING IMPACT]](https://osu.ppy.sh/beatmapsets/1206088#mania/3032790) dikirim oleh [[LS] akarii](https://osu.ppy.sh/users/20040064)
-  18. [S-C-U feat. Qrispy Joybox - anemone (Julie) [4K Beginner]](https://osu.ppy.sh/beatmapsets/283841#mania/645315) dikirim oleh [MrFlinxy](https://osu.ppy.sh/users/4681744)
-  19. [skibidi toilet - skibidi toilet vibro (blehhhe) [185 bpm SKIBIDI]](https://osu.ppy.sh/beatmapsets/2173212#mania/4587767) dikirim oleh [askL330](https://osu.ppy.sh/users/30640092)
-  20. [Lime - Campanella ([Crz]Crysarlene) [Soothingness]](https://osu.ppy.sh/beatmapsets/2250145#mania/4785256) dikirim oleh [SnakesYxle](https://osu.ppy.sh/users/22842079)
-  21. [Mitsukiyo & Lee Jin Ah - Target For Love (Ludicin's Hardcore Bootleg) (Baconway) [Trayblank's Always with Me]](https://osu.ppy.sh/beatmapsets/2220208#mania/4706293) dikirim oleh [_yea](https://osu.ppy.sh/users/20834055)
-  22. [DJ Raisei & RYOQUCHA - HiTECH Shotgun - Haitekku shokunin no asa wa hayai (Cut Ver.) (My Angel Chen) [Reaching Out Into Other World]](https://osu.ppy.sh/beatmapsets/2224225#mania/4717146) dikirim oleh [My Angel Chen](https://osu.ppy.sh/users/24285111)
-  23. [ZERATch - tp na ame (Jhown) [x1.1]](https://osu.ppy.sh/beatmapsets/2130163#mania/4479370) dikirim oleh [shidqidragon](https://osu.ppy.sh/users/27379902)
-  24. [knot - cold planet (Kamikaze) [Everybody Dance!]](https://osu.ppy.sh/beatmapsets/793200#mania/1665871) dikirim oleh [Neptunia-chan](https://osu.ppy.sh/users/11608122)
-  25. [*namirin - Kanzen Shouri*Esper Girl (Tailsdk) [Ash's Normal]](https://osu.ppy.sh/beatmapsets/1004416#mania/2102419) dikirim oleh [[LS]Robi](https://osu.ppy.sh/users/21900872)
-  26. [Sadohara Kaori - Day to Story (TV Size) (masdafugh) [legendary keyboard]](https://osu.ppy.sh/beatmapsets/631139#mania/1332442) dikirim oleh [AzusaNakano2](https://osu.ppy.sh/users/9821346)
-  27. [t+pazolite - Party in the HOLLOWood feat. Nanahira (HOLLOWeen Sitchaka Metchaka Remix) (_Asha) [Party]](https://osu.ppy.sh/beatmapsets/1027900#mania/2149349) dikirim oleh [lyoneljose](https://osu.ppy.sh/users/23212300)
-  28. [Asaka - The Sunshower (TV Size) (Yui Funami) [Apol's Hard]](https://osu.ppy.sh/beatmapsets/1837038#mania/3783891) dikirim oleh [Napeace](https://osu.ppy.sh/users/30833471)
-  29. [paraoka - L9 (Jesuren) [4K Daydream]](https://osu.ppy.sh/beatmapsets/1565681#mania/3197091) dikirim oleh [D_ana](https://osu.ppy.sh/users/16240550)
-  30. [JOYRYDE - ON FIRE (RandomeLoL) [EMBER [INSANE]]](https://osu.ppy.sh/beatmapsets/1843271#mania/3808274) dikirim oleh [EterEnvy](https://osu.ppy.sh/users/13762505)
-  31. [Hana - MAJICK (TimBergling) [Berguling Style]](https://osu.ppy.sh/beatmapsets/674133#mania/1426506) dikirim oleh [[ -Asriel- ]](https://osu.ppy.sh/users/11829623)
-  32. [Foreground Eclipse - Storytellers (Napur) [EXCLUSIVER]](https://osu.ppy.sh/beatmapsets/565184#mania/1194598) dikirim oleh [-Aji](https://osu.ppy.sh/users/10058745)
-  33. [Shirakami Fubuki - Say! Fanfare! (Castella) [Yummy~ ^^ [1.2x Rate]]](https://osu.ppy.sh/beatmapsets/1610722#mania/3288692) dikirim oleh [IzKun-](https://osu.ppy.sh/users/9104881)
-  34. [ZERATch - tp na ame (keksikosu) [krip kripochek]](https://osu.ppy.sh/beatmapsets/2004998#mania/4169817) dikirim oleh [ZhasK_667](https://osu.ppy.sh/users/19541103)
-  35. [JUNKOSI - Faruzan Theme (JUNKOSI Remix) ([-Elaina-]) [Cat Faruzan]](https://osu.ppy.sh/beatmapsets/2248726#mania/4781641) dikirim oleh [[-Elaina-]](https://osu.ppy.sh/users/12532297)
-  36. [KORDHELL - Dat Phonk (Smokydoh) [GET DOWN [1.15]]](https://osu.ppy.sh/beatmapsets/1964340#mania/4072973) dikirim oleh [\_Reggie\_](https://osu.ppy.sh/users/22933961)
-  37. [CS4W - Guilty Hostage (tentrempm) [Nightmare (edit)]](https://osu.ppy.sh/beatmapsets/1922730#mania/4762359) dikirim oleh [tentrempm](https://osu.ppy.sh/users/8346342)
-  38. [glaive - astrid (Catzu) [celestial // expert]](https://osu.ppy.sh/beatmapsets/2282933#mania/4868160) dikirim oleh [Catzu](https://osu.ppy.sh/users/11330898)
-  39. [rintaro soma - Tsunagite (cherrychou) [Connection]](https://osu.ppy.sh/beatmapsets/2142326#mania/4509456) dikirim oleh [ARDHANA](https://osu.ppy.sh/users/29169697)
-  40. [Yakushi Ruri - Gaman Dekinai no, Iwasete!! (1545940348) [Okaeri, Onii-chan]](https://osu.ppy.sh/beatmapsets/2010972#mania/4184570) dikirim oleh [lucknut](https://osu.ppy.sh/users/19724595)
-  41. [The Verkkars - Flashbang dance (feat. n0thing) (Subtlr) [Prepare your Stance!]](https://osu.ppy.sh/beatmapsets/1828408#mania/3752581) dikirim oleh [Molten Cheese](https://osu.ppy.sh/users/16824892)
-  42. [TK from Ling tosite sigure - unravel (Shoegazer) [escapist 1.05x (142bpm)]](https://osu.ppy.sh/beatmapsets/463971#mania/3090617) dikirim oleh [dogethedoge25](https://osu.ppy.sh/users/15597315)
-  43. [S3RL - MTC (-mcfly- REMIX - 2015) (arcwinolivirus) [4K 'Delusional Lust' Arc]](https://osu.ppy.sh/beatmapsets/1001020#mania/2095243) dikirim oleh [TheLegend3RD](https://osu.ppy.sh/users/14732769)
-  44. [Various Artists - Technical Complexes Vol. 1 ([Crz]hinako1804) [#1f1e33 [cherrychou]]](https://osu.ppy.sh/beatmapsets/1240175#mania/2578347) dikirim oleh [spectator_boi](https://osu.ppy.sh/users/17400577)
-  45. [Yumiella Dolkness (CV: Fairuz Ai), Eleanora Hillrose (CV: Hidaka Rina) - Suki ga Levechi (TV Size) (Drum-Hitnormal) [CS' Lv 99]](https://osu.ppy.sh/beatmapsets/2123381#mania/4489268) dikirim oleh [KafuuChlno](https://osu.ppy.sh/users/31102647)
-  46. [ROSE BRAND - Tepung Beras Rose Brand (fengky232) [Engky232]](https://osu.ppy.sh/beatmapsets/1149536#mania/2399870) dikirim oleh [RaffCo](https://osu.ppy.sh/users/7589503)
-  47. [Cream puff - Mermaid girl (STARLiGHT Mix) (Xingyue -) [Mermaid  x0.95]](https://osu.ppy.sh/beatmapsets/969998#mania/2029276) dikirim oleh [Kyoukary](https://osu.ppy.sh/users/13403380)
-  48. [Gigabanana x Yasuo feat. Kagamine Rin, Kagamine Len - Electric Angel ([13] BECK) [4K SC]](https://osu.ppy.sh/beatmapsets/161707#mania/417649) dikirim oleh [danar mw](https://osu.ppy.sh/users/13859109)
-  49. [Various Arists - Vibro Pack (QbaDoo) [Swan's gabe power]](https://osu.ppy.sh/beatmapsets/540573#mania/1146279) dikirim oleh [beethiven](https://osu.ppy.sh/users/18560270)
-  50. [Various Artists - Wombo Combo (CamiloGamerxD) [Challenge 1.2x]](https://osu.ppy.sh/beatmapsets/1526138#mania/3122316) dikirim oleh [ImOyZo](https://osu.ppy.sh/users/14875989)
-  51. [Hirose Kohmi - promise (Player0) [Get Down]](https://osu.ppy.sh/beatmapsets/1484343#mania/3044144) dikirim oleh [FinHazel](https://osu.ppy.sh/users/13660273)
-  52. [Yooh - Seraphim (Long Ver.) (Begin) [LN Angel]](https://osu.ppy.sh/beatmapsets/2063023#mania/4314630) dikirim oleh [MzLord](https://osu.ppy.sh/users/14659672)
-  53. [Various Artists - Rhythm Heaven Selection (Applequestria) [Coin Toss]](https://osu.ppy.sh/beatmapsets/724021#mania/1528754) dikirim oleh [[ Heez ]](https://osu.ppy.sh/users/17957861)
-  54. [sakuzyo - Fracture Ray (longnguyen2004) [Future+ \SV/]](https://osu.ppy.sh/beatmapsets/901825#mania/1882932) dikirim oleh [Proxae](https://osu.ppy.sh/users/8410575)
-  55. [Yorushika - Yuunagi, Bou, Hana Madoi (Zembonics) [Nightbloom]](https://osu.ppy.sh/beatmapsets/1996257#mania/4148847) dikirim oleh [[Shiroko]](https://osu.ppy.sh/users/21129437)
-  56. [Excision & Pegboard Nerds - Bring The Madness (Noisestorm Nightcore Remix) (Lyz-) [Madness]](https://osu.ppy.sh/beatmapsets/1064322#mania/2228402) dikirim oleh [Lyz-](https://osu.ppy.sh/users/9670957)
-  57. [Giga-P - BRING IT ON (Axy) [BRING THE LNS ON]](https://osu.ppy.sh/beatmapsets/1320732#mania/2736010) dikirim oleh [DAENGXicisae-](https://osu.ppy.sh/users/8029883)
-  58. [yanaginagi - Megumi no Ame (TV Size) (Savageeeee) [Normal]](https://osu.ppy.sh/beatmapsets/1767320#mania/3617630) dikirim oleh [[-Vanart-]](https://osu.ppy.sh/users/34756991)
-  59. [phonon - polyriddim (HowToPlayLN) [brrrrrrrrrrrrrr]](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806) dikirim oleh [Darrel27](https://osu.ppy.sh/users/25806849)
-  60. [Rehan - Rehan Wangsaf ([Kaori]Miyazono) [BOGOR]](https://osu.ppy.sh/beatmapsets/1658730#mania/3385821) dikirim oleh [Marcille-](https://osu.ppy.sh/users/12423717)
-  61. [Xyris - Eviternity (Begin) [LN Eviternity]](https://osu.ppy.sh/beatmapsets/2198511#mania/4652576) dikirim oleh [Violet-](https://osu.ppy.sh/users/13274715)
-  62. [Ginger Root - Loretta (Valedict) [Plum Sake]](https://osu.ppy.sh/beatmapsets/2128830#mania/4476079) dikirim oleh [uThot](https://osu.ppy.sh/users/13716503)
-  63. [penoreri - Desperado Waltz (guden) [Skogarmaor]](https://osu.ppy.sh/beatmapsets/1743589#mania/4317707) dikirim oleh [Animerge](https://osu.ppy.sh/users/6667024)
-  64. [phonon - polyriddim (HowToPlayLN) [brrrrrrrrrrrrrr vip]](https://osu.ppy.sh/beatmapsets/1182702#mania/2769068) dikirim oleh [syamisu-](https://osu.ppy.sh/users/23484954)
+  1. [DVRST - Close Eyes (Plutes) [Danger]](https://osu.ppy.sh/beatmapsets/1603090#mania/3273735) dikirim oleh ::ocaibo::{ user-id=30615609 }
+  2. [Kolaa & Mestie - Digibuprofen (Paturages) [Lauren]](https://osu.ppy.sh/beatmapsets/2062256#mania/4311995) dikirim oleh ::\1 Zenith \1::{ user-id=8405046 }
+  3. [SHIKI - Rose Quartz (Bulanzel) [Dumpstream x1.15]](https://osu.ppy.sh/beatmapsets/2170297#mania/4580277) dikirim oleh ::Raeaw::{ user-id=27835772 }
+  4. [a_hisa - Anhedonia (Jhown) [x1.05]](https://osu.ppy.sh/beatmapsets/1567138#mania/4304650) dikirim oleh ::MightyTech::{ user-id=34454156 }
+  5. [Sakuzyo - Distorted Fate ([Crz]Crysarlene) [Elysian]](https://osu.ppy.sh/beatmapsets/2040444#mania/4256508) dikirim oleh ::skadidragen::{ user-id=32350370 }
+  6. [CK - Nirv lucE (Crisper) [End]](https://osu.ppy.sh/beatmapsets/1768392#mania/4230764) dikirim oleh ::-Nandakai-::{ user-id=31299157 }
+  7. [Carinho - Caipirinha (IOSYS Remix) (Jarodpog) [Stage 1: Nico Nico 2008]](https://osu.ppy.sh/beatmapsets/2071884#mania/4335675) dikirim oleh ::Remuu::{ user-id=18777094 }
+  8. [Yorushika - Shikaki to Coffee (FelixSpade) [composer 1.4x (252bpm)]](https://osu.ppy.sh/beatmapsets/1248279#mania/3061601) dikirim oleh ::lisachandra::{ user-id=26634482 }
+  9. [Nanahoshi Kangengakudan - No.39 (juankristal) [t!m!ng h#ll]](https://osu.ppy.sh/beatmapsets/1846256#mania/3792661) dikirim oleh ::ChocoCoki-::{ user-id=3565870 }
+  10. [SickStrophe - Pop Up Tha Bass (Cokiiplay) [Jump]](https://osu.ppy.sh/beatmapsets/615707#mania/1298710) dikirim oleh ::Prinow6::{ user-id=18658630 }
+  11. [StudioEIM - Crescent Moon Island (Shoegazer) [Kuro]](https://osu.ppy.sh/beatmapsets/547451#mania/3262554) dikirim oleh ::yeedinobro::{ user-id=33683529 }
+  12. [BlackY feat. Risa Yuzuki - SHION -sublimation mix- (Aimaina) [Memory]](https://osu.ppy.sh/beatmapsets/1744266#mania/3566539) dikirim oleh ::Aimaina::{ user-id=13217193 }
+  13. [R3 Music Box - FREEDOM DiVE (-XxbluezaperxX-) [CLASSiCAL DiMENSiON]](https://osu.ppy.sh/beatmapsets/1786568#mania/3659745) dikirim oleh ::NizT::{ user-id=23115247 }
+  14. [SICK HACK - Watashi Dake Yuurei (eZmmR) [Prostitute]](https://osu.ppy.sh/beatmapsets/1982486#mania/4117168) dikirim oleh ::KinoJourney::{ user-id=15798093 }
+  15. [SickStrophe - Pop Up Tha Bass (Cokiiplay) [Jump]](https://osu.ppy.sh/beatmapsets/615707#mania/1298710) dikirim oleh ::Tsurumaki\1::{ user-id=18790026 }
+  16. [Reizoko Cj - Happy Arnold=) (hi19hi19) [Nice To Meet You=)]](https://osu.ppy.sh/beatmapsets/2040243#mania/4256058) dikirim oleh ::Az-u::{ user-id=15801261 }
+  17. [Various Artists - LTD Pack (LTD) [Camellia - BRACE FOR FRICKING IMPACT]](https://osu.ppy.sh/beatmapsets/1206088#mania/3032790) dikirim oleh ::\1LS\1 akarii::{ user-id=20040064 }
+  18. [S-C-U feat. Qrispy Joybox - anemone (Julie) [4K Beginner]](https://osu.ppy.sh/beatmapsets/283841#mania/645315) dikirim oleh ::MrFlinxy::{ user-id=4681744 }
+  19. [skibidi toilet - skibidi toilet vibro (blehhhe) [185 bpm SKIBIDI]](https://osu.ppy.sh/beatmapsets/2173212#mania/4587767) dikirim oleh ::askL330::{ user-id=30640092 }
+  20. [Lime - Campanella ([Crz]Crysarlene) [Soothingness]](https://osu.ppy.sh/beatmapsets/2250145#mania/4785256) dikirim oleh ::SnakesYxle::{ user-id=22842079 }
+  21. [Mitsukiyo & Lee Jin Ah - Target For Love (Ludicin's Hardcore Bootleg) (Baconway) [Trayblank's Always with Me]](https://osu.ppy.sh/beatmapsets/2220208#mania/4706293) dikirim oleh ::\1yea::{ user-id=20834055 }
+  22. [DJ Raisei & RYOQUCHA - HiTECH Shotgun - Haitekku shokunin no asa wa hayai (Cut Ver.) (My Angel Chen) [Reaching Out Into Other World]](https://osu.ppy.sh/beatmapsets/2224225#mania/4717146) dikirim oleh ::My Angel Chen::{ user-id=24285111 }
+  23. [ZERATch - tp na ame (Jhown) [x1.1]](https://osu.ppy.sh/beatmapsets/2130163#mania/4479370) dikirim oleh ::shidqidragon::{ user-id=27379902 }
+  24. [knot - cold planet (Kamikaze) [Everybody Dance!]](https://osu.ppy.sh/beatmapsets/793200#mania/1665871) dikirim oleh ::Neptunia-chan::{ user-id=11608122 }
+  25. [*namirin - Kanzen Shouri*Esper Girl (Tailsdk) [Ash's Normal]](https://osu.ppy.sh/beatmapsets/1004416#mania/2102419) dikirim oleh ::\1LS\1Robi::{ user-id=21900872 }
+  26. [Sadohara Kaori - Day to Story (TV Size) (masdafugh) [legendary keyboard]](https://osu.ppy.sh/beatmapsets/631139#mania/1332442) dikirim oleh ::AzusaNakano2::{ user-id=9821346 }
+  27. [t+pazolite - Party in the HOLLOWood feat. Nanahira (HOLLOWeen Sitchaka Metchaka Remix) (_Asha) [Party]](https://osu.ppy.sh/beatmapsets/1027900#mania/2149349) dikirim oleh ::lyoneljose::{ user-id=23212300 }
+  28. [Asaka - The Sunshower (TV Size) (Yui Funami) [Apol's Hard]](https://osu.ppy.sh/beatmapsets/1837038#mania/3783891) dikirim oleh ::Napeace::{ user-id=30833471 }
+  29. [paraoka - L9 (Jesuren) [4K Daydream]](https://osu.ppy.sh/beatmapsets/1565681#mania/3197091) dikirim oleh ::D\1ana::{ user-id=16240550 }
+  30. [JOYRYDE - ON FIRE (RandomeLoL) [EMBER [INSANE]]](https://osu.ppy.sh/beatmapsets/1843271#mania/3808274) dikirim oleh ::EterEnvy::{ user-id=13762505 }
+  31. [Hana - MAJICK (TimBergling) [Berguling Style]](https://osu.ppy.sh/beatmapsets/674133#mania/1426506) dikirim oleh ::\1 -Asriel- \1::{ user-id=11829623 }
+  32. [Foreground Eclipse - Storytellers (Napur) [EXCLUSIVER]](https://osu.ppy.sh/beatmapsets/565184#mania/1194598) dikirim oleh ::-Aji::{ user-id=10058745 }
+  33. [Shirakami Fubuki - Say! Fanfare! (Castella) [Yummy~ ^^ [1.2x Rate]]](https://osu.ppy.sh/beatmapsets/1610722#mania/3288692) dikirim oleh ::IzKun-::{ user-id=9104881 }
+  34. [ZERATch - tp na ame (keksikosu) [krip kripochek]](https://osu.ppy.sh/beatmapsets/2004998#mania/4169817) dikirim oleh ::ZhasK\1667::{ user-id=19541103 }
+  35. [JUNKOSI - Faruzan Theme (JUNKOSI Remix) ([-Elaina-]) [Cat Faruzan]](https://osu.ppy.sh/beatmapsets/2248726#mania/4781641) dikirim oleh ::\1-Elaina-\1::{ user-id=12532297 }
+  36. [KORDHELL - Dat Phonk (Smokydoh) [GET DOWN [1.15]]](https://osu.ppy.sh/beatmapsets/1964340#mania/4072973) dikirim oleh ::\_Reggie\_::{ user-id=22933961 }
+  37. [CS4W - Guilty Hostage (tentrempm) [Nightmare (edit)]](https://osu.ppy.sh/beatmapsets/1922730#mania/4762359) dikirim oleh ::tentrempm::{ user-id=8346342 }
+  38. [glaive - astrid (Catzu) [celestial // expert]](https://osu.ppy.sh/beatmapsets/2282933#mania/4868160) dikirim oleh ::Catzu::{ user-id=11330898 }
+  39. [rintaro soma - Tsunagite (cherrychou) [Connection]](https://osu.ppy.sh/beatmapsets/2142326#mania/4509456) dikirim oleh ::ARDHANA::{ user-id=29169697 }
+  40. [Yakushi Ruri - Gaman Dekinai no, Iwasete!! (1545940348) [Okaeri, Onii-chan]](https://osu.ppy.sh/beatmapsets/2010972#mania/4184570) dikirim oleh ::lucknut::{ user-id=19724595 }
+  41. [The Verkkars - Flashbang dance (feat. n0thing) (Subtlr) [Prepare your Stance!]](https://osu.ppy.sh/beatmapsets/1828408#mania/3752581) dikirim oleh ::Molten Cheese::{ user-id=16824892 }
+  42. [TK from Ling tosite sigure - unravel (Shoegazer) [escapist 1.05x (142bpm)]](https://osu.ppy.sh/beatmapsets/463971#mania/3090617) dikirim oleh ::dogethedoge25::{ user-id=15597315 }
+  43. [S3RL - MTC (-mcfly- REMIX - 2015) (arcwinolivirus) [4K 'Delusional Lust' Arc]](https://osu.ppy.sh/beatmapsets/1001020#mania/2095243) dikirim oleh ::TheLegend3RD::{ user-id=14732769 }
+  44. [Various Artists - Technical Complexes Vol. 1 ([Crz]hinako1804) [#1f1e33 [cherrychou]]](https://osu.ppy.sh/beatmapsets/1240175#mania/2578347) dikirim oleh ::spectator\1boi::{ user-id=17400577 }
+  45. [Yumiella Dolkness (CV: Fairuz Ai), Eleanora Hillrose (CV: Hidaka Rina) - Suki ga Levechi (TV Size) (Drum-Hitnormal) [CS' Lv 99]](https://osu.ppy.sh/beatmapsets/2123381#mania/4489268) dikirim oleh ::KafuuChlno::{ user-id=31102647 }
+  46. [ROSE BRAND - Tepung Beras Rose Brand (fengky232) [Engky232]](https://osu.ppy.sh/beatmapsets/1149536#mania/2399870) dikirim oleh ::RaffCo::{ user-id=7589503 }
+  47. [Cream puff - Mermaid girl (STARLiGHT Mix) (Xingyue -) [Mermaid  x0.95]](https://osu.ppy.sh/beatmapsets/969998#mania/2029276) dikirim oleh ::Kyoukary::{ user-id=13403380 }
+  48. [Gigabanana x Yasuo feat. Kagamine Rin, Kagamine Len - Electric Angel ([13] BECK) [4K SC]](https://osu.ppy.sh/beatmapsets/161707#mania/417649) dikirim oleh ::danar mw::{ user-id=13859109 }
+  49. [Various Arists - Vibro Pack (QbaDoo) [Swan's gabe power]](https://osu.ppy.sh/beatmapsets/540573#mania/1146279) dikirim oleh ::beethiven::{ user-id=18560270 }
+  50. [Various Artists - Wombo Combo (CamiloGamerxD) [Challenge 1.2x]](https://osu.ppy.sh/beatmapsets/1526138#mania/3122316) dikirim oleh ::ImOyZo::{ user-id=14875989 }
+  51. [Hirose Kohmi - promise (Player0) [Get Down]](https://osu.ppy.sh/beatmapsets/1484343#mania/3044144) dikirim oleh ::FinHazel::{ user-id=13660273 }
+  52. [Yooh - Seraphim (Long Ver.) (Begin) [LN Angel]](https://osu.ppy.sh/beatmapsets/2063023#mania/4314630) dikirim oleh ::MzLord::{ user-id=14659672 }
+  53. [Various Artists - Rhythm Heaven Selection (Applequestria) [Coin Toss]](https://osu.ppy.sh/beatmapsets/724021#mania/1528754) dikirim oleh ::\1 Heez \1::{ user-id=17957861 }
+  54. [sakuzyo - Fracture Ray (longnguyen2004) [Future+ \SV/]](https://osu.ppy.sh/beatmapsets/901825#mania/1882932) dikirim oleh ::Proxae::{ user-id=8410575 }
+  55. [Yorushika - Yuunagi, Bou, Hana Madoi (Zembonics) [Nightbloom]](https://osu.ppy.sh/beatmapsets/1996257#mania/4148847) dikirim oleh ::\1Shiroko\1::{ user-id=21129437 }
+  56. [Excision & Pegboard Nerds - Bring The Madness (Noisestorm Nightcore Remix) (Lyz-) [Madness]](https://osu.ppy.sh/beatmapsets/1064322#mania/2228402) dikirim oleh ::Lyz-::{ user-id=9670957 }
+  57. [Giga-P - BRING IT ON (Axy) [BRING THE LNS ON]](https://osu.ppy.sh/beatmapsets/1320732#mania/2736010) dikirim oleh ::DAENGXicisae-::{ user-id=8029883 }
+  58. [yanaginagi - Megumi no Ame (TV Size) (Savageeeee) [Normal]](https://osu.ppy.sh/beatmapsets/1767320#mania/3617630) dikirim oleh ::\1-Vanart-\1::{ user-id=34756991 }
+  59. [phonon - polyriddim (HowToPlayLN) [brrrrrrrrrrrrrr]](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806) dikirim oleh ::Darrel27::{ user-id=25806849 }
+  60. [Rehan - Rehan Wangsaf ([Kaori]Miyazono) [BOGOR]](https://osu.ppy.sh/beatmapsets/1658730#mania/3385821) dikirim oleh ::Marcille-::{ user-id=12423717 }
+  61. [Xyris - Eviternity (Begin) [LN Eviternity]](https://osu.ppy.sh/beatmapsets/2198511#mania/4652576) dikirim oleh ::Violet-::{ user-id=13274715 }
+  62. [Ginger Root - Loretta (Valedict) [Plum Sake]](https://osu.ppy.sh/beatmapsets/2128830#mania/4476079) dikirim oleh ::uThot::{ user-id=13716503 }
+  63. [penoreri - Desperado Waltz (guden) [Skogarmaor]](https://osu.ppy.sh/beatmapsets/1743589#mania/4317707) dikirim oleh ::Animerge::{ user-id=6667024 }
+  64. [phonon - polyriddim (HowToPlayLN) [brrrrrrrrrrrrrr vip]](https://osu.ppy.sh/beatmapsets/1182702#mania/2769068) dikirim oleh ::syamisu-::{ user-id=23484954 }
 
 ## Hasil Pertandingan
 
@@ -920,86 +920,86 @@ Senin, 13 Januari 2025:
 
 | Seed | Pemain | Rerata peringkat (berbobot) |
 | --: | :-- | --: |
-| #1 | ::{ flag=ID }:: [Tsurumaki_](https://osu.ppy.sh/users/18790026) | 5,5 |
-| #2 | ::{ flag=ID }:: [Prinow6](https://osu.ppy.sh/users/18658630) | 6 |
-| #3 | ::{ flag=ID }:: [Az-u](https://osu.ppy.sh/users/15801261) | 8,9 |
-| #4 | ::{ flag=ID }:: [_yea](https://osu.ppy.sh/users/20834055) | 10,1 |
-| #5 | ::{ flag=ID }:: [SnakesYxle](https://osu.ppy.sh/users/22842079) | 10,2 |
-| #6 | ::{ flag=ID }:: [[LS]Robi](https://osu.ppy.sh/users/21900872) | 11,4 |
-| #7 | ::{ flag=ID }:: [DAENGXicisae-](https://osu.ppy.sh/users/8029883) | 11,7 |
-| #8 | ::{ flag=ID }:: [lisachandra](https://osu.ppy.sh/users/26634482) | 12,4 |
-| #9 | ::{ flag=ID }:: [MightyTech](https://osu.ppy.sh/users/34454156) | 13,8 |
-| #10 | ::{ flag=ID }:: [spectator_boi](https://osu.ppy.sh/users/17400577) | 16 |
-| #11 | ::{ flag=ID }:: [[LS] akarii](https://osu.ppy.sh/users/20040064) | 16,4 |
-| #12 | ::{ flag=ID }:: [NizT](https://osu.ppy.sh/users/23115247) | 17,2 |
-| #13 | ::{ flag=ID }:: [RaffCo](https://osu.ppy.sh/users/7589503) | 19,3 |
-| #14 | ::{ flag=ID }:: [danar mw](https://osu.ppy.sh/users/13859109) | 19,9 |
-| #15 | ::{ flag=ID }:: [AzusaNakano2](https://osu.ppy.sh/users/9821346) | 20 |
-| #16 | ::{ flag=ID }:: [askL330](https://osu.ppy.sh/users/30640092) | 21,7 |
-| #17 | ::{ flag=ID }:: [ARDHANA](https://osu.ppy.sh/users/29169697) | 22 |
-| #18 | ::{ flag=ID }:: [Remuu](https://osu.ppy.sh/users/18777094) | 22,4 |
-| #19 | ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093) | 22,5 |
-| #20 | ::{ flag=ID }:: [IzKun-](https://osu.ppy.sh/users/9104881) | 22,6 |
-| #21 | ::{ flag=ID }:: [Violet-](https://osu.ppy.sh/users/13274715) | 22,7 |
-| #22 | ::{ flag=ID }:: [tentrempm](https://osu.ppy.sh/users/8346342) | 24,6 |
-| #23 | ::{ flag=ID }:: [yeedinobro](https://osu.ppy.sh/users/33683529) | 25,1 |
-| #24 | ::{ flag=ID }:: [My Angel Chen](https://osu.ppy.sh/users/24285111) | 25,3 |
-| #25 | ::{ flag=ID }:: [[ -Asriel- ]](https://osu.ppy.sh/users/11829623) | 26,4 |
-| #26 | ::{ flag=ID }:: [D_ana](https://osu.ppy.sh/users/16240550) | 27,2 |
-| #27 | ::{ flag=ID }:: [uThot](https://osu.ppy.sh/users/13716503) | 28 |
-| #28 | ::{ flag=ID }:: [Catzu](https://osu.ppy.sh/users/11330898) | 29 |
-| #29 | ::{ flag=ID }:: [Napeace](https://osu.ppy.sh/users/30833471) | 29,7 |
-| #30 | ::{ flag=ID }:: [ocaibo](https://osu.ppy.sh/users/30615609) | 33,1 |
-| #31 | ::{ flag=ID }:: [-Nandakai-](https://osu.ppy.sh/users/31299157) | 34 |
-| #32 | ::{ flag=ID }:: [ImOyZo](https://osu.ppy.sh/users/14875989) | 35 |
-| #33 | ::{ flag=ID }:: [MzLord](https://osu.ppy.sh/users/14659672) | 35,6 |
-| #34 | ::{ flag=ID }:: [ChocoCoki-](https://osu.ppy.sh/users/3565870) | 36,1 |
-| #35 | ::{ flag=ID }:: [Darrel27](https://osu.ppy.sh/users/25806849) | 36,6 |
-| #36 | ::{ flag=ID }:: [[Shiroko]](https://osu.ppy.sh/users/21129437) | 36,9 |
-| #37 | ::{ flag=ID }:: [Neptunia-chan](https://osu.ppy.sh/users/11608122) | 37,7 |
-| #38 | ::{ flag=ID }:: [Proxae](https://osu.ppy.sh/users/8410575) | 39,8 |
-| #39 | ::{ flag=ID }:: [[ Zenith ]](https://osu.ppy.sh/users/8405046) | 39,9 |
-| #40 | ::{ flag=ID }:: [skadidragen](https://osu.ppy.sh/users/32350370) | 40,6 |
-| #41 | ::{ flag=ID }:: [Animerge](https://osu.ppy.sh/users/6667024) | 40,9 |
-| #42 | ::{ flag=ID }:: [-Aji](https://osu.ppy.sh/users/10058745) | 41,5 |
-| #43 | ::{ flag=ID }:: [beethiven](https://osu.ppy.sh/users/18560270) | 41,8 |
-| #44 | ::{ flag=ID }:: [TheLegend3RD](https://osu.ppy.sh/users/14732769) | 41,9 |
-| #45 | ::{ flag=ID }:: [\_Reggie\_](https://osu.ppy.sh/users/22933961) | 42,6 |
-| #46 | ::{ flag=ID }:: [Molten Cheese](https://osu.ppy.sh/users/16824892) | 43,1 |
-| #47 | ::{ flag=ID }:: [lucknut](https://osu.ppy.sh/users/19724595) | 43,5 |
-| #48 | ::{ flag=ID }:: [KyoukaRy](https://osu.ppy.sh/users/13403380) | 44,4 |
-| #49 | ::{ flag=ID }:: [MrFlinxy](https://osu.ppy.sh/users/4681744) | 44,9 |
-| #50 | ::{ flag=ID }:: [Dogethedoge25](https://osu.ppy.sh/users/15597315) | 46,6 |
-| #51 | ::{ flag=ID }:: [syamisu-](https://osu.ppy.sh/users/23484954) | 47,1 |
-| #52 | ::{ flag=ID }:: [Aimaina](https://osu.ppy.sh/users/13217193) | 47,5 |
-| #53 | ::{ flag=ID }:: [[ Heez ]](https://osu.ppy.sh/users/17957861) | 50,2 |
-| #54 | ::{ flag=ID }:: [Raeaw](https://osu.ppy.sh/users/27835772) | 50,7 |
-| #55 | ::{ flag=ID }:: [ZhasK_667](https://osu.ppy.sh/users/19541103) | 51,9 |
-| #56 | ::{ flag=ID }:: [Marcille-](https://osu.ppy.sh/users/12423717) | 51,9 |
-| #57 | ::{ flag=ID }:: [KafuuChlno](https://osu.ppy.sh/users/31102647) | 52,9 |
-| #58 | ::{ flag=ID }:: [[-Elaina-]](https://osu.ppy.sh/users/12532297) | 53 |
-| #59 | ::{ flag=ID }:: [[-Vanart-]](https://osu.ppy.sh/users/34756991) | 53,3 |
-| #60 | ::{ flag=ID }:: [shidqidragon](https://osu.ppy.sh/users/27379902) | 53,8 |
-| #61 | ::{ flag=ID }:: [lyoneljose](https://osu.ppy.sh/users/23212300) | 56,1 |
-| #62 | ::{ flag=ID }:: [Lyz-](https://osu.ppy.sh/users/9670957) | 56,8 |
-| #63 | ::{ flag=ID }:: [EterEnvy](https://osu.ppy.sh/users/13762505) | 58,6 |
-| #64 | ::{ flag=ID }:: [FinHazel](https://osu.ppy.sh/users/13660273) | 59,2 |
-| #65 | ::{ flag=ID }:: [chantomoe](https://osu.ppy.sh/users/20835843) | 60,1 |
-| #66 | ::{ flag=ID }:: [bloxymon](https://osu.ppy.sh/users/21325882) | 60,2 |
-| #67 | ::{ flag=ID }:: [LuxSenaa](https://osu.ppy.sh/users/6807769) | 62 |
-| #68 | ::{ flag=ID }:: [MahiroCHID](https://osu.ppy.sh/users/33495414) | 65,9 |
-| #69 | ::{ flag=ID }:: [XZeuzCR](https://osu.ppy.sh/users/15302695) | 66,7 |
-| #70 | ::{ flag=ID }:: [SakuyaIz](https://osu.ppy.sh/users/14708166) | 67,8 |
-| #71 | ::{ flag=ID }:: [hafishoka](https://osu.ppy.sh/users/8071728) | 68,5 |
-| #72 | ::{ flag=ID }:: [RealTBNRKenny](https://osu.ppy.sh/users/17731576) | 69,5 |
-| #73 | ::{ flag=ID }:: [MGD FURRY](https://osu.ppy.sh/users/16800937) | 70,7 |
-| #74 | ::{ flag=ID }:: [menprogemink](https://osu.ppy.sh/users/30547760) | 70,9 |
-| #75 | ::{ flag=ID }:: [124fa](https://osu.ppy.sh/users/16263257) | 71,6 |
-| #76 | ::{ flag=ID }:: [zReol](https://osu.ppy.sh/users/23539213) | 71,7 |
-| #77 | ::{ flag=ID }:: [MyRisu](https://osu.ppy.sh/users/36244414) | 72,4 |
-| #78 | ::{ flag=ID }:: [D31T7](https://osu.ppy.sh/users/7421690) | 77,3 |
-| #79 | ::{ flag=ID }:: [KimoTaki](https://osu.ppy.sh/users/13451556) | 77,7 |
-| #80 | ::{ flag=ID }:: [anteiku7](https://osu.ppy.sh/users/7013247) | 80 |
+| #1 | ::{ flag=ID }:: ::Tsurumaki\1::{ user-id=18790026 } | 5,5 |
+| #2 | ::{ flag=ID }:: ::Prinow6::{ user-id=18658630 } | 6 |
+| #3 | ::{ flag=ID }:: ::Az-u::{ user-id=15801261 } | 8,9 |
+| #4 | ::{ flag=ID }:: ::\1yea::{ user-id=20834055 } | 10,1 |
+| #5 | ::{ flag=ID }:: ::SnakesYxle::{ user-id=22842079 } | 10,2 |
+| #6 | ::{ flag=ID }:: ::\1LS\1Robi::{ user-id=21900872 } | 11,4 |
+| #7 | ::{ flag=ID }:: ::DAENGXicisae-::{ user-id=8029883 } | 11,7 |
+| #8 | ::{ flag=ID }:: ::lisachandra::{ user-id=26634482 } | 12,4 |
+| #9 | ::{ flag=ID }:: ::MightyTech::{ user-id=34454156 } | 13,8 |
+| #10 | ::{ flag=ID }:: ::spectator\1boi::{ user-id=17400577 } | 16 |
+| #11 | ::{ flag=ID }:: ::\1LS\1 akarii::{ user-id=20040064 } | 16,4 |
+| #12 | ::{ flag=ID }:: ::NizT::{ user-id=23115247 } | 17,2 |
+| #13 | ::{ flag=ID }:: ::RaffCo::{ user-id=7589503 } | 19,3 |
+| #14 | ::{ flag=ID }:: ::danar mw::{ user-id=13859109 } | 19,9 |
+| #15 | ::{ flag=ID }:: ::AzusaNakano2::{ user-id=9821346 } | 20 |
+| #16 | ::{ flag=ID }:: ::askL330::{ user-id=30640092 } | 21,7 |
+| #17 | ::{ flag=ID }:: ::ARDHANA::{ user-id=29169697 } | 22 |
+| #18 | ::{ flag=ID }:: ::Remuu::{ user-id=18777094 } | 22,4 |
+| #19 | ::{ flag=ID }:: ::KinoJourney::{ user-id=15798093 } | 22,5 |
+| #20 | ::{ flag=ID }:: ::IzKun-::{ user-id=9104881 } | 22,6 |
+| #21 | ::{ flag=ID }:: ::Violet-::{ user-id=13274715 } | 22,7 |
+| #22 | ::{ flag=ID }:: ::tentrempm::{ user-id=8346342 } | 24,6 |
+| #23 | ::{ flag=ID }:: ::yeedinobro::{ user-id=33683529 } | 25,1 |
+| #24 | ::{ flag=ID }:: ::My Angel Chen::{ user-id=24285111 } | 25,3 |
+| #25 | ::{ flag=ID }:: ::\1 -Asriel- \1::{ user-id=11829623 } | 26,4 |
+| #26 | ::{ flag=ID }:: ::D\1ana::{ user-id=16240550 } | 27,2 |
+| #27 | ::{ flag=ID }:: ::uThot::{ user-id=13716503 } | 28 |
+| #28 | ::{ flag=ID }:: ::Catzu::{ user-id=11330898 } | 29 |
+| #29 | ::{ flag=ID }:: ::Napeace::{ user-id=30833471 } | 29,7 |
+| #30 | ::{ flag=ID }:: ::ocaibo::{ user-id=30615609 } | 33,1 |
+| #31 | ::{ flag=ID }:: ::-Nandakai-::{ user-id=31299157 } | 34 |
+| #32 | ::{ flag=ID }:: ::ImOyZo::{ user-id=14875989 } | 35 |
+| #33 | ::{ flag=ID }:: ::MzLord::{ user-id=14659672 } | 35,6 |
+| #34 | ::{ flag=ID }:: ::ChocoCoki-::{ user-id=3565870 } | 36,1 |
+| #35 | ::{ flag=ID }:: ::Darrel27::{ user-id=25806849 } | 36,6 |
+| #36 | ::{ flag=ID }:: ::\1Shiroko\1::{ user-id=21129437 } | 36,9 |
+| #37 | ::{ flag=ID }:: ::Neptunia-chan::{ user-id=11608122 } | 37,7 |
+| #38 | ::{ flag=ID }:: ::Proxae::{ user-id=8410575 } | 39,8 |
+| #39 | ::{ flag=ID }:: ::\1 Zenith \1::{ user-id=8405046 } | 39,9 |
+| #40 | ::{ flag=ID }:: ::skadidragen::{ user-id=32350370 } | 40,6 |
+| #41 | ::{ flag=ID }:: ::Animerge::{ user-id=6667024 } | 40,9 |
+| #42 | ::{ flag=ID }:: ::-Aji::{ user-id=10058745 } | 41,5 |
+| #43 | ::{ flag=ID }:: ::beethiven::{ user-id=18560270 } | 41,8 |
+| #44 | ::{ flag=ID }:: ::TheLegend3RD::{ user-id=14732769 } | 41,9 |
+| #45 | ::{ flag=ID }:: ::\_Reggie\_::{ user-id=22933961 } | 42,6 |
+| #46 | ::{ flag=ID }:: ::Molten Cheese::{ user-id=16824892 } | 43,1 |
+| #47 | ::{ flag=ID }:: ::lucknut::{ user-id=19724595 } | 43,5 |
+| #48 | ::{ flag=ID }:: ::KyoukaRy::{ user-id=13403380 } | 44,4 |
+| #49 | ::{ flag=ID }:: ::MrFlinxy::{ user-id=4681744 } | 44,9 |
+| #50 | ::{ flag=ID }:: ::Dogethedoge25::{ user-id=15597315 } | 46,6 |
+| #51 | ::{ flag=ID }:: ::syamisu-::{ user-id=23484954 } | 47,1 |
+| #52 | ::{ flag=ID }:: ::Aimaina::{ user-id=13217193 } | 47,5 |
+| #53 | ::{ flag=ID }:: ::\1 Heez \1::{ user-id=17957861 } | 50,2 |
+| #54 | ::{ flag=ID }:: ::Raeaw::{ user-id=27835772 } | 50,7 |
+| #55 | ::{ flag=ID }:: ::ZhasK\1667::{ user-id=19541103 } | 51,9 |
+| #56 | ::{ flag=ID }:: ::Marcille-::{ user-id=12423717 } | 51,9 |
+| #57 | ::{ flag=ID }:: ::KafuuChlno::{ user-id=31102647 } | 52,9 |
+| #58 | ::{ flag=ID }:: ::\1-Elaina-\1::{ user-id=12532297 } | 53 |
+| #59 | ::{ flag=ID }:: ::\1-Vanart-\1::{ user-id=34756991 } | 53,3 |
+| #60 | ::{ flag=ID }:: ::shidqidragon::{ user-id=27379902 } | 53,8 |
+| #61 | ::{ flag=ID }:: ::lyoneljose::{ user-id=23212300 } | 56,1 |
+| #62 | ::{ flag=ID }:: ::Lyz-::{ user-id=9670957 } | 56,8 |
+| #63 | ::{ flag=ID }:: ::EterEnvy::{ user-id=13762505 } | 58,6 |
+| #64 | ::{ flag=ID }:: ::FinHazel::{ user-id=13660273 } | 59,2 |
+| #65 | ::{ flag=ID }:: ::chantomoe::{ user-id=20835843 } | 60,1 |
+| #66 | ::{ flag=ID }:: ::bloxymon::{ user-id=21325882 } | 60,2 |
+| #67 | ::{ flag=ID }:: ::LuxSenaa::{ user-id=6807769 } | 62 |
+| #68 | ::{ flag=ID }:: ::MahiroCHID::{ user-id=33495414 } | 65,9 |
+| #69 | ::{ flag=ID }:: ::XZeuzCR::{ user-id=15302695 } | 66,7 |
+| #70 | ::{ flag=ID }:: ::SakuyaIz::{ user-id=14708166 } | 67,8 |
+| #71 | ::{ flag=ID }:: ::hafishoka::{ user-id=8071728 } | 68,5 |
+| #72 | ::{ flag=ID }:: ::RealTBNRKenny::{ user-id=17731576 } | 69,5 |
+| #73 | ::{ flag=ID }:: ::MGD FURRY::{ user-id=16800937 } | 70,7 |
+| #74 | ::{ flag=ID }:: ::menprogemink::{ user-id=30547760 } | 70,9 |
+| #75 | ::{ flag=ID }:: ::124fa::{ user-id=16263257 } | 71,6 |
+| #76 | ::{ flag=ID }:: ::zReol::{ user-id=23539213 } | 71,7 |
+| #77 | ::{ flag=ID }:: ::MyRisu::{ user-id=36244414 } | 72,4 |
+| #78 | ::{ flag=ID }:: ::D31T7::{ user-id=7421690 } | 77,3 |
+| #79 | ::{ flag=ID }:: ::KimoTaki::{ user-id=13451556 } | 77,7 |
+| #80 | ::{ flag=ID }:: ::anteiku7::{ user-id=7013247 } | 80 |
 
 ## Peraturan
 

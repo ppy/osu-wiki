@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2020 logo](img/logo.jpg)
 
-The **Royal Danish osu!Cup 2020** (***RDOC 2020***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) and ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048). It was the sixth instalment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2020** (***RDOC 2020***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: ::Pennek::{ user-id=3723742 } and ::{ flag=DK }:: ::MadX::{ user-id=3295048 }. It was the sixth instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -39,14 +39,14 @@ The Royal Danish osu!Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
-| Mappool selector | ::{ flag=DK }:: [Arche-](https://osu.ppy.sh/users/2143311), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=DK }:: [Morrighan](https://osu.ppy.sh/users/12042090), ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) |
-| Referee | ::{ flag=DK }:: [Arche-](https://osu.ppy.sh/users/2143311), ::{ flag=MX }:: [Baskest](https://osu.ppy.sh/users/3963408), ::{ flag=DK }:: [Captain](https://osu.ppy.sh/users/2563435), ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048), ::{ flag=US }:: [moss-](https://osu.ppy.sh/users/9918921), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742), ::{ flag=DK }:: [Peperonni](https://osu.ppy.sh/users/7392020) |
-| Streamer | ::{ flag=DK }:: [Alberte](https://osu.ppy.sh/users/7395529), ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048), ::{ flag=DK }:: [Marco PoIo](https://osu.ppy.sh/users/10650901), ::{ flag=DK }:: [P3RS3X](https://osu.ppy.sh/users/9469362), ::{ flag=DK }:: [Polle](https://osu.ppy.sh/users/13218204) |
-| Commentator | ::{ flag=DK }:: [Amanda](https://osu.ppy.sh/users/2678812), ::{ flag=DK }:: [Arche-](https://osu.ppy.sh/users/2143311), ::{ flag=DK }:: [Dralle](https://osu.ppy.sh/users/80988), ::{ flag=DK }:: [Marco PoIo](https://osu.ppy.sh/users/10650901), ::{ flag=DK }:: [MinecraftSteve](https://osu.ppy.sh/users/9476042), ::{ flag=DK }:: [P3RS3X](https://osu.ppy.sh/users/9469362), ::{ flag=DK }:: [Peperonni](https://osu.ppy.sh/users/7392020), ::{ flag=GB }:: [Signature](https://osu.ppy.sh/users/13092025), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048) |
-| Designer | ::{ flag=BR }:: [Hana Fubuki](https://osu.ppy.sh/users/4761039), ::{ flag=FI }:: [Micro](https://osu.ppy.sh/users/4801080) |
-| Wiki editor | ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
-| Donator | ::{ flag=DK }:: [Gabby](https://osu.ppy.sh/users/3727470), ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048), ::{ flag=DK }:: [Polle](https://osu.ppy.sh/users/13218204) |
+| Manager | ::{ flag=DK }:: ::MadX::{ user-id=3295048 }, ::{ flag=DK }:: ::Pennek::{ user-id=3723742 } |
+| Mappool selector | ::{ flag=DK }:: ::Arche-::{ user-id=2143311 }, ::{ flag=BR }:: ::Dada::{ user-id=9119507 }, ::{ flag=DK }:: ::Morrighan::{ user-id=12042090 }, ::{ flag=DK }:: ::Spork Lover::{ user-id=3417469 } |
+| Referee | ::{ flag=DK }:: ::Arche-::{ user-id=2143311 }, ::{ flag=MX }:: ::Baskest::{ user-id=3963408 }, ::{ flag=DK }:: ::Captain::{ user-id=2563435 }, ::{ flag=DK }:: ::MadX::{ user-id=3295048 }, ::{ flag=US }:: ::moss-::{ user-id=9918921 }, ::{ flag=DK }:: ::Pennek::{ user-id=3723742 }, ::{ flag=DK }:: ::Peperonni::{ user-id=7392020 } |
+| Streamer | ::{ flag=DK }:: ::Alberte::{ user-id=7395529 }, ::{ flag=DK }:: ::MadX::{ user-id=3295048 }, ::{ flag=DK }:: ::Marco PoIo::{ user-id=10650901 }, ::{ flag=DK }:: ::P3RS3X::{ user-id=9469362 }, ::{ flag=DK }:: ::Polle::{ user-id=13218204 } |
+| Commentator | ::{ flag=DK }:: ::Amanda::{ user-id=2678812 }, ::{ flag=DK }:: ::Arche-::{ user-id=2143311 }, ::{ flag=DK }:: ::Dralle::{ user-id=80988 }, ::{ flag=DK }:: ::Marco PoIo::{ user-id=10650901 }, ::{ flag=DK }:: ::MinecraftSteve::{ user-id=9476042 }, ::{ flag=DK }:: ::P3RS3X::{ user-id=9469362 }, ::{ flag=DK }:: ::Peperonni::{ user-id=7392020 }, ::{ flag=GB }:: ::Signature::{ user-id=13092025 }, ::{ flag=AR }:: ::Vaf::{ user-id=12589048 } |
+| Designer | ::{ flag=BR }:: ::Hana Fubuki::{ user-id=4761039 }, ::{ flag=FI }:: ::Micro::{ user-id=4801080 } |
+| Wiki editor | ::{ flag=DK }:: ::Pennek::{ user-id=3723742 } |
+| Donator | ::{ flag=DK }:: ::Gabby::{ user-id=3727470 }, ::{ flag=DK }:: ::MadX::{ user-id=3295048 }, ::{ flag=DK }:: ::Polle::{ user-id=13218204 } |
 
 ## Links
 
@@ -62,38 +62,38 @@ Players were seeded based on qualifier performance relative to each other. Top 3
 
 | Seed | Player | NM1 | NM2 | NM3 | NM4 | HD1 | HD2 | HR1 | HR2 | DT1 | DT2 | Total Points |
 | --: | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| #1 | ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380) | 29 | **30** | 26 | 29 | 27 | **32** | **30** | **32** | 23 | **31** | 289 |
-| #2 | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) | 19 | 18 | 28 | **32** | **31** | 29 | **31** | 24 | 26 | 29 | 267 |
-| #3 | ::{ flag=DK }:: [Pablohh](https://osu.ppy.sh/users/10092099) | 9 | **31** | **31** | 18 | 26 | 16 | 26 | 25 | **32** | **30** | 244 |
-| #4 | ::{ flag=DK }:: [Lothjon](https://osu.ppy.sh/users/7369323) | 28 | 14 | 24 | 24 | 28 | **31** | 15 | **30** | **31** | 14 | 239 |
-| #5 | ::{ flag=DK }:: [Malach](https://osu.ppy.sh/users/9364696) | 22 | 23 | 29 | 25 | **30** | 14 | 29 | 14 | 25 | 28 | 239 |
-| #6 | ::{ flag=DK }:: [Polle](https://osu.ppy.sh/users/13218204) | 21 | **32** | 9 | 17 | 29 | 25 | 27 | 18 | **30** | 27 | 235 |
-| #7 | ::{ flag=DK }:: [\_Alex](https://osu.ppy.sh/users/7882154) | **31** | 29 | 7 | 26 | 24 | 26 | 19 | 20 | 17 | 22 | 221 |
-| #8 | ::{ flag=DK }:: [Marco PoIo](https://osu.ppy.sh/users/10650901) | **30** | 27 | 23 | **30** | **32** | 15 | 1 | 9 | 29 | 23 | 219 |
-| #9 | ::{ flag=FO }:: [mkus](https://osu.ppy.sh/users/8969402) | 27 | 25 | **30** | 19 | 20 | 18 | 18 | 16 | 12 | 18 | 203 |
-| #10 | ::{ flag=DK }:: [kransee](https://osu.ppy.sh/users/4889617) | 6 | 24 | 13 | 28 | 18 | 27 | 16 | 23 | 20 | 25 | 200 |
-| #11 | ::{ flag=DK }:: [teamplayer51](https://osu.ppy.sh/users/3084508) | 17 | 17 | 18 | 27 | 19 | 21 | 24 | 17 | 19 | 20 | 199 |
-| #12 | ::{ flag=DK }:: [Contaminate](https://osu.ppy.sh/users/4694589) | 12 | 19 | 22 | 7 | 13 | 9 | **32** | 26 | 21 | **32** | 193 |
-| #13 | ::{ flag=DK }:: [Hestai](https://osu.ppy.sh/users/4622337) | 16 | 22 | 16 | 0 | 23 | 8 | 28 | 27 | 27 | 21 | 188 |
-| #14 | ::{ flag=DK }:: [Sagon](https://osu.ppy.sh/users/11775933) | 4 | 28 | 19 | 22 | 11 | **30** | 5 | 29 | 28 | 10 | 186 |
-| #15 | ::{ flag=DK }:: [Lucasion](https://osu.ppy.sh/users/7382672) | 24 | 21 | 25 | **31** | 9 | 17 | 9 | 22 | 0 | 19 | 177 |
-| #16 | ::{ flag=DK }:: [Alberte](https://osu.ppy.sh/users/7395529) | **32** | 16 | **32** | 4 | 21 | 12 | 12 | 7 | 3 | 16 | 155 |
-| #17 | ::{ flag=DK }:: [Drayko](https://osu.ppy.sh/users/11485703) | 11 | 20 | 6 | 12 | 14 | 23 | 20 | 11 | 24 | 13 | 154 |
-| #18 | ::{ flag=DK }:: [mahisuru](https://osu.ppy.sh/users/11547643) | 26 | 26 | 5 | 20 | 22 | 19 | 7 | 10 | 15 | 4 | 154 |
-| #19 | ::{ flag=DK }:: [Din Mor](https://osu.ppy.sh/users/3786974) | 18 | 12 | 14 | 21 | 3 | 5 | 23 | **31** | 9 | 17 | 153 |
-| #20 | ::{ flag=DK }:: [Pallerik](https://osu.ppy.sh/users/9303652) | 20 | 11 | 21 | 15 | 17 | 28 | 3 | 6 | 5 | 24 | 150 |
-| #21 | ::{ flag=DK }:: [Amanda](https://osu.ppy.sh/users/2678812) | 23 | 10 | 27 | 16 | 8 | 6 | 13 | 19 | 13 | 9 | 144 |
-| #22 | ::{ flag=DK }:: [darkkiller1324](https://osu.ppy.sh/users/4773990) | 1 | 5 | 17 | 6 | 15 | 10 | 25 | 3 | 11 | 26 | 119 |
-| #23 | ::{ flag=DK }:: [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) | 10 | 3 | 20 | 23 | 0 | 24 | 2 | 21 | 0 | 15 | 118 |
-| #24 | ::{ flag=DK }:: [Darth\_mini](https://osu.ppy.sh/users/9400484) | 5 | 8 | 2 | 5 | 25 | 13 | 11 | 13 | 16 | 3 | 101 |
-| #25 | ::{ flag=DK }:: [Cittasnaf](https://osu.ppy.sh/users/13347734) | 2 | 13 | 4 | 10 | 16 | 20 | 14 | 0 | 7 | 8 | 94 |
-| #26 | ::{ flag=DK }:: [Kawatta](https://osu.ppy.sh/users/3731880) | 14 | 0 | 8 | 11 | 7 | 4 | 21 | 15 | 1 | 1 | 82 |
-| #27 | ::{ flag=GL }:: [Rilox](https://osu.ppy.sh/users/3170122) | 13 | 2 | 0 | 8 | 5 | 7 | 8 | 8 | 10 | 0 | 61 |
-| #28 | ::{ flag=DK }:: [-Shiro](https://osu.ppy.sh/users/7021053) | 0 | 6 | 0 | 13 | 10 | 11 | 0 | 5 | 4 | 2 | 51 |
-| #29 | ::{ flag=DK }:: [Micropose](https://osu.ppy.sh/users/11140740) | 0 | 4 | 0 | 14 | 4 | 0 | 10 | 2 | 2 | 7 | 43 |
-| #30 | ::{ flag=GL }:: [Nikkitch](https://osu.ppy.sh/users/6350068) | 8 | 0 | 15 | 3 | 0 | 3 | 0 | 0 | 0 | 0 | 29 |
-| #31 | ::{ flag=DK }:: [soroka1](https://osu.ppy.sh/users/12130265) | 0 | 0 | 0 | 9 | 0 | 0 | 4 | 1 | 8 | 0 | 22 |
-| #32 | ::{ flag=DK }:: [-Arti-](https://osu.ppy.sh/users/10723663) | 7 | 0 | 12 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 20 |
+| #1 | ::{ flag=DK }:: ::iamVill::{ user-id=6295380 } | 29 | **30** | 26 | 29 | 27 | **32** | **30** | **32** | 23 | **31** | 289 |
+| #2 | ::{ flag=DK }:: ::Vandabe::{ user-id=7050754 } | 19 | 18 | 28 | **32** | **31** | 29 | **31** | 24 | 26 | 29 | 267 |
+| #3 | ::{ flag=DK }:: ::Pablohh::{ user-id=10092099 } | 9 | **31** | **31** | 18 | 26 | 16 | 26 | 25 | **32** | **30** | 244 |
+| #4 | ::{ flag=DK }:: ::Lothjon::{ user-id=7369323 } | 28 | 14 | 24 | 24 | 28 | **31** | 15 | **30** | **31** | 14 | 239 |
+| #5 | ::{ flag=DK }:: ::Malach::{ user-id=9364696 } | 22 | 23 | 29 | 25 | **30** | 14 | 29 | 14 | 25 | 28 | 239 |
+| #6 | ::{ flag=DK }:: ::Polle::{ user-id=13218204 } | 21 | **32** | 9 | 17 | 29 | 25 | 27 | 18 | **30** | 27 | 235 |
+| #7 | ::{ flag=DK }:: ::\_Alex::{ user-id=7882154 } | **31** | 29 | 7 | 26 | 24 | 26 | 19 | 20 | 17 | 22 | 221 |
+| #8 | ::{ flag=DK }:: ::Marco PoIo::{ user-id=10650901 } | **30** | 27 | 23 | **30** | **32** | 15 | 1 | 9 | 29 | 23 | 219 |
+| #9 | ::{ flag=FO }:: ::mkus::{ user-id=8969402 } | 27 | 25 | **30** | 19 | 20 | 18 | 18 | 16 | 12 | 18 | 203 |
+| #10 | ::{ flag=DK }:: ::kransee::{ user-id=4889617 } | 6 | 24 | 13 | 28 | 18 | 27 | 16 | 23 | 20 | 25 | 200 |
+| #11 | ::{ flag=DK }:: ::teamplayer51::{ user-id=3084508 } | 17 | 17 | 18 | 27 | 19 | 21 | 24 | 17 | 19 | 20 | 199 |
+| #12 | ::{ flag=DK }:: ::Contaminate::{ user-id=4694589 } | 12 | 19 | 22 | 7 | 13 | 9 | **32** | 26 | 21 | **32** | 193 |
+| #13 | ::{ flag=DK }:: ::Hestai::{ user-id=4622337 } | 16 | 22 | 16 | 0 | 23 | 8 | 28 | 27 | 27 | 21 | 188 |
+| #14 | ::{ flag=DK }:: ::Sagon::{ user-id=11775933 } | 4 | 28 | 19 | 22 | 11 | **30** | 5 | 29 | 28 | 10 | 186 |
+| #15 | ::{ flag=DK }:: ::Lucasion::{ user-id=7382672 } | 24 | 21 | 25 | **31** | 9 | 17 | 9 | 22 | 0 | 19 | 177 |
+| #16 | ::{ flag=DK }:: ::Alberte::{ user-id=7395529 } | **32** | 16 | **32** | 4 | 21 | 12 | 12 | 7 | 3 | 16 | 155 |
+| #17 | ::{ flag=DK }:: ::Drayko::{ user-id=11485703 } | 11 | 20 | 6 | 12 | 14 | 23 | 20 | 11 | 24 | 13 | 154 |
+| #18 | ::{ flag=DK }:: ::mahisuru::{ user-id=11547643 } | 26 | 26 | 5 | 20 | 22 | 19 | 7 | 10 | 15 | 4 | 154 |
+| #19 | ::{ flag=DK }:: ::Din Mor::{ user-id=3786974 } | 18 | 12 | 14 | 21 | 3 | 5 | 23 | **31** | 9 | 17 | 153 |
+| #20 | ::{ flag=DK }:: ::Pallerik::{ user-id=9303652 } | 20 | 11 | 21 | 15 | 17 | 28 | 3 | 6 | 5 | 24 | 150 |
+| #21 | ::{ flag=DK }:: ::Amanda::{ user-id=2678812 } | 23 | 10 | 27 | 16 | 8 | 6 | 13 | 19 | 13 | 9 | 144 |
+| #22 | ::{ flag=DK }:: ::darkkiller1324::{ user-id=4773990 } | 1 | 5 | 17 | 6 | 15 | 10 | 25 | 3 | 11 | 26 | 119 |
+| #23 | ::{ flag=DK }:: ::\[THEDUCK\]::{ user-id=6080866 } | 10 | 3 | 20 | 23 | 0 | 24 | 2 | 21 | 0 | 15 | 118 |
+| #24 | ::{ flag=DK }:: ::Darth\_mini::{ user-id=9400484 } | 5 | 8 | 2 | 5 | 25 | 13 | 11 | 13 | 16 | 3 | 101 |
+| #25 | ::{ flag=DK }:: ::Cittasnaf::{ user-id=13347734 } | 2 | 13 | 4 | 10 | 16 | 20 | 14 | 0 | 7 | 8 | 94 |
+| #26 | ::{ flag=DK }:: ::Kawatta::{ user-id=3731880 } | 14 | 0 | 8 | 11 | 7 | 4 | 21 | 15 | 1 | 1 | 82 |
+| #27 | ::{ flag=GL }:: ::Rilox::{ user-id=3170122 } | 13 | 2 | 0 | 8 | 5 | 7 | 8 | 8 | 10 | 0 | 61 |
+| #28 | ::{ flag=DK }:: ::-Shiro::{ user-id=7021053 } | 0 | 6 | 0 | 13 | 10 | 11 | 0 | 5 | 4 | 2 | 51 |
+| #29 | ::{ flag=DK }:: ::Micropose::{ user-id=11140740 } | 0 | 4 | 0 | 14 | 4 | 0 | 10 | 2 | 2 | 7 | 43 |
+| #30 | ::{ flag=GL }:: ::Nikkitch::{ user-id=6350068 } | 8 | 0 | 15 | 3 | 0 | 3 | 0 | 0 | 0 | 0 | 29 |
+| #31 | ::{ flag=DK }:: ::soroka1::{ user-id=12130265 } | 0 | 0 | 0 | 9 | 0 | 0 | 4 | 1 | 8 | 0 | 22 |
+| #32 | ::{ flag=DK }:: ::-Arti-::{ user-id=10723663 } | 7 | 0 | 12 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 20 |
 
 ## Podium
 
@@ -101,11 +101,11 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: [Pablohh](https://osu.ppy.sh/users/10092099) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: ::iamVill::{ user-id=6295380 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: ::Pablohh::{ user-id=10092099 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: ::Vandabe::{ user-id=7050754 } |
 
-Because [Contaminate](https://osu.ppy.sh/users/4694589) was disqualified from the tournament, his 3rd place spot has been given to [Vandabe](https://osu.ppy.sh/users/7050754) instead.
+Because ::Contaminate::{ user-id=4694589 } was disqualified from the tournament, his 3rd place spot has been given to ::Vandabe::{ user-id=7050754 } instead.
 
 ## Mappools
 

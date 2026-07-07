@@ -17,7 +17,7 @@ Here on osu!, **9** tracks are part of [**1zm8**'s Featured Artist listing](http
 
 ### [1zm8 - Beyond The Horizon](https://assets.ppy.sh/artists/474/Beyond%20The%20Horizon/1zm8%20-%20Beyond%20The%20Horizon.osz)
 
-Try out [this cutstream-packed map](https://osu.ppy.sh/beatmapsets/2260556) hosted by [Wispy](https://osu.ppy.sh/users/11106929)!
+Try out [this cutstream-packed map](https://osu.ppy.sh/beatmapsets/2260556) hosted by ::Wispy::{ user-id=11106929 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -27,7 +27,7 @@ Try out [this cutstream-packed map](https://osu.ppy.sh/beatmapsets/2260556) host
 
 ### [1zm8 - IDEAL \[SHIFT\]](https://assets.ppy.sh/artists/474/IDEAL/1zm8%20-%20IDEAL%20%5BSHIFT%5D.osz)
 
-Or smack some drums on [this map](https://osu.ppy.sh/beatmapsets/2301094) hosted by [ikin5050](https://osu.ppy.sh/users/4007649)!
+Or smack some drums on [this map](https://osu.ppy.sh/beatmapsets/2301094) hosted by ::ikin5050::{ user-id=4007649 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/474/IDEAL/1zm8%20-%20IDEAL%20%5BSHIFT%5D.mp3">

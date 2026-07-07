@@ -23,7 +23,7 @@ If you're looking for a sample of **siromaru**'s work (and you've already played
 
 ### siromaru - Gensou Kaiki no Omochabako
 
-Experience [the map from the video](https://osu.ppy.sh/beatmapsets/1649491) mapped by [UberFazz](https://osu.ppy.sh/users/8646059) and [ScubDomino](https://osu.ppy.sh/users/8972308)!
+Experience [the map from the video](https://osu.ppy.sh/beatmapsets/1649491) mapped by ::UberFazz::{ user-id=8646059 } and [ScubDomino](https://osu.ppy.sh/users/8972308)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/226/Songs/siromaru%20-%20Gensou%20Kaiki%20no%20Omochabako.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Experience [the map from the video](https://osu.ppy.sh/beatmapsets/1649491) mapp
 
 ### Team Grimoire vs. siromaru - Glasya-Labolas
 
-Flex your keyboard slamming prowess with [this osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1593180) hosted by [FAMoss](https://osu.ppy.sh/users/7707789)!
+Flex your keyboard slamming prowess with [this osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1593180) hosted by ::FAMoss::{ user-id=7707789 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/226/Monochrome%20Rainbow/Team%20Grimoire%20vs.%20siromaru%20-%20Glasya-Labolas.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Flex your keyboard slamming prowess with [this osu!mania beatmap](https://osu.pp
 
 ### INNOCENT NOIZE - Reverse Clock
 
-Or bash some drums to [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1628255) hosted by [iceOC](https://osu.ppy.sh/users/5482401)!
+Or bash some drums to [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1628255) hosted by ::iceOC::{ user-id=5482401 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/226/Reverse%20Clock/INNOCENT%20NOIZE%20-%20Reverse%20Clock.mp3" type="audio/mpeg">
@@ -49,9 +49,9 @@ Or bash some drums to [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/16
 
 While this song was already featured with [Cranky](https://osu.ppy.sh/beatmaps/artists/23)'s announcement back in the day, feel free to bask in its awesomeness anyway with any of these beatmaps:
 
-- [osu! beatmap](https://osu.ppy.sh/beatmapsets/936126) hosted by [Icekalt](https://osu.ppy.sh/users/5410645)
-- [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1018134) hosted by [radar](https://osu.ppy.sh/users/7131099)
-- [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/981762) hosted by [Bunnrei](https://osu.ppy.sh/users/829284)
+- [osu! beatmap](https://osu.ppy.sh/beatmapsets/936126) hosted by ::Icekalt::{ user-id=5410645 }
+- [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1018134) hosted by ::radar::{ user-id=7131099 }
+- [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/981762) hosted by ::Bunnrei::{ user-id=829284 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/226/Songs/siromaru%20%2B%20cranky%20-%20conflict.mp3" type="audio/mpeg">

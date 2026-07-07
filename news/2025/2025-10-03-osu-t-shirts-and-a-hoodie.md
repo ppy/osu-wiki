@@ -25,7 +25,7 @@ That's why [the *multi-mode* t-shirt](https://osu.ppy.sh/store/products/1582) ex
 
 [![](/wiki/shared/news/2025-10-03-osu-t-shirts-and-a-hoodie/multimode_front.jpg)](https://osu.ppy.sh/store/products/1582)
 
-...While the back side has a snippet of gameplay from every ruleset! According to its designer [Sing](https://osu.ppy.sh/users/3795679), each of these object arrangements comes from a World Cup Grand Finals tiebreaker. Good luck figuring out which ones.
+...While the back side has a snippet of gameplay from every ruleset! According to its designer ::Sing::{ user-id=3795679 }, each of these object arrangements comes from a World Cup Grand Finals tiebreaker. Good luck figuring out which ones.
 
 [![](/wiki/shared/news/2025-10-03-osu-t-shirts-and-a-hoodie/multimode_back.jpg)](https://osu.ppy.sh/store/products/1582)
 
@@ -33,7 +33,7 @@ Oh, and did we mention this is available as [a zip-up hoodie](https://osu.ppy.sh
 
 [![](/wiki/shared/news/2025-10-03-osu-t-shirts-and-a-hoodie/multimode_hoodie.jpg)](https://osu.ppy.sh/store/products/1575)
 
-The next osu!(lazer) update is going to be a big one, and that's clearly because [peppy](https://osu.ppy.sh/users/2) has been developing the game while wearing this.
+The next osu!(lazer) update is going to be a big one, and that's clearly because ::peppy::{ user-id=2 } has been developing the game while wearing this.
 
 [![](/wiki/shared/news/2025-10-03-osu-t-shirts-and-a-hoodie/multimode_peppy.jpg)](https://osu.ppy.sh/store/products/1575)
 
@@ -58,13 +58,13 @@ Carved into the backside is a sigil inspired by the one who first bore witness. 
 
 [![](/wiki/shared/news/2025-10-03-osu-t-shirts-and-a-hoodie/wysi_back.jpg)](https://osu.ppy.sh/store/products/1545)
 
-In case you were wondering who to make a voodoo doll out of, [kaetwo](https://osu.ppy.sh/users/1997719) is the mastermind behind this design.
+In case you were wondering who to make a voodoo doll out of, ::kaetwo::{ user-id=1997719 } is the mastermind behind this design.
 
 You already know if this t-shirt is for you. [Grab it here.](https://osu.ppy.sh/store/products/1545)
 
 ## seasonal pippi t-shirts
 
-Anyone familiar with osu!'s seasonal fanart contests has surely come across [Tofumang](https://osu.ppy.sh/users/4817223)'s illustrative perfection. We think he's pretty good at drawing too, so we asked him to place osu!'s mascot [pippi](/wiki/Mascots#pippi) in the hottest and coldest seasons.
+Anyone familiar with osu!'s seasonal fanart contests has surely come across ::Tofumang::{ user-id=4817223 }'s illustrative perfection. We think he's pretty good at drawing too, so we asked him to place osu!'s mascot [pippi](/wiki/Mascots#pippi) in the hottest and coldest seasons.
 
 Then, of course, he delivered beyond expectations.
 

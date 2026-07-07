@@ -42,13 +42,13 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
-| Mappool selector | ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [Madoka2574](https://osu.ppy.sh/users/8819336), ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=BR }:: [Sillyfangirl](https://osu.ppy.sh/users/2288363) |
-| Streamer | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [110](https://osu.ppy.sh/users/4524921), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Commentator | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Edward_Tsui](https://osu.ppy.sh/users/8609627), ::{ flag=CN }:: [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) |
-| Designer | ::{ flag=CN }:: [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |
-| Referee | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [\[Illustrious\]](https://osu.ppy.sh/users/4082595), ::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=CN }:: [110](https://osu.ppy.sh/users/4524921), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Statistician | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [Kuiiiiteeee](https://osu.ppy.sh/users/7304075),::{ flag=CN }:: [\[Crz\]Makii](https://osu.ppy.sh/users/5242158), ::{ flag=CN }:: [Ayase Eli](https://osu.ppy.sh/users/6764156) |
+| Manager | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 } |
+| Mappool selector | ::{ flag=CN }:: ::\[Crz\]Satori::{ user-id=7082178 }, ::{ flag=CN }:: ::Madoka2574::{ user-id=8819336 }, ::{ flag=CN }:: ::\_Stan::{ user-id=1653229 }, ::{ flag=CN }:: ::tyrcs::{ user-id=13026904 }, ::{ flag=BR }:: ::Sillyfangirl::{ user-id=2288363 } |
+| Streamer | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 }, ::{ flag=CN }:: ::\[Crz\]Satori::{ user-id=7082178 }, ::{ flag=CN }:: ::\[Illustrious\]::{ user-id=4082595 }, ::{ flag=CN }:: ::Sonoaoi::{ user-id=9755808 }, ::{ flag=CN }:: ::110::{ user-id=4524921 }, ::{ flag=CN }:: ::crazybrother::{ user-id=8045083 }, ::{ flag=CN }:: ::Muziyami::{ user-id=7003013 } |
+| Commentator | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 }, ::{ flag=CN }:: ::\[Crz\]Satori::{ user-id=7082178 }, ::{ flag=CN }:: ::crazybrother::{ user-id=8045083 }, ::{ flag=CN }:: ::Edward\1Tsui::{ user-id=8609627 }, ::{ flag=CN }:: ::\[Crz\]Caicium::{ user-id=10702235 } |
+| Designer | ::{ flag=CN }:: ::Dr\_Tissues::{ user-id=5106681 } |
+| Referee | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 }, ::{ flag=CN }:: ::\[Crz\]Satori::{ user-id=7082178 }, ::{ flag=CN }:: ::\[Illustrious\]::{ user-id=4082595 }, ::{ flag=CN }:: ::\[Crz\]Makii::{ user-id=5242158 }, ::{ flag=CN }:: ::\[Crz\]MemoryI::{ user-id=8179131 }, ::{ flag=CN }:: ::crazybrother::{ user-id=8045083 }, ::{ flag=CN }:: ::\[RT\]Alleyne::{ user-id=11279273 }, ::{ flag=CN }:: ::Sonoaoi::{ user-id=9755808 }, ::{ flag=CN }:: ::110::{ user-id=4524921 }, ::{ flag=CN }:: ::Muziyami::{ user-id=7003013 } |
+| Statistician | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user-id=10500832 }, ::{ flag=CN }:: ::\[RT\]Alleyne::{ user-id=11279273 }, ::{ flag=CN }:: ::Kuiiiiteeee::{ user-id=7304075 },::{ flag=CN }:: ::\[Crz\]Makii::{ user-id=5242158 }, ::{ flag=CN }:: ::Ayase Eli::{ user-id=6764156 } |
 
 ## Links
 
@@ -63,23 +63,23 @@ The osu!mania 7K Chinese National Cup 2022 was run by various community members.
 
 | Seed | Player |
 | :-: | :-- |
-| #1 | ::{ flag=CN }:: [Liangiaiajan](https://osu.ppy.sh/users/5144698) |
-| #2 | ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072) |
-| #3 | ::{ flag=CN }:: [Krn3](https://osu.ppy.sh/users/12452291) |
-| #4 | ::{ flag=TW }:: [IllIlllIIlIIlIl](https://osu.ppy.sh/users/7227070) |
-| #5 | ::{ flag=CN }:: [4kGameBye](https://osu.ppy.sh/users/89545) |
-| #6 | ::{ flag=CN }:: [My Angel Yukee7](https://osu.ppy.sh/users/9787146) |
-| #7 | ::{ flag=CN }:: [LeartLey](https://osu.ppy.sh/users/10512663) |
-| #8 | ::{ flag=CN }:: [Residual pain](https://osu.ppy.sh/users/8021339) |
-| #9 | ::{ flag=CN }:: [yuwenhao1](https://osu.ppy.sh/users/14318312) |
-| #10 | ::{ flag=HK }:: [Elton Tong](https://osu.ppy.sh/users/14885132) |
-| #11 | ::{ flag=MO }:: [idqoos123](https://osu.ppy.sh/users/3946113) |
-| #12 | ::{ flag=CN }:: [- xiaoluoli -](https://osu.ppy.sh/users/9502281) |
-| #13 | ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275) |
-| #14 | ::{ flag=CN }:: [Phukiir](https://osu.ppy.sh/users/4556538) |
-| #15 | ::{ flag=CN }:: [katiexie](https://osu.ppy.sh/users/5908765) |
-| #16 | ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501) |
-| #17 | ::{ flag=CN }:: [PJH165F](https://osu.ppy.sh/users/25181396) |
+| #1 | ::{ flag=CN }:: ::Liangiaiajan::{ user-id=5144698 } |
+| #2 | ::{ flag=CN }:: ::U1d::{ user-id=10125072 } |
+| #3 | ::{ flag=CN }:: ::Krn3::{ user-id=12452291 } |
+| #4 | ::{ flag=TW }:: ::IllIlllIIlIIlIl::{ user-id=7227070 } |
+| #5 | ::{ flag=CN }:: ::4kGameBye::{ user-id=89545 } |
+| #6 | ::{ flag=CN }:: ::My Angel Yukee7::{ user-id=9787146 } |
+| #7 | ::{ flag=CN }:: ::LeartLey::{ user-id=10512663 } |
+| #8 | ::{ flag=CN }:: ::Residual pain::{ user-id=8021339 } |
+| #9 | ::{ flag=CN }:: ::yuwenhao1::{ user-id=14318312 } |
+| #10 | ::{ flag=HK }:: ::Elton Tong::{ user-id=14885132 } |
+| #11 | ::{ flag=MO }:: ::idqoos123::{ user-id=3946113 } |
+| #12 | ::{ flag=CN }:: ::- xiaoluoli -::{ user-id=9502281 } |
+| #13 | ::{ flag=CN }:: ::Zyuuu::{ user-id=15389275 } |
+| #14 | ::{ flag=CN }:: ::Phukiir::{ user-id=4556538 } |
+| #15 | ::{ flag=CN }:: ::katiexie::{ user-id=5908765 } |
+| #16 | ::{ flag=CN }:: ::IA daisuki::{ user-id=11238501 } |
+| #17 | ::{ flag=CN }:: ::PJH165F::{ user-id=25181396 } |
 
 ## Podium
 
@@ -87,9 +87,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: [LiangIaiajan](https://osu.ppy.sh/users/5144698) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: [4kGameBye](https://osu.ppy.sh/users/89545) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: ::LiangIaiajan::{ user-id=5144698 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CN }:: ::4kGameBye::{ user-id=89545 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CN }:: ::U1d::{ user-id=10125072 } |
 
 ## Mappools
 

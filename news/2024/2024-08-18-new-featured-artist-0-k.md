@@ -23,7 +23,7 @@ Missed this year's osu!catch World Cup? That means you also missed the song **0 
 
 ### 0 K - Brilliant Silver, Shining Blade
 
-Experience [the map from CWC 2024](https://osu.ppy.sh/beatmapsets/2195061) hosted by [JBHyperion](https://osu.ppy.sh/users/4879508)!
+Experience [the map from CWC 2024](https://osu.ppy.sh/beatmapsets/2195061) hosted by ::JBHyperion::{ user-id=4879508 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/424/Songs/0%20K%20-%20Brilliant%20Silver%2C%20Shining%20Blade.mp3">
@@ -31,7 +31,7 @@ Experience [the map from CWC 2024](https://osu.ppy.sh/beatmapsets/2195061) hoste
 
 ### 0 K - Avontuure
 
-Try out [this other osu!catch map](https://osu.ppy.sh/beatmapsets/1635006) hosted by [Deif](https://osu.ppy.sh/users/318565)!
+Try out [this other osu!catch map](https://osu.ppy.sh/beatmapsets/1635006) hosted by ::Deif::{ user-id=318565 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/424/Songs/0_K_-_Avontuure.mp3">

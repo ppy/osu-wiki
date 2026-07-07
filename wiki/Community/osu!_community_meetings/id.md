@@ -11,7 +11,7 @@ outdated_since: d3592bb35b3055060a588302450b2c9716f9a92f
 
 Apabila kamu tertarik untuk bertanya, pastikan kamu telah membaca pedoman yang tertera di bawah.
 
-Saat ini, pertemuan komunitas osu! diketuai oleh [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335), dan [smoogipoo](https://osu.ppy.sh/users/1040328).
+Saat ini, pertemuan komunitas osu! diketuai oleh ::peppy::{ user-id=2 }, [Ephemeral](https://osu.ppy.sh/users/102335), dan ::smoogipoo::{ user-id=1040328 }.
 
 ## Cara berpartisipasi
 

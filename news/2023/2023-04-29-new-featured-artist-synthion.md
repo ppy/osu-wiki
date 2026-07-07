@@ -23,7 +23,7 @@ Check everything out:
 
 ### Synthion - Aurora
 
-Play through [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1726352) by [Crisper](https://osu.ppy.sh/users/16482505) or [this osu!catch rendition](https://osu.ppy.sh/beatmapsets/1290796) hosted by [wonjae](https://osu.ppy.sh/users/5032045)!
+Play through [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1726352) by ::Crisper::{ user-id=16482505 } or [this osu!catch rendition](https://osu.ppy.sh/beatmapsets/1290796) hosted by ::wonjae::{ user-id=5032045 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/357/Fairy%20Tale%2FSynthion%20-%20Aurora.mp3">
@@ -31,7 +31,7 @@ Play through [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1726352) by 
 
 ### Synthion - Hypervelocity
 
-Experience [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1662973) featured on [HARDCORE UTOPIA](https://osu.ppy.sh/beatmaps/artists/205) and hosted by [qish](https://osu.ppy.sh/users/17050115)!
+Experience [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1662973) featured on [HARDCORE UTOPIA](https://osu.ppy.sh/beatmaps/artists/205) and hosted by ::qish::{ user-id=17050115 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/205/HARDCORE%20UTOPIA%202%2FSynthion%20-%20Hypervelocity.mp3">
@@ -39,7 +39,7 @@ Experience [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1662973) featured
 
 ### Hyper Potions, Synthion & MYLK - Maboroshi
 
-Or try [this classic](https://osu.ppy.sh/beatmapsets/1175718) hosted by [Peter](https://osu.ppy.sh/users/8623835)!
+Or try [this classic](https://osu.ppy.sh/beatmapsets/1175718) hosted by ::Peter::{ user-id=8623835 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/85/Songs/Hyper%20Potions%2C%20Synthion%20%26%20MYLK%20-%20Maboroshi.mp3">

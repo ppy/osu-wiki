@@ -28,7 +28,7 @@ Let's not wait any longer - it's time to announce the results of the osu!mania 4
 
 **With a nearly flawless winning streak, team South Korea are crowned the osu!mania 4K World Cup 2017 Champions!**
 
-Team captain [jakads](https://osu.ppy.sh/users/259972) returns again to lead South Korea towards victory for their second year in a row! Despite being only a 5-man team, their impressive skill and teamwork was what allowed them to prevail. Amazingly, they did not concede a single point at all during the elimination stages. They will proudly carry the title of osu!mania champions for another year!
+Team captain ::jakads::{ user-id=259972 } returns again to lead South Korea towards victory for their second year in a row! Despite being only a 5-man team, their impressive skill and teamwork was what allowed them to prevail. Amazingly, they did not concede a single point at all during the elimination stages. They will proudly carry the title of osu!mania champions for another year!
 
 South Korea takes home the grand prize - $150 per team member, exclusive osu! pins and merchandise, a unique profile badge, and the highly coveted "osu!mania Champion" user title for one year! Many congratulations to them!
 
@@ -36,13 +36,13 @@ South Korea takes home the grand prize - $150 per team member, exclusive osu! pi
 
 **Stepping up their game from last year, team United States takes 2nd place.**
 
-With a mix of new and returning players, the United States team proved to be much more well-rounded this year. Veteran player [Zyph](https://osu.ppy.sh/users/1600432) steps up to the role of team captain for his first time ever, and has done an excellent job in keeping the team together. This newfound balance definitely proved to be a key factor in their outstanding performance.
+With a mix of new and returning players, the United States team proved to be much more well-rounded this year. Veteran player ::Zyph::{ user-id=1600432 } steps up to the role of team captain for his first time ever, and has done an excellent job in keeping the team together. This newfound balance definitely proved to be a key factor in their outstanding performance.
 
 The United States will receive $80 per team member, along with exclusive osu! pins and merchandise, and a unique profile badge. Congratulations to them!
 
 **Even with the internet conspiring against them, team Brazil proudly walks home with the bronze.**
 
-Brazil was also a team that consisted of new and old blood, resulting in an overall improvement from last year. Unfortunately, some of the players were plagued by connection issues throughout the tournament, which led to some losses that were uncalled for. In spite of this, team captain [andreymyc](https://osu.ppy.sh/users/5691061) was able to keep team spirits high, and managed to secure a seat at the podium. Definitely worthy of 3rd place this year.
+Brazil was also a team that consisted of new and old blood, resulting in an overall improvement from last year. Unfortunately, some of the players were plagued by connection issues throughout the tournament, which led to some losses that were uncalled for. In spite of this, team captain ::andreymyc::{ user-id=5691061 } was able to keep team spirits high, and managed to secure a seat at the podium. Definitely worthy of 3rd place this year.
 
 Brazil will receive $40 per team member, as well as exclusive osu! pins and merchandise, and a unique profile badge. Well done to them!
 
@@ -68,7 +68,7 @@ In celebration of the success of this tournament, let's briefly recount the even
 
 **The final match of the week ended in a tiebreaker, a first in osu!mania 4K World Cup Finals history!** The match saw a fateful encounter between Brazil and the United States, a rematch from exactly one year ago. Would the results play out any differently this year round? Brazil was the first to pick, and after a series of close calls (including a disconnect and someone accidentally hitting the Windows key??), it was not long before the match reached 5 - 5.
 
-The tiebreaker was fierce and unforgiving, and the atmosphere was electrifying. Twitch chat exploded to a whole new level as they prayed for [Guilhermeziat's](https://osu.ppy.sh/users/3661387) internet when his connection began to falter. Those prayers did not go unanswered, but alas it was not enough, as ultimately it would be the United States who emerged victorious with a score difference of only *8,368*. This match could not have gone closer.
+The tiebreaker was fierce and unforgiving, and the atmosphere was electrifying. Twitch chat exploded to a whole new level as they prayed for ::Guilhermeziat's::{ user-id=3661387 } internet when his connection began to falter. Those prayers did not go unanswered, but alas it was not enough, as ultimately it would be the United States who emerged victorious with a score difference of only *8,368*. This match could not have gone closer.
 
 ![](/wiki/shared/news/2017-09-26-osu-mania-4k-world-cup-results/BrazilUnitedStates_game1.jpg)
 

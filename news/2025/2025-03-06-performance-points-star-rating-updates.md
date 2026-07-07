@@ -56,7 +56,7 @@ This will fix scores occasionally being out of order on profiles under "best per
 
 The acute angle bonus is a bonus inside of aim calculations for BPMs greater than 300. It is used to reward fast, difficult aim patterns.
 
-This bonus should now be more fair towards difficult patterns, while some overweighted patterns such as repeated angles are now awarded less of this bonus, thanks to a [set](https://github.com/ppy/osu/pull/30902) [of](https://github.com/ppy/osu/pull/31245) [various](https://github.com/ppy/osu/pull/31320) [changes](https://github.com/ppy/osu/pull/31566) proposed by [StanR](https://osu.ppy.sh/users/7217455) (with some contributions by [tsunyoku](https://osu.ppy.sh/users/11315329)).
+This bonus should now be more fair towards difficult patterns, while some overweighted patterns such as repeated angles are now awarded less of this bonus, thanks to a [set](https://github.com/ppy/osu/pull/30902) [of](https://github.com/ppy/osu/pull/31245) [various](https://github.com/ppy/osu/pull/31320) [changes](https://github.com/ppy/osu/pull/31566) proposed by ::StanR::{ user-id=7217455 } (with some contributions by ::tsunyoku::{ user-id=11315329 }).
 
 There was also a change to uncap velocity constraints that used to exist on the bonus allowing for some very hard *acute*-angled jumps in high BPM beatmaps to receive a greater buff.
 
@@ -80,7 +80,7 @@ Some examples of beatmaps nerfed by these changes:
 
 Aim calculations reward beatmaps for having difficult-to-follow slider patterns, with a penalty for dropped slider ends to ensure that plays only receive their full buff if the sliders were hit correctly.
 
-A [change](https://github.com/ppy/osu/pull/31055) proposed by [StanR](https://osu.ppy.sh/users/7217455) has been created in order to ensure this penalty is applied correctly, and uses a more concrete estimation of the difficult sliders in a beatmap.
+A [change](https://github.com/ppy/osu/pull/31055) proposed by ::StanR::{ user-id=7217455 } has been created in order to ensure this penalty is applied correctly, and uses a more concrete estimation of the difficult sliders in a beatmap.
 
 Prior to this change, the penalty applied to aim PP for missed slider ends was unintentionally nerfing much less than it was supposed to. This meant beatmaps with difficult sliders could be abused for easy PP by missing a lot of slider ends. This has been corrected, which causes large nerfs for a lot of scores set on beatmaps such as [t+pazolite - Oshama Scramble! (IOException Edit) [Special]](https://osu.ppy.sh/beatmapsets/1376308#osu/2844649).
 
@@ -88,9 +88,9 @@ Furthermore, the game would previously assume that 10% of a beatmap's sliders ar
 
 ### Speed PP punishment for scores with high tapping deviation
 
-A [change](https://github.com/ppy/osu/pull/30907) proposed by [Givikap120](https://osu.ppy.sh/users/10560705) has been created in order to nerf speed PP on scores with a very high tapping deviation.
+A [change](https://github.com/ppy/osu/pull/30907) proposed by ::Givikap120::{ user-id=10560705 } has been created in order to nerf speed PP on scores with a very high tapping deviation.
 
-Tapping deviation is a statistic similar to unstable rate created by [Frostium](https://osu.ppy.sh/users/8202998), combining a score's hit statistics, OD and amount of difficult "speed notes" (high-strain notes relevant to speed PP) in a beatmap.
+Tapping deviation is a statistic similar to unstable rate created by ::Frostium::{ user-id=8202998 }, combining a score's hit statistics, OD and amount of difficult "speed notes" (high-strain notes relevant to speed PP) in a beatmap.
 
 This deviation is used to punish speed PP if the deviation is deemed "too high" for a beatmap's difficulty and is assumed to have been tapped improperly. This primarily addresses scores using the "rake tapping" technique while also nerfing other forms of improper tapping.
 
@@ -100,14 +100,14 @@ As a result of this change, the old penalty applied in speed PP for 50s has now 
 
 ### Minor changes
 
-- A [set](https://github.com/ppy/osu/pull/31456) of [rebalances](https://github.com/ppy/osu/pull/31515) proposed by [StanR](https://osu.ppy.sh/users/7217455) and [tsunyoku](https://osu.ppy.sh/users/11315329) in order to align final values with community expectations
-- A [fix](https://github.com/ppy/osu/pull/31525) proposed by [molneya](https://osu.ppy.sh/users/8945180) to ensure that the time between spinners are correctly accounted for in Flashlight calculations
-- A [fix](https://github.com/ppy/osu/pull/31447) proposed by [StanR](https://osu.ppy.sh/users/7217455) to ensure ODs below 0 cannot increase PP
-- A [fix](https://github.com/ppy/osu/pull/30544) proposed by [Finadoggie](https://osu.ppy.sh/users/14182048) to ensure estimated slider drops cannot go below zero
-- A [fix](https://github.com/ppy/osu/pull/30618) proposed by [Natelytle](https://osu.ppy.sh/users/17607667) to ensure osu!(lazer)'s PP counter does not display `NaN` while star rating is zero
-- A [set](https://github.com/ppy/osu/pull/30534) [of](https://github.com/ppy/osu/pull/30536) [refactors](https://github.com/ppy/osu/pull/31520) proposed by [StanR](https://osu.ppy.sh/users/7217455), [ltca](https://osu.ppy.sh/users/11475208) and [Natelytle](https://osu.ppy.sh/users/17607667) to aid with development
-- A [change](https://github.com/ppy/osu/pull/31449) proposed by [StanR](https://osu.ppy.sh/users/7217455) to simplify the angle bonus formulas in aim calculations
-- A [change](https://github.com/ppy/osu/pull/21211) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) to implement basic difficulty and performance calculations for the Autopilot mod
+- A [set](https://github.com/ppy/osu/pull/31456) of [rebalances](https://github.com/ppy/osu/pull/31515) proposed by ::StanR::{ user-id=7217455 } and [tsunyoku](https://osu.ppy.sh/users/11315329) in order to align final values with community expectations
+- A [fix](https://github.com/ppy/osu/pull/31525) proposed by ::molneya::{ user-id=8945180 } to ensure that the time between spinners are correctly accounted for in Flashlight calculations
+- A [fix](https://github.com/ppy/osu/pull/31447) proposed by ::StanR::{ user-id=7217455 } to ensure ODs below 0 cannot increase PP
+- A [fix](https://github.com/ppy/osu/pull/30544) proposed by ::Finadoggie::{ user-id=14182048 } to ensure estimated slider drops cannot go below zero
+- A [fix](https://github.com/ppy/osu/pull/30618) proposed by ::Natelytle::{ user-id=17607667 } to ensure osu!(lazer)'s PP counter does not display `NaN` while star rating is zero
+- A [set](https://github.com/ppy/osu/pull/30534) [of](https://github.com/ppy/osu/pull/30536) [refactors](https://github.com/ppy/osu/pull/31520) proposed by ::StanR::{ user-id=7217455 }, [ltca](https://osu.ppy.sh/users/11475208) and ::Natelytle::{ user-id=17607667 } to aid with development
+- A [change](https://github.com/ppy/osu/pull/31449) proposed by ::StanR::{ user-id=7217455 } to simplify the angle bonus formulas in aim calculations
+- A [change](https://github.com/ppy/osu/pull/21211) proposed by ::tsunyoku::{ user-id=11315329 } to implement basic difficulty and performance calculations for the Autopilot mod
 
 ## osu!taiko
 
@@ -126,13 +126,13 @@ Throughout these changes, we will be using the following terminology:
 
 Since the last performance point post, there are some new faces in the osu!taiko pp committee:
 
-- [YaniFR](https://osu.ppy.sh/users/11260982)
-- [BabySnakes](https://osu.ppy.sh/users/4669728)
-- [rloseise](https://osu.ppy.sh/users/6793778)
+- ::YaniFR::{ user-id=11260982 }
+- ::BabySnakes::{ user-id=4669728 }
+- ::rloseise::{ user-id=6793778 }
 
 ### Rhythm rewrite
 
-Similarly to how the osu! game mode has been changed in recent PP/SR updates to handle rhythm complexity, osu!taiko's rhythm calculations have been rewritten by a [set](https://github.com/ppy/osu/pull/31284) [of](https://github.com/ppy/osu/pull/31339) [changes](https://github.com/ppy/osu/pull/31573) proposed by [ltca](https://osu.ppy.sh/users/11475208) (with contributions from [rloseise](https://osu.ppy.sh/users/6793778) and [YaniFR](https://osu.ppy.sh/users/11260982)) to address shortcomings of the previous implementation.
+Similarly to how the osu! game mode has been changed in recent PP/SR updates to handle rhythm complexity, osu!taiko's rhythm calculations have been rewritten by a [set](https://github.com/ppy/osu/pull/31284) [of](https://github.com/ppy/osu/pull/31339) [changes](https://github.com/ppy/osu/pull/31573) proposed by ::ltca::{ user-id=11475208 } (with contributions from ::rloseise::{ user-id=6793778 } and [YaniFR](https://osu.ppy.sh/users/11260982)) to address shortcomings of the previous implementation.
 
 The new rhythm skill works by measuring timing changes between notes — simple rhythms such as 1/2 will receive less of a bonus than more complicated rhythms such as 1/6 and 1/8, especially when frequently placed. In order to ensure this does not overly buff small sections of difficulty, the frequency of these rhythms are assessed to decide how difficult changes to them are.
 
@@ -149,7 +149,7 @@ Repeating patterns, such as triples or 4-note patterns, receive a lower bonus in
 
 ### Reading skill
 
-A [set](https://github.com/ppy/osu/pull/31208) [of](https://github.com/ppy/osu/pull/31510) [changes](https://github.com/ppy/osu/pull/31512) proposed by [ltca](https://osu.ppy.sh/users/11475208) (with contributions from [rloseise](https://osu.ppy.sh/users/6793778)) have been created in order to add a new measure of difficulty assessment — reading. This new skill aims to award additional bonuses depending on the difficulty of reading patterns.
+A [set](https://github.com/ppy/osu/pull/31208) [of](https://github.com/ppy/osu/pull/31510) [changes](https://github.com/ppy/osu/pull/31512) proposed by ::ltca::{ user-id=11475208 } (with contributions from ::rloseise::{ user-id=6793778 }) have been created in order to add a new measure of difficulty assessment — reading. This new skill aims to award additional bonuses depending on the difficulty of reading patterns.
 
 The reading skill assesses the **effective BPM** (calculated as the base BPM of the beatmap multiplied by the per-object slider velocity multiplier) of each object. Drum rolls and swells are not required to be hit, so these object types are exempt from any reading bonuses.
 
@@ -163,7 +163,7 @@ As part of this change, fixed HR buffs in performance calculations were removed 
 
 ### Ratio considerations in colour
 
-A [change](https://github.com/ppy/osu/pull/31285) proposed by [ltca](https://osu.ppy.sh/users/11475208) has been created in order to consider the ratios of patterns when awarding colour difficulty.
+A [change](https://github.com/ppy/osu/pull/31285) proposed by ::ltca::{ user-id=11475208 } has been created in order to consider the ratios of patterns when awarding colour difficulty.
 
 The colour skill now applies a penalty based on the number of consecutive *consistent* intervals, meaning stream-like patterns with a lack of rhythmic and colour difficulty are penalised appropriately. This also means that diverse beatmaps with less predictable colour changes receive a buff.
 
@@ -181,14 +181,14 @@ Some examples of beatmaps nerfed by this change:
 
 ### Stamina improvements
 
-A [change](https://github.com/ppy/osu/pull/31337) proposed by [ltca](https://osu.ppy.sh/users/11475208) has been created in order to better factor speed into stamina calculations:
+A [change](https://github.com/ppy/osu/pull/31337) proposed by ::ltca::{ user-id=11475208 } has been created in order to better factor speed into stamina calculations:
 
 - Monos now have an additional buff to acknowledge the stamina required to keep up with rapid single-colour patterns, especially at higher BPMs
 - Stamina now considers the density and BPM of consecutive objects, awarding extra bonuses for faster patterns
 
 ### Convert changes
 
-Star rating for convert beatmaps have been improved, thanks to a [set](https://github.com/ppy/osu/pull/31196) of [changes](https://github.com/ppy/osu/pull/31546) proposed by [ltca](https://osu.ppy.sh/users/11475208). There is no longer any blanket star rating nerf for converts, because they're instead now more properly addressed in various areas:
+Star rating for convert beatmaps have been improved, thanks to a [set](https://github.com/ppy/osu/pull/31196) of [changes](https://github.com/ppy/osu/pull/31546) proposed by ::ltca::{ user-id=11475208 }. There is no longer any blanket star rating nerf for converts, because they're instead now more properly addressed in various areas:
 
 - Low accuracy is punished more harshly on beatmaps with a lot of mono patterns
 - Difficult converts usually increase the amount of available fingers due to techniques such as "TL tapping", thus stamina difficulty is decreased proportionally to match this added availability
@@ -196,19 +196,19 @@ Star rating for convert beatmaps have been improved, thanks to a [set](https://g
 
 ### Minor changes
 
-- A [set](https://github.com/ppy/osu/pull/31338) of [rebalances](https://github.com/ppy/osu/pull/31556) proposed by [ltca](https://osu.ppy.sh/users/11475208) in order to align final values with community expectations
-- A [change](https://github.com/ppy/osu/pull/31195) proposed by [ltca](https://osu.ppy.sh/users/11475208) to weight accuracy better on lower ODs
-- A [change](https://github.com/ppy/osu/pull/31499) proposed by [Natelytle](https://osu.ppy.sh/users/17607667) to remove the lower cap on accuracy calculations, providing a larger nerf to lower accuracies
-- A [change](https://github.com/ppy/osu/pull/30591) proposed by [ltca](https://osu.ppy.sh/users/11475208) to implement basic difficulty calculations for the Relax mod
-- A [change](https://github.com/ppy/osu/pull/31067) proposed by [YaniFR](https://osu.ppy.sh/users/11260982) to scale star rating on lower difficulties more harshly
-- A [fix](https://github.com/ppy/osu/pull/31579) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure rhythm uses the correct hit windows
-- A [refactor](https://github.com/ppy/osu/pull/31191) proposed by [ltca](https://osu.ppy.sh/users/11475208) to aid with development
+- A [set](https://github.com/ppy/osu/pull/31338) of [rebalances](https://github.com/ppy/osu/pull/31556) proposed by ::ltca::{ user-id=11475208 } in order to align final values with community expectations
+- A [change](https://github.com/ppy/osu/pull/31195) proposed by ::ltca::{ user-id=11475208 } to weight accuracy better on lower ODs
+- A [change](https://github.com/ppy/osu/pull/31499) proposed by ::Natelytle::{ user-id=17607667 } to remove the lower cap on accuracy calculations, providing a larger nerf to lower accuracies
+- A [change](https://github.com/ppy/osu/pull/30591) proposed by ::ltca::{ user-id=11475208 } to implement basic difficulty calculations for the Relax mod
+- A [change](https://github.com/ppy/osu/pull/31067) proposed by ::YaniFR::{ user-id=11260982 } to scale star rating on lower difficulties more harshly
+- A [fix](https://github.com/ppy/osu/pull/31579) proposed by ::tsunyoku::{ user-id=11315329 } to ensure rhythm uses the correct hit windows
+- A [refactor](https://github.com/ppy/osu/pull/31191) proposed by ::ltca::{ user-id=11475208 } to aid with development
 
 ## osu!catch
 
 ## Buzz slider fixes
 
-A [change](https://github.com/ppy/osu/pull/31126) proposed by [bastoo0](https://osu.ppy.sh/users/4864877) has been created in order to ensure "buzz sliders" are treated correctly.
+A [change](https://github.com/ppy/osu/pull/31126) proposed by ::bastoo0::{ user-id=4864877 } has been created in order to ensure "buzz sliders" are treated correctly.
 
 A "buzz slider", to borrow osu! mode terminology, is a rapid back-and-forth juice stream with a width smaller than the size of the catcher, but still large enough to be counted as a movement. This resulted in difficulty calculations interpreting the pattern as a very fast movement instead of a stand-still pattern. Back-and-forth movements caused by these streams are now detected and no longer award excessive difficulty. This most notably affects beatmaps such as [100 gecs - hand crushed by a mallet [g3X_x_Xtr^@]](https://osu.ppy.sh/beatmapsets/1253992#fruits/3208604).
 

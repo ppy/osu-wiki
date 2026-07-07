@@ -13,7 +13,7 @@ Putting their own spin on avant-garde indie pop is the Japanese trio behind **UR
 
 We've snagged **6** tracks from their *AVANTDEMIC* album, each presenting a different mapping challenge from the last.
 
-**URBANGARDE** is a relatively new name to the osu! scene, so we super strongly recommend watching [h i f u](https://osu.ppy.sh/users/11843685) struggle to play a map of *URBANGARDE - BAERUNA* using a skin with blinding levels of brightness. If you're keen on keeping your eyesight, the other song previews could prove useful instead:
+**URBANGARDE** is a relatively new name to the osu! scene, so we super strongly recommend watching ::h i f u::{ user-id=11843685 } struggle to play a map of *URBANGARDE - BAERUNA* using a skin with blinding levels of brightness. If you're keen on keeping your eyesight, the other song previews could prove useful instead:
 
 <div align="center">
     <video width="95%" controls>
@@ -25,9 +25,9 @@ We've snagged **6** tracks from their *AVANTDEMIC* album, each presenting a diff
 
 Check out any of these mapsets from the Mappers' Guild:
 
-- [osu! mapset](https://osu.ppy.sh/beatmapsets/1330252) hosted by [Agatsu](https://osu.ppy.sh/users/5579871)
-- [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1323774) hosted by [Faputa](https://osu.ppy.sh/users/845733)
-- [osu!catch mapset](https://osu.ppy.sh/beatmapsets/1340766) hosted by [autofanboy](https://osu.ppy.sh/users/636114)
+- [osu! mapset](https://osu.ppy.sh/beatmapsets/1330252) hosted by ::Agatsu::{ user-id=5579871 }
+- [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1323774) hosted by ::Faputa::{ user-id=845733 }
+- [osu!catch mapset](https://osu.ppy.sh/beatmapsets/1340766) hosted by ::autofanboy::{ user-id=636114 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/149/AVANTDEMIC/URBANGARDE%20-%20BAERUNA.mp3" type="audio/mpeg">

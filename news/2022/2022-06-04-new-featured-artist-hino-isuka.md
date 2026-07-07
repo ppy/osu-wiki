@@ -25,10 +25,10 @@ It should be no surprise that **Hino Isuka**'s style lends flawlessly to the hig
 
 Play through any of these awesome maps:
 
-- [Loved osu! map](https://osu.ppy.sh/beatmapsets/450340) hosted by [elchxyrlia](https://osu.ppy.sh/users/1722835) from the video above
-- [Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/576641) hosted by [asuasu_yura](https://osu.ppy.sh/users/2875968)
-- [Ranked osu!catch map](https://osu.ppy.sh/beatmapsets/1404850) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)
-- [Loved osu!mania map](https://osu.ppy.sh/beatmapsets/517221) hosted by [qodtjr](https://osu.ppy.sh/users/3021168)
+- [Loved osu! map](https://osu.ppy.sh/beatmapsets/450340) hosted by ::elchxyrlia::{ user-id=1722835 } from the video above
+- [Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/576641) hosted by ::asuasu\1yura::{ user-id=2875968 }
+- [Ranked osu!catch map](https://osu.ppy.sh/beatmapsets/1404850) hosted by ::Jemzuu::{ user-id=7890134 }
+- [Loved osu!mania map](https://osu.ppy.sh/beatmapsets/517221) hosted by ::qodtjr::{ user-id=3021168 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/272/Songs/Hino%20Isuka%20-%20Dreamin'%20attraction!!%20(Extended).mp3" type="audio/mpeg">
@@ -38,9 +38,9 @@ Play through any of these awesome maps:
 
 The osu!mania community *really* likes this song. Try out any of these maps:
 
-- [Ranked osu!mania map](https://osu.ppy.sh/beatmapsets/1032511) hosted by [_Kobii](https://osu.ppy.sh/users/6209713)
-- [Loved osu!mania map](https://osu.ppy.sh/beatmapsets/1099229) hosted by [HowToPlayLN](https://osu.ppy.sh/users/10879600)
-- [About-to-be-ranked osu!mania map](https://osu.ppy.sh/beatmapsets/1046607) hosted by [DoNotMess](https://osu.ppy.sh/users/1596318)
+- [Ranked osu!mania map](https://osu.ppy.sh/beatmapsets/1032511) hosted by ::\1Kobii::{ user-id=6209713 }
+- [Loved osu!mania map](https://osu.ppy.sh/beatmapsets/1099229) hosted by ::HowToPlayLN::{ user-id=10879600 }
+- [About-to-be-ranked osu!mania map](https://osu.ppy.sh/beatmapsets/1046607) hosted by ::DoNotMess::{ user-id=1596318 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/272/Songs/Hino%20Isuka%20-%20%23be_fortunate.mp3" type="audio/mpeg">
@@ -48,7 +48,7 @@ The osu!mania community *really* likes this song. Try out any of these maps:
 
 ### Bomb Bang Bound!!!
 
-Take one more [osu!mania map](https://osu.ppy.sh/beatmapsets/982816#mania/2056739) hosted by [qodtjr](https://osu.ppy.sh/users/3021168)!
+Take one more [osu!mania map](https://osu.ppy.sh/beatmapsets/982816#mania/2056739) hosted by ::qodtjr::{ user-id=3021168 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/272/Songs/Hisui%20Chazuke%20-%20Bomb%20Bang%20Bound!!!.mp3" type="audio/mpeg">

@@ -28,10 +28,10 @@ outdated_since: 24a3e2dd442d541ad1e64134b4ca7243b16fe038
 
 | Нікнейм | Додаткові мови |
 | :-- | :-- |
-| ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | Італійська |
-| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
-| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
-| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Корейська, японська |
-| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Німецька |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Філіппінська |
-| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Польська |
+| ::{ flag=IT }:: ::- Marco -::{ user-id=1273955 } | Італійська |
+| ::{ flag=US }:: ::Blushing::{ user-id=5927823 } |  |
+| ::{ flag=GB }:: ::chromb::{ user-id=10238680 } |  |
+| ::{ flag=KR }:: ::Civil oath::{ user-id=3216107 } | Корейська, японська |
+| ::{ flag=DE }:: ::Lyawi::{ user-id=5851253 } | Німецька |
+| ::{ flag=PH }:: ::Nathanael::{ user-id=2295078 } | Філіппінська |
+| ::{ flag=PL }:: ::spaceman\1atlas::{ user-id=3035836 } | Польська |

@@ -38,9 +38,9 @@ The osu!taiko Mapping World Cup 2025 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) |
-| Designers | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966) |
-| Judges | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128), ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669), ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689), ::{ flag=GB }:: [Skidooskei](https://osu.ppy.sh/users/10079029), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Host | ::{ flag=NL }:: ::ikin5050::{ user-id=4007649 }, ::{ flag=AT }:: ::Yasuho::{ user-id=8458835 } |
+| Designers | ::{ flag=MY }:: ::Jerry::{ user-id=605973 }, ::{ flag=MY }:: ::Z419::{ user-id=9912966 } |
+| Judges | ::{ flag=TH }:: ::Ph0eNiiXZ::{ user-id=9463721 }, ::{ flag=HK }:: ::Cynplytholowazy::{ user-id=3901754 }, ::{ flag=DE }:: ::OnosakiHito::{ user-id=290128 }, ::{ flag=SG }:: ::arcpotato::{ user-id=12842392 }, ::{ flag=CL }:: ::ulko::{ user-id=1263669 }, ::{ flag=FR }:: ::Kin::{ user-id=480689 }, ::{ flag=GB }:: ::Skidooskei::{ user-id=10079029 }, ::{ flag=VN }:: ::davidminh0111::{ user-id=9623142 }, ::{ flag=NO }:: ::roufou::{ user-id=1109122 }, ::{ flag=SE }:: ::Nurend::{ user-id=9905079 }, ::{ flag=SE }:: ::Raphalge::{ user-id=3918650 }, ::{ flag=DE }:: ::Nwolf::{ user-id=1910766 } |
 
 ## Links
 

@@ -59,4 +59,4 @@ The [account support team](/wiki/People/Account_support_team) will review your r
 ## Trivia
 
 - The `BOT` group badge is shown on accounts with a primary group of `Chat Bots` (group #29). The group's listing is not public.
-- Some personal accounts are in the chat bots group because the owners didn't want or request to have a separate bot account for their service, for example ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) and ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454). This setup is no longer offered, and new bots entering the group will always be given an exclusive account.
+- Some personal accounts are in the chat bots group because the owners didn't want or request to have a separate bot account for their service, for example ::{ flag=DE }:: ::Tillerino::{ user-id=2070907 } and ::{ flag=FR }:: ::ThePooN::{ user-id=718454 }. This setup is no longer offered, and new bots entering the group will always be given an exclusive account.

@@ -13,7 +13,7 @@ The ballot box has been chained up, and the results have been tallied up. This e
 
 ### 3rd place - ROSULA
 
-Inspired by the design of [Navia](https://genshin-impact.fandom.com/wiki/Navia) from *Genshin Impact*, [Chromasia](https://osu.ppy.sh/users/7306251) has once again put themselves near the top of the list. Even though this is their 3rd time entering a skinning contest, they have quickly solidified themselves in the upper echelon of the skinning community. Their newest entry, [ROSULA](https://osu.ppy.sh/community/forums/topics/1925929), basks users with tastefully placed golden yellow accents across the entire skin, along with Navia as the centre piece on the song selection screen.
+Inspired by the design of [Navia](https://genshin-impact.fandom.com/wiki/Navia) from *Genshin Impact*, ::Chromasia::{ user-id=7306251 } has once again put themselves near the top of the list. Even though this is their 3rd time entering a skinning contest, they have quickly solidified themselves in the upper echelon of the skinning community. Their newest entry, [ROSULA](https://osu.ppy.sh/community/forums/topics/1925929), basks users with tastefully placed golden yellow accents across the entire skin, along with Navia as the centre piece on the song selection screen.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/HpL7rWyVjP4" frameborder="0" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ This skin ticks all the aesthetically pleasing boxes, but is also a very functio
 
 ### 2nd place - echoing inside.
 
-It's hard to talk about modern skinning without mentioning [thetasigma](https://osu.ppy.sh/users/6234482) at least once. Consistently ranking in the top 3 of all recent skinning competitions, they have proven themselves as a top-tier skinner. Their newest entry, [echoing inside.](https://osu.ppy.sh/community/forums/topics/1925867), is themed around [Robin](https://honkai-star-rail.fandom.com/wiki/Robin), a character from *Honkai: Star Rail*, and thetasigma has used the character's colour palette extensively throughout the skin, with a focus on simplistic gameplay.
+It's hard to talk about modern skinning without mentioning ::thetasigma::{ user-id=6234482 } at least once. Consistently ranking in the top 3 of all recent skinning competitions, they have proven themselves as a top-tier skinner. Their newest entry, [echoing inside.](https://osu.ppy.sh/community/forums/topics/1925867), is themed around [Robin](https://honkai-star-rail.fandom.com/wiki/Robin), a character from *Honkai: Star Rail*, and thetasigma has used the character's colour palette extensively throughout the skin, with a focus on simplistic gameplay.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/9PnF9wPOsJo" frameborder="0" allowfullscreen></iframe>
@@ -39,7 +39,7 @@ Gacha gamers recognised thetasigma's efforts and gave them good RNG, which they 
 
 ### 1st place - Phosphor
 
-[Miorine](https://osu.ppy.sh/users/12630408) has strayed away from the usual anime girl themes and focused instead on the topic of nostalgia with their entry, [Phosphor](https://osu.ppy.sh/community/forums/topics/1920571). After barely losing out on 1st place during last year's [Skin of the Year](https://osu.ppy.sh/home/news/2024-02-05-skin-of-the-year-2023-results) contest, they have once again returned with more of an 80s-style skin, throwing all of us back to the times of CRTs, floppy disks and beige-painted plastics wherever you look.
+::Miorine::{ user-id=12630408 } has strayed away from the usual anime girl themes and focused instead on the topic of nostalgia with their entry, [Phosphor](https://osu.ppy.sh/community/forums/topics/1920571). After barely losing out on 1st place during last year's [Skin of the Year](https://osu.ppy.sh/home/news/2024-02-05-skin-of-the-year-2023-results) contest, they have once again returned with more of an 80s-style skin, throwing all of us back to the times of CRTs, floppy disks and beige-painted plastics wherever you look.
 
 Players might even find themselves more immersed into the theme in gameplay rather than the song selection screen, with a unique take on the playable border that's completely skinned out to look like you are actually playing on a CRT. We'd also like to shout out osu!mania's unique playfield as well, as it's been completely reskinned to look like a never-ending punch card.
 

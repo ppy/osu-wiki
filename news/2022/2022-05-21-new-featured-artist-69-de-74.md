@@ -13,7 +13,7 @@ series: featured_artists
 
 **11** of those transcendent tunes are now up for grabs from [**69 de 74**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/268)!
 
-See what this artist has to offer through a quick video showcasing lazer's editor and gameplay views, or try playing any of the beatmaps below created by **69 de 74** enthusiast [Reywateil](https://osu.ppy.sh/users/9828042)!
+See what this artist has to offer through a quick video showcasing lazer's editor and gameplay views, or try playing any of the beatmaps below created by **69 de 74** enthusiast ::Reywateil::{ user-id=9828042 }!
 
 Check everything out:
 

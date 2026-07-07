@@ -17,7 +17,7 @@ Check out a sample of what's what below:
 
 ### Free At Last
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1133317) by [Icekalt](https://osu.ppy.sh/users/5410645)!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1133317) by ::Icekalt::{ user-id=5410645 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/79/previews/2102.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1133317) by [Icekal
 
 ### Sleep In The Heat
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1141879) hosted by [Milan-](https://osu.ppy.sh/users/1052994)!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1141879) hosted by ::Milan-::{ user-id=1052994 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/79/previews/2114.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1141879) hosted by 
 
 ### DVP
 
-Check out [this Loved set](https://osu.ppy.sh/beatmapsets/613989) by [Kaifin](https://osu.ppy.sh/users/2596942)!
+Check out [this Loved set](https://osu.ppy.sh/beatmapsets/613989) by ::Kaifin::{ user-id=2596942 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/79/previews/2098.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Check out [this Loved set](https://osu.ppy.sh/beatmapsets/613989) by [Kaifin](ht
 
 ### Mabu
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/762836) hosted by [Hobbes2](https://osu.ppy.sh/users/8157492)!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/762836) hosted by ::Hobbes2::{ user-id=8157492 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/79/previews/2106.mp3" type="audio/mpeg">

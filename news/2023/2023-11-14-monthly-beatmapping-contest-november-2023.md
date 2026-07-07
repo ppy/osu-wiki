@@ -28,14 +28,14 @@ Navigate to whichever topic you're interested in above (or flex your scrolling m
 
 | User | Beatmap | Placement | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| [acnozei](https://osu.ppy.sh/users/10141268) | [ginkiha feat. TEA - Haruka](https://osu.ppy.sh/beatmapsets/2088591#osu/4376852) | 1st + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +4 (5 total) |
-| [phyr](https://osu.ppy.sh/users/13181574) | [Aiobahn - Towa no Utage (w/ YUC'e)](https://osu.ppy.sh/beatmapsets/2088596#osu/4376857) | 2nd | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (4 total) |
-| [LeCandy](https://osu.ppy.sh/users/6626249) | [Redside - Sidequest](https://osu.ppy.sh/beatmapsets/2088634#osu/4376938) | 3rd | - | +1 (1 total) |
-| [Lasse](https://osu.ppy.sh/users/896613) | [ABSOLUTE CASTAWAY - Musubime](https://osu.ppy.sh/beatmapsets/2088521#osu/4376727) | Screener's pick | - | +1 (1 total) |
+| ::acnozei::{ user-id=10141268 } | [ginkiha feat. TEA - Haruka](https://osu.ppy.sh/beatmapsets/2088591#osu/4376852) | 1st + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +4 (5 total) |
+| ::phyr::{ user-id=13181574 } | [Aiobahn - Towa no Utage (w/ YUC'e)](https://osu.ppy.sh/beatmapsets/2088596#osu/4376857) | 2nd | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (4 total) |
+| ::LeCandy::{ user-id=6626249 } | [Redside - Sidequest](https://osu.ppy.sh/beatmapsets/2088634#osu/4376938) | 3rd | - | +1 (1 total) |
+| ::Lasse::{ user-id=896613 } | [ABSOLUTE CASTAWAY - Musubime](https://osu.ppy.sh/beatmapsets/2088521#osu/4376727) | Screener's pick | - | +1 (1 total) |
 
-To start, [acnozei](https://osu.ppy.sh/users/10141268) and [Lasse](https://osu.ppy.sh/users/896613) completely dominated the screening phase! Each of their maps were praised equally, yet both were far ahead of the next map in line, earning the mappers a single [contest point](/wiki/Contests/Contest_points) towards their future *Elite Mapper* titles.
+To start, ::acnozei::{ user-id=10141268 } and [Lasse](https://osu.ppy.sh/users/896613) completely dominated the screening phase! Each of their maps were praised equally, yet both were far ahead of the next map in line, earning the mappers a single [contest point](/wiki/Contests/Contest_points) towards their future *Elite Mapper* titles.
 
-[acnozei](https://osu.ppy.sh/users/10141268)'s talent only continued to impress, earning them the top spot in the judging panel and 3 more contest points! [phyr](https://osu.ppy.sh/users/13181574) and [LeCandy](https://osu.ppy.sh/users/6626249) were close behind, earning 2 and 1 contest points respectively.
+::acnozei::{ user-id=10141268 }'s talent only continued to impress, earning them the top spot in the judging panel and 3 more contest points! ::phyr::{ user-id=13181574 } and [LeCandy](https://osu.ppy.sh/users/6626249) were close behind, earning 2 and 1 contest points respectively.
 
 ### osu!mania results
 
@@ -45,13 +45,13 @@ To start, [acnozei](https://osu.ppy.sh/users/10141268) and [Lasse](https://osu.p
 
 | User | Beatmap | Placement | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| [Lott](https://osu.ppy.sh/users/13821222) | [Sad Keyboard Guy & Gardens - Waking Shadows feat. eili (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2088664#mania/4377001) | #1 | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
-| [hemoo](https://osu.ppy.sh/users/4420703) | [Camellia - d:for the DELTA (Camellia's "PLANETARY//DUBSTEP" Remix)](https://osu.ppy.sh/beatmapsets/2089143#mania/4378014) | #2 + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
-| [Leeju](https://osu.ppy.sh/users/18219603) | [Camellia - Break The Silence](https://osu.ppy.sh/beatmapsets/2088786#mania/4377238) | #3 | - | +1 (1 total) |
+| ::Lott::{ user-id=13821222 } | [Sad Keyboard Guy & Gardens - Waking Shadows feat. eili (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2088664#mania/4377001) | #1 | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
+| ::hemoo::{ user-id=4420703 } | [Camellia - d:for the DELTA (Camellia's "PLANETARY//DUBSTEP" Remix)](https://osu.ppy.sh/beatmapsets/2089143#mania/4378014) | #2 + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +3 (3 total) |
+| ::Leeju::{ user-id=18219603 } | [Camellia - Break The Silence](https://osu.ppy.sh/beatmapsets/2088786#mania/4377238) | #3 | - | +1 (1 total) |
 
-After submitting maps to the Monthly Beatmapping Contest **10 times** throughout 2020 and 2021, [Lott](https://osu.ppy.sh/users/13821222) casually dropped into the first iteration of 2023's MBC with a landslide winning. It's about time, so congrats!
+After submitting maps to the Monthly Beatmapping Contest **10 times** throughout 2020 and 2021, ::Lott::{ user-id=13821222 } casually dropped into the first iteration of 2023's MBC with a landslide winning. It's about time, so congrats!
 
-[hemoo](https://osu.ppy.sh/users/4420703)'s runner-up submission is impressive in its own right too! The screening crew almost universally praised their entry, boosting hemoo's [contest points](/wiki/Contests/Contest_points) total to match Lott's.
+::hemoo::{ user-id=4420703 }'s runner-up submission is impressive in its own right too! The screening crew almost universally praised their entry, boosting hemoo's [contest points](/wiki/Contests/Contest_points) total to match Lott's.
 
 Ooooooooookay. That's enough about the past — let's talk about this month's contest!
 

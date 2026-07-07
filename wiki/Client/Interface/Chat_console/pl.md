@@ -22,7 +22,7 @@ Okno z czatem można otworzyć z większości miejsc w osu! poprzez naciśnięci
 | **Red** | [Moderatorzy globalni](/wiki/People/Global_Moderation_Team) lub członkowie [zespołu zapewniania jakości](/wiki/People/Quality_Assurance_Team) |
 | **Green** | Linia zawierającą twoją nazwę użytkownika lub dodane przez ciebie słowo, która wywołuje podświetlenie na czacie. Kopia tej wiadomości pojawi się także na kanale `#highlight` zawierającym wszystkie tego typu wiadomości. |
 | **Blue** | Wiadomość prywatna |
-| **Cyan** | [peppy](https://osu.ppy.sh/users/2), twórca osu! |
+| **Cyan** | ::peppy::{ user-id=2 }, twórca osu! |
 | **Pink** | [BanchoBot](/wiki/BanchoBot) |
 
 - Naciśnij przycisk `Show Ticker`, by nowe wiadomości były wyświetlane na dole ekranu, nawet gdy czat jest wyłączony.

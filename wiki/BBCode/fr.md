@@ -344,7 +344,7 @@ La balise *Heading (v2)* est une balise obsolète qui était autrefois utilisée
 
 ## Le saviez-vous ?
 
-- Cet article a été adapté du post ["HOW TO : Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) crée par [Stefan](https://osu.ppy.sh/users/626907).
+- Cet article a été adapté du post ["HOW TO : Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) crée par ::Stefan::{ user-id=626907 }.
 - Il existait auparavant un bug qui permettait aux utilisateurs de rendre le texte transparent en utilisant la [balise de couleur](#couleur) et en tapant "transparent" après le signe égal (`=`).
   - Pour l'instant, le texte reprend la couleur par défaut (blanc) lorsque cela se produit.
 - Avant l'ajout de la balise `[imagemap]`, il était possible d'ajouter un lien hypertexte à une image en combinant les balises `[url]` et `[img]`, mais un seul lien hypertexte peut être défini par image. Il faudrait pour cela découper l'image originale en plusieurs morceaux (c'est-à-dire une image partielle pour chaque lien) et les disposer horizontalement les uns à côté des autres.

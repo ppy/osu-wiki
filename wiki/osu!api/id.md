@@ -16,4 +16,4 @@ Proses autentikasi untuk API versi baru berlangsung mengikuti [protokol OAuth 2]
 
 ## Lihat juga
 
-- Postingan forum asli: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) oleh [peppy](https://osu.ppy.sh/users/2)
+- Postingan forum asli: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) oleh ::peppy::{ user-id=2 }

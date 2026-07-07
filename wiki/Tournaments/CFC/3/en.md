@@ -8,7 +8,7 @@ tags:
 
 ![CFC 3 logo](img/logo.png)
 
-The **Catch French Cup 3** (***CFC 3***) was a one-on-one French osu!catch tournament hosted by ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third instalment of the Catch French Cup.
+The **Catch French Cup 3** (***CFC 3***) was a one-on-one French osu!catch tournament hosted by ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 }. It was the third instalment of the Catch French Cup.
 
 ## Tournament schedule
 
@@ -40,14 +40,14 @@ The Catch French Cup 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Mappool selector | ::{ flag=FR }:: [Emiru](https://osu.ppy.sh/users/3306180) |
-| Referee | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=FR }:: [\[ Mimir \]](https://osu.ppy.sh/users/7382734) |
-| Streamer | ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=FR }:: [Astreachan](https://osu.ppy.sh/users/2953898), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| Commentator | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Orazeit](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ::{ flag=FR }:: [\[Haku\]](https://osu.ppy.sh/users/2329184), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
-| Designer | ::{ flag=FR }:: [Lotchidych](https://osu.ppy.sh/users/8375240) |
-| Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Manager | ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 } |
+| Mappool selector | ::{ flag=FR }:: ::Emiru::{ user-id=3306180 } |
+| Referee | ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 }, ::{ flag=FR }:: ::Ryumi::{ user-id=6596270 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user-id=7157133 }, ::{ flag=FR }:: ::Purettsu Eru::{ user-id=1542565 }, ::{ flag=CA }:: ::Sinaeb::{ user-id=1576095 }, ::{ flag=JP }:: ::Briesmas::{ user-id=2865172 }, ::{ flag=FR }:: ::\[ Mimir \]::{ user-id=7382734 } |
+| Streamer | ::{ flag=FR }:: ::Purettsu Eru::{ user-id=1542565 }, ::{ flag=FR }:: ::FulgurentKille::{ user-id=4096322 }, ::{ flag=FR }:: ::Kaeldori::{ user-id=962519 }, ::{ flag=FR }:: ::Astreachan::{ user-id=2953898 }, ::{ flag=CA }:: ::Sinaeb::{ user-id=1576095 } |
+| Commentator | ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 }, ::{ flag=FR }:: ::FulgurentKille::{ user-id=4096322 }, ::{ flag=FR }:: ::Orazeit::{ user-id=8335913 }, ::{ flag=FR }:: ::4L-Chan 3 Porte::{ user-id=7253987 }, ::{ flag=FR }:: ::AAAAAAAAAAAAHHH::{ user-id=4864877 }, ::{ flag=FR }:: ::\[Haku\]::{ user-id=2329184 }, ::{ flag=FR }:: ::redjiii::{ user-id=1378728 } |
+| Designer | ::{ flag=FR }:: ::Lotchidych::{ user-id=8375240 } |
+| Statistician | ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 }, ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 } |
 
 ## Links
 
@@ -61,23 +61,23 @@ The Catch French Cup 3 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994), ::{ flag=FR }:: [Libegon](https://osu.ppy.sh/users/9922381), ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ::{ flag=FR }:: [Sounny](https://osu.ppy.sh/users/7326109), ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322) |
-| High | ::{ flag=FR }:: [SkaylleexSamaFR](https://osu.ppy.sh/users/7720945), ::{ flag=FR }:: [Orazeit](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239), ::{ flag=FR }:: [Mnemosyne](https://osu.ppy.sh/users/9255433), ::{ flag=FR }:: [tutiflo](https://osu.ppy.sh/users/2024185), ::{ flag=FR }:: [GyraFanBoy](https://osu.ppy.sh/users/8417565), ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) |
-| Low | ::{ flag=MA }:: [l3ssili](https://osu.ppy.sh/users/12123746), ::{ flag=FR }:: [CaptainAlexis](https://osu.ppy.sh/users/6872242), ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725), ::{ flag=FR }:: [\[Haku\]](https://osu.ppy.sh/users/2329184), ::{ flag=FR }:: [07th Loli](https://osu.ppy.sh/users/4122996), ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141), ::{ flag=FR }:: [ume-skills](https://osu.ppy.sh/users/1383450), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015) |
-| Unseeded | ::{ flag=FR }:: [Fanther](https://osu.ppy.sh/users/7415863), ::{ flag=BE }:: [-\[Smoked\]-](https://osu.ppy.sh/users/8731044), ::{ flag=FR }:: [Iyorin](https://osu.ppy.sh/users/1859986), ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042), ::{ flag=FR }:: [Astreachan](https://osu.ppy.sh/users/2953898), ::{ flag=FR }:: [deesse du mal](https://osu.ppy.sh/users/9177774), ::{ flag=FR }:: [Nyton](https://osu.ppy.sh/users/9475990), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
+| Top | ::{ flag=FR }:: ::Boros::{ user-id=5490623 }, ::{ flag=TN }:: ::-Ken::{ user-id=4430811 }, ::{ flag=FR }:: ::Holloh::{ user-id=7612994 }, ::{ flag=FR }:: ::Libegon::{ user-id=9922381 }, ::{ flag=FR }:: ::AAAAAAAAAAAAHHH::{ user-id=4864877 }, ::{ flag=FR }:: ::Sounny::{ user-id=7326109 }, ::{ flag=FR }:: ::Noulayfe::{ user-id=4316542 }, ::{ flag=FR }:: ::FulgurentKille::{ user-id=4096322 } |
+| High | ::{ flag=FR }:: ::SkaylleexSamaFR::{ user-id=7720945 }, ::{ flag=FR }:: ::Orazeit::{ user-id=8335913 }, ::{ flag=FR }:: ::Noctalium::{ user-id=6488167 }, ::{ flag=FR }:: ::Julo::{ user-id=4203239 }, ::{ flag=FR }:: ::Mnemosyne::{ user-id=9255433 }, ::{ flag=FR }:: ::tutiflo::{ user-id=2024185 }, ::{ flag=FR }:: ::GyraFanBoy::{ user-id=8417565 }, ::{ flag=FR }:: ::Electr0o::{ user-id=9484428 } |
+| Low | ::{ flag=MA }:: ::l3ssili::{ user-id=12123746 }, ::{ flag=FR }:: ::CaptainAlexis::{ user-id=6872242 }, ::{ flag=FR }:: ::dracoV::{ user-id=7925725 }, ::{ flag=FR }:: ::\[Haku\]::{ user-id=2329184 }, ::{ flag=FR }:: ::07th Loli::{ user-id=4122996 }, ::{ flag=FR }:: ::Aequo3::{ user-id=4495141 }, ::{ flag=FR }:: ::ume-skills::{ user-id=1383450 }, ::{ flag=FR }:: ::floflim::{ user-id=5954015 } |
+| Unseeded | ::{ flag=FR }:: ::Fanther::{ user-id=7415863 }, ::{ flag=BE }:: ::-\[Smoked\]-::{ user-id=8731044 }, ::{ flag=FR }:: ::Iyorin::{ user-id=1859986 }, ::{ flag=FR }:: ::Chernobog::{ user-id=3317042 }, ::{ flag=FR }:: ::Astreachan::{ user-id=2953898 }, ::{ flag=FR }:: ::deesse du mal::{ user-id=9177774 }, ::{ flag=FR }:: ::Nyton::{ user-id=9475990 }, ::{ flag=CA }:: ::Sinaeb::{ user-id=1576095 } |
 
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | ::{ flag=FR }:: [SkaylleexSamaFR](https://osu.ppy.sh/users/7720945) | ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015) | ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042) |
-| **B** | ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877) | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167) | ::{ flag=FR }:: [07th Loli](https://osu.ppy.sh/users/4122996) | ::{ flag=FR }:: [Nyton](https://osu.ppy.sh/users/9475990) |
-| **C** | ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322) | ::{ flag=FR }:: [Orazeit](https://osu.ppy.sh/users/8335913) | ::{ flag=FR }:: [ume-skills](https://osu.ppy.sh/users/1383450) | ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| **D** | ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994) | ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239) | ::{ flag=FR }:: [\[Haku\]](https://osu.ppy.sh/users/2329184) | ::{ flag=FR }:: [Fanther](https://osu.ppy.sh/users/7415863) |
-| **E** | ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623) | ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) | ::{ flag=FR }:: [CaptainAlexis](https://osu.ppy.sh/users/6872242) | ::{ flag=FR }:: [deesse du mal](https://osu.ppy.sh/users/9177774) |
-| **F** | ::{ flag=FR }:: [Sounny](https://osu.ppy.sh/users/7326109) | ::{ flag=FR }:: [tutiflo](https://osu.ppy.sh/users/2024185) | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) | ::{ flag=FR }:: [Iyorin](https://osu.ppy.sh/users/1859986) |
-| **G** | ::{ flag=FR }:: [Libegon](https://osu.ppy.sh/users/9922381) | ::{ flag=FR }:: [GyraFanBoy](https://osu.ppy.sh/users/8417565) | ::{ flag=MA }:: [l3ssili](https://osu.ppy.sh/users/12123746) | ::{ flag=BE }:: [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) |
-| **H** | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) | ::{ flag=FR }:: [Mnemosyne](https://osu.ppy.sh/users/9255433) | ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141) | ::{ flag=FR }:: [Astreachan](https://osu.ppy.sh/users/2953898) |
+| **A** | ::{ flag=TN }:: ::-Ken::{ user-id=4430811 } | ::{ flag=FR }:: ::SkaylleexSamaFR::{ user-id=7720945 } | ::{ flag=FR }:: ::floflim::{ user-id=5954015 } | ::{ flag=FR }:: ::Chernobog::{ user-id=3317042 } |
+| **B** | ::{ flag=FR }:: ::AAAAAAAAAAAAHHH::{ user-id=4864877 } | ::{ flag=FR }:: ::Noctalium::{ user-id=6488167 } | ::{ flag=FR }:: ::07th Loli::{ user-id=4122996 } | ::{ flag=FR }:: ::Nyton::{ user-id=9475990 } |
+| **C** | ::{ flag=FR }:: ::FulgurentKille::{ user-id=4096322 } | ::{ flag=FR }:: ::Orazeit::{ user-id=8335913 } | ::{ flag=FR }:: ::ume-skills::{ user-id=1383450 } | ::{ flag=CA }:: ::Sinaeb::{ user-id=1576095 } |
+| **D** | ::{ flag=FR }:: ::Holloh::{ user-id=7612994 } | ::{ flag=FR }:: ::Julo::{ user-id=4203239 } | ::{ flag=FR }:: ::\[Haku\]::{ user-id=2329184 } | ::{ flag=FR }:: ::Fanther::{ user-id=7415863 } |
+| **E** | ::{ flag=FR }:: ::Boros::{ user-id=5490623 } | ::{ flag=FR }:: ::Electr0o::{ user-id=9484428 } | ::{ flag=FR }:: ::CaptainAlexis::{ user-id=6872242 } | ::{ flag=FR }:: ::deesse du mal::{ user-id=9177774 } |
+| **F** | ::{ flag=FR }:: ::Sounny::{ user-id=7326109 } | ::{ flag=FR }:: ::tutiflo::{ user-id=2024185 } | ::{ flag=FR }:: ::dracoV::{ user-id=7925725 } | ::{ flag=FR }:: ::Iyorin::{ user-id=1859986 } |
+| **G** | ::{ flag=FR }:: ::Libegon::{ user-id=9922381 } | ::{ flag=FR }:: ::GyraFanBoy::{ user-id=8417565 } | ::{ flag=MA }:: ::l3ssili::{ user-id=12123746 } | ::{ flag=BE }:: ::-\[Smoked\]-::{ user-id=8731044 } |
+| **H** | ::{ flag=FR }:: ::Noulayfe::{ user-id=4316542 } | ::{ flag=FR }:: ::Mnemosyne::{ user-id=9255433 } | ::{ flag=FR }:: ::Aequo3::{ user-id=4495141 } | ::{ flag=FR }:: ::Astreachan::{ user-id=2953898 } |
 
 ## Podium
 
@@ -85,9 +85,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=TN }:: ::-Ken::{ user-id=4430811 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: ::Noulayfe::{ user-id=4316542 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: ::Boros::{ user-id=5490623 } |
 
 ## Mappools
 

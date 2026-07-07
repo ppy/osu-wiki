@@ -99,19 +99,19 @@ Lorsqu'un membre de la NAT décide de quitter l'équipe, il peut se voir accorde
 
 Les anciens membres de la NAT qui ont actuellement un accès interne sont les suivants :
 
-- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
-- ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
-- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
-- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
+- ::{ flag=GB }:: ::AJT::{ user-id=3181083 }
+- ::{ flag=HK }:: ::Chaoslitz::{ user-id=3621552 }
+- ::{ flag=BR }:: ::Dada::{ user-id=9119507 }
+- ::{ flag=DE }:: ::FuJu::{ user-id=10773882 }
+- ::{ flag=US }:: ::radar::{ user-id=7131099 }
+- ::{ flag=CN }:: ::Ryuusei Aika::{ user-id=7777875 }
+- ::{ flag=BE }:: ::yaspo::{ user-id=4945926 }
 
 ## Leadership de la NAT
 
 À partir de mars 2023, la NAT a décidé de réadopter le concept de leadership, qui était [précédemment utilisé](/wiki/People/Quality_Assurance_Team/QAT_Leaders) dans la [QAT](/wiki/People/Quality_Assurance_Team). Les leaders de la NAT ont la responsabilité combinée des catégories d'évaluation et de structure, ce qui leur permet de surveiller et de s'impliquer dans tous les aspects de la NAT.
 
-Le chef actuel de la NAT est ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+Le chef actuel de la NAT est ::{ flag=TN }:: ::Hivie::{ user-id=14102976 }
 
 ### Responsabilités
 
@@ -136,46 +136,46 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 
 | Nom | Langues additionnelles |
 | :-- | :-- |
-| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Swedish |
-| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Thai |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
-| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finnish |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
-| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | French, Spanish |
-| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
-| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | German |
+| ::{ flag=SE }:: ::bite you death::{ user-id=6398464 } | Swedish |
+| ::{ flag=TH }:: ::Electoz::{ user-id=6485263 } | Thai |
+| ::{ flag=CN }:: ::Firika::{ user-id=9590557 } | Chinese |
+| ::{ flag=FI }:: ::fllecc::{ user-id=14060327 } | Finnish |
+| ::{ flag=CN }:: ::Mafumafu::{ user-id=3076909 } | Chinese |
+| ::{ flag=RU }:: ::Mirash::{ user-id=2841009 } | Russian |
+| ::{ flag=KR }:: ::momoyo::{ user-id=12469536 } | French, Spanish |
+| ::{ flag=RO }:: ::nanoya::{ user-id=12366071 } | Romanian |
+| ::{ flag=RU }:: ::NeKroMan4ik::{ user-id=11387664 } | Russian |
+| ::{ flag=US }:: ::Noffy::{ user-id=1541323 } |  |
+| ::{ flag=DE }:: ::Okoayu::{ user-id=1623405 } | German |
 
 #### osu!taiko
 
 | Nom | Langues additionnelles |
 | :-- | :-- |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chinese |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portuguese |
-| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | Some German |
-| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
+| ::{ flag=SG }:: ::arcpotato::{ user-id=12842392 } | Chinese |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | Arabic, French |
+| ::{ flag=BR }:: ::Ideal::{ user-id=3869519 } | Portuguese |
+| ::{ flag=US }:: ::meiqth::{ user-id=12565402 } | Some German |
+| ::{ flag=AT }:: ::Yasuho::{ user-id=8458835 } | German, some French |
 
 #### osu!catch
 
 | Nom | Langues additionnelles |
 | :-- | :-- |
-| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Dutch |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
+| ::{ flag=US }:: ::Ascendance::{ user-id=2931883 } |  |
+| ::{ flag=ES }:: ::Deif::{ user-id=318565 } | Spanish, German |
+| ::{ flag=NL }:: ::Greaper::{ user-id=2369776 } | Dutch |
+| ::{ flag=US }:: ::Secre::{ user-id=2306637 } |  |
 
 #### osu!mania
 
 | Nom | Langues additionnelles |
 | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinese |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Spanish |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French |
+| ::{ flag=VN }:: ::Akasha-::{ user-id=2596306 } | Vietnamese |
+| ::{ flag=CN }:: ::gzdongsheng::{ user-id=8660315 } | Chinese |
+| ::{ flag=ID }:: ::Maxus::{ user-id=4335785 } | Indonesian |
+| ::{ flag=ES }:: ::RandomeLoL::{ user-id=7080063 } | Catalan, Spanish |
+| ::{ flag=DZ }:: ::Scotty::{ user-id=11085809 } | Arabic, French |
 
 ### Structurel
 
@@ -183,22 +183,22 @@ Les membres suivants de la NAT sont exclusivement responsables des tâches struc
 
 | Utilisateur | Tâche |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT leadership |
+| ::{ flag=GB }:: ::-Mo-::{ user-id=2202163 } | Handling internal discussions, affairs, and documentation |
+| ::{ flag=BR }:: ::Dada::{ user-id=9119507 } | BN Mentorship organisation |
+| ::{ flag=US }:: ::pishifat::{ user-id=3178418 } | [BN Management website](https://bn.mappersguild.com) development |
+| ::{ flag=US }:: ::radar::{ user-id=7131099 } | NAT leadership |
 
 Les membres suivants de la NAT sont principalement des évaluateurs, mais ils contribuent également aux tâches structurelles :
 
 | Utilisateur | Tâche |
 | :-- | :-- |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Handling content reports, [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
+| ::{ flag=NL }:: ::Greaper::{ user-id=2369776 } | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | NAT leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
+| ::{ flag=ES }:: ::RandomeLoL::{ user-id=7080063 } | Handling content reports, [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
 
 ---
 
-En complément, le [bot Nomination Assessment Team](https://osu.ppy.sh/users/6616586) agit comme un proxy pour la NAT afin de délivrer collectivement des messages sous un compte d'utilisateur sans les attribuer directement à qui que ce soit. Il peut être utilisé pour les réponses aux évaluations, les évaluations fictives, les médiations, les rapports et les examens de contenu, ainsi qu'à d'autres fins diverses.
+En complément, le ::bot Nomination Assessment Team::{ user-id=6616586 } agit comme un proxy pour la NAT afin de délivrer collectivement des messages sous un compte d'utilisateur sans les attribuer directement à qui que ce soit. Il peut être utilisé pour les réponses aux évaluations, les évaluations fictives, les médiations, les rapports et les examens de contenu, ainsi qu'à d'autres fins diverses.
 
 ## Notes
 

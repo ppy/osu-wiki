@@ -11,7 +11,7 @@ The second iteration of **The Roundtable** is on the horizon. Earn your seat by 
 
 Last summer's edition of [**The Roundtable**](/wiki/Tournaments/The_Roundtable) was a gamechanger.
 
-Unprecedented in osu! tournament history, 16 of osu!'s greatest circle clickers flew to Los Angeles, CA, to compete in a 3-day multi-tournament event hosted by [BTMC](https://osu.ppy.sh/users/3171691).
+Unprecedented in osu! tournament history, 16 of osu!'s greatest circle clickers flew to Los Angeles, CA, to compete in a 3-day multi-tournament event hosted by ::BTMC::{ user-id=3171691 }.
 
 **The Roundtable II** is set for July 2023, so one question is on everyone's minds:
 

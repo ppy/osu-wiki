@@ -8,7 +8,7 @@ tags:
 
 ![AESS2 logo](img/banner.png)
 
-The **Aetherian's Summer Singles 2** (***AESS2***) was a 1v1 double-elimination tournament hosted by ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040). It was the second instalment of the Aetherian's Summer Singles.
+The **Aetherian's Summer Singles 2** (***AESS2***) was a 1v1 double-elimination tournament hosted by ::{ flag=FI }:: ::Aetherian::{ user-id=6263040 }. It was the second instalment of the Aetherian's Summer Singles.
 
 ## Tournament schedule
 
@@ -42,15 +42,15 @@ The Aetherian's Summer Singles 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040) |
-| Moderator | ::{ flag=US }:: [Varler](https://osu.ppy.sh/users/2504750), ::{ flag=US }:: [Sohlayce](https://osu.ppy.sh/users/17649736) |
-| Mappool selector | ::{ flag=FI }:: [Pickxarro](https://osu.ppy.sh/users/3786620), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022) |
-| Mappool tester | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186), ::{ flag=NO }:: [Naigo](https://osu.ppy.sh/users/10640486), ::{ flag=UA }:: [dench](https://osu.ppy.sh/users/10073635), ::{ flag=US }:: [Varler](https://osu.ppy.sh/users/2504750), ::{ flag=PL }:: [Mastasz](https://osu.ppy.sh/users/1876565), ::{ flag=FI }:: [Eliaasi](https://osu.ppy.sh/users/9690571), ::{ flag=MY }:: [Zeph2003](https://osu.ppy.sh/users/10343292), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=FI }:: [Haadez](https://osu.ppy.sh/users/8925266), ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659), ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005), ::{ flag=PL }:: [HEDAYO](https://osu.ppy.sh/users/9323821) |
-| Custom mapper | ::{ flag=AU }:: [VP757](https://osu.ppy.sh/users/9451871), ::{ flag=US }:: [Kurashina Asuka](https://osu.ppy.sh/users/7476493) |
-| Streamer | ::{ flag=CA }:: [Drou](https://osu.ppy.sh/users/415932), ::{ flag=DE }:: [Dragoncurve](https://osu.ppy.sh/users/6675367) |
-| Commentator | ::{ flag=CA }:: [Drou](https://osu.ppy.sh/users/415932), ::{ flag=US }:: [-Koda](https://osu.ppy.sh/users/12260184), ::{ flag=FI }:: [Death Grips](https://osu.ppy.sh/users/10632187), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334) |
-| Graphic designer | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
-| Referee | ::{ flag=FI }:: [Eliaasi](https://osu.ppy.sh/users/9690571), ::{ flag=CA }:: [dinonesie](https://osu.ppy.sh/users/18315188), ::{ flag=PH }:: [-Pekora-](https://osu.ppy.sh/users/17959882), ::{ flag=TH }:: [- Mirage -](https://osu.ppy.sh/users/2298513), ::{ flag=ES }:: [Bubble-](https://osu.ppy.sh/users/10559526), ::{ flag=VN }:: [namiee](https://osu.ppy.sh/users/14279837), ::{ flag=ZA }:: KaedeSnowyyy, ::{ flag=DE }:: Tayuno, ::{ flag=CA }:: [atokymat](https://osu.ppy.sh/users/11465676), ::{ flag=US }:: [ROB\_](https://osu.ppy.sh/users/12455868) |
+| Host | ::{ flag=FI }:: ::Aetherian::{ user-id=6263040 } |
+| Moderator | ::{ flag=US }:: ::Varler::{ user-id=2504750 }, ::{ flag=US }:: ::Sohlayce::{ user-id=17649736 } |
+| Mappool selector | ::{ flag=FI }:: ::Pickxarro::{ user-id=3786620 }, ::{ flag=FI }:: ::Amasetic::{ user-id=11375251 }, ::{ flag=PL }:: ::Tutka::{ user-id=8170022 } |
+| Mappool tester | ::{ flag=ID }:: ::Crezz::{ user-id=7108275 }, ::{ flag=KR }:: ::Nopekjk::{ user-id=4585186 }, ::{ flag=NO }:: ::Naigo::{ user-id=10640486 }, ::{ flag=UA }:: ::dench::{ user-id=10073635 }, ::{ flag=US }:: ::Varler::{ user-id=2504750 }, ::{ flag=PL }:: ::Mastasz::{ user-id=1876565 }, ::{ flag=FI }:: ::Eliaasi::{ user-id=9690571 }, ::{ flag=MY }:: ::Zeph2003::{ user-id=10343292 }, ::{ flag=SE }:: ::scylla::{ user-id=9405745 }, ::{ flag=FI }:: ::Haadez::{ user-id=8925266 }, ::{ flag=DE }:: ::criller::{ user-id=8116659 }, ::{ flag=RU }:: ::gamer228666::{ user-id=5981005 }, ::{ flag=PL }:: ::HEDAYO::{ user-id=9323821 } |
+| Custom mapper | ::{ flag=AU }:: ::VP757::{ user-id=9451871 }, ::{ flag=US }:: ::Kurashina Asuka::{ user-id=7476493 } |
+| Streamer | ::{ flag=CA }:: ::Drou::{ user-id=415932 }, ::{ flag=DE }:: ::Dragoncurve::{ user-id=6675367 } |
+| Commentator | ::{ flag=CA }:: ::Drou::{ user-id=415932 }, ::{ flag=US }:: ::-Koda::{ user-id=12260184 }, ::{ flag=FI }:: ::Death Grips::{ user-id=10632187 }, ::{ flag=FI }:: ::Nev-::{ user-id=11836334 } |
+| Graphic designer | ::{ flag=CA }:: ::Zyoulou::{ user-id=8668722 }, ::{ flag=FI }:: ::shdewz::{ user-id=10000899 } |
+| Referee | ::{ flag=FI }:: ::Eliaasi::{ user-id=9690571 }, ::{ flag=CA }:: ::dinonesie::{ user-id=18315188 }, ::{ flag=PH }:: ::-Pekora-::{ user-id=17959882 }, ::{ flag=TH }:: ::- Mirage -::{ user-id=2298513 }, ::{ flag=ES }:: ::Bubble-::{ user-id=10559526 }, ::{ flag=VN }:: ::namiee::{ user-id=14279837 }, ::{ flag=ZA }:: KaedeSnowyyy, ::{ flag=DE }:: Tayuno, ::{ flag=CA }:: ::atokymat::{ user-id=11465676 }, ::{ flag=US }:: ::ROB\_::{ user-id=12455868 } |
 
 ## Links
 
@@ -62,10 +62,10 @@ The Aetherian's Summer Singles 2 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| 1–8 | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650), ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437), ::{ flag=RO }:: [SatonoDiamond](https://osu.ppy.sh/users/12366071), ::{ flag=US }:: [Swiq\_](https://osu.ppy.sh/users/11269055), ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961), ::{ flag=US }:: [WillCookie](https://osu.ppy.sh/users/6404488), ::{ flag=US }:: [Jacob3](https://osu.ppy.sh/users/13628898), ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058) |
-| 9–16 | ::{ flag=US }:: [Venpris](https://osu.ppy.sh/users/8861593), ::{ flag=US }:: [-Koda](https://osu.ppy.sh/users/12260184), ::{ flag=DE }:: [rundyyy](https://osu.ppy.sh/users/10917620), ::{ flag=CA }:: [noncycle](https://osu.ppy.sh/users/12701607), ::{ flag=JE }:: [rudj](https://osu.ppy.sh/users/11592896), ::{ flag=US }:: [EzChock](https://osu.ppy.sh/users/9276293), ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687), ::{ flag=US }:: [DarkScrap](https://osu.ppy.sh/users/13241562) |
-| 17–24 | ::{ flag=CL }:: [Danidesu](https://osu.ppy.sh/users/2748187), ::{ flag=IL }:: [Galog](https://osu.ppy.sh/users/7799629), ::{ flag=PL }:: [gnahus](https://osu.ppy.sh/users/12779141), ::{ flag=NZ }:: [Saiyku](https://osu.ppy.sh/users/13767572), ::{ flag=DE }:: [aahoff](https://osu.ppy.sh/users/11371245), ::{ flag=SG }:: [200201envenho](https://osu.ppy.sh/users/8152145), ::{ flag=ID }:: [-Reuto-](https://osu.ppy.sh/users/10717635), ::{ flag=SG }:: [GSBlank](https://osu.ppy.sh/users/2312106) |
-| 25–32 | ::{ flag=GB }:: [Mahmood](https://osu.ppy.sh/users/7627844), ::{ flag=SE }:: [TOnyrino](https://osu.ppy.sh/users/7338010), ::{ flag=DE }:: [Tim Kackner](https://osu.ppy.sh/users/14385814), ::{ flag=RO }:: [Kehest](https://osu.ppy.sh/users/6145000), ::{ flag=US }:: [Olympia](https://osu.ppy.sh/users/5357992), ::{ flag=FI }:: [Nev-](https://osu.ppy.sh/users/11836334), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=US }:: [Raoul](https://osu.ppy.sh/users/9924405) |
+| 1–8 | ::{ flag=HK }:: ::mcy4::{ user-id=2165650 }, ::{ flag=KR }:: ::\1Karcher\1::{ user-id=11443437 }, ::{ flag=RO }:: ::SatonoDiamond::{ user-id=12366071 }, ::{ flag=US }:: ::Swiq\_::{ user-id=11269055 }, ::{ flag=PL }:: ::maliszewski::{ user-id=12408961 }, ::{ flag=US }:: ::WillCookie::{ user-id=6404488 }, ::{ flag=US }:: ::Jacob3::{ user-id=13628898 }, ::{ flag=US }:: ::Jakson::{ user-id=8788058 } |
+| 9–16 | ::{ flag=US }:: ::Venpris::{ user-id=8861593 }, ::{ flag=US }:: ::-Koda::{ user-id=12260184 }, ::{ flag=DE }:: ::rundyyy::{ user-id=10917620 }, ::{ flag=CA }:: ::noncycle::{ user-id=12701607 }, ::{ flag=JE }:: ::rudj::{ user-id=11592896 }, ::{ flag=US }:: ::EzChock::{ user-id=9276293 }, ::{ flag=US }:: ::BoshyMan741::{ user-id=4830687 }, ::{ flag=US }:: ::DarkScrap::{ user-id=13241562 } |
+| 17–24 | ::{ flag=CL }:: ::Danidesu::{ user-id=2748187 }, ::{ flag=IL }:: ::Galog::{ user-id=7799629 }, ::{ flag=PL }:: ::gnahus::{ user-id=12779141 }, ::{ flag=NZ }:: ::Saiyku::{ user-id=13767572 }, ::{ flag=DE }:: ::aahoff::{ user-id=11371245 }, ::{ flag=SG }:: ::200201envenho::{ user-id=8152145 }, ::{ flag=ID }:: ::-Reuto-::{ user-id=10717635 }, ::{ flag=SG }:: ::GSBlank::{ user-id=2312106 } |
+| 25–32 | ::{ flag=GB }:: ::Mahmood::{ user-id=7627844 }, ::{ flag=SE }:: ::TOnyrino::{ user-id=7338010 }, ::{ flag=DE }:: ::Tim Kackner::{ user-id=14385814 }, ::{ flag=RO }:: ::Kehest::{ user-id=6145000 }, ::{ flag=US }:: ::Olympia::{ user-id=5357992 }, ::{ flag=FI }:: ::Nev-::{ user-id=11836334 }, ::{ flag=US }:: ::Gabey::{ user-id=12904237 }, ::{ flag=US }:: ::Raoul::{ user-id=9924405 } |
 
 The list of all participants can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1ESDw34gBfnDWwUrXEPZNxsi4MN89p156aIYP4RYbuYs/edit#gid=0).
 
@@ -75,10 +75,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
-| *4th place* | ::{ flag=US }:: [Swiq\_](https://osu.ppy.sh/users/11269055) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: ::maliszewski::{ user-id=12408961 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: ::\1Karcher\1::{ user-id=11443437 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=HK }:: ::mcy4::{ user-id=2165650 } |
+| *4th place* | ::{ flag=US }:: ::Swiq\_::{ user-id=11269055 } |
 
 ## Mappools
 

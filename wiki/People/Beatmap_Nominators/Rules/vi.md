@@ -29,7 +29,7 @@ Hoạt động của người đề cử beatmap được đánh giá trên số
 - Khi nhận được cảnh báo hoạt động, các yêu cầu hoạt động tối thiểu phải được đáp ứng sau 30 ngày
 - Nếu không đạt được yêu cầu tối thiểu khi đã được cảnh báo trong vòng 1 năm sẽ dẫn đến bị loại khỏi vai trò đề cử Beatmap.
 
-Khi một đợt đánh giá người đề cử beatmap được tạo ra và họ vẫn cần phải đáp ứng các điều kiện hoạt động tối thiểu. Họ sẽ nhận được một lời nhắc thông qua [bot NAT](https://osu.ppy.sh/users/6616586) và sẽ được cung cấp 7 ngày để đáp ứng chỉ tiêu.
+Khi một đợt đánh giá người đề cử beatmap được tạo ra và họ vẫn cần phải đáp ứng các điều kiện hoạt động tối thiểu. Họ sẽ nhận được một lời nhắc thông qua ::bot NAT::{ user-id=6616586 } và sẽ được cung cấp 7 ngày để đáp ứng chỉ tiêu.
 
 ## Việc đề cử 
 

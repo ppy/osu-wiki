@@ -27,7 +27,7 @@ Check everything out:
 
 ### Nitro Fun - Cheat Codes VIP
 
-Try out [this map](https://osu.ppy.sh/beatmapsets/711420) hosted by [xChorse](https://osu.ppy.sh/users/2217628) as seen in the video above!
+Try out [this map](https://osu.ppy.sh/beatmapsets/711420) hosted by ::xChorse::{ user-id=2217628 } as seen in the video above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/299/Cheat%20Codes%20VIP%2FNitro%20Fun%20-%20Cheat%20Codes%20VIP.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Try out [this map](https://osu.ppy.sh/beatmapsets/711420) hosted by [xChorse](ht
 
 ### Rezonate - The Phoenix
 
-Explore [this osu! map](https://osu.ppy.sh/beatmapsets/711926) hosted by [Fursum](https://osu.ppy.sh/users/4865030) or [this osu!catch map](https://osu.ppy.sh/beatmapsets/808379) hosted by [Nanachii](https://osu.ppy.sh/users/6995506)!
+Explore [this osu! map](https://osu.ppy.sh/beatmapsets/711926) hosted by ::Fursum::{ user-id=4865030 } or [this osu!catch map](https://osu.ppy.sh/beatmapsets/808379) hosted by ::Nanachii::{ user-id=6995506 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/300/The%20Phoenix%2FRezonate%20-%20The%20Phoenix.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Explore [this osu! map](https://osu.ppy.sh/beatmapsets/711926) hosted by [Fursum
 
 ### Nitro Fun & Hyper Potions - Checkpoint
 
-Stretch your fingers to [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/647297) hosted by Elite Mapper [Kawawa](https://osu.ppy.sh/users/4647754)!
+Stretch your fingers to [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/647297) hosted by Elite Mapper ::Kawawa::{ user-id=4647754 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/299/Checkpoint/Nitro%20Fun%20%26%20Hyper%20Potions%20-%20Checkpoint.mp3" type="audio/mpeg">
@@ -51,7 +51,7 @@ Stretch your fingers to [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/6
 
 ### Rezonate - The Journey
 
-Take one last adventure through [this osu! map](https://osu.ppy.sh/beatmapsets/671617) hosted by [Fursum](https://osu.ppy.sh/users/4865030).
+Take one last adventure through [this osu! map](https://osu.ppy.sh/beatmapsets/671617) hosted by ::Fursum::{ user-id=4865030 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/300/Prelude%20EP%2FRezonate%20-%20The%20Journey.mp3" type="audio/mpeg">

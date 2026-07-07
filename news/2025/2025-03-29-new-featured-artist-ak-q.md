@@ -17,7 +17,7 @@ Need some convincing? Preview some of **ak+q**'s stuff for yourself:
 
 ### [ak+q - Excelsia](https://assets.ppy.sh/artists/466/Excelsia/ak%2Bq%20-%20Excelsia.osz)
 
-Check out [this BMS classic](https://osu.ppy.sh/beatmapsets/694200) hosted by [Sotarks](https://osu.ppy.sh/users/4452992)!
+Check out [this BMS classic](https://osu.ppy.sh/beatmapsets/694200) hosted by ::Sotarks::{ user-id=4452992 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -27,7 +27,7 @@ Check out [this BMS classic](https://osu.ppy.sh/beatmapsets/694200) hosted by [S
 
 ### [ak+q & Redeilia - Enigma Helix](https://assets.ppy.sh/artists/466/Enigma%20Helix/ak%2Bq%20%26%20Redeilia%20-%20Enigma%20Helix.osz)
 
-Or try out [another spread](https://osu.ppy.sh/beatmapsets/867825) hosted by [Icekalt](https://osu.ppy.sh/users/5410645)!
+Or try out [another spread](https://osu.ppy.sh/beatmapsets/867825) hosted by ::Icekalt::{ user-id=5410645 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/466/Enigma%20Helix/ak%2Bq%20%26%20Redeilia%20-%20Enigma%20Helix.mp3">
@@ -35,7 +35,7 @@ Or try out [another spread](https://osu.ppy.sh/beatmapsets/867825) hosted by [Ic
 
 ### [ak+q - ikasu](https://assets.ppy.sh/artists/466/ikasu/ak%2Bq%20-%20ikasu.osz)
 
-[This map](https://osu.ppy.sh/beatmapsets/1137024) hosted by [Kojio](https://osu.ppy.sh/users/2054596) might be your next favourite.
+[This map](https://osu.ppy.sh/beatmapsets/1137024) hosted by ::Kojio::{ user-id=2054596 } might be your next favourite.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/466/ikasu/ak%2Bq%20-%20ikasu.mp3">
@@ -43,7 +43,7 @@ Or try out [another spread](https://osu.ppy.sh/beatmapsets/867825) hosted by [Ic
 
 ### [ak+q - Ardentium Nova](https://assets.ppy.sh/artists/466/Ardentium%20Nova/ak%2Bq%20-%20Ardentium%20Nova.osz)
 
-Explore [this osu! + osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1099242) hosted by [Megafan](https://osu.ppy.sh/users/6632605)!
+Explore [this osu! + osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1099242) hosted by ::Megafan::{ user-id=6632605 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/466/Ardentium%20Nova/ak%2Bq%20-%20Ardentium%20Nova.mp3">

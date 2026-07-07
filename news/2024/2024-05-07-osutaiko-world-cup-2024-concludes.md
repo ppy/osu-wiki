@@ -255,7 +255,7 @@ What are your thoughts on the song's [accompanying visuals](https://assets.ppy.s
 > 
 > And when I saw the drafts, the visuals not only fit what I'd hoped for ideally, but they were even more beautiful than I thought, so I was really pleased!
 > 
-> The most surprising part is that the graphic designer filled in all the station names. There are a lot of fun elements like the current station labeled as Cansol (me), and there's also [Panthullu](https://osu.ppy.sh/users/12580298)'s bakery (the designer).
+> The most surprising part is that the graphic designer filled in all the station names. There are a lot of fun elements like the current station labeled as Cansol (me), and there's also ::Panthullu::{ user-id=12580298 }'s bakery (the designer).
 > 
 > Despite me not requesting this level of detail, the designer still gave so much attention to detail, which I was extremely grateful for.
 
@@ -279,11 +279,11 @@ What is your favourite rhythm game song?
 
 ::{#r_j}::
 
-[![](/wiki/shared/news/2024-05-07-osutaiko-world-cup-2024-concludes/R_J.png)](https://osu.ppy.sh/users/6490509)
+::!\1\1(/wiki/shared/news/2024-05-07-osutaiko-world-cup-2024-concludes/R\1J.png)::{ user-id=6490509 }
 
 > I'm RJ, I've been playing taiko for about 5 years now and this was my 4th Taiko World Cup.
 
-[R J](https://osu.ppy.sh/users/6490509), or the United States team captain for this year's world cup, together with their teammates, took the country to the podium for the first time ever at 3rd place.
+::R J::{ user-id=6490509 }, or the United States team captain for this year's world cup, together with their teammates, took the country to the podium for the first time ever at 3rd place.
 
 ---
 
@@ -295,7 +295,7 @@ What do you think might have contributed most to the United States' first podium
 
 > Cheddar 2 lbs. More serious answer is how dedicated our team members have been too improving as players in the last year and how motivated we were towards getting a podium placement. Every member on the team was dedicated towards our goal of reaching the podium which I think only served to fuel our motivation even more.
 > 
-> The addition of [SilverTyrant](https://osu.ppy.sh/users/14356353) to the roster this year and the return of [Miniature Lamp](https://osu.ppy.sh/users/9821194) really elevated our team as they both have reached a point where they can compete at a high level. They are cracked. Also, shout-outs to [Xok](https://osu.ppy.sh/users/12177903), they played in TWC 2020 after which they completely changed playstyles, grinded it out, and got good enough to participate again 4 years later, but also cheddar 2 lbs. If we didn't spam that before every match then who knows, maybe we busted out in semis/finals again :)
+> The addition of ::SilverTyrant::{ user-id=14356353 } to the roster this year and the return of ::Miniature Lamp::{ user-id=9821194 } really elevated our team as they both have reached a point where they can compete at a high level. They are cracked. Also, shout-outs to ::Xok::{ user-id=12177903 }, they played in TWC 2020 after which they completely changed playstyles, grinded it out, and got good enough to participate again 4 years later, but also cheddar 2 lbs. If we didn't spam that before every match then who knows, maybe we busted out in semis/finals again :)
 
 While you've played in the TWC before, how did becoming the team captain come about?
 

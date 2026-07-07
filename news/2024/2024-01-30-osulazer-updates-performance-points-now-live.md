@@ -28,7 +28,7 @@ Hear all about how we got here since the last update in December and what exactl
 - **HP drain has been reworked to give combo-end bonuses for the osu! mode.** Try it out and see how it feels!
 - **You can now fail with "relax" and "autopilot" mods.** This allows for players to play these two mods with "perfect" and "sudden death" mods, but if you still don't want to be able to fail with these mods you can just slap the "no fail" mod on as well.
 - **Multiplier for the classic mod is now back up to 0.96x.** After a discussion on Discord it was decided that that legacy scores from osu!(stable) should not lose as much value as they previously did.
-- **Slider ends are now worth 150 points instead of 30.** That's half the score weighting of perfectly clicking circles or slider heads. [pishifat](https://osu.ppy.sh/users/3178418) explains the what and the why in detail in the video above.
+- **Slider ends are now worth 150 points instead of 30.** That's half the score weighting of perfectly clicking circles or slider heads. ::pishifat::{ user-id=3178418 } explains the what and the why in detail in the video above.
 
 ### New "Depth" mod
 
@@ -38,7 +38,7 @@ Hear all about how we got here since the last update in December and what exactl
     </video>
 </div>
 
-Thanks to [EVAST](https://osu.ppy.sh/users/8195163), a new mod called "Depth" takes osu! gameplay into the next dimension. Watch [YokesPai](https://osu.ppy.sh/users/6399568)'s mesmerising AR 7.5 play on [OWC 2021](/wiki/Tournaments/OWC/2021)'s original tiebreaker track [Yooh - RPG](https://osu.ppy.sh/beatmapsets/1633250#osu/3333745) in the video above, then try the mod out yourself.
+Thanks to ::EVAST::{ user-id=8195163 }, a new mod called "Depth" takes osu! gameplay into the next dimension. Watch ::YokesPai::{ user-id=6399568 }'s mesmerising AR 7.5 play on [OWC 2021](/wiki/Tournaments/OWC/2021)'s original tiebreaker track [Yooh - RPG](https://osu.ppy.sh/beatmapsets/1633250#osu/3333745) in the video above, then try the mod out yourself.
 
 ### Easier offset editing
 

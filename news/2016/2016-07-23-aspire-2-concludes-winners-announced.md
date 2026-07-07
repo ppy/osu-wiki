@@ -28,7 +28,7 @@ Monstrata takes home a whopping 6 months of osu!supporter, a unique Aspire 2016 
 
 It isn't over yet, though!
 
-[Asahina Momoko](https://osu.ppy.sh/users/3650145) nearly snatched first place for themselves with an exceptional performance, but came just a little below the mark in second place. Their entry was marked with possibly the best implementation of hold sliders that osu! has ever seen - giving the developers some serious thinking to do about introducing the element to the game officially! They take home 3 months of osu! supporter for themselves, and the knowledge that their work may have had a profound effect on the future of the game. [Play their entry here!](https://osu.ppy.sh/beatmapsets/484896)
+::Asahina Momoko::{ user-id=3650145 } nearly snatched first place for themselves with an exceptional performance, but came just a little below the mark in second place. Their entry was marked with possibly the best implementation of hold sliders that osu! has ever seen - giving the developers some serious thinking to do about introducing the element to the game officially! They take home 3 months of osu! supporter for themselves, and the knowledge that their work may have had a profound effect on the future of the game. [Play their entry here!](https://osu.ppy.sh/beatmapsets/484896)
 
 A number of other entrants had entries worthy of an Honorable Mention:
 
@@ -36,9 +36,9 @@ A number of other entrants had entries worthy of an Honorable Mention:
 
 [Fort](https://osu.ppy.sh/users/Fort) brought out all of his storyboarding and mapping muscle, creating a phenomenal example of how much well-done storyboards can add to a map. [Play Fort's masterpiece for yourself here!](https://osu.ppy.sh/beatmapsets/484661)
 
-[Kin](https://osu.ppy.sh/users/480689) won over the judges with their beautifully color annotated 2B-inclusive map. This sounds unimpressive, but believe me - it is a strong enough entry to give the developers serious pause to consider 2B as an official mechanic. [Play Kin's amazing entry here!](https://osu.ppy.sh/beatmapsets/484802)
+::Kin::{ user-id=480689 } won over the judges with their beautifully color annotated 2B-inclusive map. This sounds unimpressive, but believe me - it is a strong enough entry to give the developers serious pause to consider 2B as an official mechanic. [Play Kin's amazing entry here!](https://osu.ppy.sh/beatmapsets/484802)
 
-[Taeyang](https://osu.ppy.sh/users/2732340) brought out all of their Elite Mapper prowess, creating an extremely impressive entry (complete with spectacular storyboard) that only fell short of being a top 5 scorer due to the autofail restriction listed in the contest rules. Alas! Still a phenomenal entry, and definitely worthy of its spot as an Honorable Mention. [Play their entry for yourself here!](https://osu.ppy.sh/beatmapsets/484577)
+::Taeyang::{ user-id=2732340 } brought out all of their Elite Mapper prowess, creating an extremely impressive entry (complete with spectacular storyboard) that only fell short of being a top 5 scorer due to the autofail restriction listed in the contest rules. Alas! Still a phenomenal entry, and definitely worthy of its spot as an Honorable Mention. [Play their entry for yourself here!](https://osu.ppy.sh/beatmapsets/484577)
 
 [Wafu](https://osu.ppy.sh/users/Wafu) stunned us all with an excellent map coupled with a stunning storyboard to the backing track. Very much worthy of its mention! [Play Wafu's entry here!](https://osu.ppy.sh/beatmapsets/484593)
 

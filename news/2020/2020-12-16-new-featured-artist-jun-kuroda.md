@@ -25,7 +25,7 @@ And of course, here's a couple more maps:
 
 ### Cygnus
 
-Try out [this osu! set](https://osu.ppy.sh/beatmapsets/358056#osu/888465) hosted by [Rohit6](https://osu.ppy.sh/users/3206945)
+Try out [this osu! set](https://osu.ppy.sh/beatmapsets/358056#osu/888465) hosted by ::Rohit6::{ user-id=3206945 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/124/aspects/Jun%20Kuroda%20&%20AAAA%20-%20Cygnus.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Try out [this osu! set](https://osu.ppy.sh/beatmapsets/358056#osu/888465) hosted
 
 ### Ultimate Fate
 
-Or [this osu!mania set](https://osu.ppy.sh/beatmapsets/490208#mania/1044903) by [Kawawa](https://osu.ppy.sh/users/4647754)
+Or [this osu!mania set](https://osu.ppy.sh/beatmapsets/490208#mania/1044903) by ::Kawawa::{ user-id=4647754 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/124/Songs/Jun%20Kuroda%20+%20AAAA%20-%20Ultimate%20Fate.mp3" type="audio/mpeg">

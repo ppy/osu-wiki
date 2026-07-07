@@ -13,7 +13,7 @@ For those who want to pause for a moment to read, here's the complete rundown:
 
 After the [last update](https://osu.ppy.sh/home/news/2024-10-09-osulazer-updates-october-9), an [update to performance algorithms](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates) was rolled out to all players. If your global rank went up, congratulations! If not, maybe it's time to get back on the grind.
 
-Below you will find [peppy](https://osu.ppy.sh/users/2) and [pishifat](https://osu.ppy.sh/users/3178418) discussing the rollout as well as all the new neat changes in the game. Below that, you'll find the most notable changes in text form.
+Below you will find ::peppy::{ user-id=2 } and [pishifat](https://osu.ppy.sh/users/3178418) discussing the rollout as well as all the new neat changes in the game. Below that, you'll find the most notable changes in text form.
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/YKljRdxfhxQ" frameborder="0" allowfullscreen></iframe>
@@ -51,7 +51,7 @@ Below you will find [peppy](https://osu.ppy.sh/users/2) and [pishifat](https://o
 
 ## Other changes
 
-- **The osu!mania ruleset selection sample has been reworked.** Our audio engineer [nekodex](https://osu.ppy.sh/users/102) has been at it again. Take a listen:
+- **The osu!mania ruleset selection sample has been reworked.** Our audio engineer ::nekodex::{ user-id=102 } has been at it again. Take a listen:
 
 Before:
 

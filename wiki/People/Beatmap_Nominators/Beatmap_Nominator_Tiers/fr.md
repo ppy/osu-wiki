@@ -13,7 +13,7 @@ Ce système a été mis en place en réponse au changement de fonction de la [Qu
 
 Pour décider quels Beatmap Nominators appartiendraient à chaque niveau, tous les BN ont reçu un [test BN](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test). Contrairement aux tests BN précédents, celui-ci a été conçu pour identifier des problèmes généraux dans une beatmap.
 
-Les scores du test n'étaient globalement pas fiables car la plupart des utilisateurs avaient des scores extrêmement bas. Le plan initial prévoyait de répartir les utilisateurs en plusieurs niveaux en fonction des résultats du test, mais les résultats de la moitié supérieure étaient trop faibles pour que cela soit une option viable. Au lieu de cela, seuls les 13 meilleurs utilisateurs avec des scores >50% ont été admis dans le deuxième niveau. Le meilleur score a été obtenu par [Yuii-](https://osu.ppy.sh/users/2935923) avec 76%.
+Les scores du test n'étaient globalement pas fiables car la plupart des utilisateurs avaient des scores extrêmement bas. Le plan initial prévoyait de répartir les utilisateurs en plusieurs niveaux en fonction des résultats du test, mais les résultats de la moitié supérieure étaient trop faibles pour que cela soit une option viable. Au lieu de cela, seuls les 13 meilleurs utilisateurs avec des scores >50% ont été admis dans le deuxième niveau. Le meilleur score a été obtenu par ::Yuii-::{ user-id=2935923 } avec 76%.
 
 Alors qu'il était prévu de créer plusieurs tests pour distinguer les niveaux, un seul a été utilisé pendant les 5 mois de vie du système.
 

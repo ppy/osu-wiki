@@ -8,7 +8,7 @@ tags:
 
 ![Catch the Beat Indonesia Cup Open 2024 logo](img/logo.png)
 
-The **Catch the Beat Indonesia Cup Open 2024** (***CICO 2024***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), and ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157). Despite its name, the tournament was open to all players from the Asia-Pacific region with a global rank of #100,000 or higher in the osu!catch game mode. It was the twelfth iteration of the Catch the Beat Indonesia Cup, as well as the second one to be held under the "Open" format.
+The **Catch the Beat Indonesia Cup Open 2024** (***CICO 2024***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: ::Urabe Mikoto::{ user-id=1272422 }, ::{ flag=ID }:: ::Madoka Ayukawa::{ user-id=1595221 }, ::{ flag=ID }:: ::Constantine::{ user-id=3221898 }, and ::{ flag=ID }:: ::Dedot::{ user-id=8805157 }. Despite its name, the tournament was open to all players from the Asia-Pacific region with a global rank of #100,000 or higher in the osu!catch game mode. It was the twelfth iteration of the Catch the Beat Indonesia Cup, as well as the second one to be held under the "Open" format.
 
 ## Tournament schedule
 
@@ -40,16 +40,16 @@ The Catch the Beat Indonesia Cup Open 2024 was run by various osu! community mem
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157) |
-| Mappool selector | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=AT }:: [Mashiro Mama](https://osu.ppy.sh/users/10415976), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
-| Custom mapper | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Fisicia](https://osu.ppy.sh/users/6556054), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=ID }:: [Zyzyx](https://osu.ppy.sh/users/2888013), ::{ flag=TH }:: [-Luminate](https://osu.ppy.sh/users/4778689), ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636), ::{ flag=VN }:: [-Miya](https://osu.ppy.sh/users/1942877), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136), ::{ flag=GB }:: [BIG H ZONDA KIT](https://osu.ppy.sh/users/16352736), ::{ flag=RU }:: [Morusya](https://osu.ppy.sh/users/13681464), ::{ flag=PL }:: [Malai](https://osu.ppy.sh/users/4863096), ::{ flag=RU }:: [2zz](https://osu.ppy.sh/users/8201267), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=MX }:: [Cowboy](https://osu.ppy.sh/users/1237535), ::{ flag=US }:: [Zileni](https://osu.ppy.sh/users/23525574), ::{ flag=CL }:: [Des9](https://osu.ppy.sh/users/5404711), ::{ flag=MX }:: [MILK_16](https://osu.ppy.sh/users/9137627) |
-| Custom map quality assurance | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) |
-| Playtester | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361), ::{ flag=ID }:: [Funtastic](https://osu.ppy.sh/users/3555626), ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=AU }:: [Beerus](https://osu.ppy.sh/users/5529199), ::{ flag=NO }:: [Yunami](https://osu.ppy.sh/users/12217903), ::{ flag=CL }:: [Thaemine](https://osu.ppy.sh/users/32442896), ::{ flag=PE }:: [Lunati1kid](https://osu.ppy.sh/users/25723773) |
-| Streamer | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [BitDust](https://osu.ppy.sh/users/9573836), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768) |
-| Commentator | ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=SG }:: [NoBudgetGuy](https://osu.ppy.sh/users/28498328), ::{ flag=PH }:: [-Steven08-](https://osu.ppy.sh/users/13654885), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768) |
-| Referee | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [MushReen](https://osu.ppy.sh/users/10129901), ::{ flag=ID }:: [Juragan_Piscok1](https://osu.ppy.sh/users/15507280), ::{ flag=SG }:: [Quickeryes](https://osu.ppy.sh/users/18227681), ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768) |
-| Graphic designer | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: kanata. [(↗)](https://twitter.com/kanata_workss), ::{ flag=US }:: showtime [(↗)](https://twitter.com/Sh0wtimeDTM) |
-| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: ::Urabe Mikoto::{ user-id=1272422 }, ::{ flag=ID }:: ::Madoka Ayukawa::{ user-id=1595221 }, ::{ flag=ID }:: ::Constantine::{ user-id=3221898 }, ::{ flag=ID }:: ::Dedot::{ user-id=8805157 } |
+| Mappool selector | ::{ flag=ID }:: ::Urabe Mikoto::{ user-id=1272422 }, ::{ flag=ID }:: ::Madoka Ayukawa::{ user-id=1595221 }, ::{ flag=ID }:: ::Constantine::{ user-id=3221898 }, ::{ flag=MY }:: ::Zakrusta::{ user-id=5034270 }, ::{ flag=SG }:: ::\[Eun\]::{ user-id=3788536 }, ::{ flag=AT }:: ::Mashiro Mama::{ user-id=10415976 }, ::{ flag=CL }:: ::Pekorrat::{ user-id=1250096 } |
+| Custom mapper | ::{ flag=ID }:: ::Urabe Mikoto::{ user-id=1272422 }, ::{ flag=ID }:: ::Madoka Ayukawa::{ user-id=1595221 }, ::{ flag=ID }:: ::Mochi -::{ user-id=20424806 }, ::{ flag=ID }:: ::Zvenx::{ user-id=14613788 }, ::{ flag=ID }:: ::Fisicia::{ user-id=6556054 }, ::{ flag=ID }:: ::Sololiquy::{ user-id=4350087 }, ::{ flag=ID }:: ::Dika312::{ user-id=741613 }, ::{ flag=ID }:: ::-Hex-::{ user-id=8630988 }, ::{ flag=ID }:: ::Zyzyx::{ user-id=2888013 }, ::{ flag=TH }:: ::-Luminate::{ user-id=4778689 }, ::{ flag=PH }:: ::-Rustyy::{ user-id=16355636 }, ::{ flag=VN }:: ::-Miya::{ user-id=1942877 }, ::{ flag=PH }:: ::Jemzuu::{ user-id=7890134 }, ::{ flag=KR }:: ::Spectator::{ user-id=702598 }, ::{ flag=KR }:: ::ExGon::{ user-id=214187 }, ::{ flag=AT }:: ::Daletto::{ user-id=7592136 }, ::{ flag=GB }:: ::BIG H ZONDA KIT::{ user-id=16352736 }, ::{ flag=RU }:: ::Morusya::{ user-id=13681464 }, ::{ flag=PL }:: ::Malai::{ user-id=4863096 }, ::{ flag=RU }:: ::2zz::{ user-id=8201267 }, ::{ flag=US }:: ::Secre::{ user-id=2306637 }, ::{ flag=MX }:: ::Cowboy::{ user-id=1237535 }, ::{ flag=US }:: ::Zileni::{ user-id=23525574 }, ::{ flag=CL }:: ::Des9::{ user-id=5404711 }, ::{ flag=MX }:: ::MILK\116::{ user-id=9137627 } |
+| Custom map quality assurance | ::{ flag=ID }:: ::Urabe Mikoto::{ user-id=1272422 }, ::{ flag=ID }:: ::Mochi -::{ user-id=20424806 }, ::{ flag=ID }:: ::Zvenx::{ user-id=14613788 }, ::{ flag=PH }:: ::midorijeon::{ user-id=10969875 }, ::{ flag=KR }:: ::ExGon::{ user-id=214187 }, ::{ flag=KR }:: ::Spectator::{ user-id=702598 }, ::{ flag=HK }:: ::autofanboy::{ user-id=636114 } |
+| Playtester | ::{ flag=ID }:: ::Netamaru::{ user-id=1830361 }, ::{ flag=ID }:: ::Funtastic::{ user-id=3555626 }, ::{ flag=KR }:: ::DreStar::{ user-id=1808057 }, ::{ flag=KR }:: ::Motion::{ user-id=3885626 }, ::{ flag=AU }:: ::Beerus::{ user-id=5529199 }, ::{ flag=NO }:: ::Yunami::{ user-id=12217903 }, ::{ flag=CL }:: ::Thaemine::{ user-id=32442896 }, ::{ flag=PE }:: ::Lunati1kid::{ user-id=25723773 } |
+| Streamer | ::{ flag=ID }:: ::Urabe Mikoto::{ user-id=1272422 }, ::{ flag=ID }:: ::BitDust::{ user-id=9573836 }, ::{ flag=PL }:: ::LaviSorrow::{ user-id=9966768 } |
+| Commentator | ::{ flag=ID }:: ::Constantine::{ user-id=3221898 }, ::{ flag=SG }:: ::\[Eun\]::{ user-id=3788536 }, ::{ flag=SG }:: ::NoBudgetGuy::{ user-id=28498328 }, ::{ flag=PH }:: ::-Steven08-::{ user-id=13654885 }, ::{ flag=SG }:: ::Ekseff::{ user-id=13966422 }, ::{ flag=KR }:: ::\[Amazing\]::{ user-id=1391036 }, ::{ flag=AU }:: ::Maitoo::{ user-id=16899553 }, ::{ flag=AU }:: ::KWYJIBO::{ user-id=7178386 }, ::{ flag=PL }:: ::LaviSorrow::{ user-id=9966768 } |
+| Referee | ::{ flag=ID }:: ::Urabe Mikoto::{ user-id=1272422 }, ::{ flag=ID }:: ::MushReen::{ user-id=10129901 }, ::{ flag=ID }:: ::Juragan\1Piscok1::{ user-id=15507280 }, ::{ flag=SG }:: ::Quickeryes::{ user-id=18227681 }, ::{ flag=MY }:: ::Zakrusta::{ user-id=5034270 }, ::{ flag=PL }:: ::LaviSorrow::{ user-id=9966768 } |
+| Graphic designer | ::{ flag=ID }:: ::Madoka Ayukawa::{ user-id=1595221 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: kanata. [(↗)](https://twitter.com/kanata_workss), ::{ flag=US }:: showtime [(↗)](https://twitter.com/Sh0wtimeDTM) |
+| Wiki editor | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
 
 ## Links
 
@@ -67,38 +67,38 @@ The complete list of player registrations can be found [here](https://wybin.xyz/
 
 | Seed no. | Player | Avg. rank |
 | :-- | :-- | :-- |
-| 1 | ::{ flag=CN }:: [Nene Sakura](https://osu.ppy.sh/users/6701104) | 4.90 |
-| 2 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | 6.00 |
-| 3 | ::{ flag=TW }:: [Shimoe Koharu](https://osu.ppy.sh/users/2145160) | 8.30 |
-| 4 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | 9.40 |
-| 5 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | 9.50 |
-| 6 | ::{ flag=KR }:: [OYG](https://osu.ppy.sh/users/7547506) | 9.80 |
-| 7 | ::{ flag=TW }:: [Happiness Fish](https://osu.ppy.sh/users/4586766) | 9.90 |
-| 8 | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233) | 10.20 |
-| 9 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | 11.00 |
-| 10 | ::{ flag=ID }:: [Taskmaster](https://osu.ppy.sh/users/3027065) | 13.00 |
-| 11 | ::{ flag=HK }:: [littlepiggod](https://osu.ppy.sh/users/12331683) | 13.50 |
-| 12 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | 13.70 |
-| 13 | ::{ flag=RU }:: [Cold Fusion](https://osu.ppy.sh/users/15389158) | 15.30 |
-| 14 | ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533) | 16.70 |
-| 15 | ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477) | 17.20 |
-| 16 | ::{ flag=HK }:: [fua](https://osu.ppy.sh/users/21138904) | 19.80 |
-| 17 | ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870) | 19.90 |
-| 18 | ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479) | 21.20 |
-| 19 | ::{ flag=ID }:: [Serestia](https://osu.ppy.sh/users/30511396) | 22.10 |
-| 20 | ::{ flag=TW }:: [Oktavia](https://osu.ppy.sh/users/1952803) | 22.40 |
-| 21 | ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) | 23.80 |
-| 22 | ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627) | 24.40 |
-| 23 | ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339) | 25.00 |
-| 24 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | 25.50 |
-| 25 | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422) | 26.40 |
-| 26 | ::{ flag=TR }:: [lorem ipsum](https://osu.ppy.sh/users/17130789) | 27.20 |
-| 27 | ::{ flag=TW }:: [Flyer](https://osu.ppy.sh/users/9767342) | 28.70 |
-| 28 | ::{ flag=TW }:: [Psc\_IceRain](https://osu.ppy.sh/users/3359485) | 29.00 |
-| 29 | ::{ flag=TW }:: [\_Tsukiko](https://osu.ppy.sh/users/4787989) | 29.30 |
-| 30 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | 29.60 |
-| 31 | ::{ flag=TW }:: [\_Nanami](https://osu.ppy.sh/users/1929450) | 31.30 |
-| 32 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | 31.40 |
+| 1 | ::{ flag=CN }:: ::Nene Sakura::{ user-id=6701104 } | 4.90 |
+| 2 | ::{ flag=ID }:: ::Nekuro::{ user-id=3222638 } | 6.00 |
+| 3 | ::{ flag=TW }:: ::Shimoe Koharu::{ user-id=2145160 } | 8.30 |
+| 4 | ::{ flag=RU }:: ::Kimitakari::{ user-id=4741164 } | 9.40 |
+| 5 | ::{ flag=ID }:: ::Chroneko::{ user-id=5472877 } | 9.50 |
+| 6 | ::{ flag=KR }:: ::OYG::{ user-id=7547506 } | 9.80 |
+| 7 | ::{ flag=TW }:: ::Happiness Fish::{ user-id=4586766 } | 9.90 |
+| 8 | ::{ flag=TW }:: ::DoDoEbi::{ user-id=1177233 } | 10.20 |
+| 9 | ::{ flag=KR }:: ::\[Amazing\]::{ user-id=1391036 } | 11.00 |
+| 10 | ::{ flag=ID }:: ::Taskmaster::{ user-id=3027065 } | 13.00 |
+| 11 | ::{ flag=HK }:: ::littlepiggod::{ user-id=12331683 } | 13.50 |
+| 12 | ::{ flag=ID }:: ::EpanPan::{ user-id=13194580 } | 13.70 |
+| 13 | ::{ flag=RU }:: ::Cold Fusion::{ user-id=15389158 } | 15.30 |
+| 14 | ::{ flag=TH }:: ::Azuria::{ user-id=16102533 } | 16.70 |
+| 15 | ::{ flag=TW }:: ::Minato Yukina::{ user-id=4133477 } | 17.20 |
+| 16 | ::{ flag=HK }:: ::fua::{ user-id=21138904 } | 19.80 |
+| 17 | ::{ flag=AU }:: ::TheTixTop::{ user-id=19236870 } | 19.90 |
+| 18 | ::{ flag=RU }:: ::Rakety::{ user-id=11109479 } | 21.20 |
+| 19 | ::{ flag=ID }:: ::Serestia::{ user-id=30511396 } | 22.10 |
+| 20 | ::{ flag=TW }:: ::Oktavia::{ user-id=1952803 } | 22.40 |
+| 21 | ::{ flag=AU }:: ::KWYJIBO::{ user-id=7178386 } | 23.80 |
+| 22 | ::{ flag=HK }:: ::my angel auto::{ user-id=29503627 } | 24.40 |
+| 23 | ::{ flag=SA }:: ::WOAH0::{ user-id=18336339 } | 25.00 |
+| 24 | ::{ flag=RU }:: ::Nerris::{ user-id=11202866 } | 25.50 |
+| 25 | ::{ flag=SG }:: ::Ekseff::{ user-id=13966422 } | 26.40 |
+| 26 | ::{ flag=TR }:: ::lorem ipsum::{ user-id=17130789 } | 27.20 |
+| 27 | ::{ flag=TW }:: ::Flyer::{ user-id=9767342 } | 28.70 |
+| 28 | ::{ flag=TW }:: ::Psc\_IceRain::{ user-id=3359485 } | 29.00 |
+| 29 | ::{ flag=TW }:: ::\_Tsukiko::{ user-id=4787989 } | 29.30 |
+| 30 | ::{ flag=TW }:: ::Nazrin on osu::{ user-id=2512267 } | 29.60 |
+| 31 | ::{ flag=TW }:: ::\_Nanami::{ user-id=1929450 } | 31.30 |
+| 32 | ::{ flag=AU }:: ::pandaBear::{ user-id=107553 } | 31.40 |
 
 ## Podium
 
@@ -298,14 +298,14 @@ Saturday, 31 August 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/115309494) |
+| Lower | **::Nekuro::{ user-id=3222638 }** ::{ flag=ID }:: | **7** | 0 | ::{ flag=RU }:: ::Kimitakari::{ user-id=4741164 } | [#1](https://osu.ppy.sh/community/matches/115309494) |
 
 Sunday, 1 September 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | [DoDoEbi](https://osu.ppy.sh/users/1177233) ::{ flag=TW }:: | 4 | **7** | ::{ flag=ID }:: **[Nekuro](https://osu.ppy.sh/users/3222638)** | [#1](https://osu.ppy.sh/community/matches/115324254) |
-| Grand Final (bracket reset) | **[Nekuro](https://osu.ppy.sh/users/4741164)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1391036) | [#1](https://osu.ppy.sh/community/matches/115325088) |
+| Grand Final | ::DoDoEbi::{ user-id=1177233 } ::{ flag=TW }:: | 4 | **7** | ::{ flag=ID }:: **::Nekuro::{ user-id=3222638 }** | [#1](https://osu.ppy.sh/community/matches/115324254) |
+| Grand Final (bracket reset) | **::Nekuro::{ user-id=4741164 }** ::{ flag=ID }:: | **7** | 1 | ::{ flag=TW }:: ::DoDoEbi::{ user-id=1391036 } | [#1](https://osu.ppy.sh/community/matches/115325088) |
 
 ### Finals (week 1)
 
@@ -313,20 +313,20 @@ Sunday, 18 August 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Kimitakari](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **7** | 3 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | [#1](https://osu.ppy.sh/community/matches/115131157) |
-| Lower | [Shimoe Koharu](https://osu.ppy.sh/users/2145160) ::{ flag=TW }:: | 0 | **7** | ::{ flag=CN }:: **[Nene Sakura](https://osu.ppy.sh/users/6701104)** | *win by default* |
+| Lower | **::Kimitakari::{ user-id=4741164 }** ::{ flag=RU }:: | **7** | 3 | ::{ flag=KR }:: ::\[Amazing\]::{ user-id=1391036 } | [#1](https://osu.ppy.sh/community/matches/115131157) |
+| Lower | ::Shimoe Koharu::{ user-id=2145160 } ::{ flag=TW }:: | 0 | **7** | ::{ flag=CN }:: **::Nene Sakura::{ user-id=6701104 }** | *win by default* |
 
 Monday, 19 August 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Nene Sakura](https://osu.ppy.sh/users/6701104) ::{ flag=CN }:: | 4 | **7** | ::{ flag=RU }:: **[Kimitakari](https://osu.ppy.sh/users/4741164)** | [#1](https://osu.ppy.sh/community/matches/115143422) |
+| Lower | ::Nene Sakura::{ user-id=6701104 } ::{ flag=CN }:: | 4 | **7** | ::{ flag=RU }:: **::Kimitakari::{ user-id=4741164 }** | [#1](https://osu.ppy.sh/community/matches/115143422) |
 
 Sunday, 25 August 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[DoDoEbi](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **7** | 0 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | *win by default* |
+| Upper | **::DoDoEbi::{ user-id=1177233 }** ::{ flag=TW }:: | **7** | 0 | ::{ flag=ID }:: ::Nekuro::{ user-id=3222638 } | *win by default* |
 
 ### Semifinals
 
@@ -334,24 +334,24 @@ Saturday, 10 August 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422) | [#1](https://osu.ppy.sh/community/matches/115023306) |
-| Lower | [Happiness Fish](https://osu.ppy.sh/users/4586766) ::{ flag=TW }:: | 4 | **6** | ::{ flag=KR }:: **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** | [#1](https://osu.ppy.sh/community/matches/115022049) |
-| Lower | **[Nene Sakura](https://osu.ppy.sh/users/6701104)** ::{ flag=CN }:: | **6** | 3 | ::{ flag=ID }:: [Taskmaster](https://osu.ppy.sh/users/3027065) | [#1](https://osu.ppy.sh/community/matches/115021542) |
-| Lower | [my angel auto](https://osu.ppy.sh/users/29503627) ::{ flag=HK }:: | 3 | **6** | ::{ flag=RU }:: **[Cold Fusion](https://osu.ppy.sh/users/15389158)** | [#1](https://osu.ppy.sh/community/matches/115022848) |
+| Lower | **::Chroneko::{ user-id=5472877 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=SG }:: ::Ekseff::{ user-id=13966422 } | [#1](https://osu.ppy.sh/community/matches/115023306) |
+| Lower | ::Happiness Fish::{ user-id=4586766 } ::{ flag=TW }:: | 4 | **6** | ::{ flag=KR }:: **::\[Amazing\]::{ user-id=1391036 }** | [#1](https://osu.ppy.sh/community/matches/115022049) |
+| Lower | **::Nene Sakura::{ user-id=6701104 }** ::{ flag=CN }:: | **6** | 3 | ::{ flag=ID }:: ::Taskmaster::{ user-id=3027065 } | [#1](https://osu.ppy.sh/community/matches/115021542) |
+| Lower | ::my angel auto::{ user-id=29503627 } ::{ flag=HK }:: | 3 | **6** | ::{ flag=RU }:: **::Cold Fusion::{ user-id=15389158 }** | [#1](https://osu.ppy.sh/community/matches/115022848) |
 
 Sunday, 11 August 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=TW }:: [Shimoe Koharu](https://osu.ppy.sh/users/2145160) | [#1](https://osu.ppy.sh/community/matches/115037221) |
-| Upper | **[DoDoEbi](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **6** | 3 | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | [#1](https://osu.ppy.sh/community/matches/115036426) |
-| Lower | [Cold Fusion](https://osu.ppy.sh/users/15389158) ::{ flag=RU }:: | 2 | **6** | ::{ flag=KR }:: **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** | [#1](https://osu.ppy.sh/community/matches/115037880) |
+| Upper | **::Nekuro::{ user-id=3222638 }** ::{ flag=ID }:: | **6** | 1 | ::{ flag=TW }:: ::Shimoe Koharu::{ user-id=2145160 } | [#1](https://osu.ppy.sh/community/matches/115037221) |
+| Upper | **::DoDoEbi::{ user-id=1177233 }** ::{ flag=TW }:: | **6** | 3 | ::{ flag=RU }:: ::Kimitakari::{ user-id=4741164 } | [#1](https://osu.ppy.sh/community/matches/115036426) |
+| Lower | ::Cold Fusion::{ user-id=15389158 } ::{ flag=RU }:: | 2 | **6** | ::{ flag=KR }:: **::\[Amazing\]::{ user-id=1391036 }** | [#1](https://osu.ppy.sh/community/matches/115037880) |
 
 Monday, 12 August 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Chroneko](https://osu.ppy.sh/users/5472877) ::{ flag=ID }:: | 5 | **6** | ::{ flag=CN }:: **[Nene Sakura](https://osu.ppy.sh/users/6701104)** | [#1](https://osu.ppy.sh/community/matches/115035156) |
+| Lower | ::Chroneko::{ user-id=5472877 } ::{ flag=ID }:: | 5 | **6** | ::{ flag=CN }:: **::Nene Sakura::{ user-id=6701104 }** | [#1](https://osu.ppy.sh/community/matches/115035156) |
 
 ### Quarterfinals
 
@@ -359,32 +359,32 @@ Saturday, 3 August 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** ::{ flag=KR }:: | **6** | 0 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | [#1](https://osu.ppy.sh/community/matches/114925296) |
-| Lower | **[Taskmaster](https://osu.ppy.sh/users/3027065)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=TW }:: [Oktavia](https://osu.ppy.sh/users/1952803) | [#1](https://osu.ppy.sh/community/matches/114926967) |
-| Lower | [TheTixTop](https://osu.ppy.sh/users/19236870) ::{ flag=AU }:: | 2 | **6** | ::{ flag=HK }:: **[littlepiggod](https://osu.ppy.sh/users/12331683)** | [#1](https://osu.ppy.sh/community/matches/114926468) |
-| Lower | **[Minato Yukina](https://osu.ppy.sh/users/4133477)** ::{ flag=TW }:: | **6** | 3 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | [#1](https://osu.ppy.sh/community/matches/114924853) |
-| Lower | **[Flyer](https://osu.ppy.sh/users/9767342)** ::{ flag=TW }:: | **6** | 1 | ::{ flag=HK }:: [fua](https://osu.ppy.sh/users/21138904) | [#1](https://osu.ppy.sh/community/matches/114925281) |
-| Lower | **[Cold Fusion](https://osu.ppy.sh/users/15389158)** ::{ flag=RU }:: | **6** | 3 | ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339) | [#1](https://osu.ppy.sh/community/matches/114928946) |
-| Lower | [Serestia](https://osu.ppy.sh/users/30511396) ::{ flag=ID }:: | 0 | **6** | ::{ flag=SG }:: **[Ekseff](https://osu.ppy.sh/users/13966422)** | *win by default* |
+| Lower | **::\[Amazing\]::{ user-id=1391036 }** ::{ flag=KR }:: | **6** | 0 | ::{ flag=TW }:: ::Nazrin on osu::{ user-id=2512267 } | [#1](https://osu.ppy.sh/community/matches/114925296) |
+| Lower | **::Taskmaster::{ user-id=3027065 }** ::{ flag=ID }:: | **6** | 5 | ::{ flag=TW }:: ::Oktavia::{ user-id=1952803 } | [#1](https://osu.ppy.sh/community/matches/114926967) |
+| Lower | ::TheTixTop::{ user-id=19236870 } ::{ flag=AU }:: | 2 | **6** | ::{ flag=HK }:: **::littlepiggod::{ user-id=12331683 }** | [#1](https://osu.ppy.sh/community/matches/114926468) |
+| Lower | **::Minato Yukina::{ user-id=4133477 }** ::{ flag=TW }:: | **6** | 3 | ::{ flag=ID }:: ::EpanPan::{ user-id=13194580 } | [#1](https://osu.ppy.sh/community/matches/114924853) |
+| Lower | **::Flyer::{ user-id=9767342 }** ::{ flag=TW }:: | **6** | 1 | ::{ flag=HK }:: ::fua::{ user-id=21138904 } | [#1](https://osu.ppy.sh/community/matches/114925281) |
+| Lower | **::Cold Fusion::{ user-id=15389158 }** ::{ flag=RU }:: | **6** | 3 | ::{ flag=SA }:: ::WOAH0::{ user-id=18336339 } | [#1](https://osu.ppy.sh/community/matches/114928946) |
+| Lower | ::Serestia::{ user-id=30511396 } ::{ flag=ID }:: | 0 | **6** | ::{ flag=SG }:: **::Ekseff::{ user-id=13966422 }** | *win by default* |
 
 Sunday, 4 August 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** ::{ flag=KR }:: | **6** | 2 | ::{ flag=HK }:: [littlepiggod](https://osu.ppy.sh/users/12331683) | [#1](https://osu.ppy.sh/community/matches/114938315) |
-| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=TW }:: [Happiness Fish](https://osu.ppy.sh/users/4586766) | [#1](https://osu.ppy.sh/community/matches/114939817) |
-| Upper | [Nene Sakura](https://osu.ppy.sh/users/6701104) ::{ flag=CN }:: | 3 | **6** | ::{ flag=TW }:: **[DoDoEbi](https://osu.ppy.sh/users/1177233)** | [#1](https://osu.ppy.sh/community/matches/114940391) |
-| Lower | **[Taskmaster](https://osu.ppy.sh/users/3027065)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477) | [#1](https://osu.ppy.sh/community/matches/114941737) |
-| Upper | **[Kimitakari](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **6** | 3 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | [#1](https://osu.ppy.sh/community/matches/114940976) |
-| Upper | **[Shimoe Koharu](https://osu.ppy.sh/users/2145160)** ::{ flag=TW }:: | **6** | 5 | ::{ flag=HK }:: [my angel auto](https://osu.ppy.sh/users/29503627) | [#1](https://osu.ppy.sh/community/matches/114941623) |
-| Lower | **[KWYJIBO](https://osu.ppy.sh/users/7178386)** ::{ flag=AU }:: | **6** | 0 | ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479) | *win by default* |
-| Lower | [Flyer](https://osu.ppy.sh/users/9767342) ::{ flag=TW }:: | 0 | **6** | ::{ flag=SG }:: **[Ekseff](https://osu.ppy.sh/users/13966422)** | *win by default* |
+| Lower | **::\[Amazing\]::{ user-id=1391036 }** ::{ flag=KR }:: | **6** | 2 | ::{ flag=HK }:: ::littlepiggod::{ user-id=12331683 } | [#1](https://osu.ppy.sh/community/matches/114938315) |
+| Upper | **::Nekuro::{ user-id=3222638 }** ::{ flag=ID }:: | **6** | 4 | ::{ flag=TW }:: ::Happiness Fish::{ user-id=4586766 } | [#1](https://osu.ppy.sh/community/matches/114939817) |
+| Upper | ::Nene Sakura::{ user-id=6701104 } ::{ flag=CN }:: | 3 | **6** | ::{ flag=TW }:: **::DoDoEbi::{ user-id=1177233 }** | [#1](https://osu.ppy.sh/community/matches/114940391) |
+| Lower | **::Taskmaster::{ user-id=3027065 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=TW }:: ::Minato Yukina::{ user-id=4133477 } | [#1](https://osu.ppy.sh/community/matches/114941737) |
+| Upper | **::Kimitakari::{ user-id=4741164 }** ::{ flag=RU }:: | **6** | 3 | ::{ flag=ID }:: ::Chroneko::{ user-id=5472877 } | [#1](https://osu.ppy.sh/community/matches/114940976) |
+| Upper | **::Shimoe Koharu::{ user-id=2145160 }** ::{ flag=TW }:: | **6** | 5 | ::{ flag=HK }:: ::my angel auto::{ user-id=29503627 } | [#1](https://osu.ppy.sh/community/matches/114941623) |
+| Lower | **::KWYJIBO::{ user-id=7178386 }** ::{ flag=AU }:: | **6** | 0 | ::{ flag=RU }:: ::Rakety::{ user-id=11109479 } | *win by default* |
+| Lower | ::Flyer::{ user-id=9767342 } ::{ flag=TW }:: | 0 | **6** | ::{ flag=SG }:: **::Ekseff::{ user-id=13966422 }** | *win by default* |
 
 Monday, 5 August 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [KWYJIBO](https://osu.ppy.sh/users/7178386) ::{ flag=AU }:: | 2 | **6** | ::{ flag=RU }:: **[Cold Fusion](https://osu.ppy.sh/users/15389158)** | [#1](https://osu.ppy.sh/community/matches/114939539) |
+| Lower | ::KWYJIBO::{ user-id=7178386 } ::{ flag=AU }:: | 2 | **6** | ::{ flag=RU }:: **::Cold Fusion::{ user-id=15389158 }** | [#1](https://osu.ppy.sh/community/matches/114939539) |
 
 ### Round of 16
 
@@ -392,32 +392,32 @@ Friday, 26 July 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [lorem ipsum](https://osu.ppy.sh/users/17130789) ::{ flag=TR }:: | 2 | **5** | ::{ flag=SA }:: **[WOAH0](https://osu.ppy.sh/users/18336339)** | [#1](https://osu.ppy.sh/community/matches/114836378) |
+| Lower | ::lorem ipsum::{ user-id=17130789 } ::{ flag=TR }:: | 2 | **5** | ::{ flag=SA }:: **::WOAH0::{ user-id=18336339 }** | [#1](https://osu.ppy.sh/community/matches/114836378) |
 
 Saturday, 27 July 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Psc\_IceRain](https://osu.ppy.sh/users/3359485) ::{ flag=TW }:: | 1 | **5** | ::{ flag=ID }:: **[EpanPan](https://osu.ppy.sh/users/13194580)** | [#1](https://osu.ppy.sh/community/matches/114832262) |
-| Upper | **[DoDoEbi](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **5** | 3 | ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) | [#1](https://osu.ppy.sh/community/matches/114845950) |
-| Upper | **[Shimoe Koharu](https://osu.ppy.sh/users/2145160)** ::{ flag=TW }:: | **5** | 3 | ::{ flag=ID }:: [Serestia](https://osu.ppy.sh/users/30511396) | [#1](https://osu.ppy.sh/community/matches/114835044) |
-| Lower | [pandaBear](https://osu.ppy.sh/users/107553) ::{ flag=AU }:: | 4 | **5** | ::{ flag=HK }:: **[fua](https://osu.ppy.sh/users/21138904)** | [#1](https://osu.ppy.sh/community/matches/114832655) |
-| Lower | **[Nazrin on osu](https://osu.ppy.sh/users/2512267)** ::{ flag=TW }:: | **5** | 0 | ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533) | *win by default* |
+| Lower | ::Psc\_IceRain::{ user-id=3359485 } ::{ flag=TW }:: | 1 | **5** | ::{ flag=ID }:: **::EpanPan::{ user-id=13194580 }** | [#1](https://osu.ppy.sh/community/matches/114832262) |
+| Upper | **::DoDoEbi::{ user-id=1177233 }** ::{ flag=TW }:: | **5** | 3 | ::{ flag=KR }:: ::\[Amazing\]::{ user-id=1391036 } | [#1](https://osu.ppy.sh/community/matches/114845950) |
+| Upper | **::Shimoe Koharu::{ user-id=2145160 }** ::{ flag=TW }:: | **5** | 3 | ::{ flag=ID }:: ::Serestia::{ user-id=30511396 } | [#1](https://osu.ppy.sh/community/matches/114835044) |
+| Lower | ::pandaBear::{ user-id=107553 } ::{ flag=AU }:: | 4 | **5** | ::{ flag=HK }:: **::fua::{ user-id=21138904 }** | [#1](https://osu.ppy.sh/community/matches/114832655) |
+| Lower | **::Nazrin on osu::{ user-id=2512267 }** ::{ flag=TW }:: | **5** | 0 | ::{ flag=TH }:: ::Azuria::{ user-id=16102533 } | *win by default* |
 
 Sunday, 28 July 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Ekseff](https://osu.ppy.sh/users/13966422)** ::{ flag=SG }:: | **5** | 4 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | [#1](https://osu.ppy.sh/community/matches/114835531) |
-| Upper | [Flyer](https://osu.ppy.sh/users/9767342) ::{ flag=TW }:: | 1 | **5** | ::{ flag=HK }:: **[my angel auto](https://osu.ppy.sh/users/29503627)** | [#1](https://osu.ppy.sh/community/matches/114849265) |
-| Upper | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386) | [#1](https://osu.ppy.sh/community/matches/114846300) |
-| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=TW }:: [Minato Yukina](https://osu.ppy.sh/users/4133477) | [#1](https://osu.ppy.sh/community/matches/114846301) |
-| Upper | **[Happiness Fish](https://osu.ppy.sh/users/4586766)** ::{ flag=TW }:: | **5** | 0 | ::{ flag=ID }:: [Taskmaster](https://osu.ppy.sh/users/3027065) | [#1](https://osu.ppy.sh/community/matches/114847534) |
-| Upper | **[Kimitakari](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: [Cold Fusion](https://osu.ppy.sh/users/15389158) | [#1](https://osu.ppy.sh/community/matches/114848031) |
-| Lower | [\_Tsukiko](https://osu.ppy.sh/users/4787989) ::{ flag=TW }:: | 4 | **5** | ::{ flag=TW }:: **[Oktavia](https://osu.ppy.sh/users/1952803)** | [#1](https://osu.ppy.sh/community/matches/114850301) |
-| Upper | **[Nene Sakura](https://osu.ppy.sh/users/6701104)** ::{ flag=CN }:: | **5** | 2 | ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870) | [#1](https://osu.ppy.sh/community/matches/114832648) |
-| Lower | [\_Nanami](https://osu.ppy.sh/users/1929450) ::{ flag=TW }:: | 0 | **5** | ::{ flag=RU }:: **[Rakety](https://osu.ppy.sh/users/11109479)** | [#1](https://osu.ppy.sh/community/matches/114847543) |
-| Lower | [OYG](https://osu.ppy.sh/users/7547506) ::{ flag=KR }:: | 0 | **5** | ::{ flag=HK }:: **[littlepiggod](https://osu.ppy.sh/users/12331683)** | *win by default* |
+| Lower | **::Ekseff::{ user-id=13966422 }** ::{ flag=SG }:: | **5** | 4 | ::{ flag=RU }:: ::Nerris::{ user-id=11202866 } | [#1](https://osu.ppy.sh/community/matches/114835531) |
+| Upper | ::Flyer::{ user-id=9767342 } ::{ flag=TW }:: | 1 | **5** | ::{ flag=HK }:: **::my angel auto::{ user-id=29503627 }** | [#1](https://osu.ppy.sh/community/matches/114849265) |
+| Upper | **::Chroneko::{ user-id=5472877 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=AU }:: ::KWYJIBO::{ user-id=7178386 } | [#1](https://osu.ppy.sh/community/matches/114846300) |
+| Upper | **::Nekuro::{ user-id=3222638 }** ::{ flag=ID }:: | **5** | 2 | ::{ flag=TW }:: ::Minato Yukina::{ user-id=4133477 } | [#1](https://osu.ppy.sh/community/matches/114846301) |
+| Upper | **::Happiness Fish::{ user-id=4586766 }** ::{ flag=TW }:: | **5** | 0 | ::{ flag=ID }:: ::Taskmaster::{ user-id=3027065 } | [#1](https://osu.ppy.sh/community/matches/114847534) |
+| Upper | **::Kimitakari::{ user-id=4741164 }** ::{ flag=RU }:: | **5** | 0 | ::{ flag=RU }:: ::Cold Fusion::{ user-id=15389158 } | [#1](https://osu.ppy.sh/community/matches/114848031) |
+| Lower | ::\_Tsukiko::{ user-id=4787989 } ::{ flag=TW }:: | 4 | **5** | ::{ flag=TW }:: **::Oktavia::{ user-id=1952803 }** | [#1](https://osu.ppy.sh/community/matches/114850301) |
+| Upper | **::Nene Sakura::{ user-id=6701104 }** ::{ flag=CN }:: | **5** | 2 | ::{ flag=AU }:: ::TheTixTop::{ user-id=19236870 } | [#1](https://osu.ppy.sh/community/matches/114832648) |
+| Lower | ::\_Nanami::{ user-id=1929450 } ::{ flag=TW }:: | 0 | **5** | ::{ flag=RU }:: **::Rakety::{ user-id=11109479 }** | [#1](https://osu.ppy.sh/community/matches/114847543) |
+| Lower | ::OYG::{ user-id=7547506 } ::{ flag=KR }:: | 0 | **5** | ::{ flag=HK }:: **::littlepiggod::{ user-id=12331683 }** | *win by default* |
 
 ### Round of 32
 
@@ -425,32 +425,32 @@ Saturday, 20 July 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [fua](https://osu.ppy.sh/users/21138904) ::{ flag=HK }:: | 2 | **5** | ::{ flag=AU }:: **[TheTixTop](https://osu.ppy.sh/users/19236870)** | [#1](https://osu.ppy.sh/community/matches/114740134) |
-| Upper | **[Taskmaster](https://osu.ppy.sh/users/3027065)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339) | [#1](https://osu.ppy.sh/community/matches/114741332) |
-| Upper | **[\[Amazing\]](https://osu.ppy.sh/users/1391036)** ::{ flag=KR }:: | **5** | 1 | ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) | [#1](https://osu.ppy.sh/community/matches/114743185) |
-| Upper | **[Cold Fusion](https://osu.ppy.sh/users/15389158)** ::{ flag=RU }:: | **5** | 3 | ::{ flag=TW }:: [Oktavia](https://osu.ppy.sh/users/1952803) | [#1](https://osu.ppy.sh/community/matches/114742431) |
-| Upper | **[Nene Sakura](https://osu.ppy.sh/users/6701104)** ::{ flag=CN }:: | **5** | 0 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | [#1](https://osu.ppy.sh/community/matches/114740523) |
-| Upper | **[Kimitakari](https://osu.ppy.sh/users/4741164)** ::{ flag=RU }:: | **5** | 1 | ::{ flag=TW }:: [\_Tsukiko](https://osu.ppy.sh/users/4787989) | [#1](https://osu.ppy.sh/community/matches/114742508) |
-| Upper | **[DoDoEbi](https://osu.ppy.sh/users/1177233)** ::{ flag=TW }:: | **5** | 0 | ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422) | [#1](https://osu.ppy.sh/community/matches/114743923) |
-| Upper | [OYG](https://osu.ppy.sh/users/7547506) ::{ flag=KR }:: | 0 | **5** | ::{ flag=TW }:: **[Flyer](https://osu.ppy.sh/users/9767342)** | *win by default* |
+| Upper | ::fua::{ user-id=21138904 } ::{ flag=HK }:: | 2 | **5** | ::{ flag=AU }:: **::TheTixTop::{ user-id=19236870 }** | [#1](https://osu.ppy.sh/community/matches/114740134) |
+| Upper | **::Taskmaster::{ user-id=3027065 }** ::{ flag=ID }:: | **5** | 2 | ::{ flag=SA }:: ::WOAH0::{ user-id=18336339 } | [#1](https://osu.ppy.sh/community/matches/114741332) |
+| Upper | **::\[Amazing\]::{ user-id=1391036 }** ::{ flag=KR }:: | **5** | 1 | ::{ flag=RU }:: ::Nerris::{ user-id=11202866 } | [#1](https://osu.ppy.sh/community/matches/114743185) |
+| Upper | **::Cold Fusion::{ user-id=15389158 }** ::{ flag=RU }:: | **5** | 3 | ::{ flag=TW }:: ::Oktavia::{ user-id=1952803 } | [#1](https://osu.ppy.sh/community/matches/114742431) |
+| Upper | **::Nene Sakura::{ user-id=6701104 }** ::{ flag=CN }:: | **5** | 0 | ::{ flag=AU }:: ::pandaBear::{ user-id=107553 } | [#1](https://osu.ppy.sh/community/matches/114740523) |
+| Upper | **::Kimitakari::{ user-id=4741164 }** ::{ flag=RU }:: | **5** | 1 | ::{ flag=TW }:: ::\_Tsukiko::{ user-id=4787989 } | [#1](https://osu.ppy.sh/community/matches/114742508) |
+| Upper | **::DoDoEbi::{ user-id=1177233 }** ::{ flag=TW }:: | **5** | 0 | ::{ flag=SG }:: ::Ekseff::{ user-id=13966422 } | [#1](https://osu.ppy.sh/community/matches/114743923) |
+| Upper | ::OYG::{ user-id=7547506 } ::{ flag=KR }:: | 0 | **5** | ::{ flag=TW }:: **::Flyer::{ user-id=9767342 }** | *win by default* |
 
 Sunday, 21 July 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Nekuro](https://osu.ppy.sh/users/3222638)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=TW }:: [\_Nanami](https://osu.ppy.sh/users/1929450) | [#1](https://osu.ppy.sh/community/matches/114753974) |
-| Upper | **[Happiness Fish](https://osu.ppy.sh/users/4586766)** ::{ flag=TW }:: | **5** | 0 | ::{ flag=TR }:: [lorem ipsum](https://osu.ppy.sh/users/17130789) | [#1](https://osu.ppy.sh/community/matches/114754879) |
-| Upper | [EpanPan](https://osu.ppy.sh/users/13194580) ::{ flag=ID }:: | 4 | **5** | ::{ flag=AU }:: **[KWYJIBO](https://osu.ppy.sh/users/7178386)** | [#1](https://osu.ppy.sh/community/matches/114753693) |
-| Upper | **[Shimoe Koharu](https://osu.ppy.sh/users/2145160)** ::{ flag=TW }:: | **5** | 4 | ::{ flag=TW }:: [Nazrin on osu](https://osu.ppy.sh/users/2512267) | [#1](https://osu.ppy.sh/community/matches/114756009) |
-| Upper | **[Minato Yukina](https://osu.ppy.sh/users/4133477)** ::{ flag=TW }:: | **5** | 2 | ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479) | [#1](https://osu.ppy.sh/community/matches/114754454) |
-| Upper | [littlepiggod](https://osu.ppy.sh/users/12331683) ::{ flag=HK }:: | 4 | **5** | ::{ flag=HK }:: **[my angel auto](https://osu.ppy.sh/users/29503627)** | [#1](https://osu.ppy.sh/community/matches/114756048) |
-| Upper | **[Chroneko](https://osu.ppy.sh/users/5472877)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=TW }:: [Psc\_IceRain](https://osu.ppy.sh/users/3359485) | [#1](https://osu.ppy.sh/community/matches/114756671) |
+| Upper | **::Nekuro::{ user-id=3222638 }** ::{ flag=ID }:: | **5** | 0 | ::{ flag=TW }:: ::\_Nanami::{ user-id=1929450 } | [#1](https://osu.ppy.sh/community/matches/114753974) |
+| Upper | **::Happiness Fish::{ user-id=4586766 }** ::{ flag=TW }:: | **5** | 0 | ::{ flag=TR }:: ::lorem ipsum::{ user-id=17130789 } | [#1](https://osu.ppy.sh/community/matches/114754879) |
+| Upper | ::EpanPan::{ user-id=13194580 } ::{ flag=ID }:: | 4 | **5** | ::{ flag=AU }:: **::KWYJIBO::{ user-id=7178386 }** | [#1](https://osu.ppy.sh/community/matches/114753693) |
+| Upper | **::Shimoe Koharu::{ user-id=2145160 }** ::{ flag=TW }:: | **5** | 4 | ::{ flag=TW }:: ::Nazrin on osu::{ user-id=2512267 } | [#1](https://osu.ppy.sh/community/matches/114756009) |
+| Upper | **::Minato Yukina::{ user-id=4133477 }** ::{ flag=TW }:: | **5** | 2 | ::{ flag=RU }:: ::Rakety::{ user-id=11109479 } | [#1](https://osu.ppy.sh/community/matches/114754454) |
+| Upper | ::littlepiggod::{ user-id=12331683 } ::{ flag=HK }:: | 4 | **5** | ::{ flag=HK }:: **::my angel auto::{ user-id=29503627 }** | [#1](https://osu.ppy.sh/community/matches/114756048) |
+| Upper | **::Chroneko::{ user-id=5472877 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=TW }:: ::Psc\_IceRain::{ user-id=3359485 } | [#1](https://osu.ppy.sh/community/matches/114756671) |
 
 Monday, 22 July 2024:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Azuria](https://osu.ppy.sh/users/16102533) ::{ flag=TH }:: | 4 | **5** | ::{ flag=ID }:: **[Serestia](https://osu.ppy.sh/users/30511396)** | [#1](https://osu.ppy.sh/community/matches/114767931) |
+| Upper | ::Azuria::{ user-id=16102533 } ::{ flag=TH }:: | 4 | **5** | ::{ flag=ID }:: **::Serestia::{ user-id=30511396 }** | [#1](https://osu.ppy.sh/community/matches/114767931) |
 
 ## Ruleset
 

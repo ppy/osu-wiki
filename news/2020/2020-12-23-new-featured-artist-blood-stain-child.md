@@ -13,7 +13,7 @@ It's hard to believe mixing electro trance music with melodic death metal is eve
 
 We've managed to grasp **13** tracks from their *Epsilon* album, including the ever-popular song *MOON LIGHT WAVE*. Switching between male, female, screamed, and traditional vocals, we're confident at least one of these tracks will suit your fancy.
 
-Some osu! players may already be familiar with **BLOOD STAIN CHILD** thanks to [Snepif](https://osu.ppy.sh/users/408088)'s mapset of [MOON LIGHT WAVE](https://osu.ppy.sh/beatmapsets/296543). Well, at least [chaotic_turtle](https://osu.ppy.sh/users/5563397) is familiar, as seen on his stream the other day:
+Some osu! players may already be familiar with **BLOOD STAIN CHILD** thanks to ::Snepif::{ user-id=408088 }'s mapset of [MOON LIGHT WAVE](https://osu.ppy.sh/beatmapsets/296543). Well, at least ::chaotic\1turtle::{ user-id=5563397 } is familiar, as seen on his stream the other day:
 
 <div align="center">
     <video width="95%" controls>

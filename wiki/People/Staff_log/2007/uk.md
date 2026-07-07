@@ -2,16 +2,16 @@
 
 *Примітка: Історія деяких користувачів може бути неповною протягом цього року. "Модератори" пізніше були перейменовані в "Beatmap Approval Team".*
 
-- [phill](https://osu.ppy.sh/users/53) додали до модераторів
-- [eyup](https://osu.ppy.sh/users/88) додали до модераторів
-- [Kylecito](https://osu.ppy.sh/users/488) додали до модераторів
-- [Loginer](https://osu.ppy.sh/users/819) додали до модераторів
-- [Extor](https://osu.ppy.sh/users/555) додали до модераторів
-- [awp](https://osu.ppy.sh/users/2650) додали до модераторів
-- [Echo](https://osu.ppy.sh/users/431) додали до модераторів
-- [Ivalset](https://osu.ppy.sh/users/827) додали до модераторів
-- [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) додали до модераторів
-- [Cecilthemos](https://osu.ppy.sh/users/2233) додали до модераторів
-- [Kharl](https://osu.ppy.sh/users/452) додали до модераторів
-- [EiJi](https://osu.ppy.sh/users/2024) додали до модераторів
-- [MaxwellDemon](https://osu.ppy.sh/users/4254) додали до модераторів
+- ::phill::{ user-id=53 } додали до модераторів
+- ::eyup::{ user-id=88 } додали до модераторів
+- ::Kylecito::{ user-id=488 } додали до модераторів
+- ::Loginer::{ user-id=819 } додали до модераторів
+- ::Extor::{ user-id=555 } додали до модераторів
+- ::awp::{ user-id=2650 } додали до модераторів
+- ::Echo::{ user-id=431 } додали до модераторів
+- ::Ivalset::{ user-id=827 } додали до модераторів
+- ::Hitoshirenu Shourai::{ user-id=602 } додали до модераторів
+- ::Cecilthemos::{ user-id=2233 } додали до модераторів
+- ::Kharl::{ user-id=452 } додали до модераторів
+- ::EiJi::{ user-id=2024 } додали до модераторів
+- ::MaxwellDemon::{ user-id=4254 } додали до модераторів

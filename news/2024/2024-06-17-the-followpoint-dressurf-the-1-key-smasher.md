@@ -5,7 +5,7 @@ date: 2024-06-17 17:00:00 +0000
 series: followpoint
 ---
 
-The last in a series of top player interviews features [dressurf](https://osu.ppy.sh/users/758406), osu!mania's #1 keyboard smasher!
+The last in a series of top player interviews features ::dressurf::{ user-id=758406 }, osu!mania's #1 keyboard smasher!
 
 ![](/wiki/shared/news/2024-06-17-the-followpoint-dressurf-the-1-key-smasher/banner.jpg)
 
@@ -73,7 +73,7 @@ For now though, the only natural way to proceed is to interview osu!mania's rank
 
 *Who would you say are the best osu!mania player(s) at the moment that aren't you, and why?*
 
-> I think the term "best" is very subjective, if I see "best" in terms of inspiring and drawing players into the osu!mania scene, I must say [jhlee0133](https://osu.ppy.sh/users/140148) for 7K genre, [SillyFangirl](https://osu.ppy.sh/users/2288363) for 4K genre.
+> I think the term "best" is very subjective, if I see "best" in terms of inspiring and drawing players into the osu!mania scene, I must say ::jhlee0133::{ user-id=140148 } for 7K genre, ::SillyFangirl::{ user-id=2288363 } for 4K genre.
 
 *Is there any advice that you would give to people who are just starting out, or are wanting to improve to one day be like you?*
 
@@ -103,7 +103,7 @@ For now though, the only natural way to proceed is to interview osu!mania's rank
 
 ---
 
-Huge thanks to [dressurf](https://osu.ppy.sh/users/758406) for joining us and answering these questions! Once again, I hope you as a reader enjoyed this interview. <3
+Huge thanks to ::dressurf::{ user-id=758406 } for joining us and answering these questions! Once again, I hope you as a reader enjoyed this interview. <3
 
 We hope you enjoyed this series of us interviewing the top players in each game mode, it was a lot of fun for us, and we can't thank you enough for the support! We will have another interview come out in the next two weeks, but we will keep it a surprise on who it is, so you'll just have to guess. You can also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) for updates and question submissions for future interviews.
 

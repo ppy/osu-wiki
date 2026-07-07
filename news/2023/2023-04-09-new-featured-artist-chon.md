@@ -23,7 +23,7 @@ See what's in store below, including [a new way to share your Featured Artist ma
 
 ### CHON - Dew
 
-Try [the map that debuted **CHON** as a Featured Artist](https://osu.ppy.sh/beatmapsets/1972526#taiko/4093096) in [TWC 2023](/wiki/Tournaments/TWC/2023) hosted by [Jaye](https://osu.ppy.sh/users/4841352)!
+Try [the map that debuted **CHON** as a Featured Artist](https://osu.ppy.sh/beatmapsets/1972526#taiko/4093096) in [TWC 2023](/wiki/Tournaments/TWC/2023) hosted by ::Jaye::{ user-id=4841352 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/354/Newborn%20Sun%2FCHON%20-%20Dew.mp3">
@@ -31,7 +31,7 @@ Try [the map that debuted **CHON** as a Featured Artist](https://osu.ppy.sh/beat
 
 ### CHON - Sleepy Tea
 
-Play [this map](https://osu.ppy.sh/beatmapsets/959788) from [OWC 2019](/wiki/Tournaments/OWC/2019) hosted by [piroshki](https://osu.ppy.sh/users/7645522)!
+Play [this map](https://osu.ppy.sh/beatmapsets/959788) from [OWC 2019](/wiki/Tournaments/OWC/2019) hosted by ::piroshki::{ user-id=7645522 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/354/Homey/CHON%20-%20Sleepy%20Tea.mp3">
@@ -39,7 +39,7 @@ Play [this map](https://osu.ppy.sh/beatmapsets/959788) from [OWC 2019](/wiki/Tou
 
 ### CHON - Splash
 
-Or check out [this massive difficulty spread](https://osu.ppy.sh/beatmapsets/1570536) hosted by [mezelyus](https://osu.ppy.sh/users/5938859)!
+Or check out [this massive difficulty spread](https://osu.ppy.sh/beatmapsets/1570536) hosted by ::mezelyus::{ user-id=5938859 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/354/Grow%2FCHON%20-%20Splash.mp3">

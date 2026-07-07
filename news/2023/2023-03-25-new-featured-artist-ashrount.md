@@ -25,7 +25,7 @@ Check everything out for yourself:
 
 ### Maverick - opaque
 
-Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1955283) hosted by [Niva](https://osu.ppy.sh/users/197805)!
+Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1955283) hosted by ::Niva::{ user-id=197805 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/352/Songs/Maverick%20-%20opaque.mp3">
@@ -33,7 +33,7 @@ Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1955283) h
 
 ### Ashrount - Cataraxir
 
-Anyone who followed [Corsace Open 2020](https://osu.ppy.sh/community/forums/topics/1117976) would recognise [this map](https://osu.ppy.sh/beatmapsets/1276331) created by [Realazy](https://osu.ppy.sh/users/918297)!
+Anyone who followed [Corsace Open 2020](https://osu.ppy.sh/community/forums/topics/1117976) would recognise [this map](https://osu.ppy.sh/beatmapsets/1276331) created by ::Realazy::{ user-id=918297 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/352/Songs/Ashrount%20-%20Cataraxir.mp3">
@@ -41,7 +41,7 @@ Anyone who followed [Corsace Open 2020](https://osu.ppy.sh/community/forums/topi
 
 ### Ashrount - Bleary Vagary
 
-...or potentially [this map](https://osu.ppy.sh/beatmapsets/1296231) created by [NyarkoO](https://osu.ppy.sh/users/6622567)! If catching fruit is more your thing, perhaps [this osu!catch set](https://osu.ppy.sh/beatmapsets/1958376) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134) might do the trick.
+...or potentially [this map](https://osu.ppy.sh/beatmapsets/1296231) created by ::NyarkoO::{ user-id=6622567 }! If catching fruit is more your thing, perhaps [this osu!catch set](https://osu.ppy.sh/beatmapsets/1958376) hosted by ::Jemzuu::{ user-id=7890134 } might do the trick.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/352/Songs/Ashrount%20-%20Bleary%20Vagary.mp3">
@@ -49,7 +49,7 @@ Anyone who followed [Corsace Open 2020](https://osu.ppy.sh/community/forums/topi
 
 ### Maverick - Shironaga Star Jet -aquamarine mix-
 
-If you're into osu!, osu!taiko, 4K osu!mania, or 7K osu!mania, [this map](https://osu.ppy.sh/beatmapsets/1012634) hosted by [\_Kobii](https://osu.ppy.sh/users/6209713) is for you. Sorry, osu!catch players.
+If you're into osu!, osu!taiko, 4K osu!mania, or 7K osu!mania, [this map](https://osu.ppy.sh/beatmapsets/1012634) hosted by ::\_Kobii::{ user-id=6209713 } is for you. Sorry, osu!catch players.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/352/Songs/Maverick%20-%20Shironaga%20Star%20Jet%20-aquamarine%20mix-.mp3">
@@ -57,7 +57,7 @@ If you're into osu!, osu!taiko, 4K osu!mania, or 7K osu!mania, [this map](https:
 
 ### Xect. - Emptiness
 
-Explore [this map](https://osu.ppy.sh/beatmapsets/1210804) hosted by [cotton\_\_123](https://osu.ppy.sh/users/9823042) and highlighting entries from [Just Another Beatmapping Contest #4](https://osu.ppy.sh/community/forums/topics/724516)!
+Explore [this map](https://osu.ppy.sh/beatmapsets/1210804) hosted by ::cotton\_\_123::{ user-id=9823042 } and highlighting entries from [Just Another Beatmapping Contest #4](https://osu.ppy.sh/community/forums/topics/724516)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/352/Songs/Xect.%20-%20Emptiness.mp3">
@@ -79,7 +79,7 @@ That library will continue to grow of course, but going forward we'll be taking 
 
 *Experimentation* is how we're going to start this all off, particularly by pairing new releases with similarly new and exciting projects and events, such as beatmapping contests, streams and more.
 
-So to really get things started, next week's Featured Artist announcement will also have an accompanying livestream on the [osulive Twitch channel](https://www.twitch.tv/osulive) where [pishifat](https://osu.ppy.sh/users/3178418) (a.k.a. the dude writing this) creates a beatmap from start to finish using the new artist's music. If you make a map too, it'll be reviewed on the stream as well!
+So to really get things started, next week's Featured Artist announcement will also have an accompanying livestream on the [osulive Twitch channel](https://www.twitch.tv/osulive) where ::pishifat::{ user-id=3178418 } (a.k.a. the dude writing this) creates a beatmap from start to finish using the new artist's music. If you make a map too, it'll be reviewed on the stream as well!
 
 ...and that's all for now! To hear about what we'll be doing for releases *after that*, stay tuned. :)
 

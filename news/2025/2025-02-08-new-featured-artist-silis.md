@@ -19,7 +19,7 @@ See what's in store for yourself:
 
 ### [takehirotei & SiLiS - WATAGASHI RUSH](https://assets.ppy.sh/artists/434/Songs/takehirotei__SiLiS_-_WATAGASHI_RUSH.osz)
 
-Attendees at [KEL LAN Tournament 3](https://osu.ppy.sh/home/news/2024-11-18-kel-lan-tournament-3-signups-now-open) were the first to learn that **SiLiS** was a Featured Artist! [WATAGASHI RUSH](https://osu.ppy.sh/beatmapsets/2320691) was mapped by [netnesanya](https://osu.ppy.sh/users/6017901) and [Kyairie](https://osu.ppy.sh/users/10910405) specifically for the tournament:
+Attendees at [KEL LAN Tournament 3](https://osu.ppy.sh/home/news/2024-11-18-kel-lan-tournament-3-signups-now-open) were the first to learn that **SiLiS** was a Featured Artist! [WATAGASHI RUSH](https://osu.ppy.sh/beatmapsets/2320691) was mapped by ::netnesanya::{ user-id=6017901 } and [Kyairie](https://osu.ppy.sh/users/10910405) specifically for the tournament:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -29,7 +29,7 @@ Attendees at [KEL LAN Tournament 3](https://osu.ppy.sh/home/news/2024-11-18-kel-
 
 ### [SiLiS - GAME MAKE OVER](https://assets.ppy.sh/artists/434/Songs/SiLiS_-_GAME_MAKE_OVER.osz)
 
-If 4K osu!mania is your thing, try [this map](https://osu.ppy.sh/beatmapsets/2123356) from [4 Digit osu!mania World Cup 2024](/wiki/Tournaments/4DM/2024) mapped by [Saemitsu](https://osu.ppy.sh/users/14262789) and [RuleBlazing](https://osu.ppy.sh/users/7312402)!
+If 4K osu!mania is your thing, try [this map](https://osu.ppy.sh/beatmapsets/2123356) from [4 Digit osu!mania World Cup 2024](/wiki/Tournaments/4DM/2024) mapped by ::Saemitsu::{ user-id=14262789 } and [RuleBlazing](https://osu.ppy.sh/users/7312402)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/434/Songs/SiLiS_-_GAME_MAKE_OVER.mp3">
@@ -37,7 +37,7 @@ If 4K osu!mania is your thing, try [this map](https://osu.ppy.sh/beatmapsets/212
 
 ### [sugosugiii, SiLiS - Reminiscing Onward](https://assets.ppy.sh/artists/434/Songs/sugosugiii_SiLiS_-_Reminiscing_Onward.osz)
 
-Or bash some drums to [this map](https://osu.ppy.sh/beatmapsets/2241960) by [Slyme](https://osu.ppy.sh/users/11695793)!
+Or bash some drums to [this map](https://osu.ppy.sh/beatmapsets/2241960) by ::Slyme::{ user-id=11695793 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/434/Songs/sugosugiii_SiLiS_-_Reminiscing_Onward.mp3">
@@ -45,7 +45,7 @@ Or bash some drums to [this map](https://osu.ppy.sh/beatmapsets/2241960) by [Sly
 
 ### [takehirotei & SiLiS - Isekai Magistrate](https://assets.ppy.sh/artists/434/Songs/takehirotei__SiLiS_-_Isekai_Magistrate.osz)
 
-Cool off with [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2262171) hosted by [iRedi](https://osu.ppy.sh/users/8005579)!
+Cool off with [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2262171) hosted by ::iRedi::{ user-id=8005579 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/434/Songs/takehirotei__SiLiS_-_Isekai_Magistrate.mp3">
@@ -53,7 +53,7 @@ Cool off with [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2262171) hoste
 
 ### [SiLiS - Hebe](https://assets.ppy.sh/artists/434/Songs/SiLiS%20-%20Hebe.osz)
 
-Finish up with [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2234586) from [last year's 4KMWC](/wiki/Tournaments/MWC/2024_4K) mapped by [RuleBlazing](https://osu.ppy.sh/users/7312402)!
+Finish up with [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2234586) from [last year's 4KMWC](/wiki/Tournaments/MWC/2024_4K) mapped by ::RuleBlazing::{ user-id=7312402 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/434/Songs/SiLiS%20-%20Hebe.mp3">

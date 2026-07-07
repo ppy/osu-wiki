@@ -13,7 +13,7 @@ Netherlands-based duo **T & Sugah** might be a familiar name to those who've bee
 
 **12** striking drum & bass tracks are ready for a trip to the editor from [**T & Sugah**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/188), including a whole bunch of their well-known *Liquicity* songs.
 
-What could be a better way to experience **T & Sugah**'s sound than a quad-map exhibit? Drum & bass fanatics [Strategas](https://osu.ppy.sh/users/2971837) and [Zer0-](https://osu.ppy.sh/users/4260033) have been hard at work creating some [showcase maps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) specifically for this announcement, so give them a kudosu or two for their efforts.
+What could be a better way to experience **T & Sugah**'s sound than a quad-map exhibit? Drum & bass fanatics ::Strategas::{ user-id=2971837 } and [Zer0-](https://osu.ppy.sh/users/4260033) have been hard at work creating some [showcase maps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) specifically for this announcement, so give them a kudosu or two for their efforts.
 
 Check everything out for yourself:
 
@@ -25,7 +25,7 @@ Check everything out for yourself:
 
 ### T & Sugah - Days Away (feat. Voicians)
 
-Experience [this full-length osu! map](https://osu.ppy.sh/beatmapsets/1519300) hosted by [Zer0-](https://osu.ppy.sh/users/4260033)!
+Experience [this full-length osu! map](https://osu.ppy.sh/beatmapsets/1519300) hosted by ::Zer0-::{ user-id=4260033 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/188/Days%20Away/T%20%26%20Sugah%20-%20Days%20Away%20%28feat.%20Voicians%29.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Experience [this full-length osu! map](https://osu.ppy.sh/beatmapsets/1519300) h
 
 ### T & Sugah x Zazu - Lost On My Own
 
-Or check out [this osu! map](https://osu.ppy.sh/beatmapsets/1511518) hosted by [Strategas](https://osu.ppy.sh/users/2971837)!
+Or check out [this osu! map](https://osu.ppy.sh/beatmapsets/1511518) hosted by ::Strategas::{ user-id=2971837 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/188/Lost%20On%20My%20Own/T%20%26%20Sugah%20x%20Zazu%20-%20Lost%20On%20My%20Own.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Or check out [this osu! map](https://osu.ppy.sh/beatmapsets/1511518) hosted by [
 
 ### T & Sugah - Wicked Days
 
-Enjoy [this osu! map](https://osu.ppy.sh/beatmapsets/1496811) also hosted by [Strategas](https://osu.ppy.sh/users/2971837)!
+Enjoy [this osu! map](https://osu.ppy.sh/beatmapsets/1496811) also hosted by ::Strategas::{ user-id=2971837 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/188/Wicked%20Days%20EP/T%20%26%20Sugah%20-%20Wicked%20Days.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Enjoy [this osu! map](https://osu.ppy.sh/beatmapsets/1496811) also hosted by [St
 
 ### T & Sugah x Lexurus - No More
 
-And finish things off with [this classic OWC 2016 map](https://osu.ppy.sh/beatmapsets/471562) *also* hosted by [Strategas](https://osu.ppy.sh/users/2971837)!
+And finish things off with [this classic OWC 2016 map](https://osu.ppy.sh/beatmapsets/471562) *also* hosted by ::Strategas::{ user-id=2971837 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/188/High%20Tea%20Music%20Vol.%201/T%20%26%20SugahLexurus%20-%20No%20More.mp3" type="audio/mpeg">

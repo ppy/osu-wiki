@@ -17,7 +17,7 @@ We don't have a video paired with this release, so you better check out every so
 
 ### Sports
 
-Try playing [the first ranked **Beach Bunny** map](https://osu.ppy.sh/beatmapsets/1468480) hosted by [Shime](https://osu.ppy.sh/users/11558207)!
+Try playing [the first ranked **Beach Bunny** map](https://osu.ppy.sh/beatmapsets/1468480) hosted by ::Shime::{ user-id=11558207 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/277/Sports/Beach%20Bunny%20-%20Sports.mp3" type="audio/mpeg">

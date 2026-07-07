@@ -9,7 +9,7 @@ We're proud to welcome **Rusty K** aboard as our newest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/87/header.jpg)
 
-Spinning electronic music marvels since 2012, [**Rusty K**](https://osu.ppy.sh/beatmaps/artists/87) is a Russian producer most well known in osu! from [Mir](https://osu.ppy.sh/users/8688812) and [C00L](https://osu.ppy.sh/users/4930630)'s vanguard maps set to *All That We Lost*, *Dark Eyes* and *Last Of Us* back in 2017 focusing on the exploration of a then-emerging subgenre of 'technical' mapping.
+Spinning electronic music marvels since 2012, [**Rusty K**](https://osu.ppy.sh/beatmaps/artists/87) is a Russian producer most well known in osu! from ::Mir::{ user-id=8688812 } and [C00L](https://osu.ppy.sh/users/4930630)'s vanguard maps set to *All That We Lost*, *Dark Eyes* and *Last Of Us* back in 2017 focusing on the exploration of a then-emerging subgenre of 'technical' mapping.
 
 We're super excited to unveil a selection of **14** tracks, including the timeless classics listed above. We're hoping that this new collection inspires more mappers to pick up the torch and continue experimenting with style and sound.
 
@@ -17,7 +17,7 @@ Don't just take our word for it though, give these previews a listen and see for
 
 ### All That We Lost
 
-Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/655248) from [Mir](https://osu.ppy.sh/users/8688812)!
+Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/655248) from ::Mir::{ user-id=8688812 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/87/previews/2337.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/655248) from [M
 
 ### Dark Eyes
 
-Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/652397) from [Mir](https://osu.ppy.sh/users/8688812)!
+Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/652397) from ::Mir::{ user-id=8688812 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/87/previews/2338.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/652397) from [M
 
 ### Last Of Us
 
-Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/669153) from [C00L](https://osu.ppy.sh/users/4930630)!
+Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/669153) from ::C00L::{ user-id=4930630 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/87/previews/2341.mp3" type="audio/mpeg">

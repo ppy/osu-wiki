@@ -15,7 +15,7 @@ And given how many awesome beatmaps exist for **HoneyComeBear**'s music already,
 
 **7** of these emotive tunes (in pre-packaged beatmap templates) can be found on [**HoneyComeBear**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/319)!
 
-The best way to understand **HoneyComeBear**'s musical mastery is to hear it for yourself. Start by watching this video of [Andrea](https://osu.ppy.sh/users/33599)'s beatmap of [SpaceJellyfish](https://osu.ppy.sh/beatmapsets/811659) showcasing osu!'s different score algorithms, then explore the rest of these maps and previews:
+The best way to understand **HoneyComeBear**'s musical mastery is to hear it for yourself. Start by watching this video of ::Andrea::{ user-id=33599 }'s beatmap of [SpaceJellyfish](https://osu.ppy.sh/beatmapsets/811659) showcasing osu!'s different score algorithms, then explore the rest of these maps and previews:
 
 <div align="center">
     <video width="100%" controls>
@@ -25,7 +25,7 @@ The best way to understand **HoneyComeBear**'s musical mastery is to hear it for
 
 ### HoneyComeBear - SpaceJellyfish
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/811659) hosted by [Andrea](https://osu.ppy.sh/users/33599)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/811659) hosted by ::Andrea::{ user-id=33599 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/319/Songs/HoneyComeBear%20-%20SpaceJellyfish.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/811659) 
 
 ### HoneyComeBear - Mirror
 
-Or play through [this difficulty spread](https://osu.ppy.sh/beatmapsets/814535) hosted by [Foxy Grandpa](https://osu.ppy.sh/users/5580983)!
+Or play through [this difficulty spread](https://osu.ppy.sh/beatmapsets/814535) hosted by ::Foxy Grandpa::{ user-id=5580983 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/319/Songs/HoneyComeBear%20-%20Mirror.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Or play through [this difficulty spread](https://osu.ppy.sh/beatmapsets/814535) 
 
 ### HoneyComeBear - Dear
 
-Or maybe [this map](https://osu.ppy.sh/beatmapsets/806020) by [Mentai](https://osu.ppy.sh/users/8554786) is what you've been looking for.
+Or maybe [this map](https://osu.ppy.sh/beatmapsets/806020) by ::Mentai::{ user-id=8554786 } is what you've been looking for.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/319/Songs/HoneyComeBear%20-%20Dear.mp3" type="audio/mpeg">

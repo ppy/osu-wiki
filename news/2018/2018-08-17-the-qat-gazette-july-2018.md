@@ -11,7 +11,7 @@ Beatmap Nominator Evaluations, another upcoming public QAT meeting, and huge Ran
 
 ## Opening
 
-by [JBHyperion](https://osu.ppy.sh/users/4879508)
+by ::JBHyperion::{ user-id=4879508 }
 
 We're quite used to “busy months” here, as any regular readers will be aware, but as far as major, meta-redefining changes go, July might have been our biggest and busiest in quite some time!
 
@@ -35,7 +35,7 @@ As a result of the Beatmap Nominator Re-Evaluations, 49/95 Nominators were retai
 
 Whilst our existing Beatmap Nominators were being reviewed, we were pleased to present a wave of some new and returning circle inspectors to the team. Please offer a warm welcome and congratulations to the following on their admission into the Beatmap Nominators:
 
-[BOUYAAA](https://osu.ppy.sh/users/405449), [Cris-](https://osu.ppy.sh/users/6175280), [frogyfro](https://osu.ppy.sh/users/7010859), [Gottagof4st](https://osu.ppy.sh/users/6122935), [IceKalt](https://osu.ppy.sh/users/5410645), [MrSergio](https://osu.ppy.sh/users/2581696), [pimpG](https://osu.ppy.sh/users/328615), [riffy](https://osu.ppy.sh/users/597957), [Rizen](https://osu.ppy.sh/users/3056732), [Seto Kousuke](https://osu.ppy.sh/users/2857314), [UndeadCapulet](https://osu.ppy.sh/users/2523533), [Yauxo](https://osu.ppy.sh/users/898306) and [Yugu](https://osu.ppy.sh/users/3161834)!
+::BOUYAAA::{ user-id=405449 }, [Cris-](https://osu.ppy.sh/users/6175280), ::frogyfro::{ user-id=7010859 }, [Gottagof4st](https://osu.ppy.sh/users/6122935), ::IceKalt::{ user-id=5410645 }, [MrSergio](https://osu.ppy.sh/users/2581696), ::pimpG::{ user-id=328615 }, [riffy](https://osu.ppy.sh/users/597957), ::Rizen::{ user-id=3056732 }, [Seto Kousuke](https://osu.ppy.sh/users/2857314), ::UndeadCapulet::{ user-id=2523533 }, [Yauxo](https://osu.ppy.sh/users/898306) and ::Yugu::{ user-id=3161834 }!
 
 May their efforts bring you many Ranked-beatmap-sized bundles of happiness over the coming weeks, months, and maybe even years!
 
@@ -43,17 +43,17 @@ May their efforts bring you many Ranked-beatmap-sized bundles of happiness over 
 
 Where some may be taking their first steps as a Nominator, others seek new pastures, new challenges, or perhaps simply a well-deserved rest. We thank the following departees for their tireless efforts and enduring vision:
 
-[Arzenvald](https://osu.ppy.sh/users/3027421), [incandescence](https://osu.ppy.sh/users/6256027), [Delis](https://osu.ppy.sh/users/1603923) and [Sorcerer](https://osu.ppy.sh/users/1913190).
+::Arzenvald::{ user-id=3027421 }, [incandescence](https://osu.ppy.sh/users/6256027), ::Delis::{ user-id=1603923 } and [Sorcerer](https://osu.ppy.sh/users/1913190).
 
 ## Within the Quality Assurance Team
 
-by [Raiden](https://osu.ppy.sh/users/2239480)
+by ::Raiden::{ user-id=2239480 }
 
 There have been numerous events that are of everyone's interest this month, which we’ll get into in a second — with regards to team structure, there were unfortunately no new additions to the Quality Assurance Team this month. Luckily no one has decided to leave us either though, which is always a positive!
 
 ### Changes to Beatmap Spread Rules
 
-Beatmap spread rules have been quite stagnant over the last couple of years, although that has now finally changed! After a proposal made by returning Beatmap Nominator [UndeadCapulet](https://osu.ppy.sh/users/2523533) and four entire months of discussion amongst various community members, a consensus was finally reached. Thus, the new spread rules (which you can learn more about below) were amended into the Ranking Criteria, overwriting the old ones that we used to have.
+Beatmap spread rules have been quite stagnant over the last couple of years, although that has now finally changed! After a proposal made by returning Beatmap Nominator ::UndeadCapulet::{ user-id=2523533 } and four entire months of discussion amongst various community members, a consensus was finally reached. Thus, the new spread rules (which you can learn more about below) were amended into the Ranking Criteria, overwriting the old ones that we used to have.
 
 Most notable changes are applied to the *lowest possible difficulty of a set*, which now depends on the beatmap set's total drain time:
 
@@ -73,7 +73,7 @@ A little more minor, but by no means less important, have been the addition of t
 - **Song compilations should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lackluster experience for players, and should be broken up into separate mapsets. Exceptions can be made for songs that were exclusively released together.
 - **Song compilations should be mixed properly and should not include abrupt breaks or long fades between different songs.** The songs used for the compilation should be similar in audio quality, volume and length. This is to ensure compilations achieve the same cohesive gameplay experience as other beatmaps.
 
-You can find more information on each of these changes, as well as previous and any future amendments, in the [Ranking Criteria Changelog](https://osu.ppy.sh/community/forums/topics/751351) maintained by [pishifat](https://osu.ppy.sh/users/3178418).
+You can find more information on each of these changes, as well as previous and any future amendments, in the [Ranking Criteria Changelog](https://osu.ppy.sh/community/forums/topics/751351) maintained by ::pishifat::{ user-id=3178418 }.
 
 ### Changes to Beatmap Veto Mediation
 
@@ -89,7 +89,7 @@ During this meeting, we will discuss the current state of hybrid (multiple game 
 
 ## Summary
 
-by [JBHyperion](https://osu.ppy.sh/users/4879508)
+by ::JBHyperion::{ user-id=4879508 }
 
 Hopefully you've found something to interest you in this month's mapping and modding news, but we must now turn our attention swiftly back to the present. There will always be more exciting times to come and we look forward to what the rest of the year may hold — even if for some it means the return to school and university. There's more to life than circles and sliders after all!
 

@@ -64,7 +64,7 @@ A huge feature of osu!(lazer) that's a complete game changer for people coming o
 
 Back in the ancient days of 2011, [osu!stream](/wiki/osu!stream) was released onto the [App Store](https://apps.apple.com/us/app/osu-stream/id436952197) on iOS, and it has been maintained up until 2020. For many years people have been asking for an Android release, but ever since the start peppy knew this would not be an enjoyable experience due to audio latency issues that were deemed inevitable at the time.
 
-Well... 12 years later and [ThePooN](https://osu.ppy.sh/users/718454) along with various open-source contributors finally made it happen! You can now [download osu!stream](https://play.google.com/store/apps/details?id=sh.ppy.osustream&pli=1) on your Android phone and enjoy unique beatmaps with mechanics only found on osu!stream (one example being the hold circle).
+Well... 12 years later and ::ThePooN::{ user-id=718454 } along with various open-source contributors finally made it happen! You can now [download osu!stream](https://play.google.com/store/apps/details?id=sh.ppy.osustream&pli=1) on your Android phone and enjoy unique beatmaps with mechanics only found on osu!stream (one example being the hold circle).
 
 A few years back, all song DLCs were made free, so everyone will get a chance to fully experience osu!stream without needing to shell out money for the later additions to the song pool. Have fun!
 
@@ -82,7 +82,7 @@ These have already closed as of February 2nd. Good luck to all applicants!
 
 It's surprising how much the tournament scene has evolved throughout the years in osu!mania. Even more so given how many people take it for granted. But after many years of unyielding dedication, we finally got to where we are!
 
-Having been active users in the osu!mania tournament scene, players [Polytetral](https://osu.ppy.sh/users/8612061), [HowToPlayLN](https://osu.ppy.sh/users/10879600), and [DannyPX](https://osu.ppy.sh/users/11253722) alongside other contributors have [briefly gone through its history in article form](https://github.com/4digitmwc/media-centre-articles/blob/main/opinions/week3.md).
+Having been active users in the osu!mania tournament scene, players ::Polytetral::{ user-id=8612061 }, [HowToPlayLN](https://osu.ppy.sh/users/10879600), and ::DannyPX::{ user-id=11253722 } alongside other contributors have [briefly gone through its history in article form](https://github.com/4digitmwc/media-centre-articles/blob/main/opinions/week3.md).
 
 For anyone interested on contributing to or reading their periodic articles, you can find them all in the [official 4 Digit MWC website](https://4digitmwc.github.io/media-centre/) or by scouring through their [GitHub repository](https://github.com/4digitmwc/media-centre-articles). Also, a good way to stay updated with their ongoing tournaments is through their [Twitch channel](https://www.twitch.tv/4digitmwc)!
 
@@ -90,15 +90,15 @@ For anyone interested on contributing to or reading their periodic articles, you
 
 ![](/wiki/shared/news/2023-02-10-osumonthly-7/bosphorus-banner.jpg)
 
-Hosted by [Zeus-](https://osu.ppy.sh/users/5464437) with the help and support of the [Boğaziçi University Gaming Club (BUOK)](https://buok.boun.edu.tr/), and sponsored by [Estanbul Esports and Gaming Center](https://www.estanbulgaming.com/?lang=en), [**Bosphorus Invitational**](https://osu.ppy.sh/community/forums/topics/1696844) is a 1v1 invite-only LAN tournament organised at Boğaziçi University South Campus, located right next to the Bosphorus Strait where the event derives its name from.
+Hosted by ::Zeus-::{ user-id=5464437 } with the help and support of the [Boğaziçi University Gaming Club (BUOK)](https://buok.boun.edu.tr/), and sponsored by [Estanbul Esports and Gaming Center](https://www.estanbulgaming.com/?lang=en), [**Bosphorus Invitational**](https://osu.ppy.sh/community/forums/topics/1696844) is a 1v1 invite-only LAN tournament organised at Boğaziçi University South Campus, located right next to the Bosphorus Strait where the event derives its name from.
 
 The tournament featured some of the best osu! players among Turkish rankings, who were invited to participate in a friendly 1v1 showdown throughout the day. Having taken place on 29th of January, the event featured approximately 70 attendees, all of whom hyped up to cheer for their favourite participant in the tournament and enjoy the engaging atmosphere.
 
-Congratulations to [Raikouhou](https://osu.ppy.sh/users/8007528) for winning the tournament, and thanks to the players for their participation! If you've missed out on the event, you may give the below video clip a glance to witness some of the fun moments recorded at the venue:
+Congratulations to ::Raikouhou::{ user-id=8007528 } for winning the tournament, and thanks to the players for their participation! If you've missed out on the event, you may give the below video clip a glance to witness some of the fun moments recorded at the venue:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Lunyl8O2ie8" frameborder="0" allowfullscreen></iframe>
 
-*Special thanks to [emptypudding](https://osu.ppy.sh/users/11003085) for the video clip.*
+*Special thanks to ::emptypudding::{ user-id=11003085 } for the video clip.*
 
 In case you wish to see how the matches went on, the livestream VOD can be found on the [BUOK Twitch channel](https://www.twitch.tv/videos/1722657266).
 
@@ -131,17 +131,17 @@ Finally, our biggest outlier is osu!mania with **4,622** difficulties ranked acr
 
 We really want to thank everyone who was involved in making content for the game. It keeps it alive and well! Even just a small grain of sand can build big sand castles, and we hope for the numbers shown to put that into perspective.
 
-Many thanks to [Ephemeral](https://osu.ppy.sh/users/102335) for giving us this data to work with. We hope that it is as interesting to us as it will be for you, the reader!
+Many thanks to ::Ephemeral::{ user-id=102335 } for giving us this data to work with. We hope that it is as interesting to us as it will be for you, the reader!
 
 ### osu! Rankdle
 
-Experience a unique project brought to you by [clxxiii](https://osu.ppy.sh/users/10962678)! [osu! Rankdle](https://rankdle.clxxiii.dev/), a spin-off of [Rankdle](https://rankdle.com/) will make you put your skills to the test and guess a player's rank based on their osu! gameplay. The site is currently in beta, and clxxiii is continuously improving it to provide the best experience. Be sure to check it out and see if you can rise to the challenge.
+Experience a unique project brought to you by ::clxxiii::{ user-id=10962678 }! [osu! Rankdle](https://rankdle.clxxiii.dev/), a spin-off of [Rankdle](https://rankdle.com/) will make you put your skills to the test and guess a player's rank based on their osu! gameplay. The site is currently in beta, and clxxiii is continuously improving it to provide the best experience. Be sure to check it out and see if you can rise to the challenge.
 
 ### Notable osu! plays of the month
 
-2023 started off with a bang, with [lifeline](https://osu.ppy.sh/users/11367222) being the first person to [HDDT FC](https://osu.ppy.sh/scores/osu/4356860873) the top difficulty of [Reol - No title](https://osu.ppy.sh/beatmapsets/320118#osu/714001), one of the most played maps ever. Next to that we have [mrekk](https://osu.ppy.sh/users/7562902)'s [2nd 3 mod FC](https://osu.ppy.sh/scores/osu/4357810044) on [KOTOKO - Wing my Way](https://osu.ppy.sh/beatmapsets/12035#osu/46827), which was previously FC'd only by Adamqs (one of the greatest 3-mod players of all time).
+2023 started off with a bang, with ::lifeline::{ user-id=11367222 } being the first person to [HDDT FC](https://osu.ppy.sh/scores/osu/4356860873) the top difficulty of [Reol - No title](https://osu.ppy.sh/beatmapsets/320118#osu/714001), one of the most played maps ever. Next to that we have ::mrekk::{ user-id=7562902 }'s [2nd 3 mod FC](https://osu.ppy.sh/scores/osu/4357810044) on [KOTOKO - Wing my Way](https://osu.ppy.sh/beatmapsets/12035#osu/46827), which was previously FC'd only by Adamqs (one of the greatest 3-mod players of all time).
 
-Alongside these two, we have a couple of more cool plays such as [MineFrostID](https://osu.ppy.sh/users/12159899/)'s [2nd HR FC](https://osu.ppy.sh/scores/osu/4368139903) on [Ekoro](https://osu.ppy.sh/users/284905)'s map of [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797), [xootynator](https://osu.ppy.sh/users/3717598)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4363537357) on [DragonForce - Inside the Winter Storm](https://osu.ppy.sh/beatmapsets/613814#osu/1294935) and [chocomint](https://osu.ppy.sh/users/124493)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4367683519) on [Roselia - Ringing Bloom](https://osu.ppy.sh/beatmapsets/1066605#osu/2233275).
+Alongside these two, we have a couple of more cool plays such as ::MineFrostID::{ user-id=12159899 }'s [2nd HR FC](https://osu.ppy.sh/scores/osu/4368139903) on ::Ekoro::{ user-id=284905 }'s map of [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797), ::xootynator::{ user-id=3717598 }'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4363537357) on [DragonForce - Inside the Winter Storm](https://osu.ppy.sh/beatmapsets/613814#osu/1294935) and ::chocomint::{ user-id=124493 }'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4367683519) on [Roselia - Ringing Bloom](https://osu.ppy.sh/beatmapsets/1066605#osu/2233275).
 
 Check out lifeline's play on *Reol - No title* below:
 
@@ -149,27 +149,27 @@ Check out lifeline's play on *Reol - No title* below:
 
 ### Notable osu!taiko plays of the month
 
-[shinchikuhome](https://osu.ppy.sh/users/3174184) strikes again! This time, being the first FC on a map considered by many to be one of the hardest maps currently Ranked. This map is Nepuri's set of [Kobaryo - New Game Plus](https://osu.ppy.sh/beatmapsets/797710#taiko/1675265), a 9* map that remained un-FC'd for nearly 4.5 years, until this month. Known for its near-impossible 400 BPM dense speed sections, it was recently FC'd by shinchikuhome with a solid 97.46% accuracy, earning them #1 on the map. If you haven't seen this play before, or want to rewatch it again, please check it out below!
+::shinchikuhome::{ user-id=3174184 } strikes again! This time, being the first FC on a map considered by many to be one of the hardest maps currently Ranked. This map is Nepuri's set of [Kobaryo - New Game Plus](https://osu.ppy.sh/beatmapsets/797710#taiko/1675265), a 9* map that remained un-FC'd for nearly 4.5 years, until this month. Known for its near-impossible 400 BPM dense speed sections, it was recently FC'd by shinchikuhome with a solid 97.46% accuracy, earning them #1 on the map. If you haven't seen this play before, or want to rewatch it again, please check it out below!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/AI1OZBOkxMM" frameborder="0" allowfullscreen></iframe>
 
-Another notable play worthy of mention this month is [Majimanjiwwwww](https://osu.ppy.sh/users/12337864/taiko)'s HDNC 1218 pp play on [Null Specification - Aletheia (fake lover, fake summer)](https://osu.ppy.sh/beatmapsets/1895850#taiko/3907074), earning themselves the pp record and #1 on the map! This map is notable for its 300 BPM streams, only made harder with Hidden and Nightcore, making it well deserving of the record. Feel free to check it out below!
+Another notable play worthy of mention this month is ::Majimanjiwwwww::{ user-id=12337864 }'s HDNC 1218 pp play on [Null Specification - Aletheia (fake lover, fake summer)](https://osu.ppy.sh/beatmapsets/1895850#taiko/3907074), earning themselves the pp record and #1 on the map! This map is notable for its 300 BPM streams, only made harder with Hidden and Nightcore, making it well deserving of the record. Feel free to check it out below!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/VbtrG3OCdsw" frameborder="0" allowfullscreen></iframe>
 
 ### Notable osu!catch plays of the month
 
-You might be surprised to see [Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo](https://osu.ppy.sh/beatmapsets/461744#fruits/1031991) in the osu!catch section, but believe it or not, this map has enjoyed great competition over the years, culminating on the play [ArMa79](https://osu.ppy.sh/users/4982799) set this January, marking the first-ever FC on this more than legendary map that's jam-packed with insane tech and precision patterns.
+You might be surprised to see [Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo](https://osu.ppy.sh/beatmapsets/461744#fruits/1031991) in the osu!catch section, but believe it or not, this map has enjoyed great competition over the years, culminating on the play ::ArMa79::{ user-id=4982799 } set this January, marking the first-ever FC on this more than legendary map that's jam-packed with insane tech and precision patterns.
 
-The incredible effort put out by ArMa79 to defeat one of the hardest convert maps in the game is truly admirable. However, this is not the only convert map this month, as we've seen a new DT PP record for this category of play. We are of course talking about [Aryssiel](https://osu.ppy.sh/users/2389481/fruits)'s 1-miss play on [AKB48 - Heavy Rotation](https://osu.ppy.sh/beatmapsets/1524839#fruits/3119805) with DT, tragically choking an even more impressive 860 pp play.
+The incredible effort put out by ArMa79 to defeat one of the hardest convert maps in the game is truly admirable. However, this is not the only convert map this month, as we've seen a new DT PP record for this category of play. We are of course talking about ::Aryssiel::{ user-id=2389481 }'s 1-miss play on [AKB48 - Heavy Rotation](https://osu.ppy.sh/beatmapsets/1524839#fruits/3119805) with DT, tragically choking an even more impressive 860 pp play.
 
-To put this into context, the [previous record](https://osu.ppy.sh/scores/fruits/207475584) held by [b-a-d-s123](https://osu.ppy.sh/users/3656717) on [Bliitzit - Team Magma & Aqua Leader Battle Theme (Unofficial)](https://osu.ppy.sh/beatmapsets/1002271#fruits/2097898) is only 724pp, we wish the best for Aryssiel if he ever tries to fix this choke.
+To put this into context, the [previous record](https://osu.ppy.sh/scores/fruits/207475584) held by ::b-a-d-s123::{ user-id=3656717 } on [Bliitzit - Team Magma & Aqua Leader Battle Theme (Unofficial)](https://osu.ppy.sh/beatmapsets/1002271#fruits/2097898) is only 724pp, we wish the best for Aryssiel if he ever tries to fix this choke.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/3gvbI7qierI" frameborder="0" allowfullscreen></iframe>
 
 ### Notable osu!mania plays of the month
 
-Unfortunately the monthly team did not see any mania plays worth mentioning this month, but if you believe this is incorrect feel free to reach out to us either via the osu!dev Discord server or reach out directly to [RandomeLoL](https://osu.ppy.sh/users/7080063) and [kadoen](https://osu.ppy.sh/users/12780575) who are in charge of this section.
+Unfortunately the monthly team did not see any mania plays worth mentioning this month, but if you believe this is incorrect feel free to reach out to us either via the osu!dev Discord server or reach out directly to ::RandomeLoL::{ user-id=7080063 } and [kadoen](https://osu.ppy.sh/users/12780575) who are in charge of this section.
 
 ## Mapping recap
 
@@ -185,19 +185,19 @@ By the way, even if we don't mention all the beatmaps that have been ranked this
 
 #### Leah Kate - Life Sux (Sped Up Ver.) - Community favourite
 
-After the great success of the Leah Kate maps [10 Things I Hate About You (Sped Up & Cut Ver.)](https://osu.ppy.sh/beatmapsets/1881428) and [Twinkle Twinkle (Sped Up & Cut Ver.)](https://osu.ppy.sh/beatmapsets/1901049) mapped by [Log Off Now](https://osu.ppy.sh/users/4378277), [Life Sux (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1905234) mapped by the same person was equally well received. Leah Kate is an artist who has not been seen much in the Ranked section so far and who was a real discovery, thanks to her catchy music and her beautiful voice. With beatmaps that are always pleasant to play no matter the situation, and new music, Log Off Now has definitely the winning wicket to please the players!
+After the great success of the Leah Kate maps [10 Things I Hate About You (Sped Up & Cut Ver.)](https://osu.ppy.sh/beatmapsets/1881428) and [Twinkle Twinkle (Sped Up & Cut Ver.)](https://osu.ppy.sh/beatmapsets/1901049) mapped by ::Log Off Now::{ user-id=4378277 }, [Life Sux (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1905234) mapped by the same person was equally well received. Leah Kate is an artist who has not been seen much in the Ranked section so far and who was a real discovery, thanks to her catchy music and her beautiful voice. With beatmaps that are always pleasant to play no matter the situation, and new music, Log Off Now has definitely the winning wicket to please the players!
 
 #### 15 Voices - Non-breath oblige mapped by Delis - Community favourite
 
-If you checked Twitter even once this month (or towards the end of December), you'll probably have seen clips of the best osu! players trying out this map to get the best plays. We're obviously talking about [Delis](https://osu.ppy.sh/users/1603923)' set on [Non-breath oblige](https://osu.ppy.sh/beatmapsets/1889729), which was more than well received as the mind-blowing number of favourites the set showed us — reaching almost 1,800 in a month thanks to the fact the mapset had a difficulty that was able to challenge all skill levels thanks to the multiple GDers in the set.
+If you checked Twitter even once this month (or towards the end of December), you'll probably have seen clips of the best osu! players trying out this map to get the best plays. We're obviously talking about ::Delis::{ user-id=1603923 }' set on [Non-breath oblige](https://osu.ppy.sh/beatmapsets/1889729), which was more than well received as the mind-blowing number of favourites the set showed us — reaching almost 1,800 in a month thanks to the fact the mapset had a difficulty that was able to challenge all skill levels thanks to the multiple GDers in the set.
 
 #### Pmarusama. - S'il vous President - osu!monthly Mapping Team's favorite
 
-Are you *-w-* or *-v-* ? If you haven't understood yet, we are obviously referring to [S'il vous President](https://osu.ppy.sh/beatmapsets/1763440) hosted by [TtmnZk](https://osu.ppy.sh/users/2495509) and more particularly its Extreme difficulty by [nika mika](https://osu.ppy.sh/users/3878832) with its more than amusing concepts on a lively song, with many patterns in the form of emojis and punctuation throughout. It's definitely a conceptual yet fun way to represent such a catchy tune, making for one of many reasons we appreciate the map and encourage you to go and have a look at it!
+Are you *-w-* or *-v-* ? If you haven't understood yet, we are obviously referring to [S'il vous President](https://osu.ppy.sh/beatmapsets/1763440) hosted by ::TtmnZk::{ user-id=2495509 } and more particularly its Extreme difficulty by ::nika mika::{ user-id=3878832 } with its more than amusing concepts on a lively song, with many patterns in the form of emojis and punctuation throughout. It's definitely a conceptual yet fun way to represent such a catchy tune, making for one of many reasons we appreciate the map and encourage you to go and have a look at it!
 
 #### HOYO-MiX - The Stellar Moments Vol. 2 - Bonus
 
-With such a huge and ambitious project, we could not have failed to mention it here. Compiling almost thirty minutes of tracks from Genshin Impact, [The Stellar Moments Vol. 2](https://osu.ppy.sh/beatmapsets/1702721), a sequel to the already very popular [The Stellar Moments](https://osu.ppy.sh/beatmapsets/1588624) mapped by [Shurelia](https://osu.ppy.sh/users/3807986) and with participation from ~20 mappers, it's a real masterpiece. Linking two very popular games with excellent craftmanship and originality, whether it be through the amazing mapping, the perfect hitsounds, or the not too intrusive storyboard, this map guides the player through a stellar experience. We really invite you to go and try it out!
+With such a huge and ambitious project, we could not have failed to mention it here. Compiling almost thirty minutes of tracks from Genshin Impact, [The Stellar Moments Vol. 2](https://osu.ppy.sh/beatmapsets/1702721), a sequel to the already very popular [The Stellar Moments](https://osu.ppy.sh/beatmapsets/1588624) mapped by ::Shurelia::{ user-id=3807986 } and with participation from ~20 mappers, it's a real masterpiece. Linking two very popular games with excellent craftmanship and originality, whether it be through the amazing mapping, the perfect hitsounds, or the not too intrusive storyboard, this map guides the player through a stellar experience. We really invite you to go and try it out!
 
 ### Mapper highlight
 
@@ -209,11 +209,11 @@ Obviously, behind each beatmap and difficulty on osu! is a mapper and hours of w
 
 #### chaser01 - Rising Stars
 
-Quite active in the Ranked section since the beginning of 2022, [chaser01](https://osu.ppy.sh/users/18730172) is now starting to accumulate a large portfolio. With a total of 13 beatmaps, 2 of which were ranked this month, he often changes up his style. For example, there are beatmaps of his that can be visually rather classical like [Kaori Oda - Sekai no Hate de](https://osu.ppy.sh/beatmapsets/1829057), or more conceptual like [Tyler, The Creator - I Ain't Got Time!](https://osu.ppy.sh/beatmapsets/1844850#osu/3789610), but they always represent the song so well making them all enjoyable to play. This is definitely a promising mapper that we should continue to see progress in the future with many beatmaps ranked to come!
+Quite active in the Ranked section since the beginning of 2022, ::chaser01::{ user-id=18730172 } is now starting to accumulate a large portfolio. With a total of 13 beatmaps, 2 of which were ranked this month, he often changes up his style. For example, there are beatmaps of his that can be visually rather classical like [Kaori Oda - Sekai no Hate de](https://osu.ppy.sh/beatmapsets/1829057), or more conceptual like [Tyler, The Creator - I Ain't Got Time!](https://osu.ppy.sh/beatmapsets/1844850#osu/3789610), but they always represent the song so well making them all enjoyable to play. This is definitely a promising mapper that we should continue to see progress in the future with many beatmaps ranked to come!
 
 #### KennethBBG - Rising Stars
 
-Here is a person who is really on the rise. Until the end of 2022, [KennethBBG](https://osu.ppy.sh/users/13032817) was still part of the big family of mappers with about five Ranked maps, but since this January, he hasn't stopped for a second and has ranked about 6 more maps! That's an astronomical amount that surely required a lot of effort, but it made him jump straight into the big league with rhythmic and Japanese music like [Akizuki Kanna (CV: McLaren) - Only you! (Short Ver.)](https://osu.ppy.sh/beatmapsets/1853621). We hope that he will continue like this and that other people as motivated as him will do the same in the coming months!
+Here is a person who is really on the rise. Until the end of 2022, ::KennethBBG::{ user-id=13032817 } was still part of the big family of mappers with about five Ranked maps, but since this January, he hasn't stopped for a second and has ranked about 6 more maps! That's an astronomical amount that surely required a lot of effort, but it made him jump straight into the big league with rhythmic and Japanese music like [Akizuki Kanna (CV: McLaren) - Only you! (Short Ver.)](https://osu.ppy.sh/beatmapsets/1853621). We hope that he will continue like this and that other people as motivated as him will do the same in the coming months!
 
 ### Mapping around the community
 
@@ -221,15 +221,15 @@ Numerous projects, small or large, managed independently or by large teams, and 
 
 #### A Year In Mapping 2022
 
-At the beginning of the year, this small project made by [YamYA](https://osu.ppy.sh/users/4470854) was much talked about because it presents a very visual way of viewing the data of maps ranked throughout 2022. In this way, [A Year In Mapping 2022](https://lookerstudio.google.com/u/0/reporting/394c39bb-6630-4ff7-9794-6ae73b2e7d95/page/hj1uB) using the [Looker Studio](https://lookerstudio.google.com/) tool has made it possible to enable filters to display statistics only for certain countries or modes, allowing mappers to see where they stand in relation to others. If you haven't had a chance to take a look yet, don't hesitate!
+At the beginning of the year, this small project made by ::YamYA::{ user-id=4470854 } was much talked about because it presents a very visual way of viewing the data of maps ranked throughout 2022. In this way, [A Year In Mapping 2022](https://lookerstudio.google.com/u/0/reporting/394c39bb-6630-4ff7-9794-6ae73b2e7d95/page/hj1uB) using the [Looker Studio](https://lookerstudio.google.com/) tool has made it possible to enable filters to display statistics only for certain countries or modes, allowing mappers to see where they stand in relation to others. If you haven't had a chance to take a look yet, don't hesitate!
 
 #### The Mappers Table
 
-[The Mappers Table Podcast](https://www.youtube.com/@themapperstablepodcast) is a group of mappers now consisting of [hanabyte](https://osu.ppy.sh/users/8617799), [CallieCube](https://osu.ppy.sh/users/7535045) and [PaRaDogi](https://osu.ppy.sh/users/2054596) who have this month produced the first episode of a podcast about mapping. This month's guest, [Camo](https://osu.ppy.sh/users/5194391), spoke with them about different topics around mapping such as their favourite maps, or more complex ones such as whether "fun" also means "good". In short, a new ambitious project by the community for mappers that we hope will be a success and last for a long time.
+[The Mappers Table Podcast](https://www.youtube.com/@themapperstablepodcast) is a group of mappers now consisting of ::hanabyte::{ user-id=8617799 }, [CallieCube](https://osu.ppy.sh/users/7535045) and ::PaRaDogi::{ user-id=2054596 } who have this month produced the first episode of a podcast about mapping. This month's guest, ::Camo::{ user-id=5194391 }, spoke with them about different topics around mapping such as their favourite maps, or more complex ones such as whether "fun" also means "good". In short, a new ambitious project by the community for mappers that we hope will be a success and last for a long time.
 
 #### MasterMapper 2023
 
-Have you been looking for a serious mapping tournament for a long time but can't find one? Then hurry up and sign up for [MasterMapper 2023](https://osu.ppy.sh/community/forums/topics/1699534?n=1), which is accepting participants until February 4th. This tournament hosted by [Gordon](https://osu.ppy.sh/users/7856835), now in its 3rd iteration, brings together mappers of all levels (within certain criteria such as having been active recently, or having Ranked maps) to compete on Featured Artist tracks over several months. Don't hesitate to take a look at it even if you just want to see the submissions!
+Have you been looking for a serious mapping tournament for a long time but can't find one? Then hurry up and sign up for [MasterMapper 2023](https://osu.ppy.sh/community/forums/topics/1699534?n=1), which is accepting participants until February 4th. This tournament hosted by ::Gordon::{ user-id=7856835 }, now in its 3rd iteration, brings together mappers of all levels (within certain criteria such as having been active recently, or having Ranked maps) to compete on Featured Artist tracks over several months. Don't hesitate to take a look at it even if you just want to see the submissions!
 
 ## Skinning recap
 
@@ -255,7 +255,7 @@ As should be tradition by now, 3 skins from the month of January have been selec
 
 ## Did you know?
 
-The art and name for [osu!stream](/wiki/osu!stream) came from a community member! In mid-2010, [Koko Ban](https://osu.ppy.sh/users/60603) on the forums would [show off their idea](https://osu.ppy.sh/community/forums/topics/13087?n=645) for a different version of osu! by posting a fan concept. The community received it really well, and when peppy decided to work on this iOS version of the game, Koko Ban was commissioned to do the full visual game design. Thanks once again to [Kurboh](https://osu.ppy.sh/users/15243233) for providing this cool titbit of osu! lore and to [peppy](https://osu.ppy.sh/users/2) [for confirming this via the osu!dev Discord server](https://discord.com/channels/188630481301012481/1003689172420276246/1068522857262489700).
+The art and name for [osu!stream](/wiki/osu!stream) came from a community member! In mid-2010, ::Koko Ban::{ user-id=60603 } on the forums would [show off their idea](https://osu.ppy.sh/community/forums/topics/13087?n=645) for a different version of osu! by posting a fan concept. The community received it really well, and when peppy decided to work on this iOS version of the game, Koko Ban was commissioned to do the full visual game design. Thanks once again to ::Kurboh::{ user-id=15243233 } for providing this cool titbit of osu! lore and to ::peppy::{ user-id=2 } [for confirming this via the osu!dev Discord server](https://discord.com/channels/188630481301012481/1003689172420276246/1068522857262489700).
 
 ## Monthly community quiz
 

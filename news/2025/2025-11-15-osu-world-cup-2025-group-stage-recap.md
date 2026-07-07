@@ -13,7 +13,7 @@ The top 8 teams in the Qualifiers headed straight into the bracket stage, where 
 
 How would the teams fare? How would the drama of the first two weeks of head-to-head play in this year's osu! World Cup unfold? Read on to find out!
 
-If you prefer a more detailed recap, check out the video recap by [D I O](https://osu.ppy.sh/users/3958619) here:
+If you prefer a more detailed recap, check out the video recap by ::D I O::{ user-id=3958619 } here:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/TMhYV730css" frameborder="0" allowfullscreen></iframe>
@@ -35,11 +35,11 @@ If you prefer a more detailed recap, check out the video recap by [D I O](https:
 
 ![](/wiki/shared/news/2025-11-15-osu-world-cup-2025-group-stage-recap/mappool.png?1)
 
-For the first head-to-head pool of the tournament, the Group Stage pool was mostly focused on easier maps and consistency. For starters, we had a couple of interesting customs, such as [rollpan](https://osu.ppy.sh/users/3062998)'s [Kyokugen BON Odori](https://osu.ppy.sh/beatmapsets/2455340#osu/5365982) and [Flask](https://osu.ppy.sh/users/959763)'s [Glass](https://osu.ppy.sh/beatmapsets/2455024#osu/5364986), the former being a speedy endeavour with a tapping focus (and an adorable storyboard to boot!), while the latter was a Chinese pop DT pick focused on flow and alt patterns, with a fairly tough solo section that made for many interesting points. Maps such as the technical [Heliosphere](https://osu.ppy.sh/beatmapsets/2455343#osu/5365985) and the streamy [NIGHTMARE INVITATION](https://osu.ppy.sh/beatmapsets/2454994#osu/5364927) are also new, showcasing [osu! originals](/wiki/Community/Bespoke_music) that debuted in other modes' world cups, something that the team has talked about being more keen to do this year.
+For the first head-to-head pool of the tournament, the Group Stage pool was mostly focused on easier maps and consistency. For starters, we had a couple of interesting customs, such as ::rollpan::{ user-id=3062998 }'s [Kyokugen BON Odori](https://osu.ppy.sh/beatmapsets/2455340#osu/5365982) and ::Flask::{ user-id=959763 }'s [Glass](https://osu.ppy.sh/beatmapsets/2455024#osu/5364986), the former being a speedy endeavour with a tapping focus (and an adorable storyboard to boot!), while the latter was a Chinese pop DT pick focused on flow and alt patterns, with a fairly tough solo section that made for many interesting points. Maps such as the technical [Heliosphere](https://osu.ppy.sh/beatmapsets/2455343#osu/5365985) and the streamy [NIGHTMARE INVITATION](https://osu.ppy.sh/beatmapsets/2454994#osu/5364927) are also new, showcasing [osu! originals](/wiki/Community/Bespoke_music) that debuted in other modes' world cups, something that the team has talked about being more keen to do this year.
 
-The pool also had its fair share of existing Ranked maps. The infamous [Chocolate Disco](https://osu.ppy.sh/beatmapsets/1437192#osu/2957016) was picked as a NM3 — a deceptively hard reading map, having a star rating of below 4.5 while sitting in a pool with maps that went up to over 7 stars. Other maps, such as [Elder Things](https://osu.ppy.sh/beatmapsets/1877186#osu/3863677) and [Imaike Samba](https://osu.ppy.sh/beatmapsets/2243785#osu/4769759), rounded the pool out and served as tapping and aim mechanics challenges, respectively. To cap it off, [saido39](https://osu.ppy.sh/users/11278761)'s [Destin Victorica (Harddance Mix)](https://osu.ppy.sh/beatmapsets/2318863#osu/4966899) was selected as the tiebreaker: a very upbeat, mechanically intensive outing that provided many matches with an exciting finish.
+The pool also had its fair share of existing Ranked maps. The infamous [Chocolate Disco](https://osu.ppy.sh/beatmapsets/1437192#osu/2957016) was picked as a NM3 — a deceptively hard reading map, having a star rating of below 4.5 while sitting in a pool with maps that went up to over 7 stars. Other maps, such as [Elder Things](https://osu.ppy.sh/beatmapsets/1877186#osu/3863677) and [Imaike Samba](https://osu.ppy.sh/beatmapsets/2243785#osu/4769759), rounded the pool out and served as tapping and aim mechanics challenges, respectively. To cap it off, ::saido39::{ user-id=11278761 }'s [Destin Victorica (Harddance Mix)](https://osu.ppy.sh/beatmapsets/2318863#osu/4966899) was selected as the tiebreaker: a very upbeat, mechanically intensive outing that provided many matches with an exciting finish.
 
-Not to be left unmentioned, [alien friend request](https://osu.ppy.sh/beatmapsets/2242333#osu/4766086) by [melon boy](https://osu.ppy.sh/users/3053382) and company was also a standout pick in the pool, being an extremely diverse mechanics map featuring a song composed by the creators of the map itself! A catchy, charming song on a fun, creative map made it a truly memorable selection.
+Not to be left unmentioned, [alien friend request](https://osu.ppy.sh/beatmapsets/2242333#osu/4766086) by ::melon boy::{ user-id=3053382 } and company was also a standout pick in the pool, being an extremely diverse mechanics map featuring a song composed by the creators of the map itself! A catchy, charming song on a fun, creative map made it a truly memorable selection.
 
 ---
 
@@ -53,7 +53,7 @@ This pool also had the first debut of an [osu! original](/wiki/osu!_originals) f
     </audio>
 </div>
 
-A shorter, funky yet classy original, [MEMODEMO](https://osu.ppy.sh/beatmaps/artists/508)'s contributions were mapped by the one and only [Chaoslitz](https://osu.ppy.sh/users/3621552), being used as a precision Hard Rock pick with a flow alt focus. Throughout the 48 Group Stage matches, we got to know both the song and map very well, yet it seemed as if it never got old — a truly remarkable achievement.
+A shorter, funky yet classy original, [MEMODEMO](https://osu.ppy.sh/beatmaps/artists/508)'s contributions were mapped by the one and only ::Chaoslitz::{ user-id=3621552 }, being used as a precision Hard Rock pick with a flow alt focus. Throughout the 48 Group Stage matches, we got to know both the song and map very well, yet it seemed as if it never got old — a truly remarkable achievement.
 
 If you're craving for easier difficulties to play, be sure to also check out the [full ranked set](https://osu.ppy.sh/beatmapsets/2455351#osu/5366001)!
 
@@ -72,7 +72,7 @@ A fascinating group on paper, Group A featured the overall #9 and #13 seeds Chin
 
 **Highlight match:** [China vs. Austria](https://osu.ppy.sh/community/matches/119769022) ([VOD](https://www.twitch.tv/videos/2612848277?t=2h4m39s)). The #17 seed Austria gave China a tough fight, winning 3 points from a steep underdog position.
 
-**Group MVP:** Captain ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175) (a.k.a. Davidqu2) played every map for China en route to a 1.464 performance score to help lead his team to the #1 seed in the group.
+**Group MVP:** Captain ::{ flag=CN }:: ::lolol235::{ user-id=6090175 } (a.k.a. Davidqu2) played every map for China en route to a 1.464 performance score to help lead his team to the #1 seed in the group.
 
 ### Group B
 
@@ -87,7 +87,7 @@ Group B started off on the first weekend by matching most expectations, with Fin
 
 **Highlight match:** [Romania vs. Finland](https://osu.ppy.sh/community/matches/119771875) ([VOD](https://www.twitch.tv/videos/2612999141?t=2h15m45s)), where Finland put up a huge upset, beating the top seed of the group 5–1 as the bottom seed.
 
-**Group MVP:** While ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) had the highest individual performance in the group, the MVP has to go to ::{ flag=NZ }:: [Kyujin](https://osu.ppy.sh/users/15293080), who put up a similar performance for New Zealand as a part of their 3–0 run in the group.
+**Group MVP:** While ::{ flag=RO }:: ::badeu::{ user-id=1473890 } had the highest individual performance in the group, the MVP has to go to ::{ flag=NZ }:: ::Kyujin::{ user-id=15293080 }, who put up a similar performance for New Zealand as a part of their 3–0 run in the group.
 
 ### Group C
 
@@ -102,7 +102,7 @@ Group C saw only one upset, but this was a huge shake-up from expectations comin
 
 **Highlight match:** [Chile vs. Spain](https://osu.ppy.sh/community/matches/119713766) ([VOD](https://www.twitch.tv/videos/2607171418?t=0h3m30s)) and [France vs. Spain](https://osu.ppy.sh/community/matches/119783601) ([VOD](https://www.twitch.tv/videos/2613988017?t=1h13m55s)) both have decent arguments as a highlight match in this group. Chile vs. Spain is the one upset and the only tiebreaker in the group, while France vs. Spain saw multiple scenarios at play based on the exact point-wise result of the match as the final match of the group.
 
-**Group MVP:** ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001) returns to the osu! World Cup once again this year and comes out the gate swinging with a top 6 overall individual performance, by far the best in this group.
+**Group MVP:** ::{ flag=CL }:: ::Intercambing::{ user-id=2546001 } returns to the osu! World Cup once again this year and comes out the gate swinging with a top 6 overall individual performance, by far the best in this group.
 
 ### Group D
 
@@ -117,7 +117,7 @@ Group D was expected to be the closest Challenger group on paper, but after week
 
 **Highlight match:** [Sweden vs. Netherlands](https://osu.ppy.sh/community/matches/119784200) ([VOD](https://www.twitch.tv/videos/2613988017?t=2h13m58s)) was the upset match almost no one predicted, with the Netherlands being dubbed the default bottom team in the group before matches had begun.
 
-**Group MVP:** While ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745) had the best individual performance of anyone in this group, placing 2nd overall, the MVP has to go to ::{ flag=PH }:: [NathanRam1918](https://osu.ppy.sh/users/4734703), whose herculean performance kept Philippines in the winners' bracket, 1 point away from first place in the group.
+**Group MVP:** While ::{ flag=SE }:: ::scylla::{ user-id=9405745 } had the best individual performance of anyone in this group, placing 2nd overall, the MVP has to go to ::{ flag=PH }:: ::NathanRam1918::{ user-id=4734703 }, whose herculean performance kept Philippines in the winners' bracket, 1 point away from first place in the group.
 
 ### Group E
 
@@ -132,7 +132,7 @@ Group E saw its top seed Taiwan easily make their way through as the #1 finisher
 
 **Highlight match:** Vietnam vs. Malaysia. The first match of the group to be played was the most important of all as it would eventually determine the #2 and #3 seeds.
 
-**Group MVP:** Despite failing to advance from the group, Vietnam's ::{ flag=VN }:: [def](https://osu.ppy.sh/users/21619075) was the highest-rated player in Group E, participating in all 22 maps for his team and finishing with a 1.376 performance score.
+**Group MVP:** Despite failing to advance from the group, Vietnam's ::{ flag=VN }:: ::def::{ user-id=21619075 } was the highest-rated player in Group E, participating in all 22 maps for his team and finishing with a 1.376 performance score.
 
 ### Group F
 
@@ -147,7 +147,7 @@ Group F featured a somewhat surprising participant in Türkiye, finishing in the
 
 **Highlight match:** Both tiebreaker matches were highly exciting in their own right, with Belgium finding a long-awaited World Cup win in their tiebreaker map, while Argentina vs. Uruguay featured a back-and-forth battle of carry performances that came down to a score difference of only 19,869 points when the dust settled!
 
-**Group MVP:** ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528) was, in a word, stellar. He FC'd a ridiculous 13 of the 14 maps he played, earning himself the 5th-best performance score of all Group Stage participants at 1.619. His scores [might need to be seen to be believed](https://docs.google.com/spreadsheets/d/13ovPsPHgma8evar5czRmjhl0OGKybuzP9nvi95XFlxc/edit?gid=1147375018#gid=1147375018), including the #1 overall scores on NM1 and HR2, the #1, #3, and #4 scores on DT3, and 3 of the top 10 scores on NM2.
+**Group MVP:** ::{ flag=TR }:: ::Raikouhou::{ user-id=8007528 } was, in a word, stellar. He FC'd a ridiculous 13 of the 14 maps he played, earning himself the 5th-best performance score of all Group Stage participants at 1.619. His scores [might need to be seen to be believed](https://docs.google.com/spreadsheets/d/13ovPsPHgma8evar5czRmjhl0OGKybuzP9nvi95XFlxc/edit?gid=1147375018#gid=1147375018), including the #1 overall scores on NM1 and HR2, the #1, #3, and #4 scores on DT3, and 3 of the top 10 scores on NM2.
 
 ### Group G
 
@@ -162,7 +162,7 @@ Group G forced viewers and players alike to confront the unfortunate reality of 
 
 **Highlight match:** [Portugal vs. Peru](https://osu.ppy.sh/community/matches/119724770) ([VOD](https://www.twitch.tv/videos/2608182376?t=0h5m15s)) was the deciding matchup no one expected in week one. On top of being a close match at 5–3 with both teams showing solid scores, there were some shenanigans in the commentary booth that are best experienced firsthand.
 
-**Group MVP:** ::{ flag=PE }:: [[MG]Arnold24x24](https://osu.ppy.sh/users/2291265) was the single best player in the entire Group Stage. He is both the reason Peru qualified and the reason they have won any matches, playing every single map for Peru and averaging over 850k (not counting mod multipliers). This is a performance that goes beyond incredible as he continues to cement himself as one of the best tournament players of all time. Honourable mention goes to ::{ flag=KZ }:: [Kamensh1k](https://osu.ppy.sh/users/16817965), who also played every map for Kazakhstan and averaged just under 850k. Both of these players were real titans in their group.
+**Group MVP:** ::{ flag=PE }:: ::\1MG\1Arnold24x24::{ user-id=2291265 } was the single best player in the entire Group Stage. He is both the reason Peru qualified and the reason they have won any matches, playing every single map for Peru and averaging over 850k (not counting mod multipliers). This is a performance that goes beyond incredible as he continues to cement himself as one of the best tournament players of all time. Honourable mention goes to ::{ flag=KZ }:: ::Kamensh1k::{ user-id=16817965 }, who also played every map for Kazakhstan and averaged just under 850k. Both of these players were real titans in their group.
 
 ### Group H
 
@@ -177,7 +177,7 @@ This group was the one most people were split on going into the weekend, and the
 
 **Highlight match:** [Singapore vs. Hong Kong](https://osu.ppy.sh/community/matches/119721465) ([VOD](https://www.twitch.tv/videos/2607784567?t=3h3m7s)) went to tiebreaker as the effective deciding match in the group.
 
-**Group MVP:** ::{ flag=HK }:: [misha awa](https://osu.ppy.sh/users/14503423), while unable to carry Hong Kong into the losers' bracket, still made the top 5 in individual performances across the entire group stage, showcasing the raw skill he has accrued over the last year of community tournaments and almost pulling through in the tiebreaker against Singapore.
+**Group MVP:** ::{ flag=HK }:: ::misha awa::{ user-id=14503423 }, while unable to carry Hong Kong into the losers' bracket, still made the top 5 in individual performances across the entire group stage, showcasing the raw skill he has accrued over the last year of community tournaments and almost pulling through in the tiebreaker against Singapore.
 
 ---
 

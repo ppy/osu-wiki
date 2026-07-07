@@ -8,20 +8,20 @@ outdated: true
 
 ## Sliders Burai
 
-Nominador: [machol30](https://osu.ppy.sh/users/5772)
+Nominador: ::machol30::{ user-id=5772 }
 
 Los **sliders Burai** son sliders que se superponen completamente sin dejar espacio para notar que realmente se han superpuesto a excepción del slider end.
 
 Este patrón no es clasificable debido a la confusión que crea en términos de legibilidad general.
 Por el contrario, si haces un patrón similar pero lo dejas como un ligero ángulo, es clasificable.
 
-Esta técnica debe su nombre al antiguo nombre de su creador, buraimaster1234 (ahora conocido como [machol30](https://osu.ppy.sh/users/5772)).
+Esta técnica debe su nombre al antiguo nombre de su creador, buraimaster1234 (ahora conocido como ::machol30::{ user-id=5772 }).
 
 ## Sliders mantenidos
 
 *No deben confundirse con los [sliders con repeticiones cortas](/wiki/Beatmapping/Mapping_techniques/Sliders#sliders-con-repeticiones-cortas).*
 
-Nominador: [Shinxyn](https://osu.ppy.sh/users/13996)
+Nominador: ::Shinxyn::{ user-id=13996 }
 
 Los sliders normales que cambian la velocidad normalmente usan un punto heredado de 0,5 o 2,0.
 Por otro lado, los **sliders mantenidos** usan un punto heredado de 0,25 o incluso 0,125.

@@ -23,7 +23,7 @@ You don't need us to tell you how good **Ardolf** sounds, of course. Check out [
 
 ### Ardolf - Varcolac
 
-Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/1750904) hosted by [Nymphe](https://osu.ppy.sh/users/10507407)!
+Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/1750904) hosted by ::Nymphe::{ user-id=10507407 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/263/Songs/Ardolf%20-%20Varcolac.mp3" type="audio/mpeg">

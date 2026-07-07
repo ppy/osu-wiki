@@ -13,7 +13,7 @@ Our quest to encompass just about every genre and musical style continues this w
 
 Turning heads since 2012, the New Jersey-based septet is widely renowned for their eclectic sound that draws upon influences from dozens of genres and folds them all under the progressive banner.
 
-Though a little bit longer than you might be used to, their work fills a neat niche which has historically been well-received, with mappers like [-Visceral-](https://osu.ppy.sh/users/1855540) (formerly known as Theaceae) and [Mun](https://osu.ppy.sh/users/6699165) turning heads with their map of [*My Famed Disappearing Act*](https://osu.ppy.sh/beatmapsets/765338) back in early 2018.
+Though a little bit longer than you might be used to, their work fills a neat niche which has historically been well-received, with mappers like ::-Visceral-::{ user-id=1855540 } (formerly known as Theaceae) and ::Mun::{ user-id=6699165 } turning heads with their map of [*My Famed Disappearing Act*](https://osu.ppy.sh/beatmapsets/765338) back in early 2018.
 
 If you're a fan of English-based rock and have a soft spot for any of the different kinds of musical fusion subgenres, **Thank You Scientist** is sure to tickle your ears. Seriously, they're wicked stuff.
 
@@ -21,7 +21,7 @@ Don't take our word for it, give them a listen:
 
 ### My Famed Disappearing Act
 
-Check out [this classic collaboration set](https://osu.ppy.sh/beatmapsets/765338) hosted by [-Visceral-](https://osu.ppy.sh/users/1855540)!
+Check out [this classic collaboration set](https://osu.ppy.sh/beatmapsets/765338) hosted by ::-Visceral-::{ user-id=1855540 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/83/previews/2171.mp3" type="audio/mpeg">
@@ -29,7 +29,7 @@ Check out [this classic collaboration set](https://osu.ppy.sh/beatmapsets/765338
 
 ### Mr. Invisible
 
-Check out [this brand new set](https://osu.ppy.sh/beatmapsets/1130581) by [DTM9 Nowa](https://osu.ppy.sh/users/5428909) of Aspire fame!
+Check out [this brand new set](https://osu.ppy.sh/beatmapsets/1130581) by ::DTM9 Nowa::{ user-id=5428909 } of Aspire fame!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/83/previews/2176.mp3" type="audio/mpeg">

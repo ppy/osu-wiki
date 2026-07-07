@@ -25,11 +25,11 @@ The playtester's pick and top 5 beatmaps were showcased during the [results anno
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108), ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699), ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) |
-| Designer | ::{ flag=ID }:: [kim hyunjin](https://osu.ppy.sh/users/9456733) |
-| Playtester | ::{ flag=ID }:: [_yea](https://osu.ppy.sh/users/20834055), ::{ flag=PL }:: [Korzei](https://osu.ppy.sh/users/11921815) |
-| Judge (osu!mania) | ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418), ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643), ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693) |
-| Judge (osu!) | ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058), ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964), ::{ flag=TH }:: [Kensuke](https://osu.ppy.sh/users/4314710), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=US }:: [Passionate](https://osu.ppy.sh/users/10194509) |
+| Host | ::{ flag=CA }:: ::Aurele::{ user-id=654108 }, ::{ flag=AU }:: ::fvrex::{ user-id=11863699 }, ::{ flag=ID }:: ::Ilham::{ user-id=3057154 } |
+| Designer | ::{ flag=ID }:: ::kim hyunjin::{ user-id=9456733 } |
+| Playtester | ::{ flag=ID }:: ::\1yea::{ user-id=20834055 }, ::{ flag=PL }:: ::Korzei::{ user-id=11921815 } |
+| Judge (osu!mania) | ::{ flag=PH }:: ::Hytex::{ user-id=8536263 }, ::{ flag=ID }:: ::Maxus::{ user-id=4335785 }, ::{ flag=KR }:: ::secXcscX::{ user-id=13543418 }, ::{ flag=ID }:: ::Syrion-::{ user-id=15380643 }, ::{ flag=ID }:: ::Ucitysm::{ user-id=14768693 } |
+| Judge (osu!) | ::{ flag=PE }:: ::dakiwii::{ user-id=10447058 }, ::{ flag=CH }:: ::Irreversible::{ user-id=1287964 }, ::{ flag=TH }:: ::Kensuke::{ user-id=4314710 }, ::{ flag=FR }:: ::Nozhomi::{ user-id=2716981 }, ::{ flag=US }:: ::Passionate::{ user-id=10194509 } |
 
 ## Prizes
 
@@ -59,19 +59,19 @@ More detailed scores and judge comments are available to view on the respective 
 
 | Place | Mapper | Song (map link) | Raw score (500) | Standardised score |
 | :-: | :-- | :-- | :-- | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072) | [Dreamcatcher - BEcause](https://osu.ppy.sh/beatmapsets/2508561) | 423 | 6.101 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [Pyra-san](https://osu.ppy.sh/users/31126430) | [TWICE - What Is Love?](https://osu.ppy.sh/beatmapsets/2508559) | 407 | 4.264 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674) | [ITZY - 8-BIT HEART](https://osu.ppy.sh/beatmapsets/2508590) | 406 | 3.998 |
-| Playtester's pick[^playtester] | ::{ flag=NO }:: [Chrisse](https://osu.ppy.sh/users/18382591) | [QWER - REBOUND](https://osu.ppy.sh/beatmapsets/2508792) | 359 | -0.183 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: ::Antipole::{ user-id=17258072 } | [Dreamcatcher - BEcause](https://osu.ppy.sh/beatmapsets/2508561) | 423 | 6.101 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: ::Pyra-san::{ user-id=31126430 } | [TWICE - What Is Love?](https://osu.ppy.sh/beatmapsets/2508559) | 407 | 4.264 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=VN }:: ::Micleak::{ user-id=16140674 } | [ITZY - 8-BIT HEART](https://osu.ppy.sh/beatmapsets/2508590) | 406 | 3.998 |
+| Playtester's pick[^playtester] | ::{ flag=NO }:: ::Chrisse::{ user-id=18382591 } | [QWER - REBOUND](https://osu.ppy.sh/beatmapsets/2508792) | 359 | -0.183 |
 
 ### osu!
 
 | Place | Mapper | Song (map link) | Raw score (500) | Standardised score |
 | :-: | :-- | :-- | :-- | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [William K](https://osu.ppy.sh/users/2261651) | [PARK JIHOON - Gallery](https://osu.ppy.sh/beatmapsets/2508518) | 420 | 5.214 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CL }:: [Vyassel](https://osu.ppy.sh/users/14450486) | [LE SSERAFIM - CRAZY](https://osu.ppy.sh/beatmapsets/2508541) | 392 | 3.765 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [im yeojin](https://osu.ppy.sh/users/20907417) | [ARTMS - Birth](https://osu.ppy.sh/beatmapsets/2508861) | 396 | 3.598 |
-| Playtester's pick[^playtester] | ::{ flag=PL }:: [Gresiu](https://osu.ppy.sh/users/3930357) | [Yves - Soap (feat. PinkPantheress)](https://osu.ppy.sh/beatmapsets/2508713) | 246 | -7.865 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: ::William K::{ user-id=2261651 } | [PARK JIHOON - Gallery](https://osu.ppy.sh/beatmapsets/2508518) | 420 | 5.214 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CL }:: ::Vyassel::{ user-id=14450486 } | [LE SSERAFIM - CRAZY](https://osu.ppy.sh/beatmapsets/2508541) | 392 | 3.765 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: ::im yeojin::{ user-id=20907417 } | [ARTMS - Birth](https://osu.ppy.sh/beatmapsets/2508861) | 396 | 3.598 |
+| Playtester's pick[^playtester] | ::{ flag=PL }:: ::Gresiu::{ user-id=3930357 } | [Yves - Soap (feat. PinkPantheress)](https://osu.ppy.sh/beatmapsets/2508713) | 246 | -7.865 |
 
 ## Ruleset
 

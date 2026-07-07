@@ -37,7 +37,7 @@ See it in action:
 
 (That keycap remover is included too, by the way.)
 
-It's impossible to please both sides of *light mode* vs. *dark mode* debates. Actually, nevermind — we included `Esc` keys for both, designed by [Tanza3D](https://osu.ppy.sh/users/10379965).
+It's impossible to please both sides of *light mode* vs. *dark mode* debates. Actually, nevermind — we included `Esc` keys for both, designed by ::Tanza3D::{ user-id=10379965 }.
 
 [![](/wiki/shared/news/2024-05-27-osu-keycaps/esc.jpg)](https://www.thekapco.com/products/osu-pippi-keycap-set)
 

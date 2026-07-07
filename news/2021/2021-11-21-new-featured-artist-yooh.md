@@ -25,7 +25,7 @@ Oh, did you hear the news?
 
 ### Yooh - RPG
 
-Play through [the map that osu!'s world champions will battle on next weekend](https://osu.ppy.sh/beatmapsets/1633250) created by [Zelq](https://osu.ppy.sh/users/8953955), [Halgoh](https://osu.ppy.sh/users/4109923), [toybot](https://osu.ppy.sh/users/2848604), [DeviousPanda](https://osu.ppy.sh/users/4966334), [Azer](https://osu.ppy.sh/users/2155578), and [PoNo](https://osu.ppy.sh/users/4610047)!
+Play through [the map that osu!'s world champions will battle on next weekend](https://osu.ppy.sh/beatmapsets/1633250) created by ::Zelq::{ user-id=8953955 }, [Halgoh](https://osu.ppy.sh/users/4109923), ::toybot::{ user-id=2848604 }, [DeviousPanda](https://osu.ppy.sh/users/4966334), ::Azer::{ user-id=2155578 }, and [PoNo](https://osu.ppy.sh/users/4610047)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/218/Songs/Yooh%20-%20RPG.mp3" type="audio/mpeg">
@@ -35,10 +35,10 @@ Play through [the map that osu!'s world champions will battle on next weekend](h
 
 Try any of the maps behind this classic stream-filled song:
 
-- [osu! map that started the Ice Angel trend](https://osu.ppy.sh/beatmapsets/297933) hosted by [ktgster](https://osu.ppy.sh/users/53378)
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/841314) hosted by [Ak1o](https://osu.ppy.sh/users/1600041)
-- [osu!catch loved map](https://osu.ppy.sh/beatmapsets/549286) hosted by [Razor Sharp](https://osu.ppy.sh/users/3414261)
-- [7K osu!mania map](https://osu.ppy.sh/beatmapsets/379365) hosted by [pporse](https://osu.ppy.sh/users/4991434)
+- [osu! map that started the Ice Angel trend](https://osu.ppy.sh/beatmapsets/297933) hosted by ::ktgster::{ user-id=53378 }
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/841314) hosted by ::Ak1o::{ user-id=1600041 }
+- [osu!catch loved map](https://osu.ppy.sh/beatmapsets/549286) hosted by ::Razor Sharp::{ user-id=3414261 }
+- [7K osu!mania map](https://osu.ppy.sh/beatmapsets/379365) hosted by ::pporse::{ user-id=4991434 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/218/Yoohsics%20-REVIVAL-/Yooh%20-%20Ice%20Angel.mp3" type="audio/mpeg">
@@ -48,9 +48,9 @@ Try any of the maps behind this classic stream-filled song:
 
 Or try out one of these maps:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/832538) hosted *once again* by [ktgster](https://osu.ppy.sh/users/53378)
-- [4K and 8K osu!mania difficulty spreads](https://osu.ppy.sh/beatmapsets/436217) hosted by [pocket-Gao](https://osu.ppy.sh/users/3162182)
-- [7K osu!mania marathon](https://osu.ppy.sh/beatmapsets/626965) hosted by [Wonki](https://osu.ppy.sh/users/7898495)
+- [osu! map](https://osu.ppy.sh/beatmapsets/832538) hosted *once again* by ::ktgster::{ user-id=53378 }
+- [4K and 8K osu!mania difficulty spreads](https://osu.ppy.sh/beatmapsets/436217) hosted by ::pocket-Gao::{ user-id=3162182 }
+- [7K osu!mania marathon](https://osu.ppy.sh/beatmapsets/626965) hosted by ::Wonki::{ user-id=7898495 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/218/Yoohsics%20-REVIVAL-/Yooh%20-%20LiFE%20Garden.mp3" type="audio/mpeg">
@@ -60,10 +60,10 @@ Or try out one of these maps:
 
 ...and when you're done with those maps, explore some of these:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/177444) hosted by [someone who apparently likes **Yooh** a lot](https://osu.ppy.sh/users/53378)
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/815765) hosted by [iloveyou4ever](https://osu.ppy.sh/users/4964596)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/840189) hosted by [autofanboy](https://osu.ppy.sh/users/636114)
-- [7K osu!mania map](https://osu.ppy.sh/beatmapsets/459200) hosted by [pporse](https://osu.ppy.sh/users/4991434)
+- [osu! map](https://osu.ppy.sh/beatmapsets/177444) hosted by ::someone who apparently likes **Yooh** a lot::{ user-id=53378 }
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/815765) hosted by ::iloveyou4ever::{ user-id=4964596 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/840189) hosted by ::autofanboy::{ user-id=636114 }
+- [7K osu!mania map](https://osu.ppy.sh/beatmapsets/459200) hosted by ::pporse::{ user-id=4991434 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/218/Songs/Yooh%20-%20salvation.mp3" type="audio/mpeg">
@@ -71,7 +71,7 @@ Or try out one of these maps:
 
 ### Yooh - Divinity
 
-Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1120245) hosted by [greenhue](https://osu.ppy.sh/users/4967662)!
+Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1120245) hosted by ::greenhue::{ user-id=4967662 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/218/Songs/Yooh%20-%20Divinity.mp3" type="audio/mpeg">
@@ -79,7 +79,7 @@ Check out [this osu! map](https://osu.ppy.sh/beatmapsets/1120245) hosted by [gre
 
 ### Yooh - Shigure
 
-[This osu! map](https://osu.ppy.sh/beatmapsets/1186689) hosted by [pyth0nix](https://osu.ppy.sh/users/10922849) might be worth checking out too. Just maybe.
+[This osu! map](https://osu.ppy.sh/beatmapsets/1186689) hosted by ::pyth0nix::{ user-id=10922849 } might be worth checking out too. Just maybe.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/218/Songs/Yooh%20-%20Shigure.mp3" type="audio/mpeg">

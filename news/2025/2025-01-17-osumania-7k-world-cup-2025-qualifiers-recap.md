@@ -15,7 +15,7 @@ This year, the mappooling team has opted to slightly modify the mappool format. 
 
 With the introduction out of the way, let us get into the nitty-gritty of this year's Qualifier pool! Stay tuned, as later on we'll get to chat with several members from the mappooling team.
 
-If you're new to the series, fret not! [SurfChu85](https://osu.ppy.sh/users/4469895) and [yukina meng](https://osu.ppy.sh/users/9919550) got you covered with the mappool's basics.
+If you're new to the series, fret not! ::SurfChu85::{ user-id=4469895 } and [yukina meng](https://osu.ppy.sh/users/9919550) got you covered with the mappool's basics.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/wZdL4pTQA6A" frameborder="0" allowfullscreen></iframe>
@@ -33,7 +33,7 @@ If you're new to the series, fret not! [SurfChu85](https://osu.ppy.sh/users/4469
 
 Players were given a warm welcome into the tournament with a fairly standard-sized 8 stage Qualifiers pool. But size isn't what matters for all intents and purposes. There were various structural changes, from changing the LN release picks to be LN coordination, to introducing one of the most intense hybrid maps to date in a Qualifiers pool. And while the core of the pool remains the same, with teams who were able to adapt to the changes gaining an edge over their peers!
 
-Speaking of highlights, let's talk about the star of the pool: [aran - Yoake Mae feat. shully](https://osu.ppy.sh/beatmapsets/2303945#mania/4924806) (LN1) by ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713). Whereas in previous years this would've been a long note pick with a focus on releases, this time around the poolers decided to test players' finger coordination as a whole. Other noteworthy maps include [Mono. - skip&step](https://osu.ppy.sh/beatmapsets/2303942#mania/4924800) (RC3) by ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), a fun and varied rice experience meant to keep players on their toes — or shall we say, their fingers? Finally, we have [seatrus - Hekikuu no Yakusoku](https://osu.ppy.sh/beatmapsets/2303946#mania/4924807) (HB2) by ::{ flag=MY }:: [Critical_Star](https://osu.ppy.sh/users/3793196). Players got a little of tiebreakers to come, as well as the intensity they should expect.
+Speaking of highlights, let's talk about the star of the pool: [aran - Yoake Mae feat. shully](https://osu.ppy.sh/beatmapsets/2303945#mania/4924806) (LN1) by ::{ flag=MY }:: ::\1Kobii::{ user-id=6209713 }. Whereas in previous years this would've been a long note pick with a focus on releases, this time around the poolers decided to test players' finger coordination as a whole. Other noteworthy maps include [Mono. - skip&step](https://osu.ppy.sh/beatmapsets/2303942#mania/4924800) (RC3) by ::{ flag=US }:: ::Blocko::{ user-id=4075092 }, a fun and varied rice experience meant to keep players on their toes — or shall we say, their fingers? Finally, we have [seatrus - Hekikuu no Yakusoku](https://osu.ppy.sh/beatmapsets/2303946#mania/4924807) (HB2) by ::{ flag=MY }:: ::Critical\1Star::{ user-id=3793196 }. Players got a little of tiebreakers to come, as well as the intensity they should expect.
 
 But we've only just begun, and future mappools are yet to be revealed. Who knows what surprises the poolers have been preparing for us? To wrap things up, here's a small fun fact: this mappool was *almost* fully comprised of licensed tracks, with seven of eight maps using songs from the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists).
 
@@ -43,7 +43,7 @@ Despite the increased number of rounds, the Qualifiers have been a trove of surp
 
 ![Qualifier results table](/wiki/shared/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap/results.jpg?20250118)
 
-Starting things off with the top 3 seeds, it should come as no surprise that ::{ flag=KR }:: South Korea has once again risen up to the top spot with their new members ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649) and ::{ flag=KR }:: [Crusher](https://osu.ppy.sh/users/7304158). Following up, we've got ::{ flag=CN }:: China and ::{ flag=PH }:: Philippines on the #2 and #3 seeds respectively, another two fan favourites whose performances have consistently been amongst the best. But who knows, maybe we'll find some upsets along the way!
+Starting things off with the top 3 seeds, it should come as no surprise that ::{ flag=KR }:: South Korea has once again risen up to the top spot with their new members ::{ flag=KR }:: ::Kalkai::{ user-id=10790649 } and ::{ flag=KR }:: ::Crusher::{ user-id=7304158 }. Following up, we've got ::{ flag=CN }:: China and ::{ flag=PH }:: Philippines on the #2 and #3 seeds respectively, another two fan favourites whose performances have consistently been amongst the best. But who knows, maybe we'll find some upsets along the way!
 
 Other strong contenders like ::{ flag=JP }:: Japan, ::{ flag=ID }:: Indonesia, ::{ flag=US }:: United States, and ::{ flag=MY }:: Malaysia have also managed to stay on top of their game, but the same can't be said for everyone. ::{ flag=AU }:: Australia, placing #7 last year, has fallen short from qualifying to the top 32 by placing into the #33 seed. Several other past top performers like ::{ flag=TH }:: Thailand, ::{ flag=CA }:: Canada, and ::{ flag=PL }:: Poland have also dropped slightly even though they still qualified to play. The biggest surprise must've been ::{ flag=BR }:: Brazil, which opted to drop out from the tournament despite having been considered one of the stronger teams in the past. May we see them again in the future.
 
@@ -84,11 +84,11 @@ Other than that, we're very happy to see new countries like ::{ flag=PK }:: Paki
     }
 </style>
 
-Players and spectators alike only get to experience the results of the mappooling team's hard work. But more often than not, they're unaware of the process and the challenges that come with it. Keeping up with players' expectations is no easy feat after all. Therefore, we'd like to have a chat with three members of the pooling team, each responsible for one piece of the puzzle. As such, let us introduce [_Kobii](https://osu.ppy.sh/users/6209713), [ExNeko](https://osu.ppy.sh/users/7590894), and [cheewee10](https://osu.ppy.sh/users/4477497) to lecture us on the herculean task of pooling for MWC 7K!
+Players and spectators alike only get to experience the results of the mappooling team's hard work. But more often than not, they're unaware of the process and the challenges that come with it. Keeping up with players' expectations is no easy feat after all. Therefore, we'd like to have a chat with three members of the pooling team, each responsible for one piece of the puzzle. As such, let us introduce ::\1Kobii::{ user-id=6209713 }, [ExNeko](https://osu.ppy.sh/users/7590894), and ::cheewee10::{ user-id=4477497 } to lecture us on the herculean task of pooling for MWC 7K!
 
 ![](/wiki/shared/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap/Kobii.png)
 
-Kicking things off, we've got [_Kobii](https://osu.ppy.sh/users/6209713) to tell us how pooling works from the perspective of a head pooler. While _Kobii's experience extends beyond tournaments alone, their work as a mapper and playtester ever since they joined the pooling theam in 2022 has given them a ton of insight over the years. A feat that has got them promoted to where they are right now!
+Kicking things off, we've got ::\1Kobii::{ user-id=6209713 } to tell us how pooling works from the perspective of a head pooler. While _Kobii's experience extends beyond tournaments alone, their work as a mapper and playtester ever since they joined the pooling theam in 2022 has given them a ton of insight over the years. A feat that has got them promoted to where they are right now!
 
 <div class="news-chat-quote__text-container">
 
@@ -112,7 +112,7 @@ With a team as varied and talented as ours, there are bound to be conflicting op
 
 ![](/wiki/shared/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap/ExNeko.png)
 
-[ExNeko](https://osu.ppy.sh/users/7590894)'s experience as a mapper should not be underestimated. Known for their plethora of ranked maps, and their multiple appearances throughout various osu!mania tournaments. Their work is nothing short of amazing having been one of the most active mappers this year, making dreams like fully custom mapped pools a reality!
+::ExNeko::{ user-id=7590894 }'s experience as a mapper should not be underestimated. Known for their plethora of ranked maps, and their multiple appearances throughout various osu!mania tournaments. Their work is nothing short of amazing having been one of the most active mappers this year, making dreams like fully custom mapped pools a reality!
 
 <div class="news-chat-quote__text-container">
 
@@ -138,7 +138,7 @@ Our opinions on certain patterns are bound to evolve over time. As the years pas
 
 ![](/wiki/shared/news/2025-01-17-osumania-7k-world-cup-2025-qualifiers-recap/cheewee10.png)
 
-To conclude this interview, we've also reached out to [cheewee10](https://osu.ppy.sh/users/4477497). Tournament veteran and mania player extraordinaire, cheewee10 wanted to get a taste of what's being part of the mappooling team like. From the first time they placed 2nd in the [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) to last year achieving the same results, their wide-ranging experience has been a huge asset to have in the team.
+To conclude this interview, we've also reached out to ::cheewee10::{ user-id=4477497 }. Tournament veteran and mania player extraordinaire, cheewee10 wanted to get a taste of what's being part of the mappooling team like. From the first time they placed 2nd in the [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) to last year achieving the same results, their wide-ranging experience has been a huge asset to have in the team.
 
 <div class="news-chat-quote__text-container">
 

@@ -17,7 +17,7 @@ Experience some diversity through these track previews:
 
 ### [Xeon Diversity - Luminaire](https://assets.ppy.sh/artists/499/Genesis%20EP/Xeon%20Diversity%20-%20Luminaire.osz)
 
-Wandering around [COE 2025](/wiki/Community/cavoe's_osu!_event) sheds light on how most osu! players enjoy the game. [Ryshult](https://osu.ppy.sh/users/11189164) was an outlier though, as evidenced by this play on [coco](https://osu.ppy.sh/users/9579526)'s [map of Luminaire](https://osu.ppy.sh/beatmapsets/2353640) with the [Easy mod](/wiki/Gameplay/Game_modifier/Easy)!
+Wandering around [COE 2025](/wiki/Community/cavoe's_osu!_event) sheds light on how most osu! players enjoy the game. ::Ryshult::{ user-id=11189164 } was an outlier though, as evidenced by this play on ::coco::{ user-id=9579526 }'s [map of Luminaire](https://osu.ppy.sh/beatmapsets/2353640) with the [Easy mod](/wiki/Gameplay/Game_modifier/Easy)!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

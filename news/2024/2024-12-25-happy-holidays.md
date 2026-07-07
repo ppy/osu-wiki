@@ -13,7 +13,7 @@ We hope you're having a cozy time with friends or family, wherever you are. Here
 
 ## Festive client theme
 
-Just last thursday, we kicked off the holiday season by turning on the client's festive mode, accompanied by a brand-new song from our resident osu!musician [nekodex](https://osu.ppy.sh/beatmaps/artists/1)! For osu!(lazer) specifically, [peppy](https://osu.ppy.sh/users/2) and [pishifat](https://osu.ppy.sh/users/3178418) have worked on some new bells and whistles to light up the menu:
+Just last thursday, we kicked off the holiday season by turning on the client's festive mode, accompanied by a brand-new song from our resident osu!musician [nekodex](https://osu.ppy.sh/beatmaps/artists/1)! For osu!(lazer) specifically, ::peppy::{ user-id=2 } and [pishifat](https://osu.ppy.sh/users/3178418) have worked on some new bells and whistles to light up the menu:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

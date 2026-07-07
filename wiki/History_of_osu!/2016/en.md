@@ -14,7 +14,7 @@
 
 While much of the response from the community was in disapproval of the new rule change (which attempted to limit the amount of difficulties allowed in a single ranked beatmap), a much larger discussion was started that centred around many users' discontent towards the osu! staff due to what they felt was a lack of transparency and player representation regarding then-recent changes in the BAT (Beatmap Appreciation Team) as well as the creation of the RCC (Ranking Criteria Council).[^mapset-restructure-proposal]
 
-A few days after the incident (17 February), [Ephemeral](https://osu.ppy.sh/users/102335) made a post on [peppy's blog](https://blog.ppy.sh) attempting to clarify the matter with a timeline of events leading up to the situation and what the osu! team intended to do to resolve it. With this, it was revealed that many changes were being made with regards to the structure of the BAT, beatmapping in general, and ranking processes with little-to-no prior discussion or explicit approval from the BAT or QAT.[^meet-ephemeral][^mv2-timeline-doc]
+A few days after the incident (17 February), ::Ephemeral::{ user-id=102335 } made a post on [peppy's blog](https://blog.ppy.sh) attempting to clarify the matter with a timeline of events leading up to the situation and what the osu! team intended to do to resolve it. With this, it was revealed that many changes were being made with regards to the structure of the BAT, beatmapping in general, and ranking processes with little-to-no prior discussion or explicit approval from the BAT or QAT.[^meet-ephemeral][^mv2-timeline-doc]
 
 Additionally, in response to the backlash from the community, Ephemeral promised that Ranking Criteria changes would be temporarily suspended and that the osu! team would commit to being more transparent in their processes:
 
@@ -34,7 +34,7 @@ Additionally, in response to the backlash from the community, Ephemeral promised
 
 ## April
 
-**The modding panel on the new osu! website (new.ppy.sh) was set live for public testing on 11 April 2016**. However, the testing was only available for [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) and [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). According to [Loctav](https://osu.ppy.sh/users/71366), the main idea of the panel was to split problems into separate posts and then discuss them individually for easier tracking of issues and such as part of the steps towards implementing the long-awaited "Modding V2".[^mv2-feedback-thread]<!--wayback snapshot broken-->
+**The modding panel on the new osu! website (new.ppy.sh) was set live for public testing on 11 April 2016**. However, the testing was only available for [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) and [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). According to ::Loctav::{ user-id=71366 }, the main idea of the panel was to split problems into separate posts and then discuss them individually for easier tracking of issues and such as part of the steps towards implementing the long-awaited "Modding V2".[^mv2-feedback-thread]<!--wayback snapshot broken-->
 
 **New medal designs were added to osu! on 14 April 2016.**[^medals-showcase-yt] They meant to be more in-line with the "[osu!next](https://osunext.tumblr.com/about)" design philosophy that was used in the [new osu! client](/wiki/Client/Release_stream/Lazer) (codenamed "lazer") and on the new website.[^osu-weekly-57][^apr-15-changelog]
 
@@ -44,7 +44,7 @@ Additionally, in response to the backlash from the community, Ephemeral promised
 
 ![](img/maria.jpg "Official artwork of Maria in her announcement newspost")
 
-**The QAT (Quality Assurance Team) and their involvement in the beatmapping and modding processes were significantly changed on 25 April 2016.** The changes made were described by [Loctav](https://osu.ppy.sh/users/71366) in a forum post at the time:
+**The QAT (Quality Assurance Team) and their involvement in the beatmapping and modding processes were significantly changed on 25 April 2016.** The changes made were described by ::Loctav::{ user-id=71366 } in a forum post at the time:
 
 > Going forward, the QAT will no longer be obligated to check every qualified beatmap for quality checks. Instead, they will be reactive in nature, responding to and addressing reports made by members of the community about a map's quality.
 >
@@ -60,13 +60,13 @@ Reception of the community towards this change was overall mostly positive. Howe
 
 ## May
 
-**The very first osu! remix contest began on 6 May 2016.** "osu!remix" was a new contest that challenged participants to make a remix of the song [circles!](https://soundcloud.com/nekodex/circles) by [nekodex](https://osu.ppy.sh/users/102). The grand prize winner (chosen by osu! staff) would have their remix featured in osu! along with $250 USD in osu!store credit, a profile badge, and an official beatmapping contest featuring the remix. The secondary winner (chosen by community vote) would receive $50 USD in osu!store credit. The deadline for the contest was set to be 9 July 2016 (00:00 UTC).[^news-circles-remix-contest]
+**The very first osu! remix contest began on 6 May 2016.** "osu!remix" was a new contest that challenged participants to make a remix of the song [circles!](https://soundcloud.com/nekodex/circles) by ::nekodex::{ user-id=102 }. The grand prize winner (chosen by osu! staff) would have their remix featured in osu! along with $250 USD in osu!store credit, a profile badge, and an official beatmapping contest featuring the remix. The secondary winner (chosen by community vote) would receive $50 USD in osu!store credit. The deadline for the contest was set to be 9 July 2016 (00:00 UTC).[^news-circles-remix-contest]
 
-**A request for "early bird contributors" was made by [peppy](https://osu.ppy.sh/users/2) on 18 May 2016.** The request specifically asked for individuals with knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) 6.0 and enough free time and willingness to help clean up and refactor large areas of the new osu! client's codebase.[^early-bird-contributors] peppy also later asked for "reinforcements" in the form of additional contributors familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel) and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)).[^ppy-tweet-may-31]
+**A request for "early bird contributors" was made by ::peppy::{ user-id=2 } on 18 May 2016.** The request specifically asked for individuals with knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) 6.0 and enough free time and willingness to help clean up and refactor large areas of the new osu! client's codebase.[^early-bird-contributors] peppy also later asked for "reinforcements" in the form of additional contributors familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel) and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)).[^ppy-tweet-may-31]
 
 ## June
 
-**After nine months, the results for the first [Mapping With Rewards](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) contest were released on 1 June 2016.** There were three winners chosen in the contest — one for each song: [monstrata](https://osu.ppy.sh/users/2706438) (won [Manic](https://osu.ppy.sh/beatmapsets/361175#osu/793620)), [alacat](https://osu.ppy.sh/users/869782#osu) (won [House With Legs](https://osu.ppy.sh/beatmapsets/360680#osu/793357)), [Guy](https://osu.ppy.sh/users/91738) (won [Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950#osu/793190)). In addition to having their beatmaps bundled into the osu! installer, they also each received $50 USD in osu!store credit, and a unique profile badge as a prize.[^news-mwr-bounties]
+**After nine months, the results for the first [Mapping With Rewards](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) contest were released on 1 June 2016.** There were three winners chosen in the contest — one for each song: ::monstrata::{ user-id=2706438 } (won [Manic](https://osu.ppy.sh/beatmapsets/361175#osu/793620)), ::alacat::{ user-id=869782 } (won [House With Legs](https://osu.ppy.sh/beatmapsets/360680#osu/793357)), ::Guy::{ user-id=91738 } (won [Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950#osu/793190)). In addition to having their beatmaps bundled into the osu! installer, they also each received $50 USD in osu!store credit, and a unique profile badge as a prize.[^news-mwr-bounties]
 
 **The [osu! Discord server](/wiki/Community/Discord_servers#official) was released to the public on 9 June 2016.** As announced on Twitter, the purpose of the server was to replace the public Slack team that was previously in place due to its lack of moderation controls. Anyone with the link to the Discord server would be able to join and follow along with osu! development, although they would not be able to speak in text channels unless specifically given access to by a moderator.[^ppy-tweet-june-09][^osu-weekly-65]
 
@@ -86,10 +86,10 @@ Reception of the community towards this change was overall mostly positive. Howe
 
 | Placing | Track | Artist | Prize(s) |
 | :-- | :-: | :-: | :-- |
-| **Staff vote** | [HDHR](https://soundcloud.com/billiummoto/hdhr) | [BilliumMoto](https://osu.ppy.sh/users/3862471) | Track featured as an official contest beatmap, $250 USD osu!store credit, unique profile badge |
+| **Staff vote** | [HDHR](https://soundcloud.com/billiummoto/hdhr) | ::BilliumMoto::{ user-id=3862471 } | Track featured as an official contest beatmap, $250 USD osu!store credit, unique profile badge |
 | **First place community vote** | HDHR | BilliumMoto | N/A |
-| **Second place community vote** | [circles! (黒皇帝 Remix)](https://soundcloud.com/dialgadu77/circles-remix) | [Sayaka-](https://osu.ppy.sh/users/398275) | $50 USD osu!store credit |
-| **Third place community vote** | [circles! (happy30 Remix)](https://soundcloud.com/happy30/circles-happy30-remix) | [happy30](https://osu.ppy.sh/users/27767) | Honourable mention |
+| **Second place community vote** | [circles! (黒皇帝 Remix)](https://soundcloud.com/dialgadu77/circles-remix) | ::Sayaka-::{ user-id=398275 } | $50 USD osu!store credit |
+| **Third place community vote** | [circles! (happy30 Remix)](https://soundcloud.com/happy30/circles-happy30-remix) | ::happy30::{ user-id=27767 } | Honourable mention |
 
 Although BilliumMoto won first place in the community vote, the prize for the community vote winner ($50 USD in osu!store credit) was awarded to the runner-up, Sayaka, as BilliumMoto had already won the staff vote and its prizes.[^news-circles-remix-contest-results]
 
@@ -101,9 +101,9 @@ Although BilliumMoto won first place in the community vote, the prize for the co
 
 | Placing | Character | Artist | Prize(s) |
 | :-- | :-: | :-: | :-- |
-| **First place** | Aiko | [JMC](https://osu.ppy.sh/users/774010) | **osu!artist** user title, 12 months of osu!supporter, $50 USD osu!store credit |
-| **Second place** | Alisa | [\[ Glitch \]](https://osu.ppy.sh/users/3781400) | 3 months of osu!supporter |
-| **Third place** | Tama | [crystalsuicine](https://osu.ppy.sh/users/9974) | 1 month of osu!supporter |
+| **First place** | Aiko | ::JMC::{ user-id=774010 } | **osu!artist** user title, 12 months of osu!supporter, $50 USD osu!store credit |
+| **Second place** | Alisa | ::\[ Glitch \]::{ user-id=3781400 } | 3 months of osu!supporter |
+| **Third place** | Tama | ::crystalsuicine::{ user-id=9974 } | 1 month of osu!supporter |
 
 Despite these rankings and rewards, users were reminded that the official mascot of osu!taiko would still be up to a staff vote, regardless of community vote results, although the mascot chosen by staff did not end up being announced by the end of the year.[^news-taiko-mascot-voting][^news-taiko-mascot-voting-results]
 
@@ -117,7 +117,7 @@ Despite these rankings and rewards, users were reminded that the official mascot
 >
 > As osu!next draws closer, we'll be making more efforts to get the community involved again. A big part of the rework involves not only redesigning the website and game client, but also how the community operates as well. We're very big on letting the community guide the course of the game, and it is our hope that by expanding the team with fresh new faces and outlooks, we'll be better able to achieve this going forward.
 
-—[shARPII](https://osu.ppy.sh/users/776257), "GMT Applications Now Open"[^news-gmt-applications]
+—::shARPII::{ user-id=776257 }, "GMT Applications Now Open"[^news-gmt-applications]
 
 The applications that were given out at the time were different from BN (Beatmap Nominator) applications in that simply filling out a form with "good answers" would not guarantee a position: users who were of interest to the GMT would be spoken to by the GMT and further inspection would follow from there. Additionally, there was not a limited number of "spots" available for the GMT. If the team felt someone was qualified for the position, they would add them, regardless of the amount of current members.[^news-gmt-applications]
 

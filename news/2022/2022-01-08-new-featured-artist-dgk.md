@@ -15,7 +15,7 @@ Chinese producer **DGK** has taken notes from rhythm game composition greats lik
 
 We've snagged **9** tracks for [**DGK**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/229), all emitting that perfect *rhythm game song* aura. You know what we're talking about. You know you like it.
 
-See what the hype's all about by watching a replay of [this straight-slider-focused map](https://osu.ppy.sh/beatmapsets/1667057) hosted by [-Sylvari](https://osu.ppy.sh/users/3493804). Once that's done, the rest of these previews are waiting for you:
+See what the hype's all about by watching a replay of [this straight-slider-focused map](https://osu.ppy.sh/beatmapsets/1667057) hosted by ::-Sylvari::{ user-id=3493804 }. Once that's done, the rest of these previews are waiting for you:
 
 <div align="center">
     <video width="85%" controls>
@@ -27,7 +27,7 @@ See what the hype's all about by watching a replay of [this straight-slider-focu
 
 ### nx.
 
-Try [the beatmap from the video above](https://osu.ppy.sh/beatmapsets/1667057) hosted by [-Sylvari](https://osu.ppy.sh/users/3493804)!
+Try [the beatmap from the video above](https://osu.ppy.sh/beatmapsets/1667057) hosted by ::-Sylvari::{ user-id=3493804 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/229/Songs/DGK%20-%20nx..mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Try [the beatmap from the video above](https://osu.ppy.sh/beatmapsets/1667057) h
 
 ### Mujinku-Vacuum Track#ADD8E6-
 
-Or check out [these 4K and 8K osu!mania difficulty spreads](https://osu.ppy.sh/beatmapsets/1151089) hosted by [DCT](https://osu.ppy.sh/users/14059135)!
+Or check out [these 4K and 8K osu!mania difficulty spreads](https://osu.ppy.sh/beatmapsets/1151089) hosted by ::DCT::{ user-id=14059135 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/229/Mujinku-Vacuum%20Track%23ADD8E6-/DGK%20-%20Mujinku-Vacuum%20Track%23ADD8E6-.mp3" type="audio/mpeg">

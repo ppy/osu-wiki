@@ -30,8 +30,8 @@ This article is split into sections. Skip around:
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner + [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [fowwo](https://osu.ppy.sh/users/4547551) | [KOAN Sound & Asa - Fuego](https://osu.ppy.sh/beatmapsets/2211634) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +3 (5 total) |
-| Runner-up | [mintIceCream_](https://osu.ppy.sh/users/13221589) | [Aethoro - Woodfairies](https://osu.ppy.sh/beatmapsets/2211499) | - | +1 (1 total) |
+| Winner + [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | ::fowwo::{ user-id=4547551 } | [KOAN Sound & Asa - Fuego](https://osu.ppy.sh/beatmapsets/2211634) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +3 (5 total) |
+| Runner-up | ::mintIceCream\1::{ user-id=13221589 } | [Aethoro - Woodfairies](https://osu.ppy.sh/beatmapsets/2211499) | - | +1 (1 total) |
 
 #### Top 10
 
@@ -39,7 +39,7 @@ This article is split into sections. Skip around:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/3KhgRmCr-D8" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[Uberzolik](https://osu.ppy.sh/users/1314547), [Shii](https://osu.ppy.sh/users/9186316), [Aeril](https://osu.ppy.sh/users/4334976), [Mattay](https://osu.ppy.sh/users/9748303), [Nachmark](https://osu.ppy.sh/users/17584310), [Ascended](https://osu.ppy.sh/users/4564285), [tokiko](https://osu.ppy.sh/users/2836455), [Bluenation](https://osu.ppy.sh/users/10903500), [MaridiuS](https://osu.ppy.sh/users/4496961), and [mapping](https://osu.ppy.sh/users/30730829) were responsible for screening this month's entries, and [Daycore](https://osu.ppy.sh/users/5596337), [Saki](https://osu.ppy.sh/users/3420746), [Shmiklak](https://osu.ppy.sh/users/5504231), [Bloxi](https://osu.ppy.sh/users/9022451), [KKipalt](https://osu.ppy.sh/users/6889573), [iRedi](https://osu.ppy.sh/users/8005579), and [DeviousPanda](https://osu.ppy.sh/users/4966334) were responsible for judging. Send your thanks to them!
+::Uberzolik::{ user-id=1314547 }, [Shii](https://osu.ppy.sh/users/9186316), ::Aeril::{ user-id=4334976 }, [Mattay](https://osu.ppy.sh/users/9748303), ::Nachmark::{ user-id=17584310 }, [Ascended](https://osu.ppy.sh/users/4564285), ::tokiko::{ user-id=2836455 }, [Bluenation](https://osu.ppy.sh/users/10903500), ::MaridiuS::{ user-id=4496961 }, and [mapping](https://osu.ppy.sh/users/30730829) were responsible for screening this month's entries, and ::Daycore::{ user-id=5596337 }, [Saki](https://osu.ppy.sh/users/3420746), ::Shmiklak::{ user-id=5504231 }, [Bloxi](https://osu.ppy.sh/users/9022451), ::KKipalt::{ user-id=6889573 }, [iRedi](https://osu.ppy.sh/users/8005579), and ::DeviousPanda::{ user-id=4966334 } were responsible for judging. Send your thanks to them!
 
 ### osu!mania results
 
@@ -49,9 +49,9 @@ This article is split into sections. Skip around:
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Lott](https://osu.ppy.sh/users/13821222) | [Masahiro "Godspeed" Aoki - busy come, busy go (instrumental version)](https://osu.ppy.sh/beatmapsets/2211699) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (5 total) |
-| Runner-up | [Silicosis 2](https://osu.ppy.sh/users/18560307) | [Camellia - The Cat Evolved Into The Microwave-proof Cat!](https://osu.ppy.sh/beatmapsets/2211610) | - | +1 (1 total) |
-| [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [Disguise](https://osu.ppy.sh/users/10764851) | [False Noise - Shiver](https://osu.ppy.sh/beatmapsets/2211635) | - | +1 (3 total) |
+| Winner | ::Lott::{ user-id=13821222 } | [Masahiro "Godspeed" Aoki - busy come, busy go (instrumental version)](https://osu.ppy.sh/beatmapsets/2211699) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | +2 (5 total) |
+| Runner-up | ::Silicosis 2::{ user-id=18560307 } | [Camellia - The Cat Evolved Into The Microwave-proof Cat!](https://osu.ppy.sh/beatmapsets/2211610) | - | +1 (1 total) |
+| [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | ::Disguise::{ user-id=10764851 } | [False Noise - Shiver](https://osu.ppy.sh/beatmapsets/2211635) | - | +1 (3 total) |
 
 #### Top 10
 
@@ -59,7 +59,7 @@ This article is split into sections. Skip around:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/WQJAW00qViw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-This month's maps were screened by [gzdongsheng](https://osu.ppy.sh/users/8660315), [Maxus](https://osu.ppy.sh/users/4335785), [Evening](https://osu.ppy.sh/users/2193881), [secXcscX](https://osu.ppy.sh/users/13543418), and [chocomilku-](https://osu.ppy.sh/users/16687756), then the top maps were judged by [Unpredictable](https://osu.ppy.sh/users/7560872), [-mint-](https://osu.ppy.sh/users/8976576), [Paraxia](https://osu.ppy.sh/users/14001000), and [[GB]Rick](https://osu.ppy.sh/users/25263357)!
+This month's maps were screened by ::gzdongsheng::{ user-id=8660315 }, [Maxus](https://osu.ppy.sh/users/4335785), ::Evening::{ user-id=2193881 }, [secXcscX](https://osu.ppy.sh/users/13543418), and ::chocomilku-::{ user-id=16687756 }, then the top maps were judged by ::Unpredictable::{ user-id=7560872 }, [-mint-](https://osu.ppy.sh/users/8976576), ::Paraxia::{ user-id=14001000 }, and [[GB]Rick](https://osu.ppy.sh/users/25263357)!
 
 ## Game modes
 

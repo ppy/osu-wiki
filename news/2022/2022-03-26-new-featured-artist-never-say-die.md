@@ -23,7 +23,7 @@ Words are dumb. Use your ears:
 
 ### Cutline - Die For You (ShockOne Remix)
 
-Check out [this million-play map](https://osu.ppy.sh/beatmapsets/155285) hosted by [Katty Pie](https://osu.ppy.sh/users/1367296) or [the map from the video above](https://osu.ppy.sh/beatmapsets/166435) hosted by [Regou](https://osu.ppy.sh/users/419954)!
+Check out [this million-play map](https://osu.ppy.sh/beatmapsets/155285) hosted by ::Katty Pie::{ user-id=1367296 } or [the map from the video above](https://osu.ppy.sh/beatmapsets/166435) hosted by ::Regou::{ user-id=419954 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/251/Songs/Cutline%20-%20Die%20For%20You%20%28ShockOne%20Remix%29.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [this million-play map](https://osu.ppy.sh/beatmapsets/155285) hosted 
 
 ### Zomboy - Nuclear (Hands Up)
 
-In case you missed our [Zomboy Featured Artist announcement](https://osu.ppy.sh/home/news/2021-12-11-new-featured-artist-zomboy), try out [this other classic beatmap](https://osu.ppy.sh/beatmapsets/449299) hosted by [Shadren](https://osu.ppy.sh/users/745494)!
+In case you missed our [Zomboy Featured Artist announcement](https://osu.ppy.sh/home/news/2021-12-11-new-featured-artist-zomboy), try out [this other classic beatmap](https://osu.ppy.sh/beatmapsets/449299) hosted by ::Shadren::{ user-id=745494 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/251/Songs/Zomboy%20-%20Nuclear%20%28Hands%20Up%29.mp3" type="audio/mpeg">

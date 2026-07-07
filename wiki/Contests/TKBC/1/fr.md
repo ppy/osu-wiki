@@ -66,17 +66,17 @@ Le Taiko Korean Beatmap Contest #1 est organisé par les membres de la communaut
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Gestionnaire | [Hoshikuz](https://osu.ppy.sh/users/9892196), [Civil oath](https://osu.ppy.sh/users/3216107) |
-| Designer | [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| Juge | [Hoshikuz](https://osu.ppy.sh/users/9892196), [Elfin](https://osu.ppy.sh/users/1399551), [sendol](https://osu.ppy.sh/users/4433058) |
+| Gestionnaire | ::Hoshikuz::{ user-id=9892196 }, [Civil oath](https://osu.ppy.sh/users/3216107) |
+| Designer | ::POCARI SWEAT::{ user-id=5082685 } |
+| Juge | ::Hoshikuz::{ user-id=9892196 }, [Elfin](https://osu.ppy.sh/users/1399551), ::sendol::{ user-id=4433058 } |
 
 ## Résultats
 
 | Classement | Mappeurs |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | [Piel](https://osu.ppy.sh/users/8917069) |
-| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | [ddm](https://osu.ppy.sh/users/7910282) |
-| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | [applerss](https://osu.ppy.sh/users/983349) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::Piel::{ user-id=8917069 } |
+| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | ::ddm::{ user-id=7910282 } |
+| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | ::applerss::{ user-id=983349 } |
 
 ## Liens
 

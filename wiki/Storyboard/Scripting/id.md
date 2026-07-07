@@ -25,7 +25,7 @@ Untuk mempelajari topik-topik yang berhubungan dengan *storyboard scripting*, tu
 
 ## Panduan umum
 
-[Doomsday](https://osu.ppy.sh/users/18983) telah menyediakan panduan umum seputar teknik-teknik dasar *storyboard scripting* yang dapat kamu pelajari pada tautan berikut: [osu! - Storyboard Scripting for Beginners (12:22)](http://www.youtube.com/watch?v=UJ1YLDs-bZg)
+::Doomsday::{ user-id=18983 } telah menyediakan panduan umum seputar teknik-teknik dasar *storyboard scripting* yang dapat kamu pelajari pada tautan berikut: [osu! - Storyboard Scripting for Beginners (12:22)](http://www.youtube.com/watch?v=UJ1YLDs-bZg)
 
 ## Rincian teknis
 

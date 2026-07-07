@@ -17,7 +17,7 @@ This means there's **15** gripping new tracks to sink your teeth into, plus two 
 
 ### Einherjar
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/942738) hosted by [Xayah](https://osu.ppy.sh/users/5174427)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/942738) hosted by ::Xayah::{ user-id=5174427 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/69/previews/1898.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ This means there's **15** gripping new tracks to sink your teeth into, plus two 
 
 ### Akayake no Majo
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/1100484) hosted by [Icekalt](https://osu.ppy.sh/users/5410645)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/1100484) hosted by ::Icekalt::{ user-id=5410645 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/69/previews/1908.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ This means there's **15** gripping new tracks to sink your teeth into, plus two 
 
 ### Shiroki Yume wa Madara ni
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/1083468) hosted by [Nao Tomori](https://osu.ppy.sh/users/5364763)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/1083468) hosted by ::Nao Tomori::{ user-id=5364763 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/69/previews/1911.mp3" type="audio/mpeg">

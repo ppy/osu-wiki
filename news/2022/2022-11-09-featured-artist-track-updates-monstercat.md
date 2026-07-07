@@ -42,7 +42,7 @@ Curious how these songs translate to circle clicking? Check out this video highl
 
 ### Pixel Terror - Contra (feat. Sara Skinner)
 
-Experience [this visual spectacle](https://osu.ppy.sh/beatmapsets/1325570) hosted by Elite Storyboarder [VenerableNyanta](https://osu.ppy.sh/users/12243368)!
+Experience [this visual spectacle](https://osu.ppy.sh/beatmapsets/1325570) hosted by Elite Storyboarder ::VenerableNyanta::{ user-id=12243368 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/Pixel%20Terror%20-%20Contra%20(feat.%20Sara%20Skinner).mp3" type="audio/mpeg">
@@ -50,7 +50,7 @@ Experience [this visual spectacle](https://osu.ppy.sh/beatmapsets/1325570) hoste
 
 ### 7 Minutes Dead - The Follower
 
-Enjoy [this massive collab marathon](https://osu.ppy.sh/beatmapsets/842440) hosted by [DeRandom Otaku](https://osu.ppy.sh/users/5156153)!
+Enjoy [this massive collab marathon](https://osu.ppy.sh/beatmapsets/842440) hosted by ::DeRandom Otaku::{ user-id=5156153 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/7%20Minutes%20Dead%20-%20The%20Follower.mp3" type="audio/mpeg">
@@ -58,7 +58,7 @@ Enjoy [this massive collab marathon](https://osu.ppy.sh/beatmapsets/842440) host
 
 ### Glacier - Neos
 
-Add fruit to your diet by playing [this osu!catch map](https://osu.ppy.sh/beatmapsets/771096) hosted by [WildOne94](https://osu.ppy.sh/users/3482692)!
+Add fruit to your diet by playing [this osu!catch map](https://osu.ppy.sh/beatmapsets/771096) hosted by ::WildOne94::{ user-id=3482692 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/Glacier%20-%20Neos.mp3" type="audio/mpeg">
@@ -66,7 +66,7 @@ Add fruit to your diet by playing [this osu!catch map](https://osu.ppy.sh/beatma
 
 ### Zero Hero - Bass Drop
 
-Bash drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1381442) hosted by [Ulqui](https://osu.ppy.sh/users/1263669)!
+Bash drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1381442) hosted by ::Ulqui::{ user-id=1263669 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/Zero%20Hero%20-%20Bass%20Drop.mp3" type="audio/mpeg">
@@ -74,7 +74,7 @@ Bash drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1381442) hoste
 
 ### Astronaut - Champions (feat. Harry Brooks Jnr)
 
-Play through [this full difficulty spread](https://osu.ppy.sh/beatmapsets/889441) hosted by [Come\[Back\]Home](https://osu.ppy.sh/users/1131716)!
+Play through [this full difficulty spread](https://osu.ppy.sh/beatmapsets/889441) hosted by ::Come\[Back\]Home::{ user-id=1131716 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/Astronaut%20-%20Champions%20(feat.%20Harry%20Brooks%20Jnr).mp3" type="audio/mpeg">
@@ -82,7 +82,7 @@ Play through [this full difficulty spread](https://osu.ppy.sh/beatmapsets/889441
 
 ### Dirtyphonics & Sullivan King - Sight of Your Soul
 
-Or play through [this other full difficulty spread](https://osu.ppy.sh/beatmapsets/730205) hosted yet again by [Come\[Back\]Home](https://osu.ppy.sh/users/1131716)!
+Or play through [this other full difficulty spread](https://osu.ppy.sh/beatmapsets/730205) hosted yet again by ::Come\[Back\]Home::{ user-id=1131716 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/Dirtyphonics%20%26%20Sullivan%20King%20-%20Sight%20of%20Your%20Soul.mp3" type="audio/mpeg">
@@ -90,7 +90,7 @@ Or play through [this other full difficulty spread](https://osu.ppy.sh/beatmapse
 
 ### Eminence & Soulero - Invisible (feat. Mari-Anna)
 
-Try playing [this marathon](https://osu.ppy.sh/beatmapsets/374094) hosted by [Marmowka](https://osu.ppy.sh/users/2907237) or [this harder marathon](https://osu.ppy.sh/beatmapsets/782868) hosted by [Ion](https://osu.ppy.sh/users/4865030)!
+Try playing [this marathon](https://osu.ppy.sh/beatmapsets/374094) hosted by ::Marmowka::{ user-id=2907237 } or [this harder marathon](https://osu.ppy.sh/beatmapsets/782868) hosted by ::Ion::{ user-id=4865030 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/Eminence%20%26%20Soulero%20-%20Invisible%20(feat.%20Mari-Anna).mp3" type="audio/mpeg">
@@ -98,7 +98,7 @@ Try playing [this marathon](https://osu.ppy.sh/beatmapsets/374094) hosted by [Ma
 
 ### Melano - On Fire
 
-Relive osu! history with [this symmetry-based map](https://osu.ppy.sh/beatmapsets/735319) hosted by [Nyukai](https://osu.ppy.sh/users/1721995)!
+Relive osu! history with [this symmetry-based map](https://osu.ppy.sh/beatmapsets/735319) hosted by ::Nyukai::{ user-id=1721995 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/Melano%20-%20On%20Fire.mp3" type="audio/mpeg">
@@ -106,7 +106,7 @@ Relive osu! history with [this symmetry-based map](https://osu.ppy.sh/beatmapset
 
 ### Julian Calor - You Might Get Lost
 
-Try out [this map](https://osu.ppy.sh/beatmapsets/1177530) hosted by [Hantrik](https://osu.ppy.sh/users/10059654)!
+Try out [this map](https://osu.ppy.sh/beatmapsets/1177530) hosted by ::Hantrik::{ user-id=10059654 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/Julian%20Calor%20-%20You%20Might%20Get%20Lost.mp3" type="audio/mpeg">
@@ -114,7 +114,7 @@ Try out [this map](https://osu.ppy.sh/beatmapsets/1177530) hosted by [Hantrik](h
 
 ### WRLD - By Design
 
-And here's [one more osu!catch map](https://osu.ppy.sh/beatmapsets/672806) hosted by [WildOne94](https://osu.ppy.sh/users/3482692)!
+And here's [one more osu!catch map](https://osu.ppy.sh/beatmapsets/672806) hosted by ::WildOne94::{ user-id=3482692 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/WRLD%20-%20By%20Design.mp3" type="audio/mpeg">
@@ -122,7 +122,7 @@ And here's [one more osu!catch map](https://osu.ppy.sh/beatmapsets/672806) hoste
 
 ### Seven Lions & Echos - Cold Skin
 
-Check out [this osu! map](https://osu.ppy.sh/beatmapsets/791658) hosted by [Fursum](https://osu.ppy.sh/users/4865030) or [this osu!catch map](https://osu.ppy.sh/beatmapsets/946446) hosted by [-Ken](https://osu.ppy.sh/users/4430811)!
+Check out [this osu! map](https://osu.ppy.sh/beatmapsets/791658) hosted by ::Fursum::{ user-id=4865030 } or [this osu!catch map](https://osu.ppy.sh/beatmapsets/946446) hosted by ::-Ken::{ user-id=4430811 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/Seven%20Lions%20%26%20Echos%20-%20Cold%20Skin.mp3" type="audio/mpeg">
@@ -130,7 +130,7 @@ Check out [this osu! map](https://osu.ppy.sh/beatmapsets/791658) hosted by [Furs
 
 ### TwoThirds - Breathe
 
-Play [this osu! x osu!taiko mapset](https://osu.ppy.sh/beatmapsets/124458) hosted by [Secretpipe](https://osu.ppy.sh/users/2208964)!
+Play [this osu! x osu!taiko mapset](https://osu.ppy.sh/beatmapsets/124458) hosted by ::Secretpipe::{ user-id=2208964 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/TwoThirds%20-%20Breathe.mp3" type="audio/mpeg">
@@ -138,7 +138,7 @@ Play [this osu! x osu!taiko mapset](https://osu.ppy.sh/beatmapsets/124458) hoste
 
 ### TwoThirds - Bring it Back
 
-Or experience [this osu! map](https://osu.ppy.sh/beatmapsets/333019) hosted by [RyoKazuka](https://osu.ppy.sh/users/6258586)!
+Or experience [this osu! map](https://osu.ppy.sh/beatmapsets/333019) hosted by ::RyoKazuka::{ user-id=6258586 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/TwoThirds%20-%20Bring%20it%20Back.mp3" type="audio/mpeg">

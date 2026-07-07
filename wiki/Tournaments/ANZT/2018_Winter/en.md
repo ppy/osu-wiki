@@ -2,7 +2,7 @@
 
 ![ANZT 5W logo](img/logo.jpg)
 
-The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a 1v1 double elimination osu! tournament hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475) and ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the sixth instalment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a 1v1 double elimination osu! tournament hosted by ::{ flag=NZ }:: ::Diony::{ user-id=4294475 } and ::{ flag=AU }:: ::EmeraldStar82::{ user-id=3772135 }. It was the sixth instalment of the Aus/NZ tourneys.
 
 ## Tournament schedule
 
@@ -29,13 +29,13 @@ The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a 1v1 doub
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
-| Scheduler | ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
-| Commentator | ::{ flag=AU }:: [Kor3ry3-Kun](https://osu.ppy.sh/users/6279567), ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044), ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086), ::{ flag=AU }:: [Takagaki](https://osu.ppy.sh/users/3698691), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203) |
-| Streamer | ::{ flag=AU }:: [Astellis](https://osu.ppy.sh/users/8369780), ::{ flag=AU }:: [Bauxe](https://osu.ppy.sh/users/1881685), ::{ flag=AU }:: [pewdekz](https://osu.ppy.sh/users/5754859) |
-| Referee | ::{ flag=AU }:: [loler123903](https://osu.ppy.sh/users/8034438), ::{ flag=AU }:: [Astellis](https://osu.ppy.sh/users/8369780), ::{ flag=AU }:: [Soulskyeflare](https://osu.ppy.sh/users/8264319), ::{ flag=AU }:: [awesometa](https://osu.ppy.sh/users/7114425) |
-| Mappool selector | ::{ flag=AU }:: [Elsa Valentine](https://osu.ppy.sh/users/4525153), ::{ flag=US }:: [LowAccuracySS](https://osu.ppy.sh/users/7306763), ::{ flag=AU }:: [Quite Cynical](https://osu.ppy.sh/users/3361154), ::{ flag=AT }:: [Shiinoha Kotone](https://osu.ppy.sh/users/5712451), ::{ flag=US }:: [noctisv_v](https://osu.ppy.sh/users/6775083), ::{ flag=CA }:: [Legless](https://osu.ppy.sh/users/3224243) |
-| Designer | ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013) |
+| Manager | ::{ flag=NZ }:: ::Diony::{ user-id=4294475 }, ::{ flag=AU }:: ::EmeraldStar82::{ user-id=3772135 } |
+| Scheduler | ::{ flag=AU }:: ::EmeraldStar82::{ user-id=3772135 } |
+| Commentator | ::{ flag=AU }:: ::Kor3ry3-Kun::{ user-id=6279567 }, ::{ flag=AU }:: ::Dumii::{ user-id=3068044 }, ::{ flag=AU }:: ::Jordan The Bear::{ user-id=7477458 }, ::{ flag=AU }:: ::Monk Gyatso::{ user-id=4012086 }, ::{ flag=AU }:: ::Takagaki::{ user-id=3698691 }, ::{ flag=AU }:: ::Kano::{ user-id=3036203 } |
+| Streamer | ::{ flag=AU }:: ::Astellis::{ user-id=8369780 }, ::{ flag=AU }:: ::Bauxe::{ user-id=1881685 }, ::{ flag=AU }:: ::pewdekz::{ user-id=5754859 } |
+| Referee | ::{ flag=AU }:: ::loler123903::{ user-id=8034438 }, ::{ flag=AU }:: ::Astellis::{ user-id=8369780 }, ::{ flag=AU }:: ::Soulskyeflare::{ user-id=8264319 }, ::{ flag=AU }:: ::awesometa::{ user-id=7114425 } |
+| Mappool selector | ::{ flag=AU }:: ::Elsa Valentine::{ user-id=4525153 }, ::{ flag=US }:: ::LowAccuracySS::{ user-id=7306763 }, ::{ flag=AU }:: ::Quite Cynical::{ user-id=3361154 }, ::{ flag=AT }:: ::Shiinoha Kotone::{ user-id=5712451 }, ::{ flag=US }:: ::noctisv\1v::{ user-id=6775083 }, ::{ flag=CA }:: ::Legless::{ user-id=3224243 } |
+| Designer | ::{ flag=US }:: ::Monko2k::{ user-id=4852013 } |
 
 ## Links
 
@@ -50,9 +50,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: ::Dumii::{ user-id=3068044 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: ::-Machine-::{ user-id=5459981 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: ::Blobby3000::{ user-id=6916774 } |
 
 All individual match results can be found on the Challonge page linked above.
 

@@ -25,8 +25,8 @@ Curious how the underground metal circuit intersects with osu!? Check out the vi
 
 Try the maps from the video above for yourself:
 
-- [osu! beatmap](https://osu.ppy.sh/beatmapsets/1612960) hosted by [Aurhight](https://osu.ppy.sh/users/7761710)
-- [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1582048) hosted by [Cookie_Tree](https://osu.ppy.sh/users/502722)
+- [osu! beatmap](https://osu.ppy.sh/beatmapsets/1612960) hosted by ::Aurhight::{ user-id=7761710 }
+- [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1582048) hosted by ::Cookie\1Tree::{ user-id=502722 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/237/The%20Winter%20Way/Atavistia%20-%20Through%20The%20Hollow%20Raven%27s%20Eyes.mp3" type="audio/mpeg">

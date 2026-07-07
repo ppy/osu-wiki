@@ -7,7 +7,7 @@ tags:
 
 ![Logo de rajio](img/logo.png)
 
-**rajio.ppy.sh**, también conocido como **rajio**, era un servicio de radio en línea basado en solicitudes gestionado y alojado por ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) como un proyecto paralelo a osu! en 2008. Dicho servicio le permitía a la gente poner en cola las canciones de su elección para que se reprodujeran en una emisión global.
+**rajio.ppy.sh**, también conocido como **rajio**, era un servicio de radio en línea basado en solicitudes gestionado y alojado por ::{ flag=AU }:: ::peppy::{ user-id=2 } como un proyecto paralelo a osu! en 2008. Dicho servicio le permitía a la gente poner en cola las canciones de su elección para que se reprodujeran en una emisión global.
 
 ## Servicio
 
@@ -17,7 +17,7 @@ Como rajio no era compatible con la búsqueda de canciones de fuentes externas c
 
 ## Cierre definitivo y breve reactivación
 
-rajio estuvo en funcionamiento durante un par de años antes de cerrar en 2010.[^rajio-out-of-service-ref] Un año después, debido al creciente interés de la comunidad, ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) resucitó rajio junto con un nuevo canal dedicado en el [chat de osu!](/wiki/Community/Internet_Relay_Chat), llamado `#rajio`.[^rajio-revival-ref1][^rajio-revival-ref2] Esta reactivación solo duró un breve periodo de tiempo antes de que el servicio y el canal del chat desaparecieran para siempre.
+rajio estuvo en funcionamiento durante un par de años antes de cerrar en 2010.[^rajio-out-of-service-ref] Un año después, debido al creciente interés de la comunidad, ::{ flag=AU }:: ::peppy::{ user-id=2 } resucitó rajio junto con un nuevo canal dedicado en el [chat de osu!](/wiki/Community/Internet_Relay_Chat), llamado `#rajio`.[^rajio-revival-ref1][^rajio-revival-ref2] Esta reactivación solo duró un breve periodo de tiempo antes de que el servicio y el canal del chat desaparecieran para siempre.
 
 ## Referencias
 

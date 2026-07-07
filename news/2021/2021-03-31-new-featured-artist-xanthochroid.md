@@ -13,7 +13,7 @@ Crafting their own cinematic metal universe with back to back masterpieces, **Xa
 
 **16** of these mood-rich tracks are now available for your mapping experimentation, all from [**Xanthochroid**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/152`).
 
-Something you might immediately notice is that these tracks are (mostly) catered towards the highest echelon of difficulty. To even things out, [eiri-](https://osu.ppy.sh/users/3388410) and [Zelq](https://osu.ppy.sh/users/8953955) of the Mappers' Guild have been hard at work setting up a full difficulty spread for [*Xanthochroid - The Sound of Hunger Rises*](https://osu.ppy.sh/beatmapsets/1335143), allowing players of all skill levels to engage with this glorious 6 minute track.
+Something you might immediately notice is that these tracks are (mostly) catered towards the highest echelon of difficulty. To even things out, ::eiri-::{ user-id=3388410 } and [Zelq](https://osu.ppy.sh/users/8953955) of the Mappers' Guild have been hard at work setting up a full difficulty spread for [*Xanthochroid - The Sound of Hunger Rises*](https://osu.ppy.sh/beatmapsets/1335143), allowing players of all skill levels to engage with this glorious 6 minute track.
 
 Check that out, along with a video showcasing the range of intensity in **Xanthochroid**'s works, plus a whole bunch of other cool maps:
 
@@ -25,7 +25,7 @@ Check that out, along with a video showcasing the range of intensity in **Xantho
 
 ### In Putris Stagnum
 
-Play [the map in the video above](https://osu.ppy.sh/beatmapsets/968625#osu/2026764) created by [Mun](https://osu.ppy.sh/users/6699165) and [ItsWinter](https://osu.ppy.sh/users/6381153)!
+Play [the map in the video above](https://osu.ppy.sh/beatmapsets/968625#osu/2026764) created by ::Mun::{ user-id=6699165 } and [ItsWinter](https://osu.ppy.sh/users/6381153)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/152/Blessed%20He%20With%20Boils/Xanthochroid%20-%20In%20Putris%20Stagnum.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Play [the map in the video above](https://osu.ppy.sh/beatmapsets/968625#osu/2026
 
 ### The Sound Which Has No Name
 
-Try out [this map](https://osu.ppy.sh/beatmapsets/1018888) created by top player [Dereban](https://osu.ppy.sh/users/4882979)!
+Try out [this map](https://osu.ppy.sh/beatmapsets/1018888) created by top player ::Dereban::{ user-id=4882979 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/152/Of%20Erthe%20and%20Axen%20Act%20I/Xanthochroid%20-%20The%20Sound%20Which%20Has%20No%20Name.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Try out [this map](https://osu.ppy.sh/beatmapsets/1018888) created by top player
 
 ### Of Gods Bereft of Grace
 
-Check out [this map](https://osu.ppy.sh/beatmapsets/961206) also created by [Mun](https://osu.ppy.sh/users/6699165) and [ItsWinter](https://osu.ppy.sh/users/6381153)!
+Check out [this map](https://osu.ppy.sh/beatmapsets/961206) also created by ::Mun::{ user-id=6699165 } and [ItsWinter](https://osu.ppy.sh/users/6381153)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/152/Of%20Erthe%20and%20Axen%20Act%20II/Xanthochroid%20-%20Of%20Gods%20Bereft%20of%20Grace.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Check out [this map](https://osu.ppy.sh/beatmapsets/961206) also created by [Mun
 
 ### Of Strength and the Lust for Power
 
-Check out [this map](https://osu.ppy.sh/beatmapsets/1069086) mapped by [ItsWinter](https://osu.ppy.sh/users/6381153), who seems to really like this band.
+Check out [this map](https://osu.ppy.sh/beatmapsets/1069086) mapped by ::ItsWinter::{ user-id=6381153 }, who seems to really like this band.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/152/Of%20Erthe%20and%20Axen%20Act%20II/Xanthochroid%20-%20Of%20Strength%20and%20the%20Lust%20for%20Power.mp3" type="audio/mpeg">
@@ -57,7 +57,7 @@ Check out [this map](https://osu.ppy.sh/beatmapsets/1069086) mapped by [ItsWinte
 
 ### Of Aching Empty Pain
 
-Play [yet another map](https://osu.ppy.sh/beatmapsets/1151696) by yet another top player: [SWAGGYSWAGSTER](https://osu.ppy.sh/users/7813296)!
+Play [yet another map](https://osu.ppy.sh/beatmapsets/1151696) by yet another top player: ::SWAGGYSWAGSTER::{ user-id=7813296 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/152/Of%20Erthe%20and%20Axen%20Act%20II/Xanthochroid%20-%20Of%20Aching%20Empty%20Pain.mp3" type="audio/mpeg">
@@ -65,7 +65,7 @@ Play [yet another map](https://osu.ppy.sh/beatmapsets/1151696) by yet another to
 
 ### Blessed He With Boils
 
-Delve into [this map](https://osu.ppy.sh/beatmapsets/1277834) hosted by [AsaBen](https://osu.ppy.sh/users/7867617)!
+Delve into [this map](https://osu.ppy.sh/beatmapsets/1277834) hosted by ::AsaBen::{ user-id=7867617 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/152/Blessed%20He%20With%20Boils/Xanthochroid%20-%20Blessed%20He%20With%20Boils.mp3" type="audio/mpeg">
@@ -73,7 +73,7 @@ Delve into [this map](https://osu.ppy.sh/beatmapsets/1277834) hosted by [AsaBen]
 
 ### The Sound of Hunger Rises
 
-And in case you missed it earlier, try [this full difficulty spread](https://osu.ppy.sh/beatmapsets/1335143) created by [eiri-](https://osu.ppy.sh/users/3388410) and [Zelq](https://osu.ppy.sh/users/8953955) of the Mappers' Guild!
+And in case you missed it earlier, try [this full difficulty spread](https://osu.ppy.sh/beatmapsets/1335143) created by ::eiri-::{ user-id=3388410 } and [Zelq](https://osu.ppy.sh/users/8953955) of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/152/Of%20Erthe%20and%20Axen%20Act%20I/Xanthochroid%20-%20The%20Sound%20of%20Hunger%20Rises.mp3" type="audio/mpeg">

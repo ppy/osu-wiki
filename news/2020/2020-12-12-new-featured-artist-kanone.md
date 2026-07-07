@@ -13,7 +13,7 @@ Merging themes from the Japanese club scene with ever-so-familiar rhythm game so
 
 We managed to snag **13** new tracks, most of which are ~2 minutes long and all of which are available to map from [**kanone's** Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/123)!
 
-Curious how these songs hold up in the mapping world? We've got a few mapsets to showcase, including a video preview for [kanone - Ground Z.E.R.O.](https://osu.ppy.sh/beatmapsets/1281379) hosted by [DTM9 Nowa](https://osu.ppy.sh/users/5428909) of the Mappers' Guild! Check them all out below:
+Curious how these songs hold up in the mapping world? We've got a few mapsets to showcase, including a video preview for [kanone - Ground Z.E.R.O.](https://osu.ppy.sh/beatmapsets/1281379) hosted by ::DTM9 Nowa::{ user-id=5428909 } of the Mappers' Guild! Check them all out below:
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ Curious how these songs hold up in the mapping world? We've got a few mapsets to
 
 ### CO5M1C R4ILR0AD
 
-Play through this [osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1278500#taiko/2656061) by [Hivie](https://osu.ppy.sh/users/14102976)!
+Play through this [osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1278500#taiko/2656061) by ::Hivie::{ user-id=14102976 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/123/Songs/kanone%20-%20CO5M1C%20R4ILR0AD.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Play through this [osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/127850
 
 ### The Sea of Memory
 
-Enjoy game with [rrtyui](https://osu.ppy.sh/users/352328)'s beautiful [loved osu! map](https://osu.ppy.sh/beatmapsets/395278)!
+Enjoy game with ::rrtyui::{ user-id=352328 }'s beautiful [loved osu! map](https://osu.ppy.sh/beatmapsets/395278)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/123/Songs/kanone%20-%20The%20Sea%20of%20Memory.mp3" type="audio/mpeg">

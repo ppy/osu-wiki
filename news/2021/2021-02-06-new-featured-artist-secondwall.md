@@ -23,7 +23,7 @@ Let's cut to the chase. You want to hear what you'll be mapping 5 minutes from n
 
 ### Boku wa Boku de shika Nakute
 
-As seen in the video above, give [this osu! map](https://osu.ppy.sh/beatmapsets/1356447) by [-Aqua](https://osu.ppy.sh/users/7150015) a try! Fruit catchers can also opt for [this osu!catch map](https://osu.ppy.sh/beatmapsets/1334097) by [Nelly](https://osu.ppy.sh/users/4741164).
+As seen in the video above, give [this osu! map](https://osu.ppy.sh/beatmapsets/1356447) by ::-Aqua::{ user-id=7150015 } a try! Fruit catchers can also opt for [this osu!catch map](https://osu.ppy.sh/beatmapsets/1334097) by ::Nelly::{ user-id=4741164 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/137/Beautiful%20Lie/SECONDWALL%20-%20Boku%20wa%20Boku%20de%20shika%20Nakute.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ As seen in the video above, give [this osu! map](https://osu.ppy.sh/beatmapsets/
 
 ### Natsu no Owari
 
-Or play [this shorter osu! map](https://osu.ppy.sh/beatmapsets/1365122) by [Seolv](https://osu.ppy.sh/users/8067876)!
+Or play [this shorter osu! map](https://osu.ppy.sh/beatmapsets/1365122) by ::Seolv::{ user-id=8067876 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/137/Beautiful%20Lie/SECONDWALL%20-%20Natsu%20no%20Owari.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Or play [this shorter osu! map](https://osu.ppy.sh/beatmapsets/1365122) by [Seol
 
 ### Beautiful Lie
 
-Try out [this osu! map](https://osu.ppy.sh/beatmapsets/1337432) by [Cris-](https://osu.ppy.sh/users/6175280)!
+Try out [this osu! map](https://osu.ppy.sh/beatmapsets/1337432) by ::Cris-::{ user-id=6175280 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/137/Beautiful%20Lie/SECONDWALL%20-%20Beautiful%20Lie.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ Try out [this osu! map](https://osu.ppy.sh/beatmapsets/1337432) by [Cris-](https
 
 ### Light
 
-Check out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1318825) by [Volta](https://osu.ppy.sh/users/4154071)!
+Check out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1318825) by ::Volta::{ user-id=4154071 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/137/Beautiful%20Lie/SECONDWALL%20-%20Light.mp3" type="audio/mpeg">

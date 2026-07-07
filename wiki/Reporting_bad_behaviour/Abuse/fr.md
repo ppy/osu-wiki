@@ -14,7 +14,7 @@ Si vous vous sentez suffisamment mal à l'aise pour lire cette page, veuillez no
 
 Nous appliquons une tolérance zéro à l'égard de toute forme d'attention ou d'avances sexuelles non désirées au sein de cette communauté.
 
-L'adresse électronique d'abus n'est vue que par [peppy](https://osu.ppy.sh/users/2) (le créateur du jeu).
+L'adresse électronique d'abus n'est vue que par ::peppy::{ user-id=2 } (le créateur du jeu).
 
 Rien de ce que vous envoyez à [abuse@ppy.sh](mailto:abuse@ppy.sh) ne sera jamais partagé avec quelqu'un d'autre que lui.
 
@@ -38,7 +38,7 @@ Si vous estimez que les remarques/avances étaient très inappropriées ou que v
 
 Pour ce faire, cliquez sur le bouton `Signaler un message` dans le coin supérieur droit du message du forum.
 
-Alternativement, cliquez sur le nom d'utilisateur d'un membre de la GMT dans la liste de cette page. Vous accéderez ainsi à son profil. Si vous ne savez pas sur qui cliquer, utilisez simplement [ce lien à la place](https://osu.ppy.sh/users/5999631).
+Alternativement, cliquez sur le nom d'utilisateur d'un membre de la GMT dans la liste de cette page. Vous accéderez ainsi à son profil. Si vous ne savez pas sur qui cliquer, utilisez simplement ::ce lien à la place::{ user-id=5999631 }.
 
 Cliquez sur le bouton avec une enveloppe juste en dessous du drapeau du pays de l'utilisateur. Vous accéderez ainsi à l'écran de tchat.
 

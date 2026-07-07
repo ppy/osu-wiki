@@ -17,7 +17,7 @@ Experience what the self-proclaimed *Sound Shaper from Another Dimension* has to
 
 ### [Kyutatsuki - Dimension Wars](https://assets.ppy.sh/artists/476/Dimension%20Wars/Kyutatsuki%20-%20Dimension%20Wars.osz)
 
-Try out [the map from the preview below](https://osu.ppy.sh/beatmapsets/2097269) by [gzdongsheng](https://osu.ppy.sh/users/8660315) or a [shorter cut version](https://osu.ppy.sh/beatmapsets/2029816) hosted by [Polarin](https://osu.ppy.sh/users/15104680)!
+Try out [the map from the preview below](https://osu.ppy.sh/beatmapsets/2097269) by ::gzdongsheng::{ user-id=8660315 } or a [shorter cut version](https://osu.ppy.sh/beatmapsets/2029816) hosted by ::Polarin::{ user-id=15104680 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -27,7 +27,7 @@ Try out [the map from the preview below](https://osu.ppy.sh/beatmapsets/2097269)
 
 ### [kanemiko & Kyutatsuki & Aoi - Fractal Vertex](https://assets.ppy.sh/artists/476/Songs/kanemiko%20%26%20Kyutatsuki%20%26%20Aoi%20-%20Fractal%20Vertex.osz)
 
-Play through [this map](https://osu.ppy.sh/beatmapsets/2253784#mania/4793996) from [osu!mania 4K World Cup 2024](/wiki/Tournaments/MWC/2024_4K) by [-mint-](https://osu.ppy.sh/users/8976576), [guden](https://osu.ppy.sh/users/11626065), [Toaph Daddy](https://osu.ppy.sh/users/7616811), [elexire](https://osu.ppy.sh/users/9206093), and [MyZterioN-](https://osu.ppy.sh/users/8521723)!
+Play through [this map](https://osu.ppy.sh/beatmapsets/2253784#mania/4793996) from [osu!mania 4K World Cup 2024](/wiki/Tournaments/MWC/2024_4K) by ::-mint-::{ user-id=8976576 }, [guden](https://osu.ppy.sh/users/11626065), ::Toaph Daddy::{ user-id=7616811 }, [elexire](https://osu.ppy.sh/users/9206093), and ::MyZterioN-::{ user-id=8521723 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/476/Songs/kanemiko%20%26%20Kyutatsuki%20%26%20Aoi%20-%20Fractal%20Vertex.mp3">
@@ -35,7 +35,7 @@ Play through [this map](https://osu.ppy.sh/beatmapsets/2253784#mania/4793996) fr
 
 ### [Kyutatsuki - SOUND ARCHITECT](https://assets.ppy.sh/artists/476/Songs/Kyutatsuki%20-%20SOUND%20ARCHITECT.osz)
 
-And if you're still up for more challenge, come across [this 8.78☆ tiebreaker map](https://osu.ppy.sh/beatmapsets/2180470) from [Corsace Closed 2024](https://osu.ppy.sh/beatmaps/artists/381) by [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654) or [this 8.56☆ osu!catch map](https://osu.ppy.sh/beatmapsets/2198809#fruits/4653132) by [GiGas](https://osu.ppy.sh/users/7300747) and [Jemzuu](https://osu.ppy.sh/users/7890134)!
+And if you're still up for more challenge, come across [this 8.78☆ tiebreaker map](https://osu.ppy.sh/beatmapsets/2180470) from [Corsace Closed 2024](https://osu.ppy.sh/beatmaps/artists/381) by ::9ami::{ user-id=1499997 } and [oTwinkle](https://osu.ppy.sh/users/15095654) or [this 8.56☆ osu!catch map](https://osu.ppy.sh/beatmapsets/2198809#fruits/4653132) by ::GiGas::{ user-id=7300747 } and [Jemzuu](https://osu.ppy.sh/users/7890134)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/476/Songs/Kyutatsuki%20-%20SOUND%20ARCHITECT.mp3">

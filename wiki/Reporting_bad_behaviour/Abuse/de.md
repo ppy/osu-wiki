@@ -8,7 +8,7 @@ Wenn es dir unangenehm genug ist, diese Seite zu lesen, kontaktiere uns bitte so
 
 Wir haben null Toleranz gegenüber jeglicher Art von unerwünschter sexueller Belästigung oder Annäherung in dieser Community.
 
-Die E-Mail-Adresse für Missbrauch wird nur von [peppy](https://osu.ppy.sh/users/2) (dem Erfinder des Spiels) angesehen.
+Die E-Mail-Adresse für Missbrauch wird nur von ::peppy::{ user-id=2 } (dem Erfinder des Spiels) angesehen.
 
 Nichts, was du an [abuse@ppy.sh](mailto:abuse@ppy.sh) sendest, wird jemals mit jemand anderem als ihm geteilt werden.
 
@@ -32,7 +32,7 @@ Wenn du der Meinung bist, dass die Bemerkungen/Annäherungen höchst unangemesse
 
 Klicke dazu auf den Button `Beitrag melden` in der rechten oberen Ecke des Forenbeitrags.
 
-Alternativ kannst du auf den Benutzernamen eines beliebigen GMT-Mitglieds in der Liste auf dieser Seite klicken. Dadurch gelangst du zu dessen Profil. Wenn du unsicher bist, auf wen du klicken sollst, verwende stattdessen einfach [diesen Link](https://osu.ppy.sh/users/5999631).
+Alternativ kannst du auf den Benutzernamen eines beliebigen GMT-Mitglieds in der Liste auf dieser Seite klicken. Dadurch gelangst du zu dessen Profil. Wenn du unsicher bist, auf wen du klicken sollst, verwende stattdessen einfach ::diesen Link::{ user-id=5999631 }.
 
 Klicke auf die Schaltfläche mit einem Briefumschlag direkt unter der Landesflagge des Benutzers. Damit gelangst du zum Chat-Fenster.
 

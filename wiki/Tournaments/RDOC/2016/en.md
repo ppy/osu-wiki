@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2016 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2016** (***RDOC 2016***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). It was the second instalment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2016** (***RDOC 2016***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: ::Mayoi Hachikuji::{ user-id=2114273 }. It was the second instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -37,12 +37,12 @@ The Royal Danish osu!Cup 2016 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=DK }:: [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273) |
-| Mappool selector | ::{ flag=DK }:: [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ::{ flag=DK }:: [Tonarinototoro](https://osu.ppy.sh/users/2678812), ::{ flag=DK }:: [-Crab-](https://osu.ppy.sh/users/2563435), ::{ flag=DK }:: [Flyville](https://osu.ppy.sh/users/6124808) |
-| Referee | ::{ flag=DK }:: [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ::{ flag=DK }:: [Kazutakee](https://osu.ppy.sh/users/2637514), ::{ flag=DK }:: [Tonarinototoro](https://osu.ppy.sh/users/2678812), ::{ flag=DK }:: [-Crab-](https://osu.ppy.sh/users/2563435), ::{ flag=DK }:: [Flyville](https://osu.ppy.sh/users/6124808) |
-| Other helpers | ::{ flag=DK }:: [John Cena](https://osu.ppy.sh/users/2958963), ::{ flag=DK }:: [Hudda](https://osu.ppy.sh/users/4103629) |
-| Designer | ::{ flag=DK }:: [Tonarinototoro](https://osu.ppy.sh/users/2678812) |
-| Streamer/Commentator | ::{ flag=DK }:: [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273), ::{ flag=DK }:: [Flyville](https://osu.ppy.sh/users/6124808), ::{ flag=DK }:: [Tonarinototoro](https://osu.ppy.sh/users/2678812), ::{ flag=DK }:: [6Lu6Ci6Fer](https://osu.ppy.sh/users/7229384), ::{ flag=DK }:: [Kazutakee](https://osu.ppy.sh/users/2637514), ::{ flag=DK }:: [-Crab-](https://osu.ppy.sh/users/2563435), ::{ flag=DK }:: [John Cena](https://osu.ppy.sh/users/2958963), ::{ flag=DK }:: [Hudda](https://osu.ppy.sh/users/4103629) |
+| Manager | ::{ flag=DK }:: ::Mayoi Hachikuji::{ user-id=2114273 } |
+| Mappool selector | ::{ flag=DK }:: ::Mayoi Hachikuji::{ user-id=2114273 }, ::{ flag=DK }:: ::Tonarinototoro::{ user-id=2678812 }, ::{ flag=DK }:: ::-Crab-::{ user-id=2563435 }, ::{ flag=DK }:: ::Flyville::{ user-id=6124808 } |
+| Referee | ::{ flag=DK }:: ::Mayoi Hachikuji::{ user-id=2114273 }, ::{ flag=DK }:: ::Kazutakee::{ user-id=2637514 }, ::{ flag=DK }:: ::Tonarinototoro::{ user-id=2678812 }, ::{ flag=DK }:: ::-Crab-::{ user-id=2563435 }, ::{ flag=DK }:: ::Flyville::{ user-id=6124808 } |
+| Other helpers | ::{ flag=DK }:: ::John Cena::{ user-id=2958963 }, ::{ flag=DK }:: ::Hudda::{ user-id=4103629 } |
+| Designer | ::{ flag=DK }:: ::Tonarinototoro::{ user-id=2678812 } |
+| Streamer/Commentator | ::{ flag=DK }:: ::Mayoi Hachikuji::{ user-id=2114273 }, ::{ flag=DK }:: ::Flyville::{ user-id=6124808 }, ::{ flag=DK }:: ::Tonarinototoro::{ user-id=2678812 }, ::{ flag=DK }:: ::6Lu6Ci6Fer::{ user-id=7229384 }, ::{ flag=DK }:: ::Kazutakee::{ user-id=2637514 }, ::{ flag=DK }:: ::-Crab-::{ user-id=2563435 }, ::{ flag=DK }:: ::John Cena::{ user-id=2958963 }, ::{ flag=DK }:: ::Hudda::{ user-id=4103629 } |
 
 ## Links
 
@@ -53,27 +53,27 @@ The Royal Danish osu!Cup 2016 was run by various community members.
 
 *Note: This is an incomplete list, as all records before Round of 16 have been lost to time.*
 
-- ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653)
-- ::{ flag=DK }:: [Zog](https://osu.ppy.sh/users/3722715)
-- ::{ flag=DK }:: [Emub](https://osu.ppy.sh/users/4337359)
-- ::{ flag=DK }:: [Crylizhy](https://osu.ppy.sh/users/3023138)
-- ::{ flag=DK }:: [KaHLK](https://osu.ppy.sh/users/2287701)
-- ::{ flag=DK }:: [Only1Magma](https://osu.ppy.sh/users/3922957)
-- ::{ flag=DK }:: [Kazutakee](https://osu.ppy.sh/users/2637514)
-- ::{ flag=DK }:: [Zakdawg](https://osu.ppy.sh/users/1667126)
-- ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366)
-- ::{ flag=DK }:: [Arild](https://osu.ppy.sh/users/3089925)
-- ::{ flag=DK }:: [John Cena](https://osu.ppy.sh/users/2958963)
-- ::{ flag=DK }:: [Tropians](https://osu.ppy.sh/users/2536611)
-- ::{ flag=DK }:: [Gudafild](https://osu.ppy.sh/users/5358569)
-- ::{ flag=DK }:: [Hudda](https://osu.ppy.sh/users/4103629)
-- ::{ flag=DK }:: [Kawatta](https://osu.ppy.sh/users/3731880)
-- ::{ flag=DK }:: [TheFancyPikachu](https://osu.ppy.sh/users/1946377)
-- ::{ flag=DK }:: [Lemmen](https://osu.ppy.sh/users/6090254)
-- ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469)
-- ::{ flag=DK }:: [TimG](https://osu.ppy.sh/users/1879963)
-- ::{ flag=DK }:: [Jobbe](https://osu.ppy.sh/users/2707230)
-- ::{ flag=DK }:: [shoki](https://osu.ppy.sh/users/6583628)
+- ::{ flag=DK }:: ::waefwerf::{ user-id=3868653 }
+- ::{ flag=DK }:: ::Zog::{ user-id=3722715 }
+- ::{ flag=DK }:: ::Emub::{ user-id=4337359 }
+- ::{ flag=DK }:: ::Crylizhy::{ user-id=3023138 }
+- ::{ flag=DK }:: ::KaHLK::{ user-id=2287701 }
+- ::{ flag=DK }:: ::Only1Magma::{ user-id=3922957 }
+- ::{ flag=DK }:: ::Kazutakee::{ user-id=2637514 }
+- ::{ flag=DK }:: ::Zakdawg::{ user-id=1667126 }
+- ::{ flag=DK }:: ::-Tochi::{ user-id=3664366 }
+- ::{ flag=DK }:: ::Arild::{ user-id=3089925 }
+- ::{ flag=DK }:: ::John Cena::{ user-id=2958963 }
+- ::{ flag=DK }:: ::Tropians::{ user-id=2536611 }
+- ::{ flag=DK }:: ::Gudafild::{ user-id=5358569 }
+- ::{ flag=DK }:: ::Hudda::{ user-id=4103629 }
+- ::{ flag=DK }:: ::Kawatta::{ user-id=3731880 }
+- ::{ flag=DK }:: ::TheFancyPikachu::{ user-id=1946377 }
+- ::{ flag=DK }:: ::Lemmen::{ user-id=6090254 }
+- ::{ flag=DK }:: ::Spork Lover::{ user-id=3417469 }
+- ::{ flag=DK }:: ::TimG::{ user-id=1879963 }
+- ::{ flag=DK }:: ::Jobbe::{ user-id=2707230 }
+- ::{ flag=DK }:: ::shoki::{ user-id=6583628 }
 
 ## Podium
 
@@ -81,10 +81,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: [Zog](https://osu.ppy.sh/users/3722715) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: [Crylizhy](https://osu.ppy.sh/users/3023138) |
-| *4th place* | ::{ flag=DK }:: [Emub](https://osu.ppy.sh/users/4337359) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: ::waefwerf::{ user-id=3868653 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: ::Zog::{ user-id=3722715 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: ::Crylizhy::{ user-id=3023138 } |
+| *4th place* | ::{ flag=DK }:: ::Emub::{ user-id=4337359 } |
 
 ## Mappools
 

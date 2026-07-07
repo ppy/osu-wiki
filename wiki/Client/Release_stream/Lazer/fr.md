@@ -32,7 +32,7 @@ tags:
 
 ## L'histoire
 
-Le projet a débuté à la mi-2015[^peppy-2017] sous la forme d'un nouveau design pour l'interface du client stable portant le nom de code "osu!next", réalisé par [flyte](https://osu.ppy.sh/users/3103765), le concepteur principal d'osu!. Cette interface a été présentée pour la première fois dans une [vidéo de présentation](https://www.youtube.com/watch?v=lrWyqpNUwBo) la même année.
+Le projet a débuté à la mi-2015[^peppy-2017] sous la forme d'un nouveau design pour l'interface du client stable portant le nom de code "osu!next", réalisé par ::flyte::{ user-id=3103765 }, le concepteur principal d'osu!. Cette interface a été présentée pour la première fois dans une [vidéo de présentation](https://www.youtube.com/watch?v=lrWyqpNUwBo) la même année.
 
 Des versions préliminaires ont été téléchargées sur le [blog de design](https://osunext.tumblr.com/) de flyte à partir de 2016.
 

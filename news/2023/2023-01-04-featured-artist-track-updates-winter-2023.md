@@ -25,7 +25,7 @@ New songs are also listed below along with any relevant Ranked/Loved maps and an
 
 **14** tunes. One alternating-focused gothic rock sound. Dig into these songs by **Ariabl'eyeS** that'll surely lead to an unreal DT score some time down the line.
 
-- [**Ariabl'eyeS - Monochrome Solitude**](https://osu.ppy.sh/beatmapsets/1831541) hosted by [Esutarosa](https://osu.ppy.sh/users/12024753)
+- [**Ariabl'eyeS - Monochrome Solitude**](https://osu.ppy.sh/beatmapsets/1831541) hosted by ::Esutarosa::{ user-id=12024753 }
 - **Ariabl'eyeS - Eigetsu Fiancailles**
 - **Ariabl'eyeS - Scarlet Rouge**
 - **Ariabl'eyeS - Zankou**
@@ -100,7 +100,7 @@ This year's osu! World Cup received a lot of love from our Featured Artists, lik
 
 ### DJ Raisei - T.R.A.P. <!-- lint ignore no-heading-punctuation -->
 
-Check out [this beatmap](https://osu.ppy.sh/beatmapsets/1889105) hosted by [Halgoh](https://osu.ppy.sh/users/4109923) and used in OWC's Grand Finals NM4 slot.
+Check out [this beatmap](https://osu.ppy.sh/beatmapsets/1889105) hosted by ::Halgoh::{ user-id=4109923 } and used in OWC's Grand Finals NM4 slot.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/204/Songs/DJ%20Raisei%20-%20T.R.A.P..mp3" type="audio/mpeg">
@@ -114,7 +114,7 @@ Check out [this beatmap](https://osu.ppy.sh/beatmapsets/1889105) hosted by [Halg
 
 ### Good Kid - No Time to Explain
 
-Check out [this map](https://osu.ppy.sh/beatmapsets/1846926) hosted by [wafer](https://osu.ppy.sh/users/9416836)!
+Check out [this map](https://osu.ppy.sh/beatmapsets/1846926) hosted by ::wafer::{ user-id=9416836 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/240/Songs/Good%20Kid%20-%20No%20Time%20to%20Explain.mp3" type="audio/mpeg">
@@ -128,7 +128,7 @@ Check out [this map](https://osu.ppy.sh/beatmapsets/1846926) hosted by [wafer](h
 
 ### II-L feat. amelie xoxo - THE EARTH
 
-Jump into [this map used as OWC's Grand Finals NM5](https://osu.ppy.sh/beatmapsets/1889101) hosted by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)!
+Jump into [this map used as OWC's Grand Finals NM5](https://osu.ppy.sh/beatmapsets/1889101) hosted by ::Ryuusei Aika::{ user-id=7777875 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/172/Songs/II-L%20feat.%20amelie%20xoxo%20-%20THE%20EARTH.mp3" type="audio/mpeg">
@@ -144,9 +144,9 @@ If there's anything that the osu! audience loves more than a certain three-digit
 - **Imperial Circus Dead Decadence - Goku**
 - **Imperial Circus Dead Decadence - Hitsuunaru Kyouon wa Kanashiki Kaikou mode:Alpha**
 - **Imperial Circus Dead Decadence - Hitsuunaru Kyouon wa Kanashiki Kaikou modeOmega**
-- [**Imperial Circus Dead Decadence - Hyakki Yakou -Pandemonic Night Parade-**](https://osu.ppy.sh/beatmapsets/1776682) hosted by [Hantrik](https://osu.ppy.sh/users/10059654)
+- [**Imperial Circus Dead Decadence - Hyakki Yakou -Pandemonic Night Parade-**](https://osu.ppy.sh/beatmapsets/1776682) hosted by ::Hantrik::{ user-id=10059654 }
 - **Imperial Circus Dead Decadence - Kuroki Sakura wa Ai Sono Shi o Kou**
-- [**Imperial Circus Dead Decadence - Misogiharae no Kamiumi wa Notamai, Magabarai no Shokuzai wa Chikau.**](https://osu.ppy.sh/beatmapsets/1781688) hosted by [Camo](https://osu.ppy.sh/users/5194391)
+- [**Imperial Circus Dead Decadence - Misogiharae no Kamiumi wa Notamai, Magabarai no Shokuzai wa Chikau.**](https://osu.ppy.sh/beatmapsets/1781688) hosted by ::Camo::{ user-id=5194391 }
 - **Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru (remaster)**
 - **Imperial Circus Dead Decadence - Tensei**
 - **Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo. -Mogari-**
@@ -174,7 +174,7 @@ Here's some examples of what could the future's next 1000 pp HR play:
 
 ### Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)
 
-Escape down the rabbit hole and into [this map used as OWC's Semifinals tiebreaker](https://osu.ppy.sh/beatmapsets/1880652) hosted by [Realazy](https://osu.ppy.sh/users/918297)!
+Escape down the rabbit hole and into [this map used as OWC's Semifinals tiebreaker](https://osu.ppy.sh/beatmapsets/1880652) hosted by ::Realazy::{ user-id=918297 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/58/Songs/Kurokotei%20feat.%20Sennzai%20-%20escape%20(the%20looking-glass%2C%20and%20what%20alice%20found%20there).mp3" type="audio/mpeg">
@@ -188,7 +188,7 @@ Escape down the rabbit hole and into [this map used as OWC's Semifinals tiebreak
 
 ### Rabbit House - Sanctuary
 
-Explore [this beatmap](https://osu.ppy.sh/beatmapsets/1889094) hosted by [funny](https://osu.ppy.sh/users/8473573) and used in OWC's Grand Finals HR4 slot.
+Explore [this beatmap](https://osu.ppy.sh/beatmapsets/1889094) hosted by ::funny::{ user-id=8473573 } and used in OWC's Grand Finals HR4 slot.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/242/Songs/Rabbit%20House%20-%20Sanctuary.mp3" type="audio/mpeg">
@@ -202,7 +202,7 @@ Another artist, another OWC osu! original. **Raimukun** showcases an endless str
 
 ### Raimukun - Mythis Orbis
 
-Muscle-spasm your way through [this map used as OWC's Grand Finals NM2](https://osu.ppy.sh/beatmapsets/1889095) hosted by [knowledgeking](https://osu.ppy.sh/users/8022517)!
+Muscle-spasm your way through [this map used as OWC's Grand Finals NM2](https://osu.ppy.sh/beatmapsets/1889095) hosted by ::knowledgeking::{ user-id=8022517 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/247/Songs/Raimukun%20-%20Myths%20Orbis.mp3" type="audio/mpeg">
@@ -216,7 +216,7 @@ You know the drill. osu! original here from last year's osu! World Cup. This one
 
 ### Redside - Sidequest
 
-Experience [this map used as OWC's Quarterfinals HR3](https://osu.ppy.sh/beatmapsets/1876071) hosted by [Feiri](https://osu.ppy.sh/users/3214844)!
+Experience [this map used as OWC's Quarterfinals HR3](https://osu.ppy.sh/beatmapsets/1876071) hosted by ::Feiri::{ user-id=3214844 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/184/Songs/Redside%20-%20Sidequest.mp3" type="audio/mpeg">
@@ -230,7 +230,7 @@ Experience [this map used as OWC's Quarterfinals HR3](https://osu.ppy.sh/beatmap
 
 ### rN - onostrapha
 
-Engulf yourself in [this map used as OWC's Grand Finals FM2](https://osu.ppy.sh/beatmapsets/1884914) hosted by [Altai](https://osu.ppy.sh/users/5745865)!
+Engulf yourself in [this map used as OWC's Grand Finals FM2](https://osu.ppy.sh/beatmapsets/1884914) hosted by ::Altai::{ user-id=5745865 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/190/Songs/rN%20-%20onostrapha.mp3" type="audio/mpeg">
@@ -256,7 +256,7 @@ Try out some maps from the osu!catch Mapping World Cup:
 
 ### SAMString - Crystalised Euphoria
 
-Play through [the map from the tournament](https://osu.ppy.sh/beatmapsets/1819473) hosted by [lxcors](https://osu.ppy.sh/users/11194087)!
+Play through [the map from the tournament](https://osu.ppy.sh/beatmapsets/1819473) hosted by ::lxcors::{ user-id=11194087 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/273/Songs/SAMString%20-%20Crystalised%20Euphoria.mp3" type="audio/mpeg">
@@ -276,7 +276,7 @@ Play through [the map from the tournament](https://osu.ppy.sh/beatmapsets/181947
 - **seatrus - The Burned Tableau**
 - **seatrus feat. Marumoko - Ori Yamanu Ame**
 - **seatrus+Metalliz - Bu++erfly EffecT**
-- [**seatrus - EXXTRA JUDGEMENT**](https://osu.ppy.sh/beatmapsets/1889132) hosted by [elicz1](https://osu.ppy.sh/users/8039342)
+- [**seatrus - EXXTRA JUDGEMENT**](https://osu.ppy.sh/beatmapsets/1889132) hosted by ::elicz1::{ user-id=8039342 }
 
 ### seatrus - Querasis
 
@@ -323,7 +323,7 @@ Considering **Sephid** joined osu! thanks to [a map from OWC 2020](https://osu.p
 
 ### Sephid - Thunderstrike 1988
 
-Have fun with [this map used as OWC's Grand Finals HD3](https://osu.ppy.sh/beatmapsets/1889109) hosted by [captin1](https://osu.ppy.sh/users/689997)!
+Have fun with [this map used as OWC's Grand Finals HD3](https://osu.ppy.sh/beatmapsets/1889109) hosted by ::captin1::{ user-id=689997 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/196/Songs/Sephid%20-%20Thunderstrike%201988.mp3" type="audio/mpeg">
@@ -344,7 +344,7 @@ It's been over 3 years since **Street** drove into our Featured Artist collectio
 
 ### Street - hayate (with Kamiya Hiroto)
 
-Enjoy [this map used as OWC's Semifinals DT4 slot](https://osu.ppy.sh/beatmapsets/1880316) hosted by [KKipalt](https://osu.ppy.sh/users/6889573)!
+Enjoy [this map used as OWC's Semifinals DT4 slot](https://osu.ppy.sh/beatmapsets/1880316) hosted by ::KKipalt::{ user-id=6889573 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/89/Iroha/Street%20-%20hayate%20(with%20Kamiya%20Hiroto).mp3" type="audio/mpeg">
@@ -370,7 +370,7 @@ One of our oldest Featured Artists **Thaehan** is still around! Their newest osu
 
 ### Thaehan - All or Nothing
 
-Experience [this map used as OWC's Semifinals HR1](https://osu.ppy.sh/beatmapsets/1880625) hosted by [Zelq](https://osu.ppy.sh/users/8953955)!
+Experience [this map used as OWC's Semifinals HR1](https://osu.ppy.sh/beatmapsets/1880625) hosted by ::Zelq::{ user-id=8953955 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/7/Songs/Thaehan%20-%20All%20or%20Nothing.mp3" type="audio/mpeg">

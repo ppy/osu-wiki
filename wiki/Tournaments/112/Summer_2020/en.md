@@ -9,7 +9,7 @@ tags:
 
 ![112ST2020 banner](img/banner.png)
 
-The **112's Summer Tournament 2020** (***112ST2020***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470) and ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. It was the sixth instalment of 112's Tournaments series.
+The **112's Summer Tournament 2020** (***112ST2020***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=TR }:: ::112servis::{ user-id=3953470 } and ::{ flag=TR }:: ::Sibyl::{ user-id=10440852 }. The tournament was only allowed for Turkish-speaking users regardless of their country flags. It was the sixth instalment of 112's Tournaments series.
 
 ## Tournament schedule
 
@@ -40,15 +40,15 @@ The 112's Summer Tournament 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Mappool selector | ::{ flag=TR }:: [-Kemsyt](https://osu.ppy.sh/users/3170401), ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=CA }:: [Clara\_uwu](https://osu.ppy.sh/users/10257493), ::{ flag=TR }:: [Cyberia950](https://osu.ppy.sh/users/9143539), ::{ flag=CA }:: [dqwed](https://osu.ppy.sh/users/9977100), ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311) |
-| Referee | ::{ flag=TR }:: [-Kemsyt](https://osu.ppy.sh/users/3170401), ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [Coderbora](https://osu.ppy.sh/users/11873333), ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311), ::{ flag=TR }:: [Fanduil](https://osu.ppy.sh/users/6118485), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852), ::{ flag=TR }:: [Tsuda-](https://osu.ppy.sh/users/6713666) |
-| Streamer | ::{ flag=TR }:: [Cynesta](https://osu.ppy.sh/users/8674027), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Commentator | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=TR }:: [Coderbora](https://osu.ppy.sh/users/11873333), ::{ flag=TR }:: [Cynesta](https://osu.ppy.sh/users/8674027), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Designer | ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Website developer | ::{ flag=TR }:: [Coderbora](https://osu.ppy.sh/users/11873333), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Statistician | ::{ flag=TR }:: [Coderbora](https://osu.ppy.sh/users/11873333) |
-| Wiki editor | ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) |
+| Organizer | ::{ flag=TR }:: ::112servis::{ user-id=3953470 }, ::{ flag=TR }:: ::Sibyl::{ user-id=10440852 } |
+| Mappool selector | ::{ flag=TR }:: ::-Kemsyt::{ user-id=3170401 }, ::{ flag=TR }:: ::112servis::{ user-id=3953470 }, ::{ flag=CA }:: ::Clara\_uwu::{ user-id=10257493 }, ::{ flag=TR }:: ::Cyberia950::{ user-id=9143539 }, ::{ flag=CA }:: ::dqwed::{ user-id=9977100 }, ::{ flag=TR }:: ::Entry::{ user-id=10213311 } |
+| Referee | ::{ flag=TR }:: ::-Kemsyt::{ user-id=3170401 }, ::{ flag=TR }:: ::112servis::{ user-id=3953470 }, ::{ flag=TR }:: ::Coderbora::{ user-id=11873333 }, ::{ flag=TR }:: ::Entry::{ user-id=10213311 }, ::{ flag=TR }:: ::Fanduil::{ user-id=6118485 }, ::{ flag=TR }:: ::Sibyl::{ user-id=10440852 }, ::{ flag=TR }:: ::Tsuda-::{ user-id=6713666 } |
+| Streamer | ::{ flag=TR }:: ::Cynesta::{ user-id=8674027 }, ::{ flag=TR }:: ::Sibyl::{ user-id=10440852 } |
+| Commentator | ::{ flag=TR }:: ::112servis::{ user-id=3953470 }, ::{ flag=TR }:: ::Coderbora::{ user-id=11873333 }, ::{ flag=TR }:: ::Cynesta::{ user-id=8674027 }, ::{ flag=TR }:: ::Sibyl::{ user-id=10440852 } |
+| Designer | ::{ flag=TR }:: ::Sibyl::{ user-id=10440852 } |
+| Website developer | ::{ flag=TR }:: ::Coderbora::{ user-id=11873333 }, ::{ flag=TR }:: ::Sibyl::{ user-id=10440852 } |
+| Statistician | ::{ flag=TR }:: ::Coderbora::{ user-id=11873333 } |
+| Wiki editor | ::{ flag=TR }:: ::Zeus-::{ user-id=5464437 } |
 
 ## Links
 
@@ -62,34 +62,34 @@ The 112's Summer Tournament 2020 was run by various community members.
 
 | Ranking | Player | Qualifier points |
 | :-- | :-- | :-- |
-| #1 | ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779) | 3 |
-| #2 | ::{ flag=TR }:: [CutieDemon](https://osu.ppy.sh/users/6440158) | 4.55 |
-| #3 | ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528) | 6 |
-| #4 | ::{ flag=TR }:: [Ruushin](https://osu.ppy.sh/users/4696304) | 6.66 |
-| #5 | ::{ flag=TR }:: [Cynesta](https://osu.ppy.sh/users/8674027) | 7.55 |
-| #6 | ::{ flag=TR }:: [Mikatsu](https://osu.ppy.sh/users/6612642) | 8.88 |
-| #7 | ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407) | 9.44 |
-| #8 | ::{ flag=TR }:: [sentez](https://osu.ppy.sh/users/8816305) | 10.66 |
-| #9 | ::{ flag=TR }:: [Chickes](https://osu.ppy.sh/users/5341891) | 11 |
-| #10 | ::{ flag=BE }:: [iblue](https://osu.ppy.sh/users/9184180) | 11.66 |
-| #11 | ::{ flag=TR }:: [LeBoum](https://osu.ppy.sh/users/8700026) | 11.77 |
-| #12 | ::{ flag=TR }:: [empirasu](https://osu.ppy.sh/users/12500084) | 12.11 |
-| #13 | ::{ flag=TR }:: [dragonsaga](https://osu.ppy.sh/users/4982690) | 12.66 |
-| #14 | ::{ flag=TR }:: [We0l](https://osu.ppy.sh/users/13196066) | 13.11 |
-| #15 | ::{ flag=TR }:: [emptypudding](https://osu.ppy.sh/users/11003085) | 13.66 |
-| #16 | ::{ flag=TR }:: [huckmen444](https://osu.ppy.sh/users/5019334) | 13.88 |
-| #17 | ::{ flag=TR }:: [Wixax](https://osu.ppy.sh/users/6207181) | 14.66 |
-| #18 | ::{ flag=TR }:: [AuroraSolaris](https://osu.ppy.sh/users/9319605) | 14.77 |
-| #19 | ::{ flag=TR }:: [mirayno](https://osu.ppy.sh/users/11593174) | 16.33 |
-| #20 | ::{ flag=TR }:: [TheEnd](https://osu.ppy.sh/users/7349993) | 16.44 |
-| #21 | ::{ flag=TR }:: [HakoFixed](https://osu.ppy.sh/users/7188447) | 19.88 |
-| #22 | ::{ flag=TR }:: [ElucidatorGG](https://osu.ppy.sh/users/9624711) | 21.22 |
-| #23 | ::{ flag=TR }:: [Belif0226](https://osu.ppy.sh/users/10585565) | 21.66 |
-| #24 | ::{ flag=DE }:: [Skellexon](https://osu.ppy.sh/users/11268328) | 21.77 |
-| #25 | ::{ flag=NL }:: [QuadroKiller](https://osu.ppy.sh/users/7552072) | 24.55 |
-| #26 | ::{ flag=TR }:: [cANITIN](https://osu.ppy.sh/users/11717778) | 25 |
-| #27 | ::{ flag=TR }:: [nitromehmet](https://osu.ppy.sh/users/9909537) | 25.55 |
-| #28 | ::{ flag=TR }:: [selimax](https://osu.ppy.sh/users/13525233) | 27.44 |
+| #1 | ::{ flag=TR }:: ::heyronii::{ user-id=5642779 } | 3 |
+| #2 | ::{ flag=TR }:: ::CutieDemon::{ user-id=6440158 } | 4.55 |
+| #3 | ::{ flag=TR }:: ::Raikouhou::{ user-id=8007528 } | 6 |
+| #4 | ::{ flag=TR }:: ::Ruushin::{ user-id=4696304 } | 6.66 |
+| #5 | ::{ flag=TR }:: ::Cynesta::{ user-id=8674027 } | 7.55 |
+| #6 | ::{ flag=TR }:: ::Mikatsu::{ user-id=6612642 } | 8.88 |
+| #7 | ::{ flag=TR }:: ::Nymphe::{ user-id=10507407 } | 9.44 |
+| #8 | ::{ flag=TR }:: ::sentez::{ user-id=8816305 } | 10.66 |
+| #9 | ::{ flag=TR }:: ::Chickes::{ user-id=5341891 } | 11 |
+| #10 | ::{ flag=BE }:: ::iblue::{ user-id=9184180 } | 11.66 |
+| #11 | ::{ flag=TR }:: ::LeBoum::{ user-id=8700026 } | 11.77 |
+| #12 | ::{ flag=TR }:: ::empirasu::{ user-id=12500084 } | 12.11 |
+| #13 | ::{ flag=TR }:: ::dragonsaga::{ user-id=4982690 } | 12.66 |
+| #14 | ::{ flag=TR }:: ::We0l::{ user-id=13196066 } | 13.11 |
+| #15 | ::{ flag=TR }:: ::emptypudding::{ user-id=11003085 } | 13.66 |
+| #16 | ::{ flag=TR }:: ::huckmen444::{ user-id=5019334 } | 13.88 |
+| #17 | ::{ flag=TR }:: ::Wixax::{ user-id=6207181 } | 14.66 |
+| #18 | ::{ flag=TR }:: ::AuroraSolaris::{ user-id=9319605 } | 14.77 |
+| #19 | ::{ flag=TR }:: ::mirayno::{ user-id=11593174 } | 16.33 |
+| #20 | ::{ flag=TR }:: ::TheEnd::{ user-id=7349993 } | 16.44 |
+| #21 | ::{ flag=TR }:: ::HakoFixed::{ user-id=7188447 } | 19.88 |
+| #22 | ::{ flag=TR }:: ::ElucidatorGG::{ user-id=9624711 } | 21.22 |
+| #23 | ::{ flag=TR }:: ::Belif0226::{ user-id=10585565 } | 21.66 |
+| #24 | ::{ flag=DE }:: ::Skellexon::{ user-id=11268328 } | 21.77 |
+| #25 | ::{ flag=NL }:: ::QuadroKiller::{ user-id=7552072 } | 24.55 |
+| #26 | ::{ flag=TR }:: ::cANITIN::{ user-id=11717778 } | 25 |
+| #27 | ::{ flag=TR }:: ::nitromehmet::{ user-id=9909537 } | 25.55 |
+| #28 | ::{ flag=TR }:: ::selimax::{ user-id=13525233 } | 27.44 |
 
 ## Podium
 
@@ -278,8 +278,8 @@ Sunday, 27 September 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [heyronii](https://osu.ppy.sh/users/5642779) | 2 | **7** | **[Raikouhou](https://osu.ppy.sh/users/8007528)** | [#1](https://osu.ppy.sh/community/matches/67566269) |
-| [heyronii](https://osu.ppy.sh/users/5642779) | 2 | **7** | **[Raikouhou](https://osu.ppy.sh/users/8007528)** | [#1](https://osu.ppy.sh/community/matches/67568962) |
+| ::heyronii::{ user-id=5642779 } | 2 | **7** | **::Raikouhou::{ user-id=8007528 }** | [#1](https://osu.ppy.sh/community/matches/67566269) |
+| ::heyronii::{ user-id=5642779 } | 2 | **7** | **::Raikouhou::{ user-id=8007528 }** | [#1](https://osu.ppy.sh/community/matches/67568962) |
 
 ### Losers Round 5
 
@@ -287,7 +287,7 @@ Saturday, 26 September 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Mikatsu](https://osu.ppy.sh/users/6612642) | 3 | **7** | **[Raikouhou](https://osu.ppy.sh/users/8007528)** | [#1](https://osu.ppy.sh/community/matches/67518979) |
+| ::Mikatsu::{ user-id=6612642 } | 3 | **7** | **::Raikouhou::{ user-id=8007528 }** | [#1](https://osu.ppy.sh/community/matches/67518979) |
 
 ### Finals
 
@@ -295,7 +295,7 @@ Saturday, 19 September 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[heyronii](https://osu.ppy.sh/users/5642779)** | **6** | 1 | [Mikatsu](https://osu.ppy.sh/users/6612642) | [#1](https://osu.ppy.sh/community/matches/67191627) |
+| **::heyronii::{ user-id=5642779 }** | **6** | 1 | ::Mikatsu::{ user-id=6612642 } | [#1](https://osu.ppy.sh/community/matches/67191627) |
 
 ### Losers Round 4
 
@@ -303,13 +303,13 @@ Saturday, 19 September 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [CutieDemon](https://osu.ppy.sh/users/6440158) | 0 | **1** | **[emptypudding](https://osu.ppy.sh/users/11003085)** | *win by default* |
+| ::CutieDemon::{ user-id=6440158 } | 0 | **1** | **::emptypudding::{ user-id=11003085 }** | *win by default* |
 
 Monday, 21 September 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Cynesta](https://osu.ppy.sh/users/8674027) | 1 | **6** | **[Raikouhou](https://osu.ppy.sh/users/8007528)** | [#1](https://osu.ppy.sh/community/matches/67283585) |
+| ::Cynesta::{ user-id=8674027 } | 1 | **6** | **::Raikouhou::{ user-id=8007528 }** | [#1](https://osu.ppy.sh/community/matches/67283585) |
 
 ### Semifinals
 
@@ -317,13 +317,13 @@ Saturday, 12 September 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [CutieDemon](https://osu.ppy.sh/users/6440158) | 0 | **1** | **[Mikatsu](https://osu.ppy.sh/users/6612642)** | *win by default* |
+| ::CutieDemon::{ user-id=6440158 } | 0 | **1** | **::Mikatsu::{ user-id=6612642 }** | *win by default* |
 
 Tuesday, 15 September 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[heyronii](https://osu.ppy.sh/users/5642779)** | **6** | 3 | [Cynesta](https://osu.ppy.sh/users/8674027) | [#1](https://osu.ppy.sh/community/matches/66991565) |
+| **::heyronii::{ user-id=5642779 }** | **6** | 3 | ::Cynesta::{ user-id=8674027 } | [#1](https://osu.ppy.sh/community/matches/66991565) |
 
 ### Losers Round 3
 
@@ -331,8 +331,8 @@ Saturday, 12 September 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Ruushin](https://osu.ppy.sh/users/4696304) | 0 | **1** | **[LeBoum](https://osu.ppy.sh/users/8700026)** | *win by default* |
-| [Chickes](https://osu.ppy.sh/users/5341891) | 0 | **1** | **[emptypudding](https://osu.ppy.sh/users/11003085)** | *win by default* |
+| ::Ruushin::{ user-id=4696304 } | 0 | **1** | **::LeBoum::{ user-id=8700026 }** | *win by default* |
+| ::Chickes::{ user-id=5341891 } | 0 | **1** | **::emptypudding::{ user-id=11003085 }** | *win by default* |
 
 ### Quarterfinals
 
@@ -340,15 +340,15 @@ Saturday, 05 September 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[heyronii](https://osu.ppy.sh/users/5642779)** | **5** | 0 | [Chickes](https://osu.ppy.sh/users/5341891) | [#1](https://osu.ppy.sh/community/matches/66501702) |
-| **[CutieDemon](https://osu.ppy.sh/users/6440158)** | **5** | 2 | [Nymphe](https://osu.ppy.sh/users/10507407) | [#1](https://osu.ppy.sh/community/matches/66515819) |
+| **::heyronii::{ user-id=5642779 }** | **5** | 0 | ::Chickes::{ user-id=5341891 } | [#1](https://osu.ppy.sh/community/matches/66501702) |
+| **::CutieDemon::{ user-id=6440158 }** | **5** | 2 | ::Nymphe::{ user-id=10507407 } | [#1](https://osu.ppy.sh/community/matches/66515819) |
 
 Monday, 07 September 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [Ruushin](https://osu.ppy.sh/users/4696304) | 0 | **1** | **[Cynesta](https://osu.ppy.sh/users/8674027)** | *win by default* |
-| [Raikouhou](https://osu.ppy.sh/users/8007528) | 3 | **5** | **[Mikatsu](https://osu.ppy.sh/users/6612642)** | [#1](https://osu.ppy.sh/community/matches/66602090) |
+| ::Ruushin::{ user-id=4696304 } | 0 | **1** | **::Cynesta::{ user-id=8674027 }** | *win by default* |
+| ::Raikouhou::{ user-id=8007528 } | 3 | **5** | **::Mikatsu::{ user-id=6612642 }** | [#1](https://osu.ppy.sh/community/matches/66602090) |
 
 ### Losers Round 2
 
@@ -356,15 +356,15 @@ Sunday, 06 September 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[LeBoum](https://osu.ppy.sh/users/8700026)** | **5** | 0 | [We0l](https://osu.ppy.sh/users/13196066) | [#1](https://osu.ppy.sh/community/matches/66566191) |
-| [empirasu](https://osu.ppy.sh/users/12500084) | 2 | **5** | **[dragonsaga](https://osu.ppy.sh/users/4982690)** | [#1](https://osu.ppy.sh/community/matches/66562003) |
-| **[sentez](https://osu.ppy.sh/users/8816305)** | **5** | 0 | [huckmen444](https://osu.ppy.sh/users/5019334) | [#1](https://osu.ppy.sh/community/matches/66564018) |
+| **::LeBoum::{ user-id=8700026 }** | **5** | 0 | ::We0l::{ user-id=13196066 } | [#1](https://osu.ppy.sh/community/matches/66566191) |
+| ::empirasu::{ user-id=12500084 } | 2 | **5** | **::dragonsaga::{ user-id=4982690 }** | [#1](https://osu.ppy.sh/community/matches/66562003) |
+| **::sentez::{ user-id=8816305 }** | **5** | 0 | ::huckmen444::{ user-id=5019334 } | [#1](https://osu.ppy.sh/community/matches/66564018) |
 
 Monday, 07 September 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [iblue](https://osu.ppy.sh/users/9184180) | 4 | **5** | **[emptypudding](https://osu.ppy.sh/users/11003085)** | [#1](https://osu.ppy.sh/community/matches/66609725) |
+| ::iblue::{ user-id=9184180 } | 4 | **5** | **::emptypudding::{ user-id=11003085 }** | [#1](https://osu.ppy.sh/community/matches/66609725) |
 
 ### Round of 16
 
@@ -372,24 +372,24 @@ Thursday, 27 August 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[Cynesta](https://osu.ppy.sh/users/8674027)** | **5** | 1 | [empirasu](https://osu.ppy.sh/users/12500084) | [#1](https://osu.ppy.sh/community/matches/66061071) |
+| **::Cynesta::{ user-id=8674027 }** | **5** | 1 | ::empirasu::{ user-id=12500084 } | [#1](https://osu.ppy.sh/community/matches/66061071) |
 
 Saturday, 29 August 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[heyronii](https://osu.ppy.sh/users/5642779)** | **5** | 1 | [huckmen444](https://osu.ppy.sh/users/5019334) | [#1](https://osu.ppy.sh/community/matches/66175986) |
-| [sentez](https://osu.ppy.sh/users/8816305) | 2 | **5** | **[Chickes](https://osu.ppy.sh/users/5341891)** | [#1](https://osu.ppy.sh/community/matches/66182842) |
-| **[Ruushin](https://osu.ppy.sh/users/4696304)** | **5** | 0 | [dragonsaga](https://osu.ppy.sh/users/4982690) | [#1](https://osu.ppy.sh/community/matches/66177391) |
-| **[CutieDemon](https://osu.ppy.sh/users/6440158)** | **5** | 0 | [emptypudding](https://osu.ppy.sh/users/11003085) | [#1](https://osu.ppy.sh/community/matches/66178563) |
-| **[Nymphe](https://osu.ppy.sh/users/10507407)** | **5** | 3 | [iblue](https://osu.ppy.sh/users/9184180) | [#1](https://osu.ppy.sh/community/matches/66179030) |
-| **[Raikouhou](https://osu.ppy.sh/users/8007528)** | **5** | 2 | [We0l](https://osu.ppy.sh/users/13196066) | [#1](https://osu.ppy.sh/community/matches/66163851) |
+| **::heyronii::{ user-id=5642779 }** | **5** | 1 | ::huckmen444::{ user-id=5019334 } | [#1](https://osu.ppy.sh/community/matches/66175986) |
+| ::sentez::{ user-id=8816305 } | 2 | **5** | **::Chickes::{ user-id=5341891 }** | [#1](https://osu.ppy.sh/community/matches/66182842) |
+| **::Ruushin::{ user-id=4696304 }** | **5** | 0 | ::dragonsaga::{ user-id=4982690 } | [#1](https://osu.ppy.sh/community/matches/66177391) |
+| **::CutieDemon::{ user-id=6440158 }** | **5** | 0 | ::emptypudding::{ user-id=11003085 } | [#1](https://osu.ppy.sh/community/matches/66178563) |
+| **::Nymphe::{ user-id=10507407 }** | **5** | 3 | ::iblue::{ user-id=9184180 } | [#1](https://osu.ppy.sh/community/matches/66179030) |
+| **::Raikouhou::{ user-id=8007528 }** | **5** | 2 | ::We0l::{ user-id=13196066 } | [#1](https://osu.ppy.sh/community/matches/66163851) |
 
 Sunday, 30 August 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[Mikatsu](https://osu.ppy.sh/users/6612642)** | **5** | 2 | [LeBoum](https://osu.ppy.sh/users/8700026) | [#1](https://osu.ppy.sh/community/matches/66170884) |
+| **::Mikatsu::{ user-id=6612642 }** | **5** | 2 | ::LeBoum::{ user-id=8700026 } | [#1](https://osu.ppy.sh/community/matches/66170884) |
 
 ### Losers Round 1
 
@@ -397,28 +397,28 @@ Saturday, 29 August 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [nitromehmet](https://osu.ppy.sh/users/9909537) | 1 | **5** | **[ElucidatorGG](https://osu.ppy.sh/users/9624711)** | [#1](https://osu.ppy.sh/community/matches/66161839) |
-| [selimax](https://osu.ppy.sh/users/13525233) | 0 | **1** | **[HakoFixed](https://osu.ppy.sh/users/7188447)** | *win by default* |
-| [cANITIN](https://osu.ppy.sh/users/11717778) | 0 | **1** | **[Belif0226](https://osu.ppy.sh/users/10585565)** | *win by default* |
+| ::nitromehmet::{ user-id=9909537 } | 1 | **5** | **::ElucidatorGG::{ user-id=9624711 }** | [#1](https://osu.ppy.sh/community/matches/66161839) |
+| ::selimax::{ user-id=13525233 } | 0 | **1** | **::HakoFixed::{ user-id=7188447 }** | *win by default* |
+| ::cANITIN::{ user-id=11717778 } | 0 | **1** | **::Belif0226::{ user-id=10585565 }** | *win by default* |
 
 Sunday, 30 August 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| [QuadroKiller](https://osu.ppy.sh/users/7552072) | 0 | **1** | **[Skellexon](https://osu.ppy.sh/users/11268328)** | *win by default* |
-| **[We0l](https://osu.ppy.sh/users/13196066)** | **5** | 0 | [Skellexon](https://osu.ppy.sh/users/11268328) | [#1](https://osu.ppy.sh/community/matches/66222235) |
-| **[empirasu](https://osu.ppy.sh/users/12500084)** | **5** | 2 | [AuroraSolaris](https://osu.ppy.sh/users/9319605) | [#1](https://osu.ppy.sh/community/matches/66232628) |
-| **[iblue](https://osu.ppy.sh/users/9184180)** | **5** | 3 | [TheEnd](https://osu.ppy.sh/users/7349993) | [#1](https://osu.ppy.sh/community/matches/66226789) |
-| **[emptypudding](https://osu.ppy.sh/users/11003085)** | **5** | 0 | [HakoFixed](https://osu.ppy.sh/users/7188447) | [#1](https://osu.ppy.sh/community/matches/66229480) |
-| **[sentez](https://osu.ppy.sh/users/8816305)** | **5** | 3 | [mirayno](https://osu.ppy.sh/users/11593174) | [#1](https://osu.ppy.sh/community/matches/66222522) |
-| **[huckmen444](https://osu.ppy.sh/users/5019334)** | **5** | 1 | [ElucidatorGG](https://osu.ppy.sh/users/9624711) | [#1](https://osu.ppy.sh/community/matches/66224652) |
-| **[LeBoum](https://osu.ppy.sh/users/8700026)** | **1** | 0 | [Wixax](https://osu.ppy.sh/users/6207181) | *win by default* |
+| ::QuadroKiller::{ user-id=7552072 } | 0 | **1** | **::Skellexon::{ user-id=11268328 }** | *win by default* |
+| **::We0l::{ user-id=13196066 }** | **5** | 0 | ::Skellexon::{ user-id=11268328 } | [#1](https://osu.ppy.sh/community/matches/66222235) |
+| **::empirasu::{ user-id=12500084 }** | **5** | 2 | ::AuroraSolaris::{ user-id=9319605 } | [#1](https://osu.ppy.sh/community/matches/66232628) |
+| **::iblue::{ user-id=9184180 }** | **5** | 3 | ::TheEnd::{ user-id=7349993 } | [#1](https://osu.ppy.sh/community/matches/66226789) |
+| **::emptypudding::{ user-id=11003085 }** | **5** | 0 | ::HakoFixed::{ user-id=7188447 } | [#1](https://osu.ppy.sh/community/matches/66229480) |
+| **::sentez::{ user-id=8816305 }** | **5** | 3 | ::mirayno::{ user-id=11593174 } | [#1](https://osu.ppy.sh/community/matches/66222522) |
+| **::huckmen444::{ user-id=5019334 }** | **5** | 1 | ::ElucidatorGG::{ user-id=9624711 } | [#1](https://osu.ppy.sh/community/matches/66224652) |
+| **::LeBoum::{ user-id=8700026 }** | **1** | 0 | ::Wixax::{ user-id=6207181 } | *win by default* |
 
 Monday, 31 August 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[dragonsaga](https://osu.ppy.sh/users/4982690)** | **5** | 0 | [Belif0226](https://osu.ppy.sh/users/10585565) | [#1](https://osu.ppy.sh/community/matches/66266650) |
+| **::dragonsaga::{ user-id=4982690 }** | **5** | 0 | ::Belif0226::{ user-id=10585565 } | [#1](https://osu.ppy.sh/community/matches/66266650) |
 
 ### Round of 32
 
@@ -426,28 +426,28 @@ Saturday, 22 August 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[huckmen444](https://osu.ppy.sh/users/5019334)** | **5** | 4 | [Wixax](https://osu.ppy.sh/users/6207181) | [#1](https://osu.ppy.sh/community/matches/65791153) |
-| **[Chickes](https://osu.ppy.sh/users/5341891)** | **5** | 2 | [Skellexon](https://osu.ppy.sh/users/11268328) | [#1](https://osu.ppy.sh/community/matches/65809401) |
-| **[dragonsaga](https://osu.ppy.sh/users/4982690)** | **5** | 1 | [TheEnd](https://osu.ppy.sh/users/7349993) | [#1](https://osu.ppy.sh/community/matches/65804673) |
-| **[Cynesta](https://osu.ppy.sh/users/8674027)** | **1** | 0 | [selimax](https://osu.ppy.sh/users/13525233) | *win by default* |
-| **[LeBoum](https://osu.ppy.sh/users/8700026)** | **5** | 0 | [ElucidatorGG](https://osu.ppy.sh/users/9624711) | [#1](https://osu.ppy.sh/community/matches/65806598) |
+| **::huckmen444::{ user-id=5019334 }** | **5** | 4 | ::Wixax::{ user-id=6207181 } | [#1](https://osu.ppy.sh/community/matches/65791153) |
+| **::Chickes::{ user-id=5341891 }** | **5** | 2 | ::Skellexon::{ user-id=11268328 } | [#1](https://osu.ppy.sh/community/matches/65809401) |
+| **::dragonsaga::{ user-id=4982690 }** | **5** | 1 | ::TheEnd::{ user-id=7349993 } | [#1](https://osu.ppy.sh/community/matches/65804673) |
+| **::Cynesta::{ user-id=8674027 }** | **1** | 0 | ::selimax::{ user-id=13525233 } | *win by default* |
+| **::LeBoum::{ user-id=8700026 }** | **5** | 0 | ::ElucidatorGG::{ user-id=9624711 } | [#1](https://osu.ppy.sh/community/matches/65806598) |
 
 Sunday, 23 August 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[empirasu](https://osu.ppy.sh/users/12500084)** | **5** | 1 | [HakoFixed](https://osu.ppy.sh/users/7188447) | [#1](https://osu.ppy.sh/community/matches/65842778) |
-| **[emptypudding](https://osu.ppy.sh/users/11003085)** | **5** | 0 | [AuroraSolaris](https://osu.ppy.sh/users/9319605) | [#1](https://osu.ppy.sh/community/matches/65856830) |
-| **[Nymphe](https://osu.ppy.sh/users/10507407)** | **1** | 0 | [cANITIN](https://osu.ppy.sh/users/11717778) | *win by default* |
-| **[iblue](https://osu.ppy.sh/users/9184180)** | **5** | 1 | [Belif0226](https://osu.ppy.sh/users/10585565) | [#1](https://osu.ppy.sh/community/matches/65854137) |
-| **[We0l](https://osu.ppy.sh/users/13196066)** | **5** | 2 | [mirayno](https://osu.ppy.sh/users/11593174) | [#1](https://osu.ppy.sh/community/matches/65849419) |
+| **::empirasu::{ user-id=12500084 }** | **5** | 1 | ::HakoFixed::{ user-id=7188447 } | [#1](https://osu.ppy.sh/community/matches/65842778) |
+| **::emptypudding::{ user-id=11003085 }** | **5** | 0 | ::AuroraSolaris::{ user-id=9319605 } | [#1](https://osu.ppy.sh/community/matches/65856830) |
+| **::Nymphe::{ user-id=10507407 }** | **1** | 0 | ::cANITIN::{ user-id=11717778 } | *win by default* |
+| **::iblue::{ user-id=9184180 }** | **5** | 1 | ::Belif0226::{ user-id=10585565 } | [#1](https://osu.ppy.sh/community/matches/65854137) |
+| **::We0l::{ user-id=13196066 }** | **5** | 2 | ::mirayno::{ user-id=11593174 } | [#1](https://osu.ppy.sh/community/matches/65849419) |
 
 Tuesday, 25 August 2020
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **[sentez](https://osu.ppy.sh/users/8816305)** | **5** | 1 | [QuadroKiller](https://osu.ppy.sh/users/7552072) | [#1](https://osu.ppy.sh/community/matches/65963979) |
-| **[Mikatsu](https://osu.ppy.sh/users/6612642)** | **1** | 0 | [nitromehmet](https://osu.ppy.sh/users/9909537) | *win by default* |
+| **::sentez::{ user-id=8816305 }** | **5** | 1 | ::QuadroKiller::{ user-id=7552072 } | [#1](https://osu.ppy.sh/community/matches/65963979) |
+| **::Mikatsu::{ user-id=6612642 }** | **1** | 0 | ::nitromehmet::{ user-id=9909537 } | *win by default* |
 
 ## Ruleset
 

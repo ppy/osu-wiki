@@ -51,7 +51,7 @@ Pada mode *osu!catch*, berbagai macam buah akan jatuh dari atas layar, yang meng
 
 *Halaman utama: [osu!mania](osu!mania)*
 
-*osu!mania* merupakan mode permainan *vertical scrolling rhythm game* (VSRG) yang dirancang sebagai simulator piano. Mode ini [diperkenalkan dan diimplementasikan](https://osu.ppy.sh/community/forums/topics/100751) oleh [woc2006](https://osu.ppy.sh/users/1105845), dan didasarkan pada berbagai permainan ritme yang menggulirkan not dari satu sisi layar ke sisi lainnya (terutama [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) dan [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Maskot mode osu!mania adalah si kembar [Mani and Mari](/wiki/Mascots#mani-&-mari), yang keduanya berambut ungu dan ungu muda.
+*osu!mania* merupakan mode permainan *vertical scrolling rhythm game* (VSRG) yang dirancang sebagai simulator piano. Mode ini [diperkenalkan dan diimplementasikan](https://osu.ppy.sh/community/forums/topics/100751) oleh ::woc2006::{ user-id=1105845 }, dan didasarkan pada berbagai permainan ritme yang menggulirkan not dari satu sisi layar ke sisi lainnya (terutama [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) dan [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Maskot mode osu!mania adalah si kembar [Mani and Mari](/wiki/Mascots#mani-&-mari), yang keduanya berambut ungu dan ungu muda.
 
 ![Permainan osu!mania](/wiki/shared/mania-gameplay.jpg "Permainan osu!mania")
 

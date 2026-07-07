@@ -15,7 +15,7 @@ Reputasi QAT di antara mapper dan pemain sebagian besar negatif karena seringnya
 
 Pada 2016, QAT mulai mendiskualifikasi beatmap secara aktif berdasarkan laporan pengguna daripada secara proaktif meninjau beatmap untuk didiskualifikasi. Hal ini menyebabkan sebagian besar tugas QAT terkait dengan manajemen, seperti mengevaluasi [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) dan memperbarui kriteria ranking.
 
-[QAT Leader](/wiki/People/Quality_Assurance_Team/QAT_Leaders) pertama dibentuk pada tahun 2017 untuk memungkinkan komunikasi antara QAT dan developer osu! setelah [Loctav](https://osu.ppy.sh/users/71366) keluar dari tim.
+[QAT Leader](/wiki/People/Quality_Assurance_Team/QAT_Leaders) pertama dibentuk pada tahun 2017 untuk memungkinkan komunikasi antara QAT dan developer osu! setelah ::Loctav::{ user-id=71366 } keluar dari tim.
 
 Penjamin kualitas masih menjadi bagian dari tanggung jawab tim, tetapi semakin berkurang dari titik fokus karena anggota BN mengambil posisi utama dalam mengendalikan kualitas.
 

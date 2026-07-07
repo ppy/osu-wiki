@@ -63,7 +63,7 @@ For the full list of prizes, check out the [Twin Trials Contest wiki article](/w
 
 With so many veteran mappers entering **Twin Trials**, everyone knew the competition would be fierce.
 
-On the judges' side, [DeviousPanda](https://osu.ppy.sh/users/4966334) and [iljaaz](https://osu.ppy.sh/users/8501291) proved they have what it takes to create 5 consistently awesome difficulties. [Their submission](https://osu.ppy.sh/beatmapsets/1971987) explored the more challenging side of what the song had to offer, while maintaining a crispy clean style throughout.
+On the judges' side, ::DeviousPanda::{ user-id=4966334 } and [iljaaz](https://osu.ppy.sh/users/8501291) proved they have what it takes to create 5 consistently awesome difficulties. [Their submission](https://osu.ppy.sh/beatmapsets/1971987) explored the more challenging side of what the song had to offer, while maintaining a crispy clean style throughout.
 
 With this outcome, the two mappers have earned the profile badge below, [2 points of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points), and their map will be used as the base for the storyboarding phase of **Twin Trials** in the near future!
 
@@ -73,21 +73,21 @@ With this outcome, the two mappers have earned the profile badge below, [2 point
 
 [![blacklist international team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/blacklist%20international.png)](https://osu.ppy.sh/beatmapsets/1971997)
 
-Runner-ups [acnozei](https://osu.ppy.sh/users/10141268) and [flake](https://osu.ppy.sh/users/7627157) earned [a point of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points) too. If you're looking for an easier map than the winner, [this one](https://osu.ppy.sh/beatmapsets/1971997) may be worth a try!
+Runner-ups ::acnozei::{ user-id=10141268 } and [flake](https://osu.ppy.sh/users/7627157) earned [a point of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points) too. If you're looking for an easier map than the winner, [this one](https://osu.ppy.sh/beatmapsets/1971997) may be worth a try!
 
 #### Community vote winner
 
 [![Hardvard Dropouts team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/osu/Harvard%20Dropouts.png)](https://osu.ppy.sh/beatmapsets/1972749)
 
-While judges favored [DeviousPanda](https://osu.ppy.sh/users/4966334) and [iljaaz](https://osu.ppy.sh/users/8501291)'s map, the wider osu! community took a different stance.
+While judges favored ::DeviousPanda::{ user-id=4966334 } and [iljaaz](https://osu.ppy.sh/users/8501291)'s map, the wider osu! community took a different stance.
 
-[This submission](https://osu.ppy.sh/beatmapsets/1972749) by [Sylas](https://osu.ppy.sh/users/3906405) and [Mimari](https://osu.ppy.sh/users/14339830) stood out above the rest according to the [community vote](https://osu.ppy.sh/community/contests/166) we held with osu!(lazer)'s playlists. Only players who finished a difficulty from every submission were capable of voting, so all mapsets were considered with each vote!
+[This submission](https://osu.ppy.sh/beatmapsets/1972749) by ::Sylas::{ user-id=3906405 } and [Mimari](https://osu.ppy.sh/users/14339830) stood out above the rest according to the [community vote](https://osu.ppy.sh/community/contests/166) we held with osu!(lazer)'s playlists. Only players who finished a difficulty from every submission were capable of voting, so all mapsets were considered with each vote!
 
-That said, [Sylas](https://osu.ppy.sh/users/3906405) and [Mimari](https://osu.ppy.sh/users/14339830) have been granted the profile badge below thanks to circle clickers like you.
+That said, ::Sylas::{ user-id=3906405 } and [Mimari](https://osu.ppy.sh/users/14339830) have been granted the profile badge below thanks to circle clickers like you.
 
 ![Twin Trials osu! community vote badge](https://assets.ppy.sh/profile-badges/twintrials2023-COM-STANDARD.png)
 
-And while they're not earning major prizes, we'd like to also shout out [yf_bmp](https://osu.ppy.sh/users/1243669) and [Moecho](https://osu.ppy.sh/users/5075660) for making an unparalleled submission for the song [Anti Hero](https://osu.ppy.sh/beatmapsets/1972202), which  was relatively untouched in osu! submissions. If you're looking for something completely fresh (both musically and from a mapping perspective), this is the map for you.
+And while they're not earning major prizes, we'd like to also shout out ::yf\1bmp::{ user-id=1243669 } and [Moecho](https://osu.ppy.sh/users/5075660) for making an unparalleled submission for the song [Anti Hero](https://osu.ppy.sh/beatmapsets/1972202), which  was relatively untouched in osu! submissions. If you're looking for something completely fresh (both musically and from a mapping perspective), this is the map for you.
 
 ### osu!taiko
 
@@ -104,7 +104,7 @@ And while they're not earning major prizes, we'd like to also shout out [yf_bmp]
 
 [![Frozen Bananas team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/taiko/Frozen%20Bananas.png)](https://osu.ppy.sh/beatmapsets/1972268)
 
-Sitting atop the podium is [this submission](https://osu.ppy.sh/beatmapsets/1972268) by legendary osu!taiko residents [uone](https://osu.ppy.sh/users/5321719) and [iceOC](https://osu.ppy.sh/users/5482401)! Each of them have a longstanding history in the osu!taiko community, winning tournaments left and right, and now they're here to put a mapping competition into their portfolios too!
+Sitting atop the podium is [this submission](https://osu.ppy.sh/beatmapsets/1972268) by legendary osu!taiko residents ::uone::{ user-id=5321719 } and [iceOC](https://osu.ppy.sh/users/5482401)! Each of them have a longstanding history in the osu!taiko community, winning tournaments left and right, and now they're here to put a mapping competition into their portfolios too!
 
 The satisfaction of being the top scoring submission is good enough, but we'll also be rewarding both mappers their own profile badge and [2 points of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points).
 
@@ -114,7 +114,7 @@ The satisfaction of being the top scoring submission is good enough, but we'll a
 
 [![meow team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/taiko/meow.png)](https://osu.ppy.sh/beatmapsets/1975181)
 
-Just missing the winner's threshold was [this submission](https://osu.ppy.sh/beatmapsets/1975181) created by a not-so-conventional pairing. [Horiiizon](https://osu.ppy.sh/users/8071438) is an osu!taiko mapping legend, while their partner [fieryrage](https://osu.ppy.sh/users/3533958) dominates the osu! scene through an unmatched trio of mapping, modding, and playing capabilties.
+Just missing the winner's threshold was [this submission](https://osu.ppy.sh/beatmapsets/1975181) created by a not-so-conventional pairing. ::Horiiizon::{ user-id=8071438 } is an osu!taiko mapping legend, while their partner ::fieryrage::{ user-id=3533958 } dominates the osu! scene through an unmatched trio of mapping, modding, and playing capabilties.
 
 This outcome adds yet another skill to fieryrage's collection, and further solidifies Horiiizon's already impressive reputation. Oh, and of course, both of them have earned [a point of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points)!
 
@@ -133,7 +133,7 @@ fieryrage also managed to earn *something else* from this contest, [but we'll ge
 
 [![:moyai: team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/catch/moyai.png)](https://osu.ppy.sh/beatmapsets/1972145)
 
-Sorry to those who root for the underdogs — [Jemzuu](https://osu.ppy.sh/users/7890134) and his partner [-Rustyy](https://osu.ppy.sh/users/16355636) are here to take the gold in yet another mapping contest. [Their submission](https://osu.ppy.sh/beatmapsets/1972145) impressed both the judges, only barely surpassing [Deif](https://osu.ppy.sh/users/318565) and [autofanboy](https://osu.ppy.sh/users/636114) in almost all categories.
+Sorry to those who root for the underdogs — ::Jemzuu::{ user-id=7890134 } and his partner ::-Rustyy::{ user-id=16355636 } are here to take the gold in yet another mapping contest. [Their submission](https://osu.ppy.sh/beatmapsets/1972145) impressed both the judges, only barely surpassing ::Deif::{ user-id=318565 } and [autofanboy](https://osu.ppy.sh/users/636114) in almost all categories.
 
 Jemzuu and -Rusty's efforts towards osu!catch mapping have paid off. Both have earned themselves a catch-specific profile badge and [2 points of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points).
 
@@ -143,7 +143,7 @@ Jemzuu and -Rusty's efforts towards osu!catch mapping have paid off. Both have e
 
 [![Alien Tails team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/catch/Alien%20Tails.png)](https://osu.ppy.sh/beatmapsets/1972368)
 
-Neck and neck, [Deif](https://osu.ppy.sh/users/318565) and [autofanboy](https://osu.ppy.sh/users/636114) narrowly took the lead from [Jemzuu](https://osu.ppy.sh/users/7890134) and [-Rustyy](https://osu.ppy.sh/users/16355636) in the [community vote](https://osu.ppy.sh/community/contests/168)!
+Neck and neck, ::Deif::{ user-id=318565 } and [autofanboy](https://osu.ppy.sh/users/636114) narrowly took the lead from ::Jemzuu::{ user-id=7890134 } and [-Rustyy](https://osu.ppy.sh/users/16355636) in the [community vote](https://osu.ppy.sh/community/contests/168)!
 
 For earning the runner-up spot, both have earned [a point of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points), and for winning the community vote, they've earned the community vote profile badge below. If you haven't tried it yet, [play their submission too](https://osu.ppy.sh/beatmapsets/1972368)!
 
@@ -168,7 +168,7 @@ For earning the runner-up spot, both have earned [a point of progress towards th
 
 [![PrtSc team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/PrtSc.png?2023)](https://osu.ppy.sh/beatmapsets/1972242)
 
-One of osu!mania's top players is now proven to be one of osu!mania's top mappers too. [tyrcs](https://osu.ppy.sh/users/13026904) and mapping veteran [richardfeder](https://osu.ppy.sh/users/2446000) impressed all 5 members of the judging panel with [their 7K submission](https://osu.ppy.sh/beatmapsets/1972242)!
+One of osu!mania's top players is now proven to be one of osu!mania's top mappers too. ::tyrcs::{ user-id=13026904 } and mapping veteran ::richardfeder::{ user-id=2446000 } impressed all 5 members of the judging panel with [their 7K submission](https://osu.ppy.sh/beatmapsets/1972242)!
 
 Each mapper has been awarded their own profile badge and [2 points of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points).
 
@@ -178,15 +178,15 @@ Each mapper has been awarded their own profile badge and [2 points of progress t
 
 [![The Wolf and the Fox team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/The%20Wolf%20and%20the%20Fox.png)](https://osu.ppy.sh/beatmapsets/1972034)
 
-[AutotelicBrown](https://osu.ppy.sh/users/4238941) and resident NAT member [Akasha-](https://osu.ppy.sh/users/2596306) fell just short of first place with [this 4K submission](https://osu.ppy.sh/beatmapsets/1972034). While they're not the winners, runner-ups receive [a point of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points)!
+::AutotelicBrown::{ user-id=4238941 } and resident NAT member ::Akasha-::{ user-id=2596306 } fell just short of first place with [this 4K submission](https://osu.ppy.sh/beatmapsets/1972034). While they're not the winners, runner-ups receive [a point of progress towards the *Elite Mapper* user title](/wiki/Contests/Contest_points)!
 
 #### Community vote winner
 
 [![Petmalu team banner](/wiki/shared/news/2023-04-17-twin-trials-beatmap-voting-open/mania/Petmalu.png)](https://osu.ppy.sh/beatmapsets/1972411)
 
-In an unprecedented scenario, osu!mania's [community vote](https://osu.ppy.sh/community/contests/169) resulted in a **3-way tie** between [BringoBrango](https://osu.ppy.sh/users/10274043)/[Stability](https://osu.ppy.sh/users/6701738), [Hytex](https://osu.ppy.sh/users/8536263)/[Ucitysm](https://osu.ppy.sh/users/14768693), and [MapleSyrup-](https://osu.ppy.sh/users/1192936)/[lenpai](https://osu.ppy.sh/users/5314573)!
+In an unprecedented scenario, osu!mania's [community vote](https://osu.ppy.sh/community/contests/169) resulted in a **3-way tie** between ::BringoBrango::{ user-id=10274043 }/[Stability](https://osu.ppy.sh/users/6701738), ::Hytex::{ user-id=8536263 }/[Ucitysm](https://osu.ppy.sh/users/14768693), and ::MapleSyrup-::{ user-id=1192936 }/[lenpai](https://osu.ppy.sh/users/5314573)!
 
-We've let the judges' scores act as a tiebreaker! Out of the three submissions, [this one](https://osu.ppy.sh/beatmapsets/1972411#mania/4092859) created by [MapleSyrup-](https://osu.ppy.sh/users/1192936) and [lenpai](https://osu.ppy.sh/users/5314573) scored the highest, so they'll earn the community vote prize!
+We've let the judges' scores act as a tiebreaker! Out of the three submissions, [this one](https://osu.ppy.sh/beatmapsets/1972411#mania/4092859) created by ::MapleSyrup-::{ user-id=1192936 } and [lenpai](https://osu.ppy.sh/users/5314573) scored the highest, so they'll earn the community vote prize!
 
 ![Twin Trials osu!mania community vote badge](https://assets.ppy.sh/profile-badges/twintrials2023-COM-MANIA.png)
 
@@ -205,13 +205,13 @@ Props to these peak performers:
 
 |  | ![](/wiki/shared/mode/osu.png) osu! | ![](/wiki/shared/mode/taiko.png) osu!taiko | ![](/wiki/shared/mode/catch.png) osu!catch | ![](/wiki/shared/mode/mania.png) osu!mania |
 | :-- | :-- | :-- | :-- | :-- |
-| **Easy playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=VN }:: [\[ Primakien \]](https://osu.ppy.sh/users/23941998) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
-| **Normal playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=LV }:: [AnApple7](https://osu.ppy.sh/users/12567935) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
-| **Hard playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=TR }:: [Yasinnnnnn](https://osu.ppy.sh/users/17482520) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
-| **Insane playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Yukiama95](https://osu.ppy.sh/users/18535502) | ::{ flag=LV }:: [AnApple7](https://osu.ppy.sh/users/12567935) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
-| **Expert playlists** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | ::{ flag=US }:: [mashu](https://osu.ppy.sh/users/12028216) |
+| **Easy playlists** | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 } | ::{ flag=JP }:: ::Yukiama95::{ user-id=18535502 } | ::{ flag=VN }:: ::\[ Primakien \]::{ user-id=23941998 } | ::{ flag=US }:: ::mashu::{ user-id=12028216 } |
+| **Normal playlists** | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 } | ::{ flag=JP }:: ::Yukiama95::{ user-id=18535502 } | ::{ flag=LV }:: ::AnApple7::{ user-id=12567935 } | ::{ flag=US }:: ::mashu::{ user-id=12028216 } |
+| **Hard playlists** | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 } | ::{ flag=JP }:: ::Yukiama95::{ user-id=18535502 } | ::{ flag=TR }:: ::Yasinnnnnn::{ user-id=17482520 } | ::{ flag=US }:: ::mashu::{ user-id=12028216 } |
+| **Insane playlists** | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 } | ::{ flag=JP }:: ::Yukiama95::{ user-id=18535502 } | ::{ flag=LV }:: ::AnApple7::{ user-id=12567935 } | ::{ flag=US }:: ::mashu::{ user-id=12028216 } |
+| **Expert playlists** | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 } | ::{ flag=JP }:: ::Grape\1Tea::{ user-id=9540073 } | ::{ flag=RU }:: ::Kimitakari::{ user-id=4741164 } | ::{ flag=US }:: ::mashu::{ user-id=12028216 } |
 
-And extra congrats to [fieryrage](https://osu.ppy.sh/users/3533958) and [mashu](https://osu.ppy.sh/users/12028216) for grinding out 1st place in every playlist for their respective modes.
+And extra congrats to ::fieryrage::{ user-id=3533958 } and [mashu](https://osu.ppy.sh/users/12028216) for grinding out 1st place in every playlist for their respective modes.
 
 ## Conclusion
 

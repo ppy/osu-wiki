@@ -9,7 +9,7 @@ Famed for composing songs for *07th Expansion*'s cult classic *Umineko no Naku K
 
 ![](https://assets.ppy.sh/artists/297/header.jpg)
 
-**-45**'s sound has been a constant presence on osu! for more than a decade. Introduced through [AngelHoney](https://osu.ppy.sh/users/104401)'s 2010 beatmap for [Aci-L](https://osu.ppy.sh/beatmapsets/13169) and further popularized by [Natteke](https://osu.ppy.sh/users/157177)'s 2011 beatmap of [Eiji Kuinbii](https://osu.ppy.sh/beatmapsets/38235), this old-school electro sound has become a staple to circle clickers worldwide.
+**-45**'s sound has been a constant presence on osu! for more than a decade. Introduced through ::AngelHoney::{ user-id=104401 }'s 2010 beatmap for [Aci-L](https://osu.ppy.sh/beatmapsets/13169) and further popularized by ::Natteke::{ user-id=157177 }'s 2011 beatmap of [Eiji Kuinbii](https://osu.ppy.sh/beatmapsets/38235), this old-school electro sound has become a staple to circle clickers worldwide.
 
 There's no shortage of **-45** tunes around here. We've picked up an unfathomable **117** songs for [**-45**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/297), all of which are available for mapping until literally the end of time.
 
@@ -23,7 +23,7 @@ It's not exactly possible to preview *every song*, but take a quick peek at **9*
 
 ### Rougoku STRIP
 
-Check out [this old-school map](https://osu.ppy.sh/beatmapsets/8555) hosted by [tieff](https://osu.ppy.sh/users/89619)!
+Check out [this old-school map](https://osu.ppy.sh/beatmapsets/8555) hosted by ::tieff::{ user-id=89619 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/297/Amagasa%20Higasa%2F-45%20-%20Rougoku%20Strip.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [this old-school map](https://osu.ppy.sh/beatmapsets/8555) hosted by [
 
 ### Aci-L
 
-Explore [this classic map](https://osu.ppy.sh/beatmapsets/13169) hosted by [AngelHoney](https://osu.ppy.sh/users/104401) or [this modern rendition](https://osu.ppy.sh/beatmapsets/1783108) hosted by [Luscent](https://osu.ppy.sh/users/2688581)!
+Explore [this classic map](https://osu.ppy.sh/beatmapsets/13169) hosted by ::AngelHoney::{ user-id=104401 } or [this modern rendition](https://osu.ppy.sh/beatmapsets/1783108) hosted by ::Luscent::{ user-id=2688581 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/297/Songs/-45%20-%20Aci-L.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Explore [this classic map](https://osu.ppy.sh/beatmapsets/13169) hosted by [Ange
 
 ### System0
 
-Relax with [this beatmap](https://osu.ppy.sh/beatmapsets/26617) hosted by [Reiji-RJ](https://osu.ppy.sh/users/305389).
+Relax with [this beatmap](https://osu.ppy.sh/beatmapsets/26617) hosted by ::Reiji-RJ::{ user-id=305389 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/297/Songs/-45%20-%20System%20Zero.mp3" type="audio/mpeg">
@@ -49,10 +49,10 @@ Relax with [this beatmap](https://osu.ppy.sh/beatmapsets/26617) hosted by [Reiji
 
 Play through any of these maps:
 
-- [Classic approved map](https://osu.ppy.sh/beatmapsets/38235) hosted by [Natteke](https://osu.ppy.sh/users/157177)
-- [Modern map](https://osu.ppy.sh/beatmapsets/812792) hosted by [PandaHero](https://osu.ppy.sh/users/1233255)
-- [Another modern map](https://osu.ppy.sh/beatmapsets/1055780) hosted by [Luscent](https://osu.ppy.sh/users/2688581)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/1827134) hosted by [Deif](https://osu.ppy.sh/users/318565)
+- [Classic approved map](https://osu.ppy.sh/beatmapsets/38235) hosted by ::Natteke::{ user-id=157177 }
+- [Modern map](https://osu.ppy.sh/beatmapsets/812792) hosted by ::PandaHero::{ user-id=1233255 }
+- [Another modern map](https://osu.ppy.sh/beatmapsets/1055780) hosted by ::Luscent::{ user-id=2688581 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/1827134) hosted by ::Deif::{ user-id=318565 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/297/Songs/-45%20-%20Midorigo%20Queen%20Bee.mp3" type="audio/mpeg">
@@ -60,7 +60,7 @@ Play through any of these maps:
 
 ### Shoujo-tachi no Majogari
 
-Experience [this osu! marathon](https://osu.ppy.sh/beatmapsets/886627) hosted by [Dada](https://osu.ppy.sh/users/9119507)!
+Experience [this osu! marathon](https://osu.ppy.sh/beatmapsets/886627) hosted by ::Dada::{ user-id=9119507 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/297/Songs/-45%20-%20Shoujo-tachi%20no%20Majogari.mp3" type="audio/mpeg">
@@ -68,7 +68,7 @@ Experience [this osu! marathon](https://osu.ppy.sh/beatmapsets/886627) hosted by
 
 ### Reikou Hatsuden
 
-Jump into [this osu!mania map](https://osu.ppy.sh/beatmapsets/1502322) hosted by [Monheim](https://osu.ppy.sh/users/6814203)!
+Jump into [this osu!mania map](https://osu.ppy.sh/beatmapsets/1502322) hosted by ::Monheim::{ user-id=6814203 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/297/Sunfleur%2F-45%20-%20Reikou%20Hatsuden.mp3" type="audio/mpeg">
@@ -76,7 +76,7 @@ Jump into [this osu!mania map](https://osu.ppy.sh/beatmapsets/1502322) hosted by
 
 ### System Sun
 
-Relive [OWC 2021's QF DT pick](https://osu.ppy.sh/beatmapsets/1616029) hosted by [Lasse](https://osu.ppy.sh/users/896613)!
+Relive [OWC 2021's QF DT pick](https://osu.ppy.sh/beatmapsets/1616029) hosted by ::Lasse::{ user-id=896613 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/297/Sunfleur/-45%20-%20System%20Sun.mp3" type="audio/mpeg">
@@ -84,7 +84,7 @@ Relive [OWC 2021's QF DT pick](https://osu.ppy.sh/beatmapsets/1616029) hosted by
 
 ### Yomitsu Harasaka CORRUPTION
 
-Learn low-BPM streams with [this osu! map](https://osu.ppy.sh/beatmapsets/845441) hosted by [Dada](https://osu.ppy.sh/users/9119507)!
+Learn low-BPM streams with [this osu! map](https://osu.ppy.sh/beatmapsets/845441) hosted by ::Dada::{ user-id=9119507 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/297/Enri%20Edo/-45%20-%20Yomotsu%20Hirasaka%20CORRUPTION.mp3?2022" type="audio/mpeg">
@@ -92,7 +92,7 @@ Learn low-BPM streams with [this osu! map](https://osu.ppy.sh/beatmapsets/845441
 
 ### Totenblume
 
-Check out [this map](https://osu.ppy.sh/beatmapsets/1668922) hosted by [Stick2Glue](https://osu.ppy.sh/users/6928574) or [this map](https://osu.ppy.sh/beatmapsets/1725549) hosted by [Dada](https://osu.ppy.sh/users/9119507)!
+Check out [this map](https://osu.ppy.sh/beatmapsets/1668922) hosted by ::Stick2Glue::{ user-id=6928574 } or [this map](https://osu.ppy.sh/beatmapsets/1725549) hosted by ::Dada::{ user-id=9119507 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/297/Songs/-45%20-%20Toten%20Blume.mp3" type="audio/mpeg">
@@ -100,7 +100,7 @@ Check out [this map](https://osu.ppy.sh/beatmapsets/1668922) hosted by [Stick2Gl
 
 ### Total Eclipse of The Sun
 
-End your **-45** session with [this brand-new osu! map](https://osu.ppy.sh/beatmapsets/1782707) hosted by [Matrix](https://osu.ppy.sh/users/5052899) or [this osu!catch map](https://osu.ppy.sh/beatmapsets/1826327) hosted by [Deif](https://osu.ppy.sh/users/318565)!
+End your **-45** session with [this brand-new osu! map](https://osu.ppy.sh/beatmapsets/1782707) hosted by ::Matrix::{ user-id=5052899 } or [this osu!catch map](https://osu.ppy.sh/beatmapsets/1826327) hosted by ::Deif::{ user-id=318565 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/297/Sunfleur/-45%20-%20Total%20Eclipse%20of%20The%20Sun.mp3" type="audio/mpeg">

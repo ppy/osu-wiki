@@ -19,7 +19,7 @@ Explore your options down here:
 
 ### Etherwood - Cast Away
 
-Check out [the map that introduced **Etherwood** to osu!](https://osu.ppy.sh/beatmapsets/368466) by [Rohit6](https://osu.ppy.sh/users/3206945) or [this brand-new map](https://osu.ppy.sh/beatmapsets/1922699) by [-Sylvari](https://osu.ppy.sh/users/3493804)!
+Check out [the map that introduced **Etherwood** to osu!](https://osu.ppy.sh/beatmapsets/368466) by ::Rohit6::{ user-id=3206945 } or [this brand-new map](https://osu.ppy.sh/beatmapsets/1922699) by ::-Sylvari::{ user-id=3493804 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/335/Songs/Etherwood%20-%20Cast%20Away.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [the map that introduced **Etherwood** to osu!](https://osu.ppy.sh/bea
 
 ### Etherwood - Fire Lit Sky
 
-Or try [this marathon](https://osu.ppy.sh/beatmapsets/1372669) created by [Ajitani Hifumi](https://osu.ppy.sh/users/14146327)!
+Or try [this marathon](https://osu.ppy.sh/beatmapsets/1372669) created by ::Ajitani Hifumi::{ user-id=14146327 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/335/Songs/Etherwood%20-%20Fire%20Lit%20Sky.mp3" type="audio/mpeg">

@@ -36,9 +36,9 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 
 | Position | Member(s) |
 | :-: | :-- |
-| Host/Manager | ::{ flag=KR }:: [CLSW](https://osu.ppy.sh/users/531253), ::{ flag=DE }:: [Nyan-Zapo](https://osu.ppy.sh/users/480676) |
-| Helper | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=IT }:: [NeoRainier](https://osu.ppy.sh/users/326049), ::{ flag=CA }:: [Weezy](https://osu.ppy.sh/users/67211), ::{ flag=SG }:: [ZHSteven](https://osu.ppy.sh/users/142413), ::{ flag=RU }:: [Louis Cyphre](https://osu.ppy.sh/users/186243) |
-| Streamer | ::{ flag=CA }:: [Sumaki](https://osu.ppy.sh/users/207916) |
+| Host/Manager | ::{ flag=KR }:: ::CLSW::{ user-id=531253 }, ::{ flag=DE }:: ::Nyan-Zapo::{ user-id=480676 } |
+| Helper | ::{ flag=ES }:: ::Deif::{ user-id=318565 }, ::{ flag=IT }:: ::NeoRainier::{ user-id=326049 }, ::{ flag=CA }:: ::Weezy::{ user-id=67211 }, ::{ flag=SG }:: ::ZHSteven::{ user-id=142413 }, ::{ flag=RU }:: ::Louis Cyphre::{ user-id=186243 } |
+| Streamer | ::{ flag=CA }:: ::Sumaki::{ user-id=207916 } |
 
 ## Links
 
@@ -49,26 +49,26 @@ The Catch the Beat World Cup was run by various osu!catch community members.
 
 | Team name | Region | Members |
 | :-- | :-- | :-- |
-| **#filipino** | South East Asia | ::{ flag=PH }:: **[blacksymbian](https://osu.ppy.sh/users/53956)**, ::{ flag=PH }:: [Cielo](https://osu.ppy.sh/users/413417), ::{ flag=PH }:: [Jdle07](https://osu.ppy.sh/users/552716), ::{ flag=PH }:: [thOnz](https://osu.ppy.sh/users/679399) |
-| **CatchTheHungarians** | Central Europe | ::{ flag=HU }:: **[Shauni8](https://osu.ppy.sh/users/260933)**, ::{ flag=HU }:: [Kriszteeee](https://osu.ppy.sh/users/470764), ::{ flag=HU }:: [Norbi](https://osu.ppy.sh/users/106822), ::{ flag=HU }:: [tuzgu](https://osu.ppy.sh/users/333129) |
-| **CFC** | East Asia | ::{ flag=KR }:: **[KRZY](https://osu.ppy.sh/users/114017)**, ::{ flag=KR }:: [ElectricShock](https://osu.ppy.sh/users/436413), ::{ flag=KR }:: [GuruK](https://osu.ppy.sh/users/568941), ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552) |
-| **Champion The Beat** | East Asia | ::{ flag=TW }:: **[Uan](https://osu.ppy.sh/users/147623)**, ::{ flag=TW }:: [- Emp4y -](https://osu.ppy.sh/users/654296), ::{ flag=TW }:: [bossandy](https://osu.ppy.sh/users/360437), ::{ flag=KR }:: [SS\_Kanzaki](https://osu.ppy.sh/users/430337) |
-| **Chile** | South America | ::{ flag=CL }:: **[eldnl](https://osu.ppy.sh/users/285756)**, ::{ flag=CL }:: [Dark\_Diego](https://osu.ppy.sh/users/723787), ::{ flag=ES }:: [Daxmaster](https://osu.ppy.sh/users/264914), ::{ flag=CL }:: [MoodyRPG](https://osu.ppy.sh/users/464889) |
-| **China** | East Asia | ::{ flag=CN }:: **[hy1hy1hy](https://osu.ppy.sh/users/243877)**, ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210), ::{ flag=HK }:: [HineX](https://osu.ppy.sh/users/13854), ::{ flag=CN }:: [joynama](https://osu.ppy.sh/users/169128) |
-| **French fruit overdose club** | Western Europe | ::{ flag=FR }:: **[Drafura](https://osu.ppy.sh/users/326099)**, ::{ flag=FR }:: [Badis](https://osu.ppy.sh/users/559308), ::{ flag=FR }:: [Lendrix](https://osu.ppy.sh/users/471169), ::{ flag=FR }:: [Tensude](https://osu.ppy.sh/users/87482) |
-| **German Hentai's** | Central Europe | ::{ flag=DE }:: **[NoteKuroi](https://osu.ppy.sh/users/186642)**, ::{ flag=DE }:: [DeathXHunter](https://osu.ppy.sh/users/186642), ::{ flag=DE }:: [Nyan-Zapo](https://osu.ppy.sh/users/480676), ::{ flag=DE }:: [Valetine](https://osu.ppy.sh/users/526634) |
-| **half manual player team** | East Asia | ::{ flag=TW }:: **[madaoB](https://osu.ppy.sh/users/8174275)**, ::{ flag=TW }:: [allen22604358](https://osu.ppy.sh/users/84921), ::{ flag=TW }:: [Flanet](https://osu.ppy.sh/users/891388), ::{ flag=TW }:: [H i M e J i](https://osu.ppy.sh/users/732285) |
-| **Hungary CTB** | Central Europe | ::{ flag=HU }:: **[TaylorXIII](https://osu.ppy.sh/users/351814)**, ::{ flag=HU }:: [Felhoo](https://osu.ppy.sh/users/129350), ::{ flag=HU }:: [Kuroi Mato](https://osu.ppy.sh/users/584921), ::{ flag=HU }:: [Petya](https://osu.ppy.sh/users/476796) |
-| **Indonesia** | South East Asia | ::{ flag=ID }:: **[Lady Vamps](https://osu.ppy.sh/users/611642)**, ::{ flag=ID }:: [Ableh\_ZZZ](https://osu.ppy.sh/users/917216), ::{ flag=ID }:: [-Newbie-](https://osu.ppy.sh/users/434914), ::{ flag=ID }:: [r3yn41d0](https://osu.ppy.sh/users/500032) |
-| **Indonesia II** | South East Asia | ::{ flag=ID }:: **[Yumi14](https://osu.ppy.sh/users/844165)**, ::{ flag=ID }:: [AeroRange](https://osu.ppy.sh/users/405659), ::{ flag=ID }:: [Devil\_Cosmo](https://osu.ppy.sh/users/689079), ::{ flag=ID }:: [Varri Naufalb](https://osu.ppy.sh/users/1174508) |
-| **Korea** | East Asia | ::{ flag=KR }:: **[Spectator](https://osu.ppy.sh/users/702598)**, ::{ flag=KR }:: [CLSW](https://osu.ppy.sh/users/531253), ::{ flag=KR }:: [CTB user](https://osu.ppy.sh/users/462488), ::{ flag=KR }:: [Speedy Cat](https://osu.ppy.sh/users/351634) |
-| **Lone wolfs** | North America | ::{ flag=US }:: **[sk8terpoke](https://osu.ppy.sh/users/1039632)**, ::{ flag=US }:: [Bolio](https://osu.ppy.sh/users/14670458), ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516), ::{ flag=US }:: [Gfbrd](https://osu.ppy.sh/users/107857) |
-| **Old School** | Western Europe/Central Europe/North America | ::{ flag=ES }:: **[CriticalDex](https://osu.ppy.sh/users/130466)**, ::{ flag=DK }:: [Emaal](https://osu.ppy.sh/users/85070), ::{ flag=BE }:: [joseph](https://osu.ppy.sh/users/212579), ::{ flag=MX }:: [Salwinjack](https://osu.ppy.sh/users/219084) |
-| **Red Fury** | Western Europe/South America | ::{ flag=ES }:: **[Deif](https://osu.ppy.sh/users/318565)**, ::{ flag=PE }:: [AleZer0](https://osu.ppy.sh/users/214574), ::{ flag=ES }:: [mikhe](https://osu.ppy.sh/users/47842), ::{ flag=ES }:: [raimoncortese](https://osu.ppy.sh/users/609627) |
-| **State(s) of the Art** | North America/South America | ::{ flag=US }:: **[Senyo](https://osu.ppy.sh/users/207928)**, ::{ flag=US }:: [AroundTheManhole](https://osu.ppy.sh/users/307626), ::{ flag=CO }:: [k4mm3r](https://osu.ppy.sh/users/286570), ::{ flag=US }:: [pieguyn](https://osu.ppy.sh/users/107485) |
-| **Team Nub** | North America | ::{ flag=CA }:: **[Sumaki](https://osu.ppy.sh/users/207916)**, ::{ flag=CA }:: [jonnypui](https://osu.ppy.sh/users/182084), ::{ flag=CA }:: [Kitsunemimi](https://osu.ppy.sh/users/100037), ::{ flag=CA }:: [Weezy](https://osu.ppy.sh/users/67211) |
-| **The Hidden Ones** | Central Europe/Eastern Europe | ::{ flag=CZ }:: **[katsek](https://osu.ppy.sh/users/522623)**, ::{ flag=BY }:: [jekasa](https://osu.ppy.sh/users/792196), ::{ flag=IT }:: [NeoRainier](https://osu.ppy.sh/users/326049) |
-| **Viciados em Crack** | South America | ::{ flag=BR }:: **[Artificial Children](https://osu.ppy.sh/users/588199)**, ::{ flag=BR }:: [Kakarotto](https://osu.ppy.sh/users/259383), ::{ flag=BR }:: [Kazuo](https://osu.ppy.sh/users/516093), ::{ flag=BR }:: [Takamura](https://osu.ppy.sh/users/1041213) |
+| **#filipino** | South East Asia | ::{ flag=PH }:: **::blacksymbian::{ user-id=53956 }**, ::{ flag=PH }:: ::Cielo::{ user-id=413417 }, ::{ flag=PH }:: ::Jdle07::{ user-id=552716 }, ::{ flag=PH }:: ::thOnz::{ user-id=679399 } |
+| **CatchTheHungarians** | Central Europe | ::{ flag=HU }:: **::Shauni8::{ user-id=260933 }**, ::{ flag=HU }:: ::Kriszteeee::{ user-id=470764 }, ::{ flag=HU }:: ::Norbi::{ user-id=106822 }, ::{ flag=HU }:: ::tuzgu::{ user-id=333129 } |
+| **CFC** | East Asia | ::{ flag=KR }:: **::KRZY::{ user-id=114017 }**, ::{ flag=KR }:: ::ElectricShock::{ user-id=436413 }, ::{ flag=KR }:: ::GuruK::{ user-id=568941 }, ::{ flag=KR }:: ::Kuzino::{ user-id=158552 } |
+| **Champion The Beat** | East Asia | ::{ flag=TW }:: **::Uan::{ user-id=147623 }**, ::{ flag=TW }:: ::- Emp4y -::{ user-id=654296 }, ::{ flag=TW }:: ::bossandy::{ user-id=360437 }, ::{ flag=KR }:: ::SS\_Kanzaki::{ user-id=430337 } |
+| **Chile** | South America | ::{ flag=CL }:: **::eldnl::{ user-id=285756 }**, ::{ flag=CL }:: ::Dark\_Diego::{ user-id=723787 }, ::{ flag=ES }:: ::Daxmaster::{ user-id=264914 }, ::{ flag=CL }:: ::MoodyRPG::{ user-id=464889 } |
+| **China** | East Asia | ::{ flag=CN }:: **::hy1hy1hy::{ user-id=243877 }**, ::{ flag=CN }:: ::Dusk::{ user-id=533210 }, ::{ flag=HK }:: ::HineX::{ user-id=13854 }, ::{ flag=CN }:: ::joynama::{ user-id=169128 } |
+| **French fruit overdose club** | Western Europe | ::{ flag=FR }:: **::Drafura::{ user-id=326099 }**, ::{ flag=FR }:: ::Badis::{ user-id=559308 }, ::{ flag=FR }:: ::Lendrix::{ user-id=471169 }, ::{ flag=FR }:: ::Tensude::{ user-id=87482 } |
+| **German Hentai's** | Central Europe | ::{ flag=DE }:: **::NoteKuroi::{ user-id=186642 }**, ::{ flag=DE }:: ::DeathXHunter::{ user-id=186642 }, ::{ flag=DE }:: ::Nyan-Zapo::{ user-id=480676 }, ::{ flag=DE }:: ::Valetine::{ user-id=526634 } |
+| **half manual player team** | East Asia | ::{ flag=TW }:: **::madaoB::{ user-id=8174275 }**, ::{ flag=TW }:: ::allen22604358::{ user-id=84921 }, ::{ flag=TW }:: ::Flanet::{ user-id=891388 }, ::{ flag=TW }:: ::H i M e J i::{ user-id=732285 } |
+| **Hungary CTB** | Central Europe | ::{ flag=HU }:: **::TaylorXIII::{ user-id=351814 }**, ::{ flag=HU }:: ::Felhoo::{ user-id=129350 }, ::{ flag=HU }:: ::Kuroi Mato::{ user-id=584921 }, ::{ flag=HU }:: ::Petya::{ user-id=476796 } |
+| **Indonesia** | South East Asia | ::{ flag=ID }:: **::Lady Vamps::{ user-id=611642 }**, ::{ flag=ID }:: ::Ableh\_ZZZ::{ user-id=917216 }, ::{ flag=ID }:: ::-Newbie-::{ user-id=434914 }, ::{ flag=ID }:: ::r3yn41d0::{ user-id=500032 } |
+| **Indonesia II** | South East Asia | ::{ flag=ID }:: **::Yumi14::{ user-id=844165 }**, ::{ flag=ID }:: ::AeroRange::{ user-id=405659 }, ::{ flag=ID }:: ::Devil\_Cosmo::{ user-id=689079 }, ::{ flag=ID }:: ::Varri Naufalb::{ user-id=1174508 } |
+| **Korea** | East Asia | ::{ flag=KR }:: **::Spectator::{ user-id=702598 }**, ::{ flag=KR }:: ::CLSW::{ user-id=531253 }, ::{ flag=KR }:: ::CTB user::{ user-id=462488 }, ::{ flag=KR }:: ::Speedy Cat::{ user-id=351634 } |
+| **Lone wolfs** | North America | ::{ flag=US }:: **::sk8terpoke::{ user-id=1039632 }**, ::{ flag=US }:: ::Bolio::{ user-id=14670458 }, ::{ flag=US }:: ::DeathxShinigami::{ user-id=49516 }, ::{ flag=US }:: ::Gfbrd::{ user-id=107857 } |
+| **Old School** | Western Europe/Central Europe/North America | ::{ flag=ES }:: **::CriticalDex::{ user-id=130466 }**, ::{ flag=DK }:: ::Emaal::{ user-id=85070 }, ::{ flag=BE }:: ::joseph::{ user-id=212579 }, ::{ flag=MX }:: ::Salwinjack::{ user-id=219084 } |
+| **Red Fury** | Western Europe/South America | ::{ flag=ES }:: **::Deif::{ user-id=318565 }**, ::{ flag=PE }:: ::AleZer0::{ user-id=214574 }, ::{ flag=ES }:: ::mikhe::{ user-id=47842 }, ::{ flag=ES }:: ::raimoncortese::{ user-id=609627 } |
+| **State(s) of the Art** | North America/South America | ::{ flag=US }:: **::Senyo::{ user-id=207928 }**, ::{ flag=US }:: ::AroundTheManhole::{ user-id=307626 }, ::{ flag=CO }:: ::k4mm3r::{ user-id=286570 }, ::{ flag=US }:: ::pieguyn::{ user-id=107485 } |
+| **Team Nub** | North America | ::{ flag=CA }:: **::Sumaki::{ user-id=207916 }**, ::{ flag=CA }:: ::jonnypui::{ user-id=182084 }, ::{ flag=CA }:: ::Kitsunemimi::{ user-id=100037 }, ::{ flag=CA }:: ::Weezy::{ user-id=67211 } |
+| **The Hidden Ones** | Central Europe/Eastern Europe | ::{ flag=CZ }:: **::katsek::{ user-id=522623 }**, ::{ flag=BY }:: ::jekasa::{ user-id=792196 }, ::{ flag=IT }:: ::NeoRainier::{ user-id=326049 } |
+| **Viciados em Crack** | South America | ::{ flag=BR }:: **::Artificial Children::{ user-id=588199 }**, ::{ flag=BR }:: ::Kakarotto::{ user-id=259383 }, ::{ flag=BR }:: ::Kazuo::{ user-id=516093 }, ::{ flag=BR }:: ::Takamura::{ user-id=1041213 } |
 
 ## Groups
 
@@ -85,9 +85,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **China** (::{ flag=CN }:: **[hy1hy1hy](https://osu.ppy.sh/users/243877)**, ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210), ::{ flag=HK }:: [HineX](https://osu.ppy.sh/users/13854), ::{ flag=CN }:: [joynama](https://osu.ppy.sh/users/169128)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **half manual player team** (::{ flag=TW }:: **[madaoB](https://osu.ppy.sh/users/8174275)**, ::{ flag=TW }:: [allen22604358](https://osu.ppy.sh/users/84921), ::{ flag=TW }:: [Flanet](https://osu.ppy.sh/users/891388), ::{ flag=TW }:: [H i M e J i](https://osu.ppy.sh/users/732285)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Chile** (::{ flag=CL }:: **[eldnl](https://osu.ppy.sh/users/285756)**, ::{ flag=CL }:: [Dark\_Diego](https://osu.ppy.sh/users/723787), ::{ flag=ES }:: [Daxmaster](https://osu.ppy.sh/users/264914), ::{ flag=CL }:: [MoodyRPG](https://osu.ppy.sh/users/464889)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **China** (::{ flag=CN }:: **::hy1hy1hy::{ user-id=243877 }**, ::{ flag=CN }:: ::Dusk::{ user-id=533210 }, ::{ flag=HK }:: ::HineX::{ user-id=13854 }, ::{ flag=CN }:: ::joynama::{ user-id=169128 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **half manual player team** (::{ flag=TW }:: **::madaoB::{ user-id=8174275 }**, ::{ flag=TW }:: ::allen22604358::{ user-id=84921 }, ::{ flag=TW }:: ::Flanet::{ user-id=891388 }, ::{ flag=TW }:: ::H i M e J i::{ user-id=732285 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Chile** (::{ flag=CL }:: **::eldnl::{ user-id=285756 }**, ::{ flag=CL }:: ::Dark\_Diego::{ user-id=723787 }, ::{ flag=ES }:: ::Daxmaster::{ user-id=264914 }, ::{ flag=CL }:: ::MoodyRPG::{ user-id=464889 }) |
 
 ## Mappools
 

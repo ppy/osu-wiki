@@ -37,9 +37,9 @@ Here's the latest from the event's osu!mania attendees, who've each broken all b
 
 Check out any of these top-tier maps:
 
-- [4K osu!mania map from the video above](https://osu.ppy.sh/beatmapsets/555076) hosted by [Wonki](https://osu.ppy.sh/users/7898495)
-- [Loved osu! map](https://osu.ppy.sh/beatmapsets/626322) hosted by [ens](https://osu.ppy.sh/users/3933391)
-- [osu!taiko difficulty spread](https://osu.ppy.sh/beatmapsets/1004571) hosted by [Nifty](https://osu.ppy.sh/users/4956097)
+- [4K osu!mania map from the video above](https://osu.ppy.sh/beatmapsets/555076) hosted by ::Wonki::{ user-id=7898495 }
+- [Loved osu! map](https://osu.ppy.sh/beatmapsets/626322) hosted by ::ens::{ user-id=3933391 }
+- [osu!taiko difficulty spread](https://osu.ppy.sh/beatmapsets/1004571) hosted by ::Nifty::{ user-id=4956097 }
 
 We recommend playing the osu!mania map *without* the skin used in the video above. [But if you insist...](https://assets.ppy.sh/artists/386/mania_skin.osk)
 
@@ -49,7 +49,7 @@ We recommend playing the osu!mania map *without* the skin used in the video abov
 
 ### Dustvoxx, Laur - FireLight
 
-Try out [this brand new osu! spread](https://osu.ppy.sh/beatmapsets/2064173) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323) or [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/978134) hosted by [yea](https://osu.ppy.sh/users/6874332)!
+Try out [this brand new osu! spread](https://osu.ppy.sh/beatmapsets/2064173) hosted by ::Hinsvar::{ user-id=1249323 } or [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/978134) hosted by ::yea::{ user-id=6874332 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx, Laur - FireLight.mp3">
@@ -59,9 +59,9 @@ Try out [this brand new osu! spread](https://osu.ppy.sh/beatmapsets/2064173) hos
 
 If remixes are more your style, check out one of these:
 
-- [Loved osu! map](https://osu.ppy.sh/beatmapsets/1035362) by [Nattu](https://osu.ppy.sh/users/1886722) and [Ciyus Miapah](https://osu.ppy.sh/users/2805457)
-- [Another Loved osu! map](https://osu.ppy.sh/beatmapsets/1526448) hosted by [OKSY](https://osu.ppy.sh/users/19484011)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/1345281) hosted by [Nosuri](https://osu.ppy.sh/users/2150415)
+- [Loved osu! map](https://osu.ppy.sh/beatmapsets/1035362) by ::Nattu::{ user-id=1886722 } and [Ciyus Miapah](https://osu.ppy.sh/users/2805457)
+- [Another Loved osu! map](https://osu.ppy.sh/beatmapsets/1526448) hosted by ::OKSY::{ user-id=19484011 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/1345281) hosted by ::Nosuri::{ user-id=2150415 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/386/HAUNT/Dustvoxx, Laur - FireLight (Neokontrol Remix).mp3">
@@ -69,7 +69,7 @@ If remixes are more your style, check out one of these:
 
 ### Dustvoxx, Loctek - Labyrinth of Mind
 
-Unlock all 4 of your dormant brain cells while playing [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/969626) hosted by [SaltyMermaid](https://osu.ppy.sh/users/9037365)!
+Unlock all 4 of your dormant brain cells while playing [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/969626) hosted by ::SaltyMermaid::{ user-id=9037365 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx, Loctek - Labyrinth of Mind.mp3">
@@ -77,7 +77,7 @@ Unlock all 4 of your dormant brain cells while playing [this 4K osu!mania map](h
 
 ### Dustvoxx - Deep Dream
 
-Once you're done with the map above, lock those 4 brain cells back up by playing [this osu! map](https://osu.ppy.sh/beatmapsets/1572241) by [garvanturr](https://osu.ppy.sh/users/9143539) or [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1673656) by [_Stan](https://osu.ppy.sh/users/1653229)!
+Once you're done with the map above, lock those 4 brain cells back up by playing [this osu! map](https://osu.ppy.sh/beatmapsets/1572241) by ::garvanturr::{ user-id=9143539 } or [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1673656) by ::\1Stan::{ user-id=1653229 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx - Deep Dream.mp3">

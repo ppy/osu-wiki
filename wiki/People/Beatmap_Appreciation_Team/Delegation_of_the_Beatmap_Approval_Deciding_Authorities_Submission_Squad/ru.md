@@ -2,7 +2,7 @@
 
 **Delegation of the Beatmap Approval Deciding Authorities; Submission Squad (*BADASS*)**[^tl-note] — процедура, согласно которой процесс подбора новых членов [Beatmap Appreciation Team (*BAT*)](/wiki/People/Beatmap_Appreciation_Team) был перенесён на форум. До момента её введения моддеры получали право ранкать чужие карты по итогам неформальных голосований, происходивших на канале `#bat` в [IRC](/wiki/Community/Internet_Relay_Chat), что было не очень прозрачно.
 
-Инициативу по введению BADASS возглавил [Ivalset](https://osu.ppy.sh/users/827) — первый [менеджер BAT](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers). Процедурой воспользовались целых 9 раз, с 9 марта по 14 октября 2009 г.
+Инициативу по введению BADASS возглавил ::Ivalset::{ user-id=827 } — первый [менеджер BAT](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers). Процедурой воспользовались целых 9 раз, с 9 марта по 14 октября 2009 г.
 
 Суть процедуры заключалась в том, что группа лидеров находила перспективных моддеров и выносила их кандидатуры на всеобщее обсуждение внутри BAT. Все, кто получал одобрение менеджера BAT, а также минимум трёх членов BAT, попадали в команду, если против них никто не проголосовал.
 

@@ -44,9 +44,9 @@ Debido a la subjetividad del flow y la cantidad de posibles patrones de movimien
 
 ## Véase también
 
-- [Analyzing Flow in Beatmaps](https://osu.ppy.sh/community/forums/topics/86329), una guía por ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000)
-- [Mapping Analysis #1 - Flow](https://osu.ppy.sh/home/news/2013-09-15-mapping-analysis-1-flow), una publicación de noticia por ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005)
-- [flow + circles](https://www.youtube.com/watch?v=ig7nTSbWwVc) y [flow + sliders](https://www.youtube.com/watch?v=GYGatwQszwQ), episodios de la serie de YouTube [osu!mapping](/wiki/Community/Video_series/osu!mapping) de ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
+- [Analyzing Flow in Beatmaps](https://osu.ppy.sh/community/forums/topics/86329), una guía por ::{ flag=US }:: ::Charles445::{ user-id=85000 }
+- [Mapping Analysis #1 - Flow](https://osu.ppy.sh/home/news/2013-09-15-mapping-analysis-1-flow), una publicación de noticia por ::{ flag=FR }:: ::Shiro::{ user-id=113005 }
+- [flow + circles](https://www.youtube.com/watch?v=ig7nTSbWwVc) y [flow + sliders](https://www.youtube.com/watch?v=GYGatwQszwQ), episodios de la serie de YouTube [osu!mapping](/wiki/Community/Video_series/osu!mapping) de ::{ flag=US }:: ::pishifat::{ user-id=3178418 }
 
 ## Notas
 

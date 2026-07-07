@@ -21,49 +21,49 @@ See what's in store for yourself:
     </video>
 </div>
 
-### [AAAA - reach for your victory!!!](https://osu.ppy.sh/beatmapsets/2227145) mapped by [toybot](https://osu.ppy.sh/users/2848604)
+### [AAAA - reach for your victory!!!](https://osu.ppy.sh/beatmapsets/2227145) mapped by ::toybot::{ user-id=2848604 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/441/Songs/AAAA%20-%20reach%20for%20your%20victory!!!.mp3">
 </audio>
 
-### [uynet - Never Rezort](https://osu.ppy.sh/beatmapsets/2214270) mapped by [Garden](https://osu.ppy.sh/users/2849992)
+### [uynet - Never Rezort](https://osu.ppy.sh/beatmapsets/2214270) mapped by ::Garden::{ user-id=2849992 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/441/Songs/uynet%20-%20Never%20Rezort.mp3">
 </audio>
 
-### [MYUKKE. - Beta Snow](https://osu.ppy.sh/beatmapsets/2223271) mapped by [captin1](https://osu.ppy.sh/users/689997)
+### [MYUKKE. - Beta Snow](https://osu.ppy.sh/beatmapsets/2223271) mapped by ::captin1::{ user-id=689997 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/441/Songs/MYUKKE.%20-%20Beta%20Snow.mp3">
 </audio>
 
-### [Sad Keyboard Guy & Gardens - Illusory Truth](https://osu.ppy.sh/beatmapsets/2219282) mapped by [toybot](https://osu.ppy.sh/users/2848604)
+### [Sad Keyboard Guy & Gardens - Illusory Truth](https://osu.ppy.sh/beatmapsets/2219282) mapped by ::toybot::{ user-id=2848604 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/441/Songs/Sad%20Keyboard%20Guy%20%26%20Gardens%20-%20Illusory%20Truth.mp3">
 </audio>
 
-### [seatrus - Blank society](https://osu.ppy.sh/beatmapsets/2226718) mapped by [Acylica](https://osu.ppy.sh/users/1943309)
+### [seatrus - Blank society](https://osu.ppy.sh/beatmapsets/2226718) mapped by ::Acylica::{ user-id=1943309 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/441/Songs/seatrus%20-%20Blank%20society.mp3">
 </audio>
 
-### [katagiri - VIVID ABYSS](https://osu.ppy.sh/beatmapsets/2227434) mapped by [Altai](https://osu.ppy.sh/users/5745865), [Lince Cosmico](https://osu.ppy.sh/users/6070370), [jas](https://osu.ppy.sh/users/8920907) and [toybot](https://osu.ppy.sh/users/2848604)
+### [katagiri - VIVID ABYSS](https://osu.ppy.sh/beatmapsets/2227434) mapped by ::Altai::{ user-id=5745865 }, [Lince Cosmico](https://osu.ppy.sh/users/6070370), ::jas::{ user-id=8920907 } and [toybot](https://osu.ppy.sh/users/2848604)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/441/Songs/katagiri%20-%20VIVID%20ABYSS.mp3">
 </audio>
 
-### [DJ Raisei - ReDIVE NEURON](https://osu.ppy.sh/beatmapsets/2227156) mapped by [Sing](https://osu.ppy.sh/users/3795679)
+### [DJ Raisei - ReDIVE NEURON](https://osu.ppy.sh/beatmapsets/2227156) mapped by ::Sing::{ user-id=3795679 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/441/Songs/DJ%20Raisei%20-%20ReDIVE%20NEURON.mp3">
 </audio>
 
-### [Kagetora. - Tenchi-Kaibyaku](https://osu.ppy.sh/beatmapsets/2218861) mapped by [acnozei](https://osu.ppy.sh/users/10141268)
+### [Kagetora. - Tenchi-Kaibyaku](https://osu.ppy.sh/beatmapsets/2218861) mapped by ::acnozei::{ user-id=10141268 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/441/Songs/Kagetora.%20-%20Tenchi-Kaibyaku.mp3">

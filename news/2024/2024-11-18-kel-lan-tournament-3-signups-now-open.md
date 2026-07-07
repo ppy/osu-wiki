@@ -55,7 +55,7 @@ During the breaks between or after tournament matches, we'll be hosting a variet
 
 This year's tournament brings an exciting twist — special guests will be joining the competition! Qualify, and you'll have the chance to go head-to-head with top players and special guests alike.
 
-[One of those guests have been revealed already.](https://youtube.com/watch?v=quAevI_lYf0) Welcome aboard, [Rafis](https://osu.ppy.sh/users/2558286). Here's the next set of guests:
+[One of those guests have been revealed already.](https://youtube.com/watch?v=quAevI_lYf0) Welcome aboard, ::Rafis::{ user-id=2558286 }. Here's the next set of guests:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/4x2NDy4LuYQ" frameborder="0" allowfullscreen></iframe>

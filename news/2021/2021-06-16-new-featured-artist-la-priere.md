@@ -23,7 +23,7 @@ Despite being comprised of some of the biggest names surrounding the rhythm game
 
 ### Senjou no Utahime
 
-Check out [this beatmap](https://osu.ppy.sh/beatmapsets/1398580) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323) from the video above!
+Check out [this beatmap](https://osu.ppy.sh/beatmapsets/1398580) hosted by ::Hinsvar::{ user-id=1249323 } from the video above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/174/Galaxy%20Triangle%2FLa%20priere%20-%20Senjou%20no%20Utahime.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [this beatmap](https://osu.ppy.sh/beatmapsets/1398580) hosted by [Hins
 
 ### Kyouzou no Canon
 
-If you need something easier, [this beatmap](https://osu.ppy.sh/beatmapsets/1475603) hosted by [-Aqua](https://osu.ppy.sh/users/7150015) is a solid choice too!
+If you need something easier, [this beatmap](https://osu.ppy.sh/beatmapsets/1475603) hosted by ::-Aqua::{ user-id=7150015 } is a solid choice too!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/174/Gemini%20Syndrome%2FLa%20priere%20-%20Kyouzou%20no%20Canon.mp3" type="audio/mpeg">

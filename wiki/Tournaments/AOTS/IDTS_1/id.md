@@ -8,7 +8,7 @@ tags:
 
 ![Logo IDTS](img/logo.png)
 
-**Indonesian Taiko Showdown** (***IDTS***) adalah turnamen eliminasi ganda satu-lawan-satu, mode osu!taiko regional Indonesia, yang diselenggarakan oleh ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002). Kali ini merupakan instalasi ke-1 dari turnamen Asian Taiko Showdown Taiko Showdown.
+**Indonesian Taiko Showdown** (***IDTS***) adalah turnamen eliminasi ganda satu-lawan-satu, mode osu!taiko regional Indonesia, yang diselenggarakan oleh ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 }. Kali ini merupakan instalasi ke-1 dari turnamen Asian Taiko Showdown Taiko Showdown.
 
 ## Jadwal Turnamen
 
@@ -37,14 +37,14 @@ Indonesian Taiko Showdown dapat berlangsung dikarenakan berbagai anggota komunit
 
 | Posisi | Anggota |
 | :-- | :-- |
-| Penyelenggara | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=ID }:: [Aozora-](https://osu.ppy.sh/users/6918206) |
-| Pemilih Map | ::{ flag=ID }:: [Niko-nyan](https://osu.ppy.sh/users/906991) |
-| Penyiar | ::{ flag=JP }:: [SakuraFrost-](https://osu.ppy.sh/users/8147993), ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Komentator | ::{ flag=ID }:: [Guardistack-](https://osu.ppy.sh/users/1602428), ::{ flag=ID }:: [ganjas62](https://osu.ppy.sh/users/934685), ::{ flag=ID }:: [Kayano-](https://osu.ppy.sh/users/4999506), ::{ flag=ID }:: [Wim Are](https://osu.ppy.sh/users/4505744) |
-| Designer | ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Wasit | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=ID }:: [LittleBird-](https://osu.ppy.sh/users/6668671), ::{ flag=ID }:: [MRaihanZ](https://osu.ppy.sh/users/6668671), ::{ flag=ID }:: [Etherealize](https://osu.ppy.sh/users/7850608), ::{ flag=ID }:: [Niko-nyan](https://osu.ppy.sh/users/906991), ::{ flag=ID }:: [Aozora-](https://osu.ppy.sh/users/6918206) |
-| Ahli Statistik | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Penyelenggara | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 }, ::{ flag=ID }:: ::Aozora-::{ user-id=6918206 } |
+| Pemilih Map | ::{ flag=ID }:: ::Niko-nyan::{ user-id=906991 } |
+| Penyiar | ::{ flag=JP }:: ::SakuraFrost-::{ user-id=8147993 }, ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
+| Komentator | ::{ flag=ID }:: ::Guardistack-::{ user-id=1602428 }, ::{ flag=ID }:: ::ganjas62::{ user-id=934685 }, ::{ flag=ID }:: ::Kayano-::{ user-id=4999506 }, ::{ flag=ID }:: ::Wim Are::{ user-id=4505744 } |
+| Designer | ::{ flag=PH }:: ::OsuMe65::{ user-id=852867 }, ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
+| Wasit | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 }, ::{ flag=ID }:: ::LittleBird-::{ user-id=6668671 }, ::{ flag=ID }:: ::MRaihanZ::{ user-id=6668671 }, ::{ flag=ID }:: ::Etherealize::{ user-id=7850608 }, ::{ flag=ID }:: ::Niko-nyan::{ user-id=906991 }, ::{ flag=ID }:: ::Aozora-::{ user-id=6918206 } |
+| Ahli Statistik | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
+| Wiki | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Tautan
 
@@ -57,17 +57,17 @@ Indonesian Taiko Showdown dapat berlangsung dikarenakan berbagai anggota komunit
 
 | Seed | Anggota |
 | :-- | :-- |
-| Top | ::{ flag=ID }:: [pmriva](https://osu.ppy.sh/users/2180885), ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768), ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209), ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664), ::{ flag=ID }:: [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ::{ flag=ID }:: [misaki\_tk](https://osu.ppy.sh/users/3866964), ::{ flag=ID }:: [steven1](https://osu.ppy.sh/users/3090416), ::{ flag=ID }:: [Surono](https://osu.ppy.sh/users/3611370) |
-| High | ::{ flag=ID }:: [Koucha-](https://osu.ppy.sh/users/2537412), ::{ flag=ID }:: [\_Destroyer\_](https://osu.ppy.sh/users/3185598), ::{ flag=ID }:: [Plua-](https://osu.ppy.sh/users/974012), ::{ flag=ID }:: [ayomikasa](https://osu.ppy.sh/users/4866957), ::{ flag=ID }:: [Shirai-](https://osu.ppy.sh/users/4221845), ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071), ::{ flag=ID }:: [Wim Are](https://osu.ppy.sh/users/4505744), ::{ flag=ID }:: [Kayano-](https://osu.ppy.sh/users/4999506) |
-| Low | ::{ flag=ID }:: [Rendang](https://osu.ppy.sh/users/3866968), ::{ flag=ID }:: [Kzl](https://osu.ppy.sh/users/7058490), ::{ flag=ID }:: [Franklin\_DeJavu](https://osu.ppy.sh/users/5569341), ::{ flag=ID }:: [sweetbravery](https://osu.ppy.sh/users/6807808), ::{ flag=ID }:: Elisabeth-, ::{ flag=ID }:: [\_CaKy\_](https://osu.ppy.sh/users/9828983), ::{ flag=ID }:: [Buyut](https://osu.ppy.sh/users/9608136), ::{ flag=ID }:: [pingping2011](https://osu.ppy.sh/users/1094255) |
+| Top | ::{ flag=ID }:: ::pmriva::{ user-id=2180885 }, ::{ flag=ID }:: ::Nishizumi::{ user-id=2496768 }, ::{ flag=ID }:: ::XK2238::{ user-id=1139209 }, ::{ flag=ID }:: ::Katdon\_donKat::{ user-id=8089664 }, ::{ flag=ID }:: ::Lightning Wyvern::{ user-id=1533122 }, ::{ flag=ID }:: ::misaki\_tk::{ user-id=3866964 }, ::{ flag=ID }:: ::steven1::{ user-id=3090416 }, ::{ flag=ID }:: ::Surono::{ user-id=3611370 } |
+| High | ::{ flag=ID }:: ::Koucha-::{ user-id=2537412 }, ::{ flag=ID }:: ::\_Destroyer\_::{ user-id=3185598 }, ::{ flag=ID }:: ::Plua-::{ user-id=974012 }, ::{ flag=ID }:: ::ayomikasa::{ user-id=4866957 }, ::{ flag=ID }:: ::Shirai-::{ user-id=4221845 }, ::{ flag=ID }:: ::Volta::{ user-id=4154071 }, ::{ flag=ID }:: ::Wim Are::{ user-id=4505744 }, ::{ flag=ID }:: ::Kayano-::{ user-id=4999506 } |
+| Low | ::{ flag=ID }:: ::Rendang::{ user-id=3866968 }, ::{ flag=ID }:: ::Kzl::{ user-id=7058490 }, ::{ flag=ID }:: ::Franklin\_DeJavu::{ user-id=5569341 }, ::{ flag=ID }:: ::sweetbravery::{ user-id=6807808 }, ::{ flag=ID }:: Elisabeth-, ::{ flag=ID }:: ::\_CaKy\_::{ user-id=9828983 }, ::{ flag=ID }:: ::Buyut::{ user-id=9608136 }, ::{ flag=ID }:: ::pingping2011::{ user-id=1094255 } |
 
 ## Grup
 
 | Grup A | Grup B | Grup C | Grup D | Grup E | Grup F | Grup G | Grup H |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| ::{ flag=ID }:: [Surono](https://osu.ppy.sh/users/3611370) | ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209) | ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768) | ::{ flag=ID }:: [Lightning Wyvern](https://osu.ppy.sh/users/1533122) | ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664) | ::{ flag=ID }:: [misaki\_tk](https://osu.ppy.sh/users/3866964) | ::{ flag=ID }:: [steven1](https://osu.ppy.sh/users/3090416) | ::{ flag=ID }:: [pmriva](https://osu.ppy.sh/users/2180885) |
-| ::{ flag=ID }:: [Wim Are](https://osu.ppy.sh/users/4505744) | ::{ flag=ID }:: [ayomikasa](https://osu.ppy.sh/users/4866957) | ::{ flag=ID }:: [Koucha-](https://osu.ppy.sh/users/2537412) | ::{ flag=ID }:: [Plua-](https://osu.ppy.sh/users/974012) | ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071) | ::{ flag=ID }:: [\_Destroyer\_](https://osu.ppy.sh/users/3185598) | ::{ flag=ID }:: [Kayano-](https://osu.ppy.sh/users/4999506) | ::{ flag=ID }:: [Shirai-](https://osu.ppy.sh/users/4221845) |
-| ::{ flag=ID }:: [Buyut](https://osu.ppy.sh/users/9608136) | ::{ flag=ID }:: [Kzl](https://osu.ppy.sh/users/7058490) | ::{ flag=ID }:: [pingping2011](https://osu.ppy.sh/users/1094255) | ::{ flag=ID }:: [sweetbravery](https://osu.ppy.sh/users/6807808) | ::{ flag=ID }:: Elisabeth- | ::{ flag=ID }:: [Rendang](https://osu.ppy.sh/users/3866968) | ::{ flag=ID }:: [\_CaKy\_](https://osu.ppy.sh/users/9828983) | ::{ flag=ID }:: [Franklin\_DeJavu](https://osu.ppy.sh/users/5569341) |
+| ::{ flag=ID }:: ::Surono::{ user-id=3611370 } | ::{ flag=ID }:: ::XK2238::{ user-id=1139209 } | ::{ flag=ID }:: ::Nishizumi::{ user-id=2496768 } | ::{ flag=ID }:: ::Lightning Wyvern::{ user-id=1533122 } | ::{ flag=ID }:: ::Katdon\_donKat::{ user-id=8089664 } | ::{ flag=ID }:: ::misaki\_tk::{ user-id=3866964 } | ::{ flag=ID }:: ::steven1::{ user-id=3090416 } | ::{ flag=ID }:: ::pmriva::{ user-id=2180885 } |
+| ::{ flag=ID }:: ::Wim Are::{ user-id=4505744 } | ::{ flag=ID }:: ::ayomikasa::{ user-id=4866957 } | ::{ flag=ID }:: ::Koucha-::{ user-id=2537412 } | ::{ flag=ID }:: ::Plua-::{ user-id=974012 } | ::{ flag=ID }:: ::Volta::{ user-id=4154071 } | ::{ flag=ID }:: ::\_Destroyer\_::{ user-id=3185598 } | ::{ flag=ID }:: ::Kayano-::{ user-id=4999506 } | ::{ flag=ID }:: ::Shirai-::{ user-id=4221845 } |
+| ::{ flag=ID }:: ::Buyut::{ user-id=9608136 } | ::{ flag=ID }:: ::Kzl::{ user-id=7058490 } | ::{ flag=ID }:: ::pingping2011::{ user-id=1094255 } | ::{ flag=ID }:: ::sweetbravery::{ user-id=6807808 } | ::{ flag=ID }:: Elisabeth- | ::{ flag=ID }:: ::Rendang::{ user-id=3866968 } | ::{ flag=ID }:: ::\_CaKy\_::{ user-id=9828983 } | ::{ flag=ID }:: ::Franklin\_DeJavu::{ user-id=5569341 } |
 
 ## Podium
 
@@ -75,9 +75,9 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 | Posisi | Pemain |
 | :-: | :-- |
-| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara satu") | ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209) |
-| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara dua") | ::{ flag=ID }:: [pmriva](https://osu.ppy.sh/users/2180885) |
-| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara tiga") | ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768) |
+| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara satu") | ::{ flag=ID }:: ::XK2238::{ user-id=1139209 } |
+| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara dua") | ::{ flag=ID }:: ::pmriva::{ user-id=2180885 } |
+| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara tiga") | ::{ flag=ID }:: ::Nishizumi::{ user-id=2496768 } |
 
 ## Mappools
 

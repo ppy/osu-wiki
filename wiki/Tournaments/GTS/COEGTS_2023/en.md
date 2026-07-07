@@ -13,7 +13,7 @@ tags:
 
 ![COEGTS 2023 banner](img/banner.png)
 
-**cavoe's osu! event Global Taiko Showdown 2023** (***COEGTS 2023***) was a 1v1 single-elimination osu!taiko LAN tournament hosted by ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) and ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438) during [cavoe's osu! event 2023 (COE 2023)](/wiki/Community/cavoe's_osu!_event/2023) at Brabanthallen in 's-Hertogenbosch, Netherlands. It was the first instalment of cavoe's osu! event's Global Taiko Showdown and the first offline tournament in the Global Taiko Showdown series.
+**cavoe's osu! event Global Taiko Showdown 2023** (***COEGTS 2023***) was a 1v1 single-elimination osu!taiko LAN tournament hosted by ::{ flag=FR }:: ::Kasumi-sama::{ user-id=6177263 } and ::{ flag=NL }:: ::TaikoMom::{ user-id=9086438 } during [cavoe's osu! event 2023 (COE 2023)](/wiki/Community/cavoe's_osu!_event/2023) at Brabanthallen in 's-Hertogenbosch, Netherlands. It was the first instalment of cavoe's osu! event's Global Taiko Showdown and the first offline tournament in the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -43,14 +43,14 @@ cavoe's osu! event Global Taiko Showdown 2023 was run by various community membe
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438) |
-| Mappool selector | ::{ flag=FR }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122) |
-| Streamer | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438) |
-| Commentator | ::{ flag=US }:: [ETHN](https://osu.ppy.sh/users/9536977), ::{ flag=DE }:: [Joogs](https://osu.ppy.sh/users/8844167), ::{ flag=GB }:: [overdahedge2014](https://osu.ppy.sh/users/9864847), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639) |
-| Referee | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438) |
-| Mapper | ::{ flag=US }:: [5_5](https://osu.ppy.sh/users/6853438), ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728), ::{ flag=FR }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519), ::{ flag=MY }:: [MTNTWarz](https://osu.ppy.sh/users/14036825), ::{ flag=DE }:: [Mew](https://osu.ppy.sh/users/2345156), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344), ::{ flag=US }:: [Yujki](https://osu.ppy.sh/users/14987094), ::{ flag=JP }:: [_Rise](https://osu.ppy.sh/users/5217107), ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122) |
-| Designer | ::{ flag=ID }:: [Aikosa](https://osu.ppy.sh/users/17730569), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685), ::{ flag=HK }:: Transendium, ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016), ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966) |
-| Playtester | ::{ flag=US }:: [FrootLoopy542](https://osu.ppy.sh/users/5468461), ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073), ::{ flag=GB }:: [overdahedge2014](https://osu.ppy.sh/users/9864847) |
+| Organiser | ::{ flag=FR }:: ::Kasumi-sama::{ user-id=6177263 }, ::{ flag=NL }:: ::TaikoMom::{ user-id=9086438 } |
+| Mappool selector | ::{ flag=FR }:: ::Briesmas::{ user-id=2865172 }, ::{ flag=HK }:: ::Cynplytholowazy::{ user-id=3901754 }, ::{ flag=BR }:: ::Ideal::{ user-id=3869519 }, ::{ flag=NO }:: ::roufou::{ user-id=1109122 } |
+| Streamer | ::{ flag=FR }:: ::Kasumi-sama::{ user-id=6177263 }, ::{ flag=NL }:: ::TaikoMom::{ user-id=9086438 } |
+| Commentator | ::{ flag=US }:: ::ETHN::{ user-id=9536977 }, ::{ flag=DE }:: ::Joogs::{ user-id=8844167 }, ::{ flag=GB }:: ::overdahedge2014::{ user-id=9864847 }, ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 }, ::{ flag=GB }:: ::Teezel::{ user-id=7528639 } |
+| Referee | ::{ flag=FR }:: ::Kasumi-sama::{ user-id=6177263 }, ::{ flag=NL }:: ::TaikoMom::{ user-id=9086438 } |
+| Mapper | ::{ flag=US }:: ::5\15::{ user-id=6853438 }, ::{ flag=PT }:: ::BabySnakes::{ user-id=4669728 }, ::{ flag=FR }:: ::Briesmas::{ user-id=2865172 }, ::{ flag=HK }:: ::Cynplytholowazy::{ user-id=3901754 }, ::{ flag=EC }:: ::Gamelan4::{ user-id=9856910 }, ::{ flag=BR }:: ::HiroK::{ user-id=4050738 }, ::{ flag=TN }:: ::Hivie::{ user-id=14102976 }, ::{ flag=BR }:: ::Ideal::{ user-id=3869519 }, ::{ flag=MY }:: ::MTNTWarz::{ user-id=14036825 }, ::{ flag=DE }:: ::Mew::{ user-id=2345156 }, ::{ flag=DE }:: ::Nwolf::{ user-id=1910766 }, ::{ flag=TH }:: ::Ph0eNiiXZ::{ user-id=9463721 }, ::{ flag=SE }:: ::Raphalge::{ user-id=3918650 }, ::{ flag=NL }:: ::TaikoMom::{ user-id=9086438 }, ::{ flag=TW }:: ::X a v y::{ user-id=3738344 }, ::{ flag=US }:: ::Yujki::{ user-id=14987094 }, ::{ flag=JP }:: ::\1Rise::{ user-id=5217107 }, ::{ flag=FR }:: ::\1yosh::{ user-id=7157133 }, ::{ flag=MY }:: ::ler1211::{ user-id=19901680 }, ::{ flag=NO }:: ::roufou::{ user-id=1109122 } |
+| Designer | ::{ flag=ID }:: ::Aikosa::{ user-id=17730569 }, ::{ flag=MY }:: ::Iyouka::{ user-id=7138499 }, ::{ flag=MY }:: ::Jerry::{ user-id=605973 }, ::{ flag=PH }:: ::OsuMe65::{ user-id=852867 }, ::{ flag=KR }:: ::POCARI SWEAT::{ user-id=5082685 }, ::{ flag=HK }:: Transendium, ::{ flag=TH }:: ::YuugenP::{ user-id=2014016 }, ::{ flag=MY }:: ::\1Zeth\1::{ user-id=9912966 } |
+| Playtester | ::{ flag=US }:: ::FrootLoopy542::{ user-id=5468461 }, ::{ flag=JP }:: ::Grape\1Tea::{ user-id=9540073 }, ::{ flag=GB }:: ::overdahedge2014::{ user-id=9864847 } |
 
 ## Links
 
@@ -69,11 +69,11 @@ cavoe's osu! event Global Taiko Showdown 2023 was run by various community membe
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116), ::{ flag=FI }:: [Mazzuli500](https://osu.ppy.sh/users/10648818), ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) |
-| High | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945), ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=US }:: [Chupalika](https://osu.ppy.sh/users/1926383), ::{ flag=FI }:: [MEGAMELA](https://osu.ppy.sh/users/13613362) |
-| Low | ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722), ::{ flag=NL }:: [Krekker](https://osu.ppy.sh/users/8265940), ::{ flag=NL }:: [StrijkIjzer](https://osu.ppy.sh/users/4130926), ::{ flag=PL }:: [Qroissant](https://osu.ppy.sh/users/9511518) |
-| Unseeded | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=NL }:: [Edesto](https://osu.ppy.sh/users/5088562), ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763), ::{ flag=NL }:: [demonking7447](https://osu.ppy.sh/users/11094496) |
-| Eliminated | ::{ flag=DE }:: [afe](https://osu.ppy.sh/users/7344333), ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367), ::{ flag=DE }:: [Musubi](https://osu.ppy.sh/users/9562353) |
+| Top | ::{ flag=US }:: ::AuroraPhasmata::{ user-id=13664116 }, ::{ flag=FI }:: ::Mazzuli500::{ user-id=10648818 }, ::{ flag=IT }:: ::D3kuu::{ user-id=7807444 }, ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 } |
+| High | ::{ flag=IT }:: ::Ikkun::{ user-id=1059945 }, ::{ flag=DE }:: ::Drecksackblase::{ user-id=6278008 }, ::{ flag=US }:: ::Chupalika::{ user-id=1926383 }, ::{ flag=FI }:: ::MEGAMELA::{ user-id=13613362 } |
+| Low | ::{ flag=NL }:: ::Cookie\1Tree::{ user-id=502722 }, ::{ flag=NL }:: ::Krekker::{ user-id=8265940 }, ::{ flag=NL }:: ::StrijkIjzer::{ user-id=4130926 }, ::{ flag=PL }:: ::Qroissant::{ user-id=9511518 } |
+| Unseeded | ::{ flag=NL }:: ::ikin5050::{ user-id=4007649 }, ::{ flag=NL }:: ::Edesto::{ user-id=5088562 }, ::{ flag=GB }:: ::aceticke::{ user-id=8838763 }, ::{ flag=NL }:: ::demonking7447::{ user-id=11094496 } |
+| Eliminated | ::{ flag=DE }:: ::afe::{ user-id=7344333 }, ::{ flag=DE }:: ::ERA Punish::{ user-id=10615367 }, ::{ flag=DE }:: ::Musubi::{ user-id=9562353 } |
 
 ## Podium
 
@@ -81,9 +81,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FI }:: [Mazzuli500](https://osu.ppy.sh/users/10648818) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: ::AuroraPhasmata::{ user-id=13664116 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=IT }:: ::D3kuu::{ user-id=7807444 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FI }:: ::Mazzuli500::{ user-id=10648818 } |
 
 ## Mappools
 

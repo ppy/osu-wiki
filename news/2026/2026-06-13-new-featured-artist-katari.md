@@ -23,7 +23,7 @@ There are a total of **8** new tracks on [**Katari**'s Featured Artist listing](
 
 ### Katari - Cosmic Aberrations from Beyond the Pixel-Verse
 
-Experience what lies beyond for yourself when playing [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2466060) hosted by [FanIsAnIdiot](https://osu.ppy.sh/users/18293924)!
+Experience what lies beyond for yourself when playing [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2466060) hosted by ::FanIsAnIdiot::{ user-id=18293924 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/549/Songs/Katari%20-%20Cosmic%20Aberrations%20from%20Beyond%20the%20Pixel-Verse.mp3">
@@ -31,7 +31,7 @@ Experience what lies beyond for yourself when playing [this 4K osu!mania map](ht
 
 ### Katari - Flux Fiend
 
-[Kukkai](https://osu.ppy.sh/users/7811952) created [a whole osu!catch difficulty spread](https://osu.ppy.sh/beatmapsets/2480713) just for you.
+::Kukkai::{ user-id=7811952 } created [a whole osu!catch difficulty spread](https://osu.ppy.sh/beatmapsets/2480713) just for you.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/549/Songs/Katari%20-%20Flux%20Fiend.mp3">
@@ -39,7 +39,7 @@ Experience what lies beyond for yourself when playing [this 4K osu!mania map](ht
 
 ### Zmagz - Smile (Katari Remix)
 
-Try out [any of these 4K osu!mania difficulties](https://osu.ppy.sh/beatmapsets/2488779) mapped by [Linlime](https://osu.ppy.sh/users/14438535)!
+Try out [any of these 4K osu!mania difficulties](https://osu.ppy.sh/beatmapsets/2488779) mapped by ::Linlime::{ user-id=14438535 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/549/Songs/Zmagz_-_Smile_Katari_Remix.mp3">

@@ -36,7 +36,7 @@ If you're attending *a certain osu! event* this year, you might have seen someon
 
 ### awfuless - Temptation
 
-Try out [the map from the tandem gameplay video above](https://osu.ppy.sh/beatmapsets/1983389) hosted by [Strategas](https://osu.ppy.sh/users/2971837)!
+Try out [the map from the tandem gameplay video above](https://osu.ppy.sh/beatmapsets/1983389) hosted by ::Strategas::{ user-id=2971837 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/374/PRISMA/awfuless%20-%20Temptation.mp3">
@@ -44,7 +44,7 @@ Try out [the map from the tandem gameplay video above](https://osu.ppy.sh/beatma
 
 ### Synthion, Yunna Nini - By My Side
 
-Or explore [this showcase set](https://osu.ppy.sh/beatmapsets/1993256) hosted by [Shirohane Suou](https://osu.ppy.sh/users/10820856)!
+Or explore [this showcase set](https://osu.ppy.sh/beatmapsets/1993256) hosted by ::Shirohane Suou::{ user-id=10820856 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/357/PRISMA/Synthion%2C%20Yuuna%20Nini%20-%20By%20My%20Side.mp3">
@@ -52,7 +52,7 @@ Or explore [this showcase set](https://osu.ppy.sh/beatmapsets/1993256) hosted by
 
 ### you - Meteor (feat. TEA)
 
-And here's [one more map to check out](https://osu.ppy.sh/beatmapsets/1984574) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)
+And here's [one more map to check out](https://osu.ppy.sh/beatmapsets/1984574) hosted by ::Hinsvar::{ user-id=1249323 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/374/PRISMA%2Fyou%2C%20TEA%20-%20Meteor.mp3">

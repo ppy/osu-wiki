@@ -13,11 +13,11 @@ Latvian musician **hikota** is a master of mood-setting. Mixing inspiration from
 
 [**hikota**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/463) has a grand total of **27** tracks, each timed in advance for your next session in the editor.
 
-Need some inspiration? [nik](https://osu.ppy.sh/users/10077264) and [Kyouren](https://osu.ppy.sh/users/2013571) have you covered:
+Need some inspiration? ::nik::{ user-id=10077264 } and [Kyouren](https://osu.ppy.sh/users/2013571) have you covered:
 
 ### [hikota - Acceptance](https://assets.ppy.sh/artists/463/Purgatory/hikota%20-%20Acceptance.osz)
 
-Try out [this map showcased below](https://osu.ppy.sh/beatmapsets/2301725) hosted by [nik](https://osu.ppy.sh/users/10077264)!
+Try out [this map showcased below](https://osu.ppy.sh/beatmapsets/2301725) hosted by ::nik::{ user-id=10077264 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -27,7 +27,7 @@ Try out [this map showcased below](https://osu.ppy.sh/beatmapsets/2301725) hoste
 
 ### [hikota - farewell](https://assets.ppy.sh/artists/463/Kaeru%20no%20Tanjo/hikota%20-%20Farewell.osz)
 
-Or try [this frog-centric map](https://osu.ppy.sh/beatmapsets/2260529) hosted by [Kyouren](https://osu.ppy.sh/users/2013571)!
+Or try [this frog-centric map](https://osu.ppy.sh/beatmapsets/2260529) hosted by ::Kyouren::{ user-id=2013571 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/463/Kaeru%20no%20Tanjo/hikota%20-%20Farewell.mp3">

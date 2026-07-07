@@ -9,7 +9,7 @@ We're proud to welcome the critically acclaimed progressive metal act **Ne Obliv
 
 ![](https://assets.ppy.sh/artists/86/header.jpg)
 
-Turning heads among the top echelon beatmapping and player community since [mithew](https://osu.ppy.sh/users/2571893)'s highly vaunted creation set to [*Painters of the Tempest (Part II): Triptych Lux*](https://osu.ppy.sh/beatmapsets/724192/#osu/1529189) during early 2018, [**Ne Obliviscaris**](https://osu.ppy.sh/beatmaps/artists/86) is an Australian metal band making huge waves in the scene since 2003 with their unique blend of progressive and extreme metal.
+Turning heads among the top echelon beatmapping and player community since ::mithew::{ user-id=2571893 }'s highly vaunted creation set to [*Painters of the Tempest (Part II): Triptych Lux*](https://osu.ppy.sh/beatmapsets/724192/#osu/1529189) during early 2018, [**Ne Obliviscaris**](https://osu.ppy.sh/beatmaps/artists/86) is an Australian metal band making huge waves in the scene since 2003 with their unique blend of progressive and extreme metal.
 
 Continuing a trend among tried and true players, **Ne Obliviscaris** joins the likes of **Æther Realm** and **Rivers of Nihil** as some of the community's most widely adored metal acts. We're proud to support this longstanding tradition with a cursory addition of **15** new tracks from these insanely talented shredders, including ones you know and love.
 
@@ -19,7 +19,7 @@ Give them a listen and see for yourself:
 
 ### Painters of the Tempest (Part II): Triptych Lux
 
-Check out [this classic, critically acclaimed set](https://osu.ppy.sh/beatmapsets/724192) by [mithew](https://osu.ppy.sh/users/2571893)!
+Check out [this classic, critically acclaimed set](https://osu.ppy.sh/beatmapsets/724192) by ::mithew::{ user-id=2571893 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/86/previews/2230.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this classic, critically acclaimed set](https://osu.ppy.sh/beatmapset
 
 ### Eyrie
 
-Check out [this modern showcase set](https://osu.ppy.sh/beatmapsets/1177346) from the Mappers' Guild created by [Seto Kousuke](https://osu.ppy.sh/users/2857314)!
+Check out [this modern showcase set](https://osu.ppy.sh/beatmapsets/1177346) from the Mappers' Guild created by ::Seto Kousuke::{ user-id=2857314 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/86/previews/2224.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this modern showcase set](https://osu.ppy.sh/beatmapsets/1177346) fro
 
 ### Devour Me, Colossus (Part I): Blackholes
 
-Check out [this modern osu!taiko set](https://osu.ppy.sh/beatmapsets/1117322#taiko/2333970) mapped by [Heaxys](https://osu.ppy.sh/users/5671417)!
+Check out [this modern osu!taiko set](https://osu.ppy.sh/beatmapsets/1117322#taiko/2333970) mapped by ::Heaxys::{ user-id=5671417 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/86/previews/2223.mp3" type="audio/mpeg">

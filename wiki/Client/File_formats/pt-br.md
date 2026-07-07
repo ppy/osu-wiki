@@ -55,7 +55,7 @@ outdated_translation: true
 
 5. Limpe tudo e repita para uma nova cópia. Para skinning, use a extensão .osk.
 
-**Exemplos com foto** (credito para [MLGnom's](https://osu.ppy.sh/users/46620) [Skinning tutorial](https://osu.ppy.sh/community/forums/topics/51694))
+**Exemplos com foto** (credito para ::MLGnom's::{ user-id=46620 } [Skinning tutorial](https://osu.ppy.sh/community/forums/topics/51694))
 
 - [WinRAR](https://puu.sh/1MBV)
 - [7-zip](https://puu.sh/1MBW)

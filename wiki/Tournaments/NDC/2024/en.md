@@ -8,7 +8,7 @@ tags:
 
 ![NDC banner](img/banner.jpg)
 
-The **National Dutch Championship 2024** (***NDC 2024***) was a 1v1, double elimination osu!standard tournament hosted by ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) and ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619). It was the third instalment of the National Dutch Championship.
+The **National Dutch Championship 2024** (***NDC 2024***) was a 1v1, double elimination osu!standard tournament hosted by ::{ flag=NL }:: ::Lilily::{ user-id=6502403 } and ::{ flag=NL }:: ::Mr HeliX::{ user-id=2330619 }. It was the third instalment of the National Dutch Championship.
 
 ## Tournament schedule
 
@@ -36,10 +36,10 @@ The **National Dutch Championship 2024** (***NDC 2024***) was a 1v1, double elim
 
 The prizepool was sponsored by both the organisation and community members:
 
-- ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403): €750,-
-- ::{ flag=NL }:: [heyronii](https://osu.ppy.sh/users/5642779): €500,-
-- ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619): €250,-
-- ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155): €100,-
+- ::{ flag=NL }:: ::Lilily::{ user-id=6502403 }: €750,-
+- ::{ flag=NL }:: ::heyronii::{ user-id=5642779 }: €500,-
+- ::{ flag=NL }:: ::Mr HeliX::{ user-id=2330619 }: €250,-
+- ::{ flag=NL }:: ::Katie Djeestar::{ user-id=641155 }: €100,-
 
 ![](img/badge.jpg "NDC 2024 winner badge")
 
@@ -49,14 +49,14 @@ The National Dutch Championship 2024 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organisation | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) |
-| Mappool selector | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731), ::{ flag=TR }:: [Ryukishi](https://osu.ppy.sh/users/9045874), ::{ flag=NL }:: [nijlpaard](https://osu.ppy.sh/users/30921375), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Sroj](https://osu.ppy.sh/users/4783389), ::{ flag=NL }:: [- Ethereal -](https://osu.ppy.sh/users/9357932) |
-| Mapper | ::{ flag=NL }:: [Castagne](https://osu.ppy.sh/users/12270596), ::{ flag=NL }:: [taku](https://osu.ppy.sh/users/684433), ::{ flag=NL }:: [CMeFly](https://osu.ppy.sh/users/12195391), ::{ flag=DE }:: [PaRaDogi](https://osu.ppy.sh/users/2054596), ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767), ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812), ::{ flag=US }:: [Boppin](https://osu.ppy.sh/users/3275468), ::{ flag=NL }:: [Mijn Aim Zuigt](https://osu.ppy.sh/users/4587487), ::{ flag=NO }:: [BarkingMadDog](https://osu.ppy.sh/users/3475189), ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/3545579) |
-| Playtester | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Quinten](https://osu.ppy.sh/users/5101306), ::{ flag=BE }:: [Hanori](https://osu.ppy.sh/users/7078544), ::{ flag=NL }:: [Seleen](https://osu.ppy.sh/users/9362168), ::{ flag=NL }:: [CMeFly](https://osu.ppy.sh/users/12195391), ::{ flag=GB }:: [HAUNTE](https://osu.ppy.sh/users/7333471), ::{ flag=NO }:: [Melvr](https://osu.ppy.sh/users/9211924), ::{ flag=PH }:: [NathanRam1918](https://osu.ppy.sh/users/4734703), ::{ flag=DE }:: [ZeitFrost](https://osu.ppy.sh/users/11234706), ::{ flag=NL }:: [AngelNamirin](https://osu.ppy.sh/users/6145220), ::{ flag=NL }:: [draconia](https://osu.ppy.sh/users/20241831), ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438), ::{ flag=BE }:: [5joshi](https://osu.ppy.sh/users/4279650), ::{ flag=BR }:: [Dropinx](https://osu.ppy.sh/users/4687701), ::{ flag=BE }:: [hexi](https://osu.ppy.sh/users/10760701), ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=CA }:: [Saryi](https://osu.ppy.sh/users/10051720), ::{ flag=NL }:: [TurtleSenpaii](https://osu.ppy.sh/users/12241010), ::{ flag=FI }:: [mxu](https://osu.ppy.sh/users/18687807) |
-| Referee | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Kapsalon](https://osu.ppy.sh/users/6941124), ::{ flag=NL }:: [KayoNar](https://osu.ppy.sh/users/6960689), ::{ flag=NL }:: [Bart](https://osu.ppy.sh/users/15961009), ::{ flag=NL }:: [Marslam](https://osu.ppy.sh/users/16814497), ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [JustChe](https://osu.ppy.sh/users/18229204), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619), ::{ flag=NL }:: [- Ethereal -](https://osu.ppy.sh/users/9357932), ::{ flag=NL }:: [DeathByDarwin](https://osu.ppy.sh/users/9087777) |
-| Streamer | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Amarillo](https://osu.ppy.sh/users/6632587), ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649), ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) |
-| Commentator | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Sroj](https://osu.ppy.sh/users/4783389), ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438), ::{ flag=NL }:: [Bart](https://osu.ppy.sh/users/15961009), ::{ flag=NL }:: [Telegy](https://osu.ppy.sh/users/16322001), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649), ::{ flag=NL }:: [Swerro](https://osu.ppy.sh/users/4507667), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619), ::{ flag=NL }:: [cozyin](https://osu.ppy.sh/users/12200180), ::{ flag=NL }:: [Wittepoes](https://osu.ppy.sh/users/12984931), ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393), ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220), ::{ flag=NL }:: [sofuraabu](https://osu.ppy.sh/users/7639453) |
-| Designer | ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323) |
+| Organisation | ::{ flag=NL }:: ::Lilily::{ user-id=6502403 }, ::{ flag=NL }:: ::Mr HeliX::{ user-id=2330619 } |
+| Mappool selector | ::{ flag=CA }:: ::chiv::{ user-id=6701656 }, ::{ flag=NL }:: ::niqht::{ user-id=14390731 }, ::{ flag=TR }:: ::Ryukishi::{ user-id=9045874 }, ::{ flag=NL }:: ::nijlpaard::{ user-id=30921375 }, ::{ flag=NL }:: ::Lilily::{ user-id=6502403 }, ::{ flag=NL }:: ::Sroj::{ user-id=4783389 }, ::{ flag=NL }:: ::- Ethereal -::{ user-id=9357932 } |
+| Mapper | ::{ flag=NL }:: ::Castagne::{ user-id=12270596 }, ::{ flag=NL }:: ::taku::{ user-id=684433 }, ::{ flag=NL }:: ::CMeFly::{ user-id=12195391 }, ::{ flag=DE }:: ::PaRaDogi::{ user-id=2054596 }, ::{ flag=NL }:: ::happy30::{ user-id=27767 }, ::{ flag=DE }:: ::Mir::{ user-id=8688812 }, ::{ flag=US }:: ::Boppin::{ user-id=3275468 }, ::{ flag=NL }:: ::Mijn Aim Zuigt::{ user-id=4587487 }, ::{ flag=NO }:: ::BarkingMadDog::{ user-id=3475189 }, ::{ flag=ID }:: ::Celine::{ user-id=3545579 } |
+| Playtester | ::{ flag=NL }:: ::Lilily::{ user-id=6502403 }, ::{ flag=NL }:: ::Quinten::{ user-id=5101306 }, ::{ flag=BE }:: ::Hanori::{ user-id=7078544 }, ::{ flag=NL }:: ::Seleen::{ user-id=9362168 }, ::{ flag=NL }:: ::CMeFly::{ user-id=12195391 }, ::{ flag=GB }:: ::HAUNTE::{ user-id=7333471 }, ::{ flag=NO }:: ::Melvr::{ user-id=9211924 }, ::{ flag=PH }:: ::NathanRam1918::{ user-id=4734703 }, ::{ flag=DE }:: ::ZeitFrost::{ user-id=11234706 }, ::{ flag=NL }:: ::AngelNamirin::{ user-id=6145220 }, ::{ flag=NL }:: ::draconia::{ user-id=20241831 }, ::{ flag=NL }:: ::UnveiledGolem::{ user-id=14090438 }, ::{ flag=BE }:: ::5joshi::{ user-id=4279650 }, ::{ flag=BR }:: ::Dropinx::{ user-id=4687701 }, ::{ flag=BE }:: ::hexi::{ user-id=10760701 }, ::{ flag=PL }:: ::Bartek22830::{ user-id=6404027 }, ::{ flag=CA }:: ::Saryi::{ user-id=10051720 }, ::{ flag=NL }:: ::TurtleSenpaii::{ user-id=12241010 }, ::{ flag=FI }:: ::mxu::{ user-id=18687807 } |
+| Referee | ::{ flag=NL }:: ::Lilily::{ user-id=6502403 }, ::{ flag=NL }:: ::Kapsalon::{ user-id=6941124 }, ::{ flag=NL }:: ::KayoNar::{ user-id=6960689 }, ::{ flag=NL }:: ::Bart::{ user-id=15961009 }, ::{ flag=NL }:: ::Marslam::{ user-id=16814497 }, ::{ flag=NL }:: ::Happy\124::{ user-id=12876323 }, ::{ flag=NL }:: ::JustChe::{ user-id=18229204 }, ::{ flag=NL }:: ::Fubu::{ user-id=12719649 }, ::{ flag=NL }:: ::Mr HeliX::{ user-id=2330619 }, ::{ flag=NL }:: ::- Ethereal -::{ user-id=9357932 }, ::{ flag=NL }:: ::DeathByDarwin::{ user-id=9087777 } |
+| Streamer | ::{ flag=NL }:: ::Lilily::{ user-id=6502403 }, ::{ flag=NL }:: ::Amarillo::{ user-id=6632587 }, ::{ flag=NL }:: ::UnveiledGolem::{ user-id=14090438 }, ::{ flag=NL }:: ::Fubu::{ user-id=12719649 }, ::{ flag=NL }:: ::Happy\124::{ user-id=12876323 }, ::{ flag=NL }:: ::Mr HeliX::{ user-id=2330619 } |
+| Commentator | ::{ flag=NL }:: ::Lilily::{ user-id=6502403 }, ::{ flag=NL }:: ::Sroj::{ user-id=4783389 }, ::{ flag=NL }:: ::UnveiledGolem::{ user-id=14090438 }, ::{ flag=NL }:: ::Bart::{ user-id=15961009 }, ::{ flag=NL }:: ::Telegy::{ user-id=16322001 }, ::{ flag=NL }:: ::Fubu::{ user-id=12719649 }, ::{ flag=NL }:: ::Swerro::{ user-id=4507667 }, ::{ flag=NL }:: ::Mr HeliX::{ user-id=2330619 }, ::{ flag=NL }:: ::cozyin::{ user-id=12200180 }, ::{ flag=NL }:: ::Wittepoes::{ user-id=12984931 }, ::{ flag=NL }:: ::n0ah::{ user-id=3086393 }, ::{ flag=NL }:: ::wessel\1osu2::{ user-id=4382220 }, ::{ flag=NL }:: ::sofuraabu::{ user-id=7639453 } |
+| Designer | ::{ flag=NL }:: ::Happy\124::{ user-id=12876323 } |
 
 ## Links
 
@@ -70,56 +70,56 @@ The National Dutch Championship 2024 was run by various community members.
 
 | Seed | Player | Global rank | Country rank |
 | :-: | :-- | :-: | :-: |
-| 1 | ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) | #748 | #10 |
-| 2 | ::{ flag=NL }:: [draconia](https://osu.ppy.sh/users/20241831) | #15964 | #194 |
-| 3 | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) | #53 | #1 |
-| 4 | ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220) | #2143 | #28 |
-| 5 | ::{ flag=NL }:: [Dolter](https://osu.ppy.sh/users/6920104) | #964 | #14 |
-| 6 | ::{ flag=NL }:: [Nederland](https://osu.ppy.sh/users/15802126) | #392 | #7 |
-| 7 | ::{ flag=NL }:: [heyronii](https://osu.ppy.sh/users/5642779) | #783 | #11 |
-| 8 | ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155) | #3061 | #35 |
-| 9 | ::{ flag=NL }:: [PotjeNutella](https://osu.ppy.sh/users/10926707) | #21355 | #247 |
-| 10 | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) | #1319 | #18 |
-| 11 | ::{ flag=NL }:: [Heavymetal4life](https://osu.ppy.sh/users/21586994) | #22648 | #258 |
-| 12 | ::{ flag=NL }:: [WeederBoss0](https://osu.ppy.sh/users/21574224) | #2434 | #31 |
-| 13 | ::{ flag=NL }:: [faze-dank](https://osu.ppy.sh/users/13050074) | #15615 | #188 |
-| 14 | ::{ flag=NL }:: [pregnant](https://osu.ppy.sh/users/15413621) | #8220 | #96 |
-| 15 | ::{ flag=NL }:: [FietsAapje](https://osu.ppy.sh/users/10053936) | #3499 | #38 |
-| 16 | ::{ flag=NL }:: [SecretlyShiro](https://osu.ppy.sh/users/7498203) | #10603 | #124 |
-| 17 | ::{ flag=NL }:: [wooz](https://osu.ppy.sh/users/6888206) | #3460 | #37 |
-| 18 | ::{ flag=NL }:: [sofuraabu](https://osu.ppy.sh/users/7639453) | #6093 | #73 |
-| 19 | ::{ flag=NL }:: [Goose King](https://osu.ppy.sh/users/9387696) | #7433 | #83 |
-| 20 | ::{ flag=NL }:: [Alphan](https://osu.ppy.sh/users/13298387) | #5588 | #69 |
-| 21 | ::{ flag=NL }:: [Wittepoes](https://osu.ppy.sh/users/12984931) | #7174 | #80 |
-| 22 | ::{ flag=NL }:: [permiss](https://osu.ppy.sh/users/8591929) | #2789 | #33 |
-| 23 | ::{ flag=NL }:: [cozyin](https://osu.ppy.sh/users/12200180) | #8422 | #99 |
-| 24 | ::{ flag=NL }:: [darknessofUwU](https://osu.ppy.sh/users/23635008) | #4373 | #48 |
-| 25 | ::{ flag=NL }:: [Damnjelly](https://osu.ppy.sh/users/1666355) | #5011 | #61 |
-| 26 | ::{ flag=NL }:: [Stogdy](https://osu.ppy.sh/users/15120705) | #4139 | #46 |
-| 27 | ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438) | #8972 | #107 |
-| 28 | ::{ flag=NL }:: [DJJDJ516](https://osu.ppy.sh/users/19412255) | #14060 | #169 |
-| 29 | ::{ flag=NL }:: [Trehaloses](https://osu.ppy.sh/users/5570153) | #11469 | #136 |
-| 30 | ::{ flag=NL }:: [TheCoolJfp](https://osu.ppy.sh/users/7041796) | #11354 | #134 |
-| 31 | ::{ flag=NL }:: [oetluller](https://osu.ppy.sh/users/15218429) | #14553 | #172 |
-| 32 | ::{ flag=NL }:: [GeKa_Z](https://osu.ppy.sh/users/13233381) | #12862 | #153 |
-| 33 | ::{ flag=NL }:: [wessel osu1](https://osu.ppy.sh/users/6577301) | #9667 | #114 |
-| 34 | ::{ flag=NL }:: [NeonCircles](https://osu.ppy.sh/users/13702202) | #19920 | #231 |
-| 35 | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) | #10753 | #127 |
-| 36 | ::{ flag=NL }:: [kinda sus dude](https://osu.ppy.sh/users/9610588) | #7865 | #90 |
-| 37 | ::{ flag=NL }:: [Axeanz](https://osu.ppy.sh/users/14073866) | #33341 | #385 |
-| 38 | ::{ flag=NL }:: [Speed Kitty](https://osu.ppy.sh/users/15725070) | #30435 | #351 |
-| 39 | ::{ flag=NL }:: [SpaghetCat](https://osu.ppy.sh/users/16575519) | #5139 | #63 |
-| 40 | ::{ flag=NL }:: [Pamuwu](https://osu.ppy.sh/users/13032176) | #13531 | #161 |
-| 41 | ::{ flag=NL }:: [Bittshrooms](https://osu.ppy.sh/users/9250996) | #48449 | #557 |
-| 42 | ::{ flag=NL }:: [matthijs661](https://osu.ppy.sh/users/17384912) | #62953 | #730 |
-| 43 | ::{ flag=NL }:: [tortvred](https://osu.ppy.sh/users/21505584) | #7681 | #88 |
-| 44 | ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649) | #25307 | #290 |
-| 45 | ::{ flag=NL }:: [prins_off_hell](https://osu.ppy.sh/users/30975022) | #87987 | #1047 |
-| 46 | ::{ flag=NL }:: [-SanaBanana-](https://osu.ppy.sh/users/5371593) | #65375 | #774 |
-| 47 | ::{ flag=NL }:: [speedbeats24](https://osu.ppy.sh/users/15191079) | #53486 | #625 |
-| 48 | ::{ flag=NL }:: [Piglin](https://osu.ppy.sh/users/26139689) | #36038 | #424 |
-| 49 | ::{ flag=NL }:: [KawaiiSniperBoy](https://osu.ppy.sh/users/20524617) | #143847 | #1647 |
-| 50 | ::{ flag=NL }:: [Aimy](https://osu.ppy.sh/users/20348925) | #95883 | #1139 |
+| 1 | ::{ flag=NL }:: ::Aheo::{ user-id=14919428 } | #748 | #10 |
+| 2 | ::{ flag=NL }:: ::draconia::{ user-id=20241831 } | #15964 | #194 |
+| 3 | ::{ flag=NL }:: ::LUCIANO::{ user-id=11604978 } | #53 | #1 |
+| 4 | ::{ flag=NL }:: ::wessel\1osu2::{ user-id=4382220 } | #2143 | #28 |
+| 5 | ::{ flag=NL }:: ::Dolter::{ user-id=6920104 } | #964 | #14 |
+| 6 | ::{ flag=NL }:: ::Nederland::{ user-id=15802126 } | #392 | #7 |
+| 7 | ::{ flag=NL }:: ::heyronii::{ user-id=5642779 } | #783 | #11 |
+| 8 | ::{ flag=NL }:: ::Katie Djeestar::{ user-id=641155 } | #3061 | #35 |
+| 9 | ::{ flag=NL }:: ::PotjeNutella::{ user-id=10926707 } | #21355 | #247 |
+| 10 | ::{ flag=NL }:: ::chillington 15::{ user-id=6744123 } | #1319 | #18 |
+| 11 | ::{ flag=NL }:: ::Heavymetal4life::{ user-id=21586994 } | #22648 | #258 |
+| 12 | ::{ flag=NL }:: ::WeederBoss0::{ user-id=21574224 } | #2434 | #31 |
+| 13 | ::{ flag=NL }:: ::faze-dank::{ user-id=13050074 } | #15615 | #188 |
+| 14 | ::{ flag=NL }:: ::pregnant::{ user-id=15413621 } | #8220 | #96 |
+| 15 | ::{ flag=NL }:: ::FietsAapje::{ user-id=10053936 } | #3499 | #38 |
+| 16 | ::{ flag=NL }:: ::SecretlyShiro::{ user-id=7498203 } | #10603 | #124 |
+| 17 | ::{ flag=NL }:: ::wooz::{ user-id=6888206 } | #3460 | #37 |
+| 18 | ::{ flag=NL }:: ::sofuraabu::{ user-id=7639453 } | #6093 | #73 |
+| 19 | ::{ flag=NL }:: ::Goose King::{ user-id=9387696 } | #7433 | #83 |
+| 20 | ::{ flag=NL }:: ::Alphan::{ user-id=13298387 } | #5588 | #69 |
+| 21 | ::{ flag=NL }:: ::Wittepoes::{ user-id=12984931 } | #7174 | #80 |
+| 22 | ::{ flag=NL }:: ::permiss::{ user-id=8591929 } | #2789 | #33 |
+| 23 | ::{ flag=NL }:: ::cozyin::{ user-id=12200180 } | #8422 | #99 |
+| 24 | ::{ flag=NL }:: ::darknessofUwU::{ user-id=23635008 } | #4373 | #48 |
+| 25 | ::{ flag=NL }:: ::Damnjelly::{ user-id=1666355 } | #5011 | #61 |
+| 26 | ::{ flag=NL }:: ::Stogdy::{ user-id=15120705 } | #4139 | #46 |
+| 27 | ::{ flag=NL }:: ::UnveiledGolem::{ user-id=14090438 } | #8972 | #107 |
+| 28 | ::{ flag=NL }:: ::DJJDJ516::{ user-id=19412255 } | #14060 | #169 |
+| 29 | ::{ flag=NL }:: ::Trehaloses::{ user-id=5570153 } | #11469 | #136 |
+| 30 | ::{ flag=NL }:: ::TheCoolJfp::{ user-id=7041796 } | #11354 | #134 |
+| 31 | ::{ flag=NL }:: ::oetluller::{ user-id=15218429 } | #14553 | #172 |
+| 32 | ::{ flag=NL }:: ::GeKa\1Z::{ user-id=13233381 } | #12862 | #153 |
+| 33 | ::{ flag=NL }:: ::wessel osu1::{ user-id=6577301 } | #9667 | #114 |
+| 34 | ::{ flag=NL }:: ::NeonCircles::{ user-id=13702202 } | #19920 | #231 |
+| 35 | ::{ flag=NL }:: ::nik::{ user-id=10077264 } | #10753 | #127 |
+| 36 | ::{ flag=NL }:: ::kinda sus dude::{ user-id=9610588 } | #7865 | #90 |
+| 37 | ::{ flag=NL }:: ::Axeanz::{ user-id=14073866 } | #33341 | #385 |
+| 38 | ::{ flag=NL }:: ::Speed Kitty::{ user-id=15725070 } | #30435 | #351 |
+| 39 | ::{ flag=NL }:: ::SpaghetCat::{ user-id=16575519 } | #5139 | #63 |
+| 40 | ::{ flag=NL }:: ::Pamuwu::{ user-id=13032176 } | #13531 | #161 |
+| 41 | ::{ flag=NL }:: ::Bittshrooms::{ user-id=9250996 } | #48449 | #557 |
+| 42 | ::{ flag=NL }:: ::matthijs661::{ user-id=17384912 } | #62953 | #730 |
+| 43 | ::{ flag=NL }:: ::tortvred::{ user-id=21505584 } | #7681 | #88 |
+| 44 | ::{ flag=NL }:: ::Fubu::{ user-id=12719649 } | #25307 | #290 |
+| 45 | ::{ flag=NL }:: ::prins\1off\1hell::{ user-id=30975022 } | #87987 | #1047 |
+| 46 | ::{ flag=NL }:: ::-SanaBanana-::{ user-id=5371593 } | #65375 | #774 |
+| 47 | ::{ flag=NL }:: ::speedbeats24::{ user-id=15191079 } | #53486 | #625 |
+| 48 | ::{ flag=NL }:: ::Piglin::{ user-id=26139689 } | #36038 | #424 |
+| 49 | ::{ flag=NL }:: ::KawaiiSniperBoy::{ user-id=20524617 } | #143847 | #1647 |
+| 50 | ::{ flag=NL }:: ::Aimy::{ user-id=20348925 } | #95883 | #1139 |
 
 ## Podium
 

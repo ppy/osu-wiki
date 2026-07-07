@@ -347,7 +347,7 @@ Il tag *Intestazione (v2)* è un tag obsoleto che una volta veniva utilizzato ne
 
 ## Trivia
 
-- Questo articolo è stato adattato dalla discussione del forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) di [Stefan](https://osu.ppy.sh/users/626907).
+- Questo articolo è stato adattato dalla discussione del forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) di ::Stefan::{ user-id=626907 }.
 - In passato c'era un bug che consentiva agli utenti di rendere il testo trasparente utilizzando il [tag colore](#colore) e digitando "transparent" dopo il segno d'uguaglianza (`=`).
   - Al momento, il testo tornerà al colore predefinito (bianco) quando ciò accade.
 - Prima dell'aggiunta del tag `Mappa Immagine`, era possibile aggiungere un collegamento ipertestuale ad un'immagine combinando i tag `url` e `img`. Tuttavia, è possibile impostare un solo collegamento ipertestuale per immagine. Ciò richiedeva di tagliare l'immagine originale in più parti (cioè per ogni collegamento un'immagine parziale) e di disporle orizzontalmente una accanto all'altra.

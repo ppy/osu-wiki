@@ -11,11 +11,11 @@ tags:
 
 ## Febrero
 
-El 16 de febrero de 2015, las reglas de los storyboards se actualizaron para permitir tamaños de imagen superiores a 854x640. Según lo sugerido por [Xgor](https://osu.ppy.sh/users/98661), el nuevo tamaño máximo de imagen clasificable para los storyboards se actualizó a 1366x768.[^osu-weekly-1][^sb-rule-change]
+El 16 de febrero de 2015, las reglas de los storyboards se actualizaron para permitir tamaños de imagen superiores a 854x640. Según lo sugerido por ::Xgor::{ user-id=98661 }, el nuevo tamaño máximo de imagen clasificable para los storyboards se actualizó a 1366x768.[^osu-weekly-1][^sb-rule-change]
 
 ## Marzo
 
-La primera edición de osu!weekly se publicó el 13 de marzo de 2015. Escrito por [Tasha](https://osu.ppy.sh/users/1031958), osu!weekly se posicionó como «un resumen de noticias semanal que cubría los últimos acontecimientos del juego y su comunidad».[^osu-weekly-1]
+La primera edición de osu!weekly se publicó el 13 de marzo de 2015. Escrito por ::Tasha::{ user-id=1031958 }, osu!weekly se posicionó como «un resumen de noticias semanal que cubría los últimos acontecimientos del juego y su comunidad».[^osu-weekly-1]
 
 Las primeras pegatinas de los planos de beatmaps de osu! se añadieron a la [osu!store](https://osu.ppy.sh/store/listing) el 20 de marzo de 2015. Las pegatinas venían en dos paquetes de hojas de pegatinas personalizadas de 8,5 x 11 con elementos como círculos, contadores de combo, sliders, y mucho más.[^osu-stickers] Para celebrar el lanzamiento, se llevó a cabo un concurso para ver quién podía hacer el mejor [beatmap](/wiki/Beatmap) usando las pegatinas, con un premio de primer lugar de una osu! tablet y un juego de pegatinas de osu! 1 y 2. A pesar de esto, el concurso se canceló debido a la falta de presentaciones, y en ese momento nunca se declaró públicamente ningún seguimiento al respecto.[^osu-stickers][^osu-stickers-submission-count]
 
@@ -53,7 +53,7 @@ La capacidad de ver cómo se vería una repetición sin [mods](/wiki/Gameplay/Ga
 
 ## Julio
 
-El 15 de julio de 2015, se anunció que se creó un nuevo equipo público de [Slack](https://slack.com/) con el fin de mejorar la comunicación con los contribuidores públicos. [peppy](https://osu.ppy.sh/users/2) inicialmente hizo el anuncio en su blog y explicó que cualquiera que estuviera dispuesto a ayudar a probar funciones de cutting-edge, contribuir con recursos gráficos/de sonido u obtener ayuda trabajando con osu! podrían venir y unirse al equipo y hablar con la gente de diferentes [osu! teams](/wiki/People/osu!_team) directamente.[^ppy-blog-july-15]
+El 15 de julio de 2015, se anunció que se creó un nuevo equipo público de [Slack](https://slack.com/) con el fin de mejorar la comunicación con los contribuidores públicos. ::peppy::{ user-id=2 } inicialmente hizo el anuncio en su blog y explicó que cualquiera que estuviera dispuesto a ayudar a probar funciones de cutting-edge, contribuir con recursos gráficos/de sonido u obtener ayuda trabajando con osu! podrían venir y unirse al equipo y hablar con la gente de diferentes [osu! teams](/wiki/People/osu!_team) directamente.[^ppy-blog-july-15]
 
 *Nota: También existía un equipo privado de Slack que el osu! team usó para comunicaciones internas, que no era accesible o visible para usuarios externos; estos dos equipos eran independientes entre sí.*
 

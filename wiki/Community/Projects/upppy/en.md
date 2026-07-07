@@ -10,7 +10,7 @@ tags:
 ![Snapshot of the up.ppy.sh page](img/upppyScreenshot.png "Snapshot of the upppy website, as taken in 2023 by the Internet Archive")
 :::
 
-**up.ppy.sh**, often referred to as **upppy**, was a file uploading service run and hosted by ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2). It was first established in January 2007, predating osu! itself[^upppy-launch-date-ref], and was mainly used to share images and files within the osu! community.
+**up.ppy.sh**, often referred to as **upppy**, was a file uploading service run and hosted by ::{ flag=AU }:: ::peppy::{ user-id=2 }. It was first established in January 2007, predating osu! itself[^upppy-launch-date-ref], and was mainly used to share images and files within the osu! community.
 
 ## Service
 

@@ -15,7 +15,7 @@ This masterpiece was produced for 2006's *BMS OF FIGHTERS* event, and while it's
 
 We snagged **14** tracks from this producer paragon, *End Time* included of course.
 
-If you're one of the three osu! players who hasn't heard **Cres.** yet, worry not! [zonelouise](https://osu.ppy.sh/users/1492995) and [Aistre](https://osu.ppy.sh/users/4879380) are here to show off this electro-trance sensation, so check out the video (or any other previews) below:
+If you're one of the three osu! players who hasn't heard **Cres.** yet, worry not! ::zonelouise::{ user-id=1492995 } and [Aistre](https://osu.ppy.sh/users/4879380) are here to show off this electro-trance sensation, so check out the video (or any other previews) below:
 
 <div align="center">
     <video width="95%" controls>
@@ -27,10 +27,10 @@ If you're one of the three osu! players who hasn't heard **Cres.** yet, worry no
 
 Play through any of these **4** mapsets:
 
-- [osu! mapset](https://osu.ppy.sh/beatmapsets/73474) hosted by [Mirage](https://osu.ppy.sh/users/870584) (the most popular of the bunch!)
-- [osu! mapset](https://osu.ppy.sh/beatmapsets/36382) hosted by [soulfear](https://osu.ppy.sh/users/226171) (the hardest!)
-- [osu! mapset](https://osu.ppy.sh/beatmapsets/140691) hosted by [Kyshiro](https://osu.ppy.sh/users/640611) (the newest!)
-- [7K osu!mania  mapset](https://osu.ppy.sh/beatmapsets/154929) hosted by [PyaKura](https://osu.ppy.sh/users/2284536) (the mania...est!)
+- [osu! mapset](https://osu.ppy.sh/beatmapsets/73474) hosted by ::Mirage::{ user-id=870584 } (the most popular of the bunch!)
+- [osu! mapset](https://osu.ppy.sh/beatmapsets/36382) hosted by ::soulfear::{ user-id=226171 } (the hardest!)
+- [osu! mapset](https://osu.ppy.sh/beatmapsets/140691) hosted by ::Kyshiro::{ user-id=640611 } (the newest!)
+- [7K osu!mania  mapset](https://osu.ppy.sh/beatmapsets/154929) hosted by ::PyaKura::{ user-id=2284536 } (the mania...est!)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/147/Songs/Cres.%20-%20End%20Time.mp3" type="audio/mpeg">

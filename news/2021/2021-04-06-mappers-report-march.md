@@ -48,10 +48,10 @@ As with every other month, we are once again here to show you which brave souls 
 
 ### BN Additions
 
-- **osu!:** [VINXIS](https://osu.ppy.sh/users/4323406), [AJT](https://osu.ppy.sh/users/3181083), [Sylas](https://osu.ppy.sh/users/3906405) & [Kudosu](https://osu.ppy.sh/users/11038155)
-- **osu!taiko:** [Horiiizon](https://osu.ppy.sh/users/8071438), [gevbiivi5](https://osu.ppy.sh/users/7140680) & [-Aku](https://osu.ppy.sh/users/12315824)
-- **osu!catch:** [NyalettOwO x3](https://osu.ppy.sh/users/7592136) & [wonjae](https://osu.ppy.sh/users/5032045)
-- **osu!mania:** [Paran](https://osu.ppy.sh/users/13340203), [Komirin](https://osu.ppy.sh/users/4725379) & [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608)
+- **osu!:** ::VINXIS::{ user-id=4323406 }, [AJT](https://osu.ppy.sh/users/3181083), ::Sylas::{ user-id=3906405 } & [Kudosu](https://osu.ppy.sh/users/11038155)
+- **osu!taiko:** ::Horiiizon::{ user-id=8071438 }, [gevbiivi5](https://osu.ppy.sh/users/7140680) & ::-Aku::{ user-id=12315824 }
+- **osu!catch:** ::NyalettOwO x3::{ user-id=7592136 } & [wonjae](https://osu.ppy.sh/users/5032045)
+- **osu!mania:** ::Paran::{ user-id=13340203 }, [Komirin](https://osu.ppy.sh/users/4725379) & ::AHHHHHHHHHHHHHH::{ user-id=8249608 }
 
 Do you like modding and helping other people with their beatmaps? Do you want to see your own name on this list? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator!
 
@@ -59,15 +59,15 @@ The applications are always open, so head over to the [Beatmap Nominator website
 
 ### BN Departures
 
-- **osu!:** [Lafayla](https://osu.ppy.sh/users/5312547), [riffy](https://osu.ppy.sh/users/597957), [Battle](https://osu.ppy.sh/users/4037545) & [BaAR_Vendel](https://osu.ppy.sh/users/8679346)
-- **osu!taiko:** [frukoyurdakul](https://osu.ppy.sh/users/7612550)
-- **osu!catch:** [GIGACHAD](https://osu.ppy.sh/users/11081858), [Phob](https://osu.ppy.sh/users/6069462) & [Secre](https://osu.ppy.sh/users/2306637)
+- **osu!:** ::Lafayla::{ user-id=5312547 }, [riffy](https://osu.ppy.sh/users/597957), ::Battle::{ user-id=4037545 } & [BaAR_Vendel](https://osu.ppy.sh/users/8679346)
+- **osu!taiko:** ::frukoyurdakul::{ user-id=7612550 }
+- **osu!catch:** ::GIGACHAD::{ user-id=11081858 }, [Phob](https://osu.ppy.sh/users/6069462) & ::Secre::{ user-id=2306637 }
 
 ### NAT Additions
 
-A new red-name appeared out of nowhere! [Zelq](https://osu.ppy.sh/users/8953955) has decided to join the red crusade after two years as a BN and will support the NAT from now on by assisting in keeping things running in tip-top shape. Welcome to the team, Zelq!
+A new red-name appeared out of nowhere! ::Zelq::{ user-id=8953955 } has decided to join the red crusade after two years as a BN and will support the NAT from now on by assisting in keeping things running in tip-top shape. Welcome to the team, Zelq!
 
-What's better than one new red-name? Of course, two of them! [Agatsu](https://osu.ppy.sh/users/5579871) has ascended to the NAT after roughly a year and a half as a Beatmap Nominator. With the same mission as Zelq, Agatsu has rolled up his sleeves to work alongside the NAT to better the mapping and modding community. Welcome aboard, Agatsu!
+What's better than one new red-name? Of course, two of them! ::Agatsu::{ user-id=5579871 } has ascended to the NAT after roughly a year and a half as a Beatmap Nominator. With the same mission as Zelq, Agatsu has rolled up his sleeves to work alongside the NAT to better the mapping and modding community. Welcome aboard, Agatsu!
 
 ## BN and QAT/NAT Badges
 
@@ -79,25 +79,25 @@ Here is the list of everyone who received a badge this past session:
 
 | Badge | User |
 | :-- | :-- |
-| ![BN Badge (1 year)](https://assets.ppy.sh/profile-badges/BN1y.png "Longstanding contribution to the Beatmap Nominators - 1 year") | [-Aqua](https://osu.ppy.sh/users/7150015), [Agatsu](https://osu.ppy.sh/users/5579871), [AirinCat](https://osu.ppy.sh/users/11119539), [Amiichii](https://osu.ppy.sh/users/9228569), [Bunnrei](https://osu.ppy.sh/users/829284), [Capu](https://osu.ppy.sh/users/2474015), [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [Dapuluous](https://osu.ppy.sh/users/8140944), [Dubstek](https://osu.ppy.sh/users/9555243), [frukoyurdakul](https://osu.ppy.sh/users/7612550), [Greenshell](https://osu.ppy.sh/users/8693851), [Hobbes2](https://osu.ppy.sh/users/8157492), [Kamuy](https://osu.ppy.sh/users/7439226), [kanpakyin](https://osu.ppy.sh/users/394326), [Keiga](https://osu.ppy.sh/users/6866022), [Peter](https://osu.ppy.sh/users/8623835), [PokeSky](https://osu.ppy.sh/users/3617111), [radar](https://osu.ppy.sh/users/7131099), [Riana](https://osu.ppy.sh/users/1997633), [Roasted Chicken](https://osu.ppy.sh/users/9461160), [Secre](https://osu.ppy.sh/users/2306637), [SMOKELIND](https://osu.ppy.sh/users/9327302), [Smokeman](https://osu.ppy.sh/users/2140676), [Stack](https://osu.ppy.sh/users/6122935), [Teky](https://osu.ppy.sh/users/10520912), [Uberzolik](https://osu.ppy.sh/users/1314547), [Voxa](https://osu.ppy.sh/users/9229539), [Yales](https://osu.ppy.sh/users/2377881) |
-| ![BN Badge (2 years)](https://assets.ppy.sh/profile-badges/BN2y.png "Longstanding contribution to the Beatmap Nominators - 2 years") | [-Keitaro](https://osu.ppy.sh/users/3378391), [_Stan](https://osu.ppy.sh/users/1653229), [Benita](https://osu.ppy.sh/users/4023183), [Beomsan](https://osu.ppy.sh/users/3626063), [Cris-](https://osu.ppy.sh/users/6175280), [Crissa](https://osu.ppy.sh/users/5405836), [eiri-](https://osu.ppy.sh/users/3388410), [fieryrage](https://osu.ppy.sh/users/3533958), [hypercyte](https://osu.ppy.sh/users/9155377), [Icekalt](https://osu.ppy.sh/users/5410645), [Jemzuu](https://osu.ppy.sh/users/7890134), [Lafayla](https://osu.ppy.sh/users/5312547), [Milan-](https://osu.ppy.sh/users/1052994), [Mirash](https://osu.ppy.sh/users/2841009), [pimp](https://osu.ppy.sh/users/328615), [riffy](https://osu.ppy.sh/users/597957), [Rizen](https://osu.ppy.sh/users/3056732), [skylaa](https://osu.ppy.sh/users/9505704), [Sparhten](https://osu.ppy.sh/users/7601720), [Spectator](https://osu.ppy.sh/users/702598), [Yahuri](https://osu.ppy.sh/users/4682629), [Yugu](https://osu.ppy.sh/users/3161834), [Zelq](https://osu.ppy.sh/users/8953955) |
-| ![BN Badge (3 years)](https://assets.ppy.sh/profile-badges/BN3y.jpg "Longstanding contribution to the Beatmap Nominators - 3 years") | [Andrea](https://osu.ppy.sh/users/33599), [Arzenvald](https://osu.ppy.sh/users/3027421), [autofanboy](https://osu.ppy.sh/users/636114), [Hinsvar](https://osu.ppy.sh/users/1249323), [Myxo](https://osu.ppy.sh/users/2202645), [Nao Tomori](https://osu.ppy.sh/users/5364763), [Nardoxyribonucleic](https://osu.ppy.sh/users/876419), [Nevo](https://osu.ppy.sh/users/7451883), [Raiden](https://osu.ppy.sh/users/2239480), [Realazy](https://osu.ppy.sh/users/918297), [TheKingHenry](https://osu.ppy.sh/users/5128277), [timemon](https://osu.ppy.sh/users/2072005) |
-| ![BN Badge (4 years)](https://assets.ppy.sh/profile-badges/BN4y.jpg "Longstanding contribution to the Beatmap Nominators - 4 years") | [Mafumafu](https://osu.ppy.sh/users/3076909), [Rivals_7](https://osu.ppy.sh/users/4610379), [Stefan](https://osu.ppy.sh/users/626907), [Xinely](https://osu.ppy.sh/users/1521445) |
-| ![BN Badge (5 years)](https://assets.ppy.sh/profile-badges/BN5y.jpg "Longstanding contribution to the Beatmap Nominators - 5 years") | [Kawawa](https://osu.ppy.sh/users/4647754), [neonat](https://osu.ppy.sh/users/1561995), [Nozhomi](https://osu.ppy.sh/users/2716981), [tasuke912](https://osu.ppy.sh/users/2774767) |
-| ![NAT Badge (1 year)](https://assets.ppy.sh/profile-badges/QAT1y.png "Longstanding contribution to the Nomination Assessment Team - 1 year") | [Greaper](https://osu.ppy.sh/users/2369776), [Leniane](https://osu.ppy.sh/users/7138602), [Nepuri](https://osu.ppy.sh/users/6637817), [Seto Kousuke](https://osu.ppy.sh/users/2857314), [Tyistiana](https://osu.ppy.sh/users/1421452), [yaspo](https://osu.ppy.sh/users/4945926) |
-| ![QAT/NAT Badge (2 years)](https://assets.ppy.sh/profile-badges/QAT2y.png "Longstanding contribution to the QAT/NAT - 2 years") | [Kibbleru](https://osu.ppy.sh/users/3193504), [Noffy](https://osu.ppy.sh/users/1541323) |
-| ![QAT/NAT Badge (3 years)](https://assets.ppy.sh/profile-badges/QAT3y.jpg "Longstanding contribution to the QAT/NAT - 3 years") | [-Mo-](https://osu.ppy.sh/users/2202163), [Lasse](https://osu.ppy.sh/users/896613), [Naxess](https://osu.ppy.sh/users/8129817) |
-| ![QAT/NAT Badge (4 years)](https://assets.ppy.sh/profile-badges/QAT4y.jpg "Longstanding contribution to the QAT/NAT - 4 years") | [Feerum](https://osu.ppy.sh/users/4815717), [pishifat](https://osu.ppy.sh/users/3178418) |
+| ![BN Badge (1 year)](https://assets.ppy.sh/profile-badges/BN1y.png "Longstanding contribution to the Beatmap Nominators - 1 year") | ::-Aqua::{ user-id=7150015 }, [Agatsu](https://osu.ppy.sh/users/5579871), ::AirinCat::{ user-id=11119539 }, [Amiichii](https://osu.ppy.sh/users/9228569), ::Bunnrei::{ user-id=829284 }, [Capu](https://osu.ppy.sh/users/2474015), ::Cynplytholowazy::{ user-id=3901754 }, [Dapuluous](https://osu.ppy.sh/users/8140944), ::Dubstek::{ user-id=9555243 }, [frukoyurdakul](https://osu.ppy.sh/users/7612550), ::Greenshell::{ user-id=8693851 }, [Hobbes2](https://osu.ppy.sh/users/8157492), ::Kamuy::{ user-id=7439226 }, [kanpakyin](https://osu.ppy.sh/users/394326), ::Keiga::{ user-id=6866022 }, [Peter](https://osu.ppy.sh/users/8623835), ::PokeSky::{ user-id=3617111 }, [radar](https://osu.ppy.sh/users/7131099), ::Riana::{ user-id=1997633 }, [Roasted Chicken](https://osu.ppy.sh/users/9461160), ::Secre::{ user-id=2306637 }, [SMOKELIND](https://osu.ppy.sh/users/9327302), ::Smokeman::{ user-id=2140676 }, [Stack](https://osu.ppy.sh/users/6122935), ::Teky::{ user-id=10520912 }, [Uberzolik](https://osu.ppy.sh/users/1314547), ::Voxa::{ user-id=9229539 }, [Yales](https://osu.ppy.sh/users/2377881) |
+| ![BN Badge (2 years)](https://assets.ppy.sh/profile-badges/BN2y.png "Longstanding contribution to the Beatmap Nominators - 2 years") | ::-Keitaro::{ user-id=3378391 }, [_Stan](https://osu.ppy.sh/users/1653229), ::Benita::{ user-id=4023183 }, [Beomsan](https://osu.ppy.sh/users/3626063), ::Cris-::{ user-id=6175280 }, [Crissa](https://osu.ppy.sh/users/5405836), ::eiri-::{ user-id=3388410 }, [fieryrage](https://osu.ppy.sh/users/3533958), ::hypercyte::{ user-id=9155377 }, [Icekalt](https://osu.ppy.sh/users/5410645), ::Jemzuu::{ user-id=7890134 }, [Lafayla](https://osu.ppy.sh/users/5312547), ::Milan-::{ user-id=1052994 }, [Mirash](https://osu.ppy.sh/users/2841009), ::pimp::{ user-id=328615 }, [riffy](https://osu.ppy.sh/users/597957), ::Rizen::{ user-id=3056732 }, [skylaa](https://osu.ppy.sh/users/9505704), ::Sparhten::{ user-id=7601720 }, [Spectator](https://osu.ppy.sh/users/702598), ::Yahuri::{ user-id=4682629 }, [Yugu](https://osu.ppy.sh/users/3161834), ::Zelq::{ user-id=8953955 } |
+| ![BN Badge (3 years)](https://assets.ppy.sh/profile-badges/BN3y.jpg "Longstanding contribution to the Beatmap Nominators - 3 years") | ::Andrea::{ user-id=33599 }, [Arzenvald](https://osu.ppy.sh/users/3027421), ::autofanboy::{ user-id=636114 }, [Hinsvar](https://osu.ppy.sh/users/1249323), ::Myxo::{ user-id=2202645 }, [Nao Tomori](https://osu.ppy.sh/users/5364763), ::Nardoxyribonucleic::{ user-id=876419 }, [Nevo](https://osu.ppy.sh/users/7451883), ::Raiden::{ user-id=2239480 }, [Realazy](https://osu.ppy.sh/users/918297), ::TheKingHenry::{ user-id=5128277 }, [timemon](https://osu.ppy.sh/users/2072005) |
+| ![BN Badge (4 years)](https://assets.ppy.sh/profile-badges/BN4y.jpg "Longstanding contribution to the Beatmap Nominators - 4 years") | ::Mafumafu::{ user-id=3076909 }, [Rivals_7](https://osu.ppy.sh/users/4610379), ::Stefan::{ user-id=626907 }, [Xinely](https://osu.ppy.sh/users/1521445) |
+| ![BN Badge (5 years)](https://assets.ppy.sh/profile-badges/BN5y.jpg "Longstanding contribution to the Beatmap Nominators - 5 years") | ::Kawawa::{ user-id=4647754 }, [neonat](https://osu.ppy.sh/users/1561995), ::Nozhomi::{ user-id=2716981 }, [tasuke912](https://osu.ppy.sh/users/2774767) |
+| ![NAT Badge (1 year)](https://assets.ppy.sh/profile-badges/QAT1y.png "Longstanding contribution to the Nomination Assessment Team - 1 year") | ::Greaper::{ user-id=2369776 }, [Leniane](https://osu.ppy.sh/users/7138602), ::Nepuri::{ user-id=6637817 }, [Seto Kousuke](https://osu.ppy.sh/users/2857314), ::Tyistiana::{ user-id=1421452 }, [yaspo](https://osu.ppy.sh/users/4945926) |
+| ![QAT/NAT Badge (2 years)](https://assets.ppy.sh/profile-badges/QAT2y.png "Longstanding contribution to the QAT/NAT - 2 years") | ::Kibbleru::{ user-id=3193504 }, [Noffy](https://osu.ppy.sh/users/1541323) |
+| ![QAT/NAT Badge (3 years)](https://assets.ppy.sh/profile-badges/QAT3y.jpg "Longstanding contribution to the QAT/NAT - 3 years") | ::-Mo-::{ user-id=2202163 }, [Lasse](https://osu.ppy.sh/users/896613), ::Naxess::{ user-id=8129817 } |
+| ![QAT/NAT Badge (4 years)](https://assets.ppy.sh/profile-badges/QAT4y.jpg "Longstanding contribution to the QAT/NAT - 4 years") | ::Feerum::{ user-id=4815717 }, [pishifat](https://osu.ppy.sh/users/3178418) |
 
 ## Mappers' Showcase
 
 This month in the Mappers' Showcase, we'll be featuring two hidden gems from the drum-basher's game mode of choice, osu!taiko!
 
-A big thank you goes out to the showcase selectors for this issue, namely [Hivie](https://osu.ppy.sh/users/14102976) and [radar](https://osu.ppy.sh/users/7131099)!
+A big thank you goes out to the showcase selectors for this issue, namely ::Hivie::{ user-id=14102976 } and [radar](https://osu.ppy.sh/users/7131099)!
 
 ### Maimaing
 
-A newer yet very promising mapper, [Maimaing](https://osu.ppy.sh/users/14520910) has quickly caught on to the particulars of mapping and has been something of a rising star from the moment he started delving into the editor in late 2020.
+A newer yet very promising mapper, ::Maimaing::{ user-id=14520910 } has quickly caught on to the particulars of mapping and has been something of a rising star from the moment he started delving into the editor in late 2020.
 
 His name quickly started spreading among the Japanese community and later into the general scene upon his first steps towards the ranked section, particularly with his very first ranked beatmap, [PSYQUI - Hype feat. Such (lapix Remix)](https://osu.ppy.sh/beatmapsets/1316175). This well-crafted map features fascinating rhythms and patterning, creating an experience that really does the song justice and is great to play as well.
 
@@ -107,7 +107,7 @@ While he still has a long way to reach his full potential, it will be quite fasc
 
 ### X a v y
 
-A mapper whose popularity has been on the rise among high-level players, [X a v y](https://osu.ppy.sh/users/3738344) burst into the ranked section for the first time in early 2021 with [Houshou Marine - Ahoy!! Warera Houshou Kaizokudan\*](https://osu.ppy.sh/beatmapsets/1282787), a marathon version of a pirate v-tuber's debut song.
+A mapper whose popularity has been on the rise among high-level players, ::X a v y::{ user-id=3738344 } burst into the ranked section for the first time in early 2021 with [Houshou Marine - Ahoy!! Warera Houshou Kaizokudan\*](https://osu.ppy.sh/beatmapsets/1282787), a marathon version of a pirate v-tuber's debut song.
 
 Though this might've been his first foray into ranked, X a v y's beatmap graveyard is all but crammed full of a massive catalogue of challenging maps, so make sure to give it a look if you fancy yourself up to the occasion!
 
@@ -157,7 +157,7 @@ A complete list of possible search options can be found on the [Interface wiki p
 
 ### dsco's Guide to Making and Ranking the First Mapset
 
-If you have ever wondered how a beatmap is created from scratch and carried all over to the ranked section, you're in luck, because esteemed mapper and modder [dsco](https://osu.ppy.sh/users/4330511) has livestreamed for over 9 hours in order to guide his viewers through the entire process from start to finish with his set for [Litku Klemetti - Jaakuningatar (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1421834).
+If you have ever wondered how a beatmap is created from scratch and carried all over to the ranked section, you're in luck, because esteemed mapper and modder ::dsco::{ user-id=4330511 } has livestreamed for over 9 hours in order to guide his viewers through the entire process from start to finish with his set for [Litku Klemetti - Jaakuningatar (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1421834).
 
 This rare insight into the entire ranking process is not something that is done particularly often, especially in not so dedicated a format. If you're interested in picking up the essentials of mapping, modding and ranking, be sure to give this one a look.
 
@@ -173,7 +173,7 @@ And that's it for the March issue of the Mappers' Report!
 
 Should you know anything mapping or modding related, be it guides, podcasts or videos, let us know. We would love to touch upon them in the next issue of Mappers' Report!
 
-You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H).
+You can either directly contact ::Feerum::{ user-id=4815717 } or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H).
 
 Hope to see you there soon. Thank you for reading, stay safe and healthy!
 

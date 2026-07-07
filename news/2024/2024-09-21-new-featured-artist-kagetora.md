@@ -25,7 +25,7 @@ If you're a tournament player, you're already *very* familiar with **Kagetora.**
 
 ### Kagetora. - Crazy banger
 
-Try your luck on [this 9.63-star Loved map](https://osu.ppy.sh/beatmapsets/1232750) hosted by [waywern2012](https://osu.ppy.sh/users/5870453)!
+Try your luck on [this 9.63-star Loved map](https://osu.ppy.sh/beatmapsets/1232750) hosted by ::waywern2012::{ user-id=5870453 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/438/Songs/Kagetora.%20-%20Crazy%20banger.mp3">
@@ -33,7 +33,7 @@ Try your luck on [this 9.63-star Loved map](https://osu.ppy.sh/beatmapsets/12327
 
 ### SHIKI - Lapis (Kagetora. remix)
 
-Experience [this 7K osu!mania marathon](https://osu.ppy.sh/beatmapsets/1510347) hosted by [Kawawa](https://osu.ppy.sh/users/4647754)!
+Experience [this 7K osu!mania marathon](https://osu.ppy.sh/beatmapsets/1510347) hosted by ::Kawawa::{ user-id=4647754 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/438/Songs/SHIKI%20-%20Lapis%20(Kagetora.%20remix).mp3">
@@ -41,7 +41,7 @@ Experience [this 7K osu!mania marathon](https://osu.ppy.sh/beatmapsets/1510347) 
 
 ### Eisyo-kobu - Faithtival
 
-Play through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1813733) hosted by [Nao Tomori](https://osu.ppy.sh/users/5364763)!
+Play through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1813733) hosted by ::Nao Tomori::{ user-id=5364763 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/438/Songs/Eisyo-kobu%20-%20Faithtival.mp3">

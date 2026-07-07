@@ -8,7 +8,7 @@ Se sei così a disagio da dover leggere questa pagina, per favore contattaci imm
 
 Abbiamo tolleranza zero verso qualsiasi tipo di attenzione sessuale o avance indesiderata in questa community.
 
-L'indirizzo email per gli abusi è visibile solo da [peppy](https://osu.ppy.sh/users/2) (il creatore del gioco).
+L'indirizzo email per gli abusi è visibile solo da ::peppy::{ user-id=2 } (il creatore del gioco).
 
 Nulla di ciò che invii a [abuse@ppy.sh](mailto:abuse@ppy.sh) sarà mai condiviso con terzi.
 
@@ -32,7 +32,7 @@ Se ritieni che le osservazioni o le avance fossero altamente inappropriate o sei
 
 Per farlo, clicca sul pulsante `Segnala post` nell'angolo in alto a destra del post del forum.
 
-In alternativa, clicca sul nome utente di un qualsiasi membro del GMT nella lista su quella pagina. Questo ti porterà al suo profilo. Se non sei sicuro di chi contattare, usa [questo link](https://osu.ppy.sh/users/5999631).
+In alternativa, clicca sul nome utente di un qualsiasi membro del GMT nella lista su quella pagina. Questo ti porterà al suo profilo. Se non sei sicuro di chi contattare, usa ::questo link::{ user-id=5999631 }.
 
 Clicca il pulsante con una busta appena sotto la bandiera del paese dell'utente. Questo ti porterà alla schermata della chat.
 

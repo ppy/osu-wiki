@@ -54,7 +54,7 @@ All entries will be judged by the following criteria:
 - Impression (10P) - how the judge views the map holistically (as the entire creation). All of the concepts used in the map should work well together and should be executed in a consistent and polished manner.
 - Hitsounding (5P) - how well the entry utilizes hitsounding to emphasize and follow the music.
 
-**We are looking for capable judges! If you are interested, please make a post in the [Judging Call thread](https://osu.ppy.sh/community/forums/topics/707971) or send a message to [Chaos](https://osu.ppy.sh/users/2628870). Please be aware that we can only accept people who have the resources (knowledge, time, reliability) to properly judge the entries.**
+**We are looking for capable judges! If you are interested, please make a post in the [Judging Call thread](https://osu.ppy.sh/community/forums/topics/707971) or send a message to ::Chaos::{ user-id=2628870 }. Please be aware that we can only accept people who have the resources (knowledge, time, reliability) to properly judge the entries.**
 
 ## Prizes
 

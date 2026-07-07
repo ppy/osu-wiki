@@ -8,7 +8,7 @@ tags:
 
 ![Jogja Fun Cup banner](img/banner.jpg)
 
-The **Jogja Fun Cup** (***JFC***) was a double-elimination 2v2 osu! tournament hosted by ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434) (on behalf of the [osu! Region Ngayogyakarta](https://instagram.com/oren_jogja) community) in collaboration with the doujin circle [LUMiNOZ](https://luminoz.bandcamp.com/). The tournament was open to teams of Indonesian players with a global rank of #1,000 or lower. It was the first instalment of the Jogja Fun Cup.
+The **Jogja Fun Cup** (***JFC***) was a double-elimination 2v2 osu! tournament hosted by ::{ flag=ID }:: ::ZStreak::{ user-id=2754434 } (on behalf of the [osu! Region Ngayogyakarta](https://instagram.com/oren_jogja) community) in collaboration with the doujin circle [LUMiNOZ](https://luminoz.bandcamp.com/). The tournament was open to teams of Indonesian players with a global rank of #1,000 or lower. It was the first instalment of the Jogja Fun Cup.
 
 ## Tournament schedule
 
@@ -26,9 +26,9 @@ The **Jogja Fun Cup** (***JFC***) was a double-elimination 2v2 osu! tournament h
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | €100.00 (courtesy of ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176)), 1 month of osu!supporter for each team member, exclusive [LUMiNOZ](https://luminoz.bandcamp.com/) goodie pack, custom-made profile banner |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | €30.00 (courtesy of ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176)), exclusive [LUMiNOZ](https://luminoz.bandcamp.com/) goodie pack, custom-made profile banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | €20.00 (courtesy of ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176)). custom-made profile banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | €100.00 (courtesy of ::{ flag=NL }:: ::Miya the turtle::{ user-id=13032176 }), 1 month of osu!supporter for each team member, exclusive [LUMiNOZ](https://luminoz.bandcamp.com/) goodie pack, custom-made profile banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | €30.00 (courtesy of ::{ flag=NL }:: ::Miya the turtle::{ user-id=13032176 }), exclusive [LUMiNOZ](https://luminoz.bandcamp.com/) goodie pack, custom-made profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | €20.00 (courtesy of ::{ flag=NL }:: ::Miya the turtle::{ user-id=13032176 }). custom-made profile banner |
 
 ## Organisation
 
@@ -36,15 +36,15 @@ The Jogja Fun Cup was run by various osu! community members from Indonesia and b
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434) |
-| Mappool selector | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=US }:: [Lifan Li](https://osu.ppy.sh/users/4050359) |
-| Replayer | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [StayMusical](https://osu.ppy.sh/users/12688176), ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008), ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909), ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956), ::{ flag=TH }:: [ChaiPhukChep](https://osu.ppy.sh/users/9723127), ::{ flag=HK }:: [Zoomeree](https://osu.ppy.sh/users/18802561), ::{ flag=KR }:: [HDDTHR](https://osu.ppy.sh/users/14709263), ::{ flag=JP }:: [R10sh1](https://osu.ppy.sh/users/17202789), ::{ flag=HK }:: [A21](https://osu.ppy.sh/users/11198996), ::{ flag=KR }:: [Allegrissimo](https://osu.ppy.sh/users/9052194), ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650), ::{ flag=HK }:: [Tommy315](https://osu.ppy.sh/users/10748631), ::{ flag=PL }:: [Mastasz](https://osu.ppy.sh/users/1876565), ::{ flag=US }:: [Woey](https://osu.ppy.sh/users/3792472), ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603) |
-| Streamer | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
-| Commentator | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [DAMB-](https://osu.ppy.sh/users/14748550), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
-| Referee | ::{ flag=ID }:: [ZStreak](https://osu.ppy.sh/users/2754434), ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405), ::{ flag=ID }:: [dhimas arya](https://osu.ppy.sh/users/7108145), ::{ flag=ID }:: [BeefyNoragami](https://osu.ppy.sh/users/11065629), ::{ flag=PH }:: [-PeKoRa-](https://osu.ppy.sh/users/17959882), ::{ flag=NL }:: [Miya the turtle](https://osu.ppy.sh/users/13032176), ::{ flag=HU }:: [Akko The Rock](https://osu.ppy.sh/users/9153879) |
-| Graphic designer | ::{ flag=ID }:: [hikimaruy](https://osu.ppy.sh/users/9510067) |
-| Spreadsheet manager | ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
-| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: ::ZStreak::{ user-id=2754434 } |
+| Mappool selector | ::{ flag=ID }:: ::ZStreak::{ user-id=2754434 }, ::{ flag=ID }:: ::Seox::{ user-id=3793938 }, ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::StayMusical::{ user-id=12688176 }, ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, ::{ flag=US }:: ::Lifan Li::{ user-id=4050359 } |
+| Replayer | ::{ flag=ID }:: ::Seox::{ user-id=3793938 }, ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::StayMusical::{ user-id=12688176 }, ::{ flag=ID }:: ::Skydiver::{ user-id=4750008 }, ::{ flag=ID }:: ::DEETO::{ user-id=10069909 }, ::{ flag=ID }:: ::Fuma::{ user-id=1501956 }, ::{ flag=TH }:: ::ChaiPhukChep::{ user-id=9723127 }, ::{ flag=HK }:: ::Zoomeree::{ user-id=18802561 }, ::{ flag=KR }:: ::HDDTHR::{ user-id=14709263 }, ::{ flag=JP }:: ::R10sh1::{ user-id=17202789 }, ::{ flag=HK }:: ::A21::{ user-id=11198996 }, ::{ flag=KR }:: ::Allegrissimo::{ user-id=9052194 }, ::{ flag=HK }:: ::mcy4::{ user-id=2165650 }, ::{ flag=HK }:: ::Tommy315::{ user-id=10748631 }, ::{ flag=PL }:: ::Mastasz::{ user-id=1876565 }, ::{ flag=US }:: ::Woey::{ user-id=3792472 }, ::{ flag=US }:: ::kablaze::{ user-id=3043603 } |
+| Streamer | ::{ flag=ID }:: ::Seox::{ user-id=3793938 } |
+| Commentator | ::{ flag=ID }:: ::ZStreak::{ user-id=2754434 }, ::{ flag=ID }:: ::Seox::{ user-id=3793938 }, ::{ flag=ID }:: ::MejiroMcQueen::{ user-id=11320627 }, ::{ flag=ID }:: ::DAMB-::{ user-id=14748550 }, ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } |
+| Referee | ::{ flag=ID }:: ::ZStreak::{ user-id=2754434 }, ::{ flag=ID }:: ::Splacten::{ user-id=10018405 }, ::{ flag=ID }:: ::dhimas arya::{ user-id=7108145 }, ::{ flag=ID }:: ::BeefyNoragami::{ user-id=11065629 }, ::{ flag=PH }:: ::-PeKoRa-::{ user-id=17959882 }, ::{ flag=NL }:: ::Miya the turtle::{ user-id=13032176 }, ::{ flag=HU }:: ::Akko The Rock::{ user-id=9153879 } |
+| Graphic designer | ::{ flag=ID }:: ::hikimaruy::{ user-id=9510067 } |
+| Spreadsheet manager | ::{ flag=HK }:: ::ShadeCegLgMn::{ user-id=12609866 } |
+| Wiki editor | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
 
 ## Links
 
@@ -57,22 +57,22 @@ The Jogja Fun Cup was run by various osu! community members from Indonesia and b
 
 | Team name | Members |
 | :-: | :-- |
-| apa | ::{ flag=ID }:: **[-TwiHD](https://osu.ppy.sh/users/5470299)**, ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/7348744), ::{ flag=ID }:: [araran](https://osu.ppy.sh/users/8937198) |
-| Bakpia Kukus | ::{ flag=ID }:: **[beabadobee](https://osu.ppy.sh/users/8688737)**, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
-| BAKPIA KUKUS KILLER | ::{ flag=ID }:: **[MejiroMcQueen](https://osu.ppy.sh/users/11320627)**, ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594) |
-| Ban HR2 | ::{ flag=ID }:: **[ruruichi](https://osu.ppy.sh/users/6717559)**, ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439), ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) |
-| daan mogot | ::{ flag=ID }:: **[Sunohara Kokona](https://osu.ppy.sh/users/11421465)**, ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Zankur](https://osu.ppy.sh/users/16249373) |
-| daftar mepet | ::{ flag=ID }:: **[i love wtq](https://osu.ppy.sh/users/12797668)**, ::{ flag=ID }:: [DerpyX\_X](https://osu.ppy.sh/users/14366893), ::{ flag=ID }:: [honeymint](https://osu.ppy.sh/users/4796773) |
-| Duo Ambatron | ::{ flag=ID }:: **[bramasetio](https://osu.ppy.sh/users/34354002)**, ::{ flag=ID }:: [tempegapakenasi](https://osu.ppy.sh/users/34079628) |
-| Hina Dutro | ::{ flag=ID }:: **[Mipol](https://osu.ppy.sh/users/10954080)**, ::{ flag=ID }:: [Zevonik](https://osu.ppy.sh/users/11753540), ::{ flag=ID }:: [RAKAMILKITA](https://osu.ppy.sh/users/18405313) |
-| Kagamarcchino ﾃﾞﾗｸｽ | ::{ flag=ID }:: **[Xicyte](https://osu.ppy.sh/users/10212581)**, ::{ flag=ID }:: [Zoont](https://osu.ppy.sh/users/7109269), ::{ flag=ID }:: [Anphans](https://osu.ppy.sh/users/14231431) |
-| Mie Ayam Afui | ::{ flag=ID }:: **[-Blue21-](https://osu.ppy.sh/users/12517079)**, ::{ flag=ID }:: [mkoean-](https://osu.ppy.sh/users/11847189), ::{ flag=ID }:: [retot](https://osu.ppy.sh/users/17996877) |
-| Nasi Kuning Pakai Kecap | ::{ flag=ID }:: **[Sirius Symboli](https://osu.ppy.sh/users/11025519)**, ::{ flag=ID }:: [Somay 287](https://osu.ppy.sh/users/4314559), ::{ flag=ID }:: [Zonii](https://osu.ppy.sh/users/6596134) |
-| reto pengkhianat | ::{ flag=ID }:: **[Mashima Himeko](https://osu.ppy.sh/users/10474988)**, ::{ flag=ID }:: [FishStar](https://osu.ppy.sh/users/12563284), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657) |
-| Santoso | ::{ flag=ID }:: **[JSpiriT](https://osu.ppy.sh/users/16804164)**, ::{ flag=ID }:: [NaFish](https://osu.ppy.sh/users/9974314), ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661) |
-| Suikambing | ::{ flag=ID }:: **[fnayR](https://osu.ppy.sh/users/2800253)**, ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788), ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809) |
-| Tahu Sumedang | ::{ flag=ID }:: **[lucidators](https://osu.ppy.sh/users/10154981)**, ::{ flag=ID }:: [controlledHive](https://osu.ppy.sh/users/11182595), ::{ flag=ID }:: [Mank](https://osu.ppy.sh/users/18263974) |
-| YJJA | ::{ flag=ID }:: **[Xenoid](https://osu.ppy.sh/users/26993756)**, ::{ flag=ID }:: [kairazhel](https://osu.ppy.sh/users/32835998), ::{ flag=ID }:: [GranXso](https://osu.ppy.sh/users/32189812) |
+| apa | ::{ flag=ID }:: **::-TwiHD::{ user-id=5470299 }**, ::{ flag=ID }:: ::Celine::{ user-id=7348744 }, ::{ flag=ID }:: ::araran::{ user-id=8937198 } |
+| Bakpia Kukus | ::{ flag=ID }:: **::beabadobee::{ user-id=8688737 }**, ::{ flag=ID }:: ::Suikami::{ user-id=1929336 }, ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } |
+| BAKPIA KUKUS KILLER | ::{ flag=ID }:: **::MejiroMcQueen::{ user-id=11320627 }**, ::{ flag=ID }:: ::FAW::{ user-id=11070577 }, ::{ flag=ID }:: ::ThatNOOBGuy::{ user-id=11091594 } |
+| Ban HR2 | ::{ flag=ID }:: **::ruruichi::{ user-id=6717559 }**, ::{ flag=ID }:: ::moyamoyano\_sa::{ user-id=3891439 }, ::{ flag=ID }:: ::Azasapag::{ user-id=18347666 } |
+| daan mogot | ::{ flag=ID }:: **::Sunohara Kokona::{ user-id=11421465 }**, ::{ flag=ID }:: ::Zavier::{ user-id=11379592 }, ::{ flag=ID }:: ::Zankur::{ user-id=16249373 } |
+| daftar mepet | ::{ flag=ID }:: **::i love wtq::{ user-id=12797668 }**, ::{ flag=ID }:: ::DerpyX\_X::{ user-id=14366893 }, ::{ flag=ID }:: ::honeymint::{ user-id=4796773 } |
+| Duo Ambatron | ::{ flag=ID }:: **::bramasetio::{ user-id=34354002 }**, ::{ flag=ID }:: ::tempegapakenasi::{ user-id=34079628 } |
+| Hina Dutro | ::{ flag=ID }:: **::Mipol::{ user-id=10954080 }**, ::{ flag=ID }:: ::Zevonik::{ user-id=11753540 }, ::{ flag=ID }:: ::RAKAMILKITA::{ user-id=18405313 } |
+| Kagamarcchino ﾃﾞﾗｸｽ | ::{ flag=ID }:: **::Xicyte::{ user-id=10212581 }**, ::{ flag=ID }:: ::Zoont::{ user-id=7109269 }, ::{ flag=ID }:: ::Anphans::{ user-id=14231431 } |
+| Mie Ayam Afui | ::{ flag=ID }:: **::-Blue21-::{ user-id=12517079 }**, ::{ flag=ID }:: ::mkoean-::{ user-id=11847189 }, ::{ flag=ID }:: ::retot::{ user-id=17996877 } |
+| Nasi Kuning Pakai Kecap | ::{ flag=ID }:: **::Sirius Symboli::{ user-id=11025519 }**, ::{ flag=ID }:: ::Somay 287::{ user-id=4314559 }, ::{ flag=ID }:: ::Zonii::{ user-id=6596134 } |
+| reto pengkhianat | ::{ flag=ID }:: **::Mashima Himeko::{ user-id=10474988 }**, ::{ flag=ID }:: ::FishStar::{ user-id=12563284 }, ::{ flag=ID }:: ::laks::{ user-id=9519657 } |
+| Santoso | ::{ flag=ID }:: **::JSpiriT::{ user-id=16804164 }**, ::{ flag=ID }:: ::NaFish::{ user-id=9974314 }, ::{ flag=ID }:: ::malvon::{ user-id=11113661 } |
+| Suikambing | ::{ flag=ID }:: **::fnayR::{ user-id=2800253 }**, ::{ flag=ID }:: ::DeathHydra::{ user-id=7457788 }, ::{ flag=ID }:: ::Walfrid::{ user-id=6600809 } |
+| Tahu Sumedang | ::{ flag=ID }:: **::lucidators::{ user-id=10154981 }**, ::{ flag=ID }:: ::controlledHive::{ user-id=11182595 }, ::{ flag=ID }:: ::Mank::{ user-id=18263974 } |
+| YJJA | ::{ flag=ID }:: **::Xenoid::{ user-id=26993756 }**, ::{ flag=ID }:: ::kairazhel::{ user-id=32835998 }, ::{ flag=ID }:: ::GranXso::{ user-id=32189812 } |
 
 ## Podium
 
@@ -80,9 +80,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **BAKPIA KUKUS KILLER** (::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Bakpia Kukus** (::{ flag=ID }:: [beabadobee](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Ban HR2** (::{ flag=ID }:: [ruruichi](https://osu.ppy.sh/users/6717559), ::{ flag=ID }:: [moyamoyano\_sa](https://osu.ppy.sh/users/3891439), ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **BAKPIA KUKUS KILLER** (::{ flag=ID }:: ::MejiroMcQueen::{ user-id=11320627 }, ::{ flag=ID }:: ::FAW::{ user-id=11070577 }, ::{ flag=ID }:: ::ThatNOOBGuy::{ user-id=11091594 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Bakpia Kukus** (::{ flag=ID }:: ::beabadobee::{ user-id=8688737 }, ::{ flag=ID }:: ::Suikami::{ user-id=1929336 }, ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Ban HR2** (::{ flag=ID }:: ::ruruichi::{ user-id=6717559 }, ::{ flag=ID }:: ::moyamoyano\_sa::{ user-id=3891439 }, ::{ flag=ID }:: ::Azasapag::{ user-id=18347666 }) |
 
 ## Mappools
 

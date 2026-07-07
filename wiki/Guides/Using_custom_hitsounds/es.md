@@ -65,4 +65,4 @@ Cuando el conjunto de muestras de un punto de tiempo heredado se establece en `S
 
 ## Fuentes externas
 
-- [*how to add custom hitsound?* respuesta en el foro](https://osu.ppy.sh/community/forums/posts/3215699) por [neonat](https://osu.ppy.sh/users/1561995)
+- [*how to add custom hitsound?* respuesta en el foro](https://osu.ppy.sh/community/forums/posts/3215699) por ::neonat::{ user-id=1561995 }

@@ -19,7 +19,7 @@ Get a glimpse into **dandeless**' mind through these previews:
 
 ### dandeless - selfportrait
 
-No matter what difficulty you're looking for, [this spread](https://osu.ppy.sh/beatmapsets/2462081) hosted by [Kojio](https://osu.ppy.sh/users/2054596) has you covered.
+No matter what difficulty you're looking for, [this spread](https://osu.ppy.sh/beatmapsets/2462081) hosted by ::Kojio::{ user-id=2054596 } has you covered.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -29,7 +29,7 @@ No matter what difficulty you're looking for, [this spread](https://osu.ppy.sh/b
 
 ### dandeless - micro.wav
 
-What happens when you stick pippi in an electromagnetic radiation chamber? We don't know, but [chromb](https://osu.ppy.sh/users/10238680) does after creating [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2461066)!
+What happens when you stick pippi in an electromagnetic radiation chamber? We don't know, but ::chromb::{ user-id=10238680 } does after creating [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2461066)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/544/Songs/dandeless%20-%20micro.wav.mp3">

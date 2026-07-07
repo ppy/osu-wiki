@@ -14,13 +14,13 @@ Para recibir opiniones más rápidas y útiles, se pusieron a disposición de lo
 
 El 28 de marzo, una actualización de osu! incorporó mejoras a los diálogos del [editor de beatmaps](/wiki/Client/Beatmap_editor) y aumentó el rendimiento de [Bancho](/wiki/Bancho_(server)).[^stable-b1800][^bancho]
 
-La primera edición del [osu!monthly](/wiki/Community/osu!monthly) fue publicada por ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985) y ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270), presentando una variedad de contenido que abarcaba desde estadísticas de los usuarios hasta promociones en el [Beatmap Appreciation Team (BAT)](/wiki/People/Beatmap_Appreciation_Team) y el [Mapping Assistance Team (MAT)](/wiki/People/Mapping_Assistance_Team).[^monthly-1]
+La primera edición del [osu!monthly](/wiki/Community/osu!monthly) fue publicada por ::{ flag=US }:: ::jjrocks::{ user-id=30985 } y ::{ flag=GB }:: ::Corin::{ user-id=639270 }, presentando una variedad de contenido que abarcaba desde estadísticas de los usuarios hasta promociones en el [Beatmap Appreciation Team (BAT)](/wiki/People/Beatmap_Appreciation_Team) y el [Mapping Assistance Team (MAT)](/wiki/People/Mapping_Assistance_Team).[^monthly-1]
 
 ## Agosto
 
 [osu!stream](/wiki/osu!stream) fue publicado, haciendo osu! disponible en [iOS](https://es.wikipedia.org/wiki/IOS) con funciones únicas. En comparación con la versión de escritorio, osu!stream ofrecía nuevas mecánicas de juego y beatmaps originales.[^monthly-5]
 
-[LuigiHann](https://osu.ppy.sh/users/1079) organizó el primer concurso oficial de storyboards, en el que se pedía a los usuarios que crearan [storyboards](/wiki/Storyboard) para los tres finalistas del [Official Beatmapping Contest 3](https://osu.ppy.sh/community/forums/topics/47404?n=1).[^storyboarding]
+::LuigiHann::{ user-id=1079 } organizó el primer concurso oficial de storyboards, en el que se pedía a los usuarios que crearan [storyboards](/wiki/Storyboard) para los tres finalistas del [Official Beatmapping Contest 3](https://osu.ppy.sh/community/forums/topics/47404?n=1).[^storyboarding]
 
 ## Septiembre
 

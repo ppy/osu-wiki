@@ -26,10 +26,10 @@ Below is the talk schedule for the event, including the speaker's username and t
 
 | Time (UTC) | Speaker | Title |
 | :-: | :-- | :-- |
-| 21:30 | [PandaPasBo](https://osu.ppy.sh/users/10262231) | "Why expectation ruins your skill in osu" |
-| 22:00 | [xootynator](https://osu.ppy.sh/users/3717598) | "xooty's left hand training" |
-| 22:30 | [Likean00b](https://osu.ppy.sh/users/4860447) | "When tournaments become a hindrance" |
-| 23:00 | [MakiDonalds](https://osu.ppy.sh/users/11610772) | "Break your walls before they break you" |
+| 21:30 | ::PandaPasBo::{ user-id=10262231 } | "Why expectation ruins your skill in osu" |
+| 22:00 | ::xootynator::{ user-id=3717598 } | "xooty's left hand training" |
+| 22:30 | ::Likean00b::{ user-id=4860447 } | "When tournaments become a hindrance" |
+| 23:00 | ::MakiDonalds::{ user-id=11610772 } | "Break your walls before they break you" |
 
 ### Saturday, May 21, 2022
 
@@ -37,11 +37,11 @@ Below is the talk schedule for the event, including the speaker's username and t
 
 | Time (UTC) | Speaker | Title |
 | :-: | :-- | :-- |
-| 11:00 | [IryN](https://osu.ppy.sh/users/17909384) | "Being hardstuck" |
-| 13:00 | [Axiqn](https://osu.ppy.sh/users/21130016) | "Focusing on weaknesses" |
-| 13:30 | [UserAlsoExists](https://osu.ppy.sh/users/19036931) | "The "play less" meta" |
-| 14:30 | [-Liability](https://osu.ppy.sh/users/12260184) | "Doubting yourself" |
-| 15:00 | [Astral52](https://osu.ppy.sh/users/11936432) | "Opening the mind to have fun: How to build a less toxic mentality" |
+| 11:00 | ::IryN::{ user-id=17909384 } | "Being hardstuck" |
+| 13:00 | ::Axiqn::{ user-id=21130016 } | "Focusing on weaknesses" |
+| 13:30 | ::UserAlsoExists::{ user-id=19036931 } | "The "play less" meta" |
+| 14:30 | ::-Liability::{ user-id=12260184 } | "Doubting yourself" |
+| 15:00 | ::Astral52::{ user-id=11936432 } | "Opening the mind to have fun: How to build a less toxic mentality" |
 
 ### Sunday, May 22, 2022
 
@@ -49,11 +49,11 @@ Below is the talk schedule for the event, including the speaker's username and t
 
 | Time (UTC) | Speaker | Title |
 | :-: | :-- | :-- |
-| 18:00 | [cristi2708](https://osu.ppy.sh/users/7552300) | "A perspective on switches and tapping techinques" |
-| 18:30 | [PruceStrats](https://osu.ppy.sh/users/16518886) | "Overcoming adversity in daily life" |
-| 19:00 | [-TunaSliders-](https://osu.ppy.sh/users/15420104) | "Using ideas from osu! to view life differently" |
-| 19:30 | [WaifuMaterial](https://osu.ppy.sh/users/14592606) | "Overcoming social anxiety" |
-| 20:00 | [chiv](https://osu.ppy.sh/users/6701656) | "The problematic state of osu! tournaments" |
+| 18:00 | ::cristi2708::{ user-id=7552300 } | "A perspective on switches and tapping techinques" |
+| 18:30 | ::PruceStrats::{ user-id=16518886 } | "Overcoming adversity in daily life" |
+| 19:00 | ::-TunaSliders-::{ user-id=15420104 } | "Using ideas from osu! to view life differently" |
+| 19:30 | ::WaifuMaterial::{ user-id=14592606 } | "Overcoming social anxiety" |
+| 20:00 | ::chiv::{ user-id=6701656 } | "The problematic state of osu! tournaments" |
 
 ---
 

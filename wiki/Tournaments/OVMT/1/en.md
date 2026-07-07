@@ -6,7 +6,7 @@ tags:
 
 # osu! Vintage Map Tourney!
 
-The **osu! Vintage Map Tourney!** (***OVMT***) was a 1v1 single-elimination osu! tournament hosted by ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914). It was the first instalment of the osu! Vintage Map Tourney!.
+The **osu! Vintage Map Tourney!** (***OVMT***) was a 1v1 single-elimination osu! tournament hosted by ::{ flag=GB }:: ::mmi-::{ user-id=5444914 }. It was the first instalment of the osu! Vintage Map Tourney!.
 
 ## Tournament schedule
 
@@ -33,12 +33,12 @@ The osu! Vintage Map Tourney! was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914) |
-| Mappool selector | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914) |
-| Streamer | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914) |
-| Commentator | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=GB }:: [Postman Tap](https://osu.ppy.sh/users/5668221), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=FR }:: [Alheak](https://osu.ppy.sh/users/3583061), ::{ flag=FI }:: [LefafeI](https://osu.ppy.sh/users/2295850) |
-| Designer | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914) |
-| Referee | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=GB }:: [Postman Tap](https://osu.ppy.sh/users/5668221), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=FR }:: [Alheak](https://osu.ppy.sh/users/3583061), ::{ flag=FI }:: [LefafeI](https://osu.ppy.sh/users/2295850) |
+| Host | ::{ flag=GB }:: ::mmi-::{ user-id=5444914 } |
+| Mappool selector | ::{ flag=GB }:: ::mmi-::{ user-id=5444914 } |
+| Streamer | ::{ flag=GB }:: ::mmi-::{ user-id=5444914 } |
+| Commentator | ::{ flag=GB }:: ::mmi-::{ user-id=5444914 }, ::{ flag=GB }:: ::Postman Tap::{ user-id=5668221 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=FR }:: ::Alheak::{ user-id=3583061 }, ::{ flag=FI }:: ::LefafeI::{ user-id=2295850 } |
+| Designer | ::{ flag=GB }:: ::mmi-::{ user-id=5444914 } |
+| Referee | ::{ flag=GB }:: ::mmi-::{ user-id=5444914 }, ::{ flag=GB }:: ::Postman Tap::{ user-id=5668221 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=FR }:: ::Alheak::{ user-id=3583061 }, ::{ flag=FI }:: ::LefafeI::{ user-id=2295850 } |
 
 ## Links
 
@@ -58,9 +58,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Catgirl](https://osu.ppy.sh/users/2771995) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::Pelzio::{ user-id=4775226 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: ::Catgirl::{ user-id=2771995 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 } |
 
 ## Mappools
 

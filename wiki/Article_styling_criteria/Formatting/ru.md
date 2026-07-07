@@ -194,7 +194,7 @@ HTML-комментарии<!-- TODO: написать объяснение по
 Символы, которые используются в Markdown для управления разметкой, можно экранировать, если их нужно отобразить «как есть». Экранирование необходимо только в тексте статьи, но не в её названии. Перед каждым таким символом нужно поставить обратный слэш (`\`). Пример:
 
 ```markdown
-* [Red\_Pixel](https://osu.ppy.sh/users/4170932) is playing [kors k - Playing With Fire (Sota Fujimori Remix) (xlni) \[Pyrotechnics\]](https://osu.ppy.sh/beatmapsets/202252#osu/478605) (osu!)
+* ::Red\_Pixel::{ user-id=4170932 } is playing [kors k - Playing With Fire (Sota Fujimori Remix) (xlni) \[Pyrotechnics\]](https://osu.ppy.sh/beatmapsets/202252#osu/478605) (osu!)
 ```
 
 ### Параграфы

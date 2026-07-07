@@ -19,7 +19,7 @@ Never heard of the track? That's probably because it debuted on the [live mappoo
 
 ### [Imy feat. Natsume Itsuki - Lies playing Truth](https://assets.ppy.sh/artists/99/Songs/Imy_feat._Natsume_Itsuki_-_Lies_playing_Truth.osz)
 
-[Play the map from OWC](https://osu.ppy.sh/beatmapsets/2271658) created by [Garden](https://osu.ppy.sh/users/2849992) and [Ryuusei Aika](https://osu.ppy.sh/users/7777875)!
+[Play the map from OWC](https://osu.ppy.sh/beatmapsets/2271658) created by ::Garden::{ user-id=2849992 } and [Ryuusei Aika](https://osu.ppy.sh/users/7777875)!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/v5ZaTeibemI" frameborder="0" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ Never heard of the track? That's probably because it debuted on the [live mappoo
 
 ### [Imy feat. Aitsuki Nakuru - Lateral Arc](https://assets.ppy.sh/artists/99/Inside%20of%20me/Imy%20feat.%20Aitsuki%20Nakuru%20-%20Lateral%20Arc.osz)
 
-You can also [try out this map](https://osu.ppy.sh/beatmapsets/2021026) hosted by [milkgreen](https://osu.ppy.sh/users/12764229)!
+You can also [try out this map](https://osu.ppy.sh/beatmapsets/2021026) hosted by ::milkgreen::{ user-id=12764229 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/99/Inside%20of%20me/Imy%20feat.%20Aitsuki%20Nakuru%20-%20Lateral%20Arc.mp3">

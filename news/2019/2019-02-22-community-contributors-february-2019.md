@@ -19,7 +19,7 @@ Please note, however: this list is by no means exhaustive, and only represents t
 
 ### HappyStick
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/HappyStick.jpg)](https://osu.ppy.sh/users/256802)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/HappyStick.jpg)::{ user-id=256802 }
 
 All but leaving behind a successful streaming career and tournament series of his own, HappyStick's jaunt into the deeper affairs of the community has proven instrumental in the continuation of the osu! World Cup series in the wake of its previous organizer's farewell.
 
@@ -29,7 +29,7 @@ We could say many more things about HappyStick, but foremost among them is how t
 
 ### juankristal
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/juankristal.jpg)](https://osu.ppy.sh/users/443656)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/juankristal.jpg)::{ user-id=443656 }
 
 Something of a living meme among the osu! tournament scene, juankristal has been perpetually blamed for everything and anything that has gone both wrong and right for countless years.
 
@@ -39,7 +39,7 @@ The workload involved in running the osu! World Cups is *immense*, perhaps far g
 
 ### WalterToro
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/WalterToro.jpg)](https://osu.ppy.sh/users/5281416)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/WalterToro.jpg)::{ user-id=5281416 }
 
 A mainstay force within the Global Moderation Team, WalterToro is not your ordinary chat moderator. He is *everywhere*: in the osu!wiki team, in the tournaments scene, and wildly active in the Spanish community to say the least.
 
@@ -47,7 +47,7 @@ From refereeing matches to refereeing people, we are very thankful for WalterTor
 
 ### clayton
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/clayton.jpg)](https://osu.ppy.sh/users/3666350)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/clayton.jpg)::{ user-id=3666350 }
 
 From his involvement in the development of the new website, to reviewing countless improvements and additions to the osu!wiki and various newsposts, to assisting with the maintenance and general day-to-day tasks with Project Loved and much more, clayton has done almost everything there is to do, and continues to keep doing it.
 
@@ -55,7 +55,7 @@ Getting things done is what keeps osu! alive and moving, and there is perhaps no
 
 ### VeilStar
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/VeilStar.jpg)](https://osu.ppy.sh/users/4255720)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/VeilStar.jpg)::{ user-id=4255720 }
 
 A formerly gigantic presence in the technical support team, VeilStar's help has been chiefly responsible for hundreds, if not thousands of people getting to enjoy osu! to its fullest.
 
@@ -63,7 +63,7 @@ Having since departed the team and osu! in general to pursue things elsewhere, w
 
 ### Stefan
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Stefan.jpg)](https://osu.ppy.sh/users/626907)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Stefan.jpg)::{ user-id=626907 }
 
 The very picture of an unsung hero, Stefan has single-handedly maintained the [beatmap packs](https://osu.ppy.sh/beatmaps/packs) by himself for years regularly and consistently, completely without being prompted and entirely out of a drive to keep the project alive.
 
@@ -71,7 +71,7 @@ Thousands of users have Stefan to thank for their regular bundle of fresh maps t
 
 ### Naxess
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Naxess.jpg)](https://osu.ppy.sh/users/8129817)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Naxess.jpg)::{ user-id=8129817 }
 
 On the subject of unsung heroes, Naxess' has pioneered the development of a suite of tools that have essentially come to shape the way the Beatmap Nominators and the Quality Assurance Team handles the constant influx of new beatmaps and things to check.
 
@@ -81,7 +81,7 @@ His efforts have not gone unnoticed.
 
 ### Kurokami
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Kurokami.jpg)](https://osu.ppy.sh/users/260933)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Kurokami.jpg)::{ user-id=260933 }
 
 A long term member of the Beatmap Nominators, then the Quality Assurance Team, Kurokami has been a regular presence in beatmapping-related affairs for literal years. His most notable contribution is his leadership of the Beatmap Spotlights project, and its continued effort to bring only the highest quality of beatmaps to bear for the community's appraisal.
 
@@ -89,7 +89,7 @@ Through thick and thin, Kurokami's ceaseless direction of the project has kept i
 
 ### p3n
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/p3n.jpg)](https://osu.ppy.sh/users/123703)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/p3n.jpg)::{ user-id=123703 }
 
 Our initial reaction to p3n's name being raised was universally: "how does he not have this badge already?"
 
@@ -97,7 +97,7 @@ So vast and numerous are p3n's contributions over the years - from creating a ma
 
 ### shARPII
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/shARPII.jpg)](https://osu.ppy.sh/users/776257)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/shARPII.jpg)::{ user-id=776257 }
 
 Departed from the osu!team since early 2018, shARPII was once the primary manager of the Global Moderation Team. Not merely content with one herculean task, shARPII also decided he'd write a utility to help the osu! World Cup staff handle the arduous process of handling multiplayer games from a referee's perspective, coding the program which is now affectionately dubbed *Script-chan* by the tournaments crew.
 
@@ -111,7 +111,7 @@ Few community-run projects have sustained such momentum and attained such reach 
 
 ### Toy
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Toy.jpg)](https://osu.ppy.sh/users/2757689)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Toy.jpg)::{ user-id=2757689 }
 
 The primary drive and chief organizer of Project Loved, Toy's efforts to revitalize and shape the Loved beatmap category are at the very heart of the program, and it is very safe to say that without him, it would simply not exist.
 
@@ -121,7 +121,7 @@ Yes, you read that right.
 
 ### Kaifin
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Kaifin.jpg)](https://osu.ppy.sh/users/2596942)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Kaifin.jpg)::{ user-id=2596942 }
 
 Never far from the fray, Kaifin's continued assistance in the day-to-day affairs of Project Loved have had an immeasurable impact on its consistency and persistence overall.
 
@@ -137,23 +137,23 @@ This list is not exhaustive - there are other Captains who have helped and conti
 
 #### Zak
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Zak.jpg)](https://osu.ppy.sh/users/1375955)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Zak.jpg)::{ user-id=1375955 }
 
 #### Backfire
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Backfire.jpg)](https://osu.ppy.sh/users/263110)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Backfire.jpg)::{ user-id=263110 }
 
 #### Tenshichan
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Tenshichan.jpg)](https://osu.ppy.sh/users/1101600)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Tenshichan.jpg)::{ user-id=1101600 }
 
 #### Kamikaze
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Kamikaze.jpg)](https://osu.ppy.sh/users/2124783)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Kamikaze.jpg)::{ user-id=2124783 }
 
 #### Pope Gadget
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Pope-Gadget.jpg)](https://osu.ppy.sh/users/2288341)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Pope-Gadget.jpg)::{ user-id=2288341 }
 
 ## The Community Mentorship Program
 
@@ -163,31 +163,31 @@ We thus, commend the immense contribution made by those who have helped and cont
 
 ### Yuii-
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Yuii.jpg)](https://osu.ppy.sh/users/2935923)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Yuii.jpg)::{ user-id=2935923 }
 
 Responsible for building the foundations of the project and an acclaimed 2-year+ Beatmap Nominator to boot, Yuii-'s presence in the Mentorship Program has been instrumental in its creation and continued existence.
 
 ### Halfslashed
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Halfslashed.jpg)](https://osu.ppy.sh/users/4598899)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Halfslashed.jpg)::{ user-id=4598899 }
 
 Very much the forward 'face' of the project, Halfslashed has been deep in the thick of the social aspects of leadership, being largely responsible for the deluge of speedmapping and other mapping contests that form the bulk of the competitive scene within the program.
 
 ### Mir
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Mir.jpg)](https://osu.ppy.sh/users/8688812)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Mir.jpg)::{ user-id=8688812 }
 
 An effortless generalist and a former mentee of the program himself under Shiirn, Mir's presence in the project was confined to no one particular domain, but showcased his ability to coordinate and implement at a level that would later speak well in his favor for his entry into the Quality Assurance Team.
 
 ### Mun
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Mun.jpg)](https://osu.ppy.sh/users/6699165)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/Mun.jpg)::{ user-id=6699165 }
 
 Once a former mentee himself under Shiirn, Mun's efforts have spanned across dozens of domains within the project, primarily handling moderation and evaluation related tasks pertaining to both mentors and mentees.
 
 ### J1NX1337
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/J1nx1337.jpg)](https://osu.ppy.sh/users/3971179)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/J1nx1337.jpg)::{ user-id=3971179 }
 
 Responsible for handling much of the busywork that often accompanies managing a project of such size and consistency, J1NX1337's efforts were instrumental to the continuation of the project, and while not all work is exactly glamorous, such things are certainly no less important towards making things happen.
 
@@ -195,7 +195,7 @@ Responsible for handling much of the busywork that often accompanies managing a 
 
 ### ekr
 
-[![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/ekr.jpg)](https://osu.ppy.sh/users/4497706)
+::!\1\1(/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/ekr.jpg)::{ user-id=4497706 }
 
 Responsible for considerable contributions to the osu!lazer project, ekr's efforts have been focused foremost on reviewing code and making grand steps towards development of the game's input system, essentially rewriting it from scratch.
 

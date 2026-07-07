@@ -25,7 +25,7 @@ Most recently though, just about everyone should know him for his newest [osu! o
 
 ### Supa7onyz feat. 5-let - Les Cadences Magiques
 
-Play through [the brand-new world cup map](https://osu.ppy.sh/beatmapsets/2238686) hosted by [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+Play through [the brand-new world cup map](https://osu.ppy.sh/beatmapsets/2238686) hosted by ::Toaph Daddy::{ user-id=7616811 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/435/Songs/Supa7onyz%20feat.%205-let%20-%20Les%20Cadences%20Magiques.mp3">
@@ -33,7 +33,7 @@ Play through [the brand-new world cup map](https://osu.ppy.sh/beatmapsets/223868
 
 ### Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7
 
-Flex your 6K osu!mania prowess with [this unorthodox map](https://osu.ppy.sh/beatmapsets/2184238) hosted by [BKwind](https://osu.ppy.sh/users/8900975)!
+Flex your 6K osu!mania prowess with [this unorthodox map](https://osu.ppy.sh/beatmapsets/2184238) hosted by ::BKwind::{ user-id=8900975 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/435/Songs/Normal1zer%20vs.%20Broken%20Nerdz%20-%20Cybernetic%20Mastermind%20No.7.mp3">
@@ -41,7 +41,7 @@ Flex your 6K osu!mania prowess with [this unorthodox map](https://osu.ppy.sh/bea
 
 ### Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou
 
-Or if you're into osu!taiko, explore [this map](https://osu.ppy.sh/beatmapsets/2091610) by [ZTH](https://osu.ppy.sh/users/5258461) and [\[Zeth\]](https://osu.ppy.sh/users/9912966)!
+Or if you're into osu!taiko, explore [this map](https://osu.ppy.sh/beatmapsets/2091610) by ::ZTH::{ user-id=5258461 } and [\[Zeth\]](https://osu.ppy.sh/users/9912966)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/435/Songs/Noma%20Nadeshiko%20-%20Sanzu%20no%20Kawa%20Ninngyou%20Gekijyou.mp3">

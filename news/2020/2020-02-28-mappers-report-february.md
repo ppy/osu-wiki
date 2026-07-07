@@ -90,10 +90,10 @@ Last but not least, Beatmap Nominators will also be judged by the map quality of
 
 Within the last few months we've had the chance to say hello to a lot of new members to the Beatmap Nominators, especially from the osu!taiko side of things! We're very glad to have all these people on board whether they are new to the group or are returning veterans. We look forward to their help with pushing content to the Ranked section. As this is the first newspost, we will list all nominator additions for 2020 so far.
 
-- **osu!:** [celerih](https://osu.ppy.sh/users/4696296), [SMOKELIND](https://osu.ppy.sh/users/9327302) & [Stack](https://osu.ppy.sh/users/6122935)
-- **osu!taiko:** [Capu](https://osu.ppy.sh/users/2474015), [Gamelan4](https://osu.ppy.sh/users/9856910), [Hoshikuz](https://osu.ppy.sh/users/9892196), [incandescence](https://osu.ppy.sh/users/6256027), [kanpakyin](https://osu.ppy.sh/users/394326), [Stefan](https://osu.ppy.sh/users/626907), [Vulkin](https://osu.ppy.sh/users/4901066) & [Yales](https://osu.ppy.sh/users/2377881)
-- **osu!catch:** [Dapuluous](https://osu.ppy.sh/users/8140944) & [Lacrima](https://osu.ppy.sh/users/4915649)
-- **osu!mania:** [Amiichii](https://osu.ppy.sh/users/9228569),  [Dubstek](https://osu.ppy.sh/users/9555243), [UnluckyCroco](https://osu.ppy.sh/users/9461160) & [Voxa](https://osu.ppy.sh/users/9229539)
+- **osu!:** ::celerih::{ user-id=4696296 }, [SMOKELIND](https://osu.ppy.sh/users/9327302) & ::Stack::{ user-id=6122935 }
+- **osu!taiko:** ::Capu::{ user-id=2474015 }, [Gamelan4](https://osu.ppy.sh/users/9856910), ::Hoshikuz::{ user-id=9892196 }, [incandescence](https://osu.ppy.sh/users/6256027), ::kanpakyin::{ user-id=394326 }, [Stefan](https://osu.ppy.sh/users/626907), ::Vulkin::{ user-id=4901066 } & [Yales](https://osu.ppy.sh/users/2377881)
+- **osu!catch:** ::Dapuluous::{ user-id=8140944 } & [Lacrima](https://osu.ppy.sh/users/4915649)
+- **osu!mania:** ::Amiichii::{ user-id=9228569 },  [Dubstek](https://osu.ppy.sh/users/9555243), ::UnluckyCroco::{ user-id=9461160 } & [Voxa](https://osu.ppy.sh/users/9229539)
 
 We'd like to use this section as a reminder that you can apply as a Beatmap Nominator at any time over at [BN/NAT website](https://bn.mappersguild.com/) as long as you reach the activity requirements. We hope to see some of your names on this list next month!
 
@@ -101,26 +101,26 @@ We'd like to use this section as a reminder that you can apply as a Beatmap Nomi
 
 Next, we have those who have taken their leave from the group. We'd like to thank them for their tremendous work and effort within the BNs and wish them the best with their newly obtained freedom!
 
-- **osu!:** [Mun](https://osu.ppy.sh/users/6699165) & [Trynna](https://osu.ppy.sh/users/2652951)
-- **osu!taiko:** [qoot8123](https://osu.ppy.sh/users/766371)
-- **osu!catch:** [Du5t](https://osu.ppy.sh/users/6053071), [Rocma](https://osu.ppy.sh/users/566276) & [Sanyi](https://osu.ppy.sh/users/7496029)
-- **osu!mania:** [Critical_Star](https://osu.ppy.sh/users/3793196), [Kyousukee](https://osu.ppy.sh/users/8842107), [MEGAtive](https://osu.ppy.sh/users/3094101) & [Tailsdk](https://osu.ppy.sh/users/6751666)
+- **osu!:** ::Mun::{ user-id=6699165 } & [Trynna](https://osu.ppy.sh/users/2652951)
+- **osu!taiko:** ::qoot8123::{ user-id=766371 }
+- **osu!catch:** ::Du5t::{ user-id=6053071 }, [Rocma](https://osu.ppy.sh/users/566276) & ::Sanyi::{ user-id=7496029 }
+- **osu!mania:** ::Critical\1Star::{ user-id=3793196 }, [Kyousukee](https://osu.ppy.sh/users/8842107), ::MEGAtive::{ user-id=3094101 } & [Tailsdk](https://osu.ppy.sh/users/6751666)
 
 ### BN Badges
 
 Before we move on to the NAT additions, we would like to honour our long standing members of the Beatmap Nominators! These BNs will receive, depending on the length of their tenure in the team, a shiny new badge for their profile page. We thank them all for their contribution so far and hope to see much more of them in the future! Here is the list of those:
 
-- **1 Year Badge:** [-Keitaro](https://osu.ppy.sh/users/3378391), [-Luminate](https://osu.ppy.sh/users/4778689), [_Kobii](https://osu.ppy.sh/users/6209713), [Bibbity Bill](https://osu.ppy.sh/users/4446810), [Cris-](https://osu.ppy.sh/users/6175280), [Crissa](https://osu.ppy.sh/users/5405836), [eiri-](https://osu.ppy.sh/users/3388410), [Nikakis](https://osu.ppy.sh/users/4351739), [Petal](https://osu.ppy.sh/users/7354729), [Scotty](https://osu.ppy.sh/users/11085809), [Sparhten](https://osu.ppy.sh/users/7601720), [spoes](https://osu.ppy.sh/users/9505704), [Tyistiana](https://osu.ppy.sh/users/1421452), [Venix](https://osu.ppy.sh/users/5999631), [Yugu](https://osu.ppy.sh/users/3161834) & [Zelq](https://osu.ppy.sh/users/8953955)
-- **2 Year Badge:** [ailv](https://osu.ppy.sh/users/6933054), [Myxo](https://osu.ppy.sh/users/2202645), [Realazy](https://osu.ppy.sh/users/918297), [TheKingHenry](https://osu.ppy.sh/users/5128277) & [timemon](https://osu.ppy.sh/users/2072005)
-- **3 Year Badge:** [Xinely](https://osu.ppy.sh/users/1521445)
+- **1 Year Badge:** ::-Keitaro::{ user-id=3378391 }, [-Luminate](https://osu.ppy.sh/users/4778689), ::\1Kobii::{ user-id=6209713 }, [Bibbity Bill](https://osu.ppy.sh/users/4446810), ::Cris-::{ user-id=6175280 }, [Crissa](https://osu.ppy.sh/users/5405836), ::eiri-::{ user-id=3388410 }, [Nikakis](https://osu.ppy.sh/users/4351739), ::Petal::{ user-id=7354729 }, [Scotty](https://osu.ppy.sh/users/11085809), ::Sparhten::{ user-id=7601720 }, [spoes](https://osu.ppy.sh/users/9505704), ::Tyistiana::{ user-id=1421452 }, [Venix](https://osu.ppy.sh/users/5999631), ::Yugu::{ user-id=3161834 } & [Zelq](https://osu.ppy.sh/users/8953955)
+- **2 Year Badge:** ::ailv::{ user-id=6933054 }, [Myxo](https://osu.ppy.sh/users/2202645), ::Realazy::{ user-id=918297 }, [TheKingHenry](https://osu.ppy.sh/users/5128277) & ::timemon::{ user-id=2072005 }
+- **3 Year Badge:** ::Xinely::{ user-id=1521445 }
 
 ### NAT Additions
 
 In addition to the recently added BNs, some new NAT members have been brought on!
 
-The first addition we got on the 6th January was **[yaspo](https://osu.ppy.sh/users/4945926)** who served as a Beatmap Nominator for roughly over a year, he will now support the NAT for the osu! game mode. He will mainly help with BN evaluations and applications. He has also shown his skills in leading the NAT meetings already! Welcome aboard, yaspo!
+The first addition we got on the 6th January was **::yaspo::{ user-id=4945926 }** who served as a Beatmap Nominator for roughly over a year, he will now support the NAT for the osu! game mode. He will mainly help with BN evaluations and applications. He has also shown his skills in leading the NAT meetings already! Welcome aboard, yaspo!
 
-Our second addition on the 26th January was **[Greaper](https://osu.ppy.sh/users/2369776)** who's been a Beatmap Nominator for almost 4 months. He will now support the NAT for the osu!catch game mode. He will mainly focus on doing BN evaluations and applications, and make sure osu!catch Beatmap Nominators grow properly! Welcome aboard, Greaper!
+Our second addition on the 26th January was **::Greaper::{ user-id=2369776 }** who's been a Beatmap Nominator for almost 4 months. He will now support the NAT for the osu!catch game mode. He will mainly focus on doing BN evaluations and applications, and make sure osu!catch Beatmap Nominators grow properly! Welcome aboard, Greaper!
 
 ## Mapping Contests
 

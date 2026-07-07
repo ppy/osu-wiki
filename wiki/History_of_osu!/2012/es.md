@@ -6,7 +6,7 @@ Se probó una nueva función que añadía un chat web [IRC](https://es.wikipedia
 
 ## Abril
 
-::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) organizó un concurso de arte de los gráficos de los logros, en el que los usuarios debían diseñar iconos para varios títulos independientes y paquetes de beatmaps. Los usuarios cuyos gráficos fueron elegidos por peppy recibieron 3 meses de [osu!supporter](/wiki/osu!supporter) como premio.[^achievements]
+::{ flag=AU }:: ::peppy::{ user-id=2 } organizó un concurso de arte de los gráficos de los logros, en el que los usuarios debían diseñar iconos para varios títulos independientes y paquetes de beatmaps. Los usuarios cuyos gráficos fueron elegidos por peppy recibieron 3 meses de [osu!supporter](/wiki/osu!supporter) como premio.[^achievements]
 
 ![](img/achievement-submission.jpg "Ejemplos de los iconos presentados al concurso")
 
@@ -18,7 +18,7 @@ Se añadió una [lista de transmisiones en vivo](https://osu.ppy.sh/community/li
 
 osu! recibió una actualización que incluía una versión del [grado](/wiki/Gameplay/Grade) SS para el mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_death) y filtros para los modos de juego en la lista de usuarios, entre otras cosas.[^stable-b0813]
 
-Del 11 de junio al 1 de julio, los participantes del [osu! 2012 T-shirt Design Contest](https://osu.ppy.sh/community/forums/topics/86971?n=1) tuvieron que crear ilustraciones para las camisetas que se vendían en la osu!store. Después del concurso, se organizó una votación pública para decidir a los ganadores. ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) ganó el 1er lugar con 324 votos. Entre los premios para los finalistas figuraban una camiseta con la ilustración del usuario impresa en ella, un regalo de 20 $ para gastar libremente en cualquier mercancía disponible y diversas cantidades de osu!supporter.[^shirt-voting][^shirt-winner]
+Del 11 de junio al 1 de julio, los participantes del [osu! 2012 T-shirt Design Contest](https://osu.ppy.sh/community/forums/topics/86971?n=1) tuvieron que crear ilustraciones para las camisetas que se vendían en la osu!store. Después del concurso, se organizó una votación pública para decidir a los ganadores. ::{ flag=CN }:: ::Ballance::{ user-id=165946 } ganó el 1er lugar con 324 votos. Entre los premios para los finalistas figuraban una camiseta con la ilustración del usuario impresa en ella, un regalo de 20 $ para gastar libremente en cualquier mercancía disponible y diversas cantidades de osu!supporter.[^shirt-voting][^shirt-winner]
 
 ![](img/shirt-contest.png "Ilustración ganadora del concurso hecha por Ballance1st")
 
@@ -36,7 +36,7 @@ osu! y su comunidad celebraron el 5º cumpleaños de osu! el 17 de septiembre de
 
 ![](img/2012-10_01.jpg "Logo de osu!mania")
 
-El 8 de octubre, el juego de ritmo de desplazamiento vertical (VSRG) conocido como [osu!mania](/wiki/Game_mode/osu!mania) e implementado por ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) se hizo público.[^stable-b1008] La comunidad expresó diversas opiniones sobre el nuevo modo de juego. Algunos jugadores alabaron el esfuerzo realizado, mientras que otros criticaron la puntuación de los [juicios](/wiki/Gameplay/Judgement/osu!mania) por ser demasiada estricta en comparación con O2JAM, un juego de ritmo con una mecánica de juego similar. Para algunos jugadores, la actualización fue demasiado precipitada, ya que la clasificación, el envío de beatmaps de osu!mania, la modificación de la dificultad y la jugabilidad no se habían pulido o completado lo suficiente. Algunos jugadores tuvieron problemas para actualizar su cliente de osu! debido al enorme tamaño de la actualización (unos 20 MB). La mayoría de estos problemas se habían resuelto en noviembre con una gran respuesta de la comunidad. Sin embargo, muchos usuarios querían probar el nuevo modo de juego.
+El 8 de octubre, el juego de ritmo de desplazamiento vertical (VSRG) conocido como [osu!mania](/wiki/Game_mode/osu!mania) e implementado por ::{ flag=CN }:: ::woc2006::{ user-id=1105845 } se hizo público.[^stable-b1008] La comunidad expresó diversas opiniones sobre el nuevo modo de juego. Algunos jugadores alabaron el esfuerzo realizado, mientras que otros criticaron la puntuación de los [juicios](/wiki/Gameplay/Judgement/osu!mania) por ser demasiada estricta en comparación con O2JAM, un juego de ritmo con una mecánica de juego similar. Para algunos jugadores, la actualización fue demasiado precipitada, ya que la clasificación, el envío de beatmaps de osu!mania, la modificación de la dificultad y la jugabilidad no se habían pulido o completado lo suficiente. Algunos jugadores tuvieron problemas para actualizar su cliente de osu! debido al enorme tamaño de la actualización (unos 20 MB). La mayoría de estos problemas se habían resuelto en noviembre con una gran respuesta de la comunidad. Sin embargo, muchos usuarios querían probar el nuevo modo de juego.
 
 ::: Infobox
 
@@ -54,12 +54,12 @@ Para los jugadores que entraban al modo [multijugador](/wiki/Client/Interface/Mu
 
 Además del nuevo modo de juego, en la actualización se había implementado lo siguiente:
 
-- Se añadieron hitsounds por objeto en el editor, gracias a ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655).
+- Se añadieron hitsounds por objeto en el editor, gracias a ::{ flag=CA }:: ::mm201::{ user-id=30655 }.
 - Los jugadores podrían recuperarse de fallar un beatmap en [multijugador](/wiki/Client/Interface/Multiplayer) al alcanzar el total de HP (esto no ocurriría si estaba activado el mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) o [Perfect](/wiki/Gameplay/Game_modifier/Perfect)).
 - Se añadió soporte de desplazamiento a la lista de clasificación en línea del juego.
 - Se mejoró la [selección de skins](/wiki/Client/Options#skin) para que la vista previa se reproduzca de forma más realista.
 
-::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089) ayudó a crear la nueva osu!store para ofrecer los diseños presentados en el [concurso de diseño de camisetas](https://osu.ppy.sh/community/forums/topics/94466?n=1) en camisetas de alta calidad, con el objetivo final de ampliar la gama de productos a otros artículos como pegatinas.[^osu-market]
+::{ flag=FR }:: ::Kurai::{ user-id=77089 } ayudó a crear la nueva osu!store para ofrecer los diseños presentados en el [concurso de diseño de camisetas](https://osu.ppy.sh/community/forums/topics/94466?n=1) en camisetas de alta calidad, con el objetivo final de ampliar la gama de productos a otros artículos como pegatinas.[^osu-market]
 
 ::: Infobox
 

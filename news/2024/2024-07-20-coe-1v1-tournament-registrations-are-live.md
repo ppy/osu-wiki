@@ -9,7 +9,7 @@ It has never been a better time to showcase your osu! skills in a LAN than the a
 
 ![](/wiki/shared/news/2024-07-20-coe-1v1-tournament-registrations-are-live/banner.jpg)
 
-If you are somehow not familiar with COE or its 1v1 tournament, [COE](/wiki/Community/cavoe's_osu!_event) is osu!'s largest community-hosted event, organised by [Meyer](https://osu.ppy.sh/users/5452367) and [cavoeboy](https://osu.ppy.sh/users/7361815) from July 30th up until August 4th. Along with the event itself, for the 3rd year in a row the largest LAN tournament of the year will be held there as well, with hundreds of live viewers at the event and even more online on [Twitch](https://www.twitch.tv/COEvent)!
+If you are somehow not familiar with COE or its 1v1 tournament, [COE](/wiki/Community/cavoe's_osu!_event) is osu!'s largest community-hosted event, organised by ::Meyer::{ user-id=5452367 } and [cavoeboy](https://osu.ppy.sh/users/7361815) from July 30th up until August 4th. Along with the event itself, for the 3rd year in a row the largest LAN tournament of the year will be held there as well, with hundreds of live viewers at the event and even more online on [Twitch](https://www.twitch.tv/COEvent)!
 
 This is a unique experience both for viewers and players, and tickets for the event are still [available for purchase](https://cavoeboy.com/tickets/ticket-type) if you wish to attend (and can somehow arrange a trip in a week). Here is a small glimpse of what to expect from the atmosphere and the community:
 
@@ -46,7 +46,7 @@ If you still want to compete, but did not make the top 16, you might be interest
 
 COE is a very social event and the perfect time to meet with osu! friends and make new ones, whether it be at the karaoke night, sushi dinner or just around the venue. With the amount of [players, creators and contributors](https://cavoeboy.com/attendees) attending, you're sure to find many familiar faces.
 
-Just want to chill out? There will be plenty of community panels, whether it's [mangomizer](https://osu.ppy.sh/users/1893718)'s pub quiz, [Nytro](https://osu.ppy.sh/users/11327918)'s mapping panel, the storyboarding panel, or challenges such as [Bubbleman](https://osu.ppy.sh/users/5182050)'s pp farming race, along with Yuki Aim, Wooting and [wooz](https://osu.ppy.sh/users/6888206)'s arcade booths that you can leisurely peruse.
+Just want to chill out? There will be plenty of community panels, whether it's ::mangomizer::{ user-id=1893718 }'s pub quiz, ::Nytro::{ user-id=11327918 }'s mapping panel, the storyboarding panel, or challenges such as ::Bubbleman::{ user-id=5182050 }'s pp farming race, along with Yuki Aim, Wooting and ::wooz::{ user-id=6888206 }'s arcade booths that you can leisurely peruse.
 
 You can find the schedule of all activities on the [website](https://cavoeboy.com/activities) or the [wiki page](/wiki/Community/cavoe's_osu!_event/2024).
 

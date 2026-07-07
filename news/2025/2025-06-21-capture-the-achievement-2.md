@@ -49,7 +49,7 @@ An achievement has a title, description, tags, and possibly one or more beatmaps
 
 Many achievements are riddles involving obscure osu! knowledge. This is where you and your team pool your heads together to investigate where the answer lies, until a brainwave appears that allows you to connect the dots.
 
-The solution to this particular achievement is playing [Super Mario Bros Medley](https://osu.ppy.sh/beatmapsets/1281#osu/11517), a map that got both [WubWoofWolf](https://osu.ppy.sh/users/39828) and [Doomsday](https://osu.ppy.sh/users/18983) into osu!, as explained by their comments under the map and [this video](https://www.youtube.com/watch?v=0T5F0Zzy6ps) from Doomsday's YouTube channel.
+The solution to this particular achievement is playing [Super Mario Bros Medley](https://osu.ppy.sh/beatmapsets/1281#osu/11517), a map that got both ::WubWoofWolf::{ user-id=39828 } and [Doomsday](https://osu.ppy.sh/users/18983) into osu!, as explained by their comments under the map and [this video](https://www.youtube.com/watch?v=0T5F0Zzy6ps) from Doomsday's YouTube channel.
 
 ![Completed achievement example](/wiki/shared/news/2025-06-21-capture-the-achievement-2/example-2.png)
 

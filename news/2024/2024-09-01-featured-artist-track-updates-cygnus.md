@@ -39,7 +39,7 @@ If you're not in the mapping mood quite yet, play through any of these to get so
 
 ### cygnus - Bernkastel's Sanctuary
 
-[Here's another map](https://osu.ppy.sh/beatmapsets/2134400) hosted by [the artist himself](https://osu.ppy.sh/users/5052899)!
+[Here's another map](https://osu.ppy.sh/beatmapsets/2134400) hosted by ::the artist himself::{ user-id=5052899 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Midnight%20Sacrifice/cygnus%20-%20Bernkastel%27s%20Sanctuary.mp3">
@@ -47,7 +47,7 @@ If you're not in the mapping mood quite yet, play through any of these to get so
 
 ### cygnus - M U T A T i O N (((((9^9)^9)^9)^9)^9)
 
-Play through [this recently Ranked map](https://osu.ppy.sh/beatmapsets/2235017) hosted by [dopaminos](https://osu.ppy.sh/users/6570161)!
+Play through [this recently Ranked map](https://osu.ppy.sh/beatmapsets/2235017) hosted by ::dopaminos::{ user-id=6570161 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Sorrow%20Mania/cygnus%20-%20M%20U%20T%20A%20T%20i%20O%20N%20(((((9%5E9)%5E9)%5E9)%5E9)%5E9).mp3">
@@ -55,7 +55,7 @@ Play through [this recently Ranked map](https://osu.ppy.sh/beatmapsets/2235017) 
 
 ### cygnus - Bloody Mary
 
-Today is a good day for osu!. [fanzhen0019](https://osu.ppy.sh/users/418699) uploaded [a new map](https://osu.ppy.sh/beatmapsets/2242344) for the [Kyoku contest](https://osu.ppy.sh/home/news/2024-05-10-kyoku-original-song-and-beatmapping-contest)!
+Today is a good day for osu!. ::fanzhen0019::{ user-id=418699 } uploaded [a new map](https://osu.ppy.sh/beatmapsets/2242344) for the [Kyoku contest](https://osu.ppy.sh/home/news/2024-05-10-kyoku-original-song-and-beatmapping-contest)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Sorrow%20Mania/cygnus%20-%20Bloody%20Mary.mp3">
@@ -63,7 +63,7 @@ Today is a good day for osu!. [fanzhen0019](https://osu.ppy.sh/users/418699) upl
 
 ### cygnus - loppi_complex
 
-Experience a bit of **cygnus**'s new album through [this brand-new beatmap](https://osu.ppy.sh/beatmapsets/2242440) hosted by the one and only [mithew](https://osu.ppy.sh/users/2571893)!
+Experience a bit of **cygnus**'s new album through [this brand-new beatmap](https://osu.ppy.sh/beatmapsets/2242440) hosted by the one and only ::mithew::{ user-id=2571893 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Sorrow%20Mania/cygnus%20-%20loppi%27complex.mp3">
@@ -71,7 +71,7 @@ Experience a bit of **cygnus**'s new album through [this brand-new beatmap](http
 
 ### cygnus - magic rock "Moola"
 
-Take your pick of [any of these 10 difficulties](https://osu.ppy.sh/beatmapsets/2105573) hosted by [Matrix (a.k.a. **cygnus**)](https://osu.ppy.sh/users/5052899)!
+Take your pick of [any of these 10 difficulties](https://osu.ppy.sh/beatmapsets/2105573) hosted by ::Matrix (a.k.a. **cygnus**)::{ user-id=5052899 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Midnight%20Sacrifice/cygnus%20-%20magic%20rock%20Moola.mp3">
@@ -79,7 +79,7 @@ Take your pick of [any of these 10 difficulties](https://osu.ppy.sh/beatmapsets/
 
 ### cygnus - Book of Dark Magic
 
-Try out [this osu! map](https://osu.ppy.sh/beatmapsets/2127556) hosted by [Matrix](https://osu.ppy.sh/users/5052899) or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/2233292) hosted by [Antti](https://osu.ppy.sh/users/13281473)!
+Try out [this osu! map](https://osu.ppy.sh/beatmapsets/2127556) hosted by ::Matrix::{ user-id=5052899 } or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/2233292) hosted by ::Antti::{ user-id=13281473 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Midnight%20Sacrifice/cygnus%20-%20Book%20of%20Dark%20Magic.mp3">
@@ -87,7 +87,7 @@ Try out [this osu! map](https://osu.ppy.sh/beatmapsets/2127556) hosted by [Matri
 
 ### cygnus - Moon Atomizer
 
-Experience [this map made for an IRL tournament](https://osu.ppy.sh/beatmapsets/2214952) hosted by [Sanch-KK](https://osu.ppy.sh/users/9131844)!
+Experience [this map made for an IRL tournament](https://osu.ppy.sh/beatmapsets/2214952) hosted by ::Sanch-KK::{ user-id=9131844 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Sorrow%20Mania/cygnus%20-%20Moon%20Atomizer.mp3">

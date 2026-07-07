@@ -23,45 +23,45 @@ Los nominadores que clasificaron **al menos 4 mapas** durante el evento, recibie
 
 | Nombre | Modo de juego | Nominaciones |
 | :-- | :-- | --: |
-| ::{ flag=US }:: [Chanyah](https://osu.ppy.sh/users/5226970) | ![osu!](/wiki/shared/mode/osu.png "osu!") | 18 |
-| ::{ flag=AU }:: [Akito](https://osu.ppy.sh/users/5716327) | ![osu!](/wiki/shared/mode/osu.png "osu!") | 12 |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | ![osu!](/wiki/shared/mode/osu.png "osu!") | 11 |
-| ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413) | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | 10 |
-| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | ![osu!](/wiki/shared/mode/osu.png "osu!") | 9 |
-| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) | ![osu!](/wiki/shared/mode/osu.png "osu!") | 9 |
-| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | ![osu!](/wiki/shared/mode/osu.png "osu!") | 9 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | 9 |
-| ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196) | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | 3 |
-| ::{ flag=NO }:: [Benita](https://osu.ppy.sh/users/4023183) | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | 3 |
+| ::{ flag=US }:: ::Chanyah::{ user-id=5226970 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | 18 |
+| ::{ flag=AU }:: ::Akito::{ user-id=5716327 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | 12 |
+| ::{ flag=SE }:: ::Zer0-::{ user-id=4260033 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | 11 |
+| ::{ flag=SE }:: ::Davvy::{ user-id=10047413 } | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") | 10 |
+| ::{ flag=CA }:: ::VINXIS::{ user-id=4323406 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | 9 |
+| ::{ flag=US }:: ::rosario wknd::{ user-id=6341518 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | 9 |
+| ::{ flag=DE }:: ::Mir::{ user-id=8688812 } | ![osu!](/wiki/shared/mode/osu.png "osu!") | 9 |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") | 9 |
+| ::{ flag=GR }:: ::Nokashi::{ user-id=5431196 } | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | 3 |
+| ::{ flag=NO }:: ::Benita::{ user-id=4023183 } | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") | 3 |
 
 ### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
 
 | Nombre | Nominaciones |
 | :-- | --: |
-| ::{ flag=US }:: [Chanyah](https://osu.ppy.sh/users/5226970) | 18 |
-| ::{ flag=AU }:: [Akito](https://osu.ppy.sh/users/5716327) | 12 |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | 11 |
+| ::{ flag=US }:: ::Chanyah::{ user-id=5226970 } | 18 |
+| ::{ flag=AU }:: ::Akito::{ user-id=5716327 } | 12 |
+| ::{ flag=SE }:: ::Zer0-::{ user-id=4260033 } | 11 |
 
 ### ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko
 
 | Nombre | Nominaciones |
 | :-- | --: |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 9 |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | 7 |
-| ::{ flag=US }:: [ikin5050](https://osu.ppy.sh/users/4007649) | 5 |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | 9 |
+| ::{ flag=MY }:: ::Jerry::{ user-id=605973 } | 7 |
+| ::{ flag=US }:: ::ikin5050::{ user-id=4007649 } | 5 |
 
 ### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch
 
 | Nombre | Nominaciones |
 | :-- | --: |
-| ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196) | 3 |
-| ::{ flag=NO }:: [Benita](https://osu.ppy.sh/users/4023183) | 3 |
-| ::{ flag=KR }:: [My Angel RangE](https://osu.ppy.sh/users/6336713) | 2 |
+| ::{ flag=GR }:: ::Nokashi::{ user-id=5431196 } | 3 |
+| ::{ flag=NO }:: ::Benita::{ user-id=4023183 } | 3 |
+| ::{ flag=KR }:: ::My Angel RangE::{ user-id=6336713 } | 2 |
 
 ### ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania
 
 | Nombre | Nominaciones |
 | :-- | --: |
-| ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413) | 10 |
-| ::{ flag=KR }:: [Dubstek](https://osu.ppy.sh/users/9555243) | 8 |
-| ::{ flag=ID }:: [Mipha-](https://osu.ppy.sh/users/5767941) | 6 |
+| ::{ flag=SE }:: ::Davvy::{ user-id=10047413 } | 10 |
+| ::{ flag=KR }:: ::Dubstek::{ user-id=9555243 } | 8 |
+| ::{ flag=ID }:: ::Mipha-::{ user-id=5767941 } | 6 |

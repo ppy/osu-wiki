@@ -31,10 +31,10 @@ The osu!taiko Featured Artist Cup #3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
-| Designer | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) |
-| Judge | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
-| Screener | ::{ flag=IT }:: [Arach](https://osu.ppy.sh/users/8512755), ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417), ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) |
+| Host | ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } |
+| Designer | ::{ flag=GB }:: ::Tanza3D::{ user-id=10379965 } |
+| Judge | ::{ flag=AR }:: ::Axer::{ user-id=7299864 }, ::{ flag=NL }:: ::Boaz::{ user-id=13302996 }, ::{ flag=US }:: ::Nifty::{ user-id=4956097 }, ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } |
+| Screener | ::{ flag=IT }:: ::Arach::{ user-id=8512755 }, ::{ flag=AR }:: ::Axer::{ user-id=7299864 }, ::{ flag=TR }:: ::Burak::{ user-id=13213075 }, ::{ flag=HK }:: ::Cynplytholowazy::{ user-id=3901754 }, ::{ flag=PH }:: ::Eyenine::{ user-id=1259391 }, ::{ flag=FI }:: ::Jaltzu::{ user-id=2597417 }, ::{ flag=US }:: ::meiqth::{ user-id=12565402 } |
 
 ## Prizes
 
@@ -64,9 +64,9 @@ This contest has come to an end and resulted in the following podium:
 
 | Rank | Team | Beatmap | Judging | Judge's Impression (20) | Ranking Criteria (20) | Structure (40) | Relevance (40) | Creativity (40) | Total (standardised/raw) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Code:Red** (::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525)) | [Camellia - Kamah (Scythe)](https://osu.ppy.sh/beatmapsets/1908845) | [details](https://mappersguild.com/contests/results?submission=6368c1a8da95e26e35ce3402) | 20 | 20 | 38 | 38 | 35 | **5.26** (151) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **?XD** (::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957)) | [Kikuo - Ten Sho Sho Ten Sho](https://osu.ppy.sh/beatmapsets/1908844) | [details](https://mappersguild.com/contests/results?submission=6368c1abda95e26e35ce34a6) | 19 | 19 | 36 | 37 | 37 | **4.22** (148) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **:3** (::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157), ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)) | [Camellia - BAD ACCESS (FROM A MOE MAID)](https://osu.ppy.sh/beatmapsets/1908855) | [details](https://mappersguild.com/contests/results?submission=6368c1abda95e26e35ce34aa) | 19 | 20 | 36 | 34 | 36 | **4.15** (145) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Code:Red** (::{ flag=TH }:: ::Ph0eNiiXZ::{ user-id=9463721 }, ::{ flag=TH }:: ::Kusuhara Yui::{ user-id=9582525 }) | [Camellia - Kamah (Scythe)](https://osu.ppy.sh/beatmapsets/1908845) | [details](https://mappersguild.com/contests/results?submission=6368c1a8da95e26e35ce3402) | 20 | 20 | 38 | 38 | 35 | **5.26** (151) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **?XD** (::{ flag=SG }:: ::arcpotato::{ user-id=12842392 }, ::{ flag=SG }:: ::\1gt::{ user-id=8301957 }) | [Kikuo - Ten Sho Sho Ten Sho](https://osu.ppy.sh/beatmapsets/1908844) | [details](https://mappersguild.com/contests/results?submission=6368c1abda95e26e35ce34a6) | 19 | 19 | 36 | 37 | 37 | **4.22** (148) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **:3** (::{ flag=KR }:: ::woosungko::{ user-id=14184157 }, ::{ flag=GB }:: ::Horiiizon::{ user-id=8071438 }) | [Camellia - BAD ACCESS (FROM A MOE MAID)](https://osu.ppy.sh/beatmapsets/1908855) | [details](https://mappersguild.com/contests/results?submission=6368c1abda95e26e35ce34aa) | 19 | 20 | 36 | 34 | 36 | **4.15** (145) |
 
 ## Ruleset
 
@@ -100,4 +100,4 @@ This contest has come to an end and resulted in the following podium:
 
 ## Notes
 
-[^prizes-ranked]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) and another Beatmap Nominator will check and nominate the entry if the mappers choose to, and **if they get the necessary difficulties to form a rankable spread when needed**.
+[^prizes-ranked]: ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } and another Beatmap Nominator will check and nominate the entry if the mappers choose to, and **if they get the necessary difficulties to form a rankable spread when needed**.

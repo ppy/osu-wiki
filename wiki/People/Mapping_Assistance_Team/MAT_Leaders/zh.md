@@ -10,6 +10,6 @@ tags:
 
 ## 历史
 
-2009 年 12 月 27 日 MAT 成立时，::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) 被选为首任 MAT 领导。
+2009 年 12 月 27 日 MAT 成立时，::{ flag=AU }:: ::Ephemeral::{ user-id=102335 } 被选为首任 MAT 领导。
 
-此后，该职位于 2010 年 8 月 26 日由 ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) 接任，直至 2013 年 4 月 23 日 MAT 解散。
+此后，该职位于 2010 年 8 月 26 日由 ::{ flag=US }:: ::ztrot::{ user-id=6347 } 接任，直至 2013 年 4 月 23 日 MAT 解散。

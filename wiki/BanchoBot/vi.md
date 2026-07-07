@@ -14,9 +14,9 @@ tags:
 
 ![Thẻ thông tin của BanchoBot](img/BanchoBot.jpg "Thẻ thông tin của BanchoBot")
 
-**BanchoBot** (đôi khi được gọi là *Bancho*) là một chat bot trực tuyến dành riêng cho osu!, dùng để hỗ trợ người chơi trong game bằng cách thông báo tin nhắn liên quan đến game (v.d. tổng số lần chơi, số lần thử lại, v.v) và phản hồi lại một số lệnh cụ thể. ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) là người lập trình BanchoBot và cũng là người cung cấp [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
+**BanchoBot** (đôi khi được gọi là *Bancho*) là một chat bot trực tuyến dành riêng cho osu!, dùng để hỗ trợ người chơi trong game bằng cách thông báo tin nhắn liên quan đến game (v.d. tổng số lần chơi, số lần thử lại, v.v) và phản hồi lại một số lệnh cụ thể. ::{ flag=NZ }:: ::Echo::{ user-id=431 } là người lập trình BanchoBot và cũng là người cung cấp [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
 
-BanchoBot cũng có [hồ sơ osu!](https://osu.ppy.sh/users/3) và [tài khoản Twitter](https://twitter.com/banchoboat) riêng.
+BanchoBot cũng có ::hồ sơ osu!::{ user-id=3 } và [tài khoản Twitter](https://twitter.com/banchoboat) riêng.
 
 ## Lệnh
 

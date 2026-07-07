@@ -35,7 +35,7 @@ For any entry that was submitted by the entry submission deadline, **team member
 
 Additionally, the player with the highest score on [this osu!(lazer) playlist of all the entries](https://osu.ppy.sh/multiplayer/rooms/1539920) received a "Locus playlist winner" badge.
 
-Finally, there was a wildcard prize. ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), the game's creator, picked his favourite entry and that team earned a separate mystery prize, revealed to be the following:
+Finally, there was a wildcard prize. ::{ flag=AU }:: ::peppy::{ user-id=2 }, the game's creator, picked his favourite entry and that team earned a separate mystery prize, revealed to be the following:
 
 - The entry also got bundled with new installations of the game.
 - The entry got a favourite from peppy.
@@ -46,10 +46,10 @@ Locus 2025 is run by various members of the [osu! team](/wiki/People/osu!_team) 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) |
-| Developers | ::{ flag=GB }:: [Komm](https://osu.ppy.sh/users/7671790), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
-| Graphic designers | ::{ flag=AU }:: [Adarin](https://osu.ppy.sh/users/118360), ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) |
-| General assistance | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
+| Manager | ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 }, ::{ flag=JP }:: ::Matrix::{ user-id=5052899 } |
+| Developers | ::{ flag=GB }:: ::Komm::{ user-id=7671790 }, ::{ flag=PL }:: ::Venix::{ user-id=5999631 } |
+| Graphic designers | ::{ flag=AU }:: ::Adarin::{ user-id=118360 }, ::{ flag=GB }:: ::Tanza::{ user-id=10379965 } |
+| General assistance | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=AU }:: ::Ephemeral::{ user-id=102335 }, ::{ flag=TN }:: ::Hivie::{ user-id=14102976 }, ::{ flag=US }:: ::pishifat::{ user-id=3178418 }, ::{ flag=SE }:: ::Walavouchey::{ user-id=5773079 } |
 
 ## Links
 
@@ -71,13 +71,13 @@ This contest has come to an end and resulted in the following podium:
 
 ### peppy's pick
 
-::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) also picked an entry to receive the [additional mystery prize](#prizes):
+::{ flag=AU }:: ::peppy::{ user-id=2 } also picked an entry to receive the [additional mystery prize](#prizes):
 
 ![Locus 2025 peppy's pick](img/peppy-pick.jpg?1)
 
 ### Playlist winner
 
-::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929) won the [Locus 2025 osu!(lazer) playlist](https://osu.ppy.sh/multiplayer/rooms/1539920) and received a badge:
+::{ flag=US }:: ::Wispy::{ user-id=11106929 } won the [Locus 2025 osu!(lazer) playlist](https://osu.ppy.sh/multiplayer/rooms/1539920) and received a badge:
 
 ![Locus 2025 playlist winner badge](img/badge@2x.png "Locus playlist leader")
 
@@ -111,11 +111,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Hexagram |
-| **Mapper / assisting musician** | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) |
-| **Musician / mapper** | ::{ flag=HK }:: [Otosaka-Yu](https://osu.ppy.sh/users/3170678) |
-| **Mapper** | ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) |
-| **Mapper** | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) |
-| **Illustrator / VFX artist** | ::{ flag=JP }:: [TARA-376](https://osu.ppy.sh/users/37407910) |
+| **Mapper / assisting musician** | ::{ flag=HK }:: ::Chaoslitz::{ user-id=3621552 } |
+| **Musician / mapper** | ::{ flag=HK }:: ::Otosaka-Yu::{ user-id=3170678 } |
+| **Mapper** | ::{ flag=HK }:: ::seros::{ user-id=10562853 } |
+| **Mapper** | ::{ flag=KR }:: ::momoyo::{ user-id=12469536 } |
+| **Illustrator / VFX artist** | ::{ flag=JP }:: ::TARA-376::{ user-id=37407910 } |
 
 [![Artwork of takehirotei - Haiboku no Altra Vita](img/banners/Haiboku_no_Altra_Vita.jpg)](https://osu.ppy.sh/beatmapsets/2412331)
 
@@ -139,11 +139,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Sylenth2 v7.2769420 "Unlimited Synth Works" |
-| **Illustrator / designer / storyboarder / mapper** | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499) |
-| **Musician / mapper** | ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794) |
-| **Mapper** | ::{ flag=MY }:: [Mahiru Shiina](https://osu.ppy.sh/users/13866023) |
-| **Mapper** | ::{ flag=MY }:: [Etsuko Marvia](https://osu.ppy.sh/users/13893348) |
-| **Mapper** | ::{ flag=MY }:: [Kardshark](https://osu.ppy.sh/users/4724315) |
+| **Illustrator / designer / storyboarder / mapper** | ::{ flag=MY }:: ::Iyouka::{ user-id=7138499 } |
+| **Musician / mapper** | ::{ flag=MY }:: ::takehirotei::{ user-id=11793794 } |
+| **Mapper** | ::{ flag=MY }:: ::Mahiru Shiina::{ user-id=13866023 } |
+| **Mapper** | ::{ flag=MY }:: ::Etsuko Marvia::{ user-id=13893348 } |
+| **Mapper** | ::{ flag=MY }:: ::Kardshark::{ user-id=4724315 } |
 
 [![Artwork of Will Stetson - Of Our Time](img/banners/Of_Our_Time.jpg)](https://osu.ppy.sh/beatmapsets/2412232)
 
@@ -167,11 +167,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | 5Head |
-| **Mapper / hitsounder** | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) |
-| **Vocalist** | ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088) |
-| **Musician** | ::{ flag=CA }:: [KiAme](https://osu.ppy.sh/users/37416442) |
-| **Storyboarder** | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |
-| **Illustrator** | ::{ flag=US }:: [tofumang](https://osu.ppy.sh/users/4817223) |
+| **Mapper / hitsounder** | ::{ flag=FR }:: ::Sotarks::{ user-id=4452992 } |
+| **Vocalist** | ::{ flag=US }:: ::Will Stetson::{ user-id=4909088 } |
+| **Musician** | ::{ flag=CA }:: ::KiAme::{ user-id=37416442 } |
+| **Storyboarder** | ::{ flag=US }:: ::Noffy::{ user-id=1541323 } |
+| **Illustrator** | ::{ flag=US }:: ::tofumang::{ user-id=4817223 } |
 
 [![Artwork of Akiri - Vespera Stella](img/banners/Vespera_Stella.jpg)](https://osu.ppy.sh/beatmapsets/2412328)
 
@@ -195,11 +195,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Vespera |
-| **VFX artist** | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
-| **Musician** | ::{ flag=US }:: [Akiri-](https://osu.ppy.sh/users/19587411) |
-| **Mapper** | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
-| **Illustrator** | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) |
-| **Illustrator** | ::{ flag=CA }:: [Xiaoraini](https://osu.ppy.sh/users/3607337) |
+| **VFX artist** | ::{ flag=CN }:: ::Sakura006::{ user-id=10365024 } |
+| **Musician** | ::{ flag=US }:: ::Akiri-::{ user-id=19587411 } |
+| **Mapper** | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 } |
+| **Illustrator** | ::{ flag=ID }:: ::Dreamxiety::{ user-id=13103233 } |
+| **Illustrator** | ::{ flag=CA }:: ::Xiaoraini::{ user-id=3607337 } |
 
 [![Artwork of ArXe - Locus Amoenus (feat. Megurine Luka)](img/banners/Locus_Amoenus_(feat._Megurine_Luka).jpg)](https://osu.ppy.sh/beatmapsets/2412292)
 
@@ -223,11 +223,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Vocaloid Lovers |
-| **GFX artist / storyboarder / mapper** | ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127) |
-| **Musician / mapper** | ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313) |
-| **Vocaloid tuning / mapper** | ::{ flag=US }:: [Defy](https://osu.ppy.sh/users/15428357) |
-| **Lyricist / mapper** | ::{ flag=KR }:: [Kawashiro](https://osu.ppy.sh/users/1533796) |
-| **Illustrator** | ::{ flag=SG }:: [Type](https://osu.ppy.sh/users/7520534) |
+| **GFX artist / storyboarder / mapper** | ::{ flag=IT }:: ::Kuroise::{ user-id=14547127 } |
+| **Musician / mapper** | ::{ flag=ID }:: ::ArXe::{ user-id=14013313 } |
+| **Vocaloid tuning / mapper** | ::{ flag=US }:: ::Defy::{ user-id=15428357 } |
+| **Lyricist / mapper** | ::{ flag=KR }:: ::Kawashiro::{ user-id=1533796 } |
+| **Illustrator** | ::{ flag=SG }:: ::Type::{ user-id=7520534 } |
 
 [![Artwork of kanase. - Lost Night Meteor](img/banners/Lost_Night_Meteor.jpg)](https://osu.ppy.sh/beatmapsets/2412691)
 
@@ -251,11 +251,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Meteors |
-| **Storyboarder / mapper** | ::{ flag=TW }:: [9ami](https://osu.ppy.sh/users/1499997) |
-| **Musician** | ::{ flag=JP }:: [unikanase](https://osu.ppy.sh/users/32453922) |
-| **Mapper** | ::{ flag=TW }:: [LeeGod](https://osu.ppy.sh/users/15148343) |
-| **Illustrator / mapper** | ::{ flag=HK }:: [Arushii](https://osu.ppy.sh/users/15664628) |
-| **Mapper** | ::{ flag=TW }:: [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) |
+| **Storyboarder / mapper** | ::{ flag=TW }:: ::9ami::{ user-id=1499997 } |
+| **Musician** | ::{ flag=JP }:: ::unikanase::{ user-id=32453922 } |
+| **Mapper** | ::{ flag=TW }:: ::LeeGod::{ user-id=15148343 } |
+| **Illustrator / mapper** | ::{ flag=HK }:: ::Arushii::{ user-id=15664628 } |
+| **Mapper** | ::{ flag=TW }:: ::Matsuyuki Ame::{ user-id=12763959 } |
 
 [![Artwork of nm-y - Datura Sh//va](img/banners/Datura_Shva.jpg)](https://osu.ppy.sh/beatmapsets/2412263)
 
@@ -279,11 +279,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Meguro |
-| **Mapper** | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) |
-| **Mapper** | ::{ flag=EE }:: [iljaaz](https://osu.ppy.sh/users/8501291) |
-| **Musician** | ::{ flag=US }:: [nm-y](https://osu.ppy.sh/users/31725557) |
-| **Storyboarder** | ::{ flag=AU }:: [LowGraphics](https://osu.ppy.sh/users/5383942) |
-| **Illustrator** | ::{ flag=MY }:: [mochasan_](https://osu.ppy.sh/users/23804364) |
+| **Mapper** | ::{ flag=GB }:: ::DeviousPanda::{ user-id=4966334 } |
+| **Mapper** | ::{ flag=EE }:: ::iljaaz::{ user-id=8501291 } |
+| **Musician** | ::{ flag=US }:: ::nm-y::{ user-id=31725557 } |
+| **Storyboarder** | ::{ flag=AU }:: ::LowGraphics::{ user-id=5383942 } |
+| **Illustrator** | ::{ flag=MY }:: ::mochasan\1::{ user-id=23804364 } |
 
 [![Artwork of kanemiko - distance of -RADIAL-](img/banners/distance_of_-RADIAL-.jpg)](https://osu.ppy.sh/beatmapsets/2412247)
 
@@ -307,10 +307,10 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | CN2K |
-| **Mapper / designer** | ::{ flag=CA }:: [Sing](https://osu.ppy.sh/users/3795679) |
-| **Mapper / hitsounder** | ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997) |
-| **Storyboarder** | ::{ flag=US }:: [Storyboarder](https://osu.ppy.sh/users/6124671) |
-| **Illustrator / musician** | ::{ flag=JP }:: [kanemiko](https://osu.ppy.sh/users/37401224) |
+| **Mapper / designer** | ::{ flag=CA }:: ::Sing::{ user-id=3795679 } |
+| **Mapper / hitsounder** | ::{ flag=US }:: ::captin1::{ user-id=689997 } |
+| **Storyboarder** | ::{ flag=US }:: ::Storyboarder::{ user-id=6124671 } |
+| **Illustrator / musician** | ::{ flag=JP }:: ::kanemiko::{ user-id=37401224 } |
 
 [![Artwork of Kry.exe - Rift Walker](img/banners/Rift_Walker.jpg)](https://osu.ppy.sh/beatmapsets/2412244)
 
@@ -334,11 +334,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | AXIOMA |
-| **Project Manager** | ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) |
-| **Musician / hitsounder** | ::{ flag=AR }:: [KryDotExe](https://osu.ppy.sh/users/1229195) |
-| **Designer / storyboarder** | ::{ flag=DZ }:: [VenerableNyanta](https://osu.ppy.sh/users/12243368) |
-| **Illustrator** | ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037) |
-| **Mapper** | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) |
+| **Project Manager** | ::{ flag=US }:: ::BTMC::{ user-id=3171691 } |
+| **Musician / hitsounder** | ::{ flag=AR }:: ::KryDotExe::{ user-id=1229195 } |
+| **Designer / storyboarder** | ::{ flag=DZ }:: ::VenerableNyanta::{ user-id=12243368 } |
+| **Illustrator** | ::{ flag=US }:: ::Spoo::{ user-id=11805037 } |
+| **Mapper** | ::{ flag=CN }:: ::Ryuusei Aika::{ user-id=7777875 } |
 
 [![Artwork of Juwubi - H1GH D!VE](img/banners/H1GH_D!VE.jpg)](https://osu.ppy.sh/beatmapsets/2412255)
 
@@ -362,11 +362,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | fruit salad |
-| **Mapper / hitsounder** | ::{ flag=US }:: [nuclei](https://osu.ppy.sh/users/25134566) |
-| **Mapper** | ::{ flag=BE }:: [R3m](https://osu.ppy.sh/users/6990066) |
-| **Illustrator / mapper** | ::{ flag=AU }:: [-pineapple-](https://osu.ppy.sh/users/11523326) |
-| **Storyboarder / mapper** | ::{ flag=US }:: [binarie](https://osu.ppy.sh/users/15632854) |
-| **Musician** | ::{ flag=PH }:: [JuwubiDTM](https://osu.ppy.sh/users/36335947) |
+| **Mapper / hitsounder** | ::{ flag=US }:: ::nuclei::{ user-id=25134566 } |
+| **Mapper** | ::{ flag=BE }:: ::R3m::{ user-id=6990066 } |
+| **Illustrator / mapper** | ::{ flag=AU }:: ::-pineapple-::{ user-id=11523326 } |
+| **Storyboarder / mapper** | ::{ flag=US }:: ::binarie::{ user-id=15632854 } |
+| **Musician** | ::{ flag=PH }:: ::JuwubiDTM::{ user-id=36335947 } |
 
 [![Artwork of nominomu - against cacophony (feat. Mai)](img/banners/against_cacophony_(feat._Mai).jpg)](https://osu.ppy.sh/beatmapsets/2412236)
 
@@ -390,10 +390,10 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | :owoyay: |
-| **Musician / storyboarder / mapper** | ::{ flag=AU }:: [nominomu](https://osu.ppy.sh/users/30485380) |
-| **Illustrator** | ::{ flag=MY }:: [NyuPenyu](https://osu.ppy.sh/users/12233680) |
-| **Mapper** | ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340) |
-| **Mapper** | ::{ flag=LT }:: [Amefystol](https://osu.ppy.sh/users/26748801) |
+| **Musician / storyboarder / mapper** | ::{ flag=AU }:: ::nominomu::{ user-id=30485380 } |
+| **Illustrator** | ::{ flag=MY }:: ::NyuPenyu::{ user-id=12233680 } |
+| **Mapper** | ::{ flag=GB }:: ::KnightC0re::{ user-id=7894340 } |
+| **Mapper** | ::{ flag=LT }:: ::Amefystol::{ user-id=26748801 } |
 
 [![Artwork of Redside - First Adventure](img/banners/First_Adventure.jpg)](https://osu.ppy.sh/beatmapsets/2412285)
 
@@ -417,11 +417,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Team Red but Blue |
-| **Musician** | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) |
-| **Mapper** | ::{ flag=CA }:: [v0x](https://osu.ppy.sh/users/18128385) |
-| **Mapper** | ::{ flag=CA }:: [Zer0-G](https://osu.ppy.sh/users/12577911) |
-| **Illustrator** | ::{ flag=CA }:: [RedcXca](https://osu.ppy.sh/users/14056601) |
-| **Storyboarder** | ::{ flag=CA }:: [Meow Mix](https://osu.ppy.sh/users/3021634) |
+| **Musician** | ::{ flag=CA }:: ::Redside::{ user-id=16039046 } |
+| **Mapper** | ::{ flag=CA }:: ::v0x::{ user-id=18128385 } |
+| **Mapper** | ::{ flag=CA }:: ::Zer0-G::{ user-id=12577911 } |
+| **Illustrator** | ::{ flag=CA }:: ::RedcXca::{ user-id=14056601 } |
+| **Storyboarder** | ::{ flag=CA }:: ::Meow Mix::{ user-id=3021634 } |
 
 [![Artwork of Xyris - Vitality Charger (feat. Hanakuma Chifuyu)](img/banners/Vitality_Charger_(feat._Hanakuma_Chifuyu).jpg)](https://osu.ppy.sh/beatmapsets/2412277)
 
@@ -445,9 +445,9 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | s-sigma... |
-| **Mapper / storyboarder** | ::{ flag=US }:: [Tycani](https://osu.ppy.sh/users/6693266) |
-| **Musician** | ::{ flag=US }:: [\_Xyris_](https://osu.ppy.sh/users/11246193) |
-| **Illustrator** | ::{ flag=PH }:: [Danimato](https://osu.ppy.sh/users/23541645) |
+| **Mapper / storyboarder** | ::{ flag=US }:: ::Tycani::{ user-id=6693266 } |
+| **Musician** | ::{ flag=US }:: ::\_Xyris\1::{ user-id=11246193 } |
+| **Illustrator** | ::{ flag=PH }:: ::Danimato::{ user-id=23541645 } |
 
 [![Artwork of Fox Rush - Paint The Ocean Blue (feat. Cassylish)](img/banners/Paint_The_Ocean_Blue_(feat._Cassylish).jpg)](https://osu.ppy.sh/beatmapsets/2412259)
 
@@ -471,11 +471,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Gumiho |
-| **Musician** | ::{ flag=IL }:: [AngeI](https://osu.ppy.sh/users/4271860) |
-| **Mapper** | ::{ flag=US }:: [Mejiro McQueen](https://osu.ppy.sh/users/11555612) |
-| **Mapper** | ::{ flag=ID }:: [ceras](https://osu.ppy.sh/users/13356408) |
-| **Illustrator** | ::{ flag=CA }:: [Kylerius](https://osu.ppy.sh/users/10253968) |
-| **Storyboarder / VFX artist** | ::{ flag=CH }:: [Schoki](https://osu.ppy.sh/users/13260523) |
+| **Musician** | ::{ flag=IL }:: ::AngeI::{ user-id=4271860 } |
+| **Mapper** | ::{ flag=US }:: ::Mejiro McQueen::{ user-id=11555612 } |
+| **Mapper** | ::{ flag=ID }:: ::ceras::{ user-id=13356408 } |
+| **Illustrator** | ::{ flag=CA }:: ::Kylerius::{ user-id=10253968 } |
+| **Storyboarder / VFX artist** | ::{ flag=CH }:: ::Schoki::{ user-id=13260523 } |
 
 [![Artwork of MetaHumanBoi - kinetic flux](img/banners/kinetic_flux.jpg)](https://osu.ppy.sh/beatmapsets/2412316)
 
@@ -499,11 +499,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | metamorphosis |
-| **Designer** | ::{ flag=US }:: [Boolmaster Flex](https://osu.ppy.sh/users/5394681) |
-| **Storyboarder** | ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436) |
-| **Musician** | ::{ flag=US }:: [MetaHumanBoi](https://osu.ppy.sh/users/14782369) |
-| **Mapper** | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) |
-| **Mapper** | ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589) |
+| **Designer** | ::{ flag=US }:: ::Boolmaster Flex::{ user-id=5394681 } |
+| **Storyboarder** | ::{ flag=CN }:: ::RiceSS::{ user-id=8271436 } |
+| **Musician** | ::{ flag=US }:: ::MetaHumanBoi::{ user-id=14782369 } |
+| **Mapper** | ::{ flag=CA }:: ::Gordon::{ user-id=7856835 } |
+| **Mapper** | ::{ flag=US }:: ::mintIceCream\1::{ user-id=13221589 } |
 
 [![Artwork of Krimek - Dahlia (feat. eili)](img/banners/Dahlia_(feat._eili).jpg)](https://osu.ppy.sh/beatmapsets/2412294)
 
@@ -527,11 +527,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | we need a poll |
-| **Musician / mapper / hitsounder** | ::{ flag=DE }:: [Krimek](https://osu.ppy.sh/users/2345078) |
-| **Mapper** | ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692) |
-| **Vocalist / VFX artist** | ::{ flag=US }:: [eilivox](https://osu.ppy.sh/users/37455438) |
-| **Illustrator** | ::{ flag=US }:: [CMDR Saturn](https://osu.ppy.sh/users/22001295) |
-| **Designer** | ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966) |
+| **Musician / mapper / hitsounder** | ::{ flag=DE }:: ::Krimek::{ user-id=2345078 } |
+| **Mapper** | ::{ flag=DE }:: ::Pho::{ user-id=3624692 } |
+| **Vocalist / VFX artist** | ::{ flag=US }:: ::eilivox::{ user-id=37455438 } |
+| **Illustrator** | ::{ flag=US }:: ::CMDR Saturn::{ user-id=22001295 } |
+| **Designer** | ::{ flag=MY }:: ::Z419::{ user-id=9912966 } |
 
 [![Artwork of Cityyy - Asphyxia](img/banners/Asphyxia.jpg)](https://osu.ppy.sh/beatmapsets/2412274)
 
@@ -555,11 +555,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Picardia |
-| **Musician** | ::{ flag=US }:: [Cityyy](https://osu.ppy.sh/users/25198721) |
-| **Mapper** | ::{ flag=US }:: [Astronic](https://osu.ppy.sh/users/9320502) |
-| **Mapper** | ::{ flag=US }:: [Firiiu](https://osu.ppy.sh/users/7825971) |
-| **Storyboarder / designer** | ::{ flag=US }:: [Syvatzia](https://osu.ppy.sh/users/19082107) |
-| **Storyboarder** | ::{ flag=DE }:: [aoratos](https://osu.ppy.sh/users/19240320) |
+| **Musician** | ::{ flag=US }:: ::Cityyy::{ user-id=25198721 } |
+| **Mapper** | ::{ flag=US }:: ::Astronic::{ user-id=9320502 } |
+| **Mapper** | ::{ flag=US }:: ::Firiiu::{ user-id=7825971 } |
+| **Storyboarder / designer** | ::{ flag=US }:: ::Syvatzia::{ user-id=19082107 } |
+| **Storyboarder** | ::{ flag=DE }:: ::aoratos::{ user-id=19240320 } |
 
 [![Artwork of Xeven - Become One Again (feat. Hatsune Miku)](img/banners/Become_One_Again_(feat._Hatsune_Miku).jpg)](https://osu.ppy.sh/beatmapsets/2412365)
 
@@ -583,11 +583,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | "we couldn't agree on naming" |
-| **Musician** | ::{ flag=US }:: [sxvnty](https://osu.ppy.sh/users/8111085) |
-| **Mapper / hitsounder** | ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) |
-| **Mapper** | ::{ flag=RU }:: [alvearia](https://osu.ppy.sh/users/6248691) |
-| **Mapper / storyboarder** | ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231) |
-| **VFX artist** | ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) |
+| **Musician** | ::{ flag=US }:: ::sxvnty::{ user-id=8111085 } |
+| **Mapper / hitsounder** | ::{ flag=RU }:: ::Daycore::{ user-id=5596337 } |
+| **Mapper** | ::{ flag=RU }:: ::alvearia::{ user-id=6248691 } |
+| **Mapper / storyboarder** | ::{ flag=UZ }:: ::Shmiklak::{ user-id=5504231 } |
+| **VFX artist** | ::{ flag=SG }:: ::Polytetral::{ user-id=8612061 } |
 
 [![Artwork of furtrash - LONG LIVE THE KING](img/banners/LONG_LIVE_THE_KING.jpg)](https://osu.ppy.sh/beatmapsets/2412245)
 
@@ -611,11 +611,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | church of ppy |
-| **Mapper / hitsounder** | ::{ flag=CL }:: [Evil-](https://osu.ppy.sh/users/10234313) |
-| **Storyboarder** | ::{ flag=DE }:: [minisbett](https://osu.ppy.sh/users/13431764) |
-| **Mapper / storyboarder** | ::{ flag=DE }:: [Omekyu](https://osu.ppy.sh/users/14348073) |
-| **Mapper** | ::{ flag=AR }:: [-Links](https://osu.ppy.sh/users/10804237) |
-| **Musician / illustrator / hitsounder** | ::{ flag=FI }:: [Nihkee](https://osu.ppy.sh/users/14244740) |
+| **Mapper / hitsounder** | ::{ flag=CL }:: ::Evil-::{ user-id=10234313 } |
+| **Storyboarder** | ::{ flag=DE }:: ::minisbett::{ user-id=13431764 } |
+| **Mapper / storyboarder** | ::{ flag=DE }:: ::Omekyu::{ user-id=14348073 } |
+| **Mapper** | ::{ flag=AR }:: ::-Links::{ user-id=10804237 } |
+| **Musician / illustrator / hitsounder** | ::{ flag=FI }:: ::Nihkee::{ user-id=14244740 } |
 
 [![Artwork of WangleLine - Super Kitten Travel Hex](img/banners/Super_Kitten_Travel_Hex.jpg)](https://osu.ppy.sh/beatmapsets/2412252)
 
@@ -639,11 +639,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Fetchquest |
-| **VFX artist / mapper** | ::{ flag=US }:: [Utiba](https://osu.ppy.sh/users/11354436) |
-| **Musician** | ::{ flag=DE }:: [WangleLine](https://osu.ppy.sh/users/7994819) |
-| **Storyboarder / mapper** | ::{ flag=AU }:: [Coppertine](https://osu.ppy.sh/users/7279762) |
-| **Illustrator** | ::{ flag=SI }:: [- Arisu -](https://osu.ppy.sh/users/33795284) |
-| **Mapper** | ::{ flag=US }:: [chidodou](https://osu.ppy.sh/users/13868581) |
+| **VFX artist / mapper** | ::{ flag=US }:: ::Utiba::{ user-id=11354436 } |
+| **Musician** | ::{ flag=DE }:: ::WangleLine::{ user-id=7994819 } |
+| **Storyboarder / mapper** | ::{ flag=AU }:: ::Coppertine::{ user-id=7279762 } |
+| **Illustrator** | ::{ flag=SI }:: ::- Arisu -::{ user-id=33795284 } |
+| **Mapper** | ::{ flag=US }:: ::chidodou::{ user-id=13868581 } |
 
 [![Artwork of Darkney - Prism Fall](img/banners/Prism_Fall.jpg)](https://osu.ppy.sh/beatmapsets/2412267)
 
@@ -667,10 +667,10 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Miku Fan Club |
-| **Musician / designer** | ::{ flag=DE }:: [Darkney](https://osu.ppy.sh/users/14700596) |
-| **Storyboarder** | ::{ flag=ID }:: [Kafaka](https://osu.ppy.sh/users/9148291) |
-| **Mapper** | ::{ flag=AU }:: [bobbybaseball06](https://osu.ppy.sh/users/4967662) |
-| **Mapper** | ::{ flag=AU }:: [awawa](https://osu.ppy.sh/users/4166621) |
+| **Musician / designer** | ::{ flag=DE }:: ::Darkney::{ user-id=14700596 } |
+| **Storyboarder** | ::{ flag=ID }:: ::Kafaka::{ user-id=9148291 } |
+| **Mapper** | ::{ flag=AU }:: ::bobbybaseball06::{ user-id=4967662 } |
+| **Mapper** | ::{ flag=AU }:: ::awawa::{ user-id=4166621 } |
 
 [![Artwork of Star* aka liaoxingyao - Inochi](img/banners/Inochi.jpg)](https://osu.ppy.sh/beatmapsets/2412248)
 
@@ -694,11 +694,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Crychic ghost |
-| **Mapper** | ::{ flag=CN }:: [Karen](https://osu.ppy.sh/users/3143784) |
-| **Musician** | ::{ flag=CN }:: [liaoxingyao](https://osu.ppy.sh/users/3620963) |
-| **Designer** | ::{ flag=CN }:: [Sonwpalace](https://osu.ppy.sh/users/37871521) |
-| **Mapper** | ::{ flag=HK }:: [Skystar](https://osu.ppy.sh/users/873961) |
-| **Mapper** | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) |
+| **Mapper** | ::{ flag=CN }:: ::Karen::{ user-id=3143784 } |
+| **Musician** | ::{ flag=CN }:: ::liaoxingyao::{ user-id=3620963 } |
+| **Designer** | ::{ flag=CN }:: ::Sonwpalace::{ user-id=37871521 } |
+| **Mapper** | ::{ flag=HK }:: ::Skystar::{ user-id=873961 } |
+| **Mapper** | ::{ flag=CN }:: ::Garden::{ user-id=2849992 } |
 
 [![Artwork of aidolon - Replay](img/banners/Replay.jpg)](https://osu.ppy.sh/beatmapsets/2412321)
 
@@ -722,10 +722,10 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Team Divergence |
-| **Mapper / storyboarder** | ::{ flag=TH }:: [PukPow](https://osu.ppy.sh/users/16407679) |
-| **Musician / VFX artist** | ::{ flag=US }:: [aidolon](https://osu.ppy.sh/users/17174676) |
-| **Illustrator** | ::{ flag=TH }:: [SuperGreentea](https://osu.ppy.sh/users/16416058) |
-| **Mapper / hitsounder** | ::{ flag=TR }:: [Kanui](https://osu.ppy.sh/users/14940019) |
+| **Mapper / storyboarder** | ::{ flag=TH }:: ::PukPow::{ user-id=16407679 } |
+| **Musician / VFX artist** | ::{ flag=US }:: ::aidolon::{ user-id=17174676 } |
+| **Illustrator** | ::{ flag=TH }:: ::SuperGreentea::{ user-id=16416058 } |
+| **Mapper / hitsounder** | ::{ flag=TR }:: ::Kanui::{ user-id=14940019 } |
 
 [![Artwork of Viatores Nebulae feat. Megurine Luka - Heart of Epitaph](img/banners/Heart_of_Epitaph.jpg)](https://osu.ppy.sh/beatmapsets/2412283)
 
@@ -749,11 +749,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Taiko World Cup |
-| **Mapper** | ::{ flag=KZ }:: [-Hitomi](https://osu.ppy.sh/users/15583987) |
-| **Musician** | ::{ flag=TH }:: [ptar124](https://osu.ppy.sh/users/4325444) |
-| **Musician** | ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) |
-| **Mapper** | ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316) |
-| **VFX artist** | ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991) |
+| **Mapper** | ::{ flag=KZ }:: ::-Hitomi::{ user-id=15583987 } |
+| **Musician** | ::{ flag=TH }:: ::ptar124::{ user-id=4325444 } |
+| **Musician** | ::{ flag=SG }:: ::Raveille::{ user-id=1388767 } |
+| **Mapper** | ::{ flag=GB }:: ::Shii::{ user-id=9186316 } |
+| **VFX artist** | ::{ flag=SG }:: ::TheFunk::{ user-id=13981991 } |
 
 [![Artwork of trung-nova - Starry Comet](img/banners/Starry_Comet.jpg)](https://osu.ppy.sh/beatmapsets/2412271)
 
@@ -777,11 +777,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | osu2vn |
-| **Mapper** | ::{ flag=VN }:: [Ducky-](https://osu.ppy.sh/users/9351565) |
-| **Musician / VFX artist** | ::{ flag=VN }:: [TrungSabito0159](https://osu.ppy.sh/users/14927934) |
-| **Mapper** | ::{ flag=VN }:: [-Eresh](https://osu.ppy.sh/users/7605060) |
-| **Mapper** | ::{ flag=VN }:: [sanzu](https://osu.ppy.sh/users/8919422) |
-| **Storyboarder** | ::{ flag=VN }:: [Ningguang](https://osu.ppy.sh/users/8500334) |
+| **Mapper** | ::{ flag=VN }:: ::Ducky-::{ user-id=9351565 } |
+| **Musician / VFX artist** | ::{ flag=VN }:: ::TrungSabito0159::{ user-id=14927934 } |
+| **Mapper** | ::{ flag=VN }:: ::-Eresh::{ user-id=7605060 } |
+| **Mapper** | ::{ flag=VN }:: ::sanzu::{ user-id=8919422 } |
+| **Storyboarder** | ::{ flag=VN }:: ::Ningguang::{ user-id=8500334 } |
 
 [![Artwork of RRolanDD - Almom](img/banners/Almom.jpg)](https://osu.ppy.sh/beatmapsets/2412270)
 
@@ -805,10 +805,10 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Ocskai |
-| **Musician / mapper** | ::{ flag=HU }:: [RRolanDD](https://osu.ppy.sh/users/12291981) |
-| **Mapper / hitsounder** | ::{ flag=HU }:: [Magor](https://osu.ppy.sh/users/13214099) |
-| **Storyboarder / illustrator / mapper** | ::{ flag=HU }:: [HyBer](https://osu.ppy.sh/users/15025665) |
-| **Mapper** | ::{ flag=HU }:: [Nyartin](https://osu.ppy.sh/users/3436625) |
+| **Musician / mapper** | ::{ flag=HU }:: ::RRolanDD::{ user-id=12291981 } |
+| **Mapper / hitsounder** | ::{ flag=HU }:: ::Magor::{ user-id=13214099 } |
+| **Storyboarder / illustrator / mapper** | ::{ flag=HU }:: ::HyBer::{ user-id=15025665 } |
+| **Mapper** | ::{ flag=HU }:: ::Nyartin::{ user-id=3436625 } |
 
 [![Artwork of Riprider - ENC0DED : ENTR0PY](img/banners/ENC0DED__ENTR0PY.jpg)](https://osu.ppy.sh/beatmapsets/2412246)
 
@@ -832,11 +832,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Augment:Nova |
-| **Musician** | ::{ flag=US }:: [Riprider500](https://osu.ppy.sh/users/33269592) |
-| **Mapper** | ::{ flag=CA }:: [honne](https://osu.ppy.sh/users/3988240) |
-| **Mapper** | ::{ flag=PL }:: [Tenexxt](https://osu.ppy.sh/users/34064854) |
-| **Mapper** | ::{ flag=AU }:: [Kyairie](https://osu.ppy.sh/users/10910405) |
-| **VFX artist / storyboarder / illustrator** | ::{ flag=AE }:: [X-ill](https://osu.ppy.sh/users/21771922) |
+| **Musician** | ::{ flag=US }:: ::Riprider500::{ user-id=33269592 } |
+| **Mapper** | ::{ flag=CA }:: ::honne::{ user-id=3988240 } |
+| **Mapper** | ::{ flag=PL }:: ::Tenexxt::{ user-id=34064854 } |
+| **Mapper** | ::{ flag=AU }:: ::Kyairie::{ user-id=10910405 } |
+| **VFX artist / storyboarder / illustrator** | ::{ flag=AE }:: ::X-ill::{ user-id=21771922 } |
 
 [![Artwork of Chamiracqua - The Epiphany (feat. smoothycloud)](img/banners/The_Epiphany_(feat._smoothycloud).jpg)](https://osu.ppy.sh/beatmapsets/2412261)
 
@@ -860,11 +860,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Lazy Seals |
-| **Illustrator / storyboarder** | ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849) |
-| **Musician** | ::{ flag=RU }:: [Vivaru](https://osu.ppy.sh/users/12777806) |
-| **Musician** | ::{ flag=RU }:: [SmoothyCloud](https://osu.ppy.sh/users/15831826) |
-| **Mapper** | ::{ flag=RU }:: [Rootynator](https://osu.ppy.sh/users/9824686) |
-| **Mapper** | ::{ flag=RU }:: [nine19](https://osu.ppy.sh/users/8874115) |
+| **Illustrator / storyboarder** | ::{ flag=RU }:: ::LeeNarie::{ user-id=2667849 } |
+| **Musician** | ::{ flag=RU }:: ::Vivaru::{ user-id=12777806 } |
+| **Musician** | ::{ flag=RU }:: ::SmoothyCloud::{ user-id=15831826 } |
+| **Mapper** | ::{ flag=RU }:: ::Rootynator::{ user-id=9824686 } |
+| **Mapper** | ::{ flag=RU }:: ::nine19::{ user-id=8874115 } |
 
 [![Artwork of rikvinyas - Ryuu no Majo](img/banners/Ryuu_no_Majo.jpg)](https://osu.ppy.sh/beatmapsets/2412231)
 
@@ -888,7 +888,7 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | 1head |
-| **Musician / mapper / designer** | ::{ flag=PL }:: [Rolniczy](https://osu.ppy.sh/users/8331132) |
+| **Musician / mapper / designer** | ::{ flag=PL }:: ::Rolniczy::{ user-id=8331132 } |
 
 [![Artwork of Aphel - Pondering Magic](img/banners/Pondering_Magic.jpg)](https://osu.ppy.sh/beatmapsets/2412293)
 
@@ -912,10 +912,10 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | we do well with deadlines |
-| **Mapper** | ::{ flag=AU }:: [chlortal](https://osu.ppy.sh/users/30827435) |
-| **Mapper** | ::{ flag=GB }:: [Melons](https://osu.ppy.sh/users/12049607) |
-| **Musician** | ::{ flag=EC }:: [Aphel](https://osu.ppy.sh/users/37650616) |
-| **Illustrator** | ::{ flag=BR }:: [kyermaniac](https://osu.ppy.sh/users/32859564) |
+| **Mapper** | ::{ flag=AU }:: ::chlortal::{ user-id=30827435 } |
+| **Mapper** | ::{ flag=GB }:: ::Melons::{ user-id=12049607 } |
+| **Musician** | ::{ flag=EC }:: ::Aphel::{ user-id=37650616 } |
+| **Illustrator** | ::{ flag=BR }:: ::kyermaniac::{ user-id=32859564 } |
 
 [![Artwork of agu - unbound](img/banners/unbound.jpg)](https://osu.ppy.sh/beatmapsets/2412346)
 
@@ -939,10 +939,10 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | hdm enjoyers |
-| **Musician** | ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122) |
-| **VFX artist** | ::{ flag=NZ }:: [krabtown](https://osu.ppy.sh/users/3388033) |
-| **Mapper** | ::{ flag=FI }:: [bob](https://osu.ppy.sh/users/5346261) |
-| **Mapper** | ::{ flag=BR }:: [vetoed](https://osu.ppy.sh/users/10909373) |
+| **Musician** | ::{ flag=NO }:: ::roufou::{ user-id=1109122 } |
+| **VFX artist** | ::{ flag=NZ }:: ::krabtown::{ user-id=3388033 } |
+| **Mapper** | ::{ flag=FI }:: ::bob::{ user-id=5346261 } |
+| **Mapper** | ::{ flag=BR }:: ::vetoed::{ user-id=10909373 } |
 
 [![Artwork of Ttmouse - NatsuUtsu feat. Kasane Teto](img/banners/NatsuUtsu_feat._Kasane_Teto.jpg)](https://osu.ppy.sh/beatmapsets/2412239)
 
@@ -966,11 +966,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | aniteam |
-| **Musician / mapper / VFX artist** | ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509) |
-| **Mapper** | ::{ flag=CN }:: [Asaba Harumasa](https://osu.ppy.sh/users/8984146) |
-| **Illustrator / mapper** | ::{ flag=CN }:: [Yorita Yoshino](https://osu.ppy.sh/users/4279523) |
-| **Mapper** | ::{ flag=NZ }:: [nika mika](https://osu.ppy.sh/users/3878832) |
-| **Mapper** | ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) |
+| **Musician / mapper / VFX artist** | ::{ flag=CN }:: ::TtmnZk::{ user-id=2495509 } |
+| **Mapper** | ::{ flag=CN }:: ::Asaba Harumasa::{ user-id=8984146 } |
+| **Illustrator / mapper** | ::{ flag=CN }:: ::Yorita Yoshino::{ user-id=4279523 } |
+| **Mapper** | ::{ flag=NZ }:: ::nika mika::{ user-id=3878832 } |
+| **Mapper** | ::{ flag=CN }:: ::yf\1bmp::{ user-id=1243669 } |
 
 [![Artwork of Attoclef ft. ∅ - EynohR](img/banners/EynohR.jpg)](https://osu.ppy.sh/beatmapsets/2412250)
 
@@ -994,11 +994,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Demiurge Zero |
-| **Musician** | ::{ flag=US }:: [Attoclef](https://osu.ppy.sh/users/30958520) |
-| **Mapper** | ::{ flag=CL }:: [KChronoZ](https://osu.ppy.sh/users/7918770) |
-| **Mapper** | ::{ flag=MY }:: [ItsCactus](https://osu.ppy.sh/users/15553329) |
-| **Mapper** | ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490) |
-| **Illustrator** | ::{ flag=CO }:: [mayonesachan](https://osu.ppy.sh/users/34808672) |
+| **Musician** | ::{ flag=US }:: ::Attoclef::{ user-id=30958520 } |
+| **Mapper** | ::{ flag=CL }:: ::KChronoZ::{ user-id=7918770 } |
+| **Mapper** | ::{ flag=MY }:: ::ItsCactus::{ user-id=15553329 } |
+| **Mapper** | ::{ flag=MY }:: ::Agagak::{ user-id=3645490 } |
+| **Illustrator** | ::{ flag=CO }:: ::mayonesachan::{ user-id=34808672 } |
 
 [![Artwork of sugosugiii - Maelstrom](img/banners/Maelstrom.jpg)](https://osu.ppy.sh/beatmapsets/2412254)
 
@@ -1022,11 +1022,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Drumstep4 - LYRICS! |
-| **Mapper / hitsounder** | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) |
-| **Mapper** | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) |
-| **Mapper** | ::{ flag=IT }:: [Nemis](https://osu.ppy.sh/users/1635091) |
-| **Mapper** | ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929) |
-| **Musician / illustrator** | ::{ flag=SG }:: [sugosugiii](https://osu.ppy.sh/users/15118952) |
+| **Mapper / hitsounder** | ::{ flag=NL }:: ::nik::{ user-id=10077264 } |
+| **Mapper** | ::{ flag=IT }:: ::-kevincela-::{ user-id=266596 } |
+| **Mapper** | ::{ flag=IT }:: ::Nemis::{ user-id=1635091 } |
+| **Mapper** | ::{ flag=US }:: ::Wispy::{ user-id=11106929 } |
+| **Musician / illustrator** | ::{ flag=SG }:: ::sugosugiii::{ user-id=15118952 } |
 
 [![Artwork of Artackni - Brainfryer](img/banners/Brainfryer.jpg)](https://osu.ppy.sh/beatmapsets/2412287)
 
@@ -1050,10 +1050,10 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Team RGB |
-| **Mapper** | ::{ flag=DE }:: [Amon-](https://osu.ppy.sh/users/18161041) |
-| **Hitsounder** | ::{ flag=DE }:: [fujinn](https://osu.ppy.sh/users/11221442) |
-| **Illustrator** | ::{ flag=PH }:: [Hoetoplay](https://osu.ppy.sh/users/22439032) |
-| **Musician** | ::{ flag=RU }:: [Artackni](https://osu.ppy.sh/users/24948698) |
+| **Mapper** | ::{ flag=DE }:: ::Amon-::{ user-id=18161041 } |
+| **Hitsounder** | ::{ flag=DE }:: ::fujinn::{ user-id=11221442 } |
+| **Illustrator** | ::{ flag=PH }:: ::Hoetoplay::{ user-id=22439032 } |
+| **Musician** | ::{ flag=RU }:: ::Artackni::{ user-id=24948698 } |
 
 [![Artwork of Tufani - Along the Cycle](img/banners/Along_the_Cycle.jpg)](https://osu.ppy.sh/beatmapsets/2412269)
 
@@ -1077,10 +1077,10 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | moonleaf++++ EXTEND |
-| **Mapper** | ::{ flag=US }:: [bakery](https://osu.ppy.sh/users/9665030) |
-| **Mapper** | ::{ flag=DE }:: [Kojio](https://osu.ppy.sh/users/2054596) |
-| **Musician** | ::{ flag=US }:: [Tufani](https://osu.ppy.sh/users/15505067) |
-| **Illustrator** | ::{ flag=US }:: [sardines](https://osu.ppy.sh/users/16247587) |
+| **Mapper** | ::{ flag=US }:: ::bakery::{ user-id=9665030 } |
+| **Mapper** | ::{ flag=DE }:: ::Kojio::{ user-id=2054596 } |
+| **Musician** | ::{ flag=US }:: ::Tufani::{ user-id=15505067 } |
+| **Illustrator** | ::{ flag=US }:: ::sardines::{ user-id=16247587 } |
 
 [![Artwork of Tsukishiro feat. Inti - Neon Rebellion](img/banners/Neon_Rebellion.jpg)](https://osu.ppy.sh/beatmapsets/2412288)
 
@@ -1104,11 +1104,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | The Abyss |
-| **Mapper** | ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) |
-| **Musician** | ::{ flag=GR }:: [KakashiSensei_](https://osu.ppy.sh/users/18254930) |
-| **Musician / mapper** | ::{ flag=US }:: [intiaz](https://osu.ppy.sh/users/6223841) |
-| **Mapper** | ::{ flag=CL }:: [Hazu-](https://osu.ppy.sh/users/4668230) |
-| **Illustrator / storyboarder** | ::{ flag=CL }:: [Cosmolade](https://osu.ppy.sh/users/2172778) |
+| **Mapper** | ::{ flag=CL }:: ::Cris-::{ user-id=6175280 } |
+| **Musician** | ::{ flag=GR }:: ::KakashiSensei\1::{ user-id=18254930 } |
+| **Musician / mapper** | ::{ flag=US }:: ::intiaz::{ user-id=6223841 } |
+| **Mapper** | ::{ flag=CL }:: ::Hazu-::{ user-id=4668230 } |
+| **Illustrator / storyboarder** | ::{ flag=CL }:: ::Cosmolade::{ user-id=2172778 } |
 
 [![Artwork of eluixx - untitled_1](img/banners/untitled_1.jpg)](https://osu.ppy.sh/beatmapsets/2412290)
 
@@ -1132,11 +1132,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | The Microwaves |
-| **Mapper / hitsounder** | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |
-| **Storyboarder** | ::{ flag=CA }:: [Enkrypton](https://osu.ppy.sh/users/5178122) |
-| **Mapper** | ::{ flag=ES }:: [CebollaVladimir](https://osu.ppy.sh/users/15308238) |
-| **Musician** | ::{ flag=US }:: [Chromapoly](https://osu.ppy.sh/users/37406471) |
-| **Illustrator** | ::{ flag=US }:: [Eririker](https://osu.ppy.sh/users/37541567) |
+| **Mapper / hitsounder** | ::{ flag=CA }:: ::Sparhten::{ user-id=7601720 } |
+| **Storyboarder** | ::{ flag=CA }:: ::Enkrypton::{ user-id=5178122 } |
+| **Mapper** | ::{ flag=ES }:: ::CebollaVladimir::{ user-id=15308238 } |
+| **Musician** | ::{ flag=US }:: ::Chromapoly::{ user-id=37406471 } |
+| **Illustrator** | ::{ flag=US }:: ::Eririker::{ user-id=37541567 } |
 
 [![Artwork of Evangelion_guy - it doesn't feel like home to me](img/banners/it_doesn't_feel_like_home_to_me.jpg)](https://osu.ppy.sh/beatmapsets/2412237)
 
@@ -1160,7 +1160,7 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Angevin Eulogy |
-| **Musician / mapper / designer** | ::{ flag=CH }:: [Evangelion_MAN](https://osu.ppy.sh/users/16818096) |
+| **Musician / mapper / designer** | ::{ flag=CH }:: ::Evangelion\1MAN::{ user-id=16818096 } |
 
 [![Artwork of Maemi no Yume - Free Your Heart](img/banners/Free_Your_Heart.jpg)](https://osu.ppy.sh/beatmapsets/2412235)
 
@@ -1184,11 +1184,11 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | 5pc chicken mcnuggets |
-| **Mapper** | ::{ flag=PH }:: [Onegai](https://osu.ppy.sh/users/11849100) |
-| **Mapper** | ::{ flag=PH }:: [LeCandy](https://osu.ppy.sh/users/6626249) |
-| **Hitsounder** | ::{ flag=PH }:: [iFinixe](https://osu.ppy.sh/users/10501608) |
-| **Vocalist / illustrator** | ::{ flag=PH }:: [peko_](https://osu.ppy.sh/users/18268524) |
-| **Musician** | ::{ flag=BR }:: [Maemi no Yume](https://osu.ppy.sh/users/4377273) |
+| **Mapper** | ::{ flag=PH }:: ::Onegai::{ user-id=11849100 } |
+| **Mapper** | ::{ flag=PH }:: ::LeCandy::{ user-id=6626249 } |
+| **Hitsounder** | ::{ flag=PH }:: ::iFinixe::{ user-id=10501608 } |
+| **Vocalist / illustrator** | ::{ flag=PH }:: ::peko\1::{ user-id=18268524 } |
+| **Musician** | ::{ flag=BR }:: ::Maemi no Yume::{ user-id=4377273 } |
 
 [![Artwork of airlemoneX - Be with you](img/banners/Be_with_you.jpg)](https://osu.ppy.sh/beatmapsets/2412323)
 
@@ -1212,10 +1212,10 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Limerence |
-| **Mapper** | ::{ flag=DE }:: [Lulu-](https://osu.ppy.sh/users/4201715) |
-| **Mapper** | ::{ flag=TH }:: [Typ4](https://osu.ppy.sh/users/6902361) |
-| **Storyboarder** | ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051) |
-| **Musician** | ::{ flag=JP }:: [motidora](https://osu.ppy.sh/users/38102083) |
+| **Mapper** | ::{ flag=DE }:: ::Lulu-::{ user-id=4201715 } |
+| **Mapper** | ::{ flag=TH }:: ::Typ4::{ user-id=6902361 } |
+| **Storyboarder** | ::{ flag=MY }:: ::R3aCt10n::{ user-id=17020051 } |
+| **Musician** | ::{ flag=JP }:: ::motidora::{ user-id=38102083 } |
 
 [![Artwork of ZxKirara feat. Shian - Shiny Day Roam](img/banners/Shiny_Day_Roam.jpg)](https://osu.ppy.sh/beatmapsets/2412281)
 
@@ -1239,7 +1239,7 @@ This contest has come to an end and resulted in the following podium:
 |  |  |
 | :-- | :-- |
 | **Team name** | Shiny morning |
-| **Musician / mapper / illustrator** | ::{ flag=CN }:: [ZxKirara](https://osu.ppy.sh/users/8442415) |
+| **Musician / mapper / illustrator** | ::{ flag=CN }:: ::ZxKirara::{ user-id=8442415 } |
 
 ### Graphics category results
 

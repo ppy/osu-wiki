@@ -341,7 +341,7 @@ Tag `[lucky]` działał podobnie do przycisku „Szczęśliwy traf” w Google, 
 
 ## Ciekawostki
 
-- Ten artykuł wiki został zaadaptowany z wątku na forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) autorstwa [Stefana](https://osu.ppy.sh/users/626907).
+- Ten artykuł wiki został zaadaptowany z wątku na forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) autorstwa ::Stefana::{ user-id=626907 }.
 - Kiedyś istniał błąd, który pozwalał użytkownikom pisać „przezroczystym” tekstem poprzez wpisanie „transparent” w [tagu koloru](#kolor).
   - Obecnie, tekst powróci do domyślnego koloru (białego).
 - Zanim dodano tag `imagemap`, użytkownicy tworzyli klikalne grafiki, łącząc tagi `url` i `img`. Ponieważ jeden obraz mógł mieć tylko jeden link, większe grafiki cięto na kawałki i układano je obok siebie poziomo.

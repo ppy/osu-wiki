@@ -41,7 +41,7 @@ Los cambios en cualquier parte de los criterios de clasificación se proponen a 
 1. **Crea una propuesta en el [foro Ranking Criteria](https://osu.ppy.sh/community/forums/87).** Intenta ser lo más detallado posible al explicar tu idea y el impacto del cambio.
 2. **Llega a un consenso.** Si crees que estás en ese punto, ponte en contacto con un miembro del [NAT](/wiki/People/Nomination_Assessment_Team) para ver si tu propuesta puede implementarse. Hasta cierto punto, el NAT puede actuar como árbitro en casos contenciosos, pero es probable que las propuestas que no cuenten con un consenso general no se aprueben.
 3. **Crea una solicitud de cambios en el repositorio de la osu! wiki en GitHub.** Por lo general, esto lo hace un miembro del NAT que participa en la finalización de la discusión.
-4. **Espera la aprobación de [peppy](https://osu.ppy.sh/users/2).**
+4. **Espera la aprobación de ::peppy::{ user-id=2 }.**
 
 Los cambios que no alteren el significado o la intención de los criterios de clasificación, como las mejoras ortográficas, gramaticales o de organización, pueden no necesitar una propuesta en el foro. Sin embargo, es recomendable que consultes con los miembros más experimentados de la comunidad si los cambios son útiles y bienvenidos.
 

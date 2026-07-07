@@ -9,7 +9,7 @@ tags:
 
 ![OMMT 3 logo](img/logo.jpg)
 
-The **osu!mania Malaysia Tournament 3** (***OMMT 3***) was a Malaysian double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147) and ::{ flag=MY }:: [Gumi Fumo](https://osu.ppy.sh/users/1626983). It was the third instalment of the osu!mania Malaysia Tournament.
+The **osu!mania Malaysia Tournament 3** (***OMMT 3***) was a Malaysian double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=MY }:: ::ERA Leon::{ user-id=13382147 } and ::{ flag=MY }:: ::Gumi Fumo::{ user-id=1626983 }. It was the third instalment of the osu!mania Malaysia Tournament.
 
 ## Tournament schedule
 
@@ -42,17 +42,17 @@ The osu!mania Malaysia Tournament 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=MY }:: [Gumi Fumo](https://osu.ppy.sh/users/1626983) |
-| Mappool selector | ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=RU }:: [Lerck](https://osu.ppy.sh/users/10450696), ::{ flag=TH }:: [MIkuaimbot](https://osu.ppy.sh/users/17699745), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622) |
-| Mapper | ::{ flag=MY }:: [Critical\_Star](https://osu.ppy.sh/users/3793196), ::{ flag=PH }:: [doctormango](https://osu.ppy.sh/users/13370527), ::{ flag=PH }:: [ERA Hatsuki](https://osu.ppy.sh/users/11306351), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=PH }:: [notapplicable](https://osu.ppy.sh/users/7170536), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=US }:: [NovaSagittarii](https://osu.ppy.sh/users/11664177), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=MY }:: [\_Kobii](https://osu.ppy.sh/users/6209713) |
-| Mappool playtester | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=MY }:: [Auxesiaa](https://osu.ppy.sh/users/16417718), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666), ::{ flag=SE }:: [NeonDrakon](https://osu.ppy.sh/users/6315000), ::{ flag=ID }:: [Oofyxl](https://osu.ppy.sh/users/20599160), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898) |
-| Referee | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=MY }:: [Auxesiaa](https://osu.ppy.sh/users/16417718), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=MY }:: [EliraPendora](https://osu.ppy.sh/users/11288235), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=MY }:: [Onlinee](https://osu.ppy.sh/users/13630137), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089) |
-| Streamer | ::{ flag=MY }:: [Evirir](https://osu.ppy.sh/users/8126553), ::{ flag=NZ }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=MY }:: [Kzon](https://osu.ppy.sh/users/2007579), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Commentator | ::{ flag=MY }:: [Auxesiaa](https://osu.ppy.sh/users/16417718), ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=MY }:: [IvanOfficial](https://osu.ppy.sh/users/12818249), ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=MY }:: [Unicow](https://osu.ppy.sh/users/9444174) |
-| Designer | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
-| Statistician | ::{ flag=NL }:: [2fast](https://osu.ppy.sh/users/5183940), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089) |
-| Composer | ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) |
-| Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organiser | ::{ flag=MY }:: ::ERA Leon::{ user-id=13382147 }, ::{ flag=MY }:: ::Gumi Fumo::{ user-id=1626983 } |
+| Mappool selector | ::{ flag=MY }:: ::ERA Leon::{ user-id=13382147 }, ::{ flag=RU }:: ::Lerck::{ user-id=10450696 }, ::{ flag=TH }:: ::MIkuaimbot::{ user-id=17699745 }, ::{ flag=TH }:: ::MyZterioN-::{ user-id=8521723 }, ::{ flag=US }:: ::SunApple::{ user-id=11817622 } |
+| Mapper | ::{ flag=MY }:: ::Critical\_Star::{ user-id=3793196 }, ::{ flag=PH }:: ::doctormango::{ user-id=13370527 }, ::{ flag=PH }:: ::ERA Hatsuki::{ user-id=11306351 }, ::{ flag=ID }:: ::FelixSpade::{ user-id=2651304 }, ::{ flag=TH }:: ::HowToPlayLN::{ user-id=10879600 }, ::{ flag=PH }:: ::notapplicable::{ user-id=7170536 }, ::{ flag=TH }:: ::MyZterioN-::{ user-id=8521723 }, ::{ flag=US }:: ::NovaSagittarii::{ user-id=11664177 }, ::{ flag=SG }:: ::TheFunk::{ user-id=13981991 }, ::{ flag=ID }:: ::\[Crz\]Crysarlene::{ user-id=5492871 }, ::{ flag=MY }:: ::\_Kobii::{ user-id=6209713 } |
+| Mappool playtester | ::{ flag=ID }:: ::-Yubi-::{ user-id=17851478 }, ::{ flag=MY }:: ::Auxesiaa::{ user-id=16417718 }, ::{ flag=BR }:: ::LeMarcinho::{ user-id=13347579 }, ::{ flag=MY }:: ::Minisora::{ user-id=9627666 }, ::{ flag=SE }:: ::NeonDrakon::{ user-id=6315000 }, ::{ flag=ID }:: ::Oofyxl::{ user-id=20599160 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user-id=11517895 }, ::{ flag=MY }:: ::\[MY\]Sol::{ user-id=12054898 } |
+| Referee | ::{ flag=ID }:: ::-Yubi-::{ user-id=17851478 }, ::{ flag=US }:: ::akace100::{ user-id=9308128 }, ::{ flag=MY }:: ::Auxesiaa::{ user-id=16417718 }, ::{ flag=PE }:: ::ERA Xuste::{ user-id=17989444 }, ::{ flag=MY }:: ::EliraPendora::{ user-id=11288235 }, ::{ flag=NZ }:: ::Hand Sanitiser::{ user-id=5091293 }, ::{ flag=MY }:: ::Onlinee::{ user-id=13630137 }, ::{ flag=VN }:: ::rock-on::{ user-id=9676089 } |
+| Streamer | ::{ flag=MY }:: ::Evirir::{ user-id=8126553 }, ::{ flag=NZ }:: ::Hand Sanitiser::{ user-id=5091293 }, ::{ flag=MY }:: ::Kzon::{ user-id=2007579 }, ::{ flag=VN }:: ::rock-on::{ user-id=9676089 }, ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 } |
+| Commentator | ::{ flag=MY }:: ::Auxesiaa::{ user-id=16417718 }, ::{ flag=MY }:: ::Axorite::{ user-id=9124278 }, ::{ flag=MY }:: ::ERA Leon::{ user-id=13382147 }, ::{ flag=MY }:: ::IvanOfficial::{ user-id=12818249 }, ::{ flag=MY }:: ::Kibitz::{ user-id=7418493 }, ::{ flag=AU }:: ::PotassiumF::{ user-id=4247722 }, ::{ flag=MY }:: ::Racers03::{ user-id=11621976 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user-id=11517895 }, ::{ flag=MY }:: ::Unicow::{ user-id=9444174 } |
+| Designer | ::{ flag=MY }:: ::Iyouka::{ user-id=7138499 }, ::{ flag=SG }:: ::Polytetral::{ user-id=8612061 }, ::{ flag=SG }:: ::TheFunk::{ user-id=13981991 }, ::{ flag=PH }:: ::yukina meng::{ user-id=9919550 } |
+| Statistician | ::{ flag=NL }:: ::2fast::{ user-id=5183940 }, ::{ flag=VN }:: ::rock-on::{ user-id=9676089 } |
+| Composer | ::{ flag=TH }:: ::HowToPlayLN::{ user-id=10879600 }, ::{ flag=SG }:: ::Raveille::{ user-id=1388767 } |
+| Wiki writer | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Links
 
@@ -66,38 +66,38 @@ The osu!mania Malaysia Tournament 3 was run by various community members.
 
 | Rank | Player |
 | --: | :-- |
-| #27 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
-| #330 | ::{ flag=MY }:: [\[MR\]Myina](https://osu.ppy.sh/users/25604245) |
-| #808 | ::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209) |
-| #811 | ::{ flag=MY }:: [LloydTTG](https://osu.ppy.sh/users/17220267) |
-| #867 | ::{ flag=MY }:: [VASD Player](https://osu.ppy.sh/users/29929002) |
-| #937 | ::{ flag=MY }:: [YtAlbin0](https://osu.ppy.sh/users/21873512) |
-| #1,118 | ::{ flag=MY }:: [256](https://osu.ppy.sh/users/30419111) |
-| #1,695 | ::{ flag=MY }:: [9919149](https://osu.ppy.sh/users/7972439/mania) |
-| #1,935 | ::{ flag=MY }:: [Ju1nY11](https://osu.ppy.sh/users/14743871) |
-| #2,088 | ::{ flag=MY }:: [\[RGK\]Cheoky29](https://osu.ppy.sh/users/14901072) |
-| #2,260 | ::{ flag=MY }:: [ReJust](https://osu.ppy.sh/users/20670028) |
-| #2,542 | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447) |
-| #2,736 | ::{ flag=MY }:: [StyGix](https://osu.ppy.sh/users/7745408) |
-| #3,848 | ::{ flag=MY }:: [cirinoes](https://osu.ppy.sh/users/7672567) |
-| #4,952 | ::{ flag=MY }:: [RedCatzzButReal](https://osu.ppy.sh/users/23948744) |
-| #6,036 | ::{ flag=MY }:: [Drysilas](https://osu.ppy.sh/users/16766719) |
-| #6,093 | ::{ flag=MY }:: [Evirir](https://osu.ppy.sh/users/8126553) |
-| #6,974 | ::{ flag=MY }:: [Aleppie](https://osu.ppy.sh/users/766445) |
-| #7,035 | ::{ flag=MY }:: [xyyyyyy](https://osu.ppy.sh/users/27678259) |
-| #7,232 | ::{ flag=MY }:: [kaijunchang7628](https://osu.ppy.sh/users/19678757) |
-| #10,358 | ::{ flag=MY }:: [DiarrheaEnjoyer](https://osu.ppy.sh/users/15590896) |
-| #10,957 | ::{ flag=MY }:: [Jugemu-Jugemu](https://osu.ppy.sh/users/10874775) |
-| #11,894 | ::{ flag=MY }:: [TengShiXun](https://osu.ppy.sh/users/23694687) |
-| #12,519 | ::{ flag=MY }:: [XxTheJKxX](https://osu.ppy.sh/users/9048451) |
-| #16,795 | ::{ flag=MY }:: [ClassicNickey](https://osu.ppy.sh/users/26468007) |
-| #17,046 | ::{ flag=MY }:: [Kzon](https://osu.ppy.sh/users/2007579) |
-| #22,722 | ::{ flag=MY }:: [Truesans356](https://osu.ppy.sh/users/18484917) |
-| #22,981 | ::{ flag=MY }:: [xiaodomo11111](https://osu.ppy.sh/users/7797432) |
-| #34,917 | ::{ flag=MY }:: [PurpleLune](https://osu.ppy.sh/users/25486833) |
-| #59,322 | ::{ flag=MY }:: [GG\_com2016](https://osu.ppy.sh/users/9229968) |
-| #101,687 | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) |
-| #109,061 | ::{ flag=MY }:: [Desmondkaile](https://osu.ppy.sh/users/19908328) |
+| #27 | ::{ flag=MY }:: ::xxxxxx2800::{ user-id=4084853 } |
+| #330 | ::{ flag=MY }:: ::\[MR\]Myina::{ user-id=25604245 } |
+| #808 | ::{ flag=MY }:: ::Tosai\_::{ user-id=3760209 } |
+| #811 | ::{ flag=MY }:: ::LloydTTG::{ user-id=17220267 } |
+| #867 | ::{ flag=MY }:: ::VASD Player::{ user-id=29929002 } |
+| #937 | ::{ flag=MY }:: ::YtAlbin0::{ user-id=21873512 } |
+| #1,118 | ::{ flag=MY }:: ::256::{ user-id=30419111 } |
+| #1,695 | ::{ flag=MY }:: ::9919149::{ user-id=7972439 } |
+| #1,935 | ::{ flag=MY }:: ::Ju1nY11::{ user-id=14743871 } |
+| #2,088 | ::{ flag=MY }:: ::\[RGK\]Cheoky29::{ user-id=14901072 } |
+| #2,260 | ::{ flag=MY }:: ::ReJust::{ user-id=20670028 } |
+| #2,542 | ::{ flag=MY }:: ::JayLye::{ user-id=14892447 } |
+| #2,736 | ::{ flag=MY }:: ::StyGix::{ user-id=7745408 } |
+| #3,848 | ::{ flag=MY }:: ::cirinoes::{ user-id=7672567 } |
+| #4,952 | ::{ flag=MY }:: ::RedCatzzButReal::{ user-id=23948744 } |
+| #6,036 | ::{ flag=MY }:: ::Drysilas::{ user-id=16766719 } |
+| #6,093 | ::{ flag=MY }:: ::Evirir::{ user-id=8126553 } |
+| #6,974 | ::{ flag=MY }:: ::Aleppie::{ user-id=766445 } |
+| #7,035 | ::{ flag=MY }:: ::xyyyyyy::{ user-id=27678259 } |
+| #7,232 | ::{ flag=MY }:: ::kaijunchang7628::{ user-id=19678757 } |
+| #10,358 | ::{ flag=MY }:: ::DiarrheaEnjoyer::{ user-id=15590896 } |
+| #10,957 | ::{ flag=MY }:: ::Jugemu-Jugemu::{ user-id=10874775 } |
+| #11,894 | ::{ flag=MY }:: ::TengShiXun::{ user-id=23694687 } |
+| #12,519 | ::{ flag=MY }:: ::XxTheJKxX::{ user-id=9048451 } |
+| #16,795 | ::{ flag=MY }:: ::ClassicNickey::{ user-id=26468007 } |
+| #17,046 | ::{ flag=MY }:: ::Kzon::{ user-id=2007579 } |
+| #22,722 | ::{ flag=MY }:: ::Truesans356::{ user-id=18484917 } |
+| #22,981 | ::{ flag=MY }:: ::xiaodomo11111::{ user-id=7797432 } |
+| #34,917 | ::{ flag=MY }:: ::PurpleLune::{ user-id=25486833 } |
+| #59,322 | ::{ flag=MY }:: ::GG\_com2016::{ user-id=9229968 } |
+| #101,687 | ::{ flag=MY }:: ::Axorite::{ user-id=9124278 } |
+| #109,061 | ::{ flag=MY }:: ::Desmondkaile::{ user-id=19908328 } |
 
 Ranks were recorded at the end of registration.
 

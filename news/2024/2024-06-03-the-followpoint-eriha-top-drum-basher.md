@@ -5,13 +5,13 @@ date: 2024-06-03 17:00:00 +0000
 series: followpoint
 ---
 
-It's the latest in a series of top player interviews, now featuring the osu!taiko #4 best drum basher: [Eriha](https://osu.ppy.sh/users/16320311)!
+It's the latest in a series of top player interviews, now featuring the osu!taiko #4 best drum basher: ::Eriha::{ user-id=16320311 }!
 
 ![](/wiki/shared/news/2024-06-03-the-followpoint-eriha-top-drum-basher/banner.jpg)
 
 That's right, following previous interviews with [mrekk](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy) and [YesMyDarknesss](https://osu.ppy.sh/home/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch), top players of osu! and osu!catch respectively, this edition of The Followpoint continues the pattern by featuring osu!taiko's rank #4 player and the [osu!taiko World Cup 2024](/wiki/Tournaments/TWC/2024) champion.
 
-Simply read on for a look into [Eriha](https://osu.ppy.sh/users/16320311)'s insight:
+Simply read on for a look into ::Eriha::{ user-id=16320311 }'s insight:
 
 ---
 
@@ -57,11 +57,11 @@ Simply read on for a look into [Eriha](https://osu.ppy.sh/users/16320311)'s insi
 
 *Who would you call the best osu!taiko player(s) at the moment and why?*
 
-> The best player I can think of right now is [SilverTyrant](https://osu.ppy.sh/users/14356353). He also competed in TWC2024 and I think it's very cool that he has recorded great scores on various maps, not just speed maps.
+> The best player I can think of right now is ::SilverTyrant::{ user-id=14356353 }. He also competed in TWC2024 and I think it's very cool that he has recorded great scores on various maps, not just speed maps.
 >
 > Especially [Kage no Nai Hito](https://osu.ppy.sh/beatmapsets/1519045#taiko/3110395)'s [DT record](https://osu.ppy.sh/scores/1876120539) is so crazy that no player will surpass his record anytime soon.
 >
-> In addition, [sourufire](https://osu.ppy.sh/users/13249305) is probably the most growing of the Japanese players. His acc on the various speed maps is excellent and I look forward to competing with him in the future!
+> In addition, ::sourufire::{ user-id=13249305 } is probably the most growing of the Japanese players. His acc on the various speed maps is excellent and I look forward to competing with him in the future!
 
 *What do you feel is the most important aspect to keep motivation even when you are not improving, and what keeps you specifically motivated to play?*
 
@@ -77,15 +77,15 @@ Simply read on for a look into [Eriha](https://osu.ppy.sh/users/16320311)'s insi
 
 *Who would you want to meet IRL the most if you could meet any osu! player and why?*
 
-> There are many players I would like to meet, but I would really like to meet [Yuemiao](https://osu.ppy.sh/users/4493348) and [hz404](https://osu.ppy.sh/users/14947043), who are irreplaceable for me!
+> There are many players I would like to meet, but I would really like to meet ::Yuemiao::{ user-id=4493348 } and [hz404](https://osu.ppy.sh/users/14947043), who are irreplaceable for me!
 >
-> Also, I would like to meet [Ney](https://osu.ppy.sh/users/5991961) and [uone](https://osu.ppy.sh/users/5321719) who I respect for their playing style!
+> Also, I would like to meet ::Ney::{ user-id=5991961 } and [uone](https://osu.ppy.sh/users/5321719) who I respect for their playing style!
 
 *Do the communities of Taiko no Tatsujin and osu!taiko overlap in the pro player scene in Japan, and do arcade pro players play osu!taiko too?*
 
 > Although it cannot be said that good play in Taiko no Tatsujin is proportional to good play in osu!taiko, the top players in Taiko no Tatsujin are often the top players in osu!taiko!
 >
-> For example, players such as [_yu68](https://osu.ppy.sh/users/6170507), [1RoHa_](https://osu.ppy.sh/users/4632503), [kotohira_06](https://osu.ppy.sh/users/22444525), and [supesan](https://osu.ppy.sh/users/14623658) are both top players in Taiko no Tatsujin and in osu!taiko!
+> For example, players such as ::\1yu68::{ user-id=6170507 }, [1RoHa_](https://osu.ppy.sh/users/4632503), ::kotohira\106::{ user-id=22444525 }, and [supesan](https://osu.ppy.sh/users/14623658) are both top players in Taiko no Tatsujin and in osu!taiko!
 
 *To finish things up, what does the future hold for you? Do you have any goals or anything else that you'd like to mention?*
 
@@ -96,8 +96,8 @@ Simply read on for a look into [Eriha](https://osu.ppy.sh/users/16320311)'s insi
 
 ---
 
-Huge thanks to [Eriha](https://osu.ppy.sh/users/16320311) for joining us and answering these questions! Once again, I hope you as a reader enjoyed this interview. <3
+Huge thanks to ::Eriha::{ user-id=16320311 } for joining us and answering these questions! Once again, I hope you as a reader enjoyed this interview. <3
 
-The last of the four-mode interviews would be for none other than the osu!mania #1 player, [dressurf](https://osu.ppy.sh/users/758406) — see you there in two weeks! You can also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) for updates and question submissions for future interviews.
+The last of the four-mode interviews would be for none other than the osu!mania #1 player, ::dressurf::{ user-id=758406 } — see you there in two weeks! You can also follow [@The_Followpoint on Twitter](https://twitter.com/The_Followpoint) for updates and question submissions for future interviews.
 
 —MegaMix

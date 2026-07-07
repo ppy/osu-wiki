@@ -21,19 +21,19 @@ tags:
 
 | Игрок | Дата прохождения | Число сыгранных сложностей |
 | :-- | :-- | :-- |
-| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | 2019-04-27 | 60,845 |
-| ::{ flag=PL }:: [PookieBear](https://osu.ppy.sh/users/7635621) | 2021-08-11 | 82,298 |
-| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | 2023-03-12 | 99,842 |
+| ::{ flag=US }:: ::xasuma::{ user-id=3172980 } | 2019-04-27 | 60,845 |
+| ::{ flag=PL }:: ::PookieBear::{ user-id=7635621 } | 2021-08-11 | 82,298 |
+| ::{ flag=US }:: ::EEEEEEEEEEEEEEE::{ user-id=2927048 } | 2023-03-12 | 99,842 |
 
 ### osu!taiko
 
 | Игрок | Дата прохождения | Число сыгранных сложностей |
 | :-- | :-- | :-- |
-| ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | 2019-11-03 | 8,841 |
-| ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) | 2023-08-14 | 22,170 |
+| ::{ flag=AU }:: ::Jaye::{ user-id=4841352 } | 2019-11-03 | 8,841 |
+| ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } | 2023-08-14 | 22,170 |
 
 ## Интересные факты
 
-- ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) был награждён [титулом](/wiki/Community/User_title) *The First Completionist* за то, что он стал самым первым комплишионистом.
-- ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) был награждён титулом *Drum Decimator* за то, что он стал первым комплишионистом osu!taiko и получил полное комбо на всех ранкнутых картах osu!taiko.
+- ::{ flag=US }:: ::xasuma::{ user-id=3172980 } был награждён [титулом](/wiki/Community/User_title) *The First Completionist* за то, что он стал самым первым комплишионистом.
+- ::{ flag=AU }:: ::Jaye::{ user-id=4841352 } был награждён титулом *Drum Decimator* за то, что он стал первым комплишионистом osu!taiko и получил полное комбо на всех ранкнутых картах osu!taiko.
 - До сентября 2023 года игрокам выдавался титул *osu!completionist*, который затем был заменён на значки профиля.

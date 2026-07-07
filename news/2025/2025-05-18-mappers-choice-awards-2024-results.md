@@ -41,9 +41,9 @@ Due to comparatively low participation this year, the amount of badge awards has
 [![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-map-3.png)](https://osu.ppy.sh/beatmapsets/414448)
 
 ![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-user-header.png)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-user-1.png)](https://osu.ppy.sh/users/7777875)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-user-2.png)](https://osu.ppy.sh/users/13650508)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-user-3.png)](https://osu.ppy.sh/users/418699)
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-user-1.png)::{ user-id=7777875 }\
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-user-2.png)::{ user-id=13650508 }\
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-osu-user-3.png)::{ user-id=418699 }
 
 ## osu!taiko
 
@@ -54,11 +54,11 @@ Due to comparatively low participation this year, the amount of badge awards has
 [![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-taiko-map-4.png)](https://osu.ppy.sh/beatmapsets/2195740)
 
 ![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-taiko-user-header.png)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-taiko-user-1.png)](https://osu.ppy.sh/users/8005579)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-taiko-user-2.png)](https://osu.ppy.sh/users/14102976)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-taiko-user-3.png)](https://osu.ppy.sh/users/15823344)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-taiko-user-3-1.png)](https://osu.ppy.sh/users/8301957)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-taiko-user-3-2.png)](https://osu.ppy.sh/users/3918650)
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-taiko-user-1.png)::{ user-id=8005579 }\
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-taiko-user-2.png)::{ user-id=14102976 }\
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-taiko-user-3.png)::{ user-id=15823344 }\
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-taiko-user-3-1.png)::{ user-id=8301957 }\
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-taiko-user-3-2.png)::{ user-id=3918650 }
 
 ## osu!catch
 
@@ -68,9 +68,9 @@ Due to comparatively low participation this year, the amount of badge awards has
 [![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-catch-map-3.png)](https://osu.ppy.sh/beatmapsets/2187400)
 
 ![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-catch-user-header.png)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-catch-user-1.png)](https://osu.ppy.sh/users/702598)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-catch-user-2.png)](https://osu.ppy.sh/users/8434466)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-catch-user-3.png)](https://osu.ppy.sh/users/1035891)
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-catch-user-1.png)::{ user-id=702598 }\
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-catch-user-2.png)::{ user-id=8434466 }\
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-catch-user-3.png)::{ user-id=1035891 }
 
 ## osu!mania
 
@@ -80,9 +80,9 @@ Due to comparatively low participation this year, the amount of badge awards has
 [![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-mania-map-3.png)](https://osu.ppy.sh/beatmapsets/2133204)
 
 ![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-mania-user-header.png)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-mania-user-1.png)](https://osu.ppy.sh/users/4335785)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-mania-user-2.png)](https://osu.ppy.sh/users/10085090)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-mania-user-3.png)](https://osu.ppy.sh/users/14351534)
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-mania-user-1.png)::{ user-id=4335785 }\
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-mania-user-2.png)::{ user-id=10085090 }\
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-mania-user-3.png)::{ user-id=14351534 }
 
 ## Storyboarding
 
@@ -92,14 +92,14 @@ Due to comparatively low participation this year, the amount of badge awards has
 [![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-storyboard-map-3.png)](https://osu.ppy.sh/beatmapsets/2147857)
 
 ![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-storyboard-user-header.png)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-storyboard-user-1.png)](https://osu.ppy.sh/users/5383942)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-storyboard-user-2.png)](https://osu.ppy.sh/users/7279762)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-storyboard-user-3.png)](https://osu.ppy.sh/users/1541323)\
-[![](/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-storyboard-user-4.png)](https://osu.ppy.sh/users/12243368)
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-storyboard-user-1.png)::{ user-id=5383942 }\
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-storyboard-user-2.png)::{ user-id=7279762 }\
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-storyboard-user-3.png)::{ user-id=1541323 }\
+::!\1\1(/wiki/shared/news/2025-05-18-mappers-choice-awards-2024-results/top3-storyboard-user-4.png)::{ user-id=12243368 }
 
 ---
 
-A huge thank you to [kaetwo](https://osu.ppy.sh/users/1997719) for crafting these stunning banners and assisting with badge and stream designs. Don't forget to explore the [full results on the MCA website](https://mca.corsace.io/2024/results).
+A huge thank you to ::kaetwo::{ user-id=1997719 } for crafting these stunning banners and assisting with badge and stream designs. Don't forget to explore the [full results on the MCA website](https://mca.corsace.io/2024/results).
 
 To everyone who participated this year: thank you for being part of MCA 2024. We hope you loved every moment, and we can't wait to welcome you back next time!
 

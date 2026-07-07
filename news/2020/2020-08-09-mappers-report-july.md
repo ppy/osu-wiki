@@ -74,9 +74,9 @@ And now let's move on to the team movements for this month:
 
 ### BN Additions
 
-- **osu!:** [-Aqua](https://osu.ppy.sh/users/7150015), [Bibbity Bill](https://osu.ppy.sh/users/4446810), [Log Off Now](https://osu.ppy.sh/users/4378277), [C00L](https://osu.ppy.sh/users/4930630), [Ayucchi](https://osu.ppy.sh/users/7823498) & [Hobbes2](https://osu.ppy.sh/users/8157492)
-- **osu!catch:** [wonjae](https://osu.ppy.sh/users/5032045) & [-Joni-](https://osu.ppy.sh/users/9988837)
-- **osu!mania:** [Arzenvald](https://osu.ppy.sh/users/3027421), [lenpai](https://osu.ppy.sh/users/5314573) & [Davvy](https://osu.ppy.sh/users/10047413)
+- **osu!:** ::-Aqua::{ user-id=7150015 }, [Bibbity Bill](https://osu.ppy.sh/users/4446810), ::Log Off Now::{ user-id=4378277 }, [C00L](https://osu.ppy.sh/users/4930630), ::Ayucchi::{ user-id=7823498 } & [Hobbes2](https://osu.ppy.sh/users/8157492)
+- **osu!catch:** ::wonjae::{ user-id=5032045 } & [-Joni-](https://osu.ppy.sh/users/9988837)
+- **osu!mania:** ::Arzenvald::{ user-id=3027421 }, [lenpai](https://osu.ppy.sh/users/5314573) & ::Davvy::{ user-id=10047413 }
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
@@ -84,13 +84,13 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 ### BN Departures
 
-- **osu!:** [Peter](https://osu.ppy.sh/users/8623835), [Kaitjuh](https://osu.ppy.sh/users/2225327), [Icekalt](https://osu.ppy.sh/users/5410645) & [Rizen](https://osu.ppy.sh/users/3056732)
-- **osu!taiko:** [Volta](https://osu.ppy.sh/users/4154071)
-- **osu!catch:** [JBHyperion](https://osu.ppy.sh/users/4879508)
+- **osu!:** ::Peter::{ user-id=8623835 }, [Kaitjuh](https://osu.ppy.sh/users/2225327), ::Icekalt::{ user-id=5410645 } & [Rizen](https://osu.ppy.sh/users/3056732)
+- **osu!taiko:** ::Volta::{ user-id=4154071 }
+- **osu!catch:** ::JBHyperion::{ user-id=4879508 }
 
 ### NAT Additions
 
-A new member in the Nomination Assessment has risen! Please welcome [Scotty](https://osu.ppy.sh/users/11085809) to the team! After around one and half a year as a Beatmap Nominator, he will now help the current osu!mania NAT with the Beatmap Nominator evaluations and make sure that the recent flow of new members will not break up.
+A new member in the Nomination Assessment has risen! Please welcome ::Scotty::{ user-id=11085809 } to the team! After around one and half a year as a Beatmap Nominator, he will now help the current osu!mania NAT with the Beatmap Nominator evaluations and make sure that the recent flow of new members will not break up.
 
 Welcome aboard Scotty!
 
@@ -98,11 +98,11 @@ Welcome aboard Scotty!
 
 Another month, another Mappers' Showcase! However, the term "mapper" is maybe not the right one this time. Since the showcase has covered all game modes at least once, we thought we'd make something special this time. We would like to show you the work of storyboarders! As storyboarding can apply to all game modes, we thought it'd be the perfect moment to showcase some outstanding storyboarders this month!
 
-This month got covered by [Walavouchey](https://osu.ppy.sh/users/5773079) with two excellent storyboarder picks!
+This month got covered by ::Walavouchey::{ user-id=5773079 } with two excellent storyboarder picks!
 
 ### ohm002
 
-Having made quite a few storyboards in only the short span of, well, this year, [ohm002](https://osu.ppy.sh/users/4468239) has been building up their repertoire trying out a lot of different ideas. While being newer in the scene, they managed to make a rather quick improvement that aspiring storyboarders might want to take a note of!
+Having made quite a few storyboards in only the short span of, well, this year, ::ohm002::{ user-id=4468239 } has been building up their repertoire trying out a lot of different ideas. While being newer in the scene, they managed to make a rather quick improvement that aspiring storyboarders might want to take a note of!
 
 In their first ranked storyboard for [Halozy - Paranoid Lost](https://osu.ppy.sh/beatmapsets/1180913#osu/2462333), ohm002 goes big and bold with lots of contrast between sections of the song. While not the cleanest in the technicalities, it sure gives a shocking impression and a unique playing experience.
 
@@ -110,7 +110,7 @@ In contrast, their recent work for [HAG - Rokugatsu no Himitsu Kichi](https://os
 
 ### PantyDev
 
-As a long time storyboarder, [PantyDev](https://osu.ppy.sh/users/5420543) has an impressive variety in their portfolio. With storyboards ranging from simple and clean to complex and ambitious, they might just have the experience to compete with the best.
+As a long time storyboarder, ::PantyDev::{ user-id=5420543 } has an impressive variety in their portfolio. With storyboards ranging from simple and clean to complex and ambitious, they might just have the experience to compete with the best.
 
 A unique storyboard to start with would definitely be their visualization for [BoxPlot - Tramontane](https://osu.ppy.sh/beatmapsets/1016398#osu/2127254), basically turning the whole background into a swaying curtain. It's certainly a neat concept that not many storyboards use, though it may feel a bit dizzying.
 
@@ -132,9 +132,9 @@ The screening phase for July's MBC is well underway! The limitation this month w
 
 As for results, results for both May and June's MBC have been announced, including the announcement of the first winner of the MBC grand prize!
 
-May's contest concluded with 2 winners! Congratulations to both [hypercyte](https://osu.ppy.sh/users/9155377) who won both the community vote and "screening crew's favourite" categories, and to [Acylica](https://osu.ppy.sh/users/1943309) who was the community vote's runner-up! Further congratulations to [hypercyte](https://osu.ppy.sh/users/9155377) on being the first mapper to have won the MBC grand prize and earning the **Elite Mapper** title through the new Monthly Beatmapping Contests with an overall total of 7 points!
+May's contest concluded with 2 winners! Congratulations to both ::hypercyte::{ user-id=9155377 } who won both the community vote and "screening crew's favourite" categories, and to ::Acylica::{ user-id=1943309 } who was the community vote's runner-up! Further congratulations to ::hypercyte::{ user-id=9155377 } on being the first mapper to have won the MBC grand prize and earning the **Elite Mapper** title through the new Monthly Beatmapping Contests with an overall total of 7 points!
 
-As for June, we congratulate [Kalibe](https://osu.ppy.sh/users/3376777), [xbopost](https://osu.ppy.sh/users/6842421) and [Sylas](https://osu.ppy.sh/users/3906405) on winning MBC for this month! There was a 3-way tie this time so there will be no runner-up for this month. The scores between their entries were so thin, with an amazing display of work from all three of them. [Mao](https://osu.ppy.sh/users/2204515) and [K4L1](https://osu.ppy.sh/users/11334594) also received honorable mentions for their creative entries which unfortunately did not score as high.
+As for June, we congratulate ::Kalibe::{ user-id=3376777 }, [xbopost](https://osu.ppy.sh/users/6842421) and ::Sylas::{ user-id=3906405 } on winning MBC for this month! There was a 3-way tie this time so there will be no runner-up for this month. The scores between their entries were so thin, with an amazing display of work from all three of them. ::Mao::{ user-id=2204515 } and [K4L1](https://osu.ppy.sh/users/11334594) also received honorable mentions for their creative entries which unfortunately did not score as high.
 
 View the latest information regarding MBC in the [wiki article](/wiki/Contests/Monthly_Beatmapping_Contest).
 

@@ -31,7 +31,7 @@ And most importantly, it looks really cool.
 
 [![](/wiki/shared/news/2024-08-17-osu-deskmats/circleclicker.jpg)](https://osu.ppy.sh/store/products/1347)
 
-We have to give credit where it's due: renowned mapper [Sing](https://osu.ppy.sh/users/3795679) is the mastermind behind this design! Send your accolades his direction.
+We have to give credit where it's due: renowned mapper ::Sing::{ user-id=3795679 } is the mastermind behind this design! Send your accolades his direction.
 
 If you want to snag one of these for yourself, [**head to the store page**](https://osu.ppy.sh/store/products/1347)!
 
@@ -43,13 +43,13 @@ We host a bunch of [fanart contests](https://osu.ppy.sh/community/contests) each
 
 ### [sakura pippi deskmat](https://osu.ppy.sh/store/products/1349)
 
-Jumping back to [Spring 2021](https://osu.ppy.sh/community/contests/125), [Xeth](https://osu.ppy.sh/users/14743626)'s pristinely pink pippi piece was begging to make its way to the physical realm, so we worked together to [make it happen](https://osu.ppy.sh/store/products/1349)!
+Jumping back to [Spring 2021](https://osu.ppy.sh/community/contests/125), ::Xeth::{ user-id=14743626 }'s pristinely pink pippi piece was begging to make its way to the physical realm, so we worked together to [make it happen](https://osu.ppy.sh/store/products/1349)!
 
 [![](/wiki/shared/news/2024-08-17-osu-deskmats/sakurapippi.jpg)](https://osu.ppy.sh/store/products/1349)
 
 ### [*everything* deskmat](https://osu.ppy.sh/store/products/1348)
 
-This one is [peppy](https://osu.ppy.sh/users/2)'s personal favorite: In [osu!'s 15th anniversary art contest](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results#peppy's-picks), [YOOKA](https://osu.ppy.sh/users/15825663) crafted an ultra-dense artwork showcasing 15 years worth of references and memes.
+This one is ::peppy::{ user-id=2 }'s personal favorite: In [osu!'s 15th anniversary art contest](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results#peppy's-picks), ::YOOKA::{ user-id=15825663 } crafted an ultra-dense artwork showcasing 15 years worth of references and memes.
 
 [![](/wiki/shared/news/2024-08-17-osu-deskmats/everything.jpg)](https://osu.ppy.sh/store/products/1348)
 

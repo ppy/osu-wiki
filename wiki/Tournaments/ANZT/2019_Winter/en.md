@@ -7,7 +7,7 @@ tags:
 
 ![ANZT 6W banner](img/banner.png)
 
-The **Aus/NZ osu!standard Tournament 6 - Winter** (***ANZT 6W***) was a 1v1 double-elimination osu! tournament with a score-based qualifier stage for Australian and New Zealand players hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475) and ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135). It was the eighth instalment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 6 - Winter** (***ANZT 6W***) was a 1v1 double-elimination osu! tournament with a score-based qualifier stage for Australian and New Zealand players hosted by ::{ flag=NZ }:: ::Diony::{ user-id=4294475 } and ::{ flag=AU }:: ::EmeraldStar82::{ user-id=3772135 }. It was the eighth instalment of the Aus/NZ tourneys.
 
 ## Tournament schedule
 
@@ -37,13 +37,13 @@ The **Aus/NZ osu!standard Tournament 6 - Winter** (***ANZT 6W***) was a 1v1 doub
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
-| Scheduler | ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
-| Commentator | ::{ flag=NZ }:: [[Crz]NucleoAP](https://osu.ppy.sh/users/9237208), ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ::{ flag=AU }:: [Maxibon](https://osu.ppy.sh/users/7341183), ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086), ::{ flag=AU }:: [Arbusion](https://osu.ppy.sh/users/11469447), ::{ flag=AU }:: [Prosal](https://osu.ppy.sh/users/6654455), ::{ flag=AU }:: [Aus](https://osu.ppy.sh/users/6541404), ::{ flag=NZ }:: [shortpotato](https://osu.ppy.sh/users/1266102), ::{ flag=AU }:: [GranDSenpai](https://osu.ppy.sh/users/3997580), ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691), ::{ flag=AU }:: [xClusion](https://osu.ppy.sh/users/2263910), ::{ flag=AU }:: [Tricky](https://osu.ppy.sh/users/8359292) |
-| Streamer | ::{ flag=AU }:: [Maxibon](https://osu.ppy.sh/users/7341183), ::{ flag=AU }:: [pewdekz](https://osu.ppy.sh/users/5754859), ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634) |
-| Referee | ::{ flag=VN }:: [steve_04_](https://osu.ppy.sh/users/10852911), ::{ flag=AU }:: [ill onion](https://osu.ppy.sh/users/8306102), ::{ flag=NZ }:: [[Crz]NucleoAP](https://osu.ppy.sh/users/9237208), ::{ flag=AU }:: [Maxibon](https://osu.ppy.sh/users/7341183), ::{ flag=NZ }:: [NutAndGo](https://osu.ppy.sh/users/7740118), ::{ flag=AU }:: [Soulskyeflare](https://osu.ppy.sh/users/8264319), ::{ flag=AU }:: [loler123903](https://osu.ppy.sh/users/8034438) |
-| Mappool selector | ::{ flag=AU }:: [xLolicore](https://osu.ppy.sh/users/4525153), ::{ flag=AU }:: [Ithgyu](https://osu.ppy.sh/users/5113781), ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737), ::{ flag=AU }:: [Shiroha](https://osu.ppy.sh/users/3068044) |
-| Designer | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634) |
+| Manager | ::{ flag=NZ }:: ::Diony::{ user-id=4294475 }, ::{ flag=AU }:: ::EmeraldStar82::{ user-id=3772135 } |
+| Scheduler | ::{ flag=AU }:: ::EmeraldStar82::{ user-id=3772135 } |
+| Commentator | ::{ flag=NZ }:: ::\1Crz\1NucleoAP::{ user-id=9237208 }, ::{ flag=AU }:: ::AmateurMonkeyYT::{ user-id=8379046 }, ::{ flag=AU }:: ::Maxibon::{ user-id=7341183 }, ::{ flag=AU }:: ::Dumii::{ user-id=3068044 }, ::{ flag=AU }:: ::Monk Gyatso::{ user-id=4012086 }, ::{ flag=AU }:: ::Arbusion::{ user-id=11469447 }, ::{ flag=AU }:: ::Prosal::{ user-id=6654455 }, ::{ flag=AU }:: ::Aus::{ user-id=6541404 }, ::{ flag=NZ }:: ::shortpotato::{ user-id=1266102 }, ::{ flag=AU }:: ::GranDSenpai::{ user-id=3997580 }, ::{ flag=AU }:: ::Vivace::{ user-id=3698691 }, ::{ flag=AU }:: ::xClusion::{ user-id=2263910 }, ::{ flag=AU }:: ::Tricky::{ user-id=8359292 } |
+| Streamer | ::{ flag=AU }:: ::Maxibon::{ user-id=7341183 }, ::{ flag=AU }:: ::pewdekz::{ user-id=5754859 }, ::{ flag=AU }:: ::Gala::{ user-id=3385634 } |
+| Referee | ::{ flag=VN }:: ::steve\104\1::{ user-id=10852911 }, ::{ flag=AU }:: ::ill onion::{ user-id=8306102 }, ::{ flag=NZ }:: ::\1Crz\1NucleoAP::{ user-id=9237208 }, ::{ flag=AU }:: ::Maxibon::{ user-id=7341183 }, ::{ flag=NZ }:: ::NutAndGo::{ user-id=7740118 }, ::{ flag=AU }:: ::Soulskyeflare::{ user-id=8264319 }, ::{ flag=AU }:: ::loler123903::{ user-id=8034438 } |
+| Mappool selector | ::{ flag=AU }:: ::xLolicore::{ user-id=4525153 }, ::{ flag=AU }:: ::Ithgyu::{ user-id=5113781 }, ::{ flag=DE }:: ::Zetera::{ user-id=587737 }, ::{ flag=AU }:: ::Shiroha::{ user-id=3068044 } |
+| Designer | ::{ flag=AU }:: ::Gala::{ user-id=3385634 } |
 
 ## Links
 
@@ -57,9 +57,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=NZ }:: [shortpotato](https://osu.ppy.sh/users/1266102) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: ::Jordan The Bear::{ user-id=7477458 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: ::Lunirs::{ user-id=2118945 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=NZ }:: ::shortpotato::{ user-id=1266102 } |
 
 All individual match results can be found on the spreadsheet linked above.
 

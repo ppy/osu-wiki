@@ -21,7 +21,7 @@ Let's get right into it!
 
 > I started playing osu! in 2014 and have since become known as a long-standing tournament player, having played in the osu! World Cup for the United States in 2017, 2018, 2019, and 2021.
 >
-> I was an active tournament host and staff member for many years starting in 2017, most known for hosting [Hippo Cup](https://osu.ppy.sh/community/forums/topics/1864006) and [Suiji Spring Cup](https://osu.ppy.sh/community/forums/topics/1305570) alongside [this1neguy](https://osu.ppy.sh/users/1797189). I was also a [Loved captain](/wiki/People/Project_Loved_Team) from 2018 to 2023 and have been a [Spotlights curator](/wiki/People/Beatmap_Spotlight_Curators) since 2020.
+> I was an active tournament host and staff member for many years starting in 2017, most known for hosting [Hippo Cup](https://osu.ppy.sh/community/forums/topics/1864006) and [Suiji Spring Cup](https://osu.ppy.sh/community/forums/topics/1305570) alongside ::this1neguy::{ user-id=1797189 }. I was also a [Loved captain](/wiki/People/Project_Loved_Team) from 2018 to 2023 and have been a [Spotlights curator](/wiki/People/Beatmap_Spotlight_Curators) since 2020.
 >
 > I also started actively posting osu!-related YouTube videos in 2021, ranging from livestream highlights to osu! game shows to a 100-episode osu! Let's Play series.
 >
@@ -87,7 +87,7 @@ Let's get right into it!
 
 *In the future, do you think it's possible for osu! tournaments to become mainstream esport events?*
 
-> It's absolutely possible, especially with recent developments such as the [Tournament Committee](/wiki/People/Tournament_Committee), a group of seasoned tournament staff members that work to improve the quality of osu! tournaments, and people like [BTMC](https://osu.ppy.sh/users/3171691) who are always finding ways to take competitive osu! to the next level.
+> It's absolutely possible, especially with recent developments such as the [Tournament Committee](/wiki/People/Tournament_Committee), a group of seasoned tournament staff members that work to improve the quality of osu! tournaments, and people like ::BTMC::{ user-id=3171691 } who are always finding ways to take competitive osu! to the next level.
 >
 > BTMC is someone I have a lot of respect for, and I commend his dedication to pushing osu! to mainstream frontiers. With him at the steering wheel, I think the future looks bright.
 

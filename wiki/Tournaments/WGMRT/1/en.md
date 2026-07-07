@@ -8,7 +8,7 @@ tags:
 
 ![We Go March! retot's Tournament banner](img/banner.png)
 
-The **We Go March! retot's Tournament** (***WGMRT***) was a double-elimination 3v3 osu! tournament hosted by ::{ flag=ID }:: [retot](https://osu.ppy.sh/users/17996877). The tournament was held following a [draft format](https://en.wikipedia.org/wiki/Draft_(sports)) and was open to all osu! players from Indonesia within the #1,000 - #50,000 rank range at the time of registration. It was the first iteration of the tournament series.
+The **We Go March! retot's Tournament** (***WGMRT***) was a double-elimination 3v3 osu! tournament hosted by ::{ flag=ID }:: ::retot::{ user-id=17996877 }. The tournament was held following a [draft format](https://en.wikipedia.org/wiki/Draft_(sports)) and was open to all osu! players from Indonesia within the #1,000 - #50,000 rank range at the time of registration. It was the first iteration of the tournament series.
 
 ## Tournament schedule
 
@@ -43,17 +43,17 @@ The We Go March! retot's Tournament was run by various osu! community members fr
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [retot](https://osu.ppy.sh/users/17996877) |
-| Mappool selector | ::{ flag=ID }:: [retot](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Lunasia](https://osu.ppy.sh/users/3484548) |
-| Custom mapper | ::{ flag=ID }:: [Jucky](https://osu.ppy.sh/users/18332687), ::{ flag=ID }:: [jiwoas](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [Funbun_](https://osu.ppy.sh/users/12791087), ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) |
-| Playtester and replayer | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) |
-| Streamer | ::{ flag=ID }:: [retot](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Lunasia](https://osu.ppy.sh/users/3484548) |
-| Commentator | ::{ flag=ID }:: [retot](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [salt and honey](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [FishStar](https://osu.ppy.sh/users/12563284), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [NaFish](https://osu.ppy.sh/users/9974314) |
-| Referee | ::{ flag=ID }:: [Lunasia](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Jucky](https://osu.ppy.sh/users/18332687), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [Skylineok](https://osu.ppy.sh/users/15985798), ::{ flag=ID }:: [diorytt](https://osu.ppy.sh/users/10989656), ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446) |
-| Graphic designer | ::{ flag=ID }:: [Jucky](https://osu.ppy.sh/users/18332687), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [jonjot](https://osu.ppy.sh/users/2084869) |
-| Forum writer | ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657) |
-| Spreadsheet manager | ::{ flag=ID }:: [Sunohara Kokona](https://osu.ppy.sh/users/11421465) |
-| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: ::retot::{ user-id=17996877 } |
+| Mappool selector | ::{ flag=ID }:: ::retot::{ user-id=17996877 }, ::{ flag=ID }:: ::Lunasia::{ user-id=3484548 } |
+| Custom mapper | ::{ flag=ID }:: ::Jucky::{ user-id=18332687 }, ::{ flag=ID }:: ::jiwoas::{ user-id=10778215 }, ::{ flag=ID }:: ::Funbun\1::{ user-id=12791087 }, ::{ flag=ID }:: ::fnayR::{ user-id=2800253 } |
+| Playtester and replayer | ::{ flag=ID }:: ::GNX::{ user-id=10069909 } |
+| Streamer | ::{ flag=ID }:: ::retot::{ user-id=17996877 }, ::{ flag=ID }:: ::Lunasia::{ user-id=3484548 } |
+| Commentator | ::{ flag=ID }:: ::retot::{ user-id=17996877 }, ::{ flag=ID }:: ::Artaa27::{ user-id=12085864 }, ::{ flag=ID }:: ::salt and honey::{ user-id=8688737 }, ::{ flag=ID }:: ::FishStar::{ user-id=12563284 }, ::{ flag=ID }:: ::Seox::{ user-id=3793938 }, ::{ flag=ID }:: ::NaFish::{ user-id=9974314 } |
+| Referee | ::{ flag=ID }:: ::Lunasia::{ user-id=3484548 }, ::{ flag=ID }:: ::Jucky::{ user-id=18332687 }, ::{ flag=ID }:: ::laks::{ user-id=9519657 }, ::{ flag=ID }:: ::Artaa27::{ user-id=12085864 }, ::{ flag=ID }:: ::Skylineok::{ user-id=15985798 }, ::{ flag=ID }:: ::diorytt::{ user-id=10989656 }, ::{ flag=ID }:: ::SDKO::{ user-id=4858555 }, ::{ flag=ID }:: ::YaeMyMommy::{ user-id=17278897 }, ::{ flag=MY }:: ::Lunasa::{ user-id=16436446 } |
+| Graphic designer | ::{ flag=ID }:: ::Jucky::{ user-id=18332687 }, ::{ flag=ID }:: ::laks::{ user-id=9519657 }, ::{ flag=ID }:: ::jonjot::{ user-id=2084869 } |
+| Forum writer | ::{ flag=ID }:: ::laks::{ user-id=9519657 } |
+| Spreadsheet manager | ::{ flag=ID }:: ::Sunohara Kokona::{ user-id=11421465 } |
+| Wiki editor | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
 
 ## Links
 
@@ -66,14 +66,14 @@ The We Go March! retot's Tournament was run by various osu! community members fr
 
 | Team name | Members |
 | :-: | :-- |
-| #PEGAONTOP | ::{ flag=ID }:: **[Seox](https://osu.ppy.sh/users/3793938)**, ::{ flag=ID }:: [ThatNOOBguy](https://osu.ppy.sh/users/11091594), ::{ flag=ID }:: [Somay 287](https://osu.ppy.sh/users/4314559), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [-Blue21-](https://osu.ppy.sh/users/12517079), ::{ flag=ID }:: [Worcester](https://osu.ppy.sh/users/24025848) |
-| 5 Melon 1 Korean | ::{ flag=ID }:: **[-CircleParadox-](https://osu.ppy.sh/users/10423227)**, ::{ flag=ID }:: [salt and honey](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510), ::{ flag=ID }:: [Kozakura-](https://osu.ppy.sh/users/4473506), ::{ flag=ID }:: [RockingSushi](https://osu.ppy.sh/users/19371191), ::{ flag=ID }:: [agato](https://osu.ppy.sh/users/28901730) |
-| apa aja boleh | ::{ flag=ID }:: **[-[ Dreepy ]-](https://osu.ppy.sh/users/17978570)**, ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627), ::{ flag=ID }:: [elituqinn](https://osu.ppy.sh/users/20315228), ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666), ::{ flag=ID }:: [NovaCrack](https://osu.ppy.sh/users/25781802), ::{ flag=ID }:: [PreDexine](https://osu.ppy.sh/users/12274165) |
-| gw ngikut aj | ::{ flag=ID }:: **[Zoont](https://osu.ppy.sh/users/7109269)**, ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591), ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336), ::{ flag=ID }:: [moyamoyano_sa](https://osu.ppy.sh/users/3891439), ::{ flag=ID }:: [Meyomi](https://osu.ppy.sh/users/20752007), ::{ flag=ID }:: [- D a r r y l -](https://osu.ppy.sh/users/14455082) |
-| Pengawal Mama | ::{ flag=ID }:: **[OTWGE](https://osu.ppy.sh/users/11759284)**, ::{ flag=ID }:: [Zonii](https://osu.ppy.sh/users/6596134), ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809), ::{ flag=ID }:: [Shiiori](https://osu.ppy.sh/users/13799103), ::{ flag=ID }:: [Icun](https://osu.ppy.sh/users/17908427), ::{ flag=ID }:: [Bbriant](https://osu.ppy.sh/users/30074705) |
-| santoso gacor | ::{ flag=ID }:: **[malvon](https://osu.ppy.sh/users/11113661)**, ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=ID }:: [JSpiriT](https://osu.ppy.sh/users/16804164), ::{ flag=ID }:: [tung](https://osu.ppy.sh/users/8692164), ::{ flag=ID }:: [Anphans](https://osu.ppy.sh/users/14231431), ::{ flag=ID }:: [AlpiAz](https://osu.ppy.sh/users/26321771) |
-| SpeedBus Pasuruan | ::{ flag=ID }:: **[FishStar](https://osu.ppy.sh/users/12563284)**, ::{ flag=ID }:: [Oguri Cap](https://osu.ppy.sh/users/11025519), ::{ flag=ID }:: [Such](https://osu.ppy.sh/users/11844371), ::{ flag=ID }:: [Fmi](https://osu.ppy.sh/users/17086658), ::{ flag=ID }:: [Sanvie](https://osu.ppy.sh/users/34326936), ::{ flag=ID }:: [rehalcool12](https://osu.ppy.sh/users/6560408) |
-| 最tua & 黒 se世界 | ::{ flag=ID }:: **[Caruma](https://osu.ppy.sh/users/13187450)**, ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Crownest](https://osu.ppy.sh/users/18135280), ::{ flag=ID }:: [c4w](https://osu.ppy.sh/users/15815159) |
+| #PEGAONTOP | ::{ flag=ID }:: **::Seox::{ user-id=3793938 }**, ::{ flag=ID }:: ::ThatNOOBguy::{ user-id=11091594 }, ::{ flag=ID }:: ::Somay 287::{ user-id=4314559 }, ::{ flag=ID }:: ::Mashima Himeko::{ user-id=10474988 }, ::{ flag=ID }:: ::-Blue21-::{ user-id=12517079 }, ::{ flag=ID }:: ::Worcester::{ user-id=24025848 } |
+| 5 Melon 1 Korean | ::{ flag=ID }:: **::-CircleParadox-::{ user-id=10423227 }**, ::{ flag=ID }:: ::salt and honey::{ user-id=8688737 }, ::{ flag=ID }:: ::Anhydrous::{ user-id=11272510 }, ::{ flag=ID }:: ::Kozakura-::{ user-id=4473506 }, ::{ flag=ID }:: ::RockingSushi::{ user-id=19371191 }, ::{ flag=ID }:: ::agato::{ user-id=28901730 } |
+| apa aja boleh | ::{ flag=ID }:: **::-\1 Dreepy \1-::{ user-id=17978570 }**, ::{ flag=ID }:: ::MejiroMcQueen::{ user-id=11320627 }, ::{ flag=ID }:: ::elituqinn::{ user-id=20315228 }, ::{ flag=ID }:: ::Azasapag::{ user-id=18347666 }, ::{ flag=ID }:: ::NovaCrack::{ user-id=25781802 }, ::{ flag=ID }:: ::PreDexine::{ user-id=12274165 } |
+| gw ngikut aj | ::{ flag=ID }:: **::Zoont::{ user-id=7109269 }**, ::{ flag=ID }:: ::Rosemi Lovelock::{ user-id=1987591 }, ::{ flag=ID }:: ::Suikami::{ user-id=1929336 }, ::{ flag=ID }:: ::moyamoyano\1sa::{ user-id=3891439 }, ::{ flag=ID }:: ::Meyomi::{ user-id=20752007 }, ::{ flag=ID }:: ::- D a r r y l -::{ user-id=14455082 } |
+| Pengawal Mama | ::{ flag=ID }:: **::OTWGE::{ user-id=11759284 }**, ::{ flag=ID }:: ::Zonii::{ user-id=6596134 }, ::{ flag=ID }:: ::Walfrid::{ user-id=6600809 }, ::{ flag=ID }:: ::Shiiori::{ user-id=13799103 }, ::{ flag=ID }:: ::Icun::{ user-id=17908427 }, ::{ flag=ID }:: ::Bbriant::{ user-id=30074705 } |
+| santoso gacor | ::{ flag=ID }:: **::malvon::{ user-id=11113661 }**, ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 }, ::{ flag=ID }:: ::JSpiriT::{ user-id=16804164 }, ::{ flag=ID }:: ::tung::{ user-id=8692164 }, ::{ flag=ID }:: ::Anphans::{ user-id=14231431 }, ::{ flag=ID }:: ::AlpiAz::{ user-id=26321771 } |
+| SpeedBus Pasuruan | ::{ flag=ID }:: **::FishStar::{ user-id=12563284 }**, ::{ flag=ID }:: ::Oguri Cap::{ user-id=11025519 }, ::{ flag=ID }:: ::Such::{ user-id=11844371 }, ::{ flag=ID }:: ::Fmi::{ user-id=17086658 }, ::{ flag=ID }:: ::Sanvie::{ user-id=34326936 }, ::{ flag=ID }:: ::rehalcool12::{ user-id=6560408 } |
+| 最tua & 黒 se世界 | ::{ flag=ID }:: **::Caruma::{ user-id=13187450 }**, ::{ flag=ID }:: ::Fuma::{ user-id=1501956 }, ::{ flag=ID }:: ::FAW::{ user-id=11070577 }, ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::Crownest::{ user-id=18135280 }, ::{ flag=ID }:: ::c4w::{ user-id=15815159 } |
 
 ## Podium
 
@@ -81,9 +81,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **最tua & 黒 se世界** (::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450), ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Crownest](https://osu.ppy.sh/users/18135280), ::{ flag=ID }:: [c4w](https://osu.ppy.sh/users/15815159)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **#PEGAONTOP** (::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [ThatNOOBguy](https://osu.ppy.sh/users/11091594), ::{ flag=ID }:: [Somay 287](https://osu.ppy.sh/users/4314559), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [-Blue21-](https://osu.ppy.sh/users/12517079), ::{ flag=ID }:: [Worcester](https://osu.ppy.sh/users/24025848)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **5 Melon 1 Korean** (::{ flag=ID }:: [-CircleParadox-](https://osu.ppy.sh/users/10423227), ::{ flag=ID }:: [salt and honey](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510), ::{ flag=ID }:: [Kozakura-](https://osu.ppy.sh/users/4473506), ::{ flag=ID }:: [RockingSushi](https://osu.ppy.sh/users/19371191), ::{ flag=ID }:: [agato](https://osu.ppy.sh/users/28901730)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **最tua & 黒 se世界** (::{ flag=ID }:: ::Caruma::{ user-id=13187450 }, ::{ flag=ID }:: ::Fuma::{ user-id=1501956 }, ::{ flag=ID }:: ::FAW::{ user-id=11070577 }, ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::Crownest::{ user-id=18135280 }, ::{ flag=ID }:: ::c4w::{ user-id=15815159 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **#PEGAONTOP** (::{ flag=ID }:: ::Seox::{ user-id=3793938 }, ::{ flag=ID }:: ::ThatNOOBguy::{ user-id=11091594 }, ::{ flag=ID }:: ::Somay 287::{ user-id=4314559 }, ::{ flag=ID }:: ::Mashima Himeko::{ user-id=10474988 }, ::{ flag=ID }:: ::-Blue21-::{ user-id=12517079 }, ::{ flag=ID }:: ::Worcester::{ user-id=24025848 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **5 Melon 1 Korean** (::{ flag=ID }:: ::-CircleParadox-::{ user-id=10423227 }, ::{ flag=ID }:: ::salt and honey::{ user-id=8688737 }, ::{ flag=ID }:: ::Anhydrous::{ user-id=11272510 }, ::{ flag=ID }:: ::Kozakura-::{ user-id=4473506 }, ::{ flag=ID }:: ::RockingSushi::{ user-id=19371191 }, ::{ flag=ID }:: ::agato::{ user-id=28901730 }) |
 
 ## Mappools
 

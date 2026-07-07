@@ -54,7 +54,7 @@ Moreover, congratulations to the winners of the Best of 2013 Charts:
 
 - **1st** [HARP](https://osu.ppy.sh/users/HARP)
 - **2nd** [-Nekochan-](https://osu.ppy.sh/users/-Nekochan-)
-- **3rd** [\[_Crystal\]](https://osu.ppy.sh/users/1646397)
+- **3rd** ::\[\1Crystal\]::{ user-id=1646397 }
 
 **osu!mania**
 

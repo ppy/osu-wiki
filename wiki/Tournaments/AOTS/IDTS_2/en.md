@@ -8,7 +8,7 @@ tags:
 
 ![IDTS 2 logo](img/logo.jpg)
 
-The **Indonesian Taiko Showdown 2** (***IDTS 2***) was an Indonesian double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722). The tournament was targeted for Indonesian top osu!taiko players, with no rank limits. It was the second instalment of the Indonesian Taiko Showdown.
+The **Indonesian Taiko Showdown 2** (***IDTS 2***) was an Indonesian double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=ID }:: ::Naverlyn::{ user-id=14324722 }. The tournament was targeted for Indonesian top osu!taiko players, with no rank limits. It was the second instalment of the Indonesian Taiko Showdown.
 
 ## Tournament schedule
 
@@ -34,7 +34,7 @@ The **Indonesian Taiko Showdown 2** (***IDTS 2***) was an Indonesian double-elim
 
 ![](img/badge.jpg "IDTS 2 winner badge")
 
-Generous donations from ::{ flag=ID }:: [Aozora-](https://osu.ppy.sh/users/6918206), ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), [Datenshi Community](https://discord.gg/mPJWMYmsFw), ::{ flag=ID }:: [ImChro](https://osu.ppy.sh/users/7280717), ::{ flag=ID }:: [Mamat](https://osu.ppy.sh/users/3031177), and ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722) helped fund some of the prizes.
+Generous donations from ::{ flag=ID }:: ::Aozora-::{ user-id=6918206 }, ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 }, [Datenshi Community](https://discord.gg/mPJWMYmsFw), ::{ flag=ID }:: ::ImChro::{ user-id=7280717 }, ::{ flag=ID }:: ::Mamat::{ user-id=3031177 }, and ::{ flag=ID }:: ::Naverlyn::{ user-id=14324722 } helped fund some of the prizes.
 
 ## Organisation
 
@@ -42,14 +42,14 @@ The Indonesian Taiko Showdown 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722) |
-| Mappool selector | ::{ flag=ID }:: [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ::{ flag=ID }:: [Reed\_405](https://osu.ppy.sh/users/9965069) |
-| Referee | ::{ flag=ID }:: [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722), ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768), ::{ flag=ID }:: [PatZar](https://osu.ppy.sh/users/2479487), ::{ flag=ID }:: [Rei Hakurei](https://osu.ppy.sh/users/704111) |
-| Streamer | ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839) |
-| Commentator | ::{ flag=ID }:: [apaajaboleh10](https://osu.ppy.sh/users/5151647), ::{ flag=ID }:: [ImChro](https://osu.ppy.sh/users/7280717) |
-| Designer | ::{ flag=ID }:: [Alice Pi](https://osu.ppy.sh/users/8787324) |
-| Statistician | ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465) |
-| Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organiser | ::{ flag=ID }:: ::Naverlyn::{ user-id=14324722 } |
+| Mappool selector | ::{ flag=ID }:: ::Alwaysyukaz::{ user-id=4999506 }, ::{ flag=ID }:: ::Reed\_405::{ user-id=9965069 } |
+| Referee | ::{ flag=ID }:: ::Lightning Wyvern::{ user-id=1533122 }, ::{ flag=ID }:: ::Naverlyn::{ user-id=14324722 }, ::{ flag=ID }:: ::Nishizumi::{ user-id=2496768 }, ::{ flag=ID }:: ::PatZar::{ user-id=2479487 }, ::{ flag=ID }:: ::Rei Hakurei::{ user-id=704111 } |
+| Streamer | ::{ flag=SG }:: ::Spartric::{ user-id=7740442 }, ::{ flag=ID }:: ::Victim\_Crasher::{ user-id=2084869 }, ::{ flag=ID }:: ::wiam103::{ user-id=4109839 } |
+| Commentator | ::{ flag=ID }:: ::apaajaboleh10::{ user-id=5151647 }, ::{ flag=ID }:: ::ImChro::{ user-id=7280717 } |
+| Designer | ::{ flag=ID }:: ::Alice Pi::{ user-id=8787324 } |
+| Statistician | ::{ flag=ID }:: ::Tix::{ user-id=11421465 } |
+| Wiki writer | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Links
 
@@ -63,9 +63,9 @@ The Indonesian Taiko Showdown 2 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=ID }:: [misaki\_tk](https://osu.ppy.sh/users/3866964), ::{ flag=ID }:: [Kaemz](https://osu.ppy.sh/users/8494233), ::{ flag=ID }:: [Servatory](https://osu.ppy.sh/users/4013317), ::{ flag=ID }:: [Mikurio](https://osu.ppy.sh/users/10734140), ::{ flag=ID }:: [Maneh](https://osu.ppy.sh/users/5179995), ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079), ::{ flag=ID }:: [eltiras](https://osu.ppy.sh/users/6720962), ::{ flag=ID }:: [freezebear](https://osu.ppy.sh/users/1943301), ::{ flag=ID }:: [Ryouka-](https://osu.ppy.sh/users/7099450), ::{ flag=ID }:: [Reen](https://osu.ppy.sh/users/3285139) |
-| Middle | ::{ flag=ID }:: [Konami-Kun](https://osu.ppy.sh/users/15931741), ::{ flag=ID }:: [Zedfish](https://osu.ppy.sh/users/22615825), ::{ flag=ID }:: [NagisaMiaomi](https://osu.ppy.sh/users/5879473), ::{ flag=ID }:: [ZFLamda](https://osu.ppy.sh/users/10727467), ::{ flag=ID }:: [AciTelor](https://osu.ppy.sh/users/16390988), ::{ flag=ID }:: [teddylie](https://osu.ppy.sh/users/1236126), ::{ flag=ID }:: [Lxa](https://osu.ppy.sh/users/20983500), ::{ flag=ID }:: [Hypermaester77](https://osu.ppy.sh/users/15155081), ::{ flag=ID }:: [Rossi](https://osu.ppy.sh/users/5569341), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413) |
-| Low | ::{ flag=ID }:: [Sagasemat](https://osu.ppy.sh/users/16761278), ::{ flag=ID }:: [kirikun11](https://osu.ppy.sh/users/4991728), ::{ flag=ID }:: [FinHazel](https://osu.ppy.sh/users/13660273), ::{ flag=ID }:: [NasiGaPakeNasi](https://osu.ppy.sh/users/17519250), ::{ flag=ID }:: [salym](https://osu.ppy.sh/users/19089549), ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055), ::{ flag=ID }:: [Zarumu](https://osu.ppy.sh/users/18429972), ::{ flag=ID }:: [Strikermens](https://osu.ppy.sh/users/7276005), ::{ flag=ID }:: [Mamat](https://osu.ppy.sh/users/3031177), ::{ flag=ID }:: [eZmmR](https://osu.ppy.sh/users/8647138) |
+| Top | ::{ flag=ID }:: ::misaki\_tk::{ user-id=3866964 }, ::{ flag=ID }:: ::Kaemz::{ user-id=8494233 }, ::{ flag=ID }:: ::Servatory::{ user-id=4013317 }, ::{ flag=ID }:: ::Mikurio::{ user-id=10734140 }, ::{ flag=ID }:: ::Maneh::{ user-id=5179995 }, ::{ flag=ID }:: ::Veltlion::{ user-id=10999079 }, ::{ flag=ID }:: ::eltiras::{ user-id=6720962 }, ::{ flag=ID }:: ::freezebear::{ user-id=1943301 }, ::{ flag=ID }:: ::Ryouka-::{ user-id=7099450 }, ::{ flag=ID }:: ::Reen::{ user-id=3285139 } |
+| Middle | ::{ flag=ID }:: ::Konami-Kun::{ user-id=15931741 }, ::{ flag=ID }:: ::Zedfish::{ user-id=22615825 }, ::{ flag=ID }:: ::NagisaMiaomi::{ user-id=5879473 }, ::{ flag=ID }:: ::ZFLamda::{ user-id=10727467 }, ::{ flag=ID }:: ::AciTelor::{ user-id=16390988 }, ::{ flag=ID }:: ::teddylie::{ user-id=1236126 }, ::{ flag=ID }:: ::Lxa::{ user-id=20983500 }, ::{ flag=ID }:: ::Hypermaester77::{ user-id=15155081 }, ::{ flag=ID }:: ::Rossi::{ user-id=5569341 }, ::{ flag=ID }:: ::raynald::{ user-id=25094413 } |
+| Low | ::{ flag=ID }:: ::Sagasemat::{ user-id=16761278 }, ::{ flag=ID }:: ::kirikun11::{ user-id=4991728 }, ::{ flag=ID }:: ::FinHazel::{ user-id=13660273 }, ::{ flag=ID }:: ::NasiGaPakeNasi::{ user-id=17519250 }, ::{ flag=ID }:: ::salym::{ user-id=19089549 }, ::{ flag=ID }:: ::Ihram-San::{ user-id=9908055 }, ::{ flag=ID }:: ::Zarumu::{ user-id=18429972 }, ::{ flag=ID }:: ::Strikermens::{ user-id=7276005 }, ::{ flag=ID }:: ::Mamat::{ user-id=3031177 }, ::{ flag=ID }:: ::eZmmR::{ user-id=8647138 } |
 
 ## Podium
 

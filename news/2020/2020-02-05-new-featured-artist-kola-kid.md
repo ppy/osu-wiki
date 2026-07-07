@@ -9,17 +9,17 @@ series: featured_artists
 
 ![](https://assets.ppy.sh/artists/67/header.jpg)
 
-Showcased in [Kert](https://osu.ppy.sh/users/119933)'s 2012 set for [*can't hide your love*](https://osu.ppy.sh/beatmapsets/39732#osu/126446) and again in [Bonsai](https://osu.ppy.sh/users/987334)'s [collab set](https://osu.ppy.sh/beatmapsets/489383#osu/1043092) for *press start* back in 2016, **Kola Kid** is the self-proclaimed Godfather of chiptune fusion.
+Showcased in ::Kert::{ user-id=119933 }'s 2012 set for [*can't hide your love*](https://osu.ppy.sh/beatmapsets/39732#osu/126446) and again in ::Bonsai::{ user-id=987334 }'s [collab set](https://osu.ppy.sh/beatmapsets/489383#osu/1043092) for *press start* back in 2016, **Kola Kid** is the self-proclaimed Godfather of chiptune fusion.
 
 With bleeps and bloops inspired by the video game BGM of yesteryear mixed with tinges of modern electronica, breakcore, punk and rap, his work is a unique blend of a bunch of stuff that just straight up *works*.
 
-The Mappers' Guild has been hard at work creating a few sets to highlight exactly how the magic comes together in more modern mapping styles, piloted by the minds of [Mirash](https://osu.ppy.sh/users/2841009) and [ShirohaMyMommy](https://osu.ppy.sh/users/1603923) (aka: Delis).
+The Mappers' Guild has been hard at work creating a few sets to highlight exactly how the magic comes together in more modern mapping styles, piloted by the minds of ::Mirash::{ user-id=2841009 } and [ShirohaMyMommy](https://osu.ppy.sh/users/1603923) (aka: Delis).
 
 Sound interesting? Check out a few samples for yourself below:
 
 ### press start
 
-*[Check out this collab set](https://osu.ppy.sh/beatmapsets/489383#osu/1043092) hosted by [Bonsai](https://osu.ppy.sh/users/987334)!*
+*[Check out this collab set](https://osu.ppy.sh/beatmapsets/489383#osu/1043092) hosted by ::Bonsai::{ user-id=987334 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/67/previews/1877.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Sound interesting? Check out a few samples for yourself below:
 
 ### timer
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/1089084#osu/2277126) by [Mirash](https://osu.ppy.sh/users/2841009)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/1089084#osu/2277126) by ::Mirash::{ user-id=2841009 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/67/previews/1878.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Sound interesting? Check out a few samples for yourself below:
 
 ### can't hide your love
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/1099325#osu/2296606) by [ShirohaMyMommy](https://osu.ppy.sh/users/1603923)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/1099325#osu/2296606) by ::ShirohaMyMommy::{ user-id=1603923 }!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/67/previews/1864.mp3" type="audio/mpeg">

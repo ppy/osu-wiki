@@ -20,19 +20,19 @@ Diese Personen wurden vom osu!-Team als Completionists anerkannt:
 
 | Spieler | Abschlussdatum | Insgesamt gespielte Schwierigkeitsgrade |
 | :-- | :-- | :-- |
-| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | 27.04.2019 | 60.845 |
-| ::{ flag=PL }:: [PookieBear](https://osu.ppy.sh/users/7635621) | 11.08.2021 | 82.298 |
-| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | 12.03.2023 | 99.842 |
+| ::{ flag=US }:: ::xasuma::{ user-id=3172980 } | 27.04.2019 | 60.845 |
+| ::{ flag=PL }:: ::PookieBear::{ user-id=7635621 } | 11.08.2021 | 82.298 |
+| ::{ flag=US }:: ::EEEEEEEEEEEEEEE::{ user-id=2927048 } | 12.03.2023 | 99.842 |
 
 ### osu!taiko
 
 | Spieler | Abschlussdatum | Insgesamt gespielte Schwierigkeitsgrade |
 | :-- | :-- | :-- |
-| ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | 03.11.2019 | 8.841 |
-| ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) | 14.08.2023 | 22.170 |
+| ::{ flag=AU }:: ::Jaye::{ user-id=4841352 } | 03.11.2019 | 8.841 |
+| ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } | 14.08.2023 | 22.170 |
 
 ## Trivia
 
-- ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) wurde mit dem [Nutzertitel](/wiki/Community/User_title) *The First Completionist* ausgezeichnet, da er als Erster überhaupt diese Errungenschaft erreichte.
-- ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) wurde mit dem Nutzertitel *Drum Decimator* ausgezeichnet, da er im Spielmodus osu!taiko als Erster alle gerankten Beatmaps mit einer [vollständigen Combo](/wiki/Gameplay/Full_combo) abgeschlossen hat.
+- ::{ flag=US }:: ::xasuma::{ user-id=3172980 } wurde mit dem [Nutzertitel](/wiki/Community/User_title) *The First Completionist* ausgezeichnet, da er als Erster überhaupt diese Errungenschaft erreichte.
+- ::{ flag=AU }:: ::Jaye::{ user-id=4841352 } wurde mit dem Nutzertitel *Drum Decimator* ausgezeichnet, da er im Spielmodus osu!taiko als Erster alle gerankten Beatmaps mit einer [vollständigen Combo](/wiki/Gameplay/Full_combo) abgeschlossen hat.
 - Bis September 2023 bekamen Nutzer den Nutzertitel *osu!completionist* verliehen, der dann von Profilabzeichen abgelöst wurde.

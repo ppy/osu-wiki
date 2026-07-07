@@ -23,9 +23,9 @@ With tarczynski esports' all-Polish lineup claiming the championship title, Monk
 
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/118466335)**
 
-Our first highlight match didn't take long to heat up with *two* break points straight away, where *esnupicore* was the first to strike on [Golden Days Remix](https://osu.ppy.sh/beatmapsets/1867675#osu/3841983) (FM2) after recovering from early breaks, and with *manie pls spaRE ME* quickly answering back on [We are](https://osu.ppy.sh/beatmapsets/2388768#osu/5169354) (DT1) in a nail-biting ending thanks to ::{ flag=BE }:: [hexi](https://osu.ppy.sh/users/10760701)'s huge spinner carry that flipped the score by just 5,990 points. After trading another set of maps, ::{ flag=BR }:: [-izzy](https://osu.ppy.sh/users/15225729)'s clutch combo on [Ether](https://osu.ppy.sh/beatmapsets/2388729#osu/5169231) (HR1) helped *esnupicore* reclaim a break point and keep the series alive at 2–3.
+Our first highlight match didn't take long to heat up with *two* break points straight away, where *esnupicore* was the first to strike on [Golden Days Remix](https://osu.ppy.sh/beatmapsets/1867675#osu/3841983) (FM2) after recovering from early breaks, and with *manie pls spaRE ME* quickly answering back on [We are](https://osu.ppy.sh/beatmapsets/2388768#osu/5169354) (DT1) in a nail-biting ending thanks to ::{ flag=BE }:: ::hexi::{ user-id=10760701 }'s huge spinner carry that flipped the score by just 5,990 points. After trading another set of maps, ::{ flag=BR }:: ::-izzy::{ user-id=15225729 }'s clutch combo on [Ether](https://osu.ppy.sh/beatmapsets/2388729#osu/5169231) (HR1) helped *esnupicore* reclaim a break point and keep the series alive at 2–3.
 
-Despite *manie pls spaRE ME* reaching match point at 4–2, *esnupicore* mounted a comeback, led by ::{ flag=BR }:: [Kurumiw](https://osu.ppy.sh/users/11415687)'s consistency on [Oceanus](https://osu.ppy.sh/beatmapsets/1871924#osu/3851547) (NM2) and a dominant [Braget](https://osu.ppy.sh/beatmapsets/1621901#osu/3311356) (DT2) pick that forced the tiebreaker. Riding early combo and accuracy leads, *esnupicore* held firm through constant pressure, closing out the reverse sweep at 5–4 to secure their spot in the upper bracket of the Round of 16.
+Despite *manie pls spaRE ME* reaching match point at 4–2, *esnupicore* mounted a comeback, led by ::{ flag=BR }:: ::Kurumiw::{ user-id=11415687 }'s consistency on [Oceanus](https://osu.ppy.sh/beatmapsets/1871924#osu/3851547) (NM2) and a dominant [Braget](https://osu.ppy.sh/beatmapsets/1621901#osu/3311356) (DT2) pick that forced the tiebreaker. Riding early combo and accuracy leads, *esnupicore* held firm through constant pressure, closing out the reverse sweep at 5–4 to secure their spot in the upper bracket of the Round of 16.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/SUvLq2jobEs" frameborder="0" allowfullscreen></iframe>
@@ -35,7 +35,7 @@ Despite *manie pls spaRE ME* reaching match point at 4–2, *esnupicore* mounted
 
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/118517694)**
 
-The Round of 16 clash between *FIAT MULTIPLA* and *nugroho and co* was a tense back-and-forth battle that went the full distance, with *FIAT MULTIPLA* emerging victorious 5–4 after a thrilling tiebreaker finish. The red team opened strong with commanding wins on [Far east nightbird](https://osu.ppy.sh/beatmapsets/144171#osu/358272) (DT1) and [Lone Wanderer](https://osu.ppy.sh/beatmapsets/2392357#osu/5179439) (FM1), but *nugroho and co* struck back with decisive performances on [Romanesque](https://osu.ppy.sh/beatmapsets/1627446#osu/3322513) (NM2), [Dokuhai Swallow](https://osu.ppy.sh/beatmapsets/2392247#osu/5179205) (NM3), and [Cross Over](https://osu.ppy.sh/beatmapsets/1209029#osu/2517295) (HR1) to push the match to its limit. With standout plays from ::{ flag=AU }:: [JeffGlorpington](https://osu.ppy.sh/users/7341183) and ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943), *FIAT MULTIPLA* held steady under pressure and closed out the tiebreaker to advance to the upper bracket of the Quarterfinals.
+The Round of 16 clash between *FIAT MULTIPLA* and *nugroho and co* was a tense back-and-forth battle that went the full distance, with *FIAT MULTIPLA* emerging victorious 5–4 after a thrilling tiebreaker finish. The red team opened strong with commanding wins on [Far east nightbird](https://osu.ppy.sh/beatmapsets/144171#osu/358272) (DT1) and [Lone Wanderer](https://osu.ppy.sh/beatmapsets/2392357#osu/5179439) (FM1), but *nugroho and co* struck back with decisive performances on [Romanesque](https://osu.ppy.sh/beatmapsets/1627446#osu/3322513) (NM2), [Dokuhai Swallow](https://osu.ppy.sh/beatmapsets/2392247#osu/5179205) (NM3), and [Cross Over](https://osu.ppy.sh/beatmapsets/1209029#osu/2517295) (HR1) to push the match to its limit. With standout plays from ::{ flag=AU }:: ::JeffGlorpington::{ user-id=7341183 } and ::{ flag=AU }:: ::aknzx::{ user-id=9938943 }, *FIAT MULTIPLA* held steady under pressure and closed out the tiebreaker to advance to the upper bracket of the Quarterfinals.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/pUin9YEGl5A" frameborder="0" allowfullscreen></iframe>
@@ -45,7 +45,7 @@ The Round of 16 clash between *FIAT MULTIPLA* and *nugroho and co* was a tense b
 
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/118660149)**
 
-*Waddle Dee* only narrowly triumphed over their fellow Canadian rivals *Waddle Doo* in a 6–5 thriller that also went all the way to tiebreaker. Both teams traded blows throughout the set, with standout performances from ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077), who nearly solo-carried [Shoujo Satori ~ Innumerable Eyes](https://osu.ppy.sh/beatmapsets/2027920#osu/4225817) (DT3), and ::{ flag=CA }:: [ploot](https://osu.ppy.sh/users/7802400), whose consistency kept *Waddle Dee* alive through multiple clutch maps. Despite *Waddle Doo* reaching match point at 5–4, Waddle Dee held firm to force a final map and edged out the victory by just 20,000 points in a nail-biting finale.
+*Waddle Dee* only narrowly triumphed over their fellow Canadian rivals *Waddle Doo* in a 6–5 thriller that also went all the way to tiebreaker. Both teams traded blows throughout the set, with standout performances from ::{ flag=CA }:: ::Zylice::{ user-id=5033077 }, who nearly solo-carried [Shoujo Satori ~ Innumerable Eyes](https://osu.ppy.sh/beatmapsets/2027920#osu/4225817) (DT3), and ::{ flag=CA }:: ::ploot::{ user-id=7802400 }, whose consistency kept *Waddle Dee* alive through multiple clutch maps. Despite *Waddle Doo* reaching match point at 5–4, Waddle Dee held firm to force a final map and edged out the victory by just 20,000 points in a nail-biting finale.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/JlR5i0-IASU" frameborder="0" allowfullscreen></iframe>
@@ -56,9 +56,9 @@ The Round of 16 clash between *FIAT MULTIPLA* and *nugroho and co* was a tense b
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/118931798)**\
 **[You can view the match information of the bracket reset here!](https://osu.ppy.sh/community/matches/118932613)**
 
-The Grand Finals between *Monkey Business* and *tarczynski esports* was a nail-biting spectacle that delivered non-stop action across two sets. In the first set, ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) took the crucial [Terminal](https://osu.ppy.sh/beatmapsets/2414185#osu/5245140) (HD3) breakpoint for *Monkey Business*, while ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528) stepped up with an incredible 800k score on [The Agony & The Ecstasy](https://osu.ppy.sh/beatmapsets/2414092#osu/5244932) (DT1), helping to tie the series 5-5 in a tense back-and-forth. However, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961)'s dominant 600k performance on the last pick of [Jiyuu no Koe](https://osu.ppy.sh/beatmapsets/2414021#osu/5244684) (HR1)  pulled a lot of weight for *tarczynski esports*, allowing them to clinch the final two maps and win the set 7–5, forcing a bracket reset.
+The Grand Finals between *Monkey Business* and *tarczynski esports* was a nail-biting spectacle that delivered non-stop action across two sets. In the first set, ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 } took the crucial [Terminal](https://osu.ppy.sh/beatmapsets/2414185#osu/5245140) (HD3) breakpoint for *Monkey Business*, while ::{ flag=TR }:: ::Raikouhou::{ user-id=8007528 } stepped up with an incredible 800k score on [The Agony & The Ecstasy](https://osu.ppy.sh/beatmapsets/2414092#osu/5244932) (DT1), helping to tie the series 5-5 in a tense back-and-forth. However, ::{ flag=PL }:: ::MALISZEWSKI::{ user-id=12408961 }'s dominant 600k performance on the last pick of [Jiyuu no Koe](https://osu.ppy.sh/beatmapsets/2414021#osu/5244684) (HR1)  pulled a lot of weight for *tarczynski esports*, allowing them to clinch the final two maps and win the set 7–5, forcing a bracket reset.
 
-The second set saw *tarczynski esports* build a strong 5-2 lead, taking three consecutive points and reaching match point at 6–3. *Monkey Business*, fuelled by ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659)'s insane 800k score on [Terminal](https://osu.ppy.sh/beatmapsets/2414185#osu/5245140) (HD3), mounted a spirited comeback to push the series to a tiebreaker. In the final map showdown, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) — the "tiebreaker final boss" — pushed ahead early with over 1,000 combo and ultimately sealed a breathtaking 7–6 victory for *tarczynski esports*.
+The second set saw *tarczynski esports* build a strong 5-2 lead, taking three consecutive points and reaching match point at 6–3. *Monkey Business*, fuelled by ::{ flag=DE }:: ::criller::{ user-id=8116659 }'s insane 800k score on [Terminal](https://osu.ppy.sh/beatmapsets/2414185#osu/5245140) (HD3), mounted a spirited comeback to push the series to a tiebreaker. In the final map showdown, ::{ flag=PL }:: ::MALISZEWSKI::{ user-id=12408961 } — the "tiebreaker final boss" — pushed ahead early with over 1,000 combo and ultimately sealed a breathtaking 7–6 victory for *tarczynski esports*.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Cma8jvBXQR4" frameborder="0" allowfullscreen></iframe>
@@ -154,7 +154,7 @@ This brings us to the current chapter. Serenity, drawn by ambition, sought the p
     }
 </style>
 
-[OsuMe65](https://osu.ppy.sh/users/852867) has taken the lead GFX role in our production team, and every single piece of art you have seen in beatmaps, livestreams, website, forum post and this news post as well are coordinated by his hard work.
+::OsuMe65::{ user-id=852867 } has taken the lead GFX role in our production team, and every single piece of art you have seen in beatmaps, livestreams, website, forum post and this news post as well are coordinated by his hard work.
 
 Here is a brief text-based interview with him:
 
@@ -248,7 +248,7 @@ Even more people were involved in making Resurrection Cup happen this year compa
 
 ![](/wiki/shared/news/2025-11-17-resurrection-cup-2025-results/krimek-and-eili.jpg)
 
-As members of the Resurrection Cup sound team, [Krimek](https://osu.ppy.sh/users/2345078) and [eili](https://osu.ppy.sh/users/37455438) were an integral part of the production team, as they not only helped and administrated everything that involved our [originals](#resurrection-cup-2025-originals), but they also made sure that the staggering amount of them fit the pooling, mapping and were just chill to listen to in general.
+As members of the Resurrection Cup sound team, ::Krimek::{ user-id=2345078 } and [eili](https://osu.ppy.sh/users/37455438) were an integral part of the production team, as they not only helped and administrated everything that involved our [originals](#resurrection-cup-2025-originals), but they also made sure that the staggering amount of them fit the pooling, mapping and were just chill to listen to in general.
 
 ---
 
@@ -328,7 +328,7 @@ I don't think we've hit a "peak," but I also don't think bigger numbers should b
 
 ![](/wiki/shared/news/2025-11-17-resurrection-cup-2025-results/daycore-and-yumerios.jpg)
 
-As members of the mappool quality assurance team, [Daycore](https://osu.ppy.sh/users/5596337) and [Yumerios](https://osu.ppy.sh/users/11681430) did an extremely good job at seamlessly integrating nearly 80 custom maps all across the pools.
+As members of the mappool quality assurance team, ::Daycore::{ user-id=5596337 } and [Yumerios](https://osu.ppy.sh/users/11681430) did an extremely good job at seamlessly integrating nearly 80 custom maps all across the pools.
 
 ---
 
@@ -408,7 +408,7 @@ Only thing I would've wanted is for something that had a bit of a higher bpm, be
 
 ![](/wiki/shared/news/2025-11-17-resurrection-cup-2025-results/niqht.jpg)
 
-With all those custom maps, someone has to make sure they are all of great quality and spectacular to experience even as a player, not just from an artistic perspective which mappers tend to have. [niqht](https://osu.ppy.sh/users/14390731) is one of the playtesters who helped achieve this.
+With all those custom maps, someone has to make sure they are all of great quality and spectacular to experience even as a player, not just from an artistic perspective which mappers tend to have. ::niqht::{ user-id=14390731 } is one of the playtesters who helped achieve this.
 
 ---
 

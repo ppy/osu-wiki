@@ -2,7 +2,7 @@
 
 ## January
 
-osu! makes its way to the iPhone as a port done by [nuudles](https://osu.ppy.sh/users/21312). The project was given its own [subforum](https://osu.ppy.sh/community/forums/47), now archived.[^iphone]
+osu! makes its way to the iPhone as a port done by ::nuudles::{ user-id=21312 }. The project was given its own [subforum](https://osu.ppy.sh/community/forums/47), now archived.[^iphone]
 
 ![](img/2009-01_01.jpg "osu! iPhone's Title screen")
 
@@ -92,7 +92,7 @@ As of 6 September, all [Taiko scores were reset](https://osu.ppy.sh/community/fo
 
 A new ranking info screen was added which laid the groundwork for the ranking chart system implemented at a later point.[^stable-b1077][^custom-changelog]
 
-The 10,000th beatmap was submitted, [Imogen Heap - Sweet Religion](https://osu.ppy.sh/beatmapsets/10000#osu/97517) by [Larto](https://osu.ppy.sh/users/12328).[^beatmap-10k]
+The 10,000th beatmap was submitted, [Imogen Heap - Sweet Religion](https://osu.ppy.sh/beatmapsets/10000#osu/97517) by ::Larto::{ user-id=12328 }.[^beatmap-10k]
 
 In addition to osu! news in July 2009, the [changelog](/wiki/Changelog) became available as a RSS feed on 25 October too.[^rss-changelog]
 

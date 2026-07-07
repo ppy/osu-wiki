@@ -17,7 +17,7 @@ Hailing from the Philippines, freelance producer **Sukima Altera** (known in the
 
 ### Sukima Altera - INDUSTRY SLAYER
 
-*BMS of Fighters* is an annual contest for the doujin music scene. **Sukima Altera** debuted in the contest with his track *INDUSTRY SLAYER*, which also happens to be the track **Sukima Altera** debuted with [in osu!'s Ranked section](https://osu.ppy.sh/beatmapsets/2472648) thanks to [Wispy](https://osu.ppy.sh/users/11106929)!
+*BMS of Fighters* is an annual contest for the doujin music scene. **Sukima Altera** debuted in the contest with his track *INDUSTRY SLAYER*, which also happens to be the track **Sukima Altera** debuted with [in osu!'s Ranked section](https://osu.ppy.sh/beatmapsets/2472648) thanks to ::Wispy::{ user-id=11106929 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

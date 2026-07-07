@@ -21,7 +21,7 @@ If you're reading this, you already know that music is best experienced in sync 
 
 ### Juztan - Ba11istiC
 
-*EPIC.LAN 47* happened in the United Kingdom last weekend, dragging osu! players out of their homes and into the real world. [spanner dude](https://osu.ppy.sh/users/12489832) was there just in time to play [6_9](https://osu.ppy.sh/users/2998248)'s [osu!taiko map of Ba11istiC](https://osu.ppy.sh/beatmapsets/2480810) specifically for today's announcement!
+*EPIC.LAN 47* happened in the United Kingdom last weekend, dragging osu! players out of their homes and into the real world. ::spanner dude::{ user-id=12489832 } was there just in time to play ::6\19::{ user-id=2998248 }'s [osu!taiko map of Ba11istiC](https://osu.ppy.sh/beatmapsets/2480810) specifically for today's announcement!
 
 <div align="center" class="osu-md__paragraph">
     <video width="85%" controls>

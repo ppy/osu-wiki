@@ -9,7 +9,7 @@ tags:
 
 ![AIT 2023: LCQ banner](img/banner.png)
 
-The **Ascaveth Invitational Tournament 2023: Last Chance Qualifier** (***AIT 2023: LCQ***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206). The tournament was open to all players from Indonesia as a way to qualify to the main [Ascaveth Invitational](/wiki/Tournaments/AIT) LAN tournament. It was the first Last Chance Qualifier event to be held in the history of the Ascaveth Invitational Tournament.
+The **Ascaveth Invitational Tournament 2023: Last Chance Qualifier** (***AIT 2023: LCQ***) was an Indonesian double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }. The tournament was open to all players from Indonesia as a way to qualify to the main [Ascaveth Invitational](/wiki/Tournaments/AIT) LAN tournament. It was the first Last Chance Qualifier event to be held in the history of the Ascaveth Invitational Tournament.
 
 ## Tournament schedule
 
@@ -34,18 +34,18 @@ The Ascaveth Invitational Tournament 2023 was run by various osu! community memb
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) |
-| Admin | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Deorum](https://osu.ppy.sh/users/5933031), ::{ flag=ID }:: [Rumberkren](https://osu.ppy.sh/users/3925053), ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490) |
-| Mappool selector | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) |
-| Mappool helper | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966) |
-| Custom mapper | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [jiwoas](https://osu.ppy.sh/users/10778215) |
-| Playtester | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
-| Streamer | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
-| Commentator | ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
-| Referee | ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=ID }:: [lucidators](https://osu.ppy.sh/users/10154981), ::{ flag=ID }:: [-\[ Shinraa \]-](https://osu.ppy.sh/users/26942053), ::{ flag=ID }:: [WoodenPickaxe](https://osu.ppy.sh/users/14463105), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864) |
-| Graphic designer | ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Nexa-](https://osu.ppy.sh/users/6155896) |
-| Spreadsheet manager | ::{ flag=ID }:: [Sunohara Shun](https://osu.ppy.sh/users/3484548) |
-| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 } |
+| Admin | ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, ::{ flag=ID }:: ::Crezz::{ user-id=7108275 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::Deorum::{ user-id=5933031 }, ::{ flag=ID }:: ::Rumberkren::{ user-id=3925053 }, ::{ flag=ID }:: ::Genjitsu::{ user-id=3531490 } |
+| Mappool selector | ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, ::{ flag=ID }:: ::Crezz::{ user-id=7108275 }, ::{ flag=ID }:: ::fnayR::{ user-id=2800253 } |
+| Mappool helper | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Raids::{ user-id=15640966 } |
+| Custom mapper | ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, ::{ flag=ID }:: ::Crezz::{ user-id=7108275 }, ::{ flag=ID }:: ::Raids::{ user-id=15640966 }, ::{ flag=ID }:: ::jiwoas::{ user-id=10778215 } |
+| Playtester | ::{ flag=MY }:: ::Laphii::{ user-id=9364594 } |
+| Streamer | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::Victim\1Crasher::{ user-id=2084869 }, ::{ flag=MY }:: ::Laphii::{ user-id=9364594 } |
+| Commentator | ::{ flag=ID }:: ::Ascaveth::{ user-id=3245206 }, ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Victim\1Crasher::{ user-id=2084869 }, ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 }, ::{ flag=ID }:: ::Seox::{ user-id=3793938 } |
+| Referee | ::{ flag=ID }:: ::Intel21::{ user-id=1272422 }, ::{ flag=ID }:: ::YaeMyMommy::{ user-id=17278897 }, ::{ flag=ID }:: ::lucidators::{ user-id=10154981 }, ::{ flag=ID }:: ::-\[ Shinraa \]-::{ user-id=26942053 }, ::{ flag=ID }:: ::WoodenPickaxe::{ user-id=14463105 }, ::{ flag=ID }:: ::Artaa27::{ user-id=12085864 } |
+| Graphic designer | ::{ flag=ID }:: ::Zavier::{ user-id=11379592 }, ::{ flag=ID }:: ::Nexa-::{ user-id=6155896 } |
+| Spreadsheet manager | ::{ flag=ID }:: ::Sunohara Shun::{ user-id=3484548 } |
+| Wiki editor | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
 
 ## Links
 
@@ -217,15 +217,15 @@ Sunday, 29 October 2023:
 
 | Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| NGF-1 | **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** ::{ flag=ID }:: | **7** | 5 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/111072284) |
+| NGF-1 | **::Rosemi Lovelock::{ user-id=1987591 }** ::{ flag=ID }:: | **7** | 5 | ::{ flag=ID }:: ::DeathHydra::{ user-id=7457788 } | [#1](https://osu.ppy.sh/community/matches/111072284) |
 
 Monday, 30 October 2023:
 
 | Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| NGF-2 | **[DEETO](https://osu.ppy.sh/users/7457788)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/111099149) |
+| NGF-2 | **::DEETO::{ user-id=7457788 }** ::{ flag=ID }:: | **7** | 0 | ::{ flag=ID }:: ::Rosemi Lovelock::{ user-id=1987591 } | [#1](https://osu.ppy.sh/community/matches/111099149) |
 
-::{ flag=ID }:: ***[DEETO](https://osu.ppy.sh/users/7457788)** went on to qualify for the Ascaveth Invitational Tournament 2023 as the second winner of the Last Chance Qualifier.*
+::{ flag=ID }:: ***::DEETO::{ user-id=7457788 }** went on to qualify for the Ascaveth Invitational Tournament 2023 as the second winner of the Last Chance Qualifier.*
 
 ### Grand Finals (week 1)
 
@@ -233,15 +233,15 @@ Saturday, 21 October 2023:
 
 | Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| LGF-1 | [DeathHydra](https://osu.ppy.sh/users/7457788) ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/7457788)** | [#1](https://osu.ppy.sh/community/matches/110970349) |
+| LGF-1 | ::DeathHydra::{ user-id=7457788 } ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **::DEETO::{ user-id=7457788 }** | [#1](https://osu.ppy.sh/community/matches/110970349) |
 
 Sunday, 22 October 2023:
 
 | Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| GF-1 | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **7** | 5 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/110986762) |
+| GF-1 | **::ThatNOOBGuy::{ user-id=11091594 }** ::{ flag=ID }:: | **7** | 5 | ::{ flag=ID }:: ::DEETO::{ user-id=7457788 } | [#1](https://osu.ppy.sh/community/matches/110986762) |
 
-::{ flag=ID }:: ***[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** went on to qualify for the Ascaveth Invitational Tournament 2023 as the first winner of the Last Chance Qualifier.*
+::{ flag=ID }:: ***::ThatNOOBGuy::{ user-id=11091594 }** went on to qualify for the Ascaveth Invitational Tournament 2023 as the first winner of the Last Chance Qualifier.*
 
 ### Finals
 
@@ -249,15 +249,15 @@ Saturday, 14 October 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/110871694) |
-| Lower | **[DEETO](https://osu.ppy.sh/users/7457788)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | [#1](https://osu.ppy.sh/community/matches/110876209) |
-| Lower | **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** ::{ flag=ID }:: | **7** | 0 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | *win by default* |
+| Upper | **::ThatNOOBGuy::{ user-id=11091594 }** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: ::DeathHydra::{ user-id=7457788 } | [#1](https://osu.ppy.sh/community/matches/110871694) |
+| Lower | **::DEETO::{ user-id=7457788 }** ::{ flag=ID }:: | **7** | 0 | ::{ flag=ID }:: ::XenoitesBadPog::{ user-id=11461426 } | [#1](https://osu.ppy.sh/community/matches/110876209) |
+| Lower | **::Rosemi Lovelock::{ user-id=1987591 }** ::{ flag=ID }:: | **7** | 0 | ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } | *win by default* |
 
 Sunday, 15 October 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/7457788)** | [#1](https://osu.ppy.sh/community/matches/110892709) |
+| Lower | ::Rosemi Lovelock::{ user-id=1987591 } ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **::DEETO::{ user-id=7457788 }** | [#1](https://osu.ppy.sh/community/matches/110892709) |
 
 ### Semifinals
 
@@ -265,15 +265,15 @@ Saturday, 7 October 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[BlankTap](https://osu.ppy.sh/users/10137131)** | [#1](https://osu.ppy.sh/community/matches/110774274) |
-| Upper | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/7457788) | *win by default* |
+| Lower | ::Ninomae Ina-nis::{ user-id=11983229 } ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **::BlankTap::{ user-id=10137131 }** | [#1](https://osu.ppy.sh/community/matches/110774274) |
+| Upper | **::ThatNOOBGuy::{ user-id=11091594 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: ::DEETO::{ user-id=7457788 } | *win by default* |
 
 Sunday, 8 October 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[DeathHydra](https://osu.ppy.sh/users/7457788)** | [#1](https://osu.ppy.sh/community/matches/110795862) |
-| Lower | [Suikami](https://osu.ppy.sh/users/1929336) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[XenoitesBadPog](https://osu.ppy.sh/users/11461426)** | [#1](https://osu.ppy.sh/community/matches/110796867) |
+| Upper | ::Rosemi Lovelock::{ user-id=1987591 } ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **::DeathHydra::{ user-id=7457788 }** | [#1](https://osu.ppy.sh/community/matches/110795862) |
+| Lower | ::Suikami::{ user-id=1929336 } ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **::XenoitesBadPog::{ user-id=11461426 }** | [#1](https://osu.ppy.sh/community/matches/110796867) |
 
 ### Quarterfinals
 
@@ -281,15 +281,15 @@ Saturday, 30 September 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[DeathHydra](https://osu.ppy.sh/users/7457788)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [XenoitesBadPog](https://osu.ppy.sh/users/11461426) | [#1](https://osu.ppy.sh/community/matches/110677568) |
-| Upper | **[DEETO](https://osu.ppy.sh/users/7457788)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/11461426) | [#1](https://osu.ppy.sh/community/matches/110677568) |
-| Upper | **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Ninomae Ina-nis](https://osu.ppy.sh/users/11983229) | *win by default* |
+| Upper | **::DeathHydra::{ user-id=7457788 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: ::XenoitesBadPog::{ user-id=11461426 } | [#1](https://osu.ppy.sh/community/matches/110677568) |
+| Upper | **::DEETO::{ user-id=7457788 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: ::BlankTap::{ user-id=11461426 } | [#1](https://osu.ppy.sh/community/matches/110677568) |
+| Upper | **::ThatNOOBGuy::{ user-id=11091594 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: ::Ninomae Ina-nis::{ user-id=11983229 } | *win by default* |
 
 Sunday, 1 October 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) | [#1](https://osu.ppy.sh/community/matches/110698374) |
+| Upper | **::Rosemi Lovelock::{ user-id=1987591 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: ::Suikami::{ user-id=1929336 } | [#1](https://osu.ppy.sh/community/matches/110698374) |
 
 ### Qualifiers
 
@@ -297,26 +297,26 @@ The detailed standings for the Qualifier stage can be found in the following [sp
 
 | Seed No. | Player | Z-Sum |
 | :-: | :-- | :-- |
-| 1 | ::{ flag=ID }:: **[ThatNOOBGuy](https://osu.ppy.sh/users/11091594)** | 9.84 |
-| 2 | ::{ flag=ID }:: **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** | 8.70 |
-| 3 | ::{ flag=ID }:: **[DeathHydra](https://osu.ppy.sh/users/7457788)** | 7.91 |
-| 4 | ::{ flag=ID }:: **[DEETO](https://osu.ppy.sh/users/10069909)** | 7.49 |
-| 5 | ::{ flag=ID }:: **[BlankTap](https://osu.ppy.sh/users/10137131)** | 7.24 |
-| 6 | ::{ flag=ID }:: **[XenoitesBadPog](https://osu.ppy.sh/users/11461426)** | 7.09 |
-| 7 | ::{ flag=ID }:: **[Suikami](https://osu.ppy.sh/users/1929336)** | 6.76 |
-| 8 | ::{ flag=ID }:: **[Ninomae Ina-nis](https://osu.ppy.sh/users/11983229)** | 6.59 |
-| 9 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 6.55 |
-| 10 | ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510) | 5.92 |
-| 11 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | 5.80 |
-| 12 | ::{ flag=ID }:: [Kirinagi](https://osu.ppy.sh/users/5937545) | 5.25 |
-| 13 | ::{ flag=ID }:: [timing](https://osu.ppy.sh/users/12763134) | 5.03 |
-| 14 | ::{ flag=ID }:: [\[u\_u\]](https://osu.ppy.sh/users/8688737) | 4.97 |
-| 15 | ::{ flag=ID }:: [Sirius Symboli](https://osu.ppy.sh/users/11025519) | 4.48 |
-| 16 | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) | 3.23 |
-| 17 | ::{ flag=ID }:: [MaxNoLimit](https://osu.ppy.sh/users/13415030) | 2.65 |
-| 18 | ::{ flag=ID }:: [GabenRipAim](https://osu.ppy.sh/users/19036792) | 1.22 |
-| 19 | ::{ flag=ID }:: [NasiGaPakeNasi](https://osu.ppy.sh/users/17519250) | 1.14 |
-| 20 | ::{ flag=ID }:: [Alvin\_Gaming](https://osu.ppy.sh/users/29999134) | 0.70 |
+| 1 | ::{ flag=ID }:: **::ThatNOOBGuy::{ user-id=11091594 }** | 9.84 |
+| 2 | ::{ flag=ID }:: **::Rosemi Lovelock::{ user-id=1987591 }** | 8.70 |
+| 3 | ::{ flag=ID }:: **::DeathHydra::{ user-id=7457788 }** | 7.91 |
+| 4 | ::{ flag=ID }:: **::DEETO::{ user-id=10069909 }** | 7.49 |
+| 5 | ::{ flag=ID }:: **::BlankTap::{ user-id=10137131 }** | 7.24 |
+| 6 | ::{ flag=ID }:: **::XenoitesBadPog::{ user-id=11461426 }** | 7.09 |
+| 7 | ::{ flag=ID }:: **::Suikami::{ user-id=1929336 }** | 6.76 |
+| 8 | ::{ flag=ID }:: **::Ninomae Ina-nis::{ user-id=11983229 }** | 6.59 |
+| 9 | ::{ flag=ID }:: ::MejiroMcQueen::{ user-id=11320627 } | 6.55 |
+| 10 | ::{ flag=ID }:: ::Anhydrous::{ user-id=11272510 } | 5.92 |
+| 11 | ::{ flag=ID }:: ::Caruma::{ user-id=13187450 } | 5.80 |
+| 12 | ::{ flag=ID }:: ::Kirinagi::{ user-id=5937545 } | 5.25 |
+| 13 | ::{ flag=ID }:: ::timing::{ user-id=12763134 } | 5.03 |
+| 14 | ::{ flag=ID }:: ::\[u\_u\]::{ user-id=8688737 } | 4.97 |
+| 15 | ::{ flag=ID }:: ::Sirius Symboli::{ user-id=11025519 } | 4.48 |
+| 16 | ::{ flag=ID }:: ::Seox::{ user-id=3793938 } | 3.23 |
+| 17 | ::{ flag=ID }:: ::MaxNoLimit::{ user-id=13415030 } | 2.65 |
+| 18 | ::{ flag=ID }:: ::GabenRipAim::{ user-id=19036792 } | 1.22 |
+| 19 | ::{ flag=ID }:: ::NasiGaPakeNasi::{ user-id=17519250 } | 1.14 |
+| 20 | ::{ flag=ID }:: ::Alvin\_Gaming::{ user-id=29999134 } | 0.70 |
 
 ## Ruleset
 
@@ -344,12 +344,12 @@ The detailed standings for the Qualifier stage can be found in the following [sp
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. The following players are not eligible to participate in the Last Chance Qualifier as they have managed to qualify into Ascaveth Invitational Tournament 2023 through other means:
-   - ::{ flag=ID }:: **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** (*[Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) winner*)
-   - ::{ flag=ID }:: **[Skydiver](https://osu.ppy.sh/users/4750008)** (*[Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) runner-up*)
-   - ::{ flag=ID }:: **[lifeline](https://osu.ppy.sh/users/11367222)** (*[osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) winner*)
-   - ::{ flag=ID }:: **[rHO](https://osu.ppy.sh/users/1629553)** (*[osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) runner-up*)
-   - ::{ flag=ID }:: **[NazunaAmemiya](https://osu.ppy.sh/users/12159899)** (*[osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) 3rd-place finisher*)
-   - ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)** (*[osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) best non-podium finisher*)
+   - ::{ flag=ID }:: **::Hakui Koyori::{ user-id=10717635 }** (*[Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) winner*)
+   - ::{ flag=ID }:: **::Skydiver::{ user-id=4750008 }** (*[Ascaveth Invitational Tournament 2022](/wiki/Tournaments/AIT/2022) runner-up*)
+   - ::{ flag=ID }:: **::lifeline::{ user-id=11367222 }** (*[osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) winner*)
+   - ::{ flag=ID }:: **::rHO::{ user-id=1629553 }** (*[osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) runner-up*)
+   - ::{ flag=ID }:: **::NazunaAmemiya::{ user-id=12159899 }** (*[osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) 3rd-place finisher*)
+   - ::{ flag=ID }:: **::Fuma::{ user-id=1501956 }** (*[osu! Indonesia Tournament #13 (2023)](/wiki/Tournaments/OIT/2023) best non-podium finisher*)
 5. Testplayers, referees, custom mappers, and mappool selectors may also not participate as players in this tournament.
 6. By registering, each player acknowledges that they are willing and able to participate in the upcoming Ascaveth Invitational Tournament 2023 in person should they qualify from the Last Chance Qualifier.
 

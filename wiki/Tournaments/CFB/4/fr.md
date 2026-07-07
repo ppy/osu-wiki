@@ -8,7 +8,7 @@ tags:
 
 ![CFB4 logo](img/logo.png)
 
-La **Catch French Beginner 4** (***CFB4***) était un tournoi 1v1 français débutant en osu!catch organisé par ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077). C'était la quatrième édition de la Catch French Beginner.
+La **Catch French Beginner 4** (***CFB4***) était un tournoi 1v1 français débutant en osu!catch organisé par ::{ flag=FR }:: ::Kaleesy Pura::{ user-id=1800077 }. C'était la quatrième édition de la Catch French Beginner.
 
 ## Planning du tournoi
 
@@ -33,7 +33,7 @@ La **Catch French Beginner 4** (***CFB4***) était un tournoi 1v1 français déb
 
 ![](img/badge.jpg "Badge du gagnant du CFB4")
 
-Les généreux dons de ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688), ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) et ::{ flag=FR }:: [Pizu](https://osu.ppy.sh/users/9475990) ont aidés à financer certains prix.
+Les généreux dons de ::{ flag=FR }:: ::Fuka Pura::{ user-id=2326688 }, ::{ flag=FR }:: ::Kaleesy Pura::{ user-id=1800077 } et ::{ flag=FR }:: ::Pizu::{ user-id=9475990 } ont aidés à financer certains prix.
 
 ## Organisation
 
@@ -41,15 +41,15 @@ La Catch French Beginner 4 était gérée par différents membres de la communau
 
 | Poste | Membre(s) |
 | :-- | :-- |
-| Organisateur | ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Coorganisateur | ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688), ::{ flag=FR }:: [Pizu](https://osu.ppy.sh/users/9475990), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Sélectionneur de beatmap | ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688), ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Arbitre | ::{ flag=FR }:: [MindLight](https://osu.ppy.sh/users/7664694), ::{ flag=FR }:: [Pizu](https://osu.ppy.sh/users/9475990), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Streamer | ::{ flag=FR }:: [Fulgu](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Libegon](https://osu.ppy.sh/users/9922381), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
-| Commentateur | ::{ flag=FR }:: [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688), ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523), ::{ flag=FR }:: [Libegon](https://osu.ppy.sh/users/9922381), ::{ flag=FR }:: [MindLight](https://osu.ppy.sh/users/7664694), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| Designer | ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Statisticien | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Éditeur de wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organisateur | ::{ flag=FR }:: ::Kaleesy Pura::{ user-id=1800077 } |
+| Coorganisateur | ::{ flag=FR }:: ::Fuka Pura::{ user-id=2326688 }, ::{ flag=FR }:: ::Pizu::{ user-id=9475990 }, ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 } |
+| Sélectionneur de beatmap | ::{ flag=FR }:: ::Fuka Pura::{ user-id=2326688 }, ::{ flag=FR }:: ::Kaleesy Pura::{ user-id=1800077 } |
+| Arbitre | ::{ flag=FR }:: ::MindLight::{ user-id=7664694 }, ::{ flag=FR }:: ::Pizu::{ user-id=9475990 }, ::{ flag=FR }:: ::redjiii::{ user-id=1378728 }, ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 } |
+| Streamer | ::{ flag=FR }:: ::Fulgu::{ user-id=4096322 }, ::{ flag=FR }:: ::Libegon::{ user-id=9922381 }, ::{ flag=FR }:: ::Purettsu Eru::{ user-id=1542565 } |
+| Commentateur | ::{ flag=FR }:: ::4L-Chan 3 Porte::{ user-id=7253987 }, ::{ flag=FR }:: ::Fuka Pura::{ user-id=2326688 }, ::{ flag=FR }:: ::Kaleesy Pura::{ user-id=1800077 }, ::{ flag=FR }:: ::Kammthaar::{ user-id=8802523 }, ::{ flag=FR }:: ::Libegon::{ user-id=9922381 }, ::{ flag=FR }:: ::MindLight::{ user-id=7664694 }, ::{ flag=FR }:: ::Yruama::{ user-id=8221467 } |
+| Designer | ::{ flag=FR }:: ::Kaleesy Pura::{ user-id=1800077 } |
+| Statisticien | ::{ flag=FR }:: ::YANOO123::{ user-id=5122949 } |
+| Éditeur de wiki | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Liens
 
@@ -63,19 +63,19 @@ La Catch French Beginner 4 était gérée par différents membres de la communau
 
 | Seed | Membres |
 | :-- | :-- |
-| Top | ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=FR }:: [Jibsz](https://osu.ppy.sh/users/12269489), ::{ flag=FR }:: [Riki no Kage](https://osu.ppy.sh/users/1549032) |
-| High | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [AttilaPhoenix](https://osu.ppy.sh/users/8384680), ::{ flag=FR }:: [-Dragolord-](https://osu.ppy.sh/users/9473359), ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172) |
-| Low | ::{ flag=FR }:: [Madeline](https://osu.ppy.sh/users/2812098), ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722), ::{ flag=FR }:: [Dovu](https://osu.ppy.sh/users/6150413), ::{ flag=FR }:: [MarsJackson](https://osu.ppy.sh/users/8479894) |
-| Unseeded | ::{ flag=FR }:: [Okupsa](https://osu.ppy.sh/users/9313135), ::{ flag=FR }:: [Athedos](https://osu.ppy.sh/users/10722269), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523), ::{ flag=FR }:: [sullymaster](https://osu.ppy.sh/users/6765259) |
+| Top | ::{ flag=CA }:: ::Remyria::{ user-id=1699875 }, ::{ flag=FR }:: ::Kaeldori::{ user-id=962519 }, ::{ flag=FR }:: ::Jibsz::{ user-id=12269489 }, ::{ flag=FR }:: ::Riki no Kage::{ user-id=1549032 } |
+| High | ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 }, ::{ flag=FR }:: ::AttilaPhoenix::{ user-id=8384680 }, ::{ flag=FR }:: ::-Dragolord-::{ user-id=9473359 }, ::{ flag=FR }:: ::Trifano::{ user-id=15126172 } |
+| Low | ::{ flag=FR }:: ::Madeline::{ user-id=2812098 }, ::{ flag=CA }:: ::Zyoulou::{ user-id=8668722 }, ::{ flag=FR }:: ::Dovu::{ user-id=6150413 }, ::{ flag=FR }:: ::MarsJackson::{ user-id=8479894 } |
+| Unseeded | ::{ flag=FR }:: ::Okupsa::{ user-id=9313135 }, ::{ flag=FR }:: ::Athedos::{ user-id=10722269 }, ::{ flag=FR }:: ::Kammthaar::{ user-id=8802523 }, ::{ flag=FR }:: ::sullymaster::{ user-id=6765259 } |
 
 ## Groupes
 
 | Groupe | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| A | ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) | ::{ flag=FR }:: [AttilaPhoenix](https://osu.ppy.sh/users/8384680) | ::{ flag=FR }:: [Dovu](https://osu.ppy.sh/users/6150413) | ::{ flag=FR }:: [Okupsa](https://osu.ppy.sh/users/9313135) |
-| B | ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519) | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) | ::{ flag=FR }:: [Madeline](https://osu.ppy.sh/users/2812098) | ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523) |
-| C | ::{ flag=FR }:: [Riki no Kage](https://osu.ppy.sh/users/1549032) | ::{ flag=FR }:: [-Dragolord-](https://osu.ppy.sh/users/9473359) | ::{ flag=FR }:: [MarsJackson](https://osu.ppy.sh/users/8479894) | ::{ flag=FR }:: [Athedos](https://osu.ppy.sh/users/10722269) |
-| D | ::{ flag=FR }:: [Jibsz](https://osu.ppy.sh/users/12269489) | ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172) | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | ::{ flag=FR }:: [sullymaster](https://osu.ppy.sh/users/6765259) |
+| A | ::{ flag=CA }:: ::Remyria::{ user-id=1699875 } | ::{ flag=FR }:: ::AttilaPhoenix::{ user-id=8384680 } | ::{ flag=FR }:: ::Dovu::{ user-id=6150413 } | ::{ flag=FR }:: ::Okupsa::{ user-id=9313135 } |
+| B | ::{ flag=FR }:: ::Kaeldori::{ user-id=962519 } | ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 } | ::{ flag=FR }:: ::Madeline::{ user-id=2812098 } | ::{ flag=FR }:: ::Kammthaar::{ user-id=8802523 } |
+| C | ::{ flag=FR }:: ::Riki no Kage::{ user-id=1549032 } | ::{ flag=FR }:: ::-Dragolord-::{ user-id=9473359 } | ::{ flag=FR }:: ::MarsJackson::{ user-id=8479894 } | ::{ flag=FR }:: ::Athedos::{ user-id=10722269 } |
+| D | ::{ flag=FR }:: ::Jibsz::{ user-id=12269489 } | ::{ flag=FR }:: ::Trifano::{ user-id=15126172 } | ::{ flag=CA }:: ::Zyoulou::{ user-id=8668722 } | ::{ flag=FR }:: ::sullymaster::{ user-id=6765259 } |
 
 ## Podium
 
@@ -83,9 +83,9 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=CA }:: ::Remyria::{ user-id=1699875 } |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 } |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: ::Trifano::{ user-id=15126172 } |
 
 ## Mappools
 
@@ -335,22 +335,22 @@ Dimanche, 3 Mai 2020:
 
 | Seed | Joueur | Rang moyen |
 | --: | :-- | --: |
-| #1 | ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) | 2.2 |
-| #2 | ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519) | 4.6 |
-| #3 | ::{ flag=FR }:: [Jibsz](https://osu.ppy.sh/users/12269489) | 4.8 |
-| #4 | ::{ flag=FR }:: [Riki no Kage](https://osu.ppy.sh/users/1549032) | 5.2 |
-| #5 | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) | 5.8 |
-| #6 | ::{ flag=FR }:: [AttilaPhoenix](https://osu.ppy.sh/users/8384680) | 6.2 |
-| #7 | ::{ flag=FR }:: [-Dragolord-](https://osu.ppy.sh/users/9473359) | 7 |
-| #7 | ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172) | 7 |
-| #9 | ::{ flag=FR }:: [Madeline](https://osu.ppy.sh/users/2812098) | 7.2 |
-| #10 | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | 9.4 |
-| #11 | ::{ flag=FR }:: [Dovu](https://osu.ppy.sh/users/6150413) | 9.8 |
-| #12 | ::{ flag=FR }:: [MarsJackson](https://osu.ppy.sh/users/8479894) | 11 |
-| #13 | ::{ flag=FR }:: [Okupsa](https://osu.ppy.sh/users/9313135) | 12.2 |
-| #14 | ::{ flag=FR }:: [Athedos](https://osu.ppy.sh/users/10722269) | 12.6 |
-| #15 | ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523) | 14.4 |
-| #16 | ::{ flag=FR }:: [sullymaster](https://osu.ppy.sh/users/6765259) | 16 |
+| #1 | ::{ flag=CA }:: ::Remyria::{ user-id=1699875 } | 2.2 |
+| #2 | ::{ flag=FR }:: ::Kaeldori::{ user-id=962519 } | 4.6 |
+| #3 | ::{ flag=FR }:: ::Jibsz::{ user-id=12269489 } | 4.8 |
+| #4 | ::{ flag=FR }:: ::Riki no Kage::{ user-id=1549032 } | 5.2 |
+| #5 | ::{ flag=FR }:: ::Hecatia15::{ user-id=3163012 } | 5.8 |
+| #6 | ::{ flag=FR }:: ::AttilaPhoenix::{ user-id=8384680 } | 6.2 |
+| #7 | ::{ flag=FR }:: ::-Dragolord-::{ user-id=9473359 } | 7 |
+| #7 | ::{ flag=FR }:: ::Trifano::{ user-id=15126172 } | 7 |
+| #9 | ::{ flag=FR }:: ::Madeline::{ user-id=2812098 } | 7.2 |
+| #10 | ::{ flag=CA }:: ::Zyoulou::{ user-id=8668722 } | 9.4 |
+| #11 | ::{ flag=FR }:: ::Dovu::{ user-id=6150413 } | 9.8 |
+| #12 | ::{ flag=FR }:: ::MarsJackson::{ user-id=8479894 } | 11 |
+| #13 | ::{ flag=FR }:: ::Okupsa::{ user-id=9313135 } | 12.2 |
+| #14 | ::{ flag=FR }:: ::Athedos::{ user-id=10722269 } | 12.6 |
+| #15 | ::{ flag=FR }:: ::Kammthaar::{ user-id=8802523 } | 14.4 |
+| #16 | ::{ flag=FR }:: ::sullymaster::{ user-id=6765259 } | 16 |
 
 ## Ruleset
 

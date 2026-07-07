@@ -15,7 +15,7 @@ Without further ado, let's have a look at which entries made it to the podium:
 
 ## 3rd Place - sour_grapes
 
-Attracting a total of **968** sour grape enjoyers, [sour_grapes](https://osu.ppy.sh/community/forums/topics/1626950) by [koomo](https://osu.ppy.sh/users/2168518) achieves the 3rd place!
+Attracting a total of **968** sour grape enjoyers, [sour_grapes](https://osu.ppy.sh/community/forums/topics/1626950) by ::koomo::{ user-id=2168518 } achieves the 3rd place!
 
 Adopting a protanopic palette, sour_grapes portrays a futuristic look with Ene from *Kagerou Project* on the side. Featuring matrix-esque panels and high-tech design from head to toe, the skin makes you feel like you're playing the game through a visor, while also not letting up on the minimalistic outlook.
 
@@ -29,7 +29,7 @@ Executing a masterpiece going all out on technological advancements, koomo gets 
 
 ## 2nd Place - Ralsei Dark
 
-Themed around objectively the cutest character in *Deltarune*, [Ralsei Dark](https://osu.ppy.sh/community/forums/topics/1629393) was favoured by **1119** voters, allowing [Corne2Plum3](https://osu.ppy.sh/users/15646039) to claim the 2nd place!
+Themed around objectively the cutest character in *Deltarune*, [Ralsei Dark](https://osu.ppy.sh/community/forums/topics/1629393) was favoured by **1119** voters, allowing ::Corne2Plum3::{ user-id=15646039 } to claim the 2nd place!
 
 Featuring a tritanopic palette, Ralsei Dark brings about the artsy look of the well-renowned *toby fox* games perfectly integrated into your osu! client. Furthermore, despite going all out on textures and art plastered everywhere, the skin actually manages to balance it out masterfully through a rather minimalist outlook on gameplay and the results screen.
 
@@ -43,7 +43,7 @@ Thanks to their beloved work of art, Ralsei Dark, Corne2Plum3 is awarded with a 
 
 ## Winner - 霜滅 SOUMETSU
 
-With a grand total of **1497** votes, [霜滅 SOUMETSU](https://osu.ppy.sh/community/forums/topics/1628514) enables [thetasigma](https://osu.ppy.sh/users/6234482), a veteran runner-up from the previous iteration, to finally reach for the crown!
+With a grand total of **1497** votes, [霜滅 SOUMETSU](https://osu.ppy.sh/community/forums/topics/1628514) enables ::thetasigma::{ user-id=6234482 }, a veteran runner-up from the previous iteration, to finally reach for the crown!
 
 Utilising a protanopic palette, 霜滅 SOUMETSU combines the charm of a typical minimalist skin and a popular *Genshin Impact* character, Kamisato Ayaka. From adorable artworks to meticulously designed assets, the skin sets up a perfect example for its kind. To look at it from a different perspective, the artworks portraying traditional Japanese way of life embedded within the modern, minimalist textures essentially signifies the harmony between the two distinct elements.
 

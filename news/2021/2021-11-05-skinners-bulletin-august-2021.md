@@ -36,7 +36,7 @@ As promised, we've loaded up **4** of the coolest skins published within August.
 
 ### FlatoShabe
 
-Emerging from nowhere, [TKieen](https://osu.ppy.sh/users/12561202) publishes their minimalistic [FlatoShabe](https://osu.ppy.sh/community/forums/topics/1391788) as their second-ever public skin, using a straightforward structure. In spite of not differing much from its counterparts, the skin cuts ice thanks to all the flavour texts hidden everywhere, balancing between a simplistic approach and focusing on details masterfully.
+Emerging from nowhere, ::TKieen::{ user-id=12561202 } publishes their minimalistic [FlatoShabe](https://osu.ppy.sh/community/forums/topics/1391788) as their second-ever public skin, using a straightforward structure. In spite of not differing much from its counterparts, the skin cuts ice thanks to all the flavour texts hidden everywhere, balancing between a simplistic approach and focusing on details masterfully.
 
 Aside from the detail-oriented style, FlatoShabe is enriched with geometrical shapes covering everything with PlayStation-esque textures from top to bottom. The palette favours low-contrast colours, making the skin easy for the eyes. On the mod selection menu, despite being not-so-preferred for minimalist skins, the mod icons are bloated with details, which seems fitting given the tiny flavour texts visible in many sections. What is more, FlatoShabe provides a `.bat` script file that enables you to change the color theme of the entire skin! So cool, isn't it?
 
@@ -46,7 +46,7 @@ Menu interfaces aside, there isn't much to say about the gameplay elements. By k
 
 ### Ai Hayasaka v3.0
 
-You know what they say: the third time is the charm. [Inflique](https://osu.ppy.sh/users/13865585) sets the bar on an astronomical level with his [3rd edition Ai Hayasaka-themed masterpiece](https://osu.ppy.sh/community/forums/topics/1394145)! Pursuing a different path contrary to the previous two editions, Inflique has successfully brought together the liveliness of a cartoon and the simplicity of minimalism. These two extremities have skilfully been merged into one, without making the final product look like an abomination.
+You know what they say: the third time is the charm. ::Inflique::{ user-id=13865585 } sets the bar on an astronomical level with his [3rd edition Ai Hayasaka-themed masterpiece](https://osu.ppy.sh/community/forums/topics/1394145)! Pursuing a different path contrary to the previous two editions, Inflique has successfully brought together the liveliness of a cartoon and the simplicity of minimalism. These two extremities have skilfully been merged into one, without making the final product look like an abomination.
 
 The use of arrows and rhomboidal shapes coloured blue and yellow beautifully complement each other and the dotted texture in the background, sending out minimalist yet graffiti-esque vibes. Immediately drawing attention right at the song selection menu, the GFX work covering the osu! cookie stands out with its unique presentation of the character the skin is revolving around. On the top section of the screen, the use of arrows points out the grouping/sorting menu on the right side very nicely, with the `No Grouping` option standing out with its contrastive red colour without seeming misplaced at all.
 
@@ -56,7 +56,7 @@ The dotted texture of menu sections and buttons covers gameplay elements as well
 
 ### Tomioka Giyū
 
-Splashing our bulletin like a tsunami, [Tomioka Giyū](https://osu.ppy.sh/community/forums/topics/1405313), by the very hands of [Kim Minnie](https://osu.ppy.sh/users/3858685), goes further than just being an anime-themed skin by featuring an oil-painting-like look. Brushed into existence with delicacy, Giyū goes down the less-traveled path embracing a flashy and artsy theme, which is quite the opposite of the current minimalism trend. But before we get into the details on the song selection menu, we highly advise you to use your life vest in case of an emergency, as these deadly waves look like a health hazard!
+Splashing our bulletin like a tsunami, [Tomioka Giyū](https://osu.ppy.sh/community/forums/topics/1405313), by the very hands of ::Kim Minnie::{ user-id=3858685 }, goes further than just being an anime-themed skin by featuring an oil-painting-like look. Brushed into existence with delicacy, Giyū goes down the less-traveled path embracing a flashy and artsy theme, which is quite the opposite of the current minimalism trend. But before we get into the details on the song selection menu, we highly advise you to use your life vest in case of an emergency, as these deadly waves look like a health hazard!
 
 Putting the wavy design aside, the inkblots appearing in many places, mainly on the buttons and whatnot, reinforce the artsiness to another level. On the background of the game mode selection screen, a fabulous graphic of Tomioka himself greets us with a pose wielding his katana, fading into the azure sea. As for the game modifiers, they choose to entertain portraits of the characters from the anime, with the respective mods mentioned in the bottom-right corners.
 
@@ -68,7 +68,7 @@ In any case, grab a surfboard and never hesitate to leave yourself to the tides 
 
 ### Kronii no Jikan
 
-Here we are with another detail-oriented [thetasigma](https://osu.ppy.sh/users/6234482) classic: [Kronii no Jikan](https://osu.ppy.sh/community/forums/topics/1406817)! Filled with clockwork from head to toe, this skin revolves around the popular VTuber Ouro Kronii, who is canonically known to be the Warden of Time. As much as thetasigma opted to create an anime-themed skin, there is another version that is entirely Kronii-free that you can try. Nevertheless, both versions immediately give out the impression that the skin certainly deserves recognition.
+Here we are with another detail-oriented ::thetasigma::{ user-id=6234482 } classic: [Kronii no Jikan](https://osu.ppy.sh/community/forums/topics/1406817)! Filled with clockwork from head to toe, this skin revolves around the popular VTuber Ouro Kronii, who is canonically known to be the Warden of Time. As much as thetasigma opted to create an anime-themed skin, there is another version that is entirely Kronii-free that you can try. Nevertheless, both versions immediately give out the impression that the skin certainly deserves recognition.
 
 Embracing antiquity very well, Kronii no Jikan is dominated by golden yellow and navy blue, denoting an elegant look on the skin. We encounter a rare layout choice for the menu buttons on the bottom left of the song selection menu, which looks utterly fantastic. The way selected game modes are denoted by highlighting their respective letters, the way a clock is used in place of the game modifier menu icon⁠ — every detail is noteworthy and shows us thetasigma's mastery. Another point reflecting the quality of the skin is, without a doubt, the amount of flavour texts scattered everywhere, especially the one located beneath the `menu-back` button. Cool stuff!
 

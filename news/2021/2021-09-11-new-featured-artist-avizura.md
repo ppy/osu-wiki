@@ -9,7 +9,7 @@ We're thrilled to announce **Avizura** aboard as our newest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/198/header.jpg)
 
-Setting sail from the *Newgrounds* music scene more than 10 years ago and docking in the osu! scene today, **Avizura** is a multi-faceted drum & bass producer, visual artist, and indie game developer hailing from the Netherlands. Their tunes harken back to the golden age of drum & bass on osu!, highlighted by an ultra popular beatmap of [*Lucky Star*](https://osu.ppy.sh/beatmapsets/130546) created by [Bearizm](https://osu.ppy.sh/users/3495259)!
+Setting sail from the *Newgrounds* music scene more than 10 years ago and docking in the osu! scene today, **Avizura** is a multi-faceted drum & bass producer, visual artist, and indie game developer hailing from the Netherlands. Their tunes harken back to the golden age of drum & bass on osu!, highlighted by an ultra popular beatmap of [*Lucky Star*](https://osu.ppy.sh/beatmapsets/130546) created by ::Bearizm::{ user-id=3495259 }!
 
 We've picked up **8** celestial tracks, all available for mapping from [**Avizura**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/198)! Each track also comes paired with a ~2:00 cut version designed specifically for mappers who have the attention span of a chicken nugget.
 
@@ -23,7 +23,7 @@ Need a refresher on **Avizura**'s sound? Experience the duality of osu!'s leader
 
 ### Lucky Star
 
-In case you missed it, play through [this osu! + osu!taiko mapset](https://osu.ppy.sh/beatmapsets/130546) hosted by [Bearizm](https://osu.ppy.sh/users/3495259)!
+In case you missed it, play through [this osu! + osu!taiko mapset](https://osu.ppy.sh/beatmapsets/130546) hosted by ::Bearizm::{ user-id=3495259 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/198/Lucky%20Star%20EP/Avizura%20-%20Lucky%20Star.mp3" type="audio/mpeg">

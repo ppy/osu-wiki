@@ -23,7 +23,7 @@ While we could rant on about his music all day, we can't compete with the man hi
 
 ### Lagomorphic
 
-Try out [this osu! mapset](https://osu.ppy.sh/beatmapsets/74664#osu/211889) by [happy623](https://osu.ppy.sh/users/324768) used in the [osu! World Cup 2013](/wiki/Tournaments/OWC/2013#group-stage) or [this osu!taiko mapset](https://osu.ppy.sh/beatmapsets/338942) by [Okoratu](https://osu.ppy.sh/users/1623405)!
+Try out [this osu! mapset](https://osu.ppy.sh/beatmapsets/74664#osu/211889) by ::happy623::{ user-id=324768 } used in the [osu! World Cup 2013](/wiki/Tournaments/OWC/2013#group-stage) or [this osu!taiko mapset](https://osu.ppy.sh/beatmapsets/338942) by ::Okoratu::{ user-id=1623405 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/125/Songs/Erik%20McClure%20-%20Lagomorphic.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Try out [this osu! mapset](https://osu.ppy.sh/beatmapsets/74664#osu/211889) by [
 
 ### DioSynth
 
-Drum slappers should also consider playing [this osu!taiko mapset](https://osu.ppy.sh/beatmapsets/615009#taiko/1297310) by [Aisha](https://osu.ppy.sh/users/2192669)!
+Drum slappers should also consider playing [this osu!taiko mapset](https://osu.ppy.sh/beatmapsets/615009#taiko/1297310) by ::Aisha::{ user-id=2192669 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/125/Aurora%20Theory/Erik%20McClure%20-%20DioSynth.mp3" type="audio/mpeg">

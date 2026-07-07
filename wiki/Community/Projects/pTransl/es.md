@@ -5,7 +5,7 @@ tags:
 
 # pTransl
 
-**li.ppy.sh**, más conocido como **pTransl**, era una plataforma de localización comunitaria gestionada y alojada por ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2). Se usó principalmente para que los miembros de la comunidad de osu! pudieran traducir el juego a sus propios idiomas.
+**li.ppy.sh**, más conocido como **pTransl**, era una plataforma de localización comunitaria gestionada y alojada por ::{ flag=AU }:: ::peppy::{ user-id=2 }. Se usó principalmente para que los miembros de la comunidad de osu! pudieran traducir el juego a sus propios idiomas.
 
 ## Servicio
 

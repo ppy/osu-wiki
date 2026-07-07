@@ -19,7 +19,7 @@ Check it all out:
 
 ### Ideal
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1248714) hosted by [Pachiru](https://osu.ppy.sh/users/2850983) of the Mappers' Guild!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1248714) hosted by ::Pachiru::{ user-id=2850983 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/105/previews/2767.mp3" type="audio/mpeg">

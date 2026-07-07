@@ -11,7 +11,7 @@ A double-header of news and reviews from the osu!catch World Cup 2018 this week 
 
 _"Who is going to win the osu!catch World Cup 2018?"_
 
-This is a question I, [JBHyperion](https://osu.ppy.sh/users/4879508), have been asking myself for over two months now, since the Registration phase first began at the start of May. Since then, we've seen just about everything imaginable, and some sights extending beyond even that. Naturally, we are only marginally closer to knowing the answer we so desperately seek.
+This is a question I, ::JBHyperion::{ user-id=4879508 }, have been asking myself for over two months now, since the Registration phase first began at the start of May. Since then, we've seen just about everything imaginable, and some sights extending beyond even that. Naturally, we are only marginally closer to knowing the answer we so desperately seek.
 
 However, over the past two weeks, our remaining twelve teams have been steadily whittled down to just three. We'll get into that a bit more later, but first, let's review the Semi Final and Finals Week 1 stages to set the scene. As always, videos of all matches are available on the [osu!live Twitch channel](https://www.twitch.tv/osulive), so head there first if you don’t want to be spoiled!
 
@@ -19,7 +19,7 @@ However, over the past two weeks, our remaining twelve teams have been steadily 
 
 ## Semi Finals
 
-by [Dohland](https://osu.ppy.sh/users/5220511)
+by ::Dohland::{ user-id=5220511 }
 
 China wasted no time advancing in the opening match, getting right down to business and delivering a swift knockout punch to the Netherlands, winning with a score of 6-1. China were looking determined to make the run from the Losers' Bracket to Grand Finals once again.
 
@@ -51,7 +51,7 @@ Both teams won their picks and we would see tiebreaker selection [Mizuki Nana - 
 
 ## Finals Week 1
 
-by [JBHyperion](https://osu.ppy.sh/users/4879508)
+by ::JBHyperion::{ user-id=4879508 }
 
 With only six teams still standing, the business end of the tournament had well and truly been reached. Old rivals China and South Korea renewed their hostilities in the opening match, and whilst a great Hidden performance on [Mitsuki - climactic cry](https://osu.ppy.sh/beatmapsets/146166/#fruits/362297) by DreStar helped get the Korean team on the board, it was otherwise one-way traffic as China pulled into a commanding 6-1 lead. This sequence included an astonishing FC from Crystal on the HR pick [KASAI HARCORES - Cycle Hit](https://osu.ppy.sh/beatmapsets/692367#fruits/1465042) which set the match on fire.
 

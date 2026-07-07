@@ -19,7 +19,7 @@ Mappers are lucky today. They're getting both quality and quantity through **29*
 
 ### [XenjeS - Inorganic Dystopia](https://assets.ppy.sh/artists/482/Songs/XenjeS_-_Inorganic_Dystopia.osz)
 
-Play through [this World Cup map](https://osu.ppy.sh/beatmapsets/2471967#osu/5416113) created by [9ami](https://osu.ppy.sh/users/1499997), [ralsricat](https://osu.ppy.sh/users/12318332), and [Matsuyuki Ame](https://osu.ppy.sh/users/12763959)! If that's too difficult, there's a whole spread on this set too!
+Play through [this World Cup map](https://osu.ppy.sh/beatmapsets/2471967#osu/5416113) created by ::9ami::{ user-id=1499997 }, [ralsricat](https://osu.ppy.sh/users/12318332), and ::Matsuyuki Ame::{ user-id=12763959 }! If that's too difficult, there's a whole spread on this set too!
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/-9t2axMHgSI" frameborder="0" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ Play through [this World Cup map](https://osu.ppy.sh/beatmapsets/2471967#osu/541
 
 ### [XenjeS - Planetary Exclusion Zone](https://assets.ppy.sh/artists/482/Songs/XenjeS%20-%20Planetary%20Exclusion%20Zone.osz)
 
-Or try out [this osu!catch World Cup map](https://osu.ppy.sh/beatmapsets/2388185) hosted by [-Rustyy](https://osu.ppy.sh/users/16355636)!
+Or try out [this osu!catch World Cup map](https://osu.ppy.sh/beatmapsets/2388185) hosted by ::-Rustyy::{ user-id=16355636 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/482/Songs/XenjeS%20-%20Planetary%20Exclusion%20Zone.mp3">
@@ -35,7 +35,7 @@ Or try out [this osu!catch World Cup map](https://osu.ppy.sh/beatmapsets/2388185
 
 ### [XenjeS - Organic's Decay](https://assets.ppy.sh/artists/482/Organic%27s%20Decay/XenjeS%20-%20Organic%27s%20Decay.osz)
 
-While the song wasn't made specifically for the tournament, [this map](https://osu.ppy.sh/beatmapsets/2287939) by [nooj](https://osu.ppy.sh/users/8271086) and [Feiri](https://osu.ppy.sh/users/3214844) found its way to the Grand Finals mappool for the osu! World Cup 2024!
+While the song wasn't made specifically for the tournament, [this map](https://osu.ppy.sh/beatmapsets/2287939) by ::nooj::{ user-id=8271086 } and [Feiri](https://osu.ppy.sh/users/3214844) found its way to the Grand Finals mappool for the osu! World Cup 2024!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/482/Organic%27s%20Decay/XenjeS%20-%20Organic%27s%20Decay.mp3">
@@ -43,7 +43,7 @@ While the song wasn't made specifically for the tournament, [this map](https://o
 
 ### [XenjeS - Night Sky Solitude](https://assets.ppy.sh/artists/482/Songs/XenjeS_-_Night_Sky_Solitude.osz)
 
-Tournament maps aren't everyone's cup of tea. Good thing [this difficulty spread](https://osu.ppy.sh/beatmapsets/2348038) by [nik](https://osu.ppy.sh/users/10077264) exists!
+Tournament maps aren't everyone's cup of tea. Good thing [this difficulty spread](https://osu.ppy.sh/beatmapsets/2348038) by ::nik::{ user-id=10077264 } exists!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/482/Songs/XenjeS_-_Night_Sky_Solitude.mp3">

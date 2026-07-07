@@ -13,7 +13,7 @@ But first, some context.
 
 Our Featured Artist program has expanded over the years, and we've only recently started dipping our feet into the depths of *original tournament track commissions* (also known under the [osu! originals](/wiki/osu!_originals) label). You might've seen a few osu! originals already via Featured Artist announcements over the years, or perhaps from the recent [Twin Trials contest](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase).
 
-Thanks largely to [mangomizer](https://osu.ppy.sh/users/1893718) and each game mode's world cup staff, you may have noticed a bunch of osu! originals in our official tournaments too!
+Thanks largely to ::mangomizer::{ user-id=1893718 } and each game mode's world cup staff, you may have noticed a bunch of osu! originals in our official tournaments too!
 
 In case you missed any of the new songs, this article highlights every osu! original showcased in [osu!mania 7K World Cup 2023](/wiki/Tournaments/MWC/2023_7K)!
 
@@ -27,7 +27,7 @@ In case you missed any of the new songs, this article highlights every osu! orig
 
 This high-tempo jazzy tune by [**Toromaru**](https://osu.ppy.sh/beatmaps/artists/279) isn't what you'd expect from a rhythm game, but it's exactly what you need. This acted as a *Rice* pick in the [Semifinals map pool](/wiki/Tournaments/MWC/2023_7K#semifinals.1).
 
-Play the [7-star map](https://osu.ppy.sh/beatmapsets/1931471) for yourself, created by [Jinjin](https://osu.ppy.sh/users/3360737) and [\_underjoy](https://osu.ppy.sh/users/2235750)!
+Play the [7-star map](https://osu.ppy.sh/beatmapsets/1931471) for yourself, created by ::Jinjin::{ user-id=3360737 } and [\_underjoy](https://osu.ppy.sh/users/2235750)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/279/Songs/Toromaru%20-%20Uncharted%20Sky.mp3" type="audio/mpeg">
@@ -37,7 +37,7 @@ Play the [7-star map](https://osu.ppy.sh/beatmapsets/1931471) for yourself, crea
 
 If you know anything about [**LV.4**](https://osu.ppy.sh/beatmaps/artists/214)'s sound, you know exactly how awesome this song is.
 
-[This beatmap](https://osu.ppy.sh/beatmapsets/1935688) created by [\_underjoy](https://osu.ppy.sh/users/2235750) was another *Rice* pick for the [Finals map pool](/wiki/Tournaments/MWC/2023_7K#finals)!
+[This beatmap](https://osu.ppy.sh/beatmapsets/1935688) created by ::\_underjoy::{ user-id=2235750 } was another *Rice* pick for the [Finals map pool](/wiki/Tournaments/MWC/2023_7K#finals)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/214/Songs/LV.4%20feat.%20Yuu%20Ikeba%20-%20Sentimental%20Surge.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ If you know anything about [**LV.4**](https://osu.ppy.sh/beatmaps/artists/214)'s
 
 [**Hino Isuka**](https://osu.ppy.sh/beatmaps/artists/272) worked alongside **s-don** to design this \[glorious pun\] song used as a *Hybrid* pick in the [Finals map pool](/wiki/Tournaments/MWC/2023_7K#finals).
 
-Try [its beatmap](https://osu.ppy.sh/beatmapsets/1935691) created (yet again) by [\_underjoy](https://osu.ppy.sh/users/2235750)!
+Try [its beatmap](https://osu.ppy.sh/beatmapsets/1935691) created (yet again) by ::\_underjoy::{ user-id=2235750 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/272/Songs/Hino%20Isuka%20vs.%20s-don%20-%20Glooorious!!.mp3" type="audio/mpeg">
@@ -57,7 +57,7 @@ Try [its beatmap](https://osu.ppy.sh/beatmapsets/1935691) created (yet again) by
 
 osu! player turned musician [**SAMString**](https://osu.ppy.sh/beatmaps/artists/273) has given back to osu! through this stellar electro tune used as a *Long Note* pick in the [Grand Finals map pool](/wiki/Tournaments/MWC/2023_7K#grand-finals).
 
-Check out [the 9-star beatmap](https://osu.ppy.sh/beatmapsets/1939418) created by [Remuring](https://osu.ppy.sh/users/6522146) and [Jinjin](https://osu.ppy.sh/users/3360737)!
+Check out [the 9-star beatmap](https://osu.ppy.sh/beatmapsets/1939418) created by ::Remuring::{ user-id=6522146 } and [Jinjin](https://osu.ppy.sh/users/3360737)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/273/Songs/SAMString%20-%20Ataraxia.mp3" type="audio/mpeg">
@@ -67,7 +67,7 @@ Check out [the 9-star beatmap](https://osu.ppy.sh/beatmapsets/1939418) created b
 
 The [Grand Finals tiebreaker](/wiki/Tournaments/MWC/2023_7K#grand-finals) is a coveted position for any beatmap, and this masterpiece by [**katagiri**](https://osu.ppy.sh/beatmaps/artists/176) has the slot secured.
 
-If you can somehow play a [10.76-star beatmap](https://osu.ppy.sh/beatmapsets/1939261), give this collab by [\_underjoy](https://osu.ppy.sh/users/2235750), [Jinjin](https://osu.ppy.sh/users/3360737), [Blocko](https://osu.ppy.sh/users/4075092), [Remuring](https://osu.ppy.sh/users/6522146) and [MapleSyrup-](https://osu.ppy.sh/users/1192936) a go.
+If you can somehow play a [10.76-star beatmap](https://osu.ppy.sh/beatmapsets/1939261), give this collab by ::\_underjoy::{ user-id=2235750 }, [Jinjin](https://osu.ppy.sh/users/3360737), ::Blocko::{ user-id=4075092 }, [Remuring](https://osu.ppy.sh/users/6522146) and ::MapleSyrup-::{ user-id=1192936 } a go.
 
 Look forward to hearing this song in a potential tiebreaker this weekend on [osu!'s Twitch channel](https://www.twitch.tv/osulive)!
 

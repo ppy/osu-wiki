@@ -46,7 +46,7 @@ Para cambiar entre los modos, haz clic en el botón `Mode` de la parte inferior 
 
 *Página principal: [osu!mania](osu!mania)*
 
-*osu!mania* es un modo de juego de ritmo de desplazamiento vertical (VSRG) diseñado como un simulador de piano. Fue [introducido e implementado](https://osu.ppy.sh/community/forums/topics/100751) principalmente por [woc2006](https://osu.ppy.sh/users/1105845), y se basa en una variedad de juegos de ritmo de tipo transportador (principalmente, [Dance Dance Revolution](https://es.wikipedia.org/wiki/Dance_Dance_Revolution_(serie)) y [Beatmania](https://es.wikipedia.org/wiki/Beatmania_(serie))). Las mascotas de osu!mania son los gemelos [Mani y Mari](/wiki/Mascots#mani-&-mari), ambos con el pelo morado y morado claro.
+*osu!mania* es un modo de juego de ritmo de desplazamiento vertical (VSRG) diseñado como un simulador de piano. Fue [introducido e implementado](https://osu.ppy.sh/community/forums/topics/100751) principalmente por ::woc2006::{ user-id=1105845 }, y se basa en una variedad de juegos de ritmo de tipo transportador (principalmente, [Dance Dance Revolution](https://es.wikipedia.org/wiki/Dance_Dance_Revolution_(serie)) y [Beatmania](https://es.wikipedia.org/wiki/Beatmania_(serie))). Las mascotas de osu!mania son los gemelos [Mani y Mari](/wiki/Mascots#mani-&-mari), ambos con el pelo morado y morado claro.
 
 ![Jugabilidad de osu!mania](/wiki/shared/mania-gameplay.jpg "Jugabilidad de osu!mania")
 

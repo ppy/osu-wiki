@@ -23,7 +23,7 @@ One of **SAMString**'s biggest contributions to the osu! community has been a so
 
 ### NUMA
 
-Test yourself with [the map featured above](https://osu.ppy.sh/beatmapsets/1570528) hosted by [Fursum](https://osu.ppy.sh/users/4865030) or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/1716335) hosted by [Burak](https://osu.ppy.sh/users/13213075)!
+Test yourself with [the map featured above](https://osu.ppy.sh/beatmapsets/1570528) hosted by ::Fursum::{ user-id=4865030 } or [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/1716335) hosted by ::Burak::{ user-id=13213075 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/273/NUMA/SAMString%20-%20NUMA.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Test yourself with [the map featured above](https://osu.ppy.sh/beatmapsets/15705
 
 ### Sakura's Fall
 
-Try [this osu! set](https://osu.ppy.sh/beatmapsets/886033) hosted by [DeviousPanda](https://osu.ppy.sh/users/4966334) or [another osu! set](https://osu.ppy.sh/beatmapsets/1449832) hosted by a mapper who mainly maps osu!taiko, [Cynplytholowazy](https://osu.ppy.sh/users/3901754)!
+Try [this osu! set](https://osu.ppy.sh/beatmapsets/886033) hosted by ::DeviousPanda::{ user-id=4966334 } or [another osu! set](https://osu.ppy.sh/beatmapsets/1449832) hosted by a mapper who mainly maps osu!taiko, ::Cynplytholowazy::{ user-id=3901754 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/273/Sakura/SAMString%20-%20Sakura's%20Fall.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Try [this osu! set](https://osu.ppy.sh/beatmapsets/886033) hosted by [DeviousPan
 
 ### Shifting Clouds
 
-And if you're still itching for more, play [this osu! map](https://osu.ppy.sh/beatmapsets/1654451) hosted by [Entry](https://osu.ppy.sh/users/10213311)!
+And if you're still itching for more, play [this osu! map](https://osu.ppy.sh/beatmapsets/1654451) hosted by ::Entry::{ user-id=10213311 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/273/Sakura/SAMString%20-%20Shifting%20Clouds.mp3" type="audio/mpeg">

@@ -13,7 +13,7 @@ We're proud to welcome **wotoha** aboard as our latest Featured Artist!
 
 Ranging from hardcore to pop to jazz, we've snagged **10** of **wotoha**'s bright tunes, all ready for mapping from [their Featured Artist page](https://osu.ppy.sh/beatmaps/artists/178)!
 
-If you're late to the party, you can catch up by listening to **wotoha**'s fresh vocals through [*O108ROCKET feat. Neko Hacker*](https://osu.ppy.sh/beatmapsets/1392416) mapped by [Murumoo](https://osu.ppy.sh/users/8001433) in the unnecessarily complicated stop-motion osu!mania video below:
+If you're late to the party, you can catch up by listening to **wotoha**'s fresh vocals through [*O108ROCKET feat. Neko Hacker*](https://osu.ppy.sh/beatmapsets/1392416) mapped by ::Murumoo::{ user-id=8001433 } in the unnecessarily complicated stop-motion osu!mania video below:
 
 <div align="center">
     <video width="95%" controls>

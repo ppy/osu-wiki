@@ -10,7 +10,7 @@ The longest-running annual beatmapping contest has wrapped up another thrilling 
 
 The 13th iteration of Pending Cup has concluded! Following last year's success, this year, with a total of 73 entries across three tracks, the community has once again proven its passion and kept the momentum unstoppable!
 
-This contest was [announced back in October](https://osu.ppy.sh/home/news/2025-10-24-pending-cup-2025). In case you missed it, the Pending Cup is originally a Chinese mapping contest, which had its first iteration in 2013 held by [NatsumeRin](https://osu.ppy.sh/users/151679). Through the past years, the Pending Cup has always been a means of encouraging creative mapping and finding new talent across the entire mapping community, and it will always be the core value of the contest.
+This contest was [announced back in October](https://osu.ppy.sh/home/news/2025-10-24-pending-cup-2025). In case you missed it, the Pending Cup is originally a Chinese mapping contest, which had its first iteration in 2013 held by ::NatsumeRin::{ user-id=151679 }. Through the past years, the Pending Cup has always been a means of encouraging creative mapping and finding new talent across the entire mapping community, and it will always be the core value of the contest.
 
 With the preamble out of the way, let's dive into the results of each track!
 
@@ -18,9 +18,9 @@ With the preamble out of the way, let's dive into the results of each track!
 
 ![Pending Cup 2025 podium](/wiki/Contests/PDC/2025/img/podium.jpg)
 
-### Vocal track winner - [MaestroSplinter](https://osu.ppy.sh/users/6707918)
+### Vocal track winner - ::MaestroSplinter::{ user-id=6707918 }
 
-[MaestroSplinter](https://osu.ppy.sh/users/6707918)'s entry showed absolute dominance by winning with a lead of more than **4** points in standardised scoring, proving how well loved this entry is among all judges. This makes it not only the track winner but also the **grand prize winner**! Make sure to check out this gem!
+::MaestroSplinter::{ user-id=6707918 }'s entry showed absolute dominance by winning with a lead of more than **4** points in standardised scoring, proving how well loved this entry is among all judges. This makes it not only the track winner but also the **grand prize winner**! Make sure to check out this gem!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/G_t_clMwZP0" frameborder="0" allowfullscreen></iframe>
@@ -34,9 +34,9 @@ With the preamble out of the way, let's dive into the results of each track!
 
 —Mattay
 
-### Instrumental track winner - [fowwo](https://osu.ppy.sh/users/4547551)
+### Instrumental track winner - ::fowwo::{ user-id=4547551 }
 
-The contest veteran has done it once again. After winning [o!bwc 2025](https://osu.ppy.sh/home/news/2025-11-25-osu-beatmapping-world-championship-2025-results), [fowwo](https://osu.ppy.sh/users/4547551) has proven themselves with their sequel-themed beatmap on the acknowledged hardest track to map in PDC 2025. The score difference among the finalists is indeed very tiny, which shows how intense the competition in this track was. Now, fowwo is leading in contest points on osu!, and is just one point away from claiming the first-ever **Elite Mapper III** title!
+The contest veteran has done it once again. After winning [o!bwc 2025](https://osu.ppy.sh/home/news/2025-11-25-osu-beatmapping-world-championship-2025-results), ::fowwo::{ user-id=4547551 } has proven themselves with their sequel-themed beatmap on the acknowledged hardest track to map in PDC 2025. The score difference among the finalists is indeed very tiny, which shows how intense the competition in this track was. Now, fowwo is leading in contest points on osu!, and is just one point away from claiming the first-ever **Elite Mapper III** title!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/eL04NjGOjkM" frameborder="0" allowfullscreen></iframe>
@@ -54,9 +54,9 @@ The contest veteran has done it once again. After winning [o!bwc 2025](https://o
 
 —Ryuusei Aika
 
-### Original track winner - [Matsuyuki Ame](https://osu.ppy.sh/users/12763959)
+### Original track winner - ::Matsuyuki Ame::{ user-id=12763959 }
 
-**BACK-TO-BACK PDC WINNER!** It is rare to see, but here we go. This year, [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) (a.k.a. ameponzu) claimed their victory once again in a track with the most participants. This is not going to stop Ame's hot streak, as they are now one point away from claiming their **Elite Mapper** title. Make sure to check out this top-tier creation!
+**BACK-TO-BACK PDC WINNER!** It is rare to see, but here we go. This year, ::Matsuyuki Ame::{ user-id=12763959 } (a.k.a. ameponzu) claimed their victory once again in a track with the most participants. This is not going to stop Ame's hot streak, as they are now one point away from claiming their **Elite Mapper** title. Make sure to check out this top-tier creation!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/a5sLcirSfWA" frameborder="0" allowfullscreen></iframe>
@@ -94,7 +94,7 @@ The finalist with the **highest points** out of the **3** tracks will receive a 
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | [**osu!tablet**](https://osu.ppy.sh/store/products/1447) (courtesy of [Chaoslitz](https://osu.ppy.sh/users/3621552)) |
+| 1st | [**osu!tablet**](https://osu.ppy.sh/store/products/1447) (courtesy of ::Chaoslitz::{ user-id=3621552 }) |
 
 ### Contest points
 
@@ -102,12 +102,12 @@ In addition, the per-track **winners** get 2 [contest points](/wiki/Contests/Con
 
 | Mapper | Points |
 | :-- | --: |
-| [MaestroSplinter](https://osu.ppy.sh/users/6707918) | +3 |
-| [fowwo](https://osu.ppy.sh/users/4547551) | +2 |
-| [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) | +2 |
-| [Alty](https://osu.ppy.sh/users/16407988) | +1 |
-| [0ppinOsu](https://osu.ppy.sh/users/12551840) | +1 |
-| [Aoinabi](https://osu.ppy.sh/users/10120527) | +1 |
+| ::MaestroSplinter::{ user-id=6707918 } | +3 |
+| ::fowwo::{ user-id=4547551 } | +2 |
+| ::Matsuyuki Ame::{ user-id=12763959 } | +2 |
+| ::Alty::{ user-id=16407988 } | +1 |
+| ::0ppinOsu::{ user-id=12551840 } | +1 |
+| ::Aoinabi::{ user-id=10120527 } | +1 |
 
 View the entire contest point leaderboards [on the wiki](/wiki/Contests/Contest_points#leaderboards)!
 

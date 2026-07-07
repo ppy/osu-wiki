@@ -22,9 +22,9 @@ Last month, Project Loved celebrated its 4th birthday, and we celebrated by givi
 
 Much like Loved itself, our very own [Project Loved website](https://loved.sh/) is continuing to get support and updates! On top of several quality of life improvements being added, such as pagination for submissions, the community has been hard at work at making sure the website is accessible to all, with the website being translated into Bulgarian, German and Italian since last month! Thank you everyone for the contributions! As always, if you'd like to contribute to the on-going development efforts, please visit the [GitHub repository](https://github.com/cl8n/project-loved-web/) to get started.
 
-With time continuing to march on and with Project Loved's scope continuing to increase each month, we always have new faces joining us as well as others departing. This month, the osu!mania captain roster is seeing a major overhaul. Some of you may already recognize [RandomeLoL](https://osu.ppy.sh/users/7080063) — one of our most dedicated metadata reviewers on the Project Loved Team and a seasoned Beatmap Nominator. Going forward, on top of assisting with beatmap metadata, they will also lend a hand to the osu!mania captain team alongside the prestigious [DannyPX](https://osu.ppy.sh/users/11253722) and the one and only [Paturages](https://osu.ppy.sh/users/1375479). Please give them a warm welcome!
+With time continuing to march on and with Project Loved's scope continuing to increase each month, we always have new faces joining us as well as others departing. This month, the osu!mania captain roster is seeing a major overhaul. Some of you may already recognize ::RandomeLoL::{ user-id=7080063 } — one of our most dedicated metadata reviewers on the Project Loved Team and a seasoned Beatmap Nominator. Going forward, on top of assisting with beatmap metadata, they will also lend a hand to the osu!mania captain team alongside the prestigious ::DannyPX::{ user-id=11253722 } and the one and only ::Paturages::{ user-id=1375479 }. Please give them a warm welcome!
 
-However, with a whopping three new osu!mania captains joining, one of our most influential osu!mania captains is unfortunately retiring, as [-mint-](https://osu.ppy.sh/users/8976576) has announced her resignation from Project Loved. Wanting to move forward to bigger and greater things is always an admirable goal and we would like to wish -mint- only the best, as she has been responsible for some of the most critically-acclaimed nominations to the osu!mania Loved category during her 17-month runtime as a captain and osu!mania coordinator. Thank you for your service and we hope your future plans turn out better than expected!
+However, with a whopping three new osu!mania captains joining, one of our most influential osu!mania captains is unfortunately retiring, as ::-mint-::{ user-id=8976576 } has announced her resignation from Project Loved. Wanting to move forward to bigger and greater things is always an admirable goal and we would like to wish -mint- only the best, as she has been responsible for some of the most critically-acclaimed nominations to the osu!mania Loved category during her 17-month runtime as a captain and osu!mania coordinator. Thank you for your service and we hope your future plans turn out better than expected!
 
 Alright, enough said. Let’s get on with this month’s nominations.
 
@@ -37,55 +37,55 @@ Alright, enough said. Let’s get on with this month’s nominations.
 
 ## osu!
 
-The osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [Doomsday](https://osu.ppy.sh/users/18983), [UberFazz](https://osu.ppy.sh/users/8646059) and [Wixonater](https://osu.ppy.sh/users/10083084)!
+The osu! Loved candidates were chosen by ::DigitalHypno::{ user-id=4384207 }, [Doomsday](https://osu.ppy.sh/users/18983), ::UberFazz::{ user-id=8646059 } and [Wixonater](https://osu.ppy.sh/users/10083084)!
 
 ---
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/564406.jpg)](https://osu.ppy.sh/community/forums/topics/1445552)
 
-[gmtn. (witch's slave) - Illegal Paradise (Grimoire rmx)](https://osu.ppy.sh/beatmapsets/564406#osu) by [Adlol](https://osu.ppy.sh/users/6801630)\
+[gmtn. (witch's slave) - Illegal Paradise (Grimoire rmx)](https://osu.ppy.sh/beatmapsets/564406#osu) by ::Adlol::{ user-id=6801630 }\
 175 BPM, 4:35 | 5.00★, 5.92★\
-*description written by [UberFazz](https://osu.ppy.sh/users/8646059)*
+*description written by ::UberFazz::{ user-id=8646059 }*
 
 A map that's garnered quite the attention over the past few years, Adlol's map of *Illegal Paradise (Grimoire rmx)*, or better known as *Illegal Gothic*, is finally being put up for voting! This rather simple set of 2 difficulties filled with bursts and jumps definitely belongs in the Loved section and is long overdue. Check it out if you haven't played it already!
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1262344.jpg)](https://osu.ppy.sh/community/forums/topics/1445551)
 
-[Kobaryo - HUG AND KILL](https://osu.ppy.sh/beatmapsets/1262344#osu) by [Mismagius](https://osu.ppy.sh/users/19048)\
+[Kobaryo - HUG AND KILL](https://osu.ppy.sh/beatmapsets/1262344#osu) by ::Mismagius::{ user-id=19048 }\
 180 BPM, 3:34 | 5.58★, 7.70★\
-*description written by [UberFazz](https://osu.ppy.sh/users/8646059)*
+*description written by ::UberFazz::{ user-id=8646059 }*
 
 Mismagius makes his return to Loved with another tech map of a speedcore track by a beloved Featured Artist, Kobaryo. *HUG AND KILL* is an erratic track which the mapper takes full advantage of by utilizing fast sliders and spaced 1/4 patterns, making for a really difficult map. However, if you're not up to the challenge of the top diff, there's a lower diff that's much more tame in its difficulty. Try either one and see which one suits you more! ^w^
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1224177.jpg)](https://osu.ppy.sh/community/forums/topics/1445550)
 
-[Camellia feat. Nanahira - Konran Shoujo Soflan-chan!! (Long Version)](https://osu.ppy.sh/beatmapsets/1224177#osu) by [0ugi](https://osu.ppy.sh/users/3812234) and [LeCandy](https://osu.ppy.sh/users/6626249)\
+[Camellia feat. Nanahira - Konran Shoujo Soflan-chan!! (Long Version)](https://osu.ppy.sh/beatmapsets/1224177#osu) by ::0ugi::{ user-id=3812234 } and [LeCandy](https://osu.ppy.sh/users/6626249)\
 153 BPM, 9:00 | 7.81★, 8.84★\
-*description written by [UberFazz](https://osu.ppy.sh/users/8646059)*
+*description written by ::UberFazz::{ user-id=8646059 }*
 
 Returning to Loved after nearly a year, 0ugi's map of *Konran Shoujo Soflan-chan!!* is insane. A quick look in the editor will show you the ridiculous amount of effort that went into... well, everything. But the part that really stands out is the timing. This song [changes timing signatures and BPM every few seconds](https://www.youtube.com/watch?v=CtK0C0ycY-w)... and that makes it really really fun. So go play it. Right now. *soflan\~ soflan\~ soflan lan\~*
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1329408.jpg)](https://osu.ppy.sh/community/forums/topics/1445549)
 
-[Kijibato - w/WWW feat. Hoshimiya Toto](https://osu.ppy.sh/beatmapsets/1329408#osu) by [-Tynamo](https://osu.ppy.sh/users/3638962)\
+[Kijibato - w/WWW feat. Hoshimiya Toto](https://osu.ppy.sh/beatmapsets/1329408#osu) by ::-Tynamo::{ user-id=3638962 }\
 166 BPM, 3:34 | 7.21★\
-*description written by [Wixonater](https://osu.ppy.sh/users/10083084)*
+*description written by ::Wixonater::{ user-id=10083084 }*
 
 This 7\* 166 BPM map really blurs the line between what you would consider alt or not, yet that definition matters not, as with the mix between alt, cut and spaced stream patterns, *w/WWW* is a fast-paced map with no time to think of that. Including those aforementioned cut and spaced streams is a pleasantly flowing map with even higher-spaced doubles fitting in perfectly. This is -Tynamo's second Loved map to go up for voting, so I hope you enjoy his comeback to the category as much as I do.
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1297762.jpg)](https://osu.ppy.sh/community/forums/topics/1445548)
 
-[Mia REGINA - My Sweet Maiden](https://osu.ppy.sh/beatmapsets/1297762#osu) by [SkyFlame](https://osu.ppy.sh/users/3552948)\
+[Mia REGINA - My Sweet Maiden](https://osu.ppy.sh/beatmapsets/1297762#osu) by ::SkyFlame::{ user-id=3552948 }\
 204 BPM, 4:32 | 8.23★\
-*description written by [Wixonater](https://osu.ppy.sh/users/10083084)*
+*description written by ::Wixonater::{ user-id=10083084 }*
 
 Although known throughout the tournament community for many NM1 maps, Skyflame has yet to attain a Loved map, and what better opportunity than putting up the All Stars Show Match 3 NM1 up for Loved voting. Sitting at 8.1 stars and 204 BPM, this jump map has lots of cross-screens, and even a spaced stream in the mix, coming together for a consistently difficult yet enjoyable map. Hopefully this *Sweet Maiden* of a map is as enticing to you as many others have found it to be.
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/780368.jpg)](https://osu.ppy.sh/community/forums/topics/1445547)
 
-[MowtenDoo - Blend W](https://osu.ppy.sh/beatmapsets/780368#osu) by [Kalindraz](https://osu.ppy.sh/users/2313166), [Alexsander](https://osu.ppy.sh/users/9254241), [ekisu](https://osu.ppy.sh/users/3822808), [Lucifinho](https://osu.ppy.sh/users/3687604), [Marianna](https://osu.ppy.sh/users/6701398), [reicavera](https://osu.ppy.sh/users/9314703) and [xxluizxx47](https://osu.ppy.sh/users/4687701)\
+[MowtenDoo - Blend W](https://osu.ppy.sh/beatmapsets/780368#osu) by ::Kalindraz::{ user-id=2313166 }, [Alexsander](https://osu.ppy.sh/users/9254241), ::ekisu::{ user-id=3822808 }, [Lucifinho](https://osu.ppy.sh/users/3687604), ::Marianna::{ user-id=6701398 }, [reicavera](https://osu.ppy.sh/users/9314703) and ::xxluizxx47::{ user-id=4687701 }\
 152 BPM, 1:29 | 2.45★ – 5.48★\
-*description written by [Doomsday](https://osu.ppy.sh/users/18983)*
+*description written by ::Doomsday::{ user-id=18983 }*
 
 We have a classic of a YTPMV tune right here, with a fun beatmap to go with it! This Brazilian collab set of *Blend W* brings you a wide range of high-energy maps at 152 BPM, mostly at an extra to insane level of difficulty. The smooth spaced bursts throughout wind around, and the high slider velocity keeps your cursor bouncing. The hardest of the difficulties even have some 1/4 jumps and very fast sliders to contend with!
 
@@ -93,17 +93,17 @@ With this set containing a full spread that covers players of every skill level,
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/683828.jpg)](https://osu.ppy.sh/community/forums/topics/1445545)
 
-[CALF - SCREAM SQUAD](https://osu.ppy.sh/beatmapsets/683828#osu) by [rustbell](https://osu.ppy.sh/users/227717)\
+[CALF - SCREAM SQUAD](https://osu.ppy.sh/beatmapsets/683828#osu) by ::rustbell::{ user-id=227717 }\
 220 BPM, 1:48 | 7.44★\
-*description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+*description written by ::DigitalHypno::{ user-id=4384207 }*
 
 I don't think rustbell has ever once failed to deliver with his maps, but let's take a closer look at this one in particular. Two minutes long, 220 BPM, and filled with some of the most creative uses of sliders the game has ever seen. This map perfectly captures the true essence of what a truly difficult osu! map has to offer, and ultimately, it's at the top of the list when it comes to unique experiences and challenges.
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/217935.jpg)](https://osu.ppy.sh/community/forums/topics/1445544)
 
-[Plastic to Onnanoko - Shoujo no Maisou](https://osu.ppy.sh/beatmapsets/217935#osu) by [Snow Note](https://osu.ppy.sh/users/643394)\
+[Plastic to Onnanoko - Shoujo no Maisou](https://osu.ppy.sh/beatmapsets/217935#osu) by ::Snow Note::{ user-id=643394 }\
 134 BPM, 1:53 | 1.68★ – 10.28★\
-*description written by [Doomsday](https://osu.ppy.sh/users/18983)*
+*description written by ::Doomsday::{ user-id=18983 }*
 
 Snow Note (formerly known as 7odoa) is well known for making high-difficulty beatmaps since 2013. Of all their creations, this is one of their most infamous boss maps. *Shoujo no Maisou* is a unique challenge set that will not only test your mechanics with its 268 BPM jumps, but also your reading. Most of this set has an approach rate lower than 9, and its snappy patterns and stop-start rhythm can be very deceiving.
 
@@ -113,31 +113,31 @@ A jump-heavy mapset with a rather spooky twist, this is one for those looking fo
 
 ## osu!taiko
 
-The osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [Gamelan4](https://osu.ppy.sh/users/9856910), [Horiiizon](https://osu.ppy.sh/users/8071438), [KuroKuroKuro](https://osu.ppy.sh/users/11931563) and [POCARI SWEAT](https://osu.ppy.sh/users/5082685)!
+The osu!taiko Loved candidates were chosen by ::-Kazu-::{ user-id=920861 }, [Gamelan4](https://osu.ppy.sh/users/9856910), ::Horiiizon::{ user-id=8071438 }, [KuroKuroKuro](https://osu.ppy.sh/users/11931563) and ::POCARI SWEAT::{ user-id=5082685 }!
 
 ---
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/622173.jpg)](https://osu.ppy.sh/community/forums/topics/1445541)
 
-[Hiiragi Yuka - Onegai Darling](https://osu.ppy.sh/beatmapsets/622173#taiko) by [asuasu_yura](https://osu.ppy.sh/users/2875968)\
+[Hiiragi Yuka - Onegai Darling](https://osu.ppy.sh/beatmapsets/622173#taiko) by ::asuasu\1yura::{ user-id=2875968 }\
 180 BPM, 3:10 | 5.27★\
-*description written by [POCARI SWEAT](https://osu.ppy.sh/users/5082685)*
+*description written by ::POCARI SWEAT::{ user-id=5082685 }*
 
 asuasu_yura's maps aren't very drastic. There are no fancy effects and fewer SV changes compared to today's mapping styles, but his pure pattern placements are done so well and are praised by many people regardless of their taste. *Onegai Darling* by asuasu_yura is one of the best beatmaps representing his stick-to-the-basics mapping style. It has been played a lot by many people and has gotten constant love with its nicely made chart as well as its great song choice. While stylish SV changes and effects are fun, sometimes chilling with plainly-styled beatmaps like this one won't leave you in regret!
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/940322.jpg)](https://osu.ppy.sh/community/forums/topics/1445540)
 
-[Komichi Aya (CV: Taneda Risa) - Koiiro Iris (brz_bootleg_remix)](https://osu.ppy.sh/beatmapsets/940322#taiko) by [shinchikuhome](https://osu.ppy.sh/users/3174184)\
+[Komichi Aya (CV: Taneda Risa) - Koiiro Iris (brz_bootleg_remix)](https://osu.ppy.sh/beatmapsets/940322#taiko) by ::shinchikuhome::{ user-id=3174184 }\
 310 BPM, 3:30 | 7.49★\
-*description written by [KuroKuroKuro](https://osu.ppy.sh/users/11931563)*
+*description written by ::KuroKuroKuro::{ user-id=11931563 }*
 
 The much-anticipated and very popular speed map will be put to a vote! I'm sure people in the osu!taiko community have played it before, right? The name of that map is *Koiiro Iris (brz_bootleg_remix)* by shinchikuhome! This map is fast at 310 BPM, but it's mainly composed of 1/2 and 1/4 triplets, so it's a good map for people who aren't confident with speed maps. It is also a great warm-up map for those who are confident in their skills due to its moderate difficulty level. If you're curious, please play and participate in the voting!
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1332614.jpg)](https://osu.ppy.sh/community/forums/topics/1445539)
 
-[Hizumi Rei feat. Meika Mikoto - Eva (Under Construction Remix)](https://osu.ppy.sh/beatmapsets/1332614#taiko) by [EJ_\_](https://osu.ppy.sh/users/7453536)\
+[Hizumi Rei feat. Meika Mikoto - Eva (Under Construction Remix)](https://osu.ppy.sh/beatmapsets/1332614#taiko) by ::EJ\1\_::{ user-id=7453536 }\
 300 BPM, 3:29 | 7.91★\
-*description written by [Gamelan4](https://osu.ppy.sh/users/9856910)*
+*description written by ::Gamelan4::{ user-id=9856910 }*
 
 There is no doubt that among taiko players, speed maps are one of the most popular map types, and you will always see at least one of them being picked in a multiplayer lobby. *Eva (Under Construction Remix)* by EJ_\_ fits perfectly into this description, being a fairly popular pick among high-SR lobbies. Featuring long chains of 1/4 bursts at 300 BPM, with balanced and well-placed density drops to not completely overkill players, this map certainly shows a high quality from a mapper that has yet to receive the recognition they deserve.
 
@@ -145,55 +145,55 @@ If you love having those intense key smashing sessions, or just want to test and
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1252022.jpg)](https://osu.ppy.sh/community/forums/topics/1445538)
 
-[USAO - Chariot](https://osu.ppy.sh/beatmapsets/1252022#taiko) by [uone](https://osu.ppy.sh/users/5321719)\
+[USAO - Chariot](https://osu.ppy.sh/beatmapsets/1252022#taiko) by ::uone::{ user-id=5321719 }\
 128 BPM, 2:24 | 6.32★\
-*description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
+*description written by ::-Kazu-::{ user-id=920861 }*
 
 The Loved scene has received quite a few pretty spicy maps in the last few months, and we're looking to tone it down a bit. *Chariot* by uone is a very popular map ever since it has been picked in a few tournaments, making it a perfect fit as a milder version of the often spotlighted tech maps. Slowjammed complex rhythms, 1/8 doublet sections and multiple snappings in a stream are the *capsaicin* of this map, and even though it's way below other maps, it sure will make a burn!
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1369911.jpg)](https://osu.ppy.sh/community/forums/topics/1445537)
 
-[david shawty - dancing on the sidewalk lights flicker](https://osu.ppy.sh/beatmapsets/1369911#taiko) by [Ulqui](https://osu.ppy.sh/users/1263669)\
+[david shawty - dancing on the sidewalk lights flicker](https://osu.ppy.sh/beatmapsets/1369911#taiko) by ::Ulqui::{ user-id=1263669 }\
 191 BPM, 1:31 | 6.14★\
-*description written by [Horiiizon](https://osu.ppy.sh/users/8071438)*
+*description written by ::Horiiizon::{ user-id=8071438 }*
 
 In contrast to the *Chariot* map above, *dancing on the sidewalk lights flicker* by Ulqui is packed with extreme SV changes non-stop throughout the entirety of the map. Featuring constant overlaps and SV ranging from 0.5 to 2.5, this song demands your full attention from start to finish, and if you combine that with some difficult patterns (especially the stream that fills the entire second kiai), it comes together to make a very challenging, chaotic and unique map that you'll be sure to remember!
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/781356.jpg)](https://osu.ppy.sh/community/forums/topics/1445536)
 
-[Helblinde - Heaven's Fall](https://osu.ppy.sh/beatmapsets/781356#taiko) by [tasuke912](https://osu.ppy.sh/users/2774767)\
+[Helblinde - Heaven's Fall](https://osu.ppy.sh/beatmapsets/781356#taiko) by ::tasuke912::{ user-id=2774767 }\
 200 BPM, 4:09 | 6.40★\
-*description written by [Gamelan4](https://osu.ppy.sh/users/9856910)*
+*description written by ::Gamelan4::{ user-id=9856910 }*
 
 *Heaven's Fall* is a fairly simple map from a mapper like tasuke, who is known for his end-game style of mapping, but that is what makes this taiko diff so refreshing. Featuring some consistent and comfortable patterning, with some spicy 1/6 bursts from time to time, this map is perfect for anyone searching for simple yet entertaining content among all the challenging maps the Loved section provides.
 
 ## osu!catch
 
-The osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Spectator](https://osu.ppy.sh/users/702598), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Wesley](https://osu.ppy.sh/users/2407265)!
+The osu!catch Loved candidates were chosen by ::Sartan::{ user-id=4100941 }, [Spectator](https://osu.ppy.sh/users/702598), ::Tenshichan::{ user-id=1101600 } and [Wesley](https://osu.ppy.sh/users/2407265)!
 
 ---
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1067334.jpg)](https://osu.ppy.sh/community/forums/topics/1445533)
 
-[Camellia - KillerBeast](https://osu.ppy.sh/beatmapsets/1067334#fruits) by [Dika312](https://osu.ppy.sh/users/741613)\
+[Camellia - KillerBeast](https://osu.ppy.sh/beatmapsets/1067334#fruits) by ::Dika312::{ user-id=741613 }\
 220 BPM, 3:52 | 7.86★\
-*description written by [Wesley](https://osu.ppy.sh/users/2407265)*
+*description written by ::Wesley::{ user-id=2407265 }*
 
 Camellia and Dika312, two names that are both pretty familiar, so no need for a big introduction. With a banger like this, what can you expect? A quite challenging map of course! The BPM going all the way up to 220 makes this map a perfect tech/speed map featuring a lot of zig-zags and kick sliders with very little time to slow down just to catch your breath. The approach rate of 9.9 makes this a very good map for a lot of people to get used to higher end maps, to push you up the ladder just a little bit further. Are you ready to take on the Final Boss that Dika has created?
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/781356.jpg)](https://osu.ppy.sh/community/forums/topics/1445532)
 
-[Helblinde - Heaven's Fall](https://osu.ppy.sh/beatmapsets/781356#fruits) by [Nelly](https://osu.ppy.sh/users/4741164)\
+[Helblinde - Heaven's Fall](https://osu.ppy.sh/beatmapsets/781356#fruits) by ::Nelly::{ user-id=4741164 }\
 200 BPM, 4:14 | 7.05★\
-*description written by [Spectator](https://osu.ppy.sh/users/702598)*
+*description written by ::Spectator::{ user-id=702598 }*
 
 Nelly's older style focuses more on the playability and flow than any of our modern maps, which makes the map simple yet still entertaining to play, especially for the mid-level players who are getting used to Overdose levels! A lot of favorites proves that this map has been favored by a lot of players, both in multiplayer lobbies and solo. I would strongly recommend this map to those who have just started playing Overdose difficulties, but want to challenge their limits, and to those who want to enjoy something comfortable and simple, rather than complex and difficult patterns.
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/529589.jpg)](https://osu.ppy.sh/community/forums/topics/1445531)
 
-[Imperial Circus Dead Decadence - FUBUKI](https://osu.ppy.sh/beatmapsets/529589#fruits) by [Bunnrei](https://osu.ppy.sh/users/829284) and [Magic Girl](https://osu.ppy.sh/users/3095784)\
+[Imperial Circus Dead Decadence - FUBUKI](https://osu.ppy.sh/beatmapsets/529589#fruits) by ::Bunnrei::{ user-id=829284 } and [Magic Girl](https://osu.ppy.sh/users/3095784)\
 195 BPM, 1:39 | 1.72★, 3.05★, 4.14★, 5.74★\
-*description written by [Sartan](https://osu.ppy.sh/users/4100941)*
+*description written by ::Sartan::{ user-id=4100941 }*
 
 OK OK CALM DOWN EVERYONE, NOT EVERY MAP IS OVER 7 STARS THIS WEEK, BELIEVE ME! ENTER *FUBUKI*!!!
 
@@ -203,9 +203,9 @@ So go, try it out, slap on some mods if you are a skilled player, and have yours
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1103519.jpg)](https://osu.ppy.sh/community/forums/topics/1445530)
 
-[ZiGZaG HACKER - V^3 (Hello World)](https://osu.ppy.sh/beatmapsets/1103519#fruits) by [Minato Yukina](https://osu.ppy.sh/users/531253)\
+[ZiGZaG HACKER - V^3 (Hello World)](https://osu.ppy.sh/beatmapsets/1103519#fruits) by ::Minato Yukina::{ user-id=531253 }\
 230 BPM, 1:41 | 9.55★, 9.55★, 9.55★\
-*description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
+*description written by ::Tenshichan::{ user-id=1101600 }*
 
 Despite not being active for a long time now, Minato Yukina has created a lot of infamous maps during their prime. One of these maps is *V³ (Hello World)*. All it takes is listening to the song to know that this map is going to be brutal.
 
@@ -215,15 +215,15 @@ If you think you have what it takes to tackle this map, give it a shot.
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by [\_underjoy](https://osu.ppy.sh/users/2235750), [Kawawa](https://osu.ppy.sh/users/4647754), [Paturages](https://osu.ppy.sh/users/1375479), [Penguinosity](https://osu.ppy.sh/users/10235296) and [RandomeLoL](https://osu.ppy.sh/users/7080063)!
+The osu!mania Loved candidates were chosen by ::\_underjoy::{ user-id=2235750 }, [Kawawa](https://osu.ppy.sh/users/4647754), ::Paturages::{ user-id=1375479 }, [Penguinosity](https://osu.ppy.sh/users/10235296) and ::RandomeLoL::{ user-id=7080063 }!
 
 ---
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/639647.jpg)](https://osu.ppy.sh/community/forums/topics/1445526)
 
-[Camellia - GHOST](https://osu.ppy.sh/beatmapsets/639647#mania) by [-mint-](https://osu.ppy.sh/users/8976576), [Mentholzzz](https://osu.ppy.sh/users/7182779) and [Polytetral](https://osu.ppy.sh/users/8612061)\
+[Camellia - GHOST](https://osu.ppy.sh/beatmapsets/639647#mania) by ::-mint-::{ user-id=8976576 }, [Mentholzzz](https://osu.ppy.sh/users/7182779) and ::Polytetral::{ user-id=8612061 }\
 220 BPM, 5:32 | 1.99★ – 6.02★\
-*description written by [Paturages](https://osu.ppy.sh/users/1375479)*
+*description written by ::Paturages::{ user-id=1375479 }*
 
 Yup. This is the one of the most ever played, most favorited (999 at time of writing!) mapsets from the unranked section. Of course we wouldn't let that one go forever unnoticed, roaming and haunting the graveyards forever. Like a ghost. *Ha*. Get it. As we say goodbye to -mint- as a Loved captain, her staple mapset of Camellia's *GHOST* will also say goodbye to the unranked section. And would there be a better goodbye than digging in the deepest confines of her haunted closet and pulling a fresh 2017 entry from it?
 
@@ -235,10 +235,10 @@ Do not get haunted by this long-winded description: go cast your vote now and al
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/547197.jpg)](https://osu.ppy.sh/community/forums/topics/1445525)
 
-[Various Artists - Jumpstream Of Fighters Vol. 2A](https://osu.ppy.sh/beatmapsets/547197#mania) by [Leo137](https://osu.ppy.sh/users/1177817), [akuma123](https://osu.ppy.sh/users/914472), [Alamanar](https://osu.ppy.sh/users/7621152), [blazziken_old](https://osu.ppy.sh/users/2544313) and [porkypink](https://osu.ppy.sh/users/8599368)\
+[Various Artists - Jumpstream Of Fighters Vol. 2A](https://osu.ppy.sh/beatmapsets/547197#mania) by ::Leo137::{ user-id=1177817 }, [akuma123](https://osu.ppy.sh/users/914472), ::Alamanar::{ user-id=7621152 }, [blazziken_old](https://osu.ppy.sh/users/2544313) and ::porkypink::{ user-id=8599368 }\
 170 – 224 BPM, 3:59 | 4.21★ – 5.22★\
 The \[(Marathon) - Delete Upon Download\] difficulty is *not* being nominated for Loved.\
-*description written by [Paturages](https://osu.ppy.sh/users/1375479)*
+*description written by ::Paturages::{ user-id=1375479 }*
 
 Imagine submitting [Vol. 2B](https://osu.ppy.sh/beatmapsets/547215) for Loved first. The captains clearly know their ABCs really well ⁠— or I guess I should say BAC now. Is there even a Vol. 2C? Anyways, if sending Vol. 2B to the Loved section made sense, then why not put in Vol. 2A as well? Better late than never.
 
@@ -250,10 +250,10 @@ What are you waiting for? Go ahead, *jump in* and cast your vote to compete on t
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1206088.jpg)](https://osu.ppy.sh/community/forums/topics/1445523)
 
-[Various Artists - LTD Pack](https://osu.ppy.sh/beatmapsets/1206088#mania) by [LTD](https://osu.ppy.sh/users/8113836)\
+[Various Artists - LTD Pack](https://osu.ppy.sh/beatmapsets/1206088#mania) by ::LTD::{ user-id=8113836 }\
 140 – 160 BPM, 4:44 | 5.71★ – 7.71★\
 The \[Normal\] difficulty is *not* being nominated for Loved.\
-*description written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
+*description written by ::RandomeLoL::{ user-id=7080063 }*
 
 For most chordjack players this is but a piece of history. A long awaited pack waiting to be given the spotlight. And here it finally is for everyone to rejoice upon!
 
@@ -265,11 +265,11 @@ In any case, for anyone searching for a peak quad chordjack-oriented pack, this 
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/899542.jpg)](https://osu.ppy.sh/community/forums/topics/1445522)
 
-[Halogen - U Got That](https://osu.ppy.sh/beatmapsets/899542#mania) by [notapplicable](https://osu.ppy.sh/users/7170536)\
+[Halogen - U Got That](https://osu.ppy.sh/beatmapsets/899542#mania) by ::notapplicable::{ user-id=7170536 }\
 124 BPM, 2:37 | 3.22★, 3.22★\
-*description written by [Paturages](https://osu.ppy.sh/users/1375479)*
+*description written by ::Paturages::{ user-id=1375479 }*
 
-Did you get that? notapplicable certainly got the attention of many with Halogen's (not the [player](https://osu.ppy.sh/users/169992)) incredibly catchy and [highly acclaimed](https://www.youtube.com/watch?v=UpvrmgKjvys) single *U Got That*. Astute players may have already seen and encountered this map in multiplayer lobbies and gotten themselves into scrolling surprises, and there is no doubt that the notoriety and popularity of the map itself warrants its inclusion among the Loved roster.
+Did you get that? notapplicable certainly got the attention of many with Halogen's (not the ::player::{ user-id=169992 }) incredibly catchy and [highly acclaimed](https://www.youtube.com/watch?v=UpvrmgKjvys) single *U Got That*. Astute players may have already seen and encountered this map in multiplayer lobbies and gotten themselves into scrolling surprises, and there is no doubt that the notoriety and popularity of the map itself warrants its inclusion among the Loved roster.
 
 Learning this map does not come free of charge: rhythm identification and memorization is paramount in order to grasp and pass the iconic drops. However, the song being as catchy as it is, the learning experience feels fabulously satisfying: the scrolling variations augment and complement the high energy and impact of the song, providing a full audiovisual cocktail once mastery is achieved.
 
@@ -277,9 +277,9 @@ Overall, *U Got That* is an excellent and engaging entry into harder SVs and you
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1338008.jpg)](https://osu.ppy.sh/community/forums/topics/1445521)
 
-[katagiri - Angel's Salad ("Le mythe etendu" ver.)](https://osu.ppy.sh/beatmapsets/1338008#mania) by [Penguinosity](https://osu.ppy.sh/users/10235296)\
+[katagiri - Angel's Salad ("Le mythe etendu" ver.)](https://osu.ppy.sh/beatmapsets/1338008#mania) by ::Penguinosity::{ user-id=10235296 }\
 185.85 BPM, 3:21 | 5.07★, 5.29★, 5.51★, 5.72★, 5.94★\
-*description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
+*description written by ::\_underjoy::{ user-id=2235750 }*
 
 *Angel's Salad ("Le mythe tendu" ver.)* is probably one of the most interesting tech maps of this year, and definitely Penguinosity's first mapset nominated for Project Loved.
 
@@ -289,9 +289,9 @@ Penguinosity did a great and clean job with this chart. Although highly chaotic,
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1133738.jpg)](https://osu.ppy.sh/community/forums/topics/1445520)
 
-[Camellia feat. Nanahira - finorza](https://osu.ppy.sh/beatmapsets/1133738#mania) by [AlexDunk](https://osu.ppy.sh/users/9194799) and [lovely_hyahya](https://osu.ppy.sh/users/10318380)\
+[Camellia feat. Nanahira - finorza](https://osu.ppy.sh/beatmapsets/1133738#mania) by ::AlexDunk::{ user-id=9194799 } and [lovely_hyahya](https://osu.ppy.sh/users/10318380)\
 225 BPM, 4:41 | 5.18★, 5.57★\
-*description written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
+*description written by ::RandomeLoL::{ user-id=7080063 }*
 
 And here comes not one, but two newcomers into the Loved section! Both AlexDunk and lovely_hyahya have presented the community with their unique take on Camellia's *fiиorza*.
 
@@ -301,9 +301,9 @@ We hope that AlexDunk's and lovely_hyahya's debuts become well received. But mos
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1218708.jpg)](https://osu.ppy.sh/community/forums/topics/1445519)
 
-[Twenty One Pilots - Heathens (Magnetude Bootleg)](https://osu.ppy.sh/beatmapsets/1218708#mania) by [Abraxos](https://osu.ppy.sh/users/5025064)\
+[Twenty One Pilots - Heathens (Magnetude Bootleg)](https://osu.ppy.sh/beatmapsets/1218708#mania) by ::Abraxos::{ user-id=5025064 }\
 174 BPM, 2:35 | 5.97★\
-*description written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
+*description written by ::RandomeLoL::{ user-id=7080063 }*
 
 Quite a while since we've seen Abraxos on the Loved scene, and their comeback is nothing short of a surprise.
 
@@ -315,9 +315,9 @@ For anyone yearning to play the most unconventional yet fun and unique maps, wan
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/975960.jpg)](https://osu.ppy.sh/community/forums/topics/1445518)
 
-[Nekomata Master - Despair of ELFERIA](https://osu.ppy.sh/beatmapsets/975960#mania) by [FelixSpade](https://osu.ppy.sh/users/2651304)\
+[Nekomata Master - Despair of ELFERIA](https://osu.ppy.sh/beatmapsets/975960#mania) by ::FelixSpade::{ user-id=2651304 }\
 200 BPM, 3:57 | 5.86★, 5.90★\
-*description written by [Penguinosity](https://osu.ppy.sh/users/10235296)*
+*description written by ::Penguinosity::{ user-id=10235296 }*
 
 FelixSpade makes their first appearance to the Loved votings, with their awesome map of *Despair of ELFERIA*. To give a bit of a briefing on who Felix is, they're a well-known hardworking member of the charting community who has been putting out high quality charts for years at this point. Felix has specifically built up a good reputation amongst LN enthusiasts for having some real standout maps, one of which we have here today.
 
@@ -327,9 +327,9 @@ It's not easy to make a four-minute long LN map as well put together as this, so
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1225254.jpg)](https://osu.ppy.sh/community/forums/topics/1445517)
 
-[Sewerslvt - Cyberia Lyr3](https://osu.ppy.sh/beatmapsets/1225254#mania) by [DannyPX](https://osu.ppy.sh/users/11253722)\
+[Sewerslvt - Cyberia Lyr3](https://osu.ppy.sh/beatmapsets/1225254#mania) by ::DannyPX::{ user-id=11253722 }\
 220 BPM, 3:32 | 3.79★ – 6.88★\
-*description written by [Paturages](https://osu.ppy.sh/users/1375479)*
+*description written by ::Paturages::{ user-id=1375479 }*
 
 As we welcome DannyPX among the new Loved captains, we also welcome him into the Loved section with one of his most popular sets: *Cyberia Lyr3*, by Featured Artist [Sewerslvt](https://osu.ppy.sh/beatmaps/artists/169). DannyPX charts a lot. And by a lot, we mean A LOT: it would be quite an incredible achievement for a seasoned player to *not* have encountered one of his maps in a tournament.
 
@@ -339,9 +339,9 @@ Have you watched [*Serial Experimentals Lain*](https://anilist.co/anime/339/seri
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1386526.jpg)](https://osu.ppy.sh/community/forums/topics/1445516)
 
-[96-glass - Shiawase ni nareru kakushi amenbreak ga arurashii](https://osu.ppy.sh/beatmapsets/1386526#mania) by [hna](https://osu.ppy.sh/users/12335541)\
+[96-glass - Shiawase ni nareru kakushi amenbreak ga arurashii](https://osu.ppy.sh/beatmapsets/1386526#mania) by ::hna::{ user-id=12335541 }\
 284 – 369.2 BPM, 3:28 | 4.46★, 4.62★, 4.82★, 5.17★, 5.50★\
-*description written by [Paturages](https://osu.ppy.sh/users/1375479)*
+*description written by ::Paturages::{ user-id=1375479 }*
 
 No, this is not [that infamous ~~quaddable~~ SV from random multiplayer lobbies](https://osu.ppy.sh/beatmapsets/474184#mania/1012986). This flip will blow your perception of the original away: this is *not* your casual, slow amen break. 96-glass's interpretation goes balls to the wall with intensity, providing almost three and a half minutes of uninterrupted information to your ears.
 
@@ -353,9 +353,9 @@ You do not need a cheat code to go ahead and vote for this entry, so I suggest y
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/858742.jpg)](https://osu.ppy.sh/community/forums/topics/1445515)
 
-[Eiffel 65 - Blue (Da Ba Dee)](https://osu.ppy.sh/beatmapsets/858742#mania) by [Flexo123](https://osu.ppy.sh/users/5367287)\
+[Eiffel 65 - Blue (Da Ba Dee)](https://osu.ppy.sh/beatmapsets/858742#mania) by ::Flexo123::{ user-id=5367287 }\
 128 BPM, 4:38 | 6.35★\
-*description written by [Penguinosity](https://osu.ppy.sh/users/10235296)*
+*description written by ::Penguinosity::{ user-id=10235296 }*
 
 Yo listen up, here's a Flexo map!
 
@@ -369,9 +369,9 @@ Both this map and song are what I think we can call a change of pace for Loved, 
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/856559.jpg)](https://osu.ppy.sh/community/forums/topics/1445514)
 
-[Sakuzyo - Amenohoakari](https://osu.ppy.sh/beatmapsets/856559#mania) by [Kawawa](https://osu.ppy.sh/users/4647754)\
+[Sakuzyo - Amenohoakari](https://osu.ppy.sh/beatmapsets/856559#mania) by ::Kawawa::{ user-id=4647754 }\
 155 BPM, 2:28 | 4.87★, 5.85★\
-*description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
+*description written by ::\_underjoy::{ user-id=2235750 }*
 
 Another fun chart by Kawawa, *Amenohoakari* enters the Loved voting! The community has grown accustomed to Kawawa's simple but effective style of charting and this chart is a great example of his proficiency in 7K mapping.
 
@@ -383,9 +383,9 @@ The oriental vibes of *Amenohoakari* are greatly expressed in this fun and simpl
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1182558.jpg)](https://osu.ppy.sh/community/forums/topics/1445513)
 
-[Various Artists - Pengdoll's BOSS Map Collection](https://osu.ppy.sh/beatmapsets/1182558#mania) by [Pengdoll](https://osu.ppy.sh/users/6392061)\
+[Various Artists - Pengdoll's BOSS Map Collection](https://osu.ppy.sh/beatmapsets/1182558#mania) by ::Pengdoll::{ user-id=6392061 }\
 192 – 220 BPM, 2:57 | 10.21★ – 12.72★\
-*description written by [Kawawa](https://osu.ppy.sh/users/4647754)*
+*description written by ::Kawawa::{ user-id=4647754 }*
 
 It's time to play some Long Notes, as we're coming in hot with a high-level 7K pack by Pengdoll! It's been a long time coming but we are finally bringing Pengdoll's first map to the Loved section, someone who is also well-known as "LCH" in the O2Jam community. Due to recent demands from the community for high-level content, we decided that the best first map to choose from Pengdoll would be their ever-difficult *BOSS Map Collection*.
 
@@ -395,9 +395,9 @@ If you are up for a challenge on high-level LN mapping, then try your shot with 
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/448738.jpg)](https://osu.ppy.sh/community/forums/topics/1445512)
 
-[Aphex Twin - Avril 14th (Webodan's 8-bit GXSCC Cover)](https://osu.ppy.sh/beatmapsets/448738#mania) by [Nivrad00](https://osu.ppy.sh/users/1984634)\
+[Aphex Twin - Avril 14th (Webodan's 8-bit GXSCC Cover)](https://osu.ppy.sh/beatmapsets/448738#mania) by ::Nivrad00::{ user-id=1984634 }\
 78.12 BPM, 1:51 | 2.91★\
-*description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
+*description written by ::\_underjoy::{ user-id=2235750 }*
 
 If I were to choose the most infamous 7K tournament chart, I'd probably go with this one. *Avril 14th* as mapped by the 7K gimmick and technical specialist Nivrad00 is a truly map like none other.
 
@@ -409,9 +409,9 @@ You may love or hate *Avril*, but give this map a try since it is just as intere
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/661622.jpg)](https://osu.ppy.sh/community/forums/topics/1445511)
 
-[Riko (CV: Tomita Miyu), Reg (CV: Ise Mariya) - Deep in Abyss](https://osu.ppy.sh/beatmapsets/661622#mania) by [LostCool](https://osu.ppy.sh/users/766374)\
+[Riko (CV: Tomita Miyu), Reg (CV: Ise Mariya) - Deep in Abyss](https://osu.ppy.sh/beatmapsets/661622#mania) by ::LostCool::{ user-id=766374 }\
 135 BPM, 3:38 | 7.46★\
-*description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
+*description written by ::\_underjoy::{ user-id=2235750 }*
 
 *Deep in Abyss* is another well-known chart by the 7K LN mapping veteran LostCool should really have a shot at getting a leaderboard! This map has steadily built up traction over 4 years and is a great showcase of the mapper's interesting and spectacular style.
 
@@ -421,9 +421,9 @@ The playful nature of the song is well reflected in the map's flow that always f
 
 [![](/wiki/shared/news/2021-10-21-project-loved-october-2021/1386965.jpg)](https://osu.ppy.sh/community/forums/topics/1445510)
 
-[AAAA + Umeboshi Chazuke - Cait Sith](https://osu.ppy.sh/beatmapsets/1386965#mania) by [Yunabi](https://osu.ppy.sh/users/12006280), [qodtjr](https://osu.ppy.sh/users/3021168) and [SYISHI](https://osu.ppy.sh/users/8884753)\
+[AAAA + Umeboshi Chazuke - Cait Sith](https://osu.ppy.sh/beatmapsets/1386965#mania) by ::Yunabi::{ user-id=12006280 }, [qodtjr](https://osu.ppy.sh/users/3021168) and ::SYISHI::{ user-id=8884753 }\
 170 BPM, 3:09 | 4.43★, 4.77★, 7.09★\
-*description written by [Kawawa](https://osu.ppy.sh/users/4647754)*
+*description written by ::Kawawa::{ user-id=4647754 }*
 
 *Cait Sith* here, is a collaborative effort between Yunabi, SYISHI and qodtjr. Being a joint set, the original uploads for what you see here were separate, uploaded by both Yunabi and qodtjr respectively. These two sets rivaled each other in popularity, and so we at the Loved team reached out to both mappers to see if they would join the two together, and here we are! In the process of this, we are truly happy to bring you all the first nominations from Yunabi and SYISHI!
 

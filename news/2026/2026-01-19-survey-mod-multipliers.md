@@ -84,7 +84,7 @@ The remaining tabs will then show a comparison of how leaderboards would change 
 
 ---
 
-Many thanks to ::{ flag=PL }:: [Maklovitz](https://osu.ppy.sh/users/9217626), ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611), ::{ flag=UA }:: [SomeMelGuy](https://osu.ppy.sh/users/8706541), ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455), ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) and ::{ flag=FR }:: [Zyf](https://osu.ppy.sh/users/7475179), who were involved in organising the survey and programming the spreadsheet. Also big thanks to ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) for the cool banner.
+Many thanks to ::{ flag=PL }:: ::Maklovitz::{ user-id=9217626 }, ::{ flag=FI }:: ::Nyanaro::{ user-id=4157611 }, ::{ flag=UA }:: ::SomeMelGuy::{ user-id=8706541 }, ::{ flag=RU }:: ::StanR::{ user-id=7217455 }, ::{ flag=GB }:: ::tsunyoku::{ user-id=11315329 } and ::{ flag=FR }:: ::Zyf::{ user-id=7475179 }, who were involved in organising the survey and programming the spreadsheet. Also big thanks to ::{ flag=GB }:: ::Tanza::{ user-id=10379965 } for the cool banner.
 
 The survey will be open for two weeks, and closes on **2 February 2026**.
 

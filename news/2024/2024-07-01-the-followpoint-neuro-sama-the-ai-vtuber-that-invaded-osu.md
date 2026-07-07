@@ -5,11 +5,11 @@ date: 2024-07-01 17:00:00 +0000
 series: followpoint
 ---
 
-Read about [Vedal](https://osu.ppy.sh/users/9713367)'s (and Neuro's) origins in osu! and perspective of their explosion into stardom!
+Read about ::Vedal::{ user-id=9713367 }'s (and Neuro's) origins in osu! and perspective of their explosion into stardom!
 
 ![](/wiki/shared/news/2024-07-01-the-followpoint-neuro-sama-the-ai-vtuber-that-invaded-osu/banner.jpg)
 
-This duo is definitely a well-known one in the osu! community! Neuro-sama, an AI VTuber, and her creator [Vedal](https://osu.ppy.sh/users/9713367) are [Twitch streamers](https://www.twitch.tv/vedal987) with origins as osu! players. Neuro was created back in 2018 as an AI learning to play osu! and revived as a VTuber in 2022, and after growing in popularity and continuing to garner the interest of viewers with her personality, they have nowadays branched out beyond osu! and become mainstays of the general VTuber sphere!
+This duo is definitely a well-known one in the osu! community! Neuro-sama, an AI VTuber, and her creator ::Vedal::{ user-id=9713367 } are [Twitch streamers](https://www.twitch.tv/vedal987) with origins as osu! players. Neuro was created back in 2018 as an AI learning to play osu! and revived as a VTuber in 2022, and after growing in popularity and continuing to garner the interest of viewers with her personality, they have nowadays branched out beyond osu! and become mainstays of the general VTuber sphere!
 
 Did I catch your attention? Good, now let's get right into it!
 
@@ -33,7 +33,7 @@ Did I catch your attention? Good, now let's get right into it!
 
 *How did you get introduced to osu!, and what was your first impression of it?*
 
-> I first played osu! in early 2017, and though I can't remember exactly why I suspect I might have found the game through [BTMC](https://osu.ppy.sh/users/3171691)'s ["And some say he never played osu! again"](https://www.youtube.com/watch?v=WKja2Ee7Pys) video. osu! was my first experience with a rhythm game, so it was nice to have something completely different — especially when it's free. I'd play with a few friends every now and then, which was quite fun as I'm a pretty competitive person, making improving that much more satisfying.
+> I first played osu! in early 2017, and though I can't remember exactly why I suspect I might have found the game through ::BTMC::{ user-id=3171691 }'s ["And some say he never played osu! again"](https://www.youtube.com/watch?v=WKja2Ee7Pys) video. osu! was my first experience with a rhythm game, so it was nice to have something completely different — especially when it's free. I'd play with a few friends every now and then, which was quite fun as I'm a pretty competitive person, making improving that much more satisfying.
 
 *What would you call the greatest gift that osu! has given you?*
 

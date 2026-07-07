@@ -23,7 +23,7 @@ Start exploring **garlagan**'s unconventional sound through an unconventional me
 
 ### PPaper PPlanes
 
-Try out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1379854) hosted by fruit-focused mapper [Phob](https://osu.ppy.sh/users/6069462)!
+Try out [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1379854) hosted by fruit-focused mapper ::Phob::{ user-id=6069462 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/212/00/garlagan%20-%20PPaper%20PPlanes.mp3" type="audio/mpeg">

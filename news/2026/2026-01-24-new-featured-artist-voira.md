@@ -9,7 +9,7 @@ osu! needs more artcore!
 
 ![](https://assets.ppy.sh/artists/521/header.jpg)
 
-For those unfamiliar with the Japanese doujin scene, "artcore" is a genre focused on the emotional and cinematic side of drum & bass, trance, and other electronic sounds. For those unfamiliar with the circle clicking scene, [*artcore*](https://osu.ppy.sh/users/9713839) is also **voira**'s username here on osu!.
+For those unfamiliar with the Japanese doujin scene, "artcore" is a genre focused on the emotional and cinematic side of drum & bass, trance, and other electronic sounds. For those unfamiliar with the circle clicking scene, ::*artcore*::{ user-id=9713839 } is also **voira**'s username here on osu!.
 
 **voira** began their music career in 2022, inspired by artists within the drum & bass and artcore scenes like [*ak+q*](https://osu.ppy.sh/beatmaps/artists/466), *tn-shi*, Sakuzyo*, *AZALI*, and [*xi*](https://osu.ppy.sh/beatmaps/artists/727). These artists have produced countless songs that have become icons in the rhythm game scene, and as a Featured Artist, **voira** is on the same path.
 
@@ -19,7 +19,7 @@ Get a glimpse of what's in store, then go to [the listing](https://osu.ppy.sh/be
 
 ### voira - break/apart
 
-Before **voira** was a musician, they poured their artistry into osu! mapping. That's why [this map](https://osu.ppy.sh/beatmapsets/2375904) made by **voira** (a.k.a. [artcore](https://osu.ppy.sh/users/9713839)) exists!
+Before **voira** was a musician, they poured their artistry into osu! mapping. That's why [this map](https://osu.ppy.sh/beatmapsets/2375904) made by **voira** (a.k.a. ::artcore::{ user-id=9713839 }) exists!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

@@ -2,11 +2,11 @@
 
 ## Enero
 
-En la segunda semana de enero, [peppy](https://osu.ppy.sh/users/2) fue entrevistado por [MongoDB](https://es.wikipedia.org/wiki/MongoDB), el equipo responsable del desarrollo de [Realm](https://realm.io/), una base de datos usada en osu!(lazer). En la entrevista, hablaron de temas como el origen de osu!, la forma en la que osu! genera ingresos, el desarrollo y la infraestructura de osu! así como la transición a osu!(lazer).[^interview-mongodb]
+En la segunda semana de enero, ::peppy::{ user-id=2 } fue entrevistado por [MongoDB](https://es.wikipedia.org/wiki/MongoDB), el equipo responsable del desarrollo de [Realm](https://realm.io/), una base de datos usada en osu!(lazer). En la entrevista, hablaron de temas como el origen de osu!, la forma en la que osu! genera ingresos, el desarrollo y la infraestructura de osu! así como la transición a osu!(lazer).[^interview-mongodb]
 
 Gracias a una actualización de osu!(lazer) el 21 de enero, los mappers ahora podían establecer el punto de vista previa de un beatmap en el [editor de beatmaps](/wiki/Client/Beatmap_editor). Al mismo tiempo, se rediseñó la barra de progreso del juego de la skin «argon» y se añadió la posibilidad de cambiar la cobertura de la pantalla del mod [Fade In](/wiki/Gameplay/Game_modifier/Fade_In). Por último, se habilitaron los [puntos de rendimiento](/wiki/Performance_points) para las puntuaciones, lo que provocó un aumento en la actividad de los jugadores. Justo después de la actualización, las puntuaciones diarias aumentaron de 103 000 el día anterior a 302 000, y el número de jugadores simultáneos pasó de unos 200 a 1600.[^lazer-jan-21]
 
-[osu!stream](/wiki/osu!stream), un juego diseñado específicamente para dispositivos de mano y con elementos de juego únicos, recibió una adaptación a [Android](https://es.wikipedia.org/wiki/Android) tras las aportaciones de [ThePooN](https://osu.ppy.sh/users/718454) y otros. Hasta ese momento, solo estaba disponible en [iOS](https://es.wikipedia.org/wiki/IOS). En 2011, cuando comenzó el desarrollo de la versión para iOS, no estaba prevista su implementación en Android debido a las restricciones relacionadas con el audio en la infraestructura de Android, que afectarían en gran medida a la experiencia de juego.[^osu-stream-twitter][^osu-stream-pr]
+[osu!stream](/wiki/osu!stream), un juego diseñado específicamente para dispositivos de mano y con elementos de juego únicos, recibió una adaptación a [Android](https://es.wikipedia.org/wiki/Android) tras las aportaciones de ::ThePooN::{ user-id=718454 } y otros. Hasta ese momento, solo estaba disponible en [iOS](https://es.wikipedia.org/wiki/IOS). En 2011, cuando comenzó el desarrollo de la versión para iOS, no estaba prevista su implementación en Android debido a las restricciones relacionadas con el audio en la infraestructura de Android, que afectarían en gran medida a la experiencia de juego.[^osu-stream-twitter][^osu-stream-pr]
 
 La página de descargas del sitio web de osu! fue rediseñada, con una opción de descarga adicional para osu!(lazer). Antes de este cambio, solo se podía descargar osu!(stable) a través del sitio web, mientras que para descargar osu!(lazer) había que hacerlo desde su [repositorio de GitHub](https://github.com/ppy/osu). El botón de descarga de osu!(lazer) se colocó en la parte derecha de la página, con osu!(stable) a la izquierda, con el objetivo final de intercambiarlos para que osu!(lazer) destaque más.[^lazer-download]
 
@@ -16,9 +16,9 @@ El [lenguaje de marcado](https://es.wikipedia.org/wiki/Lenguaje_de_marcado) [BBC
 
 ## Marzo
 
-En el concurso [Skin of the Year](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022) de 2022, los usuarios pudieron votar por su skin favorita. Los tres primeros lugares, ocupados por [- Koshiin -](https://osu.ppy.sh/users/19135423), [moonstaar](https://osu.ppy.sh/users/27339355) y [BatuhanYtho](https://osu.ppy.sh/users/12091015) respectivamente, recibieron insignias personalizadas como premio del concurso. Cada finalista, desde el puesto número 1 al número 10, recibió diferentes cantidades de osu!supporter.[^soty-results]
+En el concurso [Skin of the Year](https://osu.ppy.sh/home/news/2023-02-09-skin-of-the-year-2022) de 2022, los usuarios pudieron votar por su skin favorita. Los tres primeros lugares, ocupados por ::- Koshiin -::{ user-id=19135423 }, [moonstaar](https://osu.ppy.sh/users/27339355) y ::BatuhanYtho::{ user-id=12091015 } respectivamente, recibieron insignias personalizadas como premio del concurso. Cada finalista, desde el puesto número 1 al número 10, recibió diferentes cantidades de osu!supporter.[^soty-results]
 
-[EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) jugó todos los beatmaps clasificados en el [modo de juego osu!](/wiki/Game_mode/osu!) hasta el 12 de marzo y, por lo tanto, fue el tercero en recibir el [título de usuario](/wiki/Community/User_title) [osu!completionist](/wiki/People/Completionists).[^completionist-tweet]
+::EEEEEEEEEEEEEEE::{ user-id=2927048 } jugó todos los beatmaps clasificados en el [modo de juego osu!](/wiki/Game_mode/osu!) hasta el 12 de marzo y, por lo tanto, fue el tercero en recibir el [título de usuario](/wiki/Community/User_title) [osu!completionist](/wiki/People/Completionists).[^completionist-tweet]
 
 ## Abril
 
@@ -44,9 +44,9 @@ En el segundo lanzamiento del mes, 2 semanas después, el [modo de juego](/wiki/
 ![](img/osu!monthly-9.jpg "Portada de la 9ª edición del osu!monthly")
 :::
 
-La tercera temporada del [osu!monthly](/wiki/Community/osu!monthly) finalizó con la [9ª edición](https://osu.ppy.sh/home/news/2023-06-26-osumonthly-9), que resumió los acontecimientos más importantes de la comunidad a partir de marzo de 2023. Debido principalmente a la disolución del equipo de mapping del proyecto[^mapping-team-disbanding] y al gran trabajo necesario para redactar las ediciones del osu!monthly, el equipo del osu!monthly decidió dejar el proyecto en pausa por el momento. En varias discusiones se consideró la posibilidad de reorganizar el trabajo y publicar en su lugar ediciones estacionales o anuales.[^monthly-discord][^writing-proposal] [0x84f](https://osu.ppy.sh/users/7944724), uno de los responsables del proyecto de la tercera temporada, también hizo encuestas públicas para averiguar qué le interesaba a la comunidad y qué le gustaría ver en la sección de noticias del sitio web de osu! en general.[^news-content-1][^news-content-2]
+La tercera temporada del [osu!monthly](/wiki/Community/osu!monthly) finalizó con la [9ª edición](https://osu.ppy.sh/home/news/2023-06-26-osumonthly-9), que resumió los acontecimientos más importantes de la comunidad a partir de marzo de 2023. Debido principalmente a la disolución del equipo de mapping del proyecto[^mapping-team-disbanding] y al gran trabajo necesario para redactar las ediciones del osu!monthly, el equipo del osu!monthly decidió dejar el proyecto en pausa por el momento. En varias discusiones se consideró la posibilidad de reorganizar el trabajo y publicar en su lugar ediciones estacionales o anuales.[^monthly-discord][^writing-proposal] ::0x84f::{ user-id=7944724 }, uno de los responsables del proyecto de la tercera temporada, también hizo encuestas públicas para averiguar qué le interesaba a la comunidad y qué le gustaría ver en la sección de noticias del sitio web de osu! en general.[^news-content-1][^news-content-2]
 
-Como homenaje a las dos primeras temporadas que se publicaron en formato PDF, el 9º osu!monthly se realizó [como revista](https://assets.ppy.sh/media/osu-monthly/2023-03/osu-monthly-2023-03.pdf) en lugar de las habituales noticias. Incluyó noticias sobre el mapping, el skinning y los acontecimientos de la comunidad, así como entrevistas con [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) y [pishifat](https://osu.ppy.sh/users/3178418).
+Como homenaje a las dos primeras temporadas que se publicaron en formato PDF, el 9º osu!monthly se realizó [como revista](https://assets.ppy.sh/media/osu-monthly/2023-03/osu-monthly-2023-03.pdf) en lugar de las habituales noticias. Incluyó noticias sobre el mapping, el skinning y los acontecimientos de la comunidad, así como entrevistas con ::EEEEEEEEEEEEEEE::{ user-id=2927048 } y [pishifat](https://osu.ppy.sh/users/3178418).
 
 ## Julio
 
@@ -54,13 +54,13 @@ Como homenaje a las dos primeras temporadas que se publicaron en formato PDF, el
 
 ## Agosto
 
-Desde mayo hasta agosto, se organizó el concurso de skins [Icons of an Era](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era) para celebrar los 15 años de osu! en forma de [skins](/wiki/Skin) que representaban beatmaps o mascotas populares. [Spoo](https://osu.ppy.sh/users/11805037), [Chromasia](https://osu.ppy.sh/users/7306251) y [thetasigma](https://osu.ppy.sh/users/6234482) obtuvieron el primer, segundo y tercer lugar del concurso, respectivamente. Los premios incluyeron una insignia personalizada y diversas cantidades de osu!supporter.[^icons-of-an-era]
+Desde mayo hasta agosto, se organizó el concurso de skins [Icons of an Era](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era) para celebrar los 15 años de osu! en forma de [skins](/wiki/Skin) que representaban beatmaps o mascotas populares. ::Spoo::{ user-id=11805037 }, [Chromasia](https://osu.ppy.sh/users/7306251) y ::thetasigma::{ user-id=6234482 } obtuvieron el primer, segundo y tercer lugar del concurso, respectivamente. Los premios incluyeron una insignia personalizada y diversas cantidades de osu!supporter.[^icons-of-an-era]
 
 ::: Infobox
 ![](img/place-profile.png "Captura de pantalla del lienzo del 20 de octubre de 2024")
 :::
 
-[Dynam1cNET](https://osu.ppy.sh/users/12540789) implementó un lienzo personalizado similar al de [r/place](https://es.wikipedia.org/wiki/Place_(Reddit)) en su página de perfil, permitiendo a cualquier usuario *colocar* píxeles de colores en él.[^me-page-place]
+::Dynam1cNET::{ user-id=12540789 } implementó un lienzo personalizado similar al de [r/place](https://es.wikipedia.org/wiki/Place_(Reddit)) en su página de perfil, permitiendo a cualquier usuario *colocar* píxeles de colores en él.[^me-page-place]
 
 ## Noviembre
 

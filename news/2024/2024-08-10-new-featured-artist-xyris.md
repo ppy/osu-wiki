@@ -13,7 +13,7 @@ Drawing inspiration from the likes of *Virtual Riot*, *lapix*, *kamome sano*, an
 
 **7** tunes have journeyed to [**Xyris**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/433), where they'll remain as pre-timed beatmap templates until the last osu! server melts away.
 
-While osu! players may know **Xyris** for their expanding catalogue of [osu! originals](/wiki/osu!_originals), osu!mania players associate **Xyris** with one thing: ~~suffering~~ [this insanely difficult mapset of *Eviternity*](https://osu.ppy.sh/beatmapsets/1961513). See how the UK's #1 osu!mania player [Usie](https://osu.ppy.sh/users/16162078) tackled it from [COE 2024](/wiki/Community/cavoe's_osu!_event/2024):
+While osu! players may know **Xyris** for their expanding catalogue of [osu! originals](/wiki/osu!_originals), osu!mania players associate **Xyris** with one thing: ~~suffering~~ [this insanely difficult mapset of *Eviternity*](https://osu.ppy.sh/beatmapsets/1961513). See how the UK's #1 osu!mania player ::Usie::{ user-id=16162078 } tackled it from [COE 2024](/wiki/Community/cavoe's_osu!_event/2024):
 
 <div align="center">
     <video width="75%" controls>
@@ -23,7 +23,7 @@ While osu! players may know **Xyris** for their expanding catalogue of [osu! ori
 
 ### Xyris - Eviternity
 
-Break your fingers with [the map from the video above](https://osu.ppy.sh/beatmapsets/1961513) hosted by [Critical_Star](https://osu.ppy.sh/users/3793196)!
+Break your fingers with [the map from the video above](https://osu.ppy.sh/beatmapsets/1961513) hosted by ::Critical\1Star::{ user-id=3793196 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/433/Eviternity/Xyris%20-%20Eviternity.mp3">
@@ -31,7 +31,7 @@ Break your fingers with [the map from the video above](https://osu.ppy.sh/beatma
 
 ### Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination
 
-If you're more interested in bashing drums, try out [this marathon](https://osu.ppy.sh/beatmapsets/2142052) hosted by [Hana Hayashi](https://osu.ppy.sh/users/4601806)!
+If you're more interested in bashing drums, try out [this marathon](https://osu.ppy.sh/beatmapsets/2142052) hosted by ::Hana Hayashi::{ user-id=4601806 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/433/A%20Cybernetic-Superluminal-Apocalyptic%20Post-War%20Divination/Xyris%20-%20A%20Cybernetic-Superluminal-Apocalyptic%20Post-War%20Divination.mp3">
@@ -39,7 +39,7 @@ If you're more interested in bashing drums, try out [this marathon](https://osu.
 
 ### Xyris - Nefelibata
 
-Looking for something more... circle-filled? [This map](https://osu.ppy.sh/beatmapsets/2195866) hosted by [Tycani](https://osu.ppy.sh/users/6693266) is for you.
+Looking for something more... circle-filled? [This map](https://osu.ppy.sh/beatmapsets/2195866) hosted by ::Tycani::{ user-id=6693266 } is for you.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/433/Nefelibata/Xyris%20-%20Nefelibata.mp3">

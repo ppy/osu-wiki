@@ -25,9 +25,9 @@ If you need some convincing, feast your eyes (and ears) on *Mitsuki - Eeliaas* t
 
 Explore any of these exceptional maps:
 
-- [osu! beatmap](https://osu.ppy.sh/beatmapsets/1736814) hosted by [Strategas](https://osu.ppy.sh/users/2971837)
-- [Another osu! beatmap](https://osu.ppy.sh/beatmapsets/1737106) hosted by [Ascended](https://osu.ppy.sh/users/4564285)
-- [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1724385) hosted by [Deif](https://osu.ppy.sh/users/318565)
+- [osu! beatmap](https://osu.ppy.sh/beatmapsets/1736814) hosted by ::Strategas::{ user-id=2971837 }
+- [Another osu! beatmap](https://osu.ppy.sh/beatmapsets/1737106) hosted by ::Ascended::{ user-id=4564285 }
+- [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1724385) hosted by ::Deif::{ user-id=318565 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/262/Songs/Mitsuki%20-%20Eeliaas.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Explore any of these exceptional maps:
 
 ### Mitsuki - tesseract
 
-Try out [this osu! map](https://osu.ppy.sh/beatmapsets/1750201) hosted by [-Sylvari](https://osu.ppy.sh/users/3493804)!
+Try out [this osu! map](https://osu.ppy.sh/beatmapsets/1750201) hosted by ::-Sylvari::{ user-id=3493804 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/262/Songs/Mitsuki%20-%20tesseract.mp3" type="audio/mpeg">

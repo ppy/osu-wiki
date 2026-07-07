@@ -8,7 +8,7 @@ tags:
 
 ![osu!catch Convert Cup Open 2023 banner](img/banner.jpg)
 
-The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a double-elimination 2v2 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) in which all the beatmaps were [converts from the osu! game mode](/wiki/Beatmap/Converts). The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first to be held under the "osu!catch Convert Cup Open" banner, the tournament was considered as an expansion of the preceeding [Indonesia Convert Cup](/wiki/Tournaments/ICC) series.
+The **osu!catch Convert Cup Open 2023** (***o!cCO 2023***) was a double-elimination 2v2 osu!catch tournament hosted by ::{ flag=ID }:: ::Urabe Mikoto::{ user-id=1272422 } in which all the beatmaps were [converts from the osu! game mode](/wiki/Beatmap/Converts). The tournament was open to teams of osu!catch players with at least one player from Asia or Oceania in their roster. Although it was the first to be held under the "osu!catch Convert Cup Open" banner, the tournament was considered as an expansion of the preceeding [Indonesia Convert Cup](/wiki/Tournaments/ICC) series.
 
 ## Tournament schedule
 
@@ -41,17 +41,17 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) |
-| Co-host | ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
-| Mappool selector | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=SE }:: [Shameimaru](https://osu.ppy.sh/users/20340480), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
-| Playtester | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304), ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361), ::{ flag=IT }:: [Camme79](https://osu.ppy.sh/users/5220794), ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149) |
-| Streamer | ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [salym](https://osu.ppy.sh/users/19089549), ::{ flag=AU }:: [wongwongg](https://osu.ppy.sh/users/16859546), ::{ flag=AU }:: [wangwangg](https://osu.ppy.sh/users/6416920) |
-| Commentator | ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=SG }:: [wongwongg](https://osu.ppy.sh/users/16859546), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=SE }:: [Nellie](https://osu.ppy.sh/users/2037562), ::{ flag=SE }:: [Aceon](https://osu.ppy.sh/users/4452911), ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) |
-| Referee | ::{ flag=VN }:: [-\[SnowFlakes\]-](https://osu.ppy.sh/users/19207842), ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=ID }:: [Kenneth Alfredo](https://osu.ppy.sh/users/829469), ::{ flag=ID }:: [Dapulezatos](https://osu.ppy.sh/users/8140944), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=CL }:: [Des9](https://osu.ppy.sh/users/5404711), ::{ flag=PA }:: [Jafett](https://osu.ppy.sh/users/2317102), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
-| Graphic designer | ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) |
-| Discord and chat moderator | ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988), ::{ flag=SG }:: [\[Eun\]](https://osu.ppy.sh/users/3788536) |
-| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
-| Sponsor | ::{ flag=TH }:: [Azuria](https://osu.ppy.sh/users/16102533) |
+| Host | ::{ flag=ID }:: ::Urabe Mikoto::{ user-id=1272422 } |
+| Co-host | ::{ flag=ID }:: ::Constantine::{ user-id=3221898 }, ::{ flag=ID }:: ::Madoka Ayukawa::{ user-id=1595221 } |
+| Mappool selector | ::{ flag=ID }:: ::Urabe Mikoto::{ user-id=1272422 }, ::{ flag=ID }:: ::Constantine::{ user-id=3221898 }, ::{ flag=ID }:: ::Madoka Ayukawa::{ user-id=1595221 }, ::{ flag=HK }:: ::autofanboy::{ user-id=636114 }, ::{ flag=ID }:: ::Sololiquy::{ user-id=4350087 }, ::{ flag=SE }:: ::Shameimaru::{ user-id=20340480 }, ::{ flag=CL }:: ::Pekorrat::{ user-id=1250096 } |
+| Playtester | ::{ flag=KR }:: ::Abstract-::{ user-id=3097304 }, ::{ flag=ID }:: ::Netamaru::{ user-id=1830361 }, ::{ flag=IT }:: ::Camme79::{ user-id=5220794 }, ::{ flag=US }:: ::Lexii::{ user-id=7226149 } |
+| Streamer | ::{ flag=ID }:: ::Urabe Mikoto::{ user-id=1272422 }, ::{ flag=SG }:: ::Ekseff::{ user-id=13966422 }, ::{ flag=ID }:: ::salym::{ user-id=19089549 }, ::{ flag=AU }:: ::wongwongg::{ user-id=16859546 }, ::{ flag=AU }:: ::wangwangg::{ user-id=6416920 } |
+| Commentator | ::{ flag=ID }:: ::Constantine::{ user-id=3221898 }, ::{ flag=SG }:: ::Ekseff::{ user-id=13966422 }, ::{ flag=SG }:: ::wongwongg::{ user-id=16859546 }, ::{ flag=SG }:: ::\[Eun\]::{ user-id=3788536 }, ::{ flag=AU }:: ::KWYJIBO::{ user-id=7178386 }, ::{ flag=AU }:: ::Maitoo::{ user-id=16899553 }, ::{ flag=SE }:: ::Nellie::{ user-id=2037562 }, ::{ flag=SE }:: ::Aceon::{ user-id=4452911 }, ::{ flag=RU }:: ::Kimitakari::{ user-id=4741164 } |
+| Referee | ::{ flag=VN }:: ::-\[SnowFlakes\]-::{ user-id=19207842 }, ::{ flag=ID }:: ::-Hex-::{ user-id=8630988 }, ::{ flag=ID }:: ::Kenneth Alfredo::{ user-id=829469 }, ::{ flag=ID }:: ::Dapulezatos::{ user-id=8140944 }, ::{ flag=DE }:: ::TheHunter1::{ user-id=6496016 }, ::{ flag=CL }:: ::Des9::{ user-id=5404711 }, ::{ flag=PA }:: ::Jafett::{ user-id=2317102 }, ::{ flag=US }:: ::akace100::{ user-id=9308128 }, ::{ flag=CL }:: ::Pekorrat::{ user-id=1250096 } |
+| Graphic designer | ::{ flag=ID }:: ::Vvn::{ user-id=3204677 } |
+| Discord and chat moderator | ::{ flag=ID }:: ::-Hex-::{ user-id=8630988 }, ::{ flag=SG }:: ::\[Eun\]::{ user-id=3788536 } |
+| Wiki editor | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
+| Sponsor | ::{ flag=TH }:: ::Azuria::{ user-id=16102533 } |
 
 ## Links
 
@@ -65,44 +65,44 @@ The osu!catch Convert Cup Open 2023 was run by various osu! community members fr
 
 | Team name | Members |
 | :-: | :-- |
-| ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | ::{ flag=ID }:: **[Destroid](https://osu.ppy.sh/users/5097844)**, ::{ flag=CL }:: [-Naroh](https://osu.ppy.sh/users/9087831), ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) |
-| 4DIGITS RISE UP | ::{ flag=TH }:: **[EzyS](https://osu.ppy.sh/users/16271283)**, ::{ flag=KR }:: [Kuzino](https://osu.ppy.sh/users/158552), ::{ flag=US }:: [Prince Zariel](https://osu.ppy.sh/users/7293637) |
-| 5 digits | ::{ flag=SG }:: **[sukidayo-](https://osu.ppy.sh/users/16870002)**, ::{ flag=US }:: [bvyans](https://osu.ppy.sh/users/7789926), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) |
-| Ad Matai | ::{ flag=IL }:: **[Nendus](https://osu.ppy.sh/users/22005940)**, ::{ flag=IL }:: [muya-](https://osu.ppy.sh/users/12883611), ::{ flag=IL }:: [gal1](https://osu.ppy.sh/users/9424481) |
-| Ad Matai Bad | ::{ flag=GI }:: **[CirnUwU](https://osu.ppy.sh/users/11713317)**, ::{ flag=SA }:: [WOAH0](https://osu.ppy.sh/users/18336339), ::{ flag=IL }:: [LiL L1ghtMare](https://osu.ppy.sh/users/16782179) |
-| am nyam | ::{ flag=RU }:: **[cosilgam](https://osu.ppy.sh/users/15960747)**, ::{ flag=UA }:: [Shadowbolts1](https://osu.ppy.sh/users/13962882), ::{ flag=RU }:: [1k1](https://osu.ppy.sh/users/10119963) |
-| AMQ Player | ::{ flag=TW }:: **[Tomoriru](https://osu.ppy.sh/users/10457920)**, ::{ flag=TW }:: [Happiness Fish](https://osu.ppy.sh/users/4586766), ::{ flag=TW }:: [Psc\_IceRain](https://osu.ppy.sh/users/3359485) |
-| Ateshiiii | ::{ flag=CA }:: **[Boltico](https://osu.ppy.sh/users/5297904)**, ::{ flag=JP }:: [Melu](https://osu.ppy.sh/users/2624179), ::{ flag=JP }:: [S B K](https://osu.ppy.sh/users/29783499) |
-| Ban Mods | ::{ flag=AU }:: **[Maitoo](https://osu.ppy.sh/users/16899553)**, ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768), ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) |
-| capoo so cute | ::{ flag=JP }:: **[Molqus](https://osu.ppy.sh/users/19271930)**, ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/2389481) |
-| C𝓔LεNG𓃟β∀L4P | ::{ flag=ID }:: **[Copano\_Lucky](https://osu.ppy.sh/users/26377086)**, ::{ flag=ID }:: [Kanoponzu](https://osu.ppy.sh/users/11582543), ::{ flag=ID }:: [Nekomiru](https://osu.ppy.sh/users/17514687) |
-| converts ec | ::{ flag=IT }:: **[ArMa79](https://osu.ppy.sh/users/4982799)**, ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) |
-| CS=convert suck | ::{ flag=TW }:: **[VaMePiRe](https://osu.ppy.sh/users/8411195)**, ::{ flag=CN }:: [Nene Sakura](https://osu.ppy.sh/users/6701104), ::{ flag=TW }:: [gensouyume](https://osu.ppy.sh/users/14782787) |
-| CTB RAIMON | ::{ flag=CA }:: **[Katsuragi](https://osu.ppy.sh/users/3616480)**, ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481) |
-| degens, truly | ::{ flag=MY }:: **[kokomi on osu](https://osu.ppy.sh/users/12382410)**, ::{ flag=SE }:: [hypnospirA](https://osu.ppy.sh/users/1352257), ::{ flag=MY }:: [\[MY\]error\_exe](https://osu.ppy.sh/users/6056288) |
-| ditinggal ps3 | ::{ flag=ID }:: **[Suikami](https://osu.ppy.sh/users/1929336)**, ::{ flag=PL }:: [-Filow-](https://osu.ppy.sh/users/3157472), ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) |
-| draft issue | ::{ flag=HK }:: **[my angel auto](https://osu.ppy.sh/users/29503627)**, ::{ flag=FI }:: [Leinou](https://osu.ppy.sh/users/7024526), ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854) |
-| DreStarkari | ::{ flag=CL }:: **[Stark](https://osu.ppy.sh/users/1565036)**, ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164), ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057) |
-| eurasia mid seed | ::{ flag=RU }:: **[KitsunIvy](https://osu.ppy.sh/users/7055384)**, ::{ flag=IS }:: [Ash Ketchum](https://osu.ppy.sh/users/7297777), ::{ flag=RU }:: [ti gnida](https://osu.ppy.sh/users/14254962) |
-| flag issue | ::{ flag=SG }:: **[Ekseff](https://osu.ppy.sh/users/13966422)**, ::{ flag=ID }:: [Serestia](https://osu.ppy.sh/users/30511396), ::{ flag=PL }:: [Jakkubon](https://osu.ppy.sh/users/3396013) |
-| fuit gummy | ::{ flag=MA }:: **[OSUjanaiKATSURAda](https://osu.ppy.sh/users/13966422)**, ::{ flag=KR }:: [Ruiz](https://osu.ppy.sh/users/10095644), ::{ flag=PH }:: [Chloebe](https://osu.ppy.sh/users/4577865) |
-| Korean PC | ::{ flag=US }:: **[Dahcreeper](https://osu.ppy.sh/users/6926006)**, ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
-| kururin spin | ::{ flag=PL }:: **[BoberOfDarkness](https://osu.ppy.sh/users/3427748)**, ::{ flag=TW }:: [ZX123456](https://osu.ppy.sh/users/489271), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) |
-| NZ gamers | ::{ flag=NZ }:: **[Wettham77](https://osu.ppy.sh/users/14476098)**, ::{ flag=NZ }:: [CTB Sakamata1](https://osu.ppy.sh/users/11735313), ::{ flag=NZ }:: [Starwide](https://osu.ppy.sh/users/9926856) |
-| plz dont ban DT | ::{ flag=JP }:: **[giru HD](https://osu.ppy.sh/users/707456)**, ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=JP }:: [Snowwind](https://osu.ppy.sh/users/2163585) |
-| Polanezja | ::{ flag=PL }:: **[madcin](https://osu.ppy.sh/users/2957534)**, ::{ flag=ID }:: [Intention](https://osu.ppy.sh/users/3416858), ::{ flag=ID }:: [\[ Mephisto \]](https://osu.ppy.sh/users/3027065) |
-| Rhodes Island | ::{ flag=MY }:: **[Asteristia](https://osu.ppy.sh/users/9434933)**, ::{ flag=MY }:: [leaf89](https://osu.ppy.sh/users/19346652), ::{ flag=MY }:: [Zakrusta](https://osu.ppy.sh/users/5034270) |
-| roflcopter | ::{ flag=KR }:: **[Syine](https://osu.ppy.sh/users/4795737)**, ::{ flag=IT }:: [Sakhalin79](https://osu.ppy.sh/users/11158870), ::{ flag=KR }:: [Zellen](https://osu.ppy.sh/users/17405762) |
-| Samurai Team | ::{ flag=AU }:: **[KWYJIBO](https://osu.ppy.sh/users/7178386)**, ::{ flag=JP }:: [eisuke0530](https://osu.ppy.sh/users/9814770), ::{ flag=AR }:: [Naarkz](https://osu.ppy.sh/users/19490380) |
-| Signal Graph | ::{ flag=US }:: **[Liyac](https://osu.ppy.sh/users/4994598)**, ::{ flag=ID }:: [Fisicia](https://osu.ppy.sh/users/6556054), ::{ flag=ID }:: [Cera-](https://osu.ppy.sh/users/1974131) |
-| SUNBOY | ::{ flag=RU }:: **[liquid\_boba](https://osu.ppy.sh/users/11694783)**, ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479), ::{ flag=RU }:: [dark rainbow](https://osu.ppy.sh/users/10557830) |
-| TAG4 | ::{ flag=ID }:: **[Zvenx](https://osu.ppy.sh/users/14613788)**, ::{ flag=IT }:: [Camme79](https://osu.ppy.sh/users/5220794) |
-| TATAPCTAH | ::{ flag=UA }:: **[Morusya](https://osu.ppy.sh/users/13681464)**, ::{ flag=RU }:: [yuinn](https://osu.ppy.sh/users/11239593), ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) |
-| The Team | ::{ flag=AU }:: **[BluBoy](https://osu.ppy.sh/users/21368709)**, ::{ flag=AU }:: [roykey](https://osu.ppy.sh/users/26870032) |
-| Timezone Issue | ::{ flag=SG }:: **[\[Eun\]](https://osu.ppy.sh/users/3788536)**, ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597), ::{ flag=ID }:: [Strict\_Lane](https://osu.ppy.sh/users/24810703) |
-| We hate convert | ::{ flag=KR }:: **[DevilFace](https://osu.ppy.sh/users/2253026)**, ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951) |
-| what is convert | ::{ flag=TW }:: **[Extricate](https://osu.ppy.sh/users/4787989)**, ::{ flag=TW }:: [Ayanory](https://osu.ppy.sh/users/5138760), ::{ flag=TW }:: [Kotoba 0701](https://osu.ppy.sh/users/12598463) |
-| ДШРГ Русичи | ::{ flag=UA }:: **[Metalia](https://osu.ppy.sh/users/15558360)**, ::{ flag=RU }:: [\_Insomnia](https://osu.ppy.sh/users/8928855), ::{ flag=RU }:: [Rebbel](https://osu.ppy.sh/users/4595355) |
+| ꧁ℭ℟Åℤ¥༒₭ÏḼḼ℥℟꧂ | ::{ flag=ID }:: **::Destroid::{ user-id=5097844 }**, ::{ flag=CL }:: ::-Naroh::{ user-id=9087831 }, ::{ flag=ID }:: ::EpanPan::{ user-id=13194580 } |
+| 4DIGITS RISE UP | ::{ flag=TH }:: **::EzyS::{ user-id=16271283 }**, ::{ flag=KR }:: ::Kuzino::{ user-id=158552 }, ::{ flag=US }:: ::Prince Zariel::{ user-id=7293637 } |
+| 5 digits | ::{ flag=SG }:: **::sukidayo-::{ user-id=16870002 }**, ::{ flag=US }:: ::bvyans::{ user-id=7789926 }, ::{ flag=HK }:: ::YonGin::{ user-id=7109317 } |
+| Ad Matai | ::{ flag=IL }:: **::Nendus::{ user-id=22005940 }**, ::{ flag=IL }:: ::muya-::{ user-id=12883611 }, ::{ flag=IL }:: ::gal1::{ user-id=9424481 } |
+| Ad Matai Bad | ::{ flag=GI }:: **::CirnUwU::{ user-id=11713317 }**, ::{ flag=SA }:: ::WOAH0::{ user-id=18336339 }, ::{ flag=IL }:: ::LiL L1ghtMare::{ user-id=16782179 } |
+| am nyam | ::{ flag=RU }:: **::cosilgam::{ user-id=15960747 }**, ::{ flag=UA }:: ::Shadowbolts1::{ user-id=13962882 }, ::{ flag=RU }:: ::1k1::{ user-id=10119963 } |
+| AMQ Player | ::{ flag=TW }:: **::Tomoriru::{ user-id=10457920 }**, ::{ flag=TW }:: ::Happiness Fish::{ user-id=4586766 }, ::{ flag=TW }:: ::Psc\_IceRain::{ user-id=3359485 } |
+| Ateshiiii | ::{ flag=CA }:: **::Boltico::{ user-id=5297904 }**, ::{ flag=JP }:: ::Melu::{ user-id=2624179 }, ::{ flag=JP }:: ::S B K::{ user-id=29783499 } |
+| Ban Mods | ::{ flag=AU }:: **::Maitoo::{ user-id=16899553 }**, ::{ flag=PL }:: ::LaviSorrow::{ user-id=9966768 }, ::{ flag=AU }:: ::pandaBear::{ user-id=107553 } |
+| capoo so cute | ::{ flag=JP }:: **::Molqus::{ user-id=19271930 }**, ::{ flag=TW }:: ::DoDoEbi::{ user-id=1177233 }, ::{ flag=FR }:: ::Holloh::{ user-id=2389481 } |
+| C𝓔LεNG𓃟β∀L4P | ::{ flag=ID }:: **::Copano\_Lucky::{ user-id=26377086 }**, ::{ flag=ID }:: ::Kanoponzu::{ user-id=11582543 }, ::{ flag=ID }:: ::Nekomiru::{ user-id=17514687 } |
+| converts ec | ::{ flag=IT }:: **::ArMa79::{ user-id=4982799 }**, ::{ flag=CN }:: ::- N a g i -::{ user-id=2956936 }, ::{ flag=PH }:: ::Roido::{ user-id=6829103 } |
+| CS=convert suck | ::{ flag=TW }:: **::VaMePiRe::{ user-id=8411195 }**, ::{ flag=CN }:: ::Nene Sakura::{ user-id=6701104 }, ::{ flag=TW }:: ::gensouyume::{ user-id=14782787 } |
+| CTB RAIMON | ::{ flag=CA }:: **::Katsuragi::{ user-id=3616480 }**, ::{ flag=ID }:: ::Chroneko::{ user-id=5472877 }, ::{ flag=CL }:: ::Aryssiel::{ user-id=2389481 } |
+| degens, truly | ::{ flag=MY }:: **::kokomi on osu::{ user-id=12382410 }**, ::{ flag=SE }:: ::hypnospirA::{ user-id=1352257 }, ::{ flag=MY }:: ::\[MY\]error\_exe::{ user-id=6056288 } |
+| ditinggal ps3 | ::{ flag=ID }:: **::Suikami::{ user-id=1929336 }**, ::{ flag=PL }:: ::-Filow-::{ user-id=3157472 }, ::{ flag=ID }:: ::Nekuro::{ user-id=3222638 } |
+| draft issue | ::{ flag=HK }:: **::my angel auto::{ user-id=29503627 }**, ::{ flag=FI }:: ::Leinou::{ user-id=7024526 }, ::{ flag=ID }:: ::Chiya--::{ user-id=7934854 } |
+| DreStarkari | ::{ flag=CL }:: **::Stark::{ user-id=1565036 }**, ::{ flag=RU }:: ::Kimitakari::{ user-id=4741164 }, ::{ flag=KR }:: ::DreStar::{ user-id=1808057 } |
+| eurasia mid seed | ::{ flag=RU }:: **::KitsunIvy::{ user-id=7055384 }**, ::{ flag=IS }:: ::Ash Ketchum::{ user-id=7297777 }, ::{ flag=RU }:: ::ti gnida::{ user-id=14254962 } |
+| flag issue | ::{ flag=SG }:: **::Ekseff::{ user-id=13966422 }**, ::{ flag=ID }:: ::Serestia::{ user-id=30511396 }, ::{ flag=PL }:: ::Jakkubon::{ user-id=3396013 } |
+| fuit gummy | ::{ flag=MA }:: **::OSUjanaiKATSURAda::{ user-id=13966422 }**, ::{ flag=KR }:: ::Ruiz::{ user-id=10095644 }, ::{ flag=PH }:: ::Chloebe::{ user-id=4577865 } |
+| Korean PC | ::{ flag=US }:: **::Dahcreeper::{ user-id=6926006 }**, ::{ flag=KR }:: ::Motion::{ user-id=3885626 }, ::{ flag=KR }:: ::T s u m i::{ user-id=4080520 } |
+| kururin spin | ::{ flag=PL }:: **::BoberOfDarkness::{ user-id=3427748 }**, ::{ flag=TW }:: ::ZX123456::{ user-id=489271 }, ::{ flag=ID }:: ::Shurelia::{ user-id=3807986 } |
+| NZ gamers | ::{ flag=NZ }:: **::Wettham77::{ user-id=14476098 }**, ::{ flag=NZ }:: ::CTB Sakamata1::{ user-id=11735313 }, ::{ flag=NZ }:: ::Starwide::{ user-id=9926856 } |
+| plz dont ban DT | ::{ flag=JP }:: **::giru HD::{ user-id=707456 }**, ::{ flag=FR }:: ::floflim::{ user-id=5954015 }, ::{ flag=JP }:: ::Snowwind::{ user-id=2163585 } |
+| Polanezja | ::{ flag=PL }:: **::madcin::{ user-id=2957534 }**, ::{ flag=ID }:: ::Intention::{ user-id=3416858 }, ::{ flag=ID }:: ::\[ Mephisto \]::{ user-id=3027065 } |
+| Rhodes Island | ::{ flag=MY }:: **::Asteristia::{ user-id=9434933 }**, ::{ flag=MY }:: ::leaf89::{ user-id=19346652 }, ::{ flag=MY }:: ::Zakrusta::{ user-id=5034270 } |
+| roflcopter | ::{ flag=KR }:: **::Syine::{ user-id=4795737 }**, ::{ flag=IT }:: ::Sakhalin79::{ user-id=11158870 }, ::{ flag=KR }:: ::Zellen::{ user-id=17405762 } |
+| Samurai Team | ::{ flag=AU }:: **::KWYJIBO::{ user-id=7178386 }**, ::{ flag=JP }:: ::eisuke0530::{ user-id=9814770 }, ::{ flag=AR }:: ::Naarkz::{ user-id=19490380 } |
+| Signal Graph | ::{ flag=US }:: **::Liyac::{ user-id=4994598 }**, ::{ flag=ID }:: ::Fisicia::{ user-id=6556054 }, ::{ flag=ID }:: ::Cera-::{ user-id=1974131 } |
+| SUNBOY | ::{ flag=RU }:: **::liquid\_boba::{ user-id=11694783 }**, ::{ flag=RU }:: ::Rakety::{ user-id=11109479 }, ::{ flag=RU }:: ::dark rainbow::{ user-id=10557830 } |
+| TAG4 | ::{ flag=ID }:: **::Zvenx::{ user-id=14613788 }**, ::{ flag=IT }:: ::Camme79::{ user-id=5220794 } |
+| TATAPCTAH | ::{ flag=UA }:: **::Morusya::{ user-id=13681464 }**, ::{ flag=RU }:: ::yuinn::{ user-id=11239593 }, ::{ flag=RU }:: ::Nerris::{ user-id=11202866 } |
+| The Team | ::{ flag=AU }:: **::BluBoy::{ user-id=21368709 }**, ::{ flag=AU }:: ::roykey::{ user-id=26870032 } |
+| Timezone Issue | ::{ flag=SG }:: **::\[Eun\]::{ user-id=3788536 }**, ::{ flag=US }:: ::Rukairi::{ user-id=6642597 }, ::{ flag=ID }:: ::Strict\_Lane::{ user-id=24810703 } |
+| We hate convert | ::{ flag=KR }:: **::DevilFace::{ user-id=2253026 }**, ::{ flag=TN }:: ::-Ken::{ user-id=4430811 }, ::{ flag=KR }:: ::JISAN::{ user-id=3657951 } |
+| what is convert | ::{ flag=TW }:: **::Extricate::{ user-id=4787989 }**, ::{ flag=TW }:: ::Ayanory::{ user-id=5138760 }, ::{ flag=TW }:: ::Kotoba 0701::{ user-id=12598463 } |
+| ДШРГ Русичи | ::{ flag=UA }:: **::Metalia::{ user-id=15558360 }**, ::{ flag=RU }:: ::\_Insomnia::{ user-id=8928855 }, ::{ flag=RU }:: ::Rebbel::{ user-id=4595355 } |
 
 ## Podium
 
@@ -110,9 +110,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Korean PC** (::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **converts ec** (::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799), ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **CTB RAIMON** (::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877), ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Korean PC** (::{ flag=US }:: ::Dahcreeper::{ user-id=6926006 }, ::{ flag=KR }:: ::Motion::{ user-id=3885626 }, ::{ flag=KR }:: ::T s u m i::{ user-id=4080520 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **converts ec** (::{ flag=IT }:: ::ArMa79::{ user-id=4982799 }, ::{ flag=CN }:: ::- N a g i -::{ user-id=2956936 }, ::{ flag=PH }:: ::Roido::{ user-id=6829103 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **CTB RAIMON** (::{ flag=CA }:: ::Katsuragi::{ user-id=3616480 }, ::{ flag=ID }:: ::Chroneko::{ user-id=5472877 }, ::{ flag=CL }:: ::Aryssiel::{ user-id=2389481 }) |
 
 ## Mappools
 

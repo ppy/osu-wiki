@@ -11,7 +11,7 @@ tags:
 
 > 皆で多様性を結び付けましょう！
 
-**Asian Taiko Showdown 2018** (***ATS 2018***) は、::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002)氏主催の一対一のosu!taikoの大会で、double eliminationトーナメント方式(１回負けると敗者復活戦に参加して計２回負けるまで戦う形式のトーナメント)です。以前にATSは [Indonesian Taiko Showdown(IDTS)](https://osu.ppy.sh/community/forums/topics/576070)として知られていました。今大会は第二回であり、対象国がインドネシアからアジアへと対象が広がりました。
+**Asian Taiko Showdown 2018** (***ATS 2018***) は、::{ flag=ID }:: ::fajar13k::{ user-id=7100002 }氏主催の一対一のosu!taikoの大会で、double eliminationトーナメント方式(１回負けると敗者復活戦に参加して計２回負けるまで戦う形式のトーナメント)です。以前にATSは [Indonesian Taiko Showdown(IDTS)](https://osu.ppy.sh/community/forums/topics/576070)として知られていました。今大会は第二回であり、対象国がインドネシアからアジアへと対象が広がりました。
 
 ## 大会スケジュール
 
@@ -40,14 +40,14 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 
 | 役割 | ﾒﾝﾊﾞｰ |
 | :-- | :-- |
-| 主催 | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078) |
-| ビートマップセレクター | ::{ flag=ID }:: [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ::{ flag=ID }:: [Guardistack-](https://osu.ppy.sh/users/1602428), ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
-| コメンテーター | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=ID }:: [Niko-nyan](https://osu.ppy.sh/users/906991), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897), ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416) |
-| 放送配信者 | ::{ flag=JP }:: [SakuraFrost-](https://osu.ppy.sh/users/8147993), ::{ flag=ID }:: [rap12](https://osu.ppy.sh/users/2300279) |
-| デザイナー | ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=CL }:: [Valelup](https://osu.ppy.sh/users/6497014) |
-| 審判 | ::{ flag=HK }:: [-GN Junior](https://osu.ppy.sh/users/3901754), ::{ flag=CL }:: [Valelup](https://osu.ppy.sh/users/6497014), ::{ flag=CL }:: [Asagaki](https://osu.ppy.sh/users/2632902), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742), ::{ flag=ID }:: [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ::{ flag=HK }:: [tkdLolly](https://osu.ppy.sh/users/9035344), ::{ flag=ID }:: [pmriva](https://osu.ppy.sh/users/2180885), ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209) |
-| 翻訳家 | ::{ flag=JP }:: [JUDYDANNY](https://osu.ppy.sh/users/1165475), ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831), ::{ flag=JP }:: [nyanmi-1828](https://osu.ppy.sh/users/6866480) ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120), ::{ flag=HK }:: [tkdLolly](https://osu.ppy.sh/users/9035344), ::{ flag=KR }:: [Konpaku Sariel](https://osu.ppy.sh/users/533502), ::{ flag=KR }:: [MetalStream](https://osu.ppy.sh/users/165027), ::{ flag=KR }:: [404 AccNotFound](https://osu.ppy.sh/users/980092) |
-| 集計 | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078) |
+| 主催 | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 }, ::{ flag=US }:: ::JDrago14::{ user-id=7690078 } |
+| ビートマップセレクター | ::{ flag=ID }:: ::Lightning Wyvern::{ user-id=1533122 }, ::{ flag=ID }:: ::Guardistack-::{ user-id=1602428 }, ::{ flag=MY }:: ::cdhsausageboy::{ user-id=2403621 } |
+| コメンテーター | ::{ flag=AU }:: ::Jaye::{ user-id=4841352 }, ::{ flag=ID }:: ::Niko-nyan::{ user-id=906991 }, ::{ flag=CA }:: ::janitoreihil::{ user-id=3307897 }, ::{ flag=US }:: ::Das::{ user-id=3165416 } |
+| 放送配信者 | ::{ flag=JP }:: ::SakuraFrost-::{ user-id=8147993 }, ::{ flag=ID }:: ::rap12::{ user-id=2300279 } |
+| デザイナー | ::{ flag=PH }:: ::OsuMe65::{ user-id=852867 }, ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 }, ::{ flag=CL }:: ::Valelup::{ user-id=6497014 } |
+| 審判 | ::{ flag=HK }:: ::-GN Junior::{ user-id=3901754 }, ::{ flag=CL }:: ::Valelup::{ user-id=6497014 }, ::{ flag=CL }:: ::Asagaki::{ user-id=2632902 }, ::{ flag=PH }:: ::Pochacco::{ user-id=2927742 }, ::{ flag=ID }:: ::Alwaysyukaz::{ user-id=4999506 }, ::{ flag=HK }:: ::tkdLolly::{ user-id=9035344 }, ::{ flag=ID }:: ::pmriva::{ user-id=2180885 }, ::{ flag=ID }:: ::XK2238::{ user-id=1139209 } |
+| 翻訳家 | ::{ flag=JP }:: ::JUDYDANNY::{ user-id=1165475 }, ::{ flag=JP }:: ::Noko\_BSF::{ user-id=3811831 }, ::{ flag=JP }:: ::nyanmi-1828::{ user-id=6866480 } ::{ flag=TW }:: ::Smallwu::{ user-id=2512120 }, ::{ flag=HK }:: ::tkdLolly::{ user-id=9035344 }, ::{ flag=KR }:: ::Konpaku Sariel::{ user-id=533502 }, ::{ flag=KR }:: ::MetalStream::{ user-id=165027 }, ::{ flag=KR }:: ::404 AccNotFound::{ user-id=980092 } |
+| 集計 | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 }, ::{ flag=US }:: ::JDrago14::{ user-id=7690078 } |
 
 ## リンク
 
@@ -60,23 +60,23 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 
 | Seed | 選手 |
 | :-- | :-- |
-| Top | ::{ flag=JP }:: [butter0414](https://osu.ppy.sh/users/7935022), ::{ flag=JP }:: [nyanmi-1828](https://osu.ppy.sh/users/6866480), ::{ flag=JP }:: [KILI3343](https://osu.ppy.sh/users/11233651), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=TW }:: [qoot8123](https://osu.ppy.sh/users/766371), ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120), ::{ flag=TW }:: [TS\_LewisLuo](https://osu.ppy.sh/users/4337536), ::{ flag=JP }:: [toorun12](https://osu.ppy.sh/users/10349712) |
-| High | ::{ flag=MY }:: [ZethZ161](https://osu.ppy.sh/users/9912966), ::{ flag=KR }:: [L y s](https://osu.ppy.sh/users/211825), ::{ flag=JP }:: [yyyyyyyyyyypetu](https://osu.ppy.sh/users/468029), ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831), ::{ flag=JP }:: [Xin Leviathan](https://osu.ppy.sh/users/9575624), ::{ flag=ID }:: [Niko-nyan](https://osu.ppy.sh/users/906991), ::{ flag=ID }:: [ayomikasa](https://osu.ppy.sh/users/4866957), ::{ flag=PH }:: [Jmeh07](https://osu.ppy.sh/users/2852269) |
-| Low | ::{ flag=JP }:: [Sanawieck](https://osu.ppy.sh/users/4125666), ::{ flag=KR }:: [404 AccNotFound](https://osu.ppy.sh/users/980092), ::{ flag=ID }:: [Shirai-](https://osu.ppy.sh/users/4221845), ::{ flag=MY }:: [Dakry](https://osu.ppy.sh/users/1994145), ::{ flag=AU }:: [SpiritsUnite](https://osu.ppy.sh/users/1198002), ::{ flag=JP }:: [GlinT fraulein](https://osu.ppy.sh/users/7364981), ::{ flag=ID }:: [Braixen](https://osu.ppy.sh/users/4871378), ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/users/9755504) |
-| Bottom | ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=PH }:: [Micka](https://osu.ppy.sh/users/2770422), ::{ flag=JP }:: [puropera209](https://osu.ppy.sh/users/2545134), ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183), ::{ flag=VN }:: [Taiko\_VN12](https://osu.ppy.sh/users/10072828), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=ID }:: [\_CaKy\_](https://osu.ppy.sh/users/9828983), ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=ID }:: [Jin Kun](https://osu.ppy.sh/users/6896699), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666), ::{ flag=PH }:: [-Zephy-](https://osu.ppy.sh/users/6862483) |
+| Top | ::{ flag=JP }:: ::butter0414::{ user-id=7935022 }, ::{ flag=JP }:: ::nyanmi-1828::{ user-id=6866480 }, ::{ flag=JP }:: ::KILI3343::{ user-id=11233651 }, ::{ flag=MY }:: ::Jerry::{ user-id=605973 }, ::{ flag=TW }:: ::qoot8123::{ user-id=766371 }, ::{ flag=TW }:: ::Smallwu::{ user-id=2512120 }, ::{ flag=TW }:: ::TS\_LewisLuo::{ user-id=4337536 }, ::{ flag=JP }:: ::toorun12::{ user-id=10349712 } |
+| High | ::{ flag=MY }:: ::ZethZ161::{ user-id=9912966 }, ::{ flag=KR }:: ::L y s::{ user-id=211825 }, ::{ flag=JP }:: ::yyyyyyyyyyypetu::{ user-id=468029 }, ::{ flag=JP }:: ::Noko\_BSF::{ user-id=3811831 }, ::{ flag=JP }:: ::Xin Leviathan::{ user-id=9575624 }, ::{ flag=ID }:: ::Niko-nyan::{ user-id=906991 }, ::{ flag=ID }:: ::ayomikasa::{ user-id=4866957 }, ::{ flag=PH }:: ::Jmeh07::{ user-id=2852269 } |
+| Low | ::{ flag=JP }:: ::Sanawieck::{ user-id=4125666 }, ::{ flag=KR }:: ::404 AccNotFound::{ user-id=980092 }, ::{ flag=ID }:: ::Shirai-::{ user-id=4221845 }, ::{ flag=MY }:: ::Dakry::{ user-id=1994145 }, ::{ flag=AU }:: ::SpiritsUnite::{ user-id=1198002 }, ::{ flag=JP }:: ::GlinT fraulein::{ user-id=7364981 }, ::{ flag=ID }:: ::Braixen::{ user-id=4871378 }, ::{ flag=MY }:: ::CrabCow::{ user-id=9755504 } |
+| Bottom | ::{ flag=JP }:: ::Briesmas::{ user-id=2865172 }, ::{ flag=PH }:: ::Micka::{ user-id=2770422 }, ::{ flag=JP }:: ::puropera209::{ user-id=2545134 }, ::{ flag=AU }:: ::Tsubasa2::{ user-id=6835183 }, ::{ flag=VN }:: ::Taiko\_VN12::{ user-id=10072828 }, ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 }, ::{ flag=ID }:: ::\_CaKy\_::{ user-id=9828983 }, ::{ flag=MY }:: ::Bedwyr Aorta::{ user-id=10875855 }, ::{ flag=ID }:: ::Jin Kun::{ user-id=6896699 }, ::{ flag=SG }:: ::uchuuj1n::{ user-id=9140302 }, ::{ flag=MY }:: ::Minisora::{ user-id=9627666 }, ::{ flag=PH }:: ::-Zephy-::{ user-id=6862483 } |
 
 ## グループ
 
 | Group | Top Seed | High Seed | Low Seed | Bottom Seed |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | ::{ flag=JP }:: [Xin Leviathan](https://osu.ppy.sh/users/9575624) | ::{ flag=KR }:: [404 AccNotFound](https://osu.ppy.sh/users/980092) | ::{ flag=VN }:: [Taiko\_VN12](https://osu.ppy.sh/users/10072828) |
-| **B** | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [yyyyyyyyyyypetu](https://osu.ppy.sh/users/468029) | ::{ flag=MY }:: [Dakry](https://osu.ppy.sh/users/1994145) | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) |
-| **C** | ::{ flag=JP }:: [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ::{ flag=KR }:: [L y s](https://osu.ppy.sh/users/211825) | ::{ flag=ID }:: [Braixen](https://osu.ppy.sh/users/4871378) | ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183) |
-| **D** | ::{ flag=TW }:: [qoot8123](https://osu.ppy.sh/users/766371) | ::{ flag=MY }:: [ZethZ161](https://osu.ppy.sh/users/9912966) | ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/users/9755504) | ::{ flag=PH }:: [Micka](https://osu.ppy.sh/users/2770422) |
-| **E** | ::{ flag=JP }:: [toorun12](https://osu.ppy.sh/users/10349712) | ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831) | ::{ flag=JP }:: [Sanawieck](https://osu.ppy.sh/users/4125666) | ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172) |
-| **F** | ::{ flag=JP }:: [butter0414](https://osu.ppy.sh/users/7935022) | ::{ flag=ID }:: [Niko-nyan](https://osu.ppy.sh/users/906991) | ::{ flag=AU }:: [SpiritsUnite](https://osu.ppy.sh/users/1198002) | ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| **G** | ::{ flag=TW }:: [TS\_LewisLuo](https://osu.ppy.sh/users/4337536) | ::{ flag=ID }:: [ayomikasa](https://osu.ppy.sh/users/4866957) | ::{ flag=ID }:: [Shirai-](https://osu.ppy.sh/users/4221845) | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
-| **H** | ::{ flag=JP }:: [KILI3343](https://osu.ppy.sh/users/11233651) | ::{ flag=PH }:: [Jmeh07](https://osu.ppy.sh/users/2852269) | ::{ flag=JP }:: [GlinT fraulein](https://osu.ppy.sh/users/7364981) | ::{ flag=JP }:: [puropera209](https://osu.ppy.sh/users/2545134) |
+| **A** | ::{ flag=MY }:: ::Jerry::{ user-id=605973 } | ::{ flag=JP }:: ::Xin Leviathan::{ user-id=9575624 } | ::{ flag=KR }:: ::404 AccNotFound::{ user-id=980092 } | ::{ flag=VN }:: ::Taiko\_VN12::{ user-id=10072828 } |
+| **B** | ::{ flag=TW }:: ::Smallwu::{ user-id=2512120 } | ::{ flag=JP }:: ::yyyyyyyyyyypetu::{ user-id=468029 } | ::{ flag=MY }:: ::Dakry::{ user-id=1994145 } | ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 } |
+| **C** | ::{ flag=JP }:: ::nyanmi-1828::{ user-id=6866480 } | ::{ flag=KR }:: ::L y s::{ user-id=211825 } | ::{ flag=ID }:: ::Braixen::{ user-id=4871378 } | ::{ flag=AU }:: ::Tsubasa2::{ user-id=6835183 } |
+| **D** | ::{ flag=TW }:: ::qoot8123::{ user-id=766371 } | ::{ flag=MY }:: ::ZethZ161::{ user-id=9912966 } | ::{ flag=MY }:: ::CrabCow::{ user-id=9755504 } | ::{ flag=PH }:: ::Micka::{ user-id=2770422 } |
+| **E** | ::{ flag=JP }:: ::toorun12::{ user-id=10349712 } | ::{ flag=JP }:: ::Noko\_BSF::{ user-id=3811831 } | ::{ flag=JP }:: ::Sanawieck::{ user-id=4125666 } | ::{ flag=JP }:: ::Briesmas::{ user-id=2865172 } |
+| **F** | ::{ flag=JP }:: ::butter0414::{ user-id=7935022 } | ::{ flag=ID }:: ::Niko-nyan::{ user-id=906991 } | ::{ flag=AU }:: ::SpiritsUnite::{ user-id=1198002 } | ::{ flag=SG }:: ::uchuuj1n::{ user-id=9140302 } |
+| **G** | ::{ flag=TW }:: ::TS\_LewisLuo::{ user-id=4337536 } | ::{ flag=ID }:: ::ayomikasa::{ user-id=4866957 } | ::{ flag=ID }:: ::Shirai-::{ user-id=4221845 } | ::{ flag=MY }:: ::Bedwyr Aorta::{ user-id=10875855 } |
+| **H** | ::{ flag=JP }:: ::KILI3343::{ user-id=11233651 } | ::{ flag=PH }:: ::Jmeh07::{ user-id=2852269 } | ::{ flag=JP }:: ::GlinT fraulein::{ user-id=7364981 } | ::{ flag=JP }:: ::puropera209::{ user-id=2545134 } |
 
 ![ATS 2018 Podium](img/podium.jpg)
 

@@ -13,7 +13,7 @@ Faced with the task of mapping the appropriately food-themed _ONIGIRI FREEWAY_ b
 
 Last month's live showcase featured ten of the most creative offerings seen in osu!catch mapping to date, savoured and scrutinised by our panel of expert judges, before allowing you, the community, to decide each mapper's fruity fate.
 
-When the dust settled, only one would top the mountain, but it would do so with an utterly dominant performance that blew all other competition out of the water. Receiving critical praise from the community and judging panel alike, the winner of Aspire 2017: Stage Three is perhaps fittingly, **Superior Fox**, mapped by the one and only [Spectator](https://osu.ppy.sh/users/702598), with a total score of **72.2/80** and **218** unique public votes!
+When the dust settled, only one would top the mountain, but it would do so with an utterly dominant performance that blew all other competition out of the water. Receiving critical praise from the community and judging panel alike, the winner of Aspire 2017: Stage Three is perhaps fittingly, **Superior Fox**, mapped by the one and only ::Spectator::{ user-id=702598 }, with a total score of **72.2/80** and **218** unique public votes!
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/mJqI-W7R8gI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -23,7 +23,7 @@ With almost twice as many public votes as the runner-up, it would appear the com
 
 ---
 
-Heading the chasing pack was **Truthful Waxwing** by [-Ken](https://osu.ppy.sh/users/4430811), achieving a score of **46.9/80** and **128** unique public votes.
+Heading the chasing pack was **Truthful Waxwing** by ::-Ken::{ user-id=4430811 }, achieving a score of **46.9/80** and **128** unique public votes.
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/5dkjsG_bUb8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -33,7 +33,7 @@ With favourable feedback from the judging panel and a sizeable chunk of the publ
 
 ---
 
-Missing out on the second place spot by the slimmest of margins was **Panicky Armadillo** by [-Sh1n1-](https://osu.ppy.sh/users/1957638), racking up **43.6/80** and **110** unique public votes.
+Missing out on the second place spot by the slimmest of margins was **Panicky Armadillo** by ::-Sh1n1-::{ user-id=1957638 }, racking up **43.6/80** and **110** unique public votes.
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/r2nm_z_u__k?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

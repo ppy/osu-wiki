@@ -8,14 +8,14 @@ outdated: true
 
 ### Post-Spinner Note
 
-Nominateur : [NoHItter](https://osu.ppy.sh/users/124455)
+Nominateur : ::NoHItter::{ user-id=124455 }
 
 La **post-spinner note** est constituée d'un objet après un long spinner.
 Il est généralement placé à la fin de la musique.
 
 ### Pre-Spinner Note
 
-Nominateur : [NoHItter](https://osu.ppy.sh/users/124455)
+Nominateur : ::NoHItter::{ user-id=124455 }
 
 La **pre-spinner note** est constituée d'un objet qui est placé juste avant un spinner.
 Cet objet donne le *battement* tandis que le spinner fournit la résolution de ce *battement*.
@@ -28,7 +28,7 @@ Des beatmaps antérieures peuvent chevaucher ces objets et le spinner.
 
 ### Double Spinners
 
-Nominateur : [Lilac](https://osu.ppy.sh/users/58197)
+Nominateur : ::Lilac::{ user-id=58197 }
 
 Les **double spinners** sont assez explicites.
 Il s'agit de placer deux spinners l'un juste après l'autre, généralement pour produire un hitsound pour le spinner suivant sans utiliser de cercle ou de [pre-spinner note](#pre-spinner-note).

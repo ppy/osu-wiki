@@ -30,9 +30,9 @@ The osu!taiko community doesn't cut corners. All **23** submissions received in-
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| 1st | [_gt](https://osu.ppy.sh/users/8301957) | [Camellia - Qyoh (Nine Stars)](https://osu.ppy.sh/beatmapsets/2101810) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (4 total) |
-| 2nd | [Alchyr](https://osu.ppy.sh/users/4993032) | [Supire - Sabbath](https://osu.ppy.sh/beatmapsets/2101659) | - | +1 (1 total) |
-| 3rd | [Nifty](https://osu.ppy.sh/users/4956097) | [Spire - Somnambulism](https://osu.ppy.sh/beatmapsets/2101662) | - | - |
+| 1st | ::\1gt::{ user-id=8301957 } | [Camellia - Qyoh (Nine Stars)](https://osu.ppy.sh/beatmapsets/2101810) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (4 total) |
+| 2nd | ::Alchyr::{ user-id=4993032 } | [Supire - Sabbath](https://osu.ppy.sh/beatmapsets/2101659) | - | +1 (1 total) |
+| 3rd | ::Nifty::{ user-id=4956097 } | [Spire - Somnambulism](https://osu.ppy.sh/beatmapsets/2101662) | - | - |
 
 #### Top 10
 
@@ -40,7 +40,7 @@ The osu!taiko community doesn't cut corners. All **23** submissions received in-
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LTeAjoogLWw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to [cdh](https://osu.ppy.sh/users/2403621), [HomieLove](https://osu.ppy.sh/users/8693851), [Yasuho](https://osu.ppy.sh/users/8458835), and [arcpotato](https://osu.ppy.sh/users/12842392) for judging this contest!
+Special thanks to ::cdh::{ user-id=2403621 }, [HomieLove](https://osu.ppy.sh/users/8693851), ::Yasuho::{ user-id=8458835 }, and [arcpotato](https://osu.ppy.sh/users/12842392) for judging this contest!
 
 ### osu!catch results
 
@@ -52,9 +52,9 @@ osu!catch followed the same format: each of the **12** submissions were reviewed
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| 1st | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [Camellia - CICADA3302](https://osu.ppy.sh/beatmapsets/2097061) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (3 total) |
-| 2nd | [wwwww](https://osu.ppy.sh/users/8434466) | [Culprate - Relucent feat. ZES](https://osu.ppy.sh/beatmapsets/2096801) | - | +1 (1 total) |
-| 3rd | [Rubae](https://osu.ppy.sh/users/21105275) | [Billain - Tesselator](https://osu.ppy.sh/beatmapsets/2101717) | - | - |
+| 1st | ::Unlucky\1w::{ user-id=4820793 } | [Camellia - CICADA3302](https://osu.ppy.sh/beatmapsets/2097061) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (3 total) |
+| 2nd | ::wwwww::{ user-id=8434466 } | [Culprate - Relucent feat. ZES](https://osu.ppy.sh/beatmapsets/2096801) | - | +1 (1 total) |
+| 3rd | ::Rubae::{ user-id=21105275 } | [Billain - Tesselator](https://osu.ppy.sh/beatmapsets/2101717) | - | - |
 
 #### Top 10
 
@@ -62,7 +62,7 @@ osu!catch followed the same format: each of the **12** submissions were reviewed
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/inp3UmDQlTs" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to [fayew](https://osu.ppy.sh/users/12498861), [GiGas](https://osu.ppy.sh/users/7300747), [Dapulezatos](https://osu.ppy.sh/users/8140944), and [Chatie](https://osu.ppy.sh/users/6524765) for judging this contest!
+Special thanks to ::fayew::{ user-id=12498861 }, [GiGas](https://osu.ppy.sh/users/7300747), ::Dapulezatos::{ user-id=8140944 }, and [Chatie](https://osu.ppy.sh/users/6524765) for judging this contest!
 
 ---
 
@@ -112,7 +112,7 @@ This month's osu!catch limitation: **hyperdashes should only flow either left or
 
 So if your first hyperdash goes to the left, every following hyperdash should too. If your first hyperdash goes to the right, the rest should too.
 
-[Dedot](https://osu.ppy.sh/users/8805157) gave this a try with their map of [Tokyo Jihen - Sounan](https://osu.ppy.sh/beatmapsets/2067609), so now's your chance to attempt the gimmick in your own way!
+::Dedot::{ user-id=8805157 } gave this a try with their map of [Tokyo Jihen - Sounan](https://osu.ppy.sh/beatmapsets/2067609), so now's your chance to attempt the gimmick in your own way!
 
 ### Songs
 

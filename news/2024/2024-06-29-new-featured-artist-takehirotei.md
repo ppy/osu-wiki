@@ -11,7 +11,7 @@ It's about time **takehirotei** joined our Featured Artist collection.
 
 > What if I compose a song, map it on osu!, then play it myself?
 
-Tons of osu! players have shared this thought, but [**takehirotei**](https://osu.ppy.sh/users/11793794) is one of the few who actually made it happen.
+Tons of osu! players have shared this thought, but ::**takehirotei**::{ user-id=11793794 } is one of the few who actually made it happen.
 
 Kickstarting a musical career through [osu! originals](/wiki/osu!_originals) across the tournament scene, **takehirotei** has come far enough to land a well-deserved spot in our Featured Artist library!
 
@@ -27,7 +27,7 @@ Never heard **takehirotei**'s music before? That's about to change:
 
 ### takehirotei - Chronoexplorers (feat. Finite Limit)
 
-Try [the map from the video above](https://osu.ppy.sh/beatmapsets/2168355) hosted by [Garden](https://osu.ppy.sh/users/2849992)!
+Try [the map from the video above](https://osu.ppy.sh/beatmapsets/2168355) hosted by ::Garden::{ user-id=2849992 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/428/Songs/takehirotei%20-%20Chronoexplorers%20(feat.%20Finite%20Limit).mp3">
@@ -37,9 +37,9 @@ Try [the map from the video above](https://osu.ppy.sh/beatmapsets/2168355) hoste
 
 Try one of these:
 
-- [The map this song was created for](https://osu.ppy.sh/beatmapsets/1889529) hosted by [Jerry](https://osu.ppy.sh/users/605973)
-- [Nifty](https://osu.ppy.sh/users/4956097)'s [easier rendition](https://osu.ppy.sh/beatmapsets/2134516) — in his words: "one for slightly less god players"
-- [Soon-to-be-ranked 10-star osu! map](https://osu.ppy.sh/beatmapsets/2048690) hosted by [sladkoru](https://osu.ppy.sh/users/10748381)
+- [The map this song was created for](https://osu.ppy.sh/beatmapsets/1889529) hosted by ::Jerry::{ user-id=605973 }
+- ::Nifty::{ user-id=4956097 }'s [easier rendition](https://osu.ppy.sh/beatmapsets/2134516) — in his words: "one for slightly less god players"
+- [Soon-to-be-ranked 10-star osu! map](https://osu.ppy.sh/beatmapsets/2048690) hosted by ::sladkoru::{ user-id=10748381 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/428/Songs/takehirotei%20as%20Infinite%20Limit%20-%20I.R.I.S.mp3">
@@ -47,7 +47,7 @@ Try one of these:
 
 ### takehirotei - Tainted Reminiscence
 
-Play through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2158145) hosted by [BlackBN](https://osu.ppy.sh/users/6291741)!
+Play through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2158145) hosted by ::BlackBN::{ user-id=6291741 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/428/Songs/takehirotei%20-%20Tainted%20Reminiscence.mp3">
@@ -55,7 +55,7 @@ Play through [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2158145) hosted
 
 ### takehirotei - Quad Erat Demonstrandum
 
-Try out [any difficulty from this full spread](https://osu.ppy.sh/beatmapsets/2134747) hosted by [HEAVENLY MOON](https://osu.ppy.sh/users/13681283)!
+Try out [any difficulty from this full spread](https://osu.ppy.sh/beatmapsets/2134747) hosted by ::HEAVENLY MOON::{ user-id=13681283 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/428/Songs/takehirotei%20-%20Quad%20Erat%20Demonstrandum.mp3">
@@ -63,7 +63,7 @@ Try out [any difficulty from this full spread](https://osu.ppy.sh/beatmapsets/21
 
 ### Kuba Oms - My Love (takehirotei remix)
 
-We obviously can't forget [this mapping contest classic](https://osu.ppy.sh/beatmapsets/1390004) hosted by [Shocola](https://osu.ppy.sh/users/6781232)!
+We obviously can't forget [this mapping contest classic](https://osu.ppy.sh/beatmapsets/1390004) hosted by ::Shocola::{ user-id=6781232 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/428/Songs/Kuba%20Oms%20-%20My%20Love%20(takehirotei%20remix).mp3">
@@ -71,7 +71,7 @@ We obviously can't forget [this mapping contest classic](https://osu.ppy.sh/beat
 
 ### takehirotei as Infinite Limit - C://YOU NEX-TIME
 
-Finish things off with [this tournament map](https://osu.ppy.sh/beatmapsets/2030024) hosted by [overdahedge2015](https://osu.ppy.sh/users/9864847)!
+Finish things off with [this tournament map](https://osu.ppy.sh/beatmapsets/2030024) hosted by ::overdahedge2015::{ user-id=9864847 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/428/Songs/takehirotei%20as%20Infinite%20Limit%20-%20CYOU%20NEX-TIME.mp3">

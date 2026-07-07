@@ -13,7 +13,7 @@ In collaboration with [KOAN Sound](https://osu.ppy.sh/beatmaps/artists/49), **As
 
 All **9** songs from both of those EPs are officially part of [**Asa**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/394), pre-timed for you to splash your circles (or drums (or fruits (or piano keys))) onto.
 
-You thought it was over, but [COE](/wiki/Community/cavoe's_osu!_event/2023) is clearly still kicking, as evidenced by this multi-keyboard play of *Starlite* by resident mapper [Okoratu](https://osu.ppy.sh/users/1623405) from the venue. Check that out, along with some of the most varied tech maps on the market:
+You thought it was over, but [COE](/wiki/Community/cavoe's_osu!_event/2023) is clearly still kicking, as evidenced by this multi-keyboard play of *Starlite* by resident mapper ::Okoratu::{ user-id=1623405 } from the venue. Check that out, along with some of the most varied tech maps on the market:
 
 <div align="center">
     <video width="95%" controls>
@@ -25,9 +25,9 @@ You thought it was over, but [COE](/wiki/Community/cavoe's_osu!_event/2023) is c
 
 Play through one (or all) of these masterpieces:
 
-- [The map from the video above](https://osu.ppy.sh/beatmapsets/294496) hosted by [Aiceo](https://osu.ppy.sh/users/4453280)
-- [An alternative difficulty spread](https://osu.ppy.sh/beatmapsets/628657) hosted by [Pentori](https://osu.ppy.sh/users/7452237)
-- [A full-length marathon](https://osu.ppy.sh/beatmapsets/1332346) hosted by [- Heatwave -](https://osu.ppy.sh/users/4166621)
+- [The map from the video above](https://osu.ppy.sh/beatmapsets/294496) hosted by ::Aiceo::{ user-id=4453280 }
+- [An alternative difficulty spread](https://osu.ppy.sh/beatmapsets/628657) hosted by ::Pentori::{ user-id=7452237 }
+- [A full-length marathon](https://osu.ppy.sh/beatmapsets/1332346) hosted by ::- Heatwave -::{ user-id=4166621 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/394/Sanctuary EP/KOAN Sound _ Asa - Starlite.mp3">
@@ -35,7 +35,7 @@ Play through one (or all) of these masterpieces:
 
 ### KOAN Sound x Culprate x Reso x Asa - Cascade
 
-Take a stab at [this osu! map](https://osu.ppy.sh/beatmapsets/1464050) hosted by [Arbane](https://osu.ppy.sh/users/4150829) or [this brand-new osu!catch rendition](https://osu.ppy.sh/beatmapsets/2046177) hosted by [wwwww](https://osu.ppy.sh/users/8434466)!
+Take a stab at [this osu! map](https://osu.ppy.sh/beatmapsets/1464050) hosted by ::Arbane::{ user-id=4150829 } or [this brand-new osu!catch rendition](https://osu.ppy.sh/beatmapsets/2046177) hosted by ::wwwww::{ user-id=8434466 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/394/Movember EP/KOAN Sound x Culprate x Reso x Asa - Cascade.mp3">
@@ -43,7 +43,7 @@ Take a stab at [this osu! map](https://osu.ppy.sh/beatmapsets/1464050) hosted by
 
 ### KOAN Sound x Culprate x Asa x Gemini - Beyond The Shadows
 
-Experience [this marathon](https://osu.ppy.sh/beatmapsets/583372) hosted by [hi-mei](https://osu.ppy.sh/users/4574165)!
+Experience [this marathon](https://osu.ppy.sh/beatmapsets/583372) hosted by ::hi-mei::{ user-id=4574165 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/394/Movember EP/KOAN Sound x Culprate x Asa x Gemini - Beyond The Shadows.mp3">
@@ -51,7 +51,7 @@ Experience [this marathon](https://osu.ppy.sh/beatmapsets/583372) hosted by [hi-
 
 ### KOAN Sound & Asa - This Time Around (feat. Koo)
 
-[This osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1309753) by [Heaxys](https://osu.ppy.sh/users/5671417) could be your next favourite map.
+[This osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1309753) by ::Heaxys::{ user-id=5671417 } could be your next favourite map.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/394/Sanctuary EP/KOAN Sound _ Asa - This Time Around (feat. Koo).mp3">

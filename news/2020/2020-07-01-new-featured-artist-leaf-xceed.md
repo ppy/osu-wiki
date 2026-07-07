@@ -11,7 +11,7 @@ We're proud to welcome **LEAF XCEED Music Division** aboard as our latest Featur
 
 A blast from the past coming straight at you in 2020, [**LEAF XCEED Music Division**](https://osu.ppy.sh/beatmaps/artists/88) is here to stay as our newest addition to the Featured Artist roster.
 
-Most well known in osu! from his tracks *Fur Elisa* ([mapped](https://osu.ppy.sh/beatmapsets/23916) by [Louis Cyphre](https://osu.ppy.sh/users/186243)), *YuYu Metal* ([mapped](https://osu.ppy.sh/beatmapsets/45528) by [DoKito](https://osu.ppy.sh/users/537084)), and more recently *Guitar vs Piano* ([mapped](https://osu.ppy.sh/beatmapsets/518003) by [Shiro](https://osu.ppy.sh/users/113005)), we're excited to announce a new ensemble of 8 tracks including most of these timeless classics is now available, all bundled up in a neat album rather aptly titled *osu! 「SELECT」*.
+Most well known in osu! from his tracks *Fur Elisa* ([mapped](https://osu.ppy.sh/beatmapsets/23916) by ::Louis Cyphre::{ user-id=186243 }), *YuYu Metal* ([mapped](https://osu.ppy.sh/beatmapsets/45528) by ::DoKito::{ user-id=537084 }), and more recently *Guitar vs Piano* ([mapped](https://osu.ppy.sh/beatmapsets/518003) by ::Shiro::{ user-id=113005 }), we're excited to announce a new ensemble of 8 tracks including most of these timeless classics is now available, all bundled up in a neat album rather aptly titled *osu! 「SELECT」*.
 
 In addition, the Mappers' Guild has been hard at work creating new takes on these classic metal hits to quite literally, bring your experience into the modern era. Don't discount the older tracks though - they're every bit as good now as they were back in 2011!
 
@@ -19,7 +19,7 @@ Check out a few previews below for yourself and see what all the hype is about:
 
 ### Fur Elisa
 
-Check out [this classic 2011 set](https://osu.ppy.sh/beatmapsets/23916) by [Louis Cyphre](https://osu.ppy.sh/users/186243), and [this newer, more modern collaborative set](https://osu.ppy.sh/beatmapsets/1131805) hosted by [Daycore](https://osu.ppy.sh/users/5596337)!
+Check out [this classic 2011 set](https://osu.ppy.sh/beatmapsets/23916) by ::Louis Cyphre::{ user-id=186243 }, and [this newer, more modern collaborative set](https://osu.ppy.sh/beatmapsets/1131805) hosted by ::Daycore::{ user-id=5596337 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/88/previews/2351.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this classic 2011 set](https://osu.ppy.sh/beatmapsets/23916) by [Loui
 
 ### Guitar vs. Piano (ver. XCEED)
 
-Check out [this classic Loved set](https://osu.ppy.sh/beatmapsets/518003) by [Shiro](https://osu.ppy.sh/users/113005), and [this new collaborative set](https://osu.ppy.sh/beatmapsets/1195288) hosted by [fieryrage](https://osu.ppy.sh/users/3533958)!
+Check out [this classic Loved set](https://osu.ppy.sh/beatmapsets/518003) by ::Shiro::{ user-id=113005 }, and [this new collaborative set](https://osu.ppy.sh/beatmapsets/1195288) hosted by ::fieryrage::{ user-id=3533958 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/88/previews/2352.mp3" type="audio/mpeg">

@@ -44,13 +44,13 @@ Click on any artist's banner to head to their full music listing, where you can 
 
 If you're up to a challenge, try the maps yourself:
 
-### [Culprate - Lightfold](https://osu.ppy.sh/beatmapsets/2391796) mapped by [wwwww](https://osu.ppy.sh/users/8434466)
+### [Culprate - Lightfold](https://osu.ppy.sh/beatmapsets/2391796) mapped by ::wwwww::{ user-id=8434466 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/29/Songs/Culprate_-_Lightfold.mp3" type="audio/mpeg">
 </audio>
 
-### [Jalaana (osu! ver.)](https://osu.ppy.sh/beatmapsets/2398911#fruits/5199078) mapped by [wwwww](https://osu.ppy.sh/users/8434466)
+### [Jalaana (osu! ver.)](https://osu.ppy.sh/beatmapsets/2398911#fruits/5199078) mapped by ::wwwww::{ user-id=8434466 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/29/Songs/Culprate_-_Jalaana_osu_ver..mp3" type="audio/mpeg">
@@ -62,13 +62,13 @@ If you're up to a challenge, try the maps yourself:
 
 Just like **Culprate**, we expanded [**EmoCosine**](https://osu.ppy.sh/beatmaps/artists/246)'s listing in part because of [2025's osu!catch World Cup mappools](/wiki/Tournaments/CWC/2025#mappools)! *Ready for Breakdown* was used early in the tournament, and while we were at it, we also snagged *Love Pills* for... reasons. You'll understand when you're older.
 
-### [EmoCosine - Ready for Breakdown](https://osu.ppy.sh/beatmapsets/2388341#fruits/5168359) mapped by [Xinnoh](https://osu.ppy.sh/users/4236057)
+### [EmoCosine - Ready for Breakdown](https://osu.ppy.sh/beatmapsets/2388341#fruits/5168359) mapped by ::Xinnoh::{ user-id=4236057 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/246/Songs/EmoCosine_-_Ready_for_Breakdown.mp3" type="audio/mpeg">
 </audio>
 
-### [EmoCosine - Love Pills](https://osu.ppy.sh/beatmapsets/1798875) mapped by [Rycy](https://osu.ppy.sh/users/7394522)
+### [EmoCosine - Love Pills](https://osu.ppy.sh/beatmapsets/1798875) mapped by ::Rycy::{ user-id=7394522 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/246/Songs/EmoCosine_-_Love_Pills.mp3" type="audio/mpeg">
@@ -80,13 +80,13 @@ Just like **Culprate**, we expanded [**EmoCosine**](https://osu.ppy.sh/beatmaps/
 
 [**Good Kid**](https://osu.ppy.sh/beatmaps/artists/240) makes good music. You probably already knew that, and that's why osu! has more of it. Neither of these are Ranked (yet), but they should give you some inspiration for your own maps:
 
-### [Good Kid - Wall](https://osu.ppy.sh/beatmapsets/2447203) mapped by [Among Us](https://osu.ppy.sh/users/13473514)
+### [Good Kid - Wall](https://osu.ppy.sh/beatmapsets/2447203) mapped by ::Among Us::{ user-id=13473514 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Wall.mp3" type="audio/mpeg">
 </audio>
 
-### [Good Kid - Rift](https://osu.ppy.sh/beatmapsets/2467271) mapped by [_ethan](https://osu.ppy.sh/users/16345483)
+### [Good Kid - Rift](https://osu.ppy.sh/beatmapsets/2467271) mapped by ::\1ethan::{ user-id=16345483 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Rift.mp3" type="audio/mpeg">
@@ -154,19 +154,19 @@ It's purely coincidental that every artist so far has had only 2 song additions.
 
 [**Kry.exe**](https://osu.ppy.sh/beatmaps/artists/448)'s track [*Rift Walker*](https://osu.ppy.sh/beatmapsets/2412244) won peppy's pick in [Locus 2025](/wiki/Contests/Locus/2025). peppy might have liked **Kry.exe**'s music enough to grab a few more tracks too!
 
-### [Kry.exe - GEOLOGICAL//IRRESOLUTION](https://osu.ppy.sh/beatmapsets/2340140) mapped by [Eyenine](https://osu.ppy.sh/users/1259391)
+### [Kry.exe - GEOLOGICAL//IRRESOLUTION](https://osu.ppy.sh/beatmapsets/2340140) mapped by ::Eyenine::{ user-id=1259391 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/448/Songs/Kry.exe_-_GEOLOGICALIRRESOLUTION.mp3" type="audio/mpeg">
 </audio>
 
-### [Kry.exe - MUZAN](https://osu.ppy.sh/beatmapsets/2406537) mapped by [XK2238](https://osu.ppy.sh/users/1139209)
+### [Kry.exe - MUZAN](https://osu.ppy.sh/beatmapsets/2406537) mapped by ::XK2238::{ user-id=1139209 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/448/Songs/Kry.exe_-_MUZAN.mp3" type="audio/mpeg">
 </audio>
 
-### [Kry.exe - IMPERIA](https://osu.ppy.sh/beatmapsets/2430040) mapped by [Lott](https://osu.ppy.sh/users/13821222)
+### [Kry.exe - IMPERIA](https://osu.ppy.sh/beatmapsets/2430040) mapped by ::Lott::{ user-id=13821222 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/448/Songs/Kry.exe_-_IMPERIA.mp3" type="audio/mpeg">
@@ -178,19 +178,19 @@ It's purely coincidental that every artist so far has had only 2 song additions.
 
 Pinch yourself. You weren't expecting [**Ne Obliviscaris**](https://osu.ppy.sh/beatmaps/artists/86) to return to osu! with new music, but here we are. **5** tracks from their newest album *Exul* are part of osu!'s Featured Artist library! Play through three of them below, and visit [the band's listing](https://osu.ppy.sh/beatmaps/artists/86) to start mapping the rest.
 
-### [Ne Obliviscaris - Equus](https://osu.ppy.sh/beatmapsets/2023758) mapped by [Sayuka](https://osu.ppy.sh/users/11322604) and [Dabbe_1](https://osu.ppy.sh/users/12172073)
+### [Ne Obliviscaris - Equus](https://osu.ppy.sh/beatmapsets/2023758) mapped by ::Sayuka::{ user-id=11322604 } and [Dabbe_1](https://osu.ppy.sh/users/12172073)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/86/Exul/Ne Obliviscaris - Equus.mp3" type="audio/mpeg">
 </audio>
 
-### [Ne Obliviscaris - Misericorde I - As The Flesh Falls](https://osu.ppy.sh/beatmapsets/2382902) mapped by [le pauvre bil](https://osu.ppy.sh/users/12437546)
+### [Ne Obliviscaris - Misericorde I - As The Flesh Falls](https://osu.ppy.sh/beatmapsets/2382902) mapped by ::le pauvre bil::{ user-id=12437546 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/86/Exul/Ne Obliviscaris - Misericorde I - As The Flesh Falls.mp3" type="audio/mpeg">
 </audio>
 
-### [Ne Obliviscaris - Graal](https://osu.ppy.sh/beatmapsets/2031536) mapped by [Roupus](https://osu.ppy.sh/users/11117670)
+### [Ne Obliviscaris - Graal](https://osu.ppy.sh/beatmapsets/2031536) mapped by ::Roupus::{ user-id=11117670 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/86/Exul/Ne Obliviscaris - Graal.mp3" type="audio/mpeg">
@@ -202,19 +202,19 @@ Pinch yourself. You weren't expecting [**Ne Obliviscaris**](https://osu.ppy.sh/b
 
 [**SiLiS**](https://osu.ppy.sh/beatmaps/artists/434) joined our Featured Artist library less than a year ago, but between then and now, they've released more music than some artists have in their entire discography! **10** of those tracks are part of osu! as of today. 3 are below, and the rest are on [**SiLiS**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/434)!
 
-### [SiLiS - Ryuu no Koukyoukyoku](https://osu.ppy.sh/beatmapsets/2321386) mapped by [Gamelan4](https://osu.ppy.sh/users/9856910)
+### [SiLiS - Ryuu no Koukyoukyoku](https://osu.ppy.sh/beatmapsets/2321386) mapped by ::Gamelan4::{ user-id=9856910 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - Ryuu no Koukyoukyoku.mp3" type="audio/mpeg">
 </audio>
 
-### [SiLiS - hopeful hyle](https://osu.ppy.sh/beatmapsets/2352047) mapped by [Wavewy](https://osu.ppy.sh/users/17352850)
+### [SiLiS - hopeful hyle](https://osu.ppy.sh/beatmapsets/2352047) mapped by ::Wavewy::{ user-id=17352850 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - hopeful hyle.mp3" type="audio/mpeg">
 </audio>
 
-### [SiLiS - Algernon -till the final breath-](https://osu.ppy.sh/beatmapsets/2399406) mapped by [SurfChu85](https://osu.ppy.sh/users/4469895)
+### [SiLiS - Algernon -till the final breath-](https://osu.ppy.sh/beatmapsets/2399406) mapped by ::SurfChu85::{ user-id=4469895 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - Algernon -till the final breath-.mp3" type="audio/mpeg">
@@ -226,7 +226,7 @@ Pinch yourself. You weren't expecting [**Ne Obliviscaris**](https://osu.ppy.sh/b
 
 You might've already played [*Always a cycle (Hyper)*](https://osu.ppy.sh/beatmapsets/2330718), but have you played [*Always a cycle (GLB Toxic Remix)*](https://osu.ppy.sh/beatmapsets/2429529)? [**Simon Safhalter**](https://osu.ppy.sh/beatmaps/artists/481) is here to ensure every version of *Always a cycle* is available to circle clickers.
 
-### [Simon Safhalter - Always a cycle (GLB Toxic Remix)](https://osu.ppy.sh/beatmapsets/2429529) mapped by [Djulus](https://osu.ppy.sh/users/4960893)
+### [Simon Safhalter - Always a cycle (GLB Toxic Remix)](https://osu.ppy.sh/beatmapsets/2429529) mapped by ::Djulus::{ user-id=4960893 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/481/Songs/Simon_Safhalter_-_Always_a_cycle_GLB_Toxic_Remix.mp3" type="audio/mpeg">
@@ -236,7 +236,7 @@ You might've already played [*Always a cycle (Hyper)*](https://osu.ppy.sh/beatma
 
 [![](https://assets.ppy.sh/artists/373/header.jpg)](https://osu.ppy.sh/beatmaps/artists/373)
 
-This one is for osu!taiko mappers. Last year, [ikin5050](https://osu.ppy.sh/users/4007649) commissioned a song from breakcore extraordinaire [**Supire**](https://osu.ppy.sh/beatmaps/artists/373) for the [osu!taiko Mapping World Cup 2025](/wiki/Contests/TMWC/2025). Afterwards, **Supire** offered the track to his Featured Artist listing! Check out [any of these maps](https://osu.ppy.sh/beatmapsets?q=artist%3D%22Supire%22%20title%3D%22KUKRI%22&s=any), or preview the song below.
+This one is for osu!taiko mappers. Last year, ::ikin5050::{ user-id=4007649 } commissioned a song from breakcore extraordinaire [**Supire**](https://osu.ppy.sh/beatmaps/artists/373) for the [osu!taiko Mapping World Cup 2025](/wiki/Contests/TMWC/2025). Afterwards, **Supire** offered the track to his Featured Artist listing! Check out [any of these maps](https://osu.ppy.sh/beatmapsets?q=artist%3D%22Supire%22%20title%3D%22KUKRI%22&s=any), or preview the song below.
 
 ### Supire - KUKRI
 
@@ -248,7 +248,7 @@ This one is for osu!taiko mappers. Last year, [ikin5050](https://osu.ppy.sh/user
 
 [![](https://assets.ppy.sh/artists/470/header.jpg)](https://osu.ppy.sh/beatmaps/artists/470)
 
-"You are an entire refrigerator", claims [Pizza69](https://osu.ppy.sh/users/25285704), the mapper of [**Terminal 11**](https://osu.ppy.sh/beatmaps/artists/470)'s [*Cold Storage*](https://osu.ppy.sh/beatmapsets/2421224) for the [osu!mania 4K World Cup 2025](/wiki/Tournaments/MWC/2025_4K).
+"You are an entire refrigerator", claims ::Pizza69::{ user-id=25285704 }, the mapper of [**Terminal 11**](https://osu.ppy.sh/beatmaps/artists/470)'s [*Cold Storage*](https://osu.ppy.sh/beatmapsets/2421224) for the [osu!mania 4K World Cup 2025](/wiki/Tournaments/MWC/2025_4K).
 
 ### Terminal 11 - Cold Storage
 
@@ -298,13 +298,13 @@ Some rabbits gnaw on carrots. Some rabbits chew up lettuce. A very specific rabb
     <source src="https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - Through the Lunar Marketplace.mp3" type="audio/mpeg">
 </audio>
 
-### [WangleLine - Strange Relic](https://osu.ppy.sh/beatmapsets/2297377) mapped by [Malai](https://osu.ppy.sh/users/4863096)
+### [WangleLine - Strange Relic](https://osu.ppy.sh/beatmapsets/2297377) mapped by ::Malai::{ user-id=4863096 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine_-_Strange_Relic.mp3" type="audio/mpeg">
 </audio>
 
-### [Reload feat. Aran P. Ink (WangleLine's "MEGATON MISSILE" Remix)](https://osu.ppy.sh/beatmapsets/1901755) mapped by [hehe](https://osu.ppy.sh/users/2123087)
+### [Reload feat. Aran P. Ink (WangleLine's "MEGATON MISSILE" Remix)](https://osu.ppy.sh/beatmapsets/1901755) mapped by ::hehe::{ user-id=2123087 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/427/Songs/queenjazz_-_Reload_feat._Aran_P._Ink_WangleLines_MEGATON_MISSILE_Remix.mp3" type="audio/mpeg">
@@ -334,19 +334,19 @@ Some rabbits gnaw on carrots. Some rabbits chew up lettuce. A very specific rabb
 
 Ending things with a bang, [**ZxNX**](https://osu.ppy.sh/beatmaps/artists/288) presents a whopping **10** additions to [their library here on osu!](https://osu.ppy.sh/beatmaps/artists/288). Something very special from **ZxNX** is on the horizon, and we refuse to fully explain what that means.
 
-### [Xomu & ZxNX - Spiritworks](https://osu.ppy.sh/beatmapsets/2186482) mapped by [Puribi](https://osu.ppy.sh/users/16527257)
+### [Xomu & ZxNX - Spiritworks](https://osu.ppy.sh/beatmapsets/2186482) mapped by ::Puribi::{ user-id=16527257 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/288/Songs/Xomu__ZxNX_-_Spiritworks.mp3" type="audio/mpeg">
 </audio>
 
-### [Nordius Dystancius - Luxvinore](https://osu.ppy.sh/beatmapsets/2395747) mapped by [Mir](https://osu.ppy.sh/users/8688812)
+### [Nordius Dystancius - Luxvinore](https://osu.ppy.sh/beatmapsets/2395747) mapped by ::Mir::{ user-id=8688812 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/288/Songs/Nordius_Dystancius_-_Luxvinore.mp3" type="audio/mpeg">
 </audio>
 
-### [ZxNX+Delaina - False Fairy Tale](https://osu.ppy.sh/beatmapsets/2032331) mapped by [Raids](https://osu.ppy.sh/users/15640966)
+### [ZxNX+Delaina - False Fairy Tale](https://osu.ppy.sh/beatmapsets/2032331) mapped by ::Raids::{ user-id=15640966 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/288/Songs/ZxNXDelaina_-_False_Fairy_Tale.mp3" type="audio/mpeg">

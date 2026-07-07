@@ -25,7 +25,7 @@ You know what to do:
 
 ### KASHIWA Daisuke - Aqua Regia
 
-Try out [this modern osu!mania 4K classic](https://osu.ppy.sh/beatmapsets/1378372) hosted by [Shoegazer](https://osu.ppy.sh/users/2520707)!
+Try out [this modern osu!mania 4K classic](https://osu.ppy.sh/beatmapsets/1378372) hosted by ::Shoegazer::{ user-id=2520707 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/343/Songs/KASHIWA%20Daisuke%20-%20Aqua%20Regia.mp3">
@@ -33,7 +33,7 @@ Try out [this modern osu!mania 4K classic](https://osu.ppy.sh/beatmapsets/137837
 
 ### KASHIWA Daisuke - Sacred Play Secret Place
 
-Swallow [this brand-new marathon](https://osu.ppy.sh/beatmapsets/1908078) hosted by [Daycore](https://osu.ppy.sh/users/5596337)!
+Swallow [this brand-new marathon](https://osu.ppy.sh/beatmapsets/1908078) hosted by ::Daycore::{ user-id=5596337 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/343/Songs/KASHIWA%20Daisuke%20-%20Sacred%20Play%20Secret%20Place.mp3">
@@ -41,7 +41,7 @@ Swallow [this brand-new marathon](https://osu.ppy.sh/beatmapsets/1908078) hosted
 
 ### KASHIWA Daisuke - april.#02
 
-Experience [this Loved osu!mania 4K map](https://osu.ppy.sh/beatmapsets/494325) hosted by [Fullerene-](https://osu.ppy.sh/users/2531335)!
+Experience [this Loved osu!mania 4K map](https://osu.ppy.sh/beatmapsets/494325) hosted by ::Fullerene-::{ user-id=2531335 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/343/Songs/KASHIWA%20Daisuke%20-%20april.%2302.mp3">
@@ -49,7 +49,7 @@ Experience [this Loved osu!mania 4K map](https://osu.ppy.sh/beatmapsets/494325) 
 
 ### KASHIWA Daisuke - Red Skirts
 
-Play [this final marathon](https://osu.ppy.sh/beatmapsets/1745894) hosted by osu!'s most handsome creator [hehe](https://osu.ppy.sh/users/2123087)!
+Play [this final marathon](https://osu.ppy.sh/beatmapsets/1745894) hosted by osu!'s most handsome creator ::hehe::{ user-id=2123087 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/343/Songs/KASHIWA%20Daisuke%20-%20Red%20Skirts.mp3">

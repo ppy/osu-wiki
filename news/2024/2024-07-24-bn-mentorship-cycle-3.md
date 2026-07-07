@@ -21,34 +21,34 @@ Below you'll find a list of mentors for each game mode, alongside their timezone
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | UTC+2 |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | UTC-3 |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | UTC+2 |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) | UTC-4 |
-| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) & ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) (joint class) | UTC+5 & UTC+3 |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) & ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) (joint class) | UTC+3 |
-| ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | UTC-4 |
+| ::{ flag=SE }:: ::bite you death::{ user-id=6398464 } | UTC+2 |
+| ::{ flag=BR }:: ::Dada::{ user-id=9119507 } | UTC-3 |
+| ::{ flag=BE }:: ::enneya::{ user-id=10959501 } | UTC+2 |
+| ::{ flag=CA }:: ::Lafayla::{ user-id=5312547 } | UTC-4 |
+| ::{ flag=RU }:: ::Mirash::{ user-id=2841009 } & ::{ flag=RU }:: ::NeKroMan4ik::{ user-id=11387664 } (joint class) | UTC+5 & UTC+3 |
+| ::{ flag=KR }:: ::momoyo::{ user-id=12469536 } & ::{ flag=RO }:: ::nanoya::{ user-id=12366071 } (joint class) | UTC+3 |
+| ::{ flag=US }:: ::Nao Tomori::{ user-id=5364763 } | UTC-4 |
 
 ### ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko mentors
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | UTC+2 |
+| ::{ flag=AT }:: ::Yasuho::{ user-id=8458835 } | UTC+2 |
 
 ### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch mentors
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | UTC+2 |
+| ::{ flag=NL }:: ::Greaper::{ user-id=2369776 } | UTC+2 |
 
 ### ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania mentors
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=MY }:: [Critical_Star](https://osu.ppy.sh/users/3793196) | UTC+8 |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | UTC+7 |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) & ::{ flag=IT }:: [\[GB\]Rick](https://osu.ppy.sh/users/25263357) (joint class) | UTC+1 |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | UTC+8 |
+| ::{ flag=MY }:: ::Critical\1Star::{ user-id=3793196 } | UTC+8 |
+| ::{ flag=ID }:: ::Maxus::{ user-id=4335785 } | UTC+7 |
+| ::{ flag=DZ }:: ::Scotty::{ user-id=11085809 } & ::{ flag=IT }:: ::\[GB\]Rick::{ user-id=25263357 } (joint class) | UTC+1 |
+| ::{ flag=CN }:: ::Seiran-::{ user-id=14351534 } | UTC+8 |
 
 ---
 

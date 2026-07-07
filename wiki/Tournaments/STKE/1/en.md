@@ -7,7 +7,7 @@ tags:
 
 ![Sparxe's Two Key Event](img/banner.jpg)
 
-**Sparxe's Two Key Event** (***STKE***) was a 1v1, double-elimination, global osu!mania 2-key tournament hosted by ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) and ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947).
+**Sparxe's Two Key Event** (***STKE***) was a 1v1, double-elimination, global osu!mania 2-key tournament hosted by ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 } and ::{ flag=US }:: ::Sydosys::{ user-id=17523947 }.
 
 ## Tournament schedule
 
@@ -36,13 +36,13 @@ tags:
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) |
-| Mapper | ::{ flag=AU }:: [\[Iron\]](https://osu.ppy.sh/users/13171482), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=US }:: [Nivrad00](https://osu.ppy.sh/users/1984634), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) |
-| Streamer | ::{ flag=US }:: [ethfan922](https://osu.ppy.sh/users/10402769), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089) |
-| Commentator | ::{ flag=GB }:: [--Dragon--](https://osu.ppy.sh/users/11924624), ::{ flag=AU }:: [\[Iron\]](https://osu.ppy.sh/users/13171482), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [ERA Basil](https://osu.ppy.sh/users/7097990), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=US }:: [Sleeby Maddy](https://osu.ppy.sh/users/7001787), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639) |
-| Referee | ::{ flag=VN }:: [\[LS\]Sagirium](https://osu.ppy.sh/users/16530364), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=US }:: [ethfan922](https://osu.ppy.sh/users/10402769), ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731), ::{ flag=AU }:: [shnacc](https://osu.ppy.sh/users/11373924), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) |
-| Designer | ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991) |
-| Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) |
+| Host | ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 }, ::{ flag=US }:: ::Sydosys::{ user-id=17523947 } |
+| Mapper | ::{ flag=AU }:: ::\[Iron\]::{ user-id=13171482 }, ::{ flag=JP }:: ::Maimaing::{ user-id=14520910 }, ::{ flag=TH }:: ::MyZterioN-::{ user-id=8521723 }, ::{ flag=US }:: ::Nivrad00::{ user-id=1984634 }, ::{ flag=NO }:: ::roufou::{ user-id=1109122 }, ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 }, ::{ flag=US }:: ::Sydosys::{ user-id=17523947 } |
+| Streamer | ::{ flag=US }:: ::ethfan922::{ user-id=10402769 }, ::{ flag=VN }:: ::rock-on::{ user-id=9676089 } |
+| Commentator | ::{ flag=GB }:: ::--Dragon--::{ user-id=11924624 }, ::{ flag=AU }:: ::\[Iron\]::{ user-id=13171482 }, ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 }, ::{ flag=US }:: ::ERA Basil::{ user-id=7097990 }, ::{ flag=CA }:: ::ERA Sunny::{ user-id=16468962 }, ::{ flag=AU }:: ::Jaye::{ user-id=4841352 }, ::{ flag=US }:: ::Sleeby Maddy::{ user-id=7001787 }, ::{ flag=US }:: ::Sparky::{ user-id=3187959 }, ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 }, ::{ flag=GB }:: ::Teezel::{ user-id=7528639 } |
+| Referee | ::{ flag=VN }:: ::\[LS\]Sagirium::{ user-id=16530364 }, ::{ flag=US }:: ::akace100::{ user-id=9308128 }, ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user-id=3855052 }, ::{ flag=CA }:: ::ERA Sunny::{ user-id=16468962 }, ::{ flag=PE }:: ::ERA Xuste::{ user-id=17989444 }, ::{ flag=US }:: ::ethfan922::{ user-id=10402769 }, ::{ flag=FI }:: ::Laurakko::{ user-id=7253731 }, ::{ flag=AU }:: ::shnacc::{ user-id=11373924 }, ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 } |
+| Designer | ::{ flag=SG }:: ::TheFunk::{ user-id=13981991 } |
+| Statistician | ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 }, ::{ flag=AU }:: ::Jaye::{ user-id=4841352 } |
 
 ## Links
 
@@ -58,38 +58,38 @@ tags:
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747) |
-| 2 | ::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users/18560307) |
-| 3 | ::{ flag=FI }:: [KullaiPora](https://osu.ppy.sh/users/31956722) |
-| 4 | ::{ flag=US }:: [ERA Basil](https://osu.ppy.sh/users/7097990) |
-| 5 | ::{ flag=GB }:: [Zoobin4](https://osu.ppy.sh/users/10055204) |
-| 6 | ::{ flag=GB }:: [--Dragon--](https://osu.ppy.sh/users/11924624) |
-| 7 | ::{ flag=GB }:: [MiniEgg_23](https://osu.ppy.sh/users/25914360) |
-| 8 | ::{ flag=US }:: [AstalFanBoy](https://osu.ppy.sh/users/15513303) |
-| 9 | ::{ flag=DE }:: [datnonameboi](https://osu.ppy.sh/users/14217761) |
-| 10 | ::{ flag=PL }:: [bagjettka](https://osu.ppy.sh/users/18338179) |
-| 11 | ::{ flag=US }:: [\[LS\]Mari](https://osu.ppy.sh/users/15270411) |
-| 12 | ::{ flag=US }:: [Sleeby Maddy](https://osu.ppy.sh/users/7001787) |
-| 13 | ::{ flag=CZ }:: [TomisNotGood](https://osu.ppy.sh/users/16360055) |
-| 14 | ::{ flag=AR }:: [Mahiru-No-Yo](https://osu.ppy.sh/users/24649329) |
-| 15 | ::{ flag=US }:: [tylersfoot](https://osu.ppy.sh/users/17731488) |
-| 16 | ::{ flag=US }:: [cyger](https://osu.ppy.sh/users/20020441) |
-| 17 | ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959) |
-| 18 | ::{ flag=MX }:: [happergamer](https://osu.ppy.sh/users/15513319) |
-| 19 | ::{ flag=PE }:: [Dinki](https://osu.ppy.sh/users/23361435) |
-| 20 | ::{ flag=PE }:: [alemagno333](https://osu.ppy.sh/users/11411697) |
-| 21 | ::{ flag=US }:: [\[LS\]skob](https://osu.ppy.sh/users/16018923) |
-| 22 | ::{ flag=TW }:: [JeerSuS](https://osu.ppy.sh/users/24533726) |
-| 23 | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
-| 24 | ::{ flag=US }:: [Prongle](https://osu.ppy.sh/users/16884064) |
-| 25 | ::{ flag=VN }:: [--Glitchy--](https://osu.ppy.sh/users/30644569) |
-| 26 | ::{ flag=US }:: [Astronian](https://osu.ppy.sh/users/22028323) |
-| 27 | ::{ flag=PL }:: [Murtaj](https://osu.ppy.sh/users/18962055) |
-| 28 | ::{ flag=FR }:: [La La](https://osu.ppy.sh/users/11345268) |
-| 29 | ::{ flag=CA }:: [DimplesRMe](https://osu.ppy.sh/users/13348268) |
-| 30 | ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639) |
-| 31 | ::{ flag=MA }:: [OSUjanaiKATSURAda](https://osu.ppy.sh/users/2154499) |
-| 32 | ::{ flag=CN }:: [eiqmy](https://osu.ppy.sh/users/35404573) |
+| 1 | ::{ flag=GB }:: ::Nathanial::{ user-id=9169747 } |
+| 2 | ::{ flag=PH }:: ::Silicosis 2::{ user-id=18560307 } |
+| 3 | ::{ flag=FI }:: ::KullaiPora::{ user-id=31956722 } |
+| 4 | ::{ flag=US }:: ::ERA Basil::{ user-id=7097990 } |
+| 5 | ::{ flag=GB }:: ::Zoobin4::{ user-id=10055204 } |
+| 6 | ::{ flag=GB }:: ::--Dragon--::{ user-id=11924624 } |
+| 7 | ::{ flag=GB }:: ::MiniEgg\123::{ user-id=25914360 } |
+| 8 | ::{ flag=US }:: ::AstalFanBoy::{ user-id=15513303 } |
+| 9 | ::{ flag=DE }:: ::datnonameboi::{ user-id=14217761 } |
+| 10 | ::{ flag=PL }:: ::bagjettka::{ user-id=18338179 } |
+| 11 | ::{ flag=US }:: ::\[LS\]Mari::{ user-id=15270411 } |
+| 12 | ::{ flag=US }:: ::Sleeby Maddy::{ user-id=7001787 } |
+| 13 | ::{ flag=CZ }:: ::TomisNotGood::{ user-id=16360055 } |
+| 14 | ::{ flag=AR }:: ::Mahiru-No-Yo::{ user-id=24649329 } |
+| 15 | ::{ flag=US }:: ::tylersfoot::{ user-id=17731488 } |
+| 16 | ::{ flag=US }:: ::cyger::{ user-id=20020441 } |
+| 17 | ::{ flag=US }:: ::Sparky::{ user-id=3187959 } |
+| 18 | ::{ flag=MX }:: ::happergamer::{ user-id=15513319 } |
+| 19 | ::{ flag=PE }:: ::Dinki::{ user-id=23361435 } |
+| 20 | ::{ flag=PE }:: ::alemagno333::{ user-id=11411697 } |
+| 21 | ::{ flag=US }:: ::\[LS\]skob::{ user-id=16018923 } |
+| 22 | ::{ flag=TW }:: ::JeerSuS::{ user-id=24533726 } |
+| 23 | ::{ flag=AU }:: ::Blobby3000::{ user-id=6916774 } |
+| 24 | ::{ flag=US }:: ::Prongle::{ user-id=16884064 } |
+| 25 | ::{ flag=VN }:: ::--Glitchy--::{ user-id=30644569 } |
+| 26 | ::{ flag=US }:: ::Astronian::{ user-id=22028323 } |
+| 27 | ::{ flag=PL }:: ::Murtaj::{ user-id=18962055 } |
+| 28 | ::{ flag=FR }:: ::La La::{ user-id=11345268 } |
+| 29 | ::{ flag=CA }:: ::DimplesRMe::{ user-id=13348268 } |
+| 30 | ::{ flag=GB }:: ::Teezel::{ user-id=7528639 } |
+| 31 | ::{ flag=MA }:: ::OSUjanaiKATSURAda::{ user-id=2154499 } |
+| 32 | ::{ flag=CN }:: ::eiqmy::{ user-id=35404573 } |
 
 ## Podium
 
@@ -97,9 +97,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Zoobin4](https://osu.ppy.sh/users/10055204) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [MiniEgg_23](https://osu.ppy.sh/users/25914360) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::Zoobin4::{ user-id=10055204 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: ::Nathanial::{ user-id=9169747 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::MiniEgg\123::{ user-id=25914360 } |
 
 ![](img/podium.jpg "STKE podium") 
 

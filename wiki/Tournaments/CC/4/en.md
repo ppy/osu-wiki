@@ -12,7 +12,7 @@ tags:
 
 ![CCIV logo](img/logo.png)
 
-The **Corgi Cup IV: September 2017** (***CCIV***) was a 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), and ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710). It was the fourth instalment of the Corgi Cup.
+The **Corgi Cup IV: September 2017** (***CCIV***) was a 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, and ::{ flag=FI }:: ::M8gazine::{ user-id=5039710 }. It was the fourth instalment of the Corgi Cup.
 
 ## Tournament schedule
 
@@ -45,12 +45,12 @@ Corgi Cup IV: September 2017 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710) |
-| Mappool selector | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=AT }:: [omgforz](https://osu.ppy.sh/users/578943), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025) |
-| Streamer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972) |
-| Commentator | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378), ::{ flag=DE }:: [Irate](https://osu.ppy.sh/users/7166084), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025) |
-| Designer | ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378), ::{ flag=CA }:: [Jarvis](https://osu.ppy.sh/users/4814060) |
-| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Nitronic Techno](https://osu.ppy.sh/users/5298504), ::{ flag=NO }:: [k3v5t3r](https://osu.ppy.sh/users/8143379), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) |
+| Host | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=FI }:: ::M8gazine::{ user-id=5039710 } |
+| Mappool selector | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=AT }:: ::omgforz::{ user-id=578943 }, ::{ flag=SE }:: ::Kotayo::{ user-id=1730025 } |
+| Streamer | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::Bae-::{ user-id=6576972 } |
+| Commentator | ::{ flag=GB }:: ::Doomsday::{ user-id=18983 }, ::{ flag=GB }:: ::Doomsday is bad::{ user-id=3481378 }, ::{ flag=DE }:: ::Irate::{ user-id=7166084 }, ::{ flag=SE }:: ::Kotayo::{ user-id=1730025 } |
+| Designer | ::{ flag=GB }:: ::Doomsday is bad::{ user-id=3481378 }, ::{ flag=CA }:: ::Jarvis::{ user-id=4814060 } |
+| Referee | ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=GB }:: ::Nitronic Techno::{ user-id=5298504 }, ::{ flag=NO }:: ::k3v5t3r::{ user-id=8143379 }, ::{ flag=US }:: ::this1neguy::{ user-id=1797189 } |
 
 ## Links
 
@@ -63,10 +63,10 @@ Corgi Cup IV: September 2017 was run by various community members.
 
 | Seed | Members |
 | :-: | :-- |
-| 1-8 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238), ::{ flag=GB }:: [My Angel Yaz](https://osu.ppy.sh/users/4117142), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [helix](https://osu.ppy.sh/users/3322597), ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354) |
-| 9-16 | ::{ flag=GB }:: [Bae-](https://osu.ppy.sh/users/6576972), ::{ flag=GB }:: [Kardet](https://osu.ppy.sh/users/1438509), ::{ flag=GB }:: [Shaww](https://osu.ppy.sh/users/2704809), ::{ flag=GB }:: [Pelzio](https://osu.ppy.sh/users/4775226), ::{ flag=GB }:: [dong](https://osu.ppy.sh/users/4422446), ::{ flag=NO }:: [gilmat](https://osu.ppy.sh/users/5779181), ::{ flag=FI }:: [Mara](https://osu.ppy.sh/users/194294), ::{ flag=GB }:: [My Angel Tyron](https://osu.ppy.sh/users/5444914) |
-| 17-24 | ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=GB }:: [feliciaforever](https://osu.ppy.sh/users/6177798), ::{ flag=GB }:: [MagicMantwon](https://osu.ppy.sh/users/6183136), ::{ flag=GB }:: [Electovoid](https://osu.ppy.sh/users/6648263), ::{ flag=US }:: [Joezapy](https://osu.ppy.sh/users/6725659), ::{ flag=AU }:: [Subject000016](https://osu.ppy.sh/users/3478364), ::{ flag=DE }:: [lizzy-art](https://osu.ppy.sh/users/7282467) |
-| 25-32 | ::{ flag=CZ }:: [NyarkoO](https://osu.ppy.sh/users/6622567), ::{ flag=NL }:: [Penda](https://osu.ppy.sh/users/4268370), ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378), ::{ flag=GB }:: [Pepsi Max](https://osu.ppy.sh/users/4837257), ::{ flag=IL }:: [Syncro](https://osu.ppy.sh/users/6565563), ::{ flag=IN }:: [astergaster](https://osu.ppy.sh/users/8447756), ::{ flag=GB }:: [icecream-chan](https://osu.ppy.sh/users/4776591), ::{ flag=GB }:: [cfman29](https://osu.ppy.sh/users/9023597) |
+| 1-8 | ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 }, ::{ flag=RO }:: ::Rohulk::{ user-id=3219026 }, ::{ flag=GB }:: ::Karthy::{ user-id=4196808 }, ::{ flag=US }:: ::zelda101::{ user-id=4502238 }, ::{ flag=GB }:: ::My Angel Yaz::{ user-id=4117142 }, ::{ flag=GB }:: ::Jerome::{ user-id=3391379 }, ::{ flag=GB }:: ::helix::{ user-id=3322597 }, ::{ flag=GB }:: ::djsettle::{ user-id=4010354 } |
+| 9-16 | ::{ flag=GB }:: ::Bae-::{ user-id=6576972 }, ::{ flag=GB }:: ::Kardet::{ user-id=1438509 }, ::{ flag=GB }:: ::Shaww::{ user-id=2704809 }, ::{ flag=GB }:: ::Pelzio::{ user-id=4775226 }, ::{ flag=GB }:: ::dong::{ user-id=4422446 }, ::{ flag=NO }:: ::gilmat::{ user-id=5779181 }, ::{ flag=FI }:: ::Mara::{ user-id=194294 }, ::{ flag=GB }:: ::My Angel Tyron::{ user-id=5444914 } |
+| 17-24 | ::{ flag=GB }:: ::Hydria::{ user-id=808176 }, ::{ flag=FI }:: ::Lefafel::{ user-id=2295850 }, ::{ flag=GB }:: ::feliciaforever::{ user-id=6177798 }, ::{ flag=GB }:: ::MagicMantwon::{ user-id=6183136 }, ::{ flag=GB }:: ::Electovoid::{ user-id=6648263 }, ::{ flag=US }:: ::Joezapy::{ user-id=6725659 }, ::{ flag=AU }:: ::Subject000016::{ user-id=3478364 }, ::{ flag=DE }:: ::lizzy-art::{ user-id=7282467 } |
+| 25-32 | ::{ flag=CZ }:: ::NyarkoO::{ user-id=6622567 }, ::{ flag=NL }:: ::Penda::{ user-id=4268370 }, ::{ flag=GB }:: ::Doomsday is bad::{ user-id=3481378 }, ::{ flag=GB }:: ::Pepsi Max::{ user-id=4837257 }, ::{ flag=IL }:: ::Syncro::{ user-id=6565563 }, ::{ flag=IN }:: ::astergaster::{ user-id=8447756 }, ::{ flag=GB }:: ::icecream-chan::{ user-id=4776591 }, ::{ flag=GB }:: ::cfman29::{ user-id=9023597 } |
 
 ## Podium
 
@@ -74,9 +74,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: ::Rohulk::{ user-id=3219026 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::Karthy::{ user-id=4196808 } |
 
 ## Mappools
 
@@ -497,7 +497,7 @@ Sunday, 24 September 2017:
 - This is a 32 player, 1v1, head-to-head, double-elimination tournament.
 - In order to participate, you must have the "Subscriber" or "Friend" role on Doomsday's Discord (hosts and mappool selectors are ineligible to enter).
 - The top 28 scores from the qualifiers will progress into the Round of 32.
-- The Top 4 from last CorgiCup (::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Karthy](https://osu.ppy.sh/users/4196808), ::{ flag=RO }:: [Rohulk](https://osu.ppy.sh/users/3219026) and ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238)) all have automatic qualifications into the Round of 32 should they accept their invitation.
+- The Top 4 from last CorgiCup (::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 }, ::{ flag=GB }:: ::Karthy::{ user-id=4196808 }, ::{ flag=RO }:: ::Rohulk::{ user-id=3219026 } and ::{ flag=US }:: ::zelda101::{ user-id=4502238 }) all have automatic qualifications into the Round of 32 should they accept their invitation.
 - Referees will create the match and invite players 10 mins before the match is due to start.
   - If a player fails to turn up before or on the time their match is due to start, a 10 minute timer will be started. After 10 minutes, if the player has still not shown up, the other player wins.
   - If both players fail to show up, the match can be rescheduled during the times given.

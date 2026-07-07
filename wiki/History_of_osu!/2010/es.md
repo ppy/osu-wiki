@@ -12,7 +12,7 @@ La convención de anime [Wai-con](https://en.wikipedia.org/wiki/Wai-Con) de Pert
 
 ## Marzo
 
-De febrero a marzo, [peppy](https://osu.ppy.sh/users/2) organizó un concurso de arte dedicado a los banners para los retos del juego, cuyo premio era el reconocimiento oficial del arte y un año de [osu!supporter](/wiki/osu!supporter) o bienes físicos. Después de una [votación de la comunidad](https://osu.ppy.sh/community/forums/topics/27112?n=1), el osu! team hizo la elección final.[^art-challenge]
+De febrero a marzo, ::peppy::{ user-id=2 } organizó un concurso de arte dedicado a los banners para los retos del juego, cuyo premio era el reconocimiento oficial del arte y un año de [osu!supporter](/wiki/osu!supporter) o bienes físicos. Después de una [votación de la comunidad](https://osu.ppy.sh/community/forums/topics/27112?n=1), el osu! team hizo la elección final.[^art-challenge]
 
 El 8 de marzo, una actualización de osu! incorporó considerables mejoras de rendimiento y audio al juego.[^stable-b1485]
 
@@ -28,7 +28,7 @@ El 2 de agosto, se les concedió a todos los usuarios un único cambio de nombre
 
 El comando [`!report`](/wiki/BanchoBot#report) del chat fue añadido a [Bancho](/wiki/BanchoBot), el cual permitía a la gente notificar a los moderadores del chat sobre los usuarios que se comportaban mal en el chat.[^bancho-report]
 
-[nardii](https://osu.ppy.sh/users/1017) le dio a peppy acceso a su cuenta [@osugame](https://twitter.com/osugame) de [Twitter](https://twitter.com), la cual se usó para las noticias generales de osu! a partir de entonces.[^twitter-osugame]
+::nardii::{ user-id=1017 } le dio a peppy acceso a su cuenta [@osugame](https://twitter.com/osugame) de [Twitter](https://twitter.com), la cual se usó para las noticias generales de osu! a partir de entonces.[^twitter-osugame]
 
 ## Septiembre
 

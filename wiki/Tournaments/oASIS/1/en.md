@@ -10,7 +10,7 @@ tags:
 
 ![osu! Amateur Solo Indonesia Showdown logo](img/logo.jpg)
 
-The **osu! Amateur Solo Indonesia Showdown** (***oASIS*** or ***o!ASIS***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548). The tournament was open to all players from Indonesia with a global rank of #10,000 or lower. It was the first instalment of the osu! Amateur Solo Indonesia Showdown tournament series.
+The **osu! Amateur Solo Indonesia Showdown** (***oASIS*** or ***o!ASIS***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: ::Millie::{ user-id=3484548 }. The tournament was open to all players from Indonesia with a global rank of #10,000 or lower. It was the first instalment of the osu! Amateur Solo Indonesia Showdown tournament series.
 
 ## Tournament schedule
 
@@ -38,16 +38,16 @@ oASIS was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548) |
-| Mappool selector | ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) |
-| Mappool helper | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
-| Playtester | ::{ flag=ID }:: [malvon](https://osu.ppy.sh/users/11113661), ::{ flag=ID }:: [Caviar-](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773) |
-| Streamer | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
-| Commentator | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
-| Referee | ::{ flag=ID }:: [YaeMyMommy](https://osu.ppy.sh/users/17278897), ::{ flag=ID }:: [Vincent A](https://osu.ppy.sh/users/11050632), ::{ flag=MY }:: [Kokoro Amamiya](https://osu.ppy.sh/users/9534110), ::{ flag=PH }:: [-Pekora-](https://osu.ppy.sh/users/17959882), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866) |
-| Graphic designer | ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) |
-| Spreadsheet manager | ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548) |
-| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: ::Millie::{ user-id=3484548 } |
+| Mappool selector | ::{ flag=ID }:: ::-TwiHD::{ user-id=5470299 }, ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 }, ::{ flag=ID }:: ::Seox::{ user-id=3793938 } |
+| Mappool helper | ::{ flag=ID }:: ::Millie::{ user-id=3484548 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Kuro Fuyusaki::{ user-id=2667496 } |
+| Playtester | ::{ flag=ID }:: ::malvon::{ user-id=11113661 }, ::{ flag=ID }:: ::Caviar-::{ user-id=10474988 }, ::{ flag=ID }:: ::PatrickFPSGamer::{ user-id=4796773 } |
+| Streamer | ::{ flag=ID }:: ::Millie::{ user-id=3484548 }, ::{ flag=MY }:: ::Laphii::{ user-id=9364594 } |
+| Commentator | ::{ flag=ID }:: ::Millie::{ user-id=3484548 }, ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } |
+| Referee | ::{ flag=ID }:: ::YaeMyMommy::{ user-id=17278897 }, ::{ flag=ID }:: ::Vincent A::{ user-id=11050632 }, ::{ flag=MY }:: ::Kokoro Amamiya::{ user-id=9534110 }, ::{ flag=PH }:: ::-Pekora-::{ user-id=17959882 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user-id=12609866 } |
+| Graphic designer | ::{ flag=ID }:: ::Felter::{ user-id=5865319 } |
+| Spreadsheet manager | ::{ flag=ID }:: ::Millie::{ user-id=3484548 } |
+| Wiki editor | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
 
 ## Links
 
@@ -63,22 +63,22 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 
 | Seed no. | Player | Z-Sum |
 | :-: | :-- | :-- |
-| 1 | ::{ flag=ID }:: [im a cute bunny](https://osu.ppy.sh/users/12578000) | 10.566 |
-| 2 | ::{ flag=ID }:: [akebono](https://osu.ppy.sh/users/1815316) | 10.337 |
-| 3 | ::{ flag=ID }:: [nsfuu](https://osu.ppy.sh/users/10849159) | 10.154 |
-| 4 | ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) | 9.258 |
-| 5 | ::{ flag=ID }:: [Icun](https://osu.ppy.sh/users/17908427) | 9.114 |
-| 6 | ::{ flag=ID }:: [Zoont](https://osu.ppy.sh/users/7109269) | 8.832 |
-| 7 | ::{ flag=ID }:: [AlanEt](https://osu.ppy.sh/users/15037088) | 8.825 |
-| 8 | ::{ flag=ID }:: [-CircleParadox-](https://osu.ppy.sh/users/10423227) | 8.788 |
-| 9 | ::{ flag=ID }:: [Frixell](https://osu.ppy.sh/users/15601286) | 8.630 |
-| 10 | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) | 8.533 |
-| 11 | ::{ flag=ID }:: [cerena](https://osu.ppy.sh/users/5411734) | 8.345 |
-| 12 | ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) | 7.996 |
-| 13 | ::{ flag=ID }:: [Honoka-Chan](https://osu.ppy.sh/users/11912828) | 7.768 |
-| 14 | ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | 7.710 |
-| 15 | ::{ flag=ID }:: [HyuugaDesuka](https://osu.ppy.sh/users/22684871) | 7.705 |
-| 16 | ::{ flag=ID }:: [-Lunix](https://osu.ppy.sh/users/12964890) | 7.550 |
+| 1 | ::{ flag=ID }:: ::im a cute bunny::{ user-id=12578000 } | 10.566 |
+| 2 | ::{ flag=ID }:: ::akebono::{ user-id=1815316 } | 10.337 |
+| 3 | ::{ flag=ID }:: ::nsfuu::{ user-id=10849159 } | 10.154 |
+| 4 | ::{ flag=ID }:: ::SDKO::{ user-id=4858555 } | 9.258 |
+| 5 | ::{ flag=ID }:: ::Icun::{ user-id=17908427 } | 9.114 |
+| 6 | ::{ flag=ID }:: ::Zoont::{ user-id=7109269 } | 8.832 |
+| 7 | ::{ flag=ID }:: ::AlanEt::{ user-id=15037088 } | 8.825 |
+| 8 | ::{ flag=ID }:: ::-CircleParadox-::{ user-id=10423227 } | 8.788 |
+| 9 | ::{ flag=ID }:: ::Frixell::{ user-id=15601286 } | 8.630 |
+| 10 | ::{ flag=ID }:: ::fnayR::{ user-id=2800253 } | 8.533 |
+| 11 | ::{ flag=ID }:: ::cerena::{ user-id=5411734 } | 8.345 |
+| 12 | ::{ flag=ID }:: ::CubeixID200::{ user-id=10678919 } | 7.996 |
+| 13 | ::{ flag=ID }:: ::Honoka-Chan::{ user-id=11912828 } | 7.768 |
+| 14 | ::{ flag=ID }:: ::ArchieA7::{ user-id=7087699 } | 7.710 |
+| 15 | ::{ flag=ID }:: ::HyuugaDesuka::{ user-id=22684871 } | 7.705 |
+| 16 | ::{ flag=ID }:: ::-Lunix::{ user-id=12964890 } | 7.550 |
 
 ## Podium
 
@@ -264,13 +264,13 @@ Friday, 17 March 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [akebono](https://osu.ppy.sh/users/1815316) ::{ flag=ID }:: | 5 | **7** | ::{ flag=ID }:: **[SDKO](https://osu.ppy.sh/users/4858555)** | [#1](https://osu.ppy.sh/community/matches/107421064) |
+| Lower | ::akebono::{ user-id=1815316 } ::{ flag=ID }:: | 5 | **7** | ::{ flag=ID }:: **::SDKO::{ user-id=4858555 }** | [#1](https://osu.ppy.sh/community/matches/107421064) |
 
 Monday, 21 March 2023, Grand Final:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[im a cute bunny](https://osu.ppy.sh/users/12578000)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) | [#1](https://osu.ppy.sh/community/matches/107484474) |
+| Grand Final | **::im a cute bunny::{ user-id=12578000 }** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: ::SDKO::{ user-id=4858555 } | [#1](https://osu.ppy.sh/community/matches/107484474) |
 
 ### Finals (week 1)
 
@@ -278,20 +278,20 @@ Friday, 10 March 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Icun](https://osu.ppy.sh/users/17908427) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[nsfuu](https://osu.ppy.sh/users/10849159)** | [#1](https://osu.ppy.sh/community/matches/107284824) |
+| Lower | ::Icun::{ user-id=17908427 } ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **::nsfuu::{ user-id=10849159 }** | [#1](https://osu.ppy.sh/community/matches/107284824) |
 
 Saturday, 11 March 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [cerena](https://osu.ppy.sh/users/5411734) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[SDKO](https://osu.ppy.sh/users/4858555)** | [#1](https://osu.ppy.sh/community/matches/107300886) |
+| Lower | ::cerena::{ user-id=5411734 } ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **::SDKO::{ user-id=4858555 }** | [#1](https://osu.ppy.sh/community/matches/107300886) |
 
 Sunday, 12 March 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[im a cute bunny](https://osu.ppy.sh/users/12578000)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [akebono](https://osu.ppy.sh/users/1815316) | [#1](https://osu.ppy.sh/community/matches/107306855) |
-| Lower | [nsfuu](https://osu.ppy.sh/users/10849159) ::{ flag=ID }:: | 0 | **7** | ::{ flag=ID }:: **[SDKO](https://osu.ppy.sh/users/4858555)** | *win by default* |
+| Upper | **::im a cute bunny::{ user-id=12578000 }** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: ::akebono::{ user-id=1815316 } | [#1](https://osu.ppy.sh/community/matches/107306855) |
+| Lower | ::nsfuu::{ user-id=10849159 } ::{ flag=ID }:: | 0 | **7** | ::{ flag=ID }:: **::SDKO::{ user-id=4858555 }** | *win by default* |
 
 ### Semifinals
 
@@ -299,29 +299,29 @@ Friday, 3 March 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[nsfuu](https://osu.ppy.sh/users/10849159)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Frixell](https://osu.ppy.sh/users/15601286) | [#1](https://osu.ppy.sh/community/matches/107153567) |
+| Lower | **::nsfuu::{ user-id=10849159 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: ::Frixell::{ user-id=15601286 } | [#1](https://osu.ppy.sh/community/matches/107153567) |
 
 Saturday, 4 March 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [-CircleParadox-](https://osu.ppy.sh/users/10423227) ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **[Zoont](https://osu.ppy.sh/users/7109269)** | [#1](https://osu.ppy.sh/community/matches/107172717) |
-| Upper | **[im a cute bunny](https://osu.ppy.sh/users/12578000)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Icun](https://osu.ppy.sh/users/17908427) | [#1](https://osu.ppy.sh/community/matches/107171437) |
-| Lower | **[fnayR](https://osu.ppy.sh/users/2800253)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) | [#1](https://osu.ppy.sh/community/matches/107175274) |
-| Lower | **[SDKO](https://osu.ppy.sh/users/4858555)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [HyuugaDesuka](https://osu.ppy.sh/users/22684871) | [#1](https://osu.ppy.sh/community/matches/107174242) |
+| Lower | ::-CircleParadox-::{ user-id=10423227 } ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **::Zoont::{ user-id=7109269 }** | [#1](https://osu.ppy.sh/community/matches/107172717) |
+| Upper | **::im a cute bunny::{ user-id=12578000 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: ::Icun::{ user-id=17908427 } | [#1](https://osu.ppy.sh/community/matches/107171437) |
+| Lower | **::fnayR::{ user-id=2800253 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: ::CubeixID200::{ user-id=10678919 } | [#1](https://osu.ppy.sh/community/matches/107175274) |
+| Lower | **::SDKO::{ user-id=4858555 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::HyuugaDesuka::{ user-id=22684871 } | [#1](https://osu.ppy.sh/community/matches/107174242) |
 
 Sunday, 5 March 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[SDKO](https://osu.ppy.sh/users/4858555)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Zoont](https://osu.ppy.sh/users/7109269) | [#1](https://osu.ppy.sh/community/matches/107197629) |
+| Lower | **::SDKO::{ user-id=4858555 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::Zoont::{ user-id=7109269 } | [#1](https://osu.ppy.sh/community/matches/107197629) |
 
 Monday, 6 March 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[nsfuu](https://osu.ppy.sh/users/10849159)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) | [#1](https://osu.ppy.sh/community/matches/107197662) |
-| Upper | **[akebono](https://osu.ppy.sh/users/1815316)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [cerena](https://osu.ppy.sh/users/5411734) | [#1](https://osu.ppy.sh/community/matches/107210408) |
+| Lower | **::nsfuu::{ user-id=10849159 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: ::fnayR::{ user-id=2800253 } | [#1](https://osu.ppy.sh/community/matches/107197662) |
+| Upper | **::akebono::{ user-id=1815316 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::cerena::{ user-id=5411734 } | [#1](https://osu.ppy.sh/community/matches/107210408) |
 
 ### Quarterfinals
 
@@ -329,24 +329,24 @@ Friday, 24 February 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [nsfuu](https://osu.ppy.sh/users/10849159) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[cerena](https://osu.ppy.sh/users/5411734)** | [#1](https://osu.ppy.sh/community/matches/107028501) |
+| Upper | ::nsfuu::{ user-id=10849159 } ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **::cerena::{ user-id=5411734 }** | [#1](https://osu.ppy.sh/community/matches/107028501) |
 
 Saturday, 25 February 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[CubeixID200](https://osu.ppy.sh/users/10678919)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Honoka-Chan](https://osu.ppy.sh/users/11912828) | [#1](https://osu.ppy.sh/community/matches/107045025) |
+| Lower | **::CubeixID200::{ user-id=10678919 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::Honoka-Chan::{ user-id=11912828 } | [#1](https://osu.ppy.sh/community/matches/107045025) |
 
 Sunday, 26 February 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [SDKO](https://osu.ppy.sh/users/4858555) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[Icun](https://osu.ppy.sh/users/17908427)** | [#1](https://osu.ppy.sh/community/matches/107066197) |
-| Lower | **[HyuugaDesuka](https://osu.ppy.sh/users/22684871)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [AlanEt](https://osu.ppy.sh/users/15037088) | [#1](https://osu.ppy.sh/community/matches/107069121) |
-| Lower | **[Frixell](https://osu.ppy.sh/users/15601286)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [-Lunix](https://osu.ppy.sh/users/12964890) | [#1](https://osu.ppy.sh/community/matches/107070091) |
-| Upper | **[im a cute bunny](https://osu.ppy.sh/users/12578000)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [-CircleParadox-](https://osu.ppy.sh/users/10423227) | [#1](https://osu.ppy.sh/community/matches/107071382) |
-| Upper | **[akebono](https://osu.ppy.sh/users/1815316)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) | [#1](https://osu.ppy.sh/community/matches/107071230) |
-| Lower | **[Zoont](https://osu.ppy.sh/users/7109269)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | [#1](https://osu.ppy.sh/community/matches/107072405) |
+| Upper | ::SDKO::{ user-id=4858555 } ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **::Icun::{ user-id=17908427 }** | [#1](https://osu.ppy.sh/community/matches/107066197) |
+| Lower | **::HyuugaDesuka::{ user-id=22684871 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: ::AlanEt::{ user-id=15037088 } | [#1](https://osu.ppy.sh/community/matches/107069121) |
+| Lower | **::Frixell::{ user-id=15601286 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: ::-Lunix::{ user-id=12964890 } | [#1](https://osu.ppy.sh/community/matches/107070091) |
+| Upper | **::im a cute bunny::{ user-id=12578000 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: ::-CircleParadox-::{ user-id=10423227 } | [#1](https://osu.ppy.sh/community/matches/107071382) |
+| Upper | **::akebono::{ user-id=1815316 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: ::fnayR::{ user-id=2800253 } | [#1](https://osu.ppy.sh/community/matches/107071230) |
+| Lower | **::Zoont::{ user-id=7109269 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: ::ArchieA7::{ user-id=7087699 } | [#1](https://osu.ppy.sh/community/matches/107072405) |
 
 ### Round of 16
 
@@ -354,24 +354,24 @@ Friday, 17 February 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Icun](https://osu.ppy.sh/users/17908427)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) | [#1](https://osu.ppy.sh/community/matches/106873620) |
-| Upper | **[-CircleParadox-](https://osu.ppy.sh/users/10423227)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [Frixell](https://osu.ppy.sh/users/15601286) | [#1](https://osu.ppy.sh/community/matches/106891584) |
+| Upper | **::Icun::{ user-id=17908427 }** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: ::CubeixID200::{ user-id=10678919 } | [#1](https://osu.ppy.sh/community/matches/106873620) |
+| Upper | **::-CircleParadox-::{ user-id=10423227 }** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: ::Frixell::{ user-id=15601286 } | [#1](https://osu.ppy.sh/community/matches/106891584) |
 
 Saturday, 18 February 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Zoont](https://osu.ppy.sh/users/7109269) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[cerena](https://osu.ppy.sh/users/5411734)** | [#1](https://osu.ppy.sh/community/matches/106913383) |
-| Upper | **[nsfuu](https://osu.ppy.sh/users/10849159)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | [#1](https://osu.ppy.sh/community/matches/106914487) |
-| Upper | **[akebono](https://osu.ppy.sh/users/1815316)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [HyuugaDesuka](https://osu.ppy.sh/users/22684871) | [#1](https://osu.ppy.sh/community/matches/106915198) |
-| Upper | **[im a cute bunny](https://osu.ppy.sh/users/12578000)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [-Lunix](https://osu.ppy.sh/users/12964890) | [#1](https://osu.ppy.sh/community/matches/106912181) |
+| Upper | ::Zoont::{ user-id=7109269 } ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **::cerena::{ user-id=5411734 }** | [#1](https://osu.ppy.sh/community/matches/106913383) |
+| Upper | **::nsfuu::{ user-id=10849159 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: ::ArchieA7::{ user-id=7087699 } | [#1](https://osu.ppy.sh/community/matches/106914487) |
+| Upper | **::akebono::{ user-id=1815316 }** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: ::HyuugaDesuka::{ user-id=22684871 } | [#1](https://osu.ppy.sh/community/matches/106915198) |
+| Upper | **::im a cute bunny::{ user-id=12578000 }** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: ::-Lunix::{ user-id=12964890 } | [#1](https://osu.ppy.sh/community/matches/106912181) |
 
 Sunday, 19 February 2023:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [AlanEt](https://osu.ppy.sh/users/15037088) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[fnayR](https://osu.ppy.sh/users/2800253)** | [#1](https://osu.ppy.sh/community/matches/106937367) |
-| Upper | **[SDKO](https://osu.ppy.sh/users/4858555)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Honoka-Chan](https://osu.ppy.sh/users/11912828) | [#1](https://osu.ppy.sh/community/matches/106931400) |
+| Upper | ::AlanEt::{ user-id=15037088 } ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **::fnayR::{ user-id=2800253 }** | [#1](https://osu.ppy.sh/community/matches/106937367) |
+| Upper | **::SDKO::{ user-id=4858555 }** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: ::Honoka-Chan::{ user-id=11912828 } | [#1](https://osu.ppy.sh/community/matches/106931400) |
 
 ## Ruleset
 

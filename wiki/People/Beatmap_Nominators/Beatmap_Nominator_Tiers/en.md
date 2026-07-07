@@ -13,7 +13,7 @@ This system was implemented in response to the [Quality Assurance Team](/wiki/Pe
 
 To decide which Beatmap Nominators would belong to each tier, all members of the BN were given a [BN test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test). Unlike prior BN tests, this one was designed around identifying general issues within a mapset.
 
-Scores of the test were overall unreliable because most users had extremely low scores. The initial plan was to split users into tiers equally based on test scores, but test scores in the upper half were too low for that to be a viable option. Instead, only the top 13 users with >50% scores were admitted into the second tier. The highest score was earned by [Yuii-](https://osu.ppy.sh/users/2935923) at 76%.
+Scores of the test were overall unreliable because most users had extremely low scores. The initial plan was to split users into tiers equally based on test scores, but test scores in the upper half were too low for that to be a viable option. Instead, only the top 13 users with >50% scores were admitted into the second tier. The highest score was earned by ::Yuii-::{ user-id=2935923 } at 76%.
 
 While it was planned to create multiple tests to distinguish tiers, only one was used throughout the system's 5 month lifespan.
 

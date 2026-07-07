@@ -43,7 +43,7 @@ All entries will be judged by the following criteria:
 - **Creativity (10pts)**: How well does the submission stand out using creative, fitting elements?
 - **Judge impression (10pts)**: What do judges think about the submission as a whole?
 
-**We are looking for capable judges! If you are interested, please make a post in the [Judge Call Thread](https://osu.ppy.sh/community/forums/topics/747545) or send a message to [hikikochan](https://osu.ppy.sh/users/6512678). Please be aware that we can only accept people who have the resources (knowledge, time, reliability) to properly judge the entries.**
+**We are looking for capable judges! If you are interested, please make a post in the [Judge Call Thread](https://osu.ppy.sh/community/forums/topics/747545) or send a message to ::hikikochan::{ user-id=6512678 }. Please be aware that we can only accept people who have the resources (knowledge, time, reliability) to properly judge the entries.**
 
 ## Prizes
 

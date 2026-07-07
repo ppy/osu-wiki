@@ -9,7 +9,7 @@ Sprouting from a circle clicker into a full-fledged musician, **watering** has j
 
 ![](https://assets.ppy.sh/artists/416/header.png)
 
-Inspired by the likes of *dev*, *Shoebill*, *Waqs*, and a swathe of music here on osu!, **watering** (a.k.a. [water](https://osu.ppy.sh/users/11671515)) mastered the craft of shaping sounds into complex and engaging breakcore rhythms which, not-so-coincidentally, make for awesome beatmaps.
+Inspired by the likes of *dev*, *Shoebill*, *Waqs*, and a swathe of music here on osu!, **watering** (a.k.a. ::water::{ user-id=11671515 }) mastered the craft of shaping sounds into complex and engaging breakcore rhythms which, not-so-coincidentally, make for awesome beatmaps.
 
 **8** tracks have ~~*broken* into the *core* of~~ found their way to [**watering**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/416).
 
@@ -23,7 +23,7 @@ Inspired by the likes of *dev*, *Shoebill*, *Waqs*, and a swathe of music here o
 
 ### watering - ^_^
 
-Play [this map](https://osu.ppy.sh/beatmapsets/1692448) by [The Law](https://osu.ppy.sh/users/11357694) for yourself!
+Play [this map](https://osu.ppy.sh/beatmapsets/1692448) by ::The Law::{ user-id=11357694 } for yourself!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/416/Songs/watering%20-%20%5E_%5E.mp3">

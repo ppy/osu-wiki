@@ -39,7 +39,7 @@ Also, while the "hues of madness" part of the hint seemed to be critical in figu
 
 Days began to pass. The community was putting every brain cell available towards the task of unravelling this growing mystery, but after an enormous number of quashed theories that they thought *surely* must've worked, the only discovery of anything related to "ailing minds" was in the rapidly waning sanity of those still searching for it.
 
-During the hunt, the community had surmised various facts. The first notable one was that the medal *could* involve "ARG"-style (alternate reality game) elements, which was met with screams of unbridled terror. The possibilities seemed endless — *many*, if you're feeling creative. Another helpful fact descended from a video recorded by [Glassive](https://osu.ppy.sh/users/12453848), one of medal hunters at [cavoe's osu! event (COE)](/wiki/Community/cavoe's_osu!_event), featuring [peppy](https://osu.ppy.sh/users/2) himself!
+During the hunt, the community had surmised various facts. The first notable one was that the medal *could* involve "ARG"-style (alternate reality game) elements, which was met with screams of unbridled terror. The possibilities seemed endless — *many*, if you're feeling creative. Another helpful fact descended from a video recorded by ::Glassive::{ user-id=12453848 }, one of medal hunters at [cavoe's osu! event (COE)](/wiki/Community/cavoe's_osu!_event), featuring ::peppy::{ user-id=2 } himself!
 
 <div align="center">
   <video width="50%" controls>
@@ -55,7 +55,7 @@ The theories continued to become wilder in the wake of these hints, with many pr
 
 ![](/wiki/shared/news/2023-09-18-the-hunt-for-internment/pacman_theory.jpg)
 
-But, despite all the challenges, the community was still determined to find the solution. One such participant, a fellow by the name of [UberFazz](https://osu.ppy.sh/users/8646059) had donned his fattest thinking cap, suggesting one theory of achieving 16,777,216 score, because that's how many possible colours there are with RGB values (256³). Another guess of theirs was to interact with the osu! website to find a hidden message somewhere on it, which would then lead to a solution. They were also informed by one of the developers that they had insanely close guesses multiple times, but it was all just not enough...
+But, despite all the challenges, the community was still determined to find the solution. One such participant, a fellow by the name of ::UberFazz::{ user-id=8646059 } had donned his fattest thinking cap, suggesting one theory of achieving 16,777,216 score, because that's how many possible colours there are with RGB values (256³). Another guess of theirs was to interact with the osu! website to find a hidden message somewhere on it, which would then lead to a solution. They were also informed by one of the developers that they had insanely close guesses multiple times, but it was all just not enough...
 
 Efforts progressed, and hope began to wane. It looked as if that the colours were winning, for while the theories were many, the solution was yet to be found. Hunters soon found themselves in a four-walled jail of their own creation, mired by increasingly bewildering theories. Perhaps *Internment* would never be found...
 
@@ -85,7 +85,7 @@ With this herculean task of colours and insanity behind them, the medal hunting 
 
 ---
 
-If you wish to entertain yourself with fun unique challenges that give you shiny medallions to proudly display on your profile, please, by all means, consider becoming a medal hunter. Furthermore, if you do not know the solution to a medal such as this one, consider following the footsteps medal hunters must take for every new Hush-Hush medal that comes out. [Ephemeral](https://osu.ppy.sh/users/102335) and the osu! team go out of their way to make medals the community can go crazy over. So much so, that there is a chance that the next medal batches may have medals specifically made for osu!(lazer)!
+If you wish to entertain yourself with fun unique challenges that give you shiny medallions to proudly display on your profile, please, by all means, consider becoming a medal hunter. Furthermore, if you do not know the solution to a medal such as this one, consider following the footsteps medal hunters must take for every new Hush-Hush medal that comes out. ::Ephemeral::{ user-id=102335 } and the osu! team go out of their way to make medals the community can go crazy over. So much so, that there is a chance that the next medal batches may have medals specifically made for osu!(lazer)!
 
 Does being a medal hunter seem like something that could spark your interest? Do you believe you can crack medals as creatively sophisticated as this one? If so, don't hesitate to give it a shot!
 

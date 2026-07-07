@@ -7,7 +7,7 @@ tags:
 
 ![TMC 1st logo](img/logo.png)
 
-The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!mania 4K tournament hosted by ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501). The tournament features a variety of maps related to the Touhou Project. It is the first instalment of the Touhou Project Mania Cup.
+The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!mania 4K tournament hosted by ::{ flag=CN }:: ::\[GB\]Sanae::{ user-id=11238501 }. The tournament features a variety of maps related to the Touhou Project. It is the first instalment of the Touhou Project Mania Cup.
 
 ## Tournament schedule
 
@@ -37,13 +37,13 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
-| Co-host | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101) |
-| Map selector | ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619) |
-| Streamer & Referee | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540), ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458), ::{ flag=HK }:: [BlackBq](https://osu.ppy.sh/users/6291741), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Tigerest](https://osu.ppy.sh/users/10896564), ::{ flag=CN }:: [WLYMinato](https://osu.ppy.sh/users/12703319), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101) |
-| Commentator | ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=CN }:: [Tigerest](https://osu.ppy.sh/users/10896564), ::{ flag=CN }:: [WLYMinato](https://osu.ppy.sh/users/12703319) |
-| Designer | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) |
-| Wiki | ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101) |
+| Host | ::{ flag=CN }:: ::\[GB\]Sanae::{ user-id=11238501 } |
+| Co-host | ::{ flag=CN }:: ::Blue\1Potion::{ user-id=13094831 }, ::{ flag=GB }:: ::-Deepdive-::{ user-id=13338645 }, ::{ flag=CN }:: ::cdwcgt::{ user-id=14721101 } |
+| Map selector | ::{ flag=CN }:: ::\[GB\]Sanae::{ user-id=11238501 }, ::{ flag=CN }:: ::Blue\1Potion::{ user-id=13094831 }, ::{ flag=GB }:: ::-Deepdive-::{ user-id=13338645 }, ::{ flag=CN }:: ::YuEast 2018::{ user-id=13953619 } |
+| Streamer & Referee | ::{ flag=CN }:: ::aiyulu::{ user-id=189617 }, ::{ flag=CN }:: ::kj415j45::{ user-id=9367540 }, ::{ flag=TW }:: ::\[Crz\]FolAH1217::{ user-id=6232458 }, ::{ flag=HK }:: ::BlackBq::{ user-id=6291741 }, ::{ flag=CN }:: ::\[GB\]Sanae::{ user-id=11238501 }, ::{ flag=CN }:: ::Tigerest::{ user-id=10896564 }, ::{ flag=CN }:: ::WLYMinato::{ user-id=12703319 }, ::{ flag=CN }:: ::cdwcgt::{ user-id=14721101 } |
+| Commentator | ::{ flag=GB }:: ::-Deepdive-::{ user-id=13338645 }, ::{ flag=CN }:: ::Blue\1Potion::{ user-id=13094831 }, ::{ flag=SG }:: ::Raveille::{ user-id=1388767 }, ::{ flag=CN }:: ::Tigerest::{ user-id=10896564 }, ::{ flag=CN }:: ::WLYMinato::{ user-id=12703319 } |
+| Designer | ::{ flag=HK }:: ::Chaoslitz::{ user-id=3621552 } |
+| Wiki | ::{ flag=GB }:: ::-Deepdive-::{ user-id=13338645 }, ::{ flag=CN }:: ::kj415j45::{ user-id=9367540 }, ::{ flag=CN }:: ::cdwcgt::{ user-id=14721101 } |
 
 ## Links
 
@@ -63,39 +63,39 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 
 | Team | Members |
 | :-- | :-- |
-| Rikka Gathering | ::{ flag=US }:: [FBI Chan](https://osu.ppy.sh/users/15834583), ::{ flag=CA }:: [XenoPenguino](https://osu.ppy.sh/users/12045254) |
-| Team Irone | ::{ flag=MY }:: [-Wick-](https://osu.ppy.sh/users/10938928), ::{ flag=TW }:: [Pdog4ni](https://osu.ppy.sh/users/14581544), ::{ flag=TW }:: [shinkuan](https://osu.ppy.sh/users/11066459), ::{ flag=TW }:: [Snow Rabbit](https://osu.ppy.sh/users/1833280) |
-| Peppynillos Guerreros | ::{ flag=ES }:: [Froggie09](https://osu.ppy.sh/users/14332005),::{ flag=ES }:: [game_maker26](https://osu.ppy.sh/users/4876699), ::{ flag=ES }:: [Winds PCH](https://osu.ppy.sh/users/12200022), ::{ flag=ES }:: [Kracohc](https://osu.ppy.sh/users/11554942) |
-| The Master of the Shadows | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [NimaPro](https://osu.ppy.sh/users/11524571), ::{ flag=CN }:: [MsD_Mafufu](https://osu.ppy.sh/users/10884561) |
-| XYH | ::{ flag=CN }:: [FFFflyhigh](https://osu.ppy.sh/users/9182179), ::{ flag=CN }:: [cirno_0](https://osu.ppy.sh/users/12389140), ::{ flag=CN }:: [basket_ball](https://osu.ppy.sh/users/10848528), ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674) |
-| yuyupa | ::{ flag=CN }:: [yyjshishuaibi](https://osu.ppy.sh/users/10383569), ::{ flag=CN }:: [MrCrystalJoker](https://osu.ppy.sh/users/8526295), ::{ flag=CN }:: [observer233](https://osu.ppy.sh/users/15303552), ::{ flag=CN }:: [Lo_liFish2000](https://osu.ppy.sh/users/8828244) |
-| Shiister Fanclub | ::{ flag=SG }:: [jacketsniffing](https://osu.ppy.sh/users/5383820), ::{ flag=SG }:: [Zerulite](https://osu.ppy.sh/users/7349397), ::{ flag=SG }:: [Rachel](https://osu.ppy.sh/users/6494160), ::{ flag=SG }:: [MrShiister](https://osu.ppy.sh/users/1715367) |
-| -Simp- And the Simps | ::{ flag=GB }:: [FoxTii](https://osu.ppy.sh/users/11080606), ::{ flag=GB }:: [-simp-](https://osu.ppy.sh/users/12427317), ::{ flag=GB }:: [zHotRoD](https://osu.ppy.sh/users/10441414), ::{ flag=GB }:: [Wassero](https://osu.ppy.sh/users/8934975) |
-| Boacasio & Hariel | ::{ flag=BR }:: [Noasz](https://osu.ppy.sh/users/11358695), ::{ flag=BR }:: [CALCIO01](https://osu.ppy.sh/users/7897834) |
-| Narumi is ET | ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=NL }:: [VALOS](https://osu.ppy.sh/users/5267163), ::{ flag=NL }:: [samuelhklumpers](https://osu.ppy.sh/users/10945523), ::{ flag=SE }:: [Mestro](https://osu.ppy.sh/users/4798263) |
-| 0x5f375a86 | ::{ flag=CN }:: [-Rinchan](https://osu.ppy.sh/users/9494010), ::{ flag=CN }:: [SJ-Ellipses](https://osu.ppy.sh/users/7722637) |
-| Happy Birthday ZayyKen | ::{ flag=BR }:: [Konohana Lucia](https://osu.ppy.sh/users/8642224), ::{ flag=PH }:: [Lazereed](https://osu.ppy.sh/users/12894120), ::{ flag=SG }:: [loli_seale](https://osu.ppy.sh/users/5069913), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479) |
-| YoZoSoft | ::{ flag=CN }:: [Nijoin Hazuki](https://osu.ppy.sh/users/13833144), ::{ flag=CN }:: [evrjvsv](https://osu.ppy.sh/users/8301585) |
-| SiniGang | ::{ flag=PH }:: [MCJze](https://osu.ppy.sh/users/14559339), ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850) |
-| MY 2.5 + TH 1.5 | ::{ flag=MY }:: [Expired112](https://osu.ppy.sh/users/8782656), ::{ flag=MY }:: [Unicow](https://osu.ppy.sh/users/9444174), ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=TH }:: [osu_player420](https://osu.ppy.sh/users/13018880) |
-| SMOrcat | ::{ flag=TW }:: [Joylintp](https://osu.ppy.sh/users/13579078), ::{ flag=TW }:: [opl95173](https://osu.ppy.sh/users/7227070), ::{ flag=TW }:: [LaoXiao-](https://osu.ppy.sh/users/2393571), ::{ flag=TW }:: [mmi366127](https://osu.ppy.sh/users/2393571) |
-| N.Z. Owen Was Her? | ::{ flag=NZ }:: [- Abby -](https://osu.ppy.sh/users/7740118), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475) |
-| Leen Bakker | ::{ flag=NL }:: [Mierf](https://osu.ppy.sh/users/9529504), ::{ flag=NL }:: [\_Avie](https://osu.ppy.sh/users/8368678), ::{ flag=NL }:: [Kjevin118221](https://osu.ppy.sh/users/13114629), ::{ flag=NL }:: [Harvey](https://osu.ppy.sh/users/3897387) |
-| How to SV | ::{ flag=HK }:: [Se1ya](https://osu.ppy.sh/users/6338609), ::{ flag=HK }:: [Yasmine](https://osu.ppy.sh/users/244764) |
-| Mai Chai Kon | ::{ flag=TH }:: [FarmMyLife](https://osu.ppy.sh/users/12621947), ::{ flag=TH }:: [KillerPooN](https://osu.ppy.sh/users/9200617) |
-| Arrow Gang | ::{ flag=FR }:: [babibelbleu](https://osu.ppy.sh/users/16892459), ::{ flag=CA }:: [Goda](https://osu.ppy.sh/users/9538689) |
-| Weirdchamps | ::{ flag=US }:: [zVols](https://osu.ppy.sh/users/17057515), ::{ flag=US }:: [shivs](https://osu.ppy.sh/users/9758694) |
-| maggie team | ::{ flag=BE }:: [Joppe27](https://osu.ppy.sh/users/11753018), ::{ flag=BE }:: [nocilOLyus](https://osu.ppy.sh/users/12604747), ::{ flag=BE }:: [furious_0803](https://osu.ppy.sh/users/14306726) |
-| Piolin Y PalomAsh | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773), ::{ flag=DO }:: [Kaito-kun](https://osu.ppy.sh/users/4715184) |
-| Please don't pick LN | ::{ flag=TH }:: [galtonist](https://osu.ppy.sh/users/12817056), ::{ flag=TH }:: [nsf](https://osu.ppy.sh/users/15597537), ::{ flag=TH }:: [Lung_P](https://osu.ppy.sh/users/8271308), ::{ flag=TH }:: [bokuwahokku](https://osu.ppy.sh/users/9565593) |
-| I want to lick Reimu's armpits | ::{ flag=PL }:: [Mr_adamello](https://osu.ppy.sh/users/7420894), ::{ flag=PL }:: [Ilikecook](https://osu.ppy.sh/users/11389137), ::{ flag=PL }:: [Otis1204](https://osu.ppy.sh/users/11431349) |
-| AndreyMinecraft | ::{ flag=BR }:: [Halo-](https://osu.ppy.sh/users/7572142), ::{ flag=BR }:: [Yuragi](https://osu.ppy.sh/users/8501380), ::{ flag=BR }:: [Masteriosl](https://osu.ppy.sh/users/4101472), ::{ flag=BR }:: [Caixinha](https://osu.ppy.sh/users/11290116) |
-| Llamas maniaticas | ::{ flag=PE }:: [artumax](https://osu.ppy.sh/users/8916149), ::{ flag=PE }:: [lawrttr](https://osu.ppy.sh/users/18102051) |
-| Ball Of Duty | ::{ flag=MY }:: [LCJQLCLY](https://osu.ppy.sh/users/11283859), ::{ flag=MY }:: [cheoky29](https://osu.ppy.sh/users/14901072), ::{ flag=TW }:: [\[-ICHINO-\]](https://osu.ppy.sh/users/13643601), ::{ flag=US }:: [AwsumKyl3](https://osu.ppy.sh/users/9620690) |
-| momento colta | ::{ flag=AR }:: [Mevss](https://osu.ppy.sh/users/10116889), ::{ flag=AR }:: [boligoma](https://osu.ppy.sh/users/13310563) |
-| pollos | ::{ flag=CL }:: [Shabolo_Ctm](https://osu.ppy.sh/users/14198960), ::{ flag=PE }:: [DeadLyAndroid27](https://osu.ppy.sh/users/10783451) |
-| Bald meiling | ::{ flag=MA }:: [Antori](https://osu.ppy.sh/users/13472931), ::{ flag=MA }:: [-Ran Yakumo-](https://osu.ppy.sh/users/5104454) |
-| A Casa Greedom | ::{ flag=AR }:: [menphiss](https://osu.ppy.sh/users/6185083), ::{ flag=AR }:: [Zetar](https://osu.ppy.sh/users/16286274) |
+| Rikka Gathering | ::{ flag=US }:: ::FBI Chan::{ user-id=15834583 }, ::{ flag=CA }:: ::XenoPenguino::{ user-id=12045254 } |
+| Team Irone | ::{ flag=MY }:: ::-Wick-::{ user-id=10938928 }, ::{ flag=TW }:: ::Pdog4ni::{ user-id=14581544 }, ::{ flag=TW }:: ::shinkuan::{ user-id=11066459 }, ::{ flag=TW }:: ::Snow Rabbit::{ user-id=1833280 } |
+| Peppynillos Guerreros | ::{ flag=ES }:: ::Froggie09::{ user-id=14332005 },::{ flag=ES }:: ::game\1maker26::{ user-id=4876699 }, ::{ flag=ES }:: ::Winds PCH::{ user-id=12200022 }, ::{ flag=ES }:: ::Kracohc::{ user-id=11554942 } |
+| The Master of the Shadows | ::{ flag=CN }:: ::hans1999::{ user-id=6679329 }, ::{ flag=CN }:: ::Crystal::{ user-id=1646397 }, ::{ flag=CN }:: ::NimaPro::{ user-id=11524571 }, ::{ flag=CN }:: ::MsD\1Mafufu::{ user-id=10884561 } |
+| XYH | ::{ flag=CN }:: ::FFFflyhigh::{ user-id=9182179 }, ::{ flag=CN }:: ::cirno\10::{ user-id=12389140 }, ::{ flag=CN }:: ::basket\1ball::{ user-id=10848528 }, ::{ flag=CN }:: ::shizehao::{ user-id=4928674 } |
+| yuyupa | ::{ flag=CN }:: ::yyjshishuaibi::{ user-id=10383569 }, ::{ flag=CN }:: ::MrCrystalJoker::{ user-id=8526295 }, ::{ flag=CN }:: ::observer233::{ user-id=15303552 }, ::{ flag=CN }:: ::Lo\1liFish2000::{ user-id=8828244 } |
+| Shiister Fanclub | ::{ flag=SG }:: ::jacketsniffing::{ user-id=5383820 }, ::{ flag=SG }:: ::Zerulite::{ user-id=7349397 }, ::{ flag=SG }:: ::Rachel::{ user-id=6494160 }, ::{ flag=SG }:: ::MrShiister::{ user-id=1715367 } |
+| -Simp- And the Simps | ::{ flag=GB }:: ::FoxTii::{ user-id=11080606 }, ::{ flag=GB }:: ::-simp-::{ user-id=12427317 }, ::{ flag=GB }:: ::zHotRoD::{ user-id=10441414 }, ::{ flag=GB }:: ::Wassero::{ user-id=8934975 } |
+| Boacasio & Hariel | ::{ flag=BR }:: ::Noasz::{ user-id=11358695 }, ::{ flag=BR }:: ::CALCIO01::{ user-id=7897834 } |
+| Narumi is ET | ::{ flag=NL }:: ::DannyPX::{ user-id=11253722 }, ::{ flag=NL }:: ::VALOS::{ user-id=5267163 }, ::{ flag=NL }:: ::samuelhklumpers::{ user-id=10945523 }, ::{ flag=SE }:: ::Mestro::{ user-id=4798263 } |
+| 0x5f375a86 | ::{ flag=CN }:: ::-Rinchan::{ user-id=9494010 }, ::{ flag=CN }:: ::SJ-Ellipses::{ user-id=7722637 } |
+| Happy Birthday ZayyKen | ::{ flag=BR }:: ::Konohana Lucia::{ user-id=8642224 }, ::{ flag=PH }:: ::Lazereed::{ user-id=12894120 }, ::{ flag=SG }:: ::loli\1seale::{ user-id=5069913 }, ::{ flag=FR }:: ::Paturages::{ user-id=1375479 } |
+| YoZoSoft | ::{ flag=CN }:: ::Nijoin Hazuki::{ user-id=13833144 }, ::{ flag=CN }:: ::evrjvsv::{ user-id=8301585 } |
+| SiniGang | ::{ flag=PH }:: ::MCJze::{ user-id=14559339 }, ::{ flag=PH }:: ::Normiplier::{ user-id=10069850 } |
+| MY 2.5 + TH 1.5 | ::{ flag=MY }:: ::Expired112::{ user-id=8782656 }, ::{ flag=MY }:: ::Unicow::{ user-id=9444174 }, ::{ flag=MY }:: ::Cryolien::{ user-id=1626983 }, ::{ flag=TH }:: ::osu\1player420::{ user-id=13018880 } |
+| SMOrcat | ::{ flag=TW }:: ::Joylintp::{ user-id=13579078 }, ::{ flag=TW }:: ::opl95173::{ user-id=7227070 }, ::{ flag=TW }:: ::LaoXiao-::{ user-id=2393571 }, ::{ flag=TW }:: ::mmi366127::{ user-id=2393571 } |
+| N.Z. Owen Was Her? | ::{ flag=NZ }:: ::- Abby -::{ user-id=7740118 }, ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 }, ::{ flag=NZ }:: ::Diony::{ user-id=4294475 } |
+| Leen Bakker | ::{ flag=NL }:: ::Mierf::{ user-id=9529504 }, ::{ flag=NL }:: ::\_Avie::{ user-id=8368678 }, ::{ flag=NL }:: ::Kjevin118221::{ user-id=13114629 }, ::{ flag=NL }:: ::Harvey::{ user-id=3897387 } |
+| How to SV | ::{ flag=HK }:: ::Se1ya::{ user-id=6338609 }, ::{ flag=HK }:: ::Yasmine::{ user-id=244764 } |
+| Mai Chai Kon | ::{ flag=TH }:: ::FarmMyLife::{ user-id=12621947 }, ::{ flag=TH }:: ::KillerPooN::{ user-id=9200617 } |
+| Arrow Gang | ::{ flag=FR }:: ::babibelbleu::{ user-id=16892459 }, ::{ flag=CA }:: ::Goda::{ user-id=9538689 } |
+| Weirdchamps | ::{ flag=US }:: ::zVols::{ user-id=17057515 }, ::{ flag=US }:: ::shivs::{ user-id=9758694 } |
+| maggie team | ::{ flag=BE }:: ::Joppe27::{ user-id=11753018 }, ::{ flag=BE }:: ::nocilOLyus::{ user-id=12604747 }, ::{ flag=BE }:: ::furious\10803::{ user-id=14306726 } |
+| Piolin Y PalomAsh | ::{ flag=DO }:: ::Antalf::{ user-id=8793773 }, ::{ flag=DO }:: ::Kaito-kun::{ user-id=4715184 } |
+| Please don't pick LN | ::{ flag=TH }:: ::galtonist::{ user-id=12817056 }, ::{ flag=TH }:: ::nsf::{ user-id=15597537 }, ::{ flag=TH }:: ::Lung\1P::{ user-id=8271308 }, ::{ flag=TH }:: ::bokuwahokku::{ user-id=9565593 } |
+| I want to lick Reimu's armpits | ::{ flag=PL }:: ::Mr\1adamello::{ user-id=7420894 }, ::{ flag=PL }:: ::Ilikecook::{ user-id=11389137 }, ::{ flag=PL }:: ::Otis1204::{ user-id=11431349 } |
+| AndreyMinecraft | ::{ flag=BR }:: ::Halo-::{ user-id=7572142 }, ::{ flag=BR }:: ::Yuragi::{ user-id=8501380 }, ::{ flag=BR }:: ::Masteriosl::{ user-id=4101472 }, ::{ flag=BR }:: ::Caixinha::{ user-id=11290116 } |
+| Llamas maniaticas | ::{ flag=PE }:: ::artumax::{ user-id=8916149 }, ::{ flag=PE }:: ::lawrttr::{ user-id=18102051 } |
+| Ball Of Duty | ::{ flag=MY }:: ::LCJQLCLY::{ user-id=11283859 }, ::{ flag=MY }:: ::cheoky29::{ user-id=14901072 }, ::{ flag=TW }:: ::\[-ICHINO-\]::{ user-id=13643601 }, ::{ flag=US }:: ::AwsumKyl3::{ user-id=9620690 } |
+| momento colta | ::{ flag=AR }:: ::Mevss::{ user-id=10116889 }, ::{ flag=AR }:: ::boligoma::{ user-id=13310563 } |
+| pollos | ::{ flag=CL }:: ::Shabolo\1Ctm::{ user-id=14198960 }, ::{ flag=PE }:: ::DeadLyAndroid27::{ user-id=10783451 } |
+| Bald meiling | ::{ flag=MA }:: ::Antori::{ user-id=13472931 }, ::{ flag=MA }:: ::-Ran Yakumo-::{ user-id=5104454 } |
+| A Casa Greedom | ::{ flag=AR }:: ::menphiss::{ user-id=6185083 }, ::{ flag=AR }:: ::Zetar::{ user-id=16286274 } |
 
 ## Podium
 
@@ -103,9 +103,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-- | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | MY 2.5 + TH 1.5 (::{ flag=MY }:: [Expired112](https://osu.ppy.sh/users/8782656), ::{ flag=MY }:: [Unicow](https://osu.ppy.sh/users/9444174), ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=TH }:: [osu_player420](https://osu.ppy.sh/users/13018880)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | yuyupa (::{ flag=CN }:: [yyjshishuaibi](https://osu.ppy.sh/users/10383569), ::{ flag=CN }:: [MrCrystalJoker](https://osu.ppy.sh/users/8526295), ::{ flag=CN }:: [observer233](https://osu.ppy.sh/users/15303552), ::{ flag=CN }:: [Lo_liFish2000](https://osu.ppy.sh/users/8828244)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | SMOrcat (::{ flag=TW }:: [Joylintp](https://osu.ppy.sh/users/13579078), ::{ flag=TW }:: [opl95173](https://osu.ppy.sh/users/7227070), ::{ flag=TW }:: [LaoXiao-](https://osu.ppy.sh/users/2393571), ::{ flag=TW }:: [mmi366127](https://osu.ppy.sh/users/2393571)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | MY 2.5 + TH 1.5 (::{ flag=MY }:: ::Expired112::{ user-id=8782656 }, ::{ flag=MY }:: ::Unicow::{ user-id=9444174 }, ::{ flag=MY }:: ::Cryolien::{ user-id=1626983 }, ::{ flag=TH }:: ::osu\1player420::{ user-id=13018880 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | yuyupa (::{ flag=CN }:: ::yyjshishuaibi::{ user-id=10383569 }, ::{ flag=CN }:: ::MrCrystalJoker::{ user-id=8526295 }, ::{ flag=CN }:: ::observer233::{ user-id=15303552 }, ::{ flag=CN }:: ::Lo\1liFish2000::{ user-id=8828244 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | SMOrcat (::{ flag=TW }:: ::Joylintp::{ user-id=13579078 }, ::{ flag=TW }:: ::opl95173::{ user-id=7227070 }, ::{ flag=TW }:: ::LaoXiao-::{ user-id=2393571 }, ::{ flag=TW }:: ::mmi366127::{ user-id=2393571 }) |
 
 ## Mappools
 

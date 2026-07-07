@@ -7,7 +7,7 @@ tags:
 
 ![rajio logo](img/logo.png)
 
-**rajio.ppy.sh**（常被称作 **rajio**）是一个基于点播的在线电台服务，由 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 在 2008 年作为 osu! 的副业项目运转起来。用户可以将选好的歌加入队列，在全球广播中播放。
+**rajio.ppy.sh**（常被称作 **rajio**）是一个基于点播的在线电台服务，由 ::{ flag=AU }:: ::peppy::{ user-id=2 } 在 2008 年作为 osu! 的副业项目运转起来。用户可以将选好的歌加入队列，在全球广播中播放。
 
 ## 服务
 
@@ -17,7 +17,7 @@ rajio 的运作方式与现今的 Discord 音乐机器人（如 [Ayana](https://
 
 ## 退役与短暂复苏
 
-rajio 起初运转了几年，在 2010 年被关闭。[^rajio-out-of-service-ref]一年后，由于社区兴趣增长，::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 让 raijo 重获新生，同时在 [osu! 聊天](/wiki/Community/Internet_Relay_Chat)中为其创建了一个专用的 `#rajio` 频道。[^rajio-revival-ref1][^rajio-revival-ref2]但这次复苏只持续了很短时间，之后该服务与聊天频道便永久消失了。
+rajio 起初运转了几年，在 2010 年被关闭。[^rajio-out-of-service-ref]一年后，由于社区兴趣增长，::{ flag=AU }:: ::peppy::{ user-id=2 } 让 raijo 重获新生，同时在 [osu! 聊天](/wiki/Community/Internet_Relay_Chat)中为其创建了一个专用的 `#rajio` 频道。[^rajio-revival-ref1][^rajio-revival-ref2]但这次复苏只持续了很短时间，之后该服务与聊天频道便永久消失了。
 
 ## 参考
 

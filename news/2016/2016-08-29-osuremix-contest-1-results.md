@@ -20,7 +20,7 @@ The winner of the community vote would receive $50 dollars in osu! store credit.
 
 With that out of the way, let's get straight to the results:
 
-Almost completely unanimously, the staff picked **[BilliumMoto](https://osu.ppy.sh/users/3862471)**'s exceptional entry to take home the "grand" prize. We were thoroughly impressed with the scope and execution of his remix from a variety of standpoints, with his track positioning itself far above the rest from the very start.
+Almost completely unanimously, the staff picked **::BilliumMoto::{ user-id=3862471 }**'s exceptional entry to take home the "grand" prize. We were thoroughly impressed with the scope and execution of his remix from a variety of standpoints, with his track positioning itself far above the rest from the very start.
 
 Additionally, BilliumMoto's track also won the community vote, snatching a whopping 2277 votes!
 

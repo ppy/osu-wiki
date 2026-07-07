@@ -9,13 +9,13 @@ Legendary metal act **GYZE** crashlands into the Featured Artist lineup!
 
 ![](https://assets.ppy.sh/artists/148/header.jpg)
 
-Captivating top-tier stream players with the 7 star marathon [*HONESTY*](https://osu.ppy.sh/beatmapsets/586121) mapped by [Bibbity Bill](https://osu.ppy.sh/users/4446810) back in 2018, **GYZE** is a metal band known for fusing the trademark intensity of head-bashing rock with traditional Japanese instrumentation.
+Captivating top-tier stream players with the 7 star marathon [*HONESTY*](https://osu.ppy.sh/beatmapsets/586121) mapped by ::Bibbity Bill::{ user-id=4446810 } back in 2018, **GYZE** is a metal band known for fusing the trademark intensity of head-bashing rock with traditional Japanese instrumentation.
 
 Through four album releases and an endless list of live performances (including a *36* city tour throughout Europe), **GYZE** has been making waves with their distinct twist on metal. Starting today, their sound is officially ready for the osu! scene.
 
 We've got **11** tracks ready to map, including their 3 newest singles and of course, the modern classic *HONESTY*.
 
-Don't take our word for it — see what all the hype's about for yourself by leaping back to [BTMC](https://osu.ppy.sh/users/3171691)'s liveplay video of [*HONESTY*](https://osu.ppy.sh/beatmapsets/586121) (or listen through these other song previews):
+Don't take our word for it — see what all the hype's about for yourself by leaping back to ::BTMC::{ user-id=3171691 }'s liveplay video of [*HONESTY*](https://osu.ppy.sh/beatmapsets/586121) (or listen through these other song previews):
 
 <div align="center">
     <video width="95%" controls>

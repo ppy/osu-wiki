@@ -29,7 +29,7 @@ View or read the summary below:
 
 - **Extended information on mod icons.** The Double Time and Half Time icons (as well as their pitch-changing variants) now directly show custom speed changes, making the mods easy to visually compare on leaderboards without needing to hover over their icons.
 - **Design changes for the argon skin.** The health bar is redesigned (and will not be as wide as it is now by default in the future) and an outline was added to slider reverse arrows.
-- **New restrictions on maximum skin sprite dimensions.** In order to prevent exploits, most gameplay skin sprites now can't be arbitrarily large. Maxumum values were chosen with the help of skinning expert [RockRoller](https://osu.ppy.sh/users/8388854) in order to accommodate as many existing skins as feasible.
+- **New restrictions on maximum skin sprite dimensions.** In order to prevent exploits, most gameplay skin sprites now can't be arbitrarily large. Maxumum values were chosen with the help of skinning expert ::RockRoller::{ user-id=8388854 } in order to accommodate as many existing skins as feasible.
 - **Revised classic scoring formula, better matching osu!(stable) for all game modes.** Specifically, the rate of score growth has been adjusted. If you watch a replay side by side in both client versions (i.e. to compare ScoreV1 and classic scoring), the score will essentially match better now throughout the replay.
 
 Minor performance improvements and various bug fixes are documented in incredibly minute detail in the [changelog](https://osu.ppy.sh/home/changelog/lazer/2023.1008.0), as usual.

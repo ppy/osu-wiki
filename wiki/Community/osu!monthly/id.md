@@ -13,11 +13,11 @@ osu!monthly merupakan proyek komunitas yang terbuka bagi siapa pun yang ingin me
 
 ## Sejarah
 
-Pada awal penerbitannya, osu!monthly dikelola dan diorganisir oleh ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985), ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270), dan kawan-kawan dari bulan Maret 2011 hingga bulan Oktober 2011. Selama masa terbitnya, osu!monthly versi ini dirilis dalam bentuk PDF dengan berbagai artikel penting di dalamnya.
+Pada awal penerbitannya, osu!monthly dikelola dan diorganisir oleh ::{ flag=US }:: ::jjrocks::{ user-id=30985 }, ::{ flag=GB }:: ::Corin::{ user-id=639270 }, dan kawan-kawan dari bulan Maret 2011 hingga bulan Oktober 2011. Selama masa terbitnya, osu!monthly versi ini dirilis dalam bentuk PDF dengan berbagai artikel penting di dalamnya.
 
-Terinspirasi oleh osu!monthly yang pernah ada, ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) dan ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) kemudian berinisiatif untuk membentuk tim osu!monthly baru yang aktif dari bulan Oktober 2017 hingga bulan Februari 2018. Pada musim keduanya ini, osu!monthly tetap dirilis dalam bentuk PDF, namun dengan gaya pembawaan berita yang lebih konsisten dan elegan.
+Terinspirasi oleh osu!monthly yang pernah ada, ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 } dan ::{ flag=US }:: ::clayton::{ user-id=3666350 } kemudian berinisiatif untuk membentuk tim osu!monthly baru yang aktif dari bulan Oktober 2017 hingga bulan Februari 2018. Pada musim keduanya ini, osu!monthly tetap dirilis dalam bentuk PDF, namun dengan gaya pembawaan berita yang lebih konsisten dan elegan.
 
-Dengan keinginan untuk menghidupkan kembali proyek ini, [tim osu!monthly](/wiki/People/osu!monthly_team) akhirnya dibentuk kembali oleh ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) yang juga bertindak selaku pemimpin proyek. Berbeda dengan edisi sebelumnya, osu!monthly kali ini dipublikasikan dalam bentuk artikel berita pada laman beranda osu!. Versi osu!monthly ini merupakan versi osu!monthly yang saat ini rutin diterbitkan setiap bulannya.
+Dengan keinginan untuk menghidupkan kembali proyek ini, [tim osu!monthly](/wiki/People/osu!monthly_team) akhirnya dibentuk kembali oleh ::{ flag=RS }:: ::0x84f::{ user-id=7944724 } yang juga bertindak selaku pemimpin proyek. Berbeda dengan edisi sebelumnya, osu!monthly kali ini dipublikasikan dalam bentuk artikel berita pada laman beranda osu!. Versi osu!monthly ini merupakan versi osu!monthly yang saat ini rutin diterbitkan setiap bulannya.
 
 ## Arsip
 

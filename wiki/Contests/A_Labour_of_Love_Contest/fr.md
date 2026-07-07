@@ -19,20 +19,20 @@ Les soumissions à ce concours comprennent les éléments suivants :
 
 | Nom de l'équipe | Remixeur(s) | Mappeur(s) | Créateur(s) de storyboard/vidéo | Participation |
 | :-- | :-- | :-- | :-- | :-- |
-| Bowkutoly Encore | ::{ flag=TH }:: [Raytoly](https://osu.ppy.sh/users/8121109) | ::{ flag=TH }:: [Raytoly](https://osu.ppy.sh/users/8121109), ::{ flag=ID }:: [gokugohan12468](https://osu.ppy.sh/users/2013571) | ::{ flag=GB }:: [Agent Encore](https://osu.ppy.sh/users/18121148), ::{ flag=US }:: [BowLL](https://osu.ppy.sh/users/10198015), ::{ flag=TH }:: [Raytoly](https://osu.ppy.sh/users/8121109) | [Lien](https://osu.ppy.sh/beatmapsets/1389153#osu/2868826) |
-| Daniel Gaming | ::{ flag=US }:: [Sooph](https://osu.ppy.sh/users/12001243) | ::{ flag=ID }:: [Tocorn](https://osu.ppy.sh/users/9564072), ::{ flag=US }:: [phyr](https://osu.ppy.sh/users/13181574) | ::{ flag=US }:: [Malishiosu](https://osu.ppy.sh/users/12521528) | [Lien](https://osu.ppy.sh/beatmapsets/1390683#osu/2871703) |
-| Dolbit Normalno | ::{ flag=RU }:: [DestoppeD](https://osu.ppy.sh/users/19611631) | ::{ flag=RU }:: [NeilPerry](https://osu.ppy.sh/users/841391), ::{ flag=CA }:: [Sing](https://osu.ppy.sh/users/3795679), ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | ::{ flag=RU }:: [Tommy Phelps](https://osu.ppy.sh/users/10974581) | [Lien](https://osu.ppy.sh/beatmapsets/1388552#osu/2867790) |
-| Down | ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602) | [Lien](https://osu.ppy.sh/beatmapsets/1348553#osu/2792430) |
-| extremely valid | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471), ::{ flag=FR }:: [Shinwoir](https://osu.ppy.sh/users/8984574) | ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515), ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334), ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297) | ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | [Lien](https://osu.ppy.sh/beatmapsets/1388906#osu/2868388) |
-| humilde | ::{ flag=AR }:: [pm04034](https://osu.ppy.sh/users/12704335) | ::{ flag=AR }:: [Megafan](https://osu.ppy.sh/users/6632605), ::{ flag=TH }:: [ohm002](https://osu.ppy.sh/users/4468239) | ::{ flag=TH }:: [ohm002](https://osu.ppy.sh/users/4468239) | [Lien](https://osu.ppy.sh/beatmapsets/1382737#osu/2856702) |
-| Incoherent Sound | ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794) | ::{ flag=MY }:: [Kardshark](https://osu.ppy.sh/users/4724315), ::{ flag=MY }:: [\[MY\]xArief](https://osu.ppy.sh/users/12694468), ::{ flag=MY }:: [\[-Chocola-\]](https://osu.ppy.sh/users/6781232) | ::{ flag=MY }:: [GhostFY](https://osu.ppy.sh/users/7798305) | [Lien](https://osu.ppy.sh/beatmapsets/1390004#osu/2870603) |
-| le fishe au chocolat | ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366) | ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309), ::{ flag=CA }:: [J1_](https://osu.ppy.sh/users/5918561), ::{ flag=AR }:: [Lince Cosmico](https://osu.ppy.sh/users/6070370), ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366) | ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366) | [Lien](https://osu.ppy.sh/beatmapsets/1389401#osu/2869375) |
-| Lovers | ::{ flag=UA }:: [XenjeS](https://osu.ppy.sh/users/10166905) | ::{ flag=UA }:: [XenjeS](https://osu.ppy.sh/users/10166905), ::{ flag=RU }:: [adioni](https://osu.ppy.sh/users/8894794), ::{ flag=BG }:: [Delette](https://osu.ppy.sh/users/7835664) | ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) | [Lien](https://osu.ppy.sh/beatmapsets/1388590#osu/2867851) |
-| Moyai | ::{ flag=TR }:: [SAMString](https://osu.ppy.sh/users/7273976) | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380), ::{ flag=GG }:: [Patrick Cake](https://osu.ppy.sh/users/11266329), ::{ flag=RS }:: [Seolv](https://osu.ppy.sh/users/8067876) | ::{ flag=CA }:: [TheDuckMask](https://osu.ppy.sh/users/7405768) | [Lien](https://osu.ppy.sh/beatmapsets/1389249#osu/2868999) |
-| Pentangle of Ambivalence | ::{ flag=BR }:: [Maemi no Yume](https://osu.ppy.sh/users/4377273) | ::{ flag=BR }:: [Kalindraz](https://osu.ppy.sh/users/2313166), ::{ flag=BR }:: [Sakura Airi](https://osu.ppy.sh/users/8682057) | ::{ flag=BR }:: [K4L1](https://osu.ppy.sh/users/11334594) | [Lien](https://osu.ppy.sh/beatmapsets/1389127#osu/2868791) |
-| schoolboy fans | ::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494) | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231), ::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494), ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337), ::{ flag=UA }:: [wajinshu](https://osu.ppy.sh/users/6339790) | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | [Lien](https://osu.ppy.sh/beatmapsets/1382412#osu/2856191) |
-| Team Name | ::{ flag=US }:: [Absolute Zero](https://osu.ppy.sh/users/4847256), ::{ flag=US }:: [Thievley](https://osu.ppy.sh/users/4717672) | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835), ::{ flag=US }:: [Cheri](https://osu.ppy.sh/users/5226970) | ::{ flag=US }:: [Fluffy91021](https://osu.ppy.sh/users/9149167) | [Lien](https://osu.ppy.sh/beatmapsets/1389031#osu/2868617) |
-| Team Red but Blue | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=CA }:: [Chompy](https://osu.ppy.sh/users/7427035), ::{ flag=CA }:: [Zer0-G](https://osu.ppy.sh/users/12577911) | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | [Lien](https://osu.ppy.sh/beatmapsets/1388993#osu/2868551) |
+| Bowkutoly Encore | ::{ flag=TH }:: ::Raytoly::{ user-id=8121109 } | ::{ flag=TH }:: ::Raytoly::{ user-id=8121109 }, ::{ flag=ID }:: ::gokugohan12468::{ user-id=2013571 } | ::{ flag=GB }:: ::Agent Encore::{ user-id=18121148 }, ::{ flag=US }:: ::BowLL::{ user-id=10198015 }, ::{ flag=TH }:: ::Raytoly::{ user-id=8121109 } | [Lien](https://osu.ppy.sh/beatmapsets/1389153#osu/2868826) |
+| Daniel Gaming | ::{ flag=US }:: ::Sooph::{ user-id=12001243 } | ::{ flag=ID }:: ::Tocorn::{ user-id=9564072 }, ::{ flag=US }:: ::phyr::{ user-id=13181574 } | ::{ flag=US }:: ::Malishiosu::{ user-id=12521528 } | [Lien](https://osu.ppy.sh/beatmapsets/1390683#osu/2871703) |
+| Dolbit Normalno | ::{ flag=RU }:: ::DestoppeD::{ user-id=19611631 } | ::{ flag=RU }:: ::NeilPerry::{ user-id=841391 }, ::{ flag=CA }:: ::Sing::{ user-id=3795679 }, ::{ flag=RU }:: ::Mirash::{ user-id=2841009 } | ::{ flag=RU }:: ::Tommy Phelps::{ user-id=10974581 } | [Lien](https://osu.ppy.sh/beatmapsets/1388552#osu/2867790) |
+| Down | ::{ flag=KR }:: ::Down::{ user-id=4694602 } | ::{ flag=KR }:: ::Down::{ user-id=4694602 } | ::{ flag=KR }:: ::Down::{ user-id=4694602 } | [Lien](https://osu.ppy.sh/beatmapsets/1348553#osu/2792430) |
+| extremely valid | ::{ flag=US }:: ::BilliumMoto::{ user-id=3862471 }, ::{ flag=FR }:: ::Shinwoir::{ user-id=8984574 } | ::{ flag=DE }:: ::Mao::{ user-id=2204515 }, ::{ flag=GB }:: ::DeviousPanda::{ user-id=4966334 }, ::{ flag=FR }:: ::Realazy::{ user-id=918297 } | ::{ flag=DE }:: ::Mao::{ user-id=2204515 } | [Lien](https://osu.ppy.sh/beatmapsets/1388906#osu/2868388) |
+| humilde | ::{ flag=AR }:: ::pm04034::{ user-id=12704335 } | ::{ flag=AR }:: ::Megafan::{ user-id=6632605 }, ::{ flag=TH }:: ::ohm002::{ user-id=4468239 } | ::{ flag=TH }:: ::ohm002::{ user-id=4468239 } | [Lien](https://osu.ppy.sh/beatmapsets/1382737#osu/2856702) |
+| Incoherent Sound | ::{ flag=MY }:: ::takehirotei::{ user-id=11793794 } | ::{ flag=MY }:: ::Kardshark::{ user-id=4724315 }, ::{ flag=MY }:: ::\[MY\]xArief::{ user-id=12694468 }, ::{ flag=MY }:: ::\[-Chocola-\]::{ user-id=6781232 } | ::{ flag=MY }:: ::GhostFY::{ user-id=7798305 } | [Lien](https://osu.ppy.sh/beatmapsets/1390004#osu/2870603) |
+| le fishe au chocolat | ::{ flag=DK }:: ::-Tochi::{ user-id=3664366 } | ::{ flag=KR }:: ::Acylica::{ user-id=1943309 }, ::{ flag=CA }:: ::J1\1::{ user-id=5918561 }, ::{ flag=AR }:: ::Lince Cosmico::{ user-id=6070370 }, ::{ flag=DK }:: ::-Tochi::{ user-id=3664366 } | ::{ flag=DK }:: ::-Tochi::{ user-id=3664366 } | [Lien](https://osu.ppy.sh/beatmapsets/1389401#osu/2869375) |
+| Lovers | ::{ flag=UA }:: ::XenjeS::{ user-id=10166905 } | ::{ flag=UA }:: ::XenjeS::{ user-id=10166905 }, ::{ flag=RU }:: ::adioni::{ user-id=8894794 }, ::{ flag=BG }:: ::Delette::{ user-id=7835664 } | ::{ flag=UA }:: ::PantyDev::{ user-id=5420543 } | [Lien](https://osu.ppy.sh/beatmapsets/1388590#osu/2867851) |
+| Moyai | ::{ flag=TR }:: ::SAMString::{ user-id=7273976 } | ::{ flag=GB }:: ::Aistre::{ user-id=4879380 }, ::{ flag=GG }:: ::Patrick Cake::{ user-id=11266329 }, ::{ flag=RS }:: ::Seolv::{ user-id=8067876 } | ::{ flag=CA }:: ::TheDuckMask::{ user-id=7405768 } | [Lien](https://osu.ppy.sh/beatmapsets/1389249#osu/2868999) |
+| Pentangle of Ambivalence | ::{ flag=BR }:: ::Maemi no Yume::{ user-id=4377273 } | ::{ flag=BR }:: ::Kalindraz::{ user-id=2313166 }, ::{ flag=BR }:: ::Sakura Airi::{ user-id=8682057 } | ::{ flag=BR }:: ::K4L1::{ user-id=11334594 } | [Lien](https://osu.ppy.sh/beatmapsets/1389127#osu/2868791) |
+| schoolboy fans | ::{ flag=RU }:: ::Shadren::{ user-id=745494 } | ::{ flag=RU }:: ::Shmiklak::{ user-id=5504231 }, ::{ flag=RU }:: ::Shadren::{ user-id=745494 }, ::{ flag=RU }:: ::Daycore::{ user-id=5596337 }, ::{ flag=UA }:: ::wajinshu::{ user-id=6339790 } | ::{ flag=RU }:: ::Shmiklak::{ user-id=5504231 } | [Lien](https://osu.ppy.sh/beatmapsets/1382412#osu/2856191) |
+| Team Name | ::{ flag=US }:: ::Absolute Zero::{ user-id=4847256 }, ::{ flag=US }:: ::Thievley::{ user-id=4717672 } | ::{ flag=CA }:: ::Gordon::{ user-id=7856835 }, ::{ flag=US }:: ::Cheri::{ user-id=5226970 } | ::{ flag=US }:: ::Fluffy91021::{ user-id=9149167 } | [Lien](https://osu.ppy.sh/beatmapsets/1389031#osu/2868617) |
+| Team Red but Blue | ::{ flag=CA }:: ::Redside::{ user-id=16039046 }, ::{ flag=US }:: ::Noffy::{ user-id=1541323 } | ::{ flag=US }:: ::Noffy::{ user-id=1541323 }, ::{ flag=CA }:: ::Chompy::{ user-id=7427035 }, ::{ flag=CA }:: ::Zer0-G::{ user-id=12577911 } | ::{ flag=US }:: ::Noffy::{ user-id=1541323 }, ::{ flag=US }:: ::Tofumang::{ user-id=4817223 } | [Lien](https://osu.ppy.sh/beatmapsets/1388993#osu/2868551) |
 
 ## Programme
 
@@ -53,31 +53,31 @@ Le concours sera jugé par un panel de mappeurs (comprenant des storyboarders) e
     - **Deuxième place :** 3 mois d'osu!supporter
     - **Gagnant :** 6 mois d'osu!supporter + badge de profil *Mappers' Pick*
     - Panélistes :
-      - ::{ flag=DE }:: [Celektus](https://osu.ppy.sh/users/4294993)
-      - ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
-      - ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992)
-      - ::{ flag=DE }:: [Icekalt](https://osu.ppy.sh/users/5410645)
-      - ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777)
-      - ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)
-      - ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097)
-      - ::{ flag=CZ }:: [NyarkoO](https://osu.ppy.sh/users/6622567)
-      - ::{ flag=KR }:: [Sonnyc](https://osu.ppy.sh/users/11771)
-      - ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547)
-      - ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406)
-      - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)
-      - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
-      - ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
+      - ::{ flag=DE }:: ::Celektus::{ user-id=4294993 }
+      - ::{ flag=FI }:: ::DTM9 Nowa::{ user-id=5428909 }
+      - ::{ flag=CN }:: ::Garden::{ user-id=2849992 }
+      - ::{ flag=DE }:: ::Icekalt::{ user-id=5410645 }
+      - ::{ flag=PL }:: ::Kalibe::{ user-id=3376777 }
+      - ::{ flag=KR }:: ::Luscent::{ user-id=2688581 }
+      - ::{ flag=DE }:: ::Mordred::{ user-id=7265097 }
+      - ::{ flag=CZ }:: ::NyarkoO::{ user-id=6622567 }
+      - ::{ flag=KR }:: ::Sonnyc::{ user-id=11771 }
+      - ::{ flag=CL }:: ::Uberzolik::{ user-id=1314547 }
+      - ::{ flag=CA }:: ::VINXIS::{ user-id=4323406 }
+      - ::{ flag=RU }:: ::xbopost::{ user-id=6842421 }
+      - ::{ flag=BE }:: ::yaspo::{ user-id=4945926 }
+      - ::{ flag=PL }:: ::Zelq::{ user-id=8953955 }
 - **Panel de musiciens** (qui se concentre sur la qualité des remixes)
   - Prix
     - **Deuxième place :** 3 mois d'osu!supporter
     - **Gagnant :** 6 mois d'osu!supporter + badge de profil *Musicians' Pick*
     - Panélistes :
       - ::{ flag=CA }:: Kuba Oms
-      - ::{ flag=JP }:: [A__](https://osu.ppy.sh/users/12011880)
-      - ::{ flag=DE }:: [Celektus](https://osu.ppy.sh/users/4294993)
-      - ::{ flag=US }:: [Dictate](https://osu.ppy.sh/users/5983379)
-      - ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088)
-      - ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406)
+      - ::{ flag=JP }:: ::A\1\1::{ user-id=12011880 }
+      - ::{ flag=DE }:: ::Celektus::{ user-id=4294993 }
+      - ::{ flag=US }:: ::Dictate::{ user-id=5983379 }
+      - ::{ flag=US }:: ::Will Stetson::{ user-id=4909088 }
+      - ::{ flag=CA }:: ::VINXIS::{ user-id=4323406 }
 - **Prix général** (combinaison des deux panels axés sur tous les domaines)
   - **Deuxième place :** 3 mois d'osu!supporter + badge de profil *Overall runner-up*
   - **Gagnant :**

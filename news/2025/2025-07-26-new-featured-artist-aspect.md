@@ -19,7 +19,7 @@ If **Aspect**'s experiments resonate with you, you know what to do:
 
 ### [Aspect & Viznode - Astral Grove (Viznode Remix) [Aspect 2023 Live Edit]](https://assets.ppy.sh/artists/487/Songs/Aspect%20%26%20Viznode%20-%20Astral%20Grove%20(Viznode%20Remix)%20%5BAspect%202023%20Live%20Edit%5D.osz)
 
-Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2304854) hosted by [BadDragon](https://osu.ppy.sh/users/6051688)!
+Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2304854) hosted by ::BadDragon::{ user-id=6051688 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

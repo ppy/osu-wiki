@@ -19,7 +19,7 @@ Instead, you can preview *every track* on **Mediks**'s listing right here:
 
 ### Mediks - Outbreak
 
-Check out [this legendary map](https://osu.ppy.sh/beatmapsets/527082) hosted by [Strategas](https://osu.ppy.sh/users/2971837)!
+Check out [this legendary map](https://osu.ppy.sh/beatmapsets/527082) hosted by ::Strategas::{ user-id=2971837 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/346/Outbreak%2FMediks%20-%20Outbreak.mp3">
@@ -27,7 +27,7 @@ Check out [this legendary map](https://osu.ppy.sh/beatmapsets/527082) hosted by 
 
 ### Mediks - Nightmare
 
-Or you can try out [this sequel map](https://osu.ppy.sh/beatmapsets/550808) by [the same mapper](https://osu.ppy.sh/users/2971837)!
+Or you can try out [this sequel map](https://osu.ppy.sh/beatmapsets/550808) by ::the same mapper::{ user-id=2971837 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/346/Outbreak/Mediks%20-%20Nightmare.mp3">
@@ -35,7 +35,7 @@ Or you can try out [this sequel map](https://osu.ppy.sh/beatmapsets/550808) by [
 
 ### Mediks - Doomsday
 
-Finish your circle clicking session with [this final map](https://osu.ppy.sh/beatmapsets/545677) hosted by [you-know-who](https://osu.ppy.sh/users/2971837).
+Finish your circle clicking session with [this final map](https://osu.ppy.sh/beatmapsets/545677) hosted by ::you-know-who::{ user-id=2971837 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/346/Outbreak/Mediks%20-%20Doomsday.mp3">
@@ -43,7 +43,7 @@ Finish your circle clicking session with [this final map](https://osu.ppy.sh/bea
 
 ### Mediks feat. Astronaut - Blown Away (Raise Spirit Remix)
 
-If you're looking for something *fresh*, [this marathon](https://osu.ppy.sh/beatmapsets/1950373) hosted by [Zer0-](https://osu.ppy.sh/users/4260033) was uploaded just a few hours ago!
+If you're looking for something *fresh*, [this marathon](https://osu.ppy.sh/beatmapsets/1950373) hosted by ::Zer0-::{ user-id=4260033 } was uploaded just a few hours ago!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/346/Songs/Mediks%20feat.%20Astronaut%20-%20Blown%20Away%20(Raise%20Spirit%20Remix).mp3">

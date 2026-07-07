@@ -40,7 +40,7 @@ Tindakan kasar, pelecehan, atau perilaku tidak dapat diterima lainnya yang terja
 
 Pengelola komunitas yang memiliki akses ke inbox ini adalah:
 
-- [peppy](https://osu.ppy.sh/users/2) ([pe@ppy.sh](mailto:pe@ppy.sh))
+- ::peppy::{ user-id=2 } ([pe@ppy.sh](mailto:pe@ppy.sh))
 
 Semua keluhan akan ditinjau dan diselidiki secara tepat dan adil.
 

@@ -57,22 +57,22 @@ F2 - Rohi Pack.zip
 目前所有曲包都储存在 `packs.ppy.sh` 服务器内部。当你无法访问服务器，或者下载速度太慢时，为了方便，你也可以使用其他用户建立的镜像站点：
 
 - [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
-  - ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) 的 [Google 表格](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo)
+  - ::{ flag=KR }:: ::Shige-Tori\[a\]::{ user-id=4459449 } 的 [Google 表格](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo)
 - 迁移到 `packs.ppy.sh` 服务器前使用的早期存储站点 ( ~2023-05-07)
-  - ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) 的 [MEGA 网盘](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw)
+  - ::{ flag=AT }:: ::Stefan::{ user-id=626907 } 的 [MEGA 网盘](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw)
 - [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381)
-  - ::{ flag=DE }:: [nanashirei](https://osu.ppy.sh/users/807630) 的[镜像网站](http://osu.yas-online.net/)
+  - ::{ flag=DE }:: ::nanashirei::{ user-id=807630 } 的[镜像网站](http://osu.yas-online.net/)
 
 ### 用种子下载
 
 种子是用来批量下载（而非逐个手动下载）谱面的绝佳方式。要这样做，可以使用种子工具从如下任一站点下载它们：
 
 - [Osu! Beatmap Packs @ Resilio Sync](https://osu.ppy.sh/community/forums/topics/1255023)
-  - ::{ flag=RU }:: [glukki](https://osu.ppy.sh/users/14285150) 的 [Resilio Sync 上的种子文件](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2)
+  - ::{ flag=RU }:: ::glukki::{ user-id=14285150 } 的 [Resilio Sync 上的种子文件](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2)
 - [[Beatmap Packs] All ranked maps](https://osu.ppy.sh/community/forums/topics/330552)
-  - ::{ flag=RE }:: [Elessey](https://osu.ppy.sh/users/4925105) 的[种子文件](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing)
+  - ::{ flag=RE }:: ::Elessey::{ user-id=4925105 } 的[种子文件](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing)
 - [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
-  - ::{ flag=IT }:: [- Pandoro](https://osu.ppy.sh/users/2574057) 的 [PandoTracker 网站](https://pandotracker.me)
+  - ::{ flag=IT }:: ::- Pandoro::{ user-id=2574057 } 的 [PandoTracker 网站](https://pandotracker.me)
 
 <!-- TODO: new mirrors -->
 

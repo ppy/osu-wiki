@@ -13,7 +13,7 @@ Transcending all genre stereotypes, **METAROOM** is a California-based producer 
 
 [**METAROOM**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/206) is a cool place to be with **15** songs up for grabs. While you're there, you could even say you're in the **METAROOM** room. But you really shouldn't.
 
-Behind the scenes, [Lugu](https://osu.ppy.sh/users/12851847) from the Mappers' Guild has been hard at work creating a [showcase beatmap](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) for today's artist announcement. See how it turned out alongside osu!lazer's new built-in Performance Points counter, then check out the other previews below:
+Behind the scenes, ::Lugu::{ user-id=12851847 } from the Mappers' Guild has been hard at work creating a [showcase beatmap](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) for today's artist announcement. See how it turned out alongside osu!lazer's new built-in Performance Points counter, then check out the other previews below:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ Behind the scenes, [Lugu](https://osu.ppy.sh/users/12851847) from the Mappers' G
 
 ### METAROOM - PINK ORIGINS
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1589495) hosted by [Lugu](https://osu.ppy.sh/users/12851847) from the video above!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1589495) hosted by ::Lugu::{ user-id=12851847 } from the video above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/206/METADATA%20--%20PINK%20ORIGINS/METAROOM%20-%20PINK%20ORIGINS.mp3" type="audio/mpeg">

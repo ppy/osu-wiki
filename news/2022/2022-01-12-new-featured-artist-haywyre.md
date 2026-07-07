@@ -15,7 +15,7 @@ This grammy-nominated producer and pianist has toured with the likes of *Zedd* a
 
 **13** tracks are on the table today, each of which has a beatmap template ready to go from [**Haywyre**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/230)!
 
-Curious where the hype behind **Haywyre** comes from? His presence on osu! started with a fairly popular marathon of [Everchanging](https://osu.ppy.sh/beatmapsets/461903), later expanding even more through competition on [Insight](https://osu.ppy.sh/beatmapsets/848400)'s nearly inhuman jumps. See exactly what that means by watching [Vaxei](https://osu.ppy.sh/users/4787150) SS it below, then explore the other songs:
+Curious where the hype behind **Haywyre** comes from? His presence on osu! started with a fairly popular marathon of [Everchanging](https://osu.ppy.sh/beatmapsets/461903), later expanding even more through competition on [Insight](https://osu.ppy.sh/beatmapsets/848400)'s nearly inhuman jumps. See exactly what that means by watching ::Vaxei::{ user-id=4787150 } SS it below, then explore the other songs:
 
 <div align="center">
     <video width="100%" controls>
@@ -25,7 +25,7 @@ Curious where the hype behind **Haywyre** comes from? His presence on osu! start
 
 ### Insight
 
-Play through [the map above](https://osu.ppy.sh/beatmapsets/848400) hosted by [Twiggykun](https://osu.ppy.sh/users/9126943)!
+Play through [the map above](https://osu.ppy.sh/beatmapsets/848400) hosted by ::Twiggykun::{ user-id=9126943 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/230/Songs/Haywyre%20-%20Insight.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Play through [the map above](https://osu.ppy.sh/beatmapsets/848400) hosted by [T
 
 ### Everchanging
 
-Check out [the map that introduced **Haywyre** to osu!](https://osu.ppy.sh/beatmapsets/461903) hosted by [Beige](https://osu.ppy.sh/users/685229) (previously known as **W h i t e**)!
+Check out [the map that introduced **Haywyre** to osu!](https://osu.ppy.sh/beatmapsets/461903) hosted by ::Beige::{ user-id=685229 } (previously known as **W h i t e**)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/230/Songs/Haywyre%20-%20Everchanging.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Check out [the map that introduced **Haywyre** to osu!](https://osu.ppy.sh/beatm
 
 ### Dichotomy (Soft Mix)
 
-If you're tired of circles, rectangles await you on [this osu!mania beatmap](https://osu.ppy.sh/beatmapsets/631054) hosted by [BilliumMoto](https://osu.ppy.sh/users/3862471)!
+If you're tired of circles, rectangles await you on [this osu!mania beatmap](https://osu.ppy.sh/beatmapsets/631054) hosted by ::BilliumMoto::{ user-id=3862471 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/230/Two%20Fold%20Pt.%201/Haywyre%20-%20Dichotomy%20%28Soft%20Mix%29.mp3" type="audio/mpeg">

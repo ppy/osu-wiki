@@ -11,7 +11,7 @@ The longest-running annual beatmapping contest closes its doors and is ready to 
 
 The 12th iteration of Pending Cup has concluded! This year, with a total of 79 entries across three tracks, makes PDC 2024 one of, if not the most exciting, community mapping contests ever!
 
-This contest was [announced back in August](https://osu.ppy.sh/home/news/2024-08-25-pending-cup-2024). In case you missed it, The Pending Cup is originally a Chinese mapping contest, which had its first iteration in 2013 held by [NatsumeRin](https://osu.ppy.sh/users/151679). Through the past years, the Pending Cup has always been a means of encouraging creative mapping and finding new talent across the entire mapping community, and it will always be the core value of the contest.
+This contest was [announced back in August](https://osu.ppy.sh/home/news/2024-08-25-pending-cup-2024). In case you missed it, The Pending Cup is originally a Chinese mapping contest, which had its first iteration in 2013 held by ::NatsumeRin::{ user-id=151679 }. Through the past years, the Pending Cup has always been a means of encouraging creative mapping and finding new talent across the entire mapping community, and it will always be the core value of the contest.
 
 With that all set, let's dive into the results of each track!
 
@@ -19,7 +19,7 @@ With that all set, let's dive into the results of each track!
 
 ![](/wiki/Contests/PDC/2024/img/finalists.jpg)
 
-### Vocal track winner - [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
+### Vocal track winner - ::Ryuusei Aika::{ user-id=7777875 }
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/-7p_vDtaWkY" frameborder="0" allowfullscreen></iframe>
@@ -33,9 +33,9 @@ With that all set, let's dive into the results of each track!
 
 —Reioli
 
-Check out [this recently ranked mapset](https://osu.ppy.sh/beatmapsets/2301820) with entries from [Ryuusei Aika](https://osu.ppy.sh/users/7777875), [Shijie](https://osu.ppy.sh/users/10927454), [Plus4j](https://osu.ppy.sh/users/4086497) and [Koiyuki](https://osu.ppy.sh/users/2433507) included hosted by [iBell](https://osu.ppy.sh/users/4298072) for a fun rhythm challenge!
+Check out [this recently ranked mapset](https://osu.ppy.sh/beatmapsets/2301820) with entries from ::Ryuusei Aika::{ user-id=7777875 }, [Shijie](https://osu.ppy.sh/users/10927454), ::Plus4j::{ user-id=4086497 } and [Koiyuki](https://osu.ppy.sh/users/2433507) included hosted by ::iBell::{ user-id=4298072 } for a fun rhythm challenge!
 
-### Instrumental track winner - [William K](https://osu.ppy.sh/users/2261651)
+### Instrumental track winner - ::William K::{ user-id=2261651 }
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/YvQjcc47qJ8" frameborder="0" allowfullscreen></iframe>
@@ -51,7 +51,7 @@ Check out [this recently ranked mapset](https://osu.ppy.sh/beatmapsets/2301820) 
 
 Words cannot describe how fast-paced this experience would be, so make sure to try [the map](https://osu.ppy.sh/beatmapsets/2302426) yourself to truly feel the intensity!
 
-### Featured Artist track winner - [Matsuyuki Ame](https://osu.ppy.sh/users/12763959)
+### Featured Artist track winner - ::Matsuyuki Ame::{ user-id=12763959 }
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/PYMimfOwx5Y" frameborder="0" allowfullscreen></iframe>
@@ -65,7 +65,7 @@ Words cannot describe how fast-paced this experience would be, so make sure to t
 
 —pw384
 
-Be sure to try [this winning entry](https://osu.ppy.sh/beatmapsets/2301648#osu/4926360) by [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) yourself to truly experience the epic renaissance hardcore, along with entries by [Luval](https://osu.ppy.sh/users/22414293), [[W]hiteRBQ 033](https://osu.ppy.sh/users/8678443), and [Saki](https://osu.ppy.sh/users/3420746)!
+Be sure to try [this winning entry](https://osu.ppy.sh/beatmapsets/2301648#osu/4926360) by ::Matsuyuki Ame::{ user-id=12763959 } yourself to truly experience the epic renaissance hardcore, along with entries by ::Luval::{ user-id=22414293 }, [[W]hiteRBQ 033](https://osu.ppy.sh/users/8678443), and ::Saki::{ user-id=3420746 }!
 
 ### Track prizes
 
@@ -87,8 +87,8 @@ Finalists with the **highest points** out of the **3** tracks will receive speci
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | **Wooting 60HE+** (courtesy of [Ttmnzk](https://osu.ppy.sh/users/2495509)), custom Pending Cup 2024 physical badges and sticker set |
-| 2nd | **[osu! deskmat](https://osu.ppy.sh/store/products/1347)** of the finalist's choice (courtesy of [Chaoslitz](https://osu.ppy.sh/users/3621552)), custom Pending Cup 2024 physical badges and sticker set |
+| 1st | **Wooting 60HE+** (courtesy of ::Ttmnzk::{ user-id=2495509 }), custom Pending Cup 2024 physical badges and sticker set |
+| 2nd | **[osu! deskmat](https://osu.ppy.sh/store/products/1347)** of the finalist's choice (courtesy of ::Chaoslitz::{ user-id=3621552 }), custom Pending Cup 2024 physical badges and sticker set |
 | 3rd | Custom Pending Cup 2024 physical badges and sticker set |
 
 ### Contest points
@@ -97,12 +97,12 @@ In addition, the finalists at **1st and 2nd place** per category receive the fol
 
 | Mapper | Points |
 | :-- | --: |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | +2 |
-| ::{ flag=ID }:: [William K](https://osu.ppy.sh/users/2261651) | +2 |
-| ::{ flag=TW }:: [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) | +2 |
-| ::{ flag=CN }:: [Shijie](https://osu.ppy.sh/users/10927454) | +1 |
-| ::{ flag=CN }:: [Hyasalia](https://osu.ppy.sh/users/3375004) | +1 |
-| ::{ flag=US }:: [Jayblue](https://osu.ppy.sh/users/19618924) | +1 |
+| ::{ flag=CN }:: ::Ryuusei Aika::{ user-id=7777875 } | +2 |
+| ::{ flag=ID }:: ::William K::{ user-id=2261651 } | +2 |
+| ::{ flag=TW }:: ::Matsuyuki Ame::{ user-id=12763959 } | +2 |
+| ::{ flag=CN }:: ::Shijie::{ user-id=10927454 } | +1 |
+| ::{ flag=CN }:: ::Hyasalia::{ user-id=3375004 } | +1 |
+| ::{ flag=US }:: ::Jayblue::{ user-id=19618924 } | +1 |
 
 View the entire contest point leaderboards [on the wiki](/wiki/Contests/Contest_points#leaderboards)!
 

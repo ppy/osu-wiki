@@ -16,7 +16,7 @@ It's a new year, but we're still looking to reflect and highlight everything awe
 
 You will only be able to vote for 15 players (and note that you must fill in all of them), but the evaluation will be for the **top 20**.
 
-To get started, you must log in via your osu! account to the voting website. This voting is organised by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), with ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626) taking over the video production.
+To get started, you must log in via your osu! account to the voting website. This voting is organised by ::{ flag=DE }:: ::hallowatcher::{ user-id=1874761 }, with ::{ flag=GB }:: ::SadShiba::{ user-id=10747626 } taking over the video production.
 
 ## Nominees
 

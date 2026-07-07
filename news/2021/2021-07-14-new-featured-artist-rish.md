@@ -13,7 +13,7 @@ Embracing the combo of hyper-intense instrumentals with high-pitched cute vocals
 
 We're excited to announce **13** of these cute tunes, all up for the taking from [**Rish**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/181)!
 
-For those who somehow still haven't heard **Rish**'s sound, that's about to change. Take a peek at, uh, [*Take*](https://osu.ppy.sh/beatmapsets/1376486) mapped by [yf_bmp](https://osu.ppy.sh/users/1243669) with a more-than-appropriate bamboo theme, then explore a few extra songs below:
+For those who somehow still haven't heard **Rish**'s sound, that's about to change. Take a peek at, uh, [*Take*](https://osu.ppy.sh/beatmapsets/1376486) mapped by ::yf\1bmp::{ user-id=1243669 } with a more-than-appropriate bamboo theme, then explore a few extra songs below:
 
 <div align="center">
     <video width="95%" controls>
@@ -25,9 +25,9 @@ For those who somehow still haven't heard **Rish**'s sound, that's about to chan
 
 Play any of these beatmaps covering (almost) all modes:
 
-- [osu! beatmap](https://osu.ppy.sh/beatmapsets/1376486) hosted by [yf_bmp](https://osu.ppy.sh/users/1243669)
-- [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1295206) hosted by [\[\_-Kukkai-\_\]](https://osu.ppy.sh/users/7811952)
-- [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1377628) hosted by [LNP-](https://osu.ppy.sh/users/4402842)
+- [osu! beatmap](https://osu.ppy.sh/beatmapsets/1376486) hosted by ::yf\1bmp::{ user-id=1243669 }
+- [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1295206) hosted by ::\[\_-Kukkai-\_\]::{ user-id=7811952 }
+- [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1377628) hosted by ::LNP-::{ user-id=4402842 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/181/Candy%20Panic%20Bomb!/Rish%20feat.%20Choko%20-%20Take.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Play any of these beatmaps covering (almost) all modes:
 
 ### Rish feat. Hatsune Miku - Uni
 
-Or check out this [old school osu!mania beatmap](https://osu.ppy.sh/beatmapsets/84156) hosted by [HanzeR](https://osu.ppy.sh/users/1592447)!
+Or check out this [old school osu!mania beatmap](https://osu.ppy.sh/beatmapsets/84156) hosted by ::HanzeR::{ user-id=1592447 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/181/Colorful%20Wonderland/Rish%20feat.%20Hatsune%20Miku%20-%20Uni.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Or check out this [old school osu!mania beatmap](https://osu.ppy.sh/beatmapsets/
 
 ### Rish feat. Choko - Punai Punai Sensou
 
-Try playing [this other beatmap](https://osu.ppy.sh/beatmapsets/1328903) hosted by [Mixagji](https://osu.ppy.sh/users/767003)!
+Try playing [this other beatmap](https://osu.ppy.sh/beatmapsets/1328903) hosted by ::Mixagji::{ user-id=767003 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/181/Punai%20Punai%20Sensou%2FRish%20feat.%20Choko%20-%20Punai%20Punai%20Sensou.mp3" type="audio/mpeg">

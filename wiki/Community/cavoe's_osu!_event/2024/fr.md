@@ -57,7 +57,7 @@ COE 2024 est géré par divers membres de la communauté et des organisations pa
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Organisateur | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) |
+| Organisateur | ::{ flag=NL }:: ::cavoeboy::{ user-id=7361815 }, ::{ flag=DE }:: ::Meyer::{ user-id=5452367 } |
 | Partenaire opérationnel | [osu!frlive](https://osufr.live/), [Wooting](https://next.wooting.io/), [WoozPC](https://woozpc.nl/), [Zed Up](https://www.zed-up.de/), [Yuki Aim](https://yuki.gg/) |
 
 ### Activités hors site

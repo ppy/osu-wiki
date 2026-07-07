@@ -25,63 +25,63 @@ With the mood set, let's delve into the winners from the Beach Episode Art Conte
 
 [![](https://assets.ppy.sh/contests/179/banners/RedcXca-banner.jpg)](https://assets.ppy.sh/contests/179/winners/RedcXca.png)
 
-**3003** adherents shed a single tear at the majesty of Alisa and Chirou basking in the cosmic sun that is fat Yoshi. Art contest veteran [**RedcXca**](https://osu.ppy.sh/users/14056601) is of course responsible for this artistic achievement, making this their first-ever top-voted entry. Congratulations, and well earned!
+**3003** adherents shed a single tear at the majesty of Alisa and Chirou basking in the cosmic sun that is fat Yoshi. Art contest veteran ::**RedcXca**::{ user-id=14056601 } is of course responsible for this artistic achievement, making this their first-ever top-voted entry. Congratulations, and well earned!
 
 [![](https://assets.ppy.sh/contests/179/banners/Saeka-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Saeka.png)
 
-[**Saeka**](https://osu.ppy.sh/users/18025047)'s striking rendition of a straw-hatted pippi, Alisa enjoying a popsicle and a suspiciously pale feline mascot splashing in the water trailed in close behind at **2905** votes, remaining neck and neck with first place for most of the contest. So close! The summer vibes are substantial in this one, and you know we love to see it.
+::**Saeka**::{ user-id=18025047 }'s striking rendition of a straw-hatted pippi, Alisa enjoying a popsicle and a suspiciously pale feline mascot splashing in the water trailed in close behind at **2905** votes, remaining neck and neck with first place for most of the contest. So close! The summer vibes are substantial in this one, and you know we love to see it.
 
 [![](https://assets.ppy.sh/contests/179/banners/LeeNarie-banner.jpg)](https://assets.ppy.sh/contests/179/winners/LeeNarie.png)
 
-**2883** voters never saw the beachball coming from [**LeeNarie**](https://osu.ppy.sh/users/2667849)'s rendition of pippi, Mari and Mocha soaking up the sun with a smidge of sports. The Taikonator watches on in horror as Mocha absolutely botches it. This one is another *really* strong entry in regards to the overall theme of the contest, colours, composition and all. Fantastic work!
+**2883** voters never saw the beachball coming from ::**LeeNarie**::{ user-id=2667849 }'s rendition of pippi, Mari and Mocha soaking up the sun with a smidge of sports. The Taikonator watches on in horror as Mocha absolutely botches it. This one is another *really* strong entry in regards to the overall theme of the contest, colours, composition and all. Fantastic work!
 
 [![](https://assets.ppy.sh/contests/179/banners/KAITO-thighs-banner.jpg)](https://assets.ppy.sh/contests/179/winners/KAITO%20thighs.png)
 
-[**KAITO thighs**](https://osu.ppy.sh/users/13103233) (more likely known as Dreamxiety) makes her return to our art contests, casually collecting **2779** votes with a candid shot of pippi, Mocha, and a don all playing around in the surf. Who knew the game mode icons worked so well as a pattern for a ring float?
+::**KAITO thighs**::{ user-id=13103233 } (more likely known as Dreamxiety) makes her return to our art contests, casually collecting **2779** votes with a candid shot of pippi, Mocha, and a don all playing around in the surf. Who knew the game mode icons worked so well as a pattern for a ring float?
 
 [![](https://assets.ppy.sh/contests/179/banners/Tofumang-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Tofumang.png)
 
-It's an all-star cast this time around, with [**Tofumang**](https://osu.ppy.sh/users/4817223) entering the fray and scoring **2512** votes with his front-and-center piece sporting a positively *radiant* pippi spending some time with Alisa in the surf, and a don not far behind. Simply superb. What more needs to be said?
+It's an all-star cast this time around, with ::**Tofumang**::{ user-id=4817223 } entering the fray and scoring **2512** votes with his front-and-center piece sporting a positively *radiant* pippi spending some time with Alisa in the surf, and a don not far behind. Simply superb. What more needs to be said?
 
 [![](https://assets.ppy.sh/contests/179/banners/Sjao-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Sjao.png)
 
-**2507** voters got caught up in the tide of [**Sjao**](https://osu.ppy.sh/users/7295733)'s creation, showcasing a lounging (and sparkling!) pippi in summerwear beneath a shining sun. It really is a battle of the art contest regulars this time around!
+**2507** voters got caught up in the tide of ::**Sjao**::{ user-id=7295733 }'s creation, showcasing a lounging (and sparkling!) pippi in summerwear beneath a shining sun. It really is a battle of the art contest regulars this time around!
 
 [![](https://assets.ppy.sh/contests/179/banners/DGen-banner.jpg)](https://assets.ppy.sh/contests/179/winners/DGen.png)
 
-**2329** voters joined [**DGen**](https://osu.ppy.sh/users/13290907)'s pippi for some refreshing treats on the beach, while Chirou and Mocha labour over a sandcastle in the background. There's glamour, there's glitz, and there's the ever-present summer sun. A scintillating entry, indeed!
+**2329** voters joined ::**DGen**::{ user-id=13290907 }'s pippi for some refreshing treats on the beach, while Chirou and Mocha labour over a sandcastle in the background. There's glamour, there's glitz, and there's the ever-present summer sun. A scintillating entry, indeed!
 
 [![](https://assets.ppy.sh/contests/179/banners/Hecatia-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Hecatia.png)
 
-**2280** voters were prepped to catch some sick waves with [**Hecatia**](https://osu.ppy.sh/users/8244635)'s surfer pippi. That's gnarly, dude! The good kind of gnarly. By the way, does anyone else think that surfboard design is seriously legit?
+**2280** voters were prepped to catch some sick waves with ::**Hecatia**::{ user-id=8244635 }'s surfer pippi. That's gnarly, dude! The good kind of gnarly. By the way, does anyone else think that surfboard design is seriously legit?
 
 [![](https://assets.ppy.sh/contests/179/banners/ksenikust-banner.jpg)](https://assets.ppy.sh/contests/179/winners/ksenikust.png)
 
-[**ksenikust**](https://osu.ppy.sh/users/8938068)'s seriously stylish pippi enchanted **2146** voters with her overwhelming star power and many osu!dachi™-branded drinks and accessories. Any resemblances to a tiny squealing Bocchi are purely coincidental.
+::**ksenikust**::{ user-id=8938068 }'s seriously stylish pippi enchanted **2146** voters with her overwhelming star power and many osu!dachi™-branded drinks and accessories. Any resemblances to a tiny squealing Bocchi are purely coincidental.
 
 [![](https://assets.ppy.sh/contests/179/banners/Type-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Type.png)
 
-[**Type**](https://osu.ppy.sh/users/7520534) comes out of left field with an INCREDIBLY cinematic entry, gaining the attention of **2127** voters! Air, earth and sea are the name of the game here with this absolutely beautiful rendition of their signature style that we first saw only last year during the New Beginnings Art Contests. Amazing stuff!
+::**Type**::{ user-id=7520534 } comes out of left field with an INCREDIBLY cinematic entry, gaining the attention of **2127** voters! Air, earth and sea are the name of the game here with this absolutely beautiful rendition of their signature style that we first saw only last year during the New Beginnings Art Contests. Amazing stuff!
 
 [![](https://assets.ppy.sh/contests/179/banners/ZunK-banner.jpg)](https://assets.ppy.sh/contests/179/winners/ZunK.png)
 
-**2112** voters couldn't help but smash the like button on [**ZunK**](https://osu.ppy.sh/users/1070783)'s piece portraying pippi, Mocha and Aiko trying to nab the perfect summer shot to put in their scrapbook of memories. W-wait, Aiko wasn't ready! Redo!
+**2112** voters couldn't help but smash the like button on ::**ZunK**::{ user-id=1070783 }'s piece portraying pippi, Mocha and Aiko trying to nab the perfect summer shot to put in their scrapbook of memories. W-wait, Aiko wasn't ready! Redo!
 
 [![](https://assets.ppy.sh/contests/179/banners/Novarece-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Novarece.png)
 
-**2082** people waited in line to order from [**Novarece**](https://osu.ppy.sh/users/18728833)'s beachside stall featuring a smoothie-toting pippi expertly multitasking while preparing delicious food and drinks. This begs the question, if you order a set of beatmap pancakes, do they come in a set? We may never know.
+**2082** people waited in line to order from ::**Novarece**::{ user-id=18728833 }'s beachside stall featuring a smoothie-toting pippi expertly multitasking while preparing delicious food and drinks. This begs the question, if you order a set of beatmap pancakes, do they come in a set? We may never know.
 
 [![](https://assets.ppy.sh/contests/179/banners/tehfire-banner.jpg)](https://assets.ppy.sh/contests/179/winners/tehfire.png)
 
-**2039** voters kneeled before [**tehfire**](https://osu.ppy.sh/users/7082924)'s insanely stylish pastel portrayal of pippi, Mocha, Mari and the Taikonator living out the good life on a beach in perhaps the most painterly piece we've seen yet. What a creation!
+**2039** voters kneeled before ::**tehfire**::{ user-id=7082924 }'s insanely stylish pastel portrayal of pippi, Mocha, Mari and the Taikonator living out the good life on a beach in perhaps the most painterly piece we've seen yet. What a creation!
 
 [![](https://assets.ppy.sh/contests/179/banners/Amplui-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Amplui.png)
 
-**2012** divers held their breath along with [**Amplui**](https://osu.ppy.sh/users/24820805)'s Mocha to see who'd tap out first. Hint: it's not going to be her, since you'd never want to make that adorable face frown, right?
+**2012** divers held their breath along with ::**Amplui**::{ user-id=24820805 }'s Mocha to see who'd tap out first. Hint: it's not going to be her, since you'd never want to make that adorable face frown, right?
 
 [![](https://assets.ppy.sh/contests/179/banners/Infinity21_EXE-banner.jpg)](https://assets.ppy.sh/contests/179/winners/Infinity21_EXE.png)
 
-**1809** voters shared a peaceful moment with [**Infinity21_EXE**](https://osu.ppy.sh/users/23873884)'s take on Alisa enjoying a picturesque rest by the seaside. Less is often more!
+**1809** voters shared a peaceful moment with ::**Infinity21\1EXE**::{ user-id=23873884 }'s take on Alisa enjoying a picturesque rest by the seaside. Less is often more!
 
 ### peppy's picks
 

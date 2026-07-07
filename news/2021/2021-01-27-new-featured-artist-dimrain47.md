@@ -13,7 +13,7 @@ Pioneer of the internet age's electronic scene, **Dimrain47** is a techno produc
 
 With a whole **25** tracks, we've managed to grab nearly all of **Dimrain47**'s discography, including timeless classics like *Midnight Siege* and *At the Speed of Light*.
 
-There's a good chance this artist's music is older than some of today's osu! players, so here's some recently excavated footage of how a pre-historic player would experience these jams, featuring [Kyshiro](https://osu.ppy.sh/users/640611)'s beatmap of [Midnight Siege](https://osu.ppy.sh/beatmapsets/46936):
+There's a good chance this artist's music is older than some of today's osu! players, so here's some recently excavated footage of how a pre-historic player would experience these jams, featuring ::Kyshiro::{ user-id=640611 }'s beatmap of [Midnight Siege](https://osu.ppy.sh/beatmapsets/46936):
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ There's a good chance this artist's music is older than some of today's osu! pla
 
 ### Operation: Evolution
 
-If you're looking for something more difficult, give [this osu! set](https://osu.ppy.sh/beatmapsets/938921) by [Yukiyo](https://osu.ppy.sh/users/4541873) a try!
+If you're looking for something more difficult, give [this osu! set](https://osu.ppy.sh/beatmapsets/938921) by ::Yukiyo::{ user-id=4541873 } a try!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/134/The%20Dimrain47%20Collection%20(2005-2012)/Dimrain47%20-%20Operation%20Evolution.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ If you're looking for something more difficult, give [this osu! set](https://osu
 
 ### At the Speed of Light
 
-Check out [this osu!catch set](https://osu.ppy.sh/beatmapsets/356680) by [ExGon](https://osu.ppy.sh/users/214187) or this [modern osu! mapset](https://osu.ppy.sh/beatmapsets/1335517) hosted by [fieryrage](https://osu.ppy.sh/users/3533958)!
+Check out [this osu!catch set](https://osu.ppy.sh/beatmapsets/356680) by ::ExGon::{ user-id=214187 } or this [modern osu! mapset](https://osu.ppy.sh/beatmapsets/1335517) hosted by ::fieryrage::{ user-id=3533958 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/134/The%20Dimrain47%20Collection%20(2005-2012)/Dimrain47%20-%20At%20the%20Speed%20of%20Light.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Check out [this osu!catch set](https://osu.ppy.sh/beatmapsets/356680) by [ExGon]
 
 ### The Kriotube
 
-Or maybe you'd rather give [this osu!taiko set](https://osu.ppy.sh/beatmapsets/762397) by [xtrem3x](https://osu.ppy.sh/users/136385) a play!
+Or maybe you'd rather give [this osu!taiko set](https://osu.ppy.sh/beatmapsets/762397) by ::xtrem3x::{ user-id=136385 } a play!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/134/The%20Dimrain47%20Collection%20(2005-2012)/Dimrain47%20-%20The%20Kriotube.mp3" type="audio/mpeg">

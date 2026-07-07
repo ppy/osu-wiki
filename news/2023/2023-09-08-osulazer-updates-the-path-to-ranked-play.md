@@ -25,7 +25,7 @@ Or, well, it actually *is* different... just read on or watch the video below to
 - **Keep "date added" order for beatmaps imported from osu!(stable).** If you're one of those people who keep track of where your beatmaps are based on when you downloaded them, this one is for you!
 - **Precise rotation controls in the editor.** `Ctrl` + `Shift` + `R` is back! ... except now it's `Ctrl` + `R` by default, but that can be changed in the options.
 - **Slider reversion fixes for some cases.** If you press `Ctrl` + `G` to reverse a slider, it should retain the exact same shape. That is now the case for a few more types of slides (but not all of them yet).
-- **General performance improvements.** ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) talks about this one in the video. The game renders things a bit more efficiently now.
+- **General performance improvements.** ::{ flag=AU }:: ::smoogipoo::{ user-id=1040328 } talks about this one in the video. The game renders things a bit more efficiently now.
 - **Gameplay leaderboard toggling with the `Tab` key.** This was already a toggle in the options, but now it's more quickly accessible.
 - **Minor changes to gameplay to match osu!(stable).** These include fixes to hit circle fade-out timing, super obscure notelock behaviour with the Classic mod and flashlight dim fading.
 - **More natural hold note conversion for the Hold Off mod in osu!mania.** The Hold Off mod converts hold notes into regular notes. Previously it would put notes at the hold note ends, which felt unnatural to players.
@@ -41,7 +41,7 @@ This update comes with a shift in developer focus announced a bit over two weeks
 
 In order for things to happen, a [GitHub project board](https://github.com/orgs/ppy/projects/13) has been made to track all of the remaining tasks. These range from creating missing infrastructure components to implementing important improvements to user experience (the quality-of-life stuff), and most importantly, rebalancing gameplay mechanics.
 
-In addition, courtesy of former tournament and top player ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), a group of top osu! players has been gathered in order to accelerate progress on more contentious discussions and resolve any stalemates. This kind of direct involvement between the team and specific groups in the osu! community will likely happen more often in the future.
+In addition, courtesy of former tournament and top player ::{ flag=GB }:: ::Bubbleman::{ user-id=5182050 }, a group of top osu! players has been gathered in order to accelerate progress on more contentious discussions and resolve any stalemates. This kind of direct involvement between the team and specific groups in the osu! community will likely happen more often in the future.
 
 Essentially, soon you'll be able to farm performance points in osu!(lazer) and have them tracked in your profile forevermore.
 

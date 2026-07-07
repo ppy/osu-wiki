@@ -19,7 +19,7 @@ Check it all out:
 
 ### Hyperlight. (feat. Tsuyuri Karin)
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1255500) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134) of the Mappers' Guild!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1255500) hosted by ::Jemzuu::{ user-id=7890134 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/106/previews/2785.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1255500) hosted by 
 
 ### Fly High (feat. rerone)
 
-Check out [this classic, contest-winning set from 2016](https://osu.ppy.sh/beatmapsets/490172) hosted by [awayuru](https://osu.ppy.sh/users/87546)!
+Check out [this classic, contest-winning set from 2016](https://osu.ppy.sh/beatmapsets/490172) hosted by ::awayuru::{ user-id=87546 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/106/previews/2783.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this classic, contest-winning set from 2016](https://osu.ppy.sh/beatm
 
 ### Nick of Time
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1262594) by [Sonnyc](https://osu.ppy.sh/users/11771) of the Mappers' Guild!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1262594) by ::Sonnyc::{ user-id=11771 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/106/previews/2793.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1262594) by [Sonnyc
 
 ### SKY HIGH (feat. rerone)
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1254502) by [Gero](https://osu.ppy.sh/users/1467715) of the Mappers' Guild!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1254502) by ::Gero::{ user-id=1467715 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/106/previews/2796.mp3" type="audio/mpeg">
@@ -51,7 +51,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1254502) by [Gero](
 
 ### Crystal Illusion
 
-Check out [this set](https://osu.ppy.sh/beatmapsets/797393) hosted by [Beomsan](https://osu.ppy.sh/users/3626063), and [this set](https://osu.ppy.sh/beatmapsets/791944) hosted by [Riana](https://osu.ppy.sh/users/1997633)!
+Check out [this set](https://osu.ppy.sh/beatmapsets/797393) hosted by ::Beomsan::{ user-id=3626063 }, and [this set](https://osu.ppy.sh/beatmapsets/791944) hosted by ::Riana::{ user-id=1997633 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/106/previews/2779.mp3" type="audio/mpeg">
@@ -59,7 +59,7 @@ Check out [this set](https://osu.ppy.sh/beatmapsets/797393) hosted by [Beomsan](
 
 ### Feelings of fake (feat. Tsuyuri Karin)
 
-Check out [this set](https://osu.ppy.sh/beatmapsets/921855) hosted by [Heilia](https://osu.ppy.sh/users/9823042)!
+Check out [this set](https://osu.ppy.sh/beatmapsets/921855) hosted by ::Heilia::{ user-id=9823042 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/106/previews/2782.mp3" type="audio/mpeg">

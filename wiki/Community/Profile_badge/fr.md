@@ -33,7 +33,7 @@ Dans le [client](/wiki/Client) et sur le site web, les badges sont purement déc
 
 Plutôt que d'empiler les badges horizontalement dans un conteneur couvrant toute la page, l'ancien site web les empilait verticalement entre le nom d'utilisateur et le drapeau du pays.
 
-Un effet secondaire de ce schéma de mise en page était que la hauteur par défaut, non élargie, des [pages utilisateur](/wiki/osu!supporter#couverture-du-profil) pouvait être augmentée en gagnant plus de badges. Bien que cela n'ait pas été voulu, c'est devenu une blague dans la communauté des tournois. ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) l'a montré dans [un tweet populaire](https://twitter.com/droombs/status/1036050610687074304), en affichant son record de badges gagnés au moment de la publication.
+Un effet secondaire de ce schéma de mise en page était que la hauteur par défaut, non élargie, des [pages utilisateur](/wiki/osu!supporter#couverture-du-profil) pouvait être augmentée en gagnant plus de badges. Bien que cela n'ait pas été voulu, c'est devenu une blague dans la communauté des tournois. ::{ flag=US }:: ::Toy::{ user-id=2757689 } l'a montré dans [un tweet populaire](https://twitter.com/droombs/status/1036050610687074304), en affichant son record de badges gagnés au moment de la publication.
 
 ## Le saviez-vous ?
 
@@ -41,6 +41,6 @@ Un effet secondaire de ce schéma de mise en page était que la hauteur par déf
 ![](https://assets.ppy.sh/profile-badges/tagwinner.png "Badge de première place du tournoi Tag")
 :::
 
-- Les deux premiers badges de profil ont été attribués à ::{ flag=PL }:: [niedzwiedz1124](https://osu.ppy.sh/users/9610) et ::{ flag=PL }:: [White Wolf](https://osu.ppy.sh/users/39828) le 6 septembre 2009, pour [avoir gagné *Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169).
+- Les deux premiers badges de profil ont été attribués à ::{ flag=PL }:: ::niedzwiedz1124::{ user-id=9610 } et ::{ flag=PL }:: ::White Wolf::{ user-id=39828 } le 6 septembre 2009, pour [avoir gagné *Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169).
 - Les badges peuvent renvoyer à d'autres pages web pour plus de contexte, comme la page du forum d'un tournoi ou d'un article du wiki.
 - Les badges empêchent les autres de [prendre le nom d'utilisateur actuel ou passé du joueur](/wiki/Help_centre/Account#prendre-nom-d'utilisateur-existant).

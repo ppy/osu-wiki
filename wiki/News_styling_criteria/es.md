@@ -6,7 +6,7 @@ Las **noticias**, existen en un sistema ligeramente diferente al de la wiki prin
 
 Al igual que los artículos de la wiki, todas las noticias deben tener un mínimo de ortografía y gramática correctas, así como información correcta y actualizada.
 
-Cualquiera que esté interesado en contribuir o escribir noticias puede enviar un mensaje en el canal `#osu-news` del [servidor de Discord osu!](https://discord.com/invite/ppy). También pueden ponerse en contacto con ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) o cualquier [mantenedor de la wiki o de las noticias](/wiki/People/osu!_wiki_maintainers) activo.
+Cualquiera que esté interesado en contribuir o escribir noticias puede enviar un mensaje en el canal `#osu-news` del [servidor de Discord osu!](https://discord.com/invite/ppy). También pueden ponerse en contacto con ::{ flag=TN }:: ::Hivie::{ user-id=14102976 }, ::{ flag=ES }:: ::RandomeLoL::{ user-id=7080063 }, ::{ flag=SE }:: ::Walavouchey::{ user-id=5773079 } o cualquier [mantenedor de la wiki o de las noticias](/wiki/People/osu!_wiki_maintainers) activo.
 
 Para torneos y concursos, los anuncios de las inscripciones en noticias específicas requieren la aprobación previa del [Comité de Torneos](/wiki/People/Tournament_Committee) y del [Comité de Concursos](/wiki/People/Tournament_Committee#comité-de-concursos), respectivamente. Consulta las páginas [Soporte oficial para torneos](/wiki/Tournaments/Official_support) y [Soporte oficial para concursos de beatmapping](/wiki/Contests/Official_support) para conocer las reglas y obtener más información al respecto.
 

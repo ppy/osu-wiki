@@ -48,54 +48,54 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusia, Rusia | Evaluation |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Tionghoa | Evaluation |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugis | Evaluation |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Belanda | Evaluation |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Tionghoa | Evaluation |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Jerman | Evaluation, structural |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Tionghoa | Evaluation |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Structural |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Kanton, Tionghoa | Evaluation |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Tionghoa | Evaluation |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, structural |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Belanda | Evaluation |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polski | Evaluation |
+| ::{ flag=GB }:: ::-Mo-::{ user-id=2202163 } |  | Structural |
+| ::{ flag=BY }:: ::AirinCat::{ user-id=11119539 } | Belarusia, Rusia | Evaluation |
+| ::{ flag=HK }:: ::Chaoslitz::{ user-id=3621552 } | Kanton, Tionghoa | Evaluation |
+| ::{ flag=BR }:: ::Dada::{ user-id=9119507 } | Portugis | Evaluation |
+| ::{ flag=AU }:: ::elicz1::{ user-id=8039342 } |  | Evaluation |
+| ::{ flag=BE }:: ::enneya::{ user-id=10959501 } | Belanda | Evaluation |
+| ::{ flag=CN }:: ::Firika::{ user-id=9590557 } | Tionghoa | Evaluation |
+| ::{ flag=DE }:: ::FuJu::{ user-id=10773882 } | Jerman | Evaluation, structural |
+| ::{ flag=CN }:: ::Garden::{ user-id=2849992 } | Tionghoa | Evaluation |
+| ::{ flag=SE }:: ::Naxess::{ user-id=8129817 } | Swedia | Structural |
+| ::{ flag=US }:: ::Noffy::{ user-id=1541323 } |  | Evaluation |
+| ::{ flag=HK }:: ::Petal::{ user-id=7354729 } | Kanton, Tionghoa | Evaluation |
+| ::{ flag=US }:: ::pishifat::{ user-id=3178418 } |  | Structural |
+| ::{ flag=CN }:: ::Ryuusei Aika::{ user-id=7777875 } | Tionghoa | Evaluation |
+| ::{ flag=US }:: ::StarCastler::{ user-id=12402453 } |  | Evaluation, structural |
+| ::{ flag=BE }:: ::yaspo::{ user-id=4945926 } | Belanda | Evaluation |
+| ::{ flag=US }:: ::Yogurtt::{ user-id=2649717 } |  | Evaluation |
+| ::{ flag=PL }:: ::Zelq::{ user-id=8953955 } | Polski | Evaluation |
 
 ### osu!taiko
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Jerman | Evaluation |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, sedikit Arab | Evaluation |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arab, Perancis, sedikit Italia | Leadership |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugis | Evaluation |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |
+| ::{ flag=DE }:: ::Capu::{ user-id=2474015 } | Jerman | Evaluation |
+| ::{ flag=GB }:: ::Dusk-::{ user-id=6092181 } | Urdu, sedikit Arab | Evaluation |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | Arab, Perancis, sedikit Italia | Leadership |
+| ::{ flag=BR }:: ::Ideal::{ user-id=3869519 } | Portugis | Evaluation |
+| ::{ flag=US }:: ::radar::{ user-id=7131099 } |  | Leadership |
 
 ### osu!catch
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanyol, Jerman | Evaluation |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Belanda | Evaluation |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluation |
+| ::{ flag=ES }:: ::Deif::{ user-id=318565 } | Spanyol, Jerman | Evaluation |
+| ::{ flag=NL }:: ::Greaper::{ user-id=2369776 } | Belanda | Evaluation |
+| ::{ flag=US }:: ::Secre::{ user-id=2306637 } |  | Evaluation |
 
 ### osu!mania
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnam | Evaluation |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Tionghoa | Evaluation |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesia | Evaluation |
-| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Dansk | Evaluation |
+| ::{ flag=VN }:: ::Akasha-::{ user-id=2596306 } | Vietnam | Evaluation |
+| ::{ flag=CN }:: ::gzdongsheng::{ user-id=8660315 } | Tionghoa | Evaluation |
+| ::{ flag=ID }:: ::Maxus::{ user-id=4335785 } | Indonesia | Evaluation |
+| ::{ flag=DK }:: ::Tailsdk::{ user-id=6751666 } | Dansk | Evaluation |
 
 ### Akun bot
 
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
+| ::{ flag=XX }:: ::Nomination Assessment Team::{ user-id=6616586 } |  |  |

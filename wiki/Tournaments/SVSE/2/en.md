@@ -8,7 +8,7 @@ tags:
 
 ![SVSE2 logo](img/logo.png)
 
-The **SV: Summer Exhibition 2** (***SVSE 2***) was a team-based osu!mania 4K tournament hosted by ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416).
+The **SV: Summer Exhibition 2** (***SVSE 2***) was a team-based osu!mania 4K tournament hosted by ::{ flag=CL }:: ::WalterToro::{ user-id=5281416 }.
 
 ## Tournament schedule
 
@@ -40,12 +40,12 @@ The SV: Summer Exhibition 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Orca-](https://osu.ppy.sh/users/7958845) |
-| Mappers | ::{ flag=JP }:: [\[Fairy\]Phy](https://osu.ppy.sh/users/4777360), ::{ flag=PL }:: [Archaic84](https://osu.ppy.sh/users/8611177), ::{ flag=SG }:: [awdse22](https://osu.ppy.sh/users/8743513), ::{ flag=FR }:: [BlackyDay](https://osu.ppy.sh/users/5724831), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=SG }:: [Neon-Hooray](https://osu.ppy.sh/users/24058560), ::{ flag=PH }:: [notapplicable](https://osu.ppy.sh/users/7170536), ::{ flag=US }:: [NovaSagittarii](https://osu.ppy.sh/users/11664177), ::{ flag=US }:: [Orca-](https://osu.ppy.sh/users/7958845), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402) |
-| Map Testers | ::{ flag=VN }:: [\[LS\]Tokiyume](https://osu.ppy.sh/users/13219309), ::{ flag=SG }:: [awdse22](https://osu.ppy.sh/users/8743513), ::{ flag=ID }:: [AZKiFanboy](https://osu.ppy.sh/users/5179764), ::{ flag=FR }:: [BlackyDay](https://osu.ppy.sh/users/5724831), ::{ flag=US }:: [Orca-](https://osu.ppy.sh/users/7958845), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Referee | ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [AlbionTheGreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=TH }:: [Infinitstart](https://osu.ppy.sh/users/4026124), ::{ flag=SE }:: [Logg45vs](https://osu.ppy.sh/users/8684540), ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657), ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Statistician | ::{ flag=SE }:: [Mestro](https://osu.ppy.sh/users/4798263) |
-| Designer | ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850) |
+| Host | ::{ flag=CL }:: ::WalterToro::{ user-id=5281416 }, ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 }, ::{ flag=US }:: ::Orca-::{ user-id=7958845 } |
+| Mappers | ::{ flag=JP }:: ::\[Fairy\]Phy::{ user-id=4777360 }, ::{ flag=PL }:: ::Archaic84::{ user-id=8611177 }, ::{ flag=SG }:: ::awdse22::{ user-id=8743513 }, ::{ flag=FR }:: ::BlackyDay::{ user-id=5724831 }, ::{ flag=GB }:: ::H1Pur::{ user-id=15756120 }, ::{ flag=SG }:: ::Neon-Hooray::{ user-id=24058560 }, ::{ flag=PH }:: ::notapplicable::{ user-id=7170536 }, ::{ flag=US }:: ::NovaSagittarii::{ user-id=11664177 }, ::{ flag=US }:: ::Orca-::{ user-id=7958845 }, ::{ flag=TH }:: ::RuleBlazing::{ user-id=7312402 } |
+| Map Testers | ::{ flag=VN }:: ::\[LS\]Tokiyume::{ user-id=13219309 }, ::{ flag=SG }:: ::awdse22::{ user-id=8743513 }, ::{ flag=ID }:: ::AZKiFanboy::{ user-id=5179764 }, ::{ flag=FR }:: ::BlackyDay::{ user-id=5724831 }, ::{ flag=US }:: ::Orca-::{ user-id=7958845 }, ::{ flag=CL }:: ::WalterToro::{ user-id=5281416 } |
+| Referee | ::{ flag=US }:: ::akace100::{ user-id=9308128 }, ::{ flag=NL }:: ::AlbionTheGreat::{ user-id=9853595 }, ::{ flag=US }:: ::Dynascape::{ user-id=8784587 }, ::{ flag=TH }:: ::Infinitstart::{ user-id=4026124 }, ::{ flag=SE }:: ::Logg45vs::{ user-id=8684540 }, ::{ flag=VN }:: ::Poity::{ user-id=17148657 }, ::{ flag=CN }:: ::shizehao::{ user-id=4928674 }, ::{ flag=US }:: ::SunApple::{ user-id=11817622 }, ::{ flag=DE }:: ::TheHunter1::{ user-id=6496016 }, ::{ flag=CL }:: ::WalterToro::{ user-id=5281416 } |
+| Statistician | ::{ flag=SE }:: ::Mestro::{ user-id=4798263 } |
+| Designer | ::{ flag=PH }:: ::Normiplier::{ user-id=10069850 } |
 
 ## Links
 
@@ -58,50 +58,50 @@ The SV: Summer Exhibition 2 was run by various community members.
 
 | Team Name | Members |
 | :-: | :-- |
-| 25110054 | ::{ flag=US }:: [DarkMew2](https://osu.ppy.sh/users/13921965), ::{ flag=FR }:: [quentin5110054](https://osu.ppy.sh/users/8756421) |
-| :1217angry: | ::{ flag=TW }:: [blacktea12](https://osu.ppy.sh/users/13389861), ::{ flag=TW }:: [Pdog4ni](https://osu.ppy.sh/users/14581544) |
-| :yangu: | ::{ flag=ID }:: [Mipha-](https://osu.ppy.sh/users/5767941), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722) |
-| 3 tortues trotaient sur 1 toit | ::{ flag=FR }:: [Babibelbleu](https://osu.ppy.sh/users/16892459), ::{ flag=FR }:: [narahashi](https://osu.ppy.sh/users/18867523) |
-| barudak gulanova | ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
-| Beans On Toast | ::{ flag=US }:: [\[GS\]LeBean](https://osu.ppy.sh/users/10472266), ::{ flag=GB }:: [ToastY\_086](https://osu.ppy.sh/users/24606667) |
-| Billy et son chien | ::{ flag=FR }:: [Elementaires](https://osu.ppy.sh/users/2284328), ::{ flag=FR }:: [billiack](https://osu.ppy.sh/users/14013641) |
-| Boykissers | ::{ flag=BR }:: [Kenyuri](https://osu.ppy.sh/users/30467254), ::{ flag=BR }:: [MilesNoobkk](https://osu.ppy.sh/users/22656756) |
-| broke on mems | ::{ flag=US }:: [\[TCJ\]ScanL](https://osu.ppy.sh/users/11762834), ::{ flag=US }:: [Yucky](https://osu.ppy.sh/users/7842506) |
-| Chomper From PVZ | ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303), ::{ flag=US }:: [\[LS\]Mari](https://osu.ppy.sh/users/15270411) |
-| CrôälaïnË | ::{ flag=FR }:: [Baguette2Pain](https://osu.ppy.sh/users/11818585), ::{ flag=FR }:: [poketoine](https://osu.ppy.sh/users/27254270) |
-| cta lovers | ::{ flag=VN }:: [\_Moni\_](https://osu.ppy.sh/users/9710653), ::{ flag=VN }:: [Mystil Dino](https://osu.ppy.sh/users/6171675) |
-| De Grachtengordelse Shavuiten | ::{ flag=NL }:: [kyudomaster](https://osu.ppy.sh/users/7267807), ::{ flag=NL }:: [Promachos](https://osu.ppy.sh/users/14069486) |
-| Descendants of Arccat | ::{ flag=PH }:: [\[KN\]CuB-03](https://osu.ppy.sh/users/18560307), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| emballé c'est pesé | ::{ flag=FR }:: [Mokett](https://osu.ppy.sh/users/14535598), ::{ flag=FR }:: [Simca\_](https://osu.ppy.sh/users/9718775) |
-| Forniteloliclub | ::{ flag=MX }:: [TheMoonLoop](https://osu.ppy.sh/users/15628036), ::{ flag=BO }:: [xhalez](https://osu.ppy.sh/users/21478615) |
-| gaki wa oshimai! | ::{ flag=JP }:: [ICECAKE](https://osu.ppy.sh/users/16100800), ::{ flag=JP }:: [gyoza\_goki](https://osu.ppy.sh/users/18144664) |
-| gensokyo harem | ::{ flag=DE }:: [araciumhd](https://osu.ppy.sh/users/15882740), ::{ flag=BH }:: [Unitori-](https://osu.ppy.sh/users/15772814) |
-| HiraNewsonFlow (by ChatGPT) | ::{ flag=GB }:: [Fanahira](https://osu.ppy.sh/users/7415829), ::{ flag=GB }:: [XxNewson1234xX](https://osu.ppy.sh/users/9895650) |
-| Jouœurs rincés | ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=FR }:: [jeremkyurem](https://osu.ppy.sh/users/13431947) |
-| Kim Petras ft. Mili | ::{ flag=PH }:: [iid3rp](https://osu.ppy.sh/users/23274559), ::{ flag=AU }:: [AnatharaX](https://osu.ppy.sh/users/14390680) |
-| kouvola mcdonalds meetup | ::{ flag=FI }:: [Mazzuli500](https://osu.ppy.sh/users/10648818), ::{ flag=FI }:: [ERA Fisu](https://osu.ppy.sh/users/12545346) |
-| KuruMi KonbanMi | ::{ flag=JP }:: [Mi0117](https://osu.ppy.sh/users/15501680), ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604) |
-| Los Simsimi | ::{ flag=MX }:: [N4iveDx](https://osu.ppy.sh/users/21340543), ::{ flag=MX }:: [Sillot](https://osu.ppy.sh/users/29716889) |
-| Losmatapro | ::{ flag=CO }:: [JoseMGS](https://osu.ppy.sh/users/21389992), ::{ flag=CO }:: [Foxy2431](https://osu.ppy.sh/users/23708040) |
-| Makuron de misshon | ::{ flag=FR }:: [PatouZ](https://osu.ppy.sh/users/7306522), ::{ flag=JP }:: [yomogi237](https://osu.ppy.sh/users/28571440) |
-| mlem | ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367), ::{ flag=PE }:: [Kamikho](https://osu.ppy.sh/users/12664851) |
-| mrrp mrrp meow | ::{ flag=SG }:: [McButt](https://osu.ppy.sh/users/18018708), ::{ flag=SG }:: [megasheeper](https://osu.ppy.sh/users/21903060) |
-| Nepka Hunters | ::{ flag=RU }:: [Waring0](https://osu.ppy.sh/users/24972284), ::{ flag=RU }:: [kloofhi](https://osu.ppy.sh/users/29627572) |
-| no we're not boyfriends | ::{ flag=VN }:: [mightyxd](https://osu.ppy.sh/users/12204127), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) |
-| north sentinel island | ::{ flag=IE }:: [\[LS\]SureFir3](https://osu.ppy.sh/users/24495218), ::{ flag=US }:: [cyger](https://osu.ppy.sh/users/20020441) |
-| play rabi-ribi after this | ::{ flag=CN }:: [\[Lily\_White\]](https://osu.ppy.sh/users/12749779), ::{ flag=CN }:: [Blue\_Potion](https://osu.ppy.sh/users/13094831) |
-| sata andagi! | ::{ flag=DE }:: [ERA medium kek](https://osu.ppy.sh/users/11625617), ::{ flag=DE }:: [ERA Sirbeyy](https://osu.ppy.sh/users/12917829) |
-| Schizo Velocity | ::{ flag=MX }:: [\[Crz\]Envy](https://osu.ppy.sh/users/11817815), ::{ flag=US }:: [ASharpp](https://osu.ppy.sh/users/12657177) |
-| Scrambled Eggs | ::{ flag=GB }:: [MiniEgg\_23](https://osu.ppy.sh/users/25914360), ::{ flag=GB }:: [\_Squiddy\_](https://osu.ppy.sh/users/24227505) |
-| SVn't | ::{ flag=US }:: [AdrianLazer](https://osu.ppy.sh/users/10292643), ::{ flag=PH }:: [trappy](https://osu.ppy.sh/users/19481261) |
-| svssy baka | ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444) |
-| Taiko Main forced into SV | ::{ flag=US }:: [ERA Zenith](https://osu.ppy.sh/users/7128063), ::{ flag=US }:: [Klarion](https://osu.ppy.sh/users/13857986) |
-| team a | ::{ flag=NL }:: [Shoira](https://osu.ppy.sh/users/13377652), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789) |
-| Team at | ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=NL }:: [NightNarumi](https://osu.ppy.sh/users/4381142) |
-| TescoMealDeal | ::{ flag=GB }:: [Usie](https://osu.ppy.sh/users/16162078), ::{ flag=GB }:: [--Dragon--](https://osu.ppy.sh/users/11924624) |
-| The Hard Balls | ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962), ::{ flag=US }:: [ERA Basil](https://osu.ppy.sh/users/7097990) |
-| vingt-sept | ::{ flag=FR }:: [Satsukel](https://osu.ppy.sh/users/9066390), ::{ flag=FR }:: [Adri](https://osu.ppy.sh/users/4579132) |
-| 不玩原神不玩的 | ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [Echo\_XF](https://osu.ppy.sh/users/25630297) |
+| 25110054 | ::{ flag=US }:: ::DarkMew2::{ user-id=13921965 }, ::{ flag=FR }:: ::quentin5110054::{ user-id=8756421 } |
+| :1217angry: | ::{ flag=TW }:: ::blacktea12::{ user-id=13389861 }, ::{ flag=TW }:: ::Pdog4ni::{ user-id=14581544 } |
+| :yangu: | ::{ flag=ID }:: ::Mipha-::{ user-id=5767941 }, ::{ flag=AU }:: ::PotassiumF::{ user-id=4247722 } |
+| 3 tortues trotaient sur 1 toit | ::{ flag=FR }:: ::Babibelbleu::{ user-id=16892459 }, ::{ flag=FR }:: ::narahashi::{ user-id=18867523 } |
+| barudak gulanova | ::{ flag=ID }:: ::-Yubi-::{ user-id=17851478 }, ::{ flag=ID }:: ::Reihynn::{ user-id=16630515 } |
+| Beans On Toast | ::{ flag=US }:: ::\[GS\]LeBean::{ user-id=10472266 }, ::{ flag=GB }:: ::ToastY\_086::{ user-id=24606667 } |
+| Billy et son chien | ::{ flag=FR }:: ::Elementaires::{ user-id=2284328 }, ::{ flag=FR }:: ::billiack::{ user-id=14013641 } |
+| Boykissers | ::{ flag=BR }:: ::Kenyuri::{ user-id=30467254 }, ::{ flag=BR }:: ::MilesNoobkk::{ user-id=22656756 } |
+| broke on mems | ::{ flag=US }:: ::\[TCJ\]ScanL::{ user-id=11762834 }, ::{ flag=US }:: ::Yucky::{ user-id=7842506 } |
+| Chomper From PVZ | ::{ flag=US }:: ::Znow::{ user-id=15513303 }, ::{ flag=US }:: ::\[LS\]Mari::{ user-id=15270411 } |
+| CrôälaïnË | ::{ flag=FR }:: ::Baguette2Pain::{ user-id=11818585 }, ::{ flag=FR }:: ::poketoine::{ user-id=27254270 } |
+| cta lovers | ::{ flag=VN }:: ::\_Moni\_::{ user-id=9710653 }, ::{ flag=VN }:: ::Mystil Dino::{ user-id=6171675 } |
+| De Grachtengordelse Shavuiten | ::{ flag=NL }:: ::kyudomaster::{ user-id=7267807 }, ::{ flag=NL }:: ::Promachos::{ user-id=14069486 } |
+| Descendants of Arccat | ::{ flag=PH }:: ::\[KN\]CuB-03::{ user-id=18560307 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user-id=11517895 } |
+| emballé c'est pesé | ::{ flag=FR }:: ::Mokett::{ user-id=14535598 }, ::{ flag=FR }:: ::Simca\_::{ user-id=9718775 } |
+| Forniteloliclub | ::{ flag=MX }:: ::TheMoonLoop::{ user-id=15628036 }, ::{ flag=BO }:: ::xhalez::{ user-id=21478615 } |
+| gaki wa oshimai! | ::{ flag=JP }:: ::ICECAKE::{ user-id=16100800 }, ::{ flag=JP }:: ::gyoza\_goki::{ user-id=18144664 } |
+| gensokyo harem | ::{ flag=DE }:: ::araciumhd::{ user-id=15882740 }, ::{ flag=BH }:: ::Unitori-::{ user-id=15772814 } |
+| HiraNewsonFlow (by ChatGPT) | ::{ flag=GB }:: ::Fanahira::{ user-id=7415829 }, ::{ flag=GB }:: ::XxNewson1234xX::{ user-id=9895650 } |
+| Jouœurs rincés | ::{ flag=FR }:: ::Paturages::{ user-id=1375479 }, ::{ flag=FR }:: ::jeremkyurem::{ user-id=13431947 } |
+| Kim Petras ft. Mili | ::{ flag=PH }:: ::iid3rp::{ user-id=23274559 }, ::{ flag=AU }:: ::AnatharaX::{ user-id=14390680 } |
+| kouvola mcdonalds meetup | ::{ flag=FI }:: ::Mazzuli500::{ user-id=10648818 }, ::{ flag=FI }:: ::ERA Fisu::{ user-id=12545346 } |
+| KuruMi KonbanMi | ::{ flag=JP }:: ::Mi0117::{ user-id=15501680 }, ::{ flag=JP }:: ::CrewK::{ user-id=11488604 } |
+| Los Simsimi | ::{ flag=MX }:: ::N4iveDx::{ user-id=21340543 }, ::{ flag=MX }:: ::Sillot::{ user-id=29716889 } |
+| Losmatapro | ::{ flag=CO }:: ::JoseMGS::{ user-id=21389992 }, ::{ flag=CO }:: ::Foxy2431::{ user-id=23708040 } |
+| Makuron de misshon | ::{ flag=FR }:: ::PatouZ::{ user-id=7306522 }, ::{ flag=JP }:: ::yomogi237::{ user-id=28571440 } |
+| mlem | ::{ flag=DE }:: ::ERA Punish::{ user-id=10615367 }, ::{ flag=PE }:: ::Kamikho::{ user-id=12664851 } |
+| mrrp mrrp meow | ::{ flag=SG }:: ::McButt::{ user-id=18018708 }, ::{ flag=SG }:: ::megasheeper::{ user-id=21903060 } |
+| Nepka Hunters | ::{ flag=RU }:: ::Waring0::{ user-id=24972284 }, ::{ flag=RU }:: ::kloofhi::{ user-id=29627572 } |
+| no we're not boyfriends | ::{ flag=VN }:: ::mightyxd::{ user-id=12204127 }, ::{ flag=VN }:: ::Lott::{ user-id=13821222 } |
+| north sentinel island | ::{ flag=IE }:: ::\[LS\]SureFir3::{ user-id=24495218 }, ::{ flag=US }:: ::cyger::{ user-id=20020441 } |
+| play rabi-ribi after this | ::{ flag=CN }:: ::\[Lily\_White\]::{ user-id=12749779 }, ::{ flag=CN }:: ::Blue\_Potion::{ user-id=13094831 } |
+| sata andagi! | ::{ flag=DE }:: ::ERA medium kek::{ user-id=11625617 }, ::{ flag=DE }:: ::ERA Sirbeyy::{ user-id=12917829 } |
+| Schizo Velocity | ::{ flag=MX }:: ::\[Crz\]Envy::{ user-id=11817815 }, ::{ flag=US }:: ::ASharpp::{ user-id=12657177 } |
+| Scrambled Eggs | ::{ flag=GB }:: ::MiniEgg\_23::{ user-id=25914360 }, ::{ flag=GB }:: ::\_Squiddy\_::{ user-id=24227505 } |
+| SVn't | ::{ flag=US }:: ::AdrianLazer::{ user-id=10292643 }, ::{ flag=PH }:: ::trappy::{ user-id=19481261 } |
+| svssy baka | ::{ flag=SG }:: ::Polytetral::{ user-id=8612061 }, ::{ flag=PE }:: ::ERA Xuste::{ user-id=17989444 } |
+| Taiko Main forced into SV | ::{ flag=US }:: ::ERA Zenith::{ user-id=7128063 }, ::{ flag=US }:: ::Klarion::{ user-id=13857986 } |
+| team a | ::{ flag=NL }:: ::Shoira::{ user-id=13377652 }, ::{ flag=NL }:: ::Saemitsu::{ user-id=14262789 } |
+| Team at | ::{ flag=NL }:: ::DannyPX::{ user-id=11253722 }, ::{ flag=NL }:: ::NightNarumi::{ user-id=4381142 } |
+| TescoMealDeal | ::{ flag=GB }:: ::Usie::{ user-id=16162078 }, ::{ flag=GB }:: ::--Dragon--::{ user-id=11924624 } |
+| The Hard Balls | ::{ flag=CA }:: ::walmart5193::{ user-id=16468962 }, ::{ flag=US }:: ::ERA Basil::{ user-id=7097990 } |
+| vingt-sept | ::{ flag=FR }:: ::Satsukel::{ user-id=9066390 }, ::{ flag=FR }:: ::Adri::{ user-id=4579132 } |
+| 不玩原神不玩的 | ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user-id=16586663 }, ::{ flag=CN }:: ::Echo\_XF::{ user-id=25630297 } |
 
 ## Podium
 
@@ -109,10 +109,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team | Players |
 | :-: | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **gaki wa oshimai!** | ::{ flag=JP }:: [ICECAKE](https://osu.ppy.sh/users/16100800), ::{ flag=JP }:: [gyoza\_goki](https://osu.ppy.sh/users/18144664) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **no we're not boyfriends** | ::{ flag=VN }:: [mightyxd](https://osu.ppy.sh/users/12204127), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **The Hard Balls** | ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962), ::{ flag=US }:: [ERA Basil](https://osu.ppy.sh/users/7097990) |
-| *4th place* | **mlem** | ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367), ::{ flag=PE }:: [Kamikho](https://osu.ppy.sh/users/12664851) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **gaki wa oshimai!** | ::{ flag=JP }:: ::ICECAKE::{ user-id=16100800 }, ::{ flag=JP }:: ::gyoza\_goki::{ user-id=18144664 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **no we're not boyfriends** | ::{ flag=VN }:: ::mightyxd::{ user-id=12204127 }, ::{ flag=VN }:: ::Lott::{ user-id=13821222 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **The Hard Balls** | ::{ flag=CA }:: ::walmart5193::{ user-id=16468962 }, ::{ flag=US }:: ::ERA Basil::{ user-id=7097990 } |
+| *4th place* | **mlem** | ::{ flag=DE }:: ::ERA Punish::{ user-id=10615367 }, ::{ flag=PE }:: ::Kamikho::{ user-id=12664851 } |
 
 ## Mappools
 

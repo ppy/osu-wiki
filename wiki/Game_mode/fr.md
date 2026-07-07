@@ -52,7 +52,7 @@ Dans *osu!catch*, des fruits de différentes variétés tombent du haut de l'éc
 
 *Page principale : [osu!mania](osu!mania)*
 
-*osu!mania* est un mode de jeu rythmique à défilement vertical (VSRG) conçu comme un simulateur de piano. Il a été principalement [introduit et implémenté](https://osu.ppy.sh/community/forums/topics/100751) par [woc2006](https://osu.ppy.sh/users/1105845), et est basé sur une variété de jeux de rythme de type tapis roulant (notamment [Dance Dance Revolution](https://fr.wikipedia.org/wiki/Dance_Dance_Revolution) et [Beatmania](https://fr.wikipedia.org/wiki/Beatmania)). Les mascottes d'osu!mania sont les jumeaux [Mani et Mari](/wiki/Mascots#mani-&-mari), tous deux aux cheveux violets et violets clairs.
+*osu!mania* est un mode de jeu rythmique à défilement vertical (VSRG) conçu comme un simulateur de piano. Il a été principalement [introduit et implémenté](https://osu.ppy.sh/community/forums/topics/100751) par ::woc2006::{ user-id=1105845 }, et est basé sur une variété de jeux de rythme de type tapis roulant (notamment [Dance Dance Revolution](https://fr.wikipedia.org/wiki/Dance_Dance_Revolution) et [Beatmania](https://fr.wikipedia.org/wiki/Beatmania)). Les mascottes d'osu!mania sont les jumeaux [Mani et Mari](/wiki/Mascots#mani-&-mari), tous deux aux cheveux violets et violets clairs.
 
 ![Gameplay d'osu!mania](/wiki/shared/mania-gameplay.jpg "Gameplay d'osu!mania")
 

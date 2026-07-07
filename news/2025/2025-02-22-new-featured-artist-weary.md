@@ -17,7 +17,7 @@ We can talk about music all day, but listening (or playing maps) is the best way
 
 ### [WEARY x Revrey - Effulgence](https://assets.ppy.sh/artists/460/Effulgence/WEARY%20x%20Revrey%20-%20Effulgence.osz)
 
-Try out [any difficulty from this full beatmap spread](https://osu.ppy.sh/beatmapsets/2234038) hosted by [Cris-](https://osu.ppy.sh/users/6175280), or preview it below!
+Try out [any difficulty from this full beatmap spread](https://osu.ppy.sh/beatmapsets/2234038) hosted by ::Cris-::{ user-id=6175280 }, or preview it below!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -27,7 +27,7 @@ Try out [any difficulty from this full beatmap spread](https://osu.ppy.sh/beatma
 
 ### [WEARY & IlluminatedGalaxy - Journey](https://assets.ppy.sh/artists/460/Journey/WEARY%20%26%20IlluminatedGalaxy%20-%20Journey.osz)
 
-Your next destination is [this 7K marathon map](https://osu.ppy.sh/beatmapsets/2216028) by [Irone OSU](https://osu.ppy.sh/users/10678230)!
+Your next destination is [this 7K marathon map](https://osu.ppy.sh/beatmapsets/2216028) by ::Irone OSU::{ user-id=10678230 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/460/Journey/WEARY%20%26%20IlluminatedGalaxy%20-%20Journey.mp3">
@@ -35,7 +35,7 @@ Your next destination is [this 7K marathon map](https://osu.ppy.sh/beatmapsets/2
 
 ### [Mega Collaboration - Starry Night (Extended Mix)](https://assets.ppy.sh/artists/460/Starry%20Night/Mega%20Collaboration%20-%20Starry%20Night%20(Extended%20Mix).osz)
 
-osu! is too intense sometimes. Relax with [this moderate marathon](https://osu.ppy.sh/beatmapsets/2195040) mapped by [P\_O](https://osu.ppy.sh/users/831979).
+osu! is too intense sometimes. Relax with [this moderate marathon](https://osu.ppy.sh/beatmapsets/2195040) mapped by ::P\_O::{ user-id=831979 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/460/Starry%20Night/Mega%20Collaboration%20-%20Starry%20Night%20(Extended%20Mix).mp3">

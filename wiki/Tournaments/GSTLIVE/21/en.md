@@ -9,7 +9,7 @@ tags:
 
 ![GST:LIVE 2021 banner](img/banner.jpg)
 
-**GST:LIVE 2021** was a 1v1 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133). It was the first instalment of GST:LIVE, held on the 14 March 2021 at Bountie Arena.
+**GST:LIVE 2021** was a 1v1 single-elimination osu! tournament hosted by ::{ flag=SG }:: ::megumic::{ user-id=7537133 }. It was the first instalment of GST:LIVE, held on the 14 March 2021 at Bountie Arena.
 
 ## Tournament schedule
 
@@ -39,10 +39,10 @@ GST:LIVE 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) |
-| GFX | ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635) |
-| On-site staff | ::{ flag=SG }:: [k\_1tty](https://osu.ppy.sh/users/5407620), ::{ flag=SG }:: [Loslite](https://osu.ppy.sh/users/6398160), ::{ flag=SG }:: [phox](https://osu.ppy.sh/users/772295), ::{ flag=SG }:: [sinn](https://osu.ppy.sh/users/4262229) |
-| Wiki editor | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) |
+| Organiser | ::{ flag=SG }:: ::megumic::{ user-id=7537133 } |
+| GFX | ::{ flag=SG }:: ::Hecatia::{ user-id=8244635 } |
+| On-site staff | ::{ flag=SG }:: ::k\_1tty::{ user-id=5407620 }, ::{ flag=SG }:: ::Loslite::{ user-id=6398160 }, ::{ flag=SG }:: ::phox::{ user-id=772295 }, ::{ flag=SG }:: ::sinn::{ user-id=4262229 } |
+| Wiki editor | ::{ flag=SG }:: ::\_gt::{ user-id=8301957 } |
 
 ## Links
 
@@ -54,14 +54,14 @@ GST:LIVE 2021 was run by various community members.
 
 In lieu of qualifiers, the participating players were selected randomly from the signups.
 
-- ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957)
-- ::{ flag=SG }:: [fausion](https://osu.ppy.sh/users/12261210)
-- ::{ flag=SG }:: [Dawnwing](https://osu.ppy.sh/users/5144534)
-- ::{ flag=SG }:: [Lunarsol](https://osu.ppy.sh/users/6622650)
-- ::{ flag=SG }:: [Rtzero](https://osu.ppy.sh/users/9262462)
-- ::{ flag=SG }:: [Stylus](https://osu.ppy.sh/users/7513711)
-- ::{ flag=SG }:: [Jazzie](https://osu.ppy.sh/users/7137463)
-- ::{ flag=SG }:: [Ayano\_](https://osu.ppy.sh/users/11413955)
+- ::{ flag=SG }:: ::\_gt::{ user-id=8301957 }
+- ::{ flag=SG }:: ::fausion::{ user-id=12261210 }
+- ::{ flag=SG }:: ::Dawnwing::{ user-id=5144534 }
+- ::{ flag=SG }:: ::Lunarsol::{ user-id=6622650 }
+- ::{ flag=SG }:: ::Rtzero::{ user-id=9262462 }
+- ::{ flag=SG }:: ::Stylus::{ user-id=7513711 }
+- ::{ flag=SG }:: ::Jazzie::{ user-id=7137463 }
+- ::{ flag=SG }:: ::Ayano\_::{ user-id=11413955 }
 
 ## Podium
 
@@ -69,8 +69,8 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=SG }:: [Dawnwing](https://osu.ppy.sh/users/5144534) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=SG }:: [Rtzero](https://osu.ppy.sh/users/9262462) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=SG }:: ::Dawnwing::{ user-id=5144534 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=SG }:: ::Rtzero::{ user-id=9262462 } |
 
 ## Mappools
 

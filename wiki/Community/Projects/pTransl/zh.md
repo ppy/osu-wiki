@@ -5,7 +5,7 @@ tags:
 
 # pTransl
 
-**li.ppy.sh**（更为人所知的名字是 **pTransl**）是一个由 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 运营和托管的社区本地化平台。它主要用于让 osu! 社区的成员能够将游戏本地化为他们自己的语言。
+**li.ppy.sh**（更为人所知的名字是 **pTransl**）是一个由 ::{ flag=AU }:: ::peppy::{ user-id=2 } 运营和托管的社区本地化平台。它主要用于让 osu! 社区的成员能够将游戏本地化为他们自己的语言。
 
 ## 服务
 

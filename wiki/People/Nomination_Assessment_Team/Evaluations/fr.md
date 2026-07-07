@@ -42,7 +42,7 @@ La phase individuelle sera affichée sur le site web des BN deux semaines avant 
 
 Lorsque trois membres de la NAT auront soumis leur évaluation, celle-ci passera à la phase de groupe. Au cours de la phase de groupe, les membres de la NAT discuteront entre eux de leurs évaluations, parviendront à un consensus et rédigeront un retour d'information sur l'évaluation. Les résultats et les commentaires varieront en fonction du BN. S'il s'avère qu'un BN n'est pas à la hauteur, il peut recevoir un avertissement ou être placé en période de probation, en fonction de la gravité du problème.
 
-Une fois les commentaires rédigés et examinés, ils seront envoyés et accompagneront tout changement de [groupe d'utilisateurs](/wiki/People/User_group) nécessaire. Les commentaires seront transmis par le [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) sous la forme d'un [message d'annonce](/wiki/Announcement_messages).
+Une fois les commentaires rédigés et examinés, ils seront envoyés et accompagneront tout changement de [groupe d'utilisateurs](/wiki/People/User_group) nécessaire. Les commentaires seront transmis par le ::Nomination Assessment Team bot::{ user-id=6616586 } sous la forme d'un [message d'annonce](/wiki/Announcement_messages).
 
 Les avertissements dus à des performances insuffisantes en tant que Beatmap Nominator à part entière sont effectifs pendant environ une année. Si un BN a des problèmes récurrents après avoir été averti récemment, il peut être retiré de la liste des Beatmap Nominators lors d'évaluations futures.
 
@@ -52,7 +52,7 @@ Les avertissements dus à des performances insuffisantes en tant que Beatmap Nom
 
 Les Beatmap Nominators peuvent démissionner du groupe à tout moment via le site web des BN. Dans ce cas, trois membres de la NAT sont chargés d'évaluer une dernière fois le nominateur, afin de déterminer si la démission est en "bons" termes ou en "mauvais" termes. Cette évaluation a un délai de 24 heures et est annoncée aux membres de la NAT dans leur channel Discord respectif.
 
-Une fois qu'un consensus sur les conditions de la démission aura été atteint, la NAT enverra au BN un message d'annonce via le [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) l'informant de son statut et de la date à laquelle il pourra, s'il le souhaite, présenter une nouvelle demande pour devenir BN.
+Une fois qu'un consensus sur les conditions de la démission aura été atteint, la NAT enverra au BN un message d'annonce via le ::Nomination Assessment Team bot::{ user-id=6616586 } l'informant de son statut et de la date à laquelle il pourra, s'il le souhaite, présenter une nouvelle demande pour devenir BN.
 
 #### Bons termes
 

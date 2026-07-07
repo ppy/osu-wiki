@@ -8,7 +8,7 @@ tags:
 
 ![o!RST 2023 logo](img/logo.png)
 
-The **osu! Romania Summer Tournament 2023** (***o!RST 2023***) was a 1v1 double elimination osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551) and ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626). It was the fifth instalment of the osu! Romania Tournament.
+The **osu! Romania Summer Tournament 2023** (***o!RST 2023***) was a 1v1 double elimination osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: ::Teetoos::{ user-id=10065874 }, ::{ flag=RO }:: ::RatonGolzache::{ user-id=11649551 } and ::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 }. It was the fifth instalment of the osu! Romania Tournament.
 
 ## Tournament schedule
 
@@ -39,15 +39,15 @@ The osu! Romania Summer Tournament 2023 was run by various community members:
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626) |
-| Mappool selector | ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645), ::{ flag=CA }:: [Takiaz](https://osu.ppy.sh/users/11177233) |
-| Mappool playtester | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=PL }:: [cezgru](https://osu.ppy.sh/users/2629617), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) |
-| Mapper | ::{ flag=FR }:: [jehukm](https://osu.ppy.sh/users/10981418), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=FR }:: [Mimiliaa](https://osu.ppy.sh/users/7117621), ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) |
-| Streamer | ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=GB }:: [Roebuck554](https://osu.ppy.sh/users/15904004) |
-| Commentator | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [Smol Ina](https://osu.ppy.sh/users/18789828), ::{ flag=RO }:: [r0botonic](https://osu.ppy.sh/users/14880483), ::{ flag=RO }:: [etn](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [AndoryuRO](https://osu.ppy.sh/users/18631525), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=RO }:: [LuchiBuchi](https://osu.ppy.sh/users/10897656) |
-| Graphics designer | ::{ flag=RO }:: [GabuTheDev](https://osu.ppy.sh/users/17063658), ::{ flag=SE }:: [Velle](https://osu.ppy.sh/users/12849926), ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=HU }:: [Indicolite](https://osu.ppy.sh/users/19309181) |
-| Referee | ::{ flag=RO }:: [calancis](https://osu.ppy.sh/users/7980091), ::{ flag=RO }:: [STRYKEX](https://osu.ppy.sh/users/15799234), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=FR }:: [jehukm](https://osu.ppy.sh/users/10981418), ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [hroni](https://osu.ppy.sh/users/14414337), ::{ flag=RO }:: [Koocie](https://osu.ppy.sh/users/8023626), ::{ flag=RO }:: [LuchiBuchi](https://osu.ppy.sh/users/10897656), ::{ flag=GB }:: [ilyt](https://osu.ppy.sh/users/9402773), ::{ flag=PL }:: [O_re_O](https://osu.ppy.sh/users/18389558) |
-| Sheet Manager | ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=FR }:: [jehukm](https://osu.ppy.sh/users/10981418), ::{ flag=RO }:: [GabuTheDev](https://osu.ppy.sh/users/17063658), ::{ flag=RO }:: [LuchiBuchi](https://osu.ppy.sh/users/10897656) |
+| Host | ::{ flag=RO }:: ::Teetoos::{ user-id=10065874 }, ::{ flag=RO }:: ::RatonGolzache::{ user-id=11649551 }, ::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 } |
+| Mappool selector | ::{ flag=GR }:: ::JackPaX::{ user-id=11226645 }, ::{ flag=CA }:: ::Takiaz::{ user-id=11177233 } |
+| Mappool playtester | ::{ flag=RO }:: ::Teetoos::{ user-id=10065874 }, ::{ flag=PL }:: ::cezgru::{ user-id=2629617 }, ::{ flag=RO }:: ::nanoya::{ user-id=12366071 } |
+| Mapper | ::{ flag=FR }:: ::jehukm::{ user-id=10981418 }, ::{ flag=RO }:: ::nanoya::{ user-id=12366071 }, ::{ flag=FR }:: ::Mimiliaa::{ user-id=7117621 }, ::{ flag=IT }:: ::Zekk::{ user-id=9704802 } |
+| Streamer | ::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 }, ::{ flag=RO }:: ::Teetoos::{ user-id=10065874 }, ::{ flag=GB }:: ::Roebuck554::{ user-id=15904004 } |
+| Commentator | ::{ flag=RO }:: ::Teetoos::{ user-id=10065874 }, ::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 }, ::{ flag=RO }:: ::RatonGolzache::{ user-id=11649551 }, ::{ flag=RO }:: ::Smol Ina::{ user-id=18789828 }, ::{ flag=RO }:: ::r0botonic::{ user-id=14880483 }, ::{ flag=RO }:: ::etn::{ user-id=4581069 }, ::{ flag=RO }:: ::AndoryuRO::{ user-id=18631525 }, ::{ flag=RO }:: ::nanoya::{ user-id=12366071 }, ::{ flag=RO }:: ::LuchiBuchi::{ user-id=10897656 } |
+| Graphics designer | ::{ flag=RO }:: ::GabuTheDev::{ user-id=17063658 }, ::{ flag=SE }:: ::Velle::{ user-id=12849926 }, ::{ flag=RO }:: ::Nice Aesthetics::{ user-id=7782553 }, ::{ flag=HU }:: ::Indicolite::{ user-id=19309181 } |
+| Referee | ::{ flag=RO }:: ::calancis::{ user-id=7980091 }, ::{ flag=RO }:: ::STRYKEX::{ user-id=15799234 }, ::{ flag=RO }:: ::FallenAngelD::{ user-id=5225626 }, ::{ flag=FR }:: ::jehukm::{ user-id=10981418 }, ::{ flag=RO }:: ::Nice Aesthetics::{ user-id=7782553 }, ::{ flag=RO }:: ::hroni::{ user-id=14414337 }, ::{ flag=RO }:: ::Koocie::{ user-id=8023626 }, ::{ flag=RO }:: ::LuchiBuchi::{ user-id=10897656 }, ::{ flag=GB }:: ::ilyt::{ user-id=9402773 }, ::{ flag=PL }:: ::O\1re\1O::{ user-id=18389558 } |
+| Sheet Manager | ::{ flag=VN }:: ::rock-on::{ user-id=9676089 }, ::{ flag=FR }:: ::jehukm::{ user-id=10981418 }, ::{ flag=RO }:: ::GabuTheDev::{ user-id=17063658 }, ::{ flag=RO }:: ::LuchiBuchi::{ user-id=10897656 } |
 
 ## Links
 
@@ -60,10 +60,10 @@ The osu! Romania Summer Tournament 2023 was run by various community members:
 
 | Seed | Players |
 | :-- | :-- |
-| 1-8 | ::{ flag=RO }:: [etn](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890), ::{ flag=RO }:: [Razei](https://osu.ppy.sh/users/10778261), ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351), ::{ flag=RO }:: [Shrikyun](https://osu.ppy.sh/users/21644645), ::{ flag=RO }:: [_Silvian](https://osu.ppy.sh/users/8511882), ::{ flag=RO }:: [r0botonic](https://osu.ppy.sh/users/14880483), ::{ flag=RO }:: [Chiu](https://osu.ppy.sh/users/3148900) |
-| 9-16 | ::{ flag=RO }:: [roliy](https://osu.ppy.sh/users/9578404), ::{ flag=RO }:: [Kehest](https://osu.ppy.sh/users/6145000), ::{ flag=RO }:: [KeitoChan](https://osu.ppy.sh/users/10569381), ::{ flag=RO }:: [HowlPleb](https://osu.ppy.sh/users/15995105), ::{ flag=RO }:: [cristi2708](https://osu.ppy.sh/users/7552300), ::{ flag=RO }:: [Ficus Akishida](https://osu.ppy.sh/users/10345787), ::{ flag=RO }:: [gadzzaa](https://osu.ppy.sh/users/14367771), ::{ flag=RO }:: [Korinna](https://osu.ppy.sh/users/13603871) |
-| 17-24 | ::{ flag=RO }:: [AlexBelea](https://osu.ppy.sh/users/19430137), ::{ flag=RO }:: [IIANTONIOII](https://osu.ppy.sh/users/12274213), ::{ flag=RO }:: [Martin23](https://osu.ppy.sh/users/9315365), ::{ flag=RO }:: [ent](https://osu.ppy.sh/users/10261883), ::{ flag=RO }:: [Nature angel](https://osu.ppy.sh/users/16555513), ::{ flag=RO }:: [zhuqing](https://osu.ppy.sh/users/14575641), ::{ flag=RO }:: [bossuromaniei](https://osu.ppy.sh/users/19994316), ::{ flag=RO }:: [kRionik](https://osu.ppy.sh/users/15324096) |
-| 25-32 | ::{ flag=RO }:: [Paato](https://osu.ppy.sh/users/9390417), ::{ flag=RO }:: [\_Nino\_](https://osu.ppy.sh/users/8925010), ::{ flag=RO }:: [Lernaeus](https://osu.ppy.sh/users/9703390), ::{ flag=RO }:: [valked](https://osu.ppy.sh/users/28694940), ::{ flag=RO }:: [Teikem](https://osu.ppy.sh/users/16357854), ::{ flag=RO }:: [Asio_](https://osu.ppy.sh/users/19906166), ::{ flag=RO }:: [Luminous Sky](https://osu.ppy.sh/users/4429612), ::{ flag=RO }:: [AkakiKN](https://osu.ppy.sh/users/12875343) |
+| 1-8 | ::{ flag=RO }:: ::etn::{ user-id=4581069 }, ::{ flag=RO }:: ::badeu::{ user-id=1473890 }, ::{ flag=RO }:: ::Razei::{ user-id=10778261 }, ::{ flag=RO }:: ::Lucrise::{ user-id=9719351 }, ::{ flag=RO }:: ::Shrikyun::{ user-id=21644645 }, ::{ flag=RO }:: ::\1Silvian::{ user-id=8511882 }, ::{ flag=RO }:: ::r0botonic::{ user-id=14880483 }, ::{ flag=RO }:: ::Chiu::{ user-id=3148900 } |
+| 9-16 | ::{ flag=RO }:: ::roliy::{ user-id=9578404 }, ::{ flag=RO }:: ::Kehest::{ user-id=6145000 }, ::{ flag=RO }:: ::KeitoChan::{ user-id=10569381 }, ::{ flag=RO }:: ::HowlPleb::{ user-id=15995105 }, ::{ flag=RO }:: ::cristi2708::{ user-id=7552300 }, ::{ flag=RO }:: ::Ficus Akishida::{ user-id=10345787 }, ::{ flag=RO }:: ::gadzzaa::{ user-id=14367771 }, ::{ flag=RO }:: ::Korinna::{ user-id=13603871 } |
+| 17-24 | ::{ flag=RO }:: ::AlexBelea::{ user-id=19430137 }, ::{ flag=RO }:: ::IIANTONIOII::{ user-id=12274213 }, ::{ flag=RO }:: ::Martin23::{ user-id=9315365 }, ::{ flag=RO }:: ::ent::{ user-id=10261883 }, ::{ flag=RO }:: ::Nature angel::{ user-id=16555513 }, ::{ flag=RO }:: ::zhuqing::{ user-id=14575641 }, ::{ flag=RO }:: ::bossuromaniei::{ user-id=19994316 }, ::{ flag=RO }:: ::kRionik::{ user-id=15324096 } |
+| 25-32 | ::{ flag=RO }:: ::Paato::{ user-id=9390417 }, ::{ flag=RO }:: ::\_Nino\_::{ user-id=8925010 }, ::{ flag=RO }:: ::Lernaeus::{ user-id=9703390 }, ::{ flag=RO }:: ::valked::{ user-id=28694940 }, ::{ flag=RO }:: ::Teikem::{ user-id=16357854 }, ::{ flag=RO }:: ::Asio\1::{ user-id=19906166 }, ::{ flag=RO }:: ::Luminous Sky::{ user-id=4429612 }, ::{ flag=RO }:: ::AkakiKN::{ user-id=12875343 } |
 
 ## Podium
 
@@ -71,9 +71,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=RO }:: [etn](https://osu.ppy.sh/users/4581069) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=RO }:: ::etn::{ user-id=4581069 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: ::Lucrise::{ user-id=9719351 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RO }:: ::badeu::{ user-id=1473890 } |
 
 ![o!RST 2023 podium](img/podium.png)
 

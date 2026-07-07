@@ -17,7 +17,7 @@ Check everything out:
 
 ### [ntyn - We Love Idol, and Master! (Chiptune)](https://assets.ppy.sh/artists/456/Songs/ntyn%20-%20We%20Love%20Idol%2C%20and%20Master!%20(Chiptune).osz)
 
-Here on osu!, his most recognisable tune is a chiptune rendition of [We Love Idol, and Master!](https://osu.ppy.sh/beatmapsets/2258940) hosted by [Daycore](https://osu.ppy.sh/users/5596337), showcasing just one side of **ntyn**'s multi-genre capabilities.
+Here on osu!, his most recognisable tune is a chiptune rendition of [We Love Idol, and Master!](https://osu.ppy.sh/beatmapsets/2258940) hosted by ::Daycore::{ user-id=5596337 }, showcasing just one side of **ntyn**'s multi-genre capabilities.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

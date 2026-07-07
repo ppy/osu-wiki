@@ -25,7 +25,7 @@ Check it all out:
 
 ### Headless Goddess
 
-Play through [this osu! map](https://osu.ppy.sh/beatmapsets/1568902) hosted by [Elayue](https://osu.ppy.sh/users/6400861) as seen in the video above!
+Play through [this osu! map](https://osu.ppy.sh/beatmapsets/1568902) hosted by ::Elayue::{ user-id=6400861 } as seen in the video above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/216/Headless%20Goddess/FATE%20GEAR%20-%20Headless%20Goddess.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Play through [this osu! map](https://osu.ppy.sh/beatmapsets/1568902) hosted by [
 
 ### Scars in my Life
 
-Or pick up a lifetime's worth of fruit in [this osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1507375) hosted by [Daletto](https://osu.ppy.sh/users/7592136).
+Or pick up a lifetime's worth of fruit in [this osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1507375) hosted by ::Daletto::{ user-id=7592136 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/216/OZ%20-Rebellion-/FATE%20GEAR%20-%20Scars%20in%20my%20Life.mp3" type="audio/mpeg">

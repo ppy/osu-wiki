@@ -346,7 +346,7 @@ Tag *Heading (v2)* merupakan tag lawas yang dahulu digunakan untuk menampilkan t
 
 ## Trivia
 
-- Artikel ini diadaptasi dari utas forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) yang ditulis oleh [Stefan](https://osu.ppy.sh/users/626907).
+- Artikel ini diadaptasi dari utas forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) yang ditulis oleh ::Stefan::{ user-id=626907 }.
 - Dahulu kala, terdapat sebuah *bug* yang memungkinkan pengguna untuk membuat teks transparan dengan mencantumkan warna "transparent" pada [tag colour](#colour) (`colour=transparent`).
   - Saat ini, teks yang ada akan kembali ke warna *default* (putih) pada saat warna ini dipilih.
 - Sebelum tag `imagemap` diperkenalkan, tautan dapat dibubuhkan kepada gambar dengan menggabungkan tag `url` dan `img`. Meskipun demikian, cara ini hanya dapat digunakan untuk membubuhkan satu tautan per gambarnya. Untuk membubuhkan lebih dari satu tautan, gambar tersebut harus terlebih dahulu dipotong menjadi beberapa bagian, ditautkan secara terpisah, dan kemudian disusun kembali secara berdampingan.

@@ -25,7 +25,7 @@ Need a sample? Take a sample:
 
 ### [ikaruga_nex - ReviXy](https://assets.ppy.sh/artists/446/ReviXy/ikaruga%27nex%20-%20ReviXy.osz)
 
-Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/1001172) hosted by [newbandpro](https://osu.ppy.sh/users/4820166) or [this 7K rate-changing Loved map](https://osu.ppy.sh/beatmapsets/1489038) hosted by [TakJun](https://osu.ppy.sh/users/4356322)!
+Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/1001172) hosted by ::newbandpro::{ user-id=4820166 } or [this 7K rate-changing Loved map](https://osu.ppy.sh/beatmapsets/1489038) hosted by ::TakJun::{ user-id=4356322 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/446/ReviXy/ikaruga%27nex%20-%20ReviXy.mp3">
@@ -33,7 +33,7 @@ Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/10011
 
 ### [ikaruga_nex - Mirage](https://assets.ppy.sh/artists/446/Songs/ikaruga%27nex%20-%20Mirage.osz)
 
-Or experience [this 4K Loved map](https://osu.ppy.sh/beatmapsets/486877) hosted by [inteliser](https://osu.ppy.sh/users/1824775)!
+Or experience [this 4K Loved map](https://osu.ppy.sh/beatmapsets/486877) hosted by ::inteliser::{ user-id=1824775 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/446/Songs/ikaruga%27nex%20-%20Mirage.mp3">
@@ -41,7 +41,7 @@ Or experience [this 4K Loved map](https://osu.ppy.sh/beatmapsets/486877) hosted 
 
 ### [ikaruga_nex - SICK ROCK CRAZY](https://assets.ppy.sh/artists/446/SICK%20ROCK%20CRAZY/ikaruga%27nex%20-%20SICK%20ROCK%20CRAZY.osz)
 
-Try [this tiebreaker map](https://osu.ppy.sh/beatmapsets/1838305) hosted by [JeZag](https://osu.ppy.sh/users/3087506) from [Corsace Open 2022](https://osu.ppy.sh/beatmaps/artists/381) (where the song originated) or [this 4K marathon](https://osu.ppy.sh/beatmapsets/2044131) hosted by [-mint-](https://osu.ppy.sh/users/8976576)!
+Try [this tiebreaker map](https://osu.ppy.sh/beatmapsets/1838305) hosted by ::JeZag::{ user-id=3087506 } from [Corsace Open 2022](https://osu.ppy.sh/beatmaps/artists/381) (where the song originated) or [this 4K marathon](https://osu.ppy.sh/beatmapsets/2044131) hosted by ::-mint-::{ user-id=8976576 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/446/SICK%20ROCK%20CRAZY/ikaruga%27nex%20-%20SICK%20ROCK%20CRAZY.mp3">

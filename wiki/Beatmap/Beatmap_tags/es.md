@@ -220,7 +220,7 @@ Las siguientes tablas muestran todas las etiquetas de los usuarios agrupadas por
 
 ## Curiosidades
 
-- El lanzamiento inicial de las etiquetas de los usuarios, el 21 de marzo de 2025, se inspiró en el proyecto [OMDB](https://omdb.nyahh.net/), cuyo objetivo era similar: ofrecer un sistema de etiquetas creado por los usuarios para los beatmaps. Desarrollado originalmente por ::{ flag=GB }:: [apollodw](https://osu.ppy.sh/users/9558549), el proyecto se abandonó el 1 de marzo de 2025 [por motivos personales](https://x.com/bunnygirltwink/status/1892328084893815059).
+- El lanzamiento inicial de las etiquetas de los usuarios, el 21 de marzo de 2025, se inspiró en el proyecto [OMDB](https://omdb.nyahh.net/), cuyo objetivo era similar: ofrecer un sistema de etiquetas creado por los usuarios para los beatmaps. Desarrollado originalmente por ::{ flag=GB }:: ::apollodw::{ user-id=9558549 }, el proyecto se abandonó el 1 de marzo de 2025 [por motivos personales](https://x.com/bunnygirltwink/status/1892328084893815059).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

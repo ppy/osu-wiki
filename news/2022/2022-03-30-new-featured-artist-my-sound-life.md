@@ -23,7 +23,7 @@ Want a sample of **my sound life**'s musical genius? Of course you do. Take a pe
 
 ### omega
 
-Explore [the map from the video above](https://osu.ppy.sh/beatmapsets/1728309) hosted by [Heroine](https://osu.ppy.sh/users/12727076)!
+Explore [the map from the video above](https://osu.ppy.sh/beatmapsets/1728309) hosted by ::Heroine::{ user-id=12727076 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/252/lotus/my%20sound%20life%20-%20omega.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Explore [the map from the video above](https://osu.ppy.sh/beatmapsets/1728309) h
 
 ### AIR
 
-Check out [this recently ranked classic beatmap](https://osu.ppy.sh/beatmapsets/190366) hosted by [HanzeR](https://osu.ppy.sh/users/1592447)!
+Check out [this recently ranked classic beatmap](https://osu.ppy.sh/beatmapsets/190366) hosted by ::HanzeR::{ user-id=1592447 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/252/portal%20two/my%20sound%20life%20-%20AIR.mp3" type="audio/mpeg">

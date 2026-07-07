@@ -47,9 +47,9 @@ Here's a list of the recent additions and departures from the Beatmap Nominators
 
 ### BN Additions
 
-- **osu!:** [Smoke](https://osu.ppy.sh/users/10726630), [NeKroMan4ik](https://osu.ppy.sh/users/11387664), [Battle](https://osu.ppy.sh/users/4037545), [Mir](https://osu.ppy.sh/users/8688812) & [Lasse](https://osu.ppy.sh/users/896613)
-- **osu!taiko:** [Yasuho](https://osu.ppy.sh/users/8458835)
-- **osu!catch:** [Xinely](https://osu.ppy.sh/users/1521445)
+- **osu!:** ::Smoke::{ user-id=10726630 }, [NeKroMan4ik](https://osu.ppy.sh/users/11387664), ::Battle::{ user-id=4037545 }, [Mir](https://osu.ppy.sh/users/8688812) & ::Lasse::{ user-id=896613 }
+- **osu!taiko:** ::Yasuho::{ user-id=8458835 }
+- **osu!catch:** ::Xinely::{ user-id=1521445 }
 
 Do you like modding and helping other people with their beatmaps? Do you want to see your own name on this list? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator!
 
@@ -57,12 +57,12 @@ The applications are always open, so head over to the [Beatmap Nominator website
 
 ### BN Resignations
 
-- **osu!:** [Nao Tomori](https://osu.ppy.sh/users/5364763)
-- **osu!catch:** [Rocma](https://osu.ppy.sh/users/566276)
+- **osu!:** ::Nao Tomori::{ user-id=5364763 }
+- **osu!catch:** ::Rocma::{ user-id=566276 }
 
 ### NAT Retirement
 
-After exactly 3 years of serving in the QAT/NAT, [Lasse](https://osu.ppy.sh/users/896613) has decided to step down from his position.
+After exactly 3 years of serving in the QAT/NAT, ::Lasse::{ user-id=896613 } has decided to step down from his position.
 
 However, he will continue to be present within the mapping and modding community as a Beatmap Nominator. As a consequence, we'll surely witness a huge boost in his modding activity that is already touching the heavens!
 
@@ -72,11 +72,11 @@ Thank you for all the hard work!
 
 Welcome to the 3rd cycle of the Mappers' Showcase, where we aim to show you the secret gems that are criminally underrated mappers hiding away in the community at large. This week is all about osu!, so let's get cracking:
 
-A lot of thanks to this months' selectors [Morrighan](https://osu.ppy.sh/users/12042090) and [TheKingHenry](https://osu.ppy.sh/users/5128277).
+A lot of thanks to this months' selectors ::Morrighan::{ user-id=12042090 } and [TheKingHenry](https://osu.ppy.sh/users/5128277).
 
 ### Val
 
-Hailing from the newest generation of metal mappers, [Val](https://osu.ppy.sh/users/9010492) is perhaps the most known in the community thus far from his tandem mapping effort with [SinHay](https://osu.ppy.sh/users/8855704) on the monumental mapset [Imperial Circus Dead Decadence - Songs Compilation](https://osu.ppy.sh/beatmapsets/1081431), which landed in the Loved section at the beginning of this year. While somewhat subdued in the not-so-uncommon style of compilations, this debut with its wide variety of songs at various tempos already shows a good understanding of the fundamentals and more, particularly when it comes to streams.
+Hailing from the newest generation of metal mappers, ::Val::{ user-id=9010492 } is perhaps the most known in the community thus far from his tandem mapping effort with ::SinHay::{ user-id=8855704 } on the monumental mapset [Imperial Circus Dead Decadence - Songs Compilation](https://osu.ppy.sh/beatmapsets/1081431), which landed in the Loved section at the beginning of this year. While somewhat subdued in the not-so-uncommon style of compilations, this debut with its wide variety of songs at various tempos already shows a good understanding of the fundamentals and more, particularly when it comes to streams.
 
 This prowess can be further seen on his more recent mapset [Ne Obliviscaris - Devour Me, Colossus (Part I): Blackholes](https://osu.ppy.sh/beatmapsets/1274508), where the expressiveness of the pattern design has been noticeably cranked up. In addition to the flowing streams, this marathon map also features beautifully crafted, calmer middle sections where Val showcases his ability to work with sliders and rhythmically sparser grooves.
 
@@ -86,7 +86,7 @@ Even if you prefer metal as a type of element rather than music, fret not. A gli
 
 ### Smokebloke
 
-Soon on the rise, [Smokebloke](https://osu.ppy.sh/users/7535045) *(aha Calliecube, Obamacube, or whatever else you may know them by)* has been making moves in the mapping scene and has improved their mapping to a very substantial level. Soon to rank their first beatmap, [Toromaru - Shounen wa Sora o Tadoru Prog Piano Remix](https://osu.ppy.sh/beatmapsets/1197597) as well as having their [NIWASHI - Playing With Ruby](https://osu.ppy.sh/beatmapsets/1178229) beatmap put up for the Loved voting at the very moment, Smokebloke certainly knows their way around the editor.
+Soon on the rise, ::Smokebloke::{ user-id=7535045 } *(aha Calliecube, Obamacube, or whatever else you may know them by)* has been making moves in the mapping scene and has improved their mapping to a very substantial level. Soon to rank their first beatmap, [Toromaru - Shounen wa Sora o Tadoru Prog Piano Remix](https://osu.ppy.sh/beatmapsets/1197597) as well as having their [NIWASHI - Playing With Ruby](https://osu.ppy.sh/beatmapsets/1178229) beatmap put up for the Loved voting at the very moment, Smokebloke certainly knows their way around the editor.
 
 While these projects are on the older side, their newer beatmaps only continue to improve in quality, such as [Trerey-U+NIWASHI - Hisui](https://osu.ppy.sh/beatmapsets/1303715) with its dense rhythm and solid structure, providing both a feast for your eyes but also a fun experience while playing.
 
@@ -116,7 +116,7 @@ And that's it for this month's issue of the Mappers' Report! This one was a bit 
 
 Sadly, we haven't received anything that we could get put into the Around the Community section this month, that's why we left that out. Should you know of anything mapping or modding related, be it guides, podcasts or videos, let us know, as we would love to include them in the next Mappers' Report!
 
-You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H).
+You can either directly contact ::Feerum::{ user-id=4815717 } or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H).
 
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 

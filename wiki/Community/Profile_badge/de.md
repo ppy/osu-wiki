@@ -29,7 +29,7 @@ Im [Spiel-Client](/wiki/Client) und auf der Webseite sind Abzeichen rein dekorat
 
 Anstatt die Abzeichen horizontal in einem Container zu stapeln, der sich über die gesamte Seite erstreckte, wurden sie auf der alten Webseite vertikal zwischen dem Benutzernamen und der Landesflagge des Nutzers angeordnet.
 
-Ein Nebeneffekt dieses Layout-Schemas war, dass die standardmäßige, nicht erweiterte Höhe von [Benutzerseiten](/wiki/osu!supporter#editierbare-profilsektion) durch das Sammeln weiterer Abzeichen vergrößert werden konnte. Obwohl dies nicht beabsichtigt war, wurde es zu einem Running Gag in der Turnierszene. ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) veranschaulichte dies in [einem populären Tweet](https://twitter.com/droombs/status/1036050610687074304), in dem er seinen Rekord für die meisten gewonnenen Abzeichen zum Zeitpunkt der Veröffentlichung zeigte.
+Ein Nebeneffekt dieses Layout-Schemas war, dass die standardmäßige, nicht erweiterte Höhe von [Benutzerseiten](/wiki/osu!supporter#editierbare-profilsektion) durch das Sammeln weiterer Abzeichen vergrößert werden konnte. Obwohl dies nicht beabsichtigt war, wurde es zu einem Running Gag in der Turnierszene. ::{ flag=US }:: ::Toy::{ user-id=2757689 } veranschaulichte dies in [einem populären Tweet](https://twitter.com/droombs/status/1036050610687074304), in dem er seinen Rekord für die meisten gewonnenen Abzeichen zum Zeitpunkt der Veröffentlichung zeigte.
 
 ## Trivia
 
@@ -37,6 +37,6 @@ Ein Nebeneffekt dieses Layout-Schemas war, dass die standardmäßige, nicht erwe
 ![](https://assets.ppy.sh/profile-badges/tagwinner.png "Abzeichen für den ersten Platz des Tag Tournament")
 :::
 
-- Die ersten beiden Profilabzeichen wurden am 6. September 2009 an ::{ flag=PL }:: [niedzwiedz1124](https://osu.ppy.sh/users/9610) und ::{ flag=PL }:: [White Wolf](https://osu.ppy.sh/users/39828) für den Gewinn des [*Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169) verliehen.
+- Die ersten beiden Profilabzeichen wurden am 6. September 2009 an ::{ flag=PL }:: ::niedzwiedz1124::{ user-id=9610 } und ::{ flag=PL }:: ::White Wolf::{ user-id=39828 } für den Gewinn des [*Tag Tournament*](https://osu.ppy.sh/community/forums/topics/17169) verliehen.
 - Abzeichen können für weitere Inhalte auf andere Webseiten verweisen, wie zum Beispiel einen Eintrag im Wiki oder die Forenseite eines Turniers.
 - Abzeichen hindern andere davor, [den aktuellen oder die vergangenen Namen des Spielers zu übernehmen](/wiki/Help_centre/Account#take-existing-username).

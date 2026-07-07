@@ -6,7 +6,7 @@ Vor langer Zeit, in der [fernen Vergangenheit des Spiels](https://twitter.com/pp
 
 Wenn du daran interessiert bist, Fragen zu stellen, stelle bitte sicher, dass du die weiter unten auf dieser Seite aufgeführten Richtlinien durchgelesen hast.
 
-Derzeit werden die osu! Community-Treffen von [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335) und [smoogipoo](https://osu.ppy.sh/users/1040328) geleitet.
+Derzeit werden die osu! Community-Treffen von ::peppy::{ user-id=2 }, [Ephemeral](https://osu.ppy.sh/users/102335) und ::smoogipoo::{ user-id=1040328 } geleitet.
 
 ## Sich beteiligen
 

@@ -31,12 +31,12 @@ This article covers results from the last contest, plus criteria for this contes
 
 | Placement | Users | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [-Kazuha](https://osu.ppy.sh/users/29978316) | [Raphiiel - RoquiRa : Between Life and Death](https://osu.ppy.sh/beatmapsets/2310932) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | *Elite Mapper* | +2 (7 total) |
-| Winner | [Doug](https://osu.ppy.sh/users/13806900) | [Raphiiel - RoquiRa : Between Life and Death](https://osu.ppy.sh/beatmapsets/2310932) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | +2 (2 total) |
-| Runner-up | [uone](https://osu.ppy.sh/users/5321719) | [BilliumMoto x Akiri - Cryochemistry](https://osu.ppy.sh/beatmapsets/2310911) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | - | +1 (9 total) |
-| Runner-up | [tasuke912](https://osu.ppy.sh/users/2774767) | [BilliumMoto x Akiri - Cryochemistry](https://osu.ppy.sh/beatmapsets/2310911) | - | - | +1 (3 total) |
+| Winner | ::-Kazuha::{ user-id=29978316 } | [Raphiiel - RoquiRa : Between Life and Death](https://osu.ppy.sh/beatmapsets/2310932) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | *Elite Mapper* | +2 (7 total) |
+| Winner | ::Doug::{ user-id=13806900 } | [Raphiiel - RoquiRa : Between Life and Death](https://osu.ppy.sh/beatmapsets/2310932) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | +2 (2 total) |
+| Runner-up | ::uone::{ user-id=5321719 } | [BilliumMoto x Akiri - Cryochemistry](https://osu.ppy.sh/beatmapsets/2310911) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | - | +1 (9 total) |
+| Runner-up | ::tasuke912::{ user-id=2774767 } | [BilliumMoto x Akiri - Cryochemistry](https://osu.ppy.sh/beatmapsets/2310911) | - | - | +1 (3 total) |
 
-[-Kazuha](https://osu.ppy.sh/users/29978316) and [Doug](https://osu.ppy.sh/users/13806900) produced a monster of a 10-minute marathon beatmap together, landing -Kazuha a spot in osu!'s *Elite Mappers*. Meanwhile, [tasuke912](https://osu.ppy.sh/users/2774767) and veteran *Elite Mapper* [uone](https://osu.ppy.sh/users/5321719) came in a close 2nd with their own 6-minute marathon.
+::-Kazuha::{ user-id=29978316 } and [Doug](https://osu.ppy.sh/users/13806900) produced a monster of a 10-minute marathon beatmap together, landing -Kazuha a spot in osu!'s *Elite Mappers*. Meanwhile, ::tasuke912::{ user-id=2774767 } and veteran *Elite Mapper* ::uone::{ user-id=5321719 } came in a close 2nd with their own 6-minute marathon.
 
 #### Top 10
 
@@ -44,7 +44,7 @@ This article covers results from the last contest, plus criteria for this contes
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/S41RaoHGP84" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to [arcpotato](https://osu.ppy.sh/users/12842392), [BlackBN](https://osu.ppy.sh/users/6291741), [SimplySynthy](https://osu.ppy.sh/users/15272997), and [Yasuho](https://osu.ppy.sh/users/8458835) for judging this month's maps!
+Special thanks to ::arcpotato::{ user-id=12842392 }, [BlackBN](https://osu.ppy.sh/users/6291741), ::SimplySynthy::{ user-id=15272997 }, and [Yasuho](https://osu.ppy.sh/users/8458835) for judging this month's maps!
 
 ### osu!catch results
 
@@ -54,10 +54,10 @@ Special thanks to [arcpotato](https://osu.ppy.sh/users/12842392), [BlackBN](http
 
 | Placement | User | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Jemzuu](https://osu.ppy.sh/users/7890134) | [seatrus - Hekikuu no Yakusoku](https://osu.ppy.sh/beatmapsets/2310910) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | *Elite Mapper* | +2 (6 total) |
-| Runner-up | [Mniam](https://osu.ppy.sh/users/6050530) | [Akiri - Leuenea](https://osu.ppy.sh/beatmapsets/2310966) | - | - | +1 (1 total) |
+| Winner | ::Jemzuu::{ user-id=7890134 } | [seatrus - Hekikuu no Yakusoku](https://osu.ppy.sh/beatmapsets/2310910) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | *Elite Mapper* | +2 (6 total) |
+| Runner-up | ::Mniam::{ user-id=6050530 } | [Akiri - Leuenea](https://osu.ppy.sh/beatmapsets/2310966) | - | - | +1 (1 total) |
 
-Yet another [seatrus](https://osu.ppy.sh/beatmaps/artists/185) submission pushed [Jemzuu](https://osu.ppy.sh/users/7890134) over the top and into osu!catch's *Elite Mappers*! Congratulations to him.
+Yet another [seatrus](https://osu.ppy.sh/beatmaps/artists/185) submission pushed ::Jemzuu::{ user-id=7890134 } over the top and into osu!catch's *Elite Mappers*! Congratulations to him.
 
 #### Top 10
 
@@ -65,7 +65,7 @@ Yet another [seatrus](https://osu.ppy.sh/beatmaps/artists/185) submission pushed
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/vczvDoQ0Xkw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And thanks to this month's judges: [fayew](https://osu.ppy.sh/users/12498861), [Unlucky_w](https://osu.ppy.sh/users/4820793), [Chatie](https://osu.ppy.sh/users/6524765), and [-Rustyy](https://osu.ppy.sh/users/16355636)!
+And thanks to this month's judges: ::fayew::{ user-id=12498861 }, [Unlucky_w](https://osu.ppy.sh/users/4820793), ::Chatie::{ user-id=6524765 }, and [-Rustyy](https://osu.ppy.sh/users/16355636)!
 
 ## Game modes
 
@@ -87,7 +87,7 @@ This month's contest is open to **osu!taiko** and **osu!catch** mappers.
 
 *Limitations* are a staple of the Monthly Beatmapping Contest. These are essentially extra rules that make each month's contest (and its submitted maps) distinct!
 
-If you're confused about how these work, ask for clarification in the comments, or send a message to [Hivie](https://osu.ppy.sh/community/chat?sendto=14102976) (for osu!taiko) or [Morusya](https://osu.ppy.sh/users/13681464) (for osu!catch).
+If you're confused about how these work, ask for clarification in the comments, or send a message to [Hivie](https://osu.ppy.sh/community/chat?sendto=14102976) (for osu!taiko) or ::Morusya::{ user-id=13681464 } (for osu!catch).
 
 #### osu!taiko
 

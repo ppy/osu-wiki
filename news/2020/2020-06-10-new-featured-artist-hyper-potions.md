@@ -19,7 +19,7 @@ Don't take our word for it though - check out a few samples below:
 
 ### Jungle Cruise
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1171007) from the Mappers' Guild created by [hypercyte](https://osu.ppy.sh/users/9155377)!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1171007) from the Mappers' Guild created by ::hypercyte::{ user-id=9155377 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/85/previews/2215.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1171007) from the M
 
 ### Maboroshi (feat. Synthion & MYLK)
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1175718) from the Mappers' Guild created by [Peter](https://osu.ppy.sh/users/8623835)!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1175718) from the Mappers' Guild created by ::Peter::{ user-id=8623835 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/85/previews/2220.mp3" type="audio/mpeg">

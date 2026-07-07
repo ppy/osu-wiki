@@ -32,18 +32,18 @@ tags:
 | ![](/wiki/shared/crown-silver.png) | 4个月 osu!支持者 |
 | ![](/wiki/shared/crown-bronze.png) | 2个月 osu!支持者 |
 
-本次比赛奖品由 **[Arkaaalin](https://osu.ppy.sh/users/7477382)** 赞助。
+本次比赛奖品由 **::Arkaaalin::{ user-id=7477382 }** 赞助。
 
 ## 主办团队
 
 | 团队 | 人员 |
 | :-: | :-- |
-| 比赛经理 | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256) |
-| 比赛监督 | ::{ flag=CN }:: [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| 图池管理 | ::{ flag=US }:: [qqqant](https://osu.ppy.sh/users/8976576), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) |
-| 直播裁判 | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
-| 解说团队 | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329), ::{ flag=CN }:: [Flow Light](https://osu.ppy.sh/users/6705256), ::{ flag=AU }:: [williammak](https://osu.ppy.sh/users/11083079), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540), ::{ flag=CN }:: [NimaPro](https://osu.ppy.sh/users/11524571), ::{ flag=CN }:: [IA daisuki](https://osu.ppy.sh/users/11238501) |
-| Wiki | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) |
+| 比赛经理 | ::{ flag=CN }:: ::hans1999::{ user-id=6679329 }, ::{ flag=CN }:: ::Flow Light::{ user-id=6705256 } |
+| 比赛监督 | ::{ flag=CN }:: ::SSV Normandy::{ user-id=6475977 } |
+| 图池管理 | ::{ flag=US }:: ::qqqant::{ user-id=8976576 }, ::{ flag=SG }:: ::Polytetral::{ user-id=8612061 }, ::{ flag=US }:: ::Trainer-::{ user-id=9331760 }, ::{ flag=SG }:: ::Raveille::{ user-id=1388767 } |
+| 直播裁判 | ::{ flag=CN }:: ::aiyulu::{ user-id=189617 }, ::{ flag=CN }:: ::Flow Light::{ user-id=6705256 }, ::{ flag=CN }:: ::kj415j45::{ user-id=9367540 } |
+| 解说团队 | ::{ flag=CN }:: ::hans1999::{ user-id=6679329 }, ::{ flag=CN }:: ::Flow Light::{ user-id=6705256 }, ::{ flag=AU }:: ::williammak::{ user-id=11083079 }, ::{ flag=CN }:: ::crazybrother::{ user-id=8045083 }, ::{ flag=CN }:: ::kj415j45::{ user-id=9367540 }, ::{ flag=CN }:: ::NimaPro::{ user-id=11524571 }, ::{ flag=CN }:: ::IA daisuki::{ user-id=11238501 } |
+| Wiki | ::{ flag=CN }:: ::kj415j45::{ user-id=9367540 } |
 
 ## 链接
 

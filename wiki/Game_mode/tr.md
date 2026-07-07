@@ -41,7 +41,7 @@ Varsayılan oyun modu osu!'dur. Ancak, başlatıldığında, osu! en son seçilm
 
 *Ana sayfa: [osu!mania](osu!mania)*
 
-*osu!mania* kaydırıcı tarzı bir dizi ritim oyunundan esinlenilmiştir (özellikle [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) ve Beatmania). Oyun modu başlıca olarak [woc2006](https://osu.ppy.sh/users/1105845) tarafından tanıtıldı ve oluşturuldu, ve klavye tuşlarını kullanarak gerçek bir piano çalma hissini taklit etmek için yapıldı.
+*osu!mania* kaydırıcı tarzı bir dizi ritim oyunundan esinlenilmiştir (özellikle [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) ve Beatmania). Oyun modu başlıca olarak ::woc2006::{ user-id=1105845 } tarafından tanıtıldı ve oluşturuldu, ve klavye tuşlarını kullanarak gerçek bir piano çalma hissini taklit etmek için yapıldı.
 
 ![osu!mania'nın oynanışı](/wiki/shared/mania-gameplay.jpg "osu!mania'nın oynanışı")
 

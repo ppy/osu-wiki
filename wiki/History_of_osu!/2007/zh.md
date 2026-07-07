@@ -1,12 +1,12 @@
 # osu! 2007 大事记
 
-本文记载了 osu! 自其诞生以来的重大事件。感谢 [Sinistro](https://osu.ppy.sh/users/5530) 编写 2007 年至 2008 年部分的内容。
+本文记载了 osu! 自其诞生以来的重大事件。感谢 ::Sinistro::{ user-id=5530 } 编写 2007 年至 2008 年部分的内容。
 
 ![](img/2007.jpg)
 
 ## 七月
 
-osu! 在最开始其实是一个叫做 “应援测试 (ouentest)”[^ouentest] 的概念验证产品。它的第一个版本于 2007 年 7 月 1 日面向 [peppy](https://osu.ppy.sh/users/2) 的一小部分挚友发布，包含一个简单的[谱面编辑器](/wiki/Client/Beatmap_editor)以及游玩谱面的功能。编辑器只能创建*非常*基本的[谱面](/wiki/Beatmap)，且不包含定位与[对齐](/wiki/Disambiguation/Snapping)等功能，也没有滑条或者转盘，只有圈圈、基础的计分板和连击计数器。写第一个发布版本的代码只花了大概 16 个小时，而且是在*一个通宵*之内完成的。`pUpdater`（也就是之后为人所知的 `osume`）[^osume]也跟着发布，用于负责将游戏自动更新至最新版本。
+osu! 在最开始其实是一个叫做 “应援测试 (ouentest)”[^ouentest] 的概念验证产品。它的第一个版本于 2007 年 7 月 1 日面向 ::peppy::{ user-id=2 } 的一小部分挚友发布，包含一个简单的[谱面编辑器](/wiki/Client/Beatmap_editor)以及游玩谱面的功能。编辑器只能创建*非常*基本的[谱面](/wiki/Beatmap)，且不包含定位与[对齐](/wiki/Disambiguation/Snapping)等功能，也没有滑条或者转盘，只有圈圈、基础的计分板和连击计数器。写第一个发布版本的代码只花了大概 16 个小时，而且是在*一个通宵*之内完成的。`pUpdater`（也就是之后为人所知的 `osume`）[^osume]也跟着发布，用于负责将游戏自动更新至最新版本。
 
 ![](img/2007-07_01.jpg "选歌界面")
 

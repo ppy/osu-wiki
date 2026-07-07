@@ -22,7 +22,7 @@ Para contrarrestar los nuevos mods de febrero, los mods [Relax](/wiki/Gameplay/G
 
 ## Abril
 
-No es broma, Bancho se lanzó en abril, al igual que los paneles de usuarios del [chat extendido](/wiki/Client/Interface/Chat_console#consola-de-chat-ampliada). Los usuarios ahora podían ver lo que otros usuarios estaban haciendo en sus paneles de usuario, así como interactuar con ellos haciendo clic para observar. Se estrenó el sistema automático de envío de errores, se implementó la compatibilidad con xfire, y se renovaron el menú principal y la interfaz del editor (con nuevos iconos de [LuigiHann](https://osu.ppy.sh/users/1079)). La interfaz del chat ganó algo de amor con el botón «show chat», la finalización de pestañas y las alertas de [sobrenombre destacado](/wiki/Client/Interface/Chat_console/Highlight). La pantalla de clasificación ahora muestra los puntos necesarios para alcanzar la siguiente clasificación.
+No es broma, Bancho se lanzó en abril, al igual que los paneles de usuarios del [chat extendido](/wiki/Client/Interface/Chat_console#consola-de-chat-ampliada). Los usuarios ahora podían ver lo que otros usuarios estaban haciendo en sus paneles de usuario, así como interactuar con ellos haciendo clic para observar. Se estrenó el sistema automático de envío de errores, se implementó la compatibilidad con xfire, y se renovaron el menú principal y la interfaz del editor (con nuevos iconos de ::LuigiHann::{ user-id=1079 }). La interfaz del chat ganó algo de amor con el botón «show chat», la finalización de pestañas y las alertas de [sobrenombre destacado](/wiki/Client/Interface/Chat_console/Highlight). La pantalla de clasificación ahora muestra los puntos necesarios para alcanzar la siguiente clasificación.
 
 ## Mayo
 

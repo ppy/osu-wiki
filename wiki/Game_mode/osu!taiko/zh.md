@@ -135,5 +135,5 @@ osu!taiko 的默认控制方式如下：
 ![特殊模式中的 osu!taiko logo](img/Taiko_logo.jpg "特殊模式中的 osu!taiko logo")
 
 - 启用`太鼓模式中使用太鼓皮肤`选项时，无论当前皮肤的太鼓元素如何，在 osu!taiko 中游玩时都会使用 `taiko` 文件夹内的皮肤。这个文件夹过去用来存放 *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)* 皮肤，可以用现已弃用的 `osume.exe`（osu! 原有的更新系统，后来被集成进游戏中）在`皮肤`标签页下下载。
-- 第一张至少含有一个 osu!taiko 难度的上架谱面是 [Kharl](https://osu.ppy.sh/users/452) 的 [Taiko no Tatsujin - Saitama2000](https://osu.ppy.sh/beatmapsets/210)。
-- 第一张上架的 osu!taiko 专谱是 [lepidopus](https://osu.ppy.sh/users/194807) 的 [Mutsuhiko Izumi - Red Goose](https://osu.ppy.sh/beatmapsets/55920)。
+- 第一张至少含有一个 osu!taiko 难度的上架谱面是 ::Kharl::{ user-id=452 } 的 [Taiko no Tatsujin - Saitama2000](https://osu.ppy.sh/beatmapsets/210)。
+- 第一张上架的 osu!taiko 专谱是 ::lepidopus::{ user-id=194807 } 的 [Mutsuhiko Izumi - Red Goose](https://osu.ppy.sh/beatmapsets/55920)。

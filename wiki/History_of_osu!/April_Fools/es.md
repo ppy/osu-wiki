@@ -28,7 +28,7 @@ Cada año, al [osu! team](/wiki/People/osu!_team) le gusta gastar bromas a la co
 
 El [beatmap](/wiki/Beatmap) [«Best of No.1 Hits - Lemon Tree (MillhioreF)»](https://osu.ppy.sh/beatmapsets/57878#osu/174267) fue [clasificado](/wiki/Beatmap/Category#ranked) el 1 de abril de 2009, como parte de la broma del día de los Inocentes de ese año. El beatmap era en gran medida una broma interna dentro de la comunidad con usuarios que afirmaban sarcásticamente que dicho beatmap debería mantenerse clasificado para siempre.[^lemontree-reddit][^lemontree-post-machol30][^lemontree-post-peppy] Su estado clasificado fue eliminado por el equipo de moderación poco después.[^lemontree-post-machol30]
 
-Después de un tiempo, el beatmap original se eliminó a pedido de su creador; sin embargo, finalmente se volvió a subir el 24 de agosto de 2012 por [MillhioreF](https://osu.ppy.sh/users/941094) con fines de archivo.[^lemontree-post-millhioref]
+Después de un tiempo, el beatmap original se eliminó a pedido de su creador; sin embargo, finalmente se volvió a subir el 24 de agosto de 2012 por ::MillhioreF::{ user-id=941094 } con fines de archivo.[^lemontree-post-millhioref]
 
 ## 2010
 
@@ -42,7 +42,7 @@ Para la broma del día de los Inocentes de 2010, el sitio web de osu! junto con 
 
 La broma proviene en gran medida de una [solicitud de funcionalidad de larga duración](https://osu.ppy.sh/community/forums/topics/19307) para crear un [modo de juego](/wiki/Game_mode) basado en el actual modo de juego existente [osu!catch](/wiki/Game_mode/osu!catch) con la jugabilidad central de los juegos de Touhou Project.
 
-También hubo un informe en el momento de [Ephemeral](https://osu.ppy.sh/users/102335) en el que se comentaba en broma que comprar una etiqueta de osu!supporter mostraría a Marisa Kirisame desnuda en la pantalla del menú principal en lugar de una completamente vestida. Sin embargo, esta afirmación era solo una broma y rápidamente fue refutada por otros.[^touhousu-forums-2]
+También hubo un informe en el momento de ::Ephemeral::{ user-id=102335 } en el que se comentaba en broma que comprar una etiqueta de osu!supporter mostraría a Marisa Kirisame desnuda en la pantalla del menú principal en lugar de una completamente vestida. Sin embargo, esta afirmación era solo una broma y rápidamente fue refutada por otros.[^touhousu-forums-2]
 
 ## 2011
 
@@ -72,7 +72,7 @@ La «tabla de clasificación de Bad Apple» era una tabla de clasificación de b
 
 —Cyclone, «Bad Apple Ranking Chart!» (traducido del inglés)[^bad-apple-news]
 
-La tabla se abrió el 1 de abril de 2012 y se cerró el 2 de abril de 2012. Al final del período de clasificación, [Mesita](https://osu.ppy.sh/users/201459) fue el jugador número uno con una puntuación clasificada de 145 623 328.[^bad-aple-frontpage]
+La tabla se abrió el 1 de abril de 2012 y se cerró el 2 de abril de 2012. Al final del período de clasificación, ::Mesita::{ user-id=201459 } fue el jugador número uno con una puntuación clasificada de 145 623 328.[^bad-aple-frontpage]
 
 Los beatmaps incluidos en la tabla de clasificación se enumeran a continuación:
 
@@ -115,7 +115,7 @@ El 1 de abril de 2014, la pantalla del menú principal de osu! se cambió tempor
 
 ![](img/2015-osucoins.png "Las osu! coins")
 
-El 31 de marzo de 2015, [peppy](https://osu.ppy.sh/users/2) publicó [una noticia](https://osu.ppy.sh/home/news/2015-03-31-osucoins) que anunció la adición de una nueva moneda en el juego, llamada «osu!coins».[^osu-coins-news][^osu-coins-ontheweb] La noticia explicaba cuál era la moneda del juego y cómo funcionaba junto con un [vídeo de osu!academy](https://www.youtube.com/watch?v=BImc5McuK1o) especialmente creado. Junto con esto, peppy también bromeó diciendo que su razonamiento detrás del cambio se debió al hecho de que la ganancia monetaria actual de las donaciones de los jugadores no habría sido suficiente para comprarle un jet personal durante su vida:
+El 31 de marzo de 2015, ::peppy::{ user-id=2 } publicó [una noticia](https://osu.ppy.sh/home/news/2015-03-31-osucoins) que anunció la adición de una nueva moneda en el juego, llamada «osu!coins».[^osu-coins-news][^osu-coins-ontheweb] La noticia explicaba cuál era la moneda del juego y cómo funcionaba junto con un [vídeo de osu!academy](https://www.youtube.com/watch?v=BImc5McuK1o) especialmente creado. Junto con esto, peppy también bromeó diciendo que su razonamiento detrás del cambio se debió al hecho de que la ganancia monetaria actual de las donaciones de los jugadores no habría sido suficiente para comprarle un jet personal durante su vida:
 
 > Con la tasa de rendimiento actual, sería poco probable que compre un jet personal durante mi vida, que es uno de mis principales objetivos de vida. Por lo tanto, mantuve discusiones con el equipo sobre formas alternativas de monetización, estudiando las tendencias actuales en juegos gratuitos similares disponibles actualmente en el mercado.
 
@@ -133,7 +133,7 @@ En general, la actualización fue bien recibida por los jugadores y recibió cie
 
 ### osu! en realidad virtual
 
-El 1 de abril de 2016, se publicó [una noticia](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) que detalla el anuncio de los planes para agregar la compatibilidad con los [Oculus Rift](https://es.wikipedia.org/wiki/Oculus_Rift) como un nuevo [método de entrada](/wiki/Gameplay/Input_device) en osu!. La publicación, escrita por [Evrien](https://osu.ppy.sh/users/791660), hacía referencia a muchas citas de una supuesta entrevista de [peppy](https://osu.ppy.sh/users/2) en el que explicó su razonamiento para el anuncio e ideas sobre cómo podría funcionar el concepto.[^osu-vr-news]
+El 1 de abril de 2016, se publicó [una noticia](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method) que detalla el anuncio de los planes para agregar la compatibilidad con los [Oculus Rift](https://es.wikipedia.org/wiki/Oculus_Rift) como un nuevo [método de entrada](/wiki/Gameplay/Input_device) en osu!. La publicación, escrita por ::Evrien::{ user-id=791660 }, hacía referencia a muchas citas de una supuesta entrevista de ::peppy::{ user-id=2 } en el que explicó su razonamiento para el anuncio e ideas sobre cómo podría funcionar el concepto.[^osu-vr-news]
 
 Con respecto a cómo los jugadores pueden usar los Oculus Rift como método de entrada, la publicación describe que «el jugador experimentará un punto de vista en primera persona del cursor a medida que viaja hacia y desde los objetos en la pantalla...» y presionará objetos «... haciendo que el jugador produzca sonidos parecidos a vocales con la boca». No se realizaron cambios reales en el juego relacionados con el uso de los Oculus Rift o un dispositivo similar de [realidad virtual (VR)](https://es.wikipedia.org/wiki/Realidad_virtual) para controlar osu!.[^osu-vr-news]
 
@@ -173,7 +173,7 @@ Para el día de los Inocentes de 2019, había aproximadamente una probabilidad d
 
 ### MillhioreF se une a los Artistas Destacados
 
-[MillhioreF](https://osu.ppy.sh/users/941094) —un moderador de osu! desde hace mucho tiempo, jugador y desarrollador del [mod Easy](/wiki/Gameplay/Game_modifier/Easy)— anunció en [una publicación de noticia](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) que se «unió» a la lista de [Artistas Destacados](/wiki/People/Featured_Artists) como «Millhiore Firianno Biscotti» el 1 de abril de 2020 con una selección de cinco canciones para empezar:[^irish-fa]
+::MillhioreF::{ user-id=941094 } —un moderador de osu! desde hace mucho tiempo, jugador y desarrollador del [mod Easy](/wiki/Gameplay/Game_modifier/Easy)— anunció en [una publicación de noticia](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) que se «unió» a la lista de [Artistas Destacados](/wiki/People/Featured_Artists) como «Millhiore Firianno Biscotti» el 1 de abril de 2020 con una selección de cinco canciones para empezar:[^irish-fa]
 
 - Waltz o' the Irish
 - The Waltzing Irishman

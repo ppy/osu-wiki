@@ -23,7 +23,7 @@ If you've ever played [Ping 2](https://osu.ppy.sh/beatmapsets/1688877), you know
 
 ### Ping! 2
 
-Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/1688877) hosted by [Jiysea](https://osu.ppy.sh/users/7354700)!
+Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/1688877) hosted by ::Jiysea::{ user-id=7354700 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/285/Ping!%202%2FExyl%20-%20Ping!%202.mp3" type="audio/mpeg">

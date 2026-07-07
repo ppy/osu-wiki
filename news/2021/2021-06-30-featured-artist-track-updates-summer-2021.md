@@ -21,7 +21,7 @@ New songs are also listed below along with any relevant ranked maps and an audio
 
 [![](https://assets.ppy.sh/artists/38/header.jpg)](https://osu.ppy.sh/beatmaps/artists/38)
 
-Coming as a surprise to nobody, we've officially added [**TWC Sound Team "Zeroth Powers" - One One**](https://osu.ppy.sh/beatmapsets/1422682) from the [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021) Grand Finals to the Featured Artist listings for [BilliumMoto](https://osu.ppy.sh/users/3862471), [Dictate](https://osu.ppy.sh/beatmaps/artists/21), and [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58)! Maybe we'll have a listing for *Johnson Solid* one day too.
+Coming as a surprise to nobody, we've officially added [**TWC Sound Team "Zeroth Powers" - One One**](https://osu.ppy.sh/beatmapsets/1422682) from the [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021) Grand Finals to the Featured Artist listings for ::BilliumMoto::{ user-id=3862471 }, [Dictate](https://osu.ppy.sh/beatmaps/artists/21), and [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58)! Maybe we'll have a listing for *Johnson Solid* one day too.
 
 ### TWC Sound Team "Zeroth Powers" - One One
 
@@ -35,57 +35,57 @@ Coming as a surprise to nobody, we've officially added [**TWC Sound Team "Zeroth
 
 This is the largest batch of them all — **24** tracks from osu!'s most idolized rhythm game song producer **Camellia**. We picked up songs from all around their discography, ranging from oldies to brand new ones! Here's an insanely massive list of what we've added:
 
-- [**Camellia - ΩΩPARTS**](https://osu.ppy.sh/beatmapsets/1312143) mapped by [Realazy](https://osu.ppy.sh/users/918297)
-- [**Camellia - Another Xronixle**](https://osu.ppy.sh/beatmapsets/1178916) mapped by [rubies87](https://osu.ppy.sh/users/4949934)
+- [**Camellia - ΩΩPARTS**](https://osu.ppy.sh/beatmapsets/1312143) mapped by ::Realazy::{ user-id=918297 }
+- [**Camellia - Another Xronixle**](https://osu.ppy.sh/beatmapsets/1178916) mapped by ::rubies87::{ user-id=4949934 }
 - **Camellia - flower of wilderness**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/366928) by [ProfessionalBox](https://osu.ppy.sh/users/3250792)
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/399727) by [Alheak](https://osu.ppy.sh/users/3583061)
-  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1131426) by [-mint-](https://osu.ppy.sh/users/8976576)
-  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1154691) by [\[Zeth\]](https://osu.ppy.sh/users/9912966)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/366928) by ::ProfessionalBox::{ user-id=3250792 }
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/399727) by ::Alheak::{ user-id=3583061 }
+  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1131426) by ::-mint-::{ user-id=8976576 }
+  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1154691) by ::\[Zeth\]::{ user-id=9912966 }
 - **Camellia - GHOST (2020 Halloween+++++++++ VIP)**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1438177) by [h i f u](https://osu.ppy.sh/users/11843685)
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1279354) by [IOException](https://osu.ppy.sh/users/2688103)
-  - [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1301991) by [Spectator](https://osu.ppy.sh/users/702598)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1438177) by ::h i f u::{ user-id=11843685 }
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1279354) by ::IOException::{ user-id=2688103 }
+  - [osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1301991) by ::Spectator::{ user-id=702598 }
 - **Camellia - K.Y.A.F.A.**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/414034) by [DeRandom Otaku](https://osu.ppy.sh/users/5156153)
-  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/477233) by [Evening](https://osu.ppy.sh/users/2193881)
-  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/460282) by [SKSalt](https://osu.ppy.sh/users/3280542)
-- [**Camellia - Kamah (Scythe)**](https://osu.ppy.sh/beatmapsets/1314013) mapped by [Ticle](https://osu.ppy.sh/users/11602148)
-- [**Camellia - Looking for Edge of Ground**](https://osu.ppy.sh/beatmapsets/1175337) mapped by [Mir](https://osu.ppy.sh/users/8688812)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/414034) by ::DeRandom Otaku::{ user-id=5156153 }
+  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/477233) by ::Evening::{ user-id=2193881 }
+  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/460282) by ::SKSalt::{ user-id=3280542 }
+- [**Camellia - Kamah (Scythe)**](https://osu.ppy.sh/beatmapsets/1314013) mapped by ::Ticle::{ user-id=11602148 }
+- [**Camellia - Looking for Edge of Ground**](https://osu.ppy.sh/beatmapsets/1175337) mapped by ::Mir::{ user-id=8688812 }
 - **Camellia - Newspapers for Magicians**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/938426) by [Mir](https://osu.ppy.sh/users/8688812)
-  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/929143) by [Leniane](https://osu.ppy.sh/users/7138602)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/938426) by ::Mir::{ user-id=8688812 }
+  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/929143) by ::Leniane::{ user-id=7138602 }
 - **Camellia - Qyoh (Nine Stars)**
 - **Camellia - WE ARE \*NOT\* CURZED**
 - **Camellia & DJ Genki - Feelin Sky**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/366706) by [EphemeralFetish](https://osu.ppy.sh/users/4433793)
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/414543) by [Strategas](https://osu.ppy.sh/users/2971837)
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/882932) by [adioni](https://osu.ppy.sh/users/8894794)
-  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/524256) by [Curiossity](https://osu.ppy.sh/users/6490035).
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/366706) by ::EphemeralFetish::{ user-id=4433793 }
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/414543) by ::Strategas::{ user-id=2971837 }
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/882932) by ::adioni::{ user-id=8894794 }
+  - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/524256) by ::Curiossity::{ user-id=6490035 }.
 - **Camellia feat. Nanahira - Petals**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/564354) by [toybot](https://osu.ppy.sh/users/2848604)
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/592381) by [Kalibe](https://osu.ppy.sh/users/3376777)
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/707371) by [b00](https://osu.ppy.sh/users/3929650)
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1320797) by [AkameREK](https://osu.ppy.sh/users/11110052)
-  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1415492) by [-Dusk](https://osu.ppy.sh/users/6092181)
-- [**Camellia feat. Nanahira - Touryouka**](https://osu.ppy.sh/beatmapsets/1022167) by [jonathanlfj](https://osu.ppy.sh/users/270377)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/564354) by ::toybot::{ user-id=2848604 }
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/592381) by ::Kalibe::{ user-id=3376777 }
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/707371) by ::b00::{ user-id=3929650 }
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1320797) by ::AkameREK::{ user-id=11110052 }
+  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1415492) by ::-Dusk::{ user-id=6092181 }
+- [**Camellia feat. Nanahira - Touryouka**](https://osu.ppy.sh/beatmapsets/1022167) by ::jonathanlfj::{ user-id=270377 }
 - **Camellia feat. Yukacco - Be Wild**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/795610) by [Netrunner](https://osu.ppy.sh/users/4574165)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/795610) by ::Netrunner::{ user-id=4574165 }
   - [osu!mania beatmap](https://osu.ppy.sh/beatmapsets/890491) by [AHHHHHHHHHHHHHH](https://osu.ppy.sh/beatmapsets/890491)
 
 Oh, we've also officially added **Camellia**'s whole *Tera I/O* album (which was designed specifically for rhythm game mapping!):
 
-- [**Camellia - Body F10ating in the Zero Gravity Space**](https://osu.ppy.sh/beatmapsets/1266354) mapped by [Cubby](https://osu.ppy.sh/users/10914582)
-- [**Camellia - 1nput This 2 Y0ur Spine**](https://osu.ppy.sh/beatmapsets/1266639) mapped by [Mir](https://osu.ppy.sh/users/8688812)
+- [**Camellia - Body F10ating in the Zero Gravity Space**](https://osu.ppy.sh/beatmapsets/1266354) mapped by ::Cubby::{ user-id=10914582 }
+- [**Camellia - 1nput This 2 Y0ur Spine**](https://osu.ppy.sh/beatmapsets/1266639) mapped by ::Mir::{ user-id=8688812 }
 - **Camellia - Dance with Silence**
 - **Camellia - Compute It With Some Devilish Alcoholic Steampunk Engines**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1268030) by [OneShotFox](https://osu.ppy.sh/users/8840398)
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1280590) by [DeRandom Otaku](https://osu.ppy.sh/users/5156153)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1268030) by ::OneShotFox::{ user-id=8840398 }
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1280590) by ::DeRandom Otaku::{ user-id=5156153 }
 - **Camellia - Fly Wit Me**
 - **Camellia - +ERABY+E CONNEC+10N**
 - **Camellia - Tera I/O**
-- [**Camellia - M1LLI0N PP**](https://osu.ppy.sh/beatmapsets/1277657) mapped by [Sing](https://osu.ppy.sh/users/3795679) and a bunch of other cool people
-- [**Camellia - Flamewall**](https://osu.ppy.sh/beatmapsets/1270879) mapped by [riunosk](https://osu.ppy.sh/users/5594381)
+- [**Camellia - M1LLI0N PP**](https://osu.ppy.sh/beatmapsets/1277657) mapped by ::Sing::{ user-id=3795679 } and a bunch of other cool people
+- [**Camellia - Flamewall**](https://osu.ppy.sh/beatmapsets/1270879) mapped by ::riunosk::{ user-id=5594381 }
 - **Camellia - BAD ACCESS (FROM A MOE MAID)**
 
 You surely already know what **Camellia** sounds like, but take a few previews for good measure:
@@ -190,7 +190,7 @@ Embrace the bass with a few previews too:
 
 [![](https://assets.ppy.sh/artists/43/header.jpg)](https://osu.ppy.sh/beatmaps/artists/43)
 
-**Inferi**'s latest EP *Of Sunless Realms* released last year, and we're here to bring **4** of its tracks to the ears of osu! players. As a specical treat for osu!taiko players, [Raiden](https://osu.ppy.sh/users/2239480) went above and beyond the call of duty by ranking beatmaps for all these songs!
+**Inferi**'s latest EP *Of Sunless Realms* released last year, and we're here to bring **4** of its tracks to the ears of osu! players. As a specical treat for osu!taiko players, ::Raiden::{ user-id=2239480 } went above and beyond the call of duty by ranking beatmaps for all these songs!
 
 - [**Inferi - The Abhorrent Art**](https://osu.ppy.sh/beatmapsets/1335192)
 - [**Inferi - Eldritch Evolution**](https://osu.ppy.sh/beatmapsets/1416982)
@@ -217,10 +217,10 @@ Bless your ears with some previews:
 
 Given **Morimori Atsushi** is artist with a practically endless catalogue, anyone could have predicted that we'd come back to pad out their osu! library. We've picked up a bunch of tracks from all over the place, including a couple with some fairly well-known ranked maps!
 
-- [**Umeboshi Chazuke vs. Morimori Atsushi - Pico\*2 Funkoter\***](https://osu.ppy.sh/beatmapsets/1061110) mapped by [Murumoo](https://osu.ppy.sh/users/8001433)
+- [**Umeboshi Chazuke vs. Morimori Atsushi - Pico\*2 Funkoter\***](https://osu.ppy.sh/beatmapsets/1061110) mapped by ::Murumoo::{ user-id=8001433 }
 - **Morimori Atsushi - Alter Ego (ARForest Remix)**
 - **Morimori Atushi Remixed by Spiegel - PUPA -Floor of Larva Remix-**
-- [**AAAA vs. Morimori Atsushi - Xrocus**](https://osu.ppy.sh/beatmapsets/1183776) mapped by [Cychloryn](https://osu.ppy.sh/users/6921736)
+- [**AAAA vs. Morimori Atsushi - Xrocus**](https://osu.ppy.sh/beatmapsets/1183776) mapped by ::Cychloryn::{ user-id=6921736 }
 - **Morimori Atsushi - Aduh!**
 - **uma vs. Morimori Atsushi - Shooting Star feat. Risa Yuzuki**
 - **Morimori Atsushi - Time Machine**

@@ -68,7 +68,7 @@ The o!bwc teams have brought an incredible variety of maps to the community. And
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/3YFLDlVcxvM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-> Hi, [Blacky](https://osu.ppy.sh/users/11540165) here! My team and I often work by theme, where the reflection period can take three days or even a week. Since Azure Iris has a double meaning — the pupil of the eye and the flower — we combined these themes with the very mechanical and destructive side of the music by adding "tumors" on our sliders, like petals (or gears) coming out of them.
+> Hi, ::Blacky::{ user-id=11540165 } here! My team and I often work by theme, where the reflection period can take three days or even a week. Since Azure Iris has a double meaning — the pupil of the eye and the flower — we combined these themes with the very mechanical and destructive side of the music by adding "tumors" on our sliders, like petals (or gears) coming out of them.
 > 
 > For the second part of the music, we preferred to make a much simpler and more fluid mapping with a lot of kick sliders, as well as a multitude of symmetrical patterns, because the melody of the music becomes clearer here — and this is the key passage of the track.
 > 

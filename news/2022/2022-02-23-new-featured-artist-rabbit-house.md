@@ -9,7 +9,7 @@ You might not recognize our latest Featured Artist by their name, but you *defin
 
 ![](https://assets.ppy.sh/artists/242/header.jpg)
 
-**Rabbit House**, also known as [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) or *dksslqj* on osu!, is best known among circle clickers for creating one of the game's most renowned beatmaps of all time: [xi - FREEDOM DiVE](https://osu.ppy.sh/beatmapsets/39804).
+**Rabbit House**, also known as ::Nakagawa-Kanon::{ user-id=87065 } or *dksslqj* on osu!, is best known among circle clickers for creating one of the game's most renowned beatmaps of all time: [xi - FREEDOM DiVE](https://osu.ppy.sh/beatmapsets/39804).
 
 Since that legendary beatmap was ranked a decade ago, **Rabbit House** has developed a musical skillset to match their rhythm game expertise. **Rabbit House**'s blood-pumping music recently made a splash in games like *Lanota* and *Arcaea*, and has finally come full-circle by returning officially to osu! as of today.
 
@@ -25,7 +25,7 @@ Haven't heard **Rabbit House**'s tunes before? The video below showcases an inte
 
 ### Have A Party Time!
 
-Try playing [this osu! map](https://osu.ppy.sh/beatmapsets/652751) created by [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) (a.k.a. **Rabbit House**!)
+Try playing [this osu! map](https://osu.ppy.sh/beatmapsets/652751) created by ::Nakagawa-Kanon::{ user-id=87065 } (a.k.a. **Rabbit House**!)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/242/Songs/Rabbit%20House%20-%20Have%20A%20Party%20Time%21.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Try playing [this osu! map](https://osu.ppy.sh/beatmapsets/652751) created by [N
 
 ### Final Overtake
 
-Or experience [the osu! beatmap that introduced **Rabbit House**'s music to the game](https://osu.ppy.sh/beatmapsets/770246) hosted by [bbu](https://osu.ppy.sh/users/4118962)!
+Or experience [the osu! beatmap that introduced **Rabbit House**'s music to the game](https://osu.ppy.sh/beatmapsets/770246) hosted by ::bbu::{ user-id=4118962 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/242/Songs/Rabbit%20House%20-%20Final%20Overtake.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Or experience [the osu! beatmap that introduced **Rabbit House**'s music to the 
 
 ### Seculo Seculorum
 
-Take a break from circles with [this osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1599662) hosted by [Deif](https://osu.ppy.sh/users/318565)!
+Take a break from circles with [this osu!catch beatmap](https://osu.ppy.sh/beatmapsets/1599662) hosted by ::Deif::{ user-id=318565 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/242/Songs/Rabbit%20House%20-%20Seculo%20Seculorum.mp3" type="audio/mpeg">

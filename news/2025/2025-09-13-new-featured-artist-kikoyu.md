@@ -5,7 +5,7 @@ date: 2025-09-13 20:00:00 +0000
 series: featured_artists
 ---
 
-You'd expect [an osu! player](https://osu.ppy.sh/users/10825836) who pulls inspiration from music heard while clicking circles to create... you know, *rhythm game music*. **kikoyu**, however, is here to break expectations.
+You'd expect ::an osu! player::{ user-id=10825836 } who pulls inspiration from music heard while clicking circles to create... you know, *rhythm game music*. **kikoyu**, however, is here to break expectations.
 
 ![](https://assets.ppy.sh/artists/497/header.jpg)
 

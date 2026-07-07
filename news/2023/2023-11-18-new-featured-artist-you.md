@@ -27,7 +27,7 @@ Curious how **you** would fit in a beatmap? Treat yourself to 4 of them by watch
 
 ### you - Hold Angel
 
-Check out [this legendary 7K osu!mania map](https://osu.ppy.sh/beatmapsets/636543) hosted by [Blocko](https://osu.ppy.sh/users/4075092) and ranging from 1 to 10 stars, or try [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/381103) hosted by [Nishizumi](https://osu.ppy.sh/users/2496768)!
+Check out [this legendary 7K osu!mania map](https://osu.ppy.sh/beatmapsets/636543) hosted by ::Blocko::{ user-id=4075092 } and ranging from 1 to 10 stars, or try [this osu!taiko rendition](https://osu.ppy.sh/beatmapsets/381103) hosted by ::Nishizumi::{ user-id=2496768 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/389/Songs/you - Hold Angel.mp3">
@@ -35,7 +35,7 @@ Check out [this legendary 7K osu!mania map](https://osu.ppy.sh/beatmapsets/63654
 
 ### you - Wake Up
 
-Set your alarm to the song behind [this 42-second osu!taiko map](https://osu.ppy.sh/beatmapsets/592892) hosted by [komasy](https://osu.ppy.sh/users/1980256) or [this 4K osu!mania version](https://osu.ppy.sh/beatmapsets/2090600) hosted by [Monoseul](https://osu.ppy.sh/users/16010604)!
+Set your alarm to the song behind [this 42-second osu!taiko map](https://osu.ppy.sh/beatmapsets/592892) hosted by ::komasy::{ user-id=1980256 } or [this 4K osu!mania version](https://osu.ppy.sh/beatmapsets/2090600) hosted by ::Monoseul::{ user-id=16010604 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/389/Songs/you - Wake Up.mp3">
@@ -43,7 +43,7 @@ Set your alarm to the song behind [this 42-second osu!taiko map](https://osu.ppy
 
 ### you - Diamond Smile (2019 Reworks)
 
-Take your pick: [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/904130) hosted by [komasy](https://osu.ppy.sh/users/1980256) or [this other osu!taiko marathon](https://osu.ppy.sh/beatmapsets/363525) hosted by [Nanatsu](https://osu.ppy.sh/users/2786984)!
+Take your pick: [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/904130) hosted by ::komasy::{ user-id=1980256 } or [this other osu!taiko marathon](https://osu.ppy.sh/beatmapsets/363525) hosted by ::Nanatsu::{ user-id=2786984 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/389/Songs/you feat. nayuta - Diamond Smile (2019 Reworks).mp3">
@@ -51,7 +51,7 @@ Take your pick: [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/904130)
 
 ### you - Let's Jump (2019 Reworks)
 
-Jump into [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1108981) hosted by [Nanatsu](https://osu.ppy.sh/users/2786984)!
+Jump into [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1108981) hosted by ::Nanatsu::{ user-id=2786984 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/389/Songs/you feat. nayuta - Let_s Jump! (2019 Reworks).mp3">
@@ -59,7 +59,7 @@ Jump into [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1108981) hosted by
 
 ### you - Color (2019 Reworks)
 
-That's enough osu!taiko. Try [this osu! map](https://osu.ppy.sh/beatmapsets/2089375) by [Hinsvar](https://osu.ppy.sh/users/1249323) for a change of pace!
+That's enough osu!taiko. Try [this osu! map](https://osu.ppy.sh/beatmapsets/2089375) by ::Hinsvar::{ user-id=1249323 } for a change of pace!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/389/Songs/you feat. nayuta - Color (2019 Reworks).mp3">

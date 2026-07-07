@@ -24,52 +24,52 @@ Proyek Beatmap Spotlights dijalankan oleh berbagai anggota komunitas di semua mo
 
 | Peran | Anggota |
 | :-- | :-- |
-| Pimpinan proyek | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
-| Manajer proyek | ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705) |
+| Pimpinan proyek | ::{ flag=PL }:: ::Venix::{ user-id=5999631 } |
+| Manajer proyek | ::{ flag=AU }:: ::Crumpey::{ user-id=3518705 } |
 
 Tim kurator khusus disusun untuk setiap rilis Beatmap Spotlights. Pemimpin tim ditandai dengan huruf tebal.
 
 ### Kurator osu!
 
-- ::{ flag=FI }:: **[Lefafel](https://osu.ppy.sh/users/2295850)**
-- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
-- ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
-- ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
-- ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761)
-- ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340)
-- ::{ flag=FI }:: [Nowaie](https://osu.ppy.sh/users/5428909)
-- ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522)
-- ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553)
-- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
-- ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
+- ::{ flag=FI }:: **::Lefafel::{ user-id=2295850 }**
+- ::{ flag=US }:: ::ChillierPear::{ user-id=9501251 }
+- ::{ flag=GB }:: ::DeviousPanda::{ user-id=4966334 }
+- ::{ flag=US }:: ::DigitalHypno::{ user-id=4384207 }
+- ::{ flag=PH }:: ::enri::{ user-id=8640970 }
+- ::{ flag=GB }:: ::Kingling::{ user-id=7010761 }
+- ::{ flag=GB }:: ::KnightC0re::{ user-id=7894340 }
+- ::{ flag=FI }:: ::Nowaie::{ user-id=5428909 }
+- ::{ flag=RU }:: ::piroshki::{ user-id=7645522 }
+- ::{ flag=ID }:: ::rHO::{ user-id=1629553 }
+- ::{ flag=MX }:: ::Riot::{ user-id=4256461 }
+- ::{ flag=PL }:: ::Zelq::{ user-id=8953955 }
 
 ### Kurator osu!taiko
 
-- ::{ flag=US }:: **[meiqth](https://osu.ppy.sh/users/12565402)**
-- ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996)
-- ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)
-- ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910)
-- ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
-- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
+- ::{ flag=US }:: **::meiqth::{ user-id=12565402 }**
+- ::{ flag=NL }:: ::Boaz::{ user-id=13302996 }
+- ::{ flag=GB }:: ::Horiiizon::{ user-id=8071438 }
+- ::{ flag=JP }:: ::Maimaing::{ user-id=14520910 }
+- ::{ flag=US }:: ::Nifty::{ user-id=4956097 }
+- ::{ flag=JP }:: ::uone::{ user-id=5321719 }
 
 ### Kurator osu!catch
 
-- ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
-- ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)
-- ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464)
-- ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
-- ::{ flag=CA }:: [WadBot](https://osu.ppy.sh/users/14571181)
-- ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
+- ::{ flag=CA }:: **::SadEgg::{ user-id=10278243 }**
+- ::{ flag=RU }:: ::Kimitakari::{ user-id=4741164 }
+- ::{ flag=UA }:: ::M0RU::{ user-id=13681464 }
+- ::{ flag=PL }:: ::Phob::{ user-id=6069462 }
+- ::{ flag=CA }:: ::WadBot::{ user-id=14571181 }
+- ::{ flag=CA }:: ::wwwww::{ user-id=8434466 }
 
 ### Kurator osu!mania
 
-- ::{ flag=AU }:: **[Crumpey](https://osu.ppy.sh/users/3518705)**
-- ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773)
-- ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684)
-- ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176)
-- ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154)
-- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
-- ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747)
-- ::{ flag=KR }:: [Seulgi](https://osu.ppy.sh/users/4918394)
-- ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619)
+- ::{ flag=AU }:: **::Crumpey::{ user-id=3518705 }**
+- ::{ flag=DO }:: ::Antalf::{ user-id=8793773 }
+- ::{ flag=CN }:: ::AWMRone::{ user-id=10351684 }
+- ::{ flag=GB }:: ::Hydria::{ user-id=808176 }
+- ::{ flag=ID }:: ::Ilham::{ user-id=3057154 }
+- ::{ flag=ID }:: ::Maxus::{ user-id=4335785 }
+- ::{ flag=US }:: ::Protastic101::{ user-id=6712747 }
+- ::{ flag=KR }:: ::Seulgi::{ user-id=4918394 }
+- ::{ flag=CN }:: ::YuEast 2018::{ user-id=13953619 }

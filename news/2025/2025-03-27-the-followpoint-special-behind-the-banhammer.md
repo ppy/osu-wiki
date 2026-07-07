@@ -11,7 +11,7 @@ Ever wanted to get some insight into how Global Moderation Team works? Then now 
 
 Welcome, strangers and returning readers! Like you've already read in the title and the short intro, this post of The Followpoint will be an unusual one, talking about a team inside osu! instead of an individual person. The [Global Moderation Team](/wiki/People/Global_Moderation_Team) (usually referred to as GMT) is one of the essential and oldest osu! teams, consisting of community members who mainly focus on player moderation. Its [wiki article](/wiki/People/Global_Moderation_Team) explains things really well, so you should give it a read if you haven't yet!
 
-We're still an interview series, and for today's news post we interviewed **all 3 current leaders** of the Global Moderation Team: [0x84f](https://osu.ppy.sh/users/7944724), [Kobold84](https://osu.ppy.sh/users/3227533) and [Venix](https://osu.ppy.sh/users/5999631)! Be warned though, please don't expect this to be all serious and reveal every secret or something. We tried to make the questions interesting while also remaining a little bit silly. 🙃
+We're still an interview series, and for today's news post we interviewed **all 3 current leaders** of the Global Moderation Team: ::0x84f::{ user-id=7944724 }, [Kobold84](https://osu.ppy.sh/users/3227533) and ::Venix::{ user-id=5999631 }! Be warned though, please don't expect this to be all serious and reveal every secret or something. We tried to make the questions interesting while also remaining a little bit silly. 🙃
 
 And now with the small introductions done, let's get to the interview!
 
@@ -120,7 +120,7 @@ Some may know that if your username is deemed inappropriate then it will be chan
 
 We've had this rolling joke around for a while now, where moderators would react with :slow: emoji (containing Slowpoke Pokémon image) when somebody acted on a report, or a case that was already handled by someone else.
 
-This later escalated into a more general and wide Slowpoke spread in the moderator communities, notably with [Civil oath](https://osu.ppy.sh/users/3216107) building identity around it; Slowpoke naming strategies arose from that momentum just as well and somehow sticked around to this day.
+This later escalated into a more general and wide Slowpoke spread in the moderator communities, notably with ::Civil oath::{ user-id=3216107 } building identity around it; Slowpoke naming strategies arose from that momentum just as well and somehow sticked around to this day.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -198,7 +198,7 @@ Since the GMT [user group page](https://osu.ppy.sh/groups/4) refers to the NAT a
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/7944724">0x84f</a></p>
 
-We'd whoop their butts any day of the week. If we were to just put the leaders one up against another, put me against [Hivie](https://osu.ppy.sh/users/14102976) and I'd KO him without breaking a sweat.
+We'd whoop their butts any day of the week. If we were to just put the leaders one up against another, put me against ::Hivie::{ user-id=14102976 } and I'd KO him without breaking a sweat.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 

@@ -39,7 +39,7 @@ Renowned producer [**Aiobahn**](https://osu.ppy.sh/beatmaps/artists/166) and exp
 
 ### Aiobahn feat. KOTOKO - INTERNET OVERDOSE
 
-Consume [this osu! map](https://osu.ppy.sh/beatmapsets/1687132) hosted by [Ryuusei Aika](https://osu.ppy.sh/users/7777875) or [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1794813) hosted by [FLeVI](https://osu.ppy.sh/users/12519616)!
+Consume [this osu! map](https://osu.ppy.sh/beatmapsets/1687132) hosted by ::Ryuusei Aika::{ user-id=7777875 } or [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1794813) hosted by ::FLeVI::{ user-id=12519616 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/166/Songs/Aiobahn_feat._KOTOKO_-_INTERNET_OVERDOSE.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ Consume [this osu! map](https://osu.ppy.sh/beatmapsets/1687132) hosted by [Ryuus
 
 ### Aiobahn feat. KOTOKO - INTERNET YAMERO
 
-Never stop playing [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1961959) hosted by [Joltzzz](https://osu.ppy.sh/users/15436568) or [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1962727) also hosted by [FLeVI](https://osu.ppy.sh/users/12519616)!
+Never stop playing [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1961959) hosted by ::Joltzzz::{ user-id=15436568 } or [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1962727) also hosted by ::FLeVI::{ user-id=12519616 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/166/Songs/Aiobahn_feat._KOTOKO_-_INTERNET_YAMERO.mp3" type="audio/mpeg">
@@ -61,7 +61,7 @@ Who said we could only stick to new music? This 4-year-old industrial rock track
 
 ### Celldweller - A Matter of Time
 
-Check out [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1246314) hosted by [Arach](https://osu.ppy.sh/users/8512755)!
+Check out [this osu!taiko marathon](https://osu.ppy.sh/beatmapsets/1246314) hosted by ::Arach::{ user-id=8512755 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/56/A Matter of Time/Celldweller - A Matter of Time.mp3" type="audio/mpeg">
@@ -135,7 +135,7 @@ Born and raised on osu!, [**cygnus**](https://osu.ppy.sh/beatmaps/artists/359) i
 
 ### cygnus - Silver Mutation
 
-Try out [this osu! marathon](https://osu.ppy.sh/beatmapsets/2067206) hosted by [the man behind the music](https://osu.ppy.sh/users/5052899)!
+Try out [this osu! marathon](https://osu.ppy.sh/beatmapsets/2067206) hosted by ::the man behind the music::{ user-id=5052899 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/Omaju/cygnus - Silver Mutation.mp3" type="audio/mpeg">
@@ -143,7 +143,7 @@ Try out [this osu! marathon](https://osu.ppy.sh/beatmapsets/2067206) hosted by [
 
 ### cygnus - Anvilia
 
-Or try [this wiggle-stream masterpiece](https://osu.ppy.sh/beatmapsets/2056846) hosted by [LMT](https://osu.ppy.sh/users/7262798)!
+Or try [this wiggle-stream masterpiece](https://osu.ppy.sh/beatmapsets/2056846) hosted by ::LMT::{ user-id=7262798 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/359/The Evolution of War/cygnus_-_Anvilia.mp3" type="audio/mpeg">
@@ -197,7 +197,7 @@ osu! has been investing in [osu! originals](/wiki/osu!_originals) for the past f
 
 ### seatrus - Diossido di Carbonio
 
-Check out [this map from CWC 2023](https://osu.ppy.sh/beatmapsets/1996376) hosted by [Yoshi_green](https://osu.ppy.sh/users/1035891)!
+Check out [this map from CWC 2023](https://osu.ppy.sh/beatmapsets/1996376) hosted by ::Yoshi\1green::{ user-id=1035891 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/185/Songs/seatrus_-_Diossido_di_Carbonio.mp3" type="audio/mpeg">

@@ -23,7 +23,7 @@ Need some convincing? We've got a handful of maps ready for you to run through, 
 
 ### Maisery
 
-Check out [this full spread](https://osu.ppy.sh/beatmapsets/1322631#osu/2739658) by [Lasse](https://osu.ppy.sh/users/896613) showcased in the video above!
+Check out [this full spread](https://osu.ppy.sh/beatmapsets/1322631#osu/2739658) by ::Lasse::{ user-id=896613 } showcased in the video above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/130/Maisery%20(Symholic%208th%20CD)/Symholic%20-%20Maisery.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [this full spread](https://osu.ppy.sh/beatmapsets/1322631#osu/2739658)
 
 ### Ginpatsu no Miko
 
-Play [this single-difficulty mapset](https://osu.ppy.sh/beatmapsets/1000676#osu/2094495) by [Wishkey](https://osu.ppy.sh/users/1101704)!
+Play [this single-difficulty mapset](https://osu.ppy.sh/beatmapsets/1000676#osu/2094495) by ::Wishkey::{ user-id=1101704 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/130/Kagura%20e%20Yadosu%20Shirayukimiko%20no%20Madou%20(Symholic%204th%20CD)/Symholic%20-%20Ginpatsu%20no%20Miko.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Play [this single-difficulty mapset](https://osu.ppy.sh/beatmapsets/1000676#osu/
 
 ### Hatsuki Yura x Toki no Shikkoku x Symholic - Fairlady:Reincarnation / Ideal
 
-Or give some love to [this multi-song mapset](https://osu.ppy.sh/beatmapsets/641441#osu/1360148) by [Xenok](https://osu.ppy.sh/users/3256600)!
+Or give some love to [this multi-song mapset](https://osu.ppy.sh/beatmapsets/641441#osu/1360148) by ::Xenok::{ user-id=3256600 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/130/Queen%20A'rcadia/Hatsuki%20Yura%20x%20Toki%20no%20Shikkoku%20x%20Symholic%20-%20FairladyReincarnation.mp3" type="audio/mpeg">

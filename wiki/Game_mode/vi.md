@@ -46,7 +46,7 @@ osu! hiện tại có 4 **chế độ chơi** được tích hợp sẵn trong g
 
 *Trang chính: [osu!mania](osu!mania)*
 
-*osu!mania* là một chế độ chơi theo hướng các nốt cuộn từ trên xuống (VSRG) được thiết kế để mô phỏng cách chơi piano. Chế độ này lần đầu được  [thực hiện và giới thiệu](https://osu.ppy.sh/community/forums/topics/100751) bởi [woc2006](https://osu.ppy.sh/users/1105845), và được lấy cảm hứng từ tựa game có lối chơi tương tự (cụ thể là [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) và [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Nhân vật biểu tượng của osu!mania là cặp sinh đôi [Mani and Mari](/wiki/Mascots#mani-&-mari), cả hai đều có mái tóc trắng và tím.
+*osu!mania* là một chế độ chơi theo hướng các nốt cuộn từ trên xuống (VSRG) được thiết kế để mô phỏng cách chơi piano. Chế độ này lần đầu được  [thực hiện và giới thiệu](https://osu.ppy.sh/community/forums/topics/100751) bởi ::woc2006::{ user-id=1105845 }, và được lấy cảm hứng từ tựa game có lối chơi tương tự (cụ thể là [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) và [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Nhân vật biểu tượng của osu!mania là cặp sinh đôi [Mani and Mari](/wiki/Mascots#mani-&-mari), cả hai đều có mái tóc trắng và tím.
 
 ![Lối chơi của osu!mania](/wiki/shared/mania-gameplay.jpg "Lối chơi của osu!mania")
 

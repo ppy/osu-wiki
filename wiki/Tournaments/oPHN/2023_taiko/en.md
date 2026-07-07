@@ -36,16 +36,16 @@ The osu! Philippines Nationals 2023 - osu!taiko was run by various community mem
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115) |
-| Mappool selector | ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115), ::{ flag=TH }:: [Kappu](https://osu.ppy.sh/users/9582525), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621), ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380) |
-| Custom mapper | ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=TH }:: [Kappu](https://osu.ppy.sh/users/9582525), ::{ flag=GB }:: [My Angel Subaru](https://osu.ppy.sh/users/17797595), ::{ flag=MY }:: [MTNTWarz](https://osu.ppy.sh/users/14036825), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035), ::{ flag=US }:: [Yujki](https://osu.ppy.sh/users/14987094), ::{ flag=US }:: [beaw](https://osu.ppy.sh/users/6777358), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875), ::{ flag=IT }:: [A-40](https://osu.ppy.sh/users/14510301) |
-| Mappool tester | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=GB }:: [My Angel Subaru](https://osu.ppy.sh/users/17797595), ::{ flag=KR }:: [NaNaHiDa](https://osu.ppy.sh/users/30114023), ::{ flag=PH }:: [JoshEco4](https://osu.ppy.sh/users/18591473), ::{ flag=PH }:: [Fluorinedesu](https://osu.ppy.sh/users/26539515), ::{ flag=IT }:: [A-40](https://osu.ppy.sh/users/14510301) |
-| Referee | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Coequal](https://osu.ppy.sh/users/14167247), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=PH }:: [Fluorinedesu](https://osu.ppy.sh/users/26539515), ::{ flag=PH }:: [Shiori Shiomiya](https://osu.ppy.sh/users/11154860), ::{ flag=PH }:: [aaronigoo](https://osu.ppy.sh/users/25457711) |
-| Streamer | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [Coequal](https://osu.ppy.sh/users/14167247), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442) |
-| Commentator | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=PH }:: [ezeenS](https://osu.ppy.sh/users/3679969), ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [Fynbi](https://osu.ppy.sh/users/2164993), ::{ flag=PH }:: [qish](https://osu.ppy.sh/users/17050115) |
-| Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PH }:: [-[Pochi]-](https://osu.ppy.sh/users/18293050), ::{ flag=HK }:: [ShadeCegLgMn](https://osu.ppy.sh/users/12609866), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Graphic designer | ::{ flag=PH }:: [FLCammo](https://osu.ppy.sh/users/18789292), ::{ flag=PH }:: [jari](https://osu.ppy.sh/users/13262551), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
-| Wiki writer | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292) |
+| Host | ::{ flag=PH }:: ::Aiery::{ user-id=10363380 }, ::{ flag=PH }:: ::Fynbi::{ user-id=2164993 }, ::{ flag=PH }:: ::qish::{ user-id=17050115 } |
+| Mappool selector | ::{ flag=PH }:: ::Fynbi::{ user-id=2164993 }, ::{ flag=PH }:: ::qish::{ user-id=17050115 }, ::{ flag=TH }:: ::Kappu::{ user-id=9582525 }, ::{ flag=MY }:: ::cdh::{ user-id=2403621 }, ::{ flag=PH }:: ::Aiery::{ user-id=10363380 } |
+| Custom mapper | ::{ flag=PH }:: ::Fynbi::{ user-id=2164993 }, ::{ flag=PH }:: ::qish::{ user-id=17050115 }, ::{ flag=PH }:: ::Eyenine::{ user-id=1259391 }, ::{ flag=PH }:: ::ezeenS::{ user-id=3679969 }, ::{ flag=TH }:: ::Kappu::{ user-id=9582525 }, ::{ flag=GB }:: ::My Angel Subaru::{ user-id=17797595 }, ::{ flag=MY }:: ::MTNTWarz::{ user-id=14036825 }, ::{ flag=MY }:: ::cdh::{ user-id=2403621 }, ::{ flag=TW }:: ::X a v y::{ user-id=3738344 }, ::{ flag=VN }:: ::davidminh0111::{ user-id=9623142 }, ::{ flag=US }:: ::Jonarwhal::{ user-id=3653035 }, ::{ flag=US }:: ::Yujki::{ user-id=14987094 }, ::{ flag=US }:: ::beaw::{ user-id=6777358 }, ::{ flag=PH }:: ::midorijeon::{ user-id=10969875 }, ::{ flag=IT }:: ::A-40::{ user-id=14510301 } |
+| Mappool tester | ::{ flag=PH }:: ::Aiery::{ user-id=10363380 }, ::{ flag=PH }:: ::Fynbi::{ user-id=2164993 }, ::{ flag=GB }:: ::My Angel Subaru::{ user-id=17797595 }, ::{ flag=KR }:: ::NaNaHiDa::{ user-id=30114023 }, ::{ flag=PH }:: ::JoshEco4::{ user-id=18591473 }, ::{ flag=PH }:: ::Fluorinedesu::{ user-id=26539515 }, ::{ flag=IT }:: ::A-40::{ user-id=14510301 } |
+| Referee | ::{ flag=PH }:: ::Aiery::{ user-id=10363380 }, ::{ flag=PH }:: ::Coequal::{ user-id=14167247 }, ::{ flag=SG }:: ::Spartric::{ user-id=7740442 }, ::{ flag=PE }:: ::ERA Xuste::{ user-id=17989444 }, ::{ flag=PH }:: ::Fluorinedesu::{ user-id=26539515 }, ::{ flag=PH }:: ::Shiori Shiomiya::{ user-id=11154860 }, ::{ flag=PH }:: ::aaronigoo::{ user-id=25457711 } |
+| Streamer | ::{ flag=PH }:: ::Aiery::{ user-id=10363380 }, ::{ flag=PH }:: ::Coequal::{ user-id=14167247 }, ::{ flag=SG }:: ::Spartric::{ user-id=7740442 } |
+| Commentator | ::{ flag=PH }:: ::Aiery::{ user-id=10363380 }, ::{ flag=PH }:: ::ezeenS::{ user-id=3679969 }, ::{ flag=PH }:: ::Toadette::{ user-id=11517895 }, ::{ flag=PH }:: ::Fynbi::{ user-id=2164993 }, ::{ flag=PH }:: ::qish::{ user-id=17050115 } |
+| Statistician | ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 }, ::{ flag=PH }:: ::-\1Pochi\1-::{ user-id=18293050 }, ::{ flag=HK }:: ::ShadeCegLgMn::{ user-id=12609866 }, ::{ flag=PH }:: ::SurfChu85::{ user-id=4469895 } |
+| Graphic designer | ::{ flag=PH }:: ::FLCammo::{ user-id=18789292 }, ::{ flag=PH }:: ::jari::{ user-id=13262551 }, ::{ flag=PH }:: ::yukina meng::{ user-id=9919550 } |
+| Wiki writer | ::{ flag=PH }:: ::topecnz::{ user-id=2103927 }, ::{ flag=PH }:: ::-Ichinose::{ user-id=12635292 } |
 
 ## Links
 
@@ -56,28 +56,28 @@ The osu! Philippines Nationals 2023 - osu!taiko was run by various community mem
 
 ## Participants
 
-- ::{ flag=PH }:: [-Birds-](https://osu.ppy.sh/users/15273352)
-- ::{ flag=PH }:: [[KN]CuB-03](https://osu.ppy.sh/users/18560307)
-- ::{ flag=PH }:: [BPChingu](https://osu.ppy.sh/users/4236855)
-- ::{ flag=PH }:: [COLE9001](https://osu.ppy.sh/users/14099842)
-- ::{ flag=PH }:: [Euanofthedead](https://osu.ppy.sh/users/15676812)
-- ::{ flag=PH }:: [Farmer Brown](https://osu.ppy.sh/users/17823779)
-- ::{ flag=PH }:: [Giannithegdnoob](https://osu.ppy.sh/users/15673828)
-- ::{ flag=PH }:: [IDan24](https://osu.ppy.sh/users/11730796)
-- ::{ flag=US }:: [Kerorosan123](https://osu.ppy.sh/users/10989554)
-- ::{ flag=PH }:: [Kotaro](https://osu.ppy.sh/users/796530)
-- ::{ flag=PH }:: [Krishel17](https://osu.ppy.sh/users/9841880)
-- ::{ flag=PH }:: [Mochii_31](https://osu.ppy.sh/users/25140935)
-- ::{ flag=PH }:: [Phann_](https://osu.ppy.sh/users/12905445)
-- ::{ flag=PH }:: [Raben](https://osu.ppy.sh/users/6257178)
-- ::{ flag=PH }:: [space-walker](https://osu.ppy.sh/users/9435841)
-- ::{ flag=PH }:: [Syntoxical](https://osu.ppy.sh/users/18105116)
-- ::{ flag=PH }:: [Taikore](https://osu.ppy.sh/users/29115112)
-- ::{ flag=PH }:: [Toadette](https://osu.ppy.sh/users/11517895)
-- ::{ flag=PH }:: [wwowie](https://osu.ppy.sh/users/19445999)
-- ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667)
-- ::{ flag=PH }:: [Yron8](https://osu.ppy.sh/users/1537747)
-- ::{ flag=PH }:: [Zyphore](https://osu.ppy.sh/users/9949657)
+- ::{ flag=PH }:: ::-Birds-::{ user-id=15273352 }
+- ::{ flag=PH }:: ::\1KN\1CuB-03::{ user-id=18560307 }
+- ::{ flag=PH }:: ::BPChingu::{ user-id=4236855 }
+- ::{ flag=PH }:: ::COLE9001::{ user-id=14099842 }
+- ::{ flag=PH }:: ::Euanofthedead::{ user-id=15676812 }
+- ::{ flag=PH }:: ::Farmer Brown::{ user-id=17823779 }
+- ::{ flag=PH }:: ::Giannithegdnoob::{ user-id=15673828 }
+- ::{ flag=PH }:: ::IDan24::{ user-id=11730796 }
+- ::{ flag=US }:: ::Kerorosan123::{ user-id=10989554 }
+- ::{ flag=PH }:: ::Kotaro::{ user-id=796530 }
+- ::{ flag=PH }:: ::Krishel17::{ user-id=9841880 }
+- ::{ flag=PH }:: ::Mochii\131::{ user-id=25140935 }
+- ::{ flag=PH }:: ::Phann\1::{ user-id=12905445 }
+- ::{ flag=PH }:: ::Raben::{ user-id=6257178 }
+- ::{ flag=PH }:: ::space-walker::{ user-id=9435841 }
+- ::{ flag=PH }:: ::Syntoxical::{ user-id=18105116 }
+- ::{ flag=PH }:: ::Taikore::{ user-id=29115112 }
+- ::{ flag=PH }:: ::Toadette::{ user-id=11517895 }
+- ::{ flag=PH }:: ::wwowie::{ user-id=19445999 }
+- ::{ flag=PH }:: ::xidorn::{ user-id=7904667 }
+- ::{ flag=PH }:: ::Yron8::{ user-id=1537747 }
+- ::{ flag=PH }:: ::Zyphore::{ user-id=9949657 }
 
 ## Podium
 
@@ -85,9 +85,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Mochii_31](https://osu.ppy.sh/users/25140935) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Yron8](https://osu.ppy.sh/users/1537747) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [[KN]CuB-03](https://osu.ppy.sh/users/18560307) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::Mochii\131::{ user-id=25140935 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::Yron8::{ user-id=1537747 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::\1KN\1CuB-03::{ user-id=18560307 } |
 
 ## Mappool
 

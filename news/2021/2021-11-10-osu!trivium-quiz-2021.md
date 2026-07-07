@@ -29,7 +29,7 @@ The osu!trivium Quiz 2021 offers lucrative rewards for those who manage to place
 
 ## FAQ
 
-Below are answers to some questions we anticipate from the participants. If your question is not answered here, please feel free to ask [mangomizer](https://osu.ppy.sh/users/1893718) on the aforementioned Discord server.
+Below are answers to some questions we anticipate from the participants. If your question is not answered here, please feel free to ask ::mangomizer::{ user-id=1893718 } on the aforementioned Discord server.
 
 ### This quiz seems impossible! Where do I even begin?
 

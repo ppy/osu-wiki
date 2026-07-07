@@ -9,11 +9,11 @@ tags:
 
 ## February
 
-On 16 February 2015, storyboard rules were updated to allow image sizes larger than 854x640. As suggested by [Xgor](https://osu.ppy.sh/users/98661), the new maximum rankable image size for storyboards was updated to 1366x768.[^osu-weekly-1][^sb-rule-change]
+On 16 February 2015, storyboard rules were updated to allow image sizes larger than 854x640. As suggested by ::Xgor::{ user-id=98661 }, the new maximum rankable image size for storyboards was updated to 1366x768.[^osu-weekly-1][^sb-rule-change]
 
 ## March
 
-The first ever edition of osu!weekly was released on 13 March 2015. Written by [Tasha](https://osu.ppy.sh/users/1031958), osu!weekly positioned itself as "a weekly news digest covering the latest happenings of the game and its community".[^osu-weekly-1]
+The first ever edition of osu!weekly was released on 13 March 2015. Written by ::Tasha::{ user-id=1031958 }, osu!weekly positioned itself as "a weekly news digest covering the latest happenings of the game and its community".[^osu-weekly-1]
 
 The first ever osu! Beatmap Blueprint stickers were added to the [osu!store](https://osu.ppy.sh/store/listing) on 20 March 2015. The stickers came in two packs of 8.5" x 11" custom sticker sheets featuring such elements as hit circles, combo counters, sliders, and much more.[^osu-stickers] In celebration of the launch, a contest was run to see who could make the best [beatmap](/wiki/Beatmap) using the stickers, with a first place prize of an osu! tablet and osu! sticker sets 1 and 2. Despite this, the contest was cancelled due to a lack of submissions, and no follow-up regarding this was ever publicly stated at the time.[^osu-stickers][^osu-stickers-submission-count]
 
@@ -51,7 +51,7 @@ The ability to see what a replay would look like without [mods](/wiki/Gameplay/G
 
 ## July
 
-On 15 July 2015, it was announced that a new public [Slack](https://slack.com/) team was created for the purpose of better communicating with public contributors. [peppy](https://osu.ppy.sh/users/2) initially made the announcement on his blog and had explained that anyone who was willing to help test cutting-edge features, contribute graphical/sound resources, or get help working with osu! services could come and join the team and talk to the people from different [osu! teams](/wiki/People/osu!_team) directly.[^ppy-blog-july-15]
+On 15 July 2015, it was announced that a new public [Slack](https://slack.com/) team was created for the purpose of better communicating with public contributors. ::peppy::{ user-id=2 } initially made the announcement on his blog and had explained that anyone who was willing to help test cutting-edge features, contribute graphical/sound resources, or get help working with osu! services could come and join the team and talk to the people from different [osu! teams](/wiki/People/osu!_team) directly.[^ppy-blog-july-15]
 
 *Note: There was still a private Slack team that the osu! team used for internal communications, which was not accessible or viewable to outside users; these two teams were independent of each other.*
 

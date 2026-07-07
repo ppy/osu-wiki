@@ -11,7 +11,7 @@ The **osu! Beatmapping World Championship (o!bwc)** returns for 2026!
 
 [o!bwc](/wiki/Contests/o!bwc) is an international beatmapping contest that brings together beatmappers from around the world to showcase their creativity, expertise, and passion for mapping. Teams represent their home country and compete through qualifiers and intense clash rounds, all in pursuit of the championship title.
 
-This year's edition is hosted by ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) and ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909). Whether you're a seasoned mapper or just getting started, gather your team and take part! Join the [Discord server](https://discord.com/invite/QGzz3n655u), visit the [forum thread](https://osu.ppy.sh/community/forums/topics/2196621) or [register directly here](https://form-auth.ppy.sh/form/2026-bwc-registrations).
+This year's edition is hosted by ::{ flag=KR }:: ::momoyo::{ user-id=12469536 }, ::{ flag=US }:: ::-White::{ user-id=16276548 }, ::{ flag=HK }:: ::Chaoslitz::{ user-id=3621552 } and ::{ flag=CN }:: ::Mafumafu::{ user-id=3076909 }. Whether you're a seasoned mapper or just getting started, gather your team and take part! Join the [Discord server](https://discord.com/invite/QGzz3n655u), visit the [forum thread](https://osu.ppy.sh/community/forums/topics/2196621) or [register directly here](https://form-auth.ppy.sh/form/2026-bwc-registrations).
 
 ## Schedule
 

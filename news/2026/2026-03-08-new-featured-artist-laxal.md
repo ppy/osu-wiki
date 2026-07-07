@@ -19,7 +19,7 @@ Preview some tracks, then start a map of your own:
 
 ### LaXal feat. Melissa Brooks - Horizons
 
-Two of **LaXal**'s biggest passions are music and video games. If you played [this osu!catch map](https://osu.ppy.sh/beatmapsets/2478800) by [mieldeprairie](https://osu.ppy.sh/users/19290397), you'd understand how those passions intertwine.
+Two of **LaXal**'s biggest passions are music and video games. If you played [this osu!catch map](https://osu.ppy.sh/beatmapsets/2478800) by ::mieldeprairie::{ user-id=19290397 }, you'd understand how those passions intertwine.
 
 <div align="center" class="osu-md__paragraph">
     <video width="100%" controls>

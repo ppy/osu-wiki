@@ -23,7 +23,7 @@ Peeking into the history of mapping can be fun, but let's not forget about the c
 
 ### Innocent Key - Lunatic Red Eyes
 
-Check out [this old-school map](https://osu.ppy.sh/beatmapsets/17676) hosted by [termerys](https://osu.ppy.sh/users/84964) and [this modern map](https://osu.ppy.sh/beatmapsets/1879868) hosted by [Entry](https://osu.ppy.sh/users/10213311)!
+Check out [this old-school map](https://osu.ppy.sh/beatmapsets/17676) hosted by ::termerys::{ user-id=84964 } and [this modern map](https://osu.ppy.sh/beatmapsets/1879868) hosted by ::Entry::{ user-id=10213311 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/323/Touhou%20Tower%20Orchid%2FInnocent%20Key%20-%20Lunatic%20Red%20Eyes.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [this old-school map](https://osu.ppy.sh/beatmapsets/17676) hosted by 
 
 ### Innocent Key - Toho-Assisted-Speedrun!!!
 
-[FAMoss](https://osu.ppy.sh/users/7707789) presents the first ever [osu!mania beatmap for **Innocent Key**](https://osu.ppy.sh/beatmapsets/1852057) made specifically for this announcement!
+::FAMoss::{ user-id=7707789 } presents the first ever [osu!mania beatmap for **Innocent Key**](https://osu.ppy.sh/beatmapsets/1852057) made specifically for this announcement!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/323/Innocent%20Key%20VS%20Tora%2FInnocent%20Key%20-%20Toho-Assisted-Speedrun!!!.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Check out [this old-school map](https://osu.ppy.sh/beatmapsets/17676) hosted by 
 
 ### Innocent Key - Wanna Be My Dream
 
-Play through [this osu! x osu!taiko map](https://osu.ppy.sh/beatmapsets/19840#osu/73139) hosted by [orioncomet](https://osu.ppy.sh/users/104827)!
+Play through [this osu! x osu!taiko map](https://osu.ppy.sh/beatmapsets/19840#osu/73139) hosted by ::orioncomet::{ user-id=104827 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/323/Touhou%20Sacred%20Water%20Festival%2FInnocent%20Key%20-%20Wanna%20Be%20My%20Dream.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ Play through [this osu! x osu!taiko map](https://osu.ppy.sh/beatmapsets/19840#os
 
 ### Innocent Key - Touhou School
 
-Attend [this class](https://osu.ppy.sh/beatmapsets/29904) led by [Mafiamaster](https://osu.ppy.sh/users/17695)!
+Attend [this class](https://osu.ppy.sh/beatmapsets/29904) led by ::Mafiamaster::{ user-id=17695 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/323/Touhou%20School%2FInnocent%20Key%20-%20Touhou%20School.mp3" type="audio/mpeg">
@@ -55,7 +55,7 @@ Attend [this class](https://osu.ppy.sh/beatmapsets/29904) led by [Mafiamaster](h
 
 ### Innocent Key - Rabucchu*Chireiden
 
-Hop between circles on [this osu! and osu!taiko hybrid map](https://osu.ppy.sh/beatmapsets/21733) hosted by [orioncomet](https://osu.ppy.sh/users/104827)!
+Hop between circles on [this osu! and osu!taiko hybrid map](https://osu.ppy.sh/beatmapsets/21733) hosted by ::orioncomet::{ user-id=104827 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/323/Touhou%20Serious%20Innocent%20Key%2FInnocent%20Key%20-%20Love-chuCHIREIDEN.mp3" type="audio/mpeg">
@@ -63,7 +63,7 @@ Hop between circles on [this osu! and osu!taiko hybrid map](https://osu.ppy.sh/b
 
 ### Innocent Key - Touhou Holy Water Festival - The Troubled Maidens Year ~Pappa~
 
-Celebrate with [this osu! map](https://osu.ppy.sh/beatmapsets/10906) hosted by [Mafiamaster](https://osu.ppy.sh/users/17695)!
+Celebrate with [this osu! map](https://osu.ppy.sh/beatmapsets/10906) hosted by ::Mafiamaster::{ user-id=17695 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/323/Touhou%20Sacred%20Water%20Festival%2FInnocent%20Key%20-%20Touhou%20Holy%20Water%20Festival%20-%20The%20Troubled%20Maidens%20Year%20~Pappa~.mp3" type="audio/mpeg">
@@ -71,7 +71,7 @@ Celebrate with [this osu! map](https://osu.ppy.sh/beatmapsets/10906) hosted by [
 
 ### Innocent Key - Touhou Sweets! \~Kichiku Shimai to Junan Maid\~
 
-Play through [the map that introduced **Innocent Key** to osu!](https://osu.ppy.sh/beatmapsets/5255) hosted by [Metroid](https://osu.ppy.sh/users/10542)!
+Play through [the map that introduced **Innocent Key** to osu!](https://osu.ppy.sh/beatmapsets/5255) hosted by ::Metroid::{ user-id=10542 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/323/Touhou%20Sweets/Innocent_Key_-_Touhou_Sweets_Kichiku_Shimai_to_Junan_Maid.mp3" type="audio/mpeg">
@@ -79,7 +79,7 @@ Play through [the map that introduced **Innocent Key** to osu!](https://osu.ppy.
 
 ### Innocent Key -Shukudai ga Owaranai!
 
-Your last assignment: play [this map](https://osu.ppy.sh/beatmapsets/12245) hosted by [PandaCath](https://osu.ppy.sh/users/98758)
+Your last assignment: play [this map](https://osu.ppy.sh/beatmapsets/12245) hosted by ::PandaCath::{ user-id=98758 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/323/Touhou%20Summer%20Vacation%2FInnocent%20Key%20-%20Shukudai%20ga%20Owaranai!.mp3" type="audio/mpeg">

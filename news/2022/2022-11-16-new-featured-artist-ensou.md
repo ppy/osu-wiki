@@ -25,10 +25,10 @@ Check out some of these moody rock tunes for yourself through this showcase of o
 
 Play through any (or all) of the maps from this video:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/167740) hosted by [-\[Hikari\]-](https://osu.ppy.sh/users/4063598)
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/683542) hosted by [Nao Tomori](https://osu.ppy.sh/users/5364763)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/589530) hosted by [Kimitakari](https://osu.ppy.sh/users/4741164)
-- [4K and 7K osu!mania map](https://osu.ppy.sh/beatmapsets/147152) hosted by [arcwinolivirus](https://osu.ppy.sh/users/2039089)
+- [osu! map](https://osu.ppy.sh/beatmapsets/167740) hosted by ::-\[Hikari\]-::{ user-id=4063598 }
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/683542) hosted by ::Nao Tomori::{ user-id=5364763 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/589530) hosted by ::Kimitakari::{ user-id=4741164 }
+- [4K and 7K osu!mania map](https://osu.ppy.sh/beatmapsets/147152) hosted by ::arcwinolivirus::{ user-id=2039089 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/320/COMA%2FEnsou%20-%20COMA.mp3" type="audio/mpeg">

@@ -2,7 +2,7 @@
 
 ![AESS logo](img/banner.jpg)
 
-The **Aetherian's Summer Singles** (***AESS***) was a 1v1 single-elimination tournament hosted by ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040). It was the first instalment of the Aetherian's Summer Singles.
+The **Aetherian's Summer Singles** (***AESS***) was a 1v1 single-elimination tournament hosted by ::{ flag=FI }:: ::Aetherian::{ user-id=6263040 }. It was the first instalment of the Aetherian's Summer Singles.
 
 ## Tournament schedule
 
@@ -31,11 +31,11 @@ The Aetherian's Summer Singles was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040) |
-| Moderator | ::{ flag=US }:: [Varler](https://osu.ppy.sh/users/2504750) |
-| Mappool selector | ::{ flag=CA }:: [Drou](https://osu.ppy.sh/users/415932), ::{ flag=US }:: [RMarc](https://osu.ppy.sh/users/2852816) |
-| Graphic designer | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) |
-| Referee | ::{ flag=CA }:: [Drou](https://osu.ppy.sh/users/415932), ::{ flag=CA }:: [Zazzu](https://osu.ppy.sh/users/17918245), ::{ flag=FR }:: [Aidown](https://osu.ppy.sh/users/1522146), ::{ flag=CA }:: [Speed of Snail](https://osu.ppy.sh/users/4201807), ::{ flag=VN }:: [namiee](https://osu.ppy.sh/users/14279837), ::{ flag=PL }:: [smolcio](https://osu.ppy.sh/users/6337309), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521), ::{ flag=US }:: [Pipuuko](https://osu.ppy.sh/users/8446047) |
+| Host | ::{ flag=FI }:: ::Aetherian::{ user-id=6263040 } |
+| Moderator | ::{ flag=US }:: ::Varler::{ user-id=2504750 } |
+| Mappool selector | ::{ flag=CA }:: ::Drou::{ user-id=415932 }, ::{ flag=US }:: ::RMarc::{ user-id=2852816 } |
+| Graphic designer | ::{ flag=CA }:: ::Zyoulou::{ user-id=8668722 } |
+| Referee | ::{ flag=CA }:: ::Drou::{ user-id=415932 }, ::{ flag=CA }:: ::Zazzu::{ user-id=17918245 }, ::{ flag=FR }:: ::Aidown::{ user-id=1522146 }, ::{ flag=CA }:: ::Speed of Snail::{ user-id=4201807 }, ::{ flag=VN }:: ::namiee::{ user-id=14279837 }, ::{ flag=PL }:: ::smolcio::{ user-id=6337309 }, ::{ flag=PL }:: ::P a t r i c k::{ user-id=6814521 }, ::{ flag=US }:: ::Pipuuko::{ user-id=8446047 } |
 
 ## Links
 
@@ -46,10 +46,10 @@ The Aetherian's Summer Singles was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| 1–16 | ::{ flag=CA }:: [FlatPaper](https://osu.ppy.sh/users/11255340), ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628), ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541), ::{ flag=US }:: [bananaman533](https://osu.ppy.sh/users/1284243), ::{ flag=US }:: [azurium](https://osu.ppy.sh/users/4209818), ::{ flag=HK }:: [Finley](https://osu.ppy.sh/users/10141298), ::{ flag=ID }:: [Xicyte](https://osu.ppy.sh/users/10212581), ::{ flag=US }:: [Period](https://osu.ppy.sh/users/2916205), ::{ flag=FR }:: [abateur](https://osu.ppy.sh/users/9811883), ::{ flag=FI }:: [CPU_Cartel](https://osu.ppy.sh/users/9634978), ::{ flag=RU }:: [Dealife](https://osu.ppy.sh/users/11495122), ::{ flag=RU }:: [Sandron](https://osu.ppy.sh/users/10458639), ::{ flag=VN }:: [Kawa-desu](https://osu.ppy.sh/users/6932883), ::{ flag=US }:: [Lilian](https://osu.ppy.sh/users/8589120), ::{ flag=US }:: [Juicy-](https://osu.ppy.sh/users/13097638), ::{ flag=PL }:: [Saturas](https://osu.ppy.sh/users/9548110) |
-| 17–32 | ::{ flag=ID }:: [[ Jodhy ]](https://osu.ppy.sh/users/12578000), ::{ flag=CN }:: [feifeiis](https://osu.ppy.sh/users/4734497), ::{ flag=FR }:: [Tig](https://osu.ppy.sh/users/6745742), ::{ flag=HK }:: [boeing747](https://osu.ppy.sh/users/5975021), ::{ flag=ID }:: [Misaki - Rhythm](https://osu.ppy.sh/users/7128826), ::{ flag=KG }:: [Madaraha](https://osu.ppy.sh/users/11137291), ::{ flag=DE }:: [pluto senpai](https://osu.ppy.sh/users/15858332), ::{ flag=TH }:: [Seaweed](https://osu.ppy.sh/users/5151214), ::{ flag=CN }:: [Re_CYCLC](https://osu.ppy.sh/users/9043058), ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299), ::{ flag=BR }:: [Hctbi](https://osu.ppy.sh/users/11618525), ::{ flag=US }:: [Thore](https://osu.ppy.sh/users/10451872), ::{ flag=US }:: [Silent](https://osu.ppy.sh/users/7523707), ::{ flag=FI }:: [-L8](https://osu.ppy.sh/users/3447236), ::{ flag=US }:: [KillingCopper](https://osu.ppy.sh/users/9878349), ::{ flag=MY }:: [Ayumu Uehara](https://osu.ppy.sh/users/13626098) |
-| 33–48 | ::{ flag=US }:: [Eribriel](https://osu.ppy.sh/users/12386362), ::{ flag=US }:: [eno](https://osu.ppy.sh/users/6658367), ::{ flag=KG }:: [Razak_](https://osu.ppy.sh/users/13195585), ::{ flag=US }:: [iamanewb](https://osu.ppy.sh/users/10350809), ::{ flag=US }:: [JigglingJerome](https://osu.ppy.sh/users/17091856), ::{ flag=BY }:: [Gadfour](https://osu.ppy.sh/users/9746556), ::{ flag=US }:: [minwork](https://osu.ppy.sh/users/14594272), ::{ flag=ID }:: [Contra](https://osu.ppy.sh/users/12011863), ::{ flag=GB }:: [Reshamen](https://osu.ppy.sh/users/17706086), ::{ flag=BE }:: [Ramfie](https://osu.ppy.sh/users/17201929), ::{ flag=MY }:: [Seushe](https://osu.ppy.sh/users/11234664), ::{ flag=NZ }:: [kit-](https://osu.ppy.sh/users/10981171), ::{ flag=US }:: [Remias](https://osu.ppy.sh/users/11782233), ::{ flag=CA }:: [atokymat](https://osu.ppy.sh/users/11465676), ::{ flag=NO }:: [Oribkens](https://osu.ppy.sh/users/12375176), ::{ flag=CA }:: [Bert](https://osu.ppy.sh/users/7330614) |
-| 49–64 | ::{ flag=GB }:: [MC AKIO](https://osu.ppy.sh/users/9008727), ::{ flag=US }:: [Chester Ming](https://osu.ppy.sh/users/4563687), ::{ flag=US }:: [Promooooooo](https://osu.ppy.sh/users/16614190), ::{ flag=US }:: [Azeylum](https://osu.ppy.sh/users/7873393), ::{ flag=HK }:: [kenny03316](https://osu.ppy.sh/users/2955661), ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253), ::{ flag=BR }:: [-LF-](https://osu.ppy.sh/users/11461810), ::{ flag=MA }:: [clorox\_1g](https://osu.ppy.sh/users/9702728), ::{ flag=TR }:: [Srpp](https://osu.ppy.sh/users/10087650), ::{ flag=US }:: [Tilenal](https://osu.ppy.sh/users/12086452), ::{ flag=CA }:: [Potato9756](https://osu.ppy.sh/users/13205755), ::{ flag=RU }:: [Liyachka](https://osu.ppy.sh/users/12777902), ::{ flag=MY }:: [MinaMyoui](https://osu.ppy.sh/users/6996926), ::{ flag=CA }:: [wolfflow11](https://osu.ppy.sh/users/14491879), ::{ flag=GB }:: [elix](https://osu.ppy.sh/users/10178296), ::{ flag=NZ }:: [mityaguy32](https://osu.ppy.sh/users/16536519) |
+| 1–16 | ::{ flag=CA }:: ::FlatPaper::{ user-id=11255340 }, ::{ flag=PH }:: ::NathanSS::{ user-id=8500628 }, ::{ flag=CA }:: ::FaintGun::{ user-id=10500541 }, ::{ flag=US }:: ::bananaman533::{ user-id=1284243 }, ::{ flag=US }:: ::azurium::{ user-id=4209818 }, ::{ flag=HK }:: ::Finley::{ user-id=10141298 }, ::{ flag=ID }:: ::Xicyte::{ user-id=10212581 }, ::{ flag=US }:: ::Period::{ user-id=2916205 }, ::{ flag=FR }:: ::abateur::{ user-id=9811883 }, ::{ flag=FI }:: ::CPU\1Cartel::{ user-id=9634978 }, ::{ flag=RU }:: ::Dealife::{ user-id=11495122 }, ::{ flag=RU }:: ::Sandron::{ user-id=10458639 }, ::{ flag=VN }:: ::Kawa-desu::{ user-id=6932883 }, ::{ flag=US }:: ::Lilian::{ user-id=8589120 }, ::{ flag=US }:: ::Juicy-::{ user-id=13097638 }, ::{ flag=PL }:: ::Saturas::{ user-id=9548110 } |
+| 17–32 | ::{ flag=ID }:: ::\1 Jodhy \1::{ user-id=12578000 }, ::{ flag=CN }:: ::feifeiis::{ user-id=4734497 }, ::{ flag=FR }:: ::Tig::{ user-id=6745742 }, ::{ flag=HK }:: ::boeing747::{ user-id=5975021 }, ::{ flag=ID }:: ::Misaki - Rhythm::{ user-id=7128826 }, ::{ flag=KG }:: ::Madaraha::{ user-id=11137291 }, ::{ flag=DE }:: ::pluto senpai::{ user-id=15858332 }, ::{ flag=TH }:: ::Seaweed::{ user-id=5151214 }, ::{ flag=CN }:: ::Re\1CYCLC::{ user-id=9043058 }, ::{ flag=ID }:: ::-TwiHD::{ user-id=5470299 }, ::{ flag=BR }:: ::Hctbi::{ user-id=11618525 }, ::{ flag=US }:: ::Thore::{ user-id=10451872 }, ::{ flag=US }:: ::Silent::{ user-id=7523707 }, ::{ flag=FI }:: ::-L8::{ user-id=3447236 }, ::{ flag=US }:: ::KillingCopper::{ user-id=9878349 }, ::{ flag=MY }:: ::Ayumu Uehara::{ user-id=13626098 } |
+| 33–48 | ::{ flag=US }:: ::Eribriel::{ user-id=12386362 }, ::{ flag=US }:: ::eno::{ user-id=6658367 }, ::{ flag=KG }:: ::Razak\1::{ user-id=13195585 }, ::{ flag=US }:: ::iamanewb::{ user-id=10350809 }, ::{ flag=US }:: ::JigglingJerome::{ user-id=17091856 }, ::{ flag=BY }:: ::Gadfour::{ user-id=9746556 }, ::{ flag=US }:: ::minwork::{ user-id=14594272 }, ::{ flag=ID }:: ::Contra::{ user-id=12011863 }, ::{ flag=GB }:: ::Reshamen::{ user-id=17706086 }, ::{ flag=BE }:: ::Ramfie::{ user-id=17201929 }, ::{ flag=MY }:: ::Seushe::{ user-id=11234664 }, ::{ flag=NZ }:: ::kit-::{ user-id=10981171 }, ::{ flag=US }:: ::Remias::{ user-id=11782233 }, ::{ flag=CA }:: ::atokymat::{ user-id=11465676 }, ::{ flag=NO }:: ::Oribkens::{ user-id=12375176 }, ::{ flag=CA }:: ::Bert::{ user-id=7330614 } |
+| 49–64 | ::{ flag=GB }:: ::MC AKIO::{ user-id=9008727 }, ::{ flag=US }:: ::Chester Ming::{ user-id=4563687 }, ::{ flag=US }:: ::Promooooooo::{ user-id=16614190 }, ::{ flag=US }:: ::Azeylum::{ user-id=7873393 }, ::{ flag=HK }:: ::kenny03316::{ user-id=2955661 }, ::{ flag=ID }:: ::fnayR::{ user-id=2800253 }, ::{ flag=BR }:: ::-LF-::{ user-id=11461810 }, ::{ flag=MA }:: ::clorox\_1g::{ user-id=9702728 }, ::{ flag=TR }:: ::Srpp::{ user-id=10087650 }, ::{ flag=US }:: ::Tilenal::{ user-id=12086452 }, ::{ flag=CA }:: ::Potato9756::{ user-id=13205755 }, ::{ flag=RU }:: ::Liyachka::{ user-id=12777902 }, ::{ flag=MY }:: ::MinaMyoui::{ user-id=6996926 }, ::{ flag=CA }:: ::wolfflow11::{ user-id=14491879 }, ::{ flag=GB }:: ::elix::{ user-id=10178296 }, ::{ flag=NZ }:: ::mityaguy32::{ user-id=16536519 } |
 
 ## Podium
 
@@ -57,9 +57,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: [FlatPaper](https://osu.ppy.sh/users/11255340) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: ::FlatPaper::{ user-id=11255340 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: ::FaintGun::{ user-id=10500541 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::NathanSS::{ user-id=8500628 } |
 
 ## Mappools
 

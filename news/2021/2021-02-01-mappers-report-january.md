@@ -47,17 +47,17 @@ Another year, another wave of Beatmap Nominators! As with every issue, here's wh
 
 ### BN Additions
 
-- **osu!:** [rosario wknd](https://osu.ppy.sh/users/6341518) & [Xahlt](https://osu.ppy.sh/users/13466351)
-- **osu!taiko:** [Ulqui](https://osu.ppy.sh/users/1263669) & [Hivie](https://osu.ppy.sh/users/14102976)
-- **osu!catch:** [GIGACHAD](https://osu.ppy.sh/users/11081858) & [Myxo](https://osu.ppy.sh/users/2202645)
-- **osu!mania:** [guden](https://osu.ppy.sh/users/11626065) & [deta5859](https://osu.ppy.sh/users/15275662)
+- **osu!:** ::rosario wknd::{ user-id=6341518 } & [Xahlt](https://osu.ppy.sh/users/13466351)
+- **osu!taiko:** ::Ulqui::{ user-id=1263669 } & [Hivie](https://osu.ppy.sh/users/14102976)
+- **osu!catch:** ::GIGACHAD::{ user-id=11081858 } & [Myxo](https://osu.ppy.sh/users/2202645)
+- **osu!mania:** ::guden::{ user-id=11626065 } & [deta5859](https://osu.ppy.sh/users/15275662)
 
 ### BN Resignations
 
-- **osu!:** [Okoratu](https://osu.ppy.sh/users/1623405)
-- **osu!taiko:** [Greenshell](https://osu.ppy.sh/users/8693851)
-- **osu!catch:** [JierYagtama](https://osu.ppy.sh/users/7483452) & [-Joni-](https://osu.ppy.sh/users/9988837)
-- **osu!mania:** [Rivals_7](https://osu.ppy.sh/users/4610379) & [Voxa](https://osu.ppy.sh/users/9229539)
+- **osu!:** ::Okoratu::{ user-id=1623405 }
+- **osu!taiko:** ::Greenshell::{ user-id=8693851 }
+- **osu!catch:** ::JierYagtama::{ user-id=7483452 } & [-Joni-](https://osu.ppy.sh/users/9988837)
+- **osu!mania:** ::Rivals\17::{ user-id=4610379 } & [Voxa](https://osu.ppy.sh/users/9229539)
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open.
 
@@ -67,11 +67,11 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com) and ap
 
 Because we covered all the four game modes in the previous issues of the Mappers’ Report, this means our showcase for this month is for storyboards in general. Storyboarding is an often undersung art, so let's give a few up-and-coming storyboarders some praise for their work!
 
-Thanks to [Walavouchey](https://osu.ppy.sh/users/5773079) for this month’s picks!
+Thanks to ::Walavouchey::{ user-id=5773079 } for this month’s picks!
 
 ### VenerableNyanta
 
-With increasingly refined storyboards this year, [VenerableNyanta](https://osu.ppy.sh/users/12243368) has shown their determination for improvement project after project! It's easy to tell they have an eye for design when the visuals fill the screen with nothing but pure eye candy!
+With increasingly refined storyboards this year, ::VenerableNyanta::{ user-id=12243368 } has shown their determination for improvement project after project! It's easy to tell they have an eye for design when the visuals fill the screen with nothing but pure eye candy!
 
 Starting off with a brilliant entry to the ranked scene, the storyboard for [ClariS - Kimi no Shiranai Monogatari (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1191205#osu/2633220) contains different sections with varying ideas fitting the bright music! Here you can find a blend of immersive backgrounds, visuals on every single note, as well as lots of stars and sparkles, all tied together with tasteful transitions!
 
@@ -81,7 +81,7 @@ The crazy visuals sure seem fitting in [HiTECH NINJA - Modelista](https://osu.pp
 
 ### TheDuckMask
 
-A confident storyboarder for a couple of years now, [TheDuckMask](https://osu.ppy.sh/users/7405768) has shown expertise nowadays in more niche sides of storyboard design.
+A confident storyboarder for a couple of years now, ::TheDuckMask::{ user-id=7405768 } has shown expertise nowadays in more niche sides of storyboard design.
 
 It isn't often that storyboarders take the term "storyboard" very literally, which is why TheDuckMask's take on [Mrs. GREEN APPLE - Boku no Koto](https://osu.ppy.sh/beatmapsets/1172658#osu/2445840) might come as a surprise to a lot of people. Telling stories is a rare skill, after all. Some of the most well-regarded storyboards use it in combination with spectacular visuals, but this one shows how it's possible to focus on one thing and do it really well!
 
@@ -97,7 +97,7 @@ Think you've got what it takes to become the next great storyboarder? No? Well, 
 
 A new year means more exciting mapping contests - this time with the 3rd season of the famous osu!mania challenge, MaMaChaCha!
 
-Should you plan any contest in the future and would like to have it advertised in the Mappers’ Report, please contact [Feerum](https://osu.ppy.sh/users/4815717) with all the details about it!
+Should you plan any contest in the future and would like to have it advertised in the Mappers’ Report, please contact ::Feerum::{ user-id=4815717 } with all the details about it!
 
 ### Mania Mapping Chance Challenge
 
@@ -105,7 +105,7 @@ Do you feel like your mapping is stale? Want to map outside of your comfort zone
 
 This is a mania-specific mapping event where each mapper is given a restriction, be it artist, album, or theme, and are then given 3 weeks to do the best they can. After the 3 weeks, we bundle up all the maps for everyone to download and allow users to upload their own maps to show off to the world! Season 3 is currently underway and should last a few months throughout the year.
 
-If you're interested, check out [this thread](https://osu.ppy.sh/community/forums/topics/723358) then DM [Parachor](https://osu.ppy.sh/users/5241655) with an example of uniqueness in your mapping. The event is entirely run on Discord, so a Discord account is required as well.
+If you're interested, check out [this thread](https://osu.ppy.sh/community/forums/topics/723358) then DM ::Parachor::{ user-id=5241655 } with an example of uniqueness in your mapping. The event is entirely run on Discord, so a Discord account is required as well.
 
 ## Around the Community
 
@@ -135,7 +135,7 @@ If you are unsure about whether or not the content you want to include in your b
 
 And with that, we conclude the first issue of the Mappers’ Report for 2021. This one might be a little bit shorter than normal, but them's the punches, yo.
 
-As always, should you have anything interesting mapping or modding related you would like to see being mentioned in the next issue, please do not hesitate to contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)!
+As always, should you have anything interesting mapping or modding related you would like to see being mentioned in the next issue, please do not hesitate to contact ::Feerum::{ user-id=4815717 } or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)!
 
 Hope to see you there soon, thank you for reading and stay safe and healthy!
 

@@ -9,7 +9,7 @@ Another week, another Featured Artist. Welcome **Pandize** to our collection!
 
 ![](https://assets.ppy.sh/artists/405/header.jpg?1)
 
-Not to be confused with [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55), **Pandize** is an American producer who you might've come across for reasons beyond their music. Like all of you (probably), [Pandize is an osu! player](https://osu.ppy.sh/users/5490937) who's taken the next step in the rhythm game scene: producing their own music!
+Not to be confused with [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55), **Pandize** is an American producer who you might've come across for reasons beyond their music. Like all of you (probably), ::Pandize is an osu! player::{ user-id=5490937 } who's taken the next step in the rhythm game scene: producing their own music!
 
 [Pegboard Nerds](https://osu.ppy.sh/beatmaps/artists/287), [Teminite](https://osu.ppy.sh/beatmaps/artists/64), and [Tokyo Machine](https://osu.ppy.sh/beatmaps/artists/276) were just a few of the names responsible for inspiring **Pandize**'s composition style — a style that's been under construction since he started making music in 2012.
 
@@ -25,7 +25,7 @@ Listen for yourself:
 
 ### Pandize - Stratos
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/717623) hosted by [Mun](https://osu.ppy.sh/users/6699165)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/717623) hosted by ::Mun::{ user-id=6699165 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/405/Songs/Pandize - Stratos.mp3">

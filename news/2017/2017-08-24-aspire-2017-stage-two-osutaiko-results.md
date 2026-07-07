@@ -15,7 +15,7 @@ Showcased live to an audience of stunned viewers, twelve were chosen for the com
 
 And judge they did.
 
-Beloved by judge and community both, the winner of Aspire 2017: Stage Two is none other than **Intense Muskrat**, mapped by the extraordinarily talented [Supairo](https://osu.ppy.sh/users/2837231), with a total score of **72.3/80** and **180** unique votes.
+Beloved by judge and community both, the winner of Aspire 2017: Stage Two is none other than **Intense Muskrat**, mapped by the extraordinarily talented ::Supairo::{ user-id=2837231 }, with a total score of **72.3/80** and **180** unique votes.
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/ecLEDCTAFwM?list=PLmWVQsxi34bOmPFZsL9dCJbR8eFlkNsrG" frameborder="0" allowfullscreen></iframe>
 
@@ -33,7 +33,7 @@ Ranging from the implementation of osu!'s other gamemodes, to an ambitious recre
 
 ---
 
-Gruellingly close but ever so far, **Powerful Viper** by [tasuke912](https://osu.ppy.sh/users/2774767) was nipping at the winning entry's heels every step of the way, scoring **67.2/80** with **162** unique votes.
+Gruellingly close but ever so far, **Powerful Viper** by ::tasuke912::{ user-id=2774767 } was nipping at the winning entry's heels every step of the way, scoring **67.2/80** with **162** unique votes.
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/PpzJP8ARdvY?list=PLmWVQsxi34bOmPFZsL9dCJbR8eFlkNsrG" frameborder="0" allowfullscreen></iframe>
 
@@ -49,7 +49,7 @@ We were particularly impressed by the "Monochrome" and "Function" mods, as these
 
 ---
 
-Trailing behind the two frontrunners in third place overall was **Jovial Lark** by the much-loved [S a n d](https://osu.ppy.sh/users/676578), scoring **56.1/80** with **128** unique votes overall.
+Trailing behind the two frontrunners in third place overall was **Jovial Lark** by the much-loved ::S a n d::{ user-id=676578 }, scoring **56.1/80** with **128** unique votes overall.
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/uALRwlC5lPw?list=PLmWVQsxi34bOmPFZsL9dCJbR8eFlkNsrG" frameborder="0" allowfullscreen></iframe>
 

@@ -25,7 +25,7 @@ Check everything out for yourself:
 
 ### The Pressure
 
-Play through [the osu! map from the video above](https://osu.ppy.sh/beatmapsets/325307) hosted by [Asserin](https://osu.ppy.sh/users/3111087) or [this osu!mania map](https://osu.ppy.sh/beatmapsets/952619) hosted by [Voxa](https://osu.ppy.sh/users/9229539)!
+Play through [the osu! map from the video above](https://osu.ppy.sh/beatmapsets/325307) hosted by ::Asserin::{ user-id=3111087 } or [this osu!mania map](https://osu.ppy.sh/beatmapsets/952619) hosted by ::Voxa::{ user-id=9229539 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/254/Songs/Stonebank%20-%20The%20Pressure.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Play through [the osu! map from the video above](https://osu.ppy.sh/beatmapsets/
 
 ### All Night
 
-Explore [this stacked osu! set](https://osu.ppy.sh/beatmapsets/410998) hosted by [Monstrata](https://osu.ppy.sh/users/2706438)!
+Explore [this stacked osu! set](https://osu.ppy.sh/beatmapsets/410998) hosted by ::Monstrata::{ user-id=2706438 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/254/Songs/Stonebank%20-%20All%20Night.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Explore [this stacked osu! set](https://osu.ppy.sh/beatmapsets/410998) hosted by
 
 ### Who's Got Your Love
 
-Try out [this osu! map](https://osu.ppy.sh/beatmapsets/496549) hosted by [Fanteer](https://osu.ppy.sh/users/7989641)!
+Try out [this osu! map](https://osu.ppy.sh/beatmapsets/496549) hosted by ::Fanteer::{ user-id=7989641 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/254/Songs/Stonebank%20-%20Who%27s%20Got%20Your%20Love.mp3" type="audio/mpeg">

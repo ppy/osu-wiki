@@ -36,10 +36,10 @@ That said, there's no better way to experience **YUC'e** than clicking circles f
 
 Check out some of these maps:
 
-- [osu! map from the video above](https://osu.ppy.sh/beatmapsets/546820) hosted by [Nathan](https://osu.ppy.sh/users/4785223)
-- [Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/535179) hosted by [KinomiCandy](https://osu.ppy.sh/users/375143)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/924882) hosted by [Kukkai](https://osu.ppy.sh/users/7811952)
-- [Brand new osu!taiko map](https://osu.ppy.sh/beatmapsets/2006776) hosted by [ZelLink](https://osu.ppy.sh/users/6752242)
+- [osu! map from the video above](https://osu.ppy.sh/beatmapsets/546820) hosted by ::Nathan::{ user-id=4785223 }
+- [Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/535179) hosted by ::KinomiCandy::{ user-id=375143 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/924882) hosted by ::Kukkai::{ user-id=7811952 }
+- [Brand new osu!taiko map](https://osu.ppy.sh/beatmapsets/2006776) hosted by ::ZelLink::{ user-id=6752242 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Future%20Candy/YUC'e%20-%20Future%20Candy.mp3">
@@ -47,7 +47,7 @@ Check out some of these maps:
 
 ### YUC'e - SPACE INVADER
 
-Play through [this newly ranked map](https://osu.ppy.sh/beatmapsets/2005892) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302) or [this new 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2008307) hosted by [Ilham](https://osu.ppy.sh/users/3057154)!
+Play through [this newly ranked map](https://osu.ppy.sh/beatmapsets/2005892) hosted by ::SMOKELIND::{ user-id=9327302 } or [this new 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2008307) hosted by ::Ilham::{ user-id=3057154 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Sugary%20Galaxy/YUC%27e%20-%20SPACE%20INVADER.mp3">
@@ -55,7 +55,7 @@ Play through [this newly ranked map](https://osu.ppy.sh/beatmapsets/2005892) hos
 
 ### YUC'e - Sugary Galaxy
 
-Try out [this map](https://osu.ppy.sh/beatmapsets/2015526) by [Hinsvar](https://osu.ppy.sh/users/1249323) through the newly released osu!(lazer) playlist!
+Try out [this map](https://osu.ppy.sh/beatmapsets/2015526) by ::Hinsvar::{ user-id=1249323 } through the newly released osu!(lazer) playlist!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Sugary%20Galaxy/YUC%27e%20-%20Sugary%20Galaxy.mp3">
@@ -63,7 +63,7 @@ Try out [this map](https://osu.ppy.sh/beatmapsets/2015526) by [Hinsvar](https://
 
 ### YUC'e - PUMP
 
-Word has it that [this multi-mode map](https://osu.ppy.sh/beatmapsets/615870) by [Flare-kun](https://osu.ppy.sh/users/7095286), [this new showcase set](https://osu.ppy.sh/beatmapsets/2023926) by [Daycore](https://osu.ppy.sh/users/5596337), and [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1014283) by [Capu](https://osu.ppy.sh/users/2474015) will make your heart... beat faster. Or something like that.
+Word has it that [this multi-mode map](https://osu.ppy.sh/beatmapsets/615870) by ::Flare-kun::{ user-id=7095286 }, [this new showcase set](https://osu.ppy.sh/beatmapsets/2023926) by ::Daycore::{ user-id=5596337 }, and [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1014283) by ::Capu::{ user-id=2474015 } will make your heart... beat faster. Or something like that.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Future%20Cake/YUC'e%20-%20PUMP.mp3">
@@ -71,7 +71,7 @@ Word has it that [this multi-mode map](https://osu.ppy.sh/beatmapsets/615870) by
 
 ### YUC'e - Sunset Tea Cup
 
-Try out [this Loved osu! map](https://osu.ppy.sh/beatmapsets/634949) hosted by [Rumia-](https://osu.ppy.sh/users/1787171) or [this osu!catch rendition](https://osu.ppy.sh/beatmapsets/1488331) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)!
+Try out [this Loved osu! map](https://osu.ppy.sh/beatmapsets/634949) hosted by ::Rumia-::{ user-id=1787171 } or [this osu!catch rendition](https://osu.ppy.sh/beatmapsets/1488331) hosted by ::Jemzuu::{ user-id=7890134 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Songs/YUC'e%20-%20Sunset%20Tea%20Cup.mp3">
@@ -79,7 +79,7 @@ Try out [this Loved osu! map](https://osu.ppy.sh/beatmapsets/634949) hosted by [
 
 ### YUC'e - Sengoku HOP
 
-Play through [this iconic swing map](https://osu.ppy.sh/beatmapsets/564329) hosted by [Nathan](https://osu.ppy.sh/users/4785223)!
+Play through [this iconic swing map](https://osu.ppy.sh/beatmapsets/564329) hosted by ::Nathan::{ user-id=4785223 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Future%20Cake/YUC'e%20-%20Sengoku%20HOP.mp3">
@@ -87,7 +87,7 @@ Play through [this iconic swing map](https://osu.ppy.sh/beatmapsets/564329) host
 
 ### YUC'e - POISON
 
-Bash drums to [this map](https://osu.ppy.sh/beatmapsets/1102382) hosted by [Capu](https://osu.ppy.sh/users/2474015)!
+Bash drums to [this map](https://osu.ppy.sh/beatmapsets/1102382) hosted by ::Capu::{ user-id=2474015 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Future%20Candy/YUC'e%20-%20POISON.mp3">
@@ -95,7 +95,7 @@ Bash drums to [this map](https://osu.ppy.sh/beatmapsets/1102382) hosted by [Capu
 
 ### YUC'e - POISON -KO3 Remix-
 
-[JrSzZ](https://osu.ppy.sh/users/8845986) also created [this map](https://osu.ppy.sh/beatmapsets/967021) using an alternate version of the song above!
+::JrSzZ::{ user-id=8845986 } also created [this map](https://osu.ppy.sh/beatmapsets/967021) using an alternate version of the song above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Magical%20Mixer/YUC'e%20-%20POISON%20-KO3%20Remix-.mp3">
@@ -103,7 +103,7 @@ Bash drums to [this map](https://osu.ppy.sh/beatmapsets/1102382) hosted by [Capu
 
 ### YUC'e - Night Club Junkie
 
-Try playing [this stellar map](https://osu.ppy.sh/beatmapsets/756066) featuring difficulties by [Nathan](https://osu.ppy.sh/users/4785223) and [fanzhen0019](https://osu.ppy.sh/users/418699)!
+Try playing [this stellar map](https://osu.ppy.sh/beatmapsets/756066) featuring difficulties by ::Nathan::{ user-id=4785223 } and [fanzhen0019](https://osu.ppy.sh/users/418699)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/macaron%20moon/YUC'e%20-%20Night%20Club%20Junkie.mp3">
@@ -111,7 +111,7 @@ Try playing [this stellar map](https://osu.ppy.sh/beatmapsets/756066) featuring 
 
 ### YUC'e - MUDPIE
 
-Here's [a Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/559992) hosted by [Y O U T A](https://osu.ppy.sh/users/4909860) and [a 4K osu!mania map](https://osu.ppy.sh/beatmapsets/633309) hosted by [Ilham](https://osu.ppy.sh/users/3057154)!
+Here's [a Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/559992) hosted by ::Y O U T A::{ user-id=4909860 } and [a 4K osu!mania map](https://osu.ppy.sh/beatmapsets/633309) hosted by ::Ilham::{ user-id=3057154 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Future%20Cake/YUC'e%20-%20MUDPIE.mp3">
@@ -119,7 +119,7 @@ Here's [a Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/559992) hosted by 
 
 ### YUC'e - Magical Mixer
 
-Try out [this multi-million-play map](https://osu.ppy.sh/beatmapsets/680338) hosted by [tatemae](https://osu.ppy.sh/users/5223028)!
+Try out [this multi-million-play map](https://osu.ppy.sh/beatmapsets/680338) hosted by ::tatemae::{ user-id=5223028 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Magical%20Mixer/YUC'e%20-%20Magical%20Mixer.mp3">
@@ -127,7 +127,7 @@ Try out [this multi-million-play map](https://osu.ppy.sh/beatmapsets/680338) hos
 
 ### YUC'e - intro-duck-tion!!
 
-Here's a [full osu!taiko spread](https://osu.ppy.sh/beatmapsets/700150) hosted by [komasy](https://osu.ppy.sh/users/1980256)!
+Here's a [full osu!taiko spread](https://osu.ppy.sh/beatmapsets/700150) hosted by ::komasy::{ user-id=1980256 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Future%20Cake/YUC'e%20-%20intro-duck-tion!!.mp3">
@@ -135,7 +135,7 @@ Here's a [full osu!taiko spread](https://osu.ppy.sh/beatmapsets/700150) hosted b
 
 ### YUC'e - Future Cake
 
-Experience [this Loved osu! map](https://osu.ppy.sh/beatmapsets/715542) hosted by [J1_](https://osu.ppy.sh/users/5918561)!
+Experience [this Loved osu! map](https://osu.ppy.sh/beatmapsets/715542) hosted by ::J1\1::{ user-id=5918561 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Future%20Cake/YUC'e%20-%20Future%20Cake.mp3">
@@ -143,7 +143,7 @@ Experience [this Loved osu! map](https://osu.ppy.sh/beatmapsets/715542) hosted b
 
 ### YUC'e - Cotton Candy Parade
 
-And here's another [osu!taiko difficulty spread](https://osu.ppy.sh/beatmapsets/1377925) hosted by [komasy](https://osu.ppy.sh/users/1980256)!
+And here's another [osu!taiko difficulty spread](https://osu.ppy.sh/beatmapsets/1377925) hosted by ::komasy::{ user-id=1980256 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Future%20Cake/YUC'e%20-%20Cotton%20Candy%20Parade.mp3">
@@ -151,7 +151,7 @@ And here's another [osu!taiko difficulty spread](https://osu.ppy.sh/beatmapsets/
 
 ### YUC'e - Cinderella Syndrome
 
-Explore [the first Ranked **YUC'e** map](https://osu.ppy.sh/beatmapsets/561693) hosted by [Kibbleru](https://osu.ppy.sh/users/3193504) or [this osu!catch map](https://osu.ppy.sh/beatmapsets/1467712) hosted by [KuroRev](https://osu.ppy.sh/users/6581584)!
+Explore [the first Ranked **YUC'e** map](https://osu.ppy.sh/beatmapsets/561693) hosted by ::Kibbleru::{ user-id=3193504 } or [this osu!catch map](https://osu.ppy.sh/beatmapsets/1467712) hosted by ::KuroRev::{ user-id=6581584 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Future%20Candy/YUC'e%20-%20Cinderella%20Syndrome.mp3">
@@ -159,7 +159,7 @@ Explore [the first Ranked **YUC'e** map](https://osu.ppy.sh/beatmapsets/561693) 
 
 ### Aiobahn - Towa no Utage (w/ YUC'e)
 
-Or try [a map of this guest track](https://osu.ppy.sh/beatmapsets/844048) hosted by [Sakurauchi Riko](https://osu.ppy.sh/users/5710809)!
+Or try [a map of this guest track](https://osu.ppy.sh/beatmapsets/844048) hosted by ::Sakurauchi Riko::{ user-id=5710809 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Songs/Aiobahn%20-%20Towa%20no%20Utage%20(w%20YUC'e).mp3">
@@ -167,7 +167,7 @@ Or try [a map of this guest track](https://osu.ppy.sh/beatmapsets/844048) hosted
 
 ### Aiobahn - Shinen no Mermaid (w/ YUC'e)
 
-One last map: [this chill creation](https://osu.ppy.sh/beatmapsets/1129090) hosted by [Cris-](https://osu.ppy.sh/users/6175280)!
+One last map: [this chill creation](https://osu.ppy.sh/beatmapsets/1129090) hosted by ::Cris-::{ user-id=6175280 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/372/Songs/Aiobahn%20-%20Shinen%20no%20Mermaid%20(w%20YUC'e).mp3">

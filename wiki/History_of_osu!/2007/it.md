@@ -1,12 +1,12 @@
 # Storia di osu! 2007
 
-Quelli che seguono sono alcuni degli eventi più importanti della storia di osu! sin dal suo inizio. Ringraziamenti speciali a [Sinistro](https://osu.ppy.sh/users/5530) per aver contributo nella compilazione dei contenuti del 2007/2008.
+Quelli che seguono sono alcuni degli eventi più importanti della storia di osu! sin dal suo inizio. Ringraziamenti speciali a ::Sinistro::{ user-id=5530 } per aver contributo nella compilazione dei contenuti del 2007/2008.
 
 ![](img/2007.jpg)
 
 ## Luglio
 
-osu! ha inizio come una prova di concetto chiamata "ouentest".[^ouentest] La prima versione è stata rilasciata il 1 luglio 2007 per un piccolo gruppo di amici intimi di [peppy](https://osu.ppy.sh/users/2) e presentava un [editor di beatmap](/wiki/Client/Beatmap_editor) e una modalità di gioco molto semplici. L'editor poteva creare solo [beatmaps](/wiki/Beatmap) *molto* semplici, senza funzioni di ricerca o [snapping](/wiki/Beatmapping/Snapping) disponibili e non c'erano sliders o spinners, solo cerchi e un conteggio di punteggio/combo di base. Il primo rilascio ha richiesto circa 16 ore di codifica ed è stato realizzato in un'unica *notte*. `pUpdater` (presto conosciuto come `osume`)[^osume] è stato introdotto per gestire l'aggiornamento alla versione più recente.
+osu! ha inizio come una prova di concetto chiamata "ouentest".[^ouentest] La prima versione è stata rilasciata il 1 luglio 2007 per un piccolo gruppo di amici intimi di ::peppy::{ user-id=2 } e presentava un [editor di beatmap](/wiki/Client/Beatmap_editor) e una modalità di gioco molto semplici. L'editor poteva creare solo [beatmaps](/wiki/Beatmap) *molto* semplici, senza funzioni di ricerca o [snapping](/wiki/Beatmapping/Snapping) disponibili e non c'erano sliders o spinners, solo cerchi e un conteggio di punteggio/combo di base. Il primo rilascio ha richiesto circa 16 ore di codifica ed è stato realizzato in un'unica *notte*. `pUpdater` (presto conosciuto come `osume`)[^osume] è stato introdotto per gestire l'aggiornamento alla versione più recente.
 
 ![](img/2007-07_01.jpg "Selezione dei brani")
 

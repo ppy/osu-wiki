@@ -22,21 +22,21 @@ Numerosos jugadores han ocupado el puesto #1 en cada modo de juego en diferentes
 
 *Página principal: [Historial de las clasificaciones de osu!](osu!)*
 
-Desde el 14 de junio de 2026, en la [clasificación de rendimiento de osu!](https://osu.ppy.sh/rankings/osu/performance), el jugador en el puesto #1 es ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160/osu).
+Desde el 14 de junio de 2026, en la [clasificación de rendimiento de osu!](https://osu.ppy.sh/rankings/osu/performance), el jugador en el puesto #1 es ::{ flag=RU }:: ::cryshina::{ user-id=14715160 }.
 
 ## ![][osu!taiko] osu!taiko
 
-Desde el 24 de marzo de 2026, en la [clasificación de rendimiento de osu!taiko](https://osu.ppy.sh/rankings/taiko/performance), el jugador en el puesto #1 es ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
+Desde el 24 de marzo de 2026, en la [clasificación de rendimiento de osu!taiko](https://osu.ppy.sh/rankings/taiko/performance), el jugador en el puesto #1 es ::{ flag=JP }:: ::Sinon\133::{ user-id=31148838 }.
 
 ## ![][osu!catch] osu!catch
 
 *Página principal: [Historial de las clasificaciones de osu!catch](osu!catch)*
 
-Desde el 2 de noviembre de 2024, en la [clasificación de rendimiento de osu!catch](https://osu.ppy.sh/rankings/fruits/performance), el jugador en el puesto #1 es ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
+Desde el 2 de noviembre de 2024, en la [clasificación de rendimiento de osu!catch](https://osu.ppy.sh/rankings/fruits/performance), el jugador en el puesto #1 es ::{ flag=KR }:: ::qwhj79::{ user-id=7547506 }.
 
 ## ![][osu!mania] osu!mania
 
-Desde el 4 de abril de 2026, en la [clasificación de rendimiento de osu!mania](https://osu.ppy.sh/rankings/mania/performance), el jugador en el puesto #1 es ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
+Desde el 4 de abril de 2026, en la [clasificación de rendimiento de osu!mania](https://osu.ppy.sh/rankings/mania/performance), el jugador en el puesto #1 es ::{ flag=KR }:: ::Kalkai::{ user-id=10790649 }.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

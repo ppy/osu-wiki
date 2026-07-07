@@ -25,8 +25,8 @@ Looking for a taste of **Aiobahn** to get started? Dive into the osu! mapping ha
 
 Play through any of these beatmaps:
 
-- [osu! mapset](https://osu.ppy.sh/beatmapsets/1129013) hosted by [Gero](https://osu.ppy.sh/users/1467715) as seen in the video above!
-- [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1151233) hosted by [Charlotte](https://osu.ppy.sh/users/3686901)
+- [osu! mapset](https://osu.ppy.sh/beatmapsets/1129013) hosted by ::Gero::{ user-id=1467715 } as seen in the video above!
+- [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1151233) hosted by ::Charlotte::{ user-id=3686901 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/166/Koko%20ni%20Iru%2FAiobahn%20-%20Koko%20ni%20Iru%20%28feat.%20rionos%29.mp3" type="audio/mpeg">
@@ -36,10 +36,10 @@ Play through any of these beatmaps:
 
 Or check out one of these beatmaps:
 
-- [3-difficulty osu! mapset](https://osu.ppy.sh/beatmapsets/1078570) hosted by [Sakurauchi Riko](https://osu.ppy.sh/users/5710809)
-- [single-difficulty osu! mapset](https://osu.ppy.sh/beatmapsets/1032553) hosted by [toseethefuture](https://osu.ppy.sh/users/11343682)
-- [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1124134) hosted by [Faputa](https://osu.ppy.sh/users/845733)
-- [osu!mania mapset](https://osu.ppy.sh/beatmapsets/1126358) hosted by [Feerum](https://osu.ppy.sh/users/4815717)
+- [3-difficulty osu! mapset](https://osu.ppy.sh/beatmapsets/1078570) hosted by ::Sakurauchi Riko::{ user-id=5710809 }
+- [single-difficulty osu! mapset](https://osu.ppy.sh/beatmapsets/1032553) hosted by ::toseethefuture::{ user-id=11343682 }
+- [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1124134) hosted by ::Faputa::{ user-id=845733 }
+- [osu!mania mapset](https://osu.ppy.sh/beatmapsets/1126358) hosted by ::Feerum::{ user-id=4815717 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/166/Sugiyuku%20Hi%20to%20Kimi%20e%2FAiobahn%20-%20Sugiyuku%20Hi%20to%20Kimi%20e%20%28feat.%20nayuta%29.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ Or check out one of these beatmaps:
 
 ### Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix)
 
-Play through the super popular [loved osu! difficulty](https://osu.ppy.sh/beatmapsets/519256) by [hehe](https://osu.ppy.sh/users/2123087)!
+Play through the super popular [loved osu! difficulty](https://osu.ppy.sh/beatmapsets/519256) by ::hehe::{ user-id=2123087 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/166/Burnt%20Rice%20%28feat.%20Yung%20GEMMY%29%2FShawn%20Wasabi%20%2B%20YDG%20feat.%20YUNG%20GEMMY%20-%20Burnt%20Rice%20%28Aiobahn%20%26%20Jh-Anu%20Remix%29.mp3" type="audio/mpeg">

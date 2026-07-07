@@ -39,7 +39,7 @@ Các hành vi lạm dụng, quấy rối hoặc những hành vi không thể ch
 
 Những người lãnh đạo cộng đồng có quyền truy cập vào hộp thư này bao gồm:
 
-- [peppy](https://osu.ppy.sh/users/2) ([pe@ppy.sh](mailto:pe@ppy.sh))
+- ::peppy::{ user-id=2 } ([pe@ppy.sh](mailto:pe@ppy.sh))
 
 Tất cả các khiếu nại sẽ được xem xét và được điều tra kịp thời, công bằng.
 

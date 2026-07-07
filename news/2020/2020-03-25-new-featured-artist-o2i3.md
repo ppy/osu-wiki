@@ -17,7 +17,7 @@ Check it all out:
 
 ### Ooi
 
-Check out [this hugely popular set](https://osu.ppy.sh/beatmapsets/355573) by [Ciyus Miapah](https://osu.ppy.sh/users/2805457)!
+Check out [this hugely popular set](https://osu.ppy.sh/beatmapsets/355573) by ::Ciyus Miapah::{ user-id=2805457 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/74/previews/2011.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out [this hugely popular set](https://osu.ppy.sh/beatmapsets/355573) by [C
 
 ### TSLove
 
-Check out this [popular set](https://osu.ppy.sh/beatmapsets/620910) hosted by [Fanteer](https://osu.ppy.sh/users/7989641)!
+Check out this [popular set](https://osu.ppy.sh/beatmapsets/620910) hosted by ::Fanteer::{ user-id=7989641 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/74/previews/2013.mp3" type="audio/mpeg">

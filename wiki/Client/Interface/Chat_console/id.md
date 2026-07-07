@@ -21,7 +21,7 @@ Dari hampir seluruh layar yang ada di osu!, kamu dapat menekan `F8` atau mengekl
 | **Merah** | Anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) atau [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) |
 | **Hijau** | Baris percakapan yang mengandung namamu atau kata kunci yang telah kamu tambahkan untuk meng-*[highlight](Highlight)* dirimu. Salinan dari pesan ini akan turut muncul pada kanal `#highlight`, yang menampung seluruh *highlight* yang masuk. |
 | **Biru** | Pesan pribadi |
-| **Biru muda** | [peppy](https://osu.ppy.sh/users/2), pencipta osu! |
+| **Biru muda** | ::peppy::{ user-id=2 }, pencipta osu! |
 | **Merah jambu** | [BanchoBot](/wiki/BanchoBot) |
 
 - Klik boks `Show Ticker` untuk menampilkan pesan chat terbaru di bagian bawah layar pada saat konsol chat sedang tidak aktif.
@@ -83,7 +83,7 @@ Tekan tombol angka yang sesuai pada keyboard atau klik pada bilah pilihan yang b
 | `/addfriend [nama pengguna]` | Menambahkan `[nama pengguna]` ke dalam daftar temanmu. | `/addfriend Amigo` | Kamu kini berteman dengan Amigo. |
 | `/delfriend [nama pengguna]` | Menghapus `[user]` dari daftar temanmu. | `/delfriend Amigo` | Kamu kini tidak lagi berteman dengan Amigo. |
 | `/away [pesan]` | Mengatur pesan sibuk (yang akan dikirimkan kepada pengguna yang mengirim PM kepadamu). Kosongkan isi pesan untuk membatalkan perintah ini. | `/away Saya adalah John Smith.` | Kamu telah ditandai sebagai sedang sibuk: Saya adalah John Smith. Pada saat Amigo mengirimkan pesan (/msg) kepadamu "John, di manakah dirimu?~" BanchoBot akan membalas dengan: Saya adalah John Smith. |
-| `/bb` | Mengirimkan pesan ke Bancho untuk menjalankan perintah seperti `!stats [nama pengguna]`. | `/bb !stats Uan` | \[15/11/12\] Statistik untuk [Uan](https://osu.ppy.sh/users/147623): Skor: 47,323,299,680 (#1) Jumlah Permainan: 176293 (lv102) Akurasi: 98.95% |
+| `/bb` | Mengirimkan pesan ke Bancho untuk menjalankan perintah seperti `!stats [nama pengguna]`. | `/bb !stats Uan` | \[15/11/12\] Statistik untuk ::Uan::{ user-id=147623 }: Skor: 47,323,299,680 (#1) Jumlah Permainan: 176293 (lv102) Akurasi: 98.95% |
 | `/chat [nama pengguna]`, `/msg [nama pengguna]`, atau `/query [nama pengguna]` | Membuka tab percakapan baru dengan pengguna yang ditentukan. | `/chat Amigo` | (tab Amigo akan terbuka) |
 | `/clear` | Menghapus chat pada tab yang sedang aktif. | `/clear` | (Menghapus seluruh teks chat pada tab saat ini) |
 | `/ignore [nama pengguna][@chp]` | Mengabaikan seluruh pesan dari pengguna yang ditentukan untuk sesi saat ini. Dengan menambahkan karakter "@" yang disertai dengan huruf "c", "h", dan/atau "p", kamu dapat secara khusus mengabaikan pengguna ini di chat, [highlight](Highlight), atau PM. | `/ignore Amigo@chp` | BanchoBot: Kamu tidak lagi akan mendengar percakapan dari Amigo {chat} {highlights} {PM} (Konsol chat kamu akan diatur untuk: mengabaikan teks apa pun yang dikirim oleh Amigo \[c\], teks apa pun yang meng-highlight dirimu oleh Amigo \[h\], serta pesan pribadi mana pun yang berasal dari Amigo \[p\]) |

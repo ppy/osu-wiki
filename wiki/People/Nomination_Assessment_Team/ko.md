@@ -77,7 +77,7 @@ NAT는 오랜 시간에 걸쳐서 잠재적 NAT 후보를 찾아보고 BN 평가
 
 2023년 3월 이후, NAT의 리더십을 [QAT](/wiki/People/Quality_Assurance_Team)에서 [적용됐던](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 조항을 통해 다시 정의했습니다. NAT 리더는 평가위원 및 고문의 두 역할을 모두 담당하므로, NAT의 모든 측면을 감시하고 지속해서 관여할 수 있습니다.
 
-현재 NAT 리더는 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)와 ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)입니다.
+현재 NAT 리더는 ::{ flag=TN }:: ::Hivie::{ user-id=14102976 }와 ::{ flag=US }:: ::radar::{ user-id=7131099 }입니다.
 
 ### 책임
 
@@ -100,51 +100,51 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 
 | 닉네임 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | 고문[^task-mo] |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 벨라루스어, 러시아어 | 평가위원 |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 광둥어, 중국어 | 평가위원 |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 포르투갈어 | 평가위원 |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | 평가위원 |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | 네덜란드어 | 평가위원 |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 중국어 | 평가위원 |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 독일어 | 평가위원, 고문[^task-fuju] |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 중국어 | 평가위원 |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 스웨덴어 | 고문[^task-naxess] |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | 평가위원 |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | 광둥어, 중국어 | 평가위원 |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | 고문[^task-pishifat] |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 중국어 | 평가위원 |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 평가위원, 고문[^task-star] |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 네덜란드어 | 평가위원 |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | 평가위원 |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 폴란드어 | 평가위원 |
+| ::{ flag=GB }:: ::-Mo-::{ user-id=2202163 } |  | 고문[^task-mo] |
+| ::{ flag=BY }:: ::AirinCat::{ user-id=11119539 } | 벨라루스어, 러시아어 | 평가위원 |
+| ::{ flag=HK }:: ::Chaoslitz::{ user-id=3621552 } | 광둥어, 중국어 | 평가위원 |
+| ::{ flag=BR }:: ::Dada::{ user-id=9119507 } | 포르투갈어 | 평가위원 |
+| ::{ flag=AU }:: ::elicz1::{ user-id=8039342 } |  | 평가위원 |
+| ::{ flag=BE }:: ::enneya::{ user-id=10959501 } | 네덜란드어 | 평가위원 |
+| ::{ flag=CN }:: ::Firika::{ user-id=9590557 } | 중국어 | 평가위원 |
+| ::{ flag=DE }:: ::FuJu::{ user-id=10773882 } | 독일어 | 평가위원, 고문[^task-fuju] |
+| ::{ flag=CN }:: ::Garden::{ user-id=2849992 } | 중국어 | 평가위원 |
+| ::{ flag=SE }:: ::Naxess::{ user-id=8129817 } | 스웨덴어 | 고문[^task-naxess] |
+| ::{ flag=US }:: ::Noffy::{ user-id=1541323 } |  | 평가위원 |
+| ::{ flag=HK }:: ::Petal::{ user-id=7354729 } | 광둥어, 중국어 | 평가위원 |
+| ::{ flag=US }:: ::pishifat::{ user-id=3178418 } |  | 고문[^task-pishifat] |
+| ::{ flag=CN }:: ::Ryuusei Aika::{ user-id=7777875 } | 중국어 | 평가위원 |
+| ::{ flag=US }:: ::StarCastler::{ user-id=12402453 } |  | 평가위원, 고문[^task-star] |
+| ::{ flag=BE }:: ::yaspo::{ user-id=4945926 } | 네덜란드어 | 평가위원 |
+| ::{ flag=US }:: ::Yogurtt::{ user-id=2649717 } |  | 평가위원 |
+| ::{ flag=PL }:: ::Zelq::{ user-id=8953955 } | 폴란드어 | 평가위원 |
 
 ### osu!taiko
 
 | 이름 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 독일어 | 평가위원 |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 우르두어, 일부 아랍어 | 평가위원 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 아랍어, 프랑스어, 일부 이탈리아어 | 리더 |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 포르투갈어 | 평가위원 |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | 리더 |
+| ::{ flag=DE }:: ::Capu::{ user-id=2474015 } | 독일어 | 평가위원 |
+| ::{ flag=GB }:: ::Dusk-::{ user-id=6092181 } | 우르두어, 일부 아랍어 | 평가위원 |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | 아랍어, 프랑스어, 일부 이탈리아어 | 리더 |
+| ::{ flag=BR }:: ::Ideal::{ user-id=3869519 } | 포르투갈어 | 평가위원 |
+| ::{ flag=US }:: ::radar::{ user-id=7131099 } |  | 리더 |
 
 ### osu!catch
 
 | 이름 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 스페인어, 독일어 | 평가위원 |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 네덜란드어 | 평가위원 |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | 평가위원 |
+| ::{ flag=ES }:: ::Deif::{ user-id=318565 } | 스페인어, 독일어 | 평가위원 |
+| ::{ flag=NL }:: ::Greaper::{ user-id=2369776 } | 네덜란드어 | 평가위원 |
+| ::{ flag=US }:: ::Secre::{ user-id=2306637 } |  | 평가위원 |
 
 ### osu!mania
 
 | 이름 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 베트남어 | 평가위원 |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | 중국어 | 평가위원 |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 인도네시아어 | 평가위원 |
-| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | 덴마크어 | 평가위원 |
+| ::{ flag=VN }:: ::Akasha-::{ user-id=2596306 } | 베트남어 | 평가위원 |
+| ::{ flag=CN }:: ::gzdongsheng::{ user-id=8660315 } | 중국어 | 평가위원 |
+| ::{ flag=ID }:: ::Maxus::{ user-id=4335785 } | 인도네시아어 | 평가위원 |
+| ::{ flag=DK }:: ::Tailsdk::{ user-id=6751666 } | 덴마크어 | 평가위원 |
 
 ## 참고
 

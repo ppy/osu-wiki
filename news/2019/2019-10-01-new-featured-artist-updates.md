@@ -224,13 +224,13 @@ This isn't just a set of house mixes, it's a full-on *village* of them. A verita
 
 Thankfully, the masterful members of the [Mappers' Guild](http://mappersguild.com/) have been hard at work carving out a few of the ghostly streets as the Guild's turf:
 
-- [Daishibyo set 14 ~ Sado no Futatsuiwa](https://osu.ppy.sh/beatmapsets/751779) by [ShirohaMyMommy](https://osu.ppy.sh/users/1603923)
-- [Moriya set 08 ReEdit ~ Youkai no Yama](https://osu.ppy.sh/beatmapsets/751866) by [jonathanlfj](https://osu.ppy.sh/users/270377)
-- [Koumakan set 02 ~ Apparitions Stalk the Night](https://osu.ppy.sh/beatmapsets/991960) by [eiri-](https://osu.ppy.sh/users/3388410)
-- [Ayakashi set 12 Another ~ Border of Life](https://osu.ppy.sh/beatmapsets/1001360) by [pishifat](https://osu.ppy.sh/users/3178418)
-- [Muenzuka set 06 ~ Eastern Judgement in the Sixtieth Year](https://osu.ppy.sh/beatmapsets/985780) by [Hinsvar](https://osu.ppy.sh/users/1249323)
-- [Chireiden set 05 ~ Walking the Streets of a Former Hell](https://osu.ppy.sh/beatmapsets/985478) by [Niva](https://osu.ppy.sh/users/197805)
-- [Koumakan set 16 ~ Kourou](https://osu.ppy.sh/beatmapsets/1006601) by [schoolboy](https://osu.ppy.sh/users/8722791)
+- [Daishibyo set 14 ~ Sado no Futatsuiwa](https://osu.ppy.sh/beatmapsets/751779) by ::ShirohaMyMommy::{ user-id=1603923 }
+- [Moriya set 08 ReEdit ~ Youkai no Yama](https://osu.ppy.sh/beatmapsets/751866) by ::jonathanlfj::{ user-id=270377 }
+- [Koumakan set 02 ~ Apparitions Stalk the Night](https://osu.ppy.sh/beatmapsets/991960) by ::eiri-::{ user-id=3388410 }
+- [Ayakashi set 12 Another ~ Border of Life](https://osu.ppy.sh/beatmapsets/1001360) by ::pishifat::{ user-id=3178418 }
+- [Muenzuka set 06 ~ Eastern Judgement in the Sixtieth Year](https://osu.ppy.sh/beatmapsets/985780) by ::Hinsvar::{ user-id=1249323 }
+- [Chireiden set 05 ~ Walking the Streets of a Former Hell](https://osu.ppy.sh/beatmapsets/985478) by ::Niva::{ user-id=197805 }
+- [Koumakan set 16 ~ Kourou](https://osu.ppy.sh/beatmapsets/1006601) by ::schoolboy::{ user-id=8722791 }
 
 Feel free to swoop in and show them who's really boss, or join the Guild yourself. Or both!
 

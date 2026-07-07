@@ -6,11 +6,11 @@ Users applying to the Beatmap Nominators were required to take a test through th
 
 ## Older tests
 
-[Echo](https://osu.ppy.sh/users/431) created a prototype for the first modding test in 2008; however, it was not used for new BN (previously known as [Beatmap Approval Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*)) applicants. Users were expected to point out mistakes in an intentionally flawed beatmap, [Arashi - Kitto Daijoubu](http://up.ppy.sh/files/Arashi%20-%20Kitto%20Daijoubu.rar).
+::Echo::{ user-id=431 } created a prototype for the first modding test in 2008; however, it was not used for new BN (previously known as [Beatmap Approval Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*)) applicants. Users were expected to point out mistakes in an intentionally flawed beatmap, [Arashi - Kitto Daijoubu](http://up.ppy.sh/files/Arashi%20-%20Kitto%20Daijoubu.rar).
 
-Similar modding puzzles were created for fun until 2015, when the first Beatmap Nominator test was created for practical use. The test featured a multiple choice section similar to the last form of the BN test, as well as a hands-on modding puzzle created by [Charles445](https://osu.ppy.sh/users/85000). The modding test beatmap featured 10 difficulties with short mapped segments. Each segment was assigned a [difficulty level](/wiki/Beatmap/Difficulty) and issues were expected to be found given that context.
+Similar modding puzzles were created for fun until 2015, when the first Beatmap Nominator test was created for practical use. The test featured a multiple choice section similar to the last form of the BN test, as well as a hands-on modding puzzle created by ::Charles445::{ user-id=85000 }. The modding test beatmap featured 10 difficulties with short mapped segments. Each segment was assigned a [difficulty level](/wiki/Beatmap/Difficulty) and issues were expected to be found given that context.
 
-The second test (created by [Irreversible](https://osu.ppy.sh/users/1287964) and [Mao](https://osu.ppy.sh/users/2204515)), the third test (created by Irreversible, Mao, and [Myxo](https://osu.ppy.sh/users/2202645)), and the fourth test (created by Irreversible and Mao) were designed as full beatmap spreads. These aimed to give the impression of modding a real beatmap.
+The second test (created by ::Irreversible::{ user-id=1287964 } and [Mao](https://osu.ppy.sh/users/2204515)), the third test (created by Irreversible, Mao, and ::Myxo::{ user-id=2202645 }), and the fourth test (created by Irreversible and Mao) were designed as full beatmap spreads. These aimed to give the impression of modding a real beatmap.
 
 These practical modding tests were used to help determine new Beatmap Nominators until 2017, when they were discontinued due to concerns with cheating. After 2017, new BN admissions were handled through subjective judgement from the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*), and later the NAT.
 

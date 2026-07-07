@@ -24,4 +24,4 @@ Siehe die folgenden Artikel:
 
 ## Community-Tools
 
-Diverse Tools wurden von der Community erstellt, um Storyboard-Scripting zu abstrahieren und zu erweitern, wie zum Beispiel [storybrew](https://github.com/Damnae/storybrew "GitHub-Repository") von ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377).
+Diverse Tools wurden von der Community erstellt, um Storyboard-Scripting zu abstrahieren und zu erweitern, wie zum Beispiel [storybrew](https://github.com/Damnae/storybrew "GitHub-Repository") von ::{ flag=FR }:: ::Damnae::{ user-id=989377 }.

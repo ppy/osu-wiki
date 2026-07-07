@@ -23,11 +23,11 @@ Click on any artist's banner to head to their full music listing, where you can 
 
 [![](https://assets.ppy.sh/artists/401/header.jpg)](https://osu.ppy.sh/beatmaps/artists/401)
 
-Too many things come to mind when reading [**Akiri**](https://osu.ppy.sh/beatmaps/artists/401)'s name. They're an experienced [circle clicker and key smasher](https://osu.ppy.sh/users/19587411), they won last year's [Locus](/wiki/Contests/Locus/2025) contest with the song [*Vespera Stella*](https://osu.ppy.sh/beatmapsets/2412328), and most relevant to today, they're a Featured Artist with nearly *92* tracks on their listing alone! **9** of those tracks are fresh for 2026, one of which already has a Ranked map!
+Too many things come to mind when reading [**Akiri**](https://osu.ppy.sh/beatmaps/artists/401)'s name. They're an experienced ::circle clicker and key smasher::{ user-id=19587411 }, they won last year's [Locus](/wiki/Contests/Locus/2025) contest with the song [*Vespera Stella*](https://osu.ppy.sh/beatmapsets/2412328), and most relevant to today, they're a Featured Artist with nearly *92* tracks on their listing alone! **9** of those tracks are fresh for 2026, one of which already has a Ranked map!
 
 Alternatively, the first thing that comes to mind about [**Akiri**](https://osu.ppy.sh/beatmaps/artists/401) might be something about a far-away tree. You should keep those thoughts to yourself though.
 
-- [**Akiri feat. Celadon - Project: Spacefarers**](https://osu.ppy.sh/beatmapsets/2462810) mapped by [Mir](https://osu.ppy.sh/users/8688812)
+- [**Akiri feat. Celadon - Project: Spacefarers**](https://osu.ppy.sh/beatmapsets/2462810) mapped by ::Mir::{ user-id=8688812 }
 - **Akiri - ATOMIC RAILGUN**
 - **Akiri - 1NKBURNER (Long Ver.)**
 - **Akiri - Collapsing Star Fragmentation**
@@ -53,7 +53,7 @@ Alternatively, the first thing that comes to mind about [**Akiri**](https://osu.
 
 [![](https://assets.ppy.sh/artists/359/header.jpg)](https://osu.ppy.sh/beatmaps/artists/359)
 
-[Matrix](https://osu.ppy.sh/users/5052899) isn't speedy on osu! alone. Under his alias [**cygnus**](https://osu.ppy.sh/beatmaps/artists/359), he's been pouring out new music at an unstoppable pace for the last few years, and we're adding a **10** new ones today!
+::Matrix::{ user-id=5052899 } isn't speedy on osu! alone. Under his alias [**cygnus**](https://osu.ppy.sh/beatmaps/artists/359), he's been pouring out new music at an unstoppable pace for the last few years, and we're adding a **10** new ones today!
 
 - **cygnus - Angel Limiter**
 - **cygnus - Magnificence**
@@ -145,55 +145,55 @@ It's no secret that osu! players and Geometry dash players are two nearly overla
 
 [![](/wiki/shared/news/2026-07-04-featured-artist-track-updates-2026/mimi-header.jpg)](https://osu.ppy.sh/beatmaps/artists/77)
 
-Even before joining our Featured Artist catalogue over 6 years ago, [**MIMI**](https://osu.ppy.sh/beatmaps/artists/77) was making waves with [Log Off Now](https://osu.ppy.sh/users/4378277)'s trifecta of jump-packed Vocaloid maps: [*Ai no Sukima*](https://osu.ppy.sh/beatmapsets/952409), [*Marshmary*](https://osu.ppy.sh/beatmapsets/962088) and [*Mizuoto to Curtain*](https://osu.ppy.sh/beatmapsets/968171).
+Even before joining our Featured Artist catalogue over 6 years ago, [**MIMI**](https://osu.ppy.sh/beatmaps/artists/77) was making waves with ::Log Off Now::{ user-id=4378277 }'s trifecta of jump-packed Vocaloid maps: [*Ai no Sukima*](https://osu.ppy.sh/beatmapsets/952409), [*Marshmary*](https://osu.ppy.sh/beatmapsets/962088) and [*Mizuoto to Curtain*](https://osu.ppy.sh/beatmapsets/968171).
 
 **MIMI** has released *a lot* of new music since then, and mappers have been keeping up faster than us. It's about time we officially bring those new tracks to osu!.
 
-- [**MIMI feat. HARU - Maple**](https://osu.ppy.sh/beatmapsets/2149162) mapped by [Videos](https://osu.ppy.sh/users/17685407)
+- [**MIMI feat. HARU - Maple**](https://osu.ppy.sh/beatmapsets/2149162) mapped by ::Videos::{ user-id=17685407 }
 - **MIMI feat. Hatsune Miku - Gyutte**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1751796) by [Reiszen](https://osu.ppy.sh/users/11798570)
-  - [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2160681) by [Kibitz](https://osu.ppy.sh/users/7418493)
-  - [Another 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2141866) by [\[TCD\] Ena-suki](https://osu.ppy.sh/users/29645291)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1751796) by ::Reiszen::{ user-id=11798570 }
+  - [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2160681) by ::Kibitz::{ user-id=7418493 }
+  - [Another 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2141866) by ::\[TCD\] Ena-suki::{ user-id=29645291 }
 - **MIMI feat. Hatsune Miku & KAFU - Kuu ni Naru**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1676605) by [ThunderBird2678](https://osu.ppy.sh/users/3388082)
-  - [Another osu! beatmap](https://osu.ppy.sh/beatmapsets/1676481) by [Vanya](https://osu.ppy.sh/users/19603724)
-  - [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1790742) by [Kibitz](https://osu.ppy.sh/users/7418493)
-  - [5K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2125494) by [\[TCD\] Ena-suki](https://osu.ppy.sh/users/29645291)
-- [**MIMI feat. Hatsune Miku - Slowly Night**](https://osu.ppy.sh/beatmapsets/2214165) mapped by [AppleRank](https://osu.ppy.sh/users/29429252)
-- [**MIMI feat. Hatsune Miku - UNFADING**](https://osu.ppy.sh/beatmapsets/2460169) mapped by [SN707](https://osu.ppy.sh/users/31404061)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1676605) by ::ThunderBird2678::{ user-id=3388082 }
+  - [Another osu! beatmap](https://osu.ppy.sh/beatmapsets/1676481) by ::Vanya::{ user-id=19603724 }
+  - [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1790742) by ::Kibitz::{ user-id=7418493 }
+  - [5K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2125494) by ::\[TCD\] Ena-suki::{ user-id=29645291 }
+- [**MIMI feat. Hatsune Miku - Slowly Night**](https://osu.ppy.sh/beatmapsets/2214165) mapped by ::AppleRank::{ user-id=29429252 }
+- [**MIMI feat. Hatsune Miku - UNFADING**](https://osu.ppy.sh/beatmapsets/2460169) mapped by ::SN707::{ user-id=31404061 }
 - **MIMI feat. KAFU - Dakishimeru made.**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/2042163) by [CoLouRed GlaZeE](https://osu.ppy.sh/users/3189514)
-  - [4K/7K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2033504) by [\[TCD\] Ena-suki](https://osu.ppy.sh/users/29645291)
-- [**MIMI feat. KAFU - Hanataba**](https://osu.ppy.sh/beatmapsets/1946263) mapped by [GfMRT](https://osu.ppy.sh/users/3163649)
-- [**MIMI feat. KAFU - Himitsu**](https://osu.ppy.sh/beatmapsets/2177058) mapped by [\[TCD\] Ena-suki](https://osu.ppy.sh/users/29645291)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/2042163) by ::CoLouRed GlaZeE::{ user-id=3189514 }
+  - [4K/7K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2033504) by ::\[TCD\] Ena-suki::{ user-id=29645291 }
+- [**MIMI feat. KAFU - Hanataba**](https://osu.ppy.sh/beatmapsets/1946263) mapped by ::GfMRT::{ user-id=3163649 }
+- [**MIMI feat. KAFU - Himitsu**](https://osu.ppy.sh/beatmapsets/2177058) mapped by ::\[TCD\] Ena-suki::{ user-id=29645291 }
 - **MIMI feat. KAFU - Ima wa Ii nda yo.**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/2228447) by [Hivie](https://osu.ppy.sh/users/14102976)
-  - [4K/5K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2096772) by [\[TCD\] Ena-suki](https://osu.ppy.sh/users/29645291)
-- [**MIMI feat. KAFU - Issee noo de**](https://osu.ppy.sh/beatmapsets/1546834) mapped by [Manquito](https://osu.ppy.sh/users/9882649)
-- [**MIMI feat. KAFU - Salty Mellow**](https://osu.ppy.sh/beatmapsets/2330527) mapped by [\[TCD\] Ena-suki](https://osu.ppy.sh/users/29645291)
-- [**MIMI feat. KAFU - Sayonara wa Iwanaide sa**](https://osu.ppy.sh/beatmapsets/2072806) mapped by [\[TCD\] Ena-suki](https://osu.ppy.sh/users/29645291)
-- [**MIMI feat. Kasane Teto SV - Encore Dance**](https://osu.ppy.sh/beatmapsets/2488771) mapped by [UTAU](https://osu.ppy.sh/users/13859320)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/2228447) by ::Hivie::{ user-id=14102976 }
+  - [4K/5K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2096772) by ::\[TCD\] Ena-suki::{ user-id=29645291 }
+- [**MIMI feat. KAFU - Issee noo de**](https://osu.ppy.sh/beatmapsets/1546834) mapped by ::Manquito::{ user-id=9882649 }
+- [**MIMI feat. KAFU - Salty Mellow**](https://osu.ppy.sh/beatmapsets/2330527) mapped by ::\[TCD\] Ena-suki::{ user-id=29645291 }
+- [**MIMI feat. KAFU - Sayonara wa Iwanaide sa**](https://osu.ppy.sh/beatmapsets/2072806) mapped by ::\[TCD\] Ena-suki::{ user-id=29645291 }
+- [**MIMI feat. Kasane Teto SV - Encore Dance**](https://osu.ppy.sh/beatmapsets/2488771) mapped by ::UTAU::{ user-id=13859320 }
 - **MIMI feat. Kasane Teto SV - Magic Maid**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/2426557) by [Log Off Now](https://osu.ppy.sh/users/4378277)
-  - [osu!taiko map](https://osu.ppy.sh/beatmapsets/2450248) by [Jaltzu](https://osu.ppy.sh/users/2597417)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/2426557) by ::Log Off Now::{ user-id=4378277 }
+  - [osu!taiko map](https://osu.ppy.sh/beatmapsets/2450248) by ::Jaltzu::{ user-id=2597417 }
 - **MIMI feat. Kasane Teto SV - Science**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/2328218) by [Reiszen](https://osu.ppy.sh/users/11798570)
-  - [Another osu! beatmap](https://osu.ppy.sh/beatmapsets/2338966) by [MrTerror](https://osu.ppy.sh/users/8828420)
-  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/2451736) by [Hivie](https://osu.ppy.sh/users/14102976)
-  - [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2562340) by [Seiran-](https://osu.ppy.sh/users/14351534)
-  - [Another 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2477002) by [\[TCD\] Ena-suki](https://osu.ppy.sh/users/29645291)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/2328218) by ::Reiszen::{ user-id=11798570 }
+  - [Another osu! beatmap](https://osu.ppy.sh/beatmapsets/2338966) by ::MrTerror::{ user-id=8828420 }
+  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/2451736) by ::Hivie::{ user-id=14102976 }
+  - [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2562340) by ::Seiran-::{ user-id=14351534 }
+  - [Another 4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2477002) by ::\[TCD\] Ena-suki::{ user-id=29645291 }
 - **MIMI feat. Kasane Teto SV - Trick Heart**
-  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/2520954) by [chairless](https://osu.ppy.sh/users/26031453)
-  - [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2499321) by [Dereck101026](https://osu.ppy.sh/users/24227143)
-- [**MIMI feat. ninzin from Rokudenashi - What Call This Day ?**](https://osu.ppy.sh/beatmapsets/2285600) mapped by [Shunaa](https://osu.ppy.sh/users/12325353)
+  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/2520954) by ::chairless::{ user-id=26031453 }
+  - [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/2499321) by ::Dereck101026::{ user-id=24227143 }
+- [**MIMI feat. ninzin from Rokudenashi - What Call This Day ?**](https://osu.ppy.sh/beatmapsets/2285600) mapped by ::Shunaa::{ user-id=12325353 }
 - **MIMI feat. SEKAI - Escape**
   - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1823012) by [Videos](https://osu.ppy.sh/beatmapsets/1823012)
-  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/2237420) by [SN707](https://osu.ppy.sh/users/31404061)
+  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/2237420) by ::SN707::{ user-id=31404061 }
 - **MIMI feat. wanko - Minimum**
-  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1846677) by [Log Off Now](https://osu.ppy.sh/users/4378277)
-  - [Another osu! beatmap](https://osu.ppy.sh/beatmapsets/1834058) by [Reiszen](https://osu.ppy.sh/users/11798570)
-  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1912477) by [Ryxliee](https://osu.ppy.sh/users/15823344)
-  - [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1859134) by [Kibitz](https://osu.ppy.sh/users/7418493)
+  - [osu! beatmap](https://osu.ppy.sh/beatmapsets/1846677) by ::Log Off Now::{ user-id=4378277 }
+  - [Another osu! beatmap](https://osu.ppy.sh/beatmapsets/1834058) by ::Reiszen::{ user-id=11798570 }
+  - [osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1912477) by ::Ryxliee::{ user-id=15823344 }
+  - [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1859134) by ::Kibitz::{ user-id=7418493 }
 
 ### MIMI feat. Hatsune Miku & KAFU - Kuu ni Naru
 
@@ -251,7 +251,7 @@ If you ever considered mapping *HONESTY*, your reason to actually do it is final
 
 [**seatrus**](https://osu.ppy.sh/beatmaps/artists/185)'s sound is the epitome of rhythm game music. Every track **seatrus** produces has a different taste of the full flavour palette that technical mappers and players crave, and **10** new tracks are officially on the table.
 
-- [**seatrus feat. Hanakuma Chifuyu - Ushio**](https://osu.ppy.sh/beatmapsets/2527426) mapped by [N a N a](https://osu.ppy.sh/users/11341131)
+- [**seatrus feat. Hanakuma Chifuyu - Ushio**](https://osu.ppy.sh/beatmapsets/2527426) mapped by ::N a N a::{ user-id=11341131 }
 - **seatrus - Armor PierQer**
 - **seatrus - brainthieves**
 - **seatrus - ExitusHaul**
@@ -278,7 +278,7 @@ If you ever considered mapping *HONESTY*, your reason to actually do it is final
 
 [![](https://assets.ppy.sh/artists/437/header.jpg)](https://osu.ppy.sh/beatmaps/artists/437)
 
-Years ago, [**tom^s**](https://osu.ppy.sh/beatmaps/artists/437) (previously known as **tomspicy**) proved to the world just how impressively [fieryrage](https://osu.ppy.sh/users/3533958) could play the accordion. Today, **tom^s** returns with a 4-track EP titled *MOGSWORLD*, created for a mental health fundraiser and later brought here to osu!:
+Years ago, [**tom^s**](https://osu.ppy.sh/beatmaps/artists/437) (previously known as **tomspicy**) proved to the world just how impressively ::fieryrage::{ user-id=3533958 } could play the accordion. Today, **tom^s** returns with a 4-track EP titled *MOGSWORLD*, created for a mental health fundraiser and later brought here to osu!:
 
 - **tom^s - at the end of the rainbow**
 - **tom^s - crystal cave**

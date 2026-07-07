@@ -41,7 +41,7 @@ osu!には4つの**ゲームモード**があります: [osu!](#osu!)、[osu!tai
 
 *メインページ: [osu!mania](osu!mania)*
 
-*osu!mania*は、様々なコンベア型リズムゲーム(すなわち[Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution)とBeatmania)をベースにしています。このゲームモードは主に[woc2006](https://osu.ppy.sh/users/1105845)によって導入・実装されたもので、鍵盤を使って本物のピアノのような感覚を再現しています。
+*osu!mania*は、様々なコンベア型リズムゲーム(すなわち[Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution)とBeatmania)をベースにしています。このゲームモードは主に::woc2006::{ user-id=1105845 }によって導入・実装されたもので、鍵盤を使って本物のピアノのような感覚を再現しています。
 
 ![osu!maniaのゲームプレイ](/wiki/shared/mania-gameplay.jpg "osu!maniaのゲームプレイ")
 

@@ -25,9 +25,9 @@ Start mapping any of these **9** mind-blowing tunes from [**Tokyo Machine**'s Fe
 
 Check out any of these maps:
 
-- [Loved osu! map](https://osu.ppy.sh/beatmapsets/508998) hosted by [hehe](https://osu.ppy.sh/users/2123087)
-- [Ranked osu!taiko map](https://osu.ppy.sh/beatmapsets/1198443) hosted by [trollocat](https://osu.ppy.sh/users/9228032)
-- [Ranked osu!catch map](https://osu.ppy.sh/beatmapsets/506237) hosted by [WildOne94](https://osu.ppy.sh/users/3482692)
+- [Loved osu! map](https://osu.ppy.sh/beatmapsets/508998) hosted by ::hehe::{ user-id=2123087 }
+- [Ranked osu!taiko map](https://osu.ppy.sh/beatmapsets/1198443) hosted by ::trollocat::{ user-id=9228032 }
+- [Ranked osu!catch map](https://osu.ppy.sh/beatmapsets/506237) hosted by ::WildOne94::{ user-id=3482692 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/276/Songs/Tokyo%20Machine%20-%20OKAY.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out any of these maps:
 
 ### TURBO
 
-Experience [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1485430) hosted by [Stingy](https://osu.ppy.sh/users/6777358)!)
+Experience [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1485430) hosted by ::Stingy::{ user-id=6777358 }!)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/276/Songs/Tokyo%20Machine%20-%20TURBO.mp3" type="audio/mpeg">

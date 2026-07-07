@@ -9,7 +9,7 @@ We're proud to welcome the auditory artisans behind **Station Earth** and **Blue
 
 ![](https://assets.ppy.sh/artists/66/header.jpg)
 
-Made famous in osu! by [Bearizm's](https://osu.ppy.sh/users/3495259) timeless set for [*Cold Green Eyes (feat. Roos Denayer)*](https://osu.ppy.sh/beatmapsets/371128#osu/814293), **Station Earth / Blue Marble** is the liquid-DnB fusion project from producer Matthias De Herdt and DJ Jelle De Maeyer.
+Made famous in osu! by ::Bearizm's::{ user-id=3495259 } timeless set for [*Cold Green Eyes (feat. Roos Denayer)*](https://osu.ppy.sh/beatmapsets/371128#osu/814293), **Station Earth / Blue Marble** is the liquid-DnB fusion project from producer Matthias De Herdt and DJ Jelle De Maeyer.
 
 Taking the chill and the hectic together and creating something truly excellent from it all, we're certain that you guys will love delving into **21** tracks new with all the classics you know and love from **Station Earth**, plus a huge sample of a more modern take in De Herdt's solo project, **Blue Marble**.
 

@@ -2,7 +2,7 @@
 
 ![](img/banner.png "osu!(lazer) updates newspost banner")
 
-**lazer updates** is a video series hosted by ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) and ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) that outlines the recent changes to the [osu!(lazer)](https://github.com/ppy/osu) client as well as its development process. The series is intended to give the general public a better look as to what features are being added or worked on in the latest and upcoming [osu!(lazer) releases](https://osu.ppy.sh/home/download).
+**lazer updates** is a video series hosted by ::{ flag=US }:: ::pishifat::{ user-id=3178418 } and ::{ flag=AU }:: ::peppy::{ user-id=2 } that outlines the recent changes to the [osu!(lazer)](https://github.com/ppy/osu) client as well as its development process. The series is intended to give the general public a better look as to what features are being added or worked on in the latest and upcoming [osu!(lazer) releases](https://osu.ppy.sh/home/download).
 
 ## History
 
@@ -76,8 +76,8 @@ The following videos are not part of the main "lazer update" series, but are oth
 
 | No. | Title | Description |
 | :-: | :-- | :-- |
-| 1 | [what is lazer?](https://www.youtube.com/watch?v=ut_SOreClcc) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) gives a brief introduction as to what osu!(lazer) is, what makes it different to the stable client, and what comes next for the game. Also serves as a channel trailer for the [osu! YouTube channel](https://www.youtube.com/@osugame). |
-| 2 | [talking about last month's osu! featured artists](https://www.youtube.com/watch?v=YXpBTgjD0kY) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) recaps all the new [Featured Artists](/wiki/People/Featured_Artists) that were announced in the month of November 2022. |
-| 3 | [why you don't play lazer](https://www.youtube.com/watch?v=ZR4ewKxWNKc) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) and ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) reflect on the common reasons people are reluctant about migrating to osu!(lazer) while walking across the shores of Japan. |
-| 4 | [talking about osu! world cup's grand finals tiebreakers](https://www.youtube.com/watch?v=0B6TyWML0zg) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) and ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) discuss how the [World Cup](/wiki/Tournaments#official-world-cups) tiebreakers and other [osu! originals](/wiki/osu!_originals) are being produced over the years. |
-| 5 | [what's going on with mapping](https://www.youtube.com/watch?v=OM_RBwsqmUY) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) implores on the discourse around the mapping/modding community as well as recent changes within the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). |
+| 1 | [what is lazer?](https://www.youtube.com/watch?v=ut_SOreClcc) | ::{ flag=US }:: ::pishifat::{ user-id=3178418 } gives a brief introduction as to what osu!(lazer) is, what makes it different to the stable client, and what comes next for the game. Also serves as a channel trailer for the [osu! YouTube channel](https://www.youtube.com/@osugame). |
+| 2 | [talking about last month's osu! featured artists](https://www.youtube.com/watch?v=YXpBTgjD0kY) | ::{ flag=US }:: ::pishifat::{ user-id=3178418 } recaps all the new [Featured Artists](/wiki/People/Featured_Artists) that were announced in the month of November 2022. |
+| 3 | [why you don't play lazer](https://www.youtube.com/watch?v=ZR4ewKxWNKc) | ::{ flag=US }:: ::pishifat::{ user-id=3178418 } and ::{ flag=AU }:: ::peppy::{ user-id=2 } reflect on the common reasons people are reluctant about migrating to osu!(lazer) while walking across the shores of Japan. |
+| 4 | [talking about osu! world cup's grand finals tiebreakers](https://www.youtube.com/watch?v=0B6TyWML0zg) | ::{ flag=US }:: ::pishifat::{ user-id=3178418 } and ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 } discuss how the [World Cup](/wiki/Tournaments#official-world-cups) tiebreakers and other [osu! originals](/wiki/osu!_originals) are being produced over the years. |
+| 5 | [what's going on with mapping](https://www.youtube.com/watch?v=OM_RBwsqmUY) | ::{ flag=US }:: ::pishifat::{ user-id=3178418 } implores on the discourse around the mapping/modding community as well as recent changes within the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). |

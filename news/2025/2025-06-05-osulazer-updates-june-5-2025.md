@@ -51,7 +51,7 @@ You may have noticed osu!(lazer)-related news and YouTube uploads easing up — 
 
 ### Editor
 
-- **The BSS process now has cool new sound effects.** After a complaint was made by a community member, [nekodex](https://osu.ppy.sh/users/102) cooked up brand new satisfying sounds that accompany you through the beatmap submission process.
+- **The BSS process now has cool new sound effects.** After a complaint was made by a community member, ::nekodex::{ user-id=102 } cooked up brand new satisfying sounds that accompany you through the beatmap submission process.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

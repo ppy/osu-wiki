@@ -31,10 +31,10 @@ This article covers results from the last contest, plus criteria for this contes
 
 | Placement | Users | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [_gt](https://osu.ppy.sh/users/8301957) | [Chroma - Destroy, Destroy, Destroy The Happy End](https://osu.ppy.sh/beatmapsets/2405450) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | *Elite Mapper* | +2 (7 total) |
-| Runner-up | [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | [Ludicin - Echoes of Memoria](https://drive.google.com/file/d/1bQmCIqwXCQtFXM6E2firACSjqDVB_BYS/view?usp=drive_link) | - | - | +1 (1 total) |
+| Winner | ::\1gt::{ user-id=8301957 } | [Chroma - Destroy, Destroy, Destroy The Happy End](https://osu.ppy.sh/beatmapsets/2405450) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | *Elite Mapper* | +2 (7 total) |
+| Runner-up | ::\_HeLLFly\_::{ user-id=14225226 } | [Ludicin - Echoes of Memoria](https://drive.google.com/file/d/1bQmCIqwXCQtFXM6E2firACSjqDVB_BYS/view?usp=drive_link) | - | - | +1 (1 total) |
 
-In [December 2023](https://osu.ppy.sh/home/news/2023-12-15-monthly-beatmapping-contest-december-2023), [_gt](https://osu.ppy.sh/users/8301957) debuted as a Monthly Beatmapping Contest winner. [A few months later](https://osu.ppy.sh/home/news/2024-03-23-monthly-beatmapping-contest-march-2024), they were another Monthly Beatmapping Contest's runner-up. Nearly 2 years of hard work has finally paid off: welcome [_gt](https://osu.ppy.sh/users/8301957) to the halls of osu!'s *Elite Mapper*s!
+In [December 2023](https://osu.ppy.sh/home/news/2023-12-15-monthly-beatmapping-contest-december-2023), ::\1gt::{ user-id=8301957 } debuted as a Monthly Beatmapping Contest winner. [A few months later](https://osu.ppy.sh/home/news/2024-03-23-monthly-beatmapping-contest-march-2024), they were another Monthly Beatmapping Contest's runner-up. Nearly 2 years of hard work has finally paid off: welcome ::\1gt::{ user-id=8301957 } to the halls of osu!'s *Elite Mapper*s!
 
 #### Top 10
 
@@ -42,7 +42,7 @@ In [December 2023](https://osu.ppy.sh/home/news/2023-12-15-monthly-beatmapping-c
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/hw_oERr-Lzg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And of course, we can't forget the judges who made this contest possible: [arcpotato](https://osu.ppy.sh/users/12842392), [Yasuho](https://osu.ppy.sh/users/8458835), [BlackBN](https://osu.ppy.sh/users/6291741), and [Boaz](https://osu.ppy.sh/users/13302996)!
+And of course, we can't forget the judges who made this contest possible: ::arcpotato::{ user-id=12842392 }, [Yasuho](https://osu.ppy.sh/users/8458835), ::BlackBN::{ user-id=6291741 }, and [Boaz](https://osu.ppy.sh/users/13302996)!
 
 ### osu!catch results
 
@@ -52,10 +52,10 @@ And of course, we can't forget the judges who made this contest possible: [arcpo
 
 | Placement | User | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [AQUASINE - you wouldn't download a bird.](https://drive.google.com/file/d/1MStVkeb8Wu66HWDZRqPVyvdP9YdY9WB6/view?usp=drive_link) | - | +2 (9 total) |
-| Runner-up | [Xinnoh](https://osu.ppy.sh/users/4236057) | [EmoCosine - Love Kills U](https://osu.ppy.sh/beatmapsets/2405498) | - | +1 (3 total) |
+| Winner | ::Unlucky\1w::{ user-id=4820793 } | [AQUASINE - you wouldn't download a bird.](https://drive.google.com/file/d/1MStVkeb8Wu66HWDZRqPVyvdP9YdY9WB6/view?usp=drive_link) | - | +2 (9 total) |
+| Runner-up | ::Xinnoh::{ user-id=4236057 } | [EmoCosine - Love Kills U](https://osu.ppy.sh/beatmapsets/2405498) | - | +1 (3 total) |
 
-osu!catch's *Elite Mapper*s have proven themselves yet again. Congrats to [Unlucky_w](https://osu.ppy.sh/users/4820793) and [Xinnoh](https://osu.ppy.sh/users/4236057)!
+osu!catch's *Elite Mapper*s have proven themselves yet again. Congrats to ::Unlucky\1w::{ user-id=4820793 } and [Xinnoh](https://osu.ppy.sh/users/4236057)!
 
 #### Top 10
 
@@ -63,9 +63,9 @@ osu!catch's *Elite Mapper*s have proven themselves yet again. Congrats to [Unluc
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/rWONxokpSt4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Send your appreciation to the judges of this month's contest: [Sadu](https://osu.ppy.sh/users/16301262), [Nelly](https://osu.ppy.sh/users/4741164), [skill issue lol](https://osu.ppy.sh/users/12498861), and [Liyac](https://osu.ppy.sh/users/4994598).
+Send your appreciation to the judges of this month's contest: ::Sadu::{ user-id=16301262 }, [Nelly](https://osu.ppy.sh/users/4741164), ::skill issue lol::{ user-id=12498861 }, and [Liyac](https://osu.ppy.sh/users/4994598).
 
-On top of that, we'd also like to thank [Morusya](https://osu.ppy.sh/users/13681464) for helping coordinate the Monthly Beatmapping Contest since the start of this year! As of this contest, [GiGas](https://osu.ppy.sh/users/7300747) has taken the reigns for osu!catch.
+On top of that, we'd also like to thank ::Morusya::{ user-id=13681464 } for helping coordinate the Monthly Beatmapping Contest since the start of this year! As of this contest, ::GiGas::{ user-id=7300747 } has taken the reigns for osu!catch.
 
 ## Game modes
 
@@ -87,7 +87,7 @@ This month's contest is open to **osu!taiko** and **osu!catch** mappers.
 
 The Monthly Beatmapping Contest would be stale if not for *limitations*. These are extra rules/prompts that mappers need to consider when making their maps, ensuring each month's submissions have their own features!
 
-If you're confused about how these work, ask for clarification in the comments, or send a message to [Hivie](https://osu.ppy.sh/community/chat?sendto=14102976) (for osu!taiko) or [GiGas](https://osu.ppy.sh/users/7300747) (for osu!catch).
+If you're confused about how these work, ask for clarification in the comments, or send a message to [Hivie](https://osu.ppy.sh/community/chat?sendto=14102976) (for osu!taiko) or ::GiGas::{ user-id=7300747 } (for osu!catch).
 
 #### osu!taiko
 

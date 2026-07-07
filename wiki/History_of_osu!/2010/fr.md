@@ -13,7 +13,7 @@ La convention d'anime [Wai-con](https://en.wikipedia.org/wiki/Wai-Con) de Perth 
 
 ## Mars
 
-De février à mars, [peppy](https://osu.ppy.sh/users/2) a organisé un concours d'art dédié aux bannières pour les défis en jeu, le prix étant la reconnaissance officielle de l'art et une année de [osu!supporter](/wiki/osu!supporter) ou des biens physiques. Après un [vote de la communauté](https://osu.ppy.sh/community/forums/topics/27112?n=1), l'équipe d'osu! a fait le choix final.[^art-challenge]
+De février à mars, ::peppy::{ user-id=2 } a organisé un concours d'art dédié aux bannières pour les défis en jeu, le prix étant la reconnaissance officielle de l'art et une année de [osu!supporter](/wiki/osu!supporter) ou des biens physiques. Après un [vote de la communauté](https://osu.ppy.sh/community/forums/topics/27112?n=1), l'équipe d'osu! a fait le choix final.[^art-challenge]
 
 Le 8 mars, une mise à jour d'osu! a apporté des améliorations considérables aux performances et à l'audio du jeu[^stable-b1485].
 
@@ -29,7 +29,7 @@ Le 2 août, tous les utilisateurs ont pu changer de nom d'utilisateur. Pour chan
 
 La commande de tchat [`!report`](/wiki/BanchoBot#report) a été ajoutée à [Bancho](/wiki/BanchoBot), ce qui permet aux gens d'informer les modérateurs du tchat sur les utilisateurs qui se comportent mal dans le tchat.[^bancho-report]
 
-[nardii](https://osu.ppy.sh/users/1017) a donné à peppy l'accès à son compte [Twitter](https://twitter.com) [@osugame](https://twitter.com/osugame) qui a été utilisé pour les nouvelles générales d'osu! à partir de ce moment-là.[^twitter-osugame]
+::nardii::{ user-id=1017 } a donné à peppy l'accès à son compte [Twitter](https://twitter.com) [@osugame](https://twitter.com/osugame) qui a été utilisé pour les nouvelles générales d'osu! à partir de ce moment-là.[^twitter-osugame]
 
 ## Septembre
 

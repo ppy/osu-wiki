@@ -13,7 +13,7 @@ Creating timeless electronic hits from his bedroom for the better part of a deca
 
 We've hit the motherload with **33** total tracks, ranging anywhere between glitch hop to drum & bass. With a sound comparable to the likes of our very own Featured Artists [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) and [Teminite](https://osu.ppy.sh/beatmaps/artists/64), there's no doubt you'll find something to your taste.
 
-Don't take our word for it though. Preview a few tracks to see if **Geoxor** is your cup of tea, or see how his music translates to mapping through [Zer0-](https://osu.ppy.sh/users/4260033)'s mapset of [*Stardust*](https://osu.ppy.sh/beatmapsets/1349715), as demonstrated by the differences between 2 digit and 6 digit gameplay.
+Don't take our word for it though. Preview a few tracks to see if **Geoxor** is your cup of tea, or see how his music translates to mapping through ::Zer0-::{ user-id=4260033 }'s mapset of [*Stardust*](https://osu.ppy.sh/beatmapsets/1349715), as demonstrated by the differences between 2 digit and 6 digit gameplay.
 
 <div align="center">
     <video width="95%" controls>

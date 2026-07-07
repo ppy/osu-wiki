@@ -11,9 +11,9 @@ series: featured_artists
 
 Ever since their own brand of eccentric melodies took root on SoundCloud in 2014, **Grynpyret** (pronounced "green parrot") has been pioneering the electronic music sphere. Their sound is a blend of relaxation and peculiarity, involving a calming blend of sound samples you won't find in any other music.
 
-We've scored **9** tracks this time around, including the cult classic behind [*Boba Beach*](https://osu.ppy.sh/beatmapsets/327224) hosted by [VINXIS](https://osu.ppy.sh/users/4323406).
+We've scored **9** tracks this time around, including the cult classic behind [*Boba Beach*](https://osu.ppy.sh/beatmapsets/327224) hosted by ::VINXIS::{ user-id=4323406 }.
 
-Experiencing these songs for yourself is the best way to really do them justice, so try watching [Feiri](https://osu.ppy.sh/users/3214844) play *Boba Beach* with osu!lazer's new Barrel Roll mod or check out the rest of the samples below:
+Experiencing these songs for yourself is the best way to really do them justice, so try watching ::Feiri::{ user-id=3214844 } play *Boba Beach* with osu!lazer's new Barrel Roll mod or check out the rest of the samples below:
 
 <div align="center">
     <video width="95%" controls>
@@ -35,7 +35,7 @@ Experiencing these songs for yourself is the best way to really do them justice,
 
 ### A Song About Naps (Vessence Remix)
 
-Try [this osu! set](https://osu.ppy.sh/beatmapsets/398008) also hosted by [VINXIS](https://osu.ppy.sh/users/4323406)!
+Try [this osu! set](https://osu.ppy.sh/beatmapsets/398008) also hosted by ::VINXIS::{ user-id=4323406 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/159/Songs/Grynpyret%20-%20A%20Song%20About%20Naps%20%28Vessence%20Remix%29.mp3" type="audio/mpeg">

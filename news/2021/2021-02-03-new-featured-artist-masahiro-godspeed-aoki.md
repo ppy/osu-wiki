@@ -15,7 +15,7 @@ You might've heard his sound already from franchise entries like *Street Fighter
 
 Being a guitarist at heart, we've snagged **9** guitar-heavy masterpieces from the deity himself!
 
-You'd be doing yourself a disservice by not listening to a few of these blood-pumping tracks. If video's more your style though, we asked [Vinno](https://osu.ppy.sh/users/10717635) to show us his tablet tapping prowess to the tune of Masahiro's [Blaze](https://osu.ppy.sh/beatmapsets/1323877) mapped by [Niva](https://osu.ppy.sh/users/197805). Check it all out:
+You'd be doing yourself a disservice by not listening to a few of these blood-pumping tracks. If video's more your style though, we asked ::Vinno::{ user-id=10717635 } to show us his tablet tapping prowess to the tune of Masahiro's [Blaze](https://osu.ppy.sh/beatmapsets/1323877) mapped by ::Niva::{ user-id=197805 }. Check it all out:
 
 <div align="center">
     <video width="95%" controls>

@@ -95,7 +95,7 @@ Now that all the rules are out of the way, let's unveil the prizes that will be 
 
 ---
 
-Special thanks to [Kleinne Lui](https://osu.ppy.sh/users/27725651) for allowing us to use their artwork for the contest banners!
+Special thanks to ::Kleinne Lui::{ user-id=27725651 } for allowing us to use their artwork for the contest banners!
 
 If you have any questions, or don't know where to start, feel free to drop a post under the [discussion thread](https://osu.ppy.sh/community/forums/topics/1762288), check out the [skinning tutorial](https://skinship.xyz/tutorial/introduction) or ask away on our [Discord server](https://discord.skinship.xyz)!
 

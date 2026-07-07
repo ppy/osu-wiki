@@ -110,7 +110,7 @@ The following prizes will be awarded for the **top 5** entries:
 - Team members receive a unique profile badge themed around their entry.
 - Team members receive a *Locus* user title befitting of their role.
 
-In addition, ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), osu!'s lead developer, will pick out his favourite entry which will be awarded a mystery prize.
+In addition, ::{ flag=AU }:: ::peppy::{ user-id=2 }, osu!'s lead developer, will pick out his favourite entry which will be awarded a mystery prize.
 
 ---
 

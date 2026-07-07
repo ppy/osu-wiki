@@ -8,7 +8,7 @@ tags:
 
 ![YHC S2 banner](img/banner.jpg)
 
-The **Yuyuko's Hidden Cup Season 2** (***YHC S2***) was a team-based 3v3 double-elimination osu! tournament hosted by ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030). It was the 2nd instalment of the Yuyuko's Hidden Cup.
+The **Yuyuko's Hidden Cup Season 2** (***YHC S2***) was a team-based 3v3 double-elimination osu! tournament hosted by ::{ flag=CN }:: ::SIyuyuko::{ user-id=9794030 }. It was the 2nd instalment of the Yuyuko's Hidden Cup.
 
 ## Tournament schedule
 
@@ -35,15 +35,15 @@ The Yuyuko's Hidden Cup Season 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030) |
-| Mappool selector | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Mappool playtester | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Showcaser | ::{ flag=CN }:: [Hakumo Shiro](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [Hakumo Ai](https://osu.ppy.sh/users/694480), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Sayori\_yui](https://osu.ppy.sh/users/7183040), ::{ flag=CN }:: [Senbe1](https://osu.ppy.sh/users/6911753), ::{ flag=CN }:: [carrywind](https://osu.ppy.sh/users/12228018) |
-| Streamer | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Commentator | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Designer | ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Referee | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Statistician | ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
+| Manager | ::{ flag=CN }:: ::SIyuyuko::{ user-id=9794030 } |
+| Mappool selector | ::{ flag=CN }:: ::SIyuyuko::{ user-id=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user-id=7003013 } |
+| Mappool playtester | ::{ flag=CN }:: ::SIyuyuko::{ user-id=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user-id=7003013 } |
+| Showcaser | ::{ flag=CN }:: ::Hakumo Shiro::{ user-id=5179557 }, ::{ flag=CN }:: ::Hakumo Ai::{ user-id=694480 }, ::{ flag=CN }:: ::VialVistas::{ user-id=9697708 }, ::{ flag=CN }:: ::Crystal::{ user-id=1646397 }, ::{ flag=CN }:: ::Sayori\_yui::{ user-id=7183040 }, ::{ flag=CN }:: ::Senbe1::{ user-id=6911753 }, ::{ flag=CN }:: ::carrywind::{ user-id=12228018 } |
+| Streamer | ::{ flag=CN }:: ::SIyuyuko::{ user-id=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user-id=7003013 } |
+| Commentator | ::{ flag=CN }:: ::SIyuyuko::{ user-id=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user-id=7003013 } |
+| Designer | ::{ flag=CN }:: ::Muziyami::{ user-id=7003013 } |
+| Referee | ::{ flag=CN }:: ::SIyuyuko::{ user-id=9794030 }, ::{ flag=CN }:: ::Muziyami::{ user-id=7003013 } |
+| Statistician | ::{ flag=CN }:: ::Muziyami::{ user-id=7003013 } |
 
 ## Links
 
@@ -56,12 +56,12 @@ The Yuyuko's Hidden Cup Season 2 was run by various community members.
 
 | Team code | Team name | Members |
 | :-: | :-: | :-- |
-| **A** | **老年娱乐** | [**Spell**](https://osu.ppy.sh/users/13003552), [\_Yukinoshita](https://osu.ppy.sh/users/15343685), [HUYI520](https://osu.ppy.sh/users/15337997), [mike233333](https://osu.ppy.sh/users/15436106), [lizhanyiawa](https://osu.ppy.sh/users/13928307) |
-| **B** | **无所谓 帕老师会出手** | [**QianLi1611**](https://osu.ppy.sh/users/30367809), [The Origin](https://osu.ppy.sh/users/10225377), [USAIKO](https://osu.ppy.sh/users/30018494), [AliceMana](https://osu.ppy.sh/users/11531025), [LimeSeptum](https://osu.ppy.sh/users/13256419) |
-| **C** | **已经结束啦** | [**Ayaaaachi**](https://osu.ppy.sh/users/16022736), [innnnovation](https://osu.ppy.sh/users/18443135), [dawnstar](https://osu.ppy.sh/users/17426219), [eric1388](https://osu.ppy.sh/users/20384257), [Lzq12345](https://osu.ppy.sh/users/15012640) |
-| **D** | **懒人三项** | [**RoyMaster**](https://osu.ppy.sh/users/28365836), [Sakura Luna](https://osu.ppy.sh/users/1608105), [cirnosaikyo](https://osu.ppy.sh/users/19971407), [small_pineapple](https://osu.ppy.sh/users/20989945), [\_Eilphy](https://osu.ppy.sh/users/15175276) |
-| **E** | **主播教我HD刷170** | [**Neutron torpedo**](https://osu.ppy.sh/users/24657559), [SugersakiE](https://osu.ppy.sh/users/15091523), [Kevin0036](https://osu.ppy.sh/users/24004891), [qimengxunkong](https://osu.ppy.sh/users/16849347), [dongguadongde](https://osu.ppy.sh/users/28494479) |
-| **F** | **东雪莲后援会** | [**Kieost**](https://osu.ppy.sh/users/17823832), [-XiAoyu](https://osu.ppy.sh/users/19061410), [Yin0508](https://osu.ppy.sh/users/15730382), [Zxian](https://osu.ppy.sh/users/20672564), [YuKiRoKi](https://osu.ppy.sh/users/16668536) |
+| **A** | **老年娱乐** | ::**Spell**::{ user-id=13003552 }, [\_Yukinoshita](https://osu.ppy.sh/users/15343685), ::HUYI520::{ user-id=15337997 }, [mike233333](https://osu.ppy.sh/users/15436106), ::lizhanyiawa::{ user-id=13928307 } |
+| **B** | **无所谓 帕老师会出手** | ::**QianLi1611**::{ user-id=30367809 }, [The Origin](https://osu.ppy.sh/users/10225377), ::USAIKO::{ user-id=30018494 }, [AliceMana](https://osu.ppy.sh/users/11531025), ::LimeSeptum::{ user-id=13256419 } |
+| **C** | **已经结束啦** | ::**Ayaaaachi**::{ user-id=16022736 }, [innnnovation](https://osu.ppy.sh/users/18443135), ::dawnstar::{ user-id=17426219 }, [eric1388](https://osu.ppy.sh/users/20384257), ::Lzq12345::{ user-id=15012640 } |
+| **D** | **懒人三项** | ::**RoyMaster**::{ user-id=28365836 }, [Sakura Luna](https://osu.ppy.sh/users/1608105), ::cirnosaikyo::{ user-id=19971407 }, [small_pineapple](https://osu.ppy.sh/users/20989945), ::\_Eilphy::{ user-id=15175276 } |
+| **E** | **主播教我HD刷170** | ::**Neutron torpedo**::{ user-id=24657559 }, [SugersakiE](https://osu.ppy.sh/users/15091523), ::Kevin0036::{ user-id=24004891 }, [qimengxunkong](https://osu.ppy.sh/users/16849347), ::dongguadongde::{ user-id=28494479 } |
+| **F** | **东雪莲后援会** | ::**Kieost**::{ user-id=17823832 }, [-XiAoyu](https://osu.ppy.sh/users/19061410), ::Yin0508::{ user-id=15730382 }, [Zxian](https://osu.ppy.sh/users/20672564), ::YuKiRoKi::{ user-id=16668536 } |
 
 ## Groups
 

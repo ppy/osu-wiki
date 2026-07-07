@@ -23,7 +23,7 @@ Honestly speaking, there's no way that words can explain the complexity of **Kik
 
 ### Kikuo - Hole Dwelling
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1519388) hosted by [melon boy](https://osu.ppy.sh/users/3053382) or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1187911) hosted by [Axer](https://osu.ppy.sh/users/7299864)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1519388) hosted by ::melon boy::{ user-id=3053382 } or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1187911) hosted by ::Axer::{ user-id=7299864 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/314/Kikuo%20Miku%206%2FKikuo%20-%20Hole%20Dwelling.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1519388)
 
 ### Kikuo - Ten Sho Sho Ten Sho
 
-Try playing [this absurd Loved map](https://osu.ppy.sh/beatmapsets/189457) hosted by [Squigly](https://osu.ppy.sh/users/3117313)!
+Try playing [this absurd Loved map](https://osu.ppy.sh/beatmapsets/189457) hosted by ::Squigly::{ user-id=3117313 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/314/Kikuo%20Miku%203%2FKikuo%20-%20Ten%20Sho%20Sho%20Ten%20Sho.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Try playing [this absurd Loved map](https://osu.ppy.sh/beatmapsets/189457) hoste
 
 ### Kikuo - Sight, Noise, Life and the Earth
 
-Attempt [the longest Featured Artist map to date](https://osu.ppy.sh/beatmapsets/978163) clocking in at over 38 minutes, hosted by [Alchyr](https://osu.ppy.sh/users/4993032)!
+Attempt [the longest Featured Artist map to date](https://osu.ppy.sh/beatmapsets/978163) clocking in at over 38 minutes, hosted by ::Alchyr::{ user-id=4993032 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/314/KIKUOWORLD%203%2FKikuo%20-%20Sight%2C%20Noise%2C%20Life%20and%20the%20Earth.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ Attempt [the longest Featured Artist map to date](https://osu.ppy.sh/beatmapsets
 
 ### Kikuo - Aishite Aishite Aishite
 
-Enjoy [the most accessible **Kikuo** map](https://osu.ppy.sh/beatmapsets/429956) hosted by [Lully](https://osu.ppy.sh/users/3363070)!
+Enjoy [the most accessible **Kikuo** map](https://osu.ppy.sh/beatmapsets/429956) hosted by ::Lully::{ user-id=3363070 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/314/Kikuo%20Miku%203%2FKikuo%20-%20Aishite%20Aishite%20Aishite.mp3" type="audio/mpeg">
@@ -55,7 +55,7 @@ Enjoy [the most accessible **Kikuo** map](https://osu.ppy.sh/beatmapsets/429956)
 
 ### Kikuo - Neko no Shokutaku
 
-Explore [this osu! map](https://osu.ppy.sh/beatmapsets/824981) hosted by [Axaptice](https://osu.ppy.sh/users/4395077)!
+Explore [this osu! map](https://osu.ppy.sh/beatmapsets/824981) hosted by ::Axaptice::{ user-id=4395077 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/314/Kikuo%20Miku%206%2FKikuo%20-%20Neko%20no%20Shokutaku.mp3" type="audio/mpeg">
@@ -63,7 +63,7 @@ Explore [this osu! map](https://osu.ppy.sh/beatmapsets/824981) hosted by [Axapti
 
 ### Kikuo - Cotton Candy
 
-Play through [this deceptively difficult osu!taiko map](https://osu.ppy.sh/beatmapsets/1247343) hosted by [Alchyr](https://osu.ppy.sh/users/4993032)!
+Play through [this deceptively difficult osu!taiko map](https://osu.ppy.sh/beatmapsets/1247343) hosted by ::Alchyr::{ user-id=4993032 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/314/Kikuo%20Miku%206%2FKikuo%20-%20Cotton%20Candy.mp3" type="audio/mpeg">
@@ -71,7 +71,7 @@ Play through [this deceptively difficult osu!taiko map](https://osu.ppy.sh/beatm
 
 ### Kikuo - Searching for your love
 
-Find your soulmate (who happens to be a beatmap) by playing [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1579040) hosted by [Horiiizon](https://osu.ppy.sh/users/8071438)!
+Find your soulmate (who happens to be a beatmap) by playing [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1579040) hosted by ::Horiiizon::{ user-id=8071438 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/314/Kikuo%20Miku%206%2FKikuo%20-%20Searching%20for%20your%20love.mp3" type="audio/mpeg">
@@ -79,7 +79,7 @@ Find your soulmate (who happens to be a beatmap) by playing [this osu!taiko map]
 
 ### Kikuo - Histrionic
 
-Try out [another osu!taiko map](https://osu.ppy.sh/beatmapsets/1151081) hosted by [Alchyr](https://osu.ppy.sh/users/4993032)!
+Try out [another osu!taiko map](https://osu.ppy.sh/beatmapsets/1151081) hosted by ::Alchyr::{ user-id=4993032 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/314/Kikuo%20Miku%206%2FKikuo%20-%20Histrionic%20(Vocaloid%20ver.).mp3" type="audio/mpeg">
@@ -87,7 +87,7 @@ Try out [another osu!taiko map](https://osu.ppy.sh/beatmapsets/1151081) hosted b
 
 ### Kikuo - Gakkou o Yasunda Hi no Koto
 
-Or maybe try [yet another osu!taiko map](https://osu.ppy.sh/beatmapsets/1606407) hosted by [Alchyr](https://osu.ppy.sh/users/4993032)!
+Or maybe try [yet another osu!taiko map](https://osu.ppy.sh/beatmapsets/1606407) hosted by ::Alchyr::{ user-id=4993032 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/314/Kikuo%20Miku%206%2FKikuo%20-%20Gakkou%20o%20Yasunda%20Hi%20no%20Koto.mp3" type="audio/mpeg">

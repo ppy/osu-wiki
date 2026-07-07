@@ -17,7 +17,7 @@ See [**Shawn Wasabi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/art
 
 ### Shawn Wasabi + YDG - Burnt Rice (feat. Yung GEMMY)
 
-Check out [this mapset](https://osu.ppy.sh/beatmapsets/710329) hosted by [Aistre](https://osu.ppy.sh/users/4879380) or [this (far more difficult) mapset](https://osu.ppy.sh/beatmapsets/866401) hosted by [ScubDomino](https://osu.ppy.sh/users/8972308)!
+Check out [this mapset](https://osu.ppy.sh/beatmapsets/710329) hosted by ::Aistre::{ user-id=4879380 } or [this (far more difficult) mapset](https://osu.ppy.sh/beatmapsets/866401) hosted by ::ScubDomino::{ user-id=8972308 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/139/Burnt%20Rice%20(feat.%20Yung%20GEMMY)/Shawn%20Wasabi%20+%20YDG%20-%20Burnt%20Rice%20(feat.%20YUNG%20GEMMY).mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Check out [this mapset](https://osu.ppy.sh/beatmapsets/710329) hosted by [Aistre
 
 ### Shawn Wasabi + YDG - Burnt Rice (feat. Yung GEMMY) \[Aiobahn & Jh-Anu Remix\]
 
-Try playing [this classic loved map](https://osu.ppy.sh/beatmapsets/519256) by [hehe](https://osu.ppy.sh/users/2123087)!
+Try playing [this classic loved map](https://osu.ppy.sh/beatmapsets/519256) by ::hehe::{ user-id=2123087 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/139/Burnt%20Rice%20(feat.%20Yung%20GEMMY)/Shawn%20Wasabi%20+%20YDG%20feat.%20YUNG%20GEMMY%20-%20Burnt%20Rice%20(Aiobahn%20&%20Jh-Anu%20Remix).mp3" type="audio/mpeg">

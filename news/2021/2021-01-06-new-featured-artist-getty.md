@@ -15,7 +15,7 @@ Given his involvement in the massive label *HARDCORE TANO\*C* and his countless 
 
 A solid **19** track catalog is available spanning **Getty**'s 2 major albums, including a chunky bunch of tracks in collaboration with *DJ DiA*, including the ever-popular song *Grayed Out -Antifront-*.
 
-And who's better to demonstrate the pure intensity of **Getty**'s music other than slider spamming legend [Realazy](https://osu.ppy.sh/users/918297), whose map of [*Engage-Rex-*](https://osu.ppy.sh/beatmapsets/1336197) perfectly shows what we've got on the table. See how 9 different players manage (at the same time):
+And who's better to demonstrate the pure intensity of **Getty**'s music other than slider spamming legend ::Realazy::{ user-id=918297 }, whose map of [*Engage-Rex-*](https://osu.ppy.sh/beatmapsets/1336197) perfectly shows what we've got on the table. See how 9 different players manage (at the same time):
 
 <div align="center">
     <video width="95%" controls>
@@ -25,7 +25,7 @@ And who's better to demonstrate the pure intensity of **Getty**'s music other th
 
 ### Getty vs. DJ DiA - Grayed Out -Antifront-
 
-Maybe check out this [osu! set](https://osu.ppy.sh/beatmapsets/578755#osu/1477241) yet again by [Realazy](https://osu.ppy.sh/users/918297) or this [25-difficulty osu!mania set](https://osu.ppy.sh/beatmapsets/526356#mania/1177967) hosted by [MEGAtive](https://osu.ppy.sh/users/3094101)!
+Maybe check out this [osu! set](https://osu.ppy.sh/beatmapsets/578755#osu/1477241) yet again by ::Realazy::{ user-id=918297 } or this [25-difficulty osu!mania set](https://osu.ppy.sh/beatmapsets/526356#mania/1177967) hosted by ::MEGAtive::{ user-id=3094101 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/128/Grayed%20Out-Antifront-/Getty%20vs.%20DJ%20DiA%20-%20Grayed%20Out%20-Antifront-.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Maybe check out this [osu! set](https://osu.ppy.sh/beatmapsets/578755#osu/147724
 
 ### Getty - Pump It
 
-Or check out [this osu!taiko set](https://osu.ppy.sh/beatmapsets/721544#taiko/1602655) by [yea](https://osu.ppy.sh/users/6874332)!
+Or check out [this osu!taiko set](https://osu.ppy.sh/beatmapsets/721544#taiko/1602655) by ::yea::{ user-id=6874332 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/128/KICK%20IT%20OUT/Getty%20-%20Pump%20It.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Or check out [this osu!taiko set](https://osu.ppy.sh/beatmapsets/721544#taiko/16
 
 ### Getty vs. DJ DiA - Antifront Gears
 
-Fruit catchers could also attempt [this osu!catch set](https://osu.ppy.sh/beatmapsets/1321736#fruits/2737761) by [Jemzuu](https://osu.ppy.sh/users/7890134)!
+Fruit catchers could also attempt [this osu!catch set](https://osu.ppy.sh/beatmapsets/1321736#fruits/2737761) by ::Jemzuu::{ user-id=7890134 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/128/ANTiFRONT%20GEARS/Getty%20vs.%20DJ%20DiA%20-%20Antifront%20Gears.mp3" type="audio/mpeg">

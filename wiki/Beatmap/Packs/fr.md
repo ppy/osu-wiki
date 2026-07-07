@@ -52,21 +52,21 @@ Il est recommandé de télécharger directement les packs de beatmap depuis la l
 Actuellement, tous les packs de beatmap sont stockés officiellement sur `packs.ppy.sh`. Il existe également des sites miroirs mis en place par d'autres utilisateurs pour des raisons de praticité :
 
 - [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
-  - [Feuille de calcul Google](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) par [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449)
+  - [Feuille de calcul Google](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) par ::Shige-Tori\[a\]::{ user-id=4459449 }
 - Ancien stockage avant l'utilisation du domaine `packs.ppy.sh`. (~07/05/2023)
-  - [Lecteur MEGA](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw) par [Stefan](https://osu.ppy.sh/users/626907)
+  - [Lecteur MEGA](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw) par ::Stefan::{ user-id=626907 }
 - [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381) (inactive)
-  - [Site miroir](http://osu.yas-online.net/) par [nanashirei](https://osu.ppy.sh/users/807630)
+  - [Site miroir](http://osu.yas-online.net/) par ::nanashirei::{ user-id=807630 }
 
 ### Torrents
 
 Pour télécharger des packs de beatmap en masse plutôt qu'un par un manuellement, utilisez des outils de torrenting pour les télécharger depuis l'un des sites ci-dessous :
 
 - [Osu! Beatmap Packs @ Resilio Sync](https://osu.ppy.sh/community/forums/topics/1255023)
-  - [Fichier torrent Resilio Sync](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2) par [glukki](https://osu.ppy.sh/users/14285150)
+  - [Fichier torrent Resilio Sync](https://link.resilio.com/#f=osu%21%20Beatmap%20Packs&sz=19E2&t=1&s=JHR4G3EUWCAOAKJT6HITFDGMENTSXU7U&i=CASDYUCU4VP4JUMPRYFZLFZK5EIXANSEE&v=2.7&a=2) par ::glukki::{ user-id=14285150 }
 - [[Beatmap Packs] All ranked maps](https://osu.ppy.sh/community/forums/topics/330552) (diverses options de téléchargements incluses)
-  - [Fichier torrent](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing) par [Elessey](https://osu.ppy.sh/users/4925105)
+  - [Fichier torrent](https://drive.google.com/drive/folders/1_iOU-sWjjugD7ww8Jsl1ullihcVXh50F?usp=sharing) par ::Elessey::{ user-id=4925105 }
 - [osu! Torrent Beatmap Packs](https://osu.ppy.sh/community/forums/topics/687910)
-  - [Site web PandoTracker](https://pandotracker.me) par [- Pandoro](https://osu.ppy.sh/users/2574057)
+  - [Site web PandoTracker](https://pandotracker.me) par ::- Pandoro::{ user-id=2574057 }
 
 Vous aurez besoin de beaucoup d'espace (et de bande passante) pour télécharger via torrent tous les packs.

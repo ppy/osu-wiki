@@ -70,4 +70,4 @@ Bir devralan zamanlama noktasının örnek seti yukarıdaki resimde olduğu gibi
 
 ## Dış kaynaklar
 
-- [neonat](https://osu.ppy.sh/users/1561995) tarafından hazırlanan [*how to add custom hitsound?* forum yanıtı](https://osu.ppy.sh/community/forums/posts/3215699)
+- ::neonat::{ user-id=1561995 } tarafından hazırlanan [*how to add custom hitsound?* forum yanıtı](https://osu.ppy.sh/community/forums/posts/3215699)

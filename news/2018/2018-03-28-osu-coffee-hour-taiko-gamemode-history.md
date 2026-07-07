@@ -11,7 +11,7 @@ If there's one thing that sets osu! apart from other communities, it's the amoun
 
 ## This week's theme
 
-What better time for osu!taiko than the day before the Taiko World Cup live drawings? Joining me ([HappyStick](https://osu.ppy.sh/users/256802)) this Friday will be [Raiden](https://osu.ppy.sh/users/2239480) and [karterfreak](https://osu.ppy.sh/users/1031958).
+What better time for osu!taiko than the day before the Taiko World Cup live drawings? Joining me (::HappyStick::{ user-id=256802 }) this Friday will be ::Raiden::{ user-id=2239480 } and [karterfreak](https://osu.ppy.sh/users/1031958).
 
 Raiden is an osu!taiko mapper, modder and player, who's been active in the mapping and modding scene since June 2015, a former Beatmap Nominator and current member of the Quality Assurance Team for osu!taiko. He has participated in the renewal of the old osu!taiko Ranking Criteria and has hosted his own Mentorship Program and Mapping Contest. He has also played for Spain in two Taiko World Cups, and will play his 3rd one this year.
 

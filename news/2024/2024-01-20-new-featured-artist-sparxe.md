@@ -25,8 +25,8 @@ Homegrown musician **Sparxe** makes their way from osu!'s leaderboards to osu!'s
 
 Check out these maps from the video above:
 
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1754903) hosted by [Gamelan4](https://osu.ppy.sh/users/9856910)
-- [osu! map](https://osu.ppy.sh/beatmapsets/1904860) hosted by [Nozuchi](https://osu.ppy.sh/users/5858447)
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1754903) hosted by ::Gamelan4::{ user-id=9856910 }
+- [osu! map](https://osu.ppy.sh/beatmapsets/1904860) hosted by ::Nozuchi::{ user-id=5858447 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/398/Songs/Sparxe - Zinnober.mp3">
@@ -34,7 +34,7 @@ Check out these maps from the video above:
 
 ### Sparxe - Comma, ~ Imi to Kouzou no Bunri
 
-Or try [the map that led to a broken pp record](https://osu.ppy.sh/beatmapsets/1785711) hosted by [HomieLove](https://osu.ppy.sh/users/8693851)!
+Or try [the map that led to a broken pp record](https://osu.ppy.sh/beatmapsets/1785711) hosted by ::HomieLove::{ user-id=8693851 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/398/Songs/Sparxe - Comma, ~ Imi to Kouzou no Bunri.mp3">
@@ -42,7 +42,7 @@ Or try [the map that led to a broken pp record](https://osu.ppy.sh/beatmapsets/1
 
 ### Sparxe - Dream Elevator
 
-Experience [this map](https://osu.ppy.sh/beatmapsets/1837865) from [EGTS 2022](/wiki/Tournaments/GTS/EGTS_2022) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)!
+Experience [this map](https://osu.ppy.sh/beatmapsets/1837865) from [EGTS 2022](/wiki/Tournaments/GTS/EGTS_2022) hosted by ::Cynplytholowazy::{ user-id=3901754 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/398/Songs/Sparxe - Dream Elevator.mp3">

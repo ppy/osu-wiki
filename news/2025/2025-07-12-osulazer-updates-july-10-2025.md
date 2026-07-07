@@ -21,7 +21,7 @@ We're slightly late in covering this update that released around ~16:00 UTC on T
 
 - **Gameplay leaderboards are now available in playlists and the daily challenge.** You can now see yourself climbing to the top in real-time.
 - **The automatic offset calibration has been improved.** The calibration will now take into account your previous valid play if the last play was too short to evaluate the offset.
-- **Hit windows have been adjusted to match osu!(stable).** Long story short, osu!(lazer) and osu!(stable) used to have different hit windows due to them not handling rounding the same way. This has now been aligned, making sure viewing replays don't display incorrectly. If you are interested in the long (but still simplified) story, check out [pishifat](https://osu.ppy.sh/users/3178418)'s explanation below.
+- **Hit windows have been adjusted to match osu!(stable).** Long story short, osu!(lazer) and osu!(stable) used to have different hit windows due to them not handling rounding the same way. This has now been aligned, making sure viewing replays don't display incorrectly. If you are interested in the long (but still simplified) story, check out ::pishifat::{ user-id=3178418 }'s explanation below.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

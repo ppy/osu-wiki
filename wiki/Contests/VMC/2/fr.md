@@ -29,7 +29,7 @@ Les résultats ont été diffusés en direct sur le [compte Twitch de la *Vocalo
 
 | Placement | Prix |  |
 | :-: | :-- | :-- |
-| 1ère place | Peluche personnalisée *VMC 2 Winner* VOCALOID[^peluche] (créée par [Noffy](https://osu.ppy.sh/users/1541323)), 6 mois d'osu!supporter, [Points du concours *Elite Mapper*](/wiki/Contests/Contest_points), badge de profil *VMC 2 Winner* | ![](img/winnerbadge.png) |
+| 1ère place | Peluche personnalisée *VMC 2 Winner* VOCALOID[^peluche] (créée par ::Noffy::{ user-id=1541323 }), 6 mois d'osu!supporter, [Points du concours *Elite Mapper*](/wiki/Contests/Contest_points), badge de profil *VMC 2 Winner* | ![](img/winnerbadge.png) |
 | 2ème place | 2 mois d'osu!supporter, [Points du concours *Elite Mapper*](/wiki/Contests/Contest_points) |  |
 | 3ème place | 1 mois d'osu!supporter, [Points du concours *Elite Mapper*](/wiki/Contests/Contest_points) |  |
 
@@ -60,10 +60,10 @@ Tous les mappeurs participants reçoivent un retour constructif de la part de ma
 
 | Mode de jeu | Juges |
 | :-: | :-- |
-| osu! | ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=SV }:: [Natsu](https://osu.ppy.sh/users/1953876), ::{ flag=CA }:: [Shanipika](https://osu.ppy.sh/users/6336729), ::{ flag=NL }:: [Nyxa](https://osu.ppy.sh/users/3408126) |
-| osu!catch | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) |
-| osu!taiko | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=US }:: [Lumenite-](https://osu.ppy.sh/users/6256027), ::{ flag=US }:: [Jonarwhal-](https://osu.ppy.sh/users/3653035) |
-| osu!mania | ::{ flag=AU }:: [Decku](https://osu.ppy.sh/users/13360768), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604), ::{ flag=DE }:: [BadDragon](https://osu.ppy.sh/users/6051688) |
+| osu! | ::{ flag=CN }:: ::NatsumeRin::{ user-id=151679 }, ::{ flag=US }:: ::Noffy::{ user-id=1541323 }, ::{ flag=CN }:: ::Mafumafu::{ user-id=3076909 }, ::{ flag=SV }:: ::Natsu::{ user-id=1953876 }, ::{ flag=CA }:: ::Shanipika::{ user-id=6336729 }, ::{ flag=NL }:: ::Nyxa::{ user-id=3408126 } |
+| osu!catch | ::{ flag=PH }:: ::Jemzuu::{ user-id=7890134 }, ::{ flag=NL }:: ::Greaper::{ user-id=2369776 }, ::{ flag=HK }:: ::autofanboy::{ user-id=636114 }, ::{ flag=NL }:: ::Chatie::{ user-id=6524765 } |
+| osu!taiko | ::{ flag=US }:: ::Alchyr::{ user-id=4993032 }, ::{ flag=GB }:: ::aceticke::{ user-id=8838763 }, ::{ flag=TN }:: ::Hivie::{ user-id=14102976 }, ::{ flag=US }:: ::Lumenite-::{ user-id=6256027 }, ::{ flag=US }:: ::Jonarwhal-::{ user-id=3653035 } |
+| osu!mania | ::{ flag=AU }:: ::Decku::{ user-id=13360768 }, ::{ flag=ID }:: ::Maxus::{ user-id=4335785 }, ::{ flag=US }:: ::Monoseul::{ user-id=16010604 }, ::{ flag=DE }:: ::BadDragon::{ user-id=6051688 } |
 
 ## Critères d'évaluation
 
@@ -97,11 +97,11 @@ Les notes détaillées, les commentaires des juges et le classement final sont [
 
 | Classement | Utilisateur | Musique (lien vers la map) | Badge |
 | :-: | :-- | :-- | :-- |
-| 1er | [Nuolong](https://osu.ppy.sh/users/4732455) | [14](https://osu.ppy.sh/beatmapsets/2163174#osu/4561966) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
-| 2ème | [yaspo](https://osu.ppy.sh/users/4945926) | [14](https://osu.ppy.sh/beatmapsets/2163127#osu/4561861) | - |
-| 3ème | [Meijiro McQueen](https://osu.ppy.sh/users/11555612) | [Devolution](https://osu.ppy.sh/beatmapsets/2163129#osu/4561870) | - |
-| 4ème | [celerih](https://osu.ppy.sh/users/4696296) | [Devolution](https://osu.ppy.sh/beatmapsets/2163113#osu/4561840) | - |
-| 5ème | [Nijika Ijichi](https://osu.ppy.sh/users/10964252) | [The Cuckoo Bird's Beautiful Youth](https://osu.ppy.sh/beatmapsets/2163129#osu/4561870) | - |
+| 1er | ::Nuolong::{ user-id=4732455 } | [14](https://osu.ppy.sh/beatmapsets/2163174#osu/4561966) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2ème | ::yaspo::{ user-id=4945926 } | [14](https://osu.ppy.sh/beatmapsets/2163127#osu/4561861) | - |
+| 3ème | ::Meijiro McQueen::{ user-id=11555612 } | [Devolution](https://osu.ppy.sh/beatmapsets/2163129#osu/4561870) | - |
+| 4ème | ::celerih::{ user-id=4696296 } | [Devolution](https://osu.ppy.sh/beatmapsets/2163113#osu/4561840) | - |
+| 5ème | ::Nijika Ijichi::{ user-id=10964252 } | [The Cuckoo Bird's Beautiful Youth](https://osu.ppy.sh/beatmapsets/2163129#osu/4561870) | - |
 
 ### osu!taiko
 
@@ -109,9 +109,9 @@ Les notes détaillées, les commentaires des juges et le classement final sont [
 
 | Classement | Utilisateur | Musique (lien vers la map) | Badge |
 | :-: | :-- | :-- | :-- |
-| 1er | [uone](https://osu.ppy.sh/users/5321719) | [Devolution](https://osu.ppy.sh/beatmapsets/2163119#taiko/4561851) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
-| 2ème | [Nifty](https://osu.ppy.sh/users/4956097) | [Devolution](https://osu.ppy.sh/beatmapsets/2163121#taiko/4561854) | - |
-| 3ème | [-Kazuha](https://osu.ppy.sh/users/29978316) | [Shirley!!](https://osu.ppy.sh/beatmapsets/2163126#taiko/4561860) | - |
+| 1er | ::uone::{ user-id=5321719 } | [Devolution](https://osu.ppy.sh/beatmapsets/2163119#taiko/4561851) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2ème | ::Nifty::{ user-id=4956097 } | [Devolution](https://osu.ppy.sh/beatmapsets/2163121#taiko/4561854) | - |
+| 3ème | ::-Kazuha::{ user-id=29978316 } | [Shirley!!](https://osu.ppy.sh/beatmapsets/2163126#taiko/4561860) | - |
 
 ### osu!catch
 
@@ -119,9 +119,9 @@ Les notes détaillées, les commentaires des juges et le classement final sont [
 
 | Classement | Utilisateur | Musique (lien vers la map) | Badge |
 | :-: | :-- | :-- | :-- |
-| 1er | [Dika312](https://osu.ppy.sh/users/741613) | [Shirley!!](https://osu.ppy.sh/beatmapsets/2163162#fruits/4561933) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
-| 2ème | [Unlucky_w](https://osu.ppy.sh/users/4820793) | [Shirley!!](https://drive.google.com/file/d/1QFKSVUhBl48_uURI95ZfgQj8_5qtETDt/view?usp=sharing) | - |
-| 3ème | [Cipse](https://osu.ppy.sh/users/7928880) | [The Cuckoo Bird's Beautiful Youth](https://drive.google.com/file/d/10zF8TYbqrbKRM1X_7K-ZaySIBAFulK2i/view?usp=sharing) | - |
+| 1er | ::Dika312::{ user-id=741613 } | [Shirley!!](https://osu.ppy.sh/beatmapsets/2163162#fruits/4561933) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2ème | ::Unlucky\1w::{ user-id=4820793 } | [Shirley!!](https://drive.google.com/file/d/1QFKSVUhBl48_uURI95ZfgQj8_5qtETDt/view?usp=sharing) | - |
+| 3ème | ::Cipse::{ user-id=7928880 } | [The Cuckoo Bird's Beautiful Youth](https://drive.google.com/file/d/10zF8TYbqrbKRM1X_7K-ZaySIBAFulK2i/view?usp=sharing) | - |
 
 ### osu!mania
 
@@ -129,9 +129,9 @@ Les notes détaillées, les commentaires des juges et le classement final sont [
 
 | Classement | Utilisateur | Musique (lien vers la map) | Badge |
 | :-: | :-- | :-- | :-- |
-| 1er | [Micleak](https://osu.ppy.sh/users/16140674) | [Devolution](https://drive.google.com/file/d/19OKPV4Ahy3J96o66XZxczUw1XrC4x4uX/view?usp=drive_link) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
-| 2ème | [Vincy_02](https://osu.ppy.sh/users/13574613) | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |
-| 3ème | [TheMoonLoop](https://osu.ppy.sh/users/15628036) | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |
+| 1er | ::Micleak::{ user-id=16140674 } | [Devolution](https://drive.google.com/file/d/19OKPV4Ahy3J96o66XZxczUw1XrC4x4uX/view?usp=drive_link) | ![](/wiki/Contests/VMC/2/img/winnerbadge.png) |
+| 2ème | ::Vincy\102::{ user-id=13574613 } | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |
+| 3ème | ::TheMoonLoop::{ user-id=15628036 } | [Devolution](https://drive.google.com/file/d/1b1XBvoA8goqC1g6Xdj-B_7jDEdnTmJDP/view?usp=drive_link) | - |
 
 ## Notes
 

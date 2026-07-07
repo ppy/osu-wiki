@@ -17,7 +17,7 @@ While the ephemeral duo split in 2018 so each producer could pursue their own so
 
 ### Ignite (feat. Amy J Pryce)
 
-Play [this map](https://osu.ppy.sh/beatmapsets/1060329) hosted by [JayBone](https://osu.ppy.sh/users/11481881), or if you're looking for something harder, check [this map](https://osu.ppy.sh/beatmapsets/1443360) created by 9 members of the Mappers' Guild!
+Play [this map](https://osu.ppy.sh/beatmapsets/1060329) hosted by ::JayBone::{ user-id=11481881 }, or if you're looking for something harder, check [this map](https://osu.ppy.sh/beatmapsets/1443360) created by 9 members of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/180/Oxygen/Fred%20V%20%26%20Grafix%20-%20Ignite%20%28feat.%20Amy%20J%20Pryce%29.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Play [this map](https://osu.ppy.sh/beatmapsets/1060329) hosted by [JayBone](http
 
 ### Ultraviolet
 
-Try out [another map](https://osu.ppy.sh/beatmapsets/1272355) hosted by [Dayno](https://osu.ppy.sh/users/10634465)!
+Try out [another map](https://osu.ppy.sh/beatmapsets/1272355) hosted by ::Dayno::{ user-id=10634465 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/180/Oxygen/Fred%20V%20%26%20Grafix%20-%20Ultraviolet.mp3" type="audio/mpeg">

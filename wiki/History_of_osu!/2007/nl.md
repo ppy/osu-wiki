@@ -6,7 +6,7 @@ outdated_since: edb4e0c8d99d7c91a1b0ce698f54b264eb6bf0be
 
 # Geschiedenis van osu! 2007
 
-Het volgende is een deel van de geschiedenis van osu! sinds het begin. Met dank aan [Sinistro](https://osu.ppy.sh/users/5530) voor de hulp bij het samenstellen van de inhoud van 2007/2008.
+Het volgende is een deel van de geschiedenis van osu! sinds het begin. Met dank aan ::Sinistro::{ user-id=5530 } voor de hulp bij het samenstellen van de inhoud van 2007/2008.
 
 ![](img/2007.jpg)
 

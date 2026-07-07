@@ -11,7 +11,7 @@ Join us for a history lesson, a story about an elusive medal and one man's journ
 
 Before we begin with this story, we first must learn about the history of medals.
 
-Medals were first introduced in early August 2008, with their original goal being to serve as an achievement system linked to a now-abandoned "story mode" for osu!, similar to the original *Elite Beat Agents* campaign. The first ever medals to be added were the play count medals, and since they were retroactively given to all users who already fulfilled the requirements, some users like [Echo](https://osu.ppy.sh/users/431) and [Saturos](https://osu.ppy.sh/users/3781) acquired them pretty much on release.
+Medals were first introduced in early August 2008, with their original goal being to serve as an achievement system linked to a now-abandoned "story mode" for osu!, similar to the original *Elite Beat Agents* campaign. The first ever medals to be added were the play count medals, and since they were retroactively given to all users who already fulfilled the requirements, some users like ::Echo::{ user-id=431 } and [Saturos](https://osu.ppy.sh/users/3781) acquired them pretty much on release.
 
 Soon after the play count medals came the first batch of beatmap pack medals, and while some do not exist any more, there are still some that you can acquire! Some examples would be the [Internet Pack vol.1](https://osekai.net/medals/?medal=Internet!+Pack+vol.1), [Anime Pack vol.1](https://osekai.net/medals/?medal=Anime+Pack+vol.1), [Video Game Pack vol.1](https://osekai.net/medals/?medal=Video+Game+Pack+vol.1) and [Rhythm Game Pack vol.1](https://osekai.net/medals/?medal=Rhythm+Game+Pack+vol.1) medals.
 
@@ -21,7 +21,7 @@ As development of the game continued, medals eventually became more than just a 
 
 In the years after their release, very few new Hush-Hush medals were added, and it was only in late 2016 that new ones started being released in batches as announced in [this news post](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals). Since then, new medals have trickled in sporadically, sometimes released alongside other announcements or have simply been added entirely without warning.
 
-This brings us to the main character of this story: [Zetera](https://osu.ppy.sh/users/587737). Zetera is a 24-year-old osu! player from Germany, and according to him osu! has been a part of almost half of his life, and his join date certainly backs that up. In that time, he has done quite a lot for the community and described in his words as such:
+This brings us to the main character of this story: ::Zetera::{ user-id=587737 }. Zetera is a 24-year-old osu! player from Germany, and according to him osu! has been a part of almost half of his life, and his join date certainly backs that up. In that time, he has done quite a lot for the community and described in his words as such:
 
 > I am an ex-moderator, on-and-off contest judge, world cup commentator and a huge beatmapping nerd. And, I suppose, also a medal hunter.
 
@@ -37,11 +37,11 @@ Since getting batches of medals was still new, there wasn't a lot of knowledge b
 
 Figuring out how to solve a medal is often a complicated process, as the only real hints provided are the medal's name, icon and some mouse-over text known internally as a *flair*. At times, even these are not enough, and some medals have even had all three of these things changed over the years.
 
-Despite these challenges, the community managed to figure out the solutions to all of 2017's new medals save for one: "The Girl in the Forest". The community first deduced that the relevant map was [Takuya](https://osu.ppy.sh/users/342372)'s set of [Pika Girl](https://osu.ppy.sh/beatmapsets/40440#osu/128718) by [S3RL](https://osu.ppy.sh/beatmaps/artists/9) after linking the hints and flair text back to it. Zetera then immediately went and SS'd the map, but that didn't work. Maybe a mod was required, or the map needed to be FC'd in all game modes consecutively to get the medal, but that didn't work either. Maybe it had to be an SS on all game modes?
+Despite these challenges, the community managed to figure out the solutions to all of 2017's new medals save for one: "The Girl in the Forest". The community first deduced that the relevant map was ::Takuya::{ user-id=342372 }'s set of [Pika Girl](https://osu.ppy.sh/beatmapsets/40440#osu/128718) by [S3RL](https://osu.ppy.sh/beatmaps/artists/9) after linking the hints and flair text back to it. Zetera then immediately went and SS'd the map, but that didn't work. Maybe a mod was required, or the map needed to be FC'd in all game modes consecutively to get the medal, but that didn't work either. Maybe it had to be an SS on all game modes?
 
 The limits of the medal system needed to be examined more closely, albeit with educated guesswork and deduction. Surely it can't check when you lost your full combo or when an SS was lost, so the only things left would be the miss count, max combo, counts of 300s, 100s, 50s and misses, playing in different modes and a couple of other things, such as at what time was the score submitted. At the time, the flair text read as "First Generation in more than one ways", which lead Zetera to think that it might be related to Pokémon or perhaps the first generation of influential mappers, but in the end, he found himself stumped.
 
-Out of ideas, he reached out to [Ephemeral](https://osu.ppy.sh/users/102335), osu!'s "community manager", and instead of receiving a hint, Ephemeral would go on to create the [following thread](https://osu.ppy.sh/community/forums/topics/662279?n=1) on the osu! forum:
+Out of ideas, he reached out to ::Ephemeral::{ user-id=102335 }, osu!'s "community manager", and instead of receiving a hint, Ephemeral would go on to create the [following thread](https://osu.ppy.sh/community/forums/topics/662279?n=1) on the osu! forum:
 
 > It's been roughly a week since the Halloween medal release, and just about every medal outside of one has been conclusively claimed and figured out.
 >

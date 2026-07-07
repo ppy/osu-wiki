@@ -9,7 +9,7 @@ tags:
 
 > Uniting the mass diversity, NOW EXPANDED!
 
-The **Asian-Oceanian Taiko Showdown** (***AOTS***) was a 1v1 Asian and Oceanian double-elimination osu!taiko tournament hosted by ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078) and ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third instalment of the Asian-Oceanian Taiko Showdown, and an extension from the Asia region to Asia and Oceania.
+The **Asian-Oceanian Taiko Showdown** (***AOTS***) was a 1v1 Asian and Oceanian double-elimination osu!taiko tournament hosted by ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 }, ::{ flag=US }:: ::JDrago14::{ user-id=7690078 } and ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 }. It was the third instalment of the Asian-Oceanian Taiko Showdown, and an extension from the Asia region to Asia and Oceania.
 
 ## Tournament schedule
 
@@ -40,14 +40,14 @@ The Asian-Oceanian Taiko Showdown was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Mappool selector | ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=US }:: [jyake](https://osu.ppy.sh/users/9099822) |
-| Referee | ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=AU }:: [ill onion](https://osu.ppy.sh/users/8306102), ::{ flag=RU }:: [Starger](https://osu.ppy.sh/users/3398715), ::{ flag=MY }:: [Stupid Idiot](https://osu.ppy.sh/users/8355574), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) |
-| Streamer | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) |
-| Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
-| Designer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867) |
-| Statistician | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 }, ::{ flag=US }:: ::JDrago14::{ user-id=7690078 }, ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 } |
+| Mappool selector | ::{ flag=PT }:: ::BabySnakes::{ user-id=4669728 }, ::{ flag=JP }:: ::iceOC::{ user-id=5482401 }, ::{ flag=US }:: ::jyake::{ user-id=9099822 } |
+| Referee | ::{ flag=HK }:: ::Akali393394::{ user-id=9686628 }, ::{ flag=AU }:: ::ill onion::{ user-id=8306102 }, ::{ flag=RU }:: ::Starger::{ user-id=3398715 }, ::{ flag=MY }:: ::Stupid Idiot::{ user-id=8355574 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user-id=7157133 }, ::{ flag=SG }:: ::uchuuj1n::{ user-id=9140302 } |
+| Streamer | ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 } |
+| Commentator | ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 }, ::{ flag=MY }:: ::Jerry::{ user-id=605973 } |
+| Designer | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 }, ::{ flag=PH }:: ::OsuMe65::{ user-id=852867 } |
+| Statistician | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Links
 
@@ -61,22 +61,22 @@ The Asian-Oceanian Taiko Showdown was run by various community members.
 
 | Seed | Players |
 | :-- | :-- |
-| Top | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120), ::{ flag=HK }:: [MTDex](https://osu.ppy.sh/users/9468283), ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831), ::{ flag=KR }:: [Laby](https://osu.ppy.sh/users/9085164), ::{ flag=ID }:: [Roger](https://osu.ppy.sh/users/1538223), ::{ flag=TW }:: [TS\_LewisLuo](https://osu.ppy.sh/users/4337536), ::{ flag=RU }:: [Naninub](https://osu.ppy.sh/users/8188876), ::{ flag=ID }:: [ayomikasa](https://osu.ppy.sh/users/4866957) |
-| Mid | ::{ flag=JP }:: [Xin Leviathan](https://osu.ppy.sh/users/9575624), ::{ flag=KR }:: [BamgoeSN](https://osu.ppy.sh/users/1152851), ::{ flag=RU }:: [Dayzeek](https://osu.ppy.sh/users/5009970), ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819), ::{ flag=KR }:: [Tsuki\_yura](https://osu.ppy.sh/users/9262355), ::{ flag=RU }:: [pavlukivan](https://osu.ppy.sh/users/8321579), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=RU }:: [Nozdormu](https://osu.ppy.sh/users/7169208) |
-| Low | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183), ::{ flag=RU }:: [JW-Dash](https://osu.ppy.sh/users/5285786), ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666), ::{ flag=ID }:: [Viewland](https://osu.ppy.sh/users/6250135), ::{ flag=SG }:: [Kekneko](https://osu.ppy.sh/users/8414979), ::{ flag=AU }:: [Olympyss](https://osu.ppy.sh/users/10654844) |
+| Top | ::{ flag=TW }:: ::Smallwu::{ user-id=2512120 }, ::{ flag=HK }:: ::MTDex::{ user-id=9468283 }, ::{ flag=JP }:: ::Noko\_BSF::{ user-id=3811831 }, ::{ flag=KR }:: ::Laby::{ user-id=9085164 }, ::{ flag=ID }:: ::Roger::{ user-id=1538223 }, ::{ flag=TW }:: ::TS\_LewisLuo::{ user-id=4337536 }, ::{ flag=RU }:: ::Naninub::{ user-id=8188876 }, ::{ flag=ID }:: ::ayomikasa::{ user-id=4866957 } |
+| Mid | ::{ flag=JP }:: ::Xin Leviathan::{ user-id=9575624 }, ::{ flag=KR }:: ::BamgoeSN::{ user-id=1152851 }, ::{ flag=RU }:: ::Dayzeek::{ user-id=5009970 }, ::{ flag=JP }:: ::Saikoro::{ user-id=741819 }, ::{ flag=KR }:: ::Tsuki\_yura::{ user-id=9262355 }, ::{ flag=RU }:: ::pavlukivan::{ user-id=8321579 }, ::{ flag=JP }:: ::Briesmas::{ user-id=2865172 }, ::{ flag=RU }:: ::Nozdormu::{ user-id=7169208 } |
+| Low | ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 }, ::{ flag=AU }:: ::Tsubasa2::{ user-id=6835183 }, ::{ flag=RU }:: ::JW-Dash::{ user-id=5285786 }, ::{ flag=MY }:: ::Bedwyr Aorta::{ user-id=10875855 }, ::{ flag=MY }:: ::Minisora::{ user-id=9627666 }, ::{ flag=ID }:: ::Viewland::{ user-id=6250135 }, ::{ flag=SG }:: ::Kekneko::{ user-id=8414979 }, ::{ flag=AU }:: ::Olympyss::{ user-id=10654844 } |
 
 ## Groups
 
 | Group | Top seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- |
-| **A** | ::{ flag=TW }:: [TS\_LewisLuo](https://osu.ppy.sh/users/4337536) | ::{ flag=JP }:: [Xin Leviathan](https://osu.ppy.sh/users/9575624) | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) |
-| **B** | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819) | ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183) |
-| **C** | ::{ flag=ID }:: [ayomikasa](https://osu.ppy.sh/users/4866957) | ::{ flag=RU }:: [Dayzeek](https://osu.ppy.sh/users/5009970) | ::{ flag=RU }:: [JW-Dash](https://osu.ppy.sh/users/5285786) |
-| **D** | ::{ flag=RU }:: [Naninub](https://osu.ppy.sh/users/8188876) | ::{ flag=RU }:: [Nozdormu](https://osu.ppy.sh/users/7169208) | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
-| **E** | ::{ flag=KR }:: [Laby](https://osu.ppy.sh/users/9085164) | ::{ flag=KR }:: [BamgoeSN](https://osu.ppy.sh/users/1152851) | ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666) |
-| **F** | ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831) | ::{ flag=RU }:: [pavlukivan](https://osu.ppy.sh/users/8321579) | ::{ flag=ID }:: [Viewland](https://osu.ppy.sh/users/6250135) |
-| **G** | ::{ flag=ID }:: [Roger](https://osu.ppy.sh/users/1538223) | ::{ flag=KR }:: [Tsuki\_yura](https://osu.ppy.sh/users/9262355) | ::{ flag=SG }:: [Kekneko](https://osu.ppy.sh/users/8414979) |
-| **H** | ::{ flag=HK }:: [MTDex](https://osu.ppy.sh/users/9468283) | ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172) | ::{ flag=AU }:: [Olympyss](https://osu.ppy.sh/users/10654844) |
+| **A** | ::{ flag=TW }:: ::TS\_LewisLuo::{ user-id=4337536 } | ::{ flag=JP }:: ::Xin Leviathan::{ user-id=9575624 } | ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 } |
+| **B** | ::{ flag=TW }:: ::Smallwu::{ user-id=2512120 } | ::{ flag=JP }:: ::Saikoro::{ user-id=741819 } | ::{ flag=AU }:: ::Tsubasa2::{ user-id=6835183 } |
+| **C** | ::{ flag=ID }:: ::ayomikasa::{ user-id=4866957 } | ::{ flag=RU }:: ::Dayzeek::{ user-id=5009970 } | ::{ flag=RU }:: ::JW-Dash::{ user-id=5285786 } |
+| **D** | ::{ flag=RU }:: ::Naninub::{ user-id=8188876 } | ::{ flag=RU }:: ::Nozdormu::{ user-id=7169208 } | ::{ flag=MY }:: ::Bedwyr Aorta::{ user-id=10875855 } |
+| **E** | ::{ flag=KR }:: ::Laby::{ user-id=9085164 } | ::{ flag=KR }:: ::BamgoeSN::{ user-id=1152851 } | ::{ flag=MY }:: ::Minisora::{ user-id=9627666 } |
+| **F** | ::{ flag=JP }:: ::Noko\_BSF::{ user-id=3811831 } | ::{ flag=RU }:: ::pavlukivan::{ user-id=8321579 } | ::{ flag=ID }:: ::Viewland::{ user-id=6250135 } |
+| **G** | ::{ flag=ID }:: ::Roger::{ user-id=1538223 } | ::{ flag=KR }:: ::Tsuki\_yura::{ user-id=9262355 } | ::{ flag=SG }:: ::Kekneko::{ user-id=8414979 } |
+| **H** | ::{ flag=HK }:: ::MTDex::{ user-id=9468283 } | ::{ flag=JP }:: ::Briesmas::{ user-id=2865172 } | ::{ flag=AU }:: ::Olympyss::{ user-id=10654844 } |
 
 ## Podium
 
@@ -84,9 +84,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=HK }:: [MTDex](https://osu.ppy.sh/users/9468283) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=TW }:: ::Smallwu::{ user-id=2512120 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=JP }:: ::Saikoro::{ user-id=741819 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=HK }:: ::MTDex::{ user-id=9468283 } |
 
 ## Mappools
 

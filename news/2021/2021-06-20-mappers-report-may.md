@@ -49,14 +49,14 @@ Another round of additions and departures in both the Beatmap Nominators and the
 
 ### NAT Additions
 
-Leaving those who couldn't predict his presence with a wide-open mouth, [Unpredictable](https://osu.ppy.sh/users/7560872) has recently joined the osu!mania NAT!
+Leaving those who couldn't predict his presence with a wide-open mouth, ::Unpredictable::{ user-id=7560872 } has recently joined the osu!mania NAT!
 
 Having worn the purple uniform for roughly one and a half years, Unpredictable has rolled up his sleeves to partake in the evaluation of his fellow nominators. Too soon, you might think? Definitely not! He is more than ready and up to the task, and we're excited to finally have him on board.
 
 ### BN Additions
 
-- **osu!:** [Logic Agent](https://osu.ppy.sh/users/6341262), [Yahuri](https://osu.ppy.sh/users/4682629), [tomatas95](https://osu.ppy.sh/users/11403815), [Iceluin](https://osu.ppy.sh/users/3558897), [Gabdu09](https://osu.ppy.sh/users/8852605), [Dada](https://osu.ppy.sh/users/9119507), [Akayume](https://osu.ppy.sh/users/10617530), [Aakki](https://osu.ppy.sh/users/11077540), [Nao Tomori](https://osu.ppy.sh/users/5364763), [Sajinn](https://osu.ppy.sh/users/13513687), [Aistre](https://osu.ppy.sh/users/4879380) & [Icekalt](https://osu.ppy.sh/users/5410645)
-- **osu!catch:** [Secre](https://osu.ppy.sh/users/2306637), [Du5t](https://osu.ppy.sh/users/6053071) & [zerokt](https://osu.ppy.sh/users/13776127)
+- **osu!:** ::Logic Agent::{ user-id=6341262 }, [Yahuri](https://osu.ppy.sh/users/4682629), ::tomatas95::{ user-id=11403815 }, [Iceluin](https://osu.ppy.sh/users/3558897), ::Gabdu09::{ user-id=8852605 }, [Dada](https://osu.ppy.sh/users/9119507), ::Akayume::{ user-id=10617530 }, [Aakki](https://osu.ppy.sh/users/11077540), ::Nao Tomori::{ user-id=5364763 }, [Sajinn](https://osu.ppy.sh/users/13513687), ::Aistre::{ user-id=4879380 } & [Icekalt](https://osu.ppy.sh/users/5410645)
+- **osu!catch:** ::Secre::{ user-id=2306637 }, [Du5t](https://osu.ppy.sh/users/6053071) & ::zerokt::{ user-id=13776127 }
 
 Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator!
 
@@ -64,21 +64,21 @@ The applications are always open, so head on over to the [Beatmap Nominator webs
 
 ### NAT Resignations
 
-Our personal office cat [Mao](https://osu.ppy.sh/users/2204515) has decided to step down from the duties of the NAT after more than 5 years. We thank him a lot for all his contributions to the game and we wish him all the best for the future!
+Our personal office cat ::Mao::{ user-id=2204515 } has decided to step down from the duties of the NAT after more than 5 years. We thank him a lot for all his contributions to the game and we wish him all the best for the future!
 
 ### BN Departures
 
-- **osu!:** [Eula-](https://osu.ppy.sh/users/5405836), [skylaa](https://osu.ppy.sh/users/9505704), [MaridiuS](https://osu.ppy.sh/users/4496961), [Astronic](https://osu.ppy.sh/users/9320502), [Een Persoon](https://osu.ppy.sh/users/10959501), [Teky](https://osu.ppy.sh/users/10520912), [Hobbes2](https://osu.ppy.sh/users/8157492), [Mordred](https://osu.ppy.sh/users/7265097) & [C00L](https://osu.ppy.sh/users/4930630)
-- **osu!taiko:** [overranked](https://osu.ppy.sh/users/12315824) & [Jerry](https://osu.ppy.sh/users/605973)
-- **osu!mania:** [Amiichii](https://osu.ppy.sh/users/9228569)
+- **osu!:** ::Eula-::{ user-id=5405836 }, [skylaa](https://osu.ppy.sh/users/9505704), ::MaridiuS::{ user-id=4496961 }, [Astronic](https://osu.ppy.sh/users/9320502), ::Een Persoon::{ user-id=10959501 }, [Teky](https://osu.ppy.sh/users/10520912), ::Hobbes2::{ user-id=8157492 }, [Mordred](https://osu.ppy.sh/users/7265097) & ::C00L::{ user-id=4930630 }
+- **osu!taiko:** ::overranked::{ user-id=12315824 } & [Jerry](https://osu.ppy.sh/users/605973)
+- **osu!mania:** ::Amiichii::{ user-id=9228569 }
 
 ## Mappers' Showcase
 
-Into the next round of the Mappers' Showcase we go! This time, we're featuring two amazing hidden gems from the osu!catch game mode. Big thanks to this month's contributors [Jemzuu](https://osu.ppy.sh/users/7890134) and [autofanboy](https://osu.ppy.sh/users/636114).
+Into the next round of the Mappers' Showcase we go! This time, we're featuring two amazing hidden gems from the osu!catch game mode. Big thanks to this month's contributors ::Jemzuu::{ user-id=7890134 } and [autofanboy](https://osu.ppy.sh/users/636114).
 
 ### Verti
 
-[Verti](https://osu.ppy.sh/users/10674528) is an ambitious newcomer to the osu!catch mapping scene. His mapping prowess should not be underestimated as he managed to push three maps to the ranked section within three months, achieving the impossible as deemed by most novice mappers.
+::Verti::{ user-id=10674528 } is an ambitious newcomer to the osu!catch mapping scene. His mapping prowess should not be underestimated as he managed to push three maps to the ranked section within three months, achieving the impossible as deemed by most novice mappers.
 
 His debut map is [nonoc – Memento (TV Size)](https://osu.ppy.sh/beatmapsets/1417543), a Cup to Rain spread mapped solely by himself, for which the ranking process only lasted a month. He has been gaining recognition from the osu!catch community with his 4-minute Platter to Overdose spread [Amatsuki – DORAEMON](https://osu.ppy.sh/beatmapsets/1327531) starred in CWC2021 as a Finals DT pick.
 
@@ -86,7 +86,7 @@ He may be keen on producing maps for Japanese vocals, yet he is currently openin
 
 ### KuroRev
 
-A veteran mapper who's been crafting maps for 5 years now, [KuroRev](https://osu.ppy.sh/users/6581584) is a virtuoso when it comes to intuitive flow, delivering natural gameplay and bestowing great satisfaction to players. Given his vast experience, it is no question that he certainly knows what he's doing in the editor.
+A veteran mapper who's been crafting maps for 5 years now, ::KuroRev::{ user-id=6581584 } is a virtuoso when it comes to intuitive flow, delivering natural gameplay and bestowing great satisfaction to players. Given his vast experience, it is no question that he certainly knows what he's doing in the editor.
 
 Recently breaching through the ranked section, he finally propels ahead with his rendition of [Asriel - Kegare Naki Yume](https://osu.ppy.sh/beatmapsets/710899) which features a simple yet captivating style with its pleasing aesthetic and coherent representation of the music. In similar fashion, his take on [sokoninaru - Tenohira de odoru](https://osu.ppy.sh/beatmapsets/1200657) presents clean-looking streams and apt spacing usage to emphasize the music accordingly.
 
@@ -118,7 +118,7 @@ Unfortunately, the sign-ups have just been closed. However, you may take a seat 
 
 ### osu!catch Mapping World Cup 2021
 
-Brought to you by the osu!catch mapping grand-master [Ascendance](https://osu.ppy.sh/users/2931883) for the third time, the [osu!catch Mapping World Cup 2021](https://osu.ppy.sh/community/forums/topics/1350409) will have the best mappers from all over the globe gather around and have an intense competition that will determine the next osu!catch Mapping Champions!
+Brought to you by the osu!catch mapping grand-master ::Ascendance::{ user-id=2931883 } for the third time, the [osu!catch Mapping World Cup 2021](https://osu.ppy.sh/community/forums/topics/1350409) will have the best mappers from all over the globe gather around and have an intense competition that will determine the next osu!catch Mapping Champions!
 
 Needless to say, such a contest is not going to be without prizes, but all the details on that matter are currently work-in-progress. To keep track of the updates and learn more about the contest, we highly suggest you to check the [forum thread](https://osu.ppy.sh/community/forums/topics/1350409), and dive right into the [o!CMWC Discord server](https://discord.gg/eTUFAjf).
 
@@ -132,7 +132,7 @@ Here's what's been going down in the community lately:
 
 Not so long ago, osu!mania got a new key-mode. After a long wait, 10K beatmaps can finally be ranked, and that's exactly what people need right now. But where does one start in mapping 10K? The same question came up on the 10K+ Rhythm Game Community server and so they gathered and created their own guide!
 
-The 10K community representative [\[Sick\]Catcat](https://osu.ppy.sh/users/11544934) has posted their [10K osu!mania Mapping Guide](https://osu.ppy.sh/community/forums/topics/1336072) in the osu!mania subforum with everything you need to know to start mapping 10K osu!mania, covering anything from various pattern structures to useful tips and tricks in Easy to Hard difficulties.
+The 10K community representative ::\[Sick\]Catcat::{ user-id=11544934 } has posted their [10K osu!mania Mapping Guide](https://osu.ppy.sh/community/forums/topics/1336072) in the osu!mania subforum with everything you need to know to start mapping 10K osu!mania, covering anything from various pattern structures to useful tips and tricks in Easy to Hard difficulties.
 
 If this has piqued your interest, slap your favourite song into the editor and start mapping — everybody knows that 10K osu!mania is in urgent need of more ranked beatmaps, after all. And should you need more help, the [10K+ Rhythm Game Community](https://discord.gg/PwzcUzk) would be more than happy to assist.
 
@@ -140,7 +140,7 @@ If this has piqued your interest, slap your favourite song into the editor and s
 
 Now, let's take a moment for ourselves and admire the wonderful (and aptly named) collaborative effort the community has put forward, because [**this is where we are, and what unites us**](https://osu.ppy.sh/beatmapsets/1483077#osu/3041896).
 
-Hosted by the talented mapper and modder [Nuvolina](https://osu.ppy.sh/users/10974170), the blind collab project features an hour-long medley composed of minute sections from various Featured Artist tracks delicately compiled by [ModlesS\_Flash](https://osu.ppy.sh/users/5113095).
+Hosted by the talented mapper and modder ::Nuvolina::{ user-id=10974170 }, the blind collab project features an hour-long medley composed of minute sections from various Featured Artist tracks delicately compiled by ::ModlesS\_Flash::{ user-id=5113095 }.
 
 And of course, such a massive project wouldn't have been left without a showcase stream! The VOD is available below for those who have missed it or wish to fall under its spell once again:
 
@@ -154,7 +154,7 @@ And that's it for this month! Good thing we didn't promise anything last time be
 
 As always, should you have any spicy details anything mapping or modding related, be it guides, podcasts or videos, please let us know! We would love to touch upon them in the next issue of Mappers' Report, and we can't do that if we don't know about them.
 
-You can either directly contact [Feerum](https://osu.ppy.sh/users/4815717) or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H). Hope to see you there soon!
+You can either directly contact ::Feerum::{ user-id=4815717 } or drop by in the `#mappers-report` channel on the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H). Hope to see you there soon!
 
 Thank you for reading, stay safe and healthy!
 

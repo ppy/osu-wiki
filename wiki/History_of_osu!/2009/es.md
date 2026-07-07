@@ -2,7 +2,7 @@
 
 ## Enero
 
-osu! llega al iPhone en forma de port desarrollado por [nuudles](https://osu.ppy.sh/users/21312). Al proyecto se le adjudicó su propio [subforo](https://osu.ppy.sh/community/forums/47), ya archivado.[^iphone]
+osu! llega al iPhone en forma de port desarrollado por ::nuudles::{ user-id=21312 }. Al proyecto se le adjudicó su propio [subforo](https://osu.ppy.sh/community/forums/47), ya archivado.[^iphone]
 
 ![](img/2009-01_01.jpg "La pantalla de título del osu! de iPhone")
 
@@ -92,7 +92,7 @@ El 6 de septiembre, todas las [puntuaciones de Taiko fueron borradas](https://os
 
 Se agregó una nueva pantalla de información sobre la clasificación que sentó las bases para el sistema de tablas de clasificación que se implementaría más adelante.[^stable-b1077][^custom-changelog]
 
-El beatmap número 10 000 fue subido, [Imogen Heap - Sweet Religion](https://osu.ppy.sh/beatmapsets/10000#osu/97517) por [Larto](https://osu.ppy.sh/users/12328).[^beatmap-10k]
+El beatmap número 10 000 fue subido, [Imogen Heap - Sweet Religion](https://osu.ppy.sh/beatmapsets/10000#osu/97517) por ::Larto::{ user-id=12328 }.[^beatmap-10k]
 
 Además de las osu! news de julio de 2009, el 25 de octubre también se publicó el [registro de cambios](/wiki/Changelog) en formato RSS.[^rss-changelog]
 

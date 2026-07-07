@@ -13,7 +13,7 @@ Les **posts de news**, ou **articles de news**, existent sur un système légèr
 
 À la manière des articles du wiki, tous les articles de news doivent au minimum présenter une orthographe et une grammaire correctes, ainsi que des informations correctes et d'actualité.
 
-Toute personne intéressée par une contribution ou l'écriture d'un article de news peut le faire dans le channel `#osu-news` du [serveur Discord d'osu!](https://discord.com/invite/ppy). Vous pouvez également contacter ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079), ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724), ou n'importe quel responsable actif du [wiki ou des news](/wiki/People/osu!_wiki_maintainers).
+Toute personne intéressée par une contribution ou l'écriture d'un article de news peut le faire dans le channel `#osu-news` du [serveur Discord d'osu!](https://discord.com/invite/ppy). Vous pouvez également contacter ::{ flag=SE }:: ::Walavouchey::{ user-id=5773079 }, ::{ flag=RS }:: ::0x84f::{ user-id=7944724 }, ou n'importe quel responsable actif du [wiki ou des news](/wiki/People/osu!_wiki_maintainers).
 
 ## Localisations
 

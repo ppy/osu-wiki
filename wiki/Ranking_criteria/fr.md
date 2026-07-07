@@ -18,7 +18,7 @@ Les modifications de toute partie des critères de classement sont proposées pa
 1. **Créez une proposition dans le [Forum Ranking Criteria](https://osu.ppy.sh/community/forums/87).** Essayez d'être aussi détaillé que possible lorsque vous expliquez votre idée et l'impact du changement.
 2. **Parvenez à un consensus.** Si vous pensez que vous en êtes là, contactez un membre de la [NAT](/wiki/People/Nomination_Assessment_Team) pour voir si votre proposition peut être mise en œuvre. Dans une certaine mesure, la NAT peut jouer le rôle d'arbitre dans les cas litigieux, mais les propositions qui ne font pas l'objet d'un consensus général ne seront probablement pas acceptées.
 3. **Créer un pull request sur le dépôt GitHub osu!wiki.** En général, c'est un membre de la NAT impliqué dans la finalisation de la discussion qui s'en charge.
-4. **Attendre l'approbation de [peppy](https://osu.ppy.sh/users/2).**
+4. **Attendre l'approbation de ::peppy::{ user-id=2 }.**
 
 Les changements qui ne modifient pas le sens ou l'intention des critères de classement, tels que les améliorations de l'orthographe, de la grammaire ou de l'organisation, peuvent ne pas nécessiter de proposition de forum. Il est toutefois recommandé de vérifier auprès de membres expérimentés de la communauté que les modifications sont utiles et bienvenues.
 

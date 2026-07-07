@@ -23,7 +23,7 @@ One tune in particular has resonated most with circle clickers: [dreamy night](h
 
 ### LilyPichu - dreamy night
 
-Play through [dreamy night](https://osu.ppy.sh/beatmapsets/1298416) hosted by [Battle](https://osu.ppy.sh/users/4037545) and showcased in the video above!
+Play through [dreamy night](https://osu.ppy.sh/beatmapsets/1298416) hosted by ::Battle::{ user-id=4037545 } and showcased in the video above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/325/dreamy%20night%2FLilyPichu%20-%20dreamy%20night.mp3" type="audio/mpeg">

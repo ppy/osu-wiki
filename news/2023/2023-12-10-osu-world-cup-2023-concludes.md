@@ -31,9 +31,9 @@ View a video recap or read the text summary for the Grand Finals below. Alternat
 
 The podium countries of the osu! World Cup 2023 had been determined. The medalists would come from Australia, South Korea and the United States, while the bronze medal goes to the Australian team after a 1–7 defeat against quite dominant Americans. Consequently, an identical bracket situation as last year occurred: South Korea needed only one match victory against the USA while the North American roster had to win the Grand Finals as well as the bracket reset to become champions.
 
-The strengths of both teams were clearly defined. The USA emphasised a strategy of mechanics and speed, whereas South Korea had stellar players for tech and aim control. The American team got the 2–0 head start with an early break point, but the Korean squad quickly recovered and started to win their HD picks and kept the scoreline close, resulting in a 3–4 deficit. A festival of four consecutive break points followed, including two impressive 1,000,000+ HR scores by ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296) and ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437). This neck-and-neck fight came to an end on [Denkishiki Karen Ongaku Shuudan - E.E.L.S.](https://osu.ppy.sh/beatmapsets/2095134#osu/4392973) as ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211)'s HD near full combo made the crucial difference. With this 7–5 victory for the US, the bracket has been reset.
+The strengths of both teams were clearly defined. The USA emphasised a strategy of mechanics and speed, whereas South Korea had stellar players for tech and aim control. The American team got the 2–0 head start with an early break point, but the Korean squad quickly recovered and started to win their HD picks and kept the scoreline close, resulting in a 3–4 deficit. A festival of four consecutive break points followed, including two impressive 1,000,000+ HR scores by ::{ flag=US }:: ::Rektygon::{ user-id=7813296 } and ::{ flag=KR }:: ::\1Karcher\1::{ user-id=11443437 }. This neck-and-neck fight came to an end on [Denkishiki Karen Ongaku Shuudan - E.E.L.S.](https://osu.ppy.sh/beatmapsets/2095134#osu/4392973) as ::{ flag=US }:: ::tekkito::{ user-id=7075211 }'s HD near full combo made the crucial difference. With this 7–5 victory for the US, the bracket has been reset.
 
-The deciding match has been full of surprises as well. It took only two maps until another streak of four break points happened. In the midst of all the chaos, ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450) set a historical score. Ironically on the HR3 map, [LV.4 - Burning Star](https://osu.ppy.sh/beatmapsets/2095154#osu/4393036), he managed to land the full combo with 99% accuracy and displayed the arguably best tournament play of all time. With this huge momentum boost, South Korea followed up with an important break point for the 5–3 lead. Nevertheless, the American team didn't give up and immediately answered with their own two points. Eventually, the match had to be decided by the tiebreaker [Release Hallucination - VANITAS](https://osu.ppy.sh/beatmapsets/2095177#osu/4393066). It was the all-star ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) who was able to reach a four-digit combo and thus provided the small, but critical gap in this incredible match.
+The deciding match has been full of surprises as well. It took only two maps until another streak of four break points happened. In the midst of all the chaos, ::{ flag=KR }:: ::worst hr player::{ user-id=14106450 } set a historical score. Ironically on the HR3 map, [LV.4 - Burning Star](https://osu.ppy.sh/beatmapsets/2095154#osu/4393036), he managed to land the full combo with 99% accuracy and displayed the arguably best tournament play of all time. With this huge momentum boost, South Korea followed up with an important break point for the 5–3 lead. Nevertheless, the American team didn't give up and immediately answered with their own two points. Eventually, the match had to be decided by the tiebreaker [Release Hallucination - VANITAS](https://osu.ppy.sh/beatmapsets/2095177#osu/4393066). It was the all-star ::{ flag=US }:: ::Vaxei::{ user-id=4787150 } who was able to reach a four-digit combo and thus provided the small, but critical gap in this incredible match.
 
 ## Highlights
 
@@ -43,7 +43,7 @@ The deciding match has been full of surprises as well. It took only two maps unt
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/83077CifykM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-... was set by ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450) during the Grand Finals of OWC 2023, and we're not just saying that ourselves! [LV.4 - Burning Star](https://osu.ppy.sh/beatmapsets/2095154#osu/4393036) mapped by [ktgster](https://osu.ppy.sh/users/53378) is an *unrelenting* cursor control stamina gauntlet requiring concentration unimaginable by anyone to not only achieve a **full combo** on, but that with **99% accuracy**.
+... was set by ::{ flag=KR }:: ::worst hr player::{ user-id=14106450 } during the Grand Finals of OWC 2023, and we're not just saying that ourselves! [LV.4 - Burning Star](https://osu.ppy.sh/beatmapsets/2095154#osu/4393036) mapped by ::ktgster::{ user-id=53378 } is an *unrelenting* cursor control stamina gauntlet requiring concentration unimaginable by anyone to not only achieve a **full combo** on, but that with **99% accuracy**.
 
 ### The hyeok squad
 
@@ -51,16 +51,16 @@ The deciding match has been full of surprises as well. It took only two maps unt
 
 —enri
 
-::{ flag=PH }:: [hyeok2044](https://osu.ppy.sh/users/8472976)'s return from military service was honoured in immaculate taste by the creation of the hyeok squad, featuring:
+::{ flag=PH }:: ::hyeok2044::{ user-id=8472976 }'s return from military service was honoured in immaculate taste by the creation of the hyeok squad, featuring:
 
-- ::{ flag=PH }:: [hyeok2043](https://osu.ppy.sh/users/4734703) (NathanRam1918)
+- ::{ flag=PH }:: ::hyeok2043::{ user-id=4734703 } (NathanRam1918)
 - ::{ flag=PH }:: hyeok2044 (the original)
-- ::{ flag=PH }:: [hyeok2045](https://osu.ppy.sh/users/8640970) (enri)
-- ::{ flag=PH }:: [hyeok2046](https://osu.ppy.sh/users/9642774) (Milkteaism)
-- ::{ flag=PH }:: [hyeok2047](https://osu.ppy.sh/users/1492995) (zonelouise)
-- ::{ flag=PH }:: [hyeok2048](https://osu.ppy.sh/users/12040280) (Xyloz)
-- ::{ flag=PH }:: [hyeok2049](https://osu.ppy.sh/users/13484596) (Impowster)
-- ::{ flag=PH }:: [hyeok2050](https://osu.ppy.sh/users/12028437) (Miggie)
+- ::{ flag=PH }:: ::hyeok2045::{ user-id=8640970 } (enri)
+- ::{ flag=PH }:: ::hyeok2046::{ user-id=9642774 } (Milkteaism)
+- ::{ flag=PH }:: ::hyeok2047::{ user-id=1492995 } (zonelouise)
+- ::{ flag=PH }:: ::hyeok2048::{ user-id=12040280 } (Xyloz)
+- ::{ flag=PH }:: ::hyeok2049::{ user-id=13484596 } (Impowster)
+- ::{ flag=PH }:: ::hyeok2050::{ user-id=12028437 } (Miggie)
 
 The tournament client always displays players' current handles, which hilariously caused some mild headaches as casters were trying their best to communicate which hyeok they're talking about to the audience in various ways, including completely and understandably giving up on it.
 
@@ -92,19 +92,19 @@ Each rendition of the osu! World Cup in the last few years has boasted exciting 
 
 [**View the VOD here!**](https://www.twitch.tv/videos/1980984349)
 
-Thought to be a break from the chaotic, high-stakes matches happening in the Semifinals, the showmatch on November 18 proved no escape, as the playtesters led by [D I O](https://osu.ppy.sh/users/3958619) and [Azer](https://osu.ppy.sh/users/2155578) stepped in for some of their most novel tournament performances of the year. Both sides won their first picks quickly but not quietly — [nanoya](https://osu.ppy.sh/users/12366071)'s 915k play on the classic HR stream map [xi - Blue Zenith](https://osu.ppy.sh/beatmapsets/292301#osu/657917) was absolutely massive, as some would say.
+Thought to be a break from the chaotic, high-stakes matches happening in the Semifinals, the showmatch on November 18 proved no escape, as the playtesters led by ::D I O::{ user-id=3958619 } and [Azer](https://osu.ppy.sh/users/2155578) stepped in for some of their most novel tournament performances of the year. Both sides won their first picks quickly but not quietly — ::nanoya::{ user-id=12366071 }'s 915k play on the classic HR stream map [xi - Blue Zenith](https://osu.ppy.sh/beatmapsets/292301#osu/657917) was absolutely massive, as some would say.
 
-After a few more back-and-forths, the teams alternated taking break points starting with an impressive 727k S-rank score from [Nopekjk](https://osu.ppy.sh/users/4585186) on alt-tech [FM2](https://osu.ppy.sh/beatmapsets/2088310#osu/4376248). [Saryi](https://osu.ppy.sh/users/10051720)'s MVP precision performance on [Toru Kawai - The Magician's Dream](https://osu.ppy.sh/beatmapsets/2088436#osu/4376547) secured the final blow as a 6–4 for SHIP IT.
+After a few more back-and-forths, the teams alternated taking break points starting with an impressive 727k S-rank score from ::Nopekjk::{ user-id=4585186 } on alt-tech [FM2](https://osu.ppy.sh/beatmapsets/2088310#osu/4376248). ::Saryi::{ user-id=10051720 }'s MVP precision performance on [Toru Kawai - The Magician's Dream](https://osu.ppy.sh/beatmapsets/2088436#osu/4376547) secured the final blow as a 6–4 for SHIP IT.
 
 ### All Stars Red vs. All Stars Blue (Finals)
 
 [**View the VOD here!**](https://www.twitch.tv/videos/1987883013)
 
-Emerging from the bloodbath of the Finals stage a week later was a showmatch with teams consisting of fallen players from previous weeks. The momentum created by [Mastasz](https://osu.ppy.sh/users/1876565)' 1-miss score on awkward DT pick [Susumu Hirasawa - SWITCHED-ON LOTUS](https://osu.ppy.sh/beatmapsets/16457#osu/58970) brought the blue team to a speedy 5–0 in their favour, though not without struggle. Just one more combo break from [kiirochii](https://osu.ppy.sh/users/6387149) on [NM4](https://osu.ppy.sh/beatmapsets/2091780#osu/4384637) or more scattered misses on [HR2](https://osu.ppy.sh/beatmapsets/2091798#osu/4384680) could have swung the scoreline in the other direction.
+Emerging from the bloodbath of the Finals stage a week later was a showmatch with teams consisting of fallen players from previous weeks. The momentum created by ::Mastasz::{ user-id=1876565 }' 1-miss score on awkward DT pick [Susumu Hirasawa - SWITCHED-ON LOTUS](https://osu.ppy.sh/beatmapsets/16457#osu/58970) brought the blue team to a speedy 5–0 in their favour, though not without struggle. Just one more combo break from ::kiirochii::{ user-id=6387149 } on [NM4](https://osu.ppy.sh/beatmapsets/2091780#osu/4384637) or more scattered misses on [HR2](https://osu.ppy.sh/beatmapsets/2091798#osu/4384680) could have swung the scoreline in the other direction.
 
-With nothing but bragging rights at stake, All Stars Blue picked into [xi - FREEDOM DiVE](https://osu.ppy.sh/beatmapsets/39804)... and let's just say [Ekoro](https://osu.ppy.sh/users/284905) took advantage of the fact that EZ and FL were allowed by the referee on Free Mod.
+With nothing but bragging rights at stake, All Stars Blue picked into [xi - FREEDOM DiVE](https://osu.ppy.sh/beatmapsets/39804)... and let's just say ::Ekoro::{ user-id=284905 } took advantage of the fact that EZ and FL were allowed by the referee on Free Mod.
 
-And his team looked unstoppable, having gained 6 points in a row with team red having nil to say about it. Two thirds of the way through [Rohi - Gllensista](https://osu.ppy.sh/beatmapsets/2091797#osu/4384679) however, team blue was holding a 200k point lead and looked to secure the sweep — but in the blink of an eye, the whole lobby except [scylla](https://osu.ppy.sh/users/9405745) collapsed. All Stars Red managed to keep the match alive a little longer before [Chicony](https://osu.ppy.sh/users/5199332) and [Kingling](https://osu.ppy.sh/users/7010761) carried team blue across the finish line on [FELT - Puppet in the Dark](https://osu.ppy.sh/beatmapsets/326636#osu/725198), ending in a 7–3.
+And his team looked unstoppable, having gained 6 points in a row with team red having nil to say about it. Two thirds of the way through [Rohi - Gllensista](https://osu.ppy.sh/beatmapsets/2091797#osu/4384679) however, team blue was holding a 200k point lead and looked to secure the sweep — but in the blink of an eye, the whole lobby except ::scylla::{ user-id=9405745 } collapsed. All Stars Red managed to keep the match alive a little longer before ::Chicony::{ user-id=5199332 } and [Kingling](https://osu.ppy.sh/users/7010761) carried team blue across the finish line on [FELT - Puppet in the Dark](https://osu.ppy.sh/beatmapsets/326636#osu/725198), ending in a 7–3.
 
 ---
 
@@ -304,9 +304,9 @@ To get a slightly better understanding for how things went from the perspective 
 
 ::{#kama}::
 
-[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Kama-banner.png)](https://osu.ppy.sh/users/13380270)
+::!\1\1(/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Kama-banner.png)::{ user-id=13380270 }
 
-**Kama** (a.k.a. cheetoblast) was one of the new players of the winning team this year along with [WindowLife](https://osu.ppy.sh/users/4108547) and [wudci](https://osu.ppy.sh/users/2590257). While their portfolio of tournament podium positions are fewer in number compared to the World Cup veterans of the team, their performance was by no means insignificant.
+**Kama** (a.k.a. cheetoblast) was one of the new players of the winning team this year along with ::WindowLife::{ user-id=4108547 } and [wudci](https://osu.ppy.sh/users/2590257). While their portfolio of tournament podium positions are fewer in number compared to the World Cup veterans of the team, their performance was by no means insignificant.
 
 ---
 
@@ -326,7 +326,7 @@ To get a slightly better understanding for how things went from the perspective 
 
 ::{#doomsday}::
 
-[![](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Doomsday-banner.png)](https://osu.ppy.sh/users/18983)
+::!\1\1(/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/Doomsday-banner.png)::{ user-id=18983 }
 
 **Doomsday** has been ever present since the dawn of the game's lifetime, providing commentary in numerous world cups (including 8 matches in this one), hosting the Corgi Cup tournament series as well as [creating music](https://osu.ppy.sh/beatmapsets?q=artist%3D%22Doomsday%22&s=any) as of recent, just to name a few things about this frankly awesome dude.
 
@@ -397,9 +397,9 @@ As you can tell by glancing below, he had a whole lot to say, but we unfortunate
 
 ## Statistics
 
-It wouldn't be a World Cup without some new records, world firsts and interesting stats overall. [shdewz](https://osu.ppy.sh/users/10000899), one of our World Cup statisticians, has compiled stats for every single stage of this year's cup and put them all into fancy spreadsheets of their design (and yes there is such a thing as spreadsheet design). While you can check out the full spreadsheets with [general information](https://docs.google.com/spreadsheets/d/1kzHae-PAHE7_PLy5L3Nhu97lslRLJoc5T6u-GEW1x6E/pubhtml) and [individual stage stats](https://drive.google.com/drive/folders/1zsYCBrFdX1KU2YaCVBBSVrtoJp39306U), here is an excerpt of some of the more interesting tidbits:
+It wouldn't be a World Cup without some new records, world firsts and interesting stats overall. ::shdewz::{ user-id=10000899 }, one of our World Cup statisticians, has compiled stats for every single stage of this year's cup and put them all into fancy spreadsheets of their design (and yes there is such a thing as spreadsheet design). While you can check out the full spreadsheets with [general information](https://docs.google.com/spreadsheets/d/1kzHae-PAHE7_PLy5L3Nhu97lslRLJoc5T6u-GEW1x6E/pubhtml) and [individual stage stats](https://drive.google.com/drive/folders/1zsYCBrFdX1KU2YaCVBBSVrtoJp39306U), here is an excerpt of some of the more interesting tidbits:
 
-- The OWC pp record was shattered three different times, first with [maliszewski](https://osu.ppy.sh/users/12408961)'s HDHR FC on [FM3](https://osu.ppy.sh/beatmapsets/1964101#osu/4319264) during the [Round of 16 match vs. Brazil](https://osu.ppy.sh/community/matches/111188366) with 717 pp, then [worst hr player](https://osu.ppy.sh/users/14106450)'s [HR3](https://osu.ppy.sh/beatmapsets/292301#osu/658127) FC during the [Semifinals match vs. the Philippines](https://osu.ppy.sh/community/matches/111366414) worth 754 pp, and finally the new OWC performance point record is now being held by [Rektygon](https://osu.ppy.sh/users/7813296) with their [DT2](https://osu.ppy.sh/beatmapsets/2091805#osu/4384687) FC during the [Finals match vs. Germany](https://osu.ppy.sh/community/matches/111466879) worth 763 pp.
+- The OWC pp record was shattered three different times, first with ::maliszewski::{ user-id=12408961 }'s HDHR FC on [FM3](https://osu.ppy.sh/beatmapsets/1964101#osu/4319264) during the [Round of 16 match vs. Brazil](https://osu.ppy.sh/community/matches/111188366) with 717 pp, then ::worst hr player::{ user-id=14106450 }'s [HR3](https://osu.ppy.sh/beatmapsets/292301#osu/658127) FC during the [Semifinals match vs. the Philippines](https://osu.ppy.sh/community/matches/111366414) worth 754 pp, and finally the new OWC performance point record is now being held by ::Rektygon::{ user-id=7813296 } with their [DT2](https://osu.ppy.sh/beatmapsets/2091805#osu/4384687) FC during the [Finals match vs. Germany](https://osu.ppy.sh/community/matches/111466879) worth 763 pp.
 - The biggest upset of the tournament (according to [hallowatcher's pick'ems results](/wiki/shared/news/2023-12-10-osu-world-cup-2023-concludes/pickem.png)) was the [Australia vs. Poland match](https://osu.ppy.sh/community/matches/111271525) that took place in Quarterfinals. With 1340 votes, only 5.8% of voters guessed that Australia would win the match.
 - Kazakhstan successfully qualified for the first time ever, and even though they got kicked out by Japan during the Round of 16, they had an impressive showing.
 - There were 6 countries that participated in the osu! World Cup for the first time ever: India, Mongolia, Panama, Saudi Arabia, South Africa and the United Arab Emirates.

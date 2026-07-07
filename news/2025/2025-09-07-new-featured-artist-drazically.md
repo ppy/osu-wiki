@@ -17,9 +17,9 @@ Music doesn't need words to explain it. Use your ears:
 
 ### [Drazically - Reality:SHIFT](https://assets.ppy.sh/artists/496/Songs/Drazically%20-%20RealitySHIFT%20(feat.%20Hatsune%20Miku).osz)
 
-A special build of osu!(lazer) found its way into [COE 2025](/wiki/Community/cavoe's_osu!_event)'s arcade area. [arbiter of soup](https://osu.ppy.sh/users/12232503) and [Chupalika](https://osu.ppy.sh/users/1926383) showed it off with [-Kazuha](https://osu.ppy.sh/users/29978316)'s map of [Reality:SHIFT](https://osu.ppy.sh/beatmapsets/2335282)!
+A special build of osu!(lazer) found its way into [COE 2025](/wiki/Community/cavoe's_osu!_event)'s arcade area. ::arbiter of soup::{ user-id=12232503 } and [Chupalika](https://osu.ppy.sh/users/1926383) showed it off with ::-Kazuha::{ user-id=29978316 }'s map of [Reality:SHIFT](https://osu.ppy.sh/beatmapsets/2335282)!
 
-...Maybe next year we'll see osu!catch in the arcade so [this map](https://osu.ppy.sh/beatmapsets/2362316) by [-Rustyy](https://osu.ppy.sh/users/16355636) can have its time in the limelight.
+...Maybe next year we'll see osu!catch in the arcade so [this map](https://osu.ppy.sh/beatmapsets/2362316) by ::-Rustyy::{ user-id=16355636 } can have its time in the limelight.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -29,7 +29,7 @@ A special build of osu!(lazer) found its way into [COE 2025](/wiki/Community/cav
 
 ### [Drazically - ReiNcarnation](https://assets.ppy.sh/artists/496/Songs/Drazically%20-%20ReiNcarnation.osz)
 
-If you're looking for an [osu!catch marathon](https://osu.ppy.sh/beatmapsets/2334915), [Bunnrei](https://osu.ppy.sh/users/829284) has you covered.
+If you're looking for an [osu!catch marathon](https://osu.ppy.sh/beatmapsets/2334915), ::Bunnrei::{ user-id=829284 } has you covered.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/496/Songs/Drazically%20-%20ReiNcarnation.mp3">

@@ -19,7 +19,7 @@ Check it out below:
 
 ### Txxs or get the fxxk out!!
 
-Check out [this highly popular set featured in osu! World Cup 2018](https://osu.ppy.sh/beatmapsets/455022) hosted by [Regou](https://osu.ppy.sh/users/419954)!
+Check out [this highly popular set featured in osu! World Cup 2018](https://osu.ppy.sh/beatmapsets/455022) hosted by ::Regou::{ user-id=419954 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/108/previews/2837.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this highly popular set featured in osu! World Cup 2018](https://osu.
 
 ### PUPA
 
-Check out [this highly popular osu! and osu!taiko hybrid set](https://osu.ppy.sh/beatmapsets/224164) hosted by [Cherry Blossom](https://osu.ppy.sh/users/1156742), and [this osu!taiko set](https://osu.ppy.sh/beatmapsets/235506) hosted by [TKS](https://osu.ppy.sh/users/940878) and [this popular osu!mania set](https://osu.ppy.sh/beatmapsets/366126) hosted by [Valentrixe](https://osu.ppy.sh/users/2794620)!
+Check out [this highly popular osu! and osu!taiko hybrid set](https://osu.ppy.sh/beatmapsets/224164) hosted by ::Cherry Blossom::{ user-id=1156742 }, and [this osu!taiko set](https://osu.ppy.sh/beatmapsets/235506) hosted by ::TKS::{ user-id=940878 } and [this popular osu!mania set](https://osu.ppy.sh/beatmapsets/366126) hosted by ::Valentrixe::{ user-id=2794620 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/108/previews/2826.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this highly popular osu! and osu!taiko hybrid set](https://osu.ppy.sh
 
 ### Paradigm Shift
 
-Check out [this hybrid osu!taiko and osu!mania set](https://osu.ppy.sh/beatmapsets/765055) hosted by [eiri-](https://osu.ppy.sh/users/3388410)!
+Check out [this hybrid osu!taiko and osu!mania set](https://osu.ppy.sh/beatmapsets/765055) hosted by ::eiri-::{ user-id=3388410 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/108/previews/2828.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Check out [this hybrid osu!taiko and osu!mania set](https://osu.ppy.sh/beatmapse
 
 ### MilK
 
-Check out [this set](https://osu.ppy.sh/beatmapsets/848309) hosted by [Cheri](https://osu.ppy.sh/users/5226970), and [this osu!taiko set](https://osu.ppy.sh/beatmapsets/592095) by [incandescence](https://osu.ppy.sh/users/6256027)!
+Check out [this set](https://osu.ppy.sh/beatmapsets/848309) hosted by ::Cheri::{ user-id=5226970 }, and [this osu!taiko set](https://osu.ppy.sh/beatmapsets/592095) by ::incandescence::{ user-id=6256027 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/108/previews/2825.mp3" type="audio/mpeg">
@@ -51,7 +51,7 @@ Check out [this set](https://osu.ppy.sh/beatmapsets/848309) hosted by [Cheri](ht
 
 ### uma vs. Morimori Atsushi - Re:End of a Dream
 
-Check out [this popular osu! set](https://osu.ppy.sh/beatmapsets/557039) hosted by [Battle](https://osu.ppy.sh/users/4037545), and [this osu!mania set](https://osu.ppy.sh/beatmapsets/531425) hosted by [Critical_Star](https://osu.ppy.sh/users/3793196)!
+Check out [this popular osu! set](https://osu.ppy.sh/beatmapsets/557039) hosted by ::Battle::{ user-id=4037545 }, and [this osu!mania set](https://osu.ppy.sh/beatmapsets/531425) hosted by ::Critical\1Star::{ user-id=3793196 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/108/previews/2848.mp3" type="audio/mpeg">

@@ -15,7 +15,7 @@ His sound covers a taste of everything electronic, from trance and hardcore to d
 
 To truly demonstrate what **BlackY** has to offer, we've picked up **100 tracks** for their [featured artist listing](https://osu.ppy.sh/beatmaps/artists/150)!
 
-If you're unsure of exactly how much mapping potential this music provides, watch how world cup champion [im a fancy lad](https://osu.ppy.sh/users/4908650) plays through a variable-circle-size beatmap of [*BlackY - Double Pendulum*](https://osu.ppy.sh/beatmapsets/695053#osu/1472242) hosted by [rrtyui](https://osu.ppy.sh/users/352328), or listen to these other song previews:
+If you're unsure of exactly how much mapping potential this music provides, watch how world cup champion ::im a fancy lad::{ user-id=4908650 } plays through a variable-circle-size beatmap of [*BlackY - Double Pendulum*](https://osu.ppy.sh/beatmapsets/695053#osu/1472242) hosted by ::rrtyui::{ user-id=352328 }, or listen to these other song previews:
 
 <div align="center">
     <video width="95%" controls>
@@ -25,7 +25,7 @@ If you're unsure of exactly how much mapping potential this music provides, watc
 
 ### Sthenno
 
-Check out [this osu! set](https://osu.ppy.sh/beatmapsets/991780) hosted by [Rtyzen](https://osu.ppy.sh/users/2439822)!
+Check out [this osu! set](https://osu.ppy.sh/beatmapsets/991780) hosted by ::Rtyzen::{ user-id=2439822 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/150/GABRiELLA/BlackY%20-%20Sthenno.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out [this osu! set](https://osu.ppy.sh/beatmapsets/991780) hosted by [Rtyz
 
 ### Creutz=Wilknare
 
-Try out [this osu!mania set](https://osu.ppy.sh/beatmapsets/285730) hosted by [Sandolphon](https://osu.ppy.sh/users/2633753)!
+Try out [this osu!mania set](https://osu.ppy.sh/beatmapsets/285730) hosted by ::Sandolphon::{ user-id=2633753 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/150/Maxxxburning!!!!/BlackY%20-%20Creutz=Wilknare.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Try out [this osu!mania set](https://osu.ppy.sh/beatmapsets/285730) hosted by [S
 
 ### Depravity CLiMAXXX
 
-Play through [this loved osu!mania set](https://osu.ppy.sh/beatmapsets/411717) hosted by [Valedict](https://osu.ppy.sh/users/2537082).
+Play through [this loved osu!mania set](https://osu.ppy.sh/beatmapsets/411717) hosted by ::Valedict::{ user-id=2537082 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/150/Blazeful%20Cracky/BlackY%20-%20Depravity%20CLIMAXXX.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Play through [this loved osu!mania set](https://osu.ppy.sh/beatmapsets/411717) h
 
 ### Nobodyknows Eden
 
-Give [this osu!taiko set](https://osu.ppy.sh/beatmapsets/768440) hosted by [namaniku](https://osu.ppy.sh/users/2680544) an attempt!
+Give [this osu!taiko set](https://osu.ppy.sh/beatmapsets/768440) hosted by ::namaniku::{ user-id=2680544 } an attempt!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/150/AsterhYthm%202%20-Another%20Lights-/BlackY%20-%20Nobodyknows%20Eden.mp3" type="audio/mpeg">
@@ -57,7 +57,7 @@ Give [this osu!taiko set](https://osu.ppy.sh/beatmapsets/768440) hosted by [nama
 
 ### Babylon
 
-And maybe play [this recently ranked osu!mania set](https://osu.ppy.sh/beatmapsets/634232) hosted by [Madoka2574](https://osu.ppy.sh/users/8819336).
+And maybe play [this recently ranked osu!mania set](https://osu.ppy.sh/beatmapsets/634232) hosted by ::Madoka2574::{ user-id=8819336 }.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/150/BlackmaniYa/BlackY%20-%20Babylon.mp3" type="audio/mpeg">
@@ -65,7 +65,7 @@ And maybe play [this recently ranked osu!mania set](https://osu.ppy.sh/beatmapse
 
 ### Yooh remixed by BlackY - salvation -from:BLACK-
 
-Or try this [single difficulty osu!taiko set](https://osu.ppy.sh/beatmapsets/1076605) hosted by [iloveyou4ever](https://osu.ppy.sh/users/4964596)!
+Or try this [single difficulty osu!taiko set](https://osu.ppy.sh/beatmapsets/1076605) hosted by ::iloveyou4ever::{ user-id=4964596 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/150/Songs/Yooh%20Remixed%20by%20BlackY%20-%20salvation%20-fromBLACK-.mp3" type="audio/mpeg">

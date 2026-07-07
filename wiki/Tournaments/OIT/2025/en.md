@@ -8,7 +8,7 @@ tags:
 
 ![osu! Indonesia Tournament #15 (2025) ft. Stella banner](img/banner.png)
 
-The **osu! Indonesia Tournament #15 (2025) ft. Stella** (OIT 2025) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548). The tournament was open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It was the fifteenth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #15 (2025) ft. Stella** (OIT 2025) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: ::rethinkrubiks::{ user-id=17996877 } and ::{ flag=ID }:: ::Almond Eye::{ user-id=3484548 }. The tournament was open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It was the fifteenth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **osu! Indonesia Tournament #15 (2025) ft. Stella** (OIT 2025) was a double-
 
 ## Prizes
 
-The osu! Indonesia Tournament #15 (2025) ft. Stella offered an initial prize pool of 1,750,000 IDR as generously donated by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737). This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
+The osu! Indonesia Tournament #15 (2025) ft. Stella offered an initial prize pool of 1,750,000 IDR as generously donated by ::{ flag=ID }:: ::rethinkrubiks::{ user-id=17996877 } and ::{ flag=ID }:: ::macabea::{ user-id=8688737 }. This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -42,19 +42,19 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella was run by various osu! comm
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548) |
-| Admin | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [Verxina](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Shiiori](https://osu.ppy.sh/users/13799103) |
-| Mappool selector | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988) |
-| Custom mapper | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [jiwoas](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [Nakazawa](https://osu.ppy.sh/users/6220419), ::{ flag=ID }:: [Yamanin Zephyr](https://osu.ppy.sh/users/9148291), ::{ flag=ID }:: [SayuMana](https://osu.ppy.sh/users/12602650), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=ID }:: [ecclesia](https://osu.ppy.sh/users/3545579), ::{ flag=ID }:: [lushifer](https://osu.ppy.sh/users/13356408), ::{ flag=ID }:: [Pukoo](https://osu.ppy.sh/users/11239237), ::{ flag=ID }:: [Shinjuko](https://osu.ppy.sh/users/10558466), ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) |
-| Custom map quality assurance | ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) |
-| Playtester | ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [sho](https://osu.ppy.sh/users/6625422), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
-| Streamer | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Xentaaa](https://osu.ppy.sh/users/16998672), ::{ flag=ID }:: [\[ZencroX\]](https://osu.ppy.sh/users/12839268), ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594) |
-| Commentator | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [Raddie](https://osu.ppy.sh/users/27491379), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [WoodenPickaxe](https://osu.ppy.sh/users/14463105), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
-| Referee | ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299), ::{ flag=ID }:: [lortAro](https://osu.ppy.sh/users/28854272), ::{ flag=ID }:: [-\[ Shinraa \]-](https://osu.ppy.sh/users/26942053), ::{ flag=SG }:: [Fuwub](https://osu.ppy.sh/users/14238097) |
-| Graphic designer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Host | ::{ flag=ID }:: ::rethinkrubiks::{ user-id=17996877 }, ::{ flag=ID }:: ::Almond Eye::{ user-id=3484548 } |
+| Admin | ::{ flag=ID }:: ::Raids::{ user-id=15640966 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::laks::{ user-id=9519657 }, ::{ flag=ID }:: ::Verxina::{ user-id=11421465 }, ::{ flag=ID }:: ::Shiiori::{ user-id=13799103 } |
+| Mappool selector | ::{ flag=ID }:: ::rethinkrubiks::{ user-id=17996877 }, ::{ flag=ID }:: ::Almond Eye::{ user-id=3484548 }, ::{ flag=ID }:: ::Kuro Fuyusaki::{ user-id=2667496 }, ::{ flag=ID }:: ::FAW::{ user-id=11070577 }, ::{ flag=ID }:: ::Mashima Himeko::{ user-id=10474988 } |
+| Custom mapper | ::{ flag=ID }:: ::Raids::{ user-id=15640966 }, ::{ flag=ID }:: ::FAW::{ user-id=11070577 }, ::{ flag=ID }:: ::jiwoas::{ user-id=10778215 }, ::{ flag=ID }:: ::Nakazawa::{ user-id=6220419 }, ::{ flag=ID }:: ::Yamanin Zephyr::{ user-id=9148291 }, ::{ flag=ID }:: ::SayuMana::{ user-id=12602650 }, ::{ flag=ID }:: ::ArXe::{ user-id=14013313 }, ::{ flag=ID }:: ::ecclesia::{ user-id=3545579 }, ::{ flag=ID }:: ::lushifer::{ user-id=13356408 }, ::{ flag=ID }:: ::Pukoo::{ user-id=11239237 }, ::{ flag=ID }:: ::Shinjuko::{ user-id=10558466 }, ::{ flag=ID }:: ::fnayR::{ user-id=2800253 } |
+| Custom map quality assurance | ::{ flag=ID }:: ::SupaV::{ user-id=19511007 } |
+| Playtester | ::{ flag=ID }:: ::laks::{ user-id=9519657 }, ::{ flag=ID }:: ::sho::{ user-id=6625422 }, ::{ flag=ID }:: ::Crezz::{ user-id=7108275 } |
+| Streamer | ::{ flag=ID }:: ::rethinkrubiks::{ user-id=17996877 }, ::{ flag=ID }:: ::Almond Eye::{ user-id=3484548 }, ::{ flag=ID }:: ::Raids::{ user-id=15640966 }, ::{ flag=ID }:: ::Victim\_Crasher::{ user-id=2084869 }, ::{ flag=ID }:: ::Xentaaa::{ user-id=16998672 }, ::{ flag=ID }:: ::\[ZencroX\]::{ user-id=12839268 }, ::{ flag=MY }:: ::Sagisawa Arisu::{ user-id=9364594 } |
+| Commentator | ::{ flag=ID }:: ::rethinkrubiks::{ user-id=17996877 }, ::{ flag=ID }:: ::Almond Eye::{ user-id=3484548 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 }, ::{ flag=ID }:: ::Victim\_Crasher::{ user-id=2084869 }, ::{ flag=ID }:: ::Artaa27::{ user-id=12085864 }, ::{ flag=ID }:: ::Raddie::{ user-id=27491379 }, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::Seox::{ user-id=3793938 }, ::{ flag=ID }:: ::WoodenPickaxe::{ user-id=14463105 }, ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } |
+| Referee | ::{ flag=ID }:: ::Artaa27::{ user-id=12085864 }, ::{ flag=ID }:: ::NoVaLian::{ user-id=6459827 }, ::{ flag=ID }:: ::-TwiHD::{ user-id=5470299 }, ::{ flag=ID }:: ::lortAro::{ user-id=28854272 }, ::{ flag=ID }:: ::-\[ Shinraa \]-::{ user-id=26942053 }, ::{ flag=SG }:: ::Fuwub::{ user-id=14238097 } |
+| Graphic designer | ::{ flag=ID }:: ::Victim\_Crasher::{ user-id=2084869 }, ::{ flag=ID }:: ::Zavier::{ user-id=11379592 }, ::{ flag=ID }:: ::Felter::{ user-id=5865319 }, ::{ flag=ID }:: ::Vvn::{ user-id=3204677 }, ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
 | Character illustrator | ::{ flag=ID }:: Reza F. [(↗)](https://web.facebook.com/rrezalfa), ::{ flag=ID }:: Ichigo Warano [(↗)](https://web.facebook.com/felicia.kennytirta/) |
-| Spreadsheet manager | ::{ flag=ID }:: [Verxina](https://osu.ppy.sh/users/11421465) |
-| Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Spreadsheet manager | ::{ flag=ID }:: ::Verxina::{ user-id=11421465 } |
+| Wiki editor | ::{ flag=ID }:: ::Niva::{ user-id=197805 } |
 
 ## Links
 
@@ -72,22 +72,22 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 | Seed no. | Player | Z-sum |
 | :-- | :-- | :-- |
-| 1 | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | 11.32 |
-| 2 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | 11.23 |
-| 3 | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) | 10.92 |
-| 4 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 10.70 |
-| 5 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 10.62 |
-| 6 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 10.36 |
-| 7 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 10.27 |
-| 8 | ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) | 9.67 |
-| 9 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | 9.03 |
-| 10 | ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737) | 8.91 |
-| 11 | ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223) | 8.73 |
-| 12 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | 8.59 |
-| 13 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | 8.40 |
-| 14 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | 8.27 |
-| 15 | ::{ flag=ID }:: [Oguri Cap](https://osu.ppy.sh/users/11025519) | 8.19 |
-| 16 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 8.16 |
+| 1 | ::{ flag=ID }:: ::MineFrostID::{ user-id=12159899 } | 11.32 |
+| 2 | ::{ flag=ID }:: ::Hakui Koyori::{ user-id=10717635 } | 11.23 |
+| 3 | ::{ flag=ID }:: ::GNX::{ user-id=10069909 } | 10.92 |
+| 4 | ::{ flag=ID }:: ::lifeline::{ user-id=11367222 } | 10.70 |
+| 5 | ::{ flag=ID }:: ::Fuma::{ user-id=1501956 } | 10.62 |
+| 6 | ::{ flag=ID }:: ::MejiroMcQueen::{ user-id=11320627 } | 10.36 |
+| 7 | ::{ flag=ID }:: ::Thatnoobguy::{ user-id=11091594 } | 10.27 |
+| 8 | ::{ flag=ID }:: ::Stixe::{ user-id=18351160 } | 9.67 |
+| 9 | ::{ flag=ID }:: ::Rosemi Lovelock::{ user-id=1987591 } | 9.03 |
+| 10 | ::{ flag=ID }:: ::macabea::{ user-id=8688737 } | 8.91 |
+| 11 | ::{ flag=ID }:: ::VtuberVoiceASMR::{ user-id=8780223 } | 8.73 |
+| 12 | ::{ flag=ID }:: ::Skydiver::{ user-id=4750008 } | 8.59 |
+| 13 | ::{ flag=ID }:: ::Azasapag::{ user-id=18347666 } | 8.40 |
+| 14 | ::{ flag=ID }:: ::Caruma::{ user-id=13187450 } | 8.27 |
+| 15 | ::{ flag=ID }:: ::Oguri Cap::{ user-id=11025519 } | 8.19 |
+| 16 | ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } | 8.16 |
 
 ## Podium
 
@@ -95,9 +95,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: ::lifeline::{ user-id=11367222 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: ::MineFrostID::{ user-id=12159899 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: ::Hakui Koyori::{ user-id=10717635 } |
 
 ## Mappools
 
@@ -272,13 +272,13 @@ Saturday, 14 February 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 4 | **7** | ::{ flag=ID }:: **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/120523414) |
+| Lower | ::Hakui Koyori::{ user-id=10717635 } ::{ flag=ID }:: | 4 | **7** | ::{ flag=ID }:: **::MineFrostID::{ user-id=12159899 }** | [#1](https://osu.ppy.sh/community/matches/120523414) |
 
 Sunday, 15 February 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **7** | 3 | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | [#1](https://osu.ppy.sh/community/matches/120532089) |
+| Grand Final | **::lifeline::{ user-id=11367222 }** ::{ flag=ID }:: | **7** | 3 | ::{ flag=ID }:: ::MineFrostID::{ user-id=12159899 } | [#1](https://osu.ppy.sh/community/matches/120532089) |
 
 ### Finals (week 1)
 
@@ -286,20 +286,20 @@ Saturday, 31 January 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | [#1](https://osu.ppy.sh/community/matches/120425197) |
-| Lower | **[GNX](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **7** | 3 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/120426479) |
+| Lower | **::MineFrostID::{ user-id=12159899 }** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: ::Thatnoobguy::{ user-id=11091594 } | [#1](https://osu.ppy.sh/community/matches/120425197) |
+| Lower | **::GNX::{ user-id=10069909 }** ::{ flag=ID }:: | **7** | 3 | ::{ flag=ID }:: ::Skydiver::{ user-id=4750008 } | [#1](https://osu.ppy.sh/community/matches/120426479) |
 
 Sunday, 1 February 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/120433776) |
+| Upper | **::lifeline::{ user-id=11367222 }** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: ::Hakui Koyori::{ user-id=10717635 } | [#1](https://osu.ppy.sh/community/matches/120433776) |
 
 Monday, 2 February 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/120441478) |
+| Upper | **::MineFrostID::{ user-id=12159899 }** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: ::GNX::{ user-id=10069909 } | [#1](https://osu.ppy.sh/community/matches/120441478) |
 
 ### Semifinals
 
@@ -307,24 +307,24 @@ Friday, 23 January 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/120369603) |
+| Lower | **::Thatnoobguy::{ user-id=11091594 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::Fuma::{ user-id=1501956 } | [#1](https://osu.ppy.sh/community/matches/120369603) |
 
 Saturday, 24 January 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[VtuberVoiceASMR](https://osu.ppy.sh/users/8780223)** | [#1](https://osu.ppy.sh/community/matches/120376665) |
-| Lower | **[MejiroMcQueen](https://osu.ppy.sh/users/11320627)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/120376206) |
-| Lower | **[Skydiver](https://osu.ppy.sh/users/4750008)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Oguri Cap](https://osu.ppy.sh/users/11025519) | [#1](https://osu.ppy.sh/community/matches/120377225) |
+| Lower | ::Rosemi Lovelock::{ user-id=1987591 } ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **::VtuberVoiceASMR::{ user-id=8780223 }** | [#1](https://osu.ppy.sh/community/matches/120376665) |
+| Lower | **::MejiroMcQueen::{ user-id=11320627 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } | [#1](https://osu.ppy.sh/community/matches/120376206) |
+| Lower | **::Skydiver::{ user-id=4750008 }** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: ::Oguri Cap::{ user-id=11025519 } | [#1](https://osu.ppy.sh/community/matches/120377225) |
 
 Sunday, 25 January 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/120384930) |
-| Lower | [MejiroMcQueen](https://osu.ppy.sh/users/11320627) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** | [#1](https://osu.ppy.sh/community/matches/120385390) |
-| Lower | **[Skydiver](https://osu.ppy.sh/users/4750008)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223) | [#1](https://osu.ppy.sh/community/matches/120385103) |
-| Upper | [MineFrostID](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/120385053) |
+| Upper | **::Hakui Koyori::{ user-id=10717635 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::GNX::{ user-id=10069909 } | [#1](https://osu.ppy.sh/community/matches/120384930) |
+| Lower | ::MejiroMcQueen::{ user-id=11320627 } ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **::Thatnoobguy::{ user-id=11091594 }** | [#1](https://osu.ppy.sh/community/matches/120385390) |
+| Lower | **::Skydiver::{ user-id=4750008 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::VtuberVoiceASMR::{ user-id=8780223 } | [#1](https://osu.ppy.sh/community/matches/120385103) |
+| Upper | ::MineFrostID::{ user-id=12159899 } ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **::lifeline::{ user-id=11367222 }** | [#1](https://osu.ppy.sh/community/matches/120385053) |
 
 ### Quarterfinals
 
@@ -332,29 +332,29 @@ Friday, 16 January 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/120319285) |
+| Upper | **::lifeline::{ user-id=11367222 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::Skydiver::{ user-id=4750008 } | [#1](https://osu.ppy.sh/community/matches/120319285) |
 
 Saturday, 17 January 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Azasapag](https://osu.ppy.sh/users/18347666) ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/120329594) |
+| Lower | ::Azasapag::{ user-id=18347666 } ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **::Fuma::{ user-id=1501956 }** | [#1](https://osu.ppy.sh/community/matches/120329594) |
 
 Sunday, 18 January 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Caruma](https://osu.ppy.sh/users/13187450) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[VtuberVoiceASMR](https://osu.ppy.sh/users/8780223)** | [#1](https://osu.ppy.sh/community/matches/120336147) |
-| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/120337119) |
-| Lower | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) | [#1](https://osu.ppy.sh/community/matches/120336088) |
-| Lower | **[Oguri Cap](https://osu.ppy.sh/users/11025519)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737) | *win by default* |
+| Lower | ::Caruma::{ user-id=13187450 } ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **::VtuberVoiceASMR::{ user-id=8780223 }** | [#1](https://osu.ppy.sh/community/matches/120336147) |
+| Upper | **::MineFrostID::{ user-id=12159899 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: ::Rosemi Lovelock::{ user-id=1987591 } | [#1](https://osu.ppy.sh/community/matches/120337119) |
+| Lower | **::BlankTap::{ user-id=10137131 }** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: ::Stixe::{ user-id=18351160 } | [#1](https://osu.ppy.sh/community/matches/120336088) |
+| Lower | **::Oguri Cap::{ user-id=11025519 }** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: ::macabea::{ user-id=8688737 } | *win by default* |
 
 Monday, 19 January 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | [#1](https://osu.ppy.sh/community/matches/120344246) |
-| Upper | **[GNX](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | [#1](https://osu.ppy.sh/community/matches/120343896) |
+| Upper | **::Hakui Koyori::{ user-id=10717635 }** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: ::Thatnoobguy::{ user-id=11091594 } | [#1](https://osu.ppy.sh/community/matches/120344246) |
+| Upper | **::GNX::{ user-id=10069909 }** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: ::MejiroMcQueen::{ user-id=11320627 } | [#1](https://osu.ppy.sh/community/matches/120343896) |
 
 ### Round of 16
 
@@ -362,24 +362,24 @@ Saturday, 10 January 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[MejiroMcQueen](https://osu.ppy.sh/users/11320627)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223) | [#1](https://osu.ppy.sh/community/matches/120277659) |
-| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737) | [#1](https://osu.ppy.sh/community/matches/120277604) |
-| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | [#1](https://osu.ppy.sh/community/matches/120278054) |
-| Upper | **[GNX](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/120278102) |
-| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/120278972) |
+| Upper | **::MejiroMcQueen::{ user-id=11320627 }** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: ::VtuberVoiceASMR::{ user-id=8780223 } | [#1](https://osu.ppy.sh/community/matches/120277659) |
+| Upper | **::Thatnoobguy::{ user-id=11091594 }** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: ::macabea::{ user-id=8688737 } | [#1](https://osu.ppy.sh/community/matches/120277604) |
+| Upper | **::lifeline::{ user-id=11367222 }** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: ::Azasapag::{ user-id=18347666 } | [#1](https://osu.ppy.sh/community/matches/120278054) |
+| Upper | **::GNX::{ user-id=10069909 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: ::Caruma::{ user-id=13187450 } | [#1](https://osu.ppy.sh/community/matches/120278102) |
+| Upper | **::MineFrostID::{ user-id=12159899 }** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: ::BlankTap::{ user-id=10137131 } | [#1](https://osu.ppy.sh/community/matches/120278972) |
 
 Sunday, 11 January 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Stixe](https://osu.ppy.sh/users/18351160) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/120286574) |
-| Upper | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Oguri Cap](https://osu.ppy.sh/users/11025519) | [#1](https://osu.ppy.sh/community/matches/120287756) |
+| Upper | ::Stixe::{ user-id=18351160 } ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **::Rosemi Lovelock::{ user-id=1987591 }** | [#1](https://osu.ppy.sh/community/matches/120286574) |
+| Upper | **::Hakui Koyori::{ user-id=10717635 }** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: ::Oguri Cap::{ user-id=11025519 } | [#1](https://osu.ppy.sh/community/matches/120287756) |
 
 Monday, 12 January 2026:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/120294772) |
+| Upper | ::Fuma::{ user-id=1501956 } ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **::Skydiver::{ user-id=4750008 }** | [#1](https://osu.ppy.sh/community/matches/120294772) |
 
 ## Ruleset
 

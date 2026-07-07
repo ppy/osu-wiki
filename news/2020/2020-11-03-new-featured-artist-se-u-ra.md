@@ -17,7 +17,7 @@ Check it all out:
 
 ### Qlifact -another-
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1224699) hosted by [Nao Tomori](https://osu.ppy.sh/users/5364763) of the Mappers' Guild, including [Icekalt](https://osu.ppy.sh/users/5410645)!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1224699) hosted by ::Nao Tomori::{ user-id=5364763 } of the Mappers' Guild, including ::Icekalt::{ user-id=5410645 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/112/previews/2940.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1224699) hosted by 
 
 ### LOA2
 
-Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/929622) hosted by [Azzedd](https://osu.ppy.sh/users/8889054)!
+Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/929622) hosted by ::Azzedd::{ user-id=8889054 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/112/previews/2933.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/929622) hosted
 
 ### QSHELL -Kyoshoku no Shell-
 
-Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/928283) hosted by [Azzedd](https://osu.ppy.sh/users/8889054)!
+Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/928283) hosted by ::Azzedd::{ user-id=8889054 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/112/previews/2939.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/928283) hosted
 
 ### LOSHAXI -HACK-
 
-Check out [this osu!taiko set](https://osu.ppy.sh/beatmapsets/1094418) by [Genjuro](https://osu.ppy.sh/users/3196091), which was featured in the [osu!taiko World Cup 2020 Semifinals](/wiki/Tournaments/TWC/2020#semifinals)!
+Check out [this osu!taiko set](https://osu.ppy.sh/beatmapsets/1094418) by ::Genjuro::{ user-id=3196091 }, which was featured in the [osu!taiko World Cup 2020 Semifinals](/wiki/Tournaments/TWC/2020#semifinals)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/112/previews/2935.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Check out [this osu!taiko set](https://osu.ppy.sh/beatmapsets/1094418) by [Genju
 
 ### LOSHAXI
 
-Check out [this Loved set](https://osu.ppy.sh/beatmapsets/790524) by [Elekton](https://osu.ppy.sh/users/4990211)!
+Check out [this Loved set](https://osu.ppy.sh/beatmapsets/790524) by ::Elekton::{ user-id=4990211 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/112/previews/2936.mp3" type="audio/mpeg">

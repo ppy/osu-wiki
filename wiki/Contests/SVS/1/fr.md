@@ -28,10 +28,10 @@ Le Slider Velocity Showdown a été organisé par divers membres de la communaut
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Hôte | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256) |
-| Designer | ::{ flag=AR }:: [Atreevete](https://osu.ppy.sh/users/2615199) |
-| Juge | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=TW }:: [katacheh](https://osu.ppy.sh/users/6651672), ::{ flag=DE }:: [Mew](https://osu.ppy.sh/users/2345156), ::{ flag=BR }:: [Ppus](https://osu.ppy.sh/users/5918857), ::{ flag=DE }:: [xMrtn-](https://osu.ppy.sh/users/866297) |
-| Traducteur | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) (Espagnol), ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256) (Japonais) |
+| Hôte | ::{ flag=US }:: ::Nifty::{ user-id=4956097 }, ::{ flag=AR }:: ::Axer::{ user-id=7299864 }, ::{ flag=JP }:: ::komasy::{ user-id=1980256 } |
+| Designer | ::{ flag=AR }:: ::Atreevete::{ user-id=2615199 } |
+| Juge | ::{ flag=US }:: ::Alchyr::{ user-id=4993032 }, ::{ flag=GR }:: ::Genjuro::{ user-id=3196091 }, ::{ flag=JP }:: ::iceOC::{ user-id=5482401 }, ::{ flag=TW }:: ::katacheh::{ user-id=6651672 }, ::{ flag=DE }:: ::Mew::{ user-id=2345156 }, ::{ flag=BR }:: ::Ppus::{ user-id=5918857 }, ::{ flag=DE }:: ::xMrtn-::{ user-id=866297 } |
+| Traducteur | ::{ flag=AR }:: ::Axer::{ user-id=7299864 } (Espagnol), ::{ flag=JP }:: ::komasy::{ user-id=1980256 } (Japonais) |
 
 ## Prix
 
@@ -53,9 +53,9 @@ Cette compétition s'est achevée sur le podium suivant :
 
 | Placement | Utilisateur |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722) |
-| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
-| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=NL }:: ::Cookie\1Tree::{ user-id=502722 } |
+| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } |
+| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=JP }:: ::Grape\1Tea::{ user-id=9540073 } |
 
 ## Règlement
 

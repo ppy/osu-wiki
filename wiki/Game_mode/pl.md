@@ -52,7 +52,7 @@ W *osu!catch*, owoce różnych rodzaji spadają z górnej części ekranu, i gra
 
 *Strona głowna: [osu!mania](osu!mania)*
 
-*osu!mania* jest grą rytmiczną z przewijaniem w pionie (VSRG) która została stworzona jako symulator gry na pianinie. Był głownie [stworzony i zaimplementowany](https://osu.ppy.sh/community/forums/topics/100751) przez [woc2006](https://osu.ppy.sh/users/1105845), i jest bazowany na dużej ilości gier typu VSRG (jak [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) i [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Maskotkami osu!mania są bliźniacy [Mani i Mari](/wiki/Mascots#mani-&-mari), którzy oboje mają fioletowe i jasno fioletowe włosy.
+*osu!mania* jest grą rytmiczną z przewijaniem w pionie (VSRG) która została stworzona jako symulator gry na pianinie. Był głownie [stworzony i zaimplementowany](https://osu.ppy.sh/community/forums/topics/100751) przez ::woc2006::{ user-id=1105845 }, i jest bazowany na dużej ilości gier typu VSRG (jak [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) i [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Maskotkami osu!mania są bliźniacy [Mani i Mari](/wiki/Mascots#mani-&-mari), którzy oboje mają fioletowe i jasno fioletowe włosy.
 
 ![Rozgrywka trybu gry osu!mania](/wiki/shared/mania-gameplay.jpg "Rozgrywka trybu gry osu!mania")
 

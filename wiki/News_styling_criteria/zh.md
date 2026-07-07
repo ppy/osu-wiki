@@ -6,7 +6,7 @@
 
 与 wiki 条目一样，所有新闻稿在撰写时至少应该确保拼写和语法正确，信息准确且为最新。
 
-如有撰写新闻稿或为此做出贡献，请前往 [osu! Discord 服务器](https://discord.com/invite/ppy) 的 `#osu-news` 频道，或直接联系 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)、::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063)、::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) 或者其他任意比较活跃的 [wiki 或新闻维护者](/wiki/People/osu!_wiki_maintainers)。
+如有撰写新闻稿或为此做出贡献，请前往 [osu! Discord 服务器](https://discord.com/invite/ppy) 的 `#osu-news` 频道，或直接联系 ::{ flag=TN }:: ::Hivie::{ user-id=14102976 }、::{ flag=ES }:: ::RandomeLoL::{ user-id=7080063 }、::{ flag=SE }:: ::Walavouchey::{ user-id=5773079 } 或者其他任意比较活跃的 [wiki 或新闻维护者](/wiki/People/osu!_wiki_maintainers)。
 
 对于锦标赛和竞赛（通常指作图竞赛），如希望使用专门的新闻稿进行对报名的宣传，需要事先分别获得[锦标赛委员会 (TC)](/wiki/People/Tournament_Committee) 和[竞赛委员会 (CC)](/wiki/People/Tournament_Committee#竞赛委员会) 的批准。相关规则和信息请参见[官方锦标赛支持](/wiki/Tournaments/Official_support)和[官方作图竞赛支持](/wiki/Contests/Official_support)页面。
 

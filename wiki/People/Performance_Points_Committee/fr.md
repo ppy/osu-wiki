@@ -38,16 +38,16 @@ Le panel d'osu! a été annoncé pour la première fois au public par le biais d
 
 | Profil osu! | Profil GitHub | Date d'adhésion |
 | :-- | :-- | :-- |
-| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) | 9 novembre 2021 |
-| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) | 12 avril 2024 |
+| ::{ flag=RU }:: ::StanR::{ user-id=7217455 } | [stanriders](https://github.com/stanriders) | 9 novembre 2021 |
+| ::{ flag=GB }:: ::tsunyoku::{ user-id=11315329 } | [tsunyoku](https://github.com/tsunyoku) | 12 avril 2024 |
 
 #### Previous members
 
 | Profil osu! | Date d'adhésion | Date de départ |
 | :-- | :-- | :-- |
-| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | 9 novembre 2021 | 12 avril 2024 |
-| ::{ flag=HU }:: [emu1337](https://osu.ppy.sh/users/2185987) | 9 novembre 2021 | 12 avril 2024 |
-| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | 9 novembre 2021 | 29 octobre 2024 |
+| ::{ flag=AU }:: ::MBmasher::{ user-id=4498616 } | 9 novembre 2021 | 12 avril 2024 |
+| ::{ flag=HU }:: ::emu1337::{ user-id=2185987 } | 9 novembre 2021 | 12 avril 2024 |
+| ::{ flag=GB }:: ::moonpoint::{ user-id=9558549 } | 9 novembre 2021 | 29 octobre 2024 |
 
 ### osu!taiko
 
@@ -55,20 +55,20 @@ Le panel osu!taiko a été créé le 1er mai 2022 en réponse à [une enquête c
 
 | Profil osu! | Profil GitHub | Date d'adhésion |
 | :-- | :-- | :-- |
-| ::{ flag=AU }:: [ltca](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) | 1er mai 2022 |
-| ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728) | [Babysnakes101](https://github.com/BabySnakes101) | 1er décembre 2024 |
-| ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | 17 septembre 2023 |
-| ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982) | [YaniFR](https://github.com/YaniFR) | 1er décembre 2024 |
+| ::{ flag=AU }:: ::ltca::{ user-id=11475208 } | [Lawtrohux](https://github.com/Lawtrohux) | 1er mai 2022 |
+| ::{ flag=PT }:: ::BabySnakes::{ user-id=4669728 } | [Babysnakes101](https://github.com/BabySnakes101) | 1er décembre 2024 |
+| ::{ flag=DE }:: ::ph1::{ user-id=22194163 } | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) | 17 septembre 2023 |
+| ::{ flag=FR }:: ::YaniFR::{ user-id=11260982 } | [YaniFR](https://github.com/YaniFR) | 1er décembre 2024 |
 
 #### Previous members
 
 | Profil osu! | Date d'adhésion | Date de départ |
 | :-- | :-- | :-- |
-| ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | 1er mai 2022 | 17 septembre 2023 |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 1er mai 2022 | 31 octobre 2024 |
-| ::{ flag=CA }:: [Natelytle](https://osu.ppy.sh/users/17607667) | 25 juillet 2023 | 19 novembre 2024 |
-| ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | 1er mai 2022 | 24 novembre 2024 |
-| ::{ flag=US }:: [shinosky](https://osu.ppy.sh/users/9272314) | 1er décembre 2024 | 6 janvier 2025 |
+| ::{ flag=MY }:: ::vun::{ user-id=6932501 } | 1er mai 2022 | 17 septembre 2023 |
+| ::{ flag=GB }:: ::mangomizer::{ user-id=1893718 } | 1er mai 2022 | 31 octobre 2024 |
+| ::{ flag=CA }:: ::Natelytle::{ user-id=17607667 } | 25 juillet 2023 | 19 novembre 2024 |
+| ::{ flag=GB }:: ::Horiiizon::{ user-id=8071438 } | 1er mai 2022 | 24 novembre 2024 |
+| ::{ flag=US }:: ::shinosky::{ user-id=9272314 } | 1er décembre 2024 | 6 janvier 2025 |
 
 ### osu!catch
 
@@ -76,10 +76,10 @@ Le panel osu!catch a été constitué le 14 octobre 2023.
 
 | Profil osu! | Profil GitHub | Date d'adhésion |
 | :-- | :-- | :-- |
-| ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | [bastoo0](https://github.com/bastoo0) | 14 octobre 2023 |
-| ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) | [wulpine](https://github.com/wulpine) | 23 avril 2025 |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [SecreOsu](https://github.com/SecreOsu) | 14 octobre 2023 |
-| ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | [Flawnpiece](https://github.com/Flawnpiece) | 14 octobre 2023 |
+| ::{ flag=FR }:: ::bastoo0::{ user-id=4864877 } | [bastoo0](https://github.com/bastoo0) | 14 octobre 2023 |
+| ::{ flag=RU }:: ::KitsunIvy::{ user-id=7055384 } | [wulpine](https://github.com/wulpine) | 23 avril 2025 |
+| ::{ flag=US }:: ::Secre::{ user-id=2306637 } | [SecreOsu](https://github.com/SecreOsu) | 14 octobre 2023 |
+| ::{ flag=CA }:: ::Zyoulou::{ user-id=8668722 } | [Flawnpiece](https://github.com/Flawnpiece) | 14 octobre 2023 |
 
 ### osu!mania
 
@@ -87,7 +87,7 @@ Le panel osu!mania a été créé le 22 avril 2022 en réponse à [une enquête 
 
 | Profil osu! | Profil GitHub | Date d'adhésion |
 | :-- | :-- | :-- |
-| ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) | [abraker95](https://github.com/abraker95) | 22 avril 2022 |
-| ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881) | [Eve-ning](https://github.com/Eve-ning) | 22 avril 2022 |
-| ::{ flag=AU }:: [molneya](https://osu.ppy.sh/users/8945180) | [molneya](https://github.com/molneya) | 22 avril 2022 |
-| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | [Kominaru](https://github.com/Kominaru) | 22 avril 2022 |
+| ::{ flag=US }:: ::abraker::{ user-id=4635891 } | [abraker95](https://github.com/abraker95) | 22 avril 2022 |
+| ::{ flag=SG }:: ::Evening::{ user-id=2193881 } | [Eve-ning](https://github.com/Eve-ning) | 22 avril 2022 |
+| ::{ flag=AU }:: ::molneya::{ user-id=8945180 } | [molneya](https://github.com/molneya) | 22 avril 2022 |
+| ::{ flag=ES }:: ::Quenlla::{ user-id=4725379 } | [Kominaru](https://github.com/Kominaru) | 22 avril 2022 |

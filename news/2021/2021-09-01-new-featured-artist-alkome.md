@@ -23,7 +23,7 @@ For those who may have missed last year's world cup, flip through the map that b
 
 ### Mind Disorder
 
-Play through [this OWC 2020 custom map](https://osu.ppy.sh/beatmapsets/1301375) created by [Altai](https://osu.ppy.sh/users/5745865)!
+Play through [this OWC 2020 custom map](https://osu.ppy.sh/beatmapsets/1301375) created by ::Altai::{ user-id=5745865 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/195/Mind%20Disorder/Alkome%20-%20Mind%20Disorder.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Play through [this OWC 2020 custom map](https://osu.ppy.sh/beatmapsets/1301375) 
 
 ### I'll Be
 
-Check out [this longer map](https://osu.ppy.sh/beatmapsets/1261670) hosted by [NyarkoO](https://osu.ppy.sh/users/6622567)!
+Check out [this longer map](https://osu.ppy.sh/beatmapsets/1261670) hosted by ::NyarkoO::{ user-id=6622567 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/195/I'll%20Be%20EP/Alkome%20-%20I%27ll%20Be.mp3" type="audio/mpeg">

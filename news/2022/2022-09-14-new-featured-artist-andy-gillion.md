@@ -13,7 +13,7 @@ Guitarist **Andy Gillion** shines onto our Featured Artist collection!
 
 **13** rock/metal masterpieces are pre-timed and ready for you to map. Check out [**Andy Gillion**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/302) for the full list!
 
-[-Sylvari](https://osu.ppy.sh/users/3493804) has already managed to churn out 6 difficulties for [Insert Coin](https://osu.ppy.sh/beatmapsets/1842568), although its album was only released less than 2 weeks ago! Experience **Andy Gillion**'s sound for yourself:
+::-Sylvari::{ user-id=3493804 } has already managed to churn out 6 difficulties for [Insert Coin](https://osu.ppy.sh/beatmapsets/1842568), although its album was only released less than 2 weeks ago! Experience **Andy Gillion**'s sound for yourself:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ Guitarist **Andy Gillion** shines onto our Featured Artist collection!
 
 ### Insert Coin
 
-Test your streaming ability with [the map from the video above](https://osu.ppy.sh/beatmapsets/1842568) hosted by [-Sylvari](https://osu.ppy.sh/users/3493804)!
+Test your streaming ability with [the map from the video above](https://osu.ppy.sh/beatmapsets/1842568) hosted by ::-Sylvari::{ user-id=3493804 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/302/Arcade%20Metal%2FAndy%20Gillion%20-%20Insert%20Coin.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Test your streaming ability with [the map from the video above](https://osu.ppy.
 
 ### Skyless (feat. Jeff Loomis)
 
-Check out [the map that introduced **Andy Gillion** to osu!](https://osu.ppy.sh/beatmapsets/1072484) created by [frukoyurdakul](https://osu.ppy.sh/users/7612550)!
+Check out [the map that introduced **Andy Gillion** to osu!](https://osu.ppy.sh/beatmapsets/1072484) created by ::frukoyurdakul::{ user-id=7612550 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/302/Neverafter%2FAndy%20Gillion%20-%20Skyless%20(feat.%20Jeff%20Loomis).mp3" type="audio/mpeg">

@@ -13,7 +13,7 @@ The [**Vocaloid Mapping Contest (VMC)**](/wiki/Contests/VMC) is all about findin
 
 Your goal for this contest: **use [one of the songs below](#songs) to create the best VOCALOID beatmap possible** (as determined by our [judging panel](/wiki/Contests/VMC/1#organisation)).
 
-And to make things more interesting, a special guest judge has joined us: **legendary VOCALOID mapper [*tutuhaha*](https://osu.ppy.sh/users/546991)**!
+And to make things more interesting, a special guest judge has joined us: **legendary VOCALOID mapper ::*tutuhaha*::{ user-id=546991 }**!
 
 Let's break everything down.
 

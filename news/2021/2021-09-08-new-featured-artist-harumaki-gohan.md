@@ -23,7 +23,7 @@ Taking a page out of **Harumaki Gohan**'s notebook, we took osu! to the beach fo
 
 ### Suisei ni Nareta nara
 
-Try out [this map](https://osu.ppy.sh/beatmapsets/1344515) by [torriru](https://osu.ppy.sh/users/15342657) from the video above or [this harder map](https://osu.ppy.sh/beatmapsets/1215982) appropriately created by [\[Hatsune Miku\]](https://osu.ppy.sh/users/3045895)!
+Try out [this map](https://osu.ppy.sh/beatmapsets/1344515) by ::torriru::{ user-id=15342657 } from the video above or [this harder map](https://osu.ppy.sh/beatmapsets/1215982) appropriately created by ::\[Hatsune Miku\]::{ user-id=3045895 }!
 
 **VOCALOID version:**
 
@@ -39,7 +39,7 @@ Try out [this map](https://osu.ppy.sh/beatmapsets/1344515) by [torriru](https://
 
 ### Melty Land Nightmare
 
-Check out [the first-ever-ranked **Harumaki Gohan** map](https://osu.ppy.sh/beatmapsets/944938) by [mindmaster107](https://osu.ppy.sh/users/8819496) or [this other map](https://osu.ppy.sh/beatmapsets/1029792) by [Cris-](https://osu.ppy.sh/users/6175280)!
+Check out [the first-ever-ranked **Harumaki Gohan** map](https://osu.ppy.sh/beatmapsets/944938) by ::mindmaster107::{ user-id=8819496 } or [this other map](https://osu.ppy.sh/beatmapsets/1029792) by ::Cris-::{ user-id=6175280 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/197/NEO%20DREAM%20TRAVELER/Harumaki%20Gohan%20feat.%20Hatsune%20Miku%20-%20Melty%20Land%20Nightmare.mp3" type="audio/mpeg">
@@ -47,7 +47,7 @@ Check out [the first-ever-ranked **Harumaki Gohan** map](https://osu.ppy.sh/beat
 
 ### Yakusoku
 
-Play through [this osu! map](https://osu.ppy.sh/beatmapsets/1266328) by [Puvn](https://osu.ppy.sh/users/12223206) or [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1276197) by [Sun](https://osu.ppy.sh/users/4115819)!
+Play through [this osu! map](https://osu.ppy.sh/beatmapsets/1266328) by ::Puvn::{ user-id=12223206 } or [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1276197) by ::Sun::{ user-id=4115819 }!
 
 **VOCALOID version:**
 

@@ -10,6 +10,6 @@ Les **MAT Leaders** supervisaient la [Mapping Assistance Team (*MAT*)](/wiki/Peo
 
 ## Histoire
 
-::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) a été choisi comme premier responsable du MAT lors de la formation du groupe le 27 décembre 2009.
+::{ flag=AU }:: ::Ephemeral::{ user-id=102335 } a été choisi comme premier responsable du MAT lors de la formation du groupe le 27 décembre 2009.
 
-Le poste a ensuite été occupé par ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) du 26 août 2010 jusqu'à la dissolution du MAT le 23 avril 2013.
+Le poste a ensuite été occupé par ::{ flag=US }:: ::ztrot::{ user-id=6347 } du 26 août 2010 jusqu'à la dissolution du MAT le 23 avril 2013.

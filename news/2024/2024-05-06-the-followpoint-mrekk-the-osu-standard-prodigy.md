@@ -21,7 +21,7 @@ Let's get into it!
 
 > My name is mrekk, and I’m currently known as the #1 osu! player to many people today, as I have been dominating the playerbase for 3 years now.
 > 
-> I am also known to be a prestigious tournament player, as I have won many of osu!'s biggest tournaments such as: The Roundtable II hosted by "[BTMC](https://osu.ppy.sh/users/3171691)", Corsace Closed 2023, and many more.
+> I am also known to be a prestigious tournament player, as I have won many of osu!'s biggest tournaments such as: The Roundtable II hosted by "::BTMC::{ user-id=3171691 }", Corsace Closed 2023, and many more.
 
 *How did you get introduced to osu!, and what was your first impression of it?*
 
@@ -59,9 +59,9 @@ Let's get into it!
 
 *Who would you say are the best osu! player(s) at the moment that aren't you, and why?*
 
-> There are many osu! Players on the rise and many of you may have noticed that. For example [Ivaxa](https://osu.ppy.sh/users/15406985), [aknzx](https://osu.ppy.sh/users/9938943), [cloutiful](https://osu.ppy.sh/users/9970083) and so on. I seriously believe that these players have potential as they have insane improvement speed and are also so incredibly young, improvement could just possibly come as they age.
+> There are many osu! Players on the rise and many of you may have noticed that. For example ::Ivaxa::{ user-id=15406985 }, [aknzx](https://osu.ppy.sh/users/9938943), ::cloutiful::{ user-id=9970083 } and so on. I seriously believe that these players have potential as they have insane improvement speed and are also so incredibly young, improvement could just possibly come as they age.
 > 
-> And of course I have to give my props to [Akolibed](https://osu.ppy.sh/users/9269034) who was the only one so far to be my only competitor ever in the 3 years I've been number 1. It was the first time I've ever felt scared about losing my #1 spot, and honestly it was a humbling fight. I thought I could fight him off easily, but damn was it a challenge, he set so many scores so fast I couldn't keep up! But eventually I caught up and set many scores to now where the gap is now set from 110pp to almost 1000. If you're reading this Akolibed, I look forward to another fight.
+> And of course I have to give my props to ::Akolibed::{ user-id=9269034 } who was the only one so far to be my only competitor ever in the 3 years I've been number 1. It was the first time I've ever felt scared about losing my #1 spot, and honestly it was a humbling fight. I thought I could fight him off easily, but damn was it a challenge, he set so many scores so fast I couldn't keep up! But eventually I caught up and set many scores to now where the gap is now set from 110pp to almost 1000. If you're reading this Akolibed, I look forward to another fight.
 
 *Is there any advice that you would give to people who are just starting out, or are wanting to improve to one day be like you?*
 
@@ -83,7 +83,7 @@ Let's get into it!
 
 > That for many times during my reign that I have thought about quitting and being able to rank up again, it's always lonely at the top and not having any competition is definitely draining, but I always somehow find bursts of motivation everytime I try taking a break and just start popping off again. It's weird but it just happens and I guess it's a good thing.
 > 
-> I also have always had a passion for osu! since I was just a kid since I was already extremely motivated to play osu! at a very young age and had looked up to the current top players back then ([Cookiezi](https://osu.ppy.sh/users/124493), [Rafis](https://osu.ppy.sh/users/2558286), [hvick225](https://osu.ppy.sh/users/50265), etc.), so since this has been a dream of mine, since I was very young it always comes back to bite me and play.
+> I also have always had a passion for osu! since I was just a kid since I was already extremely motivated to play osu! at a very young age and had looked up to the current top players back then (::Cookiezi::{ user-id=124493 }, [Rafis](https://osu.ppy.sh/users/2558286), ::hvick225::{ user-id=50265 }, etc.), so since this has been a dream of mine, since I was very young it always comes back to bite me and play.
 > 
 > I'm here forever.
 
@@ -95,7 +95,7 @@ Let's get into it!
 
 > A score that I'd definitely love to see is an FC on a map called "[Hurting for a Very Hurting Pain](https://osu.ppy.sh/beatmapsets/46848#osu/145669)". This map has been one of my favourites since I just started and though it'd be cool for me to close it out, I'd be very happy to see an FC by anybody on this map.
 > 
-> Honestly, there isn't really a specific map outside of that map that I'd like to see FC'd, but I'm definitely a big fan of upcoming top players who have very big potential to be my competition as there are many players today who have big potential, the good examples are: [cloutiful](https://osu.ppy.sh/users/9970083) (chud son), [aknzx](https://osu.ppy.sh/users/9938943), [Ivaxa](https://osu.ppy.sh/users/15406985), [Kamensh1k](https://osu.ppy.sh/users/16817965), [aimbotcone](https://osu.ppy.sh/users/12952320) and [Lexu2S](https://osu.ppy.sh/users/8251785) (killer2007). I may have left out a lot of people, but don't worry if you're not in this list because you can very easily prove me wrong!
+> Honestly, there isn't really a specific map outside of that map that I'd like to see FC'd, but I'm definitely a big fan of upcoming top players who have very big potential to be my competition as there are many players today who have big potential, the good examples are: ::cloutiful::{ user-id=9970083 } (chud son), ::aknzx::{ user-id=9938943 }, [Ivaxa](https://osu.ppy.sh/users/15406985), ::Kamensh1k::{ user-id=16817965 }, [aimbotcone](https://osu.ppy.sh/users/12952320) and ::Lexu2S::{ user-id=8251785 } (killer2007). I may have left out a lot of people, but don't worry if you're not in this list because you can very easily prove me wrong!
 
 *What are some "endgame" scores or milestones you would want to achieve in the future?*
 
@@ -124,12 +124,12 @@ Let's get into it!
 
 > In conclusion, I definitely still have motivation to play, and you (the reader) should be on the lookout for more and new cool scores! You could also check me out (shameless advertising I know) on [Twitch](https://twitch.tv/mrekk) if you want to see the #1 osu! player in the flesh.
 > 
-> And of course, thank you to [MegaMix_Craft](https://osu.ppy.sh/users/18152711) for organising and setting this news post up.
+> And of course, thank you to ::MegaMix\1Craft::{ user-id=18152711 } for organising and setting this news post up.
 
 ---
 
 Thank you to mrekk for joining us and answering these questions as well, and thank *you* for reading!
 
-Please look forward to the next interview with osu!catch #1 player, [YesMyDarknesss](https://osu.ppy.sh/users/4158549), which will be posted in two weeks!
+Please look forward to the next interview with osu!catch #1 player, ::YesMyDarknesss::{ user-id=4158549 }, which will be posted in two weeks!
 
 —MegaMix, Utiba & DigitalHypno

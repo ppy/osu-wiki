@@ -9,7 +9,7 @@ series: featured_artists
 
 ![](https://assets.ppy.sh/artists/366/header.jpg)
 
-While [**passchooo**](https://osu.ppy.sh/users/6469085) has been a producer and vocalist for nearly their whole life, they only began to gain recognition on osu! after the speed remix [mrekk took over his WHAT](https://www.youtube.com/watch?v=5Rh8Cidvbrg&t=31s).
+While ::**passchooo**::{ user-id=6469085 } has been a producer and vocalist for nearly their whole life, they only began to gain recognition on osu! after the speed remix [mrekk took over his WHAT](https://www.youtube.com/watch?v=5Rh8Cidvbrg&t=31s).
 
 After being put on the radar, **passchooo**'s hip-hop-adjacent music has gained an audience here on osu! too, and with their upcoming release of *The Roundtable II*'s background soundtrack, they're only getting started.
 
@@ -25,7 +25,7 @@ Every musician who played osu! has wondered how their songs would fit into the g
 
 ### passchooo - chooo2023_1
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1981957) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302), or [this osu!mania map](https://osu.ppy.sh/beatmapsets/2014129) by [Ilham](https://osu.ppy.sh/users/3057154)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1981957) hosted by ::SMOKELIND::{ user-id=9327302 }, or [this osu!mania map](https://osu.ppy.sh/beatmapsets/2014129) by ::Ilham::{ user-id=3057154 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/366/choo2023_1/passchooo%20-%20chooo2023_1.mp3">
@@ -33,7 +33,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1981957)
 
 ### passchooo - david gold took it slow (alt version)
 
-Or try [this new osu!catch map](https://osu.ppy.sh/beatmapsets/2014234) hosted by [Xinnoh](https://osu.ppy.sh/users/4236057)!
+Or try [this new osu!catch map](https://osu.ppy.sh/beatmapsets/2014234) hosted by ::Xinnoh::{ user-id=4236057 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/366/david%20gold%20took%20it%20slow%20(alt%20version)/passchooo%20-%20david%20gold%20took%20it%20slow%20(alt%20version).mp3">

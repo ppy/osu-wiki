@@ -25,7 +25,7 @@ From the annual rankings of our top players to the historic wave of LAN events s
 
 The time has come to reflect on the progress made over the past year. Throughout 2025, we've seen players continue to push their own limits and stay active in the competitive scene. 
 
-To commemorate these efforts, we've put together a video featuring **China's Top 15 osu! players of 2025**. This ranking highlights the players who showed impressive consistency and made their mark on the scene — whether through dominant tournament performances or climbing the global leaderboards — over the last twelve months. We would also like to extend a special thank you to ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231), and ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) for joining us as guest commentators, lending their international perspectives to this celebration of local talent.
+To commemorate these efforts, we've put together a video featuring **China's Top 15 osu! players of 2025**. This ranking highlights the players who showed impressive consistency and made their mark on the scene — whether through dominant tournament performances or climbing the global leaderboards — over the last twelve months. We would also like to extend a special thank you to ::{ flag=CA }:: ::Azer::{ user-id=2155578 }, ::{ flag=US }:: ::decaten::{ user-id=5645231 }, and ::{ flag=GB }:: ::Doomsday::{ user-id=18983 } for joining us as guest commentators, lending their international perspectives to this celebration of local talent.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/TtqMuQKplzQ" frameborder="0" allowfullscreen></iframe>
@@ -33,9 +33,9 @@ To commemorate these efforts, we've put together a video featuring **China's Top
 
 ## A Year in Mapping
 
-A Year in Mapping (AYIM) was originally a cornerstone of the [Mapper's Choice Awards (MCA)](https://mca.corsace.io/), designed to curate annual ranking data and provide personalised feedback for every mapper who had a set ranked that year. After the project entered a hiatus in 2018, [kanor](https://osu.ppy.sh/users/3131236) took the initiative in 2020 to launch the first "Chinese Mapper Annual Review", reigniting the flame for this community tradition. Following the stewardship of [Antigen](https://osu.ppy.sh/users/10507557) and [Arsalan](https://osu.ppy.sh/users/7660383) in 2023, the torch was passed to us ([MarioKartya](https://osu.ppy.sh/users/16833061), [AstralXynsm](https://osu.ppy.sh/users/16022233) and [Luval](https://osu.ppy.sh/users/22414293)) in 2024 to carry on the legacy of AYIM within the Chinese mapping community.
+A Year in Mapping (AYIM) was originally a cornerstone of the [Mapper's Choice Awards (MCA)](https://mca.corsace.io/), designed to curate annual ranking data and provide personalised feedback for every mapper who had a set ranked that year. After the project entered a hiatus in 2018, ::kanor::{ user-id=3131236 } took the initiative in 2020 to launch the first "Chinese Mapper Annual Review", reigniting the flame for this community tradition. Following the stewardship of ::Antigen::{ user-id=10507557 } and [Arsalan](https://osu.ppy.sh/users/7660383) in 2023, the torch was passed to us (::MarioKartya::{ user-id=16833061 }, [AstralXynsm](https://osu.ppy.sh/users/16022233) and ::Luval::{ user-id=22414293 }) in 2024 to carry on the legacy of AYIM within the Chinese mapping community.
 
-2025 has been a vibrant year, with a total of **143 Chinese mappers** successfully getting their maps ranked. Most notably, we celebrated **22 debutant mappers** who achieved their very first ranked sets this year — a heartening increase compared to the previous year. Meanwhile, the return of veteran mappers such as [cRyo[iceeicee]](https://osu.ppy.sh/users/835998) and [Chloe](https://osu.ppy.sh/users/787542) brought fresh surprises to the community. We are truly honoured to capture every highlight and milestone within the Chinese mapping scene through this event.
+2025 has been a vibrant year, with a total of **143 Chinese mappers** successfully getting their maps ranked. Most notably, we celebrated **22 debutant mappers** who achieved their very first ranked sets this year — a heartening increase compared to the previous year. Meanwhile, the return of veteran mappers such as ::cRyo\1iceeicee\1::{ user-id=835998 } and [Chloe](https://osu.ppy.sh/users/787542) brought fresh surprises to the community. We are truly honoured to capture every highlight and milestone within the Chinese mapping scene through this event.
 
 This time, we cordially invite everyone to send New Year's wishes or a shout-out to your favourite Chinese mappers for their incredible work over the past year. Please share your thoughts via [this form](https://docs.google.com/forms/d/e/1FAIpQLScT-pDozmZtLtl6BfBpFtlNC4e_TM3HgbDy-3nc7DktB9b3Sg/viewform?usp=publish-editor)!
 
@@ -47,9 +47,9 @@ The year 2025 has been a monumental milestone for the osu! competitive scene wit
 
 This past summer saw the largest and most frequent wave of offline competitions in history, with three major events spanning Shanghai, Guangzhou, and New Taipei City.
 
-- **[China LAN 2025](https://osu.ppy.sh/community/forums/topics/2080306?n=1)** (Shanghai): Held in July, this was the largest offline tournament of mainland China featuring both osu! and osu!mania 4K in nearly seven years. In collaboration with the **dotream Rhythm Game Carnival (缀梦音游嘉年华)**, the event garnered unprecedented attention, showcasing the unique charm of osu! to a vast audience of rhythm game enthusiasts. It was a joyful and unforgettable experience for all attendees, setting a fresh new standard for offline production. Ultimately, ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) and ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) emerged as the respective champions.
-- **[OCNCC S2](https://osu.ppy.sh/community/forums/topics/2083250?n=1)** (Guangzhou): Taking place in early August in Panyu, this event primarily targeted players from the Guangdong-Hong Kong-Macau Greater Bay Area. Despite the venue's size, the atmosphere was electric, culminating in a finale where ::{ flag=HK }:: [-xxx Rumia-](https://osu.ppy.sh/users/5936405) defeated ::{ flag=CN }:: [Firia](https://osu.ppy.sh/users/9164037) 6–4 to take the title.
-- **[otst:live!](https://osu.ppy.sh/community/forums/topics/2095985?n=1)** (New Taipei City): At the end of August, the historic OTST series returned from its hiatus since 2022 — this time in an offline format — marking the first-ever officially supported offline tournament to take place in Taiwan. The event highlighted the rise of a new generation of Taiwanese players, with ::{ flag=TW }:: [GAO HAO](https://osu.ppy.sh/users/8964050) narrowly defeating ::{ flag=TW }:: [willy0214](https://osu.ppy.sh/users/8660293) 7–6 in a thrilling Grand Final.
+- **[China LAN 2025](https://osu.ppy.sh/community/forums/topics/2080306?n=1)** (Shanghai): Held in July, this was the largest offline tournament of mainland China featuring both osu! and osu!mania 4K in nearly seven years. In collaboration with the **dotream Rhythm Game Carnival (缀梦音游嘉年华)**, the event garnered unprecedented attention, showcasing the unique charm of osu! to a vast audience of rhythm game enthusiasts. It was a joyful and unforgettable experience for all attendees, setting a fresh new standard for offline production. Ultimately, ::{ flag=HK }:: ::mcy4::{ user-id=2165650 } and ::{ flag=CN }:: ::DawnX::{ user-id=8534840 } emerged as the respective champions.
+- **[OCNCC S2](https://osu.ppy.sh/community/forums/topics/2083250?n=1)** (Guangzhou): Taking place in early August in Panyu, this event primarily targeted players from the Guangdong-Hong Kong-Macau Greater Bay Area. Despite the venue's size, the atmosphere was electric, culminating in a finale where ::{ flag=HK }:: ::-xxx Rumia-::{ user-id=5936405 } defeated ::{ flag=CN }:: ::Firia::{ user-id=9164037 } 6–4 to take the title.
+- **[otst:live!](https://osu.ppy.sh/community/forums/topics/2095985?n=1)** (New Taipei City): At the end of August, the historic OTST series returned from its hiatus since 2022 — this time in an offline format — marking the first-ever officially supported offline tournament to take place in Taiwan. The event highlighted the rise of a new generation of Taiwanese players, with ::{ flag=TW }:: ::GAO HAO::{ user-id=8964050 } narrowly defeating ::{ flag=TW }:: ::willy0214::{ user-id=8660293 } 7–6 in a thrilling Grand Final.
 
 These three LAN events also introduced several new original tracks to the community:
 
@@ -74,16 +74,16 @@ These three LAN events also introduced several new original tracks to the commun
 
 The performance of local teams in the World Cup series has been equally remarkable over the past year.
 
-- **osu! World Cup**: ::{ flag=CN }:: China and ::{ flag=TW }:: Taiwan maintained steady performances, securing **Top 12** and **Top 16** placements respectively. ::{ flag=HK }:: Hong Kong, despite a major roster overhaul, advanced through the Qualifiers as the #40 seed. In a notable Group Stage encounter against ::{ flag=GR }:: Greece, ::{ flag=HK }:: [misha awa](https://osu.ppy.sh/users/14503423) played all 9 maps with a staggering 2.3 match cost to **lead a 5–4 comeback victory**, securing a hard-fought win to close out their campaign. Meanwhile, ::{ flag=MO }:: Macau showed significant growth following their 2024 return after a decade-long hiatus. They achieved a notably higher Qualifier rank this year with a compact 7-player roster, proving that even small communities possess immense vitality.
+- **osu! World Cup**: ::{ flag=CN }:: China and ::{ flag=TW }:: Taiwan maintained steady performances, securing **Top 12** and **Top 16** placements respectively. ::{ flag=HK }:: Hong Kong, despite a major roster overhaul, advanced through the Qualifiers as the #40 seed. In a notable Group Stage encounter against ::{ flag=GR }:: Greece, ::{ flag=HK }:: ::misha awa::{ user-id=14503423 } played all 9 maps with a staggering 2.3 match cost to **lead a 5–4 comeback victory**, securing a hard-fought win to close out their campaign. Meanwhile, ::{ flag=MO }:: Macau showed significant growth following their 2024 return after a decade-long hiatus. They achieved a notably higher Qualifier rank this year with a compact 7-player roster, proving that even small communities possess immense vitality.
 - **Other World Cup series**: ::{ flag=TW }:: Taiwan continued its legacy as a powerhouse in the **osu!taiko World Cup**, securing **3rd place**. ::{ flag=CN }:: China returned to the podium in the **osu!mania 7k World Cup** with a **2nd-place** finish and made history in the **osu!mania 4k World Cup** by taking the **#1 seed** in the Qualifiers — the first time a Chinese team has achieved the top seed in a World Cup series.
 
 ### Diverse community circuit
 
 The Chinese community also hosted a rich variety of smaller-scale tournaments throughout 2025:
 
-- **[5 Digit Taiwanese Showdown 2.5](https://osu.ppy.sh/community/forums/topics/2029518?n=1) & [3](https://osu.ppy.sh/community/forums/topics/2110474?n=1)**: These two iterations saw ::{ flag=TW }:: [[ Luka ]](https://osu.ppy.sh/users/11923800) and ::{ flag=TW }:: [YoYu](https://osu.ppy.sh/users/10391882) take their respective titles, proving themselves as the future of the Taiwanese scene.
-- **[Osu For Fun Cup 5](https://osu.ppy.sh/community/forums/topics/2074099?n=1)**: Featuring a KOF-style format, this tournament required strategic planning to balance skill gaps within teams. Team **daiimu到處欠錢** (::{ flag=TW }:: [GAO HAO](https://osu.ppy.sh/users/8964050),::{ flag=TW }:: [koutya_](https://osu.ppy.sh/users/14912108), ::{ flag=CN }:: [Firia](https://osu.ppy.sh/users/9164037), and ::{ flag=TW }:: [zomcys](https://osu.ppy.sh/users/1580033)) ultimately claimed victory.
-- **[Hello! Shanden Cup 5 : Limit Break](https://osu.ppy.sh/community/forums/topics/2142841?n=1)**: The year-end finale featured a "Limit Break" theme with more complex rules and difficult mappools. Team **大家好我是陳義與...** (::{ flag=TW }:: [daiimu](https://osu.ppy.sh/users/17792515), ::{ flag=TW }:: [Summer_Ouo](https://osu.ppy.sh/users/15184992), ::{ flag=TW }:: [YoYu](https://osu.ppy.sh/users/10391882), and ::{ flag=TW }:: [[ Luka ]](https://osu.ppy.sh/users/11923800)) emerged victorious after an intense two-set Grand Final.
+- **[5 Digit Taiwanese Showdown 2.5](https://osu.ppy.sh/community/forums/topics/2029518?n=1) & [3](https://osu.ppy.sh/community/forums/topics/2110474?n=1)**: These two iterations saw ::{ flag=TW }:: ::\1 Luka \1::{ user-id=11923800 } and ::{ flag=TW }:: ::YoYu::{ user-id=10391882 } take their respective titles, proving themselves as the future of the Taiwanese scene.
+- **[Osu For Fun Cup 5](https://osu.ppy.sh/community/forums/topics/2074099?n=1)**: Featuring a KOF-style format, this tournament required strategic planning to balance skill gaps within teams. Team **daiimu到處欠錢** (::{ flag=TW }:: ::GAO HAO::{ user-id=8964050 },::{ flag=TW }:: ::koutya\1::{ user-id=14912108 }, ::{ flag=CN }:: ::Firia::{ user-id=9164037 }, and ::{ flag=TW }:: ::zomcys::{ user-id=1580033 }) ultimately claimed victory.
+- **[Hello! Shanden Cup 5 : Limit Break](https://osu.ppy.sh/community/forums/topics/2142841?n=1)**: The year-end finale featured a "Limit Break" theme with more complex rules and difficult mappools. Team **大家好我是陳義與...** (::{ flag=TW }:: ::daiimu::{ user-id=17792515 }, ::{ flag=TW }:: ::Summer\1Ouo::{ user-id=15184992 }, ::{ flag=TW }:: ::YoYu::{ user-id=10391882 }, and ::{ flag=TW }:: ::\1 Luka \1::{ user-id=11923800 }) emerged victorious after an intense two-set Grand Final.
 
 For more exciting community action, you can check the full records in the [Chinese Community Tourney Method Spreadsheet](https://docs.google.com/spreadsheets/d/1fXxlX2CCQhLbb6fUl1DyWBJnSsaURLsOvJ2m1rNDw2Y/edit?gid=1005102636#gid=1005102636). Congratulations to all the staff and players for an incredible year of competition — **GGWP**!
 
@@ -93,29 +93,29 @@ In the competitive mapping scene, **2025** has proven to be a rewarding year for
 
 One of the most exciting achievements was the **[Locus](https://osu.ppy.sh/home/news/2025-08-21-locus-2025-results)** contest, where composers, mappers, and artists collaborated to create a "fully original beatmap" — a complete mapset featuring an original song, a full spread of difficulties, and original visual assets.
 
-The team **Hexagram**, consisting of ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=HK }:: [Otosaka-Yu](https://osu.ppy.sh/users/3170678), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), and ::{ flag=JP }:: [TARA-376](https://osu.ppy.sh/users/37407910), claimed **1st place** on the community vote, showcasing a contribution widely appreciated by the osu! community. Their [beatmap](https://osu.ppy.sh/beatmapsets/2412260) is bundled with the osu! client, so be sure to check it out!
+The team **Hexagram**, consisting of ::{ flag=HK }:: ::Chaoslitz::{ user-id=3621552 }, ::{ flag=HK }:: ::Otosaka-Yu::{ user-id=3170678 }, ::{ flag=HK }:: ::seros::{ user-id=10562853 }, ::{ flag=KR }:: ::momoyo::{ user-id=12469536 }, and ::{ flag=JP }:: ::TARA-376::{ user-id=37407910 }, claimed **1st place** on the community vote, showcasing a contribution widely appreciated by the osu! community. Their [beatmap](https://osu.ppy.sh/beatmapsets/2412260) is bundled with the osu! client, so be sure to check it out!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/_FOeVts_dVs" frameborder="0" allowfullscreen></iframe>
 </div>
 
-In the **[osu! Beatmapping World Championship (o!bwc)](https://osu.ppy.sh/home/news/2025-11-25-osu-beatmapping-world-championship-2025-results)**, the ::{ flag=TW }:: Taiwanese team, consisting of ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497), ::{ flag=TW }:: [Matsuyuki Ame](https://osu.ppy.sh/users/12763959), ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609), ::{ flag=TW }:: [9ami](https://osu.ppy.sh/users/1499997), and ::{ flag=TW }:: [Alty](https://osu.ppy.sh/users/16407988), delivered an outstanding performance. Competing against over 60 teams from more than 20 countries, they distinguished themselves in fierce international competition and secured an impressive **3rd place**.
+In the **[osu! Beatmapping World Championship (o!bwc)](https://osu.ppy.sh/home/news/2025-11-25-osu-beatmapping-world-championship-2025-results)**, the ::{ flag=TW }:: Taiwanese team, consisting of ::{ flag=TW }:: ::Plus4j::{ user-id=4086497 }, ::{ flag=TW }:: ::Matsuyuki Ame::{ user-id=12763959 }, ::{ flag=TW }:: ::Flask::{ user-id=959763 }, ::{ flag=TW }:: ::Imokora::{ user-id=2472609 }, ::{ flag=TW }:: ::9ami::{ user-id=1499997 }, and ::{ flag=TW }:: ::Alty::{ user-id=16407988 }, delivered an outstanding performance. Competing against over 60 teams from more than 20 countries, they distinguished themselves in fierce international competition and secured an impressive **3rd place**.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/DD5PeHEd2eY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-In **[Vocaloid Mapping Contest #3](https://www.vat.gg/vmc3)**, the duo of ::{ flag=CN }:: **[Garden](https://osu.ppy.sh/users/2849992)** and ::{ flag=CN }:: **[iBell](https://osu.ppy.sh/users/4298072)** took **1st place in Phase 1**. With Phase 2 currently underway, the competition remains intense. Check it out if you love Vocaloids, or you just want to support their continued journey!
+In **[Vocaloid Mapping Contest #3](https://www.vat.gg/vmc3)**, the duo of ::{ flag=CN }:: **::Garden::{ user-id=2849992 }** and ::{ flag=CN }:: **::iBell::{ user-id=4298072 }** took **1st place in Phase 1**. With Phase 2 currently underway, the competition remains intense. Check it out if you love Vocaloids, or you just want to support their continued journey!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/7em6QqlrP9Q?start=939" frameborder="0" allowfullscreen></iframe>
 </div>
 
-::{ flag=CN }:: **[iBell](https://osu.ppy.sh/users/4298072)** also appeared on the podium in individual mapper contests, claiming **1st place** in the **[Summer Mapping Contest 2](https://osu.ppy.sh/home/news/2025-06-14-summer-mapping-contest-2)**. This marks their **second consecutive championship** in the event, earning enough [contest points](/wiki/Contests/Contest_points) to be awarded the **Elite Mapper** title.
+::{ flag=CN }:: **::iBell::{ user-id=4298072 }** also appeared on the podium in individual mapper contests, claiming **1st place** in the **[Summer Mapping Contest 2](https://osu.ppy.sh/home/news/2025-06-14-summer-mapping-contest-2)**. This marks their **second consecutive championship** in the event, earning enough [contest points](/wiki/Contests/Contest_points) to be awarded the **Elite Mapper** title.
 
-Another "second time champion" highlight came from **[Pending Cup 2025](https://osu.ppy.sh/home/news/2025-10-24-pending-cup-2025)**: ::{ flag=TW }:: **[Matsuyuki Ame](https://osu.ppy.sh/users/12763959)** once again ranked first in one of the three track categories. They reaffirmed their consistent excellence in the Pending Cup!
+Another "second time champion" highlight came from **[Pending Cup 2025](https://osu.ppy.sh/home/news/2025-10-24-pending-cup-2025)**: ::{ flag=TW }:: **::Matsuyuki Ame::{ user-id=12763959 }** once again ranked first in one of the three track categories. They reaffirmed their consistent excellence in the Pending Cup!
 
-2025 is also a fruitful year for novice mappers. **[Newspaper Cup 2025](https://osu.ppy.sh/home/news/2025-01-29-newspaper-cup-2025)** highlighted the rise of new talent from the Chinese mapping community, with three novice mappers ::{ flag=CN }:: **[PEALEERD_TAK](https://osu.ppy.sh/users/6214002)**, ::{ flag=CN }:: **[Mimosa M](https://osu.ppy.sh/users/24010320)**, and ::{ flag=CN }:: **[YeLing](https://osu.ppy.sh/users/14726718)** sweeping the **top three positions**. Want to be one of them? Submissions for **[Newspaper Cup 2026](https://osu.ppy.sh/community/contests/270)** are now nearing the end, and new mappers are strongly encouraged not to miss this valuable opportunity to step onto the competitive stage!
+2025 is also a fruitful year for novice mappers. **[Newspaper Cup 2025](https://osu.ppy.sh/home/news/2025-01-29-newspaper-cup-2025)** highlighted the rise of new talent from the Chinese mapping community, with three novice mappers ::{ flag=CN }:: **::PEALEERD\1TAK::{ user-id=6214002 }**, ::{ flag=CN }:: **::Mimosa M::{ user-id=24010320 }**, and ::{ flag=CN }:: **::YeLing::{ user-id=14726718 }** sweeping the **top three positions**. Want to be one of them? Submissions for **[Newspaper Cup 2026](https://osu.ppy.sh/community/contests/270)** are now nearing the end, and new mappers are strongly encouraged not to miss this valuable opportunity to step onto the competitive stage!
 
 On the momentum of a highly successful **2025**, let's wish the best to the Chinese mappers across mapping contests in **2026**!
 
@@ -160,7 +160,7 @@ To celebrate the occasion, we sat down with several prominent figures from the s
 
 ![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/btmc.png)
 
-As one of osu!'s most prominent content creators and a notable Chinese-American figure, [BTMC](https://osu.ppy.sh/users/3171691) has made immense contributions to the global community. His success demonstrates how a shared passion for the game can resonate across all cultural boundaries.
+As one of osu!'s most prominent content creators and a notable Chinese-American figure, ::BTMC::{ user-id=3171691 } has made immense contributions to the global community. His success demonstrates how a shared passion for the game can resonate across all cultural boundaries.
 
 <div class="news-chat-quote__text-container">
 
@@ -208,7 +208,7 @@ My mom used to make the best lamb dumplings in the world, doing the dough and fi
 
 ![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/yfpw.png)
 
-Both [yf_bmp](https://osu.ppy.sh/users/1243669) and [pw384](https://osu.ppy.sh/users/1343783) are veteran figures who have significantly shaped the identity of "Chinese Mapping". While yf_bmp is a highly respected veteran known for his deep legacy, pw384 is recognised for his long-standing ability to evolve alongside the ever-changing trends of the scene.
+Both ::yf\1bmp::{ user-id=1243669 } and [pw384](https://osu.ppy.sh/users/1343783) are veteran figures who have significantly shaped the identity of "Chinese Mapping". While yf_bmp is a highly respected veteran known for his deep legacy, pw384 is recognised for his long-standing ability to evolve alongside the ever-changing trends of the scene.
 
 <div class="news-chat-quote__text-container">
 
@@ -234,11 +234,11 @@ In the osu! community, we often discuss "Chinese Mapping" as a distinct style. A
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/1243669">yf_bmp</a></p> 
   
-Regarding Chinese Mapping, I believe that it evolved from the strong structural focus led by [tsuka](https://osu.ppy.sh/users/106767), [kiddly](https://osu.ppy.sh/users/74937), and [fanzhen0019](https://osu.ppy.sh/users/418699), alongside other influential branches like [NatsumeRin](https://osu.ppy.sh/users/151679) and [LKs](https://osu.ppy.sh/users/150768). In the "modern" era, [Skystar](https://osu.ppy.sh/users/873961) played a pivotal role; he studied a lot of Chinese styles — I recall him mentioning how his [Rohi - Kakuzetsu Thanatos](https://osu.ppy.sh/beatmapsets/76396#osu/215906) was sent back for revisions multiple times by NatsumeRin, which heavily influenced his early work. fanzhen0019 also remains a cornerstone, as he has continuously reinvented himself from the early days to now, maintaining his status as a benchmark. If we’re talking about the modern era, since mapping has become highly saturated, it’s really hard to define Chinese mapping as a single person’s style. However, I do believe there are the following defining traits.
+Regarding Chinese Mapping, I believe that it evolved from the strong structural focus led by ::tsuka::{ user-id=106767 }, [kiddly](https://osu.ppy.sh/users/74937), and ::fanzhen0019::{ user-id=418699 }, alongside other influential branches like ::NatsumeRin::{ user-id=151679 } and [LKs](https://osu.ppy.sh/users/150768). In the "modern" era, ::Skystar::{ user-id=873961 } played a pivotal role; he studied a lot of Chinese styles — I recall him mentioning how his [Rohi - Kakuzetsu Thanatos](https://osu.ppy.sh/beatmapsets/76396#osu/215906) was sent back for revisions multiple times by NatsumeRin, which heavily influenced his early work. fanzhen0019 also remains a cornerstone, as he has continuously reinvented himself from the early days to now, maintaining his status as a benchmark. If we’re talking about the modern era, since mapping has become highly saturated, it’s really hard to define Chinese mapping as a single person’s style. However, I do believe there are the following defining traits.
   
 First of all is the structural logic — a logic present in both rhythm and visuals. Every slider and circle has a concrete reason for its placement and orientation; it's never arbitrary. The rhythm is chosen with intent, maintaining internal consistency from start to finish. It's inherently logical. Another hallmark is Playability. A commonality among these pioneers is their experience with other rhythm games, especially arcade ones. They draw from commercial rhythm game design — learning how to make a map "addictive", how to balance complexity with non-traditional rhythms, and how to create "peaks" that make players want to hit that retry button again and again.
   
-As for my own style, [NatsumeRin](https://osu.ppy.sh/users/151679) (2012-2014) was my biggest early influence; much of my rhythm choice, overlaps, and slider shapes can be traced back there. In the middle stage (2015-2016), I studied [Skystar](https://osu.ppy.sh/users/873961), the master who synthesized these styles with his own ideas. Later (2016-2018), I began exploring my own potential and realized that [fanzhen](https://osu.ppy.sh/users/418699)'s maps were in a league of their own regarding playability, so I spent a long time learning from him. Finally, in 2019, I integrated [rustbell](https://osu.ppy.sh/users/227717)'s rigid, high-difficulty expression. Since then, it's been about fine-tuning that 2019 version (e.g., mimicking [Kencho](https://osu.ppy.sh/users/3178411)'s flow or studying various old maps), though my energy has shifted toward my career. It took me seven years to finally feel satisfied with my own mapping.
+As for my own style, ::NatsumeRin::{ user-id=151679 } (2012-2014) was my biggest early influence; much of my rhythm choice, overlaps, and slider shapes can be traced back there. In the middle stage (2015-2016), I studied ::Skystar::{ user-id=873961 }, the master who synthesized these styles with his own ideas. Later (2016-2018), I began exploring my own potential and realized that ::fanzhen::{ user-id=418699 }'s maps were in a league of their own regarding playability, so I spent a long time learning from him. Finally, in 2019, I integrated ::rustbell::{ user-id=227717 }'s rigid, high-difficulty expression. Since then, it's been about fine-tuning that 2019 version (e.g., mimicking ::Kencho::{ user-id=3178411 }'s flow or studying various old maps), though my energy has shifted toward my career. It took me seven years to finally feel satisfied with my own mapping.
   
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10562853" style="background-image: url('/wiki/shared/avatars/seros.jpg')"></a>
 
@@ -250,7 +250,7 @@ We've also seen many new mappers emerge in 2025. Who do you think is the most pr
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/1343783">pw384</a></p>
 
-I would venture to say that [WhiteCookies](https://osu.ppy.sh/users/13617153) is the most impressive new mapper in 2025, and highly recommend you to take a look at his 1st ranked map — an extremely well-structured one with simple visuals but dedicated flow design. I am pretty sure it would be such an impossible achievement without his excellent playing skills. It is an honor for me to be one of the nominators.
+I would venture to say that ::WhiteCookies::{ user-id=13617153 } is the most impressive new mapper in 2025, and highly recommend you to take a look at his 1st ranked map — an extremely well-structured one with simple visuals but dedicated flow design. I am pretty sure it would be such an impossible achievement without his excellent playing skills. It is an honor for me to be one of the nominators.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1243669" style="background-image: url('/wiki/shared/avatars/yf_bmp.jpg')"></a>
 
@@ -276,7 +276,7 @@ I look forward to seeing more mappers step outside their comfort zones to explor
 
 What I look forward to most is the rise of a new generation. As someone you consider a "pillar", what I truly hope for is to see newcomers charging forward and eventually taking over the torch — I don't want to see a stagnant pool.
 
-Beyond hard work and skill, one crucial piece of advice: Utilize your resources and networks. Socializing and connecting are a prerequisite; building in isolation is not the way. The older generation shouldn't be the ones leading you; instead, you should be brave enough to step forward. When you need a hand, ask us for a boost, then keep pushing ahead. Furthermore, look beyond just mapping — specialize in other areas too. Whether it's Hitsounding (like [TtmnZk](https://osu.ppy.sh/users/2495509)), Storyboard (which is in high demand but has few specialists), becoming a NAT, or even a Developer (a role I am currently transitioning into).
+Beyond hard work and skill, one crucial piece of advice: Utilize your resources and networks. Socializing and connecting are a prerequisite; building in isolation is not the way. The older generation shouldn't be the ones leading you; instead, you should be brave enough to step forward. When you need a hand, ask us for a boost, then keep pushing ahead. Furthermore, look beyond just mapping — specialize in other areas too. Whether it's Hitsounding (like ::TtmnZk::{ user-id=2495509 }), Storyboard (which is in high demand but has few specialists), becoming a NAT, or even a Developer (a role I am currently transitioning into).
 
 But remember: The path is yours to walk. Be yourself. Don't change your beliefs just because of what I've said. The "community" is not a mandatory mission — you can stay independent from any circle and still be your most brilliant self.
 
@@ -288,7 +288,7 @@ But remember: The path is yours to walk. Be yourself. Don't change your beliefs 
 
 ![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/crystal.png)
 
-Within the Chinese-speaking scene, [Crystal](https://osu.ppy.sh/users/1646397) is a symbol of resilience. A mainstay of the Chinese OWC roster since 2016, his decade-long consistency has made him a living legend for local players across multiple generations.
+Within the Chinese-speaking scene, ::Crystal::{ user-id=1646397 } is a symbol of resilience. A mainstay of the Chinese OWC roster since 2016, his decade-long consistency has made him a living legend for local players across multiple generations.
 
 <div class="news-chat-quote__text-container">
 
@@ -316,7 +316,7 @@ But one thing I am certain of: when the team really needs us, we veterans will d
 
 ![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/sakura.png)
 
-A talented Chinese designer, [Sakura006](https://osu.ppy.sh/users/10365024) serves as the Lead for the World Cup Design Team. His work on osu! originals and major tournaments has significantly enriched the visual experience for players worldwide.
+A talented Chinese designer, ::Sakura006::{ user-id=10365024 } serves as the Lead for the World Cup Design Team. His work on osu! originals and major tournaments has significantly enriched the visual experience for players worldwide.
 
 <div class="news-chat-quote__text-container">
 
@@ -340,7 +340,7 @@ This year we're hoping to organise more collaborations at larger scales to prese
 
 ![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/imochiv.png)
 
-[Imokora](https://osu.ppy.sh/users/2472609) and [chiv](https://osu.ppy.sh/users/6701656) are key staff members who provide the backbone for the tournament scene. Imokora is a tireless pillar within the Chinese-speaking community, while chiv serves as a vital bridge, lending his international expertise to support and elevate local tournaments.
+::Imokora::{ user-id=2472609 } and [chiv](https://osu.ppy.sh/users/6701656) are key staff members who provide the backbone for the tournament scene. Imokora is a tireless pillar within the Chinese-speaking community, while chiv serves as a vital bridge, lending his international expertise to support and elevate local tournaments.
 
 <div class="news-chat-quote__text-container">
 
@@ -377,7 +377,7 @@ The contrast between international tournaments and Chinese region-locked ones sh
 
 There are also several figureheads in the Chinese community who've set a strong standard for respect and quality through their dedication and professionalism. The lolol squad and Crystal have built a long-standing tournament presence that continues to shape the scene. 
 
-At the same time, many mappers help support and elevate the community, including [Chaoslitz](https://osu.ppy.sh/users/3621552), [Garden](https://osu.ppy.sh/users/2849992), and [Ryuusei Aika](https://osu.ppy.sh/users/7777875). Organisers like [FcEazy](https://osu.ppy.sh/users/7825227) and [Sakura006](https://osu.ppy.sh/users/10365024) also set a gold standard for tournament organisation. With so many people pushing things forward, it's no surprise to see the bar being raised with every experience.
+At the same time, many mappers help support and elevate the community, including ::Chaoslitz::{ user-id=3621552 }, [Garden](https://osu.ppy.sh/users/2849992), and ::Ryuusei Aika::{ user-id=7777875 }. Organisers like ::FcEazy::{ user-id=7825227 } and [Sakura006](https://osu.ppy.sh/users/10365024) also set a gold standard for tournament organisation. With so many people pushing things forward, it's no surprise to see the bar being raised with every experience.
   
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7825227" style="background-image: url('/wiki/shared/avatars/FcEazy.jpg')"></a>
 

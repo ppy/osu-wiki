@@ -19,7 +19,7 @@ We managed to snag **all 6** of their currently released songs, each with a slig
 
 ### 2019 Guy
 
-Check out [this mapset](https://osu.ppy.sh/beatmapsets/1080671) by [-Keitaro](https://osu.ppy.sh/users/3378391)!
+Check out [this mapset](https://osu.ppy.sh/beatmapsets/1080671) by ::-Keitaro::{ user-id=3378391 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/142/2019%20Guy/The%20Gentle%20Men%20-%202019%20Guy.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this mapset](https://osu.ppy.sh/beatmapsets/1080671) by [-Keitaro](ht
 
 ### 2004 Breakup
 
-Or check out [this mapset](https://osu.ppy.sh/beatmapsets/1275814) by [Mimari](https://osu.ppy.sh/users/14339830)!
+Or check out [this mapset](https://osu.ppy.sh/beatmapsets/1275814) by ::Mimari::{ user-id=14339830 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/142/2004%20Breakup/The%20Gentle%20Men%20-%202004%20Breakup.mp3" type="audio/mpeg">

@@ -23,7 +23,7 @@ Experience **WINTERHORDE**'s sound for yourself:
 
 ### WINTERHORDE - Worms of Soul
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1724057) hosted by [kiwies](https://osu.ppy.sh/users/12927633)!
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1724057) hosted by ::kiwies::{ user-id=12927633 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/337/Maestro/Winterhorde%20-%20Worms%20of%20Soul.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1724057)
 
 ### WINTERHORDE - Chronic Death
 
-Or try [this other ultra difficult marathon](https://osu.ppy.sh/beatmapsets/1699956) hosted by [iamtickrate](https://osu.ppy.sh/users/10772580)!
+Or try [this other ultra difficult marathon](https://osu.ppy.sh/beatmapsets/1699956) hosted by ::iamtickrate::{ user-id=10772580 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/337/Maestro/Winterhorde%20-%20Chronic%20Death.mp3" type="audio/mpeg">

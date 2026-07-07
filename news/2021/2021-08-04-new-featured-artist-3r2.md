@@ -25,10 +25,10 @@ Need a taste of **3R2**'s talent? Take a lick of [*DJ Mashiro - Prismatic Lollip
 
 Check out any of these awesome maps:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/179288) hosted by [ZLOdeuka-](https://osu.ppy.sh/users/120823) from the video above
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/69308) hosted by [kanpakyin](https://osu.ppy.sh/users/394326)
+- [osu! map](https://osu.ppy.sh/beatmapsets/179288) hosted by ::ZLOdeuka-::{ user-id=120823 } from the video above
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/69308) hosted by ::kanpakyin::{ user-id=394326 }
 - [osu!mania map](https://osu.ppy.sh/beatmapsets/317255) hosted by [Shinzo-](https://osu.ppy.sh/beatmapsets/317255)
-- [osu!taiko AND osu!mania hybrid map](https://osu.ppy.sh/beatmapsets/120289) hosted by [\[Emiria\]](https://osu.ppy.sh/users/2046044) (previously known as victoria_db)
+- [osu!taiko AND osu!mania hybrid map](https://osu.ppy.sh/beatmapsets/120289) hosted by ::\[Emiria\]::{ user-id=2046044 } (previously known as victoria_db)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/187/DJ%20Mashiro%20archive/DJ%20Mashiro%20-%20Prismatic%20Lollipops.mp3" type="audio/mpeg">

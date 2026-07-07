@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2019 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2019** (***RDOC 2019***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) and ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048). It was the fifth instalment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2019** (***RDOC 2019***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: ::Pennek::{ user-id=3723742 } and ::{ flag=DK }:: ::MadX::{ user-id=3295048 }. It was the fifth instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -39,14 +39,14 @@ The Royal Danish osu!Cup 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
-| Mappool selector | ::{ flag=ES }:: [CapoeiraDoMorte](https://osu.ppy.sh/users/6141330), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
-| Referee | ::{ flag=MX }:: [Baskest](https://osu.ppy.sh/users/3963408), ::{ flag=DK }:: [Captain](https://osu.ppy.sh/users/2563435), ::{ flag=DK }:: [I eat ass 47](https://osu.ppy.sh/users/5323224), ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048), ::{ flag=DK }:: [MASQQ](https://osu.ppy.sh/users/5351497), ::{ flag=US }:: [moss-](https://osu.ppy.sh/users/9918921), ::{ flag=DK }:: [My Aim Zogs](https://osu.ppy.sh/users/3722715), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742), ::{ flag=DK }:: [Power Supply](https://osu.ppy.sh/users/7091513) |
-| Streamer | ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048), ::{ flag=DK }:: [My Aim Zogs](https://osu.ppy.sh/users/3722715), ::{ flag=DK }:: [Power Supply](https://osu.ppy.sh/users/7091513), ::{ flag=DK }:: [Tenaxzity](https://osu.ppy.sh/users/7395529) |
-| Commentator | ::{ flag=DK }:: [ADanishWaffle](https://osu.ppy.sh/users/8117977), ::{ flag=DK }:: [Arche-](https://osu.ppy.sh/users/2143311), ::{ flag=MX }:: [Baskest](https://osu.ppy.sh/users/3963408), ::{ flag=DK }:: [Chrv123](https://osu.ppy.sh/users/9125328), ::{ flag=IE }:: [ez sucks](https://osu.ppy.sh/users/13681283), ::{ flag=DK }:: [Haikuna](https://osu.ppy.sh/users/3786974), ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742), ::{ flag=DK }:: [Peperonni](https://osu.ppy.sh/users/7392020), ::{ flag=DK }:: [PolleSving](https://osu.ppy.sh/users/13218204), ::{ flag=DK }:: [Power Supply](https://osu.ppy.sh/users/7091513), ::{ flag=DK }:: [Tenaxzity](https://osu.ppy.sh/users/7395529), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048), ::{ flag=DK }:: [Vitalia](https://osu.ppy.sh/users/9450032), ::{ flag=DK }:: [Zakura](https://osu.ppy.sh/users/3053599) |
-| Designer | ::{ flag=FI }:: [Micro](https://osu.ppy.sh/users/4801080), ::{ flag=BR }:: [Hana Fubuki](https://osu.ppy.sh/users/4761039) |
-| Wiki editor | ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
-| Donator | ::{ flag=DK }:: [MadX](https://osu.ppy.sh/users/3295048), ::{ flag=DK }:: [Pennek](https://osu.ppy.sh/users/3723742) |
+| Manager | ::{ flag=DK }:: ::MadX::{ user-id=3295048 }, ::{ flag=DK }:: ::Pennek::{ user-id=3723742 } |
+| Mappool selector | ::{ flag=ES }:: ::CapoeiraDoMorte::{ user-id=6141330 }, ::{ flag=BR }:: ::Dada::{ user-id=9119507 }, ::{ flag=DK }:: ::Pennek::{ user-id=3723742 } |
+| Referee | ::{ flag=MX }:: ::Baskest::{ user-id=3963408 }, ::{ flag=DK }:: ::Captain::{ user-id=2563435 }, ::{ flag=DK }:: ::I eat ass 47::{ user-id=5323224 }, ::{ flag=DK }:: ::MadX::{ user-id=3295048 }, ::{ flag=DK }:: ::MASQQ::{ user-id=5351497 }, ::{ flag=US }:: ::moss-::{ user-id=9918921 }, ::{ flag=DK }:: ::My Aim Zogs::{ user-id=3722715 }, ::{ flag=DK }:: ::Pennek::{ user-id=3723742 }, ::{ flag=DK }:: ::Power Supply::{ user-id=7091513 } |
+| Streamer | ::{ flag=DK }:: ::MadX::{ user-id=3295048 }, ::{ flag=DK }:: ::My Aim Zogs::{ user-id=3722715 }, ::{ flag=DK }:: ::Power Supply::{ user-id=7091513 }, ::{ flag=DK }:: ::Tenaxzity::{ user-id=7395529 } |
+| Commentator | ::{ flag=DK }:: ::ADanishWaffle::{ user-id=8117977 }, ::{ flag=DK }:: ::Arche-::{ user-id=2143311 }, ::{ flag=MX }:: ::Baskest::{ user-id=3963408 }, ::{ flag=DK }:: ::Chrv123::{ user-id=9125328 }, ::{ flag=IE }:: ::ez sucks::{ user-id=13681283 }, ::{ flag=DK }:: ::Haikuna::{ user-id=3786974 }, ::{ flag=DK }:: ::MadX::{ user-id=3295048 }, ::{ flag=DK }:: ::Pennek::{ user-id=3723742 }, ::{ flag=DK }:: ::Peperonni::{ user-id=7392020 }, ::{ flag=DK }:: ::PolleSving::{ user-id=13218204 }, ::{ flag=DK }:: ::Power Supply::{ user-id=7091513 }, ::{ flag=DK }:: ::Tenaxzity::{ user-id=7395529 }, ::{ flag=AR }:: ::Vaf::{ user-id=12589048 }, ::{ flag=DK }:: ::Vitalia::{ user-id=9450032 }, ::{ flag=DK }:: ::Zakura::{ user-id=3053599 } |
+| Designer | ::{ flag=FI }:: ::Micro::{ user-id=4801080 }, ::{ flag=BR }:: ::Hana Fubuki::{ user-id=4761039 } |
+| Wiki editor | ::{ flag=DK }:: ::Pennek::{ user-id=3723742 } |
+| Donator | ::{ flag=DK }:: ::MadX::{ user-id=3295048 }, ::{ flag=DK }:: ::Pennek::{ user-id=3723742 } |
 
 ## Links
 
@@ -60,37 +60,37 @@ The Royal Danish osu!Cup 2019 was run by various community members.
 
 | Seed | Player | Qualifier score |
 | --: | :-- | --: |
-| #1 | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) | 9820452 |
-| #2 | ::{ flag=DK }:: [Tikzyy](https://osu.ppy.sh/users/11380904) | 8740290 |
-| #3 | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) | 8700974 |
-| #4 | ::{ flag=DK }:: [Pablohh](https://osu.ppy.sh/users/10092099) | 8624235 |
-| #5 | ::{ flag=DK }:: [Arche-](https://osu.ppy.sh/users/2143311) | 8489990 |
-| #6 | ::{ flag=DK }:: [teamplayer51](https://osu.ppy.sh/users/3084508) | 8014969 |
-| #7 | ::{ flag=DK }:: [OwOMarco](https://osu.ppy.sh/users/10650901) | 7987699 |
-| #8 | ::{ flag=DK }:: [Contaminate](https://osu.ppy.sh/users/4694589) | 7673671 |
-| #9 | ::{ flag=DK }:: [Tmunken](https://osu.ppy.sh/users/5176984) | 7157621 |
-| #10 | ::{ flag=DK }:: [Pallerik](https://osu.ppy.sh/users/9303652) | 6918882 |
-| #11 | ::{ flag=DK }:: [Lothjon](https://osu.ppy.sh/users/7369323) | 6865290 |
-| #12 | ::{ flag=DK }:: [Tenaxzity](https://osu.ppy.sh/users/7395529) | 6724674 |
-| #13 | ::{ flag=DK }:: [Malach](https://osu.ppy.sh/users/9364696) | 6506580 |
-| #14 | ::{ flag=DK }:: [Zakura](https://osu.ppy.sh/users/3053599) | 6251613 |
-| #15 | ::{ flag=DK }:: [Drayko](https://osu.ppy.sh/users/11485703) | 5975658 |
-| #16 | ::{ flag=DK }:: [Arild](https://osu.ppy.sh/users/3089925) | 5615289 |
-| #17 | ::{ flag=DK }:: [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) | 5234905 |
-| #18 | ::{ flag=DK }:: [Micropose](https://osu.ppy.sh/users/11140740) | 4973815 |
-| #19 | ::{ flag=DK }:: [Haikuna](https://osu.ppy.sh/users/3786974) | 4795629 |
-| #20 | ::{ flag=DK }:: [Sagon](https://osu.ppy.sh/users/11775933) | 4724424 |
-| #21 | ::{ flag=DK }:: [FeelDaTonneh](https://osu.ppy.sh/users/4348782) | 4627355 |
-| #22 | ::{ flag=DK }:: [PolleSving](https://osu.ppy.sh/users/13218204) | 4537748 |
-| #23 | ::{ flag=DK }:: [Decrescendo](https://osu.ppy.sh/users/12900042) | 3576566 |
-| #24 | ::{ flag=DK }:: [kim1998](https://osu.ppy.sh/users/14599636) | 3519075 |
-| #25 | ::{ flag=DK }:: [Cittasnaf](https://osu.ppy.sh/users/13347734) | 3417555 |
-| #26 | ::{ flag=DK }:: [Morrighan](https://osu.ppy.sh/users/12042090) | 3378902 |
-| #27 | ::{ flag=DK }:: [Tr0nixCS](https://osu.ppy.sh/users/6734261) | 3130951 |
-| #28 | ::{ flag=DK }:: [Dralle](https://osu.ppy.sh/users/12380988) | 2620366 |
-| #29 | ::{ flag=DK }:: [NoSync](https://osu.ppy.sh/users/8634493) | 1782055 |
-| #30 | ::{ flag=DK }:: [Slayco](https://osu.ppy.sh/users/9449330) | 1284564 |
-| #31 | ::{ flag=DK }:: [Liquidminds](https://osu.ppy.sh/users/13438435) | 751992 |
+| #1 | ::{ flag=DK }:: ::Spork Lover::{ user-id=3417469 } | 9820452 |
+| #2 | ::{ flag=DK }:: ::Tikzyy::{ user-id=11380904 } | 8740290 |
+| #3 | ::{ flag=DK }:: ::Vandabe::{ user-id=7050754 } | 8700974 |
+| #4 | ::{ flag=DK }:: ::Pablohh::{ user-id=10092099 } | 8624235 |
+| #5 | ::{ flag=DK }:: ::Arche-::{ user-id=2143311 } | 8489990 |
+| #6 | ::{ flag=DK }:: ::teamplayer51::{ user-id=3084508 } | 8014969 |
+| #7 | ::{ flag=DK }:: ::OwOMarco::{ user-id=10650901 } | 7987699 |
+| #8 | ::{ flag=DK }:: ::Contaminate::{ user-id=4694589 } | 7673671 |
+| #9 | ::{ flag=DK }:: ::Tmunken::{ user-id=5176984 } | 7157621 |
+| #10 | ::{ flag=DK }:: ::Pallerik::{ user-id=9303652 } | 6918882 |
+| #11 | ::{ flag=DK }:: ::Lothjon::{ user-id=7369323 } | 6865290 |
+| #12 | ::{ flag=DK }:: ::Tenaxzity::{ user-id=7395529 } | 6724674 |
+| #13 | ::{ flag=DK }:: ::Malach::{ user-id=9364696 } | 6506580 |
+| #14 | ::{ flag=DK }:: ::Zakura::{ user-id=3053599 } | 6251613 |
+| #15 | ::{ flag=DK }:: ::Drayko::{ user-id=11485703 } | 5975658 |
+| #16 | ::{ flag=DK }:: ::Arild::{ user-id=3089925 } | 5615289 |
+| #17 | ::{ flag=DK }:: ::\[THEDUCK\]::{ user-id=6080866 } | 5234905 |
+| #18 | ::{ flag=DK }:: ::Micropose::{ user-id=11140740 } | 4973815 |
+| #19 | ::{ flag=DK }:: ::Haikuna::{ user-id=3786974 } | 4795629 |
+| #20 | ::{ flag=DK }:: ::Sagon::{ user-id=11775933 } | 4724424 |
+| #21 | ::{ flag=DK }:: ::FeelDaTonneh::{ user-id=4348782 } | 4627355 |
+| #22 | ::{ flag=DK }:: ::PolleSving::{ user-id=13218204 } | 4537748 |
+| #23 | ::{ flag=DK }:: ::Decrescendo::{ user-id=12900042 } | 3576566 |
+| #24 | ::{ flag=DK }:: ::kim1998::{ user-id=14599636 } | 3519075 |
+| #25 | ::{ flag=DK }:: ::Cittasnaf::{ user-id=13347734 } | 3417555 |
+| #26 | ::{ flag=DK }:: ::Morrighan::{ user-id=12042090 } | 3378902 |
+| #27 | ::{ flag=DK }:: ::Tr0nixCS::{ user-id=6734261 } | 3130951 |
+| #28 | ::{ flag=DK }:: ::Dralle::{ user-id=12380988 } | 2620366 |
+| #29 | ::{ flag=DK }:: ::NoSync::{ user-id=8634493 } | 1782055 |
+| #30 | ::{ flag=DK }:: ::Slayco::{ user-id=9449330 } | 1284564 |
+| #31 | ::{ flag=DK }:: ::Liquidminds::{ user-id=13438435 } | 751992 |
 
 Due to 6 no-shows in Qualifiers, only 31 players participated in the tournament. The #1 seed was given a bye into Round of 16 to make brackets work.
 
@@ -100,9 +100,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: [Tikzyy](https://osu.ppy.sh/users/11380904) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: ::Spork Lover::{ user-id=3417469 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: ::Vandabe::{ user-id=7050754 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: ::Tikzyy::{ user-id=11380904 } |
 
 ## Mappools
 

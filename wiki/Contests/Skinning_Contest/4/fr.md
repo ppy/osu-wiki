@@ -12,7 +12,7 @@ tags:
 
 Le **Skinning Contest #4: Icons of an Era** est un concours de skinning osu! à participation libre organisé par [skinship](https://skinship.xyz), l'une des plus grandes communautés de skinning sur osu!. C'est le quatrième concours officiel de skinning d'osu!.
 
-La bannière ci-dessus représente la contribution de [Kleinne Lui](https://osu.ppy.sh/users/27725651) au concours artistique [Journey into a Beatmap World](https://osu.ppy.sh/community/contests/175).
+La bannière ci-dessus représente la contribution de ::Kleinne Lui::{ user-id=27725651 } au concours artistique [Journey into a Beatmap World](https://osu.ppy.sh/community/contests/175).
 
 ## Calendrier du concours
 
@@ -39,15 +39,15 @@ Le Skinning Contest #4 est organisé par différents membres de la communauté.
 
 | Utilisateur | Responsabilité |
 | :-- | :-- |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Rédacteur de news |
-| ::{ flag=DE }:: [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Planification du concours |
-| ::{ flag=RO }:: [Matt2e2](https://osu.ppy.sh/users/12144912) | Planification du concours |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Planification du concours, développement d'outils internes |
-| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Planification du concours, examen des soumissions |
-| ::{ flag=GB }:: [tetsui](https://osu.ppy.sh/users/10974678) | Planification du concours |
-| ::{ flag=NL }:: [vvivi](https://osu.ppy.sh/users/10432755) | Planification du concours |
-| ::{ flag=PL }:: [watterino](https://osu.ppy.sh/users/3512261) | Éditeur vidéo |
-| ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) | Planification du concours |
+| ::{ flag=RS }:: ::0x84f::{ user-id=7944724 } | Rédacteur de news |
+| ::{ flag=DE }:: ::Master-TigerKun::{ user-id=10688456 } | Planification du concours |
+| ::{ flag=RO }:: ::Matt2e2::{ user-id=12144912 } | Planification du concours |
+| ::{ flag=NL }:: ::Roan::{ user-id=8214639 } | Planification du concours, développement d'outils internes |
+| ::{ flag=DE }:: ::RockRoller::{ user-id=8388854 } | Planification du concours, examen des soumissions |
+| ::{ flag=GB }:: ::tetsui::{ user-id=10974678 } | Planification du concours |
+| ::{ flag=NL }:: ::vvivi::{ user-id=10432755 } | Planification du concours |
+| ::{ flag=PL }:: ::watterino::{ user-id=3512261 } | Éditeur vidéo |
+| ::{ flag=TR }:: ::Zeus-::{ user-id=5464437 } | Planification du concours |
 
 ## Liens
 
@@ -64,22 +64,22 @@ Le Skinning Contest #4 est organisé par différents membres de la communauté.
 
 | Skinner | Entrée |
 | :-- | :-- |
-| ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037) | [FOOL MOON NIGHT](https://osu.ppy.sh/community/forums/topics/1775136) |
-| ::{ flag=PE }:: [Meowscarada](https://osu.ppy.sh/users/25025133) | [Decaplets](https://osu.ppy.sh/community/forums/topics/1775463) |
-| ::{ flag=AU }:: [Saow](https://osu.ppy.sh/users/9782756) | [KEMOMINI EDM SQUAD](https://osu.ppy.sh/community/forums/topics/1791845) |
-| ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | [Chirou](https://osu.ppy.sh/community/forums/topics/1792370) |
-| ::{ flag=US }:: [Chromasia](https://osu.ppy.sh/users/7306251) | [Everlasting Moment](https://osu.ppy.sh/community/forums/topics/1792308) |
-| ::{ flag=VN }:: [koomo](https://osu.ppy.sh/users/2168518) | [Granat (GRIS II)](https://osu.ppy.sh/community/forums/topics/1792512) |
-| ::{ flag=VN }:: [Ben_5917](https://osu.ppy.sh/users/6026593) | [Kuro](https://osu.ppy.sh/community/forums/topics/1792854) |
-| ::{ flag=MX }:: [XetThe](https://osu.ppy.sh/users/16274977) | [Artifact](https://osu.ppy.sh/community/forums/topics/1792809) |
-| ::{ flag=US }:: [[LS]Glaxes](https://osu.ppy.sh/users/14444595) | [Rockefeller](https://osu.ppy.sh/community/forums/topics/1792911) |
-| ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [QUAVER: DIVIDE BY 8](https://osu.ppy.sh/community/forums/topics/1792739) |
-| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | [Taikonator](https://osu.ppy.sh/community/forums/topics/1792655) |
-| ::{ flag=RU }:: [TogiraW](https://osu.ppy.sh/users/20149300) | [Verflucht](https://osu.ppy.sh/community/forums/topics/1792572) |
-| ::{ flag=TR }:: [BatuhanYtho](https://osu.ppy.sh/users/12091015) | [Night of Knights](https://osu.ppy.sh/community/forums/topics/1792553) |
-| ::{ flag=US }:: [Syvatzia](https://osu.ppy.sh/users/19082107) | [We Kicked a Kid (United)](https://osu.ppy.sh/community/forums/topics/1792954) |
-| ::{ flag=PE }:: [- Koshiin -](https://osu.ppy.sh/users/19135423) | [Bring it on!!](https://osu.ppy.sh/community/forums/topics/1792821) |
-| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | [Ghost Rule](https://osu.ppy.sh/community/forums/topics/1792933) |
+| ::{ flag=US }:: ::Spoo::{ user-id=11805037 } | [FOOL MOON NIGHT](https://osu.ppy.sh/community/forums/topics/1775136) |
+| ::{ flag=PE }:: ::Meowscarada::{ user-id=25025133 } | [Decaplets](https://osu.ppy.sh/community/forums/topics/1775463) |
+| ::{ flag=AU }:: ::Saow::{ user-id=9782756 } | [KEMOMINI EDM SQUAD](https://osu.ppy.sh/community/forums/topics/1791845) |
+| ::{ flag=ID }:: ::ArchieA7::{ user-id=7087699 } | [Chirou](https://osu.ppy.sh/community/forums/topics/1792370) |
+| ::{ flag=US }:: ::Chromasia::{ user-id=7306251 } | [Everlasting Moment](https://osu.ppy.sh/community/forums/topics/1792308) |
+| ::{ flag=VN }:: ::koomo::{ user-id=2168518 } | [Granat (GRIS II)](https://osu.ppy.sh/community/forums/topics/1792512) |
+| ::{ flag=VN }:: ::Ben\15917::{ user-id=6026593 } | [Kuro](https://osu.ppy.sh/community/forums/topics/1792854) |
+| ::{ flag=MX }:: ::XetThe::{ user-id=16274977 } | [Artifact](https://osu.ppy.sh/community/forums/topics/1792809) |
+| ::{ flag=US }:: ::\1LS\1Glaxes::{ user-id=14444595 } | [Rockefeller](https://osu.ppy.sh/community/forums/topics/1792911) |
+| ::{ flag=BY }:: ::thetasigma::{ user-id=6234482 } | [QUAVER: DIVIDE BY 8](https://osu.ppy.sh/community/forums/topics/1792739) |
+| ::{ flag=GB }:: ::chromb::{ user-id=10238680 } | [Taikonator](https://osu.ppy.sh/community/forums/topics/1792655) |
+| ::{ flag=RU }:: ::TogiraW::{ user-id=20149300 } | [Verflucht](https://osu.ppy.sh/community/forums/topics/1792572) |
+| ::{ flag=TR }:: ::BatuhanYtho::{ user-id=12091015 } | [Night of Knights](https://osu.ppy.sh/community/forums/topics/1792553) |
+| ::{ flag=US }:: ::Syvatzia::{ user-id=19082107 } | [We Kicked a Kid (United)](https://osu.ppy.sh/community/forums/topics/1792954) |
+| ::{ flag=PE }:: ::- Koshiin -::{ user-id=19135423 } | [Bring it on!!](https://osu.ppy.sh/community/forums/topics/1792821) |
+| ::{ flag=PL }:: ::Redo\1::{ user-id=7122165 } | [Ghost Rule](https://osu.ppy.sh/community/forums/topics/1792933) |
 
 ## Podium
 

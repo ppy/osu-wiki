@@ -23,7 +23,7 @@ A breath of fresh air in the rhythm game world, **Yunosuke** is a VOCALOID EDM p
 
 ### Spiral
 
-Play through [the cleanest beatmap of 2021](https://osu.ppy.sh/beatmapsets/1287115) hosted by [Axaptice](https://osu.ppy.sh/users/4395077) and seen in the video above!
+Play through [the cleanest beatmap of 2021](https://osu.ppy.sh/beatmapsets/1287115) hosted by ::Axaptice::{ user-id=4395077 } and seen in the video above!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/244/Spiral/Yunosuke%20-%20Spiral.mp3" type="audio/mpeg">

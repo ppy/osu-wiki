@@ -23,7 +23,7 @@ Turn on your subwoofer:
 
 ### Billx - Equinox
 
-Play [the map from the video above](https://osu.ppy.sh/beatmapsets/692910) hosted by [Janko](https://osu.ppy.sh/users/2424823)!
+Play [the map from the video above](https://osu.ppy.sh/beatmapsets/692910) hosted by ::Janko::{ user-id=2424823 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/417/Songs/Billx%20-%20Equinox.mp3">
@@ -31,7 +31,7 @@ Play [the map from the video above](https://osu.ppy.sh/beatmapsets/692910) hoste
 
 ### Billx - Punishment (Dustvoxx Remix)
 
-Choose from 4K or 7K in [this map](https://osu.ppy.sh/beatmapsets/1000065) hosted by [\_underjoy](https://osu.ppy.sh/users/2235750)!
+Choose from 4K or 7K in [this map](https://osu.ppy.sh/beatmapsets/1000065) hosted by ::\_underjoy::{ user-id=2235750 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/417/Songs/Billx%20-%20Punishment%20(Dustvoxx%20Remix).mp3">

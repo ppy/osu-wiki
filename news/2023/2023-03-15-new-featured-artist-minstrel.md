@@ -25,11 +25,11 @@ See what the hype's about for yourself:
 
 Check out any of these maps:
 
-- [The map that introduced **Minstrel** to osu!](https://osu.ppy.sh/beatmapsets/236396) hosted by [Kyubey](https://osu.ppy.sh/users/2195646)
-- [osu! difficulty spread](https://osu.ppy.sh/beatmapsets/1900605) hosted by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- [Another osu! difficulty spread](https://osu.ppy.sh/beatmapsets/1907639) hosted by [Luscent](https://osu.ppy.sh/users/2688581)
-- [Loved osu! map](https://osu.ppy.sh/beatmapsets/322808) by [Ekoro](https://osu.ppy.sh/users/284905)
-- [Loved osu!catch map](https://osu.ppy.sh/beatmapsets/528694) by [Kyptoric](https://osu.ppy.sh/users/1361268)
+- [The map that introduced **Minstrel** to osu!](https://osu.ppy.sh/beatmapsets/236396) hosted by ::Kyubey::{ user-id=2195646 }
+- [osu! difficulty spread](https://osu.ppy.sh/beatmapsets/1900605) hosted by ::Ryuusei Aika::{ user-id=7777875 }
+- [Another osu! difficulty spread](https://osu.ppy.sh/beatmapsets/1907639) hosted by ::Luscent::{ user-id=2688581 }
+- [Loved osu! map](https://osu.ppy.sh/beatmapsets/322808) by ::Ekoro::{ user-id=284905 }
+- [Loved osu!catch map](https://osu.ppy.sh/beatmapsets/528694) by ::Kyptoric::{ user-id=1361268 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/349/Yotogibanashi%20no%20Kamikakushi%2FMinstrel%20-%20Yotogibanashi%20no%20Kamikakushi.mp3">
@@ -37,7 +37,7 @@ Check out any of these maps:
 
 ### Minstrel - Fiction
 
-Play through [this very real beatmap](https://osu.ppy.sh/beatmapsets/1085793) hosted by [Shoenen](https://osu.ppy.sh/users/6404824)!
+Play through [this very real beatmap](https://osu.ppy.sh/beatmapsets/1085793) hosted by ::Shoenen::{ user-id=6404824 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/349/recollection/Minstrel%20-%20Fiction.mp3">
@@ -45,7 +45,7 @@ Play through [this very real beatmap](https://osu.ppy.sh/beatmapsets/1085793) ho
 
 ### Minstrel - Cinderella Cage \~Falling in Love Again\~
 
-Or try [this map from the video above](https://osu.ppy.sh/beatmapsets/1909142) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302)!
+Or try [this map from the video above](https://osu.ppy.sh/beatmapsets/1909142) hosted by ::SMOKELIND::{ user-id=9327302 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/349/Hopeless%20Desire%2FMinstrel%20-%20Cinderella%20Cage%20~Falling%20in%20Love%20Again~.mp3">
@@ -53,7 +53,7 @@ Or try [this map from the video above](https://osu.ppy.sh/beatmapsets/1909142) h
 
 ### Minstrel - futuristic recollection
 
-[This map](https://osu.ppy.sh/beatmapsets/1934280) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323) may be your next favourite map. Do something about that.
+[This map](https://osu.ppy.sh/beatmapsets/1934280) hosted by ::Hinsvar::{ user-id=1249323 } may be your next favourite map. Do something about that.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/349/recollection/Minstrel%20-%20futuristic%20recollection.mp3">

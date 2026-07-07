@@ -9,7 +9,7 @@ Have you ever wondered what's going on inside a score farmer's head? Today's you
 
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/banner.jpg)
 
-osu!catch players, rejoice, as we are releasing an interview with a figure you may know, [Predominador](https://osu.ppy.sh/users/4568537)! There are quite a few reasons you may have heard of them, from their [Beatmap Spotlights](/wiki/Beatmap_Spotlights) participation to reaching insane milestones, such as their recent achievement of attaining 100,000 SS scores!
+osu!catch players, rejoice, as we are releasing an interview with a figure you may know, ::Predominador::{ user-id=4568537 }! There are quite a few reasons you may have heard of them, from their [Beatmap Spotlights](/wiki/Beatmap_Spotlights) participation to reaching insane milestones, such as their recent achievement of attaining 100,000 SS scores!
 
 Read on to learn more about Predominador and their thoughts on some aspects of the game. 👀
 
@@ -96,9 +96,9 @@ Who or what was your main inspiration to keep playing and improve at osu!catch?
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
-This is the classic answer for many players, but [ExGon](https://osu.ppy.sh/users/214187) really inspired me! He was one of the bests in many different "playstyles" of the game, like HDHRDT in AR10 map, FL in hard maps, high CS maps, high star maps, tech maps, and so on. Seeing a player like him being able to be so expert in many different ways inspired me to try my best with many different mod combinations, in different types of maps too! Even though I am not as good as he was, I feel having a "wider" skillset made me reach where I am today, and enjoy different aspects of the game. 
+This is the classic answer for many players, but ::ExGon::{ user-id=214187 } really inspired me! He was one of the bests in many different "playstyles" of the game, like HDHRDT in AR10 map, FL in hard maps, high CS maps, high star maps, tech maps, and so on. Seeing a player like him being able to be so expert in many different ways inspired me to try my best with many different mod combinations, in different types of maps too! Even though I am not as good as he was, I feel having a "wider" skillset made me reach where I am today, and enjoy different aspects of the game. 
 
-Also, more related to SS now, my main inspiration is [syu](https://osu.ppy.sh/users/2400918)! Since way before I was hard grinding to 100k SS, I've seen his pace being VERY consistent, this during months, with some rare days-off, while I was struggling to keep my own pace, with days farming a lot and in the next day(s) farming much less. But seeing him doing his best also inspired me to do my best, even through inconsistency! He is really a legend, very good player in many aspects too, and I am willing to see him reaching 100k in a soon future!
+Also, more related to SS now, my main inspiration is ::syu::{ user-id=2400918 }! Since way before I was hard grinding to 100k SS, I've seen his pace being VERY consistent, this during months, with some rare days-off, while I was struggling to keep my own pace, with days farming a lot and in the next day(s) farming much less. But seeing him doing his best also inspired me to do my best, even through inconsistency! He is really a legend, very good player in many aspects too, and I am willing to see him reaching 100k in a soon future!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 
@@ -242,11 +242,11 @@ What plays, be they yours or someone else's, do you find the most impressive? If
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/4568537">Predominador</a></p>
 
-[Motion](https://osu.ppy.sh/users/3885626) already mentioned it in [his interview](https://osu.ppy.sh/home/news/2024-08-19-the-followpoint-motion-the-ultimate-catcher), but one of the scores I got most impressed is [Kayano Ai - Oracion (TV Size) \[Crystal's Rain\] +HDHRDT](https://osu.ppy.sh/scores/1930590015), by ExGon. It's one of my favorite scores, because to set a score like this you need to be absurdly great at many different aspects, such as being able to read very high AR (in this case AR11, which is AR10 + DT), having extremely good catch control, much patience, and other things.
+::Motion::{ user-id=3885626 } already mentioned it in [his interview](https://osu.ppy.sh/home/news/2024-08-19-the-followpoint-motion-the-ultimate-catcher), but one of the scores I got most impressed is [Kayano Ai - Oracion (TV Size) \[Crystal's Rain\] +HDHRDT](https://osu.ppy.sh/scores/1930590015), by ExGon. It's one of my favorite scores, because to set a score like this you need to be absurdly great at many different aspects, such as being able to read very high AR (in this case AR11, which is AR10 + DT), having extremely good catch control, much patience, and other things.
 
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/oracion.jpg)
 
-I also want to mention a score from the osu! game mode, which is [Within Temptation - The Unforgiving \[Marathon\] with FL](https://osu.ppy.sh/scores/osu/3549163348), done by [-GN](https://osu.ppy.sh/users/895581). A 53-minute map that is already challenging by itself without any mods, let alone with FL. I even have no words to say how impressive this is! Dedication and patience are the words. Never ever give up.
+I also want to mention a score from the osu! game mode, which is [Within Temptation - The Unforgiving \[Marathon\] with FL](https://osu.ppy.sh/scores/osu/3549163348), done by ::-GN::{ user-id=895581 }. A 53-minute map that is already challenging by itself without any mods, let alone with FL. I even have no words to say how impressive this is! Dedication and patience are the words. Never ever give up.
 
 ![](/wiki/shared/news/2024-10-21-the-followpoint-predominador-the-grandmaster-of-ss-ranks/the_unforgiving.jpg)
 
@@ -266,7 +266,7 @@ If you could choose any osu! player, who would you want to meet IRL the most, an
 
 Wow, I'll be honest that this question is the hardest one for me! I am very shy, so I never thought so much about this. I could mention any of the close friends I have, but that would be way too easy (or too hard, because other friends not mentioned could get sad '-'). 
 
-Anyways, I feel there are many players that would be interesting to meet IRL, I think it one obvious one would be ExGon, because I really admire him and is by far my biggest inspiration to this day! A less obvious one that I'd like to meet one day (and maybe a unexpected one, since he's not from osu!catch world) is [BTMC](https://osu.ppy.sh/users/3171691), since from time to time I enjoy watching his livestreams and YouTube videos and he's a great osu! player. He seems to be really fun! But in both cases, I would barely have the courage to even ask for a photo...
+Anyways, I feel there are many players that would be interesting to meet IRL, I think it one obvious one would be ExGon, because I really admire him and is by far my biggest inspiration to this day! A less obvious one that I'd like to meet one day (and maybe a unexpected one, since he's not from osu!catch world) is ::BTMC::{ user-id=3171691 }, since from time to time I enjoy watching his livestreams and YouTube videos and he's a great osu! player. He seems to be really fun! But in both cases, I would barely have the courage to even ask for a photo...
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18152711" style="background-image: url('/wiki/shared/avatars/MegaMix.jpg')"></a>
 

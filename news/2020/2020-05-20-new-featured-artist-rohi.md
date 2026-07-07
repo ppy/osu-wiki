@@ -9,7 +9,7 @@ We're proud to welcome **Rohi** aboard as our latest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/82/header.jpg)
 
-Another blast from the past, [**Rohi**](https://osu.ppy.sh/beatmaps/artists/82) is a Japanese producer most renowned for his Vocaloid works on *Nico Nico Douga*. Tracks like  *Kakuzetsu Thanatos* and *Kodoku Egoism* were all the rage back in the 2013 days of osu!, with groundbreaking mappers like [NatsumeRin](https://osu.ppy.sh/users/151679) taking his sound and using it to lay a foundation of creative work that would influence hundreds of creators going forward.
+Another blast from the past, [**Rohi**](https://osu.ppy.sh/beatmaps/artists/82) is a Japanese producer most renowned for his Vocaloid works on *Nico Nico Douga*. Tracks like  *Kakuzetsu Thanatos* and *Kodoku Egoism* were all the rage back in the 2013 days of osu!, with groundbreaking mappers like ::NatsumeRin::{ user-id=151679 } taking his sound and using it to lay a foundation of creative work that would influence hundreds of creators going forward.
 
 We've managed to snag **9** historic tracks from **Rohi**'s discography, finally bringing many of these classic maps into the loving embrace of licensed content.
 
@@ -17,7 +17,7 @@ There's still plenty more of **Rohi**'s sound left to discover though, so make s
 
 ### Kakuzetsu Thanatos
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/76396) hosted by [NatsumeRin](https://osu.ppy.sh/users/151679), and [an osu!mania set](https://osu.ppy.sh/beatmapsets/357060) hosted by [_underjoy](https://osu.ppy.sh/users/2235750)!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/76396) hosted by ::NatsumeRin::{ user-id=151679 }, and [an osu!mania set](https://osu.ppy.sh/beatmapsets/357060) hosted by ::\1underjoy::{ user-id=2235750 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/82/previews/2165.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out [this classic set](https://osu.ppy.sh/beatmapsets/76396) hosted by [Na
 
 ### Kodoku Egoism
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/58737) hosted by [NatsumeRin](https://osu.ppy.sh/users/151679)!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/58737) hosted by ::NatsumeRin::{ user-id=151679 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/82/previews/2167.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out [this classic set](https://osu.ppy.sh/beatmapsets/58737) hosted by [Na
 
 ### Kanata ni Mau wa Sakura no Shirabe
 
-Check out [this osu! and osu!taiko set](https://osu.ppy.sh/beatmapsets/93555) hosted by [NatsumeRin](https://osu.ppy.sh/users/151679), and [an osu!taiko set](https://osu.ppy.sh/beatmapsets/111635) by [mintong89](https://osu.ppy.sh/users/966210)!
+Check out [this osu! and osu!taiko set](https://osu.ppy.sh/beatmapsets/93555) hosted by ::NatsumeRin::{ user-id=151679 }, and [an osu!taiko set](https://osu.ppy.sh/beatmapsets/111635) by ::mintong89::{ user-id=966210 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/82/previews/2166.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Check out [this osu! and osu!taiko set](https://osu.ppy.sh/beatmapsets/93555) ho
 
 ### Ichiru no Nozomi yo, Ano Tsuki e Hibike
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/95148) hosted by [pieguy1379](https://osu.ppy.sh/users/107485)!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/95148) hosted by ::pieguy1379::{ user-id=107485 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/82/previews/2164.mp3" type="audio/mpeg">

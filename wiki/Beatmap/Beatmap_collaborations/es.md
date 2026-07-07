@@ -18,8 +18,8 @@ El proceso de mapping generalmente comienza con el [anfitrión del beatmap](/wik
 
 Los mappers completan sus partes colocando [objetos](/wiki/Gameplay/Hit_object), aplicando [hitsounds](/wiki/Beatmapping/Hitsound), usando [puntos de tiempo heredados](/wiki/Client/Beatmap_editor/Timing#puntos-de-tiempo-heredados) cuando sea necesario, para luego devolver su trabajo al anfitrión, quien combina los cambios en una sola dificultad editando cuidadosamente su [archivo `.osu`](/wiki/Client/File_formats/osu_(file_format)).
 
-Aunque los mappers generalmente suelen basarse en las partes ya completadas para que las transiciones de juego sean lo más fluidas posible, existen las llamadas *colaboraciones ciegas* como [Mitose Noriko - Unreal Player](https://osu.ppy.sh/beatmapsets/828563#osu/1735958) organizada por ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515), en la que los mappers no pueden ver las partes del otro hasta que el beatmap esté terminado. En estos casos, se suelen colocar objetos al final de cada sección para indicar desde dónde continuar.
+Aunque los mappers generalmente suelen basarse en las partes ya completadas para que las transiciones de juego sean lo más fluidas posible, existen las llamadas *colaboraciones ciegas* como [Mitose Noriko - Unreal Player](https://osu.ppy.sh/beatmapsets/828563#osu/1735958) organizada por ::{ flag=DE }:: ::Mao::{ user-id=2204515 }, en la que los mappers no pueden ver las partes del otro hasta que el beatmap esté terminado. En estos casos, se suelen colocar objetos al final de cada sección para indicar desde dónde continuar.
 
 ## Notas y referencias
 
-[^name-example]: Por ejemplo, [masazi - mayday B](https://osu.ppy.sh/beatmapsets/74277#osu/233068), un beatmap de [Vass\_Bass](https://osu.ppy.sh/users/188248), tiene una dificultad de colaboración con [Reiji-RJ](https://osu.ppy.sh/users/305389) llamada «Vass-RJ».
+[^name-example]: Por ejemplo, [masazi - mayday B](https://osu.ppy.sh/beatmapsets/74277#osu/233068), un beatmap de ::Vass\_Bass::{ user-id=188248 }, tiene una dificultad de colaboración con ::Reiji-RJ::{ user-id=305389 } llamada «Vass-RJ».

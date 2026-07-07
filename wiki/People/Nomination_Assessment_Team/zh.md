@@ -97,16 +97,16 @@ NAT 会长期关注潜在的候选人。和 BN 的评估方式类似，团队成
 
 当前拥有内部访问权限的前 NAT 成员有：
 
-- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
+- ::{ flag=GB }:: ::AJT::{ user-id=3181083 }
+- ::{ flag=DE }:: ::FuJu::{ user-id=10773882 }
+- ::{ flag=CN }:: ::Ryuusei Aika::{ user-id=7777875 }
+- ::{ flag=BE }:: ::yaspo::{ user-id=4945926 }
 
 ## NAT 领导
 
 自 2023 年 3 月起，NAT 决定重新引入[领导](/wiki/People/Quality_Assurance_Team/QAT_Leaders)职位，该概念曾在[质量保证团队 (QAT)](/wiki/People/Quality_Assurance_Team) 中使用。NAT 领导人肩负评估和组织方面的双重责任，因此他们可以监督并参与 NAT 的各个方面。
 
-现任 NAT 领导人是 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)。
+现任 NAT 领导人是 ::{ flag=TN }:: ::Hivie::{ user-id=14102976 }。
 
 ### 职责
 
@@ -133,49 +133,49 @@ NAT 领导人的职责是：
 
 | 用户名 | 其他语言 |
 | :-- | :-- |
-| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | 意大利语 |
-| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
-| ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | 芬兰语 |
-| ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | 瑞典语 |
-| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | 泰语 |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | 荷兰语 |
-| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | 芬兰语 |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | 汉语 |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | 法语，西班牙语 |
-| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | 汉语 |
-| ::{ flag=RO }:: [bsm](https://osu.ppy.sh/users/12366071) | 罗马尼亚语 |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | 德语 |
+| ::{ flag=IT }:: ::-kevincela-::{ user-id=266596 } | 意大利语 |
+| ::{ flag=US }:: ::-White::{ user-id=16276548 } |  |
+| ::{ flag=FI }:: ::Asphyxia::{ user-id=1715720 } | 芬兰语 |
+| ::{ flag=SE }:: ::byd::{ user-id=6398464 } | 瑞典语 |
+| ::{ flag=TH }:: ::Electoz::{ user-id=6485263 } | 泰语 |
+| ::{ flag=BE }:: ::enneya::{ user-id=10959501 } | 荷兰语 |
+| ::{ flag=FI }:: ::fllecc::{ user-id=14060327 } | 芬兰语 |
+| ::{ flag=CA }:: ::Lafayla::{ user-id=5312547 } |  |
+| ::{ flag=CN }:: ::Mafumafu::{ user-id=3076909 } | 汉语 |
+| ::{ flag=KR }:: ::momoyo::{ user-id=12469536 } | 法语，西班牙语 |
+| ::{ flag=TW }:: ::Muchin::{ user-id=9834516 } | 汉语 |
+| ::{ flag=RO }:: ::bsm::{ user-id=12366071 } | 罗马尼亚语 |
+| ::{ flag=US }:: ::Noffy::{ user-id=1541323 } |  |
+| ::{ flag=DE }:: ::Okoayu::{ user-id=1623405 } | 德语 |
 
 #### osu!taiko
 
 | 用户名 | 其他语言 |
 | :-- | :-- |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | 汉语 |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | 粤语，汉语 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语 |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 |
-| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，一部分法语 |
+| ::{ flag=SG }:: ::arcpotato::{ user-id=12842392 } | 汉语 |
+| ::{ flag=HK }:: ::BlackBN::{ user-id=6291741 } | 粤语，汉语 |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | 阿拉伯语，法语 |
+| ::{ flag=BR }:: ::Ideal::{ user-id=3869519 } | 葡萄牙语 |
+| ::{ flag=AT }:: ::Yasuho::{ user-id=8458835 } | 德语，一部分法语 |
 
 #### osu!catch
 
 | 用户名 | 其他语言 |
 | :-- | :-- |
-| ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | 德语 |
-| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | 韩语 |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 韩语 |
+| ::{ flag=AT }:: ::Daletto::{ user-id=7592136 } | 德语 |
+| ::{ flag=KR }:: ::Rocma::{ user-id=566276 } | 韩语 |
+| ::{ flag=KR }:: ::Spectator::{ user-id=702598 } | 韩语 |
 
 #### osu!mania
 
 | 用户名 | 其他语言 |
 | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 越南语 |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | 西班牙语 |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | 汉语 |
-| ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | 意大利语 |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 加泰罗尼亚语，西班牙语 |
+| ::{ flag=VN }:: ::Akasha-::{ user-id=2596306 } | 越南语 |
+| ::{ flag=DO }:: ::Antalf::{ user-id=8793773 } | 西班牙语 |
+| ::{ flag=CN }:: ::gzdongsheng::{ user-id=8660315 } | 汉语 |
+| ::{ flag=IT }:: ::Harbyter::{ user-id=1147679 } | 意大利语 |
+| ::{ flag=ID }:: ::Maxus::{ user-id=4335785 } | 印度尼西亚语 |
+| ::{ flag=ES }:: ::RandomeLoL::{ user-id=7080063 } | 加泰罗尼亚语，西班牙语 |
 
 ### 组织
 
@@ -183,18 +183,18 @@ NAT 领导人的职责是：
 
 | 用户名 | 职责 |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 处理内部讨论、事务和文档 |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN 导师制组织 |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) 与 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) 开发 |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN 管理网站](https://bn.mappersguild.com)开发 |
+| ::{ flag=GB }:: ::-Mo-::{ user-id=2202163 } | 处理内部讨论、事务和文档 |
+| ::{ flag=BR }:: ::Dada::{ user-id=9119507 } | BN 导师制组织 |
+| ::{ flag=NL }:: ::Greaper::{ user-id=2369776 } | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) 与 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) 开发 |
+| ::{ flag=US }:: ::pishifat::{ user-id=3178418 } | [BN 管理网站](https://bn.mappersguild.com)开发 |
 
 以下 NAT 成员主要负责评估分类的事项，但也会参与组织分类的事项：
 
 | 用户名 | 职责 |
 | :-- | :-- |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT 领导, [BN 管理网站](https://bn.mappersguild.com)和 [osu!taiko MV 插件](https://github.com/Hiviexd/MVTaikoChecks)开发 |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 处理内容举报，[osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck)开发 |
+| ::{ flag=TN }:: ::Hivie::{ user-id=14102976 } | NAT 领导, [BN 管理网站](https://bn.mappersguild.com)和 [osu!taiko MV 插件](https://github.com/Hiviexd/MVTaikoChecks)开发 |
+| ::{ flag=ES }:: ::RandomeLoL::{ user-id=7080063 } | 处理内容举报，[osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck)开发 |
 
 ---
 
-此外，[Nomination Assessment Team](https://osu.ppy.sh/users/6616586) 机器人账号为 NAT 的代理，NAT 使用此账号而不是其他玩家账号来发布消息。它可以用于评估回复、模拟评估、调解、举报和内容审查，以及其他杂项事务。
+此外，::Nomination Assessment Team::{ user-id=6616586 } 机器人账号为 NAT 的代理，NAT 使用此账号而不是其他玩家账号来发布消息。它可以用于评估回复、模拟评估、调解、举报和内容审查，以及其他杂项事务。

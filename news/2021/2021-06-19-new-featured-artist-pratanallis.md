@@ -13,7 +13,7 @@ Guiding their own twist of symphonic rock to osu!'s front stage, **Pratanallis**
 
 We managed to pick up **12** songs from their extraordinary catalogue, all of which are available for the taking from [**Pratanallis**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/175)!
 
-**Pratanallis** only recently found a home on osu! thanks to a beatmap by [Adinda](https://osu.ppy.sh/users/15959751) of [*Braking Down*](https://osu.ppy.sh/beatmapsets/1307632) (and no, that's not a typo). Give it a try if you're up for a stream-heavy marathon, and if not, enjoy watching a bunch of other people attempt it with Sudden Death below:
+**Pratanallis** only recently found a home on osu! thanks to a beatmap by ::Adinda::{ user-id=15959751 } of [*Braking Down*](https://osu.ppy.sh/beatmapsets/1307632) (and no, that's not a typo). Give it a try if you're up for a stream-heavy marathon, and if not, enjoy watching a bunch of other people attempt it with Sudden Death below:
 
 <div align="center">
     <video width="95%" controls>

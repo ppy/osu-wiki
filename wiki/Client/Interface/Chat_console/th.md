@@ -15,7 +15,7 @@
 | **แดง** | สมาชิก [Global Moderation Team](/wiki/People/Global_Moderation_Team) หรือ [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) |
 | **เขียวเข้ม** | บรรทัดที่มีชื่อของคุณหรือคำที่คุณกำหนดไว้เพื่อให้ [Highlight](Highlight) (เหมือนกับการพิมพ์ชื่อของคุณในแชท) ข้อความที่ถูก Highlight จะไปปรากฏในช่อง `#highlight` ด้วย |
 | **น้ำเงิน** | ข้อความส่วนตัว (PM) |
-| **ฟ้า** | [peppy](https://osu.ppy.sh/users/2) (ผู้สร้าง osu!) |
+| **ฟ้า** | ::peppy::{ user-id=2 } (ผู้สร้าง osu!) |
 | **ชมพู** | [BanchoBot](/wiki/BanchoBot) |
 
 - คลิกที่ปุ่ม `Show Ticker` เพื่อแสดงข้อความล่าสุดในห้องแชทล่าสุดที่คุณเข้า เมื่อหน้าต่างพูดคุยถูกย่อลง

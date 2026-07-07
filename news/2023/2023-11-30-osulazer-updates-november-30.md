@@ -9,7 +9,7 @@ Practise your slider artistry in today's osu!(lazer) update!
 
 ![](/wiki/shared/news/2023-11-30-osulazer-updates-november-30/banner.jpg)
 
-The greatest revolution to mapping since [OliBomby](https://osu.ppy.sh/users/6573093)'s [Mapping Tools](https://mappingtools.github.io/) might have just hit the game today:
+The greatest revolution to mapping since ::OliBomby::{ user-id=6573093 }'s [Mapping Tools](https://mappingtools.github.io/) might have just hit the game today:
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/-FwH-4C3VIM" frameborder="0" allowfullscreen></iframe>

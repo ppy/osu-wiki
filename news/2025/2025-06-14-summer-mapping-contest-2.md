@@ -11,7 +11,7 @@ Summer is back, and so is the Summer Mapping Contest! 🌞
 
 The **Summer Mapping Contest** is an annual osu! beatmapping competition, with its purpose being to inspire mappers from around the world to unleash their creativity and challenge the boundaries of mapping using songs from the Featured Artist catalogue.
 
-The first edition launched in 2024 and was hosted by [Stompy\_](https://osu.ppy.sh/users/16429579). You can view the previous iteration of the contest [here](https://osu.ppy.sh/community/forums/topics/1930371).
+The first edition launched in 2024 and was hosted by ::Stompy\_::{ user-id=16429579 }. You can view the previous iteration of the contest [here](https://osu.ppy.sh/community/forums/topics/1930371).
 
 For this year's edition, we've expanded the track list with a wider variety of artists to keep things fresh, alongside welcoming several new faces to our staff team.
 
@@ -49,12 +49,12 @@ Your submission will be judged based on several criteria:
 
 ### Judges
 
-- ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231)
-- ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
-- ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280)
-- ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976)
-- ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986)
-- ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599)
+- ::{ flag=UZ }:: ::Shmiklak::{ user-id=5504231 }
+- ::{ flag=RU }:: ::Daycore::{ user-id=5596337 }
+- ::{ flag=CL }:: ::Cris-::{ user-id=6175280 }
+- ::{ flag=US }:: ::Aeril::{ user-id=4334976 }
+- ::{ flag=ID }:: ::Shurelia::{ user-id=3807986 }
+- ::{ flag=IT }:: ::Andrea::{ user-id=33599 }
 
 ## Available tracks
 

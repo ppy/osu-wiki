@@ -14,13 +14,13 @@ For receiving more rapid and useful feedback, [test builds](https://osu.ppy.sh/c
 
 An osu! update on March 28 brought improvements to [beatmap editor](/wiki/Client/Beatmap_editor) dialogs and increased [Bancho](/wiki/Bancho_(server))'s performance.[^stable-b1800][^bancho]
 
-The first edition of [osu!monthly](/wiki/Community/osu!monthly) was launched by ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985) and ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270), presenting a variety of content ranging from user statistics to promotions in the [Beatmap Appreciation Team (BAT)](/wiki/People/Beatmap_Appreciation_Team) and the [Mapping Assistance Team (MAT)](/wiki/People/Mapping_Assistance_Team).[^monthly-1]
+The first edition of [osu!monthly](/wiki/Community/osu!monthly) was launched by ::{ flag=US }:: ::jjrocks::{ user-id=30985 } and ::{ flag=GB }:: ::Corin::{ user-id=639270 }, presenting a variety of content ranging from user statistics to promotions in the [Beatmap Appreciation Team (BAT)](/wiki/People/Beatmap_Appreciation_Team) and the [Mapping Assistance Team (MAT)](/wiki/People/Mapping_Assistance_Team).[^monthly-1]
 
 ## August
 
 [osu!stream](/wiki/osu!stream) was published, making osu! available on [iOS](https://en.wikipedia.org/wiki/IOS) with unique features. Compared to the desktop version, osu!stream offered new gameplay mechanics and original beatmaps.[^monthly-5]
 
-[LuigiHann](https://osu.ppy.sh/users/1079) organised the first official storyboarding contest, where users were asked to create [storyboards](/wiki/Storyboard) for the three finalists of the [Official Beatmapping Contest 3](https://osu.ppy.sh/community/forums/topics/47404?n=1).[^storyboarding]
+::LuigiHann::{ user-id=1079 } organised the first official storyboarding contest, where users were asked to create [storyboards](/wiki/Storyboard) for the three finalists of the [Official Beatmapping Contest 3](https://osu.ppy.sh/community/forums/topics/47404?n=1).[^storyboarding]
 
 ## September
 

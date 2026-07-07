@@ -11,7 +11,7 @@ Welcome to Aspire V! The wildest beatmapping event on osu! returns with a new ho
 
 The Aspire contests are all about breaking the bounds of conventional mapping. The ranking criteria is completely dropped and beatmappers are encouraged to map in any way the editor allows them to.
 
-Aspire first began with [LeaF - Evanescent](https://osu.ppy.sh/beatmapsets/227126) by [Charles445](https://osu.ppy.sh/users/85000) back in 2014, and since then we have seen several more maps rise to become Aspire class beatmaps, such as [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689) by [Monstrata](https://osu.ppy.sh/users/2706438), which blew the contest away with its animated shapes.
+Aspire first began with [LeaF - Evanescent](https://osu.ppy.sh/beatmapsets/227126) by ::Charles445::{ user-id=85000 } back in 2014, and since then we have seen several more maps rise to become Aspire class beatmaps, such as [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689) by ::Monstrata::{ user-id=2706438 }, which blew the contest away with its animated shapes.
 
 Although the road for the Aspire contests has not always been smooth, they have never failed to become a hot talking point amongst the community. Now it is time for the Aspire contests to reform, and we believe this new format will make Aspire what it always should have been: creating whatever you want, however you want.
 
@@ -29,11 +29,11 @@ For those ambitious enough to aim for the very top, the Grand Aspire award will 
 
 With so much freedom, it’s understandable to be lost for ideas. In case you are, here are a few maps to take some inspiration from:
 
-A classic amongst the community, [Graces of Heaven](https://osu.ppy.sh/beatmapsets/147910) by [rustbell](https://osu.ppy.sh/users/227717) mixes a variety of unrankable techniques, creating a unique and challenging experience!
+A classic amongst the community, [Graces of Heaven](https://osu.ppy.sh/beatmapsets/147910) by ::rustbell::{ user-id=227717 } mixes a variety of unrankable techniques, creating a unique and challenging experience!
 
-[Mayday](https://osu.ppy.sh/beatmapsets/756794) by [Voltaeyx](https://osu.ppy.sh/users/2715118) combines a storyboard with overlapping sliders to create a visual spectacle that is guaranteed to blow any audience away, solidifying its spot as the most favorited [Loved](https://osu.ppy.sh/beatmapsets?sort=favourites_desc&s=loved) beatmap.
+[Mayday](https://osu.ppy.sh/beatmapsets/756794) by ::Voltaeyx::{ user-id=2715118 } combines a storyboard with overlapping sliders to create a visual spectacle that is guaranteed to blow any audience away, solidifying its spot as the most favorited [Loved](https://osu.ppy.sh/beatmapsets?sort=favourites_desc&s=loved) beatmap.
 
-Breaking the bounds in a completely different way, [Shiny Smily Story](https://osu.ppy.sh/beatmapsets/1122763) by [Jerry](https://osu.ppy.sh/users/605973) uses a storyboard and skin trickery to create a completely different gamemode!
+Breaking the bounds in a completely different way, [Shiny Smily Story](https://osu.ppy.sh/beatmapsets/1122763) by ::Jerry::{ user-id=605973 } uses a storyboard and skin trickery to create a completely different gamemode!
 
 With song restrictions relaxed and even more ways to win, there is little reason not to give it a shot and see how far your creativity can take you.
 
@@ -70,7 +70,7 @@ After the judges have completed their work, the categorised entries will be rele
 
 Once the results of the categorised voting concludes, phase two of voting will begin. Only the top two maps of each category will make it to this stage. Voting for this stage will be open for one week, after which the Aspire V grand champion will be crowned.
 
-If you are interested in being a judge and categorising the entries, please contact [-Mo-](https://osu.ppy.sh/users/2202163). Please note however that judges cannot participate in entering the contest.
+If you are interested in being a judge and categorising the entries, please contact ::-Mo-::{ user-id=2202163 }. Please note however that judges cannot participate in entering the contest.
 
 ## Prizes
 

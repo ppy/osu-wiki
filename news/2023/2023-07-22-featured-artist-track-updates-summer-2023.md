@@ -135,7 +135,7 @@ Anyone who's taken a step into the breakcore realm has heard **goreshit**'s soun
 
 [![](https://assets.ppy.sh/artists/49/header.jpg)](https://osu.ppy.sh/beatmaps/artists/49)
 
-Another one of our founding Featured Artists, **KOAN Sound**, is back with **2** extra tracks to round out their catalogue. Both have a special place on osu!: [Strike](https://osu.ppy.sh/beatmapsets/440827) was ranked by [Shiirn](https://osu.ppy.sh/users/465126) back in 2016, while [Forgotten Myths](https://osu.ppy.sh/beatmapsets/643984) has a classic map by [Mir](https://osu.ppy.sh/users/8688812). And both are worth your time.
+Another one of our founding Featured Artists, **KOAN Sound**, is back with **2** extra tracks to round out their catalogue. Both have a special place on osu!: [Strike](https://osu.ppy.sh/beatmapsets/440827) was ranked by ::Shiirn::{ user-id=465126 } back in 2016, while [Forgotten Myths](https://osu.ppy.sh/beatmapsets/643984) has a classic map by ::Mir::{ user-id=8688812 }. And both are worth your time.
 
 ### KOAN Sound - Strike
 
@@ -153,7 +153,7 @@ Another one of our founding Featured Artists, **KOAN Sound**, is back with **2**
 
 [![](https://assets.ppy.sh/artists/252/header.jpg)](https://osu.ppy.sh/beatmaps/artists/252)
 
-**my sound life** is a side project of [**solfa**](https://osu.ppy.sh/beatmaps/artists/207), a legend in the realm of visual novel tracks. We've picked up **2** more songs for their listing, including the classic [re:construction](https://osu.ppy.sh/beatmapsets/119431) mapped by [hoLysoup](https://osu.ppy.sh/users/160558) over 10 years ago!
+**my sound life** is a side project of [**solfa**](https://osu.ppy.sh/beatmaps/artists/207), a legend in the realm of visual novel tracks. We've picked up **2** more songs for their listing, including the classic [re:construction](https://osu.ppy.sh/beatmapsets/119431) mapped by ::hoLysoup::{ user-id=160558 } over 10 years ago!
 
 ### my sound life - re:construction
 
@@ -171,7 +171,7 @@ Another one of our founding Featured Artists, **KOAN Sound**, is back with **2**
 
 [![](https://assets.ppy.sh/artists/175/header.jpg)](https://osu.ppy.sh/beatmaps/artists/175)
 
-Doujin circle **Pratanallis** brings symphonic rock and a wide collection of renowned vocalists together, and their latest album *Tears Nocturn* continues the trend. We've expanded their catalogue up to **2** more tracks, one of which was ranked just recently: [Crocus](https://osu.ppy.sh/beatmapsets/1878262) mapped by [Melize](https://osu.ppy.sh/users/10778215)!
+Doujin circle **Pratanallis** brings symphonic rock and a wide collection of renowned vocalists together, and their latest album *Tears Nocturn* continues the trend. We've expanded their catalogue up to **2** more tracks, one of which was ranked just recently: [Crocus](https://osu.ppy.sh/beatmapsets/1878262) mapped by ::Melize::{ user-id=10778215 }!
 
 ### Pratanallis feat. KOKOMI - Crocus
 
@@ -213,8 +213,8 @@ Rhythm game music comes in all shapes and sizes, and **seatrus** aims to cover t
 - **seatrus - Ascension**
 - **seatrus - a MUSIC is worth 1000 words**
 - **seatrus - DOOMSDAY THUNDERTEMPEST**
-  - [4K osu!mania map](https://osu.ppy.sh/beatmapsets/1700903) hosted by [gzdongsheng](https://osu.ppy.sh/users/8660315)
-  - [7K osu!mania map](https://osu.ppy.sh/beatmapsets/1692926) hosted by [paulkappa](https://osu.ppy.sh/users/7115625)
+  - [4K osu!mania map](https://osu.ppy.sh/beatmapsets/1700903) hosted by ::gzdongsheng::{ user-id=8660315 }
+  - [7K osu!mania map](https://osu.ppy.sh/beatmapsets/1692926) hosted by ::paulkappa::{ user-id=7115625 }
 - **seatrus - M A X I M U M B L A S T E R**
 - **seatrus - Jikan Sensou**
 - **kuro+seatrus - Bellum**
@@ -250,7 +250,7 @@ If you thought this was a lot of songs for an individual artist's catalogue upda
 
 [![](https://assets.ppy.sh/artists/138/header.jpg)](https://osu.ppy.sh/beatmaps/artists/138)
 
-Following the release of their latest album *BloodLine*, the composer behind "[the hardest map in osu!](https://osu.ppy.sh/beatmapsets/41686)" is back with **3** more VOCALOID masterpieces! Two come from that new album, and one more is from their backlog: [Snow Marriage](https://osu.ppy.sh/beatmapsets/1823014) ranked last year by [P_O](https://osu.ppy.sh/users/831979)!
+Following the release of their latest album *BloodLine*, the composer behind "[the hardest map in osu!](https://osu.ppy.sh/beatmapsets/41686)" is back with **3** more VOCALOID masterpieces! Two come from that new album, and one more is from their backlog: [Snow Marriage](https://osu.ppy.sh/beatmapsets/1823014) ranked last year by ::P\1O::{ user-id=831979 }!
 
 ### seleP - Luna: GABBA SIDE
 
@@ -278,20 +278,20 @@ So uh. This has never happened before. We're adding **over 50** to **solfa**'s l
 
 If the sound of *Chata*, *Rita*, *yuiko*, *nao*, *KOTOKO*, *Shimotsuki Haruka* or *Koharu Meu* ring a bell (which they obviously do), that means it's time to load up the editor:
 
-- [**solfa feat. Ceui - Natsuiro Yakimochi Koi Moyou**](https://osu.ppy.sh/beatmapsets/1553899) hosted by [tomatas95](https://osu.ppy.sh/users/11403815)
-- [**solfa feat. Ceui - smile again**](https://osu.ppy.sh/beatmapsets/1857772) hosted by [tomatas95](https://osu.ppy.sh/users/11403815)
+- [**solfa feat. Ceui - Natsuiro Yakimochi Koi Moyou**](https://osu.ppy.sh/beatmapsets/1553899) hosted by ::tomatas95::{ user-id=11403815 }
+- [**solfa feat. Ceui - smile again**](https://osu.ppy.sh/beatmapsets/1857772) hosted by ::tomatas95::{ user-id=11403815 }
 - **solfa feat. Chata + Rita + Koharu Meu - treasure pleasure**
 - **solfa feat. Chata - In love forever**
-- [**solfa feat. Chata - Koi no Spirichu**](https://osu.ppy.sh/beatmapsets/1952184) hosted by [tomatas95](https://osu.ppy.sh/users/11403815)
+- [**solfa feat. Chata - Koi no Spirichu**](https://osu.ppy.sh/beatmapsets/1952184) hosted by ::tomatas95::{ user-id=11403815 }
 - **solfa feat. Chata - Norikire Juken Wars**
-- [**solfa feat. Chata - Papapapanda**](https://osu.ppy.sh/beatmapsets/61046) hosted by [Nymph](https://osu.ppy.sh/users/601990)
+- [**solfa feat. Chata - Papapapanda**](https://osu.ppy.sh/beatmapsets/61046) hosted by ::Nymph::{ user-id=601990 }
 - **solfa feat. Chata - sing a song!**
 - **solfa feat. Chata - Snow white syndrome**
 - **solfa feat. Chata - Sugar x Sugar**
 - **solfa feat. Chata - Vanity in the Bloom**
-- [**solfa feat. Hashimoto Miyuki - Nijiiro Spring**](https://osu.ppy.sh/beatmapsets/1843240) hosted by [Zekk](https://osu.ppy.sh/users/9704802)
+- [**solfa feat. Hashimoto Miyuki - Nijiiro Spring**](https://osu.ppy.sh/beatmapsets/1843240) hosted by ::Zekk::{ user-id=9704802 }
 - **solfa feat. iyuna - blank page**
-- [**solfa feat. iyuna - Emukko Kyun Kyun**](https://osu.ppy.sh/beatmapsets/39484) hosted by [cRyo\[iceeicee\]](https://osu.ppy.sh/users/835998)
+- [**solfa feat. iyuna - Emukko Kyun Kyun**](https://osu.ppy.sh/beatmapsets/39484) hosted by ::cRyo\[iceeicee\]::{ user-id=835998 }
 - **solfa feat. Koharu Meu - Aishite Koishite -happy forever-**
 - **solfa feat. Koharu Meu - Hip de Chu! Chu!**
 - **solfa feat. Koharu Meu - Hitomi ni Yadosu Honou**
@@ -300,30 +300,30 @@ If the sound of *Chata*, *Rita*, *yuiko*, *nao*, *KOTOKO*, *Shimotsuki Haruka* o
 - **solfa feat. Koharu Meu - losing**
 - **solfa feat. Koharu Meu - rakuya no hana**
 - **solfa feat. Koharu Meu - sludge**
-- [**solfa feat. KOTOKO - affection**](https://osu.ppy.sh/beatmapsets/1160766) hosted by [Lasse](https://osu.ppy.sh/users/896613)
+- [**solfa feat. KOTOKO - affection**](https://osu.ppy.sh/beatmapsets/1160766) hosted by ::Lasse::{ user-id=896613 }
 - **solfa feat. KOTOKO - Bum-out!**
 - **solfa feat. KOTOKO - Fancy Game?!**
 - **solfa feat. KOTOKO - Sakura Hitohira Koi Moyou**
 - **solfa feat. Milk - 1, 2, 3 Paradise!**
-- [**solfa feat. nao & Aoba Ringo - Motto! Icha*LOVE Paradise**](https://osu.ppy.sh/beatmapsets/1491854) hosted by [tomatas95](https://osu.ppy.sh/users/11403815)
+- [**solfa feat. nao & Aoba Ringo - Motto! Icha*LOVE Paradise**](https://osu.ppy.sh/beatmapsets/1491854) hosted by ::tomatas95::{ user-id=11403815 }
 - **solfa feat. nao - hallucinate**
 - **solfa feat. nao - Love Love Sensation**
-  - [osu! map](https://osu.ppy.sh/beatmapsets/1684879) hosted by [tomatas95](https://osu.ppy.sh/users/11403815)
-  - [Another osu! map](https://osu.ppy.sh/beatmapsets/565367) hosted by [Log Off Now](https://osu.ppy.sh/users/4378277)
+  - [osu! map](https://osu.ppy.sh/beatmapsets/1684879) hosted by ::tomatas95::{ user-id=11403815 }
+  - [Another osu! map](https://osu.ppy.sh/beatmapsets/565367) hosted by ::Log Off Now::{ user-id=4378277 }
 - **solfa feat. nao - Mukuna Inori wa, Ao ni Somaru**
 - **solfa feat. nao - Shinshoku no Sacrifice**
 - **solfa feat. nao - Tasogare no Rebellion**
 - **solfa feat. Rita - happiness in slavery**
 - **solfa feat. Rita - shield nine (new overdrive ver.)**
 - **solfa feat. Rita - under the dark moon**
-- [**solfa feat. Shimotsuki Haruka + Ceui - STUDY STEADY**](https://osu.ppy.sh/beatmapsets/1907991) hosted by [tomatas95](https://osu.ppy.sh/users/11403815)
+- [**solfa feat. Shimotsuki Haruka + Ceui - STUDY STEADY**](https://osu.ppy.sh/beatmapsets/1907991) hosted by ::tomatas95::{ user-id=11403815 }
 - **solfa feat. Shimotsuki Haruka + Ceui - study steady day!**
 - **solfa feat. Shimotsuki Haruka - my sweet heart**
 - **solfa feat. Shimotsuki Haruka - trusty**
 - **solfa feat. Tsukiyono Usagi (CV: Moca Choco) - Marshmallow Whip**
-- [**solfa feat. yuiko - Freezing RosE**](https://osu.ppy.sh/beatmapsets/845865) hosted by [Lasse](https://osu.ppy.sh/users/896613)
+- [**solfa feat. yuiko - Freezing RosE**](https://osu.ppy.sh/beatmapsets/845865) hosted by ::Lasse::{ user-id=896613 }
 - **solfa feat. yuki - Yami no Rinne**
-- [**solfa feat. Yumeno Yuki - Princess * Sisters!**](https://osu.ppy.sh/beatmapsets/1564270) hosted by [tomatas95](https://osu.ppy.sh/users/11403815)
+- [**solfa feat. Yumeno Yuki - Princess * Sisters!**](https://osu.ppy.sh/beatmapsets/1564270) hosted by ::tomatas95::{ user-id=11403815 }
 - **solfa - Army of Steel and Death**
 - **solfa - Battle 3: Shiryoku no Kagiri -The force of mortality-**
 - **solfa - Battle 5: Kiniro Kyogei -Cetus of the Guardian Beast-**
@@ -399,7 +399,7 @@ If the sound of *Chata*, *Rita*, *yuiko*, *nao*, *KOTOKO*, *Shimotsuki Haruka* o
 
 [![](https://assets.ppy.sh/artists/16/header.jpg)](https://osu.ppy.sh/beatmaps/artists/16)
 
-Featured Artist veteran **Wisp X** strikes back with **3** more tracks! These chill tunes are a divergence from the usual hyperintense rhythm game track, like [Coffee](https://osu.ppy.sh/beatmapsets/733211) hosted by [Xinnoh](https://osu.ppy.sh/users/4236057). If that sounds like your style, you're in luck.
+Featured Artist veteran **Wisp X** strikes back with **3** more tracks! These chill tunes are a divergence from the usual hyperintense rhythm game track, like [Coffee](https://osu.ppy.sh/beatmapsets/733211) hosted by ::Xinnoh::{ user-id=4236057 }. If that sounds like your style, you're in luck.
 
 ### Wisp X - Coffee
 

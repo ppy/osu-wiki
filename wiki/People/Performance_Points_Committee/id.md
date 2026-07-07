@@ -22,32 +22,32 @@ Panel mode osu!taiko dibentuk pada tanggal 1 Mei 2022 sebagai bentuk respon dari
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
-| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | [stanriders](https://github.com/stanriders) |
-| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | [tsunyoku](https://github.com/tsunyoku) |
+| ::{ flag=RU }:: ::StanR::{ user-id=7217455 } | [stanriders](https://github.com/stanriders) |
+| ::{ flag=GB }:: ::tsunyoku::{ user-id=11315329 } | [tsunyoku](https://github.com/tsunyoku) |
 
 ### osu!taiko
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
-| ::{ flag=AU }:: [ltca](https://osu.ppy.sh/users/11475208) | [Lawtrohux](https://github.com/Lawtrohux) |
-| ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728) | [Babysnakes101](https://github.com/BabySnakes101) |
-| ::{ flag=DE }:: [ph1](https://osu.ppy.sh/users/22194163) | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) |
-| ::{ flag=FR }:: [YaniFR](https://osu.ppy.sh/users/11260982) | [YaniFR](https://github.com/YaniFR) |
+| ::{ flag=AU }:: ::ltca::{ user-id=11475208 } | [Lawtrohux](https://github.com/Lawtrohux) |
+| ::{ flag=PT }:: ::BabySnakes::{ user-id=4669728 } | [Babysnakes101](https://github.com/BabySnakes101) |
+| ::{ flag=DE }:: ::ph1::{ user-id=22194163 } | [sw1tchbl4d3r](https://github.com/sw1tchbl4d3r) |
+| ::{ flag=FR }:: ::YaniFR::{ user-id=11260982 } | [YaniFR](https://github.com/YaniFR) |
 
 ### osu!catch
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
-| ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | [bastoo0](https://github.com/bastoo0) |
-| ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) | [wulpine](https://github.com/wulpine) |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [SecreOsu](https://github.com/SecreOsu) |
-| ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | [Flawnpiece](https://github.com/Flawnpiece) |
+| ::{ flag=FR }:: ::bastoo0::{ user-id=4864877 } | [bastoo0](https://github.com/bastoo0) |
+| ::{ flag=RU }:: ::KitsunIvy::{ user-id=7055384 } | [wulpine](https://github.com/wulpine) |
+| ::{ flag=US }:: ::Secre::{ user-id=2306637 } | [SecreOsu](https://github.com/SecreOsu) |
+| ::{ flag=CA }:: ::Zyoulou::{ user-id=8668722 } | [Flawnpiece](https://github.com/Flawnpiece) |
 
 ### osu!mania
 
 | Profil osu! | Profil GitHub |
 | :-- | :-- |
-| ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) | [abraker95](https://github.com/abraker95) |
-| ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881) | [Eve-ning](https://github.com/Eve-ning) |
-| ::{ flag=AU }:: [molneya](https://osu.ppy.sh/users/8945180) | [molneya](https://github.com/molneya) |
-| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | [Kominaru](https://github.com/Kominaru) |
+| ::{ flag=US }:: ::abraker::{ user-id=4635891 } | [abraker95](https://github.com/abraker95) |
+| ::{ flag=SG }:: ::Evening::{ user-id=2193881 } | [Eve-ning](https://github.com/Eve-ning) |
+| ::{ flag=AU }:: ::molneya::{ user-id=8945180 } | [molneya](https://github.com/molneya) |
+| ::{ flag=ES }:: ::Quenlla::{ user-id=4725379 } | [Kominaru](https://github.com/Kominaru) |

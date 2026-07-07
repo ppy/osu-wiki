@@ -30,7 +30,7 @@ tags:
 
 ## History
 
-The project started in mid-2015[^peppy-2017] as a new design for the stable client's interface codenamed "osu!next" made by [flyte](https://osu.ppy.sh/users/3103765), osu!'s lead designer. This was first showcased in a [teaser video](https://www.youtube.com/watch?v=lrWyqpNUwBo) the same year.
+The project started in mid-2015[^peppy-2017] as a new design for the stable client's interface codenamed "osu!next" made by ::flyte::{ user-id=3103765 }, osu!'s lead designer. This was first showcased in a [teaser video](https://www.youtube.com/watch?v=lrWyqpNUwBo) the same year.
 
 Draft versions were uploaded on flyte's [design blog](https://osunext.tumblr.com/) starting from 2016.
 

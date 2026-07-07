@@ -29,11 +29,11 @@ In [this installment of the Mapping Olympiad contest](https://osu.ppy.sh/communi
 | #14 | Absolute Zero | Bitter Pheasant | 34 | 26.5 | 24 | 13.5 | 0 | **98** |
 | #15 | ts8zs | Hasty Gopher | 15.5 | 15 | 12 | 7 | 10.5 | **60** |
 
-Edging past the competition and securing **first place** is [**alienflybot**](https://osu.ppy.sh/users/636114) with a total score of **177**! alienflybot's experience shone through in the execution and enjoyability of their Platter and Rain difficulties, topping the judges scorecards for the Technique and Impression categories. Their entry also came in second by merely a whisker in the Musical Relevance and Hitsounding categories, and was judge Sc4v4nger's favourite pick. Congratulations to a veteran mapper of over five years on joining the ranks of osu!'s Elite Mappers at last!
+Edging past the competition and securing **first place** is ::**alienflybot**::{ user-id=636114 } with a total score of **177**! alienflybot's experience shone through in the execution and enjoyability of their Platter and Rain difficulties, topping the judges scorecards for the Technique and Impression categories. Their entry also came in second by merely a whisker in the Musical Relevance and Hitsounding categories, and was judge Sc4v4nger's favourite pick. Congratulations to a veteran mapper of over five years on joining the ranks of osu!'s Elite Mappers at last!
 
-Not quite able to replicate their winning ways from the inaugural osu!catch Mapping Olympiad contest, [**Sinnoh**](https://osu.ppy.sh/users/4236057) nevertheless claims an impressive **second place** with a total score of **174**! Falling only a little short of the winning formula, Sinnoh once again put in a strong performance in all categories, comfortably rated the highest for Creativity amongst our judges, and narrowly claimed the highest total score from judge Greaper with their Platter and Overdose difficulties.
+Not quite able to replicate their winning ways from the inaugural osu!catch Mapping Olympiad contest, ::**Sinnoh**::{ user-id=4236057 } nevertheless claims an impressive **second place** with a total score of **174**! Falling only a little short of the winning formula, Sinnoh once again put in a strong performance in all categories, comfortably rated the highest for Creativity amongst our judges, and narrowly claimed the highest total score from judge Greaper with their Platter and Overdose difficulties.
 
-Fighting off nail-bitingly fierce competition in **third place** is [**Yumeno Himiko**](https://osu.ppy.sh/users/1806962) with a total score of **162.5**! Yumeno Himiko performed solidly in all categories, but it was a winning score in the Hitsounding category that edged their entry of Salad and Rain difficulties into the final podium place.
+Fighting off nail-bitingly fierce competition in **third place** is ::**Yumeno Himiko**::{ user-id=1806962 } with a total score of **162.5**! Yumeno Himiko performed solidly in all categories, but it was a winning score in the Hitsounding category that edged their entry of Salad and Rain difficulties into the final podium place.
 
 [Complete results for this contest, including the judges' comments for each submission can be found here.](https://docs.google.com/spreadsheets/d/1fbIh2v3p4xBo_MN3ozH0fFAbnF6Xds0Z-oP_NL46x88/edit?usp=sharing)
 
@@ -45,10 +45,10 @@ Once again, a massive show of appreciation to everyone who entered the contest, 
 
 [A complete listing of all accumulated Olympiad Points can be located here](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing). Updates to the listing will be posted shortly after the conclusion of each contest.
 
-Additional thanks to our hard-working judges [Electoz](https://osu.ppy.sh/users/6485263), [Greaper](https://osu.ppy.sh/users/2369776) and [Sc4v4ng3r](https://osu.ppy.sh/users/4838429) for their time and effort in reviewing all of the submitted entries. Your dedication helps keep contests running and osu! awesome, and for that we are greatly appreciative!
+Additional thanks to our hard-working judges ::Electoz::{ user-id=6485263 }, [Greaper](https://osu.ppy.sh/users/2369776) and ::Sc4v4ng3r::{ user-id=4838429 } for their time and effort in reviewing all of the submitted entries. Your dedication helps keep contests running and osu! awesome, and for that we are greatly appreciative!
 
 If you'd like to check each of the entries for yourselves and decide on your own favourite, [all of the submissions can be downloaded here](https://drive.google.com/open?id=14yiLiftoWE2nMdJ6mj6BkgeAi_EvteE8) for you to dive into!
 
-Hopefully you all enjoyed this iteration of the osu! Mapping Olympiad! If you did, please be sure to look out for and support future contests! Congratulations once again to [**alienflybot**](https://osu.ppy.sh/users/636114) on their victory, and we look forward to seeing you all next time!
+Hopefully you all enjoyed this iteration of the osu! Mapping Olympiad! If you did, please be sure to look out for and support future contests! Congratulations once again to ::**alienflybot**::{ user-id=636114 } on their victory, and we look forward to seeing you all next time!
 
 —JBHyperion

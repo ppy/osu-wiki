@@ -2,7 +2,7 @@
 
 ## January
 
-[Ephemeral](https://osu.ppy.sh/users/102335) posted a news post regarding the new year to reassure that many big things are bound to happen in 2017. [S3RL](https://osu.ppy.sh/beatmaps/artists/9) and [nanobii](https://osu.ppy.sh/beatmaps/artists/10) were announced to be osu!'s new Featured Artists. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2), [yuki.](https://osu.ppy.sh/beatmaps/artists/4) and [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) each released a new album giving osu! 26 new songs to beatmap. Aspire returns for 2017.
+::Ephemeral::{ user-id=102335 } posted a news post regarding the new year to reassure that many big things are bound to happen in 2017. [S3RL](https://osu.ppy.sh/beatmaps/artists/9) and [nanobii](https://osu.ppy.sh/beatmaps/artists/10) were announced to be osu!'s new Featured Artists. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2), [yuki.](https://osu.ppy.sh/beatmaps/artists/4) and [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) each released a new album giving osu! 26 new songs to beatmap. Aspire returns for 2017.
 
 Links:
 
@@ -33,7 +33,7 @@ Links:
 
 ## April
 
-Monthly Beatmapping Contest \#13 concluded with [RyoKazuka](https://osu.ppy.sh/users/6258586) taking first place. Apsire 2017: Stage One concluded with [ProfessionalBox](https://osu.ppy.sh/users/3250792) taking first place. The voting for the Spring fanart contest was opened. The 100th(?) issue of osu!weekly was released. The osu!taiko World Cup 2017 concluded with Japan winning against Taiwan. Before April ended, the Spring fanart contest votes were in, allowing [Evaine](https://osu.ppy.sh/users/7295733) to take first place.
+Monthly Beatmapping Contest \#13 concluded with ::RyoKazuka::{ user-id=6258586 } taking first place. Apsire 2017: Stage One concluded with ::ProfessionalBox::{ user-id=3250792 } taking first place. The voting for the Spring fanart contest was opened. The 100th(?) issue of osu!weekly was released. The osu!taiko World Cup 2017 concluded with Japan winning against Taiwan. Before April ended, the Spring fanart contest votes were in, allowing ::Evaine::{ user-id=7295733 } to take first place.
 
 Links:
 
@@ -68,7 +68,7 @@ Links:
 
 ## July
 
-osu!mania 4K World Cup registrations opened. Voting for the Mocha in Summer fanart contest was opened. osu!catch World Cup 2017 concluded with South Korea taking first place from China. The Community Mentorship Program Fall 2017 Signups was opened. On the last day of July, the Mocha in Summer fanart contest concluded with [2Su](https://osu.ppy.sh/users/6598966) taking first place.
+osu!mania 4K World Cup registrations opened. Voting for the Mocha in Summer fanart contest was opened. osu!catch World Cup 2017 concluded with South Korea taking first place from China. The Community Mentorship Program Fall 2017 Signups was opened. On the last day of July, the Mocha in Summer fanart contest concluded with ::2Su::{ user-id=6598966 } taking first place.
 
 Links:
 
@@ -123,7 +123,7 @@ Links:
 
 ## December
 
-The Winter 2017 Fanart Contest results were in, awarding [Leissss](https://osu.ppy.sh/users/4750716) with the most votes. OWC 2017 concluded with Poland being victorious. Thanks to LiquidPL, the cringey download page in osu!web has been redone. The day before Christmas, another handful of community contributors were announced. Every player received osu!supporter status temporarily for testing purposes, which coincidentally happened on Christmas Eve. peppy ends the year with a video, giving 2017 a year-in-review in regards to the [lazer](/wiki/Client/Release_stream/Lazer) version of osu!.
+The Winter 2017 Fanart Contest results were in, awarding ::Leissss::{ user-id=4750716 } with the most votes. OWC 2017 concluded with Poland being victorious. Thanks to LiquidPL, the cringey download page in osu!web has been redone. The day before Christmas, another handful of community contributors were announced. Every player received osu!supporter status temporarily for testing purposes, which coincidentally happened on Christmas Eve. peppy ends the year with a video, giving 2017 a year-in-review in regards to the [lazer](/wiki/Client/Release_stream/Lazer) version of osu!.
 
 Links:
 

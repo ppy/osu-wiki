@@ -33,10 +33,10 @@ The **Korean Charting Contest 2021** (***KCC2021***) is an osu!mania mapping con
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) |
-| Manager | ::{ flag=KR }:: [Oni Suika](https://osu.ppy.sh/users/4848023) |
-| Designer | ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| Judge | ::{ flag=PL }:: [_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=GT }:: [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754), ::{ flag=KR }:: [Pengdoll](https://osu.ppy.sh/users/6392061) |
+| Organiser | ::{ flag=KR }:: ::Garalulu::{ user-id=757783 } |
+| Manager | ::{ flag=KR }:: ::Oni Suika::{ user-id=4848023 } |
+| Designer | ::{ flag=KR }:: ::POCARI SWEAT::{ user-id=5082685 } |
+| Judge | ::{ flag=PL }:: ::\1underjoy::{ user-id=2235750 }, ::{ flag=KR }:: ::Garalulu::{ user-id=757783 }, ::{ flag=GT }:: ::Hoto Cocoa::{ user-id=6974536 }, ::{ flag=KR }:: ::Kawawa::{ user-id=4647754 }, ::{ flag=KR }:: ::Pengdoll::{ user-id=6392061 } |
 
 ## Links
 
@@ -70,9 +70,9 @@ The **Korean Charting Contest 2021** (***KCC2021***) is an osu!mania mapping con
 
 | Place | Mapper |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: [11Bit](https://osu.ppy.sh/users/14804526) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: [Sherie](https://osu.ppy.sh/users/9113475) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CA }:: [arpia97](https://osu.ppy.sh/users/6363008) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: ::11Bit::{ user-id=14804526 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: ::Sherie::{ user-id=9113475 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CA }:: ::arpia97::{ user-id=6363008 } |
 
 ## Ruleset
 

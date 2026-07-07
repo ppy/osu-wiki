@@ -22,7 +22,7 @@
 
 ## 四月
 
-Bancho 和[扩展聊天](/wiki/Client/Interface/Chat_console#扩展聊天面板)功能于四月份上线，确实不是一个愚人节玩笑。用户可以通过用户面板查看他人的状态，并通过点击旁观按钮与他们互动。自动错误提交系统首次亮相，xfire 兼容性得以实现，主菜单和谱面编辑器的界面由[LuigiHann](https://osu.ppy.sh/users/1079)制作的新图标焕然一新。聊天界面迎来了多项优化，其中包括：新增“显示聊天”按钮、标签自动补全和[昵称高亮](/wiki/Client/Interface/Chat_console/Highlight)提示。等级界面现在会显示达到下一等级所需的分数。
+Bancho 和[扩展聊天](/wiki/Client/Interface/Chat_console#扩展聊天面板)功能于四月份上线，确实不是一个愚人节玩笑。用户可以通过用户面板查看他人的状态，并通过点击旁观按钮与他们互动。自动错误提交系统首次亮相，xfire 兼容性得以实现，主菜单和谱面编辑器的界面由::LuigiHann::{ user-id=1079 }制作的新图标焕然一新。聊天界面迎来了多项优化，其中包括：新增“显示聊天”按钮、标签自动补全和[昵称高亮](/wiki/Client/Interface/Chat_console/Highlight)提示。等级界面现在会显示达到下一等级所需的分数。
 
 ## 五月
 

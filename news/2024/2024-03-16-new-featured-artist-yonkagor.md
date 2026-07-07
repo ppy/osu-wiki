@@ -23,7 +23,7 @@ Witness them for yourself through these previews and a video simultaneously show
 
 ### YonKaGor - You're Just Like Pop Music
 
-Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1631556) hosted by [plork](https://osu.ppy.sh/users/10994474) or [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1877709) hosted by [Noch Einen](https://osu.ppy.sh/users/12668735)!
+Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1631556) hosted by ::plork::{ user-id=10994474 } or [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/1877709) hosted by ::Noch Einen::{ user-id=12668735 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/406/You_re%20Just%20Like%20Pop%20Music/YonKaGor%20-%20You_re%20Just%20Like%20Pop%20Music.mp3">

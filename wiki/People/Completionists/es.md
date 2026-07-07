@@ -25,19 +25,19 @@ Estas personas han sido verificadas por el osu! team como completacionistas:
 
 | Jugador | Fecha de finalización | Dificultades totales jugadas |
 | :-- | :-- | :-- |
-| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | 27/4/2019 | 60 845 |
-| ::{ flag=PL }:: [PookieBear](https://osu.ppy.sh/users/7635621) | 11/8/2021 | 82 298 |
-| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | 12/3/2023 | 99 842 |
+| ::{ flag=US }:: ::xasuma::{ user-id=3172980 } | 27/4/2019 | 60 845 |
+| ::{ flag=PL }:: ::PookieBear::{ user-id=7635621 } | 11/8/2021 | 82 298 |
+| ::{ flag=US }:: ::EEEEEEEEEEEEEEE::{ user-id=2927048 } | 12/3/2023 | 99 842 |
 
 ### osu!taiko
 
 | Jugador | Fecha de finalización | Dificultades totales jugadas |
 | :-- | :-- | :-- |
-| ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | 3/11/2019 | 8841 |
-| ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) | 14/8/2023 | 22 170 |
+| ::{ flag=AU }:: ::Jaye::{ user-id=4841352 } | 3/11/2019 | 8841 |
+| ::{ flag=MY }:: ::\[Zeth\]::{ user-id=9912966 } | 14/8/2023 | 22 170 |
 
 ## Curiosidades
 
-- ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) recibió el [título de usuario](/wiki/Community/User_title) *The First Completionist* por ser el primer jugador en lograr esta hazaña.
-- ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) recibió el título de usuario *Drum Decimator* por ser el primer completacionista de osu!taiko y conseguir combos completos en cada beatmap de osu!taiko clasificado.
+- ::{ flag=US }:: ::xasuma::{ user-id=3172980 } recibió el [título de usuario](/wiki/Community/User_title) *The First Completionist* por ser el primer jugador en lograr esta hazaña.
+- ::{ flag=AU }:: ::Jaye::{ user-id=4841352 } recibió el título de usuario *Drum Decimator* por ser el primer completacionista de osu!taiko y conseguir combos completos en cada beatmap de osu!taiko clasificado.
 - Antes de septiembre de 2023, los jugadores solían ganar el título de usuario *osu!completionist*, que se descontinuó en favor de las insignias de perfil.

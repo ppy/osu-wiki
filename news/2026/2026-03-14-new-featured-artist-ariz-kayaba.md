@@ -9,7 +9,7 @@ From our World Cup design team to our Featured Artist library, **Ariz Kayaba** m
 
 ![](https://assets.ppy.sh/artists/533/header.jpg)
 
-**Ariz Kayaba** (known as [mochasan_](https://osu.ppy.sh/users/23804364) here on osu!) is a Malaysian multi-medium artist who's been improving their aural craft since 2021. Inspired by a swathe of talented musicians like [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31), [*sugosugiii*](https://osu.ppy.sh/beatmaps/artists/442), [*AKA*](https://osu.ppy.sh/beatmaps/artists/516), [*takehirotei*](https://osu.ppy.sh/beatmaps/artists/428), [*XH*](https://osu.ppy.sh/beatmaps/artists/452), [*Rabbit House*](https://osu.ppy.sh/beatmaps/artists/242) and *tnky*, **Ariz Kayaba** has developed a sound that's as complex as rhythm games necessitate, yet also familiar to dedicated osu! players.
+**Ariz Kayaba** (known as ::mochasan\1::{ user-id=23804364 } here on osu!) is a Malaysian multi-medium artist who's been improving their aural craft since 2021. Inspired by a swathe of talented musicians like [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31), [*sugosugiii*](https://osu.ppy.sh/beatmaps/artists/442), [*AKA*](https://osu.ppy.sh/beatmaps/artists/516), [*takehirotei*](https://osu.ppy.sh/beatmaps/artists/428), [*XH*](https://osu.ppy.sh/beatmaps/artists/452), [*Rabbit House*](https://osu.ppy.sh/beatmaps/artists/242) and *tnky*, **Ariz Kayaba** has developed a sound that's as complex as rhythm games necessitate, yet also familiar to dedicated osu! players.
 
 You don't need to take our word for it. [**Ariz Kayaba**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/533) has pre-timed beatmap templates for **4** standout tracks. If you open any of them in osu!'s editor, your mapping instincts will take over.
 
@@ -17,7 +17,7 @@ Spark some mapping ideas by listening to any of these previews:
 
 ### Ariz Kayaba - VOLTOX
 
-osu! maps are an expression of music through hit objects. See [Irone OSU](https://osu.ppy.sh/users/10678230)'s interpretation of *VOLTOX* through [this beatmap](https://osu.ppy.sh/beatmapsets/2439956)!
+osu! maps are an expression of music through hit objects. See ::Irone OSU::{ user-id=10678230 }'s interpretation of *VOLTOX* through [this beatmap](https://osu.ppy.sh/beatmapsets/2439956)!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

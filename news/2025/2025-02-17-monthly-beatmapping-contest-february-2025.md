@@ -39,8 +39,8 @@ The playlists will be open for **2 weeks**. Get started already.
 
 | Placement | Users | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [fowwo](https://osu.ppy.sh/users/4547551) | [False Noise - Serpentine](https://osu.ppy.sh/beatmapsets/2322117) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (7 total) |
-| Runner-up | [Pyo](https://osu.ppy.sh/users/6641784) | [sakuraburst - AETHERSONG](https://osu.ppy.sh/beatmapsets/2322116) | - | - | +1 (1 total) |
+| Winner | ::fowwo::{ user-id=4547551 } | [False Noise - Serpentine](https://osu.ppy.sh/beatmapsets/2322117) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (7 total) |
+| Runner-up | ::Pyo::{ user-id=6641784 } | [sakuraburst - AETHERSONG](https://osu.ppy.sh/beatmapsets/2322116) | - | - | +1 (1 total) |
 
 #### Top 10
 
@@ -48,9 +48,9 @@ The playlists will be open for **2 weeks**. Get started already.
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/kHEoMBYTP0s" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[fowwo](https://osu.ppy.sh/users/4547551)'s perseverance has paid off. **5 years** and **18 map submissions** later, fowwo has joined the hall of fame as one of osu!'s well-deserving *Elite Mappers*!
+::fowwo::{ user-id=4547551 }'s perseverance has paid off. **5 years** and **18 map submissions** later, fowwo has joined the hall of fame as one of osu!'s well-deserving *Elite Mappers*!
 
-And of course, send some appreciation to [Daycore](https://osu.ppy.sh/users/5596337), [[-Evil-]](https://osu.ppy.sh/users/10234313), [iBell](https://osu.ppy.sh/users/4298072), [fllecc](https://osu.ppy.sh/users/14060327), [Kataryn](https://osu.ppy.sh/users/19044162), and [Rumia-](https://osu.ppy.sh/users/1787171) for judging this month's maps!
+And of course, send some appreciation to ::Daycore::{ user-id=5596337 }, [[-Evil-]](https://osu.ppy.sh/users/10234313), ::iBell::{ user-id=4298072 }, [fllecc](https://osu.ppy.sh/users/14060327), ::Kataryn::{ user-id=19044162 }, and [Rumia-](https://osu.ppy.sh/users/1787171) for judging this month's maps!
 
 ### osu!mania results
 
@@ -60,8 +60,8 @@ And of course, send some appreciation to [Daycore](https://osu.ppy.sh/users/5596
 
 | Placement | Users | Beatmap | Badge prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Xinhong1003](https://osu.ppy.sh/users/19821902) | [Culprate - Florn](https://osu.ppy.sh/beatmapsets/2322253#mania/4975664) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
-| Runner-up | [oct4](https://osu.ppy.sh/users/10303887) | [Sobrem & NIWASHI - A fight in Tunisia](https://osu.ppy.sh/beatmapsets/2322182#mania/4975491) | - | +1 (3 total) |
+| Winner | ::Xinhong1003::{ user-id=19821902 } | [Culprate - Florn](https://osu.ppy.sh/beatmapsets/2322253#mania/4975664) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | +2 (2 total) |
+| Runner-up | ::oct4::{ user-id=10303887 } | [Sobrem & NIWASHI - A fight in Tunisia](https://osu.ppy.sh/beatmapsets/2322182#mania/4975491) | - | +1 (3 total) |
 
 #### Top 10
 
@@ -69,7 +69,7 @@ And of course, send some appreciation to [Daycore](https://osu.ppy.sh/users/5596
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/mDfj5BNpWWc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Special thanks to this month's judges: [-mint-](https://osu.ppy.sh/users/8976576), [Monoseul](https://osu.ppy.sh/users/16010604), [taba2](https://osu.ppy.sh/users/7850508), and [Antalf](https://osu.ppy.sh/users/8793773)!
+Special thanks to this month's judges: ::-mint-::{ user-id=8976576 }, [Monoseul](https://osu.ppy.sh/users/16010604), ::taba2::{ user-id=7850508 }, and [Antalf](https://osu.ppy.sh/users/8793773)!
 
 ## Game modes
 

@@ -58,4 +58,4 @@ Nội dung của email nên chứa những thông tin sau:
 ## Có thể bạn chưa biết
 
 - Huy hiệu nhóm `BOT` hiển thị trên tài khoản cùng với một nhóm `Chat Bots` chính (nhóm #29). Danh sách nhóm này không được công khai.
-- Một số tài khoản cá nhân cũng ở trong nhóm chat bots vì chủ tài khoản không muốn hoặc không yêu cầu tài khoản bot riêng cho hệ thống của họ, ví dụ như ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) và ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454). Thiết lập này không còn được hỗ trợ, và bot mới gia nhập vào nhóm sẽ luôn được cấp một tài khoản riêng biệt.
+- Một số tài khoản cá nhân cũng ở trong nhóm chat bots vì chủ tài khoản không muốn hoặc không yêu cầu tài khoản bot riêng cho hệ thống của họ, ví dụ như ::{ flag=DE }:: ::Tillerino::{ user-id=2070907 } và ::{ flag=FR }:: ::ThePooN::{ user-id=718454 }. Thiết lập này không còn được hỗ trợ, và bot mới gia nhập vào nhóm sẽ luôn được cấp một tài khoản riêng biệt.

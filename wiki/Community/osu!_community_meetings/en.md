@@ -6,7 +6,7 @@ Long ago in the [game's distant past](https://twitter.com/ppy/status/11692568240
 
 If you are interested in asking questions, please make sure you've read through the guidelines listed further down this page.
 
-Currently, the osu! community meetings are being chaired by [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335), and [smoogipoo](https://osu.ppy.sh/users/1040328).
+Currently, the osu! community meetings are being chaired by ::peppy::{ user-id=2 }, [Ephemeral](https://osu.ppy.sh/users/102335), and ::smoogipoo::{ user-id=1040328 }.
 
 ## Getting involved
 

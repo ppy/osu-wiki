@@ -37,13 +37,13 @@ If you ask us what the premiere event of July was, it'd definitely be the [Round
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/roundtable/RTable_players.jpg)
 
-Featuring a line-up of great players like global rank #1 player [mrekk](https://osu.ppy.sh/users/7562902), [Utami](https://osu.ppy.sh/users/7512553), [RyuK](https://osu.ppy.sh/users/6304246) and many others, this tournament was truly a congregation of titans, a genius roster that makes sense for this first-ever **IRL osu! invitational**!
+Featuring a line-up of great players like global rank #1 player ::mrekk::{ user-id=7562902 }, [Utami](https://osu.ppy.sh/users/7512553), ::RyuK::{ user-id=6304246 } and many others, this tournament was truly a congregation of titans, a genius roster that makes sense for this first-ever **IRL osu! invitational**!
 
-Commentary for the entire event, along with gimmicks and constant focus on competitive spirit, was provided by [BTMC](https://osu.ppy.sh/users/3171691) and everybody's beloved (but slightly bewildered) uncle [Happystick](https://osu.ppy.sh/users/256802), and the result was nothing but epic!
+Commentary for the entire event, along with gimmicks and constant focus on competitive spirit, was provided by ::BTMC::{ user-id=3171691 } and everybody's beloved (but slightly bewildered) uncle ::Happystick::{ user-id=256802 }, and the result was nothing but epic!
 
 The tournament's epic progression eventually culminated in a final match of **mrekk vs. Utami**. Despite mrekk's defeat against Utami, his performance was nothing short of impressive, demonstrating that his first rank on the leaderboard sits unwavered.
 
-[Highlights for this match](https://www.youtube.com/watch?v=Y7LqBZL) were made available on BTMC's [YouTube channel](https://twitch.tv/btmc), plus  exclusive interviews of a few participants by BTMC (what a surprise), [Kroytz](https://osu.ppy.sh/users/2339768) and Happystick.
+[Highlights for this match](https://www.youtube.com/watch?v=Y7LqBZL) were made available on BTMC's [YouTube channel](https://twitch.tv/btmc), plus  exclusive interviews of a few participants by BTMC (what a surprise), ::Kroytz::{ user-id=2339768 } and Happystick.
 
 If you weren't able to follow the event, no worries! The official [Roundtable YouTube channel](https://www.youtube.com/channel/UC6fSQd4oKBPxkBR93GucCUg/featured) has the full VODs.
 
@@ -63,7 +63,7 @@ Not content to allow osu! to vacuum up all the glory, the members of the osu!tai
 
 Showcasing some of the best drum bashers the community has to offer, EGTS has a storied history of being one of the most competitively and visually impressive contests around, sporting enough dons and kats to even make the Taikonator blush.
 
-The GTS team's insanely talented designer [OsuMe65](https://osu.ppy.sh/users/852867), has also made a trailer for the tournament. Check it out and leave your thoughts down below!
+The GTS team's insanely talented designer ::OsuMe65::{ user-id=852867 }, has also made a trailer for the tournament. Check it out and leave your thoughts down below!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/9RtCEP0e9H8" frameborder="0" allowfullscreen></iframe>
 
@@ -75,11 +75,11 @@ At the beginning of July, [osu!catch World Cup 2022](/wiki/Tournaments/CWC/2022)
 
 ![](/wiki/shared/news/2022-08-01-osumonthly-1/podium.png)
 
-For the fourth time in a row and a total of eight wins, South Korea is the osu!catch champion. The roster consisted of [JISAN](https://osu.ppy.sh/users/3657951), [Rells](https://osu.ppy.sh/users/7937519), [YesMyDarknesss](https://osu.ppy.sh/users/4158549), [x_angelkawaii_x](https://osu.ppy.sh/users/566276), [DreStar](https://osu.ppy.sh/users/1808057), and [Byeol](https://osu.ppy.sh/users/2754651). United States ([Secre](https://osu.ppy.sh/users/2306637), [Lexii](https://osu.ppy.sh/users/7226149), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Colin](https://osu.ppy.sh/users/5502521), [Elux](https://osu.ppy.sh/users/12004983)) and China ([Dusk](https://osu.ppy.sh/users/533210), [Callionet](https://osu.ppy.sh/users/3072921), [Coevir](https://osu.ppy.sh/users/3171965), [Crystal](https://osu.ppy.sh/users/1646397), [KagamineRin02](https://osu.ppy.sh/users/518503), [Kitakami](https://osu.ppy.sh/users/6347308)) took second and third place respectively.
+For the fourth time in a row and a total of eight wins, South Korea is the osu!catch champion. The roster consisted of ::JISAN::{ user-id=3657951 }, [Rells](https://osu.ppy.sh/users/7937519), ::YesMyDarknesss::{ user-id=4158549 }, [x_angelkawaii_x](https://osu.ppy.sh/users/566276), ::DreStar::{ user-id=1808057 }, and [Byeol](https://osu.ppy.sh/users/2754651). United States (::Secre::{ user-id=2306637 }, [Lexii](https://osu.ppy.sh/users/7226149), ::Dahcreeper::{ user-id=6926006 }, [Zak](https://osu.ppy.sh/users/1375955), ::Colin::{ user-id=5502521 }, [Elux](https://osu.ppy.sh/users/12004983)) and China (::Dusk::{ user-id=533210 }, [Callionet](https://osu.ppy.sh/users/3072921), ::Coevir::{ user-id=3171965 }, [Crystal](https://osu.ppy.sh/users/1646397), ::KagamineRin02::{ user-id=518503 }, [Kitakami](https://osu.ppy.sh/users/6347308)) took second and third place respectively.
 
-It is no secret that players from South Korea are so good that they could swap with each other and win the entire tournament no matter what they were faced up against. With [qwhj1027](https://osu.ppy.sh/users/7547506) and [Abstract-](https://osu.ppy.sh/users/3097304) not being in the South Korean team like the previous year, some analysts had doubts on whether they could claim victory this year again. Thankfully or not, that wasn't the case here at all. With only 11 maps lost throughout entire tournament, South Korea showed that even without the strongest players this game could produce, there were still plenty of players waiting in the wings to take their shot at impressing the community and the crowd with their skills.
+It is no secret that players from South Korea are so good that they could swap with each other and win the entire tournament no matter what they were faced up against. With ::qwhj1027::{ user-id=7547506 } and [Abstract-](https://osu.ppy.sh/users/3097304) not being in the South Korean team like the previous year, some analysts had doubts on whether they could claim victory this year again. Thankfully or not, that wasn't the case here at all. With only 11 maps lost throughout entire tournament, South Korea showed that even without the strongest players this game could produce, there were still plenty of players waiting in the wings to take their shot at impressing the community and the crowd with their skills.
 
-The United States entered this tournament with almost the same roster as previous years with swapping [Kisetsunotori](https://osu.ppy.sh/users/3692648) to [Elux](https://osu.ppy.sh/users/12004983). Although they fell to the losers' bracket after a match against South Korea, the United States showed their determination to prove their worth and claimed themselves as grand finalists for the second time in this World Cup.
+The United States entered this tournament with almost the same roster as previous years with swapping ::Kisetsunotori::{ user-id=3692648 } to [Elux](https://osu.ppy.sh/users/12004983). Although they fell to the losers' bracket after a match against South Korea, the United States showed their determination to prove their worth and claimed themselves as grand finalists for the second time in this World Cup.
 
 With the recent change of swapping from a Group Stage to a Qualifier format, most players and viewers didn't expect to see China on the podium courtesy of a previous performance placing 7–8th. Shattering all expectations, China surged undeterred towards glory by reaching the Winners' Finals bracket without losing a single match until clashing with South Korea and, ultimately, the United States. Even with a long year of absence, China showed that even after being absent for an entire year they can still put up a fearsome fight against top teams.
 
@@ -105,7 +105,7 @@ As it is starting the on **6th of August**, we can't actually talk about it more
 
 #### Yomi Yori Madness
 
-[\[Karcher\]](https://osu.ppy.sh/users/11443437) is an absolute madman, achieving an insane full combo on [Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo](https://osu.ppy.sh/beatmapsets/461744#fruits/1031991) that is the first to ever hit the previously unconquered beatmap. For just over 8 minutes of gameplay at a staggering 220 BPM it is no small feat, and thus is more than worthy to be showed off as osu!'s top score of the month.
+::\[Karcher\]::{ user-id=11443437 } is an absolute madman, achieving an insane full combo on [Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo](https://osu.ppy.sh/beatmapsets/461744#fruits/1031991) that is the first to ever hit the previously unconquered beatmap. For just over 8 minutes of gameplay at a staggering 220 BPM it is no small feat, and thus is more than worthy to be showed off as osu!'s top score of the month.
 
 Not merely content with doing this once, \[Karcher\] opted to go ahead and do it *twice* after a minor mishap with his recording setup the first time potentially might've denied him the opportunity to reap a massive community-set bounty for the score. What more is to say other than *holy crap*?
 
@@ -115,7 +115,7 @@ Not merely content with doing this once, \[Karcher\] opted to go ahead and do it
 
 #### Speed of the gods
 
-Whew! If you thought the pick for osu! was crazy, wait 'till you watch [shinchikuhome](https://osu.ppy.sh/users/3174184)'s DT play on [Apollo](https://osu.ppy.sh/beatmapsets/1739877#taiko/3558252)!
+Whew! If you thought the pick for osu! was crazy, wait 'till you watch ::shinchikuhome::{ user-id=3174184 }'s DT play on [Apollo](https://osu.ppy.sh/beatmapsets/1739877#taiko/3558252)!
 
 This taiko play is set at an average of 411 BPM. Yes, you read that right, **411 BPM**! This is truly an insane play for any speed enthusiast and absolute taiko enjoyer. Make sure to show some love and enjoy the absolute speed demon plays shinichikuhome is known for!
 
@@ -127,7 +127,7 @@ This taiko play is set at an average of 411 BPM. Yes, you read that right, **411
 
 The mania k-pop community is going to be absolutely ecstatic at this next showcase.
 
-With [Onta_Bekasi](https://osu.ppy.sh/users/8677684) not just clearing but FCing the deceptively difficult yet soothing myriad of LNs and intricate patterns that [My Man](https://osu.ppy.sh/beatmapsets/514681#mania/1093212) so elegantly puts on display, the decision as to what to pick for July's monthly score was all but made for us.
+With ::Onta\1Bekasi::{ user-id=8677684 } not just clearing but FCing the deceptively difficult yet soothing myriad of LNs and intricate patterns that [My Man](https://osu.ppy.sh/beatmapsets/514681#mania/1093212) so elegantly puts on display, the decision as to what to pick for July's monthly score was all but made for us.
 
 Enduring only a tiny 0.02% accuracy drop across a 3-minute long slog of over 5000 notes, Onta_Bekasi's showing is top tier stuff, and we think you'll understand why after seeing it for yourself below.
 
@@ -135,7 +135,7 @@ Enduring only a tiny 0.02% accuracy drop across a 3-minute long slog of over 500
 
 #### Millions of long notes
 
-Witness this shocking performance by [[GS]Myuka](https://osu.ppy.sh/users/10072733) on [Camellia's *MI11I0N PP*](https://osu.ppy.sh/beatmapsets/1388481#mania/2867552)!
+Witness this shocking performance by ::\1GS\1Myuka::{ user-id=10072733 } on [Camellia's *MI11I0N PP*](https://osu.ppy.sh/beatmapsets/1388481#mania/2867552)!
 
 If you thought the deluge of long notes in *My Man* was something, just wait until you see this 7 minute map of non-stop madness, featuring not only single-note rainbows and glissandos, but an interconnected web of the two. It is an impeccable display of skill, accuracy, speed, and just what osu!monthly is looking for in a showcase!
 
@@ -145,7 +145,7 @@ If you thought the deluge of long notes in *My Man* was something, just wait unt
 
 #### Galaxy brain
 
-Somebody screeeeeam! Showing the fearsome prowess behind the number one osu!catch player in the world, [YesMyDarkness](https://osu.ppy.sh/users/4158549/fruits) has done it again.
+Somebody screeeeeam! Showing the fearsome prowess behind the number one osu!catch player in the world, ::YesMyDarkness::{ user-id=4158549 } has done it again.
 
 Coming in with an HD HR 4-miss on [Kurokotei's *Galaxy Collapse*](https://osu.ppy.sh/beatmapsets/521900#fruits/1108507), a titanic set renowned for being hard enough on its own without the inclusion of Hidden and HardRock, YesMyDarkness turned the intense and *dash*ingly hard jumps into a spectacle of grand proportions.
 
@@ -153,17 +153,17 @@ Coming in with an HD HR 4-miss on [Kurokotei's *Galaxy Collapse*](https://osu.pp
 
 ## New features in osu!(lazer)
 
-Before this month, notes on osu!(lazer)'s steady development has mostly been relegated to those following along via the [changelog](https://osu.ppy.sh/home/changelog) or [GitHub](https://github.com/ppy/osu) and the occasional tweet from [peppy](https://osu.ppy.sh/users/2) himself on especially interesting features.
+Before this month, notes on osu!(lazer)'s steady development has mostly been relegated to those following along via the [changelog](https://osu.ppy.sh/home/changelog) or [GitHub](https://github.com/ppy/osu) and the occasional tweet from ::peppy::{ user-id=2 } himself on especially interesting features.
 
 With the project rapidly approaching the point where it might earnestly start replacing the old client for a lot of people, there's never been a better time to dip your toes into the future of osu! and see what all the hype is about.
 
-For the first time ever, osu!(lazer) patch notes have been posted on the official osu! [YouTube channel](https://www.youtube.com/c/osugame) in video form, compiled by [pishifat](https://osu.ppy.sh/users/3178418) with further insight and commentary provided by peppy.
+For the first time ever, osu!(lazer) patch notes have been posted on the official osu! [YouTube channel](https://www.youtube.com/c/osugame) in video form, compiled by ::pishifat::{ user-id=3178418 } with further insight and commentary provided by peppy.
 
 Check out the first of the July update videos below:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/67P4LKlAh-0" frameborder="0" allowfullscreen></iframe>
 
-One especially interesting thing about osu!(lazer) is just how much easier it is for developers to create new mods with gameplay aspects that have never been seen before, with the new chaotic experience of the Repel mod serving as an excellent example. Finally, a worthy opponent for [badeu](https://osu.ppy.sh/users/1473890).
+One especially interesting thing about osu!(lazer) is just how much easier it is for developers to create new mods with gameplay aspects that have never been seen before, with the new chaotic experience of the Repel mod serving as an excellent example. Finally, a worthy opponent for ::badeu::{ user-id=1473890 }.
 
 <div align="center">
     <video width="100%" controls>
@@ -199,7 +199,7 @@ The first person to answer it correctly will receive a month of osu!supporter, l
 
 ## End word
 
-Big thanks go out to [Nelly](https://osu.ppy.sh/users/4741164) for the osu!catch news bulletin, [fajar13k](https://osu.ppy.sh/users/7100002) for his contribution to the EGTS part, and to the numerous [osu!wiki](https://github.com/ppy/osu-wiki) contributors whose reviews helped make this article possible.
+Big thanks go out to ::Nelly::{ user-id=4741164 } for the osu!catch news bulletin, ::fajar13k::{ user-id=7100002 } for his contribution to the EGTS part, and to the numerous [osu!wiki](https://github.com/ppy/osu-wiki) contributors whose reviews helped make this article possible.
 
 While waiting for the next issue, why not get involved and give us some feedback in the forum [discussion thread](https://osu.ppy.sh/community/forums/topics/1614314)? Any topics, comments, article ideas or other suggestions are very welcome, so don't be shy!
 

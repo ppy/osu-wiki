@@ -51,9 +51,9 @@ Aspire 6 is run by various members of the [osu! team](/wiki/People/osu!_team).
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |
-| Designer | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) |
-| General assistance | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
+| Host | ::{ flag=TN }:: ::Hivie::{ user-id=14102976 }, ::{ flag=GB }:: ::-Mo-::{ user-id=2202163 } |
+| Designer | ::{ flag=GB }:: ::Tanza3D::{ user-id=10379965 } |
+| General assistance | ::{ flag=US }:: ::pishifat::{ user-id=3178418 }, ::{ flag=SE }:: ::Walavouchey::{ user-id=5773079 } |
 
 ## Registrations
 
@@ -61,89 +61,89 @@ This table is updated once every few days. Last update was on 21 June 2026.
 
 | Team | Members |
 | :-- | :-- |
-|  | ::{ flag=CO }:: [\[ Azu- \]](https://osu.ppy.sh/users/8290364) |
-|  | ::{ flag=PT }:: [amongusrtx30080](https://osu.ppy.sh/users/27476898) |
-|  | ::{ flag=RU }:: [Gregg Lee](https://osu.ppy.sh/users/18614817) |
-|  | ::{ flag=US }:: [AdrianLazer](https://osu.ppy.sh/users/10292643) |
-| Abyss | ::{ flag=IT }:: [Klevsify](https://osu.ppy.sh/users/30556250) |
-| [insert meme here] <- HAHA! this is FUNNY! | ::{ flag=US }:: [Kirb2](https://osu.ppy.sh/users/35911207) |
-|  | ::{ flag=US }:: [SyIv](https://osu.ppy.sh/users/6821832) |
-|  | ::{ flag=US }:: [Alumence](https://osu.ppy.sh/users/30357961) |
-|  | ::{ flag=NZ }:: [Pass_ing](https://osu.ppy.sh/users/11798717) |
-| los pisuicas | ::{ flag=CR }:: [UniUniverse](https://osu.ppy.sh/users/15568608), ::{ flag=CR }:: [Megapcmx](https://osu.ppy.sh/users/4442138) |
-| PURO POWER EE | ::{ flag=CL }:: [yGantu](https://osu.ppy.sh/users/25206996) |
-| aura defarmer | ::{ flag=MY }:: [Mahiru Shiina](https://osu.ppy.sh/users/13866023) |
-| 糖拌爸妈 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534), ::{ flag=HK }:: [DraterTD](https://osu.ppy.sh/users/11671725) |
-| Only red | ::{ flag=IN }:: [KoiKarma](https://osu.ppy.sh/users/37833299) |
-| tma tsod | ::{ flag=CL }:: [TheShadowOfDark](https://osu.ppy.sh/users/5795337), ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) |
-| Ajez | ::{ flag=VN }:: [Zelzatter Zero](https://osu.ppy.sh/users/9200415), ::{ flag=MY }:: [JustABeginner](https://osu.ppy.sh/users/9388535) |
-| Asian Chuds | ::{ flag=US }:: [LammZ](https://osu.ppy.sh/users/29573226), ::{ flag=PH }:: [MonoGutsy](https://osu.ppy.sh/users/36727348) |
-|  | ::{ flag=RU }:: [KoTo](https://osu.ppy.sh/users/1382805) |
-|  | ::{ flag=NO }:: [Aspheria](https://osu.ppy.sh/users/14781224) |
-| Eureka! | ::{ flag=US }:: [veztoast](https://osu.ppy.sh/users/19575841) |
-| Mode Five | ::{ flag=RO }:: [ziv_vy](https://osu.ppy.sh/users/35320165) |
-| Q Branch | ::{ flag=ID }:: [multiplied](https://osu.ppy.sh/users/29292420), ::{ flag=ID }:: [kaupec1](https://osu.ppy.sh/users/19333530) |
-| ChartNetwork | ::{ flag=IN }:: [Rudasyy579](https://osu.ppy.sh/users/23231526) |
-| zvq9r6R6QAY | ::{ flag=US }:: [gibberjabber1](https://osu.ppy.sh/users/16253476) |
-|  | ::{ flag=NL }:: [StarLite4](https://osu.ppy.sh/users/39702838) |
-|  | ::{ flag=AU }:: [ralsricat](https://osu.ppy.sh/users/12318332), ::{ flag=AR }:: [azphyx](https://osu.ppy.sh/users/15137544) |
-|  | ::{ flag=UA }:: [Superdreamer](https://osu.ppy.sh/users/39651143) |
-| nil | ::{ flag=SG }:: [RyanAshazy1](https://osu.ppy.sh/users/27581177) |
-|  | ::{ flag=KR }:: [aewl](https://osu.ppy.sh/users/32580833) |
-| Romania | ::{ flag=DE }:: [Adewara](https://osu.ppy.sh/users/39558595) |
-| Zero two | ::{ flag=MY }:: [FyonneFy](https://osu.ppy.sh/users/38669424), ::{ flag=GB }:: [silcox1](https://osu.ppy.sh/users/37756377) |
-|  | ::{ flag=PL }:: [h3oCharles](https://osu.ppy.sh/users/8712289) |
-|  | ::{ flag=GB }:: [yoriiioff](https://osu.ppy.sh/users/39947087) |
-|  | ::{ flag=TW }:: [Solor](https://osu.ppy.sh/users/25201175) |
-| don't have | ::{ flag=RU }:: [Fusomi](https://osu.ppy.sh/users/19690928), ::{ flag=RU }:: [Fiekel](https://osu.ppy.sh/users/18029250) |
-|  | ::{ flag=PL }:: [PolishedSlav](https://osu.ppy.sh/users/13908254) |
-| The Greek Mappers | ::{ flag=GR }:: [KakashiSensei_](https://osu.ppy.sh/users/18254930), ::{ flag=GR }:: [Double_](https://osu.ppy.sh/users/20163454) |
-|  | ::{ flag=US }:: [WolfStarArtOSU](https://osu.ppy.sh/users/34821954) |
-|  | ::{ flag=US }:: [JinkusuSPL](https://osu.ppy.sh/users/32908054) |
-| No Authors Listed | ::{ flag=DE }:: [Tunnelblick](https://osu.ppy.sh/users/7737096), ::{ flag=US }:: [Utiba](https://osu.ppy.sh/users/11354436) |
-| Maid Enjoyer | ::{ flag=US }:: [Nightcor3](https://osu.ppy.sh/users/19173340) |
-| Formula 1 | ::{ flag=UA }:: [maxsd_ool](https://osu.ppy.sh/users/38568467), ::{ flag=RU }:: [Aceline_](https://osu.ppy.sh/users/16566480) |
-|  | ::{ flag=VN }:: [\[-Crazy Boy-\]](https://osu.ppy.sh/users/33849459) |
-|  | ::{ flag=RU }:: [732Edi_2](https://osu.ppy.sh/users/33122018) |
-| T4PULI_BABUL1 | ::{ flag=RU }:: [add222](https://osu.ppy.sh/users/14261013) |
-| CAMUSLAR | ::{ flag=AT }:: [Byakuyaa](https://osu.ppy.sh/users/38132593), ::{ flag=TR }:: [serpiente21](https://osu.ppy.sh/users/39660988) |
-| Grasii | ::{ flag=RO }:: [RyzeAims](https://osu.ppy.sh/users/19534518), ::{ flag=RO }:: [PoisonIce2000](https://osu.ppy.sh/users/19396960) |
-|  | ::{ flag=BR }:: [1_Miss_you_1](https://osu.ppy.sh/users/37663568) |
-| I AM. | ::{ flag=VN }:: [xiaomao](https://osu.ppy.sh/users/9829680) |
-| Joe Biden 🔜 RF15 | ::{ flag=TW }:: [\[ deleted \]](https://osu.ppy.sh/users/16341063), ::{ flag=NL }:: [Promachos](https://osu.ppy.sh/users/14069486) |
-| Door Chad? Us….🌾😔✌️ | ::{ flag=US }:: [EnderCraft](https://osu.ppy.sh/users/19950570) |
-| meow | ::{ flag=US }:: [6pXgEj3hc7Umj5H](https://osu.ppy.sh/users/18130046) |
-|  | ::{ flag=RU }:: [MishaKruto999](https://osu.ppy.sh/users/38188546), ::{ flag=RU }:: [kataqqee](https://osu.ppy.sh/users/38569621) |
-| fengshen | ::{ flag=CZ }:: [Teya](https://osu.ppy.sh/users/12203192), ::{ flag=CZ }:: [Fadeaway](https://osu.ppy.sh/users/9523358) |
-|  | ::{ flag=MA }:: [Natsux10](https://osu.ppy.sh/users/11733010) |
-|  | ::{ flag=CN }:: [Kieost](https://osu.ppy.sh/users/17823832) |
-| flacedphobia | ::{ flag=DE }:: [Noa Himesaka](https://osu.ppy.sh/users/10868788), ::{ flag=IN }:: [paraphobia](https://osu.ppy.sh/users/26679823) |
-|  | ::{ flag=CL }:: [Maaj204](https://osu.ppy.sh/users/19441919) |
-| Dani is kul | ::{ flag=US }:: [DanisDoodles](https://osu.ppy.sh/users/39980725) |
-|  | ::{ flag=DE }:: [0ppInOsu](https://osu.ppy.sh/users/12551840), ::{ flag=TH }:: [ohm002](https://osu.ppy.sh/users/4468239) |
-| BORN TO BEAT / WORLD IS A MAP / 音楽 Crash Em All 2026 / I am 2b / 3,215,697,262.574 BPM | ::{ flag=US }:: [-Arko](https://osu.ppy.sh/users/8802914), ::{ flag=US }:: [blixys](https://osu.ppy.sh/users/13015896) |
-|  | ::{ flag=VN }:: [StyxHavenVN](https://osu.ppy.sh/users/26175568) |
-| Synthesizer | ::{ flag=CN }:: [UTAU](https://osu.ppy.sh/users/13859320) |
-|  | ::{ flag=US }:: [TSMCARPALTUNNEL](https://osu.ppy.sh/users/35462249) |
-| doodle snoodles | ::{ flag=US }:: [chiga PT](https://osu.ppy.sh/users/38969729), ::{ flag=US }:: [nolo151](https://osu.ppy.sh/users/38184946) |
-| None | ::{ flag=AR }:: [Angelito24](https://osu.ppy.sh/users/29925688) |
-|  | ::{ flag=BR }:: [Thvhar](https://osu.ppy.sh/users/39987480) |
-| catadores de axilas 🙏 | ::{ flag=MX }:: [Pitxort](https://osu.ppy.sh/users/20565615), ::{ flag=MX }:: [FerRMZ](https://osu.ppy.sh/users/11086032) |
-| Potato Entretainment | ::{ flag=VE }:: [Draygon Fox](https://osu.ppy.sh/users/25302426), ::{ flag=VE }:: [brigidoc](https://osu.ppy.sh/users/12062228) |
-| codex | ::{ flag=BY }:: [DANILA058485](https://osu.ppy.sh/users/24885330) |
-|  | ::{ flag=UA }:: [efmos9](https://osu.ppy.sh/users/34364915) |
-| Double Bubble | ::{ flag=RU }:: [AkiraCX](https://osu.ppy.sh/users/14237716), ::{ flag=RU }:: [MyaFky](https://osu.ppy.sh/users/10040818) |
-|  | ::{ flag=RU }:: [perevod](https://osu.ppy.sh/users/19821599) |
-| Juvenoia | ::{ flag=GB }:: [Xuliyauk](https://osu.ppy.sh/users/39310053) |
-| sheldon lee cooper you dawg | ::{ flag=GB }:: [jaaaaacx](https://osu.ppy.sh/users/32397566) |
-| walawe | ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [\[-SVzzZ-\]](https://osu.ppy.sh/users/26574578) |
-|  | ::{ flag=PH }:: [Imajinaree](https://osu.ppy.sh/users/18397685) |
-|  | ::{ flag=RU }:: [Andrey_os2298](https://osu.ppy.sh/users/34410339) |
-| rentahuman.ai | ::{ flag=VN }:: [billypham](https://osu.ppy.sh/users/12970739) |
-| sajso | ::{ flag=TR }:: [corlax31](https://osu.ppy.sh/users/32026299), ::{ flag=TR }:: [cheyags](https://osu.ppy.sh/users/36991492) |
-| The Tung Sahurs | ::{ flag=VN }:: [Nagabi](https://osu.ppy.sh/users/10352099), ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) |
-| Perchik | ::{ flag=RU }:: [misterio21](https://osu.ppy.sh/users/19513468), ::{ flag=NO }:: [MrSpiderGDRA](https://osu.ppy.sh/users/39232648) |
-|  | ::{ flag=IS }:: [Geiri YT](https://osu.ppy.sh/users/15011371) |
+|  | ::{ flag=CO }:: ::\[ Azu- \]::{ user-id=8290364 } |
+|  | ::{ flag=PT }:: ::amongusrtx30080::{ user-id=27476898 } |
+|  | ::{ flag=RU }:: ::Gregg Lee::{ user-id=18614817 } |
+|  | ::{ flag=US }:: ::AdrianLazer::{ user-id=10292643 } |
+| Abyss | ::{ flag=IT }:: ::Klevsify::{ user-id=30556250 } |
+| [insert meme here] <- HAHA! this is FUNNY! | ::{ flag=US }:: ::Kirb2::{ user-id=35911207 } |
+|  | ::{ flag=US }:: ::SyIv::{ user-id=6821832 } |
+|  | ::{ flag=US }:: ::Alumence::{ user-id=30357961 } |
+|  | ::{ flag=NZ }:: ::Pass\1ing::{ user-id=11798717 } |
+| los pisuicas | ::{ flag=CR }:: ::UniUniverse::{ user-id=15568608 }, ::{ flag=CR }:: ::Megapcmx::{ user-id=4442138 } |
+| PURO POWER EE | ::{ flag=CL }:: ::yGantu::{ user-id=25206996 } |
+| aura defarmer | ::{ flag=MY }:: ::Mahiru Shiina::{ user-id=13866023 } |
+| 糖拌爸妈 | ::{ flag=CN }:: ::Seiran-::{ user-id=14351534 }, ::{ flag=HK }:: ::DraterTD::{ user-id=11671725 } |
+| Only red | ::{ flag=IN }:: ::KoiKarma::{ user-id=37833299 } |
+| tma tsod | ::{ flag=CL }:: ::TheShadowOfDark::{ user-id=5795337 }, ::{ flag=US }:: ::TheMagicAnimals::{ user-id=17274052 } |
+| Ajez | ::{ flag=VN }:: ::Zelzatter Zero::{ user-id=9200415 }, ::{ flag=MY }:: ::JustABeginner::{ user-id=9388535 } |
+| Asian Chuds | ::{ flag=US }:: ::LammZ::{ user-id=29573226 }, ::{ flag=PH }:: ::MonoGutsy::{ user-id=36727348 } |
+|  | ::{ flag=RU }:: ::KoTo::{ user-id=1382805 } |
+|  | ::{ flag=NO }:: ::Aspheria::{ user-id=14781224 } |
+| Eureka! | ::{ flag=US }:: ::veztoast::{ user-id=19575841 } |
+| Mode Five | ::{ flag=RO }:: ::ziv\1vy::{ user-id=35320165 } |
+| Q Branch | ::{ flag=ID }:: ::multiplied::{ user-id=29292420 }, ::{ flag=ID }:: ::kaupec1::{ user-id=19333530 } |
+| ChartNetwork | ::{ flag=IN }:: ::Rudasyy579::{ user-id=23231526 } |
+| zvq9r6R6QAY | ::{ flag=US }:: ::gibberjabber1::{ user-id=16253476 } |
+|  | ::{ flag=NL }:: ::StarLite4::{ user-id=39702838 } |
+|  | ::{ flag=AU }:: ::ralsricat::{ user-id=12318332 }, ::{ flag=AR }:: ::azphyx::{ user-id=15137544 } |
+|  | ::{ flag=UA }:: ::Superdreamer::{ user-id=39651143 } |
+| nil | ::{ flag=SG }:: ::RyanAshazy1::{ user-id=27581177 } |
+|  | ::{ flag=KR }:: ::aewl::{ user-id=32580833 } |
+| Romania | ::{ flag=DE }:: ::Adewara::{ user-id=39558595 } |
+| Zero two | ::{ flag=MY }:: ::FyonneFy::{ user-id=38669424 }, ::{ flag=GB }:: ::silcox1::{ user-id=37756377 } |
+|  | ::{ flag=PL }:: ::h3oCharles::{ user-id=8712289 } |
+|  | ::{ flag=GB }:: ::yoriiioff::{ user-id=39947087 } |
+|  | ::{ flag=TW }:: ::Solor::{ user-id=25201175 } |
+| don't have | ::{ flag=RU }:: ::Fusomi::{ user-id=19690928 }, ::{ flag=RU }:: ::Fiekel::{ user-id=18029250 } |
+|  | ::{ flag=PL }:: ::PolishedSlav::{ user-id=13908254 } |
+| The Greek Mappers | ::{ flag=GR }:: ::KakashiSensei\1::{ user-id=18254930 }, ::{ flag=GR }:: ::Double\1::{ user-id=20163454 } |
+|  | ::{ flag=US }:: ::WolfStarArtOSU::{ user-id=34821954 } |
+|  | ::{ flag=US }:: ::JinkusuSPL::{ user-id=32908054 } |
+| No Authors Listed | ::{ flag=DE }:: ::Tunnelblick::{ user-id=7737096 }, ::{ flag=US }:: ::Utiba::{ user-id=11354436 } |
+| Maid Enjoyer | ::{ flag=US }:: ::Nightcor3::{ user-id=19173340 } |
+| Formula 1 | ::{ flag=UA }:: ::maxsd\1ool::{ user-id=38568467 }, ::{ flag=RU }:: ::Aceline\1::{ user-id=16566480 } |
+|  | ::{ flag=VN }:: ::\[-Crazy Boy-\]::{ user-id=33849459 } |
+|  | ::{ flag=RU }:: ::732Edi\12::{ user-id=33122018 } |
+| T4PULI_BABUL1 | ::{ flag=RU }:: ::add222::{ user-id=14261013 } |
+| CAMUSLAR | ::{ flag=AT }:: ::Byakuyaa::{ user-id=38132593 }, ::{ flag=TR }:: ::serpiente21::{ user-id=39660988 } |
+| Grasii | ::{ flag=RO }:: ::RyzeAims::{ user-id=19534518 }, ::{ flag=RO }:: ::PoisonIce2000::{ user-id=19396960 } |
+|  | ::{ flag=BR }:: ::1\1Miss\1you\11::{ user-id=37663568 } |
+| I AM. | ::{ flag=VN }:: ::xiaomao::{ user-id=9829680 } |
+| Joe Biden 🔜 RF15 | ::{ flag=TW }:: ::\[ deleted \]::{ user-id=16341063 }, ::{ flag=NL }:: ::Promachos::{ user-id=14069486 } |
+| Door Chad? Us….🌾😔✌️ | ::{ flag=US }:: ::EnderCraft::{ user-id=19950570 } |
+| meow | ::{ flag=US }:: ::6pXgEj3hc7Umj5H::{ user-id=18130046 } |
+|  | ::{ flag=RU }:: ::MishaKruto999::{ user-id=38188546 }, ::{ flag=RU }:: ::kataqqee::{ user-id=38569621 } |
+| fengshen | ::{ flag=CZ }:: ::Teya::{ user-id=12203192 }, ::{ flag=CZ }:: ::Fadeaway::{ user-id=9523358 } |
+|  | ::{ flag=MA }:: ::Natsux10::{ user-id=11733010 } |
+|  | ::{ flag=CN }:: ::Kieost::{ user-id=17823832 } |
+| flacedphobia | ::{ flag=DE }:: ::Noa Himesaka::{ user-id=10868788 }, ::{ flag=IN }:: ::paraphobia::{ user-id=26679823 } |
+|  | ::{ flag=CL }:: ::Maaj204::{ user-id=19441919 } |
+| Dani is kul | ::{ flag=US }:: ::DanisDoodles::{ user-id=39980725 } |
+|  | ::{ flag=DE }:: ::0ppInOsu::{ user-id=12551840 }, ::{ flag=TH }:: ::ohm002::{ user-id=4468239 } |
+| BORN TO BEAT / WORLD IS A MAP / 音楽 Crash Em All 2026 / I am 2b / 3,215,697,262.574 BPM | ::{ flag=US }:: ::-Arko::{ user-id=8802914 }, ::{ flag=US }:: ::blixys::{ user-id=13015896 } |
+|  | ::{ flag=VN }:: ::StyxHavenVN::{ user-id=26175568 } |
+| Synthesizer | ::{ flag=CN }:: ::UTAU::{ user-id=13859320 } |
+|  | ::{ flag=US }:: ::TSMCARPALTUNNEL::{ user-id=35462249 } |
+| doodle snoodles | ::{ flag=US }:: ::chiga PT::{ user-id=38969729 }, ::{ flag=US }:: ::nolo151::{ user-id=38184946 } |
+| None | ::{ flag=AR }:: ::Angelito24::{ user-id=29925688 } |
+|  | ::{ flag=BR }:: ::Thvhar::{ user-id=39987480 } |
+| catadores de axilas 🙏 | ::{ flag=MX }:: ::Pitxort::{ user-id=20565615 }, ::{ flag=MX }:: ::FerRMZ::{ user-id=11086032 } |
+| Potato Entretainment | ::{ flag=VE }:: ::Draygon Fox::{ user-id=25302426 }, ::{ flag=VE }:: ::brigidoc::{ user-id=12062228 } |
+| codex | ::{ flag=BY }:: ::DANILA058485::{ user-id=24885330 } |
+|  | ::{ flag=UA }:: ::efmos9::{ user-id=34364915 } |
+| Double Bubble | ::{ flag=RU }:: ::AkiraCX::{ user-id=14237716 }, ::{ flag=RU }:: ::MyaFky::{ user-id=10040818 } |
+|  | ::{ flag=RU }:: ::perevod::{ user-id=19821599 } |
+| Juvenoia | ::{ flag=GB }:: ::Xuliyauk::{ user-id=39310053 } |
+| sheldon lee cooper you dawg | ::{ flag=GB }:: ::jaaaaacx::{ user-id=32397566 } |
+| walawe | ::{ flag=ID }:: ::Ainer::{ user-id=13371424 }, ::{ flag=ID }:: ::\[-SVzzZ-\]::{ user-id=26574578 } |
+|  | ::{ flag=PH }:: ::Imajinaree::{ user-id=18397685 } |
+|  | ::{ flag=RU }:: ::Andrey\1os2298::{ user-id=34410339 } |
+| rentahuman.ai | ::{ flag=VN }:: ::billypham::{ user-id=12970739 } |
+| sajso | ::{ flag=TR }:: ::corlax31::{ user-id=32026299 }, ::{ flag=TR }:: ::cheyags::{ user-id=36991492 } |
+| The Tung Sahurs | ::{ flag=VN }:: ::Nagabi::{ user-id=10352099 }, ::{ flag=HU }:: ::Himada::{ user-id=10959366 } |
+| Perchik | ::{ flag=RU }:: ::misterio21::{ user-id=19513468 }, ::{ flag=NO }:: ::MrSpiderGDRA::{ user-id=39232648 } |
+|  | ::{ flag=IS }:: ::Geiri YT::{ user-id=15011371 } |
 
 ## Format
 
@@ -200,7 +200,7 @@ The number of categories for a game mode may be reduced if there aren't enough e
 
 Users may freely vote for more than one entry for each category — the exact number of votes available will be dependent on the number of entries. Users are **not** required to play the maps in order to vote for them.
 
-Entries will be anonymised and uploaded to the [osu!team account](https://osu.ppy.sh/users/4341397) for voting. A playlist will also be provided for the submissions which aren't *too* unplayable.
+Entries will be anonymised and uploaded to the ::osu!team account::{ user-id=4341397 } for voting. A playlist will also be provided for the submissions which aren't *too* unplayable.
 
 After voting closes and results are announced, the ownership of all entries will be transferred to one of the entrants — contestants will be contacted to ask who will be the main set owner.
 
@@ -210,7 +210,7 @@ Votes from mappers will also be tallied up — anyone who has a Ranked mapset or
 
 For any questions or inquiries, contact [aspire@ppy.sh](mailto:aspire@ppy.sh).
 
-If your inquiry is urgent and you aren't getting a timely response, please contact [Hivie](https://osu.ppy.sh/users/14102976) or [-Mo-](https://osu.ppy.sh/users/2202163) directly.
+If your inquiry is urgent and you aren't getting a timely response, please contact ::Hivie::{ user-id=14102976 } or [-Mo-](https://osu.ppy.sh/users/2202163) directly.
 
 ## Rules
 

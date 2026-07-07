@@ -6,7 +6,7 @@ tags:
 
 # osu! Vintage Map Tourney 2! Electric Boogaloo!
 
-The **osu! Vintage Map Tourney 2! Electric Boogaloo!** (***OVMT2***) was a 1v1 single-elimination osu! tournament hosted by ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914). It was the second instalment of the osu! Vintage Map Tourney!.
+The **osu! Vintage Map Tourney 2! Electric Boogaloo!** (***OVMT2***) was a 1v1 single-elimination osu! tournament hosted by ::{ flag=GB }:: ::mmi-::{ user-id=5444914 }. It was the second instalment of the osu! Vintage Map Tourney!.
 
 ## Tournament schedule
 
@@ -37,12 +37,12 @@ osu! Vintage Map Tourney! was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914) |
-| Mappool selector | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914) |
-| Streamer | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=FI }:: [LefafeI](https://osu.ppy.sh/users/2295850) |
-| Commentator | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=FI }:: [LefafeI](https://osu.ppy.sh/users/2295850), ::{ flag=US }:: [Starrodkirby86](https://osu.ppy.sh/users/410) |
-| Designer | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914) |
-| Referee | ::{ flag=GB }:: [mmi-](https://osu.ppy.sh/users/5444914), ::{ flag=FI }:: [LefafeI](https://osu.ppy.sh/users/2295850), ::{ flag=FR }:: [Alheak](https://osu.ppy.sh/users/3583061), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [djsettle](https://osu.ppy.sh/users/4010354), ::{ flag=GB }:: [minorman4](https://osu.ppy.sh/users/4837257) |
+| Host | ::{ flag=GB }:: ::mmi-::{ user-id=5444914 } |
+| Mappool selector | ::{ flag=GB }:: ::mmi-::{ user-id=5444914 } |
+| Streamer | ::{ flag=GB }:: ::mmi-::{ user-id=5444914 }, ::{ flag=FI }:: ::LefafeI::{ user-id=2295850 } |
+| Commentator | ::{ flag=GB }:: ::mmi-::{ user-id=5444914 }, ::{ flag=FI }:: ::LefafeI::{ user-id=2295850 }, ::{ flag=US }:: ::Starrodkirby86::{ user-id=410 } |
+| Designer | ::{ flag=GB }:: ::mmi-::{ user-id=5444914 } |
+| Referee | ::{ flag=GB }:: ::mmi-::{ user-id=5444914 }, ::{ flag=FI }:: ::LefafeI::{ user-id=2295850 }, ::{ flag=FR }:: ::Alheak::{ user-id=3583061 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 }, ::{ flag=GB }:: ::djsettle::{ user-id=4010354 }, ::{ flag=GB }:: ::minorman4::{ user-id=4837257 } |
 
 ## Links
 
@@ -63,9 +63,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=TW }:: [Rucker](https://osu.ppy.sh/users/147515) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=SI }:: [krom1](https://osu.ppy.sh/users/4643145) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: ::Toy::{ user-id=2757689 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=TW }:: ::Rucker::{ user-id=147515 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=SI }:: ::krom1::{ user-id=4643145 } |
 
 ## Mappools
 

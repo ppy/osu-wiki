@@ -13,7 +13,7 @@ A staple member of Japanese label *MEGAREX* with songs featured in rhythm games 
 
 We've picked up **12** tracks from their ever-so-impressive catalogue, so scramble through them on [**Mameyudoufu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/209) and find a song (or twelve) to give an attempt at mapping!
 
-[captin1](https://osu.ppy.sh/users/689997) has been hyping up the gospel (a.k.a. **Mameyudoufu**'s music) within the osu! community for more than a year, so it's only fitting to showcase this immersive soundscape through a video of captin1's [*Citadel*](https://osu.ppy.sh/beatmapsets/1024712) map. Explore that and the rest of the previews below:
+::captin1::{ user-id=689997 } has been hyping up the gospel (a.k.a. **Mameyudoufu**'s music) within the osu! community for more than a year, so it's only fitting to showcase this immersive soundscape through a video of captin1's [*Citadel*](https://osu.ppy.sh/beatmapsets/1024712) map. Explore that and the rest of the previews below:
 
 <div align="center">
     <video width="90%" controls>
@@ -23,7 +23,7 @@ We've picked up **12** tracks from their ever-so-impressive catalogue, so scramb
 
 ### Mameyudoufu - Citadel
 
-Try out [the map seen above](https://osu.ppy.sh/beatmapsets/1024712) hosted by [captin1](https://osu.ppy.sh/users/689997)!
+Try out [the map seen above](https://osu.ppy.sh/beatmapsets/1024712) hosted by ::captin1::{ user-id=689997 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/209/Songs/Mameyudoufu%20-%20Citadel.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Try out [the map seen above](https://osu.ppy.sh/beatmapsets/1024712) hosted by [
 
 ### Mameyudoufu - Quality Control
 
-Or check out [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1052288) hosted by [Megafan](https://osu.ppy.sh/users/6632605)!
+Or check out [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1052288) hosted by ::Megafan::{ user-id=6632605 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/209/Songs/Mameyudoufu%20-%20Quality%20Control.mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Or check out [this osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1052288) ho
 
 ### rejection - Signal feat. Such (Mameyudoufu Remix)
 
-See how **Mameyudoufu**'s take on this popular track through [an osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1190233) hosted by [KappuChinooo](https://osu.ppy.sh/users/9582525)!
+See how **Mameyudoufu**'s take on this popular track through [an osu!taiko beatmap](https://osu.ppy.sh/beatmapsets/1190233) hosted by ::KappuChinooo::{ user-id=9582525 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/209/Songs/rejection%20-%20Signal%20%28feat.%20Such%29%20-%20Mameyudoufu%20Remix.mp3" type="audio/mpeg">

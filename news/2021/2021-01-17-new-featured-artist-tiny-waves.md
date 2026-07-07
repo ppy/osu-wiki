@@ -13,7 +13,7 @@ Working with artists throughout the EDM scene since 2015, [**Tiny Waves**](https
 
 Given **Tiny Waves** is a *record label* rather than a specific artist, we managed to snag a collection of tracks from a *ton* of artists. More specifically, we have **13** tracks featuring collaborations from a total of **17** unique musicians!
 
-*Kabuki* and [*MYLK*](https://osu.ppy.sh/beatmaps/artists/62) are two of those artists, and their recently mapped track [Talk 2 Me](https://osu.ppy.sh/beatmapsets/1293770) by [Gero](https://osu.ppy.sh/users/1467715) below serves as an example of how perfectly **Tiny Waves** music converts to osu!.
+*Kabuki* and [*MYLK*](https://osu.ppy.sh/beatmaps/artists/62) are two of those artists, and their recently mapped track [Talk 2 Me](https://osu.ppy.sh/beatmapsets/1293770) by ::Gero::{ user-id=1467715 } below serves as an example of how perfectly **Tiny Waves** music converts to osu!.
 
 <div align="center">
     <video width="95%" controls>

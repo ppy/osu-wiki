@@ -34,14 +34,14 @@ The prizes are handed out in the form of **points**; every 48 points can be rede
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=SI }:: [Redavor](https://osu.ppy.sh/users/3328606) |
-| Admin | ::{ flag=SI }:: [DomenBzo](https://osu.ppy.sh/users/3450825), ::{ flag=SI }:: [kristi71111](https://osu.ppy.sh/users/3826105), ::{ flag=TR }:: [oralekin](https://osu.ppy.sh/users/7631823) |
-| Moderator | ::{ flag=NL }:: [Godot](https://osu.ppy.sh/users/6466477), ::{ flag=DE }:: [Niegth](https://osu.ppy.sh/users/1991114), ::{ flag=US }:: [You Watanabe](https://osu.ppy.sh/users/3188911) |
-| Mappool selector | ::{ flag=TH }:: [GuChangeDeWorld](https://osu.ppy.sh/users/7125579), ::{ flag=US }:: [Joezapy](https://osu.ppy.sh/users/6725659), ::{ flag=CA }:: [Meow-Mix](https://osu.ppy.sh/users/3021634) |
-| Designer | ::{ flag=MY }:: [Xeious](https://osu.ppy.sh/users/5357146) |
-| Streamer | ::{ flag=US }:: [\_p0ke\_](https://osu.ppy.sh/users/5434711), ::{ flag=SE }:: [BeatingHeart](https://osu.ppy.sh/users/4586549), ::{ flag=PL }:: [Dabis](https://osu.ppy.sh/users/509575), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=NL }:: [Mirai Subject](https://osu.ppy.sh/users/5639709), ::{ flag=GB }:: [OzzyOzborne](https://osu.ppy.sh/users/5377173), ::{ flag=RU }:: [Willjoy](https://osu.ppy.sh/users/2484373) |
-| Commentator | ::{ flag=SG }:: [Anfang](https://osu.ppy.sh/users/9424243), ::{ flag=SE }:: [ErroTheCube](https://osu.ppy.sh/users/4425262), ::{ flag=MY }:: [Espalza](https://osu.ppy.sh/users/8355574), ::{ flag=AU }:: [Grassy](https://osu.ppy.sh/users/8067959), ::{ flag=AT }:: [GumalaOC](https://osu.ppy.sh/users/5367718), ::{ flag=PH }:: [kristoffer09](https://osu.ppy.sh/users/3474344), ::{ flag=PH }:: [SilentVoice](https://osu.ppy.sh/users/9570552), ::{ flag=SG }:: [woahsia](https://osu.ppy.sh/users/195946) |
-| Referee | ::{ flag=PH }:: [Deadpulse](https://osu.ppy.sh/users/8575527), ::{ flag=DE }:: [DungeonFace](https://osu.ppy.sh/users/1991031), ::{ flag=US }:: [Elcheer](https://osu.ppy.sh/users/4420014), ::{ flag=PL }:: [HAEN24](https://osu.ppy.sh/users/4390077), ::{ flag=SG }:: [Kumabread](https://osu.ppy.sh/users/7210491), ::{ flag=PL }:: [MagBlood](https://osu.ppy.sh/users/6178640), ::{ flag=RU }:: [NikerVM](https://osu.ppy.sh/users/3618495), ::{ flag=RU }:: [Soquire](https://osu.ppy.sh/users/3618495), ::{ flag=GB }:: [Stedoss](https://osu.ppy.sh/users/8331546), ::{ flag=US }:: [YoshiLover456](https://osu.ppy.sh/users/6843383) |
+| Host | ::{ flag=SI }:: ::Redavor::{ user-id=3328606 } |
+| Admin | ::{ flag=SI }:: ::DomenBzo::{ user-id=3450825 }, ::{ flag=SI }:: ::kristi71111::{ user-id=3826105 }, ::{ flag=TR }:: ::oralekin::{ user-id=7631823 } |
+| Moderator | ::{ flag=NL }:: ::Godot::{ user-id=6466477 }, ::{ flag=DE }:: ::Niegth::{ user-id=1991114 }, ::{ flag=US }:: ::You Watanabe::{ user-id=3188911 } |
+| Mappool selector | ::{ flag=TH }:: ::GuChangeDeWorld::{ user-id=7125579 }, ::{ flag=US }:: ::Joezapy::{ user-id=6725659 }, ::{ flag=CA }:: ::Meow-Mix::{ user-id=3021634 } |
+| Designer | ::{ flag=MY }:: ::Xeious::{ user-id=5357146 } |
+| Streamer | ::{ flag=US }:: ::\_p0ke\_::{ user-id=5434711 }, ::{ flag=SE }:: ::BeatingHeart::{ user-id=4586549 }, ::{ flag=PL }:: ::Dabis::{ user-id=509575 }, ::{ flag=FI }:: ::Lefafel::{ user-id=2295850 }, ::{ flag=NL }:: ::Mirai Subject::{ user-id=5639709 }, ::{ flag=GB }:: ::OzzyOzborne::{ user-id=5377173 }, ::{ flag=RU }:: ::Willjoy::{ user-id=2484373 } |
+| Commentator | ::{ flag=SG }:: ::Anfang::{ user-id=9424243 }, ::{ flag=SE }:: ::ErroTheCube::{ user-id=4425262 }, ::{ flag=MY }:: ::Espalza::{ user-id=8355574 }, ::{ flag=AU }:: ::Grassy::{ user-id=8067959 }, ::{ flag=AT }:: ::GumalaOC::{ user-id=5367718 }, ::{ flag=PH }:: ::kristoffer09::{ user-id=3474344 }, ::{ flag=PH }:: ::SilentVoice::{ user-id=9570552 }, ::{ flag=SG }:: ::woahsia::{ user-id=195946 } |
+| Referee | ::{ flag=PH }:: ::Deadpulse::{ user-id=8575527 }, ::{ flag=DE }:: ::DungeonFace::{ user-id=1991031 }, ::{ flag=US }:: ::Elcheer::{ user-id=4420014 }, ::{ flag=PL }:: ::HAEN24::{ user-id=4390077 }, ::{ flag=SG }:: ::Kumabread::{ user-id=7210491 }, ::{ flag=PL }:: ::MagBlood::{ user-id=6178640 }, ::{ flag=RU }:: ::NikerVM::{ user-id=3618495 }, ::{ flag=RU }:: ::Soquire::{ user-id=3618495 }, ::{ flag=GB }:: ::Stedoss::{ user-id=8331546 }, ::{ flag=US }:: ::YoshiLover456::{ user-id=6843383 } |
 
 ## Predictions
 
@@ -54,7 +54,7 @@ Anyone was allowed to predict the outcome of the tournament until the starting d
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 6 Points |
 | *4th place* | 3 Points |
 
-::{ flag=GB }:: [Olii](https://osu.ppy.sh/users/7683305) won the predictions, with ::{ flag=SI }:: [Redavor](https://osu.ppy.sh/users/3328606) in second place, and ::{ flag=PL }:: [Malson](https://osu.ppy.sh/users/6047395) in third place.
+::{ flag=GB }:: ::Olii::{ user-id=7683305 } won the predictions, with ::{ flag=SI }:: ::Redavor::{ user-id=3328606 } in second place, and ::{ flag=PL }:: ::Malson::{ user-id=6047395 } in third place.
 
 ## Links
 
@@ -65,20 +65,20 @@ Anyone was allowed to predict the outcome of the tournament until the starting d
 
 16 players are admitted into each Invitational. Only players who have reached the Semifinals in one of the last four Invitationals get invited. Players eligible for Invitational 5 were:
 
-- ::{ flag=RU }:: [\_Suzuha](https://osu.ppy.sh/users/8445602)
-- ::{ flag=NO }:: [Bissas](https://osu.ppy.sh/users/7618918)
-- ::{ flag=US }:: [diamondturtle01](https://osu.ppy.sh/users/4118117)
-- ::{ flag=LT }:: [Eismis](https://osu.ppy.sh/users/1436793)
-- ::{ flag=MA }:: [iTzAshraf](https://osu.ppy.sh/users/10285023)
-- ::{ flag=US }:: [jppz](https://osu.ppy.sh/users/7889571)
-- ::{ flag=AU }:: [Klein-](https://osu.ppy.sh/users/2153933)
-- ::{ flag=RU }:: [KoloMl](https://osu.ppy.sh/users/6544403)
-- ::{ flag=RU }:: [Nogad](https://osu.ppy.sh/users/6488077)
-- ::{ flag=GB }:: [Olii](https://osu.ppy.sh/users/7683305)
-- ::{ flag=BR }:: [PlayPen](https://osu.ppy.sh/users/5094351)
-- ::{ flag=FR }:: [Prosdokies](https://osu.ppy.sh/users/3852436)
-- ::{ flag=RU }:: [Well Halen](https://osu.ppy.sh/users/8660244)
-- ::{ flag=UA }:: [Xelite](https://osu.ppy.sh/users/7793117)
+- ::{ flag=RU }:: ::\_Suzuha::{ user-id=8445602 }
+- ::{ flag=NO }:: ::Bissas::{ user-id=7618918 }
+- ::{ flag=US }:: ::diamondturtle01::{ user-id=4118117 }
+- ::{ flag=LT }:: ::Eismis::{ user-id=1436793 }
+- ::{ flag=MA }:: ::iTzAshraf::{ user-id=10285023 }
+- ::{ flag=US }:: ::jppz::{ user-id=7889571 }
+- ::{ flag=AU }:: ::Klein-::{ user-id=2153933 }
+- ::{ flag=RU }:: ::KoloMl::{ user-id=6544403 }
+- ::{ flag=RU }:: ::Nogad::{ user-id=6488077 }
+- ::{ flag=GB }:: ::Olii::{ user-id=7683305 }
+- ::{ flag=BR }:: ::PlayPen::{ user-id=5094351 }
+- ::{ flag=FR }:: ::Prosdokies::{ user-id=3852436 }
+- ::{ flag=RU }:: ::Well Halen::{ user-id=8660244 }
+- ::{ flag=UA }:: ::Xelite::{ user-id=7793117 }
 
 *Notice: Klein- and Nogad gave up their places in the Invitational, and iTzAshraf and \_Suzuha reached semifinals twice. Due to this, 4 people who have not reached semifinals were selected to participate in the tournament: filler players.*
 
@@ -89,7 +89,7 @@ The filler players were chosen according to a few criteria in the following prio
 3. Number of times participated in RMoT
 4. Current pp
 
-::{ flag=MY }:: [Aasheda\_](https://osu.ppy.sh/users/7614055), ::{ flag=US }:: [Likean00b](https://osu.ppy.sh/users/4860447), ::{ flag=PL }:: [My Angel Erwin](https://osu.ppy.sh/users/6814521) and ::{ flag=RU }:: [Skif4a8929](https://osu.ppy.sh/users/6700953) gained the right to participate in the Invitational, ::{ flag=RU }:: [Skif4a8929](https://osu.ppy.sh/users/6700953) being seeded lower than the other three.
+::{ flag=MY }:: ::Aasheda\_::{ user-id=7614055 }, ::{ flag=US }:: ::Likean00b::{ user-id=4860447 }, ::{ flag=PL }:: ::My Angel Erwin::{ user-id=6814521 } and ::{ flag=RU }:: ::Skif4a8929::{ user-id=6700953 } gained the right to participate in the Invitational, ::{ flag=RU }:: ::Skif4a8929::{ user-id=6700953 } being seeded lower than the other three.
 
 ## Podium
 
@@ -97,9 +97,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Participant |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [Prosdokies](https://osu.ppy.sh/users/3852436) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: ::Prosdokies::{ user-id=3852436 } |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RU }:: [Essi](https://osu.ppy.sh//users/8660244) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RU }:: [KoloMl](https://osu.ppy.sh/users/6544403) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RU }:: ::KoloMl::{ user-id=6544403 } |
 
 ## Mappool
 

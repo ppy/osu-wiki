@@ -64,7 +64,7 @@ Torneios e competições não-oficiais também são sediados pelas comunidades.
 
 | Nome | Início | Fim | ![Gold Crown](/wiki/shared/crown-gold.png "1º Lugar") | ![Silver Crown](/wiki/shared/crown-silver.png "2º Lugar") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3º Lugar") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [RMoT #2](/wiki/Tournaments/RMoTI/2) | 06/05/2017 | 14/05/2017 | [MagBlood](https://osu.ppy.sh/users/6178640) | [bsurma](https://osu.ppy.sh/users/509575) | [MaIson](https://osu.ppy.sh/users/6047395) |
+| [RMoT #2](/wiki/Tournaments/RMoTI/2) | 06/05/2017 | 14/05/2017 | ::MagBlood::{ user-id=6178640 } | [bsurma](https://osu.ppy.sh/users/509575) | ::MaIson::{ user-id=6047395 } |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 
@@ -76,14 +76,14 @@ Torneios e competições não-oficiais também são sediados pelas comunidades.
 
 | Nome | Início | Fim | ![Gold Crown](/wiki/shared/crown-gold.png "1º Lugar") | ![Silver Crown](/wiki/shared/crown-silver.png "2º Lugar") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3º Lugar") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Most Amazing LAN Ever](/wiki/Tournaments/osu!_Riverside/MALE) | 2019-01-27 | 2019-01-27 | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ::{ flag=US }:: [Zushen](https://osu.ppy.sh/users/2106316) (osu!mania) | ::{ flag=US }:: [Darin on osu](https://osu.ppy.sh/users/4839876) (osu!), ::{ flag=US }:: [Ecal](https://osu.ppy.sh/users/8384260) (osu!mania) | ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459) (osu!), ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+| [Most Amazing LAN Ever](/wiki/Tournaments/osu!_Riverside/MALE) | 2019-01-27 | 2019-01-27 | ::{ flag=US }:: ::Mathyu::{ user-id=6303313 } (osu!), ::{ flag=US }:: ::Zushen::{ user-id=2106316 } (osu!mania) | ::{ flag=US }:: ::Darin on osu::{ user-id=4839876 } (osu!), ::{ flag=US }:: ::Ecal::{ user-id=8384260 } (osu!mania) | ::{ flag=US }:: ::Kenny::{ user-id=1225459 } (osu!), ::{ flag=US }:: ::Ouchiee::{ user-id=6310052 } (osu!mania) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) osu! UCI
 
 | Nome | Data | ![Gold Crown](/wiki/shared/crown-gold.png "1º Lugar") | ![Silver Crown](/wiki/shared/crown-silver.png "2º Lugar") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3º Lugar") |
 | :-- | :-- | :-- | :-- | :-- |
-| [The iDOL@NSTER: Irvine Spring Stage](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ::{ flag=US }:: [death grips](https://osu.ppy.sh/users/4829231) (osu!), ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
-| [Night Fall LAN](osu!_UCI/NFL) | 2020-01-18 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) (osu!), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) (osu!mania) | ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013) (osu!), ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ::{ flag=CA }:: [Dark lord bob](https://osu.ppy.sh/users/4588299) (osu!mania) |
+| [The iDOL@NSTER: Irvine Spring Stage](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 } (osu!), ::{ flag=US }:: ::Crescendo PiaNo::{ user-id=8798383 } (osu!mania) | ::{ flag=US }:: ::Mathyu::{ user-id=6303313 } (osu!), ::{ flag=US }:: ::Trainer-::{ user-id=9331760 } (osu!mania) | ::{ flag=US }:: ::death grips::{ user-id=4829231 } (osu!), ::{ flag=US }:: ::Ouchiee::{ user-id=6310052 } (osu!mania) |
+| [Night Fall LAN](osu!_UCI/NFL) | 2020-01-18 | ::{ flag=US }:: ::Vaxei::{ user-id=4787150 } (osu!), ::{ flag=US }:: ::-mint-::{ user-id=8976576 } (osu!mania) | ::{ flag=US }:: ::Monko2k::{ user-id=4852013 } (osu!), ::{ flag=US }:: ::Crescendo PiaNo::{ user-id=8798383 } (osu!mania) | ::{ flag=US }:: ::fieryrage::{ user-id=3533958 } (osu!), ::{ flag=CA }:: ::Dark lord bob::{ user-id=4588299 } (osu!mania) |
 
 ## Veja também
 

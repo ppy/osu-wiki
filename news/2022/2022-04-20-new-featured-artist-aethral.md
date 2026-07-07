@@ -13,7 +13,7 @@ Sitting comfortably at the intersection between rhythm game music and the hardco
 
 **12** of his spectacular tracks are here to stay. Check out [**Aethral**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/259) to experience them for yourself.
 
-If you need some convincing, watch [Monko2k](https://osu.ppy.sh/users/4852013) play one of **Aethral**'s songs from the comfort of his home setup:
+If you need some convincing, watch ::Monko2k::{ user-id=4852013 } play one of **Aethral**'s songs from the comfort of his home setup:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ If you need some convincing, watch [Monko2k](https://osu.ppy.sh/users/4852013) p
 
 ### Aethral - It's Boss Time, dude
 
-Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1724172) hosted by [PaRaDogi](https://osu.ppy.sh/users/2054596)!
+Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1724172) hosted by ::PaRaDogi::{ user-id=2054596 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/259/Songs/Aethral%20-%20It%27s%20Boss%20Time%2C%20dude.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1724172) h
 
 ### Aethral - Victorious Journey
 
-Explore [this loved osu!mania map](https://osu.ppy.sh/beatmapsets/1157663) hosted by [Nimis](https://osu.ppy.sh/users/7439226)!
+Explore [this loved osu!mania map](https://osu.ppy.sh/beatmapsets/1157663) hosted by ::Nimis::{ user-id=7439226 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/259/Songs/Aethral%20-%20Victorious%20Journey.mp3" type="audio/mpeg">

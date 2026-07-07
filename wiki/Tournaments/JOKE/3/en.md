@@ -8,7 +8,7 @@ tags:
 
 ![JOKE 3 banner](img/banner.jpg)
 
-**Jaye's One Key Event 3: paradigm//SHIFT** (***JOKE***) was a 1v1, double-elimination, global osu!mania 1-key tournament hosted by ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) and ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235). It was the third instalment in the JOKE series.
+**Jaye's One Key Event 3: paradigm//SHIFT** (***JOKE***) was a 1v1, double-elimination, global osu!mania 1-key tournament hosted by ::{ flag=AU }:: ::Jaye::{ user-id=4841352 } and ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 }. It was the third instalment in the JOKE series.
 
 ## Tournament schedule
 
@@ -41,14 +41,14 @@ tags:
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) |
-| Mapper | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) |
-| Playtester | ::{ flag=AU }:: [r1chyy](https://osu.ppy.sh/users/11499467) |
-| Streamer | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=US }:: [ethfan922](https://osu.ppy.sh/users/10402769), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089) |
-| Commentator | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=US }:: [trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962) |
-| Designer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
-| Referee | ::{ flag=TH }:: [\[Ping\]](https://osu.ppy.sh/users/6291395), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=PE }:: [ERA Xuste](https://osu.ppy.sh/users/17989444), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=NZ }:: [Firefaux](https://osu.ppy.sh/users/15146838), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=AU }:: [shnacc](https://osu.ppy.sh/users/11373924), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=US }:: [trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=CA }:: [walmart5193](https://osu.ppy.sh/users/16468962) |
-| Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) |
+| Host | ::{ flag=AU }:: ::Jaye::{ user-id=4841352 }, ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 } |
+| Mapper | ::{ flag=AU }:: ::Jaye::{ user-id=4841352 }, ::{ flag=FR }:: ::Paturages::{ user-id=1375479 }, ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 } |
+| Playtester | ::{ flag=AU }:: ::r1chyy::{ user-id=11499467 } |
+| Streamer | ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 }, ::{ flag=US }:: ::Dynascape::{ user-id=8784587 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user-id=3855052 }, ::{ flag=US }:: ::ethfan922::{ user-id=10402769 }, ::{ flag=VN }:: ::rock-on::{ user-id=9676089 } |
+| Commentator | ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 }, ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 }, ::{ flag=US }:: ::Dynascape::{ user-id=8784587 }, ::{ flag=FR }:: ::Paturages::{ user-id=1375479 }, ::{ flag=US }:: ::Sparky::{ user-id=3187959 }, ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 }, ::{ flag=GB }:: ::Teezel::{ user-id=7528639 }, ::{ flag=US }:: ::trooperr::{ user-id=32028459 }, ::{ flag=CA }:: ::walmart5193::{ user-id=16468962 } |
+| Designer | ::{ flag=MY }:: ::Jerry::{ user-id=605973 } |
+| Referee | ::{ flag=TH }:: ::\[Ping\]::{ user-id=6291395 }, ::{ flag=US }:: ::akace100::{ user-id=9308128 }, ::{ flag=HK }:: ::Akali393394::{ user-id=9686628 }, ::{ flag=AU }:: ::Beat43210::{ user-id=5664171 }, ::{ flag=US }:: ::Dynascape::{ user-id=8784587 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user-id=3855052 }, ::{ flag=PE }:: ::ERA Xuste::{ user-id=17989444 }, ::{ flag=AU }:: ::Fairy Bread::{ user-id=8306102 }, ::{ flag=NZ }:: ::Firefaux::{ user-id=15146838 }, ::{ flag=VN }:: ::rock-on::{ user-id=9676089 }, ::{ flag=AU }:: ::shnacc::{ user-id=11373924 }, ::{ flag=NZ }:: ::Sparxe::{ user-id=5750235 }, ::{ flag=US }:: ::trooperr::{ user-id=32028459 }, ::{ flag=CA }:: ::walmart5193::{ user-id=16468962 } |
+| Statistician | ::{ flag=NL }:: ::Albionthegreat::{ user-id=9853595 }, ::{ flag=AU }:: ::Jaye::{ user-id=4841352 } |
 
 ## Links
 
@@ -65,38 +65,38 @@ tags:
 
 | Seed | Player |
 | :-- | :-- |
-| 1 | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
-| 2 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) |
-| 3 | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) |
-| 4 | ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
-| 5 | ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367) |
-| 6 | ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639) |
-| 7 | ::{ flag=BR }:: [Brasil](https://osu.ppy.sh/users/3949268) |
-| 8 | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) |
-| 9 | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
-| 10 | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) |
-| 11 | ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) |
-| 12 | ::{ flag=TH }:: [ZeroKungz](https://osu.ppy.sh/users/23155757) |
-| 13 | ::{ flag=FR }:: [Adri](https://osu.ppy.sh/users/4579132) |
-| 14 | ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209) |
-| 15 | ::{ flag=US }:: [BugsLife](https://osu.ppy.sh/users/12903478) |
-| 16 | ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959) |
-| 17 | ::{ flag=US }:: [cyger](https://osu.ppy.sh/users/20020441) |
-| 18 | ::{ flag=CL }:: [-Kori](https://osu.ppy.sh/users/12490530) |
-| 19 | ::{ flag=US }:: [Delta386](https://osu.ppy.sh/users/10352045) |
-| 20 | ::{ flag=US }:: [Jakson](https://osu.ppy.sh/users/8788058) |
-| 21 | ::{ flag=JP }:: [dectopia](https://osu.ppy.sh/users/2845904) |
-| 22 | ::{ flag=CA }:: [DimplesRMe](https://osu.ppy.sh/users/13348268) |
-| 23 | ::{ flag=DE }:: [ERA Sirbeyy](https://osu.ppy.sh/users/12917829) |
-| 24 | ::{ flag=ID }:: [Xicyte](https://osu.ppy.sh/users/10212581) |
-| 25 | ::{ flag=US }:: [ForestMastr](https://osu.ppy.sh/users/9199901) |
-| 26 | ::{ flag=GB }:: [MiniEgg_23](https://osu.ppy.sh/users/25914360) |
-| 27 | ::{ flag=BR }:: [Pluko](https://osu.ppy.sh/users/15813305) |
-| 28 | ::{ flag=CA }:: [Nathan7978](https://osu.ppy.sh/users/8599166) |
-| 29 | ::{ flag=GB }:: [--Dragon--](https://osu.ppy.sh/users/11924624) |
-| 30 | ::{ flag=PH }:: [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153) |
-| 31 | ::{ flag=AR }:: [APRL03](https://osu.ppy.sh/users/11394892) |
-| 32 | ::{ flag=MX }:: [happergamer](https://osu.ppy.sh/users/15513319) |
+| 1 | ::{ flag=US }:: ::\[LS\]Ham::{ user-id=17523947 } |
+| 2 | ::{ flag=JP }:: ::Grape\1Tea::{ user-id=9540073 } |
+| 3 | ::{ flag=JP }:: ::hz404::{ user-id=14947043 } |
+| 4 | ::{ flag=BR }:: ::SillyFangirl::{ user-id=2288363 } |
+| 5 | ::{ flag=DE }:: ::ERA Punish::{ user-id=10615367 } |
+| 6 | ::{ flag=GB }:: ::Teezel::{ user-id=7528639 } |
+| 7 | ::{ flag=BR }:: ::Brasil::{ user-id=3949268 } |
+| 8 | ::{ flag=US }:: ::Backfire::{ user-id=263110 } |
+| 9 | ::{ flag=AU }:: ::Blobby3000::{ user-id=6916774 } |
+| 10 | ::{ flag=IT }:: ::D3kuu::{ user-id=7807444 } |
+| 11 | ::{ flag=JP }:: ::Maimaing::{ user-id=14520910 } |
+| 12 | ::{ flag=TH }:: ::ZeroKungz::{ user-id=23155757 } |
+| 13 | ::{ flag=FR }:: ::Adri::{ user-id=4579132 } |
+| 14 | ::{ flag=ID }:: ::XK2238::{ user-id=1139209 } |
+| 15 | ::{ flag=US }:: ::BugsLife::{ user-id=12903478 } |
+| 16 | ::{ flag=US }:: ::Sparky::{ user-id=3187959 } |
+| 17 | ::{ flag=US }:: ::cyger::{ user-id=20020441 } |
+| 18 | ::{ flag=CL }:: ::-Kori::{ user-id=12490530 } |
+| 19 | ::{ flag=US }:: ::Delta386::{ user-id=10352045 } |
+| 20 | ::{ flag=US }:: ::Jakson::{ user-id=8788058 } |
+| 21 | ::{ flag=JP }:: ::dectopia::{ user-id=2845904 } |
+| 22 | ::{ flag=CA }:: ::DimplesRMe::{ user-id=13348268 } |
+| 23 | ::{ flag=DE }:: ::ERA Sirbeyy::{ user-id=12917829 } |
+| 24 | ::{ flag=ID }:: ::Xicyte::{ user-id=10212581 } |
+| 25 | ::{ flag=US }:: ::ForestMastr::{ user-id=9199901 } |
+| 26 | ::{ flag=GB }:: ::MiniEgg\123::{ user-id=25914360 } |
+| 27 | ::{ flag=BR }:: ::Pluko::{ user-id=15813305 } |
+| 28 | ::{ flag=CA }:: ::Nathan7978::{ user-id=8599166 } |
+| 29 | ::{ flag=GB }:: ::--Dragon--::{ user-id=11924624 } |
+| 30 | ::{ flag=PH }:: ::DaMeMeThEiFxD::{ user-id=14324153 } |
+| 31 | ::{ flag=AR }:: ::APRL03::{ user-id=11394892 } |
+| 32 | ::{ flag=MX }:: ::happergamer::{ user-id=15513319 } |
 
 ## Podium
 
@@ -104,9 +104,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=JP }:: ::Grape\1Tea::{ user-id=9540073 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=JP }:: ::hz404::{ user-id=14947043 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: ::\[LS\]Ham::{ user-id=17523947 } |
 
 ![](img/podium.jpg "JOKE 3 podium") 
 

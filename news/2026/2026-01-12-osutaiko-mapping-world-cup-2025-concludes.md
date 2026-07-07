@@ -45,7 +45,7 @@ The top 3 countries that reigned supreme have been rewarded for their excellence
 
 ![TMWC 2025 winner badge](/wiki/shared/news/2026-01-12-osutaiko-mapping-world-cup-2025-concludes/TMWC25_Badge.jpg)
 
-Shout-out to ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) for the amazing badge and TMWC 2025 banner design! <3
+Shout-out to ::{ flag=MY }:: ::Jerry::{ user-id=605973 } for the amazing badge and TMWC 2025 banner design! <3
 
 ## Original song: Supire - KUKRI
 
@@ -63,7 +63,7 @@ We were honoured to have the great [Supire](https://osu.ppy.sh/beatmaps/artists/
 
 This song was also just added to [Supire's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/373) in the latest [Featured Artist track update](https://osu.ppy.sh/home/news/2026-01-10-featured-artist-track-updates-winter-2026). Check it out and try to map it yourself!
 
-Please give ::{ flag=MY }:: [Zeth](https://osu.ppy.sh/users/9912966) some love, who did stunning work on the background and cover artwork.
+Please give ::{ flag=MY }:: ::Zeth::{ user-id=9912966 } some love, who did stunning work on the background and cover artwork.
 
 ---
 

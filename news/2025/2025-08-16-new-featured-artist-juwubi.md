@@ -17,7 +17,7 @@ Words can't do this music justice. Experience it for yourself:
 
 ### [Juwubi - NEVER GONNA GIVE YOU UP](https://assets.ppy.sh/artists/490/UWU%20EP/Juwubi%20-%20NEVER%20GONNA%20GIVE%20YOU%20UP.osz)
 
-[This map](https://osu.ppy.sh/beatmapsets/2341735) hosted by [Wispy](https://osu.ppy.sh/users/11106929) was made specifically for this Featured Artist announcement, and [Kingling](https://osu.ppy.sh/users/7010761) played it at [COE 2025](/wiki/Community/cavoe's_osu!_event) specifically for this Featured Artist announcement!
+[This map](https://osu.ppy.sh/beatmapsets/2341735) hosted by ::Wispy::{ user-id=11106929 } was made specifically for this Featured Artist announcement, and ::Kingling::{ user-id=7010761 } played it at [COE 2025](/wiki/Community/cavoe's_osu!_event) specifically for this Featured Artist announcement!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

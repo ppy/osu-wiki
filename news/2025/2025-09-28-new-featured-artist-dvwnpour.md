@@ -17,7 +17,7 @@ Replace silence (or the tinnitus ringing in your ears) with **Dvwnpour**:
 
 ### [Dvwnpour & Mediy0 - Starpop](https://assets.ppy.sh/artists/503/Songs/Dvwnpour%20-%20Starpop%20(feat.%20Mediy0).osz)
 
-Let's face it: 10K osu!mania is too many keys for the average player. That's why [\[SPNG\] Sim0](https://osu.ppy.sh/users/3262821) and [ytho](https://osu.ppy.sh/users/33661605) played [this 10K osu!mania map](https://osu.ppy.sh/beatmapsets/2363664) by [Rurvker](https://osu.ppy.sh/users/24526335) together at [COE 2025](/wiki/Community/cavoe's_osu!_event)!
+Let's face it: 10K osu!mania is too many keys for the average player. That's why ::\[SPNG\] Sim0::{ user-id=3262821 } and [ytho](https://osu.ppy.sh/users/33661605) played [this 10K osu!mania map](https://osu.ppy.sh/beatmapsets/2363664) by ::Rurvker::{ user-id=24526335 } together at [COE 2025](/wiki/Community/cavoe's_osu!_event)!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

@@ -9,7 +9,7 @@ From humble beginnings to a full-scale symphony, VMC returns bigger, louder, and
 
 ![](/wiki/shared/news/2025-10-05-vocaloid-mapping-contest-3/banner.jpg)
 
-**MARETU** is a legendary name in VOCALOID, combining heavy metal, chiptune, and techno-pop to create incredible instrumental compositions. As our 504th Featured Artist, it goes without saying that his music is extremely suitable for osu!, already having been featured in mapsets such as [DeRandom Otaku](https://osu.ppy.sh/users/5156153)'s one for [Umitagari](https://osu.ppy.sh/beatmapsets/966574#osu/2023147). As one of the most popular VOCALOID artists in the world, **MARETU**'s music is now available for your circle clicking enjoyment.
+**MARETU** is a legendary name in VOCALOID, combining heavy metal, chiptune, and techno-pop to create incredible instrumental compositions. As our 504th Featured Artist, it goes without saying that his music is extremely suitable for osu!, already having been featured in mapsets such as ::DeRandom Otaku::{ user-id=5156153 }'s one for [Umitagari](https://osu.ppy.sh/beatmapsets/966574#osu/2023147). As one of the most popular VOCALOID artists in the world, **MARETU**'s music is now available for your circle clicking enjoyment.
 
 **12** songs are a part of [**MARETU**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/504) for all your mapping needs!
 

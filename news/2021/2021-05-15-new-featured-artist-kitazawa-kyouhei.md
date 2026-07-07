@@ -13,7 +13,7 @@ Forging moody atmospheres with each of their tracks, **Kitazawa Kyouhei** is the
 
 Covering all the bases of beatmaps, we've got **8** new tracks up for grabs from [**Kitazawa Kyouhei**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/165), each packed with its own song-specific background and music video! And if that wasn't enough, the song *TRUE-QUEEN* has been released exclusively for osu!.
 
-While **Kitazawa Kyouhei** discovered his passion for VOCALOID through playing osu! in 2012, it's not until today that his music is finally returning to those roots. [-Sylvari](https://osu.ppy.sh/users/3493804) of the Mappers' Guild is here to plant the first seed with their beatmap of [*ONIRIC*](https://osu.ppy.sh/beatmapsets/1373644/), as seen below with a bunch of skins from our recent [skinning contest](https://osu.ppy.sh/community/contests/126).
+While **Kitazawa Kyouhei** discovered his passion for VOCALOID through playing osu! in 2012, it's not until today that his music is finally returning to those roots. ::-Sylvari::{ user-id=3493804 } of the Mappers' Guild is here to plant the first seed with their beatmap of [*ONIRIC*](https://osu.ppy.sh/beatmapsets/1373644/), as seen below with a bunch of skins from our recent [skinning contest](https://osu.ppy.sh/community/contests/126).
 
 Check that out and listen to the rest of these awesome song previews:
 

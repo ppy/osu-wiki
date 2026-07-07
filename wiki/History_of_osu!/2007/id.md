@@ -5,13 +5,13 @@ outdated_since: f2c89f5c250e64121a2a94aab12046306fa6147d
 
 # Sejarah osu! 2007
 
-Berikut ini adalah beberapa peristiwa besar yang terjadi di osu! selama tahun 2007. Terima kasih kepada [Sinistro](https://osu.ppy.sh/users/5530) atas bantuannya dalam menyusun sejarah osu! tahun 2007/2008.
+Berikut ini adalah beberapa peristiwa besar yang terjadi di osu! selama tahun 2007. Terima kasih kepada ::Sinistro::{ user-id=5530 } atas bantuannya dalam menyusun sejarah osu! tahun 2007/2008.
 
 ![](img/2007.jpg)
 
 ## Juli
 
-osu! dimulai sebagai *proof-of-concept* bernama "ouentest".[^ouentest] Versi pertama dirilis pada tanggal 1 Juli 2007 untuk sekelompok kecil teman dekat [peppy](https://osu.ppy.sh/users/2) dan memiliki sebuah [editor beatmap](/wiki/Client/Beatmap_editor) dan mode permainan yang sangat mendasar. Editor hanya dapat membuat [beatmap](/wiki/Beatmap) yang *sangat* sederhana tanpa fungsi *seeking* atau [*snapping*](/wiki/Beatmapping/Snapping) dan tidak ada slider atau spinner, hanya circle dan penghitung skor/kombo yang mendasar. Rilis pertama memakan waktu sekitar 16 jam waktu coding dan dilakukan dalam *single all-nighter*. `pUpdater` diperkenalkan (lekas dikenal sebagai `osume`) [^osume] untuk menangani pembaruan ke versi terbaru.
+osu! dimulai sebagai *proof-of-concept* bernama "ouentest".[^ouentest] Versi pertama dirilis pada tanggal 1 Juli 2007 untuk sekelompok kecil teman dekat ::peppy::{ user-id=2 } dan memiliki sebuah [editor beatmap](/wiki/Client/Beatmap_editor) dan mode permainan yang sangat mendasar. Editor hanya dapat membuat [beatmap](/wiki/Beatmap) yang *sangat* sederhana tanpa fungsi *seeking* atau [*snapping*](/wiki/Beatmapping/Snapping) dan tidak ada slider atau spinner, hanya circle dan penghitung skor/kombo yang mendasar. Rilis pertama memakan waktu sekitar 16 jam waktu coding dan dilakukan dalam *single all-nighter*. `pUpdater` diperkenalkan (lekas dikenal sebagai `osume`) [^osume] untuk menangani pembaruan ke versi terbaru.
 
 ![](img/2007-07_01.jpg "Pemilihan Lagu")
 

@@ -27,7 +27,7 @@ Check everything out:
 
 ### Noisestorm - Crab Rave
 
-Cursor-dance to [this map](https://osu.ppy.sh/beatmapsets/891596) hosted by [greenhue](https://osu.ppy.sh/users/4967662)!
+Cursor-dance to [this map](https://osu.ppy.sh/beatmapsets/891596) hosted by ::greenhue::{ user-id=4967662 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/324/Songs/Noisestorm%20-%20Crab%20Rave.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Cursor-dance to [this map](https://osu.ppy.sh/beatmapsets/891596) hosted by [gre
 
 ### Noisestorm - Barracuda
 
-Experience [this osu!taiko spread](https://osu.ppy.sh/beatmapsets/1392694) hosted by [jmagine](https://osu.ppy.sh/users/16767417)!
+Experience [this osu!taiko spread](https://osu.ppy.sh/beatmapsets/1392694) hosted by ::jmagine::{ user-id=16767417 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/324/Songs/Noisestorm%20-%20Barracuda.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Experience [this osu!taiko spread](https://osu.ppy.sh/beatmapsets/1392694) hoste
 
 ### Excision & Pegboard Nerds - Bring The Madness (feat. Mayor Apeshit) (Noisestorm Remix)
 
-Play through [this osu!catch map](https://osu.ppy.sh/beatmapsets/729137) hosted by [Kimitakari](https://osu.ppy.sh/users/4741164)!
+Play through [this osu!catch map](https://osu.ppy.sh/beatmapsets/729137) hosted by ::Kimitakari::{ user-id=4741164 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/324/Songs/Excision%20%26%20Pegboard%20Nerds%20-%20Bring%20The%20Madness%20(feat.%20Mayor%20Apeshit)%20(Noisestorm%20Remix).mp3" type="audio/mpeg">

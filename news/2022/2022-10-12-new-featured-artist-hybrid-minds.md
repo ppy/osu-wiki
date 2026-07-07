@@ -23,7 +23,7 @@ Want a taste of **Hybrid Minds**? Check out this video showcasing osu!(lazer)'s 
 
 ### Supernova (feat. Catching Cairo)
 
-Play [the brand new map from the video above](https://osu.ppy.sh/beatmapsets/1823175) hosted by [Strategas](https://osu.ppy.sh/users/2971837)!
+Play [the brand new map from the video above](https://osu.ppy.sh/beatmapsets/1823175) hosted by ::Strategas::{ user-id=2971837 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/310/Songs/Hybrid%20Minds%20-%20Supernova%20(feat.%20Catching%20Cairo).mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Play [the brand new map from the video above](https://osu.ppy.sh/beatmapsets/182
 
 ### Hybrid Minds - Kismet (feat. Riya)
 
-Try out [the map that introduced **Hybrid Minds** to osu!](https://osu.ppy.sh/beatmapsets/340744) hosted by [SrSkyPlayer](https://osu.ppy.sh/users/3860376)!
+Try out [the map that introduced **Hybrid Minds** to osu!](https://osu.ppy.sh/beatmapsets/340744) hosted by ::SrSkyPlayer::{ user-id=3860376 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/310/Songs/Hybrid%20Minds%20-%20Kismet%20(feat.%20Riya).mp3" type="audio/mpeg">
@@ -39,7 +39,7 @@ Try out [the map that introduced **Hybrid Minds** to osu!](https://osu.ppy.sh/be
 
 ### Hybrid Minds & Fred V - Drowning In You
 
-Swim through [this osu! map](https://osu.ppy.sh/beatmapsets/1603851) hosted by [Dayno](https://osu.ppy.sh/users/10634465)!
+Swim through [this osu! map](https://osu.ppy.sh/beatmapsets/1603851) hosted by ::Dayno::{ user-id=10634465 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/310/Songs/Hybrid%20Minds%20%26%20Fred%20V%20-%20Drowning%20In%20You.mp3" type="audio/mpeg">

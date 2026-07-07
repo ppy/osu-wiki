@@ -23,7 +23,7 @@ Start digging into these treats with a video of [*Lundy - STOP?*](https://osu.pp
 
 ### Lundy - STOP?
 
-Check out [this osu!taiko map from the video above](https://osu.ppy.sh/beatmapsets/1584108) hosted by [Hivie](https://osu.ppy.sh/users/14102976) of the Mappers' Guild!
+Check out [this osu!taiko map from the video above](https://osu.ppy.sh/beatmapsets/1584108) hosted by ::Hivie::{ user-id=14102976 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/203/STOP/Lundy%20-%20STOP.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out [this osu!taiko map from the video above](https://osu.ppy.sh/beatmapse
 
 ### Lundy - to.ALPHA
 
-Or check out [this osu!catch map](https://osu.ppy.sh/beatmapsets/1554550) hosted by [Deif](https://osu.ppy.sh/users/318565) of the Mappers' Guild!
+Or check out [this osu!catch map](https://osu.ppy.sh/beatmapsets/1554550) hosted by ::Deif::{ user-id=318565 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/203/to.ALPHA/Lundy%20-%20to.ALPHA.mp3" type="audio/mpeg">

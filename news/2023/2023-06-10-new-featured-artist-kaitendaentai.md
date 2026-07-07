@@ -23,7 +23,7 @@ Our osu!taiko community was first to discover **kaitendaentai**'s obscure sound,
 
 ### kaitendaentai - Soutou no Zero
 
-Check out [the map that introduced **kaitendaentai** to osu!](https://osu.ppy.sh/beatmapsets/750306) hosted by [yea](https://osu.ppy.sh/users/6874332)!
+Check out [the map that introduced **kaitendaentai** to osu!](https://osu.ppy.sh/beatmapsets/750306) hosted by ::yea::{ user-id=6874332 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/364/Songs/kaitendaentai%20-%20Soutou%20no%20Zero.mp3">
@@ -31,7 +31,7 @@ Check out [the map that introduced **kaitendaentai** to osu!](https://osu.ppy.sh
 
 ### kaitendaentai - Hizai ni Negu
 
-If that's too much to handle, [this Loved set](https://osu.ppy.sh/beatmapsets/653870) hosted by [maziari1105](https://osu.ppy.sh/users/4469725) has a bunch of low difficulties too.
+If that's too much to handle, [this Loved set](https://osu.ppy.sh/beatmapsets/653870) hosted by ::maziari1105::{ user-id=4469725 } has a bunch of low difficulties too.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/364/Songs/kaitendaentai%20-%20Hizai%20ni%20Negu.mp3">

@@ -10,7 +10,7 @@ tags:
 ![up.ppy.sh 网页快照](img/upppyScreenshot.png "Internet Archive 于 2023 年抓取的 upppy 网页快照")
 :::
 
-**up.ppy.sh**（常被称作 **upppy**）是一个由 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 运营与托管的文件上传服务。它最初于 2007 年 1 月建立，比 osu! 本身还要早[^upppy-launch-date-ref]，主要用于 osu! 社区内的图片与文件共享。
+**up.ppy.sh**（常被称作 **upppy**）是一个由 ::{ flag=AU }:: ::peppy::{ user-id=2 } 运营与托管的文件上传服务。它最初于 2007 年 1 月建立，比 osu! 本身还要早[^upppy-launch-date-ref]，主要用于 osu! 社区内的图片与文件共享。
 
 ## 服务
 

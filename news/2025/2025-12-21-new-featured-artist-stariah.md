@@ -17,7 +17,7 @@ These previews are bound to inspire something in your circle-consumed creative c
 
 ### [Stariah & ColBreakz - Dreams](https://assets.ppy.sh/artists/517/Stellar%20Aura/Stariah%20%26%20ColBreakz%20-%20Dreams.osz)
 
-**Stariah** took the first step into osu! through [this map](https://osu.ppy.sh/beatmapsets/2428963) for [*the tea party house*](https://osu.ppy.sh/community/forums/topics/2099360) hosted by [Amefystol](https://osu.ppy.sh/users/26748801)! ...And completely unrelated, [YokesPai](https://osu.ppy.sh/users/6399568) has a pretty cool touchscreen setup:
+**Stariah** took the first step into osu! through [this map](https://osu.ppy.sh/beatmapsets/2428963) for [*the tea party house*](https://osu.ppy.sh/community/forums/topics/2099360) hosted by ::Amefystol::{ user-id=26748801 }! ...And completely unrelated, ::YokesPai::{ user-id=6399568 } has a pretty cool touchscreen setup:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

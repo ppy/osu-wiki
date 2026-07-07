@@ -40,7 +40,7 @@
 
 目前有权限访问该收件箱的纪律检查委员名单如下：
 
-- [peppy](https://osu.ppy.sh/users/2) ([pe@ppy.sh](mailto:pe@ppy.sh))
+- ::peppy::{ user-id=2 } ([pe@ppy.sh](mailto:pe@ppy.sh))
 
 纪委将迅速审议并调查全部投诉。
 

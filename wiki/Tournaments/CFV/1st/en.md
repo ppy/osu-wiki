@@ -11,7 +11,7 @@ tags:
 
 ![Cute Female Vocal 1st banner](img/CFV1st.png)
 
-The **Cute Female Vocal 1st** (***CFV 1st***) was a 1v1 osu!mania 4K tournament hosted by ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501) and ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619) in which the entirety of the mappool featured cute female vocals. It was the first iteration of the Cute Female Vocal tournament.
+The **Cute Female Vocal 1st** (***CFV 1st***) was a 1v1 osu!mania 4K tournament hosted by ::{ flag=CN }:: ::Koyori Chan::{ user-id=11238501 } and ::{ flag=CN }:: ::Yuiesta::{ user-id=13953619 } in which the entirety of the mappool featured cute female vocals. It was the first iteration of the Cute Female Vocal tournament.
 
 ## Tournament schedule
 
@@ -44,14 +44,14 @@ The Cute Female Vocal 1st was run by various community members.
 
 | Position | Member(s) |
 | :-: | :-- |
-| Coordinator | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619) |
-| Mappooler | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619),  ::{ flag=CN }:: [Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071), ::{ flag=CN }:: [Blue\_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=MY }:: [Mochineko](https://osu.ppy.sh/users/11238501), ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676), ::{ flag=TW }:: [Xinhong1003](https://osu.ppy.sh/users/19821902), ::{ flag=US }:: [trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=KR }:: [Stereotype](https://osu.ppy.sh/users/25311011), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=US }:: [aero-](https://osu.ppy.sh/users/26690747), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291) |
-| Referee | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=GB }:: [Danielstigman](https://osu.ppy.sh/users/9407594), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=ES }:: [nekonyo](https://osu.ppy.sh/users/4871211), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=US }:: [aero-](https://osu.ppy.sh/users/26690747), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052) |
-| Streamer and commentator | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=GB }:: [Danielstigman](https://osu.ppy.sh/users/9407594), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [Blue\_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676), ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071), ::{ flag=CN }:: [\[Crz\]Flandre](https://osu.ppy.sh/users/6949941) |
-| Statistics and spreadsheet manager | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994) |
-| wyBin maintainer | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128) |
-| Designer | ::{ flag=CN }:: [lovely_hyahya](https://osu.ppy.sh/users/10318380) |
-| Wiki editor | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501) |
+| Coordinator | ::{ flag=CN }:: ::Koyori Chan::{ user-id=11238501 }, ::{ flag=CN }:: ::Yuiesta::{ user-id=13953619 } |
+| Mappooler | ::{ flag=CN }:: ::Koyori Chan::{ user-id=11238501 }, ::{ flag=CN }:: ::Yuiesta::{ user-id=13953619 },  ::{ flag=CN }:: ::Mafufu::{ user-id=10884561 }, ::{ flag=CN }:: ::MidRed::{ user-id=17641994 }, ::{ flag=CN }:: ::ExNeko::{ user-id=7590894 }, ::{ flag=CN }:: ::Hidden is fun::{ user-id=10449071 }, ::{ flag=CN }:: ::Blue\_Potion::{ user-id=13094831 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user-id=11279273 }, ::{ flag=MY }:: ::Mochineko::{ user-id=11238501 }, ::{ flag=NL }:: ::Muse Dash::{ user-id=13695676 }, ::{ flag=TW }:: ::Xinhong1003::{ user-id=19821902 }, ::{ flag=US }:: ::trooperr::{ user-id=32028459 }, ::{ flag=CN }:: ::V1do-::{ user-id=17527968 }, ::{ flag=KR }:: ::Stereotype::{ user-id=25311011 }, ::{ flag=HK }:: ::Alptraum::{ user-id=26496648 }, ::{ flag=US }:: ::aero-::{ user-id=26690747 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user-id=8586018 }, ::{ flag=CN }:: ::AelSan::{ user-id=14095291 } |
+| Referee | ::{ flag=CN }:: ::Koyori Chan::{ user-id=11238501 }, ::{ flag=GB }:: ::Danielstigman::{ user-id=9407594 }, ::{ flag=CN }:: ::MidRed::{ user-id=17641994 }, ::{ flag=CN }:: ::Yuiesta::{ user-id=13953619 }, ::{ flag=ES }:: ::nekonyo::{ user-id=4871211 }, ::{ flag=CN }:: ::V1do-::{ user-id=17527968 }, ::{ flag=US }:: ::aero-::{ user-id=26690747 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user-id=3855052 } |
+| Streamer and commentator | ::{ flag=CN }:: ::Koyori Chan::{ user-id=11238501 }, ::{ flag=GB }:: ::Danielstigman::{ user-id=9407594 }, ::{ flag=CN }:: ::Yuiesta::{ user-id=13953619 }, ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user-id=8586018 }, ::{ flag=CN }:: ::MidRed::{ user-id=17641994 }, ::{ flag=CN }:: ::Blue\_Potion::{ user-id=13094831 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user-id=3855052 }, ::{ flag=NL }:: ::Muse Dash::{ user-id=13695676 }, ::{ flag=CN }:: ::Hidden is fun::{ user-id=10449071 }, ::{ flag=CN }:: ::\[Crz\]Flandre::{ user-id=6949941 } |
+| Statistics and spreadsheet manager | ::{ flag=CN }:: ::Koyori Chan::{ user-id=11238501 }, ::{ flag=CN }:: ::Yuiesta::{ user-id=13953619 }, ::{ flag=CN }:: ::MidRed::{ user-id=17641994 } |
+| wyBin maintainer | ::{ flag=CN }:: ::Koyori Chan::{ user-id=11238501 }, ::{ flag=US }:: ::akace100::{ user-id=9308128 } |
+| Designer | ::{ flag=CN }:: ::lovely\1hyahya::{ user-id=10318380 } |
+| Wiki editor | ::{ flag=CN }:: ::Koyori Chan::{ user-id=11238501 } |
 
 ## Links
 
@@ -67,9 +67,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [KimMui](https://osu.ppy.sh/users/26090734) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [- Sky -](https://osu.ppy.sh/users/15255368) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::KimMui::{ user-id=26090734 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::- Sky -::{ user-id=15255368 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::\[GB\]ChickenGold::{ user-id=16586663 } |
 
 ## Mappools
 

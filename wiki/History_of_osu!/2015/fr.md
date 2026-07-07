@@ -12,11 +12,11 @@ tags:
 
 ## Février
 
-Le 16 février 2015, les règles des storyboards ont été mises à jour pour autoriser des tailles d'image supérieures à 854x640. Comme suggéré par [Xgor](https://osu.ppy.sh/users/98661), la nouvelle taille maximale d'image classable pour les storyboards a été mise à jour à 1366x768.[^osu-weekly-1][^sb-rule-change]
+Le 16 février 2015, les règles des storyboards ont été mises à jour pour autoriser des tailles d'image supérieures à 854x640. Comme suggéré par ::Xgor::{ user-id=98661 }, la nouvelle taille maximale d'image classable pour les storyboards a été mise à jour à 1366x768.[^osu-weekly-1][^sb-rule-change]
 
 ## Mars
 
-La toute première édition d'osu!weekly est sortie le 13 mars 2015. Rédigé par [Tasha](https://osu.ppy.sh/users/1031958), osu!weekly se positionnait comme "un condensé d'actualités hebdomadaire couvrant les derniers événements du jeu et de sa communauté".[^osu-weekly-1]
+La toute première édition d'osu!weekly est sortie le 13 mars 2015. Rédigé par ::Tasha::{ user-id=1031958 }, osu!weekly se positionnait comme "un condensé d'actualités hebdomadaire couvrant les derniers événements du jeu et de sa communauté".[^osu-weekly-1]
 
 Les tout premiers autocollants osu! Beatmap Blueprint ont été ajoutés à l'[osu!store](https://osu.ppy.sh/store/listing) le 20 mars 2015. Les autocollants se présentaient sous la forme de deux packs de feuilles d'autocollants personnalisés de 20.3 x 27.9 centimètre présentant des éléments tels que des cercles, des combo counters, des sliders et bien plus encore.[^osu-stickers] Pour célébrer le lancement du jeu, un concours a été organisé afin de déterminer qui pouvait réaliser la meilleure [beatmap](/wiki/Beatmap) à l'aide des autocollants. Le premier prix était une osu!tablet et des sets d'osu! sticker 1 et 2. Malgré cela, le concours a été annulé en raison d'un manque d'inscriptions, et aucune suite n'a été donnée publiquement à ce sujet à l'époque.[^osu-stickers][^osu-stickers-submission-count]
 
@@ -54,7 +54,7 @@ La possibilité de voir à quoi ressemblerait un replay sans [mods](/wiki/Gamepl
 
 ## Juillet
 
-Le 15 juillet 2015, il a été annoncé qu'une nouvelle équipe publique [Slack](https://slack.com/) a été créée dans le but de mieux communiquer avec les contributeurs publics. [peppy](https://osu.ppy.sh/users/2) avait initialement fait l'annonce sur son blog et avait expliqué que toute personne désireuse d'aider à tester des fonctionnalités futures, de contribuer à des ressources graphiques/sonores ou d'obtenir de l'aide pour travailler avec les services d'osu! pouvait venir rejoindre l'équipe et parler directement aux personnes des différentes [équipes d'osu!](/wiki/People/osu!_team).[^ppy-blog-july-15]
+Le 15 juillet 2015, il a été annoncé qu'une nouvelle équipe publique [Slack](https://slack.com/) a été créée dans le but de mieux communiquer avec les contributeurs publics. ::peppy::{ user-id=2 } avait initialement fait l'annonce sur son blog et avait expliqué que toute personne désireuse d'aider à tester des fonctionnalités futures, de contribuer à des ressources graphiques/sonores ou d'obtenir de l'aide pour travailler avec les services d'osu! pouvait venir rejoindre l'équipe et parler directement aux personnes des différentes [équipes d'osu!](/wiki/People/osu!_team).[^ppy-blog-july-15]
 
 *Note : Il y avait toujours une équipe Slack privée que l'équipe d'osu! utilisait pour les communications internes, qui n'était pas accessible ou visualisable par les utilisateurs extérieurs ; ces deux équipes étaient indépendantes l'une de l'autre.*
 

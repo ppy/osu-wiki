@@ -23,7 +23,7 @@ Check out everything **Rameses B** has to offer and discover how to participate 
 
 ### Neon Rainbow (feat. Anna Yvette)
 
-Play [the map from the video above](https://osu.ppy.sh/beatmapsets/446332) hosted by [Aia](https://osu.ppy.sh/users/3492472) on osu!(lazer)'s new Featured Artist playlist!
+Play [the map from the video above](https://osu.ppy.sh/beatmapsets/446332) hosted by ::Aia::{ user-id=3492472 } on osu!(lazer)'s new Featured Artist playlist!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/270/Neon%20Rainbow/Rameses%20B%20-%20Neon%20Rainbow%20(feat.%20Anna%20Yvette).mp3" type="audio/mpeg">
@@ -33,9 +33,9 @@ Play [the map from the video above](https://osu.ppy.sh/beatmapsets/446332) hoste
 
 Try any of these top-tier maps:
 
-- [Popular osu! map](https://osu.ppy.sh/beatmapsets/303129) hosted by [Milan-](https://osu.ppy.sh/users/1052994)
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/324772) hosted by [SKSalt](https://osu.ppy.sh/users/3280542)
-- [Loved osu! marathon](https://osu.ppy.sh/beatmapsets/320504) hosted by Elite Storyboarder [-Tochi](https://osu.ppy.sh/users/3664366)
+- [Popular osu! map](https://osu.ppy.sh/beatmapsets/303129) hosted by ::Milan-::{ user-id=1052994 }
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/324772) hosted by ::SKSalt::{ user-id=3280542 }
+- [Loved osu! marathon](https://osu.ppy.sh/beatmapsets/320504) hosted by Elite Storyboarder ::-Tochi::{ user-id=3664366 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/270/Mountains/Rameses%20B%20-%20Mountains%20(feat.%20Veela).mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Try any of these top-tier maps:
 
 ### Transcend
 
-Play through [this stream-filled mapset](https://osu.ppy.sh/beatmapsets/339708) hosted by [Milan-](https://osu.ppy.sh/users/1052994)!
+Play through [this stream-filled mapset](https://osu.ppy.sh/beatmapsets/339708) hosted by ::Milan-::{ user-id=1052994 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/270/Songs/Rameses%20B%20-%20Transcend.mp3" type="audio/mpeg">
@@ -54,7 +54,7 @@ Play through [this stream-filled mapset](https://osu.ppy.sh/beatmapsets/339708) 
 Experience these classics:
 
 - [osu! map](https://osu.ppy.sh/beatmapsets/293098) hosted by [alacat](https://osu.ppy.sh/beatmapsets/293098)
-- [Another osu! map](https://osu.ppy.sh/beatmapsets/300330) hosted by [Aka](https://osu.ppy.sh/users/1307553)
+- [Another osu! map](https://osu.ppy.sh/beatmapsets/300330) hosted by ::Aka::{ user-id=1307553 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/270/Timeless/Rameses%20B%20-%20Timeless%20(feat.%20Veela).mp3" type="audio/mpeg">
@@ -64,8 +64,8 @@ Experience these classics:
 
 Here's another two captivating maps:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/347276) hosted by [Come\[Back\]Home](https://osu.ppy.sh/users/1131716)
-- [Another osu! map](https://osu.ppy.sh/beatmapsets/239330) hosted by [Milan-](https://osu.ppy.sh/users/1052994)
+- [osu! map](https://osu.ppy.sh/beatmapsets/347276) hosted by ::Come\[Back\]Home::{ user-id=1131716 }
+- [Another osu! map](https://osu.ppy.sh/beatmapsets/239330) hosted by ::Milan-::{ user-id=1052994 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/270/We%20Love/Rameses%20B%20-%20We%20Love.mp3" type="audio/mpeg">
@@ -73,7 +73,7 @@ Here's another two captivating maps:
 
 ### Sweet Surrender (feat. Charlotte Haining)
 
-And here's [one more liquid drum & bass map](https://osu.ppy.sh/beatmapsets/358335) hosted by [Milan-](https://osu.ppy.sh/users/1052994)!
+And here's [one more liquid drum & bass map](https://osu.ppy.sh/beatmapsets/358335) hosted by ::Milan-::{ user-id=1052994 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/270/Songs/Rameses%20B%20-%20Sweet%20Surrender%20(feat.%20Charlotte%20Haining).mp3" type="audio/mpeg">
@@ -81,7 +81,7 @@ And here's [one more liquid drum & bass map](https://osu.ppy.sh/beatmapsets/3583
 
 ### We Are One (feat. Veela)
 
-Test your finger control with the doubles on [this osu! mapset](https://osu.ppy.sh/beatmapsets/522920) hosted by [Yamicchi](https://osu.ppy.sh/users/6486831)!
+Test your finger control with the doubles on [this osu! mapset](https://osu.ppy.sh/beatmapsets/522920) hosted by ::Yamicchi::{ user-id=6486831 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/270/Songs/Rameses%20B%20-%20We%20Are%20One%20(feat.%20Veela).mp3" type="audio/mpeg">
@@ -89,7 +89,7 @@ Test your finger control with the doubles on [this osu! mapset](https://osu.ppy.
 
 ### Samurai
 
-Try this [longer map](https://osu.ppy.sh/beatmapsets/1390484) hosted by [Dayno](https://osu.ppy.sh/users/10634465)!
+Try this [longer map](https://osu.ppy.sh/beatmapsets/1390484) hosted by ::Dayno::{ user-id=10634465 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/270/Samurai/Rameses%20B%20-%20Samurai.mp3" type="audio/mpeg">
@@ -99,8 +99,8 @@ Try this [longer map](https://osu.ppy.sh/beatmapsets/1390484) hosted by [Dayno](
 
 Have fun with these:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/1174503) hosted by [Fall](https://osu.ppy.sh/users/4800816)
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1033681) hosted by [gaston_2199](https://osu.ppy.sh/users/5938161)
+- [osu! map](https://osu.ppy.sh/beatmapsets/1174503) hosted by ::Fall::{ user-id=4800816 }
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/1033681) hosted by ::gaston\12199::{ user-id=5938161 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/270/Dream%20Catcher/Rameses%20B%20-%20Dream%20Catcher%20(feat.%20Charlotte%20Haining).mp3" type="audio/mpeg">
@@ -108,7 +108,7 @@ Have fun with these:
 
 ### Transformations (feat. Laura Brehm)
 
-Congrats on making it to the end of the list. Here's [one final marathon](https://osu.ppy.sh/beatmapsets/593642) hosted by [Mir](https://osu.ppy.sh/users/8688812)!
+Congrats on making it to the end of the list. Here's [one final marathon](https://osu.ppy.sh/beatmapsets/593642) hosted by ::Mir::{ user-id=8688812 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/270/Transformations/Rameses%20B%20-%20Transformations%20(feat.%20Laura%20Brehm).mp3" type="audio/mpeg">

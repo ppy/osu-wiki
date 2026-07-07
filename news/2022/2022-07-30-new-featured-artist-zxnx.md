@@ -23,7 +23,7 @@ Don't just take our word for it though, check out the preview below to hear a sa
 
 ### Schadenfreude
 
-Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/1816239) hosted by [Realazy](https://osu.ppy.sh/users/918297) or [this osu!catch map](https://osu.ppy.sh/beatmapsets/1698949) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)!
+Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/1816239) hosted by ::Realazy::{ user-id=918297 } or [this osu!catch map](https://osu.ppy.sh/beatmapsets/1698949) hosted by ::Jemzuu::{ user-id=7890134 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/288/Schadenfreude/ZxNX%20-%20Schadenfreude.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Try playing [the map from the video above](https://osu.ppy.sh/beatmapsets/181623
 
 ### FORTALiCE
 
-Check out [this osu!taiko set](https://osu.ppy.sh/beatmapsets/1765720) by [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), or [this osu!mania set](https://osu.ppy.sh/beatmapsets/1737101) by the very aptly-named [FAMoss](https://osu.ppy.sh/users/7707789)!
+Check out [this osu!taiko set](https://osu.ppy.sh/beatmapsets/1765720) by ::Ph0eNiiXZ::{ user-id=9463721 }, or [this osu!mania set](https://osu.ppy.sh/beatmapsets/1737101) by the very aptly-named ::FAMoss::{ user-id=7707789 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/288/FORTALiCE/ZxNX%20-%20FORTALiCE.mp3" type="audio/mpeg">

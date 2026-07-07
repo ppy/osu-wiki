@@ -13,7 +13,7 @@ Anyone familiar with the Drum and Bass scene is aware of Belgian producer **Andr
 
 **15** tracks are up for grabs from [**Andromedik**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/177), all sporting a classic 174BPM and the quintissential liquid Drum and Bass feel.
 
-Words can't describe music nor how well **Andromedik** fits osu! mapping, so take a look at [BOUYAAA](https://osu.ppy.sh/users/405449)'s fancy rendition of [*Andromedik x Itro x Polygon - Fly*](https://osu.ppy.sh/beatmapsets/1470255) with even fancier approach circles in the video below!
+Words can't describe music nor how well **Andromedik** fits osu! mapping, so take a look at ::BOUYAAA::{ user-id=405449 }'s fancy rendition of [*Andromedik x Itro x Polygon - Fly*](https://osu.ppy.sh/beatmapsets/1470255) with even fancier approach circles in the video below!
 
 <div align="center">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ Words can't describe music nor how well **Andromedik** fits osu! mapping, so tak
 
 ### Andromedik x Itro x Polygon - Fly
 
-Check out this [new showcase map](https://osu.ppy.sh/beatmapsets/1470255) hosted by [BOUYAAA](https://osu.ppy.sh/users/405449)!
+Check out this [new showcase map](https://osu.ppy.sh/beatmapsets/1470255) hosted by ::BOUYAAA::{ user-id=405449 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/177/Harmony/Andromedik%2C%20Polygon%2C%20Itro%20-%20Fly.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Check out this [new showcase map](https://osu.ppy.sh/beatmapsets/1470255) hosted
 
 ### Andromedik - Invasion
 
-Play [this nearly 2-million-play osu! map](https://osu.ppy.sh/beatmapsets/789544) hosted by [Mirash](https://osu.ppy.sh/users/2841009)!
+Play [this nearly 2-million-play osu! map](https://osu.ppy.sh/beatmapsets/789544) hosted by ::Mirash::{ user-id=2841009 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/177/High%20Tea%20Music%20Vol.%201/Andromedik%20-%20Invasion.mp3" type="audio/mpeg">

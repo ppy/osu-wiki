@@ -23,7 +23,7 @@ Ingest **Sewerslvt**'s music:
 
 ### Newlove
 
-Play [this BPM-increasing beatmap](https://osu.ppy.sh/beatmapsets/1442626/) by [DTM9 Nowa](https://osu.ppy.sh/users/5428909). It's in the video above too.
+Play [this BPM-increasing beatmap](https://osu.ppy.sh/beatmapsets/1442626/) by ::DTM9 Nowa::{ user-id=5428909 }. It's in the video above too.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/169/Newlove/Sewerslvt%20-%20Newlove.mp3" type="audio/mpeg">

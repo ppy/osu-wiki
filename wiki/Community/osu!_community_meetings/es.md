@@ -6,7 +6,7 @@ Hace mucho tiempo, en el [pasado lejano del juego](https://twitter.com/ppy/statu
 
 Si estás interesado en hacer preguntas, asegúrate de haber leído las pautas que figuran más abajo en esta página.
 
-Actualmente, las reuniones con la comunidad de osu! están siendo dirigidas por [peppy](https://osu.ppy.sh/users/2), [Ephemeral](https://osu.ppy.sh/users/102335) y [smoogipoo](https://osu.ppy.sh/users/1040328).
+Actualmente, las reuniones con la comunidad de osu! están siendo dirigidas por ::peppy::{ user-id=2 }, [Ephemeral](https://osu.ppy.sh/users/102335) y ::smoogipoo::{ user-id=1040328 }.
 
 ## Cómo participar
 

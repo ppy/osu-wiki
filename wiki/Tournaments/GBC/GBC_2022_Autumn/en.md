@@ -53,24 +53,24 @@ The GB Cup 2022 Autumn was run by the Team GB and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Staff | ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409),  ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018) |
-| Mappool selector | ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| SV mappool selector | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
-| Mappool helper | ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [Lubei_01](https://osu.ppy.sh/users/11692528), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) |
-| Referee | ::{ flag=CN }:: [\[GB\]Edward_Tsui](https://osu.ppy.sh/users/8609627), ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Commentator | ::{ flag=CN }:: [Tachibana Gekka](https://osu.ppy.sh/users/4363530), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Guest Commentator | ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), |
-| Streamer | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [MadSamurai](https://osu.ppy.sh/users/8646045), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Designer | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634), ::{ flag=CN }:: [\[GB\]Voidmoyu](https://osu.ppy.sh/users/16573996) |
-| Statistician & wiki editor | ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| Host | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 } |
+| Staff | ::{ flag=CN }:: ::\[GB\]gluefly::{ user-id=8715409 },  ::{ flag=CN }:: ::\[GB\]Luoxuan0327::{ user-id=8586018 } |
+| Mappool selector | ::{ flag=CN }:: ::Hylotl::{ user-id=18270260 }, ::{ flag=CN }:: ::YuEast 2018::{ user-id=13953619 }, ::{ flag=CN }:: ::\[GB\]Luoxuan0327::{ user-id=8586018 }, ::{ flag=CN }:: ::\[GB\]Sanae::{ user-id=11238501 }, ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 } |
+| SV mappool selector | ::{ flag=CN }:: ::\[GB\]Mafufu::{ user-id=10884561 } |
+| Mappool helper | ::{ flag=GB }:: ::-Deepdive-::{ user-id=13338645 }, ::{ flag=CN }:: ::Blue\1Potion::{ user-id=13094831 }, ::{ flag=CN }:: ::Lubei\101::{ user-id=11692528 }, ::{ flag=VN }:: ::Lott::{ user-id=13821222 } |
+| Referee | ::{ flag=CN }:: ::\[GB\]Edward\1Tsui::{ user-id=8609627 }, ::{ flag=CN }:: ::\[GB\]gluefly::{ user-id=8715409 }, ::{ flag=CN }:: ::\[GB\]Luoxuan0327::{ user-id=8586018 }, ::{ flag=CN }:: ::\[GB\]Mafufu::{ user-id=10884561 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user-id=3046856 }, ::{ flag=CN }:: ::\[GB\]Sanae::{ user-id=11238501 }, ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 } |
+| Commentator | ::{ flag=CN }:: ::Tachibana Gekka::{ user-id=4363530 }, ::{ flag=CN }:: ::\[GB\]Luoxuan0327::{ user-id=8586018 }, ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 } |
+| Guest Commentator | ::{ flag=GB }:: ::-Deepdive-::{ user-id=13338645 }, ::{ flag=CN }:: ::Hylotl::{ user-id=18270260 }, ::{ flag=CN }:: ::YuEast 2018::{ user-id=13953619 }, |
+| Streamer | ::{ flag=CN }:: ::aiyulu::{ user-id=189617 }, ::{ flag=CN }:: ::crazybrother::{ user-id=8045083 }, ::{ flag=CN }:: ::MadSamurai::{ user-id=8646045 }, ::{ flag=CN }:: ::\[GB\]Tyris::{ user-id=10497659 }, ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 } |
+| Designer | ::{ flag=CN }:: ::\[GB\]Mafufu::{ user-id=10884561 }, ::{ flag=CN }:: ::\[GB\]PlayandyoU::{ user-id=14759634 }, ::{ flag=CN }:: ::\[GB\]Voidmoyu::{ user-id=16573996 } |
+| Statistician & wiki editor | ::{ flag=CN }:: ::\[GB\]Natro::{ user-id=27233308 }, ::{ flag=CN }:: ::\[GB\]Rush\_FTK::{ user-id=3046856 }, ::{ flag=CN }:: ::\[GB\]Yuria::{ user-id=13092888 }, ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 } |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1649259)
 - Livestream
-  - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
-  - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
+  - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: ::\[GB\]yobrevelc::{ user-id=14128407 })
+  - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: ::aiyulu::{ user-id=189617 })
 - [Challonge bracket](https://challonge.com/GBC2022Autumn)
 - [GBC QQ Group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
 - [Information spreadsheet](https://docs.qq.com/sheet/DZUVwTnF1aEVmdlVX)
@@ -79,35 +79,35 @@ The GB Cup 2022 Autumn was run by the Team GB and various community members.
 
 | Role | Players |
 | :-: | :-- |
-| **Captains** | ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [ZOM148](https://osu.ppy.sh/users/10402690), ::{ flag=CN }:: [DJ Sharpnel](https://osu.ppy.sh/users/5132402), ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674), ::{ flag=CN }:: [Mito Van](https://osu.ppy.sh/users/14703345), ::{ flag=CN }:: [Shenzouz](https://osu.ppy.sh/users/29606773), ::{ flag=CN }:: [Riemann](https://osu.ppy.sh/users/30327473), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=CN }:: [\[GB\]Takeru](https://osu.ppy.sh/users/15188014), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [\[GB\]QAQlingjiu](https://osu.ppy.sh/users/27288518), ::{ flag=CN }:: [Pure_](https://osu.ppy.sh/users/24972681), ::{ flag=CN }:: [Carrot shreds](https://osu.ppy.sh/users/20789670), ::{ flag=CN }:: [nanimoshiranai](https://osu.ppy.sh/users/9602755), ::{ flag=CN }:: [Frozen moon](https://osu.ppy.sh/users/8999766), ::{ flag=CN }:: [NdAa1A0](https://osu.ppy.sh/users/13484261), ::{ flag=CN }:: [7581yx](https://osu.ppy.sh/users/23070586), ::{ flag=CN }:: [Supa7onyz](https://osu.ppy.sh/users/5378805), ::{ flag=CN }:: [vanposen](https://osu.ppy.sh/users/15289293), ::{ flag=CN }:: [N3k0ha_5h12uku](https://osu.ppy.sh/users/8781662), ::{ flag=CN }:: [YUCInoback](https://osu.ppy.sh/users/24449770), ::{ flag=HK }:: [MCPXiaoBai](https://osu.ppy.sh/users/11259611), ::{ flag=CN }:: [1840182932](https://osu.ppy.sh/users/10665336) |
-| **Players** | ::{ flag=CN }:: [StarTemplar](https://osu.ppy.sh/users/8795096), ::{ flag=CN }:: [\[Crz\]Flandre](https://osu.ppy.sh/users/6949941), ::{ flag=CN }:: [Miyes](https://osu.ppy.sh/users/12942073), ::{ flag=CN }:: [Mantozi](https://osu.ppy.sh/users/10764424), ::{ flag=CN }:: [\[Crz\]raber](https://osu.ppy.sh/users/6753592), ::{ flag=CN }:: [alivn](https://osu.ppy.sh/users/15807665), ::{ flag=CN }:: [Ranm](https://osu.ppy.sh/users/17527822), ::{ flag=CN }:: [Hitachimako0721](https://osu.ppy.sh/users/8883576), ::{ flag=CN }:: [\[Paw\]FIood](https://osu.ppy.sh/users/6336721), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Rysun](https://osu.ppy.sh/users/16277321), ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436), ::{ flag=CN }:: [\[GB\]Doomsday](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [\[ Classic \]](https://osu.ppy.sh/users/5858053), ::{ flag=CN }:: [Yurucawaii](https://osu.ppy.sh/users/25682415), ::{ flag=CN }:: [9961](https://osu.ppy.sh/users/14609209), ::{ flag=CN }:: [- Xiaoluoli -](https://osu.ppy.sh/users/9502281), ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517), ::{ flag=CN }:: [lovely_hyahya](https://osu.ppy.sh/users/10318380), ::{ flag=CN }:: [Matoi Ryuu Fox](https://osu.ppy.sh/users/12602829), ::{ flag=CN }:: [fishbone2445](https://osu.ppy.sh/users/17640814), ::{ flag=CN }:: [\[GB\]fanqiu](https://osu.ppy.sh/users/16233412), ::{ flag=CN }:: [\[GB\]King Fish](https://osu.ppy.sh/users/8468203), ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [1352707937aa](https://osu.ppy.sh/users/24848670), ::{ flag=CN }:: [\[GB\]DawnLm](https://osu.ppy.sh/users/8651259), ::{ flag=CN }:: [\[GB\]DiGua](https://osu.ppy.sh/users/25308131), ::{ flag=CN }:: [kururipa](https://osu.ppy.sh/users/17136430), ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [ATH_1gr](https://osu.ppy.sh/users/11931583), ::{ flag=CN }:: [Molli](https://osu.ppy.sh/users/8893772), ::{ flag=CN }:: [xibuniuzai](https://osu.ppy.sh/users/10513110), ::{ flag=CN }:: [WELUVELAN](https://osu.ppy.sh/users/29562558), ::{ flag=CN }:: [Vlf](https://osu.ppy.sh/users/9458866), ::{ flag=CN }:: [H dame](https://osu.ppy.sh/users/13673300), ::{ flag=CN }:: [Myon_](https://osu.ppy.sh/users/16626025), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=CN }:: [xinyi2016](https://osu.ppy.sh/users/14213841), ::{ flag=CN }:: [For need](https://osu.ppy.sh/users/10496581), ::{ flag=CN }:: [Origami Kagari](https://osu.ppy.sh/users/12386712), ::{ flag=CN }:: [Kanade1204](https://osu.ppy.sh/users/17251567), ::{ flag=CN }:: [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400), ::{ flag=CN }:: [\[Crz\]Rumia](https://osu.ppy.sh/users/17686114), ::{ flag=CN }:: [HIM_01](https://osu.ppy.sh/users/11648582), ::{ flag=CN }:: [aaaadddd](https://osu.ppy.sh/users/21131544), ::{ flag=AU }:: [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989), ::{ flag=CN }:: [My Angel Yukee7](https://osu.ppy.sh/users/9787146), ::{ flag=CN }:: [crazy438](https://osu.ppy.sh/users/11305932), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [KCINE](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [\[GB\]Aeolus](https://osu.ppy.sh/users/5547341), ::{ flag=CN }:: [bfdgbzfhs](https://osu.ppy.sh/users/29105204), ::{ flag=CN }:: [sakura XF](https://osu.ppy.sh/users/16298392), ::{ flag=CN }:: [frankgh3](https://osu.ppy.sh/users/14917119), ::{ flag=CN }:: [Echo_XF](https://osu.ppy.sh/users/25630297), ::{ flag=CN }:: [Zellotime](https://osu.ppy.sh/users/20624754), ::{ flag=CN }:: [bwl](https://osu.ppy.sh/users/15974181), ::{ flag=CN }:: [RCOPLO](https://osu.ppy.sh/users/18267600), ::{ flag=CN }:: [kongsola](https://osu.ppy.sh/users/22437877), ::{ flag=CN }:: [\[GB\]r3uz](https://osu.ppy.sh/users/27583184), ::{ flag=CN }:: [Xzzj](https://osu.ppy.sh/users/26237858), ::{ flag=CN }:: [\[Lily_White\]](https://osu.ppy.sh/users/12749779), ::{ flag=CN }:: [rbqq](https://osu.ppy.sh/users/13747488), ::{ flag=CN }:: [chanxi0](https://osu.ppy.sh/users/13138925), ::{ flag=CN }:: [\[GB\] limata](https://osu.ppy.sh/users/21326517), ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [xc165543337](https://osu.ppy.sh/users/15246697), ::{ flag=CN }:: [greedinessn](https://osu.ppy.sh/users/14345717), ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274), ::{ flag=CN }:: [ivysann](https://osu.ppy.sh/users/23652369), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=HK }:: [biubiutu](https://osu.ppy.sh/users/18801193), ::{ flag=HK }:: [Sakuramoe](https://osu.ppy.sh/users/19885258), ::{ flag=CN }:: [Not Softing](https://osu.ppy.sh/users/13267445), ::{ flag=CN }:: [iiiiiy](https://osu.ppy.sh/users/26677842), ::{ flag=CN }:: [SCI_Scale](https://osu.ppy.sh/users/25988344), ::{ flag=CN }:: [mayoi123](https://osu.ppy.sh/users/25379764), ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234), ::{ flag=CN }:: [Whitesoak](https://osu.ppy.sh/users/20886272), ::{ flag=CN }:: [lib4d](https://osu.ppy.sh/users/26181073), ::{ flag=CN }:: [Lingyu114](https://osu.ppy.sh/users/29743849), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [\[GB\]Cz](https://osu.ppy.sh/users/9191281), ::{ flag=CN }:: [YooLi](https://osu.ppy.sh/users/11073130), ::{ flag=CN }:: [-fm777-](https://osu.ppy.sh/users/30122510), ::{ flag=CN }:: [namelest](https://osu.ppy.sh/users/17812436), ::{ flag=CN }:: [KawaiiPoi](https://osu.ppy.sh/users/10694345), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [AyainSHF](https://osu.ppy.sh/users/27074609), ::{ flag=CN }:: [chino0133](https://osu.ppy.sh/users/16626292), ::{ flag=CN }:: [\[GB\]ReMILia](https://osu.ppy.sh/users/18334226), ::{ flag=CN }:: [smhei2](https://osu.ppy.sh/users/20888121), ::{ flag=CN }:: [aipaixiaotie](https://osu.ppy.sh/users/16934721), ::{ flag=CN }:: [Zanzibars](https://osu.ppy.sh/users/24290041), ::{ flag=CN }:: [ILOVEUUZ](https://osu.ppy.sh/users/14285752), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744), ::{ flag=MY }:: [WesleyWK](https://osu.ppy.sh/users/16533033), ::{ flag=CN }:: [suijiwuming](https://osu.ppy.sh/users/24467547), ::{ flag=CN }:: [ShaDiaoWanJia](https://osu.ppy.sh/users/14613519), ::{ flag=CN }:: [chineseYT](https://osu.ppy.sh/users/27552902) |
+| **Captains** | ::{ flag=CN }:: ::ALWW::{ user-id=18786195 }, ::{ flag=CN }:: ::tito31158::{ user-id=16436669 }, ::{ flag=CN }:: ::ZOM148::{ user-id=10402690 }, ::{ flag=CN }:: ::DJ Sharpnel::{ user-id=5132402 }, ::{ flag=CN }:: ::shizehao::{ user-id=4928674 }, ::{ flag=CN }:: ::Mito Van::{ user-id=14703345 }, ::{ flag=CN }:: ::Shenzouz::{ user-id=29606773 }, ::{ flag=CN }:: ::Riemann::{ user-id=30327473 }, ::{ flag=CN }:: ::\[GB\]mmttyy233::{ user-id=28639641 }, ::{ flag=CN }:: ::\[GB\]Takeru::{ user-id=15188014 }, ::{ flag=CN }:: ::\[GB\]V1do::{ user-id=17527968 }, ::{ flag=CN }:: ::\[GB\]QAQlingjiu::{ user-id=27288518 }, ::{ flag=CN }:: ::Pure\1::{ user-id=24972681 }, ::{ flag=CN }:: ::Carrot shreds::{ user-id=20789670 }, ::{ flag=CN }:: ::nanimoshiranai::{ user-id=9602755 }, ::{ flag=CN }:: ::Frozen moon::{ user-id=8999766 }, ::{ flag=CN }:: ::NdAa1A0::{ user-id=13484261 }, ::{ flag=CN }:: ::7581yx::{ user-id=23070586 }, ::{ flag=CN }:: ::Supa7onyz::{ user-id=5378805 }, ::{ flag=CN }:: ::vanposen::{ user-id=15289293 }, ::{ flag=CN }:: ::N3k0ha\15h12uku::{ user-id=8781662 }, ::{ flag=CN }:: ::YUCInoback::{ user-id=24449770 }, ::{ flag=HK }:: ::MCPXiaoBai::{ user-id=11259611 }, ::{ flag=CN }:: ::1840182932::{ user-id=10665336 } |
+| **Players** | ::{ flag=CN }:: ::StarTemplar::{ user-id=8795096 }, ::{ flag=CN }:: ::\[Crz\]Flandre::{ user-id=6949941 }, ::{ flag=CN }:: ::Miyes::{ user-id=12942073 }, ::{ flag=CN }:: ::Mantozi::{ user-id=10764424 }, ::{ flag=CN }:: ::\[Crz\]raber::{ user-id=6753592 }, ::{ flag=CN }:: ::alivn::{ user-id=15807665 }, ::{ flag=CN }:: ::Ranm::{ user-id=17527822 }, ::{ flag=CN }:: ::Hitachimako0721::{ user-id=8883576 }, ::{ flag=CN }:: ::\[Paw\]FIood::{ user-id=6336721 }, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user-id=11279273 }, ::{ flag=CN }:: ::\[GB\]Rysun::{ user-id=16277321 }, ::{ flag=CN }:: ::RiceSS::{ user-id=8271436 }, ::{ flag=CN }:: ::\[GB\]Doomsday::{ user-id=24989144 }, ::{ flag=CN }:: ::\[ Classic \]::{ user-id=5858053 }, ::{ flag=CN }:: ::Yurucawaii::{ user-id=25682415 }, ::{ flag=CN }:: ::9961::{ user-id=14609209 }, ::{ flag=CN }:: ::- Xiaoluoli -::{ user-id=9502281 }, ::{ flag=HK }:: ::Yana Feiya::{ user-id=7802517 }, ::{ flag=CN }:: ::lovely\1hyahya::{ user-id=10318380 }, ::{ flag=CN }:: ::Matoi Ryuu Fox::{ user-id=12602829 }, ::{ flag=CN }:: ::fishbone2445::{ user-id=17640814 }, ::{ flag=CN }:: ::\[GB\]fanqiu::{ user-id=16233412 }, ::{ flag=CN }:: ::\[GB\]King Fish::{ user-id=8468203 }, ::{ flag=CN }:: ::chana::{ user-id=18375016 }, ::{ flag=CN }:: ::1352707937aa::{ user-id=24848670 }, ::{ flag=CN }:: ::\[GB\]DawnLm::{ user-id=8651259 }, ::{ flag=CN }:: ::\[GB\]DiGua::{ user-id=25308131 }, ::{ flag=CN }:: ::kururipa::{ user-id=17136430 }, ::{ flag=CN }:: ::Zyuuu::{ user-id=15389275 }, ::{ flag=CN }:: ::ATH\11gr::{ user-id=11931583 }, ::{ flag=CN }:: ::Molli::{ user-id=8893772 }, ::{ flag=CN }:: ::xibuniuzai::{ user-id=10513110 }, ::{ flag=CN }:: ::WELUVELAN::{ user-id=29562558 }, ::{ flag=CN }:: ::Vlf::{ user-id=9458866 }, ::{ flag=CN }:: ::H dame::{ user-id=13673300 }, ::{ flag=CN }:: ::Myon\1::{ user-id=16626025 }, ::{ flag=HK }:: ::Alptraum::{ user-id=26496648 }, ::{ flag=CN }:: ::xinyi2016::{ user-id=14213841 }, ::{ flag=CN }:: ::For need::{ user-id=10496581 }, ::{ flag=CN }:: ::Origami Kagari::{ user-id=12386712 }, ::{ flag=CN }:: ::Kanade1204::{ user-id=17251567 }, ::{ flag=CN }:: ::\[GB\]Foxy1459::{ user-id=14938400 }, ::{ flag=CN }:: ::\[Crz\]Rumia::{ user-id=17686114 }, ::{ flag=CN }:: ::HIM\101::{ user-id=11648582 }, ::{ flag=CN }:: ::aaaadddd::{ user-id=21131544 }, ::{ flag=AU }:: ::\[Crz\]Yukikaze-::{ user-id=8832989 }, ::{ flag=CN }:: ::My Angel Yukee7::{ user-id=9787146 }, ::{ flag=CN }:: ::crazy438::{ user-id=11305932 }, ::{ flag=CN }:: ::Koishi-0514::{ user-id=7546593 }, ::{ flag=CN }:: ::KCINE::{ user-id=24289042 }, ::{ flag=CN }:: ::\[GB\]Aeolus::{ user-id=5547341 }, ::{ flag=CN }:: ::bfdgbzfhs::{ user-id=29105204 }, ::{ flag=CN }:: ::sakura XF::{ user-id=16298392 }, ::{ flag=CN }:: ::frankgh3::{ user-id=14917119 }, ::{ flag=CN }:: ::Echo\1XF::{ user-id=25630297 }, ::{ flag=CN }:: ::Zellotime::{ user-id=20624754 }, ::{ flag=CN }:: ::bwl::{ user-id=15974181 }, ::{ flag=CN }:: ::RCOPLO::{ user-id=18267600 }, ::{ flag=CN }:: ::kongsola::{ user-id=22437877 }, ::{ flag=CN }:: ::\[GB\]r3uz::{ user-id=27583184 }, ::{ flag=CN }:: ::Xzzj::{ user-id=26237858 }, ::{ flag=CN }:: ::\[Lily\1White\]::{ user-id=12749779 }, ::{ flag=CN }:: ::rbqq::{ user-id=13747488 }, ::{ flag=CN }:: ::chanxi0::{ user-id=13138925 }, ::{ flag=CN }:: ::\[GB\] limata::{ user-id=21326517 }, ::{ flag=CN }:: ::\[GB\]AelSan::{ user-id=14095291 }, ::{ flag=CN }:: ::xc165543337::{ user-id=15246697 }, ::{ flag=CN }:: ::greedinessn::{ user-id=14345717 }, ::{ flag=CN }:: ::\[GB\]dotdot::{ user-id=15923740 }, ::{ flag=CN }:: ::FALSEFAST::{ user-id=25508274 }, ::{ flag=CN }:: ::ivysann::{ user-id=23652369 }, ::{ flag=CN }:: ::KafuChino::{ user-id=14826575 }, ::{ flag=HK }:: ::biubiutu::{ user-id=18801193 }, ::{ flag=HK }:: ::Sakuramoe::{ user-id=19885258 }, ::{ flag=CN }:: ::Not Softing::{ user-id=13267445 }, ::{ flag=CN }:: ::iiiiiy::{ user-id=26677842 }, ::{ flag=CN }:: ::SCI\1Scale::{ user-id=25988344 }, ::{ flag=CN }:: ::mayoi123::{ user-id=25379764 }, ::{ flag=CN }:: ::yks1::{ user-id=26030234 }, ::{ flag=CN }:: ::Whitesoak::{ user-id=20886272 }, ::{ flag=CN }:: ::lib4d::{ user-id=26181073 }, ::{ flag=CN }:: ::Lingyu114::{ user-id=29743849 }, ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user-id=16586663 }, ::{ flag=CN }:: ::\[GB\]Akamite::{ user-id=13418334 }, ::{ flag=CN }:: ::\[GB\]Cz::{ user-id=9191281 }, ::{ flag=CN }:: ::YooLi::{ user-id=11073130 }, ::{ flag=CN }:: ::-fm777-::{ user-id=30122510 }, ::{ flag=CN }:: ::namelest::{ user-id=17812436 }, ::{ flag=CN }:: ::KawaiiPoi::{ user-id=10694345 }, ::{ flag=CN }:: ::yem sky::{ user-id=10588209 }, ::{ flag=CN }:: ::AyainSHF::{ user-id=27074609 }, ::{ flag=CN }:: ::chino0133::{ user-id=16626292 }, ::{ flag=CN }:: ::\[GB\]ReMILia::{ user-id=18334226 }, ::{ flag=CN }:: ::smhei2::{ user-id=20888121 }, ::{ flag=CN }:: ::aipaixiaotie::{ user-id=16934721 }, ::{ flag=CN }:: ::Zanzibars::{ user-id=24290041 }, ::{ flag=CN }:: ::ILOVEUUZ::{ user-id=14285752 }, ::{ flag=CN }:: ::spensll::{ user-id=4547744 }, ::{ flag=MY }:: ::WesleyWK::{ user-id=16533033 }, ::{ flag=CN }:: ::suijiwuming::{ user-id=24467547 }, ::{ flag=CN }:: ::ShaDiaoWanJia::{ user-id=14613519 }, ::{ flag=CN }:: ::chineseYT::{ user-id=27552902 } |
 
 | # | Team | Members |
 | :-: | :-- | :-- |
-| 1 | **无所谓绿皮龙会出手的** | ::{ flag=CN }:: **[1840182932](https://osu.ppy.sh/users/10665336)**, ::{ flag=CN }:: [Miyes](https://osu.ppy.sh/users/12942073), ::{ flag=CN }:: [Origami Kagari](https://osu.ppy.sh/users/12386712), ::{ flag=CN }:: [\[GB\]r3uz](https://osu.ppy.sh/users/27583184), ::{ flag=CN }:: [ILOVEUUZ](https://osu.ppy.sh/users/14285752) |
-| 2 | **BMS精灵** | ::{ flag=HK }:: **[MCPXiaoBai](https://osu.ppy.sh/users/11259611)**, ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [xc165543337](https://osu.ppy.sh/users/15246697), ::{ flag=CN }:: [aaaadddd](https://osu.ppy.sh/users/21131544), ::{ flag=CN }:: [aipaixiaotie](https://osu.ppy.sh/users/16934721) |
-| 3 | **俄亥俄州立大学躁狂播放器** | ::{ flag=CN }:: **[YUCInoback](https://osu.ppy.sh/users/24449770)**, ::{ flag=CN }:: [StarTemplar](https://osu.ppy.sh/users/8795096), ::{ flag=CN }:: [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400), ::{ flag=CN }:: [iiiiiy](https://osu.ppy.sh/users/26677842), ::{ flag=CN }:: [-fm777-](https://osu.ppy.sh/users/30122510) |
-| 4 | **你说的队** | ::{ flag=CN }:: **[N3k0ha_5h12uku](https://osu.ppy.sh/users/8781662)**, ::{ flag=CN }:: [Mantozi](https://osu.ppy.sh/users/10764424), ::{ flag=CN }:: [xibuniuzai](https://osu.ppy.sh/users/10513110), ::{ flag=CN }:: [crazy438](https://osu.ppy.sh/users/11305932), ::{ flag=CN }:: [chino0133](https://osu.ppy.sh/users/16626292) |
-| 5 | **番茄炒树莓** | ::{ flag=CN }:: **[vanposen](https://osu.ppy.sh/users/15289293)**, ::{ flag=CN }:: [\[Crz\]Flandre](https://osu.ppy.sh/users/6949941), ::{ flag=AU }:: [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989), ::{ flag=CN }:: [KCINE](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [\[GB\]ReMILia](https://osu.ppy.sh/users/18334226) |
-| 6 | **素鲍小馆丸子面条铺** | ::{ flag=CN }:: **[Supa7onyz](https://osu.ppy.sh/users/5378805)**, ::{ flag=CN }:: [\[Crz\]Rumia](https://osu.ppy.sh/users/17686114), ::{ flag=CN }:: [xinyi2016](https://osu.ppy.sh/users/14213841), ::{ flag=HK }:: [Sakuramoe](https://osu.ppy.sh/users/19885258), ::{ flag=CN }:: [lib4d](https://osu.ppy.sh/users/26181073) |
-| 7 | **DAMWONGaming** | ::{ flag=CN }:: **[7581yx](https://osu.ppy.sh/users/23070586)**, ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [For need](https://osu.ppy.sh/users/10496581), ::{ flag=CN }:: [\[GB\]Aeolus](https://osu.ppy.sh/users/5547341), ::{ flag=CN }:: [chineseYT](https://osu.ppy.sh/users/27552902) |
-| 8 | **EIPSYKONGROO** | ::{ flag=CN }:: **[NdAa1A0](https://osu.ppy.sh/users/13484261)**, ::{ flag=CN }:: [Hitachimako0721](https://osu.ppy.sh/users/8883576), ::{ flag=CN }:: [Myon_](https://osu.ppy.sh/users/16626025), ::{ flag=CN }:: [Echo_XF](https://osu.ppy.sh/users/25630297), ::{ flag=CN }:: [KawaiiPoi](https://osu.ppy.sh/users/10694345) |
-| 9 | **都什么年代还在玩传统音游** | ::{ flag=CN }:: **[Frozen moon](https://osu.ppy.sh/users/8999766)**, ::{ flag=CN }:: [Ranm](https://osu.ppy.sh/users/17527822), ::{ flag=CN }:: [WELUVELAN](https://osu.ppy.sh/users/29562558), ::{ flag=CN }:: [\[Lily_White\]](https://osu.ppy.sh/users/12749779), ::{ flag=CN }:: [\[GB\]Cz](https://osu.ppy.sh/users/9191281) |
-| 10 | **铁戈金马** | ::{ flag=CN }:: **[nanimoshiranai](https://osu.ppy.sh/users/9602755)**, ::{ flag=CN }:: [My Angel Yukee7](https://osu.ppy.sh/users/9787146), ::{ flag=CN }:: [Kanade1204](https://osu.ppy.sh/users/17251567), ::{ flag=CN }:: [Zellotime](https://osu.ppy.sh/users/20624754), ::{ flag=CN }:: [Whitesoak](https://osu.ppy.sh/users/20886272) |
-| 11 | **要我一直摆烂一直摆烂吗** | ::{ flag=CN }:: **[Carrot shreds](https://osu.ppy.sh/users/20789670)**, ::{ flag=CN }:: [\[GB\]Rysun](https://osu.ppy.sh/users/16277321), ::{ flag=CN }:: [H dame](https://osu.ppy.sh/users/13673300), ::{ flag=CN }:: [Xzzj](https://osu.ppy.sh/users/26237858), ::{ flag=CN }:: [SCI_Scale](https://osu.ppy.sh/users/25988344) |
-| 12 | **我屙屎精灵我交泥如活打屙** | ::{ flag=CN }:: **[lovely_hyahya](https://osu.ppy.sh/users/10318380)**, ::{ flag=CN }:: [Pure_](https://osu.ppy.sh/users/24972681), ::{ flag=CN }:: [1352707937aa](https://osu.ppy.sh/users/24848670), ::{ flag=CN }:: [mayoi123](https://osu.ppy.sh/users/25379764), ::{ flag=CN }:: [namelest](https://osu.ppy.sh/users/17812436) |
-| 13 | **上课军训补课反正凑不齐人** | ::{ flag=CN }:: **[\[GB\]QAQlingjiu](https://osu.ppy.sh/users/27288518)**, ::{ flag=CN }:: [9961](https://osu.ppy.sh/users/14609209), ::{ flag=CN }:: [\[GB\]DiGua](https://osu.ppy.sh/users/25308131), ::{ flag=CN }:: [\[GB\] limata](https://osu.ppy.sh/users/21326517), ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234) |
-| 14 | **均衡教派** | ::{ flag=CN }:: **[\[GB\]V1do](https://osu.ppy.sh/users/17527968)**, ::{ flag=CN }:: [\[Crz\]raber](https://osu.ppy.sh/users/6753592), ::{ flag=CN }:: [Molli](https://osu.ppy.sh/users/8893772), ::{ flag=CN }:: [bfdgbzfhs](https://osu.ppy.sh/users/29105204), ::{ flag=HK }:: [biubiutu](https://osu.ppy.sh/users/18801193) |
-| 15 | **队名太多不知道用哪个** | ::{ flag=CN }:: **[\[GB\]Takeru](https://osu.ppy.sh/users/15188014)**, ::{ flag=CN }:: [\[Paw\]FIood](https://osu.ppy.sh/users/6336721), ::{ flag=CN }:: [Vlf](https://osu.ppy.sh/users/9458866), ::{ flag=CN }:: [HIM_01](https://osu.ppy.sh/users/11648582), ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740) |
-| 16 | **猫猫面馆** | ::{ flag=CN }:: **[\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641)**, ::{ flag=CN }:: [alivn](https://osu.ppy.sh/users/15807665), ::{ flag=CN }:: [kururipa](https://osu.ppy.sh/users/17136430), ::{ flag=CN }:: [frankgh3](https://osu.ppy.sh/users/14917119), ::{ flag=CN }:: [ivysann](https://osu.ppy.sh/users/23652369) |
-| 17 | **黎曼猜想** | ::{ flag=CN }:: **[Riemann](https://osu.ppy.sh/users/30327473)**, ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517), ::{ flag=CN }:: [\[GB\]DawnLm](https://osu.ppy.sh/users/8651259), ::{ flag=CN }:: [RCOPLO](https://osu.ppy.sh/users/18267600), ::{ flag=CN }:: [greedinessn](https://osu.ppy.sh/users/14345717) |
-| 18 | **SV狗都不玩** | ::{ flag=CN }:: **[Shenzouz](https://osu.ppy.sh/users/29606773)**, ::{ flag=CN }:: [- Xiaoluoli -](https://osu.ppy.sh/users/9502281), ::{ flag=CN }:: [\[GB\]fanqiu](https://osu.ppy.sh/users/16233412), ::{ flag=CN }:: [Lingyu114](https://osu.ppy.sh/users/29743849), ::{ flag=CN }:: [chanxi0](https://osu.ppy.sh/users/13138925) |
-| 19 | **经典米托镂空鱼香鸡肉丸** | ::{ flag=CN }:: **[Mito Van](https://osu.ppy.sh/users/14703345)**, ::{ flag=CN }:: [\[ Classic \]](https://osu.ppy.sh/users/5858053), ::{ flag=CN }:: [\[GB\]King Fish](https://osu.ppy.sh/users/8468203), ::{ flag=CN }:: [kongsola](https://osu.ppy.sh/users/22437877), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663) |
-| 20 | **为所动做为所欲为的所欲为** | ::{ flag=CN }:: **[shizehao](https://osu.ppy.sh/users/4928674)**, ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=CN }:: [rbqq](https://osu.ppy.sh/users/13747488), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334) |
-| 21 | **ban位先ban行李箱** | ::{ flag=CN }:: **[DJ Sharpnel](https://osu.ppy.sh/users/5132402)**, ::{ flag=CN }:: [\[GB\]Doomsday](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [Matoi Ryuu Fox](https://osu.ppy.sh/users/12602829), ::{ flag=CN }:: [sakura XF](https://osu.ppy.sh/users/16298392), ::{ flag=CN }:: [Not Softing](https://osu.ppy.sh/users/13267445) |
-| 22 | **奖励一把大天空** | ::{ flag=CN }:: **[ZOM148](https://osu.ppy.sh/users/10402690)**, ::{ flag=CN }:: [ATH_1gr](https://osu.ppy.sh/users/11931583), ::{ flag=CN }:: [Yurucawaii](https://osu.ppy.sh/users/25682415), ::{ flag=CN }:: [bwl](https://osu.ppy.sh/users/15974181), ::{ flag=CN }:: [YooLi](https://osu.ppy.sh/users/11073130) |
-| 23 | **近月少女的礼仪** | ::{ flag=CN }:: **[Zyuuu](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274) |
-| 24 | **又一个倒霉蛋** | ::{ flag=CN }:: **[fishbone2445](https://osu.ppy.sh/users/17640814)**, ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) |
+| 1 | **无所谓绿皮龙会出手的** | ::{ flag=CN }:: **::1840182932::{ user-id=10665336 }**, ::{ flag=CN }:: ::Miyes::{ user-id=12942073 }, ::{ flag=CN }:: ::Origami Kagari::{ user-id=12386712 }, ::{ flag=CN }:: ::\[GB\]r3uz::{ user-id=27583184 }, ::{ flag=CN }:: ::ILOVEUUZ::{ user-id=14285752 } |
+| 2 | **BMS精灵** | ::{ flag=HK }:: **::MCPXiaoBai::{ user-id=11259611 }**, ::{ flag=CN }:: ::\[GB\]AelSan::{ user-id=14095291 }, ::{ flag=CN }:: ::xc165543337::{ user-id=15246697 }, ::{ flag=CN }:: ::aaaadddd::{ user-id=21131544 }, ::{ flag=CN }:: ::aipaixiaotie::{ user-id=16934721 } |
+| 3 | **俄亥俄州立大学躁狂播放器** | ::{ flag=CN }:: **::YUCInoback::{ user-id=24449770 }**, ::{ flag=CN }:: ::StarTemplar::{ user-id=8795096 }, ::{ flag=CN }:: ::\[GB\]Foxy1459::{ user-id=14938400 }, ::{ flag=CN }:: ::iiiiiy::{ user-id=26677842 }, ::{ flag=CN }:: ::-fm777-::{ user-id=30122510 } |
+| 4 | **你说的队** | ::{ flag=CN }:: **::N3k0ha\15h12uku::{ user-id=8781662 }**, ::{ flag=CN }:: ::Mantozi::{ user-id=10764424 }, ::{ flag=CN }:: ::xibuniuzai::{ user-id=10513110 }, ::{ flag=CN }:: ::crazy438::{ user-id=11305932 }, ::{ flag=CN }:: ::chino0133::{ user-id=16626292 } |
+| 5 | **番茄炒树莓** | ::{ flag=CN }:: **::vanposen::{ user-id=15289293 }**, ::{ flag=CN }:: ::\[Crz\]Flandre::{ user-id=6949941 }, ::{ flag=AU }:: ::\[Crz\]Yukikaze-::{ user-id=8832989 }, ::{ flag=CN }:: ::KCINE::{ user-id=24289042 }, ::{ flag=CN }:: ::\[GB\]ReMILia::{ user-id=18334226 } |
+| 6 | **素鲍小馆丸子面条铺** | ::{ flag=CN }:: **::Supa7onyz::{ user-id=5378805 }**, ::{ flag=CN }:: ::\[Crz\]Rumia::{ user-id=17686114 }, ::{ flag=CN }:: ::xinyi2016::{ user-id=14213841 }, ::{ flag=HK }:: ::Sakuramoe::{ user-id=19885258 }, ::{ flag=CN }:: ::lib4d::{ user-id=26181073 } |
+| 7 | **DAMWONGaming** | ::{ flag=CN }:: **::7581yx::{ user-id=23070586 }**, ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user-id=11279273 }, ::{ flag=CN }:: ::For need::{ user-id=10496581 }, ::{ flag=CN }:: ::\[GB\]Aeolus::{ user-id=5547341 }, ::{ flag=CN }:: ::chineseYT::{ user-id=27552902 } |
+| 8 | **EIPSYKONGROO** | ::{ flag=CN }:: **::NdAa1A0::{ user-id=13484261 }**, ::{ flag=CN }:: ::Hitachimako0721::{ user-id=8883576 }, ::{ flag=CN }:: ::Myon\1::{ user-id=16626025 }, ::{ flag=CN }:: ::Echo\1XF::{ user-id=25630297 }, ::{ flag=CN }:: ::KawaiiPoi::{ user-id=10694345 } |
+| 9 | **都什么年代还在玩传统音游** | ::{ flag=CN }:: **::Frozen moon::{ user-id=8999766 }**, ::{ flag=CN }:: ::Ranm::{ user-id=17527822 }, ::{ flag=CN }:: ::WELUVELAN::{ user-id=29562558 }, ::{ flag=CN }:: ::\[Lily\1White\]::{ user-id=12749779 }, ::{ flag=CN }:: ::\[GB\]Cz::{ user-id=9191281 } |
+| 10 | **铁戈金马** | ::{ flag=CN }:: **::nanimoshiranai::{ user-id=9602755 }**, ::{ flag=CN }:: ::My Angel Yukee7::{ user-id=9787146 }, ::{ flag=CN }:: ::Kanade1204::{ user-id=17251567 }, ::{ flag=CN }:: ::Zellotime::{ user-id=20624754 }, ::{ flag=CN }:: ::Whitesoak::{ user-id=20886272 } |
+| 11 | **要我一直摆烂一直摆烂吗** | ::{ flag=CN }:: **::Carrot shreds::{ user-id=20789670 }**, ::{ flag=CN }:: ::\[GB\]Rysun::{ user-id=16277321 }, ::{ flag=CN }:: ::H dame::{ user-id=13673300 }, ::{ flag=CN }:: ::Xzzj::{ user-id=26237858 }, ::{ flag=CN }:: ::SCI\1Scale::{ user-id=25988344 } |
+| 12 | **我屙屎精灵我交泥如活打屙** | ::{ flag=CN }:: **::lovely\1hyahya::{ user-id=10318380 }**, ::{ flag=CN }:: ::Pure\1::{ user-id=24972681 }, ::{ flag=CN }:: ::1352707937aa::{ user-id=24848670 }, ::{ flag=CN }:: ::mayoi123::{ user-id=25379764 }, ::{ flag=CN }:: ::namelest::{ user-id=17812436 } |
+| 13 | **上课军训补课反正凑不齐人** | ::{ flag=CN }:: **::\[GB\]QAQlingjiu::{ user-id=27288518 }**, ::{ flag=CN }:: ::9961::{ user-id=14609209 }, ::{ flag=CN }:: ::\[GB\]DiGua::{ user-id=25308131 }, ::{ flag=CN }:: ::\[GB\] limata::{ user-id=21326517 }, ::{ flag=CN }:: ::yks1::{ user-id=26030234 } |
+| 14 | **均衡教派** | ::{ flag=CN }:: **::\[GB\]V1do::{ user-id=17527968 }**, ::{ flag=CN }:: ::\[Crz\]raber::{ user-id=6753592 }, ::{ flag=CN }:: ::Molli::{ user-id=8893772 }, ::{ flag=CN }:: ::bfdgbzfhs::{ user-id=29105204 }, ::{ flag=HK }:: ::biubiutu::{ user-id=18801193 } |
+| 15 | **队名太多不知道用哪个** | ::{ flag=CN }:: **::\[GB\]Takeru::{ user-id=15188014 }**, ::{ flag=CN }:: ::\[Paw\]FIood::{ user-id=6336721 }, ::{ flag=CN }:: ::Vlf::{ user-id=9458866 }, ::{ flag=CN }:: ::HIM\101::{ user-id=11648582 }, ::{ flag=CN }:: ::\[GB\]dotdot::{ user-id=15923740 } |
+| 16 | **猫猫面馆** | ::{ flag=CN }:: **::\[GB\]mmttyy233::{ user-id=28639641 }**, ::{ flag=CN }:: ::alivn::{ user-id=15807665 }, ::{ flag=CN }:: ::kururipa::{ user-id=17136430 }, ::{ flag=CN }:: ::frankgh3::{ user-id=14917119 }, ::{ flag=CN }:: ::ivysann::{ user-id=23652369 } |
+| 17 | **黎曼猜想** | ::{ flag=CN }:: **::Riemann::{ user-id=30327473 }**, ::{ flag=HK }:: ::Yana Feiya::{ user-id=7802517 }, ::{ flag=CN }:: ::\[GB\]DawnLm::{ user-id=8651259 }, ::{ flag=CN }:: ::RCOPLO::{ user-id=18267600 }, ::{ flag=CN }:: ::greedinessn::{ user-id=14345717 } |
+| 18 | **SV狗都不玩** | ::{ flag=CN }:: **::Shenzouz::{ user-id=29606773 }**, ::{ flag=CN }:: ::- Xiaoluoli -::{ user-id=9502281 }, ::{ flag=CN }:: ::\[GB\]fanqiu::{ user-id=16233412 }, ::{ flag=CN }:: ::Lingyu114::{ user-id=29743849 }, ::{ flag=CN }:: ::chanxi0::{ user-id=13138925 } |
+| 19 | **经典米托镂空鱼香鸡肉丸** | ::{ flag=CN }:: **::Mito Van::{ user-id=14703345 }**, ::{ flag=CN }:: ::\[ Classic \]::{ user-id=5858053 }, ::{ flag=CN }:: ::\[GB\]King Fish::{ user-id=8468203 }, ::{ flag=CN }:: ::kongsola::{ user-id=22437877 }, ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user-id=16586663 } |
+| 20 | **为所动做为所欲为的所欲为** | ::{ flag=CN }:: **::shizehao::{ user-id=4928674 }**, ::{ flag=CN }:: ::RiceSS::{ user-id=8271436 }, ::{ flag=HK }:: ::Alptraum::{ user-id=26496648 }, ::{ flag=CN }:: ::rbqq::{ user-id=13747488 }, ::{ flag=CN }:: ::\[GB\]Akamite::{ user-id=13418334 } |
+| 21 | **ban位先ban行李箱** | ::{ flag=CN }:: **::DJ Sharpnel::{ user-id=5132402 }**, ::{ flag=CN }:: ::\[GB\]Doomsday::{ user-id=24989144 }, ::{ flag=CN }:: ::Matoi Ryuu Fox::{ user-id=12602829 }, ::{ flag=CN }:: ::sakura XF::{ user-id=16298392 }, ::{ flag=CN }:: ::Not Softing::{ user-id=13267445 } |
+| 22 | **奖励一把大天空** | ::{ flag=CN }:: **::ZOM148::{ user-id=10402690 }**, ::{ flag=CN }:: ::ATH\11gr::{ user-id=11931583 }, ::{ flag=CN }:: ::Yurucawaii::{ user-id=25682415 }, ::{ flag=CN }:: ::bwl::{ user-id=15974181 }, ::{ flag=CN }:: ::YooLi::{ user-id=11073130 } |
+| 23 | **近月少女的礼仪** | ::{ flag=CN }:: **::Zyuuu::{ user-id=15389275 }**, ::{ flag=CN }:: ::tito31158::{ user-id=16436669 }, ::{ flag=CN }:: ::Koishi-0514::{ user-id=7546593 }, ::{ flag=CN }:: ::yem sky::{ user-id=10588209 }, ::{ flag=CN }:: ::FALSEFAST::{ user-id=25508274 } |
+| 24 | **又一个倒霉蛋** | ::{ flag=CN }:: **::fishbone2445::{ user-id=17640814 }**, ::{ flag=CN }:: ::chana::{ user-id=18375016 }, ::{ flag=CN }:: ::ALWW::{ user-id=18786195 }, ::{ flag=CN }:: ::KafuChino::{ user-id=14826575 }, ::{ flag=CN }:: ::spensll::{ user-id=4547744 } |
 
 ## Podium
 
@@ -452,131 +452,131 @@ The final standings for the Qualifier stage and detailed statistics for this rou
 
 | # | Player | Rating |
 | :-: | :-- | :-- |
-| 1 | ::{ flag=CN }:: [StarTemplar](https://osu.ppy.sh/users/8795096) | 3.82 |
-| 2 | ::{ flag=CN }:: [\[Crz\]Flandre](https://osu.ppy.sh/users/6949941) | 8.1 |
-| 3 | ::{ flag=CN }:: [Miyes](https://osu.ppy.sh/users/12942073) | 8.36 |
-| 4 | ::{ flag=CN }:: [Mantozi](https://osu.ppy.sh/users/10764424) | 8.43 |
-| 5 | ::{ flag=CN }:: [\[Crz\]raber](https://osu.ppy.sh/users/6753592) | 10.13 |
-| 6 | ::{ flag=CN }:: [alivn](https://osu.ppy.sh/users/15807665) | 14.37 |
-| 7 | ::{ flag=CN }:: [Ranm](https://osu.ppy.sh/users/17527822) | 14.52 |
-| 8 | ::{ flag=CN }:: [Hitachimako0721](https://osu.ppy.sh/users/8883576) | 15.78 |
-| 9 | ::{ flag=CN }:: [\[Paw\]FIood](https://osu.ppy.sh/users/6336721) | 17.33 |
-| 10 | ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) | 18.22 |
-| 11 | ::{ flag=CN }:: [\[GB\]Rysun](https://osu.ppy.sh/users/16277321) | 18.32 |
-| 12 | ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436) | 19.16 |
-| 13 | ::{ flag=CN }:: [\[GB\]Doomsday](https://osu.ppy.sh/users/24989144) | 20.41 |
-| 14 | ::{ flag=CN }:: [\[ Classic \]](https://osu.ppy.sh/users/5858053) | 21.28 |
-| 14 | ::{ flag=CN }:: [Yurucawaii](https://osu.ppy.sh/users/25682415) | 21.28 |
-| 16 | ::{ flag=CN }:: [9961](https://osu.ppy.sh/users/14609209) | 25.08 |
-| 17 | ::{ flag=CN }:: [- Xiaoluoli -](https://osu.ppy.sh/users/9502281) | 27.71 |
-| 18 | ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517) | 27.72 |
-| 19 | ::{ flag=CN }:: [lovely_hyahya](https://osu.ppy.sh/users/10318380) | 28.02 |
-| 20 | ::{ flag=CN }:: [Matoi Ryuu Fox](https://osu.ppy.sh/users/12602829) | 29.26 |
-| 21 | ::{ flag=CN }:: [fishbone2445](https://osu.ppy.sh/users/17640814) | 30.27 |
-| 22 | ::{ flag=CN }:: [\[GB\]fanqiu](https://osu.ppy.sh/users/16233412) | 31.78 |
-| 23 | ::{ flag=CN }:: [\[GB\]King Fish](https://osu.ppy.sh/users/8468203) | 32.27 |
-| 24 | ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016) | 32.35 |
-| 25 | ::{ flag=CN }:: [1352707937aa](https://osu.ppy.sh/users/24848670) | 33.12 |
-| 26 | ::{ flag=CN }:: [\[GB\]DawnLm](https://osu.ppy.sh/users/8651259) | 33.2 |
-| 27 | ::{ flag=CN }:: [\[GB\]DiGua](https://osu.ppy.sh/users/25308131) | 35 |
-| 28 | ::{ flag=CN }:: [kururipa](https://osu.ppy.sh/users/17136430) | 35.9 |
-| 29 | ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275) | 36.97 |
-| 30 | ::{ flag=CN }:: [ATH_1gr](https://osu.ppy.sh/users/11931583) | 37.53 |
-| 31 | ::{ flag=CN }:: [Molli](https://osu.ppy.sh/users/8893772) | 39.7 |
-| 32 | ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195) | 39.98 |
-| 33 | ::{ flag=CN }:: [xibuniuzai](https://osu.ppy.sh/users/10513110) | 41.2 |
-| 34 | ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669) | 43.6 |
-| 35 | ::{ flag=CN }:: [ZOM148](https://osu.ppy.sh/users/10402690) | 44.32 |
-| 36 | ::{ flag=CN }:: [WELUVELAN](https://osu.ppy.sh/users/29562558) | 45.33 |
-| 37 | ::{ flag=CN }:: [DJ Sharpnel](https://osu.ppy.sh/users/5132402) | 47 |
-| 38 | ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674) | 47.95 |
-| 39 | ::{ flag=CN }:: [Vlf](https://osu.ppy.sh/users/9458866) | 48.51 |
-| 40 | ::{ flag=CN }:: [H dame](https://osu.ppy.sh/users/13673300) | 48.81 |
-| 41 | ::{ flag=CN }:: [Mito Van](https://osu.ppy.sh/users/14703345) | 49.28 |
-| 42 | ::{ flag=CN }:: [Shenzouz](https://osu.ppy.sh/users/29606773) | 49.38 |
-| 43 | ::{ flag=CN }:: [Riemann](https://osu.ppy.sh/users/30327473) | 49.9 |
-| 45 | ::{ flag=CN }:: [Myon_](https://osu.ppy.sh/users/16626025) | 50.13 |
-| 45 | ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641) | 50.13 |
-| 46 | ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648) | 50.72 |
-| 47 | ::{ flag=CN }:: [xinyi2016](https://osu.ppy.sh/users/14213841) | 52.21 |
-| 48 | ::{ flag=CN }:: [For need](https://osu.ppy.sh/users/10496581) | 52.91 |
-| 49 | ::{ flag=CN }:: [\[GB\]Takeru](https://osu.ppy.sh/users/15188014) | 53.82 |
-| 50 | ::{ flag=CN }:: [Origami Kagari](https://osu.ppy.sh/users/12386712) | 54.46 |
-| 51 | ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968) | 54.88 |
-| 52 | ::{ flag=CN }:: [\[GB\]QAQlingjiu](https://osu.ppy.sh/users/27288518) | 56.32 |
-| 53 | ::{ flag=CN }:: [Pure_](https://osu.ppy.sh/users/24972681) | 58.15 |
-| 54 | ::{ flag=CN }:: [Kanade1204](https://osu.ppy.sh/users/17251567) | 59.26 |
-| 55 | ::{ flag=CN }:: [Carrot shreds](https://osu.ppy.sh/users/20789670) | 59.28 |
-| 56 | ::{ flag=CN }:: [nanimoshiranai](https://osu.ppy.sh/users/9602755) | 62.22 |
-| 57 | ::{ flag=CN }:: [Frozen moon](https://osu.ppy.sh/users/8999766) | 62.78 |
-| 58 | ::{ flag=CN }:: [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400) | 63.55 |
-| 59 | ::{ flag=CN }:: [NdAa1A0](https://osu.ppy.sh/users/13484261) | 64.01 |
-| 60 | ::{ flag=CN }:: [7581yx](https://osu.ppy.sh/users/23070586) | 65.67 |
-| 61 | ::{ flag=CN }:: [\[Crz\]Rumia](https://osu.ppy.sh/users/17686114) | 66.18 |
-| 62 | ::{ flag=CN }:: [HIM_01](https://osu.ppy.sh/users/11648582) | 67.26 |
-| 63 | ::{ flag=CN }:: [Supa7onyz](https://osu.ppy.sh/users/5378805) | 68.57 |
-| 64 | ::{ flag=CN }:: [vanposen](https://osu.ppy.sh/users/15289293) | 68.58 |
-| 65 | ::{ flag=CN }:: [aaaadddd](https://osu.ppy.sh/users/21131544) | 68.85 |
-| 66 | ::{ flag=CN }:: [N3k0ha_5h12uku](https://osu.ppy.sh/users/8781662) | 69.22 |
-| 67 | ::{ flag=AU }:: [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989) | 70.96 |
-| 68 | ::{ flag=CN }:: [My Angel Yukee7](https://osu.ppy.sh/users/9787146) | 71.11 |
-| 69 | ::{ flag=CN }:: [crazy438](https://osu.ppy.sh/users/11305932) | 71.92 |
-| 70 | ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593) | 73.91 |
-| 71 | ::{ flag=CN }:: [KCINE](https://osu.ppy.sh/users/24289042) | 75.1 |
-| 72 | ::{ flag=CN }:: [\[GB\]Aeolus](https://osu.ppy.sh/users/5547341) | 75.53 |
-| 73 | ::{ flag=CN }:: [YUCInoback](https://osu.ppy.sh/users/24449770) | 75.85 |
-| 74 | ::{ flag=HK }:: [MCPXiaoBai](https://osu.ppy.sh/users/11259611) | 76.32 |
-| 75 | ::{ flag=CN }:: [bfdgbzfhs](https://osu.ppy.sh/users/29105204) | 76.92 |
-| 76 | ::{ flag=CN }:: [1840182932](https://osu.ppy.sh/users/10665336) | 78.58 |
-| 77 | ::{ flag=CN }:: [sakura XF](https://osu.ppy.sh/users/16298392) | 79.76 |
-| 78 | ::{ flag=CN }:: [frankgh3](https://osu.ppy.sh/users/14917119) | 79.91 |
-| 79 | ::{ flag=CN }:: [Echo_XF](https://osu.ppy.sh/users/25630297) | 80.18 |
-| 80 | ::{ flag=CN }:: [Zellotime](https://osu.ppy.sh/users/20624754) | 83.22 |
-| 81 | ::{ flag=CN }:: [bwl](https://osu.ppy.sh/users/15974181) | 84.21 |
-| 82 | ::{ flag=CN }:: [RCOPLO](https://osu.ppy.sh/users/18267600) | 85.32 |
-| 83 | ::{ flag=CN }:: [kongsola](https://osu.ppy.sh/users/22437877) | 85.78 |
-| 84 | ::{ flag=CN }:: [\[GB\]r3uz](https://osu.ppy.sh/users/27583184) | 86.47 |
-| 85 | ::{ flag=CN }:: [Xzzj](https://osu.ppy.sh/users/26237858) | 86.77 |
-| 86 | ::{ flag=CN }:: [\[Lily_White\]](https://osu.ppy.sh/users/12749779) | 89.77 |
-| 87 | ::{ flag=CN }:: [rbqq](https://osu.ppy.sh/users/13747488) | 90.63 |
-| 88 | ::{ flag=CN }:: [chanxi0](https://osu.ppy.sh/users/13138925) | 91.23 |
-| 89 | ::{ flag=CN }:: [\[GB\] limata](https://osu.ppy.sh/users/21326517) | 91.57 |
-| 90 | ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291) | 92.33 |
-| 91 | ::{ flag=CN }:: [xc165543337](https://osu.ppy.sh/users/15246697) | 93.81 |
-| 92 | ::{ flag=CN }:: [greedinessn](https://osu.ppy.sh/users/14345717) | 96.92 |
-| 93 | ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740) | 97.18 |
-| 94 | ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274) | 97.2 |
-| 95 | ::{ flag=CN }:: [ivysann](https://osu.ppy.sh/users/23652369) | 97.75 |
-| 96 | ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575) | 97.93 |
-| 97 | ::{ flag=HK }:: [biubiutu](https://osu.ppy.sh/users/18801193) | 97.97 |
-| 98 | ::{ flag=HK }:: [Sakuramoe](https://osu.ppy.sh/users/19885258) | 98.32 |
-| 99 | ::{ flag=CN }:: [Not Softing](https://osu.ppy.sh/users/13267445) | 99.7 |
-| 100 | ::{ flag=CN }:: [iiiiiy](https://osu.ppy.sh/users/26677842) | 99.91 |
-| 101 | ::{ flag=CN }:: [SCI_Scale](https://osu.ppy.sh/users/25988344) | 100.21 |
-| 102 | ::{ flag=CN }:: [mayoi123](https://osu.ppy.sh/users/25379764) | 100.95 |
-| 103 | ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234) | 101.95 |
-| 104 | ::{ flag=CN }:: [Whitesoak](https://osu.ppy.sh/users/20886272) | 103.92 |
-| 105 | ::{ flag=CN }:: [lib4d](https://osu.ppy.sh/users/26181073) | 104.66 |
-| 106 | ::{ flag=CN }:: [Lingyu114](https://osu.ppy.sh/users/29743849) | 105.16 |
-| 107 | ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663) | 105.41 |
-| 108 | ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334) | 106.47 |
-| 109 | ::{ flag=CN }:: [\[GB\]Cz](https://osu.ppy.sh/users/9191281) | 106.68 |
-| 110 | ::{ flag=CN }:: [YooLi](https://osu.ppy.sh/users/11073130) | 106.95 |
-| 111 | ::{ flag=CN }:: [-fm777-](https://osu.ppy.sh/users/30122510) | 108.53 |
-| 112 | ::{ flag=CN }:: [namelest](https://osu.ppy.sh/users/17812436) | 111.11 |
-| 113 | ::{ flag=CN }:: [KawaiiPoi](https://osu.ppy.sh/users/10694345) | 112.13 |
-| 114 | ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209) | 112.58 |
-| 115 | ::{ flag=CN }:: [AyainSHF](https://osu.ppy.sh/users/27074609) | 120.27 |
-| 116 | ::{ flag=CN }:: [chino0133](https://osu.ppy.sh/users/16626292) | 120.51 |
-| 117 | ::{ flag=CN }:: [\[GB\]ReMILia](https://osu.ppy.sh/users/18334226) | 121.61 |
-| 118 | ::{ flag=CN }:: [smhei2](https://osu.ppy.sh/users/20888121) | 122.77 |
-| 119 | ::{ flag=CN }:: [aipaixiaotie](https://osu.ppy.sh/users/16934721) | 123.08 |
-| 120 | ::{ flag=CN }:: [Zanzibars](https://osu.ppy.sh/users/24290041) | 123.5 |
-| 121 | ::{ flag=CN }:: [ILOVEUUZ](https://osu.ppy.sh/users/14285752) | 125.47 |
-| 122 | ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) | 126.72 |
-| 123 | ::{ flag=MY }:: [WesleyWK](https://osu.ppy.sh/users/16533033) | 128.01 |
-| 124 | ::{ flag=CN }:: [suijiwuming](https://osu.ppy.sh/users/24467547) | 133.13 |
-| 125 | ::{ flag=CN }:: [ShaDiaoWanJia](https://osu.ppy.sh/users/14613519) | 133.33 |
+| 1 | ::{ flag=CN }:: ::StarTemplar::{ user-id=8795096 } | 3.82 |
+| 2 | ::{ flag=CN }:: ::\[Crz\]Flandre::{ user-id=6949941 } | 8.1 |
+| 3 | ::{ flag=CN }:: ::Miyes::{ user-id=12942073 } | 8.36 |
+| 4 | ::{ flag=CN }:: ::Mantozi::{ user-id=10764424 } | 8.43 |
+| 5 | ::{ flag=CN }:: ::\[Crz\]raber::{ user-id=6753592 } | 10.13 |
+| 6 | ::{ flag=CN }:: ::alivn::{ user-id=15807665 } | 14.37 |
+| 7 | ::{ flag=CN }:: ::Ranm::{ user-id=17527822 } | 14.52 |
+| 8 | ::{ flag=CN }:: ::Hitachimako0721::{ user-id=8883576 } | 15.78 |
+| 9 | ::{ flag=CN }:: ::\[Paw\]FIood::{ user-id=6336721 } | 17.33 |
+| 10 | ::{ flag=CN }:: ::\[Crz\]Alleyne::{ user-id=11279273 } | 18.22 |
+| 11 | ::{ flag=CN }:: ::\[GB\]Rysun::{ user-id=16277321 } | 18.32 |
+| 12 | ::{ flag=CN }:: ::RiceSS::{ user-id=8271436 } | 19.16 |
+| 13 | ::{ flag=CN }:: ::\[GB\]Doomsday::{ user-id=24989144 } | 20.41 |
+| 14 | ::{ flag=CN }:: ::\[ Classic \]::{ user-id=5858053 } | 21.28 |
+| 14 | ::{ flag=CN }:: ::Yurucawaii::{ user-id=25682415 } | 21.28 |
+| 16 | ::{ flag=CN }:: ::9961::{ user-id=14609209 } | 25.08 |
+| 17 | ::{ flag=CN }:: ::- Xiaoluoli -::{ user-id=9502281 } | 27.71 |
+| 18 | ::{ flag=HK }:: ::Yana Feiya::{ user-id=7802517 } | 27.72 |
+| 19 | ::{ flag=CN }:: ::lovely\1hyahya::{ user-id=10318380 } | 28.02 |
+| 20 | ::{ flag=CN }:: ::Matoi Ryuu Fox::{ user-id=12602829 } | 29.26 |
+| 21 | ::{ flag=CN }:: ::fishbone2445::{ user-id=17640814 } | 30.27 |
+| 22 | ::{ flag=CN }:: ::\[GB\]fanqiu::{ user-id=16233412 } | 31.78 |
+| 23 | ::{ flag=CN }:: ::\[GB\]King Fish::{ user-id=8468203 } | 32.27 |
+| 24 | ::{ flag=CN }:: ::chana::{ user-id=18375016 } | 32.35 |
+| 25 | ::{ flag=CN }:: ::1352707937aa::{ user-id=24848670 } | 33.12 |
+| 26 | ::{ flag=CN }:: ::\[GB\]DawnLm::{ user-id=8651259 } | 33.2 |
+| 27 | ::{ flag=CN }:: ::\[GB\]DiGua::{ user-id=25308131 } | 35 |
+| 28 | ::{ flag=CN }:: ::kururipa::{ user-id=17136430 } | 35.9 |
+| 29 | ::{ flag=CN }:: ::Zyuuu::{ user-id=15389275 } | 36.97 |
+| 30 | ::{ flag=CN }:: ::ATH\11gr::{ user-id=11931583 } | 37.53 |
+| 31 | ::{ flag=CN }:: ::Molli::{ user-id=8893772 } | 39.7 |
+| 32 | ::{ flag=CN }:: ::ALWW::{ user-id=18786195 } | 39.98 |
+| 33 | ::{ flag=CN }:: ::xibuniuzai::{ user-id=10513110 } | 41.2 |
+| 34 | ::{ flag=CN }:: ::tito31158::{ user-id=16436669 } | 43.6 |
+| 35 | ::{ flag=CN }:: ::ZOM148::{ user-id=10402690 } | 44.32 |
+| 36 | ::{ flag=CN }:: ::WELUVELAN::{ user-id=29562558 } | 45.33 |
+| 37 | ::{ flag=CN }:: ::DJ Sharpnel::{ user-id=5132402 } | 47 |
+| 38 | ::{ flag=CN }:: ::shizehao::{ user-id=4928674 } | 47.95 |
+| 39 | ::{ flag=CN }:: ::Vlf::{ user-id=9458866 } | 48.51 |
+| 40 | ::{ flag=CN }:: ::H dame::{ user-id=13673300 } | 48.81 |
+| 41 | ::{ flag=CN }:: ::Mito Van::{ user-id=14703345 } | 49.28 |
+| 42 | ::{ flag=CN }:: ::Shenzouz::{ user-id=29606773 } | 49.38 |
+| 43 | ::{ flag=CN }:: ::Riemann::{ user-id=30327473 } | 49.9 |
+| 45 | ::{ flag=CN }:: ::Myon\1::{ user-id=16626025 } | 50.13 |
+| 45 | ::{ flag=CN }:: ::\[GB\]mmttyy233::{ user-id=28639641 } | 50.13 |
+| 46 | ::{ flag=HK }:: ::Alptraum::{ user-id=26496648 } | 50.72 |
+| 47 | ::{ flag=CN }:: ::xinyi2016::{ user-id=14213841 } | 52.21 |
+| 48 | ::{ flag=CN }:: ::For need::{ user-id=10496581 } | 52.91 |
+| 49 | ::{ flag=CN }:: ::\[GB\]Takeru::{ user-id=15188014 } | 53.82 |
+| 50 | ::{ flag=CN }:: ::Origami Kagari::{ user-id=12386712 } | 54.46 |
+| 51 | ::{ flag=CN }:: ::\[GB\]V1do::{ user-id=17527968 } | 54.88 |
+| 52 | ::{ flag=CN }:: ::\[GB\]QAQlingjiu::{ user-id=27288518 } | 56.32 |
+| 53 | ::{ flag=CN }:: ::Pure\1::{ user-id=24972681 } | 58.15 |
+| 54 | ::{ flag=CN }:: ::Kanade1204::{ user-id=17251567 } | 59.26 |
+| 55 | ::{ flag=CN }:: ::Carrot shreds::{ user-id=20789670 } | 59.28 |
+| 56 | ::{ flag=CN }:: ::nanimoshiranai::{ user-id=9602755 } | 62.22 |
+| 57 | ::{ flag=CN }:: ::Frozen moon::{ user-id=8999766 } | 62.78 |
+| 58 | ::{ flag=CN }:: ::\[GB\]Foxy1459::{ user-id=14938400 } | 63.55 |
+| 59 | ::{ flag=CN }:: ::NdAa1A0::{ user-id=13484261 } | 64.01 |
+| 60 | ::{ flag=CN }:: ::7581yx::{ user-id=23070586 } | 65.67 |
+| 61 | ::{ flag=CN }:: ::\[Crz\]Rumia::{ user-id=17686114 } | 66.18 |
+| 62 | ::{ flag=CN }:: ::HIM\101::{ user-id=11648582 } | 67.26 |
+| 63 | ::{ flag=CN }:: ::Supa7onyz::{ user-id=5378805 } | 68.57 |
+| 64 | ::{ flag=CN }:: ::vanposen::{ user-id=15289293 } | 68.58 |
+| 65 | ::{ flag=CN }:: ::aaaadddd::{ user-id=21131544 } | 68.85 |
+| 66 | ::{ flag=CN }:: ::N3k0ha\15h12uku::{ user-id=8781662 } | 69.22 |
+| 67 | ::{ flag=AU }:: ::\[Crz\]Yukikaze-::{ user-id=8832989 } | 70.96 |
+| 68 | ::{ flag=CN }:: ::My Angel Yukee7::{ user-id=9787146 } | 71.11 |
+| 69 | ::{ flag=CN }:: ::crazy438::{ user-id=11305932 } | 71.92 |
+| 70 | ::{ flag=CN }:: ::Koishi-0514::{ user-id=7546593 } | 73.91 |
+| 71 | ::{ flag=CN }:: ::KCINE::{ user-id=24289042 } | 75.1 |
+| 72 | ::{ flag=CN }:: ::\[GB\]Aeolus::{ user-id=5547341 } | 75.53 |
+| 73 | ::{ flag=CN }:: ::YUCInoback::{ user-id=24449770 } | 75.85 |
+| 74 | ::{ flag=HK }:: ::MCPXiaoBai::{ user-id=11259611 } | 76.32 |
+| 75 | ::{ flag=CN }:: ::bfdgbzfhs::{ user-id=29105204 } | 76.92 |
+| 76 | ::{ flag=CN }:: ::1840182932::{ user-id=10665336 } | 78.58 |
+| 77 | ::{ flag=CN }:: ::sakura XF::{ user-id=16298392 } | 79.76 |
+| 78 | ::{ flag=CN }:: ::frankgh3::{ user-id=14917119 } | 79.91 |
+| 79 | ::{ flag=CN }:: ::Echo\1XF::{ user-id=25630297 } | 80.18 |
+| 80 | ::{ flag=CN }:: ::Zellotime::{ user-id=20624754 } | 83.22 |
+| 81 | ::{ flag=CN }:: ::bwl::{ user-id=15974181 } | 84.21 |
+| 82 | ::{ flag=CN }:: ::RCOPLO::{ user-id=18267600 } | 85.32 |
+| 83 | ::{ flag=CN }:: ::kongsola::{ user-id=22437877 } | 85.78 |
+| 84 | ::{ flag=CN }:: ::\[GB\]r3uz::{ user-id=27583184 } | 86.47 |
+| 85 | ::{ flag=CN }:: ::Xzzj::{ user-id=26237858 } | 86.77 |
+| 86 | ::{ flag=CN }:: ::\[Lily\1White\]::{ user-id=12749779 } | 89.77 |
+| 87 | ::{ flag=CN }:: ::rbqq::{ user-id=13747488 } | 90.63 |
+| 88 | ::{ flag=CN }:: ::chanxi0::{ user-id=13138925 } | 91.23 |
+| 89 | ::{ flag=CN }:: ::\[GB\] limata::{ user-id=21326517 } | 91.57 |
+| 90 | ::{ flag=CN }:: ::\[GB\]AelSan::{ user-id=14095291 } | 92.33 |
+| 91 | ::{ flag=CN }:: ::xc165543337::{ user-id=15246697 } | 93.81 |
+| 92 | ::{ flag=CN }:: ::greedinessn::{ user-id=14345717 } | 96.92 |
+| 93 | ::{ flag=CN }:: ::\[GB\]dotdot::{ user-id=15923740 } | 97.18 |
+| 94 | ::{ flag=CN }:: ::FALSEFAST::{ user-id=25508274 } | 97.2 |
+| 95 | ::{ flag=CN }:: ::ivysann::{ user-id=23652369 } | 97.75 |
+| 96 | ::{ flag=CN }:: ::KafuChino::{ user-id=14826575 } | 97.93 |
+| 97 | ::{ flag=HK }:: ::biubiutu::{ user-id=18801193 } | 97.97 |
+| 98 | ::{ flag=HK }:: ::Sakuramoe::{ user-id=19885258 } | 98.32 |
+| 99 | ::{ flag=CN }:: ::Not Softing::{ user-id=13267445 } | 99.7 |
+| 100 | ::{ flag=CN }:: ::iiiiiy::{ user-id=26677842 } | 99.91 |
+| 101 | ::{ flag=CN }:: ::SCI\1Scale::{ user-id=25988344 } | 100.21 |
+| 102 | ::{ flag=CN }:: ::mayoi123::{ user-id=25379764 } | 100.95 |
+| 103 | ::{ flag=CN }:: ::yks1::{ user-id=26030234 } | 101.95 |
+| 104 | ::{ flag=CN }:: ::Whitesoak::{ user-id=20886272 } | 103.92 |
+| 105 | ::{ flag=CN }:: ::lib4d::{ user-id=26181073 } | 104.66 |
+| 106 | ::{ flag=CN }:: ::Lingyu114::{ user-id=29743849 } | 105.16 |
+| 107 | ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user-id=16586663 } | 105.41 |
+| 108 | ::{ flag=CN }:: ::\[GB\]Akamite::{ user-id=13418334 } | 106.47 |
+| 109 | ::{ flag=CN }:: ::\[GB\]Cz::{ user-id=9191281 } | 106.68 |
+| 110 | ::{ flag=CN }:: ::YooLi::{ user-id=11073130 } | 106.95 |
+| 111 | ::{ flag=CN }:: ::-fm777-::{ user-id=30122510 } | 108.53 |
+| 112 | ::{ flag=CN }:: ::namelest::{ user-id=17812436 } | 111.11 |
+| 113 | ::{ flag=CN }:: ::KawaiiPoi::{ user-id=10694345 } | 112.13 |
+| 114 | ::{ flag=CN }:: ::yem sky::{ user-id=10588209 } | 112.58 |
+| 115 | ::{ flag=CN }:: ::AyainSHF::{ user-id=27074609 } | 120.27 |
+| 116 | ::{ flag=CN }:: ::chino0133::{ user-id=16626292 } | 120.51 |
+| 117 | ::{ flag=CN }:: ::\[GB\]ReMILia::{ user-id=18334226 } | 121.61 |
+| 118 | ::{ flag=CN }:: ::smhei2::{ user-id=20888121 } | 122.77 |
+| 119 | ::{ flag=CN }:: ::aipaixiaotie::{ user-id=16934721 } | 123.08 |
+| 120 | ::{ flag=CN }:: ::Zanzibars::{ user-id=24290041 } | 123.5 |
+| 121 | ::{ flag=CN }:: ::ILOVEUUZ::{ user-id=14285752 } | 125.47 |
+| 122 | ::{ flag=CN }:: ::spensll::{ user-id=4547744 } | 126.72 |
+| 123 | ::{ flag=MY }:: ::WesleyWK::{ user-id=16533033 } | 128.01 |
+| 124 | ::{ flag=CN }:: ::suijiwuming::{ user-id=24467547 } | 133.13 |
+| 125 | ::{ flag=CN }:: ::ShaDiaoWanJia::{ user-id=14613519 } | 133.33 |
 
 ## Ruleset
 

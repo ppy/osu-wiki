@@ -15,23 +15,23 @@ Unsure if you should get one? Check out the plushies in all their glory, featuri
 
 [![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/the-og.jpg)](https://www.makeship.com/search?q=ppy)
 
-Look at how adorable pippi looks while accompanying The Dean "[peppy](https://osu.ppy.sh/users/2)" Herbert on a desk that has witnessed more osu!(lazer) code than one could fathom, next to a very pink cookie! You can't resist having these on your desk too, can you?
+Look at how adorable pippi looks while accompanying The Dean "::peppy::{ user-id=2 }" Herbert on a desk that has witnessed more osu!(lazer) code than one could fathom, next to a very pink cookie! You can't resist having these on your desk too, can you?
 
 [![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/deimos.jpg)](https://www.makeship.com/search?q=ppy)
 
-While staying on the desk trend, [Deimos](https://osu.ppy.sh/users/1515403) brought us a similar setup featuring pippi — equipped with an appropriately sized cookie — getting ready for an intense coding session!
+While staying on the desk trend, ::Deimos::{ user-id=1515403 } brought us a similar setup featuring pippi — equipped with an appropriately sized cookie — getting ready for an intense coding session!
 
 [![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/jun-maeda.jpg)](https://www.makeship.com/search?q=ppy)
 
-pippi! And puppies! You almost can't tell the difference from how cute they look. [Jun Maeda](https://osu.ppy.sh/users/8777786) and his doggos will very much make for a wonderful home for our dear pippi.
+pippi! And puppies! You almost can't tell the difference from how cute they look. ::Jun Maeda::{ user-id=8777786 } and his doggos will very much make for a wonderful home for our dear pippi.
 
 [![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/waltertoro.jpg)](https://www.makeship.com/search?q=ppy)
 
-We're certain we're not the only ones mesmerised by the neon lights that pippi is basking in. [WalterToro](https://osu.ppy.sh/users/5281416) and his pippi plush are certainly a duo that's ready to take on the world, or at least the next osu!mania tournament.
+We're certain we're not the only ones mesmerised by the neon lights that pippi is basking in. ::WalterToro::{ user-id=5281416 } and his pippi plush are certainly a duo that's ready to take on the world, or at least the next osu!mania tournament.
 
 [![](/wiki/shared/news/2024-11-28-another-batch-of-osu-plushies/chompy.jpg)](https://www.makeship.com/search?q=ppy)
 
-[Chompy](https://osu.ppy.sh/users/7427035) took us all to a cute Jurassic era with his plush dinos! The cookie surely looks quite cozy in there, doesn't it?
+::Chompy::{ user-id=7427035 } took us all to a cute Jurassic era with his plush dinos! The cookie surely looks quite cozy in there, doesn't it?
 
 <div align="center">
     <video width="100%" controls>

@@ -13,7 +13,7 @@ series: featured_artists
 
 **7** distinctly powerful tracks are now available from [**Raimukun**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/247), including his iconic *BMS OF FIGHTERS* submissions!
 
-The newest of those submissions is [Firmament star](https://osu.ppy.sh/beatmapsets/1633703) (rendered for osu!catch by [Jemzuu](https://osu.ppy.sh/users/7890134)). If you're one of the 3 people who've ever wondered how an osu!catch map coverts to circle clicking, this video will satisfy all of your curiosities. Once you're done, check out everything else below:
+The newest of those submissions is [Firmament star](https://osu.ppy.sh/beatmapsets/1633703) (rendered for osu!catch by ::Jemzuu::{ user-id=7890134 }). If you're one of the 3 people who've ever wondered how an osu!catch map coverts to circle clicking, this video will satisfy all of your curiosities. Once you're done, check out everything else below:
 
 <div align="center">
     <video width="100%" controls>
@@ -23,7 +23,7 @@ The newest of those submissions is [Firmament star](https://osu.ppy.sh/beatmapse
 
 ### Firmament star
 
-Explore [the map from the video above](https://osu.ppy.sh/beatmapsets/1633703) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)!
+Explore [the map from the video above](https://osu.ppy.sh/beatmapsets/1633703) hosted by ::Jemzuu::{ user-id=7890134 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/247/Songs/Raimukun%20-%20Firmament%20Star.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Explore [the map from the video above](https://osu.ppy.sh/beatmapsets/1633703) h
 
 ### Icyxis
 
-If you'd rather smash a piano, try [this multi-speed osu!mania map](https://osu.ppy.sh/beatmapsets/1256193) hosted by [11Bit](https://osu.ppy.sh/users/14804526)!
+If you'd rather smash a piano, try [this multi-speed osu!mania map](https://osu.ppy.sh/beatmapsets/1256193) hosted by ::11Bit::{ user-id=14804526 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/247/Songs/Raimukun%20-%20Icyxis.mp3" type="audio/mpeg">

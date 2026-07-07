@@ -19,7 +19,7 @@ Check it all out:
 
 ### Sakura Fubuki
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/362989) by [Cherry Blossom](https://osu.ppy.sh/users/1156742), [this more modern set](https://osu.ppy.sh/beatmapsets/1202610) hosted by [eiri\-](https://osu.ppy.sh/users/3388410), and [this modern osu!catch set](https://osu.ppy.sh/beatmapsets/1143608) hosted by [Sinnoh](https://osu.ppy.sh/users/42360570)!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/362989) by ::Cherry Blossom::{ user-id=1156742 }, [this more modern set](https://osu.ppy.sh/beatmapsets/1202610) hosted by ::eiri\-::{ user-id=3388410 }, and [this modern osu!catch set](https://osu.ppy.sh/beatmapsets/1143608) hosted by ::Sinnoh::{ user-id=42360570 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/89/previews/2369.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this classic set](https://osu.ppy.sh/beatmapsets/362989) by [Cherry B
 
 ### Maritime Police
 
-Check out [this modern set](https://osu.ppy.sh/beatmapsets/681410) hosted by [Mir](https://osu.ppy.sh/users/8688812), which featured in the osu! World Cup 2018 Round of 16 map pool!
+Check out [this modern set](https://osu.ppy.sh/beatmapsets/681410) hosted by ::Mir::{ user-id=8688812 }, which featured in the osu! World Cup 2018 Round of 16 map pool!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/89/previews/2366.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this modern set](https://osu.ppy.sh/beatmapsets/681410) hosted by [Mi
 
 ### Hacking Code
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/584527) by [Mir](https://osu.ppy.sh/users/8688812)!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/584527) by ::Mir::{ user-id=8688812 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/89/previews/2359.mp3" type="audio/mpeg">

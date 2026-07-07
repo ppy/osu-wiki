@@ -9,7 +9,7 @@ series: featured_artists
 
 ![](https://assets.ppy.sh/artists/540/header.jpg)
 
-Since the beginning, osu! has been about creating beatmaps. Mappers choose music that they love and transform it into something new through hit objects. Long before taking on the moniker **log()** (and more recently *777system*), this Thai producer was known as [ohm002](https://osu.ppy.sh/users/4468239), a renowned mapper for the better half of a decade who's still pouring their heart and soul into the editor!
+Since the beginning, osu! has been about creating beatmaps. Mappers choose music that they love and transform it into something new through hit objects. Long before taking on the moniker **log()** (and more recently *777system*), this Thai producer was known as ::ohm002::{ user-id=4468239 }, a renowned mapper for the better half of a decade who's still pouring their heart and soul into the editor!
 
 That's only the tip of the iceberg for **log()** though. While they've been active in the osu! scene, they've also learned how to produce music as technical as their beatmaps, leading to one of their songs being featured in the game *vivid/stasis* and the creation of their own rhythm game *NEODITRONIX*!
 
@@ -31,7 +31,7 @@ The name "ohm002" is the source of everything here, so it's only fitting that th
 
 ### log() - Stellar Sky (Remastered)
 
-If you're looking for a less ohm002-centric experience, [this map](https://osu.ppy.sh/beatmapsets/2375862) created by [Aeril](https://osu.ppy.sh/users/4334976) is for you!
+If you're looking for a less ohm002-centric experience, [this map](https://osu.ppy.sh/beatmapsets/2375862) created by ::Aeril::{ user-id=4334976 } is for you!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

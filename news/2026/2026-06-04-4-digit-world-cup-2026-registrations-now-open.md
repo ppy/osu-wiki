@@ -13,7 +13,7 @@ As the longest-running rank-restricted world cup since its inception in 2018, th
 
 ## What's new?
 
-With its 9th iteration, 4WC2026 sees an all-new organising team in Project Hexagon. Hailing from the 6-digit tournament community, Project Hexagon is a group led by ::{ flag=SG }:: [gamicrayola](https://osu.ppy.sh/users/29426345), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=CH }:: [MirageFire](https://osu.ppy.sh/users/5316973) and ::{ flag=GB }:: [willwam](https://osu.ppy.sh/users/11674122), which seeks to raise the baseline and innovate the peaks of tournament production.
+With its 9th iteration, 4WC2026 sees an all-new organising team in Project Hexagon. Hailing from the 6-digit tournament community, Project Hexagon is a group led by ::{ flag=SG }:: ::gamicrayola::{ user-id=29426345 }, ::{ flag=GB }:: ::pericrayola::{ user-id=31184671 }, ::{ flag=UA }:: ::Filoxen::{ user-id=24454271 }, ::{ flag=CH }:: ::MirageFire::{ user-id=5316973 } and ::{ flag=GB }:: ::willwam::{ user-id=11674122 }, which seeks to raise the baseline and innovate the peaks of tournament production.
 
 Inspired by the success of OWC2025's new format, 4WC2026 will feature its own twist on the group stage, hoping to introduce new flavour to the tournament. Do check out our [4WC rulebook](https://docs.google.com/document/d/1ad9X6wSWcFDVbkxqtzCurfls12XE06NHFTOzopZWI70) for more details!
 

@@ -17,7 +17,7 @@ Don't take my word for it, check out a few previews below, plus two showcase map
 
 ### Falling Falls
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1120635) hosted by [Nao Tomori](https://osu.ppy.sh/users/5364763)!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1120635) hosted by ::Nao Tomori::{ user-id=5364763 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/80/previews/2121.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1120635) hosted by 
 
 ### Retrospective City
 
-Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1120645) by [Lasse](https://osu.ppy.sh/users/896613)!
+Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1120645) by ::Lasse::{ user-id=896613 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/80/previews/2138.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1120645) by [Lasse]
 
 ### Flags on the Moon
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/799898) by [Mun](https://osu.ppy.sh/users/6699165)!
+Check out [this classic set](https://osu.ppy.sh/beatmapsets/799898) by ::Mun::{ user-id=6699165 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/80/previews/2133.mp3" type="audio/mpeg">

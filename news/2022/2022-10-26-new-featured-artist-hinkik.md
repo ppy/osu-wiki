@@ -23,7 +23,7 @@ You know what might be convincing? Seeing some of **Hinkik**'s music in action. 
 
 ### Hinkik - Explorers
 
-Test out [the map from the video above](https://osu.ppy.sh/beatmapsets/1861042) hosted by [Nytrocide\_](https://osu.ppy.sh/users/11327918)!
+Test out [the map from the video above](https://osu.ppy.sh/beatmapsets/1861042) hosted by ::Nytrocide\_::{ user-id=11327918 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/315/Songs/Hinkik%20-%20Explorers.mp3" type="audio/mpeg">
@@ -31,7 +31,7 @@ Test out [the map from the video above](https://osu.ppy.sh/beatmapsets/1861042) 
 
 ### Hinkik - Time Leaper
 
-Check out [the map that introduced **Hinkik** to osu!](https://osu.ppy.sh/beatmapsets/1434388) hosted by [ADoorNob](https://osu.ppy.sh/users/16368250)!
+Check out [the map that introduced **Hinkik** to osu!](https://osu.ppy.sh/beatmapsets/1434388) hosted by ::ADoorNob::{ user-id=16368250 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/315/Songs/Hinkik%20-%20Time%20Leaper.mp3" type="audio/mpeg">

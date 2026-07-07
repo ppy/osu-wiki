@@ -28,19 +28,19 @@ tags:
 
 *Основная статья: [История ранкингов osu!](osu!)*
 
-По состоянию на 14 июня 2026 года игрок №1 в [топе osu! по производительности](https://osu.ppy.sh/rankings/osu/performance) — ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160/osu).
+По состоянию на 14 июня 2026 года игрок №1 в [топе osu! по производительности](https://osu.ppy.sh/rankings/osu/performance) — ::{ flag=RU }:: ::cryshina::{ user-id=14715160 }.
 
 ## ![][osu!taiko] osu!taiko
 
-По состоянию на 24 марта 2026 года игрок №1 в [топе osu!taiko по производительности](https://osu.ppy.sh/rankings/taiko/performance) — ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
+По состоянию на 24 марта 2026 года игрок №1 в [топе osu!taiko по производительности](https://osu.ppy.sh/rankings/taiko/performance) — ::{ flag=JP }:: ::Sinon\133::{ user-id=31148838 }.
 
 ## ![][osu!catch] osu!catch
 
-По состоянию на 2 ноября 2024 года игрок №1 в [топе osu!сatch по производительности](https://osu.ppy.sh/rankings/fruits/performance) — ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
+По состоянию на 2 ноября 2024 года игрок №1 в [топе osu!сatch по производительности](https://osu.ppy.sh/rankings/fruits/performance) — ::{ flag=KR }:: ::qwhj79::{ user-id=7547506 }.
 
 ## ![][osu!mania] osu!mania
 
-По состоянию на 4 апреля 2026 года игрок №1 в [топе osu!mania по производительности](https://osu.ppy.sh/rankings/mania/performance) — ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
+По состоянию на 4 апреля 2026 года игрок №1 в [топе osu!mania по производительности](https://osu.ppy.sh/rankings/mania/performance) — ::{ flag=KR }:: ::Kalkai::{ user-id=10790649 }.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

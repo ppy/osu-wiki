@@ -9,7 +9,7 @@ We're proud to bring legendary artist **Crywolf** into our Featured Artist lineu
 
 ![](https://assets.ppy.sh/artists/321/header.jpg)
 
-Anyone who's searched for jump maps has likely come across **Crywolf** — specifically the classic Loved map [Eyes Half Closed](https://osu.ppy.sh/beatmapsets/385088) by [Truzon](https://osu.ppy.sh/users/6347812). This tune is just one of **Crywolf**'s many emotion-packed tracks, showcasing both the chill ambient and stirring electronic sides of his style.
+Anyone who's searched for jump maps has likely come across **Crywolf** — specifically the classic Loved map [Eyes Half Closed](https://osu.ppy.sh/beatmapsets/385088) by ::Truzon::{ user-id=6347812 }. This tune is just one of **Crywolf**'s many emotion-packed tracks, showcasing both the chill ambient and stirring electronic sides of his style.
 
 **6** of these one-of-a-kind projects can be mapped from [**Crywolf**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/321)!
 
@@ -23,7 +23,7 @@ This is one of those cases where the music speaks for itself. In case you're one
 
 ### Crywolf - Eyes Half Closed
 
-Play through [the classic](https://osu.ppy.sh/beatmapsets/385088) hosted by [Truzon](https://osu.ppy.sh/users/6347812) or [this Ranked rendition](https://osu.ppy.sh/beatmapsets/1049043) hosted by [L3NNy](https://osu.ppy.sh/users/11756041)!
+Play through [the classic](https://osu.ppy.sh/beatmapsets/385088) hosted by ::Truzon::{ user-id=6347812 } or [this Ranked rendition](https://osu.ppy.sh/beatmapsets/1049043) hosted by ::L3NNy::{ user-id=11756041 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/321/Angels/Crywolf%20-%20Eyes%20Half%20Closed.mp3" type="audio/mpeg">

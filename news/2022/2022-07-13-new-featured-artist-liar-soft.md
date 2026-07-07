@@ -29,11 +29,11 @@ Check everything out:
 
 Run through any of these maps:
 
-- [Loved osu! map](https://osu.ppy.sh/beatmapsets/686649) hosted by [rrtyui](https://osu.ppy.sh/users/352328)
-- [Multi-million-play osu! map](https://osu.ppy.sh/beatmapsets/580215) hosted by [Delis](https://osu.ppy.sh/users/1603923)
-- [Old-school 2010 osu! map](https://osu.ppy.sh/beatmapsets/18977) hosted by [Selee](https://osu.ppy.sh/users/261529)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/812855) hosted by [Sinnoh](https://osu.ppy.sh/users/4236057)
-- [12-difficulty mega osu! set](https://osu.ppy.sh/beatmapsets/1673436) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302)
+- [Loved osu! map](https://osu.ppy.sh/beatmapsets/686649) hosted by ::rrtyui::{ user-id=352328 }
+- [Multi-million-play osu! map](https://osu.ppy.sh/beatmapsets/580215) hosted by ::Delis::{ user-id=1603923 }
+- [Old-school 2010 osu! map](https://osu.ppy.sh/beatmapsets/18977) hosted by ::Selee::{ user-id=261529 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/812855) hosted by ::Sinnoh::{ user-id=4236057 }
+- [12-difficulty mega osu! set](https://osu.ppy.sh/beatmapsets/1673436) hosted by ::SMOKELIND::{ user-id=9327302 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/283/Songs/Rita%20-%20dorchadas.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ Run through any of these maps:
 
 ### Miyazawa Yuana - Dreht sich!
 
-Play [this 10-year-old mapset](https://osu.ppy.sh/beatmapsets/51705) hosted by [congaan](https://osu.ppy.sh/users/940961)!
+Play [this 10-year-old mapset](https://osu.ppy.sh/beatmapsets/51705) hosted by ::congaan::{ user-id=940961 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/283/Songs/Miyazawa%20Yuana%20-%20Dreht%20sich!.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Play [this 10-year-old mapset](https://osu.ppy.sh/beatmapsets/51705) hosted by [
 
 ### Rita - Adenium
 
-Or play [this modern marathon](https://osu.ppy.sh/beatmapsets/1532012) hosted by [Irohas](https://osu.ppy.sh/users/4403937)!
+Or play [this modern marathon](https://osu.ppy.sh/beatmapsets/1532012) hosted by ::Irohas::{ user-id=4403937 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/283/Songs/Rita%20-%20Adenium.mp3" type="audio/mpeg">
@@ -57,7 +57,7 @@ Or play [this modern marathon](https://osu.ppy.sh/beatmapsets/1532012) hosted by
 
 ### Rita - Girl's spirit -Otome no Kimochi-
 
-Lift your mood with [this upbeat osu! map](https://osu.ppy.sh/beatmapsets/388619) hosted by [Lily Bread](https://osu.ppy.sh/users/5384962)!
+Lift your mood with [this upbeat osu! map](https://osu.ppy.sh/beatmapsets/388619) hosted by ::Lily Bread::{ user-id=5384962 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/283/Songs/Rita%20-%20Girl's%20spirit%20-Otome%20no%20Kimochi-.mp3" type="audio/mpeg">
@@ -65,7 +65,7 @@ Lift your mood with [this upbeat osu! map](https://osu.ppy.sh/beatmapsets/388619
 
 ### Rita - Tonitrus
 
-If you've played through the recent [Beatmap Spotlights](/wiki/Beatmap_Spotlights), you're likely already well versed with [this osu! map](https://osu.ppy.sh/beatmapsets/926756) hosted by [Frakturehawkens](https://osu.ppy.sh/users/7458583)!
+If you've played through the recent [Beatmap Spotlights](/wiki/Beatmap_Spotlights), you're likely already well versed with [this osu! map](https://osu.ppy.sh/beatmapsets/926756) hosted by ::Frakturehawkens::{ user-id=7458583 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/283/Songs/Rita%20-%20Tonitrus.mp3" type="audio/mpeg">

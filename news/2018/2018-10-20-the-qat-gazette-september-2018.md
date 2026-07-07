@@ -11,7 +11,7 @@ Huge changes to Beatmap Nominator applications, updates on improvements to Moddi
 
 ## Opening
 
-by [JBHyperion](https://osu.ppy.sh/users/4879508)
+by ::JBHyperion::{ user-id=4879508 }
 
 A new month brings new adventure, new challenges, and a new face to our humble blog!
 
@@ -19,7 +19,7 @@ A lot has happened in the past month and as you might expect, you can find it al
 
 ## Within the Beatmap Nominators
 
-by [Kibbleru](https://osu.ppy.sh/users/3193504)
+by ::Kibbleru::{ user-id=3193504 }
 
 We had yet another exciting month within the Beatmap Nomination Group. The long-awaited new round of Beatmap Nominator applications was finally released in late September, but this time, we have made some significant changes to both the application and evaluation processes. Continue reading to find out more!
 
@@ -31,13 +31,13 @@ This time around we changed things up a bit. First and foremost, we decided to b
 
 ### Beatmap Nominator Retirements
 
-Fun times always have to come to an end eventually. This month, we give our farewells to two of our diligent Beatmap Nominators: [Plaudible](https://osu.ppy.sh/users/7149815) and [Jonawaga](https://osu.ppy.sh/users/3653035).
+Fun times always have to come to an end eventually. This month, we give our farewells to two of our diligent Beatmap Nominators: ::Plaudible::{ user-id=7149815 } and [Jonawaga](https://osu.ppy.sh/users/3653035).
 
 On behalf of the community, we thank you for your hard work in bringing new content into the game, and we wish you good luck in your next steps in life!
 
 ## Within the Quality Assurance Team
 
-by [Raiden](https://osu.ppy.sh/users/2239480)
+by ::Raiden::{ user-id=2239480 }
 
 ### Ongoing discussions
 
@@ -53,19 +53,19 @@ The topics still being debated include the following:
 
 ### New Quality Assurance Team additions
 
-As you may have already guessed from this article, we are now graced to have the presence of [Kibbleru](https://osu.ppy.sh/users/3193504) within our ranks! After two months in the former Beatmap Appreciation Team, followed by a further three years of experience in the Beatmap Nomination Group, he has made the next step at last and will join the QAT, assisting the osu! division in their efforts to maintain high levels of beatmap quality and Nominator proficiency.
+As you may have already guessed from this article, we are now graced to have the presence of ::Kibbleru::{ user-id=3193504 } within our ranks! After two months in the former Beatmap Appreciation Team, followed by a further three years of experience in the Beatmap Nomination Group, he has made the next step at last and will join the QAT, assisting the osu! division in their efforts to maintain high levels of beatmap quality and Nominator proficiency.
 
-Also joining us last month was veteran modder [-Kazu-](https://osu.ppy.sh/users/920861)! With seven months of service in the Beatmap Nominators and seven *years* of experience in osu!taiko, he too has taken the plunge in order to share his vast experience in assisting with disqualifications and Beatmap Nominator applications to support the ever increasing size of the osu!taiko mapping scene.
+Also joining us last month was veteran modder ::-Kazu-::{ user-id=920861 }! With seven months of service in the Beatmap Nominators and seven *years* of experience in osu!taiko, he too has taken the plunge in order to share his vast experience in assisting with disqualifications and Beatmap Nominator applications to support the ever increasing size of the osu!taiko mapping scene.
 
 ### Quality Assurance Team retirements
 
-Whilst we may have welcomed two new members, we must also sadly bid farewell to two others. [Hobbes2](https://osu.ppy.sh/users/8157492) has stepped down from his post within the QAT to return to the more hands-on aspects of modding as a Beatmap Nominator, whereas his fellow osu! compatriot [Mir](https://osu.ppy.sh/users/8688812) has elected to enjoy a period of rest as an osu! Alumni.
+Whilst we may have welcomed two new members, we must also sadly bid farewell to two others. ::Hobbes2::{ user-id=8157492 } has stepped down from his post within the QAT to return to the more hands-on aspects of modding as a Beatmap Nominator, whereas his fellow osu! compatriot ::Mir::{ user-id=8688812 } has elected to enjoy a period of rest as an osu! Alumni.
 
 Their respective two and six months of service will not be forgotten easily. We wish you the best on your future endeavors!
 
 ## Summary
 
-by [JBHyperion](https://osu.ppy.sh/users/4879508)
+by ::JBHyperion::{ user-id=4879508 }
 
 With that all said, another month passes by and we edge into the final quarter of the year. With a potentially massive wave of new Beatmap Nominators in all four game modes, the continued development of Modding Discussions, and naturally so, so much more, we will aim to keep the intensity high and the good news flowing for the remainder of 2018.
 

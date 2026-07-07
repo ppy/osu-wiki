@@ -26,7 +26,7 @@ At this scale, it's pretty unrealistic for us to showcase *everything* that the 
 
 ### [TFD500 - Yami](https://assets.ppy.sh/artists/479/Yami/TFD500%20-%20Yami.osz)
 
-Try out [this map](https://osu.ppy.sh/beatmapsets/2239180) hosted by [Daycore](https://osu.ppy.sh/users/5596337)!
+Try out [this map](https://osu.ppy.sh/beatmapsets/2239180) hosted by ::Daycore::{ user-id=5596337 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/479/Yami/TFD500%20-%20Yami.mp3">
@@ -34,7 +34,7 @@ Try out [this map](https://osu.ppy.sh/beatmapsets/2239180) hosted by [Daycore](h
 
 ### [DJ Stuiter - Iridescent](https://assets.ppy.sh/artists/479/Iridescent/DJ%20Stuiter%20-%20Iridescent.osz)
 
-Or play through [this chill osu!mania difficulty](https://osu.ppy.sh/beatmapsets/2206149) made by [Ucitysm](https://osu.ppy.sh/users/14768693)!
+Or play through [this chill osu!mania difficulty](https://osu.ppy.sh/beatmapsets/2206149) made by ::Ucitysm::{ user-id=14768693 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/479/Iridescent/DJ%20Stuiter%20-%20Iridescent.mp3">

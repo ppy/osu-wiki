@@ -7,7 +7,7 @@ outdated: true
 Cet article est un mode d'emploi pour réaliser de bons sliders.
 Dans la forme la plus basique, tout ce dont vous avez besoin est d'une [courbe de Bézier](https://fr.wikipedia.org/wiki/Courbe_de_B%C3%A9zier).
 
-De [Ephemeral](https://osu.ppy.sh/users/102335),
+De ::Ephemeral::{ user-id=102335 },
 
 > alignez toujours les slider endpoints sur la plus petite valeur possible - c'est-à-dire que si vous les faites glisser plus loin vers l'arrière, le slider se raccourcira. le point se centrera sur l'extrémité du slider et rendra l'obtention de courbes passables beaucoup plus facile à réaliser.
 
@@ -61,7 +61,7 @@ Gardez à l'esprit que si vous voulez qu'un slider couvre **et** soit parfaiteme
 
 ---
 
-De [Gonzvlo](https://osu.ppy.sh/users/237733),
+De ::Gonzvlo::{ user-id=237733 },
 
 > comme une variation des beat blankets, parfois j'utilise un spinner pour faire de beaux cercles.
 

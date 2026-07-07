@@ -74,7 +74,7 @@ As a reminder of the various core values in the difficulty calculation algorithm
 
 ### Combo scaling removal
 
-This is the change you're most likely already familiar with, due to the extensive public discourse on various social media. It's [moonpoint](https://osu.ppy.sh/users/9558549) and [KermitNuggies](https://osu.ppy.sh/users/33452559)'s [performance algorithm change](https://github.com/ppy/osu/pull/16280) to remove the "combo scaling factor" applied to the aim and speed portions of performance points.
+This is the change you're most likely already familiar with, due to the extensive public discourse on various social media. It's ::moonpoint::{ user-id=9558549 } and [KermitNuggies](https://osu.ppy.sh/users/33452559)'s [performance algorithm change](https://github.com/ppy/osu/pull/16280) to remove the "combo scaling factor" applied to the aim and speed portions of performance points.
 
 In short, missing used to be more punishing when missing in the middle of a map compared to the beginning or end, since in the latter case you'd get more combo. Now, plays with the same amount of misses will give about the same amount of pp, no matter where the misses occur.
 
@@ -90,7 +90,7 @@ As touched on earlier, big jumps in total pp are expected in this round. The rem
 
 Rhythm complexity can be expressed as "changes in pattern lengths and timings" — quintuples changing into triples, even bursts into odd bursts, 1/4 streams into 1/3 streams, etc. More erratic changes imply a more complex rhythm, making it harder for players to adapt and recognise the rhythm they should tap to.
 
-A [change](https://github.com/ppy/osu/pull/28871) proposed by [StanR](https://osu.ppy.sh/users/7217455) fixes some flaws in osu!'s rhythm complexity calculations:
+A [change](https://github.com/ppy/osu/pull/28871) proposed by ::StanR::{ user-id=7217455 } fixes some flaws in osu!'s rhythm complexity calculations:
 
 - Highly complex rhythm has received a general buff, affecting maps such as [II-L - Asteroid Field of DECAPLETS](https://osu.ppy.sh/beatmapsets/1666685#osu/3403124).
 - A bonus was previously applied based on pattern length, which caused long bursts to be assessed as rhythmically complex even if they were not. This has been removed.
@@ -103,7 +103,7 @@ A [change](https://github.com/ppy/osu/pull/28871) proposed by [StanR](https://os
 
 Fast flow aim is rewarded by taking into account the distance between objects and the general speed difficulty. These values used to be multipliers, but they're now additive instead. In effect, this nerfs fast spaced streams significantly.
 
-The same [change](https://github.com/ppy/osu/pull/29980) by [tsunyoku](https://osu.ppy.sh/users/11315329) additionally performs other minor changes to how these values are calculated, lowering them overall, especially for lower-spaced flow aim.
+The same [change](https://github.com/ppy/osu/pull/29980) by ::tsunyoku::{ user-id=11315329 } additionally performs other minor changes to how these values are calculated, lowering them overall, especially for lower-spaced flow aim.
 
 Here are a few examples of some of the most affected beatmaps by this change:
 
@@ -114,7 +114,7 @@ Here are a few examples of some of the most affected beatmaps by this change:
 
 ### Sliders now contribute to accuracy pp
 
-A [change](https://github.com/ppy/osu/pull/27063) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) has been created to include the slider count in accuracy pp if a score was set using slider head accuracy.
+A [change](https://github.com/ppy/osu/pull/27063) proposed by ::tsunyoku::{ user-id=11315329 } has been created to include the slider count in accuracy pp if a score was set using slider head accuracy.
 
 Traditionally, osu! has not had accuracy on slider heads, and so accuracy pp have excluded sliders in calculations. However, the lazer client has slider head accuracy, and so accuracy pp now includes sliders on scores played with slider head accuracy.
 
@@ -125,10 +125,10 @@ We expect more pp changes related to slider head accuracy in the future!
 ### Minor changes
 
 - A [slider mechanics change](https://github.com/ppy/osu/pull/24966) was made to adjust slider ends to be more lenient during fast sliders, which has resulted in buffs on some maps with very fast sliders such as [ocelot - KAEDE](https://osu.ppy.sh/beatmapsets/660630#osu/1398809). You can find more about this change in the related [osu!(lazer) updates video](https://www.youtube.com/watch?v=SlWKKA-ltZY).
-- [Givikap120](https://osu.ppy.sh/users/10560705) refactored and cleaned up [various](https://github.com/ppy/osu/pull/29293) [areas](https://github.com/ppy/osu/pull/29294) [of](https://github.com/ppy/osu/pull/29292) [performance calculation code](https://github.com/ppy/osu/pull/29291) to make them easier to understand and maintain.
-- An [aim skill multiplier rebalance](https://github.com/ppy/osu/pull/29998) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) was made in order to ensure the final results of all major changes are in line with expectations.
-- A [speed accuracy scaling change](https://github.com/ppy/osu/pull/30088) proposed by [StanR](https://osu.ppy.sh/users/7217455) was made to punish lower accuracies below OD 8 more harshly.
-- [Finadoggie](https://osu.ppy.sh/users/14182048)'s proposed [score statistics estimation change](https://github.com/ppy/osu/pull/27691) was made to ensure that slider breaks and dropped slider ends are correctly accounted for in osu!(lazer) scores.
+- ::Givikap120::{ user-id=10560705 } refactored and cleaned up [various](https://github.com/ppy/osu/pull/29293) [areas](https://github.com/ppy/osu/pull/29294) [of](https://github.com/ppy/osu/pull/29292) [performance calculation code](https://github.com/ppy/osu/pull/29291) to make them easier to understand and maintain.
+- An [aim skill multiplier rebalance](https://github.com/ppy/osu/pull/29998) proposed by ::tsunyoku::{ user-id=11315329 } was made in order to ensure the final results of all major changes are in line with expectations.
+- A [speed accuracy scaling change](https://github.com/ppy/osu/pull/30088) proposed by ::StanR::{ user-id=7217455 } was made to punish lower accuracies below OD 8 more harshly.
+- ::Finadoggie::{ user-id=14182048 }'s proposed [score statistics estimation change](https://github.com/ppy/osu/pull/27691) was made to ensure that slider breaks and dropped slider ends are correctly accounted for in osu!(lazer) scores.
 
 ## osu!taiko
 
@@ -142,17 +142,17 @@ In order to aid understanding of the changes to osu!taiko, these are the skills 
 
 Since the [last update to osu!taiko star rating 2 years ago](https://osu.ppy.sh/home/news/2022-09-28-changes-to-osu-taiko-sr-and-pp#star-rating-changes), an issue has arisen concerning a unique playstyle known as TL-tapping, where more than two fingers are used to hit two keys for a given colour. A [video by Maxie](https://www.youtube.com/watch?v=WM7gkFBDl9s) provides a more in-depth explanation of this playstyle.
 
-The previous system made to assess the stamina requirement for maps assumed two fingers per colour, leading to some impressive plays by players like [Ney](https://osu.ppy.sh/users/5991961) on [Mind Vortex - Alive](https://osu.ppy.sh/scores/1873110816) and others on [DJ Sharpnel - StrangeProgram](https://osu.ppy.sh/beatmapsets/5774#taiko/28065) becoming notorious for yielding high-pp scores.
+The previous system made to assess the stamina requirement for maps assumed two fingers per colour, leading to some impressive plays by players like ::Ney::{ user-id=5991961 } on [Mind Vortex - Alive](https://osu.ppy.sh/scores/1873110816) and others on [DJ Sharpnel - StrangeProgram](https://osu.ppy.sh/beatmapsets/5774#taiko/28065) becoming notorious for yielding high-pp scores.
 
-The [new system](https://github.com/ppy/osu/pull/20558) by [vun](https://osu.ppy.sh/users/6932501) introduces variable finger counts for stamina assessment. Patterns that last more than 300 ms without a colour change are now considered to have four fingers available. This adjustment significantly nerfs certain maps and converts.
+The [new system](https://github.com/ppy/osu/pull/20558) by ::vun::{ user-id=6932501 } introduces variable finger counts for stamina assessment. Patterns that last more than 300 ms without a colour change are now considered to have four fingers available. This adjustment significantly nerfs certain maps and converts.
 
-To further combat maps where TL-tapping is most effective, a change by [Natelytle](https://osu.ppy.sh/users/17607667) introduces a new penalty factor that shows how much of a map's difficulty comes purely from mono-colour patterns. For example, *StrangeProgram* has a factor of 99%, meaning 99% of its challenge is due to high-BPM mono patterns.
+To further combat maps where TL-tapping is most effective, a change by ::Natelytle::{ user-id=17607667 } introduces a new penalty factor that shows how much of a map's difficulty comes purely from mono-colour patterns. For example, *StrangeProgram* has a factor of 99%, meaning 99% of its challenge is due to high-BPM mono patterns.
 
 **In response to negative feedback regarding the removal of convert-specific nerfs, they have been reinstated.**
 
 ### Balancing changes to performance calculation
 
-On the performance points side, a change by [-Lawtron-](https://osu.ppy.sh/users/11475208) addresses the bonus applied to memorisation mods on shorter maps. The length of the map will no longer affect the base multiplier in the accuracy component of the performance points system. However, the cap for HDFL (Hidden + Flashlight) bonuses has been increased to 1.1x for qualifying plays. 
+On the performance points side, a change by ::-Lawtron-::{ user-id=11475208 } addresses the bonus applied to memorisation mods on shorter maps. The length of the map will no longer affect the base multiplier in the accuracy component of the performance points system. However, the cap for HDFL (Hidden + Flashlight) bonuses has been increased to 1.1x for qualifying plays. 
 
 Previously, a map with just one object could receive the same bonus as a map with 1,000 objects when using HDFL, which led to disproportionate rewards for shorter, simpler maps.
 
@@ -160,7 +160,7 @@ In addition to these changes, a harsher penalty has been applied to the Easy mod
 
 ### Adjusted accuracy scaling
 
-A [change](https://github.com/ppy/osu/pull/20963) proposed by [Natelytle](https://osu.ppy.sh/users/17607667) has been made to the way osu!taiko calculates accuracy difficulty, to keep accuracy and difficulty scaling values more in line for the same score as you change the overall difficulty of the map.
+A [change](https://github.com/ppy/osu/pull/20963) proposed by ::Natelytle::{ user-id=17607667 } has been made to the way osu!taiko calculates accuracy difficulty, to keep accuracy and difficulty scaling values more in line for the same score as you change the overall difficulty of the map.
 
 The current way accuracy scaling works in osu!taiko is very simple. It takes the decimal accuracy of the score, raises it to the power of 15, and multiplies the result by a constant determined by the overall difficulty. The problem with this is that if you keep the spread of your hit timings (also known as UR) the same, your accuracy does not decrease at a constant rate as you increase the overall difficulty.
 
@@ -174,7 +174,7 @@ To solve this, we can leverage the fact that tapping error is almost always norm
 
 ### Minor changes
 
-- [Refactor](https://github.com/ppy/osu/pull/28596) of osu!taiko's skill code by [StanR](https://osu.ppy.sh/users/7217455) to make calculations more maintainable.
+- [Refactor](https://github.com/ppy/osu/pull/28596) of osu!taiko's skill code by ::StanR::{ user-id=7217455 } to make calculations more maintainable.
 
 On a side note, the osu!taiko performance points committee is aware of the feedback, both positive and negative, surrounding the new system over the past couple of years. We value the community's input and are continuously working to improve. There are significant changes on the horizon, such as the introduction of the pattern skill (rhythm within colour, and colour within rhythm) as well as performance-related changes. If you’d like to contribute to future changes, feel free to join the discussion on our [Performance Points Discord server](https://discord.gg/aqPCnXu).
 
@@ -186,7 +186,7 @@ Since the last performance points post, osu!catch has now formed its own Perform
 
 ### No Fail changes
 
-All the way back in 2021 the osu! mode received no fail changes to scale the no fail pp multiplier based on the number of misses. As suggested by [Givikap120](https://osu.ppy.sh/users/10560705), these changes [were brought into osu!catch too](https://github.com/ppy/osu/pull/28353):
+All the way back in 2021 the osu! mode received no fail changes to scale the no fail pp multiplier based on the number of misses. As suggested by ::Givikap120::{ user-id=10560705 }, these changes [were brought into osu!catch too](https://github.com/ppy/osu/pull/28353):
 
 - Old value: 0.9x (always)
 - New value: 1.0x base with -0.02x applied for each miss to a maximum reduction of 0.9x
@@ -195,13 +195,13 @@ This prevents FC plays with the No Fail mod from being punished and reduces the 
 
 ### Minor changes
 
-- A [fix](https://github.com/ppy/osu/pull/28337) proposed by [spaceman_atlas](https://osu.ppy.sh/users/3035836) to remove rounding of the slider velocity multiplier on juice streams which resulted in some shifting of difficulty & performance values.
+- A [fix](https://github.com/ppy/osu/pull/28337) proposed by ::spaceman\1atlas::{ user-id=3035836 } to remove rounding of the slider velocity multiplier on juice streams which resulted in some shifting of difficulty & performance values.
 
 ## osu!mania
 
 ### Adjusted LN value scaling to address overweighted LN maps
 
-A [slight adjustment](https://github.com/ppy/osu/pull/24109) to LN values proposed by [Hydria](https://osu.ppy.sh/users/808176) has been made to difficulty calculation in an effort to bring overweighted LN maps to more acceptable values. Most LN patterns are nerfed as a result of this change.
+A [slight adjustment](https://github.com/ppy/osu/pull/24109) to LN values proposed by ::Hydria::{ user-id=808176 } has been made to difficulty calculation in an effort to bring overweighted LN maps to more acceptable values. Most LN patterns are nerfed as a result of this change.
 
 There are 2 particular changes to LN-specific bonuses that have resulted in this nerf:
 

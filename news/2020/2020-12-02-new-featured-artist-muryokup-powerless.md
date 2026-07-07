@@ -17,7 +17,7 @@ Hear what all the hype's about for yourself:
 
 ### MuryokuP - Catastrophe
 
-Play this [osu! set](https://osu.ppy.sh/beatmapsets/72740#osu/207659) from [meiikyuu](https://osu.ppy.sh/users/1043627) or this [osu!mania set](https://osu.ppy.sh/beatmapsets/108862#mania/284389) from [Entozer](https://osu.ppy.sh/users/277044)!
+Play this [osu! set](https://osu.ppy.sh/beatmapsets/72740#osu/207659) from ::meiikyuu::{ user-id=1043627 } or this [osu!mania set](https://osu.ppy.sh/beatmapsets/108862#mania/284389) from ::Entozer::{ user-id=277044 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/120/Eschatology/MuryokuP%20-%20Catastrophe.mp3" type="audio/mpeg">
@@ -25,7 +25,7 @@ Play this [osu! set](https://osu.ppy.sh/beatmapsets/72740#osu/207659) from [meii
 
 ### MuryokuP - A Tree Without A Branch
 
-Check out this [osu! set](https://osu.ppy.sh/beatmapsets/1037902#osu/2169775) hosted by [Melwoine](https://osu.ppy.sh/users/12091109)!
+Check out this [osu! set](https://osu.ppy.sh/beatmapsets/1037902#osu/2169775) hosted by ::Melwoine::{ user-id=12091109 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/120/Resonance/MuryokuP%20-%20A%20Tree%20Without%20A%20Branch.mp3" type="audio/mpeg">
@@ -33,7 +33,7 @@ Check out this [osu! set](https://osu.ppy.sh/beatmapsets/1037902#osu/2169775) ho
 
 ### Powerless feat. kakichoco - Vanity
 
-And give this [osu! set](https://osu.ppy.sh/beatmapsets/651712#osu/1393008) hosted by [Kyuukai](https://osu.ppy.sh/users/5337374) a play!
+And give this [osu! set](https://osu.ppy.sh/beatmapsets/651712#osu/1393008) hosted by ::Kyuukai::{ user-id=5337374 } a play!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/120/Powerless/Powerless%20feat.%20kakichoco%20-%20Vanity.mp3" type="audio/mpeg">
@@ -41,7 +41,7 @@ And give this [osu! set](https://osu.ppy.sh/beatmapsets/651712#osu/1393008) host
 
 ### MuryokuP - Frozen World
 
-Don't forget about this [osu! difficulty](https://osu.ppy.sh/beatmapsets/186032#osu/444565) by [captin1](https://osu.ppy.sh/users/689997) or this [osu!mania set](https://osu.ppy.sh/beatmapsets/94504#mania/258212) by [c36098651](https://osu.ppy.sh/users/2048577)!
+Don't forget about this [osu! difficulty](https://osu.ppy.sh/beatmapsets/186032#osu/444565) by ::captin1::{ user-id=689997 } or this [osu!mania set](https://osu.ppy.sh/beatmapsets/94504#mania/258212) by ::c36098651::{ user-id=2048577 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/120/Resonance/MuryokuP%20-%20Frozen%20World.mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Don't forget about this [osu! difficulty](https://osu.ppy.sh/beatmapsets/186032#
 
 ### Powerless - Frey's Philosophy
 
-It'd be wise to give this [osu! set](https://osu.ppy.sh/beatmapsets/550588#osu/1166435) hosted by [sahuang](https://osu.ppy.sh/users/5318910) a play too.
+It'd be wise to give this [osu! set](https://osu.ppy.sh/beatmapsets/550588#osu/1166435) hosted by ::sahuang::{ user-id=5318910 } a play too.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/120/Powerless/Powerless%20-%20Frey's%20Philosophy.mp3" type="audio/mpeg">

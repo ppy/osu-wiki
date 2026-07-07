@@ -22,7 +22,7 @@ The developers put great effort into polishing various aspects of the game for t
 - **New timeline navigation shortcuts.** `Ctrl` + arrow keys to skip between hit objects, and `Ctrl` + `Shift` + arrow keys to skip between hitsound points (which automatically opens the hitsound popup).
 - **You can now change slider length by dragging the slider tail.** This means that by holding `Shift` and dragging the slider you adjust the velocity, while regular dragging changes the duration.
 - **Pressing `Space` will not end slider creation anymore, but instead toggle playback.** Pretty self-explanatory.
-- **Various bug fixes and UX improvements.** [pishifat](https://osu.ppy.sh/users/3178418) explains more of these in the video above.
+- **Various bug fixes and UX improvements.** ::pishifat::{ user-id=3178418 } explains more of these in the video above.
 
 The below video shows a few of the above changes in the context of mapping one pattern:
 

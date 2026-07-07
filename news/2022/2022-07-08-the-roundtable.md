@@ -11,7 +11,7 @@ series: offline_events
 
 While LAN events are nothing new to the osu! scene, [**The Roundtable**](/wiki/Tournaments/The_Roundtable) pushes boundaries with an incredibly stacked roster of players!
 
-This **3 day** event from July 8-10 features **3 different tournaments**, all streamed from [BTMC](https://osu.ppy.sh/users/3171691)'s [Twitch channel](https://twitch.tv/BTMC) with comfy couch commentary and personal interactions with everyone involved!
+This **3 day** event from July 8-10 features **3 different tournaments**, all streamed from ::BTMC::{ user-id=3171691 }'s [Twitch channel](https://twitch.tv/BTMC) with comfy couch commentary and personal interactions with everyone involved!
 
 ## Schedule
 
@@ -56,7 +56,7 @@ Take a peek at everything at the full list below, including a special teaser rev
 
 ![](/wiki/shared/news/2022-07-08-the-roundtable/roundtable_players.jpg)
 
-Oh, and [mrekk](https://osu.ppy.sh/users/7562902)'s here too.
+Oh, and ::mrekk::{ user-id=7562902 }'s here too.
 
 <div align="center">
     <iframe width="95%" height="400" src="https://www.youtube.com/embed/gv0E-ToXzXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -64,7 +64,7 @@ Oh, and [mrekk](https://osu.ppy.sh/users/7562902)'s here too.
 
 ---
 
-Want to see how [**The Roundtable**](/wiki/Tournaments/The_Roundtable) turns out? Every tournament and a bunch of small bonus events will be streamed on [BTMC](https://osu.ppy.sh/users/3171691)'s [Twitch channel](https://twitch.tv/BTMC)!
+Want to see how [**The Roundtable**](/wiki/Tournaments/The_Roundtable) turns out? Every tournament and a bunch of small bonus events will be streamed on ::BTMC::{ user-id=3171691 }'s [Twitch channel](https://twitch.tv/BTMC)!
 
 The event features commentary from various content creators (and special guests who we'll reveal throughout the weekend!).
 

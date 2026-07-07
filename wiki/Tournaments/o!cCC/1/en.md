@@ -8,7 +8,7 @@ tags:
 
 ![o!cCC logo](img/logo.jpg)
 
-The **osu!catch Convert Cup** (***o!cCC***) was a 1v1 osu!catch tournament hosted by ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) and ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament included **osu! maps** only. It was the first instalment of the osu!catch Convert Cup.
+The **osu!catch Convert Cup** (***o!cCC***) was a 1v1 osu!catch tournament hosted by ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 } and ::{ flag=FR }:: ::TLQ\_Yoshii::{ user-id=7157133 }. The mappool used in the tournament included **osu! maps** only. It was the first instalment of the osu!catch Convert Cup.
 
 ## Tournament schedule
 
@@ -40,14 +40,14 @@ The osu!catch Convert Cup was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Mappool selector | ::{ flag=FR }:: [Rougoku](https://osu.ppy.sh/users/6900166) |
-| Commentator | ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=NZ }:: [Lay](https://osu.ppy.sh/users/3768185), ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542), ::{ flag=FR }:: [Rougoku](https://osu.ppy.sh/users/6900166), ::{ flag=DK }:: [SchnitzelBae](https://osu.ppy.sh/users/11253135), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227) |
-| Streamer | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Designer | ::{ flag=SG }:: [youi](https://osu.ppy.sh/users/7537133) |
-| Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Referee | ::{ flag=FR }:: [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=DK }:: [Plaiceholder](https://osu.ppy.sh/users/11910867), ::{ flag=MY }:: [Stupid Idiot](https://osu.ppy.sh/users/8355574), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302), ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user-id=7157133 } |
+| Mappool selector | ::{ flag=FR }:: ::Rougoku::{ user-id=6900166 } |
+| Commentator | ::{ flag=FR }:: ::AAAAAAAAAAAAHHH::{ user-id=4864877 }, ::{ flag=US }:: ::Elux::{ user-id=12004983 }, ::{ flag=GB }:: ::JBHyperion::{ user-id=4879508 }, ::{ flag=AU }:: ::KWYJIBO::{ user-id=7178386 }, ::{ flag=NZ }:: ::Lay::{ user-id=3768185 }, ::{ flag=FR }:: ::Noulayfe::{ user-id=4316542 }, ::{ flag=FR }:: ::Rougoku::{ user-id=6900166 }, ::{ flag=DK }:: ::SchnitzelBae::{ user-id=11253135 }, ::{ flag=US }:: ::Snowleopard::{ user-id=3790227 } |
+| Streamer | ::{ flag=BR }:: ::AnonX32::{ user-id=2730270 }, ::{ flag=US }:: ::cheese salad::{ user-id=6349821 }, ::{ flag=FR }:: ::FulgurentKille::{ user-id=4096322 }, ::{ flag=US }:: ::ITotallyGetThat::{ user-id=8770622 }, ::{ flag=FR }:: ::Ryumi::{ user-id=6596270 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user-id=7157133 } |
+| Designer | ::{ flag=SG }:: ::youi::{ user-id=7537133 } |
+| Statistician | ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 } |
+| Referee | ::{ flag=FR }:: ::4L-Chan 3 Porte::{ user-id=7253987 }, ::{ flag=BR }:: ::AnonX32::{ user-id=2730270 }, ::{ flag=US }:: ::cheese salad::{ user-id=6349821 }, ::{ flag=DE }:: ::GDLenny::{ user-id=8406711 }, ::{ flag=FR }:: ::Kasumii-sama::{ user-id=6177263 }, ::{ flag=FR }:: ::Mimir::{ user-id=7382734 }, ::{ flag=DK }:: ::Plaiceholder::{ user-id=11910867 }, ::{ flag=MY }:: ::Stupid Idiot::{ user-id=8355574 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user-id=7157133 }, ::{ flag=SG }:: ::uchuuj1n::{ user-id=9140302 }, ::{ flag=NL }:: ::Wesley::{ user-id=2407265 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user-id=7100002 } |
 
 ## Links
 
@@ -61,10 +61,10 @@ The osu!catch Convert Cup was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210), ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481), ::{ flag=US }:: [-Kurisu-](https://osu.ppy.sh/users/500696), ::{ flag=MX }:: [Cxlucha](https://osu.ppy.sh/users/5063961), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103), ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ::{ flag=IT }:: [Karym](https://osu.ppy.sh/users/5220794), ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
-| High | ::{ flag=CL }:: [NachoL](https://osu.ppy.sh/users/1250096), ::{ flag=AU }:: [chickennando](https://osu.ppy.sh/users/5818665), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994), ::{ flag=BR }:: [Hanik](https://osu.ppy.sh/users/4533507), ::{ flag=CL }:: [lineqtxz](https://osu.ppy.sh/users/989542), ::{ flag=TH }:: [BlackBear](https://osu.ppy.sh/users/11056733), ::{ flag=CA }:: [wwwww-](https://osu.ppy.sh/users/3616480), ::{ flag=FR }:: [Shyeart](https://osu.ppy.sh/users/2022144) |
-| Low | ::{ flag=US }:: [Kisetsunotori](https://osu.ppy.sh/users/3692648), ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623), ::{ flag=DE }:: [Ginoshi](https://osu.ppy.sh/users/5398106), ::{ flag=PE }:: [-Boltic-](https://osu.ppy.sh/users/5297904), ::{ flag=FI }:: [forgottentaco](https://osu.ppy.sh/users/6109660), ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045), ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435), ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) |
-| Unseeded | ::{ flag=VN }:: [Saaya](https://osu.ppy.sh/users/5144295), ::{ flag=VN }:: [mothernature](https://osu.ppy.sh/users/6403418), ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239), ::{ flag=PH }:: [-MomoX](https://osu.ppy.sh/users/2150415), ::{ flag=SE }:: [DataPata](https://osu.ppy.sh/users/985360), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=DK }:: [SchnitzelBae](https://osu.ppy.sh/users/11253135) |
+| Top | ::{ flag=CN }:: ::Dusk::{ user-id=533210 }, ::{ flag=CL }:: ::Aryssiel::{ user-id=2389481 }, ::{ flag=US }:: ::-Kurisu-::{ user-id=500696 }, ::{ flag=MX }:: ::Cxlucha::{ user-id=5063961 }, ::{ flag=PH }:: ::Roido::{ user-id=6829103 }, ::{ flag=FR }:: ::AAAAAAAAAAAAHHH::{ user-id=4864877 }, ::{ flag=IT }:: ::Karym::{ user-id=5220794 }, ::{ flag=FR }:: ::Noulayfe::{ user-id=4316542 } |
+| High | ::{ flag=CL }:: ::NachoL::{ user-id=1250096 }, ::{ flag=AU }:: ::chickennando::{ user-id=5818665 }, ::{ flag=FR }:: ::Holloh::{ user-id=7612994 }, ::{ flag=BR }:: ::Hanik::{ user-id=4533507 }, ::{ flag=CL }:: ::lineqtxz::{ user-id=989542 }, ::{ flag=TH }:: ::BlackBear::{ user-id=11056733 }, ::{ flag=CA }:: ::wwwww-::{ user-id=3616480 }, ::{ flag=FR }:: ::Shyeart::{ user-id=2022144 } |
+| Low | ::{ flag=US }:: ::Kisetsunotori::{ user-id=3692648 }, ::{ flag=FR }:: ::Boros::{ user-id=5490623 }, ::{ flag=DE }:: ::Ginoshi::{ user-id=5398106 }, ::{ flag=PE }:: ::-Boltic-::{ user-id=5297904 }, ::{ flag=FI }:: ::forgottentaco::{ user-id=6109660 }, ::{ flag=US }:: ::wonjae::{ user-id=5032045 }, ::{ flag=ID }:: ::Galaxi::{ user-id=2552435 }, ::{ flag=RU }:: ::KitsunIvy::{ user-id=7055384 } |
+| Unseeded | ::{ flag=VN }:: ::Saaya::{ user-id=5144295 }, ::{ flag=VN }:: ::mothernature::{ user-id=6403418 }, ::{ flag=FR }:: ::Julo::{ user-id=4203239 }, ::{ flag=PH }:: ::-MomoX::{ user-id=2150415 }, ::{ flag=SE }:: ::DataPata::{ user-id=985360 }, ::{ flag=AU }:: ::KWYJIBO::{ user-id=7178386 }, ::{ flag=PH }:: ::Jemzuu::{ user-id=7890134 }, ::{ flag=DK }:: ::SchnitzelBae::{ user-id=11253135 } |
 
 ## Podium
 
@@ -72,9 +72,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=IT }:: [Karym](https://osu.ppy.sh/users/5220794) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CL }:: [NachoL](https://osu.ppy.sh/users/1250096) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CN }:: ::Dusk::{ user-id=533210 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=IT }:: ::Karym::{ user-id=5220794 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CL }:: ::NachoL::{ user-id=1250096 } |
 
 ## Mappools
 

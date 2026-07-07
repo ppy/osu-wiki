@@ -11,7 +11,7 @@ Tune in and check out the Round of 32 results, recaps of the most exciting match
 
 With the first round of this year's osu! World Cup behind us, let's briefly take a look at how the past weekend went, and what we can expect moving toward the Round of 16.
 
-If you are more of a visual learner, [Junihuhn](https://osu.ppy.sh/users/4182339) is back once again this year with their video recaps!
+If you are more of a visual learner, ::Junihuhn::{ user-id=4182339 } is back once again this year with their video recaps!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/j9RjpqSAYcE" frameborder="0" allowfullscreen></iframe>
@@ -35,11 +35,11 @@ If you are more of a visual learner, [Junihuhn](https://osu.ppy.sh/users/4182339
 
 For the first pool in the bracket stage, things started off with pretty approachable maps to most teams, while still offering a decent challenge.
 
-To kick things off in the pool, we had an (in?)famous song as the first No Mod map, that being [Shikanoko nokonoko koshitantan (Raphiiel Remix?)](https://osu.ppy.sh/beatmapsets/2271619#osu/4838717) mapped by [alden](https://osu.ppy.sh/users/3545323) (NM1). The map accentuated player's aiming skills, with a few twists and more complex sections later on to spice things up. Whether the song is *deerly* loved or a cardinal sin is entirely up to you, though.
+To kick things off in the pool, we had an (in?)famous song as the first No Mod map, that being [Shikanoko nokonoko koshitantan (Raphiiel Remix?)](https://osu.ppy.sh/beatmapsets/2271619#osu/4838717) mapped by ::alden::{ user-id=3545323 } (NM1). The map accentuated player's aiming skills, with a few twists and more complex sections later on to spice things up. Whether the song is *deerly* loved or a cardinal sin is entirely up to you, though.
 
-A couple of other highlights of the pool included two highly regarded existing maps, [Samayou](https://osu.ppy.sh/beatmapsets/2017141/#osu/4199616) by [ponbot](https://osu.ppy.sh/users/8939857) (HR1) being voted "Best Vanilla Map" in last year's [Mapper's Choice Awards](https://osu.ppy.sh/home/news/2024-02-26-mappers-choice-awards-2023-results) (MCA), and [Celluloid](https://osu.ppy.sh/beatmapsets/1856293/#osu/4163649) by [Fsjallink](https://osu.ppy.sh/users/12704035) (DT1) being a community tournament staple which can be described as a mix of speed and aim.
+A couple of other highlights of the pool included two highly regarded existing maps, [Samayou](https://osu.ppy.sh/beatmapsets/2017141/#osu/4199616) by ::ponbot::{ user-id=8939857 } (HR1) being voted "Best Vanilla Map" in last year's [Mapper's Choice Awards](https://osu.ppy.sh/home/news/2024-02-26-mappers-choice-awards-2023-results) (MCA), and [Celluloid](https://osu.ppy.sh/beatmapsets/1856293/#osu/4163649) by ::Fsjallink::{ user-id=12704035 } (DT1) being a community tournament staple which can be described as a mix of speed and aim.
 
-The pool had its fair amount of modern maps — some made specifically for the tournament, like [Flask](https://osu.ppy.sh/users/959763)'s [Bug Thief](https://osu.ppy.sh/beatmapsets/2271578#osu/4838594) (HR2) and [Silverboxer](https://osu.ppy.sh/users/2166762)'s [Burn your TV](https://osu.ppy.sh/beatmapsets/2271539#osu/4838497) (NM2), but also brought back some proper relics of osu!'s early era, like [Lehjuh](https://osu.ppy.sh/users/44308)'s [Cigarettes In The Theatre](https://osu.ppy.sh/beatmapsets/37461/#osu/120461) (DT3) and [RLC](https://osu.ppy.sh/users/1047883)'s difficulty on [Houkago Stride](https://osu.ppy.sh/beatmapsets/79878/#osu/228679) (FM1), which provided exciting picks for both the new and old generations alike.
+The pool had its fair amount of modern maps — some made specifically for the tournament, like ::Flask::{ user-id=959763 }'s [Bug Thief](https://osu.ppy.sh/beatmapsets/2271578#osu/4838594) (HR2) and ::Silverboxer::{ user-id=2166762 }'s [Burn your TV](https://osu.ppy.sh/beatmapsets/2271539#osu/4838497) (NM2), but also brought back some proper relics of osu!'s early era, like ::Lehjuh::{ user-id=44308 }'s [Cigarettes In The Theatre](https://osu.ppy.sh/beatmapsets/37461/#osu/120461) (DT3) and ::RLC::{ user-id=1047883 }'s difficulty on [Houkago Stride](https://osu.ppy.sh/beatmapsets/79878/#osu/228679) (FM1), which provided exciting picks for both the new and old generations alike.
 
 Capping it off, however, was the first [osu! original](/wiki/osu!_originals) in the tournament — and what a project it is.
 
@@ -82,7 +82,7 @@ Capping it off, however, was the first [osu! original](/wiki/osu!_originals) in 
     }
 </style>
 
-[Imy's *Lies playing Truth*](https://osu.ppy.sh/beatmapsets/2271658), wonderfully sung by [Natsume Itsuki](https://osu.ppy.sh/beatmaps/artists/189), combined two of our amazing Featured Artists' abilities into one truly epic song, mapped by [Garden](https://osu.ppy.sh/users/2849992) and [Ryuusei Aika](https://osu.ppy.sh/users/7777875). It served as our tiebreaker for this week, being the deciding map in the Sweden vs. Indonesia match. If this doesn't make you want to check the map out, here is what [Ryuusei Aika](https://osu.ppy.sh/users/7777875) had to say about it:
+[Imy's *Lies playing Truth*](https://osu.ppy.sh/beatmapsets/2271658), wonderfully sung by [Natsume Itsuki](https://osu.ppy.sh/beatmaps/artists/189), combined two of our amazing Featured Artists' abilities into one truly epic song, mapped by ::Garden::{ user-id=2849992 } and [Ryuusei Aika](https://osu.ppy.sh/users/7777875). It served as our tiebreaker for this week, being the deciding map in the Sweden vs. Indonesia match. If this doesn't make you want to check the map out, here is what ::Ryuusei Aika::{ user-id=7777875 } had to say about it:
 
 <div class="news-chat-quote__text-container">
 
@@ -90,7 +90,7 @@ Capping it off, however, was the first [osu! original](/wiki/osu!_originals) in 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bn" href="https://osu.ppy.sh/users/7777875">Ryuusei Aika</a></p>
 
-I am glad to participate in the making of RO32 TB as a mapper! This song has all the elements I love as a powerful Japanese rock work, just as any other Imy songs, so I had a lot of fun playing around. I also enjoyed the creative discussion with Garden, who initiated the idea of switching styles (mainly flow aim <-> awkward aim) between different sections. Hope you like the song, the map and [LowGraphics](https://osu.ppy.sh/users/5383942)' impeccable storyboard! Huge shout out to everyone who made that happen as well!
+I am glad to participate in the making of RO32 TB as a mapper! This song has all the elements I love as a powerful Japanese rock work, just as any other Imy songs, so I had a lot of fun playing around. I also enjoyed the creative discussion with Garden, who initiated the idea of switching styles (mainly flow aim <-> awkward aim) between different sections. Hope you like the song, the map and ::LowGraphics::{ user-id=5383942 }' impeccable storyboard! Huge shout out to everyone who made that happen as well!
 
 </div>
 
@@ -132,13 +132,13 @@ Taiwan (#25) also took two points from Hong Kong (#8) despite the huge gap in se
 
 After what feels like déjà vu from 2023, China (#13) and Japan (#20) once again found themselves as first-round opponents, and expectations were high after last year's match reaching the tiebreaker.
 
-Wanting to make an impact, Japan opted into [NM1](https://osu.ppy.sh/beatmapsets/2271619#osu/4838717), where both ::{ flag=JP }:: [YMD](https://osu.ppy.sh/users/17202789) and ::{ flag=JP }:: [Teacchyyy](https://osu.ppy.sh/users/7178423) showed us their mechanical prowess with FCs, ::{ flag=JP }:: [Teacchyyy](https://osu.ppy.sh/users/7178423) in particular choking an SS with 1x100!
+Wanting to make an impact, Japan opted into [NM1](https://osu.ppy.sh/beatmapsets/2271619#osu/4838717), where both ::{ flag=JP }:: ::YMD::{ user-id=17202789 } and ::{ flag=JP }:: ::Teacchyyy::{ user-id=7178423 } showed us their mechanical prowess with FCs, ::{ flag=JP }:: ::Teacchyyy::{ user-id=7178423 } in particular choking an SS with 1x100!
 
-China was not shaken by Japan's performance and decided to make their mark on the [HD2](https://osu.ppy.sh/beatmapsets/2271631#osu/4838738), the low AR pick, and their captain ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175) (formerly known as davidqu2) did not disappoint with a 99% FC. With one map for each team, Japan looked towards [DT1](https://osu.ppy.sh/beatmapsets/1856293#osu/4163649), however China went above and beyond expectations with nearly a 4-way FC and taking the advantage at 2–1.
+China was not shaken by Japan's performance and decided to make their mark on the [HD2](https://osu.ppy.sh/beatmapsets/2271631#osu/4838738), the low AR pick, and their captain ::{ flag=CN }:: ::lolol235::{ user-id=6090175 } (formerly known as davidqu2) did not disappoint with a 99% FC. With one map for each team, Japan looked towards [DT1](https://osu.ppy.sh/beatmapsets/1856293#osu/4163649), however China went above and beyond expectations with nearly a 4-way FC and taking the advantage at 2–1.
 
-China tried capitalising on the newly found momentum with DT2, one of the most popular maps of the weekend. High expectations were had from both China and Japan, but early misses left China chasing Japan for the rest of the pick and tying the match score at 2–2. Japan needed to find a solid map pick after miss-picking [DT1](https://osu.ppy.sh/beatmapsets/1856293#osu/4163649), and decided to put their faith in [HD1](https://osu.ppy.sh/beatmapsets/2271664#osu/4838813), the Hidden tech map. Star players ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175) and ::{ flag=JP }:: [Teacchyyy](https://osu.ppy.sh/users/7178423) had an amazing duel awaiting one another to break their high combo, which ultimately ended in a miss from ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175), letting Japan run away with the lead.
+China tried capitalising on the newly found momentum with DT2, one of the most popular maps of the weekend. High expectations were had from both China and Japan, but early misses left China chasing Japan for the rest of the pick and tying the match score at 2–2. Japan needed to find a solid map pick after miss-picking [DT1](https://osu.ppy.sh/beatmapsets/1856293#osu/4163649), and decided to put their faith in [HD1](https://osu.ppy.sh/beatmapsets/2271664#osu/4838813), the Hidden tech map. Star players ::{ flag=CN }:: ::lolol235::{ user-id=6090175 } and ::{ flag=JP }:: ::Teacchyyy::{ user-id=7178423 } had an amazing duel awaiting one another to break their high combo, which ultimately ended in a miss from ::{ flag=CN }:: ::lolol235::{ user-id=6090175 }, letting Japan run away with the lead.
 
-Starting the second half of the match, team China decided to stick to their guns with the speed picks and chose [NM2](https://osu.ppy.sh/beatmapsets/2271539#osu/4838497), another one of the more popular maps of the weekend, and with flying colours on their pick tied up the match once again. With the teams down to one pick each, Japan went into [NM3](https://osu.ppy.sh/beatmapsets/1915723#osu/3952312) hoping to guarantee the tiebreaker. Despite Japan's two major FCs, China *still* managed to squeeze out a break point at a critical time! For the final pick of the match, China opted to pick the precision [HR2](https://osu.ppy.sh/beatmapsets/2271578#osu/4838594) pick and managed to shut down any chances for a tiebreaker with an FC from ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), sealing Japan's fate.
+Starting the second half of the match, team China decided to stick to their guns with the speed picks and chose [NM2](https://osu.ppy.sh/beatmapsets/2271539#osu/4838497), another one of the more popular maps of the weekend, and with flying colours on their pick tied up the match once again. With the teams down to one pick each, Japan went into [NM3](https://osu.ppy.sh/beatmapsets/1915723#osu/3952312) hoping to guarantee the tiebreaker. Despite Japan's two major FCs, China *still* managed to squeeze out a break point at a critical time! For the final pick of the match, China opted to pick the precision [HR2](https://osu.ppy.sh/beatmapsets/2271578#osu/4838594) pick and managed to shut down any chances for a tiebreaker with an FC from ::{ flag=CN }:: ::Crystal::{ user-id=1646397 }, sealing Japan's fate.
 
 An incredible matchup between two closely seeded teams. Look out for both of these teams next week as China faces Russia and Japan against Argentina.
 
@@ -155,7 +155,7 @@ On Saturday, the community has been given a pleasure of watching a top tier matc
 
 ![](/wiki/shared/news/2024-11-07-osu-world-cup-2024-round-of-32-recap/scylla.png)
 
-Sweden ended clutching the win with a final score of 5–4. ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), team Sweden's captain, kindly agreed to share a small glimpse at how the team prepared for their match versus Indonesia.
+Sweden ended clutching the win with a final score of 5–4. ::{ flag=SE }:: ::scylla::{ user-id=9405745 }, team Sweden's captain, kindly agreed to share a small glimpse at how the team prepared for their match versus Indonesia.
 
 ---
 
@@ -171,7 +171,7 @@ How did you and your team prepare for the match vs. Indonesia, were there any ex
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9405745">scylla</a></p>
 
-For this week we didn't do anything special in terms of preparation. We were discussing having a scrim against another country but real life plans got in the way. One hour before the match I went through our scores on our team sheet and made lineups and planned picks and bans based on their scores as well as their mental and current playing ability. With how even our opponents are to us skill wise we went into the match with very little expectations, in our eyes the win could've gone either way. Despite not having ::{ flag=SE }:: [Zpinxx](https://osu.ppy.sh/users/9818947) for the match, our team mental was great, we played really well, and most of our picks went the way we wanted.
+For this week we didn't do anything special in terms of preparation. We were discussing having a scrim against another country but real life plans got in the way. One hour before the match I went through our scores on our team sheet and made lineups and planned picks and bans based on their scores as well as their mental and current playing ability. With how even our opponents are to us skill wise we went into the match with very little expectations, in our eyes the win could've gone either way. Despite not having ::{ flag=SE }:: ::Zpinxx::{ user-id=9818947 } for the match, our team mental was great, we played really well, and most of our picks went the way we wanted.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/avatars/0x84f.jpg')"></a>
 
@@ -183,7 +183,7 @@ What were some of the more difficult decisions made by either yourself or the te
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9405745">scylla</a></p>
 
-The most difficult decision was our roster for [FM2](https://osu.ppy.sh/beatmapsets/643391#osu/1389956). The initial lineup we planned for was changed last minute with me going HR and ::{ flag=SE }:: [Andros](https://osu.ppy.sh/users/9072586) going NM, which was dangerous but worked very much in our favour. We had many plausible mod and player combinations that sounded really good on paper but the one we went with was not planned beforehand at all.
+The most difficult decision was our roster for [FM2](https://osu.ppy.sh/beatmapsets/643391#osu/1389956). The initial lineup we planned for was changed last minute with me going HR and ::{ flag=SE }:: ::Andros::{ user-id=9072586 } going NM, which was dangerous but worked very much in our favour. We had many plausible mod and player combinations that sounded really good on paper but the one we went with was not planned beforehand at all.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7944724" style="background-image: url('/wiki/shared/avatars/0x84f.jpg')"></a>
 
@@ -203,7 +203,7 @@ Worst case I believe we place top16, which isn't that bad considering we seeded 
 
 ## More player interviews
 
-[Willy](https://osu.ppy.sh/users/3521482) seized the opportunity to get lots of players' opinions and predictions before this year's Round of 32, including ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683) and ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296) (a.k.a. hydrogen bomb). After having these interviews streamed live during breaks between matches, they're now compiled into a convenient playlist:
+::Willy::{ user-id=3521482 } seized the opportunity to get lots of players' opinions and predictions before this year's Round of 32, including ::{ flag=KR }:: ::FlyingTuna::{ user-id=9224078 }, ::{ flag=CA }:: ::xootynator::{ user-id=3717598 }, ::{ flag=PL }:: ::Rafis::{ user-id=2558286 }, ::{ flag=FI }:: ::Amasetic::{ user-id=11375251 }, ::{ flag=FR }:: ::Musty::{ user-id=251683 } and ::{ flag=US }:: ::Rektygon::{ user-id=7813296 } (a.k.a. hydrogen bomb). After having these interviews streamed live during breaks between matches, they're now compiled into a convenient playlist:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLIYfYZCsR-6EnQMR4JOjMOJGqMlAU10CQ" frameborder="0" allowfullscreen></iframe>

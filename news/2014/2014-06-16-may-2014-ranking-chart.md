@@ -19,7 +19,7 @@ Congratulations to winner of the April Ranking Charts 2014:
 
 **Taiko**
 
-- **1st** [Konpaku Sariel](https://osu.ppy.sh/users/533502) \- 1 month supporter
+- **1st** ::Konpaku Sariel::{ user-id=533502 } \- 1 month supporter
 - **2nd** [syunsyun](https://osu.ppy.sh/users/syunsyun)
 
 **Catch the Beat**

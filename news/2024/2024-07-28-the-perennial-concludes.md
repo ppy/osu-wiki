@@ -184,7 +184,7 @@ The Perennial had a wealth of staff and players this year. From the victors to t
 
 ![](/wiki/shared/news/2024-07-28-the-perennial-concludes/enri.png)
 
-[enri](https://osu.ppy.sh/users/8640970) captained the winning team of the Perennial, APAC RADIANT.
+::enri::{ user-id=8640970 } captained the winning team of the Perennial, APAC RADIANT.
 
 ---
 
@@ -206,11 +206,11 @@ You've now won both Corsace Open and Perennial, which are the only two community
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
 
-Focusing on roster depth was something I believe led to my team's success in Corsace Open 2022 - while forming APAC RADIANT for this year's Perennial, I presented that same mindset. It was my first time captaining a big tournament and inspired by teams like [tekkito](https://osu.ppy.sh/users/7075211)'s United States roster for OWC 2023, my goal was to form an incredibly well-rounded team.
+Focusing on roster depth was something I believe led to my team's success in Corsace Open 2022 - while forming APAC RADIANT for this year's Perennial, I presented that same mindset. It was my first time captaining a big tournament and inspired by teams like ::tekkito::{ user-id=7075211 }'s United States roster for OWC 2023, my goal was to form an incredibly well-rounded team.
 
 In most superteams I see formed nowadays, they can get away with relying on the carry performances of 1-2 people, with the rest being "fills" - something I tried to avoid when forming this team. You can see that pay off in the Grand Finals, where I wasn't feeling well at all due to a headache - it got to a point where I really couldn't trust myself with certain picks I would usually consider myself comfortable on.
 
-As a result, I put [Allegrissimo](https://osu.ppy.sh/users/9052194) back in to replace my role, and that ended up fixing all the errors we had in the first match that were caused by my underperformance - picks that we would've otherwise lost by a small margin.
+As a result, I put ::Allegrissimo::{ user-id=9052194 } back in to replace my role, and that ended up fixing all the errors we had in the first match that were caused by my underperformance - picks that we would've otherwise lost by a small margin.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/avatars/dio.jpg')"></a>
 
@@ -224,7 +224,7 @@ No one on your team has made the podium in Perennial before; did that make you n
 
 Winning Perennial was something I've always wanted to do, as its iteration in 2022 was one of the very first tournaments I played, as well as it being my favorite open-rank tournament overall. Alongside that, together we are terrific was a team I was already incredibly nervous to go against. As I mentioned before, tekkito stands out to me as someone excellent at roster formation, and his team for this year's Perennial was no exception - everyone here is incredibly consistent at what they do.
 
-We cared a lot about winning this tournament and knew that the Grand Finals wouldn't be decisive in the slightest, so I made sure my team was well-practiced and even fixed my sleep schedule just for the match. Amidst several inconveniences, such as my headache (which turned out to be a result of more serious issues), [FlyingTuna](https://osu.ppy.sh/users/9224078)'s tapping fingers being injured, [Kamensh1k](https://osu.ppy.sh/users/16817965) not being able to make it for most of the match, and our team being put into bracket reset, I'm very thankful it ended up working out for us in the end.
+We cared a lot about winning this tournament and knew that the Grand Finals wouldn't be decisive in the slightest, so I made sure my team was well-practiced and even fixed my sleep schedule just for the match. Amidst several inconveniences, such as my headache (which turned out to be a result of more serious issues), ::FlyingTuna::{ user-id=9224078 }'s tapping fingers being injured, ::Kamensh1k::{ user-id=16817965 } not being able to make it for most of the match, and our team being put into bracket reset, I'm very thankful it ended up working out for us in the end.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/avatars/dio.jpg')"></a>
 
@@ -240,7 +240,7 @@ As someone who used to play in some of the biggest 2023 superteams where the Gra
 
 I believe tournament wins are so much more worthwhile and meaningful when it's a result of several weeks of hard work and dedication, something that I was pushed to do for both Corsace Open 2022 and this year's Perennial, with both matches being a long, indecisive bracket reset.
 
-After the successful conclusion of a speed tournament I hosted titled [ENRI'S SHREDDINGTON SHOWDOWN ANNIHILATION](https://osu.ppy.sh/community/forums/topics/1915844), I plan on hosting open-rank tournaments that experiment with various forms of team formation rules for the sake of competition. That being said, from an entirely biased and personal standpoint, I wish it wasn't specifically region-wise, as I wanted to play with friends such as tekkito and [decaten](https://osu.ppy.sh/users/5645231) before finding out about the rule.
+After the successful conclusion of a speed tournament I hosted titled [ENRI'S SHREDDINGTON SHOWDOWN ANNIHILATION](https://osu.ppy.sh/community/forums/topics/1915844), I plan on hosting open-rank tournaments that experiment with various forms of team formation rules for the sake of competition. That being said, from an entirely biased and personal standpoint, I wish it wasn't specifically region-wise, as I wanted to play with friends such as tekkito and ::decaten::{ user-id=5645231 } before finding out about the rule.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3958619" style="background-image: url('/wiki/shared/avatars/dio.jpg')"></a>
 
@@ -252,9 +252,9 @@ Were there any other teams you were rooting for during the course of the tournam
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bsc" href="https://osu.ppy.sh/users/8640970">enri</a></p>
 
-Yes, "mom's touch" and "EMPICONES", which placed 5th and 4th respectively. mom's touch, which was intended to be the B team for APAC RADIANT, was an all-Asian team I formed with [Milkteaism](https://osu.ppy.sh/users/9642774) in hopes of giving him more experience as both a tournament player and captain in preparation for OWC 2024 due to my absence this year.
+Yes, "mom's touch" and "EMPICONES", which placed 5th and 4th respectively. mom's touch, which was intended to be the B team for APAC RADIANT, was an all-Asian team I formed with ::Milkteaism::{ user-id=9642774 } in hopes of giving him more experience as both a tournament player and captain in preparation for OWC 2024 due to my absence this year.
 
-EMPICONES, on the other hand, was a team consisting of players I knew from a group called [#EMPATHS](https://www.twitch.tv/team/empaths) - specifically, [BATBALL](https://osu.ppy.sh/users/15173952), [Pezz](https://osu.ppy.sh/users/10651106), [suntanCTM](https://osu.ppy.sh/users/19998548), and [Twilight](https://osu.ppy.sh/users/6327638). I was rooting for both teams, so it was heartbreaking not to see either of them make the podium, but I believe their success in this year's Perennial is nothing to scoff at.
+EMPICONES, on the other hand, was a team consisting of players I knew from a group called [#EMPATHS](https://www.twitch.tv/team/empaths) - specifically, ::BATBALL::{ user-id=15173952 }, [Pezz](https://osu.ppy.sh/users/10651106), ::suntanCTM::{ user-id=19998548 }, and [Twilight](https://osu.ppy.sh/users/6327638). I was rooting for both teams, so it was heartbreaking not to see either of them make the podium, but I believe their success in this year's Perennial is nothing to scoff at.
 
 </div>
 
@@ -264,7 +264,7 @@ EMPICONES, on the other hand, was a team consisting of players I knew from a gro
 
 ![](/wiki/shared/news/2024-07-28-the-perennial-concludes/doomsday.png)
 
-[Doomsday](https://osu.ppy.sh/users/18983) is a former rank #1 player, tournament player, OWC commentator, livestreamer, and now a [Featured Artist](https://osu.ppy.sh/beatmaps/artists/425). He produced an original track for the Perennial titled *TGGT* and was announced as a Featured Artist along with its [release](https://www.youtube.com/watch?v=a43TgyR0384), which is the first time that has happened for a community tournament.
+::Doomsday::{ user-id=18983 } is a former rank #1 player, tournament player, OWC commentator, livestreamer, and now a [Featured Artist](https://osu.ppy.sh/beatmaps/artists/425). He produced an original track for the Perennial titled *TGGT* and was announced as a Featured Artist along with its [release](https://www.youtube.com/watch?v=a43TgyR0384), which is the first time that has happened for a community tournament.
 
 ---
 
@@ -346,7 +346,7 @@ That said, I've made a few tracks where I limit myself to certain sample sets, w
 
 ![](/wiki/shared/news/2024-07-28-the-perennial-concludes/chiv.png)
 
-[chiv](https://osu.ppy.sh/users/6701656) is a mappooler in a wide range of community tournaments big and small across multiple rank ranges. He is also one of the mappoolers for the Perennial.
+::chiv::{ user-id=6701656 } is a mappooler in a wide range of community tournaments big and small across multiple rank ranges. He is also one of the mappoolers for the Perennial.
 
 ---
 

@@ -5,13 +5,13 @@ date: 2024-05-28 11:00:00 +0000
 series: followpoint
 ---
 
-Read up on the latest interview with [YesMyDarknesss](https://osu.ppy.sh/users/4158549), the osu!catch #1 player.
+Read up on the latest interview with ::YesMyDarknesss::{ user-id=4158549 }, the osu!catch #1 player.
 
 ![](/wiki/shared/news/2024-05-28-the-followpoint-yesmydarknesss-the-master-of-osu-catch/banner.jpg)
 
 Welcome or welcome back to The Followpoint, a "community spotlight" series where we interview various players and community figures to get to know them better!
 
-We are back with a second interview of a special set of players, namely the very top of each game mode, this time featuring [YesMyDarknesss](https://osu.ppy.sh/users/4158549) (a.k.a Hyperw7), osu!catch rank #1 player and currently the longest-standing #1 of all game modes!
+We are back with a second interview of a special set of players, namely the very top of each game mode, this time featuring ::YesMyDarknesss::{ user-id=4158549 } (a.k.a Hyperw7), osu!catch rank #1 player and currently the longest-standing #1 of all game modes!
 
 If you find the these insights from top players interesting, you might also want to check out [mrekk's interview](https://osu.ppy.sh/home/news/2024-05-06-the-followpoint-mrekk-the-osu-standard-prodigy)!
 
@@ -27,11 +27,11 @@ Let's start now, shall we?
 
 *How did you get introduced to osu! and what was your first impression of it?*
 
-> I first saw the game 10 years ago while watching YouTube or surfing the web. It was a score by [ExGon](https://osu.ppy.sh/users/214187) in osu!catch. After that I installed osu! and for first 4 hours I was playing standard, but after that I changed game mode to ctb, thinking "OH, this is that game", and that's where I decided to continue playing catch until I'm gone.
+> I first saw the game 10 years ago while watching YouTube or surfing the web. It was a score by ::ExGon::{ user-id=214187 } in osu!catch. After that I installed osu! and for first 4 hours I was playing standard, but after that I changed game mode to ctb, thinking "OH, this is that game", and that's where I decided to continue playing catch until I'm gone.
 
 *Why did you choose to play osu!catch of all game modes osu! has to offer?*
 
-> As I said in a previous answer, first time I saw osu! was ExGon's score, and that's when I started to play osu!. That's one of the main reasons I continued playing catch, as well as it being easy to start (but ducking impossible to master). So after I found osu!catch, I started to grind it a lot. I think my goal at that point was to become a superior player like [ExGon](https://osu.ppy.sh/users/214187).
+> As I said in a previous answer, first time I saw osu! was ExGon's score, and that's when I started to play osu!. That's one of the main reasons I continued playing catch, as well as it being easy to start (but ducking impossible to master). So after I found osu!catch, I started to grind it a lot. I think my goal at that point was to become a superior player like ::ExGon::{ user-id=214187 }.
 
 *What do you think of the osu!catch and its community in its current state?*
 
@@ -67,7 +67,7 @@ Let's start now, shall we?
 
 *Who would you call the best osu!catch player(s) at the moment and why?*
 
-> In this generation I would call [Motion](https://osu.ppy.sh/users/3885626) the best player. He has mastered multiple techniques, has crazy speed, and even has a lot more clean movement. A complete all-rounder.
+> In this generation I would call ::Motion::{ user-id=3885626 } the best player. He has mastered multiple techniques, has crazy speed, and even has a lot more clean movement. A complete all-rounder.
 
 *What would you call the most impressive skillset in catch?*
 
@@ -93,6 +93,6 @@ Let's start now, shall we?
 
 Thanks to YesMyDarknesss for joining us and answering these questions! I hope you as a reader enjoyed this interview as well. :D
 
-Please look forward to the next interview with osu!taiko #4 player, [Eriha](https://osu.ppy.sh/users/16320311), which will be posted in a week! You can also have a look at our [Twitter account](https://twitter.com/The_Followpoint) while waiting for a new interview. Who knows, maybe there will be some early looks into future interviews. 👀
+Please look forward to the next interview with osu!taiko #4 player, ::Eriha::{ user-id=16320311 }, which will be posted in a week! You can also have a look at our [Twitter account](https://twitter.com/The_Followpoint) while waiting for a new interview. Who knows, maybe there will be some early looks into future interviews. 👀
 
 —MegaMix

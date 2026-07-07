@@ -16,7 +16,7 @@
 
 鉴于 OT 的无厘头本质，其发布的大多数帖子和讨论质量都堪忧。帖子很少能被称为神帖，但如果有幸如此，它们就会被认为是“抵达了英灵殿 (valhalla)”。
 
-这个说法最初由 [Ephemeral](https://osu.ppy.sh/users/102335) 在 [ITT: We're Dirty](https://osu.ppy.sh/community/forums/topics/40298?n=63) 帖子中使用，并在之后多次沿用。此后，版块内的其他用户也采纳了这个词。
+这个说法最初由 ::Ephemeral::{ user-id=102335 } 在 [ITT: We're Dirty](https://osu.ppy.sh/community/forums/topics/40298?n=63) 帖子中使用，并在之后多次沿用。此后，版块内的其他用户也采纳了这个词。
 
 ### 旧头像周
 
@@ -26,19 +26,19 @@
 
 在版聊版块早期，人们偶尔会创建专门发跳舞的动漫女孩的帖子。如果一个帖子质量不佳，发几张跳舞的动漫女孩图片就能让它“变好”。当人们开始发帖宣称要“退出 OT”但实际上并未退出时，大家认为这不过是在博取关注，于是便发布跳舞的动漫女孩图片来转移话题。最终，在告别或欢迎帖里发跳舞的动漫女孩成了普遍做法，从而确立了这一传统。[^ot-dancing-girls]
 
-2017 年 6 月 9 日，[Ephemeral](https://osu.ppy.sh/users/102335) 在[版聊规则](https://osu.ppy.sh/community/forums/topics/604424)中明确了一项略有不同的传统，要求用户在生日帖中发布不少于 3 张跳舞的动漫女孩图片。这一要求后来被写入了 osu! 的官方规则[^ot-rules-official]，直至 2019 年 11 月 11 日因一次[内容清理](https://github.com/ppy/osu-wiki/pull/2655)而被移除，不过它现在仍然保留在版聊子版块的规则中。
+2017 年 6 月 9 日，::Ephemeral::{ user-id=102335 } 在[版聊规则](https://osu.ppy.sh/community/forums/topics/604424)中明确了一项略有不同的传统，要求用户在生日帖中发布不少于 3 张跳舞的动漫女孩图片。这一要求后来被写入了 osu! 的官方规则[^ot-rules-official]，直至 2019 年 11 月 11 日因一次[内容清理](https://github.com/ppy/osu-wiki/pull/2655)而被移除，不过它现在仍然保留在版聊子版块的规则中。
 
 ### 流放
 
-**流放** 是由 [Ephemeral](https://osu.ppy.sh/users/102335) 在[版聊规则](https://osu.ppy.sh/community/forums/topics/604424)中引入的一种非官方的管理概念，用于应对反复刷版或发布其他恼人内容的用户。流放制度通过删除被流放者发布的任何帖子，有时甚至删除其回复帖来执行。作为一种警示，它标志着此人即将面临更严厉的官方管理处罚。
+**流放** 是由 ::Ephemeral::{ user-id=102335 } 在[版聊规则](https://osu.ppy.sh/community/forums/topics/604424)中引入的一种非官方的管理概念，用于应对反复刷版或发布其他恼人内容的用户。流放制度通过删除被流放者发布的任何帖子，有时甚至删除其回复帖来执行。作为一种警示，它标志着此人即将面临更严厉的官方管理处罚。
 
 ### 居民
 
-由于在版聊版块中发帖交流的常是同一群人，大家都互相熟识起来。那些待得足够久，被视为常客的人被称为“**居民**”。虽然这个词最早由 [Ephemeral](https://osu.ppy.sh/users/102335) 在[这篇帖子](https://osu.ppy.sh/community/forums/posts/1607086)中使用，但直到 [OT!News 系列帖子](https://osu.ppy.sh/community/forums/topics/577518)使其普及后，才被常客们广泛采纳。
+由于在版聊版块中发帖交流的常是同一群人，大家都互相熟识起来。那些待得足够久，被视为常客的人被称为“**居民**”。虽然这个词最早由 ::Ephemeral::{ user-id=102335 } 在[这篇帖子](https://osu.ppy.sh/community/forums/posts/1607086)中使用，但直到 [OT!News 系列帖子](https://osu.ppy.sh/community/forums/topics/577518)使其普及后，才被常客们广泛采纳。
 
 ### OT 传说
 
-**OT 传说** 是一项由 [abraker](https://osu.ppy.sh/users/4635891) 发起并由其他居民延续的项目，旨在从人们在 OT 中创建的各种帖子里构建起一条宏大叙事脉络。这项努力的成果最终汇编成了 [OT!编年史](https://osu.ppy.sh/community/forums/posts/6230570)，在 OT 板块中催生了一段充满与角色扮演相关的即兴创作时期。
+**OT 传说** 是一项由 ::abraker::{ user-id=4635891 } 发起并由其他居民延续的项目，旨在从人们在 OT 中创建的各种帖子里构建起一条宏大叙事脉络。这项努力的成果最终汇编成了 [OT!编年史](https://osu.ppy.sh/community/forums/posts/6230570)，在 OT 板块中催生了一段充满与角色扮演相关的即兴创作时期。
 
 ### 歪楼
 

@@ -9,7 +9,7 @@ Music illusionist **endofsystem** joins our Featured Artists!
 
 ![](/wiki/shared/news/2026-06-27-new-featured-artist-endofsystem/banner.png)
 
-A master of unorthodox aural presentation, **endofsystem** (known here on osu! as [*nicoshi*](https://osu.ppy.sh/users/18641641)) specialises in ambient and experimental tracks featuring industrial tones and limited bit depth. Drawing similarities between avant-garde songs isn't always practical, but **endofsystem** loves listening to distorted tunes from familiar names like [*Frums*](https://osu.ppy.sh/beatmaps/artists/68), [*SOOOO*](https://osu.ppy.sh/beatmaps/artists/30), and [*meganeko*](https://osu.ppy.sh/beatmaps/artists/75), traces of which may bleed into **endofsystem**'s sound.
+A master of unorthodox aural presentation, **endofsystem** (known here on osu! as ::*nicoshi*::{ user-id=18641641 }) specialises in ambient and experimental tracks featuring industrial tones and limited bit depth. Drawing similarities between avant-garde songs isn't always practical, but **endofsystem** loves listening to distorted tunes from familiar names like [*Frums*](https://osu.ppy.sh/beatmaps/artists/68), [*SOOOO*](https://osu.ppy.sh/beatmaps/artists/30), and [*meganeko*](https://osu.ppy.sh/beatmaps/artists/75), traces of which may bleed into **endofsystem**'s sound.
 
 [UNTONE Music](https://osu.ppy.sh/beatmaps/artists/479) already hosts a collection of **endofsystem**'s music, and that list is expanding here today!
 
@@ -19,7 +19,7 @@ Taste some of what **endofsystem** has to offer below.
 
 ### endofsystem - _0XB4D60DE
 
-An experiment by both musician and mapper, [this variable-velocity 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2283879) by [maris_a](https://osu.ppy.sh/users/28581372) embodies the progressive nature of everything **endofsystem** stands for. Witness the map for yourself (in both readable and not-so-readable forms):
+An experiment by both musician and mapper, [this variable-velocity 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2283879) by ::maris\1a::{ user-id=28581372 } embodies the progressive nature of everything **endofsystem** stands for. Witness the map for yourself (in both readable and not-so-readable forms):
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -29,7 +29,7 @@ An experiment by both musician and mapper, [this variable-velocity 4K osu!mania 
 
 ### endofsystem - 5 Beats
 
-The Ranked section needs some experimentation too. [Anwul_](https://osu.ppy.sh/users/17673611) designed [this osu!mania map](https://osu.ppy.sh/beatmapsets/2463154) around a motif of *5*. We'll leave you to interpret the details.
+The Ranked section needs some experimentation too. ::Anwul\1::{ user-id=17673611 } designed [this osu!mania map](https://osu.ppy.sh/beatmapsets/2463154) around a motif of *5*. We'll leave you to interpret the details.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/552/Songs/endofsystem%20-%205%20Beats.mp3">

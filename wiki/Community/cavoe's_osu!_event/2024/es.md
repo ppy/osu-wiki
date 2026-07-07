@@ -56,7 +56,7 @@ COE 2024 estuvo dirigido por varios miembros de la comunidad y organizaciones as
 
 | Posición | Miembro(s) |
 | :-- | :-- |
-| Organizador | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) |
+| Organizador | ::{ flag=NL }:: ::cavoeboy::{ user-id=7361815 }, ::{ flag=DE }:: ::Meyer::{ user-id=5452367 } |
 | Socios operativos | [osu!frlive](https://osufr.live/), [Wooting](https://next.wooting.io/), [WoozPC](https://woozpc.nl/), [Zed Up](https://www.zed-up.de/), [Yuki Aim](https://yuki.gg/) |
 
 ### Actividades externas

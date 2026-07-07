@@ -25,9 +25,9 @@ We've picked up **20** tracks from their discography stretching back to 2012, al
 
 Play through any beatmap from the video above:
 
-- [osu! map](https://osu.ppy.sh/beatmapsets/577414) hosted by [Wishkey](https://osu.ppy.sh/users/1101704)
-- [osu!taiko map](https://osu.ppy.sh/beatmapsets/842930) hosted by [vrnl](https://osu.ppy.sh/users/4799788)
-- [osu!catch map](https://osu.ppy.sh/beatmapsets/1096713) hosted by [Daletto](https://osu.ppy.sh/users/7592136)
+- [osu! map](https://osu.ppy.sh/beatmapsets/577414) hosted by ::Wishkey::{ user-id=1101704 }
+- [osu!taiko map](https://osu.ppy.sh/beatmapsets/842930) hosted by ::vrnl::{ user-id=4799788 }
+- [osu!catch map](https://osu.ppy.sh/beatmapsets/1096713) hosted by ::Daletto::{ user-id=7592136 }
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/194/Chronostasis/Release%20Hallucination%20-%20Chronostasis.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Play through any beatmap from the video above:
 
 ### Ariadne
 
-Experience [this new osu!taiko map](https://osu.ppy.sh/beatmapsets/1536537) hosted by [Heaxys](https://osu.ppy.sh/users/5671417) and [this new osu! map](https://osu.ppy.sh/beatmapsets/1550194) by [Zelq](https://osu.ppy.sh/users/8953955) of the Mappers' Guild!
+Experience [this new osu!taiko map](https://osu.ppy.sh/beatmapsets/1536537) hosted by ::Heaxys::{ user-id=5671417 } and [this new osu! map](https://osu.ppy.sh/beatmapsets/1550194) by ::Zelq::{ user-id=8953955 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/194/Ariadne/Release%20Hallucination%20-%20Ariadne.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Experience [this new osu!taiko map](https://osu.ppy.sh/beatmapsets/1536537) host
 
 ### Lovers in Abyss
 
-Try [this experimental osu! map](https://osu.ppy.sh/beatmapsets/1032560) hosted by [Deramok](https://osu.ppy.sh/users/1428455)!
+Try [this experimental osu! map](https://osu.ppy.sh/beatmapsets/1032560) hosted by ::Deramok::{ user-id=1428455 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/194/Lovers%20in%20Abyss/Release%20Hallucination%20-%20Lovers%20in%20Abyss.mp3" type="audio/mpeg">

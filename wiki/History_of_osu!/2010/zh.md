@@ -12,7 +12,7 @@ no_native_review: true
 
 ## 三月
 
-从二月至三月，[peppy](https://osu.ppy.sh/users/2) 举办了一场艺术比赛，主题是为游戏内挑战设计横幅，奖品是作品的官方认可以及一年期的 [osu!supporter](/wiki/osu!supporter) 或实物奖励。在一轮[社区投票](https://osu.ppy.sh/community/forums/27112?n=1)之后，osu! 团队做出了最后的选择。[^art-challenge]
+从二月至三月，::peppy::{ user-id=2 } 举办了一场艺术比赛，主题是为游戏内挑战设计横幅，奖品是作品的官方认可以及一年期的 [osu!supporter](/wiki/osu!supporter) 或实物奖励。在一轮[社区投票](https://osu.ppy.sh/community/forums/27112?n=1)之后，osu! 团队做出了最后的选择。[^art-challenge]
 
 在 3 月 8 日，osu! 的一次更新带来了可观的性能和音质的提升。[^stable-b1485]
 
@@ -28,7 +28,7 @@ no_native_review: true
 
 聊天命令 [`!report`](/wiki/BanchoBot#举报) 被加入到了 [Bancho](/wiki/BanchoBot) 中，使得当某些人在聊天中聊了不该聊的事情的时候，用户们可以对其向管理员进行举报。[^bancho-report]
 
-[nardii](https://osu.ppy.sh/users/1017) 给了 peppy 他们的 [X](https://x.com) 账号 [@osugame](https://X.com/osugame) 用于常规的 osu! 新闻发布至今。[^twitter-osugame]
+::nardii::{ user-id=1017 } 给了 peppy 他们的 [X](https://x.com) 账号 [@osugame](https://X.com/osugame) 用于常规的 osu! 新闻发布至今。[^twitter-osugame]
 
 ## 九月
 

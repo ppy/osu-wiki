@@ -19,7 +19,7 @@ Check out a few previews, plus some new showcase maps:
 
 ### Ray of hope
 
-Check out [this collaborative showcase set](https://osu.ppy.sh/beatmapsets/1227702) hosted by [Lasse](https://osu.ppy.sh/users/896613) of the Mappers' Guild!
+Check out [this collaborative showcase set](https://osu.ppy.sh/beatmapsets/1227702) hosted by ::Lasse::{ user-id=896613 } of the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/99/previews/2671.mp3" type="audio/mpeg">
@@ -27,7 +27,7 @@ Check out [this collaborative showcase set](https://osu.ppy.sh/beatmapsets/12277
 
 ### Last words
 
-Check out [this 2019 single-difficulty set](https://osu.ppy.sh/beatmapsets/1015203) from [captin1](https://osu.ppy.sh/users/689997)!
+Check out [this 2019 single-difficulty set](https://osu.ppy.sh/beatmapsets/1015203) from ::captin1::{ user-id=689997 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/99/previews/2661.mp3" type="audio/mpeg">
@@ -35,7 +35,7 @@ Check out [this 2019 single-difficulty set](https://osu.ppy.sh/beatmapsets/10152
 
 ### Just believe
 
-Check out [this collaborative showcase set](https://osu.ppy.sh/beatmapsets/1237988) hosted by [Agatsu](https://osu.ppy.sh/users/5579871) from the Mappers' Guild!
+Check out [this collaborative showcase set](https://osu.ppy.sh/beatmapsets/1237988) hosted by ::Agatsu::{ user-id=5579871 } from the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/99/previews/2658.mp3" type="audio/mpeg">
@@ -43,7 +43,7 @@ Check out [this collaborative showcase set](https://osu.ppy.sh/beatmapsets/12379
 
 ### Countdown
 
-Check out [this collaborative showcase set](https://osu.ppy.sh/beatmapsets/1246683) hosted by [jonathanlfj](https://osu.ppy.sh/users/270377) from the Mappers' Guild!
+Check out [this collaborative showcase set](https://osu.ppy.sh/beatmapsets/1246683) hosted by ::jonathanlfj::{ user-id=270377 } from the Mappers' Guild!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/99/previews/2660.mp3" type="audio/mpeg">
@@ -51,7 +51,7 @@ Check out [this collaborative showcase set](https://osu.ppy.sh/beatmapsets/12466
 
 ### Sylphia
 
-Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/282291) hosted by [Nyquill](https://osu.ppy.sh/users/682935)!
+Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/282291) hosted by ::Nyquill::{ user-id=682935 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/99/previews/2676.mp3" type="audio/mpeg">

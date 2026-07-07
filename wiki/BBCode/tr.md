@@ -300,6 +300,6 @@ Bu etiket kullanıcıları kendi hesapları üzerinden Google'da arama yapmaya y
 
 ## Ek bilgiler
 
-- Bu wiki makalesi [Stefan](https://osu.ppy.sh/users/626907) tarafından oluşturulan ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum gönderisinden uyarlanmıştır.
+- Bu wiki makalesi ::Stefan::{ user-id=626907 } tarafından oluşturulan ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum gönderisinden uyarlanmıştır.
 - Eskiden, kullanıcıların [renk etiketini](#renk) kullanarak ve eşittir sembolünden (`=`) sonra "transparent" (şeffaf) yazarak metni şeffaf hale getirmesini sağlayan bir kodlama hatası vardı.
   - Şu an itibariyle, böyle bir durum oluştuğunda metin varsayılan rengine (beyaz) geri dönüştürülür.

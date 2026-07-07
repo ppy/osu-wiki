@@ -9,7 +9,7 @@ tags:
 
 ![The Roundtable banner](/wiki/shared/news/2022-07-08-the-roundtable/roundtable_banner.png)
 
-**The Roundtable** was a 16 player in-person invitational event featuring various tournaments throughout its 3 day duration. The event was hosted in Los Angeles by ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691).
+**The Roundtable** was a 16 player in-person invitational event featuring various tournaments throughout its 3 day duration. The event was hosted in Los Angeles by ::{ flag=US }:: ::BTMC::{ user-id=3171691 }.
 
 ## Tournaments
 
@@ -26,15 +26,15 @@ tags:
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) |
-| Project manager | ::{ flag=US }:: [Kroytz](https://osu.ppy.sh/users/2339768), ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |
-| Commentator | ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) |
-| Referee | ::{ flag=US }:: [Tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387), ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Production | ::{ flag=RU }:: [DeadRote](https://osu.ppy.sh/users/7943969), ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=US }:: Albert Chang |
-| Designer | ::{ flag=US }:: [Flezlin](https://osu.ppy.sh/users/3696423), ::{ flag=US }:: [joiechii](https://osu.ppy.sh/users/9995116) |
-| Mappooler | ::{ flag=US }:: [Tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=FR }:: [Nerowo](https://osu.ppy.sh/users/8642284), ::{ flag=US }:: [ChaosRaidz](https://osu.ppy.sh/users/3715823), ::{ flag=FR }:: [Ekoro](https://osu.ppy.sh/users/284905), ::{ flag=PH }:: [BronyPH](https://osu.ppy.sh/users/1492995) |
-| Mappool playtester | ::{ flag=US }:: [Tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=PH }:: [BronyPH](https://osu.ppy.sh/users/1492995) |
-| Sheeter | ::{ flag=US }:: [clxxiii](https://osu.ppy.sh/users/10962678), ::{ flag=US }:: [iamab0b](https://osu.ppy.sh/users/19525343), ::{ flag=US }:: [Rekunan](https://osu.ppy.sh/users/8203119) |
+| Host | ::{ flag=US }:: ::BTMC::{ user-id=3171691 } |
+| Project manager | ::{ flag=US }:: ::Kroytz::{ user-id=2339768 }, ::{ flag=US }:: ::pishifat::{ user-id=3178418 } |
+| Commentator | ::{ flag=US }:: ::BTMC::{ user-id=3171691 } ::{ flag=US }:: ::HappyStick::{ user-id=256802 } |
+| Referee | ::{ flag=US }:: ::Tekkito::{ user-id=7075211 }, ::{ flag=US }:: ::D I O::{ user-id=3958619 }, ::{ flag=US }:: ::freddiiieeee::{ user-id=7112839 }, ::{ flag=US }:: ::\[K\]::{ user-id=16551387 }, ::{ flag=GB }:: ::ilw8::{ user-id=14167692 }, ::{ flag=GB }:: ::Yazzehh::{ user-id=7068973 } |
+| Production | ::{ flag=RU }:: ::DeadRote::{ user-id=7943969 }, ::{ flag=GB }:: ::ilw8::{ user-id=14167692 }, ::{ flag=US }:: Albert Chang |
+| Designer | ::{ flag=US }:: ::Flezlin::{ user-id=3696423 }, ::{ flag=US }:: ::joiechii::{ user-id=9995116 } |
+| Mappooler | ::{ flag=US }:: ::Tekkito::{ user-id=7075211 }, ::{ flag=US }:: ::D I O::{ user-id=3958619 }, ::{ flag=FR }:: ::Nerowo::{ user-id=8642284 }, ::{ flag=US }:: ::ChaosRaidz::{ user-id=3715823 }, ::{ flag=FR }:: ::Ekoro::{ user-id=284905 }, ::{ flag=PH }:: ::BronyPH::{ user-id=1492995 } |
+| Mappool playtester | ::{ flag=US }:: ::Tekkito::{ user-id=7075211 }, ::{ flag=PH }:: ::BronyPH::{ user-id=1492995 } |
+| Sheeter | ::{ flag=US }:: ::clxxiii::{ user-id=10962678 }, ::{ flag=US }:: ::iamab0b::{ user-id=19525343 }, ::{ flag=US }:: ::Rekunan::{ user-id=8203119 } |
 
 ## Links
 

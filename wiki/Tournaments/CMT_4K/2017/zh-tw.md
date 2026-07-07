@@ -29,12 +29,12 @@
 
 | 團隊 | 人員 |
 | --: | :-- |
-| 比賽經理 | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329)、::{ flag=CN }:: [Scslag](https://osu.ppy.sh/users/6705256) |
-| 比賽監督 | ::{ flag=CN }:: [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| 圖池管理團隊 | ::{ flag=GB }:: [Imperial Wolf](https://osu.ppy.sh/users/9080296)、::{ flag=TW }:: [Spy](https://osu.ppy.sh/users/1217122)、::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329) |
-| 直播裁判團隊 | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617)、::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363)、::{ flag=CN }:: [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
-| 解說團隊 | ::{ flag=CN }:: [hans1999](https://osu.ppy.sh/users/6679329)、::{ flag=CN }:: [Scslag](https://osu.ppy.sh/users/6705256)、::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363)、::{ flag=CN }:: [644520858](https://osu.ppy.sh/users/5507069)、::{ flag=CN }:: [wuhuanmin](https://osu.ppy.sh/users/935322) |
-| Wiki 制作、維護 | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/kj415j45)、 ::{ flag=CN }:: [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
+| 比賽經理 | ::{ flag=CN }:: ::hans1999::{ user-id=6679329 }、::{ flag=CN }:: ::Scslag::{ user-id=6705256 } |
+| 比賽監督 | ::{ flag=CN }:: ::SSV Normandy::{ user-id=6475977 } |
+| 圖池管理團隊 | ::{ flag=GB }:: ::Imperial Wolf::{ user-id=9080296 }、::{ flag=TW }:: ::Spy::{ user-id=1217122 }、::{ flag=CN }:: ::hans1999::{ user-id=6679329 } |
+| 直播裁判團隊 | ::{ flag=CN }:: ::aiyulu::{ user-id=189617 }、::{ flag=CN }:: ::Rasis::{ user-id=1209363 }、::{ flag=CN }:: ::Ookura Asahi::{ user-id=4786951 } |
+| 解說團隊 | ::{ flag=CN }:: ::hans1999::{ user-id=6679329 }、::{ flag=CN }:: ::Scslag::{ user-id=6705256 }、::{ flag=CN }:: ::Rasis::{ user-id=1209363 }、::{ flag=CN }:: ::644520858::{ user-id=5507069 }、::{ flag=CN }:: ::wuhuanmin::{ user-id=935322 } |
+| Wiki 制作、維護 | ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/kj415j45)、 ::{ flag=CN }:: ::Ookura Asahi::{ user-id=4786951 } |
 
 ## 比賽直播間
 

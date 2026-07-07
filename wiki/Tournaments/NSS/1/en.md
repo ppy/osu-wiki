@@ -7,7 +7,7 @@ tags:
 
 ![Main NSS banner](img/logo.png)
 
-The **Nordic Summer Showdown** (***NSS***) was a 1v1 double-elimination tournament hosted by ::{ flag=DK }:: [niat0004](https://osu.ppy.sh/users/10797776) and ::{ flag=SE }:: [noexcept](https://osu.ppy.sh/users/10635629).
+The **Nordic Summer Showdown** (***NSS***) was a 1v1 double-elimination tournament hosted by ::{ flag=DK }:: ::niat0004::{ user-id=10797776 } and ::{ flag=SE }:: ::noexcept::{ user-id=10635629 }.
 
 ## Tournament schedule
 
@@ -33,18 +33,18 @@ The **Nordic Summer Showdown** (***NSS***) was a 1v1 double-elimination tourname
 
 | Role | Staff |
 | :-- | :-- |
-| Host | ::{ flag=DK }:: [niat0004](https://osu.ppy.sh/users/10797776), ::{ flag=SE }:: [noexcept](https://osu.ppy.sh/users/10635629) |
-| Admin | ::{ flag=DK }:: [niat0004](https://osu.ppy.sh/users/10797776), ::{ flag=UA }:: [intermezzo_](https://osu.ppy.sh/users/9618786), ::{ flag=SE }:: [noexcept](https://osu.ppy.sh/users/10635629), ::{ flag=GR }:: [pan_har](https://osu.ppy.sh/users/26660680), ::{ flag=RU }:: [uhm_](https://osu.ppy.sh/users/20636251) |
-| Moderator | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) |
-| GFX | ::{ flag=IN }:: [Raybean](https://osu.ppy.sh/users/16676388) |
-| Sheeter | ::{ flag=US }:: [artemmmmmm](https://osu.ppy.sh/users/30604059), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521), ::{ flag=GB }:: [spooks](https://osu.ppy.sh/users/13703478) |
-| Mappooler | ::{ flag=SE }:: [noexcept](https://osu.ppy.sh/users/10635629), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521), ::{ flag=RU }:: [uhm_](https://osu.ppy.sh/users/20636251) |
-| Mapper | ::{ flag=UA }:: [intermezzo_](https://osu.ppy.sh/users/9618786), ::{ flag=SE }:: [noexcept](https://osu.ppy.sh/users/10635629), ::{ flag=US }:: [bokeru](https://osu.ppy.sh/users/11308433) |
-| Replayer | ::{ flag=SE }:: [Gauntor](https://osu.ppy.sh/users/21462719), ::{ flag=KZ }:: [dxprxsslve](https://osu.ppy.sh/users/15961784), ::{ flag=DE }:: [GermanysButcher](https://osu.ppy.sh/users/17328937), ::{ flag=RU }:: [joyin1211](https://osu.ppy.sh/users/14312709), ::{ flag=UA }:: [KEKW_](https://osu.ppy.sh/users/11731667), ::{ flag=SE }:: [noexcept](https://osu.ppy.sh/users/10635629), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521), ::{ flag=RU }:: [TOPXVLAD](https://osu.ppy.sh/users/12704509), ::{ flag=RU }:: [uhm_](https://osu.ppy.sh/users/20636251), ::{ flag=US }:: [WheelsWaz](https://osu.ppy.sh/users/21404004) |
-| Map suggester | ::{ flag=SE }:: [Gauntor](https://osu.ppy.sh/users/21462719), ::{ flag=RU }:: [joyin1211](https://osu.ppy.sh/users/14312709), ::{ flag=DK }:: [niat0004](https://osu.ppy.sh/users/10797776), ::{ flag=SE }:: [noexcept](https://osu.ppy.sh/users/10635629), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521), ::{ flag=ID }:: [Rav_](https://osu.ppy.sh/users/18348230), ::{ flag=RU }:: [uhm_](https://osu.ppy.sh/users/20636251), ::{ flag=US }:: [WheelsWaz](https://osu.ppy.sh/users/21404004), ::{ flag=KZ }:: [dxprxsslve](https://osu.ppy.sh/users/15961784), ::{ flag=US }:: [Kamoonrahha](https://osu.ppy.sh/users/31494016) |
-| Referee | ::{ flag=RU }:: [joyin1211](https://osu.ppy.sh/users/14312709), ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731), ::{ flag=BY }:: [Amamiya Mitoro](https://osu.ppy.sh/users/11037294), ::{ flag=DK }:: [niat0004](https://osu.ppy.sh/users/10797776), ::{ flag=SE }:: [noexcept](https://osu.ppy.sh/users/10635629), ::{ flag=FI }:: [sph3re](https://osu.ppy.sh/users/21073465), ::{ flag=GB }:: [spooks](https://osu.ppy.sh/users/13703478), ::{ flag=RU }:: [uhm_](https://osu.ppy.sh/users/20636251) |
-| Streamer | ::{ flag=SE }:: [noexcept](https://osu.ppy.sh/users/10635629), ::{ flag=DK }:: [Yunozaku61](https://osu.ppy.sh/users/17795665) |
-| Commentator | ::{ flag=RU }:: [joyin1211](https://osu.ppy.sh/users/14312709), ::{ flag=SE }:: [noexcept](https://osu.ppy.sh/users/10635629), ::{ flag=RU }:: [uhm_](https://osu.ppy.sh/users/20636251) |
+| Host | ::{ flag=DK }:: ::niat0004::{ user-id=10797776 }, ::{ flag=SE }:: ::noexcept::{ user-id=10635629 } |
+| Admin | ::{ flag=DK }:: ::niat0004::{ user-id=10797776 }, ::{ flag=UA }:: ::intermezzo\1::{ user-id=9618786 }, ::{ flag=SE }:: ::noexcept::{ user-id=10635629 }, ::{ flag=GR }:: ::pan\1har::{ user-id=26660680 }, ::{ flag=RU }:: ::uhm\1::{ user-id=20636251 } |
+| Moderator | ::{ flag=FI }:: ::Laurakko::{ user-id=7253731 } |
+| GFX | ::{ flag=IN }:: ::Raybean::{ user-id=16676388 } |
+| Sheeter | ::{ flag=US }:: ::artemmmmmm::{ user-id=30604059 }, ::{ flag=PL }:: ::P a t r i c k::{ user-id=6814521 }, ::{ flag=GB }:: ::spooks::{ user-id=13703478 } |
+| Mappooler | ::{ flag=SE }:: ::noexcept::{ user-id=10635629 }, ::{ flag=PL }:: ::P a t r i c k::{ user-id=6814521 }, ::{ flag=RU }:: ::uhm\1::{ user-id=20636251 } |
+| Mapper | ::{ flag=UA }:: ::intermezzo\1::{ user-id=9618786 }, ::{ flag=SE }:: ::noexcept::{ user-id=10635629 }, ::{ flag=US }:: ::bokeru::{ user-id=11308433 } |
+| Replayer | ::{ flag=SE }:: ::Gauntor::{ user-id=21462719 }, ::{ flag=KZ }:: ::dxprxsslve::{ user-id=15961784 }, ::{ flag=DE }:: ::GermanysButcher::{ user-id=17328937 }, ::{ flag=RU }:: ::joyin1211::{ user-id=14312709 }, ::{ flag=UA }:: ::KEKW\1::{ user-id=11731667 }, ::{ flag=SE }:: ::noexcept::{ user-id=10635629 }, ::{ flag=PL }:: ::P a t r i c k::{ user-id=6814521 }, ::{ flag=RU }:: ::TOPXVLAD::{ user-id=12704509 }, ::{ flag=RU }:: ::uhm\1::{ user-id=20636251 }, ::{ flag=US }:: ::WheelsWaz::{ user-id=21404004 } |
+| Map suggester | ::{ flag=SE }:: ::Gauntor::{ user-id=21462719 }, ::{ flag=RU }:: ::joyin1211::{ user-id=14312709 }, ::{ flag=DK }:: ::niat0004::{ user-id=10797776 }, ::{ flag=SE }:: ::noexcept::{ user-id=10635629 }, ::{ flag=PL }:: ::P a t r i c k::{ user-id=6814521 }, ::{ flag=ID }:: ::Rav\1::{ user-id=18348230 }, ::{ flag=RU }:: ::uhm\1::{ user-id=20636251 }, ::{ flag=US }:: ::WheelsWaz::{ user-id=21404004 }, ::{ flag=KZ }:: ::dxprxsslve::{ user-id=15961784 }, ::{ flag=US }:: ::Kamoonrahha::{ user-id=31494016 } |
+| Referee | ::{ flag=RU }:: ::joyin1211::{ user-id=14312709 }, ::{ flag=FI }:: ::Laurakko::{ user-id=7253731 }, ::{ flag=BY }:: ::Amamiya Mitoro::{ user-id=11037294 }, ::{ flag=DK }:: ::niat0004::{ user-id=10797776 }, ::{ flag=SE }:: ::noexcept::{ user-id=10635629 }, ::{ flag=FI }:: ::sph3re::{ user-id=21073465 }, ::{ flag=GB }:: ::spooks::{ user-id=13703478 }, ::{ flag=RU }:: ::uhm\1::{ user-id=20636251 } |
+| Streamer | ::{ flag=SE }:: ::noexcept::{ user-id=10635629 }, ::{ flag=DK }:: ::Yunozaku61::{ user-id=17795665 } |
+| Commentator | ::{ flag=RU }:: ::joyin1211::{ user-id=14312709 }, ::{ flag=SE }:: ::noexcept::{ user-id=10635629 }, ::{ flag=RU }:: ::uhm\1::{ user-id=20636251 } |
 
 ## Links
 
@@ -61,21 +61,21 @@ Listed below are all participants who played Qualifiers. Note that only the best
 
 | Seed no. | Player | Average rank | Average score |
 | :-: | :-- | :-- | :-- |
-| 1 | ::{ flag=FI }:: [Giguel69](https://osu.ppy.sh/users/22206304) | 3.64 | 772,385 |
-| 2 | ::{ flag=SE }:: [Myztical_](https://osu.ppy.sh/users/9019735) | 4.36 | 704,275 |
-| 3 | ::{ flag=NO }:: [B5Y](https://osu.ppy.sh/users/14406926) | 5.64 | 614,249 |
-| 4 | ::{ flag=NO }:: [Haibane](https://osu.ppy.sh/users/11929613) | 5.73 | 611,224 |
-| 5 | ::{ flag=DK }:: [BreakingSliders](https://osu.ppy.sh/users/21581772) | 5.82 | 625,690 |
-| 6 | ::{ flag=FI }:: [Nikva](https://osu.ppy.sh/users/21353706) | 6.36 | 585,612 |
-| 7 | ::{ flag=SE }:: [Johnney101](https://osu.ppy.sh/users/11928361) | 6.45 | 598,375 |
-| 8 | ::{ flag=FI }:: [Rainbow jb](https://osu.ppy.sh/users/18256408) | 8.00 | 477,607 |
-| 9 | ::{ flag=DK }:: [Rurup](https://osu.ppy.sh/users/16366097) | 8.27 | 541,566 |
-| 10 | ::{ flag=FI }:: [Allegro](https://osu.ppy.sh/users/3452993) | 9.18 | 441,947 |
-| 11 | ::{ flag=SE }:: [Djurgarden](https://osu.ppy.sh/users/17113663) | 9.45 | 407,964 |
-| 12 | ::{ flag=NO }:: [MrW0ong](https://osu.ppy.sh/users/12292635) | 9.55 | 404,262 |
-| 13 | ::{ flag=SE }:: [vimun](https://osu.ppy.sh/users/20944760) | 11.36 | 316,169 |
-| 14 | ::{ flag=DK }:: [gantiawp](https://osu.ppy.sh/users/11670817) | 11.82 | 314,505 |
-| 15 | ::{ flag=DK }:: [Yunozaku61](https://osu.ppy.sh/users/17795665) | 14.36 | 169,855 |
+| 1 | ::{ flag=FI }:: ::Giguel69::{ user-id=22206304 } | 3.64 | 772,385 |
+| 2 | ::{ flag=SE }:: ::Myztical\1::{ user-id=9019735 } | 4.36 | 704,275 |
+| 3 | ::{ flag=NO }:: ::B5Y::{ user-id=14406926 } | 5.64 | 614,249 |
+| 4 | ::{ flag=NO }:: ::Haibane::{ user-id=11929613 } | 5.73 | 611,224 |
+| 5 | ::{ flag=DK }:: ::BreakingSliders::{ user-id=21581772 } | 5.82 | 625,690 |
+| 6 | ::{ flag=FI }:: ::Nikva::{ user-id=21353706 } | 6.36 | 585,612 |
+| 7 | ::{ flag=SE }:: ::Johnney101::{ user-id=11928361 } | 6.45 | 598,375 |
+| 8 | ::{ flag=FI }:: ::Rainbow jb::{ user-id=18256408 } | 8.00 | 477,607 |
+| 9 | ::{ flag=DK }:: ::Rurup::{ user-id=16366097 } | 8.27 | 541,566 |
+| 10 | ::{ flag=FI }:: ::Allegro::{ user-id=3452993 } | 9.18 | 441,947 |
+| 11 | ::{ flag=SE }:: ::Djurgarden::{ user-id=17113663 } | 9.45 | 407,964 |
+| 12 | ::{ flag=NO }:: ::MrW0ong::{ user-id=12292635 } | 9.55 | 404,262 |
+| 13 | ::{ flag=SE }:: ::vimun::{ user-id=20944760 } | 11.36 | 316,169 |
+| 14 | ::{ flag=DK }:: ::gantiawp::{ user-id=11670817 } | 11.82 | 314,505 |
+| 15 | ::{ flag=DK }:: ::Yunozaku61::{ user-id=17795665 } | 14.36 | 169,855 |
 
 ## Podium
 
@@ -83,9 +83,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FI }:: [Giguel69](https://osu.ppy.sh/users/22206304) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NO }:: [Haibane](https://osu.ppy.sh/users/11929613) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=SE }:: [Johnney101](https://osu.ppy.sh/users/11928361) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FI }:: ::Giguel69::{ user-id=22206304 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NO }:: ::Haibane::{ user-id=11929613 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=SE }:: ::Johnney101::{ user-id=11928361 } |
 
 ## Mappools
 
