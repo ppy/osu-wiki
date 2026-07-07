@@ -1,6 +1,6 @@
 # 每日挑战
 
-**每日挑战**是 [osu!(lazer)](/wiki/Client/Release_stream/lazer) 里面的一种多人模式，其中玩家可以通关连胜一系列越来越难的每日谱面，而谱面每七天会重置。
+**每日挑战**是 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 里面的一种多人模式，其中玩家可以通关连胜一系列越来越难的每日谱面，而谱面每七天会重置。
 
 挑战中的谱面由一群贡献者组成的小组选出。有时候谱面会以特定音乐类型、艺术家或一个技巧为主题。在每个月月末，有一周会用来突出展示上个月的高质量谱面，这一过程由[审核评估团队](/wiki/People/Nomination_Assessment_Team)中的几位成员负责。
 
@@ -65,5 +65,5 @@
 :::
 
 - 每日挑战这一创意来自 waxxx14 在 lazer 开发视频[“决定要在 lazer 干什么”](https://www.youtube.com/watch?v=xUSxEjQQ1UI)下面的留言，希望在 osu! 中加入[赛道狂飙](https://en.wikipedia.org/wiki/TrackMania)中的“每日杯”模式。
-- 每日挑战于 2024 年 7 月 25 日在 osu!(lazer) 公开版本 [2024.725.0](https://osu.ppy.sh/home/changelog/lazer/2024.725.0) 中向公众推出，只能用 [osu! 游戏模式](wiki/Game_mode/osu!)游玩。
+- 每日挑战于 2024 年 7 月 25 日在 osu!(lazer) 公开版本 [2024.725.0](https://osu.ppy.sh/home/changelog/lazer/2024.725.0) 中向公众推出，只能用 [osu! 游戏模式](/wiki/Game_mode/osu!)游玩。
 - 在最初版本里，模组不能自由选择，而且总共通关次数和累计分数总和于后期更新才加入。
