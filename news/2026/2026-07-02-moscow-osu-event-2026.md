@@ -13,7 +13,7 @@ The fourth iteration of the largest osu! event in Russia is coming later this mo
 
 This year's Moscow osu! Event (MOE) will once again take place at Mosproducer, a concert hall situated at the centre of Moscow, Russia.
 
-If you are unfamiliar with the Russia's biggest osu! event, take a look at some of the things awaiting you:
+If you are unfamiliar with Russia's biggest osu! event, take a look at some of the things awaiting you:
 
 ### Tournaments
 
@@ -59,4 +59,4 @@ We hope to see you with us on July, 25–26th. If you are unable to attend, feel
 
 See you soon!
 
-—RobotSkin\_ and the rest of Moscow osu! Event team
+—RobotSkin\_ and the rest of the Moscow osu! Event team
