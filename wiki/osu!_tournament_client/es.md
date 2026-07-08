@@ -15,7 +15,7 @@ Abre el cliente para torneos de osu! y verás esta pantalla de configuración:
 ![Pantalla de configuración del cliente para torneos](img/setup-screen.png)
 
 - Asegúrate de que `Current IPC source` coincida con la ubicación de la instancia de osu!tourney que usarás.
-- Inicia sesión en osu!(lazer) haciendo clic en `Change Login`.
+- Inicia sesión en osu!(lazer) haciendo clic en `Change sign-in`.
 - Establece el ruleset correcto usando el menú desplegable.
 - Cambia la altura para que coincida con el parámetro `Height` establecido en el archivo `tournament.cfg` de osu!tourney.
 
@@ -31,6 +31,12 @@ Dentro de la configuración de un torneo, se pueden proporcionar los recursos ne
   - Flags
   - Mods
   - Videos
+
+Para gestionar los detalles del torneo, usa las herramientas disponibles dentro del cliente:
+
+- `Team Editor`: Edita equipos y jugadores.
+- `Rounds Editor`: Gestiona las rondas y los mappools.
+- `Bracket Editor`: Crea nuevos partidos y gestiona los equipos, las rondas y el tiempo de cada partido.
 
 ## Personalización
 
@@ -68,11 +74,13 @@ Los archivos de vídeo deben colocarse en `<tu-torneo>/Videos` y se requieren no
 | Escena | Archivo(s) |
 | :-- | :-- |
 | Calendario | `schedule` |
+| Bracket | `ladder` |
 | Introducción de los equipos | `teamintro` |
 | Clasificación de grupos | `seeding` |
-| MapPool | `mappool` |
+| Map Pool | `mappool` |
 | En una partida | `gameplay` |
 | Pantalla de resultados | `teamwin-red`, `teamwin-blue` |
-| Sorteo de los equipos | `main` |
+| Sorteo de los equipos | `drawings` |
 | Presentación | `showcase` |
-| Llave del torneo | `ladder` |
+
+El archivo de vídeo llamado `main` se usará como fondo predeterminado hasta que sea reemplazado por uno de los archivos de vídeo mencionados anteriormente.

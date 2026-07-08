@@ -14,11 +14,11 @@ tags:
 
 *Nicht zu verwechseln mit [Double-Tapping](/wiki/Gameplay/Play_style/Double_tapping).*
 
-**Alternating** (auf Deutsch *abwechselnd*) ist ein Tippstil für [osu!](/wiki/Game_mode/osu!), bei dem Spieler durch das Alternieren zwischen zwei eingestellten Tasten auf ihrer Tastatur (standardmäßig `Z` und `X`) Circles klicken, Slider verschieben und Spinner spinnen, um dadurch jedes zweite [Hit-Objekt](/wiki/Gameplay/Hit_object) zu treffen. Der Name kommt durch den Wechsel zwischen den Tasten. Dieser Stil ist am meisten verbreitet unter erfahrenen Spielern und verlangt eine der schwierigsten Anpassungen.
+**Alternating** (auf Deutsch *abwechselnd*) ist ein Tippstil für [osu!](/wiki/Game_mode/osu!), bei dem Spieler durch das Alternieren zwischen zwei eingestellten Tasten auf ihrer Tastatur (standardmäßig `Z` und `X`) Circles klicken, Slider verschieben und Spinner spinnen, um dadurch jedes zweite [Hit-Objekt](/wiki/Gameplay/Hit_object) zu treffen. Der Name kommt durch den Wechsel zwischen den Tasten. Dieser Stil ist am meisten verbreitet unter erfahrenen Spielern und ist sehr schwierig zu erlernen.
 
 ## Verwendung
 
-Alternating hat eine große Vielfalt an Anwendungen und seine Formen können von Spieler zu Spieler variieren. Zum Beispiel wechseln viele Spieler, die abwechselnd die Tasten drücken, zwischen `Z` und `X` (auf dem deutschen Tastaturlayout wählen die meisten `Y` und `X`) auf jeder zweiten Note (oder Hit-Objekt), während andere hingegen die Tasten nach jedem zweiten oder dritten Hit-Objekt wechseln. Es sollte erwähnt werden, dass manche Spieler die meiste Zeit alternieren, aber manchmal dieselbe Taste zweimal drücken, wenn ein Hit-Objekt den Spieler überrascht. Das liegt alles an den persönlichen Vorlieben.
+Alternating hat eine große Vielfalt an Anwendungen und seine Formen können von Spieler zu Spieler variieren. Zum Beispiel wechseln viele Spieler, die abwechselnd die Tasten drücken, zwischen `Z` und `X` (auf dem deutschen Tastaturlayout wählen die meisten `Y` und `X`) auf jeder zweiten Note (oder Hit-Objekt), während andere hingegen die Tasten nach jedem zweiten oder dritten Hit-Objekt wechseln. Es sollte erwähnt werden, dass manche Spieler die meiste Zeit alternieren, aber manchmal dieselbe Taste zweimal drücken, wenn ein Hit-Objekt den Spieler überrascht. Das hängt mit den persönlichen Vorlieben zusammen.
 
 In ähnlicher Weise bevorzugen manche Spieler ihre Tasten mit dem Zeige- und Mittelfinger zu tippen, während andere ihren Zeige- und Ringfinger benutzen. Spieler mit Zeige- und Ringfinger werden typischerweise ihre Tasten mit einem größeren Abstand voneinander einstellen, um die größere Lücke auszugleichen. Zum Beispiel kann anstatt `Y` und `X` mit `Y` und `C` gespielt werden.
 
