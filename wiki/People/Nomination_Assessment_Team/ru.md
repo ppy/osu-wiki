@@ -4,7 +4,7 @@ tags:
   - нат
   - наты
 outdated_translation: true
-outdated_since: 9f5515183469f804c26459f564d04ce2b03f0015
+outdated_since: 9b1af3bcbc538a7e501bce965877ed8eb3467b94
 ---
 
 # Команда оценки номинаций
@@ -146,6 +146,7 @@ NAT самостоятельно отслеживает появление но�
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Русский |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Французский, испанский |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Китайский |
+| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Румынский |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Немецкий |
 
@@ -163,10 +164,10 @@ NAT самостоятельно отслеживает появление но�
 
 | Имя | Языки |
 | :-- | :-- |
-| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Испанский, немецкий |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Голландский |
+| ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Немецкий |
+| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Корейский |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Корейский |
 
 #### osu!mania
 
@@ -187,13 +188,13 @@ NAT самостоятельно отслеживает появление но�
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Ведение внутренних дел и документации |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Управление программой менторства номинаторов |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Разработка [Nomination Planner](https://bnplanner.greaper.net/beatmaps) и [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Разработка [сайта по работе с номинаторами](https://bn.mappersguild.com) |
 
 Участники NAT, перечисленные ниже, преимущественно заняты аттестацией номинаторов, но также участвуют в организационных делах:
 
 | Пользователь | Роль |
 | :-- | :-- |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Разработка [Nomination Planner](https://bnplanner.greaper.net/beatmaps) и [поддержка osu!catch в Mapset Verifier](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Лидерство NAT, разработка [сайта по работе с номинаторами](https://bn.mappersguild.com) и [поддержка osu!taiko в Mapset Verifier](https://github.com/Hiviexd/MVTaikoChecks) |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Рассмотрение жалоб на содержимое карт и [поддержка osu!mania в Mapset Verifier](https://github.com/MChecaH/ManiaCheck) |
 

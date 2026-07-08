@@ -130,7 +130,7 @@ osu! 的游玩基于*[押忍！战斗！应援团](https://zh.wikipedia.org/wiki
       - 计时器是转盘外缘的变色圆圈。当计时圈的颜色完全改变时，转盘就会结束。
 - 在线排行榜启用当天（2007 年 10 月 7 日），最先上架的三张谱面是：
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1)，即 `discoprince`；显然是在约一小时内作好的图。
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 )，即 `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`。
+  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3)，即 `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`。
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16)，即 `Brandy - Love Fighter`。
 - 值得注意的是，旧谱面的文件夹有自己的命名约定（这样的文件夹名只能在*早期*谱面包中找到），并未严格遵循目前强制使用的`{谱面集 ID} {艺术家名} - {谱面名}`格式。
   - 无论如何，从 osu! 网站的谱面列表上直接下载的谱面都遵循目前强制使用的命名格式。

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9b1af3bcbc538a7e501bce965877ed8eb3467b94
+---
+
 # osu! Alumni
 
 Gli **osu! Alumni** sono coloro che sono conosciuti per i loro contributi che se ne sono andati. Quando avremo le risorse ereggeremo una statua per ciascun membro nella piazza della città.

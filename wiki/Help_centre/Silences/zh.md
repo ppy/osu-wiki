@@ -1,30 +1,40 @@
+---
+tags:
+  - mute
+  - timeout
+  - chat ban
+  - 禁言
+  - 超时
+  - 聊天封禁
+---
+
 # 禁言
 
-**禁言** 是一个术语，即限制玩家在 osu! 社区内聊天活动的惩罚。[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 和 [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 成员可以禁言其他玩家，来保证网站和游戏内有一个和善文明的环境。
+**禁言** 是一个术语，即限制玩家在 osu! 社区内聊天活动的惩罚。[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 和 [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 的成员可以禁言其他玩家，保证网站上和游戏内环境的和善文明。
 
 ## 限制
 
 ::: Infobox
-![](img/silence-profile-ZH.png "个人主页的被禁言记录")
+![](img/silence-profile-ZH.png?1 "个人主页的被禁言记录")
 :::
 
-处于禁言状态的玩家不能：
+处于被禁言状态的玩家不能：
 
-- 使用任何形式的[聊天](/wiki/Client/Interface/Chat_console)，这包含了公共频道和私密频道、也包含了游戏内和网站内。
+- 使用任何形式的公共或私密[聊天](/wiki/Client/Interface/Chat_console)，无论是游戏内还是网站内。
 - 在任何 osu! 论坛里发帖。
 - 在网站可评论的地方评论（谱面、更新日志、新闻的讨论区）。
 - 参与[谱面讨论](/wiki/Beatmap_discussion)。
 - 编辑个人资料，更换头像、封面、个人主页。
-- 发布和更新谱面。
+- 提交和更新谱面。
 - 参与[多人游戏](/wiki/Client/Interface/Multiplayer)。
-
-除此之外，禁言还会删除被禁言玩家曾发表在所有聊天频道和私人对话中的消息。[^chat-cleanup]
 
 ::: Infobox
 ![](img/silence-ingame.png "聊天页面的禁言警告")
 :::
 
-当玩家被禁言后，他们在聊天内发送的所有消息都会被移除，并且在他们的消息发送框内会展示一条警告，其中包含了禁言状态的持续时长。[^chat-cleanup]
+一旦玩家被禁言，他们在聊天内发送的所有消息将被移除，并且在他们的消息发送框内会展示一条警告，其中包含其禁言状态的持续时长。[^chat-cleanup]
+
+禁言被施加后，玩家的个人主页的 `账号状态` 栏目会公开显示该禁言记录，并在禁言结束后继续显示 28 天。如果当前禁言正在生效中，该栏目还会显示剩余的禁言时长。如果玩家目前可见的禁言记录有 3 条或以上，或者存在一条持续时间为 43 小时或更长的可见禁言记录，那么该栏目还会显示关于玩家账号状态的警告。
 
 ## 时长
 
@@ -56,9 +66,15 @@
 
 ## 申诉
 
-尽管禁言是为了确保一个积极的社区环境，但在执行时也可能出错。如果您认为您受到的禁言处罚存在错误或不合理，请通过 [accounts@ppy.sh](mailto:accounts@ppy.sh)，友善联系[账号支持团队](/wiki/People/Account_support_team#accounts@ppy.sh)并说明详细情况。
+尽管禁言是为了确保一个积极的社区环境，但在执行时也可能出错。如果您认为您受到的禁言处罚存在错误或不合理，请通过 [accounts@ppy.sh](mailto:accounts@ppy.sh)，友善联系[账号支持团队](/wiki/People/Account_support_team#accounts@ppy.sh)并说明详细情况。你还可以向他们询问关于你被禁言的原因的详细解释。
 
 请记住，您必须使用您当前 osu! 账户内绑定的邮箱地址联系，并注明您的用户名以确认身份。
+
+## 如何避免被禁言？
+
+认真阅读并遵守[规章制度](/wiki/Rules)、[视觉内容注意事项](/wiki/Rules/Visual_content_considerations)、[歌曲内容规定](/wiki/Rules/Song_content_rules)以及[行为准则：摸图和作图](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)。如果你不确定你想做或者说的事情是否会违反规章制度，请询问[全局管理团队 (GMT) 的成员](https://osu.ppy.sh/groups/4)。
+
+另外，如果你认为你有一条旧论坛帖子、谱面、评论或者其他内容包含不当内容，如果你可以的话，最好直接删掉它或者编辑掉那些不当内容。如果你由于某种原因无法删除或者编辑它们，请联系一位全局管理团队 (GMT) 的成员来让他们帮忙移除。
 
 ## 参考
 

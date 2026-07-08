@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 7db101ba555502134cfcb73ccd205cb57716aa7c
+---
+
 # Beatmaps showcase des Featured Artists
 
 Les membres de la [Mappers' Guild](/wiki/Community/Mappers_Guild) peuvent occasionnellement créer des beatmaps exclusives en utilisant les musiques et autres éléments des [Featured Artists](/wiki/People/Featured_Artists) inédits d'osu!. Dès l'annonce de l'artiste correspondant, ces beatmaps sont mises en évidence dans les [newspost](https://osu.ppy.sh/home/news) et sont souvent promues sur le [compte Twitter @osugame](https://twitter.com/osugame).

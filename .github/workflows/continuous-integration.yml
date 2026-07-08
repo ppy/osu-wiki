@@ -15,16 +15,70 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  precondition:
+    name: Determine if CI should run
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+    outputs:
+      should_run_checks: ${{ steps.calc.outputs.should_run_checks }}
+    steps:
+      - name: Determine if CI should run
+        id: calc
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const action = context.payload.action;
+            if (action != 'edited') {
+              core.setOutput('should_run_checks', 'true');
+              console.log('PR status or contents have changed => will run checks');
+              return;
+            }
+
+            const FLAGS = ['SKIP_REMARK', 'SKIP_WIKILINK_CHECK'];
+            const oldBody = context.payload.changes?.body?.from || '';
+            const newBody = context.payload.pull_request?.body || '';
+            const hasChangedFlags = FLAGS.some(flag => oldBody.includes(flag) != newBody.includes(flag));
+            if (hasChangedFlags) {
+              console.log('PR flags have changed => will run checks');
+              core.setOutput('should_run_checks', 'true');
+              return;
+            }
+
+            // Only previously successful checks must be skipped. It is possible for a check to fail due to
+            // infrastructure issues or the contents of the PR; in this case, it must run as per usual instead of
+            // masking the error even if the flags haven't changed.
+
+            const { owner, repo } = context.repo;
+            const { data: thisRun } = await github.rest.actions.getWorkflowRun({
+              owner, repo, run_id: context.runId,
+            });
+            const { data } = await github.rest.actions.listWorkflowRuns({
+              owner, repo,
+              workflow_id: thisRun.workflow_id,
+              head_sha: context.payload.pull_request.head.sha,
+              status: 'completed',
+            });
+
+            const previous = data.workflow_runs.find(run => run.id !== context.runId);
+            console.info(
+              'Previous workflow run for this commit: ' + JSON.stringify(previous?.url) +
+                ', conclusion: ' + JSON.stringify(previous?.conclusion)
+            );
+
+            const isFailureOrUnknown = previous?.conclusion !== 'success';
+            core.setOutput('should_run_checks', String(isFailureOrUnknown));
+
   ci:
     name: changed files
+    needs: precondition
+    if: ${{ needs.precondition.outputs.should_run_checks == 'true' }}
     runs-on: ubuntu-latest
     steps:
+      # Clone the repo and only fetch the commit that triggered the workflow (omitted default of `fetch-depth: 1`).
+      # To get the full list of changed files and avoid `fetch-depth: 0` (fetches the whole history) or GitHub API
+      # (returns <=3,000 changed files), we manually fetch `master` later.
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: create master branch from remote master
-        run: git branch master origin/master
 
       - name: set up Node.js
         id: setup-node
@@ -44,21 +98,19 @@ jobs:
         if: ${{ steps.cache-node-modules.outputs.cache-hit != 'true' }}
         run: npm ci
 
-      - name: set up Python
-        uses: actions/setup-python@v5
-        with:
-          cache: pip
-          cache-dependency-path: requirements.txt
-          python-version: "3.11"
+      - name: Install package manager (Python)
+        uses: astral-sh/setup-uv@v7
 
-      - name: set up Python CI dependencies
-        run: pip install -r requirements.txt
+      - name: Install dependencies (Python)
+        run: uv sync
 
       - name: detect changed files
         id: detect-changed-files
+        # Use NUL as a separator to prevent filenames containing spaces and punctuation marks from tripping up the scripts.
         run: |
           changed_files="$(mktemp)"
-          git diff --diff-filter=d --name-only --no-renames -z master >"$changed_files"
+          git fetch --no-tags --depth=1 origin master
+          git diff --diff-filter=d --name-only --no-renames -z origin/master HEAD > "$changed_files"
           printf 'CHANGED_FILES=%s\n' "$changed_files" >>"$GITHUB_ENV"
 
       - name: check file sizes
@@ -74,9 +126,9 @@ jobs:
 
       - name: run yamllint on .yaml and .md files
         if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
-        run: osu-wiki-tools check-yaml
+        run: uv run osu-wiki-tools check-yaml --format github
 
       - name: find broken wikilinks
         if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
         continue-on-error: ${{ contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
-        run: osu-wiki-tools check-links --all
+        run: uv run osu-wiki-tools check-links --all --format github

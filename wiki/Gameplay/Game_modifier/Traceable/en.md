@@ -19,7 +19,7 @@ tags:
 |  |  |
 | :-- | :-- |
 | Acronym | TC |
-| Type | Fun |
+| Type | Difficulty Increase |
 | Game modes | ![][osu!] |
 | Score multiplier | 1.00x |
 | Status | Ranked |

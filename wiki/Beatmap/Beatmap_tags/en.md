@@ -18,9 +18,9 @@ These keywords can then be set as a filter in [song select](/wiki/Client/Interfa
 
 *Note: This feature is not available in osu!(stable).*
 
-**User tags** are tags that describe specific characteristics of a beatmap, such as its patterns or required skill sets. After achieving at least a C [grade](/wiki/Gameplay/Grade) on a beatmap, users are able to select and vote for user tags in the result screen in osu!(lazer). Upon receiving at least 5 upvotes, the respective user tag will be displayed in the beatmap information page.
+**User tags** are tags that describe specific characteristics of a beatmap, such as its patterns or required skill sets. After achieving at least a C [grade](/wiki/Gameplay/Grade) on a beatmap, users are able to select and vote for user tags in the result screen in osu!(lazer). Upon receiving at least 5 upvotes, the respective user tag will be displayed in the [beatmap information page](/wiki/Beatmap_information).
 
-To filter for beatmaps with certain user tags, click on the corresponding tag in the beatmap information page, or type in `tag="{name}"` in the beatmap listing where `{name}` is the name of any tag listed below.
+To filter for beatmaps with certain user tags, click on the corresponding tag in the [beatmap information page](/wiki/Beatmap_information), or type in `tag="{name}"` in the beatmap listing where `{name}` is the name of any tag listed below.
 
 The tables below list all user tags grouped by category as well as the game modes they are applicable in. Tags are currently sorted in the client alphabetically, but are planned to be manually sorted in the format below.
 
@@ -77,7 +77,7 @@ The tables below list all user tags grouped by category as well as the game mode
 | :-- | :-- | :-- |
 | [tech/slider tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fslider%20tech%22%22) | Tests uncommon skills involving sliders, such as heavy use of kicksliders or aim on complex slidershapes. | ![][osu!] |
 | [tech/aim control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | Patterns with velocity or direction changes which strongly go against a player\'s natural movement pattern. | ![][osu!] |
-| [tech/finger control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | Uses complex applications of rhythms in order to test the player\'s tapping ability. | ![][osu!] |
+| [tech/finger control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Ffinger%20control%22%22) | Uses complex applications of rhythms in order to test the player\'s tapping ability. | ![][osu!] |
 | [tech/complex snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fcomplex%20snap%22%22) | Maps that feature prominent usage of mixed or unusual snap divisors. | ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [tech/antiflow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fantiflow%22%22) | A map focused on strong direction or velocity changes that go against a player's natural movement pattern. | ![][osu!catch] |
 | [tech/flow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fflow%22%22) | A map focused on natural and intuitive movement patterns. | ![][osu!catch] |
@@ -125,7 +125,7 @@ The tables below list all user tags grouped by category as well as the game mode
 
 | Tag name | Description | Game mode |
 | :-- | :-- | :-- |
-| [style/symmetrical](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fsymmetrical%22%22) | Employs symmetry within the map design, often mirroring elements along the horizontal centreline. | ![][osu!] |
+| [style/symmetrical](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fsymmetrical%22%22) | Employs symmetry within the map design, often mirroring elements along the vertical centreline. | ![][osu!] |
 | [style/distance snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fdistance%20snap%22%22) | Uses osu's in-built distance snap feature for most/all of the map. | ![][osu!] |
 | [style/grid snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fgrid%20snap%22%22) | Objects are placed along a square grid, typically using osu!'s built-in grid snap feature. | ![][osu!] |
 | [style/hexgrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fhexgrid%22%22) | Objects are placed along a hexagonal grid. | ![][osu!] |
@@ -135,15 +135,15 @@ The tables below list all user tags grouped by category as well as the game mode
 | [style/messy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fmessy%22%22) | Visually chaotic and intentionally disorganised patterns, often involving many overlaps and unequal visual spacing between objects. | ![][osu!] |
 | [style/avant-garde](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Favant-garde%22%22) | Employs boundary-pushing and experimental philosophies to map design, often foregoing gameplay and aesthetic conventions to extreme measures. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [style/chordjack](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fchordjack%22%22) | Maps that feature evenly spaced chords, with several consecutive notes stacked on the same columns. | ![][osu!mania] |
-| [style/chordstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fchordstream%22%22) | Maps that make use of streams with a mix of differently-sized chords | ![][osu!mania] |
+| [style/chordstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fchordstream%22%22) | Maps that make use of streams with a mix of differently-sized chords. | ![][osu!mania] |
 | [style/convert](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fconvert%22%22) | A map that imitates the converted maps from osu!. | ![][osu!taiko] |
 | [style/convert](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fconvert%22%22) | A map that imitates the converted maps from osu!, where the structure and distances are irregular. | ![][osu!catch] |
 | [style/double bpm](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fdouble%20bpm%22%22) | A map that plays at double the speed than what the BPM indicates. | ![][osu!taiko] |
 | [style/dump](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fdump%22%22) | Maps that use groups of objects focusing more on the extension and intensity of the sounds, in contrast with using individual notes to follow each's sound timing accurately. | ![][osu!mania] |
 | [style/finisher-heavy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ffinisher-heavy%22%22) | Features finishers used in an unconventional manner or in large amounts. | ![][osu!taiko] |
 | [style/generic hybrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fgeneric%20hybrid%22%22) | Maps that feature the combination of both straightforward rice and Long Notes patterning. | ![][osu!mania] |
-| [style/handstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fhandstream%22%22) | Stream with a mix of 3-note sized chords | ![][osu!mania] |
-| [style/jumpstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fjumpstream%22%22) | Stream with a mix of 2-note sized chords | ![][osu!mania] |
+| [style/handstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fhandstream%22%22) | Stream with a mix of 3-note sized chords. | ![][osu!mania] |
+| [style/jumpstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fjumpstream%22%22) | Stream with a mix of 2-note sized chords. | ![][osu!mania] |
 | [style/LN coordination](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FLN%20coordination%22%22) | Maps which require holding multiple long notes simultaneously while hitting other patterns. | ![][osu!mania] |
 | [style/LN density](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FLN%20density%22%22) | Maps that feature dense long note streams without breaks. | ![][osu!mania] |
 | [style/LN mixed](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FLN%20mixed%22%22) | Maps that make use of multiple long note patterning styles. | ![][osu!mania] |
@@ -153,7 +153,7 @@ The tables below list all user tags grouped by category as well as the game mode
 | [style/mono-heavy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fmono-heavy%22%22) | Features monos used in large amounts. | ![][osu!taiko] |
 | [style/N+1](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FN%2B1%22%22) | A specific type of playstyle where the leftmost column is mapped independently from the rest of the columns, which otherwise form a standard playstyle. | ![][osu!mania] |
 | [style/o2jam](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fo2jam%22%22) | Map that mimics traditional mapping techniques usually found in O2jam charts. | ![][osu!mania] |
-| [style/quadstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fquadstream%22%22) | Stream with a mix of 4-note sized chords | ![][osu!mania] |
+| [style/quadstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fquadstream%22%22) | Stream with a mix of 4-note sized chords. | ![][osu!mania] |
 | [style/taikosu](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ftaikosu%22%22) | A map designed with both osu! and osu!taiko in mind. | ![][osu!taiko] |
 | [style/tiebreaker](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ftiebreaker%22%22) | Maps that contain most of the skill sets from different categories, and are usually longer than 5 minutes. | ![][osu!mania] |
 | [style/tnt](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ftnt%22%22) | A map that imitates the mapping style in Taiko No Tatsujin. | ![][osu!taiko] |
@@ -194,7 +194,7 @@ The tables below list all user tags grouped by category as well as the game mode
 | [additions/combo colours](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcombo%20colours%22%22) | Maps that adjust combo colours in conjunction with variations in the song, also referred to as colourhax. | ![][osu!] |
 | [additions/keysounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fkeysounds%22%22) | Contains hitsounds that use various pitched samples to create a melody, typically following one within the song. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [additions/custom skin](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | Utilizes custom skin elements and graphics. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [additions/hitsounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | A map that makes use of non-default hitsound samplesets. | ![][osu!taiko] |
+| [additions/hitsounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fhitsounds%22%22) | A map that makes use of non-default hitsound samplesets. | ![][osu!taiko] |
 
 ### Meta information tags
 
