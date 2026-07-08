@@ -16,11 +16,11 @@ Nhìn chung, hầu hết các bài nhạc đều có thể được sử dụng 
 
 ## Điều gì được tính là sử dụng nhiều từ ngữ tục tĩu?
 
-Việc sử dụng bất cứ từ tục tĩu nhẹ (hoặc một vài lần) là chưa đủ để một beatmap được gắn thẻ nội dung không phù hợp. Những beatmap với thể loại ngôn ngữ này có thể an toàn sử dụng mà không cần gắn thẻ explicit (18+), miễn là mức độ ngôn ngữ vẫn nằm trong phạm vi mà người ta có thể hợp lý mong đợi ở một nội dung được xếp loại là “cần có sự hướng dẫn của phụ huynh” (PG-13). Nếu có bất kỳ tranh cãi nào về việc điều này có phù hợp để đưa vào một bản nhạc cụ thể hay không, hãy mặc định rằng nó không phù hợp.
+Việc sử dụng các từ ngữ tục tĩu nhẹ (hoặc một vài lần) là chưa đủ để một beatmap được gắn thẻ là nội dung không phù hợp. Những beatmap với thể loại ngôn ngữ đó có thể an toàn sử dụng mà không cần gắn thẻ explicit (18+), miễn là mức độ ngôn ngữ vẫn nằm trong phạm vi mà người ta có thể hợp lý mong đợi ở một nội dung được xếp loại là “cần có sự hướng dẫn của phụ huynh” (PG-13). Nếu có các cuộc tranh cãi nào về việc liệu điều này có phù hợp để đưa vào một bản nhạc cụ thể hay không, hãy mặc định rằng nó không phù hợp.
 
 Việc sử dụng từ ngữ thô tục một cách kéo dài, có tính kích động nặng, lặp lại nhiều lần mới được xem là rõ ràng. 
 
-Ngoài ra, những cuộc thảo luận kéo dài và sôi nổi về các chủ đề gây tranh cãi, hoặc bất kỳ nội dung nào mà người bình thường có thể đáng giá là "quá nặng nề" nên được xem xét minh bạch. Một số (nhưng không phải tất cả) ví dụ như: 
+Thêm vào đó, những cuộc thảo luận kéo dài và sôi nổi về các chủ đề gây tranh cãi, hoặc bất kỳ nội dung nào mà người bình thường có thể đáng giá là "quá nặng nề" nên được xem xét minh bạch. Một số (nhưng không phải tất cả) ví dụ như: 
 
 - Hình ảnh, tác động, hậu quả của tự sát
 - Ám chỉ bạo lực nghiêm trọng
