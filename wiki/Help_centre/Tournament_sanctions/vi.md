@@ -4,7 +4,7 @@
 
 ## Lệnh cấm thi đấu
 
-Lệnh cấm thi đấu ngăn người chơi tham gia các giải đấu chính thức hoặc được hỗ trợ chính thức. Nó cũng giới hạn phạm vi mà người chơi đó có thể tham gia với vai trò nhân viên hay cung cấp các hình thức hỗ trợ khác cho những giải đấu này.
+Lệnh cấm thi đấu ngăn người chơi tham gia các giải đấu chính thức hoặc được hỗ trợ chính thức. Nó cũng giới hạn phạm vi mà người chơi đó có thể tham gia với vai trò nhân sự hay cung cấp các hình thức hỗ trợ khác cho những giải đấu này.
 
 Lệnh cấm thi đấu rất hiếm khi được áp dụng một cách riêng lẻ. Nhưng nói chung, hầu hết tất cả người chơi trở lại theo tiêu chuẩn kháng cáo đối với [hạn chế tài khoản](/wiki/Help_centre/Account_restrictions) sẽ phải chịu lệnh cấm có thời hạn kéo dài ít nhất một năm.
 
@@ -45,7 +45,7 @@ Thông tin về trạng thái lệnh cấm thi đấu của bạn có thể đư
 | Lý do cấm thi đấu | Thời gian | Ghi chú |
 | :-- | :-- | :-- |
 | Vi phạm quy tắc cộng đồng trong một giải đấu. | 1 tháng hoặc hơn | Có thể kéo dài hơn tùy theo quyết định của đội ngũ hỗ trợ tài khoản |
-| Thô tục với nhân viên hoặc lãng phí thời gian. | 1 tháng hoặc hơn |  |
+| Thô tục với nhân sự hoặc lãng phí thời gian. | 1 tháng hoặc hơn |  |
 | Hỗ trợ gian lận hoặc sử dụng nhiều tài khoản trong giải đấu | 6 tháng hoặc hơn |  |
 | Hành vi sai trái của người chơi trong giải đấu được hỗ trợ chính thức | 1-2 năm |  |
 | Quay lại theo điều khoản kháng cáo tiêu chuẩn | 1-2 năm | Có thể kéo dài hơn tùy theo quyết định của đội ngũ hỗ trợ tài khoản |
@@ -77,7 +77,7 @@ Lệnh cấm việc tổ chức ngăn cản người dùng trở thành người
 
 ## Cấm nhân sự giải đấu
 
-Lệnh cấm làm nhân sự giải đấu ngăn một người dùng trở thành nhân viên trong giải đấu được hỗ trợ chính thức, ngoại lệ đối với việc phát trực tuyến, bình luận viên hoặc thiết kế đồ họa.
+Lệnh cấm làm nhân sự giải đấu ngăn một người dùng trở thành nhân sự trong giải đấu được hỗ trợ chính thức, ngoại lệ đối với việc phát trực tuyến, bình luận viên hoặc thiết kế đồ họa.
 
 ## Tôi có thể kháng cáo lệnh xử phạt giải đấu không? {id=appeal}
 
