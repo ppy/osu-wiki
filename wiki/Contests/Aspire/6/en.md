@@ -57,7 +57,7 @@ Aspire 6 is run by various members of the [osu! team](/wiki/People/osu!_team).
 
 ## Registrations
 
-This table is updated once every few days. Last update was on 21 June 2026.
+This table is updated once every few days. Last update was on 9 July 2026.
 
 | Team | Members |
 | :-- | :-- |
@@ -100,14 +100,10 @@ This table is updated once every few days. Last update was on 21 June 2026.
 | The Greek Mappers | ::{ flag=GR }:: [KakashiSensei_](https://osu.ppy.sh/users/18254930), ::{ flag=GR }:: [Double_](https://osu.ppy.sh/users/20163454) |
 |  | ::{ flag=US }:: [WolfStarArtOSU](https://osu.ppy.sh/users/34821954) |
 |  | ::{ flag=US }:: [JinkusuSPL](https://osu.ppy.sh/users/32908054) |
-| No Authors Listed | ::{ flag=DE }:: [Tunnelblick](https://osu.ppy.sh/users/7737096), ::{ flag=US }:: [Utiba](https://osu.ppy.sh/users/11354436) |
 | Maid Enjoyer | ::{ flag=US }:: [Nightcor3](https://osu.ppy.sh/users/19173340) |
-| Formula 1 | ::{ flag=UA }:: [maxsd_ool](https://osu.ppy.sh/users/38568467), ::{ flag=RU }:: [Aceline_](https://osu.ppy.sh/users/16566480) |
 |  | ::{ flag=VN }:: [\[-Crazy Boy-\]](https://osu.ppy.sh/users/33849459) |
 |  | ::{ flag=RU }:: [732Edi_2](https://osu.ppy.sh/users/33122018) |
-| T4PULI_BABUL1 | ::{ flag=RU }:: [add222](https://osu.ppy.sh/users/14261013) |
 | CAMUSLAR | ::{ flag=AT }:: [Byakuyaa](https://osu.ppy.sh/users/38132593), ::{ flag=TR }:: [serpiente21](https://osu.ppy.sh/users/39660988) |
-| Grasii | ::{ flag=RO }:: [RyzeAims](https://osu.ppy.sh/users/19534518), ::{ flag=RO }:: [PoisonIce2000](https://osu.ppy.sh/users/19396960) |
 |  | ::{ flag=BR }:: [1_Miss_you_1](https://osu.ppy.sh/users/37663568) |
 | I AM. | ::{ flag=VN }:: [xiaomao](https://osu.ppy.sh/users/9829680) |
 | Joe Biden 🔜 RF15 | ::{ flag=TW }:: [\[ deleted \]](https://osu.ppy.sh/users/16341063), ::{ flag=NL }:: [Promachos](https://osu.ppy.sh/users/14069486) |
@@ -123,14 +119,13 @@ This table is updated once every few days. Last update was on 21 June 2026.
 |  | ::{ flag=DE }:: [0ppInOsu](https://osu.ppy.sh/users/12551840), ::{ flag=TH }:: [ohm002](https://osu.ppy.sh/users/4468239) |
 | BORN TO BEAT / WORLD IS A MAP / 音楽 Crash Em All 2026 / I am 2b / 3,215,697,262.574 BPM | ::{ flag=US }:: [-Arko](https://osu.ppy.sh/users/8802914), ::{ flag=US }:: [blixys](https://osu.ppy.sh/users/13015896) |
 |  | ::{ flag=VN }:: [StyxHavenVN](https://osu.ppy.sh/users/26175568) |
-| Synthesizer | ::{ flag=CN }:: [UTAU](https://osu.ppy.sh/users/13859320) |
 |  | ::{ flag=US }:: [TSMCARPALTUNNEL](https://osu.ppy.sh/users/35462249) |
 | doodle snoodles | ::{ flag=US }:: [chiga PT](https://osu.ppy.sh/users/38969729), ::{ flag=US }:: [nolo151](https://osu.ppy.sh/users/38184946) |
 | None | ::{ flag=AR }:: [Angelito24](https://osu.ppy.sh/users/29925688) |
 |  | ::{ flag=BR }:: [Thvhar](https://osu.ppy.sh/users/39987480) |
 | catadores de axilas 🙏 | ::{ flag=MX }:: [Pitxort](https://osu.ppy.sh/users/20565615), ::{ flag=MX }:: [FerRMZ](https://osu.ppy.sh/users/11086032) |
 | Potato Entretainment | ::{ flag=VE }:: [Draygon Fox](https://osu.ppy.sh/users/25302426), ::{ flag=VE }:: [brigidoc](https://osu.ppy.sh/users/12062228) |
-| codex | ::{ flag=BY }:: [DANILA058485](https://osu.ppy.sh/users/24885330) |
+| codex | ::{ flag=BY }:: [_defiance_](https://osu.ppy.sh/users/24885330) |
 |  | ::{ flag=UA }:: [efmos9](https://osu.ppy.sh/users/34364915) |
 | Double Bubble | ::{ flag=RU }:: [AkiraCX](https://osu.ppy.sh/users/14237716), ::{ flag=RU }:: [MyaFky](https://osu.ppy.sh/users/10040818) |
 |  | ::{ flag=RU }:: [perevod](https://osu.ppy.sh/users/19821599) |
@@ -144,6 +139,26 @@ This table is updated once every few days. Last update was on 21 June 2026.
 | The Tung Sahurs | ::{ flag=VN }:: [Nagabi](https://osu.ppy.sh/users/10352099), ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) |
 | Perchik | ::{ flag=RU }:: [misterio21](https://osu.ppy.sh/users/19513468), ::{ flag=NO }:: [MrSpiderGDRA](https://osu.ppy.sh/users/39232648) |
 |  | ::{ flag=IS }:: [Geiri YT](https://osu.ppy.sh/users/15011371) |
+| DDLC Rom | ::{ flag=RO }:: [Kat_explodes](https://osu.ppy.sh/users/26376228), ::{ flag=RO }:: [hello_lol420](https://osu.ppy.sh/users/27609690) |
+|  | ::{ flag=BE }:: [Piorunochron](https://osu.ppy.sh/users/36414563) |
+| 67 | ::{ flag=US }:: [FLP](https://osu.ppy.sh/users/21730175) |
+| dauylpaz | ::{ flag=KZ }:: [tadahitotsu](https://osu.ppy.sh/users/11653544) |
+| Ça casse pas trois pattes à un canard | ::{ flag=BR }:: [Jacques](https://osu.ppy.sh/users/6599241), ::{ flag=FR }:: [SaYa-](https://osu.ppy.sh/users/14628734) |
+| ? | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667), ::{ flag=NL }:: [Apichu](https://osu.ppy.sh/users/14967853) |
+| T4PULI_BABUL1 | ::{ flag=RU }:: [add222](https://osu.ppy.sh/users/14261013), ::{ flag=RU }:: [_necroplasma](https://osu.ppy.sh/users/10805852) |
+|  | ::{ flag=US }:: [reimuuu](https://osu.ppy.sh/users/39265531) |
+| No Authors Listed | ::{ flag=DE }:: [Tunnelblick](https://osu.ppy.sh/users/7737096), ::{ flag=US }:: [Utiba](https://osu.ppy.sh/users/11354436) |
+| hi | ::{ flag=CA }:: [mieldeprairie](https://osu.ppy.sh/users/19290397) |
+|  | ::{ flag=DE }:: [minhperry](https://osu.ppy.sh/users/16509922) |
+| Synthesizer | ::{ flag=CN }:: [UTAU](https://osu.ppy.sh/users/13859320) |
+| Chloris | ::{ flag=VN }:: [LunaUwU](https://osu.ppy.sh/users/39084830) |
+| two guys who like mapping taiko | ::{ flag=AU }:: [Nintendo 64](https://osu.ppy.sh/users/30481748), ::{ flag=CA }:: [EnderBlazegames](https://osu.ppy.sh/users/36292093) |
+|  | ::{ flag=EE }:: [Sadu](https://osu.ppy.sh/users/16301262) |
+| autre | ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) |
+| the Northernlion Supercruise | ::{ flag=KR }:: [Akbo](https://osu.ppy.sh/users/7627061) |
+| SV | ::{ flag=AR }:: [APRL03](https://osu.ppy.sh/users/11394892), ::{ flag=AR }:: [el_matero](https://osu.ppy.sh/users/23417934) |
+| T_T | ::{ flag=US }:: [Leviathan](https://osu.ppy.sh/users/10321729) |
+|  | ::{ flag=AE }:: [ItzShadowCraft](https://osu.ppy.sh/users/27830521) |
 
 ## Format
 
