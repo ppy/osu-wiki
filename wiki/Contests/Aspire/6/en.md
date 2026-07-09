@@ -125,7 +125,7 @@ This table is updated once every few days. Last update was on 9 July 2026.
 |  | ::{ flag=BR }:: [Thvhar](https://osu.ppy.sh/users/39987480) |
 | catadores de axilas 🙏 | ::{ flag=MX }:: [Pitxort](https://osu.ppy.sh/users/20565615), ::{ flag=MX }:: [FerRMZ](https://osu.ppy.sh/users/11086032) |
 | Potato Entretainment | ::{ flag=VE }:: [Draygon Fox](https://osu.ppy.sh/users/25302426), ::{ flag=VE }:: [brigidoc](https://osu.ppy.sh/users/12062228) |
-| codex | ::{ flag=BY }:: [_defiance_](https://osu.ppy.sh/users/24885330) |
+| codex | ::{ flag=BY }:: [\_defiance\_](https://osu.ppy.sh/users/24885330) |
 |  | ::{ flag=UA }:: [efmos9](https://osu.ppy.sh/users/34364915) |
 | Double Bubble | ::{ flag=RU }:: [AkiraCX](https://osu.ppy.sh/users/14237716), ::{ flag=RU }:: [MyaFky](https://osu.ppy.sh/users/10040818) |
 |  | ::{ flag=RU }:: [perevod](https://osu.ppy.sh/users/19821599) |
