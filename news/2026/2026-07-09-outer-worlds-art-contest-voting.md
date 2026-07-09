@@ -21,7 +21,7 @@ To aid in acquainting yourselves with the contestants, here's a quick slideshow 
 
 [![Click here to start voting in the Outer Worlds Art Contest!](/wiki/shared/news/2026-07-09-outer-worlds-art-contest-voting/vote.png)](https://osu.ppy.sh/community/contests/285)
 
-The voting phase will run for **7 days** from the date of this post and will end on **July 14 @ 18:00 UTC**. The winners receive the following rewards:
+The voting phase will run for **7 days** from the date of this post and will end on **July 16 @ 18:00 UTC**. The winners receive the following rewards:
 
 - A selection of the top-voted finalists will be **featured on the main menu** and receive **3 months of osu!supporter**.
 - The top 3 will receive bespoke **profile badges** made from their own creations.
