@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Outer Worlds Art Contest: Voting Open"
-date: 2026-07-07 18:00:00 +0000
+date: 2026-07-09 10:00:00 +0000
 series: fanart_contests
 ---
 
@@ -19,7 +19,7 @@ To aid in acquainting yourselves with the contestants, here's a quick slideshow 
     </video>
 </div>
 
-[![Click here to start voting in the Outer Worlds Art Contest!](/wiki/shared/news/2026-07-07-outer-worlds-art-contest-voting/vote.png)](https://osu.ppy.sh/community/contests/285)
+[![Click here to start voting in the Outer Worlds Art Contest!](/wiki/shared/news/2026-07-09-outer-worlds-art-contest-voting/vote.png)](https://osu.ppy.sh/community/contests/285)
 
 The voting phase will run for **7 days** from the date of this post and will end on **July 14 @ 18:00 UTC**. The winners receive the following rewards:
 
