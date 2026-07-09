@@ -196,7 +196,7 @@ Before submitting, please check the following:
   - **Your submission will be ignored if you have not successfully registered for the contest.**
 - Please read the [rules](#rules) thoroughly to check that your entry abides by all of them.
 - The person who registered the team must be the one submitting the entry.
-- Do not submit your entry via [BSS](/wiki/Beatmapping/Beatmap_submission).
+- Do **not** submit your entry via [BSS](/wiki/Beatmapping/Beatmap_submission).
 
 ### Voting
 
