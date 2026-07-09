@@ -2,7 +2,7 @@
 
 ![Ảnh chụp của một beatmap chứa nội dung không phù hợp](img/explicit-tag.jpg "Một ví dụ về một beatmap được gắn thẻ '18+'.")
 
-Mapper có thể đánh dấu beatmap của mình là *nội dung không phù hợp* bằng cách chọn ô `Nội dung không lành mạnh` trong [menu bật lên Thể loại và Ngôn ngữ](/wiki/Beatmap/Genre_and_language) trên website của beatmap tương ứng. Tuy nhiên, tính năng này đi kèm với một số yêu cầu và quy định nhất định khi sử dụng thẻ.
+Mapper có thể đánh dấu beatmap của mình là *nội dung không phù hợp* bằng cách chọn ô `Nội dung không lành mạnh` trong [menu bật lên Thể loại và Ngôn ngữ](/wiki/Beatmap/Genre_and_language) trên website thông tin của beatmap tương ứng. Tuy nhiên, tính năng này đi kèm với một số yêu cầu và quy định nhất định khi sử dụng thẻ.
 
 Bất kể nội dung âm thanh có tính chất như thế nào, hãy đảm bảo rằng âm thanh vẫn phải tuân thủ [quy định chung về nội dung bài hát.](/wiki/Rules/Song_content_rules)
 
