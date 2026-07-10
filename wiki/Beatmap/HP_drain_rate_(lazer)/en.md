@@ -63,4 +63,4 @@ There are seven mods that alter the HP drain rate when activated:
 ## References
 
 [^DifficultyRange]: [`IBeatmapDifficultyInfo` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/master/osu.Game/Beatmaps/IBeatmapDifficultyInfo.cs)
-[^ManiaHealthProcessor]:  [`ManiaHealthProcessor` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/master/osu.Game.Rulesets.Mania/Scoring/ManiaHealthProcessor.cs)
+[^ManiaHealthProcessor]: [`ManiaHealthProcessor` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/master/osu.Game.Rulesets.Mania/Scoring/ManiaHealthProcessor.cs)
