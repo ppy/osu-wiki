@@ -11,7 +11,7 @@ tags:
 *For the gameplay meaning of health, see: [Health](/wiki/Gameplay/Health)*\
 *For the ranking criteria related to HP drain, see: [Ranking criteria](/wiki/Ranking_criteria)*
 
-**HP drain rate** (***HP***) is a [beatmap](/wiki/Beatmap) difficulty setting that controls how much [health](/wiki/Gameplay/Health) is passively lost to [health drain](/wiki/Gameplay/Health). It also affects how heavily a player is penalised for missing notes and how much health is gained back by accurately hitting [hit objects](/wiki/Gameplay/Hit_object).
+**HP drain rate** (***HP***) is a [beatmap](/wiki/Beatmap) difficulty setting that controls how much [health](/wiki/Gameplay/Health) is passively lost to health drain. It also affects how heavily a player is penalised for missing notes and how much health is gained back by accurately hitting [hit objects](/wiki/Gameplay/Hit_object).
 
 HP ranges from 0 to 10, (extendable to 11 via the [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) mod), where 10 (or 11) is the most punishing and 0 is the most lenient.
 
