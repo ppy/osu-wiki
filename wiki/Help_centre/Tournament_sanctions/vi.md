@@ -51,12 +51,12 @@ Thông tin về trạng thái lệnh cấm thi đấu của bạn có thể đư
 | Quay lại theo điều khoản kháng cáo tiêu chuẩn | 1-2 năm | Có thể kéo dài hơn tùy theo quyết định của đội ngũ hỗ trợ tài khoản |
 | Sử dụng nhiều tài khoản hoặc chia sẻ tài khoản trong giải đấu được hỗ trợ chính thức | Vô thời hạn | Cũng sẽ dẫn đến hạn chế |
 | Sử dụng tiện ích bên thứ ba hoặc các công cụ gian lận khác trong giải đấu được hỗ trợ chính thức | Vô thời hạn | Cũng sẽ dẫn đến hạn chế |
-| Tận dụng thông tin nội bộ/bảo mật của giải đấu để đạt được hoặc mang lại lợi thế không công bằng | Vô thời hạn | Cũng có thể dẫn đến hạn chế |
+| Tận dụng thông tin nội bộ/bảo mật của giải đấu để đạt hoặc mang lại lợi thế không công bằng | Vô thời hạn | Cũng có thể dẫn đến hạn chế |
 | Lạm dụng nghiêm trọng hoặc quấy rối ban tổ chức/nhân sự giải đấu/người tham gia giải đấu | Vô thời hạn | Cũng có thể dẫn đến hạn chế |
 
 ## Giám sát việc tổ chức 
 
-Một giám sát đối với việc tổ chức được thực thi như là kết quả của vi phạm các quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support) rằng không được giải quyết thông qua trao đổi với người tổ chức sau khi giải đấu kết thúc. Khi một giám sát việc tổ chức được áp dụng với người dùng, các giải đấu áp dụng hỗ trợ chính thức tiếp theo do họ tổ chức sẽ bị giám sát chặt chẽ bởi Ủy ban Giải đấu trong lúc giải đấu diễn ra và sau khi hoàn thành. Những vấn đề nhỏ mà bình thường chỉ cần trao đổi qua email là xong mà không gây ra sự cố gì, nhưng trong trường hợp này sẽ khiến thời gian giám sát bị kéo dài. Vi phạm nghiêm trọng đối với các quy tắc hỗ trợ chính thức sau khi giám sát được áp dụng sẽ dẫn đến việc [cấm tổ chức giải đấu](#cấm-tổ-chức-giải-đấu) hoặc hình phạt lớn hơn, tùy theo quyết định của Ủy ban Giải đấu.
+Một giám sát đối với việc tổ chức được thực thi như là kết quả của vi phạm các quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support) mà không được giải quyết qua trao đổi với người tổ chức sau khi giải đấu kết thúc. Khi một giám sát việc tổ chức được áp dụng với người dùng, các giải đấu áp dụng hỗ trợ chính thức tiếp theo do họ tổ chức sẽ bị Ủy ban giải đấu giám sát chặt chẽ trong lúc giải đấu và sau khi hoàn thành. Những vấn đề nhỏ mà bình thường chỉ cần trao đổi qua email là xong mà không gây ra sự cố gì, nhưng trong trường hợp này sẽ khiến thời gian giám sát bị kéo dài. Vi phạm nghiêm trọng đối với các quy tắc hỗ trợ chính thức sau khi giám sát được áp dụng sẽ dẫn đến việc [cấm tổ chức giải đấu](#cấm-tổ-chức-giải-đấu) hoặc hình phạt lớn hơn, tùy theo quyết định của Ủy ban Giải đấu.
 
 Giám sát việc tổ chức có thể được gỡ bỏ nếu giải đấu được tổ chức mà **không** vi phạm các quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support), điều này bao gồm các vấn đề nhỏ mà cần phải gửi email cho người tổ chức để sửa chúng. Các ví dụ về những vấn đề này bao gồm:
 
