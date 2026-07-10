@@ -16,15 +16,15 @@ Nhìn chung, hầu hết các bài nhạc đều có thể được sử dụng 
 
 ## Điều gì được tính là sử dụng nhiều từ ngữ tục tĩu?
 
-Việc sử dụng các từ ngữ tục tĩu nhẹ (hoặc một vài lần) là chưa đủ để một beatmap được gắn thẻ là nội dung không lành mạnh. Những beatmap chứa các thể loại ngôn ngữ như vậy có thể an toàn sử dụng mà không cần gắn thẻ nội dung không lành mạnh, miễn là mức độ ngôn ngữ vẫn nằm trong phạm vi mà người ta có thể hợp lý mong đợi ở một nội dung được xếp loại là "cần có sự giám sát của người lớn" (PG-13). Nếu có cuộc tranh cãi nào về việc liệu bản nhạc có phù hợp để đưa vào một beatmap hay không, mặc định rằng nó không phù hợp.
+Việc sử dụng ở mức độ nhẹ (hoặc chỉ xuất hiện một vài lần) các từ ngữ tục tĩu là chưa đủ căn cứ để xếp một beatmap vào nhóm có nội dung không lành mạnh. Những beatmap chứa các ngôn từ như vậy có thể không cần gắn thẻ nội dung không lành mạnh, miễn là mức độ ngôn từ vẫn nằm trong phạm vi chấp nhận được đối với nội dung được xếp loại là "cần có sự giám sát của người lớn" (PG-13). Nếu có bất kỳ cuộc tranh cãi nào về việc liệu bản nhạc có cần để gắn thẻ hay không, mặc định coi là không cần thiết.
 
-Việc sử dụng từ ngữ thô tục một cách kéo dài, có tính kích động nặng, lặp lại nhiều lần mới được xem là rõ ràng. 
+Việc sử dụng từ ngữ tục tĩu, có tính kích động mạnh hoặc lặp lại nhiều lần thì mới được tính là `nội dung không lành mạnh`. 
 
-Thêm vào đó, những cuộc thảo luận kéo dài và sôi nổi về các chủ đề gây tranh cãi, hoặc bất kỳ nội dung nào mà người bình thường có thể đánh giá là "quá nặng nề" nên được xem xét minh bạch. Một số (nhưng không phải tất cả) ví dụ như: 
+Ngoài ra, những cuộc thảo luận kéo dài về các chủ đề gây tranh cãi, hoặc bất kỳ nội dung nào mà người bình thường coi là "quá nặng nề" cũng nên được xem là nội dung không lành mạnh. Một số (nhưng không phải tất cả) ví dụ như: 
 
 - Hình ảnh, tác động, hậu quả của tự sát
 - Ám chỉ bạo lực nghiêm trọng
 - Mô tả/thảo luận về hậu quả bạo lực chi tiết quá mức
-- Những ám chỉ đến tình dục quá lộ liễu hoặc hành vi tình dục
+- Những ám chỉ hoặc đề cập đến tình dục quá lộ liễu
 
-Một cách tốt để đánh giá xem một bài nhạc có nên được gắn thẻ nội dung không phù hợp hay không là kiểm tra cách các nền tảng phát nhạc lớn phân loại bài đó trên dịch vụ của họ. [Spotify](https://www.spotify.com) là một nơi tuyệt vời để bắt đầu. 
+Một cách tốt để đánh giá xem một bài nhạc có nên gắn thẻ nội dung không lành mạnh hay không là kiểm tra các nền tảng phát nhạc lớn có gắn thẻ này hay không. [Spotify](https://www.spotify.com) là một nơi tuyệt vời để tham khảo. 
