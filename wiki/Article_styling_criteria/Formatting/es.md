@@ -274,14 +274,11 @@ Se debe colocar un aviso donde corresponda en una sección, pero debe comenzar e
 ```markdown
 *Nota: {nota}.*
 
-*Aviso: {aviso}.*
-
 *Precaución: {precaución}.*
 
 *Advertencia: {advertencia}.*
 ```
 
-- `Nota` debe usarse para detalles fácticos o triviales.
 - `Aviso` debe usarse para recordatorios o para llamar la atención sobre algo que el lector debe tener en cuenta.
 - `Precaución` debe usarse para advertir al lector que evite consecuencias no deseadas.
 - `Advertencia` debe usarse para advertir al lector que se pueden tomar medidas en su contra.

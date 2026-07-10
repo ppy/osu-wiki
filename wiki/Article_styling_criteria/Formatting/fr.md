@@ -276,14 +276,11 @@ Une remarque doit être placé à l'endroit approprié dans une section, mais do
 ```markdown
 *Remarque : {remarque}.*
 
-*Note : {note}.*
-
 *Attention : {attention}.*
 
 *Avertissement : {avertissement}.*
 ```
 
-- `Remarque` doit être utilisé pour des détails factuels ou insignifiants.
 - `Note` doit être utilisé pour des rappels ou pour attirer l'attention sur quelque chose dont le lecteur doit être informé.
 - `Attention` doit être utilisé pour avertir le lecteur afin d'éviter des conséquences involontaires.
 - `Avertissement` doit être utilisé pour avertir le lecteur que des mesures peuvent être prises à son encontre.

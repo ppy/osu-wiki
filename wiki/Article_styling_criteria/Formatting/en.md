@@ -212,9 +212,7 @@ Line breaks must be used sparingly.
 
 *Not to be confused with [Notice](#notice).*
 
-Hatnotes are short notes placed at the top of an article or section to help readers navigate to related articles or inform them about related topics.
-
-Hatnotes must be italicised and be placed immediately after the heading. If multiple hatnotes are used, they must be on the same paragraph separated with a line break.
+Hatnotes are short notes placed at the top of an article or section to help readers navigate to related articles or inform them about related topics. These must be placed immediately after the heading.
 
 ### Main page
 
@@ -268,11 +266,9 @@ Hatnotes must be italicised and be placed immediately after the heading. If mult
 
 *Not to be confused with [Hatnote](#hatnote).*
 
-A notice should be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but should be kept to a minimum. Notices must be written as complete sentences. Thus, unlike most [hatnotes](#hatnote), notices must use a full stop (`.`) or an exclamation mark (`!`) if appropriate. Anything within the same paragraph of a notice must also be italicised. These must be formatted as follows:
+Notices are short informational blocks of text, typically containing one full sentence. Notices may contain multiple paragraphs and nested markdown, but they should be kept as brief and minimal as possible. These must be formatted as follows:
 
 ```markdown
-*Note: {note}.*
-
 *Notice: {notice}.*
 
 *Caution: {caution}.*
@@ -280,14 +276,13 @@ A notice should be placed where appropriate in a section, but must start off the
 *Warning: {warning}.*
 ```
 
-- `Note` should be used for factual or trivial details.
 - `Notice` should be used for reminders or to draw attention to something that the reader should be made aware of.
 - `Caution` should be used to warn the reader to avoid unintended consequences.
 - `Warning` should be used to warn the reader that action may be taken against them.
 
 ## Stacked hatnotes and notices
 
-Multiple hatnotes and notices may be stacked when necessary. When doing this, they must be stacked without blank lines and use trailing backslashes:
+Multiple hatnotes and notices may be combined and stacked when necessary. When doing this, they must each be written as one sentence on a single line, and their style blocks must be stacked with blank lines in between:
 
 ```markdown
 *Warning: {warning}.*\
