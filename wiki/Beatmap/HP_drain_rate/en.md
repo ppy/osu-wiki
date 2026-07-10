@@ -45,8 +45,8 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the HP value only affects the health 
 | **GOOD** | Any | `(0.0040 - HP * 0.0004) * 100%` | +0.40% | +0.20% | **0.00%** | -0.04% |
 | **OK** | Any | `0` | 0.00% | 0.00% | 0.00% | 0.00% |
 | **MEH** | Any | `[-(HP + 1) * 0.0016] * 100%` | -0.16% | -0.96% | -1.76% | -1.92% |
-| **MISS** | Normal note (not head/tail of a long note) | `[-(HP + 1) * 0.0075] * 100%` | -0.75% | -4.50% | -8.25% | -9.00% |
-| **MISS** | Head or tail of a long note | `[-(HP + 1) * 0.00375] * 100%` | -0.375% | -2.25% | -4.125% | -4.50% |
+| **MISS** | Normal note | `[-(HP + 1) * 0.0075] * 100%` | -0.75% | -4.50% | -8.25% | -9.00% |
+| **MISS** | Head or tail of a [hold note](/wiki/Beatmap/Pattern/osu!mania/Hold_note) | `[-(HP + 1) * 0.00375] * 100%` | -0.375% | -2.25% | -4.125% | -4.50% |
 
 ## Mod effects
 
