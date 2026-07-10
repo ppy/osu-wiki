@@ -303,11 +303,12 @@ Alors que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) était supposé ê
 | Joueur | Du | Jusqu'au | Sources |
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *03/08/2024* | 14/06/2026 | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
-| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 14/06/2026 | Présent | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 14/06/2026 | 11/07/2026 | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) [\[4\]](https://www.reddit.com/r/osugame/comments/1u5c8xl/cryshina_kardashev_cellar_of_ghosts_shoyeus_faint/) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 11/07/2026 | Présent | ?? |
 
 ## Nombre de règnes
 
-Ce qui suit est une liste du nombre total de fois où un joueur a atteint le rang 1 dans son temps de jeu (à partir du 14 juin 2026).
+Ce qui suit est une liste du nombre total de fois où un joueur a atteint le rang 1 dans son temps de jeu (à partir du 11 juillet 2026).
 
 | Joueur | Règnes |
 | --: | :-: |
@@ -329,8 +330,8 @@ Ce qui suit est une liste du nombre total de fois où un joueur a atteint le ran
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 4 |
 | ::{ flag=PL }:: [Kubu](https://osu.ppy.sh/users/29130) | 4 |
 | ::{ flag=JP }:: [tobebuta](https://osu.ppy.sh/users/14053) | 4 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 3 |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | 3 |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 2 |
 | ::{ flag=TW }:: [Uan](https://osu.ppy.sh/users/147623) | 2 |
 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) | 2 |
@@ -354,7 +355,7 @@ Ce qui suit est une liste du nombre total de fois où un joueur a atteint le ran
 
 *Note : Le règne actuel du rang 1 est exclu.*
 
-Voici la liste du nombre total de jours pendant lesquels un joueur a occupé la première place du classement (à partir du 14 juin 2026).
+Voici la liste du nombre total de jours pendant lesquels un joueur a occupé la première place du classement (à partir du 11 juillet 2026).
 
 | Joueur | Longueur (jours) |
 | --: | :-: |
@@ -383,6 +384,7 @@ Voici la liste du nombre total de jours pendant lesquels un joueur a occupé la 
 | ::{ flag=KR }:: [Reimu-Desu](https://osu.ppy.sh/users/948713) | 35 |
 | ::{ flag=AU }:: [eyup](https://osu.ppy.sh/users/88) | 33 |
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 33 |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 27 |
 | ::{ flag=US }:: [Rolled](https://osu.ppy.sh/users/5243) | 27 |
 | ::{ flag=KR }:: [Sure](https://osu.ppy.sh/users/70730) | 26 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 20 |
@@ -400,7 +402,7 @@ Voici la liste du nombre total de jours pendant lesquels un joueur a occupé la 
 
 *Note : Seuls les règnes de plus de 100 jours sont inclus. Le règne actuel de rang 1 est exclu.*
 
-Voici la liste des plus longs jours consécutifs pendant lesquels un joueur a occupé la première place du classement (à partir du 14 juin 2026).
+Voici la liste des plus longs jours consécutifs pendant lesquels un joueur a occupé la première place du classement (à partir du 11 juillet 2026).
 
 | Joueur | Du | Jusqu'au | Durée du règne (en jours) |
 | --: | :-- | :-- | :-: |

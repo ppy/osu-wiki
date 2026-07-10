@@ -17,9 +17,9 @@ Diese Seite listet alle Spieler auf, die in der [globalen Rangliste](https://osu
 
 Im Laufe der Jahre gab es drei verschiedene Systeme für die Einstufung von Spielern:
 
-- [Ranked Score](/wiki/Gameplay/Score/Ranked_score) (vom 6. Oktober 2007 bis 24. Juli 2012)
-- [ppv1](/wiki/Performance_points/ppv1) (vom 24. Juli 2012 bis 27. Januar 2014)
-- [ppv2](/wiki/Performance_points) (vom 27. Januar 2014 bis heute)
+- [Ranked score](/wiki/Gameplay/Score/Ranked_score) (6. Oktober 2007 bis 24. Juli 2012)
+- [ppv1](/wiki/Performance_points/ppv1) (24. Juli 2012 bis 27. Januar 2014)
+- [ppv2](/wiki/Performance_points) (27. Januar 2014 bis heute)
 
 Darum enthält diese Liste nur Spieler, die den Platz 1 auf der Hauptrangliste erreichten, die zu diesem Zeitpunkt verwendet wurde. Daten und Zahlen *in Kursivschrift* geben an, dass der entsprechende Spieler seinen Titel als Gewinner von osu! weiterhin entweder im vorhergehenden oder im folgenden Jahr souverän verteidigt.
 
@@ -300,11 +300,12 @@ Es wird zwar angenommen, dass ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2
 | Spieler | von | bis | Quellen |
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *03.08.2024* | 14.06.2026 | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
-| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 14.06.2026 | heute | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 14.06.2026 | 11.07.2026 | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) [\[4\]](https://www.reddit.com/r/osugame/comments/1u5c8xl/cryshina_kardashev_cellar_of_ghosts_shoyeus_faint/) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 11.07.2026 | heute | ?? |
 
 ## Anzahl der Titelverteidigungen
 
-Die folgende Liste stellt die Gesamtzahl der Male dar, die ein Spieler in seiner Spielzeit den Platz 1 erreicht hat (Stand: 14. Juni 2026).
+Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den ersten Platz erreicht hat (Stand: 11. Juli 2026).
 
 | Spieler | Titelverteidigungen |
 | --: | :-: |
@@ -326,8 +327,8 @@ Die folgende Liste stellt die Gesamtzahl der Male dar, die ein Spieler in seiner
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 4 |
 | ::{ flag=PL }:: [Kubu](https://osu.ppy.sh/users/29130) | 4 |
 | ::{ flag=JP }:: [tobebuta](https://osu.ppy.sh/users/14053) | 4 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 3 |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | 3 |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 2 |
 | ::{ flag=TW }:: [Uan](https://osu.ppy.sh/users/147623) | 2 |
 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) | 2 |
@@ -351,7 +352,7 @@ Die folgende Liste stellt die Gesamtzahl der Male dar, die ein Spieler in seiner
 
 *Anmerkung: Der aktuelle Spieler auf dem ersten Platz ist nicht in dieser Liste enthalten.*
 
-Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den Titel des ersten Platzes getragen hat (Stand: 14. Juni 2026).
+Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den ersten Platz innehatte (Stand: 11. Juli 2026).
 
 | Spieler | Länge in Tagen |
 | --: | :-: |
@@ -380,6 +381,7 @@ Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den Titel
 | ::{ flag=KR }:: [Reimu-Desu](https://osu.ppy.sh/users/948713) | 35 |
 | ::{ flag=AU }:: [eyup](https://osu.ppy.sh/users/88) | 33 |
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 33 |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 27 |
 | ::{ flag=US }:: [Rolled](https://osu.ppy.sh/users/5243) | 27 |
 | ::{ flag=KR }:: [Sure](https://osu.ppy.sh/users/70730) | 26 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 20 |
@@ -395,9 +397,9 @@ Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den Titel
 
 ## Längste ununterbrochene Titelverteidigung
 
-*Anmerkung: Nur Titelverteidigungen mit mehr als 100 Tagen werden genannt. Der aktuelle Platz 1 ist nicht enthalten.*
+*Anmerkung: Nur Titelverteidigungen mit mehr als 100 Tagen werden genannt. Der aktuelle Spieler auf dem ersten Platz ist nicht enthalten.*
 
-Die folgende Liste stellt die größte Anzahl an aufeinanderfolgenden Tagen dar, in denen ein Spieler den ersten Platz innehatte (Stand: 14. Juni 2026).
+Die folgende Liste stellt die größte Anzahl an aufeinanderfolgenden Tagen dar, in denen ein Spieler den ersten Platz innehatte (Stand: 11. Juli 2026).
 
 | Spieler | von | bis | Länge in Tagen |
 | --: | :-- | :-- | :-: |
