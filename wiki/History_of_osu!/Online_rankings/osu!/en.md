@@ -299,12 +299,12 @@ While ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) was assumed to be the 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2024-08-03* | 2026-06-14 | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
-| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 2026-06-14 | 2026-07-?? | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2026-07-?? | Present | Probably some reddit post |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 2026-06-14 | 2026-07-11 | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160)  [\[4\]](https://www.reddit.com/r/osugame/comments/1u5c8xl/cryshina_kardashev_cellar_of_ghosts_shoyeus_faint/) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2026-07-11 | Present | ?? |
 
 ## Number of reigns
 
-The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of ?? July 2026).
+The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 11 July 2026).
 
 | Player | Reigns |
 | --: | :-: |
@@ -351,7 +351,7 @@ The following is a list of the total number of times a player has reached the ra
 
 *Note: The current rank #1 reign is excluded.*
 
-The following is a list of the total number of days that a player has held the rank #1 spot (as of ?? July 2026).
+The following is a list of the total number of days that a player has held the rank #1 spot (as of 11 July 2026).
 
 | Player | Length (days) |
 | --: | :-: |
@@ -380,10 +380,10 @@ The following is a list of the total number of days that a player has held the r
 | ::{ flag=KR }:: [Reimu-Desu](https://osu.ppy.sh/users/948713) | 35 |
 | ::{ flag=AU }:: [eyup](https://osu.ppy.sh/users/88) | 33 |
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 33 |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 27 |
 | ::{ flag=US }:: [Rolled](https://osu.ppy.sh/users/5243) | 27 |
 | ::{ flag=KR }:: [Sure](https://osu.ppy.sh/users/70730) | 26 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 20 |
-| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | ?? |
 | ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 13 |
 | ::{ flag=US }:: [Freddie Benson](https://osu.ppy.sh/users/7342622) | 13 |
 | ::{ flag=JP }:: [tobebuta](https://osu.ppy.sh/users/14053) | 13 |
@@ -398,7 +398,7 @@ The following is a list of the total number of days that a player has held the r
 
 *Note: Only reigns over 100 days are included. The current rank #1 reign is excluded.*
 
-The following is a list of the longest consecutive days a player has held the rank #1 spot (as of ?? July 2026).
+The following is a list of the longest consecutive days a player has held the rank #1 spot (as of 11 July 2026).
 
 | Player | From | To | Reign length (days) |
 | --: | :-- | :-- | :-: |

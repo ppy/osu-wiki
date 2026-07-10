@@ -141,7 +141,7 @@ ppv1 is rather infeasible without a lot of digging, little information is public
 
 ## Number of reigns
 
-The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of ?? July 2026).
+The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 11 July 2026).
 
 | Player | Reigns |
 | --: | :-: |
@@ -158,7 +158,7 @@ The following is a list of the total number of times a player has reached the ra
 
 *Note: The current rank #1 reign is excluded.*
 
-The following is a list of the total number of days that a player has held the rank #1 spot (as of ?? July 2026).
+The following is a list of the total number of days that a player has held the rank #1 spot (as of 11 July 2026).
 
 | Player | Length (days) |
 | --: | :-: |
@@ -175,7 +175,7 @@ The following is a list of the total number of days that a player has held the r
 
 *Note: Only reigns over 100 days are included. The current rank #1 reign is excluded.*
 
-The following is a list of the longest consecutive days a player has held the rank #1 spot (as of ?? July 2026).
+The following is a list of the longest consecutive days a player has held the rank #1 spot (as of 11 July 2026).
 
 | Player | From | To | Reign length (days) |
 | --: | :-- | :-- | :-: |
