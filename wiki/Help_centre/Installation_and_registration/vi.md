@@ -1,7 +1,7 @@
 ---
 tags:
   - cài đặt
-  - tải
+  - tải xuống
   - tài khoản
   - hồ sơ
   - đăng ký
