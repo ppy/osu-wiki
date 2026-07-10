@@ -65,4 +65,4 @@ MISS 的扣血量受 HP 值线性影响[^DifficultyRange]。
 ## 参考
 
 [^DifficultyRange]: [osu!(lazer) 源代码中的`IBeatmapDifficultyInfo`](https://github.com/ppy/osu/blob/master/osu.Game/Beatmaps/IBeatmapDifficultyInfo.cs)
-[^ManiaHealthProcessor]:  [osu!(lazer) 源代码中的`ManiaHealthProcessor`](https://github.com/ppy/osu/blob/master/osu.Game.Rulesets.Mania/Scoring/ManiaHealthProcessor.cs)
+[^ManiaHealthProcessor]: [osu!(lazer) 源代码中的`ManiaHealthProcessor`](https://github.com/ppy/osu/blob/master/osu.Game.Rulesets.Mania/Scoring/ManiaHealthProcessor.cs)
