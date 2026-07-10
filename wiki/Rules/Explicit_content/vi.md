@@ -16,7 +16,7 @@ Nhìn chung, hầu hết các bài nhạc đều có thể được sử dụng 
 
 ## Điều gì được tính là sử dụng nhiều từ ngữ tục tĩu?
 
-Việc sử dụng ở mức độ nhẹ (hoặc chỉ xuất hiện một vài lần) các từ ngữ tục tĩu là chưa đủ căn cứ để xếp một beatmap vào nhóm có nội dung không lành mạnh. Những beatmap chứa các ngôn từ như vậy có thể không cần gắn thẻ nội dung không lành mạnh, miễn là mức độ ngôn từ vẫn nằm trong phạm vi chấp nhận được đối với nội dung được xếp loại là "cần có sự giám sát của người lớn" (PG-13). Nếu có bất kỳ cuộc tranh cãi nào về việc liệu bài nhạc có cần để gắn thẻ hay không, mặc định coi là không cần thiết.
+Việc sử dụng ở mức độ nhẹ (hoặc chỉ xuất hiện một vài lần) các từ ngữ tục tĩu là chưa đủ căn cứ để xếp một beatmap vào nhóm có nội dung không lành mạnh. Những beatmap chứa các ngôn từ như vậy có thể không cần gắn thẻ như vậy, miễn là mức độ ngôn từ vẫn nằm trong phạm vi chấp nhận được đối với nội dung được xếp loại là "cần có sự giám sát của người lớn" (PG-13). Nếu có bất kỳ cuộc tranh cãi nào về việc liệu bài nhạc có cần để gắn thẻ hay không, mặc định coi là không cần thiết.
 
 Việc sử dụng từ ngữ tục tĩu, có tính kích động mạnh hoặc lặp lại nhiều lần thì mới được tính là `nội dung không lành mạnh`.
 
