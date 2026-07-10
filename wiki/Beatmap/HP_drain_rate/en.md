@@ -50,7 +50,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the HP value only affects the health 
 
 ## Mod effects
 
-There are four mods that alter the HP drain rate when activated:
+There are seven mods that alter the HP drain rate when activated:
 
 <!-- TODO: confirm how each module will modify the values -->
 
