@@ -9,7 +9,7 @@ tags:
 
 # 掉血速度 (HP Drain)
 
-*本页面的部分描述基于 osu!lazer 的源代码编写，可能与 osu!stable 的实际表现存在细微差异。*
+*本页面的部分描述基于 osu!(lazer) 的源代码编写，可能与 osu!(stable) 的实际表现存在细微差异。*
 *关于游戏机制含义的血量，参见：[血量](/wiki/Gameplay/Health)*\
 *关于掉血速度相关的规定，参见：[谱面上架标准 (RC)](/wiki/Ranking_criteria)*
 
