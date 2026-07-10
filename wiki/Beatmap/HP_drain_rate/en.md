@@ -22,7 +22,7 @@ HP ranges from 0 to 10, (extendable to 11 via the [Difficulty Adjust (DA)](/wiki
 <!-- TODO: quantify the relationship between passive HP drain rate and the value -->
 
 In [osu!](/wiki/Game_mode/osu!), the HP value affects both the passive drain rate and the judgement penalties/rewards.\
-The health recovery amounts for GREAT, OK, and MEH are fixed at +3.00%, +1.10%, and +0.20% respectively, and are not affected by the HP value.\
+The health recovery amounts for GREAT, OK and MEH are fixed at +3.00%, +1.10%, and +0.20% respectively, and are not affected by the HP value.\
 The health penalty for MISS is linearly affected by the HP value (calculated by the DifficultyRange function).
 
 <!-- TODO: quantify what the value actually means in osu!taiko -->
