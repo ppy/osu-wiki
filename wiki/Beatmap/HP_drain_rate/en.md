@@ -7,9 +7,9 @@ tags:
 
 # HP drain rate
 
-*Some descriptions on this page are based on the source code of osu!lazer and may differ slightly from the actual behaviour in osu!stable.*\
-*For the gameplay meaning of health, see [Health](/wiki/Gameplay/Health).*\
-*For the ranking criteria related to HP drain, see [Ranking Criteria](/wiki/Ranking_criteria).*
+*Some descriptions on this page are based on the [source code](https://github.com/ppy/osu) of osu!(lazer) and may differ slightly from the actual behaviour in osu!(stable).*\
+*For the gameplay meaning of health, see: [Health](/wiki/Gameplay/Health)*\
+*For the ranking criteria related to HP drain, see: [Ranking criteria](/wiki/Ranking_criteria)*
 
 **HP drain rate** (***HP***) is a [beatmap](/wiki/Beatmap) difficulty setting that controls how much [health](/wiki/Gameplay/Health) is passively lost to [health drain](/wiki/Gameplay/Health). It also affects how heavily a player is penalised for missing notes and how much health is gained back by accurately hitting [hit objects](/wiki/Gameplay/Hit_object).
 
