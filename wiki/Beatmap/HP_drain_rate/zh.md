@@ -52,7 +52,7 @@ MISS 的扣血量受 HP 值线性影响（由 DifficultyRange 函数计算）。
 
 ## 模组效果
 
-以下 4 个模组激活时会改变掉血速度：
+以下 7 个模组激活时会改变掉血速度：
 
 <!-- TODO: confirm how each module will modify the values -->
 
