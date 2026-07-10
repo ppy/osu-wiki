@@ -122,7 +122,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 61 | Poland ::{ flag=PL }:: | ::{ flag=FR }:: France | [Jul 11 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T150000&p1=1440&p2=262&p3=195) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
+| 61 | Poland ::{ flag=PL }:: | ::{ flag=FR }:: France | [Jul 11 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T160000&p1=1440&p2=262&p3=195) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
 
 ### Sunday, 12 July 2026
 
@@ -332,7 +332,7 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27856752
 
 ### Grand Finals
 
-**[Download the mappack here (217 MB)](https://packs.ppy.sh/P331%20-%20osu%21catch%20World%20Cup%202026%3A%20Grand%20Finals.zip)**\
+**[Download the mappack here (217 MB)](https://packs.ppy.sh/P331%20-%20osu!catch%20World%20Cup%202026%3A%20Grand%20Finals.zip?1783698074)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2812999044)
 
 - No Mod
