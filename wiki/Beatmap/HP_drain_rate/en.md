@@ -38,7 +38,7 @@ In this mode, the relationship between the HP value and the passive drain rate i
 
 In [osu!mania](/wiki/Game_mode/osu!mania), the HP value only affects the health changes caused by judgement results (there is no passive drain over time). The exact values are shown in the table below:
 
-| Judgement (HitResult) | Object Type (HitObject) | General Formula | HP = 0 | HP = 5 | HP = 10 | HP = 11 |
+| Judgement (HitResult) | Object type (HitObject) | General formula | HP = 0 | HP = 5 | HP = 10 | HP = 11 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | **PERFECT** | Any | `(0.0055 - HP * 0.0005) * 100%` | +0.55% | +0.30% | +0.05% | **0.00%** |
 | **GREAT** | Any | `(0.0050 - HP * 0.0005) * 100%` | +0.50% | +0.25% | **0.00%** | -0.05% |
