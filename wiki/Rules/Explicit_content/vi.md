@@ -27,4 +27,4 @@ Ngoài ra, những cuộc thảo luận kéo dài về các chủ đề gây tra
 - Mô tả/thảo luận về hậu quả bạo lực chi tiết quá mức
 - Những ám chỉ hoặc đề cập đến tình dục quá lộ liễu
 
-Một cách tốt để đánh giá xem một bài nhạc có nên gắn thẻ nội dung không lành mạnh hay không là kiểm tra các nền tảng phát nhạc lớn có gắn thẻ này hay không. [Spotify](https://www.spotify.com) là một nơi tuyệt vời để tham khảo.
+Một cách tốt để đánh giá xem một bài nhạc có cần gắn thẻ nội dung không lành mạnh hay không là kiểm tra các nền tảng phát nhạc lớn phân loại bài đó trên dịch vụ của họ. [Spotify](https://www.spotify.com) là một nơi tuyệt vời để tham khảo.
