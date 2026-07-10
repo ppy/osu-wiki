@@ -58,6 +58,6 @@ MISS 的扣血量受 HP 值线性影响（由 DifficultyRange 函数计算）。
 
 - [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy)：将 HP 值减半。
 - [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock)：将 HP 值乘上 1.4，最大值为 10。
-- [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time)：HP 值不受影响，但由于 50% 加速效果，被动掉血速率加快 50%。
-- [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time)：HP 值不受影响，但由于 25% 减速效果，被动掉血速率减缓 25%。
+- [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time)/[Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore)：HP 值不受影响，但由于 50% 加速效果，被动掉血速率加快 50%。
+- [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time)/[Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore)：HP 值不受影响，但由于 25% 减速效果，被动掉血速率减缓 25%。
 - [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust)：允许手动调整 HP 值（范围 0~10，开启 Extended Limits 后上限为 11）
