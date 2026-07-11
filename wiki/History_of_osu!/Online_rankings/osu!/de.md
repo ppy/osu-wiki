@@ -21,7 +21,7 @@ Im Laufe der Jahre gab es drei verschiedene Systeme für die Einstufung von Spie
 - [ppv1](/wiki/Performance_points/ppv1) (24. Juli 2012 bis 27. Januar 2014)
 - [ppv2](/wiki/Performance_points) (27. Januar 2014 bis heute)
 
-Darum enthält diese Liste nur Spieler, die den Platz 1 auf der Hauptrangliste erreichten, die zu diesem Zeitpunkt verwendet wurde. Daten und Zahlen *in Kursivschrift* geben an, dass der entsprechende Spieler seinen Titel als Gewinner von osu! weiterhin entweder im vorhergehenden oder im folgenden Jahr souverän verteidigt.
+Darum enthält diese Liste nur Spieler, die den ersten Platz auf der Hauptrangliste erreichten, die zu diesem Zeitpunkt verwendet wurde. Daten und Zahlen *in Kursivschrift* geben an, dass der entsprechende Spieler seinen Titel als Gewinner von osu! weiterhin entweder im vorhergehenden oder im folgenden Jahr souverän verteidigt.
 
 Es wird zwar angenommen, dass ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) der erste Spieler auf Platz 1 war, aber keine Quelle kann diese Behauptung belegen.
 
@@ -301,7 +301,7 @@ Es wird zwar angenommen, dass ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *03.08.2024* | 14.06.2026 | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
 | ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 14.06.2026 | 11.07.2026 | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) [\[4\]](https://www.reddit.com/r/osugame/comments/1u5c8xl/cryshina_kardashev_cellar_of_ghosts_shoyeus_faint/) |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 11.07.2026 | heute | ?? |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 11.07.2026 | heute | [\[1\]](https://web.archive.org/web/20260711064234/https://osu.ppy.sh/rankings/osu/global/performance) [\[2\]](https://web.archive.org/web/20260711130813/https://osu.ppy.sh/users/14715160/osu) [\[3\]](https://web.archive.org/web/20260711125753/https://osu.ppy.sh/users/7562902/osu) [\[4\]](https://www.reddit.com/r/osugame/comments/1uta8q2/mrekk_is_now_1_global/) |
 
 ## Anzahl der Titelverteidigungen
 
