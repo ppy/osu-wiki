@@ -5,7 +5,7 @@ tags:
   - passive drain rate
 ---
 
-# HP drain rate (Lazer)
+# HP drain rate (lazer)
 
 *For the osu!(stable) version of this article, see: [HP drain rate](/wiki/Beatmap/HP_drain_rate)*\
 *For the gameplay meaning of health, see: [Health](/wiki/Gameplay/Health)*
