@@ -300,7 +300,7 @@ While ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) was assumed to be the 
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *2024-08-03* | 2026-06-14 | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
 | ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 2026-06-14 | 2026-07-11 | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) [\[4\]](https://www.reddit.com/r/osugame/comments/1u5c8xl/cryshina_kardashev_cellar_of_ghosts_shoyeus_faint/) |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2026-07-11 | Present | ?? |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2026-07-11 | Present | [\[1\]](https://web.archive.org/web/20260711064234/https://osu.ppy.sh/rankings/osu/global/performance) [\[2\]](https://www.reddit.com/r/osugame/comments/1uta8q2/mrekk_is_now_1_global/) |
 
 ## Number of reigns
 
