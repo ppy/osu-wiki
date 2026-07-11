@@ -7,6 +7,7 @@ tags:
 
 # HP drain rate
 
+*For the osu!(lazer) version of this article, see: [HP drain rate (Lazer)](/wiki/Beatmap/HP_drain_rate_(lazer))*\
 *For health as a gameplay mechanic, see: [Health](/wiki/Gameplay/Health)*\
 *For regulations surrounding HP drain rate, see: [Ranking criteria](/wiki/Ranking_criteria)*
 

@@ -9,9 +9,8 @@ tags:
 
 # 掉血速度 (HP Drain)
 
-*对于该文章的 osu!stable 版本，请见：[掉血速度 (HP drain rate)](/wiki/Beatmap/HP_drain_rate)*\
-*关于游戏机制含义的血量，参见：[血量](/wiki/Gameplay/Health)*\
-*关于掉血速度相关的规定，参见：[谱面上架标准 (RC)](/wiki/Ranking_criteria)*
+*对于该文章的 osu!(stable) 版本，请见：[掉血速度 (HP drain rate)](/wiki/Beatmap/HP_drain_rate)*\
+*关于游戏机制含义的血量，参见：[血量](/wiki/Gameplay/Health)*
 
 **掉血速度** (***HP***) 是一张[谱面](/wiki/Beatmap)的难度设置，控制由于[掉血](/wiki/Gameplay/Health)被动失去的[血量](/wiki/Gameplay/Health)。也会影响玩家漏掉物件时被惩罚的严重情况，以及准确点击[打击物件](/wiki/Gameplay/Hit_object)获得的血量多少。
 
@@ -23,8 +22,10 @@ HP 值在谱面中取值范围为 0 ~ 10（通过 [Difficulty Adjust (DA)](/wiki
 
 <!-- TODO: quantify the relationship between passive HP drain rate and the value -->
 
-在 [osu!](/wiki/Game_mode/osu!) 模式中，HP 值同时影响被动掉血速率与判定奖惩。 \
-GREAT、OK、MEH 的回复量为固定值，分别为 +3.00%、+1.10%、+0.20%，不受 HP 值影响。\
+在 [osu!](/wiki/Game_mode/osu!) 模式中，HP 值同时影响被动掉血速率与判定奖惩。
+
+GREAT、OK、MEH 的回复量为固定值，分别为 +3.00%、+1.10%、+0.20%，不受 HP 值影响。
+
 MISS 的扣血量受 HP 值线性影响[^DifficultyRange]。
 
 <!-- TODO: quantify what the value actually means in osu!taiko -->
@@ -33,7 +34,8 @@ MISS 的扣血量受 HP 值线性影响[^DifficultyRange]。
 
 <!-- TODO: quantify the relationship between passive HP drain rate and the value -->
 
-在 [osu!catch](/wiki/Game_mode/osu!catch) 模式中，HP 值同时影响被动掉血速率与判定奖惩。\
+在 [osu!catch](/wiki/Game_mode/osu!catch) 模式中，HP 值同时影响被动掉血速率与判定奖惩。
+
 在此模式中，HP 值与被动掉血速率的关系和 [osu!](/wiki/Game_mode/osu!) 模式类似，但是实现方法有所区别。
 
 ### osu!mania

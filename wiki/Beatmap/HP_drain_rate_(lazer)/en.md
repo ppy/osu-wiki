@@ -5,11 +5,10 @@ tags:
   - passive drain rate
 ---
 
-# HP drain rate
+# HP drain rate (Lazer)
 
-*For the osu!stable version of this article, see: [HP drain rate](/wiki/Beatmap/HP_drain_rate)*\
-*For the gameplay meaning of health, see: [Health](/wiki/Gameplay/Health)*\
-*For the ranking criteria related to HP drain, see: [Ranking criteria](/wiki/Ranking_criteria)*
+*For the osu!(stable) version of this article, see: [HP drain rate](/wiki/Beatmap/HP_drain_rate)*\
+*For the gameplay meaning of health, see: [Health](/wiki/Gameplay/Health)*
 
 **HP drain rate** (***HP***) is a [beatmap](/wiki/Beatmap) difficulty setting that controls how much [health](/wiki/Gameplay/Health) is passively lost to health drain. It also affects how heavily a player is penalised for missing notes and how much health is gained back by accurately hitting [hit objects](/wiki/Gameplay/Hit_object).
 
@@ -21,8 +20,10 @@ HP ranges from 0 to 10, (extendable to 11 via the [Difficulty Adjust (DA)](/wiki
 
 <!-- TODO: quantify the relationship between passive HP drain rate and the value -->
 
-In [osu!](/wiki/Game_mode/osu!), the HP value affects both the passive drain rate and the judgement penalties/rewards.\
-The health recovery amounts for GREAT, OK and MEH are fixed at +3.00%, +1.10%, and +0.20% respectively, and are not affected by the HP value.\
+In [osu!](/wiki/Game_mode/osu!), the HP value affects both the passive drain rate and the judgement penalties/rewards.
+
+The health recovery amounts for GREAT, OK and MEH are fixed at +3.00%, +1.10%, and +0.20% respectively, and are not affected by the HP value.
+
 The health penalty for MISS is linearly affected by the HP value[^DifficultyRange].
 
 <!-- TODO: quantify what the value actually means in osu!taiko -->
@@ -31,7 +32,8 @@ The health penalty for MISS is linearly affected by the HP value[^DifficultyRang
 
 <!-- TODO: quantify the relationship between passive HP drain rate and the value -->
 
-In [osu!catch](/wiki/Game_mode/osu!catch), the HP value also affects both the passive drain rate and the judgement penalties/rewards.\
+In [osu!catch](/wiki/Game_mode/osu!catch), the HP value also affects both the passive drain rate and the judgement penalties/rewards.
+
 In this mode, the relationship between the HP value and the passive drain rate is similar to that in [osu!](/wiki/Game_mode/osu!), but the implementation details differ.
 
 ### osu!mania
