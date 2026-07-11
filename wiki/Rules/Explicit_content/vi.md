@@ -8,15 +8,15 @@ Bất kể nội dung âm thanh mang tính chất như thế nào, hãy đảm b
 
 ## Điều gì được coi là nội dung không lành mạnh?
 
-Nội dung không lành mạnh chủ yếu đề cập đến phần **âm thanh của beatmap**, thường thể hiện qua chủ đề, đề tài hoặc việc sử dụng nhiều ngôn ngữ tục tĩu trong bài nhạc. Quy định này **không** áp dụng cho bất kỳ yếu tố hình ảnh của beatmap — những nội dung đó **phải** tuân theo [quy định về nội dung trực quan](/wiki/Rules/Visual_content_considerations), và bất cứ yếu tố nào mà người dùng có thể thay đổi với beatmap (ví dụ như thẻ người tạo bản đồ hoặc tên độ khó) đều **bắt buộc** phải tuân theo [quy tắc cộng đồng](/wiki/Rules) như bình thường.
+Nội dung không lành mạnh chủ yếu đề cập đến phần **âm thanh của beatmap**, thường thể hiện qua chủ đề, đề tài hoặc việc sử dụng **nhiều** ngôn ngữ thô tục trong bài nhạc. Quy định này **không** áp dụng cho các yếu tố hình ảnh của beatmap — những nội dung đó **phải** tuân thủ [Những Cân Nhắc Về Nội Dung Trực Quan](/wiki/Rules/Visual_content_considerations), hoặc bất kỳ yếu tố nào khác mà người dùng có thể thay đổi với beatmap (ví dụ như thẻ người tạo bản đồ hoặc tên độ khó) đều **bắt buộc** phải tuân thủ [các quy tắc cộng đồng osu!](/wiki/Rules) như bình thường.
 
-Theo nguyên tắc chung, quy định về nội dung không lành mạnh chỉ tạo ngoại lệ đối với những phần trong bài nhạc mà người dùng không thể chỉnh sửa hợp lý bằng các công cụ do trò chơi cung cấp, và ngoại lệ này cũng có thể bị thu hồi riêng cho từng bài nhạc theo quyết định của [đội ngũ hỗ trợ tài khoản osu!.](/wiki/People/Account_support_team)
+Theo nguyên tắc chung, quy định về nội dung không lành mạnh chỉ tạo ngoại lệ đối với những phần trong bài nhạc mà người dùng không thể chỉnh sửa hợp lý bằng các công cụ do trò chơi cung cấp, và ngoại lệ này cũng có thể bị thu hồi riêng cho từng bài nhạc theo quyết định của [đội ngũ hỗ trợ osu!](/wiki/People/Account_support_team).
 
-Nhìn chung, hầu hết các bài nhạc đều có thể được sử dụng trong beatmap với một số ngoại lệ nhất định, miễn là chúng đã được đánh dấu một cách phù hợp.
+Nhìn chung, hầu hết các bài nhạc đều được chấp nhận để sử dụng trong beatmap với rất ít ngoại lệ, miễn là chúng đã được đánh dấu một cách phù hợp.
 
-## Điều gì được xem là sử dụng nhiều từ ngữ tục tĩu?
+## Điều gì được xem là sử dụng nhiều từ ngữ thô tục?
 
-Việc sử dụng ở mức độ nhẹ (hoặc chỉ xuất hiện một vài lần) các từ ngữ tục tĩu là chưa đủ căn cứ để xếp một beatmap vào nhóm có nội dung không lành mạnh. Những beatmap chứa các ngôn từ như vậy có thể không cần gắn thẻ nội dung không lành mạnh, miễn là mức độ ngôn từ vẫn nằm trong phạm vi chấp nhận được đối với nội dung được xếp loại là "cần có sự giám sát của người lớn" (PG-13). Nếu có bất kỳ cuộc tranh cãi nào về việc liệu điều này có đủ để một bài nhạc cần được gắn thẻ hay không, mặc định coi là không cần.
+Việc sử dụng ở mức độ nhẹ (hoặc chỉ xuất hiện một vài lần) các từ ngữ thô tục là chưa đủ căn cứ để xếp một beatmap vào nhóm có nội dung không lành mạnh. Những beatmap chứa các ngôn từ như vậy có thể không cần gắn thẻ nội dung không lành mạnh, miễn là mức độ ngôn từ vẫn nằm trong phạm vi chấp nhận được đối với nội dung được xếp loại là "cần sự giám sát của người lớn" (PG-13). Nếu có bất kỳ cuộc tranh cãi nào về việc liệu điều này có đủ để một bài nhạc cần được gắn thẻ hay không, mặc định coi là không cần.
 
 Việc sử dụng từ ngữ tục tĩu, có tính kích động mạnh hoặc lặp lại nhiều lần thì mới được tính là `nội dung không lành mạnh`.
 
