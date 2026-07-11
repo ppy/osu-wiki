@@ -134,7 +134,6 @@ Darum enthält diese Liste nur Spieler, die den ersten Platz auf der Hauptrangli
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 26.01.2026 | 01.07.2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1qn42wu/qwhj79_reaches_rank_1_in_ctb_once_again_he_played/) |
 | ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 01.07.2026 | heute | [\[1\]](https://www.reddit.com/r/osugame/comments/1ukbvpu/story_has_once_again_became_1_surpassing_qwhj79/) |
 
-
 ## Anzahl der Titelverteidigungen
 
 Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den ersten Platz erreicht hat (Stand: 11. Juli 2026).
