@@ -138,7 +138,6 @@ ppv1 is rather infeasible without a lot of digging, little information is public
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2026-01-26 | 2026-07-01 | [\[1\]](https://www.reddit.com/r/osugame/comments/1qn42wu/qwhj79_reaches_rank_1_in_ctb_once_again_he_played/) |
 | ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 2026-07-01 | Present | [\[1\]](https://www.reddit.com/r/osugame/comments/1ukbvpu/story_has_once_again_became_1_surpassing_qwhj79/) |
 
-
 ## Number of reigns
 
 The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 1 July 2026).
