@@ -8,9 +8,9 @@ Bất kể nội dung âm thanh mang tính chất như thế nào, hãy đảm b
 
 ## Điều gì được coi là nội dung không lành mạnh?
 
-Nội dung không lành mạnh chủ yếu đề cập đến phần **âm thanh của beatmap**, thường thể hiện qua chủ đề, đề tài hoặc việc sử dụng `nhiều` ngôn ngữ tục tĩu trong bài nhạc. Quy định này **không** áp dụng cho bất kỳ yếu tố hình ảnh của beatmap — những nội dung đó **phải** tuân theo [quy định về nội dung trực quan](/wiki/Rules/Visual_content_considerations), và bất cứ yếu tố nào mà người dùng có thể thay đổi với beatmap (ví dụ như thẻ người tạo bản đồ hoặc tên độ khó) đều **bắt buộc** phải tuân theo [quy tắc cộng đồng](/wiki/Rules) như bình thường.
+Nội dung không lành mạnh chủ yếu đề cập đến phần **âm thanh của beatmap**, thường thể hiện qua chủ đề, đề tài hoặc việc sử dụng nhiều ngôn ngữ tục tĩu trong bài nhạc. Quy định này **không** áp dụng cho bất kỳ yếu tố hình ảnh của beatmap — những nội dung đó **phải** tuân theo [quy định về nội dung trực quan](/wiki/Rules/Visual_content_considerations), và bất cứ yếu tố nào mà người dùng có thể thay đổi với beatmap (ví dụ như thẻ người tạo bản đồ hoặc tên độ khó) đều **bắt buộc** phải tuân theo [quy tắc cộng đồng](/wiki/Rules) như bình thường.
 
-Theo nguyên tắc chung, quy định về nội dung không lành mạnh chỉ tạo ngoại lệ đối với nội dung trong bài nhạc mà người dùng không thể chỉnh sửa một cách hợp lý bằng các công cụ được trò chơi cung cấp, và cũng có thể bị thu hồi riêng cho từng bài nhạc theo quyết định của [đội ngũ hỗ trợ tài khoản.](/wiki/People/Account_support_team)
+Theo nguyên tắc chung, quy định về nội dung không lành mạnh chỉ tạo ngoại lệ đối với những phần trong bài nhạc mà người dùng không thể chỉnh sửa hợp lý bằng các công cụ do trò chơi cung cấp, và ngoại lệ này cũng có thể bị thu hồi riêng cho từng bài nhạc theo quyết định của [đội ngũ hỗ trợ tài khoản osu!.](/wiki/People/Account_support_team)
 
 Nhìn chung, hầu hết các bài nhạc đều có thể được sử dụng trong beatmap với một số ngoại lệ nhất định, miễn là chúng đã được đánh dấu một cách phù hợp.
 
