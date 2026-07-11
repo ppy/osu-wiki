@@ -179,10 +179,6 @@ Following 2019, this joke has been repeated every year (in osu!(stable) only).[^
 
 ["MillhioreF - Waltz o' the Irish (MillhioreF)"](https://osu.ppy.sh/beatmapsets/73348#osu/326585) — a long-running joke beatmap within the community — was also [Loved](/wiki/Beatmap/Category#loved) on 31 March 2020 as part of this joke.
 
-## 2022
-
-As announced in a [tweet by peppy](https://x.com/ppy/status/1509716615012958210), there was no April Fools' day joke for osu! in 2022 (other than the [sneezing girl sound effect](#sneezing-girl-sound-effect)) due to development on [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
-
 ## 2026
 
 ### More toggles
