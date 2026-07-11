@@ -136,7 +136,7 @@ Darum enthält diese Liste nur Spieler, die den ersten Platz auf der Hauptrangli
 
 ## Anzahl der Titelverteidigungen
 
-Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den ersten Platz erreicht hat (Stand: 11. Juli 2026).
+Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den ersten Platz erreicht hat (Stand: 1. Juli 2026).
 
 | Spieler | Titelverteidigungen |
 | --: | :-: |
@@ -153,7 +153,7 @@ Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den erste
 
 *Anmerkung: Der aktuelle Spieler auf dem ersten Platz ist nicht in dieser Liste enthalten.*
 
-Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den ersten Platz innehatte (Stand: 11. Juli 2026).
+Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den ersten Platz innehatte (Stand: 1. Juli 2026).
 
 | Spieler | Länge in Tagen |
 | --: | :-: |
@@ -170,7 +170,7 @@ Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den erste
 
 *Anmerkung: Nur Titelverteidigungen mit mehr als 100 Tagen werden genannt. Der aktuelle Spieler auf dem ersten Platz ist nicht enthalten.*
 
-Die folgende Liste stellt die größte Anzahl an aufeinanderfolgenden Tagen dar, in denen ein Spieler den ersten Platz innehatte (Stand: 11. Juli 2026).
+Die folgende Liste stellt die größte Anzahl an aufeinanderfolgenden Tagen dar, in denen ein Spieler den ersten Platz innehatte (Stand: 1. Juli 2026).
 
 | Spieler | von | bis | Länge in Tagen |
 | --: | :-- | :-- | :-: |
