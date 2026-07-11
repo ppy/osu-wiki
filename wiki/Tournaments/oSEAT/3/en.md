@@ -759,7 +759,7 @@ Monday, 30 December 2019:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C8 | **gunadharika** ::{ flag=ID }:: | **5** | 1 | ::{ flag=VN }:: - Sheep - | [#1](https://osu.ppy.sh/community/matches/57362608) |
 | G9 | dika312 ::{ flag=ID }:: | 2 | **5** | ::{ flag=SG }:: **Rtzero** | [#1](https://osu.ppy.sh/community/matches/57363754) |
-| M9 | vernonlim ::{ flag=MY }:: | 4 | **5** | ::{ flag=SG }:: **Lunarsol** | [#1](https://osu.ppy.sh/community/matches/57364051) | [#1](https://osu.ppy.sh/community/matches/57364051) |
+| M9 | vernonlim ::{ flag=MY }:: | 4 | **5** | ::{ flag=SG }:: **Lunarsol** | [#1](https://osu.ppy.sh/community/matches/57364051), [#1](https://osu.ppy.sh/community/matches/57364051) |
 | P5 | **GSBlank** ::{ flag=SG }:: | **5** | 4 | ::{ flag=SG }:: woahsia | [#1](https://osu.ppy.sh/community/matches/57363891) |
 | P9 | blufir\_ ::{ flag=MY }:: | 1 | **5** | ::{ flag=SG }:: **woahsia** | [#1](https://osu.ppy.sh/community/matches/57365371) |
 
