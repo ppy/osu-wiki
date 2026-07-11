@@ -149,7 +149,7 @@ As part of the handful of April Fools' day jokes for 2016, the [osu! cookie](/wi
 
 ## 2017
 
-As announced in a [tweet by peppy](https://twitter.com/ppy/status/848021525663842304), there was no April Fools' day joke for osu! in 2017 due to development on the [lazer](/wiki/Client/Release_stream/Lazer) version of the osu! client.
+As announced in a [tweet by peppy](https://twitter.com/ppy/status/848021525663842304), there was no April Fools' day joke for osu! in 2017 due to development on [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 ## 2018
 
@@ -162,6 +162,8 @@ On 1 April 2018 the [osu! cookie](/wiki/Brand_identity_guidelines) on the main m
 ### Sneezing girl sound effect
 
 For the April Fools' day of 2019, there was approximately a 1 in 20 chance of hearing the sound effect of a high-pitched girl sneezing upon opening a beatmap.[^sneeze-reddit][^sneeze-reddit-2][^sneeze-forums]
+
+Following 2019, this joke has been repeated every year (in osu!(stable) only).[^sneeze-2-reddit][^sneeze-2-reddit-2][^sneeze-2-forums][^sneeze-2-forums-2][^sneeze-3-reddit][^sneeze-3-forums]
 
 ## 2020
 
@@ -177,19 +179,9 @@ For the April Fools' day of 2019, there was approximately a 1 in 20 chance of he
 
 ["MillhioreF - Waltz o' the Irish (MillhioreF)"](https://osu.ppy.sh/beatmapsets/73348#osu/326585) — a long-running joke beatmap within the community — was also [Loved](/wiki/Beatmap/Category#loved) on 31 March 2020 as part of this joke.
 
-### Sneezing girl sound effect
-
-April Fools' day 2020 recycled the same joke from the previous year, which caused an approximately 1 in 20 chance of hearing the sound effect of a high-pitched girl sneezing upon opening a beatmap.[^sneeze-2-reddit][^sneeze-2-reddit-2]
-
-## 2021
-
-### Sneezing girl sound effect
-
-April Fools' day 2021 recycled the same joke from the previous two years, which was a 1 in 20 chance of hearing a sound effect of a high-pitched girl sneezing upon opening a beatmap.[^sneeze-2-forums][^sneeze-2-forums-2]
-
 ## 2022
 
-As announced in a [tweet by peppy](https://x.com/ppy/status/1509716615012958210), there was no April Fools' day joke for osu! in 2022 due to development on the [lazer](/wiki/Client/Release_stream/Lazer) version of the osu! client.
+As announced in a [tweet by peppy](https://x.com/ppy/status/1509716615012958210), there was no April Fools' day joke for osu! in 2022 (other than the [sneezing girl sound effect](#sneezing-girl-sound-effect)) due to development on [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 ## 2026
 
@@ -293,12 +285,15 @@ This toggle section was added in reference to the many requests on [GitHub discu
 [^sneeze-reddit-2]: [Reddit post by u/anoymaly2152 in r/osugame (2019-04-01) "Bless you, Pippi."](https://www.reddit.com/r/osugame/comments/b848ro/bless_you_pippi/)
 [^sneeze-forums]: [Forum thread by Brainage (2019-04-01) "No April Fools in the changelog?"](https://osu.ppy.sh/community/forums/topics/888939)
 
-[^irish-fa]: [News post by Ephemeral (2020-04-01) "New Featured Artist: MillhioreF"](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref)
-
 [^sneeze-2-reddit]: [Reddit post by u/not_pingu in r/osugame (2020-04-01) "Does anybody sometimes hear the "achoo"? (sorry for bad quality)"](https://www.reddit.com/r/osugame/comments/fsxfpk/does_anybody_sometimes_hear_the_achoo_sorry_for/)
 [^sneeze-2-reddit-2]: [Reddit post by u/ohmaytt in r/osugame (2020-04-01) "This year's osu! April Fool's Day joke"](https://www.reddit.com/r/osugame/comments/fsq30l/this_years_osu_april_fools_day_joke/)
 [^sneeze-2-forums]: [Forum thread by MilkyIQ (2021-04-01) "Is this not the third year in a row that we get sneezing girl?"](https://osu.ppy.sh/community/forums/topics/1286906)
 [^sneeze-2-forums-2]: [Forum thread by GreatTurtleKing (2021-04-01) "i heard like a sneeze when i just started to play a song"](https://osu.ppy.sh/community/forums/topics/1286396)
+
+[^sneeze-3-reddit]: [Reddit post by u/Clone_C1 in r/osugame (2022-04-01) "Is peppy trolling, I hear some anime girl sneezing or something when select a song?"](https://www.reddit.com/r/osugame/comments/ttjurr/is_peppy_trolling_i_hear_some_anime_girl_sneezing/)
+[^sneeze-3-forums]: [Forum thread by Antonio225 (2022-04-01) "Osu! Sneezing sound"](https://osu.ppy.sh/community/forums/topics/1550108)
+
+[^irish-fa]: [News post by Ephemeral (2020-04-01) "New Featured Artist: MillhioreF"](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref)
 
 [^2026]: [osu!(lazer) source code](https://github.com/ppy/osu/commit/3edc428c3a084896ec6fcb4f09528cdd0668c0ef)
 [^barrel-roll]: A reference to a meme from [Star Fox 64](https://en.wikipedia.org/wiki/Star_Fox_64), where Peppy Hare advises the player to "Do a barrel roll!", i.e. rotate 360 degrees.
