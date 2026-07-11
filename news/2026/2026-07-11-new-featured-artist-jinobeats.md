@@ -31,7 +31,7 @@ At [osu!Sweden LAN 2026](https://osu.ppy.sh/home/news/2026-05-12-osusweden-lan-2
 
 ### JinoBeats, Double-U & Drazically - INSIPIDITY
 
-[This map of a three-way-collab song](https://osu.ppy.sh/beatmapsets/2542510) by [SStoney](https://osu.ppy.sh/users/8576252) and [yeyygitalp](https://osu.ppy.sh/users/26015902) hit the Ranked section just a few days ago!
+[This map of a three way collab song](https://osu.ppy.sh/beatmapsets/2542510) by [SStoney](https://osu.ppy.sh/users/8576252) and [yeyygitalp](https://osu.ppy.sh/users/26015902) hit the Ranked section just a few days ago!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/477/Songs/JinoBeats_Double-U__Drazically_-_INSIPIDITY.mp3">
