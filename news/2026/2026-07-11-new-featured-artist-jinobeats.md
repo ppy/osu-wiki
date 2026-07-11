@@ -21,7 +21,7 @@ If you're not sure where to start, preview the stories **JinoBeats** has crafted
 
 While you could watch the [Lazer Grand Arena mappool showcase](https://www.youtube.com/watch?v=HIOX_8K_vIs) of [this map](https://osu.ppy.sh/beatmapsets/2373140) hosted by [Kyairie](https://osu.ppy.sh/users/10910405), we thought it would be more fun to see it played in *reality*.
 
-At [osu!Sweden LAN 2026](https://osu.ppy.sh/home/news/2026-05-12-osusweden-lan-2026), three circle clickers joined a multiplayer lobby and were observed from above by a mysteriously out of focus camera. Here's how that went:
+At [osu!Sweden LAN 2026](https://osu.ppy.sh/home/news/2026-05-12-osusweden-lan-2026), three circle clickers joined a multiplayer lobby and were observed from above by a mysteriously out-of-focus camera. Here's how that went:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -31,7 +31,7 @@ At [osu!Sweden LAN 2026](https://osu.ppy.sh/home/news/2026-05-12-osusweden-lan-2
 
 ### JinoBeats, Double-U & Drazically - INSIPIDITY
 
-[This map of a three way collab song](https://osu.ppy.sh/beatmapsets/2542510) by [SStoney](https://osu.ppy.sh/users/8576252) and [yeyygitalp](https://osu.ppy.sh/users/26015902) hit the Ranked section just a few days ago!
+[This map of a three-way collab song](https://osu.ppy.sh/beatmapsets/2542510) by [SStoney](https://osu.ppy.sh/users/8576252) and [yeyygitalp](https://osu.ppy.sh/users/26015902) hit the Ranked section just a few days ago!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/477/Songs/JinoBeats_Double-U__Drazically_-_INSIPIDITY.mp3">
@@ -48,6 +48,8 @@ At [osu!Sweden LAN 2026](https://osu.ppy.sh/home/news/2026-05-12-osusweden-lan-2
 <audio controls>
     <source src="https://assets.ppy.sh/artists/477/Songs/Xeveir_and_Xeron_-_Seraphim.mp3">
 </audio>
+
+<!-- lint ignore no-heading-punctuation -->
 
 ### Jouxl Eterna - :gamma:
 
