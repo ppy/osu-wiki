@@ -11,6 +11,8 @@ tags:
   - rango 1
   - "rango #1"
   - clasificaciones
+outdated_translation: true
+outdated_since: 2a0c531104dbb6550aa1d987fb3f15e3d817e740
 ---
 
 # Historial de las clasificaciones de osu!
