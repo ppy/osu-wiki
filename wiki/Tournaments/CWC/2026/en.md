@@ -9,7 +9,7 @@ tags:
 
 ![CWC 2026 banner](img/cwc2026-banner.jpg)
 
-The **osu!catch World Cup 2026** (***CWC 2026***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the fifteenth instalment of the osu!catch World Cup.
+The **osu!catch World Cup 2026** (***CWC 2026***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the fifteenth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!catch World Cup 2026** (***CWC 2026***) is a country-based osu!catch t
 
 ## Prizes
 
-The osu!catch World Cup 2026 offers a $2,000 cash prize pool and limited-edition merch.
+The osu!catch World Cup 2026 offered a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
