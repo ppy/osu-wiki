@@ -3,12 +3,14 @@ tags:
   - history
   - leaderboard
   - rank 1
-  - "rank #1"
+  - 'rank #1'
   - rankings
   - top player
   - Geschichte
   - erster Rang
   - bester Spieler
+outdated_translation: true
+outdated_since: 2a0c531104dbb6550aa1d987fb3f15e3d817e740
 ---
 
 # Geschichte der Online-Ranglisten
