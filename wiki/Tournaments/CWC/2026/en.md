@@ -35,9 +35,11 @@ The osu!catch World Cup 2026 offers a $2,000 cash prize pool and limited-edition
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/cwc2026-badge-1st.png "CWC 2026 winner badge") ![](img/cwc2026-badge-2nd.png "CWC 2026 2nd-place badge") ![](img/cwc2026-badge-3rd.png "CWC 2026 3rd-place badge")
+
 ## Organisation
 
-The osu!catch World Cup 2026 is run by various community members.
+The osu!catch World Cup 2026 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -61,7 +63,6 @@ The osu!catch World Cup 2026 is run by various community members.
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/55)
 - [Challonge bracket](https://challonge.com/CWC2026)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/196) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1728)
 
 ## Participants
 
@@ -116,21 +117,25 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99153d582c530823a55fa1beef737ec).
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, 11 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 61 | Poland ::{ flag=PL }:: | ::{ flag=FR }:: France | [Jul 11 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T160000&p1=1440&p2=262&p3=195) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
-
-### Sunday, 12 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 62a | Argentina ::{ flag=AR }:: | Winner of ::{ flag=PL }:: PL vs ::{ flag=FR }:: FR | [Jul 12 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T160000&p1=1440&p2=51&p3=262) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+![](img/cwc2026-podium.jpg "CWC 2026 podium")
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 11 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 61 | **Poland** ::{ flag=PL }:: | **7** | 5 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/121493380) | [#1](https://www.twitch.tv/videos/2818306357) |
+
+Sunday, 12 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 62a | **Argentina** ::{ flag=AR }:: | **7** | 4 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/121500052) | [#1](https://www.twitch.tv/videos/2818377183) |
 
 ### Finals
 
