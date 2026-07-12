@@ -40,7 +40,7 @@ MISS 的扣血量受 HP 值线性影响[^DifficultyRange]。
 
 ### osu!mania
 
-在 [osu!mania](/wiki/Game_mode/osu!mania) 模式中，HP 值仅作用于打击判定时的血量变化量（不涉及随时间被动流失），具体数值如下表所示：[^ManiaHealthProcessor]
+在 [osu!mania](/wiki/Game_mode/osu!mania) 模式中，HP 值仅作用于打击判定时的血量变化量（不涉及随时间被动掉血），具体数值如下表所示：[^ManiaHealthProcessor]
 
 | 判定 (HitResult) | 对象类型 (HitObject) | 通用公式 | HP = 0 | HP = 5 | HP = 10 | HP = 11 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
