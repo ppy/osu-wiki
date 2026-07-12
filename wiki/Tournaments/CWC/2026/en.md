@@ -679,7 +679,5 @@ The final team score to be sorted is defined as `Final score = SUM(Map percentag
 
 ## Notes
 
-[^lb-grand-finals]: Losers bracket Grand Finals match
-[^grand-finals]: Grand Finals match – Final matchup depends on the preceding Losers bracket match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
