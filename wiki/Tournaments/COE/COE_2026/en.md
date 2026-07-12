@@ -122,7 +122,6 @@ Friday, 10th of July 2026:
 | --: | :-: | :-: | :-- | :-- |
 | **origin_** ::{ flag=RO }:: | **5** | 4 | ::{ flag=US }:: BoshyMan741 | [#1](https://osu.ppy.sh/multiplayer/rooms/3578987/events) & [#2](https://osu.ppy.sh/multiplayer/rooms/3579588/events) |
 
-
 Saturday, 11th of July 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
@@ -143,7 +142,7 @@ Sunday, 12th of July 2026:
 | **papercandle** ::{ flag=NO }:: | **5** | 4 | ::{ flag=FR }:: Hifkil | [#1](https://osu.ppy.sh/multiplayer/rooms/3603679/events) |
 | **runnysunny** ::{ flag=DE }:: | **5** | 2 | ::{ flag=SM }:: argweid | [#1](https://osu.ppy.sh/multiplayer/rooms/3598861/events) |
 | **NINERIK** ::{ flag=NO }:: | **5** | 3 | ::{ flag=RO }:: origin_ | [#1](https://osu.ppy.sh/multiplayer/rooms/3603038/events) |
-| Aheo ::{ flag=NL }:: | 0 | **5** | ::{ flag=GB }:: **Bubbleman**| [#1](https://osu.ppy.sh/multiplayer/rooms/3603038/events) |
+| Aheo ::{ flag=NL }:: | 0 | **5** | ::{ flag=GB }:: **Bubbleman**| [#1](https://osu.ppy.sh/multiplayer/rooms/3597325/events) |
 
 Monday, 13th of July 2026:
 
