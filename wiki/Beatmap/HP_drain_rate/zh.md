@@ -9,7 +9,7 @@ tags:
 
 # 掉血速度 (HP drain rate)
 
-*对于该文章的 osu!(lazer) 版本，请见：[掉血速度 (HP drain rate)](/wiki/Beatmap/HP_drain_rate_(lazer))*\
+*对于该文章的 osu!(lazer) 版本，请见：[掉血速度 (HP drain)](/wiki/Beatmap/HP_drain_rate_(lazer))*\
 *关于游戏机制含义的血量，参见：[血量](/wiki/Gameplay/Health)*
 
 **掉血速度** (***HP***) 是一张[谱面](/wiki/Beatmap)的难度设置，控制由于[掉血](/wiki/Gameplay/Health)被动失去的[血量](/wiki/Gameplay/Health)。也会影响玩家漏掉物件时被惩罚的严重情况，以及准确点击[打击物件](/wiki/Gameplay/Hit_object)获得的血量多少。
