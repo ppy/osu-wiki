@@ -59,7 +59,7 @@ Detailed qualifier results can be found [here]().
 | 1–8 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902), ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961), ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183), ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659), ::{ flag=NO }:: [papercandle](https://osu.ppy.sh/users/12353810), ::{ flag=DE }:: [runnysunny](https://osu.ppy.sh/users/15339747), ::{ flag=NO }:: [NINERIK](https://osu.ppy.sh/users/10549880), ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) |
 | 9–24 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=RO }:: [origin_](https://osu.ppy.sh/users/15095811), ::{ flag=SM }:: [argweid](https://osu.ppy.sh/users/11215030), ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738), ::{ flag=DE }:: [yary](https://osu.ppy.sh/users/13300203), ::{ flag=PL }:: [gnahus](https://osu.ppy.sh/users/12779141), ::{ flag=UA }:: [GET LOVED](https://osu.ppy.sh/users/13705417), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=IT }:: [kusuriya](https://osu.ppy.sh/users/6387149), ::{ flag=GB }:: [lystia](https://osu.ppy.sh/users/11042418), ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598), ::{ flag=GB }:: [fudge](https://osu.ppy.sh/users/11592896), ::{ flag=FR }:: [Hifkil](https://osu.ppy.sh/users/4301976), ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222), ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687), ::{ flag=US }:: [Crestive](https://osu.ppy.sh/users/10909049) |
 | 25–40 | ::{ flag=PL }:: [hav](https://osu.ppy.sh/users/14100781), ::{ flag=AU }:: [cloppit](https://osu.ppy.sh/users/19851850), ::{ flag=FR }:: [Oly9919](https://osu.ppy.sh/users/10325072), ::{ flag=AT }:: [z10a](https://osu.ppy.sh/users/18153252), ::{ flag=AT }:: [fedoragoose](https://osu.ppy.sh/users/2323131), ::{ flag=PL }:: [Agent5d](https://osu.ppy.sh/users/5472693), ::{ flag=NO }:: [Melvr](https://osu.ppy.sh/users/9211924), ::{ flag=FI }:: [Mike Tyson](https://osu.ppy.sh/users/14764185), ::{ flag=NL }:: [John ethken](https://osu.ppy.sh/users/641155), ::{ flag=GB }:: [Mahmood](https://osu.ppy.sh/users/7627844), ::{ flag=AU }:: [palr](https://osu.ppy.sh/users/15429006), ::{ flag=NL }:: [dracoria](https://osu.ppy.sh/users/20241831), ::{ flag=AT }:: [z9a](https://osu.ppy.sh/users/13057699), ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956), ::{ flag=MX }:: [pundice](https://osu.ppy.sh/users/7940696), ::{ flag=NO }:: [HUNDUR](https://osu.ppy.sh/users/3145033) |
-| *N/A* | ::{ flag=PL }:: [distantmemory](https://osu.ppy.sh/users/9322480), ::{ flag=BE }:: [lychee boba](https://osu.ppy.sh/users/7078544), ::{ flag=NO }:: [Read Horimiya](https://osu.ppy.sh/users/7078544), ::{ flag=IS }:: [Hraunfellsvatn](https://osu.ppy.sh/users/6583413), ::{ flag=US }:: [AWhitePhoenix](https://osu.ppy.sh/users/18649076), ::{ flag=US }:: [polkip](https://osu.ppy.sh/users/8110821), ::{ flag=PL }:: [cynth0ni](https://osu.ppy.sh/users/8350931), ::{ flag=GB }:: [Filizanowski](https://osu.ppy.sh/users/29460766), ::{ flag=NO }:: [suppejeger](https://osu.ppy.sh/users/12182913) |
+| *N/A* | ::{ flag=PL }:: [distantmemory](https://osu.ppy.sh/users/9322480), ::{ flag=BE }:: [lychee boba](https://osu.ppy.sh/users/7078544), ::{ flag=NO }:: [Read Horimiya](https://osu.ppy.sh/users/14963905), ::{ flag=IS }:: [Hraunfellsvatn](https://osu.ppy.sh/users/6583413), ::{ flag=US }:: [AWhitePhoenix](https://osu.ppy.sh/users/18649076), ::{ flag=US }:: [polkip](https://osu.ppy.sh/users/8110821), ::{ flag=PL }:: [cynth0ni](https://osu.ppy.sh/users/8350931), ::{ flag=GB }:: [Filizanowski](https://osu.ppy.sh/users/29460766), ::{ flag=NO }:: [suppejeger](https://osu.ppy.sh/users/12182913) |
 
 ## Podium
 
@@ -112,42 +112,6 @@ Detailed qualifier results can be found [here]().
 
 ## Match results
 
-### Offline stage
-
-The bracket for the offline stage can be found [here]().
-
-Thursday, 30th of July 2026:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-
-
-Friday, 31st July 2026:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-
-Saturday, 1st of August 2026:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-
 ### Online stage
 
 The bracket for the online stage can be found [here](https://liquipedia.net/osu/COE/2026/Play-In#Results).
@@ -187,26 +151,7 @@ Monday, 13th of July 2026:
 | --: | :-: | :-: | :-- | :-- |
 | GET LOVED ::{ flag=UA }:: | 0 | 0 | ::{ flag=GB }:: lystia | [#1]() |
 | mrekk ::{ flag=AU }:: | 0 | 0 | ::{ flag=IT }:: kusuriya | [#1]() |
-| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag= }:: Winner of GET LOVED vs lystia | [#1]() |
-
-
-Saturday, 18th of July 2026:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-|  ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-|  ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-|  ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-|  ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-
-Sunday, 19th of July 2026:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
+| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | Winner of GET LOVED vs lystia | [#1]() |
 
 
 ## Ruleset
@@ -405,7 +350,7 @@ Rounds with disconnects within 30 seconds or 25% of the beatmap length, whicheve
 
 Should a map end in a draw the beatmap will be replayed, before moving on to the next pick.
 
-### 7 Code of conduct
+### 7. Code of conduct
 
 #### 7.1 Tournament management
 
