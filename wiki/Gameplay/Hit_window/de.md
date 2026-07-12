@@ -1,6 +1,6 @@
 # Trefferfenster
 
-![Veranschaulichung eines Trefferfensters](img/hit_window.png "Visualisierung der möglichen Ergebnisse eines Treffers")
+![Veranschaulichung eines Trefferfensters](img/hit_window-DE.png "Visualisierung der möglichen Ergebnisse eines Treffers")
 
 Spieler müssen jedes [Hit-Objekt](/wiki/Gameplay/Hit_object) in einer bestimmten Zeitspanne, genannt **Trefferfenster**, treffen. Je höher die Genauigkeit eines Treffers ist, desto mehr Punkte erhält man. Verfehlt man ein Hit-Objekt, wird das als Miss gewertet.
 
