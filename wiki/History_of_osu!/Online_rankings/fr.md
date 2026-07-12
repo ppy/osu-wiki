@@ -3,15 +3,17 @@ tags:
   - history
   - leaderboard
   - rank 1
-  - "rank #1"
+  - 'rank #1'
   - rankings
   - top player
   - histoire
   - classement
   - rang 1
-  - "rang #1"
+  - 'rang #1'
   - classements
   - meilleur joueur
+outdated_translation: true
+outdated_since: 2a0c531104dbb6550aa1d987fb3f15e3d817e740
 ---
 
 # L'histoire des classements
