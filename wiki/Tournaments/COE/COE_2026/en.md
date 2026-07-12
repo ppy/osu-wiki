@@ -52,7 +52,7 @@ The COE 2026 1v1 Tournament prizes are yet to be announced.
 
 ## Participants
 
-Detailed qualifier results can be found [here]().
+Detailed qualifier results can be found [here](https://docs.google.com/spreadsheets/d/1OUw0gzwpIqKqqX7u40DnEMVVLAAE2KdxmSjaiiogRBM/edit?gid=1728026468#gid=1728026468).
 
 | Qualifier seed | Player |
 | :-: | :-- |
