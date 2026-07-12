@@ -120,7 +120,7 @@ Friday, 10th of July 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **origin_** ::{ flag=RO }:: | **5** | 4 | ::{ flag=US }:: BoshyMan741 | [#1](https://osu.ppy.sh/multiplayer/rooms/3578987/events) [#2](https://osu.ppy.sh/multiplayer/rooms/3579588/events) |
+| **origin_** ::{ flag=RO }:: | **5** | 4 | ::{ flag=US }:: BoshyMan741 | [#1](https://osu.ppy.sh/multiplayer/rooms/3578987/events) & [#2](https://osu.ppy.sh/multiplayer/rooms/3579588/events) |
 
 
 Saturday, 11th of July 2026:
