@@ -5,7 +5,7 @@ tags:
 
 # Choke
 
-Der Begriff **Choke** (zu Dt. ins Straucheln geraten) beschreibt die Situation, dass ein Spieler fast eine vollständige Combo auf einer [Beatmap](/wiki/Beatmap) erlangt, aber kurz vor Ende [seine Combo unerwarteterweise verliert](/wiki/Gameplay/Judgement/Combobreak), sprich der Punktemultiplikator wird auf 0 zurückgesetzt. Im Gegensatz dazu bedeutet ein **Reverse Choke**, dass der Spieler bereits am Anfang seine Combo verliert, aber für den Rest der Beatmap die Combo aufrechterhält. In [osu!](/wiki/Game_mode/osu!) und [osu!catch](/wiki/Game_mode/osu!catch) kann der Unterschied in der [Gesamtpunktzahl](/wiki/Gameplay/Score) zwischen normalen Chokes und Chokes am Anfang enorm sein. Durch einen hohen Punktemultiplikator erzielt der Spieler mehr Punkte, was bei einem Verlieren der angesammelten Combo zu einem späten Zeitpunkt nicht möglich ist.
+Der Begriff **Choke** (zu Dt. ins Straucheln geraten) beschreibt die Situation, dass ein Spieler fast eine [vollständige Combo](/wiki/Gameplay/Full_combo) auf einer [Beatmap](/wiki/Beatmap) erlangt, aber kurz vor Ende [seine Combo unerwarteterweise verliert](/wiki/Gameplay/Judgement/Combobreak), sprich der Punktemultiplikator wird auf 0 zurückgesetzt. Im Gegensatz dazu bedeutet ein **Reverse Choke**, dass der Spieler bereits am Anfang seine Combo verliert, aber für den Rest der Beatmap die Combo aufrechterhält.
 
 In vielen anderen Online-Communities ist dieser Begriff für vergleichbare Situationen ebenfalls weit verbreitet (z. B. in [*Super Smash Bros.*](https://de.wikipedia.org/wiki/Super_Smash_Bros.) oder bei [*Speedruns*](https://de.wikipedia.org/wiki/Speedrun)).
 
