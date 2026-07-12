@@ -5,6 +5,8 @@ tags:
   - чоук
   - реверс-чоук
   - реверс чоук
+outdated_translation: true
+outdated_since: 7b0b87f8f5aeabd3ad0011b00e476f97026cfb8c
 ---
 
 # Чоук
