@@ -56,8 +56,6 @@ MISS 的扣血量受 HP 值线性影响[^DifficultyRange]。
 
 以下 7 个模组激活时会改变掉血速度：
 
-<!-- TODO: confirm how each module will modify the values -->
-
 - [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer))：将 HP 值减半。
 - [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer))：将 HP 值乘上 1.4，最大值为 10。
 - [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer))/[Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer))：HP 值不受影响，但由于 50% 加速效果，被动掉血速率加快 50%。

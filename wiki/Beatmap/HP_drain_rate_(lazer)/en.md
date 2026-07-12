@@ -54,8 +54,6 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the HP value only affects the health 
 
 There are seven mods that alter the HP drain rate when activated:
 
-<!-- TODO: confirm how each module will modify the values -->
-
 - [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)): Halves the HP value.
 - [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)): Multiplies the HP value by 1.4, up to a maximum of 10.
 - [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer))/[Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)): The HP value is not affected, but due to the 50% play speed increase, health drain occurs 50% faster.
