@@ -1,8 +1,8 @@
 # COE 2026 1v1 Tournament
 
-![](img/banner.PNG)
+![](img/banner.jpg)
 
-The **COE 2026 1v1 Tournament** was a 1v1 single-elimination osu! LAN tournament run entirely in the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client, and hosted during [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event) 2026 (COE 2026) at Brabanthallen in 's-Hertogenbosch, Netherlands. It was the sixth instalment of the COE tournament series.
+The **COE 2026 1v1 Tournament** is a 1v1 single-elimination osu! LAN tournament run entirely in the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client, and hosted during [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event) 2026 (COE 2026) at Brabanthallen in 's-Hertogenbosch, Netherlands. It is the sixth instalment of the COE tournament series.
 
 ## Tournament schedule
 
