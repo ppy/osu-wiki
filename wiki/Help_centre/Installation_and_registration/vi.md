@@ -1,5 +1,10 @@
 ---
 tags:
+  - install
+  - download
+  - account
+  - profile
+  - register
   - cài đặt
   - tải xuống
   - tài khoản
