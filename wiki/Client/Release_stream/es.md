@@ -4,11 +4,11 @@ stub: true
 
 # Canal de lanzamiento
 
-osu! tiene algunos **canales de lanzamiento** o versiones de los clientes de juego, que reciben actualizaciones a ritmos diferentes. Para detectar posibles problemas con antelación, las nuevas funciones y cambios se incluyen en versiones preliminares antes de llegar al cliente stable.
+osu! cuenta con varios **canales de lanzamiento**; es decir, versiones del cliente del juego, que reciben actualizaciones con diferentes frecuencias. Con el fin de detectar posibles problemas a tiempo, las nuevas funciones y los cambios se incorporan primero a las versiones de prueba antes de llegar al cliente principal.
 
-| Canal de lanzamiento | Notas |
-| :-- | :-- |
-| Stable | Versión actual y más popular; [bloqueada de nuevas características](https://en.wikipedia.org/wiki/Freeze_(software_engineering)); recibe actualizaciones después de Beta |
-| Beta | Recibe actualizaciones después de Cutting Edge; bloqueada de nuevas características |
-| Cutting Edge | Recibe las actualizaciones más recientes; bloqueada de nuevas características |
-| [Lazer](Lazer) | Cliente del juego reescrito; más activo en desarrollo con [muchas diferencias y nuevas características](/wiki/Client/Release_stream/Lazer/Feature_comparison). |
+| Canal de lanzamiento | Cliente | Notas |
+| :-- | :-- | :-- |
+| `Stable` | osu!(stable) | La versión más reciente de osu!(stable); [bloqueada de recibir nuevas funciones](https://en.wikipedia.org/wiki/Freeze_(software_engineering)); recibe actualizaciones después de `Cutting Edge (Experimental)`. |
+| `Cutting Edge (Experimental)` | osu!(stable) | Recibe las actualizaciones de osu!(stable) antes; bloqueada de recibir nuevas funciones; incluye algunas funciones adicionales en comparación con la versión `Stable`; el modo [multijugador](/wiki/Client/Interface/Multiplayer) solo está disponible para los [usuarios con una etiqueta de osu!supporter](/wiki/osu!supporter). |
+| [`Lazer`](Lazer) | osu!(lazer) | El cliente del juego totalmente reescrito; [código abierto](https://github.com/ppy/osu); es el que presenta un desarrollo más activo, con [muchas diferencias y nuevas funciones](/wiki/Help_centre/Upgrading_to_lazer#diferencias-de-jugabilidad). |
+| `Tachyon (Unstable)` | osu!(lazer) | Versión de prelanzamiento de `Lazer`; recibe las actualizaciones de osu!(lazer) antes y con mayor frecuencia. |

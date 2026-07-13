@@ -17,11 +17,11 @@ Diese Seite listet alle Spieler auf, die in der [globalen Rangliste](https://osu
 
 Im Laufe der Jahre gab es drei verschiedene Systeme für die Einstufung von Spielern:
 
-- [Ranked Score](/wiki/Gameplay/Score/Ranked_score) (vom 6. Oktober 2007 bis 24. Juli 2012)
-- [ppv1](/wiki/Performance_points/ppv1) (vom 24. Juli 2012 bis 27. Januar 2014)
-- [ppv2](/wiki/Performance_points) (vom 27. Januar 2014 bis heute)
+- [Ranked score](/wiki/Gameplay/Score/Ranked_score) (6. Oktober 2007 bis 24. Juli 2012)
+- [ppv1](/wiki/Performance_points/ppv1) (24. Juli 2012 bis 27. Januar 2014)
+- [ppv2](/wiki/Performance_points) (27. Januar 2014 bis heute)
 
-Darum enthält diese Liste nur Spieler, die den Platz 1 auf der Hauptrangliste erreichten, die zu diesem Zeitpunkt verwendet wurde. Daten und Zahlen *in Kursivschrift* geben an, dass der entsprechende Spieler seinen Titel als Gewinner von osu! weiterhin entweder im vorhergehenden oder im folgenden Jahr souverän verteidigt.
+Darum enthält diese Liste nur Spieler, die den ersten Platz auf der Hauptrangliste erreichten, die zu diesem Zeitpunkt verwendet wurde. Daten und Zahlen *in Kursivschrift* geben an, dass der entsprechende Spieler seinen Titel als Gewinner von osu! weiterhin entweder im vorhergehenden oder im folgenden Jahr souverän verteidigt.
 
 Es wird zwar angenommen, dass ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) der erste Spieler auf Platz 1 war, aber keine Quelle kann diese Behauptung belegen.
 
@@ -287,11 +287,25 @@ Es wird zwar angenommen, dass ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *08.04.2021* | 21.07.2024 | [\[1\]](https://web.archive.org/web/20210408052501/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[4\]](https://osu.ppy.sh/scores/osu/3584256449) [\[5\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[6\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
 | ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 21.07.2024 | 03.08.2024 | [\[1\]](https://web.archive.org/web/20240722000045/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://web.archive.org/web/20240721223116/https://osu.ppy.sh/users/9269034) [\[3\]](https://ameobea.me/osutrack/user/9MlCE/) [\[4\]](https://old.reddit.com/r/osugame/comments/1e8yf1a/akolibed_is_now_1_passing_mrekk/) [\[5\]](https://osu.ppy.sh/scores/3198116312) [\[6\]](https://old.reddit.com/r/osugame/comments/1e8yf30/9mlce_akolibed_xi_over_the_top_expert_tynamo_1035/) |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 03.08.2024 | heute | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 03.08.2024 | *14.06.2026* | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
+
+## 2025
+
+| Spieler | von | bis | Quellen |
+| --: | :-- | :-- | :-- |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *03.08.2024* | *14.06.2026* | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
+
+## 2026
+
+| Spieler | von | bis | Quellen |
+| --: | :-- | :-- | :-- |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *03.08.2024* | 14.06.2026 | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 14.06.2026 | 11.07.2026 | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) [\[4\]](https://www.reddit.com/r/osugame/comments/1u5c8xl/cryshina_kardashev_cellar_of_ghosts_shoyeus_faint/) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 11.07.2026 | heute | [\[1\]](https://web.archive.org/web/20260711064234/https://osu.ppy.sh/rankings/osu/global/performance) [\[2\]](https://web.archive.org/web/20260711130813/https://osu.ppy.sh/users/14715160/osu) [\[3\]](https://web.archive.org/web/20260711125753/https://osu.ppy.sh/users/7562902/osu) [\[4\]](https://www.reddit.com/r/osugame/comments/1uta8q2/mrekk_is_now_1_global/) |
 
 ## Anzahl der Titelverteidigungen
 
-Die folgende Liste stellt die Gesamtzahl der Male dar, die ein Spieler in seiner Spielzeit den Platz 1 erreicht hat (Stand: 8. August 2024).
+Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den ersten Platz erreicht hat (Stand: 11. Juli 2026).
 
 | Spieler | Titelverteidigungen |
 | --: | :-: |
@@ -313,13 +327,14 @@ Die folgende Liste stellt die Gesamtzahl der Male dar, die ein Spieler in seiner
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 4 |
 | ::{ flag=PL }:: [Kubu](https://osu.ppy.sh/users/29130) | 4 |
 | ::{ flag=JP }:: [tobebuta](https://osu.ppy.sh/users/14053) | 4 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 3 |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | 3 |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 2 |
 | ::{ flag=TW }:: [Uan](https://osu.ppy.sh/users/147623) | 2 |
 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) | 2 |
 | ::{ flag=CN }:: [5231_Kinoko](https://osu.ppy.sh/users/181057) | 1 |
 | ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 1 |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 1 |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 1 |
 | ::{ flag=TW }:: [f0012979](https://osu.ppy.sh/users/12143) | 1 |
 | ::{ flag=JP }:: [Flute](https://osu.ppy.sh/users/211278) | 1 |
@@ -337,11 +352,11 @@ Die folgende Liste stellt die Gesamtzahl der Male dar, die ein Spieler in seiner
 
 *Anmerkung: Der aktuelle Spieler auf dem ersten Platz ist nicht in dieser Liste enthalten.*
 
-Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den Titel des ersten Platzes getragen hat (Stand: 8. August 2024).
+Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den ersten Platz innehatte (Stand: 11. Juli 2026).
 
 | Spieler | Länge in Tagen |
 | --: | :-: |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 1200 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 1880 |
 | ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) | 967 |
 | ::{ flag=TW }:: [hvick225](https://osu.ppy.sh/users/50265) | 578 |
 | ::{ flag=DE }:: [WhiteCat](https://osu.ppy.sh/users/4504101) | 550 |
@@ -366,6 +381,7 @@ Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den Titel
 | ::{ flag=KR }:: [Reimu-Desu](https://osu.ppy.sh/users/948713) | 35 |
 | ::{ flag=AU }:: [eyup](https://osu.ppy.sh/users/88) | 33 |
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 33 |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 27 |
 | ::{ flag=US }:: [Rolled](https://osu.ppy.sh/users/5243) | 27 |
 | ::{ flag=KR }:: [Sure](https://osu.ppy.sh/users/70730) | 26 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 20 |
@@ -381,13 +397,14 @@ Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den Titel
 
 ## Längste ununterbrochene Titelverteidigung
 
-*Anmerkung: Nur Titelverteidigungen mit mehr als 100 Tagen werden genannt. Der aktuelle Platz 1 ist nicht enthalten.*
+*Anmerkung: Nur Titelverteidigungen mit mehr als 100 Tagen werden genannt. Der aktuelle Spieler auf dem ersten Platz ist nicht enthalten.*
 
-Die folgende Liste stellt die größte Anzahl an aufeinanderfolgenden Tagen dar, in denen ein Spieler den ersten Platz innehatte (Stand: 8. August 2024).
+Die folgende Liste stellt die größte Anzahl an aufeinanderfolgenden Tagen dar, in denen ein Spieler den ersten Platz innehatte (Stand: 11. Juli 2026).
 
 | Spieler | von | bis | Länge in Tagen |
 | --: | :-- | :-- | :-: |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 04.08.2021 | 21.07.2024 | 1200 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 08.04.2021 | 21.07.2024 | 1200 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 03.08.2024 | 14.06.2026 | 680 |
 | ::{ flag=DE }:: [WhiteCat](https://osu.ppy.sh/users/4504101) | 06.10.2019 | 08.04.2021 | 550 |
 | ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) | 23.10.2016 | 21.01.2018 | 455 |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | 23.12.2007 | 06.09.2008 | 258 |

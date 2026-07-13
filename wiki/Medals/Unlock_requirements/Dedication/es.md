@@ -23,9 +23,9 @@
 | Nombre de la medalla | Requisito | Descripción |
 | :-- | :-- | :-- |
 | Catch 20,000 fruits | Atrapa un total de 20 000 frutas en osu!catch. | Eso es mucha fibra dietética. |
-| Catch 200,000 fruits | Atrapa un total de 200 000 frutas en osu!catch. | He oído que te gusta la fruta... |
+| Catch 200,000 fruits | Atrapa un total de 200 000 frutas en osu!catch. | He oído que te gustan la frutas... |
 | Catch 2,000,000 fruits | Atrapa un total de 2 000 000 de frutas en osu!catch. | Completamente saludable. |
-| Catch 20,000,000 fruits | Atrapa un total de 20 000 000 de frutas en osu!catch | No se deja nada atrás. |
+| Catch 20,000,000 fruits | Atrapa un total de 20 000 000 de frutas en osu!catch. | No se deja nada atrás. |
 
 ## osu!mania
 

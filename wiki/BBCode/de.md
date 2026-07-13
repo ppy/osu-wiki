@@ -15,6 +15,34 @@ Beispiele für die korrekte und inkorrekte Benutzung von verschachtelten Tags si
 - `[centre][b]Text[/b][/centre]` ist korrekt
 - `[b][centre]Text[/b][/centre]` ist inkorrekt
 
+## Textausrichtung
+
+Tags zur Textausrichtung werden verwendet, um die horizontale Positionierung von Text und BBCode-Elementen zu definieren. Wenn Text innerhalb des Tags `[quote]` platziert wird, dann wird dieser innerhalb des Zitatblocks abhängig vom Tag ausgerichtet, aber die stilistische Linie des Zitatblocks verbleibt auf der linken Seite.
+
+### Linksbündig
+
+```
+[left]Text[/left]
+```
+
+Mit dem Tag `[left]` werden Inhalte linksbündig ausgerichtet. Standardmäßig sind alle Inhalte linksbündig.
+
+### Zentriert
+
+```
+[centre]Text[/centre]
+```
+
+Mit dem Tag `[centre]` werden Inhalte zentriert. Es wird meistens für den stilistischen Effekt in Titeln, Überschriften oder Gedichten verwendet.
+
+### Rechtsbündig
+
+```
+[right]Text[/right]
+```
+
+Mit dem Tag `[right]` werden Inhalte rechtsbündig ausgerichtet.
+
 ## Tags
 
 BBCode, wie viele andere Markup-Sprachen, formatiert Text durch ein System von Tags, die durch ein Paar eckiger Klammern (`[]`) gekennzeichnet sind. Diese Tags sind aufgeteilt in "öffnende" und "schließende" Tags, die durch das Einfügen eines Schrägstrichs (`/`) unterscheidbar werden. D. h., dass schließende Tags einen Schrägstrich direkt nach der öffnenden Klammer haben, wohingegen öffnende Tags dies nicht haben.
@@ -173,14 +201,6 @@ Text
 Das Tag `[code]` wird benutzt, um *vorformatierte Codeblöcke* (auch *vorformatierter Text*) zu erstellen. Auf der osu!-Webseite formatiert dieses Tag Text in einer Monospace-Schriftart innerhalb einer halbtransparenten grauen Box. Die Formatierung von Text innerhalb eines Codeblocks behandelt der Editor als reinen Text, sodass dieser nicht als Quellcode oder ähnliches interpretiert wird.
 
 In den osu!-Foren werden Codeblöcke meistens verwendet, um Quellcode für ein [Storyboard](/wiki/Storyboard) zu zeigen, oder in Tutorials, die die Syntax für Tags, Befehle oder Quellcode präsentieren.
-
-### Zentrierung
-
-```
-[centre]Text[/centre]
-```
-
-Das Tag `[centre]` wird benutzt, um Text mittig in einer Box zu platzieren. Es wird meistens für den stilistischen Effekt in Titeln, Überschriften oder Gedichten verwendet. Wenn Text innerhalb des Tags `[quote]` gesetzt wird, dann wird dieser innerhalb des Zitatblocks zentriert sein, aber die stilistischen Linien usw. werden es nicht.
 
 ### URL
 
@@ -377,7 +397,7 @@ Diese Programme vereinfachen die Textformatierung mit BBCode:
 | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | BBCode-Editor mit einer Echtzeitvorschau für osu!-Profile (archiviert) |
 | [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[_____________]](https://osu.ppy.sh/users/12036908) | Erstelle Farbverläufe für osu!-Profile |
 | [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Browsererweiterung, die weitere BBCode-Buttons und andere Funktionen zur osu!-Webseite hinzufügt |
-| [textcolorizer](https://www.stuffbydavid.com/textcolorizer/) | david | Textfärbung im BBCode- und HTML-Format |
+| [textcolorizer](https://www.stuffbydavid.com/textcolorizer) | david | Textfärbung im BBCode- und HTML-Format |
 
 ## Trivia
 
