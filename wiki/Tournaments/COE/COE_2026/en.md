@@ -150,7 +150,7 @@ Monday, 13th of July 2026:
 | --: | :-: | :-: | :-- | :-- |
 | **GET LOVED** ::{ flag=UA }:: | **5** | 1 | ::{ flag=GB }:: lystia | [#1](https://osu.ppy.sh/multiplayer/rooms/3609699/events) |
 | **mrekk** ::{ flag=AU }:: | **5** | 1 | ::{ flag=IT }:: kusuriya | [#1](https://osu.ppy.sh/multiplayer/rooms/3610108/events) |
-| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=UA }:: GET LOVED | [#1]() |
+| **MALISZEWSKI** ::{ flag=PL }:: | **5** | 0 | ::{ flag=UA }:: GET LOVED | [#1](https://osu.ppy.sh/multiplayer/rooms/3611764/events) |
 
 
 ## Ruleset
