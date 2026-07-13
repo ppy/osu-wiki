@@ -17,9 +17,9 @@ tags:
 
 ![Easy mod icon](/wiki/shared/mods/EZ.png)
 
-*![][osu!] Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.*  
-*![][osu!taiko] Reduces overall difficulty - notes move slower, less accuracy required.*  
-*![][osu!catch] Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.*  
+*![][osu!] Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.*\
+*![][osu!taiko] Reduces overall difficulty - notes move slower, less accuracy required.*\
+*![][osu!catch] Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.*\
 *![][osu!mania] Reduces overall difficulty - more forgiving HP drain, less accuracy required.*
 
 |  |  |
@@ -34,8 +34,8 @@ tags:
 
 :::
 
-*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Easy (lazer mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*  
-*For other uses, see: [Easy (disambiguation)](/wiki/Disambiguation/Easy)*  
+*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Easy (lazer mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
+*For other uses, see: [Easy (disambiguation)](/wiki/Disambiguation/Easy)*\
 *For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
 The **Easy** mod, represented by the acronym **EZ**, is a difficulty-reducing [game modifier](/wiki/Gameplay/Game_modifier) that halves all difficulty settings of a [beatmap](/wiki/Beatmap).
