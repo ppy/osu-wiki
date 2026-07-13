@@ -16,7 +16,7 @@ Bất kỳ vi phạm nghiêm trọng nào đối với các [quy tắc cộng đ
 
 Lấy một ví dụ thực tế, hành vi như vậy sẽ bao gồm việc vẽ hoặc viết các từ ngữ miệt thị/lời lẽ xúc phạm (như swastika, v.v.) bằng khói con trỏ trong các trận đấu phát trực tiếp.
 
-Tất cả người dùng quay lại trò chơi sau khi được gỡ hạn chế theo các điều kiện kháng cáo tiêu chuẩn đều phải chịu [lệnh cấm tham gia giải đấu tạm thời ít nhất 1 năm](/wiki/Help_centre/Account_restrictions#reasons) hoặc lâu hơn theo quyết định của [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team).
+Tất cả người dùng quay lại trò chơi sau khi được gỡ hạn chế theo các điều kiện kháng cáo tiêu chuẩn đều phải nhận [lệnh cấm tham gia giải đấu tạm thời ít nhất 1 năm](/wiki/Help_centre/Account_restrictions#reasons) hoặc lâu hơn theo quyết định của [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team).
 
 ### Điều gì dẫn đến ai đó nhận được cấm thi đấu vô thời hạn? {id=why-permanent}
 
@@ -36,7 +36,7 @@ Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc c
 
 Bạn có thể tiếp tục chơi trong các giải đấu cộng đồng mà không yêu cầu sự hỗ trợ chính thức hoặc cần phải xét duyệt theo quyết định của những người tổ chức sự kiện đó.
 
-Bạn vẫn có thể làm nhân sự trong các giải đấu được hỗ trợ chính thức với vai trò là người phát trực tiếp, bình luận viên hay thiết kế đồ họa tùy theo quyết định của người tổ chức giải đấu. Đối với các vai trò khác, người tổ chức giải đấu mà bạn muốn hỗ trợ PHẢI xin một ngoại lệ trong yêu cầu hỗ trợ ban đầu của họ. Dựa trên lý do và mức độ nghiêm trọng của vi phạm, cùng với lịch sử của bạn. [Đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team) sau cùng mới có thể chấp nhận ngoại lệ này.
+Bạn vẫn có thể làm nhân sự trong các giải đấu được hỗ trợ chính thức với vai trò là người phát trực tiếp, bình luận viên hay thiết kế đồ họa tùy theo quyết định của người tổ chức giải đấu. Đối với các vai trò khác, người tổ chức giải đấu mà bạn muốn hỗ trợ PHẢI xin một ngoại lệ trong yêu cầu hỗ trợ ban đầu của họ. Dựa trên lý do và mức độ nghiêm trọng của vi phạm, cùng với lịch sử của bạn. [Đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team) sau đó mới có thể chấp nhận ngoại lệ này.
 
 Thông tin về trạng thái lệnh cấm thi đấu của bạn có thể được cung cấp cho các người tổ chức giải đấu khi có yêu cầu, cho dù họ có được hỗ trợ chính thức hay không.
 
@@ -56,7 +56,7 @@ Thông tin về trạng thái lệnh cấm thi đấu của bạn có thể đư
 
 ## Giám sát việc tổ chức 
 
-Biện pháp giám sát đối với việc tổ chức được thực thi như là kết quả của vi phạm các quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support) mà không được giải quyết qua trao đổi với người tổ chức sau khi giải đấu kết thúc. Khi một giám sát việc tổ chức được áp dụng với người dùng, các giải đấu áp dụng hỗ trợ chính thức tiếp theo do họ tổ chức sẽ được Ủy ban giải đấu giám sát chặt chẽ trong lúc giải đấu và sau khi hoàn thành. Những vấn đề nhỏ mà bình thường chỉ cần trao đổi qua email là xong mà không gây ra sự cố gì, nhưng trong trường hợp này sẽ khiến thời gian giám sát bị kéo dài. Vi phạm nghiêm trọng đối với các quy tắc hỗ trợ chính thức sau khi giám sát được áp dụng sẽ dẫn đến việc [cấm tổ chức giải đấu](#lệnh-cấm-tổ-chức-giải-đấu) hoặc hình phạt lớn hơn, tùy theo quyết định của Ủy ban Giải đấu.
+Một giám sát đối với việc tổ chức được thực thi như là kết quả của vi phạm các quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support) mà không được giải quyết qua trao đổi với người tổ chức sau khi giải đấu kết thúc. Khi một giám sát việc tổ chức được áp dụng với người dùng, các giải đấu áp dụng hỗ trợ chính thức tiếp theo do họ tổ chức sẽ được Ủy ban Giải đấu giám sát chặt chẽ trong lúc giải đấu và sau khi hoàn thành. Những vấn đề nhỏ mà bình thường chỉ cần trao đổi qua email là xong mà không gây ra sự cố gì, nhưng trong trường hợp này sẽ khiến thời gian giám sát bị kéo dài. Vi phạm nghiêm trọng đối với các quy tắc hỗ trợ chính thức sau khi giám sát được áp dụng sẽ dẫn đến việc [cấm tổ chức giải đấu](#lệnh-cấm-tổ-chức-giải-đấu) hoặc hình phạt lớn hơn, theo quyết định của Ủy ban Giải đấu.
 
 Giám sát việc tổ chức có thể được gỡ bỏ nếu giải đấu được tổ chức mà **không** vi phạm các quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support), điều này bao gồm các vấn đề nhỏ mà cần phải gửi email cho người tổ chức để sửa chúng. Các ví dụ về những vấn đề này bao gồm:
 
@@ -81,7 +81,7 @@ Lệnh cấm làm nhân sự giải đấu ngăn một người dùng trở thà
 
 ## Tôi có thể kháng cáo lệnh xử phạt giải đấu không? {id=appeal}
 
-Lệnh xử phạt giải đấu được áp dụng qua các phương thức khác ngoài [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) được đi kèm với thời hạn 72 giờ để kháng cáo, trong thời gian này người bị phạt có thể phản đối hình phạt. Sau khi quãng thời gian kháng cáo này trôi qua, các lệnh xử phạt không bao gồm lệnh cấm thi đấu vô thời hạn đều không thể kháng cáo. 
+Lệnh xử phạt giải đấu được áp dụng qua các phương thức khác ngoài [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) được đi kèm với thời hạn 72 giờ để kháng cáo, trong thời gian này người bị áp dụng có thể phản đối hình phạt. Sau khi quãng thời gian kháng cáo này trôi qua, các lệnh xử phạt không bao gồm lệnh cấm thi đấu vô thời hạn đều không thể kháng cáo. 
 
 Lệnh cấm thi đấu vô thời hạn có thể được kháng cáo sau ít nhất **hai năm** (24 tháng) kể từ khi chúng được áp dụng lần đầu tiên. Người dùng kháng cáo lệnh cấm thi đấu vô thời hạn sẽ phải chứng minh được sự tham gia tích cực trong cộng đồng osu! rộng lớn hơn, thông qua các giải đấu thường hoặc bằng cách khác, và có một hồ sơ hành vi hoàn toàn trong sạch trong suốt khoảng thời gian này. Trong trường hợp đơn kháng cáo không thành công, người dùng bắt buộc phải chờ ít nhất **một năm** (12 tháng) kể từ ngày kháng cáo cuối cùng trước khi có thể kháng cáo trở lại.
 
