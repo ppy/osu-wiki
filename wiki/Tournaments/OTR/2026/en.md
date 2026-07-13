@@ -366,18 +366,18 @@ Group D:
 
 - No Mod
   1. [Ultra Bra - Heppa [hepo, humma, juhta, kaakki, liinaharja, luuska, polle, ratsu, ori, ruuna, tamma]](https://osu.ppy.sh/beatmapsets/2470965#osu/5412808)
-  2. [Assemble The Chariots - As Was Seen by Augurers [Unyielding Night]]()
-  3. [Advantage Lucy - Metro [Weoweet's .-. ..- -. .- .-- .- -.-- (OTR26 Edit)]]()
+  2. [Assemble The Chariots - As Was Seen by Augurers [Unyielding Night]](https://osu.ppy.sh/beatmapsets/2585548#osu/5766682)
+  3. [Advantage Lucy - Metro [Weoweet's .-. ..- -. .- .-- .- -.-- (OTR26 Edit)]](https://osu.ppy.sh/beatmapsets/2585582#osu/5766803)
   4. [Akov & Billain - The Syndicate (Cut Ver.) [LeCandy's Expert]](https://osu.ppy.sh/beatmapsets/2449466#osu/5420616)
   5. [Lily - Scarlet Rose [0108 style]](https://osu.ppy.sh/beatmapsets/41686#osu/131564)
 - Hidden
-  1. [Knife - Jouzai [Extra]]()
+  1. [Knife - Jouzai [Extra]](https://osu.ppy.sh/beatmapsets/2585584#osu/5766810)
   2. [YurryCanon - Suicide Parade [reDemise]](https://osu.ppy.sh/beatmapsets/2082395#osu/4361043)
   3. [Hana - crocodile tears [ponbot & gazimal's collab x]](https://osu.ppy.sh/beatmapsets/2051290#osu/4465444)
 - Hard Rock
   1. [KARUT - Encountered [Atlust's Torment]](https://osu.ppy.sh/beatmapsets/2509717#osu/5528949)
   2. [LE SSERAFIM - ANTIFRAGILE [chaechae]](https://osu.ppy.sh/beatmapsets/2066922#osu/4324052)
-  3. [Mirkelam - Hey Sevgilim [HR3]]()
+  3. [Mirkelam - Hey Sevgilim [HR3]](https://osu.ppy.sh/beatmapsets/2585595#osu/5766831)
 - Double Time
   1. [Olivia Rodrigo - get him back! [jas' insane]](https://osu.ppy.sh/beatmapsets/2062732#osu/4364944)
   2. [TRUSTRICK - FLYING FAFNIR [kowari's Insane]](https://osu.ppy.sh/beatmapsets/2278203#osu/4894566)
