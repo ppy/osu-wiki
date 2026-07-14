@@ -12,7 +12,7 @@ Một **beatmap** (đôi khi gọi là *beatmapset*) là một tập hợp các 
 - [ảnh nền](/wiki/Beatmap/Background) hoặc video, với vai trò như khu vực chơi.
 - [hitsounds tùy chỉnh](/wiki/Beatmapping/Hitsound) để sắp xếp và cải thiện phản hồi về âm thanh (tùy chọn).
 - [storyboard](/wiki/Storyboard) với các hình ảnh động và hiệu ứng đặc biệt, được sử dụng như bói cảnh hoặc chủ đề cho bài hát (tùy chọn).
-- [skin tùy chỉnh](/wiki/Skinning) để thay đổi hiển thị của các giao diện trong game và các thành phần lối chơi (tùy chọn).
+- [skin tùy chỉnh](/wiki/Skinning) để thay đổi diện mạo của các thành phần trong giao diện và khi chơi (tùy chọn).
 
 *Lưu ý: Một vài tính năng hình ảnh và âm thanh của beatmap có thể tắt thông qua bảng [cài đặt hiển thị](/wiki/Client/Interface/Visual_settings) khi chơi.*
 
@@ -75,7 +75,7 @@ Các beatmap được xếp hạng trong cùng tháng, hoặc có cùng chủ đ
 
 ### Nguồn không chính thống
 
-Ngoài ra còn có một số nguồn khác không được kiểm chứng hay vận hành bởi đội ngũ osu!. Tuy nhiên, chúng vẫn được chia sẻ trên diễn đàn và được cộng đồng ủng hộ, các nguồn này bao gồm:
+Ngoài ra còn có một số nguồn khác **không được kiểm duyệt hay vận hành bởi đội ngũ osu!**. Tuy nhiên, chúng vẫn được chia sẻ trên diễn đàn và được cộng đồng ủng hộ. Các nguồn như thế gồm:
 
 - Các kho sao lưu beatmap của bên thứ ba được lưu trữ bên ngoài nền tảng;
 - Các gói beatmap do người dùng tạo và các tuyển tập được chia sẻ thông qua [mạng p2p](https://en.wikipedia.org/wiki/Peer-to-peer), như BitTorrent.
