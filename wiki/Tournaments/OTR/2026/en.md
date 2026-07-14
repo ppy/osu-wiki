@@ -62,7 +62,6 @@ Group leaders are denoted in **bold**.
 ## Links
 
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/150VzfGWk3JyOoBBNDsJ_8NIgDPurbKbBbW-jMI-sRkI/edit?usp=sharing)**
-- [Weekly statistics](https://docs.google.com/spreadsheets/d/1jP4C3hDWVEz_NL7ue3uoTixqE_bYSRTkpiS2BtcVjX0/edit?usp=sharing)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2211098)
 - [Livestream](https://www.twitch.tv/osutrlive)
 - [Livestream archive](https://youtube.com/@osutrlive)
@@ -162,7 +161,8 @@ Captains are denoted in **bold**.
 
 ### Quarterfinals
 
-**[Download the mappack here! (146 MB)](https://lyerr.s-ul.eu/IHYJC7uO.zip)**
+**[Download the mappack here! (146 MB)](https://lyerr.s-ul.eu/IHYJC7uO.zip)**\
+[View the showcase VOD here](https://youtu.be/W3QkqFEfKjw)
 
 - No Mod
   1. [Ultra Bra - Heppa (Karhu) \[hepo, humma, juhta, kaakki, liinaharja, luuska, polle, ratsu, ori, ruuna, tamma\]](https://osu.ppy.sh/beatmapsets/2470965#osu/5412808)
@@ -192,7 +192,7 @@ Captains are denoted in **bold**.
 ### Group Stage
 
 **[Download the mappack here! (121 MB)](https://lyerr.s-ul.eu/98Blxxlw.zip)**\
-[View the showcase VOD here](https://youtu.be/OIHdk48V86Q?si=0e8AnQi0deB5yndT)
+[View the showcase VOD here](https://youtu.be/OIHdk48V86Q)
 
 - No Mod
   1. [Hepsi - Yalan (Akhaten) \[Hani Bensiz Bir Hictin\]](https://osu.ppy.sh/beatmapsets/2577712#osu/5742699)
@@ -241,6 +241,8 @@ Captains are denoted in **bold**.
 ## Match results
 
 ### Group Stage
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1c4T_nVsP68ubnkB9Ucm8p2B1lDgrd6AMPkxLBwA0ZrA/edit?rm=minimal).
 
 Friday, 3 July 2026:
 
@@ -318,23 +320,23 @@ Sunday, 12 July 2026:
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | C2 | **Dede ve Torunu** | **5** | 1 | barigadam | [#1](https://osu.ppy.sh/community/matches/121499653) | [#1](https://youtu.be/tK0iiIA6UMQ) |
-| D6 | **cok zeki takim** | **5** | 2 | Folklar | [#1](https://osu.ppy.sh/community/matches/121500013) |  |
-| A10 | **:steamhappy:** | **5** | 2 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121500389) |  |
+| D6 | **cok zeki takim** | **5** | 2 | Folklar | [#1](https://osu.ppy.sh/community/matches/121500013) | [#1](https://youtu.be/1AZZT8W5Odc) |
+| A10 | **:steamhappy:** | **5** | 2 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121500389) | [#1](https://youtu.be/bm8lRQY3We0) |
 | B9 | **W puskevit** | **5** | 1 | jembeyler | [#1](https://osu.ppy.sh/community/matches/121500373) | [#1](https://youtu.be/JtvJNMGyUp8) |
 | D9 | **zilla** | **5** | 0 | ördek | *win by default* |  |
 | A7 | **Pinterest kedipp** | **5** | 0 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121501116) | [#1](https://youtu.be/0ehk-bjbnns) |
-| B7 | **cansın** | **5** | 2 | jembeyler | [#1](https://osu.ppy.sh/community/matches/121501282) |  |
+| B7 | **cansın** | **5** | 2 | jembeyler | [#1](https://osu.ppy.sh/community/matches/121501282) | [#1](https://youtu.be/lcsaNjPn5YU) |
 | D2 | **farketmez** | **5** | 0 | zilla | *win by default* |  |
 
 Monday, 13 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| A2 | **steal balls and run** | **5** | 3 | washed gang | [#1](https://osu.ppy.sh/community/matches/121505055) |  |
+| A2 | **steal balls and run** | **5** | 3 | washed gang | [#1](https://osu.ppy.sh/community/matches/121505055) | [#1](https://youtu.be/3Ze9qIVkorQ) |
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1ZFUz6Az6mGqv6qo2WL1XQ7ZadocvdH125vnv3bQgi-8?rm=minimal).\
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1jP4C3hDWVEz_NL7ue3uoTixqE_bYSRTkpiS2BtcVjX0/edit?rm=minimal).\
 [View the Qualifier seed reveal VOD here](https://youtu.be/MGS1g9xlZlg?si=aeU4BPz3CXABO7PD)
 
 | Seed | Team | rating[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] | Lobby link |
