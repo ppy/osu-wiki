@@ -616,6 +616,7 @@ Group D:
 9. Each team has 90 seconds to pick a beatmap.
    - If a team does not pick within 90 seconds, the pick automatically passes to the opposing team.
 10. In stages where each team has 2 bans, the ban order is ABBA.
+    - Each team will ban 1 beatmap in AB order before the first beatmaps picked by each team are played. After the first beatmaps are picked and played, each team will ban 1 additional beatmap in BA order.
 11. A team may not ban 2 beatmaps from the same non-NoMod mod bracket.
     - For example, banning two Hidden maps or two Hard Rock maps is not allowed.
     - This restriction does not apply to the NoMod bracket.
