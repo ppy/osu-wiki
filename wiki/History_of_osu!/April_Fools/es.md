@@ -14,6 +14,8 @@ tags:
   - broma
   - historia
   - legado
+outdated_translation: true
+outdated_since: b1a5c300e1bc980a80305edb0dbd3aaf7993ae4d
 ---
 
 # Historia de las bromas del día de los Inocentes de osu!

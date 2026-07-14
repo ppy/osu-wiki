@@ -285,7 +285,7 @@ Sunday, 8 June 2014:
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
 | B | ::{ flag=ID }:: **[\[WP\]](https://osu.ppy.sh/users/2271932) (14)** | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) (9) | ::{ flag=ID }:: **[Shurelia](https://osu.ppy.sh/users/3807986) (16)** | ::{ flag=ID }:: [Jekate](https://osu.ppy.sh/users/965708) (0) |
-| H | ::{ flag=ID }:: **[DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (8)** | ::{ flag=ID }:: [mikevalent](https://osu.ppy.sh/users/2502590) (0) | ::{ flag=ID }:: **[Yuki Tanaka](https://osu.ppy.sh/users/1898048) (8)** | ::{ flag=ID }:: [Cera-](https://osu.ppy.sh/users/1974131) (0) | Walkout |
+| H | ::{ flag=ID }:: **[DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (8)** | ::{ flag=ID }:: [mikevalent](https://osu.ppy.sh/users/2502590) (0) | ::{ flag=ID }:: **[Yuki Tanaka](https://osu.ppy.sh/users/1898048) (8)** | ::{ flag=ID }:: [Cera-](https://osu.ppy.sh/users/1974131) (0) |
 
 ## Ruleset
 
