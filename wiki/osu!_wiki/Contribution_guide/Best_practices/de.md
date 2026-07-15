@@ -11,7 +11,7 @@ Diese Seite beschäftigt sich mit einigen Aufgaben, die beim Beitragen zu erledi
 ## Die Verzweigung synchronisieren
 
 ::: Infobox
-![](img/update-branch.png?1 "Updating the outdated branch")
+![](img/update-branch.png?1 "Den veralteten Branch aktualisieren")
 :::
 
 Eine *Verzweigung* (Fork) is eine Momentaufnahme des ursprünglichen Repositorys, die sich nicht von allein aktualisiert. Um immer in der aktuellsten Version des osu!-Wikis zu arbeiten, musst du sie synchronisieren bevor du Änderungen vornimmst. Das kann direkt in GitHub gemacht werden:
