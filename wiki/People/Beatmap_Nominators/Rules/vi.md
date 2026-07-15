@@ -1,42 +1,42 @@
-# Quy tắc đối với đề cử viên beatmap
+# Quy tắc đối với người đề cử beatmap
 
-Đây là danh sách các quy tắc quy định những điều [người đề cử beatmap](/wiki/People/Beatmap_Nominators) có thể và không thể làm khi đề cử beatmap cũng như đặt ra tiêu chuẩn ứng xử chung được mong đợi từ họ. Những quy tắc này là kết quả của cuộc thảo luận trong [đội ngũ đánh giá đề cử beatmap](/wiki/People/Nomination_Assessment_Team) (NAT) và đã cân nhắc phản hồi từ những đề cử viên beatmap theo đề xuất của họ. 
+Đây là danh sách các quy tắc quy định những điều [người đề cử beatmap](/wiki/People/Beatmap_Nominators) có thể và không thể làm khi đề cử beatmap cũng như đặt ra tiêu chuẩn ứng xử chung được mong đợi từ họ. Những quy tắc này là kết quả của cuộc thảo luận trong [đội ngũ đánh giá đề cử beatmap](/wiki/People/Nomination_Assessment_Team) (NAT) và đã cân nhắc phản hồi từ những người đề cử beatmap theo đề xuất của họ. 
 
-Đề cử viên beatmap có công cụ để đề cử beatmap và định hình hệ sinh thái osu! qua việc thúc đẩy nội dung mới để đưa vào danh sách chính thức; vì lý do này, họ phải tuân thủ các quy tắc mọi lúc. Việc vi phạm các quy tắc này có thể dẫn đến đề cử viên liên quan bị xóa khỏi Nhóm đề cử beatmap. Vi phạm các quy tắc có thể được báo cáo trực tiếp đến NAT thông qua [website quản lý BN](https://bn.mappersguild.com/reports)
+Người đề cử beatmap có công cụ đề cử beatmap và định hình hệ sinh thái osu! qua việc thúc đẩy nội dung mới để đưa vào danh sách chính thức; vì lý do này, họ phải tuân thủ các quy tắc mọi lúc. Việc vi phạm các quy tắc này có thể dẫn đến người đề cử beatmap liên quan bị loại khỏi đội ngũ đề cử beatmap. Vi phạm các quy tắc có thể được báo cáo trực tiếp đến NAT thông qua [website quản lý BN](https://bn.mappersguild.com/reports)
 
 ## Kỳ vọng 
 
-Tất cả các người đề cử beatmap đều được kỳ vọng sẽ cố gắng hết sức tuân thủ theo các nguyên tắc được trình bày trong bài viết [kỳ vọng đối với đề cử viên beatmap](/wiki/People/Beatmap_Nominators/Expectations)
+Tất cả các người đề cử beatmap đều được kỳ vọng sẽ cố gắng hết sức tuân thủ theo các nguyên tắc được trình bày trong bài viết [kỳ vọng đối với người đề cử beatmap](/wiki/People/Beatmap_Nominators/Expectations)
 
 Hành vi sai trái kéo dài đối với những kỳ vọng là căn cứ để loại bỏ theo quyết định của NAT.
 
 ## Hướng dẫn 
 
 - **Không tuân thủ theo bất kỳ quy tắc chưa được phê duyệt hoặc đang sửa đổi.** 
-- **Tuân thủ [Quy tắc cộng đồng osu!](/wiki/Rules) và [Quy tắc ứng xử đối với modding và mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) mọi lúc.** Với tư cách là một đề cử viên beatmap, hành vi của bạn nên là tấm gương tích cực cho những thành viên khác trong cộng đồng. Vi phạm Bộ Quy Tắc Ứng Xử có thể dẫn đến việc bạn nhận được cảnh báo về hành vi, hoặc trong trường hợp nghiêm trọng sẽ bị loại khỏi Nhóm đề cử beatmap. 
+- **Tuân thủ [Quy tắc cộng đồng osu!](/wiki/Rules) và [Quy tắc ứng xử đối với modding và mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) mọi lúc.** Với tư cách là một người đề cử beatmap, hành vi của bạn nên là tấm gương tích cực cho những thành viên khác trong cộng đồng. Vi phạm Bộ Quy Tắc Ứng Xử có thể dẫn đến việc bạn nhận được cảnh báo về hành vi, hoặc trong trường hợp nghiêm trọng sẽ bị loại khỏi đội ngũ đề cử beatmap. 
 - **Không được góp phần hoặc tham gia vào các modding trả tiền, xếp hạng HOẶC nhận hoa hồng qua việc làm beatmap.** Không được để xuất hiện bất kỳ nghi ngờ nào về tính hợp pháp hoặc động cơ với các thành viên thuộc đội ngũ osu! (BN, NAT hoặc người khác) liên quan đến [quá trình xếp hạng](/wiki/Beatmap_ranking_procedure)
 
 ## Hoạt động
 
-Hoạt động của đề cử viên beatmap được xác định qua số lượng đề cử,[^multi-key-mode] và được đánh giá trong các đợt đánh giá BN thường xuyên, điều này được thực hiện khoảng 90 ngày một lần. 
+Hoạt động của người đề cử beatmap được xác định qua số lượng đề cử,[^multi-key-mode] và được đánh giá trong các đợt đánh giá BN thường xuyên, điều này được thực hiện khoảng 90 ngày một lần. 
 
 - Người đề cử beatmap bắt buộc đề cử ít nhất **6** beatmap trong vòng 90 ngày 
  - Một cảnh báo hành động sẽ được đưa ra khi không đáp ứng được quy tắc này
- - Dưới 4 đề cử sẽ dẫn đến việc bị loại khỏi đề cử viên Beatmap
-- Đề cử viên Beatmap đa chế độ phải đề cử ít nhất 3 beatmap mỗi chế độ chơi thành thạo trong khoảng thời gian 90 ngày.
+ - Dưới 4 đề cử sẽ dẫn đến việc bị loại khỏi người đề cử Beatmap
+- Người đề cử Beatmap đa chế độ phải đề cử ít nhất 3 beatmap mỗi chế độ chơi thành thạo trong khoảng thời gian 90 ngày.
  - Cảnh báo hoạt động trong chế độ liên quan sẽ được cung cấp khi không đáp ứng được quy tắc này
  - Thấp hơn **2** đề cử trong chế độ cụ thể sẽ dẫn tới việc bị loại khỏi đề cử viên của chế độ chơi đó 
 - Khi nhận được cảnh báo hoạt động, các yêu cầu hoạt động tối thiểu phải được đáp ứng sau 30 ngày
-- Nếu không đạt được yêu cầu tối thiểu khi được cảnh báo trong vòng 1 năm sẽ dẫn đến bị loại khỏi đề cử viên Beatmap.
+- Nếu không đạt được yêu cầu tối thiểu khi được cảnh báo trong vòng 1 năm sẽ dẫn đến bị loại khỏi người đề cử Beatmap.
 
-Khi một đợt đánh giá đề cử viên beatmap được tạo ra và họ vẫn cần phải đáp ứng các điều kiện hoạt động tối thiểu. Họ sẽ nhận được một lời nhắc thông qua [bot NAT](https://osu.ppy.sh/users/6616586) và sẽ có 7 ngày để đáp ứng chỉ tiêu.
+Khi một đợt đánh giá người đề cử beatmap được tạo ra và họ vẫn cần phải đáp ứng các điều kiện hoạt động tối thiểu. Họ sẽ nhận được một lời nhắc thông qua [bot NAT](https://osu.ppy.sh/users/6616586) và sẽ có 7 ngày để đáp ứng chỉ tiêu.
 
 ## Việc đề cử 
 
 - **Không đề cử beatmap với vấn đề không thể được xếp hạng.** [Tiêu Chí Xếp Hạng chung](/wiki/Ranking_criteria) và Tiêu Chí Xếp Hạng theo các chế độ riêng áp dụng cho tất cả bộ độ khó theo từng chế độ khác nhau.
 - **Không đề cử các beatmap mà bạn có đóng góp trong đó.** Điều này bao gồm bất kỳ đóng góp quan trọng như là việc làm mapping, hitsound, storyboard, skin, hoặc điều chỉnh tốc độ nốt bấm.
 - **Không đề cử một beatmap chưa được kiểm tra kỹ lưỡng tất cả độ khó trong chế độ mà bạn đang đề cử.** Việc kiểm tra không đầy đủ bao gồm chỉ chạy công cụ modding trước khi đề cử hoặc không tải beatmap về.
-- **Không đề cử beatmap nếu bạn không chắc về điều gì đó.** Trong những trường hợp này, hãy hỏi đề cử viên khác để giúp đỡ trước khi quyết định một cách vội vàng. Điều này bao gồm không quen thuộc với chế độ trò chơi, nghi ngờ về vùng xám/vấn đề không thể xếp hạng, về chất lượng hoặc thời gian phức tạp.
+- **Không đề cử beatmap nếu bạn không chắc về điều gì đó.** Trong những trường hợp này, hãy hỏi người đề cử khác để giúp đỡ trước khi quyết định một cách vội vàng. Điều này bao gồm không quen thuộc với chế độ trò chơi, nghi ngờ về vùng xám/vấn đề không thể xếp hạng, về chất lượng hoặc thời gian phức tạp.
 - **Không đề cử một beatmap nếu bạn không thể đánh giá hợp lý.** Khả năng đánh giá beatmap một cách hợp lý dựa trên việc chơi thử hoặc kinh nghiệm modding là một phần cốt lõi với khả năng đánh giá chất lượng của một beatmap. Nếu bạn không có đủ kỹ năng chơi hoặc kinh nghiệm modding, chúng tôi có thể đặt nghi vấn về khả năng đánh giá beatmap của bạn. 
 - **Đảm bảo không có bài đăng mod nào trong [thảo luận beatmap](/wiki/Beatmap_discussion) bị bỏ qua trước khi đề cử một beatmap.** Các bài đăng chưa có phản hồi đầy đủ có thể tính như đã bỏ qua. Khi có nghi ngờ, kiểm tra lại nếu bộ Quy Tắc Ứng Xử Với Mapping Và Modding bị vi phạm trên cuộc thảo luận beatmap và hành động phù hợp. 
 
@@ -66,7 +66,7 @@ Vui lòng xem trang [phủ quyết beatmap](/wiki/People/Beatmap_Nominators/Beat
 - **Không phủ quyết beatmap với chế độ bạn chưa đủ điều kiện chính thức.** Bạn không được phép đề cử chúng, vì việc chặn đề cử mà không có quyền đề cử beatmap sẽ không hợp lý, điều này không áp dụng đến các phủ quyết về âm thanh, hình nền, hoặc nội dung khác không liên quan trực tiếp đến chế độ trò chơi của beatmap.
 - **Bạn có thể phủ quyết một beatmap bằng việc đăng vấn đề bạn nghĩ cần giải quyết trước khi đạt trạng thái được xếp hạng trong diễn đàn với mẫu vấn đề hoặc yêu cầu tương ứng trong thảo luận modding.** Điều này sẽ tạm thời khiến beatmap không tiến tới trạng thái Được xếp hạng. Một beatmap đã đủ tư cách có thể bị phủ quyết bằng cách sử dụng một yêu cầu vấn đề tương ứng để giữ beatmap ở trạng thái đủ tư cách trong lúc thảo luận. Người đề cử khác sẽ không thể đề cử sau khi lệnh phủ quyết được dỡ bỏ. Bài đăng phủ quyết phải bao gồm một vấn đề rõ ràng và lý do ngăn quá trình xếp hạng của beatmap. Bạn cũng phải tham gia vào cuộc thảo luận phát sinh và cố gắng đạt được sự đồng thuận. 
 - **Đừng phủ quyết các beatmap không thể Được xếp hạng.** Không thể được xếp hạng nghĩa là không có đề cử viên nên đề cử beatmap đó, và mapper không còn lựa chọn nào khác ngoài việc phải sửa chúng, tương tự như cách một phủ quyết được duy trì hoạt động.
-- **Đừng đề cử các beatmap đã bị phủ quyết.** Một beatmap phải được hủy lệnh phủ quyết trước khi được đề cử lại. Việc này có thể xảy ra nếu đề cử viên đã phủ quyết trước đó đã bỏ lệnh phủ quyết sau một cuộc thảo luận thỏa đáng hoặc thay đổi cần thiết với beatmap, hoặc nếu mapper hoặc đề cử viên yêu cầu phủ quyết và ban giám khảo[^new-jury] quyết định rằng lệnh phủ quyết là không cần thiết hoặc không hợp lệ.
+- **Đừng đề cử các beatmap đã bị phủ quyết.** Một beatmap phải được hủy lệnh phủ quyết trước khi được đề cử lại. Việc này có thể xảy ra nếu đề cử viên đã phủ quyết trước đó đã bỏ lệnh phủ quyết sau một cuộc thảo luận thỏa đáng hoặc thay đổi cần thiết với beatmap, hoặc nếu mapper hoặc người đề cử đã phủ quyết yêu cầu trung gian và ban giám khảo[^new-jury] quyết định rằng lệnh phủ quyết là không cần thiết hoặc không hợp lệ.
 
 ## Ghi chú
 
