@@ -13,7 +13,7 @@ The osu!mania 4K World Cup is back for its 13th edition. Find out how you can pa
 
 For this edition, there will be no major changes, as we feel the format has matured enough to where we can focus on bettering the player experience.
 
-For more details pertaining to the tournament, refer to the **[osu!mania 4K World Cup 2026 wiki article](/wiki/Tournaments/MWC/2026_4K)**. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/2225524)** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
+For more details pertaining to the tournament, refer to the **[osu!mania 4K World Cup 2026 wiki article](/wiki/Tournaments/MWC/2026_4K)**. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/2225524)** or the public **[community server](https://discord.com/invite/0Vxo9AsejDkGlk3H)**.
 
 ## Tournament schedule
 
