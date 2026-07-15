@@ -12,7 +12,7 @@ tags:
 *对于该文章的 osu!(stable) 版本，请见：[掉血速度 (HP drain rate)](/wiki/Beatmap/HP_drain_rate)*\
 *关于游戏机制含义的血量，参见：[血量](/wiki/Gameplay/Health)*
 
-**掉血速度** (***HP***) 是一张[谱面](/wiki/Beatmap)的难度设置，控制由于掉血被动失去的[血量](/wiki/Gameplay/Health)。也会影响玩家漏掉物件时被惩罚的严重情况，以及准确点击[打击物件](/wiki/Gameplay/Hit_object)获得的血量多少。
+**掉血速度** (***HP***) 是一张[谱面](/wiki/Beatmap)的难度设置，控制随时间被动失去的[血量](/wiki/Gameplay/Health)。同时也影响玩家错失物件时的血量惩罚，以及准确命中[打击物件](/wiki/Gameplay/Hit_object)时血量恢复。
 
 HP 值在谱面中取值范围为 0 ~ 10（通过 [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) 模组可扩展至 11），其中 10（或 11）惩罚最严，0 最宽松。
 
@@ -58,8 +58,8 @@ MISS 的扣血量受 HP 值线性影响[^DifficultyRange]。
 
 - [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer))：将 HP 值减半。
 - [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer))：将 HP 值乘上 1.4，最大值为 10。
-- [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer))/[Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer))：HP 值不受影响，但由于 50% 加速效果，被动掉血速率加快 50%。
-- [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer))/[Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore)：HP 值不受影响，但由于 25% 减速效果，被动掉血速率减缓 25%。
+- [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) / [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer))：HP 值不受影响，但由于 50% 加速效果，被动掉血速率加快 50%。
+- [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) / [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore)：HP 值不受影响，但由于 25% 减速效果，被动掉血速率减缓 25%。
 - [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust)：允许手动调整 HP 值（范围 0~10，开启 Extended Limits 后上限为 11）
 
 ## 参考

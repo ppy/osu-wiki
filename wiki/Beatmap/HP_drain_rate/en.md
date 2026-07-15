@@ -22,5 +22,5 @@ There are five mods that alter the HP drain rate when activated:
 
 - [Easy](/wiki/Gameplay/Game_modifier/Easy): Halves the HP value.
 - [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Multiplies the HP value by 1.4, up to a maximum of 10.
-- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)/[Nightcore](/wiki/Gameplay/Game_modifier/Nightcore): The HP value is not affected, but due to the 50% play speed increase, health drain occurs 50% faster.
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) / [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore): The HP value is not affected, but due to the 50% play speed increase, health drain occurs 50% faster.
 - [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): The HP value is not affected, but due to the 25% play speed decrease, health drain occurs 25% slower.
