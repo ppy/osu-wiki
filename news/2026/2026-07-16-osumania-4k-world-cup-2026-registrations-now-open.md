@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup 2026: Registrations Now Open!"
-date: 2026-07-16 18:00:00 +0000
+date: 2026-07-16 00:00:00 +0000
 series: world_cups
 ---
 
