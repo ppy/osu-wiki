@@ -23,7 +23,7 @@ Beatmap-Pakete werden in 7 Kategorien mit jeweils einem bestimmten Buchstaben al
 | Kennung | Kategorie | Beatmaparten |
 | :-: | :-- | :-- |
 | **S** | Standard | Beatmaps aus den Kategorien [Ranked](/wiki/Beatmap/Category#ranked) und [Approved](/wiki/Beatmap/Category#approved) |
-| **F** | Featured Artist | Beatmaps mit Songs von [gesponserten Künstlern](/wiki/People/Featured_Artists), hauptsächlich absolvierte Quests aus der [Mappers' Guild](/wiki/Community/Mappers_Guild) |
+| **F** | Featured Artist | Beatmaps von Songs von [gesponserten Künstlern](/wiki/People/Featured_Artists), hauptsächlich absolvierte Quests aus der [Mappers' Guild](/wiki/Community/Mappers_Guild) |
 | **P** | Turnier | Mappools aus [offiziellen Turnieren](https://osu.ppy.sh/community/tournaments) |
 | **L** | Project Loved | Von der Community ausgewählte Beatmaps im Rahmen von [Project Loved](/wiki/Community/Project_Loved) |
 | **R** | Spotlights | Saisonale Beatmap-Challengepakete aus den [Beatmap Spotlights](/wiki/Beatmap_Spotlights), früher bekannt als *Charts* |
