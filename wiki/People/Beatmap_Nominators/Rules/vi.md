@@ -1,6 +1,6 @@
 # Quy tắc đối với người đề cử beatmap
 
-Đây là danh sách các quy tắc quy định những điều [người đề cử beatmap](/wiki/People/Beatmap_Nominators) có thể và không thể làm khi đề cử beatmap cũng như đặt ra tiêu chuẩn ứng xử chung được mong đợi từ họ. Những quy tắc này là kết quả của cuộc thảo luận trong [đội ngũ đánh giá đề cử beatmap](/wiki/People/Nomination_Assessment_Team) (NAT) và đã cân nhắc phản hồi từ những người đề cử beatmap theo đề xuất của họ. 
+Đây là danh sách các quy tắc quy định những điều [người đề cử beatmap](/wiki/People/Beatmap_Nominators) có thể và không thể làm khi đề cử beatmap cũng như đặt ra tiêu chuẩn ứng xử chung được kỳ vọng từ họ. Những quy tắc này là kết quả của cuộc thảo luận trong [đội ngũ đánh giá đề cử beatmap](/wiki/People/Nomination_Assessment_Team) (NAT) và đã cân nhắc phản hồi từ những người đề cử beatmap theo đề xuất của họ. 
 
 Người đề cử beatmap có công cụ đề cử beatmap và định hình hệ sinh thái osu! qua việc thúc đẩy nội dung mới để đưa vào danh sách chính thức; vì lý do này, họ phải tuân thủ các quy tắc mọi lúc. Việc vi phạm các quy tắc này có thể dẫn đến người đề cử beatmap liên quan bị loại khỏi đội ngũ đề cử beatmap. Vi phạm các quy tắc có thể được báo cáo trực tiếp đến NAT thông qua [website quản lý BN](https://bn.mappersguild.com/reports)
 
@@ -65,7 +65,7 @@ Vui lòng xem trang [phủ quyết beatmap](/wiki/People/Beatmap_Nominators/Beat
 
 - **Không phủ quyết beatmap với chế độ bạn chưa đủ điều kiện chính thức.** Bạn không được phép đề cử chúng, vì việc chặn đề cử mà không có quyền đề cử beatmap sẽ không hợp lý, điều này không áp dụng đến các phủ quyết về âm thanh, hình nền, hoặc nội dung khác không liên quan trực tiếp đến chế độ trò chơi của beatmap.
 - **Bạn có thể phủ quyết một beatmap bằng việc đăng vấn đề bạn nghĩ cần giải quyết trước khi đạt trạng thái được xếp hạng trong diễn đàn với mẫu vấn đề hoặc yêu cầu tương ứng trong thảo luận modding.** Điều này sẽ tạm thời khiến beatmap không tiến tới trạng thái Được xếp hạng. Một beatmap đã đủ tư cách có thể bị phủ quyết bằng cách sử dụng một yêu cầu vấn đề tương ứng để giữ beatmap ở trạng thái đủ tư cách trong lúc thảo luận. Người đề cử khác sẽ không thể đề cử sau khi lệnh phủ quyết được dỡ bỏ. Bài đăng phủ quyết phải bao gồm một vấn đề rõ ràng và lý do ngăn quá trình xếp hạng của beatmap. Bạn cũng phải tham gia vào cuộc thảo luận phát sinh và cố gắng đạt được sự đồng thuận. 
-- **Đừng phủ quyết các beatmap không thể Được xếp hạng.** Không thể được xếp hạng nghĩa là không có đề cử viên nên đề cử beatmap đó, và mapper không còn lựa chọn nào khác ngoài việc phải sửa chúng, tương tự như cách một phủ quyết được duy trì hoạt động.
+- **Đừng phủ quyết các beatmap không thể Được xếp hạng.** Không thể được xếp hạng nghĩa là không có người đề cử nên đề cử beatmap đó, và mapper không còn lựa chọn nào khác ngoài việc phải sửa chúng, tương tự như cách một phủ quyết được duy trì hoạt động.
 - **Đừng đề cử các beatmap đã bị phủ quyết.** Một beatmap phải được hủy lệnh phủ quyết trước khi được đề cử lại. Việc này có thể xảy ra nếu đề cử viên đã phủ quyết trước đó đã bỏ lệnh phủ quyết sau một cuộc thảo luận thỏa đáng hoặc thay đổi cần thiết với beatmap, hoặc nếu mapper hoặc người đề cử đã phủ quyết yêu cầu trung gian và ban giám khảo[^new-jury] quyết định rằng lệnh phủ quyết là không cần thiết hoặc không hợp lệ.
 
 ## Ghi chú
