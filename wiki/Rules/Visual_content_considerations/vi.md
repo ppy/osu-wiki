@@ -50,9 +50,9 @@ Xem thêm tại: [Quá trình bỏ phiếu nội dung hình ảnh](/wiki/Rules/C
 
 Các hình ảnh được sử dụng ở bất kỳ đâu trên website ngoại trừ beatmap (ảnh đại diện, ảnh bìa hồ sơ, trang người dùng, v.v.) đều **không** thuộc diện của quy trình bỏ phiếu được giải thích bên dưới và có thể bị xóa bỏ bất cứ lúc nào theo toàn quyền quyết định của [nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team) (GMT).
 
-Nếu bạn không chắc chắn về một hình ảnh được đưa vào beatmap theo bất kỳ cách nào, **vui lòng gửi yêu cầu qua [trang gửi báo cáo cho đề cử viên beatmap](https://bn.mappersguild.com/reports)**. Hình ảnh đó sẽ được đưa ra thành một cuộc bỏ phiếu và bắt buộc đạt được đa số phiếu đáng kể, còn không sẽ tự động bị từ chối.
+Nếu bạn không chắc chắn về một hình ảnh được đưa vào beatmap theo bất kỳ cách nào, **vui lòng gửi yêu cầu qua [trang gửi báo cáo cho người đề cử beatmap](https://bn.mappersguild.com/reports)**. Hình ảnh đó sẽ được đưa ra thành một cuộc bỏ phiếu và bắt buộc đạt được đa số phiếu đáng kể, còn không sẽ tự động bị từ chối.
 
-**Kết quả của cuộc bỏ phiếu là kết quả cuối cùng**, trừ khi hình ảnh bị thay đổi đáng kể nhằm mục đích giải quyết các yếu tố có thể gây vấn đề được nêu ra trong thảo luận.
+**Kết quả của cuộc bỏ phiếu là kết quả cuối cùng**, trừ khi hình ảnh bị thay đổi đáng kể nhằm mục đích giải quyết các yếu tố có thể gây vấn đề được đưa ra trong thảo luận.
 
 Vào bất kỳ thời điểm nào, [đội ngũ thành viên osu!](/wiki/People/osu!_team) có quyền đơn phương quyết định bất kỳ nội dung nào là hợp lệ hoặc không hợp lệ theo quyết định của họ, bất kể những cuộc bỏ phiếu trước đó về vấn đề này.
 
@@ -60,7 +60,7 @@ Vào bất kỳ thời điểm nào, [đội ngũ thành viên osu!](/wiki/Peopl
 
 Bất kỳ nội dung hình ảnh, video, nội dung trực quan nào mà GMT coi là không phù hợp sẽ bị xóa khỏi website. Ngoài ra, người dùng đã tải lên nội dung trực quan này có thể bị [im lặng](/wiki/Help_centre/Silences) 43 giờ tùy thuộc vào mức độ nghiêm trọng của vi phạm và lịch sử liên quan của người dùng.
 
-Đối với nội dung trực quan không phù hợp trên beatmap, lệnh im lặng thường sẽ không kéo dài miễn là nội dung không quá nghiêm trọng và người dùng đã xóa bỏ trong một khoảng thời gian hợp lý.
+Đối với nội dung trực quan không phù hợp trên beatmap, lệnh im lặng thường sẽ không kéo dài miễn là nội dung không quá nghiêm trọng và người dùng đã xóa nội dung trong một khoảng thời gian hợp lý.
 
 ## Ghi chú
 
