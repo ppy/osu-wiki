@@ -17,9 +17,7 @@ Diese Seite beschäftigt sich mit einigen Aufgaben, die beim Beitragen zu erledi
 Eine *Verzweigung* (Fork) is eine Momentaufnahme des ursprünglichen Repositorys, die sich nicht von allein aktualisiert. Um immer in der aktuellsten Version des osu!-Wikis zu arbeiten, musst du sie synchronisieren bevor du Änderungen vornimmst. Das kann direkt in GitHub gemacht werden:
 
 1. Gehe zu deiner Verzweigung des Repositorys `osu-wiki`.
-
 2. Wähle den Branch `master` aus dem Dropdown-Menü aus.
-
 3. Klicke auf `Sync fork`.
    - Falls du am Branch `master` Änderungen vorgenommen hast, die du behalten möchstest, klicke auf `Update branch`, um diese zu erhalten.
    - Falls du von vorn beginnen möchtest und deine Änderungen nicht mehr benötigst, klicke auf `Discard n commit(s)`.
