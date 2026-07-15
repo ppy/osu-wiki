@@ -24,7 +24,7 @@ tags:
 | 游戏模式 | ![][osu!mania] |
 | 得分系数 | `0.90x` |
 | 状态 | 不计入排名 |
-| 不兼容的模组 | [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
+| 不兼容的模组 | [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert), [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
 
 :::
 
