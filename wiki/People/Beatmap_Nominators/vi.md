@@ -4,59 +4,59 @@ tags:
   - BNG
 ---
 
-# Đội ngũ Đề cử viên
+# Đội ngũ Đề cử beatmap
 
-**Đội ngũ Đề cử viên** (***BN***) là một nhóm chịu trách nhiệm [đề cử beatmap](/wiki/Beatmap_ranking_procedure). Họ được nhận diện bởi danh hiệu màu tím và huy hiệu dành cho [nhóm người dùng](/wiki/People/User_groups) có đề tên `BN`.
+**Đội ngũ đề cử Beatmap** (***BN***) là một nhóm chịu trách nhiệm [đề cử beatmap](/wiki/Beatmap_ranking_procedure). Họ được nhận diện bởi danh hiệu màu tím và huy hiệu dành cho [nhóm người dùng](/wiki/People/User_groups) có đề tên `BN`.
 
 ## Các bài viết liên quan
 
-- [Quy tắc với người đề cử beatmap](Rules)
-- [Kỳ vọng đối với đề cử viên](Expectations)
-- [Cách để trở thành người đề cử beatmap](Becoming_a_Beatmap_Nominator)
-- [Sự kiện liên quan đến đề cử beatmap viên](/wiki/Community/Beatmap_Nominator_events) 
+- [Quy tắc với Người đề cử beatmap](Rules)
+- [Kỳ vọng đối với Người đề cử](Expectations)
+- [Cách để trở thành Người đề cử beatmap](Becoming_a_Beatmap_Nominator)
+- [Sự kiện liên quan đến Người đề cử beatmap](/wiki/Community/Beatmap_Nominator_events) 
 
-## Vai trò và trách nhiệm của Đề cử viên
+## Vai trò và trách nhiệm
 
-Thành viên của Đội ngũ Đề cử viên chịu trách nhiệm cho việc [modding](/wiki/Modding) [các beatmap đang chờ](/wiki/Beatmap/Category#wip-and-pending) và phê duyệt chúng vào chu kỳ xếp hạng. Đề cử viên là những người nên được tìm tới nếu bất cứ ai có yêu cầu hay cần lời khuyên về những gì liên quan đến mapping hoặc modding. Bất kỳ Đề cử viên nào cũng có thể [yêu cầu từ chối đề cử](Beatmap_Veto) nếu họ cảm thấy beatmap được đề cử có vấn đề không thuộc Tiêu chuẩn Xếp hạng nhưng cần phải được chỉnh sửa.
+Thành viên của Đội ngũ Đề cử beatmap chịu trách nhiệm cho việc [modding](/wiki/Modding) [các beatmap đang chờ](/wiki/Beatmap/Category#wip-and-pending) và phê duyệt chúng vào chu kỳ xếp hạng. Người đề cử beatmap là những người nên được tìm tới nếu bất cứ ai có yêu cầu hay cần lời khuyên về những gì liên quan đến mapping hoặc modding. Bất kỳ Người đề cử beatmap nào cũng có thể [yêu cầu từ chối đề cử](Beatmap_Veto) nếu họ cảm thấy beatmap được đề cử có vấn đề không thuộc Tiêu chuẩn Xếp hạng nhưng cần phải được chỉnh sửa.
 
-Bên cạnh đó, tất cả các Đề cử viên cần tuân theo một tập hợp các tiêu chuẩn tập trung vào sự cống hiến của họ đối với cộng đồng bằng cách hướng sự chú ý của họ đến những thể loại map và mapper khác nhau, đồng thời luôn cố gắng để rèn dũa kỹ năng của chính mình, như được đề cập trong [bài viết Tiêu chuẩn riêng dành cho Đề cử viên](Expectations).
+Bên cạnh đó, tất cả các người đề cử beatmap cần tuân theo một tập hợp các tiêu chuẩn tập trung vào sự cống hiến của họ đối với cộng đồng bằng cách hướng sự chú ý của họ đến những thể loại map và mapper khác nhau, đồng thời luôn cố gắng để rèn dũa kỹ năng của chính mình, như được đề cập trong [bài viết Tiêu chuẩn riêng dành cho Đề cử viên](Expectations).
 
-Thành viên của Đội ngũ Đề cử viên được chia thành hai nhóm: thành viên chính thức và thành viên tập sự.
+Thành viên của Đội ngũ Đề cử beatmap được chia thành hai nhóm: thành viên chính thức và thành viên tập sự.
 
-### Đề cử viên chính thức
+### Người đề cử chính thức
 
-Bên cạnh việc modding và xếp hạng beatmap thông thường, thành viên chính thức của Đội ngũ Đề cử viên cũng chịu trách nhiệm loại những beatmap có vấn đề ra khỏi khâu chờ xếp hạng. Đề cử viên chính thức cũng có thể tham gia đánh giá thử đơn ứng tuyển vào đội ngũ Đề cử viên nếu họ có mong muốn gia nhập vào Đội ngũ Đánh giá Đề cử trong tương lại.
+Bên cạnh việc modding và xếp hạng beatmap thông thường, thành viên chính thức của Đội ngũ Đề cử beatmap cũng chịu trách nhiệm loại những beatmap có vấn đề ra khỏi khâu chờ xếp hạng. Người đề cử chính thức cũng có thể tham gia đánh giá thử đơn ứng tuyển vào Đội ngũ Đề cử beatmap nếu họ có mong muốn gia nhập vào Đội ngũ Đánh giá Đề cử trong tương lai.
 
 Khoảng ba tháng một lần, Đề cử viên chính thức sẽ được [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team) [xem xét và đánh giá](/wiki/People/Nomination_Assessment_Team/Evaluations) hành vi và hoạt động/chất lượng đề cử. Nếu đề cử của họ thường xuyên bị đặt lại vì những lý do đáng chú ý hoặc thái độ, hành vi của họ có vấn đề, họ có thể bị cảnh cáo hoặc buộc rời khỏi đội ngũ, tùy thuộc vào mức độ và tần suất.
 
 ### Đề cử viên tập sự
 
-Khoảng thời gian thực tập là để giám sát các Đề cử viên mới kỹ càng hơn. Mục đích chính của vị trí tập sự là để đặt nền móng cho các Đề cử viên hoàn toàn thông qua việc đề cử beatmap vào quá trình xếp hạng. Phải có ít nhất một Đề cử viên chính thức tham gia vào quá trình xếp hạng cho mỗi một game mode trong beatmap, nên Đề cử viên tập sự không thể là người đề cử cuối cùng cho một beatmap đã nhận được đề cử từ những thành viên tập sự thuộc game mode khác.
+Khoảng thời gian thực tập là để giám sát các Người đề cử mới kỹ càng hơn. Mục đích chính của vị trí tập sự là để đặt nền móng cho các Người đề cử hoàn toàn thông qua việc đề cử beatmap vào quá trình xếp hạng. Phải có ít nhất một Người đề cử chính thức tham gia vào quá trình xếp hạng cho mỗi một chế độ trò chơi trong beatmap, nên Người đề cử tập sự không thể là người đề cử cuối cùng cho một beatmap đã nhận được đề cử từ những thành viên tập sự thuộc chế độ trò chơi khác.
 
-Đề cử viên tập sự sẽ được yêu cầu có ít nhất 3 đề cử beatmap được xếp hạng. Họ sẽ được đáng giá sau một tháng và việc đáng giá có thể xảy ra sớm hơn nếu họ có 6 đề cử được xếp hạng trong tháng đó.
+Người đề cử tập sự sẽ được yêu cầu có ít nhất 3 đề cử beatmap được xếp hạng. Họ sẽ được đáng giá sau một tháng và việc đáng giá có thể xảy ra sớm hơn nếu họ có 6 đề cử được xếp hạng trong tháng đó.
 
-Thành viên mới của Đội ngũ Đề cử viên sẽ được kèm cặp bởi một bồ tèo từ NAT, người mà các thành viên mới có thể liên hệ trực tiếp nếu có câu hỏi hay cần sự hướng dẫn. Sau khi xong đợt đánh giá đầu tiên, họ có thể được thăng lên vị trí chính thức nếu được đánh giá tốt hoặc sẽ bị buộc rời khỏi Đội ngũ Đề cử viên.
+Thành viên mới của Đội ngũ Đề cử beatmap sẽ được kèm cặp bởi một bồ tèo từ NAT, người mà các thành viên mới có thể liên hệ trực tiếp nếu có câu hỏi hay cần sự hướng dẫn. Sau khi xong đợt đánh giá đầu tiên, họ có thể được thăng lên vị trí chính thức nếu được đánh giá tốt hoặc sẽ bị buộc rời khỏi Đội ngũ Đề cử beatmap.
 
-Đề cử viên không thể bị giáng cấp xuống vị trí tập sự. Nếu có lo ngại về hoạt động của Đề cử viên đó, họ sẽ bị cảnh cáo hoặc buộc rời khỏi đội ngũ.
+Người đề cử không thể bị giáng cấp xuống vị trí tập sự. Nếu có lo ngại về hoạt động của Đề cử viên đó, họ sẽ bị cảnh cáo hoặc buộc rời khỏi đội ngũ.
 
 ## Lợi ích
 
-Đề cử viên sẽ nhận được những lợi ích như sau:
+Người đề cử sẽ nhận được những lợi ích như sau:
 
 - **[osu!supporter](/wiki/osu!supporter)**: Một thẻ osu!supporter có hiệu lực trong suốt khoảng thời gian làm thành viên của đội ngũ.
 - **Huy hiệu nhiệm kỳ**: Một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) thể hiện số năm họ làm việc ở NAT.
  ![Huy hiệu 1 năm](https://assets.ppy.sh/profile-badges/BN1y.png "Huy hiệu 1 năm") ![Huy hiệu 2 năm](https://assets.ppy.sh/profile-badges/BN2y.png "Huy hiệu 2 năm") ![Huy hiệu 3 năm](https://assets.ppy.sh/profile-badges/BN3y.png "Huy hiệu 3 năm") ![Huy hiệu 4 năm](https://assets.ppy.sh/profile-badges/BN4y.png "Huy hiệu 4 năm") ![Huy hiệu 5 năm](https://assets.ppy.sh/profile-badges/BN5y.png "Huy hiệu 5 năm") ![Huy hiệu 6 năm](https://assets.ppy.sh/profile-badges/BN6y.png "Huy hiệu 6 năm") ![Huy hiệu 7 năm](https://assets.ppy.sh/profile-badges/BN7y.png "Huy hiệu 7 năm") ![Huy hiệu 8 năm](https://assets.ppy.sh/profile-badges/BN8y.png "Huy hiệu 8 năm") ![Huy hiệu 9 năm](https://assets.ppy.sh/profile-badges/BN9y.png "Huy hiệu 9 năm") ![Huy hiệu 10 năm](https://assets.ppy.sh/profile-badges/BN10y.png "Huy hiệu 10 năm") ![Huy hiệu 11 năm](https://assets.ppy.sh/profile-badges/BN11y.png "11 year BN badge") ![Huy hiệu 12 năm](https://assets.ppy.sh/profile-badges/BN12y.png "12 year BN badge") ![Huy hiệu 13 năm](https://assets.ppy.sh/profile-badges/BN13y.png "13 year BN badge") ![Huy hiệu 14 năm](https://assets.ppy.sh/profile-badges/BN14y.png "14 year BN badge")
 - **Huy hiệu [đề cử](/wiki/Beatmap_ranking_procedure#nominations)**: Một huy hiệu hồ sơ được trao sau khi đạt được số lần đề cử nhất định.
   ![100 đề cử](https://assets.ppy.sh/profile-badges/100_noms.png "100 đề cử") ![200 đề cử](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 đề cử") ![400 đề cử](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 đề cử") ![600 đề cử](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 đề cử") ![800 đề cử](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 đề cử") ![1000 đề cử](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 đề cử") ![1500 đề cử](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 đề cử") ![2000 đề cử](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 đề cử")
-- **Đủ điều kiện trở thành [Đề cử viên Ưu tú](/wiki/People/Elite_Nominators)**: những Đề cử viên làm tốt vai trò của mình sẽ có đủ điều kiện để được trao danh hiệu Đề cử viên Ưu tú kéo dài 1 năm.
+- **Đủ điều kiện trở thành [Người đề cử ưu tú](/wiki/People/Elite_Nominators)**: những Người đề cử làm tốt vai trò của mình sẽ có đủ điều kiện để được trao danh hiệu Người đề cử ưu tú kéo dài 1 năm.
 
 ## Danh sách thành viên
 
-Trang danh sách [Đề cử viên](https://osu.ppy.sh/groups/28) và [Đề cử viên (Tập sự)](https://osu.ppy.sh/groups/32) liệt kê tất cả thành viên của đội ngũ.
+Trang danh sách [Đề cử viên](https://osu.ppy.sh/groups/28) và [Người đề cử (Tập sự)](https://osu.ppy.sh/groups/32) liệt kê tất cả thành viên của đội ngũ.
 
-Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc game mode đó. *Lưu ý: Tất cả các Đề cử viên đều nói tiếng Anh bên cạnh những ngôn ngữ được liệt kê dưới đây trừ khi có ghi chú khác.*
+Bảng dưới đây liệt kê từng chế độ trò chơi và Đề cử viên thuộc chế độ đó. *Lưu ý: Tất cả các Người đề cử đều nói tiếng Anh bên cạnh những ngôn ngữ được liệt kê dưới đây trừ khi có ghi chú khác.*
 
-### Đề cử viên chính thức
+### Người đề cử viên chính thức
 
 #### osu!
 
@@ -242,7 +242,7 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772) | Tiếng Indonesia |
 | ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) | Tiếng Trung |
 
-### Đề cử viên tập sự
+### Người đề cử tập sự
 
 #### osu!
 
@@ -283,6 +283,6 @@ Không có thêm thành viên vào thời điểm này
 
 ## Lịch sử
 
-- Đội ngũ Đề cử viên trước đó có tên là [Đội ngũ Đánh giá Beatmap](/wiki/People/Beatmap_Appreciation_Team) (Beatmap Appreciation Team - BAT).
-- Ngày 22 tháng Tám năm 2014, BAT được xem như không còn thuộc đội ngũ của osu!. Điều này tước bỏ quyền kiểm duyệt phần trò chuyện (chat) trong game, tên người dùng hiện màu đỏ trong game và trên diễn đàn của họ.
-- Ngày 1 tháng Hai năm 2015, *Đội ngũ Đánh giá Beatmap* đổi tên thành *Đội ngũ Đề cử Beatmap* (Beatmap Nomination Group), sau đó chỉnh sửa thành Đội ngũ Đề cử viên (Beatmap Nominators) mà chúng ta biết ngày nay.
+- Đội ngũ Đề cử beatmap trước đó có tên là [Đội ngũ Đánh giá Beatmap](/wiki/People/Beatmap_Appreciation_Team) (Beatmap Appreciation Team - BAT).
+- Ngày 22 tháng Tám năm 2014, BAT được xem như không còn thuộc đội ngũ của osu!. Điều này tước bỏ quyền kiểm duyệt phần trò chuyện trong trò chơi, tên người dùng hiện màu đỏ trong trò chơi và trên diễn đàn của họ.
+- Ngày 1 tháng Hai năm 2015, *Đội ngũ Đánh giá Beatmap* đổi tên thành *Đội ngũ Đề cử Beatmap* (Beatmap Nomination Group), sau đó chỉnh sửa thành Đội ngũ Đề cử beatmap (Beatmap Nominators) mà chúng ta biết ngày nay.
