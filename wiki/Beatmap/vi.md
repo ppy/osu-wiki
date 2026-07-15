@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-Một **beatmap** (đôi khi gọi là *beatmapset*) là một tập hợp các ([độ khó](#độ-khó)) của trò chơi được tạo ra bằng nhiều [nút bấm](/wiki/Gameplay/Hit_object) và gần như luôn phản ánh một bài nhạc. Nó cũng bao gồm nhiều thành phần khác và toàn bộ được đóng gói vào một tệp lưu trữ với [phần mở rộng `.osz`](/wiki/Client/File_formats/osz_(file_format)):
+Một **beatmap** (đôi khi gọi là *beatmapset*) là một tập hợp các ([độ khó](#độ-khó)) của trò chơi được tạo ra bằng nhiều [nốt](/wiki/Gameplay/Hit_object) và gần như luôn phản ánh một bài nhạc. Nó cũng bao gồm nhiều thành phần khác và toàn bộ được đóng gói vào một tệp lưu trữ với [phần mở rộng `.osz`](/wiki/Client/File_formats/osz_(file_format)):
 
 - bài hát được lưu trữ theo định dạng MP3 hoặc Ogg.
 - [ảnh nền](/wiki/Beatmap/Background) hoặc video, với vai trò như khu vực chơi.
@@ -30,7 +30,7 @@ Tác giả beatmap có thể [tải](/wiki/Beatmapping/Beatmap_submission) sản
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 
-Sau khi tải lên, beatmap có thêm một vài trường thông tin, như phần mô tả, ngôn ngữ, thể loại và phần đánh dấu nội dung công khai; các trường này có thể được tác giả beatmap thay đổi trên trang web. Ngoài ra beatmap còn được thêm phần [tiêu đề](/wiki/Beatmap/Title_text), có thể được chỉnh sửa với sự hỗ trợ của [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team).
+Sau khi tải lên, beatmap có thêm một vài trường thông tin, như phần mô tả, ngôn ngữ, thể loại và phần đánh dấu nội dung không lành mạnh; các trường này có thể được tác giả beatmap thay đổi trên trang web. Ngoài ra beatmap còn được thêm phần [tiêu đề](/wiki/Beatmap/Title_text), có thể được chỉnh sửa với sự hỗ trợ của [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team).
 
 ### Nhận diện
 
