@@ -63,37 +63,37 @@ Bảng dưới đây liệt kê từng chế độ trò chơi và Đề cử vi�
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
 | ::{ flag=KZ }:: [-Hitomi](https://osu.ppy.sh/users/15583987) |  |
-| ::{ flag=BY }:: [-Mikan](https://osu.ppy.sh/users/9063995) | Belarusian |
+| ::{ flag=BY }:: [-Mikan](https://osu.ppy.sh/users/9063995) | Tiếng Belarus |
 | ::{ flag=RU }:: [44444444444444](https://osu.ppy.sh/users/12357714) |  |
-| ::{ flag=CN }:: [455-38B](https://osu.ppy.sh/users/7660383) | Cantonese, Chinese, Japanese |
-| ::{ flag=FI }:: [aaeky](https://osu.ppy.sh/users/11077540) | Finnish |
+| ::{ flag=CN }:: [455-38B](https://osu.ppy.sh/users/7660383) | Tiếng Quảng Dông, Tiếng Trung Quốc, Tiếng Nhật |
+| ::{ flag=FI }:: [aaeky](https://osu.ppy.sh/users/11077540) | Tiếng Phần Lan |
 | ::{ flag=UA }:: [aishiteiru-](https://osu.ppy.sh/users/10566388) |  |
-| ::{ flag=UA }:: [allein](https://osu.ppy.sh/users/6221637) | Ukrainian, Polish |
+| ::{ flag=UA }:: [allein](https://osu.ppy.sh/users/6221637) | Tiếng Ukraina, Tiếng Ba Lan |
 | ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) |  |
-| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Italian |
-| ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | Spanish |
+| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Tiếng Ý |
+| ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | Tiếng Tây Ban Nha |
 | ::{ flag=US }:: [Ascended](https://osu.ppy.sh/users/4564285) |  |
-| ::{ flag=US }:: [Atrue](https://osu.ppy.sh/users/1758523) | Chinese |
-| ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | French |
+| ::{ flag=US }:: [Atrue](https://osu.ppy.sh/users/1758523) | Tiếng Trung |
+| ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | Tiếng Pháp |
 | ::{ flag=US }:: [BeatofIke](https://osu.ppy.sh/users/1103522) |  |
 | ::{ flag=US }:: [Camo](https://osu.ppy.sh/users/5194391) |  |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) |  |
-| ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | Spanish |
-| ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058) | Spanish |
-| ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | Russian |
+| ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | Tiếng Tây Ban Nha |
+| ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058) | Tiếng Tây Ban Nha |
+| ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | Tiếng Nga |
 | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
-| ::{ flag=KR }:: [Enon](https://osu.ppy.sh/users/2043401) | Korean |
+| ::{ flag=KR }:: [Enon](https://osu.ppy.sh/users/2043401) | Tiếng Hàn Quốc |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
-| ::{ flag=BY }:: [Flins](https://osu.ppy.sh/users/11119539) | Russian |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Tiếng Trung Quốc |
+| ::{ flag=BY }:: [Flins](https://osu.ppy.sh/users/11119539) | Tiếng Nga |
 | ::{ flag=ES }:: [flouah](https://osu.ppy.sh/users/8030129) | Spanish |
-| ::{ flag=IT }:: [gansijiye](https://osu.ppy.sh/users/9704802) | Italian |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese, Japanese |
-| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) | Spanish |
-| ::{ flag=IT }:: [gygy](https://osu.ppy.sh/users/7201269) | Italian |
+| ::{ flag=IT }:: [gansijiye](https://osu.ppy.sh/users/9704802) | Tiếng Ý |
+| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Tiếng Trung Quốc, Tiếng Nhật |
+| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) | Tiếng Tây Ban Nha |
+| ::{ flag=IT }:: [gygy](https://osu.ppy.sh/users/7201269) | Tiếng Ý |
 | ::{ flag=GB }:: [h6zy](https://osu.ppy.sh/users/20793704) |  |
 | ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076) |  |
-| ::{ flag=PH }:: [Hinae](https://osu.ppy.sh/users/11864462) | Filipino |
+| ::{ flag=PH }:: [Hinae](https://osu.ppy.sh/users/11864462) | Tiếng Philippines |
 | ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) | Telugu |
 | ::{ flag=BR }:: [HowRengar](https://osu.ppy.sh/users/6064571) | Portuguese |
 | ::{ flag=JP }:: [Jennifer](https://osu.ppy.sh/users/6761853) | Chinese |
@@ -154,7 +154,7 @@ Bảng dưới đây liệt kê từng chế độ trò chơi và Đề cử vi�
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | Japanese |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Russian |
 | ::{ flag=US }:: [Wanpachi](https://osu.ppy.sh/users/12157130) |  |
-| ::{ flag=VN }:: [Zawajiro](https://osu.ppy.sh/users/15082028) | Vietnamese |
+| ::{ flag=VN }:: [Zawajiro](https://osu.ppy.sh/users/15082028) | Tiếng Việt |
 
 #### osu!taiko
 
