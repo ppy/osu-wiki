@@ -39,7 +39,7 @@ The 1st-place team will receive 50% of the prize pool, limited-edition merch, a 
 
 [![Click here to register for MWC 4K 2026](/wiki/shared/news/2026-07-16-osumania-4k-world-cup-2026-registrations-now-open/register-news.png)](https://osu.ppy.sh/community/tournaments/57)
 
-Please note that teams will be formed by each country's captain *after* the registration phase has concluded. **The deadline for registering is May 15, 23:59 UTC. Make sure to submit yours before it's too late — no exceptions will be made.**
+Please note that teams will be formed by each country's captain *after* the registration phase has concluded. **The deadline for registering is July 31, 23:59 UTC. Make sure to submit yours before it's too late — no exceptions will be made.**
 
 *Notice: To participate, you must be ranked #5,000 or higher on the osu!mania 4K global ranking and must not have violated the [osu! community rules](/wiki/Rules) within the past 12 months.*
 
