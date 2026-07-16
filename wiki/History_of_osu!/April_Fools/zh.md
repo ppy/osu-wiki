@@ -102,7 +102,7 @@ tags:
 
 ### 神烦狗(Doge)出现在 osu! 中
 
-2014 年 4 月 1 日，osu! 主菜单界面被临时更改（如下所示），加入了多色的、语法错误的语句，并配以当时流行的 [Doge  meme](https://en.wikipedia.org/wiki/Doge_(meme)) 风格中某只著名[柴犬](https://en.wikipedia.org/wiki/Shiba_Inu)的图片。[^shiba-inu-reddit][^shiba-inu-reddit-2][^shiba-inu-forums]
+2014 年 4 月 1 日，osu! 主菜单界面被临时更改（如下所示），加入了多色的、语法错误的语句，和当时流行的 [Doge 迷因](https://zh.wikipedia.org/wiki/Doge)中某只著名[柴犬](https://zh.wikipedia.org/wiki/%E6%9F%B4%E7%8A%AC)的图片风格一致。[^shiba-inu-reddit][^shiba-inu-reddit-2][^shiba-inu-forums]
 
 ![](img/2014-main-screen-doge.jpg "2014 年 4 月 1 日 osu! 的主界面")
 
