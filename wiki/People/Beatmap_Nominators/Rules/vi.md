@@ -6,7 +6,7 @@ Người đề cử beatmap có công cụ để đề cử beatmap và định 
 
 ## Kỳ vọng 
 
-Tất cả các người đề cử beatmap đều được kỳ vọng sẽ cố gắng hết sức tuân thủ theo các nguyên tắc được trình bày trong bài viết [kỳ vọng đối với người đề cử beatmap](/wiki/People/Beatmap_Nominators/Expectations)
+Tất cả các người đề cử beatmap đều được kỳ vọng sẽ cố gắng hết sức tuân thủ theo các nguyên tắc được nêu trong bài viết [kỳ vọng đối với người đề cử beatmap](/wiki/People/Beatmap_Nominators/Expectations)
 
 Hành vi sai trái kéo dài đối với những kỳ vọng là căn cứ để loại bỏ theo quyết định của NAT.
 
