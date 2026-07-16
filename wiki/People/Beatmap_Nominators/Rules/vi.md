@@ -25,7 +25,7 @@ Hoạt động của người đề cử beatmap được xác định qua số 
  - Dưới 4 đề cử sẽ dẫn đến việc bị loại khỏi người đề cử Beatmap
 - Người đề cử Beatmap đa chế độ phải đề cử ít nhất 3 beatmap mỗi chế độ chơi thành thạo trong khoảng thời gian 90 ngày.
  - Cảnh báo hoạt động trong chế độ liên quan sẽ được cung cấp khi không đáp ứng được quy tắc này
- - Thấp hơn **2** đề cử trong chế độ cụ thể sẽ dẫn tới việc bị loại khỏi đề cử viên của chế độ chơi đó 
+ - Thấp hơn **2** đề cử trong chế độ cụ thể sẽ dẫn tới việc bị loại khỏi người đề cử của chế độ chơi đó 
 - Khi nhận được cảnh báo hoạt động, các yêu cầu hoạt động tối thiểu phải được đáp ứng sau 30 ngày
 - Nếu không đạt được yêu cầu tối thiểu khi được cảnh báo trong vòng 1 năm sẽ dẫn đến bị loại khỏi người đề cử Beatmap.
 
