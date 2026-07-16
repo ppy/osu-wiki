@@ -153,6 +153,28 @@ Monday, 13th of July 2026:
 | **mrekk** ::{ flag=AU }:: | **5** | 1 | ::{ flag=IT }:: kusuriya | [#1](https://osu.ppy.sh/multiplayer/rooms/3610108/events) |
 | **MALISZEWSKI** ::{ flag=PL }:: | **5** | 0 | ::{ flag=UA }:: GET LOVED | [#1](https://osu.ppy.sh/multiplayer/rooms/3611764/events) |
 
+Saturday, 18th of July 2026:
+
+| Player 1 | Player 2 | Match time |
+| --: | :-: | :-: | :-- | :-- |
+| lystia ::{ flag=GB }:: | ::{ flag=FR }:: Hifkil | 13:00 UTC |
+| BoshyMan741 ::{ flag=US }:: | ::{ flag=GB }:: fudge | 16:00 UTC |
+| Crestive ::{ flag=US }:: | ::{ flag=PL }:: gnahus | 19:00 UTC |
+
+Sunday, 19th of July 2026:
+
+| Player 1 | Player 2 | Match time |
+| --: | :-: | :-: | :-- | :-- |
+| lifeline ::{ flag=ID }:: | ::{ flag=IT }:: kusuriya | 11:00 UTC |
+| Amasetic ::{ flag=FI }:: | ::{ flag=SM }:: argweid | 13:00 UTC |
+| xootynator ::{ flag=CA }:: | ::{ flag=NL }:: Aheo | 18:00 UTC |
+| yaru ::{ flag=DE }:: | ::{ flag=RO }:: origin_ | TBD |
+
+Thursday, 23rd of July 2026:
+
+| Player 1 | Player 2 | Match time |
+| --: | :-: | :-: | :-- | :-- |
+| A L E P H ::{ flag=ES }:: | ::{ flag=UA }:: GET LOVED | 10:00 UTC |
 
 ## Ruleset
 
