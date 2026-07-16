@@ -92,7 +92,7 @@ tags:
 
 ### BanchoBot 的傲娇
 
-2013 年 4 月 1 日，[BanchoBot](/wiki/BanchoBot) 变得[Tsundere](https://zh.wikipedia.org/zh-cn/%E5%82%B2%E5%AC%8C)。在这个愚人节，每当用户向 BanchoBot 发出命令或提示它在公共聊天中说话时，它的聊天消息都会被替换为像galgame游戏一样的傲娇式回应。[^banchobot-reddit][^banchobot-forums][^banchobot-forums-2][^banchobot-tweet][^banchobot-forums-3][^banchobot-forums-4]
+2013 年 4 月 1 日，[BanchoBot](/wiki/BanchoBot) 变得[傲娇](https://zh.wikipedia.org/zh-cn/%E5%82%B2%E5%AC%8C)。在这个愚人节，每当用户向 BanchoBot 发出命令或提示它在公共聊天中说话时，它的聊天消息都会被替换为像 galgame 一样的傲娇式回应。[^banchobot-reddit][^banchobot-forums][^banchobot-forums-2][^banchobot-tweet][^banchobot-forums-3][^banchobot-forums-4]
 
 ![](img/2013-regular-banchobot.png "2019 年与 BanchoBot 的互动")
 
