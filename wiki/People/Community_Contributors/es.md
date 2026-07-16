@@ -20,6 +20,8 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Agosto
 
+*Para la publicación de la noticia, véase: [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)*
+
 *Para el hilo del foro, véase: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
 | Usuario | Contribuciones |
@@ -251,7 +253,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de Artistas Destacados |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de Artistas Destacados |
 
-### 2024
+### 2025
 
 #### Marzo
 

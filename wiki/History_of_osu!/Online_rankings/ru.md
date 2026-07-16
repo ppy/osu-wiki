@@ -16,6 +16,8 @@ tags:
   - топ 1
   - топ
   - ранг
+outdated_translation: true
+outdated_since: 2a0c531104dbb6550aa1d987fb3f15e3d817e740
 ---
 
 # История онлайн-ранкингов
