@@ -21,7 +21,7 @@ Read on to find out how it all played out! As we wrap up the tournament, there's
 
 ## osu! originals
 
-As is usual with World Cups, we have had the pleasure of working with various artists to produce some amazing music. Please give these 10 certified bangers a listen! 
+As is usual with World Cups, we have had the pleasure of working with various artists to produce some amazing music. But that's not all, the design team once more went all out to produce some absolute masterpieces for us this year as well. It's visual and auditory stimulation providing an experience like no other. Please make sure to give these 10 certified bangers a listen! 
 
 ### Round of 16
 
@@ -103,8 +103,67 @@ The time we all have is limited. [zxnx](https://osu.ppy.sh/beatmaps/artists/288)
 
 [ARCADEA](https://osu.ppy.sh/beatmapsets/2581097#fruits/5753044) is catch's main event of the season. With similar vibes to [Evreka](https://osu.ppy.sh/beatmapsets/2011570#fruits/4185911), we get presented with the once in a lifetime opportunity, to go back in **time**, and view how our very own mascot Yuzu, changed throughout his life**time**, from past to future. And how his journey through **time** almost brings about the end to existence as we know it. This collab by [Ashrount](https://osu.ppy.sh/beatmaps/artists/352) and [polysha](https://osu.ppy.sh/beatmaps/artists/146) brings a huge multitude of genre's and bpm changes leaving a huge challenge for our mappers to handle. This led to requiring 5 mappers to handle such a variety of content.
 
-## Match recap
+## Match highlights
 
+### Quarterfinals: ::{ flag=FR }:: France vs. ::{ flag=JP }:: Japan
+
+**[View the match information here!](https://osu.ppy.sh/community/matches/121372923)**
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2802035564" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
+Coming into the Quarterfinals without conceding a single point in their Round of 32 and Round of 16 matches, France and Japan faced each other for the second consecutive year in the World Cup in a matchup that was anything but predictable. The unfortunate absence of ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) for France leveled the head-to-head between two nations fighting to remain in the winners' bracket.
+
+One year earlier both teams had met in the losers' semifinals, where France won no fewer than seven points in a row after the Japanese had taken the first point of the match. This year Japan once again started with a point advantage by winning their [HR2](https://osu.ppy.sh/beatmapsets/2570027#fruits/5719194) pick. But after three consecutive points from France, which included Japan's protect, history seemed to repeat itself. Japan's [DT2](https://osu.ppy.sh/beatmapsets/2569995#fruits/5719081) pick narrowed the gap, though France took a semi-safe two-point lead with [MX1](https://osu.ppy.sh/beatmapsets/2570009#fruits/5719120). At 4–2, no one could have imagined that that would be the last point won.
+
+Despite two back to back FCs by ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) on both [DT1](https://osu.ppy.sh/beatmapsets/2569994#fruits/5719078) and [HR1](https://osu.ppy.sh/beatmapsets/2569990#fruits/5719066), Japan tied the match. They then managed to reach matchpoint on their HR3 pick, forcing a tiebreaker should they lose the next pick. In the end, after a chaos of heart-stopping misses in the closing moments of [HD3](https://osu.ppy.sh/beatmapsets/2570058#fruits/5719264), a final banana shower tipped the balance in Japan's favour by a mere thousand points. Now finally one year later, with a remarkable comeback, Japan gained their revenge against the very same country that had eliminated them from the tournament in 2025.
+
+### Semifinals: ::{ flag=DE }:: Germany vs. ::{ flag=BE }:: Belgium
+
+**[View the match information here!](https://osu.ppy.sh/community/matches/121407023)**
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2806632933" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
+One of the most anticipated matches during week 5 of this tournament was Germany and Belgium. The two European countries who qualified to their best recorded seedings yet, now fated to face against each other to see who can ascend higher and carve themselves deeper into the final results. Germany is considered as favourites coming into this match due to the amount of talented players in their roster. However, this is one of the most impressive matches that happened, not only in Semifinals, but in the entirety of the tournament.
+
+The beginning of the match looked very one-sided. In the first 6 maps, Belgium managed to win 5, losing only [HD2](https://osu.ppy.sh/beatmapsets/2573438#fruits/5729520) picked by Germany. With a 5-1 score lead by Belgium, the Germans would unexpectedly start a comeback with [MX2](https://osu.ppy.sh/beatmapsets/2573449#fruits/5729541) but lost [NM4](https://osu.ppy.sh/beatmapsets/2573579#fruits/5729943) with a 27,330 points lead by Belgium in the process. Despite a guaranteed tiebreaker decider and a potential series win for Belgium, ::{ flag=DE }:: [Marvmallow](https://osu.ppy.sh/users/8403032) suddenly became a bastion for Germany, showing excellence in the [DT1](https://osu.ppy.sh/beatmapsets/2573436#fruits/5729518) and [HR1](https://osu.ppy.sh/beatmapsets/2573502#fruits/5729735) maps by setting a full combo in the lobby. It looked like a tiebreaker was needed to decide the winner but their miracle would end abrubtly, as Germany would lose [NM2](https://osu.ppy.sh/beatmapsets/2573448#fruits/5729539) in the last quarter of the map and Belgium, with a full combo by ::{ flag=BE }:: [ElSkeffe](https://osu.ppy.sh/users/6283136), would win the match, ending Germany's comeback.
+
+Though Belgium would lose agaist France later, they would still remain proud of their result as this is the first time they managed to reach 7-8th place in CWC. Previously, their best run was 9-12th place back in 2023.
+
+### Finals: ::{ flag=PL }:: Poland vs. ::{ flag=AR }:: Argentina
+
+**[View the match information here!](https://osu.ppy.sh/community/matches/121457265)**
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2812856522" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
+For the past 2 years, these two countries have conquered the podiums, and one of them even won the tournament a year ago. Reaching the podium for the second time, Poland would face Argentina, the defending champion. These countries have solidified themselfes as two of the strongest countries in the osu!catch scene thusfar, now facing against one another to move on to the Grand Finals from the winner's bracket.
+
+The match began with a crushing [MX2](https://osu.ppy.sh/beatmapsets/2577289#fruits/5741503) loss from Poland, but then comes [HD3](https://osu.ppy.sh/beatmapsets/2577246#fruits/5741424), marking the start of many close maps in point difference. On [HD3](https://osu.ppy.sh/beatmapsets/2577246#fruits/5741424), a 214 point difference would occur in favour of Argentina, the closest point difference in the finals bracket, with two full-combo runs by ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) and ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462) respectively.
+
+After a quick trade of picks between the two titans, Poland's fortune would help them by winning [DT4](https://osu.ppy.sh/beatmapsets/2577216#fruits/5741367) and [NM5](https://osu.ppy.sh/beatmapsets/2577193#fruits/5741311) with another close point. However, Argentina would win two No Mod maps, [NM3](https://osu.ppy.sh/beatmapsets/2577212#fruits/5741355) and [NM2](https://osu.ppy.sh/beatmapsets/2577189#fruits/5741306). Poland would win [HD2](https://osu.ppy.sh/beatmapsets/2577146#fruits/5741203) and [NM4](https://osu.ppy.sh/beatmapsets/2577190#fruits/5741307) after having yet another short series of close maps.
+
+With two maps remaining before the Tiebreaker decider, Poland picked [HR3](https://osu.ppy.sh/beatmapsets/2577208#fruits/5741349). However, it wound not go in Poland's favour. Argentina would win the opposing pick with a 6,242 point lead and would win the match by picking [NM1](https://osu.ppy.sh/beatmapsets/2577199#fruits/5741320) and getting a very strong team score.
+
+### Grand Finals: ::{ flag=AR }:: Argentina vs. ::{ flag=PL }:: Poland
+
+**[View the match information here!]()**
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
+Both countries offered fruits, sweat and tears in an arduous journey to the summit. But only one could claim it. In one corner, Argentina, the four-man yet all-rounder team, aspiring to their second trophy. In the other, Poland, with their most dominant team ever, were eager for revenge after the 7–5 in Finals and a comeback against France in Losers Finals.
+
+Argentina did not wait to show their worth, opening with a breakpoint on Poland's HD3, then chained three more points, with DT1 and DT3 on their side and another breakpoint on NM5. Poland snatched the momentum back with MX2 (perhaps the 4–1 curse would come true again). But Argentina hit back by picking their protect NM1, a map infamous for its exhausting wiggles, where we experienced the match's standout moment: an Argentine victory by more than one million points; a wiggly score of 949k from Story- and Poland's Trig0n and Phob, their two best players, sitting on the bench caused this result.
+
+Poland's strategy worked as expected, as they immediately won their protect HD2, the team's signature pick, with Phob doing Phob things, scoring 985k on the AR8 map. NM2 made it 6–2, giving Argentina the tournament point. However, it took three more maps to reach the decider thanks to Polish wins on DT4 and MX1. Poland's crucial pick was HD1. Story scored 996k with a single miss, followed by Phob on 983k, but it was not enough. The scoreline ended up on the left side, and thus, Argentina wrote history by securing their second Coronación de Gloria – the only country alongside South Korea to win two consecutive CWC's.
+
+\\Taiko from here, delete once done.
 ### ::{ flag=CL }:: Chile vs. ::{ flag=KR }:: South Korea
 
 **[View the match information here!](https://osu.ppy.sh/community/matches/121010905)**
@@ -125,44 +184,9 @@ After Chile's first pick of [HD1](https://osu.ppy.sh/beatmapsets/2541452#taiko/5
     </video>
 </div>
 
-A comeback on the ending of [NM2](https://osu.ppy.sh/beatmapsets/2541444#taiko/5627069) got Korea back in the running before Chile destroyed [NM4](https://osu.ppy.sh/beatmapsets/2541555#taiko/5627367) for a fifth point that was never in any doubt, but after holding their pick on [NM6](https://osu.ppy.sh/beatmapsets/2541453#taiko/5627097) with a stunning FC from ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349/taiko), Korea made their move. A heroic HDHR performance on [FM3](https://osu.ppy.sh/beatmapsets/2541426#taiko/5626997) by ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027), holding 99.5% on 4 minutes of brutal HDHR streams despite missing twice, brought the long-lost break point back, and when an FC by ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733/taiko) on HR2 wasn't enough, it was suddenly 5–5, leaving us with a best-of-3 to decide the teams' fate.
+### Other match highlights
 
-An FC on [HD2](https://osu.ppy.sh/beatmapsets/2541457#taiko/5627104) from ::{ flag=CL }:: [chibamasu](https://osu.ppy.sh/users/16067522/taiko) brought Chile one match point, but one wasn't enough. Korea finally picked [DT1](https://osu.ppy.sh/beatmapsets/2541460#taiko/5627109) after a timeout and rode the high skill cap of ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349/taiko) and ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027/taiko) all the way to the [tiebreaker](https://osu.ppy.sh/beatmapsets/2541488#taiko/5627199): an astronomical **10.4 stars** for Camellia's original track, THULE. On this map, we saw things you wouldn't believe.
-
-The first came right at the start: as the players loaded in, it took everyone a few seconds to realise that yes, ::{ flag=CL }:: [chibamasu](https://osu.ppy.sh/users/16067522/taiko) was playing the [Grand Finals TB](https://osu.ppy.sh/beatmapsets/2541488#taiko/5627199) with Hidden. If it was anyone else in the world doing this, everyone would've assumed Chile gave up and just let people play for fun. With this player, and only this player, everyone knew it was the real deal. It really was, too: 5 minutes later, he finished 2nd in the lobby with a score of 811,977... but the map was ten stars, and the other team had ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349/taiko).
-
-With a monstrous miss count of 29, the lowest in the lobby by almost 100, the game's most famous skill cap legend made the difference, bringing Korea back from an early deficit in the map, and punching their ticket to the 5th episode of TWC Grand Finals: Japan vs. South Korea.
-
-### ::{ flag=JP }:: Japan vs. ::{ flag=KR }:: South Korea
-
-**[View the match information here!](https://osu.ppy.sh/community/matches/121017600)**
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2757488797" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
-</div>
-
-After the brush with death that was their match with Chile, South Korea dusted themselves off, rested up, and prepared for championship Sunday. What waited for them can take many names: some call it TWC's bonus round, some call it the final boss, some have compared it to arcade game kill screens. We'll just call it a Grand Finals match against Japan.
-
-As expected, the squad that hasn't lost since 2013 got off to a solid start. Three straight comfortable wins on [FM1](https://osu.ppy.sh/beatmapsets/2541463#taiko/5627118), [HD1](https://osu.ppy.sh/beatmapsets/2541452#taiko/5627095), [FM3](https://osu.ppy.sh/beatmapsets/2541426#taiko/5626997) (with an unreal 99.6% HDHR FC from ::{ flag=JP }:: [sraim](https://osu.ppy.sh/users/29485001/taiko)!) and a less comfortable win on NM2 brought the defending champions to a 4–0 lead. The tournament seemed to be over already, and the natural order of osu!taiko was set to continue.
-
-Something seemed to change in Korea, though. A double FC from ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027/taiko) and ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349/taiko) on [HD2](https://osu.ppy.sh/beatmapsets/2541457#taiko/5627104) got them on the board, but just as quickly, Japan whipped out a double FC on DT1, with an astonishing 99.03% from mechanics superstar ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196), and claimed another break point on [NM4](https://osu.ppy.sh/beatmapsets/2541555#taiko/5627367) to secure five match points. All hope seemed lost again, as it tends to be when your opponent invented the game you're playing.
-
-What Korea did next is something we haven't seen, ever. Korea mounted a comeback so strong that people started to believe in the impossible. First it was a stunning comeback on [HR1](https://osu.ppy.sh/beatmapsets/2137740#taiko/5627107), as Japan had some trouble with the ending while Korea held strong. Sometimes these things happen, but next was [NM1](https://osu.ppy.sh/beatmapsets/2541443#taiko/5627063). If you saw how this went in Saturday's match, you may have had a feeling this might go sideways at the end for one team, and that's exactly what happened.
-
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/2026-05-15-TWC2026-GF-JP-KR-Highlight.mp4" type="video/mp4" preload="none">
-    </video>
-</div>
-
-After this, the flood gates seemed to open just a little bit for Korea, with a double FC and rare comfortable win on [DT2](https://osu.ppy.sh/beatmapsets/602993#taiko/1273614), bringing the score to 6–4. Finally, their [NM3](https://osu.ppy.sh/beatmapsets/2541446#taiko/5627071) pick would come through, with ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349/taiko) turning back the clock to do what he always does: top score an insane speed map, even against the best mechanics team in the world. A clutch score of 991,460 brought Korea one map away from forcing tiebreaker, two away from being the first team to beat Japan in almost **5,000 days**.
-
-Match scorelines and multiplayer links are available for every TWC match since 2015 on the [wiki](/wiki/Tournaments/TWC), and some investigation would tell you that among all Japan's matches in 11 years, this is the first time any other country has ever been seen beating them on four straight maps. Taiwan fired off an incredible 3 in a row to start 2018's Grand Finals, but this was something new.
-
-Japan would finally fend off the comeback, with ::{ flag=JP }:: [sraim](https://osu.ppy.sh/users/29485001/taiko) and ::{ flag=JP }:: [sachiqa](https://osu.ppy.sh/users/21542520/taiko) overcoming a new level of nerves to win [FM2](https://osu.ppy.sh/beatmapsets/2541476#taiko/5627150) and secure the 13th title in a row for their team, but Korea, despite another 2nd place finish, had already made their mark on history. A truly close Grand Final in TWC is something most viewers never expect, but it's what we got this year, capping off a tournament full of insane action and tight contests from top to bottom.
-
-## Match highlights recap
-
+We would have loved to cover more matches for you, but some are best experienced on the big screen. In addition to the matches we've covered above, the ones below were spectacular in their own right, so be sure to give them a watch if your thirst is yet to be quenched.
 If you missed out on any of the weeks, or you want to revisit all matches that have been highlighted throughout the osu!taiko World Cup 2025, we have prepared a comprehensive table for you.
 
 | Match | Stage | Links |
@@ -174,8 +198,6 @@ If you missed out on any of the weeks, or you want to revisit all matches that h
 | ::{ flag=BR }:: Brazil vs. ::{ flag=TW }:: Taiwan | Finals | [Text summary](https://osu.ppy.sh/home/news/2026-04-26-osutaiko-world-cup-2026-finals-recap#brazil-vs.--taiwan), [VOD](https://wwww.twitch.tv/videos/2750862446), [match info](https://osu.ppy.sh/community/matches/120962349) |
 
 ## Tournament Statistics
-
-A lot of players did a lot of playing during TWC 2026, and some left very impressive marks on the tournament. Here are just a few interesting stats we collected along the way:
 
 With so many scores set and so many matches played, there were many players who left a lasting impression. Below you can find the interesting stats we compiled from these impressive feats:
 
