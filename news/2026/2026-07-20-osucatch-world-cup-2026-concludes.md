@@ -15,9 +15,13 @@ Read on to find out how it all played out! As we wrap up the tournament, there's
 
 ## Summary
 
-![](/wiki/Tournaments/CWC/2026/img/cwc2026-podium.jpg) \\Check if work
+![](/wiki/Tournaments/CWC/2026/img/cwc2026-podium.jpg)
 
+The Sol de Mayo has risen this morning in the sky, which only means one thing... **Argentina** is our champion of the osu!catch World Cup 2026! Their second consecutive title, earned with a 7–4 victory over runner-up **Poland**, who achieved their best historical placement in the tournament. Bronze medalists **France** secured their first podium after many close-calls, although close to tasting silver if it hadn't been for **Poland**'s thrilling comeback in a match that ended 7–5.
 
+Other countries also managed to reach new highs, starting with **Greece** and **Lithuania**, who managed to qualify for the catch World Cup for the first time. **Portugal** reached the 17-24th place with their very first victory in a CWC and the **United Kingdom** climbed up to 9-12th place. Belgium did similar, getting a very respectable 7-8th place finish. And last but certainly not least, Japan came close to the podium but secured an enviable 5-6th place.
+
+Want to know how the Grand Finals match played out, read on to find out. First things first though, we have the phenomenal sounds of the osu!catch World Cup 2026 to listen to.
 
 ## osu! originals
 
@@ -147,55 +151,34 @@ The match began with a crushing [MX2](https://osu.ppy.sh/beatmapsets/2577289#fru
 
 After a quick trade of picks between the two titans, Poland's fortune would help them by winning [DT4](https://osu.ppy.sh/beatmapsets/2577216#fruits/5741367) and [NM5](https://osu.ppy.sh/beatmapsets/2577193#fruits/5741311) with another close point. However, Argentina would win two No Mod maps, [NM3](https://osu.ppy.sh/beatmapsets/2577212#fruits/5741355) and [NM2](https://osu.ppy.sh/beatmapsets/2577189#fruits/5741306). Poland would win [HD2](https://osu.ppy.sh/beatmapsets/2577146#fruits/5741203) and [NM4](https://osu.ppy.sh/beatmapsets/2577190#fruits/5741307) after having yet another short series of close maps.
 
-With two maps remaining before the Tiebreaker decider, Poland picked [HR3](https://osu.ppy.sh/beatmapsets/2577208#fruits/5741349). However, it wound not go in Poland's favour. Argentina would win the opposing pick with a 6,242 point lead and would win the match by picking [NM1](https://osu.ppy.sh/beatmapsets/2577199#fruits/5741320) and getting a very strong team score.
+With two maps remaining before the tiebreaker, Poland picked [HR3](https://osu.ppy.sh/beatmapsets/2577208#fruits/5741349). However, it wound not go in Poland's favour. Argentina would win the opposing pick with a 6,242 point lead and would win out the match by picking [NM1](https://osu.ppy.sh/beatmapsets/2577199#fruits/5741320) and getting a very strong team score.
 
 ### Grand Finals: ::{ flag=AR }:: Argentina vs. ::{ flag=PL }:: Poland
 
-**[View the match information here!]()**
+**[View the match information here!](https://osu.ppy.sh/community/matches/121500052)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2818377183" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-Both countries offered fruits, sweat and tears in an arduous journey to the summit. But only one could claim it. In one corner, Argentina, the four-man yet all-rounder team, aspiring to their second trophy. In the other, Poland, with their most dominant team ever, were eager for revenge after the 7–5 in Finals and a comeback against France in Losers Finals.
+Both Argentina and Poland offered fruits, sweat and tears in an arduous journey to the summit. But only one could claim victory in the end. In one corner, Argentina, the four-man yet all-rounder team, aspiring to win their second trophy. In the other, Poland, with their most dominant team ever, eager for revenge after the 7–5 defeat in Finals and hungry for another victory after a comeback against France in the losers' Final.
 
-Argentina did not wait to show their worth, opening with a breakpoint on Poland's HD3, then chained three more points, with DT1 and DT3 on their side and another breakpoint on NM5. Poland snatched the momentum back with MX2 (perhaps the 4–1 curse would come true again). But Argentina hit back by picking their protect NM1, a map infamous for its exhausting wiggles, where we experienced the match's standout moment: an Argentine victory by more than one million points; a wiggly score of 949k from Story- and Poland's Trig0n and Phob, their two best players, sitting on the bench caused this result.
+Argentina did not wait to show their worth, opening with a break point on Poland's [HD3](https://osu.ppy.sh/beatmapsets/2581070#fruits/5752994). They followed it up by chaining together three more points with their own [DT1](https://osu.ppy.sh/beatmapsets/2581179#fruits/5753318) and [DT3](https://osu.ppy.sh/beatmapsets/2581081#fruits/5753012) picks and another break point on the Polish [NM5](https://osu.ppy.sh/beatmapsets/2581068#fruits/5752992) pick. Poland managed to snatch the momentum back with [MX2](https://osu.ppy.sh/beatmapsets/2581126#fruits/5753099) (perhaps the 4–1 curse would come true again). But Argentina hit back by picking their protect, [NM1](https://osu.ppy.sh/beatmapsets/2581065#fruits/5752986), a map infamous for its exhausting wiggles. Here we experienced the match's standout moment: an Argentine victory by more than one million points.
 
-Poland's strategy worked as expected, as they immediately won their protect HD2, the team's signature pick, with Phob doing Phob things, scoring 985k on the AR8 map. NM2 made it 6–2, giving Argentina the tournament point. However, it took three more maps to reach the decider thanks to Polish wins on DT4 and MX1. Poland's crucial pick was HD1. Story scored 996k with a single miss, followed by Phob on 983k, but it was not enough. The scoreline ended up on the left side, and thus, Argentina wrote history by securing their second Coronación de Gloria – the only country alongside South Korea to win two consecutive CWC's.
-
-\\Taiko from here, delete once done.
-### ::{ flag=CL }:: Chile vs. ::{ flag=KR }:: South Korea
-
-**[View the match information here!](https://osu.ppy.sh/community/matches/121010905)**
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2756777848" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
-</div>
-
-It's often said that TWC is a battle for 2nd place due to Japan's sheer dominance, and in recent years, the lower bracket Grand Finals have given us some of osu!taiko's most memorable scenes. From the United Kingdom's tense showdown with South Korea in 2020, to the unforgettable end of 2023's tiebreaker *Sigrdrifa*, where Taiwan completed a 250,000-score comeback that taiko's scoring system doesn't even seem built to allow, it seems this round is one to watch, but *one to watch* doesn't do justice to this year's all-out war between Chile (#2) and South Korea (#5).
-
-Chile, the strongest non-Asian team we've ever seen, had ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669) and ::{ flag=CL }:: [chibamasu](https://osu.ppy.sh/users/16067522/taiko) in blistering form, even giving Japan a real challenge in the Finals. South Korea's usual dynamic duo of ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027) and ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349/taiko) looked unusually mortal this year. Korea never finished 3rd in TWC, only 2nd, but with Chile on a tear, it looked like that might just change.
-
-After Chile's first pick of [HD1](https://osu.ppy.sh/beatmapsets/2541452#taiko/5627095) went sideways due to some early nerves, it already looked like trouble, but a lucky 4,179-score win on [DT2](https://osu.ppy.sh/beatmapsets/602993#taiko/1273614) clawed the break point back, and marked the start of an unreal run. Suddenly, Chile raced to a huge 4–1 lead with 2 held picks on [NM5](https://osu.ppy.sh/beatmapsets/2541455#taiko/5627099) and [FM1](https://osu.ppy.sh/beatmapsets/2541463#taiko/5627118), along with a second break point on NM1 after a dramatic ending.
-
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/2026-05-15-TWC2026-GF-CL-KR-Highlight-.mp4" type="video/mp4" preload="none">
-    </video>
-</div>
+Poland's protect worked as expected as they immediately won their [HD2](https://osu.ppy.sh/beatmapsets/2581066#fruits/5752988) right after, the team's signature pick. Here we saw ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462) doing *Phob* things, scoring 985k on the AR8 map. Off the back of that, [NM2](https://osu.ppy.sh/beatmapsets/2581056#fruits/5752968) made it 6–2, giving Argentina the tournament point. However, it took three more maps to reach the final map of the match thanks to Polish wins on [DT4](https://osu.ppy.sh/beatmapsets/2581125#fruits/5753098) and [MX1](https://osu.ppy.sh/beatmapsets/2581082#fruits/5753015). Poland's crucial pick to either get them to tiebreaker or cost them the match was [HD1](https://osu.ppy.sh/beatmapsets/2581063#fruits/5752984). ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) scored an impressive 996k with a single miss, followed by ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462) with an equally impressive 983k. Sadly, it was not enough. The scoreline ended up in Argentina's favour and thus, Argentina wrote history by securing their second Coronación de Gloria — the only country alongside South Korea to win two consecutive CWC's.
 
 ### Other match highlights
 
 We would have loved to cover more matches for you, but some are best experienced on the big screen. In addition to the matches we've covered above, the ones below were spectacular in their own right, so be sure to give them a watch if your thirst is yet to be quenched.
-If you missed out on any of the weeks, or you want to revisit all matches that have been highlighted throughout the osu!taiko World Cup 2025, we have prepared a comprehensive table for you.
 
 | Match | Stage | Links |
-| :-- | :-- | :-- |
-| ::{ flag=AU }:: Australia vs. ::{ flag=NL }:: The Netherlands | Group Stage | [Text summary](https://osu.ppy.sh/home/news/2026-03-26-osutaiko-world-cup-2026-group-stage-recap#australia-vs.--the-netherlands), [VOD](https://www.twitch.tv/videos/2728498363), [match info](https://osu.ppy.sh/community/matches/120772730) |
-| ::{ flag=CO }:: Columbia vs. ::{ flag=VN }:: Vietnam | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2026-04-05-osutaiko-world-cup-2026-round-of-16-recap#colombia-vs.--vietnam), [VOD](https://www.twitch.tv/videos/2734858509), [match info](https://osu.ppy.sh/community/matches/120825509) |
-| ::{ flag=FR }:: France vs. ::{ flag=MY }:: Malaysia | Quarterfinals | [Text summary](https://osu.ppy.sh/home/news/2026-04-11-osutaiko-world-cup-2026-quarterfinals-recap#france-vs.--malaysia), [VOD](https://www.twitch.tv/videos/2739798373), [match info](https://osu.ppy.sh/community/matches/120867600) |
-| ::{ flag=IT }:: Italy vs. ::{ flag=CN }:: China | Semifinals | [Text summary](https://osu.ppy.sh/home/news/2026-04-18-osutaiko-world-cup-2026-semifinals-recap#italy-vs.--china), [VOD](https://www.twitch.tv/videos/2746243641), [match info](https://osu.ppy.sh/community/matches/120924693) |
-| ::{ flag=BR }:: Brazil vs. ::{ flag=TW }:: Taiwan | Finals | [Text summary](https://osu.ppy.sh/home/news/2026-04-26-osutaiko-world-cup-2026-finals-recap#brazil-vs.--taiwan), [VOD](https://wwww.twitch.tv/videos/2750862446), [match info](https://osu.ppy.sh/community/matches/120962349) |
+| :-- | :-- | :-: |
+| ::{ flag=BE }:: Belgium vs. China ::{ flag=CN }:: | Round of 16 | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2800739214) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121326997) |
+| ::{ flag=PT }:: Portugal vs. New Zealand ::{ flag=NZ }:: | Round of 16 | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2800742889) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121327396) |
+| ::{ flag=GB }:: United Kingdom vs. Spain ::{ flag=ES }:: | Quarterfinals | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2801252329) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121365761) |
+| ::{ flag=CO }:: Colombia vs. Malaysia ::{ flag=MY }:: | Quarterfinals | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2801366113) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121366998) |
+| ::{ flag=CA }:: Canada vs. United States ::{ flag=US }:: | Quarterfinals | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2801421242) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121367320) |
+| ::{ flag=CN }:: China vs. Indonesia ::{ flag=ID }:: | Semifinals | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2806632934) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121407523) |
 
 ## Tournament Statistics
 
@@ -252,8 +235,6 @@ More in-depth statistics for every round can be found in the [stats folder](http
 
 ## Interviews
 
-![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/Polytetral-and-Mune.png)
-
 <style>
     .news-chat-quote__avatar {
         float: left;
@@ -276,12 +257,18 @@ More in-depth statistics for every round can be found in the [stats folder](http
         color: #FFFFFF;
     }
 
-    .news-chat-quote__colour-tc {
-        color: #FFB969;
+    .news-chat-quote__colour-nat {
+        color: #FA3703;
+    }
+
+    .news-chat-quote__colour-nat {
+        color: #A347EB
     }
 </style>
 
-Each tiebreaker project brings together multiple designer roles working toward a shared vision. This time, we're taking a different approach for the interview by featuring two roles together, with both visual effects (VFX) and storyboard animation perspectives in one discussion.
+![Designers](/wiki/shared/news/) \\Needs banner
+
+Many noticed the semifinals tiebreaker song is themed around the radioactive element radium, combining scientific concepts with animated abstract and glitch-style visuals. It also marks the second animated graphic design collaboration within the World Cup Design Team, following [Vacant Rhapsody](https://www.youtube.com/watch?v=G9JdmWW5BsQ) by [penoreri](https://osu.ppy.sh/beatmaps/artists/526), which debuted in this year's [MWC 7K](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2026_7K) and later appeared in this year's [CWC Qualifiers](https://osu.ppy.sh/beatmapsets/2558834#fruits/5685705). We're now sitting down with designers from graphic design, storyboard, and visual effects to talk about how they brought these ideas together into a cohesive visual experience.
 
 <div class="news-chat-quote__text-container">
 
@@ -289,328 +276,239 @@ Each tiebreaker project brings together multiple designer roles working toward a
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
 
-Welcome! This is the first time we're bringing together different designer roles for a shared interview. Could each of you introduce yourselves and share a bit about your background?
+Welcome! This time we're bringing together three different designer roles: graphic design (GFX), storyboard, and visual effects (VFX). Could each of you introduce yourselves and share a bit about the role you took on in this project?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8612061" style="background-image: url('/wiki/shared/avatars/polytetral-2.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/38505034" style="background-image: url('/wiki/shared/avatars/smsrdzc.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-tc" href="https://osu.ppy.sh/users/8612061">Polytetral</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/38505034">smsrdzc</a></p>
 
-Hello! I'm Polytetral, otherwise known by my hobbyist designer alias Polychromatic. I started out in my early years as an osu!mania 4K enthusiast, participating in several osu!mania tournaments as both player and staff before becoming a part of the Tournament Committee in 2025.
+Greetings! I'm smsrdzc, more easily spelt as dezic. This is the very first tiebreaker I've worked on, and surprisingly I found myself on both the VFX and GFX sides!
 
-I was inspired to begin my journey in graphic design when learning about the original music and designs made for [osu!taiko Malaysian Tournament 2022](https://osu.ppy.sh/community/forums/topics/1629138?n=1). Since then, I worked on a simple design for [Unsynchronized Rhythms](https://osu.ppy.sh/beatmapsets/1893947) which was an original song that [Supa7onyz](https://osu.ppy.sh/beatmaps/artists/435) had made for osu!mania LN Tournament 3, and the rest is history. I was accepted into the World Cup Design Team in 2023, and since then I have worked on countless graphic designs and videos for tournaments within the osu! community, such as Resurrection Cup, GTS (Global Taiko Showdown) and the Korean LAN Circles In Seoul.
+For my VFX role, especially on Radium, I interpreted it as "setting the mood" of the tiebreaker with visual effects in line with the song's atmosphere. Since my main method of creating visuals is through 3D, I modeled the reactor, particles, tracery effects, and the whole atmosphere from scratch with these keywords in mind: radium, radioactivity, camera distortion caused by radiation, and overall the cold, chaotic (from the fission reaction), pragmatic nature of radioactive decay that eventually leads to the decayed product of radium. Sounds really cool, isn't it? It is! I literally couldn't sleep thinking about it.
 
-Strangely, I had always felt inspired to work on VFX when I was younger, but never found a reason to start and was intimidated by the workflow demanded. By a stroke of luck, I had an opportunity to work on a full-length video for [HowToPlayLN](https://osu.ppy.sh/users/10879600) in BMS of Fighters, which pushed me to pick up Blender and After Effects to create more lifelike visuals and unique models to complement my graphic design skills. It was not an easy venture and demanded lots of patience, but was highly rewarding. Expertise in both VFX and GFX has netted me many high-value projects, including 19 tiebreakers as of present, among them including [Eternity (CWC 2025)](https://www.youtube.com/embed/O_8FGiiad6U) and [Thule, the current Grand Finals tiebreaker for TWC 2026](https://www.youtube.com/embed/YGdz1FWbBes).
+Moving on to the GFX role, as mentioned before, since this project was more focused on animated graphic design collaboration, I worked on creating assets and graphics for the storyboarders to implement. Notably, I collaborated with [Coppertine](https://osu.ppy.sh/users/7279762) to design some sections of the storyboard. This was probably the most fun part!
 
-Talking about my designs and journey would take too long… Head down to [my portfolio site](https://polychromatichx.carrd.co/), where I share some videos and projects I have completed so far!
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14069486" style="background-image: url('/wiki/shared/avatars/Promachos.jpg')"></a>
 
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/2026-05-13-twc-2026-gf-recap-1.mp4" type="video/mp4" preload="none">
-    </video>
-</div>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14069486">Promachos</a></p>
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8500334" style="background-image: url('/wiki/shared/avatars/mune.jpg')"></a>
+Hii o/ I'm Promachos, storyboarder for Radium and [Vacant Rhapsody](https://www.youtube.com/watch?v=G9JdmWW5BsQ). I've been making storyboards for the World Cups for a couple of years now, but projects like these are easily my favourite to work on because of the creative freedom they provide. Besides (World Cup) storyboarding, I'm also known for making osu!mania SV maps and modcharts.
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8500334">Mune</a></p>
+As a storyboarder, you are essentially the last layer in the production process of a design project: the person (or people) responsible for bringing the assets together in the beatmap and making it come to life in sync with the music. This was no different for the storyboard of Radium, where I, along with [Noffy](https://osu.ppy.sh/users/1541323) and [Coppertine](https://osu.ppy.sh/users/7279762), would take the graphics and sprites provided by the GFX team and give it that extra oomph to make the showcase video match the hype of the original song. Personally I think it's really cool to see the amazing stuff made by the VFX and GFX teams and have it come into motion within the map as I'm working on the storyboard.
 
-Happy to be here! I'm Mune. I started my storyboarding journey in 2017 and have made many storyboards since then. My first tourney storyboard was [Sad Keyboard Guy, sleepless & Myntian - Alter//Strife feat. vally.exe](https://osu.ppy.sh/beatmapsets/1881706) made for [Vietnam osu! Championship 2022](https://osu.ppy.sh/community/forums/topics/1639421?n=1). Later on, I worked on [Kagetora. - The enormous](https://osu.ppy.sh/beatmapsets/2032518), the Grand Finals tiebreaker of [Resurrection Cup 2023](/wiki/Tournaments/RESC/2023).
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18709857" style="background-image: url('/wiki/shared/avatars/Merong_.jpg')"></a>
 
-I joined the World Cup Design Team in late 2025, with my debut design being [Imperial Circus Dead Decadence - Yuuaku no Inori - Anima immortalis est. -](https://osu.ppy.sh/beatmapsets/2475379), the Grand Finals tiebreaker for OWC 2025, collaborating along with [Kuroise](https://osu.ppy.sh/users/14547127), [Enkrypton](https://osu.ppy.sh/users/5178122), [LowGraphics](https://osu.ppy.sh/users/5383942) and [Noffy](https://osu.ppy.sh/users/1541323). This year I shifted focus to work on more osu! originals such as [qfeileadh feat. Resonance Moeko - Petals \~Mebuku Kotoba\~](https://osu.ppy.sh/beatmapsets/2501756), [Laur - SEV-26](https://osu.ppy.sh/beatmapsets/2508618), [uynet - Lunar Eclipse](https://osu.ppy.sh/beatmapsets/2530668), and also this Grand Finals tiebreaker.
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/18709857">Merong_</a></p>
 
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/2026-05-13-twc-2026-gf-recap-2.mp4" type="video/mp4" preload="none">
-    </video>
-</div>
+Hello! I'm Merong_, and this was my first time working on a project with the World Cup Design Team. For this project, I worked on the VFX side of the video. My role mainly involved creating glitch effects, transitions, scanlines, and other visual effects to help convey the radioactive and unstable atmosphere of Radium. In addition to the VFX work, I also modeled a reactor-core-inspired 3D object that appeared in the video. 
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
 
-It's very exciting for us to work with [Camellia](https://osu.ppy.sh/beatmaps/artists/31) again. This time he proposed a general theme of a humanoid robot traveling to Thule, the farthest northern edge of the world. How did each of you interpret this theme during our early meetings? Which parts of it did you choose to expand on when shaping the story?
+This entire project was built around radium, a radioactive chemical element. From hints of nuclear reactors and electron configurations to scan lines and geiger counters, we explored a wide range of ideas inspired by radium. What aspects of this project stood out to you the most? How did you interpret them through your individual design work?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8612061" style="background-image: url('/wiki/shared/avatars/polytetral-2.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14069486" style="background-image: url('/wiki/shared/avatars/Promachos.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-tc" href="https://osu.ppy.sh/users/8612061">Polytetral</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14069486">Promachos</a></p>
 
-My initial concept of the Thule was less inspired by the story of the humanoid robot itself searching for an escape, but rather focused on establishing the visual direction. Having listened to the song before our meetings, I felt that the desperation of the narrator (represented by Camellia's vocals) and the echo-y acoustics of the music lent the Thule to be interpreted as a chasm that led to nowhere but a deep dark abyss, with nothing but a drowning sensation and a sliver of hope for escaping reality.
+What I like about a song like Radium is that there is a lot of potential to create crazy effects and transitions. Because radium as a material is radioactive, you can connect that to glitchy effects, static, noise, erratic movement, and so on. This is then amplified by the punchy kicks of the song, allowing for some very fun sequences as a result. These were the most interesting aspects of this project for me, since it basically meant I could cook up whatever cool effects I had in mind while still keeping them consistent with the song's theme.
 
-The interpretation reminded me of the visuals and theming of a sci-fi horror game named SOMA, where the main protagonist finds himself travels down to the deepest levels of the Mariana Trench in the body of a humanoid robot to launch a project that might save humanity while contemplating the purpose of his existence.
+For example, at about 75 seconds into the song, there is a section where the beat goes all stuttery. That's a really nice concept to work with because it lends itself so well to glitchy, stuttery visuals, while also matching the song's vibe perfectly in this case. The project as a whole had a very natural flow because of sections like these, which made it especially satisfying to see everything come together.
 
-Within our initial meeting to bring the story together, I tried to use references of futuristic UI elements and the desaturated color palette from SOMA to help the GFX and VFX designers get an idea of how the main character would have seen the world, and in turn provide inspiration on what to implement in the song jacket and video. I like to imagine that these references played a part in determining how the final typography and video turned out to be - but chances are that these ideas were similar to other designers' interpretations to begin with.
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18709857" style="background-image: url('/wiki/shared/avatars/Merong_.jpg')"></a>
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8500334" style="background-image: url('/wiki/shared/avatars/mune.jpg')"></a>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/18709857">Merong_</a></p>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8500334">Mune</a></p>
+What stood out to me the most was the fact that radium can accumulate in bones and have a serious impact on the human body. With that in mind, I combined imagery of bones with a structure inspired by a nuclear reactor core, aiming to portray the feeling of something being slowly eroded and transformed by radiation.
 
-My first impression of Thule is a singularity point at the northern edge of the desolate world. While listening to the song, I felt that the dark atmosphere and Camellia's vocal portrays a deep dark abyss, like the center of a black hole. Similar to what Poly mentioned, everything also reminds me of the game SOMA. At the end of the game, the main protagonist is stuck at the bottom of the deep dark ocean and nothing around him.
+Rather than simply presenting scientific imagery, I also focused on using glitch and distortion effects to create an unstable and hazardous atmosphere, reflecting the dangerous nature of radium. The overall visual direction of the video was heavily inspired by the work of [Shun Yamaguchi (oumlr)](https://oumlr.com/), whose style influenced many of my creative decisions throughout the project! :)
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/38505034" style="background-image: url('/wiki/shared/avatars/smsrdzc.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/38505034">smsrdzc</a></p>
 
-From the visual effects in the intro video to the in-game storyboard animations, the two of you worked on different parts of the visual production. How did your production processes differ when bringing the same story to life?
+Specifically, their uses in luminescent paint and electron tubes, but talking about radioactive materials as a whole, I like to explore the spectacle of them: the camera glitching as you get closer, the reactor, and the blue glow inside it. Fun fact, it's actually like a "nuclear" sonic boom, but instead of sound, it's the glow that's emitted. It's called Cherenkov radiation, which occurs when particles emitted from radioactive material travel through water faster than light can travel through water. (And yes, the speed of light does slow down when it travels through water. Not by much, but hey, the blue radiation spectacle is pretty cool. Also, the speed of light, approximately 300,000 km/s, only applies when it travels through a vacuum. Through water or air, it slows down!)
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8612061" style="background-image: url('/wiki/shared/avatars/polytetral-2.jpg')"></a>
+Then! Let's see how these concepts play into the work. My VFX part starts with us slowly descending toward the reactor, where the camera gradually glitches out. The laser coming out is definitely a hyperbolic visual way of exaggerating the motion of the particles being discharged. It's not like a bullet, but rather like a laser, and here you can see how they're all blue-cyan-ish. That's the Cherenkov radiation I talked about before! Then, as we progress, our view, or the camera, starts picking up noise before it's swallowed by the vortex. The vortex section was highly inspired by the green glow emitted by materials that use radium paint, and the plexus particles, which seem to move chaotically, are actually trying to mimic the visualization of radiation in a cloud chamber.
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-tc" href="https://osu.ppy.sh/users/8612061">Polytetral</a></p>
-
-One main difference between an introduction video and an osu! storyboard is that the video plays a larger role in creating the first impression of the message the music conveys to the audience. Thus, the VFX designers' production process in this project is more focused on storytelling, aiming to introduce our android girl (UI-Chan) and the desolate world she belongs in, drawing intrigue towards her journey into the Thule and beyond.
-
-The process all begins from the initial meeting, where the historical context and individual interpretations of the "Thule" were introduced and discussed. This part of the meeting was mainly driven by making use of the finalized song and translated English lyrics completed by [-mint-](https://osu.ppy.sh/users/8976576). These materials helped the VFX team understand the duration of the video, and to develop an idea of the scenes we should be working on based on the scope demanded.
-
-Following the meeting itself, my VFX partners [TheFunk](https://osu.ppy.sh/users/13981991) and [sugosugiii](https://osu.ppy.sh/users/15118952) started off by establishing the number of scenes required for the video, and the idea to convey for each scene. Each VFX designer then took an equal number of scenes to develop, with the freedom to create or request assets from other designers/illustrators for animation. Unique to this project, it was possible to make our own 3D scenes for each shot.
-
-After assembling each scene into a single working file, we then worked on compositing to ensure each scene was color-graded similarly to convey the moody yet mysterious vibe of the song's introduction. Lyrics were also added and animated as the cherry on top, finalizing the video creation process.
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8500334" style="background-image: url('/wiki/shared/avatars/mune.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8500334">Mune</a></p>
-
-The storyboard aimed to tell the story of our robotic girl UI-chan on her way to Thule. While working on the storyboard, we adopted a similar workflow along with the VFX designers, further splitting the song into smaller storyboard sections and developing a narrative for each one. Along with [Initial D](https://osu.ppy.sh/users/8382535) and [Iyouka](https://osu.ppy.sh/users/7138499), we made sure to document all our thoughts in a shared work sheet.
-
-In the meantime, I started setting up a [GitHub repository](https://github.com/WorldCupDesignTeam) for us to manage our codebase and assets. We made sure everyone is aware of any updates, then continued to communicate with illustrators for any assets we need.
-
-With the illustration assets provided by [Arushii](https://osu.ppy.sh/users/15664628), [-pineapple-](https://osu.ppy.sh/users/11523326), [naraicat](https://osu.ppy.sh/users/6419788) and [Panthullu](https://osu.ppy.sh/users/12580298), we were able to make our ambitious design scope possible to achieve.
-
-As we continued to work on each section of the storyboard, we also received help from both VFX and GFX designers, with [Polytetral](https://osu.ppy.sh/users/8612061) and [AlexDunk](https://osu.ppy.sh/users/9194799) making more assets for us to animate. Notably, I was able to animate the interface design for the last kiai of the song.
-
-When all the individual storyboard sections are done, all that's left to do is for us to combine everything and apply transitions to make the visual progression feel more natural.
-
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/2026-05-13-twc-2026-gf-recap-3.mp4" type="video/mp4" preload="none">
-    </video>
-</div>
+Moving on, probably my favorite part was working with [Coppertine](https://osu.ppy.sh/users/7279762) to polish ideas for the storyboard. We were trying to capture that cold, unforgiving, pragmatic, and industrial feeling, and gosh, this part of the song was perfect for it. The middle pillars rise upward and then extend diagonally to the side, while the electron tubes become the glow inside the pillars. The spiraling structures on the sides, with their hypnotic rotation, were inspired by the organic, irregular formations often associated with highly radioactive materials.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
 
-Each tiebreaker design is a collaboration across all designer roles. In fact, this Grand Finals tiebreaker involved over a dozen designers working in different roles to bring everything together. Over the past few years, you've collaborated with all other designer roles in multiple tiebreaker projects, gaining insight into how each area operates. How has that cross-role experience influenced the way you review work?
+This project relied heavily on graphic design, storyboard animation, and visual effects working together. Even though many different concepts were explored, the final product still felt like a cohesive experience. How did you approach balancing variety with consistency, and what helped you tie all of these different visual ideas together in GFX, storyboard, and VFX?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8612061" style="background-image: url('/wiki/shared/avatars/polytetral-2.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/18709857" style="background-image: url('/wiki/shared/avatars/Merong_.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-tc" href="https://osu.ppy.sh/users/8612061">Polytetral</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/18709857">Merong_</a></p>
 
-Indeed, tiebreaker designs always demand a lot more collaboration across talents within the World Cup Design Team. This is compared to other community tournaments, where you may be required to handle the end-to-end visual designing process by yourself, from creating the song jacket to working on the feature video.
+Since this was my first project with the World Cup Design Team, I was honestly quite nervous throughout the production process. Fortunately, dezic, who worked alongside me on the VFX side, helped me a lot and gave me valuable feedback whenever I needed it. I'm very grateful for all the support. <3
 
-From a VFX designer's standpoint, the wide range of talent working on tiebreaker projects enable us to do much more than just 3D animations and abstract motion graphics. Being able to work with other GFX designers, illustrators and storyboarders on a singular vision means that you can delegate asset creation to others and fully focus on animating beautiful illustrations, and you could potentially have a storyline involving a character and create more meaning for the audience.
+To maintain consistency across the project, I first looked closely at the storyboard and GFX work before adding any visual effects. Rather than making the VFX the main focus, I wanted it to support and enhance the existing visuals.
 
-That being said, having more power comes with more responsibility. As the scene animator/compositor, it then became my duty to provide sketches of scenes for illustrators to render, and for me to feedback in a timely manner such that certain assets or characters could be better animated.
+Another thing that helped a lot was that dezic and I regularly shared our works in progress throughout production. By reviewing each other's work and discussing ideas as the project developed, we were able to keep not only the overall visual style consistent, but also create transitions that felt more connected and natural between different sections of the video.
 
-Similarly, I also had to provide assets for storyboarders to work with based on their scene requirements. Other things that we generally do as collaborators are to keep track of deadlines for deliverables, counter scope creep in larger projects, and to provide technical (and sometimes emotional) support to each other.
+I also tried to maintain a consistent visual language throughout the project by repeatedly using elements such as glitches, scanlines, noise, and CRT-inspired effects. Even though the project explored many different ideas and visual motifs, I think these recurring elements helped tie everything together into a cohesive experience.
 
-As a designer who has experience in tournament organization, all of these experiences helped me to provide more technical and insightful feedback to collaborators regarding their work, manage larger project scopes and navigate deadlines with more maturity and confidence.
+For the overall visual direction, I took a lot of inspiration from [Shun Yamaguchi's](https://oumlr.com/) works, especially Nhelv and Rainshower. I was particularly inspired by their abstract imagery, rotating camera movements, and the way glitch effects are integrated into the visuals without overwhelming the core design. Those works influenced many of my creative decisions throughout the project.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8500334" style="background-image: url('/wiki/shared/avatars/mune.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/38505034" style="background-image: url('/wiki/shared/avatars/smsrdzc.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8500334">Mune</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/38505034">smsrdzc</a></p>
 
-I'd say both VFX and storyboard animations share a similar production workflow. Especially when both are very demanding for illustrations or any graphic assets, it's important to have a team of designers with various skill sets to collaborate.
+I think it's really important, and a lot more fun, to coordinate with everyone assigned to the section you're currently working on. Let's start with VFX. Merong, who was my partner on the VFX, was very supportive and fun to work with <3. Especially when I got stuck on what ideas would be best to visualize, he was always there to help. When we were brainstorming with the rest of the team as well, there was a lot of back and forth discussion and feedback on every update. I think that really helped with both consistency and bringing different perspectives to each idea by inspiring everyone, especially whenever someone got stuck. It happens to the best of us. Me too, obviously, MANY TIMES OVER.
 
-Although every designer is responsible for one part of the production, the entire team is working towards a unified vision. Compared to solo work where you have to do everything by yourself, team collaboration is something I've only got to experience once working on large scale productions.
+The same thing happened when I worked with [Coppertine](https://osu.ppy.sh/users/7279762). Since this is one of the many collaborations I'll have with storyboarders, I was surprised by how fun it was, both because of the possibilities and the limitations of storyboarding. I think we actually spent a total of 10 hours in voice chat, and the result definitely speaks for itself. Amazing work by [Coppertine](https://osu.ppy.sh/users/7279762) on both the idea-sharing and the execution <3.
 
-At the same time, receiving feedback from other designers helps me to reflect on my own strengths and weaknesses, such as time management and storyboarding techniques. In turn, these accumulated experiences also enable me to give others thoughtful feedback and support in every project.
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14069486" style="background-image: url('/wiki/shared/avatars/Promachos.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14069486">Promachos</a></p>
+
+The key part that storyboarding plays in the coherence of the graphics is the transitions. If the graphics abruptly change between sections, then it'll look obnoxious no matter how cohesive the art is. Fade to black, add flashes, move the graphics as a whole—add something that makes the parts connect and flow together. Fortunately, the GFX team already did a fantastic job of creating clean and thematic assets, so within each section, we as storyboarders were pretty much free to add whatever flair we felt looked good. From there, it was just a matter of transitioning cleanly into the next scene.
+
+The variety within projects like these is a large part of what makes them so appealing to work on. There is virtually no repetition: each section is new and has its own effects and movements. That's the charm of storyboards like Radium and [Vacant Rhapsody](https://www.youtube.com/watch?v=G9JdmWW5BsQ), in that they are so varied and dynamic in their presentation while still following a larger overall theme. It might take more effort to make compared to more "traditional" storyboards, but in my opinion, it is very much worth it.
 
 </div>
 
-![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/elwood-interview.png)
+![Boltico](/wiki/shared/news/) \\Needs banner
 
-<style>
-    .news-chat-quote__avatar {
-        float: left;
-        width: 40px;
-        height: 40px;
-        border-radius: 50%;
-        margin-left: -50px;
-    }
-
-    .news-chat-quote__text-container {
-        margin-left: 50px;
-    }
-
-    .news-chat-quote__username {
-        font-weight: 600;
-        margin-bottom: 2px;
-    }
-
-    .news-chat-quote__colour-no-group {
-        color: #FFFFFF;
-    }
-</style>
-
-We had the opportunity to interview elwood, one of the six composers behind [ON.UR.MARKS…](https://osu.ppy.sh/beatmapsets/2538002#taiko/5616417), the Finals tiebreaker.
+\\Needs intro
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9905079" style="background-image: url('/wiki/shared/avatars/nurend.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/566276" style="background-image: url('/wiki/shared/avatars/Rocma.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/566276">Rocma</a></p>
 
-When you were approached to compose the Finals tiebreaker–a direct sequel to last year's Grand Finals tiebreaker BUZZ CUTZ--what was your initial reaction, and how did you feel stepping into a project of that scale?
+Could you explain what tasks you took care of throughout the world cups duration? What did you enjoy doing the most?
 
-<a class="avatar news-chat-quote__avatar" href="https://soundcloud.com/elw00d" style="background-image: url('/wiki/shared/avatars/elwood.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5297904" style="background-image: url('/wiki/shared/avatars/Boltico.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://soundcloud.com/elw00d">elwood</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/5297904">Boltico</a></p>
 
-BUZZ CUTZ was such an amazing song. so to be honest, my initial reaction was slight trepidation... how could we make something equally fantastic at representing the hyperflip scene? however, this quickly manifested into excitement for what a western hyperflip marathon would sound like.
+I was responsible for evaluating the difficulty of the maps from the qualifiers all the way to the grand finals, at least to the best of my ability. I also helped coordinate replays to keep everything organized and make it easier for players to choose which maps they wanted to record. I really enjoyed testing everyone's maps, discussing their difficulty with the mappers, and later seeing those maps featured on the tournament stream with one of my own replays
 
-I don't see BUZZ CUTZ as a competitor song, far from it. I believe they both live harmoniously together. that was the intention of ON.UR.MARKS... unity!
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/566276" style="background-image: url('/wiki/shared/avatars/Rocma.jpg')"></a>
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9905079" style="background-image: url('/wiki/shared/avatars/nurend.jpg')"></a>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/566276">Rocma</a></p>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
+It's nice that you got to see your own replays featured on stream. Considering you did so many replays for us, do you have a replay that you're the most proud of?
 
-Collaborating with six composers on an almost eight-minute track sounds challenging. What was the creative process like, and how did you coordinate such a large-scale project?
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5297904" style="background-image: url('/wiki/shared/avatars/Boltico.jpg')"></a>
 
-<a class="avatar news-chat-quote__avatar" href="https://soundcloud.com/elw00d" style="background-image: url('/wiki/shared/avatars/elwood.jpg')"></a>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/5297904">Boltico</a></p>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://soundcloud.com/elw00d">elwood</a></p>
+The replay I remember the most was grand finals HR2. I never expected to achieve a 1 miss replay on such a difficult map, especially with the high circle size and the precision required by its patterns. It ended up being one of the replays I'm most proud of
 
-Ultimately, artists often work best when given space. part of the coordination was trusting the artists to do what they do best; show off, essentially. a big part of hyperflip is extreme genre switches, so it also made sense thematically.
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/566276" style="background-image: url('/wiki/shared/avatars/Rocma.jpg')"></a>
 
-I started the project with my own section, and the composers all expanded upon that initial idea. there were a couple of minor changes towards the end in terms of structure, but the entire process was surprisingly really linear.
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/566276">Rocma</a></p>
 
-Fun fact, the outro is actually reali's original demo for their part, with a few edits by myself. I found it fit really well!
+Interesting! On a related note, were there any maps or songs that were especially memorable to you as well?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9905079" style="background-image: url('/wiki/shared/avatars/nurend.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5297904" style="background-image: url('/wiki/shared/avatars/Boltico.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/5297904">Boltico</a></p>
 
-Last year's Grand Finals tiebreaker BUZZ CUTZ was primarily composed by Japanese artists, while ON.UR.MARKS… features mostly Western artists. Did that lead to any noticeable differences in the creative approach or final result?
+One of the most interesting experiences for me was watching the development of the semifinals tiebreaker. I was able to see the entire process, from the initial version to the nerfs and buffs that Mr. Binking made to ensure it would be a proper step up in difficulty from the previous round. I also tried to record the replay for it, but unfortunately I couldn't full combo the map because I struggled with the final section, is a really hard part. Even so, it ended up being one of my favorite maps to play throughout the tournament
 
-<a class="avatar news-chat-quote__avatar" href="https://soundcloud.com/elw00d" style="background-image: url('/wiki/shared/avatars/elwood.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/566276" style="background-image: url('/wiki/shared/avatars/Rocma.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://soundcloud.com/elw00d">elwood</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/566276">Rocma</a></p>
 
-Funnily enough, it feels like we both ended up influencing each other! the Japanese scene has always been a big fan of that original dariacore sound, while the Western scene has been pushing for j-core/otogecore elements in recent times. not only in terms of structure and stylistic choices, but even down to the mixing.
+It definitely sounds like that map was a memorable one. Before we finish, is there a genre you'd like to see featured more in next year's World Cup?
 
-reallerr and reali have definitely been pushing for that crossover a lot. not gonna lie, as a long time fan of arcade rhythm games myself, i've been more than accepting of this stylistic direction. I think once you realise this community is just people bouncing quite broad ideas off of each other, it makes a lot of sense. again: unity!
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/5297904" style="background-image: url('/wiki/shared/avatars/Boltico.jpg')"></a>
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9905079" style="background-image: url('/wiki/shared/avatars/nurend.jpg')"></a>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/5297904">Boltico</a></p>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
-
-Now that ON.UR.MARKS… has been released and performed as the Finals tiebreaker, how do you feel about the finished piece, and is there anything you would have done differently in hindsight?
-
-<a class="avatar news-chat-quote__avatar" href="https://soundcloud.com/elw00d" style="background-image: url('/wiki/shared/avatars/elwood.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://soundcloud.com/elw00d">elwood</a></p>
-
-Seeing the song be played as the Finals tiebreaker alongside the amazing storyboard filled me and the team with so much joy... it's not a common opportunity to have your work be treated with so much compassion in such a cool setting. I admit I shed a tear watching the gameplay!
-
-I think a slower BPM could've been an interesting direction, it would've definitely expanded the amount of genres we could pull off! however, what we made we are all super happy with, and we hope you enjoyed it too!
+I don't really have a favorite music genre, especially since some songs can't be used due to licensing restrictions. That said, I absolutely loved the music used in grand finals HD1 and Finals MM1. I'd love to see more maps featuring that style of music in future tournaments
 
 </div>
 
-![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/monkeydluffy3u4-interview.png)
+![Natsuko](/wiki/shared/news/) \\Needs banner
 
-<style>
-    .news-chat-quote__avatar {
-        float: left;
-        width: 40px;
-        height: 40px;
-        border-radius: 50%;
-        margin-left: -50px;
-    }
-
-    .news-chat-quote__text-container {
-        margin-left: 50px;
-    }
-
-    .news-chat-quote__username {
-        font-weight: 600;
-        margin-bottom: 2px;
-    }
-
-    .news-chat-quote__colour-no-group {
-        color: #FFFFFF;
-    }
-</style>
-
-[monkeydluffy3u4](https://osu.ppy.sh/users/2277798), a veteran player who has now participated in the osu!taiko World Cup a record 12 times over 11 years, once again represented Team Taiwan. Alongside their teammates, they secured a 4th-place finish, further cementing Taiwan's reputation as one of the tournament's strongest and most consistent teams.
+\\Needs intro
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9905079" style="background-image: url('/wiki/shared/avatars/nurend.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7592136" style="background-image: url('/wiki/shared/avatars/Daletto.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7592136">Daletto</a></p>
 
-Congratulations on getting top 4! Taiwan has consistently been one of the strongest teams in TWC. How does the team feel about this year's performance, and what does this placement mean to you personally after so many years of competing?
+Congratulations on this historic podium finish for your team in the Catch World Cup! This is the first time France has finished in the top 3. How does it feel to have achieved this milestone, and do you think France could replicate this result next year, or perhaps even take home the trophy and win?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2277798" style="background-image: url('/wiki/shared/avatars/monkeydluffy.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8266817" style="background-image: url('/wiki/shared/avatars/Natsuko.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2277798">monkeydluffy3u4</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-bn" href="https://osu.ppy.sh/users/8266817">Natsuko</a></p>
 
-Thank you all for the support! My teammates played incredibly well, showing their best consistency, having wonderful ban-pick strategies, and good things happened every week. I'm so proud of them and the results are far better than we expected. I enjoyed watching Grand Finals matches a lot. The top 3 teams–Japan, South Korea and Chile delivered amazing performances, and the results were so close. I believe the top 3 teams are the closest this year.
+It feels amazing to finally achieve a long-awaited dream. We're incredibly happy and proud of what we've accomplished, and everyone on the team is excited to earn their very first tournament badge!
 
-I was so excited watching, not knowing what's going to happen till the end, which is a brand-new experience for us like it never happened before. Team Chile performed far better and more solidly than we did, which makes their 3rd place well-deserved. 4th Place for us is the best ending we could make.
+It definitely wasn't easy; we had to put in a huge amount of practice and dedication to make it happen but we never stopped believing. If we end up with a similar roster next year, I truly think we have what it takes to finish in the top 3 again. We showed everyone that France is capable of achieving even more.
 
-To be frank, the announcement of 3v3 to 2v2 and seeing the rosters of almost every country having their strongest players coming back really made us less confident in performing well. 2v2 can make teams way stronger and more competitive depending on how their rosters are formed. It benefits most teams by looking at the results.
+We're excited to keep improving and see how far we can go in the future.
 
-However, team Taiwan, in our viewpoint, is not the case. We're not a team of super-consistent or super-versatile players, but we know ourselves and each other about what we are good at, and by each of us focusing on specific maps, somehow maximizing our power successfully and making us a strong team as well.
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7592136" style="background-image: url('/wiki/shared/avatars/Daletto.jpg')"></a>
 
-Taiwan may not be the strongest team every year, but we are well-known for perfect teamworks as always. It's nice to see TWC becoming more competitive each year, and for me personally, it's nice to see that I still can catch up with top players around the world again. Once again, I'm really satisfied with the results and I'm proud of our team.
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7592136">Daletto</a></p>
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9905079" style="background-image: url('/wiki/shared/avatars/nurend.jpg')"></a>
+We'd love to hear your thoughts on this year's originals. Which one did you enjoy the most? Is there anything you'd like to see next year whether that's specific artists, styles, or something entirely different?
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8266817" style="background-image: url('/wiki/shared/avatars/Natsuko.jpg')"></a>
 
-You've now participated in TWC 12 times over 11 years, which is an incredible level of longevity. What has kept you motivated to return each year, and what advice would you give to players hoping to stay competitive at a high level for as long as you have?
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-bn" href="https://osu.ppy.sh/users/8266817">Natsuko</a></p>
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2277798" style="background-image: url('/wiki/shared/avatars/monkeydluffy.jpg')"></a>
+NM2 from the quarterfinals was absolutely amazing. I enjoyed it just as much as MM1 in the finals. Both maps were fantastic, and I'd love to see more catch maps with songs like these as they're incredibly fun to play and listen.
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2277798">monkeydluffy3u4</a></p>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7592136" style="background-image: url('/wiki/shared/avatars/Daletto.jpg')"></a>
 
-Although I ended up consecutively participating in TWC, becoming the player with the most appearances by far, I did think of quitting several times. If I still remember correctly, I made my very first X (formerly twitter) post of retirement soon after my first appearance in TWC, which is 2015. We secured 2nd place that year, while I didn't feel I performed well at Finals personally, and I was scared of being a black sheep if I kept participating.
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7592136">Daletto</a></p>
 
-Another period of planning for quitting was around 2020-2023. Most Taiwanese players from that era retired from TWC, I graduated from school and started working, and I found myself outdated. I was sometimes overwhelmed by negative thoughts. Signing up every year without contribution is like a dog in the manger. Not stepping down equals not giving new players chances, which is truly worth being criticized.
+Having played a lot of matches against strong opponents this year, which one do you think was the most challenging? Do you have any advice for players going up against strong opponents on ways to prepare? How do you handle being nervous during such matches, if you were nervous at all?
 
-Nevertheless, I returned every year in the end. I've never thought of the reason behind it before the interview, but I think there are 2 main reasons.
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8266817" style="background-image: url('/wiki/shared/avatars/Natsuko.jpg')"></a>
 
-First, it's the excitement and sense of achievement that TWC brings. Schools and work can be frustrating and sometimes stressful. Joining TWC offsets perfect shelter for escaping those misfortunes from real life. As I mentioned previously, my teammates are nice and wonderful. We encourage and motivate each other, and I really enjoy the overall vibe of our team, making me decide to stay every year.
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-bn" href="https://osu.ppy.sh/users/8266817">Natsuko</a></p>
 
-Second, it's the "rhythm". I somehow live a very regular routine daily and even yearly. As February comes, my internal clock ticks and tells me, "It's time for TWC", and I signed up as always, as natural as seasonal changes. I still participate in national tryouts every year to make sure I still qualify as a teammate. Nothing interesting, but that's how my longevity comes naturally.
+I think Japan was definitely the most terrifying team for us. When you're in an early stage where the difficulty isn't as high, you really have to be careful with teams like them and never underestimate them, because they are absolute monsters when it comes to consistency.
+Against a team like Japan, every single mistake can cost you the point, and in a close match, that can make a huge difference. Staying focused and having few misses is extremely important when facing opponents like this.
 
-My advice for players in general might sound contradictory, but I would say it's "play for fun instead of playing for win". Before becoming competitive, you have to enjoy yourself and have fun at first, or you will burn out otherwise. Try to integrate into your daily routine, and you will become stronger someday. Slow and steady wins the race.
+You have to be careful not to get overconfident, but also not to let the pressure get to you. I would recommend drinking some water, relaxing before the match, and avoiding playing the same maps over and over again right before it starts.
 
-Another practical advice on how to perform well on the spot of a tournament, I recommend consuming energy drinks or anything that wakes you up 0.5~1 hour before the match. You will get really concentrated and don't even have the time to think of nerve issues.
+The most important thing is to stay calm, trust your preparation, and go into the match with a clear mind.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9905079" style="background-image: url('/wiki/shared/avatars/nurend.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7592136" style="background-image: url('/wiki/shared/avatars/Daletto.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7592136">Daletto</a></p>
 
-Having witnessed the tournament evolve over more than a decade, what are some of the biggest changes you've noticed in TWC — whether it be format or mappool changes — and have those changes affected you or your team in any noticeable way?
+Looking ahead, what are your goals moving forward, and do you see yourself signing up again next year?
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2277798" style="background-image: url('/wiki/shared/avatars/monkeydluffy.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8266817" style="background-image: url('/wiki/shared/avatars/Natsuko.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2277798">monkeydluffy3u4</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-bn" href="https://osu.ppy.sh/users/8266817">Natsuko</a></p>
 
-There is one trivial thing that I want to mention taking this opportunity. I might be wrong and always feel free to correct me. Years ago, we picked and banned the maps by calling the song title itself. It was [S a n d](https://osu.ppy.sh/users/676578), a legendary player and illustrator acting as captain in team Taiwan in 2017, that started the trend by calling the maps by “mods+numbers”, and the trend continued from the following year.
+Moving forward, our goal is to keep improving and continue proving that France can compete at the highest level. We want to build on this experience, learn from our mistakes, and hopefully push even further in the future.
 
-Among my 12 participations, I've experienced exactly six 2v2 and six 3v3 tournaments. Although I have a personal preference for 3v3 since our podiums mostly come from years of 3v3, the format change instead gives us a chance to think of a new way of making the most of our teammates go all out. As for this year, we did not spend our time on every song in the mappool but only focused on maps that we were already good at and tried to solidify our performance. The mappool itself is getting more specific-type-based each year, it also helped us to assign specific maps to each teammate.
+On a personal level, considering the circumstances from last year where I disappeared from the scene, I am extremely happy and grateful to have been able to contribute to the team's success and help achieve this top 3. It means a lot to me to be part of this achievement.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/9905079" style="background-image: url('/wiki/shared/avatars/nurend.jpg')"></a>
+Of course, I would love to participate again next year. If we have a similar team and the same motivation, I truly believe we can aim for another strong result and keep making France proud.
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/9905079">Nurend</a></p>
-
-Looking ahead, what are your goals moving forward, and do you see yourself continuing your long streak?
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2277798" style="background-image: url('/wiki/shared/avatars/monkeydluffy.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2277798">monkeydluffy3u4</a></p>
-
-I still have a dream of Taiwan getting 1st place once again, for the first time since TWC#3, and that's one of my criteria for quitting the tournament. The others are no longer passing national tryouts, the schedule does not fit anymore, and switching the tournament to osu!lazer since I don't have a decent device for running lazer, whichever comes first.
-
-As long as I'm healthy, and still finding joy in the tournament, you'll see [monkeydluffy3u4](https://osu.ppy.sh/users/2277798) in the roster next year.
+If we end up not being able building a team; I would also love to contribute to CWC scene as a testplayer/mapper similar to 2023. 
 
 </div>
+
+---
+
+\\Add Congrats and remove TWC below
 
 Congratulations again to our podium teams for a successful campaign, and congratulations in fact to all 43 participating teams! Every placement was hotly contested this year, and many thanks are in order for the many people who brought TWC together this year.
 
-![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/twc2026-credits.png)
+![](/wiki/shared/news/2026-07-20-osucatch-world-cup-2026-concludes/cwc2026-credits.png) \\Needs new Credits image
+
+\\Add outro and redirect to MWC
 
 As always, thank you, too, for following this year's edition! As the osu!taiko World Cup 2026 draws to a close, more is always on the way in the World Cup circuit, like the third iteration of the Lazer Grand Arena that is currently being held. Check out the [information page](/wiki/tournaments/lga/2026) for more details if you're interested and can't wait for more World Cup action!
 
-—Hivie, Nurend, overdahedge2015, Sakura006 & Yasuho
+—\\Credit people
