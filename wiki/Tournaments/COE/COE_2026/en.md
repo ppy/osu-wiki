@@ -38,6 +38,7 @@ The COE 2026 1v1 Tournament prizes are yet to be announced.
 | GFX | TBA |
 | Storyboarder | ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) |
 | Commentator | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=GB }:: [MALTESER](https://osu.ppy.sh/users/5218178), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=FR }:: [Subaru_Arima](https://osu.ppy.sh/users/11273062), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063) |
+| Commentator (special guests) | ::{ flag=PL }:: [_demo](https://osu.ppy.sh/users/3556891), ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902), ::{ flag=US }:: [n3rdiness](https://osu.ppy.sh/users/16537481), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=SE }:: [ellen-](https://osu.ppy.sh/users/7630166), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
 | Statistician | ::{ flag=NL }:: [Timper](https://osu.ppy.sh/users/11955929) |
 
