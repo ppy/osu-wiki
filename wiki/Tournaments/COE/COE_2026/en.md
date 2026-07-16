@@ -155,26 +155,26 @@ Monday, 13th of July 2026:
 
 Saturday, 18th of July 2026:
 
-| Player 1 | Player 2 | Match time |
+| Player 1 |  |  | Player 2 | Match time |
 | --: | :-: | :-: | :-- | :-- |
-| lystia ::{ flag=GB }:: | ::{ flag=FR }:: Hifkil | 13:00 UTC |
-| BoshyMan741 ::{ flag=US }:: | ::{ flag=GB }:: fudge | 16:00 UTC |
-| Crestive ::{ flag=US }:: | ::{ flag=PL }:: gnahus | 19:00 UTC |
+| lystia ::{ flag=GB }:: | 0 | 0 | ::{ flag=FR }:: Hifkil | 13:00 UTC |
+| BoshyMan741 ::{ flag=US }:: | 0 | 0 | ::{ flag=GB }:: fudge | 16:00 UTC |
+| Crestive ::{ flag=US }:: | 0 | 0 | ::{ flag=PL }:: gnahus | 19:00 UTC |
 
 Sunday, 19th of July 2026:
 
-| Player 1 | Player 2 | Match time |
+| Player 1 |  |  | Player 2 | Match time |
 | --: | :-: | :-: | :-- | :-- |
-| lifeline ::{ flag=ID }:: | ::{ flag=IT }:: kusuriya | 11:00 UTC |
-| Amasetic ::{ flag=FI }:: | ::{ flag=SM }:: argweid | 13:00 UTC |
-| xootynator ::{ flag=CA }:: | ::{ flag=NL }:: Aheo | 18:00 UTC |
-| yaru ::{ flag=DE }:: | ::{ flag=RO }:: origin_ | TBD |
+| lifeline ::{ flag=ID }:: | 0 | 0 | ::{ flag=IT }:: kusuriya | 11:00 UTC |
+| Amasetic ::{ flag=FI }:: | 0 | 0 | ::{ flag=SM }:: argweid | 13:00 UTC |
+| xootynator ::{ flag=CA }:: | 0 | 0 | ::{ flag=NL }:: Aheo | 18:00 UTC |
+| yary ::{ flag=DE }:: | 0 | 0 | ::{ flag=RO }:: origin_ | TBD |
 
 Thursday, 23rd of July 2026:
 
-| Player 1 | Player 2 | Match time |
+| Player 1 |  |  | Player 2 | Match time |
 | --: | :-: | :-: | :-- | :-- |
-| A L E P H ::{ flag=ES }:: | ::{ flag=UA }:: GET LOVED | 10:00 UTC |
+| A L E P H ::{ flag=ES }:: | 0 | 0 | ::{ flag=UA }:: GET LOVED | 10:00 UTC |
 
 ## Ruleset
 
