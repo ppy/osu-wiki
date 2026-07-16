@@ -120,7 +120,7 @@ tags:
 
 —peppy, "osu!coins"[^osu-coins-news]
 
-*注意：根据[协调世界时 (UTC)](https://en.wikipedia.org/wiki/Coordinated_Universal_Time)，该帖子发布于 2015 年 3 月 31 日。然而，在发布时，peppy 居住在澳大利亚，当地时间是 2015 年 4 月 1 日。*
+*注意：根据[协调世界时 (UTC)](https://zh.wikipedia.org/wiki/%E5%8D%8F%E8%B0%83%E4%B8%96%E7%95%8C%E6%97%B6)，该帖子发布于 2015 年 3 月 31 日。然而，在发布时，peppy 居住在澳大利亚，当地时间是 2015 年 4 月 1 日。*
 
 简而言之，为了游玩或重试[谱面](/wiki/Beatmap)，用户必须花费一个 [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)，一旦他们的 osu!coins 用完了，他们要么停止玩并等到第二天，要么支付真实货币来获得更多的 osu!coins。尽管有这样的描述，实际的游戏玩法并未受到影响，用户即使所有 osu!coins 都耗尽了，也可以像往常一样继续玩。[^osu-coins-news][^osu-coins-yt][^osu-coins-yt-2]
 
