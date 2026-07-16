@@ -38,7 +38,7 @@ Bạn có thể tiếp tục chơi trong các giải đấu cộng đồng mà k
 
 Bạn vẫn có thể làm nhân sự trong các giải đấu được hỗ trợ chính thức với vai trò là người phát trực tiếp, bình luận viên hay thiết kế đồ họa tùy theo quyết định của người tổ chức giải đấu. Đối với các vai trò khác, người tổ chức giải đấu mà bạn muốn hỗ trợ PHẢI xin một ngoại lệ trong yêu cầu hỗ trợ ban đầu của họ. Dựa trên lý do và mức độ nghiêm trọng của vi phạm, cùng với lịch sử của bạn. [Đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team) sau cùng mới có thể chấp nhận ngoại lệ này.
 
-Thông tin về trạng thái lệnh cấm thi đấu của bạn có thể được cung cấp cho chủ tổ chức giải đấu khi có yêu cầu, cho dù họ có được hỗ trợ chính thức hay không.
+Thông tin về trạng thái lệnh cấm thi đấu của bạn có thể được cung cấp cho người tổ chức giải đấu khi có yêu cầu, cho dù họ có được hỗ trợ chính thức hay không.
 
 ## Những lý do cấm thi đấu phổ biến và thời lượng cấm {id=reasons}
 
