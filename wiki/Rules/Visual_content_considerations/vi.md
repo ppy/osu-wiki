@@ -12,7 +12,7 @@ Vì lợi ích của việc giữ mọi thứ càng sạch càng tốt, Quy tắ
 
 ## Những điều quan trọng cần cân nhắc
 
-Tất cả các bức ảnh nên được đánh giá như chính chúng, mà không tính đến bất cứ trường hợp nào khác trước đó, quyết định nên dựa trên những điều bạn thấy.
+Tất cả các bức ảnh nên được đánh giá như chính chúng, mà không tính đến bất cứ trường hợp nào khác trước đó, quyết định nên dựa trên những gì bạn thấy.
 
 Xin vui lòng hiểu rằng chúng ta là một cộng đồng toàn cầu, đa văn hóa với những suy nghĩ đa dạng, các quan điểm và giá trị khác nhau về những gì được phép và không được phép.
 
@@ -28,7 +28,7 @@ Các hình ảnh hoặc yếu tố trực quan bao gồm bất cứ điều gì 
 - **Tư thế khiêu gợi hoặc gạ gẫm tình dục** 
 - **Nội dung khiêu dâm hoặc đồ họa hiển thị về tình dục**
 - **Ví dụ về việc sử dụng hoặc chuẩn bị chất cấm, nhận dạng với tiểu văn hóa ma túy trái phép**[^drug-nature]
-- **Mô tả về chính trị, văn hóa, thuộc tôn giáo hoặc nội dung xã hội cố tình gây kích động**
+- **Mô tả về các nội dung chính trị, văn hóa, tôn giáo hoặc xã hội mang tính kích động**
 - **Hình ảnh mô tả hành vi tự sát hoặc tự làm hại bản thân, bao gồm chuẩn bị hoặc hành động sắp diễn ra**
 
 Thêm vào đó, các hình ảnh hoặc yếu tố trực quan có thể được đánh giá một cách phù hợp là có chất lượng kém (dù về chất lượng hình ảnh khách quan hoặc bố cục chủ quan/cách sáng tác), cũng có thể bị ngăn không cho sử dụng trong beatmap trong trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào.
@@ -50,7 +50,7 @@ Xem thêm tại: [Quá trình bỏ phiếu nội dung hình ảnh](/wiki/Rules/C
 
 Các hình ảnh được sử dụng ở bất kỳ đâu trên website ngoại trừ beatmap (ảnh đại diện, ảnh bìa hồ sơ, trang người dùng, v.v.) đều **không** thuộc diện của quy trình bỏ phiếu được giải thích bên dưới và có thể bị xóa bỏ bất cứ lúc nào theo toàn quyền quyết định của [nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team) (GMT).
 
-Nếu bạn không chắc chắn về một hình ảnh được đưa vào beatmap theo bất kỳ cách nào, **vui lòng gửi yêu cầu qua [trang gửi báo cáo cho người đề cử beatmap](https://bn.mappersguild.com/reports)**. Hình ảnh đó sẽ được đưa ra bỏ phiếu và bắt buộc đạt được đa số phiếu đáng kể, còn không sẽ tự động bị từ chối.
+Nếu bạn không chắc chắn về một hình ảnh được đưa vào beatmap theo bất kỳ cách nào, **vui lòng gửi yêu cầu qua [trang gửi báo cáo cho người đề cử beatmap](https://bn.mappersguild.com/reports)**. Hình ảnh đó sẽ được đưa ra để bỏ phiếu và bắt buộc đạt được đa số phiếu đáng kể, còn không sẽ tự động bị từ chối.
 
 **Kết quả của cuộc bỏ phiếu là kết quả cuối cùng**, trừ khi hình ảnh bị thay đổi đáng kể nhằm mục đích giải quyết các yếu tố có thể gây vấn đề được đưa ra trong thảo luận.
 
