@@ -126,7 +126,7 @@ tags:
 
 osu! 的主菜单背景中也有一大堆缓缓升起的 osu!coins，主题曲也略有改变，其中 "circles!" 的惊叹声在节拍下降之前被一个机器人发出 "and buy the coins" 的声音所取代。为这个恶作剧创建了新的纹理、音效、动画和音乐，包括一个计数器，会在玩家游玩过程中显示他们拥有的硬币数量。[^osu-coins-yt-2][^osu-coins-yt-3] <!--需要进一步验证-->
 
-这次更新普遍受到玩家欢迎，并看到了一些对未来实现无货币化版本的实际支持。尽管如此，peppy 在第二天回滚了 osu!coins 的实现，并在[相应的更新日志评论](https://osu.ppy.sh/comments/121803) 中提到了反馈。[^osu-coins-yt-4][^osu-coins-forums][^osu-coins-changelog]
+这次更新受到玩家普遍欢迎，也有人表示支持在不盈利的情况下实现该功能。尽管如此，peppy 仍然在第二天回滚了 osu!coins 的实现，并在[相应的更新日志评论](https://osu.ppy.sh/comments/121803) 中提到了反馈。[^osu-coins-yt-4][^osu-coins-forums][^osu-coins-changelog]
 
 ## 2016 年
 
