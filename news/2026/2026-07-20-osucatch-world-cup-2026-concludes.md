@@ -199,8 +199,8 @@ With so many scores set and so many matches played, there were many players who 
 
 ### Top team win rates
 
-| # | Team | Win rate | W-L | MVPs |
-| :-: | :-- | :-: | :-: | :-- |
+| # | Team | Win rate | W-L | MVPs | MVP rate |
+| :-: | :-- | :-: | :-: | :-- | :-: |
 | #1 | ::{ flag=FR }:: France | 73% | 48-18 | ★ 47 | 71% |
 | #2 | ::{ flag=AR }:: Argentina | 70% | 38-16 | ★ 40 | 74% |
 | #3 | ::{ flag=FI }:: Finland | 67% | 35-17 | ★ 44 | 85% |
