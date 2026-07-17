@@ -75,7 +75,7 @@ Khi mở danh sách `Phiên bản`, bạn sẽ thấy các tùy chọn sau:
 | Tên | Mô tả |
 | :-- | :-- |
 | `Ổn định` | Bản phát hành công khai ổn định. |
-| `Cutting Edge (thử nghiệm)` | Bản phát triển - nhận được các bản cập nhập sớm hơn, nhưng có thể có nhiều lỗi nghiêm trọng. |
+| `Cutting Edge (thử nghiệm)` | Bản phát triển - nhận được các bản cập nhập sớm hơn, nhưng có thể có nhiều lỗi hơn. |
 
 ## Đồ họa
 
