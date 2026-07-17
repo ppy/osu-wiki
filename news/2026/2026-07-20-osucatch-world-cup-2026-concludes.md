@@ -17,7 +17,7 @@ Another thrilling year of watching fruits fall comes to a close. Want to find ou
 
 The Sol de Mayo has risen in the early morning in the sky, which can only mean one thing... **Argentina** is our champion of the osu!catch World Cup 2026! Their second consecutive title, earned with a 7–4 victory over runner-up **Poland**, who achieved their best historical placement in the tournament. Bronze medalists **France** secured their first podium after many close-calls, although close to tasting silver if it hadn't been for **Poland**'s thrilling comeback in a match that ended 7–5.
 
-Other countries also managed to reach new highs, starting with **Greece** and **Lithuania**, who managed to qualify for the catch World Cup for the first time. **Portugal** reached the 17-24th place with their very first victory in a CWC and the **United Kingdom** climbed up to 9-12th place. Belgium did similar, getting a very respectable 7-8th place finish. And last but certainly not least, Japan came close to the podium but secured an enviable 5-6th place.
+Other countries also managed to reach new highs, starting with **Greece** and **Lithuania**, who managed to qualify for the catch World Cup for the first time. **Portugal** reached the 17-24th place with their very first victory in a CWC and the **United Kingdom** climbed up to 9-12th place. **Belgium** did similar, getting a very respectable 7-8th place finish. And last but certainly not least, **Japan** came close to the podium but secured an enviable 5-6th place.
 
 Want to know how the Grand Finals match played out, read on to find out. First things first though, we have the phenomenal sounds of the osu!catch World Cup 2026 to listen to.
 
