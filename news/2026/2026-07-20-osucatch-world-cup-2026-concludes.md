@@ -500,7 +500,7 @@ If we end up not being able to build a team; I would also love to contribute to 
 
 ---
 
-Commendations to all of our 44 participating teams, and once more, congratulations to France, Poland and last and certainly not least, Argentina, for being our bronze, silver, and gold medalists respectively. Every team showed up with a fierce desire to win, resulting in an osu!catch World Cup we will forevermore remember.
+Commendations to all of our 44 participating teams, and once more, congratulations to France, Poland, and Argentina, for being our bronze, silver, and gold medalists respectively. Every team showed up with a fierce desire to win, resulting in an osu!catch World Cup we will forevermore remember.
 
 The 2026 osu!catch World Cup, however, wouldn't be possible without the help of the insanely talented people who worked on all facets of the tournament. Their impeccable work ethic is the reason CWC was made a success, and we cannot thank them enough for their efforts.
 
