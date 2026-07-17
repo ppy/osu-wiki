@@ -2,7 +2,7 @@
 
 Đây là danh sách các quy tắc quy định những điều [người đề cử beatmap](/wiki/People/Beatmap_Nominators) có thể và không thể làm khi đề cử beatmap cũng như đặt ra tiêu chuẩn ứng xử chung được kỳ vọng từ họ. Những quy tắc này là kết quả của cuộc thảo luận trong [đội ngũ đánh giá đề cử beatmap](/wiki/People/Nomination_Assessment_Team) (NAT) và đã cân nhắc phản hồi từ những người đề cử beatmap theo đề xuất của họ. 
 
-Người đề cử beatmap có công cụ để đề cử beatmap và định hình hệ sinh thái osu! qua việc thúc đẩy nội dung mới để đưa vào danh sách chính thức; vì lý do này, họ phải tuân thủ các quy tắc mọi lúc. Việc vi phạm các quy tắc này có thể dẫn đến người đề cử beatmap liên quan rời khỏi đội ngũ đề cử beatmap. Vi phạm các quy tắc có thể được báo cáo trực tiếp đến NAT thông qua [website quản lý BN](https://bn.mappersguild.com/reports)
+Người đề cử beatmap có công cụ để đề cử beatmap và định hình hệ sinh thái osu! qua việc thúc đẩy nội dung mới để đưa vào danh sách chính thức; vì lý do này, họ phải tuân thủ các quy tắc mọi lúc. Việc vi phạm các quy tắc này có thể dẫn đến người đề cử beatmap liên quan bị loại khỏi đội ngũ đề cử beatmap. Vi phạm các quy tắc có thể được báo cáo trực tiếp đến NAT thông qua [website quản lý BN](https://bn.mappersguild.com/reports)
 
 ## Kỳ vọng 
 
@@ -34,11 +34,11 @@ Khi một đợt đánh giá người đề cử beatmap được tạo ra và h
 ## Việc đề cử 
 
 - **Không đề cử beatmap với vấn đề không thể được xếp hạng.** [Tiêu Chí Xếp Hạng chung](/wiki/Ranking_criteria) và Tiêu Chí Xếp Hạng theo các chế độ riêng áp dụng cho tất cả bộ độ khó theo từng chế độ khác nhau.
-- **Không đề cử các beatmap mà bạn có đóng góp trong đó.** Điều này bao gồm bất kỳ đóng góp quan trọng như là việc làm mapping, hitsound, storyboard, skin, hoặc điều chỉnh tốc độ nốt.
+- **Không đề cử các beatmap mà bạn có đóng góp trong đó.** Điều này bao gồm bất kỳ đóng góp quan trọng như là việc mapping, hitsound, storyboard, skin, hoặc điều chỉnh tốc độ nốt.
 - **Không đề cử một beatmap chưa được kiểm tra kỹ lưỡng tất cả độ khó trong chế độ bạn đang đề cử.** Việc kiểm tra không đầy đủ bao gồm chỉ chạy công cụ modding trước khi đề cử hoặc không tải beatmap về.
 - **Không đề cử beatmap nếu bạn không chắc về điều gì đó.** Trong những trường hợp này, hãy hỏi người đề cử khác để giúp đỡ trước khi quyết định một cách vội vàng. Điều này bao gồm không quen thuộc với chế độ trò chơi, nghi ngờ về vùng xám/vấn đề không thể xếp hạng, về chất lượng hoặc thời gian phức tạp.
-- **Không đề cử một beatmap nếu bạn không thể đánh giá hợp lý.** Khả năng đánh giá beatmap một cách hợp lý dựa trên việc chơi thử hoặc kinh nghiệm modding là một phần cốt lõi đối với chất lượng của beatmap. Nếu bạn không có đủ kỹ năng chơi hoặc kinh nghiệm modding, chúng tôi có thể đặt nghi vấn về khả năng đánh giá beatmap của bạn. 
-- **Đảm bảo không có bài đăng mod nào trong [thảo luận beatmap](/wiki/Beatmap_discussion) bị bỏ qua trước khi đề cử một beatmap.** Các bài đăng chưa có phản hồi đầy đủ có thể tính như đã bỏ qua. Khi có nghi ngờ, kiểm tra lại nếu bộ Quy Tắc Ứng Xử Với Mapping Và Modding bị vi phạm trên cuộc thảo luận beatmap và ứng xử phù hợp. 
+- **Không đề cử một beatmap nếu bạn không thể đánh giá hợp lý.** Khả năng đánh giá beatmap một cách hợp lý dựa trên việc chơi thử hoặc kinh nghiệm modding là một phần cốt lõi đối với chất lượng của beatmap. Nếu bạn không có đủ kỹ năng chơi hoặc kinh nghiệm modding, chúng tôi có thể đặt nghi vấn về khả năng đánh giá của bạn. 
+- **Đảm bảo không có bài đăng mod nào trong [thảo luận beatmap](/wiki/Beatmap_discussion) bị bỏ qua trước khi đề cử một beatmap.** Các bài đăng chưa có phản hồi đầy đủ có thể tính như đã bỏ qua. Khi có nghi ngờ, kiểm tra lại nếu bộ Quy Tắc Ứng Xử Với Mapping Và Modding bị vi phạm trên cuộc thảo luận beatmap và hành động phù hợp. 
 
 ### Trạng thái đủ tư cách
 
@@ -46,17 +46,17 @@ Khi một đợt đánh giá người đề cử beatmap được tạo ra và h
 
 ## Đặt lại đề cử 
 
-- **Khi đặt lại đề cử của một beatmap, dòng đầu tiên của bài đăng phải chứa lý do ngắn của việc đặt lại.** Liên kết đơn giản đến bài đăng là chưa đủ, bạn nên thử tóm tắt bài viết liên quan. Trong trường hợp đặt lại trạng thái đủ tư cách, chỉ đơn giản viết lý do theo yêu cầu là chưa đủ, bạn phải liên kết bất kỳ bài đăng về vấn đề liên quan trong thảo luận beatmap trừ khi đang có quá nhiều bài đăng. 
+- **Khi đặt lại đề cử của một beatmap, dòng đầu tiên của bài đăng phải chứa lý do ngắn của việc đặt lại.** Liên kết đơn giản đến bài đăng là chưa đủ, bạn nên thử tóm tắt bài viết liên quan. Trong trường hợp đặt lại đủ tư cách, chỉ đơn giản viết lý do theo yêu cầu là chưa đủ, bạn phải liên kết bất kỳ bài đăng về vấn đề liên quan trong thảo luận beatmap trừ khi đang có quá nhiều bài đăng. 
 - **Nếu một beatmap được đề cử chứa vấn đề không thể xếp hạng, đề cử bắt buộc phải được đặt lại.** Điều này áp dụng ngay cả khi bạn không có ý định đề cử beatmap đó.
 - **Đảm bảo bạn đang xem tại phiên bản cập nhật mới của beatmap trước khi đặt lại đề cử.**
 
 ### Đặt lại đủ tư cách
 
-- **Chỉ các thành viên chính thức mới có quyền đặt lại trạng thái đủ tư cách của beatmap, bất kể lý do gì.** Tuy nhiên, các thành viên thử việc vẫn có thể tham gia thảo luận và báo cáo beatmap như mọi người khác.
-- **Việc đặt lại trạng thái đủ tư cách nên được ưu tiên làm trước với vấn đề không thể xếp hạng trong beatmap, hoặc nếu chủ sở hữu yêu cầu.**
-- **Yêu cầu đặt lại trạng thái đủ tư cách từ chủ beatmap có thể được áp dụng ngay lập tức.** Điều này bao gồm chính bản thân bạn, trong trường hợp bạn muốn tự đặt lại trạng thái đủ tư cách.
+- **Chỉ các thành viên chính thức mới có quyền đặt lại đủ tư cách của beatmap, bất kể lý do gì.** Tuy nhiên, các thành viên thử việc vẫn có thể tham gia thảo luận và báo cáo beatmap như mọi người khác.
+- **Việc đặt lại đủ tư cách nên được ưu tiên làm trước với vấn đề không thể xếp hạng trong beatmap, hoặc nếu chủ sở hữu yêu cầu.**
+- **Yêu cầu đặt lại đủ tư cách từ chủ beatmap có thể được áp dụng ngay lập tức.** Điều này bao gồm chính bản thân bạn, trong trường hợp bạn muốn tự đặt lại đủ tư cách cho mình.
 - **Các vấn đề được khắc phục qua offset trực tuyến, thẻ hoặc tương tự vẫn phải bị đặt lại.** Trong trường hợp điều này không thể thực hiện được, hãy liên hệ với một thành viên NAT, offset trực tuyến và thẻ chỉ áp dụng được trên website, vì vậy người chơi vẫn sẽ có vấn đề trong trò chơi ngoại trừ sửa trước khi được xếp hạng. 
-- **Các beatmap đủ điều kiện có vấn đề không được xếp hạng hoặc vấn đề nghiêm trọng bắt buộc phải đặt lại trạng thái đủ tư cách ngay lập tức.**
+- **Các beatmap đủ điều kiện có vấn đề không được xếp hạng hoặc vấn đề nghiêm trọng bắt buộc phải đặt lại đủ tư cách ngay lập tức.**
 - **Không được đặt lại beatmap đủ tư cách với chế độ trò chơi mà bạn không đủ điều kiện tiêu chuẩn chính thức.** Điều này không áp dụng cho trường hợp bị đặt lại do liên quan đến audio, hình nền, hoặc nội dung khác mà không liên quan trực tuyến đến chế độ trò chơi của beatmap.
 
 ### Lệnh phủ quyết
@@ -64,9 +64,9 @@ Khi một đợt đánh giá người đề cử beatmap được tạo ra và h
 Vui lòng xem trang [phủ quyết beatmap](/wiki/People/Beatmap_Nominators/Beatmap_Veto) để đầy đủ thông tin về quá trình phủ quyết.
 
 - **Không phủ quyết beatmap với chế độ bạn chưa đủ điều kiện chính thức.** Bạn không được phép đề cử chúng, vì việc chặn đề cử mà không có quyền đề cử beatmap sẽ không hợp lý, điều này không áp dụng đến các phủ quyết về âm thanh, hình nền, hoặc nội dung khác không liên quan trực tiếp đến chế độ trò chơi của beatmap.
-- **Bạn có thể phủ quyết một beatmap bằng việc đăng vấn đề bạn nghĩ cần giải quyết trước khi đạt trạng thái được xếp hạng trong diễn đàn với mẫu vấn đề hoặc yêu cầu tương ứng trong thảo luận modding.** Điều này sẽ tạm thời khiến beatmap không tiến tới trạng thái được xếp hạng. Một beatmap đã đủ tư cách có thể bị phủ quyết bằng cách sử dụng một yêu cầu vấn đề tương ứng để giữ beatmap ở trạng thái đủ tư cách trong lúc thảo luận. Người đề cử khác sẽ không thể đề cử sau khi lệnh phủ quyết được dỡ bỏ. Bài đăng phủ quyết phải bao gồm một vấn đề rõ ràng và lý do ngăn quá trình xếp hạng của beatmap. Bạn cũng phải tham gia vào cuộc thảo luận diễn ra và cố gắng đi đến sự đồng thuận. 
-- **Đừng phủ quyết các beatmap không thể được xếp hạng.** Không thể được xếp hạng nghĩa là không có người đề cử nên đề cử beatmap đó, và mapper không còn lựa chọn nào khác ngoài việc phải sửa chúng, tương tự như cách một phủ quyết được duy trì hoạt động.
-- **Đừng đề cử các beatmap đã bị phủ quyết.** Một beatmap phải được hủy lệnh phủ quyết trước khi được đề cử lại. Việc này có thể xảy ra nếu đề cử viên đã phủ quyết trước đó đã bỏ lệnh phủ quyết sau một cuộc thảo luận thỏa đáng hoặc thay đổi cần thiết với beatmap, hoặc nếu mapper hoặc người đề cử đã phủ quyết yêu cầu trung gian và ban giám khảo[^new-jury] quyết định rằng lệnh phủ quyết là không cần thiết hoặc không hợp lệ.
+- **Bạn có thể phủ quyết một beatmap qua việc đăng vấn đề bạn nghĩ cần giải quyết trước khi được xếp hạng trong diễn đàn với mẫu vấn đề hoặc yêu cầu tương ứng trong thảo luận modding.** Điều này sẽ tạm thời khiến beatmap không tiến tới trạng thái được xếp hạng. Một beatmap đã đủ tư cách có thể bị phủ quyết bằng cách sử dụng một yêu cầu vấn đề tương ứng để giữ beatmap đủ tư cách trong lúc thảo luận. Người đề cử khác sẽ không thể đề cử lại cho đến khi lệnh phủ quyết được dỡ bỏ. Bài đăng phủ quyết phải bao gồm một vấn đề rõ ràng và lý do ngăn quá trình xếp hạng của beatmap. Bạn cũng phải tham gia vào cuộc thảo luận diễn ra và cố gắng đi đến sự đồng thuận. 
+- **Đừng phủ quyết các beatmap không thể được xếp hạng.** Không thể được xếp hạng đồng nghĩa với việc không người đề cử nào khác nên đề cử beatmap đó, và mapper không còn lựa chọn nào khác ngoài việc phải sửa chúng, tương tự như một phủ quyết được duy trì hoạt động.
+- **Đừng đề cử các beatmap đã bị phủ quyết.** Một beatmap phải được hủy lệnh phủ quyết trước khi được đề cử lại. Việc này có thể xảy ra nếu người đề cử đã phủ quyết trước đó đã bỏ lệnh phủ quyết sau một cuộc thảo luận thỏa đáng hoặc thay đổi cần thiết với beatmap, hoặc nếu mapper hoặc người đề cử đã phủ quyết yêu cầu trung gian và ban giám khảo[^new-jury] quyết định rằng lệnh phủ quyết là không cần thiết hoặc không hợp lệ.
 
 ## Ghi chú
 
