@@ -54,7 +54,7 @@ Nếu bạn không chắc chắn về một hình ảnh được đưa vào beat
 
 **Kết quả của cuộc bỏ phiếu là kết quả cuối cùng**, trừ khi hình ảnh bị thay đổi đáng kể nhằm mục đích giải quyết các yếu tố có thể gây vấn đề được đưa ra trong thảo luận.
 
-Vào bất kỳ thời điểm nào, [đội ngũ thành viên osu!](/wiki/People/osu!_team) có quyền đơn phương quyết định bất kỳ nội dung nào là hợp lệ hoặc không hợp lệ theo kết luận của họ, bất kể những cuộc bỏ phiếu trước đó về vấn đề này.
+Vào bất kỳ thời điểm nào, [đội ngũ thành viên osu!](/wiki/People/osu!_team) có quyền đơn phương quyết định bất kỳ nội dung nào là hợp lệ hoặc không hợp lệ theo nhận định của họ, bất kể những cuộc bỏ phiếu trước đó về vấn đề này.
 
 ## Điều gì xảy ra nếu hình ảnh của tôi không ổn?
 
