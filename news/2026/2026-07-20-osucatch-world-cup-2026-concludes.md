@@ -9,15 +9,13 @@ One last weekend with platter-filling gameplay and the osu!catch World Cup has o
 
 ![](/wiki/shared/news/2026-07-20-osucatch-world-cup-2026-concludes/banner.jpg)
 
-After 5 rounds of the strongest osu!taiko players from around the world battling it out on harder and harder maps, only three teams could make it to the Grand Finals: mainstays Japan and South Korea, alongside a dangerous newcomer, Chile. These three teams met on the last weekend of April to give us 2 of the best matches in TWC history.
-
-Read on to find out how it all played out! As we wrap up the tournament, there's a variety of other content here too, from a showcase of new osu! originals to a pair of composer and player interviews.
+Another thrilling year of watching fruits fall comes to a close. Want to find out how the tournament played out, which new songs we have added to our featured artist catalogue, what matches to (re)watch, or how those involved viewed the tournament? Read on to find out!
 
 ## Summary
 
 ![](/wiki/Tournaments/CWC/2026/img/cwc2026-podium.jpg)
 
-The Sol de Mayo has risen this morning in the sky, which only means one thing... **Argentina** is our champion of the osu!catch World Cup 2026! Their second consecutive title, earned with a 7–4 victory over runner-up **Poland**, who achieved their best historical placement in the tournament. Bronze medalists **France** secured their first podium after many close-calls, although close to tasting silver if it hadn't been for **Poland**'s thrilling comeback in a match that ended 7–5.
+The Sol de Mayo has risen in the early morning in the sky, which can only mean one thing... **Argentina** is our champion of the osu!catch World Cup 2026! Their second consecutive title, earned with a 7–4 victory over runner-up **Poland**, who achieved their best historical placement in the tournament. Bronze medalists **France** secured their first podium after many close-calls, although close to tasting silver if it hadn't been for **Poland**'s thrilling comeback in a match that ended 7–5.
 
 Other countries also managed to reach new highs, starting with **Greece** and **Lithuania**, who managed to qualify for the catch World Cup for the first time. **Portugal** reached the 17-24th place with their very first victory in a CWC and the **United Kingdom** climbed up to 9-12th place. Belgium did similar, getting a very respectable 7-8th place finish. And last but certainly not least, Japan came close to the podium but secured an enviable 5-6th place.
 
@@ -266,7 +264,7 @@ More in-depth statistics for every round can be found in the [stats folder](http
     }
 </style>
 
-![Designers](/wiki/shared/news/) \\Needs banner
+![Designers](/wiki/shared/news/2026-07-20-osucatch-world-cup-2026-concludes/Design-interview.png)
 
 Many noticed the semifinals tiebreaker song is themed around the radioactive element radium, combining scientific concepts with animated abstract and glitch-style visuals. It also marks the second animated graphic design collaboration within the World Cup Design Team, following [Vacant Rhapsody](https://www.youtube.com/watch?v=G9JdmWW5BsQ) by [penoreri](https://osu.ppy.sh/beatmaps/artists/526), which debuted in this year's [MWC 7K](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2026_7K) and later appeared in this year's [CWC Qualifiers](https://osu.ppy.sh/beatmapsets/2558834#fruits/5685705). We're now sitting down with designers from graphic design, storyboard, and visual effects to talk about how they brought these ideas together into a cohesive visual experience.
 
@@ -372,7 +370,7 @@ The variety within projects like these is a large part of what makes them so app
 
 </div>
 
-![Boltico](/wiki/shared/news/) \\Needs banner
+![Boltico](/wiki/shared/news/2026-07-20-osucatch-world-cup-2026-concludes/Boltico-interview.png)
 
 Boltico, Peru's #1 osu!catch player and an osu!catch expert for over 10 years, made their catch World Cup staff debut this year. Throughout the tournament, he stood out as one of the  most active  staff members, contributing extensively behind the scenes.
 
@@ -428,7 +426,7 @@ I don't really have a favorite music genre, especially since some songs can't be
 
 </div>
 
-![Natsuko](/wiki/shared/news/) \\Needs banner
+![Natsuko](/wiki/shared/news/2026-07-20-osucatch-world-cup-2026-concludes/Natsuko-interview.png)
 
 Natsuko, France's #1 osu!catch player, and also Beatmap Nominator, managed to secure France's first podium finish with a strong 3rd place finish alongside their teammates, thereby proving why France was considered one of the tournaments' most fearsome teams.
 
@@ -502,14 +500,12 @@ If we end up not being able to build a team; I would also love to contribute to 
 
 ---
 
-\\Add Congrats and remove TWC below
+Commendations to all of our 44 participating teams, and once more, congratulations to France, Poland and last and certainly not least, Argentina, for being our bronze, silver, and gold medalists respectively. Every team showed up with a fierce desire to win, resulting in an osu!catch World Cup we will forevermore remember.
 
-Congratulations again to our podium teams for a successful campaign, and congratulations in fact to all 43 participating teams! Every placement was hotly contested this year, and many thanks are in order for the many people who brought TWC together this year.
+The 2026 osu!catch World Cup, however, wouldn't be possible without the help of the insanely talented people who worked on all facets of the tournament. Their impeccable work ethic is the reason CWC was made a success, and we cannot thank them enough for their efforts.
 
 ![](/wiki/shared/news/2026-07-20-osucatch-world-cup-2026-concludes/cwc2026-credits.png)
 
-\\Add outro and redirect to MWC
-
-As always, thank you, too, for following this year's edition! As the osu!taiko World Cup 2026 draws to a close, more is always on the way in the World Cup circuit, like the third iteration of the Lazer Grand Arena that is currently being held. Check out the [information page](/wiki/tournaments/lga/2026) for more details if you're interested and can't wait for more World Cup action!
+And to conclude, thank *you*, the viewer, for watching this year's iteration of the osu!catch World Cup. Fortunately, we can all look *four*ward to the upcoming osu!mania 4K World Cup 2026 starting in just a few weeks. If that sounds even remotely interesting to you, make sure to check out the [information page](/wiki/Tournaments/MWC/2026_4K) for more details and add the dates there to your calender so you don't miss any of the action!
 
 —Albionthegreat, Alepe, Rocma, Daletto, Nelly & wwwww
