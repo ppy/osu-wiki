@@ -7,7 +7,7 @@ series: world_cups
 
 One last weekend with platter-filling gameplay and the osu!catch World Cup has officially concluded!
 
-![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/banner.jpg)
+![](/wiki/shared/news/2026-07-20-osucatch-world-cup-2026-concludes/banner.jpg)
 
 After 5 rounds of the strongest osu!taiko players from around the world battling it out on harder and harder maps, only three teams could make it to the Grand Finals: mainstays Japan and South Korea, alongside a dangerous newcomer, Chile. These three teams met on the last weekend of April to give us 2 of the best matches in TWC history.
 
@@ -300,7 +300,7 @@ As a storyboarder, you are essentially the last layer in the production process 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/18709857">Merong_</a></p>
 
-Hello! I'm Merong_, and this was my first time working on a project with the World Cup Design Team. For this project, I worked on the VFX side of the video. My role mainly involved creating glitch effects, transitions, scanlines, and other visual effects to help convey the radioactive and unstable atmosphere of Radium. In addition to the VFX work, I also modeled a reactor-core-inspired 3D object that appeared in the video. 
+Hello! I'm Merong_, and this was my first time working on a project with the World Cup Design Team. For this project, I worked on the VFX side of the video. My role mainly involved creating glitch effects, transitions, scanlines, and other visual effects to help convey the radioactive and unstable atmosphere of Radium. In addition to the VFX work, I also modeled a reactor-core-inspired 3D object that appeared in the video.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
@@ -374,7 +374,7 @@ The variety within projects like these is a large part of what makes them so app
 
 ![Boltico](/wiki/shared/news/) \\Needs banner
 
-\\Needs intro
+Boltico, Peru's #1 osu!catch player and an osu!catch expert for over 10 years, made their catch World Cup staff debut this year. Throughout the tournament, he stood out as one of the  most active  staff members, contributing extensively behind the scenes.
 
 <div class="news-chat-quote__text-container">
 
@@ -388,7 +388,7 @@ Could you explain what tasks you took care of throughout the world cups duration
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/5297904">Boltico</a></p>
 
-I was responsible for evaluating the difficulty of the maps from the qualifiers all the way to the grand finals, at least to the best of my ability. I also helped coordinate replays to keep everything organized and make it easier for players to choose which maps they wanted to record. I really enjoyed testing everyone's maps, discussing their difficulty with the mappers, and later seeing those maps featured on the tournament stream with one of my own replays
+I was responsible for evaluating the difficulty of the maps from the Qualifiers all the way to the Grand Finals, at least to the best of my ability. I also helped coordinate replays to keep everything organized and make it easier for players to choose which maps they wanted to record. I really enjoyed testing everyone's maps, discussing their difficulty with the mappers, and later seeing those maps featured on the tournament stream with one of my own replays.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/566276" style="background-image: url('/wiki/shared/avatars/Rocma.jpg')"></a>
 
@@ -400,7 +400,7 @@ It's nice that you got to see your own replays featured on stream. Considering y
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/5297904">Boltico</a></p>
 
-The replay I remember the most was grand finals HR2. I never expected to achieve a 1 miss replay on such a difficult map, especially with the high circle size and the precision required by its patterns. It ended up being one of the replays I'm most proud of
+The replay I remember the most was Grand Finals [HR2](https://osu.ppy.sh/beatmapsets/2581074#fruits/5752998). I never expected to achieve a 1 miss replay on such a difficult map, especially with the high circle size and the precision required by its patterns. It ended up being one of the replays I'm most proud of.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/566276" style="background-image: url('/wiki/shared/avatars/Rocma.jpg')"></a>
 
@@ -412,7 +412,7 @@ Interesting! On a related note, were there any maps or songs that were especiall
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/5297904">Boltico</a></p>
 
-One of the most interesting experiences for me was watching the development of the semifinals tiebreaker. I was able to see the entire process, from the initial version to the nerfs and buffs that Mr. Binking made to ensure it would be a proper step up in difficulty from the previous round. I also tried to record the replay for it, but unfortunately I couldn't full combo the map because I struggled with the final section, is a really hard part. Even so, it ended up being one of my favorite maps to play throughout the tournament
+One of the most interesting experiences for me was watching the development of the Semifinals tiebreaker. I was able to see the entire process, from the initial version to the nerfs and buffs that [Mrbinking](https://osu.ppy.sh/users/6492475) made to ensure it would be a proper step up in difficulty from the previous round. I also tried to record the replay for it, but unfortunately I couldn't full combo the map because I struggled with the final section, is a really hard part. Even so, it ended up being one of my favorite maps to play throughout the tournament.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/566276" style="background-image: url('/wiki/shared/avatars/Rocma.jpg')"></a>
 
@@ -424,13 +424,13 @@ It definitely sounds like that map was a memorable one. Before we finish, is the
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/5297904">Boltico</a></p>
 
-I don't really have a favorite music genre, especially since some songs can't be used due to licensing restrictions. That said, I absolutely loved the music used in grand finals HD1 and Finals MM1. I'd love to see more maps featuring that style of music in future tournaments
+I don't really have a favorite music genre, especially since some songs can't be used due to licensing restrictions. That said, I absolutely loved the music used in Grand Finals [HD1](https://osu.ppy.sh/beatmapsets/2581063#fruits/5752984) and Finals [MX1](https://osu.ppy.sh/beatmapsets/2577241#fruits/5741418). I'd love to see more maps featuring that style of music in future tournaments.
 
 </div>
 
 ![Natsuko](/wiki/shared/news/) \\Needs banner
 
-\\Needs intro
+Natsuko, France's #1 osu!catch player, and also Beatmap Nominator, managed to secure France's first podium finish with a strong 3rd place finish alongside their teammates, thereby proving why France was considered one of the tournaments' most fearsome teams.
 
 <div class="news-chat-quote__text-container">
 
@@ -438,7 +438,7 @@ I don't really have a favorite music genre, especially since some songs can't be
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/7592136">Daletto</a></p>
 
-Congratulations on this historic podium finish for your team in the Catch World Cup! This is the first time France has finished in the top 3. How does it feel to have achieved this milestone, and do you think France could replicate this result next year, or perhaps even take home the trophy and win?
+Congratulations on this historic podium finish for your team in the osu!catch World Cup! This is the first time France has finished in the top 3. How does it feel to have achieved this milestone, and do you think France could replicate this result next year, or perhaps even take home the trophy and win?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8266817" style="background-image: url('/wiki/shared/avatars/Natsuko.jpg')"></a>
 
@@ -460,7 +460,7 @@ We'd love to hear your thoughts on this year's originals. Which one did you enjo
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bn" href="https://osu.ppy.sh/users/8266817">Natsuko</a></p>
 
-NM2 from the quarterfinals was absolutely amazing. I enjoyed it just as much as MM1 in the finals. Both maps were fantastic, and I'd love to see more catch maps with songs like these as they're incredibly fun to play and listen.
+[NM2](https://osu.ppy.sh/beatmapsets/2569980#fruits/5719035) from the Quarterfinals was absolutely amazing. I enjoyed it just as much as [MX1](https://osu.ppy.sh/beatmapsets/2577241#fruits/5741418) in the Finals. Both maps were fantastic, and I'd love to see more catch maps with songs like these as they're incredibly fun to play and listen.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7592136" style="background-image: url('/wiki/shared/avatars/Daletto.jpg')"></a>
 
@@ -473,6 +473,7 @@ Having played a lot of matches against strong opponents this year, which one do 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-bn" href="https://osu.ppy.sh/users/8266817">Natsuko</a></p>
 
 I think Japan was definitely the most terrifying team for us. When you're in an early stage where the difficulty isn't as high, you really have to be careful with teams like them and never underestimate them, because they are absolute monsters when it comes to consistency.
+
 Against a team like Japan, every single mistake can cost you the point, and in a close match, that can make a huge difference. Staying focused and having few misses is extremely important when facing opponents like this.
 
 You have to be careful not to get overconfident, but also not to let the pressure get to you. I would recommend drinking some water, relaxing before the match, and avoiding playing the same maps over and over again right before it starts.
@@ -495,7 +496,7 @@ On a personal level, considering the circumstances from last year where I disapp
 
 Of course, I would love to participate again next year. If we have a similar team and the same motivation, I truly believe we can aim for another strong result and keep making France proud.
 
-If we end up not being able building a team; I would also love to contribute to CWC scene as a testplayer/mapper similar to 2023. 
+If we end up not being able to build a team; I would also love to contribute to CWC as a testplayer/mapper similar to 2023.
 
 </div>
 
@@ -505,10 +506,10 @@ If we end up not being able building a team; I would also love to contribute to 
 
 Congratulations again to our podium teams for a successful campaign, and congratulations in fact to all 43 participating teams! Every placement was hotly contested this year, and many thanks are in order for the many people who brought TWC together this year.
 
-![](/wiki/shared/news/2026-07-20-osucatch-world-cup-2026-concludes/cwc2026-credits.png) \\Needs new Credits image
+![](/wiki/shared/news/2026-07-20-osucatch-world-cup-2026-concludes/cwc2026-credits.png)
 
 \\Add outro and redirect to MWC
 
 As always, thank you, too, for following this year's edition! As the osu!taiko World Cup 2026 draws to a close, more is always on the way in the World Cup circuit, like the third iteration of the Lazer Grand Arena that is currently being held. Check out the [information page](/wiki/tournaments/lga/2026) for more details if you're interested and can't wait for more World Cup action!
 
-—\\Credit people
+—Albionthegreat, Alepe, Rocma, Daletto, Nelly & wwwww
