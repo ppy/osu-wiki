@@ -12,7 +12,7 @@ Vì lợi ích của việc giữ mọi thứ càng sạch càng tốt, Quy tắ
 
 ## Những điều quan trọng cần cân nhắc
 
-Tất cả các bức ảnh nên được đánh giá như chính chúng, mà không tính đến bất cứ trường hợp nào khác trước đó, quyết định nên dựa trên những gì bạn thấy.
+Tất cả các bức ảnh nên được đánh giá như chính chúng, mà không tính đến bất cứ trường hợp nào khác trước đó, quyết định dựa trên những gì bạn thấy.
 
 Xin vui lòng hiểu rằng chúng ta là một cộng đồng toàn cầu, đa văn hóa với những suy nghĩ đa dạng, các quan điểm và giá trị khác nhau về những gì được phép và không được phép.
 
@@ -54,7 +54,7 @@ Nếu bạn không chắc chắn về một hình ảnh được đưa vào beat
 
 **Kết quả của cuộc bỏ phiếu là kết quả cuối cùng**, trừ khi hình ảnh bị thay đổi đáng kể nhằm mục đích giải quyết các yếu tố có thể gây vấn đề được đưa ra trong thảo luận.
 
-Vào bất kỳ thời điểm nào, [đội ngũ thành viên osu!](/wiki/People/osu!_team) có quyền đơn phương quyết định bất kỳ nội dung nào là hợp lệ hoặc không hợp lệ, bất kể những cuộc bỏ phiếu trước đó về vấn đề này.
+Vào bất kỳ thời điểm nào, [đội ngũ thành viên osu!](/wiki/People/osu!_team) có quyền đơn phương quyết định bất kỳ nội dung nào là hợp lệ hoặc không hợp lệ theo kết luận của họ, bất kể những cuộc bỏ phiếu trước đó về vấn đề này.
 
 ## Điều gì xảy ra nếu hình ảnh của tôi không ổn?
 
