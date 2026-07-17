@@ -195,7 +195,7 @@ With so many scores set and so many matches played, there were many players who 
 | #7 | ::{ flag=HK }:: autofanboy | ★ 16 | 23 / 29 (79%) | 70% |
 | #8 | ::{ flag=TW }:: eauikk | ★ 14 | 25 / 29 (86%) | 56% |
 | #9 | ::{ flag=PL }:: trig0n | ★ 14 | 48 / 63 (76%) | 29% |
-| #10 | ::{ flag=AR }:: Story ★ 14 | 54 / 54 (100%) | 26% |
+| #10 | ::{ flag=AR }:: Story | ★ 14 | 54 / 54 (100%) | 26% |
 
 ### Top team win rates
 
@@ -259,7 +259,7 @@ More in-depth statistics for every round can be found in the [stats folder](http
         color: #FA3703;
     }
 
-    .news-chat-quote__colour-nat {
+    .news-chat-quote__colour-bn {
         color: #A347EB
     }
 </style>
