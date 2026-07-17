@@ -210,7 +210,7 @@ With so many scores set and so many matches played, there were many players who 
 | #7 | ::{ flag=DE }:: Germany | 55% | 18-15 | ★ 19 | 58% |
 | #8 | ::{ flag=JP }:: Japan | 54% | 21-18 | ★ 17 | 44% |
 | #9 | ::{ flag=CL }:: Chile | 53% | 20-18 | ★ 19 | 50% |
-| #10 | ::{ flag=HK }:: Hong Kong | 52% 15-14 | ★ 23 | 79% |
+| #10 | ::{ flag=HK }:: Hong Kong | 52% | 15-14 | ★ 23 | 79% |
 
 ### Top performance point scores
 
