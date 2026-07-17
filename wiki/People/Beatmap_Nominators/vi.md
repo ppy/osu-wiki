@@ -48,7 +48,7 @@ Người đề cử sẽ nhận được những lợi ích như sau:
  ![Huy hiệu 1 năm](https://assets.ppy.sh/profile-badges/BN1y.png "Huy hiệu 1 năm") ![Huy hiệu 2 năm](https://assets.ppy.sh/profile-badges/BN2y.png "Huy hiệu 2 năm") ![Huy hiệu 3 năm](https://assets.ppy.sh/profile-badges/BN3y.png "Huy hiệu 3 năm") ![Huy hiệu 4 năm](https://assets.ppy.sh/profile-badges/BN4y.png "Huy hiệu 4 năm") ![Huy hiệu 5 năm](https://assets.ppy.sh/profile-badges/BN5y.png "Huy hiệu 5 năm") ![Huy hiệu 6 năm](https://assets.ppy.sh/profile-badges/BN6y.png "Huy hiệu 6 năm") ![Huy hiệu 7 năm](https://assets.ppy.sh/profile-badges/BN7y.png "Huy hiệu 7 năm") ![Huy hiệu 8 năm](https://assets.ppy.sh/profile-badges/BN8y.png "Huy hiệu 8 năm") ![Huy hiệu 9 năm](https://assets.ppy.sh/profile-badges/BN9y.png "Huy hiệu 9 năm") ![Huy hiệu 10 năm](https://assets.ppy.sh/profile-badges/BN10y.png "Huy hiệu 10 năm") ![Huy hiệu 11 năm](https://assets.ppy.sh/profile-badges/BN11y.png "Huy hiệu 11 năm") ![Huy hiệu 12 năm](https://assets.ppy.sh/profile-badges/BN12y.png "Huy hiệu 12 năm") ![Huy hiệu 13 năm](https://assets.ppy.sh/profile-badges/BN13y.png "Huy hiệu 13 năm") ![Huy hiệu 14 năm](https://assets.ppy.sh/profile-badges/BN14y.png "Huy hiệu 14 năm")
 - **Huy hiệu [đề cử](/wiki/Beatmap_ranking_procedure#nominations)**: Một huy hiệu hồ sơ được trao sau khi đạt được số lần đề cử nhất định.
   ![100 đề cử](https://assets.ppy.sh/profile-badges/100_noms.png "100 đề cử") ![200 đề cử](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 đề cử") ![400 đề cử](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 đề cử") ![600 đề cử](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 đề cử") ![800 đề cử](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 đề cử") ![1000 đề cử](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 đề cử") ![1500 đề cử](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 đề cử") ![2000 đề cử](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 đề cử")
-- **Đủ điều kiện trở thành [Người đề cử ưu tú](/wiki/People/Elite_Nominators)**: những Người đề cử làm tốt vai trò của mình sẽ có đủ điều kiện để được trao danh hiệu Người đề cử ưu tú kéo dài 1 năm.
+- **Đủ điều kiện trở thành [Người đề cử ưu tú](/wiki/People/Elite_Nominators)**: Những Người đề cử làm tốt vai trò của mình sẽ có đủ điều kiện để được trao danh hiệu Người đề cử ưu tú kéo dài 1 năm.
 
 ## Danh sách thành viên
 
@@ -86,7 +86,7 @@ Bảng dưới đây liệt kê từng chế độ trò chơi và Đề cử vi�
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Tiếng Trung Quốc |
 | ::{ flag=BY }:: [Flins](https://osu.ppy.sh/users/11119539) | Tiếng Nga |
-| ::{ flag=ES }:: [flouah](https://osu.ppy.sh/users/8030129) | Spanish |
+| ::{ flag=ES }:: [flouah](https://osu.ppy.sh/users/8030129) | Tiếng Tây Ban Nha |
 | ::{ flag=IT }:: [gansijiye](https://osu.ppy.sh/users/9704802) | Tiếng Ý |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Tiếng Trung Quốc, Tiếng Nhật |
 | ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) | Tiếng Tây Ban Nha |
@@ -94,65 +94,65 @@ Bảng dưới đây liệt kê từng chế độ trò chơi và Đề cử vi�
 | ::{ flag=GB }:: [h6zy](https://osu.ppy.sh/users/20793704) |  |
 | ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076) |  |
 | ::{ flag=PH }:: [Hinae](https://osu.ppy.sh/users/11864462) | Tiếng Philippines |
-| ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) | Telugu |
-| ::{ flag=BR }:: [HowRengar](https://osu.ppy.sh/users/6064571) | Portuguese |
-| ::{ flag=JP }:: [Jennifer](https://osu.ppy.sh/users/6761853) | Chinese |
+| ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) | Tiếng Telugu |
+| ::{ flag=BR }:: [HowRengar](https://osu.ppy.sh/users/6064571) | Tiếng Bồ Đào Nha |
+| ::{ flag=JP }:: [Jennifer](https://osu.ppy.sh/users/6761853) | Tiếng Trung Quốc|
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) |  |
 | ::{ flag=CA }:: [joshywa](https://osu.ppy.sh/users/19656568) |  |
 | ::{ flag=BR }:: [Kalindraz](https://osu.ppy.sh/users/2313166) |  |
-| ::{ flag=TR }:: [Kanui](https://osu.ppy.sh/users/14940019) | Turkish |
-| ::{ flag=HK }:: [KennethBBG](https://osu.ppy.sh/users/13032817) | Cantonese, Chinese |
+| ::{ flag=TR }:: [Kanui](https://osu.ppy.sh/users/14940019) | Tiếng Thổ Nhĩ Kỳ |
+| ::{ flag=HK }:: [KennethBBG](https://osu.ppy.sh/users/13032817) | Tiếng Quảng Đông, Tiếng Trung Quốc |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) |  |
-| ::{ flag=RU }:: [killian](https://osu.ppy.sh/users/12693713) | Russian |
+| ::{ flag=RU }:: [killian](https://osu.ppy.sh/users/12693713) | Tiếng Nga |
 | ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340) |  |
 | ::{ flag=LT }:: [Koi Kou Enishi](https://osu.ppy.sh/users/6387433) |  |
-| ::{ flag=CN }:: [Koiyuki](https://osu.ppy.sh/users/2433507) | Chinese |
-| ::{ flag=FR }:: [Kyuukai](https://osu.ppy.sh/users/5337374) | French |
-| ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Korean, Japanese, Chinese |
+| ::{ flag=CN }:: [Koiyuki](https://osu.ppy.sh/users/2433507) | Tiếng Trung Quốc |
+| ::{ flag=FR }:: [Kyuukai](https://osu.ppy.sh/users/5337374) | Tiếng Pháp |
+| ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Tiếng Hàn, Tiếng Nhật, Tiếng Trung Quốc |
 | ::{ flag=KR }:: [Lliria](https://osu.ppy.sh/users/1997633) |  |
-| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Korean |
-| ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | Afrikaans |
+| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Tiếng Hàn |
+| ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | Tiếng Afrikaans |
 | ::{ flag=US }:: [maxie](https://osu.ppy.sh/users/6447505) |  |
-| ::{ flag=SG }:: [Mocaotic](https://osu.ppy.sh/users/9487458) | Indonesian, Chinese |
-| ::{ flag=DE }:: [Nagi Seishiro](https://osu.ppy.sh/users/6300910) | German |
+| ::{ flag=SG }:: [Mocaotic](https://osu.ppy.sh/users/9487458) | Tiếng Indonesia, Tiếng Trung Quốc |
+| ::{ flag=DE }:: [Nagi Seishiro](https://osu.ppy.sh/users/6300910) | Tiếng Đức |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) |  |
-| ::{ flag=BR }:: [Neto](https://osu.ppy.sh/users/5099768) | Portuguese |
+| ::{ flag=BR }:: [Neto](https://osu.ppy.sh/users/5099768) | Tiếng Bồ Đào Nha |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
-| ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419) | Filipino, Japanese |
+| ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419) | Tiếng Filipino, Tiếng Nhật |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | French |
-| ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) | Finnish, Japanese |
+| ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) | Finnish, Tiếng Nhật |
 | ::{ flag=US }:: [pancakespk](https://osu.ppy.sh/users/26131645) |  |
 | ::{ flag=US }:: [Passionate](https://osu.ppy.sh/users/10194509) |  |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
-| ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | Chinese |
-| ::{ flag=CN }:: [pw384](https://osu.ppy.sh/users/1343783) | Chinese, German |
-| ::{ flag=JP }:: [Reioli](https://osu.ppy.sh/users/8200707) | Japanese |
-| ::{ flag=BR }:: [Renamon](https://osu.ppy.sh/users/5980661) | Portuguese |
-| ::{ flag=PR }:: [Renumi](https://osu.ppy.sh/users/1721120) | Spanish |
+| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Tiếng Trung Quốc, Cantonese |
+| ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | Tiếng Trung Quốc |
+| ::{ flag=CN }:: [pw384](https://osu.ppy.sh/users/1343783) | Tiếng Trung Quốc, Tiếng Đức |
+| ::{ flag=JP }:: [Reioli](https://osu.ppy.sh/users/8200707) | Tiếng Nhật |
+| ::{ flag=BR }:: [Renamon](https://osu.ppy.sh/users/5980661) | Tiếng Bồ Đào Nha |
+| ::{ flag=PR }:: [Renumi](https://osu.ppy.sh/users/1721120) | Tiếng Tây Ban Nha |
 | ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181) |  |
-| ::{ flag=EE }:: [riot1133](https://osu.ppy.sh/users/11877992) | Estonian |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese, French, Japanese |
-| ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | Chinese, Cantonese, Japanese |
-| ::{ flag=TW }:: [Sagisawa Arisa](https://osu.ppy.sh/users/7633130) | Chinese |
-| ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227) | Japanese |
-| ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) | Chinese, Cantonese |
-| ::{ flag=BR }:: [sharpay](https://osu.ppy.sh/users/11251594) | Portuguese |
-| ::{ flag=BR }:: [Shiyun](https://osu.ppy.sh/users/3947634) | Portuguese |
-| ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Russian |
-| ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian |
+| ::{ flag=EE }:: [riot1133](https://osu.ppy.sh/users/11877992) | Tiếng Estonian |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Tiếng Trung Quốc, Tiếng Pháp, Tiếng Nhật |
+| ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | Tiếng Trung Quốc, Tiếng Quảng Đông, Tiếng Nhật |
+| ::{ flag=TW }:: [Sagisawa Arisa](https://osu.ppy.sh/users/7633130) | Tiếng Trung Quốc |
+| ::{ flag=JP }:: [Satellite](https://osu.ppy.sh/users/1661227) | Tiếng Nhật |
+| ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) | Tiếng Trung Quốc, Tiếng Quảng Đông |
+| ::{ flag=BR }:: [sharpay](https://osu.ppy.sh/users/11251594) | Tiếng Bồ Đào Nha |
+| ::{ flag=BR }:: [Shiyun](https://osu.ppy.sh/users/3947634) | Tiếng Bồ Đào Nha |
+| ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Tiếng Nga |
+| ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Tiếng Indonesia |
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) |  |
-| ::{ flag=BA }:: [Stompy\_](https://osu.ppy.sh/users/16429579) | Serbian |
-| ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) | Indonesian, Chinese |
-| ::{ flag=IT }:: [Syncro](https://osu.ppy.sh/users/4338923) | Italian |
-| ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | Dutch |
+| ::{ flag=BA }:: [Stompy\_](https://osu.ppy.sh/users/16429579) | Tiếng Serbia |
+| ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) | Tiếng Indonesia, Tiếng Trung Quốc |
+| ::{ flag=IT }:: [Syncro](https://osu.ppy.sh/users/4338923) | Tiếng Ý |
+| ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | Tiếng Hà Lan |
 | ::{ flag=US }:: [The Cosmic Chef](https://osu.ppy.sh/users/23354688) |  |
 | ::{ flag=US }:: [tilda](https://osu.ppy.sh/users/6233296) |  |
-| ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Thai |
-| ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509) | Chinese, Japanese |
-| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | Japanese |
-| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Russian |
+| ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Tiếng Thái Lan |
+| ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509) | Tiếng Trung Quốc, Tiếng Nhật |
+| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | Tiếng Nhật |
+| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Tiếng Nga |
 | ::{ flag=US }:: [Wanpachi](https://osu.ppy.sh/users/12157130) |  |
 | ::{ flag=VN }:: [Zawajiro](https://osu.ppy.sh/users/15082028) | Tiếng Việt |
 
@@ -160,33 +160,33 @@ Bảng dưới đây liệt kê từng chế độ trò chơi và Đề cử vi�
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
-| ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | Chinese |
+| ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | Tiếng Trung Quốc |
 | ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | Russian |
 | ::{ flag=ID }:: [\[-E S I A-\]](https://osu.ppy.sh/users/5159715) | Indonesian |
-| ::{ flag=KR }:: [6\_9](https://osu.ppy.sh/users/2998248) | Korean |
-| ::{ flag=VN }:: [Amasugi](https://osu.ppy.sh/users/10415491) | Vietnamese, Japanese |
-| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamese |
+| ::{ flag=KR }:: [6\_9](https://osu.ppy.sh/users/2998248) | Tiếng Hàn |
+| ::{ flag=VN }:: [Amasugi](https://osu.ppy.sh/users/10415491) | Tiếng Việt, Tiếng Nhật |
+| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Tiếng Việt |
 | ::{ flag=RU }:: [Dekovner](https://osu.ppy.sh/users/19859015) | Russian |
-| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | Japanese |
+| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | Tiếng Nhật |
 | ::{ flag=FO }:: [Erowdi](https://osu.ppy.sh/users/22522738) | Danish |
-| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese, Japanese |
-| ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | Japanese |
-| ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401) | Japanese |
-| ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | Chinese, Cantonese |
-| ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Cantonese, Chinese |
-| ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) | Finnish, Japanese |
-| ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Chinese, Cantonese, Japanese |
+| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Tiếng Trung Quốc |
+| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Tiếng Trung Quốc, Tiếng Nhật |
+| ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | Tiếng Nhật |
+| ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401) | Tiếng Nhật |
+| ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | Tiếng Trung, Tiếng Quảng Đông |
+| ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Tiếng Quảng Đông, Tiếng Trung Quốc |
+| ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) | Finnish, Tiếng Nhật |
+| ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Tiếng Trung Quốc, Tiếng Quảng Đông, Tiếng Nhật |
 | ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689) | French |
-| ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256) | Japanese |
-| ::{ flag=JP }:: [layxa](https://osu.ppy.sh/users/14800030) | Japanese |
+| ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256) | Tiếng Nhật |
+| ::{ flag=JP }:: [layxa](https://osu.ppy.sh/users/14800030) | Tiếng Nhật |
 | ::{ flag=GB }:: [MicSup08](https://osu.ppy.sh/users/8834793) |  |
 | ::{ flag=US }:: [Molybdenum](https://osu.ppy.sh/users/14708449) |  |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) |  |
 | ::{ flag=US }:: [Nostril](https://osu.ppy.sh/users/11479122) |  |
 | ::{ flag=RS }:: [Ognjen3800](https://osu.ppy.sh/users/14706521) | Serbian, Russian |
-| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | German, Serbian, Japanese |
-| ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Japanese |
+| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Tiếng Đức, Tiếng Serbia, Tiếng Nhật |
+| ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Tiếng Nhật |
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | Russian |
 | ::{ flag=FR }:: [Slyme](https://osu.ppy.sh/users/11695793) | French |
 | ::{ flag=KR }:: [SN707](https://osu.ppy.sh/users/31404061) | Korean |
@@ -227,13 +227,13 @@ Bảng dưới đây liệt kê từng chế độ trò chơi và Đề cử vi�
 | ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) | Chinese |
 | ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042) | Chinese |
 | ::{ flag=VN }:: [\[TCD\] Dzar03](https://osu.ppy.sh/users/16712231) | Vietnamese |
-| ::{ flag=VN }:: [\[TCD\] Ena-suki](https://osu.ppy.sh/users/29645291) | Vietnamese, Chinese, Japanese |
-| ::{ flag=CN }:: [8230](https://osu.ppy.sh/users/9950563) | Chinese |
-| ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291) | Chinese |
-| ::{ flag=VN }:: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) | Vietnamese |
-| ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Indonesian |
-| ::{ flag=RU }:: [AndreyChomik](https://osu.ppy.sh/users/31346265) | Russian |
-| ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Chinese |
+| ::{ flag=VN }:: [\[TCD\] Ena-suki](https://osu.ppy.sh/users/29645291) | Tiếng Việt, Tiếng Trung Quốc, Tiếng Nhật |
+| ::{ flag=CN }:: [8230](https://osu.ppy.sh/users/9950563) | Tiếng Trung Quốc |
+| ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291) | Tiếng Trung Quốc |
+| ::{ flag=VN }:: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) | Tiếng Việt |
+| ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Tiếng Indonesia |
+| ::{ flag=RU }:: [AndreyChomik](https://osu.ppy.sh/users/31346265) | Tiếng Nga |
+| ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Tiếng Trung |
 | ::{ flag=CN }:: [Breakrio](https://osu.ppy.sh/users/1653229) | Chinese |
 | ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | Chinese, German |
 | ::{ flag=NO }:: [Chrisse](https://osu.ppy.sh/users/18382591) | Danish |
@@ -277,15 +277,15 @@ Bảng dưới đây liệt kê từng chế độ trò chơi và Đề cử vi�
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
-| ::{ flag=KR }:: [\[Karcher\]](https://osu.ppy.sh/users/11443437) | Korean |
+| ::{ flag=KR }:: [\[Karcher\]](https://osu.ppy.sh/users/11443437) | Tiếng Hàn |
 | ::{ flag=TH }:: [bebe](https://osu.ppy.sh/users/5057420) |  |
-| ::{ flag=CL }:: [chr](https://osu.ppy.sh/users/3810322) | Urdu |
+| ::{ flag=CL }:: [chr](https://osu.ppy.sh/users/3810322) | Tiếng Urdu |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
-| ::{ flag=CN }:: [MarioKartya](https://osu.ppy.sh/users/16833061) | Chinese |
-| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | German |
-| ::{ flag=FR }:: [MonsieurSebas](https://osu.ppy.sh/users/16543098) | French, Turkish |
-| ::{ flag=CN }:: [Pata-Mon](https://osu.ppy.sh/users/6149313) | Chinese |
-| ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese |
+| ::{ flag=CN }:: [MarioKartya](https://osu.ppy.sh/users/16833061) | Tiếng Trung Quốc |
+| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | Tiếng Đức |
+| ::{ flag=FR }:: [MonsieurSebas](https://osu.ppy.sh/users/16543098) | Tiếng Pháp, Tiếng Thổ Nhĩ Kỳ |
+| ::{ flag=CN }:: [Pata-Mon](https://osu.ppy.sh/users/6149313) | Tiếng Trung Quốc |
+| ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Tiếng Bồ Đào Nha |
 
 #### osu!taiko
 
@@ -299,15 +299,15 @@ Không có thêm thành viên vào thời điểm này
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
-| ::{ flag=ID }:: [FerdiXIA-](https://osu.ppy.sh/users/9030389) | Indonesian |
+| ::{ flag=ID }:: [FerdiXIA-](https://osu.ppy.sh/users/9030389) | Tiếng Indonesia |
 | ::{ flag=GR }:: [flvxify](https://osu.ppy.sh/users/17698463) |  |
-| ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575) | Chinese |
-| ::{ flag=CN }:: [Hoshimegu Mio](https://osu.ppy.sh/users/17753835) | Chinese |
-| ::{ flag=NL }:: [Linlime](https://osu.ppy.sh/users/14438535) | Dutch |
-| ::{ flag=ID }:: [My Angel Chen](https://osu.ppy.sh/users/24285111) | Indonesian |
-| ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) | Indonesian |
+| ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575) | Tiếng Trung Quốc |
+| ::{ flag=CN }:: [Hoshimegu Mio](https://osu.ppy.sh/users/17753835) | Tiếng Trung Quốc |
+| ::{ flag=NL }:: [Linlime](https://osu.ppy.sh/users/14438535) | Tiếng Hà Lan |
+| ::{ flag=ID }:: [My Angel Chen](https://osu.ppy.sh/users/24285111) | Tiếng Indonesia |
+| ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) | Tiếng Indonesia |
 | ::{ flag=KR }:: [Rio1-](https://osu.ppy.sh/users/5604329) |  |
-| ::{ flag=CN }:: [weyctor](https://osu.ppy.sh/users/29398474) | Chinese |
+| ::{ flag=CN }:: [weyctor](https://osu.ppy.sh/users/29398474) | Tiếng Trung Quốc |
 | ::{ flag=CA }:: [Wimpy Cursed](https://osu.ppy.sh/users/24694032) |  |
 
 ## Lịch sử
