@@ -266,7 +266,7 @@ More in-depth statistics for every round can be found in the [stats folder](http
 
 ![Designers](/wiki/shared/news/2026-07-20-osucatch-world-cup-2026-concludes/Design-interview.png)
 
-Many noticed the semifinals tiebreaker song is themed around the radioactive element radium, combining scientific concepts with animated abstract and glitch-style visuals. It also marks the second animated graphic design collaboration within the World Cup Design Team, following [Vacant Rhapsody](https://www.youtube.com/watch?v=G9JdmWW5BsQ) by [penoreri](https://osu.ppy.sh/beatmaps/artists/526), which debuted in this year's [MWC 7K](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2026_7K) and later appeared in this year's [CWC Qualifiers](https://osu.ppy.sh/beatmapsets/2558834#fruits/5685705). We're now sitting down with designers from graphic design, storyboard, and visual effects to talk about how they brought these ideas together into a cohesive visual experience.
+Many noticed the semifinals tiebreaker song is themed around the radioactive element radium, combining scientific concepts with animated abstract and glitch-style visuals. It also marks the second animated graphic design collaboration within the World Cup Design Team, following [Vacant Rhapsody](https://www.youtube.com/watch?v=G9JdmWW5BsQ) by [penoreri](https://osu.ppy.sh/beatmaps/artists/526), which debuted in this year's [MWC 7K](/wiki/Tournaments/MWC/2026_7K) and later appeared in this year's [CWC Qualifiers](https://osu.ppy.sh/beatmapsets/2558834#fruits/5685705). We're now sitting down with designers from graphic design, storyboard, and visual effects to talk about how they brought these ideas together into a cohesive visual experience.
 
 <div class="news-chat-quote__text-container">
 
@@ -508,4 +508,4 @@ The 2026 osu!catch World Cup, however, wouldn't be possible without the help of 
 
 And to conclude, thank *you*, the viewer, for watching this year's iteration of the osu!catch World Cup. Fortunately, we can all look *four*ward to the upcoming osu!mania 4K World Cup 2026 starting in just a few weeks. If that sounds even remotely interesting to you, make sure to check out the [information page](/wiki/Tournaments/MWC/2026_4K) for more details and add the dates there to your calender so you don't miss any of the action!
 
-—Albionthegreat, Alepe, Rocma, Daletto, Nelly & wwwww
+—Albionthegreat, Alepe, Rocma, Daletto, Nelly, Sakura006 & wwwww
