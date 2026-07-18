@@ -32,7 +32,7 @@ An astronomic **1,206 stargazers** were captured by Alisa's silver swirls and st
 
 [![](https://assets.ppy.sh/contests/285/banners/Dreamxiety.jpg)](https://assets.ppy.sh/contests/285/winners/Dreamxiety.png)
 
-**[Dreamxiety](https://osu.ppy.sh/users/13103233)** showed us a picture ofpippi in orbit along with alien friends and her trusty Rio keychain, composed beatifully against the backdrop of the Blue A— *couch*, Blue Marble, reaching **930** favourable impressions back home.
+**[Dreamxiety](https://osu.ppy.sh/users/13103233)** showed us a picture of pippi in orbit along with alien friends and her trusty Rio keychain, composed beatifully against the backdrop of the Blue A— *couch*, Blue Marble, reaching **930** favourable impressions back home.
 
 [![](https://assets.ppy.sh/contests/285/banners/LeeNarie.jpg)](https://assets.ppy.sh/contests/285/winners/LeeNarie.jpg)
 
