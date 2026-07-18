@@ -166,9 +166,9 @@ Sunday, 19th of July 2026:
 | --: | :-: | :-: | :-- | :-- |
 | lifeline ::{ flag=ID }:: | 0 | 0 | ::{ flag=IT }:: kusuriya | 11:00 UTC |
 | Amasetic ::{ flag=FI }:: | 0 | 0 | ::{ flag=SM }:: argweid | 13:00 UTC |
+| yary ::{ flag=DE }:: | 0 | 0 | ::{ flag=RO }:: origin_ | 14:00 UTC |
 | BoshyMan741 ::{ flag=US }:: | 0 | 0 | ::{ flag=GB }:: fudge | 18:30 UTC |
 | xootynator ::{ flag=CA }:: | 0 | 0 | ::{ flag=NL }:: Aheo | 19:30 UTC |
-| yary ::{ flag=DE }:: | 0 | 0 | ::{ flag=RO }:: origin_ | TBD |
 
 Thursday, 23rd of July 2026:
 
