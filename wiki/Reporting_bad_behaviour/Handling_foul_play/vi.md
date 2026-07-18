@@ -56,7 +56,7 @@ Trên các hồ sơ người dùng, một nút `Báo cáo` sẽ xuất hiện kh
 
 Cách báo cáo này hiệu quả như trên trang hồ sơ – các báo cáo sẽ cùng được gửi đến một điểm nhận.
 
-Trên trang beatmap, bạn có thể báo cáo một người dùng trong bảng xếp hạng cao nhất bằng cách nhấn nút `Báo cáo` ở phía bên phải của điểm số của họ.
+Trên trang beatmap, bạn có thể báo cáo một người dùng trong bảng xếp hạng bằng cách nhấn nút `Báo cáo` ở phía bên phải của điểm số của họ.
 
 ### Trong trò chuyện của trò chơi 
 
