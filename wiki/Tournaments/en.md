@@ -68,7 +68,7 @@ Official tournaments organised by the osu! team.
 | [osu!catch World Cup 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=IT }:: Italy |
 | [osu!catch World Cup 2024](CWC/2024) | 2024-04-18 | 2024-06-30 | ::{ flag=US }:: United States | ::{ flag=AR }:: Argentina | ::{ flag=PL }:: Poland |
 | [osu!catch World Cup 2025](CWC/2025) | 2025-05-08 | 2025-07-20 | ::{ flag=AR }:: Argentina | ::{ flag=US }:: United States | ::{ flag=FI }:: Finland |
-| [osu!catch World Cup 2026](CWC/2026) | 2026-04-30 | 2026-07-12 | *TBD* | *TBD* | *TBD* |
+| [osu!catch World Cup 2026](CWC/2026) | 2026-04-30 | 2026-07-12 | ::{ flag=AR }:: Argentina | ::{ flag=PL }:: Poland | ::{ flag=FR }:: France |
 
 ### ![](/wiki/shared/mode/mania.png) [osu!mania World Cup](MWC)
 
@@ -96,6 +96,7 @@ Official tournaments organised by the osu! team.
 | [osu!mania 7K World Cup 2025](MWC/2025_7K) | 2024-12-12 | 2025-02-23 | ::{ flag=KR }:: South Korea | ::{ flag=CN }:: China | ::{ flag=PH }:: Philippines |
 | [osu!mania 4K World Cup 2025](MWC/2025_4K) | 2025-07-17 | 2025-09-28 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=CN }:: China |
 | [osu!mania 7K World Cup 2026](MWC/2026_7K) | 2025-12-11 | 2026-02-22 | ::{ flag=KR }:: South Korea | ::{ flag=PH }:: Philippines | ::{ flag=JP }:: Japan |
+| [osu!mania 4K World Cup 2026](MWC/2026_4K) | 2026-07-16 | 2026-09-27 | *TBD* | *TBD* | *TBD* |
 
 ## Community
 
