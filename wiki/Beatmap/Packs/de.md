@@ -47,13 +47,13 @@ Es wird empfohlen, Beatmap-Pakete direkt von der offiziellen Auflistung herunter
 Aktuell werden alle Beatmap-Pakete intern auf dem Server `packs.ppy.sh` gespeichert. Für den Fall, dass dieser Server nicht mehr erreichbar ist oder langsam wird, gibt es die folgenden, von anderen aufgesetzten Spiegelserver:
 
 - Hinamizawa.ai – osu! data hub
-  - [Mirror website](https://hinamizawa.ai/osu/map-packs/) von ::{ flag=CW }:: [TheMoonBunny](https://osu.ppy.sh/users/902250)
+  - [Mirror-Webseite](https://hinamizawa.ai/osu/map-packs/) von ::{ flag=CW }:: [TheMoonBunny](https://osu.ppy.sh/users/902250)
 - Alter Archivierungsort vor der Migration zu `packs.ppy.sh` (ungefähr datiert auf den 07.05.2023)
   - [MEGA drive](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw) von ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907)
 - [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
   - [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) von ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449)
 - [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381)
-  - [Mirror website](http://osu.yas-online.net/) von ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630)
+  - [Mirror-Webseite](http://osu.yas-online.net/) von ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630)
 
 ### Torrents
 
