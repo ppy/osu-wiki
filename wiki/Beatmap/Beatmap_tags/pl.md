@@ -81,7 +81,7 @@ Poniższe tabele zawierają listę wszystkich tagów użytkowników pogrupowanyc
 | :-- | :-- | :-- |
 | [tech/slider tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fslider%20tech%22%22) | Testuje nietypowe umiejętności związane ze sliderami, takie jak częste użycie kicksliderów lub celowanie w złożone kształty sliderów. | ![][osu!] |
 | [tech/aim control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | Wzory ze zmianami prędkości lub kierunku, które mocno sprzeciwiają się naturalnemu ruchowi gracza. | ![][osu!] |
-| [tech/finger control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | Wykorzystuje złożone aplikacje rytmów w celu przetestowania umiejętności klikania gracza. | ![][osu!] |
+| [tech/finger control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Ffinger%20control%22%22) | Wykorzystuje złożone aplikacje rytmów w celu przetestowania umiejętności klikania gracza. | ![][osu!] |
 | [tech/complex snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fcomplex%20snap%22%22) | Mapy, które charakteryzują się wyraźnym użyciem mieszanych lub nietypowych dzielników rytmicznych (snaps). | ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [tech/antiflow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fantiflow%22%22) | Mapa skupiająca się na gwałtownych zmianach kierunku lub prędkości, które idą wbrew naturalnemu wzorcowi ruchu gracza. | ![][osu!catch] |
 | [tech/flow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fflow%22%22) | Mapa skupiająca się na naturalnych i intuicyjnych wzorcach ruchu. | ![][osu!catch] |
@@ -198,7 +198,7 @@ Poniższe tabele zawierają listę wszystkich tagów użytkowników pogrupowanyc
 | [additions/combo colours](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcombo%20colours%22%22) | Mapy, które dostosowują kolory combo do zmian w piosence, znane również jako colourhax. | ![][osu!] |
 | [additions/keysounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fkeysounds%22%22) | Zawiera hitsoundy wykorzystujące różne próbki o zmiennej wysokości dźwięku do stworzenia melodii. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [additions/custom skin](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | Wykorzystuje niestandardowe elementy skórki (skin) i grafikę. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [additions/hitsounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | Mapa wykorzystująca niestandardowe zestawy próbek hitsoundów. | ![][osu!taiko] |
+| [additions/hitsounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fhitsounds%22%22) | Mapa wykorzystująca niestandardowe zestawy próbek hitsoundów. | ![][osu!taiko] |
 
 ### Tagi informacji meta (Meta information)
 

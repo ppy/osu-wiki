@@ -63,7 +63,7 @@ The tables below list all user tags grouped by category as well as the game mode
 | Tag name | Description | Game mode |
 | :-- | :-- | :-- |
 | [streams/doubles](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fdoubles%22%22) | Patterns requiring consecutively tapping 2 note groups. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [streams/quads](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fquads%22%22) | Patterns requiring consecutively tapping 2 note groups. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [streams/quads](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fquads%22%22) | Patterns requiring consecutively tapping 4 note groups. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [streams/bursts](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fbursts%22%22) | Patterns requiring consecutively tapping 5-9 note groups. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [streams/stamina](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fstamina%22%22) | Tests a player\'s ability to tap dense rhythms over long periods of time. | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | [streams/speed](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fspeed%22%22) | A map that requires constant tapping at high BPMs. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
@@ -77,7 +77,7 @@ The tables below list all user tags grouped by category as well as the game mode
 | :-- | :-- | :-- |
 | [tech/slider tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fslider%20tech%22%22) | Tests uncommon skills involving sliders, such as heavy use of kicksliders or aim on complex slidershapes. | ![][osu!] |
 | [tech/aim control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | Patterns with velocity or direction changes which strongly go against a player\'s natural movement pattern. | ![][osu!] |
-| [tech/finger control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | Uses complex applications of rhythms in order to test the player\'s tapping ability. | ![][osu!] |
+| [tech/finger control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Ffinger%20control%22%22) | Uses complex applications of rhythms in order to test the player\'s tapping ability. | ![][osu!] |
 | [tech/complex snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fcomplex%20snap%22%22) | Maps that feature prominent usage of mixed or unusual snap divisors. | ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [tech/antiflow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fantiflow%22%22) | A map focused on strong direction or velocity changes that go against a player's natural movement pattern. | ![][osu!catch] |
 | [tech/flow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fflow%22%22) | A map focused on natural and intuitive movement patterns. | ![][osu!catch] |
@@ -194,7 +194,7 @@ The tables below list all user tags grouped by category as well as the game mode
 | [additions/combo colours](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcombo%20colours%22%22) | Maps that adjust combo colours in conjunction with variations in the song, also referred to as colourhax. | ![][osu!] |
 | [additions/keysounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fkeysounds%22%22) | Contains hitsounds that use various pitched samples to create a melody, typically following one within the song. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [additions/custom skin](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | Utilizes custom skin elements and graphics. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [additions/hitsounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | A map that makes use of non-default hitsound samplesets. | ![][osu!taiko] |
+| [additions/hitsounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fhitsounds%22%22) | A map that makes use of non-default hitsound samplesets. | ![][osu!taiko] |
 
 ### Meta information tags
 
