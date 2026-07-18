@@ -1,8 +1,8 @@
 # COE 2026 1v1 Tournament
 
-![](img/banner.PNG)
+![](img/banner.jpg)
 
-The **COE 2026 1v1 Tournament** was a 1v1 single-elimination osu! LAN tournament run entirely in the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client, and hosted during [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event) 2026 (COE 2026) at Brabanthallen in 's-Hertogenbosch, Netherlands. It was the sixth instalment of the COE tournament series.
+The **COE 2026 1v1 Tournament** is a 1v1 single-elimination osu! LAN tournament run entirely in the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client, and hosted during [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event) 2026 (COE 2026) at Brabanthallen in 's-Hertogenbosch, Netherlands. It is the sixth instalment of the COE tournament series.
 
 ## Tournament schedule
 
@@ -11,7 +11,7 @@ The **COE 2026 1v1 Tournament** was a 1v1 single-elimination osu! LAN tournament
 | Registration | 2026-06-01/2026-06-13 |
 | Online qualifiers | 2026-06-15/2026-04-29 |
 | Online stage | 2026-07-11/2026-07-19 |
-| Qualifier results reveal & Finals mappool showcase | 2026-07-27 (15:30 UTC+2) |
+| Finals mappool showcase | 2026-07-27 (15:30 UTC+2) |
 | Finals | 2026-07-30/2026-08-01 |
 
 ## Prizes
@@ -33,17 +33,18 @@ The COE 2026 1v1 Tournament prizes are yet to be announced.
 | :-- | :-- |
 | Admins | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
 | Mappool selector | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=US }:: [chiv](https://osu.ppy.sh/users/6701656) |
-| Mapper | TBA |
+| Mapper | ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589), ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AT }:: [topXD](https://osu.ppy.sh/users/11904298), more TBA  |
 | Custom music producer | TBA |
 | GFX | TBA |
-| Storyboarder | ::{ flag=HU }:: Himada[](https://osu.ppy.sh/users/10959366) |
-| Commentator | TBA |
+| Storyboarder | ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) |
+| Commentator | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=GB }:: [MALTESER](https://osu.ppy.sh/users/5218178), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=FR }:: [Subaru_Arima](https://osu.ppy.sh/users/11273062), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063) |
+| Commentator (special guests) | ::{ flag=PL }:: [_demo](https://osu.ppy.sh/users/3556891), ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902), ::{ flag=US }:: [n3rdiness](https://osu.ppy.sh/users/16537481), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=SE }:: [ellen-](https://osu.ppy.sh/users/7630166), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
 | Statistician | ::{ flag=NL }:: [Timper](https://osu.ppy.sh/users/11955929) |
 
 ## Links
 
-- **[Information sheet]()**
+- **[Information sheet](https://docs.google.com/spreadsheets/d/1OUw0gzwpIqKqqX7u40DnEMVVLAAE2KdxmSjaiiogRBM/edit?gid=717614054#gid=717614054)**
 - [COE website](https://cavoe.events)
 - [Livestream](https://twitch.tv/coevent)
 - [COE Discord server](https://discord.com/invite/d6ru6PVcSY)
@@ -52,14 +53,14 @@ The COE 2026 1v1 Tournament prizes are yet to be announced.
 
 ## Participants
 
-Detailed qualifier results can be found [here]().
+Detailed qualifier results can be found [here](https://docs.google.com/spreadsheets/d/1OUw0gzwpIqKqqX7u40DnEMVVLAAE2KdxmSjaiiogRBM/edit?gid=1728026468#gid=1728026468).
 
 | Qualifier seed | Player |
 | :-: | :-- |
-| 1–8 | TBA |
-| 9–24 | TBA |
-| 25–40 | TBA |
-| *N/A* | TBA |
+| 1–8 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902), ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961), ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183), ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659), ::{ flag=NO }:: [papercandle](https://osu.ppy.sh/users/12353810), ::{ flag=DE }:: [runnysunny](https://osu.ppy.sh/users/15339747), ::{ flag=NO }:: [NINERIK](https://osu.ppy.sh/users/10549880), ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) |
+| 9–24 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=RO }:: [origin_](https://osu.ppy.sh/users/15095811), ::{ flag=SM }:: [argweid](https://osu.ppy.sh/users/11215030), ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738), ::{ flag=DE }:: [yary](https://osu.ppy.sh/users/13300203), ::{ flag=PL }:: [gnahus](https://osu.ppy.sh/users/12779141), ::{ flag=UA }:: [GET LOVED](https://osu.ppy.sh/users/13705417), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=IT }:: [kusuriya](https://osu.ppy.sh/users/6387149), ::{ flag=GB }:: [lystia](https://osu.ppy.sh/users/11042418), ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598), ::{ flag=GB }:: [fudge](https://osu.ppy.sh/users/11592896), ::{ flag=FR }:: [Hifkil](https://osu.ppy.sh/users/4301976), ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222), ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687), ::{ flag=US }:: [Crestive](https://osu.ppy.sh/users/10909049) |
+| 25–40 | ::{ flag=PL }:: [hav](https://osu.ppy.sh/users/14100781), ::{ flag=AU }:: [cloppit](https://osu.ppy.sh/users/19851850), ::{ flag=FR }:: [Oly9919](https://osu.ppy.sh/users/10325072), ::{ flag=AT }:: [z10a](https://osu.ppy.sh/users/18153252), ::{ flag=AT }:: [fedoragoose](https://osu.ppy.sh/users/2323131), ::{ flag=PL }:: [Agent5d](https://osu.ppy.sh/users/5472693), ::{ flag=NO }:: [Melvr](https://osu.ppy.sh/users/9211924), ::{ flag=FI }:: [Mike Tyson](https://osu.ppy.sh/users/14764185), ::{ flag=NL }:: [John ethken](https://osu.ppy.sh/users/641155), ::{ flag=GB }:: [Mahmood](https://osu.ppy.sh/users/7627844), ::{ flag=AU }:: [palr](https://osu.ppy.sh/users/15429006), ::{ flag=NL }:: [dracoria](https://osu.ppy.sh/users/20241831), ::{ flag=AT }:: [z9a](https://osu.ppy.sh/users/13057699), ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956), ::{ flag=MX }:: [pundice](https://osu.ppy.sh/users/7940696), ::{ flag=NO }:: [HUNDUR](https://osu.ppy.sh/users/3145033) |
+| *N/A* | ::{ flag=PL }:: [distantmemory](https://osu.ppy.sh/users/9322480), ::{ flag=BE }:: [lychee boba](https://osu.ppy.sh/users/7078544), ::{ flag=NO }:: [Read Horimiya](https://osu.ppy.sh/users/14963905), ::{ flag=IS }:: [Hraunfellsvatn](https://osu.ppy.sh/users/6583413), ::{ flag=US }:: [AWhitePhoenix](https://osu.ppy.sh/users/18649076), ::{ flag=US }:: [polkip](https://osu.ppy.sh/users/8110821), ::{ flag=PL }:: [cynth0ni](https://osu.ppy.sh/users/8350931), ::{ flag=GB }:: [Filizanowski](https://osu.ppy.sh/users/29460766), ::{ flag=NO }:: [suppejeger](https://osu.ppy.sh/users/12182913) |
 
 ## Podium
 
@@ -70,6 +71,27 @@ Detailed qualifier results can be found [here]().
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | TBD |
 
 ## Mappools
+
+### Online stage
+
+- No Mod
+  1. [USAO - Dynamite (Camellia's MACHO TNT REMIX) [EX-pLo s  ! o   N]](https://osu.ppy.sh/beatmapsets/1610580#osu/3288402)
+  2. [LV.4 feat. Chiaki Iwasaki - B.O.L. [Liberation]](https://osu.ppy.sh/beatmapsets/2534588#osu/5604634)
+  3. [PEOPLE 1 - Ratpark feat. Kei Sugawara [Rattus deliceus, Rattus mophinus and Rattus mirandorensis' :ratJam:]](https://osu.ppy.sh/beatmapsets/2439306#osu/5320317)
+  4. [xaki - proud-dust [Extra 8.5]](https://osu.ppy.sh/beatmapsets/973222#osu/5354201)
+  5. [-45 - Rougoku STRIP [..?]](https://osu.ppy.sh/beatmapsets/2582239#osu/5756979)
+- Hidden
+  1. [Falcom Sound Team jdk - RED LINE -021- [extra]](https://osu.ppy.sh/beatmapsets/2582256#osu/5757017)
+  2. [ginkiha - eastward [forever faithful]](https://osu.ppy.sh/beatmapsets/2582255#osu/5757012)
+- Hard Rock
+  1. [Hana - tree (Sped Up Ver.) [Triangle-chan's Sakura Spinoff]](https://osu.ppy.sh/beatmapsets/1711023#osu/3496104)
+  2. [S2TB Recording - Super Luminal [SHD]](https://osu.ppy.sh/beatmapsets/1620087#osu/3307758)
+- Double Time
+  1. [cosMo@BousouP - Oceanus [Fortune's Insane]](https://osu.ppy.sh/beatmapsets/267767#osu/618865)
+  2. [Function Phantom - Neuronecia [Ethereal]](https://osu.ppy.sh/beatmapsets/186911#osu/541990)
+  3. [NOMELON NOLEMON - Dounika Nacchaisou! [hypocrisy]](https://osu.ppy.sh/beatmapsets/2582289#osu/5757116)
+- Tiebreaker
+  1. [Camellia feat. Nanahira - finorza [Callionet's Firmament]](https://osu.ppy.sh/beatmapsets/1140744#osu/4647381)
 
 ### Online qualifiers
 
@@ -91,90 +113,68 @@ Detailed qualifier results can be found [here]().
 
 ## Match results
 
-### Offline stage
-
-The bracket for the offline stage can be found [here]().
-
-Thursday, 30th of July 2026:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-
-
-Friday, 31st July 2026:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-
-Saturday, 1st of August 2026:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-
 ### Online stage
 
-The bracket for the online stage can be found [here]().
+The bracket for the online stage can be found [here](https://liquipedia.net/osu/COE/2026/Play-In#Results).
+
+Friday, 10th of July 2026:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **origin_** ::{ flag=RO }:: | **5** | 4 | ::{ flag=US }:: BoshyMan741 | [#1](https://osu.ppy.sh/multiplayer/rooms/3578987/events) & [#2](https://osu.ppy.sh/multiplayer/rooms/3579588/events) |
 
 Saturday, 11th of July 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
+| **Bubbleman** ::{ flag=GB }:: | **5** | 0 | ::{ flag=US }:: Crestive | [#1](https://osu.ppy.sh/multiplayer/rooms/3592337/events) |
+| **argweid** ::{ flag=SM }:: | **5** | 4 | ::{ flag=ID }:: lifeline | [#1](https://osu.ppy.sh/multiplayer/rooms/3587904/events) |
+| A L E P H ::{ flag=ES }:: | 2 | **5** | ::{ flag=FR }:: **Hifkil** | [#1](https://osu.ppy.sh/multiplayer/rooms/3587424/events) |
+| yary ::{ flag=DE }:: | 2 | **5** | ::{ flag=GB }:: **fudge** | [#1](https://osu.ppy.sh/multiplayer/rooms/3588492/events) |
+| **gnahus** ::{ flag=PL }:: | **5** | 2 | ::{ flag=CA }:: xootynator | [#1](https://osu.ppy.sh/multiplayer/rooms/3591093/events) |
+| Amasetic ::{ flag=FI }:: | 2 | **5** | ::{ flag=IT }:: **kusuriya** | [#1](https://osu.ppy.sh/multiplayer/rooms/3587025/events) |
 
 Sunday, 12th of July 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
+| **ASecretBox** ::{ flag=AU }:: | **5** | 2 | ::{ flag=PL }:: gnahus | [#1](https://osu.ppy.sh/multiplayer/rooms/3597651/events) |
+| **criller** ::{ flag=DE }:: | **5** | 3 | ::{ flag=GB }:: fudge | [#1](https://osu.ppy.sh/multiplayer/rooms/3601267/events) |
+| **papercandle** ::{ flag=NO }:: | **5** | 4 | ::{ flag=FR }:: Hifkil | [#1](https://osu.ppy.sh/multiplayer/rooms/3603679/events) |
+| **runnysunny** ::{ flag=DE }:: | **5** | 2 | ::{ flag=SM }:: argweid | [#1](https://osu.ppy.sh/multiplayer/rooms/3598861/events) |
+| **NINERIK** ::{ flag=NO }:: | **5** | 3 | ::{ flag=RO }:: origin_ | [#1](https://osu.ppy.sh/multiplayer/rooms/3603038/events) |
+| Aheo ::{ flag=NL }:: | 0 | **5** | ::{ flag=GB }:: **Bubbleman**| [#1](https://osu.ppy.sh/multiplayer/rooms/3597325/events) |
+
+Monday, 13th of July 2026:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **GET LOVED** ::{ flag=UA }:: | **5** | 1 | ::{ flag=GB }:: lystia | [#1](https://osu.ppy.sh/multiplayer/rooms/3609699/events) |
+| **mrekk** ::{ flag=AU }:: | **5** | 1 | ::{ flag=IT }:: kusuriya | [#1](https://osu.ppy.sh/multiplayer/rooms/3610108/events) |
+| **MALISZEWSKI** ::{ flag=PL }:: | **5** | 0 | ::{ flag=UA }:: GET LOVED | [#1](https://osu.ppy.sh/multiplayer/rooms/3611764/events) |
 
 Saturday, 18th of July 2026:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match time |
 | --: | :-: | :-: | :-- | :-- |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
+| lystia ::{ flag=GB }:: | 0 | 0 | ::{ flag=FR }:: Hifkil | 13:00 UTC |
+| Crestive ::{ flag=US }:: | 0 | 0 | ::{ flag=PL }:: gnahus | 19:00 UTC |
 
 Sunday, 19th of July 2026:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match time |
 | --: | :-: | :-: | :-- | :-- |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
-| **** ::{ flag= }:: | 0 | 0 | ::{ flag= }::  | [#1]() |
+| lifeline ::{ flag=ID }:: | 0 | 0 | ::{ flag=IT }:: kusuriya | 11:00 UTC |
+| Amasetic ::{ flag=FI }:: | 0 | 0 | ::{ flag=SM }:: argweid | 13:00 UTC |
+| BoshyMan741 ::{ flag=US }:: | 0 | 0 | ::{ flag=GB }:: fudge | 18:30 UTC |
+| xootynator ::{ flag=CA }:: | 0 | 0 | ::{ flag=NL }:: Aheo | 19:30 UTC |
+| yary ::{ flag=DE }:: | 0 | 0 | ::{ flag=RO }:: origin_ | TBD |
 
+Thursday, 23rd of July 2026:
+
+| Player 1 |  |  | Player 2 | Match time |
+| --: | :-: | :-: | :-- | :-- |
+| A L E P H ::{ flag=ES }:: | 0 | 0 | ::{ flag=UA }:: GET LOVED | 10:00 UTC |
 
 ## Ruleset
 
@@ -372,7 +372,7 @@ Rounds with disconnects within 30 seconds or 25% of the beatmap length, whicheve
 
 Should a map end in a draw the beatmap will be replayed, before moving on to the next pick.
 
-### 7 Code of conduct
+### 7. Code of conduct
 
 #### 7.1 Tournament management
 
