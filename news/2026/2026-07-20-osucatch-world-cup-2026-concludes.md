@@ -171,12 +171,12 @@ We would have loved to cover more matches for you, but some are best experienced
 
 | Match | Stage | Links |
 | :-- | :-- | :-: |
-| ::{ flag=BE }:: Belgium vs. China ::{ flag=CN }:: | Round of 16 | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2800739214) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121326997) |
-| ::{ flag=PT }:: Portugal vs. New Zealand ::{ flag=NZ }:: | Round of 16 | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2800742889) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121327396) |
-| ::{ flag=GB }:: United Kingdom vs. Spain ::{ flag=ES }:: | Quarterfinals | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2801252329) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121365761) |
-| ::{ flag=CO }:: Colombia vs. Malaysia ::{ flag=MY }:: | Quarterfinals | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2801366113) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121366998) |
-| ::{ flag=CA }:: Canada vs. United States ::{ flag=US }:: | Quarterfinals | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2801421242) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121367320) |
-| ::{ flag=CN }:: China vs. Indonesia ::{ flag=ID }:: | Semifinals | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2806632934) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121407523) |
+| ::{ flag=BE }:: Belgium vs. ::{ flag=CN }:: China | Round of 16 | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2800739214) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121326997) |
+| ::{ flag=PT }:: Portugal vs. ::{ flag=NZ }:: New Zealand | Round of 16 | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2800742889) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121327396) |
+| ::{ flag=GB }:: United Kingdom vs. ::{ flag=ES }:: Spain | Quarterfinals | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2801252329) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121365761) |
+| ::{ flag=CO }:: Colombia vs. ::{ flag=MY }:: Malaysia | Quarterfinals | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2801366113) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121366998) |
+| ::{ flag=CA }:: Canada vs. ::{ flag=US }:: United States | Quarterfinals | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2801421242) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121367320) |
+| ::{ flag=CN }:: China vs. ::{ flag=ID }:: Indonesia | Semifinals | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2806632934) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121407523) |
 
 ## Tournament statistics
 
