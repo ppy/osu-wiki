@@ -63,7 +63,7 @@ Las siguientes tablas muestran todas las etiquetas de los usuarios agrupadas por
 | Nombre de la etiqueta | Descripción | Modo de juego |
 | :-- | :-- | :-- |
 | [streams/doubles](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fdoubles%22%22) | Mapas con patrones que requieren pulsar consecutivamente 2 grupos de notas. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [streams/quads](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fquads%22%22) | Mapas con patrones que requieren pulsar consecutivamente 2 grupos de notas. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [streams/quads](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fquads%22%22) | Mapas con patrones que requieren pulsar consecutivamente 4 grupos de notas. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [streams/bursts](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fbursts%22%22) | Mapas con patrones que requieren pulsar consecutivamente grupos de 5 a 9 notas. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [streams/stamina](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fstamina%22%22) | Mapas que ponen a prueba la habilidad del jugador para pulsar ritmos densos durante largos periodos de tiempo. | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | [streams/speed](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fspeed%22%22) | Mapas que requieren pulsaciones constantes a un BPM elevado. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
