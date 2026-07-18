@@ -133,28 +133,23 @@ Captains are denoted in **bold**.
 
 ## Match schedule: Quarterfinals
 
-### Saturday, 18 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 1 | baaa mi diyo la? :O | farketmez | [Jul 18 (Sat) 16:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260718T130000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^winners-bracket] |
-| 6 | washed gang | cok zeki takim | [Jul 18 (Sat) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260718T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
-| 3 | acil feet | Dede ve Torunu | [Jul 18 (Sat) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260718T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^winners-bracket] |
-| 8 | W puskevit | barigadam | [Jul 18 (Sat) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260718T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
-
 ### Sunday, 19 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 5 | zilla | steal balls and run | [Jul 19 (Sun) 16:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T130000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
+| 5 | steal balls and run | zilla | [Jul 19 (Sun) 15:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T120000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
 | 2 | bak | Pinterest kedipp | [Jul 19 (Sun) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^winners-bracket] |
-| 7 | alındınmı? .p | cansın | [Jul 19 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
+| 8 | barigadam | W puskevit | [Jul 19 (Sun) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
+| 6 | cok zeki takim | washed gang | [Jul 19 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
+| 3 | acil feet | Dede ve Torunu | [Jul 19 (Sun) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^winners-bracket] |
+| 1 | baaa mi diyo la? :O | farketmez | [Jul 19 (Sun) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^winners-bracket] |
 | 4 | enes batur | 21cm pp limit | [Jul 19 (Sun) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^winners-bracket] |
 
 ### Monday, 20 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
+| 7 | cansın | alındınmı? .p | [Jul 20 (Mon) 15:30 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260720T123000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
 |  | Semifinals | mappool showcase | [Jul 20 (Mon) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260720T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^mappool-showcase] |
 
 ## Mappools
