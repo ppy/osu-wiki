@@ -189,17 +189,17 @@ Seit 2019 wird dieser Scherz jedes Jahr wiederholt (nur in osu!(stable)).[^sneez
 ![Toggles-Abschnitt, der am 1. April sichtbar war](img/2026-toggles.png "Toggles-Abschnitt, der am 1. April sichtbar war")
 :::
 
-In den Einstellungen in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) war am 1. April 2026[^2026] ein neuer `Toggles`-Abschnitt verfügbar, der den Text "You wanted toggles, we give you toggles" ("Ihr wolltet Schalter, wir geben euch Schalter") und einen einzigen Schalter enthielt. Dieser führte beim Anklicken dazu, dass mehr Schalter erschienen, die alle mit albernen Namen wie "toggle chaos" ("Chaos umschalten") oder "toggle entropy" ("Entropie umschalten") versehen waren.
+In den Einstellungen in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) war am 1. April 2026[^2026] ein neuer `Toggles`-Abschnitt verfügbar, der den Text "You wanted toggles, we give you toggles" ("Ihr wolltet Schalter, wir geben euch Schalter") und einen einzigen Schalter enthielt. Dieser führte beim Anklicken dazu, dass mehr Schalter erschienen, die alle mit albernen Namen wie "toggle chaos" ("Chaos ein-/ausschalten") oder "toggle entropy" ("Entropie ein-/ausschalten") versehen waren.
 
 Durch das Anklicken eines beliebigen Schalters wurden andere Schalter aus- oder abgewählt und zufällige Effekte ausgelöst, von denen manche sogar aktiv blieben während man eine Beatmap spielte:
 
-- Ein osu!-Icon bewegt sich wie der [DVD-Bildschirmschoner](https://en.wikipedia.org/wiki/DVD_screensaver) über den Bildschirm
+- Ein osu!-Logo bewegt sich wie der [DVD-Bildschirmschoner](https://en.wikipedia.org/wiki/DVD_screensaver) über den Bildschirm
 - osu! macht eine Fassrolle[^barrel-roll]
 - Die Menüoberfläche erhält ein anderes Farbschema
 - Verschiedene Soundeffekte wie z. B. verzerrter Ton
 - Das Spielfenster ist leicht geneigt
 
-Zu viele Schalter auszuwählen führte schließlich dazu, dass osu! "abstürzte", indem ein Geräusch von zerbrechendem Glas abgespielt, herangezoomt und ins Schwarze übergeblendet wurde, wonach das Spiel in den Normalzustand zurückkehrte. Der `Toggles`-Abschnitt enthielt dann jedoch den Text "..on second thought, no more toggles for you." ("..wenn ich es mir recht überlege, keine Schalter mehr für dich.") und einen Knopf mit der Aufschrift "But please peppy" ("Aber bitte peppy"), der beim Anklicken einen Buzzer-Sound abspielte und den Text "no" ("Nein") anzeigte. Drückte man diesen Knopf oft genug, kehrte der `Toggles`-Abschnitt in den Ausgangszustand mit nur einem Schalter zurück.
+Zu viele Schalter auszuwählen führte schließlich dazu, dass osu! "abstürzte", indem ein Geräusch von zerbrechendem Glas abgespielt, herangezoomt und ins Schwarze übergeblendet wurde, wonach das Spiel in den Normalzustand zurückkehrte. Der `Toggles`-Abschnitt enthielt dann jedoch den Text "..on second thought, no more toggles for you." ("..wenn ich es mir recht überlege, keine Schalter mehr für dich.") und einen Button mit der Aufschrift "But please peppy" ("Aber bitte peppy"), der beim Anklicken einen Buzzer-Sound abspielte und den Text "no" ("Nein") anzeigte. Drückte man diesen Button oft genug, kehrte der `Toggles`-Abschnitt in den Ausgangszustand mit nur einem Schalter zurück.
 
 Dieser Toggles-Abschnitt wurde hinzugefügt in Anlehnung an die vielen Anfragen in [GitHub-Diskussionen](https://github.com/ppy/osu/discussions) und dem [Feature Requests](https://osu.ppy.sh/community/forums/4)-Forum, die vorgeschlagen haben, für verschiedene Funktionen Schalter hinzuzufügen. Die [Entwickler](/wiki/People/Developers) möchten verhindern, dass die Einstellungen zu überladen werden.[^toggles-comment]
 
