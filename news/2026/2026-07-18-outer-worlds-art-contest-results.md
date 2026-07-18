@@ -28,7 +28,7 @@ An astronomic **1,206 stargazers** were captured by Alisa's silver swirls and st
 
 [![](https://assets.ppy.sh/contests/285/banners/Bayki.jpg)](https://assets.ppy.sh/contests/285/winners/Bayki.png)
 
-**[Bayki](https://osu.ppy.sh/users/15984389)** managed to snag smirks from **957** space cadets who related with the experience of being thrown spinning when stepping out on a space walk. The world if tough out there, but some of the lost footing clearly bounced back to net the entry third place and another new face on our art contest podium!
+**[Bayki](https://osu.ppy.sh/users/15984389)** managed to snag smirks from **957** space cadets who related with the experience of being thrown spinning when stepping out on a space walk. The world is tough out there, but some of the lost footing clearly bounced back to net the entry third place and another new face on our art contest podium!
 
 [![](https://assets.ppy.sh/contests/285/banners/Dreamxiety.jpg)](https://assets.ppy.sh/contests/285/winners/Dreamxiety.png)
 
