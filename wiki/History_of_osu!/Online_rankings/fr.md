@@ -24,17 +24,17 @@ De nombreux joueurs ont occupé la première place dans chaque mode de jeu selon
 
 *Page principale : [L'histoire des classements du mode osu!](osu!)*
 
-En date du 14 juin 2026, sur [l'osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) le joueur #1 est ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160/osu).
+En date du 11 juillet 2026, sur [l'osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) le joueur #1 est ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 
-En date du 24 mars 2026, sur [l'osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) le joueur #1 est ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
+En date du 11 juillet 2026, sur [l'osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) le joueur #1 est ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
 
 ## ![][osu!catch] osu!catch
 
 *Page principale : [L'histoire des classements du mode osu!catch](osu!catch)*
 
-En date du 2 novembre 2024, sur [l'osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance), le joueur #1 est ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
+En date du 1 juillet 2026, sur [l'osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance), le joueur #1 est ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283/fruits).
 
 ## ![][osu!mania] osu!mania
 
