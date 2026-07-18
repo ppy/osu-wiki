@@ -15,7 +15,7 @@ Another thrilling year of watching fruits fall comes to a close. Want to find ou
 
 ![](/wiki/Tournaments/CWC/2026/img/cwc2026-podium.jpg)
 
-The Sol de Mayo has risen in the early morning in the sky, which can only mean one thing... **Argentina** is our champion of the osu!catch World Cup 2026! This was their second consecutive title, earned with a 7–4 victory over runner-up **Poland**, who in turn achieved their best historical placement in the tournament. Bronze medalists **France** secured their first podium after many close calls, although they were close to tasting silver if it hadn't been for **Poland**'s thrilling comeback in a match that ended 7–5.
+The Sol de Mayo has risen in the morning sky, which can only mean one thing... **Argentina** is our champion of the osu!catch World Cup 2026! This was their second consecutive title, earned with a 7–4 victory over runner-up **Poland**, who in turn achieved their best historical placement in the tournament. Bronze medalists **France** secured their first podium after many close calls, although they were close to tasting silver if it hadn't been for **Poland**'s thrilling comeback in a match that ended 7–5.
 
 Other countries also managed to reach new highs, starting with **Greece** and **Lithuania**, who managed to qualify for the osu!catch World Cup for the first time. **Portugal** reached the 17–24th place with their very first victory in a CWC tournament and the **United Kingdom** climbed up to 9–12th place. **Belgium** did something similar, getting a very respectable 7–8th place finish. Last but certainly not least, **Japan** came close to the podium but secured an enviable 5–6th place.
 
