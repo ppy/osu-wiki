@@ -1,13 +1,20 @@
 ---
 tags:
+  - converted unstable rate
+  - converted UR
+  - cv UR
+  - cv. UR
+  - error
+  - hit error
+  - timing
+  - UR
   - анстейбл рейт
+  - анстейбл
   - разброс попаданий
-  - конв UR
-  - конв. UR
   - ошибка
   - ошибка попадания
   - тайминг
-  - UR
+  - ур
 ---
 
 # Разброс попаданий
