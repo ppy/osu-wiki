@@ -26,7 +26,7 @@ tags:
 
 ## Влияние модов, меняющих скорость
 
-Разброс попаданий подсчитывается по игровому времени [карты](/wiki/Beatmap), а не по реальному. Это значит, что [моды](/wiki/Gameplay/Game_modifier), меняющие скорость карты (к примеру [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) или [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)), будут умножать UR на коэффициент скорости.
+Разброс попаданий подсчитывается по игровому времени [карты](/wiki/Beatmap), а не по реальному. Это значит, что [моды](/wiki/Gameplay/Game_modifier), меняющие скорость карты (к примеру, [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) или [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)), будут умножать UR на коэффициент скорости.
 
 При сравнении записей игр с разными модами игроки обычно используют **конвертированный разброс попаданий** (англ. ***cv. UR***). Для этого UR делится на коэффициент скорости в записи игры:
 
