@@ -2,7 +2,7 @@
 layout: post
 title: "Outer Worlds Art Contest: Results"
 date: 2026-07-18 15:55:00
-series: art_contests
+series: fanart_contests
 ---
 
 The summer is in full reason and new artworks are ready to greet it!
