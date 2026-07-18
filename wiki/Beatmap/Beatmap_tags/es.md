@@ -63,7 +63,7 @@ Las siguientes tablas muestran todas las etiquetas de los usuarios agrupadas por
 | Nombre de la etiqueta | Descripción | Modo de juego |
 | :-- | :-- | :-- |
 | [streams/doubles](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fdoubles%22%22) | Mapas con patrones que requieren pulsar consecutivamente 2 grupos de notas. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [streams/quads](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fquads%22%22) | Mapas con patrones que requieren pulsar consecutivamente 2 grupos de notas. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [streams/quads](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fquads%22%22) | Mapas con patrones que requieren pulsar consecutivamente 4 grupos de notas. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [streams/bursts](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fbursts%22%22) | Mapas con patrones que requieren pulsar consecutivamente grupos de 5 a 9 notas. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [streams/stamina](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fstamina%22%22) | Mapas que ponen a prueba la habilidad del jugador para pulsar ritmos densos durante largos periodos de tiempo. | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | [streams/speed](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fspeed%22%22) | Mapas que requieren pulsaciones constantes a un BPM elevado. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
@@ -77,7 +77,7 @@ Las siguientes tablas muestran todas las etiquetas de los usuarios agrupadas por
 | :-- | :-- | :-- |
 | [tech/slider tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fslider%20tech%22%22) | Mapas que ponen a prueba los tipos de habilidades poco comunes de los sliders, como el uso intensivo de los kick sliders o la puntería en formas de sliders complejas. | ![][osu!] |
 | [tech/aim control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | Mapas que usan patrones con cambios de velocidad o dirección que van fuertemente en contra del patrón de movimiento natural del jugador. | ![][osu!] |
-| [tech/finger control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | Mapas que usan formas complejas de ritmos para poner a prueba la habilidad del jugador. | ![][osu!] |
+| [tech/finger control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Ffinger%20control%22%22) | Mapas que usan formas complejas de ritmos para poner a prueba la habilidad del jugador. | ![][osu!] |
 | [tech/complex snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fcomplex%20snap%22%22) | Mapas que incluyen un uso destacado de divisores de ritmo mixtos o inusuales. | ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [tech/antiflow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fantiflow%22%22) | Mapas centrados en fuertes cambios de dirección o velocidad que van en contra del patrón de movimiento natural del jugador. | ![][osu!catch] |
 | [tech/flow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fflow%22%22) | Mapas centrados en patrones de movimiento naturales e intuitivos. | ![][osu!catch] |
@@ -194,7 +194,7 @@ Las siguientes tablas muestran todas las etiquetas de los usuarios agrupadas por
 | [additions/combo colours](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcombo%20colours%22%22) | Mapas que ajustan los colores de los combos según las variaciones de la canción, también conocido como «colourhax». | ![][osu!] |
 | [additions/keysounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fkeysounds%22%22) | Mapas que contienen hitsounds que usan varias muestras con tono para crear una melodía, normalmente siguiendo una dentro de la canción. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [additions/custom skin](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | Mapas que usan skins con elementos y gráficos personalizados. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [additions/hitsounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | Mapas que usan conjuntos de muestras de hitsounds no predeterminados. | ![][osu!taiko] |
+| [additions/hitsounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fhitsounds%22%22) | Mapas que usan conjuntos de muestras de hitsounds no predeterminados. | ![][osu!taiko] |
 
 ### Mapas con etiquetas de información adicional
 

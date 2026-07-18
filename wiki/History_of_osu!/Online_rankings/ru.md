@@ -17,7 +17,7 @@ tags:
   - топ
   - ранг
 outdated_translation: true
-outdated_since: 47380e1c3c6a414c437cd093bf205643f0278ba6
+outdated_since: 2a0c531104dbb6550aa1d987fb3f15e3d817e740
 ---
 
 # История онлайн-ранкингов
@@ -30,11 +30,11 @@ outdated_since: 47380e1c3c6a414c437cd093bf205643f0278ba6
 
 *Основная статья: [История ранкингов osu!](osu!)*
 
-По состоянию на 3 августа 2024 года игрок №1 в [топе osu! по производительности](https://osu.ppy.sh/rankings/osu/performance) — ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
+По состоянию на 14 июня 2026 года игрок №1 в [топе osu! по производительности](https://osu.ppy.sh/rankings/osu/performance) — ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160/osu).
 
 ## ![][osu!taiko] osu!taiko
 
-По состоянию на 19 июня 2024 года игрок №1 в [топе osu!taiko по производительности](https://osu.ppy.sh/rankings/taiko/performance) — ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+По состоянию на 24 марта 2026 года игрок №1 в [топе osu!taiko по производительности](https://osu.ppy.sh/rankings/taiko/performance) — ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
 
@@ -42,7 +42,7 @@ outdated_since: 47380e1c3c6a414c437cd093bf205643f0278ba6
 
 ## ![][osu!mania] osu!mania
 
-По состоянию на 31 декабря 2024 года игрок №1 в [топе osu!mania по производительности](https://osu.ppy.sh/rankings/mania/performance) — ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
+По состоянию на 4 апреля 2026 года игрок №1 в [топе osu!mania по производительности](https://osu.ppy.sh/rankings/mania/performance) — ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -11,8 +11,6 @@ tags:
   - rango 1
   - "rango #1"
   - clasificaciones
-outdated_translation: true
-outdated_since: 7c48a74e319dbd88b51db644d66bdff85e67317e
 ---
 
 # Historial de las clasificaciones de osu!
@@ -291,11 +289,25 @@ Si bien se asumió que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) era e
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *8/4/2021* | 21/7/2024 | [\[1\]](https://web.archive.org/web/20210408052501/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[4\]](https://osu.ppy.sh/scores/osu/3584256449) [\[5\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[6\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
 | ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 21/7/2024 | 3/8/2024 | [\[1\]](https://web.archive.org/web/20240722000045/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://web.archive.org/web/20240721223116/https://osu.ppy.sh/users/9269034) [\[3\]](https://ameobea.me/osutrack/user/9MlCE/) [\[4\]](https://old.reddit.com/r/osugame/comments/1e8yf1a/akolibed_is_now_1_passing_mrekk/) [\[5\]](https://osu.ppy.sh/scores/3198116312) [\[6\]](https://old.reddit.com/r/osugame/comments/1e8yf30/9mlce_akolibed_xi_over_the_top_expert_tynamo_1035/) |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 3/8/2024 | Presente | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 3/8/2024 | *14/6/2026* | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
+
+## 2025
+
+| Jugador | Desde | Hasta | Fuentes |
+| --: | :-- | :-- | :-- |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *3/8/2024* | *14/6/2026* | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
+
+## 2026
+
+| Jugador | Desde | Hasta | Fuentes |
+| --: | :-- | :-- | :-- |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *3/8/2024* | 14/6/2026 | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 14/6/2026 | 11/7/2026 | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) [\[4\]](https://www.reddit.com/r/osugame/comments/1u5c8xl/cryshina_kardashev_cellar_of_ghosts_shoyeus_faint/) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 11/7/2026 | Presente | [\[1\]](https://web.archive.org/web/20260711064234/https://osu.ppy.sh/rankings/osu/global/performance) [\[2\]](https://web.archive.org/web/20260711130813/https://osu.ppy.sh/users/14715160/osu) [\[3\]](https://web.archive.org/web/20260711125753/https://osu.ppy.sh/users/7562902/osu) [\[4\]](https://www.reddit.com/r/osugame/comments/1uta8q2/mrekk_is_now_1_global/) |
 
 ## Número de reinados
 
-Lo siguiente es una lista del número total de veces que un jugador ha alcanzado el puesto #1 en su tiempo de juego (al 8 de agosto de 2024).
+Lo siguiente es una lista del número total de veces que un jugador ha alcanzado el puesto #1 en su tiempo de juego (al 11 de julio de 2026).
 
 | Jugador | Reinado |
 | --: | :-: |
@@ -317,13 +329,14 @@ Lo siguiente es una lista del número total de veces que un jugador ha alcanzado
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 4 |
 | ::{ flag=PL }:: [Kubu](https://osu.ppy.sh/users/29130) | 4 |
 | ::{ flag=JP }:: [tobebuta](https://osu.ppy.sh/users/14053) | 4 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 3 |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | 3 |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 2 |
 | ::{ flag=TW }:: [Uan](https://osu.ppy.sh/users/147623) | 2 |
 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) | 2 |
 | ::{ flag=CN }:: [5231_Kinoko](https://osu.ppy.sh/users/181057) | 1 |
 | ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 1 |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 1 |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 1 |
 | ::{ flag=TW }:: [f0012979](https://osu.ppy.sh/users/12143) | 1 |
 | ::{ flag=JP }:: [Flute](https://osu.ppy.sh/users/211278) | 1 |
@@ -341,11 +354,11 @@ Lo siguiente es una lista del número total de veces que un jugador ha alcanzado
 
 *Nota: El reinado actual del puesto #1 está excluido.*
 
-Lo siguiente es una lista de la cantidad total de días que un jugador ha ocupado el puesto #1 (al 8 de agosto de 2024).
+Lo siguiente es una lista de la cantidad total de días que un jugador ha ocupado el puesto #1 (al 11 de julio de 2026).
 
 | Jugador | Duración (días) |
 | --: | :-: |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 1200 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 1880 |
 | ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) | 967 |
 | ::{ flag=TW }:: [hvick225](https://osu.ppy.sh/users/50265) | 578 |
 | ::{ flag=DE }:: [WhiteCat](https://osu.ppy.sh/users/4504101) | 550 |
@@ -370,6 +383,7 @@ Lo siguiente es una lista de la cantidad total de días que un jugador ha ocupad
 | ::{ flag=KR }:: [Reimu-Desu](https://osu.ppy.sh/users/948713) | 35 |
 | ::{ flag=AU }:: [eyup](https://osu.ppy.sh/users/88) | 33 |
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 33 |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 27 |
 | ::{ flag=US }:: [Rolled](https://osu.ppy.sh/users/5243) | 27 |
 | ::{ flag=KR }:: [Sure](https://osu.ppy.sh/users/70730) | 26 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 20 |
@@ -387,11 +401,12 @@ Lo siguiente es una lista de la cantidad total de días que un jugador ha ocupad
 
 *Nota: Solo se incluyen los reinados de más de 100 días. El actual reinado del puesto #1 está excluido.*
 
-Lo siguiente es una lista de los días consecutivos más largos que un jugador ha ocupado el puesto #1 (al 8 de agosto de 2024).
+Lo siguiente es una lista de los días consecutivos más largos que un jugador ha ocupado el puesto #1 (al 11 de julio de 2026).
 
 | Jugador | Desde | Hasta | Duración del reinado (días) |
 | --: | :-- | :-- | :-: |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 8/4/2021 | 21/7/2024 | 1200 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 3/8/2024 | 14/6/2026 | 680 |
 | ::{ flag=DE }:: [WhiteCat](https://osu.ppy.sh/users/4504101) | 6/10/2019 | 8/4/2021 | 550 |
 | ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) | 23/10/2016 | 21/1/2018 | 455 |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | 23/12/2007 | 6/9/2008 | 258 |
