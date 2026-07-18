@@ -1,6 +1,6 @@
 # Wettbewerbspunkte
 
-**Wettbewerbspunkte** sind Punkte, die eine Belohnung in offiziellen Mapping-Wettbewerben darstellen. Nutzer, die **6 Punkte** angesammelt haben, bekommen möglicherweise den Titel *Elite Mapper* verliehen. Den Titel *Elite Mapper II* erlangen Überflieger mit 12 Punkten!
+**Wettbewerbspunkte** sind Punkte, die eine Belohnung in offiziellen Mapping-Wettbewerben darstellen. Nutzer, die **6 Punkte** angesammelt haben, bekommen den Titel *Elite Mapper* verliehen. Den Titel *Elite Mapper II* erlangen Überflieger mit 12 Punkten!
 
 Wettbewerbspunkte können unter [bestimmten Bedingungen](/wiki/Contests/Official_support#förderungsanspruch) auch als Auszeichnung im Rahmen der [offiziellen Unterstützung für Mapping-Wettbewerbe](/wiki/Contests/Official_support) vergeben werden.
 
@@ -203,4 +203,4 @@ Vor Oktober 2022 gab es Wettbewerbspunkte nur im [Monthly Beatmapping Contest](/
 
 Seit Januar 2023 ist der Anspruch auf Wettbewerbspunkte in der [Punktevergabe](#punktevergabe) ersichtlich. Zuvor gesammelte Punkte bleiben von dieser Änderung unberührt.
 
-Mit dem Ende des [Monthly Beatmapping Contest im August 2025](https://osu.ppy.sh/home/news/2025-08-06-monthly-beatmapping-contest-august-2025) stand fest, dass [fowwo](https://osu.ppy.sh/users/4547551) 12 Wettbewerbspunkte erzielt hatte. Um kontinuierliche Erfolge in Wettbewerben zu belohnen, gab man Nutzern, die den neuen Grenzwert erreichen, danach den Titel *Elite Mapper II*.
+Zum Ende des [Monthly Beatmapping Contest im August 2025](https://osu.ppy.sh/home/news/2025-08-06-monthly-beatmapping-contest-august-2025) hatte [fowwo](https://osu.ppy.sh/users/4547551) 12 Wettbewerbspunkte erzielt. Um kontinuierliche Erfolge in Wettbewerben zu belohnen, wird Nutzern, die den neuen Grenzwert erreichen, seitdem der Titel *Elite Mapper II* verliehen.
