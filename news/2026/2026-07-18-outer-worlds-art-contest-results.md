@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Outer Worlds Art Contest: Results"
-date: 2026-07-18 14:50:00
+date: 2026-07-18 15:00:00
 series: art_contests
 ---
 
