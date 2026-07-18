@@ -25,10 +25,10 @@ osu!(lazer) has the [OpenTabletDriver](https://opentabletdriver.net/) built-in. 
 | XOffset | The X offset of the center of the area in millimeters |
 | YOffset | The Y offset of the center of the area in millimeters |
 | LPI | Lines per inch, commonly 5080 or 2540 |
-| TWidth[^TWidth] | The width of the tablet's digitiser in millimeters |
-| THeight[^THeight] | The height of the tablet's digitiser in millimeters |
-| THorizontal[^THorizontal] | The width of the tablet's digitiser in number of lines |
-| TVertical[^TVertical] | The height of the tablet's digitiser in number of lines |
+| TWidth[^Tablet_Dimensions] | The width of the tablet's digitiser in millimeters |
+| THeight[^Tablet_Dimensions] | The height of the tablet's digitiser in millimeters |
+| THorizontal[^Tablet_Dimensions] | The width of the tablet's digitiser in number of lines |
+| TVertical[^Tablet_Dimensions] | The height of the tablet's digitiser in number of lines |
 
 ## Conversion
 
@@ -108,7 +108,4 @@ YOffset = (GaomonY / TVertical)   * THeight + (Height / 2)
 
 ## References 
 
-[^TWidth]: TWidth can be found in the tablet's configuration file.
-[^THeight]: THeight can be found in the tablet's configuration file.
-[^THorizontal]: THorizontal can be found in the tablet's configuration file.
-[^TVertical]: TVertical can be found in the tablet's configuration file.
+[^Tablet_Dimensions]: TWidth, THeight, THorizontal, TVertical are all found within the tablet's configuration file.
