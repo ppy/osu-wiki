@@ -5,7 +5,7 @@ date: 2026-07-20 14:00:00 +0000
 series: world_cups
 ---
 
-One last weekend with platter-filling gameplay and the osu!catch World Cup has officially concluded!
+One last weekend with platter-filling gameplay of the osu!catch World Cup has officially come to an end!
 
 ![](/wiki/shared/news/2026-07-20-osucatch-world-cup-2026-concludes/banner.jpg)
 
@@ -15,11 +15,11 @@ Another thrilling year of watching fruits fall comes to a close. Want to find ou
 
 ![](/wiki/Tournaments/CWC/2026/img/cwc2026-podium.jpg)
 
-The Sol de Mayo has risen in the early morning in the sky, which can only mean one thing... **Argentina** is our champion of the osu!catch World Cup 2026! Their second consecutive title, earned with a 7–4 victory over runner-up **Poland**, who achieved their best historical placement in the tournament. Bronze medalists **France** secured their first podium after many close-calls, although close to tasting silver if it hadn't been for **Poland**'s thrilling comeback in a match that ended 7–5.
+The Sol de Mayo has risen in the early morning in the sky, which can only mean one thing... **Argentina** is our champion of the osu!catch World Cup 2026! This was their second consecutive title, earned with a 7–4 victory over runner-up **Poland**, who in turn achieved their best historical placement in the tournament. Bronze medalists **France** secured their first podium after many close calls, although they were close to tasting silver if it hadn't been for **Poland**'s thrilling comeback in a match that ended 7–5.
 
-Other countries also managed to reach new highs, starting with **Greece** and **Lithuania**, who managed to qualify for the catch World Cup for the first time. **Portugal** reached the 17-24th place with their very first victory in a CWC and the **United Kingdom** climbed up to 9-12th place. **Belgium** did similar, getting a very respectable 7-8th place finish. And last but certainly not least, **Japan** came close to the podium but secured an enviable 5-6th place.
+Other countries also managed to reach new highs, starting with **Greece** and **Lithuania**, who managed to qualify for the osu!catch World Cup for the first time. **Portugal** reached the 17–24th place with their very first victory in a CWC tournament and the **United Kingdom** climbed up to 9–12th place. **Belgium** did something similar, getting a very respectable 7–8th place finish. Last but certainly not least, **Japan** came close to the podium but secured an enviable 5–6th place.
 
-Want to know how the Grand Finals match played out, read on to find out. First things first though, we have the phenomenal sounds of the osu!catch World Cup 2026 to listen to.
+If you want to know how the Grand Finals match played out, read on to find out. First things first though, we have the phenomenal sounds of the osu!catch World Cup 2026 to listen to.
 
 ## osu! originals
 
@@ -39,7 +39,7 @@ For all the cool cats out there, [0 k](https://osu.ppy.sh/beatmaps/artists/424) 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/rmh_ZLsqIiI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-One of our most seasoned featured artists in the osu! original space, [seatrus](https://osu.ppy.sh/beatmaps/artists/185) creates their 5th track for osu!, [Tabula Rasa](https://osu.ppy.sh/beatmapsets/2569980#fruits/5719035). Traveling to a desert and bringing the heat with another classic hardcore track to add to the listings. [Zileni](https://osu.ppy.sh/users/23525574) evolving from their previous technical map of [Deglaciation](https://osu.ppy.sh/beatmapsets/2395287#fruits/5188086) from last year, we can see even better technical elements come from them in this amazing map.
+One of our most seasoned featured artists in the osu! original space, [seatrus](https://osu.ppy.sh/beatmaps/artists/185) creates their 5th track for osu!, [Tabula Rasa](https://osu.ppy.sh/beatmapsets/2569980#fruits/5719035), traveling to a desert and bringing the heat with another classic hardcore track to add to the listings. [Zileni](https://osu.ppy.sh/users/23525574) evolving from their previous technical map of [Deglaciation](https://osu.ppy.sh/beatmapsets/2395287#fruits/5188086) from last year, we can see even better technical elements come from them in this amazing map.
 
 ---
 
@@ -55,7 +55,7 @@ One of our most seasoned featured artists in the osu! original space, [seatrus](
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/vixE5yuKg3M" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[Link"0](https://osu.ppy.sh/beatmaps/artists/551) reveals themselves to our featured artist listing through their new track [M0nica](https://osu.ppy.sh/beatmapsets/2573434#fruits/5729516), with a new character to match! They are showcasing their ambient artcore skills with a nice acoustic guitar to accompany it. [Bunnrei](https://osu.ppy.sh/users/829284) mapping this track for the Hard Rock pool causes the map to keep you on your toes with a very "wide" style and plenty of Hard Rock patterns to master.
+[Link"0](https://osu.ppy.sh/beatmaps/artists/551) reveals themselves to our Featured Artist listing through their new track [M0nica](https://osu.ppy.sh/beatmapsets/2573434#fruits/5729516), with a new character to match! They are showcasing their ambient artcore skills with a nice accompanying acoustic guitar. [Bunnrei](https://osu.ppy.sh/users/829284) mapping this track for the Hard Rock pool causes the map to keep you on your toes with a very "wide" style and plenty of Hard Rock patterns to master.
 
 ---
 
@@ -63,7 +63,7 @@ One of our most seasoned featured artists in the osu! original space, [seatrus](
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/se7E5OW_Lao" frameborder="0" allowfullscreen></iframe>
 </div>
 
-osucart YEAH!!!!!!!!! I mean– [Sylvir](https://osu.ppy.sh/beatmaps/artists/8) makes their first original for osu! with [Etiolan Highway](https://osu.ppy.sh/beatmapsets/2573446#fruits/5729534), a direct sequal to their previous *ILLUSTRIOUS DRIFTERS*. This time, they introduced the new challenger "Alba", as her and the other racers compete to become the first ever winners of "Classic wheels world championship". This track will leave you aurora-spinning with a combination of funk, neurobass, and rock elements.
+osucart YEAH!!!!!!!!! I mean— [Sylvir](https://osu.ppy.sh/beatmaps/artists/8) makes their first original for osu! with [Etiolan Highway](https://osu.ppy.sh/beatmapsets/2573446#fruits/5729534), a direct sequel to their previous song *ILLUSTRIOUS DRIFTERS*. This time, they introduced the new challenger "Alba", as her and the other racers compete to become the first ever winners of the "Classic wheels world championship". This track will leave you Aurora-spinning with a combination of funk, neurobass, and rock elements.
 
 ---
 
@@ -71,7 +71,7 @@ osucart YEAH!!!!!!!!! I mean– [Sylvir](https://osu.ppy.sh/beatmaps/artists/8) 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Fy9cC870fpM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-One of the most unique experiences any human could ever witness in a lifetime. What does a nuclear meltdown look like? Or in our case– what does it sound like!? Our [Semifinals Tiebreaker](https://osu.ppy.sh/beatmapsets/2573473#fruits/5729598) gives us the story of radium being created as a direct result of this meltdown with an amazing storyboard, showcasing the results of the meltdown. [Mrbinking](https://osu.ppy.sh/users/6492475) implements an abundance of skillsets that get tested throughout every single section of our journey, providing a massive amount of content for anyone who dares to learn more about radium.
+One of the most unique experiences any human could ever witness in a lifetime. What does a nuclear meltdown look like? Or in our case– what does it sound like!? Our [Semifinals tiebreaker](https://osu.ppy.sh/beatmapsets/2573473#fruits/5729598) gives us the story of radium being created as a direct result of this meltdown with an amazing storyboard, showcasing the results of the meltdown. [Mrbinking](https://osu.ppy.sh/users/6492475) implements an abundance of skill sets that get tested throughout every single section of our journey, providing a massive amount of content for anyone who dares to learn more about radium.
 
 ### Finals
 
@@ -87,7 +87,7 @@ The time we all have is limited. [zxnx](https://osu.ppy.sh/beatmaps/artists/288)
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dL4Lccvsow4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204) is a very familiar face within osu!. EGCS has helped to make them one of the most popular featured artists within the space, and now *DJ Raisei* has created their 4th ever original for a World Cup. With heavenly vocals from Kasane Teto, [Ginkyo Sekai](https://osu.ppy.sh/beatmapsets/2577241#fruits/5741418) delivers an extremely powerful hardcore neurobass track that manages to keep an epic aptmosphere while watching their very own character adventure through a distant world. [-Ken](https://osu.ppy.sh/users/4430811) bears the difficult task of providing a map for such a journey and he did not disappoint. We are given a technical masterclass with plenty of streams and insane doubles to test players in the second to last round of the World Cup.
+[DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204) is a very familiar face within osu!. EGCS has helped to make them one of the most popular featured artists within the space, and now *DJ Raisei* has created their 4th ever original for a World Cup. With heavenly vocals from Kasane Teto, [Ginkyo Sekai](https://osu.ppy.sh/beatmapsets/2577241#fruits/5741418) delivers an extremely powerful hardcore neurobass track that manages to keep an epic aptmosphere while watching their very own character adventure through a distant world. [-Ken](https://osu.ppy.sh/users/4430811) bears the difficult task of providing a map for such a journey, and he did not disappoint. We are given a technical masterclass with plenty of streams and insane doubles to test players in the second-to-last round of the World Cup.
 
 ### Grand Finals
 
@@ -117,9 +117,9 @@ The time we all have is limited. [zxnx](https://osu.ppy.sh/beatmaps/artists/288)
 
 Coming into the Quarterfinals without conceding a single point in their Round of 32 and Round of 16 matches, France and Japan faced each other for the second consecutive year in the World Cup in a matchup that was anything but predictable. The unfortunate absence of ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) for France leveled the head-to-head between two nations fighting to remain in the winners' bracket.
 
-One year earlier both teams had met in the losers' semifinals, where France won no fewer than seven points in a row after the Japanese had taken the first point of the match. This year Japan once again started with a point advantage by winning their [HR2](https://osu.ppy.sh/beatmapsets/2570027#fruits/5719194) pick. But after three consecutive points from France, which included Japan's protect, history seemed to repeat itself. Japan's [DT2](https://osu.ppy.sh/beatmapsets/2569995#fruits/5719081) pick narrowed the gap, though France took a semi-safe two-point lead with [MX1](https://osu.ppy.sh/beatmapsets/2570009#fruits/5719120). At 4–2, no one could have imagined that that would be the last point won.
+One year earlier both teams had met in the losers' Semifinals, where France won no fewer than seven points in a row after the Japanese had taken the first point of the match. This year Japan once again started with a point advantage by winning their [HR2](https://osu.ppy.sh/beatmapsets/2570027#fruits/5719194) pick, but after three consecutive points from France, which included Japan's protect, history seemed to repeat itself. Japan's [DT2](https://osu.ppy.sh/beatmapsets/2569995#fruits/5719081) pick narrowed the gap, though France took a semi-safe two-point lead with [MX1](https://osu.ppy.sh/beatmapsets/2570009#fruits/5719120). At 4–2, no one could have imagined that that would be the last point won.
 
-Despite two back to back FCs by ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) on both [DT1](https://osu.ppy.sh/beatmapsets/2569994#fruits/5719078) and [HR1](https://osu.ppy.sh/beatmapsets/2569990#fruits/5719066), Japan tied the match. They then managed to reach matchpoint on their HR3 pick, forcing a tiebreaker should they lose the next pick. In the end, after a chaos of heart-stopping misses in the closing moments of [HD3](https://osu.ppy.sh/beatmapsets/2570058#fruits/5719264), a final banana shower tipped the balance in Japan's favour by a mere thousand points. Now finally one year later, with a remarkable comeback, Japan gained their revenge against the very same country that had eliminated them from the tournament in 2025.
+Despite two back-to-back FCs by ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) on both [DT1](https://osu.ppy.sh/beatmapsets/2569994#fruits/5719078) and [HR1](https://osu.ppy.sh/beatmapsets/2569990#fruits/5719066), Japan tied the match. They then managed to reach match point on their HR3 pick, forcing a tiebreaker should they lose the next pick. In the end, after a chaos of heart-stopping misses in the closing moments of [HD3](https://osu.ppy.sh/beatmapsets/2570058#fruits/5719264), a final banana shower tipped the balance in Japan's favour by a mere thousand points. Now finally one year later, with a remarkable comeback, Japan gained their revenge against the very same country that had eliminated them from the tournament in 2025.
 
 ### Semifinals: ::{ flag=DE }:: Germany vs. ::{ flag=BE }:: Belgium
 
@@ -131,9 +131,9 @@ Despite two back to back FCs by ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/us
 
 One of the most anticipated matches during week 5 of this tournament was Germany and Belgium. The two European countries who qualified to their best recorded seedings yet, now fated to face against each other to see who can ascend higher and carve themselves deeper into the final results. Germany is considered as favourites coming into this match due to the amount of talented players in their roster. However, this is one of the most impressive matches that happened, not only in Semifinals, but in the entirety of the tournament.
 
-The beginning of the match looked very one-sided. In the first 6 maps, Belgium managed to win 5, losing only [HD2](https://osu.ppy.sh/beatmapsets/2573438#fruits/5729520) picked by Germany. With a 5-1 score lead by Belgium, the Germans would unexpectedly start a comeback with [MX2](https://osu.ppy.sh/beatmapsets/2573449#fruits/5729541) but lost [NM4](https://osu.ppy.sh/beatmapsets/2573579#fruits/5729943) with a 27,330 points lead by Belgium in the process. Despite a guaranteed tiebreaker decider and a potential series win for Belgium, ::{ flag=DE }:: [Marvmallow](https://osu.ppy.sh/users/8403032) suddenly became a bastion for Germany, showing excellence in the [DT1](https://osu.ppy.sh/beatmapsets/2573436#fruits/5729518) and [HR1](https://osu.ppy.sh/beatmapsets/2573502#fruits/5729735) maps by setting a full combo in the lobby. It looked like a tiebreaker was needed to decide the winner but their miracle would end abrubtly, as Germany would lose [NM2](https://osu.ppy.sh/beatmapsets/2573448#fruits/5729539) in the last quarter of the map and Belgium, with a full combo by ::{ flag=BE }:: [ElSkeffe](https://osu.ppy.sh/users/6283136), would win the match, ending Germany's comeback.
+The beginning of the match looked very one-sided. In the first 6 maps, Belgium managed to win 5, losing only [HD2](https://osu.ppy.sh/beatmapsets/2573438#fruits/5729520) picked by Germany. With a 5–1 score lead by Belgium, the Germans would unexpectedly start a comeback with [MX2](https://osu.ppy.sh/beatmapsets/2573449#fruits/5729541) but lost [NM4](https://osu.ppy.sh/beatmapsets/2573579#fruits/5729943) with a 27,330-point lead by Belgium in the process. Despite a guaranteed tiebreaker decider and a potential series win for Belgium, ::{ flag=DE }:: [Marvmallow](https://osu.ppy.sh/users/8403032) suddenly became a bastion for Germany, showing excellence in the [DT1](https://osu.ppy.sh/beatmapsets/2573436#fruits/5729518) and [HR1](https://osu.ppy.sh/beatmapsets/2573502#fruits/5729735) maps by setting a full combo in the lobby. It looked like a tiebreaker was needed to decide the winner, but their miracle would end abruptly, as Germany lost [NM2](https://osu.ppy.sh/beatmapsets/2573448#fruits/5729539) in the last quarter of the map and Belgium, with a full combo by ::{ flag=BE }:: [ElSkeffe](https://osu.ppy.sh/users/6283136), ended up winning the match and ending Germany's comeback.
 
-Though Belgium would lose agaist France later, they would still remain proud of their result as this is the first time they managed to reach 7-8th place in CWC. Previously, their best run was 9-12th place back in 2023.
+Though Belgium would lose against France later, they would still remain proud of their result, because this is the first time they managed to reach 7–8th place in CWC. Previously, their best run was 9–12th place back in 2023.
 
 ### Finals: ::{ flag=PL }:: Poland vs. ::{ flag=AR }:: Argentina
 
@@ -143,13 +143,13 @@ Though Belgium would lose agaist France later, they would still remain proud of 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2812856522" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-For the past 2 years, these two countries have conquered the podiums, and one of them even won the tournament a year ago. Reaching the podium for the second time, Poland would face Argentina, the defending champion. These countries have solidified themselfes as two of the strongest countries in the osu!catch scene thusfar, now facing against one another to move on to the Grand Finals from the winner's bracket.
+For the past 2 years, these two countries have conquered the podiums, and one of them even won the tournament a year ago. Reaching the podium for the second time, Poland faced Argentina, the defending champion. These countries have solidified themselves as two of the strongest countries in the osu!catch scene thus far, now facing against one another to move on to the Grand Finals from the winners' bracket.
 
-The match began with a crushing [MX2](https://osu.ppy.sh/beatmapsets/2577289#fruits/5741503) loss from Poland, but then comes [HD3](https://osu.ppy.sh/beatmapsets/2577246#fruits/5741424), marking the start of many close maps in point difference. On [HD3](https://osu.ppy.sh/beatmapsets/2577246#fruits/5741424), a 214 point difference would occur in favour of Argentina, the closest point difference in the finals bracket, with two full-combo runs by ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) and ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462) respectively.
+The match began with a crushing [MX2](https://osu.ppy.sh/beatmapsets/2577289#fruits/5741503) loss from Poland, but then came [HD3](https://osu.ppy.sh/beatmapsets/2577246#fruits/5741424), marking the start of many close maps in point difference. On [HD3](https://osu.ppy.sh/beatmapsets/2577246#fruits/5741424), a 214-point difference would occur in favour of Argentina, the closest call in the Finals bracket, with two full-combo runs by ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) and ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462) respectively.
 
 After a quick trade of picks between the two titans, Poland's fortune would help them by winning [DT4](https://osu.ppy.sh/beatmapsets/2577216#fruits/5741367) and [NM5](https://osu.ppy.sh/beatmapsets/2577193#fruits/5741311) with another close point. However, Argentina would win two No Mod maps, [NM3](https://osu.ppy.sh/beatmapsets/2577212#fruits/5741355) and [NM2](https://osu.ppy.sh/beatmapsets/2577189#fruits/5741306). Poland would win [HD2](https://osu.ppy.sh/beatmapsets/2577146#fruits/5741203) and [NM4](https://osu.ppy.sh/beatmapsets/2577190#fruits/5741307) after having yet another short series of close maps.
 
-With two maps remaining before the tiebreaker, Poland picked [HR3](https://osu.ppy.sh/beatmapsets/2577208#fruits/5741349). However, it wound not go in Poland's favour. Argentina would win the opposing pick with a 6,242 point lead and would win out the match by picking [NM1](https://osu.ppy.sh/beatmapsets/2577199#fruits/5741320) and getting a very strong team score.
+With two maps remaining before the tiebreaker, Poland picked [HR3](https://osu.ppy.sh/beatmapsets/2577208#fruits/5741349), yet it wound not go in Poland's favour. Argentina won the opposing pick with a 6,242-point lead and then won out the match by picking [NM1](https://osu.ppy.sh/beatmapsets/2577199#fruits/5741320) and getting a very strong team score.
 
 ### Grand Finals: ::{ flag=AR }:: Argentina vs. ::{ flag=PL }:: Poland
 
@@ -159,11 +159,11 @@ With two maps remaining before the tiebreaker, Poland picked [HR3](https://osu.p
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2818377183" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-Both Argentina and Poland offered fruits, sweat and tears in an arduous journey to the summit. But only one could claim victory in the end. In one corner, Argentina, the four-man yet all-rounder team, aspiring to win their second trophy. In the other, Poland, with their most dominant team ever, eager for revenge after the 7–5 defeat in Finals and hungry for another victory after a comeback against France in the losers' Final.
+Both Argentina and Poland offered fruits, sweat and tears in an arduous journey to the summit, but only one could claim victory in the end. In one corner, Argentina, the four-man yet all-rounder team, aspiring to win their second trophy. In the other, Poland, with their most dominant team ever, eager for revenge after the 7–5 defeat in Finals and hungry for another victory after a comeback against France in the losers' Final.
 
-Argentina did not wait to show their worth, opening with a break point on Poland's [HD3](https://osu.ppy.sh/beatmapsets/2581070#fruits/5752994). They followed it up by chaining together three more points with their own [DT1](https://osu.ppy.sh/beatmapsets/2581179#fruits/5753318) and [DT3](https://osu.ppy.sh/beatmapsets/2581081#fruits/5753012) picks and another break point on the Polish [NM5](https://osu.ppy.sh/beatmapsets/2581068#fruits/5752992) pick. Poland managed to snatch the momentum back with [MX2](https://osu.ppy.sh/beatmapsets/2581126#fruits/5753099) (perhaps the 4–1 curse would come true again). But Argentina hit back by picking their protect, [NM1](https://osu.ppy.sh/beatmapsets/2581065#fruits/5752986), a map infamous for its exhausting wiggles. Here we experienced the match's standout moment: an Argentine victory by more than one million points.
+Argentina did not wait to show their worth, opening with a break point on Poland's [HD3](https://osu.ppy.sh/beatmapsets/2581070#fruits/5752994). They followed it up by chaining together three more points with their own [DT1](https://osu.ppy.sh/beatmapsets/2581179#fruits/5753318) and [DT3](https://osu.ppy.sh/beatmapsets/2581081#fruits/5753012) picks and another break point on the Polish [NM5](https://osu.ppy.sh/beatmapsets/2581068#fruits/5752992) pick. Poland managed to snatch the momentum with [MX2](https://osu.ppy.sh/beatmapsets/2581126#fruits/5753099) (perhaps the 4–1 curse would come true again), but Argentina hit right back by picking their protect, [NM1](https://osu.ppy.sh/beatmapsets/2581065#fruits/5752986), a map infamous for its exhausting wiggles. Here we experienced the match's standout moment: an Argentine victory by more than one million points.
 
-Poland's protect worked as expected as they immediately won their [HD2](https://osu.ppy.sh/beatmapsets/2581066#fruits/5752988) right after, the team's signature pick. Here we saw ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462) doing *Phob* things, scoring 985k on the AR8 map. Off the back of that, [NM2](https://osu.ppy.sh/beatmapsets/2581056#fruits/5752968) made it 6–2, giving Argentina the tournament point. However, it took three more maps to reach the final map of the match thanks to Polish wins on [DT4](https://osu.ppy.sh/beatmapsets/2581125#fruits/5753098) and [MX1](https://osu.ppy.sh/beatmapsets/2581082#fruits/5753015). Poland's crucial pick to either get them to tiebreaker or cost them the match was [HD1](https://osu.ppy.sh/beatmapsets/2581063#fruits/5752984). ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) scored an impressive 996k with a single miss, followed by ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462) with an equally impressive 983k. Sadly, it was not enough. The scoreline ended up in Argentina's favour and thus, Argentina wrote history by securing their second Coronación de Gloria — the only country alongside South Korea to win two consecutive CWCs.
+Poland's protect worked as expected as they immediately won their [HD2](https://osu.ppy.sh/beatmapsets/2581066#fruits/5752988) right after, the team's signature pick. Here we saw ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462) doing *Phob* things, scoring 985k on the AR 8 map. Off the back of that, [NM2](https://osu.ppy.sh/beatmapsets/2581056#fruits/5752968) made it 6–2, giving Argentina the tournament point. However, it took three more maps to reach the final map of the match thanks to Polish wins on [DT4](https://osu.ppy.sh/beatmapsets/2581125#fruits/5753098) and [MX1](https://osu.ppy.sh/beatmapsets/2581082#fruits/5753015). Poland's crucial pick to either get them to tiebreaker or cost them the match was [HD1](https://osu.ppy.sh/beatmapsets/2581063#fruits/5752984). ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) scored an impressive 996k with a single miss, followed by ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462) with an equally impressive 983k. Sadly, it was not enough. The scoreline ended up in Argentina's favour, and thus Argentina wrote history by securing their second Coronación de Gloria — the only country alongside South Korea to win two consecutive CWCs.
 
 ### Other match highlights
 
@@ -178,7 +178,7 @@ We would have loved to cover more matches for you, but some are best experienced
 | ::{ flag=CA }:: Canada vs. United States ::{ flag=US }:: | Quarterfinals | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2801421242) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121367320) |
 | ::{ flag=CN }:: China vs. Indonesia ::{ flag=ID }:: | Semifinals | [![Twitch VOD](/wiki/shared/link/Twitch.png)](https://www.twitch.tv/videos/2806632934) [![MP Link](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121407523) |
 
-## Tournament Statistics
+## Tournament statistics
 
 With so many scores set and so many matches played, there were many players who left a lasting impression. Below you can find the interesting stats we compiled from these impressive feats:
 
@@ -266,7 +266,7 @@ More in-depth statistics for every round can be found in the [stats folder](http
 
 ![Designers](/wiki/shared/news/2026-07-20-osucatch-world-cup-2026-concludes/Design-interview.png)
 
-Many noticed the semifinals tiebreaker song is themed around the radioactive element radium, combining scientific concepts with animated abstract and glitch-style visuals. It also marks the second animated graphic design collaboration within the World Cup Design Team, following [Vacant Rhapsody](https://www.youtube.com/watch?v=G9JdmWW5BsQ) by [penoreri](https://osu.ppy.sh/beatmaps/artists/526), which debuted in this year's [MWC 7K](/wiki/Tournaments/MWC/2026_7K) and later appeared in this year's [CWC Qualifiers](https://osu.ppy.sh/beatmapsets/2558834#fruits/5685705). We're now sitting down with designers from graphic design, storyboard, and visual effects to talk about how they brought these ideas together into a cohesive visual experience.
+Many noticed the Semifinals tiebreaker song is themed around the radioactive element radium, combining scientific concepts with animated abstract and glitch-style visuals. It also marks the second animated graphic design collaboration within the World Cup Design Team, following [Vacant Rhapsody](https://www.youtube.com/watch?v=G9JdmWW5BsQ) by [penoreri](https://osu.ppy.sh/beatmaps/artists/526), which debuted in this year's [MWC 7K](/wiki/Tournaments/MWC/2026_7K) and later appeared in this year's [CWC Qualifiers](https://osu.ppy.sh/beatmapsets/2558834#fruits/5685705). We're now sitting down with the people behind the graphic design, storyboard, and visual effects to talk about how they brought these ideas together into a cohesive visual experience.
 
 <div class="news-chat-quote__text-container">
 
@@ -372,7 +372,7 @@ The variety within projects like these is a large part of what makes them so app
 
 ![Boltico](/wiki/shared/news/2026-07-20-osucatch-world-cup-2026-concludes/Boltico-interview.png)
 
-Boltico, Peru's #1 osu!catch player and an osu!catch expert for over 10 years, made their catch World Cup staff debut this year. Throughout the tournament, he stood out as one of the  most active  staff members, contributing extensively behind the scenes.
+Boltico, Peru's #1 osu!catch player and an osu!catch expert for over 10 years, made their osu!catch World Cup staff debut this year. Throughout the tournament, he stood out as one of the most active staff members, contributing extensively behind the scenes.
 
 <div class="news-chat-quote__text-container">
 
@@ -428,7 +428,7 @@ I don't really have a favorite music genre, especially since some songs can't be
 
 ![Natsuko](/wiki/shared/news/2026-07-20-osucatch-world-cup-2026-concludes/Natsuko-interview.png)
 
-Natsuko, France's #1 osu!catch player, and also Beatmap Nominator, managed to secure France's first podium finish with a strong 3rd place finish alongside their teammates, thereby proving why France was considered one of the tournaments' most fearsome teams.
+Natsuko, France's #1 osu!catch player, and also Beatmap Nominator, managed to secure France's first podium finish with a strong 3rd-place finish alongside their teammates, thereby proving why France was considered one of the tournaments' most fearsome teams.
 
 <div class="news-chat-quote__text-container">
 
