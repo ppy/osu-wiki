@@ -63,7 +63,7 @@
 | Название тега | Описание | Режим |
 | :-- | :-- | :-- |
 | [streams/doubles](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fdoubles%22%22) | Паттерны с идущими подряд группами из 2 нот. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [streams/quads](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fquads%22%22) | Паттерны с идущими подряд группами из 4 нот. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [streams/quads](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fquads%22%22) | Паттерны с идущими подряд группами из 2 нот. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [streams/bursts](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fbursts%22%22) | Паттерны с идущими подряд группами от 5 до 9 нот. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [streams/stamina](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fstamina%22%22) | Проверка умения игрока проходить плотные, насыщенные ритмы в течение долгого времени. | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | [streams/speed](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fspeed%22%22) | Карты с постоянным таппингом на высоких BPM. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
