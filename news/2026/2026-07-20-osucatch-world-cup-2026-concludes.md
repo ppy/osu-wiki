@@ -23,7 +23,7 @@ If you want to know how the Grand Finals match played out, read on to find out. 
 
 ## osu! originals
 
-As is usual with World Cups, we have had the pleasure of working with various artists to produce some amazing music. But that's not all, the design team once more went all out to produce some absolute masterpieces for us this year as well. It's visual and auditory stimulation providing an experience like no other. Please make sure to give these 10 certified bangers a listen! 
+As is usual with World Cups, we have had the pleasure of working with various artists to produce some amazing music. But that's not all, the design team once more went all out to produce some absolute masterpieces for us this year as well. It's visual and auditory stimulation, providing an experience like no other. Please make sure to give these 10 certified bangers a listen! 
 
 ### Round of 16
 
@@ -31,7 +31,7 @@ As is usual with World Cups, we have had the pleasure of working with various ar
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ld0cD5XK_pc" frameborder="0" allowfullscreen></iframe>
 </div>
 
-For all the cool cats out there, [0 k](https://osu.ppy.sh/beatmaps/artists/424) makes their return to cwc! Following up [Brilliant Silver, Shining Blade](https://osu.ppy.sh/beatmapsets/2195061#fruits/4644324) from 2024 with [Downtown Swoop](https://osu.ppy.sh/beatmapsets/2566329#fruits/5708574), they are depicting their range as an artist with a rhythmically complex jazz track. Our former Beatmap Nominator made sure to spoil the mode in which he resides. [Deif](https://osu.ppy.sh/users/318565) and [Zirox](https://osu.ppy.sh/users/200768) being the best picks from the job. Having been great supports of *0 k* for many years at this point, they pushed this song to its *precise* limits by testing higher cs with lower ar.
+For all the cool cats out there, [0 K](https://osu.ppy.sh/beatmaps/artists/424) makes their return to CWC! Following up [Brilliant Silver, Shining Blade](https://osu.ppy.sh/beatmapsets/2195061#fruits/4644324) from 2024 with [Downtown Swoop](https://osu.ppy.sh/beatmapsets/2566329#fruits/5708574), they are depicting their range as an artist with a rhythmically complex jazz track. Our former Beatmap Nominator made sure to spoil the mode in which he resides, [Deif](https://osu.ppy.sh/users/318565) and [ZiRoX](https://osu.ppy.sh/users/200768) being the best picks from the job. Having been great supports of *0 K* for many years at this point, they pushed this song to its *precise* limits by testing higher CS with lower AR.
 
 ### Quarterfinals
 
@@ -47,7 +47,7 @@ One of our most seasoned featured artists in the osu! original space, [seatrus](
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/FUEavFSonOU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[Yuc'e](https://osu.ppy.sh/beatmaps/artists/372) enters by having the courage to answer one of life's greatest questions. "Are eggplants fruits?" Their answer was a resounding "NO" as depicted in their swing future bass track [Nasu is not fruits desu!](https://osu.ppy.sh/beatmapsets/2569989#fruits/5719060). [Kukkai](https://osu.ppy.sh/users/7811952) and [-Luminate](https://osu.ppy.sh/users/4778689) took this one on, and their styles create a perfect flavorful blend of mapping while still capturing the fun this song provides.
+[YUC'e](https://osu.ppy.sh/beatmaps/artists/372) enters by having the courage to answer one of life's greatest questions. "Are eggplants fruits?" Their answer was a resounding "NO" as depicted in their swing future bass track [Nasu Is Not Fruits Desu!](https://osu.ppy.sh/beatmapsets/2569989#fruits/5719060). [Kukkai](https://osu.ppy.sh/users/7811952) and [-Luminate](https://osu.ppy.sh/users/4778689) took this one on, and their styles create a perfect flavourful blend of mapping while still capturing the fun this song provides.
 
 ### Semifinals
 
@@ -79,7 +79,7 @@ One of the most unique experiences any human could ever witness in a lifetime. W
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/nPX079Lzj8w" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The time we all have is limited. [zxnx](https://osu.ppy.sh/beatmaps/artists/288) leaves us all wanting to fight for that idea with their osu! original [DECAY](https://osu.ppy.sh/beatmapsets/2577190#fruits/5741307) as we get to witness the journey of a girl making her last stand as she decays. [Rocma](https://osu.ppy.sh/users/566276) and [Unlucky_w](https://osu.ppy.sh/users/4820793) push players to the brim with extremely tricky and dense stacks, disallowing the final fight to be easy while giving players the option to earn more time for themselves.
+The time we all have is limited. [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) leaves us all wanting to fight for that idea with their osu! original [DECAY](https://osu.ppy.sh/beatmapsets/2577190#fruits/5741307) as we get to witness the journey of a girl making her last stand. [Rocma](https://osu.ppy.sh/users/566276) and [Unlucky_w](https://osu.ppy.sh/users/4820793) push players to the brim with extremely tricky and dense stacks, denying an easy final fight while giving players the option to earn more time for themselves.
 
 ---
 
@@ -95,7 +95,7 @@ The time we all have is limited. [zxnx](https://osu.ppy.sh/beatmaps/artists/288)
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/f99exHRfVaE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[WangleLine](https://osu.ppy.sh/beatmaps/artists/427) has been a catch staple for the past 3 years. Starting with the fun and optimistic [Journey to the Rabbit Moon base](https://osu.ppy.sh/beatmapsets/2202809#fruits/4662278), to the dark and intense [Goodbye to Your Vicious Cycles](https://osu.ppy.sh/beatmapsets/2402735#fruits/5211009), we reach a middle ground between the two with [Ad Astra](https://osu.ppy.sh/beatmapsets/2581070#fruits/5752994). The most drum heavy track of the 3 brings us to new heights with a more polyrhythmic intensity. [cruwev](https://osu.ppy.sh/users/12195994) takes the lead on this map with his technical prowess pushing players to their limits with reading ability paired with [wwwww](https://osu.ppy.sh/users/8434466)'s more mechanical based elements. All this combined results in a jam packed HD3 for Grand Finals.
+[WangleLine](https://osu.ppy.sh/beatmaps/artists/427) has been an osu!catch staple for the past 3 years. Starting with the fun and optimistic [Journey to the Rabbit Moon Base](https://osu.ppy.sh/beatmapsets/2202809#fruits/4662278), to the dark and intense [Goodbye to Your Vicious Cycles](https://osu.ppy.sh/beatmapsets/2402735#fruits/5211009), we reach a middle ground between the two with [Ad Astra](https://osu.ppy.sh/beatmapsets/2581070#fruits/5752994). The most drum-heavy track of the three brings us to new heights with a more polyrhythmic intensity. [Cruwev](https://osu.ppy.sh/users/12195994) takes the lead on this map with his technical prowess pushing players to their limits with reading ability paired with [wwwww](https://osu.ppy.sh/users/8434466)'s more mechanical elements. All this combined results in a jam-packed HD3 for the Grand Finals.
 
 ---
 
@@ -103,7 +103,7 @@ The time we all have is limited. [zxnx](https://osu.ppy.sh/beatmaps/artists/288)
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/EIWt7hFNluQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[ARCADEA](https://osu.ppy.sh/beatmapsets/2581097#fruits/5753044) is catch's main event of the season. With similar vibes to [Evreka](https://osu.ppy.sh/beatmapsets/2011570#fruits/4185911), we get presented with the once in a lifetime opportunity, to go back in **time**, and view how our very own mascot Yuzu, changed throughout his life**time**, from past to future. And how his journey through **time** almost brings about the end to existence as we know it. This collab by [Ashrount](https://osu.ppy.sh/beatmaps/artists/352) and [polysha](https://osu.ppy.sh/beatmaps/artists/146) brings a huge multitude of genre's and bpm changes leaving a huge challenge for our mappers to handle. This led to requiring 5 mappers to handle such a variety of content.
+[ARCADEA](https://osu.ppy.sh/beatmapsets/2581097#fruits/5753044) is osu!catch's main event of the season. With similar vibes to [Evreka](https://osu.ppy.sh/beatmapsets/2011570#fruits/4185911), we get presented with the once-in-a-lifetime opportunity *to go back in **time**. We get to witness how our very own mascot Yuzu changed throughout his life**time**, from past to future, and we learn how his journey through **time** almost brings about the end to existence as we know it. This collab by [Ashrount](https://osu.ppy.sh/beatmaps/artists/352) and [polysha](https://osu.ppy.sh/beatmaps/artists/146) brings a huge multitude of genres and BPM changes, requiring 5 mappers to handle it all.
 
 ## Match highlights
 
@@ -508,4 +508,4 @@ The 2026 osu!catch World Cup, however, wouldn't be possible without the help of 
 
 And to conclude, thank *you*, the viewer, for watching this year's iteration of the osu!catch World Cup. Fortunately, we can all look *four*ward to the upcoming osu!mania 4K World Cup 2026 starting in just a few weeks. If that sounds even remotely interesting to you, make sure to check out the [information page](/wiki/Tournaments/MWC/2026_4K) for more details and add the dates there to your calender so you don't miss any of the action!
 
-—Albionthegreat, Alepe, Rocma, Daletto, Nelly, Sakura006 & wwwww
+—Albionthegreat, Alepe, Daletto, Nelly, Rocma, Sakura006 & wwwww
