@@ -35,6 +35,6 @@ cv. UR для Double Time = UR / 1.5
 cv. UR для Half Time   = UR / 0.75
 ```
 
-### В клиенте lazer
+### В osu!(lazer)
 
-После версии [2023.1130.0](https://osu.ppy.sh/home/changelog/lazer/2023.1130.0) в клиенте [lazer](/wiki/Client/Release_stream/Lazer) разброс попаданий с модами начал подсчитываться с использованием реального времени, и в итоге необходимость в конвертации UR исчезла.
+Разброс попаданий с модами в [osu!(lazer)](/wiki/Client/Release_stream/Lazer), начиная с версии [2023.1130.0](https://osu.ppy.sh/home/changelog/lazer/2023.1130.0), подсчитывается по реальному времени, и конвертировать его не нужно.
