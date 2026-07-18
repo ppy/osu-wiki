@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Website 
 
 *Trang chính: [Trung tâm trợ giúp](/wiki/Help_centre)*
