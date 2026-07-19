@@ -2,6 +2,8 @@
 
 # การประกวด (Contests)
 
+{#monthly-beatmapping-contest}
+
 หน้านี้รวบรวมข้อมูลเกี่ยวกับการประกวดสร้างสรรค์ผลงานต่างๆ ที่จัดขึ้นภายในชุมชน osu!
 
 ## การประกวดที่เป็นทางการ (Official contests)
@@ -81,11 +83,3 @@
 - **Russian Community Beatmapping Contest**: การประกวดทำแมพสำหรับผู้ที่พูดภาษารัสเซีย
 
 *(รายการผลการแข่งขันและอ้างอิงย้อนหลังถูกคงไว้ตามต้นฉบับภาษาอังกฤษ)*
-
-[osu!]: /wiki/shared/mode/osu.png "osu!"
-[osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
-[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
-[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
-[GCrown]: /wiki/shared/crown-gold.png "อันดับ 1"
-[SCrown]: /wiki/shared/crown-silver.png "อันดับ 2"
-[BCrown]: /wiki/shared/crown-bronze.png "อันดับ 3"

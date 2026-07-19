@@ -24,7 +24,7 @@
 - คลิกที่ปุ่ม `Auto-Hide` เพื่อย่อหน้าต่างแชทโดยอัตโนมัติในระหว่างการเล่น (ยกเว้นช่วงนำเข้าแมพ, ช่วงจบ และช่วงพัก)
 - คลิกที่ปุ่ม `Hide Chat` หรือกด `F8` อีกครั้งเพื่อปิดหน้าต่างแชท
 
-## หน้าต่างแชทแบบขยาย (Extended Chat Console)
+## หน้าต่างแชทแบบขยาย (Extended Chat Console) {#extended-chat-console}
 
 *บทความซีรีส์ [osu!academy](/wiki/Community/Video_series/osu!academy) ได้อธิบายหน้านี้ไว้ใน [ตอนที่ 6 (นาทีที่ 6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) ร่วมกับ [Multiplayer](/wiki/Client/Interface/Multiplayer)*
 
@@ -70,7 +70,7 @@
 7. **Ignore User:** เพิกเฉยต่อข้อความแชทของผู้เล่นคนนั้น
 8. **Close:** ปิดหน้าต่างตัวเลือก
 
-## รายการคำสั่ง (Commands list)
+## รายการคำสั่ง (Commands list) {#commands-list}
 
 ### /help (ช่วยเหลือ)
 

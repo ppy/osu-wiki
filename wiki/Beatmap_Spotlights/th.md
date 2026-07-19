@@ -9,7 +9,7 @@ tags:
 
 ![โลโก้ Beatmap Spotlights](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-**Beatmap Spotlights** (หรือเรียกสั้นๆ ว่า *Spotlights* เดิมชื่อ *Ranking Charts*) คือโปรแกรมคัดกรองผลงานอย่างต่อเนื่องเพื่อแนะนำและเน้นย้ำถึง [Beatmap](/wiki/Beatmap) ที่มีรูปแบบการเล่นและการออกแบบที่ยอดเยี่ยมและมีเอกลักษณ์ โดยจะมาคู่กับ [ลีกประจำฤดูกาล (Seasonal league)](#ฤดูกาลของ-spotlights-spotlights-seasons) ซึ่งผู้เล่นจะมาแข่งขันกันในแมพที่ได้รับเลือกเพื่อชิง [รางวัลเหรียญตรา (Badge prizes)](#รางวัล-rewards)
+**Beatmap Spotlights** (หรือเรียกสั้นๆ ว่า *Spotlights* เดิมชื่อ *Ranking Charts*) คือโปรแกรมคัดกรองผลงานอย่างต่อเนื่องเพื่อแนะนำและเน้นย้ำถึง [Beatmap](/wiki/Beatmap) ที่มีรูปแบบการเล่นและการออกแบบที่ยอดเยี่ยมและมีเอกลักษณ์ โดยจะมาคู่กับ [ลีกประจำฤดูกาล (Seasonal league)](#spotlights-seasons) ซึ่งผู้เล่นจะมาแข่งขันกันในแมพที่ได้รับเลือกเพื่อชิง [รางวัลเหรียญตรา (Badge prizes)](#rewards)
 
 ฤดูกาลปัจจุบันคือ Winter 2026
 
@@ -25,7 +25,7 @@ tags:
 
 ![ห้องเพลย์ลิสต์ของ Beatmap Spotlights](img/spotlights-lobby.png)
 
-## ฤดูกาลของ Spotlights (Spotlights seasons)
+## ฤดูกาลของ Spotlights (Spotlights seasons) {#spotlights-seasons}
 
 *สำหรับรายชื่อฤดูกาลของ Spotlights ดูที่: [ฤดูกาล (Seasons)](Seasons)*
 
@@ -52,7 +52,7 @@ tags:
    - ผู้เข้าร่วมจะไม่ทราบคะแนนดิบที่แน่นอนของตนเอง แต่จะถูกแจ้งระดับลีกที่ได้รับแทน
    - ตารางคะแนนจะถูกเผยแพร่ใน [osu! community discord](https://discord.com/invite/0Vxo9AsejDkGlk3H) ในแชนแนล `#osu-spotlights` รวมถึงในแชทของห้องเพลย์ลิสต์ถัดไป
 
-### รางวัล (Rewards)
+### รางวัล (Rewards) {#rewards}
 
 รางวัลจะมอบให้กับผู้ชนะในห้องเพลย์ลิสต์, ผู้สร้าง Beatmap ที่ได้รับเลือกเป็น Beatmap of the Season และผู้เข้าร่วมทุกคนที่มีชื่ออยู่ในตารางคะแนนประจำฤดูกาล
 

@@ -4,7 +4,7 @@
 
 ผู้ใช้ที่เจอปัญหากับไคลเอนต์สามารถ[สร้าง issue บน GitHub](https://github.com/ppy/osu/issues) หรือส่งอีเมลไปที่ [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
 
-## การตั้งค่า
+## การตั้งค่า {#setup}
 
 หากต้องการเริ่ม osu! tournament client คุณต้องระบุ launch argument ให้ executable ของ [osu!(lazer)](/wiki/Client/Release_stream/Lazer) วิธีทำคือสร้าง shortcut ใหม่บน desktop แล้วตั้ง location เป็น `%LOCALAPPDATA%/osulazer/osu!.exe --tournament` shortcut อันนี้จะเปิด osu!(lazer) ในโหมด tournament client
 

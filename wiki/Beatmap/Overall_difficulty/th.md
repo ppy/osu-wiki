@@ -56,7 +56,7 @@ the same formula is used in stable -->
 
 หากผู้เล่นกดนอก hit window ของ 50 จะถูกนับเป็น miss ในกรณีที่ hit window ของออบเจกต์สองตัวซ้อนกัน ออบเจกต์ตัวที่สองจะไม่สามารถกดได้จนกว่าออบเจกต์แรกจะหายไป เนื่องจาก [notelock](/wiki/Gameplay/Judgement/Notelock)
 
-## Sliders และ spinners
+## Sliders และ spinners {#sliders-and-spinners}
 
 ใน [osu!](/wiki/Game_mode/osu!) [สไลเดอร์](/wiki/Gameplay/Hit_object/Slider)จะให้ 300 ตราบใดที่ถูกกดภายใน hit window ของ 50 สิ่งนี้บางครั้งเรียกว่า slider leniency และถูกลบออกใน [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2)
 

@@ -14,7 +14,7 @@
 
 สำหรับผู้ใช้งาน Linux โปรดอ้างอิงจาก [คู่มือการใช้งาน Audacity](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html#linlame) สำหรับข้อมูลเพิ่มเติม เนื่องจาก Linux บางรุ่นอาจไม่ได้ให้ LAME มาพร้อมกับการติดตั้ง Audacity แต่ส่วนใหญ่จะมีมาให้
 
-### การลดบิตเรต (Lowering Bit Rate)
+### การลดบิตเรต (Lowering Bit Rate) {#lowering-bit-rate}
 
 *สำหรับข้อมูลเกี่ยวกับการบีบอัดไฟล์โดยทั่วไป ดูที่: [การบีบอัดไฟล์ (Compressing files)](/wiki/Guides/Compressing_files)*
 
@@ -46,7 +46,7 @@
 5. กดปุ่ม `Ctrl` + `V` หรือคลิกที่ `Edit` -> `Paste`
 6. ลองฟังเพลงทั้งหมดและตรวจสอบให้แน่ใจว่าเสียงที่ลูปนั้นฟังดูเนียนและลื่นไหล
 7. ทำซ้ำตามต้องการ
-8. [ส่งออกไฟล์เสียง](#การลดบิตเรต-lowering-bit-rate)
+8. [ส่งออกไฟล์เสียง](#lowering-bit-rate)
 
 ### การตัดบางส่วนของเพลง (Cropping)
 
@@ -58,7 +58,7 @@
 3. กดปุ่ม `Delete` หรือ `Ctrl` + `K` หรือคลิกที่ `Edit` -> `Delete`
 4. คลิกและลากคลุมช่วง 3 ถึง 5 วินาทีสุดท้ายของไฟล์เสียง
 5. คลิกที่ `Effect` -> `Fading` -> `Fade Out`
-6. [ส่งออกไฟล์เสียง](#การลดบิตเรต-lowering-bit-rate)
+6. [ส่งออกไฟล์เสียง](#lowering-bit-rate)
 
 ## mp3DirectCut
 

@@ -32,7 +32,7 @@ tags:
 
 หลังการ submit บีตแมปจะมีช่อง metadata เพิ่มขึ้น เช่น คำอธิบาย ภาษา แนวเพลง และตัวบ่งชี้เนื้อหา explicit ซึ่งผู้สร้างบีตแมปสามารถแก้เองได้บนเว็บไซต์ บีตแมปยังได้รับ [title text](/wiki/Beatmap/Title_text) ซึ่งสามารถปรับรูปลักษณ์ได้ด้วยความช่วยเหลือจาก [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)
 
-### การระบุตัวตน
+### การระบุตัวตน {#identification}
 
 บีตแมปที่ submit แล้วทุกชุดจะได้รับตัวระบุตัวเลข (`BeatmapSetID`) ซึ่งใช้ติดตามบนเว็บไซต์และผ่าน [osu!api](/wiki/osu!api) ได้ Difficulty ของบีตแมปก็มีตัวระบุตัวเลขของตัวเอง (`BeatmapID`) เช่นกัน URL ที่พาไปยังแท็บของ difficulty เฉพาะบนหน้าบีตแมปจะมีตัวระบุทั้งสองค่า และมีรูปแบบดังนี้:
 
@@ -55,7 +55,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 บางหมวดมี[เกณฑ์การส่ง](/wiki/Ranking_criteria)และทำให้บีตแมปมี [leaderboard](#leaderboards) แบบชั่วคราวหรือถาวรได้ วิธีที่นิยมที่สุดในการทำเช่นนั้นคือผ่าน[ขั้นตอนการ rank บีตแมป](/wiki/Beatmap_ranking_procedure) ส่วนอีกวิธีคือทำให้บีตแมปได้ [loved](Category#loved)
 
-## การดาวน์โหลดบีตแมป
+## การดาวน์โหลดบีตแมป {#downloading-beatmaps}
 
 บีตแมปสามารถหาได้หลายวิธี:
 

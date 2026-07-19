@@ -14,7 +14,7 @@ tags:
 
 ถ้าผู้สร้างแมปใช้อย่างเหมาะสม title text จะเพิ่มเอฟเฟกต์ที่ดีให้แมปได้ เป็นเครื่องมือที่มีประโยชน์มากโดยเฉพาะสำหรับผู้สร้างแมปที่ทำ [storyboards](/wiki/Storyboard) เพราะพวกเขามักต้องการควบคุมการนำเสนอของแมประหว่าง gameplay ให้ละเอียดที่สุด ตัวอย่างดี ๆ ของการใช้ custom title text สามารถดูได้ใน [Noisestorm - Solar](https://osu.ppy.sh/beatmapsets/33483), [IOSYS - Kanbu de Todomatte Sugu Tokeru ~ Kyouki no Udongein](https://osu.ppy.sh/beatmapsets/1391) และ [Amane - Yume goro mo, Kinou no Koto -Rolling Contact Remix-](https://osu.ppy.sh/beatmapsets/57560)
 
-## การเปลี่ยน Title Text
+## การเปลี่ยน Title Text {#changing-title-text}
 
 มีเพียงสมาชิก [NAT](/wiki/People/Nomination_Assessment_Team) และผู้ดูแลเว็บไซต์เท่านั้นที่อัปเดต title text ของบีตแมปได้ เพราะนี่เป็นการตั้งค่าออนไลน์ ไม่ใช่สิ่งที่อยู่ในไฟล์บีตแมปบนเครื่อง หากต้องการอัปเดต title text ของแมปตัวเอง สามารถติดต่อคนในกลุ่มเหล่านี้ได้
 

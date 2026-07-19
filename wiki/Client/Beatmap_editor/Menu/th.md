@@ -1,5 +1,8 @@
 # เมนูของตัวแก้ไข Beatmap (Beatmap editor menu)
 
+{#compose}
+{#timing}
+
 ## File (ไฟล์)
 
 ![เมนู File](img/M_File.jpg "เมนู File")
@@ -86,7 +89,7 @@
 | Create Polygon Circles... (`Ctrl` + `Shift` + `D`) | สร้างรูปทรงหลายเหลี่ยมจาก Hit circles โดยวางตำแหน่งตามตัวแบ่งจังหวะที่ใช้อยู่ |
 | Convert slider to stream... | แทนที่ [ตัว Slider](/wiki/Gameplay/Hit_object/Slider/Sliderbody) ที่เลือกด้วย [สตรีม (Stream)](/wiki/Beatmap/Pattern/osu!/Stream) ของวงกลม โดยเลือกได้ว่าจะอิงตามจำนวนวัตถุหรืออิงตาม [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) |
 | Enable live mapping mode (`Ctrl` + `Tab`) | วางวงกลม, ผลไม้ หรือโน้ต โดยการกดปุ่มเหมือนตอนเล่นจริงในขณะที่เพลงกำลังเล่นอยู่[^live-mapping-note] |
-| Sample import | เปิดหน้าต่าง [`Sample import`](/wiki/Client/Beatmap_editor/Compose#การนำเข้าเสียง-sample-import) สำหรับระดับความยากของ osu!mania |
+| Sample import | เปิดหน้าต่าง [`Sample import`](/wiki/Client/Beatmap_editor/Compose#sample-import) สำหรับระดับความยากของ osu!mania |
 
 ## Design (การออกแบบ)
 
@@ -138,7 +141,7 @@
 | Show in-game help | แสดงหน้าต่างช่วยเหลือพร้อมปุ่มลัดและคำอธิบายสั้นๆ[^help-note] |
 | View FAQ... | เปิดบทความวิกิเกี่ยวกับ [การสร้าง Beatmap (Beatmapping)](/wiki/Beatmapping) |
 
-## หมายเหตุ (Notes)
+##Notes
 
 [^osz2-note]: คำสั่งนี้ใช้ไม่ได้กับไฟล์แมพแบบ `.osz` ปกติ
 [^exit-note]: คำสั่งนี้ในบางครั้งจะ *ละเลย* การเปลี่ยนแปลงที่เกิดขึ้นในแถบ `Design`

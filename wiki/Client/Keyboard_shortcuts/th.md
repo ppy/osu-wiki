@@ -141,7 +141,7 @@ tags:
 | `8` | ตั้งความเร็วเป็น 3x |
 | `9` | ตั้งความเร็วเป็น 4x |
 
-## ตัวแก้ไข Beatmap (Beatmap editor)
+## ตัวแก้ไข Beatmap (Beatmap editor) {#beatmap-editor}
 
 *หน้าหลัก: [ตัวแก้ไข Beatmap (Beatmap Editor)](/wiki/Client/Beatmap_editor)*
 

@@ -34,7 +34,7 @@
 | ![ScoreV2](/wiki/shared/mods/SV2.png) | ScoreV2 (SV2) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 1.00x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: `Try the future scoring system. ** UNRANKED **` |
 | ![Target Practice](/wiki/shared/mods/TP.png) | Target Practice (TP) | • ![][osu!]: 1.00x |  |
 
-## ตัวคูณคะแนนของม็อด xK
+## ตัวคูณคะแนนของม็อด xK {#xk-mod-score-multipliers}
 
 *ข้อควรทราบ: ตารางนี้มีผลเฉพาะกับบีตแมปที่ถูกแปลงจาก osu! เป็น osu!mania ระหว่างเล่นเท่านั้น ไม่มีผลกับบีตแมปที่ทำมาสำหรับ osu!mania โดยเฉพาะ*
 
@@ -45,7 +45,7 @@
 | 6K | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x | 0.90x |
 | 7K | 0.66x | 0.70x | 0.74x | 0.78x | 0.82x | 0.86x | 1.00x | 0.90x | 0.90x |
 
-### ตัวคูณคะแนนของม็อด xK พร้อม Co-op
+### ตัวคูณคะแนนของม็อด xK พร้อม Co-op {#xk-mod-with-co-op-score-multipliers}
 
 *ข้อควรทราบ: ตารางนี้มีผลเฉพาะกับบีตแมปที่ถูกแปลงจาก osu! เป็น osu!mania ระหว่างเล่นเท่านั้น ไม่มีผลกับบีตแมปที่ทำมาสำหรับ osu!mania โดยเฉพาะ ดังนั้นม็อด Co-Op จึงไม่มี penalty บนบีตแมปที่ทำมาสำหรับ osu!mania โดยเฉพาะ*
 

@@ -69,8 +69,8 @@ tags:
 
 หากต้องการปรับค่าเพิ่มหรือลดอย่างรวดเร็ว สามารถใช้ปุ่มควบคุมร่วมดังนี้:
 
-| | Tempo (BPM) | Offset | Slider velocity |
-| :-- | :--: | :--: | :--: |
+|  | Tempo (BPM) | Offset | Slider velocity |
+| :-- | :-: | :-: | :-: |
 | `Ctrl` + คลิก | 0.25 BPM | 1 ms | 1 [osu! pixel](/wiki/Client/Beatmap_editor/osu!_pixel) |
 | คลิกปกติ | 1 BPM | 2 ms | 10 osu! pixels |
 | `Shift` + คลิก | 5 BPM | 10 ms | - |

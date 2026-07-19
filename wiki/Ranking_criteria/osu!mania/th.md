@@ -16,7 +16,7 @@
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
-### คำทั่วไป
+### คำทั่วไป {#common-terms}
 
 - **BPM**: Tempo ของเพลง วัดเป็น beats per minute
 - **Column**: เลนแนวตั้งของ [playfield](/wiki/Game_mode/osu!mania#playfield) ที่ใช้วางโน้ต โปรดทราบว่า [editor timestamp](/wiki/Modding/Timestamp) อ้างอิง column ด้วยตำแหน่งแบบ zero-indexed เริ่มจากซ้าย
@@ -64,14 +64,14 @@
 - **ห้ามปล่อย column ว่าง** หากต้องการใช้คีย์น้อยลง ให้เปลี่ยนจำนวนคีย์ใน Song Setup
 - **ใน difficulty ระดับ Insane หรือต่ำกว่า ห้ามมีโน้ตที่ต้องกดพร้อมกันเกิน 6 ตัวในช่วงเวลาใดก็ตาม** การใช้มากกว่า 6 โน้ตยังต้องมี spread ไปยัง difficulty ต่ำถัดไปอย่างสมเหตุสมผล กฎนี้ไม่ใช้กับจุดจบของ long note เพราะเป็นการปล่อย ไม่ใช่การกด
 - **บีตแมปใช้ได้เฉพาะ 4-10, 12, 14, 16 หรือ 18 คีย์เท่านั้น**
-  - **สำหรับจำนวนคีย์ที่มากกว่า 10 [playstyle](#คำทั่วไป) ต้องเป็นหนึ่งใน [10K2S](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#10K2S), [DP](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#DP), [EZ2AC](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#EZ2AC), [10K8K](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#10K8K), หรือ [9K9K](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#9K9K)**
-- **หากบีตแมปมีจำนวนคีย์มากกว่า 10 หรือมีหลาย [key mode](#คำทั่วไป) หรือ [playstyle](#คำทั่วไป) ชื่อ difficulty แต่ละตัวต้องระบุ key mode หรือ playstyle ของตัวเอง มิฉะนั้นชื่อ difficulty ทั้งหมดต้องไม่ระบุ key mode หรือ playstyle**
-- **non-[standard playstyle](#คำทั่วไป) ทุกแบบที่มีอยู่ในบีตแมปต้องถูกระบุใน tag ของบีตแมป**
-- **difficulty ที่ใช้ [N+1 playstyle](#คำทั่วไป) ต้องเปิดตัวเลือก `Use special style (N+1 style) for mania` ใต้แท็บ `Advanced` ในหน้าต่าง `Song Setup` และบีตแมปต้องมี tag "N+1" ด้วย** สำหรับกฎนี้ เฉพาะ playstyle ที่มีจำนวนคีย์ต่ำกว่า 10 เท่านั้นที่ถือเป็น "N+1" ได้[^n-plus-1]
+  - **สำหรับจำนวนคีย์ที่มากกว่า 10 [playstyle](#common-terms) ต้องเป็นหนึ่งใน [10K2S](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#10K2S), [DP](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#DP), [EZ2AC](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#EZ2AC), [10K8K](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#10K8K), หรือ [9K9K](/wiki/Beatmapping/osu!mania_10K_plus_playstyles#9K9K)**
+- **หากบีตแมปมีจำนวนคีย์มากกว่า 10 หรือมีหลาย [key mode](#common-terms) หรือ [playstyle](#common-terms) ชื่อ difficulty แต่ละตัวต้องระบุ key mode หรือ playstyle ของตัวเอง มิฉะนั้นชื่อ difficulty ทั้งหมดต้องไม่ระบุ key mode หรือ playstyle**
+- **non-[standard playstyle](#common-terms) ทุกแบบที่มีอยู่ในบีตแมปต้องถูกระบุใน tag ของบีตแมป**
+- **difficulty ที่ใช้ [N+1 playstyle](#common-terms) ต้องเปิดตัวเลือก `Use special style (N+1 style) for mania` ใต้แท็บ `Advanced` ในหน้าต่าง `Song Setup` และบีตแมปต้องมี tag "N+1" ด้วย** สำหรับกฎนี้ เฉพาะ playstyle ที่มีจำนวนคีย์ต่ำกว่า 10 เท่านั้นที่ถือเป็น "N+1" ได้[^n-plus-1]
 - **หาก [drain time](/wiki/Beatmap/Drain_time) ของ difficulty ใด ๆ เป็นดังนี้...**
-  - **...ต่ำกว่า 2:00** แต่ละ [key mode](#คำทั่วไป) และ [playstyle](#คำทั่วไป) ต้องมี difficulty ระดับ Normal หรือต่ำกว่า หรือมี spread ที่เหมาะสม[^proper-spread] อย่างน้อย 4 difficulty
-  - **...ระหว่าง 2:00 ถึง 2:45** แต่ละ [key mode](#คำทั่วไป) และ [playstyle](#คำทั่วไป) ต้องมี difficulty ระดับ Hard หรือต่ำกว่า หรือมี spread ที่เหมาะสม[^proper-spread] อย่างน้อย 3 difficulty
-  - **...ระหว่าง 2:45 ถึง 3:30** แต่ละ [key mode](#คำทั่วไป) และ [playstyle](#คำทั่วไป) ต้องมี difficulty ระดับ Insane หรือต่ำกว่า หรือมี spread ที่เหมาะสม[^proper-spread] อย่างน้อย 2 difficulty
+  - **...ต่ำกว่า 2:00** แต่ละ [key mode](#common-terms) และ [playstyle](#common-terms) ต้องมี difficulty ระดับ Normal หรือต่ำกว่า หรือมี spread ที่เหมาะสม[^proper-spread] อย่างน้อย 4 difficulty
+  - **...ระหว่าง 2:00 ถึง 2:45** แต่ละ [key mode](#common-terms) และ [playstyle](#common-terms) ต้องมี difficulty ระดับ Hard หรือต่ำกว่า หรือมี spread ที่เหมาะสม[^proper-spread] อย่างน้อย 3 difficulty
+  - **...ระหว่าง 2:45 ถึง 3:30** แต่ละ [key mode](#common-terms) และ [playstyle](#common-terms) ต้องมี difficulty ระดับ Insane หรือต่ำกว่า หรือมี spread ที่เหมาะสม[^proper-spread] อย่างน้อย 2 difficulty
 
 ### แนวทาง
 
@@ -89,11 +89,11 @@
 - **หลีกเลี่ยงการ spam short kiai time segment** เพราะอาจทำให้เสียสมาธิและส่งผลลบต่อ gameplay
 - **ควรใช้ break เฉพาะเมื่อ section ของเพลงสงบมากหรือเงียบเท่านั้น** difficulty ต่ำ โดยเฉพาะเพลง BPM สูง อาจใช้ break เพื่อหลีกเลี่ยงส่วนของเพลงที่ไม่สมเหตุสมผลสำหรับผู้เล่นใหม่
 
-## เฉพาะ difficulty
+## เฉพาะ difficulty {#difficulty}
 
 กฎและแนวทางเฉพาะ difficulty ใช้เฉพาะกับระดับ difficulty ที่ระบุไว้เท่านั้น ดังนั้นจึง *ไม่ได้ใช้กับ difficulty osu!mania **ทุก** ระดับ* กฎและแนวทางที่เกี่ยวกับริธึมจะอิงกับบีตแมปประมาณ 180 BPM หากเพลงของคุณเร็วหรือช้ากว่านี้มาก ค่าบางอย่างอาจต่างออกไปตามรายละเอียดใน [การสเกล BPM ใน Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM)
 
-*แนวทางเฉพาะ [key mode](#คำทั่วไป) ถูกสร้างจาก key mode ที่พบได้บ่อยที่สุดใน Ranked (4 key และ 7 key) key mode หรือ [playstyle](#คำทั่วไป) อื่นควรนำแนวทางเหล่านี้ไปใช้เมื่อเหมาะสม*
+*แนวทางเฉพาะ [key mode](#common-terms) ถูกสร้างจาก key mode ที่พบได้บ่อยที่สุดใน Ranked (4 key และ 7 key) key mode หรือ [playstyle](#common-terms) อื่นควรนำแนวทางเหล่านี้ไปใช้เมื่อเหมาะสม*
 
 ### ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 
@@ -213,4 +213,4 @@
 ## หมายเหตุ
 
 [^n-plus-1]: การตั้งค่า "N+1" ในปัจจุบันยังไม่มีฟังก์ชัน และถูกกำกับไว้ใน ranking criteria เพื่อรองรับ use case ในอนาคตเท่านั้น ตอนนี้ยังไม่กำหนดว่าจำนวนคีย์ 10 หรือมากกว่าจะถูกจัดการกับการตั้งค่านี้อย่างไร ดังนั้นตอนนี้ห้ามเปิดใช้ในกรณีเหล่านั้น
-[^proper-spread]: spread ที่ "เหมาะสม" *สำหรับ difficulty ระดับ Insane ขึ้นไป* หมายถึง spread ที่มีช่องว่างของความยากคล้ายกับช่องว่างระหว่าง [ระดับ difficulty](/wiki/Beatmap/Difficulty#difficulty-levels) ที่ต่ำกว่า ตามที่ระบุใน [criteria เฉพาะ difficulty](#เฉพาะ-difficulty)
+[^proper-spread]: spread ที่ "เหมาะสม" *สำหรับ difficulty ระดับ Insane ขึ้นไป* หมายถึง spread ที่มีช่องว่างของความยากคล้ายกับช่องว่างระหว่าง [ระดับ difficulty](/wiki/Beatmap/Difficulty#difficulty-levels) ที่ต่ำกว่า ตามที่ระบุใน [criteria เฉพาะ difficulty](#difficulty)

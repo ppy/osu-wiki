@@ -2,7 +2,7 @@
 
 [บีตแมป](/wiki/Beatmap)ที่ส่งขึ้นออนไลน์จะถูกแบ่งเป็นหมวดหมู่ตามกิจกรรมล่าสุด, สถานะ[การ nominate](/wiki/Beatmap_ranking_procedure#qualification), และความนิยม
 
-## หมวดหมู่ปัจจุบัน
+## หมวดหมู่ปัจจุบัน {#present-categories}
 
 ### Graveyard {id=graveyard}
 
@@ -46,6 +46,6 @@ Qualified คือขั้นสุดท้ายของ[กระบวน
 
 หมวด [Qualified](#qualified) ถูกเปิดตัวในเดือนสิงหาคม 2014 ระหว่าง [Restructuring of the BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) เพื่อให้บีตแมปที่เพิ่ง ranked มีโอกาสถูกมองเห็นมากขึ้น หากบีตแมปใน Qualified ต้องถูก disqualified และย้ายกลับไป Pending จะไม่กระทบสถิติของผู้เล่น เพราะตัวหมวดถูกออกแบบมาให้คะแนนเป็นแบบชั่วคราวตั้งแต่แรก สิ่งนี้ช่วยตั้งความคาดหวังให้ถูกต้อง และลดเสียงตอบรับเชิงลบจากชุมชนต่อการ unrank ได้มาก
 
-### สถิติของบีตแมป unranked
+### สถิติของบีตแมป unranked {#unranked-beatmaps-statistics}
 
 หลังจาก [7 สิงหาคม 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3) บีตแมปจาก [Graveyard](#graveyard) รวมถึง [Work in Progress and Pending](#wip-and-pending) เริ่มถูกนับรวมใน play count และ total score ของผู้ใช้ นอกจากนี้ยังได้รับสถิติการเล่นบนหน้าของตัวเองด้วย (play count, success rate, และจุดที่เล่นพลาด) ซึ่งก่อนหน้านั้นแสดงเฉพาะบีตแมปจาก [Qualified](#qualified) และ [Ranked](#ranked)

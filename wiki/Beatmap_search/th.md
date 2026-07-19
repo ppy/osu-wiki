@@ -9,7 +9,7 @@ tags:
 
 # การค้นหา Beatmap (Beatmap search)
 
-*ดูเพิ่มเติม: [Beatmap § การดาวน์โหลด Beatmap](/wiki/Beatmap#การดาวน์โหลด-beatmap)*
+*ดูเพิ่มเติม: [Beatmap § การดาวน์โหลด Beatmap](/wiki/Beatmap#downloading-beatmaps)*
 
 โดยปกติแล้ว ข้อความใดๆ ที่คุณพิมพ์ใน [หน้าเลือกเพลง (Song select)](/wiki/Client/Interface#song-select) หรือในช่องค้นหาบนเว็บไซต์ ระบบจะนำไปค้นหาโดยเทียบกับชื่อศิลปิน, ชื่อเพลง, ชื่อผู้สร้างระดับความยาก, ชื่อระดับความยาก, แหล่งที่มา (Source), [แท็กจาก Mapper](/wiki/Beatmap/Beatmap_tags#mapper-tags) และ [แท็กจากผู้ใช้](/wiki/Beatmap/Beatmap_tags#user-tags) หากคุณพิมพ์เพียงตัวเลข ระบบจะค้นหาจาก [รหัสระบุตัวตน (Identifier)](/wiki/Beatmap#identification) ของ Beatmap หรือระดับความยากนั้นๆ ทั้งนี้การค้นหาจะไม่แยกแยะตัวพิมพ์ใหญ่-เล็ก (Case-insensitive)
 

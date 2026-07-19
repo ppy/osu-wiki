@@ -28,7 +28,7 @@
 
 ### ในโพสต์สาธารณะบนฟอรัม osu!
 
-[รายงานโพสต์](/wiki/Reporting_bad_behaviour#ฟอรัม)ไปยัง [Global Moderation Team](/wiki/People/Global_Moderation_Team) ของเราให้เร็วที่สุด
+[รายงานโพสต์](/wiki/Reporting_bad_behaviour#forum)ไปยัง [Global Moderation Team](/wiki/People/Global_Moderation_Team) ของเราให้เร็วที่สุด
 
 ให้คลิกปุ่ม `Report post` ที่มุมขวาบนของโพสต์ฟอรัม
 

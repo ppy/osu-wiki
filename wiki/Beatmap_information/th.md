@@ -18,7 +18,7 @@
 ![](img/game-mode-selection.png "การเลือกโหมดเกม")
 :::
 
-ถัดลงมาจากส่วนเลือกแถบคือส่วนของระดับความยาก ซึ่งจะระบุทุกๆ [ความยาก (Difficulty)](/wiki/Beatmap/Difficulty) ที่มีอยู่ใน Beatmap ชุดนี้ ไอคอนโหมดเกมจะถูกระบายสีตาม [แถบสีระดับดาว](/wiki/Beatmap/Difficulty#ความยากและระดับดาว (difficulty-and-star-rating))
+ถัดลงมาจากส่วนเลือกแถบคือส่วนของระดับความยาก ซึ่งจะระบุทุกๆ [ความยาก (Difficulty)](/wiki/Beatmap/Difficulty) ที่มีอยู่ใน Beatmap ชุดนี้ ไอคอนโหมดเกมจะถูกระบายสีตาม [แถบสีระดับดาว](/wiki/Beatmap/Difficulty#difficulty-and-star-rating)
 
 ถัดจากไอคอนเหล่านี้คือชื่อความยาก, จำนวนครั้งการเล่นทั้งหมด และจำนวนผู้ใช้ที่เพิ่มแมพนี้ลงในรายการโปรด (Favourite) เมื่อคุณวางเมาส์เหนือไอคอนอื่นที่ไม่ได้เลือกอยู่ ระบบจะแสดงชื่อความยากและระดับดาวของความยากนั้น การคลิกที่ไอคอนจะเป็นการเปลี่ยนความยากที่ต้องการดู และสถิติต่างๆ ในหน้าจะเปลี่ยนไปตามความยากนั้น และหากวางเมาส์เหนือจำนวนรายการโปรด จะมีการแสดงรูปโปรไฟล์ของผู้ใช้ (สูงสุด 50 คน) ที่ชื่นชอบแมพนี้
 
@@ -31,7 +31,7 @@
 - **Favourite:** เพิ่ม Beatmap นี้ลงในรายการโปรดในโปรไฟล์ของผู้ใช้
 - **Download:** ดาวน์โหลด Beatmap หากแมพนั้นมีวิดีโอประกอบ ผู้ใช้สามารถเลือกดาวน์โหลดแบบมีหรือไม่มีวิดีโอก็ได้
 - **osu!direct:** ดาวน์โหลด Beatmap เข้าสู่ตัวเกมโดยตรง (สำหรับผู้ที่มี osu!supporter)
-- **Report:** หาก Beatmap อยู่ในหมวด [Graveyard](/wiki/Beatmap/Category#graveyard) หรือ [WIP และ Pending](/wiki/Beatmap_Category#wip-and-pending) ผู้ใช้สามารถ [รายงาน Beatmap](/wiki/Reporting_bad_behaviour#beatmap) ได้หากพบเนื้อหาที่ละเมิดกฎ โดยคลิกที่จุด 3 จุดเพื่อเปิดเมนูแจ้งรายงาน
+- **Report:** หาก Beatmap อยู่ในหมวด [Graveyard](/wiki/Beatmap/Category#graveyard) หรือ [WIP และ Pending](/wiki/Beatmap/Category#wip-and-pending) ผู้ใช้สามารถ [รายงาน Beatmap](/wiki/Reporting_bad_behaviour#beatmap) ได้หากพบเนื้อหาที่ละเมิดกฎ โดยคลิกที่จุด 3 จุดเพื่อเปิดเมนูแจ้งรายงาน
 
 ### แผงสถิติ (Statistics panel)
 
@@ -79,14 +79,14 @@
 
 นอกจากสถิติเกี่ยวกับเกมเพลย์แล้ว ทุก Beatmap จะต้องมีข้อมูล Metadata เพื่อให้ง่ายต่อการค้นหา ก่อนที่จะส่งผลงานเข้าสู่ [ขั้นตอนการจัดอันดับ](/wiki/Beatmap_ranking_procedure) Mapper จะต้องระบุข้อมูลดังนี้:
 
-- [แนวเพลง (Genre)](/wiki/Beatmap/Genre_and_language#รายชื่อแนวเพลง (list-of-genres)): แนวเพลงหลักของเพลงนั้น
-- [ภาษา (Language)](/wiki/Beatmap/Genre_and_language#รายชื่อภาษา (list-of-languages)): ภาษาหลักของเนื้อร้อง หรือระบุเป็น Instrumental หากไม่มีเนื้อร้อง
-- [แท็กจาก Mapper (Mapper tags)](/wiki/Beatmap/Beatmap_tags#แท็กจาก-mapper (mapper-tags)): คำสำคัญที่มีประโยชน์เกี่ยวกับเพลง
+- [แนวเพลง (Genre)](/wiki/Beatmap/Genre_and_language#list-of-genres): แนวเพลงหลักของเพลงนั้น
+- [ภาษา (Language)](/wiki/Beatmap/Genre_and_language#list-of-languages): ภาษาหลักของเนื้อร้อง หรือระบุเป็น Instrumental หากไม่มีเนื้อร้อง
+- [แท็กจาก Mapper (Mapper tags)](/wiki/Beatmap/Beatmap_tags#mapper-tags): คำสำคัญที่มีประโยชน์เกี่ยวกับเพลง
 - **Source (แหล่งที่มา):** สื่อต้นฉบับที่เพลงนี้ถูกสร้างขึ้นมาให้ หรือสื่อที่ทำให้เพลงนี้เป็นที่รู้จักมากที่สุด
 
 ส่วนของชื่อผู้เสนอชื่อ (Nominators) จะถูกเพิ่มเข้ามาทันทีเมื่อแมพได้รับการเสนอชื่อโดย [Beatmap Nominators](/wiki/People/Beatmap_Nominators)
 
-หลังจากที่แมพได้รับการจัดอันดับแล้ว ผู้ใช้จะสามารถโหวต [แท็กจากผู้ใช้ (User tags)](/wiki/Beatmap/Beatmap_tags#แท็กจากผู้ใช้ (user-tags)) ผ่านตัวเกม osu!(lazer) ได้ เมื่อแท็กใดได้รับครบ 5 คะแนน จะถูกนำมาแสดงในส่วน `user tag` ในหน้านี้
+หลังจากที่แมพได้รับการจัดอันดับแล้ว ผู้ใช้จะสามารถโหวต [แท็กจากผู้ใช้ (User tags)](/wiki/Beatmap/Beatmap_tags#user-tags) ผ่านตัวเกม osu!(lazer) ได้ เมื่อแท็กใดได้รับครบ 5 คะแนน จะถูกนำมาแสดงในส่วน `user tag` ในหน้านี้
 
 ### การแสดงอัตราการเล่นผ่าน (Success rate display)
 

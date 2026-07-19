@@ -15,7 +15,7 @@ tags:
 
 ใน [osu!taiko](/wiki/Game_mode/osu!taiko) และ [osu!mania](/wiki/Game_mode/osu!mania) การตั้งค่า approach rate ไม่มีผล Scroll speed ในทั้งสองโหมดถูกควบคุมโดย [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) ซึ่งขึ้นอยู่กับ [BPM](/wiki/Music_theory/Tempo) และตัวคูณ slider velocity นอกจากนี้ ใน osu!mania ผู้เล่นสามารถปรับได้[ด้วยตัวเอง](/wiki/Game_mode/osu!mania#speed-change)
 
-## Timing ของแอนิเมชัน
+## Timing ของแอนิเมชัน {#animation-timing}
 
 ระยะเวลาที่ hit object มองเห็นอยู่บนหน้าจอโดยไม่ใช้ม็อด มีตั้งแต่ 1800ms ที่ AR0 ถึง 450ms ที่ AR10 ระดับ AR จะ scale ครั้งละ 120ms สำหรับค่าต่ำกว่า AR5 และ 150ms สำหรับค่าสูงกว่า AR5
 

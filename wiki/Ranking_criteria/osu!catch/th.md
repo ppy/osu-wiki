@@ -44,7 +44,7 @@
   - [Drops](/wiki/Skinning/osu!catch#fruits) ต้องมีขนาด 82x103 พิกเซล
   - [catcher](/wiki/Skinning/osu!catch#catcher) ต้องมีขนาด 306x320 พิกเซล
 
-## เฉพาะ difficulty
+## เฉพาะ difficulty {#difficulty}
 
 กฎและแนวทางเฉพาะ difficulty ใช้เฉพาะกับระดับ difficulty ที่ระบุไว้เท่านั้น ดังนั้นจึง *ไม่ได้ใช้กับ difficulty osu!catch **ทุก** ระดับ* กฎและแนวทางที่เกี่ยวกับริธึมจะอิงกับบีตแมปประมาณ 180 BPM หากเพลงของคุณเร็วหรือช้ากว่านี้มาก ค่าบางอย่างอาจต่างออกไปตามรายละเอียดใน [การสเกล BPM ใน ranking criteria](/wiki/Ranking_criteria/Scaling_BPM)
 
@@ -188,4 +188,4 @@
 
 ## หมายเหตุ
 
-[^proper-spread]: spread ที่ "เหมาะสม" *สำหรับ difficulty ระดับ Rain ขึ้นไป* หมายถึง spread ที่มีช่องว่างของความยากคล้ายกับช่องว่างระหว่าง [ระดับ difficulty](/wiki/Beatmap/Difficulty#difficulty-levels) ที่ต่ำกว่า ตามที่ระบุใน [criteria เฉพาะ difficulty](#เฉพาะ-difficulty)
+[^proper-spread]: spread ที่ "เหมาะสม" *สำหรับ difficulty ระดับ Rain ขึ้นไป* หมายถึง spread ที่มีช่องว่างของความยากคล้ายกับช่องว่างระหว่าง [ระดับ difficulty](/wiki/Beatmap/Difficulty#difficulty-levels) ที่ต่ำกว่า ตามที่ระบุใน [criteria เฉพาะ difficulty](#difficulty)

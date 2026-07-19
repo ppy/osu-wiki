@@ -1,5 +1,7 @@
 # แถบ Compose (การประกอบ)
 
+{#hit-object-timeline}
+
 ::: Infobox
 ![](img/compose.jpg "แถบ Compose สำหรับโหมด osu!")
 :::
@@ -12,7 +14,7 @@
 
 ตัวแก้ไขจะใช้เครื่องมือชุดเดียวกันสำหรับโหมด osu!, osu!taiko และ osu!catch ในขณะที่โหมด osu!mania จะมีหน้าตาของแถบ Compose ที่แตกต่างออกไปเพื่อให้เหมาะสมกับรูปแบบการเล่น ซึ่งสามารถเข้าถึงได้โดยการเปลี่ยน [โหมดที่รองรับ (Allowed mode)](/wiki/Client/Beatmap_editor/Song_setup#advanced) ให้เป็น `osu!mania` ในการตั้งค่าเพลง
 
-## คุณสมบัติ (Features)
+## Features
 
 *สำหรับภาพรวมของกระบวนการสร้างแมพ ดูที่: [การสร้าง Beatmap (Beatmapping)](/wiki/Beatmapping)*
 
@@ -49,7 +51,7 @@
 | `Slider` (`3`) | `คลิกซ้าย`/`ขวา`: เริ่มหรือจบ [Slider](/wiki/Gameplay/Hit_object/Slider) ณ ตำแหน่งเวลาปัจจุบัน `คลิกซ้าย` ขณะวาง Slider: เพิ่มจุดควบคุม |
 | `Spinner` (`4`) | `คลิกซ้าย`/`ขวา`: เริ่มหรือจบ [Spinner](/wiki/Gameplay/Hit_object/Spinner) ณ ตำแหน่งเวลาปัจจุบัน |
 
-### สนามเล่น (Playfield)
+### Playfield
 
 ![](img/playfield.jpg "การแสดงผลภาพ ณ ตำแหน่งเวลาปัจจุบัน")
 
@@ -77,7 +79,7 @@
 | `Distance Snap` (`Y`) | กด `Alt` ค้างไว้: เปิดปิดชั่วคราว พร้อมเปลี่ยนแถบเลื่อนเป็น Distance snap `Alt` + `ล้อเมาส์`: ปรับตัวคูณระยะห่าง | คำนวณ [ระยะห่าง](/wiki/Client/Beatmap_editor/Distance_snap) ระหว่างวัตถุที่วางต่อกันโดยอิงตามเวลา แนะนำให้ใช้ในขณะที่หยุดเล่นเพลง |
 | `Lock Notes` (`L`) | `คลิกซ้าย`: เปิด/ปิด | ล็อกทุกวัตถุให้อยู่ในตำแหน่งและเวลาปัจจุบันเพื่อป้องกันการขยับโดยไม่ตั้งใจ |
 
-### ไทม์ไลน์เพลง (Song timeline)
+### ไทม์ไลน์เพลง (Song timeline) {#song-timeline}
 
 ![](img/song-timeline.jpg "ไทม์ไลน์เพลง")
 
@@ -113,7 +115,7 @@
 | `Ctrl` + `ลูกศรขวา` | ไปยัง Bookmark ถัดไป |
 | `Ctrl` + `ลูกศรซ้าย` | ไปยัง Bookmark ก่อนหน้า |
 
-## คุณสมบัติเฉพาะ (osu!mania)
+## osu!mania
 
 *สำหรับบทช่วยสอนการทำแมพ mania ในฟอรัม ดูได้ที่: [[Tutorial] osu!mania mapping, Basics](https://osu.ppy.sh/community/forums/topics/118868), [[Tutorial] osu!mania mapping, Keysounding](https://osu.ppy.sh/community/forums/topics/139139)*
 
@@ -125,7 +127,7 @@
 
 ![](img/beat-snap-divisor-mania.jpg "ตัวแบ่งจังหวะในโหมด osu!mania")
 
-ในโหมด osu!mania ส่วนของตัวแบ่งจังหวะจะแสดงชื่อไฟล์เสียงและระดับความดังของเสียง Sample ที่ผูกไว้กับโน้ตที่เลือกด้วย ซึ่งการใส่เสียงเฉพาะโน้ตแบบนี้เรียกว่า Keysounding โดยทำผ่านหน้าต่าง [`Sample import`](#การนำเข้าเสียง-sample-import)
+ในโหมด osu!mania ส่วนของตัวแบ่งจังหวะจะแสดงชื่อไฟล์เสียงและระดับความดังของเสียง Sample ที่ผูกไว้กับโน้ตที่เลือกด้วย ซึ่งการใส่เสียงเฉพาะโน้ตแบบนี้เรียกว่า Keysounding โดยทำผ่านหน้าต่าง [`Sample import`](#sample-import)
 
 ### แถบเครื่องมือด้านซ้าย (Left toolbar)
 
@@ -139,7 +141,7 @@
 | `Circle` (`2`) | `คลิกซ้าย`: วางโน้ต |
 | `Hold` (`3`) | `คลิกซ้ายค้างไว้`: วางโน้ตยาวและปรับความยาว ปล่อยเมาส์เพื่อจบโน้ต |
 
-### สนามเล่น (Playfield)
+### Playfield
 
 ![](img/playfield-mania.jpg "การแสดงผลภาพ ณ ตำแหน่งเวลาปัจจุบัน")
 
@@ -169,13 +171,13 @@
 
 **Sampling** คือกระบวนการเพิ่มเสียง Sample ให้กับแต่ละโน้ตแยกกัน ในการเพิ่มเสียง ให้คลิกที่โน้ตในขณะที่กด `Alt` ค้างไว้ เพื่อเปิดหน้าต่างรายการเสียง Sample ที่มีให้เลือก
 
-#### การนำเข้าเสียง (Sample import)
+#### การนำเข้าเสียง (Sample import) {#sample-import}
 
 ![](img/sample-import.jpg "หน้าต่าง Sample import")
 
 ฝั่งซ้ายของหน้าต่างนี้จะแสดงรายการเสียง Sample ทั้งหมดที่มีอยู่ในโฟลเดอร์ของ Beatmap คุณสามารถนำเสียงเหล่านี้ไปใช้กับโน้ตที่เลือกได้ผ่านการตั้งค่าทางฝั่งขวา
 
-##### พื้นฐาน (Basic)
+##### Basic
 
 | ชื่อ | คำอธิบาย |
 | :-- | :-- |
@@ -192,11 +194,11 @@
 | `Delete` | ลบไฟล์เสียงออกจากโฟลเดอร์ |
 | `Apply` | ใส่เสียงที่เลือกให้กับโน้ตที่เลือกอยู่ |
 | `Sample` | เพิ่มเสียงที่เลือกในรูปแบบ [Storyboard audio event](/wiki/Storyboard/Scripting/Audio) ณ ตำแหน่งเวลาปัจจุบัน |
-| `Sample list` | แสดง [รายการเสียงใน Storyboard](#รายการเสียงใน-storyboard-sample-events-list) |
+| `Sample list` | แสดง [รายการเสียงใน Storyboard](#sample-events-list) |
 | `Reset` | ลบเสียง Sample ที่กำหนดไว้ออกจากโน้ตที่เลือก |
 | `Cancel` | ปิดหน้าต่าง |
 
-#### รายการเสียงใน Storyboard (Sample events list)
+#### รายการเสียงใน Storyboard (Sample events list) {#sample-events-list}
 
 *ดูเพิ่มเติม: [Storyboard audio samples](/wiki/Storyboard/Scripting/Audio)*
 
