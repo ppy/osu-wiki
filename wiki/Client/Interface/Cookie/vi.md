@@ -1,11 +1,3 @@
----
-stub: true
-tags:
-  - logo
-outdated_translation: true
-outdated_since: 73f44ef9e7832b18372e910edc7ce6025acb50bd
----
-
 # Cookie
 
 *Xem thêm: [Hướng dẫn nhận diện thương hiệu](/wiki/Brand_identity_guidelines)*
@@ -16,15 +8,26 @@ outdated_since: 73f44ef9e7832b18372e910edc7ce6025acb50bd
 
 ## Lịch sử 
 
-Bảng dưới đây liệt kê tất cả cookie từng được sử dụng trong lịch sử của osu!, phục vụ cho mục đích lưu trữ.
+### osu!(stable)
+
+Bảng dưới đây liệt kê tất cả cookie từng được sử dụng trong lịch sử của osu!(stable) cho mục đích lưu trữ.
 
 | Cookie | Năm | Ghi chú |
 | :-: | :-: | :-- |
-| ![The 2007 osu! logo](img/2007.png) | 2007 | Sử dụng *Verdana*. |
-| ![The 2008 osu! logo](img/2008.png) | 2008 | Sử dụng *Verdana*. |
-| ![The 2009 osu! logo](img/2009.png) | 2009 | Sử dụng *Verdana*. |
-| ![The 2011 osu! logo](img/2011.png) | 2011 | Sử dụng *Verdana*. |
-| ![The 2011 osu! logo](img/2011fixedcolour.png) | 2011 | Sử dụng *Verdana*. |
-| ![The 2014 osu! logo](img/2014@2x.png) | 2014 | Sử dụng *Aller*. |
-| ![The present osu! logo](img/2016@2x.png) | 2016 – hiện tại | Sử dụng *Aller* |
-| *Không có hình ảnh* | Tháng 1 2024 – Tháng 5 2024 | Sử dụng *Torus*, chỉ được sử dụng trong thời gian ngắn do bị chỉ trích |
+| ![Logo của osu!(stable) năm 2007](img/2007.png) | 2007 | Sử dụng Verdana. |
+| ![Logo của osu!(stable) năm 2008](img/2008.png) | 2008 | Sử dụng Verdana. |
+| ![Logo của osu!(stable) năm 2009](img/2009.png) | 2009 | Sử dụng Verdana. |
+| ![Logo của osu!(stable) năm 2011](img/2011.png) | 2011 | Sử dụng Verdana. |
+| ![Logo của osu!(stable) năm 2011](img/2011fixedcolour.png) | 2011 | Sử dụng Verdana. |
+| ![Logo của osu!(stable) năm 1014](img/2014@2x.png) | 2014 | Sử dụng Aller. |
+| ![Logo của osu!(stable) hiện tại](img/2016@2x.png) | 2016 - hiện tại | Sử dụng Aller. |
+
+### osu!(lazer)
+
+Bảng dưới đây liệt kê tất cả cookie từng được sử dụng trong lịch sử của osu!(lazer) cho mục đích lưu trữ.
+
+| Cookie | Năm | Ghi chú |
+| :-: | :-: | :-- |
+| ![Logo của osu!(lazer) năm 2019](img/2019@2x.png) | 2019 | Sử dụng Aller, chỉ sử dụng như một biểu tượng tạm thời cho ứng dụng để phân biệt osu!(lazer) với osu!(stable). |
+| ![Logo của osu!(lazer) năm 2024](img/2024@2x.png) | tháng 1 năm 2024 - tháng 5 năm 2024 | Sử dụng Torus, chỉ được sử dụng trong khoảng thời gian ngắn do bị phản đối. |
+| ![Logo của osu!(lazer) hiện tại](img/2024_2@2x.png) | tháng 5 năm 2024 – hiện tại | Sử dụng Torus. |
