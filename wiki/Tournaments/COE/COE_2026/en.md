@@ -33,7 +33,7 @@ The COE 2026 1v1 Tournament prizes are yet to be announced.
 | :-- | :-- |
 | Admins | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
 | Mappool selector | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=US }:: [chiv](https://osu.ppy.sh/users/6701656) |
-| Mapper | ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589), ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AT }:: [topXD](https://osu.ppy.sh/users/11904298), more TBA  |
+| Mapper | ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589), ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AT }:: [topXD](https://osu.ppy.sh/users/11904298), more TBA |
 | Custom music producer | TBA |
 | GFX | TBA |
 | Storyboarder | ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) |
@@ -143,7 +143,7 @@ Sunday, 12th of July 2026:
 | **papercandle** ::{ flag=NO }:: | **5** | 4 | ::{ flag=FR }:: Hifkil | [#1](https://osu.ppy.sh/multiplayer/rooms/3603679/events) |
 | **runnysunny** ::{ flag=DE }:: | **5** | 2 | ::{ flag=SM }:: argweid | [#1](https://osu.ppy.sh/multiplayer/rooms/3598861/events) |
 | **NINERIK** ::{ flag=NO }:: | **5** | 3 | ::{ flag=RO }:: origin_ | [#1](https://osu.ppy.sh/multiplayer/rooms/3603038/events) |
-| Aheo ::{ flag=NL }:: | 0 | **5** | ::{ flag=GB }:: **Bubbleman**| [#1](https://osu.ppy.sh/multiplayer/rooms/3597325/events) |
+| Aheo ::{ flag=NL }:: | 0 | **5** | ::{ flag=GB }:: **Bubbleman** | [#1](https://osu.ppy.sh/multiplayer/rooms/3597325/events) |
 
 Monday, 13th of July 2026:
 
@@ -166,9 +166,9 @@ Sunday, 19th of July 2026:
 | --: | :-: | :-: | :-- | :-- |
 | lifeline ::{ flag=ID }:: | 0 | 0 | ::{ flag=IT }:: kusuriya | 11:00 UTC |
 | Amasetic ::{ flag=FI }:: | 0 | 0 | ::{ flag=SM }:: argweid | 13:00 UTC |
+| yary ::{ flag=DE }:: | 0 | 0 | ::{ flag=RO }:: origin_ | 14:00 UTC |
 | BoshyMan741 ::{ flag=US }:: | 0 | 0 | ::{ flag=GB }:: fudge | 18:30 UTC |
 | xootynator ::{ flag=CA }:: | 0 | 0 | ::{ flag=NL }:: Aheo | 19:30 UTC |
-| yary ::{ flag=DE }:: | 0 | 0 | ::{ flag=RO }:: origin_ | TBD |
 
 Thursday, 23rd of July 2026:
 
@@ -213,13 +213,13 @@ If you would like to acquire broadcast rights as a third party you can get in co
 
 #### 1.5 Contact
 
-For any questions, notes, or suggestions regarding this rulebook, please contact the tournament organization via Discord https://discord.gg/zJ7e6cTVFh
+For any questions, notes, or suggestions regarding this rulebook, please contact the tournament organization via [Discord](https://discord.gg/zJ7e6cTVFh)
 
 #### 1.6 Participant Details
 
-###### 1.6.1 Participation
+##### 1.6.1 Participation
 
-Players do not need to sign up prior to playing the qualifiers. Participating in any qualifier match constitutes a sign up and thus binds the player to adhere to the [osu! community rules](https://osu.ppy.sh/wiki/en/Rules) in addition to this rulebook. Compliance will be screened by COE and osu! staff.
+Players do not need to sign up prior to playing the qualifiers. Participating in any qualifier match constitutes a sign up and thus binds the player to adhere to the [osu! community rules](/wiki/Rules) in addition to this rulebook. Compliance will be screened by COE and osu! staff.
 
 Players will need to use both an osu! account and a Discord account during the tournament. No account changes can be made after playing the qualifier.
 
