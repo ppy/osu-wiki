@@ -7,47 +7,47 @@ tags:
   - PF
 ---
 
-# Perfect (Mod)
+# Perfect (mod)
 
-![ไอคอน Mod PF](/wiki/shared/mods/PF.png "Perfect (PF) mod icon")
+![PF mod icon](/wiki/shared/mods/PF.png "Perfect (PF) mod icon")
 
 *สำหรับบทความเวอร์ชัน [lazer](/wiki/Client/Release_stream/Lazer) ดูที่: [Perfect (lazer mod)](/wiki/Gameplay/Game_modifier/Perfect_(lazer))*\
-*สำหรับรายการ Mod ทั้งหมด ดูที่: [ตัวปรับแต่งเกม (Game modifier)](/wiki/Gameplay/Game_modifier)*\
-*ดูเพิ่มเติม: [Sudden Death (Mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
+*สำหรับรายชื่อม็อดทั้งหมด ดูที่: [Game modifier](/wiki/Gameplay/Game_modifier)*\
+*ดูเพิ่มเติม: [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
 
-## ข้อมูลทั่วไป
+## เกี่ยวกับ
 
 - ตัวย่อ: PF
-- ประเภท: เพิ่มความยาก (Difficulty Increase)
-- ตัวคูณคะแนน: 1.00x
-- ปุ่มลัดพื้นฐาน: `S` `S` หรือ `Shift` + `S`
-- คำอธิบาย: `ต้อง SS เท่านั้น ไม่อย่างนั้นจะเริ่มใหม่`
-- โหมดที่รองรับ: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- รูปแบบแยกย่อย: [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death)
+- ประเภท: Difficulty Increase
+- Score Multiplier: 1.00x
+- คีย์ลัดเริ่มต้น: `S` `S` หรือ `Shift` + `S`
+- คำอธิบาย: `SS or quit.`
+- โหมดเกมที่รองรับ: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- Variant: [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death)
 
-## รายละเอียด
+## คำอธิบาย
 
-**Perfect** เป็น [ตัวปรับแต่งเกม](/wiki/Gameplay/Game_modifier) ที่มีจุดประสงค์เพื่อช่วยเหลือผู้เล่นที่ต้องการทำเกรด SS โดยการทำให้ออกจากการเล่นและเริ่มเล่นแมพใหม่ (Retry) โดยอัตโนมัติ หากผู้เล่นกดพลาด (Miss) หรือได้รับการตัดสินบน [วัตถุ (Hit object)](/wiki/Gameplay/Hit_object) ในระดับอื่นที่นอกเหนือจาก GREAT
+ม็อด **Perfect** เป็น[ม็อด](/wiki/Gameplay/Game_modifier)ที่ช่วยผู้เล่นที่กำลังไล่ grade SS โดยจะทำให้ fail และ retry [บีตแมป](/wiki/Beatmap)อัตโนมัติ หากผู้เล่น miss โน้ตหรือได้รับ judgement ใด ๆ บน [hit object](/wiki/Gameplay/Hit_object) ที่ไม่ใช่ GREAT
 
-การกระทำใดๆ ต่อไปนี้ **จะทำให้** Mod Perfect สั่งเริ่มเล่นแมพใหม่ทันที:
+การกระทำต่อไปนี้ **จะทำให้** ม็อด Perfect รีสตาร์ตบีตแมป:
 
-- กดโน้ตพลาด (Miss)
-- ได้รับการตัดสินระดับ OK (100) หรือ MEH (50)
-- หมุนสปินเนอร์ไม่สำเร็จ
-- เก็บ [หางสไลเดอร์ (Slidertail)](/wiki/Gameplay/Hit_object/Slider/Slidertail) พลาด หรือทำ [สไลเดอร์หลุด (Slider break)](/wiki/Gameplay/Judgement/Slider_break)
+- miss โน้ต
+- ได้ OK หรือ MEH
+- ทำสปินเนอร์ไม่สำเร็จ
+- ทำ[หาง](/wiki/Gameplay/Hit_object/Slider/Slidertail)ของสไลเดอร์หลุด หรือเกิด [slider break](/wiki/Gameplay/Judgement/Slider_break)
 
-การกระทำใดๆ ต่อไปนี้ **จะไม่ทำให้** Mod Perfect สั่งเริ่มเล่นใหม่:
+การกระทำต่อไปนี้ **จะไม่ทำให้** ม็อด Perfect รีสตาร์ตบีตแมป:
 
-- ได้รับการตัดสินระดับ GREAT (300)
-- หมุนสปินเนอร์สำเร็จ
-- ได้รับการตัดสินระดับ PERFECT (MAX) (ในโหมด [osu!mania](/wiki/Game_mode/osu!mania))
-- ได้รับการตัดสินระดับ MEH/OK/GOOD ที่หัวหรือหางของโน้ตยาวในระบบ [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) (ในโหมด [osu!mania](/wiki/Game_mode/osu!mania))
+- ได้ GREAT
+- ทำสปินเนอร์สำเร็จ
+- ได้ PERFECT ใน [osu!mania](/wiki/Game_mode/osu!mania)
+- ได้ MEH/OK/GOOD ที่ head/tail ของ long note ใน [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) สำหรับ [osu!mania](/wiki/Game_mode/osu!mania)
 
-Mod นี้มีผลเหมือนกันในทุก [โหมดการเล่น](/wiki/Game_mode)
+ม็อดนี้ให้ผลเหมือนกันในทุก[โหมดเกม](/wiki/Game_mode)
 
-## เกร็ดน่ารู้ (Trivia)
+## เกร็ดน่ารู้
 
-- หากแมพนั้นมีฉากนำ (Prologue) ที่สามารถกดข้ามได้ Mod Perfect จะไม่กดข้ามให้โดยอัตโนมัติเมื่อเริ่มเล่นใหม่ เนื่องจากมันใช้ฟังก์ชันการ "Restart" (เริ่มจากจุดศูนย์) แทนที่จะเป็นการ "Quick Retry" (เริ่มใหม่แบบข้ามฉากนำ)
+- หากมี prologue ที่ข้ามได้ ม็อด Perfect จะไม่ข้ามให้อัตโนมัติ เพราะใช้ฟังก์ชัน restart ไม่ใช่ quick retry
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

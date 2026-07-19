@@ -4,27 +4,31 @@ tags:
   - IN
 ---
 
-# Invert (mod)
+# Invert (ม็อด)
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Invert
 
-![Invert mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/IN.png)
+![ไอคอนม็อด Invert](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/IN.png)
 
-*กดค้างไว้ ให้เข้ากับจังหวะ*
+*กดคีย์ค้างไว้ ตามจังหวะเพลง*
 
 |  |  |
 | :-- | :-- |
 | ตัวย่อ (Acronym) | IN |
-| ประเภท (Type) | การแปลง (Conversion) |
+| ประเภท (Type) | แปลงรูปแบบการเล่น (Conversion) |
 | โหมดเกม (Game modes) | ![][osu!mania] |
 | ตัวคูณคะแนน (Score multiplier) | 1.00x |
 | สถานะ (Status) | Unranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ | [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
+| ม็อดที่ใช้ร่วมกันไม่ได้ | [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
 
 :::
 
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+<!-- TODO description and settings -->
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

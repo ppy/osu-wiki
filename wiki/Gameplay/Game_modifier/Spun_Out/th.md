@@ -8,26 +8,26 @@ tags:
   - game modifier
 ---
 
-# Spun Out (Mod)
+# Spun Out (ม็อด)
 
-![ไอคอน Mod SO](/wiki/shared/mods/SO.png "Spun Out (SO) mod icon")
+![ไอคอนม็อด SO](/wiki/shared/mods/SO.png "ไอคอนม็อด Spun Out (SO)")
 
 *สำหรับบทความเวอร์ชัน [lazer](/wiki/Client/Release_stream/Lazer) ดูที่: [Spun Out (lazer mod)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer))*\
-*สำหรับรายการ Mod ทั้งหมด ดูที่: [ตัวปรับแต่งเกม (Game modifier)](/wiki/Gameplay/Game_modifier)*
+*สำหรับรายชื่อม็อดทั้งหมด ดูที่: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
-## ข้อมูลทั่วไป
+## เกี่ยวกับ
 
 - ตัวย่อ: SO
-- ประเภท: พิเศษ (Special)
+- ประเภท: พิเศษ
 - ตัวคูณคะแนน: 0.90x
-- ปุ่มลัดพื้นฐาน: `C`
-- คำอธิบาย: `หมุนสปินเนอร์ให้โดยอัตโนมัติ`
-- โหมดที่รองรับ: ![][osu!]
+- ปุ่มลัดเริ่มต้น: `C`
+- คำบรรยาย: `Spinners will be automatically completed.`
+- โหมดเกมที่ใช้ร่วมกันได้: ![][osu!]
 
-## รายละเอียด
+## คำอธิบาย
 
-**Spun Out** เป็น [ตัวปรับแต่งเกม](/wiki/Gameplay/Game_modifier) ที่มีจุดประสงค์เพื่อช่วยเหลือผู้เล่นโหมด [osu!](/wiki/Game_mode/osu!) ในการจัดการกับสปินเนอร์ (Spinner) ใน [บีทแมพ (Beatmap)](/wiki/Beatmap) โดยระบบจะทำการหมุนสปินเนอร์ให้โดยอัตโนมัติด้วยความเร็วคงที่ 286.48 รอบต่อนาที (SPM) ในทิศทางตามเข็มนาฬิกา ซึ่งเป็นความเร็วประมาณ 3/5 ของความเร็วที่ Mod Auto ใช้ (477.26 SPM)
+ม็อด **Spun Out** คือ [game modifier](/wiki/Gameplay/Game_modifier) ที่มีเป้าหมายเพื่อช่วยผู้เล่น [osu!](/wiki/Game_mode/osu!) เคลียร์สปินเนอร์ใน [บีตแมป](/wiki/Beatmap) ได้สำเร็จ ม็อดนี้จะเคลียร์สปินเนอร์ทั้งหมดในบีตแมปด้วยความเร็ว 286.48 รอบต่อนาที (SPM) พอดี โดยหมุนตามเข็มนาฬิกา ซึ่งเท่ากับ 3/5 ของความเร็ว 477.26 SPM ของ Auto
 
-ในขณะที่เปิดใช้งาน Mod นี้ ระบบควบคุมสปินเนอร์จะถูกล็อกไว้ และผู้เล่นจะไม่สามารถหมุนเมาส์เพื่อเพิ่มความเร็วในการหมุนได้ด้วยตนเอง
+สปินเนอร์จะถูกปิดการควบคุม และผู้เล่นไม่สามารถหมุนเพื่อเพิ่มค่า SPM ได้
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

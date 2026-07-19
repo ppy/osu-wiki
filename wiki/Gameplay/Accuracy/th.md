@@ -1,22 +1,22 @@
 ---
-needs_cleanup: true
+needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9919
 ---
 
-# ความแม่นยำ (Accuracy)
+# Accuracy
 
 <!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
 
-**ความแม่นยำ (Accuracy)** คือการวัดผลในรูปแบบเปอร์เซ็นต์ของความสามารถในการกด [วัตถุ (Hit objects)](/wiki/Gameplay/Hit_object) ให้ตรงตามจังหวะเวลาที่กำหนด ความแม่นยำมีทั้งหมด 3 ประเภทที่ผู้เล่นควรทราบ ได้แก่: ความแม่นยำของแต่ละบีทแมพ (อิงตามคะแนนการกดที่ได้รับ), ความแม่นยำโดยรวมของผู้เล่น (ซึ่งจะมีการถ่วงน้ำหนักเพื่อให้คะแนนที่ดีโดดเด่นขึ้น) และความแม่นยำสำหรับ [Performance Points (pp)](/wiki/Performance_points) (ซึ่งอิงตามผลการเล่นที่ส่งเข้าระบบ)
+Accuracy คือค่าร้อยละที่วัดความสามารถของผู้เล่นในการกด [hit object](/wiki/Gameplay/Hit_object) ให้ตรงเวลา Accuracy ที่ผู้เล่นมีได้แบ่งเป็น 3 ประเภท ได้แก่ accuracy ของบีตแมป ซึ่งขึ้นอยู่กับ hit score ที่ได้รับ, accuracy รวมของผู้เล่น ซึ่งมีการถ่วงน้ำหนักเพื่อให้คะแนนที่ดีกว่าเด่นขึ้น และ accuracy สำหรับ [Performance Points (pp)](/wiki/Performance_points) ซึ่งขึ้นอยู่กับ accuracy ของคะแนนที่ส่งเข้าระบบ
 
-## โหมดการเล่นต่างๆ
+## โหมดเกม
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-![ความแม่นยำ = (300 \* จำนวนของ 300 + 100 \* จำนวนของ 100 + 50 \* จำนวนของ 50) / (300 \* (จำนวนของ 300 + จำนวนของ 100 + จำนวนของ 50 + จำนวนของ Miss))](img/accuracy_osu_updated.png "สูตรคำนวณความแม่นยำของ osu!")
+![Accuracy = (300 \* number of 300s + 100 \* number of 100s + 50 \* number of 50s) / (300 \* (number of 300s + number of 100s + number of 50s + number of misses))](img/accuracy_osu_updated.png "Accuracy formula for osu!")
 
-ในโหมด osu! ความแม่นยำจะถูกคำนวณโดยการนำน้ำหนักคะแนนจาก [การตัดสิน (Judgement)](/wiki/Gameplay/Judgement) ที่ได้รับจากแต่ละวัตถุมาคูณด้วยค่าคะแนนของมัน แล้วหารด้วยคะแนนสูงสุดที่เป็นไปได้
+ใน osu! accuracy คำนวณโดยนำ[judgement](/wiki/Gameplay/Judgement)ที่ได้จากแต่ละ hit object มาถ่วงน้ำหนักตามค่าของมัน แล้วหารด้วยค่าที่เป็นไปได้สูงสุด
 
-ตัวอย่างน้ำหนักคะแนนสำหรับวงกลม (Hit circle) 1 อัน:
+อ้างอิงสำหรับหนึ่ง hit circle:
 
 ```
 300 -> 300 / 300 = 1   = 100.00%
@@ -27,73 +27,73 @@ needs_cleanup: true
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-![ความแม่นยำ = (จำนวนของ GREAT + 0.5 \* จำนวนของ GOOD) / (จำนวนของ GREAT + จำนวนของ GOOD + จำนวนของ Miss)](img/accuracy_taiko_updated.png "สูตรคำนวณความแม่นยำของ osu!taiko")
+![Accuracy = (number of GREATs + 0.5 \* number of GOODs) / (number of GREATs + number of GOODs + number of misses)](img/accuracy_taiko_updated.png "Accuracy formula for osu!taiko")
 
-ในโหมด osu!taiko ความแม่นยำจะคำนวณจากผลรวมของความแม่นยำในแต่ละโน้ต (ว่าคุณกดได้ใกล้เคียงจังหวะเพียงใด) หารด้วยจำนวนโน้ตทั้งหมดที่กดไป การตัดสินจะแบ่งเป็น GREAT (良) (นับเป็น 100%), GOOD (可) (นับเป็น 50%) และ MISS/BAD (不可) (นับเป็น 0% และจะทำให้คอมโบหลุด) ส่วน Drum rolls และ Spinner จะไม่มีผลต่อความแม่นยำ
+ใน osu!taiko accuracy คำนวณจากผลรวมของความแม่นยำของโน้ต หรือว่าผู้เล่นกดโน้ตได้ใกล้จังหวะที่ถูกต้องแค่ไหน หารด้วยจำนวนโน้ตทั้งหมดที่มีคะแนนจนถึงตอนนั้น ความแม่นยำของโน้ตจะแสดงเป็น GREAT (良) ซึ่งนับเป็น 100%, GOOD (可) ซึ่งนับเป็น 50% หรือครึ่งหนึ่ง และ MISS/BAD (不可) ซึ่งนับเป็น 0% และทำให้คอมโบขาดด้วย Drum roll และสปินเนอร์ไม่มีผลต่อ accuracy
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-![ความแม่นยำ = (จำนวนผลไม้ที่รับได้ + จำนวนหยดน้ำใหญ่ที่รับได้ + จำนวนหยดน้ำเล็กที่รับได้) / (จำนวนผลไม้ทั้งหมด + จำนวนหยดน้ำใหญ่ทั้งหมด + จำนวนหยดน้ำเล็กทั้งหมด)](img/accuracy_catch_updated.png "สูตรคำนวณความแม่นยำของ osu!catch")
+![Accuracy = (number of caught fruits + number of caught drops + number of caught droplets) / (number of all fruits + number of all drops + number of all droplets)](img/accuracy_catch_updated.png "Accuracy formula for osu!catch")
 
-ในโหมด osu!catch ความแม่นยำจะคำนวณจากจำนวนรวมของวัตถุที่ไม่ใช่ Spinner ทั้งหมดที่รับได้ หารด้วยจำนวนวัตถุทั้งหมดที่ไม่ใช่ Spinner วัตถุทุกชิ้นมีค่าเท่ากัน ยกเว้นกล้วยซึ่งเป็นส่วนหนึ่งของ Spinner
+ใน osu!catch accuracy คำนวณจากจำนวน hit object ที่ไม่ใช่สปินเนอร์และเก็บได้ทั้งหมด หารด้วยจำนวนออบเจกต์ที่ไม่ใช่สปินเนอร์ทั้งหมด hit object ทุกชนิดมีค่าเท่ากัน ยกเว้น banana เพราะเป็นส่วนหนึ่งของออบเจกต์ประเภทสปินเนอร์
 
-*หมายเหตุสำหรับผู้ใช้งาน [API](/wiki/osu!api):*
+*หมายเหตุสำหรับผู้ใช้ [API](/wiki/osu!api):*
 
-- จำนวนหยดน้ำใหญ่ (Drops) ที่รับได้จะถูกส่งกลับมาในค่า `count100`
-- จำนวนหยดน้ำเล็ก (Droplets) ที่รับได้จะถูกส่งกลับมาในค่า `count50`
-- จำนวนผลไม้และหยดน้ำใหญ่ที่พลาดรวมกันจะถูกส่งกลับมาในค่า `countMiss`
-- จำนวนหยดน้ำเล็กที่พลาดจะถูกส่งกลับมาในค่า `countKatu`
-- ห้ามใช้ `countGeki` ในการคำนวณความแม่นยำ เนื่องจากเป็นเพียงตัวนับผลไม้ที่จบชุดคอมโบเท่านั้น
+- จำนวน drop ที่เก็บได้จะถูกส่งกลับเป็น `count100`
+- จำนวน droplet ที่เก็บได้จะถูกส่งกลับเป็น `count50`
+- จำนวน fruit *และ* drop ที่พลาดรวมกันจะถูกส่งกลับเป็น `countMiss`
+- จำนวน droplet ที่พลาดจะถูกส่งกลับเป็น `countKatu`
+- ไม่ควรใช้ `countGeki` ในการคำนวณ accuracy เลย เพราะเป็นจำนวน fruit ปิดคอมโบที่เก็บได้
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-ในโหมด osu!mania ความแม่นยำจะคำนวณคล้ายกับโหมด [osu!](#osu!) อย่างไรก็ตาม น้ำหนักคะแนนของ Rainbow 300 (หรือที่เรียกว่า MAX) จะขึ้นอยู่กับว่ามีการเปิดใช้งาน ScoreV2 หรือไม่
+ใน osu!mania accuracy คำนวณคล้ายกับ [osu!](#osu!) อย่างไรก็ตาม น้ำหนักของ rainbow 300 หรือที่เรียกว่า MAX result จะขึ้นอยู่กับว่า ScoreV2 เปิดใช้งานอยู่หรือไม่
 
-หากไม่ได้เปิด ScoreV2 (ใช้ ScoreV1) ทั้ง Rainbow 300 และ Gold 300 จะมีน้ำหนักเท่ากับ 300:
+เมื่อไม่ได้เปิด ScoreV2 rainbow 300 และ gold 300 จะมีน้ำหนักเท่ากันคือ 300:
 
-![ความแม่นยำ = (300 \* (จำนวนของ MAX + จำนวนของ 300) + 200 \* จำนวนของ 200 + 100 \* จำนวนของ 100 + 50 \* จำนวนของ 50) / (300 \* (จำนวนของ MAX + จำนวนของ 300 + จำนวนของ 200 + จำนวนของ 100 + จำนวนของ 50 + จำนวนของ Miss))](img/accuracy_mania_updated_score_v1.png "สูตรคำนวณความแม่นยำของ osu!mania รุ่น ScoreV1")
+![Accuracy = (300 \* (number of MAXs + number of 300s) + 200 \* number of 200s + 100 \* number of 100s + 50 \* number of 50s) / (300 \* (number of MAXs + number of 300s + number of 200s + number of 100s + number of 50s + number of misses))](img/accuracy_mania_updated_score_v1.png "Accuracy formula for osu!mania with ScoreV1")
 
-หากเปิดใช้งาน ScoreV2 จะเพิ่มน้ำหนักคะแนนของ Rainbow 300 เป็น 305:
+ScoreV2 เพิ่มน้ำหนักของ rainbow 300 เป็น 305:
 
-![ความแม่นยำ = (305 \* จำนวนของ MAX + 300 \* จำนวนของ 300 + 200 \* จำนวนของ 200 + 100 \* จำนวนของ 100 + 50 \* จำนวนของ 50) / (305 \* (จำนวนของ MAX + จำนวนของ 300 + จำนวนของ 200 + จำนวนของ 100 + จำนวนของ 50 + จำนวนของ Miss))](img/accuracy_mania_updated_score_v2.png "สูตรคำนวณความแม่นยำของ osu!mania รุ่น ScoreV2")
+![Accuracy = 305 \* number of MAXs + 300 \* number of 300s + 200 \* number of 200s + 100 \* number of 100s + 50 \* number of 50s) / (305 \* (number of MAXs + number of 300s + number of 200s + number of 100s + number of 50s + number of misses))](img/accuracy_mania_updated_score_v2.png "Accuracy formula for osu!mania with ScoreV2")
 
-*หมายเหตุสำหรับผู้ใช้งาน API:*
+*หมายเหตุสำหรับผู้ใช้ API:*
 
-- จำนวน Rainbow 300 จะถูกส่งกลับมาในค่า `countGeki`
-- จำนวน 200 จะถูกส่งกลับมาในค่า `countKatu`
+- จำนวน rainbow 300 จะถูกส่งกลับเป็น `countGeki`
+- จำนวน 200 จะถูกส่งกลับเป็น `countKatu`
 
-## กราฟประสิทธิภาพ (Performance graph)
+## กราฟ performance
 
-![กราฟประสิทธิภาพ](img/performance_graph.png "Performance graph")
+![Performance graph](img/performance_graph.png "Performance graph")
 
-กราฟประสิทธิภาพคือแผนภูมิที่แสดงประสิทธิภาพการเล่นของผู้เล่น (อิงตามแถบพลังชีวิต) ตลอดช่วงระยะเวลาของเพลง ข้อมูลเพิ่มเติมจะแสดงขึ้นเมื่อคุณวางเคอร์เซอร์เมาส์เหนือจุดต่างๆ บนกราฟ
+กราฟ performance คือกราฟที่แสดงฟอร์มของผู้เล่นจากหลอดชีวิตตลอดระยะเวลาการเล่น สามารถดูข้อมูลเพิ่มเติมได้เมื่อนำเคอร์เซอร์ในเกมไปวางบนกราฟ
 
-*หมายเหตุ: ข้อมูลเพิ่มเติมนี้สามารถดูได้หลังจากจบแมพหรือดู Replay เท่านั้น เมื่อออกจาก [หน้าสรุปผล](/wiki/Client/Interface#results-screen) ข้อมูลเหล่านี้จะไม่ถูกบันทึก*
+*หมายเหตุ: ข้อมูลเพิ่มเติมจะดูได้เฉพาะหลังเล่นบีตแมปหรือดูรีเพลย์เท่านั้น หลังออกจาก[หน้าผลลัพธ์](/wiki/Client/Interface#results-screen) ข้อมูลนี้จะไม่ถูกบันทึกไว้*
 
-### ความแม่นยำ (Accuracy)
+### Accuracy
 
-เมื่อวางเมาส์เหนือกราฟประสิทธิภาพ จะมีหน้าต่างเล็กๆ (Tooltip) แสดงค่า `Error` และ `Unstable Rate`
+เมื่อนำเมาส์ไปวางบนกราฟ performance จะมี tooltip แสดงค่า `Error` และ `Unstable Rate`
 
-เนื่องจากรูปแบบการทำงานของ Mod [DT](/wiki/Gameplay/Game_modifier/Double_Time) (Double Time) และ [HT](/wiki/Gameplay/Game_modifier/Half_Time) (Half Time) ค่า Error และ Unstable Rate จะถูกคูณด้วยตัวคูณเดียวกับความเร็วเพลง หากต้องการทราบค่าที่แท้จริงเมื่อใช้ DT ให้หารผลลัพธ์ด้วย 1.5 และหากใช้ HT ให้คูณผลลัพธ์ด้วย 1.33
+เนื่องจากวิธีที่ม็อด [DT](/wiki/Gameplay/Game_modifier/Double_Time) (Double Time) และ [HT](/wiki/Gameplay/Game_modifier/Half_Time) (Half Time) ถูกใช้งาน ค่า error และ unstable rate จะถูกคูณด้วยตัวคูณเดียวกับเพลง หากต้องการค่าจริงเมื่อเล่นด้วยม็อด DT ให้หารผลลัพธ์ด้วย 1.5 เช่นเดียวกัน เมื่อเล่นด้วยม็อด HT ให้คูณผลลัพธ์ด้วย 1.33
 
-#### Error (ค่าความผิดพลาด)
+#### Error
 
-`Error` จะแสดงตัวเลขสองค่าที่บอกว่าโดยเฉลี่ยแล้วคุณกดเร็วไป (Early) หรือช้าไป (Late) เพียงใด ยิ่งบีทแมพมีค่า [ความยากโดยรวม (Overall Difficulty)](/wiki/Beatmap/Overall_difficulty) สูงเท่าไหร่ ค่าความผิดพลาดของคุณจะต้องยิ่งต่ำลงเพื่อให้ได้คะแนนที่ดี
+`Error` จะแสดงสองค่าเสมอ ซึ่งแทนว่า hit ที่กดเร็วเกินไปคลาดเคลื่อนโดยเฉลี่ยเท่าไร และ hit ที่กดช้าเกินไปคลาดเคลื่อนโดยเฉลี่ยเท่าไร ยิ่งค่า [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) ของบีตแมปสูง ค่า error ก็ต้องยิ่งต่ำลงเพื่อให้เล่นได้ดีบนบีตแมปนั้น
 
-#### Unstable rate (ค่าความไม่เสถียร)
+#### Unstable rate
 
 *หน้าหลัก: [Unstable rate](/wiki/Gameplay/Unstable_rate)*
 
-`Unstable Rate` (*UR*) แสดงค่า [ส่วนเบี่ยงเบนมาตรฐาน](https://en.wikipedia.org/wiki/Standard_deviation) ของความผิดพลาดในการกด มีหน่วยเป็นเศษหนึ่งส่วนสิบของมิลลิวินาที ค่า UR ที่ต่ำกว่าหมายถึงความเสถียรในการกดที่ดีกว่า
+`Unstable Rate` (*UR*) แสดง[ส่วนเบี่ยงเบนมาตรฐาน](https://en.wikipedia.org/wiki/Standard_deviation)ของ hit error ในหน่วยหนึ่งในสิบของมิลลิวินาที ค่า UR ที่ต่ำกว่าหมายถึงความสม่ำเสมอที่มากกว่า
 
-โปรดทราบว่าความเสถียรไม่ใช่สิ่งเดียวกับความแม่นยำ แม้ว่าค่า UR ต่ำมักจะเกิดจากการเล่นที่แม่นยำ แต่คุณก็สามารถมีค่า UR ต่ำมากพร้อมกับความแม่นยำที่ต่ำมากได้เช่นกัน ตัวอย่างเช่น หากผู้เล่นกดโน้ตทุกตัวช้าไปในระดับเดียวกันจนได้ [50](/wiki/Gameplay/Judgement/osu!) ทั้งแมพ พวกเขาจะมีค่า UR ที่ต่ำมากแต่ความแม่นยำก็จะต่ำมากด้วย
+โปรดทราบว่าความสม่ำเสมอไม่ใช่สิ่งเดียวกับ accuracy แม้ค่า UR ต่ำมักมาจากการเล่นที่แม่น แต่ก็เป็นไปได้ที่จะได้ UR ต่ำมากพร้อมกับ accuracy ต่ำมาก ตัวอย่างเช่น ผู้เล่นอาจกดทุก[ออบเจกต์](/wiki/Gameplay/Hit_object)ช้าพอจนได้ [50](/wiki/Gameplay/Judgement/osu!) ทุกตัว แต่ error สม่ำเสมอมาก
 
-### Spin (การหมุน)
+### Spin
 
-*หมายเหตุ: ข้อมูลนี้มีเฉพาะใน [โหมดการเล่น osu!](/wiki/Game_mode/osu!) เท่านั้น*
+*หมายเหตุ: Spin ใช้เฉพาะกับ[โหมด osu!](/wiki/Game_mode/osu!) เท่านั้น*
 
-นอกจากเรื่องความแม่นยำแล้ว ยังมีการแสดงข้อมูลเกี่ยวกับสปินเนอร์ใน Tooltip เดียวกันด้วย
+นอกจาก accuracy แล้ว tooltip เดียวกันยังแสดงข้อมูลบางอย่างเกี่ยวกับสปินเนอร์ด้วย <!-- This line could use some more information on what that information is, how it's calculated, what it means, etc. etc. -->
 
-#### ความเร็ว (Speed)
+#### Speed
 
-ความเร็ว (Speed) แสดงค่าเฉลี่ย RPM (รอบต่อนาที) ของทุกสปินเนอร์ในบีทแมพนั้น ส่วนค่า `Max` คือความเร็วรอบต่อนาทีสูงสุดที่ผู้เล่นทำได้ในสปินเนอร์ตัวใดตัวหนึ่งของแมพ
+Speed แทนค่า RPM เฉลี่ย หรือรอบต่อนาที ของสปินเนอร์ทั้งหมดในบีตแมป `Max` คือค่า RPM สูงสุดที่ผู้เล่นทำได้จากสปินเนอร์ใด ๆ ในบีตแมป

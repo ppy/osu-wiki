@@ -2,9 +2,9 @@
 stub: true
 ---
 
-# รูปแบบใน osu! (osu! patterns)
+# osu! patterns
 
-หน้าดัชนีสำหรับประเภท [รูปแบบ (Pattern)](..) เฉพาะของโหมด [osu!](/wiki/Game_mode/osu!)
+หน้ารวมประเภท [pattern](..) เฉพาะของ [osu!](/wiki/Game_mode/osu!)
 
 - [Jump](Jump)
 - [Stream](Stream)

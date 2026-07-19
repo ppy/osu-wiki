@@ -9,6 +9,8 @@ tags:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Accuracy Challenge
 
 ![Accuracy Challenge mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AC.png)
@@ -17,33 +19,31 @@ tags:
 
 |  |  |
 | :-- | :-- |
-| ตัวย่อ (Acronym) | AC |
-| ประเภท (Type) | เพิ่มความยาก (Difficulty Increase) |
-| โหมดเกม (Game modes) | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| ตัวคูณคะแนน (Score multiplier) | 1.00x |
-| สถานะ (Status) | Ranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ ![][osu!] ![][osu!catch] ![][osu!mania] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
-| Mod ที่ใช้ร่วมกันไม่ได้ ![][osu!taiko] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
+| Acronym | AC |
+| Type | Difficulty Increase |
+| Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| Score multiplier | 1.00x |
+| Status | Ranked |
+| Incompatible mods ![][osu!] ![][osu!catch] ![][osu!mania] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
+| Incompatible mods ![][osu!taiko] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 
 :::
 
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-**Accuracy Challenge** mod จะอนุญาตให้ผู้เล่นกำหนดค่าความแม่นยำ (Accuracy) ขั้นต่ำที่ต้องรักษาไว้เพื่อไม่ให้เล่นแพ้ (Fail)
+ม็อด **Accuracy Challenge** ให้ผู้เล่นตั้งค่า accuracy ขั้นต่ำที่ต้องรักษาไว้เพื่อไม่ให้ fail
 
-## การปรับแต่ง (Customisation)
+## การปรับแต่ง
 
 ![Accuracy Challenge customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/AC.png)
 
-* **Minimum accuracy** (60%-99%, ค่าเริ่มต้น: 90%): จะทำให้แพ้ทันทีหากค่า Accuracy ลดลงต่ำกว่าค่านี้
+- **Minimum accuracy** (60%-99%, ค่าเริ่มต้น: 90%): ทำให้ fail หาก accuracy ต่ำกว่าค่านี้
+- **Accuracy mode** (ค่าเริ่มต้น: Maximum achievable): โหมดของ accuracy ที่จะ trigger การ fail
+  - **Maximum achievable**: fail ทันทีหากไม่สามารถทำถึง threshold ได้ภายในตอนจบ[บีตแมป](/wiki/Beatmap)
+  - **Standard**: fail หาก accuracy ต่ำกว่าค่าที่กำหนดอย่างเข้มงวด
+- Restart on fail (ค่าเริ่มต้น: ปิดใช้งาน): รีสตาร์ตแมปเมื่อ accuracy ต่ำกว่าค่าขั้นต่ำที่ระบุไว้
 
-* **Accuracy mode** (ค่าเริ่มต้น: Maximum achievable): รูปแบบของ Accuracy ที่จะใช้ตัดสินการแพ้
-  * **Maximum achievable**: จะแพ้หาก Accuracy ของคุณไม่มีทางทำได้เกินค่าที่กำหนดไว้เมื่อจบ Map
-  * **Standard**: จะแพ้หากค่า Accuracy ลดลงต่ำกว่าค่าที่กำหนดไว้โดยตรง
-
-* Restart on fail (ค่าเริ่มต้น: ปิดใช้งาน): เริ่มเล่น Map ใหม่ทันทีเมื่อค่า Accuracy ลดลงต่ำกว่าค่าขั้นต่ำที่กำหนดไว้
-
-*การเปลี่ยนตัวเลือกใดๆ ในหน้านี้จะไม่ทำให้ Mod นี้กลายเป็น Unrankable*
+*ม็อดนี้ยัง rankable ไม่ว่าจะตั้งค่าการปรับแต่งอย่างไร*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -7,12 +7,14 @@ tags:
 
 # Combo burst
 
-**Combo bursts** (คอมโบเบิรสต์) คือเอฟเฟกต์ภาพที่จะแสดงขึ้นเพื่อเฉลิมฉลองเมื่อผู้เล่นทำคอมโบถึงจุดที่กำหนด ([Combo milestone](/wiki/Gameplay/Combo_milestone)) โดยรูปภาพที่แสดงจะแตกต่างกันไปตามโหมดการเล่น:
+**Combo burst** คือเอฟเฟกต์ฉลองเมื่อทำถึง [combo milestone](/wiki/Gameplay/Combo_milestone) โดยจะแวบภาพ combo burst ขึ้นมา ภาพเหล่านี้จะแตกต่างกันไปตามแต่ละโหมดเกม
 
-- ในโหมด [osu!](/wiki/Game_mode/osu!) และ [osu!catch](/wiki/Game_mode/osu!catch): ตัวละครจะกระโดดออกมาจากด้านซ้ายหรือด้านขวาของหน้าจอ โดยปกติแล้วจะเป็น [pippi](/wiki/Mascots#pippi) ในโหมด osu! และ [Yuzu](/wiki/Mascots#yuzu) ในโหมด osu!catch
-- ในโหมด [osu!taiko](/wiki/Game_mode/osu!taiko): จะมีกลุ่มดอกไม้ปรากฏขึ้นที่ด้านหลังของ [pippidon](/wiki/Mascots#don)
-- ในโหมด [osu!mania](/wiki/Game_mode/osu!mania): โดยปกติตัวละครจะกระโดดออกมาจากด้านขวาของสนามเล่น
+- ใน [osu!](/wiki/Game_mode/osu!) และ [osu!catch](/wiki/Game_mode/osu!catch) ตัวละครจะพุ่งออกมาจากฝั่งซ้ายหรือขวาของหน้าต่าง โดยค่าเริ่มต้นคือ [pippi](/wiki/Mascots#pippi) และ [Yuzu](/wiki/Mascots#yuzu) ตามลำดับ
+- ใน [osu!taiko](/wiki/Game_mode/osu!taiko) จะมีช่อดอกไม้พุ่งขึ้นมาด้านหลัง [pippidon](/wiki/Mascots#don)
+- ใน [osu!mania](/wiki/Game_mode/osu!mania) โดยค่าเริ่มต้นตัวละครจะพุ่งออกมาจากฝั่งขวาของสเตจ
 
-สำหรับโหมด osu!, osu!taiko และ osu!catch จะมีเอฟเฟกต์ดาวพุ่งออกมาจากด้านซ้ายหรือด้านขวาของสนามเล่นเมื่อคอมโบยังไม่ถึง 100x และจะพุ่งออกมาจากทั้งสองฝั่งพร้อมกันเมื่อทำคอมโบได้ตั้งแต่ 100x ขึ้นไป ส่วนในโหมด osu!mania ดาวจะพุ่งออกมาจากทั้งสองฝั่งของสนามเล่นเสมอ
+สำหรับ osu!, osu!taiko และ osu!catch ดาวจะพุ่งออกมาจากฝั่งซ้ายหรือขวาของเพลย์ฟีลด์เมื่อคอมโบต่ำกว่า 100x จากนั้นเมื่อคอมโบ 100x ขึ้นไป ดาวจะพุ่งออกมาจากทั้งสองฝั่งพร้อมกัน สำหรับ osu!mania ดาวจะพุ่งออกมาจากฝั่งซ้ายและขวาของสเตจ
 
-*หมายเหตุ: คุณสามารถปิดการแสดงผล Combo burst ได้ในเมนู [การตั้งค่า (Options)](/wiki/Client/Options)*
+*หมายเหตุ: สามารถปิด Combo burst ได้ใน[ตัวเลือก](/wiki/Client/Options)*
+
+<!--TODO: Add images and links-->

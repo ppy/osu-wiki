@@ -2,6 +2,8 @@
 stub: true
 ---
 
-# ไฮเปอร์แดช (Hyperdash)
+# Hyperdash
 
-**Hyperdash** (ไฮเปอร์แดช) คือคำศัพท์ที่ใช้ในโหมด [osu!catch](/wiki/Game_mode/osu!catch) เพื่อเรียกการเคลื่อนที่ซึ่งเกิดขึ้นเมื่อผู้เล่นเก็บ [ไฮเปอร์ฟรุต (Hyperfruit)](/wiki/Gameplay/Hit_object/Hyperfruit) ได้สำเร็จ ในระหว่างการ Mod บีทแมพ ผู้คนมักจะเชื่อมโยงไฮเปอร์ฟรุตเข้ากับ [วัตถุ (Active object)](/wiki/Beatmapping/Active_object) ที่เป็นเป้าหมายถัดไปเพื่อระบุถึงระยะทางของการทำไฮเปอร์แดช (ตัวอย่างเช่น `00:01:000 (1,2) -` โดยที่ 1 คือไฮเปอร์ฟรุต และ 2 คือวัตถุเป้าหมายถัดไป)
+**Hyperdash** เป็นคำใน [osu!catch](/wiki/Game_mode/osu!catch) ที่ใช้เรียกการเคลื่อนที่ซึ่งเกิดขึ้นเมื่อมีการสร้าง [hyperfruit](/wiki/Gameplay/Hit_object/Hyperfruit) ตอนม็อดดิ้งบีตแมป ผู้คนมักลิงก์ hyperfruit กับ[ออบเจกต์ที่ใช้งานอยู่](/wiki/Beatmapping/Active_object)เป้าหมายเพื่อกำหนดการเคลื่อนที่แบบ hyperdash เช่น `00:01:000 (1,2) -` โดย 1 คือ hyperfruit และ 2 คือออบเจกต์ที่ใช้งานอยู่ซึ่งเป็นเป้าหมาย
+
+<!-- TODO: Add images -->

@@ -2,16 +2,16 @@
 stub: true
 ---
 
-# แท็บเล็ตวาดรูป (Graphics tablet)
+# Graphics tablet
 
-*ดูเพิ่มเติม: [สไตล์การเล่น (Play style)](/wiki/Gameplay/Play_style)*
+*ดูเพิ่มเติม: [Play style](/wiki/Gameplay/Play_style)*
 
-![](img/tablet.jpg "แท็บเล็ตวาดรูป")
+![](img/tablet.jpg "Graphics tablet")
 
-**แท็บเล็ตวาดรูป (Graphics tablet)** หรือที่เรียกกันว่า *เมาส์ปากกา* คืออุปกรณ์ป้อนข้อมูลที่มีจุดประสงค์หลักเพื่อการวาดภาพดิจิทัลและงานศิลปะ แต่สามารถนำมาใช้ควบคุมการเคลื่อนที่ของเคอร์เซอร์ในโหมด [osu!](/wiki/Game_mode/osu!) ได้ ซึ่งถือเป็นสไตล์การเล่นที่นิยมมากที่สุดอย่างหนึ่งในเกม
+**Graphics tablet** หรือเรียกสั้น ๆ ว่า *tablet* คือ input device ที่เดิมออกแบบมาสำหรับการวาดภาพดิจิทัลและงานศิลปะ แต่สามารถใช้ควบคุมการเคลื่อนที่ของเคอร์เซอร์ใน [osu!](/wiki/Game_mode/osu!) ได้ และเป็นหนึ่งใน play style ที่พบได้บ่อยที่สุดใน osu!
 
-*หมายเหตุสำหรับผู้ใช้แท็บเล็ต: การใช้งาน Tablet PC หรือการคลิกด้วยปากกาแท็บเล็ตใน osu! บางครั้งอาจประมวลผลผิดพลาด หากต้องการแก้ไขปัญหานี้ ให้เปิดใช้งานตัวเลือก `OS Tablet PC support` ในเมนูการตั้งค่า (Options)*
+*หมายเหตุสำหรับผู้เล่น tablet: การใช้ Tablet PC หรือ tablet click ใน osu! บางครั้งอาจถูกจัดการไม่ถูกต้อง หากต้องการแก้ ให้เปิดการตั้งค่า `OS Tablet PC support` ในเมนู Options*
 
-![](img/os-tabletpc-option.jpg "การตั้งค่า OS TabletPC support ใน osu!")
+![](img/os-tabletpc-option.jpg "OS TabletPC support in osu!")
 
 <!-- TODO: mention tap-x as a way of clicking with a tablet -->

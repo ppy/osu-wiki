@@ -2,28 +2,28 @@
 stub: true
 ---
 
-# Jack (แจ็ค)
+# Jack
 
-**Jacks** โดยทั่วไปหมายถึงโน้ตตั้งแต่ 3 ตัวขึ้นไปที่วางเรียงต่อกันในแถวเดิม โดยปกติ Jacks จะวางจังหวะไว้ที่ 1/4 หรือเร็วกว่านั้น และมักจะมีจำนวนโน้ตรวมกันไม่มากนัก ซึ่งทำให้แตกต่างจาก [Anchor](/wiki/Beatmap/Pattern/osu!mania/Anchor) โดยรูปแบบ Jacks มักจะใช้สื่อถึงเสียงดนตรีที่ซ้ำกันอย่างต่อเนื่องในเพลง
+**Jacks** โดยทั่วไปหมายถึงโน้ตต่อเนื่อง 3 ตัวขึ้นไปในคอลัมน์เดียวกัน Jacks มัก snap ที่ snap interval 1/4 หรือสูงกว่า และโดยรวมมักมีจำนวนโน้ตน้อยกว่า ซึ่งทำให้ต่างจาก [anchors](/wiki/Beatmap/Pattern/osu!mania/Anchor) Jacks มักแทนเสียงซ้ำต่อเนื่องที่เกิดขึ้นในเพลง
 
-ที่เรียกว่า **Jacks** เป็นเพราะลักษณะการเคลื่อนไหวที่ใช้ในการกดโน้ตเหล่านี้จะเลียนแบบการทำงานของเครื่องเจาะถนน (Jackhammer)
+คำว่า **jacks** ใช้เพราะการเคลื่อนไหวที่ต้องใช้ในการเล่นคล้ายการทำงานของ jackhammer
 
-![](img/jack.png "Jack ในความหมายดั้งเดิมของคำนี้")
+![](img/jack.png "A jack in the traditional sense of the word.")
 
 ## Minijack
 
-**Minijack** คือประเภทหนึ่งของ Jack ที่ประกอบด้วยโน้ตเพียง 2 ตัว และเป็นรูปแบบที่ใช้พละกำลังน้อยที่สุดในบรรดา Jack ทั้งหมด
+**Minijack** คือ jack ประเภทหนึ่งที่มีโน้ตแค่ 2 ตัว และเป็น jack เวอร์ชันที่ใช้แรงน้อยที่สุด
 
 ![](img/minijack.png)
 
 ## Longjack
 
-**Longjack** คือรูปแบบ Jack ที่ใช้พละกำลังมากกว่า โดยจะประกอบด้วยโน้ตตั้งแต่ 4 ตัวขึ้นไปวางเรียงต่อกัน และมักจะวางแยกออกมาจากรูปแบบอื่นๆ คำนี้ยังอาจใช้เรียกในกรณีที่มีการใช้ [Jump](/wiki/Beatmap/Pattern/osu!mania/Chord#jump) หรือ [Hand](/wiki/Beatmap/Pattern/osu!mania/Chord#hand) ที่เหมือนเดิมซ้ำๆ ติดกันด้วย
+**Longjack** คือ jack ประเภทที่หนักกว่า ใช้โน้ตต่อเนื่องตั้งแต่ 4 ตัวขึ้นไป โดยปกติจะแยกออกจาก pattern อื่น คำนี้อาจใช้เมื่อ [jumps](/wiki/Beatmap/Pattern/osu!mania/Chord#jump) หรือ [hands](/wiki/Beatmap/Pattern/osu!mania/Chord#hand) เดิมถูกใช้ต่อเนื่องกันด้วย
 
 ![](img/longjack.png)
 
 ## Chordjack
 
-**Chordjacks** คือรูปแบบที่มีการผสมผสานระหว่าง Jack ประเภทต่างๆ ร่วมกับ [Chord (คอร์ด)](/wiki/Beatmap/Pattern/osu!mania/Chord) คำนี้มักจะใช้เรียกเฉพาะรูปแบบที่มีความหนาแน่นมากกว่า [Quadstream](/wiki/Beatmap/Pattern/osu!mania/Stream#quadstream) เพื่อเน้นย้ำถึงการใช้คอร์ดที่ถี่ขึ้น
+**Chordjacks** มี jack หลายประเภทรวมกับ [chords](/wiki/Beatmap/Pattern/osu!mania/Chord) คำนี้มักใช้เฉพาะกับ patterns ที่หนาแน่นกว่า [quadstreams](/wiki/Beatmap/Pattern/osu!mania/Stream#quadstream) และจึงเน้นการใช้ chords ที่ถี่กว่า
 
 ![](img/chordjack.png)

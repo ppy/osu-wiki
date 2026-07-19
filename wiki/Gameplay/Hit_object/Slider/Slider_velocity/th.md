@@ -7,8 +7,10 @@ tags:
 
 # Slider velocity
 
-*Slider velocity* คือตัวเลขที่ใช้อธิบายว่า [Slider](/wiki/Gameplay/Hit_object/Slider) จะเคลื่อนที่ไปไกลแค่ไหนในหนึ่งจังหวะ (Beat) เต็มๆ โดยค่าความเร็วพื้นฐาน (Base velocity) สามารถกำหนดได้ผ่านแท็บ `Timing` ในหน้าต่างหลักของ [Beatmap editor](/wiki/Client/Beatmap_editor) และยังสามารถตั้งค่าตัวคูณ (Multiplier) ของค่านี้ในส่วนต่างๆ ของ Beatmap ได้โดยการเพิ่ม [จุดกำหนดจังหวะ (Inheriting timing points)](/wiki/Client/Beatmap_editor/Timing) แล้วเปลี่ยนค่าตัวคูณของ Slider velocity
+*Slider velocity* คือตัวเลขที่อธิบายว่า [สไลเดอร์](/wiki/Gameplay/Hit_object/Slider) จะเคลื่อนที่ไปไกลแค่ไหนภายในหนึ่ง beat เต็ม สามารถกำหนด base velocity ได้จากแท็บ `Timing` ใน [beatmap editor](/wiki/Client/Beatmap_editor) จากหน้าต่างหลัก จากนั้นสามารถตั้งค่าตัวคูณของค่านี้สำหรับแต่ละช่วงของบีตแมปได้โดยเพิ่ม [inheriting timing points](/wiki/Client/Beatmap_editor/Timing) และเปลี่ยนค่า slider velocity multiplier
 
-Slider velocity มีหน่วยวัดเป็น *ร้อย [osupixel](/wiki/Client/Beatmap_editor/osu!_pixel) ต่อจังหวะ* ดังนั้น Slider ที่มีความเร็ว 1.00 จะเคลื่อนที่ไปเป็นระยะทาง 100 osupixel (หรือ 100 พิกเซลที่ความละเอียด 640x480) ในหนึ่งจังหวะเต็ม และเนื่องจากความเร็วขึ้นอยู่กับความยาวของจังหวะ Slider ที่ตั้งค่าความเร็วเท่ากันจะเคลื่อนที่เร็วขึ้นหากเพลงมีค่า BPM ที่สูงขึ้น
+Slider velocity วัดเป็น *หลักร้อยของ [osupixels](/wiki/Client/Beatmap_editor/osu!_pixel) ต่อ beat* ดังนั้นสไลเดอร์ที่มี velocity 1.00 จะเคลื่อนที่ 100 osupixels (หรือ 100 pixels ที่ความละเอียด 640x480) ภายในหนึ่ง beat เต็ม เนื่องจาก velocity ขึ้นอยู่กับความยาวของ beat สไลเดอร์ที่ตั้ง velocity เท่ากันจะเคลื่อนที่เร็วขึ้นเมื่อ BPM สูงขึ้น
 
-เทคนิคการสร้างแผนที่ (Mapping) สมัยก่อนมักจะใช้ค่า Slider velocity ที่เป็นพหุคูณของ 0.16 (เช่น 1.60, 1.76, 1.92 เป็นต้น) ซึ่งจะส่งผลให้จุดสิ้นสุดของ Slider ที่เป็นเส้นตรง วางตัวตรงกับเส้นตาราง (Grid) ของ osu! พอดี เมื่อใช้การ Snap แบบ 1/1 หรือ 1/2
+เทคนิคการแมปแบบเก่าใช้ slider velocity ที่เป็นพหุคูณของ 0.16 เช่น 1.60, 1.76, 1.92 เป็นต้น วิธีนี้ทำให้จุดปลายของสไลเดอร์เส้นตรงไปตรงกับ grid ของ osu! เมื่อสไลเดอร์ใช้ snapping แบบ 1/1 หรือ 1/2
+
+<!-- TODO: Add links and images-->

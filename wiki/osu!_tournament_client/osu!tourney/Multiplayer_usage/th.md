@@ -1,32 +1,35 @@
-# การใช้งานในห้องผู้เล่นหลายคนของ osu!tourney
+# การใช้งาน multiplayer ใน osu!tourney
 
-## การสร้างห้อง
+## การสร้างแมตช์
 
-ห้องผู้เล่นหลายคนนั้นต้องตั้งชื่อโดยอ้างอิงจากรูปแบบที่แสดงขึ้นในแผงควบคุมของ osu!tourney
+ห้อง multiplayer ต้องตั้งชื่อตาม template ที่แสดงใน control panel ของไคลเอนต์ osu!tourney
 
-รูปแบบจะประกอบไปด้วย:
-`Acronym_in_tournament.cfg: (ชื่อทีม 1) vs (ชื่อทีม 2)`
+template ที่แสดงประกอบด้วย:
 
-`Acronym_in_tournament.cfg` จะถูกแทนที่ด้วยค่าของ `acronym` ในไฟล์ `tournament.cfg` จาก [การติดตั้ง](/wiki/osu!_tournament_client/osu!tourney/Setup).
-ถ้าค่าถูกตั้งเป็น `Test Tourney` ตัวรูปแบบก็จะออกมาเป็น `Test Tourney: (ชื่อทีม 1) vs (ชื่อทีม 2)`.
+```
+Acronym_in_tournament.cfg: (Team Name 1) vs (Team Name 2)
+```
 
-ซึ่งชื่อทีม (`ชื่อทีม 1` and `ชื่อทีม 2`) สามารถโดนแทนที่ด้วยชื่อทีมอะไรก็ได้ **แต่อย่าเอาวงเล็บ `()` ที่ล้อมไว้ออก**
+`Acronym_in_tournament.cfg` จะถูกแทนที่ทั้งหมดด้วยค่าของ `acronym` ในไฟล์ `tournament.cfg` จาก[คู่มือตั้งค่า](/wiki/osu!_tournament_client/osu!tourney/Setup)
+หากค่าถูกตั้งเป็น `Test Tourney` template จะปรากฏเป็น `Test Tourney: (Team Name 1) vs (Team Name 2)`
+
+ชื่อทีม (`Team Name 1` และ `Team Name 2`) สามารถแทนด้วยชื่อทีมใดก็ได้ **แต่ต้องเก็บวงเล็บ `()` รอบชื่อไว้**
 
 ## การจัดการห้อง
 
-### คำสั่งการจัดการทัวร์นาเมนต์
+### Tournament management commands
 
-*หน้าหลัก: [คำสั่งการจัดการทัวร์นาเมนต์](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)*
+*หน้าหลัก: [Tournament management commands](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)*
 
-อย่าลืมให้ช่องที่ถูกต้องกับผู้เล่นที่เข้าห้องมาแล้วโดยการใช้คำสั่ง `!mp move` และ `!mp team`
+ตรวจให้แน่ใจว่าผู้เล่นที่เข้าห้องถูกจัด slot ถูกต้องด้วยคำสั่ง `!mp move` และ `!mp team`
 
-อย่างที่อธิบายไปใน [การใช้งานในการรับชม](/wiki/osu!_tournament_client/osu!tourney/Spectator_usage) แต่ละหน้าต่างของ client จะแสดงถึงช่องแต่ละอันในห้องผู้เล่นหลายคน หลังจากที่ตั้งค่า `TeamSize` ในไฟล์ `tournament.cfg` ทีมสีน้ำเงินจะใช้ `TeamSize` ช่องแรก และทีมสีแดงจะใช้ `TeamSize` ช่องข้างล่างสีน้ำเงิน
+ตามที่อธิบายใน[คู่มือการใช้งาน spectator](/wiki/osu!_tournament_client/osu!tourney/Spectator_usage) แต่ละหน้าต่างในไคลเอนต์จะถูกผูกกับ slot ใน multiplayer lobby หลังจากตั้งค่า `TeamSize` ในไฟล์ `tournament.cfg` อย่างถูกต้องแล้ว ทีมสีน้ำเงินจะใช้ slot จำนวน `TeamSize` แรก และทีมสีแดงจะใช้ slot จำนวน `TeamSize` ถัดลงมา
 
-ตัวอย่าง: ถ้า `TeamSize = 4` ช่องที่ 1, 2, 3, 4 จะเป็นของทีมสีน้ำเงิน และช่องที่ 5, 6, 7, 8 จะเป็นของทีมสีแดง ถ้า `TeamSize = 3` ช่องที่ 1, 2, 3 จะเป็นของสีน้ำเงิน และช่องที่ 4, 5, 6 จะเป็นของทีมสีแดง
+ตัวอย่างเช่น เมื่อ `TeamSize = 4` slot ที่ 1, 2, 3 และ 4 จะเป็นของทีมสีน้ำเงิน ส่วน slot ที่ 5, 6, 7 และ 8 จะเป็นของทีมสีแดง เมื่อ `TeamSize = 3` slot ที่ 1, 2 และ 3 จะเป็นของทีมสีน้ำเงิน ส่วน slot ที่ 4, 5 และ 6 จะเป็นของทีมสีแดง
 
-![หน้าต่างแต่ละอันใน osu!tourney ที่จะแสดงถึงเลขช่องแต่ละอันในห้องผู้เล่นหลายคน](img/Osutourneyassignment.png "การจัดวางผู้เล่นของ osu!tourney")
+![ความสัมพันธ์ของหน้าต่างใน osu!tourney กับ slot ของห้อง multiplayer ที่เกี่ยวข้อง](img/Osutourneyassignment.png "osu!tourney Player Assignment")
 
-**osu!tourney ไม่สนใจสีของทีมในการจัดช่อง** - มันสนใจเพียงแค่ตำแหน่งของช่องที่ผู้เล่นอยู่เท่านั้น ด้านล่างจะเป็นตัวอย่างของ osu!tourney ในขนาดทีมต่าง ๆ เลขบนหน้าจอแสดงถึงเลขของช่องที่ผู้เล่นอยู่ในห้องผู้เล่นหลายคน ตัวเลขนั้นจะไม่แสดงขึ้นตอนใช้จริงและ มีไว้เพื่อกรณีศึกษาเท่านั้น :
+**osu!tourney ไม่สนใจสีทีมในการกำหนด slot** - มันพิจารณาเฉพาะ slot ที่ผู้เล่นอยู่ในห้อง multiplayer เท่านั้น ด้านล่างคือตัวอย่าง osu!tourney ที่มีขนาดทีมต่างกัน ตัวเลขบนหน้าจอแสดง slot ที่ถูกกำหนดใน multiplayer lobby ตัวเลขเหล่านี้จะไม่เห็นระหว่างใช้งานปกติ และมีไว้เพื่ออธิบายเท่านั้น:
 
 ![TeamSize = 4](img/Osutourneywindows.png)
 

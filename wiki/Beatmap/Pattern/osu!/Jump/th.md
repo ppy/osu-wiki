@@ -6,6 +6,6 @@ tags:
 
 # Jump
 
-**Jump** (การกระโดด) คือ [รูปแบบ (Pattern)](/wiki/Beatmap/Pattern) ในโหมด [osu!](/wiki/Game_mode/osu!) ที่ [Hit objects](/wiki/Gameplay/Hit_object) สองชิ้นถูกวางห่างกันมากในสนามเล่น (Playfield) เมื่อเทียบกับระยะห่างของวัตถุชิ้นอื่นๆ โดยปกติ Jump มักจะใช้สื่อถึงช่วงที่เพลงมีความเข้มข้นสูง และส่วนใหญ่มักจะวางจังหวะไว้ที่ขีด 1/2 บน [ไทม์ไลน์ (Timeline)](/wiki/Client/Beatmap_editor/Timelines#hit-objects)
+**Jump** คือ [pattern](/wiki/Beatmap/Pattern) ใน [osu!](/wiki/Game_mode/osu!) ที่ [hit objects](/wiki/Gameplay/Hit_object) สองตัวถูกวางห่างกันบนเพลย์ฟีลด์มาก เมื่อเทียบกับระยะห่างระหว่างออบเจกต์อื่น ๆ Jumps มักสื่อถึงความเข้มข้นสูงในเพลง และส่วนใหญ่มัก snap อยู่ที่ tick แบบ 1/2 บน[ไทม์ไลน์](/wiki/Client/Beatmap_editor/Timelines#hit-objects)
 
-โดยทั่วไป Jump จะต้องเล่นด้วยการเคลื่อนที่ที่รวดเร็วและเฉียบคม ซึ่งตรงกันข้ามกับการเคลื่อนที่ที่ลื่นไหลของ [สตรีม (Streams)](/wiki/Beatmap/Pattern/osu!/Stream)
+Jumps มักเล่นด้วยการเคลื่อนไหวที่คมและเร็ว ต่างจากการเคลื่อนไหวที่ลื่นไหลของ [streams](/wiki/Beatmap/Pattern/osu!/Stream)

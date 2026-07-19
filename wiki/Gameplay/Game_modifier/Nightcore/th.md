@@ -7,41 +7,41 @@ tags:
   - game modifier
 ---
 
-# Nightcore (Mod)
+# Nightcore (mod)
 
-![ไอคอน Mod NC](/wiki/shared/mods/NC.png "Nightcore (NC) mod icon")
+![NC mod icon](/wiki/shared/mods/NC.png "Nightcore (NC) mod icon")
 
 *สำหรับบทความเวอร์ชัน [lazer](/wiki/Client/Release_stream/Lazer) ดูที่: [Nightcore (lazer mod)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer))*\
-*อย่าสับสนกับ [แนวเพลง Nightcore](https://en.wikipedia.org/wiki/Nightcore)*\
-*ดูเพิ่มเติม: [NC (แก้ความกำกวม)](/wiki/Disambiguation/NC), [Double Time (Mod)](/wiki/Gameplay/Game_modifier/Double_Time)*\
-*สำหรับรายการ Mod ทั้งหมด ดูที่: [ตัวปรับแต่งเกม (Game modifier)](/wiki/Gameplay/Game_modifier)*
+*อย่าสับสนกับ [Nightcore (genre)](https://en.wikipedia.org/wiki/Nightcore)*\
+*ดูเพิ่มเติม: [NC (disambiguation)](/wiki/Disambiguation/NC), [Double Time (mod)](/wiki/Gameplay/Game_modifier/Double_Time)*\
+*สำหรับรายชื่อม็อดทั้งหมด ดูที่: [Game Modifiers](/wiki/Gameplay/Game_modifier)*
 
-## ข้อมูลทั่วไป
+## เกี่ยวกับ
 
 - ตัวย่อ: NC
-- ประเภท: เพิ่มความยาก (Difficulty Increasing)
-- ตัวคูณคะแนน:
+- ประเภท: Difficulty Increasing
+- Score Multiplier:
   - ![][osu!]: 1.12x
   - ![][osu!taiko]: 1.12x
   - ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
-- ปุ่มลัดพื้นฐาน: `D` `D` หรือ `Shift` + `D`
-- คำอธิบาย: `ความเร็วและระดับเสียงเพิ่มขึ้น`
-- โหมดที่รองรับ: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- รูปแบบแยกย่อย: [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)
+- คีย์ลัดเริ่มต้น: `D` `D` หรือ `Shift` + `D`
+- คำอธิบาย: `uguuuuuuuu`
+- โหมดเกมที่รองรับ: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- Variant: [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)
 
-## รายละเอียด
+## คำอธิบาย
 
-**Nightcore** เป็น [ตัวปรับแต่งเกม](/wiki/Gameplay/Game_modifier) ที่ทำงานในลักษณะเดียวกับ Mod [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) ทุกประการ แต่มีความพิเศษเพิ่มเติมคือจะมีการเพิ่มระดับเสียง (Pitch) ของเพลงให้สูงขึ้น และมีการเพิ่มเสียงกลองประกอบในพื้นหลัง โดยสำหรับเพลงจังหวะ 4/4 จะมีเสียงกระเดื่อง (Bass drum) ในจังหวะที่ 1 และ 3, เสียงตบมือ (Clap) ในจังหวะที่ 2 และ 4 และเสียงฉาบ (Crash) ในจังหวะที่ 1 ของทุกๆ 4 ห้องดนตรี
+ม็อด **Nightcore** เป็น[ม็อด](/wiki/Gameplay/Game_modifier)ที่ทำงานเหมือนม็อด variant ของมันอย่าง Double Time ทุกประการ แต่เพิ่ม pitch และใส่ drum track เป็นพื้นหลัง ซึ่งในจังหวะ 4/4 จะเรียงเป็น bass drum บน beat 1 และ 3, clap บน beat 2 และ 4 และ crash บน beat 1 ทุก 4 measure
 
-[ตัวคูณคะแนน (Score multiplier)](/wiki/Gameplay/Game_modifier/Mod_multiplier) จะมีค่าเท่ากับตอนเปิด Mod Double Time และตัวบีทแมพจะไม่มีความเปลี่ยนแปลงอื่นใดเพิ่มเติมไปจากผลของ Mod Double Time
+[score multiplier](/wiki/Gameplay/Game_modifier/Mod_multiplier) จะคงเหมือนตอนเปิดม็อด Double Time และตัวบีตแมปเองจะไม่ได้รับผลเพิ่มเติมนอกเหนือจากสิ่งที่ม็อด Double Time ทำ
 
-Mod นี้มีผลเหมือนกันในทุกโหมดการเล่น
+ม็อดนี้ให้ผลเหมือนกันในทุกโหมดเกม
 
-## เกร็ดน่ารู้ (Trivia)
+## เกร็ดน่ารู้
 
-- Mod Nightcore เริ่มต้นจากการเป็น [มุกตลกวันเมษาหน้าโง่ (April Fools)](https://osu.ppy.sh/community/forums/topics/49733) ก่อนที่จะถูกเพิ่มเข้ามาในเกมให้ใช้งานได้จริงในภายหลัง
-- ชื่อของ Mod มาจากแนวเพลง "Nightcore" ซึ่งเป็นการนำเพลงมาเร่งความเร็วขึ้นประมาณ 10–30% และปรับระดับเสียงร้องให้สูงขึ้น แม้ว่าที่มาและประวัติของแนวเพลงนี้จะยังคงเป็นที่ถกเถียงกันอยู่บ้าง
+- ม็อด Nightcore เดิมเป็น[มุก April Fools](https://osu.ppy.sh/community/forums/topics/49733) ก่อนจะถูกเพิ่มเข้าเกมเป็นม็อดที่เล่นได้จริง
+- ม็อด Nightcore ได้ชื่อมาจากแนวเพลง หรือสำหรับบางคนคือแนวย่อย "Nightcore" ซึ่งเป็นเพลงที่ถูกแก้ไขหรือสร้างให้เร็วขึ้นประมาณ 10–30% และมีเสียงร้อง pitch สูงขึ้น อย่างไรก็ตาม ความถูกต้องและประวัติของเพลงประเภทนี้ยังเป็นประเด็นถกเถียง
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

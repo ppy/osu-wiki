@@ -2,56 +2,56 @@
 stub: true
 ---
 
-# Stream (สตรีม)
+# Stream
 
 ## Single-note stream
 
-**Stream** (สตรีม) คือชุดของโน้ตที่วางต่อเนื่องกันด้วยระยะห่าง (Snap interval) ที่เท่ากัน มีสตรีมหลายประเภทที่สร้างความล้าให้กับผู้เล่นในระดับที่ต่างกัน **Single-note stream** คือประเภทสตรีมพื้นฐานที่สุด ซึ่งประกอบด้วยโน้ตเดี่ยวที่วางเรียงต่อกันเท่านั้น
+**Stream** คือชุดโน้ตต่อเนื่องที่มี snap interval เดียวกัน มี streams หลายประเภทที่สร้าง strain ให้ผู้เล่นในระดับต่างกัน **Single-note streams** คือ stream แบบพื้นฐานที่สุด และประกอบด้วยโน้ตเดี่ยวต่อเนื่องเท่านั้น
 
-![](img/stream.png "รูปภาพนี้แสดงสตรีมประเภทหนึ่งที่เรียกว่า Roll")
+![](img/stream.png "This image shows a specific type of stream known as a roll.")
 
-**Roll** คือรูปแบบหนึ่งของสตรีมที่พบบ่อย ซึ่งประกอบด้วยโน้ตที่วางไล่เรียงกันไปตามลำดับแถวทั้งหมดในแมพ
+**Roll** คือ variation ที่พบบ่อยของ stream ซึ่งประกอบด้วยโน้ตที่ไล่ข้ามทุกคอลัมน์ตามลำดับ
 
-สตรีมที่มีโน้ตปรากฏขึ้นถี่กว่าหนึ่งจังหวะมักจะเรียกว่า **Bursts** โดยปกติจะใช้ตัวแบ่งจังหวะ (Snaps) ที่เร็วกว่า 1/4
+Streams ที่มีโน้ตปรากฏใน interval เร็วกว่าหนึ่ง beat มักถูกเรียกว่า **bursts** โดยทั่วไปจะใช้ snaps ที่เร็วกว่า 1/4
 
 ![](img/burst.png)
 
 ## Jumpstream
 
-**Jumpstreams** คือสตรีมที่มีการใช้ [Jump](/wiki/Beatmap/Pattern/osu!mania/Chord#jump) (โน้ตคู่) ร่วมด้วย โดยปกติแล้วตัวสตรีมจะอยู่ในจังหวะ 1/4 ในขณะที่ Jump จะอยู่ในจังหวะที่ช้ากว่า นี่คือรูปแบบสตรีมที่พบบ่อยที่สุดในโหมด 4K osu!mania
+**Jumpstreams** คือ streams ที่มี [jumps](/wiki/Beatmap/Pattern/osu!mania/Chord#jump) รวมอยู่ด้วย โดยปกติตัว stream จะอยู่บน snaps แบบ 1/4 ส่วน jumps จะลงบน snaps ที่ช้ากว่า นี่เป็นประเภท stream pattern ที่ใช้บ่อยที่สุดใน 4K osu!mania
 
 ![](img/jumpstream.png)
 
-คำนี้ส่วนใหญ่จะใช้ในโหมด 4K osu!mania
+คำนี้ใช้หลัก ๆ ใน 4K osu!mania
 
 ## Handstream
 
-**Handstreams** คือสตรีมที่มีการใช้ [Hand](/wiki/Beatmap/Pattern/osu!mania/Chord#hand) (โน้ตสาม) และอาจมีการใช้ Jump ร่วมด้วย เช่นเดียวกับ Jumpstream ตัวสตรีมจะอยู่ในจังหวะ 1/4 ในขณะที่ Jump หรือ Hand จะอยู่ในจังหวะที่ช้ากว่า
+**Handstreams** คือ streams ที่มี [hands](/wiki/Beatmap/Pattern/osu!mania/Chord#hand) รวมอยู่ด้วย และอาจมี jumps ด้วย เช่นเดียวกับ jumpstreams ตัว stream จะอยู่บน snaps แบบ 1/4 ส่วน jumps จะลงบน snaps ที่ช้ากว่า
 
 ![](img/handstream.png)
 
-คำนี้ส่วนใหญ่ใช้ในโหมด 4K osu!mania เช่นกัน
+คำนี้ก็ใช้หลัก ๆ ใน 4K osu!mania เช่นกัน
 
 ## Quadstream
 
-**Quadstream** เป็นคำที่ใช้เฉพาะในโหมด 4K osu!mania มีลักษณะคล้ายกับสตรีมสองประเภทก่อนหน้า แต่มีการใช้ Quad (โน้ตสี่) ร่วมกับคอร์ดขนาดเล็กอื่นๆ ในโหมด 4K osu!mania โน้ต Quad ใน Quadstream จะทำให้เกิด [Minijack](/wiki/Beatmap/Pattern/osu!mania/Jack#minijack) กับโน้ตก่อนหน้าหรือหลัง Quad นั้น
+**Quadstream** เป็นคำที่ใช้เฉพาะใน 4K osu!mania คล้ายกับ streams สองประเภทก่อนหน้า คือเป็น stream ที่ใช้ quads รวมกับ chords ขนาดเล็กกว่าอื่น ๆ ใน 4K osu!mania quads ใน quadstreams จะสร้าง [minijacks](/wiki/Beatmap/Pattern/osu!mania/Jack#minijack) กับโน้ตก่อนหรือหลัง quad
 
 ![](img/quadstream.png)
 
 ## Chordstream
 
-**Chordstreams** คือประเภทของสตรีมที่มีการใช้คอร์ดหลายขนาดผสมกัน โดยปกติสตรีมจะอยู่ในจังหวะ 1/4 และมีคอร์ดอยู่ในทุกช่วงจังหวะ 1/1 หรือ 1/2 ในโหมดที่มีจำนวนปุ่มมากกว่า 4K คำว่า "Chordstream" มักจะสื่อถึงสตรีมที่มีคอร์ดตั้งแต่ 3 โน้ตขึ้นไป ดังนั้นคำนี้จึงมักถูกใช้เฉพาะในโหมดที่ไม่ใช่ 4K
+**Chordstreams** คือ stream ประเภทหนึ่งที่มี chord sizes หลายแบบ โดยปกติ stream จะอยู่บน 1/4 และมี chords ในทุก snap interval แบบ 1/1 หรือ 1/2 ใน key modes นอกเหนือจาก 4K คำว่า "chordstream" มักหมายถึง streams ที่มีโน้ตตั้งแต่ 3 ตัวขึ้นไปใน chords ดังนั้นคำนี้จึงแทบใช้เฉพาะใน key modes ที่ไม่ใช่ 4K
 
 ![](img/chordstream.png)
 
-**Chordstreams** อาจรวมถึง **Double streams** ซึ่งเป็นสตรีมสองสายที่เกิดขึ้นพร้อมกัน รูปแบบนี้จะพบบ่อยในโหมด 7K และโหมดที่มีจำนวนปุ่มสูงกว่าของ osu!mania
+**Chordstreams** อาจรวมถึง **double streams** ซึ่งเป็น streams สองชุดที่เกิดพร้อมกันด้วย สิ่งนี้พบได้บ่อยกว่าใน osu!mania โหมด 7K และ key modes ที่สูงกว่า
 
 ![](img/chordstream2.png)
 
 ## Bracket
 
-**Brackets** คือประเภทเฉพาะของ Chordstream ที่มีการใช้ [Trills](/wiki/Beatmap/Pattern/osu!mania/Trill) ตั้งแต่ 2 สายขึ้นไปเกิดขึ้นพร้อมกัน แม้ว่า Trill นั้นอาจจะมีการเปลี่ยนแถวไปมาก็ตาม รูปแบบนี้มักเกิดขึ้นเมื่อ Chordstream มีความหนาแน่นของการใช้คอร์ดค่อนข้างสูง และมักจะผสมผสานระหว่าง Trill มือเดียวและสองมือเข้าด้วยกัน
+**Brackets** คือ chordstream ประเภทเฉพาะที่ใช้ [trills](/wiki/Beatmap/Pattern/osu!mania/Trill) ตั้งแต่ 2 ชุดขึ้นไปเกิดพร้อมกัน แม้ trills อาจสลับคอลัมน์ได้ก็ตาม โดยทั่วไปจะเกิดขึ้นเมื่อ chordstreams มีการใช้ chords ค่อนข้างหนาแน่น และมักผสม trills แบบมือเดียวกับสองมือเข้าด้วยกัน
 
 ![](img/bracket.png)
 
-คำนี้ใช้เฉพาะในโหมด osu!mania ที่ไม่ใช่ 4K
+คำนี้ใช้เฉพาะใน key modes ของ osu!mania ที่ไม่ใช่ 4K

@@ -4,11 +4,13 @@ tags:
   - patterns
 ---
 
-# รูปแบบ (Pattern)
+# Pattern
 
-**รูปแบบ (Pattern)** คือกลุ่มย่อยของ [Hit objects](/wiki/Gameplay/Hit_object) ภายใน [Beatmap](/wiki/Beatmap) ที่ถูกจัดวางอย่างมีความหมาย
+**Pattern** คือชุดเล็ก ๆ ของ [hit objects](/wiki/Gameplay/Hit_object) ใน[บีตแมป](/wiki/Beatmap)ที่ถูกจัดวางอย่างมีความหมาย
 
-## ประเภทของรูปแบบที่พบบ่อย
+## ประเภท pattern ที่พบบ่อย
+
+<!-- TODO: add more -->
 
 ### osu!
 

@@ -6,4 +6,6 @@ tags:
 
 # Slider tick rate
 
-**Slider tick rate** คืออัตราความถี่ของการปรากฏของ [Slider ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick) (หยดน้ำ) ภายใน [Slider](/wiki/Gameplay/Hit_object/Slider) ตัวอย่างเช่น หากตั้งค่า Slider tick rate เป็น 1 หมายความว่า Slider tick จะปรากฏขึ้นหนึ่งอันต่อหนึ่งจังหวะ (Beat) อย่างไรก็ตาม เนื่องจาก Slider tick จะไม่ปรากฏที่ [หัวสไลเดอร์ (Sliderheads)](/wiki/Gameplay/Hit_object/Slider/Sliderhead) และ [หางสไลเดอร์ (Sliderends)](/wiki/Gameplay/Hit_object/Slider/Slidertail) ดังนั้น Slider บางอันจึงอาจไม่มี Slider tick เลยก็ได้ ตัวอย่างเช่น สไลเดอร์ที่มีความยาว 1 จังหวะ จะไม่มี Slider tick เลยหากตั้งค่า Slider tick rate ไว้เป็น 1 โดยปกติแล้วค่า Slider tick rate ที่นิยมใช้คือ 1, 2 และ 4 ส่วนค่า 3 นั้นมีให้เลือกใช้แต่ไม่ค่อยเป็นที่นิยมนัก
+*Slider tick rate* คืออัตราที่ [slider ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick) ปรากฏใน[สไลเดอร์](/wiki/Gameplay/Hit_object/Slider) ตัวอย่างเช่น slider tick rate 1 หมายถึง slider ticks จะปรากฏหนึ่งครั้งต่อหนึ่ง beat อย่างไรก็ตาม เนื่องจาก slider ticks ไม่ปรากฏใน [sliderheads](/wiki/Gameplay/Hit_object/Slider/Sliderhead) และ [sliderends](/wiki/Gameplay/Hit_object/Slider/Slidertail) สไลเดอร์บางตัวจึงไม่มี slider ticks เลย ตัวอย่างเช่น สไลเดอร์ยาว 1 beat จะไม่มี slider ticks เมื่อ slider tick rate ถูกตั้งไว้ที่ 1 ค่า slider tick rate ที่พบบ่อย ได้แก่ 1, 2 และ 4 ส่วน 3 ก็มีให้ใช้แต่ใช้ไม่บ่อย
+
+<!-- TODO: Add links and images-->

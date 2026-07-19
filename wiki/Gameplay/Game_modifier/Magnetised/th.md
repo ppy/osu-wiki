@@ -4,15 +4,17 @@ tags:
   - MG
 ---
 
-# Magnetised (mod)
+# Magnetised (ม็อด)
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Magnetised
 
-![Magnetised mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MG.png)
+![ไอคอนม็อด Magnetised](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MG.png)
 
-*ไม่จำเป็นต้องไล่ตามวงกลมอีกต่อไป — เพราะเคอร์เซอร์ของคุณคือแม่เหล็ก!*
+*ไม่ต้องไล่ตามวงกลมแล้ว เคอร์เซอร์ของคุณเป็นแม่เหล็ก!*
 
 |  |  |
 | :-- | :-- |
@@ -21,10 +23,12 @@ tags:
 | โหมดเกม (Game modes) | ![][osu!] |
 | ตัวคูณคะแนน (Score multiplier) | 0.50x |
 | สถานะ (Status) | Unranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| ม็อดที่ใช้ร่วมกันไม่ได้ | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
 
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+<!-- TODO description and settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

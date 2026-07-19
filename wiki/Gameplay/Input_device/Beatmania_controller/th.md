@@ -2,14 +2,14 @@
 stub: true
 ---
 
-# จอยบีทมาเนีย (Beatmania controller)
+# Beatmania Controller
 
-![](img/beatmania-controller.jpg "จอย Beatmania แบบ 7 ปุ่ม")
+![](img/beatmania-controller.jpg "7-button Beatmania controller")
 
-**จอยบีทมาเนีย (Beatmania controller)** คือคอนโทรลเลอร์เกมประเภทหนึ่งที่รองรับการใช้งานร่วมกับซีรีส์เกม *[Beatmania](https://en.wikipedia.org/wiki/Beatmania)*
+**Beatmania controller** คือคอนโทรลเลอร์เกมประเภทหนึ่งที่เข้ากันได้กับซีรีส์เกม *[Beatmania](https://en.wikipedia.org/wiki/Beatmania)*
 
-ด้วยลักษณะเฉพาะของตัวจอย ทำให้มันมักจะถูกนำมาใช้เป็นอุปกรณ์ควบคุมหลักในโหมด [osu!mania](/wiki/Game_mode/osu!mania)
+ด้วยลักษณะของมัน Beatmania controller จึงมักถูกใช้เป็น input device ใน [osu!mania](/wiki/Game_mode/osu!mania)
 
-## วิธีการเชื่อมต่อ
+## วิธีอินพุต
 
-สำหรับผู้เล่นที่มีจอย *Beatmania* ของเครื่อง PlayStation 2 (PS2) สามารถใช้ตัวแปลงสัญญาณ (Adapter) เพื่อเชื่อมต่อจอยเข้ากับคอมพิวเตอร์ผ่านพอร์ต USB และทำการตั้งค่าปุ่มกดได้ในเมนู Options อย่างไรก็ตาม สำหรับผู้เล่นที่มีจอย *DJ DAO IIDX* สามารถเสียบสาย USB เข้ากับคอมพิวเตอร์และตั้งค่าปุ่มได้ทันทีโดยไม่ต้องใช้ตัวแปลง
+ผู้เล่นที่มีคอนโทรลเลอร์ *Beatmania* ของ Playstation 2 (PS2) สามารถใช้อะแดปเตอร์เชื่อมต่อคอนโทรลเลอร์เข้าคอมพิวเตอร์ผ่าน USB แล้ว bind ปุ่มใน options ได้ ส่วนผู้เล่นที่มีคอนโทรลเลอร์ *DJ DAO IIDX* สามารถเสียบคอนโทรลเลอร์เข้าคอมพิวเตอร์ผ่าน USB แล้ว bind ปุ่มได้เลย

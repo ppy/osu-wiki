@@ -8,48 +8,48 @@ tags:
   - game modifier
 ---
 
-# Relax (Mod)
+# Relax (mod)
 
-![ไอคอน Mod RL](/wiki/shared/mods/RL.png "Relax (RL) mod icon")
+![RL mod icon](/wiki/shared/mods/RL.png "Relax (RL) mod icon")
 
 *สำหรับบทความเวอร์ชัน [lazer](/wiki/Client/Release_stream/Lazer) ดูที่: [Relax (lazer mod)](/wiki/Gameplay/Game_modifier/Relax_(lazer))*\
-*สำหรับรายการ Mod ทั้งหมด ดูที่: [ตัวปรับแต่งเกม (Game modifier)](/wiki/Gameplay/Game_modifier)*
+*สำหรับรายชื่อม็อดทั้งหมด ดูที่: [Game Modifier](/wiki/Gameplay/Game_modifier)*
 
-## ข้อมูลทั่วไป
+## เกี่ยวกับ
 
 - ตัวย่อ: RL หรือ RX
-- ประเภท: พิเศษ (Special)
-- ตัวคูณคะแนน: 0.00x
-- ปุ่มลัดพื้นฐาน: `Z`
+- ประเภท: Special
+- Score Multiplier: 0.00x
+- คีย์ลัดเริ่มต้น: `Z`
 - คำอธิบาย:
-  - ![][osu!]: `คุณไม่จำเป็นต้องคลิก ให้นิ้วที่ใช้คลิกได้พักผ่อนบ้าง ** UNRANKED **`
-  - ![][osu!taiko]: `ผ่อนคลายซะ! คุณจะไม่ต้องเวียนหัวกับสปินเนอร์ที่รวดเร็ว, การตีรัวที่น่าเบื่อ หรือโน้ตสีน้ำเงินที่ไม่คาดคิดอีกต่อไป ** UNRANKED **`
-  - ![][osu!catch]: `ใช้เมาส์ในการควบคุมตัวละครคนรับผลไม้ ** UNRANKED **`
-- โหมดที่รองรับ: ![][osu!] ![][osu!taiko] ![][osu!catch]
+  - ![][osu!]: `You don't need to click. Give your clicking/tapping fingers a break from the heat of things. ** UNRANKED **`
+  - ![][osu!taiko]: `Relax! You will no longer get dizzyfied by ninja-like spinners, demanding drumrolls or unexpected katu's. ** UNRANKED **`
+  - ![][osu!catch]: `Use the mouse to control the catcher. ** UNRANKED **`
+- โหมดเกมที่รองรับ: ![][osu!] ![][osu!taiko] ![][osu!catch]
 
-## รายละเอียด
+## คำอธิบาย
 
-*ประกาศ: การเปิดใช้งาน Mod Relax จะทำให้การเล่นเป็นแบบ Unranked และจะไม่ถูกบันทึกคะแนนลงในตารางคะแนนในเครื่อง*
+*ข้อควรทราบ: การเปิดม็อด Relax จะทำให้การเล่นเป็น unranked และจะไม่ถูกบันทึกลง local leaderboard*
 
-**Relax** เป็น [ตัวปรับแต่งเกม](/wiki/Gameplay/Game_modifier) ที่มีจุดประสงค์เพื่อให้ผู้เล่นได้รับประสบการณ์การเล่นที่ผ่อนคลาย ด้วยลักษณะของมัน Mod นี้จึงมักถูกนำมาใช้เพื่อวิเคราะห์หรือฝึกซ้อม [รูปแบบโน้ต (Patterns)](/wiki/Beatmap/Pattern) ที่ยากๆ ใน [บีทแมพ (Beatmap)](/wiki/Beatmap) หรือใช้เมื่อผู้เล่นต้องการพักมือข้างที่ใช้กดโน้ต
+ม็อด **Relax** เป็น[ม็อด](/wiki/Gameplay/Game_modifier)ที่ตั้งใจให้ผู้เล่นได้เล่นแบบผ่อนคลาย ด้วยลักษณะของมัน ม็อดนี้มักใช้เพื่อวิเคราะห์หรือฝึก[แพตเทิร์น](/wiki/Beatmap/Pattern)ยาก ๆ บน[บีตแมป](/wiki/Beatmap) หรือใช้ตอนผู้เล่นอยากพักมือที่ใช้ tap
 
 ### osu!
 
-ในโหมด [osu!](/wiki/Game_mode/osu!) เมื่อเปิดใช้ Mod Relax ผู้เล่นเพียงแค่เลื่อนเคอร์เซอร์ไปให้ตรงกับ [วัตถุ (Hit objects)](/wiki/Gameplay/Hit_object) เท่านั้น ระบบจะทำการกดโน้ตให้โดยอัตโนมัติ และ Mod นี้ยังทำให้ไม่มีทางเล่นไม่ผ่าน (Fail) ในทุกโหมดการเล่นที่รองรับ
+ใน [osu!](/wiki/Game_mode/osu!) การเปิดม็อด Relax ทำให้ผู้เล่นต้องแค่วางเคอร์เซอร์ไว้เหนือ [hit object](/wiki/Gameplay/Hit_object) เท่านั้น hit object ทั้งหมดจะถูก osu! tap ให้อัตโนมัติ ม็อดนี้ทำให้ไม่สามารถ fail บีตแมปได้ในทุกโหมดเกม
 
-Mod Relax จะปิดการแสดงผลอินเทอร์เฟซในเกม ทำให้ไม่เห็น [คะแนน (Score)](/wiki/Gameplay/Score), [คอมโบ (Combo)](/wiki/Beatmapping/Combo) และการกดพลาด (Miss) อย่างไรก็ตาม คุณสามารถเปิดกลับมาได้โดยการกด `Shift` + `Tab` นอกจากนี้ ค่าความเร็วในการหมุนสปินเนอร์ (SPM) จะถูกเพิ่มขึ้นเป็นสองเท่า ช่วยให้ผู้เล่นหมุนได้เร็วกว่าปกติมากและได้คะแนนโบนัสสูงกว่าการเล่นปกติ
+ม็อด Relax ยังปิดอินเทอร์เฟซในเกมด้วย ทำให้ซ่อน[คะแนน](/wiki/Gameplay/Score), [คอมโบ](/wiki/Beatmapping/Combo) และ miss แต่สามารถเปิดกลับได้ด้วยการกด `Shift` + `Tab` นอกจากนี้ ค่า spins per minute (SPM) จะถูกเพิ่มเป็นสองเท่า ทำให้ผู้เล่นหมุนได้เร็วขึ้นมากและได้คะแนนสูงกว่าการเล่นปกติ
 
 ### osu!taiko
 
-ในโหมด [osu!taiko](/wiki/Game_mode/osu!taiko) Mod Relax จะยกเลิกการตัดสินสีของโน้ต กล่าวคือไม่ว่าโน้ตจะเป็นสีอะไร คุณสามารถกดปุ่มสีใดก็ได้ระบบจะนับว่าเป็นการกดที่ถูกต้องเสมอ อย่างไรก็ตามสีของโน้ตที่แสดงบนหน้าจอจะไม่มีการเปลี่ยนแปลง
+ใน [osu!taiko](/wiki/Game_mode/osu!taiko) ม็อด Relax จะลบ judgement ด้านสีออกไป โดยไม่ว่าสีที่กดจะเป็นสีอะไร โน้ตจะถูกตีเป็นสีที่ถูกต้อง ถึงแม้สีของโน้ตจะไม่ถูกเปลี่ยนก็ตาม
 
-นอกจากนี้ Mod Relax ยังช่วยให้ช่วงเวลาการเก็บจุดจังหวะใน Drumroll ผ่อนปรนขึ้น และสามารถเขย่า Denden (สปินเนอร์) ด้วยปุ่มสีใดก็ได้โดยไม่จำเป็นต้องกดสลับสี รวมถึงมาสคอตที่มุมซ้ายบนจะถูกนำออกไป
+นอกจากนี้ ม็อด Relax ยังให้ timing ที่ผ่อนปรนขึ้นในการเก็บ slider tick ระหว่าง drumroll ส่วน denden สามารถเคลียร์ด้วยลำดับสีใดก็ได้แทนที่จะต้องสลับสี mascot แบบแอนิเมชันจะถูกลบออกด้วย
 
-ต่างจากโหมด osu! ปกติ Mod Relax ในโหมด Taiko *จะยังคง* แสดงคะแนน, คอมโบ และการกดพลาดให้เห็นตามปกติ
+ต่างจาก osu! ม็อด Relax ใน osu!taiko *จะแสดง* คะแนน คอมโบ และ miss
 
 ### osu!catch
 
-ในโหมด [osu!catch](/wiki/Game_mode/osu!catch) Mod Relax จะช่วยให้ตัวละครคนรับสามารถเคลื่อนที่ได้อย่างอิสระตามการขยับเมาส์ (หรืออุปกรณ์ควบคุมเคอร์เซอร์อื่นๆ) ด้วยความเร็วที่ไม่จำกัด
+ใน [osu!catch](/wiki/Game_mode/osu!catch) ม็อด Relax ให้ตัวละครเคลื่อนที่ได้อย่างอิสระทุกความเร็วด้วยเมาส์หรืออุปกรณ์อื่นที่ใช้ขยับเคอร์เซอร์
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

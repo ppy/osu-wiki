@@ -1,16 +1,16 @@
-# ระบบการตัดสินของ osu!taiko (osu!taiko judgement system)
+# osu!taiko judgement system
 
-## การตัดสิน (Judgements)
+## Judgements
 
-**การตัดสิน (Judgement)** หรือ **ผลการกด (Hit result)** คือผลลัพธ์ที่ได้จากการโต้ตอบกับ [วัตถุ (Hit object)](/wiki/Gameplay/Hit_object) ภายในช่วงเวลาการกดที่กำหนด (Hit window) คะแนนและความแม่นยำจะถูกคำนวณตามประเภทของการตัดสินที่ได้รับ
+**Judgement** หรือ **hit result** คือผลลัพธ์จากการโต้ตอบกับ [hit object](/wiki/Gameplay/Hit_object) ภายใน hit window ของมัน คะแนนและ accuracy จะคำนวณจาก judgement ที่ได้รับ
 
-| รูปภาพ | ชื่อเรียก | [คะแนนที่ได้รับ](/wiki/Gameplay/Score/ScoreV1/osu!taiko) | [ความแม่นยำ](/wiki/Gameplay/Accuracy#osu!taiko) | ช่วงเวลาการกดสูงสุด (มิลลิวินาที) |
+| Image | Name | [Hit value](/wiki/Gameplay/Score/ScoreV1/osu!taiko) | [Accuracy](/wiki/Gameplay/Accuracy#osu!taiko) | Max hit error (ms) |
 | :-: | :-: | --: | --: | :-- |
 | ![](/wiki/shared/judgement/osu!taiko/taiko-hit300g.png) ![](/wiki/shared/judgement/osu!taiko/taiko-hit300.png) | GREAT | 300 | 100% | `50 - 3 × OD` |
-| ![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png) ![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png) | OK | 150 | 50% | `120 - 8 × OD` หาก OD ≤ 5, และ `110 - 6 × OD` หาก OD ≥ 5 |
-| ![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png) | MISS | 0 | 0% | `135 - 8 × OD` หาก OD ≤ 5, และ `120 - 5 × OD` หาก OD ≥ 5 |
+| ![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png) ![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png) | OK | 150 | 50% | `120 - 8 × OD` if OD ≤ 5, and `110 - 6 × OD` if OD ≥ 5 |
+| ![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png) | MISS | 0 | 0% | `135 - 8 × OD` if OD ≤ 5, and `120 - 5 × OD` if OD ≥ 5 |
 
-ตารางเปรียบเทียบความกว้างของช่วงเวลาการกดตามค่า OD:
+การเปรียบเทียบความยาว hit window สำหรับค่า OD ต่าง ๆ:
 
 | OD | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -18,48 +18,48 @@
 | Ok | 120 ms | 112 ms | 104 ms | 96 ms | 88 ms | 80 ms | 74 ms | 68 ms | 62 ms | 56 ms | 50 ms |
 | Miss | 135 ms | 127 ms | 119 ms | 111 ms | 103 ms | 95 ms | 90 ms | 85 ms | 80 ms | 75 ms | 70 ms |
 
-ช่วงเวลาการกดจะขึ้นอยู่กับค่า [ความยากโดยรวม (OD)](/wiki/Beatmap/Overall_difficulty) ของบีทแมพ การกดจะถือว่าอยู่ในช่วงเวลานั้นๆ หาก `ความคลาดเคลื่อน < ช่วงเวลาการกดสูงสุด` ซึ่งค่าที่ระบุในตารางคือครึ่งหนึ่งของความกว้างทั้งหมด ยกเว้นช่วงเวลา MISS ที่จะใช้เงื่อนไข `ความคลาดเคลื่อน ≤ ช่วงเวลาการกดสูงสุด` แทน
+Hit window ขึ้นอยู่กับค่า [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) ของบีตแมป จากนั้น hit จะถือว่าอยู่ใน hit window หาก `hit error < max hit error` หมายความว่าค่าที่แสดงคือครึ่งหนึ่งของความกว้าง hit window ส่วน MISS window เป็นข้อยกเว้น โดยจะเปรียบเทียบด้วย `hit error ≤ max hit error`<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Taiko/HitCircleTaiko.cs#L187, https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Taiko/HitCircleTaiko.cs#L151 --> แทน
 
-เนื่องจากระบบมีการปัดเศษทศนิยมและตัดเศษจำนวนเต็ม สำหรับระดับ GREAT และ OK ช่วงเวลาจริงอาจจะสั้นกว่าที่คำนวณจากสูตรได้สูงสุดถึง 1.5 มิลลิวินาที ในขณะที่ช่วงเวลา MISS อาจจะสั้นหรือยาวกว่าสูตรได้สูงสุด 0.5 มิลลิวินาที ในทั้งสองฝั่ง
+Hit error จะถูกปัดเศษ และค่า max hit error จะถูกตัดลงเป็นจำนวนเต็มที่ใกล้ที่สุด<!-- see corresponding reference in wiki/Gameplay/Judgement/osu!/en.md --> หมายความว่าสำหรับ GREAT และ OK hit window อาจสั้นกว่าที่สูตรบอกได้สูงสุด 1.5 ms ทั้งสองด้าน ส่วน miss window อาจสั้นลงหรือยาวขึ้นได้สูงสุด 0.5 ms ทั้งสองด้าน
 
-## กลไกการตัดสิน (Judgement mechanics)
+## กลไก judgement
 
-### โน้ตขนาดเล็ก/ขนาดใหญ่ (Small/large notes)
+### Small/large notes
 
-โน้ตทั้งขนาดเล็กและขนาดใหญ่จะถูกตัดสินเป็น GREAT, OK หรือ MISS ตามความแม่นยำของจังหวะที่กด การกดก่อนที่จะถึงช่วงเวลา MISS จะไม่มีผลใดๆ และหากไม่กดโน้ตเลยจนเลยช่วงเวลา OK ไปแล้ว จะถือว่าเป็น MISS ทันที นอกจากนี้ การกดปุ่มผิดสี (เช่น กดแดงในโน้ตน้ำเงิน) จะถือว่าเป็น MISS เช่นกัน
+โน้ตเล็กและโน้ตใหญ่จะถูกตัดสินเป็น GREAT, OK หรือ MISS ตามความแม่นยำในการตี การตีโน้ตก่อน MISS window จะไม่มีผล และหากไม่ตีโน้ตเลย จะเกิด MISS หลัง MEH window ผ่านไป การกดปุ่มผิดสีของโน้ตก็จะทำให้เกิด MISS เช่นกัน
 
-สำหรับโน้ตขนาดใหญ่ สามารถกดปุ่มสีที่ถูกต้องสองปุ่มพร้อมกัน (ภายในเวลาห่างกันไม่เกิน 30 มิลลิวินาที) เพื่อให้ได้รับคะแนนเป็นสองเท่า
+โน้ตใหญ่สามารถตีด้วยปุ่มสีที่ถูกต้องสองปุ่มพร้อมกันได้ ภายในช่วงห่างกันไม่เกิน 30 ms เพื่อรับคะแนนสองเท่า
 
-### Drum rolls (การตีรัว)
+### Drum rolls
 
-การตี Drum roll แต่ละจุดจังหวะ (Tick) จะให้คะแนน 300 คะแนน (360 คะแนนในช่วง [Kiai time](/wiki/Gameplay/Kiai_time)) สำหรับ Drum roll ขนาดใหญ่จะได้ 720 คะแนน (864 คะแนนในช่วง Kiai time)
+Drum roll ให้คะแนน 300 ต่อ drum roll tick ที่ตีถูก timing หรือ 360 ระหว่าง [kiai time](/wiki/Gameplay/Kiai_time) ส่วน drum roll ใหญ่ให้คะแนน 720 หรือ 864 ระหว่าง kiai time
 
-การตีรัวที่เร็วหรือช้าเกินไปจะทำให้ไม่สามารถเก็บคะแนนจากจุดจังหวะได้ โดยขีดจำกัดจะอยู่ที่การตีเร็วไม่เกินสองเท่าของจังหวะที่โน้ตปรากฏ และช้าไม่เกินหนึ่งครั้งในทุกๆ 5 จุดจังหวะ
+การตีเร็วเกินไปหรือช้าเกินไปจะทำให้เก็บ tick ไม่ได้ ขอบเขตโดยคร่าวคือการตีเร็วเป็นสองเท่าของความถี่ที่ tick ปรากฏ และการตีช้ากว่าทุก ๆ tick ที่ 5<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Taiko/SliderTaiko.cs#L362-L396 explanation is slightly simplified; bounds aren't exact because it calculates based on the time since the last hit tick's time, not since last button press -->
 
-หากเปิดใช้งาน [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) การตี Drum roll จะมีการให้ผลการตัดสินตามจำนวนจุดจังหวะที่เก็บได้ ดังนี้:
+เมื่อเปิด [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) drum roll จะให้ judgement ตามจำนวน tick ที่ตีโดนด้วย:<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Taiko/SliderTaiko.cs#L123-L144 -->
 
-| การตัดสิน | เงื่อนไข |
+| Judgement | Requirement |
 | :-: | :-- |
-| GREAT | เก็บจุดจังหวะได้ ≥ จำนวนทั้งหมด × (`0.3` หาก OD ≤ 6, มิฉะนั้นจะใช้สูตร `0.1 + OD / 30`) |
-| OK | เก็บจุดจังหวะได้อย่างน้อยหนึ่งจุด |
-| MISS | อื่นๆ นอกเหนือจากนี้ |
+| GREAT | Ticks hit ≥ amount of ticks × (`0.3` if OD ≤ 6, otherwise `0.1 + OD / 30`) |
+| OK | ตีโดนอย่างน้อยหนึ่ง tick |
+| MISS | อื่น ๆ ทั้งหมด |
 
-### Swells (สปินเนอร์)
+### Swells
 
-Swells หรือที่รู้จักกันในชื่อ Spinners หรือ Dendens จะให้คะแนน 300 คะแนนต่อการกดหนึ่งครั้ง หากหมุนไม่ครบตามจำนวนที่กำหนดจะส่งผลเสียต่อ [พลังชีวิต (Health)](/wiki/Gameplay/Health) แต่จะไม่มีการให้ผลการตัดสิน (GREAT/OK/MISS) ในโหมดปกติ
+Swell หรือที่เรียกว่า spinner หรือ denden ให้คะแนน 300 ต่อ hit หากทำจำนวน hit ที่ต้องการไม่ครบ จะถูกลงโทษด้าน[พลังชีวิต](/wiki/Gameplay/Health) แต่จะไม่ให้ judgement
 
-หากเปิดใช้งาน [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) Swells จะมีการให้ผลการตัดสินตามเปอร์เซ็นต์ที่หมุนได้ ดังนี้:
+เมื่อเปิด [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) swell จะให้ judgement ตามจำนวนครั้งที่ตีโดน:<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Taiko/SpinnerTaiko.cs#L151-L171 -->
 
-| การตัดสิน | จำนวนครั้งที่หมุนได้ |
+| Judgement | Required hits |
 | :-: | :-- |
 | GREAT | 100% |
-| OK | 50% ขึ้นไป |
+| OK | 50% |
 | MISS | 0% |
 
 ## ScoreV2
 
-ตัวปรับแต่งเกม [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) มีการเปลี่ยนแปลงกลไกการตัดสินของ osu!taiko เล็กน้อยดังนี้:
+ม็อด [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) เปลี่ยนบางอย่างเกี่ยวกับกลไก judgement ของ osu!taiko:
 
-- ยกเลิกข้อจำกัดด้านความเร็วในการตี Drum roll ทำให้ผู้เล่นสามารถตีรัวได้เร็วเท่าที่ต้องการโดยไม่เสียคะแนน
-- Drum roll จะมีการให้ผลการตัดสิน (GREAT/OK/MISS) ตามจำนวนจุดจังหวะที่เก็บได้
-- Swells จะมีการให้ผลการตัดสิน (GREAT/OK/MISS) ตามจำนวนครั้งที่หมุนได้
+- ข้อจำกัดด้านความเร็วของ drum roll ถูกยกออก หมายความว่าสามารถ mash ได้โดยไม่มี penalty
+- Drum roll ให้ judgement ตามจำนวน tick ที่ตีโดน
+- Swell ให้ judgement ตามจำนวนครั้งที่ตีโดน

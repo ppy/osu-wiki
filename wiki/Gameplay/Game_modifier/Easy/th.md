@@ -7,70 +7,70 @@ tags:
   - game modifier
 ---
 
-# Easy (Mod)
+# Easy (mod)
 
-![ไอคอน Mod EZ](/wiki/shared/mods/EZ.png "Easy (EZ) mod icon")
+![EZ mod icon](/wiki/shared/mods/EZ.png "Easy (EZ) mod icon")
 
 *สำหรับบทความเวอร์ชัน [lazer](/wiki/Client/Release_stream/Lazer) ดูที่: [Easy (lazer mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
-*สำหรับความหมายอื่น ดูที่: [Easy (แก้ความกำกวม)](/wiki/Disambiguation/Easy)*\
-*สำหรับรายการ Mod ทั้งหมด ดูที่: [ตัวปรับแต่งเกม (Game modifier)](/wiki/Gameplay/Game_modifier)*
+*สำหรับความหมายอื่น ดูที่: [Easy (disambiguation)](/wiki/Disambiguation/Easy)*\
+*สำหรับรายชื่อม็อดทั้งหมด ดูที่: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
-## ข้อมูลทั่วไป
+## เกี่ยวกับ
 
 - ตัวย่อ: EZ
-- ประเภท: ลดความยาก (Difficulty Reduction)
-- ตัวคูณคะแนน: 0.50x
-- ปุ่มลัดพื้นฐาน: `Q`
+- ประเภท: Difficulty Reduction
+- Score Multiplier: 0.50x
+- คีย์ลัดเริ่มต้น: `Q`
 - คำอธิบาย:
-  - ![][osu!]: `ลดระดับความยากโดยรวม - วงกลมใหญ่ขึ้น, พลังชีวิตลดช้าลง, ต้องการความแม่นยำน้อยลง`
-  - ![][osu!taiko]: `ลดระดับความยากโดยรวม - โน้ตเคลื่อนที่ช้าลง, ต้องการความแม่นยำน้อยลง`
-  - ![][osu!catch]: `ลดระดับความยากโดยรวม - วงกลมใหญ่ขึ้น, พลังชีวิตลดช้าลง, ต้องการความแม่นยำน้อยลง`
-  - ![][osu!mania]: `ลดระดับความยากโดยรวม - พลังชีวิตลดช้าลง, ต้องการความแม่นยำน้อยลง`
-- โหมดที่รองรับ: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+  - ![][osu!]: `Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.`
+  - ![][osu!taiko]: `Reduces overall difficulty - notes move slower, less accuracy required.`
+  - ![][osu!catch]: `Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.`
+  - ![][osu!mania]: `Reduces overall difficulty - more forgiving HP drain, less accuracy required.`
+- โหมดเกมที่รองรับ: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-## รายละเอียด
+## คำอธิบาย
 
-**Easy** เป็น [ตัวปรับแต่งเกม](/wiki/Gameplay/Game_modifier) ที่มีจุดประสงค์เพื่อลดความยากของ [บีทแมพ (Beatmap)](/wiki/Beatmap) โดยการปรับลดค่ากำหนดความยากทั้งหมดของแมพลงครึ่งหนึ่ง
+ม็อด **Easy** เป็น[ม็อด](/wiki/Gameplay/Game_modifier)ที่พยายามลดความยากของ[บีตแมป](/wiki/Beatmap) โดยทำให้ค่าความยากทั้งหมดของบีตแมปที่เลือกเหลือครึ่งหนึ่ง
 
-ในทุก [โหมดการเล่น](/wiki/Game_mode) ยกเว้น [osu!taiko](/wiki/Game_mode/osu!taiko) Mod Easy จะมอบ "ชีวิต" พิเศษให้ผู้เล่น 2 ชีวิต ในกรณีที่ [แถบพลังชีวิต](/wiki/Client/Interface/Health_bar) ลดลงจนหมด ตัวเกมจะหยุดชั่วคราวเพื่อค่อยๆ ฟื้นฟูพลังชีวิตขึ้นมาใหม่จนถึงประมาณ 80% และหักชีวิตออกไป 1 ชีวิต โดยในระหว่างกระบวนการนี้จะไม่มีเสียงประกอบใดๆ เล่นขึ้นมา
+ใน[โหมดเกม](/wiki/Game_mode)ทั้งหมด ยกเว้น [osu!taiko](/wiki/Game_mode/osu!taiko) ม็อด Easy จะให้ "ชีวิต" เพิ่มอีกสองครั้งระหว่างเล่น หาก[หลอดชีวิต](/wiki/Client/Interface/Health_bar)ลดลงถึงศูนย์ หากเกิดกรณีนี้ เกมจะ pause แล้วค่อย ๆ เติมหลอดชีวิตกลับถึงประมาณ 80% พร้อมลบ "ชีวิต" หนึ่งครั้งจากจำนวนชีวิตของผู้เล่น เอฟเฟกต์นี้จะไม่มีเสียงเล่นระหว่างเติม
 
-เหตุการณ์การฟื้นฟูชีวิตนี้จะมีการแจ้งเตือนด้วยเสียง Ready (`readysound.wav`) และเมื่อฟื้นฟูเสร็จสิ้นจะมีเสียง Go (`gosound.wav`) จากนั้นตัวเกมจะกลับมาเล่นต่อจากจุดเดิม หากผู้เล่นใช้ชีวิตจนครบแล้วและพลังชีวิตหมดอีกครั้ง จะถือว่าเล่นไม่ผ่าน (Fail) ตามปกติ
+เหตุการณ์เติมชีวิตนี้จะแจ้งผู้เล่นด้วยเสียง ready (`readysound.wav`) เมื่อเติมหลอดชีวิตเสร็จแล้ว เกมจะแจ้งผู้เล่นอีกครั้งด้วยเสียง go (`gosound.wav`) หลังจากนั้นบีตแมปจะกลับมาเล่นต่อและให้ผู้เล่นเล่นต่อได้ หากผู้เล่นไม่มีชีวิตเหลือและหลอดชีวิตลดถึงศูนย์ การเล่นจะ fail ตามปกติ
 
 ### osu!
 
-ในโหมด [osu!](/wiki/Game_mode/osu!) Mod Easy จะลดค่า [ขนาดวงกลม (CS)](/wiki/Beatmap/Circle_size), [ความเร็วการปรากฏ (AR)](/wiki/Beatmap/Approach_rate), [ความยากโดยรวม (OD)](/wiki/Beatmap/Overall_difficulty) และ [อัตราการลดของพลังชีวิต (HP)](/wiki/Beatmap/HP_drain_rate) ลงเหลือครึ่งหนึ่งจากค่าเดิม
+ใน [osu!](/wiki/Game_mode/osu!) ม็อด Easy จะลด [circle size (CS)](/wiki/Beatmap/Circle_size), [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) และ [HP drain (HP)](/wiki/Beatmap/HP_drain_rate) ลงครึ่งหนึ่ง
 
-![เปรียบเทียบเกมเพลย์ Easy ใน osu!](img/EZ-comparison-osu.jpg "เปรียบเทียบระหว่างการเล่นปกติ (ซ้าย) กับการเล่นที่เปิด Mod Easy (ขวา) ในโหมด osu!")
+![EZ gameplay osu!](img/EZ-comparison-osu.jpg "Comparison between a regular play (left) vs a play with the Easy mod enabled (right) in osu!")
 
-อย่างไรก็ตาม ควรทราบว่าผู้เล่นหลายคนมองว่า Mod Easy ไม่ได้ช่วยให้เล่นง่ายขึ้นเสมอไป โดยเฉพาะในแมพที่โน้ตหนาแน่น เนื่องจากค่า AR ที่ลดลงจะทำให้มีโน้ตปรากกฎบนหน้าจอพร้อมกันจำนวนมากจนดูวุ่นวายและอ่านจังหวะได้ยาก (ดังภาพด้านบน)
+อย่างไรก็ตาม ควรพูดถึงว่าผู้เล่นจำนวนมากไม่ได้รู้สึกว่าม็อด Easy ช่วยลดความยากสัมพัทธ์ของบีตแมปได้จริง โดยเฉพาะแมปที่เข้มข้นมาก เหตุผลคือ approach rate ที่ลดลงทำให้ภาพดูรกและอ่านยาก จนความเร็วจริงของบีตแมปไม่ถูกสะท้อนผ่านภาพได้ดีนัก ตามภาพด้านบน
 
-*หมายเหตุ: ประเด็นข้างต้นมีการพูดคุยกันอย่างละเอียดในหัวข้อข้อเสนอแนะ "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" เพื่อหาแนวทางปรับปรุง Mod นี้*
+*หมายเหตุ: ประเด็นข้างต้นถูกอธิบายเพิ่มเติมใน feature request "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" เพื่อปรับปรุงม็อดนี้*
 
 ### osu!taiko
 
-ในโหมด [osu!taiko](/wiki/Game_mode/osu!taiko) Mod Easy จะลดค่า [ความเร็วสไลเดอร์ (Slider velocity)](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), ความยากโดยรวม (OD) และอัตราการลดของพลังชีวิต (HP) ลงครึ่งหนึ่ง
+ใน [osu!taiko](/wiki/Game_mode/osu!taiko) ม็อด Easy จะลด [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), overall difficulty (OD) และ HP drain ลงครึ่งหนึ่ง
 
-*หมายเหตุ: จำนวนครั้งที่ต้องกดเพื่อจบ [สปินเนอร์](/wiki/Gameplay/Hit_object/Spinner) จะถูกลดลงตามค่า OD ที่ลดลงด้วย*
+*หมายเหตุ: จำนวน hit ที่ต้องใช้เพื่อจบ[สปินเนอร์](/wiki/Gameplay/Hit_object/Spinner)จะลดลงเป็นค่าของ OD*
 
-ต่างจากโหมดอื่น การใช้ Mod Easy ใน osu!taiko จะไม่มอบชีวิตพิเศษให้ แต่จะลดเกณฑ์คะแนนที่ต้องใช้ในการเพิ่มพลังชีวิต ทำให้แถบพลังชีวิตเต็มเร็วขึ้นมาก เนื่องจากในโหมด Taiko ผู้เล่นไม่สามารถเล่นไม่ผ่านกลางคันได้อยู่แล้ว
+ต่างจากโหมดเกมอื่น การใช้ม็อด Easy ใน osu!taiko จะลดเงื่อนไข note score ที่ต้องใช้เพื่อเพิ่ม health ทำให้หลอดชีวิตเต็มเร็วขึ้นมาก แทนที่จะเพิ่ม "ชีวิต" อีกสองครั้ง เพราะใน taiko ไม่สามารถ fail กลางเพลงได้
 
 ### osu!catch
 
-ในโหมด [osu!catch](/wiki/Game_mode/osu!catch) ผลของ Mod จะคล้ายกับโหมด osu! คือ: ผลไม้ทุกลูกหล่นช้าลง (AR ลดลง), กล้องจะ "ซูมเข้า" (ทำให้ดูเหมือน CS เพิ่มขึ้น) และมอบชีวิตพิเศษให้ 2 ชีวิต
+ใน [osu!catch](/wiki/Game_mode/osu!catch) เอฟเฟกต์จะเหมือนกับ osu! โดยมีบางส่วนที่เทียบเคียงและปรับให้เข้ากับโหมดนี้ คือ fruit ทั้งหมดจะตกช้าลง (AR เพิ่มขึ้น), กล้องจะ "ซูมเข้า" (CS เพิ่มขึ้น) และได้รับ "ชีวิต" เพิ่มสองครั้ง
 
-แม้จะมีการเคลื่อนที่เพียงแนวเดียว แต่ขนาดผลไม้ที่ใหญ่ขึ้นและการหล่นที่ช้าลงอาจทำให้ผลไม้กองรวมกันหนาแน่นเกินไป จนเกิดปัญหาในการอ่านแมพเช่นเดียวกับในโหมด osu!
+แม้จะใช้เพียงแกนเดียว แต่ขนาด fruit ที่ใหญ่ขึ้นและอัตราการตกที่ช้าลงอาจทำให้ fruit กองรวมกัน จนเกิดปัญหาด้านความยากแบบเดียวกับ osu!
 
-![เปรียบเทียบเกมเพลย์ Easy ใน catch](img/EZ-comparison-catch.jpg "เปรียบเทียบระหว่างการเล่นปกติ (ซ้าย) กับการเล่นที่เปิด Mod Easy (ขวา) ในโหมด osu!catch")
+![EZ gameplay catch](img/EZ-comparison-catch.jpg "Comparison between a regular osu! at play (left) vs a play with the Easy mod enabled (right) in osu!catch")
 
 ### osu!mania
 
-ในโหมด [osu!mania](/wiki/Game_mode/osu!mania) ผลของ Mod จะคล้ายกับใน osu!taiko คือลด OD และ HP ลง และมีการมอบชีวิตพิเศษ 2 ชีวิตให้ด้วย ส่วนความเร็วการเลื่อนและจำนวนปุ่มจะยังคงเท่าเดิม
+ใน [osu!mania](/wiki/Game_mode/osu!mania) เอฟเฟกต์จะเหมือน osu!taiko ยกเว้นว่าผู้เล่น *จะ* ได้ชีวิตเพิ่มสองครั้ง และ slider velocity กับจำนวน key เริ่มต้นจะยังเท่าเดิม
 
-## เกร็ดน่ารู้ (Trivia)
+## เกร็ดน่ารู้
 
-- เมื่อดูรีเพลย์ที่มีการใช้ชีวิตพิเศษ แอนิเมชันการฟื้นฟูพลังชีวิตจะถูกข้ามไป และรีเพลย์จะเล่นต่อเสมือนว่าผู้เล่นเปิดใช้งาน Mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) อยู่
-- ในโหมด [มัลติเพลเยอร์](/wiki/Client/Interface/Multiplayer) ระบบ "ชีวิตพิเศษ" จะไม่ทำงานในโหมดทีม [Tag Co-op หรือ Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs)
-- Mod Easy ไม่สามารถใช้ร่วมกับ Mod [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) ได้ (จะหักล้างกันเอง)
+- เมื่อดูรีเพลย์ที่มีการใช้ชีวิตพิเศษ แอนิเมชันเติม health จะถูกข้าม และรีเพลย์จะเล่นต่อเหมือนผู้เล่นเปิดม็อด [No Fail](/wiki/Gameplay/Game_modifier/No_Fail)
+- ในโหมด [Multi](/wiki/Client/Interface/Multiplayer) เอฟเฟกต์ของ "ชีวิต" จะไม่ทำงานในโหมดทีม [Tag Co-op หรือ Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs)
+- ม็อด Easy จะ cancel out ม็อด [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) และในทางกลับกันก็เช่นกัน
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

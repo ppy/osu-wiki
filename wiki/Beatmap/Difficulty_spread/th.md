@@ -6,10 +6,10 @@ tags:
 
 # Difficulty spread
 
-**Difficulty spread** (การกระจายความยาก) คือชุดของระดับ [ความยาก (Difficulties)](/wiki/Beatmap/Difficulty) ภายใน [Beatmap](/wiki/Beatmap) ชุดหนึ่ง ซึ่งครอบคลุมช่วงของค่า [ระดับดาว (Star rating)](/wiki/Beatmap/Star_rating) ที่กำหนด
+**Difficulty spread** คือชุดของ[ระดับความยาก](/wiki/Beatmap/Difficulty)ใน[บีตแมป](/wiki/Beatmap)หนึ่ง ที่อยู่ในช่วงค่า [star rating](/wiki/Beatmap/Star_rating) บางช่วง
 
-Beatmap ในหมวด [Ranked](/wiki/Beatmap/Category#ranked) จะมีข้อกำหนดหลายประการเกี่ยวกับ Difficulty spread ตามที่ระบุใน [เกณฑ์การพิจารณา (Ranking criteria)](/wiki/Ranking_criteria):
+บีตแมปที่ [ranked](/wiki/Beatmap/Category#ranked) แล้วมีข้อกำหนดหลายอย่างเกี่ยวกับ difficulty spread ตาม [ranking criteria](/wiki/Ranking_criteria):
 
-- ต้องมี [ระดับความยาก (Difficulty levels)](/wiki/Beatmap/Difficulty#ระดับความยาก-(difficulty-levels)) ที่จำเป็นครบทุกระดับในช่วงของการกระจายความยากนั้น
-- ระดับความยากที่ต่ำกว่าระดับความยากขั้นต่ำที่กำหนด (พิจารณาตาม [กฎการกระจายความยาก](/wiki/Ranking_criteria#rules.1)) ถือเป็นส่วนเสริมที่จะมีหรือไม่ก็ได้
-- ระดับความยากสองระดับที่อยู่ติดกันต้องไม่มีช่องว่างของความยาก (Difficulty gap) ที่มากเกินไป
+- ต้องมี [difficulty levels](/wiki/Beatmap/Difficulty#difficulty-levels) ที่จำเป็นทั้งหมดในช่วงของ spread นั้น
+- ระดับความยากที่ต่ำกว่าระดับต่ำสุดที่ถูกกำหนดว่าต้องมีตาม [spread rules](/wiki/Ranking_criteria#rules.1) จะมีหรือไม่มีก็ได้
+- ระดับความยากสองระดับที่อยู่ติดกันในบีตแมปต้องไม่มีช่องว่างของความยากมากเกินไป

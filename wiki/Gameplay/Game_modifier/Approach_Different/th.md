@@ -4,15 +4,17 @@ tags:
   - AD
 ---
 
-# Approach Different (mod)
+# Approach Different (ม็อด)
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Approach Different
 
-![Approach Different mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AD.png)
+![ไอคอนม็อด Approach Different](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AD.png)
 
-*อย่าไปเชื่อใจ Approach circles...*
+*อย่าไว้ใจ approach circles เด็ดขาด...*
 
 |  |  |
 | :-- | :-- |
@@ -21,10 +23,12 @@ tags:
 | โหมดเกม (Game modes) | ![][osu!] |
 | ตัวคูณคะแนน (Score multiplier) | 1.00x |
 | สถานะ (Status) | Unranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) |
+| ม็อดที่ใช้ร่วมกันไม่ได้ | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) |
 
 :::
 
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+<!-- TODO description and settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

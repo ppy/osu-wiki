@@ -4,15 +4,17 @@ tags:
   - DP
 ---
 
-# Depth (mod)
+# Depth (ม็อด)
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Depth
 
-![Depth mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DP.png)
+![ไอคอนม็อด Depth](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DP.png)
 
-*3D. เกือบจะใช่แล้วล่ะ*
+*3D เกือบแล้ว*
 
 |  |  |
 | :-- | :-- |
@@ -21,10 +23,12 @@ tags:
 | โหมดเกม (Game modes) | ![][osu!] |
 | ตัวคูณคะแนน (Score multiplier) | 1.00x |
 | สถานะ (Status) | Unranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DP)](/wiki/Gameplay/Game_modifier/Deflate), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) |
+| ม็อดที่ใช้ร่วมกันไม่ได้ | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DP)](/wiki/Gameplay/Game_modifier/Deflate), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) |
 
 :::
 
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+<!-- TODO description and settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

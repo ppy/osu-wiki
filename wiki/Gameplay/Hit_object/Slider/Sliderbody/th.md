@@ -4,10 +4,10 @@ tags:
   - slider path
 ---
 
-# Sliderbody
+# ตัวสไลเดอร์ (Sliderbody)
 
-*Sliderbody* คือตัวเชื่อมที่สร้างเส้นทางระหว่าง [Sliderhead](/wiki/Gameplay/Hit_object/Slider/Sliderhead) และ [Slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) ใน [Beatmap](/wiki/Beatmap) ของ [osu!](/wiki/Game_mode/osu!) โดยผู้เล่นจะต้องลากเคอร์เซอร์ไปตามเส้นทางของ Sliderbody หลังจากที่คลิก Sliderhead แล้ว ไปจนกว่าจะถึง Slidertail 
+*ตัวสไลเดอร์ (sliderbody)* คือเส้นทางระหว่าง [หัวสไลเดอร์](/wiki/Gameplay/Hit_object/Slider/Sliderhead) และ [ท้ายสไลเดอร์](/wiki/Gameplay/Hit_object/Slider/Slidertail) ใน [บีตแมป](/wiki/Beatmap) ของ [osu!](/wiki/Game_mode/osu!) ผู้เล่นต้องตามตัวสไลเดอร์ไปตามเส้นทางหลังจากคลิกหัวสไลเดอร์แล้ว จนกว่าจะถึงท้ายสไลเดอร์ ตัวสไลเดอร์เป็นส่วนที่ยืดหยุ่นที่สุดของสไลเดอร์ เพราะสามารถปรับได้ด้วย [slider anchors](/wiki/Gameplay/Hit_object/Slider/Slider_anchor) และการเปลี่ยน [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) สีของตัวสไลเดอร์ถูกกำหนดโดย [สีคอมโบ](/wiki/Beatmapping/Combo_colour) ที่แมปเปอร์ของบีตแมปใช้<!-- TODO: Insert curve algorithm in here somewhere maybe-->
 
-Sliderbody เป็นส่วนที่ปรับแต่งได้หลากหลายที่สุดของ Slider เนื่องจากมันสามารถถูกดัดแปลงได้ด้วย [Slider anchors](/wiki/Gameplay/Hit_object/Slider/Slider_anchor) และการเปลี่ยนแปลงของ [Slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) 
+<!-- TODO: Mention sliderart here maybe-->
 
-นอกจากนี้ สีของ Sliderbody จะถูกกำหนดโดย [สีคอมโบ (Combo colours)](/wiki/Beatmapping/Combo_colour) ที่ผู้สร้างแผนที่ (Mapper) เลือกใช้ใน Beatmap นั้นๆ```
+<!-- TODO: Add links and images-->

@@ -4,31 +4,35 @@ tags:
   - RD
 ---
 
-# Random (lazer mod)
+# Random (ม็อด lazer)
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Random
 
-![Random mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RD.png)
+![ไอคอนม็อด Random](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RD.png)
 
-*![][osu!]: ไม่มีคำว่าน่าเบื่อ!*\
-*![][osu!taiko]: สลับตำแหน่งของสี!*\
-*![][osu!mania]: สลับตำแหน่งของปุ่ม!*
+*![][osu!]: ไม่มีทางเบื่อ!*\
+*![][osu!taiko]: สลับสีไปมา!*\
+*![][osu!mania]: สลับคีย์ไปมา!*
 
 |  |  |
 | :-- | :-- |
 | ตัวย่อ (Acronym) | RD |
-| ประเภท (Type) | การแปลง (Conversion) |
+| ประเภท (Type) | แปลงรูปแบบการเล่น (Conversion) |
 | โหมดเกม (Game modes) | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | ตัวคูณคะแนน (Score multiplier) | 1.00x |
 | สถานะ (Status) | Unranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) |
+| ม็อดที่ใช้ร่วมกันไม่ได้ | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) |
 
 :::
 
-*สำหรับบทความนี้ในเวอร์ชัน osu!stable ดูที่: [Random (mod)](/wiki/Gameplay/Game_modifier/Random)*\
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับบทความเวอร์ชัน osu!stable ดูที่: [Random (mod)](/wiki/Gameplay/Game_modifier/Random)*\
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+<!-- TODO description and settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

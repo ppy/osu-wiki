@@ -6,43 +6,43 @@ tags:
 
 # Converts
 
-![ปุ่มเปิดปิด \"Show converted\" ใน osu!(lazer)](img/show-converted-button.png "ปุ่มเปิดปิด \"Show converted\" ใน osu!(lazer)")
+![ปุ่มสลับ \"Show converted\" ใน osu!(lazer)](img/show-converted-button.png "ปุ่มสลับ \"Show converted\" ใน osu!(lazer)")
 
-**Converts** (หรือ *converted beatmaps*) คือ [Beatmap](/wiki/Beatmap) ของโหมดเกมใดโหมดหนึ่งที่ถูก "แปลง" โดยตัวเกม osu! เพื่อให้สามารถเล่นได้ในโหมดเกมอื่นที่ไม่ได้ถูกสร้างมาเพื่อโหมดนั้นตั้งแต่แรก การแปลงทั้งหมดจะถูกสร้างขึ้นโดยอัตโนมัติอ้างอิงตามพารามิเตอร์ต่างๆ ที่ระบุไว้ใน Beatmap ต้นฉบับ
+**Converts** (หรือ *converted beatmaps*) คือ[บีตแมป](/wiki/Beatmap)ของ[โหมดเกม](/wiki/Game_mode)หนึ่งที่ถูกไคลเอนต์ osu! "แปลง" ภายในเกม เพื่อให้เล่นได้ในโหมดเกมอื่นที่ไม่ได้ถูกสร้างมาแต่แรก converts ทั้งหมดถูกสร้างโดยอัตโนมัติตามพารามิเตอร์บางอย่างที่มีอยู่ในบีตแมปต้นทาง
 
-ในปัจจุบัน osu! รองรับการแปลง Beatmap จาก [โหมด osu!](/wiki/Game_mode/osu!) ไปเป็นโหมด [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch) และ [osu!mania](/wiki/Game_mode/osu!mania)
+ในปัจจุบัน osu! รองรับการแปลงบีตแมปจาก[โหมดเกม osu!](/wiki/Game_mode/osu!) ไปเป็น [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), และ [osu!mania](/wiki/Game_mode/osu!mania)
 
-## การแปลง (Conversions)
+## การแปลง
 
 ### การแปลงจาก osu! เป็น osu!taiko
 
-*ดูเพิ่มเติม: [การสร้างแมพ osu!taiko/หมายเหตุเกี่ยวกับการแปลงจาก osu!](/wiki/Game_mode/osu!taiko#osu!-conversion-notes)*
+*ดูเพิ่มเติม: [osu!taiko mapping/osu! conversion notes](/wiki/Game_mode/osu!taiko#osu!-conversion-notes)*
 
-แมพ Convert ของ osu!taiko จะถูกสร้างขึ้นตามการวาง [Hitsounds](/wiki/Beatmapping/Hitsound), จังหวะ (Rhythm) และการเปลี่ยนความเร็ว Slider (Slider velocity) ใน Beatmap โดยการแปลงจะขึ้นอยู่กับประเภทของ [Hit objects](/wiki/Gameplay/Hit_object) และ Hitsound ที่ใส่ไว้ ดังนี้:
+osu!taiko converts ถูกสร้างตามตำแหน่งของ [hitsounds](/wiki/Beatmapping/Hitsound), จังหวะ, และการเปลี่ยน slider velocity ในบีตแมป โดยขึ้นอยู่กับประเภทของ [hit object](/wiki/Gameplay/Hit_object) และ hitsounds ที่สัมพันธ์กัน รูปแบบการแปลงโดยทั่วไปมีดังนี้:
 
-- Circles, จุดเริ่มต้น Slider, จุดสิ้นสุด Slider และจุดวกกลับ (Repeats) ที่ไม่มีการเพิ่ม Hitsound พิเศษ (เช่น ไม่มีเสียง whistle, clap หรือ finish) จะถูกแปลงเป็นโน้ตสีแดง (Don)
-- Circles, จุดเริ่มต้น Slider, จุดสิ้นสุด Slider และจุดวกกลับ ที่ใส่ Hitsound เสียง whistle, clap หรือทั้งสองอย่าง จะถูกแปลงเป็นโน้ตสีน้ำเงิน (Katu)
-- Circles, จุดเริ่มต้น Slider, จุดสิ้นสุด Slider และจุดวกกลับ ที่ใส่ Hitsound เสียง finish จะถูกแปลงเป็นโน้ตสีแดงขนาดใหญ่
-- Circles, จุดเริ่มต้น Slider, จุดสิ้นสุด Slider และจุดวกกลับ ที่ใส่ Hitsound เสียง finish และเพิ่มเสียง whistle, clap หรือทั้งสองอย่าง จะถูกแปลงเป็นโน้ตสีน้ำเงินขนาดใหญ่
-- Slider ที่มีความยาวในระดับหนึ่งจะถูกแปลงเป็น Drumrolls
-- Spinner จะถูกแปลงเป็น Dendens (Shakers)
+- Circles, slider heads, slider tails, และ slider repeats ที่ไม่มี additive hitsounds (เช่น ไม่มี whistle, clap, หรือ finish) จะถูกแปลงเป็นโน้ตแดง (Don)<!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->
+- Circles, slider heads, slider tails, และ slider repeats ที่ใส่ hitsound เป็น whistle, clap, หรือทั้งสองอย่าง จะถูกแปลงเป็นโน้ตน้ำเงิน (Katu)<!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->
+- Circles, slider heads, slider tails, และ slider repeats ที่ใส่ hitsound เป็น finish จะถูกแปลงเป็นโน้ตแดงใหญ่<!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->
+- Circles, slider heads, slider tails, และ slider repeats ที่ใส่ hitsound เป็น finish และ whistle, clap, หรือทั้งสองอย่าง จะถูกแปลงเป็นโน้ตน้ำเงินใหญ่<!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->
+- สไลเดอร์ที่มีความยาวมากพอจะถูกแปลงเป็น drumrolls<!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->
+- สปินเนอร์จะถูกแปลงเป็น dendens (shakers)<!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->
 
 ### การแปลงจาก osu! เป็น osu!catch
 
-*ดูเพิ่มเติม: [การสร้างแมพ osu!catch/หมายเหตุเกี่ยวกับการแปลงจาก osu!](/wiki/Game_mode/osu!catch#osu!-conversion-notes)*
+*ดูเพิ่มเติม: [osu!catch mapping/osu! conversion notes](/wiki/Game_mode/osu!catch#osu!-conversion-notes)*
 
-แมพ Convert ของ osu!catch จะถูกสร้างขึ้นตามจังหวะและ *ตำแหน่งแนวนอน* (พิกัดแกน x) ของ [Hit objects](/wiki/Gameplay/Hit_object) ใน Beatmap ดังนี้:
+osu!catch converts ถูกสร้างตามจังหวะและ *ตำแหน่งแนวนอน* (เช่น พิกัดแกน x) ของ [hit object](/wiki/Gameplay/Hit_object) ในบีตแมป ดังนี้:
 
-- Circles, จุดเริ่มต้น Slider, จุดสิ้นสุด Slider และจุดวกกลับ จะถูกแปลงเป็น [ผลไม้ (Fruits)](/wiki/Gameplay/Hit_object/Fruit)
-- Slider ticks จะถูกแปลงเป็น [หยดน้ำใหญ่ (Juice drops)](/wiki/Gameplay/Hit_object/Juice_stream#drop)
-- เส้นทางเดินของ Slider (Slider paths) จะถูกแปลงเป็น [หยดน้ำเล็ก (Droplets)](/wiki/Gameplay/Hit_object/Juice_stream#droplet)
-- Spinner จะถูกแปลงเป็น [กล้วย (Bananas)](/wiki/Gameplay/Hit_object/Banana)
+- Circles, slider heads, slider tails, และ slider repeats จะถูกแปลงเป็น [fruits](/wiki/Gameplay/Hit_object/Fruit)
+- Slider ticks จะถูกแปลงเป็น [juice drops](/wiki/Gameplay/Hit_object/Juice_stream#drop)
+- Slider paths จะถูกแปลงเป็น [droplets](/wiki/Gameplay/Hit_object/Juice_stream#droplet)
+- สปินเนอร์จะถูกแปลงเป็น [bananas](/wiki/Gameplay/Hit_object/Banana)
 
 ### การแปลงจาก osu! เป็น osu!mania
 
-แมพ Convert ของ osu!mania จะถูกสร้างขึ้นโดยอ้างอิงจากจังหวะของ Beatmap เป็นหลัก และมักจะมีการสุ่มมากกว่าโหมดอื่นๆ แม้ว่าจะไม่มีข้อสรุปที่แน่ชัดว่าการแปลงจาก osu! เป็น osu!mania ทำงานอย่างไร แต่โดยทั่วไปจะเป็นดังนี้:
+osu!mania converts ส่วนใหญ่ถูกสร้างตามจังหวะของบีตแมป และเชื่อกันว่าสุ่มมากกว่า converts ในโหมดเกมอื่น ๆ แม้จะยังไม่มีข้อสรุปชัดเจนว่าการแปลงจาก osu! เป็น osu!mania ทำงานอย่างไรแบบละเอียด แต่โดยทั่วไปจะเป็นดังนี้:
 
-- Circles และ Slider ขนาดสั้น (เช่น [Slider จังหวะ 1/4](/wiki/Client/Beatmap_editor/Beat_snap_divisor)) จะถูกแปลงเป็นโน้ตปกติ
-- Spinner และ Slider ที่ยาวกว่าจะถูกแปลงเป็นโน้ตยาว (Long notes)
+- Circles และสไลเดอร์สั้น ๆ (เช่น [1/4 sliders](/wiki/Client/Beatmap_editor/Beat_snap_divisor)) จะถูกแปลงเป็น regular notes<!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->
+- สปินเนอร์และสไลเดอร์ที่ยาวกว่าจะถูกแปลงเป็น long notes<!-- TODO: link (https://github.com/ppy/osu-wiki/issues/3152) -->
 
-นอกจากนี้ แมพ Convert ของ osu!mania ยังมีความพิเศษตรงที่ผลลัพธ์อาจจะเป็นแมพแบบ [4K, 5K หรือ 7K](/wiki/Gameplay/Game_modifier/xK) ขึ้นอยู่กับความยากของ Beatmap ต้นฉบับ
+นอกจากที่กล่าวมาข้างต้น osu!mania converts ยังมีความพิเศษตรงที่ผลลัพธ์จากการแปลงอาจเป็น [4K, 5K, หรือ 7K](/wiki/Gameplay/Game_modifier/xK) ได้ ขึ้นอยู่กับความยากของบีตแมปต้นฉบับ

@@ -7,18 +7,18 @@ tags:
   - comboset
 ---
 
-# คอมโบ (Combo)
+# Combo
 
-*สำหรับการใช้งานอื่น ดูที่ [Combo (แก้ความกำกวม)](/wiki/Disambiguation/Combo)*
+*สำหรับความหมายอื่น ดู [Combo (disambiguation)](/wiki/Disambiguation/Combo)*
 
-**Combo** (หรือ **comboset**) หมายถึงชุดของ [Hit circles](/wiki/Gameplay/Hit_object/Hit_circle) และ [Sliders](/wiki/Gameplay/Hit_object/Slider) ใน [Beatmap](/wiki/Beatmap) ของโหมด [osu!](/wiki/Game_mode/osu!) และ [osu!catch](/wiki/Game_mode/osu!catch) โดย [Hit objects](/wiki/Gameplay/Hit_object) ที่อยู่ในคอมโบเดียวกันจะใช้ [สีคอมโบ (Combo colour)](/wiki/Beatmapping/Combo_colour) เดียวกันและถูกเชื่อมต่อด้วยเส้นนำสายตา (Followpoints) เมื่อจบหนึ่งคอมโบและผู้เล่นสามารถกดได้สำเร็จ จะได้รับโบนัส [พลังชีวิต (Health)](/wiki/Gameplay/Health) เพิ่มเติม ซึ่งแต่ละคอมโบจะเริ่มจาก Hit object ที่ถูกกำหนดให้เป็น [New Combo](/wiki/Beatmapping/New_combo)
+**Combo** (หรือ **comboset**) หมายถึงชุดของ[ฮิตเซอร์เคิล](/wiki/Gameplay/Hit_object/Hit_circle)และ[สไลเดอร์](/wiki/Gameplay/Hit_object/Slider)ใน[บีตแมป](/wiki/Beatmap)ของ [osu!](/wiki/Game_mode/osu!) และ [osu!catch](/wiki/Game_mode/osu!catch) [Hit objects](/wiki/Gameplay/Hit_object) ที่อยู่ในคอมโบเดียวกันจะใช้ [combo colour](/wiki/Beatmapping/Combo_colour) เดียวกัน และเชื่อมกันด้วย followpoints เมื่อจบคอมโบสำเร็จจะได้รับ[พลังชีวิต](/wiki/Gameplay/Health)โบนัส ทุกคอมโบเริ่มจาก hit object ที่ถูกทำเครื่องหมายเป็น new combo
 
-โหมด [osu!taiko](/wiki/Game_mode/osu!taiko) และ [osu!mania](/wiki/Game_mode/osu!mania) จะไม่มีการใช้ระบบคอมโบแบบแยกชุดลักษณะนี้
+[osu!taiko](/wiki/Game_mode/osu!taiko) และ [osu!mania](/wiki/Game_mode/osu!mania) ไม่ใช้คอมโบ
 
 ## osu!
 
-ในโหมด [osu!](/wiki/Game_mode/osu!) นอกจากสีคอมโบแล้ว Hit object แต่ละชิ้นในคอมโบจะมีเลขลำดับกำกับไว้ด้วย โดยคอมโบใหม่จะเริ่มนับจากเลข 1 และเพิ่มขึ้นเรื่อยๆ ทั้งนี้ [Spinners](/wiki/Gameplay/Hit_object/Spinner) จะบังคับให้วัตถุชิ้นถัดไปเริ่มคอมโบใหม่เสมอ ผู้เล่นจะได้รับพลังชีวิตกลับคืนมามากขึ้นหากทำคะแนน [Geki](/wiki/Gameplay/Judgement/Geki) หรือ [Katu](/wiki/Gameplay/Judgement/Katu) ได้ ซึ่งจะเกิดขึ้นเมื่อกด Hit object ชิ้นสุดท้ายของคอมโบได้สำเร็จตามเงื่อนไข
+ใน [osu!](/wiki/Game_mode/osu!) hit object แต่ละตัวในคอมโบจะมี combo number ของตัวเอง นอกเหนือจาก combo colour New combos จะเริ่มที่ 1 แล้วนับเพิ่มขึ้น และ[สปินเนอร์](/wiki/Gameplay/Hit_object/Spinner)จะบังคับให้ออบเจกต์ถัดไปเริ่ม new combo ด้วย [Geki](/wiki/Gameplay/Judgement/Geki) และ [Katu](/wiki/Gameplay/Judgement/Katu) hit scores จะฟื้นพลังชีวิตได้มากขึ้น ซึ่งสามารถได้จาก hit object สุดท้ายในคอมโบ
 
 ## osu!catch
 
-ในโหมด [osu!catch](/wiki/Game_mode/osu!catch) [ผลไม้ (Fruits)](/wiki/Gameplay/Hit_object/Fruit) แต่ละลูกจะถูกระบายสีตามลำดับคอมโบ [Juice streams](/wiki/Gameplay/Hit_object/Juice_stream) และผลไม้ที่จุดสิ้นสุดของ Slider จะมีสีเดียวกับผลไม้ที่จุดเริ่มต้นเสมอ อย่างไรก็ตาม [กล้วย (Bananas)](/wiki/Gameplay/Hit_object/Banana) จะมีสีโทนเหลืองเสมอ เมื่อจบหนึ่งคอมโบ ผลไม้ที่สะสมอยู่บนจานของตัวละครจะระเบิดกระจายออกไป
+ใน [osu!catch](/wiki/Game_mode/osu!catch) [fruit](/wiki/Gameplay/Hit_object/Fruit) แต่ละประเภทจะถูกใส่สีตามลำดับที่กำหนด [Juice streams](/wiki/Gameplay/Hit_object/Juice_stream) และ fruits ที่ปลายสไลเดอร์จะมีสีเดียวกับ start fruit เสมอ อย่างไรก็ตาม [bananas](/wiki/Gameplay/Hit_object/Banana) จะมีโทนสีเหลืองเสมอ เมื่อคอมโบสำเร็จ fruits ที่ซ้อนอยู่บนจานของ catcher จะระเบิดออกด้านนอก

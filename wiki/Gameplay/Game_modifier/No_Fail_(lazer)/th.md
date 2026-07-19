@@ -9,30 +9,32 @@ tags:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### No Fail
 
 ![No Fail mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NF.png)
 
-*คุณจะไม่มีวันแพ้ ไม่ว่าจะเกิดอะไรขึ้นก็ตาม*
+*You can't fail, no matter what.*
 
 |  |  |
 | :-- | :-- |
-| ตัวย่อ (Acronym) | NF |
-| ประเภท (Type) | ลดความยาก (Difficulty Reduction) |
-| ปุ่มลัดเริ่มต้น (Default shortcut key) | `W` |
-| โหมดเกม (Game modes) | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| ตัวคูณคะแนน (Score multiplier) | 0.50x |
-| สถานะ (Status) | Ranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ | [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
+| Acronym | NF |
+| Type | Difficulty Reduction |
+| Default shortcut key | `W` |
+| Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| Score multiplier | 0.50x |
+| Status | Ranked |
+| Incompatible mods | [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 
 :::
 
-*สำหรับบทความนี้ในเวอร์ชัน osu!stable ดูที่: [No Fail (mod)](/wiki/Gameplay/Game_modifier/No_Fail)*\
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับบทความเวอร์ชัน osu!stable ดูที่: [No Fail (mod)](/wiki/Gameplay/Game_modifier/No_Fail)*\
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-**No Fail** mod จะช่วยป้องกันไม่ให้ผู้เล่นแพ้ใน [Beatmap](/wiki/Beatmap) ใดๆ แม้ว่า [แถบพลังชีวิต (Health bar)](/wiki/Client/Interface/Health_bar) จะลดลงจนเหลือศูนย์ หรือจะไม่มีการทำคะแนนเลยก็ตาม Mod นี้ให้ผลลัพธ์แบบเดียวกันในทุก [โหมดเกม (Game mode)](/wiki/Game_mode)
+ม็อด **No Fail** ป้องกันไม่ให้ผู้เล่น fail บน[บีตแมป](/wiki/Beatmap)ใด ๆ แม้[หลอดชีวิต](/wiki/Client/Interface/Health_bar)จะถึงศูนย์หรือไม่ได้คะแนนเลย ม็อดนี้ให้ผลเหมือนกันในทุก[โหมดเกม](/wiki/Game_mode)
 
-**Mod นี้ไม่สามารถปรับแต่งได้**
+**ม็อดนี้ปรับแต่งไม่ได้**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

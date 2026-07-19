@@ -4,10 +4,8 @@ tags:
   - sliderstart
 ---
 
-# Sliderhead
+# หัวสไลเดอร์ (Sliderhead)
 
-*Sliderheads* หรือ **sliderstarts** คือจุดเริ่มต้นของ [Slider](/wiki/Gameplay/Hit_object/Slider) ทั้งหมดที่พบได้ใน [Beatmap](/wiki/Beatmap) ของ [osu!](/wiki/Game_mode/osu!) 
+*หัวสไลเดอร์ (Sliderheads)* หรือ **sliderstarts** คือจุดเริ่มต้นของ [สไลเดอร์](/wiki/Gameplay/Hit_object/Slider) ทั้งหมดที่พบใน [บีตแมป](/wiki/Beatmap) ของ [osu!](/wiki/Game_mode/osu!) หลังจากคลิกหัวสไลเดอร์แล้ว ผู้เล่นต้องใช้เคอร์เซอร์ตาม [ตัวสไลเดอร์](/wiki/Gameplay/Hit_object/Slider/Sliderbody) ไปจนถึง [ท้ายสไลเดอร์](/wiki/Gameplay/Hit_object/Slider/Slidertail) แล้วจึงปล่อยปุ่มได้ สีของหัวสไลเดอร์ถูกกำหนดโดยสีคอมโบที่แมปเปอร์ของบีตแมปใช้
 
-เมื่อคลิกที่ Sliderhead แล้ว ผู้เล่นจะต้องลากเคอร์เซอร์ไปตาม [Sliderbody](/wiki/Gameplay/Hit_object/Slider/Sliderbody) จนกว่าจะถึง [Slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) จึงจะสามารถปล่อยปุ่มกดได้ 
-
-สีของ Sliderhead จะถูกกำหนดโดยสีคอมโบ (Combo colours) ที่เลือกใช้โดยผู้สร้างแผนที่ (Mapper) ของ Beatmap นั้นๆ
+<!-- TODO: Add links and images-->

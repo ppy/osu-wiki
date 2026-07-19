@@ -6,10 +6,10 @@ tags:
 
 # Full combo
 
-**Full combo** (หรือเรียกสั้นๆ ว่า *FC*) คือคำศัพท์ที่ใช้อธิบายการที่ผู้เล่นสามารถทำ [คอมโบ (Combo)](/wiki/Beatmapping/Combo) ได้สูงสุดเท่าที่เป็นไปได้ใน [บีทแมพ (Beatmap)](/wiki/Beatmap) นั้นๆ การทำ Full combo จะเกิดขึ้นเมื่อผู้เล่นเล่นจบแมพโดยไม่มีการกดพลาด (Miss), ไม่มี [สไลเดอร์หลุด (Sliderbreaks)](/wiki/Gameplay/Judgement/Slider_break) และเก็บ [หางสไลเดอร์ (Slider ends)](/wiki/Gameplay/Hit_object/Slider/Slidertail) ได้ครบทั้งหมด
+**Full combo** หรือเรียกสั้น ๆ ว่า *FC* คือคำที่ใช้อธิบายการที่ผู้เล่นทำ[คอมโบ](/wiki/Gameplay/Combo_(score_multiplier))สูงสุดที่เป็นไปได้บน[บีตแมป](/wiki/Beatmap) การได้ full combo นับจากการผ่านบีตแมปโดยไม่มี miss<!-- TODO: link -->, [sliderbreak](/wiki/Gameplay/Judgement/Slider_break) หรือทำ [slider end](/wiki/Gameplay/Hit_object/Slider/Slidertail) หลุด
 
-อย่างไรก็ตาม ผลคะแนนที่คอมโบหลุดเพียงเพราะการพลาดหางสไลเดอร์ (Dropped slider ends) มักถูกพิจารณาจากชุมชนผู้เล่นส่วนใหญ่ว่าเป็น Full combo เช่นกัน ซึ่งจะแตกต่างจากการแสดงผลของตัวเกมและบนเว็บไซต์ที่จะไม่ขึ้นคำว่า "Perfect" หากเก็บหางสไลเดอร์ไม่ครบ
+คะแนนที่เสียคอมโบจากการทำ slider end หลุดเท่านั้น มักถูกคอมมูนิตี้มองว่าเป็น full combo อยู่ดี ซึ่งต่างจากการแสดงผลของตัวเกมและเว็บไซต์ การเล่นที่ได้คอมโบสูงสุดที่เป็นไปได้อาจถูกเรียกว่า **perfect full combo** หรือ *PFC* เพื่อแยกคะแนนที่มีและไม่มี slider end หลุดออกจากกัน โดยไม่ควรสับสนกับแรงก์ [SS](/wiki/Gameplay/Grade)
 
-![ภาพถ่ายหน้าจอเปรียบเทียบระหว่างคะแนน Full combo และคะแนนที่คอมโบหลุด](img/combo-comparison.png "คะแนนด้านบนคือ Full combo ส่วนคะแนนด้านล่างคือคะแนนที่คอมโบหลุด")
+![Screenshot of full combo and broken combo scores](img/combo-comparison.png "The top score is a full combo, and the bottom score is a broken combo.")
 
-เนื่องจาก [คะแนน (Score)](/wiki/Gameplay/Score) ของแต่ละวัตถุในโหมด [osu!](/wiki/Game_mode/osu!) และ [osu!catch](/wiki/Game_mode/osu!catch) ขึ้นอยู่กับตัวคูณคอมโบเป็นอย่างมากและแทบจะไม่มีขีดจำกัด การทำ Full combo จึงเป็นวิธีที่ให้คะแนนรวมสูงที่สุดในโหมดการเล่นเหล่านี้
+เนื่องจาก[คะแนน](/wiki/Gameplay/Score)ของแต่ละออบเจกต์ใน [osu!](/wiki/Game_mode/osu!) และ [osu!catch](/wiki/Game_mode/osu!catch) พึ่งพา combo multiplier อย่างมากและแทบไม่มีเพดานจำกัด full combo จึงมักให้คะแนนสูงที่สุดในโหมดเหล่านี้

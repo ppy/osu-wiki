@@ -1,15 +1,15 @@
 # Overmapping
 
-ในการสร้าง Beatmap **Overmapping** คือเทคนิคการจัดวาง [Hit objects](/wiki/Gameplay/Hit_object) อย่างตั้งใจให้มีความเข้มข้นของเกมเพลย์สูงกว่าที่จังหวะเพลง (หรือส่วนอื่นๆ ของแมพ) ควรจะเป็น
+ใน beatmapping **overmapping** คือเทคนิคที่จงใจวาง [hit objects](/wiki/Gameplay/Hit_object) ให้สร้างความเข้มข้นของ gameplay สูงกว่าสิ่งที่เพลง (หรือส่วนอื่นของแมป) น่าจะต้องการ
 
-ส่วนใหญ่ทำได้โดยการวางโน้ตตามเสียงที่ไม่ได้ยินหรือไม่มีอยู่จริงในเพลง (เช่น การเพิ่มโน้ตบนขีดสีฟ้า ทั้งที่เพลงมีเสียงแค่บนขีดสีแดง) นอกจากนี้ยังสามารถทำ Overmapping ได้ด้วยการเพิ่ม [Jump (การกระโดด)](/wiki/Beatmap/Pattern/osu!/Jump) ที่มีระยะห่างมากเกินความจำเป็น หรือใช้ Slider ที่มีค่า [Slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) สูงมาก
+ส่วนใหญ่ทำโดยแมปตามเสียงที่ไม่ได้ยินหรือเสียงที่ไม่มีอยู่จริง (เช่น เพิ่มโน้ตบน blue ticks ทั้งที่เพลงมีเสียงเฉพาะบน red ticks) พบน้อยกว่านั้นคือ overmapping อาจทำได้ด้วยการเพิ่ม [jumps](/wiki/Beatmap/Pattern/osu!/Jump) ที่ไกลเกินไป หรือสไลเดอร์ที่มี [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) สูงมาก
 
 ## ตัวอย่าง
 
-![ตัวอย่าง Overmapping ด้วยความหนาแน่นของวัตถุที่สูงเกินไป](img/overmap-stream.gif "ตัวอย่าง Overmapping ด้วยความหนาแน่นของวัตถุที่สูงเกินไป")
+![ตัวอย่าง overmapping จาก object density ที่สูงเกินไป](img/overmap-stream.gif "ตัวอย่าง overmapping จาก object density ที่สูงเกินไป")
 
-![ตัวอย่าง Overmapping ด้วยระยะห่างระหว่างวัตถุที่มากเกินไป](img/overmap-jump.gif "ตัวอย่าง Overmapping ด้วยระยะห่างระหว่างวัตถุที่มากเกินไป")
+![ตัวอย่าง overmapping จาก object spacing ที่กว้างเกินไป](img/overmap-jump.gif "ตัวอย่าง overmapping จาก object spacing ที่กว้างเกินไป")
 
-![ตัวอย่าง Overmapping ด้วยความเร็ว Slider ที่สูงเกินไป](img/overmap-slider.gif "ตัวอย่าง Overmapping ด้วยความเร็ว Slider ที่สูงเกินไป")
+![ตัวอย่าง overmapping จาก slider velocity ที่สูงเกินไป](img/overmap-slider.gif "ตัวอย่าง overmapping จาก slider velocity ที่สูงเกินไป")
 
-แม้ว่าโดยทั่วไปแล้วจะไม่แนะนำให้ทำ Overmapping แต่ก็มีบางบริบทที่เทคนิคนี้เป็นที่ยอมรับได้ เช่น เมื่อจังหวะที่เพิ่มเข้ามานั้น [เข้ากับเพลงและช่วยสร้างการเน้นย้ำที่ส่งผลดีต่อคุณภาพของแมพ](https://osu.ppy.sh/community/forums/posts/7791118)
+แม้โดยทั่วไป overmapping เพียงอย่างเดียวจะไม่ถูกสนับสนุน แต่ก็มีบริบทที่เทคนิคนี้ยอมรับได้ เช่น เมื่อจังหวะที่เพิ่มเข้ามา[เข้ากับเพลงและสร้างการเน้นที่ส่งผลดีต่อคุณภาพของแมป](https://osu.ppy.sh/community/forums/posts/7791118)

@@ -7,25 +7,28 @@ tags:
   - game modifier
 ---
 
-# No Video (mod)
+<!-- TODO:
+- add score multiplier, caption, and shortcut key values -->
 
-![NV mod icon](/wiki/shared/mods/NV.png "No Video (NV) mod icon")
+# No Video (ม็อด)
 
-*สำหรับรายชื่อ Mod ทั้งหมด ดูที่: [Game Modifier](/wiki/Gameplay/Game_modifier)*
+![ไอคอนม็อด NV](/wiki/shared/mods/NV.png "ไอคอนม็อด No Video (NV)")
 
-## เกี่ยวกับ (About)
+*สำหรับรายชื่อม็อดทั้งหมด ดูที่: [Game Modifier](/wiki/Gameplay/Game_modifier)*
+
+## เกี่ยวกับ
 
 - ตัวย่อ: NV
-- ประเภท: พิเศษ (Special)
-- โหมดเกมที่รองรับ: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- ประเภท: พิเศษ
+- โหมดเกมที่ใช้ร่วมกันได้: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-## รายละเอียด (Description)
+## คำอธิบาย
 
-*หมายเหตุ: Mod นี้ไม่สามารถใช้งานได้อีกต่อไป*
+*หมายเหตุ: ม็อดนี้ไม่สามารถใช้งานได้อีกต่อไป*
 
-**No Video** mod คือ [Game modifier](/wiki/Gameplay/Game_modifier) ที่ช่วยให้ผู้เล่นสามารถปิดการแสดงผลวิดีโอพื้นหลังของ [Beatmap](/wiki/Beatmap) ได้ ซึ่งเคยถูกใช้งานเพื่อช่วยเพิ่ม Framerate และประสิทธิภาพการทำงานของตัวเกม
+ม็อด **No Video** เคยเป็น [game modifier](/wiki/Gameplay/Game_modifier) ที่เปิดให้ผู้เล่นปิดวิดีโอพื้นหลังของ [บีตแมป](/wiki/Beatmap) ได้ ใช้เพื่อช่วยเพิ่ม framerate และประสิทธิภาพของเกม
 
-ฟังก์ชันการทำงานของ Mod นี้ถูกแทนที่ด้วยตัวเลือกใน [การตั้งค่าการแสดงผล (Visual Settings)](/wiki/Client/Interface/Visual_settings) ดังนั้นไอคอนและ Mod นี้จึงไม่ได้ถูกใช้งานอีกต่อไป
+ความสามารถของม็อดนี้ถูกแทนที่ด้วยตัวเลือกใน [Visual Settings](/wiki/Client/Interface/Visual_settings) แล้ว ดังนั้นไอคอนและม็อดนี้จึงไม่ได้ถูกใช้งานอีกต่อไป
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

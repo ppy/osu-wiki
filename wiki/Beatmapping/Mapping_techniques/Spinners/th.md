@@ -2,45 +2,55 @@
 outdated: true
 ---
 
-<!-- บทความเหล่านี้ระบุว่าล้าสมัยเนื่องจากถูกสร้างขึ้นนานมากแล้ว ข้อมูลบางส่วนอาจไม่รองรับ/ผิดพลาด และอาจทำให้เกิดความเข้าใจผิดในบริบทการทำแมพสมัยใหม่ - clayton -->
+<!-- Outdated these articles because they were created a very long time ago, contain some deprecated/wrong info, and are generally misleading in context of more modern mapping -clayton -->
 
-# เทคนิคการสร้างแมพ: Spinner (Spinner mapping techniques)
+<!-- TODO: Needs to be rewritten, the article does not match with other articles (writing style, formatting).
+Also check if the article matches with ASC. See #5729 for more informations -->
 
-<!-- รายการเทคนิคเรียงตามลำดับอักษรภาษาอังกฤษ -->
+# Spinner mapping techniques
 
-## เอฟเฟกต์เพิ่มเติม (Additional Effects)
+<!-- please place all mapping techniques in alphabetical order -->
 
-### Post-Spinner Note (โน้ตหลัง Spinner)
+## Additional Effects
 
-ผู้เสนอ: [NoHItter](https://osu.ppy.sh/users/124455)
+### Post-Spinner Note
 
-**Post-spinner note** คือการวาง Hit object ทันทีหลังจากจบ Spinner ที่มีความยาวมาก โดยส่วนใหญ่มักจะวางไว้ที่ตอนจบของเพลง
+Nominator(s): [NoHItter](https://osu.ppy.sh/users/124455)
 
-### Pre-Spinner Note (โน้ตก่อน Spinner)
+**Post-spinner note** ประกอบด้วย hit object ที่อยู่หลังสปินเนอร์ยาว
+โดยปกติจะวางไว้ท้ายเพลง
 
-ผู้เสนอ: [NoHItter](https://osu.ppy.sh/users/124455)
+### Pre-Spinner Note
 
-**Pre-spinner note** คือการวาง Hit object ไว้ก่อนหน้า Spinner ทันที โดย Hit object นี้จะทำหน้าที่เป็นตัวบอก *จังหวะ* ในขณะที่ Spinner จะทำหน้าที่ลากยาวต่อจากจังหวะนั้น โดยปกติ Spinner จะเริ่มตามหลังโน้ตมาที่จังหวะ 1/2, 1/3, 1/4 หรือ 1/6 เพื่อให้เสียงไม่ดูขาดช่วงจากกัน
+Nominator(s): [NoHItter](https://osu.ppy.sh/users/124455)
 
-แมพในสมัยก่อนอาจมีการวางโน้ตนี้ซ้อนทับ (Overlap) กับตัว Spinner **อย่างไรก็ตาม การวางซ้อนทับกันแบบนั้นจะทำให้แมพของคุณไม่สามารถจัดอันดับ (Unrankable) ได้ในปัจจุบัน!**
+**Pre-spinner note** ประกอบด้วย hit object ที่วางก่อนสปินเนอร์โดยตรง
+Hit object นี้ให้ *beat* ส่วนสปินเนอร์ให้การคลี่คลายของ *beat* นั้น
+สปินเนอร์มักตามมาหลัง 1/2, 1/3, 1/4 หรือ 1/6 ของ beat เพื่อไม่ให้ฟังขาดจาก hit object
 
-## รูปแบบของ Spinner (Spinner Variation)
+แมปยุคเก่าอาจวาง hit objects เหล่านี้ซ้อนกับสปินเนอร์
+**อย่างไรก็ตาม การวางซ้อนแบบนี้จะทำให้แมปของคุณ unrankable!**
 
-### Double Spinners (Spinner คู่)
+## Spinner Variation
 
-ผู้เสนอ: [Lilac](https://osu.ppy.sh/users/58197)
+### Double Spinners
 
-**Double spinners** คือการวาง Spinner สองอันต่อกันทันที มักใช้เพื่อให้เกิดเสียง Hitsound สำหรับเริ่ม Spinner อันถัดไปโดยไม่ต้องใช้ Circle หรือ [Pre-spinner note](#pre-spinner-note-โน้ตก่อน-spinner) คั่น
+Nominator(s): [Lilac](https://osu.ppy.sh/users/58197)
 
-มีแมพที่ได้รับการจัดอันดับบางแมพที่ใช้ Spinner ต่อกันถึง 3 อันแต่พบได้น้อยมาก โดยทั่วไปเทคนิคนี้มักใช้ก่อนเข้าช่วงพัก (Break) หรือช่วงใกล้จบเพลง
+**Double spinners** ค่อนข้างอธิบายตัวเองชัดเจน
+นี่คือการวางสปินเนอร์สองตัวติดกัน โดยปกติเพื่อทำ hitsound ให้สปินเนอร์ถัดไปโดยไม่ต้องใช้ circle หรือ [pre-spinner note](#pre-spinner-note)
 
-### End Spinner (Spinner ปิดท้าย)
+มีแมป ranked ที่ใช้สปินเนอร์ 3 ตัวติดกัน แต่พบได้น้อยมาก
+การใช้เทคนิคนี้ที่พบบ่อยคือก่อน break หรือใกล้ท้ายเพลง
 
-ผู้เสนอ: *ไม่มี*
+### End Spinner
 
-**End spinner** คือการใช้ Spinner เป็น Hit object ชิ้นสุดท้ายของ Beatmap นั้นๆ
+Nominator(s):
 
-### Short Spinners (Spinner ระยะสั้น)
+**End spinner** ค่อนข้างอธิบายตัวเองชัดเจน
+นี่คือสปินเนอร์ที่เป็น hit object สุดท้ายของบีตแมป
+
+### Short Spinners
 
 *อย่าสับสนกับ [Ninja Spinners](/wiki/Beatmapping/Mapping_techniques/Unrankable#ninja-spinners)*
 

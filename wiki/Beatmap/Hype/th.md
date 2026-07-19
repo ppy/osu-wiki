@@ -7,17 +7,17 @@ tags:
 # Hype
 
 ::: Infobox
-![](img/hypetrain.png "Hype train ที่ปรากฏในหน้าข้อมูล Beatmap")
+![](img/hypetrain.png "Hype train ที่เห็นได้บนหน้า beatmap info")
 :::
 
-ในบริบทของการสร้าง Beatmap **Hype** (ไฮป์) คือหน่วยที่แสดงให้เห็นคร่าวๆ ว่ามีคนกี่คนที่สนใจอยากให้ Beatmap นั้นๆ ได้รับการ [จัดอันดับ (Ranked)](/wiki/Beatmap/Category#ranked) การมอบ Hype สามารถทำได้โดยการโพสต์ใน [หน้าการสนทนาของ Beatmap (Beatmap discussion page)](/wiki/Beatmap_discussion) พร้อมเลือกตัวเลือก `Hype!` ซึ่งจะช่วยสะสมคะแนนให้กับ **Hype train** ของ Beatmap นั้น
+ในบริบทของ beatmapping **hype** คือหน่วยที่แสดงคร่าว ๆ ว่ามีคนสนใจอยากเห็นบีตแมปนั้นถูก [ranked](/wiki/Beatmap/Category#ranked) มากแค่ไหน ผู้ใช้จะให้ hype ได้ด้วยการโพสต์ใน[หน้า discussion](/wiki/Beatmap_discussion)ของบีตแมปโดยเลือกตัวเลือก `Hype!` และ hype เหล่านี้จะนับรวมใน **hype train** ของบีตแมป
 
-เนื่องจาก Hype เป็นส่วนหนึ่งของ [ขั้นตอนการจัดอันดับ (Ranking process)](/wiki/Beatmap_ranking_procedure) จึงสามารถมอบให้กับ Beatmap ที่อยู่ในหมวด [Work in Progress หรือ Pending](/wiki/Beatmap/Category#wip-and-pending) ได้เท่านั้น
+เนื่องจาก hype เป็นส่วนหนึ่งของ[กระบวนการจัดอันดับ](/wiki/Beatmap_ranking_procedure) จึงให้ได้เฉพาะกับบีตแมปที่อยู่ใน [Work in Progress หรือ Pending](/wiki/Beatmap/Category#wip-and-pending) เท่านั้น
 
-## ข้อกำหนดในการจัดอันดับ
+## ข้อกำหนดสำหรับ ranking
 
-เพื่อให้ Beatmap มีสิทธิ์รับ [การเสนอชื่อ (Nomination)](/wiki/Beatmap_ranking_procedure#nominations) Beatmap นั้นจำเป็นต้องสะสม Hype จากผู้ใช้คนอื่นๆ อย่างน้อย **5 Hype** (หรือสะสมจนเต็มหนึ่งแถบของ Hype train) ทั้งนี้ Hype ที่เกินจาก 5 จะไม่มีผลต่อสิทธิ์การเสนอชื่อเพิ่มเติม แต่จะช่วยให้ Beatmap นั้นถูกค้นหาเจอได้ง่ายขึ้นในหน้า [รายการ Beatmap (Beatmap listing)](https://osu.ppy.sh/beatmapsets) เมื่อผู้เล่นเลือกค้นหาตาม [สถานะการเสนอชื่อ](https://osu.ppy.sh/beatmapsets?sort=nominations_desc&s=pending)
+เพื่อให้มีสิทธิ์ได้รับ [nomination](/wiki/Beatmap_ranking_procedure#nominations) บีตแมปต้องสะสมอย่างน้อย **5 hypes** (หรือหนึ่งแถบเต็มของ hype train) จากผู้ใช้คนอื่น ๆ hype ที่เกินมาจะไม่เพิ่มสิทธิ์ในการ nominate ของบีตแมปแล้ว แต่ยังช่วยให้บีตแมปมองเห็นได้มากขึ้นใน [beatmap listing](https://osu.ppy.sh/beatmapsets) เมื่อค้นหาบีตแมปตาม[สถานะ nomination](https://osu.ppy.sh/beatmapsets?sort=nominations_desc&s=pending)
 
-## ขีดจำกัด
+## ลิมิต
 
-ผู้ใช้จะเริ่มด้วยจำนวน 10 Hype และจะถูกหักออกเมื่อนำไปใช้กับ Beatmap โดยแต่ละ Hype จะต้องใช้เวลา 1 สัปดาห์จึงจะกลับมาให้ใช้งานได้อีกครั้ง
+ผู้ใช้เริ่มต้นด้วย 10 hypes และจะถูกใช้ไปเมื่อให้กับบีตแมป แต่ละ hype ใช้เวลาหนึ่งสัปดาห์จึงจะกลับมาใช้ได้อีกครั้ง

@@ -6,8 +6,8 @@ tags:
 
 # Drain time
 
-**Drain time** คือระยะเวลาทั้งหมดที่ผู้เล่นต้องมีส่วนร่วมกับการเล่นภายใน [Beatmap](/wiki/Beatmap) โดยเริ่มนับตั้งแต่ [Hit object](/wiki/Gameplay/Hit_object) ชิ้นแรก ไปจนถึงสิ้นสุดการทำงานของ Hit object ชิ้นสุดท้าย และไม่นับรวม [ช่วงพัก (Breaks)](/wiki/Beatmap/Break) คำว่า *drain* มีที่มาจากระบบ [การลดลงของพลังชีวิต (Health drain)](/wiki/Gameplay/Health) ในโหมด [osu!](/wiki/Game_mode/osu!) และ [osu!catch](/wiki/Game_mode/osu!catch) ซึ่งพลังชีวิตของผู้เล่นจะลดลงอย่างต่อเนื่องในขณะเล่น
+**Drain time** หมายถึงระยะเวลารวมของ[บีตแมป](/wiki/Beatmap)ที่ผู้เล่นต้องมีการเล่นจริง เริ่มตั้งแต่ [hit object](/wiki/Gameplay/Hit_object) ตัวแรก จบที่ท้าย hit object ตัวสุดท้าย และไม่นับ[ช่วงพัก](/wiki/Beatmap/Break) คำว่า *drain* มาจากระบบ [health drain](/wiki/Gameplay/Health) ของ [osu!](/wiki/Game_mode/osu!) และ [osu!catch](/wiki/Game_mode/osu!catch) ซึ่งพลังชีวิตของผู้เล่นจะลดลงอย่างต่อเนื่องระหว่างเล่นแมป
 
-Beatmap ที่มี Drain time ยาวมากมักจะถูกเรียกว่า *[Marathons](/wiki/Beatmap/Marathon)* เนื่องจากการที่จะเล่นจนจบได้นั้นจำเป็นต้องใช้ความอดทนมากกว่าปกติ
+บีตแมปที่มี drain time ยาวมากมักถูกเรียกว่า *[marathon](/wiki/Beatmap/Marathon)* เพราะต้องใช้ความอึดมากกว่าปกติในการเล่นให้จบ
 
-ใน [หน้าข้อมูล Beatmap (Beatmap info page)](/wiki/Beatmap_information) บนเว็บไซต์ ระบบจะคำนวณ Drain time (ที่ระบุว่า `Drain length`) โดยอ้างอิงจาก "เวลาเริ่มต้น" ของแต่ละ Hit object เท่านั้น ดังนั้นหากวัตถุชิ้นสุดท้ายของแมพเป็น [Slider](/wiki/Gameplay/Hit_object/Slider) หรือ [Spinner](/wiki/Gameplay/Hit_object/Spinner) ค่า Drain time ที่แสดงบนเว็บไซต์อาจจะคลาดเคลื่อนจากความเป็นจริง
+[หน้าข้อมูลบีตแมป](/wiki/Beatmap_information)บนเว็บไซต์จะคำนวณ drain time หรือที่แสดงเป็น `Drain length` จากเวลาเริ่มต้นของ hit object เท่านั้น ดังนั้นหากออบเจกต์สุดท้ายของแมปเป็น[สไลเดอร์](/wiki/Gameplay/Hit_object/Slider)หรือ[สปินเนอร์](/wiki/Gameplay/Hit_object/Spinner) drain time จะแสดงไม่ถูกต้อง

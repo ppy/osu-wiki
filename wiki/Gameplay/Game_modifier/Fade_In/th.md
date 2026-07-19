@@ -8,35 +8,35 @@ tags:
   - game modifier
 ---
 
-# Fade In (Mod)
+# Fade In (mod)
 
-![ไอคอน Mod FI](/wiki/shared/mods/FI.png "Fade In (FI) mod icon")
+![FI mod icon](/wiki/shared/mods/FI.png "Fade In (FI) mod icon")
 
 *สำหรับบทความเวอร์ชัน [lazer](/wiki/Client/Release_stream/Lazer) ดูที่: [Fade In (lazer mod)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer))*\
-*สำหรับรายการ Mod ทั้งหมด ดูที่: [ตัวปรับแต่งเกม (Game modifier)](/wiki/Gameplay/Game_modifier)*\
-*อย่าสับสนกับ [Mod Hidden](/wiki/Gameplay/Game_modifier/Hidden) หรือ [Mod Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)*
+*สำหรับรายชื่อม็อดทั้งหมด ดูที่: [Game Modifiers](/wiki/Gameplay/Game_modifier)*\
+*อย่าสับสนกับ [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden) หรือ [Flashlight (mod)](/wiki/Gameplay/Game_modifier/Flashlight)*
 
-## ข้อมูลทั่วไป
+## เกี่ยวกับ
 
 - ตัวย่อ: FI
-- ประเภท: เพิ่มความยาก (Difficulty Increasing)
-- ตัวคูณคะแนน: 1.00x
-- ปุ่มลัดพื้นฐาน: `F`
-- โหมดที่รองรับ: ![][osu!mania]
-- รูปแบบแยกย่อย: [Hidden](/wiki/Gameplay/Game_modifier/Hidden)
+- ประเภท: Difficulty Increasing
+- Score Multiplier: 1.00x
+- คีย์ลัดเริ่มต้น: `F`
+- โหมดเกมที่รองรับ: ![][osu!mania]
+- Variant: [Hidden](/wiki/Gameplay/Game_modifier/Hidden)
 
-## รายละเอียด
+## คำอธิบาย
 
-**Fade In** เป็น [ตัวปรับแต่งเกม](/wiki/Gameplay/Game_modifier) สำหรับโหมด [osu!mania](/wiki/Game_mode/osu!mania) ที่ช่วยเพิ่มความยากของ [บีทแมพ (Beatmap)](/wiki/Beatmap) โดยการทำให้โน้ตหายไปและค่อยๆ ปรากฏขึ้น (Fade in) เมื่อเคลื่อนที่เข้าหาเส้นตัดสิน (Judgement bar) ตามชื่อของมัน
+ม็อด **Fade In** เป็น[ม็อด](/wiki/Gameplay/Game_modifier)สำหรับ [osu!mania](/wiki/Game_mode/osu!mania) ที่เพิ่มความยากของ[บีตแมป](/wiki/Beatmap)ด้วยการทำให้โน้ตหายไปก่อน แล้วค่อย ๆ fade in เมื่อเข้าใกล้แถบ [judgement](/wiki/Gameplay/Judgement) จึงเป็นที่มาของชื่อ
 
-ความเร็วที่โน้ตจะปรากฏขึ้นนั้นขึ้นอยู่กับจำนวนคอมโบ โดยยิ่งคอมโบสูงขึ้น โน้ตจะยิ่งปรากฏช้าลงและจางหายไปนานขึ้น พูดง่ายๆ คือผู้เล่นต้องใช้ทักษะการจำมากขึ้นเมื่อทำคอมโบได้สูงขึ้นเรื่อยๆ
+ความเร็วที่โน้ต fade in จะอิงตามคอมโบ ยิ่งคอมโบสูง โน้ตยิ่ง fade in ช้าลงและล่องหนนานขึ้น กล่าวคือ ยิ่งผู้เล่นเพิ่มคอมโบได้สูง โน้ตก็จะยิ่งปรากฏช้าลงเรื่อย ๆ
 
-พื้นที่การจางหายจะหยุดขยายเมื่อทำคอมโบถึงจุดแจ้งเตือนที่ 500x (ซึ่งจะครอบคลุมพื้นที่ประมาณ 70% ของสนามเล่น) หากคอมโบหลุด ณ จุดใดก็ตาม พื้นที่การจางหายจะกลับไปเริ่มต้นใหม่ที่ขนาดของคอมโบ 0x (ซึ่งครอบคลุมพื้นที่ประมาณ 20% ของสนามเล่น)
+ขนาดของพื้นที่ fade จะหยุดเพิ่มเมื่อถึง combo milestone 500x ซึ่งตอนนั้นจะครอบคลุมประมาณ 70% ของเพลย์ฟีลด์ หากคอมโบขาดเมื่อใดก็ตาม ขนาดของพื้นที่ fade จะกลับไปเป็นขนาดของคอมโบ 0x ซึ่งครอบคลุมประมาณ 20% ของเพลย์ฟีลด์
 
-![เปรียบเทียบเกมเพลย์ FI](img/FI-combo-comparison-mania.jpg "การแสดงผล Mod Fade In ที่คอมโบ 89x (บนซ้าย), 332x (บนกลาง), 513x (บนขวา/ล่างซ้าย) และ 900x (ล่างขวา) ในโหมด osu!mania")
+![FI gameplay comparisons](img/FI-combo-comparison-mania.jpg "Gameplay with the Fade In mod at 89x combo (top-left), at 332x combo (top-middle), at 513x combo (top-right/bottom-left), and at 900x combo (bottom-right) in osu!mania")
 
-## เกร็ดน่ารู้ (Trivia)
+## เกร็ดน่ารู้
 
-- หากผู้เล่นเล่นผ่านบีทแมพด้วยเกรด S หรือ SS ในขณะที่เปิด Mod Fade In จะได้รับเกรดเวอร์ชันสีเงิน (SH หรือ SSH) แทน
+- หากผ่านบีตแมปด้วย grade S หรือ SS ขณะเปิดม็อด Fade In บีตแมปนั้นจะให้ grade เวอร์ชันสีเงินแทน
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

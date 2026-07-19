@@ -7,11 +7,11 @@ tags:
 
 # Beat snapping
 
-**Beat snapping** (หรือเรียกสั้นๆ ว่า ***Snapping***) คือการกำหนดตำแหน่งของ [Hit object](/wiki/Gameplay/Hit_object) บน [ไทม์ไลน์ (Timeline)](/wiki/Client/Beatmap_editor/Timelines#hit-objects) ใน [ตัวแก้ไข Beatmap (Beatmap editor)](/wiki/Client/Beatmap_editor) การเปลี่ยนค่า [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) จะช่วยให้คุณสามารถวาง Hit object ลงในตำแหน่งขีดแบ่งจังหวะต่างๆ บนไทม์ไลน์ได้แม่นยำยิ่งขึ้น
+**Beat snapping** (มักเรียกสั้น ๆ ว่า *snapping*) หมายถึงตำแหน่งของ [hit object](/wiki/Gameplay/Hit_object) บน[ไทม์ไลน์ hit object](/wiki/Client/Beatmap_editor/Timelines#hit-objects) ใน [beatmap editor](/wiki/Client/Beatmap_editor) การเปลี่ยน [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) ทำให้ hit objects ยึดกับ ticks แบบต่าง ๆ ได้เมื่อย้ายตำแหน่งในไทม์ไลน์
 
-แนวคิดเรื่อง Snapping อ้างอิงตามหลักการสากลของ [Musical quantisation](https://en.wikipedia.org/wiki/Quantization_(music)) และโครงสร้างดนตรี ซึ่งระบุว่าโน้ตในเพลงส่วนใหญ่มักจะมีตำแหน่งที่คาดการณ์ได้ โดยอิงตามสัดส่วนความยาวของ [หนึ่งจังหวะ (Single beat)](/wiki/Music_theory/Beat) การใช้การแบ่งจังหวะที่เหมาะสม (ซึ่งอาจแตกต่างกันไปในแต่ละช่วงของเพลง) จะช่วยให้ Mapper สามารถวาง Hit object ให้ตรงกับเสียงโน้ตในเพลงได้อย่างถูกต้อง
+แนวคิดของ snapping อิงจากหลักทั่วไปของ [musical quantisation](https://en.wikipedia.org/wiki/Quantization_(music)) และโครงสร้างเพลง ตามหลักเหล่านี้ โน้ตในเพลงส่วนใหญ่จะมีตำแหน่งที่คาดเดาได้ โดยอิงจากความยาวเป็นเศษส่วนของ [beat เดียว](/wiki/Music_theory/Beat) เมื่อใช้การแบ่ง beat ที่เหมาะสม ซึ่งอาจเปลี่ยนไปตลอดเพลง แมปเปอร์จะจัด hit objects ให้ตรงกับโน้ตของชิ้นดนตรี
 
-แม้ว่าตัวแก้ไข Beatmap จะรองรับสัดส่วนการแบ่งจังหวะที่พบบ่อยในดนตรีเกือบทั้งหมด แต่ก็อาจมีเพลงจำนวนน้อยมากที่ใช้รูปแบบจังหวะที่แปลกประหลาด ในกรณีเช่นนี้ Mapper จะต้องคำนวณระยะห่างเพื่อวาง Hit object ด้วยตนเอง[^unsupported-bsd]
+แม้ beatmap editor จะรองรับการแบ่ง beat ที่พบได้บ่อยที่สุดในดนตรี แต่มีเพลงจำนวนน้อยมากที่อาจใช้รูปแบบ beat ที่พบไม่บ่อย ในกรณีเช่นนี้ แมปเปอร์ควรคำนวณช่วงเวลาสำหรับการวาง hit object ด้วยตัวเอง[^unsupported-bsd]
 
 ## หมายเหตุ
 

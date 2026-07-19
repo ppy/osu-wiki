@@ -6,8 +6,8 @@ tags:
 
 # Background
 
-*สำหรับกฎระเบียบเกี่ยวกับภาพพื้นหลัง โปรดดู: [เกณฑ์การพิจารณา (Ranking Criteria)](/wiki/Ranking_criteria)*
+*สำหรับกฎเกี่ยวกับภาพพื้นหลัง ดู: [Ranking Criteria](/wiki/Ranking_criteria)*
 
-ภาพและวิดีโอ **พื้นหลัง (Background)** (***BG***) สามารถเพิ่มลงใน [Beatmap](/wiki/Beatmap) ได้ เมื่อมีการเขียนเพียงคำว่า "background" หรือ "bg" มักจะสื่อถึงภาพพื้นหลัง
+สามารถเพิ่มรูปภาพและวิดีโอ **background** (***BG***) ลงใน[บีตแมป](/wiki/Beatmap)ได้ ถ้าเขียนแค่ "background" หรือ "bg" โดยทั่วไปจะหมายถึงรูปภาพพื้นหลัง
 
-ภาพพื้นหลังจะแสดงบนการ์ดของ Beatmap, ใน [หน้าเลือกเพลง (Song selection)](/wiki/Client/Interface#song-select) และระหว่างการเล่นเกม หากระดับความยากต่างๆ ใน Beatmap ชุดเดียวกันมีภาพพื้นหลังที่ต่างกัน ระบบจะเลือกภาพจากความยากที่มีค่า [`BeatmapID`](/wiki/Beatmap#identification) ต่ำที่สุดมาแสดงบนการ์ด Beatmap และบนไอคอนใน [รายการเลือก Beatmap (Beatmap carousel)](/wiki/Client/Interface#beatmap-carousel)
+พื้นหลังจะแสดงบนการ์ดบีตแมป, ใน[หน้าจอเลือกเพลง](/wiki/Client/Interface#song-select), และระหว่างเล่นเกม หากแต่ละระดับความยากในบีตแมปเดียวกันใช้พื้นหลังต่างกัน ระบบจะเลือกพื้นหลังของระดับความยากที่มี [`BeatmapID`](/wiki/Beatmap#identification) ต่ำที่สุดไปแสดงบนการ์ดบีตแมปและไอคอนใน[บีตแมปคารูเซล](/wiki/Client/Interface#beatmap-carousel)

@@ -2,10 +2,10 @@
 stub: true
 ---
 
-# Anchor (สมอเรือ)
+# Anchor
 
-**Anchors** (แองเคอร์) มักจะหมายถึงผลพลอยได้จากรูปแบบ [สตรีม (Streams)](/wiki/Beatmap/Pattern/osu!mania/Stream) หรือบางครั้งก็พบใน [Chordjacks](/wiki/Beatmap/Pattern/osu!mania/Jack#chordjack) โดยเป็นลักษณะที่มีโน้ตจำนวนมากในแถวเดิมปรากฏขึ้นติดต่อกันในช่วงจังหวะ (Snap interval) ที่สม่ำเสมอ ซึ่งปกติจะเป็นจังหวะ 1/2 ที่มาของชื่อ *Anchor* (สมอเรือ) มาจากลักษณะการเคลื่อนไหวของมือที่รูปแบบนี้สร้างขึ้น ซึ่งนิ้วมือจะถูกยึดติดอยู่กับปุ่มใดปุ่มหนึ่งโดยเฉพาะ เนื่องจากการกดที่ต่อเนื่องและเป็นจังหวะที่สม่ำเสมอนั่นเอง
+**Anchors** ซึ่งมักหมายถึงผลพลอยได้จาก [streams](/wiki/Beatmap/Pattern/osu!mania/Stream) หรือบางครั้งจาก [chordjacks](/wiki/Beatmap/Pattern/osu!mania/Jack#chordjack) คือโน้ตจำนวนมากในคอลัมน์เดียวที่ปรากฏต่อเนื่องในช่วง snap interval เดียวกัน โดยทั่วไปคือ 1/2 ชื่อ *anchor* มาจากการเคลื่อนไหวของมือที่ pattern นี้สร้างขึ้น ซึ่งนิ้วเหมือนถูกยึดไว้กับปุ่มใดปุ่มหนึ่งจากการกดต่อเนื่องเป็นช่วง ๆ
 
-![](img/anchor-within-jumpstreams.png "Anchor ภายในรูปแบบ Jumpstream ที่แสดงด้วยสีฟ้า")
+![](img/anchor-within-jumpstreams.png "Anchor within jumpstreams, highlighted in blue.")
 
-![](img/anchor-within-chordjacks.png "Anchor ภายในรูปแบบ Chordjack ที่แสดงด้วยสีฟ้า")
+![](img/anchor-within-chordjacks.png "Anchor within chordjacks, highlighted in blue.")

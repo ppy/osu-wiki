@@ -4,27 +4,31 @@ tags:
   - HO
 ---
 
-# Hold Off (mod)
+# Hold Off (ม็อด)
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Hold Off
 
-![Hold Off mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HO.png)
+![ไอคอนม็อด Hold Off](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HO.png)
 
-*เปลี่ยน Hold note ทั้งหมดให้กลายเป็น Note ปกติ*
+*แทนที่โน้ตยาวทั้งหมดด้วยโน้ตปกติ*
 
 |  |  |
 | :-- | :-- |
 | ตัวย่อ (Acronym) | HO |
-| ประเภท (Type) | การแปลง (Conversion) |
+| ประเภท (Type) | แปลงรูปแบบการเล่น (Conversion) |
 | โหมดเกม (Game modes) | ![][osu!mania] |
 | ตัวคูณคะแนน (Score multiplier) | 0.90x |
 | สถานะ (Status) | Unranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ | [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release), [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert) |
+| ม็อดที่ใช้ร่วมกันไม่ได้ | [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release), [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert) |
 
 :::
 
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+<!-- TODO description and settings -->
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

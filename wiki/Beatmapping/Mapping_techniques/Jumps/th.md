@@ -2,36 +2,39 @@
 outdated: true
 ---
 
-<!-- บทความเหล่านี้ระบุว่าล้าสมัยเนื่องจากถูกสร้างขึ้นนานมากแล้ว ข้อมูลบางส่วนอาจไม่รองรับ/ผิดพลาด และอาจทำให้เกิดความเข้าใจผิดในบริบทการทำแมพสมัยใหม่ - clayton -->
+<!-- Outdated these articles because they were created a very long time ago, contain some deprecated/wrong info, and are generally misleading in context of more modern mapping -clayton -->
 
-# เทคนิคการสร้างแมพ: Jump (Jump mapping techniques)
+<!-- TODO: Needs to be rewritten, the article does not match with other articles (writing style, formatting).
+Also check if the article matches with ASC. See #5729 for more informations -->
 
-*ดู [เทคนิคการสร้างแมพ/พื้นฐาน](/wiki/Beatmapping/Mapping_techniques/Basics#jump-(การกระโดด)) สำหรับคำอธิบายเกี่ยวกับ Jump*
+# Jump mapping techniques
 
-<!-- รายการเทคนิคเรียงตามลำดับอักษรภาษาอังกฤษ -->
+*ดูคำอธิบายเกี่ยวกับ jumps ได้ที่ [Mapping techniques/Basics](/wiki/Beatmapping/Mapping_techniques/Basics#jumps)*
 
-## Hit Circle (วงกลม)
+<!-- please place all mapping techniques in alphabetical order -->
+
+## Hit Circle
 
 ### Anti-Jumps
 
-ผู้เสนอ: [Seibei4211](https://osu.ppy.sh/users/31537)
+Nominator: [Seibei4211](https://osu.ppy.sh/users/31537)
 
-**Anti-Jumps** ประกอบด้วยชุดของ Hit objects ที่วางตามปกติ ตามด้วยสตรีมของโน้ตที่มีระยะห่างลดลงครึ่งหนึ่ง (วางชิดกันมากขึ้น) เมื่อเทียบกับชุดคอมโบก่อนหน้า
-ส่วนนี้อาจแยกเป็นชุดคอมโบใหม่ก็ได้
+**Anti-Jumps** ประกอบด้วยชุด hit objects ที่วางแบบปกติ ตามด้วย stream ของโน้ตที่มีระยะห่างครึ่งหนึ่ง (วางใกล้กว่า) เมื่อเทียบกับ comboset ก่อนหน้า
+ส่วนนี้อาจเป็น comboset แยกก็ได้
 
 ### Anti-SeibeiStyle-Jumps
 
-ผู้เสนอ: [Seibei4211](https://osu.ppy.sh/users/31537)
+Nominator: [Seibei4211](https://osu.ppy.sh/users/31537)
 
-**Anti-SeibeiStyle-Jumps** ประกอบด้วยสตรีมของโน้ตที่มีการวางระยะห่างบนหน้าจอเท่าเดิม แต่จังหวะบนไทม์ไลน์จะห่างกันมากกว่าโน้ตตัวอื่นๆ ในคอมโบเดียวกัน
+**Anti-SeibeiStyle-Jumps** ประกอบด้วย beat stream ที่มีบาง beats ใช้ระยะห่างเท่ากัน แต่ถูกวางห่างกว่า beats อื่นในคอมโบเดียวกันบนไทม์ไลน์
 
-พื้นฐานคือ Hit objects จะถูกวางให้ดูเหมือนว่ามีจังหวะที่คงที่เมื่อมองทางสายตา แต่ในเชิงของเวลาบนไทม์ไลน์ พวกมันถูกวางห่างกันมากกว่าปกติ
+พูดง่าย ๆ คือ hit objects ถูกวางให้ดูเหมือนมี beat คงที่ แต่เมื่อดูตามไทม์ไลน์แล้วจะเว้นห่างกันมากกว่านิดหน่อย
 
 ### Centre Anti-Jumps
 
-ผู้เสนอ: [NoHitter](https://osu.ppy.sh/users/124455)
+Nominator: [NoHitter](https://osu.ppy.sh/users/124455)
 
-**Centre anti-jumps** มีการวางโน้ตหรือ Slider ไว้ที่จุดกึ่งกลาง ในขณะที่ Hit objects อื่นๆ วางกระจายออกไปแต่มีระยะห่างบนไทม์ไลน์เท่ากัน เป็นรูปแบบหนึ่งของ [Anti-jump](#anti-jumps)
+**Centre anti-jumps** มีโน้ตหรือสไลเดอร์วางไว้ตรงกลาง ขณะที่ hit objects อื่นเว้นระยะเท่ากันบนไทม์ไลน์ในรูปแบบหนึ่งของ [anti-jump](#anti-jumps)
 
 ### Large Jumps
 
@@ -39,29 +42,31 @@ outdated: true
 
 ### Oibon Jumps
 
-ผู้เสนอ: [Zekira](https://osu.ppy.sh/users/36749)
+Nominator: [Zekira](https://osu.ppy.sh/users/36749)
 
-**Oibon jumps** คือการกระโดดจากฝั่งซ้ายของหน้าจอไปยังฝั่งขวา (หรือในทางกลับกัน)
+**Oibon jumps** คือ jumps จากฝั่งซ้ายของหน้าจอไปฝั่งขวา (หรือกลับกัน)
 
-## Slider (สไลเดอร์)
+## Slider
 
 ### B&F Sliderbased Jumps
 
-ผู้เสนอ: [Blue Dragon](https://osu.ppy.sh/users/19048)
+Nominator: [Blue Dragon](https://osu.ppy.sh/users/19048)
 
-**B&F sliderbased jumps** ประกอบด้วยการสร้าง Jump แบบ [ไปมา (Back and forth)](/wiki/Beatmapping/Mapping_techniques/Rhythm#back-and-forth-beats) (หรือรูปสามเหลี่ยม) โดยใช้ Slider เป็นฐานในการกำหนดทิศทางของการกระโดด
+**B&F sliderbased jumps** ประกอบด้วยการทำ jump แบบ [back and forth](/wiki/Beatmapping/Mapping_techniques/Rhythm#back-and-forth-beats) (หรือสามเหลี่ยม) โดยใช้สไลเดอร์เป็นฐานของ jump
 
 ### Endpoint Slider Jumps
 
-ผู้เสนอ: [Lybydose](https://osu.ppy.sh/users/64501)
+Nominator: [Lybydose](https://osu.ppy.sh/users/64501)
 
-**Endpoint slider jumps** ใช้ Slider สองอันและ Hit circle หนึ่งอัน
-เริ่มจากวาง Slider ตัวแรก ตามด้วย Hit circle และปิดท้ายด้วย Slider อีกอันที่เป็นการคัดลอกและกลับด้านในแนวนอนจาก Slider ตัวแรก
+**Endpoint slider jumps** ใช้สไลเดอร์สองตัวและฮิตเซอร์เคิลหนึ่งตัว
+โดยแมปสไลเดอร์หนึ่งตัว ตามด้วยฮิตเซอร์เคิล แล้วตามด้วยสำเนาของสไลเดอร์ที่ flip แนวนอน
 
 ### Orbital Sliders
 
-ผู้เสนอ: [Card N'FoRcE](https://osu.ppy.sh/users/3936)
+Nominator: [Card N'FoRcE](https://osu.ppy.sh/users/3936)
 
-**Orbital sliders** ใช้ Slider สองอันที่วางสะท้อนกันโดยมีโน้ตวางไว้ตรงกลาง
+**Orbital sliders** ใช้สไลเดอร์ที่ mirror กัน โดยมีโน้ตอยู่ตรงกลาง
 
-โดยปกติจะใช้ Slider ความยาวหนึ่งจังหวะ ตามด้วย Hit circle ที่วางห่างออกไปหนึ่งจังหวะ และปิดท้ายด้วย Slider ความยาวหนึ่งจังหวะอีกอันหนึ่ง
+โดยปกติจะใช้สไลเดอร์ยาวหนึ่ง beat
+จากนั้นตามด้วยฮิตเซอร์เคิลที่มีความยาวครึ่ง beat ของสไลเดอร์แรก หลังผ่านไปหนึ่ง beat
+แล้วตามด้วยสไลเดอร์ยาวหนึ่ง beat อีกตัวที่มีความยาวครึ่ง beat ของ hitcircle

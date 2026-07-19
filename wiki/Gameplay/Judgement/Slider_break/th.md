@@ -9,12 +9,12 @@ tags:
   - SB
 ---
 
-# Slider break (สไลเดอร์หลุด)
+# Slider break
 
-**Slider break** (สไลเดอร์เบรก) หรือที่บางครั้งเรียกย่อว่า **SB** (อย่าจำสลับกับ [Storyboard](/wiki/Storyboard)) คือเหตุการณ์ที่ผู้เล่นทำ [คอมโบ (Combo)](/wiki/Gameplay/Combo_(score_multiplier)) หลุดจากการเล่น [สไลเดอร์ (Slider)](/wiki/Gameplay/Hit_object/Slider) ไม่สมบูรณ์ ซึ่งจะเกิดขึ้นเมื่อผู้เล่นเก็บ [หัวสไลเดอร์ (Slider head)](/wiki/Gameplay/Hit_object/Slider/Sliderhead) พลาด หรือเก็บ [จุดจังหวะ (Slider ticks)](/wiki/Gameplay/Hit_object/Slider/Slider_tick) ตัวใดตัวหนึ่งภายในสไลเดอร์พลาด
+**Slider break** หรือบางครั้งย่อว่า *SB* คือการทำ[คอมโบ](/wiki/Gameplay/Combo_(score_multiplier))ขาดจากการเล่น[สไลเดอร์](/wiki/Gameplay/Hit_object/Slider)ไม่ครบถ้วน เกิดขึ้นเมื่อพลาด[หัวสไลเดอร์](/wiki/Gameplay/Hit_object/Slider/Sliderhead)หรือ [tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick) ใด ๆ ของสไลเดอร์
 
-อย่างไรก็ตาม การพลาดเก็บ [หางสไลเดอร์ (Slider tail)](/wiki/Gameplay/Hit_object/Slider/Slidertail) หรือการปล่อยปุ่มในระหว่างที่ลูกบอลสไลเดอร์กำลังวิ่งผ่านส่วนของ [ตัวสไลเดอร์ (Slider body)](/wiki/Gameplay/Hit_object/Slider/Sliderbody) ที่ไม่มีจุดจังหวะอยู่ จะ **ไม่** ทำให้เกิด Slider break คุณสมบัติด้านความผ่อนปรนของสไลเดอร์นี้ถูกนำมาใช้ในแมพประเภท "2B" ซึ่งประกอบด้วยการวางสไลเดอร์และวงกลมทับซ้อนกัน
+Slider break จะไม่เกิดขึ้นหากผู้เล่นข้าม[หางสไลเดอร์](/wiki/Gameplay/Hit_object/Slider/Slidertail) หรือปล่อยปุ่มที่กำลังกดอยู่บนส่วนหนึ่งของ[ตัวสไลเดอร์](/wiki/Gameplay/Hit_object/Slider/Sliderbody)ที่ไม่มี slider tick คุณสมบัติความผ่อนปรนของสไลเดอร์ในกรณีหลังถูกนำไปใช้ในแมป 2B<!-- TODO(TicClick): when the article is added, link it here --> ซึ่งมีสไลเดอร์และ[วงกลม](/wiki/Gameplay/Hit_object/Hit_circle)พร้อมกัน
 
-## เกมเพลย์ (Gameplay)
+## เกมเพลย์
 
-ตามคำนิยามแล้ว Slider break จะทำให้คอมโบหลุด แต่แทนที่ผู้เล่นจะได้รับผลการตัดสินเป็น MISS ผู้เล่นจะได้รับผลการตัดสินเป็น [GOOD (100)](/wiki/Gameplay/Judgement/osu!) แทน ด้วยเหตุนี้ ผู้เล่นจึงยังคงมีโอกาสได้รับ [เกรด (Grade)](/wiki/Gameplay/Grade) S หรือ S สีเงินได้อยู่ ตราบใดที่ยังทำตามเงื่อนไขด้าน [ความแม่นยำ (Accuracy)](/wiki/Gameplay/Accuracy) อื่นๆ ได้ครบถ้วน
+ตามนิยามแล้ว slider break ทำให้คอมโบขาด แต่แทนที่จะได้ miss ผู้เล่นจะได้รับ [GOOD](/wiki/Gameplay/Judgement/osu!) ดังนั้นจึงยังเป็นไปได้ที่จะได้ [grade](/wiki/Gameplay/Grade) S หรือ silver S ในการเล่นหนึ่งครั้ง หากเงื่อนไข[ความแม่นยำ](/wiki/Gameplay/Accuracy)อื่น ๆ ครบถ้วน

@@ -8,10 +8,10 @@ tags:
 
 # Break
 
-**Breaks** หรือ **ช่วงพัก** คือส่วนของ [Beatmap](/wiki/Beatmap) ที่ไม่มี [Hit objects](/wiki/Gameplay/Hit_object) วางอยู่ ในช่วงเวลานี้ การลดลงของ [พลังชีวิต (Health drain)](/wiki/Gameplay/Health) จะหยุดลงชั่วคราว ช่วงพักมักจะช่วยให้ผู้เล่นได้พักแขนในระยะเวลาสั้นๆ และปรับตำแหน่งของ [อุปกรณ์ควบคุม (Input device)](/wiki/Gameplay/Input_device) ใหม่
+**Break** คือช่วงของ[บีตแมป](/wiki/Beatmap)ที่ไม่มี [hit object](/wiki/Gameplay/Hit_object) ระหว่างช่วงนี้ [health drain](/wiki/Gameplay/Health) จะหยุดชั่วคราว Break มักให้ผู้เล่นได้พักแขนสั้น ๆ และจัดตำแหน่ง[อุปกรณ์อินพุต](/wiki/Gameplay/Input_device)ใหม่
 
-ในทุกโหมดเกมยกเว้น osu!mania หากมีเวลาพักนานพอ ระบบจะแสดงกราฟิกและเสียงแจ้งเตือนสถานะการเล่นว่ากำลังไปได้สวย (Pass) หรือกำลังจะแย่ (Fail) พร้อมกับแสดง [เกรด (Grade)](/wiki/Gameplay/Grade) ปัจจุบันที่มุมขวาบนของหน้าจอ นอกจากนี้ ช่วงพักจะทำให้เกิดแถบสีดำ (Letterboxes) บนภาพพื้นหลัง หากมีการเปิดใช้งาน [การตั้งค่า Beatmap](/wiki/Client/Beatmap_editor/Song_setup) ที่เกี่ยวข้องไว้
+ในทุกโหมดเกมยกเว้น osu!mania หากมีเวลาพอระหว่าง break อาจมีกราฟิกและเสียงบอกว่าผู้เล่นกำลังผ่านหรือกำลัง fail พร้อมกับ [grade](/wiki/Gameplay/Grade) ปัจจุบันที่มุมขวาบนของหน้าจอ นอกจากนี้ break ยัง trigger letterbox บนพื้นหลังหากเปิด[การตั้งค่าบีตแมป](/wiki/Client/Beatmap_editor/Song_setup)ที่เกี่ยวข้องไว้
 
-![ภาพหน้าจอแสดงช่วงพักเมื่อเล่นได้ดี](img/section-pass.jpg "Section pass")
+![A screenshot of a break section pass](img/section-pass.jpg "Section pass")
 
-![ภาพหน้าจอแสดงช่วงพักเมื่อเล่นได้ไม่ดี](img/section-fail.jpg "Section fail")
+![A screenshot of a break section fail](img/section-fail.jpg "Section fail")

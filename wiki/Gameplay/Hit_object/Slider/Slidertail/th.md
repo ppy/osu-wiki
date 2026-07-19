@@ -4,10 +4,8 @@ tags:
   - sliderend
 ---
 
-# Slidertail
+# ท้ายสไลเดอร์ (Slidertail)
 
-*Slidertail* หรือ **sliderend** หมายถึงส่วนท้ายของ [Slider](/wiki/Gameplay/Hit_object/Slider) ซึ่งเป็นจุดที่ผู้เล่นสามารถปล่อยปุ่มที่กดค้างไว้ได้หลังจากที่ลากเคอร์เซอร์ตาม [Sliderbody](/wiki/Gameplay/Hit_object/Slider/Sliderbody) มาจนสุดทาง 
+*ท้ายสไลเดอร์ (Slidertail)* หรือ **sliderend** หมายถึงส่วนท้ายของ [สไลเดอร์](/wiki/Gameplay/Hit_object/Slider) ซึ่งเป็นจุดที่ผู้เล่นสามารถปล่อยปุ่มที่กดค้างไว้ได้หลังจากตาม [ตัวสไลเดอร์](/wiki/Gameplay/Hit_object/Slider/Sliderbody) มาจนถึงจุดนี้ ท้ายสไลเดอร์พบได้เฉพาะใน [บีตแมป](/wiki/Beatmap) ของ [osu!](/wiki/Game_mode/osu!) ท้ายสไลเดอร์อาจมองเห็นเป็นวงกลมเต็ม ๆ หรือมองไม่เห็นเพราะเป็นส่วนหนึ่งของตัวสไลเดอร์ ขึ้นอยู่กับเวอร์ชันของ [สกิน](/wiki/Skin) ที่ใช้อยู่ สีของท้ายสไลเดอร์ถูกกำหนดโดยสีคอมโบที่แมปเปอร์ของบีตแมปใช้
 
-Slidertails จะพบได้เฉพาะใน [Beatmap](/wiki/Beatmap) ของโหมด [osu!](/wiki/Game_mode/osu!) เท่านั้น โดย Slidertail อาจจะแสดงผลเป็นวงกลมให้เห็นอย่างชัดเจน หรืออาจจะไม่แสดงผลและเป็นเพียงส่วนหนึ่งของ Sliderbody ก็ได้ ขึ้นอยู่กับเวอร์ชันของ [Skin](/wiki/Skin) ที่คุณกำลังใช้งานอยู่ 
-
-สีของ Slidertail จะถูกกำหนดโดยสีคอมโบ (Combo colours) ที่เลือกใช้โดยผู้สร้างแผนที่ (Mapper) ของ Beatmap นั้นๆ
+<!-- TODO: Add links and images-->

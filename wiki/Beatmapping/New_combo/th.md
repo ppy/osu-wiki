@@ -6,20 +6,20 @@ tags:
 
 # New combo
 
-*สำหรับการใช้งานอื่น ดูที่ [NC (แก้ความกำกวม)](/wiki/Disambiguation/NC)*
+*สำหรับความหมายอื่น ดู [NC (disambiguation)](/wiki/Disambiguation/NC)*
 
-**New combo** (มักเรียกสั้นๆ ว่า *NC*) คือการทำเครื่องหมายเพื่อเริ่ม [คอมโบ (Combo)](/wiki/Beatmapping/Combo) ชุดใหม่ ซึ่งพฤติกรรมระหว่างการเล่นจะขึ้นอยู่กับ [โหมดการเล่น (Game mode)](/wiki/Game_mode) ที่เลือกอยู่ คุณสามารถกำหนด New combo ได้ในขณะ [สร้างแมพ (Beatmapping)](/wiki/Beatmapping) ผ่าน [ตัวแก้ไข Beatmap (Beatmap editor)](/wiki/Client/Beatmap_editor) โดยคลิกที่ปุ่ม `New Combo` ทางด้านขวาของหน้าต่าง `Compose` หรือใช้ปุ่มลัด `Q` นอกจากนี้ New combo ยังเป็นส่วนสำคัญของการทำ [Colourhaxing](/wiki/Beatmapping/Colourhaxing) อีกด้วย
+**New combos** (รู้จักกันทั่วไปว่า *NCs*) คือสิ่งที่บอกจุดเริ่มต้นของ[คอมโบ](/wiki/Beatmapping/Combo)ใหม่ พฤติกรรมของ new combos ระหว่าง gameplay ขึ้นอยู่กับ[โหมดเกม](/wiki/Game_mode)ที่เลือกอยู่ สามารถเลือกได้ระหว่าง[beatmapping](/wiki/Beatmapping)ใน [beatmap editor](/wiki/Client/Beatmap_editor) โดยคลิกปุ่ม `New Combo` ทางด้านขวาของแท็บ `Compose` หรือใช้ช็อตคัต `Q` New combos เป็นส่วนสำคัญของ [colourhaxing](/wiki/Beatmapping/Colourhaxing)
 
 ## osu!
 
-ในโหมด [osu!](/wiki/Game_mode/osu!) [Hit object](/wiki/Gameplay/Hit_object) แต่ละชิ้นจะมีเลขลำดับคอมโบและ [สีคอมโบ (Combo colour)](/wiki/Beatmapping/Combo_colour) กำกับไว้ เมื่อเริ่ม New combo สีของคอมโบจะเปลี่ยนไปและเลขลำดับคอมโบจะถูกรีเซ็ตกลับไปเป็นเลขหนึ่ง และนับเพิ่มขึ้นเรื่อยๆ สำหรับวัตถุชิ้นถัดไป
+ใน [osu!](/wiki/Game_mode/osu!) [hit object](/wiki/Gameplay/Hit_object) แต่ละตัวมี combo number และ [combo colour](/wiki/Beatmapping/Combo_colour) ของตัวเอง เมื่อเริ่ม new combo สีคอมโบจะเปลี่ยน และ combo number จะรีเซ็ตเป็นหนึ่ง จากนั้นจะนับเพิ่มสำหรับออบเจกต์ถัด ๆ ไป
 
-*หมายเหตุ: [Spinners](/wiki/Gameplay/Hit_object/Spinner) จะบังคับให้ Hit object ชิ้นถัดไปเริ่มคอมโบใหม่เสมอ*
+*หมายเหตุ: [สปินเนอร์](/wiki/Gameplay/Hit_object/Spinner) จะบังคับให้ hit object ถัดไปเริ่ม new combo*
 
 ## osu!catch
 
-ในโหมด [osu!catch](/wiki/Game_mode/osu!catch) [ผลไม้ (Fruit)](/wiki/Gameplay/Hit_object/Fruit) แต่ละลูกจะถูกระบายสีตามลำดับสีคอมโบที่เลือกอยู่ เมื่อเริ่ม New combo สีของผลไม้จะเปลี่ยนไปตามที่กำหนดไว้ ต่างจากโหมด osu! ตรงที่ผลไม้ในโหมดนี้จะไม่มีเลขคอมโบแสดงผล
+ใน [osu!catch](/wiki/Game_mode/osu!catch) [fruit](/wiki/Gameplay/Hit_object/Fruit) แต่ละประเภทจะถูกใส่สีตาม combo colour ที่เลือกอยู่ เมื่อเริ่ม new combo combo colour จะเปลี่ยน ต่างจาก osu! ตรงที่ fruits ไม่มี combo number
 
-## โหมดอื่นๆ
+## โหมดเกมอื่น
 
-โหมด [osu!taiko](/wiki/Game_mode/osu!taiko) และ [osu!mania](/wiki/Game_mode/osu!mania) จะไม่มีการใช้ระบบ New combo
+[osu!taiko](/wiki/Game_mode/osu!taiko) และ [osu!mania](/wiki/Game_mode/osu!mania) ไม่ใช้ new combos

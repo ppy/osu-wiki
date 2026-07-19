@@ -2,47 +2,54 @@
 outdated: true
 ---
 
-<!-- บทความเหล่านี้ระบุว่าล้าสมัยเนื่องจากถูกสร้างขึ้นนานมากแล้ว ข้อมูลบางส่วนอาจไม่รองรับ/ผิดพลาด และอาจทำให้เกิดความเข้าใจผิดในบริบทการทำแมพสมัยใหม่ - clayton -->
+<!-- Outdated these articles because they were created a very long time ago, contain some deprecated/wrong info, and are generally misleading in context of more modern mapping -clayton -->
 
-# เทคนิคการสร้างแมพที่ไม่สามารถจัดอันดับได้ (Unrankable mapping techniques)
+<!-- TODO: Needs to be rewritten, the article does not match with other articles (writing style, formatting).
+Also check if the article matches with ASC. See #5729 for more informations -->
 
-**ภายใต้สถานการณ์ปกติ การใช้เทคนิคเหล่านี้จะทำให้แมพของคุณไม่สามารถจัดอันดับ (Unrankable) ได้โดยอัตโนมัติ!**
+# Unrankable mapping techniques
 
-<!-- รายการเทคนิคเรียงตามลำดับอักษรภาษาอังกฤษ -->
+**ในสถานการณ์ปกติ การใช้เทคนิคเหล่านี้จะทำให้แมปของคุณ unrankable โดยอัตโนมัติ!**
+
+<!-- please place all mapping techniques in alphabetical order -->
 
 ## Burai Sliders
 
-ผู้เสนอ: [machol30](https://osu.ppy.sh/users/5772)
+Nominator: [machol30](https://osu.ppy.sh/users/5772)
 
-**Burai sliders** คือ Slider ที่วางซ้อนทับเส้นทางเดิมของตัวเองทั้งหมดจนมองไม่เห็นว่ามีการซ้อนทับกันอยู่ ยกเว้นเพียงแค่ส่วนปลายของ Slider เท่านั้น
+**Burai sliders** คือสไลเดอร์ที่ซ้อนทับตัวเองทั้งหมดจนแทบไม่เหลือพื้นที่ให้รู้ว่ามันซ้อนทับกันจริง ๆ ยกเว้นบริเวณ slider end
 
-รูปแบบนี้ไม่สามารถจัดอันดับได้เนื่องจากสร้างความสับสนอย่างมากในด้านการอ่าน (Readability) ในทางกลับกัน หากคุณทำรูปแบบที่คล้ายกันแต่มีการทำมุมเอียงไว้เล็กน้อยเพื่อให้เห็นเส้นทางที่ต่างกัน แมพนั้นจะสามารถจัดอันดับได้
+Pattern นี้ unrankable เพราะสร้างความสับสนในแง่ readability โดยรวม
+ในทางกลับกัน หากทำ pattern คล้ายกันแต่ปล่อยให้มีมุมเอียงเล็กน้อย จะสามารถ rank ได้
 
-เทคนิคนี้ตั้งชื่อตามชื่อเดิมของผู้สร้างคือ buraimaster1234 (ปัจจุบันคือ [machol30](https://osu.ppy.sh/users/5772))
+เทคนิคนี้ตั้งชื่อตามชื่อเก่าของผู้สร้าง buraimaster1234 (ปัจจุบันรู้จักกันในชื่อ [machol30](https://osu.ppy.sh/users/5772))
 
 ## Hold Sliders
 
-*อย่าสับสนกับ [Short Repeating Sliders](/wiki/Beatmapping/Mapping_techniques/Sliders#short-repeating-sliders-slider-สั้นที่วนซ้ำ)*
+*อย่าสับสนกับ [Short Repeating Sliders](/wiki/Beatmapping/Mapping_techniques/Sliders#short-repeating-sliders)*
 
-ผู้เสนอ: [Shinxyn](https://osu.ppy.sh/users/13996)
+Nominator: [Shinxyn](https://osu.ppy.sh/users/13996)
 
-โดยปกติ Slider ที่มีการเปลี่ยนความเร็วจะใช้ค่าตัวคูณในจุดจังหวะสีเขียว (Inherited point) ระหว่าง 0.5 ถึง 2.0 แต่สำหรับ **Hold sliders** จะใช้ค่าตัวคูณที่ต่ำมาก เช่น 0.25 หรือแม้แต่ 0.125
+สไลเดอร์ปกติที่เปลี่ยนความเร็วโดยทั่วไปใช้ inherited point เป็น 0.5 หรือ 2.0
+ในทางกลับกัน **hold sliders** ใช้ inherited point เป็น 0.25 หรือแม้แต่ 0.125
 
-สิ่งนี้บังคับให้ผู้เล่นต้องกดและถือเมาส์ค้างไว้ที่ตำแหน่งเดิมโดยไม่ต้องขยับเคอร์เซอร์เลย โดยปกติ Slider เหล่านี้มักจะมาพร้อมกับข้อความใน Storyboard ที่บอกให้ผู้เล่น "Hold" (กดค้าง)
+สิ่งนี้บังคับให้ผู้เล่นคลิกค้างบนสไลเดอร์โดยไม่ขยับเคอร์เซอร์เลย
+สไลเดอร์เหล่านี้มักมาพร้อมข้อความจาก storyboard ที่บอกผู้เล่นว่า "Hold"
 
-โดยทั่วไป Slider เหล่านี้ควรจะใช้ให้เข้ากับจังหวะดนตรี ไม่ใช่วางไว้เฉยๆ โดยไม่มีเหตุผล
+สไลเดอร์เหล่านี้มักเข้ากับเพลง แทนที่จะถูกวางไว้ที่ไหนก็ได้โดยไม่มีเหตุผล
 
 ## Ninja Spinners
 
-*อย่าสับสนกับ [Short Spinners](/wiki/Beatmapping/Mapping_techniques/Spinners#short-spinners-spinner-ระยะสั้น)*
+*อย่าสับสนกับ [Short Spinners](/wiki/Beatmapping/Mapping_techniques/Spinners#short-spinners)*
 
-**Ninja spinners** คือ Spinner ที่สั้นมากและมักจะวางไว้ในตำแหน่งที่ผู้เล่นไม่มีเวลาเตรียมตัวก่อนเริ่มหมุน นอกจากนี้ ชุมชนได้ตัดสินใจห้ามใช้ Spinner ลักษณะนี้เนื่องจากมีการนำไปใช้ในทางที่ผิดบ่อยครั้ง
+**Ninja spinners** คือสปินเนอร์ที่สั้นมาก และมักถูกวางในจุดที่ผู้เล่นไม่มีเวลาเตรียมตัว
+นอกจากนี้ ชุมชนยังตัดสินใจแบนสปินเนอร์เหล่านี้เพราะถูกใช้ในทางที่ผิด
 
-Spinner เหล่านี้ถูกสั่งห้ามเนื่องจากอาจทำให้ผู้เล่นหลุดคอมโบได้ง่าย และ/หรือทำให้การทำเกรด SS เป็นเรื่องที่ยากหรือทำไม่ได้เลยในบางกรณี
+สปินเนอร์เหล่านี้ถูกห้ามเพราะอาจทำให้ผู้เล่นเสียคอมโบและ/หรือทำให้ผู้เล่นได้แรงก์ SS
 
 ## Stack Zero
 
-ผู้เสนอ: *ไม่มี*
+Nominator:
 
-**Stack zero** คือการที่ Mapper แก้ไขค่า [Stack leniency](/wiki/Beatmap/Stack_leniency) ให้เป็น `0` โดยการแก้ไขผ่านโปรแกรม Notepad
-การทำเช่นนี้จะทำให้ osu! ไม่ขยับตำแหน่งโน้ตที่วางซ้อนกันโดยอัตโนมัติ (หมายความว่าวัตถุทั้งหมดจะวางทับกันสนิทพอดี แทนที่จะเยื้องไปทางซ้ายบนเล็กน้อยตามปกติ)
+**Stack zero** ต้องให้แมปเปอร์แก้ค่า [stack leniency](/wiki/Beatmap/Stack_leniency) เป็น `0` ด้วย Notepad
+เมื่อทำแบบนี้ osu! จะไม่ stack hit objects ที่ซ้อนกันอีกต่อไป (หมายความว่าออบเจกต์ทั้งหมดจะถูกวางทับกันตรง ๆ แทนที่จะขยับขึ้นซ้ายเล็กน้อย)

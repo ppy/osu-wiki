@@ -5,17 +5,19 @@ stub: true
 # Taiko template background
 
 ::: Infobox
-![Taiko template background](img/background.jpg "ตัวอย่างของ Taiko template background")
+![Taiko template background](img/background.jpg "ตัวอย่าง Taiko template background")
 :::
 
-Taiko template background คือภาพพื้นหลังที่ใช้เพื่อเลียนแบบการเล่นเกม Taiko no Tatsujin ต้นฉบับ โดยปกติจะมีแถบสีดำที่แสดงชื่อศิลปินและชื่อเพลงด้วยตัวอักษรสีขาวอยู่ด้านล่างของสนามเล่น (Playfield)
+Taiko template background คือภาพพื้นหลังที่ใช้จำลองการเล่นแบบ Taiko no Tatsujin ดั้งเดิม โดยปกติจะมีแถบสีดำด้านล่างเพลย์ฟีลด์ พร้อมชื่อศิลปินและชื่อเพลงเป็นตัวอักษรสีขาว
 
-Taiko template background เคยถูกใช้อย่างแพร่หลายจนถึงช่วงปี 2012 จนกระทั่งถูกสั่งห้ามใช้ใน [เกณฑ์การพิจารณา (Ranking criteria)](/wiki/Ranking_criteria/osu!taiko) เนื่องจากพวกมันไม่แสดงผลตามที่ตั้งใจไว้เมื่อใช้กับสัดส่วนหน้าจอ (Aspect ratio) อื่นๆ ที่ไม่ใช่ 4:3
+Taiko template background เคยถูกใช้อย่างแพร่หลายจนถึงปี 2012 ก่อนจะถูกห้ามใช้ใน [ranking criteria](/wiki/Ranking_criteria/osu!taiko) เพราะมันไม่ทำงานตามที่ตั้งใจไว้บนอัตราส่วนหน้าจออื่นที่ไม่ใช่ 4:3
 
-## ตัวอย่างความไม่เข้ากันของสัดส่วนหน้าจอ
+<!-- TODO: pinpoint when they were disallowed exactly -->
 
-ตัวอย่างต่อไปนี้สร้างขึ้นโดยใช้ Taiko template background จากเพลง [U2 Akiyama - Mystic Oriental Love Consultation [Gezo's Taiko Oni]](https://osu.ppy.sh/beatmapsets/24830#taiko/113409)
+## ตัวอย่างปัญหากับอัตราส่วนหน้าจอ
 
-| เมื่อใช้สัดส่วนหน้าจอ 4:3 | เมื่อใช้สัดส่วนหน้าจอ 16:9 |
+ตัวอย่างต่อไปนี้ทำขึ้นโดยใช้ Taiko template background จาก [U2 Akiyama - Mystic Oriental Love Consultation [Gezo's Taiko Oni]](https://osu.ppy.sh/beatmapsets/24830#taiko/113409)
+
+| ใช้อัตราส่วน 4:3 | ใช้อัตราส่วน 16:9 |
 | --: | :-- |
 | ![4:3 aspect ratio](img/4-3.jpg) | ![16:9 aspect ratio](img/16-9.jpg) |

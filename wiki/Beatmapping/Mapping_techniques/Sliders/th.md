@@ -2,117 +2,139 @@
 outdated: true
 ---
 
-<!-- บทความเหล่านี้ระบุว่าล้าสมัยเนื่องจากถูกสร้างขึ้นนานมากแล้ว ข้อมูลบางส่วนอาจไม่รองรับ/ผิดพลาด และอาจทำให้เกิดความเข้าใจผิดในบริบทการทำแมพสมัยใหม่ - clayton -->
+<!-- Outdated these articles because they were created a very long time ago, contain some deprecated/wrong info, and are generally misleading in context of more modern mapping -clayton -->
 
-# เทคนิคการสร้างแมพ: Slider (Slider mapping techniques)
+<!-- TODO: Needs to be rewritten, the article does not match with other articles (writing style, formatting).
+Also check if the article matches with ASC. See #5729 for more informations -->
 
-*ดูเพิ่มเติม: [การสร้าง Slider ที่ดี](/wiki/Beatmapping/Mapping_techniques/Making_good_sliders)*
+# Slider mapping techniques
 
-<!-- รายการเทคนิคเรียงตามลำดับอักษรภาษาอังกฤษ -->
+*ดูเพิ่มเติม: [Making Good Sliders](/wiki/Beatmapping/Mapping_techniques/Making_good_sliders)*
 
-## รูปแบบ (Patterns)
+<!-- please place all mapping techniques in alphabetical order -->
+
+## Patterns
 
 ### Etna Sliders
 
-ผู้เสนอ: [kingcobra52](https://osu.ppy.sh/users/9934)
+Nominator: [kingcobra52](https://osu.ppy.sh/users/9934)
 
-**Etna sliders** โดยปกติจะประกอบด้วย Slider 6 ถึง 8 อันที่มีความยาวครึ่งจังหวะและวางห่างกันครึ่งจังหวะ สามารถวางไปในทิศทางใดก็ได้และมักจะใช้จำนวนมาก
+**Etna sliders** โดยทั่วไปประกอบด้วยสไลเดอร์ 6 ถึง 8 ตัวที่ยาวครึ่ง beat และเว้นห่างกันอีกครึ่ง beat
+สามารถไปได้ทุกทิศทาง และมักมีจำนวนเยอะ
 
-คำว่า "Etna sliders" บัญญัติขึ้นโดย [awp](https://osu.ppy.sh/users/2650) และตั้งชื่อตาม [ตัวละครจากเกม Disgaea](https://disgaea.fandom.com/wiki/Etna) ที่ปรากฏในแมพอันหนึ่งของเขา
+คำว่า "Etna sliders" ถูกตั้งโดย [awp](https://osu.ppy.sh/users/2650) และตั้งชื่อตาม[ตัวละครจาก Disgaea](https://disgaea.fandom.com/wiki/Etna) ที่ปรากฏในแมปหนึ่งของเขา
+
+[โพสต์นี้คือจุดเริ่มต้นทั้งหมด](https://osu.ppy.sh/community/forums/posts/5783)
 
 ### Introverted Flow
 
-ผู้เสนอ: [Lizzy](https://osu.ppy.sh/users/1394757)
+Nominator: [Lizzy](https://osu.ppy.sh/users/1394757)
 
-**Introverted flow** (แปลตรงตัวจากภาษาละตินว่า "ชี้เข้าหาด้านใน") สามารถพบเห็นได้ในรูปแบบดังนี้:
-- การเปลี่ยนทิศทางการไหล (Flow) อย่างรวดเร็วจาก Arc หนึ่งไปยังอีกอันหนึ่ง ซึ่งบางครั้งมีการทำ [Blanket](/wiki/Beatmapping/Mapping_techniques/Formations#blanket-combos) คร่อมจุดเริ่มต้นของวัตถุก่อนหน้า
-- การเปลี่ยนทิศทางที่ไม่ชันมากนัก โดยให้ Arc แรกทำ Blanket คร่อมจุดสิ้นสุดของ Arc ที่สอง โดยอาจจะมีหรือไม่มี Hit circle คั่นกลางก็ได้
+**Introverted flow** คือ "ชี้เข้าด้านใน" (แปลตรงตัวจากภาษาละติน)
+สามารถเห็นได้ในรูปแบบ:
+
+- flow dropoff ที่หักแรงจากส่วนโค้งหนึ่งไปอีกส่วนโค้งหนึ่ง ซึ่งบางครั้ง [blankets](/wiki/Beatmapping/Mapping_techniques/Formations#blanket-combos) จุดเริ่มของส่วนก่อนหน้า
+- dropoff ที่ไม่หักแรงมาก ทำให้ส่วนโค้งแรก [blanket](/wiki/Beatmapping/Mapping_techniques/Formations#blanket-combos) ปลายของส่วนโค้งที่สอง โดยจะมีหรือไม่มีฮิตเซอร์เคิลคั่นกลางก็ได้
 
 ### Mirrored Sliders
 
-ผู้เสนอ: [kingcobra52](https://osu.ppy.sh/users/9934)
+Nominator: [kingcobra52](https://osu.ppy.sh/users/9934)
 
-**Mirrored sliders** ใช้ Slider สองอันที่มีรูปทรงเหมือนกันทุกประการ เพียงแต่ชิ้นหนึ่งจะถูกกลับด้าน (Flip) และเล่นย้อนกลับ (Reverse)
+**Mirrored sliders** ใช้สไลเดอร์สองตัวที่เหมือนกัน
+อย่างไรก็ตาม หนึ่งในนั้นจะถูก flip และ reverse
 
 ### Parallel Sliders
 
-ผู้เสนอ: [rust45](https://osu.ppy.sh/users/117369)
+Nominator: [rust45](https://osu.ppy.sh/users/117369)
 
-**Parallel sliders** คือกลุ่มของ Slider ที่วางขนานกันทั้งหมด โดยจุดเริ่มต้นอาจจะอยู่ใกล้หรือไกลจากจุดสิ้นสุดของอันข้างๆ ก็ได้ และสามารถวางไปในทิศทางใดก็ได้
+**Parallel sliders** ใช้กลุ่มสไลเดอร์ที่ขนานกันทั้งหมด จุดเริ่มของสไลเดอร์อาจอยู่หรือไม่อยู่ใกล้กับปลายสไลเดอร์ และอาจไปได้ทุกทิศทาง
 
 ### Segment Sliders
 
-ผู้เสนอ: [Xgor](https://osu.ppy.sh/users/98661)
+Nominator: [Xgor](https://osu.ppy.sh/users/98661)
 
-**Segment sliders** ประกอบด้วย Slider จำนวนหนึ่งที่จุดเริ่มต้นของอันใหม่วางทับที่จุดสิ้นสุดของอันก่อนหน้าพอดี มักใช้ร่วมกับ [Etna sliders](#etna-sliders) หรือใช้กับ Slider ที่มีความยาว 3-4 จังหวะขึ้นไป
+**Segment sliders** ประกอบด้วยสไลเดอร์หลายตัวที่เริ่มจากจุดปลายของสไลเดอร์ก่อนหน้า
+โดยปกติทำร่วมกับ [Etna sliders](#etna-sliders) แต่ก็ใช้กับสไลเดอร์ที่ยาว 3 ถึง 4 beats หรือมากกว่านั้นได้ด้วย
 
 ### Short Repeating Sliders
 
-*หรือที่รู้จักในชื่อ: **Kick Slider***
+*หรือที่เรียกว่า: **Kick Slider***
 
 *อย่าสับสนกับ [Hold Sliders](/wiki/Beatmapping/Mapping_techniques/Unrankable#hold-sliders)*
 
-ผู้เสนอ: [kingcobra52](https://osu.ppy.sh/users/9934)
+Nominator: [kingcobra52](https://osu.ppy.sh/users/9934)
 
-**Short repeating sliders** ประกอบด้วยชุดของ Slider ที่สั้นและมีจุดวกกลับ (Repeats) จำนวนมาก โดยปกติจะกำหนดจำนวนการวกกลับให้เท่ากันและลงตามจังหวะหลักเพื่อให้ผู้เล่นตามได้ง่าย
+**Short repeating sliders** ประกอบด้วยชุดสไลเดอร์ที่ทั้งสั้นและมี repeats หลายครั้ง
+สไลเดอร์ทั้งหมดมักมีจำนวน repeats เท่ากัน และตกบน whole หรือ half beat เพื่อให้ง่ายต่อการตาม
 
 ### Slider Trains
 
-*หรือที่รู้จักในชื่อ: **Slider Fans***
+*หรือที่เรียกว่า: **Slider Fans***
 
-ผู้เสนอ: [MegaManEXE](https://osu.ppy.sh/users/951)
+Nominator: [MegaManEXE](https://osu.ppy.sh/users/951)
 
-**Slider Trains** คือชุดของ Slider (ที่มีความยาวเท่ากัน) วางเรียงกันเป็นรูปพัด ผู้เล่นต้องกด Slider แต่ละอันต่อเนื่องกันเหมือนการกดสตรีม
+**Slider Trains** คือชุดสไลเดอร์ (ที่ยาวเท่ากัน) วางเป็นรูปพัด
+ผู้เล่นต้องคลิกแต่ละสไลเดอร์เหมือนกำลังเล่น stream
 
-ตัวอย่างเช่น หากเป็น Slider จังหวะ 1/2 ผู้เล่นจะต้องกดตามจังหวะ 1/1
+ตัวอย่างเช่น หากเป็นสไลเดอร์ 1/2 ผู้เล่นจะคลิกใน rhythm แบบ 1/1
+
+สไลเดอร์สามารถพุ่งเข้า พุ่งออก หรือทั้งสองแบบได้
 
 ### Zig-Zagging Sliders
 
-ผู้เสนอ: [kingcobra52](https://osu.ppy.sh/users/9934)
+Nominator: [kingcobra52](https://osu.ppy.sh/users/9934)
 
-**Zig-Zagging sliders** คือ Slider จังหวะครึ่งจังหวะที่วางเรียงเป็นรูปซิกแซก (เหมือนรูป "Z" หรือ "S") โดยวางตำแหน่งให้แต่ละ Slider เคลื่อนที่หันออกจาก Slider ถัดไป เพื่อสร้างการกระโดด (Jump) ที่รวดเร็วสำหรับผู้เล่น
+**Zig-Zagging sliders** คือสไลเดอร์ครึ่ง beat ที่จัดเป็น pattern ซิกแซก (เหมือนตัว "Z" หรือ "S")
+อย่างไรก็ตาม สไลเดอร์เหล่านี้ถูกวางให้แต่ละตัวเคลื่อนออกห่างจากสไลเดอร์ถัดไป ทำให้เกิด jump ที่รวดเร็วสำหรับผู้เล่น
 
-## ความสวยงาม (Stylish)
+## Stylish
 
 ### Cutting Sliders
 
-ผู้เสนอ: [Mashley](https://osu.ppy.sh/users/41481)
+Nominator: [Mashley](https://osu.ppy.sh/users/41481)
 
-**Cutting sliders** ประกอบด้วย Slider 2 อัน (มักจะยาว 1 จังหวะและห่างกันครึ่งจังหวะ) วางซ้อนทับกัน โดย Slider อันที่สองจะดูเหมือนว่ากำลัง *ตัดผ่าน* Slider อันแรก จึงเป็นที่มาของชื่อ
+**Cutting sliders** ประกอบด้วยสไลเดอร์ 2 ตัว ซึ่งมักยาว 1 beat และห่างกัน 1/2 beat โดยซ้อนทับกัน
+สไลเดอร์ตัวที่สองจะดูเหมือนกำลัง *ตัดผ่าน* สไลเดอร์อีกตัว จึงเป็นที่มาของชื่อ
 
 ### Crumpled Sliders
 
-ผู้เสนอ: [Lilac](https://osu.ppy.sh/users/58197)
+Nominator: [Lilac](https://osu.ppy.sh/users/58197)
 
-**Crumpled sliders** ใช้จุดควบคุมจำนวนมากเพื่อบีบอัด Slider ให้ดูเหมือนถูกขยำหรือแบนเข้าหากัน พื้นฐานแล้วจะทำให้ Slider ดูสั้นกว่าความยาวจริงที่มันควรจะเป็น สามารถทำได้หลายรูปแบบ
+**Crumpled sliders** ใช้สไลเดอร์ที่มี control points จำนวนมากเพื่อบีบอัดสไลเดอร์ และสร้างเอฟเฟกต์เหมือนยับหรือถูกบีบ
+โดยพื้นฐานแล้วสิ่งนี้ทำให้สไลเดอร์ดูสั้นกว่าที่ควรจะเป็น
+สไลเดอร์แบบนี้มีได้หลายรูปแบบ
 
 ### End-Cutter Sliders
 
-ผู้เสนอ: [Xgor](https://osu.ppy.sh/users/98661)
+Nominator: [Xgor](https://osu.ppy.sh/users/98661)
 
-**End-Cutter sliders** คือการวางจุดสิ้นสุดของ Slider อันหนึ่งทับลงบนเส้นทางเดินของ Slider อีกอันหนึ่ง
+**End-Cutter sliders** ใช้สไลเดอร์ที่ปลายของมัน stack อยู่บน path ของสไลเดอร์อีกตัว
 
 ### Krisom-Krosses
 
-ผู้เสนอ: [Rukario](https://osu.ppy.sh/users/110372)
+Nominator: [Rukario](https://osu.ppy.sh/users/110372)
 
-**Krisom-Krosses** ประกอบด้วย [Wave Sliders](#wave-sliders) สองอันที่วางสะท้อนกันในแนวตั้งหรือแนวนอนจนจุดกึ่งกลางของทั้งสองอันซ้อนทับกัน
+**Krisom-Krosses** ประกอบด้วย [Wave Sliders](#wave-sliders) สองตัว
+สไลเดอร์เหล่านี้เป็น [mirrored sliders](#mirrored-sliders) ในแนวนอนหรือแนวตั้ง โดยให้ตรงกลางของสไลเดอร์ทั้งสองซ้อนทับกัน
 
 เทคนิคนี้ตั้งชื่อตาม [Krisom](https://osu.ppy.sh/users/99269)
 
 ### Rainbow Sliders
 
-ผู้เสนอ: MetalMario201
+Nominator: MetalMario201
 
-**Rainbow sliders** คือ Slider รูปโค้งขนาดใหญ่ที่มักจะกินพื้นที่ครึ่งหนึ่งของหน้าจอ เหมาะสำหรับช่วงที่เพลงมีเสียงลากยาวและทรงพลัง (คล้ายกับการใช้ Spinner)
+**Rainbow sliders** คือสไลเดอร์ขนาดใหญ่รูปโค้ง ซึ่งโดยทั่วไปกินพื้นที่ครึ่งหน้าจอ
+เหมาะที่สุดกับจุดที่มี hold notes ยาวและเป็นไคลแมกซ์ (คล้ายสปินเนอร์)
+
+[EBA](/wiki/iNiS_games) เต็มไปด้วยสิ่งนี้
 
 ### Slider Art
 
-ผู้เสนอ: [Shinxyn](https://osu.ppy.sh/users/13996)
+Nominator: [Shinxyn](https://osu.ppy.sh/users/13996)
 
-**Slider art** คือการใช้ Slider อันเดียวยาวๆ วาดเป็นรูปภาพหรือสัญลักษณ์ต่างๆ
+**Slider art** ใช้สไลเดอร์ยาวหนึ่งตัวเพื่อวาดภาพหรือสัญลักษณ์บางอย่าง
 
-เทคนิคนี้มักจะไม่ได้รับการสนับสนุนจากชุมชนเนื่องจากผลกระทบต่อเกมเพลย์
+โดยปกติชุมชนไม่ค่อยสนับสนุนให้ใช้สิ่งนี้
 
 ### Spider Sliders
 
@@ -120,40 +142,48 @@ outdated: true
 
 ### Spiral Slider
 
-ผู้เสนอ: [Xgor](https://osu.ppy.sh/users/98661)
+Nominator: [Xgor](https://osu.ppy.sh/users/98661)
 
-**Spiral slider** คือ Slider ที่วาดเป็นรูปก้นหอย
+**Spiral slider** คือสไลเดอร์ที่วิ่งเป็นเกลียว
 
-รูปก้นหอยสามารถเริ่มจากข้างนอกเข้าหาข้างในหรือเริ่มจากข้างในออกข้างนอกก็ได้ และอาจจะมีจุดวกกลับร่วมด้วย
+เกลียวอาจเริ่มจากด้านนอกหรือด้านใน และอาจมี repeat arrow ได้
 
 ### Wave Sliders
 
-ผู้เสนอ: [RandomJibberish](https://osu.ppy.sh/users/157879)
+Nominator: [RandomJibberish](https://osu.ppy.sh/users/157879)
 
-**Wave sliders** คือ Slider รูปตัว "S" ที่โค้งไปทิศทางหนึ่งแล้วโค้งกลับมาอีกทิศทางหนึ่ง ใช้เพื่อเพิ่มความน่าสนใจให้กับแมพมากกว่าการใช้เส้นตรงธรรมดา
+**Wave sliders** คือสไลเดอร์รูปตัว "S"
+มันโค้งไปทิศทางหนึ่งแล้วโค้งกลับไปอีกทิศทาง
+ใช้เพื่อทำให้น่าสนใจกว่าสไลเดอร์เส้นตรงปกติเล็กน้อย
 
 ### Windmill Sliders
 
-ผู้เสนอ: [Lybydose](https://osu.ppy.sh/users/64501)
+Nominator: [Lybydose](https://osu.ppy.sh/users/64501)
 
-**Windmill sliders** (กังหันลม) คือชุดของ Slider 4 อันที่ทั้งหมดมีจุดเริ่มต้นร่วมกันที่จุดศูนย์กลาง ทำให้ดูเหมือนใบพัดกังหันลม โดย Slider อาจเป็นเส้นตรงจนดูเหมือนรูปกากบาทหรือตัว "x" ก็ได้
+**Windmill sliders** คือชุดสไลเดอร์สี่ตัว ซึ่งทุกตัวเริ่มจากจุดศูนย์กลางร่วมกัน
+สิ่งนี้จะทำให้ดูเหมือนกังหันลม
+สไลเดอร์ไม่จำเป็นต้องโค้งเสมอไป ซึ่งอาจกลายเป็นรูปกากบาทหรือดีไซน์รูป "x" แทน
 
-## อื่นๆ (Miscellaneous)
+## Miscellaneous
 
 ### Switch-Back Sliders
 
-ผู้เสนอ: [GladiOol](https://osu.ppy.sh/users/23326)
+Nominator: [GladiOol](https://osu.ppy.sh/users/23326)
 
-**Switch-Back sliders** ประกอบด้วย Slider เส้นโค้งครึ่งจังหวะ จากนั้นคัดลอกและหมุน 180 องศามาวางต่อให้โค้งย้อนกลับมาหา Slider เดิม แล้ววาง Hit circle ไว้ที่ตำแหน่งที่เคยเป็นหัว Slider เดิม
+**Switch-Back sliders** ประกอบด้วยสไลเดอร์โค้งครึ่ง beat
+จากนั้น copy-and-paste, หมุน 180 องศา, และวางให้โค้งเข้าหาสไลเดอร์ก่อนหน้า (คล้ายกับ [Etna sliders](#etna-sliders))
+แล้ววางฮิตเซอร์เคิลตรงจุดที่เคยเป็น slider head ของสไลเดอร์ก่อนหน้า
 
 ### Tick-Hitsounds
 
-ผู้เสนอ: [Rolled](https://osu.ppy.sh/users/5243)
+Nominator: [Rolled](https://osu.ppy.sh/users/5243)
 
-**Tick-Hitsounds** คือการแทนที่เสียง Slider tick ด้วยเสียง Hitsound มาตรฐาน (เช่น clap, whistle, finish) เพื่อทำให้เสียงประกอบการกดดู "ต่อเนื่อง" แม้ในขณะที่ผู้เล่นกำลังลาก Slider อยู่
+**Tick-Hitsounds** ประกอบด้วย slider ticks ที่ถูกแทนที่ด้วย hitsound มาตรฐาน (clap, whistle, finish ซึ่งโดยปกติ overlay ด้วย hit-normal/soft เพื่อเสียงที่แม่น)
+โดยปกติใช้เพื่อทำให้ hitsound ดูเหมือน "ต่อเนื่อง" แม้อยู่ระหว่างสไลเดอร์
 
 ### Tricky Triple Combo
 
-ผู้เสนอ: [FishHook](https://osu.ppy.sh/users/167586)
+Nominator: [FishHook](https://osu.ppy.sh/users/167586)
 
-**Tricky triple combo** ประกอบด้วย Slider 2 อันและโน้ต 1 ตัว โดยวางโน้ตไว้ตรงกลางระหว่าง Slider ทั้งสอง เพื่อสร้างภาพลวงตาให้ดูเหมือนเป็นโน้ตสามพยางค์ (Triplet) ทั้งที่จริงๆ แล้วไม่ใช่
+**Tricky triple combo** ประกอบด้วยสไลเดอร์ 2 ตัวและโน้ตหนึ่งตัว
+โน้ตถูกประกบไว้ระหว่างสไลเดอร์เพื่อสร้างภาพลวงตาว่ามี triplet ทั้งที่จริงไม่มี

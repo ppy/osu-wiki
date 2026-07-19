@@ -4,12 +4,14 @@ stub: true
 
 # Marathon
 
-**Marathon** (มาราธอน) คือคำที่ใช้เรียก [Beatmap](/wiki/Beatmap) ที่มีความยาวตั้งแต่ 5 นาทีขึ้นไป แมพเหล่านี้มักจะเป็น [ผลงานคอลแล็บ (Collaborative efforts)](/wiki/Beatmap/Beatmap_collaborations) เนื่องจากดนตรีที่มีความยาวมากอาจทำให้ Mapper รู้สึกเหนื่อยล้าหากต้องทำเพียงคนเดียว
+**Marathon** คือคำที่ใช้เรียก[บีตแมป](/wiki/Beatmap)ที่มีความยาวห้านาทีขึ้นไป บีตแมปแบบนี้มักเป็น[งานคอลแลบ](/wiki/Beatmap/Beatmap_collaborations) เพราะการแมปเพลงยาวด้วยตัวคนเดียวอาจเหนื่อยมาก
 
-## ประวัติความเป็นมา
+## ประวัติ
 
-เมื่อมีการแนะนำแมพ Marathon เป็นครั้งแรก เดิมทีมีการกำหนดความยาวขั้นต่ำไว้ที่ *6* นาที และสามารถมีได้เพียงระดับความยากเดียวเท่านั้น (ยกเว้นแต่ละ Beatmap สามารถมีระดับความยากของ [osu!taiko](/wiki/Game_mode/osu!taiko) เพิ่มเติมได้อีกหนึ่งความยาก)
+ตอนที่ marathon beatmaps ถูกนำมาใช้ครั้งแรก เดิมทีถูกนิยามว่าต้องยาวอย่างน้อย *หก* นาที และมีได้เพียงระดับความยากเดียวเท่านั้น (ยกเว้นว่าแต่ละบีตแมปสามารถมีระดับความยาก [osu!taiko](/wiki/Game_mode/osu!taiko) ได้อีกหนึ่งระดับด้วย)
 
-แมพ Marathon ในสมัยนั้นจำเป็นต้องตั้งชื่อความยากเพียงอันเดียวว่า "Marathon" เพื่อให้ระบบส่งผลงาน (Beatmap Submission System) ยอมรับและป้องกันไม่ให้แมพถูกจัดอยู่ในหมวด [Pending](/wiki/Beatmap/Category#wip-and-pending) เมื่อแมพเหล่านี้ได้รับการจัดอันดับ จะถูกจัดอยู่ในหมวด [Approved](/wiki/Beatmap/Category#approved) แทนที่จะเป็นหมวด [Ranked](/wiki/Beatmap/Category#ranked) เพื่อเป็นสัญญาณบอกว่าเป็นแมพ Marathon อย่างไรก็ตาม ในเวลาต่อมาหมวดหมู่นี้ได้ถูกยกเลิกและเปลี่ยนมาใช้หมวด Ranked แทนทั้งหมด
+Marathon beatmaps ยังต้องตั้งชื่อระดับความยากเดียวนั้นว่า "Marathon" เพื่อข้าม Beatmap Submission System ในเวลานั้น และป้องกันไม่ให้บีตแมปเข้าสู่หมวด [Pending](/wiki/Beatmap/Category#wip-and-pending) เมื่อผ่านการจัดอันดับ marathon beatmaps จะเข้าสู่หมวด [Approved](/wiki/Beatmap/Category#approved) แทนหมวด [Ranked](/wiki/Beatmap/Category#ranked) เพื่อบอกว่านี่คือแมปแบบ marathon ต่อมาหมวดนี้ถูกยกเลิกและเปลี่ยนไปใช้หมวด Ranked แทน
 
-ภายหลังได้มีการปรับเปลี่ยนกฎของแมพ Marathon ให้ครอบคลุมแมพที่มี [Drain time](/wiki/Beatmap/Drain_time) ตั้งแต่ 5 นาทีขึ้นไป และอนุญาตให้ [ตั้งชื่อความยากได้อย่างอิสระ](/wiki/Ranking_criteria/Difficulty_naming) กฎนี้ถูกใช้มาจนถึงช่วงปี 2019 เมื่อมีการแนะนำกฎการกระจายความยาก (Spread rules) ที่ผ่อนปรนมากขึ้น
+ภายหลัง marathon maps ถูกปรับให้รวมแมปที่มี [drain time](/wiki/Beatmap/Drain_time) ห้านาที และอนุญาตให้ใช้[การตั้งชื่อระดับความยากแบบกำหนดเอง](/wiki/Ranking_criteria/Difficulty_naming) ได้ กฎนี้คงอยู่จนกระทั่งมีการนำ spread rules ที่ผ่อนปรนกว่าเดิมมาใช้ในปี 2019
+
+<!-- TODO: Add links and stuff -->

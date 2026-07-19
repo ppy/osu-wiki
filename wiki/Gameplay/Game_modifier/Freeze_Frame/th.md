@@ -4,15 +4,17 @@ tags:
   - FR
 ---
 
-# Freeze Frame (mod)
+# Freeze Frame (ม็อด)
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Freeze Frame
 
-![Freeze Frame mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FR.png)
+![ไอคอนม็อด Freeze Frame](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FR.png)
 
-*จดจำตำแหน่งโน้ตไว้ในสมองของคุณ*
+*จำตำแหน่งโน้ตให้ขึ้นใจ*
 
 |  |  |
 | :-- | :-- |
@@ -21,10 +23,12 @@ tags:
 | โหมดเกม (Game modes) | ![][osu!] |
 | ตัวคูณคะแนน (Score multiplier) | 1.00x |
 | สถานะ (Status) | Unranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ | [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| ม็อดที่ใช้ร่วมกันไม่ได้ | [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
 
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+<!-- TODO description and settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

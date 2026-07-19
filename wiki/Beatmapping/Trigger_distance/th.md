@@ -1,3 +1,3 @@
 # Trigger distance
 
-**Trigger distance** เป็นคำที่ใช้ในโหมด [osu!catch](/wiki/Game_mode/osu!catch) เพื่อเรียกหาระยะห่างขั้นต่ำที่จำเป็นในการสร้าง [Hyperfruit](/wiki/Gameplay/Hit_object/Hyperfruit) บน [ผลไม้ (Fruit)](/wiki/Gameplay/Hit_object/Fruit) หรือ [หยดน้ำใหญ่ (Drop)](/wiki/Gameplay/Hit_object/Juice_stream#drop)
+**Trigger distance** คือคำที่ใช้ใน [osu!catch](/wiki/Game_mode/osu!catch) สำหรับระยะห่างขั้นต่ำที่ต้องมีเพื่อสร้าง [hyperfruit](/wiki/Gameplay/Hit_object/Hyperfruit) บน [fruit](/wiki/Gameplay/Hit_object/Fruit) หรือ [drop](/wiki/Gameplay/Hit_object/Juice_stream#drop)

@@ -4,4 +4,4 @@ stub: true
 
 # Beatmap host
 
-**Beatmap host** คือผู้จัดการและผู้อัปโหลด [Beatmap](/wiki/Beatmap) โดยปกติพวกเขาจะเป็นผู้สร้างระดับความยากส่วนใหญ่ใน Beatmap ชุดนั้น และเป็นผู้ประสานงานในการสร้าง [ความยากรับเชิญ (Guest difficulties)](/wiki/Beatmap/Guest_difficulty) นอกจากนี้ Beatmap host ยังมีหน้าที่รับผิดชอบในการหาคนมา [Mod](/wiki/Modding) และติดต่อกลุ่ม [Beatmap Nominators](/wiki/People/Beatmap_Nominators) เพื่อผลักดันให้ Beatmap ของตนผ่าน [ขั้นตอนการจัดอันดับ (Ranking procedure)](/wiki/Beatmap_ranking_procedure)
+**Beatmap host** คือผู้ดูแลและผู้อัปโหลด[บีตแมป](/wiki/Beatmap) โฮสต์จะสร้างระดับความยากส่วนใหญ่ของบีตแมป และประสานงานการสร้าง [guest difficulties](/wiki/Beatmap/Guest_difficulty) โดยปกติ beatmap host ยังมีหน้าที่หา [mod](/wiki/Modding) และติดต่อ [Beatmap Nominators](/wiki/People/Beatmap_Nominators) เพื่อผลักดันบีตแมปของตัวเองผ่าน[กระบวนการจัดอันดับบีตแมป](/wiki/Beatmap_ranking_procedure)

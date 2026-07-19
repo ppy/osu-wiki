@@ -2,10 +2,10 @@
 stub: true
 ---
 
-# Stack (การกองซ้อน)
+# Stack
 
-![](img/stack.jpg "ตัวอย่างของ Hit circle สองตัวที่วางกองซ้อนอยู่บนหัวของ Slider")
+![](img/stack.jpg "ตัวอย่างฮิตเซอร์เคิลสองตัว stack อยู่บน slider head")
 
-**Stack** (การกองซ้อน) คือกลุ่มของ [Hit objects](/wiki/Gameplay/Hit_object) ที่วาง [ทับซ้อน (Overlap)](/wiki/Beatmapping/Mapping_techniques/Overlap) กันในสนามเล่น วัตถุที่พบบ่อยที่สุดในการทำ Stack คือ [Hit circles](/wiki/Gameplay/Hit_object/Hit_circle)
+**Stack** คือชุดของ [hit objects](/wiki/Gameplay/Hit_object) ที่[ซ้อนทับ](/wiki/Beatmapping/Mapping_techniques/Overlap)กันบนเพลย์ฟีลด์<!-- TODO: link --> ออบเจกต์ที่ถูก stack บ่อยที่สุดคือ[ฮิตเซอร์เคิล](/wiki/Gameplay/Hit_object/Hit_circle)
 
-Stack จะถูกสร้างขึ้นโดยอัตโนมัติเมื่อ Hit objects ถูกวางทับซ้อนกันจนเกือบจะสมบูรณ์แบบ ระยะเวลาที่วัตถุจะเริ่มถูกพิจารณาให้ซ้อนกันนั้นถูกกำหนดโดยค่า [Stack leniency](/wiki/Beatmap/Stack_leniency) ของ Beatmap นั้นๆ
+Stacks จะถูกสร้างโดยอัตโนมัติเมื่อ hit objects ใกล้เคียงกับการซ้อนทับกันพอดีมาก ช่วงเวลาระหว่างออบเจกต์ที่ทำให้สิ่งนี้เกิดขึ้นถูกกำหนดโดย [stack leniency](/wiki/Beatmap/Stack_leniency) ของบีตแมป

@@ -11,38 +11,38 @@ tags:
   - hitsounds
 ---
 
-# Hitsound (เสียงประกอบการกด)
+# Hitsound
 
-*ดูเพิ่มเติม: [การเพิ่ม Hitsound ที่กำหนดเอง](/wiki/Guides/Using_custom_hitsounds)*
+*ดูเพิ่มเติม: [Adding custom hitsounds](/wiki/Guides/Using_custom_hitsounds)*
 
 <!-- TODO: could make more articles about each part of hitsounds, and also one focused more on gameplay than mapping -->
 
-**Hitsounds** (ฮิตซาวด์) คือเสียงที่ osu! เล่นออกมาเพื่อตอบสนองต่อการกดหรือการโต้ตอบกับ [Hit objects](/wiki/Gameplay/Hit_object) ของผู้เล่น โดยปกติจะใช้เพื่อให้เสียงตอบรับ (Feedback) แก่ผู้เล่น เพื่อช่วยให้พวกเขาสามารถตัดสิน [ความแม่นยำ (Accuracy)](/wiki/Gameplay/Accuracy) ของตนเองเมื่อเทียบกับจังหวะเพลงได้
+**Hitsounds** คือเสียงที่ osu! เล่นตอบสนองต่อ input ของผู้ใช้เมื่อโต้ตอบกับ [hit objects](/wiki/Gameplay/Hit_object) โดยทั่วไป hitsounds ใช้ให้ feedback ทางเสียงแก่ผู้เล่น เพื่อช่วยให้ประเมิน[ความแม่นยำ](/wiki/Gameplay/Accuracy)ของตัวเองเทียบกับเพลงได้
 
-เสียงตอบรับของ Hitsound ประกอบด้วยตัวอย่างเสียงพื้นฐานที่เรียกว่า *hitnormal* และการผสมผสานของส่วนเสริม (*Additions*) ได้แก่ whistle (เสียงนกหวีด), finish (เสียงจบ/ฉาบ) หรือ clap (เสียงปรบมือ) โดยแต่ละตัวอย่างเสียงจะเป็นส่วนหนึ่งของ *ชุดตัวอย่างเสียง (Sample sets)* ทั้งสามชุดที่ให้ความรู้สึกต่างกัน ได้แก่: `Normal`, `Soft` และ `Drum`
+Feedback ของ hitsound ประกอบด้วย sample เริ่มต้นที่เรียกว่า *hitnormal* และ sample *additions* อย่าง whistle, finish, หรือ clap ในชุดผสมใดก็ได้ แต่ละ sample เป็นส่วนหนึ่งของ *sample sets* หนึ่งในสามแบบที่บอกสไตล์ต่างกัน ได้แก่ `Normal`, `Soft`, หรือ `Drum`
 
-Mapper สามารถเปลี่ยนตัวอย่างเสียงพื้นฐานเหล่านี้เป็นเสียงที่กำหนดเองได้โดยใส่ไฟล์เสียงลงในโฟลเดอร์ของ [Beatmap](/wiki/Beatmap) นั้นๆ นอกจากนี้ [Skin](/wiki/Skinning) ของผู้เล่นยังสามารถแทนที่ Hitsound พื้นฐานของทุกแมพได้อีกด้วย คุณสามารถดูรายละเอียดของไฟล์เสียง Hitsound ได้ในบทความ [การสกิน Hitsound](/wiki/Skinning/Sounds#hitsounds)
+Beatmappers สามารถแทนที่ sound samples เริ่มต้นใด ๆ ด้วย custom samples ผ่านโฟลเดอร์ของ[บีตแมป](/wiki/Beatmap)ได้ [สกิน](/wiki/Skinning)ของผู้เล่นก็สามารถแทนที่ hitsounds เริ่มต้นในทุกบีตแมปได้เช่นกัน รายละเอียดเกี่ยวกับ hitsound samples ดูได้ในบทความ [hitsound skinning](/wiki/Skinning/Sounds#hitsounds)
 
-สำหรับ [Spinners](/wiki/Gameplay/Hit_object/Spinner) และ [Sliders](/wiki/Gameplay/Hit_object/Slider) จะมีเสียงเพิ่มเติม ได้แก่ เสียงตอนหมุน (Spinner spin), เสียงโบนัส (Spinner bonus), เสียงตอนลากสไลเดอร์ (Slider slide) และเสียงติ๊กของสไลเดอร์ (Slider tick)
+[สปินเนอร์](/wiki/Gameplay/Hit_object/Spinner)และ[สไลเดอร์](/wiki/Gameplay/Hit_object/Slider)มี hitsounds เพิ่มเติม ได้แก่ spinner spin, spinner bonus, slider slide, และ slider tick
 
-## Active hitsound (ฮิตซาวด์แบบเชิงรุก)
+## Active hitsound
 
-Hitsound จะถูกพิจารณาว่าเป็นแบบ *Active* หากเสียงนั้นอยู่บนส่วนของ Hit object ที่ผู้เล่นต้องเป็นคนกด เช่น ตัววงกลม (Hit circle) หรือหัวสไลเดอร์ (Slider head) เสียงเหล่านี้จะช่วยให้ผู้เล่นตัดสินได้ว่าตนเองกดเร็วหรือช้าเกินไปโดยการเล่นเสียงที่ชัดเจนและมีน้ำหนักในขณะที่กด หากกดได้ถูกต้อง เสียงควรจะตรงกับจังหวะของเพลงพอดี
+Hitsound จะถือว่า *active* หากอยู่บนส่วนของ hit object ที่คลิกได้ เช่น hit circle หรือ slider head สิ่งเหล่านี้ช่วยให้ผู้เล่นตัดสินได้ว่าคลิกเร็วไปหรือช้าไป ด้วยการเล่นเสียงที่ชัดและมีน้ำหนักในจังหวะที่คลิก หากคลิกถูกต้อง เสียงควรตรงกับ beat ในเพลง
 
-## Passive hitsound (ฮิตซาวด์แบบเชิงรับ)
+## Passive hitsound
 
-หาก Hitsound อยู่บนส่วนที่ผู้เล่นไม่ได้เป็นคนกดโดยตรง เช่น จุดวกกลับของสไลเดอร์ (Slider repeat) หรือจุดสิ้นสุดของสปินเนอร์ เสียงนั้นจะถูกพิจารณาว่าเป็นแบบ *Passive* เสียงเหล่านี้จะเล่นออกมาเสมอในเวลาที่กำหนดตราบเท่าที่ผู้เล่นยังโต้ตอบกับวัตถุนั้นอยู่ ต่างจาก Active hitsound ที่เสียงจะเล่นตามเวลาที่ผู้เล่นกดจริง โดย Passive hitsound ไม่จำเป็นต้องมีน้ำหนักหรือได้ยินชัดเจนมากนัก แต่ Mapper มักจะใช้เสียงเดียวกับ Active hitsound เมื่อมันตรงกับจังหวะสำคัญเพื่อช่วยให้ผู้เล่นรักษาจังหวะการเล่นไว้ได้
+หาก hitsound อยู่บนส่วนของ hit object ที่คลิกไม่ได้ เช่น slider repeat หรือ spinner end จะถือว่าเป็น *passive* เสียงเหล่านี้จะเล่นในเวลาเดิมเสมอตราบใดที่ผู้เล่นกำลังโต้ตอบกับ hit object ต่างจาก active hitsounds Passive hitsounds ไม่จำเป็นต้องมี impact ชัดหรือได้ยินชัด แต่เมื่ออยู่บน beat ที่เด่น มักใช้เสียงเดียวกับ active hitsounds เพื่อช่วยให้ผู้เล่นรักษาจังหวะได้
 
 ## Storyboarded hitsound
 
-เราสามารถเพิ่มตัวอย่างเสียงผ่าน Storyboard เพื่อเลียนแบบ Hitsound ได้ อย่างไรก็ตาม เสียงเหล่านี้จะเล่นตามเวลาที่กำหนดเสมอโดยไม่คำนึงว่าผู้เล่นจะกดวัตถุนั้นโดนหรือไม่ ด้วยเหตุนี้จึงไม่ค่อยแนะนำให้ใช้ด้วยวิธีนี้ แต่ Mapper บางคนอาจใช้เพื่อรักษาความต่อเนื่องของรูปแบบเสียง Hitsound ระหว่างที่ไม่มีวัตถุให้กด
+Sound samples สามารถเพิ่มผ่าน storyboarding เพื่อเลียนแบบ hitsounds ได้ อย่างไรก็ตาม ต่างจาก hitsounds จริง เสียงเหล่านี้จะเล่นตามเวลาที่กำหนดเสมอไม่ว่าผู้เล่นจะกดออบเจกต์โดนหรือไม่ ด้วยเหตุนี้จึงมักไม่แนะนำให้ใช้ แมปเปอร์บางคนใช้สิ่งนี้เพื่อรักษารูปแบบ hitsound ระหว่าง hit objects
 
 ## Keysound
 
-Keysound คือไฟล์ Hitsound ที่มีความคล้ายคลึงกันมากหรือนำมาจากไฟล์เพลงโดยตรง และใช้เพื่อเลียนแบบระดับเสียง (Pitch) ของโน้ตเพลงจริง วิธีนี้มักจะให้การตอบรับทางเสียงแก่ผู้เล่นค่อนข้างน้อย แต่หากใช้งานได้ดีจะช่วยให้การเล่นแมพนั้นน่าสนใจยิ่งขึ้นและช่วยให้บางส่วนของแมพดูโดดเด่นขึ้นมา
+Keysound คือ hitsound sample ที่คล้ายกับเพลงอย่างมาก หรือถูกนำมาจากเพลงโดยตรง และใช้จำลอง pitch ของโน้ตในเพลง วิธี hitsounding แบบนี้มักให้ feedback แก่ผู้เล่นน้อย แต่เมื่อใช้ดีจะทำให้การเล่นบีตแมปบางแบบน่าสนใจขึ้น และทำให้บางช่วงของแมปโดดเด่นได้
 
-## ในโหมด osu!taiko
+## ใน osu!taiko
 
-ไม่เหมือนกับ [โหมดการเล่น](/wiki/Game_mode) อื่นๆ Hitsound ใน [osu!taiko](/wiki/Game_mode/osu!taiko) จะส่งผลต่อเกมเพลย์โดยตรง โดยโน้ตสีน้ำเงิน (Kat) จะแยกออกจากโน้ตสีแดง (Don) ได้ด้วยการใส่เสียง whistle หรือ clap และโน้ตขนาดใหญ่จะแยกออกจากโน้ตปกติได้ด้วยการใส่เสียง finish
+ต่างจาก[โหมดเกม](/wiki/Game_mode)อื่น ๆ hitsounds ของ [osu!taiko](/wiki/Game_mode/osu!taiko) ส่งผลต่อ gameplay ของแมปโดยตรง Kats จะถูกแยกจาก Dons ด้วย whistles และ claps ส่วนโน้ตใหญ่จะถูกแยกจากโน้ตปกติด้วย finishers
 
-ชุดตัวอย่างเสียงพื้นฐานของ osu!taiko จะมีความเฉพาะตัวสำหรับโหมดนี้ และ Mapper มักจะไม่ทำการเปลี่ยนเสียงเหล่านี้
+Samples เริ่มต้นของ osu!taiko เป็นเอกลักษณ์เฉพาะโหมด และโดยปกติแมปเปอร์จะไม่ override เสียงเหล่านี้

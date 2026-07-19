@@ -8,26 +8,30 @@ tags:
   - game modifier
 ---
 
-# Fade Out (mod)
+<!-- TODO:
+- add score multiplier, shortcut key, and caption values
+- Add information on when and why the Fade Out mod was removed -->
 
-![FO mod icon](/wiki/shared/mods/FO.png "Fade Out (FO) mod icon")
+# Fade Out (ม็อด)
 
-*สำหรับรายชื่อ Mod ทั้งหมด ดูที่: [Game Modifier](/wiki/Gameplay/Game_modifier)*\
+![ไอคอนม็อด FO](/wiki/shared/mods/FO.png "ไอคอนม็อด Fade Out (FO)")
+
+*สำหรับรายชื่อม็อดทั้งหมด ดูที่: [Game Modifier](/wiki/Gameplay/Game_modifier)*\
 *อย่าสับสนกับ [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In) หรือ [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden)*
 
-## เกี่ยวกับ (About)
+## เกี่ยวกับ
 
 - ตัวย่อ: FO
-- ประเภท: เพิ่มความยาก (Difficulty Increase)
+- ประเภท: เพิ่มความยาก
 - ปุ่มลัดเริ่มต้น: `F` `F` หรือ `Shift` + `F`
-- โหมดเกมที่รองรับ: ![][osu!mania]
+- โหมดเกมที่ใช้ร่วมกันได้: ![][osu!mania]
 
-## รายละเอียด (Description)
+## คำอธิบาย
 
-*หมายเหตุ: Mod นี้ไม่สามารถใช้งานได้อีกต่อไป*
+*หมายเหตุ: ม็อดนี้ไม่สามารถใช้งานได้อีกต่อไป*
 
-**Fade Out** mod คือ [Game modifier](/wiki/Gameplay/Game_modifier) สำหรับ [osu!mania](/wiki/Game_mode/osu!mania) ที่มุ่งเน้นการสร้างประสบการณ์ที่คล้ายกับ [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) mod โดยที่ Note จะค่อยๆ จาง *หายไป* (Fade out) ก่อนที่จะถูกกด (ตรงข้ามกับ Fade in ที่ค่อยๆ ปรากฏขึ้นมา) ซึ่ง Mod นี้ได้ถูกยกเลิกไปเพื่อเปลี่ยนไปใช้ [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod แทน
+ม็อด **Fade Out** เคยเป็น [game modifier](/wiki/Gameplay/Game_modifier) สำหรับ [osu!mania](/wiki/Game_mode/osu!mania) ที่มีเป้าหมายเพื่อสร้างประสบการณ์คล้ายกับม็อด [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) โดยให้โน้ตค่อย ๆ จาง *หายไป* ก่อนถูกกด แทนที่จะค่อย ๆ จาง *เข้ามา* ม็อดนี้ถูกแทนที่ด้วยม็อด [Hidden](/wiki/Gameplay/Game_modifier/Hidden)
 
-ทั้ง Hidden mod และ Fade Out mod มีฟังก์ชันการทำงานที่เหมือนกันทุกประการ
+ม็อด Hidden และม็อด Fade Out มีการทำงานเหมือนกัน
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

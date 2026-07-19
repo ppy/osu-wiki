@@ -1,66 +1,68 @@
-# ระบบการตัดสินของ osu!mania (osu!mania judgement system)
+# osu!mania judgement system
 
-## การตัดสิน (Judgements)
+## Judgements
 
-**การตัดสิน (Judgement)** หรือ **ผลการกด (Hit result)** คือผลลัพธ์ที่ได้จากการโต้ตอบกับ [วัตถุ (Hit object)](/wiki/Gameplay/Hit_object) ภายในช่วงเวลาการกดที่กำหนด (Hit window) คะแนนและความแม่นยำจะถูกคำนวณตามประเภทของการตัดสินที่ได้รับ
+**Judgement** หรือ **hit result** คือผลลัพธ์จากการโต้ตอบกับ [hit object](/wiki/Gameplay/Hit_object) ภายใน hit window ของมัน คะแนนและ accuracy จะคำนวณจาก judgement ที่ได้รับ
 
-โดยปกติผู้เล่นมักจะเรียกชื่อการตัดสินตามค่าคะแนนที่ได้รับ (ยกเว้นการกดพลาด) เช่น GREAT มักจะเรียกว่า "300" เป็นต้น
+โดยทั่วไปมักเรียก judgement เหล่านี้ตามค่าคะแนน ยกเว้น miss เช่น GREAT มักถูกเรียกว่า "300" เป็นต้น
 
-| รูปภาพ | ชื่อเรียก | [คะแนนที่ได้รับ](/wiki/Gameplay/Score/ScoreV1/osu!mania) | [ความแม่นยำ](/wiki/Gameplay/Accuracy#osu!mania) | ช่วงเวลาการกดสูงสุด (มิลลิวินาที) |
+| Image | Name | [Hit value](/wiki/Gameplay/Score/ScoreV1/osu!mania) | [Accuracy](/wiki/Gameplay/Accuracy#osu!mania) | Max hit error (ms) |
 | :-: | :-: | --: | --: | :-- |
-| ![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif) | PERFECT | 320 | 100% | `16` |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif) | PERFECT | 320 | 100% | `16`<!-- note: different from lazer, which uses the scorev2 formula --> |
 | ![](/wiki/shared/judgement/osu!mania/mania-hit300.png) | GREAT | 300 | 100% | `64 - 3 × OD` |
 | ![](/wiki/shared/judgement/osu!mania/mania-hit200.png) | GOOD | 200 | 66.67% | `97 - 3 × OD` |
 | ![](/wiki/shared/judgement/osu!mania/mania-hit100.png) | OK | 100 | 33.33% | `127 - 3 × OD` |
 | ![](/wiki/shared/judgement/osu!mania/mania-hit50.png) | MEH | 50 | 16.67% | `151 - 3 × OD` |
 | ![](/wiki/shared/judgement/osu!mania/mania-hit0.png) | MISS | 0 | 0% | `188 - 3 × OD` |
 
-ช่วงเวลาการกดจะขึ้นอยู่กับค่า [ความยากโดยรวม (OD)](/wiki/Beatmap/Overall_difficulty) ของบีทแมพ การกดจะถือว่าอยู่ในช่วงเวลานั้นๆ หาก `ความคลาดเคลื่อน ≤ ช่วงเวลาการกดสูงสุด` ซึ่งค่าที่ระบุในตารางคือครึ่งหนึ่งของความกว้างทั้งหมด
+Hit window ขึ้นอยู่กับค่า [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) ของบีตแมป จากนั้น hit จะถือว่าอยู่ใน hit window หาก `hit error ≤ max hit error` หมายความว่าค่าที่แสดงคือครึ่งหนึ่งของความกว้าง hit window
 
-เนื่องจากระบบมีการปัดเศษทศนิยมและตัดเศษจำนวนเต็ม ช่วงเวลาจริงอาจจะสั้นหรือยาวกว่าที่คำนวณจากสูตรได้สูงสุดถึง 0.5 มิลลิวินาที ในทั้งสองฝั่ง
+Hit error จะถูกปัดเศษ และค่า max hit error จะถูกตัดลงเป็นจำนวนเต็มที่ใกล้ที่สุด หมายความว่า window อาจยาวขึ้นหรือสั้นลงจากที่สูตรบอกได้สูงสุด 0.5 ms ทั้งสองด้าน
 
-บีทแมพที่แปลงมาจากโหมด osu! (หรือที่เรียกว่า *Converts*) จะมีช่วงเวลาการกดที่แตกต่างออกไปดังนี้:
+บีตแมปที่แปลงมาจากโหมด osu! หรือที่เรียกว่า *convert* จะใช้ hit window ต่างออกไป:<!-- not a thing in lazer, internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjectManagerMania.cs#L208-L226 -->
 
-| ชื่อเรียก | ช่วงเวลาการกดสูงสุด (มิลลิวินาที) |
-| :-- | :-- |
+| Name | Max hit error (ms) |
+| :-: | :-- |
 | PERFECT | 16 |
-| GREAT | 34 (หาก OD > 4), มิฉะนั้นคือ 47 |
-| GOOD | 67 (หาก OD > 4), มิฉะนั้นคือ 77 |
+| GREAT | 34 if OD > 4, otherwise 47 |
+| GOOD | 67 if OD > 4, otherwise 77 |
 | OK | 97 |
 | MEH | 121 |
 | MISS | 158 |
 
-Mod ที่เปลี่ยนความเร็วเพลง ([Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) และ [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)) จะ **ไม่มีผล** ต่อความกว้างของช่วงเวลาการกดในโหมด osu!mania
+ม็อดที่เปลี่ยน rate อย่าง [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) และ [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) ไม่มีผลต่อระยะเวลา hit window ใน osu!mania<!-- unique to osu!mania, not a thing in lazer. internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjectManagerMania.cs#L151-L160 -->
 
-## กลไกการตัดสิน (Judgement mechanics)
+## กลไก judgement
 
-### Notes (โน้ตปกติ)
+### Notes
 
-โน้ตปกติจะถูกตัดสินเป็น PERFECT, GREAT, GOOD, OK, MEH หรือ MISS ตามความแม่นยำของจังหวะที่กด การกดก่อนที่จะถึงช่วงเวลา MISS จะไม่มีผลใดๆ และหากไม่กดเลยจนเลยช่วงเวลา OK ไปแล้ว จะถือว่าเป็นการกดพลาดทันที (ในโหมดนี้การกด MEH แบบช้ากว่าจังหวะเป็นไปไม่ได้)
+Note จะถูกตัดสินเป็น PERFECT, GREAT, GOOD, OK, MEH หรือ MISS ตามความแม่นยำในการกด การกด note ก่อน MISS window จะไม่มีผล และหากไม่กด note เลย จะเกิด miss หลัง OK window ผ่านไป โดย late MEH hit เป็นไปไม่ได้
 
-### Hold notes (โน้ตยาว)
+### Hold notes
 
-โน้ตยาวจะได้รับการตัดสินเพียงครั้งเดียวโดยพิจารณาจากทั้งจังหวะการกดที่หัวโน้ตและจังหวะการปล่อยที่หางโน้ต โดยใช้ค่า *ความคลาดเคลื่อนรวม (Combined hit error)* ซึ่งคำนวณจาก *ความคลาดเคลื่อนที่หัว* + *ความคลาดเคลื่อนที่หาง* (ทั้งสองค่าเป็นค่าบวก) ตามตารางดังนี้:
+<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Mania/HitCircleManiaLong.cs#L235-L296 -->
 
-| การตัดสิน | เงื่อนไข |
+Hold note จะได้รับ judgement หนึ่งค่า โดยขึ้นอยู่กับ timing ของการกดปุ่มที่หัวโน้ตและการปล่อยที่ท้ายโน้ต ตามตารางต่อไปนี้ โดย *combined hit error* คือ *head hit error* + *tail release error* ซึ่งทั้งสองค่าเป็นบวก:
+
+| Judgement | Requirement |
 | :-: | :-- |
-| PERFECT | คลาดเคลื่อนที่หัว ≤ (ค่าสูงสุด PERFECT × 1.2) **และ** คลาดเคลื่อนรวม ≤ (ค่าสูงสุด PERFECT × 2.4) |
-| GREAT | คลาดเคลื่อนที่หัว ≤ (ค่าสูงสุด GREAT × 1.1) **และ** คลาดเคลื่อนรวม ≤ (ค่าสูงสุด GREAT × 2.2) |
-| GOOD | คลาดเคลื่อนที่หัว ≤ ค่าสูงสุด GOOD **และ** คลาดเคลื่อนรวม ≤ (ค่าสูงสุด GOOD × 2) |
-| OK | คลาดเคลื่อนที่หัว ≤ ค่าสูงสุด OK **และ** คลาดเคลื่อนรวม ≤ (ค่าสูงสุด OK × 2) |
-| MEH | อื่นๆ ที่ไม่ใช่การกดพลาด |
-| MISS | ไม่ได้กดปุ่มค้างไว้ในช่วงเวลาตั้งแต่เริ่มต้นช่วง MEH ของหางโน้ต ไปจนถึงสิ้นสุดช่วง OK ของหางโน้ต |
+| PERFECT | Head hit error ≤ max error for PERFECT × 1.2 **AND** combined hit error ≤ max error for PERFECT × 2.4 |
+| GREAT | Head hit error ≤ max error for GREAT × 1.1 **AND** combined hit error ≤ max error for GREAT × 2.2 |
+| GOOD | Head hit error ≤ max error for GOOD **AND** combined hit error ≤ max error for GOOD × 2 |
+| OK | Head hit error ≤ max error for OK **AND** combined hit error ≤ max error for OK × 2 |
+| MEH | อื่น ๆ ที่ไม่ใช่ miss |
+| MISS | ไม่ได้กดปุ่มค้างตั้งแต่จุดเริ่ม early MEH window ของ tail ไปจนถึงจุดจบ late OK window |
 
-หากปล่อยปุ่มก่อนกำหนดในระหว่างที่โน้ตยาวกำลังเคลื่อนที่ จะทำให้ผลการตัดสินสูงสุดถูกจำกัดไว้ที่ไม่เกินระดับ MEH
+การปล่อยปุ่มระหว่างตัว hold note จะทำให้ไม่สามารถได้ judgement สูงกว่า MEH
 
-การกดหรือปล่อยในระดับ MEH ที่ช้ากว่าจังหวะ (Late hits) เป็นไปไม่ได้ในระบบนี้ และจะส่งผลให้เป็นการกดพลาด (Miss) แทน
+Late MEH hit หรือ release เป็นไปไม่ได้ และจะกลายเป็น miss แทน
 
 ## ScoreV2
 
-ตัวปรับแต่งเกม [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) มีการเปลี่ยนแปลงกลไกการตัดสินของ osu!mania ดังนี้:
+ม็อด [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) เปลี่ยนบางอย่างเกี่ยวกับกลไก judgement ของ osu!mania:
 
-- ช่วงเวลาการกดระดับ PERFECT จะเปลี่ยนเป็นใช้สูตร `22.4 - 0.6 × OD` (หาก OD ≤ 5) และ `24.9 - 1.1 × OD` (หาก OD ≥ 5)
-- โน้ตยาวจะได้รับการตัดสินแยกกันสองครั้ง คือที่หัวและที่หาง เหมือนกับการกดโน้ตปกติสองตัว
-  - ช่วงเวลาการปล่อยหางโน้ตจะกว้างขึ้นเป็น 1.5 เท่า
-  - หากปล่อยปุ่มก่อนกำหนด จะทำให้การตัดสินที่หางโน้ตถูกจำกัดไว้ที่ไม่เกินระดับ MEH
-  - เช่นเคย การกดหรือปล่อยระดับ MEH ที่ช้ากว่าจังหวะจะส่งผลให้เป็นการกดพลาดทันที
+- PERFECT hit window เปลี่ยนเป็น `22.4 - 0.6 × OD` หาก OD ≤ 5 และ `24.9 - 1.1 × OD` หาก OD ≥ 5
+- Hold note จะได้รับ judgement แยกกันสองครั้งที่ head และ tail เหมือนเป็น note ปกติ
+  - Hit window สำหรับการปล่อย hold note tail จะยาวขึ้น 1.5x<!-- https://github.com/peppy/osu-stable-reference/search?q=SliderEndLenience -->
+  - การปล่อยปุ่มระหว่างตัว hold note จะทำให้ tail judgement สูงกว่า MEH ไม่ได้
+  - เช่นเดิม late MEH hit หรือ release จะกลายเป็น miss แทน

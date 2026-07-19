@@ -4,15 +4,17 @@ tags:
   - BL
 ---
 
-# Blinds (mod)
+# Blinds (ม็อด)
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Blinds
 
-![Blinds mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BL.png)
+![ไอคอนม็อด Blinds](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BL.png)
 
-*เล่นโดยมีม่านบังอยู่บนหน้าจอของคุณ*
+*เล่นโดยมีฉากบังอยู่บนหน้าจอ*
 
 |  |  |
 | :-- | :-- |
@@ -22,14 +24,14 @@ tags:
 | โหมดเกม (Game modes) | ![][osu!] |
 | ตัวคูณคะแนน (Score multiplier) | 1.12x |
 | สถานะ (Status) | Ranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
+| ม็อดที่ใช้ร่วมกันไม่ได้ | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
 
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-**Blinds** mod จะปกคลุมทั่วทั้งหน้าจอด้วย [ประตูโชจิ (Shoji doors)](https://en.wikipedia.org/wiki/Shoji) โดยที่คุณจะไม่สามารถมองเห็น Object ที่อยู่ด้านหลังได้ ยิ่งผู้เล่นพลาด (Miss) ติดต่อกันมากเท่าไหร่ ประตูก็จะยิ่งเปิดกว้างขึ้น ในทางกลับกัน การสะสม Combo จะส่งผลในทางตรงกันข้าม
+ม็อด **Blinds** จะปิดทั้งหน้าจอด้วย [ประตูโชจิ](https://en.wikipedia.org/wiki/Shoji) โดยไม่สามารถมองเห็นวัตถุที่อยู่ด้านหลังได้ ยิ่งผู้เล่น miss ติดต่อกันมากเท่าไร ประตูก็จะยิ่งเปิดมากขึ้น การสร้างคอมโบจะให้ผลตรงกันข้าม
 
-**Mod นี้ไม่สามารถปรับแต่งผ่านการปรับแต่ง (Customisation) ได้**
+**ม็อดนี้ไม่สามารถปรับแต่งผ่าน Customisation ได้**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

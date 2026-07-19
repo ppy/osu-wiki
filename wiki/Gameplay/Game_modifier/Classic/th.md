@@ -4,33 +4,41 @@ tags:
   - CL
 ---
 
-# Classic (mod)
+# Classic (ม็อด)
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Classic
 
-![Classic mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CL.png)
+![ไอคอนม็อด Classic](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CL.png)
 
-*รู้สึกคิดถึงวันวานไหม?*
+*คิดถึงบรรยากาศเก่า ๆ ไหม?*
 
 |  |  |
 | :-- | :-- |
 | ตัวย่อ (Acronym) | CL |
-| ประเภท (Type) | การแปลง (Conversion) |
+| ประเภท (Type) | แปลงรูปแบบการเล่น (Conversion) |
 | โหมดเกม (Game modes) | ![][osu!] ![][osu!taiko] |
 | ตัวคูณคะแนน (Score multiplier) | 0.96x |
 | สถานะ (Status) | Unranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
-| Mod ที่ใช้ร่วมกันไม่ได้ ![][osu!taiko] | ไม่มี |
+| ม็อดที่ใช้ร่วมกันไม่ได้ ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
+| ม็อดที่ใช้ร่วมกันไม่ได้ ![][osu!taiko] | ไม่มี |
 
 :::
 
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-**Classic** mod จะจำลองกลไกการเล่น (Gameplay mechanics) จาก osu!stable ที่ได้มีการเปลี่ยนแปลงไปแล้วในปัจจุบัน
+ม็อด **Classic** จำลองกลไกเกมเพลย์จาก osu!stable ที่ถูกเปลี่ยนไปแล้วในภายหลัง
 
-เมื่อดูผ่าน osu!(lazer) หรือ "โหมด Lazer" บนเว็บไซต์ คะแนนที่ทำไว้ใน osu!stable จะปรากฏว่ามีการเปิดใช้งาน Mod นี้ด้วยค่าเริ่มต้น ซึ่งในกรณีนี้ สถานะ Unranked ของ Mod จะไม่ส่งผลกระทบต่อคะแนนดังกล่าว
+<!-- TODO probably more detail above -->
+
+เมื่อดูจาก osu!(lazer) หรือ "Lazer mode" บนเว็บไซต์ คะแนนที่ทำบน osu!stable จะมีม็อดนี้เปิดใช้งานพร้อมค่าตั้งต้น สถานะ unranked ของม็อดนี้จะไม่ส่งผลต่อคะแนนในกรณีนี้
+
+<!-- TODO settings -->
+
+<!-- explanation of why this is unranked could be interesting to write about here -clayton -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

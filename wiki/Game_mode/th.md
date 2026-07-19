@@ -1,62 +1,62 @@
-# โหมดการเล่น (Game mode)
+# Game mode
 
-osu! มี **โหมดการเล่น** หลักทั้งหมด 4 โหมด ซึ่งแต่ละโหมดจะมีกลไกการเล่นที่แตกต่างกัน โดยได้รับแรงบันดาลใจมาจากเกมแนวจังหวะดนตรีอื่นๆ:
+osu! มี **game modes** ในตัว 4 โหมด ซึ่งมีกลไกต่างกัน และเดิมได้รับแรงบันดาลใจจาก rhythm games อื่น:
 
 - ![][osu!] [osu!](#osu!)
 - ![][osu!taiko] [osu!taiko](#osu!taiko)
 - ![][osu!catch] [osu!catch](#osu!catch)
 - ![][osu!mania] [osu!mania](#osu!mania)
 
-หากต้องการสลับโหมดการเล่น ให้คลิกที่ปุ่ม `Mode` ที่ด้านล่างของหน้าจอเลือกเพลงสำหรับเวอร์ชัน osu!(stable), ใช้ปุ่มที่ด้านบนของหน้าจอสำหรับเวอร์ชัน osu!(lazer) หรือใช้ปุ่มลัดดังนี้:
+หากต้องการสลับโหมด ใน osu!(stable) ให้คลิกปุ่ม `Mode` ที่ด้านล่างของหน้าจอเลือกเพลง ใน osu!(lazer) ให้ใช้ปุ่มด้านบนของหน้าจอ หรือใช้คีย์ลัดเหล่านี้:
 
-- `Ctrl` + `1` สำหรับโหมด osu!
-- `Ctrl` + `2` สำหรับโหมด osu!taiko
-- `Ctrl` + `3` สำหรับโหมด osu!catch
-- `Ctrl` + `4` สำหรับโหมด osu!mania
+- `Ctrl` + `1` สำหรับ osu!
+- `Ctrl` + `2` สำหรับ osu!taiko
+- `Ctrl` + `3` สำหรับ osu!catch
+- `Ctrl` + `4` สำหรับ osu!mania
 
-![อินเทอร์เฟซการเลือกโหมด](/wiki/shared/Interface_mode.png "อินเทอร์เฟซการเลือกโหมดใน osu!(stable)")
+![อินเทอร์เฟซเลือกโหมด](/wiki/shared/Interface_mode.png "อินเทอร์เฟซเลือกโหมดใน osu!(stable)")
 
-![อินเทอร์เฟซการเลือกโหมด](/wiki/shared/Interface_mode_lazer.png "อินเทอร์เฟซการเลือกโหมดใน osu!(lazer)")
+![อินเทอร์เฟซเลือกโหมด](/wiki/shared/Interface_mode_lazer.png "อินเทอร์เฟซเลือกโหมดใน osu!(lazer)")
 
 ## ![][osu!] osu!
 
 *หน้าหลัก: [osu!](osu!)*
 
-*osu!* คือโหมดการเล่นพื้นฐานของเกม โดยผู้เล่นจะต้องทำการกดวงกลม (Circles), ลากตามแถบยาว (Sliders) และหมุนแป้นหมุน (Spinners) ให้ตรงตามจังหวะดนตรี โหมดนี้มีต้นแบบมาจากเกม *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* ของบริษัท [iNiS](https://en.wikipedia.org/wiki/INiS) มาสคอตประจำโหมด osu! คือ [pippi](/wiki/Mascots#pippi) เด็กสาวผมสีชมพูสลับดำ
+*osu!* คือโหมดเริ่มต้น ที่ผู้เล่นต้องกด circles, กดค้างสไลเดอร์, และหมุนสปินเนอร์ให้ตรงจังหวะเพลง โหมดนี้อิงจาก rhythm game ต้นฉบับของ [iNiS](https://en.wikipedia.org/wiki/INiS) อย่าง *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* osu! มีมาสคอตของตัวเองชื่อ [pippi](/wiki/Mascots#pippi) เด็กผู้หญิงผมชมพู/ดำ
 
-![เกมเพลย์ของโหมด osu!](/wiki/shared/osu-gameplay.jpg "osu! gameplay")
+![Gameplay ของ osu!](/wiki/shared/osu-gameplay.jpg "osu! gameplay")
 
 ## ![][osu!taiko] osu!taiko
 
 *หน้าหลัก: [osu!taiko](osu!taiko)*
 
-*osu!taiko* เป็นโหมดที่จำลองการตีกลองไทโกะ โดยผู้เล่นจะใช้คีย์บอร์ดหรือชุดกลองไฟฟ้าในการกดวงกลมที่มีสีแตกต่างกันบนแถบเลื่อนเดียว โหมดนี้มีต้นแบบมาจากซีรีส์เกม *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* ของค่าย [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) มาสคอตประจำโหมด osu!taiko คือ [Mocha](/wiki/Mascots#mocha) เด็กสาวในชุดกิโมโนผมสีเขียวที่ถือไม้กลอง
+*osu!taiko* จำลองการตีกลองจริง โดยผู้เล่นใช้คีย์บอร์ดหรือชุดกลองเพื่อตีวงกลมสีต่างกันบน conveyor เส้นเดียว โหมดนี้อิงจากซีรีส์เกม *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* ที่ผลิตโดย [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) มาสคอตของ osu!taiko คือ [Mocha](/wiki/Mascots#mocha) เด็กผู้หญิงผมเขียวในชุดกิโมโนที่ถือไม้กลอง
 
-![เกมเพลย์ของโหมด osu!taiko](/wiki/shared/taiko-gameplay.jpg "osu!taiko gameplay")
+![Gameplay ของ osu!taiko](/wiki/shared/taiko-gameplay.jpg "osu!taiko gameplay")
 
 ## ![][osu!catch] osu!catch
 
 *หน้าหลัก: [osu!catch](osu!catch)*
 
-*osu!catch* คือโหมดที่ผู้เล่นจะต้องบังคับตัวละครคนรับของเพื่อเก็บผลไม้ที่หล่นลงมาจากด้านบนของหน้าจอให้ตรงตามจังหวะ โหมดนี้ได้รับแรงบันดาลใจมาจากมินิเกม "Catch It!!" ในเวอร์ชันแรกๆ ของ [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm] ซึ่งเป็นโปรแกรมจำลองเกม [Beatmania](https://en.wikipedia.org/wiki/Beatmania) บน PC โดยที่ตัวมินิเกมเองก็ได้รับอิทธิพลมาจากโหมด *EZ2CATCH* ของตู้เกม [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ) มาสคอตประจำโหมด osu!catch คือ [Yuzu](/wiki/Mascots#yuzu) เด็กหนุ่มผมสีฟ้า
+*osu!catch* คือโหมดเกมที่ผู้เล่นควบคุมตัวละคร catcher เพื่อเก็บ fruits ที่ตกลงมาตามจังหวะจากด้านบนของหน้าจอ โหมดนี้อิงแบบหลวม ๆ จากมินิเกม "Catch It!!" ใน build ยุคแรกของ [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm] ซึ่งเป็น simulator ของ [Beatmania](https://en.wikipedia.org/wiki/Beatmania) สำหรับ PC และตัวมันเองได้รับแรงบันดาลใจจากโหมด *EZ2CATCH* ของระบบอาร์เคด [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ) มาสคอตของ osu!catch คือ [Yuzu](/wiki/Mascots#yuzu) เด็กผู้ชายผมฟ้า
 
-![เกมเพลย์ของโหมด osu!catch](/wiki/shared/catch-gameplay.jpg "osu!catch gameplay")
+![Gameplay ของ osu!catch](/wiki/shared/catch-gameplay.jpg "osu!catch gameplay")
 
 ## ![][osu!mania] osu!mania
 
 *หน้าหลัก: [osu!mania](osu!mania)*
 
-*osu!mania* คือโหมดเกมแนวจังหวะดนตรีแบบแถบเลื่อนแนวตั้ง (VSRG) ที่ออกแบบมาเพื่อจำลองการเล่นเปียโน โหมดนี้ถูกนำเสนอและพัฒนาขึ้นหลักๆ โดย [woc2006](https://osu.ppy.sh/users/1105845) และมีต้นแบบมาจากเกมแนวสายพานหลากหลายเกม (เช่น [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) และ [Beatmania](https://en.wikipedia.org/wiki/Beatmania)) มาสคอตประจำโหมด osu!mania คือฝาแฝด [Mani และ Mari](/wiki/Mascots#mani-&-mari) ที่มีผมสีม่วงและม่วงอ่อน
+*osu!mania* คือโหมด vertical scrolling rhythm game (VSRG) ที่ออกแบบเป็น simulator เปียโน โหมดนี้ [ถูกนำเสนอและพัฒนา](https://osu.ppy.sh/community/forums/topics/100751) เป็นหลักโดย [woc2006](https://osu.ppy.sh/users/1105845) และอิงจาก rhythm games แบบ conveyor หลายเกม (โดยเฉพาะ [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) และ [Beatmania](https://en.wikipedia.org/wiki/Beatmania)) มาสคอตของ osu!mania คือฝาแฝด [Mani and Mari](/wiki/Mascots#mani-&-mari) ซึ่งมีผมสีม่วงและม่วงอ่อน
 
-![เกมเพลย์ของโหมด osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania gameplay")
+![Gameplay ของ osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania gameplay")
 
-## โหมดการเล่นที่กำหนดเอง (Custom game modes)
+## Custom game modes
 
-ใน osu!(lazer) ผู้เล่นสามารถติดตั้งโหมดการเล่นที่ชุมชนสร้างขึ้นเอง (หรือที่เรียกว่า custom rulesets) ผ่านไฟล์นามสกุล `.dll` ได้ ซึ่งจะนำเสนอวิธีการเล่นรูปแบบใหม่ๆ โดยใช้คลังบีทแมพที่มีอยู่ใน osu! โหมดการเล่นเหล่านี้มักได้รับแรงบันดาลใจจากเกมแนวจังหวะดนตรีอื่นๆ เช่นกัน
+ใน osu!(lazer) สามารถติดตั้ง custom game modes (หรือที่เรียกว่า custom rulesets) ด้วยตัวเองผ่านไฟล์ `.dll` ได้ โหมดเหล่านี้เพิ่มวิธีเล่นเกมแบบใหม่โดยใช้คลังบีตแมปที่ osu! มีให้ Custom game modes มักได้รับแรงบันดาลใจจาก rhythm games อื่นเช่นเดียวกับโหมดหลัก
 
-คุณสามารถดูรายชื่อโหมดการเล่นที่กำหนดเองทั้งหมดที่มีให้เล่นได้ใน [การสนทนาบน GitHub นี้](https://github.com/ppy/osu/discussions/13096)
+รายชื่อ custom game modes ที่เล่นได้ทั้งหมดดูได้ใน [GitHub discussion นี้](https://github.com/ppy/osu/discussions/13096)
 
-## อ้างอิง (References)
+## อ้างอิง
 
 [^rdm]: [วิดีโอ YouTube โดย peppy (2008-10-15) "rdm catch it! mode"](https://www.youtube.com/watch?v=ZEgzSYiWBtM)
 

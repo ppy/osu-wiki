@@ -4,15 +4,17 @@ tags:
   - BR
 ---
 
-# Barrel Roll (mod)
+# Barrel Roll (ม็อด)
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Barrel Roll
 
-![Barrel Roll mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BR.png)
+![ไอคอนม็อด Barrel Roll](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BR.png)
 
-*ทั้ง Playfield หมุนเหมือนอยู่บนกงล้อ!*
+*ทั้งเพลย์ฟีลด์หมุนเป็นวงล้อ!*
 
 |  |  |
 | :-- | :-- |
@@ -21,10 +23,12 @@ tags:
 | โหมดเกม (Game modes) | ![][osu!] |
 | ตัวคูณคะแนน (Score multiplier) | 1.00x |
 | สถานะ (Status) | Unranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ | [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) |
+| ม็อดที่ใช้ร่วมกันไม่ได้ | [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) |
 
 :::
 
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+<!-- TODO description and settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

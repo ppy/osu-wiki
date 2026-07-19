@@ -1,62 +1,68 @@
-# ความท้าทายประจำวัน (Daily challenge)
+# Daily challenge
 
-**ความท้าทายประจำวัน (Daily challenge)** คือโหมดมัลติเพลเยอร์ใน [osu!(lazer)](/wiki/Client/Release_stream/Lazer) ที่เปิดโอกาสให้ผู้เล่นได้สร้างสถิติการเล่นต่อเนื่อง (Streak) โดยการเล่นบีทแมพประจำวันให้ผ่าน ซึ่งความยากของแมพจะเพิ่มขึ้นเรื่อยๆ และจะรีเซ็ตความยากใหม่ในทุกๆ 7 วัน
+**Daily challenge** คือโหมด multiplayer ใน [osu!(lazer)](/wiki/Client/Release_stream/Lazer) ที่ผู้เล่นสามารถสะสม streak ได้ด้วยการผ่านบีตแมปรายวันต่อเนื่อง โดยความยากจะเพิ่มขึ้นและรีเซ็ตทุก 7 วัน
 
-บีทแมพในโหมดนี้จะถูกคัดเลือกโดยคณะทำงานและส่วนใหญ่จะเป็นเพลงจากโครงการ [Featured Artist](/wiki/People/Featured_Artists) ในบางวัน บีทแมพเหล่านี้อาจจะมีการบังคับใช้ Mod บางอย่าง ซึ่งผู้เล่นจำเป็นต้องเล่นให้ผ่านด้วย Mod นั้นๆ เท่านั้น
+บีตแมปใน challenge จะถูกคัดเลือกโดยกลุ่ม contributor บางครั้งบีตแมปอาจมีธีมตามแนวเพลง ศิลปิน หรือ gimmick เฉพาะ ตอนท้ายของทุกเดือน จะมีหนึ่งสัปดาห์ที่ใช้ไฮไลต์บีตแมปคุณภาพสูงจากเดือนก่อนหน้า ซึ่งดูแลโดยสมาชิกบางส่วนของ [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)
 
-คุณสามารถดูรายการความท้าทายในปัจจุบันและย้อนหลังทั้งหมดได้ที่ [หน้าอันดับความท้าทายประจำวัน](https://osu.ppy.sh/rankings/daily-challenge)
+บางครั้งบีตแมปอาจบังคับให้ผู้ใช้เล่นด้วยม็อดที่กำหนด ทำให้ต้องผ่านบีตแมปพร้อมม็อดนั้น
 
-## เมนูภายในเกม
+สามารถดู daily challenge ปัจจุบันและย้อนหลังทั้งหมดได้ที่[หน้าอันดับ daily challenge](https://osu.ppy.sh/rankings/daily-challenge)
 
-จากเมนูหลัก คุณสามารถเข้าสู่เมนูความท้าทายประจำวันได้ตามขั้นตอนดังนี้:
+## เมนูเกม
 
-1. คลิกปุ่ม `Play` หรือกดปุ่ม `P`
-2. คลิกปุ่ม `Daily Challenge` หรือกดปุ่ม `D`
+จากเมนูหลัก สามารถเข้าเมนู daily challenge ได้ด้วยขั้นตอนต่อไปนี้:
 
-![](img/daily-challenge-menu.png?20250824 "ตัวอย่างหน้าจอเมนูความท้าทายประจำวัน เมื่อวันที่ 24 สิงหาคม 2025")
+1. คลิกปุ่ม `play` หรือกด `P`
+2. คลิกปุ่ม `daily challenge` หรือกด `D`
 
-เมื่อเข้ามาแล้ว ผู้เล่นจะได้พบกับฉากนำเข้า (Intro) ที่แสดงบีทแมพที่จะต้องเล่นและ Mod ที่ถูกบังคับใช้
+![](img/daily-challenge-menu.png?20250824 "Screenshot of the daily challenge menu during August 24, 2025.")
 
-หลังจากจบฉากนำเข้า ผู้เล่นสามารถดูข้อมูลของความท้าทายในวันนั้นได้ โดยด้านซ้ายจะแสดงข้อมูลที่เกี่ยวข้องกับคะแนน เช่น จำนวนผู้ที่เล่นผ่านทั้งหมด และผลรวมคะแนนสะสมของผู้เล่นทุกคน ตรงกลางจะเป็นตารางคะแนน (Leaderboard) ของผู้ที่ทำคะแนนได้สูงสุด และด้านขวาจะเป็นหน้าต่างแชทสำหรับพูดคุยเกี่ยวกับความท้าทายของวันนั้น
+เมื่อเข้าไป ผู้ใช้จะเห็น intro ที่แสดงบีตแมปที่ต้องผ่าน และม็อดที่ต้องใช้เล่น
 
-## ช่วงระดับความยากของบีทแมพ
+หลัง intro จบ ผู้ใช้สามารถดูข้อมูลของ challenge วันนี้ได้ ฝั่งซ้ายจะแสดงข้อมูลที่เกี่ยวกับคะแนนหลายอย่าง เช่น จำนวนผู้ผ่านทั้งหมดและคะแนนรวมสะสม ตรงกลางเป็น leaderboard ที่แสดงคะแนนสูงสุดของผู้เล่น ผู้ใช้สามารถพูดคุยเกี่ยวกับ daily challenge ได้ในแชทฝั่งขวา
 
-![](img/Beatmap-selection-criteria.png "ระดับดาวของบีทแมพที่จะต้องเป็นไปตามเกณฑ์ในแต่ละสัปดาห์")
+## ช่วงความยากของบีตแมป
 
-## ระดับของสถิติการเล่นต่อเนื่อง (Streak milestones)
+![](img/Beatmap-selection-criteria.png "Specific star ratings beatmaps have to follow for the entire week")
 
-สถิติการเล่นต่อเนื่องจะแสดงบนหน้าโปรไฟล์ของผู้ใช้ด้วยสีที่แตกต่างกันตามระดับ (Tier) ที่ทำได้ ดังนี้:
+## Streak milestones
 
-|  | ระดับ (Tier) | การเข้าร่วมรวม | เล่นต่อเนื่องรายวัน | เล่นต่อเนื่องรายสัปดาห์ |
+Play streak จะแสดงบนโปรไฟล์ของผู้ใช้ด้วยสีต่างกันตาม streak milestone บางค่า:
+
+<!-- tier images: https://www.figma.com/design/tc79qAgJ35KQvdTO0Oj3dN/Daily-Challenge-Counter?node-id=0-1&t=xjRm9Ke0tUMtAQlh-1 -->
+
+|  | Tier | Total participation | Daily streak | Weekly streak |
 | --: | :-: | :-: | :-: | :-: |
-| ![ระดับ Lustrous](img/tiers/lustrous.png) | Lustrous | 1,080 วัน | 360 วัน | 53 สัปดาห์ |
-| ![ระดับ Radiant](img/tiers/radiant.png) | Radiant | 720 วัน | 240 วัน | 36 สัปดาห์ |
-| ![ระดับ Rhodium](img/tiers/rhodium.png) | Rhodium | 360 วัน | 120 วัน | 19 สัปดาห์ |
-| ![ระดับ Platinum](img/tiers/platinum.png) | Platinum | 180 วัน | 60 วัน | 10 สัปดาห์ |
-| ![ระดับ Gold](img/tiers/gold.png) | Gold | 90 วัน | 30 วัน | 6 สัปดาห์ |
-| ![ระดับ Silver](img/tiers/silver.png) | Silver | 30 วัน | 10 วัน | 3 สัปดาห์ |
-| ![ระดับ Bronze](img/tiers/bronze.png) | Bronze | 15 วัน | 5 วัน | 2 สัปดาห์ |
-| ![ระดับ Iron](img/tiers/iron.png) | Iron | น้อยกว่า 15 วัน | น้อยกว่า 5 วัน | น้อยกว่า 2 สัปดาห์ |
+| ![Lustrous tier](img/tiers/lustrous.png) | Lustrous | 1080 days | 360 days | 53 weeks |
+| ![Radiant tier](img/tiers/radiant.png) | Radiant | 720 days | 240 days | 36 weeks |
+| ![Rhodium tier](img/tiers/rhodium.png) | Rhodium | 360 days | 120 days | 19 weeks |
+| ![Platinum tier](img/tiers/platinum.png) | Platinum | 180 days | 60 days | 10 weeks |
+| ![Gold tier](img/tiers/gold.png) | Gold | 90 days | 30 days | 6 weeks |
+| ![Silver tier](img/tiers/silver.png) | Silver | 30 days | 10 days | 3 weeks |
+| ![Bronze tier](img/tiers/bronze.png) | Bronze | 15 days | 5 days | 2 weeks |
+| ![Iron tier](img/tiers/iron.png) | Iron | less than 15 days | less than 5 days | less than 2 weeks |
 
-## ผู้มีส่วนร่วม (Contributors)
+## Contributors
 
-โปรเจกต์นี้ดูแลและจัดการโดย ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) โดยมีสมาชิกในชุมชนต่อไปนี้เป็นผู้รับผิดชอบในการคัดเลือกบีทแมพ:
+โปรเจกต์นี้จัดการโดย ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) สมาชิกคอมมูนิตี้ต่อไปนี้รับผิดชอบการคัดเลือกบีตแมป:
 
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
-- ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464)
-- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464)
+- ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327)
+- ::{ flag=IT }:: [gansijiye](https://osu.ppy.sh/users/9704802)
 - ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052)
 - ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
-- ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802)
+- ::{ flag=US }:: [Willy](https://osu.ppy.sh/users/3521482)
+- ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
 
-## เกร็ดน่ารู้ (Trivia)
+## เกร็ดน่ารู้
 
 ::: Infobox
-![](img/yt-comment.jpg "ความคิดเห็นของ waxxx14 บน YouTube ที่เสนอรูปแบบ 'cup of the day'")
+![](img/yt-comment.jpg "waxxx14's YouTube comment suggesting the \"cup of the day\" format")
 :::
 
-- แนวคิดของ Daily challenge ได้รับแรงบันดาลใจมาจากความคิดเห็นของผู้ใช้ waxxx14 ที่เสนอให้นำรูปแบบ "cup of the day" จากเกม [TrackMania](https://en.wikipedia.org/wiki/TrackMania) มาใช้ใน osu! โดยโพสต์ไว้ใต้คอมเมนต์วิดีโอพัฒนา lazer หัวข้อ ["deciding what to do with lazer"](https://www.youtube.com/watch?v=xUSxEjQQ1UI)
-- Daily challenge เปิดตัวให้คนทั่วไปใช้งานครั้งแรกเมื่อวันที่ 25 กรกฎาคม 2024 ในรุ่น osu!(lazer) [2024.725.0](https://osu.ppy.sh/home/changelog/lazer/2024.725.0) โดยเริ่มจาก [โหมดการเล่น osu!](/wiki/Game_mode/osu!) เพียงโหมดเดียว
-- ในช่วงเปิดตัวครั้งแรก ผู้เล่นยังไม่สามารถเลือกใช้ Mod อื่นๆ (Free mods) ได้ และตัวนับจำนวนผู้เล่นที่ผ่านรวมถึงคะแนนรวมสะสมเพิ่งถูกเพิ่มเข้ามาในอัปเดตภายหลัง
+- ไอเดียของ daily challenge มาจากคอมเมนต์ของ waxxx14 ที่เสนอรูปแบบ "cup of the day" จาก [TrackMania](https://en.wikipedia.org/wiki/TrackMania) ให้กับ osu! โดยโพสต์ไว้ใต้คลิปพัฒนา lazer ["deciding what to do with lazer"](https://www.youtube.com/watch?v=xUSxEjQQ1UI)
+- Daily challenge เปิดให้ผู้เล่นทั่วไปใช้เมื่อวันที่ 25 กรกฎาคม 2024 ใน osu!(lazer) public release [2024.725.0](https://osu.ppy.sh/home/changelog/lazer/2024.725.0) สำหรับ[โหมด osu!](/wiki/Game_mode/osu!) เท่านั้น
+- ใน release แรก ไม่สามารถเลือก free mods ได้ และจำนวนผู้ผ่านทั้งหมดกับคะแนนรวมสะสมถูกเพิ่มเข้ามาในอัปเดตภายหลัง

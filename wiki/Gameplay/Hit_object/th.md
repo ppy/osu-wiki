@@ -1,7 +1,7 @@
 ---
 tags:
   - hit objects
-needs_cleanup: true
+needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9921
 ---
 
 <!-- TODO: should also have articles for each hit object -->
@@ -10,15 +10,17 @@ needs_cleanup: true
 
 # วัตถุ (Hit object)
 
-**วัตถุ (Hit objects)** คือองค์ประกอบที่ผู้เล่นสามารถโต้ตอบได้ในระหว่างการเล่น [บีทแมพ (Beatmap)](/wiki/Beatmap) โดยแต่ละ [โหมดการเล่น (Game mode)](/wiki/Game_mode) จะมีชุดของวัตถุที่เป็นเอกลักษณ์เฉพาะตัว ซึ่งทำให้ประสบการณ์การเล่นแตกต่างกันออกไป ตารางด้านล่างแสดงภาพรวมของวัตถุในแต่ละโหมดเกม:
+*Hit objects* คือองค์ประกอบที่ผู้เล่นสามารถโต้ตอบได้ระหว่างเกมเพลย์ของ [บีตแมป](/wiki/Beatmap) แต่ละ [โหมดเกม](/wiki/Game_mode) จะมีชุด hit object เฉพาะตัว ซึ่งทำให้ประสบการณ์การเล่นแตกต่างกันออกไป ดูภาพรวมของ hit object ในแต่ละโหมดเกมได้จากตารางต่อไปนี้:
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [วงกลม (Hit circles)](/wiki/Gameplay/Hit_object/Hit_circle) | [Don และ Kat (Hit)](/wiki/Gameplay/Hit_object/Hit) | [ผลไม้ (Fruits)](/wiki/Gameplay/Hit_object/Fruit) | โน้ต (Notes) |
-| [สไลเดอร์ (Sliders)](/wiki/Gameplay/Hit_object/Slider) | ตีรัว (Drumrolls) | [สายธารน้ำผลไม้ (Juice stream)](/wiki/Gameplay/Hit_object/Juice_stream) | โน้ตยาว (Hold notes) |
-| [สปินเนอร์ (Spinners)](/wiki/Gameplay/Hit_object/Spinner) | สปินเนอร์ (Dendens) | [กล้วย (Bananas)](/wiki/Gameplay/Hit_object/Banana) | x |
-| x | x | [ไฮเปอร์ฟรุต (Hyperfruits)](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
+| [ฮิตเซอร์เคิล](/wiki/Gameplay/Hit_object/Hit_circle) | [Don & Kat](/wiki/Gameplay/Hit_object/Hit) | [ผลไม้](/wiki/Gameplay/Hit_object/Fruit) | โน้ต |
+| [สไลเดอร์](/wiki/Gameplay/Hit_object/Slider) | [ดรัมโรล](/wiki/Gameplay/Hit_object/Drumroll) | [จูซสตรีม](/wiki/Gameplay/Hit_object/Juice_stream) | โน้ตยาว |
+| [สปินเนอร์](/wiki/Gameplay/Hit_object/Spinner) | [สเวลล์](/wiki/Gameplay/Hit_object/Swell) | [กล้วย](/wiki/Gameplay/Hit_object/Banana) | x |
+| x | x | [ไฮเปอร์ฟรุต](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
 
-ในมุมมองของการเขียนโปรแกรม โน้ตยาวในโหมด osu!mania ไม่ได้มีโครงสร้างเหมือนกับสไลเดอร์ในโหมด osu! แต่ได้ถูกจัดกลุ่มไว้ด้วยกันในตารางนี้เพื่อความเข้าใจง่าย ส่วนองค์ประกอบอื่นๆ ที่ผู้เล่นไม่ได้โต้ตอบโดยตรง เช่น แถบพลังชีวิต หรือดาวในช่วง Kiai จะถูกพิจารณาว่าเป็นตัวช่วยเสริมในเกมเพลย์หรือเป็นส่วนหนึ่งของอินเทอร์เฟซผู้ใช้
+ในมุมมองด้านโปรแกรม โน้ตยาวใน osu!mania ไม่ได้เทียบเท่ากับสไลเดอร์ใน osu! แต่ถูกจัดให้อยู่กลุ่มเดียวกันในตารางนี้เพื่อให้เข้าใจง่ายขึ้น องค์ประกอบอื่น ๆ ที่ผู้เล่นไม่ได้โต้ตอบระหว่างเกมเพลย์ เช่น แถบพลังชีวิตหรือดาว Kiai จะถือว่าเป็นส่วนเสริมเกมเพลย์หรือเป็นส่วนหนึ่งของอินเทอร์เฟซผู้ใช้
 
-ในโหมด osu! วัตถุถัดไปที่จะต้องกด (ไม่ว่าจะเป็นวงกลมหรือสไลเดอร์) จะมีการเน้นด้วยการเพิ่มความสว่างเล็กน้อยเมื่อเทียบกับวัตถุอื่นๆ ในสนามเล่น อย่างไรก็ตาม การเน้นความสว่างนี้อาจจะไม่สามารถมองเห็นได้หาก [ความเร็วการปรากฏ (Approach rate)](/wiki/Beatmap/Approach_rate) ของแมพนั้นสูงเกินไป
+ใน osu! ฮิตเซอร์เคิลหรือสไลเดอร์ตัวถัดไปที่ต้องกดจะถูกไฮไลต์ให้สว่างกว่าวัตถุอื่น ๆ บนเพลย์ฟีลด์เล็กน้อย อย่างไรก็ตาม การไฮไลต์นี้จะมองไม่เห็นเมื่อ [AR (อัตราการปรากฏ)](/wiki/Beatmap/Approach_rate) สูงเกินไป
+
+<!-- TODO: Add links to other articles when they're available -->

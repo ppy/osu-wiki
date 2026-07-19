@@ -12,36 +12,36 @@ tags:
 
 ![TP mod icon](/wiki/shared/mods/TP.png "Target Practice (TP) mod icon")
 
-*สำหรับบทความนี้ในเวอร์ชัน [lazer](/wiki/Client/Release_stream/Lazer) ดูที่: [Target Practice (lazer mod)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer))*\
-*สำหรับรายชื่อ Mod ทั้งหมด ดูที่: [Game Modifiers](/wiki/Gameplay/Game_modifier)*\
-*หมายเหตุ: Target Practice mod สามารถเข้าถึงได้เฉพาะในบิลด์ `Cutting Edge` เท่านั้น*
+*สำหรับบทความเวอร์ชัน [lazer](/wiki/Client/Release_stream/Lazer) ดูที่: [Target Practice (lazer mod)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer))*\
+*สำหรับรายชื่อม็อดทั้งหมด ดูที่: [Game Modifiers](/wiki/Gameplay/Game_modifier)*\
+*ข้อควรทราบ: ม็อด Target Practice เข้าถึงได้เฉพาะใน build `Cutting Edge` เท่านั้น*
 
-## เกี่ยวกับ (About)
+## เกี่ยวกับ
 
 - ตัวย่อ: TP
-- ประเภท: พิเศษ (Special)
-- ตัวคูณคะแนน: 1.00x
+- ประเภท: Special
+- Score Multiplier: 1.00x
 - โหมดเกมที่รองรับ: ![][osu!]
 
-## รายละเอียด (Description)
+## คำอธิบาย
 
-*หมายเหตุ: การเปิดใช้งาน Target Practice จะส่งผลให้การเล่นนั้นเป็นแบบ Unranked (ไม่คิดคะแนนจัดอันดับ)*
+*ข้อควรทราบ: การเปิด Target Practice จะทำให้การเล่นเป็น unranked*
 
-**Target Practice** mod เป็น [Game modifier](/wiki/Gameplay/Game_modifier) รุ่นทดลองสำหรับ [osu!](/wiki/Game_mode/osu!) ซึ่งจะนำ [Hit objects](/wiki/Gameplay/Hit_object) ทั้งหมดที่ถูกวางไว้ในแผนที่ออก และแทนที่ด้วย "เป้าหมาย (Targets)" ในรูปแบบที่เรียบง่ายแทน ส่วนใหญ่จะใช้เพื่อความสนุกสนาน แต่ก็มีประโยชน์ในการฝึกจังหวะที่สม่ำเสมอและปรับปรุงความแม่นยำในการกด
+ม็อด **Target Practice** เป็น[ม็อด](/wiki/Gameplay/Game_modifier)ทดลองสำหรับ [osu!](/wiki/Game_mode/osu!) ที่ลบ [hit object](/wiki/Gameplay/Hit_object) ทั้งหมดที่แมปไว้ แล้วแทนที่ด้วยชุด "target" แบบเรียบง่าย ส่วนใหญ่ใช้เล่นสนุก แต่ก็ช่วยฝึก tempo ที่สม่ำเสมอและพัฒนา hit accuracy ได้ด้วย
 
-เมื่อเปิดใช้งาน Target Practice ตัวเกมจะซ่อนแถบพลังชีวิตและมาตรวัดความแม่นยำ ผู้เล่นจะต้องกดเป้าหมายที่ค่อยๆ ปรากฏขึ้นทั่ว [Playfield](/wiki/Client/Playfield) โดยตั้งเป้าที่จะกดให้ตรงจุดศูนย์กลาง และเพื่อให้รักษารัวจังหวะได้คงที่ ผู้เล่นสามารถฟังเสียง Metronome ที่เล่นเป็นพื้นหลังได้
+เมื่อเปิด Target Practice osu! จะซ่อนหลอดชีวิตและมิเตอร์ accuracy ผู้เล่นต้องกด target ที่ค่อย ๆ ปรากฏทั่ว[เพลย์ฟีลด์](/wiki/Client/Playfield) โดยตั้งใจให้โดนตรงกลาง target เพื่อรักษาจังหวะให้คงที่ ผู้เล่นสามารถตามเสียงเมโทรนอมที่เล่นเป็นพื้นหลังได้
 
-เกมจะดำเนินต่อไปจนกว่าจะเกิด [MISS](/wiki/Gameplay/Judgement/osu!) ครั้งแรก ซึ่งจะนำผู้เล่นไปยัง [หน้าสรุปผล (Results screen)](/wiki/Client/Interface#results-screen) ทันที โดยความหมายของเกรด (Grades) ต่างๆ จะคล้ายคลึงกับในโหมด [osu!mania](/wiki/Gameplay/Grade#osu!mania)
+เกมจะดำเนินต่อไปจนถึง [MISS](/wiki/Gameplay/Judgement/osu!) ครั้งแรก ซึ่งจะพาผู้เล่นไปยัง[หน้าผลลัพธ์](/wiki/Client/Interface#results-screen) ความหมายของ grade ต่าง ๆ จะคล้ายกับใน [osu!mania](/wiki/Gameplay/Grade#osu!mania)
 
-## เป้าหมาย (Targets)
+## Targets
 
-เป้าหมายสามารถถือเป็น [Hit circle](/wiki/Gameplay/Hit_object/Hit_circle) ประเภทพิเศษที่ไม่มี [Combo number](/wiki/Beatmapping/Combo) คะแนนและสถานะความแม่นยำจะขึ้นอยู่กับตำแหน่งและเวลาที่กด: ยิ่งกดได้แม่นยำและตรงจังหวะมากเท่าไหร่ ก็จะได้คะแนนมากขึ้นเท่านั้น โดยการกดที่สมบูรณ์แบบจะมีค่า 250 คะแนน ใน Playfield เป้าหมายจะถูกวางเป็นกลุ่มๆ โดยกลุ่มใหม่จะเริ่มขึ้นทุกๆ สอง [จังหวะเต็ม (Full beats)](/wiki/Music_theory/Beat) ระยะห่างภายในกลุ่มจะคงที่และจะเพิ่มขึ้นเล็กน้อยในทุกกลุ่มใหม่
+Target สามารถมองเป็น [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) ชนิดพิเศษที่ไม่มี[เลขคอมโบ](/wiki/Beatmapping/Combo) Hit score และ accuracy ขึ้นอยู่กับตำแหน่งและ timing ที่กด ยิ่งแม่นและเป๊ะมากเท่าไร ก็ยิ่งได้คะแนนมากขึ้น โดย hit ที่สมบูรณ์แบบมีค่า 250 คะแนน บนเพลย์ฟีลด์ target จะถูกวางเป็นกลุ่ม โดยกลุ่มใหม่จะเริ่มทุกสอง [full beat](/wiki/Music_theory/Beat) ระยะห่างภายในกลุ่มจะคงที่และเพิ่มขึ้นเล็กน้อยทุกครั้งที่ขึ้นกลุ่มใหม่
 
-![TP Gameplay](img/TP-gameplay.jpg "ภาพตัวอย่างการเล่น osu! ขณะเปิดใช้งาน Target Practice mod")
+![TP Gameplay](img/TP-gameplay.jpg "osu! gameplay with the Target Practice mod enabled")
 
-## เกร็ดความรู้ (Trivia)
+## เกร็ดน่ารู้
 
-- Target Practice Mod จะใช้ [Combo colours](/wiki/Beatmapping/Combo_colour) จากไฟล์ [skin.ini](/wiki/Skinning/skin.ini) ของ Skin ที่ใช้งานอยู่
-- การเล่นพลาดใน Target Practice จะนำผู้เล่นไปยังหน้าสรุปผลทันที แทนที่จะเป็นหน้าแสดงความพ่ายแพ้ (Fail screen)
+- ม็อด Target Practice ใช้ [combo colour](/wiki/Beatmapping/Combo_colour) จาก [skin.ini](/wiki/Skinning/skin.ini) ของสกินที่ใช้อยู่
+- การ fail ด้วย Target Practice จะพาผู้เล่นไปยังหน้าผลลัพธ์แทนหน้าจอ fail
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

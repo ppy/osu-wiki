@@ -5,29 +5,33 @@ tags:
   - SG
 ---
 
-# Single Tap (mod)
+# Single Tap (ม็อด)
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Single Tap
 
-![Single Tap mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SG.png)
+![ไอคอนม็อด Single Tap](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SG.png)
 
-*![][osu!]: คุณต้องใช้เพียงปุ่มเดียวเท่านั้น!*\
-*![][osu!taiko]: หนึ่งปุ่มสำหรับ Dons และหนึ่งปุ่มสำหรับ Kats*
+*![][osu!]: ต้องใช้คีย์เดียวเท่านั้น!*\
+*![][osu!taiko]: หนึ่งคีย์สำหรับ Don หนึ่งคีย์สำหรับ Kat*
 
 |  |  |
 | :-- | :-- |
 | ตัวย่อ (Acronym) | SG |
-| ประเภท (Type) | การแปลง (Conversion) |
+| ประเภท (Type) | แปลงรูปแบบการเล่น (Conversion) |
 | โหมดเกม (Game modes) | ![][osu!] ![][osu!taiko] |
 | ตัวคูณคะแนน (Score multiplier) | 1.00x |
 | สถานะ (Status) | Unranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate) |
+| ม็อดที่ใช้ร่วมกันไม่ได้ | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate) |
 
 :::
 
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+<!-- TODO description and settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

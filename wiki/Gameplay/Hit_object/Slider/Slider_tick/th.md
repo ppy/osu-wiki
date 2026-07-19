@@ -4,8 +4,6 @@ stub: true
 
 # Slider tick
 
-**Slider ticks** คือจุดขนาดเล็ก (Ticks) ที่ปรากฏอยู่ภายใน [Slider](/wiki/Gameplay/Hit_object/Slider) โดยจำนวนของ Slider tick ที่ใช้ในแต่ละ Slider นั้นจะขึ้นอยู่กับ [Slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), [BPM](/wiki/Music_theory/Tempo) และค่า Inherited timing ที่ส่งต่อมา
+**Slider ticks** คือจุดเล็ก ๆ (ticks) ที่ปรากฏอยู่ภายใน [สไลเดอร์](/wiki/Gameplay/Hit_object/Slider) จำนวน slider tick ที่ใช้ในสไลเดอร์หนึ่งตัวจะขึ้นอยู่กับ [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), [BPM](/wiki/Music_theory/Tempo) และ inherited timing
 
-ในระหว่างการเล่น ผู้เล่นจะเก็บ Slider tick ได้โดยการประคองเคอร์เซอร์ให้อยู่ภายใน Follow circle ของ Slider นั้นๆ ซึ่งเมื่อเก็บได้แล้ว จะช่วยเพิ่ม Combo ทีละหนึ่งแต้มต่อหนึ่ง Slider tick 
-
-หากผู้เล่นไม่สามารถเก็บ Slider tick ได้ครบทั้งหมดใน Slider นั้น พวกเขาจะได้รับคะแนน `100` และทำให้ Combo ขาด (Combo break) ทันที
+ระหว่างเล่น ผู้เล่นจะเก็บ slider tick ได้ด้วยการให้เคอร์เซอร์อยู่ภายใน follow circle ของสไลเดอร์นั้น เมื่อเก็บได้แล้ว คอมโบจะเพิ่มขึ้น 1 ต่อ slider tick ที่เก็บได้ หากผู้เล่นเก็บ slider tick ในสไลเดอร์ได้ไม่ครบ จะได้รับ `100` และคอมโบจะขาด

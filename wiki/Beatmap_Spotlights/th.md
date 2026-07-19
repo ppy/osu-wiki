@@ -9,7 +9,7 @@ tags:
 
 ![โลโก้ Beatmap Spotlights](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-**Beatmap Spotlights** (หรือเรียกสั้นๆ ว่า *Spotlights* เดิมชื่อ *Ranking Charts*) คือโปรแกรมคัดกรองผลงานอย่างต่อเนื่องเพื่อแนะนำและเน้นย้ำถึง [Beatmap](/wiki/Beatmap) ที่มีรูปแบบการเล่นและการออกแบบที่ยอดเยี่ยมและมีเอกลักษณ์ โดยจะมาคู่กับ [ลีกประจำฤดูกาล (Seasonal league)](#ฤดูกาลของ-spotlights (spotlights-seasons)) ซึ่งผู้เล่นจะมาแข่งขันกันในแมพที่ได้รับเลือกเพื่อชิง [รางวัลเหรียญตรา (Badge prizes)](#รางวัล-(rewards))
+**Beatmap Spotlights** (หรือเรียกสั้นๆ ว่า *Spotlights* เดิมชื่อ *Ranking Charts*) คือโปรแกรมคัดกรองผลงานอย่างต่อเนื่องเพื่อแนะนำและเน้นย้ำถึง [Beatmap](/wiki/Beatmap) ที่มีรูปแบบการเล่นและการออกแบบที่ยอดเยี่ยมและมีเอกลักษณ์ โดยจะมาคู่กับ [ลีกประจำฤดูกาล (Seasonal league)](#ฤดูกาลของ-spotlights-spotlights-seasons) ซึ่งผู้เล่นจะมาแข่งขันกันในแมพที่ได้รับเลือกเพื่อชิง [รางวัลเหรียญตรา (Badge prizes)](#รางวัล-rewards)
 
 ฤดูกาลปัจจุบันคือ Winter 2026
 

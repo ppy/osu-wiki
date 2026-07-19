@@ -4,15 +4,17 @@ tags:
   - ST
 ---
 
-# Strict Tracking (mod)
+# Strict Tracking (ม็อด)
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Strict Tracking
 
-![Strict Tracking mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/ST.png)
+![ไอคอนม็อด Strict Tracking](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/ST.png)
 
-*เมื่อคุณเริ่มลาก Slider แล้ว ต้องตามให้แม่นยำไม่งั้นจะพลาด (Miss)*
+*เมื่อเริ่มสไลเดอร์แล้ว ต้องตามให้เป๊ะ ไม่งั้น miss*
 
 |  |  |
 | :-- | :-- |
@@ -22,14 +24,14 @@ tags:
 | โหมดเกม (Game modes) | ![][osu!] |
 | ตัวคูณคะแนน (Score multiplier) | 1.00x |
 | สถานะ (Status) | Unranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) |
+| ม็อดที่ใช้ร่วมกันไม่ได้ | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) |
 
 :::
 
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-**Strict Tracking** mod จะทำให้เกิดการพลาด (Miss) ทุกครั้งที่ผู้เล่นไม่ได้ติดตาม [Slider](/wiki/Gameplay/Hit_object/Slider) ให้อยู่ภายใน Follow circle อย่างแม่นยำ ซึ่งรวมถึงการพลาด [Slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick), [Slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail), การไม่กดค้างผ่านเส้นทาง Slider ที่ว่างเปล่า และการอยู่นอก Follow circle ไม่ว่าจะเป็นช่วงเวลาใดก็ตาม
+ม็อด **Strict Tracking** จะทำให้เกิด miss ทุกครั้งที่ผู้เล่นไม่ได้ตาม follow circle ของ [สไลเดอร์](/wiki/Gameplay/Hit_object/Slider) อย่างแม่นยำ ซึ่งรวมถึงการพลาด [slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick), [ท้ายสไลเดอร์](/wiki/Gameplay/Hit_object/Slider/Slidertail), การไม่กดค้างผ่านเส้นทางสไลเดอร์ว่าง ๆ และการอยู่นอก follow circle ไม่ว่าจะนานแค่ไหนก็ตาม
 
-**Mod นี้ไม่สามารถปรับแต่งผ่านการปรับแต่ง (Customisation) ได้**
+**ม็อดนี้ไม่สามารถปรับแต่งผ่าน Customisation ได้**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

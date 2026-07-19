@@ -6,28 +6,28 @@ tags:
 
 # Kiai time
 
-*สำหรับกฎระเบียบเกี่ยวกับการใช้งาน Kiai time ดูที่: [เกณฑ์การพิจารณา Ranked (Ranking criteria)](/wiki/Ranking_criteria)*
+*สำหรับกฎเกี่ยวกับ kiai time ดูที่: [Ranking criteria](/wiki/Ranking_criteria)*
 
 ::: Infobox
-![](img/kiai-time-osu-gameplay.png "น้ำพุดาวในช่วงเริ่มต้นของช่วง Kiai ในโหมด osu!")
+![](img/kiai-time-osu-gameplay.png "Fountains at the start of a kiai section of an osu! beatmap")
 :::
 
 ::: Infobox
-![](img/kiai-time-taiko-gameplay.png "Kiai time ในโหมด osu!taiko: pippidon กำลังดีใจและสายพานเปลี่ยนเป็นสีม่วง")
+![](img/kiai-time-taiko-gameplay.png "Kiai time in osu!taiko: ecstatic pippidon and violet-tinted conveyor belt")
 :::
 
-**Kiai time** หรือเรียกสั้นๆ ว่า **Kiai** (เคไอ) คือชุดของเอฟเฟกต์ภาพที่โดดเด่นเพื่อเน้นย้ำส่วนสำคัญของ [บีทแมพ (Beatmap)](/wiki/Beatmap) ซึ่งได้รับแรงบันดาลใจมาจากระบบ Go-Go Time จากซีรีส์เกม [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)[^taiko-roots] ช่วง Kiai สังเกตได้จากน้ำพุดาวที่พุ่งออกมา, ดาวที่ร่วงหล่นจากใต้เคอร์เซอร์ และ [วัตถุ (Hit objects)](/wiki/Gameplay/Hit_object) ที่กระพริบตามจังหวะ [BPM](/wiki/Music_theory/Tempo) ของเพลง เอฟเฟกต์ที่คล้ายกันนี้ เช่น การกระพริบด้านข้างและน้ำพุดาว ยังสามารถพบเห็นได้ในหน้า [เมนูหลัก](/wiki/Client/Interface#main-menu) ของเกมอีกด้วย
+**Kiai time** หรือ *kiai* คือชุดเอฟเฟกต์ภาพที่เน้นบางช่วงของ[บีตแมป](/wiki/Beatmap) โดยได้แรงบันดาลใจ[^taiko-roots]มาจาก Go-Go Time ในซีรีส์ [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) ช่วง kiai จะแสดงด้วยเอฟเฟกต์น้ำพุดาว ดาวที่ตกลงมาจากใต้เคอร์เซอร์ และ[hit object](/wiki/Gameplay/Hit_object) ที่กะพริบตามจังหวะด้วยความถี่ของ [BPM](/wiki/Music_theory/Tempo) เอฟเฟกต์ที่คล้ายกัน เช่น แสงวาบด้านข้างบ่อย ๆ และน้ำพุดาว ยังเห็นได้ใน[เมนูหลัก](/wiki/Client/Interface#main-menu)ด้วย
 
-แม้ว่า Kiai time จะไม่มีผลต่อกลไกของเกมในโหมด osu!, osu!catch หรือ osu!mania แต่สำหรับโหมด [osu!taiko](/wiki/Game_mode/osu!taiko) ช่วงเวลานี้จะช่วยเพิ่ม [คะแนน (Score)](/wiki/Gameplay/Score) ที่ได้รับขึ้นอีก 20%
+แม้ kiai time จะไม่ส่งผลต่อกลไกการเล่นใน osu!, osu!catch หรือ osu!mania แต่ใน [osu!taiko](/wiki/Game_mode/osu!taiko) จะให้[คะแนน](/wiki/Gameplay/Score)เพิ่มขึ้น 20%
 
-## การทำบีทแมพ (Beatmapping)
+## Beatmapping
 
 ::: Infobox
-![](img/kiai-time-editor.png "ตัวบ่งชี้ Kiai time ในตัวแก้ไขแมพ โดยช่วง Kiai จะแสดงเป็นแถบสีส้มที่ไทม์ไลน์ด้านล่าง")
+![](img/kiai-time-editor.png "Kiai time indicator in the beatmap editor. The kiai section has orange colour on the bottom timeline")
 :::
 
-Kiai time มักถูกนำมาใช้ในส่วนที่หนักแน่นที่สุดของเพลง ซึ่งโดยปกติจะเป็นท่อนฮุค (Chorus) โดยส่วนดังกล่าวมักจะมีความท้าทายในการเล่นมากกว่าส่วนอื่นๆ ของบีทแมพ Mapper สามารถเปิดใช้งาน Kiai time ได้ในบางช่วงของ [Timing sections](/wiki/Client/Beatmap_editor/Timing) ผ่านแถบ `Style` ในหน้าต่าง `Timing and Control Points` ทั้งนี้ผู้เล่นไม่สามารถปิดการแสดงผล Kiai time ได้
+Kiai time มักใช้กับช่วงที่พีคที่สุดของเพลง ซึ่งโดยทั่วไปคือท่อนฮุก และช่วงเหล่านี้มักท้าทายกว่าส่วนอื่นของบีตแมป แมปเปอร์สามารถเปิด kiai time ให้กับ [timing section](/wiki/Client/Beatmap_editor/Timing) บางช่วงได้จากแท็บ `Style` ในแผง `Timing and Control Points` และผู้เล่นไม่สามารถปิดเองได้
 
-## อ้างอิง (References)
+## อ้างอิง
 
 [^taiko-roots]: [วิดีโอ YouTube โดย Dean Herbert "osu! "Kiai Time" preview"](https://www.youtube.com/watch?v=1iFHftUNMrE)

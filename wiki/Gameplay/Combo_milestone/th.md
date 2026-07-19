@@ -4,10 +4,8 @@ tags:
   - comboburst
 ---
 
-# Combo milestone (จุดแจ้งเตือนคอมโบ)
+# Combo milestone
 
-**Combo milestones** คือจำนวน [คอมโบ](/wiki/Gameplay/Combo_(score_multiplier)) เฉพาะที่ตัวเกมจะแสดงเอฟเฟกต์ดาวพุ่งและแสดงรูปภาพ [Comboburst](/wiki/Gameplay/Comboburst) (หากเปิดใช้งานไว้ในเมนู [การตั้งค่า](/wiki/Client/Options)) โดยมีรายละเอียดในแต่ละโหมดเกมดังนี้:
+**Combo milestone** คือชุดค่า[คอมโบ](/wiki/Gameplay/Combo_(score_multiplier))เฉพาะที่ทำให้เกมยิงดาวออกมาและแสดง comboburst ถ้าเปิดใช้งานไว้ใน[ตัวเลือก](/wiki/Client/Options) สำหรับ [osu!](/wiki/Game_mode/osu!) และ [osu!catch](/wiki/Game_mode/osu!catch) ค่า combo milestone คือ 30x, 60x, 100x และทุก ๆ 50 หลังจาก 100 ส่วน [osu!taiko](/wiki/Game_mode/osu!taiko) จะเป็นทุก ๆ 50 combo และ [osu!mania](/wiki/Game_mode/osu!mania) จะเป็นทุก ๆ 100 combo
 
-- ในโหมด [osu!](/wiki/Game_mode/osu!) และ [osu!catch](/wiki/Game_mode/osu!catch): จุดแจ้งเตือนอยู่ที่ 30x, 60x, 100x และทุกๆ 50 คอมโบหลังจาก 100 เป็นต้นไป
-- ในโหมด [osu!taiko](/wiki/Game_mode/osu!taiko): จุดแจ้งเตือนอยู่ที่ทุกๆ พหุคูณของ 50 คอมโบ
-- ในโหมด [osu!mania](/wiki/Game_mode/osu!mania): จุดแจ้งเตือนอยู่ที่ทุกๆ พหุคูณของ 100 คอมโบ
+<!--TODO: Add images and links-->

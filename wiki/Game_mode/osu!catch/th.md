@@ -1,120 +1,120 @@
 # osu!catch
 
-osu!catch (เดิมชื่อ *Catch the Beat* หรือ *CtB*) คือโหมดการเล่นที่ผู้เล่นต้องบังคับตัวละครคนรับของเพื่อ "รับ" ผลไม้ที่หล่นลงมาให้ตรงตามจังหวะดนตรี
+osu!catch เดิมรู้จักกันในชื่อ *Catch the Beat* หรือ *CtB* คือโหมดเกมที่ผู้เล่นต้องควบคุม catcher ซึ่งมีหน้าที่ *catch* fruits ที่ตกลงมาตามจังหวะเพลง
 
-## การเลือกเพลง
+## Song selection
 
-หากต้องการเข้าสู่โหมดการเล่น osu!catch ให้กดปุ่ม `Ctrl` + `3` พร้อมกัน, คลิกที่ปุ่ม `Mode` แล้วเลือก `osu!catch` สำหรับเวอร์ชัน osu!(stable) หรือคลิกที่ไอคอน ![](/wiki/shared/mode/catch.png) ที่ด้านบนของหน้าจอสำหรับเวอร์ชัน osu!(lazer)
+หากต้องการเข้าโหมดเกม osu!catch ให้กด `Ctrl` + `3` พร้อมกัน ใช้ปุ่ม `Mode` แล้วเลือก `osu!catch` ใน osu!(stable) หรือคลิกไอคอน ![](/wiki/shared/mode/catch.png) ที่ด้านบนของหน้าจอใน osu!(lazer)
 
-หากต้องการดาวน์โหลดบีทแมพเพิ่มเติมสำหรับ osu!catch สามารถไปที่ [หน้ารายการบีทแมพ](https://osu.ppy.sh/beatmapsets) บนเว็บไซต์ osu! หรือหากอยู่ในเวอร์ชัน osu!(lazer) ให้กดปุ่ม `Ctrl` + `B` หรือคลิกที่ปุ่ม `beatmap listing`
+หากต้องการดาวน์โหลดบีตแมปเพิ่มสำหรับ osu!catch ให้ไปที่ [beatmap listing](https://osu.ppy.sh/beatmapsets) บนเว็บไซต์ osu! หรือใน osu!(lazer) ให้กด `Ctrl` + `B` หรือคลิกปุ่ม `beatmap listing`
 
-![ปุ่มหน้ารายการบีทแมพใน osu!(lazer)](/wiki/shared/lazer_beatmap_listing.png)
+![ปุ่ม beatmap listing ใน osu!(lazer)](/wiki/shared/lazer_beatmap_listing.png)
 
-## การควบคุมผู้เล่น (Player control)
+## Player control
 
-ในโหมด osu!catch ผู้เล่นต้องรับผลไม้ที่หล่นลงมาโดยการบังคับ **ตัวละครคนรับ** (หรือที่เรียกว่า "ถาดรอง") ตามจังหวะของเพลง โดยค่าเริ่มต้นปุ่มที่ใช้ควบคุมคือ:
+ใน osu!catch ผู้เล่นต้อง catch fruits ที่ตกลงมาด้วยการควบคุม **catcher** (หรือที่เรียกว่า "platter") ให้ตรงกับจังหวะเพลง โดยค่าเริ่มต้น ปุ่มสำหรับควบคุมการเคลื่อนที่ของ catcher คือ:
 
-- ปุ่มลูกศรซ้าย `<-` และขวา `->` หรือปุ่ม `Z` และ `X` เพื่อเลื่อนตัวละครไปทางซ้ายและขวาตามลำดับ
-- กดปุ่ม `Shift` ซ้าย หรือคลิกเมาส์ซ้ายค้างไว้เพื่อใช้งานการ *วิ่ง (Dash)* ซึ่งจะสังเกตได้จากการที่ตัวละครจะ *ส่องแสงสว่าง* และทิ้งภาพเงา (Afterimage) ไว้ขณะเคลื่อนที่ การวิ่งจะมีความเร็ว **เป็นสองเท่า** ของการเดินปกติ
+- ปุ่มซ้าย `<-` และขวา `->` หรือ `Z` และ `X` เพื่อขยับ catcher ไปทางซ้ายและขวาตามลำดับ
+- กดปุ่ม `Shift` ซ้ายหรือปุ่มเมาส์ซ้ายค้างไว้เพื่อเปิดสถานะ *dash* ซึ่งสังเกตได้จาก platter ที่ *เรืองแสงชัด* และทิ้ง afterimage ขณะเคลื่อนที่ การเคลื่อนที่ในสถานะ dash จะเร็วกว่า movement ปกติ **สองเท่า**
 
-ตำแหน่งของเคอร์เซอร์เมาส์จะไม่มีผลต่อการเล่น เว้นแต่จะเปิดใช้งาน [Mod Relax](/wiki/Gameplay/Game_modifier/Relax) ซึ่งจะทำให้ตัวละครเคลื่อนที่ตามเคอร์เซอร์โดยตรง
+ตำแหน่งของเคอร์เซอร์เมาส์ *ไม่มี* ผลต่อ gameplay เว้นแต่ม็อด [relax](/wiki/Gameplay/Game_modifier/Relax) จะเปิดอยู่ ซึ่งจะทำให้ platter ตามเคอร์เซอร์โดยตรง
 
-## วัตถุในเกม (Hit objects)
+## Hit objects
 
-osu!catch มี [วัตถุ (Hit objects)](/wiki/gameplay/Hit_object) หลักทั้งหมด 3 ประเภท:
+osu!catch มี [hit objects](/wiki/gameplay/Hit_object) หลัก 3 แบบที่ผู้เล่นต้องโต้ตอบด้วย:
 
-- ผลไม้ (Fruits)
-- สายธารน้ำผลไม้ (Juice streams)
-- ห่ากล้วย (Banana showers)
+- Fruits
+- Juice streams
+- Banana showers
 
-### ผลไม้ (Fruits)
+### Fruits
 
-![รูปภาพของผลไม้](/wiki/shared/Catch_fruits.jpg "ผลไม้ในโหมด osu!catch")
+![ภาพ fruits](/wiki/shared/Catch_fruits.jpg "fruits from osu!catch")
 
-**ผลไม้** คือวัตถุที่เรียบง่ายที่สุดในโหมดนี้ ผู้เล่นเพียงแค่เลื่อนตัวละครไปรองใต้ผลไม้เพื่อให้มันตกลงบนถาดแทนที่จะหล่นพื้น
+**Fruits** คือออบเจกต์ประเภทที่ง่ายที่สุดใน osu!catch สิ่งที่ผู้ใช้ต้องทำคือขยับ catcher ไปอยู่ใต้ fruit เพื่อให้มันตกลงบนจานแทนที่จะตกผ่านไป
 
-ผลไม้ที่รับได้จะได้การตัดสินระดับ `GREAT` เสมอ โดยให้คะแนน 300 คะแนน และเพิ่มคอมโบ 1 ครั้ง
+Fruits ที่เก็บได้จะให้ judgement `GREAT` เสมอ โดยให้ 300 คะแนนต่อชิ้นและเพิ่มคอมโบ 1
 
-### สายธารน้ำผลไม้ (Juice streams)
+### Juice streams
 
-**สายธารน้ำผลไม้** โดยทั่วไปจะประกอบด้วยผลไม้ที่จุดเริ่มต้นและจุดสิ้นสุด ระหว่างนั้นจะเป็นเส้นทางที่ประกอบด้วยหยดน้ำขนาดเล็กและขนาดใหญ่ โดยหยดน้ำขนาดใหญ่จะทำหน้าที่เหมือนจุดจังหวะ (Slider ticks) สายธารน้ำผลไม้สามารถมีลูกศรย้อนกลับได้เหมือนกับสไลเดอร์ในโหมดปกติ
+**Juice stream** โดยทั่วไปมี fruits สองชิ้นที่จุดเริ่มและจุดจบ ระหว่างจุดเริ่มและจุดจบจะมี path ที่ประกอบด้วย droplets ขนาดเล็กและใหญ่ โดย droplets ขนาดใหญ่ทำหน้าที่เหมือน slider ticks Juice streams สามารถย้อนกลับได้เช่นเดียวกับสไลเดอร์
 
-หยดน้ำขนาดเล็กให้คะแนน 10 คะแนนและไม่มีผลต่อคอมโบ ในขณะที่หยดน้ำขนาดใหญ่ให้คะแนน 30 คะแนนและเพิ่มคอมโบ 1 ครั้ง หากรับพลาดจะทำให้คอมโบหลุด (ยกเว้นหยดน้ำขนาดเล็ก)
+Droplets ขนาดเล็กให้ 10 คะแนนต่อชิ้นและไม่ส่งผลต่อคอมโบ ส่วน droplets ขนาดใหญ่ให้ 30 คะแนนต่อชิ้นและเพิ่มคอมโบ 1 หากเก็บได้ ต่างจาก droplets ขนาดเล็ก การพลาด droplet ขนาดใหญ่จะรีเซ็ตคอมโบ
 
-### ห่ากล้วย (Banana showers)
+### Banana showers
 
-![รูปภาพของห่ากล้วย](/wiki/shared/Catch_bananas.jpg "ห่ากล้วยที่กำลังทำงาน")
+![ภาพ banana shower](/wiki/shared/Catch_bananas.jpg "An active banana shower")
 
-เมื่อ **ห่ากล้วย** ปรากฏขึ้น กล้วยจำนวนมากจะหล่นลงมาจากท้องฟ้าและค่อยๆ เล็กลง การรับกล้วย (หรือพลาด) จะไม่มีผลต่อคอมโบ แต่หากรับได้จะได้คะแนนกล้วยละ 1,100 คะแนน และช่วยฟื้นฟูพลังชีวิตที่เสียไปบางส่วน คะแนนกล้วยจะคงที่ที่ 1,100 คะแนนเสมอโดยไม่สน Mod หรือตัวคูณคอมโบ
+ระหว่างที่ **banana shower** ทำงาน bananas ขนาดใหญ่จะตกจากฟ้าและหดเล็กลง การเก็บ bananas (หรือพลาด) ไม่ส่งผลต่อคอมโบ แต่ถ้าเก็บได้จะให้ 1,100 score ต่อชิ้น และฟื้นฟู health ที่หายไปบางส่วนของผู้เล่น banana แต่ละชิ้นจะให้ 1,100 score เสมอ ไม่ขึ้นกับม็อดและ combo multiplier
 
-เป็นที่น่าสังเกตว่า [Mod Auto](/wiki/Gameplay/Game_modifier/Auto) จะพยายามเก็บกล้วย *ทุกใบ* โดยไม่พลาดเลย แม้ว่าในเกมเพลย์ปกติจะเป็นไปไม่ได้ก็ตาม
+ที่น่าสังเกตคือม็อด [auto](/wiki/Gameplay/Game_modifier/Auto) จะพยายามเก็บ bananas *ทั้งหมด* ให้ได้โดยไม่พลาด แม้ว่าจะเป็นไปไม่ได้ในการเล่นปกติก็ตาม
 
-## Hyperfruits (ไฮเปอร์ฟรุต)
+## Hyperfruits
 
-![รูปภาพของไฮเปอร์ฟรุตและตัวละครที่กำลังทำไฮเปอร์แดช](/wiki/shared/Catch_hyperfruits.jpg "ไฮเปอร์ฟรุตใน osu!catch")
+![ภาพ hyperfruits และ catcher ที่กำลังทำ hyperdash](/wiki/shared/Catch_hyperfruits.jpg "osu!catch hyperfruits")
 
-**Hyperfruits** คือผลไม้ชนิดพิเศษที่จะปรากฏขึ้นเมื่อผลไม้โน้ตถัดไปอยู่ไกลเกินกว่าที่จะวิ่งไปรับได้ด้วยการวิ่งปกติ
+**Hyperfruits** คือ fruits ประเภทพิเศษที่จะปรากฏเมื่อ fruit ถัดไปอยู่ไกลเกินกว่าจะเก็บได้ด้วย dash ปกติ
 
-การเก็บไฮเปอร์ฟรุตจะเปลี่ยนการวิ่งธรรมดาให้กลายเป็น *Hyperdash* ซึ่งจะทำให้ตัวละครเคลื่อนที่เร็วขึ้นมากจนสามารถไปรับผลไม้โน้ตถัดไปได้ทัน ในขณะที่ทำไฮเปอร์แดช ตัวละครจะส่องแสงสีแดงและทิ้งภาพเงาสีแดงไว้ที่จุดเก็บ ไฮเปอร์แดชจะคงอยู่จนกว่าจะรับผลไม้โน้ตถัดไปได้หรือปล่อยให้มันหล่น
+การเก็บ hyperfruit จะอัปเกรด dash ของ catcher เป็น *hyperdash* ซึ่งทำให้ platter เคลื่อนที่เร็วพอที่จะเก็บ fruit ถัดไปได้ ระหว่างทำ hyperdash catcher จะเรืองแสงสีแดงและทิ้ง *afterimage* สีแดงชั่วคราวไว้ที่จุดเก็บ hyperdash จะทำงานจนกว่า fruit ถัดไปจะถูกเก็บหรือพลาด
 
-ไฮเปอร์ฟรุตสังเกตได้จากสีแดงที่ล้อมรอบผลไม้ (ตามสกินพื้นฐาน)
+Hyperfruits สังเกตได้จากสีแดงเฉพาะตัวที่ล้อมรอบ hyperfruit ตามค่าเริ่มต้น
 
-## การตั้งค่าความยาก (Difficulty settings)
+## Difficulty settings
 
-osu!catch มีการตั้งค่าความยาก 3 อย่างที่มีผลต่อเกมเพลย์:
+osu!catch มี difficulty settings 3 ค่า โดยแต่ละค่ามีผลต่อ gameplay ต่างกัน:
 
-- [ขนาดวงกลม (Circle size)](/wiki/Beatmap/Circle_size) - มีผลต่อขนาดของถาดรองและผลไม้
-- [อัตราการลดพลังชีวิต (HP drain)](/wiki/Beatmap/HP_drain_rate)
-- [ความเร็วการปรากฏ (Approach rate)](/wiki/Beatmap/Approach_rate)
-- [ความยากโดยรวม (Overall difficulty)](/wiki/Beatmap/Overall_difficulty) (เฉพาะระบบคะแนน ScoreV1)
+- [Circle size](/wiki/Beatmap/Circle_size)
+- [HP drain](/wiki/Beatmap/HP_drain_rate)
+- [Approach rate](/wiki/Beatmap/Approach_rate)
+- [Overall difficulty](/wiki/Beatmap/Overall_difficulty) (ScoreV1 เท่านั้น)
 
-ในโหมดนี้ค่าเหล่านี้มักเรียกสั้นๆ ว่า CS, HP, AR และ OD ตามลำดับ
+แต่ละค่ามักถูกเรียกว่า CS, HP, AR, และ OD ตามลำดับ
 
-ในเวอร์ชัน osu!(lazer) ผู้เล่นสามารถปรับแต่งค่าเหล่านี้ได้ตามใจชอบผ่าน [Mod Difficulty Adjust](/wiki/Gameplay/Game_modifier/Difficulty_Adjust)
+ใน osu!(lazer) แต่ละค่าปรับตามความต้องการของผู้ใช้ได้ด้วยม็อด [Difficulty Adjust](/wiki/Gameplay/Game_modifier/Difficulty_Adjust)
 
-## สไตล์การเล่น (Play styles)
+## Play styles
 
-*หน้าหลัก: [สไตล์การเล่น § osu!catch](/wiki/Gameplay/Play_style#osu!catch)*
+*หน้าหลัก: [Play style § osu!catch](/wiki/Gameplay/Play_style#osu!catch)*
 
-## การคิดคะแนน (Scoring)
+## Scoring
 
-[คะแนนในโหมด osu!catch](/wiki/Gameplay/Score/ScoreV1/osu!catch) มาจากผลรวมของหลายส่วนประกอบ ดังนี้:
+[Score ใน osu!catch](/wiki/Gameplay/Score/ScoreV1/osu!catch) คือผลรวมแบบถ่วงน้ำหนักของหลายองค์ประกอบใน gameplay โดยขึ้นอยู่กับสิ่งต่อไปนี้:
 
-- [การตัดสิน (Judgement)](/wiki/Gameplay/Judgement) จะให้คะแนนคงที่สำหรับวัตถุแต่ละชิ้นที่รับได้ และไม่ขึ้นอยู่กับความแม่นยำของจังหวะที่รับ
-- [คอมโบ (Combo)](/wiki/Gameplay/Combo_(score_multiplier)) ทำหน้าที่เป็นตัวคูณคะแนน: การรับวัตถุในขณะที่มีคอมโบสูงจะให้คะแนนรวมมากกว่าตอนคอมโบต่ำ ในโหมด osu!catch คอมโบจะ [หลุด (Broken)](/wiki/Gameplay/Judgement/Combobreak) หากรับผลไม้หรือหยดน้ำขนาดใหญ่พลาด ซึ่งจะทำให้พลังชีวิตลดลงด้วย
-- [ความแม่นยำ (Accuracy)](/wiki/Gameplay/Accuracy#osu!catch) แสดงถึงจำนวนรวมของวัตถุที่รับได้ทั้งหมดเทียบกับที่หล่นลงมา หยดน้ำขนาดเล็กที่รับพลาดจะทำให้ความแม่นยำลดลงแต่ไม่ทำให้คอมโบหลุด
+- [Judgement](/wiki/Gameplay/Judgement) ให้ค่าคะแนนคงที่สำหรับ hit object แต่ละตัวที่เก็บได้เท่านั้น และไม่ได้ขึ้นอยู่กับ hit accuracy
+- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) คือ score multiplier: การเคลียร์ hit object จะมีผลต่อ total score มากขึ้นเมื่อคอมโบสูง และกลับกัน ใน osu!catch คอมโบอาจถูก[ตัด](/wiki/Gameplay/Judgement/Combobreak)ด้วยการพลาด fruit หรือ drop ขนาดใหญ่ ซึ่งจะลด[พลังชีวิต](/wiki/Gameplay/Health)ด้วย
+- [Accuracy](/wiki/Gameplay/Accuracy#osu!catch) แสดงจำนวนออบเจกต์ทั้งหมดที่เก็บได้ Droplets ขนาดเล็กจะลด accuracy เมื่อพลาด แต่ไม่ตัดคอมโบ
 
-หลังจากเล่นจบแมพ คะแนนจะถูกจัดลำดับเป็น [เกรด (Grade)](/wiki/Gameplay/Grade#osu!catch) SS สีทองหรือเงินหมายถึงความแม่นยำ 100% ส่วนเกรดอื่นๆ ตั้งแต่ S ถึง D จะขึ้นอยู่กับจำนวนวัตถุที่พลาด
+หลังเล่นบีตแมปจบ score จะได้รับ [grade](/wiki/Gameplay/Grade#osu!catch) ซึ่งเป็นการประเมิน accuracy แบบสั้น ๆ ในรูปของตัวอักษรหนึ่งตัว SS สีทองหรือสีเงินหมายถึง accuracy 100% ส่วนที่เหลือตั้งแต่ S ถึง D ขึ้นอยู่กับจำนวนออบเจกต์ที่พลาด
 
-## การทำ Skin
+## Skinning
 
-*หน้าหลัก: [การทำ Skin ของ osu!catch](/wiki/Skinning/osu!catch)*
+*หน้าหลัก: [Skinning/osu!catch](/wiki/Skinning/osu!catch)*
 
-## การทำแมพ (Beatmapping)
+## Beatmapping
 
-### หมายเหตุสำหรับการแปลงแมพ (Conversion)
+### osu! conversion notes
 
-- ตำแหน่งในแนวนอน (แกน X) เป็นตัวกำหนดจุดตกของผลไม้ (Hit circle) หรือสายธารน้ำผลไม้ (Slider)
-- รูปลักษณ์จะอิงตามจังหวะที่ตั้งไว้สำหรับการเก็บ
-- ความเร็วของเส้นทางผลไม้จะใกล้เคียงกับความเร็วของลูกบอลสไลเดอร์
-- Spinner จะถูกแปลงเป็นห่ากล้วย
+- ตำแหน่งแกนแนวนอนกำหนดจุดตกของ fruits (hit circle) หรือ juice streams (slider)
+- ลักษณะการปรากฏขึ้นอยู่กับ timing ที่ตั้งไว้เพื่อเคลียร์ตามปกติ
+- ความเร็วของ fruit trails คล้ายกับความเร็ว slider ball
+- สปินเนอร์สร้าง banana showers
 
-**หมายเหตุ:** ไฮเปอร์ฟรุตจะถูกสร้างขึ้นโดยอัตโนมัติโดยระบบของเกม
+**หมายเหตุ:** Hyperfruits ถูกสร้างโดยอัตโนมัติ
 
-## เกร็ดน่ารู้ (Trivia)
+## Trivia
 
-### เกมเพลย์
+### Gameplay
 
-- [Mod Auto](/wiki/Gameplay/Game_modifier/Auto) จะเก็บกล้วยได้ครบทุกใบเสมอ และชื่อผู้เล่นจะแสดงเป็น *"osu!salad"*
-- หากเปิดใช้งาน `Hit-error` ระบบจะแสดงผลเป็นแบบ `Colour` เสมอ
-- ตัวละครคนรับสามารถเลื่อนไปมาได้ในช่วงเวลาพัก (Break)
-- ตัวละครมีแอนิเมชันตอนรับพลาด คล้ายกับ pippidon ในโหมด Taiko
-- ตัวละครคนรับแบบพื้นฐานคนแรกคือ Ryuuta Ippongi ในเวอร์ชันชิบิ (จาก [ซีรีส์ Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)) และถูกแทนที่ในปี 2014 ด้วยตัวละครปัจจุบันคือ [Yuzu](/wiki/Mascots#yuzu)
+- ม็อด [Auto](/wiki/Gameplay/Game_modifier/Auto) จะเก็บ bananas ทั้งหมด *เสมอ* และชื่อผู้เล่นจะแสดงเป็น *"osu!salad"*
+- หากเปิด `Hit-error` ไว้ จะใช้การตั้งค่า `Colour` เสมอ
+- Catcher สามารถขยับไปมาได้ระหว่าง break ใด ๆ
+- Catcher มี miss animation คล้ายกับ miss animation ของ pippidon ใน osu!taiko
+- Catcher เริ่มต้นตัวแรกคือเวอร์ชัน chibi ของ Ryuuta Ippongi (จาก[ซีรีส์ ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)) เขาถูกแทนที่ในปี 2014 ด้วย default catcher และมาสคอตปัจจุบัน [Yuzu](/wiki/Mascots#yuzu)
 
-### ประวัติความเป็นมา (History)
+### History
 
-![โลโก้ osu!catch ในเมนูพิเศษ](/wiki/shared/Ctb_logo.jpg "Catch the Beat logo in Special Mode")
+![โลโก้ osu!catch ใน Special Modes](/wiki/shared/Ctb_logo.jpg "Catch the Beat logo in Special Mode")
 
-- จนกระทั่งวันที่ 10 เมษายน 2012 แมพโหมด osu!catch ไม่สามารถได้รับสถานะ Ranked ได้ แต่ปัจจุบัน Mapper สามารถสร้างและทำให้แมพเฉพาะโหมด osu!catch ได้รับการ Ranked ได้หากปฏิบัติตาม [เกณฑ์การพิจารณา Ranked ของ osu!catch](/wiki/Ranking_criteria/osu!catch)
-- บีทแมพแรกที่ได้รับการ Ranked และมีระดับความยากโหมด osu!catch อย่างน้อยหนึ่งระดับคือ [Yousei Teikoku - Dare so Ka no Gekka (TV Size)](https://osu.ppy.sh/beatmapsets/13676) โดยเป็นแมพของ ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) และมีระดับความยากรับเชิญโหมด catch โดย ::{ flag=CN }:: [Uran](https://osu.ppy.sh/users/133302)
-- บีทแมพแรกที่เป็นโหมด osu!catch ล้วนและได้รับการ Ranked คือ [Rita - Hajimari no Toki](https://osu.ppy.sh/beatmapsets/91485) ซึ่งสร้างและดูแลโดย ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)
+- จนถึงวันที่ 10 เมษายน 2012 แมป osu!catch ยังไม่สามารถ ranked หรือถูกรวมอยู่ในแมป ranked ได้ อย่างไรก็ตาม ปัจจุบันไม่เป็นเช่นนั้นแล้ว และแมปเปอร์สามารถสร้างและ rank ระดับความยากหรือ mapsets เฉพาะ osu!catch ได้ หากทำตาม [ranking criteria](/wiki/Ranking_criteria/osu!catch)
+- บีตแมป ranked แรกที่มีระดับความยาก osu!catch อย่างน้อยหนึ่งระดับคือ [Yousei Teikoku - Dare so Ka no Gekka (TV Size)](https://osu.ppy.sh/beatmapsets/13676) โดย mapset โฮสต์โดย ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) และ guest difficulty ของ osu!catch แมปโดย ::{ flag=CN }:: [Uran](https://osu.ppy.sh/users/133302)
+- บีตแมปเฉพาะ osu!catch ที่ ranked เป็นชุดแรกคือ [Rita - Hajimari no Toki](https://osu.ppy.sh/beatmapsets/91485) ซึ่งโฮสต์และสร้างโดย - ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)

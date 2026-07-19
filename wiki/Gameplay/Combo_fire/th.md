@@ -3,16 +3,16 @@ tags:
   - combo flame
 ---
 
-# Combo fire (ไฟคอมโบ)
+# Combo fire
 
 ::: Infobox
-![](img/combo-fire.jpg "ไฟคอมโบสีเหลือง ส้ม และแดง (สำหรับคอมโบที่ต่ำกว่า 500)")
+![](img/combo-fire.jpg "Yellow, orange, and red combo fire (below 500 combo)")
 :::
 
 ::: Infobox
-![](img/blue-combo-fire.jpg "ไฟคอมโบสีน้ำเงิน (สำหรับคอมโบที่สูงกว่า 500)")
+![](img/blue-combo-fire.jpg "Blue combo fire (above 500 combo)")
 :::
 
-**Combo fire** คือองค์ประกอบพื้นหลังในขณะเล่นเกมที่มีต้นกำเนิดมาจากเกม [Osu! Tatakae! Ouendan!](/wiki/iNiS_games) บนเครื่อง Nintendo DS และถูกนำมาใช้ใน osu! ในช่วงเวลาหนึ่ง เอฟเฟกต์นี้จะแสดงเปลวไฟสีเหลืองเผาไหม้หลังจากที่ผู้เล่นทำคอมโบได้ถึงจุดที่กำหนด ([Combo milestone](/wiki/Gameplay/Combo_milestone)) ครั้งแรก หากผู้เล่นทำ [คอมโบ](/wiki/Gameplay/Combo_(score_multiplier)) ได้ถึง 500 ครั้ง ไฟคอมโบจะเปลี่ยนจากสีเหลืองเป็นสีน้ำเงิน เปลวไฟจะดับลงทันทีเมื่อคอมโบหลุด และจะปรากฏขึ้นมาใหม่เมื่อผู้เล่นเริ่มสะสมคอมโบได้อีกครั้ง
+**Combo fire** เคยเป็นองค์ประกอบพื้นหลังระหว่างเล่นที่มีต้นกำเนิดมาจากเกม DS [Osu! Tatakae! Ouendan!](/wiki/iNiS_games) และต่อมาถูกนำเข้ามาใน osu! เอฟเฟกต์นี้จะแสดงเปลวไฟสีเหลืองหลังผู้เล่นทำถึง [combo milestone](/wiki/Gameplay/Combo_milestone) ครั้งแรก หากผู้เล่นทำ[คอมโบ](/wiki/Gameplay/Combo_(score_multiplier))ถึง 500 combo สีของไฟจะเปลี่ยนจากเหลืองเป็นน้ำเงิน ไฟจะดับเมื่อคอมโบขาด และจะกลับมาอีกครั้งเมื่อทำคอมโบได้ใหม่
 
-เอฟเฟกต์ Combo fire ถูกปิดการใช้งานตั้งแต่วันที่ 5 มีนาคม 2013 เนื่องจากปัญหาด้านประสิทธิภาพของตัวเกม
+Combo fire ถูกปิดใช้งานเมื่อวันที่ 5 มีนาคม 2013 เนื่องจากปัญหาด้านประสิทธิภาพ

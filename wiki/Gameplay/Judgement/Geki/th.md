@@ -2,49 +2,49 @@
 tags:
   - "300"
   - perfect
-needs_cleanup: true
+needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9613
 ---
 
 # Geki
 
 *ดูเพิ่มเติม: [Katu](/wiki/Gameplay/Judgement/Katu)*
 
-**Geki (激)** หรือ *Elite Beat!* คือคำศัพท์ที่ใช้ในระบบ [การตัดสิน (Judgement)](/wiki/Gameplay/Judgement) เมื่อผู้เล่นสามารถจบชุด [คอมโบ (Combo)](/wiki/Beatmapping/Combo) ได้ด้วยระดับ [ความแม่นยำ (Accuracy)](/wiki/Gameplay/Accuracy) สูงสุดในทุกๆ โน้ตของชุดนั้น การได้รับ Geki จะช่วยเพิ่มพลังชีวิต (HP) ได้มากกว่าการได้ระดับ 300 ปกติในชุดคอมโบที่ไม่สมบูรณ์
+**Geki (激)** หรือ *Elite Beat!* คือคำใน [judgement](/wiki/Gameplay/Judgement) ที่ใช้เมื่อ[คอมโบ](/wiki/Beatmapping/Combo)หนึ่งชุดถูกจบด้วย[ความแม่นยำ](/wiki/Gameplay/Accuracy)สูงสุดที่เป็นไปได้ในทุกโน้ต โดยจะให้ HP เพิ่มมากกว่าการได้ 300 ตัวสุดท้ายในคอมโบที่ไม่ perfect
 
-Geki มีที่มาจากเกมบนเครื่อง Nintendo DS ชื่อ [Elite Beat Agents](/wiki/iNiS_games) ซึ่งเป็นเกมที่เป็นแรงบันดาลใจให้กับระบบการเล่นของ [osu!](/wiki/Game_mode/osu!)
+Geki มาจากเกม Nintendo DS [Elite Beat Agents](/wiki/iNiS_games) ซึ่งเป็นต้นแบบเกมเพลย์ของ [osu!](/wiki/Game_mode/osu!)
 
 ## ภาพตัวอย่าง
 
-![Geki ในเกม Elite Beat Agents](img/eba-bornlove-300g.jpg "Geki in Elite Beat Agents")
+![Geki in Elite Beat Agents](img/eba-bornlove-300g.jpg "Geki in Elite Beat Agents")
 
-![Geki ในเกม Osu! Tatakae! Ouendan! 2](img/oto-sambomaster-300g.jpg "Geki in Osu! Tatakae! Ouendan! 2")
+![Geki in Osu! Tatakae! Ouendan! 2](img/oto-sambomaster-300g.jpg "Geki in Osu! Tatakae! Ouendan! 2")
 
-![Geki ในเกม osu!](img/osu-lonelest-300g.jpg "Geki in osu!")
+![Geki in osu!](img/osu-lonelest-300g.jpg "Geki in osu!")
 
-## โหมดการเล่นอื่นๆ
+## โหมดเกมอื่น
 
 ### osu!taiko
 
-ในโหมด osu!taiko คำว่า Geki จะแสดงให้เห็นเฉพาะในหน้าสรุปผลการเล่น เพื่อบอกจำนวนครั้งที่กดโน้ตขนาดใหญ่ได้สมบูรณ์แบบ (กดพร้อมกันทั้งสองฝั่ง)
+Geki จะแสดงเฉพาะบนหน้าผลลัพธ์สำหรับการตีโน้ตใหญ่สำเร็จ
 
 ### osu!catch
 
-โหมด osu!catch ไม่มีระบบ Geki
+osu!catch ไม่มี Geki
 
 ### osu!mania
 
-ในโหมด osu!mania คำว่า Geki หมายถึงการกดที่ตรงจังหวะเวลาอย่างสมบูรณ์แบบที่สุด โดยใน Skin พื้นฐานจะแสดงเป็นตัวเลข `300` สีรุ้ง (มักเรียกกันว่า MAX) ให้คะแนนพื้นฐาน 320 คะแนน แต่จะมีค่าความแม่นยำเท่ากับ 300 ปกติ
+ใน osu!mania Geki หมายถึง hit ที่ตรงเวลาอย่างสมบูรณ์แบบ และ sprite ของ osu!mania จะเป็น `300` สีรุ้ง ซึ่งมักเรียกว่า MAX ค่าคะแนนของมันคือ 320 แต่มีค่า accuracy เท่ากับ 300 ปกติ
 
 ## Storyboard
 
-### เกมบนเครื่อง DS
+### เกม DS
 
-การได้รับ Geki จะไปกระตุ้นเลเยอร์ที่ดีที่สุดของ Storyboard ในระหว่างการเล่น ซึ่งมักจะแสดงฉากที่ตัวละครมีจิตวิญญาณฮึกเหิมอย่างมาก
+Geki จะ trigger tier ที่ดีที่สุดบน storyboard ระหว่างเล่น ซึ่งมักแสดงพลังใจที่แข็งแกร่งมากในช่วงนั้น
 
 ### osu!
 
-การได้รับ Geki จะไปกระตุ้นเหตุการณ์ต่างๆ ในเกมดังนี้:
+การได้ Geki จะ trigger เหตุการณ์หลายอย่าง:
 
-- ปิดการทำงานของ [Fail Layer](/wiki/Storyboard/Scripting/General_Rules#layers) (เลเยอร์เมื่อเล่นพลาด)
-- เปิดการทำงานของ [Pass Layer](/wiki/Storyboard/Scripting/General_Rules#layers) (เลเยอร์เมื่อเล่นผ่าน)
-- กระตุ้นเหตุการณ์ "Passing" หากสถานะก่อนหน้านี้เป็น "Fail"
+- [Fail Layer](/wiki/Storyboard/Scripting/General_Rules#layers) ถูกปิดใช้งาน
+- [Pass Layer](/wiki/Storyboard/Scripting/General_Rules#layers) ถูกเปิดใช้งาน
+- เหตุการณ์ "Passing" จะถูก trigger หากสถานะก่อนหน้าคือ "Fail"

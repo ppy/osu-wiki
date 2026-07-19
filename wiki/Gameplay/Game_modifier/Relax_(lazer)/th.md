@@ -8,28 +8,32 @@ tags:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Relax
 
 ![Relax mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RX.png)
 
-*![][osu!]: คุณไม่จำเป็นต้องกดคลิก ปล่อยให้นิ้วที่ใช้คลิกหรือเคาะของคุณได้พักจากความดุเดือดบ้าง*\
-*![][osu!taiko]: ไม่ต้องจำอีกต่อไปว่าปุ่มไหนเป็นปุ่มไหน!*\
-*![][osu!catch]: ใช้เมาส์ในการควบคุมตัวรับผลไม้*
+*![][osu!]: You don't need to click. Give your clicking/tapping fingers a break from the heat of things.*\
+*![][osu!taiko]: No need to remember which key is correct anymore!*\
+*![][osu!catch]: Use the mouse to control the catcher.*
 
 |  |  |
 | :-- | :-- |
-| ตัวย่อ (Acronym) | RX |
-| ประเภท (Type) | การทำงานอัตโนมัติ (Automation) |
-| ปุ่มลัดเริ่มต้น (Default shortcut key) | `C` |
-| โหมดเกม (Game modes) | ![][osu!] ![][osu!taiko] ![][osu!catch] |
-| ตัวคูณคะแนน (Score multiplier) | 0.10x |
-| สถานะ (Status) | Unranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised) |
+| Acronym | RX |
+| Type | Automation |
+| Default shortcut key | `C` |
+| Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] |
+| Score multiplier | 0.10x |
+| Status | Unranked |
+| Incompatible mods | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) |
 
 :::
 
-*สำหรับบทความนี้ในเวอร์ชัน osu!stable ดูที่: [Relax (mod)](/wiki/Gameplay/Game_modifier/Relax)*\
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับบทความเวอร์ชัน osu!stable ดูที่: [Relax (mod)](/wiki/Gameplay/Game_modifier/Relax)*\
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+<!-- TODO description and settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

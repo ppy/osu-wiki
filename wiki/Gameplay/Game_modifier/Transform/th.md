@@ -4,15 +4,17 @@ tags:
   - TR
 ---
 
-# Transform (mod)
+# Transform (ม็อด)
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### Transform
 
-![Transform mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TR.png)
+![ไอคอนม็อด Transform](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TR.png)
 
-*ทุกอย่างจะหมุนไปหมด ทุกอย่างจริงๆ*
+*ทุกอย่างหมุน ทุกอย่างจริง ๆ*
 
 |  |  |
 | :-- | :-- |
@@ -21,10 +23,12 @@ tags:
 | โหมดเกม (Game modes) | ![][osu!] |
 | ตัวคูณคะแนน (Score multiplier) | 1.00x |
 | สถานะ (Status) | Unranked |
-| Mod ที่ใช้ร่วมกันไม่ได้ | [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| ม็อดที่ใช้ร่วมกันไม่ได้ | [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
 
-*สำหรับรายชื่อ Mod ของ [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+*สำหรับรายชื่อม็อด [lazer](/wiki/Client/Release_stream/Lazer) ทั้งหมด ดูที่: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+
+<!-- TODO description and settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
