@@ -11,7 +11,7 @@ osu!'s curtains unveil a new symphony.
 
 Blending grandiose orchestral sounds with metal instrumentation, **Otsukisama Koukyoukyoku** (translated to English as "Moonlight Symphony") crafts narrative-driven music packed with equal parts intensity and emotion. 
 
-If you've ever played music games in an arcade (or even your phone), you might already recognize **Otsukisama Koukyoukyoku** from titles like *maimai*, *SOUND VOLTEX*, *MUSECA*, *Arcaea*, *Lanota* and *Cytus II*. As of today, we're slipping osu! into that list.
+If you've ever played music games in an arcade (or even your phone), you might already recognise **Otsukisama Koukyoukyoku** from titles like *maimai*, *SOUND VOLTEX*, *MUSECA*, *Arcaea*, *Lanota* and *Cytus II*. As of today, we're slipping osu! into that list.
 
 **19** songs are forever immortalized on [**Otsukisama Koukyoukyoku**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/553), each timed and primed for your next map.
 
