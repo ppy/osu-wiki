@@ -1,6 +1,6 @@
 # Paket-paket beatmap lama
 
-Paket beatmap telah menjadi bagian yang tak terpisahkan dari komunitas osu! sejak [pertama kali diperkenalkan](https://osu.ppy.sh/community/forums/topics/1853) oleh ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) pada tahun 2008, di mana pada kala itu paket-paket beatmap tertentu telah dijadikan syarat untuk dapat membuka [medali-medali yang ada](/wiki/Medals). Meskipun demikian, dengan perkembangan osu! yang semakin pesat seiring tahunnya, beatmap-beatmap yang ada juga ikut berevolusi dan—karena permintaan yang besar dari publik—[pada tanggal 16 Januari 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) tim osu! merombak ulang isi berbagai paket beatmap yang ada agar tidak lekang termakan zaman.
+Paket beatmap telah menjadi bagian yang tak terpisahkan dari komunitas osu! sejak [pertama kali diperkenalkan](https://osu.ppy.sh/community/forums/topics/1853) oleh ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) pada tahun 2008, di mana pada kala itu paket-paket beatmap tertentu telah dijadikan syarat untuk dapat membuka [medali-medali yang ada](/wiki/Medals). Meskipun demikian, dengan perkembangan osu! yang semakin pesat seiring tahunnya, beatmap-beatmap yang ada juga ikut berevolusi dan—karena permintaan yang besar dari publik—[pada tanggal 18 Januari 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) tim osu! merombak ulang isi berbagai paket beatmap yang ada agar tidak lekang termakan zaman.
 
 Berikut ini merupakan komposisi asli dari paket-paket beatmap yang bersangkutan sebelum mereka dirombak ulang sebagaimana yang telah disebutkan di atas.
 
@@ -12,7 +12,8 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [LuigiHann](https://osu.ppy
 
 Tautan unduhan:
 
-- [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn)
+- [MediaFire](https://www.mediafire.com/file/8lhawybcuqucnw1)
+- [Google Drive](https://drive.google.com/file/d/1NULGFJOHN7v4Ea8rYv9eTqwZeGIBExk2)
 
 Daftar beatmap:
 
@@ -20,7 +21,7 @@ Daftar beatmap:
 - [Chieco Kawabe - Sakura Kiss](https://osu.ppy.sh/beatmapsets/147)
 - [Hirano Aya - Hare Hare Yukai](https://osu.ppy.sh/beatmapsets/301)
 - [Access - Doubt & Trust](https://osu.ppy.sh/beatmapsets/442)
-- [Pokemon - Pokerap](https://osu.ppy.sh/beatmapsets/551)
+- [Pokemon - Pokerap](https://osu.ppy.sh/beatmapsets/511)
 - [Hirano Aya (Haruhi Suzumiya) - God Knows](https://osu.ppy.sh/beatmapsets/584)
 - [Manzo - My-Pace Daiou](https://osu.ppy.sh/beatmapsets/842)
 - [Younha - Houkiboshi](https://osu.ppy.sh/beatmapsets/897)
@@ -37,6 +38,7 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [LuigiHann](https://osu.ppy
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?722os55j52ikylq)
+- [Google Drive](https://drive.google.com/file/d/1yPZILb9Xx5fwnHEjWMf--LeysydGaeuN)
 
 Daftar beatmap:
 
@@ -61,6 +63,7 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: [Larto](https://osu.ppy.sh/
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b)
+- [Google Drive](https://drive.google.com/file/d/1VDbDV5S-sM5XEpKrawoaF8oLAs6bQPrK)
 
 Daftar beatmap:
 
@@ -85,6 +88,7 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [DeathxShinigami](https://o
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv)
+- [Google Drive](https://drive.google.com/file/d/1_9_SrlZLFLyFuoCS7D2kMfXM3HoCGs5R)
 
 Daftar beatmap:
 
@@ -110,7 +114,8 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [LuigiHann](https://osu.ppy
 
 Tautan unduhan:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/6mev3rqllfehoo2)
+- [Google Drive](https://drive.google.com/file/d/18guMH62Qz-_d9N5XxJ9u7xN1uz36zhvJ)
 
 Daftar beatmap:
 
@@ -134,7 +139,8 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: [Larto](https://osu.ppy.sh/
 
 Tautan unduhan:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/fa3mowpssw768u9)
+- [Google Drive](https://drive.google.com/file/d/1eAPVDYmerJ0XRektY65HnQJxP19uoaXO)
 
 Daftar beatmap:
 
@@ -158,7 +164,8 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: [Larto](https://osu.ppy.sh/
 
 Tautan unduhan:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/3js4iqmbiuwnjvl)
+- [Google Drive](https://drive.google.com/file/d/1g4txYURnG-TsqYwMUDdFvyHP1cXUy3xY)
 
 Daftar beatmap:
 
@@ -182,7 +189,8 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [DeathxShinigami](https://o
 
 Tautan unduhan:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/2hzig08nwo0qybz)
+- [Google Drive](https://drive.google.com/file/d/1Yp72hTfSMv3U0Vj8BVRhtdBxGF387Rob)
 
 Daftar beatmap:
 
@@ -209,6 +217,7 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [LuigiHann](https://osu.ppy
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob)
+- [Google Drive](https://drive.google.com/file/d/11FAggRirdCVIvZdnOxAMsgL-vW7_4aMO)
 
 Daftar beatmap:
 
@@ -233,6 +242,7 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: [Larto](https://osu.ppy.sh/
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?axvxrnx637767ls)
+- [Google Drive](https://drive.google.com/file/d/1ayAalcJxTEZUSpvIghow20d7WTND2i-Q)
 
 Daftar beatmap:
 
@@ -257,6 +267,7 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=DE }:: [Larto](https://osu.ppy.sh/
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?781tio8fge7y7d2)
+- [Google Drive](https://drive.google.com/file/d/1dVvau6Okaon_8RfpmnrcChpLaVssbYoi)
 
 Daftar beatmap:
 
@@ -281,6 +292,7 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [DeathxShinigami](https://o
 Tautan unduhan:
 
 - [MediaFire](https://www.mediafire.com/?6hc29ws6j36dcag)
+- [Google Drive](https://drive.google.com/file/d/1JS66ZdT7Lu9w08L9ehxbqTO4sQW95YLh)
 
 Daftar beatmap:
 
@@ -306,7 +318,8 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [LuigiHann](https://osu.ppy
 
 Tautan unduhan:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/3jbn2u4f8xq9mvz)
+- [Google Drive](https://drive.google.com/file/d/1CmHDJ47-byxgfv-qIKyaWAIk9ltU9o4Q)
 
 Daftar beatmap:
 
@@ -330,7 +343,8 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [LuigiHann](https://osu.ppy
 
 Tautan unduhan:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/pxkhq3glo6pl25y)
+- [Google Drive](https://drive.google.com/file/d/1_-zqQEVaaz3A2tMIsKsJF5S8Pp1EgvIj)
 
 Daftar beatmap:
 
@@ -354,7 +368,8 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [Seibei4211](https://osu.pp
 
 Tautan unduhan:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/wbpub78tjatwe8z)
+- [Google Drive](https://drive.google.com/file/d/1gK-lQcP706D97U5eE67zX5sestYCvaT5)
 
 Daftar beatmap:
 
@@ -378,7 +393,8 @@ Paket beatmap ini diperkenalkan oleh ::{ flag=US }:: [DeathxShinigami](https://o
 
 Tautan unduhan:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/anvtgtiwmp0qq2v)
+- [Google Drive](https://drive.google.com/file/d/1cfWT7israZ06VKxuZrN7XpJhBthc_y2y)
 
 Daftar beatmap:
 

@@ -63,7 +63,7 @@ The tables below list all user tags grouped by category as well as the game mode
 | Tag name | Description | Game mode |
 | :-- | :-- | :-- |
 | [streams/doubles](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fdoubles%22%22) | Patterns requiring consecutively tapping 2 note groups. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [streams/quads](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fquads%22%22) | Patterns requiring consecutively tapping 2 note groups. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [streams/quads](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fquads%22%22) | Patterns requiring consecutively tapping 4 note groups. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [streams/bursts](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fbursts%22%22) | Patterns requiring consecutively tapping 5-9 note groups. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [streams/stamina](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fstamina%22%22) | Tests a player\'s ability to tap dense rhythms over long periods of time. | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | [streams/speed](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fspeed%22%22) | A map that requires constant tapping at high BPMs. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
