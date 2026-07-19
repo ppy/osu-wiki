@@ -10,37 +10,17 @@ Diese Seite beschäftigt sich mit einigen Aufgaben, die beim Beitragen zu erledi
 
 ## Die Verzweigung synchronisieren
 
-Um Änderungen an einem Repository auf GitHub vorzunehmen, muss sich ein Mitwirkender eine isolierte Kopie des Repositorys beschaffen, welche *Verzweigung* (Fork) genannt wird. Wenn du deine Verzweigung des Repositorys `osu-wiki` erstellst, fertigst du eine Momentaufnahme des Inhalts zu diesem Augenblick an. Um einen sinnhaften Beitrag zu erstellen, **synchronisiere immer deine Verzweigung**, bevor du Änderungen vornimmst — das kann direkt in GitHub gemacht werden:
+::: Infobox
+![](img/update-branch.png?1 "Den veralteten Branch aktualisieren")
+:::
+
+Eine *Verzweigung* (Fork) is eine Momentaufnahme des ursprünglichen Repositorys, die sich nicht von allein aktualisiert. Um immer in der aktuellsten Version des osu!-Wikis zu arbeiten, musst du sie synchronisieren bevor du Änderungen vornimmst. Das kann direkt in GitHub gemacht werden:
 
 1. Gehe zu deiner Verzweigung des Repositorys `osu-wiki`.
-
 2. Wähle den Branch `master` aus dem Dropdown-Menü aus.
-
-3. Klicke auf `Fetch upstream` und wähle `Fetch and merge`.
-
-   ![](img/update-branch.png "Den nicht mehr aktuellen Branch aktualisieren")
-
-Jetzt ist dein Branch auf demselben Stand wie das ursprüngliche Repository.
-
----
-
-Obwohl diese Lösung in den meisten Fällen problemlos funktioniert, hat die Funktion selbst nur begrenzte Möglichkeiten. Zum Beispiel wird nicht erlaubt, nicht gewollte Änderungen auf dem Branch zu überschreiben, da es nur den vorangehenden Branch `master` zusammenführt.
-
-Wenn du während der Verwendung des GitHub-Tools auf irgendwelche Probleme stößt oder du den Inhalt eines Branches überschreiben möchtest, kannst du den Workflow benutzen, der von den Verantwortlichen des osu!-Wikis geschrieben wurde.
-
-1. Öffne **deine Verzweigung** und gehe zum Tab `Actions`.
-
-2. Schaue auf der linken Seitenleiste nach `Sync with ppy:master`.
-
-3. Klicke auf `Run workflow` und fülle die Optionen aus:
-
-   ![Screenshot des Formulars auf der GitHub-Webseite, das unten beschrieben wird](img/github-actions-workflow-dispatch.png "Workflowmenü der GitHub-Action")
-
-   - **Use workflow from**: Name des Branches, der synchronisiert werden soll. Standardmäßig ist das auf `master` eingestellt.
-   - **Create a backup of the selected branch**: Erstellt eine Kopie deines Branches namens `{Name des Branches}-backup`, bevor der ursprüngliche Branch verändert wird.
-   - **Overwrite all history of the selected branch**: Ersetzt den ausgewählten Branch mit dem Branch `ppy:master`, wodurch alle neuen Commits des ausgewählten Branches verworfen werden. Standardmäßig werden die Änderungen mit denen von `ppy:master` zusammengeführt.
-
-4. Klicke auf den Button `Run Workflow` und warte ab, bis der Workflow abgeschlossen ist. Wenn du wissen möchtest, wie das Tool funktioniert, klicke auf die Workflow-Aufgabe `Sync with ppy:master`.
+3. Klicke auf `Sync fork`.
+   - Falls du am Branch `master` Änderungen vorgenommen hast, die du behalten möchstest, klicke auf `Update branch`, um diese zu erhalten.
+   - Falls du von vorn beginnen möchtest und deine Änderungen nicht mehr benötigst, klicke auf `Discard n commit(s)`.
 
 ## Änderungen vornehmen
 

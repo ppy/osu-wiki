@@ -126,6 +126,6 @@ Check out [Ryuusei Aika](https://osu.ppy.sh/users/7777875)'s [mapset of *FLOP ER
 
 Thank you to all the teams that participated in the first phase! Seeing all your incredible maps has very much so made the whole experience worth it.
 
-Best of luck to the teams that have proceeded to the final round. For complete and up-to-date details on songs, rules, and judging, join the [Vocaloid Appreciation Team Discord](https://discord.com/invite/EruvDHaReY) and check the [contest website](https://www.vat.gg/vmc3) or [wiki page](/wiki/Contests/VMC/3).
+Best of luck to the teams that have proceeded to the final round. For complete and up-to-date details on songs, rules, and judging, join the [Vocaloid Appreciation Team Discord](https://discord.com/invite/EruvDHaReY) and check the [contest website](https://www.vat.gg/things-we-do/mapping-contests/vmc3) or [wiki page](/wiki/Contests/VMC/3).
 
 —-White

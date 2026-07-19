@@ -116,4 +116,4 @@ BN 申请者需要提交他们在过去 6 个月内，在 3 张谱面（分属�
 
 - 申请未通过
 - 被踢出 BN 团队
-- [标准流程辞职](/wiki/People/Nomination_Assessment_Team/Evaluations#standard-terms)
+- [普通离职](/wiki/People/Nomination_Assessment_Team/Evaluations#普通离职)

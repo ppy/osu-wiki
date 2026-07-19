@@ -129,7 +129,7 @@ outdated_since: ae84174eff84817bb8e81adebf452128f27ea51c
 
 ### 누가 프로필 배지 적용을 해주는 건가요?
 
-계정 지원팀이 적용합니다. 토너먼트 위원회는 토너먼트 진행 방식과 토너먼트 보고서를 바탕으로 이에 대하여 조언하거나 반대할 수 있지만 최종적으로는 계정 지원팀이 적용합니다. 
+계정 지원팀이 적용합니다. 토너먼트 위원회는 토너먼트 진행 방식과 토너먼트 보고서를 바탕으로 이에 대하여 조언하거나 반대할 수 있지만 최종적으로는 계정 지원팀이 적용합니다.
 
 ### 토너먼트 위원회는 토너먼트 이메일을 볼 수 있나요?
 
@@ -155,13 +155,14 @@ outdated_since: ae84174eff84817bb8e81adebf452128f27ea51c
 ### 토너먼트 위원회
 
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
+- ::{ flag=BA }:: [alisha-](https://osu.ppy.sh/users/29031839)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
 - ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
+- ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619)
 - ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
 - ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
 - ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
-- ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
@@ -172,21 +173,23 @@ outdated_since: ae84174eff84817bb8e81adebf452128f27ea51c
 
 ### 콘테스트 위원회
 
-- ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
-- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063)
+- ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853)
 - ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835)
 
 ### Alumni
 
+- ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
+- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
+- ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
 - ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)

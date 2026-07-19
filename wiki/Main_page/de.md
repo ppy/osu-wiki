@@ -20,7 +20,7 @@ Wichtige Artikel und Tutorials, die dir dabei helfen, in die Welt von osu! einzu
 </div>
 <div class="wiki-main-page-panel">
 
-# Spiel-Client
+# [Spiel-Client](/wiki/Client)
 
 Als Wegweiser in die Welt des Rhythmus, des Beats und der Blitzlichter hat osu! viel zu präsentieren. Lerne das Spiel in all seinen Einstellungs- und Konfigurationsmöglichkeiten bis hin zu technischen Details, wie z. B. den verschiedenen Dateiformaten, besser kennen.
 
@@ -31,7 +31,7 @@ Als Wegweiser in die Welt des Rhythmus, des Beats und der Blitzlichter hat osu! 
 </div>
 <div class="wiki-main-page-panel">
 
-# Spielverlauf
+# [Spielverlauf](/wiki/Gameplay)
 
 Alles über das Klicken von Kreisen, das Schlagen der Trommeln, das Schnappen von Früchten und das Spielen des Synthesizers: Hauptelemente, Konzepte und das kompetitive Spiel.
 
@@ -83,9 +83,9 @@ Medienregulierungen: [Richtlinien für die Nutzung von Inhalten](/wiki/Rules/Con
 
 Antworten zu häufig gestellten Fragen und Lösungen zu alltäglichen Problemen gibt es hier.
 
-[Hilfecenter](/wiki/Help_centre) • [Problemlösung bei der Leistung](/wiki/Performance_troubleshooting) • [Account Support Team](/wiki/People/Account_support_team) • [Hilfeforum](https://osu.ppy.sh/forum/5)
+[Hilfecenter](/wiki/Help_centre) • [Fehlerbehebung bei Leistungsproblemen](/wiki/Performance_troubleshooting) • [Account Support Team](/wiki/People/Account_support_team) • [Hilfeforum](https://osu.ppy.sh/forum/5)
 
-Profilbeschränkungen: [Silences](/wiki/Help_centre/Silences) • [Kontoeinschränkungen](/wiki/Help_centre/Account_restrictions) • [Turniersanktionen](/wiki/Help_centre/Tournament_sanctions)
+Profilbeschränkungen: [Stummschaltungen](/wiki/Help_centre/Silences) • [Kontoeinschränkungen](/wiki/Help_centre/Account_restrictions) • [Turniersanktionen](/wiki/Help_centre/Tournament_sanctions)
 
 Was du tun kannst: [Wie und mit was helfen](/wiki/Community/How_you_can_help!) • [Melde schlechtes Verhalten](/wiki/Reporting_bad_behaviour) • [Melde Missbrauch](/wiki/Reporting_bad_behaviour/Abuse) • [Melde Betrug](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 

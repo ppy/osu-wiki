@@ -23,9 +23,9 @@
 | Medal name | Requirement | Description |
 | :-- | :-- | :-- |
 | Catch 20,000 fruits | Catch a total of 20,000 fruits in osu!catch. | That is a lot of dietary fiber. |
-| Catch 200,000 fruits | Catch a total of 200,000 fruits in osu!catch. | So, I heard you like fruit.. |
+| Catch 200,000 fruits | Catch a total of 200,000 fruits in osu!catch. | So, I heard you like fruit... |
 | Catch 2,000,000 fruits | Catch a total of 2,000,000 fruits in osu!catch. | Downright healthy. |
-| Catch 20,000,000 fruits | Catch a total of 20,000,000 fruits in osu!catch | Nothing left behind. |
+| Catch 20,000,000 fruits | Catch a total of 20,000,000 fruits in osu!catch. | Nothing left behind. |
 
 ## osu!mania
 
