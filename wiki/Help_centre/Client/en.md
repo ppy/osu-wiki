@@ -296,7 +296,7 @@ Later NVidia graphics cards have a global option in the NVidia Control Panel to 
 
 osu!(lazer) has the [OpenTabletDriver](https://opentabletdriver.net/) built-in. If you weren't using these drivers before, then this happens because your tablet is not configured correctly for the native drivers.
 
-See [Tablet conversion](/wiki/Help_centre/Tablet_conversion) for more information on how to correctly convert your old tablet driver's area to OpenTabletDriver's settings.
+See [Tablet conversion](/wiki/Guides/Tablet_conversion) for more information on how to correctly convert your old tablet driver's area to OpenTabletDriver's settings.
 
 ## Online features {id=online-features}
 
