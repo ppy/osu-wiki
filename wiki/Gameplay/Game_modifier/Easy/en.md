@@ -22,6 +22,7 @@ tags:
 *![][osu!catch] Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.*\
 *![][osu!mania] Reduces overall difficulty - more forgiving HP drain, less accuracy required.*
 
+|  |  |
 | :-- | :-- |
 | Acronym | EZ |
 | Type | Difficulty Reduction |
