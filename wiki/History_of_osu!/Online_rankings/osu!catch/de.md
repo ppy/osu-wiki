@@ -132,15 +132,16 @@ Darum enthält diese Liste nur Spieler, die den ersten Platz auf der Hauptrangli
 | --: | :-- | :-- | :-- |
 | ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | *06.12.2025* | 26.01.2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1pfaytk/story_reaches_rank_1_in_ctb_again_after_5_years/) |
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 26.01.2026 | 01.07.2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1qn42wu/qwhj79_reaches_rank_1_in_ctb_once_again_he_played/) |
-| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 01.07.2026 | heute | [\[1\]](https://www.reddit.com/r/osugame/comments/1ukbvpu/story_has_once_again_became_1_surpassing_qwhj79/) |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 01.07.2026 | 21.07.2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1ukbvpu/story_has_once_again_became_1_surpassing_qwhj79/) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits) | 21.07.2026 | heute | [\[1\]](https://web.archive.org/web/20260721170106/https://osu.ppy.sh/rankings/fruits/global/performance) [\[2\]](https://www.reddit.com/r/osugame/comments/1v25lkm/motion_returns_to_1_in_ctb/) |
 
 ## Anzahl der Titelverteidigungen
 
-Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den ersten Platz erreicht hat (Stand: 1. Juli 2026).
+Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den ersten Platz erreicht hat (Stand: 21. Juli 2026).
 
 | Spieler | Titelverteidigungen |
 | --: | :-: |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 9 |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 10 |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 6 |
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 6 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 4 |
@@ -153,7 +154,7 @@ Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den erste
 
 *Anmerkung: Der aktuelle Spieler auf dem ersten Platz ist nicht in dieser Liste enthalten.*
 
-Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den ersten Platz innehatte (Stand: 1. Juli 2026).
+Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den ersten Platz innehatte (Stand: 21. Juli 2026).
 
 | Spieler | Länge in Tagen |
 | --: | :-: |
@@ -164,13 +165,13 @@ Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den erste
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 382 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 357 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 203 |
-| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 51 |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 71 |
 
 ## Längste ununterbrochene Titelverteidigung
 
 *Anmerkung: Nur Titelverteidigungen mit mehr als 100 Tagen werden genannt. Der aktuelle Spieler auf dem ersten Platz ist nicht enthalten.*
 
-Die folgende Liste stellt die größte Anzahl an aufeinanderfolgenden Tagen dar, in denen ein Spieler den ersten Platz innehatte (Stand: 1. Juli 2026).
+Die folgende Liste stellt die größte Anzahl an aufeinanderfolgenden Tagen dar, in denen ein Spieler den ersten Platz innehatte (Stand: 21. Juli 2026).
 
 | Spieler | von | bis | Länge in Tagen |
 | --: | :-- | :-- | :-: |

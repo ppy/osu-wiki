@@ -31,7 +31,7 @@ Mit Stand vom 11. Juli 2026 ist ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.
 
 *Hauptseite: [Geschichte der osu!catch-Rangliste](osu!catch)*
 
-Mit Stand vom 1. Juli 2026 ist ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
+Mit Stand vom 21. Juli 2026 ist ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
 
 ## ![][osu!mania] osu!mania
 
