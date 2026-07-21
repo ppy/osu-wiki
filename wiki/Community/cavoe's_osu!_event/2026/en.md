@@ -15,8 +15,8 @@ tags:
 | Event | Timestamp (UTC+2) |
 | --: | :-- |
 | Bouldering | Tuesday, 28 July (13:00–16:00) |
-| Efteling | Tuesday, 28 July (17:00–20:00) |
-| Sushi dinner | Wednesday, 29 July (11:00–22:00) |
+| Sushi dinner | Tuesday, 28 July (17:00–20:00) |
+| Efteling | Wednesday, 29 July (11:00–22:00) |
 
 ## Links
 
