@@ -157,6 +157,12 @@ Captains are denoted in **bold**.
 | 14c | farketmez | alındınmı? .p | [Jul 26 (Sun) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260726T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^potential-match] |
 | 14d | alındınmı? .p | W puskevit | [Jul 26 (Sun) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260726T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^potential-match] |
 
+### Monday, 27 July 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |  |
+| :-: | --: | :-- | :-- | :-: | :-: |
+|  | Finals | mappool showcase | [Jul 27 (Mon) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260727T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^mappool-showcase] |
+
 ## Mappools
 
 ### Semifinals
@@ -736,4 +742,5 @@ Group D:
 [^qualifiers-tiebreaker]: Average score was used as the Qualifier tiebreaker.
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
+[^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches.
 [^potential-match]: Potential match — final teams will depend on the outcome of preceding losers bracket matches
