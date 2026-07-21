@@ -213,7 +213,7 @@ If you would like to acquire broadcast rights as a third party you can get in co
 
 #### 1.5 Contact
 
-For any questions, notes, or suggestions regarding this rulebook, please contact the tournament organization via [Discord](https://discord.gg/zJ7e6cTVFh)
+For any questions, notes, or suggestions regarding this rulebook, please contact the tournament organization via [Discord](https://discord.com/invite/zJ7e6cTVFh)
 
 #### 1.6 Participant Details
 
