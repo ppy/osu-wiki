@@ -1,7 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 0ad74729d42a03df29f787cc719600ecd54f853b
----
 
 # osu! tournament client
 
@@ -36,6 +33,12 @@ All'interno di una configurazione di torneo è possibile fornire gli assets nece
   - Flags
   - Mods
   - Videos
+
+Per gestire i dettagli del torneo, utilizza gli strumenti all'interno del client del torneo:
+
+- `Team Editor`: Modifica squadre e giocatori.
+- `Rounds Editor`: Gestisci round e mappool.
+- `Bracket Editor`: Crea nuove partite e gestisci squadre, round e orari per ogni partita.
 
 ## Personalizzazione
 
@@ -77,6 +80,8 @@ I file video devono essere collocati in `<il tuo torneo>/Videos` e sono necessar
 | MapPool | `mappool` |
 | Gameplay | `gameplay` |
 | Vittoria | `teamwin-red`, `teamwin-blue` |
-| Sorteggi | `main` |
+| Sorteggi | `drawings` |
 | Presentazione | `showcase` |
 | Tabellone del torneo | `ladder` |
+
+Il file video chiamato `main` verrà usato come video di sfondo predefinito finché non verrà sostituito da uno dei file video elencati sopra.
