@@ -400,7 +400,7 @@ Participants will be sanctioned if they are violating or attempting to violate a
 
 #### 7.3 Clothing
 
-For your own safety you are required to wear closed shoes ( no flip flops or sandals ). We further recommend long trousers. Headwear is allowed.
+For your own safety you are required to wear closed shoes (no flip flops or sandals). We further recommend long trousers. Headwear is allowed.
 Failure to comply will lead to disqualification
 
 #### 7.4 Disqualification
