@@ -133,7 +133,7 @@ Darum enthält diese Liste nur Spieler, die den ersten Platz auf der Hauptrangli
 | ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | *06.12.2025* | 26.01.2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1pfaytk/story_reaches_rank_1_in_ctb_again_after_5_years/) |
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 26.01.2026 | 01.07.2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1qn42wu/qwhj79_reaches_rank_1_in_ctb_once_again_he_played/) |
 | ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 01.07.2026 | 21.07.2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1ukbvpu/story_has_once_again_became_1_surpassing_qwhj79/) |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits) | 21.07.2026 | heute | [\[1\]](https://web.archive.org/web/20260721170106/https://osu.ppy.sh/rankings/fruits/global/performance) [\[2\]](https://www.reddit.com/r/osugame/comments/1v25lkm/motion_returns_to_1_in_ctb/) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 21.07.2026 | heute | [\[1\]](https://web.archive.org/web/20260721170106/https://osu.ppy.sh/rankings/fruits/global/performance) [\[2\]](https://www.reddit.com/r/osugame/comments/1v25lkm/motion_returns_to_1_in_ctb/) |
 
 ## Anzahl der Titelverteidigungen
 

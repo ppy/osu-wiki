@@ -135,7 +135,7 @@ Debido a esto, esta lista solo incluye a los jugadores que han alcanzado el pues
 | ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | *6/12/2025* | 26/1/2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1pfaytk/story_reaches_rank_1_in_ctb_again_after_5_years/) |
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 26/1/2026 | 1/7/2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1qn42wu/qwhj79_reaches_rank_1_in_ctb_once_again_he_played/) |
 | ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 1/7/2026 | 21/7/2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1ukbvpu/story_has_once_again_became_1_surpassing_qwhj79/) |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits) | 21/7/2026 | Presente | [\[1\]](https://web.archive.org/web/20260721170106/https://osu.ppy.sh/rankings/fruits/global/performance) [\[2\]](https://www.reddit.com/r/osugame/comments/1v25lkm/motion_returns_to_1_in_ctb/) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 21/7/2026 | Presente | [\[1\]](https://web.archive.org/web/20260721170106/https://osu.ppy.sh/rankings/fruits/global/performance) [\[2\]](https://www.reddit.com/r/osugame/comments/1v25lkm/motion_returns_to_1_in_ctb/) |
 
 ## Número de reinados
 
