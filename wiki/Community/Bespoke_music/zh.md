@@ -100,9 +100,9 @@ translation_keys:
 
 ## 统计
 
-osu! 内目前共有 **1325** 首已记录的定制歌曲。
+osu! 内目前共有 **1343** 首已记录的定制歌曲。
 
-![定制歌曲数量随时间的增长图](img/bespoke-music-over-time-ZH.png?20260703)
+![定制歌曲数量随时间的增长图](img/bespoke-music-over-time-ZH.png?20260721)
 
 ## 列表
 
@@ -493,10 +493,14 @@ osu! 内目前共有 **1325** 首已记录的定制歌曲。
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/zero-kelvin-0k/0-k-downtown-swoop "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=ld0cD5XK_pc "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=0%20K&query=%22Downtown%20Swoop%22 "osu! original") | 0 K - Downtown Swoop | [#1](https://osu.ppy.sh/beatmapsets/2566329) | 16 强赛 MM2 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=EIWt7hFNluQ "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Ashrount&query=%22ARCADEA%22 "osu! original") | Ashrount & polysha - ARCADEA | [#1](https://osu.ppy.sh/beatmapsets/2581097) | 总决赛 TB |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=0HjB5YS9d6s "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=DJ%20Raisei&query=%22Ginkyo%20Sekai%20%28feat.%20Kasane%20Teto%29%22 "osu! original") | DJ Raisei - Ginkyo Sekai (feat. Kasane Teto) | [#1](https://osu.ppy.sh/beatmapsets/2577241) | 决赛 MM1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/linkslink_0/m0nica-from-cwc-2026 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=vixE5yuKg3M "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Link%220&query=%22M0nica%22 "osu! original") | Link"0 - M0nica | [#1](https://osu.ppy.sh/beatmapsets/2573434) | 半决赛 HR3 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=M67JcsC8rH0 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/5yOb8Au4i1Z5BHkhb2PBUE "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=seatrus&query=%22Tabula%20Rasa%22 "osu! original") | seatrus - Tabula Rasa | [#1](https://osu.ppy.sh/beatmapsets/2569980) | 四分之一决赛 NM2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sylvirsylvir/highway "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=_GWAUm8KY_U "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1z2OFfMkkFomFjsPb4ZX6H "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sylvirsylvir.bandcamp.com/track/etiolan-highway "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Sylvir&query=%22Etiolan%20Highway%22 "osu! original") | Sylvir - Etiolan Highway | [#1](https://osu.ppy.sh/beatmapsets/2573446) | 半决赛 MM1 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=x5xNKvKtt9k "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://wangleline.bandcamp.com/track/ad-astra "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=WangleLine&query=%22Ad%20Astra%22 "osu! original") | WangleLine - Ad Astra | [#1](https://osu.ppy.sh/beatmapsets/2581070) | 总决赛 HD3 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=FUEavFSonOU "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=YUC%27e&query=%22Nasu%20Is%20Not%20Fruits%20Desu%21%22 "osu! original") | YUC'e - Nasu Is Not Fruits Desu\! | [#1](https://osu.ppy.sh/beatmapsets/2569989) | 四分之一决赛 HD1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/zxnx/decay "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=miBshD0ZvQ0 "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=ZxNX&query=%22DECAY%22 "osu! original") | ZxNX - DECAY | [#1](https://osu.ppy.sh/beatmapsets/2577190) | 决赛 NM4 |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2019](/wiki/Tournaments/MWC/2019_4K)
 
@@ -1003,6 +1007,14 @@ osu! 内目前共有 **1325** 首已记录的定制歌曲。
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nordax21/shadow-of-light "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=nufj8iE8zmk "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1wq0C69U7zq2gTQszU52z6 "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=NotNordax&query=%22Shadow%20of%20Light%22 "osu! original") | NotNordax - Shadow of Light | [#1](https://osu.ppy.sh/beatmapsets/2388514) | 16 强赛 FM1 |
 
+#### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) [Fin's All Mode Event](https://osu.ppy.sh/community/forums/topics/2192013)
+
+| 链接 |  | 歌曲 | 谱面 | 备注 |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/melorikka/incarcerated-luminescence-a "SoundCloud") |  | Melorikka feat. AVER - Incarcerated Luminescence: A Bloom Trapped Beneath The Permafrost | [#1](https://osu.ppy.sh/beatmapsets/2581619) | 总决赛 FM6 (osu!mania) |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/raytoly/rinthedanxia_raytolys_resolution_mix "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=jcIdO-rIV4g "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://raytoly.bandcamp.com/track/raytoly-takehirotei-rinthedanxia-raytolys-resolution-mix "Bandcamp") |  | Raytoly & takehirotei - Rinthedanxia \~Raytoly's "Resolution" Mix\~[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/2577775) | 决赛 MM1 (osu!) / HR1 (osu!taiko) / NM1 (osu!catch) / FM3 (osu!mania) |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=opXc5KveG3Q "YouTube") |  | Team Resonance - Tif'eret -correspondence of resonance- | [#1](https://osu.ppy.sh/beatmapsets/2581635) | 总决赛 NM2 (osu!) / HR1 (osu!taiko) / NM1 (osu!catch) / FM4 (osu!mania) |
+
 #### ![](/wiki/shared/mode/osu.png) [Foxys Farmer Paradise 2](https://osu.ppy.sh/community/forums/topics/1828132)
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
@@ -1281,8 +1293,12 @@ osu! 内目前共有 **1325** 首已记录的定制歌曲。
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
+|  |  | 5KiLOBYTE - Requiem of the End | [#1](https://osu.ppy.sh/beatmapsets/2581730) | 半决赛 HR1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/notarxe/adabana-feat-ethereal_winter "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=rbqVtflC0gs "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://arxe.bandcamp.com/track/feat-ethereal-winter "Bandcamp") |  | ArXe - Adabana (feat. Ethereal\_Winter) | [#1](https://osu.ppy.sh/beatmapsets/2581715) | 半决赛 NM1 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=REGlXIFInhg "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1Msxik1tRBR48e2K8FvXcT "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://cexiria.bandcamp.com/track/future-hideout "Bandcamp") |  | cexiria feat. Hatsune Miku - Future Hideout | [#1](https://osu.ppy.sh/beatmapsets/2570621) | 32 强赛 TB |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/yusuke-7328/cs4w-aberrant-destructor "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=k9mm3IAOpbs "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/3GAOp5y0pO7scRx2GwnEWN "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://cs4w.bandcamp.com/track/aberrant-destructor "Bandcamp") |  | CS4W - Aberrant Destructor | [#1](https://osu.ppy.sh/beatmapsets/2577779) | 四分之一决赛 TB |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rokunoyume/thxu4raving "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=2zGX_QILkPs "YouTube") |  | log() - THXU4RAVING[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2581747) | 半决赛 FM4 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-721414606/delusions2 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=HYIEa05w8Q4 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/5bNGkFtYquwa9FkA84mNnh "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://ndog.bandcamp.com/track/delusions-connect-feat-quu-zie "Bandcamp") |  | N\_dog feat. quu-zie - Delusions Connect | [#1](https://osu.ppy.sh/beatmapsets/2581751) | 半决赛 TB |
 |  |  | ptar124 - mare serenum feat. Yuzuki Yukari[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2574025) | 16 强赛 HR2 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=0rcuOQjfYB0 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/5QM9DIYHculTZPaLJ5MUmy "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://tgrx.bandcamp.com/track/covenant-of-the-sky "Bandcamp") |  | TGRX - Covenant of the Sky | [#1](https://osu.ppy.sh/beatmapsets/2574035) | 16 强赛 TB |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=OwJyqNSdD3M "YouTube") |  | THE BEAT WIZARD - party in my head wont stop so i called in a noise complaint | [#1](https://osu.ppy.sh/beatmapsets/2574014) | 16 强赛 NM4 |
@@ -1293,6 +1309,12 @@ osu! 内目前共有 **1325** 首已记录的定制歌曲。
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
 |  |  | nominomu - solar sect of nm2 \~ nuclear notelock | [#1](https://osu.ppy.sh/beatmapsets/2039737) | 16 强赛 NM2 |
+
+#### ![](/wiki/shared/mode/osu.png) [Schedule Hell](https://osu.ppy.sh/community/forums/topics/2200754)
+
+| 链接 |  | 歌曲 | 谱面 | 备注 |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nordax21/moments-we-lost "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Cwn3SY3a2XA "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/0LzqDepOV0jR3PJbtRNbOn "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=NotNordax&query=%22Moments%20We%20Lost%22 "osu! original") | NotNordax, dxprxsslve - Moments We Lost | [#1](https://osu.ppy.sh/beatmapsets/2578360) | 决赛 NM2 |
 
 #### ![](/wiki/shared/mode/osu.png) [Shika Random Tournament](https://osu.ppy.sh/community/forums/topics/1951508)
 
@@ -1530,6 +1552,12 @@ osu! 内目前共有 **1325** 首已记录的定制歌曲。
 | --: | :-: | :-- | :-: | :-- |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=CzQpFM8Z8Us "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/6bKBF2fCjI4JFdFgCU4nWL "Spotify") |  | NotJocks - RE:SplENDeNT DenoumeNT | [#1](https://osu.ppy.sh/beatmapsets/2206458) | 总决赛 TB |
 
+#### ![](/wiki/shared/mode/osu.png) [osu! Nepal Cup 2026](https://osu.ppy.sh/community/forums/topics/2201985)
+
+| 链接 |  | 歌曲 | 谱面 | 备注 |
+| --: | :-: | :-- | :-: | :-- |
+|  |  | NotJocks - RE:QuiEs UlTiMA | [#1](https://osu.ppy.sh/beatmapsets/2580443) | 总决赛 TB |
+
 #### ![](/wiki/shared/mode/osu.png) [osu! New Zealand Open 2023](https://osu.ppy.sh/community/forums/topics/1684712)
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
@@ -1605,6 +1633,12 @@ osu! 内目前共有 **1325** 首已记录的定制歌曲。
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=dIntju3tT2c "YouTube") |  | SilverMoon - 24v2 | [#1](https://osu.ppy.sh/beatmapsets/2422208) | 决赛 DTFM1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sot-c/our-greatest-endroll "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=L9HMlMNrbwI "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/0xpA27D78Kxi0GCnjbG6t1 "Spotify") |  | Sot-C - Our Greatest Endroll | [#1](https://osu.ppy.sh/beatmapsets/2425472) | 总决赛 TB |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=vsKqeW7N9f4 "YouTube") |  | Xennzor - Take Me Up | [#1](https://osu.ppy.sh/beatmapsets/2410797) | 16 强赛 HR1 |
+
+#### ![](/wiki/shared/mode/osu.png) [osu!türkiye Open 2026](/wiki/Tournaments/OTR/2026)
+
+| 链接 |  | 歌曲 | 谱面 | 备注 |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sumi-83860761/fragmented-reality "SoundCloud") |  | sumi - Fragmented Reality | [#1](https://osu.ppy.sh/beatmapsets/2589239) | 半决赛 NM4 |
 
 #### ![](/wiki/shared/mode/osu.png) [otst:live!](https://osu.ppy.sh/community/forums/topics/2095985)
 
@@ -2412,7 +2446,7 @@ osu! 内目前共有 **1325** 首已记录的定制歌曲。
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=sYIkwR2v404 "YouTube") |  | CyanMilkyWay - Traces of Time | [#1](https://osu.ppy.sh/beatmapsets/2570020) | 决赛 HB2 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silentrm-net/1kxyzo "SoundCloud") |  | Silentroom - 1KXYZ∅[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2573338) | 总决赛 TB |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silentrm-net/1kxyzo "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=wi05vmOAHCQ "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://slrm.bandcamp.com/track/1kxyz "Bandcamp") |  | Silentroom - 1KXYZ∅[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2573338) | 总决赛 TB |
 
 #### ![](/wiki/shared/mode/mania.png) [Piano Tiles Chinese Tournament 5](https://osu.ppy.sh/community/forums/topics/1939139)
 
@@ -2435,6 +2469,12 @@ osu! 内目前共有 **1325** 首已记录的定制歌曲。
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/egg-yolk-298021491/trigrexxion-rst-2024-grand-finals-tiebreaker "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=oMAJI-2Gjqs "YouTube") |  | Egg Yolk - Trigrexxion | [#1](https://osu.ppy.sh/beatmapsets/2225110) | 总决赛 TB |
+
+#### ![](/wiki/shared/mode/mania.png) [Soundwave Mania III](https://osu.ppy.sh/community/forums/topics/2157448)
+
+| 链接 |  | 歌曲 | 谱面 | 备注 |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/melorikka/chromatic-deliquescence "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=U8Oz1vmd-YM "YouTube") |  | Melorikka vs. CyanMilkyWay - Chromatic Deliquescence | [#1](https://osu.ppy.sh/beatmapsets/2577923) | 决赛 TB |
 
 #### ![](/wiki/shared/mode/mania.png) [Sparxe's Two Key Event](/wiki/Tournaments/STKE/1)
 
@@ -2468,6 +2508,18 @@ osu! 内目前共有 **1325** 首已记录的定制歌曲。
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/supa7onyz/thmc3-gftb-noma-nadeshiko-sanzu-no-kawa-ninngyou-gekijyou "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Supa7onyz&query=%22Sanzu%20no%20Kawa%20Ninngyou%20Gekijyou%22 "osu! original") | Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou | [#1](https://osu.ppy.sh/beatmapsets/2016006) | 总决赛 TB |
+
+#### ![](/wiki/shared/mode/mania.png) [VNMC Showdown Hanoi 2026](https://osu.ppy.sh/community/forums/topics/2190579)
+
+| 链接 |  | 歌曲 | 谱面 | 备注 |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/paranoidchild/dysmal_fate "SoundCloud")  |  | VNMC Sound Team - DYSMAL\|\|FATE | [#1](https://osu.ppy.sh/beatmapsets/2573138) | 总决赛 TB |
+
+#### ![](/wiki/shared/mode/mania.png) [Venezuela Tournament 2026](https://osu.ppy.sh/community/forums/topics/2204527)
+
+| 链接 |  | 歌曲 | 谱面 | 备注 |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/manu_gmr-22/candy-sky-feat-natsuki-karin "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=3SM-Ji32jYo "YouTube") |  | Sillot feat. Natsuki Karin - Candy Sky | [#1](https://osu.ppy.sh/beatmapsets/2585908) | 决赛 HB3 |
 
 #### ![](/wiki/shared/mode/mania.png) [Vietnamese National Mania Championship 2023 - Oblitus Requiem](https://osu.ppy.sh/community/forums/topics/1779599)
 
@@ -2620,6 +2672,12 @@ osu! 内目前共有 **1325** 首已记录的定制歌曲。
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/koukondaikon/aoe "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=D3HeVbNUi4Q "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/68OTFoYDpal164r5EvyYIa "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://koukonkasokuki.bandcamp.com/track/a-o-e-area-of-effect "Bandcamp") |  | Kou! - A.O.E::area\_of\_effect[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2321798) | 总决赛 TB |
+
+#### ![](/wiki/shared/mode/mania.png) [osu!mania 7K Chinese National Cup 2026](https://osu.ppy.sh/community/forums/topics/2160725)
+
+| 链接 |  | 歌曲 | 谱面 | 备注 |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/gardensdtm/gardens-counting-breaths-feat "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=i4Aewoj1Nas "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/7G9ndr1kBoxX3wE5jyKKBv "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Gardens&query=%22Counting%20Breaths%20feat.%20eili%22 "osu! original") | Gardens - Counting Breaths feat. eili | [#1](https://osu.ppy.sh/beatmapsets/2524160) | 总决赛 TB |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 7K French Tournament 2026](https://osu.ppy.sh/community/forums/topics/2142524)
 
