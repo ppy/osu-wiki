@@ -206,7 +206,7 @@ Participants can not refuse to have their matches broadcast, nor can they choose
 Stichting CAVOE EVENTS has the right to grant the broadcasting rights to a third party.
 Further Stichting CAVOE EVENTS is granting broadcasting rights for single matches to participants if following criteria are met:
 The participant is taking part in an online match
-The participant clearly marks that the broadcast is for the tournament (e.g. “COE 2026 1v1” in the title)
+The participant clearly marks that the broadcast is for the tournament (e.g. "COE 2026 1v1" in the title)
 The participant only shows their point of view of the match
 
 If you would like to acquire broadcast rights as a third party you can get in contact as outlined in 1.4
