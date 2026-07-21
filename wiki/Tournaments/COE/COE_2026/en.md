@@ -91,7 +91,7 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
   2. [Function Phantom - Neuronecia [Ethereal]](https://osu.ppy.sh/beatmapsets/186911#osu/541990)
   3. [NOMELON NOLEMON - Dounika Nacchaisou! [hypocrisy]](https://osu.ppy.sh/beatmapsets/2582289#osu/5757116)
 - Tiebreaker
-  1. [Camellia feat. Nanahira - finorza [Callionet's Firmament]](https://osu.ppy.sh/beatmapsets/1140744#osu/4647381)
+  1. **[Camellia feat. Nanahira - finorza [Callionet's Firmament]](https://osu.ppy.sh/beatmapsets/1140744#osu/4647381)**
 
 ### Online qualifiers
 
