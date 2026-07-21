@@ -1527,6 +1527,12 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sot-c/our-greatest-endroll "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=L9HMlMNrbwI "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/0xpA27D78Kxi0GCnjbG6t1 "Spotify") |  | Sot-C - Our Greatest Endroll | [#1](https://osu.ppy.sh/beatmapsets/2425472) | Grand Finals tiebreaker |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=vsKqeW7N9f4 "YouTube") |  | Xennzor - Take Me Up | [#1](https://osu.ppy.sh/beatmapsets/2410797) | Round of 16 HR1 |
 
+#### ![](/wiki/shared/mode/osu.png) [osu!türkiye Open 2026](/wiki/Tournaments/OTR/2026)
+
+| Links |  | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sumi-83860761/fragmented-reality "SoundCloud") |  | sumi - Fragmented Reality | [#1](https://osu.ppy.sh/beatmapsets/2589239) | Semifinals NM4 |
+
 #### ![](/wiki/shared/mode/osu.png) [otst:live!](https://osu.ppy.sh/community/forums/topics/2095985)
 
 | Links |  | Song | Beatmap | Notes |
