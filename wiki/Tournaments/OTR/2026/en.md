@@ -46,7 +46,7 @@ The osu!türkiye Open 2026 is run by [osu!türkiye](https://osuturkiye.com) and 
 | Mappool selector | **::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674)**, ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [spray-](https://osu.ppy.sh/users/16750823) |
 | Mappool quality assurance | ::{ flag=TR }:: [garvanturr](https://osu.ppy.sh/users/9143539), ::{ flag=TR }:: [yeyygitalp](https://osu.ppy.sh/users/26015902) |
 | Mappool playtester | ::{ flag=RU }:: [fedotoff](https://osu.ppy.sh/users/7351448), ::{ flag=DE }:: [Inflictives](https://osu.ppy.sh/users/10243433), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [Shinkiro](https://osu.ppy.sh/users/6093148), ::{ flag=TR }:: [spray-](https://osu.ppy.sh/users/16750823) |
-| Mapper | ::{ flag=TR }:: [Akhaten](https://osu.ppy.sh/users/12474487), ::{ flag=TR }:: [Coeminals](https://osu.ppy.sh/users/10213311), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=CY }:: [ravensong](https://osu.ppy.sh/users/10772580), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [Take](https://osu.ppy.sh/users/19322780), *more TBA* |
+| Mapper | ::{ flag=TR }:: [Akhaten](https://osu.ppy.sh/users/12474487), ::{ flag=PH }:: [Auriga](https://osu.ppy.sh/users/15563306), ::{ flag=TR }:: [Coeminals](https://osu.ppy.sh/users/10213311), ::{ flag=TR }:: [Ekrem Imamoglu](https://osu.ppy.sh/users/10801545), ::{ flag=DE }:: [Keke Tang](https://osu.ppy.sh/users/16551148), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=CY }:: [ravensong](https://osu.ppy.sh/users/10772580), ::{ flag=TR }:: [Seiioh](https://osu.ppy.sh/users/9655150), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [Take](https://osu.ppy.sh/users/19322780), *more TBA* |
 | Hitsounder | ::{ flag=TR }:: [Coeminals](https://osu.ppy.sh/users/10213311), ::{ flag=PH }:: [Mejiro Dober](https://osu.ppy.sh/users/19425672), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674) |
 | Streamer | **::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741)**, ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034) |
 | Commentator | **::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741)**, ::{ flag=TR }:: [AgorelL](https://osu.ppy.sh/users/16725049), ::{ flag=TR }:: [Cureleux](https://osu.ppy.sh/users/25429183), ::{ flag=TR }:: [dragonsaga](https://osu.ppy.sh/users/4982690), ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [emrepkrr](https://osu.ppy.sh/users/19034045), ::{ flag=TR }:: [mostiza](https://osu.ppy.sh/users/7354243), ::{ flag=TR }:: [Nitrur](https://osu.ppy.sh/users/29649528), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437) |
@@ -55,7 +55,7 @@ The osu!türkiye Open 2026 is run by [osu!türkiye](https://osuturkiye.com) and 
 | Referee | **::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647)**, ::{ flag=TR }:: [Cureleux](https://osu.ppy.sh/users/25429183), ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [HeroBabaa](https://osu.ppy.sh/users/29914048), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Nitrur](https://osu.ppy.sh/users/29649528), ::{ flag=TR }:: [purehalcyon](https://osu.ppy.sh/users/18258854), ::{ flag=TR }:: [RokeT-](https://osu.ppy.sh/users/17151907), ::{ flag=TR }:: [Soroic](https://osu.ppy.sh/users/17163162), ::{ flag=TR }:: [Sweet](https://osu.ppy.sh/users/19650017), ::{ flag=TR }:: [vuluvulu](https://osu.ppy.sh/users/35459987) |
 | Statistician | **::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034)**, ::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647) |
 | Developer | ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647), ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437) |
-| Musician | [Kagankaravana](https://www.youtube.com/@kagankaravana) |
+| Musician | [Kagankaravana](https://www.youtube.com/@kagankaravana), [sumi](https://on.soundcloud.com/SiBVQIWNZe907dZeBl) |
 
 Group leaders are denoted in **bold**.
 
@@ -131,28 +131,63 @@ Group leaders are denoted in **bold**.
 
 Captains are denoted in **bold**.
 
-## Match schedule: Quarterfinals
+## Match schedule: Semifinals
 
-### Sunday, 19 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 5 | steal balls and run | zilla | [Jul 19 (Sun) 15:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T120000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
-| 2 | bak | Pinterest kedipp | [Jul 19 (Sun) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^winners-bracket] |
-| 8 | barigadam | W puskevit | [Jul 19 (Sun) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
-| 6 | cok zeki takim | washed gang | [Jul 19 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
-| 3 | acil feet | Dede ve Torunu | [Jul 19 (Sun) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^winners-bracket] |
-| 1 | baaa mi diyo la? :O | farketmez | [Jul 19 (Sun) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^winners-bracket] |
-| 4 | enes batur | 21cm pp limit | [Jul 19 (Sun) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260719T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^winners-bracket] |
-
-### Monday, 20 July 2026
+### Saturday, 25 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 7 | cansın | alındınmı? .p | [Jul 20 (Mon) 15:30 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260720T123000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
-|  | Semifinals | mappool showcase | [Jul 20 (Mon) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260720T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^mappool-showcase] |
+| 9 | steal balls and run | 21cm pp limit | [Jul 25 (Sat) 16:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260725T130000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
+| 11 | alındınmı? .p | Pinterest kedipp | [Jul 25 (Sat) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260725T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
+| 15 | baaa mi diyo la? :O | bak | [Jul 25 (Sat) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260725T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^winners-bracket] |
+| 16 | Dede ve Torunu | enes batur | [Jul 25 (Sat) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260725T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^winners-bracket] |
+
+### Sunday, 26 July 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |  |
+| :-: | --: | :-- | :-- | :-: | :-: |
+| 10 | cok zeki takim | acil feet | [Jul 26 (Sun) 16:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260726T130000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
+| 12 | W puskevit | farketmez | [Jul 26 (Sun) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260726T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^losers-bracket] |
+| 13a | 21cm pp limit | acil feet | [Jul 26 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260726T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^potential-match] |
+| 13b | 21cm pp limit | cok zeki takim | [Jul 26 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260726T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^potential-match] |
+| 13c | acil feet | steal balls and run | [Jul 26 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260726T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^potential-match] |
+| 13d | steal balls and run | cok zeki takim | [Jul 26 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260726T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^potential-match] |
+| 14a | Pinterest kedipp | farketmez | [Jul 26 (Sun) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260726T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^potential-match] |
+| 14b | Pinterest kedipp | W puskevit | [Jul 26 (Sun) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260726T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^potential-match] |
+| 14c | farketmez | alındınmı? .p | [Jul 26 (Sun) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260726T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^potential-match] |
+| 14d | alındınmı? .p | W puskevit | [Jul 26 (Sun) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260726T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^potential-match] |
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (137 MB)](https://lyerr.s-ul.eu/UbvGohMz.zip)**\
+[View the showcase VOD here](https://youtu.be/FJJDekNiChw)
+
+- No Mod
+  1. [DAYOUNG - body (LycaonMyHusband) \[let your body talk to me\]](https://osu.ppy.sh/beatmapsets/2461520#osu/5385047)
+  2. [Adust Rain - Nevxxxxerland (-database-) \[-DATABASE-'s EXTRA\]](https://osu.ppy.sh/beatmapsets/2046568#osu/4295556)
+  3. [Itou Miku - Shocking Blue (Vanya) \[Vanya's Extra\]](https://osu.ppy.sh/beatmapsets/2123966#osu/4551633)
+  4. [sumi - Fragmented Reality (Seiioh) \[Dual Nature\]](https://osu.ppy.sh/beatmapsets/2589239#osu/5776670)
+  5. [NIWASHI - I Am Amethyst (-jordan-) \[Violet\]](https://osu.ppy.sh/beatmapsets/2002849#osu/4165053)
+- Hidden
+  1. [DJ SHARPNEL - Mmmmmmm (tilda, meloge, KPMY, catgirlflowers, yuiyamu, pearls) \[yurukyankyan Collab Extra\]](https://osu.ppy.sh/beatmapsets/2475283#osu/5460256)
+  2. [Thirty Seconds To Mars - The Kill (Bury Me) (aishiteiru-) \[aishiteiru's Expert\]](https://osu.ppy.sh/beatmapsets/1988999#osu/4476097)
+  3. [Sephid - Break The Seal (Ekrem Imamoglu) \[Oops! All 6's\]](https://osu.ppy.sh/beatmapsets/2589253#osu/5776698)
+- Hard Rock
+  1. [Mylta - Mou Ichido Matane to Iwasete yo (feat. meimei) (Mir) \[Memoire\]](https://osu.ppy.sh/beatmapsets/2475201#osu/5425831)
+  2. [ETIA. - Kagami no Mary Sue (wa_) \[Eternal\]](https://osu.ppy.sh/beatmapsets/500743#osu/1065689)
+  3. [underscores - Stupid (Can't run from the urge) (wyit) \[Junkie church sunday service\]](https://osu.ppy.sh/beatmapsets/2206698#osu/4672521)
+- Double Time
+  1. [Sebnem Ferah - Savas Boyasi (Auriga, Keke Tang) \[Vay (OTR26 Edit)\]](https://osu.ppy.sh/beatmapsets/2589236#osu/5776660)
+  2. [-45 - Midorigo Queen Bee (44444444444444) \[4\]](https://osu.ppy.sh/beatmapsets/2502268#osu/5505750)
+  3. [Adust Rain - Imperfect Cherry Blossom (Sanch-KK) \[KK's Lunatic\]](https://osu.ppy.sh/beatmapsets/2069184#osu/4460247)
+- Forced Mod
+  1. [trung-nova - Prism of Chroma (Uruha Migaki) \[Uruha's Extra\]](https://osu.ppy.sh/beatmapsets/2551916#osu/5661763)
+  2. [Method Man & Redman - Da Rockwilder (Dada) \[Blackout \[MRC ver.\]\]](https://osu.ppy.sh/beatmapsets/2120649#osu/4455531)
+  3. [Sydosys - Neptune (Elcheer) \[Triton\]](https://osu.ppy.sh/beatmapsets/2163548#osu/4562987)
+- Tiebreaker
+  1. **[Camellia - Controlled Dive (Tycani) \[Final Descent\]](https://osu.ppy.sh/beatmapsets/1952344#osu/4042897)**
 
 ### Quarterfinals
 
@@ -234,6 +269,28 @@ Captains are denoted in **bold**.
   3. [Nujabes - Lady Brown (feat. Cise Star) (Boden) \[Boden's Insane\]](https://osu.ppy.sh/beatmapsets/2477987#osu/5495728)
 
 ## Match results
+
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1qgxHoj6mTkc07h5gmVBQHhKlLnBFNTyAp-SHA5B424U/edit?rm=minimal).
+
+Sunday, 19 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 5 | **steal balls and run** | **6** | 0 | zilla | [#1](https://osu.ppy.sh/community/matches/121541326) | [#1](https://youtu.be/es6jsrCWCC8) |
+| 2 | **bak** | **6** | 0 | Pinterest kedipp | *win by default* |  |
+| 4 | **enes batur** | **6** | 2 | 21cm pp limit | [#1](https://osu.ppy.sh/community/matches/121542387) | [#1](https://youtu.be/x3TjOcECuPM) |
+| 6 | **cok zeki takim** | **6** | 4 | washed gang | [#1](https://osu.ppy.sh/community/matches/121543102) | [#1](https://youtu.be/e4YPKVQtnCk) |
+| 8 | barigadam | 5 | **6** | **W puskevit** | [#1](https://osu.ppy.sh/community/matches/121543119) | [#1](https://youtu.be/GcRn4SyDZx4) |
+| 3 | acil feet | 2 | **6** | **Dede ve Torunu** | [#1](https://osu.ppy.sh/community/matches/121543543) | [#1](https://youtu.be/AywM2Inx35E) |
+| 1 | **baaa mi diyo la? :O** | **6** | 1 | farketmez | [#1](https://osu.ppy.sh/community/matches/121543728) | [#1](https://youtu.be/pMmFI6w7jxc) |
+
+Monday, 20 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 7 | cansın | 5 | **6** | **alındınmı? .p** | [#1](https://osu.ppy.sh/community/matches/121547288) | [#1](https://youtu.be/yQO4ZK2_1zk) |
 
 ### Group Stage
 
@@ -679,4 +736,4 @@ Group D:
 [^qualifiers-tiebreaker]: Average score was used as the Qualifier tiebreaker.
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches.
+[^potential-match]: Potential match — final teams will depend on the outcome of preceding losers bracket matches
