@@ -2539,7 +2539,7 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 
 | Enlaces |  | Canción | Beatmap | Notas |
 | --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/paranoidchild/dysmal_fate "SoundCloud")  |  | VNMC Sound Team - DYSMAL\|\|FATE | [#1](https://osu.ppy.sh/beatmapsets/2573138) | Mapa de desempate de la gran final |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/paranoidchild/dysmal_fate "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=UMxYmliYULc "YouTube") |  | VNMC Sound Team - DYSMAL\|\|FATE | [#1](https://osu.ppy.sh/beatmapsets/2573138) | Mapa de desempate de la gran final |
 
 #### ![](/wiki/shared/mode/mania.png) [Venezuela Tournament 2026](https://osu.ppy.sh/community/forums/topics/2204527)
 
