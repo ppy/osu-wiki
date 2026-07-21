@@ -257,7 +257,7 @@ Physical and monetary prizes are yet to be determined.
 
 articipants are not allowed to use custom skin elements to alter core gameplay elements or mechanics. Any modifications to the game not intended by the developer are also strictly forbidden.
 
-osu!lazer will be used throughout the whole tournament, in the osu! game mode. Participants are expected to always perform updates as prompted by the game.
+osu!(lazer) will be used throughout the whole tournament, in the osu! game mode. Participants are expected to always perform updates as prompted by the game.
 
 #### 2.2 Punctuality
 
