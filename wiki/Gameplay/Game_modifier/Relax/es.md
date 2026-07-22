@@ -39,7 +39,7 @@ El mod **Relax** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que
 
 En [osu!](/wiki/Game_mode/osu!), activar el mod Relax solo requiere que el jugador desplace el cursor sobre los [objetos](/wiki/Gameplay/Hit_object); todos los objetos serán pulsados automáticamente por osu!. El mod hace que sea imposible morir en el beatmap en todos los modos de juego.
 
-El mod Relax también desactiva la interfaz del juego, ocultando así la [puntuación](/wiki/Gameplay/Score), [combo](/wiki/Beatmapping/Combo) y los fallos, aunque esto se puede volver a activar presionando `Mayús` + `Tabulador`. Además, el valor de los giros por minuto (SPM) se duplicará, lo que permitirá que el jugador gire mucho más rápido y, por lo tanto, obtenga una puntuación más alta que en un juego normal.
+El mod Relax también desactiva la interfaz del juego, ocultando así la [puntuación](/wiki/Gameplay/Score), [combo](/wiki/Gameplay/Combo_(score_multiplier)) y los fallos, aunque esto se puede volver a activar presionando `Mayús` + `Tabulador`. Además, el valor de los giros por minuto (SPM) se duplicará, lo que permitirá que el jugador gire mucho más rápido y, por lo tanto, obtenga una puntuación más alta que en un juego normal.
 
 ### osu!taiko
 

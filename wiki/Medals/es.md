@@ -12,7 +12,7 @@ Sin embargo, vale la pena señalar que el contenido de todos los paquetes de vid
 
 ## Skill
 
-Las **medallas Skill** son medallas que se otorgan al completar varios logros basados en habilidades, ya sea al alcanzar ciertos objetivos de [combo](/wiki/Beatmapping/Combo), al alcanzar ciertos rangos en la [tabla de clasificación de puntos de rendimiento global](https://osu.ppy.sh/rankings/osu/performance) o al lograr un pasar o [completar un combo](/wiki/Gameplay/Full_combo) en cualquier beatmap [calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked) o [aprobado](/wiki/Beatmap/Category#approved), dentro de ciertos rangos en la [calificación por estrellas](/wiki/Beatmap/Star_rating).
+Las **medallas Skill** son medallas que se otorgan al completar varios logros basados en habilidades, ya sea al alcanzar ciertos objetivos de [combo](/wiki/Gameplay/Combo_(score_multiplier)), al alcanzar ciertos rangos en la [tabla de clasificación de puntos de rendimiento global](https://osu.ppy.sh/rankings/osu/performance) o al lograr un pasar o [completar un combo](/wiki/Gameplay/Full_combo) en cualquier beatmap [calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked) o [aprobado](/wiki/Beatmap/Category#approved), dentro de ciertos rangos en la [calificación por estrellas](/wiki/Beatmap/Star_rating).
 
 ## Dedication
 
