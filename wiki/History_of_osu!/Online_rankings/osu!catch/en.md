@@ -121,25 +121,35 @@ ppv1 is rather infeasible without a lot of digging, little information is public
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2024-09-30 | 2024-10-07 | [\[1\]](https://www.reddit.com/r/osugame/comments/1ft3ibb/motion_is_1_again_in_osucatch_while_breaking_the/) |
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2024-10-07 | 2024-10-11 | [\[1\]](https://www.reddit.com/r/osugame/comments/1fy5o4g/osucatch_qwhj79_kaneko_chiharu_illness_lilin/) |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2024-10-11 | 2024-11-02 | [\[1\]](https://www.reddit.com/r/osugame/comments/1g1bmn4/osucatch_motion_camellia_ghost_2020_halloween_vip/) |
-| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2024-11-02 | *Present* | [\[1\]](https://web.archive.org/web/20241117031926/https://osu.ppy.sh/users/7547506) [\[2\]](https://web.archive.org/web/20241130051348/https://osu.ppy.sh/users/3885626) |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2024-11-02 | *2025-12-06* | [\[1\]](https://web.archive.org/web/20241117031926/https://osu.ppy.sh/users/7547506) [\[2\]](https://web.archive.org/web/20241130051348/https://osu.ppy.sh/users/3885626) |
 
 ## 2025
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
-| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | *2024-11-02* | Present | [\[1\]](https://web.archive.org/web/20241117031926/https://osu.ppy.sh/users/7547506) [\[2\]](https://web.archive.org/web/20241130051348/https://osu.ppy.sh/users/3885626) |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | *2024-11-02* | 2025-12-06 | [\[1\]](https://web.archive.org/web/20241117031926/https://osu.ppy.sh/users/7547506) [\[2\]](https://web.archive.org/web/20241130051348/https://osu.ppy.sh/users/3885626) |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 2025-12-06 | *2026-01-26* | [\[1\]](https://www.reddit.com/r/osugame/comments/1pfaytk/story_reaches_rank_1_in_ctb_again_after_5_years/) |
+
+## 2026
+
+| Player | From | To | Sources |
+| --: | :-- | :-- | :-- |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | *2025-12-06* | 2026-01-26 | [\[1\]](https://www.reddit.com/r/osugame/comments/1pfaytk/story_reaches_rank_1_in_ctb_again_after_5_years/) |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2026-01-26 | 2026-07-01 | [\[1\]](https://www.reddit.com/r/osugame/comments/1qn42wu/qwhj79_reaches_rank_1_in_ctb_once_again_he_played/) |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 2026-07-01 | Present | [\[1\]](https://www.reddit.com/r/osugame/comments/1ukbvpu/story_has_once_again_became_1_surpassing_qwhj79/) |
 
 ## Number of reigns
 
-The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 19 March 2025).
+The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 1 July 2026).
 
 | Player | Reigns |
 | --: | :-: |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 9 |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 6 |
-| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 5 |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 6 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 4 |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 3 |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 2 |
 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 1 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 1 |
 
@@ -147,29 +157,32 @@ The following is a list of the total number of times a player has reached the ra
 
 *Note: The current rank #1 reign is excluded.*
 
-The following is a list of the total number of days that a player has held the rank #1 spot (as of 19 March 2025).
+The following is a list of the total number of days that a player has held the rank #1 spot (as of 1 July 2026).
 
 | Player | Length (days) |
 | --: | :-: |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 1283 |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 873 |
 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 666 |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 561 |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 382 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 357 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 203 |
-| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 6 |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 51 |
 
 ## Longest individual reigns
 
 *Note: Only reigns over 100 days are included. The current rank #1 reign is excluded.*
 
-The following is a list of the longest consecutive days a player has held the rank #1 spot (as of 19 March 2025).
+The following is a list of the longest consecutive days a player has held the rank #1 spot (as of 1 July 2026).
 
 | Player | From | To | Reign length (days) |
 | --: | :-- | :-- | :-: |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 2021-06-07 | 2024-07-21 | 1173 |
 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 2014-07-08 | 2016-05-04 | 666 |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2024-11-02 | 2025-12-06 | 399 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 2018-04-14 | 2019-04-06 | 357 |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 2016-05-04 | 2017-01-15 | 256 |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2020-05-14 | 2021-01-12 | 243 |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2026-01-26 | 2026-07-01 | 156 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 2020-02-04 | 2020-05-14 | 100 |

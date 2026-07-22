@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 219425135e0e352c29938c496df2e189d65caec8
----
-
 # 百夫长
 
 百夫长即已经达成了里程碑——创作了一百张（或更多）[已上架](/wiki/Beatmap/Category#ranked)[谱面](/wiki/Beatmap)的玩家。从 [2023 年 7 月](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories)开始，他们通过制作谱面，帮助 osu! 变得更加出色多彩的杰出奉献精神已被认可；并获得了以下奖励：
@@ -19,7 +14,7 @@ outdated_since: 219425135e0e352c29938c496df2e189d65caec8
 | ::{ flag=ID }:: [[-E S I A-]](https://osu.ppy.sh/users/5159715) | [2022-05-28](https://osu.ppy.sh/beatmapsets/1475077) | [2025-11-11](https://osu.ppy.sh/beatmapsets/2429761) | [#1](https://osu.ppy.sh/beatmaps/packs/TM35) |
 | ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) | [2020-07-13](https://osu.ppy.sh/beatmapsets/1173956) | [2025-04-28](https://osu.ppy.sh/beatmapsets/2294756) | [#1](https://osu.ppy.sh/beatmaps/packs/TM29) |
 | ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) | [2019-11-06](https://osu.ppy.sh/beatmapsets/1057765) | [2023-08-23](https://osu.ppy.sh/beatmapsets/2025917) | [#1](https://osu.ppy.sh/beatmaps/packs/TM15) |
-| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [2009-02-27](https://osu.ppy.sh/beatmapsets/5396) | [2010-12-10](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8)、[#2](https://osu.ppy.sh/beatmaps/packs/TM9)、[#3](https://osu.ppy.sh/beatmaps/packs/TM10)、[#4](https://osu.ppy.sh/beatmaps/packs/TM33) |
+| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [2009-02-27](https://osu.ppy.sh/beatmapsets/5396)[^andrea-first-ranked-date] | [2010-12-10](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8), [#2](https://osu.ppy.sh/beatmaps/packs/TM9), [#3](https://osu.ppy.sh/beatmaps/packs/TM10), [#4](https://osu.ppy.sh/beatmaps/packs/TM33) |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | [2018-05-06](https://osu.ppy.sh/beatmapsets/757813) | [2019-09-26](https://osu.ppy.sh/beatmapsets/935244) |  |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | [2015-11-02](https://osu.ppy.sh/beatmapsets/329829) | [2019-10-31](https://osu.ppy.sh/beatmapsets/1009824) | [#1](https://osu.ppy.sh/beatmaps/packs/TM14) |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | [2014-10-28](https://osu.ppy.sh/beatmapsets/209651) | [2026-04-22](https://osu.ppy.sh/beatmapsets/2505105) | [#1](https://osu.ppy.sh/beatmaps/packs/TM38) |
@@ -62,3 +57,7 @@ outdated_since: 219425135e0e352c29938c496df2e189d65caec8
 
 - 第一个上架 100 张谱面的玩家是 ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363)，于 2010 年 8 月 4 日达成。
 - 总体来说，上架 100 张谱面平均需要 **6.1 年**（大约 2221 天）。<!--Stats from https://chromb.uk/centurions/data.json-->
+
+## 备注
+
+[^andrea-first-ranked-date]: 由于系统问题，网站误将 [Millenium - Day After Day](https://osu.ppy.sh/beatmapsets/11975) 显示为 ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) 的首张上架谱面（显示日期为2009-01-11）。但实际上这张谱面在约一年后的 [2010-01-14](https://osu.ppy.sh/community/forums/posts/295050) 才上架。
