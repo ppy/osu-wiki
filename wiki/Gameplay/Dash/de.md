@@ -4,4 +4,4 @@ stub: true
 
 # Dash
 
-Der Begriff **Dash** wird in [osu!catch](/wiki/Game_mode/osu!catch) für eine Bewegung zwischen zwei Objekten verwendet, bei der Spieler die Sprint-Taste verwenden müssen, um beide zu fangen.
+Der Begriff **Dash** bezeichnet in [osu!catch](/wiki/Game_mode/osu!catch) eine Bewegung zwischen zwei Objekten, bei der Spieler die Sprint-Taste verwenden müssen, um beide zu fangen.
