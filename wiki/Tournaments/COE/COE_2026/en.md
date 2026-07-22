@@ -10,9 +10,9 @@ The **COE 2026 1v1 Tournament** is a 1v1 single-elimination osu! LAN tournament 
 | --: | :-- |
 | Registration | 2026-06-01/2026-06-13 |
 | Online qualifiers | 2026-06-15/2026-04-29 |
-| Online stage | 2026-07-11/2026-07-19 |
-| Finals mappool showcase | 2026-07-27 (15:30 UTC+2) |
-| Finals | 2026-07-30/2026-08-01 |
+| Online play-in stage | 2026-07-11/2026-07-19 |
+| Offline finals mappool showcase | 2026-07-27 (15:30 UTC+2) |
+| Offline finals | 2026-07-30/2026-08-01 |
 
 ## Prizes
 
@@ -157,20 +157,20 @@ Monday, 13th of July 2026:
 
 Saturday, 18th of July 2026:
 
-| Player 1 |  |  | Player 2 | Match time |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| lystia ::{ flag=GB }:: | 0 | 0 | ::{ flag=FR }:: Hifkil | 13:00 UTC |
-| Crestive ::{ flag=US }:: | 0 | 0 | ::{ flag=PL }:: gnahus | 19:00 UTC |
+| lystia ::{ flag=GB }:: | 2 | **5** | ::{ flag=FR }:: **Hifkil** | [#1](https://osu.ppy.sh/multiplayer/rooms/3665187/events) |
+| Crestive ::{ flag=US }:: | 0 | **5** | ::{ flag=PL }:: **gnahus** | [#1](https://osu.ppy.sh/multiplayer/rooms/3668678/events) |
 
 Sunday, 19th of July 2026:
 
-| Player 1 |  |  | Player 2 | Match time |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| lifeline ::{ flag=ID }:: | 0 | 0 | ::{ flag=IT }:: kusuriya | 11:00 UTC |
-| Amasetic ::{ flag=FI }:: | 0 | 0 | ::{ flag=SM }:: argweid | 13:00 UTC |
-| yary ::{ flag=DE }:: | 0 | 0 | ::{ flag=RO }:: origin_ | 14:00 UTC |
-| BoshyMan741 ::{ flag=US }:: | 0 | 0 | ::{ flag=GB }:: fudge | 18:30 UTC |
-| xootynator ::{ flag=CA }:: | 0 | 0 | ::{ flag=NL }:: Aheo | 19:30 UTC |
+| lifeline ::{ flag=ID }:: | 3 | **5** | ::{ flag=IT }:: **kusuriya** | [#1](https://osu.ppy.sh/multiplayer/rooms/3676104/events) |
+| Amasetic ::{ flag=FI }:: | 2 | **5** | ::{ flag=SM }:: **argweid** | [#1](https://osu.ppy.sh/multiplayer/rooms/3676500/events) |
+| **yary** ::{ flag=DE }:: | **5** | 3 | ::{ flag=RO }:: origin_ | [#1](https://osu.ppy.sh/multiplayer/rooms/3677437/events) |
+| BoshyMan741 ::{ flag=US }:: | 4 | **5** | ::{ flag=GB }:: **fudge** | [#1](https://osu.ppy.sh/multiplayer/rooms/3679836/events) |
+| xootynator ::{ flag=CA }:: | 3 | **5** | ::{ flag=NL }:: **Aheo** | [#1](https://osu.ppy.sh/multiplayer/rooms/3680400/events) |
 
 Thursday, 23rd of July 2026:
 
