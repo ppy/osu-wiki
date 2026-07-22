@@ -22,6 +22,8 @@ Contributors who registered their accounts during an older era of the game have 
 
 #### August
 
+*For the news post, see: [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)*
+
 *For the forum thread, see: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
 | User | Contributions |
@@ -253,7 +255,7 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
 
-### 2024
+### 2025
 
 #### March
 
