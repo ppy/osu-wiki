@@ -194,7 +194,9 @@ Stichting CAVOE EVENTS reserves the right to modify this rulebook without notice
 
 The tournament is split into 3 stages: qualifiers, play-in bracket and final bracket.
 
-All bracket matches will be direct 1v1 best of 9 matches, except for the Grand Final and 3rd-place matches that will be best of 11. Freeplay and freemod are not enabled throughout the tournament.
+All bracket matches will be direct 1v1 best of 9 matches, except for the Grand Final and 3rd-place matches that will be best of 11. 
+
+Freeplay and freemod are not enabled throughout the tournament.
 
 #### Confidentiality
 
@@ -284,7 +286,7 @@ During the qualifier, each participant will be given one attempt to set a high s
 
 The map pool consists of:
 
-- 4 maps played using no mod
+- 4 maps played using ”No Mod”
 - 2 maps played using “Hidden”
 - 2 maps played using “Hard Rock”
 - 3 maps played using “Double Time”
@@ -299,7 +301,7 @@ The organization opens a playlist lobby in osu!lazer.
 
 Players can join and play any time during this stage, as long as they’ve registered beforehand.
 
-Players should play each song one time only. Scores can be submitted until the playlist closes.
+Players may play the maps at any time before the playlist closes and have a maximum of 16 attempts across the entire playlist. Only best score on each map will count.
 
 The chat will not be monitored. Participants are expected to reach the organization through the Discord server during that stage.
 
@@ -322,7 +324,7 @@ Every player is placed according to traditional seeding rules.
 There will be one ban for each player.
 
 The map pool consists of:
-5 maps played using no mod
+5 maps played using ”No Mod”
 2 maps played using “Hidden”
 2 maps played using “Hard Rock”
 3 maps played using “Double Time”
@@ -361,16 +363,14 @@ Matches are scheduled beforehand. The schedule can not be changed. If a player c
 
 Participants may recheck and reconfigure their setup up to 15 minutes before the scheduled match time.
 
-### Bracket Match During the match
+### Bracket match procedure
 
-Once both players and a referee join the match, both players will begin by rolling using the in-game method.
-In offline matches, a physical method may be used instead.
+Once both players and a referee join the match, both players will begin by rolling using the in-game method. In offline matches, a physical method may be used instead.
 
-During the final stage, the loser of the roll will then be able to protect a map from the map pool from being banned, followed by the winner of the roll doing the same.
-Then, during both the play-in and final stages, the winner of the roll decides on the order of the bans OR the picks. The loser decides on the order of the other option.
-Afterwards the players will ban 1 map each in the order chosen. During the Finals stage each player will ban 2 maps each in the order chosen.
+During the final stage, the loser of the roll will then be able to protect a map from the map pool from being banned, followed by the winner of the roll doing the same. Then, during both the play-in and final stages, the winner of the roll decides on the order of the bans OR the picks. The loser decides on the order of the other option. Afterwards the players will ban 1 map each in the order chosen. During the Finals stage each player will ban 2 maps each in the order chosen.
 
 The players then alternate picking the map. If they reach a tie after playing 8 maps (or 10 maps in BO11 matches), the tiebreaker will be picked automatically.
+
 Between each map there is a short break of a few seconds during which the next map must be picked.
 
 Once any player reaches 5 map wins (or 6 wins in bo11 matches), the match is over and the winner advances to the next match.
@@ -408,6 +408,7 @@ Participants will be sanctioned if they are violating or attempting to violate a
 #### Clothing
 
 For your own safety you are required to wear closed shoes (no flip flops or sandals). We further recommend long trousers. Headwear is allowed.
+
 Failure to comply will lead to disqualification
 
 #### Disqualification
