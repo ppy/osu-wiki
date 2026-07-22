@@ -20,9 +20,9 @@ The COE 2026 1v1 Tournament prizes are yet to be announced.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1200€, a prize from Wooting *TBA*, COE merchandise *TBA* |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 750€, a prize from Wooting *TBA*, COE merchandise *TBA* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 500€, a prize from Wooting *TBA*, COE merchandise *TBA* |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1200€, Wooting 60HE v2 keyboard, COE merchandise *TBA* |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 750€, Wooting 80HE keyboard, COE merchandise *TBA* |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 500€, Wooting 60HE+ keyboard, COE merchandise *TBA* |
 | 4th place | 350€, COE merchandise *TBA* |
 | 5th–8th place | 250€, COE merchandise *TBA* |
 | 9th–16th place | 150€, COE merchandise *TBA* |
