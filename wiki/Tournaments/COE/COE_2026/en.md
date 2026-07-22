@@ -222,8 +222,6 @@ If you would like to acquire broadcast rights as a third party you can get in co
 
 For any questions, notes, or suggestions regarding this rulebook, please contact the tournament organisation via [Discord](https://discord.com/invite/zJ7e6cTVFh)
 
-#### Participant Details
-
 ##### Participation
 
 Players do not need to sign up prior to playing the qualifiers. Participating in any qualifier match constitutes a sign up and thus binds the player to adhere to the [osu! community rules](/wiki/Rules) in addition to this rulebook. Compliance will be screened by COE and osu! staff.
@@ -349,7 +347,7 @@ There will be one protect and two bans for each player.
 
 The map pool consists of:
 
-- 5 maps played using no mod
+- 5 maps played using No Mod
 - 3 maps played using Hidden
 - 3 maps played using Hard Rock
 - 3 maps played using Double Time
