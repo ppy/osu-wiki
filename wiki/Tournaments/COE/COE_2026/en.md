@@ -194,7 +194,7 @@ Stichting CAVOE EVENTS reserves the right to modify this rulebook without notice
 
 The tournament is split into 3 stages: qualifiers, play-in bracket and final bracket.
 
-All bracket matches will be direct 1v1 best of 9 matches, except for the Grand Final and 3rd-place matches that will be best of 11. 
+All bracket matches will be direct 1v1 best-of-9 matches, except for the Grand Final and 3rd-place matches that will be best of 11. 
 
 Freeplay and freemod are not enabled throughout the tournament.
 
@@ -220,7 +220,7 @@ If you would like to acquire broadcast rights as a third party you can get in co
 
 #### Contact
 
-For any questions, notes, or suggestions regarding this rulebook, please contact the tournament organization via [Discord](https://discord.com/invite/zJ7e6cTVFh)
+For any questions, notes, or suggestions regarding this rulebook, please contact the tournament organisation via [Discord](https://discord.com/invite/zJ7e6cTVFh)
 
 #### Participant Details
 
@@ -232,7 +232,7 @@ Players will need to use both an osu! account and a Discord account during the t
 
 Players qualified for the Round of 16 must play on-site. Every qualified player must own a COE Event or BYOC ticket.
 
-No member of the tournament organization may sign up for the tournament, with the exception of commentators.
+No member of the tournament organisation may sign up for the tournament, with the exception of commentators.
 
 ###### Further details
 
@@ -250,7 +250,7 @@ Additionally the participants in the grand final and the winner of the match for
 
 #### Prize money
 
-The prize money should ideally be paid out 90 days after the tournament has concluded, but may take as long as 180 days for the payment to be completed. If a participant has not provided any payment method to the tournament organization, the payment will be delayed until this is rectified.
+The prize money should ideally be paid out 90 days after the tournament has concluded, but may take as long as 180 days for the payment to be completed. If a participant has not provided any payment method to the tournament organisation, the payment will be delayed until this is rectified.
 
 Stichting CAVOE EVENTS reserves the right to cancel any pending payment, if any evidence of fraud or foul play has been discovered.
 
@@ -286,36 +286,34 @@ During the qualifier, each participant will be given one attempt to set a high s
 
 The map pool consists of:
 
-- 4 maps played using ”No Mod”
-- 2 maps played using “Hidden”
-- 2 maps played using “Hard Rock”
-- 3 maps played using “Double Time”
+- 4 maps played using No Mod
+- 2 maps played using Hidden
+- 2 maps played using Hard Rock
+- 3 maps played using Double Time
 
-Each score will be used to determine the seeding. The seeding method used is x=(y-AVERAGE(z))/STDEV.S(z) where x is the point result for that map, y is the achieved score on map and z is all scores on map. All x's for a player are added up to form their final qualifier result.
+Each score will be used to determine the seeding. The seeding method used is `x = (y - AVERAGE(z)) / STDEV(z)`, where `x` is the point result for that map, `y` is the achieved score on map and `z` is all scores on a map. All `x`'s for a player are added up to form their final qualifier result.
 
 The top 24 players will advance to the play-in phase.
 
 #### Match procedure
 
-The organization opens a playlist lobby in osu!lazer.
+The organisation opens a playlist lobby in osu!(lazer).
 
-Players can join and play any time during this stage, as long as they’ve registered beforehand.
+Players can join and play any time during this stage, as long as they have registered beforehand.
 
 Players may play the maps at any time before the playlist closes and have a maximum of 16 attempts across the entire playlist. Only best score on each map will count.
 
-The chat will not be monitored. Participants are expected to reach the organization through the Discord server during that stage.
+The chat will not be monitored. Participants are expected to reach the organisation through the Discord server during that stage.
 
 ### Play-in phase
 
 #### Stage overview
 
-Players ranked 9-24 following qualifiers will be matched against each other in round 1.
+Players ranked 9–24 following qualifiers will be matched against each other in round 1.
 
-Winners of round 1 will advance to round 2, where they face off against players ranked 1-8 following qualifiers.
-Losers of round 1 will advance to round 3.
+Winners of round 1 will advance to round 2, where they face off against players ranked 1–8 following qualifiers. Losers of round 1 will advance to round 3.
 
-Winners of round 2 are qualified for the final stage.
-Losers of round 2 will advance to round 3.
+Winners of round 2 are qualified for the final stage. Losers of round 2 will advance to round 3.
 
 Winners of round 3 are qualified for the final stage.
 
@@ -324,17 +322,18 @@ Every player is placed according to traditional seeding rules.
 There will be one ban for each player.
 
 The map pool consists of:
-5 maps played using ”No Mod”
-2 maps played using “Hidden”
-2 maps played using “Hard Rock”
-3 maps played using “Double Time”
-1 map used to break ties.
+
+- 5 maps played using No Mod
+- 2 maps played using Hidden
+- 2 maps played using Hard Rock
+- 3 maps played using Double Time
+- 1 map used to break ties.
 
 There are no free mod picks in this map pool.
 
 #### Scheduling
 
-The matches will start once the scheduled time is reached and a referee is present. Players can request a different schedule. The organization will evaluate requests based on available resources and the broadcast schedule.
+The matches will start once the scheduled time is reached and a referee is present. Players can request a different schedule. The organisation will evaluate requests based on available resources and the broadcast schedule.
 
 Players are required to check in with the assigned referee 10 minutes prior to the match.
 
@@ -349,11 +348,12 @@ The finals consist of a single elimination bracket, with an additional match dec
 There will be one protect and two bans for each player.
 
 The map pool consists of:
-5 maps played using no mod
-3 maps played using “Hidden”
-3 maps played using “Hard Rock”
-3 maps played using “Double Time”
-1 map used to break ties.
+
+- 5 maps played using no mod
+- 3 maps played using Hidden
+- 3 maps played using Hard Rock
+- 3 maps played using Double Time
+- 1 map used to break ties.
 
 There are no free mod picks in this map pool.
 
@@ -373,7 +373,7 @@ The players then alternate picking the map. If they reach a tie after playing 8 
 
 Between each map there is a short break of a few seconds during which the next map must be picked.
 
-Once any player reaches 5 map wins (or 6 wins in bo11 matches), the match is over and the winner advances to the next match.
+Once any player reaches 5 map wins (or 6 wins in BO11 matches), the match is over and the winner advances to the next match.
 
 Rounds with disconnects within 30 seconds or 25% of the beatmap length, whichever happens first, can be replayed, at the discretion of the referee, as long as the problem was clearly communicated in time.
 
@@ -399,10 +399,10 @@ Participants will be sanctioned if they are violating or attempting to violate a
 - Showing unsporting behavior
 - Faking or being misleading regarding their identity
 - Misleading referees
-- Not putting in any effort to win a match / Match fixing
+- Not putting in any effort to win a match/match fixing
 - Not following the osu! community guidelines
 - Breaking any local laws
-- Betting on any matches. This also applies to all staff
+- Betting on any matches (applies to all staff as well)
 - Damaging any equipment that is not your own
 
 #### Clothing
@@ -417,6 +417,6 @@ Breaking any of the rules outlined in this document may result in disqualificati
 
 #### Tournament report form
 
-Any breach of the rules should be reported to the tournament organization without delay.
+Any breach of the rules should be reported to the tournament organisation without delay.
 
 This tournament is also overseen by the Tournament Committee. You may bring to their attention issues such as breaches of competitive integrity or other concerns through their [tournament report form](https://tcomm.hivie.tn/reports/create)!
