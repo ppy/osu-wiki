@@ -20,25 +20,27 @@ The COE 2026 1v1 Tournament prizes are yet to be announced.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1200€, a prize from Wooting TBA, COE merchandise TBA |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 750€, a prize from Wooting TBA, COE merchandise TBA |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 500€, a prize from Wooting TBA, COE merchandise TBA |
-| 4th place | 350€, COE merchandise TBA |
-| 5th–8th place | 250€, COE merchandise TBA |
-| 9th–16th place | 150€, COE merchandise TBA |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1200€, a prize from Wooting *TBA*, COE merchandise *TBA* |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 750€, a prize from Wooting *TBA*, COE merchandise *TBA* |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 500€, a prize from Wooting *TBA*, COE merchandise *TBA* |
+| 4th place | 350€, COE merchandise *TBA* |
+| 5th–8th place | 250€, COE merchandise *TBA* |
+| 9th–16th place | 150€, COE merchandise *TBA* |
 
 ## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
 | Admins | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
-| Mappool selector | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=US }:: [chiv](https://osu.ppy.sh/users/6701656) |
-| Mapper | ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589), ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AT }:: [topXD](https://osu.ppy.sh/users/11904298), more TBA |
-| Custom music producer | TBA |
-| GFX | TBA |
+| Mappool selector | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656) |
+| Mapper | ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589), ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AT }:: [topXD](https://osu.ppy.sh/users/11904298), more *TBA* |
+| Custom music producer | *TBA* |
+| GFX | *TBA* |
 | Storyboarder | ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) |
-| Commentator | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=GB }:: [MALTESER](https://osu.ppy.sh/users/5218178), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=FR }:: [Subaru_Arima](https://osu.ppy.sh/users/11273062), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063) |
-| Commentator (special guests) | ::{ flag=PL }:: [_demo](https://osu.ppy.sh/users/3556891), ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902), ::{ flag=US }:: [n3rdiness](https://osu.ppy.sh/users/16537481), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598) |
+| LAN Commentator | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=GB }:: [MALTESER](https://osu.ppy.sh/users/5218178), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=FR }:: [Subaru_Arima](https://osu.ppy.sh/users/11273062), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063) |
+| LAN Commentator (special guests) | ::{ flag=PL }:: [_demo](https://osu.ppy.sh/users/3556891), ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902), ::{ flag=US }:: [n3rdiness](https://osu.ppy.sh/users/16537481), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598) |
+| Online commentator | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=US }:: [Tycani](https://osu.ppy.sh/users/6693266) |
+| Production team | ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=SE }:: [ellen-](https://osu.ppy.sh/users/7630166), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
 | Statistician | ::{ flag=NL }:: [Timper](https://osu.ppy.sh/users/11955929) |
 
@@ -66,13 +68,13 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | TBD |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | TBD |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | TBD |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | *TBD* |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *TBD* |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *TBD* |
 
 ## Mappools
 
-### Online stage
+### Online play-in stage
 
 - No Mod
   1. [USAO - Dynamite (Camellia's MACHO TNT REMIX) [EX-pLo s  ! o   N]](https://osu.ppy.sh/beatmapsets/1610580#osu/3288402)
@@ -113,7 +115,7 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 
 ## Match results
 
-### Online stage
+### Online play-in stage
 
 The bracket for the online stage can be found [here](https://liquipedia.net/osu/COE/2026/Play-In#Results).
 
@@ -178,9 +180,9 @@ Thursday, 23rd of July 2026:
 
 ## Ruleset
 
-### 1. General information
+### General information
 
-#### 1.1 Range of validity
+#### Range of validity
 
 The COE 2026 1v1 Tournament is operated as part of COE 2026 by Stichting CAVOE EVENTS.
 
@@ -188,36 +190,39 @@ The rules outlined in this rulebook are to be followed by all participants and f
 
 Stichting CAVOE EVENTS reserves the right to modify this rulebook without notice.
 
-#### 1.2 Participant details
+#### Participant details
 
 The tournament is split into 3 stages: qualifiers, play-in bracket and final bracket.
+
 All bracket matches will be direct 1v1 best of 9 matches, except for the Grand Final and 3rd-place matches that will be best of 11. Freeplay and freemod are not enabled throughout the tournament.
 
-#### 1.3 Confidentiality
+#### Confidentiality
 
 The content of any correspondence with tournament officials and administrators are deemed confidential. The publication of such material is prohibited for both the participants and tournament officials.
 
-#### 1.4 Broadcast rights
+#### Broadcast rights
 
 All broadcasting rights of the tournament are owned by Stichting CAVOE EVENTS. This includes but is not limited to, video streams, shoutcast streams, replays, clips and TV broadcasts.
 
 Participants can not refuse to have their matches broadcast, nor can they choose the manner the match will be broadcast.
 
 Stichting CAVOE EVENTS has the right to grant the broadcasting rights to a third party.
+
 Further Stichting CAVOE EVENTS is granting broadcasting rights for single matches to participants if following criteria are met:
-The participant is taking part in an online match
-The participant clearly marks that the broadcast is for the tournament (e.g. "COE 2026 1v1" in the title)
-The participant only shows their point of view of the match
 
-If you would like to acquire broadcast rights as a third party you can get in contact as outlined in 1.4
+- The participant is taking part in an online match
+- The participant clearly marks that the broadcast is for the tournament (e.g. "COE 2026 1v1" in the title)
+- The participant only shows their point of view of the match
 
-#### 1.5 Contact
+If you would like to acquire broadcast rights as a third party you can get in contact using the details below.
+
+#### Contact
 
 For any questions, notes, or suggestions regarding this rulebook, please contact the tournament organization via [Discord](https://discord.com/invite/zJ7e6cTVFh)
 
-#### 1.6 Participant Details
+#### Participant Details
 
-##### 1.6.1 Participation
+##### Participation
 
 Players do not need to sign up prior to playing the qualifiers. Participating in any qualifier match constitutes a sign up and thus binds the player to adhere to the [osu! community rules](/wiki/Rules) in addition to this rulebook. Compliance will be screened by COE and osu! staff.
 
@@ -227,7 +232,7 @@ Players qualified for the Round of 16 must play on-site. Every qualified player 
 
 No member of the tournament organization may sign up for the tournament, with the exception of commentators.
 
-###### 1.6.2 Further details
+###### Further details
 
 When requested, participants are required to send us all needed information including but not limited to full name, contact details, date of birth, phone number and address.
 
@@ -241,7 +246,7 @@ Participants will receive a media schedule beforehand to be informed about the n
 
 Additionally the participants in the grand final and the winner of the match for third place are required to attend the prize ceremony.
 
-#### 1.7 Prize money
+#### Prize money
 
 The prize money should ideally be paid out 90 days after the tournament has concluded, but may take as long as 180 days for the payment to be completed. If a participant has not provided any payment method to the tournament organization, the payment will be delayed until this is rectified.
 
@@ -251,19 +256,19 @@ Stichting CAVOE EVENTS is not liable for any taxes or fees the participant may h
 
 Physical and monetary prizes are yet to be determined.
 
-### 2. Requirements
+### Requirements
 
-#### 2.1 Game requirements
+#### Game requirements
 
-articipants are not allowed to use custom skin elements to alter core gameplay elements or mechanics. Any modifications to the game not intended by the developer are also strictly forbidden.
+Participants are not allowed to use custom skin elements to alter core gameplay elements or mechanics. Any modifications to the game not intended by the developer are also strictly forbidden.
 
 osu!(lazer) will be used throughout the whole tournament, in the osu! game mode. Participants are expected to always perform updates as prompted by the game.
 
-#### 2.2 Punctuality
+#### Punctuality
 
 Should a participant not be present at the allotted match time for check-in and matches they will be given a forfeit loss. Participants are also expected to keep the match running fluently and without intentional delays. Excessive match delays results in penalties being applied at the discretion of the referee.
 
-#### 2.3 Drivers and setup
+#### Drivers and setup
 
 During the stages of the tournament that are played in a LAN setting participants are required to inform tournament officials ahead of time which drivers they need for their equipment. Only open source and drivers supplied by the manufacturer are allowed to be used.
 
@@ -271,22 +276,24 @@ Participants will be given the chance before any LAN matches start to configure 
 
 We reserve the right to inspect any equipment brought by participants and deny it being used, if an attempt at foul play is suspected.
 
-### 3. Qualifiers
+### Qualifiers
 
-#### 3.1 Format overview
+#### Format overview
 
 During the qualifier, each participant will be given one attempt to set a high score on each map of the map pool. These attempts will be in matches scheduled beforehand.
 
 The map pool consists of:
-4 maps played using no mod
-2 maps played using “Hidden”
-2 maps played using “Hard Rock”
-3 maps played using “Double Time”
+
+- 4 maps played using no mod
+- 2 maps played using “Hidden”
+- 2 maps played using “Hard Rock”
+- 3 maps played using “Double Time”
 
 Each score will be used to determine the seeding. The seeding method used is x=(y-AVERAGE(z))/STDEV.S(z) where x is the point result for that map, y is the achieved score on map and z is all scores on map. All x's for a player are added up to form their final qualifier result.
+
 The top 24 players will advance to the play-in phase.
 
-#### 3.2 Match procedure
+#### Match procedure
 
 The organization opens a playlist lobby in osu!lazer.
 
@@ -296,9 +303,9 @@ Players should play each song one time only. Scores can be submitted until the p
 
 The chat will not be monitored. Participants are expected to reach the organization through the Discord server during that stage.
 
-### 4. Play-in phase
+### Play-in phase
 
-#### 4.1 Stage overview
+#### Stage overview
 
 Players ranked 9-24 following qualifiers will be matched against each other in round 1.
 
@@ -323,7 +330,7 @@ The map pool consists of:
 
 There are no free mod picks in this map pool.
 
-#### 4.2 Scheduling
+#### Scheduling
 
 The matches will start once the scheduled time is reached and a referee is present. Players can request a different schedule. The organization will evaluate requests based on available resources and the broadcast schedule.
 
@@ -331,9 +338,9 @@ Players are required to check in with the assigned referee 10 minutes prior to t
 
 Rounds with disconnects within 30 seconds or 25% of the beatmap length, whichever happens first, can be replayed, at the discretion of the referee, as long as the problem was clearly communicated in time.
 
-### 5. Finals
+### Finals
 
-#### 5.1 Stage overview
+#### Stage overview
 
 The finals consist of a single elimination bracket, with an additional match deciding the third place.
 
@@ -348,13 +355,13 @@ The map pool consists of:
 
 There are no free mod picks in this map pool.
 
-#### 5.2 Scheduling
+#### Scheduling
 
 Matches are scheduled beforehand. The schedule can not be changed. If a player can't participate at the scheduled time the match will be forfeited and the other player handed a default win. Any changes to the schedule will be announced in due time.
 
 Participants may recheck and reconfigure their setup up to 15 minutes before the scheduled match time.
 
-### 6. Bracket Match During the match
+### Bracket Match During the match
 
 Once both players and a referee join the match, both players will begin by rolling using the in-game method.
 In offline matches, a physical method may be used instead.
@@ -372,15 +379,15 @@ Rounds with disconnects within 30 seconds or 25% of the beatmap length, whicheve
 
 Should a map end in a draw the beatmap will be replayed, before moving on to the next pick.
 
-### 7. Code of conduct
+### Code of conduct
 
-#### 7.1 Tournament management
+#### Tournament management
 
 Instructions of the referees and the tournament management are to be followed. Decisions labeled as final are not to be objected to.
 
 The tournament management and referees have all rights to apply the rulebook in relation to the tournament and all its matches and give warnings and/or penalties to the participants as they see fit.
 
-#### 7.2 Forbidden behaviors
+#### Forbidden behaviors
 
 Participants will be sanctioned if they are violating or attempting to violate any of the following rules:
 
@@ -398,16 +405,16 @@ Participants will be sanctioned if they are violating or attempting to violate a
 - Betting on any matches. This also applies to all staff
 - Damaging any equipment that is not your own
 
-#### 7.3 Clothing
+#### Clothing
 
 For your own safety you are required to wear closed shoes (no flip flops or sandals). We further recommend long trousers. Headwear is allowed.
 Failure to comply will lead to disqualification
 
-#### 7.4 Disqualification
+#### Disqualification
 
 Breaking any of the rules outlined in this document may result in disqualification. Should a participant be disqualified, they are not entitled to any prizes.
 
-#### 7.5 Tournament report form
+#### Tournament report form
 
 Any breach of the rules should be reported to the tournament organization without delay.
 
