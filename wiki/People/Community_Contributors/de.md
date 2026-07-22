@@ -20,6 +20,8 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### August
 
+*Für den Newsbeitrag, siehe: [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)*
+
 *Für den Forumsbeitrag, siehe: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
 | Benutzer | Beiträge |
@@ -251,7 +253,7 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Herausragende Beiträge zur [Mappers' Guild](/wiki/Community/Mappers_Guild) und zu Präsentationsvideos von Featured Artists |
 
-### 2024
+### 2025
 
 #### März
 
