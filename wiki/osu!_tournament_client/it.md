@@ -1,5 +1,3 @@
----
-
 # osu! tournament client
 
 L'**osu! tournament client** è il client ufficiale che sovrappone a [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) scene e informazioni supplementari relative a un torneo di osu! durante una live stream.
