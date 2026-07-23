@@ -1,3 +1,7 @@
+---
+stub: true
+---
+
 # Chord
 
 Un **chord** è un gruppo di due o più note da colpire contemporaneamente. Sono conosciuti per aumentare la densità e evidenziare suoni diversi nella musica.

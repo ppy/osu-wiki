@@ -1,3 +1,7 @@
+---
+stub: true
+---
+
 # Stream
 
 ## Stream a nota singola
