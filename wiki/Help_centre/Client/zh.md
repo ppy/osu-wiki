@@ -30,6 +30,8 @@ tags:
   - 卡慢
   - 游玩
   - 界面
+outdated_translation: true
+outdated_since: 93ee94cafcbd971726f274c065dcf20c3587b5ad
 ---
 
 # 客户端
