@@ -1,3 +1,7 @@
+---
+outdated_translation: true
+---
+
 # Stockage de fichiers dans osu!(lazer)
 
 Par défaut, osu!(lazer) stocke les fichiers de beatmaps, de skins, et de replays de scores dans les répertoires suivants :

@@ -1,5 +1,6 @@
 # osu! program files
 
+*For the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) version of this article, see: [osu!(lazer) program files](/wiki/Client/osu!_program_files_(lazer))*\
 *See also: [osu! File Formats](/wiki/Client/File_formats)*
 
 ![The file structure of osu!'s installation folder, on Windows and macOS](img/file_structure.jpg "The file structure of osu!'s installation folder, on Windows and macOS")
