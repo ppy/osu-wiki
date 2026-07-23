@@ -4,6 +4,7 @@ tags:
   - CR
   - content review
   - afstemning
+no_native_review: true
 ---
 
 # Proces for afstemninger om indhold
