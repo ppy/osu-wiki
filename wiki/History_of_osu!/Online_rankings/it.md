@@ -6,8 +6,6 @@ tags:
   - "rank #1"
   - rankings
   - top player
-outdated_translation: true
-outdated_since: 47380e1c3c6a414c437cd093bf205643f0278ba6
 ---
 
 # Cronologia delle classifiche online
@@ -20,19 +18,19 @@ Numerosi giocatori hanno raggiunto il primo posto in ogni modalità di gioco con
 
 *Pagina principale: [Cronologia delle classifiche di osu!](osu!)*
 
-Al 3 agosto 2024, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
+Al 11 luglio 2026, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 
-Al 19 giugno 2024, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+Al 11 luglio 2026, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
 
 ## ![][osu!catch] osu!catch
 
-Al 2 novembre 2024, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
+Al 1 luglio 2026, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283/fruits).
 
 ## ![][osu!mania] osu!mania
 
-Al 31 dicembre 2024, nella [classifica delle performance di osu!mania](https://osu.ppy.sh/rankings/mania/performance) il giocatore numero 1 è ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
+Al 4 aprile 2026, nella [classifica delle performance di osu!mania](https://osu.ppy.sh/rankings/mania/performance) il giocatore numero 1 è ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
