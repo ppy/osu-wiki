@@ -1,9 +1,3 @@
----
-stub: true
-outdated_translation: true
-outdated_since: 7779388d917b1c846aa5df6b1310d9e9036805f7
----
-
 # Chord
 
 Un **chord** è un gruppo di due o più note da colpire contemporaneamente. Sono conosciuti per aumentare la densità e evidenziare suoni diversi nella musica.
@@ -30,6 +24,6 @@ I **quad** sono quattro note da colpire contemporaneamente. Oltre questa quantit
 
 ## Grace note
 
-Le **grace note** sono due o più note in colonne diverse da colpire in successione rapida. Questo è comunemente fatto con snapping più alti di 1/6. Durante il gameplay, appaiono molto simili ai chord.
+Le **grace note** sono due o più note in colonne diverse da colpire in successione rapida. Questo è comunemente fatto con snapping più veloci di 1/6. Durante il gameplay, appaiono molto simili ai chord.
 
 ![](img/grace.png)
