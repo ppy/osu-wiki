@@ -12,7 +12,7 @@ Es ist jedoch erwähnenswert, dass sich der Inhalt aller Video Game Packs, Anime
 
 ## Skill
 
-**Skill Medaillen** sind Medaillen, die bei verschiedenen fähigkeitsbasierten Errungenschaften vergeben werden, z. B. das Erreichen eines bestimmten [Combo](/wiki/Beatmapping/Combo)-Meilensteins, das Erklimmen eines bestimmten Rangs in den [globalen Performance-Punkte-Ranglisten](https://osu.ppy.sh/rankings/osu/performance) oder das Erzielen einer [vollständigen Combo](/wiki/Gameplay/Full_combo) auf einer beliebigen Beatmap, die [qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked) oder [approved](/wiki/Beatmap/Category#approved) ist, innerhalb eines bestimmten Bereichs für die [Sternebewertung](/wiki/Beatmap/Star_rating).
+**Skill Medaillen** sind Medaillen, die bei verschiedenen fähigkeitsbasierten Errungenschaften vergeben werden, z. B. das Erreichen eines bestimmten [Combo](/wiki/Gameplay/Combo_(score_multiplier))-Meilensteins, das Erklimmen eines bestimmten Rangs in den [globalen Performance-Punkte-Ranglisten](https://osu.ppy.sh/rankings/osu/performance) oder das Erzielen einer [vollständigen Combo](/wiki/Gameplay/Full_combo) auf einer beliebigen Beatmap, die [qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked) oder [approved](/wiki/Beatmap/Category#approved) ist, innerhalb eines bestimmten Bereichs für die [Sternebewertung](/wiki/Beatmap/Star_rating).
 
 ## Dedication
 
