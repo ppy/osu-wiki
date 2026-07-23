@@ -24,7 +24,7 @@ As of 11 July 2026, on the [osu! performance rankings](https://osu.ppy.sh/rankin
 
 <!-- TODO: Add ranking history page similar to osu! -->
 
-As of 11 July 2026, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+As of 23 July 2026, on the [osu!taiko performance rankings](https://osu.ppy.sh/rankings/taiko/performance) the rank #1 player is ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
 

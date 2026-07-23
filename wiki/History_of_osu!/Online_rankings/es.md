@@ -26,7 +26,7 @@ Desde el 11 de julio de 2026, en la [clasificación de rendimiento de osu!](http
 
 ## ![][osu!taiko] osu!taiko
 
-Desde el 11 de julio de 2026, en la [clasificación de rendimiento de osu!taiko](https://osu.ppy.sh/rankings/taiko/performance), el jugador en el puesto #1 es ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+Desde el 23 de julio de 2026, en la [clasificación de rendimiento de osu!taiko](https://osu.ppy.sh/rankings/taiko/performance), el jugador en el puesto #1 es ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
 
