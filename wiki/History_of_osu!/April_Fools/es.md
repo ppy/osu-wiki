@@ -14,8 +14,6 @@ tags:
   - broma
   - historia
   - legado
-outdated_translation: true
-outdated_since: b1a5c300e1bc980a80305edb0dbd3aaf7993ae4d
 ---
 
 # Historia de las bromas del día de los Inocentes de osu!
@@ -157,7 +155,7 @@ Como parte del puñado de bromas del día de los Inocentes de 2016, la [osu! coo
 
 ## 2017
 
-Como se anunció en un [tuit de peppy](https://twitter.com/ppy/status/848021525663842304), no hubo broma del día de los Inocentes para osu! en 2017 debido al desarrollo de la versión [lazer](/wiki/Client/Release_stream/Lazer) del cliente de osu!.
+Como se anunció en un [tuit de peppy](https://twitter.com/ppy/status/848021525663842304), no hubo broma del día de los Inocentes para osu! en 2017 debido al desarrollo de [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 ## 2018
 
@@ -170,6 +168,8 @@ El 1 de abril de 2018, la [osu! cookie](/wiki/Brand_identity_guidelines) en la p
 ### Efecto de sonido de una chica estornudando
 
 Para el día de los Inocentes de 2019, había aproximadamente una probabilidad de 1 en 20 de escuchar el efecto de sonido de una chica estornudando al abrir un beatmap.[^sneeze-reddit][^sneeze-reddit-2][^sneeze-forums]
+
+Desde 2019, esta broma se ha repetido cada año (solo en osu!(stable)).[^sneeze-2-reddit][^sneeze-2-reddit-2][^sneeze-2-forums][^sneeze-2-forums-2][^sneeze-3-reddit][^sneeze-3-forums]
 
 ## 2020
 
@@ -184,16 +184,6 @@ Para el día de los Inocentes de 2019, había aproximadamente una probabilidad d
 - There's Gold Beneath Your Waltzing Rainbow (feat. Mismagius)
 
 [«MillhioreF - Waltz o' the Irish (MillhioreF)»](https://osu.ppy.sh/beatmapsets/73348#osu/326585) —un beatmap de broma de hace mucho tiempo dentro de la comunidad— también fue [amado](/wiki/Beatmap/Category#loved) el 31 de marzo de 2020 como parte de esta broma.
-
-### Efecto de sonido de una chica estornudando
-
-El día de los Inocentes de 2020 recicló la misma broma del año anterior, lo que provocó una probabilidad de aproximadamente de 1 en 20 de escuchar el efecto de sonido de una chica con un tono alto estornudando al abrir un beatmap.[^sneeze-2-reddit][^sneeze-2-reddit-2]
-
-## 2021
-
-### Efecto de sonido de una chica estornudando
-
-El día de los Inocentes de 2021 recicló la misma broma de los dos años anteriores, que era una probabilidad de 1 en 20 de escuchar un efecto de sonido de una chica con un tono alto estornudando al abrir un beatmap.[^sneeze-2-forums][^sneeze-2-forums-2]
 
 ## 2026
 
@@ -297,12 +287,15 @@ Esta sección de `Toggles` se añadió en respuesta a las numerosas peticiones r
 [^sneeze-reddit-2]: [Publicación de Reddit por u/anoymaly2152 en r/osugame (1/4/2019) «Bless you, Pippi.»](https://www.reddit.com/r/osugame/comments/b848ro/bless_you_pippi/)
 [^sneeze-forums]: [Hilo del foro por Brainage (1/4/2019) «No April Fools in the changelog?»](https://osu.ppy.sh/community/forums/topics/888939)
 
-[^irish-fa]: [Noticia publicada por Ephemeral (1/4/2020) «New Featured Artist: MillhioreF»](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref)
-
 [^sneeze-2-reddit]: [Publicación de Reddit por u/not_pingu en r/osugame (1/4/2020) «Does anybody sometimes hear the "achoo"? (sorry for bad quality)»](https://www.reddit.com/r/osugame/comments/fsxfpk/does_anybody_sometimes_hear_the_achoo_sorry_for/)
 [^sneeze-2-reddit-2]: [Publicación de Reddit por u/ohmaytt en r/osugame (1/4/2020) «This year's osu! April Fool's Day joke»](https://www.reddit.com/r/osugame/comments/fsq30l/this_years_osu_april_fools_day_joke/)
 [^sneeze-2-forums]: [Hilo del foro por MilkyIQ (1/4/2021) «Is this not the third year in a row that we get sneezing girl?»](https://osu.ppy.sh/community/forums/topics/1286906)
 [^sneeze-2-forums-2]: [Hilo del foro por GreatTurtleKing (1/4/2021) «i heard like a sneeze when i just started to play a song»](https://osu.ppy.sh/community/forums/topics/1286396)
+
+[^sneeze-3-reddit]: [Publicación de Reddit por u/Clone_C1 en r/osugame (1/4/2022) «Is peppy trolling, I hear some anime girl sneezing or something when select a song?»](https://www.reddit.com/r/osugame/comments/ttjurr/is_peppy_trolling_i_hear_some_anime_girl_sneezing/)
+[^sneeze-3-forums]: [Hilo del foro por Antonio225 (1/4/2022) «Osu! Sneezing sound»](https://osu.ppy.sh/community/forums/topics/1550108)
+
+[^irish-fa]: [Noticia publicada por Ephemeral (1/4/2020) «New Featured Artist: MillhioreF»](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref)
 
 [^2026]: [Código fuente de osu! (lazer)](https://github.com/ppy/osu/commit/3edc428c3a084896ec6fcb4f09528cdd0668c0ef)
 [^barrel-roll]: Una referencia a un meme de [Star Fox 64](https://es.wikipedia.org/wiki/Star_Fox_64), en el que Peppy Hare aconseja al jugador con «Do a barrel roll!», es decir, que gire 360 grados.
