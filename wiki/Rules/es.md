@@ -42,7 +42,7 @@ Estas reglas se aplican estrictamente a los beatmaps enviados a través del [sis
 
 1. **Asegúrate de que tienes permiso para usar cualquier contenido incluido en tu beatmap**. Esto incluye canciones, vídeos, hitsounds, gráficos y cualquier otro contenido que no sea tu propia creación. Si no estás seguro de dónde encontrar contenido de uso libre, echa un vistazo a nuestra creciente biblioteca de [Artistas Destacados](https://osu.ppy.sh/beatmaps/artists) para encontrar música 100 % autorizada para su uso en osu! y a las [pautas de uso del contenido](Content_usage_guidelines) para más información.
 2. **Mantente dentro del tema en las [discusiones de beatmaps](/wiki/Beatmap_discussion)**. Estos hilos/discusiones tratan sobre el beatmap en cuestión, y nada más. Si tienes algún problema con algo que no tenga que ver directamente con el beatmap, publícalo en el foro apropiado.
-3. **No plagies ni intentes robar el trabajo de otros**. Además, no subas ni uses el trabajo de otras personas sin su permiso explícito (esto incluye skins, dificultades de invitados y entre otros).
+3. **No plagies ni intentes robar el trabajo de otros**. Además, no subas ni uses el trabajo de otras personas sin su permiso explícito (esto incluye skins y dificultades de invitados, entre otros).
 4. **Sigue las [reglas del contenido de canciones](Song_content_rules) y las [consideraciones de contenido visual](Visual_content_considerations)**.
 
 ## ¿Qué ocurre si incumplo las reglas?
