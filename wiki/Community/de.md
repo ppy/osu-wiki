@@ -25,6 +25,7 @@ Diese Seite listet Möglichkeiten für Menschen aus der gesamten osu!-Community 
 
 - [Events für Beatmap-Nominatoren](/wiki/Community/Beatmap_Nominator_events)
 - [cavoes osu!-Event](/wiki/Community/cavoe's_osu!_event)
+- [Moskau osu!-Event](/wiki/Community/Moscow_osu!_Event)
 - [osu! Community Meetings](/wiki/Community/osu!_community_meetings)
 - [osu! Talk-Event](/wiki/Community/osu!_Talk_Event)
 
