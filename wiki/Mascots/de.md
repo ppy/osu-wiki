@@ -1,13 +1,8 @@
----
-outdated_translation: true
-outdated_since: 4069c039287ddae18fdbbad2f798b80768191fc3
----
-
 # Maskottchen
 
 *Siehe auch: [Maskottchen/Galerie](/wiki/Mascots/Gallery)*
 
-Ein YouTube-Video, in dem die Maskottchen von osu! vorgestellt werden, ist unter [Mascot Showcase](https://youtu.be/mJF2cAs_MrI) zu sehen.
+In diesem Artikel werden die vielen Maskottchen von osu! mit kurzen Zusammenfassungen aufgelistet. Ein YouTube-Video, in dem die Maskottchen von osu! vorgestellt werden, ist [hier](https://youtu.be/mJF2cAs_MrI) zu sehen.
 
 ## Offiziell
 
@@ -15,7 +10,7 @@ Ein YouTube-Video, in dem die Maskottchen von osu! vorgestellt werden, ist unter
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stilisiert mit einem kleinen "p", ist das Maskottchen des osu!-Spielmodus, das im Juli 2008 hinzukam. Sie ist auch als pippidon in osu!taiko bekannt und erschien in [Yandere Simulator](https://yanderesimulator.com) als NPC. Das anfängliche Konzeptbild wurde von ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) erstellt, das pippidon Sprite wurde von ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974) erstellt und das aktuelle Bild wurde von ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) entworfen.
+pippi, stilisiert mit einem kleinen "p", ist das Maskottchen des osu!-Spielmodus, das im Juli 2008 hinzukam. Sie ist auch als pippidon in osu!taiko bekannt. Das anfängliche Konzeptbild wurde von ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) erstellt, das pippidon Sprite wurde von ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974) erstellt und das aktuelle Bild wurde von ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) entworfen.
 
 ### ![osu!catch Icon](/wiki/shared/mode/catch.png) Yuzu
 
@@ -51,7 +46,7 @@ Mocha ist das Maskottchen von osu!taiko. Sie wurde ursprünglich während des [s
 
 > Er ist der heißblütige Anführer der Cheerleader. Er hat eine gute Seele und hilft denen in seiner Umgebung, die in Not sind, indem er sich für sie einsetzt und kämpft!
 
-一本木龍太 (Ryūta Ippongi) war der Chibi-Fruchtfänger von osu!catch, der 2008 dazugekommen war, aber 2014 durch [Yuzu](#yuzu) ersetzt wurde. Er wurde von [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) erstellt und war einst Teil der alten Website. Er erschien auch in [Yandere Simulator](https://yanderesimulator.com) als NPC.
+一本木龍太 (Ryūta Ippongi) war der Chibi-Fruchtfänger von osu!catch, der 2008 dazugekommen war, aber 2014 durch [Yuzu](#yuzu) ersetzt wurde. Er wurde von [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) erstellt und war einst Teil der alten Website.
 
 Ryuuta war auch im Skin von ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357) zu sehen.
 
