@@ -33,7 +33,7 @@ tags:
 
 **Autopilot** 模组是 [osu!](/wiki/Game_mode/osu!) 游戏模式专用的[游戏模组](/wiki/Gameplay/Game_modifier)，会控制光标自动移动到下一个[打击物件](/wiki/Gameplay/Hit_object)的中心，让玩家来点击。使用此模组游玩期间，玩家仅可在暂停屏幕上移动光标。
 
-此模组也会禁用游戏中界面，因此会隐藏[分数](/wiki/Gameplay/Score)、[连击数](/wiki/Beatmapping/Combo)和断连显示。可以按 `Shift` + `Tab` 键重新启用游戏中界面。
+此模组也会禁用游戏中界面，因此会隐藏[分数](/wiki/Gameplay/Score)、[连击数](/wiki/Gameplay/Combo_(score_multiplier))和断连显示。可以按 `Shift` + `Tab` 键重新启用游戏中界面。
 
 除此之外，此模组的每分钟转数（SPM）与 [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) 模组相近，玩家无法通过用光标旋转转盘来提高 SPM 值。
 
