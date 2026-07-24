@@ -122,7 +122,9 @@ Toolbar button: ![Font size options](img/font-size.png "Font size")
 
 ### Spoiler
 
-*Not to be confused with [Spoilerbox](#spoilerbox).*
+::: alert-note
+**Note:** Not to be confused with [Spoilerbox](#spoilerbox).
+:::
 
 ```
 [spoiler]text[/spoiler]
@@ -134,7 +136,9 @@ The tag is most commonly used to prevent spoiling critical/sensitive information
 
 ### Box
 
-*Not to be confused with [Spoilerbox](#spoilerbox).*
+::: alert-note
+**Note:** Not to be confused with [Spoilerbox](#spoilerbox).
+:::
 
 ```
 [box=NAME]
@@ -148,7 +152,10 @@ The custom hyperlink text is denoted by the `NAME` argument. Specifying this arg
 
 The tag is most commonly used to hide large walls of text and images that may bloat up the size of a forum post. Most notably in FAQ or [skin](/wiki/Skinning) release posts.
 
-*Note: the BBCode box's toolbar button is called a "spoiler box", but does not create a `[spoilerbox]` tag.*
+::: alert-notice
+**Notice**
+the BBCode box's toolbar button is called a "spoiler box", but does not create a `[spoilerbox]` tag.
+:::
 
 Toolbar button: ![Box button](img/spoilerbox.png "Box")
 
@@ -170,7 +177,10 @@ text
 
 The `[quote]` tag is used to stylistically format long quotations (a.k.a. "block quotes") through the use of indenting, colouring, bolding, and separating the text via a pink vertical line. The actual contents of the quote are placed between the open and closed tags, while the `NAME` argument specifies the author of the quote (although this is optional). The text inside the quotes will render whitespace and line breaks.
 
-*Notice: The `NAME` argument must be enclosed in quotation marks (`"`).*
+::: alert-notice
+**Notice**
+The `NAME` argument must be enclosed in quotation marks (`"`).
+:::
 
 Long quotations are typically used in more formal writings in place of in-line quotations when said quotation is three or more lines long. Within the osu! forums, however, they are most commonly used to reply to another user's comment, which can be done automatically through the `Quote reply` button located in the top-right of the desired comment (shown below). However, this button will **only appear if the cursor is nearby**.
 
@@ -178,7 +188,9 @@ Quote reply button: ![Quote reply button](img/quotereply.png)
 
 ### Inline code
 
-*Not to be confused with [Code block](#code-block).*
+::: alert-note
+**Note:** Not to be confused with [Code block](#code-block).
+:::
 
 ```
 [c]text[/c]
@@ -190,7 +202,9 @@ Within the osu! forums, this is useful for emphasising e.g. keyboard shortcuts o
 
 ### Code block
 
-*Not to be confused with [Inline code](#inline-code).*
+::: alert-note
+**Note:** Not to be confused with [Inline code](#inline-code).
+:::
 
 ```
 [code]
@@ -210,13 +224,19 @@ Within the osu! forums, code blocks are most often used to post source code for 
 
 The `[url]` tag is used to turn regular text into clickable hyperlinks.
 
-*Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs without the `[url]` tag into links automatically.*
+::: alert-notice
+**Notice**
+Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs without the `[url]` tag into links automatically.
+:::
 
 To create hyperlinks with the `[url]` tag, users must specify two arguments: specific URL of the website to navigate to and the linked text to be displayed. The former must be specified as the `LINK` argument (without quotation marks `"`), while the latter must be specified between the opening and closing tags. If no display text is provided, the hyperlink will not render correctly.
 
 `[url]LINK[/url]` is also supported, but mostly redundant since plain URLs are parsed automatically.
 
-*Notice: All URLs — whether used with the `[url]` tag or plain text — must be valid and include a protocol (`http://`, `https://`, `ftp://`) or a `www.` prefix. Otherwise, the link will not work.*
+::: alert-notice
+**Notice**
+All URLs — whether used with the `[url]` tag or plain text — must be valid and include a protocol (`http://`, `https://`, `ftp://`) or a `www.` prefix. Otherwise, the link will not work.
+:::
 
 Toolbar button: ![URL button](img/url.png "URL")
 
@@ -234,7 +254,10 @@ For best results, include both the correct user ID and its corresponding usernam
 
 When the tag is used in forum, signatures or beatmap descriptions, the osu! website can automatically correct and update the `[profile]` tag if either the `username` is invalid, or the `userid` is invalid/missing. This allows you to quickly insert profile links there if you know *either* the user ID *or* username, without needing to look up both pieces of information.
 
-*Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
+::: alert-notice
+**Notice**
+The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.
+:::
 
 ### Formatted lists
 
@@ -262,7 +285,10 @@ If the `TYPE` argument is specified (the actual value doesn't matter), it will c
 
 The optional `LIST_NAME` argument adds an indented heading above the list. If omitted, no heading is displayed.
 
-*Notice: BBCode lists can be nested or stacked, though this may sometimes cause formatting issues.*
+::: alert-notice
+**Notice**
+BBCode lists can be nested or stacked, though this may sometimes cause formatting issues.
+:::
 
 Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img/list-numbered.png "Numbered list")
 
@@ -286,7 +312,10 @@ To create email links with the `[email]` tag, users must specify two arguments: 
 
 The `[img]` tag is used to include online images into osu! forum posts. To use the tag, users must paste in the direct image address (represented by the `ADDRESS` argument above) sourced from a website. Local file paths (e.g. `C:\Users\Name\Pictures\image.jpg`) **will not work**.
 
-*Notice: A website URL is **not** the same as an image address.*
+::: alert-notice
+**Notice**
+A website URL is **not** the same as an image address.
+:::
 
 In order to obtain an image address, one must navigate to the website it is sourced on, hover their mouse over the image, right-click on the image, and select `Copy image address`. Then, the address should be copied and pasted in between the tags.
 
@@ -331,7 +360,10 @@ A YouTube video's ID is located in the URL of the video, and is the string of 11
 
 The `[audio]` tag is used to embed an [HTML5](https://en.wikipedia.org/wiki/HTML5) audio player from an online audio source. Audio files can be sourced from anywhere, as long as the file exists from a given URL. Local file paths (e.g., `C:\Users\Name\Music\audio.mp3`) **will not work**.
 
-*Caution: Please beware that not all file-sharing services appreciate the ripping of their audio files, due to the music piracy concerns. osu! is not responsible for any copyright issues that users may encounter in that regard.*
+::: alert-caution
+**Caution**
+Please beware that not all file-sharing services appreciate the ripping of their audio files, due to the music piracy concerns. osu! is not responsible for any copyright issues that users may encounter in that regard.
+:::
 
 To embed audio files through this method, users must paste its source URL (e.g. `https://www.example.com/example.mp3`) between the two `[audio]` tags.
 

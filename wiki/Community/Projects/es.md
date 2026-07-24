@@ -214,7 +214,9 @@ Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu!
 
 ### IRC
 
-*Véase también: [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat)*
+::: alert-note
+**Véase también:** [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat)
+:::
 
 | Logo | Nombre | Líder del proyecto | Descripción |
 | :-: | :-- | :-- | :-- |

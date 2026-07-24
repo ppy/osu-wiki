@@ -30,7 +30,10 @@ Alors que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) était supposé ê
 
 ## 2007
 
-*Note : Pendant la période où le [score classé](/wiki/Gameplay/Score/Ranked_score) était utilisé, le détenteur du rang 1 changeait fréquemment, donc les listes précédentes peuvent avoir une précision réduite. Des informations détaillées peuvent être trouvées sur la reconstruction estimée du classement mondial en score classé, qui est disponible [ici](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
+::: alert-notice
+**Note**
+Pendant la période où le [score classé](/wiki/Gameplay/Score/Ranked_score) était utilisé, le détenteur du rang 1 changeait fréquemment, donc les listes précédentes peuvent avoir une précision réduite. Des informations détaillées peuvent être trouvées sur la reconstruction estimée du classement mondial en score classé, qui est disponible [ici](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).
+:::
 
 | Joueur | Du | Jusqu'au | Sources |
 | --: | :-- | :-- | :-- |
@@ -130,7 +133,10 @@ Alors que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) était supposé ê
 
 ## 2012
 
-*Note : [ppv1](/wiki/Performance_points/ppv1) a entièrement remplacé le score classé le 24 juillet 2012.*
+::: alert-notice
+**Note**
+[ppv1](/wiki/Performance_points/ppv1) a entièrement remplacé le score classé le 24 juillet 2012.
+:::
 
 | Joueur | Du | Jusqu'au | Sources |
 | --: | :-- | :-- | :-- |
@@ -161,7 +167,10 @@ Alors que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) était supposé ê
 
 ## 2014
 
-*Note : [ppv2](/wiki/Performance_points) a été introduit le 27 janvier 2014.*
+::: alert-notice
+**Note**
+[ppv2](/wiki/Performance_points) a été introduit le 27 janvier 2014.
+:::
 
 | Joueur | Du | Jusqu'au | Sources |
 | --: | :-- | :-- | :-- |
@@ -353,7 +362,10 @@ Ce qui suit est une liste du nombre total de fois où un joueur a atteint le ran
 
 ## Les plus longs règnes combinés
 
-*Note : Le règne actuel du rang 1 est exclu.*
+::: alert-notice
+**Note**
+Le règne actuel du rang 1 est exclu.
+:::
 
 Voici la liste du nombre total de jours pendant lesquels un joueur a occupé la première place du classement (à partir du 11 juillet 2026).
 
@@ -400,7 +412,10 @@ Voici la liste du nombre total de jours pendant lesquels un joueur a occupé la 
 
 ## Les plus longs règnes individuels
 
-*Note : Seuls les règnes de plus de 100 jours sont inclus. Le règne actuel de rang 1 est exclu.*
+::: alert-notice
+**Note**
+Seuls les règnes de plus de 100 jours sont inclus. Le règne actuel de rang 1 est exclu.
+:::
 
 Voici la liste des plus longs jours consécutifs pendant lesquels un joueur a occupé la première place du classement (à partir du 11 juillet 2026).
 

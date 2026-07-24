@@ -13,8 +13,13 @@ tags:
 
 ![MR mod icon](/wiki/shared/mods/MR.png "Mirror (MR) mod icon")
 
-*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Mirror (lazer mod)](/wiki/Gameplay/Game_modifier/Mirror_(lazer))*\
-*For the full list of all mods, see: [Game Modifier](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Mirror (lazer mod)](/wiki/Gameplay/Game_modifier/Mirror_(lazer))
+:::
+
+::: alert-note
+**Note:** For the full list of all mods, see [Game Modifier](/wiki/Gameplay/Game_modifier)
+:::
 
 ## About
 

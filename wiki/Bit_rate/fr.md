@@ -4,8 +4,13 @@ stub: true
 
 # Bit rate
 
-*Pour les règles concernant le bit rate, voir : [Critères de classement](/wiki/Ranking_criteria)*\
-*Pour obtenir de l'aide pour réencoder l'audio à un bit rate différent, voir : [Guide de l'édition audio](/wiki/Guides/Audio_editing).*
+::: alert-note
+**Remarque** : Pour les règles concernant le bit rate, voir [Critères de classement](/wiki/Ranking_criteria)
+:::
+
+::: alert-note
+**Remarque** : Pour obtenir de l'aide pour réencoder l'audio à un bit rate différent, voir [Guide de l'édition audio](/wiki/Guides/Audio_editing).
+:::
 
 Le **bit rate** est une mesure du débit de données d'un fichier multimédia en unités de bits dans un temps donné. Dans le cadre d'osu!, cette mesure est pertinente lorsque l'on parle de la qualité des fichiers audio : un son de qualité supérieure nécessite généralement un bit rate plus élevé, tandis qu'un son de qualité inférieure peut utiliser un bit rate plus faible.
 

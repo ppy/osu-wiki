@@ -26,7 +26,9 @@ Permitir que otra persona use la cuenta de otro usuario también está estrictam
 
 ## He sido restringido por hacer trampa, ¡pero no hice trampa! {id=false-restriction}
 
-*Véase también: [Restricciones de cuenta § ¡Mi cuenta ha sido restringida! ¿Qué puedo hacer?](/wiki/Help_centre/Account_restrictions#what)*
+::: alert-note
+**Véase también:** [Restricciones de cuenta § ¡Mi cuenta ha sido restringida! ¿Qué puedo hacer?](/wiki/Help_centre/Account_restrictions#what)
+:::
 
 osu! usa parámetros automatizados junto con una verificación manual para detectar cualquier tipo de trampa. Si no sabes por qué estás restringido, ponte en contacto con [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
@@ -73,7 +75,9 @@ Apreciamos mucho tu ayuda para reportar el juego sucio. Revisamos todos los repo
 
 ## He sido restringido por juego sucio. ¿Cómo puedo apelar mi restricción? {id=appeal}
 
-*Véase también: [Restricciones de cuenta § Mi tiempo de espera ha terminado. ¿Cómo puedo apelar?](/wiki/Help_centre/Account_restrictions#appeal)*
+::: alert-note
+**Véase también:** [Restricciones de cuenta § Mi tiempo de espera ha terminado. ¿Cómo puedo apelar?](/wiki/Help_centre/Account_restrictions#appeal)
+:::
 
 Espera al menos tres meses (seis meses si fuiste restringido por hacer trampa) después de la última restricción aplicada antes de apelar[^restriction-length]. Envía tus correos a [accounts@ppy.sh](mailto:accounts@ppy.sh) y escribe en el asunto `Restriction Appeal: <nombre de usuario>`.
 

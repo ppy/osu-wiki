@@ -5,7 +5,9 @@ outdated_since: 4069c039287ddae18fdbbad2f798b80768191fc3
 
 # Mascottes
 
-*Voir également : [Mascottes/Galerie](/wiki/Mascots/Gallery)*
+::: alert-note
+**Voir également** : [Mascottes/Galerie](/wiki/Mascots/Gallery)
+:::
 
 Une vidéo YouTube présentant les mascottes d'osu! est disponible sur [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
 
@@ -19,7 +21,9 @@ pippi, stylisée avec un "p" minuscule, est la mascotte du mode de jeu osu! qui 
 
 ### ![Icône d'osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
-*Pour les newsposts, voir : [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) et [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
+::: alert-note
+**Remarque** : Pour les newsposts, voir [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) et [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)
+:::
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -27,7 +31,9 @@ Yuzu est la mascotte d'osu!catch qui a rejoint le 22/06/2014. Il est né le 10/0
 
 ### ![Icône d'osu!mania](/wiki/shared/mode/mania.png) Mani & Mari
 
-*Pour plus d'informations, voir : [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)*
+::: alert-note
+**Remarque** : Pour plus d'informations, voir [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)
+:::
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
@@ -37,7 +43,9 @@ Mani est une sorte de franc-tireur, qui cherche toujours à explorer de nouveaux
 
 ### ![Icône osu!taiko](/wiki/shared/mode/taiko.png) Mocha
 
-*Pour le newspost, voir : [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)*
+::: alert-note
+**Remarque** : Pour le newspost, voir [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)
+:::
 
 ![Mocha](img/Mocha.png "Mocha")
 

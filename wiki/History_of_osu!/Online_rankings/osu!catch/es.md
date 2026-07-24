@@ -25,7 +25,10 @@ A lo largo de los años, se usaron tres sistemas diferentes para clasificar a lo
 
 Debido a esto, esta lista solo incluye a los jugadores que han alcanzado el puesto #1 en la tabla de clasificación principal que se usaba en ese momento. Las fechas y los números en *cursiva* indican que el jugador correspondiente continúa su reinado como puesto #1 de osu!catch, ya sea desde el año anterior o hasta el año siguiente.
 
-*Nota: osu!catch recibió un reinicio completo de la clasificación global el 7 de diciembre de 2008, por lo que las puntuaciones anteriores a esta fecha no están disponibles.*
+::: alert-notice
+**Aviso**
+osu!catch recibió un reinicio completo de la clasificación global el 7 de diciembre de 2008, por lo que las puntuaciones anteriores a esta fecha no están disponibles.
+:::
 
 ## 2014
 
@@ -154,7 +157,10 @@ Lo siguiente es una lista del número total de veces que un jugador ha alcanzado
 
 ## Reinados combinados más largos
 
-*Nota: El reinado actual del puesto #1 está excluido.*
+::: alert-notice
+**Aviso**
+El reinado actual del puesto #1 está excluido.
+:::
 
 Lo siguiente es una lista del número total de días que un jugador ha ocupado el puesto #1 (al 21 de julio de 2026).
 
@@ -171,7 +177,10 @@ Lo siguiente es una lista del número total de días que un jugador ha ocupado e
 
 ## Reinados individuales más largos
 
-*Nota: Solo se incluyen los reinados de más de 100 días. El actual reinado del puesto #1 está excluido.*
+::: alert-notice
+**Aviso**
+Solo se incluyen los reinados de más de 100 días. El actual reinado del puesto #1 está excluido.
+:::
 
 Lo siguiente es una lista de los días consecutivos más largos que un jugador ha ocupado el puesto #1 (al 21 de julio de 2026).
 

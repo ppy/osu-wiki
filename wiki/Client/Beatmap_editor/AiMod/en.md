@@ -19,7 +19,10 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 ## Messages
 
-*Note: Numbers inside curly brackets (e.g. `{0}`) are placeholders for a number or a word.*
+::: alert-notice
+**Notice**
+Numbers inside curly brackets (e.g. `{0}`) are placeholders for a number or a word.
+:::
 
 ### Informational
 

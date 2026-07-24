@@ -1,8 +1,13 @@
 # Resumen de los modificadores del juego
 
-*Página principal: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Página principal:** [Modificadores del juego](/wiki/Gameplay/Game_modifier)
+:::
 
-*Nota: Todos los mods usados en osu!mania nunca aumentarán el multiplicador de puntuación.*
+::: alert-notice
+**Aviso**
+Todos los mods usados en osu!mania nunca aumentarán el multiplicador de puntuación.
+:::
 
 | Mod | Nombre (Abreviatura) | Multiplicador | Descripción |
 | :-- | :-- | :-- | :-- |
@@ -31,7 +36,10 @@
 
 ## Multiplicadores de puntuación de los mods xk
 
-*Aviso: Esta tabla solo afecta a los beatmaps convertidos desde osu! a osu!mania durante el juego, no en beatmaps específicos de osu!mania.*
+::: alert-notice
+**Aviso**
+Esta tabla solo afecta a los beatmaps convertidos desde osu! a osu!mania durante el juego, no en beatmaps específicos de osu!mania.
+:::
 
 | Predeterminado/Modificador | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
@@ -42,7 +50,10 @@
 
 ### Mods xk con los multiplicadores de puntuación de Co-op
 
-*Aviso: Esta tabla solo afecta a los beatmaps convertidos desde osu! a osu!mania durante el juego, no en beatmaps específicos de osu!mania. Y como tal, el mod Co-Op no penaliza los beatmaps específicos de osu!mania.*
+::: alert-notice
+**Aviso**
+Esta tabla solo afecta a los beatmaps convertidos desde osu! a osu!mania durante el juego, no en beatmaps específicos de osu!mania. Y como tal, el mod Co-Op no penaliza los beatmaps específicos de osu!mania.
+:::
 
 | Predeterminado/Modificador | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
@@ -53,7 +64,10 @@
 
 ## Mods inversos
 
-*Nota: Todos los mods cancelan el mod Target Practice*
+::: alert-notice
+**Aviso**
+Todos los mods cancelan el mod Target Practice
+:::
 
 | Estos mods... | ... cancelan estos mods. (y viceversa) |
 | :-- | :-- |

@@ -214,7 +214,10 @@ The Indonesian Taiko Beginner Showdown was run by various community members.
 
 ### Round of 48
 
-*Note: This mappool was used for both Round of 48 and Round of 32.*
+::: alert-notice
+**Notice**
+This mappool was used for both Round of 48 and Round of 32.
+:::
 
 **[Download the mappack here! (50 MB)](https://drive.google.com/file/d/1IGePywcwkYsifV16PI4Im54tQ_cr7Knp/view)**
 

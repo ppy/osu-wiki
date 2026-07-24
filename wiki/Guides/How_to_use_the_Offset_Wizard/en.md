@@ -1,6 +1,8 @@
 # How to use the Offset Wizard
 
-*See also: [Offset Wizard](/wiki/Client/Options/Offset_Wizard) and [Universal offset](/wiki/Offset/Universal_offset)*
+::: alert-note
+**See also:** [Offset Wizard](/wiki/Client/Options/Offset_Wizard) and [Universal offset](/wiki/Offset/Universal_offset)
+:::
 
 If the [hitsounds](/wiki/Beatmapping/Hitsound) feel out of sync with the music in every beatmap you play, you will more than likely need to change your [universal offset](/wiki/Offset/Universal_offset). The easiest way to do this is by using the **Offset Wizard**.
 

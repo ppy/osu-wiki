@@ -13,8 +13,12 @@ tags:
 
 # Ranking-Verfahren für Beatmaps
 
-*Siehe auch: [Rank (Begriffsabgrenzung)](/wiki/Disambiguation/Rank) und [Ranking-Warteschlange](Ranking_queue)*
-*Für unten genannte Beatmap-Kategorien, siehe: [Beatmap-Kategorie](/wiki/Beatmap/Category)*
+::: alert-note
+**Siehe auch:** [Rank (Begriffsabgrenzung)](/wiki/Disambiguation/Rank) und [Ranking-Warteschlange](Ranking_queue)
+:::
+::: alert-note
+**Anmerkung:** Für unten genannte Beatmap-Kategorien, siehe [Beatmap-Kategorie](/wiki/Beatmap/Category)
+:::
 
 Bevor [Beatmaps](/wiki/Beatmap) in die Kategorie [Ranked](/wiki/Beatmap/Category#ranked) eingestuft werden können, müssen sie von der Community überprüft werden, indem sie das Ranking-Verfahren durchlaufen.
 
