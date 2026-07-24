@@ -3,9 +3,11 @@ tags:
   - history
   - leaderboard
   - rank 1
-  - "rank #1"
+  - 'rank #1'
   - rankings
   - top player
+outdated_translation: true
+outdated_since: 2da322923ff697226b6982282bd85db2027d1df6
 ---
 
 # Cronologia delle classifiche online
