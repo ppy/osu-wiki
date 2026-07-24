@@ -14,7 +14,10 @@ Un **beatmap** (a veces llamado *beatmapset*) es un conjunto de niveles de juego
 - [storyboard](/wiki/Storyboard) con gráficos en movimiento y efectos especiales, que sirve como historia de fondo o tema para la canción (opcional).
 - [skin personalizada](/wiki/Skinning), que cambia la apariencia de la interfaz y los elementos del juego (opcional).
 
-*Nota: Algunas de las características visuales y auditivas de un beatmap se pueden desactivar a través de la superposición de [configuración visual](/wiki/Client/Interface/Visual_settings).*
+::: alert-notice
+**Aviso**
+Algunas de las características visuales y auditivas de un beatmap se pueden desactivar a través de la superposición de [configuración visual](/wiki/Client/Interface/Visual_settings).
+:::
 
 ## Dificultad
 
@@ -101,12 +104,16 @@ Más tarde, el sistema de tablas se convirtió en el proyecto [Beatmap Spotlight
 
 ### Concursos de beatmaps
 
-*Página principal: [Concursos](/wiki/Contests)*
+::: alert-note
+**Página principal:** [Concursos](/wiki/Contests)
+:::
 
 La comunidad de osu! organiza regularmente diferentes concursos para promover la creatividad y premiar a los mappers que hacen lo mejor que pueden. Los concursos van desde pequeños concursos, que se realizan dentro de las comunidades locales, hasta grandes que se llevan a cabo a escala mundial y tienen premios impresionantes. Los ganadores suelen recibir premios en forma de [etiquetas osu!supporter](/wiki/osu!supporter) y una [insignia de perfil](/wiki/Community/Profile_badge) temática.
 
 ### Artistas Destacados
 
-*Página principal: [Artistas Destacados](/wiki/People/Featured_Artists)*
+::: alert-note
+**Página principal:** [Artistas Destacados](/wiki/People/Featured_Artists)
+:::
 
 Artistas Destacados es un programa comunitario del [osu! team](/wiki/People/osu!_team) que se enfoca en otorgar licencias de música de varios artistas para osu! y hacer que esté disponible para el mapeo. La [lista de Artistas Destacados](https://osu.ppy.sh/beatmaps/artists) del sitio web muestra a cada artista involucrado y proporciona plantillas preestablecidas para el mapeo.

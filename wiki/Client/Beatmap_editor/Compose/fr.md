@@ -20,7 +20,9 @@ L'éditeur partage les mêmes outils entre osu!, osu!taiko, et osu!catch, tandis
 
 ## Caractéristiques
 
-*Pour un aperçu général du processus de mapping, voir : [Beatmapping](/wiki/Beatmapping)*
+::: alert-note
+**Remarque** : Pour un aperçu général du processus de mapping, voir [Beatmapping](/wiki/Beatmapping)
+:::
 
 ### Timeline de l'objet
 
@@ -119,7 +121,9 @@ En bas à droite, la vitesse de lecture peut être réglée sur 25 %, 50 %, 75 %
 
 ## Caractéristiques (osu!mania)
 
-*Pour les tutoriels de map osu!mania sur le forum, voir : [[Tutorial] osu!mania mapping, Basics](https://osu.ppy.sh/community/forums/topics/118868), [[Tutorial] osu!mania mapping, Keysounding](https://osu.ppy.sh/community/forums/topics/139139)*
+::: alert-note
+**Remarque** : Pour les tutoriels de map osu!mania sur le forum, voir [[Tutorial] osu!mania mapping, Basics](https://osu.ppy.sh/community/forums/topics/118868), [[Tutorial] osu!mania mapping, Keysounding](https://osu.ppy.sh/community/forums/topics/139139)
+:::
 
 L'éditeur spécifique à osu!mania présente quelques différences par rapport aux autres modes de jeu, qui sont abordées dans cette section.
 
@@ -156,7 +160,9 @@ Dans osu!mania, la zone du diviseur de mesure montre également le nom et le niv
 
 #### Couleurs
 
-*Voir également : [Diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+::: alert-note
+**Voir également** : [Diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+:::
 
 | Couleur de la ligne | Description |
 | :-- | :-- |
@@ -202,7 +208,9 @@ La partie gauche de la fenêtre sample import répertorie tous les échantillons
 
 #### Sample events list
 
-*Voir également : [Échantillons audio d'un storyboard](/wiki/Storyboard/Scripting/Audio)*
+::: alert-note
+**Voir également** : [Échantillons audio d'un storyboard](/wiki/Storyboard/Scripting/Audio)
+:::
 
 ![](img/sample-event-list.jpg "Fenêtre sample events list")
 

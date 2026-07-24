@@ -6,7 +6,9 @@ outdated_since: fff05b2e9de482aa8c120458641e0492c88568b2
 
 # Skinning de l'interface
 
-*Voir également : [Interface](/wiki/Client/Interface)*
+::: alert-note
+**Voir également** : [Interface](/wiki/Client/Interface)
+:::
 
 Les éléments de skinning de l'interface sont utilisés dans plusieurs modes de jeu ou parties de l'interface utilisateur du client.
 
@@ -194,7 +196,9 @@ Notes :
 
 ## Icônes des mods
 
-*Page principale : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Page principale** : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
 
 ---
 
@@ -617,7 +621,9 @@ Notes :
 
 ## Assistant de décalage
 
-*Page principale : [Assistant de décalage](/wiki/Guides/How_to_use_the_Offset_Wizard)*
+::: alert-note
+**Page principale** : [Assistant de décalage](/wiki/Guides/How_to_use_the_Offset_Wizard)
+:::
 
 ---
 
@@ -845,7 +851,9 @@ Notes :
 
 ### Hit bursts
 
-*Page principale : [Skinning/FAQ § Hiérarchie des résultats de l'écran de classement](/wiki/Skinning/FAQ#hiérarchie-des-résultats-de-l'écran-de-classement)*
+::: alert-note
+**Page principale** : [Skinning/FAQ § Hiérarchie des résultats de l'écran de classement](/wiki/Skinning/FAQ#hiérarchie-des-résultats-de-l'écran-de-classement)
+:::
 
 ---
 

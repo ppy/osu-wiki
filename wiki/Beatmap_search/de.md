@@ -11,7 +11,9 @@ tags:
 
 # Beatmap-Suche
 
-*Siehe auch: [Beatmap § Beatmaps herunterladen](/wiki/Beatmap#beatmaps-herunterladen)*
+::: alert-note
+**Siehe auch:** [Beatmap § Beatmaps herunterladen](/wiki/Beatmap#beatmaps-herunterladen)
+:::
 
 Standardmäßig wird jeder Text, der in der [Songauswahl](/wiki/Client/Interface#songauswahl) oder im Suchfeld auf der Webseite eingeben wird, mit dem Künstler, dem Titel, dem Ersteller, dem Namen, der Quelle, den [Mapper-Tags](/wiki/Beatmap/Beatmap_tags#mapper-tags) sowie den [Nutzertags](/wiki/Beatmap/Beatmap_tags#user-tags) der Beatmap abgeglichen. Die Angabe einer einzelnen Zahl zeigt Beatmaps und Schwierigkeitsgrade mit einer bestimmten [Kennung](/wiki/Beatmap#identifizierung) an. Bei allen Suchanfragen wird die Groß- und Kleinschreibung nicht berücksichtigt.
 
@@ -30,7 +32,10 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 
 ## Client
 
-*Anmerkung: Diese Filter funktionieren nur in der Songauswahl, während [osu!direct](/wiki/osu!supporter#osu!direct) nur normale Volltextsuche unterstützt.*
+::: alert-notice
+**Hinweis**
+Diese Filter funktionieren nur in der Songauswahl, während [osu!direct](/wiki/osu!supporter#osu!direct) nur normale Volltextsuche unterstützt.
+:::
 
 | Filter | Beschreibung |
 | :-- | :-- |

@@ -19,7 +19,10 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 
 ## Mensajes
 
-*Nota: Los números dentro de llaves (p. ej. `{0}`) son marcadores para un número o una palabra.*
+::: alert-notice
+**Aviso**
+Los números dentro de llaves (p. ej. `{0}`) son marcadores para un número o una palabra.
+:::
 
 ### Informativos
 

@@ -14,7 +14,9 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ![Icône du mod HT](/wiki/shared/mods/HT.png "Icône du mod Half Time (HT)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
 
 ## À propos
 
@@ -29,7 +31,10 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ## Description
 
-*Note : La méthode utilisée pour ralentir le morceau peut lui donner un son boueux ou robotique.*
+::: alert-notice
+**Note**
+La méthode utilisée pour ralentir le morceau peut lui donner un son boueux ou robotique.
+:::
 
 Le mod **Half Time** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) qui réduit la vitesse (BPM) de la [beatmap](/wiki/Beatmap) à 75% de la vitesse originale, augmente la durée de la musique de 33%, et diminue l'[approach rate (AR)](/wiki/Beatmap/Approach_rate), l'[overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty), et la [santé (HP)](/wiki/Gameplay/Health) d'une petite quantité.
 

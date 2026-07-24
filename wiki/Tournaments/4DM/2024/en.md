@@ -542,7 +542,10 @@ Sunday, 21 January 2024:
 
 ### Match procedures
 
-*Note: Staff will attempt to closely follow the rules of [the most recent 4K osu!mania World Cup](/wiki/Tournaments/MWC/2023_4K).*
+::: alert-notice
+**Notice**
+Staff will attempt to closely follow the rules of [the most recent 4K osu!mania World Cup](/wiki/Tournaments/MWC/2023_4K).
+:::
 
 1. Team captains will be notified of their match via ping on Discord by the referee of their match 15 minutes before the match is scheduled to commence. At this time, team captains shall give the link of one map they wish to play as warmup to the referee of their match. This map must be an osu!mania 4K map and must be no longer than **4:00**. Referees may refuse a team's warmup and demand another one from the team captain if the map does not meet these guidelines or is found to be offensive. Failure to provide a warmup to the referee at this time may result in the team skipping their warmup map.
 2. Team captains will be invited to their match lobby by a referee no less than **five minutes** before the match is scheduled to commence. In the time before the match, team captains will invite and gather their teams into the lobby.
