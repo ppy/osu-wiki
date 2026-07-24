@@ -25,13 +25,13 @@ Mit Stand vom 11. Juli 2026 ist ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users
 
 ## ![][osu!taiko] osu!taiko
 
-Mit Stand vom 11. Juli 2026 ist ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
+Mit Stand vom 23. Juli 2026 ist ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
 
 ## ![][osu!catch] osu!catch
 
 *Hauptseite: [Geschichte der osu!catch-Rangliste](osu!catch)*
 
-Mit Stand vom 1. Juli 2026 ist ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
+Mit Stand vom 21. Juli 2026 ist ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
 
 ## ![][osu!mania] osu!mania
 
