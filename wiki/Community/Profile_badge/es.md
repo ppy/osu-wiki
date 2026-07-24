@@ -12,8 +12,13 @@ tags:
 
 # Insignia de perfil
 
-*No debe confundirse con las insignias de grupo, que también aparecen en los perfiles de usuario.*\
-*Para obtener las reglas relacionadas con el uso como premios de torneos, véase: [Soporte oficial para torneos § Insignias de perfil](/wiki/Tournaments/Official_support#insignias-de-perfil)*
+::: alert-note
+**Nota:** No debe confundirse con las insignias de grupo, que también aparecen en los perfiles de usuario.
+:::
+
+::: alert-note
+**Nota:** Para obtener las reglas relacionadas con el uso como premios de torneos, véase [Soporte oficial para torneos § Insignias de perfil](/wiki/Tournaments/Official_support#insignias-de-perfil)
+:::
 
 ![Captura de pantalla de las insignias de HappyStick en la página web](img/HappyStick.png "Las insignias de perfil se muestran debajo del avatar y el nombre de usuario en el sitio web.")
 
@@ -23,7 +28,9 @@ Al pasar el cursor sobre una insignia, se muestran más detalles sobre por qué 
 
 ## Seeding de torneos
 
-*Página principal: [Clasificación ponderada por insignias](/wiki/Tournaments/Badge-weighted_seeding)*
+::: alert-note
+**Página principal:** [Clasificación ponderada por insignias](/wiki/Tournaments/Badge-weighted_seeding)
+:::
 
 En el [cliente del juego](/wiki/Client) y en el sitio web, las insignias son puramente decorativas. Sin embargo, debido a que las insignias como premios de los [torneos](/wiki/Tournaments) muestran el desempeño de los jugadores, algunos torneos han adoptado métodos de clasificación ([seeding](https://en.wikipedia.org/wiki/Seed_(sports))) que tienen en cuenta la cantidad de insignias que tienen los jugadores, comúnmente conocido como [clasificación ponderada por insignias](/wiki/Tournaments/Badge-weighted_seeding) (BWS).
 

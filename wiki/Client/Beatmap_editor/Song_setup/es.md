@@ -21,7 +21,10 @@ La ventana de **configuración de las canciones** es la cuarta sección del [edi
 
 ## Dificultad
 
-*Nota: Los [criterios de clasificación](/wiki/Ranking_criteria) específicos de cada modo de juego contienen configuraciones recomendadas para cada nivel de dificultad.*
+::: alert-notice
+**Aviso**
+Los [criterios de clasificación](/wiki/Ranking_criteria) específicos de cada modo de juego contienen configuraciones recomendadas para cada nivel de dificultad.
+:::
 
 ![Dos capturas de pantalla de la pestaña Difficulty. osu!mania se diferencia del resto de modos de juego.](img/SS_Difficulty.jpg "Sección de dificultad. Esta ventana de diálogo es diferente para las dificultades específicas de osu!mania, como se muestra a la derecha.")
 
@@ -47,7 +50,9 @@ En los beatmaps [específicos de osu!mania](#modo-específico-(mode-specific)), 
 
 ### Velocidad de aproximación (Approach rate)
 
-*Página principal: [Velocidad de aproximación](/wiki/Beatmap/Approach_rate)*
+::: alert-note
+**Página principal:** [Velocidad de aproximación](/wiki/Beatmap/Approach_rate)
+:::
 
 La velocidad de aproximación (AR) indica cuánto tiempo permanecen en la pantalla los objetos de osu! y osu!catch desde el momento en que aparecen hasta el momento de golpear/atrapar. Los valores más altos significan periodos más cortos de visibilidad y menos tiempo para reaccionar.
 
@@ -55,8 +60,13 @@ osu!taiko y osu!mania no se ven afectados por los cambios en la velocidad de apr
 
 ### Dificultad general (Overall difficulty)
 
-*Página principal: [Dificultad general](/wiki/Beatmap/Overall_difficulty)*\
-*Nota: En las páginas de [información de los beatmaps](/wiki/Beatmap_information), la dificultad general aparece como `Precisión`.*
+::: alert-note
+**Página principal:** [Dificultad general](/wiki/Beatmap/Overall_difficulty)
+:::
+
+::: alert-notice
+**Nota:** En las páginas de [información de los beatmaps](/wiki/Beatmap_information), la dificultad general aparece como `Precisión`.
+:::
 
 La dificultad general (OD) es responsable del tamaño de las ventanas de tiempo, que definen qué tan difícil es lograr una alta precisión. Los valores de OD más altos significan ventanas de tiempo más cortas, lo que requiere más exactitud y precisión. Dado que la precisión es importante para ganar HP, la dificultad general influye indirectamente en lo difícil que es pasar 
 un beatmap.

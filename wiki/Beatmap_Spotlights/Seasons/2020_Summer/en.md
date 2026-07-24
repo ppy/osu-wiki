@@ -301,7 +301,10 @@ The following leaderboards are also available as a [Google Spreadsheet](https://
 
 ### osu!
 
-*Note: You can [download all osu! playlists](https://osu.ppy.sh/beatmaps/packs/1992) as a single beatmap pack.*
+::: alert-notice
+**Notice**
+You can [download all osu! playlists](https://osu.ppy.sh/beatmaps/packs/1992) as a single beatmap pack.
+:::
 
 #### Playlist A
 
@@ -337,7 +340,10 @@ The following leaderboards are also available as a [Google Spreadsheet](https://
 
 ### osu!taiko
 
-*Note: You can [download all osu! playlists](https://osu.ppy.sh/beatmaps/packs/1993) as a single beatmap pack.*
+::: alert-notice
+**Notice**
+You can [download all osu! playlists](https://osu.ppy.sh/beatmaps/packs/1993) as a single beatmap pack.
+:::
 
 #### Playlist A
 
@@ -373,7 +379,10 @@ The following leaderboards are also available as a [Google Spreadsheet](https://
 
 ### osu!catch
 
-*Note: You can [download all osu! playlists](https://osu.ppy.sh/beatmaps/packs/1994) as a single beatmap pack.*
+::: alert-notice
+**Notice**
+You can [download all osu! playlists](https://osu.ppy.sh/beatmaps/packs/1994) as a single beatmap pack.
+:::
 
 #### Playlist A
 
@@ -409,7 +418,10 @@ The following leaderboards are also available as a [Google Spreadsheet](https://
 
 ### osu!mania
 
-*Note: You can [download all osu! playlists](https://osu.ppy.sh/beatmaps/packs/1995) as a single beatmap pack.*
+::: alert-notice
+**Notice**
+You can [download all osu! playlists](https://osu.ppy.sh/beatmaps/packs/1995) as a single beatmap pack.
+:::
 
 #### Playlist A
 

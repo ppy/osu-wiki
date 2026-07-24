@@ -25,7 +25,9 @@ tags:
 
 ## 模组入门
 
-*参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**参见：** [游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)
+:::
 
 **模组入门奖章** 授予使用对应[游戏模组](/wiki/Gameplay/Game_modifier)通关任意[过审](/wiki/Beatmap/Category#qualified)、[上架](/wiki/Beatmap/Category#ranked)或[达标](/wiki/Beatmap/Category#approved)谱面的玩家。这些奖章旨在鼓励新玩家尝试每个游戏模组、探索游戏模组的效果。注意，如果玩家在游玩的同时使用了多个游戏模组，则**无法**获得其中*任何*一个模组对应的奖章。
 

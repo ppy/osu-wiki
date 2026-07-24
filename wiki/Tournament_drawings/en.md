@@ -6,7 +6,9 @@ Please note that the osu!(lazer) client is currently under development and there
 
 ## Accessing The Client
 
-*For detailed steps about running and setting the osu! tournament client up, see: [osu! tournament client](/wiki/osu!_tournament_client#setup)*
+::: alert-note
+**Note:** For detailed steps about running and setting the osu! tournament client up, see [osu! tournament client](/wiki/osu!_tournament_client#setup)
+:::
 
 If you never used the osu! tournament client before, open it once by creating a shortcut on the desktop, whose location is set to `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`.
 

@@ -70,7 +70,9 @@ Le COE 2023 a été géré par divers membres de la communauté et des organisat
 
 ### cavoe's osu! event's Global Taiko Showdown
 
-*Page principale : [cavoe's osu! event's Global Taiko Showdown 2023](/wiki/Tournaments/GTS/COEGTS_2023)*
+::: alert-note
+**Page principale** : [cavoe's osu! event's Global Taiko Showdown 2023](/wiki/Tournaments/GTS/COEGTS_2023)
+:::
 
 ![Bannière de la COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023/img/banner.png)
 
@@ -97,7 +99,9 @@ L'équipe de Global Taiko Showdown a organisé un tournoi 1v1 osu!taiko LAN lors
 
 ### COE 1v1 osu! Tournament
 
-*Page principale : [COE 2023 1v1 osu! Tournament](/wiki/Tournaments/COE/COE_2023)*
+::: alert-note
+**Page principale** : [COE 2023 1v1 osu! Tournament](/wiki/Tournaments/COE/COE_2023)
+:::
 
 ![Bannière de la COE 1v1 osu! Tournament](/wiki/Tournaments/COE/COE_2023/img/banner.png)
 

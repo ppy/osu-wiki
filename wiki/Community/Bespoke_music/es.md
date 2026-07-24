@@ -157,7 +157,9 @@ Actualmente, hay un total de **1343** canciones documentadas hechas dentro de os
 
 #### [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)
 
-*Para la publicación del anuncio, véase: [Mapping With Rewards (Sep. 2015)](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [Mapping With Rewards (Sep. 2015)](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -176,7 +178,9 @@ Actualmente, hay un total de **1343** canciones documentadas hechas dentro de os
 
 #### [Drazically](https://osu.ppy.sh/beatmaps/artists/496)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: Drazically](https://osu.ppy.sh/home/news/2025-09-07-new-featured-artist-drazically)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: Drazically](https://osu.ppy.sh/home/news/2025-09-07-new-featured-artist-drazically)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -184,7 +188,9 @@ Actualmente, hay un total de **1343** canciones documentadas hechas dentro de os
 
 #### [happy30](https://osu.ppy.sh/beatmaps/artists/317)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: happy30](https://osu.ppy.sh/home/news/2022-11-02-new-featured-artist-happy30)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: happy30](https://osu.ppy.sh/home/news/2022-11-02-new-featured-artist-happy30)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -193,7 +199,9 @@ Actualmente, hay un total de **1343** canciones documentadas hechas dentro de os
 
 #### [James Landino](https://osu.ppy.sh/beatmaps/artists/39)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: James Landino](https://osu.ppy.sh/home/news/2019-05-31-new-featured-artist-james-landino)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: James Landino](https://osu.ppy.sh/home/news/2019-05-31-new-featured-artist-james-landino)
+:::
 
 Estas canciones forman parte del [EP osu! James Landino Collection](https://fanlink.to/osulandino)
 
@@ -208,7 +216,9 @@ Estas canciones forman parte del [EP osu! James Landino Collection](https://fanl
 
 #### [kiraku](https://osu.ppy.sh/beatmaps/artists/101)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: kiraku](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: kiraku](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -216,7 +226,9 @@ Estas canciones forman parte del [EP osu! James Landino Collection](https://fanl
 
 #### [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: Kitazawa Kyouhei](https://osu.ppy.sh/home/news/2021-05-15-new-featured-artist-kitazawa-kyouhei)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: Kitazawa Kyouhei](https://osu.ppy.sh/home/news/2021-05-15-new-featured-artist-kitazawa-kyouhei)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -224,7 +236,9 @@ Estas canciones forman parte del [EP osu! James Landino Collection](https://fanl
 
 #### [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: Rabbit House](https://osu.ppy.sh/home/news/2022-02-23-new-featured-artist-rabbit-house)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: Rabbit House](https://osu.ppy.sh/home/news/2022-02-23-new-featured-artist-rabbit-house)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -232,7 +246,9 @@ Estas canciones forman parte del [EP osu! James Landino Collection](https://fanl
 
 #### [tomspicy](https://osu.ppy.sh/beatmaps/artists/437)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: tomspicy](https://osu.ppy.sh/home/news/2024-09-14-new-featured-artist-tomspicy)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: tomspicy](https://osu.ppy.sh/home/news/2024-09-14-new-featured-artist-tomspicy)
+:::
 
 Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.ppy.sh/beatmaps/artists/437#album-2135)
 
@@ -246,7 +262,9 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 
 #### [yuki.](https://osu.ppy.sh/beatmaps/artists/4)
 
-*Para la publicación del anuncio, véase: [Community Mapping Contest #1 - yuki. (Nadeshiko Sensation)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [Community Mapping Contest #1 - yuki. (Nadeshiko Sensation)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -262,7 +280,9 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 
 #### [ZxNX](https://osu.ppy.sh/beatmaps/artists/288)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: ZxNX](https://osu.ppy.sh/home/news/2022-07-30-new-featured-artist-zxnx)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: ZxNX](https://osu.ppy.sh/home/news/2022-07-30-new-featured-artist-zxnx)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |

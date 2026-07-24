@@ -24,7 +24,9 @@ Eine *Verzweigung* (Fork) is eine Momentaufnahme des ursprünglichen Repositorys
 
 ## Änderungen vornehmen
 
-*Siehe auch: [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
+::: alert-note
+**Siehe auch:** [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+:::
 
 Innerhalb deiner Verzweigung des osu!-Wikis bist du frei, jegliche Änderungen zu machen und diese abzuspeichern. **Commits** sind individuelle "Sicherungspunkte" des Repositorys. **Branches** sind Arbeitsbereiche, die es ermöglichen, zwischen verschiedenen Versionen des Repositorys zu wechseln. Folge diesen Richtlinien, um die Arbeitsabläufe zu vereinfachen und die Versionshistorie sauber und frei von Schmutz zu halten:
 
