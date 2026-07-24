@@ -16,8 +16,6 @@ tags:
   - топ 1
   - топ
   - ранг
-outdated_translation: true
-outdated_since: 2a0c531104dbb6550aa1d987fb3f15e3d817e740
 ---
 
 # История онлайн-ранкингов
@@ -30,15 +28,15 @@ outdated_since: 2a0c531104dbb6550aa1d987fb3f15e3d817e740
 
 *Основная статья: [История ранкингов osu!](osu!)*
 
-По состоянию на 14 июня 2026 года игрок №1 в [топе osu! по производительности](https://osu.ppy.sh/rankings/osu/performance) — ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160/osu).
+По состоянию на 11 июля 2026 года игрок №1 в [топе osu! по производительности](https://osu.ppy.sh/rankings/osu/performance) — ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 
-По состоянию на 24 марта 2026 года игрок №1 в [топе osu!taiko по производительности](https://osu.ppy.sh/rankings/taiko/performance) — ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
+По состоянию на 23 июля 2026 года игрок №1 в [топе osu!taiko по производительности](https://osu.ppy.sh/rankings/taiko/performance) — ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
 
-По состоянию на 2 ноября 2024 года игрок №1 в [топе osu!сatch по производительности](https://osu.ppy.sh/rankings/fruits/performance) — ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
+По состоянию на 21 июля 2026 года игрок №1 в [топе osu!сatch по производительности](https://osu.ppy.sh/rankings/fruits/performance) — ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits).
 
 ## ![][osu!mania] osu!mania
 
