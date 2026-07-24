@@ -28,7 +28,7 @@ The prototype was showcased to the public running [osu!stream](/wiki/osu!stream)
 
 In August 2012, support for local multiplayer was added to osu!stream specifically for the arcade.[^local-multi] Included with the multiplayer was a custom server and real-time synced cursors, an exclusive feature not present in any other osu! variant.[^multi-arcade]
 
-Later that same year, peppy experimented with support for converting [osu!](/wiki/Game_mode/osu!) [beatmaps](/wiki/Beatmap) to osu!stream, so a more diverse collection of maps could be played on the arcade cabinet.[^conversion]
+Later that same year, peppy experimented with support for converting [osu!](/wiki/Game_mode/osu!) [beatmaps](/wiki/Beatmap) to osu!stream, so a more diverse range of maps could be played on the arcade cabinet.[^conversion]
 
 ## Discontinuation
 
