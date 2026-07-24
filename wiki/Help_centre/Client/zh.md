@@ -306,9 +306,9 @@ osu! 通常会自动保持版本最新、无需干涉，但有时可能会出现
 
 对于较新的 NVidia 显卡，你可以在 NVidia 控制面板中将全局刷新率设置为“快”，这也能解决问题。
 
-### 我切换到 osu!(lazer) 的原生数位板驱动，结果我的映射区域被改变了！ {id=tablet-area}
+### 我换用了 osu!(lazer) 的原生数位板驱动，结果我的映射区域被改变了！ {id=tablet-area}
 
-osu!(lazer) 内置 [OpenTabletDriver](https://opentabletdriver.net/)。如果你之前没有用过这个驱动，会发生这种现象 是因为你的数位板没有被正确配置成适合内置驱动的状态。
+osu!(lazer) 内置 [OpenTabletDriver](https://opentabletdriver.net/)。如果你之前没有用过这个驱动，则是因为你的数位板没有针对原生驱动进行正确配置。
 
 查看[数位板转换](/wiki/Guides/Tablet_conversion)页面，你可以了解如何将老数位板驱动的映射区域转换为 OpenTabletDriver 的设置格式。
 
