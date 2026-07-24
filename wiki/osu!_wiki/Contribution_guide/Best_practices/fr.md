@@ -30,7 +30,9 @@ Votre branche est maintenant à jour avec le dépôt original.
 
 ## Effectuer des modifications
 
-*Voir également : [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
+::: alert-note
+**Voir également** : [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+:::
 
 Dans votre fork du wiki d'osu!, vous êtes libre de faire des changements et de les sauvegarder. Les **commits** sont des "points de sauvegarde" individuels du dépôt. Les **branches** sont des espaces de travail, qui vous permettent de passer d'une version à l'autre du dépôt. Pour faciliter votre travail et garder l'historique du wiki propre et sans parasites, suivez ces directives :
 

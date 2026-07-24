@@ -17,12 +17,20 @@ tags:
 
 # xK (mod)
 
-*Notice: xK is a collective term for the key modifiers: 1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, and 9K.*
+::: alert-notice
+**Notice**
+xK is a collective term for the key modifiers: 1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, and 9K.
+:::
 
 ![1K mod icon](/wiki/shared/mods/1K.png "1K mod icon") ![2K mod icon](/wiki/shared/mods/2K.png "2K mod icon") ![3K mod icon](/wiki/shared/mods/3K.png "3K mod icon") ![4K mod icon](/wiki/shared/mods/4K.png "4K mod icon") ![5K mod icon](/wiki/shared/mods/5K.png "5K mod icon") ![6K mod icon](/wiki/shared/mods/6K.png "6K mod icon") ![7K mod icon](/wiki/shared/mods/7K.png "7K mod icon") ![8K mod icon](/wiki/shared/mods/8K.png "8K mod icon") ![9K mod icon](/wiki/shared/mods/9K.png "9K mod icon")
 
-*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Key mods (lazer)](/wiki/Gameplay/Game_modifier/Key_mods_(lazer))*\
-*For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Key mods (lazer)](/wiki/Gameplay/Game_modifier/Key_mods_(lazer))
+:::
+
+::: alert-note
+**Note:** For the full list of all mods, see [Game modifier](/wiki/Gameplay/Game_modifier)
+:::
 
 ## About
 
@@ -34,7 +42,10 @@ tags:
 
 ## Description
 
-*Notice: All xK mods will be ignored on osu!mania-specific beatmaps. Using the 1K, 2K, or 3K mod will result in an unranked play.*
+::: alert-notice
+**Notice**
+All xK mods will be ignored on osu!mania-specific beatmaps. Using the 1K, 2K, or 3K mod will result in an unranked play.
+:::
 
 These are [game modifiers](/wiki/Gameplay/Game_modifier) that will force all *converted* [osu!mania](/wiki/Game_mode/osu!mania) [beatmaps](/wiki/Beatmap) to use the selected K setting. This ignores the supposed K setting of the beatmap at the cost of decreasing the score multiplier, depending on the K difference.
 

@@ -4,7 +4,9 @@ Willkommen zum osu!-Anfängertutorial. Die Welt von osu! kann manchmal ein sehr 
 
 ## Arten der Eingabemethode
 
-*Hauptseite: [Spielstile](/wiki/Gameplay/Play_style)*
+::: alert-note
+**Hauptseite:** [Spielstile](/wiki/Gameplay/Play_style)
+:::
 
 Normalerweise fangen viele Spieler mit der normalen Computermaus an, da sie oft die am einfachsten verfügbare Eingabemethode ist. Tatsächlich gibt es aber viele verschiedene Eingabemöglichkeiten, um den Cursor zu bewegen und die Hit-Circles anzuklicken:
 
@@ -84,7 +86,9 @@ Hab keine Angst, etwas zu üben, bei dem du aus dem einen oder anderen Grund imm
 
 ### Globaler Offset
 
-*Hauptseite: [Benutzung des Offset-Assistenten](/wiki/Guides/How_to_use_the_Offset_Wizard)*
+::: alert-note
+**Hauptseite:** [Benutzung des Offset-Assistenten](/wiki/Guides/How_to_use_the_Offset_Wizard)
+:::
 
 Abhängig von den Geräten, mit denen du osu! spielst, wirst du möglicherweise feststellen, dass die Hit-Circles nicht ganz im Takt der Musik liegen. Um dies zu korrigieren, kannst du den globalen Offset-Wert in den [Einstellungen](/wiki/Client/Options) ändern. Der globale Offset verändert, wann der erste Kreis auf Beatmaps erscheint (entweder früher oder später als voreingestellt), was wiederum die restlichen Kreise um den gleichen Betrag verschiebt. Ein negativer Offset-Wert lässt die Kreise etwas später erscheinen, ein positiver Wert lässt sie früher erscheinen.
 
@@ -96,13 +100,17 @@ Passe deinen globalen Offset an, bis du glücklich damit bist. Die richtige Eins
 
 ### Raw Input
 
-*Siehe auch: [Optionen](/wiki/Client/Options#maus)*
+::: alert-note
+**Siehe auch:** [Optionen](/wiki/Client/Options#maus)
+:::
 
 Ein meist übersehendes Feature ist "Raw Input". Raw Input erlaubt das direkte Einlesen deines Eingabegeräts in osu! selbst. Du kannst es auch verwenden, wenn es dir nicht gefällt, wie Windows mit deinem Mauszeiger umgeht, oder besonders dann, wenn du ein Tablet verwendest. Versuch es und spiele damit ein paar Beatmaps, vielleicht fühlst du dich sehr viel wohler damit.
 
 ### Skins
 
-*Siehe auch: [Skinning](/wiki/Skinning)*
+::: alert-note
+**Siehe auch:** [Skinning](/wiki/Skinning)
+:::
 
 Es gibt viele, viele Skins zur Auswahl. Du kannst sie in den Foren finden, im Chat verlinkt oder sogar, indem du andere Spieler fragst! Auch wenn diese Skins dein Gameplay nicht verbessern, so können sie doch helfen, dich zu motivieren, oder das Spielen von osu! für die Augen einfacher machen. Oder wenn du es bevorzugst, nicht so einen großen Teil des Bildschirms mit dem osu!-HUD vollgepackt zu haben, kannst du einen Skin mit einem minimalen Ansatz finden. Du kannst sogar von den [Profis](https://osu.ppy.sh/community/forums/topics/87675) zusammengestellte Skins finden und sehen, was diese Skins erfolgreicher macht. Einige Skins wurden zur besseren Sichtbarkeit erstellt, während andere skurril und nur zum Spaß sind. Kurz: Es ist eine andere Art und Weise, wie du mehr Freude an osu! haben und deine Erfahrungen beim Erklimmen der Ränge ein bisschen schöner machen kannst ;)
 

@@ -18,7 +18,9 @@ Acronym_in_tournament.cfg: (Team Name 1) vs (Team Name 2)
 
 ### Команды управления турниром
 
-*Основная статья: [Команды управления турниром](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)*
+::: alert-note
+**Основная статья:** [Команды управления турниром](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+:::[Команды управления турниром](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
 Разместите игроков по нужным слотам с помощью команд `!mp move` и `!mp team`.
 

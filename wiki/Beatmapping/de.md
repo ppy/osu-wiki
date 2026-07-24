@@ -12,7 +12,9 @@ Um eine neue Beatmap zu erstellen, begib dich zuerst in den "Edit"-Modus und zie
 
 ### Song Setup
 
-*Siehe auch: [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)*
+::: alert-note
+**Siehe auch:** [Song Setup](/wiki/Client/Beatmap_editor/Song_setup)
+:::
 
 Wenn du ein neues [Beatmap](/wiki/Beatmap) erstellst, siehst du diesen Dialog immer als allererstes.
 
@@ -22,7 +24,9 @@ Die anderen Optionen kannst du jetzt oder auch später verändern, das bleibt ga
 
 ### Timing
 
-*Siehe auch: [Timing](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**Siehe auch:** [Timing](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 **Das Timing ist extrem wichtig!** Maps mit falschem Timing können nicht gerankt werden. Du musst sicherstellen, dass dein Timing perfekt ist, bevor du das erste [Objekt](/wiki/Gameplay/Hit_object) platzierst.
 
@@ -30,12 +34,16 @@ Wenn du dir mit dem Timing nicht sicher bist, kontaktiere für Hilfe zuerst eine
 
 ### Komponieren
 
-*Siehe auch: [Komponieren](/wiki/Client/Beatmap_editor/Compose)*
+::: alert-note
+**Siehe auch:** [Komponieren](/wiki/Client/Beatmap_editor/Compose)
+:::
 
 Im "Compose"-Tab des Beatmapeditors wirst du wahrscheinlich den Großteil deiner Zeit beim Beatmapping verbringen. Dort kannst du nämlich Hitobjekte platzieren und deren [Hitsounds](/wiki/Beatmapping/Hitsound) verändern.
 
 ### Design
 
-*Siehe auch: [Design](/wiki/Client/Beatmap_editor/Design) und [Storyboarding](/wiki/Storyboard#erstellen-eines-storyboards)*
+::: alert-note
+**Siehe auch:** [Design](/wiki/Client/Beatmap_editor/Design) und [Storyboarding](/wiki/Storyboard#erstellen-eines-storyboards)
+:::
 
 Im "Design"-Tab des Beatmapeditors kannst du ein Hintergrundbild und -video zu deiner Beatmap hinzufügen. Außerdem kannst du ein grundlegendes Storyboard erstellen. Je nach deinem Ansatz zum Storyboarding verwendest du den "Design"-Tab häufig oder auch gar nicht (z.B. beim [SBS](/wiki/Storyboard/Scripting) ("Storyboard Scripting")).

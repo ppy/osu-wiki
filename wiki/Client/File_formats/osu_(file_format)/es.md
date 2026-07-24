@@ -276,7 +276,10 @@ Hay cuatro tipos de curvas de slider en osu!:
 
 Si el valor `lenght` de un slider es mayor que la curva definida, el slider se extenderá en línea recta desde el final de la curva hasta alcanzar la longitud deseada.
 
-*Aviso: el valor `lenght` de un slider se puede usar para determinar el tiempo que lleva completar el slider. `length / (SliderMultiplier * 100 * SV) * beatLength` indica cuántos milisegundos se necesitan para completar una deslizamiento del slider (donde `SV` es el multiplicador de velocidad del slider dado por el punto de tiempo heredado efectivo, o `1` si no hay ninguno).*
+::: alert-notice
+**Aviso**
+el valor `lenght` de un slider se puede usar para determinar el tiempo que lleva completar el slider. `length / (SliderMultiplier * 100 * SV) * beatLength` indica cuántos milisegundos se necesitan para completar una deslizamiento del slider (donde `SV` es el multiplicador de velocidad del slider dado por el punto de tiempo heredado efectivo, o `1` si no hay ninguno).
+:::
 
 #### Hitsounds del slider
 

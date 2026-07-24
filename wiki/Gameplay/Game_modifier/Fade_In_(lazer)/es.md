@@ -30,8 +30,13 @@ tags:
 
 :::
 
-*Para la versión de osu!stable de este artículo, véase: [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In)*\
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la versión de osu!stable de este artículo, véase [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In)
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Fade In** hace que las notas sean inicialmente invisibles cuando caen desde arriba, revelándolas gradualmente a medida que se acercan a la parte inferior del campo de juego. El efecto de desvanecimiento cubre inicialmente alrededor del 20 % del campo de juego, pero se amplía a medida que aumenta el combo. A 500x de combo, el efecto de desvanecimiento alcanza su máximo, cubriendo el 70 % del campo de juego y haciendo que las notas aparezcan mucho más tarde.
 

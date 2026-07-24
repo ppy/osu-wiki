@@ -1,7 +1,12 @@
 # Formato
 
-*Para los estándares de escritura, véase: [Criterios de estilo para artículos/Redacción](../Writing)*\
-*Aviso: Este artículo usa [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.*
+::: alert-note
+**Nota:** Para los estándares de escritura, véase [Criterios de estilo para artículos/Redacción](../Writing)
+:::
+
+::: alert-notice
+**Aviso:** Este artículo usa [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.
+:::
 
 ## Configuraciones regionales
 
@@ -47,7 +52,10 @@ A continuación se enumeran las configuraciones regionales compatibles correctam
 | `zh.md` | Chino simplificado | 简体中文 |
 | `zh-tw.md` | Chino tradicional (Taiwán) | 繁體中文（台灣） |
 
-*Nota: El sitio web les dará a los lectores la versión de un artículo en su idioma seleccionado. Si no está disponible, se dará la versión en inglés.*
+::: alert-notice
+**Aviso**
+El sitio web les dará a los lectores la versión de un artículo en su idioma seleccionado. Si no está disponible, se dará la versión en inglés.
+:::
 
 ## Formato de serialización
 
@@ -55,7 +63,10 @@ El formato de serialización debe colocarse en la parte superior del archivo. Es
 
 ### Artículos que necesitan ayuda
 
-*Nota: Evita traducir artículos en inglés con esta etiqueta. Además de esto, esta etiqueta debe agregarse cuando la traducción necesita su propia limpieza.*
+::: alert-notice
+**Aviso**
+Evita traducir artículos en inglés con esta etiqueta. Además de esto, esta etiqueta debe agregarse cuando la traducción necesita su propia limpieza.
+:::
 
 La etiqueta `needs_cleanup` puede ser agregada a los artículos que necesiten una reescritura o un cambio de formato. También es aceptable abrir un problema en GitHub para este propósito. Esta etiqueta debe escribirse como se muestra a continuación:
 
@@ -67,7 +78,10 @@ Al agregar esta etiqueta a un artículo, también se deben agregar [comentarios]
 
 ### Artículos obsoletos
 
-*Nota: Evita traducir artículos en inglés con esta etiqueta. Si el artículo en inglés tiene esta etiqueta, la traducción también debe tener esta etiqueta.*
+::: alert-notice
+**Aviso**
+Evita traducir artículos en inglés con esta etiqueta. Si el artículo en inglés tiene esta etiqueta, la traducción también debe tener esta etiqueta.
+:::
 
 Los artículos en inglés pueden quedar obsoletos cuando el contenido que contienen es erróneo o irrelevante. Estos deben recibir una etiqueta `outdated`, que debe escribirse como se muestra a continuación:
 
@@ -109,7 +123,10 @@ tags:
 
 ### Traducciones sin revisiones
 
-*Nota: Los mantenedores de la wiki determinarán y aplicarán esta etiqueta antes de la fusión.*
+::: alert-notice
+**Aviso**
+Los mantenedores de la wiki determinarán y aplicarán esta etiqueta antes de la fusión.
+:::
 
 A veces, las traducciones se agregan a la wiki sin la revisión de otros hablantes nativos del idioma. En este caso, se agrega la etiqueta `no_native_review` la cual indica a futuros traductores que es posible que deba verificarse nuevamente:
 
@@ -125,7 +142,9 @@ no_native_review_since: 5539d9e8c943605a7be186dc3f5ab10569275b05 Doryan
 
 ## Denominar artículos
 
-*Véase también: [Nombre de las carpetas](#nombre-de-las-carpetas) y [Títulos](#títulos)*
+::: alert-note
+**Véase también:** [Nombre de las carpetas](#nombre-de-las-carpetas) y [Títulos](#títulos)
+:::
 
 Los títulos de los artículos deben estar en singular y usar mayúsculas y minúsculas. Véase el [artículo Convenciones de títulos de Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Convenciones_de_títulos) para obtener más detalles.
 
@@ -139,7 +158,9 @@ Los artículos de concursos y torneos son una excepción. El nombre de la carpet
 
 ### Nombre de las carpetas
 
-*Véase también: [Denominar artículos](#denominar-artículos)*
+::: alert-note
+**Véase también:** [Denominar artículos](#denominar-artículos)
+:::
 
 Los nombres de las carpetas deben estar en inglés y usar mayúsculas y minúsculas.
 
@@ -191,7 +212,10 @@ Los comentarios HTML<!-- TODO explain HTML comments --> deben usarse para marcar
 
 ### Secuencia de final de línea
 
-*Precaución: Cargar archivos Markdown usando `CRLF` (retorno de carro y salto de línea) a través de GitHub hará que esos archivos usen `CRLF`. Para evitar esto, establece el final de línea en `LF` (salto de línea) antes de cargar.*
+::: alert-caution
+**Precaución**
+Cargar archivos Markdown usando `CRLF` (retorno de carro y salto de línea) a través de GitHub hará que esos archivos usen `CRLF`. Para evitar esto, establece el final de línea en `LF` (salto de línea) antes de cargar.
+:::
 
 Los archivos Markdown deben registrarse usando la secuencia de fin de línea `LF`.
 
@@ -211,7 +235,9 @@ Los saltos de línea deben usarse con moderación.
 
 ## Notas de navegación
 
-*No debe confundirse con [Avisos](#avisos).*
+::: alert-note
+**Nota:** No debe confundirse con [Avisos](#avisos).
+:::
 
 Las notas de navegación son notas breves situadas en la parte superior de un artículo o sección para ayudar a los lectores a navegar hacia artículos relacionados o informarles sobre temas afines.
 
@@ -222,9 +248,13 @@ Las notas de navegación deben estar en cursiva y colocarse inmediatamente despu
 Las notas de navegación *Página principal* dirigen al lector al artículo principal de un tema. Cuando se usa esta nota de navegación, implica que la sección en la que se encuentra es un resumen de lo que trata la página enlazada. Esta nota de navegación solo debe tener un enlace. Deben tener el siguiente formato:
 
 ```markdown
-*Página principal: {artículo}*
+::: alert-note
+**Página principal:** {artículo}
+:::
 
-*Página principal: {artículo} y {artículo}*
+::: alert-note
+**Página principal:** {artículo} y {artículo}
+:::
 ```
 
 ### Véase también
@@ -232,9 +262,13 @@ Las notas de navegación *Página principal* dirigen al lector al artículo prin
 Las notas de navegación *Véase también* sugieren a los lectores otros puntos de interés de un determinado artículo o sección. Deben tener el siguiente formato:
 
 ```markdown
-*Véase también: {artículo}*
+::: alert-note
+**Véase también:** {artículo}
+:::
 
-*Véase también: {artículo} y {artículo}*
+::: alert-note
+**Véase también:** {artículo} y {artículo}
+:::
 ```
 
 ### Para véase
@@ -242,9 +276,13 @@ Las notas de navegación *Véase también* sugieren a los lectores otros puntos 
 Las notas de navegación *Para véase* son similares a las notas de navegación *Véase también*, pero suelen ser más descriptivas y directas. Esta nota de navegación puede usar más de un enlace si es necesario. Deben tener el siguiente formato:
 
 ```markdown
-*Para {descripción}, véase: {artículo}*
+::: alert-note
+**Nota:** Para {descripción}, véase {artículo}
+:::
 
-*Para {descripción}, véase: {artículo} y {artículo}*
+::: alert-note
+**Nota:** Para {descripción}, véase {artículo} y {artículo}
+:::
 ```
 
 ### No debe confundirse con
@@ -252,9 +290,13 @@ Las notas de navegación *Para véase* son similares a las notas de navegación 
 Las notas de navegación *No debe confundirse con* ayudan a distinguir títulos o secciones de artículos ambiguos o malinterpretados. Esta nota de navegación puede usar más de un enlace si es necesario. Deben tener el siguiente formato:
 
 ```markdown
-*No debe confundirse con {artículo}.*
+::: alert-note
+**Nota:** No debe confundirse con {artículo}.
+:::
 
-*No debe confundirse con {artículo} o {artículo}.*
+::: alert-note
+**Nota:** No debe confundirse con {artículo} o {artículo}.
+:::
 ```
 
 ### Para otros usos
@@ -262,21 +304,34 @@ Las notas de navegación *No debe confundirse con* ayudan a distinguir títulos 
 Las notas de navegación *Para otros usos* son similares a las notas de navegación *No debe confundirse con*, pero enlazan directamente con el [artículo de desambiguación](#artículos-de-desambiguación). Esta nota de navegación solo debe enlazar con el artículo de desambiguación. Deben tener el siguiente formato:
 
 ```markdown
-*Para otros usos, véase {artículo de desambiguación}.*
+::: alert-note
+**Nota:** {artículo de desambiguación}.
+:::
 ```
 
 ## Avisos
 
-*No debe confundirse con [Notas de navegación](#notas-de-navegación).*
+::: alert-note
+**Nota:** No debe confundirse con [Notas de navegación](#notas-de-navegación).
+:::
 
 Se debe colocar un aviso donde corresponda en una sección, pero debe comenzar el párrafo y usar cursiva. Los avisos pueden contener negrita cuando corresponda, pero deben mantenerse al mínimo. Los avisos deben escribirse como oraciones completas. Por lo tanto, a diferencia de la mayoría de las [notas de navegación](#notas-de-navegación), los avisos deben usar un punto (`.`) o un signo de exclamación (`!`) si corresponde. Cualquier cosa dentro del mismo párrafo de un aviso también debe estar en cursiva. Estos deben formatearse de la siguiente manera:
 
 ```markdown
-*Nota: {nota}.*
+::: alert-notice
+**Aviso**
+{nota}.
+:::
 
-*Precaución: {precaución}.*
+::: alert-caution
+**Precaución**
+{precaución}.
+:::
 
-*Advertencia: {advertencia}.*
+::: alert-warning
+**Advertencia**
+{advertencia}.
+:::
 ```
 
 - `Aviso` debe usarse para recordatorios o para llamar la atención sobre algo que el lector debe tener en cuenta.
@@ -288,8 +343,13 @@ Se debe colocar un aviso donde corresponda en una sección, pero debe comenzar e
 Se pueden apilar múltiples notas de navegación y avisos cuando sea necesario. Al hacer esto, deben apilarse sin líneas en blanco y usar barras invertidas al final:
 
 ```markdown
-*Advertencia: {advertencia}.*\
-*Véase también: {artículo}*
+::: alert-warning
+**Advertencia:** {advertencia}.
+:::
+
+::: alert-note
+**Véase también:** {artículo}
+:::
 ```
 
 En muchos casos, puede ser más adecuado incrustar notas de navegación o avisos extraños en el texto del párrafo en lugar de apilar muchos de ellos.
@@ -350,8 +410,13 @@ Los encabezamientos no deben exceder un nivel de encabezamiento de 5 y no deben 
 
 ### Títulos
 
-*Véase también: [Denominar artículos](#denominar-artículos)*\
-*Precaución: Los títulos se analizan como texto sin formato; no deben omitirse*
+::: alert-note
+**Véase también:** [Denominar artículos](#denominar-artículos)
+:::
+
+::: alert-caution
+**Precaución:** Los títulos se analizan como texto sin formato; no deben omitirse
+:::
 
 El primer encabezamiento de todos los artículos debe ser un encabezamiento de nivel 1, siendo el título del artículo. Todos los encabezamientos posteriores deben ser [encabezamientos de sección](#secciones). Los títulos no deben contener formato, enlaces o imágenes.
 
@@ -363,7 +428,10 @@ Los encabezamientos de sección deben usar los niveles 2 a 5. El encabezamiento 
 
 Los encabezamientos de sección no deben saltarse un nivel de encabezamiento (es decir, no deben pasar de un encabezamiento de nivel 2 a un encabezamiento de nivel 4) y no deben contener formato ni enlaces.
 
-*Aviso: En el sitio web, los niveles de encabezamiento 4 y 5 no aparecerán en la tabla de contenidos.*
+::: alert-notice
+**Aviso**
+En el sitio web, los niveles de encabezamiento 4 y 5 no aparecerán en la tabla de contenidos.
+:::
 
 ### Identificadores personalizados
 
@@ -456,7 +524,10 @@ El marcado para el código es un acento grave (`` ` ``). Para poner acentos grav
 
 ### Teclas del teclado
 
-*Aviso: cuando denote la letra en sí, y no la tecla del teclado, usa comillas en su lugar.*
+::: alert-notice
+**Aviso**
+cuando denote la letra en sí, y no la tecla del teclado, usa comillas en su lugar.
+:::
 
 Al representar teclas del teclado, usa letras mayúsculas para caracteres individuales y mayúsculas y minúsculas para los modificadores. Usa el símbolo más (`+`) (sin código) para representar combinaciones de teclas. (Ejemplo mostrado a continuación).
 
@@ -502,7 +573,10 @@ Para jugar a osu!, haz doble clic en el icono `osu!.exe`.
 
 ### Extensiones de archivo
 
-*Aviso: Los formatos de archivo (que no deben confundirse con las extensiones de archivo) deben escribirse en mayúsculas sin el punto prefijo (`.`).*
+::: alert-notice
+**Aviso**
+Los formatos de archivo (que no deben confundirse con las extensiones de archivo) deben escribirse en mayúsculas sin el punto prefijo (`.`).
+:::
 
 Las extensiones de archivo deben tener como prefijo un punto (`.`) y deben ir seguidas de la extensión del archivo en minúsculas. (Ejemplo mostrado a continuación).
 
@@ -520,13 +594,18 @@ Al copiar el nombre de un canal de chat, comienza con una almohadilla (`#`), seg
 
 ## Texto preformateado (bloques de código)
 
-*Aviso: El resaltado de sintaxis para texto preformateado aún no está implementado en el sitio web.*
+::: alert-notice
+**Aviso**
+El resaltado de sintaxis para texto preformateado aún no está implementado en el sitio web.
+:::
 
 El texto preformateado (también conocido como bloques de código) debe delimitarse con tres acentos graves. Deben establecer el identificador de idioma para el resaltado de sintaxis.
 
 ## Enlaces
 
-*Véase también: [Notas al pie](#notas-al-pie)*
+::: alert-note
+**Véase también:** [Notas al pie](#notas-al-pie)
+:::
 
 Hay dos tipos de enlaces: en línea y de referencia. En línea tiene dos estilos.
 
@@ -552,7 +631,10 @@ Los enlaces deben usar el estilo en línea si solo se les hace referencia una ve
 
 ### Enlaces internos
 
-*Aviso: Los enlaces internos se refieren a los enlaces que permanecen dentro del dominio `https://osu.ppy.sh/`.*
+::: alert-notice
+**Aviso**
+Los enlaces internos se refieren a los enlaces que permanecen dentro del dominio `https://osu.ppy.sh/`.
+:::
 
 #### Enlaces de la wiki
 
@@ -588,17 +670,24 @@ Entre los buenos ejemplos se incluyen los siguientes:
 Los enlaces de la wiki que apuntan a un subartículo deben incluir el nombre de la carpeta del artículo principal en el texto del enlace. Véase el siguiente ejemplo:
 
 ```markdown
-*Véase también: [Editor de beatmaps/Diseño](/wiki/Client/Beatmap_editor/Design)*
+::: alert-note
+**Véase también:** [Editor de beatmaps/Diseño](/wiki/Client/Beatmap_editor/Design)
+:::
 ```
 
 ##### Enlaces a secciones
 
-*Aviso: En el sitio web, los niveles de encabezamiento 4 y 5 no reciben el atributo id. Esto significa que no se pueden vincular directamente.*
+::: alert-notice
+**Aviso**
+En el sitio web, los niveles de encabezamiento 4 y 5 no reciben el atributo id. Esto significa que no se pueden vincular directamente.
+:::
 
 Los enlaces wiki que apuntan a una sección de un artículo pueden usar el símbolo de signo de sección (`§`). Véase el siguiente ejemplo:
 
 ```markdown
-*Para las reglas de tiempo, véase: [Criterios de clasificación § Temporización](/wiki/Ranking_criteria#temporización)*
+::: alert-note
+**Nota:** Para las reglas de tiempo, véase [Criterios de clasificación § Temporización](/wiki/Ranking_criteria#temporización)
+:::
 ```
 
 #### Otros enlaces de osu!
@@ -645,14 +734,19 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
 
 ### Enlaces externos
 
-*Aviso: Enlaces externos se refiere a los enlaces que salen del dominio `https://osu.ppy.sh/`.*
+::: alert-notice
+**Aviso**
+Enlaces externos se refiere a los enlaces que salen del dominio `https://osu.ppy.sh/`.
+:::
 
 Se debe usar el protocolo `https`, a menos que el sitio no lo admita. Los enlaces externos deben ser un enlace limpio y directo a una fuente confiable. La URL de la barra de direcciones de tu navegador web debe copiarse tal como está cuando se vincula a otras páginas externas.
 
 No hay diferencias visuales entre los enlaces web externos y osu!. Debido a esto, el nombre del sitio web debe incluirse en el texto del título. Véase el siguiente ejemplo:
 
 ```markdown
-*Para más información sobre teoría musical, véase: [Teoría musical](https://es.wikipedia.org/wiki/Teoría_musical)*
+::: alert-note
+**Nota:** Para más información sobre teoría musical, véase [Teoría musical](https://es.wikipedia.org/wiki/Teoría_musical)
+:::
 ```
 
 ## Imágenes
@@ -721,7 +815,10 @@ Alternativamente, [ezgif.com](https://ezgif.com/) se puede usar para convertir y
 
 ### Nombre de los archivos
 
-*Aviso: Las extensiones de archivo deben usar letras minúsculas, de lo contrario, ¡no se cargarán!*
+::: alert-notice
+**Aviso**
+Las extensiones de archivo deben usar letras minúsculas, de lo contrario, ¡no se cargarán!
+:::
 
 Usa guiones (`-`) para espaciar las palabras. Al nombrar una imagen, el nombre del archivo debe ser significativo o descriptivo pero breve.
 
@@ -751,7 +848,10 @@ Todas las capturas de pantalla del juego deben realizarse en la versión estable
 
 #### Configuración del cliente del juego
 
-*Nota: Si no quieres cambiar tu configuración actual para la wiki, puedes mover tu `osu!.<UsuarioDelOrdenador>.cfg` fuera de la carpeta de osu! y volver a moverlo más tarde.*
+::: alert-notice
+**Aviso**
+Si no quieres cambiar tu configuración actual para la wiki, puedes mover tu `osu!.<UsuarioDelOrdenador>.cfg` fuera de la carpeta de osu! y volver a moverlo más tarde.
+:::
 
 Debes establecer estas configuraciones antes de tomar una captura de pantalla del cliente del juego (se supone que las configuraciones que no se indican a continuación son las predeterminadas):
 

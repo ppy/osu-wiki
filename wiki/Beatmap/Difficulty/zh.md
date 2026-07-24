@@ -30,7 +30,9 @@ tags:
 
 ## 难度等级
 
-*参见：[难度命名](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**参见：** [难度命名](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 以下是谱面内常见的难度等级。在各自模式的 [Ranking Criteria](/wiki/Ranking_criteria) 内可以找到难度名具体的定义和要求。
 

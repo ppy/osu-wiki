@@ -9,7 +9,9 @@ tags:
 
 # Alternating
 
-*A ne pas confondre avec le [double tapping](/wiki/Gameplay/Play_style/Double_tapping).*
+::: alert-note
+**Remarque** : A ne pas confondre avec le [double tapping](/wiki/Gameplay/Play_style/Double_tapping).
+:::
 
 L'**alternating** est une méthode de jeu pour le mode [osu!](/wiki/Game_mode/osu!) qui consiste à cliquer sur les cercles, faire glisser les sliders, ou faire tourner les spinners, en alternant entre les deux touches de leur clavier (`Z` et `X` par défaut) d'un [objet](/wiki/Gameplay/Hit_object) à l'autre, d'où le nom. Cette méthode est plus courante chez les joueurs plus expérimentés, étant plus difficiles à apprendre.
 

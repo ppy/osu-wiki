@@ -16,7 +16,9 @@ Numerous players have held rank #1 in each game mode under different ranking sys
 
 ## ![][osu!] osu!
 
-*Main page: [osu! rankings history](osu!)*
+::: alert-note
+**Main page:** [osu! rankings history](osu!)
+:::
 
 As of 11 July 2026, on the [osu! performance rankings](https://osu.ppy.sh/rankings/osu/performance) the rank #1 player is ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
@@ -28,7 +30,9 @@ As of 23 July 2026, on the [osu!taiko performance rankings](https://osu.ppy.sh/r
 
 ## ![][osu!catch] osu!catch
 
-*Main page: [osu!catch rankings history](osu!catch)*
+::: alert-note
+**Main page:** [osu!catch rankings history](osu!catch)
+:::
 
 As of 21 July 2026, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits).
 

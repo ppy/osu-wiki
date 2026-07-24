@@ -26,7 +26,9 @@ tags:
 
 ## ![][osu!] osu!
 
-*Основная статья: [История ранкингов osu!](osu!)*
+::: alert-note
+**Основная статья:** [История ранкингов osu!](osu!)
+:::[История ранкингов osu!](osu!)
 
 По состоянию на 11 июля 2026 года игрок №1 в [топе osu! по производительности](https://osu.ppy.sh/rankings/osu/performance) — ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 

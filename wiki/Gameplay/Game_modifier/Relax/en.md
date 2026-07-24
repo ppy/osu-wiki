@@ -12,8 +12,13 @@ tags:
 
 ![RL mod icon](/wiki/shared/mods/RL.png "Relax (RL) mod icon")
 
-*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Relax (lazer mod)](/wiki/Gameplay/Game_modifier/Relax_(lazer))*\
-*For the full list of all mods, see: [Game Modifier](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Relax (lazer mod)](/wiki/Gameplay/Game_modifier/Relax_(lazer))
+:::
+
+::: alert-note
+**Note:** For the full list of all mods, see [Game Modifier](/wiki/Gameplay/Game_modifier)
+:::
 
 ## About
 
@@ -29,7 +34,10 @@ tags:
 
 ## Description
 
-*Notice: Enabling the Relax mod will cause the play to be unranked and will not be saved to the local leaderboards.*
+::: alert-notice
+**Notice**
+Enabling the Relax mod will cause the play to be unranked and will not be saved to the local leaderboards.
+:::
 
 The **Relax** mod is a [game modifier](/wiki/Gameplay/Game_modifier) that aims to allow a relaxing experience to players. Due to its nature, the mod is typically utilised to analyse/practice difficult [patterns](/wiki/Beatmap/Pattern) on [beatmaps](/wiki/Beatmap), or for when players want to give their tapping hands a rest.
 

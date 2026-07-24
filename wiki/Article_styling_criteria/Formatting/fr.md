@@ -5,8 +5,13 @@ outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
 
 # Mise en forme
 
-*Pour les normes de rédaction, voir : [Critères de mise en forme des articles/Rédaction](../Writing)*\
-*Remarque : Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119) pour décrire les niveaux d'exigence.*
+::: alert-note
+**Remarque** : Pour les normes de rédaction, voir [Critères de mise en forme des articles/Rédaction](../Writing)
+:::
+
+::: alert-notice
+**Remarque** : Cet article utilise [RFC 2119](https://tools.ietf.org/html/rfc2119) pour décrire les niveaux d'exigence.
+:::
 
 ## Localisations
 
@@ -52,7 +57,10 @@ Vous trouverez ci-dessous la liste des langues correctement prises en charge par
 | `zh.md` | Chinois simplifié | 简体中文 |
 | `zh-tw.md` | Chinois traditionnel (Taiwan) | 繁體中文（台灣） |
 
-*Note : Le site web donnera aux lecteurs la version d'un article dans la langue qu'ils ont choisie. Si elle n'est pas disponible, la version anglaise sera donnée.*
+::: alert-notice
+**Note**
+Le site web donnera aux lecteurs la version d'un article dans la langue qu'ils ont choisie. Si elle n'est pas disponible, la version anglaise sera donnée.
+:::
 
 ## Première page
 
@@ -60,7 +68,10 @@ La page de garde doit être placée tout en haut du fichier. Elle est écrite en
 
 ### Articles nécessitant de l'aide
 
-*Note : Évitez de traduire des articles en anglais avec ce tag. En outre, ce tag devrait être ajouté lorsque la traduction a besoin d'être nettoyée.*
+::: alert-notice
+**Note**
+Évitez de traduire des articles en anglais avec ce tag. En outre, ce tag devrait être ajouté lorsque la traduction a besoin d'être nettoyée.
+:::
 
 Le tag `needs_cleanup` peut être ajoutée aux articles qui ont besoin d'une aide à la réécriture ou à la mise en forme. Il est également possible d'ouvrir une issue sur GitHub à cette fin. Ce tag doit être rédigé comme indiqué ci-dessous :
 
@@ -72,7 +83,10 @@ Lors de l'ajout de ce tag à un article, il convient également d'ajouter des [c
 
 ### Articles obsolètes
 
-*Note : Évitez de traduire des articles en anglais avec ce tag. Si l'article anglais comporte ce tag, la traduction doit également comporter ce tag.*
+::: alert-notice
+**Note**
+Évitez de traduire des articles en anglais avec ce tag. Si l'article anglais comporte ce tag, la traduction doit également comporter ce tag.
+:::
 
 Les articles en anglais peuvent devenir obsolètes lorsque leur contenu est trompeur ou n'est plus pertinent. Ces articles doivent recevoir un tag `outdated`, qui doit être rédigé comme indiqué ci-dessous :
 
@@ -111,7 +125,10 @@ tags:
 
 ### Traductions sans review
 
-*Note : Les responsables du wiki détermineront et appliqueront ce tag avant le merge.*
+::: alert-notice
+**Note**
+Les responsables du wiki détermineront et appliqueront ce tag avant le merge.
+:::
 
 Il arrive que des traductions soient ajoutées au wiki sans être review par d'autres natifs de la langue. Dans ce cas, le tag `no_native_review` est ajouté pour faire savoir aux futurs traducteurs qu'il faudra peut-être la vérifier à nouveau :
 
@@ -193,7 +210,10 @@ Les commentaires HTML<!-- TODO expliquer les commentaires HTML --> devraient êt
 
 ### Séquence de fin de ligne
 
-*Attention : Téléverser des fichiers Markdown utilisant `CRLF` (retour à la ligne et saut de ligne) via GitHub aura pour conséquence que ces fichiers utiliseront `CRLF`. Pour éviter cela, définissez la fin de ligne à `LF` (saut de ligne) avant le téléversement.*
+::: alert-caution
+**Attention**
+Téléverser des fichiers Markdown utilisant `CRLF` (retour à la ligne et saut de ligne) via GitHub aura pour conséquence que ces fichiers utiliseront `CRLF`. Pour éviter cela, définissez la fin de ligne à `LF` (saut de ligne) avant le téléversement.
+:::
 
 Les fichiers Markdown doivent être vérifiés en utilisant la séquence de fin de ligne `LF`.
 
@@ -213,7 +233,9 @@ Les sauts de ligne doivent être utilisés avec parcimonie.
 
 ## Surnotes
 
-*A ne pas confondre avec les [notices](#remarque).*
+::: alert-note
+**Remarque** : A ne pas confondre avec les [notices](#remarque).
+:::
 
 Les surnotes sont de courtes notes placées en haut d'un article ou d'une section pour aider les lecteurs à naviguer vers des articles associés ou à les informer sur des sujets en rapport avec l'article.
 
@@ -224,7 +246,9 @@ Les surnotes doivent être en italique et placées immédiatement après le titr
 La surnote *page principale* renvoit le lecteur à l'article principal d'un sujet. Lorsque cette note est utilisée, elle implique que la section sur laquelle elle se trouve est un résumé de ce que la page liée traite. Cette surnote ne doit comporter qu'un seul lien. Celle-ci doit être formatée comme suit :
 
 ```markdown
-*Page principale : {article}*
+::: alert-note
+**Page principale** : {article}
+:::
 
 *Pages principales : {article} et {article}*
 ```
@@ -234,9 +258,13 @@ La surnote *page principale* renvoit le lecteur à l'article principal d'un suje
 Les surnotes *voir également* suggèrent aux lecteurs d'autres points d'intérêt d'un article ou d'une section donnée. Elles doivent être formatées comme suit :
 
 ```markdown
-*Voir également : {article}*
+::: alert-note
+**Voir également** : {article}
+:::
 
-*Voir également : {article} et {article}*
+::: alert-note
+**Voir également** : {article} et {article}
+:::
 ```
 
 ### Pour..., Voir
@@ -244,9 +272,13 @@ Les surnotes *voir également* suggèrent aux lecteurs d'autres points d'intér�
 Les surnotes *pour..., voir* sont similaires à la surnote *voir également*, mais sont généralement plus descriptives et plus directes. Ces surnotes peuvent utiliser plus d'un lien si nécessaire. Celles-ci doivent être formatées comme suit :
 
 ```markdown
-*Pour {description}, voir : {article}*
+::: alert-note
+**Remarque** : Pour {description}, voir {article}
+:::
 
-*Pour {description}, voir : {article} et {article}*
+::: alert-note
+**Remarque** : Pour {description}, voir {article} et {article}
+:::
 ```
 
 ### A ne pas confondre avec
@@ -254,9 +286,13 @@ Les surnotes *pour..., voir* sont similaires à la surnote *voir également*, ma
 Les surnotes *à ne pas confondre avec* permettent de distinguer les titres d'articles ou de sections ambigues ou incomprises. Ces surnotes peuvent utiliser plus d'un lien si nécessaire. Celles-ci doivent être formatées comme suit :
 
 ```markdown
-*A ne pas confondre avec {article}.*
+::: alert-note
+**Remarque** : A ne pas confondre avec {article}.
+:::
 
-*A ne pas confondre avec {article} et {article}.*
+::: alert-note
+**Remarque** : A ne pas confondre avec {article} et {article}.
+:::
 ```
 
 ### Pour d'autres utilisations
@@ -264,21 +300,34 @@ Les surnotes *à ne pas confondre avec* permettent de distinguer les titres d'ar
 Les surnotes *Pour d'autres utilisations* sont similaires aux surnotes *à ne pas confondre avec*, mais elles renvoient directement à [l'article de désambiguïsation](#articles-de-désambiguïsation). Ces surnotes doivent uniquement renvoyer à l'article de désambiguïsation. Elles doivent être formatées comme suit :
 
 ```markdown
-*Pour d'autres utilisations, voir {article de désambiguïsation}.*
+::: alert-note
+**Remarque** : Pour d'autres utilisations, voir {article de désambiguïsation}.
+:::
 ```
 
 ## Remarque
 
-*A ne pas confondre avec [surnotes](#surnotes).*
+::: alert-note
+**Remarque** : A ne pas confondre avec [surnotes](#surnotes).
+:::
 
 Une remarque doit être placé à l'endroit approprié dans une section, mais doit commencer le paragraphe et utiliser l'italique. Les remarques peuvent contenir des caractères gras le cas échéant, mais ils doivent être réduits au minimum. Les remarques doivent être rédigés sous forme de phrases complètes. Ainsi, contrairement à la plupart des [surnotes](#surnotes), les avis doivent comporter un point (`.`) ou un point d'exclamation (`!`), le cas échéant. Tout ce qui se trouve dans le même paragraphe d'une remarque doit également être mis en italique. Elles doivent être formatées comme suit :
 
 ```markdown
-*Remarque : {remarque}.*
+::: alert-notice
+**Note**
+{remarque}.
+:::
 
-*Attention : {attention}.*
+::: alert-caution
+**Attention**
+{attention}.
+:::
 
-*Avertissement : {avertissement}.*
+::: alert-warning
+**Avertissement**
+{avertissement}.
+:::
 ```
 
 - `Note` doit être utilisé pour des rappels ou pour attirer l'attention sur quelque chose dont le lecteur doit être informé.
@@ -290,8 +339,13 @@ Une remarque doit être placé à l'endroit approprié dans une section, mais do
 Plusieurs surnotes et remarques peuvent être empilées si nécessaire. Dans ce cas, elles doivent être empilées sans ligne vide et utiliser des antislashs à la fin :
 
 ```markdown
-*Attention : {attention}.*\
-*Voir également : {article}*
+::: alert-caution
+**Attention** : {attention}.
+:::
+
+::: alert-note
+**Voir également** : {article}
+:::
 ```
 
 Dans de nombreux cas, il peut être plus judicieux d'intégrer des surnotes ou des remarques dans le texte d'un paragraphe plutôt que d'en empiler plusieurs.
@@ -352,8 +406,13 @@ Les titres ne doivent pas dépasser un niveau de titre de 5 et ne doivent pas ê
 
 ### Titres
 
-*Voir également : [Noms des articles](#noms-des-articles)*\
-*Attention : Les titres sont analysés comme du texte brut ; ils ne doivent pas contenir de markdown.*
+::: alert-note
+**Voir également** : [Noms des articles](#noms-des-articles)
+:::
+
+::: alert-caution
+**Attention** : Les titres sont analysés comme du texte brut ; ils ne doivent pas contenir de markdown.
+:::
 
 Le premier titre de tous les articles doit être un titre de niveau 1, c'est-à-dire le titre de l'article. Tous les titres suivants doivent être des [titres de section](#sections). Les titres ne doivent pas contenir de mise en formee, de liens ou d'images.
 
@@ -365,7 +424,10 @@ Les titres de section doivent utiliser les niveaux 2 à 5. Le titre de la sectio
 
 Les titres de section ne doivent pas sauter de niveau (c'est-à-dire ne pas passer d'un titre de niveau 2 à un titre de niveau 4) et ne doivent pas contenir de mise en forme ou de liens.
 
-*Remarque : Sur le site web, les niveaux de rubrique 4 et 5 n'apparaîtront pas dans la table des matières.*
+::: alert-notice
+**Note**
+Sur le site web, les niveaux de rubrique 4 et 5 n'apparaîtront pas dans la table des matières.
+:::
 
 ### Identifiants personnalisés
 
@@ -458,7 +520,10 @@ La marque du code est le signe apostrophe grave (`` ` ``). Pour insérer une apo
 
 ### Touches du clavier
 
-*Remarque : Pour désigner la lettre elle-même, et non la touche du clavier, il convient d'utiliser des guillemets.*
+::: alert-notice
+**Note**
+Pour désigner la lettre elle-même, et non la touche du clavier, il convient d'utiliser des guillemets.
+:::
 
 Pour représenter les touches du clavier, utilisez des lettres majuscules pour les caractères simples et des minuscules pour les modificateurs. Utilisez le symbole plus (`+`) (sans code) pour représenter les combinaisons de touches. (Exemple ci-dessous).
 
@@ -504,7 +569,10 @@ Pour jouer à osu!, double-cliquez sur l'icône `osu!.exe`.
 
 ### Extensions de fichiers
 
-*Remarque : Les formats de fichiers (à ne pas confondre avec les extensions de fichiers) doivent être écrits en lettres capitales sans point final (`.`).*
+::: alert-notice
+**Note**
+Les formats de fichiers (à ne pas confondre avec les extensions de fichiers) doivent être écrits en lettres capitales sans point final (`.`).
+:::
 
 Les extensions de fichiers doivent être précédées d'un point (`.`) et suivies de l'extension du fichier en lettres minuscules. (Exemple ci-dessous).
 
@@ -522,13 +590,18 @@ Lorsque vous copiez le nom d'un salon de discussion, commencez par un dièse (`#
 
 ## Texte préformaté (blocs de code)
 
-*Note : La mise en évidence de la syntaxe pour le texte préformaté n'est pas encore implémentée sur le site web.*
+::: alert-notice
+**Note**
+La mise en évidence de la syntaxe pour le texte préformaté n'est pas encore implémentée sur le site web.
+:::
 
 Le texte préformaté (également connu sous le nom de blocs de code) doit être délimité par trois apostrophes grave. Ils doivent définir l'identifiant de la langue pour la coloration de la syntaxe.
 
 ## Liens
 
-*Voir également : [Notes de bas de page](#notes-de-bas-de-page)*
+::: alert-note
+**Voir également** : [Notes de bas de page](#notes-de-bas-de-page)
+:::
 
 Il existe deux types de liens : les liens intégrés et les liens de référence. Les liens intégrés ont deux styles.
 
@@ -554,7 +627,10 @@ Les liens doivent utiliser le style intégré s'ils ne sont référencés qu'une
 
 ### Liens internes
 
-*Note : Les liens internes sont des liens qui restent à l'intérieur du domaine `https://osu.ppy.sh/`.*
+::: alert-notice
+**Note**
+Les liens internes sont des liens qui restent à l'intérieur du domaine `https://osu.ppy.sh/`.
+:::
 
 #### Liens du wiki
 
@@ -590,12 +666,17 @@ Et voici quelques bons exemples :
 Les liens du wiki qui pointent vers un sous-article doivent inclure le nom du dossier de l'article parent dans le texte du lien. Voir l'exemple suivant :
 
 ```markdown
-*Voir également : [Beatmap Editor/Design](/wiki/Client/Beatmap_editor/Design)*
+::: alert-note
+**Voir également** : [Beatmap Editor/Design](/wiki/Client/Beatmap_editor/Design)
+:::
 ```
 
 ##### Liens de sections
 
-*Remarque : Sur le site web, les niveaux de titre 4 et 5 ne sont pas dotés de l'attribut id. Cela signifie qu'il n'est pas possible d'y accéder directement.*
+::: alert-notice
+**Note**
+Sur le site web, les niveaux de titre 4 et 5 ne sont pas dotés de l'attribut id. Cela signifie qu'il n'est pas possible d'y accéder directement.
+:::
 
 Les liens wiki qui pointent vers une section d'un article peuvent utiliser le symbole du signe de section (`§`). Voir l'exemple suivant :
 
@@ -647,7 +728,10 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
 
 ### Liens externes
 
-*Note : Les liens externes sont des liens qui sortent du domaine `https://osu.ppy.sh/`.*
+::: alert-notice
+**Note**
+Les liens externes sont des liens qui sortent du domaine `https://osu.ppy.sh/`.
+:::
 
 Le protocole `https` doit être utilisé, sauf si le site ne le supporte pas. Les liens externes doivent être des liens propres et directs vers une source fiable. L'URL de la barre d'adresse de votre navigateur web doit être copiée telle qu'elle l'est pour les liens vers d'autres pages externes.
 
@@ -723,7 +807,10 @@ Il est également possible d'utiliser [ezgif.com](https://ezgif.com/) pour conve
 
 ### Noms des fichiers
 
-*Note : Les extensions de fichiers doivent utiliser des lettres minuscules, sinon elles ne pourront pas être chargées !*
+::: alert-notice
+**Note**
+Les extensions de fichiers doivent utiliser des lettres minuscules, sinon elles ne pourront pas être chargées !
+:::
 
 Utilisez des tirets (`-`) pour espacer les mots. Lorsque vous nommez une image, le nom du fichier doit être significatif ou descriptif, mais court.
 
@@ -753,7 +840,10 @@ Toutes les captures d'écran de gameplay doivent être faites dans la version st
 
 #### Paramètres du client
 
-*Note : Si vous ne voulez pas changer vos paramètres actuels pour le wiki, vous pouvez déplacer votre `osu!.<Nomd'utilisateur>.cfg` hors du dossier d'osu! et le remettre plus tard.*
+::: alert-notice
+**Note**
+Si vous ne voulez pas changer vos paramètres actuels pour le wiki, vous pouvez déplacer votre `osu!.<Nomd'utilisateur>.cfg` hors du dossier d'osu! et le remettre plus tard.
+:::
 
 Vous devez définir ces paramètres avant de prendre une capture d'écran du client (les paramètres qui ne sont pas indiqués ci-dessous sont supposés être définis par défaut) :
 

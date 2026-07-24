@@ -23,7 +23,10 @@ Im Laufe der Jahre gab es drei verschiedene Systeme für die Einstufung von Spie
 
 Darum enthält diese Liste nur Spieler, die den ersten Platz auf der Hauptrangliste erreichten, die zu diesem Zeitpunkt verwendet wurde. Daten und Zahlen *in Kursivschrift* geben an, dass der entsprechende Spieler seinen Titel als Gewinner von osu!catch weiterhin entweder im vorhergehenden oder im folgenden Jahr souverän verteidigt.
 
-*Anmerkung: Am 7. Dezember 2008 wurde die globale osu!catch-Rangliste vollständig zurückgesetzt. Scores vor diesem Datum sind nicht länger verfügbar.*
+::: alert-notice
+**Hinweis**
+Am 7. Dezember 2008 wurde die globale osu!catch-Rangliste vollständig zurückgesetzt. Scores vor diesem Datum sind nicht länger verfügbar.
+:::
 
 ## 2014
 
@@ -152,7 +155,10 @@ Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den erste
 
 ## Längste zusammengezählte Titelverteidigung
 
-*Anmerkung: Der aktuelle Spieler auf dem ersten Platz ist nicht in dieser Liste enthalten.*
+::: alert-notice
+**Hinweis**
+Der aktuelle Spieler auf dem ersten Platz ist nicht in dieser Liste enthalten.
+:::
 
 Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den ersten Platz innehatte (Stand: 21. Juli 2026).
 
@@ -169,7 +175,10 @@ Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den erste
 
 ## Längste ununterbrochene Titelverteidigung
 
-*Anmerkung: Nur Titelverteidigungen mit mehr als 100 Tagen werden genannt. Der aktuelle Spieler auf dem ersten Platz ist nicht enthalten.*
+::: alert-notice
+**Hinweis**
+Nur Titelverteidigungen mit mehr als 100 Tagen werden genannt. Der aktuelle Spieler auf dem ersten Platz ist nicht enthalten.
+:::
 
 Die folgende Liste stellt die größte Anzahl an aufeinanderfolgenden Tagen dar, in denen ein Spieler den ersten Platz innehatte (Stand: 21. Juli 2026).
 

@@ -21,7 +21,9 @@ En el [procedimiento de clasificación de los beatmaps](/wiki/Beatmap_ranking_pr
 
 ## Historia
 
-*Véase también: [Cronología de mapping y modding](/wiki/History_of_osu!/Mapping_and_modding_timeline)*
+::: alert-note
+**Véase también:** [Cronología de mapping y modding](/wiki/History_of_osu!/Mapping_and_modding_timeline)
+:::
 
 Las burbujas fueron introducidas por ::{ flag=AU }:: [peppy](/wiki/People/peppy) el 29 de octubre de 2007, para los «beatmaps que estén siendo considerados para el juego clasificado (dependiendo de la opinión de los moderadores)». Para los miembros del BAT, poner una burbuja en el icono de un hilo de un beatmap era una forma de indicar que el beatmap era de buena calidad y había seguido los [criterios de clasificación](/wiki/Ranking_criteria).
 

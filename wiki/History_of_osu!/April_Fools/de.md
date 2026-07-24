@@ -14,7 +14,9 @@ tags:
 
 # Geschichte der osu!-Aprilscherze
 
-*Für die gesamte Geschichte von osu!, siehe: [Geschichte von osu!](/wiki/History_of_osu!)*
+::: alert-note
+**Anmerkung:** Für die gesamte Geschichte von osu!, siehe [Geschichte von osu!](/wiki/History_of_osu!)
+:::
 
 Jedes Jahr spielt das [osu!-Team](/wiki/People/osu!_team) der Community gerne Streiche am 1. April. Dieser Artikel listet alle Aprilscherze auf, die seit 2009 in der osu!-Community veranstaltet wurden.
 
@@ -107,7 +109,9 @@ Am 1. April 2014 wurde das Hauptmenü vorübergehend verändert (unten gezeigt),
 
 ### osu!coins
 
-*Siehe auch: [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)*
+::: alert-note
+**Siehe auch:** [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)
+:::
 
 ![](img/2015-osucoins.png "The osu! coins")
 
@@ -117,7 +121,10 @@ Am 31. März 2015 veröffentlichte [peppy](https://osu.ppy.sh/users/2) [einen Ne
 
 — peppy, "osu!coins"[^osu-coins-news] (aus dem Englischen übersetzt)
 
-*Anmerkung: Nach der [koordinierten Weltzeit](https://de.wikipedia.org/wiki/Koordinierte_Weltzeit) wurde der Beitrag am 31. März 2015 veröffentlicht. Jedoch lebte peppy zur Zeit der Herausgabe in Australien, wo das aktuelle Datum der 1. April 2015 war.*
+::: alert-notice
+**Hinweis**
+Nach der [koordinierten Weltzeit](https://de.wikipedia.org/wiki/Koordinierte_Weltzeit) wurde der Beitrag am 31. März 2015 veröffentlicht. Jedoch lebte peppy zur Zeit der Herausgabe in Australien, wo das aktuelle Datum der 1. April 2015 war.
+:::
 
 Kurz gesagt, um eine [Beatmap](/wiki/Beatmap) zu spielen oder neu zu starten, mussten Nutzer einen [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin) ausgeben. Sobald die osu!coins aufgebraucht waren, waren die Spieler dazu gezwungen, entweder mit dem Spielen aufzuhören und bis zum nächsten Tag zu warten oder echtes Geld für mehr osu!coins zu bezahlen. Entgegen dieser Beschreibung wurde das tatsächliche Spiel jedoch nicht beeinträchtigt und Nutzer konnten weiterspielen wie normal, selbst wenn alle ihre osu!coins aufgebraucht waren.[^osu-coins-news][^osu-coins-yt][^osu-coins-yt-2]
 
@@ -133,7 +140,10 @@ Am 1. April 2016 wurde [ein Newsbeitrag](https://osu.ppy.sh/home/news/2016-04-01
 
 In Bezug auf die Art und Weise, wie Spieler die Oculus Rift als Eingabemethode nutzen können, wird im Newspost beschrieben, dass "der Spieler den Cursor in der Ich-Perspektive auf seinem Weg von und zu Hit-Objekten auf dem Bildschirm erlebt (…)" und dass Hit-Objekte getroffen werden, "(…) indem der Spieler vokalähnliche Laute mit seinem Mund erzeugt".[^translated] Es wurden keine tatsächlichen Änderungen im Spiel vorgenommen, die mit der Verwendung von Oculus Rift oder einem ähnlichen [Gerät mit VR-Unterstützung (Virtuelle Realität)](https://de.wikipedia.org/wiki/Virtuelle_Realit%C3%A4t) zur Steuerung von osu! zusammenhängen.[^osu-vr-news]
 
-*Hinweis: McOsu wird getrennt entwickelt und steht in keiner direkten Verbindung mit osu! oder ppy Pty Ltd.*
+::: alert-notice
+**Hinweis**
+McOsu wird getrennt entwickelt und steht in keiner direkten Verbindung mit osu! oder ppy Pty Ltd.
+:::
 
 Obwohl die offiziellen osu!-Entwickler keine Intention haben/hatten, VR-Unterstützung anzubieten, hat die Idee von osu! in VR bei einigen Fans Interesse geweckt. Aus diesem Interesse entstand kurz darauf ein inoffizielles Fanprojekt, welches das Ziel hatte, einen kostenlosen und quelloffenen Client zu kreieren, um [osu!-Beatmaps](/wiki/Beatmap) üben zu können. Außerdem gab es [Spielmodifikationen](/wiki/Gameplay/Game_modifier) und weitere Funktionen, wie die Möglichkeit, in VR zu spielen. Unter dem Namen [McOsu](https://store.steampowered.com/app/607260/McOsu) wurde das Projekt am 20. März 2017 fertiggestellt und auf [Steam](https://de.wikipedia.org/wiki/Steam) veröffentlicht.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
 

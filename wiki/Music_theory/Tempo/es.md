@@ -10,7 +10,9 @@ tags:
 
 # Tempo
 
-*Véase también: [Tiempo](/wiki/Beatmapping/Timing)*
+::: alert-note
+**Véase también:** [Tiempo](/wiki/Beatmapping/Timing)
+:::
 
 ::: Infobox
 ![Captura de pantalla del indicador de BPM en la página de información del beatmap](img/beatmap-info.png "El tempo de la canción, igual a 187, puede verse en la esquina superior de la página de información del beatmap")

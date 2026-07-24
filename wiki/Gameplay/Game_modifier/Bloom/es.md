@@ -26,7 +26,9 @@ tags:
 
 :::
 
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Bloom** hace que el cursor aumente de tamaño progresivamente a medida que se acumula combo hasta alcanzar un límite establecido que se puede configurar. Si fallas un objeto, el cursor volverá a su tamaño original.
 

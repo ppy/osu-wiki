@@ -20,7 +20,10 @@ Over the years, there were three different systems used for ranking players:
 
 Because of this, this list only includes players who have reached rank #1 on the main leaderboard that was used at the time. *Italicised* dates and numbers indicate that the corresponding player is continuing their reign as the osu!catch's rank #1 holder either from the previous year or into the following year.
 
-*Note: osu!catch recieved a full global leaderboard reset on 7 December 2008, scores from before this date are no longer available.*
+::: alert-notice
+**Notice**
+osu!catch recieved a full global leaderboard reset on 7 December 2008, scores from before this date are no longer available.
+:::
 
 <!-- TODO: Further research into the Ranked Score and ppv1 leaderboards.
 A timeline for Ranked Score should be feasible but would take some significant work.
@@ -156,7 +159,10 @@ The following is a list of the total number of times a player has reached the ra
 
 ## Longest combined reigns
 
-*Note: The current rank #1 reign is excluded.*
+::: alert-notice
+**Notice**
+The current rank #1 reign is excluded.
+:::
 
 The following is a list of the total number of days that a player has held the rank #1 spot (as of 21 July 2026).
 
@@ -173,7 +179,10 @@ The following is a list of the total number of days that a player has held the r
 
 ## Longest individual reigns
 
-*Note: Only reigns over 100 days are included. The current rank #1 reign is excluded.*
+::: alert-notice
+**Notice**
+Only reigns over 100 days are included. The current rank #1 reign is excluded.
+:::
 
 The following is a list of the longest consecutive days a player has held the rank #1 spot (as of 21 July 2026).
 

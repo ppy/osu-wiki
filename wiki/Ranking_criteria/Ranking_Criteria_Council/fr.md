@@ -103,7 +103,10 @@ Entre 2016 et 2018, l'UBKRC a réformé toutes les sections des critères de cla
 
 ### Membres d'osu!mania
 
-*Note : Les membres originaux d'osu!mania UBKRC n'ont pas été en mesure de compléter une ébauche de critères de classement et ont été remplacés par les utilisateurs suivants*
+::: alert-notice
+**Note**
+Les membres originaux d'osu!mania UBKRC n'ont pas été en mesure de compléter une ébauche de critères de classement et ont été remplacés par les utilisateurs suivants
+:::
 
 - ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) (Organisateur)
 - ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (Organisateur)
