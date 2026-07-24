@@ -62,7 +62,7 @@
 
 ::: alert-note
 **Основная статья:** [Мультиплеер](/wiki/Client/Interface/Multiplayer)
-***
+:::
 
 ![](img/multi-lobby.jpg "Лобби")
 
