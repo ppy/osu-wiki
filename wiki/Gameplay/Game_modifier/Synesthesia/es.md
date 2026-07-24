@@ -20,8 +20,8 @@ tags:
 | :-- | :-- |
 | Acrónimo | SY |
 | Tipo | Diversión |
-| Modos de juego compatibles | ![][osu!] |
-| Multiplicador de puntuación | 0,80x |
+| Modos de juego compatibles | ![][osu!] ![][osu!catch] |
+| Multiplicador de puntuación | `0,80x` |
 | Estado | No clasificado |
 | Mods incompatibles | Ninguno |
 
@@ -32,3 +32,4 @@ tags:
 :::
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"

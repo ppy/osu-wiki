@@ -24,7 +24,7 @@ tags:
 | Tipo | Aumento de dificultad |
 | Tecla de acceso directo predeterminada | `H` |
 | Modos de juego compatibles | ![][osu!mania] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | `1,00x` |
 | Estado | Clasificado |
 | Mods incompatibles | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 

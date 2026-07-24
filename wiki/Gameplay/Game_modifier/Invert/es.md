@@ -21,9 +21,9 @@ tags:
 | Acrónimo | IN |
 | Tipo | Conversión |
 | Modos de juego compatibles | ![][osu!mania] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | `1,00x` |
 | Estado | No clasificado |
-| Mods incompatibles | [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
+| Mods incompatibles | [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release), [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
 
 :::
 

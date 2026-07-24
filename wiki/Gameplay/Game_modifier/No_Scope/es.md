@@ -22,7 +22,7 @@ tags:
 | Acrónimo | NS |
 | Tipo | Diversión |
 | Modos de juego compatibles | ![][osu!] ![][osu!catch] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | `1,00x` |
 | Estado | Clasificado |
 | Mods incompatibles | [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
 
