@@ -16,8 +16,6 @@ tags:
   - топ 1
   - топ
   - ранг
-outdated_translation: true
-outdated_since: 2a0c531104dbb6550aa1d987fb3f15e3d817e740
 ---
 
 <!-- Для дополнительной информации об источниках см. https://github.com/ppy/osu-wiki/pull/4720. -->
@@ -311,11 +309,12 @@ outdated_since: 2a0c531104dbb6550aa1d987fb3f15e3d817e740
 | Игрок | Начало | Конец | Источник |
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *03.08.2024* | 14.06.2026 | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
-| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 14.06.2026 | Настоящее время | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 14.06.2026 | 11.07.2026 | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 11.07.2026 | Настоящее время | [\[1\]](https://web.archive.org/web/20260711064234/https://osu.ppy.sh/rankings/osu/global/performance) [\[2\]](https://web.archive.org/web/20260711130813/https://osu.ppy.sh/users/14715160/osu) [\[3\]](https://web.archive.org/web/20260711125753/https://osu.ppy.sh/users/7562902/osu) [\[4\]](https://www.reddit.com/r/osugame/comments/1uta8q2/mrekk_is_now_1_global/) |
 
 ## Число попаданий на первое место
 
-Ниже — общее число случаев, когда игрок попадал на первое место (по состоянию на 14 июня 2026 года).
+Ниже — общее число случаев, когда игрок попадал на первое место (по состоянию на 11 июля 2026 года).
 
 | Игрок | Попадания |
 | --: | :-: |
@@ -338,7 +337,7 @@ outdated_since: 2a0c531104dbb6550aa1d987fb3f15e3d817e740
 | ::{ flag=PL }:: [Kubu](https://osu.ppy.sh/users/29130) | 4 |
 | ::{ flag=JP }:: [tobebuta](https://osu.ppy.sh/users/14053) | 4 |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | 3 |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 3 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 2 |
 | ::{ flag=TW }:: [Uan](https://osu.ppy.sh/users/147623) | 2 |
 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) | 2 |
@@ -362,7 +361,7 @@ outdated_since: 2a0c531104dbb6550aa1d987fb3f15e3d817e740
 
 *Примечание: список не учитывает текущего владельца №1.*
 
-Ниже — суммарное число дней, в течние которых игрок занимал первое место (по состоянию на 14 июня 2026 года).
+Ниже — суммарное число дней, в течние которых игрок занимал первое место (по состоянию на 11 июля 2026 года).
 
 | Игрок | Суммарное число дней |
 | --: | :-: |
@@ -391,6 +390,7 @@ outdated_since: 2a0c531104dbb6550aa1d987fb3f15e3d817e740
 | ::{ flag=KR }:: [Reimu-Desu](https://osu.ppy.sh/users/948713) | 35 |
 | ::{ flag=AU }:: [eyup](https://osu.ppy.sh/users/88) | 33 |
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 33 |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 27 |
 | ::{ flag=US }:: [Rolled](https://osu.ppy.sh/users/5243) | 27 |
 | ::{ flag=KR }:: [Sure](https://osu.ppy.sh/users/70730) | 26 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 20 |
@@ -408,7 +408,7 @@ outdated_since: 2a0c531104dbb6550aa1d987fb3f15e3d817e740
 
 *Примечание: считаются только периоды дольше 100 дней. Текущий владелец №1 не учитывается.*
 
-Ниже — самые долгие периоды пребывания на первом месте (по состоянию на 14 июня 2026 года).
+Ниже — самые долгие периоды пребывания на первом месте (по состоянию на 11 июля 2026 года).
 
 | Игрок | Начало | Конец | Самое долгое число дней |
 | --: | :-- | :-- | :-: |
