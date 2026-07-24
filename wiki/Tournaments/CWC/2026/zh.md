@@ -35,7 +35,7 @@ osu!catch 世界杯 2026 提供 2000 美元奖金池和限定版周边。
 | ![银冠](/wiki/shared/crown-silver.png "亚军") | 奖金池的 30%，本次活动周边，个人主页徽章 |
 | ![铜冠](/wiki/shared/crown-bronze.png "季军") | 奖金池的 20%，本次活动周边，个人主页徽章 |
 
-![](img/cwc2026-badge-1st.png "CWC 2026 winner badge") ![](img/cwc2026-badge-2nd.png "CWC 2026 2nd-place badge") ![](img/cwc2026-badge-3rd.png "CWC 2026 3rd-place badge")
+![](img/cwc2026-badge-1st.png "CWC 2026 冠军徽章") ![](img/cwc2026-badge-2nd.png "CWC 2026 亚军徽章") ![](img/cwc2026-badge-3rd.png "CWC 2026 季军徽章")
 
 ## 组织
 
@@ -130,13 +130,13 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 
 | ID | 队伍 A |  |  | 队伍 B | 比赛链接 | 回放链接 |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 61 | **Poland** ::{ flag=PL }:: | **7** | 5 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/121493380) | [#1](https://www.twitch.tv/videos/2818306357) |
+| 61 | **波兰** ::{ flag=PL }:: | **7** | 5 | ::{ flag=FR }:: 法国 | [#1](https://osu.ppy.sh/community/matches/121493380) | [#1](https://www.twitch.tv/videos/2818306357) |
 
 2026 年 7 月 12 日 星期日：
 
 | ID | 队伍 A |  |  | 队伍 B | 比赛链接 | 回放链接 |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 62a | **Argentina** ::{ flag=AR }:: | **7** | 4 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/121500052) | [#1](https://www.twitch.tv/videos/2818377183) |
+| 62a | **阿根廷** ::{ flag=AR }:: | **7** | 4 | ::{ flag=PL }:: 波兰 | [#1](https://osu.ppy.sh/community/matches/121500052) | [#1](https://www.twitch.tv/videos/2818377183) |
 
 ### 决赛
 
@@ -144,15 +144,15 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 
 | ID | 队伍 A |  |  | 队伍 B | 比赛链接 | 回放链接 |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 58 | Japan ::{ flag=JP }:: | 1 | **7** | ::{ flag=FI }:: **Finland** | [#1](https://osu.ppy.sh/community/matches/121449560) | [#1](https://www.twitch.tv/videos/2812111404) |
-| 57 | Chile ::{ flag=CL }:: | 2 | **7** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/121451316) | [#1](https://www.twitch.tv/videos/2812164070) |
+| 58 | 日本 ::{ flag=JP }:: | 1 | **7** | ::{ flag=FI }:: **芬兰** | [#1](https://osu.ppy.sh/community/matches/121449560) | [#1](https://www.twitch.tv/videos/2812111404) |
+| 57 | 智利 ::{ flag=CL }:: | 2 | **7** | ::{ flag=FR }:: **法国** | [#1](https://osu.ppy.sh/community/matches/121451316) | [#1](https://www.twitch.tv/videos/2812164070) |
 
 2026 年 7 月 5 日 星期日：
 
 | ID | 队伍 A |  |  | 队伍 B | 比赛链接 | 回放链接 |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 59d | Finland ::{ flag=FI }:: | 1 | **7** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/121456811) | [#1](https://www.twitch.tv/videos/2812856523) |
-| 60 | Poland ::{ flag=PL }:: | 5 | **7** | ::{ flag=AR }:: **Argentina** | [#1](https://osu.ppy.sh/community/matches/121457265) | [#1](https://www.twitch.tv/videos/2812856522) |
+| 59d | 芬兰 ::{ flag=FI }:: | 1 | **7** | ::{ flag=FR }:: **法国** | [#1](https://osu.ppy.sh/community/matches/121456811) | [#1](https://www.twitch.tv/videos/2812856523) |
+| 60 | 波兰 ::{ flag=PL }:: | 5 | **7** | ::{ flag=AR }:: **阿根廷** | [#1](https://osu.ppy.sh/community/matches/121457265) | [#1](https://www.twitch.tv/videos/2812856522) |
 
 ### 半决赛
 
@@ -162,20 +162,20 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 
 | ID | 队伍 A |  |  | 队伍 B | 比赛链接 | 回放链接 |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 51 | Germany ::{ flag=DE }:: | 5 | **7** | ::{ flag=BE }:: **Belgium** | [#1](https://osu.ppy.sh/community/matches/121407023) | [#1](https://www.twitch.tv/videos/2806632933) |
-| 49 | **China** ::{ flag=CN }:: | **7** | 5 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/121407523) | [#1](https://www.twitch.tv/videos/2806632934) |
-| SM | Semifinals | 6 | **7** | **showmatch** | [#1](https://osu.ppy.sh/community/matches/121408086) | [#1](https://www.twitch.tv/videos/2806665458) |
-| 50 | **Finland** ::{ flag=FI }:: | **7** | 1 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/121409167) | [#1](https://www.twitch.tv/videos/2806756813) |
-| 52 | **France** ::{ flag=FR }:: | **7** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/121409153) | [#1](https://www.twitch.tv/videos/2806746078) |
-| 55 | **Poland** ::{ flag=PL }:: | **7** | 1 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/121409842) | [#1](https://www.twitch.tv/videos/2806851350) |
+| 51 | 德国 ::{ flag=DE }:: | 5 | **7** | ::{ flag=BE }:: **比利时** | [#1](https://osu.ppy.sh/community/matches/121407023) | [#1](https://www.twitch.tv/videos/2806632933) |
+| 49 | **中国** ::{ flag=CN }:: | **7** | 5 | ::{ flag=ID }:: 印度尼西亚 | [#1](https://osu.ppy.sh/community/matches/121407523) | [#1](https://www.twitch.tv/videos/2806632934) |
+| SM | 半决赛 | 6 | **7** | **表演赛** | [#1](https://osu.ppy.sh/community/matches/121408086) | [#1](https://www.twitch.tv/videos/2806665458) |
+| 50 | **芬兰** ::{ flag=FI }:: | **7** | 1 | ::{ flag=GB }:: 英国 | [#1](https://osu.ppy.sh/community/matches/121409167) | [#1](https://www.twitch.tv/videos/2806756813) |
+| 52 | **法国** ::{ flag=FR }:: | **7** | 0 | ::{ flag=CA }:: 加拿大 | [#1](https://osu.ppy.sh/community/matches/121409153) | [#1](https://www.twitch.tv/videos/2806746078) |
+| 55 | **波兰** ::{ flag=PL }:: | **7** | 1 | ::{ flag=CL }:: 智利 | [#1](https://osu.ppy.sh/community/matches/121409842) | [#1](https://www.twitch.tv/videos/2806851350) |
 
 2026 年 6 月 28 日 星期日：
 
 | ID | 队伍 A |  |  | 队伍 B | 比赛链接 | 回放链接 |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 53a | **Finland** ::{ flag=FI }:: | **7** | 1 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/121413838) | [#1](https://www.twitch.tv/videos/2807472277) |
-| 54b | **France** ::{ flag=FR }:: | **7** | 1 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/121414217) | [#1](https://www.twitch.tv/videos/2807472281) |
-| 56 | **Argentina** ::{ flag=AR }:: | **7** | 3 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/121414527) | [#1](https://www.twitch.tv/videos/2807472278) |
+| 53a | **芬兰** ::{ flag=FI }:: | **7** | 1 | ::{ flag=CN }:: 中国 | [#1](https://osu.ppy.sh/community/matches/121413838) | [#1](https://www.twitch.tv/videos/2807472277) |
+| 54b | **法国** ::{ flag=FR }:: | **7** | 1 | ::{ flag=BE }:: 比利时 | [#1](https://osu.ppy.sh/community/matches/121414217) | [#1](https://www.twitch.tv/videos/2807472281) |
+| 56 | **阿根廷** ::{ flag=AR }:: | **7** | 3 | ::{ flag=JP }:: 日本 | [#1](https://osu.ppy.sh/community/matches/121414527) | [#1](https://www.twitch.tv/videos/2807472278) |
 
 ### 四分之一决赛
 
