@@ -39,7 +39,7 @@ The **Daycore** mod behaves exactly like [Half Time (HT)](/wiki/Gameplay/Game_mo
 
 - **Speed decrease** (0.50x–0.99x, default: 0.75x): The speed at which the map is played.
 
-Changing the **Speed decrease** will cause your scores to be **unranked**.
+Changing the **Speed decrease** setting will cause your scores to be **unranked**.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

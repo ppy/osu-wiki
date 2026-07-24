@@ -31,7 +31,7 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Accuracy Challenge** mod allows the player to set a minimum [accuracy](/wiki/Gameplay/Accuracy) that they must maintain to avoid a failure. Thus, it works similarly to [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), except that it's based on accuracy rather than [combo](/wiki/Gameplay/Combo_(score_multiplier)).
+The **Accuracy Challenge** mod allows the player to set a minimum [accuracy](/wiki/Gameplay/Accuracy) that they must maintain to avoid a failure. Thus, it works similarly to [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), except that it is based on accuracy rather than [combo](/wiki/Gameplay/Combo_(score_multiplier)).
 
 ## Customisation
 
