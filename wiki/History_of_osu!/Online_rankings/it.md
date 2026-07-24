@@ -3,11 +3,9 @@ tags:
   - history
   - leaderboard
   - rank 1
-  - 'rank #1'
+  - "rank #1"
   - rankings
   - top player
-outdated_translation: true
-outdated_since: 2da322923ff697226b6982282bd85db2027d1df6
 ---
 
 # Cronologia delle classifiche online
@@ -24,11 +22,11 @@ Al 11 luglio 2026, nella [classifica delle performance di osu!](https://osu.ppy.
 
 ## ![][osu!taiko] osu!taiko
 
-Al 11 luglio 2026, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+Al 23 luglio 2026, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
 
-Al 1 luglio 2026, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283/fruits).
+Al 21 luglio 2026, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits).
 
 ## ![][osu!mania] osu!mania
 
