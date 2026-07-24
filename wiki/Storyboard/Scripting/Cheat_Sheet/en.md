@@ -44,7 +44,10 @@ Z-order (back to front) is determined by the order the files appear in the .osu 
 | 2 | Pass |
 | 3 | Foreground |
 
-*Note: Background and Foreground are always visible.*
+::: alert-notice
+**Notice**
+Background and Foreground are always visible.
+:::
 
 | Value | Origin |
 | :-: | :-- |
@@ -95,7 +98,10 @@ For each of the event types below, the initial value(s) of that event will assum
 
 **endopacity**: the opacity at the end of the animation
 
-*Note: 0 - invisible, 1 - fully visible*
+::: alert-notice
+**Notice**
+0 - invisible, 1 - fully visible
+:::
 
 `_M,[...],startx,starty,endx,endy`
 
@@ -229,7 +235,10 @@ Foreground = **3**
 
 **filepath**: relative path of the sound file (should be in the same directory as the .osu file)
 
-*Note: file path must be in double quotes*
+::: alert-notice
+**Notice**
+file path must be in double quotes
+:::
 
 **volume**: volume of the sound file. (1-100) Can be left off for 100.
 

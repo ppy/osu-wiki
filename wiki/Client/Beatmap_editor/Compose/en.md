@@ -14,7 +14,9 @@ The editor shares the same tools between osu!, osu!taiko, and osu!catch, while o
 
 ## Features
 
-*For a general overview of the mapping process, see: [Beatmapping](/wiki/Beatmapping)*
+::: alert-note
+**Note:** For a general overview of the mapping process, see [Beatmapping](/wiki/Beatmapping)
+:::
 
 ### Hit object timeline
 
@@ -115,7 +117,9 @@ On the bottom right, the playback rate can be set to 25%, 50%, 75%, or 100%.
 
 ## Features (osu!mania)
 
-*For osu!mania mapping tutorials on the forum, see: [[Tutorial] osu!mania mapping, Basics](https://osu.ppy.sh/community/forums/topics/118868), [[Tutorial] osu!mania mapping, Keysounding](https://osu.ppy.sh/community/forums/topics/139139)*
+::: alert-note
+**Note:** For osu!mania mapping tutorials on the forum, see [[Tutorial] osu!mania mapping, Basics](https://osu.ppy.sh/community/forums/topics/118868), [[Tutorial] osu!mania mapping, Keysounding](https://osu.ppy.sh/community/forums/topics/139139)
+:::
 
 The osu!mania-specific editor has some differences compared to the other game modes, which are covered in this section.
 
@@ -152,7 +156,9 @@ In osu!mania, the beat snap divisor area also shows the name and volume level of
 
 #### Colours
 
-*See also: [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+::: alert-note
+**See also:** [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+:::
 
 | Line colour | Description |
 | :-- | :-- |
@@ -198,7 +204,9 @@ The left side of the sample import window lists all audio samples from the beatm
 
 #### Sample events list
 
-*See also: [Storyboard audio samples](/wiki/Storyboard/Scripting/Audio)*
+::: alert-note
+**See also:** [Storyboard audio samples](/wiki/Storyboard/Scripting/Audio)
+:::
 
 ![](img/sample-event-list.jpg "Sample events list window")
 

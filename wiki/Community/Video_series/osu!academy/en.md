@@ -10,7 +10,10 @@ Throughout the years, osu!academy has been hosted by multiple members of the com
 
 The main series of osu!academy serves as a general introduction to the broad world of osu!. It aims to familiarise users with all major features of osu! and its services, which might confuse newcomers due to a steep learning curve associated with the game.
 
-*Note: Episodes 1-6 have been rerecorded, as they presented obsolete information and were thus deemed unhelpful.*
+::: alert-notice
+**Notice**
+Episodes 1-6 have been rerecorded, as they presented obsolete information and were thus deemed unhelpful.
+:::
 
 | No. | Title | Description |
 | :-: | :-- | :-- |

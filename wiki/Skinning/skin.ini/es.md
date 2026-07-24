@@ -1,6 +1,8 @@
 # Archivo skin.ini
 
-*Véase también: [Archivo skin.ini en blanco](/wiki/Skinning/skin.ini/Blank)*
+::: alert-note
+**Véase también:** [Archivo skin.ini en blanco](/wiki/Skinning/skin.ini/Blank)
+:::
 
 El `skin.ini` es un archivo de inicialización que se encuentra en casi todas las carpetas de skins.
 Este archivo definirá cómo osu! mostrará ciertos elementos de las skins.
@@ -258,7 +260,10 @@ osu! organiza los comandos con un comando de encabezado. Que puede verse así `[
 
 ## \[Colours\]
 
-*Nota: ¡este encabezado **debe** escribirse como **`[Colours]`**, no como `[Colors]`!*
+::: alert-notice
+**Aviso**
+¡este encabezado **debe** escribirse como **`[Colours]`**, no como `[Colors]`!
+:::
 
 - `Combo1:`
   - Pregunta: ¿Qué color se usará para el último combo?

@@ -77,7 +77,9 @@ Los torneos pueden ser reportados por violación de los criterios oficiales de s
 
 ### Publicaciones de noticias
 
-*Véase también: [Soporte oficial para torneos § Noticias](/wiki/Tournaments/Official_support#noticias) y [Criterios de estilo para las noticias](/wiki/News_styling_criteria)*
+::: alert-note
+**Véase también:** [Soporte oficial para torneos § Noticias](/wiki/Tournaments/Official_support#noticias) y [Criterios de estilo para las noticias](/wiki/News_styling_criteria)
+:::
 
 Cuando se reciba un correo electrónico solicitando una noticia para un torneo, se notificará al Comité de Torneos. Si el torneo cumple todos los criterios de elegibilidad para la publicación de una noticia y el consenso en la discusión es positivo después de 48 horas, el Comité de Torneos reenviará la solicitud al equipo de noticias para su aprobación.
 
@@ -122,7 +124,10 @@ Los solicitantes que no reúnan suficientes votos positivos serán rechazados y 
 
 El Comité de Torneos recurre con frecuencia a votaciones para tomar decisiones importantes. Los usos típicos se enumeran más arriba, pero no son totalmente generales. Los requisitos de las votaciones también difieren según el caso de uso. Todas las votaciones típicas requieren también una «participación estricta», lo que significa que si el 75 % del Comité de Torneos no participa antes de que finalice el plazo de votación, esta se prolongará hasta que se alcance el mínimo de participación requerido. Además, todas las votaciones requieren una mayoría absoluta; es decir, al menos el 50 % para poder tomar medidas. Las votaciones sobre muchos temas tienen los mismos requisitos, pero hay ligeras diferencias en algunos temas comunes que se enumeran a continuación.
 
-*Nota: El mínimo de participación solo tiene en cuenta a los miembros que no se han negado a votar por tener un conflicto de intereses.*
+::: alert-notice
+**Aviso**
+El mínimo de participación solo tiene en cuenta a los miembros que no se han negado a votar por tener un conflicto de intereses.
+:::
 
 | Tipo de la votación | Duración mínima (días) | Mínimo de aprobación | Participación |
 | :-- | --: | --: | --: |

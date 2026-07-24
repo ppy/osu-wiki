@@ -9,7 +9,9 @@ tags:
 
 # Beatmap search
 
-*See also: [Beatmap § Downloading beatmaps](/wiki/Beatmap#downloading-beatmaps)*
+::: alert-note
+**See also:** [Beatmap § Downloading beatmaps](/wiki/Beatmap#downloading-beatmaps)
+:::
 
 By default, any text entered at the [song select screen](/wiki/Client/Interface#song-select) or in the website's search field is matched against a beatmap's song artist, title, difficulty creator and name, source, [mapper tags](/wiki/Beatmap/Beatmap_tags#mapper-tags), and [user tags](/wiki/Beatmap/Beatmap_tags#user-tags). Entering a single number will search for beatmaps and difficulties with a specific [identifier](/wiki/Beatmap#identification). All queries are case-insensitive.
 
@@ -28,7 +30,10 @@ Beatmap metadata fields can be compared against specific values for more granula
 
 ## Client
 
-*Note: The filters only work at the song selection screen, while [osu!direct](/wiki/osu!supporter#osu!direct) only supports regular full-text search.*
+::: alert-notice
+**Notice**
+The filters only work at the song selection screen, while [osu!direct](/wiki/osu!supporter#osu!direct) only supports regular full-text search.
+:::
 
 | Filter | Description |
 | :-- | :-- |

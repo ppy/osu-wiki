@@ -1,6 +1,8 @@
 # Criterios de clasificación simplificados
 
-*Para conocer los criterios de clasificación completos, véase: [Criterios de clasificación](/wiki/Ranking_criteria)*
+::: alert-note
+**Nota:** Para conocer los criterios de clasificación completos, véase [Criterios de clasificación](/wiki/Ranking_criteria)
+:::
 
 La lista completa de [criterios de clasificación](/wiki/Ranking_criteria) es complicada. Explica todas las reglas y pautas necesarias para crear un [beatmap](/wiki/Beatmap) digno de ser [clasificado](/wiki/Beatmap_ranking_procedure#clasificación), incluidas *muchas* situaciones específicas que la mayoría de los mappers nunca encuentran.
 
@@ -135,7 +137,9 @@ Los **criterios de clasificación simplificados** tienen como objetivo brindar a
 
 ## Específico para cada modo
 
-*Para conocer todos los criterios de clasificación específicos de cada [modo de juego](/wiki/Game_mode), véase: [osu!](../osu!), [osu!taiko](../osu!taiko), [osu!catch](../osu!catch), y [osu!mania](../osu!mania)*
+::: alert-note
+**Nota:** Para conocer todos los criterios de clasificación específicos de cada [modo de juego](/wiki/Game_mode), véase [osu!](../osu!), [osu!taiko](../osu!taiko), [osu!catch](../osu!catch), y [osu!mania](../osu!mania)
+:::
 
 ### osu!
 
@@ -179,7 +183,10 @@ Los **criterios de clasificación simplificados** tienen como objetivo brindar a
 
 ## Interpretación de las canciones
 
-*Nota: Esta sección se basa en opiniones subjetivas sobre el mapping, no en los criterios de clasificación.*
+::: alert-notice
+**Aviso**
+Esta sección se basa en opiniones subjetivas sobre el mapping, no en los criterios de clasificación.
+:::
 
 **Cada elemento de un mapa debe representar la canción.**
 
