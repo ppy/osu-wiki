@@ -8,7 +8,9 @@ tags:
 
 # Gastschwierigkeit
 
-*Für Regeln zu Gastschwierigkeiten, siehe: [Ranking-Kriterien](/wiki/Ranking_criteria)*
+::: alert-note
+**Anmerkung:** Für Regeln zu Gastschwierigkeiten, siehe [Ranking-Kriterien](/wiki/Ranking_criteria)
+:::
 
 Eine **Gastschwierigkeit** (engl. **guest difficulty**, kurz *GD*) ist ein [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty) einer [Beatmap](/wiki/Beatmap), der nicht vom [Besitzer der Beatmap](/wiki/Beatmap/Beatmap_host) erstellt wurde. Eine Gastschwierigkeit kann üblicherweise daran erkannt werden, dass ihr Name den Benutzernamen des Gast-Mappers enthält.
 
