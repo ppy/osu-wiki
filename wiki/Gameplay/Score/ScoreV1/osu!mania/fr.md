@@ -1,6 +1,8 @@
 # Système de notation d'osu!mania
 
-*Voir également : [Système de jugement d'osu!mania](/wiki/Gameplay/Judgement/osu!mania)*
+::: alert-note
+**Voir également** : [Système de jugement d'osu!mania](/wiki/Gameplay/Judgement/osu!mania)
+:::
 
 Dans osu!mania, chaque beatmap possède le même score total maximum de 1 million (1,000,000)
 

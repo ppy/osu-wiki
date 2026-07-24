@@ -29,7 +29,12 @@ tags:
 
 :::
 
-*Para la versión de osu!stable de este artículo, véase: [Spun Out (mod)](/wiki/Gameplay/Game_modifier/Spun_Out)*\
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la versión de osu!stable de este artículo, véase [Spun Out (mod)](/wiki/Gameplay/Game_modifier/Spun_Out)
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

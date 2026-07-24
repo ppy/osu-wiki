@@ -1,6 +1,8 @@
 # osu!tourney
 
-*参见：[osu! 比赛客户端](/wiki/osu!_tournament_client)*
+::: alert-note
+**参见：** [osu! 比赛客户端](/wiki/osu!_tournament_client)
+:::
 
 **osu!tourney** 是 osu! 的稳定版 (Stable) 多人旁观客户端，可以用它来旁观，或是在直播中显示多人游戏房间内所有玩家的游戏操作。
 

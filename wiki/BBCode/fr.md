@@ -93,7 +93,9 @@ Bouton de la barre d'outils : ![Options de taille de la police](img/font-size-FR
 
 ### Spoiler
 
-*A ne pas confondre avec [spoiler déroulant](#spoiler-déroulant).*
+::: alert-note
+**Remarque** : A ne pas confondre avec [spoiler déroulant](#spoiler-déroulant).
+:::
 
 ```
 [spoiler]texte[/spoiler]
@@ -105,7 +107,9 @@ La balise est le plus souvent utilisée pour éviter de spoiler des informations
 
 ### Boîte
 
-*A ne pas confondre avec [spoiler déroulant](#spoiler-déroulant).*
+::: alert-note
+**Remarque** : A ne pas confondre avec [spoiler déroulant](#spoiler-déroulant).
+:::
 
 ```
 [box=NOM]
@@ -119,7 +123,10 @@ Le texte de l'hyperlien personnalisé est désigné par l'argument `NOM`. La sp�
 
 La balise est le plus souvent utilisée pour masquer de grands murs de texte et d'images qui peuvent gonfler la taille d'un message de forum. Notamment dans les FAQ ou les messages de release des [skin](/wiki/Skinning).
 
-*Remarque : le bouton de la barre d'outils est appelé "spoiler déroulant", mais ne crée pas de balise `[spoilerbox]`.*
+::: alert-notice
+**Note**
+le bouton de la barre d'outils est appelé "spoiler déroulant", mais ne crée pas de balise `[spoilerbox]`.
+:::
 
 Bouton de la barre d'outils : ![Bouton "Spoiler déroulant"](img/spoilerbox.png "Spoiler déroulant")
 
@@ -141,7 +148,10 @@ texte
 
 La balise `[quote]` est utilisée pour formater de longues citations (également appelées "blocs de citations") en utilisant l'indentation, la coloration, les caractères gras et en séparant le texte par une ligne verticale rose. Le contenu réel de la citation est placé entre les balises ouverte et fermée, tandis que l'argument `NOM` spécifie l'auteur de la citation (bien que cela soit optionnel). Le texte à l'intérieur des guillemets restitue les espaces blancs et les sauts de ligne.
 
-*Attention : L'argument `NOM` doit être placé entre guillemets (`"`).*
+::: alert-caution
+**Attention**
+L'argument `NOM` doit être placé entre guillemets (`"`).
+:::
 
 Les citations longues sont généralement utilisées dans des écrits plus formels à la place des citations en ligne lorsque la citation fait trois lignes ou plus. Dans les forums d'osu!, cependant, elles sont le plus souvent utilisées pour répondre au commentaire d'un autre utilisateur, ce qui peut être fait automatiquement par le biais du bouton `Citer un post et répondre` situé en haut à droite du commentaire désiré (voir ci-dessous). Cependant, ce bouton n'apparaîtra **que si le curseur est à proximité**.
 
@@ -149,7 +159,9 @@ Les citations longues sont généralement utilisées dans des écrits plus forme
 
 ### Code en ligne
 
-*A ne pas confondre avec [bloc de code](#bloc-de-code).*
+::: alert-note
+**Remarque** : A ne pas confondre avec [bloc de code](#bloc-de-code).
+:::
 
 ```
 [c]texte[/c]
@@ -161,7 +173,9 @@ Dans les forums d'osu!, cette fonction est utile pour mettre l'accent, par exemp
 
 ### Bloc de code
 
-*A ne pas confondre avec [code en ligne](#code-en-ligne).*
+::: alert-note
+**Remarque** : A ne pas confondre avec [code en ligne](#code-en-ligne).
+:::
 
 ```
 [code]
@@ -189,7 +203,10 @@ La balise `[centre]` est utilisée pour aligner le texte au centre d'une boîte.
 
 La balise `[url]` est utilisée pour transformer du texte normal en liens hypertextes cliquables.
 
-*Remarque : il n'est pas nécessaire d'utiliser cette balise si l'on ne souhaite pas utiliser un texte d'hyperlien personnalisé, car l'éditeur du forum analyse automatiquement les URL appropriées pour en faire des liens.*
+::: alert-notice
+**Note**
+il n'est pas nécessaire d'utiliser cette balise si l'on ne souhaite pas utiliser un texte d'hyperlien personnalisé, car l'éditeur du forum analyse automatiquement les URL appropriées pour en faire des liens.
+:::
 
 Pour créer des liens hypertextes avec la balise `[url]`, les utilisateurs doivent spécifier deux arguments : le texte lié à afficher et l'URL spécifique du site web vers lequel naviguer. Le premier doit être spécifié entre les balises ouverte et fermée, et le second doit être spécifié en tant qu'argument `LIEN`, sans les guillemets (`"`). Si aucun texte n'est spécifié, le texte sera par défaut le nom de l'URL.
 
@@ -203,7 +220,10 @@ Bouton de la barre d'outils : ![Bouton "Lien"](img/url.png "Lien")
 
 La balise `[profile]` est utilisée pour créer un lien vers la page de profil osu! d'un utilisateur en utilisant son nom d'utilisateur ou son identifiant. L'utilisation de la balise `[profile]` diffère de l'utilisation de la balise `[url]` dans la mesure où la balise `[profile]` affiche une carte d'utilisateur lors du survol du lien créé par la balise.
 
-*Note : L'identifiant de l'utilisateur est une série de chiffres qui suit directement le `/users/` dans l'URL d'une page de profil osu!*
+::: alert-notice
+**Note**
+L'identifiant de l'utilisateur est une série de chiffres qui suit directement le `/users/` dans l'URL d'une page de profil osu!
+:::
 
 Lorsque l'on spécifie des utilisateurs uniquement par leur identifiant, il est nécessaire d'insérer un texte entre les balises ouverte et fermée. Dans ce cas, c'est le nom d'utilisateur qui s'affichera sur la page actuelle, et non le texte. Lorsque les utilisateurs ne sont spécifiés que par leur nom d'utilisateur, le lien ne fonctionnera pas s'ils changent de nom d'utilisateur.
 
@@ -221,7 +241,10 @@ La balise `[list]` est utilisée pour formater automatiquement deux types diffé
 
 Si l'argument `TYPE` est spécifié (la valeur réelle n'a pas d'importance), il créera une liste numérotée.
 
-*Remarque : Les listes formatées en BBCode peuvent être empilées les unes sur les autres et placées à l'intérieur les unes des autres, bien que cela soit connu pour causer des problèmes de formatage.*
+::: alert-notice
+**Note**
+Les listes formatées en BBCode peuvent être empilées les unes sur les autres et placées à l'intérieur les unes des autres, bien que cela soit connu pour causer des problèmes de formatage.
+:::
 
 Bouton de la barre d'outils : ![Bouton "Liste"](img/list.png "Liste") ![Bouton "Liste numérotée"](img/list-numbered.png "Liste numérotée")
 
@@ -243,7 +266,10 @@ Pour créer un lien, deux arguments doivent être spécifiés : l'argument `ADRE
 
 La balise `[img]` est utilisée pour inclure des images en ligne dans les messages du forum d'osu!. Pour utiliser cette balise, les utilisateurs doivent coller l'adresse directe de l'image (représentée par l'argument `ADRESSE` ci-dessus) provenant d'un site web. Les chemins d'accès aux fichiers locaux (par exemple `C:\Users\Name\Pictures\image.jpg`) **ne fonctionneront pas**.
 
-*Remarque : L'URL d'un site web n'est **pas** la même chose que l'adresse d'une image.*
+::: alert-notice
+**Note**
+L'URL d'un site web n'est **pas** la même chose que l'adresse d'une image.
+:::
 
 Pour obtenir l'adresse d'une image, il faut se rendre sur le site web où elle se trouve, passer la souris sur l'image, cliquer avec le bouton droit de la souris sur l'image et sélectionner `Copier l'adresse de l'image`. Il faut ensuite copier et coller l'adresse entre les balises.
 
@@ -288,7 +314,10 @@ L'identifiant d'une vidéo YouTube se trouve dans l'URL de la vidéo et correspo
 
 La balise `[audio]` est utilisée pour intégrer un lecteur audio [HTML5](https://fr.wikipedia.org/wiki/HTML5) provenant d'une source audio en ligne. Les fichiers audio peuvent provenir de n'importe où, à condition que le fichier existe à partir d'une URL. Les chemins d'accès aux fichiers locaux (par exemple, `C:\Users\Name\Music\audio.mp3`) **ne fonctionneront pas**.
 
-*Attention : Veuillez noter que tous les services de partage de fichiers n'apprécient pas l'extraction de leurs fichiers audio, en raison des problèmes de piratage de la musique. osu! n'est pas responsable des problèmes de droits d'auteur que les utilisateurs peuvent rencontrer à cet égard.*
+::: alert-caution
+**Attention**
+Veuillez noter que tous les services de partage de fichiers n'apprécient pas l'extraction de leurs fichiers audio, en raison des problèmes de piratage de la musique. osu! n'est pas responsable des problèmes de droits d'auteur que les utilisateurs peuvent rencontrer à cet égard.
+:::
 
 Pour intégrer des fichiers audio par cette méthode, les utilisateurs doivent coller l'URL de la source (par exemple, `https://www.example.com/example.mp3`) entre les deux balises `[audio]`.
 

@@ -13,7 +13,9 @@
 
 ## Проекты
 
-*См. также: [Список всех проектов](/wiki/Community/Projects)*
+::: alert-note
+**См. также:** [Список всех проектов](/wiki/Community/Projects)
+:::
 
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - [osu! wiki](/wiki/osu!_wiki)

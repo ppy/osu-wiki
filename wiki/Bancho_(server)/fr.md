@@ -5,7 +5,9 @@ tags:
 
 # Bancho (serveur)
 
-*Pour d'autres utilisations, voir [Bancho (désambiguïsation)](/wiki/Disambiguation/Bancho).*
+::: alert-note
+**Remarque** : Pour d'autres utilisations, voir [Bancho (désambiguïsation)](/wiki/Disambiguation/Bancho).
+:::
 
 **Bancho** (ou *osu!Bancho*) est le nom de code du serveur qui gère les interactions en temps réel entre les joueurs utilisant des versions stables d'osu! :
 

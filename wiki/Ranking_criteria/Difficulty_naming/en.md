@@ -6,7 +6,10 @@ The purpose of difficulty naming is to inform players how difficult a map is. Th
 
 These difficulty names are the most commonly used for each game mode.
 
-*Note: The special difficulty name **Marathon** historically allowed mappers to submit maps of longer songs, and thus became popular for single-difficulty mapsets. Today, the name has no special meaning and is typically only used for very long songs or song compilations.*
+::: alert-notice
+**Notice**
+The special difficulty name **Marathon** historically allowed mappers to submit maps of longer songs, and thus became popular for single-difficulty mapsets. Today, the name has no special meaning and is typically only used for very long songs or song compilations.
+:::
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -112,7 +115,10 @@ Mapsets of songs that originated from other games often borrow that game's diffi
 
 ### SOUND VOLTEX
 
-*Note: Large mapsets of SOUND VOLTEX songs often use difficulty names from multiple versions of the game, even if the song does not appear in all of them.*
+::: alert-notice
+**Notice**
+Large mapsets of SOUND VOLTEX songs often use difficulty names from multiple versions of the game, even if the song does not appear in all of them.
+:::
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) BASIC / BSC
 - ![](/wiki/shared/diff/normal-o.png?20211215) NOVICE / NOV

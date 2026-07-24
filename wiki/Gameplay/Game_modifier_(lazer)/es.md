@@ -19,8 +19,13 @@ tags:
 
 # Modificadores del juego (lazer)
 
-*Para la versión de osu!stable de este artículo, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
-*Para otros usos de «mod», véase: [Mod (desambiguación)](/wiki/Disambiguation/Mod)*
+::: alert-note
+**Nota:** Para la versión de osu!stable de este artículo, véase [Modificadores del juego](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Nota:** Para otros usos de «mod», véase [Mod (desambiguación)](/wiki/Disambiguation/Mod)
+:::
 
 ![](img/mod-select-ES.png "El selector de mods para el modo de juego osu!")
 

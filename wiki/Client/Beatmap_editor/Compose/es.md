@@ -14,7 +14,9 @@ El editor comparte las mismas herramientas entre osu!, osu!taiko y osu!catch, mi
 
 ## Características
 
-*Para una visión general del proceso de mapping, véase: [Beatmapping](/wiki/Beatmapping)*
+::: alert-note
+**Nota:** Para una visión general del proceso de mapping, véase [Beatmapping](/wiki/Beatmapping)
+:::
 
 ### Línea de tiempo de los objetos
 
@@ -115,7 +117,9 @@ En la parte inferior derecha, la velocidad de reproducción se puede configurar 
 
 ## Características (osu!mania)
 
-*Para tutoriales de mapping de osu!mania en el foro, véase: [[Tutorial] osu!mania mapping, Basics](https://osu.ppy.sh/community/forums/topics/118868), [[Tutorial] osu!mania mapping, Keysounding](https://osu.ppy.sh/community/forums/topics/139139)*
+::: alert-note
+**Nota:** Para tutoriales de mapping de osu!mania en el foro, véase [[Tutorial] osu!mania mapping, Basics](https://osu.ppy.sh/community/forums/topics/118868), [[Tutorial] osu!mania mapping, Keysounding](https://osu.ppy.sh/community/forums/topics/139139)
+:::
 
 El editor específico de osu!mania tiene algunas diferencias en comparación con otros modos de juego, que se tratan en esta sección.
 
@@ -152,7 +156,9 @@ En osu!mania, el área del divisor de ritmo también muestra el nombre y el nive
 
 #### Colores
 
-*Véase también: [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+::: alert-note
+**Véase también:** [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+:::
 
 | Color de la línea | Descripción |
 | :-- | :-- |
@@ -198,7 +204,9 @@ El lado izquierdo de la ventana de importación de muestras enumera todas las mu
 
 #### Lista de eventos de las muestras
 
-*Véase también: [Muestras de audio de los storyboards](/wiki/Storyboard/Scripting/Audio)*
+::: alert-note
+**Véase también:** [Muestras de audio de los storyboards](/wiki/Storyboard/Scripting/Audio)
+:::
 
 ![](img/sample-event-list.jpg "Ventana de la lista de eventos de las muestras")
 

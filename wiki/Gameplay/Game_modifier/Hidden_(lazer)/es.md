@@ -34,8 +34,13 @@ tags:
 
 :::
 
-*Para la versión de osu!stable de este artículo, véase: [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden)*\
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la versión de osu!stable de este artículo, véase [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden)
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Hidden** elimina los [círculos de aproximación](/wiki/Gameplay/Hit_object/Approach_circle) y hace que los [círculos](/wiki/Gameplay/Hit_object/Hit_circle) se desvanezcan después de aparecer en la pantalla.
 

@@ -10,7 +10,9 @@ tags:
 
 # Lebensleiste
 
-*Für Leben als eine Mechanik, siehe: [Leben](/wiki/Gameplay/Health)*
+::: alert-note
+**Anmerkung:** Für Leben als eine Mechanik, siehe [Leben](/wiki/Gameplay/Health)
+:::
 
 Die **Lebensleiste** (auch bekannt als die *HP-Leiste*) ist ein Balken, der die verbleibende [Gesundheit](/wiki/Gameplay/Health) eines Spielers anzeigt. In allen [Spielmodi](/wiki/Game_mode), außer [osu!mania](/wiki/Game_mode/osu!mania), gibt es einen Indikator, der sich entlang der Lebensleiste bewegt und die aktuellen Lebenspunkte eines Spielers angibt.
 
