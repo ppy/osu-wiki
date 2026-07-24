@@ -10,7 +10,10 @@ A lo largo de los años, osu!academy ha sido presentada por varios miembros de l
 
 La serie principal de osu!academy sirve como una introducción general al amplio mundo de osu!. Su objetivo es familiarizar a los usuarios con las principales funciones de osu! y sus servicios, que podrían confundir a los recién llegados debido a la pronunciada curva de aprendizaje asociada al juego.
 
-*Nota: Los episodios del 1 al 6 se volvieron a grabar porque presentaban información obsoleta y, por lo tanto, se consideraron inútiles.*
+::: alert-notice
+**Aviso**
+Los episodios del 1 al 6 se volvieron a grabar porque presentaban información obsoleta y, por lo tanto, se consideraron inútiles.
+:::
 
 | Número | Título | Descripción |
 | :-: | :-- | :-- |

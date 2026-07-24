@@ -13,7 +13,9 @@ tags:
 
 ![Icono del mod NV](/wiki/shared/mods/NV.png "Icono del mod No Video (NV)")
 
-*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Nota:** Para una lista completa de mods, véase [Modificador del juego](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Acerca de
 
@@ -23,7 +25,10 @@ tags:
 
 ## Descripción
 
-*Nota: Este mod ya no está disponible para su uso.*
+::: alert-notice
+**Aviso**
+Este mod ya no está disponible para su uso.
+:::
 
 El mod **No Video** era un [modificador del juego](/wiki/Gameplay/Game_modifier) que permitía a los jugadores desactivar el vídeo de fondo de un [beatmap](/wiki/Beatmap). Esto se utilizaba para mejorar el rendimiento del juego y la velocidad de fotogramas.
 

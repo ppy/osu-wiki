@@ -28,7 +28,9 @@ Presque toutes les musiques peuvent être divisées en plusieurs sections de tem
 ## Processus de timing
 
 *Article Principal : [Comment régler le timing d'une musique](/wiki/Guides/How_to_time_songs)*\
-*Voir également : [Éditeur de Beatmap/Timing](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**Voir également** : [Éditeur de Beatmap/Timing](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 ### BPM Unique
 

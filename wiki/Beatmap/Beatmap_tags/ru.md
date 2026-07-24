@@ -16,7 +16,10 @@
 
 ## Пользовательские теги
 
-*Примечание: эта функция недоступна в osu!(stable).*
+::: alert-notice
+**Внимание**
+эта функция недоступна в osu!(stable).
+:::
 
 **Пользовательские теги** (англ. *user tags*) описывают характеристики карты — например, применённые в ней паттерны, или навыки, требуемые для прохождения. Чтобы добавить новый тег или проголосовать за уже имеющийся, карту нужно пройти в osu!(lazer) как минимум на [оценку](/wiki/Gameplay/Grade) C. Тег появится на странице карты после получения 5 голосов «за».
 
@@ -77,7 +80,7 @@
 | :-- | :-- | :-- |
 | [tech/slider tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fslider%20tech%22%22) | Проверяет умение играть нестандартные слайдеры: например, обилие кикслайдеров или аим на слайдерах сложной формы. | ![][osu!] |
 | [tech/aim control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | Паттерны с изменениями скорости или направления, которые противоречат естественному движению курсора. | ![][osu!] |
-| [tech/finger control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | Использование сложных ритмических паттернов для проверки таппинга игрока. | ![][osu!] |
+| [tech/finger control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Ffinger%20control%22%22) | Использование сложных ритмических паттернов для проверки таппинга игрока. | ![][osu!] |
 | [tech/complex snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fcomplex%20snap%22%22) | Карты с частым использованием смешанных или необычных музыкальных долей. | ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [tech/antiflow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fantiflow%22%22) | Карты с резкими сменами направления или скорости, которые противоречат естественным движениям игрока. | ![][osu!catch] |
 | [tech/flow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fflow%22%22) | Карты с естественными и интуитивными паттернами движения. | ![][osu!catch] |
@@ -194,7 +197,7 @@
 | [additions/combo colours](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcombo%20colours%22%22) | Карты, в которых цвет комбо меняется в зависимости от песни, также известны как «colourhax». | ![][osu!] |
 | [additions/keysounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fkeysounds%22%22) | Карты с хитсаундами различной тональности, с помощью которых маппер создаёт отдельную мелодию, обычно следующую мелодии песни. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [additions/custom skin](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | Карты с собственными элементами скина и графики. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [additions/hitsounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | Карты с нестандартными наборами хитсаундов. | ![][osu!taiko] |
+| [additions/hitsounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fhitsounds%22%22) | Карты с нестандартными наборами хитсаундов. | ![][osu!taiko] |
 
 ### Теги метаданных
 

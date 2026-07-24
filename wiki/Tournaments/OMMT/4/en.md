@@ -110,7 +110,10 @@ The osu!mania Malaysia Tournament 4 was run by various community members.
 
 ## Mappools
 
-*Note: Maps marked with an asterisk were considered to be "MAD" maps. It was a twist from the organiser to make certain map unbannable, and on some occasions will force players to use certain mods. Each stage may have different kinds of MAD twists as detailed before the mappools.*
+::: alert-notice
+**Notice**
+Maps marked with an asterisk were considered to be "MAD" maps. It was a twist from the organiser to make certain map unbannable, and on some occasions will force players to use certain mods. Each stage may have different kinds of MAD twists as detailed before the mappools.
+:::
 
 ### Grand Finals
 
@@ -459,7 +462,10 @@ The final standings for the Qualifiers stage can be found in the following [spre
 
 ### Mappool format
 
-*Note: In every pool, certain map bracket(s) will be altered along the way.*
+::: alert-notice
+**Notice**
+In every pool, certain map bracket(s) will be altered along the way.
+:::
 
 | Stage | RC stage | LN stage | Hybrid stage | SV stage | Tiebreaker stage | Win condition |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |

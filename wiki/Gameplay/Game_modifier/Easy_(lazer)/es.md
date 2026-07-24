@@ -32,8 +32,13 @@ tags:
 
 :::
 
-*Para la versión de osu!stable de este artículo, véase: [Easy (mod)](/wiki/Gameplay/Game_modifier/Easy)*\
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la versión de osu!stable de este artículo, véase [Easy (mod)](/wiki/Gameplay/Game_modifier/Easy)
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Easy** intenta hacer más fácil el juego en cualquier [beatmap](/wiki/Beatmap) jugado reduciendo a la mitad cada ajuste de dificultad. En todos los [modos de juego](/wiki/Game_mode) excepto [osu!taiko](/wiki/Game_mode/osu!taiko), el mod da dos vidas extra en caso de que la [barra de salud](/wiki/Client/Interface/Health_bar) llegue a cero, rellenándola al instante.
 

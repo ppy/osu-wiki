@@ -60,7 +60,9 @@ Después de seleccionar `Play` en el menú principal, puedes elegir entre tres o
 
 ## Sala multijugador
 
-*Página principal: [Multijugador](/wiki/Client/Interface/Multiplayer)*
+::: alert-note
+**Página principal:** [Multijugador](/wiki/Client/Interface/Multiplayer)
+:::
 
 ![](img/multi-lobby-ES.jpg "Sala multijugador")
 
@@ -219,7 +221,10 @@ Coloca tu ratón sobre el icono de un mod para ver una breve descripción de su 
 
 Haz clic en el botón `Random` o presiona `F2` para que el juego **se desplace aleatoriamente por todos tus beatmaps y elija uno.**
 
-*Nota: Puedes presionar `Shift` + el botón `Random` o `F2` para volver al beatmap que habías seleccionado antes de aleatorizar tu selección.*
+::: alert-notice
+**Aviso**
+Puedes presionar `Shift` + el botón `Random` o `F2` para volver al beatmap que habías seleccionado antes de aleatorizar tu selección.
+:::
 
 ![](img/beatmap-options-ES.jpg "Comandos posibles para un beatmap")
 
@@ -282,7 +287,9 @@ Las categorías en el panel de clasificación son las siguientes:
 
 ### Medallas
 
-*Página principal: [Medallas](/wiki/Medals)*
+::: alert-note
+**Página principal:** [Medallas](/wiki/Medals)
+:::
 
 ![](img/medal-unlock-ES.jpg "Desbloqueo de una medalla")
 

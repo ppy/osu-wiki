@@ -1,13 +1,8 @@
----
-outdated_translation: true
-outdated_since: 518352ffac6612552688c3816c5a5bb589de15a2
----
-
 # Opciones
 
 ![Menú de opciones](img/options_basic-ES.jpg "Menú de opciones \(barra lateral a la izquierda\)")
 
-En el menú principal, haga clic en `Opciones` o presione `O` (o presione `Ctrl` + `O` que funciona en casi cualquier pantalla) para acceder a la barra lateral de opciones y cambiar las opciones disponibles en osu!. Una vez que se abre el menú de opciones, puede escribir para buscar una configuración específica. El texto de la barra de búsqueda temblará si la consulta de búsqueda no tiene resultados.
+En el menú principal, haz clic en `Opciones` o presiona `O` (o presiona `Ctrl` + `O` que funciona en casi cualquier parte) para acceder a la barra lateral de opciones y cambiar las opciones disponibles en osu!. Una vez que se abre el menú de opciones, puedes escribir para buscar una configuración específica. El texto de la barra de búsqueda temblará si la consulta de búsqueda no tiene resultados.
 
 Cuando se cambia una configuración que tiene un valor predeterminado, la barra vertical gris de la izquierda se iluminará en amarillo para esa configuración. Al hacer clic en esto, se restablecerá el valor a su valor predeterminado.
 
@@ -15,18 +10,18 @@ Cuando se cambia una configuración que tiene un valor predeterminado, la barra 
 
 ![Icono de General](img/general-ES.png "Icono de General")
 
-Esta sección trata sobre su cuenta, configuración de idioma, y actualizaciones para osu!
+Esta sección trata sobre tu cuenta, configuración de idioma, y actualizaciones para osu!
 
 ### Iniciar sesión
 
-Si no ha iniciado sesión en el cliente del juego, se abrirá automáticamente el menú de opciones al inicio y se le pedirá que inicie sesión. Puede ignorar esto presionando `Esc`, haciendo clic en el botón atrás, o navegando a la pantalla de selección de canciones. Si no inicia sesión, el cliente del juego lo marcará como «Guest» y no podrá obtener puntuaciones en línea, enviar puntuaciones ni jugar [multijugador](/wiki/Client/Interface/Multiplayer).
+Si no has iniciado sesión en el cliente del juego, se abrirá automáticamente el menú de opciones al inicio y se te pedirá que inicies sesión. Puedes ignorar esto presionando `Esc`, haciendo clic en el botón atrás, o navegando al selector canciones. Si no inicias sesión, el cliente del juego te marcará como «Guest» y no podrás obtener puntuaciones en línea, enviar puntuaciones ni jugar [multijugador](/wiki/Client/Interface/Multiplayer).
 
-Si es un invitado, se mostrarán estas opciones:
+Si eres un invitado, se mostrarán estas opciones:
 
 | Nombre | Descripción | Tipo | Por defecto |
 | :-- | :-- | :-- | :-- |
-| `Nombre de usuario` | Entrada de inicio de sesión para ingresar su nombre de usuario. | Texto | *(vacío)* |
-| `Contraseña` | Entrada de inicio de sesión para ingresar su contraseña. | Contraseña | *(vacío)* |
+| `Nombre de usuario` | Entrada de inicio de sesión para ingresar tu nombre de usuario. | Texto | *(vacío)* |
+| `Contraseña` | Entrada de inicio de sesión para ingresar tu contraseña. | Contraseña | *(vacío)* |
 | `Recordar nombre de usuario` | Si está marcado, el cliente del juego recordará el nombre de usuario ingresado. | Casilla de verificación | `Activada` |
 | `Recordar contraseña` | Si está marcado, el cliente del juego recordará la contraseña ingresada. Esto también te mantendrá conectado al cliente del juego. | Casilla de verificación | `Desactivada` |
 | `Iniciar sesión` | Inicia sesión en osu! con las credenciales dadas. Presionar `Entrar` en los formularios de nombre de usuario o contraseña también funciona. | Botón |  |
@@ -34,7 +29,7 @@ Si es un invitado, se mostrarán estas opciones:
 
 ---
 
-Si ha iniciado sesión, verá:
+Si has iniciado sesión, verás:
 
 | Nombre | Descripción | Tipo |
 | :-- | :-- | :-- |
@@ -42,54 +37,53 @@ Si ha iniciado sesión, verá:
 
 ---
 
-Si hace clic en el mensaje `Conectado como {nombre de usuario}`, se mostrará un menú con los siguientes botones:
+Si haces clic en el mensaje `Conectado como {nombre de usuario}`, se mostrará un menú con los siguientes botones:
 
 | Nombre | Descripción | Tipo |
 | :-- | :-- | :-- |
-| `1. Ver perfil` | Ver su perfil en el sitio web. | Botón |
+| `1. Ver perfil` | Ver tu perfil en el sitio web. | Botón |
 | `2. Cerrar sesión` | Cierra la sesión de este cliente del juego. | Botón |
-| `3. Cambiar foto de perfil` | Cambiar la foto de perfil (esto lo redirigirá al sitio web). | Botón |
-| `4. Cerrar` | Cierra este cuadro de diálogo. También puede pulsar `Esc`. | Botón |
+| `3. Cambiar foto de perfil` | Cambiar la foto de perfil (esto te redirigirá al sitio web). | Botón |
+| `4. Cerrar` | Cierra este cuadro de diálogo. También puedes presionar `Esc`. | Botón |
 
-Puede acceder a este menú haciendo clic en su tarjeta de jugador donde esté disponible.
+Puedes acceder a este menú haciendo clic en tu tarjeta de jugador donde esté disponible.
 
 ### Idioma
 
 | Nombre | Descripción | Tipo | Por defecto |
 | :-- | :-- | :-- | :-- |
 | `Selecciona el idioma` | Muestra una lista de idiomas para seleccionar. | Lista desplegable |  |
-| `Mostrar datos de canciones en su idioma original` | En la pantalla de selección de canciones, los beatmaps mostrarán sus metadatos originales o sin traducir, si están disponibles. | Casilla de verificación | `Desactivada` |
-| `Utilizar una fuente alternativa para el chat` | Utiliza la fuente antigua (Tahoma) en lugar de la fuente actual (Aller) en la [consola del chat](/wiki/Client/Interface/Chat_console). | Casilla de verificación | `Desactivada` |
+| `Mostrar datos de canciones en su idioma original` | En el selector de canciones, los beatmaps mostrarán sus metadatos originales o sin traducir, si están disponibles. | Casilla de verificación | `Desactivada` |
+| `Utilizar una fuente alternativa para el chat` | Usa la fuente antigua (Tahoma) en lugar de la fuente actual (Aller) en la [consola del chat](/wiki/Client/Interface/Chat_console). | Casilla de verificación | `Desactivada` |
 
 ### Actualizaciones
 
 | Nombre | Descripción | Tipo | Por defecto |
 | :-- | :-- | :-- | :-- |
-| `Versión` | Muestra una lista de versiones que desea usar. | Lista desplegable | `Estable` |
-| `¡Tu osu! está actualizado!` | Haga clic para obligar al cliente del juego a buscar actualizaciones nuevamente y descargarlas, si las hay. | Botón |  |
-| `Abrir la carpeta de osu!` | Abre la carpeta local de osu!, que contiene sus skins, beatmaps, etc. | Botón |  |
+| `Versión` | Muestra una lista de versiones que puedes usar. | Lista desplegable | `Estable` |
+| `¡Tu osu! está actualizado!` | Haz clic para obligar al cliente del juego a buscar actualizaciones nuevamente y descargarlas, si las hay. | Botón |  |
+| `Abrir la carpeta de osu!` | Abre la carpeta local de osu!, que contiene tus skins, beatmaps, etc. | Botón |  |
 
 ---
 
-Si abre la lista desplegable de `Versión`, se le presentarán estas opciones:
+Si abres la lista desplegable de `Versión`, se te presentarán estas opciones:
 
 | Nombre | Descripción |
 | :-- | :-- |
 | `Estable` | Compilación estable de lanzamiento público. |
-| `Beta` | Compilación de desarrollo, obtiene nuevas funciones antes, pero posiblemente con más errores. |
-| `Cutting Edge (Experimental)` | Compilación de desarrollo, obtiene nuevas características incluso antes, pero posiblemente con muchos errores. |
+| `Cutting Edge (Experimental)` | Compilación de desarrollo, recibe actualizaciones antes, pero posiblemente con muchos errores. |
 
 ## Gráficos
 
 ![Icono de Gráficos](img/graphics-ES.png "Icono de Gráficos")
 
-Esta sección trata sobre la apariencia de su cliente del juego, partes de la interfaz y la configuración de vídeo.
+Esta sección trata sobre la apariencia de tu cliente del juego, partes de la interfaz y la configuración de vídeo.
 
 ### Motor de renderizado
 
 | Nombre | Descripción | Tipo | Por defecto |
 | :-- | :-- | :-- | :-- |
-| `Límite de FPS` | Establezca el límite de velocidad de fotogramas. Vea a continuación para más detalles. | Lista desplegable | `Optimal` |
+| `Límite de FPS` | Establece el límite de velocidad de fotogramas. Ve a continuación para más detalles. | Lista desplegable | `Optimal` |
 | `Mostrar contador de FPS` | Alterna el contador de FPS. Esto se ve en la esquina inferior derecha de la pantalla. | Casilla de verificación | `Desactivada` |
 | `Modo de compatibilidad` | Usa el antiguo renderizador que osu! usaba antes con ordenadores más viejos. Esto reiniciará el cliente del juego. | Casilla de verificación | `Desactivada` |
 | `Reducir pérdidas de fotogramas` | Ajusta la configuración gráfica para disminuir los fotogramas caídos o entrecortados. | Casilla de verificación | `Desactivada` |
@@ -97,23 +91,26 @@ Esta sección trata sobre la apariencia de su cliente del juego, partes de la in
 
 ---
 
-*Nota: cuando el cliente del juego no es la ventana activa, el límite de fps se reduce automáticamente a 30 fps.*\
-*Precaución para los usuarios de ordenadores portátiles: ¡el uso de `Ilimitado (en partida)` puede hacer que su ordenador portátil se sobrecaliente!*
+::: alert-notice
+**Nota:** cuando el cliente del juego no es la ventana activa, el límite de fps se reduce automáticamente a 30 fps.
+:::
 
-Si abre la lista desplegable de `Límite de FPS`, se le presentarán estas opciones:
+*Precaución para los usuarios de ordenadores portátiles: ¡el uso de `Ilimitado (en partida)` puede hacer que tu ordenador portátil se sobrecaliente!*
+
+Si abres la lista desplegable de `Límite de FPS`, se te presentarán estas opciones:
 
 | Nombre | Descripción |
 | :-- | :-- |
-| `Sincr. vertical` | Limita el cliente del juego a la frecuencia de actualización de su monitor. Vea la explicación a continuación para más detalles. |
-| `Power Saving` | Limita el cliente del juego al doble de la frecuencia de actualización de su monitor. |
-| `Optimal` | Limita el cliente del juego a ocho veces la frecuencia de actualización de su monitor, con un límite de 960 fps. |
-| `Ilimitado (en partida)` | Limita el cliente del juego a la frecuencia de actualización de su monitor. Vea la explicación a continuación para más detalles. |
+| `Sincr. vertical` | Limita el cliente del juego a la frecuencia de actualización de tu monitor. Ve la explicación a continuación para más detalles. |
+| `Power Saving` | Limita el cliente del juego al doble de la frecuencia de actualización de tu monitor. |
+| `Optimal` | Limita el cliente del juego a ocho veces la frecuencia de actualización de tu monitor, con un límite de 960 fps. |
+| `Ilimitado (en partida)` | Limita el cliente del juego a la frecuencia de actualización de tu monitor. Ve la explicación a continuación para más detalles. |
 
-- Explicación de `Sincr. vertical`: En términos simples, el uso de Sincr. vertical obligará al juego a esperar a que se cargue todo el cuadro antes de mostrarlo.
-  - Es posible que desee usar esto si ve algunos «desgarros» (cuando la parte inferior del juego se está quedando atrás de la parte superior del juego).
+- Explicación de `Sincr. vertical`: En términos simples, el uso de `Sincr. vertical` obligará al juego a esperar a que se cargue todo el cuadro antes de mostrarlo.
+  - Es posible que quieras usar esto si ve algunos «desgarros» (cuando la parte inferior del juego se está quedando atrás de la parte superior del juego).
   - A pesar de lo indicado en el punto anterior, esto puede causar algunos retrasos o ralentizaciones porque el cliente del juego tiene que esperar a que se cargue cada fotograma.
 - Explicación de `Ilimitado (en partida)`: Ilimitado solo se aplica cuando estás jugando un beatmap.
-  - Cuando no está jugando un beatmap, la velocidad de fotogramas se limita al doble de la frecuencia de actualización de su monitor, o 240 fps, lo que sea mayor.
+  - Cuando no estás jugando un beatmap, la velocidad de fotogramas se limita al doble de la frecuencia de actualización de tu monitor, o 240 fps, lo que sea mayor.
   - **No se recomienda** esta opción. El uso de la opción `Ilimitado (en partida)` puede provocar tartamudeos.
   - El uso de la opción `Optimal` en su lugar ofrece cambios imperceptibles en la latencia del sistema (entrada a salida) en comparación con `Ilimitado (en partida)`.
 
@@ -121,9 +118,9 @@ Si abre la lista desplegable de `Límite de FPS`, se le presentarán estas opcio
 
 | Nombre | Descripción | Tipo | Por defecto |
 | :-- | :-- | :-- | :-- |
-| `Resolución` | Establece la resolución del cliente del juego. Las resoluciones enumeradas se limitan a lo que admite su monitor/GPU. | Lista desplegable |  |
+| `Resolución` | Establece la resolución del cliente del juego. Las resoluciones enumeradas se limitan a lo que admite tu monitor/GPU. | Lista desplegable |  |
 | `Pantalla completa` | Ejecuta el cliente del juego en pantalla completa (generalmente disminuye la latencia de entrada). | Casilla de verificación | `Activada` |
-| `Render at native resolution` | Utiliza la resolución nativa completa pero mostrará osu! en una porción más pequeña centrada de la pantalla. | Casilla de verificación | `Activada` |
+| `Render at native resolution` | Usa la resolución nativa completa pero mostrará osu! en una porción más pequeña centrada de la pantalla. | Casilla de verificación | `Activada` |
 | `Minimise on alt-tab during fullscreen` | Minimiza la ventana principal al presionar `Alt` + `Tab`. | Casilla de verificación | `Activada` |
 | `Posicion horizontal` | Ajusta el desplazamiento horizontal para el modo de pantalla ancha. Solo aparece si `Render at native resolution` está habilitado. | Control deslizante | `0 %` |
 | `Posición vertical` | Ajusta el desplazamiento vertical para el modo de pantalla ancha. Solo aparece si `Render at native resolution` está habilitado. | Control deslizante | `0 %` |
@@ -139,7 +136,7 @@ Si abre la lista desplegable de `Límite de FPS`, se le presentarán estas opcio
 | `Storyboards` | Permite que se reproduzcan storyboards del beatmap (se puede deshabilitar por beatmap). | Casilla de verificación | `Activada` |
 | `Imágenes de combo` | Permite que se muestren estallidos de combo al alcanzar un hito de combo. | Casilla de verificación | `Desactivada` |
 | `Resplandor` | Muestra un brillo sutil detrás de cada explosión de golpe. No desactiva la iluminación durante el Kiai Time. | Casilla de verificación | `Activada` |
-| `Tecnología Shader` | Muestra, gráficamente hablando, efectos de tipo concierto. Esto puede desactivarse automáticamente si su ordenador no puede soportarlo. | Casilla de verificación | `Desactivada` |
+| `Tecnología Shader` | Muestra, gráficamente hablando, efectos de tipo concierto. Esto puede desactivarse automáticamente si tu ordenador no puede soportarlo. | Casilla de verificación | `Desactivada` |
 | `Filtro de suavizado` | Ajusta los shaders para que sean menos llamativos. Esto habilitará automáticamente `Tecnología Shader`. | Casilla de verificación | `Desactivada` |
 | `Formato de captura` | Establece el formato del archivo de captura de pantalla. | Lista desplegable | `JPEG (Comprimido)` |
 
@@ -156,19 +153,19 @@ Si abre la lista desplegable de `Límite de FPS`, se le presentarán estas opcio
 
 ---
 
-Si abre la lista desplegable de `Seasonal backgrounds`, se le presentarán estas opciones:
+Si abres la lista desplegable de `Seasonal backgrounds`, se te presentarán estas opciones:
 
 | Nombre | Descripción |
 | :-- | :-- |
-| `Sometimes` | Verá fondos estacionales durante algunas semanas al comienzo de cada temporada. El equipo de osu!dev elegirá cuándo se eliminarán y se reemplazarán con fondos más sencillos a los que está acostumbrado. |
-| `Never` | Nunca verá fondos estacionales, y los valores predeterminados se utilizarán en todos los casos. |
+| `Sometimes` | Verás fondos estacionales durante algunas semanas al comienzo de cada temporada. El equipo de osu!dev elegirá cuándo se eliminarán y se reemplazarán con fondos más sencillos a los que está acostumbrado. |
+| `Never` | Nunca verás fondos estacionales, y los valores predeterminados se usarán en todos los casos. |
 | `Always` | Siempre tendrá los fondos de la temporada actual. |
 
 ### Selector de canciones
 
 | Nombre | Descripción | Tipo | Por defecto |
 | :-- | :-- | :-- | :-- |
-| `Ver miniaturas` | Muestra una imagen de vista previa del fondo de cada beatmap. Esto requiere la versión de la skin seleccionada a 2.2+. | Casilla de verificación | `Activada` |
+| `Ver miniaturas` | Muestra una imagen de vista previa del fondo de cada beatmap. Esto requiere la versión de la skin seleccionada a 2,2+. | Casilla de verificación | `Activada` |
 
 ## Juego
 
@@ -180,20 +177,20 @@ Esta sección trata sobre las configuraciones que afectan el juego.
 
 | Nombre | Descripción | Tipo | Por defecto |
 | :-- | :-- | :-- | :-- |
-| `Oscurecer el fondo` | Ajusta el nivel de atenuación aplicado al fondo y al storyboard mientras juega (se puede configurar por beatmap). | Control deslizante | `80 %` |
+| `Oscurecer el fondo` | Ajusta el nivel de atenuación aplicado al fondo y al storyboard mientras juegas (se puede configurar por beatmap). | Control deslizante | `80 %` |
 | `Don't change dim level during breaks` | Deshabilita el brillo del nivel de atenuación durante los descansos. | Casilla de verificación | `Desactivada` |
 | `Show leaderboard during gameplay` | Muestra la tabla de clasificación en el lado izquierdo durante el juego, tanto en el modo solo como multijugador. | Casilla de verificación | `Activada` |
-| `Barra de progreso` | Configura dónde y cómo se muestra la barra de progreso de la canción. Vea a continuación para más detalles. | Lista desplegable | `Arriba (Círculo)` |
-| `Medidor de puntuación` | Configura el medidor de precisión que aparece debajo del beatmap. Tenga en cuenta que osu!catch siempre usará `Colores`. | Lista desplegable | `Precisión` |
+| `Barra de progreso` | Configura dónde y cómo se muestra la barra de progreso de la canción. Ve a continuación para más detalles. | Lista desplegable | `Arriba (Círculo)` |
+| `Medidor de puntuación` | Configura el medidor de precisión que aparece debajo del beatmap. Ten en cuenta que osu!catch siempre usará `Colores`. | Lista desplegable | `Precisión` |
 | `Tamaño del medidor de puntuación` | Configura el tamaño del medidor de puntuación. | Control deslizante | `1x` |
 | `Mostrar botones en pantalla` | Muestra la superposición del estado de las teclas incluso mientras juega normalmente. | Casilla de verificación | `Desactivada` |
-| `Mostrar el círculo de aproximación en la primera nota del modo Hidden` | Cuando juegue con el mod «hidden», mostrará solo el círculo de aproximación de la primera nota. | Casilla de verificación | `Activada` |
+| `Mostrar el círculo de aproximación en la primera nota del modo Hidden` | Cuando juegues con el mod «Hidden», mostrará solo el círculo de aproximación de la primera nota. | Casilla de verificación | `Activada` |
 | `Modifica la velocidad de desplazamiento de osu!mania con los BPM` | Ajusta la velocidad de desplazamiento de osu!mania según los BPM del beatmap. | Casilla de verificación | `Desactivada` |
-| `Recordar la velocidad de desplazamiento de cada mapa en osu!mania` | Recuerda la velocidad de desplazamiento que había establecido por beatmap. | Casilla de verificación | `Desactivada` |
+| `Recordar la velocidad de desplazamiento de cada mapa en osu!mania` | Recuerda la velocidad de desplazamiento que habías establecido por beatmap. | Casilla de verificación | `Desactivada` |
 
 ---
 
-Si abre la lista desplegable de `Barra de progreso`, se le presentarán estas opciones:
+Si abres la lista desplegable de `Barra de progreso`, se te presentarán estas opciones:
 
 | Nombre | Descripción |
 | :-- | :-- |
@@ -204,7 +201,7 @@ Si abre la lista desplegable de `Barra de progreso`, se le presentarán estas op
 
 ---
 
-Si abre la lista desplegable de `Medidor de puntuación`, se le presentarán estas opciones:
+Si abres la lista desplegable de `Medidor de puntuación`, se te presentarán estas opciones:
 
 | Nombre | Descripción |
 | :-- | :-- |
@@ -229,8 +226,8 @@ Esta sección trata sobre las opciones relacionadas con el sonido.
 
 | Nombre | Descripción | Tipo | Por defecto |
 | :-- | :-- | :-- | :-- |
-| `Salida` | Selecciona el dispositivo de salida preferido para el sonido. (Las opciones dadas se basan en lo que informa su ordenador). | Lista desplegable | `Predeterminado` |
-| `Audio compatibility mode` | Utiliza el motor de sonido heredado que tiene una latencia más alta pero es más compatible. | Casilla de verificación | `Desactivada` |
+| `Salida` | Selecciona el dispositivo de salida preferido para el sonido. (Las opciones dadas se basan en lo que informa tu ordenador). | Lista desplegable | `Predeterminado` |
+| `Audio compatibility mode` | Usa el motor de sonido heredado que tiene una latencia más alta pero es más compatible. | Casilla de verificación | `Desactivada` |
 
 ### Volumen
 
@@ -257,19 +254,19 @@ El volumen principal, la música y los efectos se pueden cambiar en otro lugar p
 
 ![Icono de Skin](img/skin-ES.png "Icono de Skin")
 
-Esta sección trata sobre cosas relacionadas con la skin.
+Esta sección trata sobre cosas relacionadas con las skins.
 
 ### Skin
 
 | Nombre | Descripción | Tipo | Por defecto |
 | :-- | :-- | :-- | :-- |
-| `Skin` | Muestra varios elementos de juego de la skin seleccionada. Haga clic para recorrer los diferentes conjuntos de elementos. | Botón |  |
+| `Skin` | Muestra varios elementos de juego de la skin seleccionada. Haz clic para recorrer los diferentes conjuntos de elementos. | Botón |  |
 | `Skin actual` | Cambia la skin. Los elementos de la lista desplegable se basan en lo que hay en la carpeta `osu!/Skins`. (Los nombres se basan en el nombre de la carpeta). | Lista desplegable | `Default` |
 | `Previsualizar skin` | Previsualiza la skin jugando un beatmap aleatorio con el mod auto. El modo se determina según lo que se seleccionó en el selector de canciones. | Botón |  |
 | `Abrir la carpeta de skins` | Abre la carpeta de la skin seleccionada. | Botón |  |
-| `Exportar como .osk` | Exporta la skin actual como un archivo `.osk` para compartir. Una vez que su cliente del juego termine de exportar, abrirá el directorio que contiene el archivo `.osk`. | Botón |  |
+| `Exportar como .osk` | Exporta la skin actual como un archivo `.osk` para compartir. Una vez que tu cliente del juego termine de exportar, abrirá el directorio que contiene el archivo `.osk`. | Botón |  |
 | `Desactivar las skins del mapa` | Favorece a la skin seleccionada sobre la skin incluida en el beatmap. Esto no incluye hitsounds (véase la siguiente opción a continuación). | Casilla de verificación | `Desactivada` |
-| `Utilizar los efectos de sonido de la skin` | Utiliza siempre los hitsounds de la skin seleccionada en lugar de los hitsounds incluidos en el beatmap. | Casilla de verificación | `Activada` |
+| `Utilizar los efectos de sonido de la skin` | Usa siempre los hitsounds de la skin seleccionada en lugar de los hitsounds incluidos en el beatmap. | Casilla de verificación | `Activada` |
 | `Utilizar la skin de Taiko para Taiko` | Usa elementos de la skin específicos de osu!taiko, si los proporciona la skin seleccionada. Véase [Skinning/osu!taiko](/wiki/Skinning/osu!taiko) para más detalles. | Casilla de verificación | `Desactivada` |
 | `Utilizar siempre el puntero de la skin` | Favorece al cursor de la skin actual sobre cualquier cursor suministrado por beatmaps. | Casilla de verificación | `Desactivada` |
 | `Tamaño del cursor` | Ajusta el tamaño del cursor. | Control deslizante | `1x` |
@@ -289,7 +286,7 @@ Esta sección trata sobre los periféricos de entrada.
 | `Sensibilidad del ratón` | Ajusta la sensibilidad del cursor del ratón. Si se cambia, puede habilitar automáticamente `Puntero directo`. | Control deslizante | `1x` |
 | `Puntero directo` | Lee los valores posicionales del ratón/tableta directamente desde el hardware, sin ningún procesamiento posterior (esto es para ignorar la aceleración del ratón). | Casilla de verificación | `Desactivada` |
 | `Dirigir toda la entrada a la ventana de osu!` | Limita los dispositivos de entrada con posicionamiento absoluto (por ejemplo, tabletas gráficas) solo a la ventana del cliente del juego. | Casilla de verificación | `Desactivada` |
-| `Confinar cursor` | Evite que el cursor del ratón abandone la ventana del cliente del juego. Vea a continuación para más detalles. | Lista desplegable | `Solo en pantalla completa` |
+| `Confinar cursor` | Evita que el cursor del ratón abandone la ventana del cliente del juego. Ve a continuación para más detalles. | Lista desplegable | `Solo en pantalla completa` |
 | `Deshabilitar la rueda del ratón mientras juegas` | Desactiva la rueda del ratón durante el juego. El uso de la rueda del ratón puede cambiar el valor del volumen general. | Casilla de verificación | `Desactivada` |
 | `Deshabilitar los botones del ratón mientras juegas` | Desactiva los botones del ratón durante el juego. Esto es útil para los usuarios de teclado. | Casilla de verificación | `Desactivada` |
 | `Ondas del cursor` | Muestra un efecto de onda sutil cuando se hace clic con el ratón. | Casilla de verificación | `Desactivada` |
@@ -299,7 +296,7 @@ Esta sección trata sobre los periféricos de entrada.
 
 ---
 
-Si abre la lista desplegable de `Confinar cursor`, se le presentarán estas opciones:
+Si abres la lista desplegable de `Confinar cursor`, se te presentarán estas opciones:
 
 | Nombre | Descripción |
 | :-- | :-- |
@@ -311,8 +308,8 @@ Si abre la lista desplegable de `Confinar cursor`, se le presentarán estas opci
 
 | Nombre | Descripción | Tipo |
 | :-- | :-- | :-- |
-| `Atajos del teclado` | Muestra un cuadro de diálogo que le permite ver o cambiar las asignaciones de su teclado. Véase [Atajos del teclado](/wiki/Client/Options/Keyboard_bindings) para más detalles. | Botón |
-| `Disposición de osu!mania` | Muestra un cuadro de diálogo que le permite ver o cambiar sus asignaciones de osu!mania. Véase [Disposición de osu!mania](/wiki/Game_mode/osu!mania) para más detalles. | Botón |
+| `Atajos del teclado` | Muestra un cuadro de diálogo que te permite ver o cambiar las asignaciones de tu teclado. Véase [Atajos del teclado](/wiki/Client/Options/Keyboard_bindings) para más detalles. | Botón |
+| `Disposición de osu!mania` | Muestra un cuadro de diálogo que te permite ver o cambiar tus asignaciones de osu!mania. Véase [Disposición de osu!mania](/wiki/Game_mode/osu!mania) para más detalles. | Botón |
 
 ### Otro
 
@@ -334,10 +331,10 @@ Estas opciones solo afectan mientras se trabaja dentro del editor de beatmaps o 
 | Nombre | Descripción | Tipo | Por defecto |
 | :-- | :-- | :-- | :-- |
 | `Vídeo de fondo` | Reproduce el vídeo de fondo del beatmap mientras se edita. | Casilla de verificación | `Desactivada` |
-| `Usar skin por defecto` | Usa la skin predeterminada de osu! mientras edita, a pesar de la configuración actual de la skin. | Casilla de verificación | `Desactivada` |
-| `Deslizadores serpenteantes` | Habilita los deslizadores serpenteantes mientras edita. | Casilla de verificación | `Activada` |
-| `Animaciones de golpeo` | Habilita las animaciones de golpeo mientras edita. | Casilla de verificación | `Desactivada` |
-| `Puntos de seguimiento` | Habilita los puntos de seguimiento mientras edita. | Casilla de verificación | `Activada` |
+| `Usar skin por defecto` | Usa la skin predeterminada de osu! mientras editas, a pesar de la configuración actual de la skin. | Casilla de verificación | `Desactivada` |
+| `Deslizadores serpenteantes` | Habilita los deslizadores serpenteantes mientras editas. | Casilla de verificación | `Activada` |
+| `Animaciones de golpeo` | Habilita las animaciones de golpeo mientras editas. | Casilla de verificación | `Desactivada` |
+| `Puntos de seguimiento` | Habilita los puntos de seguimiento mientras editas. | Casilla de verificación | `Activada` |
 | `Apilado` | Apila los círculos como en el juego. | Casilla de verificación | `Activada` |
 
 Estas opciones se pueden sobrescribir manualmente usando el menú `Ver` en el editor de beatmaps.
@@ -352,16 +349,16 @@ Esta sección trata sobre el chat, espectadores, multijugador, y osu!direct.
 
 | Nombre | Descripción | Tipo | Por defecto |
 | :-- | :-- | :-- | :-- |
-| `Mostrar nuevos mensajes` | Muestra el mensaje de chat más reciente en la parte inferior de la pantalla. El mensaje que se muestra es del canal actual que está viendo. | Casilla de verificación | `Desactivada` |
+| `Mostrar nuevos mensajes` | Muestra el mensaje de chat más reciente en la parte inferior de la pantalla. El mensaje que se muestra es del canal actual que estás viendo. | Casilla de verificación | `Desactivada` |
 | `Ocultar el chat mientras juega` | Si el chat está abierto durante los descansos o los menús del juego, el cliente del juego lo ocultará automáticamente cuando el juego comience de nuevo. | Casilla de verificación | `Activada` |
-| `Mostrar una notificación cuando alguien mencione tu nombre` | Cuando alguien [mencione su nombre de usuario](/wiki/Client/Interface/Chat_console/Highlight) en el chat, aparecerá una notificación. | Casilla de verificación | `Activada` |
+| `Mostrar una notificación cuando alguien mencione tu nombre` | Cuando alguien [mencione tu nombre de usuario](/wiki/Client/Interface/Chat_console/Highlight) en el chat, aparecerá una notificación. | Casilla de verificación | `Activada` |
 | `Mostrar notificaciones de mensajes de chat` | Muestra una notificación cuando lleguen nuevos mensajes de chat. | Casilla de verificación | `Activada` |
-| `Reproducir un sonido cuando alguien diga tu nombre` | Cuando alguien [mencione su nombre de usuario](/wiki/Client/Interface/Chat_console/Highlight) en el chat, se reproducirá un sonido. | Casilla de verificación | `Activada` |
-| `Compartir tu cuidad actual con otros` | Comparte la ubicación de su ciudad en su tarjeta de usuario (tenga en cuenta que su país ya está compartido). | Casilla de verificación | `Desactivada` |
+| `Reproducir un sonido cuando alguien diga tu nombre` | Cuando alguien [mencione tu nombre de usuario](/wiki/Client/Interface/Chat_console/Highlight) en el chat, se reproducirá un sonido. | Casilla de verificación | `Activada` |
+| `Compartir tu cuidad actual con otros` | Comparte la ubicación de tu ciudad en tu tarjeta de usuario (ten en cuenta que tu país ya está compartido). | Casilla de verificación | `Desactivada` |
 | `Mostrar espectadores` | Muestra una lista de los espectadores actuales a la izquierda de la pantalla durante el juego. | Casilla de verificación | `Activada` |
-| `Enlazar automáticamente los mapas a los espectadores` | Envía el beatmap que se está jugando actualmente al canal `#spectator` cuando tenga espectadores. | Casilla de verificación | `Activada` |
-| `Mostrar notificaciones mientras juega` | Permite que se muestre una notificación push durante el juego. Si está deshabilitado, el cliente del juego esperará hasta que termine de jugar. | Casilla de verificación | `Activada` |
-| `Notificar los cambios de estado de tus amigos` | Muestra una notificación cada vez que su amigo se conecte o desconecte. | Casilla de verificación | `Activada` |
+| `Enlazar automáticamente los mapas a los espectadores` | Envía el beatmap que se está jugando actualmente al canal `#spectator` cuando tengas espectadores. | Casilla de verificación | `Activada` |
+| `Mostrar notificaciones mientras juega` | Permite que se muestre una notificación push durante el juego. Si está deshabilitado, el cliente del juego esperará hasta que termines de jugar. | Casilla de verificación | `Activada` |
+| `Notificar los cambios de estado de tus amigos` | Muestra una notificación cada vez que un amigo se conecte o desconecte. | Casilla de verificación | `Activada` |
 | `Permitir todas las invitaciones de multijugador` | Permite invitaciones de una partida multijugador de cualquier persona. Deshabilitar esto limitará las invitaciones multijugador solo a amigos. | Casilla de verificación | `Activada` |
 
 ### Integración
@@ -369,8 +366,8 @@ Esta sección trata sobre el chat, espectadores, multijugador, y osu!direct.
 | Nombre | Descripción | Tipo | Por defecto |
 | :-- | :-- | :-- | :-- |
 | `Discord Rich Presence` | Proporciona [datos de presencia enriquecidos a Discord](/wiki/Guides/Discord_Rich_Presence). | Casilla de verificación | `Activada` |
-| `Integrar con el estado de Yahoo!` | Tu Yahoo! messenger mostrará la canción que está jugando o escuchando actualmente. Esto debe configurarse desde el sitio web. | Casilla de verificación | `Desactivada` |
-| `Integrar con el estado de MSN Live` | Su Windows Live Messenger mostrará la canción que está jugando o escuchando actualmente. | Casilla de verificación | `Desactivada` |
+| `Integrar con el estado de Yahoo!` | Tu Yahoo! messenger mostrará la canción que estás jugando o escuchando actualmente. Esto debe configurarse desde el sitio web. | Casilla de verificación | `Desactivada` |
+| `Integrar con el estado de MSN Live` | Su Windows Live Messenger mostrará la canción que estás jugando o escuchando actualmente. | Casilla de verificación | `Desactivada` |
 | `Iniciar automáticamente las descargas de osu!direct` | Solo para [osu!supporters](/wiki/osu!supporter). Al espectar o jugar en modo multijugador, el beatmap se descargará automáticamente. | Casilla de verificación | `Activada` |
 | `Preferir descargas sin vídeo` | Solo para [osu!supporters](/wiki/osu!supporter). Las descargas de osu!direct se limitarán a las versiones sin vídeo de los beatmaps. | Casilla de verificación | `Desactivada` |
 
@@ -395,20 +392,20 @@ Esta sección trata sobre beatmaps y actualizaciones.
 
 | Nombre | Descripción | Tipo |
 | :-- | :-- | :-- |
-| `Borrar mapas no rankeados` | Elimina todos los mapas no clasificados de su carpeta de canciones. | Botón |
-| `Forzar permisos de carpeta` | Da permiso de lectura/escritura al cliente del juego para acceder a sus carpetas. (Esto requiere privilegios de administrador para completarse). | Botón |
+| `Borrar mapas no rankeados` | Elimina todos los mapas no clasificados de tu carpeta de canciones. | Botón |
+| `Forzar permisos de carpeta` | Da permiso de lectura/escritura al cliente del juego para acceder a tus carpetas. (Esto requiere privilegios de administrador para completarse). | Botón |
 | `Marcar todos los mapas como jugados` | Marca todos los mapas como «jugados». | Botón |
 | `Actualizar osu!` | Cierra el cliente del juego y abre el actualizador para buscar actualizaciones y descargarlas, si las hay. | Botón |
 
-En la parte inferior, se mostrará el número de la versión. Al hacer clic aquí, se abrirá el [registro de cambios](/wiki/Changelog) para esa versión en su navegador de Internet.
+En la parte inferior, se mostrará el número de la versión. Al hacer clic aquí, se abrirá el [registro de cambios](/wiki/Changelog) para esa versión en tu navegador de Internet.
 
 ### Debug
 
 #### Versión de compilación
 
-Vea qué versión de compilación tiene actualmente el cliente del juego y qué tipo de actualizaciones de compilación recibe el cliente del juego. Al hacer clic en esto, se lo dirigirá a las notas de la versión usando su navegador preferido.
+Ve qué versión de compilación tiene actualmente el cliente del juego y qué tipo de actualizaciones de compilación recibe el cliente del juego. Al hacer clic en esto, se lo dirigirá a las notas de la versión usando su navegador preferido.
 
-Las compilaciones se versionan utilizando este esquema de versiones:
+Las compilaciones se versionan usando este esquema de versiones:
 
 ```
 b{YYYY}{MM}{DD}.{revision}{type}

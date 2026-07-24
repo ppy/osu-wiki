@@ -19,7 +19,9 @@ Si quieres saber cómo hacer buenos sliders, échale un vistazo al artículo [C�
 
 ### Formaciones
 
-*Página principal: [Formaciones en el mapping](Formations)*
+::: alert-note
+**Página principal:** [Formaciones en el mapping](Formations)
+:::
 
 #### Creativas
 
@@ -46,7 +48,9 @@ Si quieres saber cómo hacer buenos sliders, échale un vistazo al artículo [C�
 
 ### Jumps
 
-*Página principal: [Técnicas de mapping para los jumps](Jumps)*
+::: alert-note
+**Página principal:** [Técnicas de mapping para los jumps](Jumps)
+:::
 
 #### Círculos
 
@@ -64,7 +68,9 @@ Si quieres saber cómo hacer buenos sliders, échale un vistazo al artículo [C�
 
 ### Ritmo
 
-*Página principal: [Técnicas de mapping para el ritmo](Rhythm)*
+::: alert-note
+**Página principal:** [Técnicas de mapping para el ritmo](Rhythm)
+:::
 
 #### Espaciado
 
@@ -95,7 +101,9 @@ Si quieres saber cómo hacer buenos sliders, échale un vistazo al artículo [C�
 
 ### Spinners
 
-*Página principal: [Técnicas de mapping para los spinners](Spinners)*
+::: alert-note
+**Página principal:** [Técnicas de mapping para los spinners](Spinners)
+:::
 
 #### Efectos adicionales
 
@@ -110,7 +118,9 @@ Si quieres saber cómo hacer buenos sliders, échale un vistazo al artículo [C�
 
 ### Sliders
 
-*Página principal: [Técnicas de mapping para los sliders](Sliders)*
+::: alert-note
+**Página principal:** [Técnicas de mapping para los sliders](Sliders)
+:::
 
 #### Patrones
 
@@ -144,7 +154,9 @@ Si quieres saber cómo hacer buenos sliders, échale un vistazo al artículo [C�
 
 ### No clasificables
 
-*Página principal: [Técnicas de mapping no clasificables](Unrankable)*
+::: alert-note
+**Página principal:** [Técnicas de mapping no clasificables](Unrankable)
+:::
 
 - [Sliders Burai](Unrankable#sliders-burai)
 - [Sliders mantenidos](Unrankable#sliders-mantenidos)

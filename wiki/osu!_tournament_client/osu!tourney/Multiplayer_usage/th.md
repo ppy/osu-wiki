@@ -16,7 +16,9 @@
 
 ### คำสั่งการจัดการทัวร์นาเมนต์
 
-*หน้าหลัก: [คำสั่งการจัดการทัวร์นาเมนต์](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)*
+::: alert-note
+**หน้าหลัก:** [คำสั่งการจัดการทัวร์นาเมนต์](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+:::
 
 อย่าลืมให้ช่องที่ถูกต้องกับผู้เล่นที่เข้าห้องมาแล้วโดยการใช้คำสั่ง `!mp move` และ `!mp team`
 

@@ -101,7 +101,10 @@ The osu! World Cup #3 was run by various community members.
 | **G** | ::{ flag=KR }:: South Korea | ::{ flag=MY }:: Malaysia | ::{ flag=UY }:: Uruguay | ::{ flag=SE }:: Sweden |
 | **H** | ::{ flag=JP }:: Japan | ::{ flag=TH }:: Thailand | ::{ flag=LV }:: Latvia | ::{ flag=FI }:: Finland |
 
-*Note: Seeds were taken post Group Stage.*
+::: alert-notice
+**Notice**
+Seeds were taken post Group Stage.
+:::
 
 ## Podium
 

@@ -28,7 +28,9 @@ tags:
 
 :::
 
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Strict Tracking** provoca un fallo cada vez que el jugador no sigue con precisión el círculo de seguimiento de los [sliders](/wiki/Gameplay/Hit_object/Slider). Esto incluye saltarse una [marca](/wiki/Gameplay/Hit_object/Slider/Slider_tick), una [cola](/wiki/Gameplay/Hit_object/Slider/Slidertail), no mantenerse dentro de la trayectoria de deslizamiento, y estar fuera del círculo de seguimiento durante cualquier cantidad de tiempo.
 
