@@ -48,12 +48,12 @@ tags:
 - [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) ![][osu!mania]
 - [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) ![][osu!]
 - [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover) ![][osu!mania]
 - [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) ![][osu!]
 - [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) ![][osu!]
 - [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) ![][osu!]
 
 ### 自动化
 
@@ -67,7 +67,7 @@ tags:
 
 - [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) ![][osu!]
 - [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) ![][osu!] ![][osu!taiko]
+- [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) ![][osu!] ![][osu!taiko] ![][osu!mania]
 - [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!mania]
 - [Dual Stages (DS)](/wiki/Gameplay/Game_modifier/Dual_Stages) ![][osu!mania]
 - [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror_(lazer)) ![][osu!] ![][osu!catch] ![][osu!mania]
@@ -99,7 +99,7 @@ tags:
 - [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) ![][osu!]
 - [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) ![][osu!]
 - [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) ![][osu!catch]
-- [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Synesthesia) ![][osu!]
+- [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Synesthesia) ![][osu!] ![][osu!catch]
 - [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) ![][osu!]
 - [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) ![][osu!]
 

@@ -27,7 +27,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Barrel Roll** mod causes the entire [playfield](/wiki/Client/Playfield) to rotate clockwise or counterclockwise at a constant speed which can be [customised](#customisation).
 

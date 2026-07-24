@@ -26,7 +26,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Bloom** mod progressively increases the cursor size as the [combo](/wiki/Gameplay/Combo_(score_multiplier)) increases until it reaches the configured limit. Upon a [combobreak](/wiki/Gameplay/Judgement/Combobreak), the cursor returns to its original size.
 

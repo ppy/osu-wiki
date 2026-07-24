@@ -27,7 +27,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Depth** mod causes all [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) and [sliders](/wiki/Gameplay/Hit_object/Slider) to initially appear smaller and closer to the centre of the [playfield](/wiki/Client/Playfield), making them appear further away. Then they will grow and move to their actual position, therefore creating a 3D effect.
 

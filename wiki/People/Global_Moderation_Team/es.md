@@ -11,7 +11,9 @@ tags:
 
 # Global Moderation Team
 
-*Véase también: [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
+::: alert-note
+**Véase también:** [Mod (desambiguación)](/wiki/Disambiguation/Mod).
+:::
 
 El **Global Moderation Team** (anteriormente conocido como el Global Mod Team, Administradores, o GreenBAT), comúnmente conocido como **GMT**, son miembros de la comunidad que se centran principalmente en la moderación de los jugadores y en los problemas relacionados con el equipo y la comunidad en general. Se distinguen por su título de usuario de color verde cítrico, su insignia del [grupo de usuarios](/wiki/People/User_groups) que dice `GMT` y su nombre de usuario rojo en el juego.
 
@@ -21,7 +23,9 @@ El **Global Moderation Team** (anteriormente conocido como el Global Mod Team, A
 
 ## Roles y responsabilidades
 
-*Véase también: [Reportar mala conducta](/wiki/Reporting_bad_behaviour)*
+::: alert-note
+**Véase también:** [Reportar mala conducta](/wiki/Reporting_bad_behaviour)
+:::
 
 El Global Moderation Team es responsable del bienestar del chat y del foro, y se encarga de las interacciones dentro de la comunidad. Deben abordarse con cualquier pregunta relacionada con el aspecto de moderación del juego, que incluiría (pero no se limita a):
 
@@ -69,7 +73,10 @@ Una vez que un moderador global decide abandonar el equipo de forma amistosa, se
 
 ## Miembros del equipo
 
-*Nota: Todos los miembros del GMT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.*
+::: alert-notice
+**Aviso**
+Todos los miembros del GMT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.
+:::
 
 La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los beatmaps](/wiki/Rules/Visual_content_considerations#evaluación-de-una-imagen).
 

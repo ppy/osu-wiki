@@ -122,7 +122,9 @@ Botón de la barra de herramientas: ![Opciones de tamaño de fuente](img/font-si
 
 ### Spoiler
 
-*No debe confundirse con [Caja de spoiler](#caja-de-spoiler).*
+::: alert-note
+**Nota:** No debe confundirse con [Caja de spoiler](#caja-de-spoiler).
+:::
 
 ```
 [spoiler]texto[/spoiler]
@@ -134,7 +136,9 @@ La etiqueta se usa más comúnmente para evitar estropear información crítica/
 
 ### Caja
 
-*No debe confundirse con [Caja de spoiler](#caja-de-spoiler).*
+::: alert-note
+**Nota:** No debe confundirse con [Caja de spoiler](#caja-de-spoiler).
+:::
 
 ```
 [box=NOMBRE]
@@ -148,7 +152,10 @@ El texto del hipervínculo personalizado se indica mediante el argumento `NOMBRE
 
 La etiqueta se usa más comúnmente para ocultar grandes paredes de texto e imágenes que pueden aumentar el tamaño de una publicación en el foro. Más notablemente en las publicaciones de preguntas frecuentes o de [skins](/wiki/Skinning).
 
-*Nota: el botón de la barra de herramientas de la caja se llama «Caja de spoiler», pero no crea una etiqueta `[spoilerbox]`.*
+::: alert-notice
+**Aviso**
+el botón de la barra de herramientas de la caja se llama «Caja de spoiler», pero no crea una etiqueta `[spoilerbox]`.
+:::
 
 Botón de la barra de herramientas: ![Botón de caja](img/spoilerbox.png "Caja")
 
@@ -170,7 +177,10 @@ texto
 
 La etiqueta `[quote]` se usa para dar formato estilístico a citas largas (también conocidas como «citas en bloque») mediante el uso de sangría, color, negrita y separación del texto a través de una línea vertical rosa. El contenido real de la cita se coloca entre las etiquetas abiertas y cerradas, mientras que el argumento `NOMBRE` especifica el autor de la cita (aunque esto es opcional). El texto dentro de las comillas generará espacios en blanco y saltos de línea.
 
-*Aviso: el argumento `NOMBRE` debe estar entre comillas (`"`).*
+::: alert-notice
+**Aviso**
+el argumento `NOMBRE` debe estar entre comillas (`"`).
+:::
 
 Las citas largas generalmente se usan en los escritos más formales en lugar de citas en línea cuando dicha cita tiene tres o más líneas. Sin embargo, dentro de los foros de osu!, se usan más comúnmente para responder al comentario de otro usuario, lo que se puede hacer automáticamente a través del botón `Citar y responder` ubicado en la parte superior derecha del comentario deseado (que se muestra a continuación). Sin embargo, este botón **solo aparecerá si el cursor está cerca**.
 
@@ -178,7 +188,9 @@ Botón de citar y responder: ![Botón de citar y responder](img/quotereply.png)
 
 ### Código en línea
 
-*No debe confundirse con [Bloque de código](#bloque-de-código).*
+::: alert-note
+**Nota:** No debe confundirse con [Bloque de código](#bloque-de-código).
+:::
 
 ```
 [c]texto[/c]
@@ -190,7 +202,9 @@ Dentro de los foros de osu!, esto es útil para enfatizar, por ejemplo, atajos d
 
 ### Bloque de código
 
-*No debe confundirse con [Código en línea](#código-en-línea).*
+::: alert-note
+**Nota:** No debe confundirse con [Código en línea](#código-en-línea).
+:::
 
 ```
 [code]
@@ -210,13 +224,19 @@ Dentro de los foros de osu!, los bloques de código se usan con mayor frecuencia
 
 La etiqueta `[url]` se usa para convertir texto regular en hipervínculos en los que se puede hacer clic.
 
-*Nota: El uso de esta etiqueta no es necesario si no se desea usar texto con un hipervínculo personalizado, ya que el editor del foro analiza las URL adecuadas sin la etiqueta `[url]` en enlaces automáticamente.*
+::: alert-notice
+**Aviso**
+El uso de esta etiqueta no es necesario si no se desea usar texto con un hipervínculo personalizado, ya que el editor del foro analiza las URL adecuadas sin la etiqueta `[url]` en enlaces automáticamente.
+:::
 
 Para crear hipervínculos con la etiqueta `[url]`, los usuarios deben especificar dos argumentos: la URL específica del sitio web al que se dirigirá el enlace y el texto vinculado que se mostrará. El primero debe especificarse como el argumento `ENLACE` (sin comillas `"`), y el último debe especificarse entre las etiquetas de apertura y cierre. Si no se especifica ningún texto, la etiqueta no funcionará correctamente.
 
 También son compatibles los enlaces con `[url]ENLACE[/url]`, pero en la mayoría de los casos son redundantes, ya que las URL simples se analizan automáticamente.
 
-*Aviso: Todas las URL, ya sea que se usen con la etiqueta `[url]` o como texto sin formato, deben ser válidas e incluir un protocolo (`http://`, `https://`, `ftp://`) o el prefijo `www.`. De lo contrario, el enlace no funcionará.*
+::: alert-notice
+**Aviso**
+Todas las URL, ya sea que se usen con la etiqueta `[url]` o como texto sin formato, deben ser válidas e incluir un protocolo (`http://`, `https://`, `ftp://`) o el prefijo `www.`. De lo contrario, el enlace no funcionará.
+:::
 
 Botón de la barra de herramientas: ![Botón de enlace](img/url.png "Enlace")
 
@@ -234,7 +254,10 @@ Para obtener mejores resultados, incluye tanto el ID del usuario correcto como s
 
 Cuando la etiqueta se usa en foros, firmas o descripciones de beatmaps, el sitio web osu! puede corregir y actualizar automáticamente la etiqueta `[profile]` si el `username` no es válido o el `iddeusuario` no es válido o no está presente. Esto permite insertar rápidamente enlaces de perfil si se conoce *el ID de usuario* o *el nombre de usuario*, sin necesidad de consultar ambos datos.
 
-*Nota: El ID de usuario es una cadena de números que siguen directamente a `/users/` en la URL de una página de perfil de osu!.*
+::: alert-notice
+**Aviso**
+El ID de usuario es una cadena de números que siguen directamente a `/users/` en la URL de una página de perfil de osu!.
+:::
 
 ### Listas formateadas
 
@@ -262,7 +285,10 @@ Si se especifica el argumento `TIPO` (el valor real no importa), creará una lis
 
 El argumento opcional `NOMBRE_DE_LA_LISTA` añade un encabezado con sangría sobre la lista. Si se omite, no se mostrará ningún encabezado.
 
-*Aviso: Las listas de BBCode se pueden anidar o apilar, aunque esto a veces puede causar problemas de formato.*
+::: alert-notice
+**Aviso**
+Las listas de BBCode se pueden anidar o apilar, aunque esto a veces puede causar problemas de formato.
+:::
 
 Botón de la barra de herramientas: ![Botón de lista](img/list.png "Lista") ![Botón de lista numerada](img/list-numbered.png "Lista numerada")
 
@@ -286,7 +312,10 @@ También es compatible con `[email]DIRECCIÓN[/email]`, pero en la mayoría de l
 
 La etiqueta `[img]` se usa para incluir imágenes en línea en las publicaciones de foro de osu!. Para usar la etiqueta, los usuarios deben pegar la dirección de la imagen directa (representada por el argumento `DIRECCIÓN` anterior) procedente de un sitio web. Las rutas de archivos locales (por ejemplo, `C:\Users\Name\Pictures\image.jpg`) **no funcionarán**.
 
-*Aviso: la URL de un sitio web **no** es lo mismo que la dirección de una imagen.*
+::: alert-notice
+**Aviso**
+la URL de un sitio web **no** es lo mismo que la dirección de una imagen.
+:::
 
 Para obtener una dirección de imagen, uno debe navegar al sitio web en el que se encuentra, pasar el ratón sobre la imagen, hacer clic con el botón derecho en la imagen y seleccionar `Copiar dirección de la imagen`. Luego, la dirección debe copiarse y pegarse entre las etiquetas.
 
@@ -331,7 +360,10 @@ El ID de un vídeo de YouTube se encuentra en la URL del vídeo y es la cadena d
 
 La etiqueta `[audio]` se usa para incrustar un reproductor de audio [HTML5](https://es.wikipedia.org/wiki/HTML5) desde una fuente de audio en línea. Los archivos de audio se pueden obtener desde cualquier lugar, siempre que el archivo exista desde una URL determinada. Las rutas de archivos locales (por ejemplo, `C:\Users\Name\Music\audio.mp3`) **no funcionarán**.
 
-*Precaución: tenga en cuenta que no todos los servicios de intercambio de archivos aprecian la copia de sus archivos de audio debido a las preocupaciones sobre la piratería de música. osu! no es responsable de ningún problema de derechos de autor que los usuarios puedan encontrar en ese sentido.*
+::: alert-caution
+**Precaución**
+tenga en cuenta que no todos los servicios de intercambio de archivos aprecian la copia de sus archivos de audio debido a las preocupaciones sobre la piratería de música. osu! no es responsable de ningún problema de derechos de autor que los usuarios puedan encontrar en ese sentido.
+:::
 
 Para incrustar archivos de audio a través de este método, los usuarios deben pegar su URL de origen (por ejemplo, `https://www.example.com/example.mp3`) entre las dos etiquetas `[audio]`.
 

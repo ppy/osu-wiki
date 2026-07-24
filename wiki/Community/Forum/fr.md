@@ -10,7 +10,9 @@ outdated_since: 0ef66a3313e04c32af901c8c1ec376fa6dacf300
 
 # Forum
 
-*Voir également : [Forum Internet](https://fr.wikipedia.org/wiki/Forum_(informatique))*
+::: alert-note
+**Voir également** : [Forum Internet](https://fr.wikipedia.org/wiki/Forum_(informatique))
+:::
 
 Les [osu! **forums**](https://osu.ppy.sh/community/forums) sont un lieu de conversation où les messages sont regroupés par sujets, et où aucune réponse rapide n'est attendue. Les discussions peuvent faire l'objet de recherches, sont stockées pour toujours et peuvent être consultées à tout moment, ce qui les différencie des messages quasi instantanés du [tchat d'osu!](/wiki/Community/Internet_Relay_Chat). Par conséquent, les messages du forum sont plus longs, contiennent plus d'informations et fournissent généralement plus de détails que les messages du tchat.
 
@@ -30,7 +32,9 @@ En plus des badges de groupes d'utilisateurs fournis par l'appartenance à un gr
 
 ### Modération
 
-*Voir également : [Signaler un mauvais comportement § Forum](/wiki/Reporting_bad_behaviour#forum)*
+::: alert-note
+**Voir également** : [Signaler un mauvais comportement § Forum](/wiki/Reporting_bad_behaviour#forum)
+:::
 
 Les [modérateurs](/wiki/People/Global_Moderation_Team) sont des utilisateurs qui veillent à ce que les forums restent propres et appropriés, et répondent aux questions à ce sujet. Les modérateurs peuvent modifier ou supprimer des messages ou des sujets inappropriés, épingler des sujets et les déplacer entre différents forums, et empêcher temporairement les contrevenants de poster en les [réduisant au silence](/wiki/Silence).
 

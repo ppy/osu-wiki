@@ -32,8 +32,13 @@ tags:
 
 :::
 
-*For the osu!stable version of this article, see: [Relax (mod)](/wiki/Gameplay/Game_modifier/Relax)*\
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the osu!stable version of this article, see [Relax (mod)](/wiki/Gameplay/Game_modifier/Relax)
+:::
+
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 In osu!, the **Relax** mod automatically clicks on all [hit objects](/wiki/Gameplay/Hit_object) in a [beatmap](/wiki/Beatmap), allowing the user to play by only moving the cursor.
 

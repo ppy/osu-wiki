@@ -27,7 +27,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Deflate** mod causes all [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) and [sliders](/wiki/Gameplay/Hit_object/Slider) to appear larger than usual and shrink to their regular size, at which point the player is supposed to hit them. Thus, it acts as the opposite of the [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow) mod. Deflate also removes the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle).
 

@@ -21,12 +21,14 @@ tags:
 | Acrónimo | WG |
 | Tipo | Diversión |
 | Modos de juego compatibles | ![][osu!] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | `1,00x` |
 | Estado | No clasificado |
 | Mods incompatibles | [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
 
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

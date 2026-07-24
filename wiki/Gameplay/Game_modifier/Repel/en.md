@@ -27,7 +27,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 When using **Repel**, all [hit objects](/wiki/Gameplay/Hit_object) automatically move away from the cursor, making them harder to hit. Thus, it acts as the opposite of the [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised) mod.
 

@@ -27,7 +27,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Alternate** mod forces the player to perfectly alternate their two inputs, meaning they cannot use the same key twice in a row. If the player attempts to hit two consecutive [hit objects](/wiki/Gameplay/Hit_object) with the same key, the second one will automatically result in a miss. After each [break](/wiki/Beatmap/Break), the player can choose again which key to start with. [Spinners](/wiki/Gameplay/Hit_object/Spinner) can always be played using any input.
 

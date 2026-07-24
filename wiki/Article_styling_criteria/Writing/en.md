@@ -1,7 +1,12 @@
 # Writing
 
-*For the formatting standards, see: [Article style criteria/Formatting](../Formatting)*\
-*Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.*
+::: alert-note
+**Note:** For the formatting standards, see [Article style criteria/Formatting](../Formatting)
+:::
+
+::: alert-notice
+**Notice:** This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.
+:::
 
 This article concerns writing standards for all English articles. The writing standards for translations can be found in the translations of this page.
 
@@ -119,7 +124,9 @@ Dean Herbert (also known as peppy) created osu! back in 2007.
 
 ### Trademarks
 
-*For rules regarding osu!, see: [osu!](#osu!)*
+::: alert-note
+**Note:** For rules regarding osu!, see [osu!](#osu!)
+:::
 
 The following trademarks must be spelt as follows (letter casing must match):
 

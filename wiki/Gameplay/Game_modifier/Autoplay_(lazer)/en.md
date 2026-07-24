@@ -33,8 +33,13 @@ tags:
 
 :::
 
-*For the osu!stable version of this article, see: [Auto (mod)](/wiki/Gameplay/Game_modifier/Auto)*\
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the osu!stable version of this article, see [Auto (mod)](/wiki/Gameplay/Game_modifier/Auto)
+:::
+
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Autoplay** mod completes any [beatmap](/wiki/Beatmap) entirely on its own, allowing the user to simply watch a perfect score on the map.
 

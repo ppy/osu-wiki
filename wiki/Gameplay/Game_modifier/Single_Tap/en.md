@@ -30,7 +30,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 In osu!, the **Single Tap** mod forces the player to only use one input. After starting a [beatmap](/wiki/Beatmap), the key used to click on the first [hit object](/wiki/Gameplay/Hit_object) has to be used until the next [break](/wiki/Beatmap/Break). Using the other input automatically results in a miss. After each break, the player can choose again which key to use. [Spinners](/wiki/Gameplay/Hit_object/Spinner) can always be played using any input.
 

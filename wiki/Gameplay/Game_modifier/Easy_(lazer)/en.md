@@ -32,8 +32,13 @@ tags:
 
 :::
 
-*For the osu!stable version of this article, see: [Easy (mod)](/wiki/Gameplay/Game_modifier/Easy)*\
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the osu!stable version of this article, see [Easy (mod)](/wiki/Gameplay/Game_modifier/Easy)
+:::
+
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Easy** mod attempts to make gameplay easier by decreasing the difficulty settings of a [beatmap](/wiki/Beatmap).
 

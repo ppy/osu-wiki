@@ -1,6 +1,8 @@
 # Criterios de estilo para las noticias
 
-*Para los artículos de la wiki, véase: [Criterios de estilo para los artículos](/wiki/Article_styling_criteria)*
+::: alert-note
+**Nota:** Para los artículos de la wiki, véase [Criterios de estilo para los artículos](/wiki/Article_styling_criteria)
+:::
 
 Las **noticias**, existen en un sistema ligeramente diferente al de la wiki principal de osu!, pero siguen principios similares. Para redactarlas hay que prestar especial atención a algunas características y formatos clave que se describen a continuación.
 
@@ -92,7 +94,9 @@ El uso de Markdown está cubierto por los [criterios de estilo para los artícul
 
 ### Imágenes
 
-*Para los estándares de formato y calidad de las imágenes, véase: [Criterios de estilo para los artículos § Formatos y calidad](/wiki/Article_styling_criteria/Formatting#formatos-y-calidad)*
+::: alert-note
+**Nota:** Para los estándares de formato y calidad de las imágenes, véase [Criterios de estilo para los artículos § Formatos y calidad](/wiki/Article_styling_criteria/Formatting#formatos-y-calidad)
+:::
 
 Las imágenes enlazadas en las noticias deben estar alojadas en los servidores de osu! (por ejemplo, `assets.ppy.sh`) o en el repositorio `osu-wiki` en GitHub.
 

@@ -27,7 +27,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Freeze Frame** mod causes all [hit objects](/wiki/Gameplay/Hit_object) in a [combo](/wiki/Beatmapping/Combo) to appear simultaneously (namely, as soon as the first object in that combo appears).
 

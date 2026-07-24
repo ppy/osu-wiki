@@ -22,12 +22,14 @@ tags:
 | Tipo | Reducción de dificultad |
 | Tecla de acceso directo predeterminada | `T` |
 | Modos de juego compatibles | ![][osu!mania] |
-| Multiplicador de puntuación | 0,90x |
+| Multiplicador de puntuación | `0,90x` |
 | Estado | No clasificado |
-| Mods incompatibles | [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
+| Mods incompatibles | [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert), [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
 
 :::
 
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

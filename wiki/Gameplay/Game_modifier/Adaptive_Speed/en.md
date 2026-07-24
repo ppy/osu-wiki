@@ -27,7 +27,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Adaptive Speed** mod dynamically adjusts the speed at which the [beatmap](/wiki/Beatmap) is played. If the player clicks on [hit objects](/wiki/Gameplay/Hit_object) too early, the song will speed up, and if they click too late, it will slow down instead.
 

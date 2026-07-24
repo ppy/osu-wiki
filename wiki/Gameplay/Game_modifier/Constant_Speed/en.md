@@ -27,7 +27,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Constant Speed** mod simplifies osu!taiko and osu!mania [beatmaps](/wiki/Beatmap) by converting each section to the same scroll speed (adjusted by mappers through [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)). Thus, only the beatmap's *base velocity* is used to determine the scroll speed.
 

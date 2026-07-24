@@ -31,8 +31,13 @@ tags:
 
 :::
 
-*For the osu!stable version of this article, see: [Double Time (mod)](/wiki/Gameplay/Game_modifier/Double_Time)*\
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the osu!stable version of this article, see [Double Time (mod)](/wiki/Gameplay/Game_modifier/Double_Time)
+:::
+
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Double Time** mod increases the BPM of any beatmap by 50%, decreasing the length of the song by 33.3%. It can also increase the [approach rate](/wiki/Beatmap/Approach_rate), [overall difficulty](/wiki/Beatmap/Overall_difficulty) or both depending on the selected [game mode](/wiki/Game_mode).
 

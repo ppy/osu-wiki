@@ -28,8 +28,13 @@ tags:
 
 :::
 
-*For the osu!stable version of this article, see: [Target Practice (mod)](/wiki/Gameplay/Game_modifier/Target_Practice)*\
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the osu!stable version of this article, see [Target Practice (mod)](/wiki/Gameplay/Game_modifier/Target_Practice)
+:::
+
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Target Practice** mod removes all [hit objects](/wiki/Gameplay/Hit_object) from a [beatmap](/wiki/Beatmap) and replaces them with "targets", which are [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) placed once every [full beat](/wiki/Music_theory/Beat). It also removes the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle), cuts the [approach rate](/wiki/Beatmap/Approach_rate) in half and causes the circles to [grow](/wiki/Gameplay/Game_modifier/Grow) and increase in brightness as they appear.
 

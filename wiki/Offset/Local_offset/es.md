@@ -6,7 +6,9 @@ tags:
 
 # Compensación local
 
-*Para otros usos, véase [Compensación](/wiki/Offset).*
+::: alert-note
+**Nota:** [Compensación](/wiki/Offset).
+:::
 
 La **compensación local** (o con menor frecuencia, *compensación fuera de línea*) es un ajuste que mueve la aparición de los [objetos](/wiki/Gameplay/Hit_object) en relación con el audio de los [beatmaps](/wiki/Beatmap) individuales. Esto puede ser útil para los jugadores que sufren un retraso en el audio o en lo visual. La compensación local de la canción funciona junto con la [compensación global](/wiki/Offset/Universal_offset) para calcular una compensación total.
 

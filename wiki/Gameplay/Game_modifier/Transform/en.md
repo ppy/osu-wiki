@@ -27,7 +27,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Transform** mod causes all [hit objects](/wiki/Gameplay/Hit_object) to appear slightly offset from their position in the [beatmap](/wiki/Beatmap) (where exactly depends on the [approach rate](/wiki/Beatmap/Approach_rate)) and then move to their actual position, at which point the player is supposed to hit them.
 

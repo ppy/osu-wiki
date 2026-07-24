@@ -28,7 +28,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Wind Down** mod allows the user to play at a decreasing speed. When starting a [beatmap](/wiki/Beatmap), the song starts playing at the **Initial rate** (see [Customisation](#customisation)) and linearly decreases in speed until it reaches the **Final rate** by the end of map.
 

@@ -20,15 +20,17 @@ tags:
 | :-- | :-- |
 | Acrónimo | CL |
 | Tipo | Conversión |
-| Modos de juego compatibles | ![][osu!] ![][osu!taiko] |
-| Multiplicador de puntuación | 0,96x |
+| Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!mania] |
+| Multiplicador de puntuación | `0,96x` |
 | Estado | No clasificado |
 | Mods incompatibles ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
-| Mods incompatibles ![][osu!taiko] | Ninguno |
+| Mods incompatibles ![][osu!taiko] ![][osu!mania] | Ninguno |
 
 :::
 
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Classic** emula mecánicas de osu!stable que han cambiado desde entonces.
 
@@ -36,3 +38,4 @@ Cuando se ve desde osu!(lazer) o el «modo lazer» en el sitio web, las puntuaci
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

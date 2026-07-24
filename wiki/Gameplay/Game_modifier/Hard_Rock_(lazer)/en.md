@@ -33,8 +33,13 @@ tags:
 
 :::
 
-*For the osu!stable version of this article, see: [Hard Rock (mod)](/wiki/Gameplay/Game_modifier/Hard_Rock)*\
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the osu!stable version of this article, see [Hard Rock (mod)](/wiki/Gameplay/Game_modifier/Hard_Rock)
+:::
+
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Hard Rock** mod aims to make gameplay harder by increasing the difficulty settings of a [beatmap](/wiki/Beatmap).
 
