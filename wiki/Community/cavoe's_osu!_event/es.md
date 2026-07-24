@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5493ae9da7526098c93902afc0eefe9e5e733242
+---
+
 # cavoe's osu! event
 
 ::: Infobox

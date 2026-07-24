@@ -18,7 +18,7 @@ Il convient toutefois de noter que le contenu de tous les packs de jeux vidéo, 
 
 ## Skill
 
-**Les médailles de skill** sont des médailles attribuées lors de l'accomplissement de diverses compétences, que ce soit en atteignant certains [combo](/wiki/Beatmapping/Combo), en atteignant certains rangs dans le [classement global des points de performance](https://osu.ppy.sh/rankings/osu/performance), ou en réalisant un clear ou un [full combo](/wiki/Gameplay/Full_combo) sur n'importe quel beatmap [Qualifié](/wiki/Beatmap/Category#qualified), [Classé](/wiki/Beatmap/Category#ranked), ou [Approuvé](/wiki/Beatmap/Category#approved) dans certaines fourchettes de [star rating](/wiki/Beatmap/Star_rating).
+**Les médailles de skill** sont des médailles attribuées lors de l'accomplissement de diverses compétences, que ce soit en atteignant certains [combo](/wiki/Gameplay/Combo_(score_multiplier)), en atteignant certains rangs dans le [classement global des points de performance](https://osu.ppy.sh/rankings/osu/performance), ou en réalisant un clear ou un [full combo](/wiki/Gameplay/Full_combo) sur n'importe quel beatmap [Qualifié](/wiki/Beatmap/Category#qualified), [Classé](/wiki/Beatmap/Category#ranked), ou [Approuvé](/wiki/Beatmap/Category#approved) dans certaines fourchettes de [star rating](/wiki/Beatmap/Star_rating).
 
 ## Dedication
 
