@@ -26,13 +26,13 @@ Desde el 11 de julio de 2026, en la [clasificación de rendimiento de osu!](http
 
 ## ![][osu!taiko] osu!taiko
 
-Desde el 11 de julio de 2026, en la [clasificación de rendimiento de osu!taiko](https://osu.ppy.sh/rankings/taiko/performance), el jugador en el puesto #1 es ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+Desde el 23 de julio de 2026, en la [clasificación de rendimiento de osu!taiko](https://osu.ppy.sh/rankings/taiko/performance), el jugador en el puesto #1 es ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
 
 *Página principal: [Historial de las clasificaciones de osu!catch](osu!catch)*
 
-Desde el 1 de julio de 2026, en la [clasificación de rendimiento de osu!catch](https://osu.ppy.sh/rankings/fruits/performance), el jugador en el puesto #1 es ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283/fruits).
+Desde el 21 de julio de 2026, en la [clasificación de rendimiento de osu!catch](https://osu.ppy.sh/rankings/fruits/performance), el jugador en el puesto #1 es ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits).
 
 ## ![][osu!mania] osu!mania
 
