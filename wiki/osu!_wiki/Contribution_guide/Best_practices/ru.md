@@ -29,7 +29,9 @@ outdated_translation: true
 
 ## Внесение правок
 
-*См. также: [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
+::: alert-note
+**См. также:** [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+:::
 
 В рамках своего форка osu! wiki вы можете вносить и сохранять различные изменения. **Коммит** — это отдельная точка сохранения репозитория. **Ветка** — это рабочее пространство, содержащее конкретные изменения; переключаясь между ветками, вы переходите между разными версиями репозитория. Чтобы упростить себе жизнь, а также не засорять общую историю правок, следуйте этим рекомендациям:
 

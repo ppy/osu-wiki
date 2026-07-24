@@ -497,7 +497,10 @@ Notas:
 
 ## Spinners
 
-*Aviso: ¡No puedes mezclar los estilos de los spinners antiguos y nuevos!*
+::: alert-notice
+**Aviso**
+¡No puedes mezclar los estilos de los spinners antiguos y nuevos!
+:::
 
 ---
 

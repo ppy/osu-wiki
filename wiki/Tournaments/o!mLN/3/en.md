@@ -67,7 +67,10 @@ The osu!mania LN Tournament 3 was run by various community members.
 
 ## Participants
 
-*Note: Ranks were recorded at the end of registration.*
+::: alert-notice
+**Notice**
+Ranks were recorded at the end of registration.
+:::
 
 | Rank | Player |
 | --: | :-- |

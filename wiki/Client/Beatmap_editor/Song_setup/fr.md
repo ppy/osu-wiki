@@ -27,7 +27,10 @@ La section `General` fournit des informations qui aident les joueurs non seuleme
 
 ## Difficulty
 
-*Remarque : Les [critères de classement](/wiki/Ranking_criteria) spécifiques à chaque mode de jeu contiennent des paramètres recommandés pour chaque niveau de difficulté.*
+::: alert-notice
+**Note**
+Les [critères de classement](/wiki/Ranking_criteria) spécifiques à chaque mode de jeu contiennent des paramètres recommandés pour chaque niveau de difficulté.
+:::
 
 ![Deux captures d'écran de l'onglet Difficulty. osu!mania diffère des autres modes de jeu.](img/SS_Difficulty.jpg "La section Difficulty. Cette fenêtre de dialogue est différente pour les difficultés spécifiques à osu!mania, comme illustré à droite.")
 
@@ -62,7 +65,9 @@ osu!taiko et osu!mania ne sont pas affectés par l'approach rate - à la place, 
 ### Overall difficulty
 
 *Article principale : [Overall difficulty](/wiki/Beatmap/Overall_difficulty)*\
-*Remarque : Sur les pages d'information des beatmap, l'overall difficulty est indiquée comme étant la `Précision`.*
+::: alert-notice
+**Remarque** : Sur les pages d'information des beatmap, l'overall difficulty est indiquée comme étant la `Précision`.
+:::
 
 L'Overall difficulty (OD) est responsable de la taille des hit windows, qui définissent à quel point il est difficile d'atteindre une grande précision. Des valeurs d'OD plus élevées signifient des timing windows plus courtes, nécessitant plus d'exactitude et de précision. La précision étant importante pour gagner des HP, l'overall difficulty influence indirectement la difficulté à réussir la beatmap.
 

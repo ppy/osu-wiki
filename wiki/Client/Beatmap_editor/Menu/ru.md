@@ -79,7 +79,9 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 
 ## Редактор
 
-*См. также: [Редактор](/wiki/Client/Beatmap_editor/Compose)*
+::: alert-note
+**См. также:** [Редактор](/wiki/Client/Beatmap_editor/Compose)
+:::
 
 ![Меню редактора](img/M_Compose-RU.png "Меню редактора")
 
@@ -95,7 +97,9 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 
 ## Дизайн
 
-*См. также: [Дизайн](/wiki/Client/Beatmap_editor/Design)*
+::: alert-note
+**См. также:** [Дизайн](/wiki/Client/Beatmap_editor/Design)
+:::
 
 ![Меню дизайна](img/M_Design-RU.png "Меню дизайна")
 
@@ -105,7 +109,9 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 
 ## Тайминг
 
-*См. также: [Тайминг](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**См. также:** [Тайминг](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 ![Меня тайминга](img/M_Timing-RU.png "Меню тайминга")
 

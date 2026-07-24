@@ -20,9 +20,13 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### August
 
-*Für den Newsbeitrag, siehe: [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)
+:::
 
-*Für den Forumsbeitrag, siehe: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
+::: alert-note
+**Anmerkung:** Für den Forumsbeitrag, siehe [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -56,7 +60,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### Januar
 
-*Für den Newsbeitrag, siehe: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -71,7 +77,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### März
 
-*Für den Newsbeitrag, siehe: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -79,7 +87,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### November
 
-*Für den Newsbeitrag, siehe: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -97,7 +107,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### Dezember
 
-*Für den Newsbeitrag, siehe: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -126,7 +138,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### Februar
 
-*Für den Newsbeitrag, siehe: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -158,7 +172,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### Februar
 
-*Für den Newsbeitrag, siehe: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -188,7 +204,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### März
 
-*Für den Newsbeitrag, siehe: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -204,7 +222,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### Juni
 
-*Für den Newsbeitrag, siehe: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -228,7 +248,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### November
 
-*Für den Newsbeitrag, siehe: [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |
@@ -257,7 +279,9 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 
 #### März
 
-*Für den Newsbeitrag, siehe: [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)
+:::
 
 | Benutzer | Beiträge |
 | :-- | :-- |

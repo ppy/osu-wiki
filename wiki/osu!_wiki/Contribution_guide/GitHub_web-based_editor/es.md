@@ -1,13 +1,21 @@
 # Editor web de GitHub
 
-*Nota: este artículo usa combinaciones de teclas de Windows.*\
-*Véase también: [El editor basado en web de github.dev - Documentación de GitHub](https://docs.github.com/es/codespaces/the-githubdev-web-based-editor)*
+::: alert-notice
+**Nota:** este artículo usa combinaciones de teclas de Windows.
+:::
+
+::: alert-note
+**Véase también:** [El editor basado en web de github.dev - Documentación de GitHub](https://docs.github.com/es/codespaces/the-githubdev-web-based-editor)
+:::
 
 [github.dev](https://github.dev) es una versión web disponible públicamente y adaptada a GitHub de [Visual Studio Code](https://code.visualstudio.com). En comparación con el propio editor web de GitHub, ofrece mucha más flexibilidad y control sobre el contenido del repositorio. github.dev es una forma recomendada de contribuir a la osu! wiki, especialmente mientras trabajas en varios artículos a la vez.
 
 ## Navegación
 
-*Nota: Para trabajar con la osu! wiki, **[bifurca el repositorio `ppy/osu-wiki`](/wiki/osu!_wiki/Contribution_guide#editar-la-wiki).***
+::: alert-notice
+**Aviso**
+Para trabajar con la osu! wiki, **[bifurca el repositorio `ppy/osu-wiki`](/wiki/osu!_wiki/Contribution_guide#editar-la-wiki).**
+:::
 
 Para abrir la osu! wiki en el editor, reemplaza `github.com` en la URL de tu repositorio bifurcado por `github.dev`. Alternativamente, abre tu bifurcación en GitHub y presiona `.` (punto).
 

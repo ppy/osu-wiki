@@ -20,7 +20,9 @@ outdated_since: b1a5c300e1bc980a80305edb0dbd3aaf7993ae4d
 
 # Historia de las bromas del día de los Inocentes de osu!
 
-*Para la historia completa de osu!, véase: [Historia de osu!](/wiki/History_of_osu!)*
+::: alert-note
+**Nota:** Para la historia completa de osu!, véase [Historia de osu!](/wiki/History_of_osu!)
+:::
 
 Cada año, al [osu! team](/wiki/People/osu!_team) le gusta gastar bromas a la comunidad en el día de los Inocentes. Este artículo enumera todas las bromas del día de los Inocentes que se han gastado en la comunidad de osu! desde 2009.
 
@@ -113,7 +115,9 @@ El 1 de abril de 2014, la pantalla del menú principal de osu! se cambió tempor
 
 ### osu!coins
 
-*Véase también: [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)*
+::: alert-note
+**Véase también:** [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)
+:::
 
 ![](img/2015-osucoins.png "Las osu! coins")
 
@@ -123,7 +127,10 @@ El 31 de marzo de 2015, [peppy](https://osu.ppy.sh/users/2) publicó [una notici
 
 —peppy, «osu!coins» (traducido del inglés)[^osu-coins-news]
 
-*Nota: En el [tiempo universal coordinado (UTC)](https://es.wikipedia.org/wiki/Tiempo_universal_coordinado), la noticia se publicó el 31 de marzo de 2015. Sin embargo, en el momento de la publicación, peppy vivía actualmente en Australia, donde la fecha actual era el 1 de abril de 2015.*
+::: alert-notice
+**Aviso**
+En el [tiempo universal coordinado (UTC)](https://es.wikipedia.org/wiki/Tiempo_universal_coordinado), la noticia se publicó el 31 de marzo de 2015. Sin embargo, en el momento de la publicación, peppy vivía actualmente en Australia, donde la fecha actual era el 1 de abril de 2015.
+:::
 
 En resumen, para jugar o reiniciar un [beatmap](/wiki/Beatmap), los usuarios deben haber gastado una [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin), y una vez que se quedaron sin osu!coins, tendrían que dejar de jugar y esperar hasta el día siguiente, o pagar dinero real para obtener más osu!coins. Sin embargo, a pesar de esta descripción, el juego real no se vio afectado, y los usuarios podían seguir jugando con normalidad, incluso si se agotaran todas sus osu!coins.[^osu-coins-news][^osu-coins-yt][^osu-coins-yt-2]
 
@@ -139,7 +146,10 @@ El 1 de abril de 2016, se publicó [una noticia](https://osu.ppy.sh/home/news/20
 
 Con respecto a cómo los jugadores pueden usar los Oculus Rift como método de entrada, la publicación describe que «el jugador experimentará un punto de vista en primera persona del cursor a medida que viaja hacia y desde los objetos en la pantalla...» y presionará objetos «... haciendo que el jugador produzca sonidos parecidos a vocales con la boca». No se realizaron cambios reales en el juego relacionados con el uso de los Oculus Rift o un dispositivo similar de [realidad virtual (VR)](https://es.wikipedia.org/wiki/Realidad_virtual) para controlar osu!.[^osu-vr-news]
 
-*Aviso: McOsu se desarrolla por separado y no tiene afiliación directa con osu! o ppy Pty Ltd.*
+::: alert-notice
+**Aviso**
+McOsu se desarrolla por separado y no tiene afiliación directa con osu! o ppy Pty Ltd.
+:::
 
 Sin embargo, aunque los desarrolladores oficiales de osu! no tenían/tienen la intención de agregar genuinamente soporte para VR, la idea de osu! en realidad virtual despertó el interés en la mente de algunos fanáticos. Este interés finalmente culminó en un proyecto de fans no oficial que se inició poco después y tenía como objetivo crear un cliente de código abierto y gratuito para practicar [beatmaps](/wiki/Beatmap) de osu! con más funciones y [modificadores del juego](/wiki/Gameplay/Game_modifier), incluida la capacidad de jugar en realidad virtual. Llamado «[McOsu](https://store.steampowered.com/app/607260/McOsu)», el proyecto se completó y se lanzó en [Steam](https://es.wikipedia.org/wiki/Steam) el 20 de marzo de 2017.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
 

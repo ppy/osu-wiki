@@ -23,8 +23,8 @@ tags:
 | 类别 | 增加难度 |
 | 默认快捷键 | `F` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 ![][osu!] ![][osu!taiko] ![][osu!catch] | 1.10x\* <!-- TODO --> |
-| 得分系数 ![][osu!mania] | 1.00x |
+| 得分系数 ![][osu!] ![][osu!taiko] ![][osu!catch] | `1.10x*` <!-- TODO --> |
+| 得分系数 ![][osu!mania] | `1.00x` |
 | 状态 | 计入排名 |
 | 不兼容的模组 | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
 

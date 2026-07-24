@@ -4,7 +4,9 @@ stub: true
 
 # Help
 
-*See also: [Help Centre](/wiki/Help_centre)*
+::: alert-note
+**See also:** [Help Centre](/wiki/Help_centre)
+:::
 
 <!-- TODO: mention issue labels? -->
 

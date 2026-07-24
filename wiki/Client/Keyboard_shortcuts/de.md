@@ -12,7 +12,10 @@ tags:
 
 In osu! gibt es viele Tastenkürzel (auch *Hotkeys*), die in den Menüs oder im Spiel verwendet werden können. In der folgenden Liste sind sie mit ihren Funktionen aufgeführt.
 
-*Anmerkung: Dieser Artikel listet alle Standardtastaturkürzel auf. Du kannst einige davon in den [Einstellungen](/wiki/Client/Options) ändern.*
+::: alert-notice
+**Hinweis**
+Dieser Artikel listet alle Standardtastaturkürzel auf. Du kannst einige davon in den [Einstellungen](/wiki/Client/Options) ändern.
+:::
 
 ## Überall im Spiel
 
@@ -64,7 +67,10 @@ Diese Kürzel können überall verwendet werden:
 
 ## Songauswahl
 
-*Anmerkung: Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus](/wiki/Client/Interface/Multiplayer).*
+::: alert-notice
+**Hinweis**
+Nicht alle dieser Hotkeys funktionieren in der Songauswahl des [Mehrspielermodus](/wiki/Client/Interface/Multiplayer).
+:::
 
 | Kürzel | Aktion |
 | :-- | :-- |
@@ -93,9 +99,16 @@ Diese Kürzel können überall verwendet werden:
 
 ### Spielmodifikationen
 
-*Hauptseite: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
-*Anmerkung: Das Drücken des Tastenkürzels wird die Mod an-/ausschalten. Du musst im Spielmodifikationsmenü sein, um diese Tastenkürzel verwenden zu können.*\
-*Anmerkung: Die Mods Target Practice (osu!), 1K und 2K (osu!mania), Co-op (osu!mania) und Mirror (osu!mania) haben keine Tastenkürzel.*
+::: alert-note
+**Hauptseite:** [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+:::
+::: alert-notice
+**Anmerkung:** Das Drücken des Tastenkürzels wird die Mod an-/ausschalten. Du musst im Spielmodifikationsmenü sein, um diese Tastenkürzel verwenden zu können.
+:::
+
+::: alert-notice
+**Anmerkung:** Die Mods Target Practice (osu!), 1K und 2K (osu!mania), Co-op (osu!mania) und Mirror (osu!mania) haben keine Tastenkürzel.
+:::
 
 | Kürzel | Mod |
 | :-- | :-- |
@@ -133,7 +146,10 @@ Diese Kürzel können überall verwendet werden:
 
 ## Replay mode
 
-*Hinweis: Du musst die Updatequelle "cuttingedge" verwenden, um diese nutzen zu können.*
+::: alert-notice
+**Hinweis**
+Du musst die Updatequelle "cuttingedge" verwenden, um diese nutzen zu können.
+:::
 
 | Kürzel | Aktion |
 | :-- | :-- |
@@ -145,7 +161,9 @@ Diese Kürzel können überall verwendet werden:
 
 ## Beatmap-Editor
 
-*Hauptseite: [Beatmap-Editor](/wiki/Client/Beatmap_editor).*
+::: alert-note
+**Hauptseite:** [Beatmap-Editor](/wiki/Client/Beatmap_editor).
+:::
 
 ### Generell
 

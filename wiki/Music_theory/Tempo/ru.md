@@ -14,7 +14,9 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 
 # Темп
 
-*См. также: [Тайминг](/wiki/Beatmapping/Timing)*
+::: alert-note
+**См. также:** [Тайминг](/wiki/Beatmapping/Timing)
+:::
 
 ::: Infobox
 ![Скриншот показателя BPM на странице карты](img/beatmap-info.png "Темп песни (на скриншоте равен 187) можно увидеть в верхнем правом углу на странице карты")

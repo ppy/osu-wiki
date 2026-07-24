@@ -8,7 +8,9 @@ tags:
 
 # Combo (multiplicateur de score)
 
-*Pour d'autres utilisations, voir [Combo (désambiguïsation)](/wiki/Disambiguation/Combo).*
+::: alert-note
+**Remarque** : Pour d'autres utilisations, voir [Combo (désambiguïsation)](/wiki/Disambiguation/Combo).
+:::
 
 Un **combo** désigne le nombre d'[objets](/wiki/Gameplay/Hit_object) qu'un joueur a touché consécutivement sans miss ou [sliderbreak](/wiki/Gameplay/Judgement/Slider_break). Ce nombre est affiché à différents endroits en jouant une beatmap :
 

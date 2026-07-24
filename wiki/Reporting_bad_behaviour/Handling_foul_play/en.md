@@ -28,7 +28,9 @@ Allowing another person to use a different user's account is also strictly forbi
 
 ## I have been restricted for foul play, but I was following the rules! {id=false-restriction}
 
-*See also: [Account restrictions § My account has been restricted! What do I do?](/wiki/Help_centre/Account_restrictions#what)*
+::: alert-note
+**See also:** [Account restrictions § My account has been restricted! What do I do?](/wiki/Help_centre/Account_restrictions#what)
+:::
 
 osu! uses automated metrics combined with manual confirmation to detect foul play. If you don't know why you are restricted, contact [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
@@ -75,7 +77,9 @@ Your help in spotting foul play is much appreciated. We review every report we r
 
 ## I was restricted for foul play. How can I appeal my restriction? {id=appeal}
 
-*See also: [Account restrictions § My cooldown has passed. How do I appeal?](/wiki/Help_centre/Account_restrictions#appeal)*
+::: alert-note
+**See also:** [Account restrictions § My cooldown has passed. How do I appeal?](/wiki/Help_centre/Account_restrictions#appeal)
+:::
 
 Wait at least three months (six months if you were restricted for cheating) after the latest issued restriction before appealing.[^restriction-length] Address your emails to [accounts@ppy.sh](mailto:accounts@ppy.sh) and use a subject line of `Restriction Appeal: <username>`.
 

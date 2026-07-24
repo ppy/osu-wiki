@@ -60,7 +60,9 @@ After selecting `Play` in the main menu, you can choose between three options:
 
 ## Multiplayer lobby
 
-*Main page: [Multi](/wiki/Client/Interface/Multiplayer)*
+::: alert-note
+**Main page:** [Multi](/wiki/Client/Interface/Multiplayer)
+:::
 
 ![](img/multi-lobby.jpg "Multiplayer lobby")
 
@@ -219,7 +221,10 @@ Place your mouse on a mod's icon to see a short description of its effect. Click
 
 Click the `Random` button or press `F2` to have the game **randomly scroll through all of your beatmaps and pick one.**
 
-*Note: You can press `Shift` + the `Random` button or `F2` to go back to the beatmap you had selected before you randomised your selection.*
+::: alert-notice
+**Notice**
+You can press `Shift` + the `Random` button or `F2` to go back to the beatmap you had selected before you randomised your selection.
+:::
 
 ![](img/beatmap-options.jpg "Possible commands for a beatmap")
 
@@ -282,7 +287,9 @@ The categories in the ranking panel are as follows:
 
 ### Medals
 
-*Main page: [Medals](/wiki/Medals)*
+::: alert-note
+**Main page:** [Medals](/wiki/Medals)
+:::
 
 ![](img/medal-unlock.jpg "Unlocking a medal")
 

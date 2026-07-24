@@ -9,8 +9,13 @@ tags:
 
 # Mod multiplier
 
-*Not to be confused with [Combo](/wiki/Gameplay/Combo_(score_multiplier))*\
-*See also: [Game modifier](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Note:** Not to be confused with [Combo](/wiki/Gameplay/Combo_(score_multiplier))
+:::
+
+::: alert-note
+**See also:** [Game modifier](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Description
 
