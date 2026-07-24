@@ -11,8 +11,13 @@ tags:
 
 ![HR mod icon](/wiki/shared/mods/HR.png "Hard Rock (HR) mod icon")
 
-*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Hard Rock (lazer mod)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer))*\
-*For the full list of all mods, see: [Game Modifier](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Hard Rock (lazer mod)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer))
+:::
+
+::: alert-note
+**Note:** For the full list of all mods, see [Game Modifier](/wiki/Gameplay/Game_modifier)
+:::
 
 ## About
 
@@ -56,7 +61,10 @@ Due to this much larger spike in difficulty compared to other [game modes](/wiki
 
 ### osu!mania
 
-*Notice: Using this mod on osu!mania will result in an unranked play.*
+::: alert-notice
+**Notice**
+Using this mod on osu!mania will result in an unranked play.
+:::
 
 In [osu!mania](/wiki/Game_mode/osu!mania), the HP drain is increased by 40% while the timing windows are about 29% stricter. Although the AR value is displayed as increased, it does not affect the gameplay.
 

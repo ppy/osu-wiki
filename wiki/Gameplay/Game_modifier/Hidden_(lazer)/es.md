@@ -26,15 +26,21 @@ tags:
 | Tecla de acceso directo predeterminada ![][osu!] ![][osu!taiko] ![][osu!catch] | `H` |
 | Tecla de acceso directo predeterminada ![][osu!mania] | `J` |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicador de puntuación ![][osu!] ![][osu!taiko] ![][osu!catch] | 1,06x |
-| Multiplicador de puntuación ![][osu!mania] | 1,00x |
+| Multiplicador de puntuación ![][osu!] ![][osu!taiko] ![][osu!catch] | `1,06x` |
+| Multiplicador de puntuación ![][osu!mania] | `1,00x` |
 | Estado | Clasificado |
-| Mods incompatibles | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| Mods incompatibles ![][osu!] | [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| Mods incompatibles ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
 
-*Para la versión de osu!stable de este artículo, véase: [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden)*\
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la versión de osu!stable de este artículo, véase [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden)
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Hidden** elimina los [círculos de aproximación](/wiki/Gameplay/Hit_object/Approach_circle) y hace que los [círculos](/wiki/Gameplay/Hit_object/Hit_circle) se desvanezcan después de aparecer en la pantalla.
 

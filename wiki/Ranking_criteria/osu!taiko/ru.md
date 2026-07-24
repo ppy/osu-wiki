@@ -8,7 +8,9 @@
 
 ### Названия сложностей
 
-*Основная статья: [Названия сложностей](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Основная статья:** [Названия сложностей](/wiki/Ranking_criteria/Difficulty_naming)
+:::[Названия сложностей](/wiki/Ranking_criteria/Difficulty_naming)
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu

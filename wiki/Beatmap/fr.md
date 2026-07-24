@@ -14,7 +14,10 @@ Une **beatmap** (parfois appelée *beatmapset*) est un ensemble de niveaux ([dif
 - Un [storyboard](/wiki/Storyboard) avec des mouvements graphiques et des effets spéciaux, servant d'animation de fond ou de thème pour la musique (optionnel).
 - Un [skin personnalisé](/wiki/Skinning), qui change l'apparence de l'interface et des éléments de jeu (optionnels).
 
-*Note: Quelques fonctionnalités visuelles et audio peuvent être désactivées via la fenêtre des [paramètres graphiques](/wiki/Client/Interface/Visual_settings)*
+::: alert-notice
+**Note**
+Quelques fonctionnalités visuelles et audio peuvent être désactivées via la fenêtre des [paramètres graphiques](/wiki/Client/Interface/Visual_settings)
+:::
 
 ## Difficulté
 

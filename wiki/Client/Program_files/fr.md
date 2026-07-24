@@ -38,11 +38,16 @@ Le dossier Localisation apparaît lorsque le joueur a changé de langue dans les
 
 ### Replays
 
-*Remarque : les replays étaient auparavant effectuées à un taux d'échantillonnage inférieur, mais elles sont désormais optimisés pour une meilleure expérience.*
+::: alert-notice
+**Note**
+les replays étaient auparavant effectuées à un taux d'échantillonnage inférieur, mais elles sont désormais optimisés pour une meilleure expérience.
+:::
 
 Le dossier Replays contient les fichiers replay du joueur. Un fichier replay ne fonctionne pas si la beatmap qui lui est liée n'est pas présente dans le dossier Songs. Le replay contient également les données de résultats, et réanime le mouvement du curseur du joueur pendant le replay. Pour créer un replay, appuyez sur F2 à l'écran des résultats, ou cliquez sur le bouton 'Enregistrer le replay dans le dossier Replays' (en Solo uniquement).
 
-*Pour les joueurs qui souhaitent mettre en ligne leur replay sur YouTube, voir : [Osr2mp4 public release. Automatically convert replay file to video](https://osu.ppy.sh/community/forums/topics/1104243)*
+::: alert-note
+**Remarque** : Pour les joueurs qui souhaitent mettre en ligne leur replay sur YouTube, voir [Osr2mp4 public release. Automatically convert replay file to video](https://osu.ppy.sh/community/forums/topics/1104243)
+:::
 
 La structure du nom de fichier est `Nom du joueur local} - {Artiste} - {Titre} {[Difficulté]}{(AAAA-MM-JJ)} {Mode de jeu}`. Un exemple de cette structure est présenté ci-dessous :
 
@@ -52,7 +57,10 @@ La structure du nom de fichier est `Nom du joueur local} - {Artiste} - {Titre} {
 
 Le dossier Screenshots contient les captures d'écran que le joueur a créées dans osu!. Par défaut, l'extension de fichier de la capture d'écran sauvegardée est `.jpg`, mais cela peut être changé en `.png` dans le menu Options.
 
-*Remarque : pour créer une capture d'écran, appuyez sur la touche de capture d'écran (F12 par défaut).*
+::: alert-notice
+**Note**
+pour créer une capture d'écran, appuyez sur la touche de capture d'écran (F12 par défaut).
+:::
 
 La structure du nom de fichier est `screenshot###`, où "###" est le numéro de la capture d'écran.
 
@@ -81,7 +89,10 @@ Fichiers de données d'osu!. Contient une partie du cache d'osu!, comme le cache
 
 ## Fichiers
 
-*Attention : Faites attention avec ces fichiers, vous pourriez casser osu! si vous ne faites pas attention.*
+::: alert-caution
+**Attention**
+Faites attention avec ces fichiers, vous pourriez casser osu! si vous ne faites pas attention.
+:::
 
 ### Fichiers de base de données (.db)
 

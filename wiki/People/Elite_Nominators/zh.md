@@ -23,7 +23,9 @@
 
 ## 2019
 
-*关于新闻帖，请参见：[社区贡献者：2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+::: alert-note
+**备注：** 关于新闻帖，请参见[社区贡献者：2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)
+:::
 
 <!-- order of appearance in news post to be consistent with community contributors -->
 
@@ -43,7 +45,9 @@
 
 ## 2020
 
-*关于新闻帖，请参见：[社区贡献者：2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+::: alert-note
+**备注：** 关于新闻帖，请参见[社区贡献者：2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)
+:::
 
 | 名称 | 游戏模式 | 奖项 |
 | :-- | :-: | :-: |
@@ -61,7 +65,9 @@
 
 ## 2021
 
-*关于新闻帖，请参见：[社区贡献者 2021：优秀提名者](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators)*
+::: alert-note
+**备注：** 关于新闻帖，请参见[社区贡献者 2021：优秀提名者](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators)
+:::
 
 | 名称 | 游戏模式 | 奖项 |
 | :-- | :-: | :-: |
@@ -84,7 +90,9 @@
 
 ## 2022
 
-*关于新闻帖，请参见：[社区贡献者 2022：优秀提名者](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022)*
+::: alert-note
+**备注：** 关于新闻帖，请参见[社区贡献者 2022：优秀提名者](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022)
+:::
 
 | 名称 | 游戏模式 | 奖项 |
 | :-- | :-: | :-: |
@@ -105,7 +113,9 @@
 
 ## 2023
 
-*关于新闻帖，请参见：[社区贡献者 2023：优秀提名者](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)*
+::: alert-note
+**备注：** 关于新闻帖，请参见[社区贡献者 2023：优秀提名者](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)
+:::
 
 | 名称 | 游戏模式 | 奖项 |
 | :-- | :-: | :-: |
@@ -128,7 +138,9 @@
 
 ### 2024
 
-*关于新闻帖，请参见：[社区贡献者 2024：优秀提名者](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)*
+::: alert-note
+**备注：** 关于新闻帖，请参见[社区贡献者 2024：优秀提名者](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)
+:::
 
 | 名称 | 游戏模式 | 奖项 |
 | :-- | :-: | :-: |
@@ -152,7 +164,9 @@
 
 ### 2025
 
-*关于新闻帖，请参见：[社区贡献者 2025：优秀提名者](https://osu.ppy.sh/home/news/2026-05-01-elite-nominators-2025)*
+::: alert-note
+**备注：** 关于新闻帖，请参见[社区贡献者 2025：优秀提名者](https://osu.ppy.sh/home/news/2026-05-01-elite-nominators-2025)
+:::
 
 | 名称 | 游戏模式 | 奖项 |
 | :-- | :-: | :-: |

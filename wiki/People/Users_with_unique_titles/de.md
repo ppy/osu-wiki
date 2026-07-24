@@ -195,7 +195,9 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** du
 
 ## Elite Nominators
 
-*Hauptseite: [Elite Nominators](/wiki/People/Elite_Nominators)*
+::: alert-note
+**Hauptseite:** [Elite Nominators](/wiki/People/Elite_Nominators)
+:::
 
 Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranglistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
 
@@ -326,7 +328,9 @@ Diese Storyboarder haben den Titel **Elite Storyboarder** dafür überreicht bek
 
 ## Auf das Spiel bezogen
 
-*Siehe auch: [Completionists](/wiki/People/Completionists)*
+::: alert-note
+**Siehe auch:** [Completionists](/wiki/People/Completionists)
+:::
 
 Diesen Spielern wurden ihre entsprechenden Titel entweder durch eine verrückte Errungenschaft im Spiel oder durch Abschluss einer spezifischen Herausforderung vergeben.
 

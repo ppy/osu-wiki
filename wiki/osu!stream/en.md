@@ -1,6 +1,8 @@
 # osu!stream
 
-*For the list of songs featured in the game, see: [osu!stream song list](/wiki/osu!stream/Song_List)*
+::: alert-note
+**Note:** For the list of songs featured in the game, see [osu!stream song list](/wiki/osu!stream/Song_List)
+:::
 
 ![](img/Os-Logo.jpg "osu!stream logo")
 
@@ -24,7 +26,10 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 
 ### App Store method (recommended)
 
-*Note: Make sure the device can connect to the Internet (either by Wi-Fi or mobile data).*
+::: alert-notice
+**Notice**
+Make sure the device can connect to the Internet (either by Wi-Fi or mobile data).
+:::
 
 - Go to "App Store" from the iOS device or "Play Store" on Android.
 - Search for osu!stream
@@ -35,7 +40,10 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 
 ### USB method (legacy, iOS-only)
 
-*Notice: For this method, [iTunes](https://www.apple.com/itunes/) must be installed.*
+::: alert-notice
+**Notice**
+For this method, [iTunes](https://www.apple.com/itunes/) must be installed.
+:::
 
 - Go to [this link and download it](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8).
   - If requested for Apple ID, type in the Apple ID and the password.
@@ -45,7 +53,10 @@ In 2023, twelve years after its initial release, osu!stream was finally [ported 
 
 ## Adding Beatmaps
 
-*Note: Make sure the device can connect to the Internet (either by Wi-Fi or mobile data).*
+::: alert-notice
+**Notice**
+Make sure the device can connect to the Internet (either by Wi-Fi or mobile data).
+:::
 
 - Open osu!stream.
 - Press the osu! symbol to go to the main menu (or tutorial if playing for the first time)
@@ -177,7 +188,10 @@ The background colour is Purple and the lights will darken depending on current 
 
 ## Scoring
 
-*Notice: The leaderboard can still be viewed in-game, but no new scores will be accepted.*
+::: alert-notice
+**Notice**
+The leaderboard can still be viewed in-game, but no new scores will be accepted.
+:::
 
 ### Accuracy
 

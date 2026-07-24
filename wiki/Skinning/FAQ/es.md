@@ -210,7 +210,10 @@ Sin embargo, la pantalla de clasificación de osu!mania es una excepción a esto
 2. La imagen estática en el directorio raíz.
 3. La imagen predeterminada.
 
-*Aviso: En osu!mania, osu! ignora la ruta especificada en el archivo `skin.ini` y solo usara la imagen del directorio raíz (la carpeta donde los elementos de la skin son cargados).*
+::: alert-notice
+**Aviso**
+En osu!mania, osu! ignora la ruta especificada en el archivo `skin.ini` y solo usara la imagen del directorio raíz (la carpeta donde los elementos de la skin son cargados).
+:::
 
 ## Animaciones
 
@@ -220,7 +223,10 @@ Primero, revisa los archivos listados para verificar que el archivo que desees a
 
 Por ejemplo, si estás intentando animar `scorebar-colour.png`, nombra el primer fotograma `scorebar-colour-0.png`, luego el segundo `scorebar-colour-1.png`, luego el tercero `scorebar-colour-2.png`, y repite para el resto.
 
-*Aviso: No todos los archivos cuentan con un guion (`-`) en medio del nombre y el número de fotograma. Revisa el listado de elementos para los nombres de animacion.*
+::: alert-notice
+**Aviso**
+No todos los archivos cuentan con un guion (`-`) en medio del nombre y el número de fotograma. Revisa el listado de elementos para los nombres de animacion.
+:::
 
 La velocidad de animación en los fotogramas para cada elemento es inconsistente. Algunos usan valores definidos en el archivo `skin.ini`, algunos usan el valor definido por el cliente, mientras otros son basados por el BPM (beats per minute) de un beatmap. Debido a esto, animar elementos de una skin se hace a prueba y error (véase la siguiente sección para conocer los métodos para resolver esto).
 

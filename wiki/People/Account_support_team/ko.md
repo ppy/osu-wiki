@@ -38,7 +38,10 @@ outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*참고: 모더레이터를 포함하여 극단적인 행동 또는 성 관련 사례를 신고하려는 경우, [Reporting Abuse](/wiki/Reporting_bad_behaviour/Abuse)를 참고해 주세요.*
+::: alert-notice
+**알림**
+모더레이터를 포함하여 극단적인 행동 또는 성 관련 사례를 신고하려는 경우, [Reporting Abuse](/wiki/Reporting_bad_behaviour/Abuse)를 참고해 주세요.
+:::
 
 - 모더레이터의 잘못된 행동에 대한 우려.
 - 모더레이터가 [기여자 서약 행동 강령](/wiki/Rules/Contributor_code_of_conduct)을 위반하는 것에 대한 우려.

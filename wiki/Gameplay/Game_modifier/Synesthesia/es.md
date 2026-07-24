@@ -20,13 +20,16 @@ tags:
 | :-- | :-- |
 | Acrónimo | SY |
 | Tipo | Diversión |
-| Modos de juego compatibles | ![][osu!] |
-| Multiplicador de puntuación | 0,80x |
+| Modos de juego compatibles | ![][osu!] ![][osu!catch] |
+| Multiplicador de puntuación | `0,80x` |
 | Estado | No clasificado |
 | Mods incompatibles | Ninguno |
 
 :::
 
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
