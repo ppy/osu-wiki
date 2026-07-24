@@ -312,7 +312,7 @@ osu! 通常会自动保持版本最新、无需干涉，但有时可能会出现
 
 osu!(lazer) 内置 [OpenTabletDriver](https://opentabletdriver.net/)。如果你之前没有用过这个驱动，会发生这种现象 是因为你的数位板没有被正确配置成适合内置驱动的状态。
 
-查看[数位板转换]页面，你可以了解如何将老数位板驱动的映射区域转换为 OpenTabletDriver 的设置格式。
+查看[数位板转换](/wiki/Guides/Tablet_conversion)页面，你可以了解如何将老数位板驱动的映射区域转换为 OpenTabletDriver 的设置格式。
 
 ## 在线功能 {id=online-features}
 
