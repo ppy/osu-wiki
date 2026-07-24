@@ -16,7 +16,10 @@ tags:
 
 ## 표준
 
-*알림: 아래 문서에서는 [RFC 2119](https://tools.ietf.org/html/rfc2119)에 따라 요구사항 수준을 설명합니다.*
+::: alert-notice
+**알림**
+아래 문서에서는 [RFC 2119](https://tools.ietf.org/html/rfc2119)에 따라 요구사항 수준을 설명합니다.
+:::
 
 문서 스타일링 기준은 두 개의 문서로 나누어져 있습니다:
 

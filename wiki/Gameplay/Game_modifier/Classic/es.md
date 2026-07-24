@@ -28,7 +28,9 @@ tags:
 
 :::
 
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Classic** emula mecánicas de osu!stable que han cambiado desde entonces.
 

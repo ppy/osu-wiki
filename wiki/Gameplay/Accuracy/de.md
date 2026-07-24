@@ -1,8 +1,3 @@
----
-outdated_since: 8e1786f96ff274d96b77be41a62c642197397a80
-outdated_translation: true
----
-
 # Genauigkeit
 
 Die Genauigkeit ist ein prozentualer Messwert für die Fertigkeit eines Spielers, [Hit-Objekte](/wiki/Gameplay/Hit_object) rechtzeitig zu treffen. Es gibt drei Arten von Genauigkeit, die ein Spieler haben kann: die Genauigkeit der Beatmap, die von den erzielten Trefferpunkten abhängt; die Gesamtgenauigkeit des Spielers, die gewichtet wird, damit bessere Leistungen stärker hervorstechen; und die [Performancepunkte (pp)](/wiki/Performance_points) Genauigkeit des Spielers, die von der Genauigkeit des erzielten Scores abhängig ist.
@@ -67,7 +62,10 @@ ScoreV2 erhöht die Gewichtung von Regenbogen-300ern zu 305:
 
 Die Leistungskurve ist ein Diagramm, das die Leistung des Spielers (basierend auf seinem Lebensbalken) im Verlauf eines Spiels (Zeit) anzeigt. Zusätzliche Informationen können angezeigt werden, wenn man den Mauszeiger im Spiel darüber bewegt.
 
-*Anmerkung: Die zusätzlichen Informationen können nur nach dem Abspielen einer Beatmap oder nach dem Ansehen eines Replays angezeigt werden. Nach dem Verlassen des [Ergebnisbildschirms](/wiki/Client/Interface#rangliste) werden diese Informationen nicht gespeichert.*
+::: alert-notice
+**Hinweis**
+Die zusätzlichen Informationen können nur nach dem Abspielen einer Beatmap oder nach dem Ansehen eines Replays angezeigt werden. Nach dem Verlassen des [Ergebnisbildschirms](/wiki/Client/Interface#rangliste) werden diese Informationen nicht gespeichert.
+:::
 
 ### Genauigkeit
 
@@ -81,11 +79,20 @@ Aufgrund der Art und Weise, wie die Mods [DT](/wiki/Gameplay/Game_modifier/Doubl
 
 #### Unstable rate
 
-`Unstable Rate` steht für die Gleichmäßigkeit des Timings der Treffer, wobei niedrigere Zahlen besser sind (Top-Spieler erreichen oft Werte unter 100). Zu beachten ist, dass der Wert die Gleichmäßigkeit und nicht die Genauigkeit misst, das heißt, 15ms zu früh zu treffen ist hierbei dasselbe wie rechtzeitig zu treffen. Die Formel ist im Wesentlichen die Standardabweichung der Trefferfehler (in Millisekunden), multipliziert mit 10. [Beispielcode](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) ist als Referenz verfügbar und zeigt, wie osu-stable die Unstable Rate-Werte berechnet.
+::: alert-note
+**Hauptseite:** [Streuung](/wiki/Gameplay/Unstable_rate)
+:::
+
+`Unstable Rate` (*UR*) zeigt die [Standardabweichung](https://de.wikipedia.org/wiki/Standardabweichung_(Stochastik)) der Trefferfehler in Millisekunden, multipliziert mit 10, an. Ein geringerer Streuungswert steht für eine hohe Gleichmäßigkeit.
+
+Beachte, dass Gleichmäßigkeit nicht das Gleiche wie Genauigkeit ist. Während eine niedrige Streuung oft das Ergebnis eines präzisen Spiels ist, ist es möglich, eine sehr geringe Streuung bei zeitgleich niedriger Genauigkeit zu haben. Beispielsweise könnte ein Spieler jedes [Objekt](/wiki/Gameplay/Hit_object) so spät treffen, dass er [50er](/wiki/Gameplay/Judgement/osu!) erhält, wobei ein gleichmäßig spätes Treffen dennoch zu einer geringen Streuung führt.
 
 ### Spin
 
-*Hinweis: Spin wird nur für den [osu! Spielmodus](/wiki/Game_mode/osu!) verwendet.*
+::: alert-notice
+**Hinweis**
+Spin wird nur für den [osu! Spielmodus](/wiki/Game_mode/osu!) verwendet.
+:::
 
 Zusätzlich zur Genauigkeit werden in der gleichen Meldung auch einige Informationen zu Spinnern angezeigt.
 

@@ -19,7 +19,9 @@ tags:
 
 ### Из osu! в osu!taiko
 
-*См. также: [osu!taiko § Конверсия из osu!](/wiki/Game_mode/osu!taiko#osu!-conversion-notes)*
+::: alert-note
+**См. также:** [osu!taiko § Конверсия из osu!](/wiki/Game_mode/osu!taiko#osu!-conversion-notes)
+:::
 
 Конверты для osu!taiko генерирутся в зависимости от использованных [хитсаундов](/wiki/Beatmapping/Hitsound), ритма карты и изменения скорости слайдеров. В зависимости от типа [объектов](/wiki/Gameplay/Hit_object) и их хитсаундов, происходит следующее:
 
@@ -32,7 +34,9 @@ tags:
 
 ### Из osu! в osu!catch
 
-*См. также: [osu!catch § Конверсия из osu!](/wiki/Game_mode/osu!catch#osu!-conversion-notes)*
+::: alert-note
+**См. также:** [osu!catch § Конверсия из osu!](/wiki/Game_mode/osu!catch#osu!-conversion-notes)
+:::
 
 Конверты для osu!catch генерируются в зависимости от ритма карты и горизонтального расположения объектов:
 

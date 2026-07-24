@@ -9,7 +9,7 @@ tags:
 
 ![CWC 2026 banner](img/cwc2026-banner.jpg)
 
-The **osu!catch World Cup 2026** (***CWC 2026***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the fifteenth instalment of the osu!catch World Cup.
+The **osu!catch World Cup 2026** (***CWC 2026***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the fifteenth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!catch World Cup 2026** (***CWC 2026***) is a country-based osu!catch t
 
 ## Prizes
 
-The osu!catch World Cup 2026 offers a $2,000 cash prize pool and limited-edition merch.
+The osu!catch World Cup 2026 offered a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -35,9 +35,11 @@ The osu!catch World Cup 2026 offers a $2,000 cash prize pool and limited-edition
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/cwc2026-badge-1st.png "CWC 2026 winner badge") ![](img/cwc2026-badge-2nd.png "CWC 2026 2nd-place badge") ![](img/cwc2026-badge-3rd.png "CWC 2026 3rd-place badge")
+
 ## Organisation
 
-The osu!catch World Cup 2026 is run by various community members.
+The osu!catch World Cup 2026 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -49,7 +51,7 @@ The osu!catch World Cup 2026 is run by various community members.
 | Commentator | ::{ flag=SE }:: [\-Anchor\-](https://osu.ppy.sh/users/1352257), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=BE }:: [ElSkeffe](https://osu.ppy.sh/users/6283136), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747), ::{ flag=FR }:: [Realmaas](https://osu.ppy.sh/users/6567640), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227), ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) |
 | Referee | **::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| osu! original design | **::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)**, *more TBA* |
+| osu! original design | **::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)** |
 | Tournament design | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=HK }:: [Detristy](https://osu.ppy.sh/users/38325708), ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849), ::{ flag=ID }:: [LenLitchu](https://osu.ppy.sh/users/34098325), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | Musician | [Ashrount](https://osu.ppy.sh/beatmaps/artists/352), [0 K](https://osu.ppy.sh/beatmaps/artists/424), [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204), [Link"0](https://osu.ppy.sh/beatmaps/artists/551), [polysha](https://osu.ppy.sh/beatmaps/artists/146), [Sydosys](https://osu.ppy.sh/beatmaps/artists/392), [Sylvir](https://osu.ppy.sh/beatmaps/artists/8), [WangleLine](https://osu.ppy.sh/beatmaps/artists/427), [YUC'e](https://osu.ppy.sh/beatmaps/artists/372), [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) |
 
@@ -61,7 +63,6 @@ The osu!catch World Cup 2026 is run by various community members.
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/55)
 - [Challonge bracket](https://challonge.com/CWC2026)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/196) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1728)
 
 ## Participants
 
@@ -116,21 +117,25 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99153d582c530823a55fa1beef737ec).
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, 11 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 61 | Poland ::{ flag=PL }:: | ::{ flag=FR }:: France | [Jul 11 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T150000&p1=1440&p2=262&p3=195) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
-
-### Sunday, 12 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 62a | Argentina ::{ flag=AR }:: | Winner of ::{ flag=PL }:: PL vs ::{ flag=FR }:: FR | [Jul 12 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T160000&p1=1440&p2=51&p3=262) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+![](img/cwc2026-podium.jpg "CWC 2026 podium")
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 11 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 61 | **Poland** ::{ flag=PL }:: | **7** | 5 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/121493380) | [#1](https://www.twitch.tv/videos/2818306357) |
+
+Sunday, 12 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 62a | **Argentina** ::{ flag=AR }:: | **7** | 4 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/121500052) | [#1](https://www.twitch.tv/videos/2818377183) |
 
 ### Finals
 
@@ -332,7 +337,7 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27856752
 
 ### Grand Finals
 
-**[Download the mappack here (217 MB)](https://packs.ppy.sh/P331%20-%20osu%21catch%20World%20Cup%202026%3A%20Grand%20Finals.zip)**\
+**[Download the mappack here (217 MB)](https://packs.ppy.sh/P331%20-%20osu!catch%20World%20Cup%202026%3A%20Grand%20Finals.zip?1783698074)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2812999044)
 
 - No Mod
@@ -674,7 +679,5 @@ The final team score to be sorted is defined as `Final score = SUM(Map percentag
 
 ## Notes
 
-[^lb-grand-finals]: Losers bracket Grand Finals match
-[^grand-finals]: Grand Finals match – Final matchup depends on the preceding Losers bracket match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum

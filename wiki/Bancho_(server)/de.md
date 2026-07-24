@@ -7,7 +7,9 @@ no_native_review: true
 
 # Bancho (Server)
 
-*Für andere Bedeutungen, siehe [Bancho (Begriffsabgrenzung)](/wiki/Disambiguation/Bancho).*
+::: alert-note
+**Anmerkung:** [Bancho (Begriffsabgrenzung)](/wiki/Disambiguation/Bancho).
+:::
 
 **Bancho** (manchmal *osu!Bancho* genannt) ist ein Codename der Serverkomponente, die Echtzeit-Interaktionen zwischen Spielern verwaltet, die eine aktuelle Version von osu! ausführen:
 

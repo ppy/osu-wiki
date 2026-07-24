@@ -13,8 +13,13 @@ no_native_review: true
 
 ![HR Modysmbol](/wiki/shared/mods/HR.png "Hard Rock (HR) Modsymbol")
 
-*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Hard Rock (lazer-Mod)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer))*\
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Hard Rock (lazer-Mod)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer))
+:::
+
+::: alert-note
+**Anmerkung:** Für die vollständige Liste aller Mods, siehe [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Übersicht
 
@@ -58,7 +63,10 @@ Aufgrund des steilen Anstiegs der Schwierigkeit im Vergleich zu anderen [Spielmo
 
 ### osu!mania
 
-*Hinweis: Die Verwendung dieser Mod in osu!mania sorgt dafür, dass das Spiel nicht gerankt wird.*
+::: alert-notice
+**Hinweis**
+Die Verwendung dieser Mod in osu!mania sorgt dafür, dass das Spiel nicht gerankt wird.
+:::
 
 In [osu!mania](/wiki/Game_mode/osu!mania) ist der HP-Drain um 40 % erhöht und die Timing-Fenster sind etwa 29 % kleiner. Obwohl der AR-Wert als erhöht angezeigt wird, beeinflusst es das Gameplay nicht.
 

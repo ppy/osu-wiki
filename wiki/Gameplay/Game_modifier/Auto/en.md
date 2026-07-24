@@ -14,9 +14,17 @@ tags:
 
 ![AT mod icon](/wiki/shared/mods/AT.png "Auto (AT) mod icon")
 
-*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Autoplay (lazer mod)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer))*\
-*For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*\
-*Not to be confused with [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot).*
+::: alert-note
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Autoplay (lazer mod)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer))
+:::
+
+::: alert-note
+**Note:** For the full list of all mods, see [Game modifier](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Note:** Not to be confused with [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot).
+:::
 
 ## About
 
@@ -29,7 +37,10 @@ tags:
 
 ## Description
 
-*Notice: Enabling the Auto mod will cause the play to be unranked and will not be saved to the local leaderboards.*
+::: alert-notice
+**Notice**
+Enabling the Auto mod will cause the play to be unranked and will not be saved to the local leaderboards.
+:::
 
 The **Auto** mod is a [game modifier](/wiki/Gameplay/Game_modifier) that allows players to watch a perfect playthrough of the selected beatmap.
 

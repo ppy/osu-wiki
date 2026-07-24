@@ -11,7 +11,9 @@ tags:
 
 # Mind block
 
-*No debe confundirse con [Notelock](/wiki/Gameplay/Judgement/Notelock) o [Fingerlock](/wiki/Gameplay/Fingerlock).*
+::: alert-note
+**Nota:** No debe confundirse con [Notelock](/wiki/Gameplay/Judgement/Notelock) o [Fingerlock](/wiki/Gameplay/Fingerlock).
+:::
 
 El **mind block** es un término usado para describir cuando un jugador pierde o falla repetidamente en lo que antes era una sección fácil de un [beatmap](/wiki/Beatmap), a menudo como resultado de volver a intentar dicho beatmap repetidamente. El término se llama «mind block» ya que el evento que describe crea la sensación de que el cerebro (mente) del jugador ha sido, en sentido figurado, «bloqueado» para no obtener con éxito un combo completo o completar la sección antes mencionada.
 

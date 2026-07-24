@@ -5,7 +5,9 @@ outdated_since: 4069c039287ddae18fdbbad2f798b80768191fc3
 
 # Maskottchen
 
-*Siehe auch: [Maskottchen/Galerie](/wiki/Mascots/Gallery)*
+::: alert-note
+**Siehe auch:** [Maskottchen/Galerie](/wiki/Mascots/Gallery)
+:::
 
 Ein YouTube-Video, in dem die Maskottchen von osu! vorgestellt werden, ist unter [Mascot Showcase](https://youtu.be/mJF2cAs_MrI) zu sehen.
 
@@ -19,7 +21,9 @@ pippi, stilisiert mit einem kleinen "p", ist das Maskottchen des osu!-Spielmodus
 
 ### ![osu!catch Icon](/wiki/shared/mode/catch.png) Yuzu
 
-*Für die Newsbeiträge, siehe: [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) und [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
+::: alert-note
+**Anmerkung:** Für die Newsbeiträge, siehe [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) und [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)
+:::
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -37,7 +41,9 @@ Mani ist so etwas wie ein Außenseiter, der immer auf der Suche nach neuen Stile
 
 ### ![osu!taiko Icon](/wiki/shared/mode/taiko.png) Mocha
 
-*Für den Newsbeitrag, siehe: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)*
+::: alert-note
+**Anmerkung:** Für den Newsbeitrag, siehe [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)
+:::
 
 ![Mocha](img/Mocha.png "Mocha")
 

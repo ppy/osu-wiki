@@ -77,7 +77,9 @@ Verstöße von Turnieren gegen die offiziellen Unterstützungsanforderungen kön
 
 ### Newsbeiträge
 
-*Siehe auch: [Offizielle Turnierunterstützung § Newsbeiträge](/wiki/Tournaments/Official_support#newsbeiträge) und [Gestaltungskriterien für Newsbeiträge](/wiki/News_styling_criteria)*
+::: alert-note
+**Siehe auch:** [Offizielle Turnierunterstützung § Newsbeiträge](/wiki/Tournaments/Official_support#newsbeiträge) und [Gestaltungskriterien für Newsbeiträge](/wiki/News_styling_criteria)
+:::
 
 Das Turnierkomitee wird informiert, sobald eine Anfrage für einen Turnier-Newsbeitrag eintrifft. Wenn das Turnier alle Zulassungsanforderungen für Newsbeiträge erfüllt und das Turnierkomitee einer Veröffentlichung nach 48 Stunden zustimmt, wird die Anfrage für eine finale Genehmigung an das Newsteam weitergeleitet.
 
@@ -122,7 +124,10 @@ Bewerber, die nicht genug Ja-Stimmen erhalten, werden abgelehnt. Nach dem Erhalt
 
 Das Turnierkomitee hält regelmäßig Abstimmungen bei wichtigen Entscheidungen ab. Die typischen Situationen werden unten aufgelistet, aber das sind nicht alle. Abhängig vom Thema sind die Wahlvorschriften anders. Alle üblichen Wahlen setzen eine "strikte Teilnahme" voraus. Wenn 75 % des Turnierkomitees nicht bis zum Abgabetermin an der Wahl teilgenommen hat, wird die Wahl verlängert, bis die erforderliche Wahlbeteiligung erreicht wurde. Des Weiteren benötigen alle Abstimmungen eine absolute Mehrheit von mindestens 50 %, damit die Entscheidung als angenommen gilt. Viele Themen haben für Abstimmungen dieselben Vorgaben, unten werden jedoch leichte Unterschiede zwischen häufigen Themen hervorgehoben.
 
-*Anmerkung: Für die erforderliche Wahlbeteiligung werden nur Mitglieder berücksichtigt, die sich nicht aufgrund eines Interessenkonflikts enthalten.*
+::: alert-notice
+**Hinweis**
+Für die erforderliche Wahlbeteiligung werden nur Mitglieder berücksichtigt, die sich nicht aufgrund eines Interessenkonflikts enthalten.
+:::
 
 | Abstimmungsart | Mindestdauer (Tage) | Erforderlicher Stimmenanteil | Erforderliche Teilnahme |
 | :-- | --: | --: | --: |

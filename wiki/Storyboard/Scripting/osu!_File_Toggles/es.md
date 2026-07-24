@@ -1,6 +1,8 @@
 # Activadores del archivo .osu de los storyboards
 
-*Véase también: [skin.ini](/wiki/Skinning/skin.ini)*
+::: alert-note
+**Véase también:** [skin.ini](/wiki/Skinning/skin.ini)
+:::
 
 Los siguientes son activadores que se pueden agregar al archivo .osu (y en algunos casos, a archivos .osb) para afectar al [skinning](/wiki/Skinning) / [storyboarding](/wiki/Storyboard). También se pueden incluir aquellos que son agregados/eliminados por el [editor de beatmaps](/wiki/Client/Beatmap_editor).
 

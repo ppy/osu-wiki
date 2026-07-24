@@ -12,7 +12,7 @@ Vale la pena menzionare che i contenuti di tutti i Pacchetti Video Game, Anime, 
 
 ## Abilità
 
-Le **medaglie Abilità** sono medaglie assegnate col raggiungimento di svariati traguardi basati sulle proprie abilità, che può essere ottenere un certo numero di [combo](/wiki/Beatmapping/Combo), raggiungere una determinata posizione nella [classifica mondiale per punti performance](https://osu.ppy.sh/rankings/osu/performance), passando o ottenendo una [full combo](/wiki/Gameplay/Full_combo) su una qualsiasi beatmap [Qualificata](/wiki/Beatmap/Category#qualified), [Classificata](/wiki/Beatmap/Category#ranked) o [Approvata](/wiki/Beatmap/Category#approved) di una determinata [difficoltà](/wiki/Beatmap/Star_rating).
+Le **medaglie Abilità** sono medaglie assegnate col raggiungimento di svariati traguardi basati sulle proprie abilità, che può essere ottenere un certo numero di [combo](/wiki/Gameplay/Combo_(score_multiplier)), raggiungere una determinata posizione nella [classifica mondiale per punti performance](https://osu.ppy.sh/rankings/osu/performance), passando o ottenendo una [full combo](/wiki/Gameplay/Full_combo) su una qualsiasi beatmap [Qualificata](/wiki/Beatmap/Category#qualified), [Classificata](/wiki/Beatmap/Category#ranked) o [Approvata](/wiki/Beatmap/Category#approved) di una determinata [difficoltà](/wiki/Beatmap/Star_rating).
 
 ## Dedizione
 

@@ -10,7 +10,10 @@ tags:
 
 There are many shortcuts in osu! that can be utilised while in-game or while idle at any screen. They are listed out with their functions below.
 
-*Note: This article lists the default keyboard shortcuts. You can change some of them in the [options](/wiki/Client/Options).*
+::: alert-notice
+**Notice**
+This article lists the default keyboard shortcuts. You can change some of them in the [options](/wiki/Client/Options).
+:::
 
 ## Game-wide
 
@@ -62,7 +65,10 @@ These shortcuts work anywhere:
 
 ## Song select
 
-*Note: Not all of these work in the Multi mode's song select screen.*
+::: alert-notice
+**Notice**
+Not all of these work in the Multi mode's song select screen.
+:::
 
 | Shortcut | Action |
 | :-- | :-- |
@@ -91,9 +97,17 @@ These shortcuts work anywhere:
 
 ### Game modifiers
 
-*Main page: [Game modifiers](/wiki/Gameplay/Game_modifier)*\
-*Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*\
-*Note: Target practice (osu!), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.*
+::: alert-note
+**Main page:** [Game modifiers](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-notice
+**Note:** Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.
+:::
+
+::: alert-notice
+**Note:** Target practice (osu!), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.
+:::
 
 | Shortcut | Mod |
 | :-- | :-- |
@@ -131,7 +145,10 @@ These shortcuts work anywhere:
 
 ## Replay mode
 
-*Notice: You must use the cuttingedge release stream to use these.*
+::: alert-notice
+**Notice**
+You must use the cuttingedge release stream to use these.
+:::
 
 | Shortcut | Action |
 | :-- | :-- |
@@ -143,7 +160,9 @@ These shortcuts work anywhere:
 
 ## Beatmap editor
 
-*Main page: [Beatmap Editor](/wiki/Client/Beatmap_editor)*
+::: alert-note
+**Main page:** [Beatmap Editor](/wiki/Client/Beatmap_editor)
+:::
 
 ### General
 

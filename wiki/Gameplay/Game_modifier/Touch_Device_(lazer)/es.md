@@ -33,7 +33,9 @@ tags:
 
 :::
 
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Touch Device** indica que una puntuación se jugó en [un dispositivo con pantalla táctil](/wiki/Gameplay/Input_device/Touch_device) y usó entradas táctiles durante una partida (excluyendo [descansos](/wiki/Beatmap/Break)).[^touch-inputs-ref] Ajusta los cálculos de la [calificación por estrellas](/wiki/Beatmap/Star_rating) y de los [puntos de rendimiento](/wiki/Performance_points) para tener en cuenta la dificultad reducida de los [jumps](/wiki/Beatmap/Pattern/osu!/Jump) con este estilo de juego.
 

@@ -214,7 +214,9 @@ Offizielle Projekte werden zum Großteil durch das [osu!-Team](/wiki/People/osu!
 
 ### IRC
 
-*Siehe auch: [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat)*
+::: alert-note
+**Siehe auch:** [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat)
+:::
 
 | Logo | Name | Projektleiter | Beschreibung |
 | :-: | :-- | :-- | :-- |

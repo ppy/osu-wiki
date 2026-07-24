@@ -25,7 +25,10 @@ The **osu! Philippines Quickfire Showdown 2023** (***oPQS2023***), also known as
 
 ## Prizes
 
-*Note: The prizes were granted for each day of the tournament.*
+::: alert-notice
+**Notice**
+The prizes were granted for each day of the tournament.
+:::
 
 | Placing | Prizes |
 | :-: | :-- |

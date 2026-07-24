@@ -31,8 +31,13 @@ tags:
 
 :::
 
-*Para la versión de osu!stable de este artículo, véase: [Mirror (mod)](/wiki/Gameplay/Game_modifier/Mirror)*\
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la versión de osu!stable de este artículo, véase [Mirror (mod)](/wiki/Gameplay/Game_modifier/Mirror)
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
