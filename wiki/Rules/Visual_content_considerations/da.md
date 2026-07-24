@@ -14,7 +14,7 @@ Dette inkluderer:
 - profildetaljer (avatarer, titelbilleder)
 - andre vedhæftelser eller weblinks (forumopslag, kommentarer, posts i beatmapdiskussioner)
 
-For at blive på den sikre side gælder fællesskabsregel 5 for alt, der rimeligt kan betragtes som "tvivlsomt".
+For at være på den sikre side gælder fællesskabsregel 5 for alt, der rimeligt kan betragtes som "tvivlsomt".
 
 ## Vigtige ting at overveje
 
