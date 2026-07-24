@@ -26,10 +26,12 @@ tags:
 | Default shortcut key ![][osu!] ![][osu!taiko] ![][osu!catch] | `H` |
 | Default shortcut key ![][osu!mania] | `J` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier ![][osu!] ![][osu!taiko] ![][osu!catch] | 1.06x |
-| Score multiplier ![][osu!mania] | 1.00x |
+| Score multiplier ![][osu!] ![][osu!taiko] ![][osu!catch] | `1.06x` |
+| Score multiplier ![][osu!mania] | `1.00x` |
 | Status | Ranked |
-| Incompatible mods | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| Incompatible mods ![][osu!] | [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| Incompatible mods ![][osu!taiko] ![][osu!catch] | None |
+| Incompatible mods ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
 
@@ -41,13 +43,17 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Hidden** mod removes the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) and makes the [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) fade out after appearing on the screen.
+The **Hidden** mod removes the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) from the game and makes the [hit objects](/wiki/Gameplay/Hit_object) fade out after appearing on screen. Thus, it acts as the opposite of the [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) mod.
 
 ## Customisation
 
 ![Hidden customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/HD.png)
 
-- **Only fade approach circles** (default: disabled): Make the approach circles invisible without applying the fade effect on notes.
+- **Only fade approach circles** (default: disabled): Make the approach circles invisible without applying the fade effect on hit objects.
+
+Enabling this setting will cause your scores to be **unranked**.
+
+*Note that this setting is only available in osu!. In osu!taiko, osu!catch and osu!mania, this mod cannot be customised.*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

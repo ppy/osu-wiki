@@ -22,9 +22,10 @@ tags:
 | Acronym | NS |
 | Type | Fun |
 | Game modes | ![][osu!] ![][osu!catch] |
-| Score multiplier | 1.00x |
+| Score multiplier | `1.00x` |
 | Status | Ranked |
-| Incompatible mods | [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
+| Incompatible mods ![][osu!] | [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
+| Incompatible mods ![][osu!catch] | None |
 
 :::
 
@@ -40,7 +41,9 @@ Visibility is also temporarily restored during [breaks](/wiki/Beatmap/Break).
 
 ![No Scope customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/NS.png)
 
-- **Hidden at combo** (0–50, default 10): The combo at which the cursor or catcher will be fully hidden. If set to 0, it will only be visible during breaks.
+- **Hidden at combo** (0–50, default: 10): The combo at which the cursor or catcher will be fully hidden. If set to 0, it will only be visible during breaks.
+
+Changing this setting will **not** cause your scores to be unranked.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"

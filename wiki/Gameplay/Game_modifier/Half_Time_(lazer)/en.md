@@ -23,9 +23,10 @@ tags:
 | Type | Difficulty Reduction |
 | Default shortcut key | `E` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | 0.30x\* <!-- TODO --> |
+| Score multiplier | `0.30x*` |
 | Status | Ranked |
-| Incompatible mods | [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
+| Incompatible mods ![][osu!] ![][osu!taiko] ![][osu!mania] | [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) |
+| Incompatible mods ![][osu!catch] | [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
 
 :::
 
@@ -37,14 +38,16 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Half Time** mod decreases the BPM of any beatmap to 75%, increasing the length of the song by 33%. It also can reduce the [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) or both at once depending on the [game mode](/wiki/Game_mode).
+The **Half Time** mod decreases the BPM of any beatmap by 25%, increasing the length of the song by 33.3%. It can also reduce the [approach rate](/wiki/Beatmap/Approach_rate), [overall difficulty](/wiki/Beatmap/Overall_difficulty) or both depending on the selected [game mode](/wiki/Game_mode).
 
 ## Customisation
 
 ![Half Time customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/HT.png)
 
-- **Speed decrease** (0.50x–0.99x, default 0.75x): The speed at which the map is played.
-- **Adjust pitch** (disabled by default): Changes the audio frequency depending on the chosen speed. Enabling this option does not make the play unranked. (Enabling pitch adjustment with the default speed will have the same effect as [Daycore](/wiki/Gameplay/Game_modifier/Daycore).)
+- **Speed decrease** (0.50x–0.99x, default: 0.75x): The speed at which the map is played.
+- **Adjust pitch** (default: disabled): Change the audio frequency depending on the chosen speed. Enabling pitch adjustment with the default speed will have the same audio effect as [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore).
+
+Changing the **Speed decrease** will cause your scores to be **unranked**. Enabling **Adjust pitch** will **not** cause your scores to be unranked.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

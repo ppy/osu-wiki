@@ -14,10 +14,10 @@ tags:
 
 ![Easy mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png)
 
-*![][osu!] Larger circles, more forgiving HP drain, less accuracy required, and three lives!*\
+*![][osu!] Larger circles, more forgiving HP drain, less accuracy required, and extra lives!*\
 *![][osu!taiko] Beats move slower, and less accuracy required!*\
-*![][osu!catch] Larger fruits, more forgiving HP drain, less accuracy required, and three lives!*\
-*![][osu!mania] More forgiving HP drain, less accuracy, and three lives!*
+*![][osu!catch] Larger fruits, more forgiving HP drain, less accuracy required, and extra lives!*\
+*![][osu!mania] More forgiving HP drain, less accuracy required, and extra lives!*
 
 |  |  |
 | :-- | :-- |
@@ -25,7 +25,7 @@ tags:
 | Type | Difficulty Reduction |
 | Default shortcut key | `Q` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | 0.50x |
+| Score multiplier | `0.50x` |
 | Status | Ranked |
 | Incompatible mods ![][osu!] ![][osu!catch] ![][osu!mania] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
 | Incompatible mods ![][osu!taiko] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
@@ -40,13 +40,29 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Easy** mod attempts to make the gameplay on any [beatmap](/wiki/Beatmap) played easier by halving each difficulty setting. In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taiko), the mod gives two extra lives in case the [health bar](/wiki/Client/Interface/Health_bar) drops to zero, which instead refills it instantly.
+The **Easy** mod attempts to make gameplay easier by decreasing the difficulty settings of a [beatmap](/wiki/Beatmap).
+
+In osu!, [circle size](/wiki/Beatmap/Circle_size), [HP drain](/wiki/Beatmap/HP_drain_rate), [overall difficulty](/wiki/Beatmap/Overall_difficulty) and [approach rate](/wiki/Beatmap/Approach_rate) are cut in half.
+
+In osu!taiko, [HP drain](/wiki/Beatmap/HP_drain_rate) and [overall difficulty](/wiki/Beatmap/Overall_difficulty) are cut in half, while Scroll Speed is reduced by 20%.
+
+In osu!catch, [circle size](/wiki/Beatmap/Circle_size), [HP drain](/wiki/Beatmap/HP_drain_rate) and [approach rate](/wiki/Beatmap/Approach_rate) are cut in half.
+
+In osu!mania, [HP drain](/wiki/Beatmap/HP_drain_rate) and [overall difficulty](/wiki/Beatmap/Overall_difficulty) are cut in half.
+
+In osu!mania, [HP drain](/wiki/Beatmap/HP_drain_rate) is cut in half, while the timing windows become approximately 40% less strict.
+
+In all [game modes](/wiki/Game_mode) except osu!taiko, the mod grants the player two extra lives in case the [health bar](/wiki/Client/Interface/Health_bar) drops to zero, which will then be refilled instantly.
 
 ## Customisation
 
 ![Easy customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/EZ.png)
 
-- **Extra Lives** (0–10, default 2): The number of extra lives when starting a beatmap.
+- **Extra Lives** (0–10, default: 2): The number of extra lives when starting a beatmap.
+
+Changing the number of extra lives will cause your scores to be **unranked**.
+
+*Note that this setting is only available in osu!, osu!catch and osu!mania. In osu!taiko, this mod cannot be customised.*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

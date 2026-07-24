@@ -20,11 +20,11 @@ tags:
 | :-- | :-- |
 | Acronym | CL |
 | Type | Conversion |
-| Game modes | ![][osu!] ![][osu!taiko] |
-| Score multiplier | 0.96x |
+| Game modes | ![][osu!] ![][osu!taiko] ![][osu!mania] |
+| Score multiplier | `0.96x` |
 | Status | Unranked |
 | Incompatible mods ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
-| Incompatible mods ![][osu!taiko] | None |
+| Incompatible mods ![][osu!taiko] ![][osu!mania] | None |
 
 :::
 
@@ -36,11 +36,22 @@ The **Classic** mod emulates gameplay mechanics from osu!stable that have since 
 
 <!-- TODO probably more detail above -->
 
-When viewed from osu!(lazer) or "Lazer mode" on the website, scores set on osu!stable have this mod enabled with default settings. The mod's unranked status does not affect the scores in this case.
+When viewed from osu!(lazer) or with `Lazer mode` enabled on the website, scores set in osu!(stable) automatically have this mod enabled with its default settings. The mod's unranked status does not affect the scores in this case.
 
-<!-- TODO settings -->
+## Customisation
+
+![Classic customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/CL.png)
+
+- **No slider head accuracy requirement** (default: enabled): [Sliders](/wiki/Gameplay/Hit_object/Slider) will work the same way they used to in osu!(stable), meaning slider heads do not have to be hit accurately.
+- **Apply classic note lock** (default: enabled): [Notelock](/wiki/Gameplay/Judgement/Notelock) will work the same way it used to in osu!(stable).
+- **Always play a slider's tail sample** (default: enabled): A slider's tail sample will always be played, even if it was not hit.
+- **Fade out hit circles earlier** (default: enabled): Hit circles will fade out into a miss, rather than after it.
+- **Classic health** (default: enabled): [Health drain](/wiki/Gameplay/Health) will work similar to how it used to in osu!(stable).
+
+*Note that these settings are only available in osu!. In osu!taiko and osu!mania, this mod cannot be customised.*
 
 <!-- explanation of why this is unranked could be interesting to write about here -clayton -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

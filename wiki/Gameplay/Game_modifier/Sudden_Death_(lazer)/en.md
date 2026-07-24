@@ -23,9 +23,10 @@ tags:
 | Type | Difficulty Increase |
 | Default shortcut key | `S` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | 1.00x |
+| Score multiplier | `1.00x` |
 | Status | Ranked |
-| Incompatible mods | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
+| Incompatible mods ![][osu!] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
+| Incompatible mods ![][osu!taiko] ![][osu!catch] ![][osu!mania] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 
 :::
 
@@ -37,16 +38,20 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Sudden Death** mod triggers a failure on missing any object from a [beatmap](/wiki/Beatmap). Missing a note, a [slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick) and a [spinner](/wiki/Gameplay/Hit_object/Spinner) will make the player fail, however, missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) or not holding through an empty slider path won't trigger the effect, as long as the combo has not been broken.
+The **Sudden Death** mod immediately triggers a failure upon [breaking combo](/wiki/Gameplay/Judgement/Combobreak). In other words, the player will automatically fail when missing a [hit circle](/wiki/Gameplay/Hit_object/Hit_circle), [sliderhead](/wiki/Gameplay/Hit_object/Slider/Sliderhead), [slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick), [reverse arrow](/wiki/Gameplay/Hit_object/Slider/Repeat_slider), [don or kat](/wiki/Gameplay/Hit_object/Hit), [fruit](/wiki/Gameplay/Hit_object/Fruit), large droplet, [hyperfruit](/wiki/Gameplay/Hit_object/Hyperfruit), note or any part of a [hold note](/wiki/Beatmap/Pattern/osu!mania/Hold_note). The player won't fail when missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail), [drumroll](/wiki/Gameplay/Hit_object/Drumroll), [swell](/wiki/Gameplay/Hit_object/Swell), small droplet or a [banana](/wiki/Gameplay/Hit_object/Banana).
 
 ## Customisation
 
 ![Sudden Death customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/SD.png)
 
-- **Also fail when missing a slider tail** (default disabled): Missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) will result in a failure.
-- **Restart on fail** (default disabled): Restart the map after the [health bar](/wiki/Client/Interface/Health_bar) hits the bottom.
+- **Also fail when missing a slider tail** (default: disabled): Missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) will result in a failure. *This option is only available in osu!.*
+- **Restart on fail** (default: disabled): Automatically restart the map after a failure.
 
-*Changing any of the options here doesn't make the mod unrankable.*
+Changing any of these settings will **not** cause your scores to be unranked.
+
+## Trivia
+
+- When using Sudden Death in combination with [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), the extra lives are taken into account, allowing the player to miss a few times before failing.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
