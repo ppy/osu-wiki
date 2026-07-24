@@ -1,46 +1,64 @@
----
-outdated_translation: true
----
+# Benutzerdefinierte Samples
 
-# Custom Sample Overrides
+Zur Zeit können Samplesets pro Beatmap und pro Skin implementiert werden.
 
-## Sample Format
+Der folgende Abschnitt beschreibt welche Dateien ersetzt werden können:
 
-Sie können entweder `.wav` oder `.mp3` verwenden, beachten Sie jedoch folgendes: WAVE Dateien sind in allen Fällen am besten geeignet, da sich die MP3 Dateien nicht richtig wiederholen lassen und man es etwas verspätet (0-20ms) hört. Fügen Sie die Dateien in den jeweiligen Skin bzw. Beatmap Ordner.
+## Normal-Sampleset (laut)
 
-Die folgenden Dateien können ersetzt werden:
+- `normal-hitnormal`
+- `normal-hitwhistle`
+- `normal-hitfinish`
+- `normal-hitclap`
 
-## Normal (laut) Sampleset
+Die drei folgenden Samples sind ergänzend, d. h. beim Anklicken einer whistle werden hitsound und hitwhistle abgespielt.
 
-- normal-hitnormal
-- normal-hitwhistle
-- normal-hitfinish
-- normal-hitclap
-- normal-sliderslide (Schleife)
-- normal-sliderwhistle (Schleife)
-- normal-slidertick
+- `normal-sliderslide` (Schleife)
+- `normal-sliderwhistle` (Schleife)
+- `normal-slidertick`
 
-## Soft Sampleset
+## Soft-Sampleset
 
-- soft-hitnormal
-- soft-hitwhistle
-- soft-hitfinish
-- soft-hitclap
-- soft-sliderslide (Schleife)
-- soft-sliderwhistle (Schleife)
-- soft-slidertick
+- `soft-hitnormal`
+- `soft-hitwhistle`
+- `soft-hitfinish`
+- `soft-hitclap`
 
-## Drum Sampleset
+Die drei folgenden Samples sind ergänzend, d. h. beim Anklicken einer whistle werden hitsound und hitwhistle abgespielt.
 
-- drum-hitnormal
-- drum-hitwhistle
-- drum-hitfinish
-- drum-hitclap
-- soft-sliderslide (Schleife)
-- soft-sliderwhistle (Schleife)
-- soft-slidertick
+- `soft-sliderslide` (Schleife)
+- `soft-sliderwhistle` (Schleife)
+- `soft-slidertick`
 
-## Universal Samples
+## Drum-Sampleset
 
-- spinnerspin
-- spinnerbonus (Ding)
+- `drum-hitnormal`
+- `drum-hitwhistle`
+- `drum-hitfinish`
+- `drum-hitclap`
+
+Die drei folgenden Samples sind ergänzend, d. h. beim Anklicken einer whistle werden hitsound und hitwhistle abgespielt.
+
+- `drum-sliderslide` (Schleife)
+- `drum-sliderwhistle` (Schleife)
+- `drum-slidertick`
+
+## Universelle Samples
+
+- `spinnerspin` (Die Höhe dieses Tons ändert sich während des Spinners. Sie steigt von ca. 500 Hz bis 80000 Hz, wobei das urspüngliche Sample eine Frequenz von 44100 Hz hat.)
+- `spinnerbonus` (Ding)
+- `spinnerbonus-max` (nur [Lazer](/wiki/Client/Release_stream/Lazer))
+
+## Anmerkungen
+
+- Intern wird aufgrund der geringeren Latenz und der Schleifenkompatibilität für alle Hitsounds das Dateiformat `.wav` verwendet.
+  - Du kannst `.wav` oder `.mp3` verwenden, aber beachte Folgendes: `.wav`-Dateien sind in allen Fällen am besten geeignet, denn `.mp3`-Dateien werden manchmal nicht richig in Endlosschleife abgespielt oder haben eine kurze Lücke (0–20ms) zwischen den Wiederholungen.
+- Wenn du sowohl die Normal- als auch die Soft-Samples in einem Skin ersetzen möchtest, kannst du einfach die Präfixe `normal-` und `soft-` weglassen.
+- Lege diese Dateien im Ordner deiner Beatmap oder deines Skins ab. Danach musst du die Beatmap oder den Skin neu laden, damit die Änderungen in Kraft treten!
+
+## Verwandte Arikel
+
+Siehe auch:
+
+- [Sammlung benutzerdefinierter Hitsounds](/wiki/Guides/Custom_hitsound_library)
+- [Skinning/Sounds](/wiki/Skinning/Sounds)
