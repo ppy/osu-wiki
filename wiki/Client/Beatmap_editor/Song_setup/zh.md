@@ -31,13 +31,17 @@
 
 ### 掉血速度 (HP Drain Rate)
 
-*主文章：[血量](/wiki/Beatmap/HP_drain_rate)*
+::: alert-note
+**主文章：** [血量](/wiki/Beatmap/HP_drain_rate)
+:::
 
 掉血速度 (HP) 决定了打击较好时恢复血量及[打击](/wiki/Gameplay/Judgement)不好时损失的血量。在 osu! 与 osu!catch 中，这个值也影响[被动血量](/wiki/Client/Interface/Health_bar)。HP 值越高，恢复血量就越低，损失血量就越高。
 
 ### 圆圈大小 (Circle Size)
 
-*主文章：[圆圈大小 (Circle size)](/wiki/Beatmap/Circle_size)*
+::: alert-note
+**主文章：** [圆圈大小 (Circle size)](/wiki/Beatmap/Circle_size)
+:::
 
 ![多种圆圈大小的概览](img/Circle_sizes.png "多种圆圈大小的概览")
 

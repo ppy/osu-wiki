@@ -122,7 +122,9 @@ Schaltfläche in der Symbolleiste: ![Optionen bei der Schriftgröße](img/font-s
 
 ### Spoiler
 
-*Nicht zu verwechseln mit [Spoilerbox](#spoilerbox).*
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Spoilerbox](#spoilerbox).
+:::
 
 ```
 [spoiler]Text[/spoiler]
@@ -134,7 +136,9 @@ Das Tag wird meistens benutzt, um kritische/sensitive Informationen über eine T
 
 ### Box
 
-*Nicht zu verwechseln mit [Spoilerbox](#spoilerbox).*
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Spoilerbox](#spoilerbox).
+:::
 
 ```
 [box=NAME]
@@ -148,7 +152,10 @@ Der benutzerdefinierte Hyperlink wird durch das Argument `NAME` bestimmt. Die Sp
 
 Das Tag wird meistens benutzt, um große Fluten an Text und Bildern zu verstecken, die den Forumsbeitrag immens verlängern. Am meisten sichtbar in den FAQ oder in [Skin](/wiki/Skinning)-Veröffentlichungsbeiträgen.
 
-*Anmerkung: Die Schaltfläche der BBCode-Box in der Symbolleiste wird "Spoiler" genannt, aber sie erstellt kein `[spoiler]` oder `[spoilerbox]` Tag.*
+::: alert-notice
+**Hinweis**
+Die Schaltfläche der BBCode-Box in der Symbolleiste wird "Spoiler" genannt, aber sie erstellt kein `[spoiler]` oder `[spoilerbox]` Tag.
+:::
 
 Schaltfläche in der Symbolleiste: ![Box-Button](img/spoilerbox.png "Box")
 
@@ -170,7 +177,10 @@ Text
 
 Das Tag `[quote]` wird benutzt, um lange Zitate stilistisch durch Einrückung, Färbung, Fettschrift und einer pinken vertikalen Linie zu formatieren. Der tatsächliche Inhalt des Zitats wird zwischen dem öffnenden und dem schließenden Tag platziert, während das Argument `NAME` den Autor des Zitats spezifiziert (das ist optional). Der Text innerhalb des Zitats stellt Leerzeichen und Zeilenumbrüche dar.
 
-*Hinweis: Das Argument `NAME` muss zwischen Anführungszeichen (`"`) gesetzt werden.*
+::: alert-notice
+**Hinweis**
+Das Argument `NAME` muss zwischen Anführungszeichen (`"`) gesetzt werden.
+:::
 
 Lange Zitate werden typischerweise in formalen Schreiben bei Texten verwendet, die länger als zwei Zeilen sind. Innerhalb der osu!-Foren werden sie allerdings meistens genutzt, um auf den Kommentar eines anderen Nutzers zu antworten. Das kann über den Button `Beitrag in der Antwort zitieren` in der rechten oberen Ecke des entsprechenden Kommentars gemacht werden (unten gezeigt). Dieser Button wird **nur erscheinen, wenn der Mauszeiger in der Nähe ist**.
 
@@ -178,7 +188,9 @@ Zitat-Button: ![Zitat-Button](img/quotereply.png)
 
 ### Inline-Code
 
-*Nicht zu verwechseln mit [Codeblock](#codeblock).*
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Codeblock](#codeblock).
+:::
 
 ```
 [c]Text[/c]
@@ -190,7 +202,9 @@ In den osu!-Foren ist dies nützlich, um zum Beispiel Tastenkürzel oder Buttonb
 
 ### Codeblock
 
-*Nicht zu verwechseln mit [Inline-Code](#inline-code).*
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Inline-Code](#inline-code).
+:::
 
 ```
 [code]
@@ -210,13 +224,19 @@ In den osu!-Foren werden Codeblöcke meistens verwendet, um Quellcode für ein [
 
 Das Tag `[url]` wird benutzt, um normalen Text in einen anklickbaren Hyperlink zu verwandeln.
 
-*Anmerkung: Dieses Tag zu benutzen ist nicht notwendig, sollte man keine benutzerdefinierten Hyperlinks verwenden wollen, da der Forum-Editor richtige URLs ohne das Tag `[url]` automatisch verarbeitet.*
+::: alert-notice
+**Hinweis**
+Dieses Tag zu benutzen ist nicht notwendig, sollte man keine benutzerdefinierten Hyperlinks verwenden wollen, da der Forum-Editor richtige URLs ohne das Tag `[url]` automatisch verarbeitet.
+:::
 
 Benutzer müssen zwei Argumente spezifizieren, um Hyperlinks mit dem Tag `[url]` zu erstellen: die spezifische URL, auf die verlinkt wird, und der verlinkte Text, der angezeigt wird. Das Erste muss im Argument `LINK` ohne Anführungszeichen (`"`) spezifiziert werden. Das Zweite muss zwischen dem öffnenden sowie dem schließenden Tag gesetzt werden. Wenn kein Anzeigetext definiert wird, dann wird der Hyperlink nicht korrekt dargestellt.
 
 `[url]LINK[/url]` wird auch unterstützt, ist aber überflüssig, da normale URLs automatisch formatiert werden.
 
-*Hinweis: Alle URLs — egal, ob mit dem Tag `[url]` genutzt oder als reiner Text — müssen gültig sein und ein Protokoll (`http://`, `https://`, `ftp://`) oder das Präfix `www.` enthalten. Ansonsten funktioniert der Link nicht.*
+::: alert-notice
+**Hinweis**
+Alle URLs — egal, ob mit dem Tag `[url]` genutzt oder als reiner Text — müssen gültig sein und ein Protokoll (`http://`, `https://`, `ftp://`) oder das Präfix `www.` enthalten. Ansonsten funktioniert der Link nicht.
+:::
 
 Schaltfläche in der Symbolleiste: ![Button für die URL](img/url.png "URL")
 
@@ -234,7 +254,10 @@ Es wird empfohlen, sowohl die korrekte Nutzerkennung als auch den Benutzernamen 
 
 Bei der Verwendung des Tags im Forum, für Signaturen oder in Beatmapbeschreibungen kann die osu!-Webseite das Tag auch dann korrekt anzeigen, wenn entweder nur der `BENUTZERNAME` ungültig ist oder die `NUTZER_ID` ungültig ist/fehlt. Wenn man *entweder* nur die Nutzerkennung *oder* den Nutzernamen kennt, kann man so schnell Profillinks einfügen, ohne beide Informationen nachschauen zu müssen.
 
-*Anmerkung: Die Benutzer-ID ist eine Zeichenkette an Nummern, die direkt dem `/users/` in der URL einer osu!-Profilseite folgen.*
+::: alert-notice
+**Hinweis**
+Die Benutzer-ID ist eine Zeichenkette an Nummern, die direkt dem `/users/` in der URL einer osu!-Profilseite folgen.
+:::
 
 ### Formatierte Listen
 
@@ -262,7 +285,10 @@ Wenn das Argument `TYP` spezifiziert wird (der tatsächliche Wert spielt keine R
 
 Das optionale Argument `LISTEN_NAME` fügt einen entsprechenden Titel über der Liste ein. Wird das Argument weggelassen, wird kein Titel angezeigt.
 
-*Hinweis: BBCode-Listen können aufeinander gestapelt und ineinander verschachtelt werden. Manchmal kann das jedoch zu Fehlern in der Formatierung führen.*
+::: alert-notice
+**Hinweis**
+BBCode-Listen können aufeinander gestapelt und ineinander verschachtelt werden. Manchmal kann das jedoch zu Fehlern in der Formatierung führen.
+:::
 
 Schaltflächen in der Symbolleiste: ![Button für Listen](img/list.png "Liste") ![Button für nummerierte Listen](img/list-numbered.png "Nummerierte Liste")
 
@@ -286,7 +312,10 @@ Um einen Link mit dem Tag `[email]` zu kreieren, müssen zwei Argumente definier
 
 Das Tag `[img]` wird benutzt, um Bilder aus dem Internet in osu!-Forumsbeiträgen einzubinden. Für die Benutzung des Tags müssen Nutzer den direkten Bildlink von einer Webseite einbinden (repräsentiert durch das Argument `ADRESSE`). Lokale Dateipfade (z. B. `C:\Users\Name\Pictures\image.jpg`) **werden nicht funktionieren**.
 
-*Hinweis: Die URL einer Webseite ist **nicht** dasselbe wie eine Bildadresse.*
+::: alert-notice
+**Hinweis**
+Die URL einer Webseite ist **nicht** dasselbe wie eine Bildadresse.
+:::
 
 Um an die Bildadresse zu gelangen, muss man auf die Webseite gehen, auf der das Bild ist. Dann muss man mit der Maus über das Bild fahren, einen Rechtsklick auf das Bild machen und `Grafikadresse kopieren` wählen. Anschließend sollte die Adresse zwischen den Tags eingefügt werden.
 
@@ -331,7 +360,10 @@ Eine YouTube-Video-ID ist in der URL eines Videos enthalten und ist die Zeichenk
 
 Das Tag `[audio]` wird benutzt, um einen [HTML5](https://de.wikipedia.org/wiki/HTML5)-Audioplayer einer Audioquelle auf der Webseite einzubinden. Audiodateien können von überall verlinkt werden, solange die Datei von einer angegebenen URL existiert. Lokale Dateipfade (z. B. `C:\Users\Name\Music\audio.mp3`) **werden nicht funktionieren**.
 
-*Vorsicht: Bitte sei dir bewusst, dass nicht alle Filesharing-Dienste das direkte Verlinken von Audiodateien auf Grund von Bedenken wegen Musikpiraterie erlauben. osu! ist nicht verantwortlich für jegliche Urheberrechtsverstöße durch Nutzer.*
+::: alert-caution
+**Vorsicht**
+Bitte sei dir bewusst, dass nicht alle Filesharing-Dienste das direkte Verlinken von Audiodateien auf Grund von Bedenken wegen Musikpiraterie erlauben. osu! ist nicht verantwortlich für jegliche Urheberrechtsverstöße durch Nutzer.
+:::
 
 Um Audiodateien mit Hilfe dieser Methode einzubinden, müssen Nutzer die URL (z. B. `https://www.example.com/example.mp3`) zwischen die beiden Tags `[audio]` setzen.
 

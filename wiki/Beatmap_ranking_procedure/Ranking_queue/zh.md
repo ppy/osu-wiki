@@ -6,6 +6,8 @@ tags:
   - 过审队列
   - 上架队列
   - 上架预计时间
+outdated_translation: true
+outdated_since: 55251cc0edf3384a252501990da9c48370a8748f
 ---
 
 # 谱面上架队列

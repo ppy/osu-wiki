@@ -32,7 +32,9 @@ S'il n'y a pas de lobby ouvert, attendez la saison suivante. La pause entre les 
 
 ## Saisons des Spotlights
 
-*Pour la liste des saisons de Spotlights, voir : [Saisons](Seasons)*
+::: alert-note
+**Remarque** : Pour la liste des saisons de Spotlights, voir [Saisons](Seasons)
+:::
 
 Le projet Beatmap Spotlights est actuellement organisé en saisons prédéfinies. Chaque saison se compose d'un pool de beatmaps sélectionnés et d'une ligue saisonnière compétitive pour l'ensemble de la communauté.
 

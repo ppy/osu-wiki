@@ -12,7 +12,7 @@ It is worth noting however that the contents of all the Video Game Packs, Anime 
 
 ## Skill
 
-**Skill medals** are medals awarded upon rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/Beatmapping/Combo) milestones, by attaining certain ranks in the [global performance point leaderboard](https://osu.ppy.sh/rankings/osu/performance), or by achieving either a clear or a [full combo](/wiki/Gameplay/Full_combo) on any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap within some certain [star rating](/wiki/Beatmap/Star_rating) ranges.
+**Skill medals** are medals awarded upon rounding off various skill-based accomplishments, be it by getting into certain [combo](/wiki/Gameplay/Combo_(score_multiplier)) milestones, by attaining certain ranks in the [global performance point leaderboard](https://osu.ppy.sh/rankings/osu/performance), or by achieving either a clear or a [full combo](/wiki/Gameplay/Full_combo) on any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap within some certain [star rating](/wiki/Beatmap/Star_rating) ranges.
 
 ## Dedication
 
@@ -20,7 +20,9 @@ It is worth noting however that the contents of all the Video Game Packs, Anime 
 
 ## Mod Introduction
 
-*See also: [Game modifier](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**See also:** [Game modifier](/wiki/Gameplay/Game_modifier)
+:::
 
 **Mod Introduction medals** are medals awarded upon clearing any [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), or [Approved](/wiki/Beatmap/Category#approved) beatmap with their corresponding [game modifier (mod)](/wiki/Gameplay/Game_modifier). These medals are meant to encourage newer players to try out each mod and explore what the game has to offer. Do note, however, that if players play with multiple game modifiers at a time, the player is **not** eligible to earn *any* of the game modifier medals for that play.
 

@@ -17,7 +17,7 @@ outdated_translation: true
 
 ## Skill
 
-Медали группы **Skill** присуждаются за достижения, связанные с различными навыками: набор определённого [комбо](/wiki/Beatmapping/Combo), достижение определённого ранга в [глобальном ранкинге по PP](https://osu.ppy.sh/rankings/osu/performance), прохождение или [полное комбо](/wiki/Gameplay/Full_combo) на любой [квалифицированной](/wiki/Beatmap/Category#qualified), [рейтинговой](/wiki/Beatmap/Category#ranked) или [одобренной](/wiki/Beatmap/Category#approved) карте, имеющей определённое число [звёзд](/wiki/Beatmap/Star_rating).
+Медали группы **Skill** присуждаются за достижения, связанные с различными навыками: набор определённого [комбо](/wiki/Gameplay/Combo_(score_multiplier)), достижение определённого ранга в [глобальном ранкинге по PP](https://osu.ppy.sh/rankings/osu/performance), прохождение или [полное комбо](/wiki/Gameplay/Full_combo) на любой [квалифицированной](/wiki/Beatmap/Category#qualified), [рейтинговой](/wiki/Beatmap/Category#ranked) или [одобренной](/wiki/Beatmap/Category#approved) карте, имеющей определённое число [звёзд](/wiki/Beatmap/Star_rating).
 
 ## Dedication
 
@@ -25,7 +25,9 @@ outdated_translation: true
 
 ## Mod Introduction
 
-*См. также: [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**См. также:** [Игровой модификатор](/wiki/Gameplay/Game_modifier)
+:::
 
 Медали группы **Mod Introduction** могут быть получены за прохождение любой [квалифицированной](/wiki/Beatmap/Category#qualified), [рейтинговой](/wiki/Beatmap/Category#ranked) или [одобренной](/wiki/Beatmap/Category#approved) карты с соответствующим [игровым модификатором (модом)](/wiki/Gameplay/Game_modifier). Эти медали рассчитаны на то, чтобы смотивировать новых игроков попробовать каждый мод и поближе познакомиться с игрой. Стоит отметить, что при игре с несколькими модами одновременно игроку не выдадут **никакую** медаль из этой категории.
 

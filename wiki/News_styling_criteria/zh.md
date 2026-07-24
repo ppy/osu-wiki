@@ -1,6 +1,8 @@
 # 新闻稿风格规范
 
-*关于 wiki 文章的相关规范，请参见：[文章风格规范](/wiki/Article_styling_criteria)*
+::: alert-note
+**备注：** 关于 wiki 文章的相关规范，请参见[文章风格规范](/wiki/Article_styling_criteria)
+:::
 
 **新闻稿**（或称**新闻文章**）的运行机制与 osu! wiki 的主要部分略有不同，但遵循相似的原则。撰写新闻稿时，需要仔细关注以下几个关键要素和格式。
 
@@ -92,7 +94,9 @@ Markdown 的使用遵循 wiki 的[文章风格规范](/wiki/Article_styling_crit
 
 ### 图片
 
-*关于图片格式和质量标准，请参见：[文章风格规范 § 格式与质量](/wiki/Article_styling_criteria/Formatting#格式和质量)*
+::: alert-note
+**备注：** 关于图片格式和质量标准，请参见[文章风格规范 § 格式与质量](/wiki/Article_styling_criteria/Formatting#格式和质量)
+:::
 
 新闻稿中引用的图片必须要么托管在 osu! 服务器上（即 `assets.ppy.sh`），要么存放在 `osu-wiki` GitHub 仓库中。
 

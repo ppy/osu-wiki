@@ -54,7 +54,9 @@
 
 ### Названия сложностей
 
-*Основная статья: [Названия сложностей](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Основная статья:** [Названия сложностей](/wiki/Ranking_criteria/Difficulty_naming)
+:::[Названия сложностей](/wiki/Ranking_criteria/Difficulty_naming)
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal

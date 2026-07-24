@@ -28,8 +28,13 @@ tags:
 
 :::
 
-*Para la versión de osu!stable de este artículo, véase: [Perfect (mod)](/wiki/Gameplay/Game_modifier/Perfect)*\
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la versión de osu!stable de este artículo, véase [Perfect (mod)](/wiki/Gameplay/Game_modifier/Perfect)
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Perfect** reinicia automáticamente el [beatmap](/wiki/Beatmap) si el jugador ya no puede conseguir un grado SS. Esto incluye fallar una nota, un [spinner](/wiki/Gameplay/Hit_object/Spinner), una [marca de un slider](/wiki/Gameplay/Hit_object/Slider/Slider_tick), una [cola de un slider](/wiki/Gameplay/Hit_object/Slider/Slidertail), o recibir algo que no sea un GREAT de cualquier objeto.
 
