@@ -13,6 +13,6 @@ stub: true
 - [触摸设备](/wiki/Gameplay/Input_device/Touch_device)
 - [数位板](/wiki/Gameplay/Input_device/Graphics_tablet)
 - [Wiimote](/wiki/Gameplay/Input_device/Wiimote)
-- [鼓控制器/实体鼓](/wiki/Gameplay/Input_device/Drum_controller)
+- [太鼓控制器](/wiki/Gameplay/Input_device/Drum_controller)
 - [跳舞毯](/wiki/Gameplay/Input_device/Dance_pad)
 - [Beatmania 控制器](/wiki/Gameplay/Input_device/Beatmania_controller)

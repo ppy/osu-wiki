@@ -12,4 +12,4 @@ Beatmania 控制器是一种兼容于 *[Beatmania](https://www.qiuwenbaike.cn/wi
 
 ## 输入方式
 
-有 PS2 (Playstation 2) 版本的 Beatmania 控制器的玩家，可以通过 USB 转接头连接到电脑上并绑定按键。如果是持有 *DJ DAO IIDX* 版本的控制器的玩家，可以直接插到电脑上的 USB 插孔并绑定按键。
+有 PS2 (Playstation 2) 版本的 Beatmania 控制器的玩家，可以通过 USB 转接头连接到电脑上并绑定按键。如果是持有 *DJ DAO IIDX* 版本的控制器的玩家，可以直接插到电脑上的 USB 接口并绑定按键。
