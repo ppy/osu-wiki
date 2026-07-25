@@ -6,7 +6,7 @@ stub: true
 
 ![](img/beatmania-controller.jpg "7 键 Beatmania 控制器")
 
-Beatmania 控制器是一种兼容于 *[Beatmania](https://zh.wikipedia.org/wiki/Beatmania)* 游戏系列的控制器。
+Beatmania 控制器是一种兼容于 *[Beatmania](https://www.qiuwenbaike.cn/wiki/%E7%8B%82%E7%83%AD%E8%8A%82%E6%8B%8D)* 系列游戏的控制器。
 
 因其性质，Beatmania 控制器通常在 [osu!mania](/wiki/Game_mode/osu!mania) 作为输入装置。
 
