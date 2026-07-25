@@ -6,9 +6,17 @@ tags:
 
 # 倒數計時 (Countdown)
 
-*關於賽事計時器，參見：[賽事管理指令](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)*\
-*關於倒數計時的規定，參見：[Ranking Criteria (RC) § General § Guidelines](/wiki/Ranking_criteria#guidelines)*\
-*參見：[Offset (解疑)](/wiki/Offset)*
+::: alert-note
+**筆記：**關於賽事計時器，參見：[賽事管理指令](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+:::
+
+::: alert-note
+**筆記:**關於倒數計時的規定，參見：[Ranking Criteria (RC) § General § Guidelines](/wiki/Ranking_criteria#guidelines)
+:::
+
+::: alert-note
+**參見：** [Offset (解疑)](/wiki/Offset)
+:::
 
 在一張[圖譜 (beatmap)](/wiki/Beatmap)的開頭，可能會出現**倒數計時**。這對於會突然開始的歌曲很有用，但大多數圖譜不會將它啟用。倒數計時可以在[歌曲設置 (Song Setup)](/wiki/Client/Beatmap_editor/Song_setup)頁面裡的 `設計 (Design)` 標籤頁裡開啟或關閉，但在 [osu!taiko](/wiki/Game_mode/osu!taiko) 圖譜則無法啟用。
 
