@@ -2,7 +2,7 @@
 stub: true
 ---
 
-# 实体鼓
+# 太鼓控制器
 
 ![](img/taiko-drum.jpg "实体太鼓控制器")
 
