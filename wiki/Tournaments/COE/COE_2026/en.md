@@ -196,7 +196,7 @@ Stichting CAVOE EVENTS reserves the right to modify this rulebook without notice
 
 The tournament is split into 3 stages: qualifiers, play-in bracket and final bracket.
 
-All bracket matches will be direct 1v1 best-of-9 matches, except for the Grand Final and 3rd-place matches that will be best of 11. 
+All bracket matches will be direct 1v1 best-of-9 matches, except for the Semifinals, Grand Final and 3rd-place matches that will be best of 11. 
 
 Freeplay and freemod are not enabled throughout the tournament.
 
