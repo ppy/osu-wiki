@@ -5,7 +5,9 @@ outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
 
 # Account-Support-Team
 
-*Für ein Team, welches bestimmte Subforen moderiert, siehe: [Technisches Support-Team](/wiki/People/Technical_Support_Team)*
+::: alert-note
+**Anmerkung:** Für ein Team, welches bestimmte Subforen moderiert, siehe [Technisches Support-Team](/wiki/People/Technical_Support_Team)
+:::
 
 **Das Account-Support-Team** verwaltet Benutzeraccounts und bearbeitet Beschwerden zu Stummschaltungen sowie Einschränkungen.
 
@@ -18,7 +20,9 @@ Es dauert normalerweise einige Tage für den Support, die E-Mail zu bearbeiten. 
 ## Rollen und Aufgaben
 
 *Hauptartikel: [Hilfecenter](/wiki/Help_centre)*\
-*Siehe auch: [Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions)*
+::: alert-note
+**Siehe auch:** [Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions)
+:::
 
 Du solltest das Team zu Account-bezogenen Themen kontaktieren, über die du keinen Einfluss hast. Bitte denke daran, so viel Kontext zu deinem Problem wie möglich zu schildern und die E-Mail von deiner mit osu! assoziierten E-Mail-Adresse zu senden.
 
@@ -37,7 +41,10 @@ Du solltest das Team zu Account-bezogenen Themen kontaktieren, über die du kein
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Anmerkung: Um einen extremen Fall von Fehlverhalten oder sexuellem Missbrauch von jeglichem Benutzer, ebenso Moderatoren, zu melden, siehe [Missbrauch melden](/wiki/Reporting_bad_behaviour/Abuse).*
+::: alert-notice
+**Hinweis**
+Um einen extremen Fall von Fehlverhalten oder sexuellem Missbrauch von jeglichem Benutzer, ebenso Moderatoren, zu melden, siehe [Missbrauch melden](/wiki/Reporting_bad_behaviour/Abuse).
+:::
 
 - Bedenken über das Fehlverhalten eines Moderators.
 - Bedenken über einen Moderator, der die [Richtlinien für Mitwirkende](/wiki/Rules/Contributor_code_of_conduct) bricht.

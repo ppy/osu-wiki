@@ -28,7 +28,9 @@ Casi todas las canciones se pueden dividir en secciones de diferente tempo, y el
 ## Proceso de temporización
 
 *Artículo principal: [Cómo temporizar canciones](/wiki/Guides/How_to_time_songs)*\
-*Véase también: [Beatmap editor/Timing](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**Véase también:** [Beatmap editor/Timing](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 ### BPM único
 

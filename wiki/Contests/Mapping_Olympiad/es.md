@@ -15,7 +15,10 @@
 
 ## Reglamento
 
-*Nota: Ten en cuenta que el reglamento puede estar sujeto a cambios dependiendo de las restricciones de cada edición.*
+::: alert-notice
+**Aviso**
+Ten en cuenta que el reglamento puede estar sujeto a cambios dependiendo de las restricciones de cada edición.
+:::
 
 - Cada beatmap enviado debe cumplir con los [criterios de clasificación](/wiki/Ranking_criteria). Los envíos que incumplan los criterios de clasificación estarán sujetos a sanciones, que irán desde la resta de puntos hasta la descalificación, según la gravedad de la infracción.
 - Los beatmaps enviados no deben superar los 15 MB.

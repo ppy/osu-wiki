@@ -5,7 +5,10 @@ outdated_since: 4e5dda18e70dc4ddb057c93d2ebf1e341996b24f
 
 # Comment démarrer un projet de beatmap
 
-*Remarque : Cet article concerne la section du forum [Beatmap Projects](https://osu.ppy.sh/community/forums/53) et la manière de l'aborder. Assurez-vous de lire les [règles du forum](https://osu.ppy.sh/community/forums/topics/453937) avant de poster vos messages.*
+::: alert-notice
+**Note**
+Cet article concerne la section du forum [Beatmap Projects](https://osu.ppy.sh/community/forums/53) et la manière de l'aborder. Assurez-vous de lire les [règles du forum](https://osu.ppy.sh/community/forums/topics/453937) avant de poster vos messages.
+:::
 
 ## Créer un titre de fil de discussion informatif
 

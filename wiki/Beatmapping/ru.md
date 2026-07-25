@@ -14,7 +14,9 @@
 
 ### Song Setup
 
-*Основная статья: [Настройки карты](/wiki/Client/Beatmap_editor/Song_setup)*
+::: alert-note
+**Основная статья:** [Настройки карты](/wiki/Client/Beatmap_editor/Song_setup)
+:::[Настройки карты](/wiki/Client/Beatmap_editor/Song_setup)
 
 С этого окна начинается создание новой [сложности](/wiki/Beatmap/Difficulty) для [карты](/wiki/Beatmap).
 
@@ -24,7 +26,9 @@
 
 ### Timing
 
-*Основная статья: [Тайминг](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**Основная статья:** [Тайминг](/wiki/Client/Beatmap_editor/Timing)
+:::[Тайминг](/wiki/Client/Beatmap_editor/Timing)
 
 Настройки тайминга — это принципы расположения нот во времени. Они задаются самой песней и подбираются таким образом, чтобы игровые объекты можно было расставлять под звуки, из которых она состоит.
 
@@ -34,7 +38,9 @@
 
 ### Compose
 
-*Основная статья: [Расстановка игровых объектов](/wiki/Client/Beatmap_editor/Compose)*
+::: alert-note
+**Основная статья:** [Расстановка игровых объектов](/wiki/Client/Beatmap_editor/Compose)
+:::[Расстановка игровых объектов](/wiki/Client/Beatmap_editor/Compose)
 
 На вкладке `Compose` в редакторе карт вы будете проводить бо̀льшую часть времени, занимаясь расстановкой игровых объектов и добавляя [хитсаунды](/wiki/Beatmapping/Hitsound).
 

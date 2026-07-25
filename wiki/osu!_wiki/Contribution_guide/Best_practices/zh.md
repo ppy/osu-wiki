@@ -24,7 +24,9 @@
 
 ## 做出改动
 
-*参见：[分支工作流程 | Atlassian Git 教程](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
+::: alert-note
+**参见：** [分支工作流程 | Atlassian Git 教程](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+:::
 
 在你的 osu! wiki 分支里，你可以自由修改并保存文件。**提交 (Commits)** 是仓库的独立“存档点”。**分支 (Branches)** 是能让你在仓库的多个版本之间切换的工作区。为了确保你的工作流程简单，保持 wiki 的历史记录整洁，请遵守以下准则：
 

@@ -6,7 +6,9 @@ outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
 
 # Équipe de support aux comptes
 
-*Pour une équipe qui modère certains sous-forums, voir : [Équipe de support technique](/wiki/People/Technical_Support_Team)*
+::: alert-note
+**Remarque** : Pour une équipe qui modère certains sous-forums, voir [Équipe de support technique](/wiki/People/Technical_Support_Team)
+:::
 
 **L'équipe de support aux comptes** est un groupe de personnes qui administre les comptes d'utilisateurs, et qui accepte les appels de silence et de restriction.
 
@@ -19,7 +21,9 @@ Il faut généralement quelques jours pour que le service de support réponde à
 ## Rôle et missions
 
 *Article principal : [Centre d'aide](/wiki/Help_centre)*\
-*Voir également : [Restrictions relatives aux comptes](/wiki/Help_centre/Account_restrictions)*
+::: alert-note
+**Voir également** : [Restrictions relatives aux comptes](/wiki/Help_centre/Account_restrictions)
+:::
 
 Vous devez contacter cette équipe pour toute question relative à votre compte et indépendante de votre volonté. N'oubliez pas de fournir le plus de détails possible sur votre problème et d'envoyer un courriel à partir de l'adresse associée à votre compte osu!.
 
@@ -38,7 +42,10 @@ Vous devez contacter cette équipe pour toute question relative à votre compte 
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Note : Pour signaler un cas extrême de mauvais comportement ou d'abus sexuel de la part d'un utilisateur, y compris un modérateur, voir : [signaler un abus](/wiki/Reporting_bad_behaviour/Abuse).*
+::: alert-notice
+**Note**
+Pour signaler un cas extrême de mauvais comportement ou d'abus sexuel de la part d'un utilisateur, y compris un modérateur, voir : [signaler un abus](/wiki/Reporting_bad_behaviour/Abuse).
+:::
 
 - Préoccupations concernant le mauvais comportement d'un modérateur.
 - Préoccupations concernant un modérateur qui enfreint [le code de conduite des contributeurs](/wiki/Rules/Contributor_code_of_conduct).

@@ -12,7 +12,9 @@ tags:
 
 # Fingerlock
 
-*No debe confundirse con [Notelock](/wiki/Gameplay/Judgement/Notelock) o [Mind block](/wiki/Gameplay/Mind_block).*
+::: alert-note
+**Nota:** No debe confundirse con [Notelock](/wiki/Gameplay/Judgement/Notelock) o [Mind block](/wiki/Gameplay/Mind_block).
+:::
 
 **Fingerlock** (alternativamente escrito como `finger-lock` o `finger lock`) es un término usado para describir la sensación de perder momentáneamente el control de los dedos mientras se juega osu!. Aunque no es un término específico de osu!, los jugadores lo usan mucho para expresar su frustración en las jugadas en las que un jugador sabe cuándo y dónde pulsar un [objeto](/wiki/Gameplay/Hit_object), pero inexplicablemente no pulsa la tecla, lo que crea una sensación de que el dedo está «bloqueado» en su sitio. De ahí el nombre «fingerlock».
 
@@ -20,7 +22,10 @@ En ocasiones, se puede hacer referencia al «fingerlock» como `wrist lock`, `wr
 
 ## Causas
 
-*Precaución: El fingerlock **no** es una condición médica. Cualquier supuesta investigación o información comúnmente entendida relativa a la comunidad de osu! en cuanto a su causa y/o efectos a largo plazo **no se considera científica**. La comunidad de osu! no está calificada para dar consejos médicos; no uses la osu! wiki para diagnosticar condiciones médicas.*
+::: alert-caution
+**Precaución**
+El fingerlock **no** es una condición médica. Cualquier supuesta investigación o información comúnmente entendida relativa a la comunidad de osu! en cuanto a su causa y/o efectos a largo plazo **no se considera científica**. La comunidad de osu! no está calificada para dar consejos médicos; no uses la osu! wiki para diagnosticar condiciones médicas.
+:::
 
 El fingerlock es una sensación común que les sucede a muchos jugadores veteranos de osu!. El consenso común entre la mayoría de los jugadores es que el fingerlock generalmente no es motivo de alarma. Sin embargo, si un jugador experimenta un fingerlock persistente o doloroso con frecuencia, se recomienda que ese jugador consulte a un profesional médico, ya que puede ser el resultado de una condición de salud subyacente.
 

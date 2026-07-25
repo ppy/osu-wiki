@@ -49,7 +49,9 @@ Desactiva el anclaje de la rejilla y muévelos hacia dentro poco a poco hasta qu
 
 ## Blankets
 
-*Página principal: [Combos blanket](/wiki/Beatmapping/Mapping_techniques/Formations#combos-blanket)*
+::: alert-note
+**Página principal:** [Combos blanket](/wiki/Beatmapping/Mapping_techniques/Formations#combos-blanket)
+:::
 
 ![Imagen de ejemplo de un blanket (con un círculo)](img/MGS_blankets.png)
 

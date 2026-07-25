@@ -1,6 +1,8 @@
 # Technical Support Team
 
-*Not to be confused with [Account support team](/wiki/People/Account_support_team).*
+::: alert-note
+**Note:** Not to be confused with [Account support team](/wiki/People/Account_support_team).
+:::
 
 The **Technical Support Team** (formerly *Support Team*, also known as *Support Team Redux*) is a group of osu! staff members focused on forum moderation on the following subforums: [Development](https://osu.ppy.sh/community/forums/2), [Feature Requests](https://osu.ppy.sh/community/forums/4), and [Help](https://osu.ppy.sh/community/forums/5).
 
@@ -15,7 +17,10 @@ If someone needs any assistance in the aforementioned subforums, members of this
 
 ## Team members
 
-*Note: All Technical Support Team members speak English in addition to the language(s) listed below unless noted otherwise.*
+::: alert-notice
+**Notice**
+All Technical Support Team members speak English in addition to the language(s) listed below unless noted otherwise.
+:::
 
 The [Technical Support Team group page](https://osu.ppy.sh/groups/22) lists all of the team members.
 
