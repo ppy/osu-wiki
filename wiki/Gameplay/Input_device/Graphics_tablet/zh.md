@@ -6,7 +6,7 @@ stub: true
 
 *另见: [玩法](/wiki/Gameplay/Play_style)*
 
-![](img/tablet.jpg "绘图板")
+![](img/tablet.jpg "数位板")
 
 ***数位板***，原先被用于电绘及设计领域，但在 [osu!](/wiki/Game_mode/osu!) 中也被当作控制光标的输入装置。在 osu! 中是最常见的游玩风格。
 
