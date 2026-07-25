@@ -2,7 +2,7 @@
 stub: true
 ---
 
-# 触摸屏
+# 触控设备
 
 *另见: [玩法](/wiki/Gameplay/Play_style)*
 
