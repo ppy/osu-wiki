@@ -57,7 +57,7 @@ Aspire 6 is run by various members of the [osu! team](/wiki/People/osu!_team).
 
 ## Registrations
 
-This table is updated once every few days. Last update was on 25 July 2026.
+This table was last updated on 25 July 2026.
 
 | Team | Members |
 | :-- | :-- |
