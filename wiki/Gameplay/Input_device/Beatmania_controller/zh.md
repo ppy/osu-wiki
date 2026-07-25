@@ -4,7 +4,7 @@ stub: true
 
 # Beatmania 控制器
 
-![](img/beatmania-controller.jpg "7键 Beatmania 控制器")
+![](img/beatmania-controller.jpg "7 键 Beatmania 控制器")
 
 Beatmania 控制器是一种兼容于 *[Beatmania](https://zh.wikipedia.org/wiki/Beatmania)* 游戏系列的控制器。
 
