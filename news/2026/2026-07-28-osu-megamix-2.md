@@ -9,7 +9,7 @@ Out with the old, in with the new. A fitting tribute to osu!'s most influential 
 
 ![](/wiki/shared/news/2026-07-28-osu-megamix-2/banner.jpg)
 
-It has been no less than 10 years ever since the first [osu! MEGAMIX](https://osu.ppy.sh/beatmapsets/399575) was released, all the way, all the way back on the 1st of January 2016. While the game has gone a long way since then, many osu! veterans still remember the cultural significance the map had in the community.
+It has been no less than 10 years ever since the first [osu! MEGAMIX](https://www.youtube.com/watch?v=fO8vJDjCuw4&feature=youtu.be) was released, all the way back on the 31st of December 2015. While the game has gone a long way since then, many osu! veterans still remember the cultural significance the video had in the community.
 
 As an extra surprise, those users who travelled all the way to the Netherlands to take part in this year's [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event) are currently receiving the news at the same time this post was published. We can only hope you enjoy the news as much as you'll enjoy the event!
 
@@ -23,11 +23,11 @@ Now, let's go over a brief retrospective about this project's origins, the ever-
 
 ## The birth of a legend
 
-It all began around 2015 where a user known as [mrspazzaneve17](https://osu.ppy.sh/users/3516241) (now known as Spazza17) began sinking their free time into the game. With the experience gained from creating remixes such as the well-known [The Sounds of rrtyui](https://www.youtube.com/watch?v=M2fcY-835aM) (which was [Loved](https://osu.ppy.sh/beatmapsets/482177#osu/1028903) fairly recently), they set their sights on creating a mega mashup of osu!'s most popular songs at the time by the end of the year. The mix caught the attention of [Exile-](https://osu.ppy.sh/users/2559349), who then released a [beatmap](https://osu.ppy.sh/beatmapsets/399575#osu/909391) right the next day on January 1st, 2016.
+It all began around 2015 where a user known as [mrspazzaneve17](https://osu.ppy.sh/users/3516241) (now known as Spazza17) began sinking their free time into the game. With the experience gained from creating remixes such as the well-known [The Sounds of rrtyui](https://www.youtube.com/watch?v=M2fcY-835aM) (which was [Loved](https://osu.ppy.sh/beatmapsets/482177#osu/1028903) fairly recently), they set their sights on creating a mega mashup of osu!'s most popular songs at the time by the end of the year. The mix caught the attention of [Exile-](https://osu.ppy.sh/users/2559349), who then submitted a [beatmap](https://osu.ppy.sh/beatmapsets/399575#osu/909391) right the next day on January 1st, 2016.
 
-There was but one major distinction between this compilation and other mixes released at the time: any anime opening and mainstream music in osu! at the time were intentionally avoided. Despite having what one would assume to be a handicap, the remix and beatmap alike were able to stand on their own two feet, thus slowly becoming the cultural phenomenon they are known for today! Not only did the remix become a hit within the community, but also outside of it! This is best exemplified by [The8BitDrummer](https://www.youtube.com/@The8BitDrummer)'s [drum cover](https://www.youtube.com/embed/HgJ_F9Ddq2s), which was released later that year.
+There was but one major distinction between this compilation and other mixes released at the time: any anime opening and mainstream music in osu! were intentionally avoided. Despite having what one would assume to be a handicap, the remix and beatmap alike were able to stand on their own two feet, thus slowly becoming the cultural phenomenon they are known for today! Not only did the remix become a hit within the community, but also outside of it! This is best exemplified by [The8BitDrummer](https://www.youtube.com/@The8BitDrummer)'s [drum cover](https://www.youtube.com/embed/HgJ_F9Ddq2s), which was released later that year.
 
-In retrospective, it may be easy to take the impact this had on the community by granted. Nowadays, most users are at the very least familiarised with its existence or the history behind many of its scores. But this was arguably one of the most influential maps of the year, the other one being [osu!memories](https://osu.ppy.sh/beatmapsets/532522) made by SakiZ and mapped shortly after by [DeRandom Otaku](https://osu.ppy.sh/users/5156153) which was in part inspired by the first MEGAMIX! Little did we know back then that both compilations would quickly become osu!'s most influential and popular song compilations and beatmaps alike to date.
+In retrospective, it may be easy to take the impact this had on the community by granted. Nowadays, most users are at the very least familiarised with its existence. But this was arguably one of the most influential mixes of the year, the other one being [osu!memories](https://www.youtube.com/watch?v=HoHzRCksdnwmade) by SakiZ and [mapped](https://osu.ppy.sh/beatmapsets/532522) shortly after by [DeRandom Otaku](https://osu.ppy.sh/users/5156153) which was in part inspired by the first MEGAMIX! Little did we know back then that both compilations would quickly become osu!'s most influential and popular song compilations and beatmaps alike to date.
 
 Nowadays, the beatmap continues to garner a lot of attention from players. Most recently, [mrekk](https://osu.ppy.sh/users/7562902) managed to achieve the first ever [HDDT full clear](https://osu.ppy.sh/scores/2736364778) back in 2024, thus becoming the only player to date to achieve such a feat in 10 years since the beatmap was officially ranked!
 
@@ -51,6 +51,6 @@ We have only managed to get this far as a community thanks to everyone's collect
 
 But don't take it from us, take it from the man himself: Spazza17!
 
-*"Don't forget: you're here forever. And as a wise man once said: please enjoy game."*
+*"Don't forget: you're here forever. And as a wise man once said: plz enjoy game."*
 
 —Spazza17 & RandomeLoL
