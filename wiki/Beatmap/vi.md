@@ -71,7 +71,7 @@ osu!direct là danh sách beatmap được tích hợp vào trong client, giúp 
 
 *Bài viết chính: [Gói beatmap](Packs)*
 
-Các beatmap được xếp hạng trong cùng tháng, hoặc có cùng chủ đề (ví du: cùng người làm nhạc), được đóng gói để tải về theo số lượng lớn và đưa vào lưu trữ. Chúng được gọi là gói beatmap. Danh sách đầy đủ các gói beatmap chính thức được cung cấp trên [trang web](https://osu.ppy.sh/beatmaps/packs).
+Các beatmap được xếp hạng trong cùng tháng, hoặc có cùng chủ đề (ví dụ: cùng người làm nhạc), được đóng gói để tải về theo số lượng lớn và đưa vào lưu trữ. Chúng được gọi là gói beatmap. Danh sách đầy đủ các gói beatmap chính thức được cung cấp trên [trang web](https://osu.ppy.sh/beatmaps/packs).
 
 ### Nguồn không chính thống
 
