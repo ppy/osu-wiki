@@ -14,7 +14,10 @@ A **beatmap** (sometimes called *beatmapset*) is a set of game levels ([difficul
 - [storyboard](/wiki/Storyboard) with motion graphics and special effects, serving as a background story or theme for the song (optional).
 - [custom skin](/wiki/Skinning), which changes the appearance of interface and gameplay elements (optional).
 
-*Note: Some of the visual and aural features of a beatmap can be disabled through the [visual settings](/wiki/Client/Interface/Visual_settings) overlay.*
+::: alert-notice
+**Notice**
+Some of the visual and aural features of a beatmap can be disabled through the [visual settings](/wiki/Client/Interface/Visual_settings) overlay.
+:::
 
 ## Difficulty
 
@@ -105,12 +108,16 @@ The chart system has later evolved into the [Beatmap Spotlights](/wiki/Beatmap_S
 
 ### Beatmap contests
 
-*Main page: [Contests](/wiki/Contests)*
+::: alert-note
+**Main page:** [Contests](/wiki/Contests)
+:::
 
 osu! community regularly runs different contests in order to promote creativity and award mappers who do their best. Contests range from small competitions, which are made inside local communities, to large ones that are conducted on a global scale and have breathtaking prizes. Winners often receive awards in form of [osu!supporter tags](/wiki/osu!supporter) and a themed [profile badge](/wiki/Community/Profile_badge).
 
 ### Featured Artists
 
-*Main page: [Featured Artists](/wiki/People/Featured_Artists)*
+::: alert-note
+**Main page:** [Featured Artists](/wiki/People/Featured_Artists)
+:::
 
 Featured Artists is a community program by the [osu! team](/wiki/People/osu!_team) that focuses on licensing music by various artists for osu! and making it available for mapping. The website's [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist and provides pre-timed templates for mapping.

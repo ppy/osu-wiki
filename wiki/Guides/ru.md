@@ -4,7 +4,9 @@
 
 ## Маппинг
 
-*Основная статья: [Маппинг](/wiki/Beatmapping)*
+::: alert-note
+**Основная статья:** [Маппинг](/wiki/Beatmapping)
+:::[Маппинг](/wiki/Beatmapping)
 
 - [Гайд по маппингу в osu!mania](osu!mania_mapping_guide)
 - [Добавление нестандартных хитсаундов](Using_custom_hitsounds)
@@ -23,7 +25,9 @@
 
 ## Моддинг
 
-*Основная статья: [Моддинг](/wiki/Modding)*
+::: alert-note
+**Основная статья:** [Моддинг](/wiki/Modding)
+:::[Моддинг](/wiki/Modding)
 
 - [Как найти моды на свою карту](Getting_your_map_modded)
 - [Руководство по моддингу в osu!mania](osu!mania_modding_guide)
@@ -36,7 +40,9 @@
 
 ## Создание скинов
 
-*Основная статья: [Руководства и проекты по скиннингу](/wiki/Skinning/Guides_and_important_threads)*
+::: alert-note
+**Основная статья:** [Руководства и проекты по скиннингу](/wiki/Skinning/Guides_and_important_threads)
+:::[Руководства и проекты по скиннингу](/wiki/Skinning/Guides_and_important_threads)
 
 - [Как сделать правильно центрированные спиннеры в скинах](Making_properly_centred_spinners)
 - [Как удалить простой фон на картинке](Cropping_with_simple_backgrounds)

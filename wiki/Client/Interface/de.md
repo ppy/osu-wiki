@@ -60,7 +60,9 @@ Nach dem Drücken von `Play` im Hauptmenü kannst du zwischen 3 Optionen auswäh
 
 ### Mehrspieler-Lobby
 
-*Hauptseite: [Mehrspieler](/wiki/Client/Interface/Multiplayer)*
+::: alert-note
+**Hauptseite:** [Mehrspieler](/wiki/Client/Interface/Multiplayer)
+:::
 
 ![](img/multi-lobby-DE.jpg "Mehrspieler-Lobby")
 
@@ -219,7 +221,10 @@ Bewege deinen Cursor über das Modsymbol, um dir die Beschreibung dazu anzeigen 
 
 Klicke auf den Button `Random` oder drücke `F2`, damit das Spiel **zufällig durch alle Beatmaps blättert und eine davon auswählt.**
 
-*Anmerkung: Du kannst `Shift` und den Button `Random` oder `F2` drücken, um zu der vorher gewählten Beatmap zurückzukehren.*
+::: alert-notice
+**Hinweis**
+Du kannst `Shift` und den Button `Random` oder `F2` drücken, um zu der vorher gewählten Beatmap zurückzukehren.
+:::
 
 ![](img/beatmap-options-DE.jpg "Mögliche Optionen für eine Beatmap")
 
@@ -282,7 +287,9 @@ Die Kategorien in der Ranglistenanzeige sind wie folgt:
 
 ### Medaillen
 
-*Hauptseite: [Medaillen](/wiki/Medals)*
+::: alert-note
+**Hauptseite:** [Medaillen](/wiki/Medals)
+:::
 
 ![](img/medal-unlock.jpg "Eine Medaille freischalten")
 

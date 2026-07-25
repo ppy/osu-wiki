@@ -11,9 +11,17 @@ tags:
 
 ![EZ mod icon](/wiki/shared/mods/EZ.png "Easy (EZ) mod icon")
 
-*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Easy (lazer mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
-*For other uses, see: [Easy (disambiguation)](/wiki/Disambiguation/Easy)*\
-*For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Easy (lazer mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))
+:::
+
+::: alert-note
+**Note:** For other uses, see [Easy (disambiguation)](/wiki/Disambiguation/Easy)
+:::
+
+::: alert-note
+**Note:** For the full list of all mods, see [Game modifier](/wiki/Gameplay/Game_modifier)
+:::
 
 ## About
 
@@ -44,13 +52,19 @@ In [osu!](/wiki/Game_mode/osu!), the Easy mod decreases [circle size (CS)](/wiki
 
 Although, it is worth mentioning that many players do not find the use of the Easy mod to be helpful in decreasing the relative difficulty of beatmaps, especially high-intensity ones. The argument for this goes that the decreased approach rate creates a messy, difficult-to-read situation where the actual speed of the beatmap is not very well reflected visually (displayed above).
 
-*Note: The points mentioned above are elaborated upon in the "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" feature request to improve the mod.*
+::: alert-notice
+**Notice**
+The points mentioned above are elaborated upon in the "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" feature request to improve the mod.
+:::
 
 ### osu!taiko
 
 In [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod decreases the [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), overall difficulty (OD) and HP drain by half.
 
-*Note: The amount of hits that are required to finish a [spinner](/wiki/Gameplay/Hit_object/Spinner) is reduced to the value of the OD.*
+::: alert-notice
+**Notice**
+The amount of hits that are required to finish a [spinner](/wiki/Gameplay/Hit_object/Spinner) is reduced to the value of the OD.
+:::
 
 Unlike in other game modes, using the Easy mod in osu!taiko reduces note score requirement to gain health, making the life bar fill up much more quickly instead of adding two additional "lives", as it is impossible to fail in the middle of a song in taiko.
 

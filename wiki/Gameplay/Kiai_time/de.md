@@ -7,7 +7,9 @@ tags:
 
 # Kiai-Zeit
 
-*Für Regelungen zur Kiai-Zeit, siehe: [Ranking-Kriterien](/wiki/Ranking_criteria)*
+::: alert-note
+**Anmerkung:** Für Regelungen zur Kiai-Zeit, siehe [Ranking-Kriterien](/wiki/Ranking_criteria)
+:::
 
 ::: Infobox
 ![](img/kiai-time-osu-gameplay.png "Fontänen am Anfang des Kiai-Abschnitts einer osu!-Beatmap")
