@@ -18,7 +18,9 @@ Diese Seite listet Möglichkeiten für Menschen aus der gesamten osu!-Community 
 
 ## Projekte
 
-*Siehe auch: [Liste aller Projekte](/wiki/Community/Projects)*
+::: alert-note
+**Siehe auch:** [Liste aller Projekte](/wiki/Community/Projects)
+:::
 
 - [Community-Mentorenprogramm](/wiki/Community/Community_Mentorship_Program)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)

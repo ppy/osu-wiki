@@ -14,7 +14,10 @@ Eine **Beatmap** (manchmal *Beatmapset* genannt) ist eine Reihe von Spielleveln 
 - ein [Storyboard](/wiki/Storyboard) mit animierten Grafiken und speziellen Effekten, die als eine Hintergrundgeschichte oder -thema für den Song dienen (optional).
 - ein [benutzerdefinierter Skin](/wiki/Skinning), der das Aussehen der Benutzeroberfläche und der Spielelemente verändert (optional).
 
-*Anmerkung: Einige der visuellen und akustischen Features einer Beatmap können über die [visuellen Einstellungen](/wiki/Client/Interface/Visual_settings) deaktiviert werden.*
+::: alert-notice
+**Hinweis**
+Einige der visuellen und akustischen Features einer Beatmap können über die [visuellen Einstellungen](/wiki/Client/Interface/Visual_settings) deaktiviert werden.
+:::
 
 ## Schwierigkeitsgrad
 
@@ -101,12 +104,16 @@ Das Chart-System entwickelte sich später weiter in das Projekt [Beatmap Spotlig
 
 ### Beatmap-Wettbewerbe
 
-*Hauptseite: [Wettbewerbe](/wiki/Contests)*
+::: alert-note
+**Hauptseite:** [Wettbewerbe](/wiki/Contests)
+:::
 
 Die osu!-Community betreibt regelmäßig verschiedene Wettbewerbe, um Kreativität zu fördern und Mapper auszuzeichnen, die ihr Bestes geben. Wettbewerbe reichen von kleinen Wettkämpfen, die in lokalen Gruppierungen ausgetragen werden, bis hin zu großen, die auf globaler Ebene durchgeführt werden und attraktive Preise haben. Gewinner erhalten oft Auszeichnungen in Form von [osu!supporter-Tags](/wiki/osu!supporter) und einem themenbezogenen [Profilabzeichen](/wiki/Community/Profile_badge).
 
 ### Featured Artists
 
-*Hauptseite: [Featured Artists](/wiki/People/Featured_Artists)*
+::: alert-note
+**Hauptseite:** [Featured Artists](/wiki/People/Featured_Artists)
+:::
 
 Featured Artists ist ein Community-Programm des [osu!-Teams](/wiki/People/osu!_team), das sich auf die Musiklizenzierung von verschiedenen Künstlern konzentriert und die Musik für Mapping zur Verfügung stellt. Die [Liste der Featured Artists](https://osu.ppy.sh/beatmaps/artists) auf der Webseite zeigt jeden beteiligten Künstler und bietet vorgefertigte Templates für das Mapping.

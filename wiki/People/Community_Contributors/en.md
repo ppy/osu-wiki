@@ -22,9 +22,13 @@ Contributors who registered their accounts during an older era of the game have 
 
 #### August
 
-*For the news post, see: [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)*
+::: alert-note
+**Note:** For the news post, see [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)
+:::
 
-*For the forum thread, see: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
+::: alert-note
+**Note:** For the forum thread, see [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)
+:::
 
 | User | Contributions |
 | :-- | :-- |
@@ -58,7 +62,9 @@ Contributors who registered their accounts during an older era of the game have 
 
 #### January
 
-*For the news post, see: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
+::: alert-note
+**Note:** For the news post, see [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)
+:::
 
 | User | Contributions |
 | :-- | :-- |
@@ -73,7 +79,9 @@ Contributors who registered their accounts during an older era of the game have 
 
 #### March
 
-*For the news post, see: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
+::: alert-note
+**Note:** For the news post, see [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)
+:::
 
 | User | Contributions |
 | :-- | :-- |
@@ -81,7 +89,9 @@ Contributors who registered their accounts during an older era of the game have 
 
 #### November
 
-*For the news post, see: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
+::: alert-note
+**Note:** For the news post, see [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)
+:::
 
 | User | Contributions |
 | :-- | :-- |
@@ -99,7 +109,9 @@ Contributors who registered their accounts during an older era of the game have 
 
 #### December
 
-*For the news post, see: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
+::: alert-note
+**Note:** For the news post, see [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)
+:::
 
 | User | Contributions |
 | :-- | :-- |
@@ -128,7 +140,9 @@ Contributors who registered their accounts during an older era of the game have 
 
 #### February
 
-*For the news post, see: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
+::: alert-note
+**Note:** For the news post, see [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)
+:::
 
 | User | Contributions |
 | :-- | :-- |
@@ -160,7 +174,9 @@ Contributors who registered their accounts during an older era of the game have 
 
 #### February
 
-*For the news post, see: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+::: alert-note
+**Note:** For the news post, see [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)
+:::
 
 | User | Contributions |
 | :-- | :-- |
@@ -190,7 +206,9 @@ Contributors who registered their accounts during an older era of the game have 
 
 #### March
 
-*For the news post, see: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+::: alert-note
+**Note:** For the news post, see [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)
+:::
 
 | User | Contributions |
 | :-- | :-- |
@@ -206,7 +224,9 @@ Contributors who registered their accounts during an older era of the game have 
 
 #### June
 
-*For the news post, see: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+::: alert-note
+**Note:** For the news post, see [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)
+:::
 
 | User | Contributions |
 | :-- | :-- |
@@ -230,7 +250,9 @@ Contributors who registered their accounts during an older era of the game have 
 
 #### November
 
-*For the news post, see: [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*
+::: alert-note
+**Note:** For the news post, see [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)
+:::
 
 | User | Contributions |
 | :-- | :-- |
@@ -259,7 +281,9 @@ Contributors who registered their accounts during an older era of the game have 
 
 #### March
 
-*For the news post, see: [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)*
+::: alert-note
+**Note:** For the news post, see [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)
+:::
 
 | User | Contributions |
 | :-- | :-- |

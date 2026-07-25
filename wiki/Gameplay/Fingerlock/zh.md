@@ -15,7 +15,9 @@ tags:
 
 # 手指锁
 
-*不要与[物件锁](/wiki/Gameplay/Judgement/Notelock)或者[脑梗](/wiki/Gameplay/Mind_block)相混淆。*
+::: alert-note
+**备注：** 不要与[物件锁](/wiki/Gameplay/Judgement/Notelock)或者[脑梗](/wiki/Gameplay/Mind_block)相混淆。
+:::
 
 **手指锁** (Fingerlock，也可称为`锁手`或者`手梗`) 是一个术语，描述了在玩 osu! 时瞬间失去控制手指的感觉。虽然这并不是 osu! 专有的术语，但是玩家们经常使用这个词，来表达知道物件在哪，也知道该什么时候打，但就是没有按下按键的沮丧。此时，手指就像被“锁定”在那一样，手指锁因此得名。
 

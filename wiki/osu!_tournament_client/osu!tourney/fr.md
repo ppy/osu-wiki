@@ -1,6 +1,8 @@
 # osu!tourney
 
-*Voir également : [osu! tournament client](/wiki/osu!_tournament_client)*
+::: alert-note
+**Voir également** : [osu! tournament client](/wiki/osu!_tournament_client)
+:::
 
 **osu!tourney** est le client multi-spectateur pour la version stable d'osu!, utilisé pour visualiser et diffuser tous les joueurs d'une salle multijoueur en même temps.
 

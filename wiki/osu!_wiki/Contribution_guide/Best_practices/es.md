@@ -24,7 +24,9 @@ Una *bifurcación* es una copia del repositorio original que no se actualiza aut
 
 ## Hacer cambios
 
-*Véase también: [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
+::: alert-note
+**Véase también:** [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+:::
 
 Dentro de tu bifurcación de la osu! wiki, eres libre de hacer cualquier cambio y guardarlo. Los **commits** son «puntos de guardado» individuales del repositorio. Las **ramas (branches)** son espacios de trabajo que te permiten alternar entre varias versiones del repositorio. Para facilitar tu flujo de trabajo y mantener el historial de la wiki limpio y libre de ruido, sigue estas pautas:
 

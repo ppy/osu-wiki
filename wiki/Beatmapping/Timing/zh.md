@@ -27,7 +27,9 @@
 ## 测定流程
 
 *主页面：[如何测定歌曲时间轴 (Timing)](/wiki/Guides/How_to_time_songs)*\
-*参见：[谱面编辑器——测定时间轴标签页](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**参见：** [谱面编辑器——测定时间轴标签页](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 ### 单红线
 

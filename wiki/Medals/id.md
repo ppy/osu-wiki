@@ -18,7 +18,7 @@ Sebagai catatan, isi dari seluruh paket Video Game Packs, Anime Packs, Internet!
 
 ## Skill
 
-**Medali Skill** merupakan medali yang diberikan pada saat pengguna mencapai berbagai titik tonggak yang berdasar pada keterampilan, seperti memperoleh [kombo](/wiki/Beatmapping/Combo) tertentu, mencapai peringkat tertentu pada [papan peringkat *performance point* global](https://osu.ppy.sh/rankings/osu/performance), menyelesaikan beatmap, atau meraih [full combo](/wiki/Gameplay/Full_combo) pada beatmap [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), atau [Approved](/wiki/Beatmap/Category#approved) mana pun dalam rentang [star rating](/wiki/Beatmap/Star_rating) tertentu.
+**Medali Skill** merupakan medali yang diberikan pada saat pengguna mencapai berbagai titik tonggak yang berdasar pada keterampilan, seperti memperoleh [kombo](/wiki/Gameplay/Combo_(score_multiplier)) tertentu, mencapai peringkat tertentu pada [papan peringkat *performance point* global](https://osu.ppy.sh/rankings/osu/performance), menyelesaikan beatmap, atau meraih [full combo](/wiki/Gameplay/Full_combo) pada beatmap [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), atau [Approved](/wiki/Beatmap/Category#approved) mana pun dalam rentang [star rating](/wiki/Beatmap/Star_rating) tertentu.
 
 ## Dedication
 

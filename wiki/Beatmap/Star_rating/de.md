@@ -12,7 +12,9 @@ Die **Sternebewertung** (auch **Star rating** oder ***SR*** genannt) beschreibt 
 
 ## Schwierigkeit
 
-*Hauptseite: [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty)*
+::: alert-note
+**Hauptseite:** [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty)
+:::
 
 Seit dem 27. Juli 2021 ordnet die osu!-Webseite einer Schwierigkeitsstufe abhängig von ihrer Sternebewertung nach dem folgenden Spektrum automatisch eine Farbe zu:
 

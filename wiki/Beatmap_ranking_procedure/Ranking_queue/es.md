@@ -6,6 +6,8 @@ tags:
   - cola calificada
   - cola clasificada
   - clasificación ETA
+outdated_translation: true
+outdated_since: 55251cc0edf3384a252501990da9c48370a8748f
 ---
 
 # Cola de clasificación de beatmaps

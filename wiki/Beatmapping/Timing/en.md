@@ -28,7 +28,9 @@ Almost every song can be divided into sections of different tempo, and the goal 
 ## Timing process
 
 *Main article: [How to time songs](/wiki/Guides/How_to_time_songs)*\
-*See also: [Beatmap editor/Timing](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**See also:** [Beatmap editor/Timing](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 ### Single BPM
 

@@ -11,7 +11,9 @@ tags:
 
 # BanchoBot
 
-*For other uses, see [Bancho (disambiguation)](/wiki/Disambiguation/Bancho).*
+::: alert-note
+**Note:** [Bancho (disambiguation)](/wiki/Disambiguation/Bancho).
+:::
 
 ![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
 
@@ -21,7 +23,9 @@ BanchoBot also has its own [osu! profile](https://osu.ppy.sh/users/3) and [Twitt
 
 ## Commands
 
-*For a list of in-game client commands, see: [Chat Console](/wiki/Client/Interface/Chat_console#commands-list)*
+::: alert-note
+**Note:** For a list of in-game client commands, see [Chat Console](/wiki/Client/Interface/Chat_console#commands-list)
+:::
 
 BanchoBot can respond to player commands through specific typed messages in chat. All BanchoBot commands start with an exclamation mark (`!`) followed by the case-insensitive name of the command (with no space between). These commands can be used in chat channels and through private messages with BanchoBot.
 
@@ -57,7 +61,10 @@ A list of all BanchoBot commands can be found below:
 
 <!--note for editors: the code block above reflects the exact response from banchobot -->
 
-*Notice: The `!request` command is no longer supported by BanchoBot.*
+::: alert-notice
+**Notice**
+The `!request` command is no longer supported by BanchoBot.
+:::
 
 ### Roll
 

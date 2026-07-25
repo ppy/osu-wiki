@@ -1,6 +1,8 @@
 # osu!-Programmdateien
 
-*Siehe auch: [osu!-Dateiformate](/wiki/Client/File_formats)*
+::: alert-note
+**Siehe auch:** [osu!-Dateiformate](/wiki/Client/File_formats)
+:::
 
 ![Die Dateistruktur des Installationsordners von osu! auf Windows und macOS](img/file_structure.jpg "Die Dateistruktur des Installationsordners von osu! auf Windows und macOS")
 
@@ -38,11 +40,16 @@ Der Ordner Localisation erscheint, wenn der Spieler seine Sprache in den Einstel
 
 ### Replays
 
-*Anmerkung: Replays wurden früher mit einer niedrigeren Samplingrate wiedergegeben, aber sind jetzt für ein besseres Spielerlebnis optimiert.*
+::: alert-notice
+**Hinweis**
+Replays wurden früher mit einer niedrigeren Samplingrate wiedergegeben, aber sind jetzt für ein besseres Spielerlebnis optimiert.
+:::
 
 Der Ordner Replays bewahrt die Replay-Dateien des Spielers auf. Eine Replay-Datei funktioniert nicht, wenn die verlinkte Beatmap fehlt. Das Replay enthält die Ergebnisdaten und stellt die Cursorbewegung des Spielers während des Ansehens nach. Um ein Replay zu erstellen, drücke F2 in der Ergebnisanzeige oder klicke auf 'Save replay to Replays folder' (nur im Einzelspielermodus verfügbar).
 
-*Für Spieler, die daran interessiert sind, ihr Replay auf YouTube hochzuladen, siehe: [Osr2mp4 public release. Automatically convert replay file to video.](https://osu.ppy.sh/community/forums/topics/1104243)*
+::: alert-note
+**Anmerkung:** Für Spieler, die daran interessiert sind, ihr Replay auf YouTube hochzuladen, siehe [Osr2mp4 public release. Automatically convert replay file to video.](https://osu.ppy.sh/community/forums/topics/1104243)
+:::
 
 Die Namensstruktur einer Datei ist `{Lokaler Spielername} - {Künstler} - {Titel} {[Schwierigkeitsgrad]}{(YYYY-MM-DD)} {Spielmodus}`. Ein Beispiel ist unten zu sehen:
 
@@ -52,7 +59,10 @@ Die Namensstruktur einer Datei ist `{Lokaler Spielername} - {Künstler} - {Titel
 
 Der Ordner Screenshots enthält Screenshots, die der Spieler in osu! erstellt hat. Standardmäßig ist die gespeicherte Screenshot-Datei im Format `.jpg`, dies kann jedoch im Optionsmenü auch zu `.png` geändert werden.
 
-*Anmerkung: Um einen Screenshot zu erstellen, drücke die Screenshot-Taste (standardmäßig F12).*
+::: alert-notice
+**Hinweis**
+Um einen Screenshot zu erstellen, drücke die Screenshot-Taste (standardmäßig F12).
+:::
 
 Die Namensstruktur einer Datei ist `screenshot###`, wobei "###" die Anzahl der Screenshots ist.
 
@@ -81,7 +91,10 @@ Die Datenbestände von osu!. Enthält den Cache von osu!, wie beispielsweise zu 
 
 ## Dateien
 
-*Vorsicht: Sei vorsichtig bei diesen Dateien! Du könntest osu! kaputt machen, wenn du nicht behutsam damit umgehst.*
+::: alert-caution
+**Vorsicht**
+Sei vorsichtig bei diesen Dateien! Du könntest osu! kaputt machen, wenn du nicht behutsam damit umgehst.
+:::
 
 ### Datenbankdateien (.db)
 

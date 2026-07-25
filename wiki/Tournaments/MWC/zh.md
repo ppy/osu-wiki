@@ -19,6 +19,7 @@
 - [osu!mania 4K 世界杯 2023](2023_4K)
 - [osu!mania 4K 世界杯 2024](2024_4K)
 - [osu!mania 4K 世界杯 2025](2025_4K)
+- [osu!mania 4K 世界杯 2026](2026_4K)
 
 ## osu!mania 7K 世界杯
 
