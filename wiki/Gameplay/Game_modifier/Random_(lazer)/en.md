@@ -43,7 +43,7 @@ The **Random** mod intends to make gameplay more varied by randomising [beatmaps
 
 In osu!, Random places all [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) and [sliders](/wiki/Gameplay/Hit_object/Slider) in arbitrary positions while always preserving the distance between two objects.
 
-In osu!taiko, Random assigns a random colour ([red or blue](/wiki/Gameplay/Hit_object/Hit)) to each note. [Drumrolls](/wiki/Gameplay/Hit_object/Drumroll) and [Swells](/wiki/Gameplay/Hit_object/Swell) are not affected.
+In osu!taiko, Random assigns a random colour ([red or blue](/wiki/Gameplay/Hit_object/Hit)) to each note. [Drumrolls](/wiki/Gameplay/Hit_object/Drumroll) and [swells](/wiki/Gameplay/Hit_object/Swell) are not affected.
 
 In osu!mania, Random moves all notes and [hold notes](/wiki/Beatmap/Pattern/osu!mania/Hold_note) to a random column.
 

@@ -32,7 +32,7 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Classic** mod emulates gameplay mechanics from osu!stable that have since changed.
+The **Classic** mod emulates gameplay mechanics from osu!(stable) that have since changed.
 
 <!-- TODO probably more detail above -->
 

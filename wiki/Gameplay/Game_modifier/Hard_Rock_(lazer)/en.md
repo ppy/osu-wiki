@@ -43,13 +43,13 @@ tags:
 
 The **Hard Rock** mod aims to make gameplay harder by increasing the difficulty settings of a [beatmap](/wiki/Beatmap).
 
-In osu!, [HP drain](/wiki/Beatmap/HP_drain_rate), [overall difficulty](/wiki/Beatmap/Overall_difficulty) and [approach rate](/wiki/Beatmap/Approach_rate) are increased by 40% (up to a maximum of 10), while [circle size](/wiki/Beatmap/Circle_size) is increased by 30% (up to a maximum of 10). Additionally, the [playfield](/wiki/Client/Playfield) is flipped vertically.
+In osu!, [HP drain](/wiki/Beatmap/HP_drain_rate), [overall difficulty](/wiki/Beatmap/Overall_difficulty) and [approach rate](/wiki/Beatmap/Approach_rate) are increased by 40% (up to a maximum of 10), while the [circle size](/wiki/Beatmap/Circle_size) is increased by 30% (up to a maximum of 10). Additionally, the [playfield](/wiki/Client/Playfield) is flipped vertically.
 
-In osu!taiko, [HP drain](/wiki/Beatmap/HP_drain_rate) and [overall difficulty](/wiki/Beatmap/Overall_difficulty) are increased by 40% (up to a maximum of 10), while scroll speed is increased by 87%.
+In osu!taiko, [HP drain](/wiki/Beatmap/HP_drain_rate) and [overall difficulty](/wiki/Beatmap/Overall_difficulty) are increased by 40% (up to a maximum of 10), while the scroll speed is increased by 87%.
 
-In osu!catch, [HP drain](/wiki/Beatmap/HP_drain_rate) and [approach rate](/wiki/Beatmap/Approach_rate) are increased by 40% (up to a maximum of 10), while [circle size](/wiki/Beatmap/Circle_size) is increased by 30% (up to a maximum of 10). Additionally, the difficulty of some patterns is increased.
+In osu!catch, [HP drain](/wiki/Beatmap/HP_drain_rate) and [approach rate](/wiki/Beatmap/Approach_rate) are increased by 40% (up to a maximum of 10), while the [circle size](/wiki/Beatmap/Circle_size) is increased by 30% (up to a maximum of 10). Additionally, the difficulty of some patterns is increased.
 
-In osu!mania, [HP drain](/wiki/Beatmap/HP_drain_rate) is increased by 40% (up to a maximum of 10), while the timing windows become approximately 29% stricter.
+In osu!mania, the [HP drain](/wiki/Beatmap/HP_drain_rate) is increased by 40% (up to a maximum of 10), while the timing windows become approximately 29% stricter.
 
 **This mod cannot be customised.**
 

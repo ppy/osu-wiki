@@ -33,7 +33,7 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Touch Device** mod indicates that a score was played on [a device with a touchscreen](/wiki/Gameplay/Input_device/Touch_device) and used touch inputs during gameplay (excluding [breaks](/wiki/Beatmap/Break)).[^touch-inputs-ref] It adjusts [star rating](/wiki/Beatmap/Star_rating) and [performance point](/wiki/Performance_points) calculations to account for the reduced difficulty of large [jumps](/wiki/Beatmap/Pattern/osu!/Jump) with this playstyle.
+The **Touch Device** mod indicates that a score was played on a [device with a touchscreen](/wiki/Gameplay/Input_device/Touch_device) and used touch inputs during gameplay (excluding [breaks](/wiki/Beatmap/Break)).[^touch-inputs-ref] It adjusts [star rating](/wiki/Beatmap/Star_rating) and [performance point](/wiki/Performance_points) calculations to account for the reduced difficulty of large [jumps](/wiki/Beatmap/Pattern/osu!/Jump) with this playstyle.
 
 Touch Device cannot be selected by the user. It is applied to scores automatically when the conditions are met.
 

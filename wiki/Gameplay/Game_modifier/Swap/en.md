@@ -31,7 +31,7 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Swap** mod interchanges all [dons](/wiki/Gameplay/Hit_object/Hit) and [kats](/wiki/Gameplay/Hit_object/Hit) in a [beatmap](/wiki/Beatmap). [Drumrolls](/wiki/Gameplay/Hit_object/Drumroll) and [Swells](/wiki/Gameplay/Hit_object/Swell) are not affected.
+The **Swap** mod interchanges all [dons](/wiki/Gameplay/Hit_object/Hit) and [kats](/wiki/Gameplay/Hit_object/Hit) in a [beatmap](/wiki/Beatmap). [Drumrolls](/wiki/Gameplay/Hit_object/Drumroll) and [swells](/wiki/Gameplay/Hit_object/Swell) are not affected.
 
 **This mod cannot be customised.**
 
