@@ -12,4 +12,4 @@ stub: true
 
 *提示: 在 osu! 中使用数位板或平板电脑点击可能会发生错误，在设置中启用`强制启用触屏/数位板支持`以修正。*
 
-![](img/os-tabletpc-option.jpg "触控屏幕/绘图板支持选项")
+![](img/os-tabletpc-option.jpg "强制启用触屏/数位板支持选项")
