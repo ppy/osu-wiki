@@ -24,14 +24,19 @@ tags:
 | Tipo | Reducción de dificultad |
 | Tecla de acceso directo predeterminada | `E` |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicador de puntuación | 0,30x\* |
+| Multiplicador de puntuación | `0,30x*` |
 | Estado | Clasificado |
 | Mods incompatibles | [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
 
 :::
 
-*Para la versión de osu!stable de este artículo, véase: [Half Time (mod)](/wiki/Gameplay/Game_modifier/Half_Time)*\
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la versión de osu!stable de este artículo, véase [Half Time (mod)](/wiki/Gameplay/Game_modifier/Half_Time)
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Half Time** reduce el BPM de cualquier beatmap al 75 %, aumentando la duración de la canción en un 33 %. También puede reducir la [velocidad de aproximación (AR)](/wiki/Beatmap/Approach_rate), la [dificultad general (OD)](/wiki/Beatmap/Overall_difficulty) o ambas a la vez dependiendo del [modo de juego](/wiki/Game_mode).
 

@@ -15,7 +15,9 @@ tags:
 
 *Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Sudden Death (lazer)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
-*См. также: [Perfect](/wiki/Gameplay/Game_modifier/Perfect)*
+::: alert-note
+**См. также:** [Perfect](/wiki/Gameplay/Game_modifier/Perfect)
+:::
 
 ## Краткая информация
 

@@ -21,7 +21,10 @@ The **song setup** window is the fourth section of the [beatmap editor](/wiki/Cl
 
 ## Difficulty
 
-*Note: The game mode-specific [ranking criteria](/wiki/Ranking_criteria) contain recommended settings for every difficulty level.*
+::: alert-notice
+**Notice**
+The game mode-specific [ranking criteria](/wiki/Ranking_criteria) contain recommended settings for every difficulty level.
+:::
 
 ![Two screenshots of the Difficulty tab. osu!mania differs from the other game modes.](img/SS_Difficulty.jpg "Difficulty section. This dialogue window is different for osu!mania-specific difficulties, as shown on the right.")
 
@@ -47,7 +50,9 @@ For [osu!mania-specific](#mode-specific) beatmaps, the circle size setting is re
 
 ### Approach rate
 
-*Main page: [Approach rate](/wiki/Beatmap/Approach_rate)*
+::: alert-note
+**Main page:** [Approach rate](/wiki/Beatmap/Approach_rate)
+:::
 
 Approach rate (AR) indicates how long osu! and osu!catch hit objects stay on the screen from the moment they appear until the time to tap/collect. Higher values mean shorter periods of visibility and less time to react.
 
@@ -55,8 +60,13 @@ osu!taiko and osu!mania are not affected by approach rate changes — instead, b
 
 ### Overall difficulty
 
-*Main page: [Overall difficulty](/wiki/Beatmap/Overall_difficulty)*\
-*Note: On [beatmap info pages](/wiki/Beatmap_information), overall difficulty is listed as `Accuracy`.*
+::: alert-note
+**Main page:** [Overall difficulty](/wiki/Beatmap/Overall_difficulty)
+:::
+
+::: alert-notice
+**Note:** On [beatmap info pages](/wiki/Beatmap_information), overall difficulty is listed as `Accuracy`.
+:::
 
 Overall difficulty (OD) is responsible for the sizes of hit windows, which define how difficult it is to achieve high accuracy. Higher OD values mean shorter timing windows, requiring more accuracy and precision. Since accuracy is important for gaining HP, overall difficulty indirectly influences how hard it is to pass the beatmap.
 

@@ -28,7 +28,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Simplified Rhythm** mod attemps to make osu!taiko gameplay easier by replacing patterns with a difficult rhythm (e.g. 1/6 patterns) by patterns with a simpler rhythm (e.g. 1/4 rhythm).
 

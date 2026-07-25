@@ -12,9 +12,17 @@ tags:
 
 ![AP mod icon](/wiki/shared/mods/AP.png "Auto Pilot (AP) mod icon")
 
-*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Autopilot (lazer mod)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer))*\
-*For the full list of all mods, see: [Game Modifiers](/wiki/Gameplay/Game_modifier)*\
-*Not to be confused with [Auto (mod)](/wiki/Gameplay/Game_modifier/Auto).*
+::: alert-note
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Autopilot (lazer mod)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer))
+:::
+
+::: alert-note
+**Note:** For the full list of all mods, see [Game Modifiers](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Note:** Not to be confused with [Auto (mod)](/wiki/Gameplay/Game_modifier/Auto).
+:::
 
 ## About
 
@@ -27,7 +35,10 @@ tags:
 
 ## Description
 
-*Notice: Enabling the Autopilot mod will cause the play to be unranked and will not be saved to the local leaderboards.*
+::: alert-notice
+**Notice**
+Enabling the Autopilot mod will cause the play to be unranked and will not be saved to the local leaderboards.
+:::
 
 The **Autopilot** mod is a [game modifier](/wiki/Gameplay/Game_modifier) for the [osu!](/wiki/Game_mode/osu!) game mode that will take control of the cursor movement and systematically move to the exact centre of the next [hit object](/wiki/Gameplay/Hit_object), leaving the tapping to the player. During a play with the Autopilot mod enabled, the player will not be able to move their cursor, unless they are on the pause screen.
 

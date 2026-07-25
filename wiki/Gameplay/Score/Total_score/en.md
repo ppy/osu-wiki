@@ -1,6 +1,8 @@
 # Total score
 
-*For other uses, see [Score (disambiguation)](/wiki/Disambiguation/Score).*
+::: alert-note
+**Note:** [Score (disambiguation)](/wiki/Disambiguation/Score).
+:::
 
 The **total score** is the total sum of all scores on all beatmaps, including failed attempts.
 

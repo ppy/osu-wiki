@@ -80,7 +80,10 @@ Anyone was allowed to predict the outcome of the tournament until the starting d
 - ::{ flag=RU }:: [Well Halen](https://osu.ppy.sh/users/8660244)
 - ::{ flag=UA }:: [Xelite](https://osu.ppy.sh/users/7793117)
 
-*Notice: Klein- and Nogad gave up their places in the Invitational, and iTzAshraf and \_Suzuha reached semifinals twice. Due to this, 4 people who have not reached semifinals were selected to participate in the tournament: filler players.*
+::: alert-notice
+**Notice**
+Klein- and Nogad gave up their places in the Invitational, and iTzAshraf and \_Suzuha reached semifinals twice. Due to this, 4 people who have not reached semifinals were selected to participate in the tournament: filler players.
+:::
 
 The filler players were chosen according to a few criteria in the following priority:
 

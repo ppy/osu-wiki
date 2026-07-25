@@ -68,7 +68,10 @@ Anyone was allowed to predict the outcome of the tournament until the starting d
 - ::{ flag=CA }:: [~~Chanigan~~](https://osu.ppy.sh/users/3266120)
 - ::{ flag=ID }:: [akirakai18](https://osu.ppy.sh/users/2956814)
 
-*Notice: AkaiKage and Chanigan gave up their places in the Invitational and EIVO and Koizumi Hanayo reached semi-finals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament, filler players.*
+::: alert-notice
+**Notice**
+AkaiKage and Chanigan gave up their places in the Invitational and EIVO and Koizumi Hanayo reached semi-finals twice. Due to this, 4 people who have not reached semi-finals were selected to participate in the tournament, filler players.
+:::
 
 The filler players are chosen according to a few criteria in the following priority:
 

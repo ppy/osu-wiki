@@ -20,9 +20,13 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Agosto
 
-*Para la publicación de la noticia, véase: [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)
+:::
 
-*Para el hilo del foro, véase: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
+::: alert-note
+**Nota:** Para el hilo del foro, véase [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -56,7 +60,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Enero
 
-*Para la publicación de la noticia, véase: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -71,7 +77,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Marzo
 
-*Para la publicación de la noticia, véase: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -79,7 +87,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Noviembre
 
-*Para la publicación de la noticia, véase: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -97,7 +107,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Diciembre
 
-*Para la publicación de la noticia, véase: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -126,7 +138,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Febrero
 
-*Para la publicación de la noticia, véase: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -158,7 +172,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Febrero
 
-*Para la publicación de la noticia, véase: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -188,7 +204,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Marzo
 
-*Para la publicación de la noticia, véase: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -204,7 +222,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Junio
 
-*Para la publicación de la noticia, véase: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -228,7 +248,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Noviembre
 
-*Para la publicación de la noticia, véase: [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -257,7 +279,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Marzo
 
-*Para la publicación de la noticia, véase: [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |

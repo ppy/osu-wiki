@@ -12,7 +12,9 @@ tags:
 
 # History of osu! April Fools' day jokes
 
-*For the complete history of osu!, see: [History of osu!](/wiki/History_of_osu!)*
+::: alert-note
+**Note:** For the complete history of osu!, see [History of osu!](/wiki/History_of_osu!)
+:::
 
 Every year, the [osu! team](/wiki/People/osu!_team) likes to play pranks on the community on April Fools' day. This article lists all April Fools' day jokes that have been played on the osu! community since 2009.
 
@@ -105,7 +107,9 @@ On 1 April 2014, the osu! main menu screen was temporarily changed (shown below)
 
 ### osu!coins
 
-*See also: [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)*
+::: alert-note
+**See also:** [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)
+:::
 
 ![](img/2015-osucoins.png "The osu! coins")
 
@@ -115,7 +119,10 @@ On 31 March 2015, [peppy](https://osu.ppy.sh/users/2) released [a newspost](http
 
 —peppy, "osu!coins"[^osu-coins-news]
 
-*Note: Under [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated_Universal_Time), the post was posted on 31 March 2015. However, at the time of the publication, peppy was currently living in Australia, where the current date was 1 April 2015.*
+::: alert-notice
+**Notice**
+Under [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated_Universal_Time), the post was posted on 31 March 2015. However, at the time of the publication, peppy was currently living in Australia, where the current date was 1 April 2015.
+:::
 
 In short, in order to play or restart a [beatmap](/wiki/Beatmap), users must have spent one [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin), and once they ran out of osu!coins, they would either have to stop playing and wait until the next day, or pay real money to get more osu!coins. In spite of this description, however, actual gameplay was not affected, and users could just continue playing as normal, even if all their osu!coins were depleted.[^osu-coins-news][^osu-coins-yt][^osu-coins-yt-2]
 
@@ -131,7 +138,10 @@ On 1 April 2016, [a newspost](https://osu.ppy.sh/home/news/2016-04-01-oculus-rif
 
 Regarding how players might use the Oculus Rift as an input method, the newspost describes that "the player will experience a first person point-of-view of the cursor as it travels to and from hit-objects on screen…" and will hit hit objects by "…having the player produce vowel-like sounds using their mouth". No actual in-game changes were made related to using the Oculus Rift or a similar [virtual reality (VR)](https://en.wikipedia.org/wiki/Virtual_reality) device to control osu!.[^osu-vr-news]
 
-*Notice: McOsu is developed separately from and has no direct affiliation with osu! or ppy Pty Ltd.*
+::: alert-notice
+**Notice**
+McOsu is developed separately from and has no direct affiliation with osu! or ppy Pty Ltd.
+:::
 
 However, even though the official osu! developers have/had no intention of genuinely adding VR support, the idea of osu! in VR piqued interest in the minds of some fans. This interest eventually culminated into an unofficial fan project that was started shortly afterwards that aimed to create a free and open source client to practice osu! [beatmaps](/wiki/Beatmap) in with more features and [game modifiers](/wiki/Gameplay/Game_modifier) including the ability to play in VR. Named "[McOsu](https://store.steampowered.com/app/607260/McOsu)", the project was completed and released on [Steam](https://en.wikipedia.org/wiki/Steam_(service)) on 20 March 2017.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
 

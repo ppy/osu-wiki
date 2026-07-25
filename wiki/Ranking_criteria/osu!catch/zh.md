@@ -50,7 +50,9 @@
 
 ### 难度名
 
-*主文章：[难度命名](/wiki/Ranking_Criteria/Difficulty_naming)*
+::: alert-note
+**主文章：** [难度命名](/wiki/Ranking_Criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad

@@ -121,7 +121,9 @@
 
 ### Делитель временной шкалы
 
-*Основная статья: [Делитель временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+::: alert-note
+**Основная статья:** [Делитель временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+:::[Делитель временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
 
 ![](img/beat-snap-divisor-mania.jpg "Делитель временной шкалы в osu!mania")
 
@@ -152,7 +154,9 @@
 
 #### Цвета
 
-*См. также: [Делитель временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+::: alert-note
+**См. также:** [Делитель временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+:::
 
 | Цвет полоски | Описание |
 | :-- | :-- |
@@ -198,7 +202,9 @@
 
 #### Сэмплы в сториборде
 
-*См. также: [Сэмплы в сториборде](/wiki/Storyboard/Scripting/Audio)*
+::: alert-note
+**См. также:** [Сэмплы в сториборде](/wiki/Storyboard/Scripting/Audio)
+:::
 
 ![](img/sample-event-list.jpg "Окно со списком сэмплов в сториборде")
 
