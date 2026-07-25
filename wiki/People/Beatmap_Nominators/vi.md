@@ -96,7 +96,7 @@ Bảng dưới đây liệt kê từng chế độ trò chơi và Đề cử vi�
 | ::{ flag=PH }:: [Hinae](https://osu.ppy.sh/users/11864462) | Tiếng Philippines |
 | ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) | Tiếng Telugu |
 | ::{ flag=BR }:: [HowRengar](https://osu.ppy.sh/users/6064571) | Tiếng Bồ Đào Nha |
-| ::{ flag=JP }:: [Jennifer](https://osu.ppy.sh/users/6761853) | Tiếng Trung|
+| ::{ flag=JP }:: [Jennifer](https://osu.ppy.sh/users/6761853) | Tiếng Trung |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) |  |
 | ::{ flag=CA }:: [joshywa](https://osu.ppy.sh/users/19656568) |  |
 | ::{ flag=BR }:: [Kalindraz](https://osu.ppy.sh/users/2313166) |  |
