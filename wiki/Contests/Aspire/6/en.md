@@ -69,7 +69,7 @@ This table is updated once every few days. Last update was on 9 July 2026.
 | [insert meme here] <- HAHA! this is FUNNY! | ::{ flag=US }:: [Kirb2](https://osu.ppy.sh/users/35911207) |
 |  | ::{ flag=US }:: [SyIv](https://osu.ppy.sh/users/6821832) |
 |  | ::{ flag=US }:: [Alumence](https://osu.ppy.sh/users/30357961) |
-|  | ::{ flag=NZ }:: [Pass_ing](https://osu.ppy.sh/users/11798717) |
+|  | ::{ flag=NZ }:: [Pass\_ing](https://osu.ppy.sh/users/11798717) |
 | los pisuicas | ::{ flag=CR }:: [UniUniverse](https://osu.ppy.sh/users/15568608), ::{ flag=CR }:: [Megapcmx](https://osu.ppy.sh/users/4442138) |
 | PURO POWER EE | ::{ flag=CL }:: [yGantu](https://osu.ppy.sh/users/25206996) |
 | aura defarmer | ::{ flag=MY }:: [Mahiru Shiina](https://osu.ppy.sh/users/13866023) |
@@ -81,7 +81,7 @@ This table is updated once every few days. Last update was on 9 July 2026.
 |  | ::{ flag=RU }:: [KoTo](https://osu.ppy.sh/users/1382805) |
 |  | ::{ flag=NO }:: [Aspheria](https://osu.ppy.sh/users/14781224) |
 | Eureka! | ::{ flag=US }:: [veztoast](https://osu.ppy.sh/users/19575841) |
-| Mode Five | ::{ flag=RO }:: [ziv_vy](https://osu.ppy.sh/users/35320165) |
+| Mode Five | ::{ flag=RO }:: [ziv\_vy](https://osu.ppy.sh/users/35320165) |
 | Q Branch | ::{ flag=ID }:: [multiplied](https://osu.ppy.sh/users/29292420), ::{ flag=ID }:: [kaupec1](https://osu.ppy.sh/users/19333530) |
 | ChartNetwork | ::{ flag=IN }:: [Rudasyy579](https://osu.ppy.sh/users/23231526) |
 | zvq9r6R6QAY | ::{ flag=US }:: [gibberjabber1](https://osu.ppy.sh/users/16253476) |
@@ -97,14 +97,14 @@ This table is updated once every few days. Last update was on 9 July 2026.
 |  | ::{ flag=TW }:: [Solor](https://osu.ppy.sh/users/25201175) |
 | don't have | ::{ flag=RU }:: [Fusomi](https://osu.ppy.sh/users/19690928), ::{ flag=RU }:: [Fiekel](https://osu.ppy.sh/users/18029250) |
 |  | ::{ flag=PL }:: [PolishedSlav](https://osu.ppy.sh/users/13908254) |
-| The Greek Mappers | ::{ flag=GR }:: [KakashiSensei_](https://osu.ppy.sh/users/18254930), ::{ flag=GR }:: [Double_](https://osu.ppy.sh/users/20163454) |
+| The Greek Mappers | ::{ flag=GR }:: [KakashiSensei\_](https://osu.ppy.sh/users/18254930), ::{ flag=GR }:: [Double\_](https://osu.ppy.sh/users/20163454) |
 |  | ::{ flag=US }:: [WolfStarArtOSU](https://osu.ppy.sh/users/34821954) |
-|  | ::{ flag=US }:: [JinkusuSPL](https://osu.ppy.sh/users/32908054) |
+|  | ::{ flag=US }:: [The Jorker](https://osu.ppy.sh/users/32908054) |
 | Maid Enjoyer | ::{ flag=US }:: [Nightcor3](https://osu.ppy.sh/users/19173340) |
 |  | ::{ flag=VN }:: [\[-Crazy Boy-\]](https://osu.ppy.sh/users/33849459) |
-|  | ::{ flag=RU }:: [732Edi_2](https://osu.ppy.sh/users/33122018) |
+|  | ::{ flag=RU }:: [732Edi\_2](https://osu.ppy.sh/users/33122018) |
 | CAMUSLAR | ::{ flag=AT }:: [Byakuyaa](https://osu.ppy.sh/users/38132593), ::{ flag=TR }:: [serpiente21](https://osu.ppy.sh/users/39660988) |
-|  | ::{ flag=BR }:: [1_Miss_you_1](https://osu.ppy.sh/users/37663568) |
+|  | ::{ flag=BR }:: [1\_Miss\_you\_1](https://osu.ppy.sh/users/37663568) |
 | I AM. | ::{ flag=VN }:: [xiaomao](https://osu.ppy.sh/users/9829680) |
 | Joe Biden 🔜 RF15 | ::{ flag=TW }:: [\[ deleted \]](https://osu.ppy.sh/users/16341063), ::{ flag=NL }:: [Promachos](https://osu.ppy.sh/users/14069486) |
 | Door Chad? Us….🌾😔✌️ | ::{ flag=US }:: [EnderCraft](https://osu.ppy.sh/users/19950570) |
@@ -133,32 +133,42 @@ This table is updated once every few days. Last update was on 9 July 2026.
 | sheldon lee cooper you dawg | ::{ flag=GB }:: [jaaaaacx](https://osu.ppy.sh/users/32397566) |
 | walawe | ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [\[-SVzzZ-\]](https://osu.ppy.sh/users/26574578) |
 |  | ::{ flag=PH }:: [Imajinaree](https://osu.ppy.sh/users/18397685) |
-|  | ::{ flag=RU }:: [Andrey_os2298](https://osu.ppy.sh/users/34410339) |
+|  | ::{ flag=RU }:: [Andrey\_os2298](https://osu.ppy.sh/users/34410339) |
 | rentahuman.ai | ::{ flag=VN }:: [billypham](https://osu.ppy.sh/users/12970739) |
 | sajso | ::{ flag=TR }:: [corlax31](https://osu.ppy.sh/users/32026299), ::{ flag=TR }:: [cheyags](https://osu.ppy.sh/users/36991492) |
 | The Tung Sahurs | ::{ flag=VN }:: [Nagabi](https://osu.ppy.sh/users/10352099), ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) |
 | Perchik | ::{ flag=RU }:: [misterio21](https://osu.ppy.sh/users/19513468), ::{ flag=NO }:: [MrSpiderGDRA](https://osu.ppy.sh/users/39232648) |
 |  | ::{ flag=IS }:: [Geiri YT](https://osu.ppy.sh/users/15011371) |
-| DDLC Rom | ::{ flag=RO }:: [Kat_explodes](https://osu.ppy.sh/users/26376228), ::{ flag=RO }:: [hello_lol420](https://osu.ppy.sh/users/27609690) |
+| DDLC Rom | ::{ flag=RO }:: [Kat\_explodes](https://osu.ppy.sh/users/26376228), ::{ flag=RO }:: [hello\_lol420](https://osu.ppy.sh/users/27609690) |
 |  | ::{ flag=BE }:: [Piorunochron](https://osu.ppy.sh/users/36414563) |
 | 67 | ::{ flag=US }:: [FLP](https://osu.ppy.sh/users/21730175) |
 | dauylpaz | ::{ flag=KZ }:: [tadahitotsu](https://osu.ppy.sh/users/11653544) |
 | Ça casse pas trois pattes à un canard | ::{ flag=BR }:: [Jacques](https://osu.ppy.sh/users/6599241), ::{ flag=FR }:: [SaYa-](https://osu.ppy.sh/users/14628734) |
 | ? | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667), ::{ flag=NL }:: [Apichu](https://osu.ppy.sh/users/14967853) |
-| T4PULI_BABUL1 | ::{ flag=RU }:: [add222](https://osu.ppy.sh/users/14261013), ::{ flag=RU }:: [_necroplasma](https://osu.ppy.sh/users/10805852) |
+| T4PULI_BABUL1 | ::{ flag=RU }:: [add222](https://osu.ppy.sh/users/14261013), ::{ flag=RU }:: [\_necroplasma](https://osu.ppy.sh/users/10805852) |
 |  | ::{ flag=US }:: [reimuuu](https://osu.ppy.sh/users/39265531) |
 | No Authors Listed | ::{ flag=DE }:: [Tunnelblick](https://osu.ppy.sh/users/7737096), ::{ flag=US }:: [Utiba](https://osu.ppy.sh/users/11354436) |
 | hi | ::{ flag=CA }:: [mieldeprairie](https://osu.ppy.sh/users/19290397) |
 |  | ::{ flag=DE }:: [minhperry](https://osu.ppy.sh/users/16509922) |
-| Synthesizer | ::{ flag=CN }:: [UTAU](https://osu.ppy.sh/users/13859320) |
 | Chloris | ::{ flag=VN }:: [LunaUwU](https://osu.ppy.sh/users/39084830) |
 | two guys who like mapping taiko | ::{ flag=AU }:: [Nintendo 64](https://osu.ppy.sh/users/30481748), ::{ flag=CA }:: [EnderBlazegames](https://osu.ppy.sh/users/36292093) |
 |  | ::{ flag=EE }:: [Sadu](https://osu.ppy.sh/users/16301262) |
 | autre | ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) |
 | the Northernlion Supercruise | ::{ flag=KR }:: [Akbo](https://osu.ppy.sh/users/7627061) |
-| SV | ::{ flag=AR }:: [APRL03](https://osu.ppy.sh/users/11394892), ::{ flag=AR }:: [el_matero](https://osu.ppy.sh/users/23417934) |
+| SV | ::{ flag=AR }:: [APRL03](https://osu.ppy.sh/users/11394892), ::{ flag=AR }:: [el\_matero](https://osu.ppy.sh/users/23417934) |
 | T_T | ::{ flag=US }:: [Leviathan](https://osu.ppy.sh/users/10321729) |
 |  | ::{ flag=AE }:: [ItzShadowCraft](https://osu.ppy.sh/users/27830521) |
+| Synthesizer | ::{ flag=CN }:: [UTAU](https://osu.ppy.sh/users/13859320) |
+| kelompok 2 | ::{ flag=ID }:: [Alicia](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
+|  | ::{ flag=TH }:: [PukPow](https://osu.ppy.sh/users/16407679), ::{ flag=TH }:: [Zuika](https://osu.ppy.sh/users/10222009) |
+| Drunk Camel | ::{ flag=SA }:: [osu shallah](https://osu.ppy.sh/users/5965797), ::{ flag=PL }:: [Nemuidesu](https://osu.ppy.sh/users/4688997) |
+|  | ::{ flag=VN }:: [amongus8888](https://osu.ppy.sh/users/39724786) |
+| takeshi's traphouse | ::{ flag=IT }:: [Shiraya Sayuki](https://osu.ppy.sh/users/19077461), ::{ flag=IT }:: [Shiino](https://osu.ppy.sh/users/9839375) |
+| executive dysfunction | ::{ flag=CA }:: [MintLeaf](https://osu.ppy.sh/users/18649304), ::{ flag=SG }:: [Ixcors](https://osu.ppy.sh/users/11194087) |
+|  | ::{ flag=GB }:: [Pastel Kitten](https://osu.ppy.sh/users/37602544) |
+| cos | ::{ flag=VN }:: [\[TCD\] comma](https://osu.ppy.sh/users/30749632), ::{ flag=VN }:: [phuongkhoa102](https://osu.ppy.sh/users/18054129) |
+| Kinflo x Björk Collab | ::{ flag=CA }:: [ThunderBirdo](https://osu.ppy.sh/users/22228239), ::{ flag=GB }:: [bluirre](https://osu.ppy.sh/users/22241162) |
+| Ayuntamiento de Puebla de la Sierra | ::{ flag=ES }:: [CebollaVladimir](https://osu.ppy.sh/users/15308238), ::{ flag=DE }:: [Chris Jasorka](https://osu.ppy.sh/users/2355080) |
 
 ## Format
 
