@@ -4,7 +4,9 @@ stub: true
 
 # 数位板
 
-*另见: [玩法](/wiki/Gameplay/Play_style)*
+::: alert-note
+**另见：**[玩法](/wiki/Gameplay/Play_style)
+:::
 
 ![](img/tablet.jpg "数位板")
 
