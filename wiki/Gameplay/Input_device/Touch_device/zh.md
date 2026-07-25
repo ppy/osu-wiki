@@ -4,7 +4,9 @@ stub: true
 
 # 触控设备
 
-*另见: [玩法](/wiki/Gameplay/Play_style)*
+::: alert-note
+**另见：**[玩法](/wiki/Gameplay/Play_style)
+:::
 
 **触控设备**允许用户使用手指触摸设备上的触摸屏来操作电脑。osu! 原生支持触控设备。触摸屏幕可以同时瞄准和点击。常见的触控设备有触摸屏笔记本、数位屏和智能手机。
 
