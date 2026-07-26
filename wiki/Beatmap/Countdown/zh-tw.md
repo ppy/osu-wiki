@@ -2,6 +2,7 @@
 tags:
   - timer
   - 計時器
+no_native_review: true
 ---
 
 # 倒數計時 (Countdown)
