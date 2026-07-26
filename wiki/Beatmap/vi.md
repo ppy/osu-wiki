@@ -14,17 +14,24 @@ Một **beatmap** (đôi khi gọi là *beatmapset*) là một tập hợp các 
 - [storyboard](/wiki/Storyboard) với các hình ảnh động và hiệu ứng đặc biệt, được sử dụng như bói cảnh hoặc chủ đề cho bài hát (tùy chọn).
 - [skin tùy chỉnh](/wiki/Skinning) để thay đổi hiển thị của các giao diện trong game và các thành phần gameplay (tùy chọn).
 
-*Lưu ý: Một vài tính năng hình ảnh và âm thanh của beatmap có thể tắt thông qua bảng [cài đặt hiển thị](/wiki/Client/Interface/Visual_settings) khi chơi.*
+::: alert-notice
+**Lưu ý**
+Một vài tính năng hình ảnh và âm thanh của beatmap có thể tắt thông qua bảng [cài đặt hiển thị](/wiki/Client/Interface/Visual_settings) khi chơi.
+:::
 
 ## Độ khó
 
-*Trang chính: [độ khó](/wiki/Beatmap/Difficulty)*
+::: alert-note
+**Trang chính:** [độ khó](/wiki/Beatmap/Difficulty)
+:::
 
 Một *độ khó* là một tệp với [phần mở rộng `.osu`](/wiki/Client/File_formats/osu_(file_format)) mô tả sự sắp đặt của các nút bấm, hitsound, và hiệu ứng đặc biệt như [kiai](/wiki/Gameplay/Kiai_time). Nó cũng chứa [cài đặt độ khó](/wiki/Client/Beatmap_editor/Song_setup#difficulty) và một vài tham số có ảnh hưởng trực tiếp đến gameplay. Các độ khó của một beatmap có cấu trúc khác nhau và đôi khi chỉ có thể chơi trong một [chế độ chơi](/wiki/Game_mode). Hệ thống [star rating](/wiki/Beatmap/Star_rating) được dùng để thể hiện trực quan mức độ kĩ năng cần thiết của một độ khó.
 
 ## Tải lên
 
-*Trang chính: [Tải lên](/wiki/Beatmapping/Beatmap_submission)*
+::: alert-note
+**Trang chính:** [Tải lên](/wiki/Beatmapping/Beatmap_submission)
+:::
 
 Tác giả beatmap có thể [tải](/wiki/Beatmapping/Beatmap_submission) sản phảm của họ lên [danh sách beatmap](https://osu.ppy.sh/beatmapsets) công khai. Tuy mỗi beatmap được gắn với [một người duy nhất](/wiki/Beatmap/Beatmap_host), nó thường là kết quả của nhiều người: một vài độ khó có thể do nhiều người [hợp tác](/wiki/Beatmap/Beatmap_collaborations) làm hoặc do một [cá nhân](/wiki/Beatmap/Guest_difficulty) làm.
 
@@ -42,7 +49,9 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 ### Danh mục beatmap
 
-*Trang chính: [Danh mục beatmap](Category)*
+::: alert-note
+**Trang chính:** [Danh mục beatmap](Category)
+:::
 
 Một beatmap được tải lên thuộc một trong các danh mục sau, có thể thay đổi theo thời gian:
 
@@ -69,7 +78,9 @@ osu!direct là danh sách beatmap được tích hợp vào trong client, giúp 
 
 ### Gói beatmap
 
-*Trang chính: [Gói beatmap](Packs)*
+::: alert-note
+**Trang chính:** [Gói beatmap](Packs)
+:::
 
 Các beatmap được xếp hạng trong cùng tháng, hoặc có cùng chủ đề (ví du: cùng người làm nhạc), được đóng gói để tải về theo số lượng lớn và đưa vào lưu trữ. Chúng được gọi là gói beatmap. Danh sách đầy đủ các gói beatmap chính thức được cung cấp trên [trang web](https://osu.ppy.sh/beatmaps/packs).
 
@@ -97,7 +108,9 @@ Mỗi beatmap sẽ cung cấp các [bản phát lại](/wiki/Gameplay/Replay) c�
 
 <!-- TODO: would be very cool to have a separate article for osu!(lazer) as well (issue #4686) -->
 
-*Trang chính: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
+::: alert-note
+**Trang chính:** [Beatmap Spotlights](/wiki/Beatmap_Spotlights)
+:::
 
 Từ những ngày đầu tiên, cộng đồng đã có nhiều cách để trưng bày những beatmap độc đáo và xuất sắc. Một trong những cách tiếp cận được ghi nhận là các bảng xếp hạng theo tháng và theo mùa, bao gồm một số lượng nhỏ các beatmap được xếp hạng, nơi những người chơi đứng đầu bảng xếp hạng tổng điểm trên những beatmap này sẽ được thưởng bằng [osu!supporter](/wiki/osu!supporter).
 
@@ -105,12 +118,16 @@ Hệ thống bảng xếp hạng này sau đó đã phát triển thành dự á
 
 ### Cuộc thi beatmap
 
-*Trang chính: [Cuộc thi](/wiki/Contests)*
+::: alert-note
+**Trang chính:** [Cuộc thi](/wiki/Contests)
+:::
 
 Cộng đồng osu! thường xuyên tổ chức nhiều cuộc thi khác nhau nhằm thúc đẩy sự sáng tạo và trao thưởng cho các mapper làm tốt nhất. Các cuộc thi có quy mô từ nhỏ, ở trong các cộng đồng địa phương, tới các cuộc thi quy mô lớn được tổ chức trên phạm vi toàn cầu và có các phần thưởng ấn tượng. Những người thắng cuộc thường được nhận thưởng dưới dạng [osu!supporter](/wiki/osu!supporter) và một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) theo chủ đề.
 
 ### Nghệ sĩ nổi bật
 
-*Trang chính: [Nghệ sĩ nổi bật](/wiki/People/Featured_Artists)*
+::: alert-note
+**Trang chính:** [Nghệ sĩ nổi bật](/wiki/People/Featured_Artists)
+:::
 
 Nghệ sĩ nổi bật là một chương trình cộng đồng do [đội ngũ osu!](/wiki/People/osu!_team) thực hiện, tập trung vào việc cấp phép nhạc từ nhiều nghệ sĩ khác nhau cho osu! và cung cấp chúng cho việc tạo beatmap. Trang web [Danh sách nghệ sĩ nổi bật](https://osu.ppy.sh/beatmaps/artists) hiển thị từng nghệ sĩ tham gia và cung cấp các mẫu đã được căn thời gian sẵn để tạo beatmap.
