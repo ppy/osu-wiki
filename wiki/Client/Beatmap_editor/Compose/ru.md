@@ -123,7 +123,7 @@
 
 ::: alert-note
 **Основная статья:** [Делитель временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
-:::[Делитель временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+:::
 
 ![](img/beat-snap-divisor-mania.jpg "Делитель временной шкалы в osu!mania")
 

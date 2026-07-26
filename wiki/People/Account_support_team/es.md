@@ -14,7 +14,10 @@ Por lo general, el soporte tarda unos días en llegar al correo electrónico. Si
 
 ## Roles y tareas
 
-*Artículo principal: [Centro de ayuda](/wiki/Help_centre)*\
+::: alert-note
+**Página principal:** [Centro de ayuda](/wiki/Help_centre)
+:::
+
 ::: alert-note
 **Véase también:** [Restricciones de cuenta](/wiki/Help_centre/Account_restrictions)
 :::

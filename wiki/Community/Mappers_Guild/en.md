@@ -80,7 +80,9 @@ In addition to general Mappers' Guild points above, [priority quests](#priority-
 
 ### Showcase beatmaps
 
-*Main article: [Featured Artist showcase beatmaps](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)*
+::: alert-note
+**Main page:** [Featured Artist showcase beatmaps](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)
+:::
 
 Members of the Mappers' Guild may also participate in the creation of showcase beatmaps for future Featured Artist announcements. Upon the announcement of the corresponding Featured Artist, these beatmaps are highlighted in the [news post](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame) as well.
 

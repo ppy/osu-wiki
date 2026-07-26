@@ -150,7 +150,9 @@ Trier les beatmaps dans un certain ordre.
 
 ### Recherche
 
-*Article principal : [Recherche de la beatmap](/wiki/Beatmap_search)*
+::: alert-note
+**Page principale** : [Recherche de la beatmap](/wiki/Beatmap_search)
+:::
 
 ![](img/search-bar-FR.jpg?1)
 

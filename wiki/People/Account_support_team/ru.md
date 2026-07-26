@@ -24,7 +24,8 @@ outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
 
 ::: alert-note
 **Основная статья:** [Справочный центр](/wiki/Help_centre)
-:::[Справочный центр](/wiki/Help_centre)
+:::
+
 ::: alert-note
 **См. также:** [Ограничение аккаунта](/wiki/Help_centre/Account_restrictions)
 :::
