@@ -21,13 +21,17 @@ Algunas de las características visuales y auditivas de un beatmap se pueden des
 
 ## Dificultad
 
-*Artículo principal: [Dificultad](/wiki/Beatmap/Difficulty)*
+::: alert-note
+**Página principal:** [Dificultad](/wiki/Beatmap/Difficulty)
+:::
 
 Una dificultad es un archivo con [la extensión .osu](/wiki/Client/File_formats/osu_(file_format)) que describe la ubicación de los objetos, hitsounds y efectos especiales como el [kiai time](/wiki/Gameplay/Kiai_time). También contiene [configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_setup#dificultad) y otros parámetros que afectan directamente el juego. Las dificultades de un beatmap tienen una estructura diferente y, a veces, se pueden jugar en un solo [modo de juego](/wiki/Game_mode). El sistema de [clasificación por estrellas](/wiki/Beatmap/Star_rating) se utiliza para visualizar el requisito de habilidad de una dificultad.
 
 ## Envío
 
-*Artículo principal: [Envío](/wiki/Beatmapping/Beatmap_submission)*
+::: alert-note
+**Página principal:** [Envío](/wiki/Beatmapping/Beatmap_submission)
+:::
 
 Los autores de beatmaps pueden [enviar](/wiki/Beatmapping/Beatmap_submission) sus creaciones a la [lista pública de beatmaps](https://osu.ppy.sh/beatmapsets). Si bien cada beatmap se atribuye a una [sola persona](/wiki/Beatmap/Beatmap_host), a menudo es un esfuerzo conjunto: algunas dificultades pueden ser mapeadas por otras personas que trabajan [en colaboración](/wiki/Beatmap/Beatmap_collaborations) o [por separado](/wiki/Beatmap/Guest_difficulty).
 
@@ -43,7 +47,9 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 ### Categorías de beatmaps
 
-*Artículo principal: [Categorías de beatmaps](Category)*
+::: alert-note
+**Página principal:** [Categorías de beatmaps](Category)
+:::
 
 Un beatmap enviado pertenece a una de las siguientes categorías, que pueden cambiar con el tiempo:
 
@@ -70,7 +76,9 @@ osu!direct es la lista de beatmaps integrada en el cliente del juego, que se uti
 
 ### Paquetes de beatmaps
 
-*Artículo principal: [Paquetes de beatmaps](Packs)*
+::: alert-note
+**Página principal:** [Paquetes de beatmaps](Packs)
+:::
 
 Los beatmaps que se clasificaron el mismo mes, o que comparten el mismo tema (por ejemplo, el mismo artista), se empaquetan para su descarga masiva en archivos, que se denominan paquetes de beatmaps. La lista de todos los paquetes oficiales está disponible en el [sitio web](https://osu.ppy.sh/beatmaps/packs).
 
@@ -96,7 +104,9 @@ Las 1000 mejores puntuaciones en cada dificultad de un beatmap proporcionan [rep
 
 ### Tablas y destacados
 
-*Artículo principal: [Beatmaps destacados](/wiki/Beatmap_Spotlights)*
+::: alert-note
+**Página principal:** [Beatmaps destacados](/wiki/Beatmap_Spotlights)
+:::
 
 Desde sus primeros días, la comunidad ha tenido varias formas de mostrar mapas únicos y excelentes. Uno de los primeros enfoques documentados fueron las tablas mensuales y estacionales que consistían en un pequeño subconjunto de beatmaps clasificados, donde los mejores jugadores de las tablas de clasificación que mostraban la puntuación total en estos mapas serían premiados con [osu!supporter](/wiki/osu!supporter).
 
