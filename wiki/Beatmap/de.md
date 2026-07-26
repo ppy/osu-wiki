@@ -21,13 +21,17 @@ Einige der visuellen und akustischen Features einer Beatmap können über die [v
 
 ## Schwierigkeitsgrad
 
-*Hauptartikel: [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty)*
+::: alert-note
+**Hauptseite:** [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty)
+:::
 
 Ein *Schwierigkeitsgrad* ist eine Datei mit [der Dateierweiterung `.osu`](/wiki/Client/File_formats/osu_(file_format)), der die Platzierung von Hit-Objekten, Hitsounds und speziellen Effekten wie [Kiai-Zeit](/wiki/Gameplay/Kiai_time) beschreibt. Er beinhaltet auch [Schwierigkeitseinstellungen](/wiki/Client/Beatmap_editor/Song_setup#difficulty) und andere Parameter, die den Spielverlauf direkt beeinflussen. Schwierigkeitsstufen einer Beatmap haben unterschiedliche Strukturen und können manchmal nur in einem [Spielmodus](/wiki/Game_mode) gespielt werden. Das System zur [Sternebewertung](/wiki/Beatmap/Star_rating) wird verwendet, um die benötigten Fähigkeiten für eine Schwierigkeitsstufe zu visualisieren.
 
 ## Einreichen
 
-*Hauptartikel: [Beatmaps veröffentlichen](/wiki/Beatmapping/Beatmap_submission)*
+::: alert-note
+**Hauptseite:** [Beatmaps veröffentlichen](/wiki/Beatmapping/Beatmap_submission)
+:::
 
 Beatmap-Autoren können ihre Kreationen auf die öffentliche [Beatmap-Auflistung](https://osu.ppy.sh/beatmapsets) [hochladen](/wiki/Beatmapping/Beatmap_submission). Auch wenn jede Schöpfung [einer einzelnen Person](/wiki/Beatmap/Beatmap_host) zugeschrieben wird, handelt es sich doch oft um eine gemeinschaftliche Arbeit: einige Schwierigkeitsgrade können von anderen Leuten innerhalb einer [Kollaboration](/wiki/Beatmap/Beatmap_collaborations) oder [separat](/wiki/Beatmap/Guest_difficulty) erstellt werden.
 
@@ -43,7 +47,9 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{Spielmodus}/{BeatmapID}
 
 ### Beatmap-Kategorie
 
-*Hauptartikel: [Beatmap-Kategorie](Category)*
+::: alert-note
+**Hauptseite:** [Beatmap-Kategorie](Category)
+:::
 
 Eine eingereichte Beatmap gehört zu einer der folgenden Kategorien, die sich über die Zeit ändern können:
 
@@ -70,7 +76,9 @@ osu!direct ist die in das Spiel eingebaute Beatmap-Auflistung und wird für den 
 
 ### Beatmap-Pakete
 
-*Hauptartikel: [Beatmap-Pakete](Packs)*
+::: alert-note
+**Hauptseite:** [Beatmap-Pakete](Packs)
+:::
 
 Beatmaps, die im selben Monat gerankt wurden oder dasselbe Thema verfolgen (z. B. derselbe Künstler), werden als Massen-Download in Archive gepackt, die Beatmap-Pakete genannt werden. Die Liste aller offiziellen Pakete ist auf der [Webseite](https://osu.ppy.sh/beatmaps/packs) einsehbar.
 
@@ -96,7 +104,9 @@ Für die 1000 besten Scores auf jedem Schwierigkeitsgrad einer Beatmap werden [R
 
 ### Charts und Spotlights
 
-*Hauptartikel: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
+::: alert-note
+**Hauptseite:** [Beatmap Spotlights](/wiki/Beatmap_Spotlights)
+:::
 
 Seit ihrem Anfang hatte die Community verschiedene Mittel, um einzigartige und exzellente Beatmaps zur Schau zu stellen. Einer der ersten dokumentierten Ansätze waren monatliche und saisonale Charts, die aus einer kleinen Teilmenge an gerankten Beatmaps bestanden. Top-Spieler, die in den Ranglisten Scores in all diesen Beatmaps erreichten, wurden hierbei mit [osu!supporter](/wiki/osu!supporter) belohnt.
 

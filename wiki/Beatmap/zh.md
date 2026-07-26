@@ -6,6 +6,8 @@ tags:
   - 谱
   - mapset
   - beatmapset
+outdated_translation: true
+outdated_since: 41fa8198c95bcafd84c492b1b9199cc5ad0890de
 ---
 
 # 谱面

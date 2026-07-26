@@ -21,13 +21,17 @@ Some of the visual and aural features of a beatmap can be disabled through the [
 
 ## Difficulty
 
-*Main article: [Difficulty](/wiki/Beatmap/Difficulty)*
+::: alert-note
+**Main page:** [Difficulty](/wiki/Beatmap/Difficulty)
+:::
 
 A *difficulty* is a file with [the `.osu` extension](/wiki/Client/File_formats/osu_(file_format)) which describes the placement of hit objects, hitsounds, and special effects like [kiai time](/wiki/Gameplay/Kiai_time). It also contains [difficulty settings](/wiki/Client/Beatmap_editor/Song_setup#difficulty) and other parameters that directly affect gameplay. Difficulties of a beatmap have different structure and sometimes can be played in only one [game mode](/wiki/Game_mode). The [star rating](/wiki/Beatmap/Star_rating) system is used to visualise a difficulty's skill requirement.
 
 ## Submission
 
-*Main article: [Submission](/wiki/Beatmapping/Beatmap_submission)*
+::: alert-note
+**Main page:** [Submission](/wiki/Beatmapping/Beatmap_submission)
+:::
 
 Beatmap authors can [submit](/wiki/Beatmapping/Beatmap_submission) their creations to the public [beatmap listing](https://osu.ppy.sh/beatmapsets). While every beatmap is attributed to [a single person](/wiki/Beatmap/Beatmap_host), it is often a joint effort: some difficulties may be mapped by other people working [in collaboration](/wiki/Beatmap/Beatmap_collaborations) or [separately](/wiki/Beatmap/Guest_difficulty).
 
@@ -45,7 +49,9 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 ### Beatmap category
 
-*Main article: [Beatmap category](Category)*
+::: alert-note
+**Main page:** [Beatmap category](Category)
+:::
 
 A submitted beatmap belongs to one of the following categories, which may change over time:
 
@@ -72,7 +78,9 @@ osu!direct is the beatmap listing built into the game client, which is used for 
 
 ### Beatmap packs
 
-*Main article: [Beatmap packs](Packs)*
+::: alert-note
+**Main page:** [Beatmap packs](Packs)
+:::
 
 Beatmaps that were ranked in the same month, or share the same theme (e.g. the same artist), are packed for bulk download into archives, which are called the beatmap packs. The list of all official packs is available on the [website](https://osu.ppy.sh/beatmaps/packs).
 
@@ -100,7 +108,9 @@ The top 1000 scores on every difficulty of a beatmap provide [replays](/wiki/Gam
 
 <!-- TODO: would be very cool to have a separate article for osu!(lazer) as well (issue #4686) -->
 
-*Main article: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
+::: alert-note
+**Main page:** [Beatmap Spotlights](/wiki/Beatmap_Spotlights)
+:::
 
 Since its early days, the community has had various ways to showcase unique and excellent maps. One of the first documented approaches were monthly and seasonal charts consisting of a small subset of ranked beatmaps, where top players from leaderboards displaying total score across these maps would be awarded with [osu!supporter](/wiki/osu!supporter).
 
