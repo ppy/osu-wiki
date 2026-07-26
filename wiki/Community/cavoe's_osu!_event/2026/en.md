@@ -39,7 +39,6 @@ tags:
 
 ## Activities
 
-
 ### Arcade & VR
 
 COE 2026 features the following Pixel Arcade cabinets:
