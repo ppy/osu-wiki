@@ -12,11 +12,17 @@ tags:
 
 ## Schedule
 
-| Event | Timestamp (UTC+2) |
-| --: | :-- |
-| Bouldering | Tuesday, 28 July (13:00–16:00) |
-| Sushi dinner | Tuesday, 28 July (17:00–20:00) |
-| Efteling | Wednesday, 29 July (11:00–22:00) |
+### Main stage
+
+![Main stage schedule](img/main.png)
+
+### Second stage
+
+![Second stage schedule](img/second.png)
+
+### Other activities
+
+![Other activity schedule](img/other.png)
 
 ## Links
 
@@ -30,6 +36,99 @@ tags:
 ## Venue map
 
 ![Venue map](img/venue-map.png)
+
+## Activities
+
+
+### Arcade & VR
+
+COE 2026 features the following Pixel Arcade cabinets:
+
+- Chunithm (2 cabs)
+- Sound Voltex
+- Taiko No Tatsujin
+- Initial D
+- Pump it up
+- Sega Naomi
+
+The Sega Naomi cabinet runs multiple games on the following schedule:
+
+| Day | Games |
+| :-: | :-- |
+| Monday | Guilty Gear XX Accent Core |
+| Tuesday | Melty Blood: Actress Again |
+| Wednesday | Marvel vs. Capcom 2: New Age of Heroes |
+| Thursday | Guilty Gear XX Accent Core |
+| Friday | Melty Blood: Actress Again |
+| Saturday | Marvel vs. Capcom 2: New Age of Heroes |
+| Sunday | Popular pick / *TBD* |
+
+The arcade will be open from **10:00** until at least **22:00** every day (UTC+2), except Monday were it opens later and Sunday were it closes early. Staff may keep it open after 22:00, but please abide staff direction when it is time to vacate the cabinets.
+
+Two VR setups are also at the arcade and open at the same times.
+
+### Console gaming area
+
+In the main hall next to the Wooting booth, there is a small console gaming area equiped with bean bags, good for *Mario Kart* or *Mario Party* gameplay, among other games. The area is open 24/7.
+
+### Wooting booth
+
+[Wooting](https://wooting.io/) brings a booth with two PCs and "The Switchy Trials" minigame, played on a hall-effect knob. This booth is open from 9:00 to 17:00 every day.
+
+### Table top, table tennis & pool table
+
+A few tables for table top games, table tennis and pool are laid out between the two main halls, directly next to the arcades.
+
+### Chess tournament
+
+On Wednesday at 14:15 (UTC+2), there will be a small chess tournament in the table top area with a few prizes at stake.
+
+[**Click here to sign up!**](https://docs.superhuman.com/form/COE-2026-Chess-Tournament-sign-up-form_dkZR4YzrjWz)
+
+### CHUNITHM tournament
+
+A *CHUNITHM* tournament is held throughout the week with the following schedule:
+
+| Day | Stage | Sign-ups | Maximum participants |
+| :-: | :-- | :-- | :-- |
+| Monday | Gold Qualifiers | Contact staff to make your attempt. | Any |
+| Tuesday | Chunithm Gold | [Chunithm Gold sign-up form](https://docs.superhuman.com/form/COE-CHUNITHM-GOLD-TOURNAMENT-SIGN-UP_dbeYbJg0BYu) | 16 |
+| Thursday | Chunithm Silver | [Chunithm Silver sign-up form](https://docs.superhuman.com/form/COE-CHUNITHM-SILVER-TOURNAMENT-SIGN-UP_dnE14BONRPs) | 12 |
+| Friday | Chunithm Bronze | [cHUNITHM Bronze sign-up form](https://docs.superhuman.com/form/COE-CHUNITHM-BRONZE-TOURNAMENT-SIGN-UP_dbXE3iuT9cL) | 12 |
+
+In the qualifier round, sharing what the charts are with others that want to compete will disqualify both players. The top 16 highest scoring players will get to compete the next day.
+
+Make sure you sign up for the correct tournament difficulty. See the [rule document for more information](https://coda.cavoe.events/arcade-2)
+
+### YEAST tournament
+
+**Yokespai's Extravagant Accuracy Sightread Tournament** (***YEAST***) is a an accuracy battle royale in the osu! game mode, where players compete in sightread duels. Instead of traditional maps, YEAST features unconventional maps with forced storyboards and unique gimmicks designed to test reading ability, adaptability and consistency.
+
+Up to 16 players will battle through multiple rounds on Tuesday at 12:00 (UTC+2), with the the winner receiving a Wooting 60HE V2 keyboard, while the runner-up receives a Wooting UwU keypad.
+
+### Secret showcase
+
+::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241) has a special showcase event featuring a big announcement and an exclusive reveal live on stage at Tuesday 16:00 (UTC+2).
+
+### Guess the Rank (Tuesday 20:00)
+
+In the Guess the Rank show on Tuesday, 20:00 (UTC+2), attendees take the stage and showcase their osu! skills while the hosts try to predict their global leaderboard rank, all while the player themselves is hidden from the hosts. This show features a potential Wooting UwU keypad prize for every winner.
+
+### Musician/artist panel
+
+::{ flag=NL }:: [Kushper](https://osu.ppy.sh/users/4832514) and ::{ flag=US }:: [Naikou](https://osu.ppy.sh/beatmaps/artists/471) will be hosting a panel looking into the world of original tournament music and osu! music in general, at Tuesday 22:30 (UTC+2).
+
+### Survivor
+
+Survivor is a trivia quiz show featuring questions ranging from common knowledge to the most obscure facts. Surviving each round yields progressively harder questions, and the last player standing wins a Wooting UwU keypad plus a Lekker Tikken Light 20 switch pack. The show starts on Wednesday at 21:00 (UTC+2).
+
+### Mindblock
+
+Mindblock is a trivia game show hosted by ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) on Thursday 21:00 (UTC+2), where participants compete on challenging questions, unexpected topics, and brain-teasing rounds where quick thinking and knowledge are key.
+
+### 1000 Hz tablet showcase
+
+On Saturday 12:00 (UTC+2), a special showcase is planned for a "1000 Hz tablet".
 
 ## Organisation
 
