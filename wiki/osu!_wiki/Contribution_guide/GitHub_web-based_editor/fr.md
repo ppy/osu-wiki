@@ -1,13 +1,21 @@
 # L'éditeur web de GitHub
 
-*Remarque : Cet article utilise des combinaisons de touches Windows.*\
-*Voir également : [L'éditeur web github.dev - Docs GitHub](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)*
+::: alert-notice
+**Remarque** : Cet article utilise des combinaisons de touches Windows.
+:::
+
+::: alert-note
+**Voir également** : [L'éditeur web github.dev - Docs GitHub](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)
+:::
 
 [github.dev](https://github.dev) est une version web de [Visual Studio Code](https://code.visualstudio.com) adaptée à GitHub et accessible au public. Comparé à l'éditeur web de GitHub, il offre beaucoup plus de flexibilité et de contrôle sur le contenu du dépôt. github.dev est un moyen recommandé de contribuer au wiki d'osu!, en particulier lorsqu'on travaille sur plusieurs articles à la fois.
 
 ## Navigation
 
-*Note : Pour travailler avec l'osu! wiki, **[forker le dépôt `ppy/osu-wiki`](/wiki/osu!_wiki/Contribution_guide#modifier-le-wiki).***
+::: alert-notice
+**Note**
+Pour travailler avec l'osu! wiki, **[forker le dépôt `ppy/osu-wiki`](/wiki/osu!_wiki/Contribution_guide#modifier-le-wiki).**
+:::
 
 Pour ouvrir l'osu! wiki dans l'éditeur, remplacez `github.com` dans l'URL de votre dépôt fork par `github.dev`. Alternativement, ouvrez votre fork sur GitHub et appuyez sur `.` (point).
 

@@ -12,7 +12,10 @@ La dificultad del beatmap en el que juega un jugador determina el valor del pp f
 
 Luego, las puntuaciones se «ponderan» entre sí para garantizar que solo las mejores puntuaciones de un usuario cuenten más para su clasificación general de puntos de rendimiento. Conocido como [*sistema de ponderación*](#sistema-de-ponderación), su objetivo es evitar la obtención rápida y repetida de puntuaciones de pp más bajas en beatmaps fáciles reduciendo la cantidad de pp que se gana realmente dependiendo de las otras puntuaciones máximas del jugador.
 
-*Nota: Se otorga una pequeña bonificación de pp según el número de mapas clasificados en los que hayas establecido una puntuación.*
+::: alert-notice
+**Aviso**
+Se otorga una pequeña bonificación de pp según el número de mapas clasificados en los que hayas establecido una puntuación.
+:::
 
 ### Sistema de ponderación
 
@@ -40,7 +43,9 @@ Como resultado de esto, los mods como [Double Time](/wiki/Gameplay/Game_modifier
 
 ### Precisión
 
-*Véase también: [Precisión](/wiki/Gameplay/Accuracy)*
+::: alert-note
+**Véase también:** [Precisión](/wiki/Gameplay/Accuracy)
+:::
 
 La *precisión* es una medida porcentual de la capacidad de un jugador para pulsar los [objetos](/wiki/Gameplay/Hit_object) a tiempo; en relación con el algoritmo del pp, es un valor central que se usa para evaluar el rendimiento individual de un jugador en un beatmap.
 

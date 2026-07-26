@@ -28,8 +28,13 @@ tags:
 
 :::
 
-*For the osu!stable version of this article, see: [Target Practice (mod)](/wiki/Gameplay/Game_modifier/Target_Practice)*\
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the osu!stable version of this article, see [Target Practice (mod)](/wiki/Gameplay/Game_modifier/Target_Practice)
+:::
+
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 <!-- TODO description and settings -->
 

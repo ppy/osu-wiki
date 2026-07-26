@@ -35,7 +35,10 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian 
 | *4th place* | 2 months of osu!supporter |
 | *5th place* | 1 month of osu!supporter |
 
-*Note: 5th place was determined by a playoff.*
+::: alert-notice
+**Notice**
+5th place was determined by a playoff.
+:::
 
 ![](img/badge.png "oSEAT3 winner badge")
 
