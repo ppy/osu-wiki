@@ -62,25 +62,25 @@ The Sega Naomi cabinet runs multiple games on the following schedule:
 | Saturday | Marvel vs. Capcom 2: New Age of Heroes |
 | Sunday | Popular pick / *TBD* |
 
-The arcade will be open from **10:00** until at least **22:00** every day (UTC+2), except Monday were it opens later and Sunday were it closes early. Staff may keep it open after 22:00, but please abide staff direction when it is time to vacate the cabinets.
+The arcade will be open from **10:00** until at least **22:00** every day (UTC+2), except Monday where it opens later and Sunday where it closes early. Staff may keep it open after 22:00, but please abide staff direction when it is time to vacate the cabinets.
 
 Two VR setups are also at the arcade and open at the same times.
 
 ### Console gaming area
 
-In the main hall next to the Wooting booth, there is a small console gaming area equiped with bean bags, good for *Mario Kart* or *Mario Party* gameplay, among other games. The area is open 24/7.
+In the main hall next to the Wooting booth, there is a small console gaming area equipped with bean bags, good for *Mario Kart* or *Mario Party* gameplay, among other games. The area is open 24/7.
 
 ### Wooting booth
 
-[Wooting](https://wooting.io/) brings a booth with two PCs and "The Switchy Trials" minigame, played on a hall-effect knob. This booth is open from 9:00 to 17:00 every day.
+[Wooting](https://wooting.io/) brings a booth with two PCs and "The Switchy Trials" minigame, played on a Hall effect knob. This booth is open from 9:00 to 17:00 every day.
 
-### Table top, table tennis & pool table
+### Tabletop, table tennis & pool table
 
-A few tables for table top games, table tennis and pool are laid out between the two main halls, directly next to the arcades.
+A few tables for tabletop games, table tennis and pool are laid out between the two main halls, directly next to the arcades.
 
 ### Chess tournament
 
-On Wednesday at 14:15 (UTC+2), there will be a small chess tournament in the table top area with a few prizes at stake.
+On Wednesday at 14:15 (UTC+2), there will be a small chess tournament in the tabletop area with a few prizes at stake.
 
 [**Click here to sign up!**](https://docs.superhuman.com/form/COE-2026-Chess-Tournament-sign-up-form_dkZR4YzrjWz)
 
@@ -93,17 +93,17 @@ A *CHUNITHM* tournament is held throughout the week with the following schedule:
 | Monday | Gold Qualifiers | Contact staff to make your attempt. | Any |
 | Tuesday | Chunithm Gold | [Chunithm Gold sign-up form](https://docs.superhuman.com/form/COE-CHUNITHM-GOLD-TOURNAMENT-SIGN-UP_dbeYbJg0BYu) | 16 |
 | Thursday | Chunithm Silver | [Chunithm Silver sign-up form](https://docs.superhuman.com/form/COE-CHUNITHM-SILVER-TOURNAMENT-SIGN-UP_dnE14BONRPs) | 12 |
-| Friday | Chunithm Bronze | [cHUNITHM Bronze sign-up form](https://docs.superhuman.com/form/COE-CHUNITHM-BRONZE-TOURNAMENT-SIGN-UP_dbXE3iuT9cL) | 12 |
+| Friday | Chunithm Bronze | [Chunithm Bronze sign-up form](https://docs.superhuman.com/form/COE-CHUNITHM-BRONZE-TOURNAMENT-SIGN-UP_dbXE3iuT9cL) | 12 |
 
-In the qualifier round, sharing what the charts are with others that want to compete will disqualify both players. The top 16 highest scoring players will get to compete the next day.
+In the qualifier round, sharing the charts with other competitors will disqualify both players. The top 16 highest scoring players will get to compete the next day.
 
-Make sure you sign up for the correct tournament difficulty. See the [rule document for more information](https://coda.cavoe.events/arcade-2)
+Make sure you sign up for the correct tournament difficulty. See the [rule document for more information](https://coda.cavoe.events/arcade-2).
 
 ### YEAST tournament
 
 **Yokespai's Extravagant Accuracy Sightread Tournament** (***YEAST***) is a an accuracy battle royale in the osu! game mode, where players compete in sightread duels. Instead of traditional maps, YEAST features unconventional maps with forced storyboards and unique gimmicks designed to test reading ability, adaptability and consistency.
 
-Up to 16 players will battle through multiple rounds on Tuesday at 12:00 (UTC+2), with the the winner receiving a Wooting 60HE V2 keyboard, while the runner-up receives a Wooting UwU keypad.
+Up to 16 players will battle through multiple rounds on Tuesday at 12:00 (UTC+2), with the winner receiving a Wooting 60HE V2 keyboard, while the runner-up receives a Wooting UwU keypad.
 
 ### Secret showcase
 
