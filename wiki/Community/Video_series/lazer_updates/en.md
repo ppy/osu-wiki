@@ -70,6 +70,7 @@ Starting from [June 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updat
 | 54 | [ranked play](https://www.youtube.com/watch?v=FdAS8LHID9g) | Ranked play introduction, loading screens, changes to mods, editor improvements, client-side medals, user notifications, addition of the `/savelog` command | *N/A* |
 | 55 | [solving ranked play's biggest problems](https://www.youtube.com/watch?v=_NEoSHIpuKk) | Ranked play improvements and Duels, dynamic beatmap rating, damage multipliers, eager server transitions, editor improvements, input handling | *N/A* |
 | 56 | [re-evaluating 19 years of scores](https://www.youtube.com/watch?v=lmoad0MZZdg) | New audio engine, [new mod multipliers](https://osu.ppy.sh/home/news/2026-06-03-mod-multipliers-survey-results), server infrastructure and database changes, [performance point updates](https://osu.ppy.sh/home/news/2026-07-03-performance-points-star-rating-updates), editor improvements | *N/A* |
+| 57 | [the osu!stable directive](https://www.youtube.com/watch?v=pUCNWiamJHM) | Visual changes to match osu!(stable), "instafade" setting, interface design changes and saying goodbye to [flyte](https://osu.ppy.sh/users/3103765), editor improvements, ranked play at COE, possible events for osu!'s 20th anniversary | *N/A* |
 
 ## Other related videos
 
