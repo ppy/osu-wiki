@@ -109,7 +109,7 @@ Up to 16 players will battle through multiple rounds on Tuesday at 12:00 (UTC+2)
 
 ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241) has a special showcase event featuring a big announcement and an exclusive reveal live on stage at Tuesday 16:00 (UTC+2).
 
-### Guess the Rank (Tuesday 20:00)
+### Guess the Rank
 
 In the Guess the Rank show on Tuesday, 20:00 (UTC+2), attendees take the stage and showcase their osu! skills while the hosts try to predict their global leaderboard rank, all while the player themselves is hidden from the hosts. This show features a potential Wooting UwU keypad prize for every winner.
 
