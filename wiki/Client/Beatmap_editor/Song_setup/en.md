@@ -34,13 +34,17 @@ The values can be adjusted with 0.1x precision by holding `Shift`, as opposed to
 
 ### HP drain rate
 
-*Main article: [Health](/wiki/Beatmap/HP_drain_rate)*
+::: alert-note
+**Main page:** [Health](/wiki/Beatmap/HP_drain_rate)
+:::
 
 HP drain rate (HP) determines the amount of health recovery or damage from accurate or mistimed [hits](/wiki/Gameplay/Judgement). In osu! and osu!catch, it also affects the rate of [passive health drain](/wiki/Beatmap/HP_drain_rate). Higher values provide lower health recovery with higher punishments.
 
 ### Circle size
 
-*Main article: [Circle size](/wiki/Beatmap/Circle_size)*
+::: alert-note
+**Main page:** [Circle size](/wiki/Beatmap/Circle_size)
+:::
 
 ![Overview of various circle sizes](img/Circle_sizes.png "Overview of various circle sizes")
 
@@ -133,7 +137,9 @@ The combo colours only take effect in osu! and osu!catch.
 
 ### Stack leniency
 
-*Main article: [Stack leniency](/wiki/Beatmap/Stack_leniency)*
+::: alert-note
+**Main page:** [Stack leniency](/wiki/Beatmap/Stack_leniency)
+:::
 
 The stack leniency is an osu!-specific setting, which affects the behaviour of stacked objects. Normally, [sliders](/wiki/Gameplay/Hit_object/Slider) and [circles](/wiki/Gameplay/Hit_object/Hit_circle) that are close in time will automatically [stack](/wiki/Beatmapping/Mapping_techniques/Stack) and slightly shift if placed in the same spot. This is done to help players better see [overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap) objects.
 

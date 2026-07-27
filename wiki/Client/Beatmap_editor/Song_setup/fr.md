@@ -40,13 +40,17 @@ Les valeurs peuvent être ajustées avec une précision de 0,1x en maintenant la
 
 ### HP drain rate
 
-*Article principale : [Santé](/wiki/Beatmap/HP_drain_rate)*
+::: alert-note
+**Page principale** : [Santé](/wiki/Beatmap/HP_drain_rate)
+:::
 
 Le HP drain rate (HP) détermine la quantité de points de vie récupérés ou les dégâts causés par des [hits](/wiki/Gameplay/Judgement) précis ou non. Dans osu! et osu!catch, il affecte également le [passive health drain](/wiki/Beatmap/HP_drain_rate). Des valeurs plus élevées permettent de récupérer moins de points de vie et d'infliger des punitions plus lourdes.
 
 ### Circle size
 
-*Article principale : [Circle size](/wiki/Beatmap/Circle_size)*
+::: alert-note
+**Page principale** : [Circle size](/wiki/Beatmap/Circle_size)
+:::
 
 ![Aperçu des différentes circle sizes](img/Circle_sizes.png "Aperçu des différentes circle sizes")
 
@@ -134,7 +138,9 @@ La section `Design` contient divers réglages qui affectent l'aspect général d
 
 ### Stack leniency
 
-*Article principale : [Stack leniency](/wiki/Beatmap/Stack_leniency)*
+::: alert-note
+**Page principale** : [Stack leniency](/wiki/Beatmap/Stack_leniency)
+:::
 
 Le stack leniency est un paramètre spécifique à osu! qui affecte le comportement des objets empilés. Normalement, les [sliders](/wiki/Gameplay/Hit_object/Slider) et les [cercles](/wiki/Gameplay/Hit_object/Hit_circle) qui sont proches dans le temps vont automatiquement [s'empiler](/wiki/Beatmapping/Mapping_techniques/Stack) et se décaler légèrement s'ils sont placés au même endroit. Ceci est fait pour aider les joueurs à mieux voir les objets qui se [chevauchent](/wiki/Beatmapping/Mapping_techniques/Overlap).
 

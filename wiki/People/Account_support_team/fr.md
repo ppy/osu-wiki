@@ -20,7 +20,10 @@ Il faut généralement quelques jours pour que le service de support réponde à
 
 ## Rôle et missions
 
-*Article principal : [Centre d'aide](/wiki/Help_centre)*\
+::: alert-note
+**Page principale** : [Centre d'aide](/wiki/Help_centre)
+:::
+
 ::: alert-note
 **Voir également** : [Restrictions relatives aux comptes](/wiki/Help_centre/Account_restrictions)
 :::
