@@ -35,7 +35,7 @@ tags:
 
 ## Venue map
 
-![Venue map](img/venue-map.png)
+![Venue map](img/venue-map.png?1)
 
 ## Activities
 
