@@ -71,17 +71,17 @@ Nếu một người dùng đối mặt với hình phạt nặng hơn, chẳng 
 
 ## Lệnh cấm tổ chức giải đấu
 
-Lệnh cấm việc tổ chức ngăn cản người dùng trở thành người tổ chức chính hoặc quản lý đối với bất kỳ giải đấu hỗ trợ chính thức nào. Tuy nhiên, họ vẫn có thể tham gia vào các vai trò khác không liên quan đến việc tổ chức.
+Lệnh cấm tổ chức ngăn người dùng trở thành người tổ chức chính hoặc làm quản lý của bất kỳ giải đấu được hỗ trợ chính thức nào. Tuy nhiên, họ vẫn có thể tham gia vào các vai trò khác không liên quan đến việc tổ chức.
 
 Ủy ban Giải đấu có quyền bỏ qua hình phạt [giám sát việc tổ chức](#giám-sát-việc-tổ-chức) trong các trường hợp vi phạm nghiêm trọng [các quy tắc hỗ trợ chính thức](/wiki/Tournaments/Official_support). Đặc biệt trong những trường hợp mà tính công bằng cạnh tranh là vấn đề đáng lo ngại.
 
-## Lệnh cấm nhân sự giải đấu
+## Lệnh cấm làm nhân sự giải đấu
 
-Lệnh cấm làm nhân sự giải đấu ngăn một người dùng trở thành nhân sự trong giải đấu được hỗ trợ chính thức, ngoại lệ đối với việc phát trực tuyến, bình luận viên hoặc thiết kế đồ họa.
+Lệnh cấm làm nhân sự giải đấu ngăn một người dùng trở thành nhân sự trong giải đấu được hỗ trợ chính thức, với ngoại lệ là các vai trò phát trực tiếp, bình luận viên hoặc thiết kế đồ họa.
 
 ## Tôi có thể kháng cáo lệnh xử phạt giải đấu không? {id=appeal}
 
-Lệnh xử phạt giải đấu được áp dụng qua các phương thức khác ngoài [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) được đi kèm với thời hạn 72 giờ để kháng cáo, trong thời gian này người bị áp dụng có thể phản đối hình phạt. Sau khi quãng thời gian kháng cáo này trôi qua, các lệnh xử phạt không bao gồm lệnh cấm thi đấu vô thời hạn đều không thể kháng cáo.
+Lệnh xử phạt giải đấu được áp dụng qua các phương thức khác ngoài [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) được đi kèm với thời hạn 72 giờ để kháng cáo. Sau khi quãng thời gian này, các lệnh xử phạt trừ lệnh cấm thi đấu vô thời hạn đều không thể kháng cáo.
 
 Lệnh cấm thi đấu vô thời hạn có thể được kháng cáo sau ít nhất **hai năm** (24 tháng) kể từ khi chúng được áp dụng lần đầu tiên. Người dùng kháng cáo lệnh cấm thi đấu vô thời hạn sẽ phải chứng minh được sự tham gia tích cực trong cộng đồng osu! rộng lớn hơn, thông qua các giải đấu thường hoặc bằng cách khác, và có một hồ sơ hành vi hoàn toàn trong sạch trong suốt khoảng thời gian này. Trong trường hợp đơn kháng cáo không thành công, người dùng bắt buộc phải chờ ít nhất **một năm** (12 tháng) kể từ ngày kháng cáo cuối cùng trước khi có thể kháng cáo trở lại.
 
@@ -95,4 +95,4 @@ Trong những trường hợp hiếm hoi, [đội ngũ hỗ trợ tài khoản](
 ![](img/tourney-ban-profile.png "Lệnh cấm thi đấu trên hồ sơ của người dùng")
 :::
 
-Lệnh cấm thi đấu vô thời hạn và các lệnh cấm thi đấu được áp dụng qua cách thức khác với [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) đều hiển thị trên hồ sơ của người dùng trong toàn bộ thời gian bị cấm được đề cập, cộng thêm **28 ngày** sau khi lệnh cấm hết hiệu lực. Lệnh xử phạt giải đấu khác (VD: giám sát việc tổ chức, cấm người tổ chức và cấm nhân sự giải đấu) đều không hiển thị theo cách này.
+Lệnh cấm thi đấu vô thời hạn và các lệnh cấm thi đấu được áp dụng qua phương thức khác ngoài [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) đều hiển thị trên hồ sơ của người dùng trong toàn bộ thời gian bị cấm được đề cập, cộng thêm **28 ngày** sau khi lệnh cấm hết hiệu lực. Lệnh xử phạt giải đấu khác (VD: giám sát việc tổ chức, cấm tổ chức và cấm làm nhân sự) đều không hiển thị theo cách này.
