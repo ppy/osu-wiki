@@ -18,7 +18,7 @@ Lấy một ví dụ thực tế, hành vi như vậy sẽ bao gồm việc vẽ
 
 Tất cả người dùng quay lại trò chơi sau khi được gỡ hạn chế theo các điều kiện kháng cáo tiêu chuẩn đều phải nhận [lệnh cấm tham gia giải đấu tạm thời ít nhất 1 năm](/wiki/Help_centre/Account_restrictions#reasons) hoặc lâu hơn theo quyết định của [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team).
 
-### Điều gì dẫn đến ai đó nhận được cấm thi đấu vô thời hạn? {id=why-permanent}
+### Điều gì dẫn đến cấm thi đấu vô thời hạn? {id=why-permanent}
 
 Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc các phương pháp khác để đạt được lợi thế không công bằng so với những người tham gia khác trong một giải đấu được hỗ trợ chính thức sẽ dẫn đến lệnh cấm tham gia giải đấu vô thời hạn. Trong một số tình huống, đặc biệt là những trường hợp lạm dụng quá mức, cũng có thể dẫn đến hình phạt này tùy theo quyết định của đội ngũ hỗ trợ.
 
@@ -28,7 +28,7 @@ Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc c
 - Sử dụng nhiều tài khoản để tham gia giải đấu.
 - Cố gắng né tránh lệnh im lặng hay vi phạm bằng cách sử dụng tài khoản khác.
 - Chia sẻ tài khoản trong khi tham gia một giải đấu hỗ trợ chính thức.
-- Kết hợp thu thập hoặc sử dụng thông tin riêng tư theo cách khác nhằm đạt được hoặc mang lại lợi thế (chẳng hạn như truy cập thông tin mappool trước các đội khác, v.v.)
+- Thu thập hoặc sử dụng thông tin riêng tư theo cách khác nhằm đạt được hoặc mang lại lợi thế (chẳng hạn như truy cập thông tin mappool trước các đội khác, v.v.)
 - Lạm dụng vị trí tin cậy để đạt được hoặc mang lại lợi thế (sửa đổi lịch thi đấu, thay đổi đội hình một cách không công bằng, hoặc loại bỏ người tham gia mà không có lý do hay giải thích hợp lý).
 - Tổ chức các chiến dịch lạm dụng có chủ đích nhằm vào người tham gia hoặc ban tổ chức nằm ngoài phạm vi chỉ trích.
 
@@ -56,7 +56,7 @@ Thông tin về trạng thái lệnh cấm thi đấu của bạn có thể đư
 
 ## Giám sát việc tổ chức
 
-Một giám sát đối với việc tổ chức được thực thi như là kết quả của vi phạm các quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support) mà không được giải quyết qua trao đổi với người tổ chức sau khi giải đấu kết thúc. Khi một giám sát việc tổ chức được áp dụng với người dùng, các giải đấu áp dụng hỗ trợ chính thức tiếp theo do họ tổ chức sẽ được Ủy ban Giải đấu giám sát chặt chẽ trong lúc giải đấu và sau khi hoàn thành. Những vấn đề nhỏ mà bình thường chỉ cần trao đổi qua email là xong mà không gây ra sự cố gì, nhưng trong trường hợp này sẽ khiến thời gian giám sát bị kéo dài. Vi phạm nghiêm trọng đối với các quy tắc hỗ trợ chính thức sau khi giám sát được áp dụng sẽ dẫn đến việc [cấm tổ chức giải đấu](#lệnh-cấm-tổ-chức-giải-đấu) hoặc hình phạt lớn hơn, theo quyết định của Ủy ban Giải đấu.
+Giám sát việc tổ chức được thực thi như là kết quả của vi phạm các quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support) mà không được giải quyết qua trao đổi với người tổ chức sau khi giải đấu kết thúc. Khi một giám sát việc tổ chức được áp dụng với người dùng, các giải đấu áp dụng hỗ trợ chính thức tiếp theo do họ tổ chức sẽ được Ủy ban Giải đấu giám sát chặt chẽ trong lúc giải đấu và sau khi hoàn thành. Những vấn đề nhỏ mà bình thường chỉ cần trao đổi qua email là xong mà không gây ra sự cố gì, nhưng trong trường hợp này sẽ khiến thời gian giám sát bị kéo dài. Vi phạm nghiêm trọng đối với các quy tắc hỗ trợ chính thức sau khi giám sát được áp dụng sẽ dẫn đến việc [cấm tổ chức giải đấu](#lệnh-cấm-tổ-chức-giải-đấu) hoặc hình phạt lớn hơn, theo quyết định của Ủy ban Giải đấu.
 
 Giám sát việc tổ chức có thể được gỡ bỏ nếu giải đấu được tổ chức mà **không** vi phạm các quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support), điều này bao gồm các vấn đề nhỏ mà cần phải gửi email cho người tổ chức để sửa chúng. Các ví dụ về những vấn đề này bao gồm:
 
