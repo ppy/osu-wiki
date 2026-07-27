@@ -19,7 +19,10 @@ Es dauert normalerweise einige Tage für den Support, die E-Mail zu bearbeiten. 
 
 ## Rollen und Aufgaben
 
-*Hauptartikel: [Hilfecenter](/wiki/Help_centre)*\
+::: alert-note
+**Hauptseite:** [Hilfecenter](/wiki/Help_centre)
+:::
+
 ::: alert-note
 **Siehe auch:** [Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions)
 :::

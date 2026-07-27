@@ -129,7 +129,9 @@ L'éditeur spécifique à osu!mania présente quelques différences par rapport 
 
 ### Diviseur de mesure
 
-*Article principal : [Diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+::: alert-note
+**Page principale** : [Diviseur de mesure](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+:::
 
 ![](img/beat-snap-divisor-mania-FR.jpg?1 "Le diviseur de mesure dans osu!mania")
 
