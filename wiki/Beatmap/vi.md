@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-Một **beatmap** (đôi khi gọi là *beatmapset*) là một tập hợp các ([độ khó](#độ-khó)) của trò chơi được tạo ra bằng nhiều [nốt](/wiki/Gameplay/Hit_object) và gần như luôn phản ánh một bài nhạc. Nó cũng bao gồm nhiều thành phần khác và toàn bộ được đóng gói vào một tệp lưu trữ với [phần mở rộng `.osz`](/wiki/Client/File_formats/osz_(file_format)):
+Một **beatmap** (đôi khi gọi là *beatmapset*) là một tập hợp các ([độ khó](#độ-khó)) của trò chơi được tạo ra bằng nhiều [nốt bấm](/wiki/Gameplay/Hit_object) và gần như luôn phản ánh một bài nhạc. Nó cũng bao gồm nhiều thành phần khác và toàn bộ được đóng gói vào một tệp lưu trữ với [phần mở rộng `.osz`](/wiki/Client/File_formats/osz_(file_format)):
 
 - bài hát được lưu trữ theo định dạng MP3 hoặc Ogg.
 - [ảnh nền](/wiki/Beatmap/Background) hoặc video, với vai trò như khu vực chơi.
@@ -49,7 +49,7 @@ Một beatmap được tải lên thuộc một trong các danh mục sau, có t
 - [Đắp mộ](Category#graveyard)
 - [Đang thực hiện / Đang chờ](Category#wip-and-pending)
 - [Đủ điều kiện](Category#qualified)
-- [Xếp hạng](Category#ranked)
+- [Được xếp hạng](Category#ranked)
 - [Được chấp nhận](Category#approved)
 - [Được yêu thích](Category#loved)
 
