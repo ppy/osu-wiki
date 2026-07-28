@@ -30,8 +30,6 @@ Penilaian dari tingkat terendah hingga tertinggi, kemungkinan nilai yang bisa di
 | C | Perolehan 300 di atas 60% |
 | D | Lainnya |
 
-Nilai S atau SS yang berwarna perak dapat diperoleh dengan memasang mod *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* dan/atau mod *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)*.
-
 ## osu!taiko
 
 | Nilai | Kondisi |
@@ -45,16 +43,14 @@ Nilai S atau SS yang berwarna perak dapat diperoleh dengan memasang mod *[Hidden
 
 ## osu!catch
 
-| Grade | Condition |
+| Nilai | Kondisi |
 | :-: | :-- |
-| SS | 100.00% Accuracy |
-| S | 98.01% to 99.99% Accuracy (an 'S' rank is possible even with several misses, like in *osu!mania*). |
-| A | 94.01% to 98.00% Accuracy |
-| B | 90.01% to 94.00% Accuracy |
-| C | 85.01% to 90.00% Accuracy |
-| D | Any other accuracy under 85.00%. |
-
-A silver S or SS can be obtained by using the *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)* mod.
+| SS | Akurasi 100% |
+| S | Akurasi di antara 98.01% sampai 99.99% (nilai S dapat diperoleh meskipun terdapat beberapa miss, seperti di osu!mania). |
+| A | Akurasi di antara 94.01% sampai 98.00% |
+| B | Akurasi di antara 90.01% sampai 94.00% |
+| C | Akurasi di antara 85.01% sampai 90.00% |
+| D | Akurasi di bawah 85.00% |
 
 ## osu!mania
 
@@ -66,5 +62,3 @@ A silver S or SS can be obtained by using the *[Hidden](/wiki/Gameplay/Game_modi
 | B | Over 80% Accuracy. |
 | C | Over 70% Accuracy. |
 | D | Anything else. |
-
-It is possible to obtain SSH or SH ranks (silver S or SS) with [Hidden](/wiki/Gameplay/Game_modifier/Hidden)/[Fade In](/wiki/Gameplay/Game_modifier/Fade_In) or [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) mod.
