@@ -26,10 +26,11 @@ tags:
 | 默认快捷键 ![][osu!] ![][osu!taiko] ![][osu!catch] | `H` |
 | 默认快捷键 ![][osu!mania] | `J` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 ![][osu!] ![][osu!taiko] ![][osu!catch] | 1.06x |
-| 得分系数 ![][osu!mania] | 1.00x |
+| 得分系数 ![][osu!] ![][osu!taiko] ![][osu!catch] | `1.06x` |
+| 得分系数 ![][osu!mania] | `1.00x` |
 | 状态 | 计入排名 |
-| 不兼容的模组 | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| 不兼容的模组 ![][osu!] | [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| 不兼容的模组 ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
 

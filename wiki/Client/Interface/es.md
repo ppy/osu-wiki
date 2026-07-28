@@ -146,7 +146,9 @@ Ordena los beatmaps en un orden determinado.
 
 ### Buscar
 
-*Artículo principal: [Búsqueda de beatmaps](/wiki/Beatmap_search)*
+::: alert-note
+**Página principal:** [Búsqueda de beatmaps](/wiki/Beatmap_search)
+:::
 
 ![](img/search-bar-ES.jpg)
 

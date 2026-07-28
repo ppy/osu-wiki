@@ -22,14 +22,15 @@ tags:
 | :-- | :-- |
 | Acrónimo | FL |
 | Tipo | Aumento de dificultad |
-| Tecla de acceso directo predeterminada ![][osu!] ![][osu!taiko] ![][osu!catch] | `J` |
+| Tecla de acceso directo predeterminada ![][osu!] | `K` |
+| Tecla de acceso directo predeterminada ![][osu!taiko] ![][osu!catch] | `J` |
 | Tecla de acceso directo predeterminada ![][osu!mania] | `L` |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicador de puntuación ![][osu!] ![][osu!taiko] ![][osu!catch] | 1,12x |
-| Multiplicador de puntuación ![][osu!mania] | 1,00x |
+| Multiplicador de puntuación ![][osu!] ![][osu!taiko] ![][osu!catch] | `1,12x` |
+| Multiplicador de puntuación ![][osu!mania] | `1,00x` |
 | Estado | Clasificado |
-| Mods incompatibles ![][osu!] ![][osu!taiko] ![][osu!catch] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
-| Mods incompatibles ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
+| Mods incompatibles ![][osu!] | [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
+| Mods incompatibles ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover) |
 
 :::
 
