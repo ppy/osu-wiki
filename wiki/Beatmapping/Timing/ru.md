@@ -6,7 +6,7 @@
 
 Помимо равномерной расстановки нот, тайминг отвечает за следующие вещи:
 
-- Пульсацию [логотипа osu!](/wiki/Client/Interface/Cookie) (англ. *osu! cookie*) в главном меню и на [экране выбора песни](/wiki/Client/Interface#song-select), а также за пульсацию прочих эффектов меню, привязанных к ритму;
+- Пульсацию [логотипа osu!](/wiki/Client/Interface/Cookie) (англ. *osu! cookie*) в главном меню и на [экране выбора песни](/wiki/Client/Interface#экран-выбора-песни), а также за пульсацию прочих эффектов меню, привязанных к ритму;
 - Пульсацию игровых объектов во время [киаи](/wiki/Gameplay/Kiai_time);
 - Сэмплы ударных инструментов, добавляемые модом [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore);
 - Появление линий начала такта (англ. *barline*) в [osu!taiko](/wiki/Game_mode/osu!taiko) и [osu!mania](/wiki/Game_mode/osu!mania).
