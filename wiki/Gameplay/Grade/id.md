@@ -34,12 +34,14 @@ Nilai S atau SS yang berwarna perak dapat diperoleh dengan memasang mod *[Hidden
 
 ## osu!taiko
 
-| Grade | Condition |
+| Nilai | Kondisi |
 | :-: | :-- |
-| SS | 100% Accuracy. |
-| S | Over 95% Accuracy (90+% GREATs, or less than 1 GOOD for every 10 notes). |
-| A | Over 90% Accuracy (80+% GREATs, or less than 1 GOOD for every 5 notes). |
-| B | Over 80% Accuracy (70+% GREATs, or less than 1 GOOD for every 3.33 notes). |
+| SS | Akurasi 100% |
+| S | Perolehan GREAT di atas 90% dan tidak ada miss |
+| A | Perolehan GREAT di atas 80% dan tidak ada miss, **ATAU** perolehan GREAT lebih dari 90% |
+| B | Perolehan GREAT di atas 70% dan tidak ada miss, **ATAU** perolehan GREAT lebih dari 80%. |
+| C | Perolehan GREAT di atas 60% |
+| D | Lainnya |
 
 ## osu!catch
 
