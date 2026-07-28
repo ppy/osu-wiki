@@ -13,8 +13,13 @@ tags:
 
 # Game modifier (lazer)
 
-*For the osu!stable version of this article, see: [Game modifier](/wiki/Gameplay/Game_modifier)*\
-*For other uses of "mod", see: [Mod (disambiguation)](/wiki/Disambiguation/Mod)*
+::: alert-note
+**Note:** For the osu!stable version of this article, see [Game modifier](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Note:** For other uses of "mod", see [Mod (disambiguation)](/wiki/Disambiguation/Mod)
+:::
 
 ![](img/mod-select.jpg "Mod selection screen for the osu! game mode")
 

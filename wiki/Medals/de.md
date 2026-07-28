@@ -20,7 +20,9 @@ Es ist jedoch erwähnenswert, dass sich der Inhalt aller Video Game Packs, Anime
 
 ## Mod Introduction
 
-*Siehe auch: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Siehe auch:** [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+:::
 
 **Mod Introduction Medaillen** (zu Dt. Mod-Vorstellung) sind Medaillen, die beim Abschließen von [qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked) oder [approved](/wiki/Beatmap/Category#approved) Beatmaps mit der entsprechenden [Spielmodifikation (Mod)](/wiki/Gameplay/Game_modifier) überreicht werden. Diese Medaillen sollen neue Spieler dazu ermutigen, jede Mod auszuprobieren und zu entdecken, was das Spiel zu bieten hat. Bedenke jedoch, dass wenn Spieler mit mehreren Spielmodifikationen zur gleichen Zeit spielen, der Spieler **nicht** berechtigt ist, *irgendeine* der Medaillen für die Spielmodifikationen für dieses Spiel zu gewinnen.
 

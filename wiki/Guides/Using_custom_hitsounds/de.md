@@ -29,7 +29,9 @@ Wenn die Tondateien im Ordner der Beatmap platziert sind, müssen sie angemessen
 
 In osu! existieren drei Kategorien von Hitsounds, die als *Samplesets* bekannt sind: Normal (N), Soft (S) und Drum (D). Jedes Sampleset kann weiterhin in verschiedene Töne unterteilt werden. Die häufigsten sind: "hitnormal", "hitclap", "hitwhistle" und "hitfinish". Außerdem existieren speziellere Töne, wie die, die während eines Sliders ("sliderslide", "slidertick") oder eines Spinners ("spinnerspin") abgespielt werden.
 
-*Für eine vollständige Liste an Hitsounds, die modifiziert werden können, siehe: [Skinning-Eintrag zu Hitsounds](/wiki/Skinning/Sounds#hitsounds)*
+::: alert-note
+**Anmerkung:** Für eine vollständige Liste an Hitsounds, die modifiziert werden können, siehe [Skinning-Eintrag zu Hitsounds](/wiki/Skinning/Sounds#hitsounds)
+:::
 
 Hitsound-Dateien geben die beiden Eigenschaften des Samplesets und des Tontyps folgendermaßen im Namen wieder:
 

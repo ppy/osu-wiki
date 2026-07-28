@@ -21,14 +21,19 @@ tags:
 | Acrónimo | SV2 |
 | Tipo | Sistema |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | `1,00x` |
 | Estado | No clasificado |
 | Mods incompatibles | Ninguno |
 
 :::
 
-*Para la versión de osu!(estable) de este artículo, véase: [ScoreV2 (mod)](/wiki/Gameplay/Game_modifier/ScoreV2)*\
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la versión de osu!(estable) de este artículo, véase [ScoreV2 (mod)](/wiki/Gameplay/Game_modifier/ScoreV2)
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Score V2** indica que una puntuación se estableció en osu!(stable) y usó las mecánicas de juego y el algoritmo de puntuación [ScoreV2](/wiki/Gameplay/Score#scorev2).[^score-v2-ref] Las puntuaciones con este mod muestran su valor de puntuación original, a diferencia del resto de puntuaciones de osu!(stable), que se recalculan usando un algoritmo de puntuación más reciente.[^original-score-ref]
 

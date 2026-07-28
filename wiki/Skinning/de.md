@@ -9,7 +9,9 @@ Skinning ist eine der Hauptfunktionen von osu! und ermöglicht Spielern den Stan
 
 ## Skinsets
 
-*Hauptseite: [Skinsetliste](/wiki/Ranking_criteria/Skin_set_list)*
+::: alert-note
+**Hauptseite:** [Skinsetliste](/wiki/Ranking_criteria/Skin_set_list)
+:::
 
 **Nur für Beatmaps**: Wenn dein Beatmap-Skin ein einziges Element aus den Sets enthält, die in den Ranking-Kriterien aufgelistet werden, muss er auch alle anderen Elemente aus dem besagten Skin-Set enthalten. Das trifft nur auf Beatmap-Skins zu, aber andere Skinersteller können sich auch an diesen Listen orientieren.
 

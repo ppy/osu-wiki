@@ -1,6 +1,8 @@
 # Lista de canciones de osu!stream
 
-*Para más información sobre el juego base, véase: [osu!stream](/wiki/osu!stream)*
+::: alert-note
+**Nota:** Para más información sobre el juego base, véase [osu!stream](/wiki/osu!stream)
+:::
 
 osu!stream incluye hasta 45 canciones jugables repartidas en varios lotes y paquetes de canciones. A partir de [la actualización de 2020](https://news.osustream.com/post/611013728007274496/osustream-2020-release), todas las canciones pueden descargarse y jugarse de forma gratuita.
 

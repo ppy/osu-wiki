@@ -15,7 +15,9 @@ tags:
 
 # 官方锦标赛支持
 
-*关于作图比赛支持，请参见：[官方作图竞赛支持](/wiki/Contests/Official_support)。*
+::: alert-note
+**备注：** 关于作图比赛支持，请参见[官方作图竞赛支持](/wiki/Contests/Official_support)。
+:::
 
 如果基于社区的锦标赛各项标准均符合官方团队的要求，[osu! 团队](/wiki/People/osu!_team)可以向这些锦标赛酌情提供额外的支持。
 
