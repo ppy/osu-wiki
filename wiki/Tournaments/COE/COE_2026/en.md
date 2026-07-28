@@ -76,6 +76,29 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 
 ## Mappools
 
+### Offline stage
+
+- No Mod
+  1. [Teminite & Panda Eyes - Highscore [Appoq's NG+]](https://osu.ppy.sh/beatmapsets/2593110#osu/5789797)
+  2. [Imperial Circus Dead Decadence - Jashin no Konrei, Gi wa Ai to Shiru. [Zetsubou no Hana]](https://osu.ppy.sh/beatmapsets/1923289#osu/3970329)
+  3. [yax03 - down [G O D]](https://osu.ppy.sh/beatmapsets/2419109#osu/5589234)
+  4. [XenjeS - SEASiDE RESORT FEVER+ [Beach catastrophy]](https://osu.ppy.sh/beatmapsets/2593324#osu/5790452)
+  5. [maki - stairway to the universe [end (COE Edition.)]](https://osu.ppy.sh/beatmapsets/2468655#osu/5787954)
+- Hidden
+  1. [katagiri - Heisei Saikyou no Curry Ya [Tikka Masala]](https://osu.ppy.sh/beatmapsets/2593115#osu/5789803)
+  2. [MIDORI - YUKIKO san [aishiteiru's extra decimated]](https://osu.ppy.sh/beatmapsets/2368685#osu/5574698)
+  3. [Camellia - Kono Hoshi de.... (20th Anniversary Remake) [ploem]](https://osu.ppy.sh/beatmapsets/2287988#osu/4881763)
+- Hard Rock
+  1. [tokiwa yuu - shounen ripples [Arles]](https://osu.ppy.sh/beatmapsets/356426#osu/784369)
+  2. [NIWASHI - The Fascinating Cat's Eye [drowned at cavoe's osu event]](https://osu.ppy.sh/beatmapsets/2592821#osu/5789005)
+  3. [Naikou & Kushper - Astrophyllite [Starleaf]](https://osu.ppy.sh/beatmapsets/2593258#osu/5790244)
+- Double Time
+  1. [Tatsh, sampling masters MEGA - Weave Detonator [Final]](https://osu.ppy.sh/beatmapsets/2593080#osu/5789728)
+  2. [Hatsune Miku - Mythologia's End [Myth0108ia]](https://osu.ppy.sh/beatmapsets/48979#osu/151229)
+  3. [KASAI HARCORES - Cycle Hit [Home Run]](https://osu.ppy.sh/beatmapsets/636839#osu/1351114)
+- Tiebreaker
+  1. **[Kyutatsuki - COSMIC CROWN [CORONATION]](https://osu.ppy.sh/beatmapsets/2593220#osu/5790094)**
+
 ### Online play-in stage
 
 - No Mod
@@ -116,6 +139,16 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
   3. [Halozy - 143 (extended mix) [Lunatic]](https://osu.ppy.sh/beatmapsets/1132649#osu/2365788)
 
 ## Match results
+
+### Offline stage
+
+The bracket for the offline stage can be found [here](https://liquipedia.net/osu/COE/2026#Results).
+
+Thursday, 10th of July 2026:
+
+| Player 1 |  |  | Player 2 | Match time |
+| --: | :-: | :-: | :-- | :-- |
+| origin_ ::{ flag=RO }:: | 0 | 0 | ::{ flag=US }:: BoshyMan741 | 12:00 |
 
 ### Online play-in stage
 
