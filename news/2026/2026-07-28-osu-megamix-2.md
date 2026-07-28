@@ -16,7 +16,7 @@ As an extra surprise, those users who travelled all the way to the Netherlands t
 Without further ado, please enjoy the following video introduction, made by [Andy Raikou](https://osu.ppy.sh/users/14731677), [xootynator](https://osu.ppy.sh/users/3717598), and [Spazza17](https://osu.ppy.sh/users/3516241):
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Ukj6TeGaLeI" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/mCztSuGe3aY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Now, let's go over a brief retrospective about this project's origins, the ever-lasting impact it had on the community, and its inevitable return a decade later.
