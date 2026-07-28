@@ -36,8 +36,8 @@
 
 | Сообщение | Пояснение | Как исправить | Примечания |
 | :-- | :-- | :-- | :-- |
-| HP rate for Easy/Normal is suggested to be at least 4. |  | Откройте окно [Song Setup](/wiki/Client/Beatmap_editor/Song_setup), перейдите на вкладку `Difficulty` и поменяйте значение `HP Drain Rate` 4 или выше. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania |
-| HP rate for Hard and up is suggested to be at least 7. |  | Откройте окно [Song Setup](/wiki/Client/Beatmap_editor/Song_setup), перейдите на вкладку `Difficulty` и поменяйте значение `HP Drain Rate` 7 или выше. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania |
+| HP rate for Easy/Normal is suggested to be at least 4. |  | Откройте окно [Song Setup](/wiki/Client/Beatmap_editor/Song_setup), перейдите на вкладку `Difficulty` и поменяйте значение `HP Drain Rate` на 4 или выше. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania |
+| HP rate for Hard and up is suggested to be at least 7. |  | Откройте окно [Song Setup](/wiki/Client/Beatmap_editor/Song_setup), перейдите на вкладку `Difficulty` и поменяйте значение `HP Drain Rate` на 7 или выше. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania |
 | OD rate is suggested to be at least 5. |  | Откройте окно [Song Setup](/wiki/Client/Beatmap_editor/Song_setup), перейдите на вкладку `Difficulty` и поменяйте значение `Overall Difficulty` на 5 или выше. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania. Если низкое значение OD выбрано намеренно, это сообщение можно проигнорировать. |
 | OD rate for maps with very few sliders is suggested to be at least 7. |  | Откройте окно [Song Setup](/wiki/Client/Beatmap_editor/Song_setup), перейдите на вкладку `Difficulty` и поменяйте значение `Overall Difficulty` на 7 или выше. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania. Если низкое значение OD выбрано намеренно, это сообщение можно проигнорировать. |
 | OD rate for maps with very few sliders is suggested to be at least 8. |  | Откройте окно [Song Setup](/wiki/Client/Beatmap_editor/Song_setup), перейдите на вкладку `Difficulty` и поменяйте значение `Overall Difficulty` на 8 или выше. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania. Если низкое значение OD выбрано намеренно, это сообщение можно проигнорировать. |
@@ -83,7 +83,7 @@
 
 | Сообщение | Пояснение | Как исправить | Примечания |
 | :-- | :-- | :-- | :-- |
-| This slider moves in an abnormal way. | Слайдер накладывается сам на себя, возвращаясь точно по тому же пути, по которому шёл (такие слайдеры называют [бураи-слайдерами](/wiki/Beatmapping/Mapping_techniques/Unrankable#burai-sliders)). | Проследите, чтобы слайдер не накладывался сам на себя. |  |
+| This slider moves in an abnormal way. | Слайдер накладывается сам на себя, возвращаясь точно по тому же пути, по которому шёл (подобную технику называют [бурай-слайдерами](/wiki/Beatmapping/Mapping_techniques/Unrankable#burai-sliders)). | Проследите, чтобы слайдер не накладывался сам на себя. |  |
 | Slider has an absurdly large amount of points! |  | Удалите часть контрольных точек слайдера. | Это предупреждение можно проигнорировать, если большое число контрольных точек добавлено специально — например, в сложных [слайдер-артах](http://osu.ppy.sh/community/forums/topics/689531). |
 | This combo is very long. Consider splitting it up. |  | Разбейте длинное комбо на несколько более коротких. Желательно, чтобы в каждом комбо было не больше 15–18 объектов. | Особенно заметно на картах ![](/wiki/shared/mode/catch.png) osu!catch, где фрукты будут скапливаться на тарелке ловца, пока комбо не прервётся, из-за чего может ухудшаться обзор. Это предупреждение можно проигнорировать, если длинное комбо используется намеренно. |
 | Object's end is offscreen! | Конец объекта (полностью или частично) не помещается на экране при соотношении сторон 4:3. | Удалите объект или передвиньте его конец. | AiMod не всегда правильно определяет верхнюю границу игрового поля, поэтому рекомендуется проверять, действительно ли конец объекта выходит за пределы экрана. |
@@ -122,7 +122,7 @@
 | More than 1/3 of the map is Kiai time. Consider reducing this. |  | Сократите использование киаи на карте. | Это предупреждение можно проигнорировать, если киаи расставлен так намеренно. |
 | More than 1/2 of the TV Size map is Kiai time. Consider reducing this. |  | Сократите использование киаи на карте. | Это предупреждение можно проигнорировать, если киаи расставлен так намеренно. |
 | Kiai isn't snapped! | Начало киаи не привязано к временно́й шкале. | Поставьте начало киаи на нужное деление временно́й шкалы. |  |
-| Kiai's end isn't snapped! | Конец указанного киаи не привязана к временно́й шкале. | Поставьте конец киаи на нужное деление временно́й шкалы. |  |
+| Kiai's end isn't snapped! | Конец указанного киаи не привязан к временно́й шкале. | Поставьте конец киаи на нужное деление временно́й шкалы. |  |
 | Breaktime is not suggested for mania maps. |  | Замапайте участок, на котором находится перерыв. | ![](/wiki/shared/mode/mania.png) Только для режима osu!mania. Это предупреждение можно проигнорировать, если перерыв добавлен намеренно или если этот участок песни в принципе невозможно замапать. |
 | <!-- Can't confirm -->Easy/Normal diff contains too many speed changes. | В сложности Easy/Normal слишком часто меняется скорость слайдеров, что не рекомендуется [критериями ранкинга](/wiki/Ranking_criteria). | Реже меняйте скорость слайдеров на этой сложности. |  |
 | <!-- Can't confirm -->Kiai is toggled very frequently! |  | Включайте киаи не так часто. | Это явление также называется фонтанами или вспышками (англ. *kiai flashes*). Это предупреждение можно проигнорировать, если киаи расставлен так намеренно. |
