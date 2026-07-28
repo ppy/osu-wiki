@@ -1,7 +1,13 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: 299cc666553fbfc6d71cf11ac90a5d88f975d8e6
+tags:
+  - letter grade
+  - rank
+  - silver s
+  - silver ss
+  - sh
+  - xh
+  - peringkat
 ---
 
 # Grade
