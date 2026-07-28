@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! MEGAMIX 2"
+title: osu! MEGAMIX 2
 date: 2026-07-28 14:00:00 +0000
 series: miscellaneous
 ---
