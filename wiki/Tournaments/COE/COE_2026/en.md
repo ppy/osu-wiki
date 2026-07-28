@@ -31,17 +31,19 @@ The COE 2026 1v1 Tournament prizes are yet to be announced.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Admins | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
+| Admin | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
 | Mappool selector | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656) |
+| Playtester | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=HK }:: [misha awa](https://osu.ppy.sh/users/14503423), ::{ flag=DE }:: [okinamo](https://osu.ppy.sh/users/3765989), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) |
 | Mapper | ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589), ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AT }:: [topXD](https://osu.ppy.sh/users/11904298), more *TBA* |
 | Custom music producer | *TBA* |
-| GFX | *TBA* |
+| GFX | ::{ flag=KR }:: [Anniee](https://osu.ppy.sh/users/12457399), ::{ flag=NL }:: [vifiiy](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=ID }:: [Raybean](https://osu.ppy.sh/users/16676388), ::{ flag=PH }:: vividclarities |
 | Storyboarder | ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) |
 | LAN Commentator | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=GB }:: [MALTESER](https://osu.ppy.sh/users/5218178), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=FR }:: [Subaru_Arima](https://osu.ppy.sh/users/11273062), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063) |
-| LAN Commentator (special guests) | ::{ flag=PL }:: [_demo](https://osu.ppy.sh/users/3556891), ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902), ::{ flag=US }:: [n3rdiness](https://osu.ppy.sh/users/16537481), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598) |
+| LAN Commentator (special guest) | ::{ flag=BR }:: [-felicia](https://osu.ppy.sh/users/10157694), ::{ flag=PL }:: [_demo](https://osu.ppy.sh/users/3556891), ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902), ::{ flag=US }:: [n3rdiness](https://osu.ppy.sh/users/16537481), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598) |
 | Online commentator | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=US }:: [Tycani](https://osu.ppy.sh/users/6693266) |
-| Production team | ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
-| Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=SE }:: [ellen-](https://osu.ppy.sh/users/7630166), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
+| Production team | ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=NL }:: [dyl](https://osu.ppy.sh/users/9507985), ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=NL }:: [Timper](https://osu.ppy.sh/users/11955929), ::{ flag=PT }:: [Pinossaur](https://osu.ppy.sh/users/15767298), ::{ flag=FR }:: [Jupun__](https://osu.ppy.sh/users/16050547), ::{ flag=NL }:: [Wesstrike](https://osu.ppy.sh/users/11444888), ::{ flag=GB }:: Toast |
+| Developer | ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=NL }:: [dyl](https://osu.ppy.sh/users/9507985) |
+| Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=SE }:: [ellen-](https://osu.ppy.sh/users/7630166), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
 | Statistician | ::{ flag=NL }:: [Timper](https://osu.ppy.sh/users/11955929) |
 
 ## Links
@@ -174,9 +176,9 @@ Sunday, 19th of July 2026:
 
 Thursday, 23rd of July 2026:
 
-| Player 1 |  |  | Player 2 | Match time |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| A L E P H ::{ flag=ES }:: | 0 | 0 | ::{ flag=UA }:: GET LOVED | 10:00 UTC |
+| A L E P H ::{ flag=ES }:: | 1 | **5** | ::{ flag=UA }:: **GET LOVED** | [#1](https://osu.ppy.sh/multiplayer/rooms/3718369/events) |
 
 ## Ruleset
 
@@ -194,7 +196,7 @@ Stichting CAVOE EVENTS reserves the right to modify this rulebook without notice
 
 The tournament is split into 3 stages: qualifiers, play-in bracket and final bracket.
 
-All bracket matches will be direct 1v1 best-of-9 matches, except for the Grand Final and 3rd-place matches that will be best of 11. 
+All bracket matches will be direct 1v1 best-of-9 matches, except for the Semifinals, Grand Final and 3rd-place matches that will be best of 11. 
 
 Freeplay and freemod are not enabled throughout the tournament.
 

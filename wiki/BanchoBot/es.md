@@ -10,7 +10,9 @@ tags:
 
 # BanchoBot
 
-*Para otros usos, véase [Bancho (desambiguación)](/wiki/Disambiguation/Bancho).*
+::: alert-note
+**Nota:** [Bancho (desambiguación)](/wiki/Disambiguation/Bancho).
+:::
 
 ![Tarjeta de usuario de BanchoBot](img/BanchoBot.jpg "Tarjeta de usuario de BanchoBot")
 
@@ -20,7 +22,9 @@ BanchoBot también tiene su propio [perfil de osu!](https://osu.ppy.sh/users/3) 
 
 ## Comandos
 
-*Para obtener una lista de los comandos del cliente del juego, véase: [Consola del chat](/wiki/Client/Interface/Chat_console#lista-de-comandos)*
+::: alert-note
+**Nota:** Para obtener una lista de los comandos del cliente del juego, véase [Consola del chat](/wiki/Client/Interface/Chat_console#lista-de-comandos)
+:::
 
 BanchoBot puede responder a los comandos del jugador a través de mensajes escritos específicos en el chat. Todos los comandos de BanchoBot comienzan con un signo de exclamación (`!`) seguido del nombre del comando que no distingue entre mayúsculas y minúsculas (sin espacios entre ellos). Estos comandos se pueden usar en canales de chat y a través de mensajes privados con BanchoBot.
 
@@ -54,7 +58,10 @@ A continuación se puede encontrar una lista de todos los comandos de BanchoBot:
 13:00 BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
 ```
 
-*Aviso: El comando `!request` ya no es admitido por BanchoBot.*
+::: alert-notice
+**Aviso**
+El comando `!request` ya no es admitido por BanchoBot.
+:::
 
 ### Roll
 
