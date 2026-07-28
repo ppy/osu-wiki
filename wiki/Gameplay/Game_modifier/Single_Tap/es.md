@@ -23,8 +23,8 @@ tags:
 | Acrónimo | SG |
 | Tipo | Conversión |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] |
-| Multiplicador de puntuación | 1,00x |
-| Estado | No clasificado |
+| Multiplicador de puntuación | `1,00x` |
+| Estado | Clasificado |
 | Mods incompatibles | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate) |
 
 :::

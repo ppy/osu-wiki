@@ -14,7 +14,10 @@ It usually takes a few days for support to get to the email. If there is no resp
 
 ## Role and tasks
 
-*Main article: [Help Centre](/wiki/Help_centre)*\
+::: alert-note
+**Main page:** [Help Centre](/wiki/Help_centre)
+:::
+
 ::: alert-note
 **See also:** [Account Restrictions](/wiki/Help_centre/Account_restrictions)
 :::

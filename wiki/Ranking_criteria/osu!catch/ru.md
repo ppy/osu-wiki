@@ -53,7 +53,7 @@
 
 ::: alert-note
 **Основная статья:** [Названия сложностей](/wiki/Ranking_criteria/Difficulty_naming)
-:::[Названия сложностей](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad
