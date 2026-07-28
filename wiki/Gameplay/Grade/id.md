@@ -8,6 +8,7 @@ tags:
   - sh
   - xh
   - peringkat
+  - nilai
 ---
 
 # Grade
@@ -20,16 +21,16 @@ Penilaian dari tingkat terendah hingga tertinggi, kemungkinan nilai yang bisa di
 
 ## osu!
 
-| Peringkat | Kondisi |
+| Nilai | Kondisi |
 | :-: | :-- |
 | SS | Akurasi 100% |
-| S | Persentase perolehan 300 di atas 90%, persentase perolehan 50 di bawah 1%, dan tidak ada miss |
-| A | Persentase perolehan 300 di atas 80% dan tidak ada miss, **ATAU** perolehan 300 diatas 90% |
-| B | Persentase perolehan 300 di atas 70% dan tidak ada miss, **ATAU** perolehan 300 diatas 80% |
-| C | Persentase perolehan 300 di atas 60% |
+| S | Perolehan 300 di atas 90%, perolehan 50 di bawah 1%, dan tidak ada miss |
+| A | Perolehan 300 di atas 80% dan tidak ada miss, **ATAU** perolehan 300 diatas 90% |
+| B | Perolehan 300 di atas 70% dan tidak ada miss, **ATAU** perolehan 300 diatas 80% |
+| C | Perolehan 300 di atas 60% |
 | D | Lainnya |
 
-Peringkat S atau SS yang berwarna perak dapat diperoleh dengan memasang mod *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* dan/atau mod *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)*.
+Nilai S atau SS yang berwarna perak dapat diperoleh dengan memasang mod *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* dan/atau mod *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)*.
 
 ## osu!taiko
 
