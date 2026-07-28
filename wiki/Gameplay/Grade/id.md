@@ -54,11 +54,11 @@ Penilaian dari tingkat terendah hingga tertinggi, kemungkinan nilai yang bisa di
 
 ## osu!mania
 
-| Grade | Condition |
+| Nilai | Kondisi |
 | :-: | :-- |
-| SS | 100% Accuracy (only MAX and/or 300). |
-| S | Over 95% Accuracy (an 'S' rank is possible even with several misses, like in *osu!catch*). |
-| A | Over 90% Accuracy. |
-| B | Over 80% Accuracy. |
-| C | Over 70% Accuracy. |
-| D | Anything else. |
+| SS | Akurasi 100% |
+| S | Akurasi di atas 95% (nilai S dapat diperoleh meskipun terdapat beberapa miss, seperti di osu!catch) |
+| A | Akurasi di atas 90% |
+| B | Akurasi di atas 80% |
+| C | Akurasi di atas 70% |
+| D | Lainnya |
