@@ -14,17 +14,24 @@ tags:
 - [storyboard](/wiki/Storyboard) з рухомими об'єктами для покращення вигляду фону (не обов'язково).
 - [спеціальний скін](/wiki/Skinning), який змінює вигляд об'єктів і ігрових елементів (не обов'язково).
 
-*Зверніть до уваги: Деякі візуальні елементи можуть бути відключені через [візуальні налаштування](/wiki/Client/Interface/Visual_settings).*
+::: alert-notice
+**Зверніть до уваги**
+Деякі візуальні елементи можуть бути відключені через [візуальні налаштування](/wiki/Client/Interface/Visual_settings).
+:::
 
 ## Рівні
 
-*Основна сторінка: [Рівні](/wiki/Beatmap/Difficulty)*
+::: alert-note
+**Основна сторінка:** [Рівні](/wiki/Beatmap/Difficulty)
+:::
 
 *рівень* це файл з закінченням [`.osu`](/wiki/Client/File_formats/osu_(file_format)) які описує місце знаходження об'єктів, хітсаундів, та спеціальних ефектів таких як [kiai](/wiki/Gameplay/Kiai_time). Також містить в собі [налаштування рівнів](/wiki/Client/Beatmap_editor/Song_setup#difficulty) та інші параметри які впливають на геймплей. Рівні мають різну структуру і можуть бути зіграні тільки в одному [режимі гри](/wiki/Game_mode). Система [оцінки](/wiki/Beatmap/Star_rating) використовується для візуалізації складності рівня.
 
 ## Публікація
 
-*Основна сторінка: [Публікація](/wiki/Beatmapping/Beatmap_submission)*
+::: alert-note
+**Основна сторінка:** [Публікація](/wiki/Beatmapping/Beatmap_submission)
+:::
 
 Автори можуть [надсилати](/wiki/Beatmapping/Beatmap_submission) плоди їх уяви на публічну [стрічку карт](https://osu.ppy.sh/beatmapsets). Хоча кожна карта створена [однією людиною](/wiki/Beatmap/Beatmap_host), але інші користувачі можуть створювати рівні [разом](/wiki/Beatmap/Beatmap_collaborations) або [окремо](/wiki/Beatmap/Guest_difficulty), і потім, з дозволу творця, вони додаються до карти.
 
@@ -42,7 +49,9 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 ### Категорія
 
-*Основна сторінка: [Категорія](Category)*
+::: alert-note
+**Основна сторінка:** [Категорія](Category)
+:::
 
 Опублікована карта належить до однієї із наступних категорій (може змінюватися з часом):
 
@@ -69,7 +78,9 @@ osu!direct це список карт в грі, який використову
 
 ### Збірки карт
 
-*Основна сторінка: [Збірки карт](Packs)*
+::: alert-note
+**Основна сторінка:** [Збірки карт](Packs)
+:::
 
 Карти які були ранкнуті в один і тий же самий місяць, або розділяють одну тему (e.g. однаковий виконавець), збираються в добірки, які можна завантажити з  [сайту](https://osu.ppy.sh/beatmaps/packs).
 
@@ -99,7 +110,9 @@ osu!direct це список карт в грі, який використову
 
 <!-- TODO: would be very cool to have a separate article for osu!(lazer) as well (issue #4686) -->
 
-*Основна сторінка: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
+::: alert-note
+**Основна сторінка:** [Beatmap Spotlights](/wiki/Beatmap_Spotlights)
+:::
 
 З самого початку, спільнота мала багато шляхів щоб показати унікальні і просто красиві карти. Одним із перших задокументованих підходів були щомісячні і просто сезонні чарти, які складалися з малих збірок ранкнутих карт, де топ гравці з таблиць рекордів були нагороджені [osu!supporter](/wiki/osu!supporter).
 
@@ -107,12 +120,16 @@ osu!direct це список карт в грі, який використову
 
 ### Змагання
 
-*Основна сторінка: [Змагання](/wiki/Contests)*
+::: alert-note
+**Основна сторінка:** [Змагання](/wiki/Contests)
+:::
 
 Спільнота osu! часто проводить змагання щоб підтримувати креативність і нагороджувати маперів які показують себе з кращої сторони. Змагання можуть бути як великими, так і малими. Переможці часто отримують [osu!supporter](/wiki/osu!supporter) і [значки профілю](/wiki/Community/Profile_badge).
 
 ### Featured Artists
 
-*Основна сторінка: [Featured Artists](/wiki/People/Featured_Artists)*
+::: alert-note
+**Основна сторінка:** [Featured Artists](/wiki/People/Featured_Artists)
+:::
 
 Featured Artists це програма курована [osu! team](/wiki/People/osu!_team) яка фокусується на ліцензуванні музики від різних виконавців для osu!, щоб потім зробити її доступною для маперів. [Вкладка Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) на сайті має список виконавців і заготовок для мап.
