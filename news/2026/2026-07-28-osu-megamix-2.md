@@ -13,10 +13,10 @@ It has been no less than 10 years ever since the first [osu! MEGAMIX](https://ww
 
 As an extra surprise, those users who travelled all the way to the Netherlands to take part in this year's [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event) are currently receiving the news at the same time this post was published. We can only hope you enjoy the news as much as you'll enjoy the event!
 
-Without further ado, please enjoy the following video introduction to the project, made by [](REMEMBER_TO_ASK_FOR_THE_VID_PEEPS):
+Without further ado, please enjoy the following video introduction, made by [Andy Raikou](https://osu.ppy.sh/users/14731677), [xootynator](https://osu.ppy.sh/users/3717598), and [Spazza17](https://osu.ppy.sh/users/3516241):
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://discord.com/channels/90072389919997952/1479505867631235228/1527339257793089566 REMEMBER TO UPDATE LAST !!!! CLICK THE LINK FOR THE VID LINK !!!!!" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Ukj6TeGaLeI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Now, let's go over a brief retrospective about this project's origins, the ever-lasting impact it had on the community, and its inevitable return a decade later.
