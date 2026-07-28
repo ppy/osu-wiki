@@ -148,7 +148,14 @@ Thursday, 10th of July 2026:
 
 | Player 1 |  |  | Player 2 | Match time |
 | --: | :-: | :-: | :-- | :-- |
-| origin_ ::{ flag=RO }:: | 0 | 0 | ::{ flag=US }:: BoshyMan741 | 12:00 |
+| Bubbleman ::{ flag=GB }:: | 0 | 0 | ::{ flag=IT }:: kusuriya | 12:00 CEST |
+| ASecretBox ::{ flag=AU }:: | 0 | 0 | ::{ flag=SM }:: argweid | 13:00 CEST |
+| NINERIK ::{ flag=NO }:: | 0 | 0 | ::{ flag=UA }:: GET LOVED | 14:00 CEST |
+| papercandle ::{ flag=NO }:: | 0 | 0 | ::{ flag=GB }:: fudge | 15:00 CEST |
+| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=DE }:: yary | 16:30 CEST |
+| mrekk ::{ flag=AU }:: | 0 | 0 | ::{ flag=NL }:: Aheo | 17:30 CEST |
+| criller ::{ flag=DE }:: | 0 | 0 | ::{ flag=FR }:: Hifkil | 18:30 CEST |
+| runnysunny ::{ flag=DE }:: | 0 | 0 | ::{ flag=PL }:: gnahus | 19:30 CEST |
 
 ### Online play-in stage
 
