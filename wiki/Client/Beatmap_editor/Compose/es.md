@@ -125,7 +125,9 @@ El editor específico de osu!mania tiene algunas diferencias en comparación con
 
 ### Divisor de ritmo
 
-*Artículo principal: [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+::: alert-note
+**Página principal:** [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+:::
 
 ![](img/beat-snap-divisor-mania-ES.jpg "El divisor de ritmo en osu!mania")
 

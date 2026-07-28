@@ -18,7 +18,10 @@ outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
 
 ## 역할과 직무
 
-*주요 문서: [도움말 센터](/wiki/Help_centre)*\
+::: alert-note
+**메인 페이지:** [도움말 센터](/wiki/Help_centre)
+:::
+
 *또한 참고해 주세요: [계정 제한](/wiki/Help_centre/Account_restrictions)*
 
 귀하의 통제가 불가능한 계정 관련 주제에 대해서는 이 팀에게 문의해야 합니다. 문제에 대해 가능한 많은 맥락을 제공하고, osu! 와 연동되어 있는 계정으로 메일을 보내는 것을 꼭 기억해 주세요.

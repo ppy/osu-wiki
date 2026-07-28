@@ -144,7 +144,9 @@
 
 ### 搜索
 
-*主页面：[谱面搜索](/wiki/Beatmap_search)*
+::: alert-note
+**主文章：** [谱面搜索](/wiki/Beatmap_search)
+:::
 
 ![](img/search-bar-ZH.jpg)
 

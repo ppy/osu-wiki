@@ -125,7 +125,9 @@ The osu!mania-specific editor has some differences compared to the other game mo
 
 ### Beat snap divisor
 
-*Main article: [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+::: alert-note
+**Main page:** [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+:::
 
 ![](img/beat-snap-divisor-mania.jpg "Beat snap divisor in osu!mania")
 
