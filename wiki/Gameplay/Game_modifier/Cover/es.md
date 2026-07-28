@@ -22,13 +22,15 @@ tags:
 | Tipo | Aumento de dificultad |
 | Tecla de acceso directo predeterminada | `K` |
 | Modos de juego compatibles | ![][osu!mania] |
-| Multiplicador de puntuación | 1,00x |
-| Estado | No clasificado |
+| Multiplicador de puntuación | `1,00x` |
+| Estado | Clasificado |
 | Mods incompatibles | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
 
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Cover** oculta una parte del campo de juego de forma similar a [Fade In](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) y [Hidden](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) pero con la posibilidad de personalizar el tamaño del área oscurecida.
 

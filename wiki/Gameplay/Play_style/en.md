@@ -12,7 +12,10 @@ Mouse-only used to be the *only* way to play osu! until other playing methods we
 
 The play style is widely considered to be the hardest method to play with and mouse-only players who rank high in the overall rankings are usually greatly respected by the community.
 
-*Note: The key overlay shows left/right click as `M1` and `M2`.*
+::: alert-notice
+**Notice**
+The key overlay shows left/right click as `M1` and `M2`.
+:::
 
 ### Dual mouse
 
@@ -20,7 +23,10 @@ Dual mouse is a play style in which a player has a mouse in each hand; using one
 
 The play style used to be considered a joke play style to most players until May 2013 when Canadian player ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) starting getting top scores on highly-respected maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) whilst playing with two mice.
 
-*Note: It is also common for dual mouse players to tape the mouse used for clicking to the desk.*
+::: alert-notice
+**Notice**
+It is also common for dual mouse players to tape the mouse used for clicking to the desk.
+:::
 
 ### Mouse and keyboard
 
@@ -30,27 +36,42 @@ Mouse and keyboard players play in almost exactly the same way as mouse-only pla
 
 Some players use only the keyboard to tap while others only switch to the keyboard when streaming (the act of tapping a very fast string of hit objects in rapid succession) and use the mouse to click for everything else.
 
-*Note: The key overlay shows keyboard presses as `K1` and `K2`.*
+::: alert-notice
+**Notice**
+The key overlay shows keyboard presses as `K1` and `K2`.
+:::
 
 ### Tablet-only
 
 ![](/wiki/shared/Osu!tablet.jpg "osu!tablet")
 
-*Notice: This play style requires the use of a graphics [tablet (digitiser)](/wiki/Gameplay/Input_device/Graphics_tablet).*
+::: alert-notice
+**Notice**
+This play style requires the use of a graphics [tablet (digitiser)](/wiki/Gameplay/Input_device/Graphics_tablet).
+:::
 
 Tablet-only players hover a tablet pen over a graphics tablet to navigate the in-game cursor and only tap beats by tapping the pen onto the surface of the graphics tablet itself.
 
-*Note: The input overlay will show all tablet taps as `M1`.*
+::: alert-notice
+**Notice**
+The input overlay will show all tablet taps as `M1`.
+:::
 
 #### Tapx
 
 Streaming with only one tapping input is widely regarded in the community to be nearly impossible at high BPM. Thus, to stream as a Tablet-only player, a player should alternate between tapping their pen onto the tablet and pressing one assigned secondary key (usually a tablet or keyboard key). This method is sometimes referred to as *tapx*.
 
-*Note: Since the pen tap was considered as `M1`, only the secondary tap button will work, and `X` is usually the default secondary tap button.*
+::: alert-notice
+**Notice**
+Since the pen tap was considered as `M1`, only the secondary tap button will work, and `X` is usually the default secondary tap button.
+:::
 
 ### Tablet and keyboard
 
-*Notice: This play style requires the use of a graphics tablet (digitiser).*
+::: alert-notice
+**Notice**
+This play style requires the use of a graphics tablet (digitiser).
+:::
 
 Tablet and keyboard is a popular play style among many passionate, competitive, and top players.
 
@@ -68,7 +89,10 @@ When a touchscreen player taps the screen, their device will simultaneously move
 
 This play style may feel similar to playing [osu!stream](/wiki/osu!stream) due to the act of touching the screen directly rather than moving a cursor.
 
-*Note: The key overlay shows touch input as `M1`.*
+::: alert-notice
+**Notice**
+The key overlay shows touch input as `M1`.
+:::
 
 ### Touchscreen and keyboard
 
@@ -91,17 +115,26 @@ Simply, the player would press the assigned keyboard keys to hit the drum parts.
 
 There are two main styles of setting the keys placement in the keyboard: KDDK (Taiko default, or BRRB) or DDKK/KKDD (or RRBB/BBRR). The letters represent the placement of the drum rim or drum centre (e.g. K in KDDK for drum rim, and D for the drum centre).
 
-*Note: For key-binding, the default is `Z`, `X`, `C`, and `V` (KDDK, or BRRB).*
+::: alert-notice
+**Notice**
+For key-binding, the default is `Z`, `X`, `C`, and `V` (KDDK, or BRRB).
+:::
 
 ### Taiko controller
 
 A taiko controller is the default play style and controller for the [Taiko no Tatsujin](https://wikipedia.org/wiki/Taiko_no_Tatsujin) series ([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) for US).
 
-*Note: Some skilled players who play using a Taiko controller may create theirs from scratch while others purchase theirs via retail or online stores.*
+::: alert-notice
+**Notice**
+Some skilled players who play using a Taiko controller may create theirs from scratch while others purchase theirs via retail or online stores.
+:::
 
 Players who use a Taiko controller carry a Taiko/drum stick in each hand and hit the centre (Red) or rim of the drum (Blue) to register the note based on where it is hit.
 
-*Notice: Most Taiko controllers connect to the computer by using a Bluetooth connector should there be no USB connector, though this may increase latency.*
+::: alert-notice
+**Notice**
+Most Taiko controllers connect to the computer by using a Bluetooth connector should there be no USB connector, though this may increase latency.
+:::
 
 ### Other styles
 
@@ -145,7 +178,10 @@ To dash, many players use one of the face buttons on their gamepad. Though, some
 
 ### Keyboard
 
-*Note: For more information about mechanical keyboards, see this [external guide for mechanical keyboards](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/).*
+::: alert-notice
+**Notice**
+For more information about mechanical keyboards, see this [external guide for mechanical keyboards](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/).
+:::
 
 Keyboard was once the *only* way to play osu!mania until other play methods was supported over time.
 
@@ -155,7 +191,10 @@ To play with a keyboard, players would press down the keys respective to their p
 
 Arcade controllers from other rhythm games such as DJMAX, O2Jam, Beatmania IIDX, etc. are a play-style tuned for seasoned veterans at conveyor-type rhythm games.
 
-*Note: Since the use of 8 Keys requires the mapper's decision or the use of game modifiers, most players owning these arcade controllers can handle up to 7 keys (max default) and 1 special.*
+::: alert-notice
+**Notice**
+Since the use of 8 Keys requires the mapper's decision or the use of game modifiers, most players owning these arcade controllers can handle up to 7 keys (max default) and 1 special.
+:::
 
 ### Dance pad
 

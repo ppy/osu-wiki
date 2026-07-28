@@ -1,6 +1,8 @@
 # 总分
 
-*对于更多义项，参见：[Score (消歧义)](/wiki/Disambiguation/Score)。*
+::: alert-note
+**备注：** 对于更多义项，参见[Score (消歧义)](/wiki/Disambiguation/Score)。
+:::
 
 **总分**是玩家游玩所有谱面所得到的分数总和，也包括游玩失败的分数。
 

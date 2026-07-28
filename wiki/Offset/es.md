@@ -20,7 +20,10 @@ Dependiendo del tipo de compensación, la establece el creador del beatmap, la p
 
 ## Configuración de un beatmap
 
-*Nota: La compensación del tiempo de entrada y el vídeo solo se pueden editar a través del [archivo del beatmap](/wiki/Client/File_formats/osu_(file_format)).*
+::: alert-notice
+**Aviso**
+La compensación del tiempo de entrada y el vídeo solo se pueden editar a través del [archivo del beatmap](/wiki/Client/File_formats/osu_(file_format)).
+:::
 
 - Compensación de la cuenta regresiva, un ajuste que afecta al tiempo de aparición de la [cuenta regresiva](/wiki/Beatmap/Countdown) antes del primer objeto, medido en [pulsos](/wiki/Music_theory/Beat).
 - [Tiempo de entrada](/wiki/Beatmap/Lead-in_time), un periodo de tiempo adicional antes de que comience el beatmap.

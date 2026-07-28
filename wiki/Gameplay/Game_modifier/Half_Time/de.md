@@ -13,8 +13,13 @@ no_native_review: true
 
 ![HT Modsymbol](/wiki/shared/mods/HT.png "Half Time (HT) Modsymbol")
 
-*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Half Time (lazer-Mod)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer))*\
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Half Time (lazer-Mod)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer))
+:::
+
+::: alert-note
+**Anmerkung:** Für die vollständige Liste aller Mods, siehe [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Übersicht
 
@@ -29,7 +34,10 @@ no_native_review: true
 
 ## Beschreibung
 
-*Anmerkung: Die eingesetzte Methode für das Verlangsamen des Songs kann dazu führen, dass er matschig oder roboterhaft klingt.*
+::: alert-notice
+**Hinweis**
+Die eingesetzte Methode für das Verlangsamen des Songs kann dazu führen, dass er matschig oder roboterhaft klingt.
+:::
 
 Die Mod **Half Time** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die die allgemeine Geschwindigkeit einer [Beatmap](/wiki/Beatmap) (BPM) auf 75 % der ursprünglichen Geschwindigkeit senkt, wodurch der Song 33 % länger wird und die [Approach-Rate (AR)](/wiki/Beatmap/Approach_rate), die [allgemeine Schwierigkeit (OD)](/wiki/Beatmap/Overall_difficulty) sowie [die Gesundheit (HP)](/wiki/Gameplay/Health) ein bisschen erhöht werden.
 

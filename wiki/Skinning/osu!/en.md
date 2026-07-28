@@ -498,7 +498,10 @@ Notes:
 
 ## Spinner
 
-*Notice: You cannot mix the old and new spinner styles!*
+::: alert-notice
+**Notice**
+You cannot mix the old and new spinner styles!
+:::
 
 ---
 

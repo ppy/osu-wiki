@@ -30,8 +30,13 @@ tags:
 
 :::
 
-*For the osu!stable version of this article, see: [Relax (mod)](/wiki/Gameplay/Game_modifier/Relax)*\
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the osu!stable version of this article, see [Relax (mod)](/wiki/Gameplay/Game_modifier/Relax)
+:::
+
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 <!-- TODO description and settings -->
 

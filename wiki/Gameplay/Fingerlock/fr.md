@@ -18,7 +18,10 @@ Le "Fingerlock" peut occasionnellement être appelé `wrist lock`, `wristlock`, 
 
 ## Causes
 
-*Attention : Le Fingerlock n'est **pas** une condition médicale. Toute recherche présumée ou information communément comprise par la communauté d'osu! quant à sa cause et/ou ses effets à long terme n'est **pas considérée comme scientifique**. La communauté d'osu! n'est pas qualifiée pour donner des conseils médicaux ; n'utilisez pas le wiki d'osu! pour diagnostiquer des conditions médicales.*
+::: alert-caution
+**Attention**
+Le Fingerlock n'est **pas** une condition médicale. Toute recherche présumée ou information communément comprise par la communauté d'osu! quant à sa cause et/ou ses effets à long terme n'est **pas considérée comme scientifique**. La communauté d'osu! n'est pas qualifiée pour donner des conseils médicaux ; n'utilisez pas le wiki d'osu! pour diagnostiquer des conditions médicales.
+:::
 
 Le fingerlock est une sensation courante qui arrive à de nombreux joueurs d'osu! expérimentés. La plupart des joueurs s'accordent à dire qu'il n'y a généralement pas lieu de s'inquiéter. Cependant, si un joueur ressent souvent un fingerlock persistant ou douloureux, il est recommandé qu'il consulte un professionnel de santé, car cela peut être le résultat d'un problème de santé sous-jacent.
 
