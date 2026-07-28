@@ -14,9 +14,17 @@ tags:
 
 ![Icono del mod TP](/wiki/shared/mods/TP.png "Icono del mod Target Practice (TP)")
 
-*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Target Practice (mod de lazer)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer))*\
-*Para la lista completa de los mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
-*Nota: El mod Target Practice solo es accesible en la version `Cutting Edge` del juego.*
+::: alert-note
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Target Practice (mod de lazer)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer))
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de los mods, véase [Modificador del juego](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-notice
+**Nota:** El mod Target Practice solo es accesible en la version `Cutting Edge` del juego.
+:::
 
 ## Resumen
 
@@ -27,7 +35,10 @@ tags:
 
 ## Descripción
 
-*Aviso: Activar el mod Target Practice resultará en una jugada no clasificada.*
+::: alert-notice
+**Aviso**
+Activar el mod Target Practice resultará en una jugada no clasificada.
+:::
 
 El mod **Target Practice** es un [modificador del juego](/wiki/Gameplay/Game_modifier) experimental para [osu!](/wiki/Game_mode/osu!) que elimina todos los [objetos](/wiki/Gameplay/Hit_object) y los reemplaza por un conjunto simplificado de «dianas». Se usa principalmente por diversión, pero también puede ser útil para practicar un tempo constante y mejorar la precisión de las pulsaciones.
 

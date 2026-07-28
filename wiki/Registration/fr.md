@@ -1,6 +1,9 @@
 # Inscription
 
-*Attention: avoir plus d'un compte osu! est une infraction à l'encontre du [règlement d'osu!](/wiki/Rules)*
+::: alert-caution
+**Attention**
+avoir plus d'un compte osu! est une infraction à l'encontre du [règlement d'osu!](/wiki/Rules)
+:::
 
 1. Après [l'installation](/wiki/Client/Installation) d'osu! et son lancement, il vous sera demandé de vous connecter ou de vous inscrire. En supposant que vous soyez ici parce que vous avez besoin d’un compte, cliquez sur `Créer un compte`.
 

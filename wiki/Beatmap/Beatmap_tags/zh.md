@@ -63,7 +63,7 @@
 | 标签名 | 描述 | 游戏模式 |
 | :-- | :-- | :-- |
 | [streams/doubles](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fdoubles%22%22) | 需要连续点击 2 个物件的分组的排列（二连）。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [streams/quads](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fquads%22%22) | 需要连续点击 2 个物件的分组的排列（四连）。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [streams/quads](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fquads%22%22) | 需要连续点击 4 个物件的分组的排列（四连）。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [streams/bursts](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fbursts%22%22) | 需要连续点击 5-9 个物件的分组的排列（爆发）。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [streams/stamina](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fstamina%22%22) | 考验玩家长时间点击密集节奏的能力（耐力）。 | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | [streams/speed](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fspeed%22%22) | 需要在高 BPM 下持续点击的谱面（手速）。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |

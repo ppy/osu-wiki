@@ -26,7 +26,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **Muted** mod reduces music and [hitsound](/wiki/Beatmapping/Hitsound) volume as the player's [combo](/wiki/Gameplay/Combo_(score_multiplier)) increases, eventually muting both completely. As the volume is lowered, a metronome beat fades in. [Breaking combo](/wiki/Gameplay/Judgement/Combobreak) resets the volume to normal levels.
 

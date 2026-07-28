@@ -11,7 +11,9 @@ tags:
 
 # Foros
 
-*Véase también: [Foro (Internet)](https://es.wikipedia.org/wiki/Foro_(Internet))*
+::: alert-note
+**Véase también:** [Foro (Internet)](https://es.wikipedia.org/wiki/Foro_(Internet))
+:::
 
 [Los **foros** de osu!](https://osu.ppy.sh/community/forums) son un lugar de conversación donde los mensajes se agrupan por temas y no se espera una respuesta rápida. Las discusiones se pueden buscar, se almacenan para siempre y se pueden volver a visitar en cualquier momento, lo que las diferencia de los mensajes casi instantáneos del [chat de osu!](/wiki/Community/Internet_Relay_Chat). Como resultado, los mensajes del foro son más largos, contienen más información y normalmente brindan más detalles que los mensajes del chat.
 
@@ -35,7 +37,9 @@ Además de las insignias de grupo de usuarios otorgadas por la pertenencia a un 
 
 ### Moderación
 
-*Véase también: [Reportar mala conducta § Foro](/wiki/Reporting_bad_behaviour#foros)*
+::: alert-note
+**Véase también:** [Reportar mala conducta § Foro](/wiki/Reporting_bad_behaviour#foros)
+:::
 
 Los [moderadores](/wiki/People/Global_Moderation_Team) son usuarios que mantienen los foros limpios y apropiados, y responden a las dudas relacionadas con ello. Los moderadores pueden editar o eliminar publicaciones o temas inapropiados, fijar temas y moverlos entre diferentes foros, y evitar temporalmente que los infractores publiquen [silenciándolos](/wiki/Silence).
 

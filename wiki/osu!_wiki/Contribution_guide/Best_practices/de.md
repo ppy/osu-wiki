@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 0e61b1bd28efc9e6a300fd0f3d05ab85d8f2a5c0
----
-
 # Bewährte Methoden
 
 Diese Seite beschäftigt sich mit einigen Aufgaben, die beim Beitragen zu erledigen sind. Die hier verfolgten Ansätze sind dazu gedacht, den Prozess einfacher zu machen und können auch auf andere Projekte angewandt werden, die auf GitHub oder einer ähnlichen Plattform untergebracht sind.
@@ -15,21 +10,23 @@ Diese Seite beschäftigt sich mit einigen Aufgaben, die beim Beitragen zu erledi
 
 ## Die Verzweigung synchronisieren
 
-Um Änderungen an einem Repository auf GitHub vorzunehmen, muss sich ein Mitwirkender eine isolierte Kopie des Repositorys beschaffen, welche *Verzweigung* (Fork) genannt wird. Wenn du deine Verzweigung des Repositorys `osu-wiki` erstellst, fertigst du eine Momentaufnahme des Inhalts zu diesem Augenblick an. Um einen sinnhaften Beitrag zu erstellen, **synchronisiere immer deine Verzweigung**, bevor du Änderungen vornimmst — das kann direkt in GitHub gemacht werden:
+::: Infobox
+![](img/update-branch.png?1 "Den veralteten Branch aktualisieren")
+:::
+
+Eine *Verzweigung* (Fork) is eine Momentaufnahme des ursprünglichen Repositorys, die sich nicht von allein aktualisiert. Um immer in der aktuellsten Version des osu!-Wikis zu arbeiten, musst du sie synchronisieren bevor du Änderungen vornimmst. Das kann direkt in GitHub gemacht werden:
 
 1. Gehe zu deiner Verzweigung des Repositorys `osu-wiki`.
-
 2. Wähle den Branch `master` aus dem Dropdown-Menü aus.
-
-3. Klicke auf `Fetch upstream` und wähle `Fetch and merge`.
-
-   ![](img/update-branch.png "Den nicht mehr aktuellen Branch aktualisieren")
-
-Jetzt ist dein Branch auf demselben Stand wie das ursprüngliche Repository.
+3. Klicke auf `Sync fork`.
+   - Falls du am Branch `master` Änderungen vorgenommen hast, die du behalten möchstest, klicke auf `Update branch`, um diese zu erhalten.
+   - Falls du von vorn beginnen möchtest und deine Änderungen nicht mehr benötigst, klicke auf `Discard n commit(s)`.
 
 ## Änderungen vornehmen
 
-*Siehe auch: [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
+::: alert-note
+**Siehe auch:** [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+:::
 
 Innerhalb deiner Verzweigung des osu!-Wikis bist du frei, jegliche Änderungen zu machen und diese abzuspeichern. **Commits** sind individuelle "Sicherungspunkte" des Repositorys. **Branches** sind Arbeitsbereiche, die es ermöglichen, zwischen verschiedenen Versionen des Repositorys zu wechseln. Folge diesen Richtlinien, um die Arbeitsabläufe zu vereinfachen und die Versionshistorie sauber und frei von Schmutz zu halten:
 
