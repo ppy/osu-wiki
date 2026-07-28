@@ -25,11 +25,11 @@ Now, let's go over a brief retrospective about this project's origins, the ever-
 
 It all began around 2015 where a user known as [mrspazzaneve17](https://osu.ppy.sh/users/3516241) (now known as Spazza17) began sinking their free time into the game. With the experience gained from creating remixes such as the well-known [The Sounds of rrtyui](https://www.youtube.com/watch?v=M2fcY-835aM) (which was [Loved](https://osu.ppy.sh/beatmapsets/482177#osu/1028903) fairly recently), they set their sights on creating a mega mashup of osu!'s most popular songs at the time by the end of the year. The mix caught the attention of [Exile-](https://osu.ppy.sh/users/2559349), who then submitted a [beatmap](https://osu.ppy.sh/beatmapsets/399575#osu/909391) right the next day on January 1st, 2016.
 
-There was but one major distinction between this compilation and other mixes released at the time: any anime opening and mainstream music in osu! were intentionally avoided. Despite having what one would assume to be a handicap, the remix and beatmap alike were able to stand on their own two feet, thus slowly becoming the cultural phenomenon they are known for today! Not only did the remix become a hit within the community, but also outside of it! This is best exemplified by [The8BitDrummer](https://www.youtube.com/@The8BitDrummer)'s [drum cover](https://www.youtube.com/embed/HgJ_F9Ddq2s), which was released later that year.
+There was but one major distinction between this compilation and other mixes released at the time: any anime opening and mainstream music in osu! were intentionally avoided. Despite not directly focusing on the widest audience, the remix and beatmap alike were able to stand on their own two feet, slowly becoming the cultural phenomenon they are known for today! Not only did the remix become a hit within the community, but also in outside circles, best exemplified by [The8BitDrummer](https://www.youtube.com/@The8BitDrummer)'s [drum cover](https://www.youtube.com/embed/HgJ_F9Ddq2s) which was released later that year.
 
-In retrospective, it may be easy to take the impact this had on the community by granted. Nowadays, most users are at the very least familiarised with its existence. But this was arguably one of the most influential mixes of the year, the other one being [osu!memories](https://www.youtube.com/watch?v=HoHzRCksdnwmade) by [SakiZ](https://osu.ppy.sh/users/4347191) and [mapped](https://osu.ppy.sh/beatmapsets/532522) shortly after by [DeRandom Otaku](https://osu.ppy.sh/users/5156153) which was in part inspired by the first MEGAMIX! Little did we know back then that both compilations would quickly become osu!'s most influential and popular song compilations and beatmaps alike to date.
+In retrospect, it may be easy to take the impact this had on the community by granted. Most users are at the very least familiar with its existence, but this was arguably one of the most influential mixes of the year, the other one being [osu!memories](https://www.youtube.com/watch?v=HoHzRCksdnwmade) by [SakiZ](https://osu.ppy.sh/users/4347191) and [mapped](https://osu.ppy.sh/beatmapsets/532522) shortly after by [DeRandom Otaku](https://osu.ppy.sh/users/5156153), which was in part inspired by the first MEGAMIX!
 
-Nowadays, the beatmap continues to garner a lot of attention from players. Most recently, [mrekk](https://osu.ppy.sh/users/7562902) managed to achieve the first ever [HDDT full clear](https://osu.ppy.sh/scores/2736364778) back in 2024, thus becoming the only player to date to achieve such a feat in 10 years since the beatmap was officially ranked!
+Nowadays, the beatmap continues to garner a lot of attention from players. Most recently, [mrekk](https://osu.ppy.sh/users/7562902) managed to achieve the first ever [HDDT full clear](https://osu.ppy.sh/scores/2736364778) back in 2024, becoming the only player to date to achieve such a feat in 10 years since the beatmap was ranked!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/pd8swyHbywc" frameborder="0" allowfullscreen></iframe>
@@ -37,9 +37,9 @@ Nowadays, the beatmap continues to garner a lot of attention from players. Most 
 
 ## The return of the MEGAMIX
 
-It's no surprise that given the first mix's fanfare, a second version was inevitably going to be in the works sooner rather than later. Considering we've taken around half of osu!'s entire lifespan, it unfortunately was more on the latter.
+It's been around half of osu!'s entire lifespan since these mixes were released, and their existences mark a specific point in osu!'s community of the time. It's about time to time to lay down another one of those checkpoints.
 
-It was not until 2024 that, after [meeting a donation goal](https://www.reddit.com/r/osugame/comments/1dqobvv/after_only_3_days_spazza17s_osumegamix_2_donation/?solution=60170ff5c98bd8fa60170ff5c98bd8fa&js_challenge=1&token=7afd7253fec22262ff1c52b1703fe9ec67b9755ccd1168d69a0c0f9a230475bf&jsc_orig_r=) by a huge margin, the second MEGAMIX slowly began to take shape. Following the first mix's dogma of not using certain tracks however popular they may be, the second mix features a wide variety of popular songs throughout the years. The goal was to symbolize the game's constant evolution in both mapping and musical styles we've come to experience ever since osu! MEGAMIX was released.
+It was not until 2024 that, after the original mix's creator [met a donation goal](https://www.reddit.com/r/osugame/comments/1dqobvv/after_only_3_days_spazza17s_osumegamix_2_donation/) by a huge margin, the second MEGAMIX slowly began to take shape. This second mix features a wide variety of popular songs throughout the years, with a goal to symbolise the game's constant evolution in both mapping and musical styles we've come to experience in the past decade.
 
 Depending on when you started playing the game, you may recognise more or less tracks featured in the roster.
 
@@ -51,6 +51,6 @@ We have only managed to get this far as a community thanks to everyone's collect
 
 But don't take it from us, take it from the man himself: Spazza17!
 
-*"Don't forget: you're here forever. And as a wise man once said: plz enjoy game."*
+> "Don't forget: you're here forever. And as a wise man once said: plz enjoy game."
 
 —Spazza17 & RandomeLoL
