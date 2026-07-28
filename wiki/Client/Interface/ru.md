@@ -146,7 +146,9 @@
 
 ### Поиск
 
-*Основная статья: [Поиск карт](/wiki/Beatmap_search)*
+::: alert-note
+**Основная статья:** [Поиск карт](/wiki/Beatmap_search)
+:::
 
 ![](img/search-bar.jpg)
 
