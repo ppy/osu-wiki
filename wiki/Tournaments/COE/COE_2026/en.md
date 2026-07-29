@@ -11,7 +11,7 @@ The **COE 2026 1v1 Tournament** is a 1v1 single-elimination osu! LAN tournament 
 | Registration | 2026-06-01/2026-06-13 |
 | Online qualifiers | 2026-06-15/2026-04-29 |
 | Online play-in stage | 2026-07-11/2026-07-19 |
-| Offline finals mappool showcase | 2026-07-27 (15:30 UTC+2) |
+| Offline finals mappool showcase | 2026-07-27 (20:30 UTC+2) |
 | Offline finals | 2026-07-30/2026-08-01 |
 
 ## Prizes
