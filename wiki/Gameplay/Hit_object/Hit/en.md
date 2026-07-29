@@ -30,7 +30,7 @@ Similarly to large notes of [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Ta
 
 [Drumrolls](/wiki/Gameplay/Hit_object/Drumroll) can be finishers as well, but their ticks are worth more than regular ones simply for being collected, and hitting them with both keys awards nothing extra.[^big-drumrolls]
 
-The [osu!taiko ranking criteria](/wiki/Ranking_criteria/osu!taiko) restricts where finishers may be placed, since pressing two keys at once takes longer to recover from than a single hit — for example, lower difficulties outright forbid them in dense patterns.
+The [osu!taiko ranking criteria](/wiki/Ranking_criteria/osu!taiko) restrict where finishers may be placed, since pressing two keys at once takes longer to recover from than a single hit — for example, lower difficulties outright forbid them in dense patterns.
 
 ## Judgement
 
@@ -54,6 +54,6 @@ Likewise, finishers have no hit object type of their own either, they are simply
 
 Consequently, a finisher is created in the osu!(stable) editor by adding a finish hitsound to an object. The [osu!(lazer)](/wiki/Client/Release_stream/Lazer) editor exposes the trait directly instead: the `Strong` option toggles it on the current selection.
 
-## Trivia
+## References
 
 [^big-drumrolls]: [Forum thread by Zetta (2010-11-15) "Taiko double drumrolls should award 2x score when double tap [Denied]"](https://osu.ppy.sh/community/forums/topics/40816).

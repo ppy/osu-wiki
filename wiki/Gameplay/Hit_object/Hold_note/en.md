@@ -32,7 +32,7 @@ Community jargon calls hold notes *noodles*, as opposed to the *rice* of regular
 
 When the head of the hold note reaches the judgement line, a player needs to press the key corresponding to the column and release it as the tail arrives. Letting go too early is called a hold break, or LN break. It does not end the hold note, but it caps the judgement it can still receive and resets the [combo](/wiki/Gameplay/Combo_(score_multiplier)) multiplier. Re-pressing the key mid-body restores the holding state, though it does not undo the break.
 
-An unreleased hold note slowly regenerates the [health bar](/wiki/Gameplay/Health). Because osu!mania columns are played independently, other objects still need to be played in other columns during the hold note.
+An unreleased hold note slowly regenerates the [health bar](/wiki/Gameplay/Health). Because osu!mania columns are played independently, objects in other columns still need to be played during the hold note.
 
 ## Judgement
 
@@ -53,7 +53,7 @@ In osu!(stable), a hold note receives one judgement, based on both the timing of
 In [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2), hold notes are judged differently:[^scorev2-announcement]
 
 - The head and the tail are judged separately, as if they were two independent notes.
-- The tail's release windows is 1.5 times longer than normally.
+- The tail's release window is 1.5 times longer than normally.
 - The combo ticks along the body are removed in favour of exactly two points per hold note (the head and the tail).
 
 ### osu!(lazer)
@@ -67,8 +67,10 @@ A few osu!mania-specific [osu!(lazer)](/wiki/Client/Release_stream/Lazer) mods c
 | Mod | Effect |
 | :-- | :-- |
 | [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release) | Removes the accuracy penalty for mistimed releases. |
-| [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) | Replaces every hold note with a regular note at its head. |
 | [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert) | Turns every note into a hold note reaching up to the next one in the same column. |
+| [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) | Replaces every hold note with a regular note at its head. |
+
+## References
 
 [^ln-combo-ticks]: [Forum thread by Aqo (2016-03-15) "Long Note Combo Style: How do you want it to work?"](https://osu.ppy.sh/community/forums/topics/431716)
 [^scorev2-announcement]: [Forum thread by smoogipoo (2016-06-14) "osu!mania ScoreV2 live!"](https://osu.ppy.sh/community/forums/topics/466617)
