@@ -77,7 +77,7 @@
 | :-- | :-- | :-- |
 | [tech/slider tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fslider%20tech%22%22) | 考验涉及滑条的非常规技能，例如大量使用短滑条或需要跟随复杂滑条形状。 | ![][osu!] |
 | [tech/aim control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | 排列具有强烈违背玩家的自然移动模式的速度或方向变化。 | ![][osu!] |
-| [tech/finger control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | 运用复杂的节奏应用来考验玩家的击打能力。 | ![][osu!] |
+| [tech/finger control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Ffinger%20control%22%22) | 运用复杂的节奏应用来考验玩家的击打能力。 | ![][osu!] |
 | [tech/complex snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fcomplex%20snap%22%22) | 显著使用混合或不寻常的时值间隔的谱面。 | ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [tech/antiflow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fantiflow%22%22) | 主打强烈的方向或速度变化，违背玩家的自然移动模式的谱面。 | ![][osu!catch] |
 | [tech/flow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fflow%22%22) | 主打自然、直观移动模式的谱面。 | ![][osu!catch] |
@@ -194,7 +194,7 @@
 | [additions/combo colours](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcombo%20colours%22%22) | 根据歌曲变化调整连击颜色的谱面（也称 colourhax）。 | ![][osu!] |
 | [additions/keysounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fkeysounds%22%22) | 包含运用各种音高采样来创造旋律的打击音效，通常跟随歌曲中的某个旋律。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [additions/custom skin](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | 运用自定义的皮肤元素和图像内容。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [additions/hitsounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | 运用非默认打击音效样本集的谱面。 | ![][osu!taiko] |
+| [additions/hitsounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fhitsounds%22%22) | 运用非默认打击音效样本集的谱面。 | ![][osu!taiko] |
 
 ### 元信息类标签
 

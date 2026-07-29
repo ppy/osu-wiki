@@ -25,7 +25,10 @@ A lo largo de los años, se usaron tres sistemas diferentes para clasificar a lo
 
 Debido a esto, esta lista solo incluye a los jugadores que han alcanzado el puesto #1 en la tabla de clasificación principal que se usaba en ese momento. Las fechas y los números en *cursiva* indican que el jugador correspondiente continúa su reinado como puesto #1 de osu!catch, ya sea desde el año anterior o hasta el año siguiente.
 
-*Nota: osu!catch recibió un reinicio completo de la clasificación global el 7 de diciembre de 2008, por lo que las puntuaciones anteriores a esta fecha no están disponibles.*
+::: alert-notice
+**Aviso**
+osu!catch recibió un reinicio completo de la clasificación global el 7 de diciembre de 2008, por lo que las puntuaciones anteriores a esta fecha no están disponibles.
+:::
 
 ## 2014
 
@@ -119,55 +122,75 @@ Debido a esto, esta lista solo incluye a los jugadores que han alcanzado el pues
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 30/9/2024 | 7/10/2024 | [\[1\]](https://www.reddit.com/r/osugame/comments/1ft3ibb/motion_is_1_again_in_osucatch_while_breaking_the/) |
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 7/10/2024 | 11/10/2024 | [\[1\]](https://www.reddit.com/r/osugame/comments/1fy5o4g/osucatch_qwhj79_kaneko_chiharu_illness_lilin/) |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 11/10/2024 | 2/11/2024 | [\[1\]](https://www.reddit.com/r/osugame/comments/1g1bmn4/osucatch_motion_camellia_ghost_2020_halloween_vip/) |
-| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2/11/2024 | *Presente* | [\[1\]](https://web.archive.org/web/20241117031926/https://osu.ppy.sh/users/7547506) [\[2\]](https://web.archive.org/web/20241130051348/https://osu.ppy.sh/users/3885626) |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2/11/2024 | *6/12/2025* | [\[1\]](https://web.archive.org/web/20241117031926/https://osu.ppy.sh/users/7547506) [\[2\]](https://web.archive.org/web/20241130051348/https://osu.ppy.sh/users/3885626) |
 
 ## 2025
 
 | Jugador | Desde | Hasta | Fuentes |
 | --: | :-- | :-- | :-- |
-| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | *2/11/2024* | Presente | [\[1\]](https://web.archive.org/web/20241117031926/https://osu.ppy.sh/users/7547506) [\[2\]](https://web.archive.org/web/20241130051348/https://osu.ppy.sh/users/3885626) |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | *2/11/2024* | 6/12/2025 | [\[1\]](https://web.archive.org/web/20241117031926/https://osu.ppy.sh/users/7547506) [\[2\]](https://web.archive.org/web/20241130051348/https://osu.ppy.sh/users/3885626) |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 6/12/2025 | *26/1/2026* | [\[1\]](https://www.reddit.com/r/osugame/comments/1pfaytk/story_reaches_rank_1_in_ctb_again_after_5_years/) |
+
+## 2026
+
+| Jugador | Desde | Hasta | Fuentes |
+| --: | :-- | :-- | :-- |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | *6/12/2025* | 26/1/2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1pfaytk/story_reaches_rank_1_in_ctb_again_after_5_years/) |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 26/1/2026 | 1/7/2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1qn42wu/qwhj79_reaches_rank_1_in_ctb_once_again_he_played/) |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 1/7/2026 | 21/7/2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1ukbvpu/story_has_once_again_became_1_surpassing_qwhj79/) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 21/7/2026 | Presente | [\[1\]](https://web.archive.org/web/20260721170106/https://osu.ppy.sh/rankings/fruits/global/performance) [\[2\]](https://www.reddit.com/r/osugame/comments/1v25lkm/motion_returns_to_1_in_ctb/) |
 
 ## Número de reinados
 
-Lo siguiente es una lista del número total de veces que un jugador ha alcanzado el puesto #1 en su tiempo de juego (al 19 de marzo de 2025).
+Lo siguiente es una lista del número total de veces que un jugador ha alcanzado el puesto #1 en su tiempo de juego (al 21 de julio de 2026).
 
 | Jugador | Reinado |
 | --: | :-: |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 9 |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 10 |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 6 |
-| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 5 |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 6 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 4 |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 3 |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 2 |
 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 1 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 1 |
 
 ## Reinados combinados más largos
 
-*Nota: El reinado actual del puesto #1 está excluido.*
+::: alert-notice
+**Aviso**
+El reinado actual del puesto #1 está excluido.
+:::
 
-Lo siguiente es una lista del número total de días que un jugador ha ocupado el puesto #1 (al 19 de marzo de 2025).
+Lo siguiente es una lista del número total de días que un jugador ha ocupado el puesto #1 (al 21 de julio de 2026).
 
 | Jugador | Duración (días) |
 | --: | :-: |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 1283 |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 873 |
 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 666 |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 561 |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 382 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 357 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 203 |
-| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 6 |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 71 |
 
 ## Reinados individuales más largos
 
-*Nota: Solo se incluyen los reinados de más de 100 días. El actual reinado del puesto #1 está excluido.*
+::: alert-notice
+**Aviso**
+Solo se incluyen los reinados de más de 100 días. El actual reinado del puesto #1 está excluido.
+:::
 
-Lo siguiente es una lista de los días consecutivos más largos que un jugador ha ocupado el puesto #1 (al 19 de marzo de 2025).
+Lo siguiente es una lista de los días consecutivos más largos que un jugador ha ocupado el puesto #1 (al 21 de julio de 2026).
 
 | Jugador | Desde | Hasta | Duración del reinado (días) |
 | --: | :-- | :-- | :-: |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 7/6/2021 | 21/7/2024 | 1173 |
 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 8/7/2014 | 4/5/2016 | 666 |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2/11/2024 | 6/12/2025 | 399 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 14/4/2018 | 6/4/2019 | 357 |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 4/5/2016 | 15/1/2017 | 256 |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 14/5/2020 | 12/1/2021 | 243 |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 26/1/2026 | 1/7/2026 | 156 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 4/2/2020 | 14/5/2020 | 100 |

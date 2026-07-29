@@ -22,7 +22,7 @@ Berbagai artikel dan panduan penting yang akan membantu kamu untuk mendalami osu
 </div>
 <div class="wiki-main-page-panel">
 
-# Klien permainan
+# [Klien permainan](/wiki/Client)
 
 osu! merupakan permainan yang kaya akan fitur. Kenali seluk-beluk permainan ini lebih jauh, mulai dari pengaturan dan pilihan kustomisasi yang tersedia hingga format berkas yang osu! gunakan.
 
@@ -33,7 +33,7 @@ osu! merupakan permainan yang kaya akan fitur. Kenali seluk-beluk permainan ini 
 </div>
 <div class="wiki-main-page-panel">
 
-# Permainan
+# [Permainan](/wiki/Gameplay)
 
 Segalanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek kunci, konsep permainan, mekanika permainan, hingga lingkungan kompetitifnya.
 

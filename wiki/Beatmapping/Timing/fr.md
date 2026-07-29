@@ -15,7 +15,9 @@ Le timing reflète en quelque sorte *les propriétés d'un fichier audio spécif
 
 ## Structure de la musique
 
-*Article principal : [Théorie musicale](/wiki/Music_theory)*
+::: alert-note
+**Page principale** : [Théorie musicale](/wiki/Music_theory)
+:::
 
 Presque toutes les musiques peuvent être divisées en plusieurs sections de tempo différent, et l'objectif du timing est de diviser une beatmap pour concorder avec ces sections. Comprendre quelques concepts de théorie musicale peut donc s'avérer utile pour aborder ce processus :
 
@@ -27,8 +29,13 @@ Presque toutes les musiques peuvent être divisées en plusieurs sections de tem
 
 ## Processus de timing
 
-*Article Principal : [Comment régler le timing d'une musique](/wiki/Guides/How_to_time_songs)*\
-*Voir également : [Éditeur de Beatmap/Timing](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**Page principale** : [Comment régler le timing d'une musique](/wiki/Guides/How_to_time_songs)
+:::
+
+::: alert-note
+**Voir également** : [Éditeur de Beatmap/Timing](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 ### BPM Unique
 

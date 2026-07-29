@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 40e7a35ab519347caaa07e83eb12d3f9e4f70438
----
-
 # Reportar mala conducta
 
 osu! tiene un equipo de moderadores, el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT), que se encarga de mantener el juego y sus ecosistemas limpios y seguros. Si observas una conducta que infringe las reglas o es contenido inapropiado, repórtala utilizando uno de los métodos que se describen a continuación. Alternativamente, puedes comunicarte directamente con cualquiera de los moderadores en línea si tu reporte no se manejó correctamente dentro de un período de tiempo razonable, hazlo solo como último recurso.
@@ -27,11 +22,9 @@ Para cualquier otra cosa, sigue las instrucciones que aparecen a continuación.
 
 ### El comando !report
 
-*Precaución: ¡Reportar a un usuario mediante el comando `!report` en osu!(lazer) o a través del sitio web hará que el reporte sea **visible para todos!** En su lugar, [usa el menú de reportes](#lazer-reports) o repórtalos a través de [su página de perfil](#perfil-de-usuario).*
-
 ![](img/report-command.jpg "Ejemplo de uso del comando !report")
 
-La mala conducta en el chat es la infracción más común. Para reportarla, usa [el comando `!report`](https://osu.ppy.sh/community/forums/topics/34843), preferiblemente en el canal donde se produjo la infracción o infracciones. No te preocupes: si tu mensaje empieza con `!report` y un espacio, y lo has enviado desde osu!(stable) o un cliente IRC, **solo lo podrán ver los moderadores** y nadie más en el chat. También puedes usar la función de reportes a través de la [superposición del juego](#stable-reports) en el cliente de osu!(stable) como se muestra a continuación si todavía estás preocupado.
+La mala conducta en el chat es la infracción más común. Para reportarla, usa [el comando `!report`](https://osu.ppy.sh/community/forums/topics/34843), preferiblemente en el canal donde se produjo la infracción o infracciones. No te preocupes: si tu mensaje empieza con `!report` y un espacio, **solo lo podrán ver los moderadores** y nadie más en el chat. También puedes usar la función de reportes a través de la [superposición del juego](#stable-reports) en el cliente de osu!(stable) como se muestra a continuación, o a través de [la página de perfil del infractor](#perfil-de-usuario), si todavía estás preocupado.
 
 La sintaxis del comando tiene dos formas:
 

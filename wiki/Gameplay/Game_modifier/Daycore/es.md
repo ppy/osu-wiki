@@ -22,13 +22,15 @@ tags:
 | Tipo | Reducción de dificultad |
 | Tecla de acceso directo predeterminada | `R` |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicador de puntuación | 0,30x\* |
+| Multiplicador de puntuación | `0,30x*` |
 | Estado | Clasificado |
 | Mods incompatibles | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
 
 :::
 
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Daycore** se comporta exactamente igual que [Half Time](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) en lo que respecta al cambio de velocidad y la modificación de los ajustes de dificultad. Solo reduce la frecuencia de audio en un 75 % sin posibilidad de ajustar el tono mediante la personalización.
 

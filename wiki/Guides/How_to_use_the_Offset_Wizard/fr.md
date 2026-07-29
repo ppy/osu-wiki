@@ -1,6 +1,8 @@
 # Comment utiliser l'assistant de décalage
 
-*Voir également : [Assistant de décalage](/wiki/Client/Options/Offset_Wizard) et [Décalage universel](/wiki/Offset/Universal_offset)*
+::: alert-note
+**Voir également** : [Assistant de décalage](/wiki/Client/Options/Offset_Wizard) et [Décalage universel](/wiki/Offset/Universal_offset)
+:::
 
 Si les [hitsounds](/wiki/Beatmapping/Hitsound) ne sont pas synchronisés avec la musique dans chaque beatmap que vous jouez, vous devrez probablement modifier votre [décalage universel](/wiki/Offset/Universal_offset). La façon la plus simple de le faire est d'utiliser l'**assistant de décalage**.
 

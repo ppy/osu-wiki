@@ -13,8 +13,13 @@ tags:
 
 # Game modifier (lazer)
 
-*For the osu!stable version of this article, see: [Game modifier](/wiki/Gameplay/Game_modifier)*\
-*For other uses of "mod", see: [Mod (disambiguation)](/wiki/Disambiguation/Mod)*
+::: alert-note
+**Note:** For the osu!stable version of this article, see [Game modifier](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Note:** For other uses of "mod", see [Mod (disambiguation)](/wiki/Disambiguation/Mod)
+:::
 
 ![](img/mod-select.jpg "Mod selection screen for the osu! game mode")
 
@@ -30,6 +35,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 - [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Simplified Rhythm (SR)](/wiki/Gameplay/Game_modifier/Simplified_Rhythm) ![][osu!taiko]
 - [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release) ![][osu!mania]
 
 ### Difficulty Increase
@@ -62,6 +68,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 - [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) ![][osu!] ![][osu!taiko]
 - [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!mania]
+- [Dual Stages (DS)](/wiki/Gameplay/Game_modifier/Dual_Stages) ![][osu!mania]
 - [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror_(lazer)) ![][osu!] ![][osu!catch] ![][osu!mania]
 - [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate) ![][osu!]
 - [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) ![][osu!taiko]
@@ -90,6 +97,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 - [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) ![][osu!] ![][osu!taiko] ![][osu!mania]
 - [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) ![][osu!]
 - [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) ![][osu!]
+- [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) ![][osu!catch]
 - [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Synesthesia) ![][osu!]
 - [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) ![][osu!]
 - [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) ![][osu!]
