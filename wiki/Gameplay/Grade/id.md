@@ -27,8 +27,8 @@ Penilaian dari tingkat terendah hingga tertinggi, kemungkinan nilai yang bisa di
 | :-: | :-- |
 | SS | Akurasi 100% |
 | S | Perolehan 300 di atas 90%, perolehan 50 di bawah 1%, dan tidak ada miss |
-| A | Perolehan 300 di atas 80% dan tidak ada miss, **ATAU** perolehan 300 diatas 90% |
-| B | Perolehan 300 di atas 70% dan tidak ada miss, **ATAU** perolehan 300 diatas 80% |
+| A | Perolehan 300 di atas 80% dan tidak ada miss, **ATAU** perolehan 300 di atas 90% |
+| B | Perolehan 300 di atas 70% dan tidak ada miss, **ATAU** perolehan 300 di atas 80% |
 | C | Perolehan 300 di atas 60% |
 | D | Lainnya |
 
@@ -38,8 +38,8 @@ Penilaian dari tingkat terendah hingga tertinggi, kemungkinan nilai yang bisa di
 | :-: | :-- |
 | SS | Akurasi 100% |
 | S | Perolehan GREAT di atas 90% dan tidak ada miss |
-| A | Perolehan GREAT di atas 80% dan tidak ada miss, **ATAU** perolehan GREAT lebih dari 90% |
-| B | Perolehan GREAT di atas 70% dan tidak ada miss, **ATAU** perolehan GREAT lebih dari 80%. |
+| A | Perolehan GREAT di atas 80% dan tidak ada miss, **ATAU** perolehan GREAT di atas 90% |
+| B | Perolehan GREAT di atas 70% dan tidak ada miss, **ATAU** perolehan GREAT di atas 80%. |
 | C | Perolehan GREAT di atas 60% |
 | D | Lainnya |
 
@@ -48,7 +48,7 @@ Penilaian dari tingkat terendah hingga tertinggi, kemungkinan nilai yang bisa di
 | Nilai | Kondisi |
 | :-: | :-- |
 | SS | Akurasi 100% |
-| S | Akurasi di antara 98.01% sampai 99.99% (nilai S dapat diperoleh meskipun terdapat beberapa miss, seperti di osu!mania). |
+| S | Akurasi di antara 98.01% sampai 99.99% (nilai S dapat diperoleh meskipun terdapat beberapa miss, seperti di osu!mania) |
 | A | Akurasi di antara 94.01% sampai 98.00% |
 | B | Akurasi di antara 90.01% sampai 94.00% |
 | C | Akurasi di antara 85.01% sampai 90.00% |
