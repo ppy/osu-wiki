@@ -12,8 +12,8 @@ Les *objets* sont des éléments avec lesquels les joueurs peuvent intéragir pe
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [cercles](/wiki/Gameplay/Hit_object/Hit_circle) | cercles | [fruits](/wiki/Gameplay/Hit_object/Fruit) | notes |
-| [sliders](/wiki/Gameplay/Hit_object/Slider) | drumrolls | [juice stream](/wiki/Gameplay/Hit_object/Juice_stream) | hold notes |
+| [cercles](/wiki/Gameplay/Hit_object/Hit_circle) | cercles | [fruits](/wiki/Gameplay/Hit_object/Fruit) | [notes](/wiki/Gameplay/Hit_object/Note) |
+| [sliders](/wiki/Gameplay/Hit_object/Slider) | drumrolls | [juice stream](/wiki/Gameplay/Hit_object/Juice_stream) | [hold notes](/wiki/Gameplay/Hit_object/Hold_note) |
 | [spinners](/wiki/Gameplay/Hit_object/Spinner) | dendens | [bananas](/wiki/Gameplay/Hit_object/Banana) | x |
 | x | x | [hyperfruits](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
 

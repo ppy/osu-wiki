@@ -14,6 +14,7 @@
 - [Mod](Mod)
 - [NC](NC)
 - [NM](NM)
+- [Note](Note)
 - [Ouendan](Ouendan)
 - [osu!](osu!)
 - [ランク](Rank)

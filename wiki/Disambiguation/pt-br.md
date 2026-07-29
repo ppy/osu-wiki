@@ -18,6 +18,7 @@ Artigos que discutem tópicos com títulos similares, devem usar a [*hatnote* "P
 - [Mod](Mod)
 - [NC](NC)
 - [NM](NM)
+- [Note](Note)
 - [Ouendan](Ouendan)
 - [osu!](osu!)
 - [Rank](Rank)

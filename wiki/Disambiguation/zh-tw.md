@@ -19,6 +19,7 @@ no_native_review: true
 - [NC](NC)
 - [NM](NM)
 - [osu!](osu!)
+- [Note](Note)
 - [應援團](Ouendan)
 - [Rank](Rank)
 - [分數](Score)
