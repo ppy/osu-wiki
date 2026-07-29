@@ -29,7 +29,7 @@ There was but one major distinction between this compilation and other mixes rel
 
 In retrospect, it may be easy to take the impact this had on the community for granted. Most users are at the very least familiar with its existence, but this was arguably one of the most influential mixes of the year, the other one being [osu!memories](https://www.youtube.com/watch?v=HoHzRCksdnwmade) by [SakiZ](https://osu.ppy.sh/users/4347191) and [mapped](https://osu.ppy.sh/beatmapsets/532522) shortly after by [DeRandom Otaku](https://osu.ppy.sh/users/5156153), which was in part inspired by the first MEGAMIX!
 
-Nowadays, the beatmap continues to garner a lot of attention from players. Most recently, [mrekk](https://osu.ppy.sh/users/7562902) managed to achieve the first ever [HDDT full clear](https://osu.ppy.sh/scores/2736364778) back in 2024, becoming the only player to date to achieve such a feat in 10 years since the beatmap was ranked!
+Nowadays, the beatmap continues to garner a lot of attention from players. Most recently, [mrekk](https://osu.ppy.sh/users/7562902) managed to achieve the first ever [HDDT full combo](https://osu.ppy.sh/scores/2736364778) back in 2024, becoming the only player to date to achieve such a feat in 10 years since the beatmap was ranked!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/pd8swyHbywc" frameborder="0" allowfullscreen></iframe>
