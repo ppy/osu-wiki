@@ -37,8 +37,18 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_mcosu.png) | [McOsu](https://store.steampowered.com/app/607260/McOsu/) | ::{ flag=AT }:: [McKay](https://osu.ppy.sh/users/3321909) | Practice client for osu! beatmaps with VR support |
 | ![](img/logo_osu_droid.png) | [osu!droid](https://github.com/osudroid/osu-droid) | ::{ flag=DE }:: [neico](https://osu.ppy.sh/users/119665) and ::{ flag=RU }:: [Pesets_old](https://osu.ppy.sh/users/780451) | Unofficial osu! client for Android |
-|  | [osu!taiko made with Scratch](https://turbowarp.org/1067424534?fps=240&offscreen) | ::{ flag=US }:: [MrrJinxx](https://osu.ppy.sh/users/32908054) | osu!taiko clone written in [Scratch](https://scratch.mit.edu/about) |
 | ![](img/logo_otu.png) | [otu!](https://gdladder.com/level/111345732) | ::{ flag=US }:: [CreatorCreepy](https://osu.ppy.sh/users/10436454) | Recreation of osu! in [Geometry Dash](https://en.wikipedia.org/wiki/Geometry_Dash) |
+
+#### Scratch
+
+All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://scratch.mit.edu/about) by various users.
+
+| Name | Project lead |
+| :-- | :-- |
+| [osu! made with Scratch](https://turbowarp.org/613688710?fps=240&clones=Infinity&limitless&hqpen) | ::{ flag=ID }:: [SpiritSK](https://osu.ppy.sh/users/14447611) |
+| [osu!taiko made with Scratch](https://turbowarp.org/1268613976?fps=240&offscreen&hqpen) | ::{ flag=US }:: [The Jorker](https://osu.ppy.sh/users/32908054) |
+| [osu!catch made with Scratch](https://turbowarp.org/1193929805?fps=240&offscreen&hqpen) | ::{ flag=US }:: [The Jorker](https://osu.ppy.sh/users/32908054) |
+| [osu!mania made with Scratch](https://turbowarp.org/220672247?fps=120&offscreen&hqpen&limitless) | ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) |
 
 ### Gameplay
 
