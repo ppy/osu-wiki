@@ -27,7 +27,9 @@ Several notes can share the same timestamp as long as they occupy different colu
 **Main page:** [osu!mania judgement system](/wiki/Gameplay/Judgement/osu!mania)
 :::
 
-A note is judged based on a key press position within the note's timing window. The width of each of these hit windows is derived from the beatmap's [overall difficulty](/wiki/Beatmap/Overall_difficulty). Pressing the key before the MISS window opens does nothing, and a note that is never pressed is missed once its OK window has passed.
+A note is judged based on a key press position within the note's timing window. The width of each of these hit windows is derived from the beatmap's [overall difficulty](/wiki/Beatmap/Overall_difficulty) (OD). Pressing the key before the MISS window opens does nothing, and a note that is never pressed is missed once its OK window has passed.
+
+The timing window of the MAX judgement is constant in osu!(stable), but with the ScoreV2 mod enabled, as well as in osu!(lazer), it is affected by OD changes, which makes it more challenging to get a MAX starting from OD 8.
 
 Every note that is hit adds a point to the [combo](/wiki/Gameplay/Combo_(score_multiplier)) counter and refills a small part of the [health bar](/wiki/Gameplay/Health), with better judgements recovering more. MEH and MISS judgements drain health instead.
 
