@@ -144,7 +144,7 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 
 The bracket for the offline stage can be found [here](https://liquipedia.net/osu/COE/2026#Results).
 
-Thursday, 10th of July 2026:
+Thursday, 30th of July 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -153,7 +153,7 @@ Thursday, 10th of July 2026:
 | **NINERIK** ::{ flag=NO }:: | **5** | 0 | ::{ flag=UA }:: GET LOVED | [#1](https://osu.ppy.sh/multiplayer/rooms/3798083/events) |
 | papercandle ::{ flag=NO }:: | 0 | **5** | ::{ flag=GB }:: **fudge** | [#1](https://osu.ppy.sh/multiplayer/rooms/3798561/events) |
 | **MALISZEWSKI** ::{ flag=PL }:: | **5** | **1** | ::{ flag=DE }:: yary | [#1](https://osu.ppy.sh/multiplayer/rooms/3799643/events) |
-| mrekk ::{ flag=AU }:: | 0 | 0 | ::{ flag=NL }:: Aheo | ??:?? CEST |
+| **mrekk** ::{ flag=AU }:: | **W** | FF | ::{ flag=NL }:: Aheo | |
 | **criller** ::{ flag=DE }:: | **5** | 0 | ::{ flag=FR }:: Hifkil | [#1](https://osu.ppy.sh/multiplayer/rooms/3800230/events) |
 | **runnysunny** ::{ flag=DE }:: | **5** | 2 | ::{ flag=PL }:: gnahus | [#1](https://osu.ppy.sh/multiplayer/rooms/3801021/events) |
 
