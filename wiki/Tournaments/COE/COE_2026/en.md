@@ -152,10 +152,10 @@ Thursday, 10th of July 2026:
 | **ASecretBox** ::{ flag=AU }:: | **5** | 1 | ::{ flag=SM }:: argweid | [#1](https://osu.ppy.sh/multiplayer/rooms/3797559/events) |
 | **NINERIK** ::{ flag=NO }:: | **5** | 0 | ::{ flag=UA }:: GET LOVED | [#1](https://osu.ppy.sh/multiplayer/rooms/3798083/events) |
 | papercandle ::{ flag=NO }:: | 0 | **5** | ::{ flag=GB }:: **fudge** | [#1](https://osu.ppy.sh/multiplayer/rooms/3798561/events) |
-| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=DE }:: yary | 17:15 CEST |
-| **mrekk** ::{ flag=AU }:: | **W** | FF | ::{ flag=NL }:: Aheo | |
-| criller ::{ flag=DE }:: | 0 | 0 | ::{ flag=FR }:: Hifkil | 18:30 CEST |
-| runnysunny ::{ flag=DE }:: | 0 | 0 | ::{ flag=PL }:: gnahus | 19:30 CEST |
+| **MALISZEWSKI** ::{ flag=PL }:: | **5** | **1** | ::{ flag=DE }:: yary | [#1](https://osu.ppy.sh/multiplayer/rooms/3799643/events) |
+| mrekk ::{ flag=AU }:: | 0 | 0 | ::{ flag=NL }:: Aheo | ??:?? CEST |
+| **criller** ::{ flag=DE }:: | **5** | 0 | ::{ flag=FR }:: Hifkil | [#1](https://osu.ppy.sh/multiplayer/rooms/3800230/events) |
+| **runnysunny** ::{ flag=DE }:: | **5** | 2 | ::{ flag=PL }:: gnahus | [#1](https://osu.ppy.sh/multiplayer/rooms/3801021/events) |
 
 ### Online play-in stage
 
