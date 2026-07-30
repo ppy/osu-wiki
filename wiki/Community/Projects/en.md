@@ -2,7 +2,7 @@
 
 This article lists the various projects, tools, and/or services made for osu! by the [developers](/wiki/People/Developers) and the community.
 
-While official projects are for the most part run by the [osu! team](/wiki/People/osu!_team), community projects are managed by members of the community. As such, they are not endorsed by osu!, nor do they have any official support. For news and discussions on all the current and upcoming projects, please visit the [Development forum](https://osu.ppy.sh/community/forums/2).
+While official projects are for the most part run by the [osu! team](/wiki/People/osu!_team), community projects are managed by members of the community. As such, they are not endorsed by osu!, nor do they have any official support. For news and discussions on all the current and upcoming projects, please visit the [Development forum](http://osu.ppy.sh/community/forums/2).
 
 ## Official
 
@@ -56,18 +56,18 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_circleguard.png) | [Circleguard](https://github.com/circleguard/circleguard) | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Replay analysis suite for checking potential foul play |
 | ![](img/logo_keyspersecond.png) | [KeysPerSecond](https://osu.ppy.sh/community/forums/topics/552405) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Benchmark tool for analysing general key input speed |
-| ![](img/logo_opentabletdriver.png) | [OpenTabletDriver](https://opentabletdriver.net/) | ::{ flag=DK }:: [gonX](https://osu.ppy.sh/users/5409249) | Low-latency graphics tablet driver for osu! |
-| ![](img/logo_osr2mp4.png) | [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) | ::{ flag=JP }:: [yuitora](https://osu.ppy.sh/users/11401118) | Automatic `.osr` to `.mp4` conversion tool |
-|  | [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143) | ::{ flag=US }:: [LackOfSanity](https://osu.ppy.sh/users/4613296) | Replay analysis suite for determining the cause of a miss |
+|  | [osu!trainer](https://github.com/FunOrange/osu-trainer) | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Program for modifying a beatmap's speed rate and difficulty settings quickly |
 
 #### osu!
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
+| ![](img/logo_circleguard.png) | [Circleguard](https://github.com/circleguard/circleguard) | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Replay analysis suite for checking potential foul play |
 | ![](img/logo_danser_go.png) | [danser-go](https://github.com/Wieku/danser-go) | ::{ flag=PL }:: [Wiek](https://osu.ppy.sh/users/2584698) | Visualisation tool for osu! beatmaps |
-|  | [osu!trainer](https://github.com/FunOrange/osu-trainer) | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Program for modifying a beatmap's speed rate and difficulty settings quickly |
+| ![](img/logo_opentabletdriver.png) | [OpenTabletDriver](https://opentabletdriver.net/) | ::{ flag=DK }:: [gonX](https://osu.ppy.sh/users/5409249) | Low-latency graphics tablet driver for osu! |
+| ![](img/logo_osr2mp4.png) | [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) | ::{ flag=JP }:: [yuitora](https://osu.ppy.sh/users/11401118) | Automatic `.osr` to `.mp4` conversion tool |
+|  | [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143) | ::{ flag=US }:: [LackOfSanity](https://osu.ppy.sh/users/4613296) | Replay analysis suite for determining the cause of a miss |
 
 ### Livestreaming
 
@@ -87,7 +87,6 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 |  | [AxerBot](https://github.com/Hiviexd/AxerBot) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | All-purpose Discord bot with features catered to mapping and modding |
 |  | [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | Tool for copying hitsounds from one difficulty to another |
 | ![](img/logo_mapping_tools.png) | [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368) | ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | Core program for all things mapping |
-| ![](img/logo_osu_storyboarder_banquet.png) | [osu! Storyboarder Banquet](https://osb.moe) | ::{ flag=CN }:: [Sidetail](https://osu.ppy.sh/users/2036217) | Compendium of tips, tricks, and other storyboarding essentials |
 
 #### osu!
 
@@ -112,6 +111,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
+| ![](img/logo_osu_storyboarder_banquet.png) | [osu! Storyboarder Banquet](https://osb.moe) | ::{ flag=CN }:: [Sidetail](https://osu.ppy.sh/users/2036217) | Compendium of tips, tricks, and other storyboarding essentials |
 |  | [Storybrew](https://github.com/Damnae/storybrew) | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | Easy-to-use storyboard editor |
 
 ### Modding
@@ -184,7 +184,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 | ![](img/logo_bathbot.png) | [BathBot](https://github.com/MaxOhn/Bathbot) | ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Feature-rich Discord bot with versatile osu! functionalities |
 | ![](img/logo_hwchrs_pick_em.png) | [hwchr's pick'em](https://pickem.hwc.hr/tournaments) | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) | Website that hosts [pick'ems](https://egamersworld.com/blog/egamersworld-pickem-vjofPo3GE7) for osu! tournaments |
 | ![](img/logo_mutualify.png) | [Mutualify](https://mutualify.stanr.info) | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Friend list database for osu! |
-| ![](img/logo_osekai.png) | [Osekai](https://osu.ppy.sh/community/forums/topics/1427698) | ::{ flag=DE }:: [mulraf](https://osu.ppy.sh/users/1309242) | Website hosting [medal unlock requirements](/wiki/Medals/Unlock_requirements), alternative ranking leaderboards, and more |
+| ![](img/logo_osekai.png) | [Osekai](https://inex.osekai.net/) | ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Website hosting [medal unlock requirements](/wiki/Medals/Unlock_requirements), alternative ranking leaderboards, and more |
 | ![](img/logo_osuwme.png) | [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | [BBCode](/wiki/BBCode) editor with real-time preview for osu! userpages |
 | ![](img/logo_osumatchmaking.png) | [osu!matchmaking](https://discord.com/invite/CehChep) | ::{ flag=RU }:: [Anemic Witch](https://osu.ppy.sh/users/7258536) | Quick and automated multiplayer matches |
 | ![](img/logo_osuplayer.png) | [osu!player](https://osu.ppy.sh/community/forums/topics/660418) | ::{ flag=DE }:: [Founntain](https://osu.ppy.sh/users/5105217) | Media player for osu! beatmaps |
