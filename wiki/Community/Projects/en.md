@@ -2,7 +2,7 @@
 
 This article lists the various projects, tools, and/or services made for osu! by the [developers](/wiki/People/Developers) and the community.
 
-While official projects are for the most part run by the [osu! team](/wiki/People/osu!_team), community projects are managed by members of the community. As such, they are not endorsed by osu!, nor do they have any official support. For news and discussions on all the current and upcoming projects, please visit the [Development forum](http://osu.ppy.sh/community/forums/2).
+While official projects are for the most part run by the [osu! team](/wiki/People/osu!_team), community projects are managed by members of the community. As such, they are not endorsed by osu!, nor do they have any official support. For news and discussions on all the current and upcoming projects, please visit the [Development forum](https://osu.ppy.sh/community/forums/2).
 
 ## Official
 
@@ -74,7 +74,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_gosumemory.png) | [gosumemory](https://github.com/l3lackShark/gosumemory) | ::{ flag=RU }:: [BlackShark](https://osu.ppy.sh/users/9173653) | Cross-platform memory reader for osu! |
-|  | [JKPS](https://osu.ppy.sh/community/forums/topics/1356687) | ::{ flag=IT }:: [Down16IQ](https://osu.ppy.sh/users/10371089) | Screen overlay showing key states, keys per second, total keys, and beats per minute |
+|  | [JKPS](https://osu.ppy.sh/community/forums/topics/1356687) | ::{ flag=IT }:: [Down16IQ](https://osu.ppy.sh/users/10371089) | Screen overlay showing key states, keys per second, total keys and beats per minute |
 | ![](img/logo_osustreamcompanion.png) | [osu!StreamCompanion](https://osu.ppy.sh/community/forums/topics/209616) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Beatmap information extractor for livestreamers |
 |  | [Ronnia](https://ronnia.me/) | ::{ flag=NL }:: [heyronii](https://osu.ppy.sh/users/5642779) | Twitch bot that tracks song requests and player data |
 
@@ -111,7 +111,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_osu_storyboarder_banquet.png) | [osu! Storyboarder Banquet](https://osb.moe) | ::{ flag=CN }:: [Sidetail](https://osu.ppy.sh/users/2036217) | Compendium of tips, tricks, and other storyboarding essentials |
+| ![](img/logo_osu_storyboarder_banquet.png) | [osu! Storyboarder Banquet](https://osb.moe) | ::{ flag=CN }:: [Sidetail](https://osu.ppy.sh/users/2036217) | Compendium of tips, tricks and other storyboarding essentials |
 |  | [Storybrew](https://github.com/Damnae/storybrew) | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | Easy-to-use storyboard editor |
 
 ### Modding
@@ -134,7 +134,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-|  | [Collections Manager](https://osu.ppy.sh/community/forums/topics/131103) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Tool for creating, editing, and exporting collections |
+|  | [Collections Manager](https://osu.ppy.sh/community/forums/topics/131103) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Tool for creating, editing and exporting collections |
 
 ### Beatmap mirrors
 
@@ -169,7 +169,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_bonus_pp_calculator.png) | [Bonus PP calculator](https://osu.ppy.sh/community/forums/topics/538470) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Calculator for determining how much [bonus pp](/wiki/Performance_points#how-much-bonus-pp-is-awarded-for-having-scores-on-ranked-maps?) a user has |
 | ![](img/logo_osuchan.png) | [osu!chan](https://osuchan.syrin.me) | ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575) | Website that hosts a multitude of alternative ranking leaderboards |
-| ![](img/logo_osuskills.png) | [osu!Skills](https://osu.ppy.sh/community/forums/topics/367283) | ::{ flag=RU }:: [Kert](https://osu.ppy.sh/users/119933) | Website that breaks down pp into other metrics such as stamina, reaction, and memory |
+| ![](img/logo_osuskills.png) | [osu!Skills](https://osu.ppy.sh/community/forums/topics/367283) | ::{ flag=RU }:: [Kert](https://osu.ppy.sh/users/119933) | Website that breaks down pp into other metrics such as stamina, reaction and memory |
 | ![](img/logo_osustats.png) | [osu!Stats](https://osustats.ppy.sh) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Website for searching specific scores and player statistics |
 | ![](img/logo_osutrack.png) | [osu!track](https://osu.ppy.sh/community/forums/topics/212151) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | Website that allows players to track their progress and see their improvements over time |
 |  | [osu!track (IRC)](https://osu.ppy.sh/community/forums/topics/233167) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | In-game IRC bot of osu!track |
@@ -180,11 +180,11 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_aiess.png) | [Aiess](https://github.com/Naxesss/Aiess) | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Service that provides subscriptions for various web events such as ranks, qualifications, nominations, suggestions, news posts, and user group changes |
+| ![](img/logo_aiess.png) | [Aiess](https://github.com/Naxesss/Aiess) | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Service that provides subscriptions for various web events such as ranks, qualifications, nominations, suggestions, news posts and user group changes |
 | ![](img/logo_bathbot.png) | [BathBot](https://github.com/MaxOhn/Bathbot) | ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Feature-rich Discord bot with versatile osu! functionalities |
 | ![](img/logo_hwchrs_pick_em.png) | [hwchr's pick'em](https://pickem.hwc.hr/tournaments) | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) | Website that hosts [pick'ems](https://egamersworld.com/blog/egamersworld-pickem-vjofPo3GE7) for osu! tournaments |
 | ![](img/logo_mutualify.png) | [Mutualify](https://mutualify.stanr.info) | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Friend list database for osu! |
-| ![](img/logo_osekai.png) | [Osekai](https://inex.osekai.net/) | ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Website hosting [medal unlock requirements](/wiki/Medals/Unlock_requirements), alternative ranking leaderboards, and more |
+| ![](img/logo_osekai.png) | [Osekai](https://inex.osekai.net/) | ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Website hosting [medal unlock requirements](/wiki/Medals/Unlock_requirements), alternative ranking leaderboards and more |
 | ![](img/logo_osuwme.png) | [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | [BBCode](/wiki/BBCode) editor with real-time preview for osu! userpages |
 | ![](img/logo_osumatchmaking.png) | [osu!matchmaking](https://discord.com/invite/CehChep) | ::{ flag=RU }:: [Anemic Witch](https://osu.ppy.sh/users/7258536) | Quick and automated multiplayer matches |
 | ![](img/logo_osuplayer.png) | [osu!player](https://osu.ppy.sh/community/forums/topics/660418) | ::{ flag=DE }:: [Founntain](https://osu.ppy.sh/users/5105217) | Media player for osu! beatmaps |
@@ -219,8 +219,8 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-|  | [A little approach rate calculator for your maps](https://osu.ppy.sh/community/forums/topics/578541) | ::{ flag=FR }:: [Grosinge](https://osu.ppy.sh/users/7505438) | Website that suggests an optimal [Approach Rate](/wiki/Beatmap/Approach_rate) based on the song's BPM |
-|  | [lua-mania](https://osu.ppy.sh/community/forums/topics/465914) | ::{ flag=RU }:: [semyon422](https://osu.ppy.sh/users/4695318) | Tool for converting osu!/osu!taiko/osu!catch beatmaps into osu!mania beatmaps |
+|  | [A little approach rate calculator for your maps](https://osu.ppy.sh/community/forums/topics/578541) | ::{ flag=FR }:: [Grosinge](https://osu.ppy.sh/users/7505438) | Website that suggests an optimal [approach rate](/wiki/Beatmap/Approach_rate) based on the song's BPM |
+|  | [lua-mania](https://osu.ppy.sh/community/forums/topics/465914) | ::{ flag=RU }:: [semyon422](https://osu.ppy.sh/users/4695318) | Tool for converting osu!, osu!taiko and osu!catch beatmaps into osu!mania beatmaps |
 |  | [Manage Beatmap](https://github.com/frukoyurdakul/Manage_Beatmap) | ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Tool for managing slider velocity changes in osu!taiko |
 |  | [O2Jam to osu!mania converter](https://osu.ppy.sh/community/forums/topics/121149) | ::{ flag=NL }:: [Nyanderfull](https://osu.ppy.sh/users/1191983) | Tool for converting O2Jam's `.ojn` charts into osu!mania beatmaps |
 |  | [omtrc - osu!mania timerate changer](https://osu.ppy.sh/community/forums/topics/618646) | ::{ flag=RU }:: [semyon422](https://osu.ppy.sh/users/4695318) | Rate changer for osu!mania beatmaps |
@@ -257,7 +257,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_osucleaner.png) | [osu!cleaner](https://github.com/InvisibleSymbol/osu-cleaner) | ::{ flag=AT }:: [\] \[](https://osu.ppy.sh/users/13506780) | Tool for sorting and deleting beatmaps based on certain filters |
 | ![](img/logo_osuocm_collection_manager.png) | [osu!ocm Collection Manager](https://osu.ppy.sh/community/forums/topics/554209) | ::{ flag=DE }:: [Yulivee](https://osu.ppy.sh/users/341447) | Tool for downloading beatmaps from exported collections |
-|  | [osu!Sync](https://osu.ppy.sh/community/forums/topics/270446) | ::{ flag=DE }:: [naseweis520](https://osu.ppy.sh/users/4729376) | Tool for creating, editing, and exporting collections |
+|  | [osu!Sync](https://osu.ppy.sh/community/forums/topics/270446) | ::{ flag=DE }:: [naseweis520](https://osu.ppy.sh/users/4729376) | Tool for creating, editing and exporting collections |
 |  | [osu!vd](https://osu.ppy.sh/community/forums/topics/210509) | ::{ flag=US }:: [OMQ12](https://osu.ppy.sh/users/3160531) | `.bat` script for deleting beatmap videos in bulk |
 
 #### Website
@@ -287,7 +287,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_osu_music_library.png) | [Osu Music Library](https://osu.ppy.sh/community/forums/topics/267236) | ::{ flag=SE }:: [Dayanto](https://osu.ppy.sh/users/4907353) | Tool for organising, listening, and searching up beatmap songs outside of the osu! client |
+| ![](img/logo_osu_music_library.png) | [Osu Music Library](https://osu.ppy.sh/community/forums/topics/267236) | ::{ flag=SE }:: [Dayanto](https://osu.ppy.sh/users/4907353) | Tool for organising, listening and searching up beatmap songs outside of the osu! client |
 |  | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | [BBCode](/wiki/BBCode) editor with real-time preview for osu! userpages |
 |  | [osu! mouse simulator for Leap](https://osu.ppy.sh/community/forums/topics/139360) | ::{ flag=CZ }:: [Brejlounek](https://osu.ppy.sh/users/931841) | Mouse pointer movement wrapper for [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion) sensors |
 |  | [o!subscribe](https://osu.ppy.sh/community/forums/topics/587110) | ::{ flag=CA }:: [Slow Twitch](https://osu.ppy.sh/users/3172543) | Service that allows users to subscribe to their favorite mappers |
@@ -355,7 +355,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
-|  | [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510) | ::{ flag=DE }:: [Deimos](https://osu.ppy.sh/users/1515403) | Android app for determining [Approach Rate](/wiki/Beatmap/Approach_rate) speed and [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) hit window accuracy |
+|  | [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510) | ::{ flag=DE }:: [Deimos](https://osu.ppy.sh/users/1515403) | Android app for determining [approach rate](/wiki/Beatmap/Approach_rate) and [overall difficulty](/wiki/Beatmap/Overall_difficulty) with different mods |
 | ![](img/logo_osu_music_player.png) | [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) | ::{ flag=CA }:: [Naviaux](https://osu.ppy.sh/users/2240370) | osu!-themed music player |
 |  | [osu! Windows 60 fps animated cursors](https://osu.ppy.sh/community/forums/topics/86671) | ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | osu!-styled cursors for Windows |
 |  | [osu!search](https://osu.ppy.sh/community/forums/topics/380485) | ::{ flag=FI }:: [Rivenation](https://osu.ppy.sh/users/2063554) | Website for advanced beatmap searching |
