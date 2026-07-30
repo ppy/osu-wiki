@@ -34,8 +34,8 @@ The COE 2026 1v1 Tournament prizes are yet to be announced.
 | Admin | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
 | Mappool selector | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656) |
 | Playtester | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=HK }:: [misha awa](https://osu.ppy.sh/users/14503423), ::{ flag=DE }:: [okinamo](https://osu.ppy.sh/users/3765989), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) |
-| Mapper | ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589), ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AT }:: [topXD](https://osu.ppy.sh/users/11904298), more *TBA* |
-| Custom music producer | *TBA* |
+| Mapper | ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589), ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AT }:: [topXD](https://osu.ppy.sh/users/11904298), ::{ flag=PL }:: [App](https://osu.ppy.sh/users/13650508), ::{ flag=US }:: [nooj](https://osu.ppy.sh/users/8271086), ::{ flag=BR }:: [Froslass](https://osu.ppy.sh/users/19048), ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812), ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929), ::{ flag=US }:: [meiikyuu](https://osu.ppy.sh/users/1043627), ::{ flag=FI }:: [oatmilk](https://osu.ppy.sh/users/16516525), ::{ flag=SE }:: [Meteo L-Drago](https://osu.ppy.sh/users/5087744) |
+| Custom music producer | [Xenjes](https://osu.ppy.sh/beatmaps/artists/482), [Naikou](https://osu.ppy.sh/beatmaps/artists/471), [Kushper](https://soundcloud.com/kushper), [Kyutatsuki](https://soundcloud.com/kyutatsuki) |
 | GFX | ::{ flag=KR }:: [Anniee](https://osu.ppy.sh/users/12457399), ::{ flag=NL }:: [vifiiy](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=ID }:: [Raybean](https://osu.ppy.sh/users/16676388), ::{ flag=PH }:: vividclarities |
 | Storyboarder | ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) |
 | LAN Commentator | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=GB }:: [MALTESER](https://osu.ppy.sh/users/5218178), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=FR }:: [Subaru_Arima](https://osu.ppy.sh/users/11273062), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063) |
@@ -75,6 +75,29 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *TBD* |
 
 ## Mappools
+
+### Offline stage
+
+- No Mod
+  1. [Teminite & Panda Eyes - Highscore [Appoq's NG+]](https://osu.ppy.sh/beatmapsets/2593110#osu/5789797)
+  2. [Imperial Circus Dead Decadence - Jashin no Konrei, Gi wa Ai to Shiru. [Zetsubou no Hana]](https://osu.ppy.sh/beatmapsets/1923289#osu/3970329)
+  3. [yax03 - down [G O D]](https://osu.ppy.sh/beatmapsets/2419109#osu/5589234)
+  4. [XenjeS - SEASiDE RESORT FEVER+ [Beach catastrophy]](https://osu.ppy.sh/beatmapsets/2593324#osu/5790452)
+  5. [maki - stairway to the universe [end (COE Edition.)]](https://osu.ppy.sh/beatmapsets/2468655#osu/5787954)
+- Hidden
+  1. [katagiri - Heisei Saikyou no Curry Ya [Tikka Masala]](https://osu.ppy.sh/beatmapsets/2593115#osu/5789803)
+  2. [MIDORI - YUKIKO san [aishiteiru's extra decimated]](https://osu.ppy.sh/beatmapsets/2368685#osu/5574698)
+  3. [Camellia - Kono Hoshi de.... (20th Anniversary Remake) [ploem]](https://osu.ppy.sh/beatmapsets/2287988#osu/4881763)
+- Hard Rock
+  1. [tokiwa yuu - shounen ripples [Arles]](https://osu.ppy.sh/beatmapsets/356426#osu/784369)
+  2. [NIWASHI - The Fascinating Cat's Eye [drowned at cavoe's osu event]](https://osu.ppy.sh/beatmapsets/2592821#osu/5789005)
+  3. [Naikou & Kushper - Astrophyllite [Starleaf]](https://osu.ppy.sh/beatmapsets/2593258#osu/5790244)
+- Double Time
+  1. [Tatsh, sampling masters MEGA - Weave Detonator [Final]](https://osu.ppy.sh/beatmapsets/2593080#osu/5789728)
+  2. [Hatsune Miku - Mythologia's End [Myth0108ia]](https://osu.ppy.sh/beatmapsets/48979#osu/151229)
+  3. [KASAI HARCORES - Cycle Hit [Home Run]](https://osu.ppy.sh/beatmapsets/636839#osu/1351114)
+- Tiebreaker
+  1. **[Kyutatsuki - COSMIC CROWN [CORONATION]](https://osu.ppy.sh/beatmapsets/2593220#osu/5790094)**
 
 ### Online play-in stage
 
@@ -116,6 +139,23 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
   3. [Halozy - 143 (extended mix) [Lunatic]](https://osu.ppy.sh/beatmapsets/1132649#osu/2365788)
 
 ## Match results
+
+### Offline stage
+
+The bracket for the offline stage can be found [here](https://liquipedia.net/osu/COE/2026#Results).
+
+Thursday, 10th of July 2026:
+
+| Player 1 |  |  | Player 2 | Match time |
+| --: | :-: | :-: | :-- | :-- |
+| Bubbleman ::{ flag=GB }:: | 0 | 0 | ::{ flag=IT }:: kusuriya | 12:00 CEST |
+| ASecretBox ::{ flag=AU }:: | 0 | 0 | ::{ flag=SM }:: argweid | 13:00 CEST |
+| NINERIK ::{ flag=NO }:: | 0 | 0 | ::{ flag=UA }:: GET LOVED | 14:00 CEST |
+| papercandle ::{ flag=NO }:: | 0 | 0 | ::{ flag=GB }:: fudge | 15:00 CEST |
+| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=DE }:: yary | 16:30 CEST |
+| mrekk ::{ flag=AU }:: | 0 | 0 | ::{ flag=NL }:: Aheo | 17:30 CEST |
+| criller ::{ flag=DE }:: | 0 | 0 | ::{ flag=FR }:: Hifkil | 18:30 CEST |
+| runnysunny ::{ flag=DE }:: | 0 | 0 | ::{ flag=PL }:: gnahus | 19:30 CEST |
 
 ### Online play-in stage
 
