@@ -144,6 +144,15 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 
 The bracket for the offline stage can be found [here](https://liquipedia.net/osu/COE/2026#Results).
 
+Friday, 31th of July 2026:
+
+| Player 1 |  |  | Player 2 | Match time |
+| --: | :-: | :-: | :-- | :-- |
+| criller ::{ flag=DE }:: | 0 | 0 | ::{ flag=GB }:: fudge | 17:00 CEST |
+| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=NO }:: NINERIK | 18:00 CEST |
+| ASecretBox ::{ flag=AU }:: | 0 | 0 | ::{ flag=DE }:: runnysunny | 19:00 CEST |
+| mrekk ::{ flag=AU }:: | 0 | 0 | ::{ flag=GB }:: Bubbleman | 20:00 CEST |
+
 Thursday, 30th of July 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
