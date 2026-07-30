@@ -37,7 +37,7 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Fade In** mod makes notes initially invisible as they enter the [playfield](/wiki/Client/Playfield), gradually revealing them before the player has to hit them. The fade effect initially covers about 20% of the playfield, but expands as the [combo](/wiki/Gameplay/Combo_(score_multiplier)) increases. At 500x combo, the fade effect reaches its maximum, covering 70% of the playfield and making notes appear much later.
+The **Fade In** mod makes notes initially invisible as they enter the [playfield](/wiki/Client/Playfield), gradually revealing them as they approach the judgement line. The fade effect initially covers about 20% of the playfield, but expands as the [combo](/wiki/Gameplay/Combo_(score_multiplier)) increases. At 500x combo, the fade effect reaches its maximum, covering 70% of the playfield and making notes appear much later.
 
 **This mod cannot be customised.**
 

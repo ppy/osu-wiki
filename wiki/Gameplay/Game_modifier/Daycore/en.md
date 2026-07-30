@@ -33,7 +33,7 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Daycore** mod behaves exactly like [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) regarding speed changes and difficulty adjustments. However, it specifically decreases the audio frequency by 25% without offering the pitch adjustment options available in customisation settings.
+The **Daycore** mod behaves exactly like [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) regarding speed changes and difficulty adjustments. However, it decreases the audio frequency by 25% without offering the pitch adjustment options available in customisation settings.
 
 ## Customisation
 

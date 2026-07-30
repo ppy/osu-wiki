@@ -41,11 +41,9 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Autoplay** mod completes any [beatmap](/wiki/Beatmap) entirely on its own, allowing the user to simply watch a perfect score on the map.
+The **Autoplay** mod completes any [beatmap](/wiki/Beatmap) entirely on its own, allowing the user to simply watch a perfect score on the map. In osu!, like [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), Autoplay completes [spinners](/wiki/Gameplay/Hit_object/Spinner) counterclockwise at a speed of 477 spins per minute (SPM).
 
-In osu!, like [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)) and unlike [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)), Autoplay completes [spinners](/wiki/Gameplay/Hit_object/Spinner) counterclockwise at a speed of 477 spins per minute (SPM).
-
-Scores set with this mod will not be submitted to any leaderboard. During the map, *Autoplay/mekkadosu!/osu!salad/osu!topus* (in osu!/osu!taiko/osu!catch/osu!mania respectively) is displayed as the username in the leaderboard.
+Scores set with this mod will not be submitted to any leaderboard. During the map, a custom mode-dependent username is displayed: ![][osu!] Autoplay, ![][osu!taiko] mekkadosu!, ![][osu!catch] osu!salad, or ![][osu!mania] osu!topus.
 
 **This mod cannot be customised.**
 

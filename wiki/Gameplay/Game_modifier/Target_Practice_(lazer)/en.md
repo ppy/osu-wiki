@@ -38,7 +38,7 @@ tags:
 
 The **Target Practice** mod removes all [hit objects](/wiki/Gameplay/Hit_object) from a [beatmap](/wiki/Beatmap) and replaces them with "targets", which are [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) placed once every [full beat](/wiki/Music_theory/Beat). It also removes the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle), cuts the [approach rate](/wiki/Beatmap/Approach_rate) in half and causes the circles to [grow](/wiki/Gameplay/Game_modifier/Grow) and increase in brightness as they appear.
 
-The goal is to hit *all* these targets. Thus, missing one of them already causes the player to fail, unless [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)) is enabled. This is why Target Practice is incompatible with [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)).
+The goal is to hit all the targets, and missing one of them already causes the player to fail, unless [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)) is enabled. As a result, Target Practice is incompatible with [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)).
 
 ## Customisation
 

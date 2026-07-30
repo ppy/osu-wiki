@@ -52,8 +52,7 @@ When using [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax) in osu!(stable), the
 
 ## Trivia
 
-- In osu!, Relax clicks on hit objects approximately 10 ms early.
-  - Thus, as long as the player aims correctly, Relax used in combination with [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) will cause the song to be sped up as the map progresses.
+- In osu!, Relax clicks on hit objects approximately 10 ms early. As a result, Relax used in combination with [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) will cause constant speed up as the map progresses, as long as the player aims correctly.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

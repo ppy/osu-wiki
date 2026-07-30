@@ -39,7 +39,7 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Mirror** mod simply flips the [playfield](/wiki/Client/Playfield) on one or two axes. In osu!catch and osu!mania, it is always flipped horizontally, while in osu! the player can choose which axes to mirror on (see [Customisation](#customisation)).
+The **Mirror** mod simply flips the [playfield](/wiki/Client/Playfield) on one or two axes. In osu!catch and osu!mania, it is always flipped horizontally, while in osu! the player can choose the axes (see [Customisation](#customisation)).
 
 ## Customisation
 
