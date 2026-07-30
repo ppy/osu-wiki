@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 37adfc5ef491f9709016f0c4263911d301b0304f
+---
+
 # Beatmaps veröffentlichen
 
 [Beatmaps](/wiki/Beatmap) können über den [Editor im Spiel](/wiki/Client/Beatmap_editor) auf die osu!-Webseite hochgeladen werden. Durch die Veröffentlichung von Beatmaps können andere Nutzer einen Blick auf diese werfen und die Beatmaps möglicherweise in die Kategorien [Ranked](/wiki/Beatmap/Category#ranked) oder [Loved](/wiki/Beatmap/Category#loved) eintreten.
