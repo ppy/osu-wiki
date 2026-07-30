@@ -146,9 +146,9 @@ The bracket for the offline stage can be found [here](https://liquipedia.net/osu
 
 Thursday, 10th of July 2026:
 
-| Player 1 |  |  | Player 2 | Match time |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Bubbleman ::{ flag=GB }:: | 0 | 0 | ::{ flag=IT }:: kusuriya | 12:00 CEST |
+| **Bubbleman** ::{ flag=GB }:: | **5** | 2 | ::{ flag=IT }:: kusuriya | [#1](https://osu.ppy.sh/multiplayer/rooms/3797021/events) |
 | ASecretBox ::{ flag=AU }:: | 0 | 0 | ::{ flag=SM }:: argweid | 13:00 CEST |
 | NINERIK ::{ flag=NO }:: | 0 | 0 | ::{ flag=UA }:: GET LOVED | 14:00 CEST |
 | papercandle ::{ flag=NO }:: | 0 | 0 | ::{ flag=GB }:: fudge | 15:00 CEST |
