@@ -1,5 +1,4 @@
 ---
-needs_cleanup: true # the paragraphs aren't written in the neutral tone you'd expect from the wiki. not sure about the format for "list of mods". info under "customise" is wrong. merging this anyway because it's in a massive / inconvenient PR and a stub anyway, but let's amend this soon -clayton
 stub: true
 tags:
   - mod
@@ -107,13 +106,9 @@ Next to each of the mods listed below the icons of their compatible [game modes]
 - [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) ![][osu!]
 - [Score V2 (SV2)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-#### Personal Presets
+### Personal Presets
 
 The **Personal Presets** are located in a separate category (left of **Difficulty Reduction**) and allow players to save any combination of mods directly into it. Each personal preset has to be assigned a name and optionally a description. Every game mode has a separate list of personal presets.
-
-#### Customise
-
-Some mods allow for **customisation** by the user (e.g. Difficulty Adjust). These settings can affect the score multiplier and might cause the mod to become unranked. They are explained in the articles of those mods.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
