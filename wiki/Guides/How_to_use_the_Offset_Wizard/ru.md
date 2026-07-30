@@ -4,7 +4,9 @@ no_native_review: true
 
 # Как использовать мастер настройки оффсета
 
-*См. также: [Мастер настройки оффсета](/wiki/Client/Options/Offset_Wizard) и [Универсальный оффсет](/wiki/Offset/Universal_offset)*
+::: alert-note
+**См. также:** [Мастер настройки оффсета](/wiki/Client/Options/Offset_Wizard) и [Универсальный оффсет](/wiki/Offset/Universal_offset)
+:::
 
 Если [хитсаунды](/wiki/Beatmapping/Hitsound) не попадают в такт с музыкой на каждой карте, которую вы проходите, скорее всего, вам необходимо изменить свой [универсальный оффсет](/wiki/Offset/Universal_offset). И вот тут на помощь приходит **мастер настройки оффсета**.
 

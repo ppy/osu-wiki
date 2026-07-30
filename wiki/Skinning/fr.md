@@ -9,7 +9,9 @@ Le skinning est l'une des principales caractéristiques d'osu!. Il permet aux jo
 
 ## Sets de skinning
 
-*Page principale : [Liste de skins](/wiki/Ranking_criteria/Skin_set_list)*
+::: alert-note
+**Page principale** : [Liste de skins](/wiki/Ranking_criteria/Skin_set_list)
+:::
 
 **Pour les beatmaps uniquement**, si votre skin contient un seul élément des ensembles énumérés dans les critères de classement, il doit contenir tous les autres éléments de cet ensemble de skinning. Ceci ne s'applique qu'aux skins des beatmaps, mais d'autres skinneurs peuvent vouloir prendre en compte ces listes également.
 

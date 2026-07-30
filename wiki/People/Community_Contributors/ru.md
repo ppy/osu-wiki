@@ -20,6 +20,8 @@
 
 #### Август
 
+*См. также новость: [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)*
+
 *См. также тему на форуме: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
 | Участник | Вклад |
@@ -251,7 +253,7 @@
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Выдающийся вклад в видеовыпуски [Mappers' Guild](/wiki/Community/Mappers_Guild) и программы Featured Artist |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Выдающийся вклад в видеовыпуски [Mappers' Guild](/wiki/Community/Mappers_Guild) и программы Featured Artist |
 
-### 2024
+### 2025
 
 #### Март
 

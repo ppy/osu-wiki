@@ -13,7 +13,10 @@ Le **test mode** est une fonctionnalité de l'[éditeur de beatmap](/wiki/Client
 
 ![Bouton du test mode](img/test-mode-button.png "Le bouton du test mode dans l'éditeur de beatmap")
 
-*Note : La lecture d'une beatmap en test mode est connue pour provoquer un certain décalage ou des baisses notables du framerate pour certains utilisateurs.*
+::: alert-notice
+**Note**
+La lecture d'une beatmap en test mode est connue pour provoquer un certain décalage ou des baisses notables du framerate pour certains utilisateurs.
+:::
 
 Jouer une beatmap en test mode diffère du jeu normal, car il ne soumet aucun score, n'affiche aucun classement, ne permet pas aux utilisateurs d'échouer les beatmaps, et affiche toujours les informations suivantes sur le côté gauche de l'écran :
 

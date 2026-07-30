@@ -4,7 +4,9 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/2026, also, could 
 
 # osu!mania scoring system
 
-*See also: [osu!mania judgement system](/wiki/Gameplay/Judgement/osu!mania)*
+::: alert-note
+**See also:** [osu!mania judgement system](/wiki/Gameplay/Judgement/osu!mania)
+:::
 
 In osu!mania, each beatmap has the same maximum total score of 1 million (1,000,000).
 

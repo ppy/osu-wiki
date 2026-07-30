@@ -28,7 +28,9 @@ tags:
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 The **No Scope** mod progressively hides the player's cursor or catcher as their [combo](/wiki/Gameplay/Combo_(score_multiplier)) increases, eventually making it completely invisible. [Breaking combo](/wiki/Gameplay/Judgement/Combobreak) resets it to normal visibility.
 

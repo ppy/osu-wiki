@@ -23,14 +23,19 @@ tags:
 | Tipo | Aumento de dificultad |
 | Tecla de acceso directo predeterminada | `S` |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | `1,00x` |
 | Estado | Clasificado |
 | Mods incompatibles | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
 
 :::
 
-*Para la versión de osu!stable de este artículo, véase: [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*\
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la versión de osu!stable de este artículo, véase [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Sudden Death** provoca que el jugador muera al fallar cualquier objeto de un [beatmap](/wiki/Beatmap). Fallar una nota, una [marca de un slider](/wiki/Gameplay/Hit_object/Slider/Slider_tick) y un [spinner](/wiki/Gameplay/Hit_object/Spinner) hará que el jugador muera; sin embargo, fallar una [cola de un slider](/wiki/Gameplay/Hit_object/Slider/Slidertail) o no mantenerse dentro la trayectoria de un slider no provocará esto, siempre y cuando no se haya roto el combo. 
 

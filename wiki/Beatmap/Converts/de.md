@@ -17,7 +17,9 @@ Aktuell unterstützt osu! die Beatmap-Konvertierung vom [osu!-Spielmodus](/wiki/
 
 ### Konvertierung von osu! zu osu!taiko
 
-*Siehe auch: [osu!taiko mapping/osu! conversion notes](/wiki/Game_mode/osu!taiko#osu!-conversion-notes)*
+::: alert-note
+**Siehe auch:** [osu!taiko mapping/osu! conversion notes](/wiki/Game_mode/osu!taiko#osu!-conversion-notes)
+:::
 
 Konvertierte osu!taiko-Beatmaps werden anhand der Platzierung von [Hitsounds](/wiki/Beatmapping/Hitsound), dem Rhythmus und der Änderungen der Slidergeschwindigkeit in einer Beatmap generiert. Die Konvertierung folgt abhängig von den [Hit-Objekten](/wiki/Gameplay/Hit_object) und ihren entsprechenden Hitsounds dem folgenden Prinzip:
 
@@ -30,7 +32,9 @@ Konvertierte osu!taiko-Beatmaps werden anhand der Platzierung von [Hitsounds](/w
 
 ### Konvertierung von osu! zu osu!catch
 
-*Siehe auch: [osu!catch mapping/osu! conversion notes](/wiki/Game_mode/osu!catch#osu!-conversion-notes)*
+::: alert-note
+**Siehe auch:** [osu!catch mapping/osu! conversion notes](/wiki/Game_mode/osu!catch#osu!-conversion-notes)
+:::
 
 Konvertierte osu!catch-Beatmaps werden anhand des Rhythmus und der *horizontalen Platzierung* (z. B. die Ausrichtung an der X-Achse) der [Hit-Objekte](/wiki/Gameplay/Hit_object) in einer Beatmap wie folgt generiert:
 

@@ -20,6 +20,8 @@
 
 #### 八月
 
+*参见新闻报道： [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)*
+
 *参见论坛帖子： [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
 | 玩家 | 贡献 |
@@ -251,7 +253,7 @@
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | 在[谱师公会](/wiki/Community/Mappers_Guild)和精选艺术家展示视频中做出了卓越贡献 |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | 在[谱师公会](/wiki/Community/Mappers_Guild)和精选艺术家展示视频中做出了卓越贡献 |
 
-### 2024
+### 2025
 
 #### 三月
 

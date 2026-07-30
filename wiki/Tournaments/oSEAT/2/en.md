@@ -35,7 +35,10 @@ The **osu! South East Asia Tournament 2** (***oSEAT2***) was a South East Asian 
 | *4th place* | 1 month of osu!supporter |
 | *5th place* | 1 month of osu!supporter |
 
-*Note: 5th place was determined by a playoff.*
+::: alert-notice
+**Notice**
+5th place was determined by a playoff.
+:::
 
 ![](img/badge.png "oSEAT2 winner badge")
 
@@ -821,7 +824,10 @@ Tuesday, 18 December 2018:
 
 ### Round specific rules
 
-*Note: These rounds are assumed to be for at least 80 players. They will be scaled down if we get less players.*
+::: alert-notice
+**Notice**
+These rounds are assumed to be for at least 80 players. They will be scaled down if we get less players.
+:::
 
 #### Qualifiers
 
