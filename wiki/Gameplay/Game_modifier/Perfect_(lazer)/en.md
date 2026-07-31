@@ -36,7 +36,7 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Perfect** mod immediately triggers a failure if the player can no longer achieve an SS [grade](/wiki/Gameplay/Grade) on a [beatmap](/wiki/Beatmap), which will happen after missing or getting anything worse than GREAT on almost all types of hit objects. The objects that can be missed without fail are [drumrolls](/wiki/Gameplay/Hit_object/Drumroll), [swells](/wiki/Gameplay/Hit_object/Swell) and [bananas](/wiki/Gameplay/Hit_object/Banana).
+The **Perfect** mod immediately triggers a failure if the player can no longer achieve an SS [grade](/wiki/Gameplay/Grade) on a [beatmap](/wiki/Beatmap), which will happen after missing or getting anything worse than GREAT on almost all types of [hit objects](/wiki/Gameplay/Hit_object). The objects that can be missed without fail are [drumrolls](/wiki/Gameplay/Hit_object/Drumroll), [swells](/wiki/Gameplay/Hit_object/Swell) and [bananas](/wiki/Gameplay/Hit_object/Banana).
 
 ## Customisation
 

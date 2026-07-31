@@ -37,7 +37,7 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Autopilot** mod automatically moves the cursor through the [beatmap](/wiki/Beatmap) perfectly, allowing the user to play by only clicking on the [hit objects](/wiki/Gameplay/Hit_object) on time. The mods also moves the cursor in a spinning motion whenever a [spinner](/wiki/Gameplay/Hit_object/Spinner) appears, but the player still has to press a key or mouse button for the spinner to be completed. Like [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)) and unlike [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)), Autopilot spins counterclockwise at a speed of 477 spins per minute (SPM).
+The **Autopilot** mod automatically moves the cursor through the [beatmap](/wiki/Beatmap) perfectly, allowing the user to play by only clicking on the [hit objects](/wiki/Gameplay/Hit_object) on time. The mods also moves the cursor in a spinning motion whenever a [spinner](/wiki/Gameplay/Hit_object/Spinner) appears, but the player still has to press a key or mouse button for the spinner to be completed. Like [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), Autopilot spins counterclockwise at a speed of 477 spins per minute (SPM).
 
 In osu!(lazer), completing a beatmap with Autopilot triggers a score submission without awarding [performance points](/wiki/Performance_points). It is also possible, unlike in osu!(stable), to fail the beatmap during the play.
 

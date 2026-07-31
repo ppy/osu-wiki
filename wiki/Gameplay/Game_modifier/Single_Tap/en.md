@@ -36,7 +36,7 @@ tags:
 
 In osu!, the **Single Tap** mod forces the player to only use one input. After starting a [beatmap](/wiki/Beatmap), the key used to click on the first [hit object](/wiki/Gameplay/Hit_object) has to be used until the next [break](/wiki/Beatmap/Break). Using the other input automatically results in a miss. After each break, the player can choose again which key to use. [Spinners](/wiki/Gameplay/Hit_object/Spinner) can always be played using any input.
 
-In osu!taiko, the **Single Tap** mod forces the player to use only one input for [dons](/wiki/Gameplay/Hit_object/Hit) and one for [kats](/wiki/Gameplay/Hit_object/Hit). Similarly to osu!, using the wrong key will result in a miss and after each break, keys can be chosen anew. Finishers can still be played normally.
+In osu!taiko, the **Single Tap** mod forces the player to use only one input for [dons](/wiki/Gameplay/Hit_object/Hit) and one for [kats](/wiki/Gameplay/Hit_object/Hit). Similarly to osu!, using the wrong key will result in a miss and after each break, keys can be chosen anew. [Finishers](/wiki/Gameplay/Hit_object/Hit#finishers) can still be played normally.
 
 **This mod cannot be customised.**
 

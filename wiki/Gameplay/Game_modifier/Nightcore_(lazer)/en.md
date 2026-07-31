@@ -38,7 +38,7 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Nightcore** mod behaves exactly like [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) regarding speed changes and difficulty adjustments. However, it specifically increases the audio frequency by 50% without offering the pitch adjustment options available in customisation settings.
+The **Nightcore** mod behaves exactly like [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) regarding speed changes and difficulty adjustments. However, it increases the audio frequency by 50% without offering the pitch adjustment options available in customisation settings.
 
 ## Customisation
 
