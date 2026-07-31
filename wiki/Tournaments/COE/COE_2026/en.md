@@ -148,8 +148,8 @@ Saturday, 1st of August 2026:
 
 | Player 1 |  |  | Player 2 | Match time |
 | --: | :-: | :-: | :-- | :-- |
-| mrekk ::{ flag=DE }:: | 0 | 0 | ::{ flag=GB }:: fudge | ??:?? CEST |
-| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=AU }:: ASecretBox | ??:?? CEST |
+| mrekk ::{ flag=DE }:: | 0 | 0 | ::{ flag=GB }:: fudge | 14:00 CEST |
+| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=AU }:: ASecretBox | 15:00 CEST |
 | *Loser of mrekk/fudge* | 0 | 0 | *Loser of MALISZEWSKI/ASecretBox* | 19:30 CEST |
 | *Winner of mrekk/fudge* | 0 | 0 | *Winner of MALISZEWSKI/ASecretBox* | 21:00 CEST |
 
