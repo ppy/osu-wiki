@@ -11,7 +11,7 @@ The **COE 2026 1v1 Tournament** is a 1v1 single-elimination osu! LAN tournament 
 | Registration | 2026-06-01/2026-06-13 |
 | Online qualifiers | 2026-06-15/2026-04-29 |
 | Online play-in stage | 2026-07-11/2026-07-19 |
-| Offline finals mappool showcase | 2026-07-27 (15:30 UTC+2) |
+| Offline finals mappool showcase | 2026-07-27 (20:30 UTC+2) |
 | Offline finals | 2026-07-30/2026-08-01 |
 
 ## Prizes
@@ -34,12 +34,12 @@ The COE 2026 1v1 Tournament prizes are yet to be announced.
 | Admin | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
 | Mappool selector | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656) |
 | Playtester | ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=HK }:: [misha awa](https://osu.ppy.sh/users/14503423), ::{ flag=DE }:: [okinamo](https://osu.ppy.sh/users/3765989), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) |
-| Mapper | ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589), ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AT }:: [topXD](https://osu.ppy.sh/users/11904298), ::{ flag=PL }:: [App](https://osu.ppy.sh/users/13650508), ::{ flag=US }:: [nooj](https://osu.ppy.sh/users/8271086), ::{ flag=BR }:: [Froslass](https://osu.ppy.sh/users/19048), ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812), ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929), ::{ flag=US }:: [meiikyuu](https://osu.ppy.sh/users/1043627), ::{ flag=FI }:: [oatmilk](https://osu.ppy.sh/users/16516525), ::{ flag=SE }:: [Meteo L-Drago](https://osu.ppy.sh/users/5087744) |
+| Mapper | ::{ flag=US }:: [mintIceCream_](https://osu.ppy.sh/users/13221589), ::{ flag=US }:: [Rentai](https://osu.ppy.sh/users/11033243), ::{ flag=AT }:: [topXD](https://osu.ppy.sh/users/11904298), ::{ flag=PL }:: [App](https://osu.ppy.sh/users/13650508), ::{ flag=US }:: [nooj](https://osu.ppy.sh/users/8271086), ::{ flag=BR }:: [Froslass](https://osu.ppy.sh/users/19048), ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812), ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929), ::{ flag=US }:: [meiikyuu](https://osu.ppy.sh/users/1043627), ::{ flag=FI }:: [oatmilk](https://osu.ppy.sh/users/16516525), ::{ flag=SE }:: [Meteo L-Drago](https://osu.ppy.sh/users/5087744), ::{ flag=DE }:: [0ppInOsu](https://osu.ppy.sh/users/12551840) |
 | Custom music producer | [Xenjes](https://osu.ppy.sh/beatmaps/artists/482), [Naikou](https://osu.ppy.sh/beatmaps/artists/471), [Kushper](https://soundcloud.com/kushper), [Kyutatsuki](https://soundcloud.com/kyutatsuki) |
-| GFX | ::{ flag=KR }:: [Anniee](https://osu.ppy.sh/users/12457399), ::{ flag=NL }:: [vifiiy](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=ID }:: [Raybean](https://osu.ppy.sh/users/16676388), ::{ flag=PH }:: vividclarities |
+| GFX | ::{ flag=NL }:: [vifiiy](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=ID }:: [Raybean](https://osu.ppy.sh/users/16676388), ::{ flag=PH }:: vividclarities |
 | Storyboarder | ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) |
-| LAN Commentator | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=GB }:: [MALTESER](https://osu.ppy.sh/users/5218178), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=FR }:: [Subaru_Arima](https://osu.ppy.sh/users/11273062), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063) |
-| LAN Commentator (special guest) | ::{ flag=BR }:: [-felicia](https://osu.ppy.sh/users/10157694), ::{ flag=PL }:: [_demo](https://osu.ppy.sh/users/3556891), ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902), ::{ flag=US }:: [n3rdiness](https://osu.ppy.sh/users/16537481), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598) |
+| LAN Commentator | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=GB }:: [MALTESER](https://osu.ppy.sh/users/5218178), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=FR }:: [Subaru_Arima](https://osu.ppy.sh/users/11273062), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063) |
+| LAN Commentator (special guest) | ::{ flag=BR }:: [-felicia](https://osu.ppy.sh/users/10157694), ::{ flag=PL }:: [_demo](https://osu.ppy.sh/users/3556891), ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902), ::{ flag=US }:: [n3rdiness](https://osu.ppy.sh/users/16537481), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598), ::{ flag=CA }:: [puppy](https://osu.ppy.sh/users/6304246) |
 | Online commentator | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [I-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=US }:: [Tycani](https://osu.ppy.sh/users/6693266) |
 | Production team | ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=NL }:: [dyl](https://osu.ppy.sh/users/9507985), ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=NL }:: [Timper](https://osu.ppy.sh/users/11955929), ::{ flag=PT }:: [Pinossaur](https://osu.ppy.sh/users/15767298), ::{ flag=FR }:: [Jupun__](https://osu.ppy.sh/users/16050547), ::{ flag=NL }:: [Wesstrike](https://osu.ppy.sh/users/11444888), ::{ flag=GB }:: Toast |
 | Developer | ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=NL }:: [dyl](https://osu.ppy.sh/users/9507985) |
@@ -144,18 +144,27 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 
 The bracket for the offline stage can be found [here](https://liquipedia.net/osu/COE/2026#Results).
 
-Thursday, 10th of July 2026:
+Friday, 31th of July 2026:
 
 | Player 1 |  |  | Player 2 | Match time |
 | --: | :-: | :-: | :-- | :-- |
-| Bubbleman ::{ flag=GB }:: | 0 | 0 | ::{ flag=IT }:: kusuriya | 12:00 CEST |
-| ASecretBox ::{ flag=AU }:: | 0 | 0 | ::{ flag=SM }:: argweid | 13:00 CEST |
-| NINERIK ::{ flag=NO }:: | 0 | 0 | ::{ flag=UA }:: GET LOVED | 14:00 CEST |
-| papercandle ::{ flag=NO }:: | 0 | 0 | ::{ flag=GB }:: fudge | 15:00 CEST |
-| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=DE }:: yary | 16:30 CEST |
-| mrekk ::{ flag=AU }:: | 0 | 0 | ::{ flag=NL }:: Aheo | 17:30 CEST |
-| criller ::{ flag=DE }:: | 0 | 0 | ::{ flag=FR }:: Hifkil | 18:30 CEST |
-| runnysunny ::{ flag=DE }:: | 0 | 0 | ::{ flag=PL }:: gnahus | 19:30 CEST |
+| criller ::{ flag=DE }:: | 0 | 0 | ::{ flag=GB }:: fudge | 17:00 CEST |
+| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=NO }:: NINERIK | 18:00 CEST |
+| ASecretBox ::{ flag=AU }:: | 0 | 0 | ::{ flag=DE }:: runnysunny | 19:00 CEST |
+| mrekk ::{ flag=AU }:: | 0 | 0 | ::{ flag=GB }:: Bubbleman | 20:00 CEST |
+
+Thursday, 30th of July 2026:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Bubbleman** ::{ flag=GB }:: | **5** | 2 | ::{ flag=IT }:: kusuriya | [#1](https://osu.ppy.sh/multiplayer/rooms/3797021/events) |
+| **ASecretBox** ::{ flag=AU }:: | **5** | 1 | ::{ flag=SM }:: argweid | [#1](https://osu.ppy.sh/multiplayer/rooms/3797559/events) |
+| **NINERIK** ::{ flag=NO }:: | **5** | 0 | ::{ flag=UA }:: GET LOVED | [#1](https://osu.ppy.sh/multiplayer/rooms/3798083/events) |
+| papercandle ::{ flag=NO }:: | 0 | **5** | ::{ flag=GB }:: **fudge** | [#1](https://osu.ppy.sh/multiplayer/rooms/3798561/events) |
+| **MALISZEWSKI** ::{ flag=PL }:: | **5** | **1** | ::{ flag=DE }:: yary | [#1](https://osu.ppy.sh/multiplayer/rooms/3799643/events) |
+| **mrekk** ::{ flag=AU }:: | **W** | FF | ::{ flag=NL }:: Aheo |  |
+| **criller** ::{ flag=DE }:: | **5** | 0 | ::{ flag=FR }:: Hifkil | [#1](https://osu.ppy.sh/multiplayer/rooms/3800230/events) |
+| **runnysunny** ::{ flag=DE }:: | **5** | 2 | ::{ flag=PL }:: gnahus | [#1](https://osu.ppy.sh/multiplayer/rooms/3801021/events) |
 
 ### Online play-in stage
 
