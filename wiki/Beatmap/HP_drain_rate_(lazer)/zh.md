@@ -9,8 +9,17 @@ tags:
 
 # 掉血速度 (HP Drain)
 
-*对于该文章的 osu!(stable) 版本，请见：[掉血速度 (HP drain rate)](/wiki/Beatmap/HP_drain_rate)*\
-*关于游戏机制含义的血量，参见：[血量](/wiki/Gameplay/Health)*
+::: alert-note
+**备注:** 对于该文章的 osu!(stable) 版本，请见：[掉血速度 (HP drain rate)](/wiki/Beatmap/HP_drain_rate)
+:::
+
+::: alert-note
+**备注:** 关于游戏机制含义的血量，参见：[血量](/wiki/Gameplay/Health)
+:::
+
+::: alert-note
+**备注:** 关于掉血速度相关的规定，参见：[谱面上架标准 (RC)](/wiki/Ranking_criteria)
+:::
 
 **掉血速度** (***HP***) 是一张[谱面](/wiki/Beatmap)的难度设置，控制随时间被动失去的[血量](/wiki/Gameplay/Health)。同时也影响玩家错失物件时的血量惩罚，以及准确命中[打击物件](/wiki/Gameplay/Hit_object)时血量恢复。
 
