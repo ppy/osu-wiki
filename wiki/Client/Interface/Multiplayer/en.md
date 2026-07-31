@@ -1,9 +1,3 @@
----
-needs_cleanup: true
----
-
-<!-- TODO: needs further rewrite, see https://github.com/ppy/osu-wiki/issues/7165 -->
-
 # Multiplayer
 
 ::: alert-note
