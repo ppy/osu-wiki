@@ -43,6 +43,6 @@ The **Cover** mod hides part of the [playfield](/wiki/Client/Playfield) similarl
   - **Along scroll**: Cover the playfield the way [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) does.
   - **Against scroll**: Cover the playfield the way [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) does.
 
-Changing any of these settings will **not** cause your scores to be unranked.
+Any combination of the above settings produces rankable scores.
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

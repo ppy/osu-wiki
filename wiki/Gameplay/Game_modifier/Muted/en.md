@@ -41,7 +41,7 @@ The **Muted** mod reduces music and [hitsound](/wiki/Beatmapping/Hitsound) volum
 - **Final volume at combo** (0–500, default: 100): The combo at which the final volume will be reached. If set to 0 and **Start muted** is disabled, the volume will always be muted.
 - **Mute hit sounds** (default: enabled): Hitsound volume will be affected in addition to music volume.
 
-Changing any of these settings will **not** cause your scores to be unranked.
+Any combination of the above settings produces rankable scores.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

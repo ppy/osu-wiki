@@ -51,7 +51,7 @@ In osu!mania, Random moves all notes and [hold notes](/wiki/Beatmap/Pattern/osu!
 
 ![Random customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/RD.png)
 
-- **Angle sharpness** (1.0–10.0, default: 7.0): How sharp angles should be. *This option is only available in osu!.*
+- **Angle sharpness** (1.0–10.0, default: 7.0): How sharp angles should be. *This option is only available in the osu! game mode.*
 - **Seed** (0–2147483647 or blank, default: blank): Which seed to use. When left blank, a random seed will be used.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

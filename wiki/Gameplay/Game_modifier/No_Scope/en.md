@@ -43,7 +43,7 @@ Visibility is also temporarily restored during [breaks](/wiki/Beatmap/Break).
 
 - **Hidden at combo** (0–50, default: 10): The combo at which the cursor or catcher will be fully hidden. If set to 0, it will only be visible during breaks.
 
-Changing this setting will **not** cause your scores to be unranked.
+Any value of the above setting produces rankable scores.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"

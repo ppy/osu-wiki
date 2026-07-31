@@ -47,7 +47,7 @@ The **Half Time** mod decreases the BPM of any beatmap by 25%, increasing the le
 - **Speed decrease** (0.50x–0.99x, default: 0.75x): The speed at which the map is played.
 - **Adjust pitch** (default: disabled): Change the audio frequency depending on the chosen speed. Enabling pitch adjustment with the default speed will have the same audio effect as [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore).
 
-Changing the **Speed decrease** setting will cause your scores to be **unranked**. Enabling **Adjust pitch** will **not** cause your scores to be unranked.
+Changing the **Speed decrease** setting causes your scores to be **unranked**, while enabling **Adjust pitch** produces rankable scores.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

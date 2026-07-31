@@ -45,7 +45,7 @@ The **Accuracy Challenge** mod allows the player to set a minimum [accuracy](/wi
   - **Standard**: Fail immediately if the accuracy drops below the selected threshold.
 - **Restart on fail** (default: disabled): Automatically restart the map after a failure.
 
-Changing any of these settings will **not** cause your scores to be unranked.
+Any combination of the above settings produces rankable scores.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

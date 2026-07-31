@@ -58,11 +58,11 @@ In all [game modes](/wiki/Game_mode) except osu!taiko, the mod grants the player
 
 ![Easy customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/EZ.png)
 
+This mod can be customised in all game modes except osu!taiko.
+
 - **Extra Lives** (0–10, default: 2): The number of extra lives when starting a beatmap.
 
 Changing the number of extra lives will cause your scores to be **unranked**.
-
-*Note that this setting is only available in osu!, osu!catch and osu!mania. In osu!taiko, this mod cannot be customised.*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
