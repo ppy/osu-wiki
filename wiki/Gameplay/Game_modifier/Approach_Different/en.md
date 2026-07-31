@@ -41,16 +41,16 @@ This mod uses [easing functions](https://easings.net/) to change the style of th
 
 - `Initial size` (1.5–10, default: 4.0): The initial size of the approach circles.
 - `Style` (default: Gravity): The animation style of the approach circles.
-  - **Linear**: Regular approach circles.
-  - **Gravity**: Approach circle moves outwards a bit, then quickly "drops" onto the hit circle (uses [easeInBack](https://easings.net/#easeInBack)).
-  - **InOut1**: Approach circle moves towards the hit circle quickly, then "pauses" there for a moment before the object needs to be hit (uses [easeInOutCubic](https://easings.net/#easeInOutCubic)).
-  - **InOut2**: Amplified version of **InOut1** (uses [easeInOutQuint](https://easings.net/#easeInOutQuint)).
-  - **Accelerate1**: Approach circle moves slowly at first and accelerates as it approaches the hit circle (uses [easeInQuad](https://easings.net/#easeInQuad)).
-  - **Accelerate2**: Amplified version of **Accelerate1** (uses [easeInCubic](https://easings.net/#easeInCubic)).
-  - **Accelerate3**: Amplified version of **Accelerate2** (uses [easeInQuint](https://easings.net/#easeInQuint)).
-  - **Decelerate1**: Approach circle moves quickly at first and decelerates as it approaches the hit circle (uses [easeOutQuad](https://easings.net/#easeOutQuad)).
-  - **Decelerate2**: Amplified version of **Decelerate1** (uses [easeOutCubic](https://easings.net/#easeOutCubic)).
-  - **Decelerate3**: Amplified version of **Decelerate2** (uses [easeOutQuint](https://easings.net/#easeOutQuint)).
+  - `Linear`: Regular approach circles.
+  - `Gravity`: Approach circle moves outwards a bit, then quickly "drops" onto the hit circle (uses [easeInBack](https://easings.net/#easeInBack)).
+  - `InOut1`: Approach circle moves towards the hit circle quickly, then "pauses" there for a moment before the object needs to be hit (uses [easeInOutCubic](https://easings.net/#easeInOutCubic)).
+  - `InOut2`: Amplified version of `InOut1` (uses [easeInOutQuint](https://easings.net/#easeInOutQuint)).
+  - `Accelerate1`: Approach circle moves slowly at first and accelerates as it approaches the hit circle (uses [easeInQuad](https://easings.net/#easeInQuad)).
+  - `Accelerate2`: Amplified version of `Accelerate1` (uses [easeInCubic](https://easings.net/#easeInCubic)).
+  - `Accelerate3`: Amplified version of `Accelerate2` (uses [easeInQuint](https://easings.net/#easeInQuint)).
+  - `Decelerate1`: Approach circle moves quickly at first and decelerates as it approaches the hit circle (uses [easeOutQuad](https://easings.net/#easeOutQuad)).
+  - `Decelerate2`: Amplified version of `Decelerate1` (uses [easeOutCubic](https://easings.net/#easeOutCubic)).
+  - `Decelerate3`: Amplified version of `Decelerate2` (uses [easeOutQuint](https://easings.net/#easeOutQuint)).
 
 ## References
 

@@ -40,8 +40,8 @@ The **Cover** mod hides part of the [playfield](/wiki/Client/Playfield) similarl
 
 - `Coverage` (0.2–0.8, default: 0.5): The proportion of playfield height where notes will be hidden.
 - `Direction` (default: Along scroll): The direction on which the cover is applied.
-  - **Along scroll**: Cover the playfield the way [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) does.
-  - **Against scroll**: Cover the playfield the way [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) does.
+  - `Along scroll`: Cover the playfield the way [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) does.
+  - `Against scroll`: Cover the playfield the way [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) does.
 
 Any combination of the above settings produces rankable scores.
 

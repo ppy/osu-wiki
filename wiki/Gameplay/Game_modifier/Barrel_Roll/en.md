@@ -39,7 +39,7 @@ The **Barrel Roll** mod causes the entire [playfield](/wiki/Client/Playfield) to
 
 - `Roll speed` (0.02–12.0 revolutions per minute, default: 0.5): Rotation speed of the playfield.
 - `Direction` (default: Clockwise): The direction in which the playfield rotates.
-  - **Clockwise**: Rotate the playfield clockwise.
-  - **Counterclockwise**: Rotate the playfield counterclockwise.
+  - `Clockwise`: Rotate the playfield clockwise.
+  - `Counterclockwise`: Rotate the playfield counterclockwise.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

@@ -26,7 +26,7 @@ tags:
 
 ## List of mods
 
-Next to each of the mods listed below the icons of their compatible [game modes](/wiki/Game_mode) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] are displayed.
+Next to each of the mods listed below the icons of their compatible ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] [game modes](/wiki/Game_mode) are displayed.
 
 ### Difficulty Reduction
 
