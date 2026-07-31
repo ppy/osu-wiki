@@ -44,7 +44,7 @@ Difficulty Adjust allows players to change the difficulty settings of a [beatmap
 - **HP Drain** (0.0–10.0, default: HP of selected beatmap): Change the [HP drain rate](/wiki/Beatmap/HP_drain_rate) to a specific value.
 - **Accuracy** (0.0–10.0, default: OD of selected beatmap): Change the [overall difficulty](/wiki/Beatmap/Overall_difficulty) to a specific value.
 - **Approach Rate** (0.0–10.0, default: AR of selected beatmap): Change the [approach rate](/wiki/Beatmap/Approach_rate) to a specific value.
-- **Extended Limits** (default: disabled): Allows the user to increase **Circle Size**, **HP Drain** and **Accuracy** up to 11 and to adjust **Approach Rate** between -10 and 11.
+- **Extended Limits** (default: disabled): Allows the user to increase **Circle Size**, **HP Drain**, **Accuracy** and **Approach Rate** up to 11. Additionally, the approach rate can be adjusted to negative values (down to -10).
 
 ### osu!taiko ![][osu!taiko]
 
@@ -63,7 +63,7 @@ Difficulty Adjust allows players to change the difficulty settings of a [beatmap
 - **HP Drain** (0.0–10.0, default: HP of selected beatmap): Change the [HP drain rate](/wiki/Beatmap/HP_drain_rate) to a specific value.
 - **Accuracy** (0.0–10.0, default: OD of selected beatmap): Change the [overall difficulty](/wiki/Beatmap/Overall_difficulty) to a specific value.
 - **Approach Rate** (0.0–10.0, default: AR of selected beatmap): Change the [approach rate](/wiki/Beatmap/Approach_rate) to a specific value.
-- **Spicy Patterns** (default: disabled): Increase the difficulty of some patterns as if [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) is enabled.
+- **Spicy Patterns** (default: disabled): Increase the difficulty of some patterns [as if Hard Rock (HR) is enabled](/wiki/Gameplay/Game_modifier/Hard_Rock#osu!catch).
 - **Extended Limits** (default: disabled): Allows the user to increase **Circle Size**, **HP Drain**, **Accuracy** and **Approach Rate** up to 11.
 
 ### osu!mania ![][osu!mania]

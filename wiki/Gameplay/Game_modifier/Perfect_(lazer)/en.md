@@ -49,7 +49,7 @@ Any combination of the above settings produces rankable scores.
 
 ## Trivia
 
-- When using Perfect in combination with [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), the extra lives are taken into account, allowing the player to get a few non-perfect hits before failing.
+- When using Perfect in combination with [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), the extra lives are taken into account, allowing the player to get a few non-perfect hits before failing and then possibly submit the score.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
