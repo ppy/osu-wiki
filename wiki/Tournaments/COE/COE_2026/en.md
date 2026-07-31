@@ -150,8 +150,8 @@ Saturday, 1st of August 2026:
 | --: | :-: | :-: | :-- | :-- |
 | mrekk ::{ flag=DE }:: | 0 | 0 | ::{ flag=GB }:: fudge | ??:?? CEST |
 | MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=AU }:: ASecretBox | ??:?? CEST |
-| *Loser of mrekk/fudge* | 0 | 0 | *Loser of MALISZEWSKI/ASecretBox* | ??:?? CEST |
-| *Winner of mrekk/fudge* | 0 | 0 | *Winner of MALISZEWSKI/ASecretBox* | ??:?? CEST |
+| *Loser of mrekk/fudge* | 0 | 0 | *Loser of MALISZEWSKI/ASecretBox* | 19:30 CEST |
+| *Winner of mrekk/fudge* | 0 | 0 | *Winner of MALISZEWSKI/ASecretBox* | 21:00 CEST |
 
 Friday, 31th of July 2026:
 
