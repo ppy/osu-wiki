@@ -24,7 +24,7 @@ From the main menu, the main multiplayer lobby can be accessed with the followin
 
 ::: alert-notice
 **Notice**
-An active [osu!supporter](/wiki/osu!supporter) tag is required to enter the lobby while using the `Cutting Edge` build.
+An active [osu!supporter](/wiki/osu!supporter) tag is required to enter the lobby while using the `Cutting Edge (Experimental)` build.
 :::
 
 ![](img/multi-lobby.jpg "Example of a typical day in the main multiplayer lobby")
@@ -43,7 +43,7 @@ The listed match lobbies can be filtered using the options at the top left.
 | `Search` | Search for a specific beatmap being played or the host's name using the search bar. When searching, all filters will temporarily be ignored except `Show In-progress`. |
 | `Games with Friends` | Only show matches the player's friends are playing in. This filter option will override all other filters when enabled. |
 | `Show Locked` | Show matches that require a password to enter. |
-| `Show In-progress` | Show matches that are currently being played. These can still be entered if there are empty slots available. They are indicated with a grey match title and with `(In progress)` appended to it until the match ends. |
+| `Show In-Progress` | Show matches that are currently being played. These can still be entered if there are empty slots available. They are indicated with a grey match title and with `(In Progress)` appended to it until the match ends. |
 
 ### Matches
 
@@ -93,7 +93,7 @@ Pressing the `1. Start Game` button will create the match with the currently pla
 ![](img/multi-room.jpg "The match lobby viewed as a player")
 :::
 
-After going into or creating a match, the match setup will be displayed. The following sections will focus on the different parts of the screen starting from top to bottom and going left to right.
+After joining or creating a match, the match setup will be displayed. The following sections will focus on the different parts of the screen starting from top to bottom and going left to right.
 
 While there is no direct button for it, the [options menu](/wiki/Client/Options) can still be accessed by pressing `Ctrl` + `O` while in a match lobby.
 
@@ -161,13 +161,13 @@ When hovering over the beatmap, there is a popup that displays information about
 | `AR` | Approach rate |
 | `OD` | Overall difficulty |
 | `HP` | HP drain rate |
-| `Stars` | Star rating |
+| `Star Rating` | Star rating |
 
 If the player does not have the beatmap, one of these statuses will be shown:
 
 | Beatmap status | Description |
 | :-: | :-- |
-| `Ranked` / `Approved` / `Pending` / `Graveyard` | The [beatmap category](/wiki/Beatmap/Category). Clicking on the beatmap card will open the beatmap page on the website, where it can be [downloaded](/wiki/Beatmap#downloading-beatmaps). |
+| `Ranked` / `Approved` / `Pending` / `Graveyard` | The [beatmap category](/wiki/Beatmap/Category). Clicking on the beatmap card will open the beatmap page on the website, where it can be [downloaded](/wiki/Beatmap#downloading-beatmaps). If the player has an active [osu!supporter](/wiki/osu!supporter) tag, the beatmap will be downloaded through [osu!direct](/wiki/osu%21supporter#osu!direct) instead. |
 | `Not uploaded or not up-to-date` | The beatmap is not available for download. The host should find the link (in the [beatmap listing](https://osu.ppy.sh/beatmapsets)) for the player if the issue persists. |
 | `Cannot update the beatmap` | The host is playing a modified version of the beatmap. |
 
@@ -226,7 +226,7 @@ The blue button is used to control the player ready state and to start the match
 | Title | Description |
 | :-: | :-- |
 | `Ready!` | Marks the player as ready (green on the player list). The button will change to `Not Ready`. For the match host, it will change to either `Start Game!` or `Force Start Game!` if there are players in the lobby. |
-| `Not Ready` | Marks the player as not ready (white on the player list). The button will change to `Ready!` |
+| `Not Ready` | Marks the player as not ready (white on the player list). The button will change to `Ready!`. |
 | `Start Game!` | Starts the match. This button only appears for the match host when all players are ready. |
 | `Force Start Game! ({ready}/{total})` | Starts the match even if not all players are ready. This button only appears for the match host when some players are ready. The amount of ready players compared to the total amount of players is shown in parentheses. |
 
@@ -254,7 +254,7 @@ While the match is starting, moving the cursor to the bottom of the screen will 
 
 #### Health
 
-When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards. The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect) mods.
+When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards (unless they use [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail). The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death).
 
 In Team VS matches, being in the failed state at the end of the match will make the score not contribute to the team score. If all players of a team have failed, the match immediately ends and the opposite team wins by default.
 
@@ -335,7 +335,7 @@ The [grade](/wiki/Gameplay/Grade) for the play is placed behind the result like 
 
 Team VS pits two teams, Blue and Red, against each other.
 
-Blue is on the left and Red is on the right. A crown at the centre moves left and right to show which team is currently winning.
+Blue is on the left and Red is on the right. A crown at the centre moves left and right to show which team is currently in the lead.
 
 Changing teams can be done while in the lobby. There is no handicap for teams with fewer members, and it is entirely possible to start a match with only one team.
 
@@ -374,13 +374,13 @@ In this mode, the players' slot placement in the lobby determines the order they
 
 A green arrow will show the player who is currently playing, and their name will be shown at the lower right. Warning arrows indicate when it is about to be the player's turn and the hit objects will be coloured. The player can set a fixed combo colour in the [Tag Colour](#tag-colour) section during match setup.
 
-All players must spin the spinner, or the combo will break.
+All players must complete spinners, or the combo will break.
 
 If a player quits during the match, the game will play their part for them.
 
 All players share the same health bar. If it depletes completely, the match ends. In Tag-team VS, each team has their own health bars, and losing all health will cause that team to lose.
 
-Players using [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect) mods will cause the whole match to end if they fail due to it, even in Tag-team VS. Two extra lives granted by [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy) do not help either: the [health bar](/wiki/Client/Interface/Health_bar) is refilled, but the team is still judged as *failed*, and the match ends immediately.
+Players using [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) will cause the whole match to end if they fail due to it, even in Tag-team VS. The two extra lives granted by [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy) do not help either: the [health bar](/wiki/Client/Interface/Health_bar) is refilled, but the team is still judged as *failed*, and the match ends immediately.
 
 ##### Results
 
@@ -394,7 +394,7 @@ Players using [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) or 
 
 No ranked score or performance points are awarded for `Tag co-op` or `Tag-team VS` matches.
 
-For `Tag co-op`, the result shown is the total score, the [judgements](/wiki/Gameplay/Judgement) and accuracy of the team. Individual results are not shown, and can only be seen in the match history. The result screen only appears if the beatmap was cleared successfully, unlike other multiplayer modes.
+For `Tag co-op`, the results screen shows the total score, the [judgements](/wiki/Gameplay/Judgement) and the accuracy of the team. Individual results are not shown, and can only be seen in the match history. The results screen only appears if the beatmap was cleared successfully, unlike other multiplayer modes.
 
 The `Tag-team VS` results screen is identical to the [`Team VS`'s results screen](#team-vs-results-screen), except that individual results can be seen under different tabs for each team.
 
