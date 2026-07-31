@@ -47,7 +47,7 @@ In osu!, [HP drain](/wiki/Beatmap/HP_drain_rate), [overall difficulty](/wiki/Bea
 
 In osu!taiko, [HP drain](/wiki/Beatmap/HP_drain_rate) and [overall difficulty](/wiki/Beatmap/Overall_difficulty) are increased by 40% (up to a maximum of 10), while the scroll speed is increased by 87%.
 
-In osu!catch, [HP drain](/wiki/Beatmap/HP_drain_rate) and [approach rate](/wiki/Beatmap/Approach_rate) are increased by 40% (up to a maximum of 10), while the [circle size](/wiki/Beatmap/Circle_size) is increased by 30% (up to a maximum of 10). Additionally, the difficulty of some patterns is increased.
+In osu!catch, [HP drain](/wiki/Beatmap/HP_drain_rate) and [approach rate](/wiki/Beatmap/Approach_rate) are increased by 40% (up to a maximum of 10), while the [circle size](/wiki/Beatmap/Circle_size) is increased by 30% (up to a maximum of 10). Additionally, [the difficulty of some patterns is increased](/wiki/Gameplay/Game_modifier/Hard_Rock#osu!catch).
 
 In osu!mania, the [HP drain](/wiki/Beatmap/HP_drain_rate) is increased by 40% (up to a maximum of 10), while the timing windows become approximately 29% stricter.
 
