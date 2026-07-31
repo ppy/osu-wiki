@@ -6,7 +6,11 @@ needs_cleanup: true
 
 # Multiplayer
 
-**Multiplayer** (sometimes shortened to *Multi*) is a mode in which up to 16 players can compete against each other individually or in teams, or play together co-operatively, on maps decided by the host.
+::: alert-note
+**Note:** For multiplayer in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), see [Quick play](/wiki/Gameplay/Quick_play) and [Daily challenge](/wiki/Gameplay/Daily_challenge)
+:::
+
+**Multiplayer** (sometimes shortened to *Multi*) is an osu!(stable) mode in which up to 16 players can compete against each other individually or in teams, or play together co-operatively, on maps decided by the host.
 
 The [osu!academy](/wiki/Community/Video_series/osu!academy) covers this part of the client in video format in [Episode 6](https://www.youtube.com/watch?v=QPTLyG7O8ak), along with the [online users panel](/wiki/Client/Interface/Chat_console#extended-chat-console).
 
@@ -256,7 +260,7 @@ While the match is starting, moving the cursor to the bottom of the screen will 
 
 #### Health
 
-When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards. The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death).
+When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards. The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect) mods.
 
 In Team VS matches, being in the failed state at the end of the match will make the score not contribute to the team score. If all players of a team have failed, the match immediately ends and the opposite team wins by default.
 
@@ -382,7 +386,7 @@ If a player quits during the match, the game will play their part for them.
 
 All players share the same health bar. If it depletes completely, the match ends. In Tag-team VS, each team has their own health bars, and losing all health will cause that team to lose.
 
-Players using the [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) game modifier will cause the whole match to end if they fail due to it, even in Tag-team VS. If [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy) is used, players can still get two extra lives. However, in Tag-team VS, when a team's health drops to zero, even though the [health bar](/wiki/Client/Interface/Health_bar) will be refilled, the match will judge them as *failed* and end immediately.
+Players using [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect) mods will cause the whole match to end if they fail due to it, even in Tag-team VS. Two extra lives granted by [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy) do not help either: the [health bar](/wiki/Client/Interface/Health_bar) is refilled, but the team is still judged as *failed*, and the match ends immediately.
 
 ##### Results
 
