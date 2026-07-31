@@ -260,7 +260,7 @@ In Team VS matches, being in the failed state at the end of the match will make 
 
 #### Results
 
-Unlike solo play, multiplayer has no [extended results screen](/wiki/Client/Interface#extended-results-screen) below the results screen. Scores set during multiplayer matches (with the exception of `Tag co-op` and `Tag-team VS` matches) still appear on online leaderboards if they are good enough, but never on the local leaderboard.
+Unlike solo play, multiplayer has no [extended results screen](/wiki/Client/Interface#extended-results-screen) below the results screen. Scores set during multiplayer matches (with the exception of `Tag co-op` and `Tag-team VS` matches) still appear on online and local leaderboards.
 
 #### Saving the replay
 
