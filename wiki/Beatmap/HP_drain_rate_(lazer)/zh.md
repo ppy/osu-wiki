@@ -7,7 +7,8 @@ tags:
   - 被动掉血速度
 ---
 
-# 掉血速度 (HP Drain)
+# 掉血速度 (HP drain rate)
+<!-- TODO: In-game, this attribute is now called "HP Drain"; this may require updating. -->
 
 ::: alert-note
 **备注:** 对于该文章的 osu!(stable) 版本，请见：[掉血速度 (HP drain rate)](/wiki/Beatmap/HP_drain_rate)

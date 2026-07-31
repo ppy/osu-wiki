@@ -6,6 +6,7 @@ tags:
 ---
 
 # HP drain rate (lazer)
+<!-- TODO: In-game, this attribute is now called "HP Drain"; this may require updating. -->
 
 ::: alert-note
 **Note:** For the osu!(stable) version of this article, see: [HP drain rate](/wiki/Beatmap/HP_drain_rate)
