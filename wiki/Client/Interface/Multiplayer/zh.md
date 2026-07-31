@@ -1,3 +1,9 @@
+---
+needs_cleanup: true
+---
+
+<!-- TODO: 仍需进一步重写：https://github.com/ppy/osu-wiki/issues/7165 -->
+
 # 多人游戏
 
 **多人游戏** （**Multiplayer**，有时简写为 *Multi*）是最多允许 16 位玩家进行个人对抗、团队对抗或合作游玩的游戏模式，游玩的谱面由房主决定。
