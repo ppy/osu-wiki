@@ -44,13 +44,13 @@ The goal is to hit all the targets, and missing one of them already causes the p
 
 ![Target Practice customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/TP.png)
 
-- **Seed** (0–2147483647 or blank, default: blank): Which seed to use. When left blank, a random seed will be used.
-- **Metronome ticks** (default: enabled): Whether a metronome beat should play in the background.
+- `Seed` (0–2147483647 or blank, default: blank): Which seed to use. When left blank, a random seed will be used.
+- `Metronome ticks` (default: enabled): Whether a metronome beat should play in the background.
 
 ## Trivia
 
 - When using Target Practice in combination with [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), the extra lives are taken into account, allowing the player to miss a few times before failing.
-- Using [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) with **Only fade approach circles** enabled has no effect while playing with Target Practice.
-- When using Target Practice in combination [Muted (MU)](/wiki/Gameplay/Game_modifier/Muted), the **Metronome ticks** setting has no effect. Instead, the **Enabled metronome ticks** settings of the Muted mod determines whether the metronome is active.
+- Using [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) with `Only fade approach circles` enabled has no effect while playing with Target Practice.
+- When using Target Practice in combination [Muted (MU)](/wiki/Gameplay/Game_modifier/Muted), the `Metronome ticks` setting has no effect. Instead, the `Enabled metronome ticks` settings of the Muted mod determines whether the metronome is active.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

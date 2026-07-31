@@ -37,6 +37,6 @@ The **Deflate** mod causes all [hit circles](/wiki/Gameplay/Hit_object/Hit_circl
 
 ![Deflate customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DF.png)
 
-- **Starting Size** (1.0–25.0, default: 2.0): The initial size of all hit objects.
+- `Starting Size` (1.0–25.0, default: 2.0): The initial size of all hit objects.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

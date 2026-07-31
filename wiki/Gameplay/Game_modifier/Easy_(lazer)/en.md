@@ -60,7 +60,7 @@ In all [game modes](/wiki/Game_mode) except osu!taiko, the mod grants the player
 
 This mod can be customised in all game modes except osu!taiko.
 
-- **Extra Lives** (0–10, default: 2): The number of extra lives when starting a beatmap.
+- `Extra Lives` (0–10, default: 2): The number of extra lives when starting a beatmap.
 
 Changing the number of extra lives will cause your scores to be **unranked**.
 

@@ -44,8 +44,8 @@ The **Sudden Death** mod immediately triggers a failure upon [breaking combo](/w
 
 ![Sudden Death customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/SD.png)
 
-- **Also fail when missing a slider tail** (default: disabled): Missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) will result in a failure. *This option is only available in the osu! game mode.*
-- **Restart on fail** (default: disabled): Automatically restart the map after a failure.
+- `Also fail when missing a slider tail` (default: disabled): Missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) will result in a failure. *This option is only available in the osu! game mode.*
+- `Restart on fail` (default: disabled): Automatically restart the map after a failure.
 
 Any combination of the above settings produces rankable scores.
 

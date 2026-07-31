@@ -39,8 +39,8 @@ The **Approach Different** mod allows the user to change the way the [approach c
 
 This mod uses [easing functions](https://easings.net/) to change the style of the approach circles.[^approach-different][^apply-easing]
 
-- **Initial size** (1.5–10, default: 4.0): The initial size of the approach circles.
-- **Style** (default: Gravity): The animation style of the approach circles.
+- `Initial size` (1.5–10, default: 4.0): The initial size of the approach circles.
+- `Style` (default: Gravity): The animation style of the approach circles.
   - **Linear**: Regular approach circles.
   - **Gravity**: Approach circle moves outwards a bit, then quickly "drops" onto the hit circle (uses [easeInBack](https://easings.net/#easeInBack)).
   - **InOut1**: Approach circle moves towards the hit circle quickly, then "pauses" there for a moment before the object needs to be hit (uses [easeInOutCubic](https://easings.net/#easeInOutCubic)).

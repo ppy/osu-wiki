@@ -51,7 +51,7 @@ The **Hidden** mod removes the [approach circles](/wiki/Gameplay/Hit_object/Appr
 
 This mod can only be customised in the osu! game mode.
 
-- **Only fade approach circles** (default: disabled): Make the approach circles invisible without applying the fade effect on hit objects.
+- `Only fade approach circles` (default: disabled): Make the approach circles invisible without applying the fade effect on hit objects.
 
 Enabling this setting will cause your scores to be **unranked**.
 

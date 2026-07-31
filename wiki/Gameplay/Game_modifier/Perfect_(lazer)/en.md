@@ -42,8 +42,8 @@ The **Perfect** mod immediately triggers a failure if the player can no longer a
 
 ![Perfect customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/PF.png)
 
-- **Require perfect hits** (default: disabled): Getting anything other than a PERFECT hit (rainbow-coloured 300) will result in a failure. *This option is only available in the osu!mania game mode.*
-- **Restart on fail** (default: enabled): Automatically restart the map after a failure.
+- `Require perfect hits` (default: disabled): Getting anything other than a PERFECT hit (rainbow-coloured 300) will result in a failure. *This option is only available in the osu!mania game mode.*
+- `Restart on fail` (default: enabled): Automatically restart the map after a failure.
 
 Any combination of the above settings produces rankable scores.
 

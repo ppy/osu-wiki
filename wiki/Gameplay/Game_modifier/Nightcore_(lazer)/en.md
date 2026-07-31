@@ -44,9 +44,9 @@ The **Nightcore** mod behaves exactly like [Double Time (DT)](/wiki/Gameplay/Gam
 
 ![Nightcore customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/NC.png)
 
-- **Speed increase** (1.01x–2.00x, default: 1.50x): The speed at which the map is played.
+- `Speed increase` (1.01x–2.00x, default: 1.50x): The speed at which the map is played.
 
-Changing the **Speed increase** setting will cause your scores to be **unranked**.
+Changing the `Speed increase` setting will cause your scores to be **unranked**.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

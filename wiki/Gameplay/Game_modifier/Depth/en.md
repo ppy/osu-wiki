@@ -37,7 +37,7 @@ The **Depth** mod causes all [hit circles](/wiki/Gameplay/Hit_object/Hit_circle)
 
 ![Depth customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DP.png)
 
-- **Maximum depth** (50–200, default: 100): How far away objects appear.
-- **Show Approach Circles** (default: enabled): Whether [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) should be visible.
+- `Maximum depth` (50–200, default: 100): How far away objects appear.
+- `Show Approach Circles` (default: enabled): Whether [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) should be visible.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

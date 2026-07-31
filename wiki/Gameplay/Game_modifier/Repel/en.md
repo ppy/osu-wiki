@@ -37,6 +37,6 @@ When using **Repel**, all [hit objects](/wiki/Gameplay/Hit_object) automatically
 
 ![Repel customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/RP.png)
 
-- **Repulsion strength** (0.05–1.0, default: 0.5): How strong the cursor repels hit objects.
+- `Repulsion strength` (0.05–1.0, default: 0.5): How strong the cursor repels hit objects.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

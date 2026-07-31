@@ -37,6 +37,6 @@ The **Wiggle** mod causes all [hit objects](/wiki/Gameplay/Hit_object) in a [bea
 
 ![Wiggle customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/WG.png)
 
-- **Strength** (0.1–2.0, default: 1.0): How strong the hit objects should shake.
+- `Strength` (0.1–2.0, default: 1.0): How strong the hit objects should shake.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

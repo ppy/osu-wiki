@@ -36,7 +36,7 @@ The **Bloom** mod progressively increases the cursor size as the [combo](/wiki/G
 
 ![Bloom customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/BM.png)
 
-- **Max size at combo** (5–100, default: 50): The combo count at which the cursor reaches its maximum size.
-- **Final size multiplier** (5.0–15.0, default: 10.0): The multiplier applied to the cursor size when the combo reaches the maximum value.
+- `Max size at combo` (5–100, default: 50): The combo count at which the cursor reaches its maximum size.
+- `Final size multiplier` (5.0–15.0, default: 10.0): The multiplier applied to the cursor size when the combo reaches the maximum value.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

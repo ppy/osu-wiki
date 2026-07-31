@@ -37,6 +37,6 @@ The **Grow** mod causes all [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) 
 
 ![Grow customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/GR.png)
 
-- **Starting size** (0.00–0.99, default: 0.5): The initial size of all hit objects.
+- `Starting size` (0.00–0.99, default: 0.5): The initial size of all hit objects.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

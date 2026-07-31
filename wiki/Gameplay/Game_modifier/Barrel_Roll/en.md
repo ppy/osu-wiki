@@ -37,8 +37,8 @@ The **Barrel Roll** mod causes the entire [playfield](/wiki/Client/Playfield) to
 
 ![Barrel Roll customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/BR.png)
 
-- **Roll speed** (0.02–12.0 revolutions per minute, default: 0.5): Rotation speed of the playfield.
-- **Direction** (default: Clockwise): The direction in which the playfield rotates.
+- `Roll speed` (0.02–12.0 revolutions per minute, default: 0.5): Rotation speed of the playfield.
+- `Direction` (default: Clockwise): The direction in which the playfield rotates.
   - **Clockwise**: Rotate the playfield clockwise.
   - **Counterclockwise**: Rotate the playfield counterclockwise.
 
