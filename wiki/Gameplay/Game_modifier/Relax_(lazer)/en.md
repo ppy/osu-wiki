@@ -40,13 +40,19 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
+In osu!(lazer), completing a beatmap with Relax triggers a score submission without awarding [performance points](/wiki/Performance_points). It is also possible, unlike in osu!(stable), to fail the beatmap during the play.
+
+### ![][osu!] osu!
+
 In osu!, the **Relax** mod automatically clicks on all [hit objects](/wiki/Gameplay/Hit_object) in a [beatmap](/wiki/Beatmap), allowing the user to play by only moving the cursor.
+
+### ![][osu!taiko] osu!taiko
 
 In osu!taiko, the **Relax** mod allows the user to click on any hit object with any key, meaning it is no longer necessary to recognise which notes are [dons](/wiki/Gameplay/Hit_object/Hit) and which notes are [kats](/wiki/Gameplay/Hit_object/Hit).
 
-In osu!catch, the **Relax** mod allows the user to control the catcher with a mouse (or tablet) instead of the keyboard. This also means the player no longer has to [dash](/wiki/Gameplay/Dash).
+### ![][osu!catch] osu!catch
 
-When using [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax) in osu!(stable), the player cannot fail during a beatmap. This is not the case in osu!(lazer). Another difference to osu!(stable) is that scores achieved with this mod will be submitted to the global leaderboard (without awarding [performance points](/wiki/Performance_points)), show up under *Recent Plays (24h)* in player profiles and count towards play count.
+In osu!catch, the **Relax** mod allows the user to control the catcher with a mouse (or tablet) instead of the keyboard. This also means the player no longer has to [dash](/wiki/Gameplay/Dash).
 
 **This mod cannot be customised.**
 
