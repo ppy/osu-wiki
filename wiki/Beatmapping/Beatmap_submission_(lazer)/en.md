@@ -1,6 +1,8 @@
 # Beatmap submission (lazer)
 
-*For the osu!(stable) version of this article, see: [Beatmap submission](/wiki/Beatmapping/Beatmap_submission)*
+::: alert-note
+**Note:** For the osu!(stable) version of this article, see [Beatmap submission](/wiki/Beatmapping/Beatmap_submission)
+:::
 
 [Beatmaps](/wiki/Beatmap) can be submitted to the osu! website via the [in-game editor](/wiki/Client/Beatmap_editor)<!-- TODO: link lazer editor article when available -->. Submitting a beatmap allows it to receive attention from other users and potentially enter the [Ranked](/wiki/Beatmap/Category#ranked) or [Loved](/wiki/Beatmap/Category#loved) categories. The infrastructure facilitating this is commonly called the **Beatmap Submission System** (***BSS***).
 
