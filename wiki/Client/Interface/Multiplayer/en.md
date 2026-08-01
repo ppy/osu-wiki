@@ -167,7 +167,7 @@ If the player does not have the beatmap, one of these statuses will be shown:
 
 | Beatmap status | Description |
 | :-: | :-- |
-| `Ranked` / `Approved` / `Pending` / `Graveyard` | The [beatmap category](/wiki/Beatmap/Category). Clicking on the beatmap card will open the beatmap page on the website, where it can be [downloaded](/wiki/Beatmap#downloading-beatmaps). If the player has an active [osu!supporter](/wiki/osu!supporter) tag, the beatmap will be downloaded through [osu!direct](/wiki/osu%21supporter#osu!direct) instead. |
+| `Ranked` / `Approved` / `Pending` / `Graveyard` | The [beatmap category](/wiki/Beatmap/Category). Clicking on the beatmap card will open the beatmap page on the website, where it can be [downloaded](/wiki/Beatmap#downloading-beatmaps). If the player has an active [osu!supporter](/wiki/osu!supporter) tag, the beatmap will be downloaded through [osu!direct](/wiki/osu!supporter#osu!direct) instead. |
 | `Not uploaded or not up-to-date` | The beatmap is not available for download. The host should find the link (in the [beatmap listing](https://osu.ppy.sh/beatmapsets)) for the player if the issue persists. |
 | `Cannot update the beatmap` | The host is playing a modified version of the beatmap. |
 
