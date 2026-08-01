@@ -144,14 +144,23 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 
 The bracket for the offline stage can be found [here](https://liquipedia.net/osu/COE/2026#Results).
 
-Friday, 31th of July 2026:
+Saturday, 1st of August 2026:
 
 | Player 1 |  |  | Player 2 | Match time |
 | --: | :-: | :-: | :-- | :-- |
-| criller ::{ flag=DE }:: | 0 | 0 | ::{ flag=GB }:: fudge | 17:00 CEST |
-| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=NO }:: NINERIK | 18:00 CEST |
-| ASecretBox ::{ flag=AU }:: | 0 | 0 | ::{ flag=DE }:: runnysunny | 19:00 CEST |
-| mrekk ::{ flag=AU }:: | 0 | 0 | ::{ flag=GB }:: Bubbleman | 20:00 CEST |
+| mrekk ::{ flag=DE }:: | 0 | 0 | ::{ flag=GB }:: fudge | 14:00 CEST |
+| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=AU }:: ASecretBox | 15:00 CEST |
+| *Loser of mrekk/fudge* | 0 | 0 | *Loser of MALISZEWSKI/ASecretBox* | 19:30 CEST |
+| *Winner of mrekk/fudge* | 0 | 0 | *Winner of MALISZEWSKI/ASecretBox* | 21:00 CEST |
+
+Friday, 31th of July 2026:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| criller ::{ flag=DE }:: | 3 | **5** | ::{ flag=GB }:: **fudge** | [#1](https://osu.ppy.sh/multiplayer/rooms/3810652/events) |
+| **MALISZEWSKI** ::{ flag=PL }:: | **5** | 2 | ::{ flag=NO }:: NINERIK | [#1](https://osu.ppy.sh/multiplayer/rooms/3811596/events) |
+| **ASecretBox** ::{ flag=AU }:: | **5** | 2 | ::{ flag=DE }:: runnysunny | [#1](https://osu.ppy.sh/multiplayer/rooms/3812190/events) |
+| **mrekk** ::{ flag=AU }:: | **5** | 0 | ::{ flag=GB }:: Bubbleman | [#1](https://osu.ppy.sh/multiplayer/rooms/3812815/events) |
 
 Thursday, 30th of July 2026:
 
