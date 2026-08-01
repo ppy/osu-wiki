@@ -16,16 +16,16 @@ The **COE 2026 1v1 Tournament** is a 1v1 single-elimination osu! LAN tournament 
 
 ## Prizes
 
-The COE 2026 1v1 Tournament prizes are yet to be announced.
+The COE 2026 1v1 Tournament offered a total cash prize pool of 4900€, keyboards provided by [Wooting](https://wooting.io/) and several merch items from [COE](https://cavoe.events), including keychains, pins, mousepads and water bottles.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1200€, Wooting 60HE v2 keyboard, COE merchandise *TBA* |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 750€, Wooting 80HE keyboard, COE merchandise *TBA* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 500€, Wooting 60HE+ keyboard, COE merchandise *TBA* |
-| 4th place | 350€, COE merchandise *TBA* |
-| 5th–8th place | 250€, COE merchandise *TBA* |
-| 9th–16th place | 150€, COE merchandise *TBA* |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1500€, Wooting 60HE v2 keyboard, COE keychains, COE pins, COE mousepad, COE Water Bottle |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1000€, Wooting 80HE keyboard, COE keychains, COE pins, COE mousepad, COE Water Bottle |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 500€, Wooting 60HE+ keyboard, COE keychains, COE pins, COE mousepad, COE Water Bottle |
+| 4th place | 300€, COE keychains, COE pins, COE mousepad |
+| 5th–8th place | 200€, COE keychains, COE pins |
+| 9th–16th place | 100€, COE keychains |
 
 ## Organisation
 
@@ -146,12 +146,12 @@ The bracket for the offline stage can be found [here](https://liquipedia.net/osu
 
 Saturday, 1st of August 2026:
 
-| Player 1 |  |  | Player 2 | Match link/time |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **mrekk** ::{ flag=AU }:: | **6** | 0 | ::{ flag=GB }:: fudge | [#1](https://osu.ppy.sh/multiplayer/rooms/3820424/events) |
 | **MALISZEWSKI** ::{ flag=PL }:: | **6** | 2 | ::{ flag=AU }:: ASecretBox | [#1](https://osu.ppy.sh/multiplayer/rooms/3820909/events) |
-| fudge ::{ flag=GB }:: | 0 | 0 | ASecretBox | 19:30 CEST |
-| mrekk ::{ flag=AU }:: | 0 | 0 | MALISZEWSKI | 21:00 CEST |
+| fudge ::{ flag=GB }:: | 0 | 0 | ::{ flag=AU }:: ASecretBox | [#1](https://osu.ppy.sh/multiplayer/rooms/3823652/events) |
+| mrekk ::{ flag=AU }:: | 0 | 0 | ::{ flag=PL }:: MALISZEWSKI | [#1]() |
 
 Friday, 31st of July 2026:
 
