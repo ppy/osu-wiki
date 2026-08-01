@@ -153,7 +153,7 @@ Saturday, 1st of August 2026:
 | fudge ::{ flag=GB }:: | 0 | 0 | *Loser of MALISZEWSKI/ASecretBox* | 19:30 CEST |
 | mrekk ::{ flag=AU }:: | 0 | 0 | *Winner of MALISZEWSKI/ASecretBox* | 21:00 CEST |
 
-Friday, 31th of July 2026:
+Friday, 31st of July 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
