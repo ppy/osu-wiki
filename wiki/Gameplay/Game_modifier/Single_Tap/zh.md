@@ -3,6 +3,8 @@ stub: true
 tags:
   - singletap
   - SG
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Single Tap（模组）

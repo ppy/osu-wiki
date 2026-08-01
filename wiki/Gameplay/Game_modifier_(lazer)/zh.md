@@ -1,5 +1,5 @@
 ---
-needs_cleanup: true # the paragraphs aren't written in the neutral tone you'd expect from the wiki. not sure about the format for "list of mods". info under "customise" is wrong. merging this anyway because it's in a massive / inconvenient PR and a stub anyway, but let's amend this soon -clayton
+needs_cleanup: true
 stub: true
 tags:
   - mod
@@ -15,6 +15,8 @@ tags:
   - 模组列表
   - 个人预设
   - 自定义
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # 游戏模组 (lazer)

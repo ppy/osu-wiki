@@ -322,7 +322,9 @@ Hochkommata für die Auslassung von Buchstaben (z. B. geht's anstatt geht es ode
 
 ### Zahlen
 
-*Für die Zahlenformatierung, siehe [Wikipedias Schreibweise von Zahlen](https://de.wikipedia.org/wiki/Wikipedia:Schreibweise_von_Zahlen)*
+::: alert-note
+**Anmerkung:** Für die Zahlenformatierung, siehe [Wikipedias Schreibweise von Zahlen](https://de.wikipedia.org/wiki/Wikipedia:Schreibweise_von_Zahlen)
+:::
 
 [Artikel mit informellen Registern](#sprachregister) dürfen diese Sektion ignorieren. Allerdings muss die Benutzung konsistent im gesamten Artikel erfolgen.
 
