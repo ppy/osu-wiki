@@ -8,7 +8,7 @@
 
 ![Das Fenster für die Beatmap-Einreichung](img/bss-DE.png "Beatmaps veröffentlichen")
 
-Beim Anwählen von `Beatmap hochladen` aus dem Dropdown `Datei` im Editor (Kürzel: `Strg` + `Shift` + `U`) öffnet sich das Fenster für die Beatmap-Einreichung. Hier werden Optionen bereitgestellt, in welcher [Beatmap-Kategorie](/wiki/Beatmap/Category) die Map hochgeladen werden soll, ob Benachrichtigungen zur Beatmap-Diskussion aktiviert werden sollen und ob die Beatmap nach dem Hochladen im Browser geöffnet werden soll. Solltest du Probleme mit dem BSS haben, frag bitte im [Help](https://osu.ppy.sh/community/forums/5)-Forum nach.
+Beim Auswählen von `Beatmap hochladen` aus dem Dropdown `Datei` im Editor (Kürzel: `Strg` + `Shift` + `U`) öffnet sich das Fenster für die Beatmap-Einreichung. Hier werden Optionen bereitgestellt, in welcher [Beatmap-Kategorie](/wiki/Beatmap/Category) die Map hochgeladen werden soll, ob Benachrichtigungen zu Diskussionsantworten aktiviert werden sollen und ob die Beatmap nach der Veröffentlichung im Browser geöffnet werden soll. Solltest du Probleme mit dem BSS haben, frag bitte im [Help](https://osu.ppy.sh/community/forums/5)-Forum nach.
 
 ## Limitierungen
 
