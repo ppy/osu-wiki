@@ -35,7 +35,7 @@ Note that for the moment, scores in the game client (old multipliers) will **not
 
 To recap: The new game client makes a lot of changes to both game mechanics and the scoring system which have been requested by players for years, yet many are incompatible with the osu!(stable) client. You can [read about these changes on the wiki](/wiki/Help_centre/Upgrading_to_lazer#gameplay-differences).
 
-As a result of these changes, osu!(stable) scores get the ["Classic" mod (CL)](/wiki/Gameplay/Game_modifier/Classic) applied which, until now, had a `0.96x` mod multiplier.
+As a result of these changes, osu!(stable) scores get the ["Classic" mod (CL)](/wiki/Gameplay/Game_modifier_(lazer)/Classic) applied which, until now, had a `0.96x` mod multiplier.
 
 Following this survey, we have updated the Classic mod multiplier for **all** game modes. All other mod multiplier changes in this newspost will be for the **osu!** game mode only.
 

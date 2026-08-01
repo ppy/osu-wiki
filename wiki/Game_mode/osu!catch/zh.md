@@ -70,7 +70,7 @@ osu!catch 有三种难度参数，每种参数都对游玩过程有不同影响�
 
 这四种参数常被简写为 CS、HP、AR 与 OD。
 
-在 osu!(lazer) 中，用户可以使用 [Difficulty Adjust](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) 模组，酌情调整这些参数。
+在 osu!(lazer) 中，用户可以使用 [Difficulty Adjust](/wiki/Gameplay/Game_modifier_(lazer)/Difficulty_Adjust) 模组，酌情调整这些参数。
 
 ## 玩法
 

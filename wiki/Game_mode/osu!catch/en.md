@@ -70,7 +70,7 @@ osu!catch has 3 difficulty settings with each affecting the gameplay differently
 
 Each setting is often referred to as CS, HP, AR, and OD respectively.
 
-In osu!(lazer), each of the settings can be altered to the user's preferences using the [Difficulty Adjust](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) mod.
+In osu!(lazer), each of the settings can be altered to the user's preferences using the [Difficulty Adjust](/wiki/Gameplay/Game_modifier_(lazer)/Difficulty_Adjust) mod.
 
 ## Play styles
 

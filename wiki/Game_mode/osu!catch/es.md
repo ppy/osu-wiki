@@ -70,7 +70,7 @@ osu!catch tiene 3 ajustes de dificultad, cada uno de los cuales afecta al juego 
 
 Cada ajuste suele llamarse CS, HP, AR y OD, respectivamente.
 
-En osu!(lazer), cada uno de los ajustes puede modificarse según las preferencias del usuario usando el mod [Difficulty Adjust](/wiki/Gameplay/Game_modifier/Difficulty_Adjust).
+En osu!(lazer), cada uno de los ajustes puede modificarse según las preferencias del usuario usando el mod [Difficulty Adjust](/wiki/Gameplay/Game_modifier_(lazer)/Difficulty_Adjust).
 
 ## Estilos de juego
 

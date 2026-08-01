@@ -295,7 +295,7 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
   1. (1.4x) [ALiCE'S EMOTiON - Dark Flight Dreamer (Sakaue Nachi) \[Dreamer\]](https://osu.ppy.sh/beatmapsets/185250#osu/676172)
   2. (1.35x) [Treyarch Sound - 115 (pishifat) \[Extreme\]](https://osu.ppy.sh/beatmapsets/397378#osu/870839)
   3. (1.15x) [Fergie - Fergalicious (revoh, 1103) \[rev03's FERGYMiX DELUXE\]](https://osu.ppy.sh/beatmapsets/2555590#osu/5676163)
-- Lazer Mod ([Freeze Frame](/wiki/Gameplay/Game_modifier/Freeze_Frame))
+- Lazer Mod ([Freeze Frame](/wiki/Gameplay/Game_modifier_(lazer)/Freeze_Frame))
   1. [TatshMusicCircle - Raikou -3rd Desire- (Kite) \[Extra\]](https://osu.ppy.sh/beatmapsets/143316#osu/1836851)
 - Original
   1. **[Kry.exe - Obedience (iLyne) \[Alius deus\]](https://osu.ppy.sh/beatmapsets/2555586#osu/5676146)**
@@ -323,7 +323,7 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
   1. (1.2x) [Veil of Maya - Mikasa (Bergy) \[Expert\]](https://osu.ppy.sh/beatmapsets/480298#osu/1051486)
   2. (1.5x) [rikvinyas - Kan'i Taikansen (Rolniczy) \[Archetype\]](https://osu.ppy.sh/beatmapsets/2551929#osu/5661787)
   3. (1.4x) [Chata - Remind (Patchouli) \[Overdrive!!\]](https://osu.ppy.sh/beatmapsets/37292#osu/120030)
-- Lazer Mod ([Depth](/wiki/Gameplay/Game_modifier/Depth) - Maximum depth: 200.0)
+- Lazer Mod ([Depth](/wiki/Gameplay/Game_modifier_(lazer)/Depth) - Maximum depth: 200.0)
   1. [rusino - Looping the Rooms feat. Hatsune Miku (Ryuusei Aika) \[1.89278926\]](https://osu.ppy.sh/beatmapsets/2498335#osu/5493749)
 - Original
   1. **[trung-nova - Prism of Chroma (AstralXynsm) \[Achromatopsia\]](https://osu.ppy.sh/beatmapsets/2551916#osu/5661757)**
@@ -348,7 +348,7 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
   1. (1.6x) [Serani Poji - where is smiley? (ac8129464363) \[?\]](https://osu.ppy.sh/beatmapsets/2182420#osu/4611146)
   2. (1.35x) [DJ SHARPNEL - CYBER INDUCTANCE (mithew) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/2342474#osu/5036420)
   3. (1.6x) [Halozy - Heart of Night (Chaoslitz) \[Life of Loneliness\]](https://osu.ppy.sh/beatmapsets/462878#osu/991229)
-- Lazer Mod ([Deflate](/wiki/Gameplay/Game_modifier/Deflate) - Starting Size: 1.6)
+- Lazer Mod ([Deflate](/wiki/Gameplay/Game_modifier_(lazer)/Deflate) - Starting Size: 1.6)
   1. [Hyunmin Cho - Pathway to Atelier (Mir) \[Starward Ascent\]](https://osu.ppy.sh/beatmapsets/2547930#osu/5647278)
 
 ## Ruleset
@@ -399,7 +399,7 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
 ### Qualifier information
 
 1. In the Qualifier stage, all players will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 5 brackets: No Mod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [Lazer Mod](/wiki/Gameplay/Game_modifier_(lazer)).
+2. The mappool will contain 5 brackets: No Mod, [Hidden](/wiki/Gameplay/Game_modifier_(lazer)/Hidden_(lazer)), [Hard Rock](/wiki/Gameplay/Game_modifier_(lazer)/Hard_Rock_(lazer)), [Double Time](/wiki/Gameplay/Game_modifier_(lazer)/Double_Time_(lazer)), and [Lazer Mod](/wiki/Gameplay/Game_modifier_(lazer)).
 3. The Qualifier pool will feature 12 beatmaps, organised as such:
    - No Mod: 4 beatmaps
    - Hidden: 2 beatmaps
@@ -422,7 +422,7 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
 ### Bracket stage information
 
 1. Matches for this stage of the tournament will have players play maps in sets of two, with the cumulative score across both maps determining the winner of the set. The first player to score to 3 wins the match (best of 5). In the event of a 2-2 tie, the last set will also feature an osu! original (**OG**) pick, to be played after the regular set picks.
-2. The osu! original pick is to be played under FreeMod conditions. **The only mods allowed for this purpose are any combination of No Mod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), and [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)**.  
+2. The osu! original pick is to be played under FreeMod conditions. **The only mods allowed for this purpose are any combination of No Mod, [Hidden](/wiki/Gameplay/Game_modifier_(lazer)/Hidden_(lazer)), and [Hard Rock](/wiki/Gameplay/Game_modifier_(lazer)/Hard_Rock_(lazer))**.  
 3. The draft order will be composed of a ban/protect phase and a pick/play phase.
 4. The ban/protect phase will start with the lower seeded player banning one map, followed by the higher seeded player banning one map. Afterwards, the lower seeded player will protect one map, followed by the higher seeded player protecting one map. Lastly, the lower seeded player will once again ban a map, followed by the higher seeded player banning a final map.
    - Protected maps may only be picked by the player who protected them, and may not be banned.

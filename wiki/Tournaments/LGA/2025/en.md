@@ -80,7 +80,7 @@ The Lazer Grand Arena offered badges to the top 3 finalists.
   2. (1.30x) [Hatsune Miku - Mythologia's End (val0108) \[Myth0108ia\]](https://osu.ppy.sh/beatmapsets/48979#osu/151229)
   3. (1.35x) [ELECTROCUTICA - Dependence Intension (Mirash) \[existence discontinuously\]](https://osu.ppy.sh/beatmapsets/1550481#osu/3168353)
 - Lazer Mod
-  1. ([Depth](/wiki/Gameplay/Game_modifier/Depth)) [callasoiled - Altitude Remix (dectopia) \[Outer Space\]](https://osu.ppy.sh/beatmapsets/1621249#osu/3310130)
+  1. ([Depth](/wiki/Gameplay/Game_modifier_(lazer)/Depth)) [callasoiled - Altitude Remix (dectopia) \[Outer Space\]](https://osu.ppy.sh/beatmapsets/1621249#osu/3310130)
 - Original
   1. **[Jouxl Eterna (JinoBeats) - Resonance of Ice Stalactites (netnesanya, kyairie) \[Netnekyai's Crystallisation\]](https://osu.ppy.sh/beatmapsets/2373140#osu/5124199)**
 
@@ -107,7 +107,7 @@ The Lazer Grand Arena offered badges to the top 3 finalists.
   2. (1.50x) [Demetori - Seijouki no Pierrot \~ The MadPiero Laughs (jonathanlfj) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/656918#osu/1501711)
   3. (1.20x) [Morimori Atsushi - PUPA (Cherry Blossom) \[Butterfly\]](https://osu.ppy.sh/beatmapsets/224164#osu/523376)
 - Lazer Mod
-  1. ([Freeze Frame](/wiki/Gameplay/Game_modifier/Freeze_Frame)) [connsome - flat by second (ktgster) \[Expert\]](https://osu.ppy.sh/beatmapsets/1633261#osu/4667948)
+  1. ([Freeze Frame](/wiki/Gameplay/Game_modifier_(lazer)/Freeze_Frame)) [connsome - flat by second (ktgster) \[Expert\]](https://osu.ppy.sh/beatmapsets/1633261#osu/4667948)
 - Original
   1. **[xeven - Deglaciation (Mysty) \[Melt\]](https://osu.ppy.sh/beatmapsets/2369583#osu/5112601)**
 
@@ -132,7 +132,7 @@ The Lazer Grand Arena offered badges to the top 3 finalists.
   2. (1.30x) [Awake - Supernova (Niva) \[Extra\]](https://osu.ppy.sh/beatmapsets/2365648#osu/5101419)
   3. (1.20x) [PUP - Mabu (Hobbes2) \[Extreme\]](https://osu.ppy.sh/beatmapsets/762836#osu/1603957)
 - Lazer Mod
-  1. ([Bubbles](/wiki/Gameplay/Game_modifier/Bubbles) + [Approach Different](/wiki/Gameplay/Game_modifier/Approach_Different)) [Carpool Tunnel - Afterlight (\_Epreus) \[Insane\]](https://osu.ppy.sh/beatmapsets/1001546#osu/2162331)
+  1. ([Bubbles](/wiki/Gameplay/Game_modifier_(lazer)/Bubbles) + [Approach Different](/wiki/Gameplay/Game_modifier_(lazer)/Approach_Different)) [Carpool Tunnel - Afterlight (\_Epreus) \[Insane\]](https://osu.ppy.sh/beatmapsets/1001546#osu/2162331)
 
 ## Match results
 
@@ -377,7 +377,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Qualifier information
 
 1. In the Qualifier stage, all players will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 5 brackets: No Mod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [Lazer Mod](/wiki/Gameplay/Game_modifier_(lazer)).
+2. The mappool will contain 5 brackets: No Mod, [Hidden](/wiki/Gameplay/Game_modifier_(lazer)/Hidden_(lazer)), [Hard Rock](/wiki/Gameplay/Game_modifier_(lazer)/Hard_Rock_(lazer)), [Double Time](/wiki/Gameplay/Game_modifier_(lazer)/Double_Time_(lazer)), and [Lazer Mod](/wiki/Gameplay/Game_modifier_(lazer)).
 3. The Qualifier pool will feature 12 beatmaps, organised as such:
    - No Mod: 4 beatmaps
    - Hidden: 2 beatmaps
@@ -400,7 +400,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Bracket stage information
 
 1. Matches for this stage of the tournament will have players play maps in sets of two, with the cumulative score across both maps determining the winner of the set. The first player to score to 3 wins the match (best of 5). In the event of a 2-2 tie, the last set will also feature an osu! original (**OG**) pick, to be played after the regular set picks.
-2. The osu! original pick is to be played under FreeMod conditions. **The only mods allowed for this purpose are any combination of No Mod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), and [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)**.  
+2. The osu! original pick is to be played under FreeMod conditions. **The only mods allowed for this purpose are any combination of No Mod, [Hidden](/wiki/Gameplay/Game_modifier_(lazer)/Hidden_(lazer)), and [Hard Rock](/wiki/Gameplay/Game_modifier_(lazer)/Hard_Rock_(lazer))**.  
 3. The draft order will be composed of a ban/protect phase and a pick/play phase.
 4. The ban/protect phase will start with the lower seeded player banning one map, followed by the higher seeded player banning one map. Afterwards, the lower seeded player will protect one map, followed by the higher seeded player protecting one map. Lastly, the lower seeded player will once again ban a map, followed by the higher seeded player banning a final map.
    - Protected maps may only be picked by the player who protected them, and may not be banned.
