@@ -15,7 +15,7 @@ tags:
 ![Icono del mod RL](/wiki/shared/mods/RL.png "Icono del mod Relax (RL)")
 
 ::: alert-note
-**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Relax (mod de lazer)](/wiki/Gameplay/Game_modifier/Relax_(lazer))
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Relax (mod de lazer)](/wiki/Gameplay/Game_modifier_(lazer)/Relax_(lazer))
 :::
 
 ::: alert-note

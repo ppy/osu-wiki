@@ -14,7 +14,7 @@ no_native_review: true
 ![NC Modsymbol](/wiki/shared/mods/NC.png "Nightcore (NC) Modsymbol")
 
 ::: alert-note
-**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Nightcore (lazer-Mod)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer))
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Nightcore (lazer-Mod)](/wiki/Gameplay/Game_modifier_(lazer)/Nightcore_(lazer))
 :::
 
 ::: alert-note

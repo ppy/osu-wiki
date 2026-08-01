@@ -14,7 +14,7 @@ tags:
 ![Icono del mod SV2](/wiki/shared/mods/SV2.png "Icono del mod ScoreV2 (SV2)")
 
 ::: alert-note
-**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Score V2 (mod de lazer)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer))
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Score V2 (mod de lazer)](/wiki/Gameplay/Game_modifier_(lazer)/Score_V2_(lazer))
 :::
 
 ::: alert-note

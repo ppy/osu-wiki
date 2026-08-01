@@ -15,6 +15,10 @@ tags:
 ![Co-op mod icon](/wiki/shared/mods/CP.png "Co-op (CO) mod icon")
 
 ::: alert-note
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Dual Stages (mod)](/wiki/Gameplay/Game_modifier_(lazer)/Dual_Stages)
+:::
+
+::: alert-note
 **Note:** For the full list of all mods, see [Game modifier](/wiki/Gameplay/Game_modifier)
 :::
 

@@ -12,7 +12,7 @@ tags:
 ![PF mod icon](/wiki/shared/mods/PF.png "Perfect (PF) mod icon")
 
 ::: alert-note
-**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Perfect (lazer mod)](/wiki/Gameplay/Game_modifier/Perfect_(lazer))
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Perfect (lazer mod)](/wiki/Gameplay/Game_modifier_(lazer)/Perfect_(lazer))
 :::
 
 ::: alert-note

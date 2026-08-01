@@ -15,7 +15,7 @@ tags:
 
 ![Значок мода EZ](/wiki/shared/mods/EZ.png "Значок мода Easy (EZ)")
 
-*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Easy (lazer)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Easy (lazer)](/wiki/Gameplay/Game_modifier_(lazer)/Easy_(lazer))*\
 ::: alert-note
 **Примечание:** У этого термина существуют и другие значения, см. [Easy (значения)](/wiki/Disambiguation/Easy).
 :::

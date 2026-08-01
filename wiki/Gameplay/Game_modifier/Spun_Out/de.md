@@ -15,7 +15,7 @@ no_native_review: true
 ![SO Modsymbol](/wiki/shared/mods/SO.png "Spun Out (SO) Modsymbol")
 
 ::: alert-note
-**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Spun Out (lazer-Mod)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer))
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Spun Out (lazer-Mod)](/wiki/Gameplay/Game_modifier_(lazer)/Spun_Out_(lazer))
 :::
 
 ::: alert-note

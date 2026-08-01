@@ -17,7 +17,7 @@ tags:
 
 ![Значок мода HR](/wiki/shared/mods/HR.png "Значок мода Hard Rock (HR)")
 
-*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Hard Rock (lazer)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer))*\
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Hard Rock (lazer)](/wiki/Gameplay/Game_modifier_(lazer)/Hard_Rock_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация

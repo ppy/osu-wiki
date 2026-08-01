@@ -12,7 +12,7 @@ tags:
 ![SD mod icon](/wiki/shared/mods/SD.png "Sudden Death (SD) mod icon")
 
 ::: alert-note
-**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Sudden Death (lazer mod)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer))
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Sudden Death (lazer mod)](/wiki/Gameplay/Game_modifier_(lazer)/Sudden_Death_(lazer))
 :::
 
 ::: alert-note

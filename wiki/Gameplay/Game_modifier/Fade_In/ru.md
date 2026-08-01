@@ -20,7 +20,7 @@ tags:
 
 ![Значок мода FI](/wiki/shared/mods/FI.png "Значок мода Fade In (FI)")
 
-*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Fade In (lazer)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer))*\
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Fade In (lazer)](/wiki/Gameplay/Game_modifier_(lazer)/Fade_In_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
 ::: alert-note
 **Примечание:** Эта статья — про мод, снижающий область видимости. О моде, убирающем круги вокруг нот, см. [Hidden](/wiki/Gameplay/Game_modifier/Hidden). О моде, затемняющем игровое поле, см. [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight).

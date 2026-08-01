@@ -13,7 +13,7 @@ tags:
 ![PF Modsymbol](/wiki/shared/mods/PF.png "Perfect (PF) Modsymbol")
 
 ::: alert-note
-**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Perfect (lazer-Mod)](/wiki/Gameplay/Game_modifier/Perfect_(lazer))
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Perfect (lazer-Mod)](/wiki/Gameplay/Game_modifier_(lazer)/Perfect_(lazer))
 :::
 
 ::: alert-note

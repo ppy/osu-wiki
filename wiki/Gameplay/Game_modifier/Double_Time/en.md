@@ -12,7 +12,7 @@ tags:
 ![DT mod icon](/wiki/shared/mods/DT.png "Double Time (DT) mod icon")
 
 ::: alert-note
-**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Double Time (lazer mod)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer))
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Double Time (lazer mod)](/wiki/Gameplay/Game_modifier_(lazer)/Double_Time_(lazer))
 :::
 
 ::: alert-note

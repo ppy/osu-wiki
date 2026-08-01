@@ -12,7 +12,7 @@ tags:
 ![EZ mod icon](/wiki/shared/mods/EZ.png "Easy (EZ) mod icon")
 
 ::: alert-note
-**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Easy (lazer mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Easy (lazer mod)](/wiki/Gameplay/Game_modifier_(lazer)/Easy_(lazer))
 :::
 
 ::: alert-note

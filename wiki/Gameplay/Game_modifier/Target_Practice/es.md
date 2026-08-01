@@ -15,7 +15,7 @@ tags:
 ![Icono del mod TP](/wiki/shared/mods/TP.png "Icono del mod Target Practice (TP)")
 
 ::: alert-note
-**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Target Practice (mod de lazer)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer))
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Target Practice (mod de lazer)](/wiki/Gameplay/Game_modifier_(lazer)/Target_Practice_(lazer))
 :::
 
 ::: alert-note

@@ -18,6 +18,7 @@ tags:
 
 ![Co-op 模组图标](/wiki/shared/mods/CP.png "Co-op (CO) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Dual Stages（模组）](/wiki/Gameplay/Game_modifier_(lazer)/Dual_Stages)*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
 *请勿与[多人游戏](/wiki/Client/Interface/Multiplayer)混淆。*
 

@@ -15,7 +15,7 @@ tags:
 
 ![Значок мода AP](/wiki/shared/mods/AP.png "Значок мода Autopilot (AP)")
 
-*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Autopilot (lazer)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer))*\
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Autopilot (lazer)](/wiki/Gameplay/Game_modifier_(lazer)/Autopilot_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
 ::: alert-note
 **Примечание:** Эта статья — про мод, включающий автонаведение. Про мод, который всё делает за игрока, см. [Auto](/wiki/Gameplay/Game_modifier/Auto).

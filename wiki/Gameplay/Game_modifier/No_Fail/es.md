@@ -14,7 +14,7 @@ tags:
 ![Icono del mod NF](/wiki/shared/mods/NF.png "Icono del mod No Fail (NF)")
 
 ::: alert-note
-**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [No Fail (mod de lazer)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer))
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [No Fail (mod de lazer)](/wiki/Gameplay/Game_modifier_(lazer)/No_Fail_(lazer))
 :::
 
 ::: alert-note

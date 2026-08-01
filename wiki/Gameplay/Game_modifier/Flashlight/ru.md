@@ -20,7 +20,7 @@ tags:
 
 ![Значок мода FL](/wiki/shared/mods/FL.png "Значок мода Flashlight (FL)")
 
-*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Flashlight (lazer)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer))*\
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Flashlight (lazer)](/wiki/Gameplay/Game_modifier_(lazer)/Flashlight_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
 ::: alert-note
 **Примечание:** Эта статья — про мод, затемняющий игровое поле. О моде, убирающем круги вокруг нот, см. [Hidden](/wiki/Gameplay/Game_modifier/Hidden).

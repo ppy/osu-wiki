@@ -15,7 +15,7 @@ tags:
 ![Icono del mod FI](/wiki/shared/mods/FI.png "Icono del mod Fade In (FI)")
 
 ::: alert-note
-**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Fade In (mod de lazer)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer))
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Fade In (mod de lazer)](/wiki/Gameplay/Game_modifier_(lazer)/Fade_In_(lazer))
 :::
 
 ::: alert-note

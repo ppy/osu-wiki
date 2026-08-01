@@ -14,7 +14,7 @@ tags:
 ![AP Modsymbol](/wiki/shared/mods/AP.png "Auto Pilot (AP) Modsymbol")
 
 ::: alert-note
-**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Autopilot (lazer-Mod)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer))
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Autopilot (lazer-Mod)](/wiki/Gameplay/Game_modifier_(lazer)/Autopilot_(lazer))
 :::
 
 ::: alert-note

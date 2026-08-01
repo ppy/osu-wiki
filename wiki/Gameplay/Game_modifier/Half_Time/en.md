@@ -12,7 +12,7 @@ tags:
 ![HT mod icon](/wiki/shared/mods/HT.png "Half Time (HT) mod icon")
 
 ::: alert-note
-**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Half Time (lazer mod)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer))
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Half Time (lazer mod)](/wiki/Gameplay/Game_modifier_(lazer)/Half_Time_(lazer))
 :::
 
 ::: alert-note

@@ -12,7 +12,7 @@ tags:
 ![FL mod icon](/wiki/shared/mods/FL.png "Flashlight (FL) mod icon")
 
 ::: alert-note
-**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Flashlight (lazer mod)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer))
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Flashlight (lazer mod)](/wiki/Gameplay/Game_modifier_(lazer)/Flashlight_(lazer))
 :::
 
 ::: alert-note

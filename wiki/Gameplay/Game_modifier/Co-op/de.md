@@ -17,6 +17,10 @@ tags:
 ![Co-op Modsymbol](/wiki/shared/mods/CP.png "Co-op (CO) Modsymbol")
 
 ::: alert-note
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Dual Stages (Mod)](/wiki/Gameplay/Game_modifier_(lazer)/Dual_Stages)
+:::
+
+::: alert-note
 **Anmerkung:** Für die vollständige Liste aller Mods, siehe [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
 :::
 

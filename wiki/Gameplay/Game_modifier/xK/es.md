@@ -27,7 +27,7 @@ xK es un termino colectivo para los siguientes mods: 1K, 2K, 3K, 4K, 5K, 6K, 7K,
 ![Icono del mod 1K](/wiki/shared/mods/1K.png "Icono del mod 1K") ![Icono del mod 2K](/wiki/shared/mods/2K.png "Icono del mod 2K") ![Icono del mod 3K](/wiki/shared/mods/3K.png "Icono del mod 3K") ![Icono del mod 4K](/wiki/shared/mods/4K.png "Icono del mod 4K") ![Icono del mod 5K](/wiki/shared/mods/5K.png "Icono del mod 5K") ![Icono del mod 6K](/wiki/shared/mods/6K.png "Icono del mod 6K") ![Icono del mod 7K](/wiki/shared/mods/7K.png "Icono del mod 7K") ![Icono del mod 8K](/wiki/shared/mods/8K.png "Icono del mod 8K") ![Icono del mod 9K](/wiki/shared/mods/9K.png "Icono del mod 9K")
 
 ::: alert-note
-**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Mods de teclas (lazer)](/wiki/Gameplay/Game_modifier/Key_mods_(lazer))
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Mods de teclas (lazer)](/wiki/Gameplay/Game_modifier_(lazer)/Key_mods_(lazer))
 :::
 
 ::: alert-note

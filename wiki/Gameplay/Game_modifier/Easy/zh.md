@@ -13,7 +13,7 @@ tags:
 
 ![EZ 模组图标](/wiki/shared/mods/EZ.png "Easy (EZ) 模组图标")
 
-*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Easy（lazer 模组）](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Easy（lazer 模组）](/wiki/Gameplay/Game_modifier_(lazer)/Easy_(lazer))*\
 ::: alert-note
 **备注：** 对于更多义项，参见[Easy（消歧义）](/wiki/Disambiguation/Easy)
 :::

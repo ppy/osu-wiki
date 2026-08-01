@@ -15,7 +15,7 @@ tags:
 
 ![Значок мода NC](/wiki/shared/mods/NC.png "Значок мода Nightcore (NC)")
 
-*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Nightcore (lazer)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer))*\
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Nightcore (lazer)](/wiki/Gameplay/Game_modifier_(lazer)/Nightcore_(lazer))*\
 *Не стоит путать с [Nightcore (жанр музыки)](https://en.wikipedia.org/wiki/Nightcore).*\
 ::: alert-note
 **См. также:** [NC (значения)](/wiki/Disambiguation/NC), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)

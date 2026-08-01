@@ -12,7 +12,7 @@ tags:
 ![NC mod icon](/wiki/shared/mods/NC.png "Nightcore (NC) mod icon")
 
 ::: alert-note
-**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Nightcore (lazer mod)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer))
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Nightcore (lazer mod)](/wiki/Gameplay/Game_modifier_(lazer)/Nightcore_(lazer))
 :::
 
 ::: alert-note

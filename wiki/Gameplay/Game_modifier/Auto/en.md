@@ -15,7 +15,7 @@ tags:
 ![AT mod icon](/wiki/shared/mods/AT.png "Auto (AT) mod icon")
 
 ::: alert-note
-**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Autoplay (lazer mod)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer))
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Autoplay (lazer mod)](/wiki/Gameplay/Game_modifier_(lazer)/Autoplay_(lazer))
 :::
 
 ::: alert-note

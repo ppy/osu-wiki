@@ -14,7 +14,7 @@ no_native_review: true
 ![SD Modsymbol](/wiki/shared/mods/SD.png "Sudden Death (SD) Modsymbol")
 
 ::: alert-note
-**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Sudden Death (lazer-Mod)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer))
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Sudden Death (lazer-Mod)](/wiki/Gameplay/Game_modifier_(lazer)/Sudden_Death_(lazer))
 :::
 
 ::: alert-note

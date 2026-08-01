@@ -15,7 +15,7 @@ tags:
 
 ![Значок мода HD](/wiki/shared/mods/HD.png "Значок мода Hidden (HD)")
 
-*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Hidden (lazer)](/wiki/Gameplay/Game_modifier/Hidden_(lazer))*\
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Hidden (lazer)](/wiki/Gameplay/Game_modifier_(lazer)/Hidden_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
 ::: alert-note
 **Примечание:** Эта статья — про мод, убирающий круги вокруг нот. О моде, снижающем область видимости, см. [Fade In](/wiki/Gameplay/Game_modifier/Fade_In). О моде, затемняющем игровое поле, см. [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight).

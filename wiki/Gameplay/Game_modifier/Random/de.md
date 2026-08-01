@@ -14,7 +14,7 @@ no_native_review: true
 ![RD Modsymbol](/wiki/shared/mods/RD.png "Random (RD) Modsymbol")
 
 ::: alert-note
-**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Random (lazer-Mod)](/wiki/Gameplay/Game_modifier/Random_(lazer))
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Random (lazer-Mod)](/wiki/Gameplay/Game_modifier_(lazer)/Random_(lazer))
 :::
 
 ::: alert-note

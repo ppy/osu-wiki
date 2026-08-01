@@ -14,7 +14,7 @@ tags:
 ![Icono del mod HD](/wiki/shared/mods/HD.png "Icono del mod Hidden (HD)")
 
 ::: alert-note
-**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Hidden (mod de lazer)](/wiki/Gameplay/Game_modifier/Hidden_(lazer))
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Hidden (mod de lazer)](/wiki/Gameplay/Game_modifier_(lazer)/Hidden_(lazer))
 :::
 
 ::: alert-note

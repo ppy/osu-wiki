@@ -14,7 +14,7 @@ no_native_review: true
 ![HT Modsymbol](/wiki/shared/mods/HT.png "Half Time (HT) Modsymbol")
 
 ::: alert-note
-**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Half Time (lazer-Mod)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer))
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Half Time (lazer-Mod)](/wiki/Gameplay/Game_modifier_(lazer)/Half_Time_(lazer))
 :::
 
 ::: alert-note

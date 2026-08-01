@@ -13,7 +13,7 @@ tags:
 ![CM Modysmbol](/wiki/shared/mods/CM.png "Cinema (CM) Modsymbol")
 
 ::: alert-note
-**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Cinema (lazer-Mod)](/wiki/Gameplay/Game_modifier/Cinema_(lazer))
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Cinema (lazer-Mod)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer))
 :::
 
 ::: alert-note

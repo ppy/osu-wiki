@@ -14,7 +14,7 @@ no_native_review: true
 ![HD Modsymbol](/wiki/shared/mods/HD.png "Hidden (HD) Modsymbol")
 
 ::: alert-note
-**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Hidden (lazer-Mod)](/wiki/Gameplay/Game_modifier/Hidden_(lazer))
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Hidden (lazer-Mod)](/wiki/Gameplay/Game_modifier_(lazer)/Hidden_(lazer))
 :::
 
 ::: alert-note

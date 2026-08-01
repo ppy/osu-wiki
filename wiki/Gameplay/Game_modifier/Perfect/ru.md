@@ -16,7 +16,7 @@ tags:
 
 ![Значок мода PF](/wiki/shared/mods/PF.png "Значок мода Perfect (PF)")
 
-*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Perfect (lazer)](/wiki/Gameplay/Game_modifier/Perfect_(lazer))*\
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Perfect (lazer)](/wiki/Gameplay/Game_modifier_(lazer)/Perfect_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
 ::: alert-note
 **См. также:** [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death)

@@ -12,7 +12,7 @@ tags:
 ![CM mod icon](/wiki/shared/mods/CM.png "Cinema (CM) mod icon")
 
 ::: alert-note
-**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Cinema (lazer mod)](/wiki/Gameplay/Game_modifier/Cinema_(lazer))
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Cinema (lazer mod)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer))
 :::
 
 ::: alert-note

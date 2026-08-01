@@ -19,6 +19,7 @@ tags:
 
 ![Значок мода Co-op](/wiki/shared/mods/CP.png "Значок мода Co-op (CO)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Dual Stages](/wiki/Gameplay/Game_modifier_(lazer)/Dual_Stages)*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
 *Не следует путать с [мультиплеером](/wiki/Client/Interface/Multiplayer).*
 
