@@ -70,7 +70,9 @@ Die Namensstruktur einer Datei ist `screenshot###`, wobei "###" die Anzahl der S
 
 Der Ordner Skins verwaltet vom Nutzer angelegte Skins, die dazu verwendet werden können, die Benutzeroberfläche im Spiel anzupassen. Spieler können Skins aus dem [Skinning-Subforum](https://osu.ppy.sh/community/forums/15) herunterladen. Durch Doppelklicken in einem Dateimanager können die Skins installiert werden. "osu! by peppy" ist der einzige Skin ohne einen Ordner und kann nicht gelöscht werden.
 
-*Für weitere Informationen, siehe [Skinning](/wiki/Skinning).*
+::: alert-note
+**Anmerkung:** Für weitere Informationen, siehe [Skinning](/wiki/Skinning).
+:::
 
 ### Songs
 
