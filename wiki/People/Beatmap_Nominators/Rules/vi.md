@@ -13,7 +13,7 @@ Hành vi sai trái kéo dài đối với những kỳ vọng là căn cứ đ�
 ## Hướng dẫn 
 
 - **Không tuân thủ theo bất kỳ quy tắc chưa được phê duyệt hoặc đang sửa đổi.** 
-- **Tuân thủ [Quy tắc cộng đồng osu!](/wiki/Rules) và [Quy tắc ứng xử đối với modding và mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) mọi lúc.** Với tư cách là một người đề cử beatmap, hành vi của bạn nên là tấm gương tích cực cho những thành viên khác trong cộng đồng. Việc vi phạm Bộ Quy Tắc Ứng Xử có thể khiến bạn nhận được cảnh báo về hành vi, hoặc trong trường hợp nghiêm trọng sẽ bị loại khỏi đội ngũ đề cử beatmap. 
+- **Tuân thủ [Quy tắc cộng đồng osu!](/wiki/Rules) và [Quy tắc ứng xử đối với modding và mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) mọi lúc.** Với tư cách là một người đề cử beatmap, hành vi của bạn nên là tấm gương tích cực cho những thành viên khác trong cộng đồng. Việc vi phạm Bộ Quy Tắc Ứng Xử có thể khiến bạn nhận được cảnh báo về hành vi, hoặc trong trường hợp nghiêm trọng, sẽ bị loại khỏi đội ngũ đề cử beatmap. 
 - **Không được góp phần hoặc tham gia vào các modding trả tiền, xếp hạng HOẶC nhận hoa hồng qua mapping.** Không được để xuất hiện bất kỳ nghi ngờ nào về tính hợp pháp hoặc động cơ với các thành viên thuộc đội ngũ osu! (BN, NAT hoặc người khác) tại [quá trình xếp hạng beatmap](/wiki/Beatmap_ranking_procedure)
 
 ## Hoạt động
