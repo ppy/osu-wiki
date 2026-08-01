@@ -28,7 +28,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 得分系数 ![][osu!] ![][osu!taiko] ![][osu!catch] | `1.10x*` <!-- TODO --> |
 | 得分系数 ![][osu!mania] | `1.00x` |
 | 状态 | 计入排名 |
-| 不兼容的模组 | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
+| 不兼容的模组 | [Half Time (HT)](/wiki/Gameplay/Game_modifier_(lazer)/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier_(lazer)/Daycore), [Nightcore (NC)](/wiki/Gameplay/Game_modifier_(lazer)/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier_(lazer)/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier_(lazer)/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier_(lazer)/Wind_Down) |
 
 :::
 
@@ -42,7 +42,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ![游戏客户端中 Double Time 模组的自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DT.png)
 
 - **速度加成**（1.01x-2.00x，默认为 1.50x）：游玩谱面的速度。
-- **调节音调**（默认禁用）：依照所选速度更改音频频率。*启用该选项不会导致模组分数不计入排名。*（使用默认速度加成游玩时，其音频效果与 [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)) 模组相同）
+- **调节音调**（默认禁用）：依照所选速度更改音频频率。*启用该选项不会导致模组分数不计入排名。*（使用默认速度加成游玩时，其音频效果与 [Nightcore](/wiki/Gameplay/Game_modifier_(lazer)/Nightcore_(lazer)) 模组相同）
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

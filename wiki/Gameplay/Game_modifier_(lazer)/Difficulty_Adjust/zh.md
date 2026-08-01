@@ -25,7 +25,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | 得分系数 | `0.50x` |
 | 状态 | 不计入排名 |
-| 不兼容的模组 | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
+| 不兼容的模组 | [Easy (EZ)](/wiki/Gameplay/Game_modifier_(lazer)/Easy_(lazer)), [Hard Rock (HR)](/wiki/Gameplay/Game_modifier_(lazer)/Hard_Rock_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier_(lazer)/Target_Practice_(lazer)) |
 
 :::
 

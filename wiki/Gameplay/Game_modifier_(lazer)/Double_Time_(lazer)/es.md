@@ -30,7 +30,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Multiplicador de puntuación ![][osu!] ![][osu!taiko] ![][osu!catch] | `1,10x*` |
 | Multiplicador de puntuación ![][osu!mania] | `1,00x` |
 | Estado | Clasificado |
-| Mods incompatibles | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
+| Mods incompatibles | [Half Time (HT)](/wiki/Gameplay/Game_modifier_(lazer)/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier_(lazer)/Daycore), [Nightcore (NC)](/wiki/Gameplay/Game_modifier_(lazer)/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier_(lazer)/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier_(lazer)/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier_(lazer)/Wind_Down) |
 
 :::
 
@@ -49,7 +49,7 @@ El mod **Double Time** aumenta el BPM de cualquier beatmap en un 150 %, ademá
 ![Opciones de personalización del mod Double Time en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DT.png)
 
 - **Speed increase** (1,01x-2,00x, predeterminado: 1,50x): La velocidad a la que se jugará el mapa.
-- **Adjust pitch** (predeterminado: desactivado): Cambia la frecuencia de audio dependiendo de la velocidad elegida. *Activar esta opción no hace que el mod sea no clasificado* (jugar con la velocidad predeterminada tendrá el mismo efecto de audio que [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)))
+- **Adjust pitch** (predeterminado: desactivado): Cambia la frecuencia de audio dependiendo de la velocidad elegida. *Activar esta opción no hace que el mod sea no clasificado* (jugar con la velocidad predeterminada tendrá el mismo efecto de audio que [Nightcore](/wiki/Gameplay/Game_modifier_(lazer)/Nightcore_(lazer)))
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

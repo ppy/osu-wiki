@@ -27,7 +27,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Multiplicador de puntuación | `0,50x` |
 | Estado | Clasificado |
-| Mods incompatibles | [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
+| Mods incompatibles | [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier_(lazer)/Accuracy_Challenge), [Perfect (PF)](/wiki/Gameplay/Game_modifier_(lazer)/Perfect_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier_(lazer)/Sudden_Death_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)) |
 
 :::
 

@@ -25,7 +25,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | Multiplicador de puntuación | `0,96x` |
 | Estado | No clasificado |
-| Mods incompatibles ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
+| Mods incompatibles ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier_(lazer)/Strict_Tracking) |
 | Mods incompatibles ![][osu!taiko] ![][osu!mania] | Ninguno |
 
 :::

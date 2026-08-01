@@ -26,7 +26,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] |
 | Multiplicador de puntuación | `1,12x` |
 | Estado | Clasificado |
-| Mods incompatibles | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
+| Mods incompatibles | [Flashlight (FL)](/wiki/Gameplay/Game_modifier_(lazer)/Flashlight_(lazer)) |
 
 :::
 

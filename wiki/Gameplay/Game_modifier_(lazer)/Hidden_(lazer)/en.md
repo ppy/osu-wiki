@@ -29,9 +29,9 @@ tags:
 | Score multiplier ![][osu!] ![][osu!taiko] ![][osu!catch] | `1.06x` |
 | Score multiplier ![][osu!mania] | `1.00x` |
 | Status | Ranked |
-| Incompatible mods ![][osu!] | [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| Incompatible mods ![][osu!] | [Traceable (TC)](/wiki/Gameplay/Game_modifier_(lazer)/Traceable), [Spin In (SI)](/wiki/Gameplay/Game_modifier_(lazer)/Spin_In), [Approach Different (AD)](/wiki/Gameplay/Game_modifier_(lazer)/Approach_Different), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier_(lazer)/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier_(lazer)/Depth) |
 | Incompatible mods ![][osu!taiko] ![][osu!catch] | None |
-| Incompatible mods ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
+| Incompatible mods ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier_(lazer)/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier_(lazer)/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier_(lazer)/Flashlight_(lazer)) |
 
 :::
 
@@ -43,7 +43,7 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Hidden** mod removes the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) from the game and makes the [hit objects](/wiki/Gameplay/Hit_object) fade out after appearing on screen. It acts as the opposite of the [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) mod.
+The **Hidden** mod removes the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) from the game and makes the [hit objects](/wiki/Gameplay/Hit_object) fade out after appearing on screen. It acts as the opposite of the [Traceable (TC)](/wiki/Gameplay/Game_modifier_(lazer)/Traceable) mod.
 
 ## Customisation
 

@@ -26,7 +26,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] ![][osu!catch] |
 | Multiplicador de puntuación | `1,00x` |
 | Estado | Clasificado |
-| Mods incompatibles | [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
+| Mods incompatibles | [Bloom (BM)](/wiki/Gameplay/Game_modifier_(lazer)/Bloom) |
 
 :::
 

@@ -27,7 +27,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | Multiplicador de puntuación | `1,00x` |
 | Estado | No clasificado |
-| Mods incompatibles | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) |
+| Mods incompatibles | [Target Practice (TP)](/wiki/Gameplay/Game_modifier_(lazer)/Target_Practice_(lazer)), [Swap (SW)](/wiki/Gameplay/Game_modifier_(lazer)/Swap) |
 
 :::
 

@@ -25,8 +25,8 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Score multiplier | `0.30x*` |
 | Status | Ranked |
-| Incompatible mods ![][osu!] ![][osu!taiko] ![][osu!mania] | [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) |
-| Incompatible mods ![][osu!catch] | [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
+| Incompatible mods ![][osu!] ![][osu!taiko] ![][osu!mania] | [Daycore (DC)](/wiki/Gameplay/Game_modifier_(lazer)/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier_(lazer)/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier_(lazer)/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier_(lazer)/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier_(lazer)/Wind_Down), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier_(lazer)/Adaptive_Speed) |
+| Incompatible mods ![][osu!catch] | [Daycore (DC)](/wiki/Gameplay/Game_modifier_(lazer)/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier_(lazer)/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier_(lazer)/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier_(lazer)/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier_(lazer)/Wind_Down) |
 
 :::
 
@@ -45,7 +45,7 @@ The **Half Time** mod decreases the BPM of any beatmap by 25%, increasing the le
 ![Half Time customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/HT.png)
 
 - `Speed decrease` (0.50x–0.99x, default: 0.75x): The speed at which the map is played.
-- `Adjust pitch` (default: disabled): Change the audio frequency depending on the chosen speed. Enabling pitch adjustment with the default speed will have the same audio effect as [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore).
+- `Adjust pitch` (default: disabled): Change the audio frequency depending on the chosen speed. Enabling pitch adjustment with the default speed will have the same audio effect as [Daycore (DC)](/wiki/Gameplay/Game_modifier_(lazer)/Daycore).
 
 Changing the `Speed decrease` setting causes your scores to be **unranked**, while enabling `Adjust pitch` produces rankable scores.
 

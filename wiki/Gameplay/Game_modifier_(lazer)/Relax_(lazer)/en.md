@@ -26,9 +26,9 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] |
 | Score multiplier | `0.10x` |
 | Status | Unranked |
-| Incompatible mods ![][osu!] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised) |
-| Incompatible mods ![][osu!taiko] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap) |
-| Incompatible mods ![][osu!catch] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) |
+| Incompatible mods ![][osu!] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier_(lazer)/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier_(lazer)/Autopilot_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier_(lazer)/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier_(lazer)/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier_(lazer)/Magnetised) |
+| Incompatible mods ![][osu!taiko] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier_(lazer)/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)), [Single Tap (SG)](/wiki/Gameplay/Game_modifier_(lazer)/Single_Tap) |
+| Incompatible mods ![][osu!catch] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier_(lazer)/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)), [Moving Fast (MF)](/wiki/Gameplay/Game_modifier_(lazer)/Moving_Fast) |
 
 :::
 
@@ -58,7 +58,7 @@ In osu!catch, the **Relax** mod allows the user to control the catcher with a mo
 
 ## Trivia
 
-- In osu!, Relax clicks on hit objects approximately 10 ms early. As a result, Relax used in combination with [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) will cause constant speed up as the map progresses, as long as the player aims correctly.
+- In osu!, Relax clicks on hit objects approximately 10 ms early. As a result, Relax used in combination with [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier_(lazer)/Adaptive_Speed) will cause constant speed up as the map progresses, as long as the player aims correctly.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

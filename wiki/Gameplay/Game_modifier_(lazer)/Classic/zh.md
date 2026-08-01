@@ -25,7 +25,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | 得分系数 | `0.96x` |
 | 状态 | 不计入排名 |
-| 不兼容的模组 ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
+| 不兼容的模组 ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier_(lazer)/Strict_Tracking) |
 | 不兼容的模组 ![][osu!taiko] ![][osu!mania] | 无 |
 
 :::

@@ -25,7 +25,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] |
 | Multiplicador de puntuación | `1,00x` |
 | Estado | No clasificado |
-| Mods incompatibles | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) |
+| Mods incompatibles | [Target Practice (TP)](/wiki/Gameplay/Game_modifier_(lazer)/Target_Practice_(lazer)), [Classic (CL)](/wiki/Gameplay/Game_modifier_(lazer)/Classic) |
 
 :::
 

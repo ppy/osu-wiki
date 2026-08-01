@@ -26,13 +26,13 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 游戏模式 | ![][osu!mania] |
 | 得分系数 | `1.00x` |
 | 状态 | 计入排名 |
-| 不兼容的模组 | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
+| 不兼容的模组 | [Fade In (FI)](/wiki/Gameplay/Game_modifier_(lazer)/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier_(lazer)/Hidden_(lazer)), [Flashlight (FL)](/wiki/Gameplay/Game_modifier_(lazer)/Flashlight_(lazer)) |
 
 :::
 
 *对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-与 [Fade In](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) 和 [Hidden](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 模组类似，**Cover** 模组会隐藏部分游玩区域，但支持自定义隐藏区域的大小。
+与 [Fade In](/wiki/Gameplay/Game_modifier_(lazer)/Fade_In_(lazer)) 和 [Hidden](/wiki/Gameplay/Game_modifier_(lazer)/Hidden_(lazer)) 模组类似，**Cover** 模组会隐藏部分游玩区域，但支持自定义隐藏区域的大小。
 
 ## 自定义
 

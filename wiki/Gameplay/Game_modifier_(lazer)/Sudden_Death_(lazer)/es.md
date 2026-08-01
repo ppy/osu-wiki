@@ -27,7 +27,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Multiplicador de puntuación | `1,00x` |
 | Estado | Clasificado |
-| Mods incompatibles | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
+| Mods incompatibles | [No Fail (NF)](/wiki/Gameplay/Game_modifier_(lazer)/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier_(lazer)/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier_(lazer)/Target_Practice_(lazer)) |
 
 :::
 

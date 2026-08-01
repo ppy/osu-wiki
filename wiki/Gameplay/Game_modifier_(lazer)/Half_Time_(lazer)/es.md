@@ -28,7 +28,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Multiplicador de puntuación | `0,30x*` |
 | Estado | Clasificado |
-| Mods incompatibles | [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
+| Mods incompatibles | [Daycore (DC)](/wiki/Gameplay/Game_modifier_(lazer)/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier_(lazer)/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier_(lazer)/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier_(lazer)/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier_(lazer)/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier_(lazer)/Wind_Down) |
 
 :::
 
@@ -47,7 +47,7 @@ El mod **Half Time** reduce el BPM de cualquier beatmap al 75 %, aumentando la
 ![Opciones de personalización del mod Half Time en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/HT.png)
 
 - **Speed decrease** (0,50x-0,99x, predeterminado: 0,75x): La velocidad a la que se jugará el mapa.
-- **Adjust pitch** (desactivado de forma predeterminada): Cambia la frecuencia de audio dependiendo de la velocidad elegida. Activar esta opción no hace que la jugada no sea clasificada. (Activar el ajuste de tono con la velocidad predeterminada tendrá el mismo efecto que [Daycore](/wiki/Gameplay/Game_modifier/Daycore)).
+- **Adjust pitch** (desactivado de forma predeterminada): Cambia la frecuencia de audio dependiendo de la velocidad elegida. Activar esta opción no hace que la jugada no sea clasificada. (Activar el ajuste de tono con la velocidad predeterminada tendrá el mismo efecto que [Daycore](/wiki/Gameplay/Game_modifier_(lazer)/Daycore)).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

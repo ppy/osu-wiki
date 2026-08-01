@@ -27,7 +27,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 游戏模式 | ![][osu!] ![][osu!taiko] |
 | 得分系数 | `1.00x` |
 | 状态 | 计入排名 |
-| 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate) |
+| 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier_(lazer)/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier_(lazer)/Relax_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier_(lazer)/Alternate) |
 
 :::
 

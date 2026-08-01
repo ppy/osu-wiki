@@ -28,7 +28,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] |
 | Multiplicador de puntuación | `0,10x` |
 | Estado | No clasificado |
-| Mods incompatibles | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) |
+| Mods incompatibles | [Autoplay (AT)](/wiki/Gameplay/Game_modifier_(lazer)/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier_(lazer)/Autopilot_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier_(lazer)/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier_(lazer)/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier_(lazer)/Magnetised), [Moving Fast (MF)](/wiki/Gameplay/Game_modifier_(lazer)/Moving_Fast) |
 
 :::
 

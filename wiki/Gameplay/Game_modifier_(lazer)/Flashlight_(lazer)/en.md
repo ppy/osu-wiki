@@ -28,9 +28,9 @@ tags:
 | Score multiplier ![][osu!] ![][osu!taiko] ![][osu!catch] | `1.12x` |
 | Score multiplier ![][osu!mania] | `1.00x` |
 | Status | Ranked |
-| Incompatible mods ![][osu!] | [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
+| Incompatible mods ![][osu!] | [Blinds (BL)](/wiki/Gameplay/Game_modifier_(lazer)/Blinds), [Bloom (BM)](/wiki/Gameplay/Game_modifier_(lazer)/Bloom) |
 | Incompatible mods ![][osu!taiko] ![][osu!catch] | None |
-| Incompatible mods ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover) |
+| Incompatible mods ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier_(lazer)/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier_(lazer)/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier_(lazer)/Cover) |
 
 :::
 

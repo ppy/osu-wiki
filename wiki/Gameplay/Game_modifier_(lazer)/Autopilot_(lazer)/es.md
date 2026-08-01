@@ -28,7 +28,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] |
 | Multiplicador de puntuación | `0,10x` |
 | Estado | No clasificado |
-| Mods incompatibles | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) |
+| Mods incompatibles | [Autoplay (AT)](/wiki/Gameplay/Game_modifier_(lazer)/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier_(lazer)/Relax_(lazer)), [Spun Out (SO)](/wiki/Gameplay/Game_modifier_(lazer)/Spun_Out_(lazer)), [Magnetised (MG)](/wiki/Gameplay/Game_modifier_(lazer)/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier_(lazer)/Repel), [Touch Device (TD)](/wiki/Gameplay/Game_modifier_(lazer)/Touch_Device_(lazer)) |
 
 :::
 

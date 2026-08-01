@@ -26,7 +26,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!mania] |
 | Multiplicador de puntuación | `0,90x` |
 | Estado | No clasificado |
-| Mods incompatibles | [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert), [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
+| Mods incompatibles | [Invert (IN)](/wiki/Gameplay/Game_modifier_(lazer)/Invert), [Hold Off (HO)](/wiki/Gameplay/Game_modifier_(lazer)/Hold_Off) |
 
 :::
 

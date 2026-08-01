@@ -26,8 +26,8 @@ outdated_since: e215e80e13e95487022e1aa1c68caf338f3ceb04
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | 得分系数 | `1.00x` |
 | 状态 | 计入排名 |
-| 不兼容的模组 ![][osu!] ![][osu!catch] ![][osu!mania] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
-| 不兼容的模组 ![][osu!taiko] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
+| 不兼容的模组 ![][osu!] ![][osu!catch] ![][osu!mania] | [Easy (EZ)](/wiki/Gameplay/Game_modifier_(lazer)/Easy_(lazer)), [No Fail (NF)](/wiki/Gameplay/Game_modifier_(lazer)/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier_(lazer)/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)) |
+| 不兼容的模组 ![][osu!taiko] | [No Fail (NF)](/wiki/Gameplay/Game_modifier_(lazer)/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier_(lazer)/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)) |
 
 :::
 

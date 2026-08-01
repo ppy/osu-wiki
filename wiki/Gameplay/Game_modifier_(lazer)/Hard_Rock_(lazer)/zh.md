@@ -30,8 +30,8 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 得分系数 ![][osu!mania] | `1.00x` |
 | 状态 ![][osu!] ![][osu!taiko] ![][osu!catch] | 计入排名 |
 | 状态 ![][osu!mania] | 不计入排名 |
-| 不兼容的模组 ![][osu!] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust), [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror_(lazer)) |
-| 不兼容的模组 ![][osu!taiko] ![][osu!catch] ![][osu!mania] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
+| 不兼容的模组 ![][osu!] | [Easy (EZ)](/wiki/Gameplay/Game_modifier_(lazer)/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier_(lazer)/Difficulty_Adjust), [Mirror (MR)](/wiki/Gameplay/Game_modifier_(lazer)/Mirror_(lazer)) |
+| 不兼容的模组 ![][osu!taiko] ![][osu!catch] ![][osu!mania] | [Easy (EZ)](/wiki/Gameplay/Game_modifier_(lazer)/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier_(lazer)/Difficulty_Adjust) |
 
 :::
 

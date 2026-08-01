@@ -23,7 +23,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | `0.50x` |
 | Status | Unranked |
-| Incompatible mods | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| Incompatible mods | [Autoplay (AT)](/wiki/Gameplay/Game_modifier_(lazer)/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier_(lazer)/Relax_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier_(lazer)/Autopilot_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier_(lazer)/Transform), [Wiggle (WG)](/wiki/Gameplay/Game_modifier_(lazer)/Wiggle), [Repel (RP)](/wiki/Gameplay/Game_modifier_(lazer)/Repel), [Bubbles (BU)](/wiki/Gameplay/Game_modifier_(lazer)/Bubbles), [Depth (DP)](/wiki/Gameplay/Game_modifier_(lazer)/Depth) |
 
 :::
 
@@ -31,7 +31,7 @@ tags:
 **Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-When using **Magnetised**, all [hit objects](/wiki/Gameplay/Hit_object) automatically move towards the cursor, making them easier to hit. It acts as the opposite of the [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel) mod.
+When using **Magnetised**, all [hit objects](/wiki/Gameplay/Hit_object) automatically move towards the cursor, making them easier to hit. It acts as the opposite of the [Repel (RP)](/wiki/Gameplay/Game_modifier_(lazer)/Repel) mod.
 
 ## Customisation
 

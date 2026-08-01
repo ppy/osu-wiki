@@ -25,7 +25,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Multiplicador de puntuación | `0,50x` |
 | Estado | No clasificado |
-| Mods incompatibles | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
+| Mods incompatibles | [Easy (EZ)](/wiki/Gameplay/Game_modifier_(lazer)/Easy_(lazer)), [Hard Rock (HR)](/wiki/Gameplay/Game_modifier_(lazer)/Hard_Rock_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier_(lazer)/Target_Practice_(lazer)) |
 
 :::
 

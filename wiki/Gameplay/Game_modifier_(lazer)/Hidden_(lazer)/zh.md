@@ -31,8 +31,8 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 得分系数 ![][osu!] ![][osu!taiko] ![][osu!catch] | `1.06x` |
 | 得分系数 ![][osu!mania] | `1.00x` |
 | 状态 | 计入排名 |
-| 不兼容的模组 ![][osu!] | [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
-| 不兼容的模组 ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
+| 不兼容的模组 ![][osu!] | [Traceable (TC)](/wiki/Gameplay/Game_modifier_(lazer)/Traceable), [Spin In (SI)](/wiki/Gameplay/Game_modifier_(lazer)/Spin_In), [Approach Different (AD)](/wiki/Gameplay/Game_modifier_(lazer)/Approach_Different), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier_(lazer)/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier_(lazer)/Depth) |
+| 不兼容的模组 ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier_(lazer)/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier_(lazer)/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier_(lazer)/Flashlight_(lazer)) |
 
 :::
 

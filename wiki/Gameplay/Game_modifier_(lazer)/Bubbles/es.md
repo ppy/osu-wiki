@@ -25,7 +25,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] |
 | Multiplicador de puntuación | `1,00x` |
 | Estado | No clasificado |
-| Mods incompatibles | [Barrel Roll (BR)](/wiki/Gameplay/Game_modifier/Barrel_Roll), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel) |
+| Mods incompatibles | [Barrel Roll (BR)](/wiki/Gameplay/Game_modifier_(lazer)/Barrel_Roll), [Magnetised (MG)](/wiki/Gameplay/Game_modifier_(lazer)/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier_(lazer)/Repel) |
 
 :::
 

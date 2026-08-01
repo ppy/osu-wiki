@@ -25,7 +25,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 游戏模式 | ![][osu!] |
 | 得分系数 | `1.00x` |
 | 状态 | 不计入排名 |
-| 不兼容的模组 | [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| 不兼容的模组 | [Spin In (SI)](/wiki/Gameplay/Game_modifier_(lazer)/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier_(lazer)/Grow), [Traceable (TC)](/wiki/Gameplay/Game_modifier_(lazer)/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier_(lazer)/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier_(lazer)/Depth) |
 
 :::
 

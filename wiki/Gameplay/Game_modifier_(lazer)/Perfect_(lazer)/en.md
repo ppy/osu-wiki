@@ -24,7 +24,7 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Score multiplier | `1.00x` |
 | Status | Ranked |
-| Incompatible mods | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
+| Incompatible mods | [No Fail (NF)](/wiki/Gameplay/Game_modifier_(lazer)/No_Fail_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier_(lazer)/Sudden_Death_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier_(lazer)/Accuracy_Challenge), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)) |
 
 :::
 
@@ -49,7 +49,7 @@ Any combination of the above settings produces rankable scores.
 
 ## Trivia
 
-- When using Perfect in combination with [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), the extra lives are taken into account, allowing the player to get a few non-perfect hits before failing and then possibly submit the score.
+- When using Perfect in combination with [Easy (EZ)](/wiki/Gameplay/Game_modifier_(lazer)/Easy_(lazer)), the extra lives are taken into account, allowing the player to get a few non-perfect hits before failing and then possibly submit the score.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

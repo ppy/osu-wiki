@@ -26,7 +26,7 @@ tags:
 | Score multiplier | `1.00x` |
 | Status ![][osu!] ![][osu!catch] | Unranked |
 | Status ![][osu!mania] | Ranked |
-| Incompatible mods ![][osu!] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) |
+| Incompatible mods ![][osu!] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier_(lazer)/Hard_Rock_(lazer)) |
 | Incompatible mods ![][osu!catch] ![][osu!mania] | None |
 
 :::
@@ -49,7 +49,7 @@ This mod can only be customised in the osu! game mode.
 
 - `Flipped axes` (default: Horizontal): Which axes the [hit objects](/wiki/Gameplay/Hit_object) should be mirrored on.
   - `Horizontal`: Flip the playfield horizontally.
-  - `Vertical`: Flip the playfield vertically. (This is what [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) does.)
+  - `Vertical`: Flip the playfield vertically. (This is what [Hard Rock (HR)](/wiki/Gameplay/Game_modifier_(lazer)/Hard_Rock_(lazer)) does.)
   - `Both`: Flip the playfield horizontally and vertically.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

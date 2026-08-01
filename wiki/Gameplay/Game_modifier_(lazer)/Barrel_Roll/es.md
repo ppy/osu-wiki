@@ -25,7 +25,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] |
 | Multiplicador de puntuación | `1,00x` |
 | Estado | No clasificado |
-| Mods incompatibles | [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) |
+| Mods incompatibles | [Bubbles (BU)](/wiki/Gameplay/Game_modifier_(lazer)/Bubbles) |
 
 :::
 

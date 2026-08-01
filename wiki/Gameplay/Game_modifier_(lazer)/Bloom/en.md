@@ -22,7 +22,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | `1.00x` |
 | Status | Unranked |
-| Incompatible mods | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)), [No Scope (NS)](/wiki/Gameplay/Game_modifier/No_Scope), [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) |
+| Incompatible mods | [Flashlight (FL)](/wiki/Gameplay/Game_modifier_(lazer)/Flashlight_(lazer)), [No Scope (NS)](/wiki/Gameplay/Game_modifier_(lazer)/No_Scope), [Touch Device (TD)](/wiki/Gameplay/Game_modifier_(lazer)/Touch_Device_(lazer)) |
 
 :::
 

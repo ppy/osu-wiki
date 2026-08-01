@@ -28,7 +28,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!mania] |
 | Multiplicador de puntuación | `1,00x` |
 | Estado | Clasificado |
-| Mods incompatibles | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
+| Mods incompatibles | [Hidden (HD)](/wiki/Gameplay/Game_modifier_(lazer)/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier_(lazer)/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier_(lazer)/Flashlight_(lazer)) |
 
 :::
 

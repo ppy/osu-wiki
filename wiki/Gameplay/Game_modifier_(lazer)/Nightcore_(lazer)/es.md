@@ -27,7 +27,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Multiplicador de puntuación ![][osu!] ![][osu!taiko] ![][osu!catch] | `1,10x*` |
 | Multiplicador de puntuación ![][osu!mania] | `1,00x` |
 | Estado | Clasificado |
-| Mods incompatibles | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
+| Mods incompatibles | [Half Time (HT)](/wiki/Gameplay/Game_modifier_(lazer)/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier_(lazer)/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier_(lazer)/Double_Time_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier_(lazer)/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier_(lazer)/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier_(lazer)/Wind_Down) |
 
 :::
 
@@ -39,7 +39,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-El mod **Nightcore** se comporta exactamente igual que [Double Time](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) en cuanto a cambios de velocidad y ajustes de dificultad. Sin embargo, aumenta específicamente la frecuencia del audio en un 150 % sin ofrecer la opción de ajuste de tono en los ajustes de personalización.
+El mod **Nightcore** se comporta exactamente igual que [Double Time](/wiki/Gameplay/Game_modifier_(lazer)/Double_Time_(lazer)) en cuanto a cambios de velocidad y ajustes de dificultad. Sin embargo, aumenta específicamente la frecuencia del audio en un 150 % sin ofrecer la opción de ajuste de tono en los ajustes de personalización.
 
 ## Personalización
 

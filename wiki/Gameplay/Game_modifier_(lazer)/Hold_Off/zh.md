@@ -25,7 +25,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 游戏模式 | ![][osu!mania] |
 | 得分系数 | `0.90x` |
 | 状态 | 不计入排名 |
-| 不兼容的模组 | [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release), [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert) |
+| 不兼容的模组 | [No Release (NR)](/wiki/Gameplay/Game_modifier_(lazer)/No_Release), [Invert (IN)](/wiki/Gameplay/Game_modifier_(lazer)/Invert) |
 
 :::
 

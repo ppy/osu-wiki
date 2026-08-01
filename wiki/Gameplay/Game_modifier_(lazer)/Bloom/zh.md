@@ -24,7 +24,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 游戏模式 | ![][osu!] |
 | 得分系数 | `1.00x` |
 | 状态 | 不计入排名 |
-| 不兼容的模组 | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)), [No Scope (NS)](/wiki/Gameplay/Game_modifier/No_Scope), [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) |
+| 不兼容的模组 | [Flashlight (FL)](/wiki/Gameplay/Game_modifier_(lazer)/Flashlight_(lazer)), [No Scope (NS)](/wiki/Gameplay/Game_modifier_(lazer)/No_Scope), [Touch Device (TD)](/wiki/Gameplay/Game_modifier_(lazer)/Touch_Device_(lazer)) |
 
 :::
 

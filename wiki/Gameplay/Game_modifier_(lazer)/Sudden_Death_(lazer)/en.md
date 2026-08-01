@@ -25,8 +25,8 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Score multiplier | `1.00x` |
 | Status | Ranked |
-| Incompatible mods ![][osu!] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
-| Incompatible mods ![][osu!taiko] ![][osu!catch] ![][osu!mania] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
+| Incompatible mods ![][osu!] | [No Fail (NF)](/wiki/Gameplay/Game_modifier_(lazer)/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier_(lazer)/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier_(lazer)/Target_Practice_(lazer)) |
+| Incompatible mods ![][osu!taiko] ![][osu!catch] ![][osu!mania] | [No Fail (NF)](/wiki/Gameplay/Game_modifier_(lazer)/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier_(lazer)/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)) |
 
 :::
 
@@ -51,7 +51,7 @@ Any combination of the above settings produces rankable scores.
 
 ## Trivia
 
-- When using Sudden Death in combination with [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), the extra lives are taken into account, allowing the player to miss a few times before failing and then possibly submit the score.
+- When using Sudden Death in combination with [Easy (EZ)](/wiki/Gameplay/Game_modifier_(lazer)/Easy_(lazer)), the extra lives are taken into account, allowing the player to miss a few times before failing and then possibly submit the score.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

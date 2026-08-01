@@ -25,7 +25,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] |
 | Multiplicador de puntuación | `1,00x` |
 | Estado | No clasificado |
-| Mods incompatibles | [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| Mods incompatibles | [Spin In (SI)](/wiki/Gameplay/Game_modifier_(lazer)/Spin_In), [Deflate (DF)](/wiki/Gameplay/Game_modifier_(lazer)/Deflate), [Traceable (TC)](/wiki/Gameplay/Game_modifier_(lazer)/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier_(lazer)/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier_(lazer)/Depth) |
 
 :::
 

@@ -25,7 +25,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 游戏模式 | ![][osu!] |
 | 得分系数 | `1.00x` |
 | 状态 | 不计入排名 |
-| 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier_(lazer)/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier_(lazer)/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier_(lazer)/Autopilot_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier_(lazer)/Transform), [Wiggle (WG)](/wiki/Gameplay/Game_modifier_(lazer)/Wiggle), [Magnetised (MG)](/wiki/Gameplay/Game_modifier_(lazer)/Magnetised), [Bubbles (BU)](/wiki/Gameplay/Game_modifier_(lazer)/Bubbles), [Depth (DP)](/wiki/Gameplay/Game_modifier_(lazer)/Depth) |
 
 :::
 

@@ -25,7 +25,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] |
 | Multiplicador de puntuación | `1,00x` |
 | Estado | Clasificado |
-| Mods incompatibles | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| Mods incompatibles | [Hidden (HD)](/wiki/Gameplay/Game_modifier_(lazer)/Hidden_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier_(lazer)/Target_Practice_(lazer)), [Spin In (SI)](/wiki/Gameplay/Game_modifier_(lazer)/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier_(lazer)/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier_(lazer)/Deflate), [Depth (DP)](/wiki/Gameplay/Game_modifier_(lazer)/Depth) |
 
 :::
 

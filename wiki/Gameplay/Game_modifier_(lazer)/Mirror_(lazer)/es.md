@@ -28,7 +28,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Multiplicador de puntuación | `1,00x` |
 | Estado ![][osu!] ![][osu!catch] | No clasificado |
 | Estado ![][osu!mania] | Clasificado |
-| Mods incompatibles ![][osu!] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) |
+| Mods incompatibles ![][osu!] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier_(lazer)/Hard_Rock_(lazer)) |
 | Mods incompatibles ![][osu!catch] ![][osu!mania] | Ninguno |
 
 :::

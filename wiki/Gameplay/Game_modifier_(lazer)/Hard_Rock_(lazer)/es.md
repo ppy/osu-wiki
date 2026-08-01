@@ -30,8 +30,8 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Multiplicador de puntuación ![][osu!mania] | `1,00x` |
 | Estado ![][osu!] ![][osu!taiko] ![][osu!catch] | Clasificado |
 | Estado ![][osu!mania] | No clasificado |
-| Mods incompatibles ![][osu!] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust), [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror_(lazer)) |
-| Mods incompatibles ![][osu!taiko] ![][osu!catch] ![][osu!mania] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
+| Mods incompatibles ![][osu!] | [Easy (EZ)](/wiki/Gameplay/Game_modifier_(lazer)/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier_(lazer)/Difficulty_Adjust), [Mirror (MR)](/wiki/Gameplay/Game_modifier_(lazer)/Mirror_(lazer)) |
+| Mods incompatibles ![][osu!taiko] ![][osu!catch] ![][osu!mania] | [Easy (EZ)](/wiki/Gameplay/Game_modifier_(lazer)/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier_(lazer)/Difficulty_Adjust) |
 
 :::
 
