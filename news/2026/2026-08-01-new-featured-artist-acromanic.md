@@ -13,7 +13,7 @@ Drawing influence from the complex electronic soundscapes of *squarepusher* and 
 
 In other words, **acromanic** produces **acromanic**'s take on drum & bass. It's pretty cool stuff, so that's why **acromanic** is wearing the Featured Artist hat today.
 
-Totaling **8** tracks, [**acromanic**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/555) has the `.osz` template you've been waiting your whole life for. Follow your dreams (assuming you've been dreaming of designing a map since birth).
+Totalling **8** tracks, [**acromanic**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/555) has the `.osz` template you've been waiting your whole life for. Follow your dreams (assuming you've been dreaming of designing a map since birth).
 
 Check out the bits of **acromanic** that already exist in osu!:
 
