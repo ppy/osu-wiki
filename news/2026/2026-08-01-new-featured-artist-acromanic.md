@@ -19,7 +19,7 @@ Check out the bits of **acromanic** that already exist in osu!:
 
 ### acromanic - (tunneling)
 
-If you're at [COE 2026](https://osu.ppy.sh/wiki/Community/cavoe's_osu!_event/2026), you might've seen [Walavouchey](https://osu.ppy.sh/users/5773079) sprinting around with a camera and gimbal recording circle clickers. [Xella37](https://osu.ppy.sh/users/11783890) was one of those circle clickers showing off their osu!-themed setup while playing [a map](https://osu.ppy.sh/beatmapsets/2535190) mapped by [mapping](https://osu.ppy.sh/users/30730829)!
+If you're at [COE 2026](/wiki/Community/cavoe's_osu!_event/2026), you might've seen [Walavouchey](https://osu.ppy.sh/users/5773079) sprinting around with a camera and gimbal recording circle clickers. [Xella37](https://osu.ppy.sh/users/11783890) was one of those circle clickers showing off their osu!-themed setup while playing [a map](https://osu.ppy.sh/beatmapsets/2535190) mapped by [mapping](https://osu.ppy.sh/users/30730829)!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
