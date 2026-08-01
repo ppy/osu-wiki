@@ -150,7 +150,7 @@ Saturday, 1st of August 2026:
 | --: | :-: | :-: | :-- | :-- |
 | **mrekk** ::{ flag=AU }:: | **6** | 0 | ::{ flag=GB }:: fudge | [#1](https://osu.ppy.sh/multiplayer/rooms/3820424/events) |
 | **MALISZEWSKI** ::{ flag=PL }:: | **6** | 2 | ::{ flag=AU }:: ASecretBox | [#1](https://osu.ppy.sh/multiplayer/rooms/3820909/events) |
-| fudge ::{ flag=GB }:: | 0 | 0 | ::{ flag=AU }:: ASecretBox | [#1](https://osu.ppy.sh/multiplayer/rooms/3823652/events) |
+| fudge ::{ flag=GB }:: | 5 | **6** | ::{ flag=AU }:: **ASecretBox** | [#1](https://osu.ppy.sh/multiplayer/rooms/3823652/events) |
 | mrekk ::{ flag=AU }:: | 0 | 0 | ::{ flag=PL }:: MALISZEWSKI | [#1]() |
 
 Friday, 31st of July 2026:
