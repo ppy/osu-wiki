@@ -54,8 +54,8 @@ You can find more information on these mentors — and apply to them — on the 
 | ::{ flag=CN }:: [sxy62146214](https://osu.ppy.sh/users/8386591) | UTC+8 |
 | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | UTC+8 |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | UTC+9 |
-| ::{ flag=LV }:: [SspoksS](https://osu.ppy.sh/users/14380867) | ? |
-| ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) | ? |
+| ::{ flag=LV }:: [SspoksS](https://osu.ppy.sh/users/14380867) | UTC+3 |
+| ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) | UTC+2 |
 
 You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors).
 
@@ -66,9 +66,9 @@ You can find more information on these mentors — and apply to them — on the 
 | ::{ flag=NL }:: [Linlime](https://osu.ppy.sh/users/14438535) | UTC+2 |
 | ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968) | UTC+8 |
 | ::{ flag=HK }:: [NineSey](https://osu.ppy.sh/users/25454675) | UTC+8 |
-| ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) | ? |
-| ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | ? |
-| ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | ? |
+| ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) | UTC+8 |
+| ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | UTC+8 |
+| ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | UTC+2 |
 
 You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors).
 
@@ -81,11 +81,11 @@ You can find more information on these mentors — and apply to them — on the 
 | ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | osu! | UTC+1 |
 | ::{ flag=DE }:: [-eNVy-](https://osu.ppy.sh/users/10632422) | osu! | UTC+2 |
 | ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | osu! | UTC+8 |
-| ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | osu! | ? |
-| ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | osu!mania | ? |
-| ::{ flag=DE }:: [DizzyOracel](https://osu.ppy.sh/users/32159666) | osu!catch | ? |
-| ::{ flag=KR }:: [SN707](https://osu.ppy.sh/users/31404061) | osu!taiko | ? |
-| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) & ::{ flag=US }:: [pancakespk](https://osu.ppy.sh/users/26131645) | osu! | ? & UTC-7 |
+| ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | osu! | UTC-4 |
+| ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | osu!mania | UTC+8 |
+| ::{ flag=DE }:: [DizzyOracel](https://osu.ppy.sh/users/32159666) | osu!catch | UTC+2 |
+| ::{ flag=KR }:: [SN707](https://osu.ppy.sh/users/31404061) | osu!taiko | UTC+9 |
+| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) & ::{ flag=US }:: [pancakespk](https://osu.ppy.sh/users/26131645) | osu! | UTC-7 |
 
 You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors).
 
