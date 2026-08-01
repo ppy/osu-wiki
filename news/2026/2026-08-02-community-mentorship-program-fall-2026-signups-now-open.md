@@ -5,8 +5,9 @@ date: 2026-08-02 10:00:00 +0000
 series: online_events
 ---
 
-
 The 34th cycle of the Community Mentorship Program is about to begin! Get ready to delve deep into the world of mapping, modding, or storyboarding.
+
+![](/wiki/shared/news/banners/community-mentorship-program.jpg)
 
 The Community Mentorship Program serves as a place for upcoming mappers, modders, and storyboarders to develop their skills under the guidance of more experienced members in the community. If you've ever found yourself wanting to expand your current knowledge, this might just be the opportunity you need.
 
