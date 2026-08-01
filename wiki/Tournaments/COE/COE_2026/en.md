@@ -70,9 +70,9 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | *TBD* |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *TBD* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *TBD* |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: mrekk |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PL }:: MALISZEWSKI |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: ASecretBox |
 
 ## Mappools
 
@@ -151,7 +151,7 @@ Saturday, 1st of August 2026:
 | **mrekk** ::{ flag=AU }:: | **6** | 0 | ::{ flag=GB }:: fudge | [#1](https://osu.ppy.sh/multiplayer/rooms/3820424/events) |
 | **MALISZEWSKI** ::{ flag=PL }:: | **6** | 2 | ::{ flag=AU }:: ASecretBox | [#1](https://osu.ppy.sh/multiplayer/rooms/3820909/events) |
 | fudge ::{ flag=GB }:: | 5 | **6** | ::{ flag=AU }:: **ASecretBox** | [#1](https://osu.ppy.sh/multiplayer/rooms/3823652/events) |
-| mrekk ::{ flag=AU }:: | 0 | 0 | ::{ flag=PL }:: MALISZEWSKI | [#1]() |
+| **mrekk** ::{ flag=AU }:: | **6** | 0 | ::{ flag=PL }:: MALISZEWSKI | [#1](https://osu.ppy.sh/multiplayer/rooms/3824813/events) |
 
 Friday, 31st of July 2026:
 
