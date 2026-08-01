@@ -16,7 +16,7 @@ The new game client makes a lot of changes to both game mechanics and the scorin
 - Notelock is much more lenient.
 - Scores in all game modes cap at 1,000,000 points (+ bonus score), with a vastly overhauled scoring formula.
 
-You can [read about all of the changes on the wiki](/wiki/Help_centre/Upgrading_to_lazer#gameplay-differences), but the point is that to account for scores set with different game mechanics inhabiting the same leaderboards, osu!(stable) scores get the ["Classic" mod (CL)](/wiki/Gameplay/Game_modifier/Classic) applied, which has a 0.96x mod multiplier.
+You can [read about all of the changes on the wiki](/wiki/Help_centre/Upgrading_to_lazer#gameplay-differences), but the point is that to account for scores set with different game mechanics inhabiting the same leaderboards, osu!(stable) scores get the ["Classic" mod (CL)](/wiki/Gameplay/Game_modifier_(lazer)/Classic) applied, which has a 0.96x mod multiplier.
 
 This pushes osu!(stable) scores below roughly equivalent scores set in osu!(lazer). A good example was [brought up on Reddit](https://www.reddit.com/r/osugame/comments/1q95993/osu_lazer_scoring_is_a_joke/) recently — consider the [xi - Blue Zenith (Asphyxia) [FOUR DIMENSIONS]](https://osu.ppy.sh/beatmapsets/292301/#osu/658127) leaderboard:
 
