@@ -36,7 +36,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[Hidden（模组）](/wiki/Gameplay/Game_modifier/Hidden)*\
+*对于该文章的 osu!(stable) 版本，请见：[Hidden（模组）](/wiki/Gameplay/Game_modifier/Hidden)*\
 *对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 **Hidden** 模组移除了[缩圈](/wiki/Gameplay/Hit_object/Approach_circle)，让[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)在屏幕上出现后渐隐。

@@ -32,11 +32,11 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 *对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-**Classic** 模组复刻了 osu!stable 中现已改变的游玩机制。
+**Classic** 模组复刻了 osu!(stable) 中现已改变的游玩机制。
 
 <!-- TODO probably more detail above -->
 
-使用 osu!(lazer) 或启用“Lazer 模式”的网页端查看时，在 osu!stable 上获得的分数会带有默认设置的该模组。在这种情况下，模组不计入排名的状态不会对分数造成影响。
+使用 osu!(lazer) 或启用“Lazer 模式”的网页端查看时，在 osu!(stable) 上获得的分数会带有默认设置的该模组。在这种情况下，模组不计入排名的状态不会对分数造成影响。
 
 <!-- TODO settings -->
 

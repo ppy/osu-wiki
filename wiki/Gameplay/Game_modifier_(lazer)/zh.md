@@ -21,7 +21,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 # 游戏模组 (lazer)
 
-*对于该文章的 osu!stable 版本，请见：[游戏模组](/wiki/Gameplay/Game_modifier)*\
+*对于该文章的 osu!(stable) 版本，请见：[游戏模组](/wiki/Gameplay/Game_modifier)*\
 *对于 "Mod" 一词的其他用法，请见：[Mod（消歧义）](/wiki/Disambiguation/Mod)*
 
 ![](img/mod-select-ZH.jpg "osu! 游戏模式的模组选择界面")

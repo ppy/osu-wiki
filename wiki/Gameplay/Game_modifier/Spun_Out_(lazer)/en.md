@@ -30,7 +30,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Spun Out (mod)](/wiki/Gameplay/Game_modifier/Spun_Out)
+**Note:** For the osu!(stable) version of this article, see [Spun Out (mod)](/wiki/Gameplay/Game_modifier/Spun_Out)
 :::
 
 ::: alert-note

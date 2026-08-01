@@ -34,7 +34,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[Easy（模组）](/wiki/Gameplay/Game_modifier/Easy)*\
+*对于该文章的 osu!(stable) 版本，请见：[Easy（模组）](/wiki/Gameplay/Game_modifier/Easy)*\
 *对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 **Easy** 模组将[谱面](/wiki/Beatmap)的所有难度参数减半，由此尝试降低游戏难度。在除 [osu!taiko](/wiki/Game_mode/osu!taiko) 外的所有[游戏模式](/wiki/Game_mode)中，此模组会给予两条额外“生命”，当[血条](/wiki/Client/Interface/Health_bar)降到零时会立即将其填满。

@@ -30,7 +30,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[Perfect（模组）](/wiki/Gameplay/Game_modifier/Perfect)*\
+*对于该文章的 osu!(stable) 版本，请见：[Perfect（模组）](/wiki/Gameplay/Game_modifier/Perfect)*\
 *对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 **Perfect** 模组在玩家无法获得 SS 评价时自动重试[谱面](/wiki/Beatmap)，包括 Miss 单点或[转盘](/wiki/Gameplay/Hit_object/Spinner)、漏掉[滑条点 (slider tick)](/wiki/Gameplay/Hit_object/Slider/Slider_tick) 或[滑条尾](/wiki/Gameplay/Hit_object/Slider/Slidertail)，以及在任何物件的打击上获得除 GREAT 外的其他判定。

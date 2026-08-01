@@ -35,7 +35,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[Flashlight（模组）](/wiki/Gameplay/Game_modifier/Flashlight)*\
+*对于该文章的 osu!(stable) 版本，请见：[Flashlight（模组）](/wiki/Gameplay/Game_modifier/Flashlight)*\
 *对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 **Flashlight** 模组将游玩区域的可见部分限制到一个较小的光亮区域，正如使用手电筒一般。随着玩家的连击数增加，可见区域会逐渐缩小，直到达到最小大小，具体大小取决于[游戏模式](/wiki/Game_mode)。

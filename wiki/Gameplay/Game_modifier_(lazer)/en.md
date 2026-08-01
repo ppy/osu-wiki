@@ -13,7 +13,7 @@ tags:
 # Game modifier (lazer)
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Game modifier](/wiki/Gameplay/Game_modifier)
+**Note:** For the osu!(stable) version of this article, see [Game modifier](/wiki/Gameplay/Game_modifier)
 :::
 
 ::: alert-note

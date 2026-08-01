@@ -35,7 +35,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[Hard Rock（模组）](/wiki/Gameplay/Game_modifier/Hard_Rock)*\
+*对于该文章的 osu!(stable) 版本，请见：[Hard Rock（模组）](/wiki/Gameplay/Game_modifier/Hard_Rock)*\
 *对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 **Hard Rock** 模组增加[谱面](/wiki/Beatmap)的各方面难度，旨在提高游玩难度。该模组将[圆圈大小 (CS)](/wiki/Beatmap/Circle_size)增加 30%，将[缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)、[掉血速度 (HP)](/wiki/Beatmap/HP_drain_rate)、[总体难度 (OD)](/wiki/Beatmap/Overall_difficulty)各增加 40%，具体情况因选择的[游戏模式](/wiki/Game_mode)而异。

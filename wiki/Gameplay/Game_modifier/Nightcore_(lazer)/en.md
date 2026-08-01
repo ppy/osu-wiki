@@ -31,7 +31,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)
+**Note:** For the osu!(stable) version of this article, see [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)
 :::
 
 ::: alert-note

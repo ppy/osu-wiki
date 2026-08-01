@@ -32,7 +32,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Random (mod)](/wiki/Gameplay/Game_modifier/Random)
+**Note:** For the osu!(stable) version of this article, see [Random (mod)](/wiki/Gameplay/Game_modifier/Random)
 :::
 
 ::: alert-note

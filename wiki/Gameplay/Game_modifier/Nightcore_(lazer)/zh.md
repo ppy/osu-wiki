@@ -31,7 +31,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[Nightcore（模组）](/wiki/Gameplay/Game_modifier/Nightcore)*\
+*对于该文章的 osu!(stable) 版本，请见：[Nightcore（模组）](/wiki/Gameplay/Game_modifier/Nightcore)*\
 *对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 **Nightcore** 模组更改速度与调节难度的行为与 [Double Time](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) 完全一致。但该模组还会将音频频率增加至 150%，而且自定义设置中不会提供音调调节选项。
