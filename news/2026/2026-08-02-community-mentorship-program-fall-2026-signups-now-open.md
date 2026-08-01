@@ -30,9 +30,9 @@ The mentee signups are currently open, and close on the **9th of August**!
 | ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) | UTC-5 |
 | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) | UTC-3.5 |
 | ::{ flag=BR }:: [Neto](https://osu.ppy.sh/users/5099768) | UTC-3 |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | UTC+1 |
-| ::{ flag=ES }:: [flouah](https://osu.ppy.sh/users/8030129) | UTC+1 |
-| ::{ flag=PL }:: [App](https://osu.ppy.sh/users/13650508) | UTC+1 |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | UTC+2 |
+| ::{ flag=ES }:: [flouah](https://osu.ppy.sh/users/8030129) | UTC+2 |
+| ::{ flag=PL }:: [App](https://osu.ppy.sh/users/13650508) | UTC+2 |
 | ::{ flag=DE }:: [-eNVy-](https://osu.ppy.sh/users/10632422) | UTC+2 |
 | ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | UTC+2 |
 | ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | UTC+8 |
@@ -79,7 +79,7 @@ You can find more information on these mentors — and apply to them — on the 
 | :-- | :-- | :-- |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | osu! | UTC-7 |
 | ::{ flag=BR }:: [Neto](https://osu.ppy.sh/users/5099768) | osu! | UTC-3 |
-| ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | osu! | UTC+1 |
+| ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | osu! | UTC+2 |
 | ::{ flag=DE }:: [-eNVy-](https://osu.ppy.sh/users/10632422) | osu! | UTC+2 |
 | ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | osu! | UTC+8 |
 | ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | osu! | UTC-4 |
