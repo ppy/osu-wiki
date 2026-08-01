@@ -146,14 +146,14 @@ The bracket for the offline stage can be found [here](https://liquipedia.net/osu
 
 Saturday, 1st of August 2026:
 
-| Player 1 |  |  | Player 2 | Match time |
+| Player 1 |  |  | Player 2 | Match link/time |
 | --: | :-: | :-: | :-- | :-- |
-| mrekk ::{ flag=DE }:: | 0 | 0 | ::{ flag=GB }:: fudge | 14:00 CEST |
-| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=AU }:: ASecretBox | 15:00 CEST |
-| *Loser of mrekk/fudge* | 0 | 0 | *Loser of MALISZEWSKI/ASecretBox* | 19:30 CEST |
-| *Winner of mrekk/fudge* | 0 | 0 | *Winner of MALISZEWSKI/ASecretBox* | 21:00 CEST |
+| **mrekk** ::{ flag=AU }:: | **6** | 0 | ::{ flag=GB }:: fudge | [#1](https://osu.ppy.sh/multiplayer/rooms/3820424/events) |
+| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=AU }:: ASecretBox | 15:15 CEST |
+| fudge ::{ flag=GB }:: | 0 | 0 | *Loser of MALISZEWSKI/ASecretBox* | 19:30 CEST |
+| mrekk ::{ flag=AU }:: | 0 | 0 | *Winner of MALISZEWSKI/ASecretBox* | 21:00 CEST |
 
-Friday, 31th of July 2026:
+Friday, 31st of July 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
