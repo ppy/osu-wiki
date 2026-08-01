@@ -70,9 +70,9 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: mrekk |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PL }:: MALISZEWSKI |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: ASecretBox |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) |
 
 ## Mappools
 
