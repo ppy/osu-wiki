@@ -64,4 +64,4 @@ Bất kỳ nội dung hình ảnh, video, nội dung trực quan nào mà GMT co
 
 ## Ghi chú
 
-[^drug-nature]: Điều này có thể tùy thuộc vào những trường hợp ngoại lệ theo bản chất của chất cấm, cách sử dụng và tiểu văn hóa của nó, đặc biệt là trong các trường hợp chất cấm đang trải qua quá trình sự phi hình sự hóa nhanh trên toàn cầu và luật lệ như đối với cần sa. Việc yêu cầu một ngoại lệ cụ thể cho quy tắc này nên được thực hiện bằng cách liên hệ với [đội ngũ hỗ trợ osu!](/wiki/People/Account_support_team) qua [support@ppy.sh](mailto:support@ppy.sh).
+[^drug-nature]: Điều này có thể tùy thuộc vào các trường hợp ngoại lệ theo bản chất của chất cấm, cách sử dụng và tiểu văn hóa của nó, đặc biệt là trong các trường hợp chất cấm đang trải qua quá trình sự phi hình sự hóa nhanh trên toàn cầu và luật lệ như đối với cần sa. Việc yêu cầu một ngoại lệ cụ thể cho quy tắc này nên được thực hiện bằng cách liên hệ với [đội ngũ hỗ trợ osu!](/wiki/People/Account_support_team) qua [support@ppy.sh](mailto:support@ppy.sh).
