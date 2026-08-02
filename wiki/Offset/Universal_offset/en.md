@@ -10,7 +10,9 @@ tags:
 **Note:** [Offset](/wiki/Offset).
 :::
 
-*For step-by-step instructions on how to set the universal offset to the correct value, see [How to use the Offset Wizard](/wiki/Guides/How_to_use_the_Offset_Wizard).*
+::: alert-note
+**Note:** For step-by-step instructions on how to set the universal offset to the correct value, see [How to use the Offset Wizard](/wiki/Guides/How_to_use_the_Offset_Wizard).
+:::
 
 **Universal offset** (or **global offset**) is an [option](/wiki/Client/Options) which moves the appearance of [hit objects](/wiki/Gameplay/Hit_object) in relation to the audio in all [beatmaps](/wiki/Beatmap). This can be helpful for players who experience auditory or visual delays. The universal offset works alongside the [local song offset](/wiki/Offset/Local_offset) to calculate a total offset.
 

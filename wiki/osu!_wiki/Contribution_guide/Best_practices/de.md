@@ -4,7 +4,9 @@ Diese Seite beschäftigt sich mit einigen Aufgaben, die beim Beitragen zu erledi
 
 ## Einführung
 
-*Für mehr Informationen über git und GitHub, siehe [GitHub-Dokumentation (auf Englisch)](https://docs.github.com)*
+::: alert-note
+**Anmerkung:** Für mehr Informationen über git und GitHub, siehe [GitHub-Dokumentation (auf Englisch)](https://docs.github.com)
+:::
 
 **Git** ist ein System zur Versionsverwaltung, das dabei hilft, Änderungen an Dateien zu verwalten. Die Daten und Änderungsgeschichte des osu!-Wikis werden in einem Git-Repository gespeichert. **GitHub** ist eine Entwicklungsplattform, die eine Webschnittstelle für Git-Repositorys bietet und eine Reihe von Projektmanagement-Tools bereitstellt.
 

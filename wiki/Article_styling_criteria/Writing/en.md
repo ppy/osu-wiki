@@ -299,7 +299,9 @@ Contractions must not be used.
 
 ### Numbers
 
-*For number formatting, see [Wikipedia's Manual of Style on Number formatting](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Numbers)*
+::: alert-note
+**Note:** For number formatting, see [Wikipedia's Manual of Style on Number formatting](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Numbers)
+:::
 
 [Articles with informal registers](#language-register) may ignore this section; however, usage should stay consistent throughout the entire article.
 

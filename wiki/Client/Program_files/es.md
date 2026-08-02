@@ -68,7 +68,9 @@ La estructura del nombre de los archivos es `screenshot###`, donde «###» es el
 
 La carpeta Skins contiene skins creadas por el usuario, que pueden usarse para personalizar la interfaz del juego. Los jugadores pueden descargar skins desde el [subforo Skinning](https://osu.ppy.sh/community/forums/15). Los jugadores pueden instalar skins haciendo doble clic en la skin desde un administrador de archivos. «osu! by peppy» es la única skin sin carpeta y no se puede borrar.
 
-*Para obtener más información, véase [Skinning](/wiki/Skinning)*
+::: alert-note
+**Nota:** Para obtener más información, véase [Skinning](/wiki/Skinning)
+:::
 
 ### Canciones
 
