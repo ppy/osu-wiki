@@ -304,7 +304,10 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 
 ### osu!
 
-*Remarque : Vous pouvez [télécharger toutes les playlists du mode osu!](https://osu.ppy.sh/beatmaps/packs/1992) sous la forme d'un seul pack de beatmaps.*
+::: alert-notice
+**Note**
+Vous pouvez [télécharger toutes les playlists du mode osu!](https://osu.ppy.sh/beatmaps/packs/1992) sous la forme d'un seul pack de beatmaps.
+:::
 
 #### Playlist A
 
@@ -340,7 +343,10 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 
 ### osu!taiko
 
-*Remarque : Vous pouvez [télécharger toutes les playlists du mode osu!taiko](https://osu.ppy.sh/beatmaps/packs/1993) sous la forme d'un seul pack de beatmaps.*
+::: alert-notice
+**Note**
+Vous pouvez [télécharger toutes les playlists du mode osu!taiko](https://osu.ppy.sh/beatmaps/packs/1993) sous la forme d'un seul pack de beatmaps.
+:::
 
 #### Playlist A
 
@@ -376,7 +382,10 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 
 ### osu!catch
 
-*Remarque : Vous pouvez [télécharger toutes les playlists du mode osu!catch](https://osu.ppy.sh/beatmaps/packs/1994) sous la forme d'un seul pack de beatmaps.*
+::: alert-notice
+**Note**
+Vous pouvez [télécharger toutes les playlists du mode osu!catch](https://osu.ppy.sh/beatmaps/packs/1994) sous la forme d'un seul pack de beatmaps.
+:::
 
 #### Playlist A
 
@@ -412,7 +421,10 @@ Les classements suivants sont également disponibles sur [Google Spreadsheet](ht
 
 ### osu!mania
 
-*Remarque : Vous pouvez [télécharger toutes les playlists du mode osu!taiko](https://osu.ppy.sh/beatmaps/packs/1995) sous la forme d'un seul pack de beatmaps.*
+::: alert-notice
+**Note**
+Vous pouvez [télécharger toutes les playlists du mode osu!taiko](https://osu.ppy.sh/beatmaps/packs/1995) sous la forme d'un seul pack de beatmaps.
+:::
 
 #### Playlist A
 

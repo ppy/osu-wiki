@@ -12,9 +12,17 @@ tags:
 
 ![EZ Modsymbol](/wiki/shared/mods/EZ.png "Easy (EZ) Modsymbol")
 
-*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Easy (lazer-Mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
-*Für andere Bedeutungen, siehe [Easy (Begriffsabgrenzung)](/wiki/Disambiguation/Easy)*\
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Easy (lazer-Mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))
+:::
+
+::: alert-note
+**Anmerkung:** [Easy (Begriffsabgrenzung)](/wiki/Disambiguation/Easy)
+:::
+
+::: alert-note
+**Anmerkung:** Für die vollständige Liste aller Mods, siehe [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Übersicht
 
@@ -45,13 +53,19 @@ In [osu!](/wiki/Game_mode/osu!) verringert die Mod Easy die [Circle-Size (CS)](/
 
 Allerdings ist es erwähnenswert, dass viele Spieler die Verwendung der Mod Easy nicht als hilfreich empfinden, um den relativen Schwierigkeitsgrad von Beatmaps zu verringern, insbesondere welche mit hoher Intensität. Das Argument hierfür lautet, dass die verringerte Approach-Rate eine unübersichtliche, schwer zu lesende Situation schafft, bei der die tatsächliche Geschwindigkeit der Beatmap visuell nicht sehr gut widergespiegelt wird (oben abgebildet).
 
-*Anmerkung: Die oben genannten Punkte werden in der Feature-Anfrage "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)", um die Mod zu verbessern, näher ausgeführt.*
+::: alert-notice
+**Hinweis**
+Die oben genannten Punkte werden in der Feature-Anfrage "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)", um die Mod zu verbessern, näher ausgeführt.
+:::
 
 ### osu!taiko
 
 In [osu!taiko](/wiki/Game_mode/osu!taiko) verringert die Mod Easy die [Slider-Geschwindigkeit](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), die allgemeine Schwierigkeit (OD) und die HP-Drain um die Hälfte.
 
-*Anmerkung: Die Menge der Treffer, die benötigt werden, um einen [Spinner](/wiki/Gameplay/Hit_object/Spinner) zu vervollständigen, wird auf den Wert der OD reduziert.*
+::: alert-notice
+**Hinweis**
+Die Menge der Treffer, die benötigt werden, um einen [Spinner](/wiki/Gameplay/Hit_object/Spinner) zu vervollständigen, wird auf den Wert der OD reduziert.
+:::
 
 Im Gegensatz zu anderen Spielmodi reduziert die Verwendung der Mod Easy in osu!taiko die erforderliche Punktzahl, um Gesundheit zu generieren. Dadurch füllt sich die Lebensleiste viel schneller anstatt, dass zwei zusätzliche "Leben" hinzugefügt werden, da es in osu!taiko unmöglich ist, in der Mitte eines Songs zu scheitern.
 

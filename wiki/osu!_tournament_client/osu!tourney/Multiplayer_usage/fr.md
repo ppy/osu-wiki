@@ -16,7 +16,9 @@ Les noms d'équipe (`Nom de l'équipe 1` et `Nom de l'équipe 2`) peuvent être 
 
 ### Commandes de gestion des tournois
 
-*Page principale : [Commandes de gestion des tournois](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)*
+::: alert-note
+**Page principale** : [Commandes de gestion des tournois](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+:::
 
 Assurez-vous d'attribuer correctement les positions aux joueurs rejoignant la salle en utilisant les commandes `!mp move` et `!mp team`.
 

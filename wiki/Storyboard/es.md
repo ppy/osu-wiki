@@ -9,6 +9,8 @@ Los storyboards se almacenan en las carpetas de los beatmaps como [archivos `.os
 
 ## Storyboarding
 
-*Artículo principal: [Secuencias de comandos para storyboards](/wiki/Storyboard/Scripting)*
+::: alert-note
+**Página principal:** [Secuencias de comandos para storyboards](/wiki/Storyboard/Scripting)
+:::
 
 El *storyboarding* es el proceso de crear un storyboard, donde la persona detrás del proceso se llama *storyboarder*. La creación de storyboards suele ser muy difícil y requiere mucho tiempo y experiencia en animación estándar y creación gráfica. osu! ofrece un [editor incorporado](/wiki/Client/Beatmap_editor/Design) dentro del [editor de beatmaps](/wiki/Client/Beatmap_editor) para ayudar en la creación de storyboards, aunque la mayoría de los storyboarders ávidos optan por programar a través de las [secuencias de comandos](/wiki/Storyboard/Scripting) directamente. Muchos creadores optan por escribir programas en lenguajes de programación completos para generar secuencias de comandos para el storyboard, ya que los efectos visuales complejos pueden requerir una gran cantidad de código en el storyboard para su producción.

@@ -19,7 +19,9 @@ Die Teamnamen (`Team Name 1` und `Team Name 2`) können mit jeglichen Teamnamen 
 
 ### Befehle für das Turnier-Management
 
-*Hauptseite: [Befehle für das Turnier-Management](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)*
+::: alert-note
+**Hauptseite:** [Befehle für das Turnier-Management](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+:::
 
 Denke daran, den Spielern, die den Raum betreten, über die Befehle `!mp move` und `!mp team` die richtigen Slots zuzuweisen.
 
