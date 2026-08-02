@@ -54,12 +54,70 @@ The osu!mania 4K World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team
 
 ## Links
 
-[![Click here to register for MWC 4K 2026](img/register-wiki.png)](https://osu.ppy.sh/community/tournaments/57)
-
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/57)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2225524)
 - [Challonge bracket](https://challonge.com/MWC4K2026)
 - [Livestream](https://www.twitch.tv/osulive)
+
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[Nubbo123](https://osu.ppy.sh/users/18566390)** |
+| ::{ flag=AU }:: | **Australia** | **[nick-haoran](https://osu.ppy.sh/users/29944863)** |
+| ::{ flag=BY }:: | **Belarus** | **[sintezator](https://osu.ppy.sh/users/16316432)** |
+| ::{ flag=BE }:: | **Belgium** | **[Mortelspawn\_](https://osu.ppy.sh/users/5331420)** |
+| ::{ flag=BR }:: | **Brazil** | **[LeMarcinho](https://osu.ppy.sh/users/13347579)** |
+| ::{ flag=CA }:: | **Canada** | **[Sawdust Inhaler](https://osu.ppy.sh/users/18236316)** |
+| ::{ flag=CL }:: | **Chile** | **[myucchii](https://osu.ppy.sh/users/10072733)** |
+| ::{ flag=CN }:: | **China** | **[\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902)** |
+| ::{ flag=CO }:: | **Colombia** | **[RetroLove](https://osu.ppy.sh/users/24598551)** |
+| ::{ flag=HR }:: | **Croatia** | **[brainstorm](https://osu.ppy.sh/users/20846774)** |
+| ::{ flag=CZ }:: | **Czechia** | **[grillroasted](https://osu.ppy.sh/users/18271627)** |
+| ::{ flag=DK }:: | **Denmark** | **[Fejse](https://osu.ppy.sh/users/15584916)** |
+| ::{ flag=DO }:: | **Dominican Republic** | **[\[GS\]Antonio](https://osu.ppy.sh/users/21599285)** |
+| ::{ flag=FI }:: | **Finland** | **[Strachy](https://osu.ppy.sh/users/9663200)** |
+| ::{ flag=FR }:: | **France** | **[DarkMew2](https://osu.ppy.sh/users/13921965)** |
+| ::{ flag=DE }:: | **Germany** | **[Cyaewin](https://osu.ppy.sh/users/10027302)** |
+| ::{ flag=GT }:: | **Guatemala** | **[Maxtulini](https://osu.ppy.sh/users/25345980)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[Kureha\_](https://osu.ppy.sh/users/13471840)** |
+| ::{ flag=IN }:: | **India** | **[better than me](https://osu.ppy.sh/users/26498745)** |
+| ::{ flag=ID }:: | **Indonesia** | **[Reyi](https://osu.ppy.sh/users/13385865)** |
+| ::{ flag=IE }:: | **Ireland** | **[-Nightkore](https://osu.ppy.sh/users/26311862)** |
+| ::{ flag=JP }:: | **Japan** | **[AFOTHER](https://osu.ppy.sh/users/10242062)** |
+| ::{ flag=LT }:: | **Lithuania** | **[Kornjii](https://osu.ppy.sh/users/17147440)** |
+| ::{ flag=MY }:: | **Malaysia** | **[\[MY\] VASD](https://osu.ppy.sh/users/29929002)** |
+| ::{ flag=MX }:: | **Mexico** | **[happergamer](https://osu.ppy.sh/users/15513319)** |
+| ::{ flag=MM }:: | **Myanmar** | **[brochyper](https://osu.ppy.sh/users/18080616)** |
+| ::{ flag=NL }:: | **Netherlands** | **[Polygone](https://osu.ppy.sh/users/22703533)** |
+| ::{ flag=NZ }:: | **New Zealand** | **[Bl1x3r](https://osu.ppy.sh/users/31709045)** |
+| ::{ flag=NO }:: | **Norway** | **[Rushenality](https://osu.ppy.sh/users/24978350)** |
+| ::{ flag=PE }:: | **Peru** | **[Ancuw](https://osu.ppy.sh/users/18342820)** |
+| ::{ flag=PH }:: | **Philippines** | **[LivelyPeninsula](https://osu.ppy.sh/users/11517895)** |
+| ::{ flag=PL }:: | **Poland** | **[bagjettka](https://osu.ppy.sh/users/18338179)** |
+| ::{ flag=PT }:: | **Portugal** | **[yut4a](https://osu.ppy.sh/users/36513815)** |
+| ::{ flag=QA }:: | **Qatar** | **[Chara Undertale](https://osu.ppy.sh/users/13047982)** |
+| ::{ flag=RO }:: | **Romania** | **[Bei](https://osu.ppy.sh/users/14039549)** |
+| ::{ flag=RU }:: | **Russian Federation** | **[Andoris](https://osu.ppy.sh/users/11898245)** |
+| ::{ flag=SG }:: | **Singapore** | **[Koishi Komeijie](https://osu.ppy.sh/users/15763622)** |
+| ::{ flag=SK }:: | **Slovakia** | **[Selcaan](https://osu.ppy.sh/users/26086660)** |
+| ::{ flag=KR }:: | **South Korea** | **[imyeeyee](https://osu.ppy.sh/users/26473894)** |
+| ::{ flag=ES }:: | **Spain** | **[ime](https://osu.ppy.sh/users/11649450)** |
+| ::{ flag=SE }:: | **Sweden** | **[Lemmie](https://osu.ppy.sh/users/11700865)** |
+| ::{ flag=CH }:: | **Switzerland** | **[Tupidix](https://osu.ppy.sh/users/8655604)** |
+| ::{ flag=TW }:: | **Taiwan** | **[hero\_jeff](https://osu.ppy.sh/users/3375226)** |
+| ::{ flag=TH }:: | **Thailand** | **[--Pavin--](https://osu.ppy.sh/users/12046267)** |
+| ::{ flag=TR }:: | **Türkiye** | **[goodpuppygirl69](https://osu.ppy.sh/users/19664675)** |
+| ::{ flag=UA }:: | **Ukraine** | **[FroceST](https://osu.ppy.sh/users/27770813)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[MiniEgg\_23](https://osu.ppy.sh/users/25914360)** |
+| ::{ flag=US }:: | **United States** | **[Minwoo3098](https://osu.ppy.sh/users/18356454)** |
+| ::{ flag=UY }:: | **Uruguay** | **[etterna in osu](https://osu.ppy.sh/users/5243536)** |
+| ::{ flag=VE }:: | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)** |
+| ::{ flag=VN }:: | **Vietnam** | **[TriDoanGaming](https://osu.ppy.sh/users/14009758)** |
+
+Captains are listed in **bold**. Individual team compositions subject to change until **8 August, 23:59 UTC**. This list was last updated on **2 August 2026**.
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45337b779dd7a2db8e4d047bed7f5fd).
 
 ## Ruleset
 
