@@ -15,7 +15,7 @@ And without further ado, let's get started!
 
 [![RandomeLoL](/wiki/shared/news/2026-08-02-community-contributors-2025/randomelol.jpg)](https://osu.ppy.sh/users/7080063)
 
-Once in a blue moon, osu! gets blessed with a super-contributor who dedicates their time and sweat over supporting many of the pillars that holds our community intact.
+Once in a blue moon, osu! gets blessed with a super-contributor who dedicates their sweat, blood, and tears over supporting many of the pillars that holds our community intact.
 
 Over his years of doing everything he can get his hands on, [**RandomeLoL**](https://osu.ppy.sh/users/7080063) has made constant positive impact, whether that is helping with community events, modernising the ranking criteria, organising osu!mania monthly beatmapping contests, or his contributions to Project Loved.
 
