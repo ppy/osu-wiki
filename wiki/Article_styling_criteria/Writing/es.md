@@ -287,7 +287,9 @@ Los [artículos con registros informales](#registro-del-lenguaje) pueden usar co
 
 ### Números
 
-*Para el formato de los números, véase el [manual de estilo de Wikipedia sobre el formato de números](https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo#Números)*
+::: alert-note
+**Nota:** Para el formato de los números, véase el [manual de estilo de Wikipedia sobre el formato de números](https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo#Números)
+:::
 
 Los [artículos con registros informales](#registro-del-lenguaje) pueden ignorar esta sección; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
 
