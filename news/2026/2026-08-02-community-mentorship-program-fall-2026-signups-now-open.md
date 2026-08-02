@@ -100,6 +100,6 @@ You can find more information on these mentors — and apply to them — on the 
 
 You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors).
 
-If you have further questions, don't hesitate to reach out to the organisation team or join our [Discord server](https://discord.gg/EvHqwvD)!
+If you have further questions, don't hesitate to reach out to the organisation team or join our [Discord server](https://discord.com/invite/Ft2FtXmBgx)!
 
 —the Mentorship Organisation Team
