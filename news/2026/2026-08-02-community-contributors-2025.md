@@ -13,6 +13,14 @@ Standing in a seemingly grim online world dominated by an artifical cold atmosph
 
 And without further ado, let's get started!
 
+[![RandomeLoL](/wiki/shared/news/2026-08-02-community-contributors-2025/randomelol.jpg)](https://osu.ppy.sh/users/7080063)
+
+Once in a blue moon, osu! gets blessed with a super-contributor who dedicates their time and sweat over supporting many of the pillars that holds our community intact.
+
+Over his years of doing everything he can get his hands on, [**RandomeLoL**](https://osu.ppy.sh/users/7080063) has made constant positive impact, whether that is helping with community events, modernising the ranking criteria, organising osu!mania monthly beatmapping contests, or his contributions to Project Loved.
+
+Beyond the scope of osu!mania, RandomeLoL has been a steady presence in wiki maintenance, news posts of all genres, and helping to keep NAT discussions on track with a greater goal of clarity and outreach. He's become a household name throughout osu! thanks to his ever-considerate approach and a clear focus on making the spaces he is in better today than yesterday.
+
 [![Dada](/wiki/shared/news/2026-08-02-community-contributors-2025/dada.jpg)](https://osu.ppy.sh/users/9119507)
 
 In osu!, mapping and tournaments often exist as two distinct worlds, each with their own skills, standards, and communities. Few individuals, however, have left a lasting impact on both. [**Dada**](https://osu.ppy.sh/users/9119507) stands firmly among them.
