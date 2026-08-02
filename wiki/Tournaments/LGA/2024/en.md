@@ -336,7 +336,7 @@ Monday, 22 July 2024:
 ### Qualifier information
 
 1. In the Qualifier stage, all players will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 4 brackets: No Mod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time).
+2. The mappool will contain 4 brackets: No Mod, [Hidden](/wiki/Gameplay/Game_modifier_(lazer)/Hidden_(lazer)), [Hard Rock](/wiki/Gameplay/Game_modifier_(lazer)/Hard_Rock_(lazer)), and [Double Time](/wiki/Gameplay/Game_modifier_(lazer)/Double_Time_(lazer)).
 3. The Qualifier pool will feature 11 beatmaps, organised as such:
    - No Mod: 4 beatmaps
    - Hidden: 2 beatmaps
