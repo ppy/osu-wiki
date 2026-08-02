@@ -16,7 +16,7 @@
 - [连击倍率效应](/wiki/Gameplay/Combo_multiplier_effect)
 - [连击提示图](/wiki/Gameplay/Comboburst)
 - [每日挑战](/wiki/Gameplay/Daily_challenge)
-- [难度倍率](/wiki/Gameplay/Score/ScoreV1/osu!#difficulty-multiplier)
+- [难度倍率](/wiki/Gameplay/Score/ScoreV1/osu!#难度倍率)
 - [掉血时间](/wiki/Beatmap/Drain_time)
 - [手指锁 (Fingerlock)](/wiki/Gameplay/Fingerlock)
 - [全连](/wiki/Gameplay/Full_combo)
