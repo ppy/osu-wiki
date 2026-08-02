@@ -35,8 +35,8 @@ tags:
 
 ## 自定义
 
-![游戏客户端中的 Wiggle 自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/WG.png)
+![游戏客户端内的 Wiggle 自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/WG.png)
 
-- `强度` (`Strength`) (0.1–2.0，默认 1.0): 打击物件晃动的强度。
+- `强度` (0.1–2.0，默认 1.0): 打击物件晃动的强度。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

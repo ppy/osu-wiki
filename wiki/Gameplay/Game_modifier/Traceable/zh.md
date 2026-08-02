@@ -34,6 +34,6 @@ tags:
 
 **Traceable** 模组从游戏中移除[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)，使玩家只能看到[缩圈](/wiki/Gameplay/Hit_object/Approach_circle)。该模组的行为与 [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 模组相反。
 
-**该模组不可被自定义。**
+**该模组不支持自定义。**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

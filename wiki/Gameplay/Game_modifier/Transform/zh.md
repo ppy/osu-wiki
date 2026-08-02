@@ -33,6 +33,6 @@ tags:
 
 **Transform** 模组使所有[打击物件](/wiki/Gameplay/Hit_object)出现时，相对于[谱面](/wiki/Beatmap)中的位置稍微偏移（完全取决于[缩圈速度](/wiki/Beatmap/Approach_rate)），随后移动到实际位置供玩家点击。
 
-**该模组不可被自定义。**
+**该模组不支持自定义。**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
