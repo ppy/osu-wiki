@@ -17,7 +17,9 @@ tags:
 
 # Note
 
-*Pour d'autres utilisations, voir [Rank (désambiguïsation)](/wiki/Disambiguation/Rank).*
+::: alert-note
+**Remarque** : Pour d'autres utilisations, voir [Rank (désambiguïsation)](/wiki/Disambiguation/Rank).
+:::
 
 Les **notes** sont un ensemble de lettres représentant la performance d'un joueur sur une [beatmap](/wiki/Beatmap) donnée. Elles accompagnent le [score](/wiki/Gameplay/Score) total sur l'écran des résultats et apparaissent dans toutes les listes aux côtés des scores.
 

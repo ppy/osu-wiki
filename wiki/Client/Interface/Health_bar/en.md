@@ -9,7 +9,9 @@ tags:
 
 # Health bar
 
-*For health as a mechanic, see: [Health](/wiki/Gameplay/Health)*
+::: alert-note
+**Note:** For health as a mechanic, see [Health](/wiki/Gameplay/Health)
+:::
 
 The **health bar** (also known as the *HP bar*) is a bar which displays a player's remaining [health](/wiki/Gameplay/Health). In all [game modes](/wiki/Game_mode) except [osu!mania](/wiki/Game_mode/osu!mania), there is an indicator moving along the health bar that shows a player's current health.
 

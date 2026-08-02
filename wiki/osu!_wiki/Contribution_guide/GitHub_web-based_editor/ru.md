@@ -1,13 +1,21 @@
 # Веб-редактор GitHub
 
-*Примечание: в этой статье указаны сочетания горячих клавиш для Windows.*\
-*См. также: [The github.dev web-based editor - GitHub Docs](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)*
+::: alert-notice
+**Примечание:** в этой статье указаны сочетания горячих клавиш для Windows.
+:::
+
+::: alert-note
+**См. также:** [The github.dev web-based editor - GitHub Docs](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)
+:::
 
 [github.dev](https://github.dev) — это публичная веб-версия [Visual Studio Code](https://code.visualstudio.com), настроенная на работу с GitHub и принадлежащая его владельцам. Она намного удобнее встроенного редактора GitHub и имеет больше инструментов и возможностей. При работе с osu! wiki рекомендуется пользоваться именно github.dev, особенно если вы правите несколько статей сразу.
 
 ## Навигация
 
-*Примечание: чтобы работать с osu! wiki, сначала нужно **[сделать форк репозитория `ppy/osu-wiki`](/wiki/osu!_wiki/Contribution_guide#редактирование-вики).***
+::: alert-notice
+**Внимание**
+чтобы работать с osu! wiki, сначала нужно **[сделать форк репозитория `ppy/osu-wiki`](/wiki/osu!_wiki/Contribution_guide#редактирование-вики).**
+:::
 
 Чтобы открыть osu! wiki в веб-редакторе, откройте форк и либо замените `github.com` в адресе на `github.dev`, либо нажмите на точку (`.`) на клавиатуре.
 

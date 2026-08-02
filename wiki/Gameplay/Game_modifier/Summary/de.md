@@ -4,9 +4,14 @@ no_native_review: true
 
 # Zusammenfassung der Spielmodifikationen
 
-*Hauptseite: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Hauptseite:** [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+:::
 
-*Anmerkung: Alle in osu!mania verwendeten Mods erhöhen niemals den Score-Multiplikator.*
+::: alert-notice
+**Hinweis**
+Alle in osu!mania verwendeten Mods erhöhen niemals den Score-Multiplikator.
+:::
 
 | Mod | Name (Abkürzung) | Multiplikator | Untertitel |
 | :-- | :-- | :-- | :-- |
@@ -35,7 +40,10 @@ no_native_review: true
 
 ## Score-Multiplikator bei der Mod xK
 
-*Hinweis: Diese Tabelle betrifft nur Beatmaps, die von osu! zu osu!mania konvertiert wurden. Das gilt nicht für osu!mania-spezifische Beatmaps!*
+::: alert-notice
+**Hinweis**
+Diese Tabelle betrifft nur Beatmaps, die von osu! zu osu!mania konvertiert wurden. Das gilt nicht für osu!mania-spezifische Beatmaps!
+:::
 
 | Standard/Modifikation | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
@@ -46,7 +54,10 @@ no_native_review: true
 
 ### Score-Multiplikator bei Co-op und Mod xK
 
-*Hinweis: Diese Tabelle betrifft nur Beatmaps, die von osu! zu osu!mania konvertiert wurden. Das gilt nicht für osu!mania-spezifische Beatmaps. Somit verhängt die Mod Co-Op keine Strafe auf osu!mania-spezifischen Beatmaps.*
+::: alert-notice
+**Hinweis**
+Diese Tabelle betrifft nur Beatmaps, die von osu! zu osu!mania konvertiert wurden. Das gilt nicht für osu!mania-spezifische Beatmaps. Somit verhängt die Mod Co-Op keine Strafe auf osu!mania-spezifischen Beatmaps.
+:::
 
 | Standard/Modifikation | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
@@ -57,7 +68,10 @@ no_native_review: true
 
 ## Inverse Mods
 
-*Anmerkung: Alle Mods heben die Mod Target Practice auf.*
+::: alert-notice
+**Hinweis**
+Alle Mods heben die Mod Target Practice auf.
+:::
 
 | Diese Mods... | ...heben diese Mods auf (und umgekehrt). |
 | :-- | :-- |

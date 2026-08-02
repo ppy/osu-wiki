@@ -5,6 +5,8 @@ tags:
   - TouchDevice
   - touchscreen
   - 触摸屏
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Touch Device（lazer 模组）
@@ -24,7 +26,7 @@ tags:
 | 缩写 | TD |
 | 类别 | 系统 |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | 1.00x |
+| 得分系数 | `1.00x` |
 | 状态 | 计入排名 |
 | 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
 

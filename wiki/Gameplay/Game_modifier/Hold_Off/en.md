@@ -21,14 +21,18 @@ tags:
 | Acronym | HO |
 | Type | Conversion |
 | Game modes | ![][osu!mania] |
-| Score multiplier | 0.90x |
+| Score multiplier | `0.90x` |
 | Status | Unranked |
 | Incompatible mods | [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release), [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert) |
 
 :::
 
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
-<!-- TODO description and settings -->
+The **Hold Off** mod removes all [hold notes](/wiki/Beatmap/Pattern/osu!mania/Hold_note) from a [beatmap](/wiki/Beatmap) and replaces their heads with regular notes.
+
+**This mod cannot be customised.**
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

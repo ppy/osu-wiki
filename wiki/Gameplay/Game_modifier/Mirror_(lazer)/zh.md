@@ -2,6 +2,8 @@
 stub: true
 tags:
   - MR
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Mirror（lazer 模组）
@@ -23,7 +25,7 @@ tags:
 | 缩写 | MR |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!] ![][osu!catch] ![][osu!mania] |
-| 得分系数 | 1.00x |
+| 得分系数 | `1.00x` |
 | 状态 ![][osu!] ![][osu!catch] | 不计入排名 |
 | 状态 ![][osu!mania] | 计入排名 |
 | 不兼容的模组 ![][osu!] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) |

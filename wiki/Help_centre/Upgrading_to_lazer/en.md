@@ -425,7 +425,7 @@ You can find it for download [here](https://osu.ppy.sh/home/download). In the ne
 
 #### Is stable going away? Am I going to be forced to switch?
 
-Stable will continue to be maintained as long as users are using it. At very least, it will be maintained for several years.
+Stable will continue to be maintained as long as users are using it. At the very least, it will be maintained for several years.
 
 #### Can I import all my data from stable to lazer?
 

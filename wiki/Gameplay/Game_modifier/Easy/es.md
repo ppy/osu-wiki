@@ -13,9 +13,17 @@ tags:
 
 ![Icono del mod EZ](/wiki/shared/mods/EZ.png "Icono del mod Easy (EZ)")
 
-*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Easy (mod de lazer)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
-*Para otros usos, véase [Easy (desambiguación)](/wiki/Disambiguation/Easy).*\
-*Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Easy (mod de lazer)](/wiki/Gameplay/Game_modifier/Easy_(lazer))
+:::
+
+::: alert-note
+**Nota:** [Easy (desambiguación)](/wiki/Disambiguation/Easy).
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de los mods, véase [Modificadores del juego](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Resumen
 
@@ -46,13 +54,19 @@ En [osu!](/wiki/Game_mode/osu!), el mod disminuye el [tamaño de los círculos (
 
 Sin embargo, vale la pena mencionar que muchos jugadores no consideran que el uso del mod sea útil para disminuir la dificultad relativa de los beatmaps, especialmente los de alta intensidad. El argumento para esto es que la velocidad de aproximación reducida crea una situación complicada y difícil de leer en la que la velocidad real del beatmap no se refleja muy bien visualmente (como se muestra arriba).
 
-*Nota: Los puntos mencionados anteriormente se desarrollan en la solicitud de función «[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606) para mejorar el mod.*
+::: alert-notice
+**Aviso**
+Los puntos mencionados anteriormente se desarrollan en la solicitud de función «[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606) para mejorar el mod.
+:::
 
 ### osu!taiko
 
 En [osu!taiko](/wiki/Game_mode/osu!taiko), el mod reduce la [velocidad de los sliders](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), la dificultad general (OD) y el drenaje de HP a la mitad.
 
-*Nota: La cantidad de golpes que se requieren para terminar un [spinner](/wiki/Gameplay/Hit_object/Spinner) se reduce al valor del OD.*
+::: alert-notice
+**Aviso**
+La cantidad de golpes que se requieren para terminar un [spinner](/wiki/Gameplay/Hit_object/Spinner) se reduce al valor del OD.
+:::
 
 A diferencia de otros modos de juego, usar el mod en osu!taiko reduce el requisito de puntuación de notas para ganar salud, haciendo que la barra de vida se llene mucho más rápido en lugar de agregar dos «vidas» adicionales, ya que es imposible morir en medio de una canción en taiko.
 
