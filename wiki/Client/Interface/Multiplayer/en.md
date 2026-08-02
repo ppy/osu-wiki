@@ -185,7 +185,9 @@ The host can enable `Free Mods` to allow players to freely choose any mod combin
 
 #### Team mode {id=team-mode-match-setup}
 
-*For more information about team modes, see the [gameplay section on team modes](#team-mode-gameplay).*
+::: alert-note
+**Note:** For more information about team modes, see the [gameplay section on team modes](#team-mode-gameplay).
+:::
 
 There are four different ways a match can be played:
 
