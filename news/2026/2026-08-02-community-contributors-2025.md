@@ -61,7 +61,7 @@ Initially starting in 2018 as a tool for creating "cursor dance" beatmap replays
 
 [![tybug](/wiki/shared/news/2026-08-02-community-contributors-2025/tybug.jpg)](https://osu.ppy.sh/users/12092800)
 
-[**tybug**](https://osu.ppy.sh/users/12092800)'s contributions to the game are nothing short of outstanding. Many technically inclined osu! players are aware of tools such as [Circleguard](https://github.com/circleguard/circleguard) or the commonly used Python wrapper for the osu! API [ossapi](https://github.com/Liam-DeVoe/ossapi). Thanks to these tools, community members have since been able to analyse replays and develop more community tools in a much more approachable manner!
+[**tybug**](https://osu.ppy.sh/users/12092800)'s contributions to the game are nothing short of outstanding. Many technically inclined osu! players are aware of tools such as [circleguard](https://github.com/circleguard/circleguard) or the commonly used Python wrapper for the osu! API [ossapi](https://github.com/Liam-DeVoe/ossapi). Thanks to these tools, community members have since been able to analyse replays and develop more community tools in a much more approachable manner!
 
 Speaking of replay analysis, tybug's contributions have improved the game's competitive integrity against foul play by leaps and bounds — even behind the scenes! Not content with just the creation of Circleguard, they gave users in the [osureport subreddit](https://www.reddit.com/r/osureport/) an easier way to review plays and players alike thanks to their [OsuReportBot](https://www.reddit.com/user/OsuReportBot/).
 
@@ -79,9 +79,9 @@ If you've ever encountered a predicament that made you resort to the [Help subfo
 
 While having joined the [Global Moderation Team](/wiki/People/Global_Moderation_Team) 3 years ago, she's been around in the technical support scene for much, much longer. Having assisted thousands of users and answering questions to those in need, all while holding a very admirable presence as a Global Moderator that speaks volumes about her dedication to the community!
 
-[![Civil oath](/wiki/shared/news/2026-08-02-community-contributors-2025/civiloath.jpg)](https://osu.ppy.sh/users/5976108)
+[![Civil oath](/wiki/shared/news/2026-08-02-community-contributors-2025/civiloath.jpg)](https://osu.ppy.sh/users/3216107)
 
-[**Civil oath**](https://osu.ppy.sh/users/5976108) has quietly established himself as one of the most dependable presences across multiple corners of the osu! Community. Having spent the past 5 years as one of the [Global Moderation Team](/wiki/People/Global_Moderation_Team)'s most active members, he's been a constant figure in general moderation efforts, Korean community support, and even the official osu! Twitch channel, helping keep things running smoothly no matter where help was needed.
+[**Civil oath**](https://osu.ppy.sh/users/3216107) has quietly established himself as one of the most dependable presences across multiple corners of the osu! Community. Having spent the past 5 years as one of the [Global Moderation Team](/wiki/People/Global_Moderation_Team)'s most active members, he's been a constant figure in general moderation efforts, Korean community support, and even the official osu! Twitch channel, helping keep things running smoothly no matter where help was needed.
 
 His contributions also extend into Project Loved moderation and, more recently, the technical support space, because apparently being a supermoderator everywhere else wasn't enough already.
 
