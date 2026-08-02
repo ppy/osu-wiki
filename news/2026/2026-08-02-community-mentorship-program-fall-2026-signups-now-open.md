@@ -37,7 +37,7 @@ The mentee signups are currently open, and close on the **9th of August**!
 | ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | UTC+2 |
 | ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | UTC+8 |
 
-You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors).
+You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors?closed=&track=1).
 
 ## osu!taiko
 
@@ -46,7 +46,7 @@ You can find more information on these mentors — and apply to them — on the 
 | ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669) | UTC-4 |
 | ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767) | UTC+9 |
 
-You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors).
+You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors?closed=&track=4).
 
 ## osu!catch
 
@@ -58,7 +58,7 @@ You can find more information on these mentors — and apply to them — on the 
 | ::{ flag=LV }:: [SspoksS](https://osu.ppy.sh/users/14380867) | UTC+2 |
 | ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) | UTC+2 |
 
-You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors).
+You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors?closed=&track=7).
 
 ## osu!mania
 
@@ -71,7 +71,7 @@ You can find more information on these mentors — and apply to them — on the 
 | ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | UTC+2 |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | UTC+2 |
 
-You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors).
+You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors?closed=&track=10).
 
 ## Modding
 
@@ -98,7 +98,7 @@ You can find more information on these mentors — and apply to them — on the 
 | ::{ flag=VN }:: [Hokichi](https://osu.ppy.sh/users/6607303) | UTC+7 |
 | ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051) | UTC+8 |
 
-You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors).
+You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors?closed=&track=13).
 
 If you have further questions, don't hesitate to reach out to the organisation team or join our [Discord server](https://discord.com/invite/Ft2FtXmBgx)!
 
