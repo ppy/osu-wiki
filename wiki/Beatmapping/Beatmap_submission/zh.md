@@ -1,13 +1,12 @@
----
-outdated_translation: true
-outdated_since: 37adfc5ef491f9709016f0c4263911d301b0304f
----
-
 # 提交谱面
+
+::: alert-note
+**注:** 对于本文的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，请见：[提交谱面 (lazer)](/wiki/Beatmapping/Beatmap_submission_(lazer))
+:::
 
 制作好的[谱面](/wiki/Beatmap)可以通过[谱面编辑器](/wiki/Client/Beatmap_editor)提交至 osu! 官网上。提交后的谱面就能得到其他玩家的关注，并有机会被标记为 [Ranked](/wiki/Beatmap/Category#ranked) 或 [Loved](/wiki/Beatmap/Category#loved)。
 
-![](img/bss-warning-ZH.png "谱面提交系统的截图")
+![谱面提交系统窗口](img/bss-warning-ZH.png "谱面提交系统窗口")
 
 在编辑器内的`文件`下拉列表中选择`上传地图…`（快捷键：`Ctrl` + `Shift` + `U`）会打开**谱面提交系统**（***Beatmap Submission System***，简写为***BSS***）窗口。窗口中首先会列出一些资源，这些资源可以帮助用户解决与制谱有关的问题、寻求谱面的[反馈](/wiki/Modding)，并确保谱面符合 Ranked 谱面的标准。若在使用系统时遇到问题，请参阅指南[如何解决谱面提交系统的问题](/wiki/Guides/BSS_issues)。
 
@@ -25,7 +24,7 @@ outdated_since: 37adfc5ef491f9709016f0c4263911d301b0304f
 
 ## 限制
 
-若谱面超出了线上文件的难度数量限制或文件大小限制，则会无法上传。文件大小限制基础为 5MB ，谱面长度的每分钟会额外增加 10MB ，上限 100MB 。目前，单个谱面集最多允许上传 128 个难度。
+若谱面超出了线上文件的难度数量限制或文件大小限制，则会无法上传。文件大小限制基础为 5MB，谱面长度的每分钟会额外增加 10MB，上限 100MB。目前，单个谱面集最多允许上传 128 个难度。
 
 用户上传的 Pending 谱面集有数量限制。这个限制受用户拥有 Ranked 谱面集的数量以及当前是否为 [osu!supporter](/wiki/osu!supporter) 影响。非 osu!supporter 用户最多可以上传 4 张待处理谱面集，每拥有 1 张 Ranked 谱面集额外增加 1 张（上限为 4 张），至多 8 张。若是 osu!supporter 则增加至最多可以上传 8 张待处理谱面，每个 Ranked 谱面额外增加 1 张（上限为 12 张），至多 20 张。
 
