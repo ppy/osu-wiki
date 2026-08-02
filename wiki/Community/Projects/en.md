@@ -65,9 +65,11 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_circleguard.png) | [Circleguard](https://github.com/circleguard/circleguard) | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Replay analysis suite for checking potential foul play |
 | ![](img/logo_danser_go.png) | [danser-go](https://github.com/Wieku/danser-go) | ::{ flag=PL }:: [Wiek](https://osu.ppy.sh/users/2584698) | Visualisation tool for osu! beatmaps |
+| ![](img/logo_ordr.png) | [o!rdr](https://osu.ppy.sh/community/forums/topics/1292871) | ::{ flag=FR }:: [MasterIO02](https://osu.ppy.sh/users/12297980) | Website for automatic `.osr` to `.mp4` conversion |
 | ![](img/logo_opentabletdriver.png) | [OpenTabletDriver](https://opentabletdriver.net/) | ::{ flag=DK }:: [gonX](https://osu.ppy.sh/users/5409249) | Low-latency graphics tablet driver for osu! |
 | ![](img/logo_osr2mp4.png) | [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) | ::{ flag=JP }:: [yuitora](https://osu.ppy.sh/users/11401118) | Automatic `.osr` to `.mp4` conversion tool |
 |  | [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143) | ::{ flag=US }:: [LackOfSanity](https://osu.ppy.sh/users/4613296) | Replay analysis suite for determining the cause of a miss |
+| ![](img/logo_rewind.png) | [Rewind](https://osu.ppy.sh/community/forums/topics/1451845) | ::{ flag=GB }:: [abstrakt](https://osu.ppy.sh/users/5773957) | Tool for analysing osu! replays |
 
 ### Livestreaming
 
@@ -151,6 +153,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 |  | [osu! news scheduler](https://osunews.untone.uk) | ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Schedule calendar for the [osu! news feed](https://osu.ppy.sh/home/news) |
 | ![](img/logo_osu_preview.png) | [osu! preview](https://osu.ppy.sh/community/forums/topics/2062759) | ::{ flag=IT }:: [TechnoZamb](https://osu.ppy.sh/users/12958169) | Browser extension for showing beatmap previews |
 | ![](img/logo_osuplus.png) | [osuplus](https://osu.ppy.sh/community/forums/topics/408541) | ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Browser script that adds additional features to the website |
+| ![](img/logo_pp_calculator.png) | [pp calculator](https://osu.ppy.sh/community/forums/topics/1504072) | ::{ flag=GB }:: [abstrakt](https://osu.ppy.sh/users/5773957) | Browser extension for calculating pp |
 
 ### IRC
 
@@ -173,6 +176,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 | ![](img/logo_osustats.png) | [osu!Stats](https://osustats.ppy.sh) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Website for searching specific scores and player statistics |
 | ![](img/logo_osutrack.png) | [osu!track](https://osu.ppy.sh/community/forums/topics/212151) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | Website that allows players to track their progress and see their improvements over time |
 |  | [osu!track (IRC)](https://osu.ppy.sh/community/forums/topics/233167) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | In-game IRC bot of osu!track |
+|  | [osu!track Daily Challenge Stats](https://osu.ppy.sh/community/forums/topics/1986550) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | Website that allows players to track global and personal [daily challenge](https://osu.ppy.sh/wiki/en/Gameplay/Daily_challenge) statistics |
 |  | [osu-pps](https://osu-pps.com) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | Website that calculates how "overweighted" a beatmap's pp output is |
 |  | [RTPP Displayer](https://osu.ppy.sh/community/forums/topics/685031) | ::{ flag=CN }:: [DarkProjector](https://osu.ppy.sh/users/1344395) | Tool for calculating and displaying earned pp on-the-fly |
 
@@ -184,13 +188,13 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 | ![](img/logo_bathbot.png) | [BathBot](https://github.com/MaxOhn/Bathbot) | ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Feature-rich Discord bot with versatile osu! functionalities |
 | ![](img/logo_hwchrs_pick_em.png) | [hwchr's pick'em](https://pickem.hwc.hr/tournaments) | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) | Website that hosts [pick'ems](https://egamersworld.com/blog/egamersworld-pickem-vjofPo3GE7) for osu! tournaments |
 | ![](img/logo_mutualify.png) | [Mutualify](https://mutualify.stanr.info) | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Friend list database for osu! |
+|  | [stats.circleclickers](https://stats.circleclickers.com) | ::{ flag=AT }:: [\] \[](https://osu.ppy.sh/users/13506780) | Real-time osu! user count tracker |
 | ![](img/logo_osekai.png) | [Osekai](https://inex.osekai.net/) | ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Website hosting [medal unlock requirements](/wiki/Medals/Unlock_requirements), alternative ranking leaderboards and more |
 | ![](img/logo_osuwme.png) | [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | [BBCode](/wiki/BBCode) editor with real-time preview for osu! userpages |
 | ![](img/logo_osumatchmaking.png) | [osu!matchmaking](https://discord.com/invite/CehChep) | ::{ flag=RU }:: [Anemic Witch](https://osu.ppy.sh/users/7258536) | Quick and automated multiplayer matches |
 | ![](img/logo_osuplayer.png) | [osu!player](https://osu.ppy.sh/community/forums/topics/660418) | ::{ flag=DE }:: [Founntain](https://osu.ppy.sh/users/5105217) | Media player for osu! beatmaps |
 | ![](img/logo_osustation.png) | [osu!station](https://osu.ppy.sh/community/forums/topics/236417) | ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | On-demand online radio service powered by songs from beatmaps |
 | ![](img/logo_osustuff_play.png) | [osu!Stuff Play](https://play.osustuff.org) | ::{ flag=GB }:: [Mongoose-](https://osu.ppy.sh/users/6331918) | Website that matches players into automated osu! Battle Royale tournaments |
-|  | [stats.circleclickers](https://stats.circleclickers.com) | ::{ flag=AT }:: [\] \[](https://osu.ppy.sh/users/13506780) | Real-time osu! user count tracker |
 
 ### Inactive
 
@@ -241,8 +245,6 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
 |  | [AIBat](https://osu.ppy.sh/community/forums/topics/55305) | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Tool for checking a beatmap's [ranking criteria](/wiki/Ranking_criteria) compliance |
-| ![](img/logo_maniacheck.png) | [ManiaCheck](https://github.com/MChecaH/ManiaCheck) | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Mapset Verifier plugin for checking osu!mania beatmaps |
-|  | [MapsetCheckCatch](https://github.com/Darius-Wattimena/MapsetChecksCatch) | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Mapset Verifier plugin for checking osu!catch beatmaps |
 
 #### Skinning
 
@@ -326,6 +328,8 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
+| ![](img/logo_maniacheck.png) | [ManiaCheck](https://github.com/MChecaH/ManiaCheck) | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Mapset Verifier plugin for checking osu!mania beatmaps |
+|  | [MapsetCheckCatch](https://github.com/Darius-Wattimena/MapsetChecksCatch) | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Mapset Verifier plugin for checking osu!catch beatmaps |
 |  | [Mod Helper](https://osu.ppy.sh/community/forums/topics/527602) | ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669) | [BBCode](/wiki/BBCode) writing assistant for mapping/modding environment |
 |  | [MVTaikoChecks](https://github.com/Hiviexd/MVTaikoChecks) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Mapset Verifier plugin for checking osu!taiko beatmaps |
 
