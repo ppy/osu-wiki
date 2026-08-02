@@ -14,7 +14,7 @@ tags:
 
 Eine **Gastschwierigkeit** (engl. **guest difficulty**, kurz *GD*) ist ein [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty) einer [Beatmap](/wiki/Beatmap), der nicht vom [Besitzer der Beatmap](/wiki/Beatmap/Beatmap_host) erstellt wurde. Eine Gastschwierigkeit kann üblicherweise daran erkannt werden, dass ihr Name den Benutzernamen des Gast-Mappers enthält.
 
-Obwohl es nicht verpflichtend ist, kann es in vielen Situationen vorteilhaft sein, Gastschwierigkeiten zu verwenden, da sie oft komplett unterschiedliche Mapping-Stile enthalten, was das Mapset diversifiziert und dabei hilft, Burnout durch Mapping zu reduzieren. Gastschwierigkeiten werden meistens durch Privatnachrichten zwischen Mappern angefragt, sie können jedoch auch auf andere Weise angefragt werden, z. B. im `#mapping`-Kanal oder in [Modding-Warteschlangen](/wiki/Community/Forum/Modding_Queues).
+Obwohl es nicht verpflichtend ist, kann es in vielen Situationen vorteilhaft sein, Gastschwierigkeiten zu verwenden, da sie oft komplett unterschiedliche Mapping-Stile enthalten, was Abwechselung in die Beatmap bringt und dabei hilft, Burnout durch Mapping zu reduzieren. Gastschwierigkeiten werden meistens durch Privatnachrichten zwischen Mappern angefragt, sie können jedoch auch auf andere Weise angefragt werden, z. B. im `#mapping`-Kanal oder in [Modding-Warteschlangen](/wiki/Community/Forum/Modding_Queues).
 
 Gastschwierigkeiten sind nicht zu verwechseln mit Schwierigkeitsgraden, die von mehreren Mappern erstellt wurden, bekannt als [Kollaborationen](/wiki/Beatmap/Beatmap_collaborations).
 
