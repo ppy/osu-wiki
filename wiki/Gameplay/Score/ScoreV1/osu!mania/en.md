@@ -37,12 +37,12 @@ ModDivider = The punishment divider of the selected mods (see below)
 
 | Judgement | HitValue | HitBonusValue | HitBonus | HitPunishment |
 | :-- | --: | --: | --: | --: |
-| MAX | 320 | 32 | 2 | |
-| 300 | 300 | 32 | 1 | |
-| 200 | 200 | 16 | | 8 |
-| 100 | 100 | 8 | | 24 |
-| 50 | 50 | 4 | | 44 |
-| Miss | 0 | 0 | | ∞ |
+| MAX | 320 | 32 | 2 |  |
+| 300 | 300 | 32 | 1 |  |
+| 200 | 200 | 16 |  | 8 |
+| 100 | 100 | 8 |  | 24 |
+| 50 | 50 | 4 |  | 44 |
+| Miss | 0 | 0 |  | ∞ |
 
 ## Mod multipliers
 
