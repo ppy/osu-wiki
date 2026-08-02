@@ -176,7 +176,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 | ![](img/logo_osustats.png) | [osu!Stats](https://osustats.ppy.sh) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Website for searching specific scores and player statistics |
 | ![](img/logo_osutrack.png) | [osu!track](https://osu.ppy.sh/community/forums/topics/212151) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | Website that allows players to track their progress and see their improvements over time |
 |  | [osu!track (IRC)](https://osu.ppy.sh/community/forums/topics/233167) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | In-game IRC bot of osu!track |
-|  | [osu!track Daily Challenge Stats](https://osu.ppy.sh/community/forums/topics/1986550) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | Website that allows players to track global and personal [daily challenge](https://osu.ppy.sh/wiki/en/Gameplay/Daily_challenge) statistics |
+|  | [osu!track Daily Challenge Stats](https://osu.ppy.sh/community/forums/topics/1986550) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | Website that allows players to track global and personal [daily challenge](/wiki/Gameplay/Daily_challenge) statistics |
 |  | [osu-pps](https://osu-pps.com) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | Website that calculates how "overweighted" a beatmap's pp output is |
 |  | [RTPP Displayer](https://osu.ppy.sh/community/forums/topics/685031) | ::{ flag=CN }:: [DarkProjector](https://osu.ppy.sh/users/1344395) | Tool for calculating and displaying earned pp on-the-fly |
 
