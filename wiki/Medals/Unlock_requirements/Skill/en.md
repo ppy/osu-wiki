@@ -2,14 +2,14 @@
 
 | Medal name | Requirement |
 | :-- | :-- |
-| 500 Combo | Achieve 500 combo on a beatmap in any game mode. |
-| 750 Combo | Achieve 750 combo on a beatmap in any game mode. |
-| 1000 Combo | Achieve 1000 combo on a beatmap in any game mode. |
-| 2000 Combo | Achieve 2000 combo on a beatmap in any game mode. |
-| I can see the top | Achieve a Global Ranking of #50,000 or higher in any game mode. |
-| The gradual rise | Achieve a Global Ranking of #10,000 or higher in any game mode. |
-| Scaling up | Achieve a Global Ranking of #5,000 or higher in any game mode. |
-| Approaching the summit | Achieve a Global Ranking of #1,000 or higher in any game mode. |
+| 500 Combo | Achieve 500 combo on a beatmap in osu!. |
+| 750 Combo | Achieve 750 combo on a beatmap in osu!. |
+| 1,000 Combo | Achieve 1,000 combo on a beatmap in osu!. |
+| 2,000 Combo | Achieve 2,000 combo on a beatmap in osu!. |
+| I Can See The Top | Achieve a Global Ranking of #50,000 or higher in any game mode. |
+| The Gradual Rise | Achieve a Global Ranking of #10,000 or higher in any game mode. |
+| Scaling Up | Achieve a Global Ranking of #5,000 or higher in any game mode. |
+| Approaching The Summit | Achieve a Global Ranking of #1,000 or higher in any game mode. |
 | Rising Star (osu!)/My First Don (osu!taiko)/A Slice Of Life (osu!catch)/First Steps (osu!mania) | Clear a Qualified, Ranked, or Approved beatmap that lies in the 1.00★–1.99★ star rating range (after all the [difficulty increasing mods](/wiki/Gameplay/Game_modifier#difficulty-increase), if any, have been factored in) in a corresponding game mode. Any usage of [difficulty reducing mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) is not permitted. |
 | Constellation Prize (osu!)/Katsu Katsu Katsu (osu!taiko)/Dashing Ever Forward (osu!catch)/No Normal Player (osu!mania) | Clear a Qualified, Ranked, or Approved beatmap that lies in the 2.00★–2.99★ star rating range (after all the [difficulty increasing mods](/wiki/Gameplay/Game_modifier#difficulty-increase), if any, have been factored in) in a corresponding game mode. Any usage of [difficulty reducing mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) is not permitted. |
 | Building Confidence (osu!)/Not Even Trying (osu!taiko)/Zesty Disposition (osu!catch)/Impulse Drive (osu!mania) | Clear a Qualified, Ranked, or Approved beatmap that lies in the 3.00★–3.99★ star rating range (after all the [difficulty increasing mods](/wiki/Gameplay/Game_modifier#difficulty-increase), if any, have been factored in) in a corresponding game mode. Any usage of [difficulty reducing mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) is not permitted. |
@@ -30,3 +30,4 @@
 | Aberration (osu!)/The Drummer's Throne (osu!taiko)/Dashing Scarlet (osu!catch)/Behind The Veil (osu!mania) | Full combo any Qualified, Ranked, or Approved beatmap that lies in the 8.00★–8.99★ star rating range (after all the [difficulty increasing mods](/wiki/Gameplay/Game_modifier#difficulty-increase), if any, have been factored in) in a corresponding game mode. Any usage of [difficulty reducing mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) is not permitted. |
 | Chosen | Full combo any Qualified, Ranked, or Approved beatmap that lies in the 9.00★–9.99★ star rating range (after all the [difficulty increasing mods](/wiki/Gameplay/Game_modifier#difficulty-increase), if any, have been factored in) in the osu! game mode. Any usage of [difficulty reducing mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) is not permitted. |
 | Unfathomable | Full combo any Qualified, Ranked, or Approved beatmap that lies in the 10.00★–10.99★ star rating range (after all the [difficulty increasing mods](/wiki/Gameplay/Game_modifier#difficulty-increase), if any, have been factored in) in the osu! game mode. Any usage of [difficulty reducing mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) is not permitted. |
+| Cyclone | Reach 477 spins per minute on a spinner. This medal can only be achieved in [osu!(lazer)](/wiki/Client/Release_stream/Lazer). |

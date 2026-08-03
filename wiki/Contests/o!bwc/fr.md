@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f547b4d7054a87e98ce80b3a5cce816d4e6c9280
+---
+
 # osu! Beatmapping World Championship
 
 *Auparavant, osu! Mapping World Cup.*

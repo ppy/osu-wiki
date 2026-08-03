@@ -95,4 +95,4 @@ En raras situaciones, el [equipo de soporte de cuentas](/wiki/People/Account_sup
 ![](img/tourney-ban-profile-ES.png "Un usuario con un veto de los torneos en su perfil")
 :::
 
-Los vetos indefinidos de los torneos y los vetos que se han aplicado por medios distintos a los [términos de apelación estándar](/wiki/Help_centre/Account_restrictions#appeal-granted) son visibles en el perfil del usuario mientras estén activos. Otras sanciones impuestas (por ejemplo, periodos de probación, vetos para organizar torneos y vetos para formar parte del personal) no se muestran públicamente de esta manera.
+Los vetos indefinidos de los torneos y los vetos que se han aplicado por medios distintos a los [términos de apelación estándar](/wiki/Help_centre/Account_restrictions#appeal-granted) son visibles en el perfil del usuario durante todo el tiempo que dure el veto en cuestión, más **28 días** adicionales tras su expiración. Otras sanciones impuestas (por ejemplo, periodos de probación, vetos para organizar torneos y vetos para formar parte del personal) no se muestran públicamente de esta manera.

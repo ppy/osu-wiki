@@ -3,8 +3,7 @@ tags:
   - note lock
   - jittering notes
   - shaking notes
-outdated_translation: true
-outdated_since: f7cbc75d791851f46f088d238af0ad050ff5db54
+  - vibrierende Noten
 ---
 
 # Notelock
@@ -32,3 +31,11 @@ Da Objekte in regulären osu! Beatmaps in chronologischer Reihenfolge getroffen 
 ## Vorbeugung
 
 Aus der Sicht eines Mappers könnte ein Notelock verhindert werden, indem der OD-Wert eines [Schwierigkeitsgrads](/wiki/Beatmap/Difficulty) entsprechend der Objektdichte und BPM sorgfältig ausgewählt wird. Bei Beatmaps mit einer BPM von 200 oder höher wird eine OD von 5 oder höher empfohlen. Eine detailliertere Aufschlüsselung findet sich in der Anleitung "[Notelock bei hoher BPM vermeiden](https://osu.ppy.sh/community/forums/topics/334458)".
+
+## Notelock in osu!(lazer)
+
+Im Vergleich zu osu!(stable) ist Notelock kulanter in osu!(lazer). Dazu wurde das Zeitfenster großzügig erweitert: Sobald das erste Hit-Objekt das Offset 0 ms erreicht, ist das nächste Objekt nicht mehr gesperrt und man kann es sofort anklicken. Kurzum, späte Treffer für ein vorher verfehltes Objekt haben nicht mehr zur Folge, dass die darauffolgende Note blockiert wird.
+
+![](/wiki/Help_centre/Upgrading_to_lazer/img/notelock.gif)
+
+Mit dieser Änderung können Spieler nach dem Verfehlen eines Hit-Objekts nun leichter auf Beatmaps mit intensiven [Streams](/wiki/Beatmap/Pattern/osu!/Stream), [Jumps](/wiki/Beatmap/Pattern/osu!/Jump) oder niedriger [OD](/wiki/Beatmap/Overall_difficulty) weiterspielen.

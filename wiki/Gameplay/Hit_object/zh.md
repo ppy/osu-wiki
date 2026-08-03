@@ -3,6 +3,8 @@ tags:
   - hit objects
   - 打击物件
 needs_cleanup: true
+outdated_translation: true
+outdated_since: ae529c3d01b7067006ddbf21f2e9eadf2bd19192
 ---
 
 # 打击物件

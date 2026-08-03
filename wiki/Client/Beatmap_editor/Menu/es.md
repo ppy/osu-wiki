@@ -74,7 +74,9 @@
 
 ## Composición
 
-*Página principal: [Pestaña compose](/wiki/Client/Beatmap_editor/Compose)*
+::: alert-note
+**Página principal:** [Pestaña compose](/wiki/Client/Beatmap_editor/Compose)
+:::
 
 ![Menú composición](img/M_Compose-ES.png "Menú composición")
 
@@ -90,7 +92,9 @@
 
 ## Diseño
 
-*Página principal: [Pestaña de diseño](/wiki/Client/Beatmap_editor/Design)*
+::: alert-note
+**Página principal:** [Pestaña de diseño](/wiki/Client/Beatmap_editor/Design)
+:::
 
 ![Menú diseño](img/M_Design-ES.png "Menú diseño")
 
@@ -100,7 +104,9 @@
 
 ## Timing
 
-*Página principal: [Pestaña timing](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**Página principal:** [Pestaña timing](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 ![Menú timing](img/M_Timing-ES.png "Menú timing")
 
@@ -126,7 +132,7 @@
 
 | Nombre | Descripción |
 | :-- | :-- |
-| Página de información de este mapa | Abre la página de información del beatmap en el sitio web de osu!. |
+| Página de información de este mapa | Abre la página de [información del beatmap](/wiki/Beatmap_information) en el sitio web de osu!. |
 | Hilo de este mapa | Abre el hilo del foro del beatmap. |
 
 ## Ayuda

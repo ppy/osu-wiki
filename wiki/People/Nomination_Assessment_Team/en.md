@@ -5,7 +5,9 @@ tags:
 
 # Nomination Assessment Team
 
-*See also: [Beatmap Nominator evaluations](Evaluations), [SEV rating](SEV_rating)*
+::: alert-note
+**See also:** [Beatmap Nominator evaluations](Evaluations), [SEV rating](SEV_rating)
+:::
 
 The **Nomination Assessment Team** (***NAT***) is a team that moderates the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) and ensures the beatmapping side of osu! stays functional.
 
@@ -59,7 +61,9 @@ The team leaders will confront inactive NAT members, or members who fail to prov
 
 ## Benefits
 
-*See also: [Departure from the NAT](#departure-from-the-nat)*
+::: alert-note
+**See also:** [Departure from the NAT](#departure-from-the-nat)
+:::
 
 NAT members are granted the following benefits:
 
@@ -120,7 +124,10 @@ The NAT leader aims to cover the following tasks:
 
 ## Team members
 
-*Note: All NAT members speak English in addition to the language(s) listed below unless noted otherwise.*
+::: alert-notice
+**Notice**
+All NAT members speak English in addition to the language(s) listed below unless noted otherwise.
+:::
 
 The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members. In addition to areas mentioned below, all NAT members take part in [reviewing audio and visual content included in beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
 
@@ -141,10 +148,9 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finnish |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
-| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | French, Spanish |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chinese |
-| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
+| ::{ flag=RO }:: [bsm](https://osu.ppy.sh/users/12366071) | Romanian |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | German |
 
@@ -153,9 +159,9 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages |
 | :-- | :-- |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chinese |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonese, Chinese |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portuguese |
-| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | Some German |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
 
 #### osu!catch
@@ -164,7 +170,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- |
 | ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | German |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Korean |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Korean |
 
 #### osu!mania

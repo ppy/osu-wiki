@@ -114,7 +114,9 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor de beatma
 
 ### Storyboards
 
-*Para obtener información sobre la sintaxis de los storyboards, véase [Secuencias de comandos de los storyboards](/wiki/Storyboard/Scripting).*
+::: alert-note
+**Nota:** Para obtener información sobre la sintaxis de los storyboards, véase [Secuencias de comandos de los storyboards](/wiki/Storyboard/Scripting).
+:::
 
 Los storyboards se pueden definir en un archivo de storyboard opcional separado con la extensión `.osb`. Los storyboards externos se comparten entre todas las dificultades en un beatmap.
 
@@ -126,7 +128,7 @@ Cada punto de tiempo influye en una parte específica del mapa, comúnmente llam
 
 *Sintaxis de los puntos de tiempo:* `time,beatLength,meter,sampleSet,sampleIndex,volume,uninherited,effects`
 
-- **`time` (Entero):** Tiempo de inicio de la sección de tiempo, en milisegundos desde el comienzo del audio del beatmap. El final de la sección de tiempo es el tiempo del siguiente punto de tiempo (o nunca, si este es el último punto de tiempo).
+- **`time` (Decimal):** Tiempo de inicio de la sección de tiempo, en milisegundos desde el comienzo del audio del beatmap. El final de la sección de tiempo es el tiempo del siguiente punto de tiempo (o nunca, si este es el último punto de tiempo).
 - **`beatLength` (Decimal):** Esta propiedad tiene dos significados:
   - Para los puntos de tiempo no heredados, la duración de un pulso, en milisegundos.
   - Para los puntos de tiempo heredados, un multiplicador de velocidad del slider inverso negativo, como porcentaje. Por ejemplo, `-50` haría que todos los sliders en esta sección de tiempo fueran el doble de rápidos que `SliderMultiplier`.
@@ -276,7 +278,10 @@ Hay cuatro tipos de curvas de slider en osu!:
 
 Si el valor `lenght` de un slider es mayor que la curva definida, el slider se extenderá en línea recta desde el final de la curva hasta alcanzar la longitud deseada.
 
-*Aviso: el valor `lenght` de un slider se puede usar para determinar el tiempo que lleva completar el slider. `length / (SliderMultiplier * 100 * SV) * beatLength` indica cuántos milisegundos se necesitan para completar una deslizamiento del slider (donde `SV` es el multiplicador de velocidad del slider dado por el punto de tiempo heredado efectivo, o `1` si no hay ninguno).*
+::: alert-notice
+**Aviso**
+el valor `lenght` de un slider se puede usar para determinar el tiempo que lleva completar el slider. `length / (SliderMultiplier * 100 * SV) * beatLength` indica cuántos milisegundos se necesitan para completar una deslizamiento del slider (donde `SV` es el multiplicador de velocidad del slider dado por el punto de tiempo heredado efectivo, o `1` si no hay ninguno).
+:::
 
 #### Hitsounds del slider
 

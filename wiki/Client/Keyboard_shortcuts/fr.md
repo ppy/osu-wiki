@@ -12,7 +12,10 @@ tags:
 
 Il existe de nombreux raccourcis dans osu! qui peuvent être utilisés en jeu ou depuis n'importe quel menu. Ils sont listés ci-dessous avec leurs fonctions.
 
-*Remarque : Cet article répertorie les raccourcis clavier par défaut. Vous pouvez modifier certains d'entre eux dans les [options](/wiki/Client/Options).*
+::: alert-notice
+**Note**
+Cet article répertorie les raccourcis clavier par défaut. Vous pouvez modifier certains d'entre eux dans les [options](/wiki/Client/Options).
+:::
 
 ## Général
 
@@ -64,7 +67,10 @@ Ces raccourcis fonctionnent partout :
 
 ## Sélection des beatmaps
 
-*Remarque : Toutes ces fonctions ne fonctionnent pas dans l'écran de sélection des beatmaps du mode Multi.*
+::: alert-notice
+**Note**
+Toutes ces fonctions ne fonctionnent pas dans l'écran de sélection des beatmaps du mode Multi.
+:::
 
 | Raccourci | Action |
 | :-- | :-- |
@@ -93,9 +99,17 @@ Ces raccourcis fonctionnent partout :
 
 ### Modificateurs de jeu
 
-*Page principale : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
-*Note : Appuyer sur la touche de raccourci la fera Activer/Désactiver. Vous devez être dans le menu des modificateurs du jeu pour utiliser ces raccourcis.*\
-*Remarque : Target practice (osu!), 1K et 2K (osu!mania), Co-op (osu!mania), et Mirror (osu!mania) n'ont pas de raccourcis.*
+::: alert-note
+**Page principale** : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-notice
+**Note** : Appuyer sur la touche de raccourci la fera Activer/Désactiver. Vous devez être dans le menu des modificateurs du jeu pour utiliser ces raccourcis.
+:::
+
+::: alert-notice
+**Remarque** : Target practice (osu!), 1K et 2K (osu!mania), Co-op (osu!mania), et Mirror (osu!mania) n'ont pas de raccourcis.
+:::
 
 | Raccourci | Mod |
 | :-- | :-- |
@@ -145,7 +159,9 @@ Ces raccourcis fonctionnent partout :
 
 ## Éditeur de beatmaps
 
-*Page principale : [Éditeur de beatmaps](/wiki/Client/Beatmap_editor)*
+::: alert-note
+**Page principale** : [Éditeur de beatmaps](/wiki/Client/Beatmap_editor)
+:::
 
 ### Général
 

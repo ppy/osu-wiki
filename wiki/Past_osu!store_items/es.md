@@ -71,8 +71,13 @@ La colección presentaba una variedad de productos como:
 
 ![osu! tablet](img/osu-tablet.jpg)
 
-*Véase también: [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139)*\
-*Para conocer los pasos a seguir para solucionar los problemas relacionados con el producto, véase: [Archivo de la osu!store § osu!tablet](/wiki/Help_centre/Store/Store_archive#osu-tablet)*
+::: alert-note
+**Véase también:** [osu!tablet official thread](https://osu.ppy.sh/community/forums/topics/169139)
+:::
+
+::: alert-note
+**Nota:** Para conocer los pasos a seguir para solucionar los problemas relacionados con el producto, véase [Archivo de la osu!store § osu!tablet](/wiki/Help_centre/Store/Store_archive#osu-tablet)
+:::
 
 La **osu!tablet** era una tableta gráfica oficial de la marca osu! fabricada en colaboración con la empresa de electrónica [HUION](https://www.huion.com/). Fue diseñada por ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) y se lanzó como una alternativa económica para aquellos que querían comprar una tableta gráfica simplemente para jugar a osu!.
 
@@ -86,7 +91,9 @@ La primera versión de 2013 incluía la osu!tablet (blanca), un lápiz con punta
 
 ![Planos para crear un beatmap de osu!](img/osu-beatmap-blueprints.jpg)
 
-*Para leer la noticia, véase: [osu! Beatmap Blueprints Available & Contest Details](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest)*
+::: alert-note
+**Nota:** Para leer la noticia, véase [osu! Beatmap Blueprints Available & Contest Details](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest)
+:::
 
 Los **planos para crear beatmaps de osu!** eran un conjunto de pegatinas reutilizables con varios elementos del juego, como círculos, sliders, círculos de aproximación, [juicios](/wiki/Gameplay/Judgement/osu!) y el propio logo de osu!. El producto se vendió en 2015 como un medio para que los usuarios crearan «beatmaps a tamaño real en la vida real».
 
@@ -96,8 +103,13 @@ Al mismo tiempo que su lanzamiento, se organizó el [Beatmap Blueprint Contest](
 
 ![osu!keyboard](img/osu-keyboard.jpg)
 
-*Para leer la noticia, véase: [osu!weekly #12](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)*\
-*Para conocer los pasos a seguir para solucionar los problemas relacionados con el producto, véase: [Archivo de la osu!store § osu!keyboard](/wiki/Help_centre/Store/Store_archive#osu!keyboard)*
+::: alert-note
+**Nota:** Para leer la noticia, véase [osu!weekly #12](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)
+:::
+
+::: alert-note
+**Nota:** Para conocer los pasos a seguir para solucionar los problemas relacionados con el producto, véase [Archivo de la osu!store § osu!keyboard](/wiki/Help_centre/Store/Store_archive#osu!keyboard)
+:::
 
 El **osu!keyboard**, también conocido como **osu!nono**, era un teclado mecánico de dos botones diseñado específicamente para jugar a osu!. Cada compra del osu!keyboard venía acompañada de [un par de teclas de osu!](http://puu.sh/jnEsK/1153c92c10.png).
 
@@ -107,8 +119,13 @@ El producto se vendió por primera vez en 2015 antes de dejar de comercializarse
 
 ![osu!go](img/osu-go.jpg)
 
-*Para leer la noticia, véase: [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)*\
-*Para conocer los pasos a seguir para solucionar los problemas relacionados con el producto, véase: [Archivo de la osu!store § osu!go](/wiki/Help_centre/Store/Store_archive#osu!go)*
+::: alert-note
+**Nota:** Para leer la noticia, véase [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)
+:::
+
+::: alert-note
+**Nota:** Para conocer los pasos a seguir para solucionar los problemas relacionados con el producto, véase [Archivo de la osu!store § osu!go](/wiki/Help_centre/Store/Store_archive#osu!go)
+:::
 
 El **osu!go** era una robusta memoria USB precargada con el cliente de osu!. Presumía de una velocidad de transferencia cercana a la de las SSD y se diseñó para los jugadores que querían jugar a osu! en cualquier lugar (de ahí su nombre).
 
@@ -118,7 +135,9 @@ El producto se vendió en 2016 junto con la osu!mug.
 
 ![osu!mug](img/osu-mug.jpg)
 
-*Para leer la noticia, véase: [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)*
+::: alert-note
+**Nota:** Para leer la noticia, véase [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)
+:::
 
 La **osu!mug** era un vaso multiusos de edición especial adornado con ilustraciones de [pippi](/wiki/Mascots#pippi). El producto se vendió en 2016 junto con el osu!go.
 
@@ -126,7 +145,9 @@ La **osu!mug** era un vaso multiusos de edición especial adornado con ilustraci
 
 ![Peluches de edición limitada de osu!](img/osu-limited-edition-plushie.jpg)
 
-*Para leer las noticias, véase: [Makeship x osu!: Limited Edition Plushies](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies) y [osu! cookie and pippi plushies are back for round 2!](https://osu.ppy.sh/home/news/2024-11-28-another-batch-of-osu-plushies)*
+::: alert-note
+**Nota:** Para leer las noticias, véase [Makeship x osu!: Limited Edition Plushies](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies) y [osu! cookie and pippi plushies are back for round 2!](https://osu.ppy.sh/home/news/2024-11-28-another-batch-of-osu-plushies)
+:::
 
 Los **peluches de edición limitada de osu!** eran un trío de muñecos de peluche con [pippi](/wiki/Mascots#pippi), [Taikonator](/wiki/Mascots#taikonator) y la [osu! cookie](/wiki/Client/Interface/Cookie). El producto se vendió a principios de 2023 a través de pedidos anticipados y se realizó en colaboración con la plataforma de financiación colectiva [Makeship](https://www.makeship.com/).
 

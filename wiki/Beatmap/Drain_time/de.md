@@ -10,4 +10,4 @@ Die **Drain-Zeit** bezieht sich auf die Gesamtdauer einer [Beatmap](/wiki/Beatma
 
 Beatmaps mit sehr langer Drain-Zeit werden typischerweise als *[Marathon](/wiki/Beatmap/Marathon)* bezeichnet, da sie eine überdurchschnittliche Ausdauer erfordern, um abgeschlossen zu werden.
 
-Die Beatmap-Info Seite auf der Website<!-- TODO: Link --> berechnet die Drain-Zeit (beschriftet mit `Drain length`) nur auf Basis der Startzeiten der Hit-Objekte. Wenn also das letzte Objekt der Map ein [Slider](/wiki/Gameplay/Hit_object/Slider) oder [Spinner](/wiki/Gameplay/Hit_object/Spinner) ist, wird die Drain-Zeit falsch angezeigt.
+Die [Beatmap-Informationsseite](/wiki/Beatmap_information) auf der Website berechnet die Drain-Zeit (beschriftet mit `Drain length`) nur auf Basis der Startzeiten der Hit-Objekte. Wenn also das letzte Objekt der Map ein [Slider](/wiki/Gameplay/Hit_object/Slider) oder [Spinner](/wiki/Gameplay/Hit_object/Spinner) ist, wird die Drain-Zeit falsch angezeigt.

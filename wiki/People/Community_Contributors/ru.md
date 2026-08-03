@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9b78bd52e4862b87d9cc5fbe815982492a13eff3
+---
+
 # Выдающиеся участники сообщества
 
 ::: Infobox
@@ -19,6 +24,8 @@
 ### 2013
 
 #### Август
+
+*См. также новость: [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)*
 
 *См. также тему на форуме: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
@@ -251,7 +258,7 @@
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Выдающийся вклад в видеовыпуски [Mappers' Guild](/wiki/Community/Mappers_Guild) и программы Featured Artist |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Выдающийся вклад в видеовыпуски [Mappers' Guild](/wiki/Community/Mappers_Guild) и программы Featured Artist |
 
-### 2024
+### 2025
 
 #### Март
 

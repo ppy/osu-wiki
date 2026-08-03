@@ -77,7 +77,9 @@ Los torneos pueden ser reportados por violación de los criterios oficiales de s
 
 ### Publicaciones de noticias
 
-*Véase también: [Soporte oficial para torneos § Noticias](/wiki/Tournaments/Official_support#noticias) y [Criterios de estilo para las noticias](/wiki/News_styling_criteria)*
+::: alert-note
+**Véase también:** [Soporte oficial para torneos § Noticias](/wiki/Tournaments/Official_support#noticias) y [Criterios de estilo para las noticias](/wiki/News_styling_criteria)
+:::
 
 Cuando se reciba un correo electrónico solicitando una noticia para un torneo, se notificará al Comité de Torneos. Si el torneo cumple todos los criterios de elegibilidad para la publicación de una noticia y el consenso en la discusión es positivo después de 48 horas, el Comité de Torneos reenviará la solicitud al equipo de noticias para su aprobación.
 
@@ -122,7 +124,10 @@ Los solicitantes que no reúnan suficientes votos positivos serán rechazados y 
 
 El Comité de Torneos recurre con frecuencia a votaciones para tomar decisiones importantes. Los usos típicos se enumeran más arriba, pero no son totalmente generales. Los requisitos de las votaciones también difieren según el caso de uso. Todas las votaciones típicas requieren también una «participación estricta», lo que significa que si el 75 % del Comité de Torneos no participa antes de que finalice el plazo de votación, esta se prolongará hasta que se alcance el mínimo de participación requerido. Además, todas las votaciones requieren una mayoría absoluta; es decir, al menos el 50 % para poder tomar medidas. Las votaciones sobre muchos temas tienen los mismos requisitos, pero hay ligeras diferencias en algunos temas comunes que se enumeran a continuación.
 
-*Nota: El mínimo de participación solo tiene en cuenta a los miembros que no se han negado a votar por tener un conflicto de intereses.*
+::: alert-notice
+**Aviso**
+El mínimo de participación solo tiene en cuenta a los miembros que no se han negado a votar por tener un conflicto de intereses.
+:::
 
 | Tipo de la votación | Duración mínima (días) | Mínimo de aprobación | Participación |
 | :-- | --: | --: | --: |
@@ -178,6 +183,7 @@ En la [página del grupo del Comité de Torneos](https://osu.ppy.sh/groups/50) s
 ### Comité de Torneos
 
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
+- ::{ flag=BA }:: [alisha-](https://osu.ppy.sh/users/29031839)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
 - ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
@@ -185,11 +191,9 @@ En la [página del grupo del Comité de Torneos](https://osu.ppy.sh/groups/50) s
 - ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
 - ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
 - ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
-- ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
-- ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
 - ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973)
@@ -197,20 +201,23 @@ En la [página del grupo del Comité de Torneos](https://osu.ppy.sh/groups/50) s
 
 ### Comité de Concursos
 
-- ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
-- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063)
+- ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853)
 - ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835)
 
 ### Alumni
 
+- ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
+- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
+- ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
+- ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
 - ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)

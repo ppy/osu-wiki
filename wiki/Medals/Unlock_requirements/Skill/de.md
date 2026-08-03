@@ -2,14 +2,14 @@
 
 | Medaillenname | Anforderung |
 | :-- | :-- |
-| 500 Combo | Erziele eine 500er Combo auf einer Beatmap in irgendeinem Spielmodus. |
-| 750 Combo | Erziele eine 750er Combo auf einer Beatmap in irgendeinem Spielmodus. |
-| 1000 Combo | Erziele eine 1000er Combo auf einer Beatmap in irgendeinem Spielmodus. |
-| 2000 Combo | Erziele eine 2000er Combo auf einer Beatmap in irgendeinem Spielmodus. |
-| I can see the top | Erziele einen globalen Rang von #50.000 oder höher in irgendeinem Spielmodus. |
-| The gradual rise | Erziele einen globalen Rang von #10.000 oder höher in irgendeinem Spielmodus. |
-| Scaling up | Erziele einen globalen Rang von #5.000 oder höher in irgendeinem Spielmodus. |
-| Approaching the summit | Erziele einen globalen Rang von #1.000 oder höher in irgendeinem Spielmodus. |
+| 500 Combo | Erziele eine 500er Combo auf einer Beatmap in osu!. |
+| 750 Combo | Erziele eine 750er Combo auf einer Beatmap in osu!. |
+| 1.000 Combo | Erziele eine 1.000er Combo auf einer Beatmap in osu!. |
+| 2.000 Combo | Erziele eine 2.000er Combo auf einer Beatmap in osu!. |
+| I Can See The Top | Erziele einen globalen Rang von #50.000 oder höher in irgendeinem Spielmodus. |
+| The Gradual Rise | Erziele einen globalen Rang von #10.000 oder höher in irgendeinem Spielmodus. |
+| Scaling Up | Erziele einen globalen Rang von #5.000 oder höher in irgendeinem Spielmodus. |
+| Approaching The Summit | Erziele einen globalen Rang von #1.000 oder höher in irgendeinem Spielmodus. |
 | Rising Star (osu!)/My First Don (osu!taiko)/A Slice Of Life (osu!catch)/First Steps (osu!mania) | Schließe eine Beatmap ab, die qualified, ranked oder approved ist und im entsprechenden Spielmodus eine Sternebewertung im Bereich von 1.00★ bis 1.99★ hat (nachdem alle [Mods zur Erhöhung der Schwierigkeit](/wiki/Gameplay/Game_modifier#schwieriger) berücksichtigt wurden, sofern vorhanden). Die Verwendung von [Mods zur Verringerung der Schwierigkeit](/wiki/Gameplay/Game_modifier#einfacher) ist nicht erlaubt. |
 | Constellation Prize (osu!)/Katsu Katsu Katsu (osu!taiko)/Dashing Ever Forward (osu!catch)/No Normal Player (osu!mania) | Schließe eine Beatmap ab, die qualified, ranked oder approved ist und im entsprechenden Spielmodus eine Sternebewertung im Bereich von 2.00★ bis 2.99★ hat (nachdem alle [Mods zur Erhöhung der Schwierigkeit](/wiki/Gameplay/Game_modifier#schwieriger) berücksichtigt wurden, sofern vorhanden). Die Verwendung von [Mods zur Verringerung der Schwierigkeit](/wiki/Gameplay/Game_modifier#einfacher) ist nicht erlaubt. |
 | Building Confidence (osu!)/Not Even Trying (osu!taiko)/Zesty Disposition (osu!catch)/Impulse Drive (osu!mania) | Schließe eine Beatmap ab, die qualified, ranked oder approved ist und im entsprechenden Spielmodus eine Sternebewertung im Bereich von 3.00★ bis 3.99★ hat (nachdem alle [Mods zur Erhöhung der Schwierigkeit](/wiki/Gameplay/Game_modifier#schwieriger) berücksichtigt wurden, sofern vorhanden). Die Verwendung von [Mods zur Verringerung der Schwierigkeit](/wiki/Gameplay/Game_modifier#einfacher) ist nicht erlaubt. |
@@ -30,3 +30,4 @@
 | Aberration (osu!)/The Drummer's Throne (osu!taiko)/Dashing Scarlet (osu!catch)/Behind The Veil (osu!mania) | Eine vollständige Combo auf einer Beatmap, die qualified, ranked oder approved ist und eine Sternebewertung im Bereich von 8.00★ bis 8.99★ hat (nachdem alle [Mods zur Erhöhung der Schwierigkeit](/wiki/Gameplay/Game_modifier#schwieriger) berücksichtigt wurden, sofern vorhanden). Die Verwendung von [Mods zur Verringerung der Schwierigkeit](/wiki/Gameplay/Game_modifier#einfacher) ist nicht erlaubt. |
 | Chosen | Eine vollständige Combo auf einer Beatmap, die qualified, ranked oder approved ist und im osu!-Spielmodus eine Sternebewertung im Bereich von 9.00★ bis 9.99★ hat (nachdem alle [Mods zur Erhöhung der Schwierigkeit](/wiki/Gameplay/Game_modifier#schwieriger) berücksichtigt wurden, sofern vorhanden). Die Verwendung von [Mods zur Verringerung der Schwierigkeit](/wiki/Gameplay/Game_modifier#einfacher) ist nicht erlaubt. |
 | Unfathomable | Eine vollständige Combo auf einer Beatmap, die qualified, ranked oder approved ist und im osu!-Spielmodus eine Sternebewertung im Bereich von 10.00★ bis 10.99★ hat (nachdem alle [Mods zur Erhöhung der Schwierigkeit](/wiki/Gameplay/Game_modifier#schwieriger) berücksichtigt wurden, sofern vorhanden). Die Verwendung von [Mods zur Verringerung der Schwierigkeit](/wiki/Gameplay/Game_modifier#einfacher) ist nicht erlaubt. |
+| Cyclone | Erreiche 477 Spins pro Minute auf einem Spinner. Diese Medaille kann nur in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) erlangt werden. |

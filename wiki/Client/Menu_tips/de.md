@@ -114,8 +114,8 @@ Diese Tipps erscheinen unten im Hauptmenü von [osu!(lazer)](/wiki/Client/Releas
 - Das Gameplay-HUD kann mit dem Skin-Editor angepasst werden. Öffne ihn jederzeit mit `Strg` + `Shift` + `S`!
 - Ziehe Bilder in den Skin-Editor, um sie schnell zu laden!
 - Durch Mod-Voreinstellungen gelangst du einfacher zu deinen bevorzugten Mod-Kombinationen!
-- Viele Mods haben Konfigurationseinstellungen, die ihre Funktionsweise drastisch ändern. Klicke in der Modauswahl auf den Button `Mod Customisation`, um die Einstellungen zu sehen!
-- Drücke `Strg` + `Shift` + `R`, um einen zufälligen Skin auszuwählen!
+- Viele Mods haben Konfigurationseinstellungen, die ihre Funktionsweise drastisch ändern. Klicke in der Modauswahl auf den Button `Personalisierung`, um die Einstellungen zu sehen!
+- Drücke `Strg` + `Shift` + `R`, um einen zufälligen Skin auszuwählen! Nutze `Strg` + `Shift` + `E` und `Strg` + `Shift` + `T`, um zwischen Skins zu wechseln.
 - Drücke `Strg` + `Shift` + `F` für die FPS-Anzeige. Aber lass dich nicht davon ablenken!
 - Drücke beim Ansehen eines Replays `Strg` + `H` für die Replay-Einstellungen!
 - Klicke mit der rechten Maustaste auf einen Score in der Rangliste, um dieselben Mods zu aktivieren!

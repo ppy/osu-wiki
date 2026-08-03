@@ -2,6 +2,8 @@
 stub: true
 tags:
   - CL
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Classic（模组）
@@ -20,11 +22,11 @@ tags:
 | :-- | :-- |
 | 缩写 | CL |
 | 类别 | 转换 |
-| 游戏模式 | ![][osu!] ![][osu!taiko] |
-| 得分系数 | 0.96x |
+| 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!mania] |
+| 得分系数 | `0.96x` |
 | 状态 | 不计入排名 |
 | 不兼容的模组 ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
-| 不兼容的模组 ![][osu!taiko] | 无 |
+| 不兼容的模组 ![][osu!taiko] ![][osu!mania] | 无 |
 
 :::
 
@@ -42,3 +44,4 @@ tags:
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

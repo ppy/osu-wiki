@@ -1,5 +1,4 @@
-outdated_since: a8cc4d36239f194ed529a59a51038d554308731e
-outdated_translation: true
+no_native_review: true
 
 separator: ", "
 alumni:
@@ -7,7 +6,7 @@ alumni:
     academy: prowadzenie akademii osu!
     admin: administrator
     chat: moderator czatu
-    dev: programista gry
+    dev: deweloper gry
     media: współtworzenie mediów gry
     support: pomoc techniczna
     tournaments: organizowanie turniejów
@@ -17,6 +16,7 @@ gmt:
     beatmap: moderowanie beatmap
     chat: moderowanie czatu
     forum: moderowanie forum
+    general: moderowanie ogólne
     team: oficjalny profil zespołu gry
     dev: rozwój gry
     player: zarządzanie społecznością
@@ -24,9 +24,12 @@ gmt:
     tournaments: organizowanie turniejów
     wiki: zarządzanie wiki osu!
     mapping: moderowanie społeczności twórców i moderów beatmap
+    skinning: moderowanie społeczności twórców skórek
+    leadership: kierowanie zespołem
 nat:
   subgroups:
-    advisor: doradca
-    evaluator: ewaluator
+    structural: struktura
+    evaluation: ewaluacja
+    leadership: przywództwo
 languages:
   partial: <language> (częściowo)

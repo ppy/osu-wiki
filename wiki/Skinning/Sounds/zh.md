@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 3423203a5b871ce8a6a8c29008582391e5f5ecc8
----
-
 # 自定义音效
 
 音效的可用格式有 `.wav`、`.mp3` 和/或 `.ogg`。
@@ -129,6 +124,7 @@ outdated_since: 3423203a5b871ce8a6a8c29008582391e5f5ecc8
 | `failsound.wav` | 游玩谱面途中失败时 |
 | `sectionpass.wav` | 休息时段中途剩余血量较高时 |
 | `sectionfail.wav` | 休息时段中途剩余血量较低时 |
+| `fountain-shoot.wav` | 当 kiai 段开始时 |
 
 备注：
 
@@ -138,6 +134,10 @@ outdated_since: 3423203a5b871ce8a6a8c29008582391e5f5ecc8
 - `failsound.wav`：
   - 持续时间不应超过失败动画时长（约 5 秒）。
   - 由于每次游玩谱面时都会加载此音效，尽管你不失败，音效长度过长也会影响客户端性能。其大小不应超过几 KB。
+- `fountain-shoot.wav`：
+  - 此音效仅在 [Lazer](/wiki/Client/Release_stream/Lazer) 版本的游戏中使用，在 osu!(stable) 中无效。
+  - 此音效会在每个谱面 kiai 段开始时与喷泉动画一起播放。
+  - 当客户端窗口有焦点时，它也会在主菜单中播放。
 
 ## 评级显示 (仅限 Lazer)
 

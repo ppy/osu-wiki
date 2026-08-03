@@ -74,7 +74,9 @@
 
 ## Compose
 
-*Main page: [Compose](/wiki/Client/Beatmap_editor/Compose)*
+::: alert-note
+**Main page:** [Compose](/wiki/Client/Beatmap_editor/Compose)
+:::
 
 ![Compose menu](img/M_Compose.jpg "Compose menu")
 
@@ -90,7 +92,9 @@
 
 ## Design
 
-*Main page: [Design](/wiki/Client/Beatmap_editor/Design)*
+::: alert-note
+**Main page:** [Design](/wiki/Client/Beatmap_editor/Design)
+:::
 
 ![Design menu](img/M_Design.jpg "Design menu")
 
@@ -100,7 +104,9 @@
 
 ## Timing
 
-*Main page: [Timing](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**Main page:** [Timing](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 ![Timing menu](img/M_Timing.jpg "Timing menu")
 
@@ -126,7 +132,7 @@
 
 | Name | Description |
 | :-- | :-- |
-| This Beatmap's Information Page | Open the beatmap info page<!-- TODO(TicClick): link after https://github.com/ppy/osu-wiki/issues/3122 is completed --> on the osu! website. |
+| This Beatmap's Information Page | Open the [beatmap info page](/wiki/Beatmap_information) on the osu! website. |
 | This Beatmap's Thread | Open the beatmap's forum thread. |
 
 ## Help

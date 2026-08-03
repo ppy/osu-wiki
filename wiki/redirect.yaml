@@ -6,6 +6,8 @@ asc/images:                    Article_styling_criteria#images
 asg/images:                    Article_styling_criteria#images
 wiki_styling_criteria:         Article_styling_criteria
 wsc:                           Article_styling_criteria
+ascw:                          Article_styling_criteria/Writing
+ascf:                          Article_styling_criteria/Formatting
 
 beatmap_discussions:         Beatmap_discussion
 modding_discussion:          Beatmap_discussion

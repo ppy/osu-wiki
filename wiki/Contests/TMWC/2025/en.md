@@ -49,7 +49,7 @@ The osu!taiko Mapping World Cup 2025 was run by various community members.
 - [Contest listing](https://osu.ppy.sh/community/contests/252)
 - [Discord server](https://discord.com/invite/5ewzEEcUCB)
 - [Results spreadsheet](https://docs.google.com/spreadsheets/d/1vg0u3erwGcuugFkQv-U7pRUWUaPjuLKfVb_gxJZIinY)
-- [**Registration form**](https://forms.gle/poJrvrceL3E19bSE6)
+- [Results news post](https://osu.ppy.sh/home/news/2026-01-12-osutaiko-mapping-world-cup-2025-concludes)
 
 ## Podium
 

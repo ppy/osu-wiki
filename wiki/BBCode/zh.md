@@ -15,6 +15,34 @@
 - `[centre][b]文本[/b][/centre]` 正确
 - `[b][centre]文本[/b][/centre]` 错误
 
+## 对齐
+
+对齐标签用于控制文本与 BBCode 元素的水平位置。当对齐标签位于一对 `[quote]` 内部或将其包围时，引用块内的文本会按对齐标签进行对齐，但引用块的垂直线依然会显示在左侧。
+
+### 左对齐
+
+```
+[left]text[/left]
+```
+
+`[left]` 用于使内容靠左对齐。默认情况下，所有内容都是左对齐的。
+
+### 居中对齐
+
+```
+[centre]text[/centre]
+```
+
+`[centre]` 用于使内容居中对齐。这种用法在标题、页眉、诗歌中最常见，可用来达成风格效果。
+
+### 右对齐
+
+```
+[right]text[/right]
+```
+
+`[right]` 用于使内容靠右对齐。
+
 ## 标签
 
 像其他许多标记语言一样，BBCode 使用标签系统格式化文本，标签两侧有一对方括号 (`[]`)。标签分为“起始标签”和“结束标签”两种，区别在于后者包含正斜杠 (`/`)，而前者没有。
@@ -106,7 +134,9 @@
 
 ### 折叠框
 
-*不要与[剧透框](#剧透框)相混淆。*
+::: alert-note
+**备注：** 不要与[剧透框](#剧透框)相混淆。
+:::
 
 ```
 [box=NAME]
@@ -173,14 +203,6 @@
 `[code]` 标签用于创建*预格式化代码块*。在 osu! 网站内，`[code]` 标签内的文本会以等宽字体显示，并置于半透明灰色框中。代码块内的文本会被原样保留，其中的标签或代码不会被转换成其他内容。
 
 在 osu! 论坛内，代码块常用于展示[故事板](/wiki/Storyboard)的源代码，或在教程中展示标签、命令或源代码的语法。
-
-### 居中
-
-```
-[centre]文本[/centre]
-```
-
-`[centre]` 标签用于将文本居中对齐。常用于标题、页眉或诗歌的排版。如果放置在 `[quote]` 标记内外，引号块内的文本将居中，但引用框的装饰线等不受影响。
 
 ### URL
 
@@ -377,7 +399,7 @@ YouTube 视频 ID 是位于视频网址中 `v=` 之后跟着的那 11 位字符�
 | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | 支持实时预览的 osu! 个人资料 BBCode 编辑器（已归档） |
 | [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[_____________]](https://osu.ppy.sh/users/12036908) | 为 osu! 个人资料创建渐变色文字 |
 | [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | 为 osu! 网站增加更多 BBCode 按钮等功能的浏览器扩展 |
-| [textcolorizer](https://www.stuffbydavid.com/textcolorizer/) | david | BBCode 和 HTML 文字染色工具 |
+| [textcolorizer](https://www.stuffbydavid.com/textcolorizer) | david | BBCode 和 HTML 文字染色工具 |
 
 ## 冷知识
 

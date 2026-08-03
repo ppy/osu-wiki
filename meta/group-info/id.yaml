@@ -1,35 +1,75 @@
-outdated_since: 0522bc4c323f9a2b0c89a6b9582109a0608c6287
-outdated_translation: true
-
+# For help translating this file, see https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-info.
 separator: ", "
 alumni:
   roles:
     academy: pendiri osu!academy
-    admin: administrator
-    chat: Chat Moderator
+    admin: administrasi
+    chat: Moderator Obrolan
     dev: osu!dev
-    media: pereka cipta osu!media
-    support: Support Team
+    media: pembuatan osu!media
+    support: Tim Dukungan
     tournaments: manajemen turnamen
 gmt:
-  all_mods: seluruh moderator
+  all_mods: semua moderator
   areas:
     beatmap: moderasi beatmap
-    chat: moderasi chat
+    chat: moderasi obrolan
     forum: moderasi forum
-    team: anggota inti osu!team
+    general: moderasi umum
+    team: kehadiran resmi tim
     dev: pengembangan osu!
-    player: dukungan pengguna
+    player: dukungan pemain
     support: dukungan teknis
     tournaments: manajemen turnamen
-    wiki: administrasi osu!wiki
+    wiki: pengelolaan wiki
     mapping: moderasi komunitas mapping/modding
+    skinning: moderasi komunitas skinning
+    leadership: kepemimpinan tim
 nat:
-  areas:
-    communication: komunikasi
-    evaluation: evaluasi
-    moderation: moderasi
+  subgroups:
     structural: struktural
+    evaluation: evaluasi
+    leadership: kepemimpinan
 languages:
   partial: sedikit <language>
+  # Note for translators: The following language names do *not* need to be included in your translation of group-info. The program will use language names from CLDR. However, you may include languages as you see fit if you want to override what the program normally does.
+  af: Afrikaans
+  ar: Arab
+  be: Belarus
+  bg: Bulgaria
+  bn: Bengal
+  bs: Bosnia
+  ca: Katalan
+  da: Denmark
+  de: Jerman
+  el: Yunani
+  es: Spanyol
+  et: Estonia
+  fi: Finlandia
+  fil: Tagalog
   fr: Perancis
+  gl: Galisia
+  hr: Kroasia
+  hu: Hungaria
+  id: Indonesia
+  it: Italia
+  ja: Jepang
+  ko: Korea
+  lt: Lithuania
+  ms: Malaysia
+  nl: Belanda
+  no: Norwegia
+  pl: Polandia
+  pt: Portugal
+  ro: Romania
+  ru: Rusia
+  sr: Serbia
+  sv: Swedia
+  te: Telugu
+  th: Thailand
+  tr: Turki
+  uk: Ukraina
+  ur: Urdu
+  vi: Vietnam
+  yue: Kanton
+  zh: Mandarin

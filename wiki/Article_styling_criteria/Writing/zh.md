@@ -1,6 +1,9 @@
 # 写作
 
-*关于排版标准，请参见：[文章风格规范/排版](../Formatting)*\
+::: alert-note
+**备注：** 关于排版标准，请参见[文章风格规范/排版](../Formatting)
+:::
+
 *注意：这篇文章根据 [RFC 2119](https://tools.ietf.org/html/rfc2119) 来描述需求级别。*
 
 本文为中文的写作规范，但因为有时也需要使用英文术语，故而本文也包含部分英文内容的书写要求。有关英文文章的完整写作规范，请参阅本文章的英文版。
@@ -230,11 +233,12 @@ osu! 通常需要使用 `Z`、`X` 和鼠标来游玩，而 Dean Herbert（也称
 
 ### 嵌入链接
 
-在文章段落中，提及另一篇文章的大标题、提及本文中的另一段落的小标题，以及嵌入其他非 wiki 的链接以便于跳转时，最好使用与链接目标一致的标题称呼，以便于理解。有时为了更好的可读性，也可以对标题进行适当调整，或使用引导性的文字替换。好的例子：
+在文章段落中，提及另一篇文章的大标题、提及本文中的另一段落的小标题，以及嵌入其他非 wiki 的链接以便于跳转时，最好使用与链接目标一致的标题称呼，以便于理解。大标题与小标题连贯出现时，请在两者之间使用“§”符号，以表示文章与章节的关系。有时为了更好的可读性，也可以对标题进行适当调整，或使用引导性的文字替换。
+
+以下是一些好的例子：
 
 ```markdown
-- 如需了解更多信息，请参阅[文章风格规范/排版](/wiki/Article_styling_criteria/Formatting)。
-- 玩家通常在谱面讨论页[发表意见和建议](/wiki/Beatmap_discussion)。
+- 如需了解更多信息，请参阅[文章风格规范 § 排版](/wiki/Article_styling_criteria/Formatting)。
 - 两个模式中的滚动速度由[滑条速度 (slider velocity)](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)决定，其依赖于 [BPM](/wiki/Music_theory/Tempo) 与滑条速度倍率。除此之外，在 osu!mania 模式中，玩家可以[自己调整](/wiki/Game_mode/osu!mania#速度变化)它。
 - 公告系统的[基本实现](https://github.com/ppy/osu-web/pull/8418)于 2022 年 1 月 26 日添加到网站。
 - 此文章是[这篇主文章](/wiki/osu!_wiki/Contribution_guide)内容的后续。
@@ -243,7 +247,9 @@ osu! 通常需要使用 `Z`、`X` 和鼠标来游玩，而 Dean Herbert（也称
 
 ### 标点符号
 
-*关于国家标准，请参见：[GB/T 15834-2011 标点符号用法](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)*
+::: alert-note
+**备注：** 关于国家标准，请参见[GB/T 15834-2011 标点符号用法](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)
+:::
 
 #### 顿号
 
@@ -301,7 +307,9 @@ Commas, `vs.`, `feat.`, `CV:` and any other symbols linking or designating artis
 
 ### 数字
 
-*关于国家标准，请参见：[GB/T 15834-2011 出版物上数字用法](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091154536.pdf)*
+::: alert-note
+**备注：** 关于国家标准，请参见[GB/T 15834-2011 出版物上数字用法](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091154536.pdf)
+:::
 
 一般情况下（不符合以上国家标准定义的情况），使用中文数字和阿拉伯数字均可。使用阿拉伯数字时，惯用做法是与中英混用类似，将数字前后留出一个空格。
 

@@ -95,4 +95,4 @@ In rare situations, the [account support team](/wiki/People/Account_support_team
 ![](img/tourney-ban-profile.png "A tournament ban on a user's profile")
 :::
 
-Indefinite tournament bans and tournament bans that have been applied via means other than [standard appeal terms](/wiki/Help_centre/Account_restrictions#appeal-granted) are visible on a user's profile while active. Other tournament sanctions (i.e. hosting probations, hosting bans and staffing bans) are not publicly visible in this way.
+Indefinite tournament bans and tournament bans that have been applied via means other than [standard appeal terms](/wiki/Help_centre/Account_restrictions#appeal-granted) are visible on a user's profile for the entire duration of the ban in question, plus an additional **28 days** after it expires. Other tournament sanctions (i.e. hosting probations, hosting bans and staffing bans) are not publicly visible in this way.

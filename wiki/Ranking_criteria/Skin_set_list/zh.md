@@ -1,10 +1,10 @@
 # RC 皮肤组列表
 
-下表包含在玩家自定义皮肤和谱面自定义皮肤中可定义的皮肤元素集。为了避免玩家自定义皮肤与谱面自定义皮肤之间的冲突，在自定义谱面皮肤中的游戏元素时，需要同时自定义特定的一整组元素。
+下列表格包含在玩家自定义皮肤和谱面自定义皮肤中可调整的皮肤元素集。为了避免玩家自定义皮肤与谱面自定义皮肤之间的冲突，在自定义谱面皮肤中与游玩相关的元素时，同时也需要自定义其所在的一整组元素。以下各个列表的表头中的“标准皮肤”指标清 (`SD`) 画质的皮肤元素。有关皮肤画质的更多信息，请参阅[皮肤制作常见问题解答 § 高清图像](/wiki/Skinning/FAQ#高清图像)。
 
-如果文件名称中含有 `{-n}` 或者 `{n}`，除了连击时跳出的人物图片之外，都可以自定义成动图。比如，hitcircleoverlay{-n}.png 可以仅使用一张静态图片 (hitcircleoverlay.png)，或者动图分解成的一系列前后循环的图片 (hitcircleoveray-0.png、hitcircleoverlay-1.png、hitcircleoverlay-2.png 等等)。连击时跳出的人物图片也使用了这套语法，但在每次完成连击里程碑时只会弹出一张静态图片。
+如果文件名称中含有 `{-n}` 或者 `{n}`，除连击提示图 (comboburst) 相关的元素以外，都可以制作动画。比如，`hitcircleoverlay{-n}.png` 可以仅使用一张静态图片 (`hitcircleoverlay.png`)，也可制作为多张循环播放的动画序列 (`hitcircleoveray-0.png`、`hitcircleoverlay-1.png`、`hitcircleoverlay-2.png`……)。连击提示图遵循相同的命名格式，但并非动画。每次完成连击里程碑时只会弹出一张静态图片。
 
-想要概览列表，可以去直接[下载皮肤组模板](https://assets.ppy.sh/media/wiki/BeatmapSkinTemplate.rar)。
+想要概览列表，可以直接[点击下载皮肤组模板](https://assets.ppy.sh/media/wiki/BeatmapSkinTemplate.rar)。
 
 ## osu!
 

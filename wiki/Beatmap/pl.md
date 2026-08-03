@@ -14,17 +14,24 @@ tags:
 - [storyboard](/wiki/Storyboard) z animacjami i efektami specjalnymi, stanowiący tło fabularne lub temat piosenki (opcjonalne),
 - [niestandardowa skórka](/wiki/Skinning), zmieniająca wygląd interfejsu i elementów rozgrywki (opcjonalne).
 
-*Uwaga: niektóre wizualne i dźwiękowe funkcje beatmapy można wyłączyć w nakładce [ustawień wizualnych](/wiki/Client/Interface/Visual_settings).*
+::: alert-notice
+**Uwaga**
+Niektóre wizualne i dźwiękowe funkcje beatmapy można wyłączyć w nakładce [ustawień wizualnych](/wiki/Client/Interface/Visual_settings).
+:::
 
 ## Poziomy Trudności
 
-*Główny artykuł: [Poziomy Trudności](/wiki/Beatmap/Difficulty)*
+::: alert-note
+**Główny artykuł:** [Poziomy Trudności](/wiki/Beatmap/Difficulty)
+:::
 
 *Poziom trudności* to plik z [rozszerzeniem `.osu`](/wiki/Client/File_formats/osu_(file_format)), który opisuje rozmieszczenie obiektów uderzeń, hitsoundów oraz efektów specjalnych, takich jak [kiai time](/wiki/Gameplay/Kiai_time). Zawiera też [ustawienia trudności](/wiki/Client/Beatmap_editor/Song_setup#difficulty) i inne parametry bezpośrednio wpływające na rozgrywkę. Poziomy trudności beatmapy mogą różnić się strukturą i czasem być dostępne tylko w jednym [trybie gry](/wiki/Game_mode). System [gwiazdek](/wiki/Beatmap/Star_rating) służy do wizualizacji wymaganego poziomu umiejętności.
 
 ## Publikowanie Beatmapy
 
-*Główny artykuł: [Publikowanie Beatmap](/wiki/Beatmapping/Beatmap_submission)*
+::: alert-note
+**Główny artykuł:** [Publikowanie Beatmap](/wiki/Beatmapping/Beatmap_submission)
+:::
 
 Twórcy beatmap mogą [upubliczniać](/wiki/Beatmapping/Beatmap_submission) swoje mapy do publicznej [listy beatmap](https://osu.ppy.sh/beatmapsets). Choć każda beatmapa jest przypisana do [jednej osoby](/wiki/Beatmap/Beatmap_host), często jest efektem pracy zespołowej: niektóre trudności mogą być tworzone przez innych w ramach [współpracy](/wiki/Beatmap/Beatmap_collaborations) lub [osobno](/wiki/Beatmap/Guest_difficulty).
 
@@ -40,7 +47,9 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 ### Kategoria beatmapy
 
-*Główny artykuł: [Kategoria beatmap](Category)*
+::: alert-note
+**Główny artykuł:** [Kategoria beatmap](Category)
+:::
 
 Zgłoszona beatmapa należy do jednej z poniższych kategorii, które mogą się zmieniać w czasie:
 
@@ -66,7 +75,9 @@ osu!direct to lista beatmap wbudowana w klienta gry, zapewniająca szybki dostę
 
 ### Paczki beatmap
 
-*Główny artykuł: [Beatmap packs](Packs)*
+::: alert-note
+**Główny artykuł:** [Beatmap packs](Packs)
+:::
 
 Beatmapy, które otrzymały status rankingowy w jednym miesiącu lub mają wspólny temat (np. tego samego artystę), są pakowane w archiwa do pobrania zbiorczego. Lista wszystkich oficjalnych paczek jest dostępna na [stronie paczek](https://osu.ppy.sh/beatmaps/packs).
 
@@ -92,7 +103,9 @@ Pierwsze 1000 wyników z każdej trudności beatmapy zawiera [powtórki](/wiki/G
 
 ### Rankingi i wyróżnienia
 
-*Główny artykuł: [Wyróżnienia Beatmap](/wiki/Beatmap_Spotlights)*
+::: alert-note
+**Główny artykuł:** [Wyróżnienia Beatmap](/wiki/Beatmap_Spotlights)
+:::
 
 Społeczność od początku miała różne sposoby na wyróżnianie wyjątkowych map. Jednym z pierwszych były miesięczne i sezonowe rankingi, obejmujące niewielki podzbiór beatmap rankingowych, gdzie najlepsi gracze zdobywali nagrody w postaci [osu!supporter](/wiki/osu!supporter).
 
@@ -100,12 +113,16 @@ System rankingów ewoluował później w projekt [Wyróżnienia Beatmap](/wiki/B
 
 ### Konkursy beatmap
 
-*Główny artykuł: [Konkursy](/wiki/Contests)*
+::: alert-note
+**Główny artykuł:** [Konkursy](/wiki/Contests)
+:::
 
 Społeczność osu! regularnie organizuje konkursy, aby promować kreatywność i nagradzać najlepszych twórców. Konkursy mogą mieć lokalny lub globalny zasięg, często z atrakcyjnymi nagrodami. Zwycięzcy otrzymują nagrody w postaci [osu!supporter tags](/wiki/osu!supporter) oraz tematycznych [odznak profilowych](/wiki/Community/Profile_badge).
 
 ### Wyróżnieni Artyści
 
-*Główny artykuł: [Wyróżnieni Artyści](/wiki/People/Featured_Artists)*
+::: alert-note
+**Główny artykuł:** [Wyróżnieni Artyści](/wiki/People/Featured_Artists)
+:::
 
 Wyróżnieni Artyści to program społecznościowy [zespołu osu!](/wiki/People/osu!_team), skupiający się na licencjonowaniu muzyki różnych artystów do osu! i udostępnianiu jej do mapowania. Lista [Wyróżnionych Artystów](https://osu.ppy.sh/beatmaps/artists) zawiera wszystkich uczestników i zapewnia gotowe szablony do tworzenia beatmap.

@@ -18,6 +18,8 @@ tags:
   - mods de teclas
   - mod del número de teclas
   - mods del número de teclas
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Mods de teclas (lazer)
@@ -37,14 +39,19 @@ tags:
 | Acrónimo | \[número\]K |
 | Tipo | Conversión |
 | Modos de juego compatibles | ![][osu!mania] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | `0,90x` |
 | Estado (4K-9K) | Clasificado |
 | Estado (1K-3K, 10K) | No clasificado |
 | Mods incompatibles | Ninguno |
 
 :::
 
-*Para la versión de osu!stable de este artículo, véase: [xK (mod)](/wiki/Gameplay/Game_modifier/xK)*\
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la versión de osu!stable de este artículo, véase [xK (mod)](/wiki/Gameplay/Game_modifier/xK)
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

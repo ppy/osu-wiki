@@ -140,6 +140,7 @@ Most official mapping contests offer the **Elite Mapper** title through [contest
 
 - ::{ flag=JP }:: [-Kazuha](https://osu.ppy.sh/users/29978316)
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
+- ::{ flag=DE }:: [0ppInOsu](https://osu.ppy.sh/users/12551840)
 - ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
 - ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883)
@@ -154,6 +155,8 @@ Most official mapping contests offer the **Elite Mapper** title through [contest
 - ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551)
 - ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174)
 - ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377)
+- ::{ flag=CN }:: [iBell](https://osu.ppy.sh/users/4298072)
+- ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401)
 - ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377)
 - ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754)
@@ -179,6 +182,7 @@ Most official mapping contests offer the **Elite Mapper** title through [contest
 - ::{ flag=LY }:: [Soul Evans](https://osu.ppy.sh/users/4490770)
 - ::{ flag=BE }:: [Sylas](https://osu.ppy.sh/users/3906405)
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
+- ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767)
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
 - ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
@@ -191,7 +195,9 @@ Most official mapping contests offer the **Elite Mapper** title through [contest
 
 ## Elite Nominators
 
-*Main page: [Elite Nominators](/wiki/People/Elite_Nominators)*
+::: alert-note
+**Main page:** [Elite Nominators](/wiki/People/Elite_Nominators)
+:::
 
 Since 2020, members of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) with an exceptional display towards supporting the ranking system in a given year are rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, and lasts for roughly a year or until the user leaves the team.
 
@@ -322,7 +328,9 @@ These storyboarders were awarded the **Elite Storyboarder** title for demonstrat
 
 ## Gameplay-related
 
-*See also: [Completionists](/wiki/People/Completionists)*
+::: alert-note
+**See also:** [Completionists](/wiki/People/Completionists)
+:::
 
 These players were awarded their respective titles through either a crazy gameplay achievement or completion of a specific challenge.
 

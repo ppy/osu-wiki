@@ -3,6 +3,7 @@
 Page d'index des séries vidéo réalisées par les membres de la communauté.
 
 - [lazer updates](/wiki/Community/Video_series/lazer_updates)
+- [osu! Coffee Hour](/wiki/Community/Video_series/osu!_Coffee_Hour)
 - [osu!academy](/wiki/Community/Video_series/osu!academy)
 - [osu!mapping](/wiki/Community/Video_series/osu!mapping)
 - [osu!talk](/wiki/Community/Video_series/osu!talk)
