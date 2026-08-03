@@ -292,7 +292,7 @@
 | ::{ flag=PL }:: [Wiek](https://osu.ppy.sh/users/2584698) | Выдающийся вклад в сообщество через разработку прикладных программ ([Danser](https://github.com/Wieku/danser-go)) |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Выдающийся вклад в сообщество через разработку прикладных программ ([circleguard](https://github.com/circleguard/circleguard), [ossapi](https://github.com/Liam-DeVoe/ossapi)) |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | Многолетний вклад в жизнь сообщества и дела модерации |
-| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Многолетний выдающийся вклад в поддержку игроков |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Многолетний выдающийся вклад в техподдержку игроков |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Выдающийся вклад в модерацию на разных платформах |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Многолетний вклад в маппинг- и моддинг-сообщество |
 | ::{ flag=AT }:: [Maarvin](https://osu.ppy.sh/users/6411631) | Выдающийся вклад в дела разработки |
