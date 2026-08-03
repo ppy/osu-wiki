@@ -9,7 +9,7 @@ tags:
 
 # GB杯 2026 线下赛
 
-![GB杯2026线下赛图片](img/gbc2026irl-banner.jpg)
+![GB杯2026线下赛图片](img/gbc2026irl-banner.png)
 
 **GBC 2026 IRL** (***GB杯2026线下赛***) 是由[\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407)主办，由GB组织承办，在杭州缀梦国际音游博览会线下进行的osu!mania 4k 项目赛事。本届比赛是 GBC 系列赛事的第十届正式比赛，以及第二次线下赛。
 
@@ -75,7 +75,9 @@ GB杯2026线下赛由 GB 成员和多位社区成员举办。
 | ![银冠图片](/wiki/shared/crown-silver.png "2nd place") | shadiaojunshi |
 | ![铜冠图片](/wiki/shared/crown-bronze.png "3rd place") | Vain_, HowToPlaySV |
 
-![领奖照片](img/gbc2026irl-together.jpg)
+![领奖照片](img/gbc2026irl-podium.jpg)
+
+![合照照片](img/gbc2026irl-together.jpg)
 
 ## 图池
 
