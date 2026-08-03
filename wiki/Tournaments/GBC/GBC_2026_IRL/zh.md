@@ -94,7 +94,7 @@ GB杯2026线下赛由 GB 成员和多位社区成员举办。
   8. [Utata-P feat. Yuzuki Yukari - Shiawase ni Nareru Kakushi Command ga Arurashii (Ska) \[1.05\]](https://osu.ppy.sh/beatmapsets/1822356#mania/3739448)
 - Hybrid
   1. [mafumafu feat. IA - Adagaeshi Syndrome (V1do-) \[Guilty.\]](https://osu.ppy.sh/beatmapsets/2563505#mania/5699804)
-  2. [VINCENT GANATCH - GENE /~A mix/~ (Lemonguy) \[Another x1.1\]](https://osu.ppy.sh/beatmapsets/2058822#mania/4303098)
+  2. [VINCENT GANATCH - GENE \~A mix\~ (Lemonguy) \[Another x1.1\]](https://osu.ppy.sh/beatmapsets/2058822#mania/4303098)
   3. [Varien - One Shot One Kill (onumi Remix) ([Crz]FolAH1217) \[Animus x1.05\]](https://osu.ppy.sh/beatmapsets/2250134#mania/5770103)
 - LN
   1. [Yousei Teikoku - Kyuusei Argyros (MyZterioN-) \[purgatory o'clock (cut)\]](https://osu.ppy.sh/beatmapsets/2062249#mania/4311953)
