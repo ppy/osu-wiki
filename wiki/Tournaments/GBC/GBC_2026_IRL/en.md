@@ -94,7 +94,7 @@ This competition has come to an end and resulted in the following podium:
   8. [Utata-P feat. Yuzuki Yukari - Shiawase ni Nareru Kakushi Command ga Arurashii (Ska) \[1.05\]](https://osu.ppy.sh/beatmapsets/1822356#mania/3739448)
 - Hybrid
   1. [mafumafu feat. IA - Adagaeshi Syndrome (V1do-) \[Guilty.\]](https://osu.ppy.sh/beatmapsets/2563505#mania/5699804)
-  2. [VINCENT GANATCH - GENE ~A mix~ (Lemonguy) \[Another x1.1\]](https://osu.ppy.sh/beatmapsets/2058822#mania/4303098)
+  2. [VINCENT GANATCH - GENE \~A mix\~ (Lemonguy) \[Another x1.1\]](https://osu.ppy.sh/beatmapsets/2058822#mania/4303098)
   3. [Varien - One Shot One Kill (onumi Remix) ([Crz]FolAH1217) \[Animus x1.05\]](https://osu.ppy.sh/beatmapsets/2250134#mania/5770103)
 - LN
   1. [Yousei Teikoku - Kyuusei Argyros (MyZterioN-) \[purgatory o'clock (cut)\]](https://osu.ppy.sh/beatmapsets/2062249#mania/4311953)
@@ -130,7 +130,7 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 16
 
 - Rice
-  1. [AL-1S - ..+**Everything Goes On**+.. (popy) \[Aris fell in love because of this...<3\]](https://osu.ppy.sh/beatmapsets/2586314#mania/5768891)
+  1. [AL-1S - ..+\*\*Everything Goes On\*\*+.. (popy) \[Aris fell in love because of this...<3\]](https://osu.ppy.sh/beatmapsets/2586314#mania/5768891)
   2. [Falcom Sound Team jdk - Infinity Rage (lemonguy) \[Nightmare x1.05\]](https://osu.ppy.sh/beatmapsets/1637362#mania/3341561)
   3. [cygnus - Tree of Misery (Miaurichesu) \[Agony\]](https://osu.ppy.sh/beatmapsets/2242640#mania/4766759)
   4. [ericdoa - dancinwithsomebawdy (Livium) \[pleasenevaremindme 1.1x\]](https://osu.ppy.sh/beatmapsets/2418144#mania/5257868)
