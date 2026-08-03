@@ -18,16 +18,16 @@
 - [每日挑战](/wiki/Gameplay/Daily_challenge)
 - [难度倍率](/wiki/Gameplay/Score/ScoreV1/osu!#难度倍率)
 - [掉血时间](/wiki/Beatmap/Drain_time)
-- [手指锁 (Fingerlock)](/wiki/Gameplay/Fingerlock)
+- [锁指 (Fingerlock)](/wiki/Gameplay/Fingerlock)
 - [全连](/wiki/Gameplay/Full_combo)
 - [游戏模组](/wiki/Gameplay/Game_modifier)
 - [游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
-- [评价](/wiki/Gameplay/Grade)
+- [评级](/wiki/Gameplay/Grade)
 - [血量](/wiki/Gameplay/Health)
 - [打击物件](/wiki/Gameplay/Hit_object)
 - [输入设备](/wiki/Gameplay/Input_device)
 - [判定](/wiki/Gameplay/Judgement)
-- [Kiai 时间](/wiki/Gameplay/Kiai_time)
+- [气合 (Kiai) 时间](/wiki/Gameplay/Kiai_time)
 - [脑梗 (Mind block)](/wiki/Gameplay/Mind_block)
 - [模组倍率](/wiki/Gameplay/Game_modifier/Mod_multiplier)
 - [物件锁](/wiki/Gameplay/Judgement/Notelock)
@@ -41,7 +41,7 @@
 - [ScoreV2](/wiki/Gameplay/Score#scorev2)
 - [旁观](/wiki/Gameplay/Spectating)
 - [数位板膜](/wiki/Gameplay/Tablet_cover)
-- [不稳定率](/wiki/Gameplay/Unstable_rate)
+- [不稳定率 (UR)](/wiki/Gameplay/Unstable_rate)
 
 ## osu!
 
@@ -52,12 +52,12 @@
 
 ## osu!taiko
 
-- [咚和咔 (Don & Kat)](/wiki/Gameplay/Hit_object/Hit)
+- [咚和咔](/wiki/Gameplay/Hit_object/Hit)
 
 ## osu!catch
 
 - [香蕉](/wiki/Gameplay/Hit_object/Banana)
-- [跳 (Dash)](/wiki/Gameplay/Dash)
+- [跳](/wiki/Gameplay/Dash)
 - [跳的对齐方式](/wiki/Gameplay/Dash_snapping)
 - [边角跳](/wiki/Gameplay/Edge_dash)
 - [大果](/wiki/Gameplay/Hit_object/Fruit)
