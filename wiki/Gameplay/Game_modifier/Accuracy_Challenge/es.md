@@ -5,6 +5,8 @@ tags:
   - acc challenge
   - desafío de precisión
   - reto de precisión
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Accuracy Challenge (mod)
@@ -24,14 +26,16 @@ tags:
 | Acrónimo | AC |
 | Tipo | Aumento de dificultad |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | `1,00x` |
 | Estado | Clasificado |
 | Mods incompatibles ![][osu!] ![][osu!catch] ![][osu!mania] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 | Mods incompatibles ![][osu!taiko] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 
 :::
 
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 El mod **Accuracy Challenge** le permite al jugador establecer una precisión mínima que debe mantener para evitar fallar un beatmap.
 
@@ -39,7 +43,7 @@ El mod **Accuracy Challenge** le permite al jugador establecer una precisión m�
 
 ![Opciones de personalización del mod Accuracy Challenge en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/AC.png)
 
-- **Minimum accuracy** (60 %-99 %, predeterminado: 90 %): El jugador fallará el beatmap si la precisión es inferior a este valor.
+- **Minimum accuracy** (60,0 %-99,9 %, predeterminado: 90,0 %): El jugador fallará el beatmap si la precisión es inferior a este valor.
 - **Accuracy mode** (predeterminado: Máxima alcanzable): El modo de precisión que provocará que el jugador falle el beatmap. 
   - **Máxima alcanzable**: El jugador fallará el [beatmap](/wiki/Beatmap) inmediatamente si no se alcanza el mínimo requerido al final de este.
   - **Estándar**: El jugador fallará el beatmap si la precisión es estrictamente inferior al valor.

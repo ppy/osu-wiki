@@ -63,7 +63,7 @@ One of our most seasoned featured artists in the osu! original space, [seatrus](
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/se7E5OW_Lao" frameborder="0" allowfullscreen></iframe>
 </div>
 
-osucart YEAH!!!!!!!!! I mean— [Sylvir](https://osu.ppy.sh/beatmaps/artists/8) makes their first original for osu! with [Etiolan Highway](https://osu.ppy.sh/beatmapsets/2573446#fruits/5729534), a direct sequel to their previous song *ILLUSTRIOUS DRIFTERS*. This time, they introduced the new challenger "Alba", as her and the other racers compete to become the first ever winners of the "Classic wheels world championship". This track will leave you Aurora-spinning with a combination of funk, neurobass, and rock elements.
+osucart YEAH!!!!!!!!! I mean— [Sylvir](https://osu.ppy.sh/beatmaps/artists/8) makes their first original for osu! with [Etiolan Highway](https://osu.ppy.sh/beatmapsets/2573446#fruits/5729534), a direct sequel to [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430)'s osu! World Cup 2025 song [ILLUSTRIOUS DRIFTERS](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699). This time, they introduced the new challenger "Alba", as her and the other racers compete to become the first ever winners of the "Classic wheels world championship". This track will leave you Aurora-spinning with a combination of funk, neurobass, and rock elements.
 
 ---
 

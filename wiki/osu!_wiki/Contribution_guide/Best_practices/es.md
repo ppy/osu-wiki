@@ -4,7 +4,9 @@ Esta página cubre algunas de las tareas que puedes enfrentar mientras contribuy
 
 ## Introducción
 
-*Para obtener más información sobre Git y GitHub, véase [Documentación de GitHub](https://docs.github.com/es)*
+::: alert-note
+**Nota:** Para obtener más información sobre Git y GitHub, véase [Documentación de GitHub](https://docs.github.com/es)
+:::
 
 **Git** es un sistema de control de versiones que ayuda a administrar los cambios en los archivos. Los datos de la osu! wiki y el historial de cambios se almacenan en un repositorio de Git. **GitHub** es una plataforma de desarrollo que proporciona una interfaz web para repositorios Git y ofrece un conjunto de herramientas para la gestión de proyectos.
 
@@ -24,7 +26,9 @@ Una *bifurcación* es una copia del repositorio original que no se actualiza aut
 
 ## Hacer cambios
 
-*Véase también: [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
+::: alert-note
+**Véase también:** [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+:::
 
 Dentro de tu bifurcación de la osu! wiki, eres libre de hacer cualquier cambio y guardarlo. Los **commits** son «puntos de guardado» individuales del repositorio. Las **ramas (branches)** son espacios de trabajo que te permiten alternar entre varias versiones del repositorio. Para facilitar tu flujo de trabajo y mantener el historial de la wiki limpio y libre de ruido, sigue estas pautas:
 

@@ -9,6 +9,8 @@
 
 ## 制作故事板
 
-*主页面：[利用脚本制作故事板](/wiki/Storyboard/Scripting)*
+::: alert-note
+**主文章：** [利用脚本制作故事板](/wiki/Storyboard/Scripting)
+:::
 
 *制作故事板 (Storyboarding)* 即故事板的制作流程。它的幕后制作人通常称为故事板作者。制作故事板往往繁琐费时，且需要在基础的绘图与动画制作方面有一技之长。osu! 提供了一个内置于[谱面编辑器](/wiki/Client/Beatmap_editor)，用于创作故事板的[设计页面](/wiki/Client/Beatmap_editor/Design)。但狂热的故事板作者会选择使用其他程序，来直接[利用脚本制作故事板](/wiki/Storyboard/Scripting)。为了生成眼花缭乱的视觉特效，通常需要写大量的故事板代码，因此许多创作者选择使用拥有众多特性的编程语言来编写程序，生成故事板代码。
