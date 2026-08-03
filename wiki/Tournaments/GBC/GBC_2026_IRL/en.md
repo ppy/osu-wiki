@@ -26,8 +26,8 @@ tags:
 | Placing | Prizes |
 | :-: | :-- |
 | ![Golden Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, championship trophy, custom rewards |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2nd place trophy, GBC pillow, custom rewards |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 3rd place trophy, GBC pillow, custom rewards |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2nd place trophy, custom rewards |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 3rd place trophy, custom rewards |
 | *Others* | custom rewards |
 
 ![Trophy image](img/gbc2026irl-cups.jpg "GBC 2026 IRL trophies")
