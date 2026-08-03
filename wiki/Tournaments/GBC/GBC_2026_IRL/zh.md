@@ -103,7 +103,7 @@ GB杯2026线下赛由 GB 成员和多位社区成员举办。
   4.[Miyashita Yuu x Hiiragi Kirai - Grain (MyZterioN-) \[hatred 1.1x\]](https://osu.ppy.sh/beatmapsets/2247920#mania/4779651)
   5.[Yodare-P - Iriya Iriya (V1do-) \[Blasphemy\]](https://osu.ppy.sh/beatmapsets/2565304#mania/5705442)
 - Tiebreaker
-  1. **[777system - ~GOLDENERNOCTURNE~ (V1do-,[GB]Cinelia) \[Divine Retribution (w/ Cinelia)\]](https://osu.ppy.sh/beatmapsets/2588492#mania/5774801)**
+  1. **[777system - \~GOLDENERNOCTURNE\~ (V1do-,[GB]Cinelia) \[Divine Retribution (w/ Cinelia)\]](https://osu.ppy.sh/beatmapsets/2588492#mania/5774801)**
 
 ### 八强赛
 
