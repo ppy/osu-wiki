@@ -41,8 +41,8 @@ GB Cup 2026 In Real Life was run by the Team GB and various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Staff |  ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [\[GB\]Lazy_ChenXi](https://osu.ppy.sh/users/24156840), ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [vanposen](https://osu.ppy.sh/users/15289293), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Color0](https://osu.ppy.sh/users/31417108) |
-| Offline Helper |  ::{ flag=CN }:: [\[GB\]sharkful](https://osu.ppy.sh/users/35850313), ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [-duji-](https://osu.ppy.sh/users/33554103), ::{ flag=CN }:: [Kirchhoff123](https://osu.ppy.sh/users/29546640), ::{ flag=CN }:: [neeeeeh](https://osu.ppy.sh/users/18586390), ::{ flag=CN }:: [\[GB\]Prz1y](https://osu.ppy.sh/users/14759634) |
+| Staff | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [\[GB\]Lazy_ChenXi](https://osu.ppy.sh/users/24156840), ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [vanposen](https://osu.ppy.sh/users/15289293), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Color0](https://osu.ppy.sh/users/31417108) |
+| Offline Helper | ::{ flag=CN }:: [\[GB\]sharkful](https://osu.ppy.sh/users/35850313), ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [-duji-](https://osu.ppy.sh/users/33554103), ::{ flag=CN }:: [Kirchhoff123](https://osu.ppy.sh/users/29546640), ::{ flag=CN }:: [neeeeeh](https://osu.ppy.sh/users/18586390), ::{ flag=CN }:: [\[GB\]Prz1y](https://osu.ppy.sh/users/14759634) |
 | Mappool Selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968) |
 | Streamer | ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968) |
 | Referee | ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042) |
@@ -104,7 +104,7 @@ This competition has come to an end and resulted in the following podium:
   5.[Yodare-P - Iriya Iriya (V1do-) \[Blasphemy\]](https://osu.ppy.sh/beatmapsets/2565304#mania/5705442)
 - Tiebreaker
   1. **[777system - ~GOLDENERNOCTURNE~ (V1do-,[GB]Cinelia) \[Divine Retribution (w/ Cinelia)\]](https://osu.ppy.sh/beatmapsets/2588492#mania/5774801)**
-  
+
 ### Quarterfinals
 
 - Rice
@@ -126,7 +126,7 @@ This competition has come to an end and resulted in the following podium:
   4. [Kabocha feat. Aitsuki Nakuru - Dear The Night I Loved (-mint-) \[A Painting Forever Unfinished\]](https://osu.ppy.sh/beatmapsets/2246380#mania/4775997)
 - Tiebreaker
   1. **[Ludicin - Echoes of Memoria (-mint-) \[Solace of Oblivion\]](https://osu.ppy.sh/beatmapsets/2246382#mania/4775999)**
-  
+
 ### Round of 16
 
 - Rice
@@ -146,7 +146,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Feryquitous - Ordirehv (Micleak) \[Spellbinding\]](https://osu.ppy.sh/beatmapsets/2226727#mania/4723728)
 - Tiebreaker
   1. **[Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there) (V1do-) \[Reveries\]](https://osu.ppy.sh/beatmapsets/2422601#mania/5271526)**
-  
+
 ### Qualifier
 
 - Rice
