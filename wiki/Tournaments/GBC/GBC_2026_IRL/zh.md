@@ -104,7 +104,7 @@ GB杯2026线下赛由 GB 成员和多位社区成员举办。
   5.[Yodare-P - Iriya Iriya (V1do-) \[Blasphemy\]](https://osu.ppy.sh/beatmapsets/2565304#mania/5705442)
 - Tiebreaker
   1. **[777system - ~GOLDENERNOCTURNE~ (V1do-,[GB]Cinelia) \[Divine Retribution (w/ Cinelia)\]](https://osu.ppy.sh/beatmapsets/2588492#mania/5774801)**
-  
+
 ### 八强赛
 
 - Rice
@@ -126,7 +126,7 @@ GB杯2026线下赛由 GB 成员和多位社区成员举办。
   4. [Kabocha feat. Aitsuki Nakuru - Dear The Night I Loved (-mint-) \[A Painting Forever Unfinished\]](https://osu.ppy.sh/beatmapsets/2246380#mania/4775997)
 - Tiebreaker
   1. **[Ludicin - Echoes of Memoria (-mint-) \[Solace of Oblivion\]](https://osu.ppy.sh/beatmapsets/2246382#mania/4775999)**
-  
+
 ### 十六强赛
 
 - Rice
@@ -146,7 +146,7 @@ GB杯2026线下赛由 GB 成员和多位社区成员举办。
   3. [Feryquitous - Ordirehv (Micleak) \[Spellbinding\]](https://osu.ppy.sh/beatmapsets/2226727#mania/4723728)
 - Tiebreaker
   1. **[Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there) (V1do-) \[Reveries\]](https://osu.ppy.sh/beatmapsets/2422601#mania/5271526)**
-  
+
 ### 资格赛
 
 - Rice
