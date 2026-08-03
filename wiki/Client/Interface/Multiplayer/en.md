@@ -254,7 +254,7 @@ While the match is starting, moving the cursor to the bottom of the screen will 
 
 #### Health
 
-When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards (unless they use [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail). The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death).
+When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards (unless they use [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail)). The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death).
 
 In Team VS matches, being in the failed state at the end of the match will make the score not contribute to the team score. If all players of a team have failed, the match immediately ends and the opposite team wins by default.
 
