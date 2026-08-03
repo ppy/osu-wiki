@@ -41,9 +41,9 @@ GB杯2026线下赛由 GB 成员和多位社区成员举办。
 | 职位 | 成员 |
 | :-- | :-- |
 | 组织者 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| 工作人员 |  ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [\[GB\]Lazy_ChenXi](https://osu.ppy.sh/users/24156840), ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [vanposen](https://osu.ppy.sh/users/15289293), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Color0](https://osu.ppy.sh/users/31417108) |
-| 线下助手 |  ::{ flag=CN }:: [\[GB\]sharkful](https://osu.ppy.sh/users/35850313), ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [-duji-](https://osu.ppy.sh/users/33554103), ::{ flag=CN }:: [Kirchhoff123](https://osu.ppy.sh/users/29546640), ::{ flag=CN }:: [neeeeeh](https://osu.ppy.sh/users/18586390), ::{ flag=CN }:: [\[GB\]Prz1y](https://osu.ppy.sh/users/14759634) |
-| 图池管理 |  ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968) |
+| 工作人员 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [\[GB\]Lazy_ChenXi](https://osu.ppy.sh/users/24156840), ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [vanposen](https://osu.ppy.sh/users/15289293), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Color0](https://osu.ppy.sh/users/31417108) |
+| 线下助手 | ::{ flag=CN }:: [\[GB\]sharkful](https://osu.ppy.sh/users/35850313), ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [-duji-](https://osu.ppy.sh/users/33554103), ::{ flag=CN }:: [Kirchhoff123](https://osu.ppy.sh/users/29546640), ::{ flag=CN }:: [neeeeeh](https://osu.ppy.sh/users/18586390), ::{ flag=CN }:: [\[GB\]Prz1y](https://osu.ppy.sh/users/14759634) |
+| 图池管理 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968) |
 | 转播 | ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968) |
 | 裁判 | ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042) |
 | 设计 | ::{ flag=RU }:: [MemeBen](https://osu.ppy.sh/users/18171966), ::{ flag=CN }:: [\[GB\]Prz1y](https://osu.ppy.sh/users/14759634) |
@@ -224,13 +224,12 @@ GB杯2026线下赛由 GB 成员和多位社区成员举办。
 1. 比赛没有热手阶段。
 2. 正赛为单败淘汰赛，共16名选手，十六强赛为九局五胜，四分之一决赛为十一局六胜，决赛和半决赛为十三局七胜。
 3. 决赛和半决赛使用相同的图池。
-4. 保护阶段时，双方玩家分别选择一张谱面，这些谱面不可被禁用。
-5. 禁用阶段时，双方玩家分别禁用一张谱面，这些谱面后续不可被选择。
-6. 在双方平局打到最后一分决胜时，最后一张图将会采用Tiebreaker。
-7. 每一方将会有2分钟的时间来选图。如果选图超时则会由裁判随机选择图池里一个未选谱面进行比赛。选完图后双方有2分钟的时间就位。
-8. 在常图比赛中可以选择mod，可选择的包括：MR，HD，FI，FL和NF。
-9. 对于双方选或不选某张图将没有限制，除了所选的图必须是比赛图池中的，并且比赛中不能选已经选过的图，而且不能选Tiebreaker。
-10. 如果在一张图中出现平局，这张图将被重开。一张图将不会重开超过两次。
-11. 每个选手最多被允许一次由于掉线或其他技术性问题造成的重开（请及时在游戏内发送信息通知裁判要求重开），并且该次比赛还没超过30秒和全图的1/4。在比赛重开时必须使用与之前相同的mod和图。请务必在比赛前修复任何可能的问题。
-12. 如有必要，裁判有权利自行决定规则的实施，并对比赛期间发生的事件有最终裁决权。
-13. 现场选手如果因为网络波动出现分数无法结算的问题，主办方会安排专人在选手背后进行实时录像，以此记录最终分数。
+4. 本次比赛不设三四名决赛，两名选手将会并列季军。
+5. 在双方平局打到最后一分决胜时，最后一张图将会采用Tiebreaker。
+6. 每一方将会有2分钟的时间来选图。如果选图超时则会由裁判随机选择图池里一个未选谱面进行比赛。选完图后双方有2分钟的时间就位。
+7. 在常图比赛中可以选择mod，可选择的包括：MR，HD，FI，FL和NF。
+8. 对于双方选或不选某张图将没有限制，除了所选的图必须是比赛图池中的，并且比赛中不能选已经选过的图，而且不能选Tiebreaker。
+9. 如果在一张图中出现平局，这张图将被重开。一张图将不会重开超过两次。
+10. 每个选手最多被允许一次由于掉线或其他技术性问题造成的重开（请及时在游戏内发送信息通知裁判要求重开），并且该次比赛还没超过30秒和全图的1/4。在比赛重开时必须使用与之前相同的mod和图。请务必在比赛前修复任何可能的问题。
+11. 如有必要，裁判有权利自行决定规则的实施，并对比赛期间发生的事件有最终裁决权。
+12. 现场选手如果因为网络波动出现分数无法结算的问题，主办方会安排专人在选手背后进行实时录像，以此记录最终分数。
