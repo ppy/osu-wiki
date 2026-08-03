@@ -43,7 +43,7 @@ Die Mod **Target Practice** ist eine experimentelle [Spielmodifikation](/wiki/Ga
 
 Wenn Target Practice aktiviert ist, versteckt osu! die Lebensleiste und die Genauigkeitsanzeige. Der Spieler muss die Zielscheiben treffen, die nach und nach auf dem [Spielfeld](/wiki/Client/Playfield) erscheinen, mit der Absicht, ihren Mittelpunkt zu treffen. Um im Rhythmus zu bleiben, können sich Spieler an dem Metronom orientieren, welches im Hintergrund spielt.
 
-Das Spiel läuft bis zum ersten [MISS](/wiki/Gameplay/Judgement/osu!), wonach die [Ergebnisanzeige](/wiki/Client/Interface#Ergebnisanzeige) erscheint. Die Bedeutung der verschiedenen Noten ähnelt der in [osu!mania](/wiki/Gameplay/Grade#osu!mania).
+Das Spiel läuft bis zum ersten [MISS](/wiki/Gameplay/Judgement/osu!), wonach die [Ergebnisanzeige](/wiki/Client/Interface#ergebnisanzeige) erscheint. Die Bedeutung der verschiedenen Noten ähnelt der in [osu!mania](/wiki/Gameplay/Grade#osu!mania).
 
 ## Zielscheiben
 
