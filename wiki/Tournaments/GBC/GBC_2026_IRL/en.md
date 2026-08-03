@@ -9,7 +9,7 @@ tags:
 
 # GB Cup 2026 In Real Life
 
-![GBC 2026 IRL banner](img/gbc2026irl-banner.jpg)
+![GBC 2026 IRL banner](img/gbc2026irl-banner.png)
 
 **GB Cup 2026 In Real Life** (***GBC 2026 IRL***) is a osu!mania 4-key solo LAN tournament hosted by [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) and organised by Team GB. It was the tenth instalment of the GB Cup series and the second instalment of the GB Cup IRL. This LAN tournament was held offline at the DOTREAM RHYTHM GAME CULTURE INDUSTRY EXHIBITION in Hangzhou, China.
 
@@ -75,7 +75,9 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | shadiaojunshi |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Vain_, HowToPlaySV |
 
-![Podium Photo](img/gbc2026irl-together.jpg)
+![Podium Photo](img/gbc2026irl-podium.jpg)
+
+![Group Photo](img/gbc2026irl-together.jpg)
 
 ## Mappools
 
