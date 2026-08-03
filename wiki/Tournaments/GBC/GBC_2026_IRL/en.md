@@ -103,7 +103,7 @@ This competition has come to an end and resulted in the following podium:
   4.[Miyashita Yuu x Hiiragi Kirai - Grain (MyZterioN-) \[hatred 1.1x\]](https://osu.ppy.sh/beatmapsets/2247920#mania/4779651)
   5.[Yodare-P - Iriya Iriya (V1do-) \[Blasphemy\]](https://osu.ppy.sh/beatmapsets/2565304#mania/5705442)
 - Tiebreaker
-  1. **[777system - ~GOLDENERNOCTURNE~ (V1do-,[GB]Cinelia) \[Divine Retribution (w/ Cinelia)\]](https://osu.ppy.sh/beatmapsets/2588492#mania/5774801)**
+  1. **[777system - \~GOLDENERNOCTURNE\~ (V1do-,[GB]Cinelia) \[Divine Retribution (w/ Cinelia)\]](https://osu.ppy.sh/beatmapsets/2588492#mania/5774801)**
 
 ### Quarterfinals
 
