@@ -84,34 +84,19 @@ Diese gesammelten Daten werden aggregiert und nur aufbewahrt, wenn sie nützlich
 
 Wir betreiben weder Marketing oder Werbung, noch senden wir irgendwelche unerwünschten E-Mails. Die einzigen E-Mails, die Sie von uns bekommen, sind das Ergebnis aus einer Handlung auf unseren Diensten (beispielsweise die Beantragung der Zwei-Faktor-Authentifizierung, der Kauf eines Produkts oder das Aktivieren von Benachrichtigungen für eine Diskussion).
 
-
-
-
-
-Wir teilen Ihre personenbezogenen Daten mit Drittanbietern in sehr speziellen Fällen:
-
-- wenn Sie Informationen ausdrücklich öffentlich gemacht haben
-- um Ihre Bestellungen abwickeln zu können
-- um Zahlungen über Zahlungsdienstleister wie z. B. PayPal und Xsolla zu verarbeiten
-- um Ihre Tickets für den Kundenservice zu verarbeiten (wir verwenden [Enchant](https://enchant.com))
-- um unseren Dienst durch Fehleraufzeichnung zu verbessern (wir benutzen [Sentry](https://sentry.io))
-
-
-
-
 Wir teilen Ihre personenbezogenen Daten nicht mit Drittanbietern. Alle Analysedaten werden intern gehosted. Begrenzte Diagnoseinformationen werden möglicherweise vertrauenswürdigen Entwicklern des Teams zur Verfügung gestellt, um Probleme im Spiel oder auf der Webseite zu analysieren und zu beheben.
 
-Bitte beachten Sie, dass Ihnen einige Drittanbieter begegnen können, wenn Sie gewisse Aktionen ausführen:
+Bitte beachten Sie, dass Ihnen beim Ausführen gewisser Aktionen einige Drittanbieter begegnen können:
 
 - Das Einreichen eines Support-Tickets per E-Mail wird über Enchant verwaltet.
 - Die Bestellung von physischem Merchandise wird über Shopify oder andere Merchandise-Partner verwaltet.
-- Supporter-Tags und andere nicht-physische Käufe werden von Xsolla oder PayPal abgewickelt. Wir speichern keine Informationen zur Auftragsabwicklung oder Zahlungsinformationen.
+- Supporter-Tags und andere nicht-physische Käufe werden von Xsolla oder PayPal abgewickelt. Wir speichern keine Zahlungsinformationen oder Informationen zur Auftragsabwicklung.
 
 ## Ihre Rechte und Kontrolle
 
 Als Nutzer haben Sie das Recht, Ihre personenbezogenen Daten zu migrieren, zu aktualisieren oder zu löschen. Das kann hauptsächlich über die [Einstellungen](https://osu.ppy.sh/home/account/edit) oder durch eine angepasste Funktion "Bearbeiten" in den relevanten Abschnitten unserer Seite gemacht werden. Wenn Sie Ihre vollständigen Kontodaten programmatisch abrufen möchten, verwenden Sie bitte unser [öffentliches API](https://github.com/ppy/osu-api/wiki).
 
-In vielen Fällen können Nutzerbeiträge — zum Beispiel Forumsbeiträge und Beatmaps — auf individueller Basis gelöscht werden. Sie finden die Schaltflächen zum Löschen direkt bei den Elementen, die gelöscht werden können.
+In vielen Fällen können Nutzerbeiträge — wie zum Beispiel Forumsbeiträge und Beatmaps — auf individueller Basis gelöscht werden. Sie finden die Schaltflächen zum Löschen direkt bei den Elementen, die gelöscht werden können.
 
 Sie haben die Möglichkeit, Ihr Konto von unserem Dienst zu löschen. Bitte beachten Sie, dass dies aktuell ein manueller Prozess ist und mehrere Tage in Anspruch nehmen kann ([kontaktieren Sie uns](mailto:privacy@ppy.sh), um einen Antrag zu stellen). Im Falle einer Kontolöschung können Teile Ihrer öffentlichen Beiträge erhalten bleiben, wie unter "Informationen, die wir sammeln" beschrieben.
 
