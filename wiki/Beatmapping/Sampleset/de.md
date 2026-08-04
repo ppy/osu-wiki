@@ -24,4 +24,4 @@ Andere Teile eines Samplesets können die Slidertick-Sounds und den Sound, der a
 
 ## Anmerkungen
 
-[^sample]: Der Begriff [*Sample*](https://de.wikipedia.org/wiki/Sampling_(Musik)) kommt aus dem Englischen und beschreibt eine kurze Tonaufnahme, die als Vorlage in einem Musikstück genutzt werden kann.
+[^sample]: Der Begriff [Sample](https://de.wikipedia.org/wiki/Sampling_(Musik)) kommt aus dem Englischen und beschreibt eine kurze Tonaufnahme, die als Vorlage in einem Musikstück genutzt werden kann.
