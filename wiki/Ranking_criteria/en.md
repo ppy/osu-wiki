@@ -64,7 +64,7 @@ Important to understand before using:
 - **All beatmap content must be cleared regarding [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions).** For artists or tracks which are listed as disallowed on the page, their songs may only be ranked if explicit permission for the track is given to the beatmap host. Proof of permission must be presented in the beatmap description or the discussion page.
 - **Creators of visual media used in a beatmap must be credited in the beatmap's description.** The sources must also be linked whenever possible. In cases without direct or safe-for-work web pages to provide, or the specific artist is unknown, the following is also allowed to credit the media's origin:
   - Crediting the media as "from {game name}", "screenshot from {official music video}", or similar formats.
-  - Image reprints with enough metadata to help verify the original human creator of a work.
+  - Image reuploads with enough metadata to help verify the original human creator of a work.
   - The creator's name, general portfolio website, or social media.
 - **There must not be any obscene imagery in the [background](/wiki/Beatmap/Background)/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. See [Visual Content Considerations](/wiki/Rules/Visual_content_considerations) for more detailed rules.
 - **Difficulties that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or colour in the storyboard or video must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz (i.e. 3 flashes per second) and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
@@ -242,12 +242,12 @@ Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) a
 
 ## AI policy
 
-At its core, we want osu! to remain a space to celebrate human creativity. The community should also remain welcoming to artists. Allowing exclusively human-created songs, artwork, and beatmaps goes hand-in-hand with these goals. The following rules will likely evolve over time.
+The core intent of these rules is allowing osu! to remain a space to celebrate human creativity, and its community a welcoming one to artists. Allowing exclusively human-created songs, artwork, and beatmaps goes hand-in-hand with these goals.
 
 Any cases not covered will be handled on a case-by-case basis and may result in subsequent updates to the rules.
 
 - **A beatmap's hit objects, hitsounds and timing must be created exclusively by direct human input without the use of any generative tooling.** Creating beatmaps is a fundamentally creative process, so using shortcuts like generative AI is unacceptable for ranking.
-- **Beatmap images[^beatmap-images] which are substantially AI-generated must not be used.**
+- **Any image assets in the beatmap and its description which are substantially AI-generated must not be used.**
   - Unacceptable examples include:
     - Direct outputs from generative AI programs.
     - Generative AI outputs with human graphic design or editing.
@@ -260,7 +260,7 @@ Any cases not covered will be handled on a case-by-case basis and may result in 
     - Direct outputs from generative AI programs.
     - Clips from generative AI programs which are edited together.
     - Videos in which sections, characters, or background images were created using generative AI programs.
-- **Songs which are substantially AI generated must not be used.** For instance, a song created by prompting in generative AI music software or services cannot be ranked. 
+- **Songs which are substantially AI-generated must not be used.** For instance, a song created by prompting in generative AI music software or services cannot be ranked. 
   - Advanced VSTs which use AI assistance and ethical data sourcing are allowed, as long as it is a software ultimately controlled and edited in detail by a human musician. 
   - Acceptable use cases may include:
     - Featuring synthesised singers from software made with voice provider consent, such as Synth V or VOCALOID 5/6.
@@ -272,4 +272,3 @@ Any cases not covered will be handled on a case-by-case basis and may result in 
 [^maximum-dimensions]: Backgrounds which are also used as storyboard images may follow [the storyboard images rule for maximum dimensions](/wiki/Ranking_criteria#rules.6) instead.
 [^normal-vs-addition]: [Hitsounds](/wiki/Beatmapping/Hitsound) consist of an always-present *hitnormal* sample, and any combination of whistle, finish, or clap sample *additions*.
 [^songs-comp-note]: The following rule does not apply to [song compilations](/wiki/Beatmap/Song_compilation).
-[^beatmap-images]: Beatmap backgrounds, storyboard images, skin elements, and description images.
