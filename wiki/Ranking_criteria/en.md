@@ -62,7 +62,10 @@ Important to understand before using:
 - **No two hit objects can be placed on the same tick.** This includes hit circles and the durations of sliders and spinners. osu!mania difficulties are exempt from this.
 - **There must be at least 10 milliseconds between a hit circle and the next object, and at least 20 milliseconds between the end of a slider and the next object.** osu!mania and osu!catch difficulties are exempt from this.
 - **All beatmap content must be cleared regarding [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions).** For artists or tracks which are listed as disallowed on the page, their songs may only be ranked if explicit permission for the track is given to the beatmap host. Proof of permission must be presented in the beatmap description or the discussion page.
-- **A beatmap's hit objects, hitsounds and timing must be created exclusively by direct human input without the use of any generative tooling.** Creating beatmaps is a fundamentally creative process, so using shortcuts like generative AI is unacceptable for ranking.
+- **Creators of visual media used in a beatmap must be credited in the beatmap's description.** The sources must also be linked whenever possible. In cases without direct or safe-for-work web pages to provide, or the specific artist is unknown, the following is also allowed to credit the media's origin:
+  - Crediting the media as "from `game name`", "screenshot from `official music video`", or similar formats.
+  - Image reprints with enough metadata to help verify the original human creator of a work.
+  - The creator's name, general portfolio website, or social media.
 - **There must not be any obscene imagery in the [background](/wiki/Beatmap/Background)/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. See [Visual Content Considerations](/wiki/Rules/Visual_content_considerations) for more detailed rules.
 - **Difficulties that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or colour in the storyboard or video must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz (i.e. 3 flashes per second) and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
 - **There must not be any unused files or 0-byte files in the beatmap's folder.** 0-byte files prevent other files in a beatmap's folder from properly uploading. Automatically generated `thumbs.db` files are the only exceptions.
@@ -73,8 +76,6 @@ Important to understand before using:
 
 ### Guidelines
 
-- **Creators of the media used in a beatmap should be credited in the beatmap's description.** Per the [Content Usage Guidelines](/wiki/Rules/Content_usage_guidelines), media used in beatmaps should be permitted for use in osu!, and their licensing will likely detail how to credit their creators. Common reasons to omit credits from the description include exceeding difficulty in sourcing, creators' wishes to remain uncredited, and presence of credits in the artist, title, or source fields.
-  - AI-generated media in beatmaps should explicitly be attributed as being AI-generated, not illustrated or otherwise. This is to prevent misrepresentation of the creation process involved.
 - **Directly re-using your own Ranked or Loved difficulties in other Ranked beatmaps is discouraged.** This is to avoid unnecessary bloating of Ranked content.
 - **[Slider tick rate](/wiki/Beatmapping/Slider_tick_rate) should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they do not cause slider ticks to be unsnapped.
 - **[Kiai](/wiki/Gameplay/Kiai_time) should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
@@ -239,8 +240,40 @@ Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) a
   - **When using many commands of the same type on a sprite, try leaving at least 16 ms between their start times.** 60 commands per second is often more than enough for any sprite to make smooth transitions on an average setup. This is for the sake of reducing file size and loading times.
   - **Fade out sprites activated from triggers after usage.** Triggers will activate from their first possible command and stay active until the end of the difficulty, which is why fading these out when done is preferable.
 
+
+## AI Policies
+
+At its core, we want osu! to remain a space to celebrate human creativity. The community should also remain welcoming to artists. Allowing exclusively human-created songs, artwork, and beatmaps goes hand-in-hand with these goals. The following rules will likely evolve over time.
+
+Any cases not covered will be handled on a case-by-case basis and may result in subsequent updates to the rules.
+
+- **A beatmap's hit objects, hitsounds and timing must be created exclusively by direct human input without the use of any generative tooling.** Creating beatmaps is a fundamentally creative process, so using shortcuts like generative AI is unacceptable for ranking.
+- **Beatmap images[^beatmap-images] which are substantially AI generated must not be used.**
+  - Unacceptable examples include:
+    - Direct outputs from generative AI programs.
+    - Generative AI outputs with human graphics design or editing.
+    - Images from wallpaper or image websites that are found to have been AI generated.
+  - Acceptable use cases may include:
+    - Use of upscaling tools on low resolution images that are otherwise made by human artists.
+    - Use of smart tools such as "content aware selection" found in software such as Photoshop to edit human-created media.
+
+- **Videos which are substantially AI generated must not be used.**
+  - Unacceptable examples include:
+    - Direct outputs from generative AI programs.
+    - Clips from generative AI programs which are edited together.
+    - Videos in which sections, characters, or background images were created using generative AI programs.
+
+- **Songs which are substantially AI generated must not be used.** For instance, a song created by prompting in generative AI music software or services can not be ranked. 
+  - Advanced VSTs which use AI assistance and ethical data sourcing are allowed, as long as it is a software ultimately controlled and edited in detail by a human musician. 
+  - Acceptable use cases may include:
+    - Featuring synthesized singers from software made with voice provider consent, such as Synth V or VOCALOID 5/6.
+    - Mixing tools which can help remove noise, popping, or other live recording errors.
+    - Other individual instrument VSTs that serve solely as a musician-controlled instrument, and not as song creators.
+
+
 ## Notes
 
 [^maximum-dimensions]: Backgrounds which are also used as storyboard images may follow [the storyboard images rule for maximum dimensions](/wiki/Ranking_criteria#rules.6) instead.
 [^normal-vs-addition]: [Hitsounds](/wiki/Beatmapping/Hitsound) consist of an always-present *hitnormal* sample, and any combination of whistle, finish, or clap sample *additions*.
 [^songs-comp-note]: The following rule does not apply to [song compilations](/wiki/Beatmap/Song_compilation).
+[^beatmap-images]: Beatmap backgrounds, storyboard images, skin elements, and description images.
