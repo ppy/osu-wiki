@@ -63,7 +63,7 @@ Important to understand before using:
 - **There must be at least 10 milliseconds between a hit circle and the next object, and at least 20 milliseconds between the end of a slider and the next object.** osu!mania and osu!catch difficulties are exempt from this.
 - **All beatmap content must be cleared regarding [content usage permissions](/wiki/Rules/Content_usage_permissions#artist-permissions).** For artists or tracks which are listed as disallowed on the page, their songs may only be ranked if explicit permission for the track is given to the beatmap host. Proof of permission must be presented in the beatmap description or the discussion page.
 - **Creators of visual media used in a beatmap must be credited in the beatmap's description.** The sources must also be linked whenever possible. In cases without direct or safe-for-work web pages to provide, or the specific artist is unknown, the following is also allowed to credit the media's origin:
-  - Crediting the media as "from `game name`", "screenshot from `official music video`", or similar formats.
+  - Crediting the media as "from {game name}", "screenshot from {official music video}", or similar formats.
   - Image reprints with enough metadata to help verify the original human creator of a work.
   - The creator's name, general portfolio website, or social media.
 - **There must not be any obscene imagery in the [background](/wiki/Beatmap/Background)/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. See [Visual Content Considerations](/wiki/Rules/Visual_content_considerations) for more detailed rules.
@@ -241,30 +241,30 @@ Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) a
   - **Fade out sprites activated from triggers after usage.** Triggers will activate from their first possible command and stay active until the end of the difficulty, which is why fading these out when done is preferable.
 
 
-## AI Policies
+## AI policy
 
 At its core, we want osu! to remain a space to celebrate human creativity. The community should also remain welcoming to artists. Allowing exclusively human-created songs, artwork, and beatmaps goes hand-in-hand with these goals. The following rules will likely evolve over time.
 
 Any cases not covered will be handled on a case-by-case basis and may result in subsequent updates to the rules.
 
 - **A beatmap's hit objects, hitsounds and timing must be created exclusively by direct human input without the use of any generative tooling.** Creating beatmaps is a fundamentally creative process, so using shortcuts like generative AI is unacceptable for ranking.
-- **Beatmap images[^beatmap-images] which are substantially AI generated must not be used.**
+- **Beatmap images[^beatmap-images] which are substantially AI-generated must not be used.**
   - Unacceptable examples include:
     - Direct outputs from generative AI programs.
-    - Generative AI outputs with human graphics design or editing.
-    - Images from wallpaper or image websites that are found to have been AI generated.
+    - Generative AI outputs with human graphic design or editing.
+    - Images from wallpaper or image websites that are found to have been AI-generated.
   - Acceptable use cases may include:
-    - Use of upscaling tools on low resolution images that are otherwise made by human artists.
+    - Use of upscaling tools on low-resolution images that are otherwise made by human artists.
     - Use of smart tools such as "content aware selection" found in software such as Photoshop to edit human-created media.
-- **Videos which are substantially AI generated must not be used.**
+- **Videos which are substantially AI-generated must not be used.**
   - Unacceptable examples include:
     - Direct outputs from generative AI programs.
     - Clips from generative AI programs which are edited together.
     - Videos in which sections, characters, or background images were created using generative AI programs.
-- **Songs which are substantially AI generated must not be used.** For instance, a song created by prompting in generative AI music software or services can not be ranked. 
+- **Songs which are substantially AI generated must not be used.** For instance, a song created by prompting in generative AI music software or services cannot be ranked. 
   - Advanced VSTs which use AI assistance and ethical data sourcing are allowed, as long as it is a software ultimately controlled and edited in detail by a human musician. 
   - Acceptable use cases may include:
-    - Featuring synthesized singers from software made with voice provider consent, such as Synth V or VOCALOID 5/6.
+    - Featuring synthesised singers from software made with voice provider consent, such as Synth V or VOCALOID 5/6.
     - Mixing tools which can help remove noise, popping, or other live recording errors.
     - Other individual instrument VSTs that serve solely as a musician-controlled instrument, and not as song creators.
 
