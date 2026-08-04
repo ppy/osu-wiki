@@ -256,20 +256,17 @@ Any cases not covered will be handled on a case-by-case basis and may result in 
   - Acceptable use cases may include:
     - Use of upscaling tools on low resolution images that are otherwise made by human artists.
     - Use of smart tools such as "content aware selection" found in software such as Photoshop to edit human-created media.
-
 - **Videos which are substantially AI generated must not be used.**
   - Unacceptable examples include:
     - Direct outputs from generative AI programs.
     - Clips from generative AI programs which are edited together.
     - Videos in which sections, characters, or background images were created using generative AI programs.
-
 - **Songs which are substantially AI generated must not be used.** For instance, a song created by prompting in generative AI music software or services can not be ranked. 
   - Advanced VSTs which use AI assistance and ethical data sourcing are allowed, as long as it is a software ultimately controlled and edited in detail by a human musician. 
   - Acceptable use cases may include:
     - Featuring synthesized singers from software made with voice provider consent, such as Synth V or VOCALOID 5/6.
     - Mixing tools which can help remove noise, popping, or other live recording errors.
     - Other individual instrument VSTs that serve solely as a musician-controlled instrument, and not as song creators.
-
 
 ## Notes
 
