@@ -17,9 +17,9 @@ tags:
 
 | 事项 | 时间 |
 | --: | :-- |
-| 选手注册 | 2026-6-21/2026-7-5 |
-| 资格赛 | 2026-7-11/2026-7-12 |
-| 线下赛 | 2026-7-24/2026-7-26 |
+| 选手注册 | 2026-06-21/2026-07-05 |
+| 资格赛 | 2026-07-11/2026-07-12 |
+| 线下赛 | 2026-07-24/2026-07-26 |
 
 ## 奖励
 
@@ -100,8 +100,8 @@ GB杯2026线下赛由 GB 成员和多位社区成员举办。
   1. [Yousei Teikoku - Kyuusei Argyros (MyZterioN-) \[purgatory o'clock (cut)\]](https://osu.ppy.sh/beatmapsets/2062249#mania/4311953)
   2. [AAAA - reach for your victory!!! (Saemitsu) \[boundless glory\]](https://osu.ppy.sh/beatmapsets/2452334#mania/5357486)
   3. [void feat. kotsukimiya, Gt. eba - Name of oath ([Crz]Crysarlene) \[Oathsworn\]](https://osu.ppy.sh/beatmapsets/1893940#mania/3902877)
-  4.[Miyashita Yuu x Hiiragi Kirai - Grain (MyZterioN-) \[hatred 1.1x\]](https://osu.ppy.sh/beatmapsets/2247920#mania/4779651)
-  5.[Yodare-P - Iriya Iriya (V1do-) \[Blasphemy\]](https://osu.ppy.sh/beatmapsets/2565304#mania/5705442)
+  4. [Miyashita Yuu x Hiiragi Kirai - Grain (MyZterioN-) \[hatred 1.1x\]](https://osu.ppy.sh/beatmapsets/2247920#mania/4779651)
+  5. [Yodare-P - Iriya Iriya (V1do-) \[Blasphemy\]](https://osu.ppy.sh/beatmapsets/2565304#mania/5705442)
 - Tiebreaker
   1. **[777system - \~GOLDENERNOCTURNE\~ (V1do-,[GB]Cinelia) \[Divine Retribution (w/ Cinelia)\]](https://osu.ppy.sh/beatmapsets/2588492#mania/5774801)**
 

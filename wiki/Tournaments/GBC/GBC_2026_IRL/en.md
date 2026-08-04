@@ -11,15 +11,15 @@ tags:
 
 ![GBC 2026 IRL banner](img/gbc2026irl-banner.png)
 
-**GB Cup 2026 In Real Life** (***GBC 2026 IRL***) is a osu!mania 4-key solo LAN tournament hosted by [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) and organised by Team GB. It was the tenth instalment of the GB Cup series and the second instalment of the GB Cup IRL. This LAN tournament was held offline at the DOTREAM RHYTHM GAME CULTURE INDUSTRY EXHIBITION in Hangzhou, China.
+**GB Cup 2026 In Real Life** (***GBC 2026 IRL***) was an osu!mania 4-key solo LAN tournament hosted by [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) and organised by Team GB. It was the tenth instalment of the GB Cup and the second instalment of the GB Cup IRL. This LAN tournament was held offline at the DOTREAM RHYTHM GAME CULTURE INDUSTRY EXHIBITION in Hangzhou, China.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2026-6-21/2026-7-5 |
-| Qualifier stage | 2026-7-11/2026-7-12 |
-| Offline tournament stage | 2026-7-24/2026-7-26 |
+| Registration phase | 2026-06-21/2026-07-05 |
+| Qualifier stage | 2026-07-11/2026-07-12 |
+| Offline tournament stage | 2026-07-24/2026-07-26 |
 
 ## Prizes
 
@@ -36,7 +36,7 @@ tags:
 
 ## Organisation
 
-GB Cup 2026 In Real Life was run by the Team GB and various community members.
+The GB Cup 2026 In Real Life was run by Team GB and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -100,8 +100,8 @@ This competition has come to an end and resulted in the following podium:
   1. [Yousei Teikoku - Kyuusei Argyros (MyZterioN-) \[purgatory o'clock (cut)\]](https://osu.ppy.sh/beatmapsets/2062249#mania/4311953)
   2. [AAAA - reach for your victory!!! (Saemitsu) \[boundless glory\]](https://osu.ppy.sh/beatmapsets/2452334#mania/5357486)
   3. [void feat. kotsukimiya, Gt. eba - Name of oath ([Crz]Crysarlene) \[Oathsworn\]](https://osu.ppy.sh/beatmapsets/1893940#mania/3902877)
-  4.[Miyashita Yuu x Hiiragi Kirai - Grain (MyZterioN-) \[hatred 1.1x\]](https://osu.ppy.sh/beatmapsets/2247920#mania/4779651)
-  5.[Yodare-P - Iriya Iriya (V1do-) \[Blasphemy\]](https://osu.ppy.sh/beatmapsets/2565304#mania/5705442)
+  4. [Miyashita Yuu x Hiiragi Kirai - Grain (MyZterioN-) \[hatred 1.1x\]](https://osu.ppy.sh/beatmapsets/2247920#mania/4779651)
+  5. [Yodare-P - Iriya Iriya (V1do-) \[Blasphemy\]](https://osu.ppy.sh/beatmapsets/2565304#mania/5705442)
 - Tiebreaker
   1. **[777system - \~GOLDENERNOCTURNE\~ (V1do-,[GB]Cinelia) \[Divine Retribution (w/ Cinelia)\]](https://osu.ppy.sh/beatmapsets/2588492#mania/5774801)**
 
@@ -181,7 +181,7 @@ Sunday, 26 July 2026:
 
 ### Quarterfinals
 
-Satuaday, 25 July 2026:
+Saturday, 25 July 2026:
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -203,7 +203,7 @@ Friday, 24 July 2026:
 | **Vain_** | **5** | 1 | hh27v7 | [#1](https://osu.ppy.sh/community/matches/121569362) |
 | Szak_ | 2 | **5** | **[GB]fanqiu** | [#1](https://osu.ppy.sh/community/matches/121569532) |
 
-Satuaday, 25 July 2026:
+Saturday, 25 July 2026:
 
 | Player A |  |  | Player B | Match link |
 | --: | :-: | :-: | :-- | :-- |
