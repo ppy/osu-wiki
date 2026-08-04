@@ -86,7 +86,9 @@ La régénération de la barre de santé se fait lentement lorsque l'on maintien
 
 *Reportez-vous à la [page Styles de jeu sous osu!mania](/wiki/Gameplay/Play_style#osu!mania).*
 
-*Voir également : [Styles de jeu osu!mania 10K+](/wiki/Beatmapping/osu!mania_10K_plus_playstyles)*
+::: alert-note
+**Voir également** : [Styles de jeu osu!mania 10K+](/wiki/Beatmapping/osu!mania_10K_plus_playstyles)
+:::
 
 ## Contrôles
 

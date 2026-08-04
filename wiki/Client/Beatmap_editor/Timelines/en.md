@@ -4,7 +4,9 @@ In the [beatmap editor](/wiki/Client/Beatmap_editor), there are three different 
 
 ## Shortcuts
 
-*For a list of keyboard shortcuts for the timeline, see: [Shortcut key reference](/wiki/Client/Keyboard_shortcuts)*
+::: alert-note
+**Note:** For a list of keyboard shortcuts for the timeline, see [Shortcut key reference](/wiki/Client/Keyboard_shortcuts)
+:::
 
 ## Song Player
 

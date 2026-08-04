@@ -3,6 +3,8 @@ stub: true
 tags:
   - NF
   - nofail
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # No Fail（lazer 模组）
@@ -23,7 +25,7 @@ tags:
 | 类别 | 降低难度 |
 | 默认快捷键 | `W` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 | 0.50x |
+| 得分系数 | `0.50x` |
 | 状态 | 计入排名 |
 | 不兼容的模组 | [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 

@@ -1,20 +1,15 @@
----
-outdated_translation: true
-outdated_since: 77913d6cce75409e9d72a7fde2b35ec26d18214c
----
-
 # 实力奖章解锁条件
 
 | 奖章名称 | 条件 |
 | :-- | :-- |
-| 500 Combo | 在任意游戏模式的谱面中达成 500 连击。 |
-| 750 Combo | 在任意游戏模式的谱面中达成 750 连击。 |
-| 1000 Combo | 在任意游戏模式的谱面中达成 1000 连击。 |
-| 2000 Combo | 在任意游戏模式的谱面中达成 2000 连击。 |
-| I can see the top | 在任意游戏模式中达成 #50,000 及以上的全球排名。 |
-| The gradual rise | 在任意游戏模式中达成 #10,000 及以上的全球排名。 |
-| Scaling up | 在任意游戏模式中达成 #5,000 及以上的全球排名。 |
-| Approaching the summit | 在任意游戏模式中达成 #1,000 及以上的全球排名。 |
+| 500 Combo | 在 osu! 模式的谱面中达成 500 连击。 |
+| 750 Combo | 在 osu! 模式的谱面中达成 750 连击。 |
+| 1,000 Combo | 在 osu! 模式的谱面中达成 1000 连击。 |
+| 2,000 Combo | 在 osu! 模式的谱面中达成 2000 连击。 |
+| I Can See The Top | 在任意游戏模式中达成 #50,000 及以上的全球排名。 |
+| The Gradual Rise | 在任意游戏模式中达成 #10,000 及以上的全球排名。 |
+| Scaling Up | 在任意游戏模式中达成 #5,000 及以上的全球排名。 |
+| Approaching The Summit | 在任意游戏模式中达成 #1,000 及以上的全球排名。 |
 | Rising Star (osu!)/My First Don (osu!taiko)/A Slice Of Life (osu!catch)/First Steps (osu!mania) | 在相应游戏模式中完成一张星数在 1.00★–1.99★ 范围内，且处于过审 (Qualified)、上架 (Ranked) 或达标 (Approved) 状态的谱面（在将所有[增加难度的模组](/wiki/Gameplay/Game_modifier#增加难度)（如果有）考虑在内后）。不允许使用任何[降低难度的模组](/wiki/Gameplay/Game_modifier#降低难度)。 |
 | Constellation Prize (osu!)/Katsu Katsu Katsu (osu!taiko)/Dashing Ever Forward (osu!catch)/No Normal Player (osu!mania) | 在相应游戏模式中完成一张星数在 2.00★–2.99★ 范围内，且处于过审 (Qualified)、上架 (Ranked) 或达标 (Approved) 状态的谱面（在将所有[增加难度的模组](/wiki/Gameplay/Game_modifier#增加难度)（如果有）考虑在内后）。不允许使用任何[降低难度的模组](/wiki/Gameplay/Game_modifier#降低难度)。 |
 | Building Confidence (osu!)/Not Even Trying (osu!taiko)/Zesty Disposition (osu!catch)/Impulse Drive (osu!mania) | 在相应游戏模式中完成一张星数在 3.00★–3.99★ 范围内，且处于过审 (Qualified)、上架 (Ranked) 或达标 (Approved) 状态的谱面（在将所有[增加难度的模组](/wiki/Gameplay/Game_modifier#增加难度)（如果有）考虑在内后）。不允许使用任何[降低难度的模组](/wiki/Gameplay/Game_modifier#降低难度)。 |
@@ -35,3 +30,4 @@ outdated_since: 77913d6cce75409e9d72a7fde2b35ec26d18214c
 | Aberration (osu!)/The Drummer's Throne (osu!taiko)/Dashing Scarlet (osu!catch)/Behind The Veil (osu!mania) | 在相应游戏模式中全连一张星数在 8.00★–8.99★ 范围内，且处于过审 (Qualified)、上架 (Ranked) 或达标 (Approved) 状态的谱面（在将所有[增加难度的模组](/wiki/Gameplay/Game_modifier#增加难度)（如果有）考虑在内后）。不允许使用任何[降低难度的模组](/wiki/Gameplay/Game_modifier#降低难度)。 |
 | Chosen | 在相应游戏模式中全连一张星数在 9.00★–9.99★ 范围内的谱面（在将所有[增加难度的模组](/wiki/Gameplay/Game_modifier#增加难度)（如果有）考虑在内后）。不允许使用任何[降低难度的模组](/wiki/Gameplay/Game_modifier#降低难度)。 |
 | Unfathomable | 在相应游戏模式中全连一张星数在 10.00★–10.99★ 范围内的谱面（在将所有[增加难度的模组](/wiki/Gameplay/Game_modifier#增加难度)（如果有）考虑在内后）。不允许使用任何[降低难度的模组](/wiki/Gameplay/Game_modifier#降低难度)。 |
+| Cyclone | 使转盘转速达到每分钟 477 转。该奖章仅可在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 中获得。 |

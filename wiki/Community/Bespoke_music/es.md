@@ -10,8 +10,7 @@ tags:
   - música
 translation_keys:
   text:
-    total_count: Actualmente, hay un total de **{total}** canciones documentadas hechas
-      dentro de osu!.
+    total_count: Actualmente, hay un total de **{total}** canciones documentadas hechas dentro de osu!.
   graph:
     title: Música hecha a medida a lo largo del tiempo
     alt_text: Gráfico de la música hecha a medida a lo largo del tiempo
@@ -32,19 +31,15 @@ translation_keys:
     notes: Notas
   table_note:
     2015 osu! theme: Tema de osu! de 2015
-    Christmas/Winter (\d{4}) osu! theme: Tema de osu! para la Navidad/invierno de
-      \1
+    Christmas/Winter (\d{4}) osu! theme: Tema de osu! para la Navidad/invierno de \1
     Current osu!\(lazer\) main theme: Tema principal actual de osu!(lazer)
     Current tutorial song: Canción actual del tutorial
-    Former \[osu!stream\]\(/wiki/osu!stream\) main theme: Antiguo tema principal de
-      [osu!stream](/wiki/osu!stream)
-    osu!\(lazer\) "ranked play" theme: Tema del modo de «partidas clasificatorias»
-      de osu!(lazer)
+    Former \[osu!stream\]\(/wiki/osu!stream\) main theme: Antiguo tema principal de [osu!stream](/wiki/osu!stream)
+    osu!\(lazer\) "ranked play" theme: Tema del modo de «partidas clasificatorias» de osu!(lazer)
     Former osu! theme: Antiguo tema de osu!
     Former tutorial song: Antigua canción del tutorial
     Halloween 2016 osu! theme: Tema de osu! para Halloween de 2016
-    Original composition for \[osu!stream\]\(/wiki/osu!stream\): Composición original
-      para [osu!stream](/wiki/osu!stream)
+    Original composition for \[osu!stream\]\(/wiki/osu!stream\): Composición original para [osu!stream](/wiki/osu!stream)
     Summer 2023 osu! theme: Tema de osu! para el verano de 2023
     \[osu!stream\]\(/wiki/osu!stream\) main theme: Tema principal de [osu!stream](/wiki/osu!stream)
     Cutscene background music: Música de fondo para las escenas
@@ -52,24 +47,19 @@ translation_keys:
     Livestream BGM: Música de fondo de la transmisión en vivo
     Main theme: Tema principal
     Trailer music: Música del tráiler
-    "Finals & Last Chance Bracket Pool #1 (.+)": "\\1 de las finales y del bracket\
-      \ de última oportunidad \\#1"
-    Finals HD3 \(osu!\), finals NM1 \(osu!catch\): HD3 de las finales (osu!), NM1
-      de las finales (osu!catch)
-    Day (\d) (.{3}) \((.+)\) / Day (\d) (.{3}) \((.+)\): \2 del día \1 (\3) / \5 del
-      día \4 (\6)
+    "Finals & Last Chance Bracket Pool #1 (.+)": \1 de las finales y del bracket de última oportunidad \#1
+    Finals HD3 \(osu!\), finals NM1 \(osu!catch\): HD3 de las finales (osu!), NM1 de las finales (osu!catch)
+    Day (\d) (.{3}) \((.+)\) / Day (\d) (.{3}) \((.+)\): \2 del día \1 (\3) / \5 del día \4 (\6)
     (osu!(?:taiko|catch|mania)?) and (osu!(?:taiko|catch|mania)?): \1 y \2
     Day (\d+) tiebreaker \((.+)\): Mapa de desempate del día \1 (\2)
     Qualifier Stage (\d+): Mapa de la fase clasificatoria \1
-    Knockout Stage (\d+) Pool (.) (.+): \3 de la pool \2 en la fase de eliminación
-      \1
+    Knockout Stage (\d+) Pool (.) (.+): \3 de la pool \2 en la fase de eliminación \1
     Pool (.+) Free Mod pick: Pool \1, selección Free Mod
     Grand Finals 7th pick: Séptimo beatmap seleccionado en la gran final
     Finals 7th pick: Séptimo beatmap seleccionado en las finales
     Semifinals/Finals (.+)(?= \(): \1 de las semifinales/finales
     Quarterfinals HD pick \(B5\): Selección HD de los cuartos de final (B5)
-    Quarterfinals & Semifinals NM pick \(C11\): Selección NM de las semifinales/finales
-      (C11)
+    Quarterfinals & Semifinals NM pick \(C11\): Selección NM de las semifinales/finales (C11)
     Quarterfinals & Semifinals (.+): \1 de los cuartos de final y las semifinales
     Finals & Grand Finals (.+): \1 de las finales y la gran final
     Round of 16 & Quarterfinals (.+): \1 de los octavos y cuartos de final
@@ -109,7 +99,9 @@ translation_keys:
     technical: Mapa técnico
     wildcard: Comodín
     \b(.{2}) pick: Selección \1
-    '"Mango" pick': Selección «Mango»
+    "\"Mango\" pick": Selección «Mango»
+outdated_translation: true
+outdated_since: 99bedac1b49df96c9a0137ee9ed7e060d8df1eba
 ---
 
 <!-- Everything inside the "Estadísticas" (Statistics) and "Listado" (Listing) sections is automated. If a translation there is incorrect, malformatted or needs to be updated, please reach out to a wiki maintainer in the `#osu-wiki` channel on the development server. -->
@@ -126,9 +118,9 @@ Las canciones de esta lista que no incluyan dichas etiquetas no cuentan con lice
 
 ## Estadísticas
 
-Actualmente, hay un total de **1343** canciones documentadas hechas dentro de osu!.
+Actualmente, hay un total de **1347** canciones documentadas hechas dentro de osu!.
 
-![Gráfico de la música hecha a medida a lo largo del tiempo](img/bespoke-music-over-time-ES.png?20260721)
+![Gráfico de la música hecha a medida a lo largo del tiempo](img/bespoke-music-over-time-ES.png?20260727)
 
 ## Listado
 
@@ -157,7 +149,9 @@ Actualmente, hay un total de **1343** canciones documentadas hechas dentro de os
 
 #### [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)
 
-*Para la publicación del anuncio, véase: [Mapping With Rewards (Sep. 2015)](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [Mapping With Rewards (Sep. 2015)](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -176,7 +170,9 @@ Actualmente, hay un total de **1343** canciones documentadas hechas dentro de os
 
 #### [Drazically](https://osu.ppy.sh/beatmaps/artists/496)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: Drazically](https://osu.ppy.sh/home/news/2025-09-07-new-featured-artist-drazically)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: Drazically](https://osu.ppy.sh/home/news/2025-09-07-new-featured-artist-drazically)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -184,7 +180,9 @@ Actualmente, hay un total de **1343** canciones documentadas hechas dentro de os
 
 #### [happy30](https://osu.ppy.sh/beatmaps/artists/317)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: happy30](https://osu.ppy.sh/home/news/2022-11-02-new-featured-artist-happy30)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: happy30](https://osu.ppy.sh/home/news/2022-11-02-new-featured-artist-happy30)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -193,7 +191,9 @@ Actualmente, hay un total de **1343** canciones documentadas hechas dentro de os
 
 #### [James Landino](https://osu.ppy.sh/beatmaps/artists/39)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: James Landino](https://osu.ppy.sh/home/news/2019-05-31-new-featured-artist-james-landino)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: James Landino](https://osu.ppy.sh/home/news/2019-05-31-new-featured-artist-james-landino)
+:::
 
 Estas canciones forman parte del [EP osu! James Landino Collection](https://fanlink.to/osulandino)
 
@@ -208,7 +208,9 @@ Estas canciones forman parte del [EP osu! James Landino Collection](https://fanl
 
 #### [kiraku](https://osu.ppy.sh/beatmaps/artists/101)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: kiraku](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: kiraku](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -216,7 +218,9 @@ Estas canciones forman parte del [EP osu! James Landino Collection](https://fanl
 
 #### [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: Kitazawa Kyouhei](https://osu.ppy.sh/home/news/2021-05-15-new-featured-artist-kitazawa-kyouhei)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: Kitazawa Kyouhei](https://osu.ppy.sh/home/news/2021-05-15-new-featured-artist-kitazawa-kyouhei)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -224,7 +228,9 @@ Estas canciones forman parte del [EP osu! James Landino Collection](https://fanl
 
 #### [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: Rabbit House](https://osu.ppy.sh/home/news/2022-02-23-new-featured-artist-rabbit-house)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: Rabbit House](https://osu.ppy.sh/home/news/2022-02-23-new-featured-artist-rabbit-house)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -232,7 +238,9 @@ Estas canciones forman parte del [EP osu! James Landino Collection](https://fanl
 
 #### [tomspicy](https://osu.ppy.sh/beatmaps/artists/437)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: tomspicy](https://osu.ppy.sh/home/news/2024-09-14-new-featured-artist-tomspicy)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: tomspicy](https://osu.ppy.sh/home/news/2024-09-14-new-featured-artist-tomspicy)
+:::
 
 Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.ppy.sh/beatmaps/artists/437#album-2135)
 
@@ -246,7 +254,9 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 
 #### [yuki.](https://osu.ppy.sh/beatmaps/artists/4)
 
-*Para la publicación del anuncio, véase: [Community Mapping Contest #1 - yuki. (Nadeshiko Sensation)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [Community Mapping Contest #1 - yuki. (Nadeshiko Sensation)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -262,7 +272,9 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 
 #### [ZxNX](https://osu.ppy.sh/beatmaps/artists/288)
 
-*Para la publicación del anuncio, véase: [New Featured Artist: ZxNX](https://osu.ppy.sh/home/news/2022-07-30-new-featured-artist-zxnx)*
+::: alert-note
+**Nota:** Para la publicación del anuncio, véase [New Featured Artist: ZxNX](https://osu.ppy.sh/home/news/2022-07-30-new-featured-artist-zxnx)
+:::
 
 | Enlaces |  | Canción |
 | --: | :-: | :-- |
@@ -334,7 +346,7 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kommisar/osu-world-cup-2023-grand-finals-fm2-akari-beam-cannon-last-boss "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Kommisar&query=%22AKARI%20BEAM%20CANNON%20LAST%20BOSS%22 "osu! original") | Kommisar - AKARI BEAM CANNON LAST BOSS | [#1](https://osu.ppy.sh/beatmapsets/2095159) | FM2 de la gran final |
 |  | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Lime%20%2F%20Kankitsu&query=%22Pixel%20Planet%22 "osu! original") | Lime - Pixel Planet | [#1](https://osu.ppy.sh/beatmapsets/2095123) | NM2 de la gran final |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/litmus_star/requiem-for-the-aura-litmus-vs-ester "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=xthCFJUzYLc "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://litmus-star.bandcamp.com/track/requiem-for-the-aura "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=litmus%2A%20%2F%20Ester&query=%22Requiem%20for%20the%20Aura%22 "osu! original") | litmus* vs Ester - Requiem for the Aura | [#1](https://osu.ppy.sh/beatmapsets/2095119) | HD3 de la gran final |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=GDIjhZCZelQ "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=%22Burning%20Star%22 "osu! original") | LV.4 - Burning Star | [#1](https://osu.ppy.sh/beatmapsets/2095154) | HR3 de la gran final |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=x6flHm3xF08 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/11HqgvAOgBCx92T2L5cjp4 "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://lv4code49.bandcamp.com/track/burning-star "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=%22Burning%20Star%22 "osu! original") | LV.4 - Burning Star | [#1](https://osu.ppy.sh/beatmapsets/2095154) | HR3 de la gran final |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/myukke/mach-roger-from-osu-world-cup-2023 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=ZMQkyaN_F4k "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/6R2QyubyubDrlzAFgrpioc "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=MYUKKE.&query=%22Mach%20Roger%22 "osu! original") | MYUKKE. - Mach Roger | [#1](https://osu.ppy.sh/beatmapsets/2085335) | NM4 de los cuartos de final |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=yYcLNJ62-WI "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/7bvKE1wDE4F595sPIDYHah "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=orangentle%20%2F%20Yu_Asahina&query=%22OEFHEBEN%22 "osu! original") | orangentle / Yu\_Asahina - OEFHEBEN | [#1](https://osu.ppy.sh/beatmapsets/2091787) | NM2 de las finales |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/polysha/endverseowc-2023-semifinal-tibreaker-song "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=ObMSqt8UO20 "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://masamunejp.bandcamp.com/track/endverse "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=polysha&query=%22Endverse%22 "osu! original") | polysha - Endverse | [#1](https://osu.ppy.sh/beatmapsets/2088576) | Mapa de desempate de las semifinales |
@@ -481,7 +493,7 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/halvsan/halv-vs-kuro-evreka "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=cP3ubbn0-fY "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Halv&query=%22Evreka%22 "osu! original") | Halv vs. kuro - Evreka | [#1](https://osu.ppy.sh/beatmapsets/2011570) | Mapa de desempate de la gran final |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kanemiko/cold-fusion "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=TXWxzjRx-z4 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/0J6PFAcwG2jtiF5ip2KyQB "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://kanemiko.bandcamp.com/track/comet-casting-capsule-catching-celestial-clusters-long-version "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=kanemiko&query=%22Cold%20Fusion%22 "osu! original") | kanemiko - Cold Fusion | [#1](https://osu.ppy.sh/beatmapsets/2011522) | NM1 de la gran final |
-|  | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=%22Chemical%20Diving%22 "osu! original") | LV.4 - Chemical Diving | [#1](https://osu.ppy.sh/beatmapsets/2026273) | HR1 de las finales |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=gF0ex3waxdI "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/7LVbVzYGJ4WUlZFsKYUhLH "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://lv4code49.bandcamp.com/track/chemical-diving "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=%22Chemical%20Diving%22 "osu! original") | LV.4 - Chemical Diving | [#1](https://osu.ppy.sh/beatmapsets/2026273) | HR1 de las finales |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/myukke/anti-safety-zone-from-osucatch-world-cup-2023 "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/3Nrfda871Tw8XZOiHkNXH1 "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://myukke.bandcamp.com/track/anti-safety-zone "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=MYUKKE.&query=%22Anti%20Safety%20Zone%22 "osu! original") | MYUKKE. - Anti Safety Zone | [#1](https://osu.ppy.sh/beatmapsets/2004086) | HD3 de las semifinales |
 |  | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=%22Erinyes%22 "osu! original") | Toromaru - Erinyes | [#1](https://osu.ppy.sh/beatmapsets/2000438) | HR3 de los cuartos de final |
 
@@ -1175,6 +1187,13 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://arxe.bandcamp.com/track/feat "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=ArXe&query=%22Kasumi%20Tourou%20feat.%20Hatsune%20Miku%22 "osu! original") | ArXe - Kasumi Tourou feat. Hatsune Miku | [#1](https://osu.ppy.sh/beatmapsets/2403349) | NM2 de la gran final |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/mananatheone/name "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://mananathone.bandcamp.com/track/name "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=mananatheone&query=%22Name%22 "osu! original") | mananatheone - Name | [#1](https://osu.ppy.sh/beatmapsets/2403355) | HD3 de la gran final |
 
+#### ![](/wiki/shared/mode/osu.png) [Newcomers World Cup 2026](https://osu.ppy.sh/community/forums/topics/2205191)
+
+| Enlaces |  | Canción | Beatmap | Notas |
+| --: | :-: | :-- | :-: | :-- |
+|  |  | Amaristia - peam | [#1](https://osu.ppy.sh/beatmapsets/2589075) | FM1 de los octavos de final |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=1rxgRlRfwag "YouTube") |  | CyanMilkyWay - Welcome // To The Game!\! | [#1](https://osu.ppy.sh/beatmapsets/2586023) | NM1 de los dieciseisavos de final |
+
 #### ![](/wiki/shared/mode/osu.png) [Nordic Summer Showdown](/wiki/Tournaments/NSS/1)
 
 | Enlaces |  | Canción | Beatmap | Notas |
@@ -1329,6 +1348,7 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=0rcuOQjfYB0 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/5QM9DIYHculTZPaLJ5MUmy "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://tgrx.bandcamp.com/track/covenant-of-the-sky "Bandcamp") |  | TGRX - Covenant of the Sky | [#1](https://osu.ppy.sh/beatmapsets/2574035) | Mapa de desempate de los octavos de final |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=OwJyqNSdD3M "YouTube") |  | THE BEAT WIZARD - party in my head wont stop so i called in a noise complaint | [#1](https://osu.ppy.sh/beatmapsets/2574014) | NM4 de los octavos de final |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=ThCxWIOyfGw "YouTube") |  | USAO - Anomaly (OKSY\_GENE Remix)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/2578181) | NM1 de los cuartos de final |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/xeventii/crowdkill "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=TWGL2UwjPyw "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/0h3AdRKdXv3x9extCOECzM "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://xeventii.bandcamp.com/track/crowdkill-feat-kasane-teto "Bandcamp") |  | Xeven - Crowdkill (feat. Kasane Teto)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2585574) | Mapa de desempate de las finales |
 
 #### ![](/wiki/shared/mode/osu.png) [Scarlet's Touhou Tournament 3rd Season](https://osu.ppy.sh/community/forums/topics/1759334)
 
@@ -1665,6 +1685,7 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | Enlaces |  | Canción | Beatmap | Notas |
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sumi-83860761/fragmented-reality "SoundCloud") |  | sumi - Fragmented Reality | [#1](https://osu.ppy.sh/beatmapsets/2589239) | NM4 de las semifinales |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/zeforex/angelus-uni-alatus "SoundCloud") |  | Zeforex - ANGELUS UNI-ALATUS | [#1](https://osu.ppy.sh/beatmapsets/2593169) | FM1 de las finales |
 
 #### ![](/wiki/shared/mode/osu.png) [otst:live!](https://osu.ppy.sh/community/forums/topics/2095985)
 
