@@ -240,7 +240,6 @@ Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) a
   - **When using many commands of the same type on a sprite, try leaving at least 16 ms between their start times.** 60 commands per second is often more than enough for any sprite to make smooth transitions on an average setup. This is for the sake of reducing file size and loading times.
   - **Fade out sprites activated from triggers after usage.** Triggers will activate from their first possible command and stay active until the end of the difficulty, which is why fading these out when done is preferable.
 
-
 ## AI policy
 
 At its core, we want osu! to remain a space to celebrate human creativity. The community should also remain welcoming to artists. Allowing exclusively human-created songs, artwork, and beatmaps goes hand-in-hand with these goals. The following rules will likely evolve over time.
