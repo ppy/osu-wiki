@@ -25,13 +25,13 @@ Despite the intimidating intro above, the Mappers' Guild is open to mappers of a
 
 By completing priority quests, you can earn...
 
-- A profile badge upon completing **3 priority quests**:
+- A profile badge upon completing **3 priority quests**
 
 ![Priority quest badge](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/questbadge.png)
 
-- A [**customised keychain**](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/keychain.jpg) based on a pattern in your map. These are the (absolutely ridiculous) results of the previous priority quest batch:
+- A [**customised keychain**](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/keychain.jpg) based on a pattern in your map. Over **250** of these were created for winners of the [last batch of quests](https://osu.ppy.sh/home/news/2026-03-16-mappers-guild-spring-2026-priority-quests)!
 
-![video of ridiculous amount of keychains]()
+![video of ridiculous amount of keychains](/wiki/shared/news/2026-08-06-mappers-guild-summer-2026-priority-quests/keychains.gif)
 
 - And all the usual [Mappers' Guild rewards](/wiki/Community/Mappers_Guild#rewards) for ranking beatmaps!
 
@@ -41,13 +41,13 @@ The [priority quest board](https://mappersguild.com/missions) has **7** newly ad
 
 Below is an overview of each quest. If any are confusing, feel free to ask questions in the comments or directly to [pishifat](https://osu.ppy.sh/community/chat?sendto=3178418). Be sure to check the quest pages for additional requirements!
 
-### [Ranked Play: Breadth](https://mappersguild.com/missions?id=xxx) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
+### [Ranked Play: Breadth](https://mappersguild.com/missions?id=6a7153663a91cdc3bff041c8) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
 
 The new [Ranked Play](https://www.youtube.com/watch?v=FdAS8LHID9g) mode is finally in osu!(lazer) and you're the mappooler. Design a map that'll be part of future players' decks, including a difficulty spread of at least **Hard**/**Insane**/**Expert**.
 
 Ranked play only includes maps between 1 and 5 minutes, so ensure your map is within that range!
 
-### ["new" beginnings v2](https://mappersguild.com/missions?id=xxx) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
+### ["new" beginnings v2](https://mappersguild.com/missions?id=6a7153123a91cdc3bff041c7) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
 
 Tons of mappers have Ranked maps, but some have *never* touched Featured Artist songs.
 
@@ -55,13 +55,13 @@ It's time to undergo the Mappers' Guild initiation: rank your **first Featured A
 
 If you already have a Ranked map using a Featured Artist song (excluding guest difficulties), this quest *isn't* for you.
 
-### [Ranked Play: Peak](https://mappersguild.com/missions?id=xxx) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
+### [Ranked Play: Peak](https://mappersguild.com/missions?id=6a7153a03a91cdc3bff041c9) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
 
 One of [Ranked Play](https://www.youtube.com/watch?v=FdAS8LHID9g)'s known issues is a lack of maps for top players. To help with that, you're going to **rank a map above 7 stars.** Keep in mind that Ranked Play map selection requires maps **between 1 and 5 minutes long!**
 
-The [Ranking criteria](https://osu.ppy.sh/wiki/Ranking_criteria) will have more lenient spread rules soon, so you may want to stalk the [Ranking criteria subforum](https://osu.ppy.sh/community/forums/87) until that happens.
+The [Ranking criteria](https://osu.ppy.sh/wiki/Ranking_criteria) will have more lenient spread rules soon, so you may want to bookmark the [related forum thread](https://osu.ppy.sh/community/forums/topics/2213552) to see how that may affect your mapping.
 
-### [Collective action](https://mappersguild.com/missions?id=xxx) ![gold icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/gold-small.png)
+### [Collective action](https://mappersguild.com/missions?id=6a7154123a91cdc3bff041ca) ![gold icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/gold-small.png)
 
 The completionist within you has been begging for this moment.
 
@@ -75,37 +75,43 @@ Here are examples for clarity:
 
 For best results, strategize the song you map with other people in the Mappers' Guild!
 
-### [Classified: Genre edition](https://mappersguild.com/missions?id=xxx) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
+### [Classified: Genre edition](https://mappersguild.com/missions?id=6a7154583a91cdc3bff041cc) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
 
 This quest goes back to the roots of the Mappers' Guild: making maps for upcoming Featured Artists. You'll be entrusted with 3 highly confidential, unannounced Featured Artist songs with the goal of **creating and ranking a map for 1 of them**!
 
 "Genre edition" refers to how songs are chosen. You select a genre/category on the quest page, then receive songs based on that selection. If you want a different song, you can re-roll too!
 
-### [The Hurdle v8](https://mappersguild.com/missions?id=xxx) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
+### [The Hurdle v8](https://mappersguild.com/missions?id=6a71543a3a91cdc3bff041cb) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
 
 If you're a new mapper, you don't need extra restrictions on your creativity. Making a map is tough enough on its own.
 
 This quest is simple: **create and rank your first beatmap!**
 
-### [Momentum](https://mappersguild.com/missions?id=xxx) ![unreal icon](/wiki/shared/news/2026-08-06-mappers-guild-summer-2026-priority-quests/unreal-small.png)
+### [Momentum](https://mappersguild.com/missions?id=6a72690e7bb7379c8603522c) ![unreal icon](/wiki/shared/news/2026-08-06-mappers-guild-summer-2026-priority-quests/unreal-small.png)
 
-![video teaser for Momentum quest](LINK)
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/quest_intro.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 ## Beatmap packs
 
 Anyone who read the recent [Community Contributors article](https://osu.ppy.sh/home/news/2026-08-02-community-contributors-2025) knows that [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) is responsible for the ever-expanding [beatmap packs](https://osu.ppy.sh/beatmaps/packs) section of the osu! website. As of recently, those efforts have overlapped with the Mappers' Guild!
 
-In the [Featured Artist packs section](https://osu.ppy.sh/beatmaps/packs?type=featured), you'll find beatmap packs encompassing all recently completed quests in the guild. This includes packs for both [normal quests](https://mappersguild.com/quests) and [priority quests](https://mappersguild.com/missions), with the exception of quests that require 2 or fewer maps.
+In the [Featured Artist packs section](https://osu.ppy.sh/beatmaps/packs?type=featured), you'll find beatmap packs encompassing all recently completed quests in the guild. This includes packs for both [normal quests](https://mappersguild.com/quests) and [priority quests](https://mappersguild.com/missions), with the exception of quests that require 2 or fewer maps. If you made one of the 250+ maps from the [previous batch of priority quests](https://osu.ppy.sh/home/news/2026-03-16-mappers-guild-spring-2026-priority-quests), it's somewhere down here:
 
-If you're looking to immortalize your maps, these bigger quests are a surefire way of doing so. Everyone please thank our packing overlord [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) for making this happen!
+- [**"First impressions" beatmap pack**](https://osu.ppy.sh/beatmaps/packs/FM43)
+- [**"Limitation" beatmap pack**](https://osu.ppy.sh/beatmaps/packs/FM44)
+- [**"Ease of access v2" beatmap pack**](https://osu.ppy.sh/beatmaps/packs/FM45)
+- [**"Skinning Showcase" beatmap pack**](https://osu.ppy.sh/beatmaps/packs/FM46)
+- [**"The Hurdle v7" beatmap pack**](https://osu.ppy.sh/beatmaps/packs/FM47)
+- **"Classified: Genre edition" beatmap pack**... is top secret for now.
 
-## Conclusion
+Everyone please thank our packing overlord [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) for making this happen!
 
-Rather than reading this news article, you should be doing one of two things: 
+---
 
-1. Deciding what to map for [one of the newly opened priority quests](https://mappersguild.com/missions), or...
-2. Working with the rest of the Mappers' Guild to figure out what's going on with the [Momentum quest](LINK). Completing this quest will affect everyone in the Mappers' Guild, so you can think of it as an even higher priority quest than usual. Or you can ignore it. Up to you.
-
-Have fun mapping!
+Rather than reading this news article, you should be deciding what to map for [one of the newly opened priority quests](https://mappersguild.com/missions).
 
 —pishifat
