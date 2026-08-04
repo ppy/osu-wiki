@@ -34,7 +34,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 
 #### Rules
 
-The following list covers where the [spread](wiki/Beatmap/Difficulty_spread) of a mapset must start, depending on the durations listed below. When a mapset contains difficulties with different durations, the shortest difficulty in the mapset will determine the required spread.
+The following list covers where the [spread](/wiki/Beatmap/Difficulty_spread) of a mapset must start, depending on the durations listed below. When a mapset contains difficulties with different durations, the shortest difficulty in the mapset will determine the required spread.
 
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
   - **...lower than 2:30**, the lowest difficulty cannot be harder than a Normal.
