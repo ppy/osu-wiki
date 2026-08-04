@@ -13,8 +13,8 @@ Der folgende Abschnitt beschreibt welche Dateien ersetzt werden können:
 
 Die drei folgenden Samples sind ergänzend, d. h. beim Anklicken einer whistle werden hitsound und hitwhistle abgespielt.
 
-- `normal-sliderslide` (Schleife)
-- `normal-sliderwhistle` (Schleife)
+- `normal-sliderslide` (in Schleife abgespielt)
+- `normal-sliderwhistle` (in Schleife abgespielt)
 - `normal-slidertick`
 
 ## Soft-Sampleset
@@ -26,8 +26,8 @@ Die drei folgenden Samples sind ergänzend, d. h. beim Anklicken einer whistle w
 
 Die drei folgenden Samples sind ergänzend, d. h. beim Anklicken einer whistle werden hitsound und hitwhistle abgespielt.
 
-- `soft-sliderslide` (Schleife)
-- `soft-sliderwhistle` (Schleife)
+- `soft-sliderslide` (in Schleife abgespielt)
+- `soft-sliderwhistle` (in Schleife abgespielt)
 - `soft-slidertick`
 
 ## Drum-Sampleset
@@ -39,8 +39,8 @@ Die drei folgenden Samples sind ergänzend, d. h. beim Anklicken einer whistle w
 
 Die drei folgenden Samples sind ergänzend, d. h. beim Anklicken einer whistle werden hitsound und hitwhistle abgespielt.
 
-- `drum-sliderslide` (Schleife)
-- `drum-sliderwhistle` (Schleife)
+- `drum-sliderslide` (in Schleife abgespielt)
+- `drum-sliderwhistle` (in Schleife abgespielt)
 - `drum-slidertick`
 
 ## Universelle Samples
@@ -52,11 +52,11 @@ Die drei folgenden Samples sind ergänzend, d. h. beim Anklicken einer whistle w
 ## Anmerkungen
 
 - Intern wird aufgrund der geringeren Latenz und der Schleifenkompatibilität für alle Hitsounds das Dateiformat `.wav` verwendet.
-  - Du kannst `.wav` oder `.mp3` verwenden, aber beachte Folgendes: `.wav`-Dateien sind in allen Fällen am besten geeignet, denn `.mp3`-Dateien werden manchmal nicht richig in Endlosschleife abgespielt oder haben eine kurze Lücke (0–20ms) zwischen den Wiederholungen.
+  - Du kannst `.wav` oder `.mp3` verwenden, aber beachte Folgendes: `.wav`-Dateien sind in allen Fällen am besten geeignet, denn `.mp3`-Dateien werden manchmal nicht richig in Endlosschleife abgespielt oder haben eine kurze Lücke (0 bis 20 ms) zwischen den Wiederholungen.
 - Wenn du sowohl die Normal- als auch die Soft-Samples in einem Skin ersetzen möchtest, kannst du einfach die Präfixe `normal-` und `soft-` weglassen.
 - Lege diese Dateien im Ordner deiner Beatmap oder deines Skins ab. Danach musst du die Beatmap oder den Skin neu laden, damit die Änderungen in Kraft treten!
 
-## Verwandte Arikel
+## Verwandte Artikel
 
 Siehe auch:
 
