@@ -34,7 +34,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 
 #### Rules
 
-The following spread thresholds cover where a mapset's spread must start, depending on the drain time. Every difficulty in a mapset must meet the drain time threshold listed. When a mapset contains difficutlies with different drain times, the shortest drain time in the mapset will determine the required spread.
+The following spread thresholds cover where the spread of a mapset must start, depending on the durations listed below. When a mapset contains difficulties with different durations, the shortest difficulty in the mapset will determine the required spread.
 
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
   - **...lower than 2:30**, the lowest difficulty cannot be harder than a Normal.
