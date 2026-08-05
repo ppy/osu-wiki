@@ -2,17 +2,17 @@
 
 ## Was wird als Verstoß betrachtet? {id=what}
 
-Die folgenden Dinge gelten als Verstoß und werden im Allgemeinen dazu führen, dass ein Nutzer eingeschränkt wird:
+Die folgenden Dinge gelten als Verstoß und führen in der Regel dazu, dass ein Nutzer eingeschränkt wird:
 
-- [Cheating oder hacking](#what-foul).
+- [Schummelei oder Hacking](#what-foul).
 - [Mehrere Accounts erstellen oder einen Account mit einer anderen Person teilen](#multi-share).
 - Einen anderen als seinen ersten Account verwenden, um an einem Turnier teilzunehmen.
 
-## Was wird als Cheating betrachtet? {id=what-foul}
+## Was wird als Schummeln betrachtet? {id=what-foul}
 
-Die [Regeln](/wiki/Rules) besagen, dass jede Form von Manipulation des Clients, wie beispielsweise Score-Hacking, Full-Combo-Sequenzen durch Makroaktivierungen, Auto-Aim und alles andere, was das Spiel für den Spieler spielt, Cheating ist.
+Die [Regeln](/wiki/Rules) besagen, dass jede Form von Manipulation des Clients, wie beispielsweise Score-Hacking, Full-Combo-Sequenzen durch Makroaktivierungen, Auto-Aim und alles andere, was das Spiel für den Spieler spielt, Schummeln ist.
 
-Das ist eine One-Strike-Regel. Cheater werden bei ihrem ersten Verstoß für unbestimmte Zeit eingeschränkt. Das [Support-Team](/wiki/People/Account_support_team) darf diese Beschränkung aufheben, wenn der Benutzer nach mindestens sechs Monaten ein gültiges Gesuch einreicht.
+Das ist eine Null-Toleranz-Regel. Schummler werden bei ihrem ersten Verstoß für unbestimmte Zeit eingeschränkt. Das [Support-Team](/wiki/People/Account_support_team) kann diese Einschränkung aufheben, wenn der Benutzer nach mindestens sechs Monaten ein gültiges Gesuch einreicht.
 
 ## Wird die Benutzung spezieller Hardware als Cheating betrachtet? {id=hardware}
 
@@ -20,9 +20,9 @@ Peripheriegeräte wie Tablets und Touchscreens sind okay. Alles, was die benöti
 
 ## Was wird als Multi-Accounting oder Account-Sharing angesehen? {id=multi-share}
 
-Jeder Nutzer darf nur **einen** Account benutzen. Neue Accounts zu erstellen ist streng verboten. Erste Verstöße werden mit einer Stummschaltung von variabler Länge bestraft. Die Länge der Stummschaltung hängt von der Anzahl erstellter Accounts ab. Benutzer, die trotz vorheriger Warnungen weitere Accounts erstellen, werden eingeschränkt. Bitte beachte, dass das Erstellen eines zusätzlichen Accounts, um an einem Turnier teilzunehmen, als besonders ernster Verstoß betrachtet wird und unmittelbar zu einer Einschränkung, sowie einer [Sperre für alle offiziell unterstützten Turniere](/wiki/Help_centre/Tournament_sanctions#turniersperren) auf unbestimmte Zeit führt (sofern der Verstoß ein solches Ereignis betrifft).
+Jeder Nutzer darf nur **einen** Account benutzen. Neue Accounts zu erstellen ist streng verboten. Erste Verstöße können mit einer Stummschaltung von variabler Länge bestraft werden. Die Länge der Stummschaltung hängt von der Anzahl erstellter Accounts ab. Benutzer, die trotz vorheriger Warnungen weitere Accounts erstellen, werden eingeschränkt. Bitte beachte, dass das Erstellen eines zusätzlichen Accounts, um an einem Turnier teilzunehmen, als besonders ernster Verstoß betrachtet wird und unmittelbar zu einer Einschränkung, sowie einer [Sperre für alle offiziell unterstützten Turniere](/wiki/Help_centre/Tournament_sanctions#turniersperren) auf unbestimmte Zeit führt (sofern der Verstoß ein solches Ereignis betrifft).
 
-Einer Person zu erlauben, den Account eines anderen Nutzers zu verwenden, ist auch streng verboten und wird im Allgemeinen schon beim ersten Verstoß zu einer Einschränkung führen. Dies geschieht, um sehr gute Spieler davon abzuhalten, Accounts anderer Nutzer zu "boosten" oder zu verwenden, um in Turnieren außerhalb ihres Fähigkeitsbereichs teilzunehmen. Ein weiterer Grund ist, Nutzer davon abzuhalten, Strafen zu umgehen, die ihre ursprünglichen Accounts erhalten haben. Hast du einem anderen Nutzer aus Versehen erlaubt auf deinem Account zu spielen, so kontaktiere bitte so schnell wie möglich [accounts@ppy.sh](mailto:accounts@ppy.sh).
+Einer Person zu erlauben, den Account eines anderen Nutzers zu verwenden, ist auch streng verboten und wird in der Regel schon beim ersten Verstoß zu einer Einschränkung führen. Dies geschieht, um sehr gute Spieler davon abzuhalten, Accounts anderer Nutzer zu "boosten" oder zu verwenden, um in Turnieren außerhalb ihres Fähigkeitsbereichs teilzunehmen. Ein weiterer Grund ist, Nutzer davon abzuhalten, Strafen zu umgehen, die ihre ursprünglichen Accounts erhalten haben. Hast du einem anderen Nutzer aus Versehen erlaubt auf deinem Account zu spielen, so kontaktiere bitte so schnell wie möglich [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 ## Mein Account wurde wegen eines Verstoßes eingeschränkt, obwohl ich mich an die Regeln gehalten habe! {id=false-restriction}
 
