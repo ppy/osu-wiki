@@ -2,6 +2,8 @@
 stub: true
 tags:
   - RD
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Random（lazer 模组）
@@ -23,7 +25,7 @@ tags:
 | 缩写 | RD |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!mania] |
-| 得分系数 | 1.00x |
+| 得分系数 | `1.00x` |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) |
 

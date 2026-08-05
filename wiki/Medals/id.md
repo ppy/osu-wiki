@@ -6,7 +6,7 @@ outdated_translation: true
 
 # Medali
 
-**Medali**, atau yang sebelumnya dikenal sebagai *achievement*, merupakan rangkaian lencana pada halaman profil pengguna yang menunjukkan berbagai pencapaian yang telah berhasil diraih oleh pengguna tersebut. Saat ini, terdapat **347** medali yang tersedia untuk dibuka pada delapan lintas kategori yang berbeda, yaitu: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), dan [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Medali**, atau yang sebelumnya dikenal sebagai *achievement*, merupakan rangkaian lencana pada halaman profil pengguna yang menunjukkan berbagai pencapaian yang telah berhasil diraih oleh pengguna tersebut. Saat ini, terdapat **352** medali yang tersedia untuk dibuka pada delapan lintas kategori yang berbeda, yaitu: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), dan [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
@@ -18,7 +18,7 @@ Sebagai catatan, isi dari seluruh paket Video Game Packs, Anime Packs, Internet!
 
 ## Skill
 
-**Medali Skill** merupakan medali yang diberikan pada saat pengguna mencapai berbagai titik tonggak yang berdasar pada keterampilan, seperti memperoleh [kombo](/wiki/Beatmapping/Combo) tertentu, mencapai peringkat tertentu pada [papan peringkat *performance point* global](https://osu.ppy.sh/rankings/osu/performance), menyelesaikan beatmap, atau meraih [full combo](/wiki/Gameplay/Full_combo) pada beatmap [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), atau [Approved](/wiki/Beatmap/Category#approved) mana pun dalam rentang [star rating](/wiki/Beatmap/Star_rating) tertentu.
+**Medali Skill** merupakan medali yang diberikan pada saat pengguna mencapai berbagai titik tonggak yang berdasar pada keterampilan, seperti memperoleh [kombo](/wiki/Gameplay/Combo_(score_multiplier)) tertentu, mencapai peringkat tertentu pada [papan peringkat *performance point* global](https://osu.ppy.sh/rankings/osu/performance), menyelesaikan beatmap, atau meraih [full combo](/wiki/Gameplay/Full_combo) pada beatmap [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), atau [Approved](/wiki/Beatmap/Category#approved) mana pun dalam rentang [star rating](/wiki/Beatmap/Star_rating) tertentu.
 
 ## Dedication
 

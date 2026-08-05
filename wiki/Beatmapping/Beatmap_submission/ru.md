@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 37adfc5ef491f9709016f0c4263911d301b0304f
+---
+
 # Публикация карт
 
 [Карты](/wiki/Beatmap) можно публиковать на сайте osu! с помощью [редактора карт](/wiki/Client/Beatmap_editor). После этого их могут скачивать другие игроки, кроме того, публикация открывает для карты возможность стать [ранкнутой](/wiki/Beatmap/Category#ranked) или [«любимой»](/wiki/Beatmap/Category#loved).

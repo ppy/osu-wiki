@@ -20,6 +20,8 @@
 
 #### Август
 
+*См. также новость: [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)*
+
 *См. также тему на форуме: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
 | Участник | Вклад |
@@ -251,7 +253,7 @@
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Выдающийся вклад в видеовыпуски [Mappers' Guild](/wiki/Community/Mappers_Guild) и программы Featured Artist |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Выдающийся вклад в видеовыпуски [Mappers' Guild](/wiki/Community/Mappers_Guild) и программы Featured Artist |
 
-### 2024
+### 2025
 
 #### Март
 
@@ -273,6 +275,31 @@
 | ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Выдающийся вклад в сообщшество через разработку сервисов ([osuplus](https://github.com/limjeck/osuplus)) |
 | ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Выдающийся вклад в сообщшество через разработку сервисов ([owo! bot](https://owo-bot.xyz/)) |
 | ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Выдающийся вклад в сообщшество через разработку сервисов ([Bathbot](https://github.com/MaxOhn/Bathbot)) |
+
+### 2026
+
+#### Август
+
+*См. также новость: [Community Contributors: 2025](https://osu.ppy.sh/home/news/2026-08-02-community-contributors-2025)*
+
+| Участник | Вклад |
+| :-- | :-- |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Выдающийся вклад в развитие сообщества osu! в самых разных областях |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Выдающийся вклад в маппинг- и турнирную сцену |
+| ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845) | Выдающийся технический вклад в турнирную сцену osu! |
+| ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692) | Выдающийся технический вклад в сцену оффлайн-турниров osu! |
+| ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) | Выдающийся вклад в проект [наборов карт](https://osu.ppy.sh/beatmaps/packs) |
+| ::{ flag=PL }:: [Wiek](https://osu.ppy.sh/users/2584698) | Выдающийся вклад в сообщество через разработку прикладных программ ([Danser](https://github.com/Wieku/danser-go)) |
+| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Выдающийся вклад в сообщество через разработку прикладных программ ([circleguard](https://github.com/circleguard/circleguard), [ossapi](https://github.com/Liam-DeVoe/ossapi)) |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | Многолетний вклад в жизнь сообщества и дела модерации |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Многолетний выдающийся вклад в техподдержку игроков |
+| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Выдающийся вклад в модерацию на разных платформах |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Многолетний вклад в маппинг- и моддинг-сообщество |
+| ::{ flag=AT }:: [Maarvin](https://osu.ppy.sh/users/6411631) | Выдающийся вклад в дела разработки |
+| ::{ flag=DE }:: [The_Last_Cookie](https://osu.ppy.sh/users/11587828) | Многолетний вклад в немецкий перевод osu! wiki |
+| ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | Многолетний вклад в испанский перевод osu! wiki |
+| ::{ flag=ES }:: [Agatem](https://osu.ppy.sh/users/18202514) | Многолетний вклад в испанский перевод osu! wiki |
+| ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) | Многолетний вклад в китайский перевод osu! wiki |
 
 ## История
 

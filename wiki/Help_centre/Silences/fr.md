@@ -10,7 +10,7 @@ Le **silence** est un terme utilisé pour décrire la sanction consistant à lim
 ## Limitations
 
 ::: Infobox
-![](img/silence-profile.png "Enregistrement du silence dans la page de profil")
+![](img/silence-profile.png?1 "Enregistrement du silence dans la page de profil")
 :::
 
 Les utilisateurs qui sont réduits au silence par les modérateurs ne peuvent pas faire ce qui suit :

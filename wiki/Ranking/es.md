@@ -11,7 +11,9 @@ tags:
 
 # Clasificación
 
-*Para otros usos, véase [Rango (desambiguación)](/wiki/Disambiguation/Rank).*
+::: alert-note
+**Nota:** [Rango (desambiguación)](/wiki/Disambiguation/Rank).
+:::
 
 La **clasificación** (alternativamente llamada «tablas de clasificación») es una lista que ordena a los miembros de la comunidad de osu! según ciertos criterios.
 
@@ -19,7 +21,9 @@ Todas las clasificaciones, excepto la clasificación individual de beatmaps, se 
 
 ## Clasificación por puntos de rendimiento
 
-*Véase también: [Puntos de rendimiento](/wiki/Performance_points)*
+::: alert-note
+**Véase también:** [Puntos de rendimiento](/wiki/Performance_points)
+:::
 
 La clasificación por puntos de rendimiento describe el nivel de habilidad de un jugador en comparación con otros jugadores. Esta tabla de clasificación se determina por el número total de puntos de rendimiento que tiene un jugador individual, y se puede ver en el perfil de un jugador y en las [tablas de rendimiento](https://osu.ppy.sh/rankings/osu/performance).
 

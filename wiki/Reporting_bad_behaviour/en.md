@@ -22,11 +22,9 @@ For anything else, see the instructions below.
 
 ### The !report command
 
-*Caution: Reporting a user via the `!report` command in osu!(lazer) or via the website will cause the report to be **visible to everyone!** Instead, [use the report menu](#lazer-reports) or report them via [their profile page](#profile-page).*
-
 ![](img/report-command.jpg "Example of using the !report command")
 
-Chat misbehaviour is the most common infringement. To report it, use [the `!report` command](https://osu.ppy.sh/community/forums/topics/34843), preferably in the channel where the infringement(s) took place. Don't feel stressed: if your message starts with `!report` and a space, and you sent it from within osu!(stable) or an IRC client, **it is only visible to moderators** and no one else in the chat. You can also use the report function via the osu!(stable) client's [in-game overlay](#stable-reports) as depicted below if you are still concerned.
+Chat misbehaviour is the most common infringement. To report it, use [the `!report` command](https://osu.ppy.sh/community/forums/topics/34843), preferably in the channel where the infringement(s) took place. Don't feel stressed: if your message starts with `!report` and a space, **it is only visible to moderators** and no one else in the chat. You can also use the report function via the osu!(stable) client's [in-game overlay](#stable-reports) as depicted below, or via [the offender's profile page](#profile-page), if you are still concerned.
 
 The command's syntax has two forms:
 
@@ -41,7 +39,7 @@ If there are spaces in the username, replace them with underscores:
 !report bad_user spamming in #osu
 ```
 
-If your report was successful, BanchoBot will send you a private message stating that moderators have been alerted. 
+If your report was successful, BanchoBot will send you a private message stating that moderators have been alerted.
 
 Note that the `!report` command **does not work** in osu!(lazer). Please report users via [the report menu](#lazer-reports) instead.
 

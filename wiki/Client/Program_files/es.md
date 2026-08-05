@@ -1,6 +1,8 @@
 # Archivos de programa de osu!
 
-*Véase también: [Formatos de archivo de osu!](/wiki/Client/File_formats)*
+::: alert-note
+**Véase también:** [Formatos de archivo de osu!](/wiki/Client/File_formats)
+:::
 
 ![La estructura de archivos de la carpeta de instalación de osu! en Windows y macOS](img/file_structure.jpg "La estructura de archivos de la carpeta de instalación de osu! en Windows y macOS")
 
@@ -38,7 +40,10 @@ La carpeta Localisation aparece cuando el jugador ha cambiado su idioma en las o
 
 ### Repeticiones
 
-*Nota: Las repeticiones solían reproducirse a una frecuencia de muestreo más baja, pero ahora están más optimizadas para ofrecer una mejor experiencia.*
+::: alert-notice
+**Aviso**
+Las repeticiones solían reproducirse a una frecuencia de muestreo más baja, pero ahora están más optimizadas para ofrecer una mejor experiencia.
+:::
 
 La carpeta Replays contiene los archivos de repetición del jugador. Un archivo de repetición no funciona cuando faltan los beatmaps vinculados a él. La repetición también contiene los datos de los resultados y reanima el movimiento del cursor del jugador durante la repetición. Para crear una repetición, presiona F2 en la pantalla de resultados o haz clic en `Guardar repetición a la carpeta Replays` (en Solo).
 
@@ -52,7 +57,10 @@ La estructura del nombre de los archivos es `{Nombre local del jugador} - {Artis
 
 La carpeta Screenshots contiene las capturas de pantalla que el jugador ha creado en osu!. De forma predeterminada, la extensión del archivo de la captura de pantalla guardada es `.jpg`; sin embargo, se puede cambiar a `.png` en el menú de opciones.
 
-*Nota: Para crear una captura de pantalla, presiona la tecla correspondiente (F12 de forma predeterminada).*
+::: alert-notice
+**Aviso**
+Para crear una captura de pantalla, presiona la tecla correspondiente (F12 de forma predeterminada).
+:::
 
 La estructura del nombre de los archivos es `screenshot###`, donde «###» es el número de la captura de pantalla.
 
@@ -60,7 +68,9 @@ La estructura del nombre de los archivos es `screenshot###`, donde «###» es el
 
 La carpeta Skins contiene skins creadas por el usuario, que pueden usarse para personalizar la interfaz del juego. Los jugadores pueden descargar skins desde el [subforo Skinning](https://osu.ppy.sh/community/forums/15). Los jugadores pueden instalar skins haciendo doble clic en la skin desde un administrador de archivos. «osu! by peppy» es la única skin sin carpeta y no se puede borrar.
 
-*Para obtener más información, véase [Skinning](/wiki/Skinning)*
+::: alert-note
+**Nota:** Para obtener más información, véase [Skinning](/wiki/Skinning)
+:::
 
 ### Canciones
 
@@ -81,7 +91,10 @@ Archivos de datos osu!. Contiene algunas de las cachés de osu!, como la caché 
 
 ## Archivos
 
-*Precaución: Ten cuidado con estos archivos, podrías romper osu! si no tienes cuidado.*
+::: alert-caution
+**Precaución**
+Ten cuidado con estos archivos, podrías romper osu! si no tienes cuidado.
+:::
 
 ### Archivos de base de datos (.db)
 

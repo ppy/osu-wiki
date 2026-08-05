@@ -1,6 +1,8 @@
 # 进榜总分
 
-*对于更多义项，参见：[Score (消歧义)](/wiki/Disambiguation/Score)。*
+::: alert-note
+**备注：** 对于更多义项，参见[Score (消歧义)](/wiki/Disambiguation/Score)。
+:::
 
 **进榜总分**是玩家在线游玩过的所有上架（ranked）、社区喜爱（loved）和达标（approved）[难度](/wiki/Beatmap/Difficulty)所得到的最高分总和。
 

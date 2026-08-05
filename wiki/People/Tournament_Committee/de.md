@@ -77,7 +77,9 @@ Verstöße von Turnieren gegen die offiziellen Unterstützungsanforderungen kön
 
 ### Newsbeiträge
 
-*Siehe auch: [Offizielle Turnierunterstützung § Newsbeiträge](/wiki/Tournaments/Official_support#newsbeiträge) und [Gestaltungskriterien für Newsbeiträge](/wiki/News_styling_criteria)*
+::: alert-note
+**Siehe auch:** [Offizielle Turnierunterstützung § Newsbeiträge](/wiki/Tournaments/Official_support#newsbeiträge) und [Gestaltungskriterien für Newsbeiträge](/wiki/News_styling_criteria)
+:::
 
 Das Turnierkomitee wird informiert, sobald eine Anfrage für einen Turnier-Newsbeitrag eintrifft. Wenn das Turnier alle Zulassungsanforderungen für Newsbeiträge erfüllt und das Turnierkomitee einer Veröffentlichung nach 48 Stunden zustimmt, wird die Anfrage für eine finale Genehmigung an das Newsteam weitergeleitet.
 
@@ -122,7 +124,10 @@ Bewerber, die nicht genug Ja-Stimmen erhalten, werden abgelehnt. Nach dem Erhalt
 
 Das Turnierkomitee hält regelmäßig Abstimmungen bei wichtigen Entscheidungen ab. Die typischen Situationen werden unten aufgelistet, aber das sind nicht alle. Abhängig vom Thema sind die Wahlvorschriften anders. Alle üblichen Wahlen setzen eine "strikte Teilnahme" voraus. Wenn 75 % des Turnierkomitees nicht bis zum Abgabetermin an der Wahl teilgenommen hat, wird die Wahl verlängert, bis die erforderliche Wahlbeteiligung erreicht wurde. Des Weiteren benötigen alle Abstimmungen eine absolute Mehrheit von mindestens 50 %, damit die Entscheidung als angenommen gilt. Viele Themen haben für Abstimmungen dieselben Vorgaben, unten werden jedoch leichte Unterschiede zwischen häufigen Themen hervorgehoben.
 
-*Anmerkung: Für die erforderliche Wahlbeteiligung werden nur Mitglieder berücksichtigt, die sich nicht aufgrund eines Interessenkonflikts enthalten.*
+::: alert-notice
+**Hinweis**
+Für die erforderliche Wahlbeteiligung werden nur Mitglieder berücksichtigt, die sich nicht aufgrund eines Interessenkonflikts enthalten.
+:::
 
 | Abstimmungsart | Mindestdauer (Tage) | Erforderlicher Stimmenanteil | Erforderliche Teilnahme |
 | :-- | --: | --: | --: |
@@ -178,6 +183,7 @@ Die [Gruppenseite des Turnierkomitees](https://osu.ppy.sh/groups/50) zeigt alle 
 ### Turnierkomitee
 
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
+- ::{ flag=BA }:: [alisha-](https://osu.ppy.sh/users/29031839)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
 - ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
@@ -185,7 +191,6 @@ Die [Gruppenseite des Turnierkomitees](https://osu.ppy.sh/groups/50) zeigt alle 
 - ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
 - ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
 - ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
-- ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
@@ -196,22 +201,23 @@ Die [Gruppenseite des Turnierkomitees](https://osu.ppy.sh/groups/50) zeigt alle 
 
 ### Wettbewerbskomitee
 
-- ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
-- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853)
 - ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835)
 
 ### Alumni
 
+- ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
+- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
+- ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
 - ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)

@@ -2,13 +2,13 @@
 tags:
   - NAT
   - equipo de evaluación de nominaciones
-outdated_translation: true
-outdated_since: 9b1af3bcbc538a7e501bce965877ed8eb3467b94
 ---
 
 # Nomination Assessment Team
 
-*Véase también: [Evaluaciones de los Beatmap Nominators](Evaluations), [Calificación SEV](SEV_rating)*
+::: alert-note
+**Véase también:** [Evaluaciones de los Beatmap Nominators](Evaluations), [Calificación SEV](SEV_rating)
+:::
 
 El **Nomination Assessment Team** (***NAT***) es un equipo que modera a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) y garantiza que el lado del beatmapping de osu! se mantenga funcional.
 
@@ -62,7 +62,9 @@ Los líderes del equipo se enfrentarán a los miembros del NAT inactivos o a los
 
 ## Beneficios
 
-*Véase también: [Salida del NAT](#salida-del-nat)*
+::: alert-note
+**Véase también:** [Salida del NAT](#salida-del-nat)
+:::
 
 Los miembros del NAT reciben los siguientes beneficios:
 
@@ -123,7 +125,10 @@ El líder del NAT tiene como objetivo cubrir las siguientes tareas:
 
 ## Miembros del equipo
 
-*Nota: Todos los miembros del NAT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.*
+::: alert-notice
+**Aviso**
+Todos los miembros del NAT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.
+:::
 
 La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del NAT participan en la [revisión del contenido visual y de audio incluido en los beatmaps](/wiki/Rules/Visual_content_considerations#evaluación-de-una-imagen).
 
@@ -142,10 +147,9 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finés |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chino |
-| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Ruso |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Francés, español |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chino |
-| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Rumano |
+| ::{ flag=RO }:: [bsm](https://osu.ppy.sh/users/12366071) | Rumano |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Alemán |
 
@@ -154,9 +158,9 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chino |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonés, chino |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugués |
-| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | Algo de alemán |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Alemán, algo de francés |
 
 #### osu!catch
@@ -165,7 +169,6 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | :-- | :-- |
 | ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Alemán |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Coreano |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Coreano |
 
 #### osu!mania

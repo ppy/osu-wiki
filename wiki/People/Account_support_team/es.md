@@ -1,11 +1,8 @@
----
-outdated_translation: true
-outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
----
-
 # Equipo de soporte de cuentas
 
-*Para un equipo que modera ciertos subforos, véase: [Technical Support Team](/wiki/People/Technical_Support_Team)*
+::: alert-note
+**Nota:** Para un equipo que modera ciertos subforos, véase [Technical Support Team](/wiki/People/Technical_Support_Team)
+:::
 
 El **equipo de soporte de cuentas** es un grupo de personas que administran las cuentas de los usuarios, además de aceptar apelaciones de silencio y restricción.
 
@@ -17,8 +14,13 @@ Por lo general, el soporte tarda unos días en llegar al correo electrónico. Si
 
 ## Roles y tareas
 
-*Artículo principal: [Centro de ayuda](/wiki/Help_centre)*\
-*Véase también: [Restricciones de cuenta](/wiki/Help_centre/Account_restrictions)*
+::: alert-note
+**Página principal:** [Centro de ayuda](/wiki/Help_centre)
+:::
+
+::: alert-note
+**Véase también:** [Restricciones de cuenta](/wiki/Help_centre/Account_restrictions)
+:::
 
 Tienes que comunicarte con este equipo con respecto a temas relacionados con la cuenta que están fuera de tu control. Recuerda proporcionar tanto contexto sobre tu problema como sea posible y envía un correo electrónico desde la dirección asociada con tu cuenta de osu!.
 
@@ -29,7 +31,7 @@ Tienes que comunicarte con este equipo con respecto a temas relacionados con la 
   - eliminaciones de contenido del perfil;
   - eliminaciones de beatmaps;
   - eliminación de comentarios y publicaciones en el foro.
-- Instancias de mala conducta que [deseas admitir](/wiki/Reporting_bad_behaviour/Handling_foul_play#¿qué-puedo-hacer-si-he-roto-las-reglas?).
+- Instancias de mala conducta que [deseas admitir](/wiki/Reporting_bad_behaviour/Handling_foul_play#admit).
 - [Pérdida de acceso al correo electrónico](/wiki/Help_centre/Account#sign-in) vinculado a tu cuenta de osu!, o cuando tu cuenta es robada.
 - [Cambios en el nombre de usuario y correcciones ortográficas menores](/wiki/Help_centre/Account#name-changes).
 - [Registros de cuentas bot](/wiki/Bot_account).
@@ -37,7 +39,10 @@ Tienes que comunicarte con este equipo con respecto a temas relacionados con la 
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*Nota: Para reportar un caso extremo de mala conducta o abuso sexual por parte de cualquier usuario, incluido un moderador, véase [Reportar abuso](/wiki/Reporting_bad_behaviour/Abuse).*
+::: alert-notice
+**Aviso**
+Para reportar un caso extremo de mala conducta o abuso sexual por parte de cualquier usuario, incluido un moderador, véase [Reportar abuso](/wiki/Reporting_bad_behaviour/Abuse).
+:::
 
 - Inquietudes sobre la mala conducta de un moderador.
 - Inquietudes sobre un moderador que infringe [el código de conducta para contribuyentes](/wiki/Rules/Contributor_code_of_conduct).

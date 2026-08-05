@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: a893a12cf8e3d9057d08ab52baf72feb882d4f37
----
-
 # Permisos de uso de contenido
 
 osu! gira en torno a la posibilidad de crear y compartir creaciones libremente entre todos. Es importante asegurarse de adquirir los permisos adecuados para usar cualquier trabajo de otro creador en nuevas creaciones y que todo ese trabajo esté debidamente atribuido.
@@ -565,6 +560,7 @@ Esta sección se actualizó por última vez el 18 de febrero de 2026.
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/68) | [Frums](https://osu.ppy.sh/beatmaps/artists/68) | ![][partial] | Consulta los [requisitos de uso no comercial de Frums](https://docs.google.com/spreadsheets/d/1_M0BqHSrbE1HOF0uhKX5ebVCvWnqlx0qz_wIEZzSFG0/edit?gid=0#gid=0) para las canciones que no figuran en su lista de Artista Destacado. |
+|  | gxxberlol | ![][partial] | No usar las pistas tituladas «KICKICKICKICKICKICKIKI» y «newb artist rave». Se permite el uso del resto de las pistas. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
 |  | Igorrr | ![][partial] | Solo se pueden usar las pistas colaborativas que aparecen en la lista de Artista Destacado de [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370). No uses ni subas ninguna otra pista. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |

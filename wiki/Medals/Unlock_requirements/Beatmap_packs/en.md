@@ -62,6 +62,11 @@
 | Chill Pack | Clear all beatmaps bundled in the [Chill Pack](https://osu.ppy.sh/beatmaps/packs/T108) beatmap pack. |
 | Rohi Pack | Clear all beatmaps bundled in the [Rohi Pack](https://osu.ppy.sh/beatmaps/packs/F2) beatmap pack. |
 | Drum & Bass Pack | Clear all beatmaps bundled in the [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T113) beatmap pack. |
+| Chroma Pack | Clear all beatmaps bundled in the [Chroma Pack](https://osu.ppy.sh/beatmaps/packs/A101) beatmap pack. |
+| in love with a ghost | Clear all beatmaps bundled in the [in love with a ghost Pack](https://osu.ppy.sh/beatmaps/packs/F3) beatmap pack. |
+| Mili Pack | Clear all beatmaps bundled in the [Mili Pack](https://osu.ppy.sh/beatmaps/packs/A102) beatmap pack. |
+| 4K Globetrotter | Clear all beatmaps bundled in the [4K Globetrotter Pack](https://osu.ppy.sh/beatmaps/packs/T134) beatmap pack. |
+| 7K World Cup Anthology | Clear all beatmaps bundled in the [7K World Cup Anthology Pack](https://osu.ppy.sh/beatmaps/packs/T135) beatmap pack. |
 | Mappers' Guild Pack I | Clear all beatmaps bundled in the [Mappers' Guild Pack I](https://osu.ppy.sh/beatmaps/packs/1365) beatmap pack. |
 | Mappers' Guild Pack II | Clear all beatmaps bundled in the [Mappers' Guild Pack II](https://osu.ppy.sh/beatmaps/packs/1450) beatmap pack. |
 | Mappers' Guild Pack III | Clear all beatmaps bundled in the [Mappers' Guild Pack III](https://osu.ppy.sh/beatmaps/packs/1689) beatmap pack. |
@@ -76,3 +81,4 @@
 | Project Loved: Spring 2023 | Clear all beatmaps bundled in the Project Loved: Spring 2023 ([osu!](https://osu.ppy.sh/beatmaps/packs/L21), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L22), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L23), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L24)) beatmap pack. |
 | Project Loved: Summer 2023 | Clear all beatmaps bundled in the Project Loved: Summer 2023 ([osu!](https://osu.ppy.sh/beatmaps/packs/L25), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L26), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L27), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L28)) beatmap pack. |
 | Project Loved: Best of 2024 | Clear all beatmaps bundled in the Project Loved: Best of 2024 ([osu!](https://osu.ppy.sh/beatmaps/packs/L32), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L31), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L30), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L29)) beatmap pack. |
+| Project Loved: Best of 2025 | Clear all beatmaps bundled in the Project Loved: Best of 2025 ([osu!](https://osu.ppy.sh/beatmaps/packs/L36), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L35), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L34), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L33)) beatmap pack. |

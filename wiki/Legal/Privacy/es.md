@@ -1,12 +1,10 @@
 ---
 legal: true
-outdated_translation: true
-outdated_since: b1776120326b6dbcb16e18460dafcbcef1c68706
 ---
 
 # Política de privacidad de osu!
 
-Actualizado por última vez el 3 de septiembre de 2024. [Consulte el historial aquí](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
+Actualizado por última vez el 24 de abril de 2026. [Consulte el historial aquí.](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 En adición a esta política, por favor, asegúrese también de visitar y entender nuestros [Términos de servicio](/wiki/Legal/Terms).
 
@@ -14,9 +12,9 @@ En adición a esta política, por favor, asegúrese también de visitar y entend
 
 osu! es dirigido por una entidad australiana (ppy Pty Ltd), con la mayoría de los servidores operando desde los Estados Unidos de América.
 
-osu! ofrece una amplia variedad de servicios a usuarios de casi todos los países del mundo, con una comunidad animada y muchas oportunidades para los usuarios de compartir su creatividad con otros mediante perfiles de usuario, beatmaps (niveles del juego), foros, mensajes privados, chats dentro del juego, comentarios en las repeticiones.
+osu! ofrece una amplia variedad de servicios a usuarios de casi todos los países del mundo, con una comunidad animada y muchas oportunidades para los usuarios de compartir su creatividad con otros mediante perfiles de usuario, beatmaps (niveles del juego), foros, mensajes privados, chats dentro del juego y comentarios en las repeticiones.
 
-Para poder ofrecerle estos servicios, debemos habitualmente recoger, almacenar y transferir información personal. Nos esforzamos por ser lo más transparentes posible en todos los aspectos relacionados con la gestión de osu!, y esta política de privacidad nos debería traer aún más cerca a ese objetivo.
+Para poder ofrecerle estos servicios, debemos habitualmente recoger, almacenar y transferir información personal. Nos esforzamos por ser lo más transparentes posible en todos los aspectos relacionados con la gestión de osu!. Esta política de privacidad se ha elaborado con el fin de garantizar que cumplimos con ese objetivo.
 
 Este documento busca describir que información recogemos en nuestra red y, en el uso de nuestros productos y servicios, cómo usamos esa información y qué opciones le ofrecemos para controlar su información personal.
 
@@ -42,7 +40,7 @@ Al crear su perfil de usuario (que es visible públicamente para todos los demá
 - Su ubicación actual
 - Sus intereses
 - Su ocupación
-- Su presencia en redes sociales (twitter, discord, skype, una página web)
+- Su presencia en redes sociales (Twitter, Discord, una página web)
 - La imagen de su avatar y la portada de su perfil
 - Su firma
 
@@ -86,13 +84,13 @@ Estos datos recopilados se agrupan y solo se conservan mientras sean útiles. Po
 
 No hacemos nada de mercadotecnia, publicidad ni enviamos ningún correo no solicitado. Los únicos correos que recibirá de nosotros serán el resultado de una acción en nuestro servicio (como la solicitud de verificación en dos pasos, comprar un producto o la activación de las notificaciones para una discusión).
 
-Podremos compartir su información personal con terceros en casos muy específicos:
+No compartimos sus datos personales con terceros. Todos los análisis se realizan internamente. Es posible que se facilite información de diagnóstico limitada a los desarrolladores de confianza del equipo para que analicen y solucionen los problemas del juego o del sitio web.
 
-- Cuando haya hecho pública expresamente la información
-- Para tramitar sus pedidos de la tienda
-- Para procesar pagos mediante proveedores de procesamiento de pagos como Paypal y Xsolla.
-- Para procesar sus solicitudes del servicio al cliente (usamos [Enchant](https://enchant.com))
-- Para mejorar nuestros servicios, mediante el registro de errores (usamos [Sentry](https://sentry.io))
+Por favor, tenga en cuenta que es posible que se encuentre con algunos terceros al realizar determinadas acciones:
+
+- Al enviar un ticket de soporte por correo electrónico se gestiona a través de Enchant.
+- Al realizar un pedido, la gestión de los productos físicos se lleva a cabo a través de Shopify u otros socios de distribución.
+- Al realizar compras de etiquetas de osu!supporter y otras compras no físicas, las transacciones se gestionan a través de Xsolla o PayPal. No almacenamos ningún dato personal ni información de pago.
 
 ## Sus derechos y control
 

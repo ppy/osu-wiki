@@ -74,7 +74,9 @@ tags:
 
 ### Освещение турниров в новостях
 
-*См. также: [Официальная поддержка турниров § Новостные посты](/wiki/Tournaments/Official_support#news-posts) и [Критерии оформления новостей](/wiki/News_styling_criteria)*
+::: alert-note
+**См. также:** [Официальная поддержка турниров § Новостные посты](/wiki/Tournaments/Official_support#news-posts) и [Критерии оформления новостей](/wiki/News_styling_criteria)
+:::
 
 Турнирный комитет получает уведомления обо всех письмах с просьбой написать о турнире в новостях. Если турнир соответствует всем критериям для публикации в новостях, и если комитет через 48 часов в целом согласен на публикацию, то он свяжется с новостной редакцией osu!.
 
@@ -119,7 +121,10 @@ tags:
 
 Турнирный комитет часто принимает важные решения путём голосования (типичные случаи уже перечислены в неполном списке выше). Во всех случаях действует правило кворума: если определённый процент от участников турнирного комитета не проголосует до дедлайна, голосование продлевается до достижения нужного числа участников. Кроме того, все голосования требуют абсолютного большинства для принятия решения (не менее 50%). По многим темам требования одинаковы, но есть небольшие различия, указанные ниже.
 
-*Примечание: порог участия считается без членов комитета, имеющих конфликт интересов (они не участвуют в голосовании).*
+::: alert-notice
+**Внимание**
+порог участия считается без членов комитета, имеющих конфликт интересов (они не участвуют в голосовании).
+:::
 
 | Тема голосования | Минимальная длительность | Порог одобрения | Участие |
 | :-- | --: | --: | --: |
@@ -175,6 +180,7 @@ tags:
 ### Турнирный комитет
 
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
+- ::{ flag=BA }:: [alisha-](https://osu.ppy.sh/users/29031839)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
 - ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
@@ -182,7 +188,6 @@ tags:
 - ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
 - ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
 - ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
-- ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
@@ -193,22 +198,23 @@ tags:
 
 ### Конкурсный комитет
 
-- ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
-- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853)
 - ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835)
 
 ### Ушедшие на покой
 
+- ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
+- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
+- ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
 - ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)

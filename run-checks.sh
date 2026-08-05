@@ -23,24 +23,27 @@ build_docker_image() {
 run_in_docker() {
   msys="$(test -z "${MSYSTEM:-}" || printf 1)"
   remove_node_modules="$(test -e node_modules || printf 1)"
+  remove_venv="$(test -e .venv || printf 1)"
 
-  # Map the host repo directory to /osu-wiki, but use node_modules from the
+  # Map the host repo directory to /osu-wiki, but use node_modules and .venv from the
   # image. Don't exit the script on fail; store the exit code to return later
   MSYS_NO_PATHCONV="$msys" docker run \
     -e "OSU_WIKI_MSYS=$msys" \
     --rm \
     --volume "$(pwd):/osu-wiki" \
     --volume /osu-wiki/node_modules/ \
+    --volume /osu-wiki/.venv/ \
     osu-wiki "$@" \
     && :
 
   exit_code=$?
 
-  # FIXME: The above command leaves behind an empty node_modules directory if it
-  #        didn't already exist, and I can't figure out how to prevent that... so
-  #        here I delete the node_modules directory if it is new. —clayton
   if test -n "$remove_node_modules"; then
     rm -rf node_modules
+  fi
+
+  if test -n "$remove_venv"; then
+    rm -rf .venv
   fi
 
   return "$exit_code"

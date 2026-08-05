@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 238835a67fc953aa2aa5a51f64149a1d862bfd62
+---
+
 # osu!mania 皮肤自定义
 
 从 v2.5+ 版本开始，皮肤制作者可以使用 [skin.ini](/wiki/Skinning/skin.ini) 文件完全自定义 osu!mania 的音符与轨道区域。下面列出了在不使用 `skin.ini` 进一步自定义的情况下，osu! 可以识别出的元素。

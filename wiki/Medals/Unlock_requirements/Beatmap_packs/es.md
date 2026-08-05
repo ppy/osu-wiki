@@ -62,6 +62,11 @@
 | Chill Pack | Pasar todos los mapas incluidos en el paquete de mapas [Chill Pack](https://osu.ppy.sh/beatmaps/packs/T108). |
 | Rohi Pack | Pasar todos los mapas incluidos en el paquete de mapas [Rohi Pack](https://osu.ppy.sh/beatmaps/packs/F2). |
 | Drum & Bass Pack | Pasar todos los mapas incluidos en el paquete de mapas [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T113). |
+| Chroma Pack | Pasar todos los mapas incluidos en el paquete de mapas [Chroma Pack](https://osu.ppy.sh/beatmaps/packs/A101). |
+| in love with a ghost | Pasar todos los mapas incluidos en el paquete de mapas [in love with a ghost Pack](https://osu.ppy.sh/beatmaps/packs/F3). |
+| Mili Pack | Pasar todos los mapas incluidos en el paquete de mapas [Mili Pack](https://osu.ppy.sh/beatmaps/packs/A102). |
+| 4K Globetrotter | Pasar todos los mapas incluidos en el paquete de mapas [4K Globetrotter Pack](https://osu.ppy.sh/beatmaps/packs/T134). |
+| 7K World Cup Anthology | Pasar todos los mapas incluidos en el paquete de mapas [7K World Cup Anthology Pack](https://osu.ppy.sh/beatmaps/packs/T135). |
 | Mappers' Guild Pack I | Pasar todos los mapas incluidos en el paquete de mapas [Mappers' Guild Pack I](https://osu.ppy.sh/beatmaps/packs/1365). |
 | Mappers' Guild Pack II | Pasar todos los mapas incluidos en el paquete de mapas [Mappers' Guild Pack II](https://osu.ppy.sh/beatmaps/packs/1450). |
 | Mappers' Guild Pack III | Pasar todos los mapas incluidos en el paquete de mapas [Mappers' Guild Pack III](https://osu.ppy.sh/beatmaps/packs/1689). |
@@ -76,3 +81,4 @@
 | Project Loved: Spring 2023 | Pasar todos los mapas incluidos en el paquete de mapas «Project Loved: Spring 2023» ([osu!](https://osu.ppy.sh/beatmaps/packs/L21), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L22), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L23), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L24)). |
 | Project Loved: Summer 2023 | Pasar todos los mapas incluidos en el paquete de mapas «Project Loved: Summer 2023» ([osu!](https://osu.ppy.sh/beatmaps/packs/L25), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L26), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L27), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L28)). |
 | Project Loved: Best of 2024 | Pasar todos los mapas incluidos en el paquete de mapas «Project Loved: Best of 2024» ([osu!](https://osu.ppy.sh/beatmaps/packs/L32), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L31), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L30), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L29)). |
+| Project Loved: Best of 2025 | Pasar todos los mapas incluidos en el paquete de mapas «Project Loved: Best of 2025» ([osu!](https://osu.ppy.sh/beatmaps/packs/L36), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L35), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L34), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L33)). |

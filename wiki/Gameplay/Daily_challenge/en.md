@@ -4,7 +4,7 @@ The **daily challenge** is a multiplayer mode in [osu!(lazer)](/wiki/Client/Rele
 
 Beatmaps in the challenge are curated by a panel of contributors. Sometimes, beatmaps can be themed around a specific genre, artist, or a gimmick. At the end of every month, a week is dedicated to highlighting high-quality beatmaps from the previous month, which is handled by a few members of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team).
 
-Beatmaps may occasioanlly feature a mod forced onto users, requiring them to pass the beatmap with the selected mod.
+Beatmaps may occasionally feature a mod forced onto users, requiring them to pass the beatmap with the selected mod.
 
 The current and all past daily challenges can be found on the [daily challenge rankings page](https://osu.ppy.sh/rankings/daily-challenge).
 

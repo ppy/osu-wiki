@@ -12,7 +12,10 @@ The [osu!academy](/wiki/Community/Video_series/osu!academy) covers this part of 
 
 ## How to play
 
-*Notice: Multiplayer requires an [osu! account](/wiki/Registration) and is not available for [silenced](/wiki/Silence) players.*
+::: alert-notice
+**Notice**
+Multiplayer requires an [osu! account](/wiki/Registration) and is not available for [silenced](/wiki/Silence) players.
+:::
 
 From the main menu, the main multiplayer lobby can be accessed with the following steps:
 
@@ -21,7 +24,10 @@ From the main menu, the main multiplayer lobby can be accessed with the followin
 
 ## Main lobby
 
-*Notice: An active [osu!supporter](/wiki/osu!supporter) tag is required to enter the lobby while using the `Cutting Edge` build.*
+::: alert-notice
+**Notice**
+An active [osu!supporter](/wiki/osu!supporter) tag is required to enter the lobby while using the `Cutting Edge` build.
+:::
 
 ![](img/multi-lobby.jpg "Example of a typical day in the main multiplayer lobby")
 
@@ -179,7 +185,9 @@ The host can enable `Free Mods` to allow players to freely choose any mod combin
 
 #### Team mode {id=team-mode-match-setup}
 
-*For more information about team modes, see the [gameplay section on team modes](#team-mode-gameplay).*
+::: alert-note
+**Note:** For more information about team modes, see the [gameplay section on team modes](#team-mode-gameplay).
+:::
 
 There are four different ways a match can be played:
 
@@ -351,7 +359,10 @@ The panels to the sides show results for each player in different tabs. The `Tot
 
 ##### Interface
 
-*Note: This team mode is unranked and only available in osu! mode.*
+::: alert-notice
+**Notice**
+This team mode is unranked and only available in osu! mode.
+:::
 
 ::: Infobox
 ![](img/multi-coop-interface.jpg "Tag co-op interface")

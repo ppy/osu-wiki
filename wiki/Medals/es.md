@@ -1,6 +1,6 @@
 # Medallas
 
-Las **medallas**, anteriormente conocidas como *logros*, son insignias en el perfil de un usuario que indican ciertos objetivos que ha alcanzado el usuario. Actualmente, hay **347** medallas disponibles para desbloquear en ocho categorías diferentes en total: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) y [Beatmap Challenge Packs](#beatmap-challenge-packs).
+Las **medallas**, anteriormente conocidas como *logros*, son insignias en el perfil de un usuario que indican ciertos objetivos que ha alcanzado el usuario. Actualmente, hay **352** medallas disponibles para desbloquear en ocho categorías diferentes en total: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) y [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
@@ -12,7 +12,7 @@ Sin embargo, vale la pena señalar que el contenido de todos los paquetes de vid
 
 ## Skill
 
-Las **medallas Skill** son medallas que se otorgan al completar varios logros basados en habilidades, ya sea al alcanzar ciertos objetivos de [combo](/wiki/Beatmapping/Combo), al alcanzar ciertos rangos en la [tabla de clasificación de puntos de rendimiento global](https://osu.ppy.sh/rankings/osu/performance) o al lograr un pasar o [completar un combo](/wiki/Gameplay/Full_combo) en cualquier beatmap [calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked) o [aprobado](/wiki/Beatmap/Category#approved), dentro de ciertos rangos en la [calificación por estrellas](/wiki/Beatmap/Star_rating).
+Las **medallas Skill** son medallas que se otorgan al completar varios logros basados en habilidades, ya sea al alcanzar ciertos objetivos de [combo](/wiki/Gameplay/Combo_(score_multiplier)), al alcanzar ciertos rangos en la [tabla de clasificación de puntos de rendimiento global](https://osu.ppy.sh/rankings/osu/performance) o al lograr un pasar o [completar un combo](/wiki/Gameplay/Full_combo) en cualquier beatmap [calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked) o [aprobado](/wiki/Beatmap/Category#approved), dentro de ciertos rangos en la [calificación por estrellas](/wiki/Beatmap/Star_rating).
 
 ## Dedication
 
@@ -20,7 +20,9 @@ Las **medallas Dedication** son medallas otorgadas al alcanzar ciertos objetivos
 
 ## Mod Introduction
 
-*Véase también: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Véase también:** [Modificadores del juego](/wiki/Gameplay/Game_modifier)
+:::
 
 Las **medallas Mod Introduction** son medallas que se otorgan al completar cualquier beatmap [calificado](/wiki/Beatmap/Category#qualified), [clasificado](/wiki/Beatmap/Category#ranked) o [aprobado](/wiki/Beatmap/Category#approved) con su correspondiente [modificador del juego (mod)](/wiki/Gameplay/Game_modifier). Estas medallas están destinadas a alentar a los jugadores más nuevos a probar cada mod y explorar lo que el juego tiene para ofrecer. Sin embargo, ten en en cuenta que si los jugadores juegan con múltiples modificadores del juego a la vez, el jugador **no** es elegible para ganar *ninguna* de las medallas de modificador del juego para esa jugada.
 

@@ -16,8 +16,6 @@ tags:
   - топ 1
   - топ
   - ранг
-outdated_translation: true
-outdated_since: 47380e1c3c6a414c437cd093bf205643f0278ba6
 ---
 
 # История онлайн-ранкингов
@@ -28,21 +26,23 @@ outdated_since: 47380e1c3c6a414c437cd093bf205643f0278ba6
 
 ## ![][osu!] osu!
 
-*Основная статья: [История ранкингов osu!](osu!)*
+::: alert-note
+**Основная статья:** [История ранкингов osu!](osu!)
+:::
 
-По состоянию на 3 августа 2024 года игрок №1 в [топе osu! по производительности](https://osu.ppy.sh/rankings/osu/performance) — ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
+По состоянию на 11 июля 2026 года игрок №1 в [топе osu! по производительности](https://osu.ppy.sh/rankings/osu/performance) — ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
 ## ![][osu!taiko] osu!taiko
 
-По состоянию на 19 июня 2024 года игрок №1 в [топе osu!taiko по производительности](https://osu.ppy.sh/rankings/taiko/performance) — ::{ flag=JP }:: [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko).
+По состоянию на 23 июля 2026 года игрок №1 в [топе osu!taiko по производительности](https://osu.ppy.sh/rankings/taiko/performance) — ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
 
-По состоянию на 2 ноября 2024 года игрок №1 в [топе osu!сatch по производительности](https://osu.ppy.sh/rankings/fruits/performance) — ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
+По состоянию на 21 июля 2026 года игрок №1 в [топе osu!сatch по производительности](https://osu.ppy.sh/rankings/fruits/performance) — ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits).
 
 ## ![][osu!mania] osu!mania
 
-По состоянию на 31 декабря 2024 года игрок №1 в [топе osu!mania по производительности](https://osu.ppy.sh/rankings/mania/performance) — ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
+По состоянию на 4 апреля 2026 года игрок №1 в [топе osu!mania по производительности](https://osu.ppy.sh/rankings/mania/performance) — ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

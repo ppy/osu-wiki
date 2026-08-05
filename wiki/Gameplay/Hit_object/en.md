@@ -16,7 +16,7 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9921
 | :-: | :-: | :-: | :-: |
 | [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) | [Don & Kat](/wiki/Gameplay/Hit_object/Hit) | [fruits](/wiki/Gameplay/Hit_object/Fruit) | notes |
 | [sliders](/wiki/Gameplay/Hit_object/Slider) | [drumrolls](/wiki/Gameplay/Hit_object/Drumroll) | [juice stream](/wiki/Gameplay/Hit_object/Juice_stream) | hold notes |
-| [spinners](/wiki/Gameplay/Hit_object/Spinner) | dendens | [bananas](/wiki/Gameplay/Hit_object/Banana) | x |
+| [spinners](/wiki/Gameplay/Hit_object/Spinner) | [swells](/wiki/Gameplay/Hit_object/Swell) | [bananas](/wiki/Gameplay/Hit_object/Banana) | x |
 | x | x | [hyperfruits](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
 
 From a programming standpoint, hold notes in osu!mania aren't equivalent to sliders in osu!, though they've been grouped together for simplification in this table. Other elements which aren't interacted with during gameplay, such as the health bar or kiai stars, are considered either gameplay enhancing or part of the user interface.

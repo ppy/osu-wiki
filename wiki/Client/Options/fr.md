@@ -1,5 +1,7 @@
 ---
 no_native_review_since: be1652b40865fa540c7763f083445c25c47de11c Doryan
+outdated_translation: true
+outdated_since: 518352ffac6612552688c3816c5a5bb589de15a2
 ---
 
 # Options
@@ -96,7 +98,10 @@ This section is about the appearance of your game client, parts of the interface
 
 ---
 
-*Note: Lorsque le client n'est pas la fenêtre active, la limite d'images par seconde est automatiquement ramenée à 30 images par seconde.*\
+::: alert-notice
+**Note** : Lorsque le client n'est pas la fenêtre active, la limite d'images par seconde est automatiquement ramenée à 30 images par seconde.
+:::
+
 *Attention aux utilisateurs d'ordinateurs portables : l'utilisation de l'option `Illimité (en jeu)` peut entraîner une surchauffe de votre ordinateur portable !*
 
 Si vous ouvrez la liste déroulante de l'option `Images par seconde :`, vous aurez les options suivantes :

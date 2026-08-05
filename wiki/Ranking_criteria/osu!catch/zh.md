@@ -2,7 +2,7 @@
 
 ***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_Criteria)的扩展。***
 
-这套 osu!catch 上架标准列出了 [osu!catch](/wiki/Game_mode/osu!catch) 专属的[谱面](/wiki/Beatmap)在推进[谱面上架流程](/wiki/Beatmap_ranking_procedure)时必须遵循的[规定和准则](/wiki/Ranking_Criteria)。
+这套 **osu!catch 上架标准**列出了 [osu!catch](/wiki/Game_mode/osu!catch) 专属的[谱面](/wiki/Beatmap)在推进[谱面上架流程](/wiki/Beatmap_ranking_procedure)时必须遵循的[规定和准则](/wiki/Ranking_Criteria)。
 
 ## 全局
 
@@ -50,7 +50,9 @@
 
 ### 难度名
 
-*主文章：[难度命名](/wiki/Ranking_Criteria/Difficulty_naming)*
+::: alert-note
+**主文章：** [难度命名](/wiki/Ranking_Criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad

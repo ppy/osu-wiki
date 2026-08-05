@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 236e2b1e8abf159610f938f4523e05a86574f1c3
+---
+
 # Información de los beatmaps
 
 La **página de información de los beatmaps** muestra diversas estadísticas sobre un [beatmap](/wiki/Beatmap), como su creador, la [calificación por estrellas](/wiki/Beatmap/Star_rating) y el BPM. Este artículo detalla los numerosos aspectos y características que ofrece la página de información.

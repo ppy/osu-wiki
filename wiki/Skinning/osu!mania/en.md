@@ -4,7 +4,9 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 
 ## Hit Bursts
 
-*See also: [Skinning/FAQ § Ranking screen hit score hierarchy](/wiki/Skinning/FAQ#ranking-screen-hit-score-hierarchy)*
+::: alert-note
+**See also:** [Skinning/FAQ § Ranking screen hit score hierarchy](/wiki/Skinning/FAQ#ranking-screen-hit-score-hierarchy)
+:::
 
 ---
 
@@ -430,6 +432,24 @@ Notes:
 - These elements are scaled to fit the individual columns.
   - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
 - Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/Skinning/skin.ini) file.
+
+---
+
+### Default key layout
+
+Below is the default note image layout for each column, by key count.
+
+| Keycount | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| 1K | S |  |  |  |  |  |  |  |  |
+| 2K | 1 | 1 |  |  |  |  |  |  |  |
+| 3K | 1 | S | 1 |  |  |  |  |  |  |
+| 4K | 1 | 2 | 2 | 1 |  |  |  |  |  |
+| 5K | 1 | 2 | S | 2 | 1 |  |  |  |  |
+| 6K | 1 | 2 | 1 | 1 | 2 | 1 |  |  |  |
+| 7K | 1 | 2 | 1 | S | 1 | 2 | 1 |  |  |
+| 8K | 1 | 2 | 1 | 2 | 2 | 1 | 2 | 1 |  |
+| 9K | 1 | 2 | 1 | 2 | S | 2 | 1 | 2 | 1 |
 
 ## Stage
 
