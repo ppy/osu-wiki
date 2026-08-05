@@ -6,7 +6,10 @@ SEV ratings are only visible to NAT members given they only serve as internal do
 
 ## Obviousness and severity
 
-*Note: A reset done to fix things which would be considered fine if left unfixed are always rated 0/0. This is to not discourage modding and applying improvements in [Qualified](/wiki/Beatmap/Category#qualified).*
+::: alert-notice
+**Notice**
+A reset done to fix things which would be considered fine if left unfixed are always rated 0/0. This is to not discourage modding and applying improvements in [Qualified](/wiki/Beatmap/Category#qualified).
+:::
 
 **Obviousness** relates to how easy it is to spot the issue.
 

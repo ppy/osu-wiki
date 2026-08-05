@@ -54,26 +54,26 @@ Oplysninger om, hvorvidt du er i turneringskarantæne, kan videregives til turne
 | Brug af private/fortrolige turneringsrelaterede informationer til at opnå eller give nogen en uretfærdig fordel | Ubestemt | Kan også medføre en begrænsning |
 | Grov krænkelse eller forfølgelse af turneringsarrangører/-deltagere | Ubestemt | Kan også medføre en begrænsning |
 
-## Betingede arrangørkarantæner
+## Arrangørtilsyn
 
-En bruger får en betinget arrangørkarantæne (*hosting probation* på engelsk) og bliver dermed sat på prøve, hvis denne organiserer en turnering med en overtrædelse af [betingelserne for officiel støtte](/wiki/Tournaments/Official_support), som ikke kan blive rettet ved kommunikation til arrangøren, efter turneringen ender. Hvis en bruger er på prøve, bliver brugerens næste turnering grundigt gransket, både mens den bliver afviklet og efter den er afsluttet. Mindre mangler, som ellers bare ville have været løst ved kontakt til arrangøren per email, vil forlænge karantænen. Betydelige overtrædelser af betingelserne for officiel støtte vil føre til en arrangørkarantæne eller mere indgribende straf efter turneringskomitéens skøn.
+En bruger bliver underlagt arrangørtilsyn (*hosting probation* på engelsk), hvis denne organiserer en turnering med en overtrædelse af [betingelserne for officiel støtte](/wiki/Tournaments/Official_support), som ikke kan blive rettet ved kommunikation til arrangøren, efter turneringen ender. Hvis en bruger er underlagt tilsyn, bliver brugerens næste turnering grundigt gransket, både mens den bliver afviklet og efter den er afsluttet. Mindre mangler, som ellers bare ville have været løst ved kontakt til arrangøren per email, vil forlænge tilsynsperioden. Betydelige overtrædelser af betingelserne for officiel støtte vil føre til en arrangørkarantæne eller mere indgribende straf efter turneringskomitéens skøn.
 
-En betinget arrangørkarantæne kan ophæves ved at organisere en turnering med ingen overtrædelser af [betingelserne for officiel støtte](/wiki/Tournaments/Official_support) **overhovedet**, inklusive mindre problemer, der ville kræve en mail til arrangøren for at fikse. Eksempler inkluderer:
+Arrangørtilsyn kan ophæves ved at organisere en turnering med ingen overtrædelser af [betingelserne for officiel støtte](/wiki/Tournaments/Official_support) **overhovedet**, inklusive mindre problemer, der ville kræve en mail til arrangøren for at fikse. Eksempler inkluderer:
 
 - Manglende medhjælpere på forumopslaget
 - Manglende offentlige resultater for kvalifikationsrunden
 - Ikke at opdatere offentlige lister af kampe
 - Andre lignende basale mangler
 
-Brugere, hvis turneringer konstant har mindre problemer, som kræver mails fra komitéen for at rette, forbliver på prøve på ubestemt tid. Brugere, som overhovedet ikke prøver at forbedre kvaliteten af deres turneringer, mens de er på prøve, kan pålægges hårdere straffe i komitéens skøn. Betingede arrangørkarantæner udløber ikke automatisk.
+Brugere, hvis turneringer konstant har mindre problemer, som kræver mails fra komitéen for at rette, forbliver under tilsyn på ubestemt tid. Brugere, som overhovedet ikke prøver at forbedre kvaliteten af deres turneringer, mens de er underlagt tilsyn, kan pålægges hårdere straffe i komitéens skøn. Arrangørtilsyn ophæves ikke automatisk.
 
-Hvis en bruger får en mere indgribende straf, som for eksempel en medhjælperkarantæne, bortfalder deres betingede arrangørkarantæne, når denne straf bliver ophævet.
+Hvis en bruger får en mere indgribende straf, som for eksempel en medhjælperkarantæne, bortfalder deres arrangørtilsyn, når denne straf bliver ophævet.
 
 ## Arrangørkarantæner
 
 En arrangørkarantæne (*hosting ban* på engelsk) forhindrer en bruger i at være den ledende organisator eller arrangør i en officielt støttet turnering; dog kan brugeren hjælpe på andre måder, hvis de ikke involverer organisation.
 
-Turneringskomitéen har retten til at pålægge en bruger arrangørkarantæne i stedet for [at sætte dem på prøve](#betingede-arrangørkarantæner) i tilfælde af grove overtrædelser af [betingelserne for officiel støtte](/wiki/Tournaments/Official_support), især hvis overtrædelserne kunne have påvirket turneringens kompetitive integritet.
+Turneringskomitéen har retten til at pålægge en bruger arrangørkarantæne i stedet for [at underlægge dem tilsyn](#arrangørtilsyn) i tilfælde af grove overtrædelser af [betingelserne for officiel støtte](/wiki/Tournaments/Official_support), især hvis overtrædelserne kunne have påvirket turneringens kompetitive integritet.
 
 ## Medhjælperkarantæner
 
@@ -95,4 +95,4 @@ I sjældne situationer kan [kontostøtteholdet](/wiki/People/Account_support_tea
 ![](img/tourney-ban-profile-DA.png "En turneringskarantæne på en brugers profil")
 :::
 
-Tidsubestemte turneringskarantæner og turneringskarantæner, som har blevet pålagt en bruger på andre måder end de [almindelige anmodningsbetingelser](/wiki/Help_centre/Account_restrictions#appeal-granted), er synlige på en brugers profil for hele karantænens varighed, samt for **28 dage** efter karantænens udløb. Andre turneringssanktioner (dvs. medhjælperkarantæner, arrangørkarantæner og betingede arrangørkarantæner) er ikke offentligt synlige på denne måde.
+Tidsubestemte turneringskarantæner og turneringskarantæner, som har blevet pålagt en bruger på andre måder end de [almindelige anmodningsbetingelser](/wiki/Help_centre/Account_restrictions#appeal-granted), er synlige på en brugers profil for hele karantænens varighed, samt for **28 dage** efter karantænens udløb. Andre turneringssanktioner (dvs. medhjælperkarantæner, arrangørkarantæner og arrangørtilsyn) er ikke offentligt synlige på denne måde.

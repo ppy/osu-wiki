@@ -195,7 +195,9 @@ Most official mapping contests offer the **Elite Mapper** title through [contest
 
 ## Elite Nominators
 
-*Main page: [Elite Nominators](/wiki/People/Elite_Nominators)*
+::: alert-note
+**Main page:** [Elite Nominators](/wiki/People/Elite_Nominators)
+:::
 
 Since 2020, members of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) with an exceptional display towards supporting the ranking system in a given year are rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, and lasts for roughly a year or until the user leaves the team.
 
@@ -326,7 +328,9 @@ These storyboarders were awarded the **Elite Storyboarder** title for demonstrat
 
 ## Gameplay-related
 
-*See also: [Completionists](/wiki/People/Completionists)*
+::: alert-note
+**See also:** [Completionists](/wiki/People/Completionists)
+:::
 
 These players were awarded their respective titles through either a crazy gameplay achievement or completion of a specific challenge.
 

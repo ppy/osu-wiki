@@ -2,6 +2,8 @@
 stub: true
 tags:
   - WG
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Wiggle（模组）
@@ -21,7 +23,7 @@ tags:
 | 缩写 | WG |
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | 1.00x |
+| 得分系数 | `1.00x` |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 

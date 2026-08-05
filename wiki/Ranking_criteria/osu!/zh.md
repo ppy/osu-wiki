@@ -54,7 +54,9 @@
 
 ### 难度名
 
-*主页面：[难度命名](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**主文章：** [难度命名](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy (简单)
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal (普通)
