@@ -4,7 +4,7 @@
 **Siehe auch:** [Maskottchen/Galerie](/wiki/Mascots/Gallery)
 :::
 
-In diesem Artikel werden die vielen Maskottchen von osu! mit kurzen Zusammenfassungen aufgelistet. Ein YouTube-Video, in dem die Maskottchen von osu! vorgestellt werden, ist [hier](https://youtu.be/mJF2cAs_MrI) zu sehen.
+In diesem Artikel werden die vielen Maskottchen von osu! mit kurzen Beschreibungen aufgelistet. Ein YouTube-Video, in dem die Maskottchen von osu! vorgestellt werden, ist [hier](https://youtu.be/mJF2cAs_MrI) zu sehen.
 
 ## Offiziell
 
