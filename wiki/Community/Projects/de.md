@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 525e7209c9dbffe7b529d4c94545f2b8e054c014
+---
+
 # Projekte
 
 Dieser Artikel listet die verschiedenen Projekte, Tools und/oder Dienste auf, die von den [Entwicklern](/wiki/People/Developers) und der Community für osu! geschaffen wurden.
