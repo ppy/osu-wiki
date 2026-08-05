@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 525e7209c9dbffe7b529d4c94545f2b8e054c014
+---
+
 # 项目
 
 本文章列出了由[开发者](/wiki/People/Developers)和社区为 osu! 制作的各种项目、工具与服务。
