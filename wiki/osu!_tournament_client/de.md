@@ -4,9 +4,9 @@ Der **osu!-Turnier-Client** ist der offizielle Client, der [osu!tourney](/wiki/o
 
 Nutzer, die Probleme mit dem Client haben, können [auf GitHub ein Issue erstellen](https://github.com/ppy/osu/issues) oder eine E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh) senden.
 
-## Einstellung
+## Einrichtung
 
-Um den osu!-Turnier-Client zu starten, musst du ein Startargument zur ausführbaren Datei von [osu!(lazer)](/wiki/Client/Release_stream/Lazer) spezifizieren. Kreiere zu diesem Zweck eine Desktop-Verknüpfung und setze den Speicherort auf `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`. Durch die spezielle Verknüpfung wird osu!(lazer) im Turnier-Client-Modus gestartet.
+Um den osu!-Turnier-Client zu starten, musst du der ausführbaren Datei von [osu!(lazer)](/wiki/Client/Release_stream/Lazer) ein Startargument mitgeben. Erstelle dazu eine Desktop-Verknüpfung und setze den Speicherort auf `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`. Durch die spezielle Verknüpfung wird osu!(lazer) im Turnier-Client-Modus gestartet.
 
 Da der osu!-Turnier-Client nur ein Overlay für osu!tourney ist, muss das ebenfalls eingerichtet werden. Setze die Updatequelle in osu!tourney zu `Cutting Edge (Experimentell)` und erstelle eine leere Datei namens `ipc.txt` innerhalb des Installationsordners von osu!tourney. Folge danach der [osu!tourney-Einrichtungsanleitung](/wiki/osu!_tournament_client/osu!tourney/Setup).
 
@@ -68,7 +68,7 @@ Die Dateien müssen die folgenden Vorgaben erfüllen:
 - Dateiendungen `mp4`, `m4v` oder `avi`
 - Videocodec: H.264, Audiocodec: keiner
 
-Die Videodateien müssen in `<dein-turnier>/Videos` platziert werden und für die korrekte Funktion sind bestimmte Namen erforderlich.
+Die Videodateien müssen in `<dein-turnier>/Videos` platziert werden und für die korrekte Funktionsweise sind bestimmte Namen erforderlich.
 
 | Szene | Datei(en) |
 | :-- | :-- |
