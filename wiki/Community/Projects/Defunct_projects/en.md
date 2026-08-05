@@ -6,6 +6,8 @@
 
 This article lists the various projects made for osu! by the [developers](/wiki/People/Developers) and the community that have been abandoned and are no longer available or do not work anymore.
 
+<!-- lint ignore heading-increment -->
+
 ### Official
 
 | Logo | Name | Project lead | Description |

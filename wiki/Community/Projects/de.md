@@ -26,8 +26,8 @@ Offizielle Projekte werden zum Großteil durch das [osu!-Team](/wiki/People/osu!
 |  | [osu! iPhone](https://osu.ppy.sh/community/forums/topics/9193) | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | Offizielle Portierung von osu! auf das iPhone |
 | ![](img/logo_osu_osx.png) | [osu! on OS X](https://osuosx.tumblr.com/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Experimentelle Version von osu!, die nativ auf macOS läuft |
 |  | [pTransl](/wiki/Community/Projects/pTransl) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Auf die Community ausgelegte Übersetzungsplatform für osu! |
-| ![](img/logo_rajio.png) | [rajio](/wiki/Community/Projects/rajio) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Auf Nachfrage basierender Online-Radiodienst |
-| ![](img/logo_upppy.png) | [upppy](/wiki/Community/Projects/upppy) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Browserbasierter File-Sharing-Dienst |
+| ![](Defunct_projects/img/logo_rajio.png) | [rajio](/wiki/Community/Projects/rajio) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Auf Nachfrage basierender Online-Radiodienst |
+| ![](Defunct_projects/img/logo_upppy.png) | [upppy](/wiki/Community/Projects/upppy) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Browserbasierter File-Sharing-Dienst |
 
 ## Community
 
@@ -41,7 +41,7 @@ Offizielle Projekte werden zum Großteil durch das [osu!-Team](/wiki/People/osu!
 |  | [osu!taiko made with Scratch](https://turbowarp.org/1067424534?fps=240&offscreen) | ::{ flag=US }:: [MrrJinxx](https://osu.ppy.sh/users/32908054) | In [Scratch](https://scratch.mit.edu/about) programmierte Nachbildung von osu!taiko |
 | ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726) | ::{ flag=US }:: [euphyy](https://osu.ppy.sh/users/2936932) | Quelloffener osu!-Client, der in [Java](https://www.java.com/) programmiert wurde |
 | ![](img/logo_otu.png) | [otu!](https://gdladder.com/level/111345732) | ::{ flag=US }:: [CreatorCreepy](https://osu.ppy.sh/users/10436454) | Nachbildung von osu! in [Geometry Dash](https://de.wikipedia.org/wiki/Geometry_Dash) |
-| ![](img/logo_t_aiko.png) | [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640/) | ::{ flag=GB }:: [Guy-kun](https://osu.ppy.sh/users/217431) | Kostenlose Nachbildung von [Taiko no Tatsujin](https://de.wikipedia.org/wiki/Taiko_no_Tatsujin), mit der man osu!taiko-Beatmaps auf Mobilgeräten spielen kann |
+| ![](Defunct_projects/img/logo_t_aiko.png) | [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640/) | ::{ flag=GB }:: [Guy-kun](https://osu.ppy.sh/users/217431) | Kostenlose Nachbildung von [Taiko no Tatsujin](https://de.wikipedia.org/wiki/Taiko_no_Tatsujin), mit der man osu!taiko-Beatmaps auf Mobilgeräten spielen kann |
 
 ### Gameplay
 
@@ -165,7 +165,7 @@ Offizielle Projekte werden zum Großteil durch das [osu!-Team](/wiki/People/osu!
 
 | Logo | Name | Projektleiter | Beschreibung |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_maniacheck.png) | [ManiaCheck](https://github.com/MChecaH/ManiaCheck) | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Add-on für das Programm "Mapset Verifier" zur Überprüfung von osu!mania-Beatmaps |
+| ![](Defunct_projects/img/logo_maniacheck.png) | [ManiaCheck](https://github.com/MChecaH/ManiaCheck) | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Add-on für das Programm "Mapset Verifier" zur Überprüfung von osu!mania-Beatmaps |
 
 ### Skinning
 
@@ -205,7 +205,7 @@ Offizielle Projekte werden zum Großteil durch das [osu!-Team](/wiki/People/osu!
 
 | Logo | Name | Projektleiter | Beschreibung |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_ezpp.png) | [ezpp!](https://osu.ppy.sh/community/forums/topics/466740) | ::{ flag=FI }:: [oam](https://osu.ppy.sh/users/3844204) | Browser-Erweiterung zur Berechnung der pp |
+| ![](Defunct_projects/img/logo_ezpp.png) | [ezpp!](https://osu.ppy.sh/community/forums/topics/466740) | ::{ flag=FI }:: [oam](https://osu.ppy.sh/users/3844204) | Browser-Erweiterung zur Berechnung der pp |
 |  | [osu! news scheduler](https://osunews.untone.uk) | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Terminkalender für den [osu!-Newsfeed](https://osu.ppy.sh/home/news) |
 | ![](img/logo_osu_preview.png) | [osu! preview](https://osu.ppy.sh/community/forums/topics/2062759) | ::{ flag=IT }:: [TechnoZamb](https://osu.ppy.sh/users/12958169) | Browser-Erweiterung zur Vorschau von Beatmaps |
 |  | [osu!next Signature Generator](https://osu.ppy.sh/community/forums/topics/372346) | ::{ flag=GB }:: [Lemmmy](https://osu.ppy.sh/users/4656511) | Erstellung von Forensignaturen im Stil von [osu!next](https://osunext.tumblr.com) |
@@ -253,7 +253,7 @@ Offizielle Projekte werden zum Großteil durch das [osu!-Team](/wiki/People/osu!
 | ![](img/logo_osu_music_library.png) | [Osu Music Library](https://osu.ppy.sh/community/forums/topics/267236) | ::{ flag=SE }:: [Dayanto](https://osu.ppy.sh/users/4907353) | Anwendung, um Beatmap-Songs außerhalb des osu!-Clients zu verwalten, zu suchen und anzuhören |
 |  | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | [BBCode](/wiki/BBCode)-Editor mit einer Echtzeit-Vorschau für osu!-Nutzerseiten |
 |  | [osu! mouse simulator for Leap](https://osu.ppy.sh/community/forums/topics/139360) | ::{ flag=CZ }:: [Brejlounek](https://osu.ppy.sh/users/931841) | Steuerung des Mauszeigers durch Handbewegungen mit Hilfe eines ["Leap Motion"](https://en.wikipedia.org/wiki/Leap_Motion)-Sensors |
-| ![](img/logo_osu_music_player.png) | [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) | ::{ flag=CA }:: [Naviaux](https://osu.ppy.sh/users/2240370) | Anwendung zum Abspielen von Liedern aus osu! |
+| ![](Defunct_projects/img/logo_osu_music_player.png) | [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) | ::{ flag=CA }:: [Naviaux](https://osu.ppy.sh/users/2240370) | Anwendung zum Abspielen von Liedern aus osu! |
 |  | [osu! Windows 60 fps animated cursors](https://osu.ppy.sh/community/forums/topics/86671) | ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | Windows-Mauszeiger im Stil von osu! |
 |  | [o!subscribe](https://osu.ppy.sh/community/forums/topics/587110) | ::{ flag=CA }:: [Slow Twitch](https://osu.ppy.sh/users/3172543) | Dienst, mit dem Nutzer ihren Lieblingsmappern folgen können |
 |  | [osu!APIlib](https://osu.ppy.sh/community/forums/topics/141331) | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Schlichte Bibliothek, um mit der osu!-API zu interagieren |
