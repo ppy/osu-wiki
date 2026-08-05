@@ -23,7 +23,10 @@ Le développement d'AiMod est généralement en retard par rapport aux standards
 
 ## Messages
 
-*Remarque : Les chiffres entre crochets (par exemple `{0}`) sont des espaces réservés pour un nombre ou un mot.*
+::: alert-notice
+**Note**
+Les chiffres entre crochets (par exemple `{0}`) sont des espaces réservés pour un nombre ou un mot.
+:::
 
 ### Informatif
 

@@ -4,7 +4,9 @@ outdated: true
 
 # Técnicas de mapping para los sliders
 
-*Véase también: [Cómo hacer buenos sliders](/wiki/Beatmapping/Mapping_techniques/Making_good_sliders)*
+::: alert-note
+**Véase también:** [Cómo hacer buenos sliders](/wiki/Beatmapping/Mapping_techniques/Making_good_sliders)
+:::
 
 ## Patrones
 

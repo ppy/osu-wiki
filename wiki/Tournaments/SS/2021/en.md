@@ -212,7 +212,10 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 48
 
-*Note: This mappool was used for both Round of 48 and Round of 32.*
+::: alert-notice
+**Notice**
+This mappool was used for both Round of 48 and Round of 32.
+:::
 
 **[Download the mappack here! (92 MB)](https://drive.google.com/drive/folders/1GmnX4KHD9UGP38rHPlzPXuVfwzEu2UUm)**
 

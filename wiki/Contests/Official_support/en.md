@@ -8,7 +8,9 @@ tags:
 
 # Official beatmapping contest support
 
-*For tournament support, see: [Official tournament support](/wiki/Tournaments/Official_support).*
+::: alert-note
+**Note:** For tournament support, see [Official tournament support](/wiki/Tournaments/Official_support).
+:::
 
 [Beatmapping contests](/wiki/Contests) are eligible to receive support from the [osu! team](/wiki/People/osu!_team) provided they meet certain criteria.
 

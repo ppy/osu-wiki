@@ -1,6 +1,9 @@
 # История команд osu! за 2007 год
 
-*Примечание: история некоторых пользователей может быть неполной. Команда модераторов была позднее переименована в «Beatmap Approval Team».*
+::: alert-notice
+**Внимание**
+история некоторых пользователей может быть неполной. Команда модераторов была позднее переименована в «Beatmap Approval Team».
+:::
 
 - Добавление [phill](https://osu.ppy.sh/users/53) в модераторы <!-- set up website and IRC? https://osu.ppy.sh/community/forums/topics/21 -->
 - Добавление [eyup](https://osu.ppy.sh/users/88) в модераторы <!-- posted in 2007 moderator lounge forum https://osu.ppy.sh/community/forums/topics/619 -->

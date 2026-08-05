@@ -1,6 +1,8 @@
 ---
 tags:
   - MU
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Muted（模组）
@@ -20,7 +22,7 @@ tags:
 | 缩写 | MU |
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 | 1.00x |
+| 得分系数 | `1.00x` |
 | 状态 | 计入排名 |
 | 不兼容的模组 | 无 |
 

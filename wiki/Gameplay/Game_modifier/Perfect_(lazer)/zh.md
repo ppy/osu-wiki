@@ -2,6 +2,8 @@
 stub: true
 tags:
   - PF
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Perfect（lazer 模组）
@@ -22,7 +24,7 @@ tags:
 | 类别 | 增加难度 |
 | 默认快捷键 | `D` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 | 1.00x |
+| 得分系数 | `1.00x` |
 | 状态 | 计入排名 |
 | 不兼容的模组 | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 

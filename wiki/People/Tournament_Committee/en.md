@@ -76,7 +76,9 @@ Tournaments may be reported for violations of official support criteria via the 
 
 ### News posts
 
-*See also: [Official tournament support § News posts](/wiki/Tournaments/Official_support#news-posts) and [News styling criteria](/wiki/News_styling_criteria)*
+::: alert-note
+**See also:** [Official tournament support § News posts](/wiki/Tournaments/Official_support#news-posts) and [News styling criteria](/wiki/News_styling_criteria)
+:::
 
 When an email requesting a news post for a tournament is received, the Tournament Committee will be notified. If the tournament satisfies all eligibility criteria for news posts and the consensus in discussion is positive after 48 hours, the Tournament Committee will forward the request to the news post team for approval.
 
@@ -121,7 +123,10 @@ Applicants that fail to gather enough positive votes will be denied, and will no
 
 The Tournament Committee frequently makes use of voting when making important decisions. Typical uses are listed above, but those are not fully inclusive. The voting requirements also differ based on the use case. All typical votes also require "strict participation", meaning that if 75% of the Tournament Committee does not participate by the vote deadline, voting is extended until the required participation threshold is met. Furthermore, all votes require an absolute majority, i.e. at least 50%, for action to be taken. Votes on many topics have the same requirements, but there are slight differences on some common topics listed below.
 
-*Note: The participation threshold only considers members who have not abstained from the vote due to having a conflict of interest.*
+::: alert-notice
+**Notice**
+The participation threshold only considers members who have not abstained from the vote due to having a conflict of interest.
+:::
 
 | Vote type | Minimum length (days) | Approval threshold | Participation |
 | :-- | --: | --: | --: |

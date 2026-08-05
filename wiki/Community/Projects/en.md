@@ -214,7 +214,9 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 
 ### IRC
 
-*See also: [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat)*
+::: alert-note
+**See also:** [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat)
+:::
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |

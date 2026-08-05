@@ -6,8 +6,6 @@ tags:
   - 过审队列
   - 上架队列
   - 上架预计时间
-outdated_translation: true
-outdated_since: 55251cc0edf3384a252501990da9c48370a8748f
 ---
 
 # 谱面上架队列
@@ -16,9 +14,9 @@ outdated_since: 55251cc0edf3384a252501990da9c48370a8748f
 
 当谱面进入过审状态时，会启动一个为期 7 天的计时器。该计时器用于计算谱面在过审状态中应停留的天数，直到其可以上架。当谱面的计时器归零时，该谱面即有资格在当天被上架。谱面被上架的具体时间是随机的。
 
-在谱面讨论页下发布的问题或建议标记不会阻止计时器的倒计时，但在计时器于 7 天后归零时，会阻止谱面直接被上架。直到所有问题和建议都得到解决，谱面才可以被上架。
+在谱面讨论页上发布的问题或建议标记不会阻止计时器的倒计时，但在计时器于 7 天后归零时，会阻止谱面直接被上架。直到所有问题和建议都得到解决，谱面才可以被上架。
 
-某些谱面可能因各种原因（通常是未解决的问题或建议）被搁置，无法进入上架队列。然而，若任何谱面在其原始过审日期后的 **48 小时内**未能对其出现的问题进行跟进处理，[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 将对其进行[下架 (Disqualified，俗称 DQ)](/wiki/Beatmap_ranking_procedure#提名重置) 处理。待所有问题解决后，该谱面可重新获得过审资格（这可能会改变计时器）。若讨论内容在期限内就已处理完毕并需应用相应修改，谱面也可能提前下架。
+某些过审谱面可能因各种原因（通常是未解决的问题或建议）被搁置，无法进入上架阶段。任何谱面若在其理论上架时间后的 **48 小时内**未能对其出现的问题进行跟进处理，[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 将对其进行[下架 (Disqualified，俗称 DQ)](/wiki/Beatmap_ranking_procedure#提名重置) 处理。待所有问题解决后，该谱面可重新获得过审资格（这可能会改变计时器）。若讨论内容在期限内就已处理完毕并需应用相应修改，谱面也可能提前下架。
 
 因特殊原因（如处于[否决 (Veto)](/wiki/People/Beatmap_Nominators/Beatmap_Veto) 状态或正在接受[内容投票流程](/wiki/Rules/Content_voting_process)）而被搁置的谱面，不受上述限制，并将分别由[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 或[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 酌情处理。
 
