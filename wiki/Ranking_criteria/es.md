@@ -82,7 +82,10 @@ Importante entender antes de usar:
 
 ## Beatmap
 
-*Nota: Cada [modo de teclas](osu!mania#términos-comunes) y [estilo de juego](osu!mania#términos-comunes) de [osu!mania](/wiki/Game_mode/osu!mania) es considerado un modo de juego separado a lo largo de esta sección.*
+::: alert-notice
+**Aviso**
+Cada [modo de teclas](osu!mania#términos-comunes) y [estilo de juego](osu!mania#términos-comunes) de [osu!mania](/wiki/Game_mode/osu!mania) es considerado un modo de juego separado a lo largo de esta sección.
+:::
 
 ### Reglas
 

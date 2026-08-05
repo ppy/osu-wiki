@@ -77,7 +77,7 @@ outdated_translation: true
 
 `DistanceSpacing: 1.22`
 
-**BeatDivisor** (Integer): шаг временной шкалы.
+**BeatDivisor** (Integer): делитель доли.
 
 `BeatDivisor: 4`
 

@@ -6,7 +6,9 @@ outdated_translation: true
 
 # skin.ini
 
-*Voir également : [skin.ini/Vierge](/wiki/Skinning/skin.ini/Blank)*
+::: alert-note
+**Voir également** : [skin.ini/Vierge](/wiki/Skinning/skin.ini/Blank)
+:::
 
 Le `skin.ini` est un fichier d'initialisation qui se trouve dans presque tous les dossiers de skin.
 Ce fichier définit comment osu! va afficher certains éléments du skin.
@@ -263,7 +265,10 @@ os ! organise les commandes avec une commande d'en-tête. Ce qui peut ressembler
 
 ## \[Colours\]
 
-*Note : cet en-tête **doit** être orthographié **`[Colours]`**, et non `[Colors]`!*
+::: alert-notice
+**Note**
+cet en-tête **doit** être orthographié **`[Colours]`**, et non `[Colors]`!
+:::
 
 - `Combo1:`
   - Question : Quelle est la couleur utilisée pour le dernier combo ?

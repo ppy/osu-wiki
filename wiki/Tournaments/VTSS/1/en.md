@@ -67,7 +67,10 @@ The Vin-Tana Solo Showdown was run by various community members.
 
 ## Participants
 
-*Note: Ranks are recorded at the end of registration.*
+::: alert-notice
+**Notice**
+Ranks are recorded at the end of registration.
+:::
 
 | Rank | Player |
 | --: | :-- |
@@ -1135,7 +1138,10 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | Finals | 5.75 ★ | 6 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, 1 Tiebreaker |
 | Grand Finals | 5.75 ★ | 6 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, 1 Tiebreaker |
 
-*Note: Highest star rating in the mappool will always be NM1.*
+::: alert-notice
+**Notice**
+Highest star rating in the mappool will always be NM1.
+:::
 
 ### Match incidents during play
 

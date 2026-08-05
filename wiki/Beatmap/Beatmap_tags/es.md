@@ -1,12 +1,16 @@
 # Etiquetas de los beatmaps
 
-*No debe confundirse con las [dificultades TAG](/wiki/Beatmap/TAG_beatmaps).*
+::: alert-note
+**Nota:** No debe confundirse con las [dificultades TAG](/wiki/Beatmap/TAG_beatmaps).
+:::
 
 Las **etiquetas de los beatmaps** son palabras clave que se pueden añadir a los beatmaps para facilitar su [búsqueda](/wiki/Beatmap_search). Existen dos tipos de etiquetas, cada una con su propia finalidad.
 
 ## Etiquetas de los mappers
 
-*Para las reglas relacionadas con las etiquetas de los mappers, véase: [Criterios de clasificación/Metadatos § Etiquetas](/wiki/Ranking_criteria/Metadata#etiquetas)*
+::: alert-note
+**Nota:** Para las reglas relacionadas con las etiquetas de los mappers, véase [Criterios de clasificación/Metadatos § Etiquetas](/wiki/Ranking_criteria/Metadata#etiquetas)
+:::
 
 Las **etiquetas de los mappers** son etiquetas que describen información general útil sobre un beatmap o una canción, por ejemplo, el nombre del álbum o el medio para el que se produjo la canción. Como su nombre indica, estas etiquetas las añade el anfitrión del beatmap durante el [proceso de clasificación](/wiki/Beatmap_ranking_procedure).
 
@@ -16,7 +20,10 @@ Estas palabras clave se pueden establecer como filtro en el [selector de cancion
 
 ## Etiquetas de los usuarios
 
-*Nota: Esta función no está disponible en osu!(stable).*
+::: alert-notice
+**Aviso**
+Esta función no está disponible en osu!(stable).
+:::
 
 Las **etiquetas de los usuarios** son etiquetas que describen características específicas de un beatmap, como sus patrones o el tipo de habilidad requerido. Después de conseguir al menos una C de [grado](/wiki/Gameplay/Grade) en un beatmap, los usuarios pueden seleccionar y votar por las etiquetas en la pantalla de resultados de osu!(lazer). Al recibir al menos 5 votos a favor, la etiqueta correspondiente se mostrará en la página de información del beatmap.
 
