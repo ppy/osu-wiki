@@ -95,7 +95,9 @@ Botón de la barra de herramientas: ![Botón de tachar](img/strike.png "Tachado"
 [color=#CÓDIGOHEX]texto[/color]
 ```
 
-*Para obtener una lista de todos los nombres de colores, véase [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart)*
+::: alert-note
+**Nota:** Para obtener una lista de todos los nombres de colores, véase [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart)
+:::
 
 La etiqueta `[color]` se usa para estilizar el texto a través de varios tipos de colores seguros para la web. La etiqueta usa el formato del [código HEX](https://es.wikipedia.org/wiki/Colores_web#RGB) para especificar el color, aunque también se puede especificar a través de nombres de color HTML como «red» o «green». Para especificar, reemplace el argumento `#CÓDIGOHEX` con el código HEX o nombre HTML correspondiente de un color.
 

@@ -95,7 +95,9 @@ Toolbar button: ![Strike button](img/strike.png "Strikethrough")
 [color=#HEXCODE]text[/color]
 ```
 
-*For a list of all colour names, see [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart)*
+::: alert-note
+**Note:** For a list of all colour names, see [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart)
+:::
 
 The `[color]` tag is used to stylise text through various types of web-safe colours. The tag uses the [HEX code](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) format to specify the colour, although it can also be specified through HTML colour names like "red" or "green." To specify, replace the `#HEXCODE` argument with a colour's corresponding HEX code or HTML name.
 
