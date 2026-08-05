@@ -101,11 +101,11 @@ Anyone who read the recent [Community Contributors article](https://osu.ppy.sh/h
 
 In the [Featured Artist packs section](https://osu.ppy.sh/beatmaps/packs?type=featured), you'll find beatmap packs encompassing all recently completed quests in the guild. This includes packs for both [normal quests](https://mappersguild.com/quests) and [priority quests](https://mappersguild.com/missions), with the exception of quests that require 2 or fewer maps. If you made one of the 250+ maps from the [previous batch of priority quests](https://osu.ppy.sh/home/news/2026-03-16-mappers-guild-spring-2026-priority-quests), it's somewhere down here:
 
-- [**"First impressions" beatmap pack**](https://osu.ppy.sh/beatmaps/packs/FM43)
-- [**"Limitation" beatmap pack**](https://osu.ppy.sh/beatmaps/packs/FM44)
-- [**"Ease of access v2" beatmap pack**](https://osu.ppy.sh/beatmaps/packs/FM45)
-- [**"Skinning Showcase" beatmap pack**](https://osu.ppy.sh/beatmaps/packs/FM46)
-- [**"The Hurdle v7" beatmap pack**](https://osu.ppy.sh/beatmaps/packs/FM47)
+- [**"First impressions" beatmap pack (Part 1)**](https://osu.ppy.sh/beatmaps/packs/FM48) / [**(Part 2)**](https://osu.ppy.sh/beatmaps/packs/FM49)
+- [**"Limitation" beatmap pack**](https://osu.ppy.sh/beatmaps/packs/FM45)
+- [**"Ease of access v2" beatmap pack (Part 1)**](https://osu.ppy.sh/beatmaps/packs/FM46) / [**(Part 2)**](https://osu.ppy.sh/beatmaps/packs/FM47)
+- [**"Skinning Showcase" beatmap pack**](https://osu.ppy.sh/beatmaps/packs/FM44)
+- [**"The Hurdle v7" beatmap pack**](https://osu.ppy.sh/beatmaps/packs/FM43)
 - **"Classified: Genre edition" beatmap pack**... is top secret for now.
 
 Everyone please thank our packing overlord [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) for making this happen!
