@@ -29,8 +29,6 @@ HP 值取值范围为 0 ~ 10，其中 10 是惩罚最严的，0 是最宽松的�
 
 以下 5 个模组激活时会改变掉血速度：
 
-<!--The stable version does not have Daycore and Difficulty Adjust mods-->
-
 - [Easy](/wiki/Gameplay/Game_modifier/Easy)：将 HP 值减半。
 - [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)：将 HP 值乘上 1.4，最大值为 10。
 - [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) / [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)：HP 值不受影响，但由于 50% 加速效果，掉血速度加快 50%。
