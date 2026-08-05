@@ -31,7 +31,7 @@ By completing priority quests, you can earn...
 
 - A [**customised keychain**](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/keychain.jpg) based on a pattern in your map. Over **250** of these were created for winners of the [last batch of quests](https://osu.ppy.sh/home/news/2026-03-16-mappers-guild-spring-2026-priority-quests)!
 
-![video of ridiculous amount of keychains](/wiki/shared/news/2026-08-06-mappers-guild-summer-2026-priority-quests/keychains.gif)
+![GIF of ridiculous amount of keychains](/wiki/shared/news/2026-08-06-mappers-guild-summer-2026-priority-quests/keychains.gif)
 
 - And all the usual [Mappers' Guild rewards](/wiki/Community/Mappers_Guild#rewards) for ranking beatmaps!
 
@@ -57,7 +57,7 @@ If you already have a Ranked map using a Featured Artist song (excluding guest d
 
 ### [Ranked Play: Peak](https://mappersguild.com/missions?id=6a7153a03a91cdc3bff041c9) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
 
-One of [Ranked Play](https://www.youtube.com/watch?v=FdAS8LHID9g)'s known issues is a lack of maps for top players. To help with that, you're going to **rank a map above 7 stars.** Keep in mind that Ranked Play map selection requires maps **between 1 and 5 minutes long!**
+One of [Ranked Play](https://www.youtube.com/watch?v=FdAS8LHID9g)'s known issues is a lack of maps for top players. To help with that, you're going to **rank a map above 7 stars**. Keep in mind that Ranked Play map selection requires maps **between 1 and 5 minutes long**!
 
 The [Ranking criteria](https://osu.ppy.sh/wiki/Ranking_criteria) will have more lenient spread rules soon, so you may want to bookmark the [related forum thread](https://osu.ppy.sh/community/forums/topics/2213552) to see how that may affect your mapping.
 
@@ -73,7 +73,7 @@ Here are examples for clarity:
 - [**gladde paling**'s page](https://osu.ppy.sh/beatmaps/artists/511) only has 1 song. It does not qualify for this quest.
 - [**hikota**'s page](https://osu.ppy.sh/beatmaps/artists/463) has over 30 songs without Ranked maps. Unless you control an army of speedmappers, you'll probably want to skip this one.
 
-For best results, strategize the song you map with other people in the Mappers' Guild!
+For best results, strategise the song you map with other people in the Mappers' Guild!
 
 ### [Classified: Genre edition](https://mappersguild.com/missions?id=6a7154583a91cdc3bff041cc) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
 
