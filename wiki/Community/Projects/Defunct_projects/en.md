@@ -1,7 +1,7 @@
 # Defunct projects
 
 ::: alert-note
-**Note:** For the list of all functional projects, see [Projects](../)
+**Note:** For the list of all projects that are currently in operation, see [Projects](../)
 :::
 
 This article lists the various projects made for osu! by the [developers](/wiki/People/Developers) and the community that have been abandoned and are no longer available or do not work anymore.

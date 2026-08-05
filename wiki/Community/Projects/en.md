@@ -1,7 +1,7 @@
 # Projects
 
 ::: alert-note
-**Note:** For the list of all projects that are no longer functional, see [Defunct projects](Defunct_projects)
+**Note:** For the list of all projects that are no longer in operation, see [Defunct projects](Defunct_projects)
 :::
 
 This article lists the various projects, tools and/or services made for osu! by the [developers](/wiki/People/Developers) and the community.
@@ -10,7 +10,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 
 ## Active
 
-These projects are functional and actively maintained.
+These projects are all currently in operation and under active maintenance.
 
 ### Official
 
@@ -191,7 +191,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 
 ## Inactive
 
-These projects are no longer maintained but the tools still work.
+These projects are all currently still in operation, although no longer under active maintenance.
 
 ### Official
 
