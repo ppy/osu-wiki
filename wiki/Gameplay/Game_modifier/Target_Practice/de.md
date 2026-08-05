@@ -54,6 +54,6 @@ Eine Zielscheibe kann als eine spezielle Art von [Hit-Circle](/wiki/Gameplay/Hit
 ## Trivia
 
 - Die Mod Target Practice verwendet die [Combo-Farben](/wiki/Beatmapping/Combo_colour) aus der [skin.ini](/wiki/Skinning/skin.ini)-Datei des aktuellen Skins.
-- Ein Spiel mit Target Practice nicht zu bestanden, zeigt dem Spieler die Ergebnisanzeige anstatt des Niederlagenbildschirms.
+- Schließt man eine Beatmap mit Target Practice nicht erfolgreich ab, wird die Ergebnisanzeige anstatt des Niederlagenbildschirms angezeigt.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
