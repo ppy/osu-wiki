@@ -4,7 +4,7 @@
 **Note:** For the list of all projects that are currently in operation, see [Projects](../)
 :::
 
-This article lists the various projects made for osu! by the [developers](/wiki/People/Developers) and the community that have been abandoned and are no longer available or do not work anymore.
+This article lists the various projects made for osu! by the [developers](/wiki/People/Developers) and the community that have since been abandoned and are no longer available or do not work anymore.
 
 <!-- lint ignore heading-increment -->
 
@@ -44,6 +44,8 @@ This article lists the various projects made for osu! by the [developers](/wiki/
 
 #### osu!
 
+| Logo | Name | Project lead | Description |
+| :-: | :-- | :-- | :-- |
 |  | [osu!tp's difficulty calculator](https://osu.ppy.sh/community/forums/topics/164057) | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Calculator for determining a beatmap's difficulty according to the [legacy tp system](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking) |
 |  | [osu! Slider End Silencer](https://osu.ppy.sh/community/forums/topics/634268) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Tool for silencing slider ends automatically |
 
