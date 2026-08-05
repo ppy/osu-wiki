@@ -31,7 +31,7 @@ By completing priority quests, you can earn...
 
 - A [**customised keychain**](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/keychain.jpg) based on a pattern in your map. Over **250** of these were created for winners of the [last batch of quests](https://osu.ppy.sh/home/news/2026-03-16-mappers-guild-spring-2026-priority-quests)!
 
-![GIF of ridiculous amount of keychains](/wiki/shared/news/2026-08-06-mappers-guild-summer-2026-priority-quests/keychains.gif)
+![GIF of ridiculous amount of keychains](/wiki/shared/news/2026-08-06-mappers-guild-summer-2026-priority-quests/keychains_sub1.gif)
 
 - And all the usual [Mappers' Guild rewards](/wiki/Community/Mappers_Guild#rewards) for ranking beatmaps!
 
