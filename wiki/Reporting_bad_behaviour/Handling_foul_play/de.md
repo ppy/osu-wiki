@@ -14,7 +14,7 @@ Die [Regeln](/wiki/Rules) besagen, dass jede Form von Manipulation des Clients, 
 
 Das ist eine Null-Toleranz-Regel. Schummler werden bei ihrem ersten Verstoß für unbestimmte Zeit eingeschränkt. Das [Support-Team](/wiki/People/Account_support_team) kann diese Einschränkung aufheben, wenn der Benutzer nach mindestens sechs Monaten ein gültiges Gesuch einreicht.
 
-## Wird die Benutzung spezieller Hardware als Cheating betrachtet? {id=hardware}
+## Wird die Benutzung spezieller Hardware als Schummeln betrachtet? {id=hardware}
 
 Peripheriegeräte wie Tablets und Touchscreens sind okay. Alles, was die benötigten Fähigkeiten zum Spielen herabsenkt (z. B. die Benutzung eines Fidget Spinners auf einem Tablet) oder den Effekt der Spielmodifikationen zu Nichte macht, ist es nicht. Das heißt, dass die Benutzung mehrerer Computer, Eingangssplitter oder anderes in dieser Art als Tabu betrachtet wird.
 
@@ -68,7 +68,7 @@ Benutze den Befehl `!report` in einem beliebigen Channel, um die Chatmoderatoren
 
 ```
 Format: !report <Benutzername> <Grund>
-Beispiel: !report dieser_benutzer wird wegen Cheating verdächtigt
+Beispiel: !report dieser_benutzer steht im Verdacht zu schummeln
 ```
 
 Deine Hilfe beim Aufspüren von Verstößen wird gerne angenommen. Wir bewerten jede Meldung, die wir erhalten, aber das bedeutet nicht, dass wir bei allen Maßnahmen ergreifen werden! Du kannst auch eine E-Mail direkt an [osu@ppy.sh](mailto:osu@ppy.sh) für eine relativ schnelle Antwort senden.
@@ -79,7 +79,7 @@ Deine Hilfe beim Aufspüren von Verstößen wird gerne angenommen. Wir bewerten 
 **Siehe auch:** [Einschränkungen des Accounts § Meine Auszeit ist vorbei. Wie reiche ich ein Gesuch ein?](/wiki/Help_centre/Account_restrictions#appeal)
 :::
 
-Warte mindestens drei Monate (sechs Monate, falls du wegen Cheating eingeschränkt wurdest) nach der letzten aktiven Einschränkung vor dem Einreichen eines Gesuchs.[^restriction-length] Sende deine E-Mails an [accounts@ppy.sh](mailto:accounts@ppy.sh) und benutze den Betreff `Restriction Appeal: <Benutzername>`.
+Warte mindestens drei Monate (sechs Monate, falls du wegen Schummelei eingeschränkt wurdest) nach der letzten aktiven Einschränkung vor dem Einreichen eines Gesuchs.[^restriction-length] Sende deine E-Mails an [accounts@ppy.sh](mailto:accounts@ppy.sh) und benutze den Betreff `Restriction Appeal: <Benutzername>`.
 
 Das Support-Team erwartet, dass Nutzer all ihre vergangenen Verstöße auflisten und Gründe nennen, warum sie das in Zukunft nicht mehr machen werden.
 
