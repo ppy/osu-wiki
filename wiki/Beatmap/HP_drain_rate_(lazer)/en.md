@@ -6,6 +6,7 @@ tags:
 ---
 
 # HP drain rate (lazer)
+
 <!-- TODO: In-game, this attribute is now called "HP Drain"; this may require updating. -->
 
 ::: alert-note

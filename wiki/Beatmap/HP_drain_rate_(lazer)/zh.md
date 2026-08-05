@@ -8,6 +8,7 @@ tags:
 ---
 
 # 掉血速度 (HP drain rate)
+
 <!-- TODO: In-game, this attribute is now called "HP Drain"; this may require updating. -->
 
 ::: alert-note
