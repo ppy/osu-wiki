@@ -69,6 +69,7 @@ The completionist within you has been begging for this moment.
 2. Ensure that **every song** on that listing has a Ranked/Loved map by the deadline, regardless of mode.
 
 Here are examples for clarity:
+
 - [**DOT96**'s page](https://osu.ppy.sh/beatmaps/artists/390) has 4 songs. `SAMBISTA` and `REASONING` currently have no Ranked maps. If both are Ranked by the deadline, their mappers earn points. If only one is Ranked by the deadline, its mappers don't earn points.
 - [**gladde paling**'s page](https://osu.ppy.sh/beatmaps/artists/511) only has 1 song. It does not qualify for this quest.
 - [**hikota**'s page](https://osu.ppy.sh/beatmaps/artists/463) has over 30 songs without Ranked maps. Unless you control an army of speedmappers, you'll probably want to skip this one.
