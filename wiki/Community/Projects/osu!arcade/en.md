@@ -26,7 +26,7 @@ Around early to mid 2012, a second prototype was developed.[^tweet-1][^tweet-2] 
 
 The prototype was showcased to the public running [osu!stream](/wiki/osu!stream), an osu! variant designed for touch devices, at multiple events such as the "Red Flag LAN Fest" in Perth.[^rflan][^oneup]
 
-In August 2012, support for local multiplayer was added to osu!stream specifically for the arcade.[^local-multi] Included with the multiplayer was a custom server and real-time synced cursors, an exclusive feature not present in any other osu! variant.[^multi-arcade]
+In August 2012, support for local multiplayer was added to osu!stream specifically for the arcade.[^local-multi] Included with the multiplayer mode was a custom server and real-time synced cursors, an exclusive feature not present in any other osu! variant.[^multi-arcade]
 
 Later that same year, peppy experimented with support for converting [osu!](/wiki/Game_mode/osu!) [beatmaps](/wiki/Beatmap) to osu!stream, so a more diverse range of maps could be played on the arcade cabinet.[^conversion]
 
