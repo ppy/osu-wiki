@@ -7,15 +7,15 @@ tags:
 
 Das **Nominierungs-Event für neue Mapper** (***New Mapper Nomination Event***) wurde vom **1. März 2021** bis zum **31. Mai 2021** veranstaltet.
 
-Während des Events waren die Beatmap-Nominatoren damit beauftragt, Maps von Nutzern zu ranken, die vorher noch nie eine Map gerankt haben (in einem Spielmodus ihrer Wahl). Nur Maps die während des Events [qualifiziert](/wiki/Beatmap_ranking_procedure#qualifizierung) wurden, kamen für eine Nominierung infrage.
+Während des Events hatten die Beatmap-Nominatoren die Aufgabe, Beatmaps von Nutzern zu ranken, die vorher noch nie eine Beatmap gerankt haben (in einem Spielmodus ihrer Wahl). Nur Beatmaps die während des Events [qualifiziert](/wiki/Beatmap_ranking_procedure#qualifizierung) wurden, kamen für eine Nominierung infrage.
 
 ## Belohnungen
 
-Nominatoren, die während des Events **mindestens 4 Maps** gerankt haben, erhielten einen Monat [Discord Nitro](https://discord.com/nitro). Darüber hinaus erhielten die 4 besten Nominatoren über alle Spielmodi hinweg und der beste Nominator in jedem Spielmodus eine exklusive BN-Tasse und ein Abzeichen dazu.
+Nominatoren, die während des Events **mindestens 4 Beatmaps** gerankt haben, erhielten einen Monat [Discord Nitro](https://discord.com/nitro). Darüber hinaus erhielten die 4 besten Nominatoren über alle Spielmodi hinweg und der beste Nominator in jedem Spielmodus eine exklusive BN-Tasse und ein Abzeichen dazu.
 
-![Abzeichen für Top-Nominatoren](https://assets.ppy.sh/profile-badges/BNevent2021@2x.png "Abzeichen für Top-Nominatoren")
+![Abzeichen für die besten Nominatoren](https://assets.ppy.sh/profile-badges/BNevent2021@2x.png "Abzeichen für die besten Nominatoren")
 
-![Tasse für Top-Nominatoren](img/mug.jpg "Tasse für Top-Nominatoren")
+![Tasse für die besten Nominatoren](img/mug.jpg "Tasse für die besten Nominatoren")
 
 ## Spitzenplatzierungen
 
