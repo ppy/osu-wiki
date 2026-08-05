@@ -3,8 +3,6 @@ tags:
   - NAT
   - нат
   - наты
-outdated_translation: true
-outdated_since: 9b1af3bcbc538a7e501bce965877ed8eb3467b94
 ---
 
 # Команда оценки номинаций
@@ -150,10 +148,9 @@ NAT самостоятельно отслеживает появление но�
 | ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Финский |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Китайский |
-| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Русский |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Французский, испанский |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Китайский |
-| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Румынский |
+| ::{ flag=RO }:: [bsm](https://osu.ppy.sh/users/12366071) | Румынский |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Немецкий |
 
@@ -162,9 +159,9 @@ NAT самостоятельно отслеживает появление но�
 | Имя | Языки |
 | :-- | :-- |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Китайский |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Кантонский, китайский |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Арабский, французский |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Португальский |
-| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | Частично немецкий |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Немецкий, частично французский |
 
 #### osu!catch
@@ -173,7 +170,6 @@ NAT самостоятельно отслеживает появление но�
 | :-- | :-- |
 | ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Немецкий |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Корейский |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Корейский |
 
 #### osu!mania
