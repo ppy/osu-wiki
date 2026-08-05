@@ -33,19 +33,19 @@ HP ranges from 0 to 10, (extendable to 11 via the [Difficulty Adjust (DA)](/wiki
 
 In [osu!](/wiki/Game_mode/osu!), the HP value affects both the passive drain rate and the judgement penalties/rewards.
 
-The health recovery amounts for GREAT, OK and MEH are fixed at +3.00%, +1.10%, and +0.20% respectively, and are not affected by the HP value.
+The health recovery amounts for GREAT, OK and MEH are fixed at +3.00%, +1.10%, and +0.20% respectively, and are not affected by the HP value. Slider ticks give +1.5%, while slider reverses and tails give +2%. Slider heads are judged like [hit circles](/wiki/Gameplay/Hit_object/Hit_circle).[^OsuHealthProcessor]
 
-The health penalty for MISS is linearly affected by the HP value[^DifficultyRange].
+The health penalty for MISS is linearly affected by the HP value:[^DifficultyRange] -3% at HP 0, -12.5% at HP 5, and -20% at HP 10. Missing a slider tick or a reverse costs less: -2%, -7.5%, and -14% respectively. Dropping a slider tail costs no health.[^OsuHealthProcessor]
 
-<!-- TODO: quantify what the value actually means in osu!taiko -->
+### osu!taiko
+
+In [osu!taiko](/wiki/Game_mode/osu!taiko), there is no passive health drain. The HP value scales both the health gained from hits and the health lost on misses: the higher it is, the less each hit gives back and the more each miss takes away.[^TaikoHealthProcessor]
 
 ### osu!catch
 
 <!-- TODO: quantify the relationship between passive HP drain rate and the value -->
 
-In [osu!catch](/wiki/Game_mode/osu!catch), the HP value also affects both the passive drain rate and the judgement penalties/rewards.
-
-In this mode, the relationship between the HP value and the passive drain rate is similar to that in [osu!](/wiki/Game_mode/osu!), but the implementation details differ.
+In [osu!catch](/wiki/Game_mode/osu!catch), the HP value affects both the passive drain rate and the health changes from judgements. Missing a fruit or a droplet costs the same as a MISS in osu!: -3% at HP 0, -12.5% at HP 5, and -20% at HP 10. Missing a tiny droplet or a banana costs no health and cannot cause a fail.[^CatchHealthProcessor]
 
 ### osu!mania
 
@@ -69,9 +69,9 @@ There are seven mods that alter the HP drain rate when activated:
 - [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)): Multiplies the HP value by 1.4, up to a maximum of 10.
 - [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) / [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)): The HP value is not affected, but due to the 50% play speed increase, health drain occurs 50% faster.
 - [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) / [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore): The HP value is not affected, but due to the 25% play speed decrease, health drain occurs 25% slower.
-- [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust): Allows manual adjustment of the HP value (range 0–10, or up to 11 with Extended Limits enabled).
+- [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust): Allows manual adjustment of the HP value (range 0–10 or up to 11 with `Extended Limits` enabled).
 
 ## References
 
-[^DifficultyRange]: [`IBeatmapDifficultyInfo` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/master/osu.Game/Beatmaps/IBeatmapDifficultyInfo.cs)
-[^ManiaHealthProcessor]: [`ManiaHealthProcessor` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/master/osu.Game.Rulesets.Mania/Scoring/ManiaHealthProcessor.cs)
+[^DifficultyRange]: [`IBeatmapDifficultyInfo` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/3c1c96f742e7aae2ff67a7361e058fe91ca3b955/osu.Game/Beatmaps/IBeatmapDifficultyInfo.cs)
+[^ManiaHealthProcessor]: [`ManiaHealthProcessor` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/3c1c96f742e7aae2ff67a7361e058fe91ca3b955/osu.Game.Rulesets.Mania/Scoring/ManiaHealthProcessor.cs)
