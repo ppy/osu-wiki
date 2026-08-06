@@ -18,7 +18,7 @@ Ist die Beatmap, die ein Nutzer hochlädt, nicht bereits auf der osu!-Webseite, 
 
 Beim Anklicken des Buttons `NEUE Beatmap hochladen!` oder `Beatmap aktualisieren!` hat ein Nutzer die Wahl, seine Beatmap in die Kategorien `Beatmaps in Arbeit` oder `Vollständige Beatmaps` hochzuladen. WIP-Beatmaps können nicht für das Ranking nominiert werden, während ausstehende Beatmaps es können.
 
-Der Abschnitt `Kommentar des Erstellers` ermöglicht Benutzereingaben, die entlang der Auflistungsseite einer Beatmap erscheinen. Das Eingabefeld unterstützt [BBCode](/wiki/BBCode)-Formatierung.
+Im Abschnitt `Kommentar des Erstellers` konnte früher die [Beatmapbeschreibung](/wiki/Beatmap/Beatmap_description) bearbeitet werden. Diese Funktion ist jedoch seit [Stable 20251128.1](https://osu.ppy.sh/home/changelog/stable40/20251128.1) nicht mehr verfügbar. Die Beschreibung kann nach wie vor nach dem Hochladen der Beatmap auf der Webseite bearbeitet werden.
 
 Am unteren Ende des Fensters sind zwei Checkboxen erkennbar. Die erste trägt den Text `Bei Antworten Benachrichtigung per E-Mail schicken`, wodurch die Beatmap zur [Modding-Beobachtungsliste](https://osu.ppy.sh/beatmapsets/watches) des Nutzers hinzugefügt wird. Die zweite ist mit `Nach dem Einreichen im Browser öffnen` beschriftet, wodurch die Auflistungsseite der Beatmap in deinem Standardbrowser geladen wird.
 
