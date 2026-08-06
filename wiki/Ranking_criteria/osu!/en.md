@@ -18,7 +18,6 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 - **All actively clicked parts of objects must have at least one audible [hitsound](/wiki/Beatmapping/Hitsound) that does not blend with the song.** Players do not receive enough feedback otherwise. Using [keysounds](/wiki/Beatmapping/Hitsound#keysound) as hitnormals without other distinct additional hitsounds, for example, is not allowed.
 - **Difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
 
-
 #### Guidelines
 
 - **Sliderends that do not represent a specific sound in the music should be [snapped](/wiki/Beatmapping/Snapping) according to the song's beat structure.** If the song is using a straight beat, 1/4, 1/8, 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used. If the song has a beat in a different position from what was recommended, snapping to an actual beat always takes priority.
@@ -42,7 +41,6 @@ The following list covers where the [spread](/wiki/Beatmap/Difficulty_spread) of
   - **...between 3:15 and 4:00**, the lowest difficulty cannot be harder than an Insane.
 
 **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
-
 
 ### Skinning
 
