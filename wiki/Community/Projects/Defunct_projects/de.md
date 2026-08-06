@@ -46,7 +46,7 @@ Dieser Artikel listet die verschiedenen Projekte auf, die von den [Entwicklern](
 
 | Logo | Name | Projektleiter | Beschreibung |
 | :-: | :-- | :-- | :-- |
-|  | [osu!tp's difficulty calculator](https://osu.ppy.sh/community/forums/topics/164057) | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Programm, um die Beatmap-Schwierigkeit gemäß dem [veralteten tp-System](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking) zu errechnen |
+|  | [osu!tp's difficulty calculator](https://osu.ppy.sh/community/forums/topics/164057) | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Programm, um die Beatmap-Schwierigkeit gemäß des [veralteten tp-Systems](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking) zu errechnen |
 |  | [osu! Slider End Silencer](https://osu.ppy.sh/community/forums/topics/634268) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Tool, um die Hitsounds von Sliderenden automatisch stumm zu stellen |
 
 #### osu!mania
@@ -84,14 +84,14 @@ Dieser Artikel listet die verschiedenen Projekte auf, die von den [Entwicklern](
 
 | Logo | Name | Projektleiter | Beschreibung |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_ezpp.png) | [ezpp!](https://osu.ppy.sh/community/forums/topics/466740) | ::{ flag=FI }:: [oam](https://osu.ppy.sh/users/3844204) | Browser-Erweiterung zur Berechnung der pp |
+| ![](img/logo_ezpp.png) | [ezpp!](https://osu.ppy.sh/community/forums/topics/466740) | ::{ flag=FI }:: [oam](https://osu.ppy.sh/users/3844204) | Browser-Erweiterung zur Berechnung von pp |
 |  | [osu!Post - Live osu! Status](https://osu.ppy.sh/community/forums/topics/164486) | ::{ flag=DE }:: [givenameplz](https://osu.ppy.sh/users/947499) | Erstellung von Forensignaturen mit einer [MSN Live](https://de.wikipedia.org/wiki/Windows_Live_Messenger)-Statusintegration |
 
 ### Verschiedenes
 
 | Logo | Name | Projektleiter | Beschreibung |
 | :-: | :-- | :-- | :-- |
-|  | [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510) | ::{ flag=DE }:: [Deimos](https://osu.ppy.sh/users/1515403) | Android-App, mit der man die Geschwindigkeit der [Approach-Rate](/wiki/Beatmap/Approach_rate) und die Größe des Trefferfensters in Bezug auf die [Allgemeine Schwierigkeit](/wiki/Beatmap/Overall_difficulty) bestimmen kann |
+|  | [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510) | ::{ flag=DE }:: [Deimos](https://osu.ppy.sh/users/1515403) | Android-App, um die [Approach-Rate](/wiki/Beatmap/Approach_rate) und die [allgemeine Schwierigkeit](/wiki/Beatmap/Overall_difficulty) bei verschiedenen Mods zu bestimmen |
 |  | [osu!search](https://osu.ppy.sh/community/forums/topics/380485) | ::{ flag=FI }:: [Rivenation](https://osu.ppy.sh/users/2063554) | Webseite für detailiertes Suchen von Beatmaps |
 | ![](img/logo_osu_music_player.png) | [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) | ::{ flag=CA }:: [Naviaux](https://osu.ppy.sh/users/2240370) | Anwendung zum Abspielen von Liedern aus osu! |
 |  | [osu! Windows 60 fps animated cursors](https://osu.ppy.sh/community/forums/topics/86671) | ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | Windows-Mauszeiger im Stil von osu! |

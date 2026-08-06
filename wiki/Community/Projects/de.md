@@ -1,7 +1,7 @@
 # Projekte
 
 ::: alert-note
-**Note:** For die Übersicht aller eingestellten Projekte, siehe [Eingestellte Projekte](Defunct_projects)
+**Note:** Für die Übersicht aller eingestellten Projekte, siehe [Eingestellte Projekte](Defunct_projects)
 :::
 
 Dieser Artikel listet die verschiedenen Projekte, Tools und Dienste auf, die von den [Entwicklern](/wiki/People/Developers) und der Community für osu! geschaffen wurden.
@@ -80,7 +80,7 @@ Alle vier [Spielmodi](/wiki/Game_mode) wurden von verschiedenen Nutzern in [Scra
 | :-: | :-- | :-- | :-- |
 |  | [AxerBot](https://github.com/Hiviexd/AxerBot) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Universell einsetzbarer Discord-Bot mit Funktionen speziell für Mapping und Modding |
 |  | [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | Tool zum Kopieren von Hitsounds von einer Schwierigkeitsstufe zur anderen |
-| ![](img/logo_mapping_tools.png) | [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368) | ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | Hauptprogramm für alles rund um Mapping |
+| ![](img/logo_mapping_tools.png) | [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368) | ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | Hauptprogramm für alles rund ums Mapping |
 
 #### osu!
 
@@ -166,7 +166,7 @@ Alle vier [Spielmodi](/wiki/Game_mode) wurden von verschiedenen Nutzern in [Scra
 | ![](img/logo_osuchan.png) | [osu!chan](https://osuchan.syrin.me) | ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575) | Webseite, die eine Vielzahl alternativer Ranglisten anbietet |
 | ![](img/logo_osuskills.png) | [osu!Skills](https://osu.ppy.sh/community/forums/topics/367283) | ::{ flag=RU }:: [Kert](https://osu.ppy.sh/users/119933) | Webseite, die pp in andere Metriken wie Ausdauer, Reaktionsvermögen und Erinnerungsvermögen aufschlüsselt |
 | ![](img/logo_osustats.png) | [osu!Stats](https://osustats.ppy.sh) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Webseite zum Suchen bestimmter Scores und Spielerstatistiken |
-| ![](img/logo_osutrack.png) | [osu!track](https://osu.ppy.sh/community/forums/topics/212151) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | Webseite, mit der die Spieler ihr Können und ihre Fortschritte über die Zeit einsehen können |
+| ![](img/logo_osutrack.png) | [osu!track](https://osu.ppy.sh/community/forums/topics/212151) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | Webseite, auf der Spieler ihr Können und ihre Fortschritte über die Zeit einsehen können |
 |  | [osu!track (IRC)](https://osu.ppy.sh/community/forums/topics/233167) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | IRC-Bot von osu!track, der im Spiel bedienbar ist |
 |  | [osu!track Daily Challenge Stats](https://osu.ppy.sh/community/forums/topics/1986550) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | Webseite, auf der Spieler globale und persönliche Statistiken der [Täglichen Herausforderung](/wiki/Gameplay/Daily_challenge) verfolgen können |
 |  | [osu-pps](https://osu-pps.com) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | Webseite, die berechnet wie "unverhältnismäßig" die erreichbaren pp auf einer Beatmap sind |
@@ -215,7 +215,7 @@ Diese Projekte sind alle noch funktionsfähig, werden jedoch nicht mehr aktiv ge
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_my_hand_it_burns.png) | [my hand, IT BURNS!!](https://keyaa.github.io/osu-stream-practice/) | ::{ flag=PH }:: [keyaa_old_2](https://osu.ppy.sh/users/30720651) | Benchmark-Tool zur Ermittlung der eigenen Tippgeschwindigkeit |
 |  | [osu!Tapspeed-Meter](https://osu.ppy.sh/community/forums/topics/247716) | ::{ flag=AT }:: [DaRealSlimOni](https://osu.ppy.sh/users/2925249) | Benchmark-Tool zur Ermittlung der eigenen Tippgeschwindigkeit |
-|  | [SpinnyProgram](https://osu.ppy.sh/community/forums/topics/140878) | ::{ flag=GB }:: [jimj316](https://osu.ppy.sh/users/1863872) | Benchmark-Tool zur Ermittlung der eigenen Tippgeschwindigkeit |
+|  | [SpinnyProgram](https://osu.ppy.sh/community/forums/topics/140878) | ::{ flag=GB }:: [jimj316](https://osu.ppy.sh/users/1863872) | Benchmark-Tool zur Ermittlung der eigenen Spingeschwindigkeit |
 
 #### osu!taiko
 
@@ -304,7 +304,7 @@ Diese Projekte sind alle noch funktionsfähig, werden jedoch nicht mehr aktiv ge
 | Logo | Name | Projektleiter | Beschreibung |
 | :-: | :-- | :-- | :-- |
 |  | [osu! level calculator](https://osu.ppy.sh/community/forums/topics/199230) | ::{ flag=IT }:: [Howl](https://osu.ppy.sh/users/2751672) | Anwendung, mit der man berechnen kann, wie viele Punkte bis zu einem bestimmten Level benötigt werden |
-|  | [osu! Stats Watcher](https://osu.ppy.sh/community/forums/topics/269483) | ::{ flag=US }:: [Albi-chan](https://osu.ppy.sh/users/2770894) | Tool, um Spielerstatistiken in eine Textdatei zu exportieren, die dann mit [Open Broadcaster Software](https://obsproject.com/) dargestellt werden kann |
+|  | [osu! Stats Watcher](https://osu.ppy.sh/community/forums/topics/269483) | ::{ flag=US }:: [Albi-chan](https://osu.ppy.sh/users/2770894) | Tool, um Spielerstatistiken in eine Textdatei zu exportieren, die dann mit der [Open Broadcaster Software](https://obsproject.com/) dargestellt werden kann |
 
 ### Verschiedenes
 
