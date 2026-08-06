@@ -31,8 +31,6 @@ tags:
   - falla
   - jugabilidad
   - interfaz
-outdated_translation: true
-outdated_since: 93ee94cafcbd971726f274c065dcf20c3587b5ad
 ---
 
 # Cliente
@@ -308,6 +306,12 @@ También puedes probar a jugar en modo ventana o sin bordes, que usarán la sinc
 Desafortunadamente, si activas la sincronización vertical o juegas en modo ventana o sin bordes, se producirá un ligero retraso en la entrada. Para la mayoría de la gente, esto no causará problemas significativos.
 
 Las últimas tarjetas gráficas de NVidia tienen una opción global en el panel de control de NVidia para establecer la frecuencia de refresco global a un valor llamado «Rápido», que también solucionará este problema.
+
+### ¡He cambiado a los drivers nativos para tabletas de osu!(lazer) y ahora mi área ha cambiado! {id=tablet-area}
+
+osu!(lazer) lleva integrado los drivers de [OpenTabletDriver](https://opentabletdriver.net/). Si antes no usabas estos drivers, esto ocurre porque tu tableta no está configurada correctamente para los drivers nativos.
+
+Para obtener más información sobre cómo convertir correctamente el área antigua de tu tableta a la configuración de OpenTabletDriver, consulta [Conversión de áreas para tabletas](/wiki/Guides/Tablet_conversion).
 
 ## Funciones en línea {id=online-features}
 

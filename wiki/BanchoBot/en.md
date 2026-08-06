@@ -147,7 +147,9 @@ There is a total of 7 statuses which can be displayed by the `!stats` command: E
 
 ### Report
 
-*For information about what is worth reporting, see [Reporting Bad Behaviour](/wiki/Reporting_bad_behaviour).*
+::: alert-note
+**Note:** For information about what is worth reporting, see [Reporting Bad Behaviour](/wiki/Reporting_bad_behaviour).
+:::
 
 ```
 !report <user> <reason>
