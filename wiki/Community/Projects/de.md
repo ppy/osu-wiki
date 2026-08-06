@@ -1,12 +1,16 @@
 # Projekte
 
-Dieser Artikel listet die verschiedenen Projekte, Tools und/oder Dienste auf, die von den [Entwicklern](/wiki/People/Developers) und der Community für osu! geschaffen wurden.
+::: alert-note
+**Note:** For die Übersicht aller eingestellten Projekte, siehe [Eingestellte Projekte](Defunct_projects)
+:::
+
+Dieser Artikel listet die verschiedenen Projekte, Tools und Dienste auf, die von den [Entwicklern](/wiki/People/Developers) und der Community für osu! geschaffen wurden.
 
 Offizielle Projekte werden zum Großteil durch das [osu!-Team](/wiki/People/osu!_team) betrieben, wohingegen Community-Projekte von Mitgliedern aus der Community entwickelt werden. Daher stehen sie in keiner Verbindung zu osu! und werden auch nicht offiziell unterstützt. Besuche für Neuigkeiten und Diskussionen rund um aktuelle und anstehende Projekte bitte das Forum [Development](https://osu.ppy.sh/community/forums/2).
 
 ## Laufende Projekte
 
-These projects are all currently in operation and under active maintenance.
+Diese Projekte sind alle in Betrieb und werden aktiv gepflegt.
 
 ### Offiziell
 
@@ -29,9 +33,9 @@ These projects are all currently in operation and under active maintenance.
 
 #### Scratch
 
-All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://scratch.mit.edu/about) by various users.
+Alle vier [Spielmodi](/wiki/Game_mode) wurden von verschiedenen Nutzern in [Scratch](https://scratch.mit.edu/about) nachgebildet.
 
-| Name | Project lead |
+| Name | Projektleiter |
 | :-- | :-- |
 | [osu! made with Scratch](https://turbowarp.org/613688710?fps=240&clones=Infinity&limitless&hqpen) | ::{ flag=ID }:: [SpiritSK](https://osu.ppy.sh/users/14447611) |
 | [osu!taiko made with Scratch](https://turbowarp.org/1268613976?fps=240&offscreen&hqpen) | ::{ flag=US }:: [The Jorker](https://osu.ppy.sh/users/32908054) |
@@ -53,9 +57,11 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_circleguard.png) | [Circleguard](https://github.com/circleguard/circleguard) | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Software für Replay-Analysen zur Überprüfung von potentiellen Betrugsfällen |
 | ![](img/logo_danser_go.png) | [danser-go](https://github.com/Wieku/danser-go) | ::{ flag=PL }:: [Wiek](https://osu.ppy.sh/users/2584698) | Visualisierungstool für osu!-Beatmaps |
+| ![](img/logo_ordr.png) | [o!rdr](https://osu.ppy.sh/community/forums/topics/1292871) | ::{ flag=FR }:: [MasterIO02](https://osu.ppy.sh/users/12297980) | Webseite für die automatische Umwandlung von `.osr` zu `.mp4` |
 | ![](img/logo_opentabletdriver.png) | [OpenTabletDriver](https://opentabletdriver.net/) | ::{ flag=DK }:: [gonX](https://osu.ppy.sh/users/5409249) | Tabletgrafiktreiber für osu! mit geringer Latenz |
 | ![](img/logo_osr2mp4.png) | [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) | ::{ flag=JP }:: [yuitora](https://osu.ppy.sh/users/11401118) | Konvertierungstool für die automatische Umwandlung von `.osr` zu `.mp4` |
 |  | [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143) | ::{ flag=US }:: [LackOfSanity](https://osu.ppy.sh/users/4613296) | Software für Replay-Analysen, um die Ursache für einen Miss herauszufinden |
+| ![](img/logo_rewind.png) | [Rewind](https://osu.ppy.sh/community/forums/topics/1451845) | ::{ flag=GB }:: [abstrakt](https://osu.ppy.sh/users/5773957) | Tool zur Analyse von osu!-Replays |
 
 ### Livestreaming
 
@@ -139,6 +145,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 |  | [osu! news scheduler](https://osunews.untone.uk) | ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Terminkalender für den [osu!-Newsfeed](https://osu.ppy.sh/home/news) |
 | ![](img/logo_osu_preview.png) | [osu! preview](https://osu.ppy.sh/community/forums/topics/2062759) | ::{ flag=IT }:: [TechnoZamb](https://osu.ppy.sh/users/12958169) | Browser-Erweiterung zur Vorschau von Beatmaps |
 | ![](img/logo_osuplus.png) | [osuplus](https://osu.ppy.sh/community/forums/topics/408541) | ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Browserskript, das zusätzliche Funktionen zur Webseite hinzufügt |
+| ![](img/logo_pp_calculator.png) | [pp calculator](https://osu.ppy.sh/community/forums/topics/1504072) | ::{ flag=GB }:: [abstrakt](https://osu.ppy.sh/users/5773957) | Browser-Erweiterung zur Berechnung von pp |
 
 ### IRC
 
@@ -161,6 +168,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 | ![](img/logo_osustats.png) | [osu!Stats](https://osustats.ppy.sh) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Webseite zum Suchen bestimmter Scores und Spielerstatistiken |
 | ![](img/logo_osutrack.png) | [osu!track](https://osu.ppy.sh/community/forums/topics/212151) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | Webseite, mit der die Spieler ihr Können und ihre Fortschritte über die Zeit einsehen können |
 |  | [osu!track (IRC)](https://osu.ppy.sh/community/forums/topics/233167) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | IRC-Bot von osu!track, der im Spiel bedienbar ist |
+|  | [osu!track Daily Challenge Stats](https://osu.ppy.sh/community/forums/topics/1986550) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | Webseite, auf der Spieler globale und persönliche Statistiken der [Täglichen Herausforderung](/wiki/Gameplay/Daily_challenge) verfolgen können |
 |  | [osu-pps](https://osu-pps.com) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | Webseite, die berechnet wie "unverhältnismäßig" die erreichbaren pp auf einer Beatmap sind |
 |  | [RTPP Displayer](https://osu.ppy.sh/community/forums/topics/685031) | ::{ flag=CN }:: [DarkProjector](https://osu.ppy.sh/users/1344395) | Tool, mit der sich erworbene pp spontan berechnen und darstellen lassen |
 
@@ -173,6 +181,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 | ![](img/logo_hwchrs_pick_em.png) | [hwchr's pick'em](https://pickem.hwc.hr/tournaments) | ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) | Webseite, auf der [pick'ems](https://egamersworld.com/blog/egamersworld-pickem-vjofPo3GE7)[^pick-ems] für osu!-Turniere verfügbar sind |
 | ![](img/logo_mutualify.png) | [Mutualify](https://mutualify.stanr.info) | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Datenbank, die Freundeslisten in osu! erfasst und Verbindungen aufzeigt |
 | ![](img/logo_osekai.png) | [Osekai](https://inex.osekai.net/) | ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) | Webseite, die [Freischaltungsanforderungen für Medaillen](/wiki/Medals/Unlock_requirements) anzeigt sowie alternative Ranglisten und mehr bietet |
+|  | [ossapi](https://github.com/Liam-DeVoe/ossapi) | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | In Python geschriebener Wrapper für die osu!-API |
 | ![](img/logo_osumatchmaking.png) | [osu!matchmaking](https://discord.com/invite/CehChep) | ::{ flag=RU }:: [Anemic Witch](https://osu.ppy.sh/users/7258536) | Schnelle und automatisierte Mehrspieler-Spiele |
 | ![](img/logo_osuplayer.png) | [osu!player](https://osu.ppy.sh/community/forums/topics/660418) | ::{ flag=DE }:: [Founntain](https://osu.ppy.sh/users/5105217) | Anwendung zum Abspielen von Liedern aus osu! |
 | ![](img/logo_osustation.png) | [osu!station](https://osu.ppy.sh/community/forums/topics/236417) | ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | Internetbasierter Radiodienst mit Liedern aus osu!-Beatmaps |
@@ -182,7 +191,7 @@ All four [game modes](/wiki/Game_mode) have been recreated in [Scratch](https://
 
 ## Pausierte Projekte
 
-These projects are all currently still in operation, although no longer under active maintenance.
+Diese Projekte sind alle noch funktionsfähig, werden jedoch nicht mehr aktiv gewartet.
 
 ### Offiziell
 

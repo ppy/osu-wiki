@@ -1,10 +1,10 @@
 # Eingestellte Projekte
 
 ::: alert-note
-**Note:** For the list of all projects that are currently in operation, see [Projects](../)
+**Note:** Für die Übersicht aller laufenden Projekte, siehe [Projekte](../)
 :::
 
-This article lists the various projects made for osu! by the [developers](/wiki/People/Developers) and the community that have since been abandoned and are no longer available or do not work anymore.
+Dieser Artikel listet die verschiedenen Projekte auf, die von den [Entwicklern](/wiki/People/Developers) und der Community für osu! geschaffen wurden, aber mittlerweile eingestellt wurden und nicht länger verfügbar sind oder nicht mehr funktionieren.
 
 <!-- lint ignore heading-increment -->
 
