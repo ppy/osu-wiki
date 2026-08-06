@@ -18,7 +18,7 @@
 
 点击`上传新的地图！`或`更新地图！`按钮后，用户可以选择将他们上传的谱面标记为 `Work In Progress(WIP)/Help` 或 `Pending Beatmaps`。标记为 WIP 的谱面不能改变排名（Rank）状态，但 Pending 的谱面可以。
 
-`作者的话`允许谱师编辑显示至谱面信息页中谱面介绍处的内容，并支持使用 [BBCode](/wiki/BBCode) 格式。
+`作者的话`原先用于编辑[谱面描述](/wiki/Beatmap/Beatmap_description)，自 [Stable 20251128.1](https://osu.ppy.sh/home/changelog/stable40/20251128.1)起被禁用，但在谱面提交后仍然可以从网站编辑。
 
 窗口底部有两个复选框。第一个是`当有回复的时候，发送邮件通知我`，将其选中会将谱面加入到用户的[谱面关注列表](https://osu.ppy.sh/beatmapsets/watches)。第二个是`提交后从浏览器打开`，其会在上传后使用系统默认浏览器打开谱面介绍页。
 
