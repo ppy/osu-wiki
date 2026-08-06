@@ -84,9 +84,9 @@ Diese gesammelten Daten werden aggregiert und nur aufbewahrt, wenn sie nützlich
 
 Wir betreiben weder Marketing oder Werbung, noch senden wir irgendwelche unerwünschten E-Mails. Die einzigen E-Mails, die Sie von uns bekommen, sind das Ergebnis aus einer Handlung auf unseren Diensten (beispielsweise die Beantragung der Zwei-Faktor-Authentifizierung, der Kauf eines Produkts oder das Aktivieren von Benachrichtigungen für eine Diskussion).
 
-Wir teilen Ihre personenbezogenen Daten nicht mit Drittanbietern. Alle Analysedaten werden intern gehosted. Begrenzte Diagnoseinformationen werden möglicherweise vertrauenswürdigen Entwicklern des Teams zur Verfügung gestellt, um Probleme im Spiel oder auf der Webseite zu analysieren und zu beheben.
+Wir teilen Ihre personenbezogenen Daten nicht mit Drittanbietern. Alle Analysedaten werden intern gespeichert. Begrenzte Diagnoseinformationen werden möglicherweise vertrauenswürdigen Entwicklern des Teams zur Verfügung gestellt, um Probleme im Spiel oder auf der Webseite zu analysieren und zu beheben.
 
-Bitte beachten Sie, dass Ihnen beim Ausführen gewisser Aktionen einige Drittanbieter begegnen können:
+Bitte beachten Sie, dass beim Ausführen gewisser Aktionen möglicherweise Dienstleistungen von Drittanbietern genutzt werden:
 
 - Das Einreichen eines Support-Tickets per E-Mail wird über Enchant verwaltet.
 - Die Bestellung von physischem Merchandise wird über Shopify oder andere Merchandise-Partner verwaltet.
