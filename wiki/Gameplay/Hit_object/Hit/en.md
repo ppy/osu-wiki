@@ -50,11 +50,7 @@ A finisher's colour and timing are judged in exactly the same way. Its second ke
 
 ## Mapping
 
-In the `.osu` [file format](/wiki/Client/File_formats/osu_(file_format)#hitsounds), Dons and Kats are stored as ordinary [hit circles](/wiki/Gameplay/Hit_object/Hit_circle), and their colour comes from the [hitsounds](/wiki/Beatmapping/Hitsound) attached to them: a whistle or a clap makes a Kat, anything else a Don.
-
-Likewise, finishers have no hit object type of their own either, they are simply notes carrying the finish hitsound. This makes osu!taiko the only game mode where hitsounds directly determine gameplay.
-
-Consequently, a finisher is created in the osu!(stable) editor by adding a finish hitsound to an object. The [osu!(lazer)](/wiki/Client/Release_stream/Lazer) editor exposes the trait directly instead: the `Strong` option toggles it on the current selection.
+In the `.osu` [file format](/wiki/Client/File_formats/osu_(file_format)#hitsounds), Dons and Kats are stored as ordinary [hit circles](/wiki/Gameplay/Hit_object/Hit_circle), and their colour comes from the [hitsounds](/wiki/Beatmapping/Hitsound) attached to them: a whistle or a clap makes a Kat, anything else a Don. Finishers have no hit object type of their own either, they are simply objects carrying a finish hitsound. All of this makes osu!taiko the only game mode where hitsounds directly determine gameplay.
 
 ## References
 
