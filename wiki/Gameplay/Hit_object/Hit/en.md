@@ -9,7 +9,9 @@ tags:
 
 # Don & Kat
 
-*Not to be confused with: [Katu judgement](/wiki/Gameplay/Judgement/Katu)*
+::: alert-note
+**Note:** Not to be confused with [Katu judgement](/wiki/Gameplay/Judgement/Katu).
+:::
 
 ![Regular and finisher notes in osu!taiko](img/taiko-hits.png "The rightmost note is a finisher")
 
