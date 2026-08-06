@@ -114,7 +114,9 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor de beatma
 
 ### Storyboards
 
-*Para obtener información sobre la sintaxis de los storyboards, véase [Secuencias de comandos de los storyboards](/wiki/Storyboard/Scripting).*
+::: alert-note
+**Nota:** Para obtener información sobre la sintaxis de los storyboards, véase [Secuencias de comandos de los storyboards](/wiki/Storyboard/Scripting).
+:::
 
 Los storyboards se pueden definir en un archivo de storyboard opcional separado con la extensión `.osb`. Los storyboards externos se comparten entre todas las dificultades en un beatmap.
 
