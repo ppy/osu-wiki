@@ -60,13 +60,19 @@ In [osu!](/wiki/Game_mode/osu!), the Easy mod decreases [circle size (CS)](/wiki
 
 Many players find that the Easy mod does not lower the difficulty of high density beatmaps. The halved approach rate creates a dense, visually cluttered playfield that makes reading the beatmap difficult.
 
-*Note: The readability concerns are detailed further in the "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" community feature request.*
+::: alert-notice
+**Notice**
+The readability concerns are detailed further in the "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" community feature request.
+:::
 
 ### osu!taiko
 
 In [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod decreases the [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), overall difficulty (OD) and HP drain by half.
 
-*Note: The amount of hits that are required to finish a [spinner](/wiki/Gameplay/Hit_object/Spinner) is reduced to the value of the OD.*
+::: alert-notice
+**Notice**
+The amount of hits that are required to finish a [spinner](/wiki/Gameplay/Hit_object/Spinner) is reduced to the value of the OD.
+:::
 
 Because players cannot fail mid-song in osu!taiko, the mod does not grant extra lives. Instead, it lowers the health requirement needed to fill the health bar, allowing it to fill much faster than normal.
 

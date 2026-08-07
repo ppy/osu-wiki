@@ -14,6 +14,8 @@ tags:
   - keymod
   - keymods
   - xK
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Key mods (lazer)
@@ -33,7 +35,7 @@ tags:
 | 缩写 | \[按键数\]K |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!mania] |
-| 得分系数 | 1.00x |
+| 得分系数 | `0.90x` |
 | 状态 (4K–9K) | 计入排名 |
 | 状态 (1K–3K, 10K) | 不计入排名 |
 | 不兼容的模组 | 无 |

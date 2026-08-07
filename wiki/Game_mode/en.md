@@ -20,7 +20,9 @@ To switch between modes, click the `Mode` button at the bottom of the song selec
 
 ## ![][osu!] osu!
 
-*Main page: [osu!](osu!)*
+::: alert-note
+**Main page:** [osu!](osu!)
+:::
 
 *osu!* is the default mode, where players are expected to tap circles, hold sliders, and spin spinners to the beat of the music. It is based on the original [iNiS](https://en.wikipedia.org/wiki/INiS)' rhythm game *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*. osu! has its own mascot called [pippi](/wiki/Mascots#pippi), a pink/black-haired girl.
 
@@ -28,7 +30,9 @@ To switch between modes, click the `Mode` button at the bottom of the song selec
 
 ## ![][osu!taiko] osu!taiko
 
-*Main page: [osu!taiko](osu!taiko)*
+::: alert-note
+**Main page:** [osu!taiko](osu!taiko)
+:::
 
 *osu!taiko* simulates the process of playing a real drum, where players make use of a keyboard or drum kit to hit differently-coloured circles on a single conveyor. It is based on the *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* game series produced by [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment). osu!taiko's mascot is [Mocha](/wiki/Mascots#mocha), a green-haired girl in a kimono holding drumsticks.
 
@@ -36,7 +40,9 @@ To switch between modes, click the `Mode` button at the bottom of the song selec
 
 ## ![][osu!catch] osu!catch
 
-*Main page: [osu!catch](osu!catch)*
+::: alert-note
+**Main page:** [osu!catch](osu!catch)
+:::
 
 *osu!catch* is a game mode where players control a catcher character to collect fruits falling to the beat from the top of the screen. It is loosely based on the "Catch It!!" minigame in the early builds of [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], a [Beatmania](https://en.wikipedia.org/wiki/Beatmania) simulator for PC, which by itself is derived after the *EZ2CATCH* mode from the [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ) arcade system. osu!catch's mascot is [Yuzu](/wiki/Mascots#yuzu), a blue-haired boy.
 
@@ -44,7 +50,9 @@ To switch between modes, click the `Mode` button at the bottom of the song selec
 
 ## ![][osu!mania] osu!mania
 
-*Main page: [osu!mania](osu!mania)*
+::: alert-note
+**Main page:** [osu!mania](osu!mania)
+:::
 
 *osu!mania* is a vertical scrolling rhythm game (VSRG) mode designed as a piano simulator. It was chiefly [introduced and implemented](https://osu.ppy.sh/community/forums/topics/100751) by [woc2006](https://osu.ppy.sh/users/1105845), and is based on a variety of conveyor-type rhythm games (namely [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) and [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). osu!mania's mascots are the twins [Mani and Mari](/wiki/Mascots#mani-&-mari), both with purple and light purple hair.
 

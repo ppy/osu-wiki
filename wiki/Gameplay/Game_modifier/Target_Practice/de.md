@@ -16,8 +16,13 @@ outdated_since: f765631cd44ae8e9acea47ce6c88b9ec510998b3
 
 ![TP Modsymbol](/wiki/shared/mods/TP.png "Target Practice (TP) Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
-*Hinweis: Die Mod Target Practice ist nur in der Updatequelle `Cutting Edge` verfügbar.*
+::: alert-note
+**Anmerkung:** Für die vollständige Liste aller Mods, siehe [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-notice
+**Hinweis:** Die Mod Target Practice ist nur in der Updatequelle `Cutting Edge` verfügbar.
+:::
 
 ## Übersicht
 
@@ -28,7 +33,10 @@ outdated_since: f765631cd44ae8e9acea47ce6c88b9ec510998b3
 
 ## Beschreibung
 
-*Hinweis: Das Aktivieren der Mod Target Practice sorgt dafür, dass das Spiel nicht gerankt wird.*
+::: alert-notice
+**Hinweis**
+Das Aktivieren der Mod Target Practice sorgt dafür, dass das Spiel nicht gerankt wird.
+:::
 
 Die Mod **Target Practice** ist eine experimentelle [Spielmodifikation](/wiki/Gameplay/Game_modifier), die alle eingezeichneten [Hit-Objekte](/wiki/Gameplay/Hit_object) entfernt und sie mit einer vereinfachten sowie einheitlichen Reihe von "Zielscheiben" ersetzt.
 
