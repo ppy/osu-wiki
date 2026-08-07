@@ -46,7 +46,7 @@ tags:
 **Note:** For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)
 :::
 
-The **Easy** mod, represented by the acronym **EZ**, is a difficulty-reducing [game modifier](/wiki/Gameplay/Game_modifier) that halves all difficulty settings of a [beatmap](/wiki/Beatmap).
+The **Easy (EZ)** mod is a difficulty-reducing [game modifier](/wiki/Gameplay/Game_modifier) that halves all difficulty settings of a [beatmap](/wiki/Beatmap).
 
 In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod grants the player two additional lives per play. If the [health bar](/wiki/Client/Interface/Health_bar) drops to zero, the game pauses to remove one life and slowly refills the health bar to approximately 80%.
 
