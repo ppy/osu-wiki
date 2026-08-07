@@ -41,6 +41,8 @@ El mod **Muted** reduce el volumen de la música y de los [hitsounds](/wiki/Beat
 - `Final volume at combo` (0-500, predeterminado: 100): El combo en el que se alcanzará el volumen final. Si se establece en 0 y la opción `Start muted` está desactivada, el volumen siempre estará silenciado.
 - `Mute hit sounds` (predeterminado: activado): Además del volumen de la música, también se verá afectado el volumen de los hitsounds.
 
+Cualquier combinación de los ajustes anteriores permite obtener puntuaciones clasificadas.
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
