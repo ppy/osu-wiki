@@ -35,7 +35,7 @@ tags:
 ### Из osu! в osu!catch
 
 ::: alert-note
-**См. также:** [osu!catch § Конверсия из osu!](/wiki/Game_mode/osu!catch#osu!-conversion-notes)
+**См. также:** [osu!catch § Конверсия из osu!](/wiki/Game_mode/osu!catch#особенности-конвертации-из-osu!)
 :::
 
 Конверты для osu!catch генерируются в зависимости от ритма карты и горизонтального расположения объектов:
