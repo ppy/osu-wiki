@@ -37,6 +37,10 @@ tags:
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
+El mod **No Fail** impide que el jugador pierda en cualquier [beatmap](/wiki/Beatmap), incluso si la [barra de salud](/wiki/Client/Interface/Health_bar) llega a cero o no se ha conseguido ningún punto. Este mod tiene el mismo efecto en todos los [modos de juego](/wiki/Game_mode).
+
+**Este mod no se puede personalizar.**
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
