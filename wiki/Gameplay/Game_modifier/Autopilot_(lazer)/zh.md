@@ -3,6 +3,8 @@ stub: true
 tags:
   - AP
   - auto pilot
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Autopilot（lazer 模组）
@@ -23,9 +25,9 @@ tags:
 | 类别 | 自动化 |
 | 默认快捷键 | `V` |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | 0.10x |
+| 得分系数 | `0.10x` |
 | 状态 | 不计入排名 |
-| 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel) |
+| 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) |
 
 :::
 

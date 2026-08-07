@@ -14,7 +14,10 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ![Icône du mod EZ](/wiki/shared/mods/EZ.png "Icône du mod Easy (EZ)")
 
-*Pour d'autres utilisations, voir [Easy (désambiguïsation)](/wiki/Disambiguation/Easy).*\
+::: alert-note
+**Remarque** : Pour d'autres utilisations, voir [Easy (désambiguïsation)](/wiki/Disambiguation/Easy).
+:::
+
 *Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*.
 
 ## À propos
@@ -46,13 +49,19 @@ Dans le mode [osu!](/wiki/Game_mode/osu!), le mod Easy diminue le [circle size (
 
 Cependant, il convient de mentionner que de nombreux joueurs ne trouvent pas l'utilisation du mod Easy utile pour diminuer la difficulté relative des beatmaps, en particulier celles de fortes intensités. L'argument avancé est que la diminution du taux d'approche crée une situation désordonnée, difficile à lire, où la vitesse réelle de la beatmap n'est pas très bien reflétée visuellement (voir ci-dessus).
 
-*Remarque : les points mentionnés ci-dessus sont développés dans la demande de fonctionnalité "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" pour améliorer le mod.*
+::: alert-notice
+**Note**
+les points mentionnés ci-dessus sont développés dans la demande de fonctionnalité "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" pour améliorer le mod.
+:::
 
 ### osu!taiko
 
 Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le mod Easy réduit de moitié le [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), l'overall difficulty (OD) et la perte d'HP.
 
-*Note : Le nombre de tours nécessaires pour terminer un [spinner](/wiki/Gameplay/Hit_object/Spinner) est réduit à la valeur de l'OD.*
+::: alert-notice
+**Note**
+Le nombre de tours nécessaires pour terminer un [spinner](/wiki/Gameplay/Hit_object/Spinner) est réduit à la valeur de l'OD.
+:::
 
 Contrairement aux autres modes de jeu, l'utilisation du mod Easy dans le mode osu!taiko réduit le score requis pour gagner de la santé. Dans ce mode de jeu la barre de vie se remplit beaucoup plus rapidement pour remplacer les deux "vies" supplémentaires car il est impossible d'échouer au milieu d'une musique.
 

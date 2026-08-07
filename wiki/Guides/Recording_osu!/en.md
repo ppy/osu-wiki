@@ -1,6 +1,8 @@
 # How to record videos of osu!
 
-*See also: [Livestreaming osu!](/wiki/Guides/Livestreaming_osu!)*
+::: alert-note
+**See also:** [Livestreaming osu!](/wiki/Guides/Livestreaming_osu!)
+:::
 
 While there are countless ways to **record videos of osu!**, this guide will cover one of the simplest options using [OBS Studio](https://obsproject.com/).
 

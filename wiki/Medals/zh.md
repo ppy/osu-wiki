@@ -17,7 +17,7 @@ tags:
 
 ## 实力
 
-**实力奖章** 授予达成各类实力性成就的玩家，例如：达到特定[连击](/wiki/Beatmapping/Combo)里程碑，在[全球表现分排行榜](https://osu.ppy.sh/rankings/osu/performance)上达到一定的名次，或者是在某个特定[星级](/wiki/Beatmap/Star_rating)范围内的任何[过审](/wiki/Beatmap/Category#qualified)、[上架](/wiki/Beatmap/Category#ranked)、[达标](/wiki/Beatmap/Category#approved)谱面上，取得通过或者[全连](/wiki/Gameplay/Full_combo)。
+**实力奖章** 授予达成各类实力性成就的玩家，例如：达到特定[连击](/wiki/Gameplay/Combo_(score_multiplier))里程碑，在[全球表现分排行榜](https://osu.ppy.sh/rankings/osu/performance)上达到一定的名次，或者是在某个特定[星级](/wiki/Beatmap/Star_rating)范围内的任何[过审](/wiki/Beatmap/Category#qualified)、[上架](/wiki/Beatmap/Category#ranked)、[达标](/wiki/Beatmap/Category#approved)谱面上，取得通过或者[全连](/wiki/Gameplay/Full_combo)。
 
 ## 毅力
 
@@ -25,7 +25,9 @@ tags:
 
 ## 模组入门
 
-*参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**参见：** [游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)
+:::
 
 **模组入门奖章** 授予使用对应[游戏模组](/wiki/Gameplay/Game_modifier)通关任意[过审](/wiki/Beatmap/Category#qualified)、[上架](/wiki/Beatmap/Category#ranked)或[达标](/wiki/Beatmap/Category#approved)谱面的玩家。这些奖章旨在鼓励新玩家尝试每个游戏模组、探索游戏模组的效果。注意，如果玩家在游玩的同时使用了多个游戏模组，则**无法**获得其中*任何*一个模组对应的奖章。
 

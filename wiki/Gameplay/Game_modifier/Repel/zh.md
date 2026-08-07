@@ -2,6 +2,8 @@
 stub: true
 tags:
   - RP
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Repel（模组）
@@ -21,7 +23,7 @@ tags:
 | 缩写 | RP |
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | 1.00x |
+| 得分系数 | `1.00x` |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
