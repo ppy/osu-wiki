@@ -34,9 +34,17 @@ tags:
 
 :::
 
-*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Easy (lazer mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
-*For other uses, see: [Easy (disambiguation)](/wiki/Disambiguation/Easy)*\
-*For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Easy (lazer mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))
+:::
+
+::: alert-note
+**Note:** For other uses, see: [Easy (disambiguation)](/wiki/Disambiguation/Easy)
+:::
+
+::: alert-note
+**Note:** For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)
+:::
 
 The **Easy** mod, represented by the acronym **EZ**, is a difficulty-reducing [game modifier](/wiki/Gameplay/Game_modifier) that halves all difficulty settings of a [beatmap](/wiki/Beatmap).
 
