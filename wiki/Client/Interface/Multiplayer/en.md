@@ -1,7 +1,7 @@
 # Multiplayer
 
 ::: alert-note
-**Note:** For multiplayer in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), see [Quick play](/wiki/Gameplay/Quick_play) and [Daily challenge](/wiki/Gameplay/Daily_challenge)
+**See also:** [Quick play](/wiki/Gameplay/Quick_play) and [Daily challenge](/wiki/Gameplay/Daily_challenge)
 :::
 
 **Multiplayer** (sometimes shortened to *multi*) is an osu! mode in which up to 16 players can compete against each other individually or in teams, or play together co-operatively, on maps decided by the host.
