@@ -12,3 +12,5 @@ osu! has multiple **release streams**, or game client versions, that receive upd
 | `Cutting Edge (Experimental)` | osu!(stable) | Receives osu!(stable) updates earlier; feature-locked; contains a few extra features compared to `Stable`; [multiplayer](/wiki/Client/Interface/Multiplayer) only available to [osu!supporters](/wiki/osu!supporter). |
 | [`Lazer`](Lazer) | osu!(lazer) | Completely rewritten game client; [open source](https://github.com/ppy/osu); most active in development with [many differences and new features](/wiki/Help_centre/Upgrading_to_lazer#gameplay-differences). |
 | `Tachyon (Unstable)` | osu!(lazer) | Pre-release version of `Lazer`; receives osu!(lazer) updates earlier and more frequently. |
+| `osu!dev (develompnt build)` | osu!(lazer) | development version of `Lazer`; built to work on builds before they are released to `tachyon`. |
+
