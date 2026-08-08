@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: jorj1357"
-date: 2026-08-08 20:00:00 +0000
+date: 2026-08-08 16:00:00 +0000
 series: featured_artists
 ---
 
@@ -9,9 +9,9 @@ series: featured_artists
 
 ![](https://assets.ppy.sh/artists/556/header.jpg)
 
-As a musician, that means **jorj1357** (whose name is based on the C7 chord structure!) aims to design music that only he could come up with. Inspired by anything that's ever reached his ears, **jorj1357** creates chaotic yet coherent tunes packed with samples from all over the place.
+As a musician, that means **jorj1357** (whose name is based on the C7 chord structure!) aims to design music that only he could come up with. Inspired by anything that's ever reached his ears, **jorj1357** creates equally chaotic and coherent tunes packed with samples from all over the place.
 
-While every genre is influential to **jorj1357** in some capacity, certain aural avenues like breakcore, drum & bass, rock, dariacore, hyperpop, hoodtrap, club music, and broadly weird internet stuff are just a few of what sounds float beneath **jorj1357**'s skull.
+While every genre is influential to **jorj1357** in some capacity, certain aural avenues like breakcore, drum & bass, rock, dariacore, hyperpop, hoodtrap, club music, and broadly weird internet stuff have rooted themselves especially deep in **jorj1357**'s skull.
 
 We can go on about this all day, but there are **11** tracks on [**jorj1357**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/556) that you could spend your time mapping instead. And we both know mapping is a lot more fun than reading.
 
@@ -47,8 +47,8 @@ When [COE 2026](/wiki/Community/cavoe's_osu!_event/2026) ends, the onslaught of 
 
 ---
 
-Well, well, well. You're a mapper, but you're not currently mapping. That doesn't make much sense. Pre-timed beatmap templates for even more songs on [**jorj1357**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/556) can help you with that.
+Well, well, well. You're a mapper, but you're not currently mapping. That doesn't make much sense. Pre-timed beatmap templates for every song on [**jorj1357**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/556) can help you with that.
 
-If you attended the last day of cavoe's osu! event, you might already know what's coming next week. Stay tuned.
+If you've been following our Featured Artists for at least a week, you probably know what's coming next weekend. Stay tuned.
 
 —pishifat
