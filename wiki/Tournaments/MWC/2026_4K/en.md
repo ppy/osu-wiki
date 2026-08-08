@@ -115,7 +115,7 @@ The osu!mania 4K World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team
 | ::{ flag=VE }:: | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)**, [xShyzDy](https://osu.ppy.sh/users/13545528), [yeIo](https://osu.ppy.sh/users/10336332), [insidus](https://osu.ppy.sh/users/30603618), [Delphin1](https://osu.ppy.sh/users/25913437), [longojuja](https://osu.ppy.sh/users/36981107) |
 | ::{ flag=VN }:: | **Vietnam** | **[Vixile](https://osu.ppy.sh/users/26233321)**, [debuti](https://osu.ppy.sh/users/31138498), [Hawkfrost](https://osu.ppy.sh/users/15555328), [MadSoiled](https://osu.ppy.sh/users/22468508), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [unluminated520](https://osu.ppy.sh/users/30243406) |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **8 August, 23:59 UTC**. This list was last updated on **8 August 2026 00:00 UTC**.
+Captains are listed in **bold**. Individual team compositions subject to change until **8 August, 23:59 UTC**. This list was last updated on **8 August 2026, 00:00 UTC**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45337b779dd7a2db8e4d047bed7f5fd).
 
