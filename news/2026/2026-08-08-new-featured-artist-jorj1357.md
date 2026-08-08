@@ -19,7 +19,7 @@ The abyss awaits:
 
 ### jorj1357 - i love you so much
 
-When [COE 2026](/wiki/Community/cavoe's_osu!_event/2026) ends, the onslaught of LAN-based Featured Artist clips begins. [Walavouchey](https://osu.ppy.sh/users/5773079) captured this scene of [DFB-Shon](https://osu.ppy.sh/users/2275437) playing [i love you so much](https://osu.ppy.sh/beatmapsets/2523985) hosted by [wordle](https://osu.ppy.sh/users/11389321) showcases the general atmosphere of the event, which you might never get to experience through highlight reels!
+When [COE 2026](/wiki/Community/cavoe's_osu!_event/2026) ends, the onslaught of LAN-based Featured Artist clips begins. [Walavouchey](https://osu.ppy.sh/users/5773079) captured this scene of [DFB-Shon](https://osu.ppy.sh/users/2275437) playing [i love you so much](https://osu.ppy.sh/beatmapsets/2523985) hosted by [wordle](https://osu.ppy.sh/users/11389321) showcasing the general atmosphere of the event, which you might never get to experience through highlight reels!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
