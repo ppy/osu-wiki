@@ -199,7 +199,7 @@ In stable musste man bei Slidern bisher nur die Genauigkeit einer MEH-Beurteilun
 | Absichtliche Änderung | ![Ja][true] |
 | Weitere Prüfung notwendig | ![Nein][false] |
 
-#### Mehr Kulanz bei Slidereheads
+#### Mehr Kulanz bei Sliderheads
 
 Wenn man einen Slider zu früh trifft, startet der Follow-Circle jetzt sofort im Führungsmodus, auch wenn der Cursor den Sliderball verlässt, bevor der Slider startet.
 
