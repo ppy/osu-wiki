@@ -15,7 +15,7 @@ outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
 
 ::: alert-note
 **Основная статья:** [Администраторы osu! wiki](/wiki/People/osu!_wiki_maintainers)
-:::[Администраторы osu! wiki](/wiki/People/osu!_wiki_maintainers)
+:::
 
 Администраторы — лица, у которых есть [совместный доступ](https://docs.github.com/ru/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) к [репозиторию `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), где хранятся все статьи и новости. Они разбирают связанные с проектом задачи и проблемы, проверяют пулл-реквесты и принимают решения, определяющие развитие osu! wiki.
 
