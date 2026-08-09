@@ -13,7 +13,7 @@ tags:
 # Multiplayer
 
 ::: alert-note
-**Note:** For the multiplayer screenshots of the game client, see [Multiplayer](/wiki/Client/Interface/Multiplayer)
+**Note:** For explanations regarding interface components, see [Multiplayer](/wiki/Client/Interface/Multiplayer)
 :::
 
 **Multiplayer** (sometimes shortened to *multi*) is an osu! mode in which up to 16 players can compete against each other individually or in teams, or play together co-operatively, on maps decided by the host.
@@ -25,7 +25,7 @@ Multiplayer is not available for [silenced](/wiki/Silence) players.
 
 ## Matches
 
-**Matches** are rooms that could be created by anyone. They are listed in [multiplayer lobby](/wiki/Client/Interface/Multiplayer#main-lobby), have 2 to 16 slots and can be joined at any time as long as there is a free slot left.
+**Matches** are rooms that can be created by anyone. They are listed in the [multiplayer lobby](/wiki/Client/Interface/Multiplayer#main-lobby), have 2 to 16 slots and can be joined at any time as long as there is a free slot left.
 
 The number of players is adjusted by the match's current owner, or [host](#host), who can lock and unlock remaining free slots. A match can also be given a password, in which case only the players who know it can get in. Tournament matches are made and run with [`!mp` commands](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands) rather than through the game client, and have pink backgrounds in the lobby.
 
@@ -72,7 +72,7 @@ Failed players do not contribute towards the team unless they have been revived 
 Two mods have behaviour that differs from the solo mode:
 
 - If a player fails with [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death), this forces the whole match to end, even in `Tag-team VS`.
-- Likewise, if a player fails with [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy), the the health bar is refilled according to the extra lives mechanic, but the team is still judged as failed, and the match also ends immediately.
+- Likewise, if a player fails with [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy), the health bar is refilled according to the extra lives mechanic, but the team is still judged as failed, and the match also ends immediately.
 
 If a player quits while the beatmap is being played, the game will perfectly play their part for them but not contribute anything to the team. If all players of a team quit, the opposing team wins by default.
 

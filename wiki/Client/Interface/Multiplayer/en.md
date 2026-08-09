@@ -8,7 +8,7 @@
 **See also:** [Quick play](/wiki/Gameplay/Quick_play) and [Daily challenge](/wiki/Gameplay/Daily_challenge)
 :::
 
-This article covers the parts of the game client used for [multiplayer](/wiki/Gameplay/Multiplayer): the lobby, match setup, and the gameplay methanics.
+This article covers the parts of the osu!(stable) game client used for [multiplayer](/wiki/Gameplay/Multiplayer): the lobby, match setup, and the gameplay mechanics.
 
 The [osu!academy](/wiki/Community/Video_series/osu!academy) covers this part of the client in video format in [Episode 6](https://www.youtube.com/watch?v=QPTLyG7O8ak), along with the [online users panel](/wiki/Client/Interface/Chat_console#extended-chat-console).
 
@@ -208,7 +208,7 @@ The bottom section of the screen is the [chat console](/wiki/Client/Interface/Ch
 
 The gameplay screen itself is the same as in solo play, with the multiplayer leaderboard and a few team mode specific parts on top of it.
 
-While the match is starting, moving the cursor to the bottom of the screen will open the visual settings panel. See the [Visual settings](/wiki/Client/Interface/Visual_settings) page for more information.
+While the match is starting, moving the cursor to the bottom of the screen will open the [visual settings](/wiki/Client/Interface/Visual_settings) panel, allowing for visual customisations.
 
 ### Multiplayer leaderboard
 
