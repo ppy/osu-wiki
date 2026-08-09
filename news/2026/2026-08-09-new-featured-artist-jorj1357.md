@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: jorj1357"
-date: 2026-08-08 16:00:00 +0000
+date: 2026-08-09 9:00:00 +0000
 series: featured_artists
 ---
 
