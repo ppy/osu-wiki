@@ -10,7 +10,7 @@ Die folgenden Dinge gelten als Verstoß und führen in der Regel dazu, dass ein 
 
 ## Was wird als Schummeln betrachtet? {id=what-foul}
 
-Die [Regeln](/wiki/Rules) besagen, dass jede Form von Manipulation des Clients, wie beispielsweise Score-Hacking, Full-Combo-Sequenzen durch Makroaktivierungen, Auto-Aim und alles andere, was das Spiel für den Spieler spielt, Schummeln ist.
+Die [Regeln](/wiki/Rules) besagen, dass jede Form von Manipulation des Clients, wie beispielsweise Score-Hacking, Full-Combo-Sequenzen durch Makroaktivierungen, Unterstützung beim Zielen und alles andere, was das Spiel für den Spieler spielt, Schummeln ist.
 
 Das ist eine Null-Toleranz-Regel. Schummler werden bei ihrem ersten Verstoß für unbestimmte Zeit eingeschränkt. Das [Support-Team](/wiki/People/Account_support_team) kann diese Einschränkung aufheben, wenn der Benutzer nach mindestens sechs Monaten ein gültiges Gesuch einreicht.
 
@@ -50,7 +50,7 @@ Du solltest den Benutzer melden und ihn nirgendwo erwähnen. Es gibt drei Wege, 
 
 **Das ist der empfohlene Weg, um Verstöße zu melden, da hier die Mitglieder des Support-Teams die meisten Informationen erhalten.**
 
-Auf der Profil des Nutzers wird ein Button `Melden` erscheinen, wenn du auf die drei Punkte neben dem Button `Nachricht senden` klickst. Füge alle Informationen hinzu, die das Fehlverhalten des Nutzers beweisen.
+Auf dem Profil des Nutzers wird ein Button `Melden` erscheinen, wenn du auf die drei Punkte neben dem Button `Nachricht senden` klickst. Füge alle Informationen hinzu, die das Fehlverhalten des Nutzers beweisen.
 
 *Achte auf den ausgewählten Spielmodus vor dem Melden.*
 
