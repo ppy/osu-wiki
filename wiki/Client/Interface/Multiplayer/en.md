@@ -1,24 +1,16 @@
 # Multiplayer
 
 ::: alert-note
+**Note:** For how multiplayer works, see [Multiplayer](/wiki/Gameplay/Multiplayer)
+:::
+
+::: alert-note
 **See also:** [Quick play](/wiki/Gameplay/Quick_play) and [Daily challenge](/wiki/Gameplay/Daily_challenge)
 :::
 
-**Multiplayer** (sometimes shortened to *multi*) is an osu! mode in which up to 16 players can compete against each other individually or in teams, or play together co-operatively, on maps decided by the host.
+This article covers the parts of the game client used for [multiplayer](/wiki/Gameplay/Multiplayer): the lobby, match setup, and the gameplay methanics.
 
 The [osu!academy](/wiki/Community/Video_series/osu!academy) covers this part of the client in video format in [Episode 6](https://www.youtube.com/watch?v=QPTLyG7O8ak), along with the [online users panel](/wiki/Client/Interface/Chat_console#extended-chat-console).
-
-## How to play
-
-::: alert-notice
-**Notice**
-Multiplayer requires an [osu! account](/wiki/Registration) and is not available for [silenced](/wiki/Silence) players.
-:::
-
-From the main menu, the main multiplayer lobby can be accessed with the following steps:
-
-1. Click the `Play` button or press `P`.
-2. Click the `Multi` button or press `M`.
 
 ## Main lobby
 
@@ -29,7 +21,7 @@ An active [osu!supporter](/wiki/osu!supporter) tag is required to enter the lobb
 
 ![](img/multi-lobby.jpg "Example of a typical day in the main multiplayer lobby")
 
-On entering, the player is presented with all currently available matches.
+The lobby is opened from the main menu by clicking the `Play` button (or pressing `P`), and then the `Multi` button (or pressing `M`). On entering, the player is presented with all currently available matches.
 
 ### Filter options
 
@@ -49,7 +41,7 @@ The listed match lobbies can be filtered using the options at the top left.
 
 Covering the middle of the screen is a list of available matches.
 
-Most matches have white backgrounds, indicating that they were [created normally through the game UI](#creating-a-new-game). Matches with purple backgrounds are *tournament matches*, created and managed using [lobby management chat commands](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands) such as `!mp make` or `!mp makeprivate`.
+Most matches have white backgrounds, indicating that they were [created normally through the game UI](#creating-a-new-game). Matches with purple backgrounds are [tournament matches](/wiki/Gameplay/Multiplayer#matches), created and managed using [lobby management chat commands](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands) such as `!mp make` or `!mp makeprivate`.
 
 A variety of information is displayed about each lobby. For example, the player slots to the right can have three different colours:
 
@@ -82,7 +74,7 @@ The three buttons above the [chat console](/wiki/Client/Interface/Chat_console) 
 | `Game Name` | The name of the match. The default value is `{account name}'s game`. |
 | `Require password to join` | Make the match private. |
 | `Password` | Set a password for the match. Only appears if the `Require password to join` button is enabled. |
-| `Make match history publicly viewable` | Allow players other than match participants to view the match history via direct link. Only appears if the `Require password to join` button is enabled. |
+| `Make match history publicly viewable` | Allow players other than match participants to view the [match history](/wiki/Gameplay/Multiplayer#match-history) via direct link. Only appears if the `Require password to join` button is enabled. |
 | `Max Players` | The total number of players (including the host) allowed to join the match. A range from 2 to 16 can be selected, with a default of 8. This can be adjusted later by locking/unlocking player slots. |
 
 Pressing the `1. Start Game` button will create the match with the currently playing song as the beatmap. The `2. Cancel` button brings the player back to the lobby.
@@ -111,7 +103,7 @@ The top-left text indicates whether the player is the match host or a normal pla
 
 The player list shows all slots for a match. The numbers in parentheses to the right of `Current Players` show how many players are in the match out of the total number of unlocked slots.
 
-Clicking on an available slot moves the player to it, while slots indicated with a closed lock are not accessible. The host is able to lock and unlock slots through the icons on the left, as well as kick players. Host privileges can be transferred to another player by right-clicking and pressing `Transfer host privileges`. The team colour can be changed between blue and red when playing Team VS.
+Clicking on an available slot moves the player to it, while slots indicated with a closed lock are not accessible. The [host](/wiki/Gameplay/Multiplayer#host) is able to lock and unlock slots through the icons on the left, as well as kick players. Host privileges can be transferred to another player by right-clicking and pressing `Transfer host privileges`. The team colour can be changed between blue and red when playing Team VS.
 
 Hovering above any player on the list will show the level, country and [overall accuracy](/wiki/Gameplay/Accuracy) of the player in question.
 
@@ -127,6 +119,8 @@ Players in this list are highlighted with one of four colours, depending on thei
 ### Match settings
 
 ![](img/multi-match-settings.jpg "The match settings, where the host can change the lobby name, beatmap, team mode, etc")
+
+These settings can only be changed by the host, but are visible to everyone.
 
 #### Game name and password
 
@@ -177,24 +171,11 @@ If the player does not have the beatmap, one of these statuses will be shown:
 ![](img/multi-player-free-mods.jpg "The multiplayer mod selection screen, where the host has enabled Free Mods")
 :::
 
-This section will show the [game mods](/wiki/Gameplay/Game_modifier) used for this match.
+This section shows the [mods](/wiki/Gameplay/Multiplayer#mods) used for this match. The host picks them on the mod selection screen, which also holds the `Free Mods` button that lets everyone else choose mods on their own.
 
-The host can enable `Free Mods` to allow players to freely choose any mod combination, except ones that change gameplay speed ([Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore) and [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time)).
+#### Team mode and win condition
 
-#### Team mode {id=team-mode-match-setup}
-
-::: alert-note
-**Note:** For how team modes affect gameplay, see [Team mode](#team-mode-gameplay)
-:::
-
-There are four different ways a match can be played:
-
-| Team mode | Description |
-| :-- | :-- |
-| `Head-to-head` | Compete against each other to reach the top spot of the match leaderboard. |
-| `Team VS` | Compete against each other in teams (Red and Blue) for match supremacy. |
-| `Tag co-op` (osu! mode only, unranked) | Team up to complete the beatmap, one combo at a time together. |
-| `Tag-team VS` (osu! mode only, unranked) | The same as `Tag co-op`, but with two teams competing against each other. |
+The two selectors at the bottom set the [team mode](/wiki/Gameplay/Multiplayer#team-modes) of the match and the [win condition](/wiki/Gameplay/Multiplayer#win-conditions) by which its winner is decided.
 
 ##### Tag Colour
 
@@ -204,22 +185,11 @@ There are four different ways a match can be played:
 
 If the team mode was set to `Tag co-op` or `Tag-team VS`, a `Tag Colour: (combo colour)` section will be shown which allows choosing a custom colour for each player. Setting this to `Default` will use the beatmap's original combo colours.
 
-#### Win condition
-
-There are four different ways the winner of a match can be decided:
-
-| Title | Description |
-| :-: | :-- |
-| `Score` | The player with the highest score wins. |
-| `Accuracy` | The player with the highest accuracy wins. If there are two players with 100.00%, the player with the highest score (from spinners) wins. Otherwise, it is a tie. |
-| `Combo` | The player with the highest combo count *at the end of the beatmap* wins. If the combo count is the same, the player with the highest score wins. The maximum combo is not counted in this case. |
-| `Score v2` | The player with the highest [standardised](/wiki/Gameplay/Score#scorev2) score wins. |
-
 ### Match setup buttons
 
 There are two large wide orange and blue buttons above the [chat console](/wiki/Client/Interface/Chat_console).
 
-The orange `Leave Match` button on the left is self-explanatory. If the match host leaves, host privileges are automatically transferred to the next player in slot order. If there is no one left in the match, it will automatically close, except for ones made by [`!mp` commands](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands), which will instead close after 30 minutes.
+The orange `Leave Match` button on the left is self-explanatory. See [Host](/wiki/Gameplay/Multiplayer#host) for what happens to the match afterwards.
 
 The blue button is used to control the player ready state and to start the match.
 
@@ -230,43 +200,17 @@ The blue button is used to control the player ready state and to start the match
 | `Start Game!` | Starts the match. This button only appears for the match host when all players are ready. |
 | `Force Start Game! ({ready}/{total})` | Starts the match even if not all players are ready. This button only appears for the match host when some players are ready. The amount of ready players compared to the total amount of players is shown in parentheses. |
 
-### Match history
+### Chat console
 
-::: Infobox
-![](img/multi-mh.jpg "A match history page on the website")
-:::
-
-The bottom section of the screen is the [chat console](/wiki/Client/Interface/Chat_console). Every match has its own channel in a tab called `#multiplayer`, with [BanchoBot](/wiki/BanchoBot) providing a link to the match history on the first line.
-
-For Head-to-head matches, the result will be displayed privately in another tab called `#userlog` upon conclusion, where BanchoBot says `You placed #{placement} of {total} players in multiplayer on {beatmap} [difficulty] <game mode>.`
+The bottom section of the screen is the [chat console](/wiki/Client/Interface/Chat_console). Every match has its own channel in a tab called `#multiplayer`, with [BanchoBot](/wiki/BanchoBot) providing a link to the [match history](/wiki/Gameplay/Multiplayer#match-history) on the first line.
 
 ## While playing
 
-### General
-
-#### Quitting the match
-
-There is no way to pause a multiplayer match. Pressing `Esc` will give a warning in the lower-right corner, and pressing it again will quit the match.
-
-#### Visual settings
+The gameplay screen itself is the same as in solo play, with the multiplayer leaderboard and a few team mode specific parts on top of it.
 
 While the match is starting, moving the cursor to the bottom of the screen will open the visual settings panel. See the [Visual settings](/wiki/Client/Interface/Visual_settings) page for more information.
 
-#### Health
-
-When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards (unless they use [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail)). The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death).
-
-In Team VS matches, being in the failed state at the end of the match will make the score not contribute to the team score. If all players of a team have failed, the match immediately ends and the opposite team wins by default.
-
-#### Results
-
-Unlike solo play, multiplayer has no [extended results screen](/wiki/Client/Interface#extended-results-screen) below the results screen. Scores set during multiplayer matches (with the exception of `Tag co-op` and `Tag-team VS` matches) still appear on online and local leaderboards.
-
-#### Saving the replay
-
-The replay of the score can be exported by pressing `F2`, except in `Tag co-op` and `Tag-team VS`.
-
-#### Multiplayer leaderboard
+### Multiplayer leaderboard
 
 The leaderboard to the side of the screen shows different live statistics for each player based on the match settings.
 
@@ -286,10 +230,6 @@ For `Tag co-op` and `Tag-team VS`:
 | `Accuracy` | Team average accuracy, individual score, judgements |
 | `Combo` | Current combo count, individual score, judgements |
 
-If a player fails during a Tag co-op match, the match ends and the players return to the match lobby. In Tag-team VS, the opposing team receives a win by default instead. Failed players do not contribute towards the team unless they have been revived by the end of the match.
-
-If a player quits while being in a match, the game will perfectly play their part for them, but not contribute anything to the team. If all players of a team quit, the opposing team will win by default.
-
 Players who have failed or quit will be placed at the bottom of the leaderboard with their scores sorted separately from other players.
 
 The colour of each player on the leaderboard while playing indicates the status of the player during the match.
@@ -298,67 +238,26 @@ The colour of each player on the leaderboard while playing indicates the status 
 | :-: | :-: | :-- |
 | ![](img/Playerbox/Multi_PB_B.jpg "Normal") | Normal | The player has more than half of their health. The colour will become a brighter blue or bleed to red depending on the player's health. |
 | ![](img/Playerbox/Multi_PB_R.jpg "Danger") | Danger | The player has less than half of their health. The colour will become a brighter red or change to blue depending on the player's health. |
-| ![](img/Playerbox/Multi_PB_F.jpg "Failed") | Failed | The player has reached 0 HP and is in the [failed state](#health). |
+| ![](img/Playerbox/Multi_PB_F.jpg "Failed") | Failed | The player has reached 0 HP and is in the [failed state](/wiki/Gameplay/Multiplayer#health-and-failing). |
 | ![](img/Playerbox/Multi_PB_TAG.jpg "Tag") | Tag | In `Tag co-op` and `Tag-team VS`, the player box will always be green. A green arrow points at the current player with a subtle white glow. |
 | ![](img/Playerbox/Multi_PB_SKIP.jpg "Skipped") | Skipped | A request from the player to skip the intro of a beatmap if there is one. The intro will be skipped once all players have requested to skip. |
 | ![](img/Playerbox/Multi_PB_QUIT.jpg "Quit") | Quit | The player has quit the match, either by pressing `Esc` twice or by disconnecting from [Bancho](/wiki/Bancho_(server)). The text colour will be changed from white to red, with `[Quit]` appended at the end. The box colour signifies the status before quitting the game. |
 
-### Team mode {id=team-mode-gameplay}
+### Team mode interfaces
 
-#### Head-to-head
-
-##### Interface
+The rest of the screen depends on the [team mode](/wiki/Gameplay/Multiplayer#team-modes) the match is played in.
 
 ::: Infobox
 ![](img/multi-hth-interface.jpg "Head-to-head interface")
 :::
 
-Head-to-head is a team mode where players duke it out in a free-for-all match for the top spot on the leaderboard. This is the default team mode, and it has no special gameplay characteristics beyond that.
-
-##### Results
-
-::: Infobox
-![](img/multi-hth-results.jpg "Head-to-head results screen")
-:::
-
-At the end of the match, the winner's avatar is shown in a large box, along with the match leaderboard to the right.
-
-The [grade](/wiki/Gameplay/Grade) for the play is placed behind the result like a watermark. Other players' results can be checked by clicking on their panel on the leaderboard.
-
-#### Team VS
-
-##### Interface
+In `Head-to-head`, nothing is added to the screen apart from the leaderboard.
 
 ::: Infobox
 ![](img/multi-teamvs-interface.jpg "Team VS interface")
 :::
 
-Team VS pits two teams, Blue and Red, against each other.
-
-Blue is on the left and Red is on the right. A crown at the centre moves left and right to show which team is currently in the lead.
-
-Changing teams can be done while in the lobby. There is no handicap for teams with fewer members, and it is entirely possible to start a match with only one team.
-
-##### Results {id=team-vs-results-screen}
-
-::: Infobox
-![](img/multi-teamvs-results.jpg "Team VS results screen")
-:::
-
-The winning team is announced at the top of the results screen.
-
-Only players who are alive by the end of the match count towards their teams' totals.<!-- TODO: clarify which statistics this is about -->
-
-The panels to the sides show results for each player in different tabs. The `Total` tab shows the total count of [judgements](/wiki/Gameplay/Judgement) for both teams and their average accuracy.
-
-#### Tag co-op / Tag-team VS
-
-##### Interface
-
-::: alert-notice
-**Notice**
-This team mode is unranked and only available in osu! mode.
-:::
+In `Team VS`, Blue is on the left and Red is on the right. A crown at the centre moves left and right to show which team is currently in the lead.
 
 ::: Infobox
 ![](img/multi-coop-interface.jpg "Tag co-op interface")
@@ -368,21 +267,23 @@ This team mode is unranked and only available in osu! mode.
 ![](img/multi-tagteam-interface.jpg "Tag-team VS interface")
 :::
 
-Tag co-op makes all players in the match work together to pass the beatmap, one combo at a time. `Tag-team VS` is just `Tag co-op` but with two teams playing against each other.
+In `Tag co-op` and `Tag-team VS`, a green arrow shows the player who is currently playing, and their name is shown at the lower right. Warning arrows indicate when it is about to be the player's turn, and the hit objects are coloured with the [Tag Colour](#tag-colour) of the player they belong to.
 
-In this mode, the players' slot placement in the lobby determines the order they play in.
+## Results screens
 
-A green arrow will show the player who is currently playing, and their name will be shown at the lower right. Warning arrows indicate when it is about to be the player's turn and the hit objects will be coloured. The player can set a fixed combo colour in the [Tag Colour](#tag-colour) section during match setup.
+Unlike solo play, multiplayer has no [extended results screen](/wiki/Client/Interface#extended-results-screen) below the results screen. The replay of the score can be exported by pressing `F2`, except in `Tag co-op` and `Tag-team VS`.
 
-All players must complete spinners, or the combo will break.
+::: Infobox
+![](img/multi-hth-results.jpg "Head-to-head results screen")
+:::
 
-If a player quits during the match, the game will play their part for them.
+At the end of a `Head-to-head` match, the winner's avatar is shown in a large box, along with the match leaderboard to the right. The [grade](/wiki/Gameplay/Grade) for the play is placed behind the result like a watermark. Other players' results can be checked by clicking on their panel on the leaderboard.
 
-All players share the same health bar. If it depletes completely, the match ends. In Tag-team VS, each team has their own health bars, and losing all health will cause that team to lose.
+::: Infobox
+![](img/multi-teamvs-results.jpg "Team VS results screen")
+:::
 
-Players using [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) will cause the whole match to end if they fail due to it, even in Tag-team VS. The two extra lives granted by [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy) do not help either: the [health bar](/wiki/Client/Interface/Health_bar) is refilled, but the team is still judged as *failed*, and the match ends immediately.
-
-##### Results
+In `Team VS`, the winning team is announced at the top of the results screen. The panels to the sides show results for each player in different tabs, and the `Total` tab shows the total count of [judgements](/wiki/Gameplay/Judgement) for both teams and their average accuracy.
 
 ::: Infobox
 ![](img/multi-coop-results.jpg "Tag co-op results screen")
@@ -392,21 +293,4 @@ Players using [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) wil
 ![](img/multi-tagteam-results.jpg "Tag-team VS results screen")
 :::
 
-No ranked score or performance points are awarded for `Tag co-op` or `Tag-team VS` matches.
-
-For `Tag co-op`, the results screen shows the total score, the [judgements](/wiki/Gameplay/Judgement) and the accuracy of the team. Individual results are not shown, and can only be seen in the match history. The results screen only appears if the beatmap was cleared successfully, unlike other multiplayer modes.
-
-The `Tag-team VS` results screen is identical to the [`Team VS`'s results screen](#team-vs-results-screen), except that individual results can be seen under different tabs for each team.
-
-## Trivia
-
-### History
-
-::: Infobox
-![](img/legacy-multi-lobby.jpg "Screenshot of the main lobby when osu!mania was first released (October 8, 2012), but not yet playable in multiplayer")
-:::
-
-- The initial multiplayer version was implemented on June 3, 2008 in osu! Public Release b335.
-- Match setup used to allow only up to a total of 8 players.
-- osu!mania was shown as a "3" in the lobby for players that had not yet updated their client to the latest release patch (which enabled osu!mania with no ranking support).
-- No Video used to be the *only* game modifier allowed for players to use, but it was removed in favour of its placement in the [visual settings](/wiki/Client/Interface/Visual_settings).
+The `Tag co-op` results screen shows the total score, the [judgements](/wiki/Gameplay/Judgement) and the accuracy of the team. Individual results are not shown, and can only be seen in the [match history](/wiki/Gameplay/Multiplayer#match-history). Unlike the other team modes, this screen only appears if the beatmap was cleared successfully. The `Tag-team VS` results screen is identical to the `Team VS` one, except that individual results can be seen under different tabs for each team.
