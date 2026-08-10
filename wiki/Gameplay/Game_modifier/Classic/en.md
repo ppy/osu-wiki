@@ -56,7 +56,7 @@ This mod can only be customised in the osu! game mode.
 
 ### ![][osu!] osu!
 
-In osu!, Classic has a score multiplier of `0.985x`. If `Apply classic note lock` is disabled (see [Customisation](#customisation)), this multiplier is reduced to `0.96x`.
+In osu!, Classic has a score multiplier of `0.985x`. If `Apply classic note lock` is disabled, this multiplier is reduced to `0.96x`.
 
 In particular, this means that scores set in osu!(stable) get a score multiplier of `0.985x`.
 

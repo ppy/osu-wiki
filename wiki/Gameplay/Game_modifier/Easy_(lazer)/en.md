@@ -25,7 +25,7 @@ tags:
 | Type | Difficulty Reduction |
 | Default shortcut key | `Q` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | `0.50x` |
+| Score multiplier | See [Scoring](#scoring) |
 | Status | Ranked |
 | Incompatible mods ![][osu!] ![][osu!catch] ![][osu!mania] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
 | Incompatible mods ![][osu!taiko] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
@@ -69,6 +69,18 @@ This mod can be customised in all game modes except osu!taiko.
 - `Extra Lives` (0–10, default: 2): The number of extra lives when starting a beatmap.
 
 Changing the number of extra lives will cause your scores to be **unranked**.
+
+## Scoring
+
+### ![][osu!] osu!
+
+In osu!, Easy has a score multiplier of `0.80x` by default. For each extra live above the default value, this multiplier is reduced by `0.10x` to a minimum of `0.40x` (reached at 6 extra lives). Using less than 2 extra lives does not affect the multiplier.
+
+Thus, the score multiplier is given by `max(0.4, 0.8 - max(0, 0.1 * (extra_lives - 2)))`.
+
+### ![][osu!taiko] ![][osu!catch] ![][osu!mania] Other game modes
+
+In osu!taiko, osu!catch and osu!mania, Easy has a score multiplier of `0.50x`.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
