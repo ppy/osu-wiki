@@ -46,7 +46,7 @@ The osu!mania 4K World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team
 | Mappool selector | ::{ flag=US }:: [foxgirls](https://osu.ppy.sh/users/9206093), ::{ flag=TH }:: [MyZterioN\-](https://osu.ppy.sh/users/8521723), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=IT }:: [rikan](https://osu.ppy.sh/users/25263357) |
 | Consultant | ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=US }:: [Valedict](https://osu.ppy.sh/users/2537082) |
 | Mappool playtester | **::{ flag=KR }:: [Sunyata](https://osu.ppy.sh/users/6699923)**, **::{ flag=KR }:: [Transcendence](https://osu.ppy.sh/users/903155)**, ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=ID }:: [\-Yubi\-](https://osu.ppy.sh/users/17851478), ::{ flag=MY }:: [\[\-Leon\-\]](https://osu.ppy.sh/users/13382147), ::{ flag=CN }:: [\[Crz\]ChenXi](https://osu.ppy.sh/users/23890527), ::{ flag=CN }:: [\[Crz\]raber](https://osu.ppy.sh/users/6753592), ::{ flag=US }:: [\[LS\]Mari](https://osu.ppy.sh/users/15270411), ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313), ::{ flag=TH }:: [MyZterioN\-](https://osu.ppy.sh/users/8521723), ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511), ::{ flag=IT }:: [rikan](https://osu.ppy.sh/users/25263357), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=US }:: [Tonels](https://osu.ppy.sh/users/15179858) |
-| Mapper | *TBA* |
+| Mapper | ::{ flag=US }:: [foxgirls](https://osu.ppy.sh/users/9206093), ::{ flag=CA }:: [Fullerene\-](https://osu.ppy.sh/users/2531335), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=US }:: [hi19hi19](https://osu.ppy.sh/users/1014473), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=US }:: [Valedict](https://osu.ppy.sh/users/2537082), *more TBA* |
 | Commentator | *TBA* |
 | Referee | **::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
@@ -54,10 +54,11 @@ The osu!mania 4K World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team
 
 ## Links
 
-- [Tournament listing](https://osu.ppy.sh/community/tournaments/57)
+- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1en_HmibceLCGtvuGhMfaAnBFvqmgKRHSevMrg3MZKUY?rm=minimal)**
+- [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2225524)
 - [Challonge bracket](https://challonge.com/MWC4K2026)
-- [Livestream](https://www.twitch.tv/osulive)
+- [Tournament listing](https://osu.ppy.sh/community/tournaments/57)
 
 ## Participants
 
@@ -118,6 +119,21 @@ The osu!mania 4K World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team
 Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45337b779dd7a2db8e4d047bed7f5fd).
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (38 MB)](https://packs.ppy.sh/P332%20-%20osu%21mania%204K%20World%20Cup%202026%3A%20Qualifiers.zip)**\
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2841774861)
+
+1. [katter - DOPA BRAT (hi19hi19) \[Stage 1: Absorption\]](https://osu.ppy.sh/beatmapsets/2600425#mania/5813203)
+2. [Juka\_Box feat. Souka - Macchi to Donchou (foxgirls) \[Stage 2: Germination\]](https://osu.ppy.sh/beatmapsets/2600554#mania/5813518)
+3. [Nanahoshi Kangengakudan feat. GUMI - FREEDMAN (Cut Ver.) (Hylotl) \[Stage 3: Liberation\]](https://osu.ppy.sh/beatmapsets/2600439#mania/5813230)
+4. [seatrus - Kokan Sensou (Toaph Daddy) \[Stage 4: Pollination\]](https://osu.ppy.sh/beatmapsets/2600438#mania/5813229)
+5. [seatrus - TEMP3ST (gzdongsheng) \[Stage 5: Dispersion\]](https://osu.ppy.sh/beatmapsets/2600584#mania/5813614)
+6. [SAVE THE QUEEN - EX-Termination (Fullerene-) \[Stage 6: Eradication\]](https://osu.ppy.sh/beatmapsets/2600440#mania/5813231)
+7. [Machine Girl - Psychic Attack (Cut Ver.) (Valedict) \[Stage 7: Infection\]](https://osu.ppy.sh/beatmapsets/2600457#mania/5813270)
 
 ## Ruleset
 
