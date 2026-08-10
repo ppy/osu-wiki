@@ -873,9 +873,9 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [GB Cup 2024 Autumn (Discord div.)](GBC/GBC_2024_Autumn) | 26/10/2024 | 5/1/2025 | D16: okay² | D12: Photon Worshippers | D13: bol |
 | [GB Cup 2025 Spring (QQ div.)](GBC/GBC_2025_Spring) | 22/3/2025 | 8/6/2025 | ::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902) | ::{ flag=CN }:: [FoaMelt1](https://osu.ppy.sh/users/36570108) | ::{ flag=CN }:: [WOEM2436](https://osu.ppy.sh/users/36120676) |
 | [GB Cup 2025 Spring (Discord div.)](GBC/GBC_2025_Spring) | 22/3/2025 | 14/6/2025 | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) | ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) | ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730) |
-| [GB Cup 2025 Autumn (QQ div.)](GBC/GBC_2025_Autumn) | 04/11/2025 | 10/01/2026 | Q20: 不整活 | Q4: 玩不玩 | Q23: 队员已红温之anpig1013, Q22: My Angel Noodle |
-| [GB Cup 2025 Autumn (Discord div.)](GBC/GBC_2025_Autumn) | 04/11/2025 | 10/01/2026 | D8: super magical chest | D6: Siemieniakowszczyzna | D20, D13 |
-| [GB Cup 2026 IRL](GBC/GBC_2026_IRL) | 07/07/2026 | 26/07/2026 | ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) | ::{ flag=CN }:: [shadiaojunshi](https://osu.ppy.sh/users/29165753) | ::{ flag=CN }:: [Vain_](https://osu.ppy.sh/users/38363768), ::{ flag=CN }:: [HowToPlaySV](https://osu.ppy.sh/users/32494511) |
+| [GB Cup 2025 Autumn (QQ div.)](GBC/GBC_2025_Autumn) | 4/11/2025 | 10/1/2026 | Q20: 不整活 | Q4: 玩不玩 | Q23: 队员已红温之anpig1013, Q22: My Angel Noodle |
+| [GB Cup 2025 Autumn (Discord div.)](GBC/GBC_2025_Autumn) | 4/11/2025 | 10/1/2026 | D8: super magical chest | D6: Siemieniakowszczyzna | D20, D13 |
+| [GB Cup 2026 IRL](GBC/GBC_2026_IRL) | 7/7/2026 | 26/7/2026 | ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) | ::{ flag=CN }:: [shadiaojunshi](https://osu.ppy.sh/users/29165753) | ::{ flag=CN }:: [Vain_](https://osu.ppy.sh/users/38363768), ::{ flag=CN }:: [HowToPlaySV](https://osu.ppy.sh/users/32494511) |
 
 #### [Jaye's One Key Event](JOKE)
 
