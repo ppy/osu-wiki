@@ -51,7 +51,7 @@ A variety of information is displayed about each lobby. For example, the player 
 | Green | The slot is available. |
 | No colour | The slot is locked. |
 
-To enter a match, click on any one of them.
+To enter a match, click on any one of them. Attempting to join an already full match will trigger an error.
 
 ### General options
 
