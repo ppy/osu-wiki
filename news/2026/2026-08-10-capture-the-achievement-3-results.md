@@ -192,6 +192,7 @@ Having both pieces come together so elegantly was purely just a stroke of luck a
 | Mode | Standard |
 | Creator | ::{ flag=US }:: [bento](https://osu.ppy.sh/users/13175102) |
 | Completions | 34 |
+| Solution | [Click here](https://cta.sheppsu.me/achievements/440) |
 | First completion | ::{ flag=US }:: [lilybannanas9](https://osu.ppy.sh/users/26352046) after 3 minutes |
 
 This achievement is on the easier side, but includes a funny video that brings together a clean solution. For those that remember, this achievement is reminiscent of [INSERT COIN](https://cta.sheppsu.me/achievements/215) from CTA2.
