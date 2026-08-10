@@ -44,13 +44,13 @@ tags:
 
 ![游戏客户端内的 Target Practice 自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/TP.png)
 
-- `种子` (0–2147483647 或留空，默认为空): 要使用的随机数种子。留空时随机生成种子。
-- `节拍器音效` (默认启用): 是否应播放节拍器的背景音效。
+- `种子 (Seed)` (0–2147483647 或留空，默认为空): 要使用的随机数种子。留空时随机生成种子。
+- `节拍器音效 (Metronome ticks)` (默认启用): 是否应播放节拍器的背景音效。
 
 ## 冷知识
 
 - 将 Target Practice 与 [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)) 并用时，会同时考虑 Easy 模组的额外生命，从而让玩家在真正判作失败前，能多失误几次。
-- 将该模组与 [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 并用时，`仅隐藏缩圈`的启用没有效果。
-- 将该模组与 [Muted (MU)](/wiki/Gameplay/Game_modifier/Muted) 并用时，`节拍器音效`设置不会生效，而是由 Muted 模组的`启用节拍器`设置决定节拍器是否启用。
+- 将该模组与 [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 并用时，`仅隐藏缩圈 (Only fade approach circles)`的启用没有效果。
+- 将该模组与 [Muted (MU)](/wiki/Gameplay/Game_modifier/Muted) 并用时，`节拍器音效 (Metronome ticks)` 设置不会生效，而是由 Muted 模组的`启用节拍器 (Enable metronome)` 设置决定节拍器是否启用。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
