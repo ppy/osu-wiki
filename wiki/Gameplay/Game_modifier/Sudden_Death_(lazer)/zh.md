@@ -44,8 +44,8 @@ tags:
 
 ![游戏客户端中 Sudden Death 的自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/SD.png)
 
-- `Miss 滑条尾时也失败` (默认禁用): 漏掉[滑条尾](/wiki/Gameplay/Hit_object/Slider/Slidertail)会导致失败。*该设置仅在 osu! 模式中可用。*
-- `失败时重试` (默认禁用): 失败时自动重玩谱面。
+- `Miss 滑条尾时也失败 (Also fail when missing a slider tail)` (默认禁用): 漏掉[滑条尾](/wiki/Gameplay/Hit_object/Slider/Slidertail)会导致失败。*该设置仅在 osu! 模式中可用。*
+- `失败时重试 (Restart on fail)` (默认禁用): 失败时自动重玩谱面。
 
 以上设置任意组合下的分数均可计入排名。
 

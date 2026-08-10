@@ -38,8 +38,8 @@ tags:
 
 ![游戏客户端中的 Simplified Rhythm 自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/SR.png)
 
-- `1/3 转换为 1/2` (默认禁用): 1/3 节奏的排法将被转换为 1/2 节奏。
-- `1/6 转换为 1/4` (默认启用): 1/6 节奏的排法将被转换为 1/4 节奏。
-- `1/8 转换为 1/4` (默认禁用): 1/8 节奏的排法将被转换为 1/4 节奏。
+- `1/3 转换为 1/2 (1/3 to 1/2 conversion)` (默认禁用): 1/3 节奏的排法将被转换为 1/2 节奏。
+- `1/6 转换为 1/4 (1/6 to 1/4 conversion)` (默认启用): 1/6 节奏的排法将被转换为 1/4 节奏。
+- `1/8 转换为 1/4 (1/8 to 1/4 conversion)` (默认禁用): 1/8 节奏的排法将被转换为 1/4 节奏。
 
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
