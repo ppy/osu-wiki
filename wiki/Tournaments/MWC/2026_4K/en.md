@@ -54,10 +54,11 @@ The osu!mania 4K World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team
 
 ## Links
 
-- [Tournament listing](https://osu.ppy.sh/community/tournaments/57)
+- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1en_HmibceLCGtvuGhMfaAnBFvqmgKRHSevMrg3MZKUY?rm=minimal)**
+- [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2225524)
 - [Challonge bracket](https://challonge.com/MWC4K2026)
-- [Livestream](https://www.twitch.tv/osulive)
+- [Tournament listing](https://osu.ppy.sh/community/tournaments/57)
 
 ## Participants
 
