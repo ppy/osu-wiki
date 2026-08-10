@@ -45,7 +45,7 @@ tags:
 
 在 osu!taiko 模式中，Random 模组会为所有音符随机分配一种颜色（[红色或蓝色](/wiki/Gameplay/Hit_object/Hit)）。[长条](/wiki/Gameplay/Hit_object/Drumroll)与[转盘](/wiki/Gameplay/Hit_object/Swell)不受该模组影响。
 
-在 osu!mania 模式中，Random 模组会将所有单点音符与[长条](/wiki/Beatmap/Pattern/osu!mania/Hold_note)随机移动到某一列。
+在 osu!mania 模式中，Random 模组会将所有单点音符与[长条](/wiki/Beatmap/Pattern/osu!mania/Hold_note)按列打乱重排。
 
 ## 自定义
 

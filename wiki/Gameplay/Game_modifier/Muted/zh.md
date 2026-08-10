@@ -37,7 +37,7 @@ tags:
 ![游戏客户端中 Muted 模组的自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MU.png)
 
 - `开始时静音 (Start muted)` (默认禁用): 反转该模组的效果。开始时处于静音状态，音量随连击数累积而增加。该设置启用时，`最终音量连击数 (Final volume at combo)` 设置的最小值为 1 而非 0。
-- `启用节拍器 (Enable metronome)` (默认启用): 添加随音乐音量下降而音量逐渐增大的节拍器声音。
+- `启用节拍器 (Enable metronome)` (默认启用): 添加一个节拍器音效，其音量随音乐音量下降而逐渐增大。
 - `最终音量连击数 (Final volume at combo)` (0–500，默认为 100): 达到最终音量时所处的连击数。若将该值设置为 0 且禁用`开始时静音 (Start muted)`，则总会处于静音状态。
 - `音效静音 (Mute hit sounds)` (默认启用): 使模组除了影响音乐音量外，还影响音效音量。
 
