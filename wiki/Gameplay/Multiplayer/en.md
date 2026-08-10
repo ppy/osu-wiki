@@ -16,7 +16,7 @@ tags:
 **Note:** For explanations regarding interface components, see [Multiplayer](/wiki/Client/Interface/Multiplayer)
 :::
 
-**Multiplayer** (sometimes shortened to *multi*) is an osu! mode in which up to 16 players can compete against each other individually or in teams, or play together co-operatively, on maps decided by the host.
+**Multiplayer** (sometimes shortened to *multi*) is an osu!(stable) mode in which up to 16 players can compete against each other individually or in teams, or play together co-operatively, on maps decided by the host.
 
 ::: alert-notice
 **Notice**
