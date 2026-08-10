@@ -11,7 +11,7 @@ tags:
 
 ![GBC 2026 IRL banner](img/gbc2026irl-banner.png)
 
-**GB Cup 2026 In Real Life** (***GBC 2026 IRL***) was an osu!mania 4-key solo LAN tournament hosted by [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) and organised by Team GB. It was the tenth instalment of the GB Cup and the second instalment of the GB Cup IRL. This LAN tournament was held offline at the DOTREAM RHYTHM GAME CULTURE INDUSTRY EXHIBITION in Hangzhou, China.
+**GB Cup 2026 In Real Life** (***GBC 2026 IRL***) was an osu!mania 4-key solo LAN tournament hosted by ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) and organised by Team GB. It was the tenth instalment of the GB Cup and the second instalment of the GB Cup IRL. This LAN tournament was held offline at the DOTREAM RHYTHM GAME CULTURE INDUSTRY EXHIBITION in Hangzhou, China.
 
 ## Tournament schedule
 
@@ -42,8 +42,8 @@ The GB Cup 2026 In Real Life was run by Team GB and various community members.
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Staff | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [\[GB\]Lazy_ChenXi](https://osu.ppy.sh/users/24156840), ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [vanposen](https://osu.ppy.sh/users/15289293), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Color0](https://osu.ppy.sh/users/31417108) |
-| Offline Helper | ::{ flag=CN }:: [\[GB\]sharkful](https://osu.ppy.sh/users/35850313), ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [-duji-](https://osu.ppy.sh/users/33554103), ::{ flag=CN }:: [Kirchhoff123](https://osu.ppy.sh/users/29546640), ::{ flag=CN }:: [neeeeeh](https://osu.ppy.sh/users/18586390), ::{ flag=CN }:: [\[GB\]Prz1y](https://osu.ppy.sh/users/14759634) |
-| Mappool Selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968) |
+| Offline helper | ::{ flag=CN }:: [\[GB\]sharkful](https://osu.ppy.sh/users/35850313), ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [-duji-](https://osu.ppy.sh/users/33554103), ::{ flag=CN }:: [Kirchhoff123](https://osu.ppy.sh/users/29546640), ::{ flag=CN }:: [neeeeeh](https://osu.ppy.sh/users/18586390), ::{ flag=CN }:: [\[GB\]Prz1y](https://osu.ppy.sh/users/14759634) |
+| Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968) |
 | Streamer | ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968) |
 | Referee | ::{ flag=CN }:: [\[GB\]Cinelia](https://osu.ppy.sh/users/24289042) |
 | Design | ::{ flag=RU }:: [MemeBen](https://osu.ppy.sh/users/18171966), ::{ flag=CN }:: [\[GB\]Prz1y](https://osu.ppy.sh/users/14759634) |
@@ -173,9 +173,9 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | shadiaojunshi |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Vain_, HowToPlaySV |
 
-![Podium Photo](img/gbc2026irl-podium.jpg)
+![Podium photo](img/gbc2026irl-podium.jpg)
 
-![Group Photo](img/gbc2026irl-together.jpg)
+![Group photo](img/gbc2026irl-together.jpg)
 
 ## Mappools
 
@@ -407,7 +407,7 @@ Saturday, 25 July 2026:
 ## Tournament rules
 
 1. There is no warm-up phase for the match.
-2. The main competition is a single-elimination knockout competition with a total of 16 players. The Round of 16 is a best-of-9 game, the Quarterfinals are a best-of-11 game, and the Finals & Semifinals is a best-of-13 game.
+2. The main competition is a single-elimination knockout competition with a total of 16 players. The Round of 16 is a best-of-9 game, the Quarterfinals are a best-of-11 game, and the Finals and Semifinals is a best-of-13 game.
 3. Finals and Semifinals will use same mappool.
 4. There are no 3rd place match on this tournament, 2 players will both get 3rd place.
 5. When the two sides are tied and the last point is decided, the last map will be the tiebreaker.
@@ -417,4 +417,4 @@ Saturday, 25 July 2026:
 9. In the case of a tie, the beatmap will be rematched, but not more than twice.
 10. Players are allowed to rematch if any player disconnects early on during a beatmap. Send a message as soon as possible in the match room chat to notify the referee to restart the match.
 11. If necessary, the referee has the right to decide the implementation of the rules at their own discretion and has the final say on events that occur during the game.
-12. If players can't submit the score because of internet issue on the scene, host will let specific people sit behind players and record videos to get the player score.
+12. If players can't submit the score because of internet issue on the scene, the host will let specific people sit behind players and record videos to get the player score.
