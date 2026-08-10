@@ -7,10 +7,10 @@ tags:
   - 被动掉血速度
 ---
 
-# 掉血速度 (HP drain rate)
+# 掉血速度 (HP drain rate) (lazer)
 
 ::: alert-note
-**备注:** 对于该文章的 osu!(stable) 版本，请见：[掉血速度 (HP drain rate)](/wiki/Beatmap/HP_drain_rate)
+**备注:** 关于该文章的 osu!(stable) 版本，参见：[掉血速度 (HP drain rate)](/wiki/Beatmap/HP_drain_rate)
 :::
 
 ::: alert-note
@@ -21,7 +21,7 @@ tags:
 **备注:** 关于掉血速度相关的规定，参见：[谱面上架标准 (RC)](/wiki/Ranking_criteria)
 :::
 
-**掉血速度** (***HP***) 是一张[谱面](/wiki/Beatmap)的难度设置，控制随时间被动失去的[血量](/wiki/Gameplay/Health)。同时也影响玩家错失物件时的血量惩罚，以及准确命中[打击物件](/wiki/Gameplay/Hit_object)时血量恢复。
+**掉血速度** (***HP***) 是一张[谱面](/wiki/Beatmap)的难度设置，控制随时间被动失去的[血量](/wiki/Gameplay/Health)。同时也影响玩家错失物件时的血量惩罚，以及准确命中[打击物件](/wiki/Gameplay/Hit_object)时的血量恢复。
 
 HP 值在谱面中取值范围为 0 ~ 10（通过 [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) 模组可扩展至 11），其中 10（或 11）惩罚最严，0 最宽松。
 

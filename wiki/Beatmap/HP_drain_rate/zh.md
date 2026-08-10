@@ -10,7 +10,7 @@ tags:
 # 掉血速度 (HP drain rate)
 
 ::: alert-note
-**备注:** 对于该文章的 osu!(lazer) 版本，请见：[掉血速度 (HP drain rate)](/wiki/Beatmap/HP_drain_rate_(lazer))
+**备注:** 关于该文章的 osu!(lazer) 版本，参见：[掉血速度 (HP drain rate) (lazer)](/wiki/Beatmap/HP_drain_rate_(lazer))
 :::
 
 ::: alert-note
