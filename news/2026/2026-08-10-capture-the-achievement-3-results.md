@@ -137,6 +137,8 @@ This was quite a learning curve for myself, as I knew nothing about storyboardin
 
 </div>
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### SSS.O.S.
 
 |  |  |
