@@ -43,7 +43,7 @@ tags:
 
 - `隐藏于连击数 (Hidden at combo)` (0–50，默认为 10): 光标或小人完全隐藏时的连击数。如果设置为 0，则其只会在休息期间可见。
 
-调整上述设置不影响分数计入排名。
+调整上述设置不影响分数是否可计表现分。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"

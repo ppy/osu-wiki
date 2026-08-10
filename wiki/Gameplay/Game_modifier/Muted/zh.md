@@ -41,7 +41,7 @@ tags:
 - `最终音量连击数 (Final volume at combo)` (0–500，默认为 100): 达到最终音量时所处的连击数。若将该值设置为 0 且禁用`开始时静音 (Start muted)`，则总会处于静音状态。
 - `音效静音 (Mute hit sounds)` (默认启用): 使模组除了影响音乐音量外，还影响音效音量。
 
-上述设置的任意组合均不影响分数计入排名。
+上述设置的任意组合均不影响模组是否可计表现分。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

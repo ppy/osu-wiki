@@ -40,7 +40,7 @@ tags:
 **注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-在 osu!(lazer) 中，使用 Relax 模组游玩并通过一张谱面会触发成绩上传，但不会获得[表现分](/wiki/Performance_points)。与 osu!(stable) 不同的是，使用该模组的游玩过程中也有可能失败。
+在 osu!(lazer) 中，使用 Relax 模组游玩并通过一张谱面能够上传成绩，但不会获得[表现分](/wiki/Performance_points)。与 osu!(stable) 不同的是，使用该模组的游玩过程中也有可能失败。
 
 ### ![][osu!] osu!
 

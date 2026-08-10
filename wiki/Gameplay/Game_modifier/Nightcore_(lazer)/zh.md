@@ -46,7 +46,7 @@ tags:
 
 - `速度加成 (Speed increase)` (1.01x-2.00x，默认为 1.50x): 游玩谱面的速度。
 
-更改这项设置会导致分数**不计入排名**。
+更改这项设置会导致成绩**不计表现分**。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
