@@ -36,7 +36,7 @@ tags:
 **注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-**Perfect** 模组在玩家无法获得 SS [评级](/wiki/Gameplay/Grade)时自动重试[谱面](/wiki/Beatmap)，在几乎各种[打击物件](/wiki/Gameplay/Hit_object)上获得低于 GREAT 的判定时都会发生。不会触发失败的物件有 osu!taiko 中的[长条](/wiki/Gameplay/Hit_object/Drumroll)与[转盘](/wiki/Gameplay/Hit_object/Swell)，以及 osu!catch 中的[香蕉](/wiki/Gameplay/Hit_object/Banana)。
+在一张[谱面](/wiki/Beatmap)中出现 miss 或绝大多数[打击物件](/wiki/Gameplay/Hit_object)上获得低于 GREAT 的判定时，玩家将无法获得 SS [评级](/wiki/Gameplay/Grade)，此时  **Perfect** 模组会立刻触发游戏失败。在 osu!taiko 中的[长条](/wiki/Gameplay/Hit_object/Drumroll)与[转盘](/wiki/Gameplay/Hit_object/Swell)，以及 osu!catch 中的[香蕉](/wiki/Gameplay/Hit_object/Banana) 产生 miss 时不会触发。
 
 ## 自定义
 

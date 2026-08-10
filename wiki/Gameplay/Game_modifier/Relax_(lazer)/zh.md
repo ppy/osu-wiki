@@ -52,7 +52,7 @@ tags:
 
 ### ![][osu!catch] osu!catch
 
-在 osu!catch 模式中，**Relax** 模组让玩家可以用鼠标（或数位板，而不是键盘）控制小人。这也意味着玩家无需进行[跳](/wiki/Gameplay/Dash)。
+在 osu!catch 模式中，**Relax** 模组可以让小人跟随玩家的光标。这也意味着玩家不需要[冲刺](/wiki/Gameplay/Dash)。
 
 **该模组不支持自定义。**
 

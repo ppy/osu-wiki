@@ -31,7 +31,7 @@ tags:
 **注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-**Moving Fast** 模组会反转玩家的[跳](/wiki/Gameplay/Dash)按键状态。因此，玩家在跳时应松开按键，而按住按键时小人会以正常速度移动。
+**Moving Fast** 模组会反转玩家的[冲刺](/wiki/Gameplay/Dash)按键状态。因此，玩家在加速时应松开按键，而按住按键时小人会以正常速度移动。
 
 **该模组不支持自定义。**
 
