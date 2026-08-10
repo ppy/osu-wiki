@@ -11,7 +11,7 @@ tags:
 
 ![OTR26 banner](img/banner.png)
 
-The **osu!türkiye Open 2026** (***OTR26***) is a 2v2, double-elimination, Turkish-only regional osu! tournament hosted by ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252) and ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437). It is the 3rd instalment of the osu!türkiye Open series. Unlike the previous iterations, where the teams were formed via draft format, the 2026 edition features premade team signups.
+The **osu!türkiye Open 2026** (***OTR26***) was a 2v2, double-elimination, Turkish-only regional osu! tournament hosted by ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252) and ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437). It was the 3rd instalment of the osu!türkiye Open series. Unlike the previous iterations, where the teams were formed via draft format, the 2026 edition featured premade team signups.
 
 ## Tournament schedule
 
@@ -36,6 +36,8 @@ The osu!türkiye Open 2026 features a prize pool that is funded by community don
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag, 4 months of o!rdr Supporter tag, 30% of the prize pool, 1000₺ worth of Google Play Gift Card, profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag, 2 months of o!rdr Supporter tag, 20% of the prize pool, 634₺ worth of Google Play Gift Card, profile banner |
 
+![Profile badge](img/badge.png "OTR26 winner badge")
+
 ## Organisation
 
 The osu!türkiye Open 2026 is run by [osu!türkiye](https://osuturkiye.com) and various community members.
@@ -55,7 +57,7 @@ The osu!türkiye Open 2026 is run by [osu!türkiye](https://osuturkiye.com) and 
 | Referee | **::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647)**, ::{ flag=TR }:: [Cureleux](https://osu.ppy.sh/users/25429183), ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [HeroBabaa](https://osu.ppy.sh/users/29914048), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Nitrur](https://osu.ppy.sh/users/29649528), ::{ flag=TR }:: [purehalcyon](https://osu.ppy.sh/users/18258854), ::{ flag=TR }:: [RokeT-](https://osu.ppy.sh/users/17151907), ::{ flag=TR }:: [Soroic](https://osu.ppy.sh/users/17163162), ::{ flag=TR }:: [Sweet](https://osu.ppy.sh/users/19650017), ::{ flag=TR }:: [vuluvulu](https://osu.ppy.sh/users/35459987) |
 | Statistician | **::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034)**, ::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647) |
 | Developer | ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647), ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437) |
-| Musician | [Akiri](https://osu.ppy.sh/beatmaps/artists/401), [flures](https://soundcloud.com/realflures), [Kagankaravana](https://www.youtube.com/@kagankaravana), [sumi](https://on.soundcloud.com/SiBVQIWNZe907dZeBl), [XenjeS](https://osu.ppy.sh/beatmaps/artists/482), [Xennzor](https://soundcloud.com/xennzordnb), [Zeforex](https://soundcloud.com/zeforex), [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) |
+| Musician | [Akiri](https://osu.ppy.sh/beatmaps/artists/401), [flures](https://soundcloud.com/realflures), [Kagankaravana](https://www.youtube.com/@kagankaravana), [sumi](https://soundcloud.com/sumi-83860761), [XenjeS](https://osu.ppy.sh/beatmaps/artists/482), [Xennzor](https://soundcloud.com/xennzordnb), [Zeforex](https://soundcloud.com/zeforex), [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) |
 
 Group leaders are denoted in **bold**.
 
@@ -131,20 +133,9 @@ Group leaders are denoted in **bold**.
 
 Captains are denoted in **bold**.
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, 8 August 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 21 | bak | enes batur | [Aug 8 (Sat) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260808T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^lbf-match] |
-
-### Sunday, 9 August 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 22a | baaa mi diyo la? :O | enes batur | [Aug 9 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260809T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^gf-match] |
-| 22b | baaa mi diyo la? :O | bak | [Aug 9 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260809T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) | [^gf-match] |
+![OTR26 Podium](img/podium.jpg "OTR26 Podium")
 
 ## Mappools
 
@@ -322,6 +313,21 @@ Captains are denoted in **bold**.
   3. [Nujabes - Lady Brown (feat. Cise Star) (Boden) \[Boden's Insane\]](https://osu.ppy.sh/beatmapsets/2477987#osu/5495728)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 8 August 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 21 | bak | 3 | **7** | **enes batur** | [#1](https://osu.ppy.sh/community/matches/121657637) |  |
+
+Sunday, 9 August 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 22 | baaa mi diyo la? :O | 4 | **7** | **enes batur** | [#1](https://osu.ppy.sh/community/matches/121663630) | [#1](https://youtu.be/ADppM4v4tPI) |
+| 23 | enes batur | 2 | **7** | **baaa mi diyo la? :O** | [#1](https://osu.ppy.sh/community/matches/121664142) | [#1](https://youtu.be/v09cQYIusbk) |
 
 ### Finals
 
@@ -837,5 +843,3 @@ Group D:
 [^groups-seed]: The team's seed after the Qualifier stage.
 [^qualifiers-seeding]: The Qualifier rating was calculated using the %MAX scoring system.
 [^qualifiers-tiebreaker]: Average score was used as the Qualifier tiebreaker.
-[^lbf-match]: Losers bracket final match
-[^gf-match]: Grand Finals match
