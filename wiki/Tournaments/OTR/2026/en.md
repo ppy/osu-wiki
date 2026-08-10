@@ -66,7 +66,7 @@ Group leaders are denoted in **bold**.
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/150VzfGWk3JyOoBBNDsJ_8NIgDPurbKbBbW-jMI-sRkI/edit?usp=sharing)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2211098)
 - [Livestream](https://www.twitch.tv/osutrlive)
-- [Livestream archive](https://youtube.com/@osutrlive)
+- [Livestream archive](https://www.youtube.com/@osutrlive)
 - [Discord server](https://discord.gg/osuturkiye)
 - [Detailed ruleset](https://osuturkiye.com/wiki/otr26)
 - Challonge brackets: [Group Stage](https://challonge.com/otr26grup) / [Elimination Stage](https://challonge.com/OTR26cifteleme)
@@ -135,14 +135,14 @@ Captains are denoted in **bold**.
 
 ## Podium
 
-![OTR26 Podium](img/podium.jpg "OTR26 Podium")
+![OTR26 podium](img/podium.jpg "OTR26 podium")
 
 ## Mappools
 
 ### Grand Finals
 
 **[Download the mappack here! (183 MB)](https://osutr.s-ul.eu/ZrUy0tTF.zip)**\
-[View the showcase VOD here](https://youtu.be/WrWk2D4pmgg)
+[View the showcase VOD here](https://www.youtube.com/watch?v=WrWk2D4pmgg)
 
 - No Mod
   1. [Jeff Williams & Casey Lee Williams - Caffeine (feat. Lamar Hall) (Tycani) \[00:58:838 - afraid of teekyuu\]](https://osu.ppy.sh/beatmapsets/1972828#osu/4093667)
@@ -174,7 +174,7 @@ Captains are denoted in **bold**.
 ### Finals
 
 **[Download the mappack here! (156 MB)](https://osutr.s-ul.eu/VxNHIbdS.zip)**\
-[View the showcase VOD here](https://youtu.be/PY52Ok7CGgw)
+[View the showcase VOD here](https://www.youtube.com/watch?v=PY52Ok7CGgw)
 
 - No Mod
   1. [Coda - Fighting Gold (fartownik) \[Vento Aureo\]](https://osu.ppy.sh/beatmapsets/1884904#osu/3880922)
@@ -206,7 +206,7 @@ Captains are denoted in **bold**.
 ### Semifinals
 
 **[Download the mappack here! (137 MB)](https://lyerr.s-ul.eu/UbvGohMz.zip)**\
-[View the showcase VOD here](https://youtu.be/FJJDekNiChw)
+[View the showcase VOD here](https://www.youtube.com/watch?v=FJJDekNiChw)
 
 - No Mod
   1. [DAYOUNG - body (LycaonMyHusband) \[let your body talk to me\]](https://osu.ppy.sh/beatmapsets/2461520#osu/5385047)
@@ -236,7 +236,7 @@ Captains are denoted in **bold**.
 ### Quarterfinals
 
 **[Download the mappack here! (146 MB)](https://lyerr.s-ul.eu/IHYJC7uO.zip)**\
-[View the showcase VOD here](https://youtu.be/W3QkqFEfKjw)
+[View the showcase VOD here](https://www.youtube.com/watch?v=W3QkqFEfKjw)
 
 - No Mod
   1. [Ultra Bra - Heppa (Karhu) \[hepo, humma, juhta, kaakki, liinaharja, luuska, polle, ratsu, ori, ruuna, tamma\]](https://osu.ppy.sh/beatmapsets/2470965#osu/5412808)
@@ -266,7 +266,7 @@ Captains are denoted in **bold**.
 ### Group Stage
 
 **[Download the mappack here! (121 MB)](https://lyerr.s-ul.eu/98Blxxlw.zip)**\
-[View the showcase VOD here](https://youtu.be/OIHdk48V86Q)
+[View the showcase VOD here](https://www.youtube.com/watch?v=OIHdk48V86Q)
 
 - No Mod
   1. [Hepsi - Yalan (Akhaten) \[Hani Bensiz Bir Hictin\]](https://osu.ppy.sh/beatmapsets/2577712#osu/5742699)
@@ -294,7 +294,7 @@ Captains are denoted in **bold**.
 ### Qualifiers
 
 **[Download the mappack here! (79.4 MB)](https://lyerr.s-ul.eu/okiPGQqD.zip)**\
-[View the showcase VOD here](https://youtu.be/q4dDwSes-0c?si=h-wSDstVCYECoELt)
+[View the showcase VOD here](https://www.youtube.com/watch?v=q4dDwSes-0c)
 
 - No Mod
   1. [Nekomata Master - Despair of Elferia (dakiwii) \[An\]](https://osu.ppy.sh/beatmapsets/2239664#osu/4759737)
@@ -326,8 +326,8 @@ Sunday, 9 August 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 22 | baaa mi diyo la? :O | 4 | **7** | **enes batur** | [#1](https://osu.ppy.sh/community/matches/121663630) | [#1](https://youtu.be/ADppM4v4tPI) |
-| 23 | enes batur | 2 | **7** | **baaa mi diyo la? :O** | [#1](https://osu.ppy.sh/community/matches/121664142) | [#1](https://youtu.be/v09cQYIusbk) |
+| 22 | baaa mi diyo la? :O | 4 | **7** | **enes batur** | [#1](https://osu.ppy.sh/community/matches/121663630) | [#1](https://www.youtube.com/watch?v=ADppM4v4tPI) |
+| 23 | enes batur | 2 | **7** | **baaa mi diyo la? :O** | [#1](https://osu.ppy.sh/community/matches/121664142) | [#1](https://www.youtube.com/watch?v=v09cQYIusbk) |
 
 ### Finals
 
@@ -337,15 +337,15 @@ Saturday, 1 August 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 17 | steal balls and run | 5 | **7** | **bak** | [#1](https://osu.ppy.sh/community/matches/121616332) | [#1](https://youtu.be/60IotkqXwKQ) |
-| 18 | farketmez | 4 | **7** | **Dede ve Torunu** | [#1](https://osu.ppy.sh/community/matches/121618752) | [#1](https://youtu.be/kzVaK5CUtKc) |
+| 17 | steal balls and run | 5 | **7** | **bak** | [#1](https://osu.ppy.sh/community/matches/121616332) | [#1](https://www.youtube.com/watch?v=60IotkqXwKQ) |
+| 18 | farketmez | 4 | **7** | **Dede ve Torunu** | [#1](https://osu.ppy.sh/community/matches/121618752) | [#1](https://www.youtube.com/watch?v=kzVaK5CUtKc) |
 
 Sunday, 2 August 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 19 | **bak** | **7** | 4 | Dede ve Torunu | [#1](https://osu.ppy.sh/community/matches/121623444) | [#1](https://youtu.be/aAUQBPW7vB8) |
-| 20 | **baaa mi diyo la? :O** | **7** | 6 | enes batur | [#1](https://osu.ppy.sh/community/matches/121624065) | [#1](https://youtu.be/3OygTdx2DpA) |
+| 19 | **bak** | **7** | 4 | Dede ve Torunu | [#1](https://osu.ppy.sh/community/matches/121623444) | [#1](https://www.youtube.com/watch?v=aAUQBPW7vB8) |
+| 20 | **baaa mi diyo la? :O** | **7** | 6 | enes batur | [#1](https://osu.ppy.sh/community/matches/121624065) | [#1](https://www.youtube.com/watch?v=3OygTdx2DpA) |
 
 ### Semifinals
 
@@ -355,29 +355,29 @@ Friday, 24 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 9 | **steal balls and run** | **6** | 5 | 21cm pp limit | [#1](https://osu.ppy.sh/community/matches/121572437) | [#1](https://youtu.be/-TCgTt0kJUw) |
+| 9 | **steal balls and run** | **6** | 5 | 21cm pp limit | [#1](https://osu.ppy.sh/community/matches/121572437) | [#1](https://www.youtube.com/watch?v=-TCgTt0kJUw) |
 
 Saturday, 25 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 11 | alındınmı? .p | 5 | **6** | **Pinterest kedipp** | [#1](https://osu.ppy.sh/community/matches/121584064) | [#1](https://youtu.be/inn5ABOIdxA) |
-| 15 | **baaa mi diyo la? :O** | **6** | 1 | bak | [#1](https://osu.ppy.sh/community/matches/121577599) | [#1](https://youtu.be/K3VSbiLjBFc) |
+| 11 | alındınmı? .p | 5 | **6** | **Pinterest kedipp** | [#1](https://osu.ppy.sh/community/matches/121584064) | [#1](https://www.youtube.com/watch?v=inn5ABOIdxA) |
+| 15 | **baaa mi diyo la? :O** | **6** | 1 | bak | [#1](https://osu.ppy.sh/community/matches/121577599) | [#1](https://www.youtube.com/watch?v=K3VSbiLjBFc) |
 | 16 | Dede ve Torunu | 0 | **6** | **enes batur** | *win by default* |  |
 
 Sunday, 26 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 12 | W puskevit | 2 | **6** | **farketmez** | [#1](https://osu.ppy.sh/community/matches/121582930) | [#1](https://youtu.be/TpGKY2q5DZM) |
-| 10 | cok zeki takim | 3 | **6** | **acil feet** | [#1](https://osu.ppy.sh/community/matches/121584064) | [#1](https://youtu.be/5iyBnzJ-pXo) |
+| 12 | W puskevit | 2 | **6** | **farketmez** | [#1](https://osu.ppy.sh/community/matches/121582930) | [#1](https://www.youtube.com/watch?v=TpGKY2q5DZM) |
+| 10 | cok zeki takim | 3 | **6** | **acil feet** | [#1](https://osu.ppy.sh/community/matches/121584064) | [#1](https://www.youtube.com/watch?v=5iyBnzJ-pXo) |
 | 14 | Pinterest kedipp | 0 | **6** | **farketmez** | *win by default* |  |
 
 Monday, 27 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 13 | **steal balls and run** | **6** | 4 | acil feet | [#1](https://osu.ppy.sh/community/matches/121587654) | [#1](https://youtu.be/EUo_leBgaew) |
+| 13 | **steal balls and run** | **6** | 4 | acil feet | [#1](https://osu.ppy.sh/community/matches/121587654) | [#1](https://www.youtube.com/watch?v=EUo_leBgaew) |
 
 ### Quarterfinals
 
@@ -387,19 +387,19 @@ Sunday, 19 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 5 | **steal balls and run** | **6** | 0 | zilla | [#1](https://osu.ppy.sh/community/matches/121541326) | [#1](https://youtu.be/es6jsrCWCC8) |
+| 5 | **steal balls and run** | **6** | 0 | zilla | [#1](https://osu.ppy.sh/community/matches/121541326) | [#1](https://www.youtube.com/watch?v=es6jsrCWCC8) |
 | 2 | **bak** | **6** | 0 | Pinterest kedipp | *win by default* |  |
-| 4 | **enes batur** | **6** | 2 | 21cm pp limit | [#1](https://osu.ppy.sh/community/matches/121542387) | [#1](https://youtu.be/x3TjOcECuPM) |
-| 6 | **cok zeki takim** | **6** | 4 | washed gang | [#1](https://osu.ppy.sh/community/matches/121543102) | [#1](https://youtu.be/e4YPKVQtnCk) |
-| 8 | barigadam | 5 | **6** | **W puskevit** | [#1](https://osu.ppy.sh/community/matches/121543119) | [#1](https://youtu.be/GcRn4SyDZx4) |
-| 3 | acil feet | 2 | **6** | **Dede ve Torunu** | [#1](https://osu.ppy.sh/community/matches/121543543) | [#1](https://youtu.be/AywM2Inx35E) |
-| 1 | **baaa mi diyo la? :O** | **6** | 1 | farketmez | [#1](https://osu.ppy.sh/community/matches/121543728) | [#1](https://youtu.be/pMmFI6w7jxc) |
+| 4 | **enes batur** | **6** | 2 | 21cm pp limit | [#1](https://osu.ppy.sh/community/matches/121542387) | [#1](https://www.youtube.com/watch?v=x3TjOcECuPM) |
+| 6 | **cok zeki takim** | **6** | 4 | washed gang | [#1](https://osu.ppy.sh/community/matches/121543102) | [#1](https://www.youtube.com/watch?v=e4YPKVQtnCk) |
+| 8 | barigadam | 5 | **6** | **W puskevit** | [#1](https://osu.ppy.sh/community/matches/121543119) | [#1](https://www.youtube.com/watch?v=GcRn4SyDZx4) |
+| 3 | acil feet | 2 | **6** | **Dede ve Torunu** | [#1](https://osu.ppy.sh/community/matches/121543543) | [#1](https://www.youtube.com/watch?v=AywM2Inx35E) |
+| 1 | **baaa mi diyo la? :O** | **6** | 1 | farketmez | [#1](https://osu.ppy.sh/community/matches/121543728) | [#1](https://www.youtube.com/watch?v=pMmFI6w7jxc) |
 
 Monday, 20 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 7 | cansın | 5 | **6** | **alındınmı? .p** | [#1](https://osu.ppy.sh/community/matches/121547288) | [#1](https://youtu.be/yQO4ZK2_1zk) |
+| 7 | cansın | 5 | **6** | **alındınmı? .p** | [#1](https://osu.ppy.sh/community/matches/121547288) | [#1](https://www.youtube.com/watch?v=yQO4ZK2_1zk) |
 
 ### Group Stage
 
@@ -409,96 +409,96 @@ Friday, 3 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| A1 | steal balls and run | 3 | **5** | **Pinterest kedipp** | [#1](https://osu.ppy.sh/community/matches/121443012) | [#1](https://youtu.be/LPxeeoOMFms) |
-| C4 | **Dede ve Torunu** | **5** | 0 | takım olak | [#1](https://osu.ppy.sh/community/matches/121445501) | [#1](https://youtu.be/fvdbYrvLG80) |
+| A1 | steal balls and run | 3 | **5** | **Pinterest kedipp** | [#1](https://osu.ppy.sh/community/matches/121443012) | [#1](https://www.youtube.com/watch?v=LPxeeoOMFms) |
+| C4 | **Dede ve Torunu** | **5** | 0 | takım olak | [#1](https://osu.ppy.sh/community/matches/121445501) | [#1](https://www.youtube.com/watch?v=fvdbYrvLG80) |
 
 Saturday, 4 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| A8 | **washed gang** | **5** | 0 | :steamhappy: | [#1](https://osu.ppy.sh/community/matches/121451273) | [#1](https://youtu.be/Ne3xh9nR8kc) |
-| D5 | **cok zeki takim** | **5** | 2 | zilla | [#1](https://osu.ppy.sh/community/matches/121451217) | [#1](https://youtu.be/-j9hvp4eWS8) |
-| C8 | **barigadam** | **5** | 4 | AvazAvazAğlayanYüz | [#1](https://osu.ppy.sh/community/matches/121451694) | [#1](https://youtu.be/J-GGerLAKaw) |
-| B4 | **21cm pp limit** | **5** | 0 | jembeyler | [#1](https://osu.ppy.sh/community/matches/121452609) | [#1](https://youtu.be/0u5aWMRf6hY) |
+| A8 | **washed gang** | **5** | 0 | :steamhappy: | [#1](https://osu.ppy.sh/community/matches/121451273) | [#1](https://www.youtube.com/watch?v=Ne3xh9nR8kc) |
+| D5 | **cok zeki takim** | **5** | 2 | zilla | [#1](https://osu.ppy.sh/community/matches/121451217) | [#1](https://www.youtube.com/watch?v=-j9hvp4eWS8) |
+| C8 | **barigadam** | **5** | 4 | AvazAvazAğlayanYüz | [#1](https://osu.ppy.sh/community/matches/121451694) | [#1](https://www.youtube.com/watch?v=J-GGerLAKaw) |
+| B4 | **21cm pp limit** | **5** | 0 | jembeyler | [#1](https://osu.ppy.sh/community/matches/121452609) | [#1](https://www.youtube.com/watch?v=0u5aWMRf6hY) |
 
 Sunday, 5 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| A4 | **steal balls and run** | **5** | 1 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121456094) | [#1](https://youtu.be/D1GVFMVK27Q) |
-| C5 | alındınmı? .p | 3 | **5** | **barigadam** | [#1](https://osu.ppy.sh/community/matches/121456379) | [#1](https://youtu.be/iHuFCKigt_A) |
-| C1 | **Dede ve Torunu** | **5** | 2 | alındınmı? .p | [#1](https://osu.ppy.sh/community/matches/121457059) | [#1](https://youtu.be/jjPXBmiL1Kc) |
-| D1 | **farketmez** | **5** | 1 | cok zeki takim | [#1](https://osu.ppy.sh/community/matches/121457074) | [#1](https://youtu.be/tbZq4E1-jqk) |
+| A4 | **steal balls and run** | **5** | 1 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121456094) | [#1](https://www.youtube.com/watch?v=D1GVFMVK27Q) |
+| C5 | alındınmı? .p | 3 | **5** | **barigadam** | [#1](https://osu.ppy.sh/community/matches/121456379) | [#1](https://www.youtube.com/watch?v=iHuFCKigt_A) |
+| C1 | **Dede ve Torunu** | **5** | 2 | alındınmı? .p | [#1](https://osu.ppy.sh/community/matches/121457059) | [#1](https://www.youtube.com/watch?v=jjPXBmiL1Kc) |
+| D1 | **farketmez** | **5** | 1 | cok zeki takim | [#1](https://osu.ppy.sh/community/matches/121457074) | [#1](https://www.youtube.com/watch?v=tbZq4E1-jqk) |
 | D10 | **Folklar** | **5** | 3 | ördek | [#1](https://osu.ppy.sh/community/matches/121457079) |  |
-| D4 | **farketmez** | **5** | 0 | ördek | [#1](https://osu.ppy.sh/community/matches/121457796) | [#1](https://youtu.be/oSOi_DX7p5s) |
-| D8 | **zilla** | **5** | 2 | Folklar | [#1](https://osu.ppy.sh/community/matches/121457829) | [#1](https://youtu.be/YXF-Jei5n64) |
-| B8 | **W puskevit** | **5** | 1 | Aşuk ile Maşuk | [#1](https://osu.ppy.sh/community/matches/121458137) | [#1](https://youtu.be/APsztlfsOec) |
-| C10 | **AvazAvazAğlayanYüz** | **5** | 2 | takım olak | [#1](https://osu.ppy.sh/community/matches/121458154) | [#1](https://youtu.be/e2ETCWnRvlo) |
+| D4 | **farketmez** | **5** | 0 | ördek | [#1](https://osu.ppy.sh/community/matches/121457796) | [#1](https://www.youtube.com/watch?v=oSOi_DX7p5s) |
+| D8 | **zilla** | **5** | 2 | Folklar | [#1](https://osu.ppy.sh/community/matches/121457829) | [#1](https://www.youtube.com/watch?v=YXF-Jei5n64) |
+| B8 | **W puskevit** | **5** | 1 | Aşuk ile Maşuk | [#1](https://osu.ppy.sh/community/matches/121458137) | [#1](https://www.youtube.com/watch?v=APsztlfsOec) |
+| C10 | **AvazAvazAğlayanYüz** | **5** | 2 | takım olak | [#1](https://osu.ppy.sh/community/matches/121458154) | [#1](https://www.youtube.com/watch?v=e2ETCWnRvlo) |
 
 Monday, 6 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| B10 | Aşuk ile Maşuk | 3 | **5** | **jembeyler** | [#1](https://osu.ppy.sh/community/matches/121459365) | [#1](https://youtu.be/ehfOig5KRnQ) |
-| B5 | **cansın** | **5** | 2 | W puskevit | [#1](https://osu.ppy.sh/community/matches/121464516) | [#1](https://youtu.be/PeU8lJXT2kg) |
-| A9 | **washed gang** | **5** | 1 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121464187) | [#1](https://youtu.be/hoGx3Kq4v1c) |
-| A5 | **Pinterest kedipp** | **5** | 4 | washed gang | [#1](https://osu.ppy.sh/community/matches/121464837) | [#1](https://youtu.be/8jzTcn7jWrA) |
+| B10 | Aşuk ile Maşuk | 3 | **5** | **jembeyler** | [#1](https://osu.ppy.sh/community/matches/121459365) | [#1](https://www.youtube.com/watch?v=ehfOig5KRnQ) |
+| B5 | **cansın** | **5** | 2 | W puskevit | [#1](https://osu.ppy.sh/community/matches/121464516) | [#1](https://www.youtube.com/watch?v=PeU8lJXT2kg) |
+| A9 | **washed gang** | **5** | 1 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121464187) | [#1](https://www.youtube.com/watch?v=hoGx3Kq4v1c) |
+| A5 | **Pinterest kedipp** | **5** | 4 | washed gang | [#1](https://osu.ppy.sh/community/matches/121464837) | [#1](https://www.youtube.com/watch?v=8jzTcn7jWrA) |
 
 Tuesday, 7 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| B1 | **21cm pp limit** | **5** | 4 | cansın | [#1](https://osu.ppy.sh/community/matches/121469043) | [#1](https://youtu.be/hwhwiMi_S0Y) |
+| B1 | **21cm pp limit** | **5** | 4 | cansın | [#1](https://osu.ppy.sh/community/matches/121469043) | [#1](https://www.youtube.com/watch?v=hwhwiMi_S0Y) |
 
 Thursday, 9 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| B6 | **cansın** | **5** | 1 | Aşuk ile Maşuk | [#1](https://osu.ppy.sh/community/matches/121481341) | [#1](https://youtu.be/Ytc23e7q8AY) |
-| B3 | **21cm pp limit** | **5** | 0 | Aşuk ile Maşuk | [#1](https://osu.ppy.sh/community/matches/121481905) | [#1](https://youtu.be/2zc0nNLTB2M) |
+| B6 | **cansın** | **5** | 1 | Aşuk ile Maşuk | [#1](https://osu.ppy.sh/community/matches/121481341) | [#1](https://www.youtube.com/watch?v=Ytc23e7q8AY) |
+| B3 | **21cm pp limit** | **5** | 0 | Aşuk ile Maşuk | [#1](https://osu.ppy.sh/community/matches/121481905) | [#1](https://www.youtube.com/watch?v=2zc0nNLTB2M) |
 
 Friday, 10 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| A3 | **steal balls and run** | **5** | 1 | :steamhappy: | [#1](https://osu.ppy.sh/community/matches/121487129) | [#1](https://youtu.be/uvojNFfTwTg) |
+| A3 | **steal balls and run** | **5** | 1 | :steamhappy: | [#1](https://osu.ppy.sh/community/matches/121487129) | [#1](https://www.youtube.com/watch?v=uvojNFfTwTg) |
 
 Saturday, 11 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| B2 | **21cm pp limit** | **5** | 3 | W puskevit | [#1](https://osu.ppy.sh/community/matches/121492959) | [#1](https://youtu.be/CIlazKbl8dU) |
-| C6 | **alındınmı? .p** | **5** | 0 | AvazAvazAğlayanYüz | [#1](https://osu.ppy.sh/community/matches/121493006) | [#1](https://youtu.be/Uvan4zEdCpQ) |
-| A6 | **Pinterest kedipp** | **5** | 4 | :steamhappy: | [#1](https://osu.ppy.sh/community/matches/121493373) | [#1](https://youtu.be/WHSgLFnpGRE) |
-| D3 | **farketmez** | **5** | 0 | Folklar | [#1](https://osu.ppy.sh/community/matches/121493567) | [#1](https://youtu.be/6ZXCz3UFAKE) |
-| C9 | **barigadam** | **5** | 2 | takım olak | [#1](https://osu.ppy.sh/community/matches/121493764) | [#1](https://youtu.be/U9ZPx9WRfuY) |
-| C3 | **Dede ve Torunu** | **5** | 1 | AvazAvazAğlayanYüz | [#1](https://osu.ppy.sh/community/matches/121494090) | [#1](https://youtu.be/EQQf-3oC-Ac) |
+| B2 | **21cm pp limit** | **5** | 3 | W puskevit | [#1](https://osu.ppy.sh/community/matches/121492959) | [#1](https://www.youtube.com/watch?v=CIlazKbl8dU) |
+| C6 | **alındınmı? .p** | **5** | 0 | AvazAvazAğlayanYüz | [#1](https://osu.ppy.sh/community/matches/121493006) | [#1](https://www.youtube.com/watch?v=Uvan4zEdCpQ) |
+| A6 | **Pinterest kedipp** | **5** | 4 | :steamhappy: | [#1](https://osu.ppy.sh/community/matches/121493373) | [#1](https://www.youtube.com/watch?v=WHSgLFnpGRE) |
+| D3 | **farketmez** | **5** | 0 | Folklar | [#1](https://osu.ppy.sh/community/matches/121493567) | [#1](https://www.youtube.com/watch?v=6ZXCz3UFAKE) |
+| C9 | **barigadam** | **5** | 2 | takım olak | [#1](https://osu.ppy.sh/community/matches/121493764) | [#1](https://www.youtube.com/watch?v=U9ZPx9WRfuY) |
+| C3 | **Dede ve Torunu** | **5** | 1 | AvazAvazAğlayanYüz | [#1](https://osu.ppy.sh/community/matches/121494090) | [#1](https://www.youtube.com/watch?v=EQQf-3oC-Ac) |
 | D7 | **cok zeki takim** | **5** | 0 | ördek | *win by default* |  |
-| C7 | **alındınmı? .p** | **5** | 0 | takım olak | [#1](https://osu.ppy.sh/community/matches/121494757) | [#1](https://youtu.be/tIf5KVQXzYw) |
+| C7 | **alındınmı? .p** | **5** | 0 | takım olak | [#1](https://osu.ppy.sh/community/matches/121494757) | [#1](https://www.youtube.com/watch?v=tIf5KVQXzYw) |
 
 Sunday, 12 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| C2 | **Dede ve Torunu** | **5** | 1 | barigadam | [#1](https://osu.ppy.sh/community/matches/121499653) | [#1](https://youtu.be/tK0iiIA6UMQ) |
-| D6 | **cok zeki takim** | **5** | 2 | Folklar | [#1](https://osu.ppy.sh/community/matches/121500013) | [#1](https://youtu.be/1AZZT8W5Odc) |
-| A10 | **:steamhappy:** | **5** | 2 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121500389) | [#1](https://youtu.be/bm8lRQY3We0) |
-| B9 | **W puskevit** | **5** | 1 | jembeyler | [#1](https://osu.ppy.sh/community/matches/121500373) | [#1](https://youtu.be/JtvJNMGyUp8) |
+| C2 | **Dede ve Torunu** | **5** | 1 | barigadam | [#1](https://osu.ppy.sh/community/matches/121499653) | [#1](https://www.youtube.com/watch?v=tK0iiIA6UMQ) |
+| D6 | **cok zeki takim** | **5** | 2 | Folklar | [#1](https://osu.ppy.sh/community/matches/121500013) | [#1](https://www.youtube.com/watch?v=1AZZT8W5Odc) |
+| A10 | **:steamhappy:** | **5** | 2 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121500389) | [#1](https://www.youtube.com/watch?v=bm8lRQY3We0) |
+| B9 | **W puskevit** | **5** | 1 | jembeyler | [#1](https://osu.ppy.sh/community/matches/121500373) | [#1](https://www.youtube.com/watch?v=JtvJNMGyUp8) |
 | D9 | **zilla** | **5** | 0 | ördek | *win by default* |  |
-| A7 | **Pinterest kedipp** | **5** | 0 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121501116) | [#1](https://youtu.be/0ehk-bjbnns) |
-| B7 | **cansın** | **5** | 2 | jembeyler | [#1](https://osu.ppy.sh/community/matches/121501282) | [#1](https://youtu.be/lcsaNjPn5YU) |
+| A7 | **Pinterest kedipp** | **5** | 0 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121501116) | [#1](https://www.youtube.com/watch?v=0ehk-bjbnns) |
+| B7 | **cansın** | **5** | 2 | jembeyler | [#1](https://osu.ppy.sh/community/matches/121501282) | [#1](https://www.youtube.com/watch?v=lcsaNjPn5YU) |
 | D2 | **farketmez** | **5** | 0 | zilla | *win by default* |  |
 
 Monday, 13 July 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| A2 | **steal balls and run** | **5** | 3 | washed gang | [#1](https://osu.ppy.sh/community/matches/121505055) | [#1](https://youtu.be/3Ze9qIVkorQ) |
+| A2 | **steal balls and run** | **5** | 3 | washed gang | [#1](https://osu.ppy.sh/community/matches/121505055) | [#1](https://www.youtube.com/watch?v=3Ze9qIVkorQ) |
 
 ### Qualifiers
 
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1jP4C3hDWVEz_NL7ue3uoTixqE_bYSRTkpiS2BtcVjX0/edit?rm=minimal).\
-[View the Qualifier seed reveal VOD here](https://youtu.be/MGS1g9xlZlg?si=aeU4BPz3CXABO7PD)
+[View the Qualifier seed reveal VOD here](https://www.youtube.com/watch?v=MGS1g9xlZlg)
 
 | Seed | Team | rating[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] | Lobby link |
 | :-: | :-- | --: | --: | --: |
@@ -559,7 +559,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Groups
 
-[View the Group drawings VOD here](https://youtu.be/kAqSHrauUk0?si=f7sG_XjkGWKhzfn1)
+[View the Group drawings VOD here](https://www.youtube.com/watch?v=kAqSHrauUk0)
 
 Group A:
 
