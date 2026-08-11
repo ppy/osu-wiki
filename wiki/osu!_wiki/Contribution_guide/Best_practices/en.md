@@ -4,7 +4,9 @@ This page covers some of the tasks that you may face while contributing. The app
 
 ## Introduction
 
-*For more information on Git and GitHub, see [GitHub Documentation](https://docs.github.com)*
+::: alert-note
+**Note:** For more information on Git and GitHub, see [GitHub Documentation](https://docs.github.com)
+:::
 
 **Git** is a version control system which helps manage changes to files. The osu! wiki's data and history of changes are stored in a Git repository. **GitHub** is a platform for development that provides a web interface for Git repositories and offers a set of tools for project management.
 

@@ -34,13 +34,17 @@ Los valores se pueden ajustar con una precisión de 0,1x manteniendo presionado 
 
 ### Tasa de drenaje de HP (HP drain rate)
 
-*Artículo principal: [Tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate)*
+::: alert-note
+**Página principal:** [Tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate)
+:::
 
 La tasa de drenaje de HP (HP) determina la cantidad de recuperación de salud o daño de [golpes](/wiki/Gameplay/Judgement) precisos o fuera de tiempo. En osu! y osu!catch, también afecta a la tasa de [drenaje de salud pasiva](/wiki/Beatmap/HP_drain_rate). Los valores más altos proporcionan una menor recuperación de la salud con penalizaciones mayores.
 
 ### Tamaño del círculo (Circle size)
 
-*Artículo principal: [Tamaño del círculo](/wiki/Beatmap/Circle_size)*
+::: alert-note
+**Página principal:** [Tamaño del círculo](/wiki/Beatmap/Circle_size)
+:::
 
 ![Vista general de los distintos tamaños de círculos](img/Circle_sizes.png "Vista general de los distintos tamaños de círculos")
 
@@ -134,7 +138,9 @@ Los colores de los combos solo tienen efecto en osu! y osu!catch.
 
 ### Tolerancia de apilamiento (Stack leniency)
 
-*Artículo principal: [Tolerancia de apilamiento](/wiki/Beatmap/Stack_leniency)*
+::: alert-note
+**Página principal:** [Tolerancia de apilamiento](/wiki/Beatmap/Stack_leniency)
+:::
 
 La tolerancia de apilamiento es un ajuste específico de osu! que afecta al comportamiento de los objetos apilados. Normalmente, los [sliders](/wiki/Gameplay/Hit_object/Slider) y los [círculos](/wiki/Gameplay/Hit_object/Hit_circle) que estén cerca en el tiempo se [apilarán](/wiki/Beatmapping/Mapping_techniques/Stack) automáticamente y se desplazarán ligeramente si se colocan en el mismo lugar. Esto se hace para ayudar a los jugadores a ver mejor los objetos [superpuestos](/wiki/Beatmapping/Mapping_techniques/Overlap).
 

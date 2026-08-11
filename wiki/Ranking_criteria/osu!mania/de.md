@@ -13,7 +13,9 @@ Die **Ranking-Kriterien für osu!mania** legen die [Regeln und Richtlinien](/wik
 
 ### Schwierigkeitsgrade
 
-*Hauptartikel: [Benennung von Schwierigkeitsgraden](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Hauptseite:** [Benennung von Schwierigkeitsgraden](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal

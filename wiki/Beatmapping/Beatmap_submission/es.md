@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 37adfc5ef491f9709016f0c4263911d301b0304f
+---
+
 # Envío
 
 Los [beatmaps](/wiki/Beatmap) se pueden enviar al sitio web de osu! a través del [editor dentro del juego](/wiki/Client/Beatmap_editor). Enviar un beatmap te permite recibir atención de otros usuarios y potencialmente ingresar a las categorías [clasificados](/wiki/Beatmap/Category#ranked) o [amados](/wiki/Beatmap/Category#loved).
