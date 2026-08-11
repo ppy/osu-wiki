@@ -2,7 +2,7 @@
 
 ![](img/banner.jpg)
 
-The **COE 2026 1v1 Tournament** is a 1v1 single-elimination osu! LAN tournament run entirely in the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client, and hosted during [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event) 2026 (COE 2026) at Brabanthallen in 's-Hertogenbosch, Netherlands. It is the sixth instalment of the COE tournament series.
+The **COE 2026 1v1 Tournament** was a 1v1 osu! LAN tournament run entirely in the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client, and hosted during [cavoe's osu! event 2026 (COE 2026)](/wiki/Community/cavoe's_osu!_event/2026) at Brabanthallen in 's-Hertogenbosch, Netherlands. It was the sixth instalment of the COE tournament series.
 
 ## Tournament schedule
 
@@ -144,24 +144,6 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 
 The bracket for the offline stage can be found [here](https://liquipedia.net/osu/COE/2026#Results).
 
-Saturday, 1st of August 2026:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **mrekk** ::{ flag=AU }:: | **6** | 0 | ::{ flag=GB }:: fudge | [#1](https://osu.ppy.sh/multiplayer/rooms/3820424/events) |
-| **MALISZEWSKI** ::{ flag=PL }:: | **6** | 2 | ::{ flag=AU }:: ASecretBox | [#1](https://osu.ppy.sh/multiplayer/rooms/3820909/events) |
-| fudge ::{ flag=GB }:: | 5 | **6** | ::{ flag=AU }:: **ASecretBox** | [#1](https://osu.ppy.sh/multiplayer/rooms/3823652/events) |
-| **mrekk** ::{ flag=AU }:: | **6** | 0 | ::{ flag=PL }:: MALISZEWSKI | [#1](https://osu.ppy.sh/multiplayer/rooms/3824813/events) |
-
-Friday, 31st of July 2026:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| criller ::{ flag=DE }:: | 3 | **5** | ::{ flag=GB }:: **fudge** | [#1](https://osu.ppy.sh/multiplayer/rooms/3810652/events) |
-| **MALISZEWSKI** ::{ flag=PL }:: | **5** | 2 | ::{ flag=NO }:: NINERIK | [#1](https://osu.ppy.sh/multiplayer/rooms/3811596/events) |
-| **ASecretBox** ::{ flag=AU }:: | **5** | 2 | ::{ flag=DE }:: runnysunny | [#1](https://osu.ppy.sh/multiplayer/rooms/3812190/events) |
-| **mrekk** ::{ flag=AU }:: | **5** | 0 | ::{ flag=GB }:: Bubbleman | [#1](https://osu.ppy.sh/multiplayer/rooms/3812815/events) |
-
 Thursday, 30th of July 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
@@ -174,6 +156,24 @@ Thursday, 30th of July 2026:
 | **mrekk** ::{ flag=AU }:: | **W** | FF | ::{ flag=NL }:: Aheo |  |
 | **criller** ::{ flag=DE }:: | **5** | 0 | ::{ flag=FR }:: Hifkil | [#1](https://osu.ppy.sh/multiplayer/rooms/3800230/events) |
 | **runnysunny** ::{ flag=DE }:: | **5** | 2 | ::{ flag=PL }:: gnahus | [#1](https://osu.ppy.sh/multiplayer/rooms/3801021/events) |
+
+Friday, 31st of July 2026:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| criller ::{ flag=DE }:: | 3 | **5** | ::{ flag=GB }:: **fudge** | [#1](https://osu.ppy.sh/multiplayer/rooms/3810652/events) |
+| **MALISZEWSKI** ::{ flag=PL }:: | **5** | 2 | ::{ flag=NO }:: NINERIK | [#1](https://osu.ppy.sh/multiplayer/rooms/3811596/events) |
+| **ASecretBox** ::{ flag=AU }:: | **5** | 2 | ::{ flag=DE }:: runnysunny | [#1](https://osu.ppy.sh/multiplayer/rooms/3812190/events) |
+| **mrekk** ::{ flag=AU }:: | **5** | 0 | ::{ flag=GB }:: Bubbleman | [#1](https://osu.ppy.sh/multiplayer/rooms/3812815/events) |
+
+Saturday, 1st of August 2026:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **mrekk** ::{ flag=AU }:: | **6** | 0 | ::{ flag=GB }:: fudge | [#1](https://osu.ppy.sh/multiplayer/rooms/3820424/events) |
+| **MALISZEWSKI** ::{ flag=PL }:: | **6** | 2 | ::{ flag=AU }:: ASecretBox | [#1](https://osu.ppy.sh/multiplayer/rooms/3820909/events) |
+| fudge ::{ flag=GB }:: | 5 | **6** | ::{ flag=AU }:: **ASecretBox** | [#1](https://osu.ppy.sh/multiplayer/rooms/3823652/events) |
+| **mrekk** ::{ flag=AU }:: | **6** | 0 | ::{ flag=PL }:: MALISZEWSKI | [#1](https://osu.ppy.sh/multiplayer/rooms/3824813/events) |
 
 ### Online play-in stage
 
