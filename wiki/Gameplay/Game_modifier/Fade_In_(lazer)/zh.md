@@ -3,6 +3,8 @@ stub: true
 tags:
   - fadein
   - FI
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Fade In（lazer 模组）
@@ -23,7 +25,7 @@ tags:
 | 类别 | 增加难度 |
 | 默认快捷键 | `H` |
 | 游戏模式 | ![][osu!mania] |
-| 得分系数 | 1.00x |
+| 得分系数 | `1.00x` |
 | 状态 | 计入排名 |
 | 不兼容的模组 | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 

@@ -236,7 +236,10 @@ These sounds are mapped as `S:C1` on beatmap skins:
 
 #### Nightcore mod
 
-*Note: The files are sourced from your skin, but not the beatmap skin.*
+::: alert-notice
+**Notice**
+The files are sourced from your skin, but not the beatmap skin.
+:::
 
 These sounds play on top of the song when the [Nightcore mod](/wiki/Gameplay/Game_modifier/Nightcore) is enabled. In 4/4 time:
 

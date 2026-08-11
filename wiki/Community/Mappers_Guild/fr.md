@@ -3,6 +3,8 @@ no_native_review: true
 tags:
   - Mapper's Guild
   - MG
+outdated_translation: true
+outdated_since: 3610ba210d6c679c0d60201420ee64d700cbcc44
 ---
 
 # Mappers' Guild
@@ -81,7 +83,9 @@ En plus des points généraux de la Guilde des cartographes, les [quêtes priori
 
 ### Showcase beatmap
 
-*Article principal : [Beatmaps showcase des Featured Artists](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)*
+::: alert-note
+**Page principale** : [Beatmaps showcase des Featured Artists](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)
+:::
 
 Les membres de la Mappers' Guild peuvent également participer à la création de beatmaps de présentation pour les futures annonces des Featured Artist. Dès l'annonce du Featured Artist correspondant, ces beatmaps sont mis en avant dans les [posts de news](https://osu.ppy.sh/home/news) et sont souvent promus sur le [Twitter @osugame](https://twitter.com/osugame) également.
 

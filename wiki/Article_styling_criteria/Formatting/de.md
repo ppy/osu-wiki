@@ -4,7 +4,9 @@ no_native_review: true
 
 # Formatierung
 
-*Für die Schriftstandards, siehe: [Artikelgestaltungskriterien/Schrift](../Writing)*
+::: alert-note
+**Anmerkung:** Für die Schriftstandards, siehe [Artikelgestaltungskriterien/Schrift](../Writing)
+:::
 
 ## Locales
 
@@ -50,7 +52,10 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 | `zh.md` | Vereinfachtes Chinesisch | 简体中文 |
 | `zh-tw.md` | Traditionelles Chinesisch (Taiwan) | 繁體中文（台灣） |
 
-*Anmerkung: Die Webseite wird für einen Artikel die ausgewählte Sprache des Lesers wählen. Sollte der Artikel in dieser Sprache nicht verfügbar sein, wird die englische Version angezeigt.*
+::: alert-notice
+**Hinweis**
+Die Webseite wird für einen Artikel die ausgewählte Sprache des Lesers wählen. Sollte der Artikel in dieser Sprache nicht verfügbar sein, wird die englische Version angezeigt.
+:::
 
 ## Titelsektion
 
@@ -58,7 +63,10 @@ Metainformationen müssen sich ganz am Anfang der Datei befinden. Sie sind in [Y
 
 ### Artikel, die Hilfe benötigen
 
-*Anmerkung: Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Ebenso sollte dieses Tag hinzugefügt werden, wenn die Übersetzung selbst aufgeräumt werden muss.*
+::: alert-notice
+**Hinweis**
+Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Ebenso sollte dieses Tag hinzugefügt werden, wenn die Übersetzung selbst aufgeräumt werden muss.
+:::
 
 Das Tag `needs_cleanup` darf bei Artikeln, die überarbeitet werden müssen oder Formatierungshilfe benötigen, hinzugefügt werden. Es ist auch akzeptabel, ein Issue auf GitHub für diesen Zweck zu öffnen. Benutze dieses Tag wie folgt:
 
@@ -70,7 +78,10 @@ Sofern dieses Tag zu einem Artikel hinzugefügt wird, sollten [Kommentare](#komm
 
 ### Nicht mehr aktuelle Artikel
 
-*Anmerkung: Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Wenn der englische Artikel diesen Tag trägt, dann muss die Übersetzung das ebenfalls.*
+::: alert-notice
+**Hinweis**
+Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Wenn der englische Artikel diesen Tag trägt, dann muss die Übersetzung das ebenfalls.
+:::
 
 Englische Artikel können veraltet sein, wenn ihr Inhalt falsch, nicht eindeutig oder nicht mehr relevant ist. Diese Artikel sollten mit dem Tag `outdated` gekennzeichnet werden, welches folgendermaßen geschrieben werden muss:
 
@@ -112,7 +123,10 @@ tags:
 
 ### Übersetzungen ohne Überprüfungen
 
-*Anmerkung: Wiki-Verwalter werden dieses Tag vor dem Mergen setzen, falls notwendig.*
+::: alert-notice
+**Hinweis**
+Wiki-Verwalter werden dieses Tag vor dem Mergen setzen, falls notwendig.
+:::
 
 Manchmal werden Artikel ohne eine Überprüfung eines Muttersprachlers dem Wiki hinzugefügt. In diesem Fall muss das Tag `no_native_review` gesetzt werden, damit zukünftige Übersetzer wissen, dass der Artikel gegebenenfalls nochmals überprüft werden muss:
 
@@ -128,7 +142,9 @@ no_native_review_since: 5539d9e8c943605a7be186dc3f5ab10569275b05 Doryan
 
 ## Artikelbenennung
 
-*Siehe auch: [Ordnernamen](#ordnernamen) und [Titel](#titel)*
+::: alert-note
+**Siehe auch:** [Ordnernamen](#ordnernamen) und [Titel](#titel)
+:::
 
 Artikeltitel sollten im Singular stehen und "Sentence case" verwenden. Siehe [Wikipedias Artikel über die Namensgebung](https://de.wikipedia.org/wiki/Wikipedia:Archiv/Richtlinien_f%C3%BCr_die_Namensgebung:Singular-Plural-Debatte) für mehr Details.
 
@@ -142,7 +158,9 @@ Wettbewerbs- und Turnierartikel sind eine Ausnahme. Der Ordner muss Abkürzungen
 
 ### Ordnernamen
 
-*Siehe auch: [Artikelbenennung](#artikelbenennung)*
+::: alert-note
+**Siehe auch:** [Artikelbenennung](#artikelbenennung)
+:::
 
 Ordnernamen müssen in Englisch sein und "Sentence case" verwenden.
 
@@ -194,7 +212,10 @@ HTML-Kommentare<!-- TODO explain HTML comments --> sollten benutzt werden, um To
 
 ### Zeilenende-Sequenz
 
-*Vorsicht: Markdown-Dateien mit `CRLF` (carriage return and line feed) via GitHub hochzuladen, wird dazu führen, dass diese Dateien `CRLF` benutzen. Um das zu verhindern, setze die Zeilenende-Sequenz auf `LF` (line feed) vor dem Hochladen.*
+::: alert-caution
+**Vorsicht**
+Markdown-Dateien mit `CRLF` (carriage return and line feed) via GitHub hochzuladen, wird dazu führen, dass diese Dateien `CRLF` benutzen. Um das zu verhindern, setze die Zeilenende-Sequenz auf `LF` (line feed) vor dem Hochladen.
+:::
 
 Markdown-Dateien müssen mit der Zeilenende-Sequenz `LF` eingereicht werden.
 
@@ -214,7 +235,9 @@ Zeilenumbrüche sollten nur selten verwendet werden.
 
 ## Kopfnote
 
-*Nicht zu verwechseln mit [Hinweis](#hinweis).*
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Hinweis](#hinweis).
+:::
 
 Kopfnoten sind kleine Notizen im oberen Teil eines Artikels oder eines Abschnitts, um Leser bei der Navigation zu verwandten Artikeln zu helfen oder sie über verwandte Artikel zu informieren.
 
@@ -225,9 +248,13 @@ Kopfnoten müssen in Kursivschrift verfasst sein und direkt unter der Überschri
 Die Kopfnote *Hauptseite* verweist den Leser zum Hauptartikel eines Themas. Wenn diese Kopfnote benutzt wird, wird impliziert, dass der Abschnitt eine Zusammenfassung des verlinkten Artikels ist. Die Kopfnote sollte nur einen Link enthalten. Sie muss wie folgt formatiert sein:
 
 ```markdown
-*Hauptseite: {Artikel}*
+::: alert-note
+**Hauptseite:** {Artikel}
+:::
 
-*Hauptseite: {Artikel} und {Artikel}*
+::: alert-note
+**Hauptseite:** {Artikel} und {Artikel}
+:::
 ```
 
 ### Siehe auch
@@ -235,9 +262,13 @@ Die Kopfnote *Hauptseite* verweist den Leser zum Hauptartikel eines Themas. Wenn
 Kopfnoten mit *Siehe auch* empfehlen dem Leser andere interessante Artikel oder Abschnitte. Diese müssen wie folgt aussehen:
 
 ```markdown
-*Siehe auch: {Artikel}*
+::: alert-note
+**Siehe auch:** {Artikel}
+:::
 
-*Siehe auch: {Artikel} und {Artikel}*
+::: alert-note
+**Siehe auch:** {Artikel} und {Artikel}
+:::
 ```
 
 ### Für siehe
@@ -245,9 +276,13 @@ Kopfnoten mit *Siehe auch* empfehlen dem Leser andere interessante Artikel oder 
 Kopfnoten *Für siehe* sind den Kopfnoten *Siehe auch* ähnlich, aber im Allgemeinen beschreibender und direkter. Diese Kopfnoten dürfen mehrere Links enthalten, falls erforderlich. Sie müssen wie folgt geschrieben werden:
 
 ```markdown
-*Für {Beschreibung}, siehe: {Artikel}*
+::: alert-note
+**Anmerkung:** Für {Beschreibung}, siehe {Artikel}
+:::
 
-*Für {Beschreibung}, siehe: {Artikel} und {Artikel}*
+::: alert-note
+**Anmerkung:** Für {Beschreibung}, siehe {Artikel} und {Artikel}
+:::
 ```
 
 ### Nicht zu verwechseln mit
@@ -255,9 +290,13 @@ Kopfnoten *Für siehe* sind den Kopfnoten *Siehe auch* ähnlich, aber im Allgeme
 Kopfnoten mit *Nicht zu verwechseln mit* helfen dabei, mehrdeutige oder missverständliche Artikel oder Abschnitte besser voneinander zu trennen. Eine solche Kopfnote darf mehrere Links verwenden, falls erforderlich. Sie muss wie folgt formatiert sein:
 
 ```markdown
-*Nicht zu verwechseln mit {Artikel}.*
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit {Artikel}.
+:::
 
-*Nicht zu verwechseln mit {Artikel} oder {Artikel}.*
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit {Artikel} oder {Artikel}.
+:::
 ```
 
 ### Für andere Bedeutungen
@@ -265,26 +304,36 @@ Kopfnoten mit *Nicht zu verwechseln mit* helfen dabei, mehrdeutige oder missvers
 Kopfnoten mit *Für andere Bedeutungen* sind den Kopfnoten mit *Nicht zu verwechseln mit* ähnlich, aber verweisen direkt auf die [Begriffsabgrenzungsseite](#artikel-für-die-begriffsabgrenzung). Eine solche Kopfnote darf nur zum Begriffsabgrenzungsartikel verlinken. Sie muss folgendes Aussehen haben:
 
 ```markdown
-*Für andere Bedeutungen, siehe {Begriffsabgrenzungsseite}.*
+::: alert-note
+**Anmerkung:** {Begriffsabgrenzungsseite}.
+:::
 ```
 
 ## Hinweis
 
-*Nicht zu verwechseln mit [Kopfnote](#kopfnote).*
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Kopfnote](#kopfnote).
+:::
 
 Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werden, allerdings muss dafür ein neuer Paragraf angefangen werden, der Kursivschrift nutzt. Hinweise dürfen Fettschrift enthalten, sofern angemessen, aber dies sollte auf ein Minimum begrenzt werden. Hinweise müssen als ganze Sätze geschrieben werden. Damit müssen Hinweise, nicht wie die meisten [Kopfnoten](#kopfnote), einen Punkt (`.`) oder ein Ausrufezeichen (`!`) verwenden. Alles in einem Paragrafen eines Hinweises muss kursiv sein. Diese Kopfnoten müssen wie folgt formatiert werden:
 
 ```markdown
-*Anmerkung: {Anmerkung}.*
+::: alert-notice
+**Hinweis**
+{Hinweis}.
+:::
 
-*Hinweis: {Hinweis}.*
+::: alert-caution
+**Vorsicht**
+{Vorsicht}.
+:::
 
-*Vorsicht: {Vorsicht}.*
-
-*Warnung: {Warnung}.*
+::: alert-warning
+**Warnung**
+{Warnung}.
+:::
 ```
 
-- `Anmerkung` sollte für Fakten oder triviale Details genutzt werden.
 - `Hinweis` sollte für Erinnerungen genutzt werden oder um den Leser auf etwas aufmerksam zu machen.
 - `Vorsicht` sollte genutzt werden, um den Leser vor unbeabsichtigten Konsequenzen zu warnen.
 - `Warnung` sollte genutzt werden, um den Leser zu warnen, dass gegebenenfalls Maßnahmen gegen ihn ergriffen werden.
@@ -294,8 +343,13 @@ Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werde
 Mehrere Hinweise und Kopfnoten dürfen gestapelt werden, sofern notwendig. Dabei müssen sie ohne eine Leerzeile und mit einem nachfolgenden Backslash gestapelt werden:
 
 ```markdown
-*Warnung: {Warnung}.*\
-*Siehe auch: {Artikel}*
+::: alert-warning
+**Warnung:** {Warnung}.
+:::
+
+::: alert-note
+**Siehe auch:** {Artikel}
+:::
 ```
 
 In vielen Fällen kann es sinnvoller sein, fremde Hinweise oder Kopfnoten in den Text eines Absatzes einzubetten, anstatt viele von ihnen zu stapeln.
@@ -356,8 +410,13 @@ Alle Überschriften müssen "Sentence case" benutzen.
 
 ### Titel
 
-*Siehe auch: [Artikelbenennung](#artikelbenennung)*\
-*Vorsicht: Titel werden als Klartext verarbeitet, sie dürfen nicht escaped werden.*
+::: alert-note
+**Siehe auch:** [Artikelbenennung](#artikelbenennung)
+:::
+
+::: alert-caution
+**Vorsicht:** Titel werden als Klartext verarbeitet, sie dürfen nicht escaped werden.
+:::
 
 Die erste Überschrift muss in allen Artikeln das Level 1 haben, da es der Artikeltitel ist. Alle Überschriften danach müssen [Abschnittstitel](#abschnitte) sein. Titel dürfen keine Formatierung, Links oder Bilder enthalten.
 
@@ -369,7 +428,10 @@ Abschnittstitel müssen die Level 2 bis 5 verwenden. Der Abschnittstitel nach de
 
 Abschnittstitel dürfen kein Titellevel überspringen (also gehe nicht von einem Level 2 Titel auf Level 4) und keine Formatierungen oder Links enthalten.
 
-*Hinweis: Auf dieser Webseite erscheinen Level 4 und Level 5 Titel nicht im Inhaltsverzeichnis.*
+::: alert-notice
+**Hinweis**
+Auf dieser Webseite erscheinen Level 4 und Level 5 Titel nicht im Inhaltsverzeichnis.
+:::
 
 ### Benutzerdefinierte Kennungen
 
@@ -462,7 +524,10 @@ Das Mark-up für Code ist ein Akut (`` ` ``). Um Akute in Code zu platzieren, nu
 
 ### Tastaturtasten
 
-*Hinweis: Wenn der Buchstabe selbst (und nicht die Tastaturtaste) gemeint ist, nutze stattdessen Anführungszeichen.*
+::: alert-notice
+**Hinweis**
+Wenn der Buchstabe selbst (und nicht die Tastaturtaste) gemeint ist, nutze stattdessen Anführungszeichen.
+:::
 
 Bei der Darstellung von Tastaturtasten müssen Großbuchstaben für einzelne Buchstaben und "Title case" für Modifikationen verwendet werden. Benutze des Plus-Symbol (`+`) (ohne Code), um Tastaturkürzel darzustellen. (Beispiel unten gezeigt.)
 
@@ -508,7 +573,10 @@ Um osu! zu spielen, mache einen Doppelklick auf das Symbol `osu!.exe`.
 
 ### Dateierweiterungen
 
-*Hinweis: Dateiformate (nicht zu verwechseln mit Dateierweiterungen) müssen in Großbuchstaben ohne einen Punkt (`.`) davor geschrieben werden.*
+::: alert-notice
+**Hinweis**
+Dateiformate (nicht zu verwechseln mit Dateierweiterungen) müssen in Großbuchstaben ohne einen Punkt (`.`) davor geschrieben werden.
+:::
 
 Dateierweiterungen müssen mit einem Punkt (`.`), und gefolgt von der Dateierweiterung in Kleinbuchstaben, notiert werden. (Beispiele unten gezeigt.)
 
@@ -526,13 +594,18 @@ In `#lobby` kannst du deinen Mehrspielerraum bewerben.
 
 ## Vorformatierter Text (Codeblöcke)
 
-*Hinweis: Syntaxhervorhebung für vorformatierten Text ist noch nicht implementiert in der Webseite.*
+::: alert-notice
+**Hinweis**
+Syntaxhervorhebung für vorformatierten Text ist noch nicht implementiert in der Webseite.
+:::
 
 Vorformatierter Text (auch bekannt als Codeblöcke) muss mit drei Akuten umrandet sein. Die Sprachkennung für die Syntaxhervorhebung sollte gesetzt sein.
 
 ## Links
 
-*Siehe auch: [Fußnoten](#fußnoten)*
+::: alert-note
+**Siehe auch:** [Fußnoten](#fußnoten)
+:::
 
 Es gibt zwei Arten von Links: Inline und als Verweis. Inline hat zwei Stile.
 
@@ -558,7 +631,10 @@ Links müssen den Inline-Stil benutzen, wenn sie nur einmal referenziert werden.
 
 ### Interne Links
 
-*Anmerkung: Mit internen Links sind Links gemeint, die in der Domäne `https://osu.ppy.sh/` liegen.*
+::: alert-notice
+**Hinweis**
+Mit internen Links sind Links gemeint, die in der Domäne `https://osu.ppy.sh/` liegen.
+:::
 
 #### Wiki-Links
 
@@ -594,17 +670,24 @@ Gute Beispiele:
 Wiki-Links, die zu einem Unterartikel zeigen, sollten den Namen des übergeordneten Ordners in ihrem Linktext haben. Siehe das folgende Beispiel:
 
 ```markdown
-*Siehe auch: [Beatmap-Editor/Design](/wiki/Client/Beatmap_editor/Design)*
+::: alert-note
+**Siehe auch:** [Beatmap-Editor/Design](/wiki/Client/Beatmap_editor/Design)
+:::
 ```
 
 ##### Links zu Abschnitten
 
-*Hinweis: Den Überschriftenleveln 4 und 5 wird keine Kennung zugewiesen. D. h., dass nicht direkt auf sie verwiesen werden kann.*
+::: alert-notice
+**Hinweis**
+Den Überschriftenleveln 4 und 5 wird keine Kennung zugewiesen. D. h., dass nicht direkt auf sie verwiesen werden kann.
+:::
 
 Wiki-Links, die zu einem Abschnitt eines Artikels zeigen, dürfen das Paragraphenzeichen (`§`) benutzen. Siehe folgendes Beispiel:
 
 ```markdown
-*Für Regeln über das Timing, siehe: [Ranking-Kriterien § Timing](/wiki/Ranking_criteria#timing)*
+::: alert-note
+**Anmerkung:** Für Regeln über das Timing, siehe [Ranking-Kriterien § Timing](/wiki/Ranking_criteria#timing)
+:::
 ```
 
 #### Andere osu!-Links
@@ -651,14 +734,19 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
 
 ### Externe Links
 
-*Hinweis: Mit externen Links sind Links gemeint, die außerhalb der Domäne `https://osu.ppy.sh/` liegen.*
+::: alert-notice
+**Hinweis**
+Mit externen Links sind Links gemeint, die außerhalb der Domäne `https://osu.ppy.sh/` liegen.
+:::
 
 Das Protokoll `https` muss benutzt werden, es sei denn, die Seite unterstützt dies nicht. Externe Links müssen einen klaren und direkten Link zu einer seriösen Quelle sein. Die URL aus der Adressleiste deines Webbrowsers sollte so kopiert werden, wie sie bei der Verlinkung auf externe Seiten verwendet wird.
 
 Es gibt keine visuellen Unterschiede zwischen externen und osu!-internen Links. Deshalb sollte der Name der Webseite im Linktext enthalten sein. Siehe das folgende Beispiel:
 
 ```markdown
-*Für mehr Informationen über die Musiktheorie, siehe: [Musiktheorie](https://de.wikipedia.org/wiki/Musiktheorie)*
+::: alert-note
+**Anmerkung:** Für mehr Informationen über die Musiktheorie, siehe [Musiktheorie](https://de.wikipedia.org/wiki/Musiktheorie)
+:::
 ```
 
 ## Bilder
@@ -727,7 +815,10 @@ Alternativ kann auch [ezgif.com](https://ezgif.com/) verwendet werden, um Bilder
 
 ### Dateinamen
 
-*Hinweis: Dateierweiterungen müssen Kleinschreibung verwenden, ansonsten werden sie nicht geladen!*
+::: alert-notice
+**Hinweis**
+Dateierweiterungen müssen Kleinschreibung verwenden, ansonsten werden sie nicht geladen!
+:::
 
 Benutze Bindestriche (`-`), um Wörter voneinander abzutrennen. Bei der Benennung eines Bildes sollte der Name klar oder beschreibend, aber kurz sein.
 
@@ -757,7 +848,10 @@ Alle Screenshots des Spielverlaufs müssen in der Updatequelle Stable gemacht we
 
 #### Einstellungen des Spiel-Clients
 
-*Anmerkung: Wenn du deine aktuellen Einstellungen für das Wiki nicht ändern möchtest, dann kannst du die Datei `osu!.<ComputerUser>.cfg` aus deinem osu!-Ordner entfernen und später wieder hinzufügen.*
+::: alert-notice
+**Hinweis**
+Wenn du deine aktuellen Einstellungen für das Wiki nicht ändern möchtest, dann kannst du die Datei `osu!.<ComputerUser>.cfg` aus deinem osu!-Ordner entfernen und später wieder hinzufügen.
+:::
 
 Du musst diese Einstellungen im Spiel-Client haben, bevor du einen Screenshot erstellst (Einstellungen, die unten nicht genannt werden, sollten auf ihrem Standardwert stehen):
 
