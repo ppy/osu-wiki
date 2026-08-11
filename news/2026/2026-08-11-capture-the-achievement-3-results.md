@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Capture The Achievement 3 Results
-date: 2026-08-10 20:00:00 +0000
+date: 2026-08-11 08:00:00 +0000
 series: online_events
 ---
 
