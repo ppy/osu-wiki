@@ -17,9 +17,17 @@ tags:
 
 ![Icono del mod AT](/wiki/shared/mods/AT.png "Icono del mod Auto (AT)")
 
-*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Autoplay (mod de lazer)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer))*\
-*Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
-*No debe confundirse con [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot).*
+::: alert-note
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Autoplay (mod de lazer)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer))
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de los mods, véase [Modificadores del juego](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Nota:** No debe confundirse con [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot).
+:::
 
 ## Resumen
 
@@ -32,7 +40,10 @@ tags:
 
 ## Descripción
 
-*Aviso: Activar el mod Auto hará que la jugada no se clasifique y no se guardará en la tabla de clasificación local.*
+::: alert-notice
+**Aviso**
+Activar el mod Auto hará que la jugada no se clasifique y no se guardará en la tabla de clasificación local.
+:::
 
 El mod **Auto** es un [modificador del juego](/wiki/Gameplay/Game_modifier) que permite a los jugadores ver una repetición perfecta del beatmap seleccionado.
 

@@ -1,5 +1,7 @@
 ---
 needs_cleanup: true
+outdated_translation: true
+outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
 ---
 
 <!-- TODO: 仍需进一步重写：https://github.com/ppy/osu-wiki/issues/7165 -->

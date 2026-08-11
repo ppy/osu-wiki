@@ -14,7 +14,9 @@ tags:
 
 # Note
 
-*Für andere Bedeutungen, siehe [Rang (Begriffsabgrenzung)](/wiki/Disambiguation/Rank).*
+::: alert-note
+**Anmerkung:** [Rang (Begriffsabgrenzung)](/wiki/Disambiguation/Rank).
+:::
 
 **Noten** sind eine Reihe an Buchstaben, die die Leistung des Spielers auf einer bestimmten [Beatmap](/wiki/Beatmap) repräsentieren. Sie begleiten die [Gesamtpunktzahl](/wiki/Gameplay/Score) auf der Ergebnisanzeige und tauchen in allen Listen an der Seite von Scores auf.
 

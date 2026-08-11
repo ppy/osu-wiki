@@ -1,6 +1,9 @@
 # Staff log 2011
 
-*Note: Some users' history may be incomplete during this year.*
+::: alert-notice
+**Notice**
+Some users' history may be incomplete during this year.
+:::
 
 ## January
 

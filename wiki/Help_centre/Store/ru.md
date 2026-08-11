@@ -2,10 +2,8 @@
 tags:
   - store
   - product
-  - keycap
-  - keycaps
-  - deskmat
-  - deskmats
+  - tablet
+  - osu!tablet
   - магазин
   - онлайн магазин
   - онлайн-магазин
@@ -15,12 +13,8 @@ tags:
   - товар
   - товары
   - символика
-  - кейкап
-  - кейкапы
-  - коврик
-  - коврики
-outdated_translation: true
-outdated_since: 885d4da2a854ef0af5ad0243ba70a76dbdc486e5
+  - планшет
+  - осу планшет
 ---
 
 # Магазин osu!store и мерч
@@ -48,17 +42,9 @@ outdated_since: 885d4da2a854ef0af5ad0243ba70a76dbdc486e5
 
 ## Мне нужна помощь с конкретным продуктом!
 
-### Кейкапы osu! {id=osu!-keycaps}
+### Планшет osu! {id=osu!tablet}
 
-За изготовление и отправку [кейкапов osu!](https://www.thekapco.com/products/osu-pippi-keycap-set) (англ. *osu! keycaps*) отвечает The KapCo, так что в случае проблем лучше [жаловаться их сервису поддержки](https://www.thekapco.com/pages/faqs).
-
-Если от The KapCo не получилось добиться ответа, напишите нам на [merch@ppy.sh](mailto:merch@ppy.sh).
-
-### Коврики osu! {id=osu!-deskmat}
-
-Большинство заказов отправляются со склада в США, но [коврики osu!](https://osu.ppy.sh/store/products/1347) (англ. *osu! deskmats*) могут выехать как из США, так и из Великобритании или Австралии, так что с каждым заказом надо разбираться отдельно.
-
-В случае любых проблем с ковриками свяжитесь с нами через [merch@ppy.sh](mailto:merch@ppy.sh), объяснив проблему и указав номер заказа.
+[Планшеты osu! (intro)](https://osu.ppy.sh/store/products/1447), в отличие от большинства мерча osu!, хранящегося на складе в США, отправляются из Гонконга через Hongkong Post e-Express+. Из-за торговых ограничений между Гонконгом и США эти планшеты нельзя заказать на адрес, расположенный в США.
 
 ## Мне нужна помощь с чем-то другим {id=none}
 

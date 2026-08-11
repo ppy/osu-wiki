@@ -13,9 +13,17 @@ tags:
 
 ![Icono del mod HD](/wiki/shared/mods/HD.png "Icono del mod Hidden (HD)")
 
-*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Hidden (mod de lazer)](/wiki/Gameplay/Game_modifier/Hidden_(lazer))*\
-*Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
-*No debe confundirse con [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In) o [Flashlight (mod)](/wiki/Gameplay/Game_modifier/Flashlight).*
+::: alert-note
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Hidden (mod de lazer)](/wiki/Gameplay/Game_modifier/Hidden_(lazer))
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de los mods, véase [Modificadores del juego](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Nota:** No debe confundirse con [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In) o [Flashlight (mod)](/wiki/Gameplay/Game_modifier/Flashlight).
+:::
 
 ## Resumen
 
