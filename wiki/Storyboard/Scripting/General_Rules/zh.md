@@ -78,7 +78,7 @@ outdated_translation: true
 - 否则为失败状态（即出现“X”符号）。
   - 在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，在一定时间点达到一定限额时。参考以下两个例子：
     - 示例一：血条仍处于 40% 时准确率为 96.5% 可获得“通过”而非“失败”。
-    - 示例二：在大约 30 个物件中得到太多 100，以及血条仍约处于 30% 时获得 D 评价，会导致“失败”（此情况参见[ZUN - Maiden's Cappricio ~ Dream Battle](https://osu.ppy.sh/beatmapsets/18005#taiko/69556)）。
+    - 示例二：在大约 30 个物件中得到太多 100，以及血条仍约处于 30% 时获得 D 评级，会导致“失败”（此情况参见[ZUN - Maiden's Cappricio ~ Dream Battle](https://osu.ppy.sh/beatmapsets/18005#taiko/69556)）。
 
 若谱面至少有一个休息时段，在上一游玩时间后的状态：
 
