@@ -6,8 +6,6 @@ tags:
   - cola calificada
   - cola clasificada
   - clasificación ETA
-outdated_translation: true
-outdated_since: 55251cc0edf3384a252501990da9c48370a8748f
 ---
 
 # Cola de clasificación de beatmaps
@@ -16,9 +14,9 @@ La **cola de clasificación** gestiona el movimiento de [beatmaps](/wiki/Beatmap
 
 Un temporizador de 7 días se establece cuando un beatmap es calificado. Cuenta cuántos días debe permanecer un beatmap calificado antes de que pueda ser clasificado. Cuando el temporizador de un beatmap llega a cero, es elegible para ser clasificado ese día. La hora exacta del día en que se clasifican los beatmaps es aleatoria.
 
-Los problemas o sugerencias publicados en la página de discusión de un beatmap no detendrán el contador, pero impedirán que se clasifique una vez que el contador llegue a cero en 7 días. Una vez que se hayan resuelto todos los problemas y sugerencias, el beatmap podrá ser clasificado.
+Los problemas o sugerencias publicados en la página de discusión de un beatmap no detendrán el contador, pero impedirán que el beatmap se clasifique una vez que el contador llegue a cero en 7 días. Una vez que se hayan resuelto todos los problemas y sugerencias, el beatmap podrá ser clasificado.
 
-Algunos beatmaps pueden quedar paralizados y no entrar en la cola de clasificación por diversas razones, normalmente debido a la falta del cierre de los problemas abiertos o las sugerencias pendientes. Sin embargo, cualquier beatmap cuyos problemas no se hayan solucionado tras un periodo de **48 horas** desde su fecha de calificación original será [descalificado](/wiki/Beatmap_ranking_procedure#restablecimiento-de-nominaciones) por el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Estos pueden volver a calificarse una vez que se hayan resuelto todos los problemas, lo que puede alterar el temporizador. Los beatmaps pueden ser descalificados antes de tiempo para aplicar los cambios de las discusiones ya resueltas.
+Algunos beatmaps calificados pueden quedar paralizados y no ser clasificados por diversas razones, normalmente debido a la falta del cierre de los problemas abiertos o las sugerencias pendientes. Cualquier beatmap con problemas que no se hayan resuelto tras un plazo de **48 horas** desde la fecha en la que debía haber sido clasificado será [descalificado](/wiki/Beatmap_ranking_procedure#restablecimiento-de-nominaciones) por el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Una vez resueltos todos los problemas, el beatmap podrá volver a ser calificado, lo que puede modificar el contador. Los beatmaps también pueden ser descalificados antes de lo previsto para aplicar los cambios acordados en las discusiones ya resueltas.
 
 Los beatmaps que se encuentran paralizados por razones excepcionales, como haber sido sometidos a un [veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) o estar siendo sometidos a una [votación de moderación de contenido](/wiki/Rules/Content_voting_process), están exentos de los límites mencionados anteriormente y serán gestionados adecuadamente por el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) o el [Global Moderation Team](/wiki/People/Global_Moderation_Team), respectivamente.
 
