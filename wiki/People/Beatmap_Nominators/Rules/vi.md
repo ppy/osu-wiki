@@ -6,7 +6,7 @@ Người đề cử beatmap có công cụ để đề cử beatmap và định 
 
 ## Kỳ vọng 
 
-Tất cả những người đề cử beatmap đều được kỳ vọng sẽ cố nỗ lực tuân thủ theo các nguyên tắc được nêu trong bài viết [kỳ vọng đối với người đề cử beatmap](/wiki/People/Beatmap_Nominators/Expectations)
+Tất cả những người đề cử beatmap đều được kỳ vọng sẽ nỗ lực tuân thủ theo các nguyên tắc được nêu trong bài viết [kỳ vọng đối với người đề cử beatmap](/wiki/People/Beatmap_Nominators/Expectations)
 
 Hành vi sai trái kéo dài đối với những kỳ vọng là căn cứ để loại bỏ theo quyết định của NAT.
 
@@ -37,8 +37,8 @@ Khi một đợt đánh giá người đề cử beatmap được tạo ra và h
 - **Không đề cử các beatmap mà bạn có đóng góp trong đó.** Điều này bao gồm bất kỳ đóng góp quan trọng như là việc mapping, hitsound, storyboard, skin hoặc điều chỉnh tốc độ nốt.
 - **Không đề cử một beatmap chưa được kiểm tra kỹ lưỡng tất cả độ khó trong chế độ mà bạn đang đề cử.** Việc kiểm tra không đầy đủ bao gồm việc chạy công cụ modding trước khi đề cử hoặc không tải beatmap về.
 - **Không đề cử beatmap nếu bạn không chắc về điều gì đó.** Trong những trường hợp này, hãy hỏi người đề cử khác để giúp đỡ trước khi quyết định một cách vội vàng. Điều này bao gồm không quen thuộc với chế độ trò chơi, nghi ngờ về vùng xám/vấn đề không thể xếp hạng, về chất lượng hoặc thời gian phức tạp.
-- **Không đề cử một beatmap nếu bạn không thể đánh giá hợp lý.** Khả năng đánh giá beatmap hợp lý dựa trên việc chơi thử hoặc kinh nghiệm modding là một phần cốt lõi đối với chất lượng của beatmap. Nếu bạn không có đủ kỹ năng chơi hoặc kinh nghiệm modding, chúng tôi có thể đặt nghi vấn về khả năng đánh giá của bạn. 
-- **Đảm bảo không có bài đăng mod nào trong [thảo luận beatmap](/wiki/Beatmap_discussion) bị bỏ qua trước khi đề cử một beatmap.** Các bài đăng chưa có phản hồi đầy đủ có thể được tính như đã bỏ qua. Nếu có nghi ngờ về vấn đề nào đó, kiểm tra lại nếu bộ Quy Tắc Ứng Xử Với Mapping Và Modding bị vi phạm trên cuộc thảo luận beatmap và hành động phù hợp. 
+- **Không đề cử một beatmap nếu bạn không thể đánh giá hợp lý.** Khả năng đánh giá beatmap hợp lý dựa trên việc chơi thử hoặc kinh nghiệm modding là một phần cốt lõi đối với chất lượng của beatmap. Nếu bạn không có đủ kỹ năng chơi hoặc kinh nghiệm modding, chúng tôi có thể đặt nghi vấn về năng lực của bạn. 
+- **Đảm bảo không có bài đăng mod nào trong [thảo luận beatmap](/wiki/Beatmap_discussion) bị bỏ qua trước khi đề cử beatmap.** Các bài đăng không có thông tin đầy đủ có thể tính như đã bỏ qua. Nếu có nghi ngờ về vấn đề nào đó, kiểm tra lại nếu bộ Quy Tắc Ứng Xử Với Mapping Và Modding bị vi phạm trên cuộc thảo luận beatmap và hành động phù hợp. 
 
 ### Trạng thái đủ tư cách
 
