@@ -2,7 +2,7 @@
 
 ![](img/banner.jpg)
 
-The **COE 2026 1v1 Tournament** is a 1v1 single-elimination osu! LAN tournament run entirely in the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client, and hosted during [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event) 2026 (COE 2026) at Brabanthallen in 's-Hertogenbosch, Netherlands. It is the sixth instalment of the COE tournament series.
+The **COE 2026 1v1 Tournament** was a 1v1 osu! LAN tournament run entirely in the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client, and hosted during [cavoe's osu! event 2026 (COE 2026)](/wiki/Community/cavoe's_osu!_event/2026) at Brabanthallen in 's-Hertogenbosch, Netherlands. It was the sixth instalment of the COE tournament series.
 
 ## Tournament schedule
 
@@ -16,16 +16,16 @@ The **COE 2026 1v1 Tournament** is a 1v1 single-elimination osu! LAN tournament 
 
 ## Prizes
 
-The COE 2026 1v1 Tournament prizes are yet to be announced.
+The COE 2026 1v1 Tournament offered a total cash prize pool of 4900€, keyboards provided by [Wooting](https://wooting.io/) and several merch items from [COE](https://cavoe.events), including keychains, pins, mousepads and water bottles.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1200€, Wooting 60HE v2 keyboard, COE merchandise *TBA* |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 750€, Wooting 80HE keyboard, COE merchandise *TBA* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 500€, Wooting 60HE+ keyboard, COE merchandise *TBA* |
-| 4th place | 350€, COE merchandise *TBA* |
-| 5th–8th place | 250€, COE merchandise *TBA* |
-| 9th–16th place | 150€, COE merchandise *TBA* |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1500€, Wooting 60HE v2 keyboard, COE keychains, COE pins, COE mousepad, COE Water Bottle |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1000€, Wooting 80HE keyboard, COE keychains, COE pins, COE mousepad, COE Water Bottle |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 500€, Wooting 60HE+ keyboard, COE keychains, COE pins, COE mousepad, COE Water Bottle |
+| 4th place | 300€, COE keychains, COE pins, COE mousepad |
+| 5th–8th place | 200€, COE keychains, COE pins |
+| 9th–16th place | 100€, COE keychains |
 
 ## Organisation
 
@@ -70,9 +70,9 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | *TBD* |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *TBD* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *TBD* |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) |
 
 ## Mappools
 
@@ -144,24 +144,6 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 
 The bracket for the offline stage can be found [here](https://liquipedia.net/osu/COE/2026#Results).
 
-Saturday, 1st of August 2026:
-
-| Player 1 |  |  | Player 2 | Match link/time |
-| --: | :-: | :-: | :-- | :-- |
-| **mrekk** ::{ flag=AU }:: | **6** | 0 | ::{ flag=GB }:: fudge | [#1](https://osu.ppy.sh/multiplayer/rooms/3820424/events) |
-| MALISZEWSKI ::{ flag=PL }:: | 0 | 0 | ::{ flag=AU }:: ASecretBox | 15:15 CEST |
-| fudge ::{ flag=GB }:: | 0 | 0 | *Loser of MALISZEWSKI/ASecretBox* | 19:30 CEST |
-| mrekk ::{ flag=AU }:: | 0 | 0 | *Winner of MALISZEWSKI/ASecretBox* | 21:00 CEST |
-
-Friday, 31st of July 2026:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| criller ::{ flag=DE }:: | 3 | **5** | ::{ flag=GB }:: **fudge** | [#1](https://osu.ppy.sh/multiplayer/rooms/3810652/events) |
-| **MALISZEWSKI** ::{ flag=PL }:: | **5** | 2 | ::{ flag=NO }:: NINERIK | [#1](https://osu.ppy.sh/multiplayer/rooms/3811596/events) |
-| **ASecretBox** ::{ flag=AU }:: | **5** | 2 | ::{ flag=DE }:: runnysunny | [#1](https://osu.ppy.sh/multiplayer/rooms/3812190/events) |
-| **mrekk** ::{ flag=AU }:: | **5** | 0 | ::{ flag=GB }:: Bubbleman | [#1](https://osu.ppy.sh/multiplayer/rooms/3812815/events) |
-
 Thursday, 30th of July 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
@@ -174,6 +156,24 @@ Thursday, 30th of July 2026:
 | **mrekk** ::{ flag=AU }:: | **W** | FF | ::{ flag=NL }:: Aheo |  |
 | **criller** ::{ flag=DE }:: | **5** | 0 | ::{ flag=FR }:: Hifkil | [#1](https://osu.ppy.sh/multiplayer/rooms/3800230/events) |
 | **runnysunny** ::{ flag=DE }:: | **5** | 2 | ::{ flag=PL }:: gnahus | [#1](https://osu.ppy.sh/multiplayer/rooms/3801021/events) |
+
+Friday, 31st of July 2026:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| criller ::{ flag=DE }:: | 3 | **5** | ::{ flag=GB }:: **fudge** | [#1](https://osu.ppy.sh/multiplayer/rooms/3810652/events) |
+| **MALISZEWSKI** ::{ flag=PL }:: | **5** | 2 | ::{ flag=NO }:: NINERIK | [#1](https://osu.ppy.sh/multiplayer/rooms/3811596/events) |
+| **ASecretBox** ::{ flag=AU }:: | **5** | 2 | ::{ flag=DE }:: runnysunny | [#1](https://osu.ppy.sh/multiplayer/rooms/3812190/events) |
+| **mrekk** ::{ flag=AU }:: | **5** | 0 | ::{ flag=GB }:: Bubbleman | [#1](https://osu.ppy.sh/multiplayer/rooms/3812815/events) |
+
+Saturday, 1st of August 2026:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **mrekk** ::{ flag=AU }:: | **6** | 0 | ::{ flag=GB }:: fudge | [#1](https://osu.ppy.sh/multiplayer/rooms/3820424/events) |
+| **MALISZEWSKI** ::{ flag=PL }:: | **6** | 2 | ::{ flag=AU }:: ASecretBox | [#1](https://osu.ppy.sh/multiplayer/rooms/3820909/events) |
+| fudge ::{ flag=GB }:: | 5 | **6** | ::{ flag=AU }:: **ASecretBox** | [#1](https://osu.ppy.sh/multiplayer/rooms/3823652/events) |
+| **mrekk** ::{ flag=AU }:: | **6** | 0 | ::{ flag=PL }:: MALISZEWSKI | [#1](https://osu.ppy.sh/multiplayer/rooms/3824813/events) |
 
 ### Online play-in stage
 

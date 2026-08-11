@@ -272,6 +272,7 @@ If your inquiry is urgent and you aren't getting a timely response, please conta
 - Your entry must consist of **exactly one difficulty** that contains an interactive experience — storyboard-only entries aren't allowed.
 - You may only participate in **one** entry for this contest.
 - All assets in your entry must either be created by you or be permitted by license or explicit approval to be used. Direct contribution or commission of any part of the entry from a third party is **not** allowed.
+- The size of the compressed archive (`.osz`/`.olz`) **must** be smaller than `5 * 1024^2 + map_length_seconds * 166667` bytes, where `map_length_seconds` is the end time of the last hit object. The maximum size is 200,000,000 bytes. This corresponds to osu!(lazer)'s beatmap submission limit.
 
 ### Operational rules
 
