@@ -207,7 +207,7 @@ This achievement is on the easier side, but includes a funny video that brings t
 | Creator | ::{ flag=CA }:: [yandax](https://osu.ppy.sh/users/17465623) |
 | Completions | 28 |
 | Solution | [Click here](https://cta.sheppsu.me/achievements/411) |
-| First completion | ::{ flag=BE }:: [Supernye](https://osu.ppy.sh/users/16197865) after 1 hour and 26 minutes |
+| First completion | ::{ flag=AU }:: [Supernye](https://osu.ppy.sh/users/16197865) after 1 hour and 26 minutes |
 
 Read [yandax's writeup](https://yanda-dy.github.io/cta3-external/solutions_e654eec7da8c767f/solutions.html#li-le-spt-puzz) for extra insight.
 
@@ -261,7 +261,7 @@ Read [yandax's writeup](https://yanda-dy.github.io/cta3-external/solutions_e654e
 | Creator | ::{ flag=US }:: [Hatsuratsu](https://osu.ppy.sh/users/18319269) |
 | Completions | 14 |
 | Solution | [Click here](https://cta.sheppsu.me/achievements/456) |
-| First completion | ::{ flag=US }:: [KebabONIICHAN](https://osu.ppy.sh/users/33565719) after 1 hour and 20 minutes |
+| First completion | ::{ flag=FR }:: [KebabONIICHAN](https://osu.ppy.sh/users/33565719) after 1 hour and 20 minutes |
 
 <div class="news-chat-quote__text-container">
 
