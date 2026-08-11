@@ -5,7 +5,9 @@ tags:
 
 # Nomination Assessment Team
 
-*See also: [Beatmap Nominator evaluations](Evaluations), [SEV rating](SEV_rating)*
+::: alert-note
+**See also:** [Beatmap Nominator evaluations](Evaluations), [SEV rating](SEV_rating)
+:::
 
 The **Nomination Assessment Team** (***NAT***) is a team that moderates the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) and ensures the beatmapping side of osu! stays functional.
 
@@ -59,7 +61,9 @@ The team leaders will confront inactive NAT members, or members who fail to prov
 
 ## Benefits
 
-*See also: [Departure from the NAT](#departure-from-the-nat)*
+::: alert-note
+**See also:** [Departure from the NAT](#departure-from-the-nat)
+:::
 
 NAT members are granted the following benefits:
 
@@ -120,7 +124,10 @@ The NAT leader aims to cover the following tasks:
 
 ## Team members
 
-*Note: All NAT members speak English in addition to the language(s) listed below unless noted otherwise.*
+::: alert-notice
+**Notice**
+All NAT members speak English in addition to the language(s) listed below unless noted otherwise.
+:::
 
 The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members. In addition to areas mentioned below, all NAT members take part in [reviewing audio and visual content included in beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
 

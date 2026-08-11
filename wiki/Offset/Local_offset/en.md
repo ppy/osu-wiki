@@ -5,7 +5,9 @@ tags:
 
 # Local offset
 
-*For other uses, see [Offset](/wiki/Offset).*
+::: alert-note
+**Note:** [Offset](/wiki/Offset).
+:::
 
 **Local offset** (or less commonly *offline offset*) is a setting which moves the appearance of [hit objects](/wiki/Gameplay/Hit_object) in relation to the audio of individual [beatmaps](/wiki/Beatmap). This can be helpful for players who experience auditory or visual delays. Local song offset works alongside the [global offset](/wiki/Offset/Universal_offset) to calculate a total offset.
 

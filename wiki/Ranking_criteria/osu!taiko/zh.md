@@ -8,7 +8,9 @@
 
 ### 难度名
 
-*主页面：[难度命名](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**主文章：** [难度命名](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu

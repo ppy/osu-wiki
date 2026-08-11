@@ -16,7 +16,9 @@ tags:
 
 # Título de usuario
 
-*Para obtener una lista de personas que han obtenido títulos de usuario especiales, véase [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles).*
+::: alert-note
+**Nota:** Para obtener una lista de personas que han obtenido títulos de usuario especiales, véase [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles).
+:::
 
 ![Captura de pantalla de la información del perfil de Ephemeral](img/dev.png?1 "El título «osu!team» se puede ver cerca de la parte superior del perfil de Ephemeral.")
 

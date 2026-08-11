@@ -93,7 +93,10 @@ tags:
 | ::{ flag=LV }:: [hikota](https://osu.ppy.sh/users/12946286) | [hikota](https://osu.ppy.sh/beatmaps/artists/463) |
 | ::{ flag=US }:: [hornshoes](https://osu.ppy.sh/users/4057967) | [Strelitzia](https://osu.ppy.sh/beatmaps/artists/421) (成员) |
 | ::{ flag=JP }:: [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
+| ::{ flag=US }:: [itsawo](https://osu.ppy.sh/users/4636731) | [awoKen](https://osu.ppy.sh/beatmaps/artists/554) |
 | ::{ flag=AU }:: [J3C](https://osu.ppy.sh/users/15956540) | [jeko](https://osu.ppy.sh/beatmaps/artists/538) |
+| ::{ flag=US }:: [jinobeats](https://osu.ppy.sh/users/24763122) | [JinoBeats](https://osu.ppy.sh/beatmaps/artists/477) |
+| ::{ flag=CZ }:: [jjen](https://osu.ppy.sh/users/35876683) | [acromanic](https://osu.ppy.sh/beatmaps/artists/555) |
 | ::{ flag=PH }:: [JuwubiDTM](https://osu.ppy.sh/users/36335947) | [Juwubi](https://osu.ppy.sh/beatmaps/artists/490) |
 | ::{ flag=US }:: [Juztan](https://osu.ppy.sh/users/14272451) | [Juztan](https://osu.ppy.sh/beatmaps/artists/531) |
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |

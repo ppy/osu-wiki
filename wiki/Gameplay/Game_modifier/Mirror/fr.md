@@ -11,7 +11,9 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ![Icône du mod MR](/wiki/shared/mods/MR.png "Icône du mod Mirror (MR)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
 
 ## À propos
 

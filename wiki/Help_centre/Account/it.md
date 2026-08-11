@@ -14,8 +14,6 @@ tags:
   - flag change
   - change flag
   - wrong flag
-outdated_translation: true
-outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Account
@@ -54,7 +52,7 @@ Fai riferimento a *[Restrizioni dell'Account](/wiki/Help_centre/Account_restrict
 
 I ban dai tornei sono ciò che il nome descrive — un divieto di partecipazione in tutti i tornei supportati ufficialmente.
 
-Fai riferimento all'articolo [Ban dai Tornei](/wiki/Help_centre/Tournament_bans) per maggiori informazioni sull'argomento.
+Fai riferimento all'articolo [Sanzioni nei tornei](/wiki/Help_centre/Tournament_sanctions) per maggiori informazioni sull'argomento.
 
 ## Accesso {id=sign-in}
 
@@ -79,13 +77,13 @@ Se ciò funziona, potrai resettare la password senza aver bisogno dell'assistenz
 
 Se questo non funziona per te, per favore mandaci un ticket di supporto immediatamente a [accounts@ppy.sh](mailto:accounts@ppy.sh) con il maggior numero di informazioni possibile che ci permetterebbero di identificarti come proprietario del tuo account.
 
-Mandare l'email dal tuo indirizzo mail di registrazione è un grande bonus qui, oltre a quasiasi informazione che riesci a fornire che solamente il proprietario dell'account sa.
+Mandare l'email dal tuo indirizzo mail di registrazione è un grande bonus qui, oltre a qualsiasi informazione che riesci a fornire che solamente il proprietario dell'account sa.
 
 Per favore non includere replay o punteggi nel tuo ticket — non ci possono aiutare a identificarti come proprietario dell'account.
 
 ### Che cos'è questo 'Errore autenticazione Bancho' che continuo a ricevere? {id=authentication-error}
 
-**Questo di solito accade quando ci sono problemi di rete tra te e i nostri server..**
+**Questo di solito accade quando ci sono problemi di rete tra te e i nostri server.**
 
 Ci sono alcune cose che puoi provare per risolvere il problema:
 
@@ -107,7 +105,7 @@ Per informazioni su come ottenere il file `network.log` da mandarci, vedi [Centr
 
 Raramente, potresti aver bisogno di contattare il tuo Internet Service Provider (ISP) per chiedere informazioni su questi problemi. Alcuni ISP storicamente hanno avuto problemi a connettersi ad osu!, di solito per routing scarso.
 
-### Il sito mi dice che ho provato ad effetturare l'accesso troppe volte! {id=sign-in-throttling}
+### Il sito mi dice che ho provato ad effettuare l'accesso troppe volte! {id=sign-in-throttling}
 
 **Questa è una misura di protezione temporanea dopo ripetuti fallimenti di accedere al tuo account. Prova ad accedere di nuovo dopo 10-20 minuti.**
 
@@ -141,11 +139,11 @@ Infine, siamo a conoscenza che alcuni provider non accettano mail automatiche da
 
 Se hai acquistato (o ti hanno regalato) un [tag supporter](https://osu.ppy.sh/home/support) in qualsiasi momento, puoi cambiare il tuo nome utente per **una** volta gratuitamente. Questo cambio di nome utente può essere riscattato nella pagina dell'[osu!store](https://osu.ppy.sh/store/products/32).
 
-In un qualsiasi successivo momento, puoi acquistare un [cambio nome utente](https://osu.ppy.sh/store/products/32) per cambiare il tuo nome utente in quasiasi cosa tu voglia. Però, ogni cambiamento diventerà progressivamente più costoso — il secondo costerà $8 USD, il terzo $16 USD, e così via, fino alla soglia di $100 USD. Facciamo questo per prevenire che le persone cambino il loro nome in rapida successione.
+In un qualsiasi successivo momento, puoi acquistare un [cambio nome utente](https://osu.ppy.sh/store/products/32) per cambiare il tuo nome utente in qualsiasi cosa tu voglia. Però, ogni cambiamento diventerà progressivamente più costoso — il secondo costerà $8 USD, il terzo $16 USD, e così via, fino alla soglia di $100 USD. Facciamo questo per prevenire che le persone cambino il loro nome in rapida successione.
 
-Nota che i nomi utente devono rispettare le nostre [Regole della community](/wiki/Rules#regole-della-community) in quanto non devono essere generalmente offensivi nei confronti degli altri utenti, eccessivamente provocatori o comunque offensivi in qualsiasi modo. In aggiunta, nomi untente che impersonano o assumono le identità di figure pubbliche di spicco (come celebrità, politici, ecc.) non sono consentiti e verranno forzatamente ripristinati quando ne veniamo a conoscenza.
+Nota che i nomi utente devono rispettare le nostre [Regole della community](/wiki/Rules#regole-della-community) in quanto non devono essere generalmente offensivi nei confronti degli altri utenti, eccessivamente provocatori o comunque offensivi in qualsiasi modo. In aggiunta, nomi utente che impersonano o assumono le identità di figure pubbliche di spicco (come celebrità, politici, ecc.) non sono consentiti e verranno forzatamente ripristinati quando ne veniamo a conoscenza.
 
-Se si tratta solo di piccole modifiche di capitalizzazione o di grammatica/ortografia, puoi mandare un'email a [accounts@ppy.sh](mailto:accounts@ppy.sh) per richiedere un cambio nome grauito per risolvere questi problemi. Non ti addebiteremo alcun costo per questo tipo di modifiche del nome, ma **DEVI** effettuarlo tramite un'e-mail al team di supporto. Ricordati che lo faremo un limitato numero di volte, quindi assicurati che tu lo voglia davvero!
+Se si tratta solo di piccole modifiche di capitalizzazione o di grammatica/ortografia, puoi mandare un'email a [accounts@ppy.sh](mailto:accounts@ppy.sh) per richiedere un cambio nome gratuito per risolvere questi problemi. Non ti addebiteremo alcun costo per questo tipo di modifiche del nome, ma **DEVI** effettuarlo tramite un'e-mail al team di supporto. Ricordati che lo faremo un limitato numero di volte, quindi assicurati che tu lo voglia davvero!
 
 ### Posso avere il nome utente di un altro giocatore? {id=take-existing-username}
 
@@ -183,7 +181,7 @@ Il tuo profilo mostrerà tutti i tuoi precedenti cambi di nome acquistati, ma no
 
 ## Altri problemi {id=other}
 
-### Posso cambiare la bandiera/nazione nel mio profio? {id=wrong-flag}
+### Posso cambiare la bandiera/nazione nel mio profilo? {id=wrong-flag}
 
 **Si, ma in alcune circostanze.**
 
@@ -220,7 +218,7 @@ Sì, qualsiasi utente può richiedere la cancellazione del proprio account invia
 
 Qualsiasi utente può richiedere il **blocco** del proprio account inviando un'e-mail a [accounts@ppy.sh](mailto:accounts@ppy.sh). La password associata all'account verrà criptata e l'indirizzo e-mail cancellato, bloccando l'utente dal suo account. Dopo che un account è stato bloccato in questo modo, l'utente deve attendere una settimana prima di poterne richiedere lo sblocco, per evitare abusi.
 
-Un account bloccato rimarrà pubblicamente visibile senza cambiamenti alle imformazioni visibili nel suo profilo.
+Un account bloccato rimarrà pubblicamente visibile senza cambiamenti alle informazioni visibili nel suo profilo.
 
 Per sbloccare nuovamente l'account, manda una mail a [accounts@ppy.sh](mailto:accounts@ppy.sh), dallo stesso indirizzo email usato nella richiesta di blocco dell'account, esprimendo l'intenzione di sbloccarlo.
 

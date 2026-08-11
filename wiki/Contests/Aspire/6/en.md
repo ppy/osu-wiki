@@ -11,7 +11,7 @@ Dates are tentative and subject to change.
 | Event | Date (UTC) |
 | --: | :-- |
 | Registrations and submissions | 14 June 2026 – 16 August 2026 (23:59 UTC) |
-| Voting | 17 August 2026 – 24 August 2026 (23:59 UTC) |
+| Voting | 25 August 2026 – 31 August 2026 (23:59 UTC) |
 | Results announcement | *TBD* |
 
 ## Links
@@ -57,7 +57,7 @@ Aspire 6 is run by various members of the [osu! team](/wiki/People/osu!_team).
 
 ## Registrations
 
-This table is updated once every few days. Last update was on 21 June 2026.
+This table was last updated on 25 July 2026.
 
 | Team | Members |
 | :-- | :-- |
@@ -69,7 +69,7 @@ This table is updated once every few days. Last update was on 21 June 2026.
 | [insert meme here] <- HAHA! this is FUNNY! | ::{ flag=US }:: [Kirb2](https://osu.ppy.sh/users/35911207) |
 |  | ::{ flag=US }:: [SyIv](https://osu.ppy.sh/users/6821832) |
 |  | ::{ flag=US }:: [Alumence](https://osu.ppy.sh/users/30357961) |
-|  | ::{ flag=NZ }:: [Pass_ing](https://osu.ppy.sh/users/11798717) |
+|  | ::{ flag=NZ }:: [Pass\_ing](https://osu.ppy.sh/users/11798717) |
 | los pisuicas | ::{ flag=CR }:: [UniUniverse](https://osu.ppy.sh/users/15568608), ::{ flag=CR }:: [Megapcmx](https://osu.ppy.sh/users/4442138) |
 | PURO POWER EE | ::{ flag=CL }:: [yGantu](https://osu.ppy.sh/users/25206996) |
 | aura defarmer | ::{ flag=MY }:: [Mahiru Shiina](https://osu.ppy.sh/users/13866023) |
@@ -81,7 +81,7 @@ This table is updated once every few days. Last update was on 21 June 2026.
 |  | ::{ flag=RU }:: [KoTo](https://osu.ppy.sh/users/1382805) |
 |  | ::{ flag=NO }:: [Aspheria](https://osu.ppy.sh/users/14781224) |
 | Eureka! | ::{ flag=US }:: [veztoast](https://osu.ppy.sh/users/19575841) |
-| Mode Five | ::{ flag=RO }:: [ziv_vy](https://osu.ppy.sh/users/35320165) |
+| Mode Five | ::{ flag=RO }:: [ziv\_vy](https://osu.ppy.sh/users/35320165) |
 | Q Branch | ::{ flag=ID }:: [multiplied](https://osu.ppy.sh/users/29292420), ::{ flag=ID }:: [kaupec1](https://osu.ppy.sh/users/19333530) |
 | ChartNetwork | ::{ flag=IN }:: [Rudasyy579](https://osu.ppy.sh/users/23231526) |
 | zvq9r6R6QAY | ::{ flag=US }:: [gibberjabber1](https://osu.ppy.sh/users/16253476) |
@@ -97,18 +97,14 @@ This table is updated once every few days. Last update was on 21 June 2026.
 |  | ::{ flag=TW }:: [Solor](https://osu.ppy.sh/users/25201175) |
 | don't have | ::{ flag=RU }:: [Fusomi](https://osu.ppy.sh/users/19690928), ::{ flag=RU }:: [Fiekel](https://osu.ppy.sh/users/18029250) |
 |  | ::{ flag=PL }:: [PolishedSlav](https://osu.ppy.sh/users/13908254) |
-| The Greek Mappers | ::{ flag=GR }:: [KakashiSensei_](https://osu.ppy.sh/users/18254930), ::{ flag=GR }:: [Double_](https://osu.ppy.sh/users/20163454) |
+| The Greek Mappers | ::{ flag=GR }:: [KakashiSensei\_](https://osu.ppy.sh/users/18254930), ::{ flag=GR }:: [Double\_](https://osu.ppy.sh/users/20163454) |
 |  | ::{ flag=US }:: [WolfStarArtOSU](https://osu.ppy.sh/users/34821954) |
-|  | ::{ flag=US }:: [JinkusuSPL](https://osu.ppy.sh/users/32908054) |
-| No Authors Listed | ::{ flag=DE }:: [Tunnelblick](https://osu.ppy.sh/users/7737096), ::{ flag=US }:: [Utiba](https://osu.ppy.sh/users/11354436) |
+|  | ::{ flag=US }:: [The Jorker](https://osu.ppy.sh/users/32908054) |
 | Maid Enjoyer | ::{ flag=US }:: [Nightcor3](https://osu.ppy.sh/users/19173340) |
-| Formula 1 | ::{ flag=UA }:: [maxsd_ool](https://osu.ppy.sh/users/38568467), ::{ flag=RU }:: [Aceline_](https://osu.ppy.sh/users/16566480) |
 |  | ::{ flag=VN }:: [\[-Crazy Boy-\]](https://osu.ppy.sh/users/33849459) |
-|  | ::{ flag=RU }:: [732Edi_2](https://osu.ppy.sh/users/33122018) |
-| T4PULI_BABUL1 | ::{ flag=RU }:: [add222](https://osu.ppy.sh/users/14261013) |
+|  | ::{ flag=RU }:: [732Edi\_2](https://osu.ppy.sh/users/33122018) |
 | CAMUSLAR | ::{ flag=AT }:: [Byakuyaa](https://osu.ppy.sh/users/38132593), ::{ flag=TR }:: [serpiente21](https://osu.ppy.sh/users/39660988) |
-| Grasii | ::{ flag=RO }:: [RyzeAims](https://osu.ppy.sh/users/19534518), ::{ flag=RO }:: [PoisonIce2000](https://osu.ppy.sh/users/19396960) |
-|  | ::{ flag=BR }:: [1_Miss_you_1](https://osu.ppy.sh/users/37663568) |
+|  | ::{ flag=BR }:: [1\_Miss\_you\_1](https://osu.ppy.sh/users/37663568) |
 | I AM. | ::{ flag=VN }:: [xiaomao](https://osu.ppy.sh/users/9829680) |
 | Joe Biden 🔜 RF15 | ::{ flag=TW }:: [\[ deleted \]](https://osu.ppy.sh/users/16341063), ::{ flag=NL }:: [Promachos](https://osu.ppy.sh/users/14069486) |
 | Door Chad? Us….🌾😔✌️ | ::{ flag=US }:: [EnderCraft](https://osu.ppy.sh/users/19950570) |
@@ -123,14 +119,13 @@ This table is updated once every few days. Last update was on 21 June 2026.
 |  | ::{ flag=DE }:: [0ppInOsu](https://osu.ppy.sh/users/12551840), ::{ flag=TH }:: [ohm002](https://osu.ppy.sh/users/4468239) |
 | BORN TO BEAT / WORLD IS A MAP / 音楽 Crash Em All 2026 / I am 2b / 3,215,697,262.574 BPM | ::{ flag=US }:: [-Arko](https://osu.ppy.sh/users/8802914), ::{ flag=US }:: [blixys](https://osu.ppy.sh/users/13015896) |
 |  | ::{ flag=VN }:: [StyxHavenVN](https://osu.ppy.sh/users/26175568) |
-| Synthesizer | ::{ flag=CN }:: [UTAU](https://osu.ppy.sh/users/13859320) |
 |  | ::{ flag=US }:: [TSMCARPALTUNNEL](https://osu.ppy.sh/users/35462249) |
 | doodle snoodles | ::{ flag=US }:: [chiga PT](https://osu.ppy.sh/users/38969729), ::{ flag=US }:: [nolo151](https://osu.ppy.sh/users/38184946) |
 | None | ::{ flag=AR }:: [Angelito24](https://osu.ppy.sh/users/29925688) |
 |  | ::{ flag=BR }:: [Thvhar](https://osu.ppy.sh/users/39987480) |
 | catadores de axilas 🙏 | ::{ flag=MX }:: [Pitxort](https://osu.ppy.sh/users/20565615), ::{ flag=MX }:: [FerRMZ](https://osu.ppy.sh/users/11086032) |
 | Potato Entretainment | ::{ flag=VE }:: [Draygon Fox](https://osu.ppy.sh/users/25302426), ::{ flag=VE }:: [brigidoc](https://osu.ppy.sh/users/12062228) |
-| codex | ::{ flag=BY }:: [DANILA058485](https://osu.ppy.sh/users/24885330) |
+| codex | ::{ flag=BY }:: [\_defiance\_](https://osu.ppy.sh/users/24885330) |
 |  | ::{ flag=UA }:: [efmos9](https://osu.ppy.sh/users/34364915) |
 | Double Bubble | ::{ flag=RU }:: [AkiraCX](https://osu.ppy.sh/users/14237716), ::{ flag=RU }:: [MyaFky](https://osu.ppy.sh/users/10040818) |
 |  | ::{ flag=RU }:: [perevod](https://osu.ppy.sh/users/19821599) |
@@ -138,12 +133,42 @@ This table is updated once every few days. Last update was on 21 June 2026.
 | sheldon lee cooper you dawg | ::{ flag=GB }:: [jaaaaacx](https://osu.ppy.sh/users/32397566) |
 | walawe | ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=ID }:: [\[-SVzzZ-\]](https://osu.ppy.sh/users/26574578) |
 |  | ::{ flag=PH }:: [Imajinaree](https://osu.ppy.sh/users/18397685) |
-|  | ::{ flag=RU }:: [Andrey_os2298](https://osu.ppy.sh/users/34410339) |
+|  | ::{ flag=RU }:: [Andrey\_os2298](https://osu.ppy.sh/users/34410339) |
 | rentahuman.ai | ::{ flag=VN }:: [billypham](https://osu.ppy.sh/users/12970739) |
 | sajso | ::{ flag=TR }:: [corlax31](https://osu.ppy.sh/users/32026299), ::{ flag=TR }:: [cheyags](https://osu.ppy.sh/users/36991492) |
 | The Tung Sahurs | ::{ flag=VN }:: [Nagabi](https://osu.ppy.sh/users/10352099), ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) |
 | Perchik | ::{ flag=RU }:: [misterio21](https://osu.ppy.sh/users/19513468), ::{ flag=NO }:: [MrSpiderGDRA](https://osu.ppy.sh/users/39232648) |
 |  | ::{ flag=IS }:: [Geiri YT](https://osu.ppy.sh/users/15011371) |
+| DDLC Rom | ::{ flag=RO }:: [Kat\_explodes](https://osu.ppy.sh/users/26376228), ::{ flag=RO }:: [hello\_lol420](https://osu.ppy.sh/users/27609690) |
+|  | ::{ flag=BE }:: [Piorunochron](https://osu.ppy.sh/users/36414563) |
+| 67 | ::{ flag=US }:: [FLP](https://osu.ppy.sh/users/21730175) |
+| dauylpaz | ::{ flag=KZ }:: [tadahitotsu](https://osu.ppy.sh/users/11653544) |
+| Ça casse pas trois pattes à un canard | ::{ flag=BR }:: [Jacques](https://osu.ppy.sh/users/6599241), ::{ flag=FR }:: [SaYa-](https://osu.ppy.sh/users/14628734) |
+| ? | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667), ::{ flag=NL }:: [Apichu](https://osu.ppy.sh/users/14967853) |
+| T4PULI_BABUL1 | ::{ flag=RU }:: [add222](https://osu.ppy.sh/users/14261013), ::{ flag=RU }:: [\_necroplasma](https://osu.ppy.sh/users/10805852) |
+|  | ::{ flag=US }:: [reimuuu](https://osu.ppy.sh/users/39265531) |
+| No Authors Listed | ::{ flag=DE }:: [Tunnelblick](https://osu.ppy.sh/users/7737096), ::{ flag=US }:: [Utiba](https://osu.ppy.sh/users/11354436) |
+| hi | ::{ flag=CA }:: [mieldeprairie](https://osu.ppy.sh/users/19290397) |
+|  | ::{ flag=DE }:: [minhperry](https://osu.ppy.sh/users/16509922) |
+| Chloris | ::{ flag=VN }:: [LunaUwU](https://osu.ppy.sh/users/39084830) |
+| two guys who like mapping taiko | ::{ flag=AU }:: [Nintendo 64](https://osu.ppy.sh/users/30481748), ::{ flag=CA }:: [EnderBlazegames](https://osu.ppy.sh/users/36292093) |
+|  | ::{ flag=EE }:: [Sadu](https://osu.ppy.sh/users/16301262) |
+| autre | ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) |
+| the Northernlion Supercruise | ::{ flag=KR }:: [Akbo](https://osu.ppy.sh/users/7627061) |
+| SV | ::{ flag=AR }:: [APRL03](https://osu.ppy.sh/users/11394892), ::{ flag=AR }:: [el\_matero](https://osu.ppy.sh/users/23417934) |
+| T_T | ::{ flag=US }:: [Leviathan](https://osu.ppy.sh/users/10321729) |
+|  | ::{ flag=AE }:: [ItzShadowCraft](https://osu.ppy.sh/users/27830521) |
+| Synthesizer | ::{ flag=CN }:: [UTAU](https://osu.ppy.sh/users/13859320) |
+| kelompok 2 | ::{ flag=ID }:: [Alicia](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
+|  | ::{ flag=TH }:: [PukPow](https://osu.ppy.sh/users/16407679), ::{ flag=TH }:: [Zuika](https://osu.ppy.sh/users/10222009) |
+| Drunk Camel | ::{ flag=SA }:: [osu shallah](https://osu.ppy.sh/users/5965797), ::{ flag=PL }:: [Nemuidesu](https://osu.ppy.sh/users/4688997) |
+|  | ::{ flag=VN }:: [amongus8888](https://osu.ppy.sh/users/39724786) |
+| takeshi's traphouse | ::{ flag=IT }:: [Shiraya Sayuki](https://osu.ppy.sh/users/19077461), ::{ flag=IT }:: [Shiino](https://osu.ppy.sh/users/9839375) |
+| executive dysfunction | ::{ flag=CA }:: [MintLeaf](https://osu.ppy.sh/users/18649304), ::{ flag=SG }:: [Ixcors](https://osu.ppy.sh/users/11194087) |
+|  | ::{ flag=GB }:: [Pastel Kitten](https://osu.ppy.sh/users/37602544) |
+| cos | ::{ flag=VN }:: [\[TCD\] comma](https://osu.ppy.sh/users/30749632), ::{ flag=VN }:: [phuongkhoa102](https://osu.ppy.sh/users/18054129) |
+| Kinflo x Björk Collab | ::{ flag=CA }:: [ThunderBirdo](https://osu.ppy.sh/users/22228239), ::{ flag=GB }:: [bluirre](https://osu.ppy.sh/users/22241162) |
+| Ayuntamiento de Puebla de la Sierra | ::{ flag=ES }:: [CebollaVladimir](https://osu.ppy.sh/users/15308238), ::{ flag=DE }:: [Chris Jasorka](https://osu.ppy.sh/users/2355080) |
 
 ## Format
 
@@ -182,15 +207,21 @@ If you're struggling to find a partner to join you, don't forget to check out th
 
 ### Submissions
 
-**Visit the [contest page](https://osu.ppy.sh/community/contests/286) and drop your submission as a `.osz` file.** The deadline is 16 August 2026 (23:59 UTC).
+**Visit the [contest page](https://osu.ppy.sh/community/contests/286) and drop your submission as a `.osz` file.** The deadline is 16 August 2026 (23:59 UTC). The contest page should look something like this:
+
+![Contest page .osz submission](img/contest-page-osz-submission.png)
+
+If your entry takes advantage of the `.olz` file format in a significant way (such that converting to `.osz` would break it), then *submit the original `.olz` version in the [contest page](https://osu.ppy.sh/community/contests/286) as well*. In this case, both the original `.olz` archive and the converted `.osz` version must be submitted, and it should look something like this:
+
+![Contest page .osz submission](img/contest-page-olz-and-osz-submission.png)
 
 Before submitting, please check the following:
 
-- Ensure that you have successfully registered for the contest, and that all your team members have confirmed their intent as well if applicable.
+- Ensure that you have successfully [registered](#team-registration) for the contest, and that all your team members have confirmed their intent as well if applicable.
   - **Your submission will be ignored if you have not successfully registered for the contest.**
 - Please read the [rules](#rules) thoroughly to check that your entry abides by all of them.
 - The person who registered the team must be the one submitting the entry.
-- Do not submit your entry via BSS.
+- Do **not** submit your entry via [BSS](/wiki/Beatmapping/Beatmap_submission).
 
 ### Voting
 
@@ -236,11 +267,12 @@ If your inquiry is urgent and you aren't getting a timely response, please conta
   - You may **not** choose any songs that have been added to the Featured Artists listing after **14 June 2026**.
   - Please use [this tool](https://mappersguild.com/aspire/search) to check whether a Featured Artist song is allowed for use in Aspire 6.
 - You may **not** make any edits to the `.mp3` files provided on the Featured Artists listing.
-- You may **not** make any changes to the artist, title, source, or tags of your submission's metadata.
+- You may **not** make any changes to the artist, title, source, or tags of your submission's metadata. The creator field should be set to the user name of the submitter.
 - Your entry does not need to be passable. However, your entry may be ineligible for certain categories or prizes if it is not possible to be passed by a human player.
 - Your entry must consist of **exactly one difficulty** that contains an interactive experience — storyboard-only entries aren't allowed.
 - You may only participate in **one** entry for this contest.
 - All assets in your entry must either be created by you or be permitted by license or explicit approval to be used. Direct contribution or commission of any part of the entry from a third party is **not** allowed.
+- The size of the compressed archive (`.osz`/`.olz`) **must** be smaller than `5 * 1024^2 + map_length_seconds * 166667` bytes, where `map_length_seconds` is the end time of the last hit object. The maximum size is 200,000,000 bytes. This corresponds to osu!(lazer)'s beatmap submission limit.
 
 ### Operational rules
 
@@ -250,9 +282,10 @@ If your inquiry is urgent and you aren't getting a timely response, please conta
 - You may only be part of **one** team for this contest.
 - Any submitted entry that doesn't have a registration tied to it will be automatically disqualified.
 - Entries must be submitted by the person who registered the team in the form.
-- Teams and submissions must remain anonymous for the duration of the contest. Do **not** include any identifiable information in any element of your submission.
+- Teams and submissions must remain anonymous for the duration of the contest. Do **not** include any identifiable information in any element of your submission (this does not apply to the creator metadata field).
 - Your entry **must not** be uploaded to the osu! website via the Beatmap Submission System (BSS).
-- Your entry must be submitted in `.osz` format in the contest page.
+- Your entry must be submitted in `.osz` format in the contest page, with the following exception:
+  - If your entry takes advantage of the `.olz` beatmap archive format in a significant way, such that converting to `.osz` would break it, then both the original `.olz` archive and the converted `.osz` version must be submitted to the contest page.
 
 Any entries that break these rules may be disqualified from the contest.
 
