@@ -34,7 +34,7 @@
 
 osu! 官网上的 FAQ 板块支持翻译了。归功于志愿者的贡献，FAQ 版块可以用多种语言访问。[^faq-localisation]
 
-在 1 月 26 日的一次大更新中，又有许多功能被添加到 osu! 中。[^stable-b593a] 这些功能包括：新的多人游戏模式 [Tag VS](/wiki/Client/Interface/Multiplayer#team-vs) 与 [Tag Team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs)，以及多人游戏房间的密码保护。故事板编辑器中的对象支持了两种全新的修改方式：矢量缩放与翻转。游玩时，打击高亮效果将会以将颜色泼洒在屏幕上的方式来强调每次点击。此外，歌曲进度也能以饼状图的形式显示。[选歌界面](/wiki/Client/Interface#选歌界面)中也新增了“最近游玩”排序方式。
+在 1 月 26 日的一次大更新中，又有许多功能被添加到 osu! 中。[^stable-b593a] 这些功能包括：新的多人游戏模式 [Tag VS](/wiki/Gameplay/Multiplayer#team-vs) 与 [Tag Team VS](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs)，以及多人游戏房间的密码保护。故事板编辑器中的对象支持了两种全新的修改方式：矢量缩放与翻转。游玩时，打击高亮效果将会以将颜色泼洒在屏幕上的方式来强调每次点击。此外，歌曲进度也能以饼状图的形式显示。[选歌界面](/wiki/Client/Interface#选歌界面)中也新增了“最近游玩”排序方式。
 
 ## 二月
 

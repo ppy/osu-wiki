@@ -21,7 +21,7 @@ tags:
 :::
 
 ::: alert-note
-**Anmerkung:** Nicht zu verwechseln mit [Mehrspieler](/wiki/Client/Interface/Multiplayer).
+**Anmerkung:** Nicht zu verwechseln mit [Mehrspieler](/wiki/Gameplay/Multiplayer).
 :::
 
 ## Übersicht

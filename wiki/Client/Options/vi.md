@@ -18,7 +18,7 @@ Phần này liên quan đến tài khoản của bạn, cài đặt ngôn ngữ,
 
 ### Đăng nhập
 
-Nếu bạn chưa đăng nhập vào trò chơi, menu tùy chọn khi khởi động sẽ được tự động mở, yêu cầu bạn đăng nhập. Bạn có thể bỏ qua điều này bằng cách nhấn `Esc`, nhấp vào nút quay lại, hoặc chuyển đến màn hình chọn bài. Nếu không đăng nhập, trò chơi sẽ đánh dấu bạn là "Khách" và bạn sẽ không thể xem bảng xếp hạng trực tuyến, gửi điểm, hoặc chơi [Multi](/wiki/Client/Interface/Multiplayer).
+Nếu bạn chưa đăng nhập vào trò chơi, menu tùy chọn khi khởi động sẽ được tự động mở, yêu cầu bạn đăng nhập. Bạn có thể bỏ qua điều này bằng cách nhấn `Esc`, nhấp vào nút quay lại, hoặc chuyển đến màn hình chọn bài. Nếu không đăng nhập, trò chơi sẽ đánh dấu bạn là "Khách" và bạn sẽ không thể xem bảng xếp hạng trực tuyến, gửi điểm, hoặc chơi [Multi](/wiki/Gameplay/Multiplayer).
 
 Nếu bạn là khách, các tùy chọn sau sẽ hiển thị:
 

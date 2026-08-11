@@ -39,7 +39,7 @@ layout: main_page
 
 [游戏模式](/wiki/Game_mode)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[谱面](/wiki/Beatmap) • [难度](/wiki/Beatmap/Difficulty) • [物件](/wiki/Gameplay/Hit_object) • [模组 (Mods)](/wiki/Gameplay/Game_modifier) • [模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [分数](/wiki/Gameplay/Score) • [回放](/wiki/Gameplay/Replay) • [奖章](/wiki/Medals) • [多人游戏](/wiki/Client/Interface/Multiplayer) • [每日挑战](/wiki/Gameplay/Daily_challenge) • [快速匹配](/wiki/Gameplay/Quick_play)
+[谱面](/wiki/Beatmap) • [难度](/wiki/Beatmap/Difficulty) • [物件](/wiki/Gameplay/Hit_object) • [模组 (Mods)](/wiki/Gameplay/Game_modifier) • [模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [分数](/wiki/Gameplay/Score) • [回放](/wiki/Gameplay/Replay) • [奖章](/wiki/Medals) • [多人游戏](/wiki/Gameplay/Multiplayer) • [每日挑战](/wiki/Gameplay/Daily_challenge) • [快速匹配](/wiki/Gameplay/Quick_play)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -39,7 +39,7 @@ Tất cả mọi thứ về bấm vòng, đánh trống, bắt quả và đánh 
 
 [Các chế độ chơi](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Màn chơi](/wiki/Beatmap/Difficulty) • [Vật thể](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Điểm số](/wiki/Gameplay/Score) • [Phát lại](/wiki/Gameplay/Replay) • [Huy Chương](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer) • [Thử thách hằng ngày](/wiki/Gameplay/Daily_challenge) • [Chơi nhanh](/wiki/Gameplay/Quick_play)
+[Beatmap](/wiki/Beatmap) • [Màn chơi](/wiki/Beatmap/Difficulty) • [Vật thể](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Điểm số](/wiki/Gameplay/Score) • [Phát lại](/wiki/Gameplay/Replay) • [Huy Chương](/wiki/Medals) • [Multiplayer](/wiki/Gameplay/Multiplayer) • [Thử thách hằng ngày](/wiki/Gameplay/Daily_challenge) • [Chơi nhanh](/wiki/Gameplay/Quick_play)
 
 </div>
 <div class="wiki-main-page-panel">

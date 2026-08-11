@@ -43,7 +43,7 @@ Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/
 - Pulsa `F8` para abrir la ventana del chat mientras juegas. Puedes ver los comandos del chat si escribes `!help` o `/help`.
 - ¡Asegúrate de descansar de vez en cuando! Tus manos también deberían hacer otras cosas además de jugar a osu!.
 - No ignores los mapas [no clasificados](/wiki/Beatmap/Category). Si encuentras alguno que te guste y dejas [comentarios constructivos](/wiki/Modding), habrá más posibilidades de que se [clasifique](/wiki/Beatmap_ranking_procedure) en el futuro.
-- ¡Juega partidas con otros usuarios en el [modo multijugador](/wiki/Client/Interface/Multiplayer)!
+- ¡Juega partidas con otros usuarios en el [modo multijugador](/wiki/Gameplay/Multiplayer)!
 - ¿Quieres saber de dónde es algún usuario? Pulsa `F9` y pon tu cursor sobre su perfil.
 - Pulsa `F5` en el menú de selección de canciones para actualizar la lista de beatmaps.
 - Pulsa `Shift` + `F12` para hacer una captura de pantalla y subirla automáticamente a Internet.

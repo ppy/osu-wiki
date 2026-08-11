@@ -32,7 +32,7 @@ Bancho 和[扩展聊天](/wiki/Client/Interface/Chat_console#扩展聊天面板)
 
 ## 六月
 
-随着 [多人游戏](/wiki/Client/Interface/Multiplayer) 模式的加入，osu! 迎来了一个重要的里程碑。同时，皮肤设计选项在图像和音效的自定义上得到了进一步扩展。多频道聊天功能首次上线。  
+随着 [多人游戏](/wiki/Gameplay/Multiplayer) 模式的加入，osu! 迎来了一个重要的里程碑。同时，皮肤设计选项在图像和音效的自定义上得到了进一步扩展。多频道聊天功能首次上线。  
 
 ## 七月
 

@@ -47,7 +47,7 @@ Ces conseils apparaissent en bas du [menu principal](/wiki/Client/Interface#menu
 - Faites des pauses régulièrement. osu! est un jeu éprouvant pour les mains et les bras et il serait dommage de se retrouver chez le médecin à cause d'un muscle trop fatigué.
 - [spinners](/wiki/Gameplay/Hit_object/Spinner).
 - N'ignorez pas les [beatmaps non classées](/wiki/Beatmap/Category) Si vous en trouvez une qui vous plaît et que vous laissez des [commentaires constructifs](/wiki/Modding), pour l'améliorer, elle aura plus de chances d'être [classée](/wiki/Beatmap_ranking_procedure) !
-- Amusez-vous à plusieurs dans le [menu Multi](/wiki/Client/Interface/Multiplayer) !
+- Amusez-vous à plusieurs dans le [menu Multi](/wiki/Gameplay/Multiplayer) !
 - Vous êtes-vous déjà demandé de quel pays un joueur provenait ? Appuyez sur `F9` et survolez son nom dans la liste avec votre souris pour le savoir !
 - Appuyez sur `F5` dans l'écran de sélection des beatmaps pour rafraîchir la liste et charger les nouvelles musiques.
 - Appuyez sur `Maj`+`F12` partout dans le jeu pour faire une capture d'écran et la publier automatiquement sur le site web d'osu!

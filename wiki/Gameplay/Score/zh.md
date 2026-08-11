@@ -25,4 +25,4 @@ ScoreV2 是全新一代的分数系统。它的宗旨是对所有游戏模式的
 
 除了更好的标准化外，ScoreV2 也是对长谱面连击数较多而导致产生[整数溢出](https://zh.wikipedia.org/wiki/整数溢出)问题的解决方案。因为游戏的总分会被存储为一个 32 位的整数，而 ScoreV1 理论上能给出的分数是无限的，这就会导致分数值超过 32 位整数的理论极限 2,147,483,647，从而让分数计算器倒转产生负数分值（看上去就像是分数开始慢慢减少）。实际上，理论最高分超过该限制的长谱面取得的成绩会自动使用 ScoreV2 计分。
 
-游玩时 ScoreV2 不会默认打开。在单人游戏时，可以通过不计入排名的 [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) 模组打开，而在[多人游戏](/wiki/Client/Interface/Multiplayer)时， ScoreV2 可以在设置比赛时作为获胜条件使用。
+游玩时 ScoreV2 不会默认打开。在单人游戏时，可以通过不计入排名的 [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) 模组打开，而在[多人游戏](/wiki/Gameplay/Multiplayer)时， ScoreV2 可以在设置比赛时作为获胜条件使用。
