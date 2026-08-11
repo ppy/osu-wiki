@@ -12,6 +12,10 @@ tags:
 
 # Multiplayer
 
+::: Infobox
+![Screenshot of an in-progress multiplayer game](./img/inprogress.jpg "Screenshot of an in-progress multiplayer game")
+:::
+
 ::: alert-note
 **Note:** For explanations regarding interface components, see [Multiplayer](/wiki/Client/Interface/Multiplayer)
 :::
@@ -24,6 +28,10 @@ Multiplayer is not available for [silenced](/wiki/Silence) players.
 :::
 
 ## Matches
+
+::: Infobox
+![Screenshot of a multiplayer lobby](./img/lobby.jpg "Screenshot of a multiplayer lobby")
+:::
 
 **Matches** are rooms that can be created by anyone. They are listed in the [multiplayer lobby](/wiki/Client/Interface/Multiplayer#main-lobby), have 2 to 16 slots and can be joined at any time as long as there is a free slot left.
 
@@ -52,6 +60,12 @@ Two teams, Red and Blue, compete against each other. The players can pick and sw
 Only players who are alive by the end of the match count towards their teams' totals. If all players of a team have failed, the match immediately ends and the opposite team wins by default.
 
 ### Tag co-op / Tag-team VS
+
+::: Infobox
+![Gameplay of the tag co-op multiplayer match](./img/tag-coop.gif "Gameplay of the tag co-op multiplayer match. Players take turns in completing single combos.")
+
+![Gameplay of the tag team VS multiplayer match](./img/tag-team-vs.gif "Gameplay of the tag team VS multiplayer match. The yellow crown signifying the leading team slides towards the red team, as the difference between scores grows.")
+:::
 
 ::: alert-notice
 **Notice**
