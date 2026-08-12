@@ -69,7 +69,7 @@ The mod divider used to be a divisor applied to `HitPunishment` that depended on
 
 ### Old usage
 
-Previously, difficulty increase mods divided `HitPunishment` before it was subtracted from the bonus, making a 200 or below cost less bonus score than it would without mods. This did not raise the maximum score, because a perfect play kept the bonus at its maximum either way.
+Previously, difficulty increase mods divided `HitPunishment` before it was subtracted from the bonus, making a GOOD or below cost less bonus score than it would without mods. This did not raise the maximum score, because a perfect play kept the bonus at its maximum either way.
 
 | Mod | `ModDivider` |
 | :-- | --: |
