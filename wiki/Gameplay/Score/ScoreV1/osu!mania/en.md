@@ -13,11 +13,11 @@ In osu!mania, each beatmap has the same maximum total score of 1 million (1,000,
 The score is given in two parts, base score and bonus score, each contributing 50% of total score.
 
 - Base score is based on hit judgement.
-  - A rainbow 300 is worth a bit more than 300.
+  - A PERFECT is worth a bit more than a GREAT.
 - Bonus score is based on hit judgement and a floating bonus multiplier.
-  - The multiplier increases with a rainbow 300 or 300, while it decreases with a 200 or below.
-  - The better judgement, the more multiplier increase/less punishment.
-    - There's an upper limit for the multiplier.
+  - The multiplier increases with a PERFECT or GREAT, while it decreases with a GOOD or below.
+  - The better the judgement, the more the multiplier increases/less punishment.
+    - There is an upper limit for the multiplier.
 
 The score given by each note is calculated with the following formula:
 
@@ -44,6 +44,8 @@ ModDivider = The punishment divider of the selected mods (see below)
 | MEH | 50 | 4 |  | 44 |
 | MISS | 0 | 0 |  | ∞ |
 
+The total score for a play is the sum of scores of all notes in the map, rounded to the nearest integer.
+
 ## Mod multiplier
 
 Difficulty increase mods do not affect the score, so it never exceeds 1,000,000.
@@ -56,7 +58,10 @@ Difficulty increase mods do not affect the score, so it never exceeds 1,000,000.
 
 [Key mods](/wiki/Gameplay/Game_modifier/Summary#xk-mod-score-multipliers), including [Co-op](/wiki/Gameplay/Game_modifier/Co-op), have score multipliers of their own, ranging from 0.66x to 1.00x. They only apply to beatmaps [converted from osu!](/wiki/Beatmap/Converts), and give no penalty on osu!mania-specific beatmaps.
 
+::: alert-notice
+**Notice**
 With the [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) mod enabled, No Fail no longer halves the score, while Easy and Half Time still do.<!-- reference: https://github.com/ppy/osu/blob/9f227ed28b6c8ba46dfea1f000f778d8b2827ad0/osu.Game.Rulesets.Mania/Difficulty/ManiaLegacyScoreSimulator.cs#L25-L62. -->
+:::
 
 ## Mod divider
 
