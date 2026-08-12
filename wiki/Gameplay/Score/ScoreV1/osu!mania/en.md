@@ -37,14 +37,14 @@ ModDivider = The punishment divider of the selected mods (see below)
 
 | Judgement | HitValue | HitBonusValue | HitBonus | HitPunishment |
 | :-- | --: | --: | --: | --: |
-| MAX | 320 | 32 | 2 |  |
-| 300 | 300 | 32 | 1 |  |
-| 200 | 200 | 16 |  | 8 |
-| 100 | 100 | 8 |  | 24 |
-| 50 | 50 | 4 |  | 44 |
-| Miss | 0 | 0 |  | ∞ |
+| PERFECT | 320 | 32 | 2 |  |
+| GREAT | 300 | 32 | 1 |  |
+| GOOD | 200 | 16 |  | 8 |
+| OK | 100 | 8 |  | 24 |
+| MEH | 50 | 4 |  | 44 |
+| MISS | 0 | 0 |  | ∞ |
 
-## Mod multipliers
+## Mod multiplier
 
 Difficulty increase mods do not affect the score, so it never exceeds 1,000,000.
 
@@ -54,7 +54,7 @@ Difficulty increase mods do not affect the score, so it never exceeds 1,000,000.
 | [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) | 0.50x |
 | [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) | 0.50x |
 
-[Key mods](/wiki/Gameplay/Game_modifier/Summary#xk-mod-score-multipliers), including [Co-op](/wiki/Gameplay/Game_modifier/Co-op), have score multipliers of their own, ranging from 0.66x to 1.00x. They only apply to beatmaps converted from osu!, and give no penalty on osu!mania-specific beatmaps.
+[Key mods](/wiki/Gameplay/Game_modifier/Summary#xk-mod-score-multipliers), including [Co-op](/wiki/Gameplay/Game_modifier/Co-op), have score multipliers of their own, ranging from 0.66x to 1.00x. They only apply to beatmaps [converted from osu!](/wiki/Beatmap/Converts), and give no penalty on osu!mania-specific beatmaps.
 
 With the [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) mod enabled, No Fail no longer halves the score, while Easy and Half Time still do.<!-- reference: https://github.com/ppy/osu/blob/9f227ed28b6c8ba46dfea1f000f778d8b2827ad0/osu.Game.Rulesets.Mania/Difficulty/ManiaLegacyScoreSimulator.cs#L25-L62. -->
 
