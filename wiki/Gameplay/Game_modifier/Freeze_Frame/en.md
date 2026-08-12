@@ -37,6 +37,6 @@ The **Freeze Frame** mod causes all [hit objects](/wiki/Gameplay/Hit_object) in 
 
 ## Scoring
 
-Freeze Frame has a score multiplier of `1.00x`. However, when using [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) along with Freeze Frame, Flashlight's multiplier is reduced by 50 %, see [Flashlight (FL) § Scoring](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)#scoring).
+Freeze Frame has a score multiplier of `1.00x`. However, when using [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) along with Freeze Frame, Flashlight's multiplier is reduced, see [Flashlight (FL) § Scoring](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)#scoring).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
