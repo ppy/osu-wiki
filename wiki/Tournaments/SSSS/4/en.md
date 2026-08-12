@@ -1,7 +1,7 @@
 ---
 tags:
-  - SSSS3
-  - SSSS 3
+  - SSSS4
+  - SSSS 4
 ---
 
 # SEA Summer Suiji Showdown 4
