@@ -65,7 +65,11 @@ With the [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) mod enabled, No Fail no
 
 ## Mod divider
 
-Difficulty increase mods divide `HitPunishment` before it is subtracted from the bonus, making a 200 or below cost less bonus score than it would without mods. This still does not raise the maximum score, because a perfect play keeps the bonus at its maximum either way.
+The mod divider used to be a divisor applied to `HitPunishment` that depended on a combination of selected mods. It is now always equal to 1 and has no effect on score.[^note-mod-divider-0] [^note-mod-divider-1]
+
+### Old usage
+
+Previously, difficulty increase mods divided `HitPunishment` before it was subtracted from the bonus, making a 200 or below cost less bonus score than it would without mods. This did not raise the maximum score, because a perfect play kept the bonus at its maximum either way.
 
 | Mod | `ModDivider` |
 | :-- | --: |
@@ -75,3 +79,8 @@ Difficulty increase mods divide `HitPunishment` before it is subtracted from the
 | [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) | 1.06 |
 | [Hidden](/wiki/Gameplay/Game_modifier/Hidden) | 1.06 |
 | [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) | 1.06 |
+
+## References
+
+[^note-mod-divider-0]: [Forum thread by Adyrem (2020-05-16) "ModDivider in BonusScore calculation does nothing"](https://osu.ppy.sh/community/forums/topics/1071173)
+[^note-mod-divider-1]: [GitHub comment by AndiTafel (2026-08-11) in "In `Gameplay/Score/ScoreV1/osu!mania`, split `ModMultiplier` and `ModDivider` for clarity #15073"](https://github.com/ppy/osu-wiki/pull/15073#discussion_r3761909692)
