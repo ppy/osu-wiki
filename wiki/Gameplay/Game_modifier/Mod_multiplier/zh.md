@@ -29,5 +29,5 @@ tags:
 
 ## 冷知识
 
-- 在 osu!(stable) 中，模组倍率在[模组选择界面](/wiki/Gameplay/Game_modifier)中显示为`分数倍率 (Score Multiplier)`，而在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 中则被称作 `Difficulty Multiplier`。
+- 在 osu! 中，模组倍率在[模组选择界面](/wiki/Gameplay/Game_modifier)中显示为`分数倍率 (Score Multiplier)`。
 - osu! 曾将模组倍率向下舍入到最近的百分位，直到<!-- in (year)-->某个补丁修复了该问题，使其只会在千分位不小于 0.005 时才会向上舍入。
