@@ -84,7 +84,7 @@ For each parameter (CS, HP, AR, OD), an individual multiplier is calculated as f
 
 The final multiplier is then calculated as the product of the individual multipliers of all parameters, but cannot be lower than `0.10x`.
 
-Thus, if $A_1,A_2,A_3$ and $A_4$ denote the selected CS, HP, OD and AR and $B_1,B_2,B_3$ and $B_4$ denote the beatmap's CS, HP, OD and AR, the score multiplier is given by
+Thus, if $A_1,A_2,A_3$ and $A_4$ denote the selected CS, HP, OD and AR and $B_1,B_2,B_3$ and $B_4$ denote the beatmap's CS, HP, OD and AR, the score multiplier is given by[^multiplier]
 
 $$\max\left(0.1,\prod_{i=1}^4\max\big(0.1,1-0.5\cdot|A_i-B_i|\big)\right).$$
 
@@ -111,6 +111,10 @@ Thus, the final score multiplier in this case is `0.75 * 0.85 = 0.6375x`.
 ### ![][osu!taiko] ![][osu!catch] ![][osu!mania] Other game modes
 
 In osu!taiko, osu!catch and osu!mania, Difficulty Adjust has a score multiplier of `0.50x`.
+
+## References
+
+[^multiplier]: [`OsuScoreMultiplierCalculatorV2` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L165-L184)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

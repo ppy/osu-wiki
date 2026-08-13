@@ -58,7 +58,7 @@ Enabling this setting will cause your scores to be **unranked**.
 
 ### ![][osu!] osu!
 
-In osu!, Hidden has a score multiplier of `1.04x` by default.
+In osu!, Hidden has a score multiplier of `1.04x` by default.[^multiplier]
 
 - If `Only fade approach circles` is enabled, the multiplier is reduced by `0.02x`.
 - If any of the mods [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate) or [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel) are enabled, the multiplier is reduced by `0.02x`.
@@ -73,6 +73,10 @@ In osu!taiko and osu!catch, Hidden has a score multiplier of `1.06x`.
 ### ![][osu!mania] osu!mania
 
 In osu!mania, Hidden has a score multiplier of `1.00x`.
+
+## References
+
+[^multiplier]: [`OsuScoreMultiplierCalculatorV2` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L141-L152)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

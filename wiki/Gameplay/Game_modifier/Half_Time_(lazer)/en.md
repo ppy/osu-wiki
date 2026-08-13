@@ -55,13 +55,13 @@ Changing the `Speed decrease` setting causes your scores to be **unranked**, whi
 
 In osu!, Half Time has a score multiplier which depends on the selected `Speed decrease` and is calculated as follows:
 
-The `Speed decrease` is rounded *down* to the nearest multiple of 0.05x (e.g. 0.87x becomes 0.85x), let's call this value the `rate`. The score multiplier is then given by `1.4 * rate - 0.5`.
+The `Speed decrease` is rounded *down* to the nearest multiple of 0.05x (e.g. 0.87x becomes 0.85x), let's call this value the `rate`. The score multiplier is then given by `1.4 * rate - 0.5`.[^multiplier-osu]
 
 ### ![][osu!taiko] ![][osu!catch] ![][osu!mania] Other game modes
 
 In osu!taiko, osu!catch and osu!mania, the score multiplier for Half Time is calculated quite similarly:
 
-The `Speed decrease` is rounded *down* to one decimal place (e.g. 0.87x becomes 0.80x), let's call this value the `rate`. The score multiplier is then given by `rate - 0.4`.
+The `Speed decrease` is rounded *down* to one decimal place (e.g. 0.87x becomes 0.80x), let's call this value the `rate`. The score multiplier is then given by `rate - 0.4`.[^multiplier-taiko][^multiplier-catch][^multiplier-mania]
 
 ### Summary
 
@@ -79,6 +79,13 @@ Altogether, the various score multipliers of the Half Time mod are listed in the
 | 0.85x - 0.89x | `0.69x` | `0.40x` |
 | 0.90x - 0.94x | `0.76x` | `0.50x` |
 | 0.95x - 0.99x | `0.83x` | `0.50x` |
+
+## References
+
+[^multiplier-osu]: [`OsuScoreMultiplierCalculatorV2` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L121-L126)
+[^multiplier-taiko]: [`TaikoScoreMultiplierCalculator` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Taiko/Scoring/TaikoScoreMultiplierCalculator.cs#L74-L86)
+[^multiplier-catch]: [`CatchScoreMultiplierCalculator` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Catch/Scoring/CatchScoreMultiplierCalculator.cs#L73-L85)
+[^multiplier-mania]: [`ManiaScoreMultiplierCalculator` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Mania/Scoring/ManiaScoreMultiplierCalculator.cs#L88-L100)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

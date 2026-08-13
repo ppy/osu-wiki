@@ -46,7 +46,7 @@ The **Wind Down** mod allows the user to play at a decreasing speed. When starti
 
 ### ![][osu!] osu!
 
-In osu!, Wind Down has a score multiplier which depends on the selected `Initial rate` and `Final rate`. It is calculated as follows:
+In osu!, Wind Down has a score multiplier which depends on the selected `Initial rate` and `Final rate`. It is calculated as follows:[^multiplier]
 
 1. If the `Initial rate` is smaller than 1.00x, calculate the initial score multiplier `initial_multiplier` as described in [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)#scoring). If it is larger than 1.00x, use [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)#scoring) instead. If the `Initial rate` is 1.00x, use `initial_multiplier = 1.00x`.
 2. Repeat this step to calculate the final score multiplier `final_multiplier`.
@@ -59,6 +59,10 @@ If the `Initial rate` is 1.20x and the `Final rate` is 0.91x, the initial and fi
 ### ![][osu!taiko] ![][osu!catch] ![][osu!mania] Other game modes
 
 In osu!taiko, osu!catch and osu!mania, Wind Down has a score multiplier of `0.50x`.
+
+## References
+
+[^multiplier]: [`OsuScoreMultiplierCalculatorV2` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L186-L195)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

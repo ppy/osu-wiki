@@ -67,7 +67,7 @@ In osu!, Flashlight has a score multiplier of `1.20x` by default, but is modifie
 4. If [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) is enabled, the multiplier is divided by `2`.
 5. Finally, `1` is added to the multiplier, therefore always resulting in a value between `1.02x` and `1.20x`.
 
-Thus, if $S$ is the selected `Flashlight size`, $C=5$ if `Change size based on combo` is disabled ($C=1$ otherwise) and $F=2$ if [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) is enabled ($F=1$ otherwise), the score multiplier is given by
+Thus, if $S$ is the selected `Flashlight size`, $C=5$ if `Change size based on combo` is disabled ($C=1$ otherwise) and $F=2$ if [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) is enabled ($F=1$ otherwise), the score multiplier is given by[^multiplier]
 
 $$1+\frac{\max(0.02, \min(0.2,0.2\cdot(2-S)))}{C\cdot F}.$$
 
@@ -86,6 +86,10 @@ In osu!taiko and osu!catch, Flashlight has a score multiplier of `1.12x`. Howeve
 ### osu!mania ![][osu!mania]
 
 In osu!mania, Flashlight has a score multiplier of `1.00x`, regardless of its settings.
+
+## References
+
+[^multiplier]: [`OsuScoreMultiplierCalculatorV2` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L154-L163)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

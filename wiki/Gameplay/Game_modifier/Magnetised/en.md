@@ -41,12 +41,16 @@ When using **Magnetised**, all [hit objects](/wiki/Gameplay/Hit_object) automati
 
 ## Scoring
 
-The score multiplier for Magnetised depends in the selected `Attraction strength` and is given by `0.7 - 0.6 * attraction_strength`.
+The score multiplier for Magnetised depends in the selected `Attraction strength` and is given by `0.7 - 0.6 * attraction_strength`.[^multiplier]
 
 Since `Attraction strength` can be chosen from 0.05 to 1.0, the score multiplier ranges from `0.10x` to `0.67x`.
 
 ## Trivia
 
-- Magnetised [used to be called](https://github.com/ppy/osu/pull/17588) Aim Assist.
+- Magnetised was added to the game [on 5 February 2022](https://osu.ppy.sh/home/changelog/lazer/2022.205.0) under the Name *Aim Assist*. The mod was later renamed to Magnetised [on 5 April 2022](https://osu.ppy.sh/home/changelog/lazer/2022.405.0).
+
+## References
+
+[^multiplier]: [`OsuScoreMultiplierCalculatorV2` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L93)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

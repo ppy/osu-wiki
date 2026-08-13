@@ -76,11 +76,15 @@ Changing the number of extra lives will cause your scores to be **unranked**.
 
 In osu!, Easy has a score multiplier of `0.80x` by default. For each extra live above the default value, this multiplier is reduced by `0.10x` to a minimum of `0.40x` (reached at 6 extra lives). Using less than 2 extra lives does not affect the multiplier.
 
-Thus, the score multiplier is given by `max(0.4, 0.8 - max(0, 0.1 * (extra_lives - 2)))`.
+Thus, the score multiplier is given by `max(0.4, 0.8 - max(0, 0.1 * (extra_lives - 2)))`.^[multiplier]
 
 ### ![][osu!taiko] ![][osu!catch] ![][osu!mania] Other game modes
 
 In osu!taiko, osu!catch and osu!mania, Easy has a score multiplier of `0.50x`.
+
+## References
+
+[^multiplier]: [`OsuScoreMultiplierCalculatorV2` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L112-L119)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

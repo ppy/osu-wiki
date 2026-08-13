@@ -55,13 +55,13 @@ Changing the `Speed increase` setting causes your scores to be **unranked**, whi
 
 In osu!, Double Time has a score multiplier which depends on the selected `Speed increase` and is calculated as follows:
 
-The `Speed increase` is rounded *down* to one decimal place (e.g. 1.57x becomes 1.50x), let's call this value the `rate`. The score multiplier is then given by `1 + 0.46 * (rate - 1)` if `rate` is 1.00x or 1.50x and `1 + 0.46 * (rate - 1) - 0.01` otherwise.
+The `Speed increase` is rounded *down* to one decimal place (e.g. 1.57x becomes 1.50x), let's call this value the `rate`. The score multiplier is then given by `1 + 0.46 * (rate - 1)` if `rate` is 1.00x or 1.50x and `1 + 0.46 * (rate - 1) - 0.01` otherwise.[^multiplier-osu]
 
 ### ![][osu!taiko] osu!taiko and ![][osu!catch] osu!catch
 
 In osu!taiko and osu!catch, the score multiplier for Double Time is calculated quite similarly:
 
-The `Speed increase` is rounded *down* to one decimal place (e.g. 1.57x becomes 1.50x), let's call this value the `rate`. The score multiplier is then given by `1 + 0.2 * (rate - 1)`.
+The `Speed increase` is rounded *down* to one decimal place (e.g. 1.57x becomes 1.50x), let's call this value the `rate`. The score multiplier is then given by `1 + 0.2 * (rate - 1)`.[^multiplier-taiko][^multiplier-catch]
 
 ### ![][osu!mania] osu!mania
 
@@ -84,6 +84,12 @@ Altogether, the various score multipliers of the Double Time mod are listed in t
 | 1.80x - 1.89x | `1.358x` | `1.16x` | `1.00x` |
 | 1.90x - 1.99x | `1.404x` | `1.18x` | `1.00x` |
 | 2.00x | `1.45x` | `1.20x` | `1.00x` |
+
+## References
+
+[^multiplier-osu]: [`OsuScoreMultiplierCalculatorV2` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L128-L139)
+[^multiplier-taiko]: [`TaikoScoreMultiplierCalculator` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Taiko/Scoring/TaikoScoreMultiplierCalculator.cs#L74-L86)
+[^multiplier-catch]: [`CatchScoreMultiplierCalculator` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Catch/Scoring/CatchScoreMultiplierCalculator.cs#L73-L85)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

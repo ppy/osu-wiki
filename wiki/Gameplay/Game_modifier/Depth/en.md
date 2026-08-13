@@ -46,6 +46,6 @@ The **Depth** mod causes all [hit circles](/wiki/Gameplay/Hit_object/Hit_circle)
 
 ## References
 
-[^hd-dp-multiplier]: [`OsuScoreMultiplierCalculatorV2` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/12df2e4ff254975f4b66ae9efda808837ee9beea/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L42)
+[^hd-dp-multiplier]: [`OsuScoreMultiplierCalculatorV2` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L42)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
