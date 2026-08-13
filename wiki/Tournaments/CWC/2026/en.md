@@ -27,7 +27,7 @@ The **osu!catch World Cup 2026** (***CWC 2026***) was a country-based osu!catch 
 
 ## Prizes
 
-The osu!catch World Cup 2026 offered a $2,000 cash prize pool and limited-edition merch.
+The osu!catch World Cup 2026 offered a $2,000 cash prize pool and limited-edition merch. The prize pool was further increased to $2,450 from community donations.
 
 | Placing | Prizes |
 | :-: | :-- |
