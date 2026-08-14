@@ -42,7 +42,7 @@ The **Depth** mod causes all [hit circles](/wiki/Gameplay/Hit_object/Hit_circle)
 
 ## Trivia
 
-- According to the [Mod Multiplier: Survey Results](https://osu.ppy.sh/home/news/2026-06-03-mod-multipliers-survey-results#hidden-(hd)) news post, the score multiplier for [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) is reduced by `0.02x` if Depth is enabled. In fact, osu!(lazer)'s source code accounts for that,[^hddp-multiplier] even though Hidden and Depth are incompatible.
+- According to the [Mod Multiplier: Survey Results](https://osu.ppy.sh/home/news/2026-06-03-mod-multipliers-survey-results#hidden-(hd)) news post, the score multiplier for [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) is reduced by `0.02x` if Depth is enabled. In fact, osu!(lazer)'s source code accounts for that,[^hd-dp-multiplier] even though Hidden and Depth are incompatible.
 
 ## References
 
