@@ -8,6 +8,8 @@ tags:
   - mod multiplier
   - Score-Multiplikator
   - Schwierigkeitsmultiplikator
+outdated_translation: true
+outdated_since: 6b1c578abe39d6f2eae6a0585e841a7a75c83dc4
 ---
 
 # Mod-Multiplikator
