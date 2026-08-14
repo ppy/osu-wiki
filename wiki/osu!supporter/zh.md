@@ -131,7 +131,7 @@ osu! 为支持者们放宽各种在线功能的限额：
 支持者们可以使用额外的[谱面搜索](https://osu.ppy.sh/beatmapsets)过滤器：
 
 - 玩过（或没玩过）的谱面
-- 按[评价](/wiki/Gameplay/Grade)筛选谱面
+- 按[评级](/wiki/Gameplay/Grade)筛选谱面
 
 ### 在 osu! 测试版中游玩多人游戏
 
