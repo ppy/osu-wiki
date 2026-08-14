@@ -86,8 +86,8 @@ HP 值会影响每次命中获得的生命值以及每次未命中损失的生�
 
 ## 参考
 
-[^DifficultyRange]: [osu!(lazer) 源代码中的`IBeatmapDifficultyInfo`](https://github.com/ppy/osu/blob/master/osu.Game/Beatmaps/IBeatmapDifficultyInfo.cs)
+[^DifficultyRange]: [osu!(lazer) 源代码中的`IBeatmapDifficultyInfo`](https://github.com/ppy/osu/blob/3c1c96f742e7aae2ff67a7361e058fe91ca3b955/osu.Game/Beatmaps/IBeatmapDifficultyInfo.cs)
 [^OsuHealthProcessor]: [osu!(lazer) 源代码中的`OsuHealthProcessor`](https://github.com/ppy/osu/blob/9f227ed28b6c8ba46dfea1f000f778d8b2827ad0/osu.Game.Rulesets.Osu/Scoring/OsuHealthProcessor.cs)
 [^TaikoHealthProcessor]: [osu!(lazer) 源代码中的`TaikoHealthProcessor`](https://github.com/ppy/osu/blob/9f227ed28b6c8ba46dfea1f000f778d8b2827ad0/osu.Game.Rulesets.Taiko/Scoring/TaikoHealthProcessor.cs)
 [^CatchHealthProcessor]: [osu!(lazer) 源代码中的`CatchHealthProcessor`](https://github.com/ppy/osu/blob/9f227ed28b6c8ba46dfea1f000f778d8b2827ad0/osu.Game.Rulesets.Catch/Scoring/CatchHealthProcessor.cs)
-[^ManiaHealthProcessor]: [osu!(lazer) 源代码中的`ManiaHealthProcessor`](https://github.com/ppy/osu/blob/master/osu.Game.Rulesets.Mania/Scoring/ManiaHealthProcessor.cs)
+[^ManiaHealthProcessor]: [osu!(lazer) 源代码中的`ManiaHealthProcessor`](https://github.com/ppy/osu/blob/3c1c96f742e7aae2ff67a7361e058fe91ca3b955/osu.Game.Rulesets.Mania/Scoring/ManiaHealthProcessor.cs)
