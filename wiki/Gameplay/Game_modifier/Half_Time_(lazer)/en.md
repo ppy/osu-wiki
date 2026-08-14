@@ -67,7 +67,7 @@ The `Speed decrease` is rounded *down* to one decimal place (e.g. 0.87x becomes 
 
 Altogether, the various score multipliers of the Half Time mod are listed in the following table:
 
-| Speed decrease | ![][osu!] | ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| `Speed decrease` | ![][osu!] | ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | :-- | :-- | :-- |
 | 0.50x - 0.54x | `0.20x` | `0.10x` |
 | 0.55x - 0.59x | `0.27x` | `0.10x` |

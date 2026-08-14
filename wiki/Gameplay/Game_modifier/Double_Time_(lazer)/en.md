@@ -71,7 +71,7 @@ In osu!mania, Double Time has a score multiplier of `1.00x`.
 
 Altogether, the various score multipliers of the Double Time mod are listed in the following table:
 
-| Speed increase | ![][osu!] | ![][osu!taiko] ![][osu!catch] | ![][osu!mania] |
+| `Speed increase` | ![][osu!] | ![][osu!taiko] ![][osu!catch] | ![][osu!mania] |
 | :-- | :-- | :-- | :-- |
 | 1.01x - 1.09x | `1.00x` | `1.00x` | `1.00x` |
 | 1.10x - 1.19x | `1.036x` | `1.02x` | `1.00x` |
