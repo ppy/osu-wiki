@@ -1,6 +1,6 @@
 # Snapping (Begriffsabgrenzung)
 
-**Snapping** kann Folgendes bedeuten:
+**Snapping** (zu Dt. *einrasten*, *ausrichten*) kann Folgendes bedeuten:
 
 ## Beatmapping
 
