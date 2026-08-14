@@ -30,5 +30,5 @@ Daftar anggota tim dukungan teknis selengkapnya juga dapat dilihat pada [halaman
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Korea, Jepang |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Jerman |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
-| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polski |
+| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Tagalog |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polandia |

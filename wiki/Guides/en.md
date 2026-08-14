@@ -4,7 +4,9 @@ Below is a sorted list of guides created by members of the osu! community, most 
 
 ## Beatmapping
 
-*Main page: [Beatmapping](/wiki/Beatmapping)*
+::: alert-note
+**Main page:** [Beatmapping](/wiki/Beatmapping)
+:::
 
 - [Audio editing guide](Audio_editing)
 - [Changing the title text](/wiki/Beatmap/Title_text#changing-title-text)
@@ -23,7 +25,9 @@ Below is a sorted list of guides created by members of the osu! community, most 
 
 ## Modding
 
-*Main page: [Modding](/wiki/Modding)*
+::: alert-note
+**Main page:** [Modding](/wiki/Modding)
+:::
 
 - [Common modding mistakes](Common_modding_mistakes)
 - [How to get your map modded](Getting_your_map_modded)
@@ -36,7 +40,9 @@ Below is a sorted list of guides created by members of the osu! community, most 
 
 ## Skinning
 
-*Main page: [Skinning guides and important threads](/wiki/Skinning/Guides_and_important_threads)*
+::: alert-note
+**Main page:** [Skinning guides and important threads](/wiki/Skinning/Guides_and_important_threads)
+:::
 
 - [How to crop images with complex backgrounds](Cropping_with_complex_backgrounds)
 - [How to crop images with simple backgrounds](Cropping_with_simple_backgrounds)

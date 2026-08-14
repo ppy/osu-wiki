@@ -62,7 +62,10 @@ ScoreV2 aumenta la ponderación de los rainbow 300 a 305:
 
 El gráfico de rendimiento es un gráfico que muestra el rendimiento del jugador (basado en su barra de vida) en el transcurso de una jugada (tiempo). Se puede mostrar información adicional al pasar el cursor del juego sobre ella.
 
-*Nota: La información adicional solo se puede ver después de jugar un beatmap o ver una repetición. Después de salir de la [pantalla de resultados](/wiki/Client/Interface#pantalla-de-resultados), esta información no se guardará.*
+::: alert-notice
+**Aviso**
+La información adicional solo se puede ver después de jugar un beatmap o ver una repetición. Después de salir de la [pantalla de resultados](/wiki/Client/Interface#pantalla-de-resultados), esta información no se guardará.
+:::
 
 ### Precisión
 
@@ -76,7 +79,9 @@ Debido a la forma en que se implementan los mods [DT](/wiki/Gameplay/Game_modifi
 
 #### Tasa inestable
 
-*Página principal: [Tasa inestable](/wiki/Gameplay/Unstable_rate)*
+::: alert-note
+**Página principal:** [Tasa inestable](/wiki/Gameplay/Unstable_rate)
+:::
 
 `Unstable Rate` (*UR*) muestra la [desviación estándar](https://es.wikipedia.org/wiki/Desviación_típica) de los errores de golpeo, en décimas de milisegundo. Un UR más bajo indica una mayor consistencia.
 
@@ -84,7 +89,10 @@ Ten en cuenta que la consistencia no es lo mismo que la precisión. Si bien un U
 
 ### Giros
 
-*Nota: El giro solo es usado para el modo de juego [osu!](/wiki/Game_mode/osu!).*
+::: alert-notice
+**Aviso**
+El giro solo es usado para el modo de juego [osu!](/wiki/Game_mode/osu!).
+:::
 
 Además de la precisión, en el mismo texto emergente también se ve alguna información sobre los spinners.
 

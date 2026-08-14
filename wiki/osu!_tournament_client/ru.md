@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
----
-
 # Турнирный клиент osu!
 
 **Турнирный клиент** — официальное приложение, использующее [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) для отображения дополнительных сведений о турнире и наблюдении за его участниками в ходе трансляции.
@@ -20,7 +15,7 @@ outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
 ![Экран настройки турнирного клиента](img/setup-screen.png)
 
 - Проверьте, что в поле `Current IPC source` указан путь к инсталляции osu!tourney, которую вы планируете использовать.
-- Войдите в osu!(lazer), нажав на кнопку `Change Login`.
+- Войдите в osu!(lazer), нажав на кнопку `Change sign-in`.
 - Выберите в выпадающем списке нужный режим игры (ruleset).
 - Настройте высоту клиента, равную значению строчки `Height` в файле `tournament.cfg`, который находится в директории установки osu!tourney.
 
@@ -36,6 +31,12 @@ outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
   - Flags
   - Mods
   - Videos
+
+Для управления настройками турнира используйте инструменты, перечисленные ниже:
+
+- `Team Editor`: Изменение команд и игроков
+- `Rounds Editor`: Управление маппулом и раундами
+- `Bracket Editor`: Создание новых матчей и управление командами, раундами и временем каждого матча
 
 ## Настройка оформления
 
@@ -72,10 +73,13 @@ outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
 | Сцена | Имя файла |
 | :-- | :-- |
 | Schedule | `schedule` |
-| TeamIntro | `teamintro` |
+| Bracket | `ladder` |
+| Team Intro | `teamintro` |
 | Seeding | `seeding` |
-| MapPool | `mappool` |
+| Map Pool | `mappool` |
 | Gameplay | `gameplay` |
 | Win | `teamwin-red`, `teamwin-blue` |
 | Drawings | `main` |
 | Showcase | `showcase` |
+
+Видеофайл с именем `main` будет использован как фон по умолчанию до тех пор, пока его не заменит один из перечисленных выше видеофайлов.

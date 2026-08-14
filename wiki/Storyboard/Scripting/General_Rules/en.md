@@ -8,7 +8,9 @@ This guide describes the lines of scripting code that are placed into the .osb o
 
 ### Objects
 
-*For objects in [osu!](/wiki/Game_mode/osu!) and [Beatmapping](/wiki/Beatmapping), see: [Hit Objects](/wiki/Gameplay/Hit_object)*
+::: alert-note
+**Note:** For objects in [osu!](/wiki/Game_mode/osu!) and [Beatmapping](/wiki/Beatmapping), see [Hit Objects](/wiki/Gameplay/Hit_object)
+:::
 
 A [Storyboard object](/wiki/Storyboard/Scripting/Objects) is an instance of a sprite or an animation in a storyboard. Storyboards can also have sound, see the [Audio](/wiki/Storyboard/Scripting/Audio) guide for more details.
 

@@ -5,13 +5,17 @@ outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
 
 # Устройство osu! wiki
 
-*См. также: [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
+::: alert-note
+**См. также:** [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide)
+:::
 
 Здесь рассказывается о технических и административных аспектах osu! wiki, а также приводятся различные [рутинные задачи по обновлению статей](#рутинная-работа), с которыми вы можете помочь. Все обсуждения, связанные с osu! wiki, ведутся на канале `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/Discord_servers#official).
 
 ## Администраторы
 
-*Основная статья: [Администраторы osu! wiki](/wiki/People/osu!_wiki_maintainers)*
+::: alert-note
+**Основная статья:** [Администраторы osu! wiki](/wiki/People/osu!_wiki_maintainers)
+:::
 
 Администраторы — лица, у которых есть [совместный доступ](https://docs.github.com/ru/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) к [репозиторию `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), где хранятся все статьи и новости. Они разбирают связанные с проектом задачи и проблемы, проверяют пулл-реквесты и принимают решения, определяющие развитие osu! wiki.
 
@@ -102,7 +106,9 @@ outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
 
 ##### Проверка ссылок
 
-*См. также: [Критерии оформления статей/Оформление § Вики-ссылки](/wiki/Article_styling_criteria/Formatting#вики-ссылки)*
+::: alert-note
+**См. также:** [Критерии оформления статей/Оформление § Вики-ссылки](/wiki/Article_styling_criteria/Formatting#вики-ссылки)
+:::
 
 Если вы редактируете статью, рекомендуется заодно исправить и битые ссылки, если они там есть. Иногда это становится нетривиальной задачей, либо мешает:
 
@@ -112,7 +118,9 @@ outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
 
 ##### Устаревшие переводы
 
-*См. также: [Критерии оформления статей/Оформление § Устаревший перевод](/wiki/Article_styling_criteria/Formatting#устаревший-перевод) и [Критерии оформления статей/Содержание § Равенство содержания](/wiki/Article_styling_criteria/Writing#равенство-содержания)*
+::: alert-note
+**См. также:** [Критерии оформления статей/Оформление § Устаревший перевод](/wiki/Article_styling_criteria/Formatting#устаревший-перевод) и [Критерии оформления статей/Содержание § Равенство содержания](/wiki/Article_styling_criteria/Writing#равенство-содержания)
+:::
 
 Пропускать эту проверку (и не помечать переводы как устаревшие) стоит, если ваши правки не меняют смысл и подробности статьи и заключаются в переформулировке фраз, исправлении ошибок, опечаток, и т.д.
 
@@ -131,7 +139,10 @@ osu! wiki интегрирована в веб-сайт osu!: о техниче�
 
 ## Рутинная работа
 
-*Примечание: на сайте [osu-wiki status](https://osu.wiki/status/en) есть список статей, нуждающихся в доработке.*
+::: alert-notice
+**Внимание**
+на сайте [osu-wiki status](https://osu.wiki/status/en) есть список статей, нуждающихся в доработке.
+:::
 
 Ценность и полнота вики зависят от участия сообщества. Вы можете помочь администраторам и редакторам, если тоже сделаете пару правок. О том, как именно их сделать, см. [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide). Если вы где-то застряли, попросите помощи на канале `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/Discord_servers#official).
 

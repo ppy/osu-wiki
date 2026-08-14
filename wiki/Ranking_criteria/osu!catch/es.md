@@ -50,7 +50,9 @@ Las reglas y pautas para las dificultades específicas solo se aplican al nivel 
 
 ### Nombres de las dificultades
 
-*Artículo principal: [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Página principal:** [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad

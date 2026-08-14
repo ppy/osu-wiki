@@ -4,7 +4,9 @@ Unten findet sich eine Liste an Tutorials, die von Mitgliedern der osu!-Communit
 
 ## Beatmapping
 
-*Hauptseite: [Beatmapping](/wiki/Beatmapping)*
+::: alert-note
+**Hauptseite:** [Beatmapping](/wiki/Beatmapping)
+:::
 
 - [Ratgeber für das Bearbeiten von Audio](Audio_Editing)
 - [Den Titeltext ändern](/wiki/Beatmap/Title_text#den-titeltext-anpassen)
@@ -23,7 +25,9 @@ Unten findet sich eine Liste an Tutorials, die von Mitgliedern der osu!-Communit
 
 ## Modding
 
-*Hauptseite: [Modding](/wiki/Modding)*
+::: alert-note
+**Hauptseite:** [Modding](/wiki/Modding)
+:::
 
 - [Häufige Modding-Fehler](Common_modding_mistakes)
 - [Wie du deine Map gemoddet bekommst](Getting_your_map_modded)
@@ -36,7 +40,9 @@ Unten findet sich eine Liste an Tutorials, die von Mitgliedern der osu!-Communit
 
 ## Skinning
 
-*Hauptseite: [Ratgeber für Skinning und wichtige Threads](/wiki/Skinning/Guides_and_important_threads)*
+::: alert-note
+**Hauptseite:** [Ratgeber für Skinning und wichtige Threads](/wiki/Skinning/Guides_and_important_threads)
+:::
 
 - [Wie man Bilder mit komplexen Hintergründen zuschneidet](Cropping_with_complex_backgrounds)
 - [Wie man Bilder mit einfachen Hintergründen zuschneidet](Cropping_with_simple_backgrounds)

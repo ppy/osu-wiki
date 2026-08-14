@@ -8,8 +8,13 @@ tags:
 
 # Profile badge
 
-*Not to be confused with group badges, which also appear on user profiles.*\
-*For rules regarding usage as tournament prizing, see: [Official tournament support § Profile Badges](/wiki/Tournaments/Official_support#profile-badges)*
+::: alert-note
+**Note:** Not to be confused with group badges, which also appear on user profiles.
+:::
+
+::: alert-note
+**Note:** For rules regarding usage as tournament prizing, see [Official tournament support § Profile Badges](/wiki/Tournaments/Official_support#profile-badges)
+:::
 
 ![Screenshot of HappyStick's badges on the website](img/HappyStick.png "Profile badges display under the avatar and username on the website.")
 
@@ -19,7 +24,9 @@ When hovering over a badge, a tooltip is shown with more details about why the b
 
 ## Tournament seeding
 
-*Main page: [Badge-weighted seeding](/wiki/Tournaments/Badge-weighted_seeding)*
+::: alert-note
+**Main page:** [Badge-weighted seeding](/wiki/Tournaments/Badge-weighted_seeding)
+:::
 
 In the [game client](/wiki/Client) and on the website, badges are purely decorative. However, due to [tournament](/wiki/Tournaments) prize badges showcasing players' performance, some tournaments have adopted [seeding](https://en.wikipedia.org/wiki/Seed_(sports)) methods that factor in the amount of badges players have, commonly known as [badge-weighted seeding](/wiki/Tournaments/Badge-weighted_seeding) (BWS).
 

@@ -71,7 +71,10 @@ Una vez que la etiqueta de osu!supporter expire, los colores personalizados perm
 
 ### Cambio de nombre gratis
 
-*Nota: Se pueden solicitar cambios menores de nombre al equipo de soporte de cuentas de forma gratuita, véase [Centro de ayuda/Cuenta § ¿Puedo cambiar el nombre de usuario de mi cuenta?](/wiki/Help_centre/Account#name-changes).*
+::: alert-notice
+**Aviso**
+Se pueden solicitar cambios menores de nombre al equipo de soporte de cuentas de forma gratuita, véase [Centro de ayuda/Cuenta § ¿Puedo cambiar el nombre de usuario de mi cuenta?](/wiki/Help_centre/Account#name-changes).
+:::
 
 Obtener un osu!supporter viene con la habilidad de cambiar tu nombre de usuario por primera vez de manera gratuita, siguiendo las [condiciones usuales](/wiki/Help_centre/Account#name-changes).
 

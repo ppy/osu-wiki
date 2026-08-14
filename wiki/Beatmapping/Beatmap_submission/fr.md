@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 37adfc5ef491f9709016f0c4263911d301b0304f
+---
+
 # Soumission
 
 Les [beatmaps](/wiki/Beatmap) peuvent être publiées sur le site web d'osu! via [l'éditeur du jeu](/wiki/Client/Beatmap_editor). Soumettre une beatmap lui permet de recevoir l'attention des autres utilisateurs et d'entrer potentiellement dans les catégories [Classée](/wiki/Beatmap/Category#ranked), ou [Loved](/wiki/Beatmap/Category#loved).

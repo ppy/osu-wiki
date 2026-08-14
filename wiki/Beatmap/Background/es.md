@@ -6,7 +6,9 @@ tags:
 
 # Fondo
 
-*Para conocer las regulaciones relativas a los fondos, véase: [Criterios de clasificación](/wiki/Ranking_criteria)*
+::: alert-note
+**Nota:** Para conocer las regulaciones relativas a los fondos, véase [Criterios de clasificación](/wiki/Ranking_criteria)
+:::
 
 Se pueden agregar imágenes y vídeos de fondo a los [beatmaps](/wiki/Beatmap). Cuando se escribe solo como «background» o «bg», normalmente se refiere a la imagen de fondo.
 

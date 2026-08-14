@@ -8,7 +8,9 @@ tags:
 
 # Offizielle Turnierunterstützung
 
-*Für die Unterstützung von Beatmapping-Wettbewerben, siehe: [Offizielle Beatmapping-Wettbewerbsunterstützung](/wiki/Contests/Official_support).*
+::: alert-note
+**Anmerkung:** Für die Unterstützung von Beatmapping-Wettbewerben, siehe [Offizielle Beatmapping-Wettbewerbsunterstützung](/wiki/Contests/Official_support).
+:::
 
 Durch die **offizielle Turnierunterstützung** können von der Community veranstaltete Turniere, die bestimmte Kriterien und Erwartungen erfüllen, im Ermessen des [osu!-Teams](/wiki/People/osu!_team) zusätzlich unterstützt werden.
 

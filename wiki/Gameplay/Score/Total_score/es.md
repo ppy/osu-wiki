@@ -1,6 +1,8 @@
 # Puntuación total
 
-*Para otros usos, véase [Puntuación (desambiguación)](/wiki/Disambiguation/Score).*
+::: alert-note
+**Nota:** [Puntuación (desambiguación)](/wiki/Disambiguation/Score).
+:::
 
 La **puntuación total** es la suma total de todas las puntuaciones en todos los beatmaps, incluidos los intentos fallidos.
 

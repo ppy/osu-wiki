@@ -22,7 +22,7 @@ layout: main_page
 </div>
 <div class="wiki-main-page-panel">
 
-# 游戏客户端
+# [游戏客户端](/wiki/Client)
 
 作为通往节奏、节拍与光影世界的向导，osu! 内容丰富多样。从各种设置和自定义功能到使用的技术细节和文件格式，深入了解这款游戏。
 
@@ -33,7 +33,7 @@ layout: main_page
 </div>
 <div class="wiki-main-page-panel">
 
-# 游戏玩法
+# [游戏玩法](/wiki/Gameplay)
 
 与四个游戏模式相关的一切：核心元素、概念、机制与竞技玩法。
 

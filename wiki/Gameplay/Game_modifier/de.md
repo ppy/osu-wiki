@@ -18,8 +18,13 @@ tags:
 
 # Spielmodifikationen
 
-*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Spielmodifikationen (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*\
-*Für andere Bedeutungen, siehe [Mod (Begriffsabgrenzung)](/wiki/Disambiguation/Mod).*
+::: alert-note
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Spielmodifikationen (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
+
+::: alert-note
+**Anmerkung:** [Mod (Begriffsabgrenzung)](/wiki/Disambiguation/Mod).
+:::
 
 ![Modauswahl](img/mod-selection-screen-DE.jpg "Vergleich der Modauswahl zwischen den Spielmodi osu! (oben links), osu!taiko (oben rechts), osu!catch (unten links) und osu!mania (unten rechts)")
 
@@ -31,7 +36,9 @@ Im Auswahlmenü sind Mods in drei Kategorien aufgeteilt: `Einfacher`, `Schwierig
 
 ## Liste der Mods
 
-*Siehe auch: [Zusammenfassung (Spielmodifikationen)](/wiki/Gameplay/Game_modifier/Summary)*
+::: alert-note
+**Siehe auch:** [Zusammenfassung (Spielmodifikationen)](/wiki/Gameplay/Game_modifier/Summary)
+:::
 
 Neben jeder der unten aufgeführten Modifikation werden die Symbole für die kompatiblen Spielmodi (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) angezeigt.
 
@@ -68,7 +75,10 @@ Neben jeder der unten aufgeführten Modifikation werden die Symbole für die kom
 
 ### Andere
 
-*Anmerkung: Diese Mods wurden vor einiger Zeit verwendet, aber sind jetzt nicht mehr verfügbar.*
+::: alert-notice
+**Hinweis**
+Diese Mods wurden vor einiger Zeit verwendet, aber sind jetzt nicht mehr verfügbar.
+:::
 
 - [10K](/wiki/Gameplay/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out) ![][osu!mania]

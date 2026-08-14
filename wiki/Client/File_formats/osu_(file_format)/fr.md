@@ -281,7 +281,10 @@ Il existe quatre types de courbes de slider dans osu! :
 
 Si la `longueur` du slider est plus longue que la courbe définie, le slider s'étendra en ligne droite à partir de la fin de la courbe jusqu'à ce qu'il atteigne la longueur cible.
 
-*Remarque : La `longueur` du slider peut être utilisée pour déterminer le temps nécessaire pour compléter le slider. `longueur/(MultiplicateurSlider* 100 * SV) * LongueurBeat` indique combien de millisecondes il faut pour compléter un slide du slider (où `SV` est le multiplicateur de vitesse du slider donné par le point de timing hérité effectif, ou `1` s'il n'y en a pas).*
+::: alert-notice
+**Note**
+La `longueur` du slider peut être utilisée pour déterminer le temps nécessaire pour compléter le slider. `longueur/(MultiplicateurSlider* 100 * SV) * LongueurBeat` indique combien de millisecondes il faut pour compléter un slide du slider (où `SV` est le multiplicateur de vitesse du slider donné par le point de timing hérité effectif, ou `1` s'il n'y en a pas).
+:::
 
 #### Hitsounds des sliders
 

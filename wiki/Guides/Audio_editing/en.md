@@ -8,7 +8,10 @@ This article serves as guide to help you do minor edits to your audio files for 
 
 ## Audacity
 
-*Note: This article uses Audacity 3.4.2.*
+::: alert-notice
+**Notice**
+This article uses Audacity 3.4.2.
+:::
 
 [Audacity](https://www.audacityteam.org/download) is a free, open-source audio editing and recording software. It uses the [LAME](https://lame.sourceforge.io) encoding library to be able to export audio in the MP3 audio format and is built into Audacity on Windows and macOS.
 
@@ -16,7 +19,9 @@ Linux users should refer to the [Audacity Reference Manual](https://manual.audac
 
 ### Lowering Bit Rate
 
-*For information on compression in general, see: [Compressing files](/wiki/Guides/Compressing_files)*
+::: alert-note
+**Note:** For information on compression in general, see [Compressing files](/wiki/Guides/Compressing_files)
+:::
 
 Install and open Audacity, then follow these steps:
 
@@ -62,13 +67,19 @@ Install and open Audacity, then follow these steps:
 
 ## mp3DirectCut
 
-*Note: This article uses mp3DirectCut 2.36.*
+::: alert-notice
+**Notice**
+This article uses mp3DirectCut 2.36.
+:::
 
 [mp3DirectCut](https://mpesch3.de) is a free-to-use audio editing software that can directly edit MP3 files without re-encoding, often preventing loss of quality. It is recommended when needing to raise/lower the volume or crop the audio.
 
 ### Lowering Bit Rate
 
-*Note: A 32-bit library file is needed to use this feature.*
+::: alert-notice
+**Notice**
+A 32-bit library file is needed to use this feature.
+:::
 
 1. Open the `.mp3` file that you want to lower the bit rate on.
 2. Click `Settings` -> `Configuration`, or press `F11`.

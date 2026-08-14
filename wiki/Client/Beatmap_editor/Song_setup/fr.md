@@ -27,7 +27,10 @@ La section `General` fournit des informations qui aident les joueurs non seuleme
 
 ## Difficulty
 
-*Remarque : Les [critères de classement](/wiki/Ranking_criteria) spécifiques à chaque mode de jeu contiennent des paramètres recommandés pour chaque niveau de difficulté.*
+::: alert-notice
+**Note**
+Les [critères de classement](/wiki/Ranking_criteria) spécifiques à chaque mode de jeu contiennent des paramètres recommandés pour chaque niveau de difficulté.
+:::
 
 ![Deux captures d'écran de l'onglet Difficulty. osu!mania diffère des autres modes de jeu.](img/SS_Difficulty.jpg "La section Difficulty. Cette fenêtre de dialogue est différente pour les difficultés spécifiques à osu!mania, comme illustré à droite.")
 
@@ -37,13 +40,17 @@ Les valeurs peuvent être ajustées avec une précision de 0,1x en maintenant la
 
 ### HP drain rate
 
-*Article principale : [Santé](/wiki/Beatmap/HP_drain_rate)*
+::: alert-note
+**Page principale** : [Santé](/wiki/Beatmap/HP_drain_rate)
+:::
 
 Le HP drain rate (HP) détermine la quantité de points de vie récupérés ou les dégâts causés par des [hits](/wiki/Gameplay/Judgement) précis ou non. Dans osu! et osu!catch, il affecte également le [passive health drain](/wiki/Beatmap/HP_drain_rate). Des valeurs plus élevées permettent de récupérer moins de points de vie et d'infliger des punitions plus lourdes.
 
 ### Circle size
 
-*Article principale : [Circle size](/wiki/Beatmap/Circle_size)*
+::: alert-note
+**Page principale** : [Circle size](/wiki/Beatmap/Circle_size)
+:::
 
 ![Aperçu des différentes circle sizes](img/Circle_sizes.png "Aperçu des différentes circle sizes")
 
@@ -62,7 +69,9 @@ osu!taiko et osu!mania ne sont pas affectés par l'approach rate - à la place, 
 ### Overall difficulty
 
 *Article principale : [Overall difficulty](/wiki/Beatmap/Overall_difficulty)*\
-*Remarque : Sur les pages d'information des beatmap, l'overall difficulty est indiquée comme étant la `Précision`.*
+::: alert-notice
+**Remarque** : Sur les pages d'information des beatmap, l'overall difficulty est indiquée comme étant la `Précision`.
+:::
 
 L'Overall difficulty (OD) est responsable de la taille des hit windows, qui définissent à quel point il est difficile d'atteindre une grande précision. Des valeurs d'OD plus élevées signifient des timing windows plus courtes, nécessitant plus d'exactitude et de précision. La précision étant importante pour gagner des HP, l'overall difficulty influence indirectement la difficulté à réussir la beatmap.
 
@@ -129,7 +138,9 @@ La section `Design` contient divers réglages qui affectent l'aspect général d
 
 ### Stack leniency
 
-*Article principale : [Stack leniency](/wiki/Beatmap/Stack_leniency)*
+::: alert-note
+**Page principale** : [Stack leniency](/wiki/Beatmap/Stack_leniency)
+:::
 
 Le stack leniency est un paramètre spécifique à osu! qui affecte le comportement des objets empilés. Normalement, les [sliders](/wiki/Gameplay/Hit_object/Slider) et les [cercles](/wiki/Gameplay/Hit_object/Hit_circle) qui sont proches dans le temps vont automatiquement [s'empiler](/wiki/Beatmapping/Mapping_techniques/Stack) et se décaler légèrement s'ils sont placés au même endroit. Ceci est fait pour aider les joueurs à mieux voir les objets qui se [chevauchent](/wiki/Beatmapping/Mapping_techniques/Overlap).
 

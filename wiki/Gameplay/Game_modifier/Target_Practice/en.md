@@ -12,9 +12,17 @@ tags:
 
 ![TP mod icon](/wiki/shared/mods/TP.png "Target Practice (TP) mod icon")
 
-*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Target Practice (lazer mod)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer))*\
-*For the full list of all mods, see: [Game Modifiers](/wiki/Gameplay/Game_modifier)*\
-*Notice: the Target Practice mod is only accessible in the `Cutting Edge` build.*
+::: alert-note
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Target Practice (lazer mod)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer))
+:::
+
+::: alert-note
+**Note:** For the full list of all mods, see [Game Modifiers](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-notice
+**Notice:** the Target Practice mod is only accessible in the `Cutting Edge` build.
+:::
 
 ## About
 
@@ -25,7 +33,10 @@ tags:
 
 ## Description
 
-*Notice: Enabling Target Practice will result in an unranked play.*
+::: alert-notice
+**Notice**
+Enabling Target Practice will result in an unranked play.
+:::
 
 The **Target Practice** mod is an experimental [game modifier](/wiki/Gameplay/Game_modifier) for [osu!](/wiki/Game_mode/osu!), which removes all the mapped [hit objects](/wiki/Gameplay/Hit_object) and replaces them with a simplified set of "targets". It is used mostly for fun, but can also be helpful for practising a consistent tempo and improving hit accuracy.
 

@@ -23,7 +23,7 @@
 | 奖章名称 | 条件 | 描述 |
 | :-- | :-- | :-- |
 | Catch 20,000 fruits | 在 osu!catch 中接到水果总数达到 20,000 个。 | That is a lot of dietary fiber. |
-| Catch 200,000 fruits | 在 osu!catch 中接到水果总数达到 200,000 个。 | So, I heard you like fruit.. |
+| Catch 200,000 fruits | 在 osu!catch 中接到水果总数达到 200,000 个。 | So, I heard you like fruit... |
 | Catch 2,000,000 fruits | 在 osu!catch 中接到水果总数达到 2,000,000 个。 | Downright healthy. |
 | Catch 20,000,000 fruits | 在 osu!catch 中接到水果总数达到 20,000,000 个。 | Nothing left behind. |
 

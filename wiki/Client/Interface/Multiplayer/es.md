@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
+---
+
 # Multijugador
 
 **Multijugador** (a veces abreviado como *Multi*) es un modo en el que hasta 16 jugadores pueden competir entre sí individualmente o en equipos, o jugar juntos de forma cooperativa, en mapas decididos por el anfitrión.
@@ -6,7 +11,10 @@
 
 ## Cómo jugar
 
-*Aviso: El modo multijugador requiere una [cuenta de osu!](/wiki/Registration) y no está disponible para jugadores [silenciados](/wiki/Silence).*
+::: alert-notice
+**Aviso**
+El modo multijugador requiere una [cuenta de osu!](/wiki/Registration) y no está disponible para jugadores [silenciados](/wiki/Silence).
+:::
 
 Desde el menú principal, se puede acceder a la sala principal de multijugador con los siguientes pasos:
 
@@ -15,7 +23,10 @@ Desde el menú principal, se puede acceder a la sala principal de multijugador c
 
 ## Sala principal
 
-*Aviso: Se requiere una etiqueta activa de [osu!supporter](/wiki/osu!supporter) para entrar a la sala mientras se usa la versión `Cutting Edge`.*
+::: alert-notice
+**Aviso**
+Se requiere una etiqueta activa de [osu!supporter](/wiki/osu!supporter) para entrar a la sala mientras se usa la versión `Cutting Edge`.
+:::
 
 ![](img/multi-lobby-ES.jpg "Ejemplo de un día típico en la sala principal del modo multijugador")
 
@@ -345,7 +356,10 @@ Los paneles a los lados muestran los resultados de cada jugador en diferentes pe
 
 ##### Interfaz
 
-*Nota: Este modo de juego no está clasificado y solo está disponible en el modo osu!.*
+::: alert-notice
+**Aviso**
+Este modo de juego no está clasificado y solo está disponible en el modo osu!.
+:::
 
 ::: Infobox
 ![](img/multi-coop-interface.jpg "Interfaz de Tag co-op")

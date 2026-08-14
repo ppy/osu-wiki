@@ -4,8 +4,13 @@ stub: true
 
 # Bitrate
 
-*Für Regeln zur Bitrate, siehe: [Ranking-Kriterien](/wiki/Ranking_criteria)*\
-*Für Hilfe zur Rekodierung von Audio in einer anderen Bitrate, siehe: [Anleitung zum Bearbeiten von Audio](/wiki/Guides/Audio_editing)*
+::: alert-note
+**Anmerkung:** Für Regeln zur Bitrate, siehe [Ranking-Kriterien](/wiki/Ranking_criteria)
+:::
+
+::: alert-note
+**Anmerkung:** Für Hilfe zur Rekodierung von Audio in einer anderen Bitrate, siehe [Anleitung zum Bearbeiten von Audio](/wiki/Guides/Audio_editing)
+:::
 
 Die **Bitrate** ist ein Maß für den Datendurchsatz von Mediendateien, gemessen in Bits pro Zeiteinheit. In osu! ist die Bitrate bei der Qualität von Audiodateien von Bedeutung: Eine höhere Audioqualität benötigt üblicherweise eine höhere Bitrate, während niedrigere Audioqualitäten mit einer geringeren Bitrate auskommen.
 

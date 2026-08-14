@@ -20,7 +20,7 @@ Artículos y guías importantes que te ayudarán a sumergirte en osu!. En caso d
 </div>
 <div class="wiki-main-page-panel">
 
-# Cliente del juego
+# [Cliente del juego](/wiki/Client)
 
 Como guía al mundo del ritmo, los pulsos y los destellos, osu! tiene mucho que presentar. Conoce mejor el juego, desde sus diversas configuraciones y capacidades de personalización hasta los detalles técnicos y los formatos de archivo que usa.
 
@@ -31,7 +31,7 @@ Como guía al mundo del ritmo, los pulsos y los destellos, osu! tiene mucho que 
 </div>
 <div class="wiki-main-page-panel">
 
-# Juego
+# [Juego](/wiki/Gameplay)
 
 Todo sobre círculos, tambores, frutas y el sintetizador: elementos clave, conceptos, mecánicas y juego competitivo.
 

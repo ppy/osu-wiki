@@ -67,7 +67,10 @@ ScoreV2 augmente la pondération des rainbow 300 à 305 :
 
 Le graphique de performance est un tableau qui affiche la performance du joueur (basée sur sa barre de vie) au cours d'une partie (temps). Des informations supplémentaires peuvent être affichées lorsque le curseur passe dessus.
 
-*Remarque : les informations supplémentaires ne peuvent être consultées qu'après avoir joué une beatmap ou regardé un replay. Après avoir quitté [écran des résultats](/wiki/Client/Interface#écran-des-résultats), ces informations ne seront pas sauvegardées.*
+::: alert-notice
+**Note**
+les informations supplémentaires ne peuvent être consultées qu'après avoir joué une beatmap ou regardé un replay. Après avoir quitté [écran des résultats](/wiki/Client/Interface#écran-des-résultats), ces informations ne seront pas sauvegardées.
+:::
 
 ### Précision
 
@@ -81,7 +84,9 @@ En raison de la façon dont les mods [DT](/wiki/Gameplay/Game_modifier/Double_Ti
 
 #### Unstable rate
 
-*Page principale : [Unstable rate](/wiki/Gameplay/Unstable_rate)*
+::: alert-note
+**Page principale** : [Unstable rate](/wiki/Gameplay/Unstable_rate)
+:::
 
 `Unstable Rate` (*UR*) affiche [l'écart-type](https://fr.wikipedia.org/wiki/%C3%89cart_type) des erreurs de frappe, en dixièmes de millisecondes. Un UR plus faible indique une plus grande cohérence.
 
@@ -89,7 +94,10 @@ Notez que la cohérence n'est pas la même chose que la précision. Alors qu'un 
 
 ### Spin
 
-*Remarque : le spin n'est utilisé que pour le mode de jeu [osu!](/wiki/Game_mode/osu!).*
+::: alert-notice
+**Note**
+le spin n'est utilisé que pour le mode de jeu [osu!](/wiki/Game_mode/osu!).
+:::
 
 En plus de l'exactitude, certaines informations concernant les spinners sont également affichées dans la même infobulle.
 

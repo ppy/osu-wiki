@@ -4,7 +4,9 @@ no_native_review: true
 
 # osu!stream
 
-*Für die Liste der im Spiel enthaltenen Songs, siehe: [Songliste von osu!stream](/wiki/osu!stream/Song_List)*
+::: alert-note
+**Anmerkung:** Für die Liste der im Spiel enthaltenen Songs, siehe [Songliste von osu!stream](/wiki/osu!stream/Song_List)
+:::
 
 ![](img/Os-Logo.jpg "Logo von osu!stream")
 
@@ -28,7 +30,10 @@ Im Jahr 2023, zwölf Jahre nach seiner erstmaligen Veröffentlichung, wurde osu!
 
 ### App Store Methode (empfohlen)
 
-*Anmerkung: Versichere dich, dass sich dein Gerät mit dem Internet verbinden kann (entweder über WLAN oder mobile Daten).*
+::: alert-notice
+**Hinweis**
+Versichere dich, dass sich dein Gerät mit dem Internet verbinden kann (entweder über WLAN oder mobile Daten).
+:::
 
 - Gehe zu "App Store" auf deinem iOS-Gerät oder "Play Store" auf Android.
 - Suche nach osu!stream
@@ -39,7 +44,10 @@ Im Jahr 2023, zwölf Jahre nach seiner erstmaligen Veröffentlichung, wurde osu!
 
 ### Methode über USB (veraltet, nur iOS)
 
-*Hinweis: Für diese Methode wird [iTunes](https://www.apple.com/itunes/) benötigt.*
+::: alert-notice
+**Hinweis**
+Für diese Methode wird [iTunes](https://www.apple.com/itunes/) benötigt.
+:::
 
 - Gehe zu [diesem Link und lade osu!stream herunter](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8).
   - Wenn nach der Apple ID gefragt wird, gib die Apple ID und das Passwort ein.
@@ -49,7 +57,10 @@ Im Jahr 2023, zwölf Jahre nach seiner erstmaligen Veröffentlichung, wurde osu!
 
 ## Beatmaps hinzufügen
 
-*Anmerkung: Versichere dich, dass sich das Gerät mit dem Internet verbinden kann (entweder über WLAN oder mobile Daten).*
+::: alert-notice
+**Hinweis**
+Versichere dich, dass sich das Gerät mit dem Internet verbinden kann (entweder über WLAN oder mobile Daten).
+:::
 
 - Öffne osu!stream.
 - Drücke auf das osu!-Symbol, um in das Hauptmenü zu gelangen (oder das Tutorial beim ersten Mal)
@@ -181,7 +192,10 @@ Die Hintergrundfarbe ist violett und die Lichter verdunkeln sich, abhängig von 
 
 ## Punktevergabe
 
-*Hinweis: Die Rangliste kann noch im Spiel angesehen werden, allerdings werden keine neuen Punktestände mehr angenommen.*
+::: alert-notice
+**Hinweis**
+Die Rangliste kann noch im Spiel angesehen werden, allerdings werden keine neuen Punktestände mehr angenommen.
+:::
 
 ### Genauigkeit
 

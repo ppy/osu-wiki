@@ -4,7 +4,9 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, strang
 
 # osu! (mode de jeu)
 
-*Pour d'autres utilisations, voir [osu! (désambiguïsation)](/wiki/Disambiguation/osu!).*
+::: alert-note
+**Remarque** : Pour d'autres utilisations, voir [osu! (désambiguïsation)](/wiki/Disambiguation/osu!).
+:::
 
 ![Gameplay d'osu!](/wiki/shared/osu-gameplay.jpg "Interface d'osu!")
 

@@ -16,7 +16,9 @@ Modders aiming to apply to the Beatmap Nominators must:
 
 ## Traits to demonstrate in modding
 
-*See also: [Common modding mistakes](/wiki/Guides/Common_modding_mistakes) and [osu!mania modding guide](/wiki/Guides/osu!mania_modding_guide)*
+::: alert-note
+**See also:** [Common modding mistakes](/wiki/Guides/Common_modding_mistakes) and [osu!mania modding guide](/wiki/Guides/osu!mania_modding_guide)
+:::
 
 Submitted mods should show that a user is capable of recognising beatmaps that should and should not be nominated, alongside analysing and improving beatmaps to a standard fit for the Beatmap Nominators.
 

@@ -13,7 +13,9 @@ Esta página enumera las formas en que las personas de todo osu! pueden ponerse 
 
 ## Proyectos
 
-*Véase también: [Lista de todos los proyectos](/wiki/Community/Projects)*
+::: alert-note
+**Véase también:** [Lista de todos los proyectos](/wiki/Community/Projects)
+:::
 
 - [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)

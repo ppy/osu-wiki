@@ -33,7 +33,10 @@ El [mod Co-op](/wiki/Gameplay/Game_modifier/Co-op) se convirtió en un mod no cl
 
 ## Mayo
 
-*Aviso: El [mensaje del foro](https://osu.ppy.sh/community/forums/topics/334994) que anunciaba el nuevo sistema de clasificación se publicó el 4 de junio de 2015, aunque el antiguo sistema quedó completamente obsoleto el 1 de mayo de 2015, y la implementación completa del nuevo sistema aún no estaba disponible para el público a fines de 2015.*
+::: alert-notice
+**Aviso**
+El [mensaje del foro](https://osu.ppy.sh/community/forums/topics/334994) que anunciaba el nuevo sistema de clasificación se publicó el 4 de junio de 2015, aunque el antiguo sistema quedó completamente obsoleto el 1 de mayo de 2015, y la implementación completa del nuevo sistema aún no estaba disponible para el público a fines de 2015.
+:::
 
 La antigua clasificación de los Beatmap Nominators (BN) quedó totalmente obsoleta el 1 de mayo de 2015, y se reemplazó por una nueva clasificación en tiempo real. Esta nueva clasificación mantenía el objetivo original de la anterior, aunque se centró en el desafío y la colaboración en lugar del desempeño individual durante un periodo de tiempo establecido. La recepción del público hacia este nuevo cambio fue mayormente positiva en general, aunque muchos usuarios comentaron que el nuevo sistema era confuso.[^realtime-bn-ranking][^osu-weekly-14]
 
@@ -55,7 +58,10 @@ La capacidad de ver cómo se vería una repetición sin [mods](/wiki/Gameplay/Ga
 
 El 15 de julio de 2015, se anunció que se creó un nuevo equipo público de [Slack](https://slack.com/) con el fin de mejorar la comunicación con los contribuidores públicos. [peppy](https://osu.ppy.sh/users/2) inicialmente hizo el anuncio en su blog y explicó que cualquiera que estuviera dispuesto a ayudar a probar funciones de cutting-edge, contribuir con recursos gráficos/de sonido u obtener ayuda trabajando con osu! podrían venir y unirse al equipo y hablar con la gente de diferentes [osu! teams](/wiki/People/osu!_team) directamente.[^ppy-blog-july-15]
 
-*Nota: También existía un equipo privado de Slack que el osu! team usó para comunicaciones internas, que no era accesible o visible para usuarios externos; estos dos equipos eran independientes entre sí.*
+::: alert-notice
+**Aviso**
+También existía un equipo privado de Slack que el osu! team usó para comunicaciones internas, que no era accesible o visible para usuarios externos; estos dos equipos eran independientes entre sí.
+:::
 
 No obstante, el nuevo equipo era completamente público y estaba disponible para que cualquiera se uniera, lo que provocó que muchos usuarios no deseados inundaran los canales. Esto obligó a peppy a «bloquear» el nuevo equipo hasta el día siguiente. A pesar de esto, peppy siguió haciendo uso del equipo durante el resto del año y, a menudo, invitaba a los usuarios a venir y unirse cuando estaban probando nuevas funciones o implementaciones.[^ppy-blog-july-16][^ppy-blog-july-20]
 

@@ -2,6 +2,8 @@
 stub: true
 tags:
   - CS
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Constant Speed（模组）
@@ -21,7 +23,7 @@ tags:
 | 缩写 | CS |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!taiko] ![][osu!mania] |
-| 得分系数 | 0.90x |
+| 得分系数 | `0.90x` |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | 无 |
 

@@ -11,7 +11,10 @@ outdated_translation: true
 
 다음 난이도 이름은 각 게임 모드에서 가장 일반적으로 쓰인 것입니다.
 
-*참고: **Marathon** 난이도는 예전에 플레이 타임이 긴 맵을 올리기 위해 필요했던 이름으로, 단일 난이도에 자주 쓰이게 됐습니다. 요즘에는 긴 맵이나 송 컴필레이션에 쓰입니다.*
+::: alert-notice
+**알림**
+**Marathon** 난이도는 예전에 플레이 타임이 긴 맵을 올리기 위해 필요했던 이름으로, 단일 난이도에 자주 쓰이게 됐습니다. 요즘에는 긴 맵이나 송 컴필레이션에 쓰입니다.
+:::
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -99,7 +102,10 @@ outdated_translation: true
 
 ### SOUND VOLTEX
 
-*참고: SOUND VOLTEX 음악은 종종 해당 음악이 들어가지 않은 다른 버전에서 사용한 작명 방식을 적용하기도 합니다.*
+::: alert-notice
+**알림**
+SOUND VOLTEX 음악은 종종 해당 음악이 들어가지 않은 다른 버전에서 사용한 작명 방식을 적용하기도 합니다.
+:::
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) BASIC / BSC
 - ![](/wiki/shared/diff/normal-o.png?20211215) NOVICE / NOV

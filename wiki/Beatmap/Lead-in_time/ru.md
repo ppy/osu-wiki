@@ -10,7 +10,9 @@ tags:
 
 # Lead-in
 
-*См. также: [Оффсет](/wiki/Offset)*
+::: alert-note
+**См. также:** [Оффсет](/wiki/Offset)
+:::
 
 **Lead-in** (рус. *вступление*) — задержка, которую osu! добавляет перед появлением самого первого [игрового объекта](/wiki/Gameplay/Hit_object) в [карте](/wiki/Beatmap), чтобы игрок успел среагировать. За длительность lead-in в миллисекундах отвечает параметр `AudioLeadIn`; его можно поменять во время [маппинга](/wiki/Beatmapping), отредактировав [файл `.osu`](/wiki/Client/File_formats/osu_(file_format)) соответствующей [сложности](/wiki/Beatmap/Difficulty) через блокнот.
 

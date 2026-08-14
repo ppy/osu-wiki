@@ -306,7 +306,10 @@ tags:
 
 ### osu!
 
-*Примечание: все плейлисты osu! можно [скачать в одной подборке](https://osu.ppy.sh/beatmaps/packs/1992).*
+::: alert-notice
+**Внимание**
+все плейлисты osu! можно [скачать в одной подборке](https://osu.ppy.sh/beatmaps/packs/1992).
+:::
 
 #### Плейлист A
 
@@ -342,7 +345,10 @@ tags:
 
 ### osu!taiko
 
-*Примечание: все плейлисты osu!taiko можно [скачать в одной подборке](https://osu.ppy.sh/beatmaps/packs/1993).*
+::: alert-notice
+**Внимание**
+все плейлисты osu!taiko можно [скачать в одной подборке](https://osu.ppy.sh/beatmaps/packs/1993).
+:::
 
 #### Плейлист A
 
@@ -378,7 +384,10 @@ tags:
 
 ### osu!catch
 
-*Примечание: все плейлисты osu!catch можно [скачать в одной подборке](https://osu.ppy.sh/beatmaps/packs/1994).*
+::: alert-notice
+**Внимание**
+все плейлисты osu!catch можно [скачать в одной подборке](https://osu.ppy.sh/beatmaps/packs/1994).
+:::
 
 #### Плейлист A
 
@@ -414,7 +423,10 @@ tags:
 
 ### osu!mania
 
-*Примечание: все плейлисты osu!mania можно [скачать в одной подборке](https://osu.ppy.sh/beatmaps/packs/1995).*
+::: alert-notice
+**Внимание**
+все плейлисты osu!mania можно [скачать в одной подборке](https://osu.ppy.sh/beatmaps/packs/1995).
+:::
 
 #### Плейлист A
 

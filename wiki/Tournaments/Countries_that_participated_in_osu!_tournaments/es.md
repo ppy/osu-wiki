@@ -4,8 +4,13 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 
 El último torneo incluido en los datos que se muestran a continuación es la [osu! World Cup 2023](/wiki/Tournaments/OWC/2023).
 
-*Nota: No se tienen en cuenta los torneos oficiales que permitían equipos que no representaban a países.*\
-*Nota: No se tienen en cuenta los equipos mixtos (por ejemplo, Argentina-Colombia).*
+::: alert-notice
+**Nota:** No se tienen en cuenta los torneos oficiales que permitían equipos que no representaban a países.
+:::
+
+::: alert-notice
+**Nota:** No se tienen en cuenta los equipos mixtos (por ejemplo, Argentina-Colombia).
+:::
 
 ## Clasificaciones
 

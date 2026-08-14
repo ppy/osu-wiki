@@ -28,7 +28,7 @@
 创建分支在技术上是可选的，但[出于一些原因](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)高度建议你这么做，其中几点如下：
 
 - 分支会将逻辑上不同的更改隔离开来：你可以同时处理多篇文章，它们可以分开接受审查与合并。
-- 当你的更改不在 `master` 分支上时，你可以[安全进行同步](/wiki/osu!_wiki/Contribution_guide/Best_practices#同步分支-(fork))，不会出现合并冲突。
+- 当你的更改不在 `master` 分支上时，你可以[安全进行同步](/wiki/osu!_wiki/Contribution_guide/Best_practices#同步复刻-(fork))，不会出现合并冲突。
 
 1. 点击菜单顶部的 `当前分支 (Current branch)` 下拉菜单。
 

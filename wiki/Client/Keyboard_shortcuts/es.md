@@ -14,7 +14,10 @@ tags:
 
 Hay muchos atajos en osu! que se pueden usar mientras el jugador está en el juego o inactivo en cualquier pantalla. Se enumeran con sus funciones a continuación.
 
-*Nota: este artículo enumera los atajos de teclado predeterminados. Puedes cambiar algunos de ellos en las [opciones](/wiki/Client/Options).*
+::: alert-notice
+**Aviso**
+este artículo enumera los atajos de teclado predeterminados. Puedes cambiar algunos de ellos en las [opciones](/wiki/Client/Options).
+:::
 
 ## En todo el juego
 
@@ -66,7 +69,10 @@ Estos atajos funcionan en cualquier lugar:
 
 ## Selector de canciones
 
-*Nota: No todos funcionan en la pantalla de selección de canciones de multijugador.*
+::: alert-notice
+**Aviso**
+No todos funcionan en la pantalla de selección de canciones de multijugador.
+:::
 
 | Atajo | Acción |
 | :-- | :-- |
@@ -95,9 +101,17 @@ Estos atajos funcionan en cualquier lugar:
 
 ### Modificadores del juego
 
-*Página principal: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
-*Nota: Si pulsas la tecla de acceso directo, se activará. Debes estar en el menú de los modificadores del juego para usar estos atajos.*\
-*Nota: Target practice (osu!), 1K y 2K (osu!mania), Co-op (osu!mania) y Mirror (osu!mania) no tienen atajos.*
+::: alert-note
+**Página principal:** [Modificadores del juego](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-notice
+**Nota:** Si pulsas la tecla de acceso directo, se activará. Debes estar en el menú de los modificadores del juego para usar estos atajos.
+:::
+
+::: alert-notice
+**Nota:** Target practice (osu!), 1K y 2K (osu!mania), Co-op (osu!mania) y Mirror (osu!mania) no tienen atajos.
+:::
 
 | Atajo | Mod |
 | :-- | :-- |
@@ -135,7 +149,10 @@ Estos atajos funcionan en cualquier lugar:
 
 ## Modo repetición
 
-*Aviso: debes usar el canal de lanzamiento cuttingedge para usarlos.*
+::: alert-notice
+**Aviso**
+debes usar el canal de lanzamiento cuttingedge para usarlos.
+:::
 
 | Atajo | Acción |
 | :-- | :-- |
@@ -147,7 +164,9 @@ Estos atajos funcionan en cualquier lugar:
 
 ## Editor de beatmaps
 
-*Página principal: [Editor de beatmaps](/wiki/Client/Beatmap_editor)*
+::: alert-note
+**Página principal:** [Editor de beatmaps](/wiki/Client/Beatmap_editor)
+:::
 
 ### General
 

@@ -39,7 +39,10 @@
 
 ### osu!direct
 
-*참고: osu!direct를 사용하려면 osu!supporter가 필요하며 인터넷에 연결되어 있어야 합니다.*
+::: alert-notice
+**알림**
+osu!direct를 사용하려면 osu!supporter가 필요하며 인터넷에 연결되어 있어야 합니다.
+:::
 
 1. osu! 메인 화면에서 우측에 있는 osu!direct 버튼을 클릭하세요.
 2. 플레이하고 싶은 곡을 찾아보세요.

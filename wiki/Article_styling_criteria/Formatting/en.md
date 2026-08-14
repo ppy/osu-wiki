@@ -1,7 +1,12 @@
 # Formatting
 
-*For the writing standards, see: [Article style criteria/Writing](../Writing)*\
-*Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.*
+::: alert-note
+**Note:** For the writing standards, see [Article style criteria/Writing](../Writing)
+:::
+
+::: alert-notice
+**Notice:** This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.
+:::
 
 ## Locales
 
@@ -47,7 +52,10 @@ Listed below are the properly supported locales for the wiki:
 | `zh.md` | Simplified Chinese | 简体中文 |
 | `zh-tw.md` | Traditional Chinese (Taiwan) | 繁體中文（台灣） |
 
-*Note: The website will give readers their selected language's version of an article. If it is not available, the English version will be given.*
+::: alert-notice
+**Notice**
+The website will give readers their selected language's version of an article. If it is not available, the English version will be given.
+:::
 
 ## Front matter
 
@@ -55,7 +63,10 @@ Front matter must be placed at the very top of the file. It is written in [YAML]
 
 ### Articles that need help
 
-*Note: Avoid translating English articles with this tag. In addition to this, this tag should be added when the translation needs its own clean up.*
+::: alert-notice
+**Notice**
+Avoid translating English articles with this tag. In addition to this, this tag should be added when the translation needs its own clean up.
+:::
 
 The `needs_cleanup` tag may be added to articles that need rewriting or formatting help. It is also acceptable to open an issue on GitHub for this purpose. This tag must be written as shown below:
 
@@ -67,7 +78,10 @@ When adding this tag to an article, [comments](#comments) should also be added t
 
 ### Outdated articles
 
-*Note: Avoid translating English articles with this tag. If the English article has this tag, the translation must also have this tag.*
+::: alert-notice
+**Notice**
+Avoid translating English articles with this tag. If the English article has this tag, the translation must also have this tag.
+:::
 
 English articles may become outdated when the content they contain is misleading or no longer relevant. These should receive an `outdated` tag, which must be written as shown below:
 
@@ -108,7 +122,10 @@ tags:
 
 ### Translations without reviews
 
-*Note: Wiki maintainers will determine and apply this tag prior to merging.*
+::: alert-notice
+**Notice**
+Wiki maintainers will determine and apply this tag prior to merging.
+:::
 
 Sometimes, translations are added to the wiki without review from other native speakers of the language. In this case, the `no_native_review` tag is added to let future translators know that it may need to be checked again:
 
@@ -124,7 +141,9 @@ no_native_review_since: 5539d9e8c943605a7be186dc3f5ab10569275b05 Doryan
 
 ## Article naming
 
-*See also: [Folder names](#folder-names) and [Titles](#titles)*
+::: alert-note
+**See also:** [Folder names](#folder-names) and [Titles](#titles)
+:::
 
 Article titles should be singular and use sentence case. See [Wikipedia's naming conventions article](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals)) for more details.
 
@@ -138,7 +157,9 @@ Contest and tournament articles are an exception. The folder name must use abbre
 
 ### Folder names
 
-*See also: [Article naming](#article-naming)*
+::: alert-note
+**See also:** [Article naming](#article-naming)
+:::
 
 Folder names must be in English and use sentence case.
 
@@ -190,7 +211,10 @@ HTML comments<!-- TODO explain HTML comments --> should be used for marking to-d
 
 ### End of line sequence
 
-*Caution: Uploading Markdown files using `CRLF` (carriage return and line feed) via GitHub will result in those files using `CRLF`. To prevent this, set the line ending to `LF` (line feed) before uploading.*
+::: alert-caution
+**Caution**
+Uploading Markdown files using `CRLF` (carriage return and line feed) via GitHub will result in those files using `CRLF`. To prevent this, set the line ending to `LF` (line feed) before uploading.
+:::
 
 Markdown files must be checked in using the `LF` end of line sequence.
 
@@ -210,20 +234,24 @@ Line breaks must be used sparingly.
 
 ## Hatnote
 
-*Not to be confused with [Notice](#notice).*
+::: alert-note
+**Note:** Not to be confused with [Notice](#notice).
+:::
 
-Hatnotes are short notes placed at the top of an article or section to help readers navigate to related articles or inform them about related topics.
-
-Hatnotes must be italicised and be placed immediately after the heading. If multiple hatnotes are used, they must be on the same paragraph separated with a line break.
+Hatnotes are short notes placed at the top of an article or section to help readers navigate to related articles or inform them about related topics. These must be placed immediately after the heading.
 
 ### Main page
 
 *Main page* hatnotes direct the reader to the main article of a topic. When this hatnote is used, it implies that the section it is on is a summary of what the linked page is about. This hatnote should have only one link. These must be formatted as follows:
 
 ```markdown
-*Main page: {article}*
+::: alert-note
+**Main page:** {article}
+:::
 
-*Main pages: {article} and {article}*
+::: alert-note
+**Main pages:** {article} and {article}
+:::
 ```
 
 ### See also
@@ -231,9 +259,13 @@ Hatnotes must be italicised and be placed immediately after the heading. If mult
 *See also* hatnotes suggest to readers other points of interest from a given article or section. These must be formatted as follows:
 
 ```markdown
-*See also: {article}*
+::: alert-note
+**See also:** {article}
+:::
 
-*See also: {article} and {article}*
+::: alert-note
+**See also:** {article} and {article}
+:::
 ```
 
 ### For see
@@ -241,9 +273,13 @@ Hatnotes must be italicised and be placed immediately after the heading. If mult
 *For see* hatnotes are similar to *see also* hatnotes, but are generally more descriptive and direct. This hatnote may use more than one link if necessary. These must be formatted as follows:
 
 ```markdown
-*For {description}, see: {article}*
+::: alert-note
+**Note:** For {description}, see {article}
+:::
 
-*For {description}, see: {article} and {article}*
+::: alert-note
+**Note:** For {description}, see {article} and {article}
+:::
 ```
 
 ### Not to be confused with
@@ -251,9 +287,13 @@ Hatnotes must be italicised and be placed immediately after the heading. If mult
 *Not to be confused with* hatnotes help distinguish ambiguous or misunderstood article titles or sections. This hatnote may use more than one link if necessary. These must be formatted as follows:
 
 ```markdown
-*Not to be confused with {article}.*
+::: alert-note
+**Note:** Not to be confused with {article}.
+:::
 
-*Not to be confused with {article} or {article}.*
+::: alert-note
+**Note:** Not to be confused with {article} or {article}.
+:::
 ```
 
 ### For other uses
@@ -261,37 +301,52 @@ Hatnotes must be italicised and be placed immediately after the heading. If mult
 *For other uses* hatnotes are similar to *not to be confused with* hatnotes, but links directly to the [disambiguation article](#disambiguation-articles). This hatnote must only link to the disambiguation article. These must be formatted as follows:
 
 ```markdown
-*For other uses, see {disambiguation article}.*
+::: alert-note
+**Note:** {disambiguation article}.
+:::
 ```
 
 ## Notice
 
-*Not to be confused with [Hatnote](#hatnote).*
+::: alert-note
+**Note:** Not to be confused with [Hatnote](#hatnote).
+:::
 
-A notice should be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but should be kept to a minimum. Notices must be written as complete sentences. Thus, unlike most [hatnotes](#hatnote), notices must use a full stop (`.`) or an exclamation mark (`!`) if appropriate. Anything within the same paragraph of a notice must also be italicised. These must be formatted as follows:
+Notices are short informational blocks of text, typically containing one full sentence. Notices may contain multiple paragraphs and nested markdown, but they should be kept as brief and minimal as possible. These must be formatted as follows:
 
 ```markdown
-*Note: {note}.*
+::: alert-notice
+**Notice**
+{notice}.
+:::
 
-*Notice: {notice}.*
+::: alert-caution
+**Caution**
+{caution}.
+:::
 
-*Caution: {caution}.*
-
-*Warning: {warning}.*
+::: alert-warning
+**Warning**
+{warning}.
+:::
 ```
 
-- `Note` should be used for factual or trivial details.
 - `Notice` should be used for reminders or to draw attention to something that the reader should be made aware of.
 - `Caution` should be used to warn the reader to avoid unintended consequences.
 - `Warning` should be used to warn the reader that action may be taken against them.
 
 ## Stacked hatnotes and notices
 
-Multiple hatnotes and notices may be stacked when necessary. When doing this, they must be stacked without blank lines and use trailing backslashes:
+Multiple hatnotes and notices may be combined and stacked when necessary. When doing this, they must each be written as one sentence on a single line, and their style blocks must be stacked with blank lines in between:
 
 ```markdown
-*Warning: {warning}.*\
-*See also: {article}*
+::: alert-warning
+**Warning:** {warning}.
+:::
+
+::: alert-note
+**See also:** {article}
+:::
 ```
 
 In many cases, it may be more fitting to embed extraneous hatnotes or notices into paragraph text instead of stacking many of them.
@@ -352,8 +407,13 @@ Headings must not exceed a heading level of 5 and must not be used to style or f
 
 ### Titles
 
-*See also: [Article naming](#article-naming)*\
-*Caution: Titles are parsed as plain text; they must not be escaped.*
+::: alert-note
+**See also:** [Article naming](#article-naming)
+:::
+
+::: alert-caution
+**Caution:** Titles are parsed as plain text; they must not be escaped.
+:::
 
 The first heading in all articles must be a level 1 heading, being the article's title. All headings afterwards must be [section headings](#sections). Titles must not contain formatting, links, or images.
 
@@ -365,7 +425,10 @@ Section headings must use levels 2 to 5. The section heading proceeding the [tit
 
 Section headings must not skip a heading level (i.e. do not go from a level 2 heading to a level 4 heading) and must not contain formatting or links.
 
-*Notice: On the website, heading levels 4 and 5 will not appear in the table of contents.*
+::: alert-notice
+**Notice**
+On the website, heading levels 4 and 5 will not appear in the table of contents.
+:::
 
 ### Custom identifiers
 
@@ -458,7 +521,10 @@ The markup for code is a grave mark (`` ` ``). To put grave marks in code, use d
 
 ### Keyboard keys
 
-*Notice: When denoting the letter itself, and not the keyboard key, use quotation marks instead.*
+::: alert-notice
+**Notice**
+When denoting the letter itself, and not the keyboard key, use quotation marks instead.
+:::
 
 When representing keyboard keys, use capital letters for single characters and title case for modifiers. Use the plus symbol (`+`) (without code) to represent key combinations. (Example shown below.)
 
@@ -504,7 +570,10 @@ To play osu!, double click the `osu!.exe` icon.
 
 ### File extensions
 
-*Notice: File formats (not to be confused with file extensions) must be written in capital letters without the prefixed fullstop (`.`).*
+::: alert-notice
+**Notice**
+File formats (not to be confused with file extensions) must be written in capital letters without the prefixed fullstop (`.`).
+:::
 
 File extensions must be prefixed with a fullstop (`.`) and be followed by the file extension in lowercase letters. (Example shown below.)
 
@@ -522,13 +591,18 @@ When copying the name of a chat channel, start it with a hash (`#`), followed by
 
 ## Preformatted text (code blocks)
 
-*Notice: Syntax highlighting for preformatted text is not implemented on the website yet.*
+::: alert-notice
+**Notice**
+Syntax highlighting for preformatted text is not implemented on the website yet.
+:::
 
 Preformatted text (also known as code blocks) must be fenced using three grave marks. They should set the language identifier for syntax highlighting.
 
 ## Links
 
-*See also: [Footnotes](#footnotes)*
+::: alert-note
+**See also:** [Footnotes](#footnotes)
+:::
 
 There are two types of links: inline and reference. Inline has two styles.
 
@@ -554,7 +628,10 @@ Links must use the inline style if they are only referenced once. The inline ang
 
 ### Internal links
 
-*Note: Internal links refer to links that stay inside the `https://osu.ppy.sh/` domain.*
+::: alert-notice
+**Notice**
+Internal links refer to links that stay inside the `https://osu.ppy.sh/` domain.
+:::
 
 #### Wiki links
 
@@ -590,17 +667,24 @@ Good examples include the following:
 Wiki links that point to a sub-article should include the parent article's folder name in its link text. See the following example:
 
 ```markdown
-*See also: [Beatmap Editor/Design](/wiki/Client/Beatmap_editor/Design)*
+::: alert-note
+**See also:** [Beatmap Editor/Design](/wiki/Client/Beatmap_editor/Design)
+:::
 ```
 
 ##### Section links
 
-*Notice: On the website, heading levels 4 and 5 are not given the id attribute. This means that they can not be linked to directly.*
+::: alert-notice
+**Notice**
+On the website, heading levels 4 and 5 are not given the id attribute. This means that they can not be linked to directly.
+:::
 
 Wiki links that point to a section of an article may use the section sign symbol (`§`). See the following example:
 
 ```markdown
-*For timing rules, see: [Ranking Criteria § Timing](/wiki/Ranking_criteria#timing)*
+::: alert-note
+**Note:** For timing rules, see [Ranking Criteria § Timing](/wiki/Ranking_criteria#timing)
+:::
 ```
 
 #### Other osu! links
@@ -647,14 +731,19 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
 
 ### External links
 
-*Notice: External links refers to links that go outside the `https://osu.ppy.sh/` domain.*
+::: alert-notice
+**Notice**
+External links refers to links that go outside the `https://osu.ppy.sh/` domain.
+:::
 
 The `https` protocol must be used, unless the site does not support it. External links must be a clean and direct link to a reputable source. The URL from the address bar of your web browser should be copied as it is when linking to other external pages.
 
 There are no visual differences between external and osu! web links. Due to this, the website name should be included in the title text. See the following example:
 
 ```markdown
-*For more information about music theory, see: [Music theory](https://en.wikipedia.org/wiki/Music_theory)*
+::: alert-note
+**Note:** For more information about music theory, see [Music theory](https://en.wikipedia.org/wiki/Music_theory)
+:::
 ```
 
 ## Images
@@ -723,7 +812,10 @@ Alternatively, [ezgif.com](https://ezgif.com/) can be used to convert and optimi
 
 ### File names
 
-*Notice: File extensions must use lowercase letters, otherwise they will fail to load!*
+::: alert-notice
+**Notice**
+File extensions must use lowercase letters, otherwise they will fail to load!
+:::
 
 Use hyphens (`-`) when spacing words. When naming an image, the file name should be meaningful or descriptive but short.
 
@@ -753,7 +845,10 @@ All screenshots of gameplay must be done in the stable build, unless it is for a
 
 #### Game client settings
 
-*Note: If you do not want to change your current settings for the wiki, you can move your `osu!.<ComputerUser>.cfg` out of the osu! folder and move it back later.*
+::: alert-notice
+**Notice**
+If you do not want to change your current settings for the wiki, you can move your `osu!.<ComputerUser>.cfg` out of the osu! folder and move it back later.
+:::
 
 You must set these settings before taking a screenshot of the game client (settings not stated below are assumed to be at their defaults):
 

@@ -4,7 +4,9 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/2026, also, could 
 
 # osu!catch scoring system
 
-*See also: [osu!catch judgement system](/wiki/Gameplay/Judgement/osu!catch)*
+::: alert-note
+**See also:** [osu!catch judgement system](/wiki/Gameplay/Judgement/osu!catch)
+:::
 
 Scoring for osu!catch follows the same multiplier as in [osu!](/wiki/Game_mode/osu!).
 However, the fruit that adds up the score is different from osu!.

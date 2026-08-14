@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 40e7a35ab519347caaa07e83eb12d3f9e4f70438
+---
+
 # 举报不当行为
 
 osu! 设有一个[全局管理团队](/wiki/People/Global_Moderation_Team) (GMT)，负责维护游戏及其社区生态保持干净安全。如果你发现违反规则的行为或不适当的内容，请使用下述方法之一进行举报。或者，如果你的举报在合理时间内未得到妥善处理，你也可以直接联系任何在线管理员——但这仅应作为最后的手段。

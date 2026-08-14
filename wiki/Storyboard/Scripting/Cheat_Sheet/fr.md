@@ -44,7 +44,10 @@ L'ordre Z (d'arrière en avant) est déterminé par l'ordre dans lequel les fich
 | 2 | Pass |
 | 3 | Premier plan |
 
-*Remarque : l'arrière-plan et le premier plan sont toujours visibles.*
+::: alert-notice
+**Note**
+l'arrière-plan et le premier plan sont toujours visibles.
+:::
 
 | Valeur | Origine |
 | :-: | :-- |
@@ -95,7 +98,10 @@ Pour chacun des types d'événements ci-dessous, la ou les valeurs initiales de 
 
 **endopacity** : l'opacité à la fin de l'animation
 
-*Note : 0 - invisible, 1 - entièrement visible*
+::: alert-notice
+**Note**
+0 - invisible, 1 - entièrement visible
+:::
 
 `_M,[...],startx,starty,endx,endy`
 
@@ -229,7 +235,10 @@ Premier plan = **3**
 
 **filepath** : chemin relatif du fichier son (doit être dans le même répertoire que le fichier .osu)
 
-*Note : le chemin du fichier doit être entre guillemets*
+::: alert-notice
+**Note**
+le chemin du fichier doit être entre guillemets
+:::
 
 **volume** : volume du fichier son (1-100). Peut être désactivé pour 100.
 

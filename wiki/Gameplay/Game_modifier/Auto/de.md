@@ -15,9 +15,17 @@ tags:
 
 ![AT Modsymbol](/wiki/shared/mods/AT.png "Auto (AT) Modsymbol")
 
-*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Autoplay (lazer-Mod)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer))*\
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
-*Nicht zu verwechseln mit [Autopilot (Mod)](/wiki/Gameplay/Game_modifier/Autopilot).*
+::: alert-note
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Autoplay (lazer-Mod)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer))
+:::
+
+::: alert-note
+**Anmerkung:** Für die vollständige Liste aller Mods, siehe [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Autopilot (Mod)](/wiki/Gameplay/Game_modifier/Autopilot).
+:::
 
 ## Übersicht
 
@@ -30,7 +38,10 @@ tags:
 
 ## Beschreibung
 
-*Hinweis: Das Aktivieren der Mod Auto sorgt dafür, dass das Spiel nicht gerankt wird und nicht in der lokalen Rangliste gespeichert wird.*
+::: alert-notice
+**Hinweis**
+Das Aktivieren der Mod Auto sorgt dafür, dass das Spiel nicht gerankt wird und nicht in der lokalen Rangliste gespeichert wird.
+:::
 
 Die Mod **Auto** (auch *Autoplay* genannt) ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die es Spielern ermöglicht, einen perfekten Durchlauf der ausgewählten Beatmap zu sehen.
 

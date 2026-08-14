@@ -1,6 +1,8 @@
 # Historia de la osu! wiki
 
-*Véase también: [Mantenedores de la osu! wiki](/wiki/People/osu!_wiki_maintainers)*
+::: alert-note
+**Véase también:** [Mantenedores de la osu! wiki](/wiki/People/osu!_wiki_maintainers)
+:::
 
 Este artículo detalla los principales eventos de la **historia de la osu! wiki** desde la era MediaWiki hasta la actualidad.
 

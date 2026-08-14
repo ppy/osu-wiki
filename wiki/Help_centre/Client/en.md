@@ -292,6 +292,12 @@ Turning on VSync or playing in Windowed or Borderless mode will introduce a *sli
 
 Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
 
+### I switched to osu!(lazer)'s native tablet drivers and now my area has changed! {id=tablet-area}
+
+osu!(lazer) has the [OpenTabletDriver](https://opentabletdriver.net/) built-in. If you weren't using these drivers before, then this happens because your tablet is not configured correctly for the native drivers.
+
+See [Tablet conversion](/wiki/Guides/Tablet_conversion) for more information on how to correctly convert your old tablet driver's area to OpenTabletDriver's settings.
+
 ## Online features {id=online-features}
 
 ### I can't sign in or connect to the game at all! {id=cannot-sign-in}

@@ -1,6 +1,9 @@
 # Cómo iniciar un proyecto de un beatmap
 
-*Aviso: Este artículo trata sobre la sección del foro [Beatmap Projects](https://osu.ppy.sh/community/forums/53) y cómo abordarla. Asegúrate de leer las [reglas del foro](https://osu.ppy.sh/community/forums/topics/453937) antes de publicar.*
+::: alert-notice
+**Aviso**
+Este artículo trata sobre la sección del foro [Beatmap Projects](https://osu.ppy.sh/community/forums/53) y cómo abordarla. Asegúrate de leer las [reglas del foro](https://osu.ppy.sh/community/forums/topics/453937) antes de publicar.
+:::
 
 ## Crear un título informativo para el hilo
 

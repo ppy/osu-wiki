@@ -8,12 +8,19 @@ tags:
   - multiplicador de puntuación
   - puntuación
   - multiplicador de mods
+outdated_translation: true
+outdated_since: 6b1c578abe39d6f2eae6a0585e841a7a75c83dc4
 ---
 
 # Multiplicador de mods
 
-*No debe confundirse con [Combo](/wiki/Gameplay/Combo_(score_multiplier))*\
-*Véase también: [Modificador del juego](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Nota:** No debe confundirse con [Combo](/wiki/Gameplay/Combo_(score_multiplier))
+:::
+
+::: alert-note
+**Véase también:** [Modificador del juego](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Descripción
 

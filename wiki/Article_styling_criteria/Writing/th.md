@@ -98,7 +98,9 @@ Dean Herbert (also known as peppy) created osu! back in 2007.
 
 ### เครื่องหมายการค้า
 
-*สำหรับกฎเกี่ยวกับ osu! โปรดดู: [osu!](#osu!)*
+::: alert-note
+**หมายเหตุ:** สำหรับกฎเกี่ยวกับ osu! โปรดดู [osu!](#osu!)
+:::
 
 เครื่องหมายการค้าต่อไปนี้ต้องสะกดดังนี้ (ตัวพิมพ์ต้องตรงกัน):
 
@@ -299,7 +301,9 @@ The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC an
 
 ### ตัวเลข
 
-*สำหรับการจัดรูปแบบตัวเลข โปรดดูที่ [คู่มือรูปแบบการจัดรูปแบบตัวเลขของวิกิพีเดีย](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Numbers)*
+::: alert-note
+**หมายเหตุ:** สำหรับการจัดรูปแบบตัวเลข โปรดดูที่ [คู่มือรูปแบบการจัดรูปแบบตัวเลขของวิกิพีเดีย](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Numbers)
+:::
 
 [บทความที่มีการเขียนอย่างไม่เป็นทางการ](#ทะเบียนภาษา) อาจละเว้นส่วนนี้ อย่างไรก็ตาม การใช้งานควรมีความสอดคล้องกันตลอดทั้งบทความ
 

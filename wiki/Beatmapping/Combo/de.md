@@ -12,7 +12,9 @@ tags:
 
 # Combo
 
-*Für andere Bedeutungen, siehe [Combo (Begriffsabgrenzung)](/wiki/Disambiguation/Combo).*
+::: alert-note
+**Anmerkung:** [Combo (Begriffsabgrenzung)](/wiki/Disambiguation/Combo).
+:::
 
 **Combo** (oder **Comboset**) bezeichnet eine Gruppe von [Hit-Circles](/wiki/Gameplay/Hit_object/Hit_circle) und [Slidern](/wiki/Gameplay/Hit_object/Slider) in [Beatmaps](/wiki/Beatmap) aus [osu!](/wiki/Game_mode/osu!) und [osu!catch](/wiki/Game_mode/osu!catch). [Hit-Objekte](/wiki/Gameplay/Hit_object) derselben Combo haben die gleiche [Combo-Farbe](/wiki/Beatmapping/Combo_colour) und sind durch Linien (sog. Followpoints) miteinander verbunden. Wenn das Ende einer Combo erfolgreich getroffen wird, bekommt der Spieler zusätzliche [Gesundheit](/wiki/Gameplay/Health). Jede Combo startet mit einem Hit-Objekt, das als eine neue Combo gekennzeichnet ist.
 

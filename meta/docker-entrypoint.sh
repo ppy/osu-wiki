@@ -17,5 +17,5 @@ fi
 
 # Otherwise, make a new user with the host UID and GID
 groupadd -og "$host_gid" osu-wiki-docker
-useradd -g "$host_gid" -u "$host_uid" osu-wiki-docker
+useradd -m -g "$host_gid" -u "$host_uid" osu-wiki-docker
 exec gosu osu-wiki-docker "$@"

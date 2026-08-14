@@ -2,6 +2,8 @@
 stub: true
 tags:
   - FF
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Floating Fruits (mod)
@@ -21,12 +23,14 @@ tags:
 | Acrónimo | FF |
 | Tipo | Diversión |
 | Modos de juego compatibles | ![][osu!catch] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | `1,00x` |
 | Estado | No clasificado |
 | Mods incompatibles | Ninguno |
 
 :::
 
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"

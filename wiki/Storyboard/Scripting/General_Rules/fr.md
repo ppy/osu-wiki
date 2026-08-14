@@ -14,7 +14,9 @@ Ce guide décrit les lignes de code de script qui sont placées dans le fichier 
 
 ### Objets
 
-*Pour les objets dans [osu!](/wiki/Game_mode/osu!) et le [Beatmapping](/wiki/Beatmapping), voir : [Objets](/wiki/Gameplay/Hit_object)*
+::: alert-note
+**Remarque** : Pour les objets dans [osu!](/wiki/Game_mode/osu!) et le [Beatmapping](/wiki/Beatmapping), voir [Objets](/wiki/Gameplay/Hit_object)
+:::
 
 Un [objet Storyboard](/wiki/Storyboard/Scripting/Objects) est une instance d'un sprite ou d'une animation dans un storyboard. Les storyboards peuvent également contenir du son, voir le guide [Audio](/wiki/Storyboard/Scripting/Audio) pour plus de détails.
 

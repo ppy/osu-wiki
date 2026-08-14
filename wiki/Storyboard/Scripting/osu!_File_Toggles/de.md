@@ -1,6 +1,8 @@
 # Storyboard-Einstellungen in .osu-Dateien
 
-*Siehe auch: [skin.ini](/wiki/Skinning/skin.ini)*
+::: alert-note
+**Siehe auch:** [skin.ini](/wiki/Skinning/skin.ini)
+:::
 
 Das Folgende sind Einstellungen, die in Dateien mit dem Format `.osu` (und in manchen Fällen in `.osb`) hinzugefügt werden können, um das [Skinning](/wiki/Skinning)/[Storyboarding](/wiki/Storyboard) zu beeinflussen. Diejenigen, die vom [Beatmap-Editor](/wiki/Client/Beatmap_editor) hinzugefügt/entfernt werden, können auch einbezogen werden.
 

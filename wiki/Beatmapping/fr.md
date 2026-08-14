@@ -39,7 +39,9 @@ L'étape suivante consiste à ajouter un timing à votre beatmap.
 
 ### Timing
 
-*Page principale : [Timing](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**Page principale** : [Timing](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 **Le timing est vital!**
 Les beatmaps mal synchronisées ne seront pas prises en compte pour le classement.
@@ -51,7 +53,9 @@ Cela vous (ainsi que les gens qui vérifieront votre beatmap) évitera beaucoup 
 
 ### Composer
 
-*Page principale : [Composer](/wiki/Client/Beatmap_editor/Compose)*
+::: alert-note
+**Page principale** : [Composer](/wiki/Client/Beatmap_editor/Compose)
+:::
 
 L'onglet Composer de l'éditeur de beatmap est l'endroit où vous passerez probablement la majorité de votre temps à composer.
 
@@ -59,6 +63,8 @@ C’est également ici que vous pouvez placer des hit objects et gérer leurs [h
 
 ### Conception
 
-*Page principale : [Conception](/wiki/Client/Beatmap_editor/Design) et [Storyboarding](/wiki/Storyboard#storyboarding)*
+::: alert-note
+**Page principale** : [Conception](/wiki/Client/Beatmap_editor/Design) et [Storyboarding](/wiki/Storyboard#storyboarding)
+:::
 
 L'onglet Conception de l'éditeur de beatmap est l'endroit où vous pouvez définir l'image de fond de beatmap, ajouter une vidéo et/ou créer un storyboard.

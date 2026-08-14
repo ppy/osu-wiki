@@ -8,7 +8,9 @@ This set of **osu!taiko ranking criteria** lays out [rules and guidelines](/wiki
 
 ### Difficulty names
 
-*Main article: [Difficulty naming](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Main page:** [Difficulty naming](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu

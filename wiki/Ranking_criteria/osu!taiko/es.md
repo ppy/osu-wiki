@@ -8,7 +8,9 @@ Este conjunto de **criterios de clasificación de osu!taiko** establece [reglas 
 
 ### Nombres de las dificultades
 
-*Artículo principal: [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Página principal:** [Nombramiento de las dificultades](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu

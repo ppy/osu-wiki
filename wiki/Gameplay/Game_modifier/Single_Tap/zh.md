@@ -3,6 +3,8 @@ stub: true
 tags:
   - singletap
   - SG
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Single Tap（模组）
@@ -23,8 +25,8 @@ tags:
 | 缩写 | SG |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!] ![][osu!taiko] |
-| 得分系数 | 1.00x |
-| 状态 | 不计入排名 |
+| 得分系数 | `1.00x` |
+| 状态 | 计入排名 |
 | 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate) |
 
 :::

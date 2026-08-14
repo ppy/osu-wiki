@@ -23,7 +23,9 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_g
 
 ### Formations
 
-*Main page: [Mapping techniques/Formations](Formations)*
+::: alert-note
+**Main page:** [Mapping techniques/Formations](Formations)
+:::
 
 #### Creative
 
@@ -50,7 +52,9 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_g
 
 ### Jumps
 
-*Main page: [Mapping techniques/Jumps](Jumps)*
+::: alert-note
+**Main page:** [Mapping techniques/Jumps](Jumps)
+:::
 
 #### Hit Circle
 
@@ -68,7 +72,9 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_g
 
 ### Rhythm
 
-*Main page: [Mapping techniques/Rhythm](Rhythm)*
+::: alert-note
+**Main page:** [Mapping techniques/Rhythm](Rhythm)
+:::
 
 #### Spacing
 
@@ -99,7 +105,9 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_g
 
 ### Spinners
 
-*Main page: [Mapping techniques/Spinners](Spinners)*
+::: alert-note
+**Main page:** [Mapping techniques/Spinners](Spinners)
+:::
 
 #### Additional Effects
 
@@ -114,7 +122,9 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_g
 
 ### Sliders
 
-*Main page: [Mapping techniques/Sliders](Sliders)*
+::: alert-note
+**Main page:** [Mapping techniques/Sliders](Sliders)
+:::
 
 #### Patterns
 
@@ -148,7 +158,9 @@ If you want to know how to make good sliders, see [Making Good Sliders](Making_g
 
 ### Unrankable
 
-*Main page: [Mapping techniques/Unrankable](Unrankable)*
+::: alert-note
+**Main page:** [Mapping techniques/Unrankable](Unrankable)
+:::
 
 - [Burai Sliders](Unrankable#burai-sliders)
 - [Hold Sliders](Unrankable#hold-sliders)

@@ -50,7 +50,10 @@ Il y a deux façons d'ajouter beatmaps, via le site web ou osu!direct (nécessit
 
 ### osu!direct
 
-*Note : Vous devez avoir un tag osu!supporter et une connexion internet pour utiliser osu!direct.*
+::: alert-notice
+**Note**
+Vous devez avoir un tag osu!supporter et une connexion internet pour utiliser osu!direct.
+:::
 
 1. Ouvrez osu!, et cliquez sur le bouton osu!direct sur le côté droit de l'écran principal.
 2. Trouvez une musique que vous aimeriez jouer.

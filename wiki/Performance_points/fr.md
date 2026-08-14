@@ -37,7 +37,10 @@ La difficulté de la beatmap qu'un joueur est en train de jouer détermine la va
 
 Les scores sont ensuite "pondérés" les uns par rapport aux autres afin de s'assurer que les meilleurs scores d'un utilisateur soient les scores comptant le plus dans son classement général de points de performance. Connu sous le nom de [*weightage system*](#weightage-system), son objectif est d'empêcher l'obtention rapide et répétée de pp sur des beatmaps faciles en réduisant le nombre de pp réellement obtenus en fonction des autres meilleurs scores du joueur.
 
-*Remarque : une petite quantité de pp bonus est attribuée en fonction du nombre de beatmaps classées sur lesquelles vous avez établi un score.*
+::: alert-notice
+**Note**
+une petite quantité de pp bonus est attribuée en fonction du nombre de beatmaps classées sur lesquelles vous avez établi un score.
+:::
 
 ### Weightage system
 
@@ -65,7 +68,9 @@ En conséquence, des mods comme [Double Time](/wiki/Gameplay/Game_modifier/Doubl
 
 ### Précision
 
-*Voir également : [Précision](/wiki/Gameplay/Accuracy)*
+::: alert-note
+**Voir également** : [Précision](/wiki/Gameplay/Accuracy)
+:::
 
 La *précision* est une mesure en pourcentage de la capacité d'un joueur à frapper les [objets](/wiki/Gameplay/Hit_object) à temps ; en ce qui concerne l'algorithme des pp, il s'agit également d'une valeur fondamentale utilisée pour évaluer la performance individuelle d'un joueur sur une beatmap.
 

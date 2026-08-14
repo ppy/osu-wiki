@@ -7,7 +7,9 @@ tags:
 
 # Combo colour
 
-*For combo colours beatmapping rules, see: [Ranking criteria/osu!](/wiki/Ranking_criteria/osu!) and [Ranking criteria/osu!catch](/wiki/Ranking_criteria/osu!catch)*
+::: alert-note
+**Note:** For combo colours beatmapping rules, see [Ranking criteria/osu!](/wiki/Ranking_criteria/osu!) and [Ranking criteria/osu!catch](/wiki/Ranking_criteria/osu!catch)
+:::
 
 **Combo colours** are colours which help separate [combosets](/wiki/Beatmapping/Combo) from another. Combo colours apply to all [hit objects](/wiki/Gameplay/Hit_object) in a [beatmap](/wiki/Beatmap). When a new combo is started, the colour of [combos](/wiki/Beatmapping/Combo) changes to the next defined colour. The `New Combo` button can be found on the right side of the `Compose` tab in the [beatmap editor](/wiki/Client/Beatmap_editor).
 

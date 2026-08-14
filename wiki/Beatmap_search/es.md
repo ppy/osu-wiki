@@ -14,7 +14,9 @@ tags:
 
 # Búsqueda de beatmaps
 
-*Véase también: [Beatmap § Descargar beatmaps](/wiki/Beatmap#descargar-beatmaps)*
+::: alert-note
+**Véase también:** [Beatmap § Descargar beatmaps](/wiki/Beatmap#descargar-beatmaps)
+:::
 
 De forma predeterminada, cualquier texto ingresado en el [selector de canciones](/wiki/Client/Interface#selector-de-canciones) o en el campo de búsqueda del sitio web se compara con el artista de la canción, el título, el creador de la dificultad y su nombre, la fuente, las [etiquetas de los mappers](/wiki/Beatmap/Beatmap_tags#etiquetas-de-los-mappers) y las [etiquetas de los usuarios](/wiki/Beatmap/Beatmap_tags#etiquetas-de-los-usuarios). Al ingresar un solo número, se buscarán beatmaps y dificultades con un [identificador](/wiki/Beatmap#identificación) específico. Todas las búsquedas no distinguen entre mayúsculas y minúsculas.
 
@@ -33,7 +35,10 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 
 ## Cliente
 
-*Nota: Los filtros solo funcionan en el selector de canciones, mientras que [osu!direct](/wiki/osu!supporter#osu!direct) solo es compatible con la búsqueda normal de texto completo.*
+::: alert-notice
+**Aviso**
+Los filtros solo funcionan en el selector de canciones, mientras que [osu!direct](/wiki/osu!supporter#osu!direct) solo es compatible con la búsqueda normal de texto completo.
+:::
 
 | Filtro | Descripción |
 | :-- | :-- |

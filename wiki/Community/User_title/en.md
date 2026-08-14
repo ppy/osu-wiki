@@ -10,7 +10,9 @@ tags:
 
 # User title
 
-*For the list of people who have attained special user titles, see [Users with unique titles](/wiki/People/Users_with_unique_titles).*
+::: alert-note
+**Note:** For the list of people who have attained special user titles, see [Users with unique titles](/wiki/People/Users_with_unique_titles).
+:::
 
 ![Screenshot of Ephemeral's profile information](img/dev.png?1 "The \"osu!team\" title can be seen near the top of Ephemeral's profile.")
 

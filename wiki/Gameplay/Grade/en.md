@@ -10,7 +10,9 @@ tags:
 
 # Grade
 
-*For other uses, see [Rank (disambiguation)](/wiki/Disambiguation/Rank).*
+::: alert-note
+**Note:** [Rank (disambiguation)](/wiki/Disambiguation/Rank).
+:::
 
 **Grades** are a set of letters representing a player's performance on a given [beatmap](/wiki/Beatmap). They accompany the total [score](/wiki/Gameplay/Score) on the result screen and appear in all lists alongside scores.
 

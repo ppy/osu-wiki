@@ -9,8 +9,13 @@ tags:
 
 # Tasa de drenaje de HP
 
-*Para conocer la salud como mecánica del juego, véase: [Salud](/wiki/Gameplay/Health)*\
-*Para conocer las regulaciones relativas a la tasa de drenaje de HP, véase: [Criterios de clasificación](/wiki/Ranking_criteria)*
+::: alert-note
+**Nota:** Para conocer la salud como mecánica del juego, véase [Salud](/wiki/Gameplay/Health)
+:::
+
+::: alert-note
+**Nota:** Para conocer las regulaciones relativas a la tasa de drenaje de HP, véase [Criterios de clasificación](/wiki/Ranking_criteria)
+:::
 
 La **tasa de drenaje de HP** (***HP***) es una configuración de dificultad de un [beatmap](/wiki/Beatmap) que controla cuánta [salud](/wiki/Gameplay/Health) se pierde pasivamente en el [drenaje de salud](/wiki/Gameplay/Health). También afecta la gravedad en la penalización de un jugador por fallar notas y la cantidad de salud que se recupera al golpear [objetos](/wiki/Gameplay/Hit_object) con precisión.
 

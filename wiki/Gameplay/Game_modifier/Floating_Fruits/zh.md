@@ -2,6 +2,8 @@
 stub: true
 tags:
   - FF
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Floating Fruits（模组）
@@ -21,7 +23,7 @@ tags:
 | 缩写 | FF |
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!catch] |
-| 得分系数 | 1.00x |
+| 得分系数 | `1.00x` |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | 无 |
 

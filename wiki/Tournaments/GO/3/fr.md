@@ -70,7 +70,10 @@ La Game_Osu Tourney 3 était gérée par différents membres de la communauté, 
 
 ## Participants
 
-*Note: Le "Badge-weighted seeding" (BWS) est utilisé dans ce tournoi pour représenter le plus précisément possible le niveau des joueurs et éviter les restrictions au rang classiques. C'est un algorithme qui prend en compte le nombre de victoires en tournois officiels (par les badges) qu'un joueur possède, et également son classement mondial. Voir le site du Game\_Osu plus haut pour plus de détails.*
+::: alert-notice
+**Note**
+Le "Badge-weighted seeding" (BWS) est utilisé dans ce tournoi pour représenter le plus précisément possible le niveau des joueurs et éviter les restrictions au rang classiques. C'est un algorithme qui prend en compte le nombre de victoires en tournois officiels (par les badges) qu'un joueur possède, et également son classement mondial. Voir le site du Game\_Osu plus haut pour plus de détails.
+:::
 
 | Classement BWS | Joueur |
 | :-: | :-- |

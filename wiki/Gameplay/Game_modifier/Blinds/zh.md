@@ -2,6 +2,8 @@
 stub: true
 tags:
   - BL
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Blinds（模组）
@@ -22,7 +24,7 @@ tags:
 | 类别 | 增加难度 |
 | 默认快捷键 | `K` |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | 1.12x |
+| 得分系数 | `1.12x` |
 | 状态 | 计入排名 |
 | 不兼容的模组 | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 

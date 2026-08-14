@@ -16,4 +16,6 @@ Los **combo bursts** celebran el logro de un [hito de combo](/wiki/Gameplay/Comb
 
 Para osu!, osu!taiko y osu!catch, las estrellas saldrán disparadas desde el lado izquierdo o derecho del campo de juego para combos de menos de 100x, luego ambos lados simultáneamente para combos de 100x o más. Para osu!mania, las estrellas saldrán disparadas desde los lados izquierdo y derecho del escenario.
 
-*Nota: Los combo bursts se pueden desactivar en las [opciones](/wiki/Client/Options).*
+::: alert-notice
+**Nota:** Los combo bursts se pueden desactivar en las [opciones](/wiki/Client/Options).
+:::

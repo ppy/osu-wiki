@@ -10,13 +10,13 @@ tags:
   - legacy
   - Aprilscherz
   - Witz
-outdated_translation: true
-outdated_since: 4f9c331bc757b108e9dd898868803cf12a49e99f
 ---
 
 # Geschichte der osu!-Aprilscherze
 
-*Für die gesamte Geschichte von osu!, siehe: [Geschichte von osu!](/wiki/History_of_osu!)*
+::: alert-note
+**Anmerkung:** Für die gesamte Geschichte von osu!, siehe [Geschichte von osu!](/wiki/History_of_osu!)
+:::
 
 Jedes Jahr spielt das [osu!-Team](/wiki/People/osu!_team) der Community gerne Streiche am 1. April. Dieser Artikel listet alle Aprilscherze auf, die seit 2009 in der osu!-Community veranstaltet wurden.
 
@@ -24,7 +24,7 @@ Jedes Jahr spielt das [osu!-Team](/wiki/People/osu!_team) der Community gerne St
 
 ### "Lemon Tree" wird gerankt
 
-Die [Beatmap](/wiki/Beatmap) ["Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267) wurde am 1. April 2009 [gerankt](/wiki/Beatmap/Category#ranked), als Teil des diesjährigen Aprilscherzes. Die Beatmap war in der Community ein beliebter Scherz, denn die Nutzer behaupteten sarkastisch, dass eine solche Beatmap für immer gerankt bleiben sollte.[^lemontree-reddit][^lemontree-post-machol30][^lemontree-post-peppy] Ihr Ranked-Status wurde vom Moderationsteam kurz darauf entfernt.[^lemontree-post-machol30]
+Die [Beatmap](/wiki/Beatmap) ["Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267) wurde am 1. April 2009 [gerankt](/wiki/Beatmap/Category#ranked), als Teil des Aprilscherzes in diesem Jahr. Die Beatmap war in der Community ein beliebter Scherz, denn die Nutzer behaupteten sarkastisch, dass eine solche Beatmap für immer gerankt bleiben sollte.[^lemontree-reddit][^lemontree-post-machol30][^lemontree-post-peppy] Ihr Ranked-Status wurde vom Moderationsteam kurz darauf entfernt.[^lemontree-post-machol30]
 
 Nach einiger Zeit wurde die ursprüngliche Beatmap auf Wunsch ihres Erstellers entfernt, jedoch wurde sie letztendlich am 24. August 2012 von [MillhioreF](https://osu.ppy.sh/users/941094) für Archivierungszwecke wieder hochgeladen.[^lemontree-post-millhioref]
 
@@ -32,7 +32,7 @@ Nach einiger Zeit wurde die ursprüngliche Beatmap auf Wunsch ihres Erstellers e
 
 ### touhosu!
 
-Für den Aprilscherz 2010 wurden die osu!-Webseite und das Hauptmenü im Spiel mit Charakteren und Referenzen aus dem [Touhou Project](https://de.wikipedia.org/wiki/Touhou_Project) versehen. Zu den Änderungen gehörte die Hinzufügung des Charakters Marisa Kirisame und eine Anzeige mit unterschiedlich gefärbten Schmetterlingen in einem kreisförmigen Muster im Hauptmenü und auf der Website. Der Name "osu!" wurde in bestimmten Bereichen der Webseite durch "touhosu!" ersetzt.[^touhousu-ontheweb][^touhousu-osudev-2021-01-27][^touhousu-forums]
+Für den Aprilscherz 2010 wurden die osu!-Webseite und das Hauptmenü im Spiel mit Charakteren und Referenzen aus dem [Touhou Project](https://de.wikipedia.org/wiki/Touhou_Project) versehen. Zu den Änderungen gehörte das Hinzufügen des Charakters Marisa Kirisame und eine Anzeige mit unterschiedlich gefärbten Schmetterlingen in einem kreisförmigen Muster im Hauptmenü und auf der Website. Der Name "osu!" wurde in bestimmten Bereichen der Webseite durch "touhosu!" ersetzt.[^touhousu-ontheweb][^touhousu-osudev-2021-01-27][^touhousu-forums]
 
 ![](img/2010-touhosu-main-screen.png "Das Hauptmenü in osu! am 1. April 2010")
 
@@ -50,7 +50,7 @@ Es gab damals ebenfalls eine Mitteilung von [Ephemeral](https://osu.ppy.sh/users
 
 ## 2012
 
-### Mod Flashlight/Hidden auf der Website
+### Flashlight/Hidden-Mod auf der Website
 
 Am 1. April 2012 hatte die gesamte osu!-Webseite eine 50%ige Chance pro Seitenaufruf, dass entweder die Mod [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight) oder die Mod [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden) auf der Webseite "aktiviert" war (3/10 für HD, 1/5 für FL). Im Folgenden ist eine moderne Nachbildung des Streiches zu sehen, wie er damals für die Nutzer aussah.[^fl-ontheweb][^fl-forums-2][^fl-forums-3][^fl-forums-4][^fl-osudev-2021-01-29]
 
@@ -60,11 +60,11 @@ Am 1. April 2012 hatte die gesamte osu!-Webseite eine 50%ige Chance pro Seitenau
 
 ### Bad Apple Rangliste
 
-Die "Bad Apple Rangliste" war eine scherzhafte Rangliste für den osu!-Aprilscherz 2012, die auf einer Vielzahl an Beatmaps basierte, die den Song "Bad Apple!!" zeigten. Durch einen [Newsbeitrag](https://osu.ppy.sh/community/forums/posts/1431905) am 1. April 2012 angekündigt, funktionierte die Rangliste tatsächlich wie die echte Rangliste und zeigte die 40 besten Spieler an, die den höchsten [gewerteten Score](/wiki/Gameplay/Score/Ranked_score) in einer der handverlesenen "Bad Apple!!"-Beatmaps erhielten.[^bad-apple-chart][^bad-apple-news] Ein Auszug aus diesem zuvor erwähnten Newsbeitrag ist unten aufgeführt:
+Die "Bad Apple Rangliste" war eine scherzhafte Rangliste für den osu!-Aprilscherz 2012, die auf einer Vielzahl an Beatmaps des Songs "Bad Apple!!" basierte. Durch einen [Newsbeitrag](https://osu.ppy.sh/community/forums/posts/1431905) am 1. April 2012 angekündigt, funktionierte die Rangliste tatsächlich wie die echte Rangliste und zeigte die 40 besten Spieler an, die den höchsten [gewerteten Score](/wiki/Gameplay/Score/Ranked_score) in einer der handverlesenen "Bad Apple!!"-Beatmaps erhielten.[^bad-apple-chart][^bad-apple-news] Ein Auszug aus diesem zuvor erwähnten Newsbeitrag ist unten aufgeführt:
 
-> Wir entschieden uns, diese Rangliste dem besten Song und Video "Bad Apple!!" zu widmen, das jemals erstellt wurde. Du kannst die tolle Rangliste hier finden.
+> Wir entschieden uns, diese Rangliste dem besten Song und Video zu widmen, das jemals erstellt wurde — "Bad Apple!!". Du kannst die tolle Rangliste hier finden.
 >
-> Da es sich hier um eine Rangliste von epischem Ausmaß handelt, mussten wir unseren Preis diesmal etwas aufbessern! Die Gewinner erhalten ein Lily White Poster und ein handgezeichnetes Bild von Reimu (ein Drucker wird für den Erhalt dieser Preise benötigt).
+> Da es sich hierbei um eine Rangliste von epischem Ausmaß handelt, mussten wir unseren Preis diesmal etwas aufbessern! Die Gewinner erhalten ein Lily White Poster und ein handgezeichnetes Bild von Reimu (ein Drucker wird für den Erhalt dieser Preise benötigt).
 >
 > Sei gespannt auf unsere nächsten Ranglisten Renai Circulation und Irony!
 
@@ -72,7 +72,7 @@ Die "Bad Apple Rangliste" war eine scherzhafte Rangliste für den osu!-Aprilsche
 
 Die Rangliste wurde am 1. April 2012 geöffnet und am 2. April 2012 geschlossen. Am Ende des Ranking-Zeitraums war [Mesita](https://osu.ppy.sh/users/201459) der beste Spieler mit einer gewerteten Punktzahl von 145.623.328.[^bad-aple-frontpage]
 
-Die in der Rangliste enthaltenen Beatmaps werden unten aufgelistet:
+Die in der Rangliste enthaltenen Beatmaps werden hier aufgelistet:
 
 - [nomico - Bad Apple!! (James)](https://osu.ppy.sh/beatmapsets/6252)
 - [REDALiCE - Bad Apple!! (Rena-chan)](https://osu.ppy.sh/beatmapsets/10353)
@@ -109,17 +109,22 @@ Am 1. April 2014 wurde das Hauptmenü vorübergehend verändert (unten gezeigt),
 
 ### osu!coins
 
-*Siehe auch: [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)*
+::: alert-note
+**Siehe auch:** [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)
+:::
 
 ![](img/2015-osucoins.png "The osu! coins")
 
-Am 31. März 2015 brachte [peppy](https://osu.ppy.sh/users/2) [einen Newsbeitrag](https://osu.ppy.sh/home/news/2015-03-31-osucoins) heraus, der die Ergänzung einer neuen Spielwährung mit dem Namen "osu!coins" ankündigte.[^osu-coins-news][^osu-coins-ontheweb] Der Newsbeitrag erklärte, was die Spielwährung war und wie sie funktionierte, zusammen mit einem speziell dafür angefertigten [osu!academy-Video](https://www.youtube.com/watch?v=BImc5McuK1o). Daneben scherzte peppy auch, dass er die Änderung damit begründete, dass die derzeitigen Einnahmen aus Spielerspenden nicht ausreichen würden, um sich zu Lebzeiten einen Privatjet zu kaufen:
+Am 31. März 2015 veröffentlichte [peppy](https://osu.ppy.sh/users/2) [einen Newsbeitrag](https://osu.ppy.sh/home/news/2015-03-31-osucoins), der die Ergänzung einer neuen Spielwährung mit dem Namen "osu!coins" ankündigte.[^osu-coins-news][^osu-coins-ontheweb] Der Newsbeitrag erklärte, was die Spielwährung war und wie sie funktionierte, zusammen mit einem speziell dafür angefertigten [osu!academy-Video](https://www.youtube.com/watch?v=BImc5McuK1o). Daneben scherzte peppy auch, dass er die Änderung damit begründete, dass die derzeitigen Einnahmen aus Spielerspenden nicht ausreichen würden, um sich zu Lebzeiten einen Privatjet zu kaufen:
 
 > Bei der derzeitigen Rendite ist es unwahrscheinlich, dass ich mir zu meinen Lebzeiten einen Privatjet zulegen könnte, was mein oberstes Lebensziel ist. Daher habe ich mit dem Team über alternative Formen der Monetarisierung diskutiert und die aktuellen Trends bei ähnlichen kostenlosen Spielen untersucht, die derzeit auf dem Markt sind.
 
 — peppy, "osu!coins"[^osu-coins-news] (aus dem Englischen übersetzt)
 
-*Anmerkung: Nach der [koordinierten Weltzeit](https://de.wikipedia.org/wiki/Koordinierte_Weltzeit) wurde der Beitrag am 31. März 2015 veröffentlicht. Jedoch lebte peppy zur Zeit der Herausgabe in Australien, wo das aktuelle Datum der 1. April 2015 war.*
+::: alert-notice
+**Hinweis**
+Nach der [koordinierten Weltzeit](https://de.wikipedia.org/wiki/Koordinierte_Weltzeit) wurde der Beitrag am 31. März 2015 veröffentlicht. Jedoch lebte peppy zur Zeit der Herausgabe in Australien, wo das aktuelle Datum der 1. April 2015 war.
+:::
 
 Kurz gesagt, um eine [Beatmap](/wiki/Beatmap) zu spielen oder neu zu starten, mussten Nutzer einen [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin) ausgeben. Sobald die osu!coins aufgebraucht waren, waren die Spieler dazu gezwungen, entweder mit dem Spielen aufzuhören und bis zum nächsten Tag zu warten oder echtes Geld für mehr osu!coins zu bezahlen. Entgegen dieser Beschreibung wurde das tatsächliche Spiel jedoch nicht beeinträchtigt und Nutzer konnten weiterspielen wie normal, selbst wenn alle ihre osu!coins aufgebraucht waren.[^osu-coins-news][^osu-coins-yt][^osu-coins-yt-2]
 
@@ -135,7 +140,10 @@ Am 1. April 2016 wurde [ein Newsbeitrag](https://osu.ppy.sh/home/news/2016-04-01
 
 In Bezug auf die Art und Weise, wie Spieler die Oculus Rift als Eingabemethode nutzen können, wird im Newspost beschrieben, dass "der Spieler den Cursor in der Ich-Perspektive auf seinem Weg von und zu Hit-Objekten auf dem Bildschirm erlebt (…)" und dass Hit-Objekte getroffen werden, "(…) indem der Spieler vokalähnliche Laute mit seinem Mund erzeugt".[^translated] Es wurden keine tatsächlichen Änderungen im Spiel vorgenommen, die mit der Verwendung von Oculus Rift oder einem ähnlichen [Gerät mit VR-Unterstützung (Virtuelle Realität)](https://de.wikipedia.org/wiki/Virtuelle_Realit%C3%A4t) zur Steuerung von osu! zusammenhängen.[^osu-vr-news]
 
-*Hinweis: McOsu wird getrennt entwickelt und steht in keiner direkten Verbindung mit osu! oder ppy Pty Ltd.*
+::: alert-notice
+**Hinweis**
+McOsu wird getrennt entwickelt und steht in keiner direkten Verbindung mit osu! oder ppy Pty Ltd.
+:::
 
 Obwohl die offiziellen osu!-Entwickler keine Intention haben/hatten, VR-Unterstützung anzubieten, hat die Idee von osu! in VR bei einigen Fans Interesse geweckt. Aus diesem Interesse entstand kurz darauf ein inoffizielles Fanprojekt, welches das Ziel hatte, einen kostenlosen und quelloffenen Client zu kreieren, um [osu!-Beatmaps](/wiki/Beatmap) üben zu können. Außerdem gab es [Spielmodifikationen](/wiki/Gameplay/Game_modifier) und weitere Funktionen, wie die Möglichkeit, in VR zu spielen. Unter dem Namen [McOsu](https://store.steampowered.com/app/607260/McOsu) wurde das Projekt am 20. März 2017 fertiggestellt und auf [Steam](https://de.wikipedia.org/wiki/Steam) veröffentlicht.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
 
@@ -153,19 +161,21 @@ Als Teil der Aprilscherze für 2016 drehte sich der [osu!-Cookie](/wiki/Brand_id
 
 ## 2017
 
-Wie in einem [Tweet von peppy](https://twitter.com/ppy/status/848021525663842304) angekündigt, gab es im Jahre 2017 aufgrund der Entwicklung der [Lazer-Version](/wiki/Client/Release_stream/Lazer) des osu!-Clients keinen Aprilscherz.
+Wie in einem [Tweet von peppy](https://twitter.com/ppy/status/848021525663842304) angekündigt, gab es im Jahr 2017 aufgrund der Entwicklung von [osu!(lazer)](/wiki/Client/Release_stream/Lazer) keinen Aprilscherz.
 
 ## 2018
 
 ### Rotierender osu!-Cookie
 
-Am 1. April 2018 rotierte der [osu!-Cookie](/wiki/Brand_identity_guidelines) im Hauptmenü langsam im Uhrzeigersinn und der Cookie in der Songauswahl drehte sich langsam gegen den Uhrzeigersinn. Wenn man mit der Maus über diese Cookies gefahren ist, wurden die Cookies wie gewohnt größer, allerdings drehten sie sich auch schneller.[^osu-cookie-web-reddit][^osu-cookie-web-reddit-2][^osu-cookie-web-reddit-3][^osu-cookie-web-forums][^osu-cookie-web-forums-2]
+Am 1. April 2018 rotierte der [osu!-Cookie](/wiki/Brand_identity_guidelines) im Hauptmenü langsam im Uhrzeigersinn und der Cookie in der Songauswahl drehte sich langsam gegen den Uhrzeigersinn. Wenn man mit der Maus über diese Cookies gefahren ist, wurden sie wie gewohnt größer, allerdings drehten sie sich auch schneller.[^osu-cookie-web-reddit][^osu-cookie-web-reddit-2][^osu-cookie-web-reddit-3][^osu-cookie-web-forums][^osu-cookie-web-forums-2]
 
 ## 2019
 
 ### Soundeffekt eines niesenden Mädchens
 
 Für den Aprilscherz 2019 gab es eine etwa 5%ige Chance, den Soundeffekt eines niesenden Mädchens beim Öffnen einer Beatmap zu hören.[^sneeze-reddit][^sneeze-reddit-2][^sneeze-forums]
+
+Seit 2019 wird dieser Scherz jedes Jahr wiederholt (nur in osu!(stable)).[^sneeze-2-reddit][^sneeze-2-reddit-2][^sneeze-2-forums][^sneeze-2-forums-2][^sneeze-3-reddit][^sneeze-3-forums]
 
 ## 2020
 
@@ -181,15 +191,27 @@ Für den Aprilscherz 2019 gab es eine etwa 5%ige Chance, den Soundeffekt eines n
 
 ["MillhioreF - Waltz o' the Irish (MillhioreF)"](https://osu.ppy.sh/beatmapsets/73348#osu/326585) — eine seit langem existierende Scherz-Beatmap innerhalb der Community — wurde auch [Loved](/wiki/Beatmap/Category#loved) am 31. März 2020 im Rahmen dieses Witzes.
 
-### Soundeffekt eines niesenden Mädchens
+## 2026
 
-Der Aprilscherz 2020 wiederholte den gleichen Scherz aus dem Vorjahr, der dazu führte, dass man mit einer Wahrscheinlichkeit von 1 zu 20 den Soundeffekt eines niesenden Mädchens beim Öffnen einer Beatmap hörte.[^sneeze-2-reddit][^sneeze-2-reddit-2]
+### Mehr Toggles
 
-## 2021
+::: Infobox
+![Toggles-Abschnitt, der am 1. April sichtbar war](img/2026-toggles.png "Toggles-Abschnitt, der am 1. April sichtbar war")
+:::
 
-### Soundeffekt eines niesenden Mädchens
+In den Einstellungen in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) war am 1. April 2026[^2026] ein neuer `Toggles`-Abschnitt verfügbar, der den Text "You wanted toggles, we give you toggles" ("Ihr wolltet Schalter, wir geben euch Schalter") und einen einzigen Schalter enthielt. Dieser führte beim Anklicken dazu, dass mehr Schalter erschienen, die alle mit albernen Namen wie "toggle chaos" ("Chaos ein-/ausschalten") oder "toggle entropy" ("Entropie ein-/ausschalten") versehen waren.
 
-Der Aprilscherz 2021 wiederholte den gleichen Scherz aus den beiden Vorjahren, der dazu führte, dass man mit einer etwa 5%igen Wahrscheinlichkeit den Soundeffekt eines niesenden Mädchens beim Öffnen einer Beatmap hörte.[^sneeze-2-forums][^sneeze-2-forums-2]
+Durch das Anklicken eines beliebigen Schalters wurden andere Schalter aus- oder abgewählt und zufällige Effekte ausgelöst, von denen manche sogar aktiv blieben während man eine Beatmap spielte:
+
+- Ein osu!-Logo bewegt sich wie der [DVD-Bildschirmschoner](https://en.wikipedia.org/wiki/DVD_screensaver) über den Bildschirm
+- osu! macht eine Fassrolle[^barrel-roll]
+- Die Menüoberfläche erhält ein anderes Farbschema
+- Verschiedene Soundeffekte wie z. B. verzerrter Ton
+- Das Spielfenster ist leicht geneigt
+
+Zu viele Schalter auszuwählen führte schließlich dazu, dass osu! "abstürzte", indem ein Geräusch von zerbrechendem Glas abgespielt, herangezoomt und ins Schwarze übergeblendet wurde, wonach das Spiel in den Normalzustand zurückkehrte. Der `Toggles`-Abschnitt enthielt dann jedoch den Text "..on second thought, no more toggles for you." ("..wenn ich es mir recht überlege, keine Schalter mehr für dich.") und einen Button mit der Aufschrift "But please peppy" ("Aber bitte peppy"), der beim Anklicken einen Buzzer-Sound abspielte und den Text "no" ("Nein") anzeigte. Drückte man diesen Button oft genug, kehrte der `Toggles`-Abschnitt in den Ausgangszustand mit nur einem Schalter zurück.
+
+Dieser Toggles-Abschnitt wurde hinzugefügt in Anlehnung an die vielen Anfragen in [GitHub-Diskussionen](https://github.com/ppy/osu/discussions) und dem [Feature Requests](https://osu.ppy.sh/community/forums/4)-Forum, die vorgeschlagen haben, für verschiedene Funktionen Schalter hinzuzufügen. Die [Entwickler](/wiki/People/Developers) möchten verhindern, dass die Einstellungen zu überladen werden.[^toggles-comment]
 
 ## Anmerkungen und Referenzen
 
@@ -272,9 +294,16 @@ Der Aprilscherz 2021 wiederholte den gleichen Scherz aus den beiden Vorjahren, d
 [^sneeze-reddit-2]: [Reddit-Beitrag von u/anoymaly2152 in r/osugame (01.04.2019) "Bless you, Pippi."](https://www.reddit.com/r/osugame/comments/b848ro/bless_you_pippi/)
 [^sneeze-forums]: [Forum-Thread von Brainage (01.04.2019) "No April Fools in the changelog?"](https://osu.ppy.sh/community/forums/topics/888939)
 
-[^irish-fa]: [Newsbeitrag von Ephemeral (01.04.2020) "New Featured Artist: MillhioreF"](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref)
-
 [^sneeze-2-reddit]: [Reddit-Beitrag von u/not_pingu in r/osugame (01.04.2020) "Does anybody sometimes hear the "achoo"? (sorry for bad quality)"](https://www.reddit.com/r/osugame/comments/fsxfpk/does_anybody_sometimes_hear_the_achoo_sorry_for/)
 [^sneeze-2-reddit-2]: [Reddit-Beitrag von u/ohmaytt in r/osugame (01.04.2020) "This year's osu! April Fool's Day joke"](https://www.reddit.com/r/osugame/comments/fsq30l/this_years_osu_april_fools_day_joke/)
 [^sneeze-2-forums]: [Forum-Thread von MilkyIQ (01.04.2021) "Is this not the third year in a row that we get sneezing girl?"](https://osu.ppy.sh/community/forums/topics/1286906)
 [^sneeze-2-forums-2]: [Forum-Thread von GreatTurtleKing (01.04.2021) "i heard like a sneeze when i just started to play a song"](https://osu.ppy.sh/community/forums/topics/1286396)
+
+[^sneeze-3-reddit]: [Reddit-Beitrag von u/Clone_C1 in r/osugame (01.04.2022) "Is peppy trolling, I hear some anime girl sneezing or something when select a song?"](https://www.reddit.com/r/osugame/comments/ttjurr/is_peppy_trolling_i_hear_some_anime_girl_sneezing/)
+[^sneeze-3-forums]: [Forum-Thread von Antonio225 (01.04.2022) "Osu! Sneezing sound"](https://osu.ppy.sh/community/forums/topics/1550108)
+
+[^irish-fa]: [Newsbeitrag von Ephemeral (01.04.2020) "New Featured Artist: MillhioreF"](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref)
+
+[^2026]: [osu!(lazer) Quellcode](https://github.com/ppy/osu/commit/3edc428c3a084896ec6fcb4f09528cdd0668c0ef)
+[^barrel-roll]: Eine Anspielung auf ein Meme aus [Lylat Wars](https://de.wikipedia.org/wiki/Lylat_Wars), in dem Peppy Hare dem Spieler rät, eine Fassrolle zu machen ("Do a barrel roll!"), d. h. sich um 360 Grad zu drehen.
+[^toggles-comment]: [GitHub-Kommentar von peppy (16.04.2023)](https://github.com/ppy/osu/pull/23200#issuecomment-1510138723)

@@ -22,10 +22,10 @@
 
 | Medaillenname | Anforderung | Beschreibung |
 | :-- | :-- | :-- |
-| Catch 20.000 fruits | Sammle insgesamt 20.000 Fruits in osu!catch. | That is a lot of dietary fiber. |
-| Catch 200.000 fruits | Sammle insgesamt 200.000 Fruits in osu!catch. | So, I heard you like fruit.. |
-| Catch 2.000.000 fruits | Sammle insgesamt 2.000.000 Fruits in osu!catch. | Downright healthy. |
-| Catch 20.000.000 fruits | Sammle insgesamt 20,000,000 Fruits in osu!catch. | Nothing left behind. |
+| Catch 20.000 fruits | Fange insgesamt 20.000 Früchte in osu!catch. | That is a lot of dietary fiber. |
+| Catch 200.000 fruits | Fange insgesamt 200.000 Früchte in osu!catch. | So, I heard you like fruit... |
+| Catch 2.000.000 fruits | Fange insgesamt 2.000.000 Früchte in osu!catch. | Downright healthy. |
+| Catch 20.000.000 fruits | Fange insgesamt 20.000.000 Früchte in osu!catch. | Nothing left behind. |
 
 ## osu!mania
 
@@ -40,6 +40,6 @@
 
 | Medaillenname | Anforderung | Beschreibung |
 | :-- | :-- | :-- |
-| Daily Sprout | Gewinne die [tägliche Herausforderung](/wiki/Gameplay/Daily_challenge) einmal. | Ready for anything. |
-| Weekly Sapling | Gewinne die [tägliche Herausforderung](/wiki/Gameplay/Daily_challenge) 7 Mal hintereinander. | Circadian rhythm calibrated. |
-| Monthly Shrub | Gewinne die [tägliche Herausforderung](/wiki/Gameplay/Daily_challenge) 30 Mal hintereinander. | In for the grind. |
+| Daily Sprout | Absolviere die [tägliche Herausforderung](/wiki/Gameplay/Daily_challenge) einmal. | Ready for anything. |
+| Weekly Sapling | Absolviere die [tägliche Herausforderung](/wiki/Gameplay/Daily_challenge) an 7 aufeinanderfolgenden Tagen. | Circadian rhythm calibrated. |
+| Monthly Shrub | Absolviere die [tägliche Herausforderung](/wiki/Gameplay/Daily_challenge) an 30 aufeinanderfolgenden Tagen. | In for the grind. |

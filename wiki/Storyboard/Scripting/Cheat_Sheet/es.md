@@ -44,7 +44,10 @@ El orden Z (de atrás hacia adelante) está determinado por el orden en que apar
 | 2 | Pass |
 | 3 | Primer plano |
 
-*Nota: El fondo y el primer plano siempre están visibles.*
+::: alert-notice
+**Aviso**
+El fondo y el primer plano siempre están visibles.
+:::
 
 | Valor | Origen |
 | :-: | :-- |
@@ -95,7 +98,10 @@ Para cada uno de los tipos de eventos siguientes, los valores iniciales de ese e
 
 **endopacity**: la opacidad al final de la animación
 
-*Nota: 0 - invisible, 1 - completamente visible*
+::: alert-notice
+**Aviso**
+0 - invisible, 1 - completamente visible
+:::
 
 `_M,[...],startx,starty,endx,endy`
 
@@ -229,7 +235,10 @@ Primer plano = **3**
 
 **ruta del archivo**: ruta relativa del archivo de sonido (debe estar en el mismo directorio que el archivo .osu)
 
-*Nota: la ruta del archivo debe estar entre comillas dobles*
+::: alert-notice
+**Aviso**
+la ruta del archivo debe estar entre comillas dobles
+:::
 
 **volumen**: volumen del archivo de sonido. (1-100) Se puede dejar en 100.
 

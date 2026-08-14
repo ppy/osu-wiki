@@ -1,6 +1,8 @@
 # Système de notation d'osu!taiko
 
-*Voir également : [Système de jugement d'osu!taiko](/wiki/Gameplay/Judgement/osu!taiko)*
+::: alert-note
+**Voir également** : [Système de jugement d'osu!taiko](/wiki/Gameplay/Judgement/osu!taiko)
+:::
 
 Chaque GREAT (excepté le bonus 1.2x du kiai time) compte pour `300 + RoundDown(Combo / 10)` fois `n`, jusqu'à un maximum de `300+10n` points, où `n` dépend du niveau de difficulté de la musique.
 

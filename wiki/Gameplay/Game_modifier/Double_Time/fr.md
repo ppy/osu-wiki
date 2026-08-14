@@ -14,8 +14,13 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ![Icône du mod DT](/wiki/shared/mods/DT.png "Icône du mod Double Time (DT)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
-*Voir également : [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)*
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Voir également** : [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)
+:::
 
 ## À propos
 
@@ -33,7 +38,10 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ## Description
 
-*Note: La méthode utilisée pour augmenter la vitesse n'augmente pas la hauteur de la musique.*
+::: alert-notice
+**Note**
+La méthode utilisée pour augmenter la vitesse n'augmente pas la hauteur de la musique.
+:::
 
 Le mod **Double Time** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) qui vise à augmenter la difficulté d'une beatmap [beatmap](/wiki/Beatmap) en augmentant sa vitesse générale (BPM) à 150% (1.5x), réduisant de 33% la durée de la musique et augmentant l'[approach rate (AR)](/wiki/Beatmap/Approach_rate), l'[overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty), et la difficulté à garder des [HP](/wiki/Gameplay/Health).
 

@@ -16,7 +16,10 @@ Las reuniones suelen anunciarse con más de una semana de antelación en el cana
 
 ## Temas de las reuniones
 
-*Aviso: Todas las notas y resúmenes están en inglés.*
+::: alert-notice
+**Aviso**
+Todas las notas y resúmenes están en inglés.
+:::
 
 - 29/12/2019: Responsabilidades del NAT - [Notas](https://docs.google.com/document/d/1THKiYwiRBY-7PW__itoDrpUVeH7cmr5_QNtNMlkbNNs/edit?usp=sharing), [resumen](https://osu.ppy.sh/community/forums/topics/1006014)
 - 3/1/2020: Promoción de los miembros del NAT - [Notas](https://docs.google.com/document/d/1y3MAKp10Y-pAGDXqFIl9rKcd_Ym3WF3CjtDxPtY0-1k/edit?usp=sharing), [resumen](https://osu.ppy.sh/community/forums/topics/1006119)

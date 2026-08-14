@@ -9,7 +9,9 @@ tags:
 
 ![Exemple de beatmap TAG](img/tag-beatmap-example.png "Exemple de beatmap TAG")
 
-*A ne pas confondre avec les tags, qui sont une [partie des métadonnées d'une beatmap](/wiki/Client/Beatmap_editor/Song_setup).*
+::: alert-note
+**Remarque** : A ne pas confondre avec les tags, qui sont une [partie des métadonnées d'une beatmap](/wiki/Client/Beatmap_editor/Song_setup).
+:::
 
 **Les Beatmaps TAG** (ou simplement *TAG*) sont des beatmaps spécialement conçus pour le [mode Tag co-op ou Tag-team VS](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) dans les [lobby multijoueurs](/wiki/Client/Interface/Multiplayer). Ainsi, ces beatmaps nécessitent souvent un jeu coopératif entre deux joueurs ou plus dans le lobby afin d'être terminés.
 

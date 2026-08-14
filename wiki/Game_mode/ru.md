@@ -23,7 +23,9 @@ osu! включает в себя четыре **игровых режима** �
 
 ## ![][osu!] osu!
 
-*Основная статья: [osu!](osu!)*
+::: alert-note
+**Основная статья:** [osu!](osu!)
+:::
 
 *osu!* - это стандартный игровой режим, в котором игроки должны нажимать на круги, зажимать слайдеры и раскручивать спиннеры в такт музыке. Режим основан на оригинальной ритм-игре [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) под названием *[Osu! Tatakae! Ouendan](https://ru.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*. У osu! есть собственный маскот - девушка с розово-чёрными волосами по имени [pippi](/wiki/Mascots#pippi).
 
@@ -31,7 +33,9 @@ osu! включает в себя четыре **игровых режима** �
 
 ## ![][osu!taiko] osu!taiko
 
-*Основная статья: [osu!taiko](osu!taiko)*
+::: alert-note
+**Основная статья:** [osu!taiko](osu!taiko)
+:::
 
 *osu!taiko* имитирует игру на настоящем барабане: игроки используют клавиатуру или барабанную установку, чтобы попадать по разноцветным кружкам на конвейере. В основе этого режима лежит серия игр *[Taiko no Tatsujin](https://ru.wikipedia.org/wiki/Taiko_no_Tatsujin)*, выпущенная компанией [Bandai Namco Entertainment](https://ru.wikipedia.org/wiki/Bandai_Namco_Entertainment). Маскот osu!taiko - [Mocha](/wiki/Mascots#mocha), зеленоволосая девушка в кимоно, которая держит барабанные палочки.
 
@@ -39,7 +43,9 @@ osu! включает в себя четыре **игровых режима** �
 
 ## ![][osu!catch] osu!catch
 
-*Основная статья: [osu!catch](osu!catch)*
+::: alert-note
+**Основная статья:** [osu!catch](osu!catch)
+:::
 
 В *osu!catch* с верхней части экрана падают фрукты различных видов, которые необходимо ловить под музыку, управляя персонажем с тарелкой над головой. Данный режим частично основан на мини-игре в симуляторе [Beatmania](https://ru.wikipedia.org/wiki/Beatmania), которая, предположительно, была основана на режиме *EZ2CATCH* из серии игр [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). Маскот osu!catch - голубоволосый мальчик по имени [Yuzu](/wiki/Mascots#yuzu).
 
@@ -47,7 +53,9 @@ osu! включает в себя четыре **игровых режима** �
 
 ## ![][osu!mania] osu!mania
 
-*Основная статья: [osu!mania](osu!mania)*
+::: alert-note
+**Основная статья:** [osu!mania](osu!mania)
+:::
 
 *osu!mania* - это ритм-игра с вертикальным скроллингом (англ. *VSRG*), задуманная как симулятор фортепиано. Данный режим был [представлен и реализован](https://osu.ppy.sh/community/forums/topics/100751) в основном игроком [woc2006](https://osu.ppy.sh/users/1105845), а в его основу легли различные ритм-игры конвейерного типа (в частности, [Dance Dance Revolution](https://ru.wikipedia.org/wiki/Dance_Dance_Revolution) и [Beatmania](https://ru.wikipedia.org/wiki/Beatmania)). Маскотами osu!mania являются близнецы [Mani и Mari](/wiki/Mascots#mani-&-mari), имеющие фиолетовые и светло-фиолетовые волосы.
 

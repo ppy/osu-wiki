@@ -6,7 +6,9 @@ tags:
 
 # Nouveau combo
 
-*Pour d'autres utilisations, voir [NC (désambiguïsation)](/wiki/Disambiguation/NC).*
+::: alert-note
+**Remarque** : Pour d'autres utilisations, voir [NC (désambiguïsation)](/wiki/Disambiguation/NC).
+:::
 
 Les **Nouveaux combos** (abrégé en *NCs*) signalent le début d'un nouveau [combo](/wiki/Beatmapping/Combo). Le comportement des nouveaux combos pendant le jeu dépend du [mode de jeu](/wiki/Game_mode) actuellement sélectionné. Ils peuvent être sélectionnés pendant le [beatmapping](/wiki/Beatmapping) dans l'[éditeur de beatmap](/wiki/Client/Beatmap_editor) en cliquant sur le bouton `New Combo` à droite de l'onglet `Compose`, ou en utilisant le raccourci `Q`. Les nouveaux combos font partie intégrante de la [mise en couleur](/wiki/Beatmapping/Colourhaxing).
 
@@ -14,7 +16,10 @@ Les **Nouveaux combos** (abrégé en *NCs*) signalent le début d'un nouveau [co
 
 Dans [osu!](/wiki/Game_mode/osu!), chaque [objet](/wiki/Gameplay/Hit_object) a son propre numéro de combo et sa propre [couleur de combo](/wiki/Beatmapping/Combo_colour). Lorsqu'un nouveau combo est lancé, la couleur du combo change et le numéro du combo est remis à un. Cela compte pour chaque objet suivant.
 
-*Note : Les [spinners](/wiki/Gameplay/Hit_object/Spinner) forcent le prochain objet à commencer un nouveau combo.*
+::: alert-notice
+**Note**
+Les [spinners](/wiki/Gameplay/Hit_object/Spinner) forcent le prochain objet à commencer un nouveau combo.
+:::
 
 ## osu!catch
 

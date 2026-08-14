@@ -2,6 +2,8 @@
 stub: true
 tags:
   - SY
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Synesthesia（模组）
@@ -20,8 +22,8 @@ tags:
 | :-- | :-- |
 | 缩写 | SY |
 | 类别 | 娱乐 |
-| 游戏模式 | ![][osu!] |
-| 得分系数 | 0.80x |
+| 游戏模式 | ![][osu!] ![][osu!catch] |
+| 得分系数 | `0.80x` |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | 无 |
 
@@ -32,3 +34,4 @@ tags:
 <!-- TODO description and settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"

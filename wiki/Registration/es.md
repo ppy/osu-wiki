@@ -1,6 +1,9 @@
 # Registro
 
-*Advertencia: ¡Tener más de una cuenta de usuario de osu! en cualquier momento es una infracción contra las [reglas de osu!](/wiki/Rules)!*
+::: alert-warning
+**Advertencia**
+¡Tener más de una cuenta de usuario de osu! en cualquier momento es una infracción contra las [reglas de osu!](/wiki/Rules)!
+:::
 
 1. Después de [instalar](/wiki/Client/Installation) osu! y ejecutarlo, osu! te pedirá que inicies sesión o te registres. Suponiendo que estás aquí porque necesitas una cuenta, haz clic en `Crear una cuenta`.
 

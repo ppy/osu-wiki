@@ -12,7 +12,10 @@ Cet article sert de guide pour vous aider à apporter des modifications mineures
 
 ## Audacity
 
-*Remarque : cet article utilise Audacity 3.4.2.*
+::: alert-notice
+**Note**
+cet article utilise Audacity 3.4.2.
+:::
 
 [Audacity](https://www.audacityteam.org/download) est un logiciel d'édition et d'enregistrement audio libre et gratuit. Il utilise la bibliothèque d'encodage [LAME](https://lame.sourceforge.io) pour pouvoir exporter du son au format MP3. Il est intégré à Audacity sous Windows et macOS.
 
@@ -66,13 +69,19 @@ Installez et ouvrez Audacity, puis suivez les étapes suivantes :
 
 ## mp3DirectCut
 
-*Remarque : Cet article utilise mp3DirectCut 2.36.*
+::: alert-notice
+**Note**
+Cet article utilise mp3DirectCut 2.36.
+:::
 
 [mp3DirectCut](https://mpesch3.de) est un logiciel d'édition audio gratuit qui permet d'éditer directement les fichiers MP3 sans réencodage, ce qui évite souvent une perte de qualité. Il est recommandé lorsqu'il s'agit d'augmenter ou de réduire le volume ou de recadrer l'audio.
 
 ### Réduction du débit binaire
 
-*Remarque : un fichier de bibliothèque 32 bits est nécessaire pour utiliser cette fonction.*
+::: alert-notice
+**Note**
+un fichier de bibliothèque 32 bits est nécessaire pour utiliser cette fonction.
+:::
 
 1. Ouvrez le fichier `.mp3` dont vous voulez réduire le débit.
 2. Cliquez sur `Paramètres` -> `Configuration`, ou appuyez sur `F11`.

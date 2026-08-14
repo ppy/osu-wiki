@@ -1,6 +1,8 @@
 # Bascule du fichier Storyboard .osu
 
-*Voir également : [skin.ini](/wiki/Skinning/skin.ini)*
+::: alert-note
+**Voir également** : [skin.ini](/wiki/Skinning/skin.ini)
+:::
 
 Les options suivantes peuvent être ajoutées aux fichiers .osu (et dans certains cas, aux fichiers .osb) pour affecter le [skinning](/wiki/Skinning)/[storyboarding](/wiki/Storyboard). Celles qui sont ajoutées/supprimées par l'[éditeur de beatmap](/wiki/Client/Beatmap_editor) peuvent également être incluses.
 

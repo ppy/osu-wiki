@@ -8,7 +8,9 @@ tags:
 
 # Einleitung des Audios
 
-*Siehe auch: [Offset](/wiki/Offset)*
+::: alert-note
+**Siehe auch:** [Offset](/wiki/Offset)
+:::
 
 Das **Intro** ist die Zeit, die Spieler vor dem ersten [Hit-Objekt](/wiki/Gameplay/Hit_object) in einer [Beatmap](/wiki/Beatmap) haben. In der [`.osu`-Datei](/wiki/Client/File_formats/osu_(file_format)) einer [Schwierigkeitsstufe](/wiki/Beatmap/Difficulty) können [Mapper](/wiki/Beatmapping) mit dem Parameter `AudioLeadIn` die in Millisekunden angegebene Introdauer anpassen.
 

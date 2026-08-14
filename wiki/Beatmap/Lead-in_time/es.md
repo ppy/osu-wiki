@@ -8,7 +8,9 @@ tags:
 
 # Tiempo de entrada
 
-*Véase también: [Compensación](/wiki/Offset)*
+::: alert-note
+**Véase también:** [Compensación](/wiki/Offset)
+:::
 
 La **entrada** es la cantidad de tiempo que da el juego para que los jugadores reaccionen antes del primer [objeto](/wiki/Gameplay/Hit_object) de un [beatmap](/wiki/Beatmap). Este puede ser personalizado por los [mappers](/wiki/Beatmapping) editando el campo `AudioLeadIn` en el [archivo `.osu`](/wiki/Client/File_formats/osu_(file_format)) en una [dificultad del beatmap](/wiki/Beatmap/Difficulty), que contiene la duración de la entrada en milisegundos.
 

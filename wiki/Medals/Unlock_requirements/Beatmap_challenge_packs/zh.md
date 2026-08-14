@@ -1,5 +1,7 @@
 # 挑战曲包奖章解锁条件
 
+完成这些曲包时，不可使用[降低难度的模组](/wiki/Gameplay/Game_modifier#降低难度)。
+
 | 奖章名称 | 条件 |
 | :-- | :-- |
 | Mappers' Guild Pack VII | 完成 [Mappers' Guild Pack VII](https://osu.ppy.sh/beatmaps/packs/2034) 中所有谱面的最高难度。此曲包中所有谱面的最高难度星数均在 5.00★–5.99★ 范围内。 |

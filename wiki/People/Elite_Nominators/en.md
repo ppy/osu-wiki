@@ -23,7 +23,9 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 
 ### 2019
 
-*For the news post, see: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+::: alert-note
+**Note:** For the news post, see [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)
+:::
 
 <!-- order of appearance in news post to be consistent with community contributors -->
 
@@ -43,7 +45,9 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 
 ### 2020
 
-*For the news post, see: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+::: alert-note
+**Note:** For the news post, see [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)
+:::
 
 | Name | Game mode | Award |
 | :-- | :-: | :-: |
@@ -61,7 +65,9 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 
 ### 2021
 
-*For the news post, see: [Community Contributors 2021: Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators)*
+::: alert-note
+**Note:** For the news post, see [Community Contributors 2021: Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators)
+:::
 
 | Name | Game mode | Award |
 | :-- | :-: | :-: |
@@ -84,7 +90,9 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 
 ### 2022
 
-*For the news post, see: [Community Contributors 2022: Elite Nominators](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022)*
+::: alert-note
+**Note:** For the news post, see [Community Contributors 2022: Elite Nominators](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022)
+:::
 
 | Name | Game mode | Award |
 | :-- | :-: | :-: |
@@ -105,7 +113,9 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 
 ### 2023
 
-*For the news post, see: [Community Contributors 2023: Elite Nominators](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)*
+::: alert-note
+**Note:** For the news post, see [Community Contributors 2023: Elite Nominators](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)
+:::
 
 | Name | Game mode | Award |
 | :-- | :-: | :-: |
@@ -128,7 +138,9 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 
 ### 2024
 
-*For the news post, see: [Community Contributors 2024: Elite Nominators](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)*
+::: alert-note
+**Note:** For the news post, see [Community Contributors 2024: Elite Nominators](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)
+:::
 
 | Name | Game mode | Award |
 | :-- | :-: | :-: |
@@ -152,7 +164,9 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 
 ### 2025
 
-*For the news post, see: [Community Contributors 2025: Elite Nominators](https://osu.ppy.sh/home/news/2026-05-01-elite-nominators-2025)*
+::: alert-note
+**Note:** For the news post, see [Community Contributors 2025: Elite Nominators](https://osu.ppy.sh/home/news/2026-05-01-elite-nominators-2025)
+:::
 
 | Name | Game mode | Award |
 | :-- | :-: | :-: |

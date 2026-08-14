@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0e61b1bd28efc9e6a300fd0f3d05ab85d8f2a5c0
+---
+
 # Các gợi ý để làm công việc của bạn tốt hơn
 
 Bài viết này sẽ nói về một số khó khăn có thể bạn sẽ gặp phải khi đang làm việc. Các phương pháp được đề cập ở đây làm cho công việc dễ dàng hơn và có thể được áp dụng cho các dự án khác được quản lý trên GitHub hoặc các phương tiện tương tự.
@@ -21,24 +26,6 @@ Bài viết này sẽ nói về một số khó khăn có thể bạn sẽ gặp
    ![](img/update-branch.png "Cập nhật branch cũ")
 
 Bây giờ các tài liệu trong branch sẽ giống repository gốc.
-
----
-
-Giải pháp này hoạt động được ở hầu hết các trường hợp, mặc dù khả năng của tính năng này cũng có hạn. Ví dụ, nó không cho phép bạn ghi đè những thay đổi không mong muốn trên branch, mà nó chỉ hợp nhất từ  `master` branch.
-
-Nếu bạn gặp vấn đề khi đang sử dụng công cụ GitHub hoặc bạn muốn ghi đè lên nội dung trong branch của bạn, bạn có thể sử dụng workflow (luồng công việc) viết bởi những người đóng góp cho osu! wiki.
-
-1. Mở **fork của bạn** và đi tới thẻ `Actions`.
-2. Ở thanh bên trái, tìm `Sync with ppy:master`.
-3. Nhấn `Run workflow` và điền vào các thiết lập:
-
-![Ảnh chụp màn hình của biểu mẫu trên trang web GitHub được mô tả bên dưới](img/github-actions-workflow-dispatch.png "Menu khởi chạy GitHub Actions workflow")
-
-- **Use workflow from**: Branch đích bạn muốn đồng bộ. Mặc định sẽ là `master`.
-- **Create a backup of the selected branch**: Tạo một bản sao của branch đích tại `{branch name}-backup` trên fork của bạn trước khi thử cập nhật nó.
-- **Overwrite all history of the selected branch**: Thay thế branch đích bằng `ppy:master`, loại bỏ tất cả commit khác. Mặc định, `ppy:master` sẽ được merge vào branch đích.
-
-4. Nhấn nút `Run Workflow` và chờ nó hoàn thành. Nếu bạn tò mò xem công cụ này hoạt động ra sao, nhấn vào `Sync with ppy:master`.
 
 ## Chỉnh sửa
 

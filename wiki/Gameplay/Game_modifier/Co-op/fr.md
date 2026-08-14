@@ -16,7 +16,10 @@ tags:
 
 ![Icône du mod CO](/wiki/shared/mods/CP.png "Icône du mod Co-op (CO)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
+
 *À ne pas confondre avec [Multiplayer](/wiki/Client/Interface/Multiplayer).*
 
 ## À propos
@@ -48,7 +51,10 @@ Le tableau suivant ne concerne que les beatmaps convertis du mode [osu!](/wiki/G
 | 6K | 0.74x | 0.82x | 1.00x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
 | 7K | 0.70x | 0.78x | 0.86x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x | 0.90x |
 
-*Note : Le mod Co-op ne donne aucune pénalité sur les beatmaps spécifiques à osu!mania.*
+::: alert-notice
+**Note**
+Le mod Co-op ne donne aucune pénalité sur les beatmaps spécifiques à osu!mania.
+:::
 
 Une explication détaillée du deuxième champ de jeu se trouve sous [Modes de jeu / osu!mania § Co-op](/wiki/Game_mode/osu!mania#co-op).
 

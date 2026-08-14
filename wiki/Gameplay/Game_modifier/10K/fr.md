@@ -15,7 +15,10 @@ tags:
 
 ![Icône du mod 10K](/wiki/shared/mods/10K.png "Icône du mod 10K")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
+
 *À ne pas confondre avec les mods [xK](/wiki/Gameplay/Game_modifier/xK)*.
 
 ## À propos

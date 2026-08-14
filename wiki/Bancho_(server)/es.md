@@ -6,7 +6,9 @@ tags:
 
 # Bancho (servidor)
 
-*Para otros usos, véase [Bancho (desambiguación)](/wiki/Disambiguation/Bancho).*
+::: alert-note
+**Nota:** [Bancho (desambiguación)](/wiki/Disambiguation/Bancho).
+:::
 
 **Bancho** (algunas veces llamado *osu!Bancho*) es el nombre en clave del componente del servidor que maneja interacciones en tiempo real entre jugadores que ejecutan versiones estables de osu!:
 

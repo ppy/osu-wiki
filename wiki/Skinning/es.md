@@ -4,7 +4,9 @@ El skinning es una de las principales funciones de osu! que le permite a los jug
 
 ## Conjuntos de skinning
 
-*Página principal: [Lista de conjuntos de skinning](/wiki/Ranking_criteria/Skin_set_list)*
+::: alert-note
+**Página principal:** [Lista de conjuntos de skinning](/wiki/Ranking_criteria/Skin_set_list)
+:::
 
 **Solo para beatmaps**, si tu skin para un beatmap contiene un solo elemento de los conjuntos enumerados en los [criterios de clasificación](/wiki/Ranking_criteria), debe contener todos los demás elementos dentro de dicho conjunto de skinning. Esto solo se aplica a las skins de los beatmaps, pero se aconseja a otros skinners que sigan también estas listas para preservar la integridad de su skin.
 
