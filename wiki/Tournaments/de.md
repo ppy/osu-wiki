@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: fd028f58d8059662b754899f9d26771681e0d4cd
+---
+
 # Turniere
 
 Dieser Bereich ist für osu!-Turniere bestimmt. Turniere haben ihr eigenes Forum, das man [über diesen Link](https://osu.ppy.sh/community/forums/55) finden kann.
