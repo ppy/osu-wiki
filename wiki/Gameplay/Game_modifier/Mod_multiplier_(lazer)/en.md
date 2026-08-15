@@ -34,7 +34,7 @@ The multiplier of a mod can also depend on its customisation settings. Detailed 
 
 ## History
 
-Initially, osu!(lazer) used the same constant mod multipliers as osu!(stable) (with the exception of [Key mods](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)), see [below](#add-multiplier-for-osu!mania-key-mods)),[^mods-2017] which can be found [here](/wiki/Gameplay/Game_modifier/Summary). However, due to a different scoring system and new features like mod customisation, these multipliers were not suitable for the game in the long run. Therefore, the system was adjusted multiple times in the following years.
+Initially, osu!(lazer) used the same constant mod multipliers as osu!(stable) (with the exception of [Key mods](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)), see [below](#reduction-of-osu!mania-key-mods-multiplier)),[^mods-2017] which can be found [here](/wiki/Gameplay/Game_modifier/Summary). However, due to a different scoring system and new features like mod customisation, these multipliers were not suitable for the game in the long run. Therefore, the system was adjusted multiple times in the following years.
 
 ### Removal of increased multipliers for customised mods
 
@@ -75,7 +75,7 @@ As mentioned above, the score multipliers initially used in osu!(lazer) did not 
 
 In order to bring leaderboards in line with player expectations, a [survey](https://osu.ppy.sh/home/news/2026-01-19-survey-mod-multipliers) was launched on 19 January 2026, where players could vote on how they would like the mod multipliers to be adjusted in an upcoming update. Apart from the Classic mod, this only concerned the osu! game mode.
 
-After thorough evaluation of the survey results, a large batch of changes to the mod multipliers was added to the game [on 20 June 2026](https://osu.ppy.sh/home/changelog/lazer/2026.620.0). This included an update to the Classic mod, whose multiplier was adjusted to `0.985x` in osu!, and `1.00x` in the other three game modes.
+After thorough evaluation of the survey results, a large batch of changes[^multiplier-rework] to the mod multipliers was added to the game [on 20 June 2026](https://osu.ppy.sh/home/changelog/lazer/2026.620.0). This included an update to the Classic mod, whose multiplier was adjusted to `0.985x` in osu!, and `1.00x` in the other three game modes.
 
 For osu!, the update also covered many other mods, for instance there was another update to the rate adjust multipliers, and even some [`Fun` mods](/wiki/Gameplay/Game_modifier_(lazer)#fun) were reworked. All changes are explained in the [news post](https://osu.ppy.sh/home/news/2026-06-03-mod-multipliers-survey-results), which was released on 3 June 2026. The corresponding [lazer update video](https://www.youtube.com/watch?v=lmoad0MZZdg&t=114s) also talked about the most notable changes.
 
