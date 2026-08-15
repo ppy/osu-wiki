@@ -45,7 +45,7 @@
 
 ## 전 관리자
 
-다음은 더 이상 [위키 ](https://github.com/orgs/ppy/teams/wiki/members)의 일원으로 등재되어 있지 않은 관리자들입니다. 여기에는 osu! 위키가 GitHub로 이전되기 전 이를 호스팅했던 [MediaWiki 설정](/wiki/History_of_osu!/osu!_wiki#mediawiki-(2011---2017))의 관리자들도 포함됩니다.
+다음은 더 이상 [위키](https://github.com/orgs/ppy/teams/wiki/members)의 일원으로 등재되어 있지 않은 관리자들입니다. 여기에는 osu! 위키가 GitHub로 이전되기 전 이를 호스팅했던 [MediaWiki 설정](/wiki/History_of_osu!/osu!_wiki#mediawiki-(2011---2017))의 관리자들도 포함됩니다.
 
 - ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032)
 - ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)
