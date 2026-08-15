@@ -2,7 +2,7 @@
 
 Certain songs may have [time signatures](/wiki/Music_theory/Time_signature) that are not divided into quarter notes (e.g. `3/4`, `4/4`, `7/4`, ...), but rather into eighth notes (e.g. `6/8`, `7/8`, ...). While the current editor does not support these `#/8` time signatures, there are ways to properly incorporate this timing into osu!.
 
-This guide will explain a bit of the relevant music theory behind this, and give examples of how it translates into osu!. To better illustrate this, the following three songs will be used as references throughout the page:
+This guide will explain a bit of the relevant music theory behind this, and give examples of how these time signatures translate into osu!. To better illustrate this, the following three songs will be used as references throughout the page:
 
 - ["America"](https://www.youtube.com/watch?v=_Tihl3pzWRc) by Leonard Bernstein (1957)
 - ["We Are The Champions"](https://www.youtube.com/watch?v=KXw8CRapg7k) by Queen (1977)
