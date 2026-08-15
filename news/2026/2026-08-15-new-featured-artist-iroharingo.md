@@ -17,7 +17,7 @@ One platform that has especially appreciated that song is osu!, where [Ryuusei A
 
 ### irohaRingo - Why I hate you
 
-If you attended the last day of [COE 2026](/wiki/Community/cavoe's_osu!_event/2026), you saw this coming. [smoogipoo](https://osu.ppy.sh/users/1040328) did some last minute development on Ranked Play to make today's Featured Artist debut special:
+If you attended the last day of [COE 2026](/wiki/Community/cavoe's_osu!_event/2026), you saw this coming. [smoogipoo](https://osu.ppy.sh/users/1040328) did some last-minute development on Ranked Play to make today's Featured Artist debut special:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
