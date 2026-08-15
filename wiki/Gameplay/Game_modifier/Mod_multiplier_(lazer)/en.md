@@ -67,7 +67,7 @@ Specifically, the mod multipliers for rate adjust mods that were in use until th
 
 ### Reduction of osu!mania key mods multiplier
 
-In osu!(stable), [Key mods](/wiki/Gameplay/Game_modifier/Key_mods_(lazer) use score multipliers smaller than `1.00x`, as listed in [xK](/wiki/Gameplay/Game_modifier/xK). When initially implemented in osu!(lazer), the score multiplier for all of these was set to `1.00x`. This allowed players to reduce the key count on [converted](/wiki/Beatmap/Converts) beatmaps without any score penalty. To avoid this, an update [on 16 August 2025](https://osu.ppy.sh/home/changelog/lazer/2025.816.0), changed all the multipliers to `0.90x`.[^key-mods-multiplier]
+In osu!(stable), [Key mods](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)) use score multipliers smaller than `1.00x`, as listed in [xK](/wiki/Gameplay/Game_modifier/xK). When initially implemented in osu!(lazer), the score multiplier for all of these was set to `1.00x`. This allowed players to reduce the key count on [converted](/wiki/Beatmap/Converts) beatmaps without any score penalty. To avoid this, an update [on 16 August 2025](https://osu.ppy.sh/home/changelog/lazer/2025.816.0), changed all the multipliers to `0.90x`.[^key-mods-multiplier]
 
 ### Mod multiplier rebalance
 
