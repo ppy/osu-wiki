@@ -2,7 +2,7 @@
 
 Certain songs may have time signatures that are not divided into quarter notes (e.g. `3/4`, `4/4`, `7/4`, ...), but rather into eighth notes (e.g. `6/8`, `7/8`, ...). While the current editor does not support these `#/8` [time signatures](/wiki/Music_theory/Time_signature), there are ways to properly incorporate this timing into osu!.
 
-This guide will explain a bit of the relevant music theory behind this, and give examples of how it translates into osu!. To illustrate this, the following three songs will be used as references:
+This guide will explain a bit of the relevant music theory behind this, and give examples of how it translates into osu!. To better illustrate this, the following three songs will be used as references throughout the page:
 
 - ["America"](https://www.youtube.com/watch?v=_Tihl3pzWRc) by Leonard Bernstein (1957)
 - ["We Are The Champions"](https://www.youtube.com/watch?v=KXw8CRapg7k) by Queen (1977)
@@ -28,7 +28,7 @@ Generally speaking, there are 2 viable methods of dealing with this problem in o
 
 ### Emulating #/8 time signatures
 
-Looking back at Leonard Bernstein's "America", the beats on the song lands on a red tick instead of a white tick. This is because the measures are split into `[3+3]`, which makes it a `6/8` measure. In order to "fix" where the beat lands, the BPM has to be multiplied with `0,666`. Furthermore, the Time Signature shown in the [timing setup panel](/wiki/Client/Beatmap_editor/Timing) has to be set to `2/4`. This is currently not possible in the editor, but it is possible to change it in the map's `.osu` file. After doing that, the [snap divisor](wiki/Client/Beatmap_editor/Beat_snap_divisor) has to be changed to `1/3` so it splits one beat into three `♪` notes, which are then represented by the purple ticks.
+Looking back at Leonard Bernstein's "America", the beats on the song lands on a red tick instead of a white tick. This is because the measures are split into `[3+3]`, which makes it a `6/8` measure. In order to "fix" where the beat lands, the BPM has to be multiplied with `0,666`. Furthermore, the Time Signature shown in the [timing setup panel](/wiki/Client/Beatmap_editor/Timing) has to be set to `2/4`. This is currently not possible in the editor, but it is possible to change it in the map's `.osu` file. After doing that, the [snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) has to be changed to `1/3` so it splits one beat into three `♪` notes, which are then represented by the purple ticks.
 
 ![150 BPM with a 2/4 metronome in comparison with 100 BPM with a 3/4 metronome](/wiki/shared/timing/150bpm24vs100bpm34.png)
 
