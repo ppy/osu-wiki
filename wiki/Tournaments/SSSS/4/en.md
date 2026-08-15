@@ -547,16 +547,16 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
 3. Match schedules will be predetermined by the tournament management. If there are any teams who are unable to attend the current schedule for any reason, all other affected teams may apply and settle for a reschedule at the `#schedule` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
-5. If a team does not able to show up with at least three players within **ten minutes** of the start time, their opponent gets to win by default.
+5. If a team does not show up with at least three players within **ten minutes** of the start time, their opponent gets to win by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **NoFail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+7. **No Fail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap.
    - A match can be rematched for disconnects that occur within a few seconds after the beatmap has been started by the referee.
 9. Lag is not a valid reason to nullify a beatmap.
 10. If any problems during the match occur, the tournament management will make a decision based on the referee's report.
 11. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
     - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player or their team may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the tournament management.
-    - Usage of any tools or programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
+    - Usage of any tools or programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be reported to the osu! team.
 
 ### Tournament registration
 
@@ -567,13 +567,13 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. Testplayers, referees, custom mappers, and mappool selectors may not participate as players in this tournament.
-   - Eliminated players are free to enlist as replay providers for the later stages of the tournament in accordance to the [official tournament support guidelines](/wiki/Tournaments/Official_support#staff). 
+   - Eliminated players are free to enlist as replay providers for the later stages of the tournament in accordance with the [official tournament support guidelines](/wiki/Tournaments/Official_support#staff). 
 
 ### Round-specific rules
 
 #### Qualifier rules
 
-1. The Qualifier will only be contested by players whose [BWS-adjusted ranking](/wiki/Tournaments/Badge-weighted_seeding) are outside of the Top 80 out of all players by the end of the registrations. **The top 80 players do not have to play in the Qualifier.**
+1. The Qualifier will only be contested by players whose [BWS-adjusted rankings](/wiki/Tournaments/Badge-weighted_seeding) are outside of the top 80 out of all players by the end of the registration. **The top 80 players do not have to play in the Qualifier.**
 2. Players will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
 3. In the lobby, players will have to consecutively play all of the Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> NM5 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2 -> DT3.
 4. Players **are not allowed** to ban any beatmaps in the Qualifiers.
@@ -581,7 +581,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 6. Based on their performance in the Qualifier, players will be ranked based on their **`%MAX` value**, which is the percentage of their score relative to the highest achieved score of all players in a map.
 7. The 40 players with the **highest average `%MAX` value** across all the Qualifier beatmaps will advance to the team matchmaking phase.
    - If there are two (or more) players who share the same `%MAX` value, the player that holds the higher total raw score will be placed in the higher seed.
-8. Failure to attend in any of the Qualifier lobbies will result in an outright elimination.
+8. Failure to attend in any of the Qualifier lobbies will result in immediate elimination.
 
 #### Team matchmaking
 
@@ -611,7 +611,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
    - Total number of beatmaps won
    - Beatmap difference (`# of beatmaps won` - `# of beatmaps lost`)
    - [Median Buchholz](https://en.wikipedia.org/wiki/Buchholz_system) score
-   - Head-to-head records between the tied teams   
+   - Head-to-head records between the tied teams
    - The result of an extra play-in match (if required)
 7. Forfeiting a match will be treated as an outright loss with a -5 map difference to the forfeiting team.
 8. The top 6 teams from each group based on the Swiss round standings will advance into the knock-out stage.
@@ -624,7 +624,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 3. The double-elimination system works as follows:
    - Teams that lose in the upper bracket can still play again in the lower bracket.
    - Teams that lose in the lower bracket will be eliminated from the tournament.
-   - In the Grand Final match, the winner of the the upper bracket will only need to win a single match in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* in order to clinch the championship title.
+   - In the Grand Final match, the winner of the upper bracket will only need to win a single match in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* in order to clinch the championship title.
 4. Teams that can compete in the next round are determined by:
    - In the Quarterfinals and the Semifinals, each team needs to win 6 points in order to win a match. (Best of 11)
    - In both of the Finals weeks, each team needs to win 7 points in order to win a match. (Best of 13)
@@ -643,7 +643,7 @@ The full details of the Qualifier results can be found [here](https://docs.googl
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Players are expected to exercise common sense in pick time windows.
    - If a player is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other player.
-5. In a FreeMod pick, teams have to play the beatmap with at least two unique mod combinations. Allowed mods are NoMod, Easy, HardRock, Hidden, Flashlight, or any possible combinations of the four.
+5. In a Free Mod pick, teams have to play the beatmap with at least two unique mod combinations. Allowed mods are No Mod, Easy, Hard Rock, Hidden, Flashlight, or any possible combinations of the four.
    - For more information as to which mod combinations are considered unique, refer to [this screenshot](https://leopard.hosting.pecon.us/dl/knylq).
 6. The tiebreaking system works as follows:
    - As the mappools are designed so that the tiebreak occurs when there are exactly three beatmaps left, team captains will be asked separately by the referee in a private channel to ban one of the three remaining beatmaps from the mappool. The one beatmap that ends up not being banned will be played as the tiebreaker.
