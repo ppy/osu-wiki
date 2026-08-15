@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: irohaRingo"
-date: 2026-08-15 20:00:00 +0000
+date: 2026-08-15 21:00:00 +0000
 series: featured_artists
 ---
 
