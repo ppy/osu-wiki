@@ -78,7 +78,7 @@ Guidelines may be ignored under **exceptional** circumstances. These exceptional
   - **...between 2:30 and 3:15**, the lowest difficulty cannot be harder than a Muzukashii.
   - **...between 3:15 and 4:00**, the lowest difficulty cannot be harder than an Oni.
   - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
- 
+
 #### Guidelines
 
 - **There should not be any drastically large difficulty gaps between any two difficulties below Inner Oni**, with leniency being applied between guest difficulties to make coordinating a spread between multiple mappers easier.

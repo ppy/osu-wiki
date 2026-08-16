@@ -30,7 +30,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 
 ### Spread
 
-##### Rules
+#### Rules
 
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
   - **...lower than 2:30**, the lowest difficulty cannot be harder than a Salad, or provide a proper spread[^proper-spread] containing at least 4 difficulties.
