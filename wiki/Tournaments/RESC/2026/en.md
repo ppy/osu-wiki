@@ -115,8 +115,6 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **OWC READY** (::{ flag=CL }:: **[Intercambing](https://osu.ppy.sh/users/2546001)**, ::{ flag=CL }:: [Mathi](https://osu.ppy.sh/users/5339515), ::{ flag=CL }:: [alfiu](https://osu.ppy.sh/users/17724014), ::{ flag=CL }:: [Gonzah](https://osu.ppy.sh/users/12434652), ::{ flag=CL }:: [nekore](https://osu.ppy.sh/users/18946207)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Waddle Dee** (::{ flag=CA }:: **[Birchman](https://osu.ppy.sh/users/10676573)**, ::{ flag=CA }:: [PikaPwn](https://osu.ppy.sh/users/2012453), ::{ flag=CA }:: [steamhappy](https://osu.ppy.sh/users/7802400), ::{ flag=CA }:: [Tsfury](https://osu.ppy.sh/users/12258658), ::{ flag=US }:: [TTv_UFO](https://osu.ppy.sh/users/14676719)) |
 
-![](img/podium.jpg)
-
 ## Mappools
 
 ### Grand Finals
