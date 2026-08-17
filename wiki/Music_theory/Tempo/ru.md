@@ -29,7 +29,7 @@ tags:
 - Скорость геймплея (поскольку у песен с более быстрым темпом более короткие [доли](/wiki/Music_theory/Beat));
 - Базовая [скорость слайдеров](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) в [osu!](/wiki/Game_mode/osu!), также влияющая на скорость прокрутки в [osu!mania](/wiki/Game_mode/osu!mania);
 - Частота пульсации [киаи](/wiki/Gameplay/Kiai_time);
-- Вспышки в [главном меню](/wiki/Client/Interface#main-menu), частота пульсации [логотипа osu!](/wiki/Client/Interface/Cookie) и всплесков звёзд на [экране выбора песни](/wiki/Client/Interface#экран-выбора-песни);
+- Вспышки в [главном меню](/wiki/Client/Interface#главное-меню), частота пульсации [логотипа osu!](/wiki/Client/Interface/Cookie) и всплесков звёзд на [экране выбора песни](/wiki/Client/Interface#экран-выбора-песни);
 - Скорость [обратного отсчёта](/wiki/Beatmap/Countdown).
 
 ## Маппинг
