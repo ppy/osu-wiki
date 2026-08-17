@@ -1,12 +1,17 @@
 # Internet Relay Chat
 
-*Für mehr Informationen, siehe: [Internet Relay Chat (Wikipedia)](https://de.wikipedia.org/wiki/Internet_Relay_Chat)*
+::: alert-note
+**Anmerkung:** Für mehr Informationen, siehe [Internet Relay Chat (Wikipedia)](https://de.wikipedia.org/wiki/Internet_Relay_Chat)
+:::
 
 IRC ist ein Protokoll auf Anwendungsebene, das das Chatten mit anderen Benutzern ermöglicht.
 
 ## osu!Bancho
 
-*Hinweis: Dieser Server stellt keine vollständige Implementierung des IRC-Protokolls bereit. Einige komplexere Funktionen deines IRC-Clients (z. B. [HexChat](https://hexchat.github.io/)) funktionieren nur bedingt oder gar nicht.*
+::: alert-notice
+**Hinweis**
+Dieser Server stellt keine vollständige Implementierung des IRC-Protokolls bereit. Einige komplexere Funktionen deines IRC-Clients (z. B. [HexChat](https://hexchat.github.io/)) funktionieren nur bedingt oder gar nicht.
+:::
 
 *osu!Bancho* (manchmal abgekürzt einfach nur *Bancho*) bietet ein Gateway für den Zugriff auf IRC (Chat im Spiel). Du kannst jeden modernen IRC-Client nutzen, um dich damit zu verbinden (scrolle herunter für eine Liste der populärsten Clients).
 
@@ -20,7 +25,10 @@ IRC ist ein Protokoll auf Anwendungsebene, das das Chatten mit anderen Benutzern
 - Benutzername: dein osu! Benutzername. Ersetze Leerzeichen durch Unterstriche (z. B. wird `beppy master 1000` zu `beppy_master_1000`)
 - Passwort: das Passwort aus den [Einstellungen](https://osu.ppy.sh/home/account/edit#legacy-api)
 
-*Warnung: Dein IRC-Passwort ist unterschiedlich zum Passwort deines Accounts. **Teile dies nicht mit anderen**.*
+::: alert-warning
+**Warnung**
+Dein IRC-Passwort ist unterschiedlich zum Passwort deines Accounts. **Teile dies nicht mit anderen**.
+:::
 
 ## Grundlegende IRC-Kommandos
 

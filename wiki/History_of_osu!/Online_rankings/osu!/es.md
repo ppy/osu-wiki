@@ -29,7 +29,10 @@ Si bien se asumió que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) era e
 
 ## 2007
 
-*Nota: Durante el período en el que se usó la [puntuación clasificada](/wiki/Gameplay/Score/Ranked_score), el titular del puesto #1 cambiaría con frecuencia, por lo que las listas más antiguas pueden tener una precisión reducida. Se puede encontrar información detallada en la reconstrucción estimada de la tabla de clasificación global de la puntuación clasificada, que está disponible [aquí](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
+::: alert-notice
+**Aviso**
+Durante el período en el que se usó la [puntuación clasificada](/wiki/Gameplay/Score/Ranked_score), el titular del puesto #1 cambiaría con frecuencia, por lo que las listas más antiguas pueden tener una precisión reducida. Se puede encontrar información detallada en la reconstrucción estimada de la tabla de clasificación global de la puntuación clasificada, que está disponible [aquí](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).
+:::
 
 | Jugador | Desde | Hasta | Fuentes |
 | --: | :-- | :-- | :-- |
@@ -129,7 +132,10 @@ Si bien se asumió que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) era e
 
 ## 2012
 
-*Nota: [ppv1](/wiki/Performance_points/ppv1) reemplazó por completo a la puntuación clasificada el 24 de julio de 2012.*
+::: alert-notice
+**Aviso**
+[ppv1](/wiki/Performance_points/ppv1) reemplazó por completo a la puntuación clasificada el 24 de julio de 2012.
+:::
 
 | Jugador | Desde | Hasta | Fuentes |
 | --: | :-- | :-- | :-- |
@@ -160,7 +166,10 @@ Si bien se asumió que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) era e
 
 ## 2014
 
-*Nota: [ppv2](/wiki/Performance_points) se introdujo el 27 de enero de 2014.*
+::: alert-notice
+**Aviso**
+[ppv2](/wiki/Performance_points) se introdujo el 27 de enero de 2014.
+:::
 
 | Jugador | Desde | Hasta | Fuentes |
 | --: | :-- | :-- | :-- |
@@ -302,11 +311,12 @@ Si bien se asumió que ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) era e
 | Jugador | Desde | Hasta | Fuentes |
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *3/8/2024* | 14/6/2026 | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
-| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 14/6/2026 | Presente | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 14/6/2026 | 11/7/2026 | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) [\[4\]](https://www.reddit.com/r/osugame/comments/1u5c8xl/cryshina_kardashev_cellar_of_ghosts_shoyeus_faint/) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 11/7/2026 | Presente | [\[1\]](https://web.archive.org/web/20260711064234/https://osu.ppy.sh/rankings/osu/global/performance) [\[2\]](https://web.archive.org/web/20260711130813/https://osu.ppy.sh/users/14715160/osu) [\[3\]](https://web.archive.org/web/20260711125753/https://osu.ppy.sh/users/7562902/osu) [\[4\]](https://www.reddit.com/r/osugame/comments/1uta8q2/mrekk_is_now_1_global/) |
 
 ## Número de reinados
 
-Lo siguiente es una lista del número total de veces que un jugador ha alcanzado el puesto #1 en su tiempo de juego (al 14 de junio de 2026).
+Lo siguiente es una lista del número total de veces que un jugador ha alcanzado el puesto #1 en su tiempo de juego (al 11 de julio de 2026).
 
 | Jugador | Reinado |
 | --: | :-: |
@@ -328,8 +338,8 @@ Lo siguiente es una lista del número total de veces que un jugador ha alcanzado
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 4 |
 | ::{ flag=PL }:: [Kubu](https://osu.ppy.sh/users/29130) | 4 |
 | ::{ flag=JP }:: [tobebuta](https://osu.ppy.sh/users/14053) | 4 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 3 |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | 3 |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 2 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 2 |
 | ::{ flag=TW }:: [Uan](https://osu.ppy.sh/users/147623) | 2 |
 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) | 2 |
@@ -351,9 +361,12 @@ Lo siguiente es una lista del número total de veces que un jugador ha alcanzado
 
 ## Reinados combinados más largos
 
-*Nota: El reinado actual del puesto #1 está excluido.*
+::: alert-notice
+**Aviso**
+El reinado actual del puesto #1 está excluido.
+:::
 
-Lo siguiente es una lista de la cantidad total de días que un jugador ha ocupado el puesto #1 (al 14 de junio de 2026).
+Lo siguiente es una lista de la cantidad total de días que un jugador ha ocupado el puesto #1 (al 11 de julio de 2026).
 
 | Jugador | Duración (días) |
 | --: | :-: |
@@ -382,6 +395,7 @@ Lo siguiente es una lista de la cantidad total de días que un jugador ha ocupad
 | ::{ flag=KR }:: [Reimu-Desu](https://osu.ppy.sh/users/948713) | 35 |
 | ::{ flag=AU }:: [eyup](https://osu.ppy.sh/users/88) | 33 |
 | ::{ flag=US }:: [geckogates](https://osu.ppy.sh/users/252524) | 33 |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 27 |
 | ::{ flag=US }:: [Rolled](https://osu.ppy.sh/users/5243) | 27 |
 | ::{ flag=KR }:: [Sure](https://osu.ppy.sh/users/70730) | 26 |
 | ::{ flag=DE }:: [ShadowSoul](https://osu.ppy.sh/users/494970) | 20 |
@@ -397,9 +411,12 @@ Lo siguiente es una lista de la cantidad total de días que un jugador ha ocupad
 
 ## Reinados individuales más largos
 
-*Nota: Solo se incluyen los reinados de más de 100 días. El actual reinado del puesto #1 está excluido.*
+::: alert-notice
+**Aviso**
+Solo se incluyen los reinados de más de 100 días. El actual reinado del puesto #1 está excluido.
+:::
 
-Lo siguiente es una lista de los días consecutivos más largos que un jugador ha ocupado el puesto #1 (al 14 de junio de 2026).
+Lo siguiente es una lista de los días consecutivos más largos que un jugador ha ocupado el puesto #1 (al 11 de julio de 2026).
 
 | Jugador | Desde | Hasta | Duración del reinado (días) |
 | --: | :-- | :-- | :-: |

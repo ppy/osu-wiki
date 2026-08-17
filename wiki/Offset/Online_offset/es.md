@@ -6,7 +6,9 @@ tags:
 
 # Compensación en línea
 
-*Para otros usos, véase [Compensación](/wiki/Offset).*
+::: alert-note
+**Nota:** [Compensación](/wiki/Offset).
+:::
 
 La **compensación en línea** es una compensación que se puede aplicar a un [beatmap](/wiki/Beatmap) después de que haya sido [clasificado](/wiki/Beatmap/Category#ranked). Esto suele hacerse cuando un beatmap necesita pequeños cambios en la [temporización](/wiki/Beatmapping/Timing) para alinearlo correctamente con la canción. Los valores de la compensación en línea se aplican encima de los valores de la [compensación universal](/wiki/Offset/Universal_offset) y la [compensación local](/wiki/Offset/Local_offset) de un jugador.
 
