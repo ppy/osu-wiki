@@ -5,7 +5,9 @@ tags:
 
 # Bancho (server)
 
-*For other uses, see [Bancho (disambiguation)](/wiki/Disambiguation/Bancho).*
+::: alert-note
+**Note:** [Bancho (disambiguation)](/wiki/Disambiguation/Bancho).
+:::
 
 **Bancho** (sometimes *osu!Bancho*) is a code name of the server component which handles real-time interactions between players running stable versions of osu!:
 

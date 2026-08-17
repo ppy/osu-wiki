@@ -13,7 +13,10 @@ The **test mode** is a feature of the [beatmap editor](/wiki/Client/Beatmap_edit
 
 ![Test mode button](img/test-mode-button.png "The test mode button in the beatmap editor")
 
-*Note: Playing a beatmap in test mode has been known to cause some lag or noticeable drops in framerate for some users.*
+::: alert-notice
+**Notice**
+Playing a beatmap in test mode has been known to cause some lag or noticeable drops in framerate for some users.
+:::
 
 Playing a beatmap in test mode differs from playing it normally, as it will not submit any scores, does not display any leaderboards, will not let users fail the beatmap, and will always display the following information on the left side of the screen:
 

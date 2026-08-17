@@ -73,7 +73,10 @@ Une fois qu'osu!supporter a expiré, les personnalisations de couleurs sont cons
 
 ### Un changement de nom d'utilisateur gratuit
 
-*Remarque : des changements mineurs de nom peuvent être demandés gratuitement à l'équipe de support aux comptes - voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#changement-nom-d'utilisateur).*
+::: alert-notice
+**Note**
+des changements mineurs de nom peuvent être demandés gratuitement à l'équipe de support aux comptes - voir [Centre d'aide/Compte § Puis-je changer le nom d'utilisateur de mon compte ?](/wiki/Help_centre/Account#changement-nom-d'utilisateur).
+:::
 
 L'obtention de osu!supporter s'accompagne de la possibilité de changer de nom d'utilisateur gratuitement pour la première fois, sous [conditions habituelles](/wiki/Help_centre/Account#changement-nom-d'utilisateur).
 

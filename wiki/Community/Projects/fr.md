@@ -32,7 +32,10 @@ outdated_translation: true
 
 ## Communauté
 
-*Attention : Utilisez-les à vos risques et périls ! Les projets listés ci-dessous ne sont pas approuvés par osu! et ne bénéficient d'aucun support officiel.*
+::: alert-caution
+**Attention**
+Utilisez-les à vos risques et périls ! Les projets listés ci-dessous ne sont pas approuvés par osu! et ne bénéficient d'aucun support officiel.
+:::
 
 Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajouter vos propres projets en rapport avec osu! à cette liste.
 
@@ -222,7 +225,9 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
 
 ### Internet Relay Chat (IRC)
 
-*Voir également : [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat)*
+::: alert-note
+**Voir également** : [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat)
+:::
 
 - [chat4osu!](https://osu.ppy.sh/community/forums/topics/879262)—Un client de chat pour les arbitres et les utilisateurs occasionnels du tchat.
   - [Gitlab](https://gitlab.com/hallowatcher/chat4osu)

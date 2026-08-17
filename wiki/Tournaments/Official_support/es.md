@@ -11,7 +11,9 @@ tags:
 
 # Soporte oficial para torneos
 
-*Para más información sobre el soporte para los concursos de beatmapping, véase: [Soporte oficial para concursos de beatmapping](/wiki/Contests/Official_support).*
+::: alert-note
+**Nota:** Para más información sobre el soporte para los concursos de beatmapping, véase [Soporte oficial para concursos de beatmapping](/wiki/Contests/Official_support).
+:::
 
 El [osu! team](/wiki/People/osu!_team) dirige un programa en el que puede optar por proporcionar un soporte extra a los torneos organizados por la comunidad que cumplan una serie de criterios y expectativas, según su criterio.
 
