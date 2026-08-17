@@ -215,10 +215,11 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Round of 32
 
+**[Download the mappack here (88 MB)](https://packs.ppy.sh/P333%20-%20osu%21mania%204K%20World%20Cup%202026%3A%20Round%20of%2032.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2848280158?t=1h19m50s)
 
 - Rice
-  1. Isekaijoucho x KAF - Shin'en (Hylotl) \[Nadir\] (link pending)
+  1. [Isekaijoucho x KAF - Shin'en (Hylotl) \[Nadir\]](https://osu.ppy.sh/beatmapsets/2604579#mania/5826354)
   2. [ptar124 - OCTAGRAM \~Dai Happyaku Hachijuu Hachi Ji Makai Taisen\~ (2026 Remaster) (jh05013) \[Challenge\]](https://osu.ppy.sh/beatmapsets/2604513#mania/5826054)
   3. [MEMODEMO - Extragalactic (Paturages) \[HARD BRAIN\]](https://osu.ppy.sh/beatmapsets/2604474#mania/5825943)
   4. [IVE - After LIKE (Cut Ver.) (Miaurichesu) \[In LOVE 1.05x\]](https://osu.ppy.sh/beatmapsets/2604483#mania/5825973)
