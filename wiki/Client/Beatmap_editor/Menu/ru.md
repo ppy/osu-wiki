@@ -75,7 +75,7 @@
 ## Редактор
 
 ::: alert-note
-**См. также:** [Редактор](/wiki/Client/Beatmap_editor/Compose)
+**Основная статья:** [Вкладка Compose](/wiki/Client/Beatmap_editor/Compose)
 :::
 
 ![Меню редактора](img/M_Compose-RU.png "Меню редактора")
@@ -93,7 +93,7 @@
 ## Дизайн
 
 ::: alert-note
-**См. также:** [Дизайн](/wiki/Client/Beatmap_editor/Design)
+**Основная статья:** [Вкладка Design](/wiki/Client/Beatmap_editor/Design)
 :::
 
 ![Меню дизайна](img/M_Design-RU.png "Меню дизайна")
@@ -105,7 +105,7 @@
 ## Тайминг
 
 ::: alert-note
-**См. также:** [Тайминг](/wiki/Client/Beatmap_editor/Timing)
+**Основная статья:** [Вкладка Timing](/wiki/Client/Beatmap_editor/Timing)
 :::
 
 ![Меня тайминга](img/M_Timing-RU.png "Меню тайминга")
