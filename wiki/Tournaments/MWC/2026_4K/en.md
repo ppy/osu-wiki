@@ -219,17 +219,17 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 - Rice
   1. Isekaijoucho x KAF - Shin'en (Hylotl) \[Nadir\] (link pending)
-  2. ptar124 - OCTAGRAM \~Dai Happyaku Hachijuu Hachi Ji Makai Taisen\~ (2026 Remaster) (jh05013) \[Challenge\] (link pending)
+  2. [ptar124 - OCTAGRAM \~Dai Happyaku Hachijuu Hachi Ji Makai Taisen\~ (2026 Remaster) (jh05013) \[Challenge\]](https://osu.ppy.sh/beatmapsets/2604513#mania/5826054)
   3. [MEMODEMO - Extragalactic (Paturages) \[HARD BRAIN\]](https://osu.ppy.sh/beatmapsets/2604474#mania/5825943)
   4. [IVE - After LIKE (Cut Ver.) (Miaurichesu) \[In LOVE 1.05x\]](https://osu.ppy.sh/beatmapsets/2604483#mania/5825973)
-  5. Caravan Palace - Reverse (XingRen) \[Jacknical is a Miracle\] (link pending)
+  5. [Caravan Palace - Reverse (XingRen) \[Jacknical is a Miracle\]](https://osu.ppy.sh/beatmapsets/2604559#mania/5826279)
   6. [Kou! - Sanzui (AutotelicBrown) \[Triple Moist\]](https://osu.ppy.sh/beatmapsets/2604484#mania/5825979)
 - Hybrid
   1. [LeaF - Kyouki Ranbu (Hytex) \[Euphoria\]](https://osu.ppy.sh/beatmapsets/2604488#mania/5825999)
   2. [Polyphia - Ego Death feat. Steve Vai (Cut Ver.) (rikan) \[Identity feat. Razzy\]](https://osu.ppy.sh/beatmapsets/2604487#mania/5825998)
   3. [KOAN Sound - Forgotten Myths (Cut Ver.) (Alicia) \[once forgotten\]](https://osu.ppy.sh/beatmapsets/2604491#mania/5826005)
 - Long Note
-  1. Hyadain - Hyadain's Jojo Yujo (fvrex) \[Helvetica Standard (cut)\] (link pending)
+  1. [Hyadain - Hyadain's Jojo Yujo (fvrex) \[Helvetica Standard (cut)\]](https://osu.ppy.sh/beatmapsets/2604526#mania/5826080)
   2. [Natsume Chiaki - Hanairo Biyori (Cut Ver.) (Yuiesta) \[Spring\]](https://osu.ppy.sh/beatmapsets/2604473#mania/5825939)
   3. [dark cat - ELINE (Toaph Daddy) \[ECHOES (LN-Edit)\]](https://osu.ppy.sh/beatmapsets/2211538#mania/5826013)
 - Tiebreaker
