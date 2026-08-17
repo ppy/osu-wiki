@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
----
-
 # Меню редактора карты
 
 ## Файл
@@ -137,7 +132,7 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 
 | Название | Описание |
 | :-- | :-- |
-| Страница этой карты | Перейти на страницу карты<!-- TODO(TicClick): link after https://github.com/ppy/osu-wiki/issues/3122 is completed --> на веб-сайте osu!. |
+| Страница этой карты | Перейти на страницу [информации о карте](/wiki/Beatmap_information) на сайте osu!. |
 | Тема на форуме | Перейти в форумную тему, связанную с картой. |
 
 ## Помощь
