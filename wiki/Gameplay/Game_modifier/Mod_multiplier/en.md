@@ -25,5 +25,5 @@ By default, the mod multiplier equals to 1.00x, however, if several [mods](/wiki
 
 ## Trivia
 
-- The mod multiplier is shown on osu!(stable)'s [mod selection screen](/wiki/Gameplay/Game_modifier) as `Score Multiplier`, while in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) it is called `Difficulty Multiplier`.
+- The mod multiplier is shown on osu!'s [mod selection screen](/wiki/Gameplay/Game_modifier) as `Score Multiplier`.
 - osu! used to round down the mod multiplier to the nearest hundredth until a patch<!-- in (year)--> fixed the rounding problem by only rounding up if the thousandths value is 0.005 or higher.
