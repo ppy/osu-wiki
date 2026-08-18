@@ -10,7 +10,7 @@ tags:
 
 # 脑梗
 
-*不要与[物件锁](/wiki/Gameplay/Judgement/Notelock)或[手指锁](/wiki/Gameplay/Fingerlock)相混淆，也不要与医学上的脑梗死、脑梗塞相混淆。
+*不要与[物件锁](/wiki/Gameplay/Judgement/Notelock)或[锁指](/wiki/Gameplay/Fingerlock)相混淆，也不要与医学上的脑梗死、脑梗塞相混淆。
 
 **脑梗** (Mind block) 是一个术语，用于描述玩家在反复游玩同一张[谱面](/wiki/Beatmap)，但却经常在谱面靠前的简单段落（或称水段）失误或直接失败的情况。之所以称之为脑梗，是因为这个词描述了出现这种情况时，玩家的大脑（或者思维）被“卡住”一样，从而不能成功获得全连或者完成之前提到谱面的一部分。
 
