@@ -60,11 +60,6 @@ In [osu!](/wiki/Game_mode/osu!), the Easy mod decreases [circle size (CS)](/wiki
 
 Many players find that the Easy mod does not lower the difficulty of high-density beatmaps. The halved approach rate creates a dense, visually cluttered playfield that makes reading the beatmap difficult.
 
-::: alert-notice
-**Notice**
-The readability concerns are detailed further in the "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" community feature request.
-:::
-
 ### osu!taiko
 
 In [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod decreases the [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), overall difficulty (OD) and HP drain by half.
