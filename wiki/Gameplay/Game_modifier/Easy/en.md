@@ -50,7 +50,7 @@ The **Easy (EZ)** mod is a difficulty-reducing [game modifier](/wiki/Gameplay/Ga
 
 In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod grants the player two additional lives per play. If the [health bar](/wiki/Client/Interface/Health_bar) drops to zero, the game pauses to remove one life and slowly refills the health bar to approximately 80%.
 
-The game signals the start of the refill event with the skin's `readysound.wav`. Once the health bar finishes refilling, the `gosound.wav` plays, and the beatmap resumes. If the player runs out of remaining lives and the health bar empties completely, the play fails normally. 
+The game signals the start of the refill event by playing the skin's `readysound.wav` file. Once the health bar finishes refilling, the `gosound.wav` file plays, and the beatmap resumes. If the player runs out of remaining lives and the health bar empties completely, the play fails normally. 
 
 ### osu!
 
@@ -58,7 +58,7 @@ In [osu!](/wiki/Game_mode/osu!), the Easy mod decreases [circle size (CS)](/wiki
 
 ![EZ gameplay osu!](img/EZ-comparison-osu.jpg "Comparison between a regular play (left) vs a play with the Easy mod enabled (right) in osu!")
 
-Many players find that the Easy mod does not lower the difficulty of high density beatmaps. The halved approach rate creates a dense, visually cluttered playfield that makes reading the beatmap difficult.
+Many players find that the Easy mod does not lower the difficulty of high-density beatmaps. The halved approach rate creates a dense, visually cluttered playfield that makes reading the beatmap difficult.
 
 ::: alert-notice
 **Notice**
@@ -91,7 +91,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the Easy mod reduces overall difficul
 ## Trivia
 
 - When watching a replay where an extra life is used, the game skips the health refill animation and continues the play as if the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod were active.
-- In [Multiplayer](/wiki/Client/Interface/Multiplayer) mode, the extra lives mechanic is disabled in [Tag Co-op or Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) team mode.
+- In [multiplayer](/wiki/Client/Interface/Multiplayer), the extra lives mechanic is disabled in the [Tag Co-op or Tag Team Vs. team modes](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
