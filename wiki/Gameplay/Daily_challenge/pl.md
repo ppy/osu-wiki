@@ -6,7 +6,7 @@ no_native_review: true
 
 **Wyzwania dnia** to wieloosobowy tryb gry w [osu!(lazer)](/wiki/Client/Release_stream/Lazer), w którym gracze mogą budować serię poprzez przechodzenie kolejnych beatmap dnia ze zwiekszającą się trudnością, która resetuje się co 7 dni.
 
-Każda beatmapa jest starannie wybierana przez grupę współtwórców. Czasami beatmapy mogą być wybierane według wspólnego gatunku, artysty lub stylu mapy. Pod koniec każdego miesiąca jeden tydzień przeznaczony jest na prezentację wysokiej jakości beatmap z poprzedniego miesiąca. Zajmuje się tym kilkoro członków [Zespołu Zapewniana Jakości (NAT)](/wiki/People/Nomination_Assessment_Team).
+Każda beatmapa jest starannie wybierana przez grupę współtwórców. Czasami beatmapy mogą być wybierane według wspólnego gatunku, artysty lub stylu mapy. Pod koniec każdego miesiąca jeden tydzień przeznaczony jest na prezentację wysokiej jakości beatmap z poprzedniego miesiąca. Zajmuje się tym kilkoro członków [zespołu oceniania nominacji (NAT)](/wiki/People/Nomination_Assessment_Team).
 
 Beatmapy mają niekiedy narzuconego moda, z którym użytkownik musi przejść mapę.
 
