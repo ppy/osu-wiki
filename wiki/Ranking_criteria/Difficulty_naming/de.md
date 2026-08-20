@@ -6,7 +6,10 @@ Mit der Benennung von Schwierigkeitsstufen wird Spielern mitgeteilt, wie schwier
 
 Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jeden Spielmodus.
 
-*Hinweis: Der spezielle Name für den Schwierigkeitsgrad **Marathon** erlaubte Mappern früher Beatmaps mit längeren Songs einzureichen und wurde somit für Beatmapsets mit nur einer Schwierigkeitsstufe populär. Heute hat der Name keine besondere Bedeutung und wird typischerweise nur für sehr lange Songs oder Zusammenstellungen mehrerer Songs genutzt.*
+::: alert-notice
+**Hinweis**
+Der spezielle Name für den Schwierigkeitsgrad **Marathon** erlaubte Mappern früher Beatmaps mit längeren Songs einzureichen und wurde somit für Beatmapsets mit nur einer Schwierigkeitsstufe populär. Heute hat der Name keine besondere Bedeutung und wird typischerweise nur für sehr lange Songs oder Zusammenstellungen mehrerer Songs genutzt.
+:::
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -112,7 +115,10 @@ Beatmapsets von Songs, die von anderen Spielen stammen, übernehmen oft das Bene
 
 ### SOUND VOLTEX
 
-*Anmerkung: Umfangreiche Beatmapsets von Songs aus SOUND VOLTEX verwenden oft Namen für Schwierigkeitsstufen aus mehreren Versionen des Spiels, auch wenn der Song nicht in allen davon auftaucht.*
+::: alert-notice
+**Hinweis**
+Umfangreiche Beatmapsets von Songs aus SOUND VOLTEX verwenden oft Namen für Schwierigkeitsstufen aus mehreren Versionen des Spiels, auch wenn der Song nicht in allen davon auftaucht.
+:::
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) BASIC / BSC
 - ![](/wiki/shared/diff/normal-o.png?20211215) NOVICE / NOV

@@ -6,14 +6,16 @@
 
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
 - [Reddit](/wiki/Community/Reddit)
-- [Дискорд-сервер osu!](/wiki/Community/Discord_servers#официальный)
+- [Дискорд-сервер osu!](/wiki/Community/Discord_servers#официальный-сервер)
 - [Дискорд-серверы](/wiki/Community/Discord_servers)
 - [Оффлайн-организации](/wiki/Community/Organisations)
 - [Форум](/wiki/Community/Forum)
 
 ## Проекты
 
-*См. также: [Список всех проектов](/wiki/Community/Projects)*
+::: alert-note
+**См. также:** [Список всех проектов](/wiki/Community/Projects)
+:::
 
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - [osu! wiki](/wiki/osu!_wiki)

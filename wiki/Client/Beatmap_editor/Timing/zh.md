@@ -20,13 +20,17 @@ tags:
 # 测定时间轴标签页
 
 *想要了解测定时间轴设定指南，参见：[如何测定歌曲时间轴](/wiki/Guides/How_to_time_songs)*
-*参见：[作图/测定时间轴](/wiki/Beatmapping/Timing)*
+::: alert-note
+**参见：** [作图/测定时间轴](/wiki/Beatmapping/Timing)
+:::
 
 **测定时间轴 (Timing)** ，或称为计时，是[谱面编辑器](/wiki/Client/Beatmap_editor)的一个标签页，可供更改设定[谱面](/wiki/Beatmap)时间轴的各项参数。它对于正确地表现歌曲非常重要。这个界面包含与测定相关的工具和专用于处理多个[计时点](#计时点)的[窗口](#时间轴设定窗口)，他们都可以用来表示音乐结构、辅助设计谱面。
 
 ## 计时点
 
-*参见：[偏移值 (Offset)](/wiki/Offset)*
+::: alert-note
+**参见：** [偏移值 (Offset)](/wiki/Offset)
+:::
 
 在[作图](/wiki/Beatmapping)中，一根时间点，通俗地说是*控制线*，它的功能是将常见设置（比如[时间轴](/wiki/Beatmapping/Timing)、[滑条速度 (SV)](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) 因数、[音效](/wiki/Beatmapping/Hitsound)和音效音量）应用在谱面特定部分。在 osu! 中，有两种计时点：
 

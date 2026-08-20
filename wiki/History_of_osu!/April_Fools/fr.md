@@ -20,7 +20,9 @@ outdated_since: 4f9c331bc757b108e9dd898868803cf12a49e99f
 
 # L'histoire d'osu! concernant les April Fools' day jokes
 
-*Pour l'histoire complète d'osu!, voir : [L'histoire d'osu!](/wiki/History_of_osu!)*
+::: alert-note
+**Remarque** : Pour l'histoire complète d'osu!, voir [L'histoire d'osu!](/wiki/History_of_osu!)
+:::
 
 Chaque année, l'[équipe osu!](/wiki/People/osu!_team) aime faire des blagues à la communauté le jour du poisson d'avril. Cet article répertorie toutes les blagues du poisson d'avril qui ont été jouées sur la communauté d'osu! depuis 2009.
 
@@ -113,7 +115,9 @@ Le 1er avril 2014, l'écran du menu principal d'osu! a été temporairement modi
 
 ### osu!coins
 
-*Voir également : [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)*
+::: alert-note
+**Voir également** : [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)
+:::
 
 ![](img/2015-osucoins.png "Les osu!coins")
 
@@ -123,7 +127,10 @@ Le 31 mars 2015, [peppy](https://osu.ppy.sh/users/2) a publié [un newspost](htt
 
 —peppy, "osu!coins"[^osu-coins-news]
 
-*Remarque : En [temps universel coordonné (UTC)](https://fr.wikipedia.org/wiki/Temps_universel_coordonné), le message a été publié le 31 mars 2015. Cependant, au moment de la publication, peppy vivait actuellement en Australie, où la date actuelle était le 1er avril 2015.*
+::: alert-notice
+**Note**
+En [temps universel coordonné (UTC)](https://fr.wikipedia.org/wiki/Temps_universel_coordonné), le message a été publié le 31 mars 2015. Cependant, au moment de la publication, peppy vivait actuellement en Australie, où la date actuelle était le 1er avril 2015.
+:::
 
 En bref, pour jouer ou recommencer une [beatmap](/wiki/Beatmap), les utilisateurs devaient avoir dépensé 1 [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin), et une fois qu'ils n'avaient plus d'osu!coins, ils devaient soit arrêter de jouer et attendre le jour suivant, soit payer de l'argent réel pour obtenir plus d'osu!coins. Malgré cette description, le jeu n'était pas affecté et les utilisateurs pouvaient continuer à jouer normalement, même si tous leurs osu!coins étaient épuisés.[^osu-coins-news][^osu-coins-yt][^osu-coins-yt-2]
 

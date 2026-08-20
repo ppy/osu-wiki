@@ -1,6 +1,6 @@
 # Legacy beatmap packs
 
-Beatmap packs have been an integral part of the osu! community since [their first introduction](https://osu.ppy.sh/community/forums/topics/1853) by ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) way back in 2008, in which some of the packs were tied to certain [achievements](/wiki/Medals) out there. However, as osu! and its community continued to grow over the years, the mapping meta at large has also undergone a major shift from its early days and — due to a huge demand from the public — [on 16 January 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) a major overhaul was made to numerous beatmap packs in order to keep them, as a whole, relevant with the times.
+Beatmap packs have been an integral part of the osu! community since [their first introduction](https://osu.ppy.sh/community/forums/topics/1853) by ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) way back in 2008, in which some of the packs were tied to certain [achievements](/wiki/Medals) out there. However, as osu! and its community continued to grow over the years, the mapping meta at large has also undergone a major shift from its early days and — due to a huge demand from the public — [on 18 January 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) a major overhaul was made to numerous beatmap packs in order to keep them, as a whole, relevant with the times.
 
 This article lists the contents of the beatmap packs, which had been subjected to the said overhaul, in their legacy/original state.
 
@@ -10,9 +10,10 @@ This article lists the contents of the beatmap packs, which had been subjected t
 
 This beatmap pack was first introduced by ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) and ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
-- [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn)
+- [MediaFire](https://www.mediafire.com/file/8lhawybcuqucnw1)
+- [Google Drive](https://drive.google.com/file/d/1NULGFJOHN7v4Ea8rYv9eTqwZeGIBExk2)
 
 Beatmaps:
 
@@ -20,7 +21,7 @@ Beatmaps:
 - [Chieco Kawabe - Sakura Kiss](https://osu.ppy.sh/beatmapsets/147)
 - [Hirano Aya - Hare Hare Yukai](https://osu.ppy.sh/beatmapsets/301)
 - [Access - Doubt & Trust](https://osu.ppy.sh/beatmapsets/442)
-- [Pokemon - Pokerap](https://osu.ppy.sh/beatmapsets/551)
+- [Pokemon - Pokerap](https://osu.ppy.sh/beatmapsets/511)
 - [Hirano Aya (Haruhi Suzumiya) - God Knows](https://osu.ppy.sh/beatmapsets/584)
 - [Manzo - My-Pace Daiou](https://osu.ppy.sh/beatmapsets/842)
 - [Younha - Houkiboshi](https://osu.ppy.sh/beatmapsets/897)
@@ -34,9 +35,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) and ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
 - [MediaFire](https://www.mediafire.com/?722os55j52ikylq)
+- [Google Drive](https://drive.google.com/file/d/1yPZILb9Xx5fwnHEjWMf--LeysydGaeuN)
 
 Beatmaps:
 
@@ -58,9 +60,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) and ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
 - [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b)
+- [Google Drive](https://drive.google.com/file/d/1VDbDV5S-sM5XEpKrawoaF8oLAs6bQPrK)
 
 Beatmaps:
 
@@ -82,9 +85,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
 - [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv)
+- [Google Drive](https://drive.google.com/file/d/1_9_SrlZLFLyFuoCS7D2kMfXM3HoCGs5R)
 
 Beatmaps:
 
@@ -108,9 +112,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) and ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/6mev3rqllfehoo2)
+- [Google Drive](https://drive.google.com/file/d/18guMH62Qz-_d9N5XxJ9u7xN1uz36zhvJ)
 
 Beatmaps:
 
@@ -132,9 +137,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) and ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/fa3mowpssw768u9)
+- [Google Drive](https://drive.google.com/file/d/1eAPVDYmerJ0XRektY65HnQJxP19uoaXO)
 
 Beatmaps:
 
@@ -156,9 +162,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) and ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/3js4iqmbiuwnjvl)
+- [Google Drive](https://drive.google.com/file/d/1g4txYURnG-TsqYwMUDdFvyHP1cXUy3xY)
 
 Beatmaps:
 
@@ -180,9 +187,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/2hzig08nwo0qybz)
+- [Google Drive](https://drive.google.com/file/d/1Yp72hTfSMv3U0Vj8BVRhtdBxGF387Rob)
 
 Beatmaps:
 
@@ -206,9 +214,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) and ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
 - [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob)
+- [Google Drive](https://drive.google.com/file/d/11FAggRirdCVIvZdnOxAMsgL-vW7_4aMO)
 
 Beatmaps:
 
@@ -230,9 +239,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) and ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
 - [MediaFire](https://www.mediafire.com/?axvxrnx637767ls)
+- [Google Drive](https://drive.google.com/file/d/1ayAalcJxTEZUSpvIghow20d7WTND2i-Q)
 
 Beatmaps:
 
@@ -254,9 +264,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) and ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
 - [MediaFire](https://www.mediafire.com/?781tio8fge7y7d2)
+- [Google Drive](https://drive.google.com/file/d/1dVvau6Okaon_8RfpmnrcChpLaVssbYoi)
 
 Beatmaps:
 
@@ -278,9 +289,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
 - [MediaFire](https://www.mediafire.com/?6hc29ws6j36dcag)
+- [Google Drive](https://drive.google.com/file/d/1JS66ZdT7Lu9w08L9ehxbqTO4sQW95YLh)
 
 Beatmaps:
 
@@ -304,9 +316,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) and ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/3jbn2u4f8xq9mvz)
+- [Google Drive](https://drive.google.com/file/d/1CmHDJ47-byxgfv-qIKyaWAIk9ltU9o4Q)
 
 Beatmaps:
 
@@ -328,9 +341,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) and ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/pxkhq3glo6pl25y)
+- [Google Drive](https://drive.google.com/file/d/1_-zqQEVaaz3A2tMIsKsJF5S8Pp1EgvIj)
 
 Beatmaps:
 
@@ -352,9 +366,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=US }:: [Seibei4211](https://osu.ppy.sh/users/31537) and ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/wbpub78tjatwe8z)
+- [Google Drive](https://drive.google.com/file/d/1gK-lQcP706D97U5eE67zX5sestYCvaT5)
 
 Beatmaps:
 
@@ -376,9 +391,10 @@ Beatmaps:
 
 This beatmap pack was first introduced by ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) in 2011.
 
-Download link:
+Download links:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/anvtgtiwmp0qq2v)
+- [Google Drive](https://drive.google.com/file/d/1cfWT7israZ06VKxuZrN7XpJhBthc_y2y)
 
 Beatmaps:
 

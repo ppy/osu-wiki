@@ -26,7 +26,10 @@ While ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) was assumed to be the 
 
 ## 2007
 
-*Note: During the period where [Ranked Score](/wiki/Gameplay/Score/Ranked_score) was used, the rank #1 holder would change frequently, thus the earlier listings may have reduced accuracy. Detailed information can be found on the estimated reconstruction of the Ranked Score global leaderboard, which is available [here](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).*
+::: alert-notice
+**Notice**
+During the period where [Ranked Score](/wiki/Gameplay/Score/Ranked_score) was used, the rank #1 holder would change frequently, thus the earlier listings may have reduced accuracy. Detailed information can be found on the estimated reconstruction of the Ranked Score global leaderboard, which is available [here](https://docs.google.com/spreadsheets/d/1fcFtTNim7hminC2LaMGwTBwa6_GIHU8Sz-wQ_eXymiE).
+:::
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
@@ -126,7 +129,10 @@ While ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) was assumed to be the 
 
 ## 2012
 
-*Note: [ppv1](/wiki/Performance_points/ppv1) fully replaced Ranked Score on 24 July 2012.*
+::: alert-notice
+**Notice**
+[ppv1](/wiki/Performance_points/ppv1) fully replaced Ranked Score on 24 July 2012.
+:::
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
@@ -157,7 +163,10 @@ While ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) was assumed to be the 
 
 ## 2014
 
-*Note: [ppv2](/wiki/Performance_points) was introduced on 27 January 2014.*
+::: alert-notice
+**Notice**
+[ppv2](/wiki/Performance_points) was introduced on 27 January 2014.
+:::
 
 | Player | From | To | Sources |
 | --: | :-- | :-- | :-- |
@@ -349,7 +358,10 @@ The following is a list of the total number of times a player has reached the ra
 
 ## Longest combined reigns
 
-*Note: The current rank #1 reign is excluded.*
+::: alert-notice
+**Notice**
+The current rank #1 reign is excluded.
+:::
 
 The following is a list of the total number of days that a player has held the rank #1 spot (as of 11 July 2026).
 
@@ -396,7 +408,10 @@ The following is a list of the total number of days that a player has held the r
 
 ## Longest individual reigns
 
-*Note: Only reigns over 100 days are included. The current rank #1 reign is excluded.*
+::: alert-notice
+**Notice**
+Only reigns over 100 days are included. The current rank #1 reign is excluded.
+:::
 
 The following is a list of the longest consecutive days a player has held the rank #1 spot (as of 11 July 2026).
 

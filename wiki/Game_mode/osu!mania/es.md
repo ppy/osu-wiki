@@ -82,7 +82,9 @@ La regeneración de la barra de salud se produce lentamente mientras mantienes l
 
 *Puedes consultar los [estilos de juego de osu!mania](/wiki/Gameplay/Play_style#osu!mania) para más información.*
 
-*Véase también: [Estilos de juego 10K+ de osu!mania](/wiki/Beatmapping/osu!mania_10K_plus_playstyles)*
+::: alert-note
+**Véase también:** [Estilos de juego 10K+ de osu!mania](/wiki/Beatmapping/osu!mania_10K_plus_playstyles)
+:::
 
 ## Controles
 
