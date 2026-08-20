@@ -50,7 +50,7 @@ Możesz dodawać beatmapy na dwa sposoby - poprzez stronę internetową oraz pop
 4. Zlokalizuj i otwórz plik beatmapy (ma on rozszerzenie `.osz`).
    - Możesz także umieścić plik beatmapy w folderze `Songs` w katalogu z zainstalowanym osu!.
 5. osu! zajmie się resztą i załaduje beatmapę.
-   - Jeżeli z jakiegoś powodu nie zostanie ona widoczna, naciśnij `F5` na [ekranie wyboru piosenki](/wiki/Client/Interface#song-select), aby ponownie przetworzyć beatmapy.
+   - Jeżeli z jakiegoś powodu nie zostanie ona widoczna, naciśnij `F5` na [ekranie wyboru piosenki](/wiki/Client/Interface#wybór-piosenki), aby ponownie przetworzyć beatmapy.
 
 ### osu!direct
 
@@ -64,7 +64,7 @@ Potrzebujesz aktywnego statusu donatora osu! i połączenia internetowego, aby u
 3. Kliknij dwukrotnie na piosenkę z listy lub naciśnij przycisk `Download`, aby pobrać beatmapę.
    - Jeżeli nie chcesz pobierać beatmapy z wideo, naciśnij `DL NoVideo`.
 4. Gdy pobieranie zostanie zakończone, osu! zajmie się resztą i załaduje beatmapę.
-   - Jeżeli z jakiegoś powodu nie będzie ona widoczna, naciśnij `F5` na [ekranie wyboru piosenki](/wiki/Client/Interface#song-select), aby ponownie przetworzyć beatmapy.
+   - Jeżeli z jakiegoś powodu nie będzie ona widoczna, naciśnij `F5` na [ekranie wyboru piosenki](/wiki/Client/Interface#wybór-piosenki), aby ponownie przetworzyć beatmapy.
 
 ## Dodawanie skórek
 
