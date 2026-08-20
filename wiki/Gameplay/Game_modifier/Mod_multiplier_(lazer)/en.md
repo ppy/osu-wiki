@@ -27,7 +27,7 @@ If multiple mods are used simultaneously, in most cases the mod multiplier will 
 
 The multiplier of a mod can also depend on its customisation settings. Detailed explanations on how the mod multipliers are calculated can be found in the [articles of the respective mods](/wiki/Gameplay/Game_modifier_(lazer)#list-of-mods) or in osu!(lazer)'s source code:
 
-- [`OsuScoreMultiplierCalculatorV2`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs) in osu!(lazer)'s source code
+- [`OsuScoreMultiplierCalculatorV2`](OsuScoreMultiplierCalculatorV2) in osu!(lazer)'s source code
 - [`TaikoScoreMultiplierCalculator`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Taiko/Scoring/TaikoScoreMultiplierCalculator.cs) in osu!(lazer)'s source code
 - [`CatchScoreMultiplierCalculator`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Catch/Scoring/CatchScoreMultiplierCalculator.cs) in osu!(lazer)'s source code
 - [`ManiaScoreMultiplierCalculator`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Mania/Scoring/ManiaScoreMultiplierCalculator.cs) in osu!(lazer)'s source code
@@ -79,7 +79,7 @@ After thorough evaluation of the survey results, a large batch of changes[^multi
 
 For osu!, the update also covered many other mods, for instance there was another update to the rate adjust multipliers, and even some [`Fun` mods](/wiki/Gameplay/Game_modifier_(lazer)#fun) were reworked. All changes are explained in the [news post](https://osu.ppy.sh/home/news/2026-06-03-mod-multipliers-survey-results), which was released on 3 June 2026. The corresponding [lazer update video](https://www.youtube.com/watch?v=lmoad0MZZdg&t=114s) also talked about the most notable changes.
 
-The exact implementation of the new mod multipliers can be found in [`OsuScoreMultiplierCalculatorV2`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs) in osu!(lazer)'s source code, while the previous multipliers are still available in [`OsuScoreMultiplierCalculatorV1`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV1.cs).
+The exact implementation of the new mod multipliers can be found in [`OsuScoreMultiplierCalculatorV2`](OsuScoreMultiplierCalculatorV2) in osu!(lazer)'s source code, while the previous multipliers are still available in [`OsuScoreMultiplierCalculatorV1`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV1.cs).
 
 ## Trivia
 
@@ -101,6 +101,7 @@ The exact implementation of the new mod multipliers can be found in [`OsuScoreMu
 
 [^formatting]: [`ModUtils` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game/Utils/ModUtils.cs#L272-L281)
 
+[OsuScoreMultiplierCalculatorV2]: https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
