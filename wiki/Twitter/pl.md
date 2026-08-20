@@ -1,11 +1,6 @@
----
-outdated_translation: true
-outdated_since: bf0efccf8db8b9dfb5ae645549a64c0623c27052
----
-
 # Twitter
 
-osu! posiada kilka kont na Twitterze, z czego każde z nich pełni inne funkcje. Pomimo niewielkiej aktywności oferują one wystarczające informacje o tym, co dzieje się w świecie osu!.
+osu! posiada kilka kont na Twitterze, z czego każde z nich pełni inne funkcje. Pomimo niewielkiej aktywności oferują one wystarczającą ilość informacji o tym, co dzieje się w świecie osu!.
 
 ## Usługi
 
@@ -20,7 +15,9 @@ osu! posiada kilka kont na Twitterze, z czego każde z nich pełni inne funkcje.
 | :-: | :-: | :-- |
 | ![Awatar osu!](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | Oficjalne źródło aktualności i ogłoszeń. |
 | ![Awatar BanchoBoata](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Humorystyczne rozluźnienie sytuacji, gdy coś pójdzie nie tak. |
-| ![Awatar NAT-u](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Aktualności, ogłoszenia, krótkie ankiety społecznościowe prowadzone przez [zespół zapewniania jakości (NAT)](/wiki/People/Nomination_Assessment_Team). Konto nie jest prowadzone przez [główny zespół osu!](/wiki/People/osu!_team). |
+| ![Awatar NAT-u](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Aktualności, ogłoszenia i krótkie ankiety społecznościowe prowadzone przez [zespół zapewniania jakości (NAT)](/wiki/People/Nomination_Assessment_Team). Konto nie jest prowadzone przez [główny zespół osu!](/wiki/People/osu!_team). |
+| ![Awatar komisji turniejowej](img/osu_tcomm.jpg) | [@osu_tcomm](https://twitter.com/osu_tcomm) | Różnego rodzaju wiadomości i ogłoszenia od [komisji turniejowej](/wiki/People/Tournament_Committee). Konto nie jest prowadzone przez [główny zespół osu!](/wiki/People/osu!_team).
+| ![Awatar komisji pp](img/ppcommittee.png) | [@pp_committee](https://twitter.com/pp_committee) | Ogłoszenia dotyczące rekalkulacji ilości gwiazdek oraz pp dla wszystkich trybów gry, prowadzone przez [komitet pp](/wiki/People/Performance_Points_Committee). |
 
 ## Osobiste
 
