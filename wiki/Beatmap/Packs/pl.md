@@ -14,7 +14,7 @@ F2 - Rohi Pack.zip
 
 `F2` oznacza, że jest to druga paczka beatmap w kategorii wyróżnionych artystów, podczas gdy `Rohi Pack` odnosi się do nazwy paczki wyświetlanej na [liście paczek beatmap](https://osu.ppy.sh/beatmaps/packs/F2). W tym przypadku, paczka zawiera wyłącznie mapy piosenek autorstwa [Rohi](https://osu.ppy.sh/beatmaps/artists/82).
 
-Niektóre paczki beatmap (szczególnie standardowe) są ponumerowane według kolejności opublikowania. Na przykład [osu! Beatmap Pack #1000](https://osu.ppy.sh/beatmaps/packs/S1000) (paczka `S1000`) jest tysięczną paczką zawierającą [rankingowe](/wiki/Beatmap/Category#ranked) i [zatwierdzone](/wiki/Beatmap/Category#approved) beatmapy w [trybie gry osu!](/wiki/Game_mode/osu!).
+Niektóre paczki beatmap (szczególnie standardowe) są ponumerowane według kolejności opublikowania. Na przykład [osu! Beatmap Pack #1000](https://osu.ppy.sh/beatmaps/packs/S1000) (paczka `S1000`) jest tysięczną paczką zawierającą [rankingowe](/wiki/Beatmap/Category#rankingowe) i [zatwierdzone](/wiki/Beatmap/Category#zatwierdzone) beatmapy w [trybie gry osu!](/wiki/Game_mode/osu!).
 
 ## Kategorie
 
@@ -22,7 +22,7 @@ Paczki beatmap są podzielone na 7 kategorii, każda oznaczona inną literą:
 
 | Oznaczenie | Kategoria | Typ beatmap |
 | :-: | :-- | :-- |
-| **S** | Standardowe | [Rankingowe](/wiki/Beatmap/Category#ranked) oraz [zatwierdzone](/wiki/Beatmap/Category#approved) beatmapy |
+| **S** | Standardowe | [Rankingowe](/wiki/Beatmap/Category#rankingowe) oraz [zatwierdzone](/wiki/Beatmap/Category#zatwierdzone) beatmapy |
 | **F** | Wyróżnieni artyści | Beatmapy z utworami od [wyróżnionych artystów](/wiki/People/Featured_Artists), pochodzące głównie z ukończonych questów [Mappers’ Guild](/wiki/Community/Mappers_Guild) |
 | **P** | Turniejowe | Mappoole [oficjalnych turniejów](https://osu.ppy.sh/community/tournaments) |
 | **L** | Project Loved | Beatmapy wybrane przez społeczność w [Project Loved](/wiki/Community/Project_Loved) |
@@ -34,7 +34,7 @@ Paczki beatmap są podzielone na 7 kategorii, każda oznaczona inną literą:
 
 1. Wyodrębnij pliki z pobranego archiwum zawierającego paczkę beatmap. W środku powinno znajdować się wiele [plików z rozszerzeniem `.osz`](/wiki/Client/File_formats/osz_(file_format)).
 2. Pliki `.osz` umieść w folderze `Songs`, znajdującym się w katalogu z zainstalowanym osu!, lub zaznacz je i przeciągnij bezpośrednio do okna gry.
-3. Gra powinna automatycznie zaimportować beatmapy i usunąć pliki `.osz`. W przypadku problemów spróbuj nacisnąć `F5` w [ekranie wyboru piosenek](/wiki/Client/Interface#song-select), aby ponownie przeprocesować beatmapy.
+3. Gra powinna automatycznie zaimportować beatmapy i usunąć pliki `.osz`. W przypadku problemów spróbuj nacisnąć `F5` w [ekranie wyboru piosenek](/wiki/Client/Interface#wybór-piosenki), aby ponownie przeprocesować beatmapy.
 
 ## Alternatywnie sposoby pobierania paczek
 
