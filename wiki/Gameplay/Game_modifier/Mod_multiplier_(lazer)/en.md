@@ -21,7 +21,7 @@ tags:
 
 The **mod multiplier** is an attribute of each [game modifier](/wiki/Gameplay/Game_modifier_(lazer)) that affects the value of a player's score on a [beatmap](/wiki/Beatmap).
 
-By default, the mod mutiplier is `1.00x`, but some mods can reduce or increase[^mania-note] it. Typically, mods from the `Difficulty Reduction` category have multipliers less than `1.00x`, while mods from the `Difficulty Increase` category have multipliers greater than `1.00x` to reward plays of increaed difficulty with a higher score.
+By default, the mod mutiplier is `1.00x`, but some mods can reduce or increase[^mania-note] it. Typically, mods from the `Difficulty Reduction` category have multipliers less than `1.00x`, while mods from the `Difficulty Increase` category have multipliers greater than `1.00x` to reward plays of increased difficulty with a higher score.
 
 If multiple mods are used simultaneously, in most cases the mod multiplier will simply be the product of the multipliers of all currently active mods. For example, using [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) and [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) at the same time results in a mod multiplier of `1.04x * 1.09x = 1.1336x` (in [osu!](/wiki/Game_mode/osu!)). There are some exceptions to this, for example, using [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) (with a multiplier of `1.02x`) and [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) (with a multiplier of `1.24x`) together results in a mod multiplier of `1.24x` (rather than `1.02x * 1.24x = 1.2648x`).
 
@@ -34,7 +34,7 @@ The multiplier of a mod can also depend on its customisation settings. Detailed 
 
 ## History
 
-Initially, osu!(lazer) used the same constant mod multipliers as osu!(stable) (with the exception of [Key mods](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)), see [below](#reduction-of-osu!mania-key-mods-multiplier)),[^mods-2017] which can be found [here](/wiki/Gameplay/Game_modifier/Summary). However, due to a different scoring system and new features like mod customisation, these multipliers were not suitable for the game in the long run. Therefore, the system was adjusted multiple times in the following years.
+Initially, osu!(lazer) used the same constant mod multipliers as osu!(stable) (with the exception of [Key mods](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)), see [below](#reduction-of-osu!mania-key-mods-multiplier)),[^mods-2017] which can be found in [the mod overview article](/wiki/Gameplay/Game_modifier/Summary). However, due to a different scoring system and new features like mod customisation, these multipliers were not suitable for the game in the long run. Therefore, the system was adjusted multiple times in the following years.
 
 ### Removal of increased multipliers for customised mods
 
@@ -44,7 +44,7 @@ Initially, osu!(lazer) used the same constant mod multipliers as osu!(stable) (w
 
 [On 19 April 2023](https://osu.ppy.sh/home/changelog/lazer/2023.419.0), the score multipliers for some previously adjusted mods were changed again.[^linear-rate-multipliers] Namely, [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) and [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)) multipliers now scaled linearly from `1.00x` to `1.20x` in 0.1 steps, while [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) and [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore) multipliers scaled linearly from `0.50x` to `0.90x` in 0.1 steps. In an update [on 18 December 2023](https://osu.ppy.sh/home/changelog/lazer/2023.1218.0), these were further adjusted to range from `0.10x` to `0.50x` instead.[^ht-dc-multiplier]
 
-Specifically, the mod multipliers for rate adjust mods that were in use until the [mod multiplier rebalance](#mod-multiplier-rebalance) in 2026 are summarised in the following table:
+Specifically, the mod multipliers for rate adjust mods prior to the [multiplier rebalance](#mod-multiplier-rebalance) in 2026 are summarised in the following table:
 
 | Speed adjust | ![][osu!] ![][osu!taiko] ![][osu!catch] | ![][osu!mania] |
 | :-- | :-- | :-- |
@@ -67,7 +67,7 @@ Specifically, the mod multipliers for rate adjust mods that were in use until th
 
 ### Reduction of osu!mania key mods multiplier
 
-In osu!(stable), [Key mods](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)) use score multipliers smaller than `1.00x`, as listed in [xK](/wiki/Gameplay/Game_modifier/xK). When initially implemented in osu!(lazer), the score multiplier for all of these was set to `1.00x`. This allowed players to reduce the key count on [converted](/wiki/Beatmap/Converts) beatmaps without any score penalty. To avoid this, an update [on 16 August 2025](https://osu.ppy.sh/home/changelog/lazer/2025.816.0), changed all the multipliers to `0.90x`.[^key-mods-multiplier]
+In osu!(stable), [key mods](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)) use score multipliers smaller than `1.00x`, as listed in [xK](/wiki/Gameplay/Game_modifier/xK). When initially implemented in osu!(lazer), the score multiplier for all of these was set to `1.00x`. This allowed players to reduce the key count on [converted](/wiki/Beatmap/Converts) beatmaps without any score penalty. To avoid this, an update [on 16 August 2025](https://osu.ppy.sh/home/changelog/lazer/2025.816.0) changed all the multipliers to `0.90x`.[^key-mods-multiplier]
 
 ### Mod multiplier rebalance
 
