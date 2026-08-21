@@ -53,15 +53,11 @@ Changing the `Speed increase` setting causes your scores to be **unranked**, whi
 
 ### ![][osu!] osu!
 
-In osu!, Double Time has a score multiplier which depends on the selected `Speed increase` and is calculated as follows:
-
-The `Speed increase` is rounded *down* to one decimal place (e.g. 1.57x becomes 1.50x), let's call this value the `rate`. The score multiplier is then given by `1 + 0.46 * (rate - 1)` if `rate` is 1.00x or 1.50x and `1 + 0.46 * (rate - 1) - 0.01` otherwise.[^multiplier-osu]
+In osu!, Double Time has a score multiplier which depends on the selected `Speed increase`. The multiplier is calculated as `1 + 0.46 * (rate - 1)`, where `rate` is the value of `Speed increase` rounded down to one decimal place. If `rate` is not equal to 1 or 1.5, the multiplier is further decreased by `0.01x`.[^multiplier-osu]
 
 ### ![][osu!taiko] osu!taiko and ![][osu!catch] osu!catch
 
-In osu!taiko and osu!catch, the score multiplier for Double Time is calculated quite similarly:
-
-The `Speed increase` is rounded *down* to one decimal place (e.g. 1.57x becomes 1.50x), let's call this value the `rate`. The score multiplier is then given by `1 + 0.2 * (rate - 1)`.[^multiplier-taiko][^multiplier-catch]
+In osu!taiko and osu!catch, Double Time has a score multiplier which depends on the selected `Speed increase`. The multiplier is calculated as `1 + 0.2 * (rate - 1)`, where `rate` is the value of `Speed increase` rounded down to one decimal place.[^multiplier-taiko][^multiplier-catch]
 
 ### ![][osu!mania] osu!mania
 
