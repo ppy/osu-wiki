@@ -74,7 +74,7 @@ Download the beatmap template for any one of these songs, read the rules in the 
 >
 > If you are a mapper drawn to atmosphere, unconventional time signatures, and the challenge of making restraint feel expressive, Noctua is waiting for you.
 
-*— seros*
+—seros
 
 ### [Tedjimo yomigY](https://osu.ppy.sh/beatmaps/artists/223) - Acacia
 
