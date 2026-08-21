@@ -47,7 +47,7 @@ Since `Attraction strength` can be chosen from 0.05 to 1.0, the score multiplier
 
 ## Trivia
 
-- Magnetised was added to the game [on 5 February 2022](https://osu.ppy.sh/home/changelog/lazer/2022.205.0) under the Name *Aim Assist*. The mod was later renamed to Magnetised [on 5 April 2022](https://osu.ppy.sh/home/changelog/lazer/2022.405.0).
+- Magnetised was added to the game [on 5 February 2022](https://osu.ppy.sh/home/changelog/lazer/2022.205.0) under the name *Aim Assist*. The mod was later renamed to Magnetised [on 5 April 2022](https://osu.ppy.sh/home/changelog/lazer/2022.405.0).
 
 ## References
 
