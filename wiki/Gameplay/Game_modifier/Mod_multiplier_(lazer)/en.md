@@ -34,7 +34,7 @@ The multiplier of a mod can also depend on its customisation settings. Detailed 
 
 ## History
 
-Initially, osu!(lazer) used the same constant mod multipliers as osu!(stable) (with the exception of [Key mods](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)), see [below](#reduction-of-osu!mania-key-mods-multiplier)),[^mods-2017] which can be found in [the mod overview article](/wiki/Gameplay/Game_modifier/Summary). However, due to a different scoring system and new features like mod customisation, these multipliers were not suitable for the game in the long run. Therefore, the system was adjusted multiple times in the following years.
+Initially, osu!(lazer) used the same constant mod multipliers as osu!(stable) (with the exception of [Key mods](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)), see [below](#reduction-of-osu!mania-key-mods-multiplier)),[^mods-2017] which can be found in [the mod overview article](/wiki/Gameplay/Game_modifier/Summary). However, due to a [different scoring system](/wiki/Help_centre/Upgrading_to_lazer#differences-in-scoring) and new features like mod customisation, these multipliers were not suitable for the game in the long run. Therefore, the system was adjusted multiple times in the following years.
 
 ### Removal of increased multipliers for customised mods
 
@@ -71,7 +71,7 @@ In osu!(stable), [key mods](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)) use s
 
 ### Mod multiplier rebalance
 
-As mentioned above, the score multipliers initially used in osu!(lazer) did not suit the new game client and were generally not well received by the community. For example, scores achieved in osu!(lazer) often appeared higher on global leaderboards than scores from osu!(stable), despite having worse combo and accuracy. This was due to the [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) mod, which is automatically applied to all osu!(stable) scores, only having a multiplier of `0.96x` at the time.
+As mentioned above, the score multipliers initially used in osu!(lazer) did not suit the new game client and were generally not well received by the community.[^multiplier-issues][^multiplier-issues-2] For example, scores achieved in osu!(lazer) often appeared higher on global leaderboards than scores from osu!(stable), despite having worse combo and accuracy. This was due to the [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) mod, which is automatically applied to all osu!(stable) scores, only having a multiplier of `0.96x` at the time.
 
 In order to bring leaderboards in line with player expectations, a [survey](https://osu.ppy.sh/home/news/2026-01-19-survey-mod-multipliers) was launched on 19 January 2026, where players could vote on how they would like the mod multipliers to be adjusted in an upcoming update. Apart from the Classic mod, this only concerned the osu! game mode.
 
@@ -97,6 +97,8 @@ The exact implementation of the new mod multipliers can be found in [`OsuScoreMu
 [^linear-rate-multipliers]: [Pull request "Add progressive DT/HT mod multipliers #23177" by smoogipoo (2023-04-10) in ppy/osu](https://github.com/ppy/osu/pull/23177)
 [^ht-dc-multiplier]: [Pull request "Adjust some mod multipliers for initial leaderboard sanity #25744" by peppy (2023-12-13) in ppy/osu](https://github.com/ppy/osu/pull/25744/files#diff-0e7bca309dc46fc25dd1b43e704b028f01d6bee9b3ae68401e6e2b3726931c8e)
 [^key-mods-multiplier]: [Pull request "Add default multiplier for mania key mods #30506" by smoogipoo (2024-11-05) in ppy/osu](https://github.com/ppy/osu/pull/30506)
+[^multiplier-issues]: [GitHub issue by brainage04 (2024-04-07) "Unbalanced mod multipliers on high SR Ranked/Qualified/Loved maps #27801"](https://github.com/ppy/osu/issues/27801)
+[^multiplier-issues-2]: [GitHub discussion by osuKingling (2024-08-17) "Current issues with osu!lazer mod multipliers #29486"](https://github.com/ppy/osu/discussions/29486)
 [^multiplier-rework]: [Pull request "Implement new score multipliers #37967" by tsunyoku (2026-06-02) in ppy/osu](https://github.com/ppy/osu/pull/37967)
 
 [^formatting]: [`ModUtils` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game/Utils/ModUtils.cs#L272-L281)
