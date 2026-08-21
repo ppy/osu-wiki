@@ -106,7 +106,7 @@ V0iD's Syabaritious Sensoriam is an absolute auditory feast you simply cannot mi
 
 ## ![Prizes](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/prizes_banner.jpg) {#prizes}
 
-Cash prizes will be distributed to participants who achieve the top 3 in each track in a 6:3:2 ratio, divided between the 2 modes: osu! and osu! mania, along with other rewards depending on sponsorship and approval:
+Cash prizes will be distributed to participants who achieve the top 3 in each track in a 6:3:2 ratio, divided between the 2 modes, osu! and osu!mania, along with other rewards depending on prize contributions and Contest Committee approval:
 
 | Placement | Prizes |
 | :-: | :-- |
