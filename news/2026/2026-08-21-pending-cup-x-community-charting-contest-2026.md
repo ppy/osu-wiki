@@ -13,7 +13,7 @@ The longest-running annual beatmapping contest, Pending Cup, and the newly rebra
 
 Participants get to pick one of 3 songs and submit an osu! or osu! mania mode difficulty to compete to be the best.
 
-![](wiki/Contests/PDC/2026/main_banner.png)
+---
 
 Stemming from the same roots and vision, Pending Cup and Community Charting Contest both began as contests within the Chinese community and have since expanded to welcome participants from across the globe. 
 
@@ -29,7 +29,7 @@ Read on for all the info. For our Chinese contestants: [点击此处查看中文
     }
 </style>
 
-## ![Schedule](wiki/Contests/PDC/2026/schedule_banner.png) {#schedule}
+## ![Schedule](wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/schedule_banner.jpg) {#schedule}
 
 | Event | Dates |
 | --: | :-- |
@@ -39,7 +39,7 @@ Read on for all the info. For our Chinese contestants: [点击此处查看中文
 
 *Beatmapping and judging phase deadlines are subject to change.*
 
-## ![Songs](wiki/Contests/PDC/2026/songs_banner.png) {#songs}
+## ![Songs](wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/songs_banner.jpg) {#songs}
 
 This year, we've gone all out and are bringing in 3 custom songs, each by a renowned artist. Instead of having three different categories like previous Pending Cup formats, this year we are categorising by track only.
 
@@ -52,7 +52,7 @@ Download the beatmap template for any one of these songs, read the rules in the 
 | Genre | J-Rock |
 | Download | [Beatmap template (4:04 / 166 BPM)](template link) |
 
-![](wiki/Contests/PDC/2026/noctua_bg.jpg)
+![](wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/noctua_bg.jpg)
 <div class="osu-md__paragraph">
     <audio controls>
         <source src="audio link">
@@ -68,7 +68,7 @@ Noctua by siraph is a slow-burning piece that rewards mappers who think in textu
 | Genre | Jazz |
 | Download | [Beatmap template (2:36 / 178 BPM)](template link) |
 
-![](wiki/Contests/PDC/2026/acacia_bg.jpg)
+![](wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/acacia_bg.jpg)
 <div class="osu-md__paragraph">
     <audio controls>
         <source src="audio link">
@@ -85,7 +85,7 @@ Acacia by Tedjimo yomigY is a typical jazz song that you would expect from this 
 | Genre | Hi-Tech Hardcore |
 | Download | [Beatmap template (2:34 / 170 BPM)](template link) |
 
-![](wiki/Contests/PDC/2026/v0id_bg.jpg)
+![](wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/v0id_bg.jpg)
 <div class="osu-md__paragraph">
     <audio controls>
         <source src="audio link">
@@ -94,7 +94,7 @@ Acacia by Tedjimo yomigY is a typical jazz song that you would expect from this 
 
 V0iD's Syabaritious Sensoriam is an absolute auditory feast you simply cannot miss, packed with endless variations and distinct flavours at a blistering 170 BPM. The atmospheric yet chaotic vibes of the intro and outro perfectly contrast with the rhythmic groove and dynamic flow brought by the diverse sound decorations in the main body, creating a track rich in layered details and massive mapping potential. The occasional rhythmic shifts and the standout piano melody in the climax infuse this seemingly conventional structure with unconventional energy. If you are a mapper who loves to showcase your unique style and technical skills, and possesses a nuanced understanding of various musical elements, this track will be your perfect canvas. *— Breakrio*
 
-## ![Prizes](wiki/Contests/PDC/2026/prizes_banner.png) {#prizes}
+## ![Prizes](wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/prizes_banner.jpg) {#prizes}
 
 Cash prizes will be distributed to participants who achieve the top 3 in each track in a 6:3:2 ratio, divided between the 2 modes: osu! and osu! mania, along with other rewards depending on sponsorship and approval:
 
@@ -117,7 +117,7 @@ Feel free to join our [Discord server](https://discord.gg/VZQGhwYvJ5) to receive
 
 Thank you to all our sponsors and supporters, and good luck mapping!
 
-![](wiki/Contests/PDC/2026/Contribution_List.png)
+![](wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/Contribution_List.jpg)
 
 —Breakrio, Chaoslitz, FcEazy, gzdongsheng, iBell, Mafumafu, and seros 
 
