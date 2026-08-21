@@ -76,9 +76,9 @@ Download the beatmap template for any one of these songs, read the rules in the 
 
 *— seros*
 
-### Track 2
+### [Tedjimo yomigY](https://osu.ppy.sh/beatmaps/artists/223) - Acacia
 
-| Song | [Tedjimo yomigY](https://osu.ppy.sh/beatmaps/artists/223) - Acacia |
+|  |  |
 | --: | :-- |
 | Genre | Jazz |
 | Download | [Beatmap template (2:36 / 178 BPM)](template link) |
