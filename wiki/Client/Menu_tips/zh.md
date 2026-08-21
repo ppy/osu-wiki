@@ -40,7 +40,7 @@ tags:
 - 任何时候，你都可以按下 `F8`，打开游戏内的聊天窗口。你可以输入 `!help` 或者 `/help`，来查阅可使用的[命令列表](/wiki/Client/Interface/Chat_console#命令列表)。
 - 记住要经常停下来休息一下。你的双手是要为你服务一生的，而不仅仅是 osu!（的[转盘](/wiki/Gameplay/Hit_object/Spinner)）。
 - 别无视[未上架 (Unranked)](/wiki/Beatmap/Category) 的谱面。如果你找到了你喜欢的这一类谱面，可以给谱面制作者提些[建设性的意见](/wiki/Modding)。这样，这张谱面将更可能[上架](/wiki/Beatmap_ranking_procedure)！
-- 在[多人模式](/wiki/Client/Interface/Multiplayer)中，你可以和其他人一起游戏！
+- 在[多人模式](/wiki/Gameplay/Multiplayer)中，你可以和其他人一起游戏！
 - 想知道某个玩家来自哪里吗？按下 `F9`，然后把光标悬停在该玩家的用户框上即可！
 - 在歌曲界面按下 `F5`，可以刷新并重新载入磁盘上的全部歌曲。
 - 按下`Shift` + `F12` 可以截屏，并自动上传到因特网上。

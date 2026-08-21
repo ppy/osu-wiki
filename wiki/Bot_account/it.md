@@ -9,7 +9,7 @@ tags:
 
 # Account bot
 
-Un **account bot** è un account speciale che viene gestito da un servizio automatizzato invece che da una persona reale. Sul sito Web hanno un badge bianco con l'etichetta "BOT" ed è visibile solo la sezione "io!" del loro profilo. Gli account bot sono più comunemente usati per ospitare "chat bot" che offrono varie funzionalità alla community attraverso lobby [multiplayer](/wiki/Client/Interface/Multiplayer) o messaggi privati.
+Un **account bot** è un account speciale che viene gestito da un servizio automatizzato invece che da una persona reale. Sul sito Web hanno un badge bianco con l'etichetta "BOT" ed è visibile solo la sezione "io!" del loro profilo. Gli account bot sono più comunemente usati per ospitare "chat bot" che offrono varie funzionalità alla community attraverso lobby [multiplayer](/wiki/Gameplay/Multiplayer) o messaggi privati.
 
 Gli account bot possono essere creati esclusivamente su [richiesta](#creazione-di-un-account-bot). Un tentativo di creare un account bot registrandosi normalmente è considerato multi-account ed è contrario alle [regole della community](/wiki/Rules#regole-della-community).
 

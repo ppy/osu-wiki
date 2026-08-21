@@ -39,7 +39,7 @@ layout: main_page
 
 [게임 모드](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[비트맵](/wiki/Beatmap) • [난이도](/wiki/Beatmap/Difficulty) • [히트 오브젝트](/wiki/Gameplay/Hit_object) • [모드](/wiki/Gameplay/Game_modifier) • [점수](/wiki/Gameplay/Score) • [리플레이](/wiki/Gameplay/Replay) • [메달](/wiki/Medals) • [멀티 플레이](/wiki/Client/Interface/Multiplayer)
+[비트맵](/wiki/Beatmap) • [난이도](/wiki/Beatmap/Difficulty) • [히트 오브젝트](/wiki/Gameplay/Hit_object) • [모드](/wiki/Gameplay/Game_modifier) • [점수](/wiki/Gameplay/Score) • [리플레이](/wiki/Gameplay/Replay) • [메달](/wiki/Medals) • [멀티 플레이](/wiki/Gameplay/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">

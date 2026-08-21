@@ -44,7 +44,7 @@ On October 8, the Vertical Scrolling Rhythm Game (VSRG) [osu!mania](/wiki/Game_m
 
 :::
 
-For players who entered the [multiplayer](/wiki/Client/Interface/Multiplayer) lobby before updating to the b20121008 build, there was a bug causing a comical appearance of osu!mania named as "3" without the game mode icon. Players were not able to play in the room without applying the update.
+For players who entered the [multiplayer](/wiki/Gameplay/Multiplayer) lobby before updating to the b20121008 build, there was a bug causing a comical appearance of osu!mania named as "3" without the game mode icon. Players were not able to play in the room without applying the update.
 
 ::: Infobox
 
@@ -55,7 +55,7 @@ For players who entered the [multiplayer](/wiki/Client/Interface/Multiplayer) lo
 In addition to the new game mode, the following had been implemented in the update:
 
 - Per-object hitsounds were added in the editor, thanks to ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655).
-- Players became able to recover from failing in [multiplayer](/wiki/Client/Interface/Multiplayer) by reaching full HP (this was not the case if the [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) or [Perfect](/wiki/Gameplay/Game_modifier/Perfect) mod was enabled).
+- Players became able to recover from failing in [multiplayer](/wiki/Gameplay/Multiplayer) by reaching full HP (this was not the case if the [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) or [Perfect](/wiki/Gameplay/Game_modifier/Perfect) mod was enabled).
 - Scrolling support was added to the in-game online ranking list.
 - Improvements for the [skin selection](/wiki/Client/Options#skin) to make the preview play more realistically.
 

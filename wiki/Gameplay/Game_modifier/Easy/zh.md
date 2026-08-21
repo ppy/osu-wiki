@@ -74,7 +74,7 @@ tags:
 ## 冷知识
 
 - 回放中使用额外生命时，不会出现回血动画，如同玩家正使用 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) 模组游玩一般。
-- 在[多人游戏](/wiki/Client/Interface/Multiplayer)的 [Tag Co-op 或 Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) 模式中，“生命数”无效。
+- 在[多人游戏](/wiki/Gameplay/Multiplayer)的 [Tag Co-op 或 Tag Team Vs.](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs) 模式中，“生命数”无效。
 - 此模组会自动禁用 [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) 模组，反之亦然。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

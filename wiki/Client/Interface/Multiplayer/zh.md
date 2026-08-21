@@ -229,7 +229,7 @@ outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
 ### 比赛历史
 
 ::: Infobox
-![](img/multi-mh.jpg "网页上的比赛历史页面")
+![](/wiki/shared/multiplayer/stable/multi-mh.jpg "网页上的比赛历史页面")
 :::
 
 屏幕底部是[聊天面板](/wiki/Client/Interface/Chat_console)。每个比赛房间都有单独的聊天频道，显示在 `#multiplayer` 标签页中。[BanchoBot](/wiki/BanchoBot) 会在此频道发送第一条消息，给出比赛历史的链接。
@@ -398,7 +398,7 @@ Head-to-head 模式是多人游戏的默认组队模式，游玩过程没有特�
 ### 历史
 
 ::: Infobox
-![](img/legacy-multi-lobby.jpg "osu!mania 初次发布时（2012 年 10 月 8 日）的大厅截图，此时还无法在多人游戏中游玩")
+![](/wiki/shared/multiplayer/stable/legacy-multi-lobby.jpg "osu!mania 初次发布时（2012 年 10 月 8 日）的大厅截图，此时还无法在多人游戏中游玩")
 :::
 
 - 最早实现多人游戏的版本是 osu! Public Release b335，于 2008 年 6 月 3 日实现。
