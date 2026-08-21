@@ -59,13 +59,13 @@ Download the beatmap template for any one of these songs, read the rules in the 
 | --: | :-- |
 | Genre | J-Rock |
 | Illustrator | siraph |
-| Download | [Beatmap template (4:04 / 166 BPM)](template link) |
+| Download | [Beatmap template (4:04 / 166 BPM)](https://assets.ppy.sh/media/news/PDCCCC%202026%20-%20siraph%20-%20Noctua.osz) |
 
 ![](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/noctua_bg.jpg)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="audio link">
+        <source src="https://assets.ppy.sh/media/news/2026-08-21-pdcccc-noctua.mp3">
     </audio>
 </div>
 
@@ -83,13 +83,13 @@ Download the beatmap template for any one of these songs, read the rules in the 
 | --: | :-- |
 | Genre | Jazz |
 | Illustrator | [Arushii](https://osu.ppy.sh/users/15664628) |
-| Download | [Beatmap template (2:36 / 178 BPM)](template link) |
+| Download | [Beatmap template (2:36 / 178 BPM)](https://assets.ppy.sh/media/news/PDCCCC%202026%20-%20Tedjimo%20yomigY%20-%20Acacia.osz) |
 
 ![](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/acacia_bg.jpg)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="audio link">
+        <source src="https://assets.ppy.sh/media/news/2026-08-21-pdcccc-acacia.mp3">
     </audio>
 </div>
 
@@ -107,13 +107,13 @@ Download the beatmap template for any one of these songs, read the rules in the 
 | --: | :-- |
 | Genre | Hi-Tech Hardcore |
 | Illustrator | [hourius](https://osu.ppy.sh/users/12580298) |
-| Download | [Beatmap template (2:34 / 170 BPM)](template link) |
+| Download | [Beatmap template (2:34 / 170 BPM)](https://assets.ppy.sh/media/news/PDCCCC%202026%20-%20V0iD%20-%20Syabaritious%20Sensoriam.osz) |
 
 ![](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/v0id_bg.jpg)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="audio link">
+        <source src="https://assets.ppy.sh/media/news/2026-08-21-pdcccc-syabaritious-sensoriam.mp3">
     </audio>
 </div>
 
