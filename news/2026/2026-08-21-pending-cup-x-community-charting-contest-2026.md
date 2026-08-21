@@ -68,7 +68,13 @@ Download the beatmap template for any one of these songs, read the rules in the 
     </audio>
 </div>
 
-Noctua by siraph is a slow-burning piece that rewards mappers who think in texture rather than density. Running at 166 BPM in an uncommon 6/4, the track builds its momentum from a wide, unhurried pulse before pulling the ground from under you with a 5/4 interlude at its midpoint. This metric reset turns the familiar melody into something quietly disorienting, offering a rare opportunity for rhythmic reinterpretation before switching right back to the groove. Annabel's vocals float above the arrangement with the restrained melancholy she's known for, tracing imagery of night, flight, and half-remembered warmth, while the instrumental swells and recedes beneath her in long, deliberate arcs. The result is a track that invites patience, emphasising phrasing over spam and catching the emotional moments of the song. If you are a mapper drawn to atmosphere, unconventional time signatures, and the challenge of making restraint feel expressive, Noctua is waiting for you. *— seros*
+> Noctua by siraph is a slow-burning piece that rewards mappers who think in texture rather than density. Running at 166 BPM in an uncommon 6/4, the track builds its momentum from a wide, unhurried pulse before pulling the ground from under you with a 5/4 interlude at its midpoint. This metric reset turns the familiar melody into something quietly disorienting, offering a rare opportunity for rhythmic reinterpretation before switching right back to the groove.
+>
+> [Annabel's](https://osu.ppy.sh/beatmaps/artists/234) vocals float above the arrangement with the restrained melancholy she's known for, tracing imagery of night, flight, and half-remembered warmth, while the instrumental swells and recedes beneath her in long, deliberate arcs. The result is a track that invites patience, emphasising phrasing over spam and catching the emotional moments of the song.
+>
+> If you are a mapper drawn to atmosphere, unconventional time signatures, and the challenge of making restraint feel expressive, Noctua is waiting for you.
+
+*— seros*
 
 ### Track 2
 
@@ -85,7 +91,13 @@ Noctua by siraph is a slow-burning piece that rewards mappers who think in textu
     </audio>
 </div>
 
-Acacia by Tedjimo yomigY is a typical jazz song that you would expect from this artist. With a mid-tempo groove at 178 BPM, this song has some quite memorable sections, such as the opening piano main melody, which makes multiple recapitulations throughout the song. After the midpoint, the frequent and intense transitions between different percussions, along with the constantly shifting instruments that shape the melody, are also sure to excite rhythm game enthusiasts. It is also worth mentioning that the whole song, nearly everywhere, gives a strong vibe of fluctuation, driven by its unorthodox rhythm structures and the complex combinations of various musical elements, leaving tremendous room for the mappers to explore creative layerings. Whether you are a jazz lover or a mapper skilled at refining the main body from numerous elements, this song will be a good chance! *— gzdongsheng*
+> Acacia by Tedjimo yomigY is a typical jazz song that you would expect from this artist. With a mid-tempo groove at 178 BPM, this song has some quite memorable sections, such as the opening piano main melody, which makes multiple recapitulations throughout the song. After the midpoint, the frequent and intense transitions between different percussions, along with the constantly shifting instruments that shape the melody, are also sure to excite rhythm game enthusiasts.
+>
+> It is also worth mentioning that the whole song, nearly everywhere, gives a strong vibe of fluctuation, driven by its unorthodox rhythm structures and the complex combinations of various musical elements, leaving tremendous room for the mappers to explore creative layerings.
+>
+> Whether you are a jazz lover or a mapper skilled at refining the main body from numerous elements, this song will be a good chance!
+
+*— gzdongsheng*
 
 ### Track 3
 
@@ -102,7 +114,11 @@ Acacia by Tedjimo yomigY is a typical jazz song that you would expect from this 
     </audio>
 </div>
 
-V0iD's Syabaritious Sensoriam is an absolute auditory feast you simply cannot miss, packed with endless variations and distinct flavours at a blistering 170 BPM. The atmospheric yet chaotic vibes of the intro and outro perfectly contrast with the rhythmic groove and dynamic flow brought by the diverse sound decorations in the main body, creating a track rich in layered details and massive mapping potential. The occasional rhythmic shifts and the standout piano melody in the climax infuse this seemingly conventional structure with unconventional energy. If you are a mapper who loves to showcase your unique style and technical skills, and possesses a nuanced understanding of various musical elements, this track will be your perfect canvas. *— Breakrio*
+> V0iD's Syabaritious Sensoriam is an absolute auditory feast you simply cannot miss, packed with endless variations and distinct flavours at a blistering 170 BPM. The atmospheric yet chaotic vibes of the intro and outro perfectly contrast with the rhythmic groove and dynamic flow brought by the diverse sound decorations in the main body, creating a track rich in layered details and massive mapping potential. The occasional rhythmic shifts and the standout piano melody in the climax infuse this seemingly conventional structure with unconventional energy.
+>
+> If you are a mapper who loves to showcase your unique style and technical skills, and possesses a nuanced understanding of various musical elements, this track will be your perfect canvas.
+
+*— Breakrio*
 
 ## ![Prizes](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/prizes_banner.jpg) {#prizes}
 
