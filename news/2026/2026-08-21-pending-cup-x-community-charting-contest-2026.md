@@ -43,6 +43,12 @@ Read on for all the info. For our Chinese contestants: [点击此处查看中文
 
 ## ![Songs](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/songs_banner.jpg) {#songs}
 
+<style>
+    .osu-md--news .audio-player {
+        max-width: inherit;
+    }
+</style>
+
 This year, we've gone all out and are bringing in 3 custom songs, each by a renowned artist. Instead of having three different categories like previous Pending Cup formats, this year we are categorising by track only.
 
 Download the beatmap template for any one of these songs, read the rules in the [forum](https://osu.ppy.sh/community/forums/topics/2233835?n=1), then start mapping!
