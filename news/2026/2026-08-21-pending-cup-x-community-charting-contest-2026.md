@@ -11,7 +11,7 @@ It's been a year loaded with beatmapping contests, but brace yourselves for yet 
 
 The longest-running annual beatmapping contest, Pending Cup, and the newly rebranded Community Charting Contest are collaborating to bring you one of the biggest contests ever! 
 
-**This year, it’s an all-custom song contest!**
+**This year, it's a contest with all original songs!**
 
 Participants get to pick one of 3 songs and submit an osu! or osu! mania mode difficulty to compete to be the best.
 
