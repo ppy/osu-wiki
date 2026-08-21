@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pending Cup × Community Charting Contest 2026
-date: 2026-08-21 12:00:00 +0000
+date: 2026-08-21 12:30:00 +0000
 series: community_contests
 ---
 
@@ -141,8 +141,8 @@ Feel free to join our [Discord server](https://discord.com/invite/VZQGhwYvJ5) to
 
 - [Forum Post](https://osu.ppy.sh/community/forums/topics/2233835?n=1)
 - [中文版主题](https://osu.ppy.sh/community/forums/topics/2233834?n=1)
-- [osu! Contest listing](https://osu.ppy.sh/community/contests/288)
-- [osu!mania Contest listing](https://osu.ppy.sh/community/contests/289)
+- [osu! contest listing](https://osu.ppy.sh/community/contests/288)
+- [osu!mania contest listing](https://osu.ppy.sh/community/contests/289)
 
 Thank you to all our sponsors and supporters, and good luck mapping!
 
