@@ -55,9 +55,9 @@ Download the beatmap template for any one of these songs, read the rules in the 
 
 ### siraph - Noctua
 
-|  |  |
-| --: | :-- |
 | Genre | J-Rock |
+| --: | :-- |
+| Illustrator | siraph |
 | Download | [Beatmap template (4:04 / 166 BPM)](template link) |
 
 ![](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/noctua_bg.jpg)
@@ -78,9 +78,9 @@ Download the beatmap template for any one of these songs, read the rules in the 
 
 ### [Tedjimo yomigY](https://osu.ppy.sh/beatmaps/artists/223) - Acacia
 
-|  |  |
-| --: | :-- |
 | Genre | Jazz |
+| --: | :-- |
+| Illustrator | [Arushii](https://osu.ppy.sh/users/15664628) |
 | Download | [Beatmap template (2:36 / 178 BPM)](template link) |
 
 ![](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/acacia_bg.jpg)
@@ -101,9 +101,9 @@ Download the beatmap template for any one of these songs, read the rules in the 
 
 ### V0iD - Syabaritious Sensoriam
 
-|  |  |
-| --: | :-- |
 | Genre | Hi-Tech Hardcore |
+| --: | :-- |
+| Illustrator | [hourius](https://osu.ppy.sh/users/12580298) |
 | Download | [Beatmap template (2:34 / 170 BPM)](template link) |
 
 ![](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/v0id_bg.jpg)
