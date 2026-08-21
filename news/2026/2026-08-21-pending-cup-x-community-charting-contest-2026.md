@@ -72,7 +72,7 @@ Noctua by siraph is a slow-burning piece that rewards mappers who think in textu
 
 ### Track 2
 
-| Song | Tedjimo yomigY - Acacia |
+| Song | [Tedjimo yomigY](https://osu.ppy.sh/beatmaps/artists/223) - Acacia |
 | --: | :-- |
 | Genre | Jazz |
 | Download | [Beatmap template (2:36 / 178 BPM)](template link) |
