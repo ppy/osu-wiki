@@ -13,7 +13,7 @@ The longest-running annual beatmapping contest, Pending Cup, and the newly rebra
 
 Participants get to pick one of 3 songs and submit an osu! or osu! mania mode difficulty to compete to be the best.
 
----
+![](wiki/Contests/PDC/2026/main_banner.png)
 
 Stemming from the same roots and vision, Pending Cup and Community Charting Contest both began as contests within the Chinese community and have since expanded to welcome participants from across the globe. 
 
