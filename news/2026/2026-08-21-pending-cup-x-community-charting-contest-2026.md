@@ -52,7 +52,7 @@ Download the beatmap template for any one of these songs, read the rules in the 
 | Genre | J-Rock |
 | Download | [Beatmap template (4:04 / 166 BPM)](template link) |
 
-![](wiki/Contests/PDC/2026/noctua bg.jpg)
+![](wiki/Contests/PDC/2026/noctua_bg.jpg)
 <div class="osu-md__paragraph">
     <audio controls>
         <source src="audio link">
@@ -68,14 +68,14 @@ Noctua by siraph is a slow-burning piece that rewards mappers who think in textu
 | Genre | Jazz |
 | Download | [Beatmap template (2:36 / 178 BPM)](template link) |
 
-![](wiki/Contests/PDC/2026/acacia bg.jpg)
+![](wiki/Contests/PDC/2026/acacia_bg.jpg)
 <div class="osu-md__paragraph">
     <audio controls>
         <source src="audio link">
     </audio>
 </div>
 
-Acacia by Tedjimo yomigY is a typical jazz song that you would expect from this artist. With mid-tempo groove at 178 BPM, this song has some quite memorable sections, such as the opening piano main-theme melody, which makes mutiple recapitulations throughout the song. After the midpoint, the frequent and intense transitions between different percussions, along with the constantly shifting instruments that shape the melody, are also sure to excite rhythm game enthusiasts. It is also worth mentioning that the whole song - nearly everywhere, gives a strong vibe of fluctuating, driven by its unorthndox thythm structures and the complex combinations of various musical elements, leaving tremendous room for the mappers to explore creative layerings. Whether you are a jazz lover, or a mapper skilled at refining main body from numerous elements, this song will be your good chance! *— gzdongsheng*
+Acacia by Tedjimo yomigY is a typical jazz song that you would expect from this artist. With a mid-tempo groove at 178 BPM, this song has some quite memorable sections, such as the opening piano main melody, which makes multiple recapitulations throughout the song. After the midpoint, the frequent and intense transitions between different percussions, along with the constantly shifting instruments that shape the melody, are also sure to excite rhythm game enthusiasts. It is also worth mentioning that the whole song, nearly everywhere, gives a strong vibe of fluctuation, driven by its unorthodox rhythm structures and the complex combinations of various musical elements, leaving tremendous room for the mappers to explore creative layerings. Whether you are a jazz lover or a mapper skilled at refining the main body from numerous elements, this song will be a good chance! *— gzdongsheng*
 
 
 ### Track 3
@@ -85,7 +85,7 @@ Acacia by Tedjimo yomigY is a typical jazz song that you would expect from this 
 | Genre | Hi-Tech Hardcore |
 | Download | [Beatmap template (2:34 / 170 BPM)](template link) |
 
-![](wiki/Contests/PDC/2026/v0id bg.jpg)
+![](wiki/Contests/PDC/2026/v0id_bg.jpg)
 <div class="osu-md__paragraph">
     <audio controls>
         <source src="audio link">
