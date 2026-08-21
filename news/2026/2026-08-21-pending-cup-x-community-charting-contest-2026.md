@@ -118,7 +118,7 @@ Cash prizes will be distributed to participants who achieve the top 3 in each tr
 
 ---
 
-Feel free to join our [Discord server](https://discord.gg/VZQGhwYvJ5) to receive news and future updates. For detailed rules and information, please refer to the following:
+Feel free to join our [Discord server](https://discord.com/invite/VZQGhwYvJ5) to receive news and future updates. For detailed rules and information, please refer to the following:
 
 - [Forum Post](https://osu.ppy.sh/community/forums/topics/2233835?n=1)
 - [中文版主题](https://osu.ppy.sh/community/forums/topics/2233834?n=1)
