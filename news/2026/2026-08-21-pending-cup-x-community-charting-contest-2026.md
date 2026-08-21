@@ -118,7 +118,7 @@ Download the beatmap template for any one of these songs, read the rules in the 
 >
 > If you are a mapper who loves to showcase your unique style and technical skills, and possesses a nuanced understanding of various musical elements, this track will be your perfect canvas.
 
-*— Breakrio*
+—Breakrio
 
 ## ![Prizes](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/prizes_banner.jpg) {#prizes}
 
