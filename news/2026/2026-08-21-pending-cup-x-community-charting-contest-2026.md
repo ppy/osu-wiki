@@ -97,7 +97,7 @@ Download the beatmap template for any one of these songs, read the rules in the 
 >
 > Whether you are a jazz lover or a mapper skilled at refining the main body from numerous elements, this song will be a good chance!
 
-*— gzdongsheng*
+—gzdongsheng
 
 ### V0iD - Syabaritious Sensoriam
 
