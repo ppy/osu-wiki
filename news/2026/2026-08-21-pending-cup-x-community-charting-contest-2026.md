@@ -99,9 +99,9 @@ Download the beatmap template for any one of these songs, read the rules in the 
 
 *— gzdongsheng*
 
-### Track 3
+### V0iD - Syabaritious Sensoriam
 
-| Song | V0iD - Syabaritious Sensoriam |
+|  |  |
 | --: | :-- |
 | Genre | Hi-Tech Hardcore |
 | Download | [Beatmap template (2:34 / 170 BPM)](template link) |
