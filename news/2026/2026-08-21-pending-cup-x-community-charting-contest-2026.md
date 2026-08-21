@@ -5,7 +5,7 @@ date: 2026-08-21 12:00:00 +0000
 series: community_contests
 ---
 
-It's been a year loaded with beatmapping contests, but brace yourselves for yet another one! *…or two?*
+It's been a year loaded with beatmapping contests, but brace yourselves for yet another one! *...or two?*
 
 ![](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/banner.jpg)
 
