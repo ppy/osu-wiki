@@ -53,9 +53,9 @@ This year, we've gone all out and are bringing in 3 custom-made songs, each by a
 
 Download the beatmap template for any one of these songs, read the rules in the [forum thread](https://osu.ppy.sh/community/forums/topics/2233835?n=1), then start mapping!
 
-### Track 1
+### siraph - Noctua
 
-| Song | siraph - Noctua |
+|  |  |
 | --: | :-- |
 | Genre | J-Rock |
 | Download | [Beatmap template (4:04 / 166 BPM)](template link) |
