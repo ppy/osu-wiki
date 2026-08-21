@@ -124,12 +124,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 
 ## Match schedule: Round of 32
 
-### Friday, 21 August 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| 2 | Vietnam ::{ flag=VN }:: | ::{ flag=PH }:: Philippines | [Aug 21 (Fri) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260821T080000&p1=1440&p2=95&p3=145) | [osulive](https://twitch.tv/osulive) |
-
 ### Saturday, 22 August 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
@@ -157,6 +151,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 | SC | Round of 16 | mappool showcase | [Aug 23 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260823T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Match results
+
+### Round of 32
+
+Friday, 21 August 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 2 | Vietnam ::{ flag=VN }:: | 2 | **5** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/121727080) | [#1](https://www.twitch.tv/videos/2852245826) |
 
 ### Qualifiers
 
