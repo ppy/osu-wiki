@@ -55,6 +55,7 @@ Download the beatmap template for any one of these songs, read the rules in the 
 | Download | [Beatmap template (4:04 / 166 BPM)](template link) |
 
 ![](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/noctua_bg.jpg)
+
 <div class="osu-md__paragraph">
     <audio controls>
         <source src="audio link">
@@ -71,6 +72,7 @@ Noctua by siraph is a slow-burning piece that rewards mappers who think in textu
 | Download | [Beatmap template (2:36 / 178 BPM)](template link) |
 
 ![](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/acacia_bg.jpg)
+
 <div class="osu-md__paragraph">
     <audio controls>
         <source src="audio link">
@@ -88,6 +90,7 @@ Acacia by Tedjimo yomigY is a typical jazz song that you would expect from this 
 | Download | [Beatmap template (2:34 / 170 BPM)](template link) |
 
 ![](/wiki/shared/news/2026-08-21-pending-cup-x-community-charting-contest-2026/v0id_bg.jpg)
+
 <div class="osu-md__paragraph">
     <audio controls>
         <source src="audio link">
