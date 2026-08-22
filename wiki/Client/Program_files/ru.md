@@ -1,3 +1,8 @@
+---
+outdated_since: 3f39529f59e62379f36b04560cbe6eab1276e1db
+outdated_translation: true
+---
+
 # Программные файлы osu!
 
 ::: alert-note

@@ -1,3 +1,8 @@
+---
+outdated_since: 3f39529f59e62379f36b04560cbe6eab1276e1db
+outdated_translation: true
+---
+
 # osu! 目录文件
 
 ![在资源管理器下的 osu! 目录文件](img/osu!-program-files.png "在资源管理器下的 osu! 目录文件")
