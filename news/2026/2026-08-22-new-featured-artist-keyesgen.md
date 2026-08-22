@@ -5,13 +5,13 @@ date: 2026-08-22 17:00:00 +0000
 series: featured_artists
 ---
 
-No keygen is required to download `.osz` files. All you need is appreciation for **keyesgen**, our newest Featured Artist!
+You can't escape from listening to our newest Featured Artist **keyesgen**.
 
 ![](https://assets.ppy.sh/artists/558/header.jpg)
 
 **keyesgen** thrives in indie production circles with his takes on hyperpop and experimental Vocaloid. Blending glitchy soundscapes with EDM and pop, he's been pouring the inner workings of his mind into music since 2022. 
 
-From album collaborations to designing his own UTAU, **keyesgen** is exploring all the nooks and crannies in his own niche of the internet. That niche of the internet may or may not overlap with our circle clicking game, so you can connect the dots.
+From album collaborations to designing his own UTAU, **keyesgen** is exploring all the nooks and crannies in his own niche of the internet. That niche of the internet may or may not overlap with our circle clicking game, so... you can connect the dots.
 
 A hefty **22** pre-timed songs are up for grabs on [**keyesgen**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/558)! Listen to some song previews and start mapping whichever songs you enjoy. It's not our fault if that ends up being all 22 songs.
 
