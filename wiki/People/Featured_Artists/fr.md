@@ -101,6 +101,7 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ::{ flag=US }:: [Kardashevband](https://osu.ppy.sh/users/33736126) | (membre de) [Kardashev](https://osu.ppy.sh/beatmaps/artists/375) |
 | ::{ flag=ES }:: [KeybladeMaster](https://osu.ppy.sh/users/5926683) | [xiiiac13](https://osu.ppy.sh/beatmaps/artists/423) |
+| ::{ flag=CA }:: [keyesgen](https://osu.ppy.sh/users/13278140) | [keyesgen](https://osu.ppy.sh/beatmaps/artists/558) |
 | ::{ flag=US }:: [kikoyu](https://osu.ppy.sh/users/10825836) | [kikoyu](https://osu.ppy.sh/beatmaps/artists/497) |
 | ::{ flag=DE }:: [KIRA\_old\_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ::{ flag=JP }:: [kissssy](https://osu.ppy.sh/users/40014064) | (membre de) [Adust Rain](https://osu.ppy.sh/beatmaps/artists/548) |
