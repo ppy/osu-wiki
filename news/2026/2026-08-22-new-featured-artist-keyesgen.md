@@ -55,7 +55,7 @@ This song was made specifically for the 10th anniversary of *HATSUNE MIKU EXPO*,
 
 The voices in your head are telling you to go to [**keyesgen**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/558), download a beatmap template, then create a map. If you don't hear the voices, you aren't listening hard enough.
 
-Next weekend's Featured Artist announcement might be a bit late. No spoilers here, but you might want to watch a certain mappool showcase next weekend.
+Next weekend, those same voices may or may not tell you to return here for a new Featured Artist reveal.
 
 Stay tuned.
 
