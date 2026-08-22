@@ -1,6 +1,8 @@
 # osu! program files
 
 ::: alert-note
+**In osu!(lazer):** [File storage in osu!lazer](/wiki/Client/Release_stream/Lazer/File_storage)
+
 **See also:** [osu! File Formats](/wiki/Client/File_formats)
 :::
 
