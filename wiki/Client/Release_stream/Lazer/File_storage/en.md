@@ -1,7 +1,7 @@
 # File storage in osu!(lazer)
 
 ::: alert-note
-**In osu!(stable):** [osu!(stable) program files](/wiki/Client/File_formats)
+**Note:** For the osu!stable version of this article, see [osu!(stable) program files](/wiki/Client/File_formats)
 :::
 
 By default, osu!(lazer) stores user files in the following directories:
