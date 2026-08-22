@@ -29,15 +29,13 @@ This section categorizes all files found in the root of osu!(lazer)'s storage di
 
 `input.json` stores settings related to input methods like tablet area, mouse sensitivity, and tablet rotation.
 
-If these files are deleted, osu!(lazer) will redo first-run setup, or regenerate the default versions; a way to do this without losing any settings is to re-run first-run setup through the options menu.
+It is safe to delete these files if the user would like to reset all configuration.
 
-### Database (`client.realm`, `client.realm.lock`, `client.realm.note`)
+### Database (`client.realm`)
 
 The `client.realm` file contains a [Realm database](https://en.wikipedia.org/wiki/Realm_(database)) which stores mappings to files located in the `files` directory, local scores, and more. 
 
 `client.realm` is an important file, and if it is deleted or lost, **osu!(lazer) will lose all user data, including beatmaps and skins.**
-
-`client.realm.lock` and `client.realm.note` are created by Realm and should not be deleted.
 
 ### Others
 
@@ -96,10 +94,6 @@ The `rulesets` folder contains all imported custom osu!(lazer) rulesets. This fo
 ### Screenshots (`screenshots/`)
 
 The `screenshots` folder contains all screenshots created in game (default key: F12). This folder is safe to delete if the user is deleting all screenshots.
-
-### Others
-
-The `client.realm.management` folder may appear as a byproduct of the Realm database, and should not be deleted while the game is running. 
 
 ## Migration from osu!(stable)
 
