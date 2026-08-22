@@ -2,8 +2,6 @@
 stub: true
 tags:
   - FR
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Freeze Frame (mod)
@@ -32,5 +30,9 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+El mod **Freeze Frame** hace que todos los [objetos](/wiki/Gameplay/Hit_object) de un [combo](/wiki/Beatmapping/Combo) aparezcan simultáneamente (es decir, tan pronto como aparezca el primer objeto de ese combo).
+
+**Este mod no se puede personalizar.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

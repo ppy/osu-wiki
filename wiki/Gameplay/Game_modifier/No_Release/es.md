@@ -2,8 +2,6 @@
 stub: true
 tags:
   - NR
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # No Release (mod)
@@ -33,5 +31,9 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+El mod **No Release** elimina la penalización de [precisión](/wiki/Gameplay/Accuracy) cuando se suelta una tecla al final de una [nota larga](/wiki/Beatmap/Pattern/osu!mania/Hold_note) demasiado tarde.
+
+**Este mod no se puede personalizar.**
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
