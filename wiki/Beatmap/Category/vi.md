@@ -2,7 +2,7 @@
 
 Các [beatmap](/wiki/Beatmap) được gửi trực tuyến sẽ được chia thành nhiều danh mục dựa trên hoạt động gần đây, trạng thái [đề cử](/wiki/Beatmap_ranking_procedure#qualification) và mức độ phổ biến của chúng.
 
-## Các danh mục hiện tại
+## Những danh mục hiện tại
 
 ### Đắp mộ {id=graveyard}
 
@@ -36,9 +36,9 @@ Một khi beatmap đã đạt trạng thái Được xếp hạng, trạng thái
 
 *Để xem lịch sử của danh mục Được yêu mến, xem: [Lịch sử Loved](/wiki/History_of_osu!/History_of_Loved)*
 
-Beatmap được yêu mến có thể không đáp ứng [tiêu chí xếp hạng](/wiki/Ranking_criteria), nhưng được cộng đồng *êu thích* và vì vậy được thêm vào định kỳ thông qua bình chọn cộng đồng trong [Dự án Loved](/wiki/Community/Project_Loved).
+Beatmap được yêu mến có thể không đáp ứng [tiêu chí xếp hạng](/wiki/Ranking_criteria), nhưng được cộng đồng *yêu thích* và vì vậy được thêm vào định kỳ thông qua bình chọn cộng đồng trong [Dự án Loved](/wiki/Community/Project_Loved).
 
-Chúng có bảng xếp hạng, nhưng không được nhận [điểm hiệu suất](/wiki/Performance_points) và toàn bộ điểm số sẽ bị xóa nếu beatmap rời khỏi trạng thái Được yêu mến. Beatmap được yêu mến sử dụng biểu tượng trái tim (![](/wiki/shared/status/loved.png)) trong màn hình chọn bài hát.
+Chúng có bảng xếp hạng, nhưng không được nhận [điểm hiệu suất](/wiki/Performance_points) và toàn bộ điểm số sẽ bị xóa nếu beatmap rời khỏi trạng thái được yêu mến. Beatmap được yêu mến sử dụng biểu tượng trái tim (![](/wiki/shared/status/loved.png)) trong màn hình chọn bài hát.
 
 ## Lịch sử
 
@@ -46,13 +46,13 @@ Chúng có bảng xếp hạng, nhưng không được nhận [điểm hiệu su
 
 Danh mục beatmap được chấp nhận được sử dụng trong giai đoạn từ năm 2008 đến 2014 để chứa các beatmap vượt quá yêu cầu về độ dài và điểm số tối đa theo các phiên bản cũ của [tiêu chí xếp hạng](/wiki/Ranking_criteria), cũng như một số beatmap hiếm hoi vi phạm các quy định khác.
 
-Beatmap được chấp nhận không ảnh hưởng đến thứ hạng điểm số của người dùng cho đến một thời gian sau khi hệ thống chuyển từ xếp hạng theo điểm sang xếp hạng theo [điểm hiệu suất](/wiki/Performance_points). Sau thay đổi này, trạng thái Được chấp nhận chỉ được dùng cho các beatmap có [thời lượng drain](/wiki/Beatmap/Drain_time) lớn hơn 6 phút.
+Beatmap được chấp nhận không ảnh hưởng đến thứ hạng điểm số của người dùng cho đến một thời gian sau khi hệ thống chuyển từ xếp hạng theo điểm sang xếp hạng theo [điểm hiệu suất](/wiki/Performance_points). Sau thay đổi này, trạng thái được chấp nhận chỉ được dùng cho các beatmap có [thời lượng drain](/wiki/Beatmap/Drain_time) lớn hơn 6 phút.
 
 Beatmap được chấp nhận sử dụng biểu tượng dấu kiểm (![](/wiki/shared/status/approved.png)) trong màn hình chọn bài hát và hoạt động tương tự như beatmap Được xếp hạng.
 
-### Sự xuất hiện của Đủ tư cách
+### Sự xuất hiện của đủ tư cách
 
-Danh mục [đủ tư cách](#qualified) được giới thiệu vào tháng 8 năm 2014 trong đợt [tái cấu trúc BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) nhằm giúp các beatmap sắp Được xếp hạng có nhiều độ hiển thị hơn.
+Danh mục [đủ tư cách](#qualified) được giới thiệu vào tháng 8 năm 2014 trong đợt [tái cấu trúc BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) nhằm đưa vào trạng thái mới trong phân loại xếp hạng của beatmap.
 
 Nếu một beatmap trong đủ tư cách bị hủy đề cử và bị chuyển trở lại Đang chờ, điều này sẽ không ảnh hưởng đến thống kê của người chơi, vì bản thân danh mục này đã được thiết kế để các điểm số mang tính tạm thời ngay từ đầu. Điều này giúp thiết lập kỳ vọng đúng đắn và giảm đáng kể phản ứng tiêu cực của cộng đồng đối với các đợt bị hủy xếp hạng.
 
