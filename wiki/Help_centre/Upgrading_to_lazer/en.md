@@ -442,7 +442,7 @@ That said, individual scores and beatmaps can be exported from lazer and manuall
 
 Scores set on lazer will be displayed under `Pinned Scores`, `Best Performance`, `Recent Plays (24h)` and `Most Watched Replays`.
 
-In order for them to also show up in `First Place Scores`, you have to enable `Lazer mode` on the website.
+In order for them to also show in `First Place Scores`, you have to enable `Lazer mode` on the website.
 
 #### If I set a score on lazer, will it give performance points?
 
