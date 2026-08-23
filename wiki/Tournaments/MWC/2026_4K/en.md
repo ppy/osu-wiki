@@ -160,14 +160,6 @@ Saturday, 22 August 2026:
 | 10 | **Mexico** ::{ flag=MX }:: | **5** | 4 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/121736241) | [#1](https://www.twitch.tv/videos/2853605594) |
 | 9 | **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/121736931) | [#1](https://www.twitch.tv/videos/2853692212) |
 
-### Round of 32
-
-Friday, 21 August 2026:
-
-| ID | Team A |  |  | Team B | Match link | VOD link |
-| :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 2 | Vietnam ::{ flag=VN }:: | 2 | **5** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/121727080) | [#1](https://www.twitch.tv/videos/2852245826) |
-
 ### Qualifiers
 
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1QFUj4CSoqELWzCvRhrhdXzRoxCExVLnO8wjAiQILW8E?rm=minimal). Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/2848280158).
