@@ -120,13 +120,13 @@ Zusammengefasst wurde das aktuelle Perfomance-Punkte-System so konstruiert, dass
 
 ## Geschichte
 
-Die erste Einführung so einer Punktzahl wurde im April 2012 der Öffentlichkeit bekanntgegeben und war nur unter dem mysteriösen Projekt *'???'* bekannt. Das rätselhafte System hat später im Monat seinen vollen Namen bekommen.
+Die erste Einführung von Performance-Points wurde der Öffentlichkeit im April 2012 bekanntgegeben und war nur als das mysteriöse Projekt *"???"* bekannt. Das rätselhafte System hat später im Monat seinen vollen Namen bekommen.
 
-Danach bekannt als "pp" (eine Abkürzung für "performance-points"), versuchte dieses neue System, den alten Standard, der nur auf der [Gesamtpunktzahl](/wiki/Gameplay/Score) eines Spielers beruhte, zu etwas, dass die Fähigkeiten des Spielers widerspiegelt, zu verbessern. Das neue System wurde damals von den Spielern gelobt.
+Mit dem vollständigen Namen später im Monat enthüllt, versuchte dieses neue System, den alten Standard, der nur auf der [Gesamtpunktzahl](/wiki/Gameplay/Score) eines Spielers beruhte, zu etwas, dass die Fähigkeiten des Spielers widerspiegelt, zu verbessern. Das neue System wurde damals von den Spielern gelobt.
 
 Ein paar Monate nach der Enthüllung wurde es in der osu!-Version 20120722-24 offiziell eingebaut, um das alte [Ranglistenpunktesystem](/wiki/Beatmap/Category#ranked) vollständig zu ersetzen. Alle 30 Minuten wurden neue Scores berechnet. Später, im August desselben Jahres, wurde das System verbessert, sodass es die Performance-Points in Echtzeit aktualisierte.
 
-Es blieb in dieser Weise mehr als ein Jahr lang im Einsatz, bis [Tom94](https://osu.ppy.sh/users/1857058), der Ersteller des Bewertungssystems namens *osu!tp*, dem [osu!-Team](/wiki/People/osu!_team) beitrat und sein Design in das System implementierte. Das resultierende System wurde *ppv2* genannt und am 27. Januar 2014 in Betrieb genommen. Infolgedessen wurde das alte System zu *[ppv1](/wiki/Performance_points/ppv1)* umbenannt.
+Es blieb in dieser Weise mehr als ein Jahr lang im Einsatz, bis [Tom94](https://osu.ppy.sh/users/1857058), der Ersteller des Bewertungssystems namens *osu!tp*, dem [osu!-Team](/wiki/People/osu!_team) beitrat und sein Design in das System implementierte. Das resultierende System wurde *ppv2* genannt und am 27. Januar 2014 in Betrieb genommen. Infolgedessen wurde das alte System zu *[ppv1](/wiki/Performance_points/ppv1)* umbenannt. Seitdem wurde das System regelmäßig gepflegt, aber es wurden keine großen Aktualisierungen vorgenommen.
 
 Am 16. Januar 2021 wurde das ppv2-System verändert, mit dem Ziel an schwierigere Aspekte von Beatmaps eine passendere Anzahl von pp zu vergeben. Diese Veränderungen wurden größtenteils mit der Hilfe von verschiedenen Einzelpersonen, wie [Xexxar](https://osu.ppy.sh/users/2773526) und [StanR](https://osu.ppy.sh/users/7217455) vorgenommen. Die Details der Änderungen werden ausführlich erläutert im [dazugehörigen Newsbeitrag](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Die wichtigsten Punkte sind:
 
@@ -135,5 +135,21 @@ Am 16. Januar 2021 wurde das ppv2-System verändert, mit dem Ziel an schwieriger
 - Die Einführung von einem Skalierungsfaktor für den Verlust von pp bei der Benutzung der Mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out), basierend darauf wie viele Spinner in einer Beatmap sind.
 - Die Rate des Verlusts von pp wurde angepasst, um bei längeren Beatmaps mit höherer Combo nachsichtiger zu sein.
 - Kleinerer Gewinn von pp bei schlechter [Genauigkeit](/wiki/Gameplay/Accuracy).
+
+Am 28. Oktober 2024 wurden weitere Änderungen eingebaut. Die Details dieser Änderungen werden ausführlich erläutert im [dazugehörigen Newsbeitrag](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates). Die wichtigsten Punkte sind:
+
+- osu!
+  - Entfernen der Combo-Skalierung
+  - Verbesserung der Rhythmus-Komplexität
+  - Anpassung von schnellem Flow-Aim
+  - Für Scores mit Sliderhead-Genauigkeit tragen Slider nun zu den für Genauigkeit vergebenen pp bei
+- osu!taiko
+  - Berücksichtigung von TL-tapping in der Ausdauer-Komponente der Sternebewertung
+  - Anpassung der Boni von [Hidden](/wiki/Gameplay/Game_modifier/Hidden) und [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) in der Genauigkeits-Komponente der pp-Berechnung
+  - Anpassung der Genauigkeits-Skalierung
+- osu!catch
+  - Die Einführung von einem Skalierungsfaktor für den Verlust von pp bei der Benutzung der Mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail), basierend darauf wie oft verfehlt wird.
+- osu!mania
+  - Anpassung der Skalierung von LN-Werten, um zu stark gewichtete LN-Beatmaps zu korrigieren
 
 ppv2 ist aktuell im Betrieb. Updates hierzu gibt es in Form von Newsbeiträgen, die vom [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee) veröffentlicht werden, sobald neue Änderungen eingeführt werden.
