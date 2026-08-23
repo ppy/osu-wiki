@@ -59,7 +59,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Per-beatmap offset calibration | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
 | osu! sliders "snake" while dragging | ![No][false] | ![Yes][true][^can-disable] |
 | osu! player-friendly "note lock" | ![No][false] | ![Yes][true][^note-lock] |
-| osu!mania and osu! timing-based note colouring | ![No][false] | ![Yes][true] |
+| osu!, osu!catch and osu!mania timing-based note colouring | ![No][false] | ![Yes][true] |
 | Replay seeking | ![No][false] | ![Yes][true] |
 | [Niconico](https://en.wikipedia.org/wiki/Niconico)-style scrolling replay comments | ![Yes][true] | ![No][false] |
 
@@ -164,12 +164,6 @@ There are also some differences in how much score each hit object and each judge
 | Revertable using the Classic mod | ![No][false] |
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![Yes][true] |
-
-#### Storyboard triggers are not implemented
-
-Some storyboards feature elements that react to player input or health.
-
-![](img/sb-triggers.gif)
 
 ### osu!
 
@@ -315,19 +309,6 @@ In stable, drumrolls could not be hit too quickly or too slowly. This restrictio
 | Intentionally changed | ![Yes][true] |
 | Needs further consideration | ![Yes][true] |
 
-#### The Flashlight centre is aligned with the hit receptor
-
-<!-- TODO: comparison image  -->
-
-In stable, the Flashlight centre is offset a bit down and to the right, making more hit objects visible.
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | ![No][false] |
-| Revertable using the Classic mod | ![No][false] |
-| Intentionally changed | ![No][false] |
-| Needs further consideration | ![Yes][true] |
-
 ### osu!catch
 
 #### Hyperdash generation can be different in some cases
@@ -459,9 +440,9 @@ That said, individual scores and beatmaps can be exported from lazer and manuall
 
 #### If I set a score on lazer, will it show on my profile?
 
-Yes, but it won't show in "best performance" with "lazer mode" turned off on the website.
+Scores set on lazer will be displayed under `Pinned Scores`, `Best Performance`, `Recent Plays (24h)` and `Most Watched Replays`.
 
-It additionally doesn't show in "first place ranks" regardless for now.
+In order for them to also show up in `First Place Scores`, you have to enable `Lazer mode` on the website.
 
 #### If I set a score on lazer, will it give performance points?
 
