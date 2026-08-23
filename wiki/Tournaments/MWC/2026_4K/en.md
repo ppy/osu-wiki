@@ -79,7 +79,7 @@ The osu!mania 4K World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team
 | ::{ flag=CZ }:: | **Czechia** | **[grillroasted](https://osu.ppy.sh/users/18271627)**, [Addaamm007](https://osu.ppy.sh/users/19126992), [aeko](https://osu.ppy.sh/users/16665306), [Domajnyk Pear](https://osu.ppy.sh/users/13941662), [Kopie115](https://osu.ppy.sh/users/11353046) |
 | ::{ flag=DK }:: | **Denmark** | **[Fejse](https://osu.ppy.sh/users/15584916)**, [wlim](https://osu.ppy.sh/users/18609932), [Luminary-](https://osu.ppy.sh/users/16738047), [JustEmilo](https://osu.ppy.sh/users/35107790), [Pyrin](https://osu.ppy.sh/users/35484832), [SadWrist](https://osu.ppy.sh/users/18394016) |
 | ::{ flag=DO }:: | **Dominican Republic** | **[\[GS\]Antonio](https://osu.ppy.sh/users/21599285)**, [Soyar](https://osu.ppy.sh/users/22524841), [zwhy135](https://osu.ppy.sh/users/33173032), [Doolanterisco](https://osu.ppy.sh/users/35497049), [YumaxD](https://osu.ppy.sh/users/27386890) |
-| ::{ flag=FI }:: | **Finland** | **[Strachy](https://osu.ppy.sh/users/9663200)**, [Illya](https://osu.ppy.sh/users/10393606), [KullaiPora](https://osu.ppy.sh/users/31956722), [Tomskuu](https://osu.ppy.sh/users/14943370), [Fireable](https://osu.ppy.sh/users/12624280), [VituMulkku](https://osu.ppy.sh/users/28253425) |
+| ::{ flag=FI }:: | **Finland** | **[Strachy](https://osu.ppy.sh/users/9663200)**, [Illya](https://osu.ppy.sh/users/10393606), [KullaiPora](https://osu.ppy.sh/users/31956722), [Tomskuu](https://osu.ppy.sh/users/14943370), [Fireable](https://osu.ppy.sh/users/12624280), [WaheHh](https://osu.ppy.sh/users/28253425) |
 | ::{ flag=FR }:: | **France** | **[DarkMew2](https://osu.ppy.sh/users/13921965)**, [flowerful](https://osu.ppy.sh/users/18867523), [\[RUE\]Jeunios](https://osu.ppy.sh/users/17089357), [- Stay -](https://osu.ppy.sh/users/19910862), [Jerem\[Monkey\]](https://osu.ppy.sh/users/13431947), [Lyscence](https://osu.ppy.sh/users/14956617) |
 | ::{ flag=DE }:: | **Germany** | **[Cyaewin](https://osu.ppy.sh/users/10027302)**, [CurrenChan](https://osu.ppy.sh/users/14160917), [Lotex09](https://osu.ppy.sh/users/14114899), [Ylderuem](https://osu.ppy.sh/users/34902541), [Spongybit](https://osu.ppy.sh/users/25531456), [F1Shie](https://osu.ppy.sh/users/27015318) |
 | ::{ flag=GT }:: | **Guatemala** | **[Maxtulini](https://osu.ppy.sh/users/25345980)**, [\[Crz\]Miyako](https://osu.ppy.sh/users/32374576), [hoshiteru](https://osu.ppy.sh/users/15683009), [Lewiss-](https://osu.ppy.sh/users/22585752) |
@@ -289,7 +289,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
   2. [Natsume Chiaki - Hanairo Biyori (Cut Ver.) (Yuiesta) \[Spring\]](https://osu.ppy.sh/beatmapsets/2604473#mania/5825939)
   3. [dark cat - ELINE (Toaph Daddy) \[ECHOES (LN-Edit)\]](https://osu.ppy.sh/beatmapsets/2211538#mania/5826013)
 - Tiebreaker
-  1. **[Christian McBride Trio - Cherokee (Live) (Cut Ver.) (-mint-) \[American Express 1.1x\]](https://osu.ppy.sh/beatmapsets/2604501#mania/5826029)**
+  1. **[Ashrount & polysha - ARCADEA (Hytex) \[CHRONOS\]](https://osu.ppy.sh/beatmapsets/2608631#mania/5840035)**
 
 ### Qualifiers
 
