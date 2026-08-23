@@ -8,7 +8,7 @@ Tworzenie skórek to jedna z głównych funkcji w osu!, która umożliwia zamian
 **Strona główna**: [Zestawy elementów skórek](/wiki/Ranking_criteria/Skin_set_list)
 :::
 
-**Ta sekcja odnosi się tylko do beatmap.** Jeżeli twoja beatmapa zawiera pojedynczy element jednego z zestawów wypisanych w [kryteriach rankingowania](/wiki/Ranking_criteria), to musi zawierać również każdy element z tego zestawu. Tyczy się to jedynie skórek zawartych w beatmapach, jednak zaleca się, aby twórcy skórek również przestrzegali tej zasady dla zachowania integralności swojej skórki.
+**Ta sekcja odnosi się tylko do beatmap.** Jeżeli twoja beatmapa zawiera pojedynczy element jednego z zestawów wypisanych w [kryteriach rankingowych](/wiki/Ranking_criteria), to musi zawierać również każdy element z tego zestawu. Tyczy się to jedynie skórek zawartych w beatmapach, jednak zaleca się, aby twórcy skórek również przestrzegali tej zasady w celu zachowania integralności skórki.
 
 ## Elementy skórek
 
