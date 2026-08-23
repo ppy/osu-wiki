@@ -18,13 +18,13 @@ tags:
 *Để xem hướng dẫn thiết lập timing, xem: [Cách timing bài hát](/wiki/Guides/How_to_time_songs)*\
 *Xem thêm: [Beatmapping/Timing](/wiki/Beatmapping/Timing)*
 
-**Timing** là tab trong [beatmap editor](/wiki/Client/Beatmap_editor) dùng để thay đổi và thiết lập timing của một [beatmap](/wiki/Beatmap), điều này là thiết yếu để thể hiện bài hát một cách chính xác. Tab này chứa các cài đặt và công cụ liên quan đến timing, đồng thời có một [cửa sổ riêng](#bảng-thiết-lập-timing) để làm việc với nhiều [điểm căn nhịp](#điểm-căn-nhịp), phục vụ cả mục đích thể hiện cấu trúc âm nhạc lẫn thiết kế beatmap.
+**Timing** là tab trong [beatmap editor](/wiki/Client/Beatmap_editor) dùng để thay đổi và thiết lập timing của một [beatmap](/wiki/Beatmap), điều này là thiết yếu để thể hiện bài hát một cách chính xác. Tab này chứa các cài đặt và công cụ liên quan đến căn nhịp trong bài hát, đồng thời có một [cửa sổ riêng](#bảng-thiết-lập-timing) để làm việc với nhiều [điểm căn nhịp](#điểm-căn-nhịp), phục vụ cả mục đích thể hiện cấu trúc âm nhạc lẫn thiết kế beatmap.
 
 ## Điểm căn nhịp
 
 *Xem thêm: [Offset](/wiki/Offset)*
 
-Trong [mapping](/wiki/Beatmapping), một *điểm căn nhịp*, thường được gọi là *offset*, là một cách để áp dụng các thiết lập chung như [timing](/wiki/Beatmapping/Timing), hệ số [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), hoặc [hitsound](/wiki/Beatmapping/Hitsound) và âm lượng tương ứng của chúng, cho một đoạn cụ thể trong beatmap. Trong osu!, có hai loại điểm căn nhịp.
+Trong [mapping](/wiki/Beatmapping), một *điểm căn nhịp*, thường được gọi là *offset*, là một cách để áp dụng các thiết lập chung như [timing](/wiki/Beatmapping/Timing), hệ số [tốc độ slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), hoặc [hitsound](/wiki/Beatmapping/Hitsound) và âm lượng tương ứng của chúng, cho một đoạn cụ thể trong beatmap. Trong osu!, có hai loại điểm căn nhịp.
 
 ### Điểm căn nhịp không kế thừa
 
@@ -32,11 +32,11 @@ Trong [mapping](/wiki/Beatmapping), một *điểm căn nhịp*, thường đư�
 ![](img/uninherited-points.png "Một số điểm căn nhịp không kế thừa nằm trong bảng thiết lập timing")
 :::
 
-Một điểm căn nhịp **không kế thừa** có các thiết lập timing riêng của nó. Nhiều điểm căn nhịp kiểu này được dùng để thể hiện các thay đổi timing trong bài hát, chẳng hạn như [nhịp điệu](/wiki/Music_theory/Tempo), nhịp không đều, hoặc các [thời gian signature](/wiki/Music_theory/Time_signature) khác nhau. Việc thêm một điểm căn nhịp không kế thừa mới sẽ khôi phục metronome, khiến nó đếm nhịp từ offset của điểm căn nhịp đó, được xác định bằng mili giây.
+Một điểm căn nhịp **không kế thừa** có các thiết lập căn nhịp riêng của nó. Nhiều điểm căn nhịp kiểu này được dùng để thể hiện các thay đổi timing trong bài hát, chẳng hạn như [nhịp điệu](/wiki/Music_theory/Tempo), nhịp không đều, hoặc các [thời gian signature](/wiki/Music_theory/Time_signature) khác nhau. Việc thêm một điểm căn nhịp không kế thừa mới sẽ khôi phục metronome, khiến nó đếm nhịp từ offset của điểm căn nhịp đó, được xác định bằng mili giây.
 
 Ngoài ra, điểm căn nhịp không kế thừa còn có thể được dùng để bỏ các vạch ô nhịp trong [osu!taiko](/wiki/Game_mode/osu!taiko) hoặc [osu!mania](/wiki/Game_mode/osu!mania).
 
-Điểm căn nhịp không kế thừa có màu đỏ trên timeline phía dưới và trong [bảng thiết lập timing](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "red offset" hoặc "red line".
+Điểm căn nhịp không kế thừa có màu đỏ trên timeline phía dưới và trong [bảng thiết lập timing](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "offset đỏ" hoặc "dòng đỏ".
 
 ### Điểm căn nhịp kế thừa
 
@@ -44,9 +44,9 @@ Ngoài ra, điểm căn nhịp không kế thừa còn có thể được dùng 
 ![](img/inherited-points.png "Một số điểm căn nhịp kế thừa với các hệ số slider velocity, âm lượng và thiết lập kiai khác nhau")
 :::
 
-Một điểm căn nhịp **kế thừa**  sử dụng các thiết lập timing đang hoạt động, *kế thừa* chúng từ điểm căn trước đó. Điểm căn nhịp kế thừa được dùng cho các mục đích sau:
+Một điểm căn nhịp **kế thừa** sử dụng các thiết lập căn nhịp đang hoạt động, *kế thừa* chúng từ điểm căn trước đó. Điểm căn nhịp kế thừa được dùng cho các mục đích sau:
 
-- Thay đổi [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)
+- Thay đổi [tốc độ slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)
 - Điều chỉnh âm lượng của [hitsound](/wiki/Beatmapping/Hitsound)
 - Chuyển đổi [sampleset](/wiki/Beatmapping/Sampleset) của hitsound đang hoạt động
 - Bật hoặc tắt [thời gian kiai](/wiki/Gameplay/Kiai_time)
