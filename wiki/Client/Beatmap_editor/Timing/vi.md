@@ -24,7 +24,7 @@ tags:
 
 *Xem thêm: [Offset](/wiki/Offset)*
 
-Trong [mapping](/wiki/Beatmapping), một *timing*, thường được gọi là *offset*, là một cách để áp dụng các thiết lập chung như [timing](/wiki/Beatmapping/Timing), hệ số [tốc độ slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), hoặc [hitsound](/wiki/Beatmapping/Hitsound) và âm lượng tương ứng của chúng, cho một đoạn cụ thể trong beatmap. Trong osu!, có hai loại điểm timing.
+Trong [mapping](/wiki/Beatmapping), một *timing*, thường được gọi là *offset*, là một cách để áp dụng các thiết lập chung như [timing](/wiki/Beatmapping/Timing), hệ số [tốc độ thanh trượt](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), hoặc [hitsound](/wiki/Beatmapping/Hitsound) và âm lượng tương ứng của chúng, cho một đoạn cụ thể trong beatmap. Trong osu!, có hai loại điểm timing.
 
 ### Điểm timing không kế thừa
 
@@ -32,7 +32,7 @@ Trong [mapping](/wiki/Beatmapping), một *timing*, thường được gọi là
 ![](img/uninherited-points.png "Một số điểm timing không kế thừa nằm trong bảng thiết lập timing")
 :::
 
-Một điểm timing **không kế thừa** có các thiết lập timing riêng của nó. Nhiều điểm timing kiểu này được dùng để thể hiện các thay đổi timing trong bài hát, chẳng hạn như [nhịp điệu](/wiki/Music_theory/Tempo), nhịp không đều, hoặc các [thời gian signature](/wiki/Music_theory/Time_signature) khác nhau. Việc thêm một điểm timing không kế thừa mới sẽ khôi phục metronome, khiến nó đếm nhịp từ offset của điểm timing đó, được xác định bằng mili giây.
+Một điểm timing **không kế thừa** có các thiết lập timing riêng của nó. Nhiều điểm timing kiểu này được dùng để thể hiện các thay đổi timing trong bài hát, chẳng hạn như [nhịp điệu](/wiki/Music_theory/Tempo), nhịp không đều, hoặc các [số chỉ nhịp](/wiki/Music_theory/Time_signature) khác nhau. Việc thêm một điểm timing không kế thừa mới sẽ đặt lại bộ đếm nhịp, khiến nó đếm nhịp từ offset của điểm timing đó, được xác định bằng mili giây.
 
 Ngoài ra, điểm timing không kế thừa còn có thể được dùng để bỏ các vạch ô nhịp trong [osu!taiko](/wiki/Game_mode/osu!taiko) hoặc [osu!mania](/wiki/Game_mode/osu!mania).
 
@@ -41,7 +41,7 @@ Ngoài ra, điểm timing không kế thừa còn có thể được dùng để
 ### Điểm timing kế thừa
 
 ::: Infobox
-![](img/inherited-points.png "Một số điểm timing kế thừa với các hệ số tốc độ slider, âm lượng và thiết lập kiai khác nhau")
+![](img/inherited-points.png "Một số điểm timing kế thừa với các hệ số tốc độ thanh trượt, âm lượng và thiết lập kiai khác nhau")
 :::
 
 Một điểm timing **kế thừa** sử dụng các thiết lập timing đang hoạt động, *kế thừa* chúng từ điểm timing trước đó. Điểm timing kế thừa được dùng cho các mục đích sau:
@@ -63,31 +63,31 @@ Tab timing có thể được mở bằng cách nhấn `F3` và cung cấp truy 
 | :-- | :-- |
 | `BPM` | [Nhịp](/wiki/Music_theory/Tempo) của điểm timing hiện tại, được đo bằng số nhịp trên phút (BPM - Beats per minute). |
 | `Offset` | [Cân chỉnh thời gian](/wiki/Offset#mapping) của điểm timing hiện tại, được đo bằng mili giây. |
-| `Move already placed notes when changing the offset/BPM` | Giữ các nốt bấm gắn với các vạch trên [timeline](/wiki/Client/Beatmap_editor/Timelines) khi thay đổi timing |
-| `Slider Velocity` | [Tốc độ slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) cơ bản của toàn bộ beatmap |
-| `Slider Tick Rate` | Số lượng [chấm nằm trên slider](/wiki/Gameplay/Hit_object/Slider/Slider_tick) trong một [nhịp](/wiki/Music_theory/Beat) nhạc |
+| `Move already placed notes when changing the offset/BPM` | Giữ các nốt bấm gắn với các vạch trên [khoảng thời gian](/wiki/Client/Beatmap_editor/Timelines) khi thay đổi timing |
+| `Slider Velocity` | [Tốc độ thanh trượt](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) cơ bản của toàn bộ beatmap |
+| `Slider Tick Rate` | Số lượng [chấm nằm trên thanh trượt](/wiki/Gameplay/Hit_object/Slider/Slider_tick) trong một [nhịp](/wiki/Music_theory/Beat) nhạc |
 
 Để thay đổi nhanh hơn với mức lớn hoặc nhỏ, sử dụng các sửa đổi bên dưới:
 
-|  | Tempo | Offset | tốc độ slider |
+|  | Tempo | Offset | Tốc độ thanh trượt |
 | :-- | :-: | :-: | :-: |
 | `Ctrl` + click | 0.25 BPM | 1 ms | 1 [osu! pixel](/wiki/Client/Beatmap_editor/osu!_pixel) |
 | Mặc định | 1 BPM | 2 ms | 10 osu! pixel |
 | `Shift` + click | 5 BPM | 10 ms | - |
 
-### Metronome
+### Bộ đếm nhịp
 
 ![](img/metronome.png "Metronome của osu! trong tab timing")
 
-Metronome, nằm ở góc trên bên phải của tab timing, giúp nhanh chóng tìm ra các thiết lập timing gần đúng. Giá trị BPM và offset ban đầu của bài hát có thể được xác định bằng cách nhấn `T` liên tục hoặc nhấp vào nút `Gõ vào đây!` theo nhịp của bài hát.
+Bộ đếm nhịp nằm ở góc trên bên phải của tab timing, giúp nhanh chóng tìm ra các thiết lập timing gần đúng. Giá trị BPM và offset ban đầu của bài hát có thể được xác định bằng cách nhấn `T` liên tục hoặc nhấp vào nút `Gõ vào đây!` theo nhịp của bài hát.
 
-Phần hiển thị trực quan của metronome được thiết kế theo [thời gian signature](/wiki/Music_theory/Time_signature) phổ biến nhất là 4/4. Phần đầu tiên biểu thị [downbeat](/wiki/Music_theory/Downbeat) và sẽ nhấp nháy màu xanh lá, trong khi các phần còn lại sẽ nhấp nháy màu trắng theo mỗi nhịp trong [ô nhịp](/wiki/Music_theory/Measure) của bài hát. Các signature không phổ biến, như 7/4, sẽ thêm các lần nhấp nháy, nhưng kích thước metronome không thay đổi.
+Phần hiển thị trực quan của bộ đếm nhịp được thiết kế theo [số chỉ nhịp](/wiki/Music_theory/Time_signature) phổ biến nhất là 4/4. Phách đầu tiên biểu thị [phách mạnh](/wiki/Music_theory/Downbeat) và sẽ nhấp nháy màu xanh lá, trong khi các phách còn lại sẽ nhấp nháy màu trắng theo từng phách trong [ô nhịp](/wiki/Music_theory/Measure) của bài hát. Các số chỉ nhịp không phổ biến, như 7/4, sẽ thêm các lần nhấp nháy, nhưng tổng số phách của bộ đếm nhịp không thay đổi.
 
 ## Bảng thiết lập timing
 
 ![Ảnh chụp bảng thiết lập timing](/wiki/shared/timing/TimingSetup.png)
 
-Bảng thiết lập timing, còn được gọi là `Timing and Control Points`, là một cửa sổ pop-up có thể mở bằng cách nhấn `F6`. Bảng thiết lập chứa nhiều tab để làm việc với các tuỳ chọn khác nhau của timing point, như timing, [hitsound](/wiki/Beatmapping/Hitsound), âm lượng, [sampleset](/wiki/Beatmapping/Sampleset), hoặc các hiệu ứng đặc biệt.
+Bảng thiết lập timing, còn được gọi là `Timing and Control Points`, là một cửa sổ bật lên có thể mở bằng cách nhấn `F6`. Bảng thiết lập chứa nhiều tab để làm việc với các tuỳ chọn khác nhau của điểm timing, như timing, [hitsound](/wiki/Beatmapping/Hitsound), âm lượng, [sampleset](/wiki/Beatmapping/Sampleset), hoặc các hiệu ứng đặc biệt.
 
 ### Chọn và chia sẻ
 
