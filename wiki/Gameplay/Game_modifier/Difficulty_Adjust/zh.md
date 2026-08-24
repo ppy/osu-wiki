@@ -52,7 +52,7 @@ tags:
 
 - `掉血速度 (HP Drain)` (0–10，默认为所选谱面 HP 值): 将[掉血速度](/wiki/Beatmap/HP_drain_rate)更改为指定值。
 - `判定严度 (Accuracy)` (0–10，默认为所选谱面 OD 值): 将[判定严度](/wiki/Beatmap/Overall_difficulty)更改为指定值。
-- `滚动速度 (Scroll Speed)` (0.25–4，默认为所选谱面 SS 值): 将滚动速度更改为指定值。
+- `滚动速度 (Scroll Speed)` (0.25–4，默认为所选谱面的滚动速度): 将滚动速度更改为指定值。
 - `扩展限制 (Extended Limits)` (默认禁用): 使玩家能将`掉血速度 (HP Drain)` 与`判定严度 (Accuracy)` 增加到 11。
 
 ### ![][osu!catch] osu!catch

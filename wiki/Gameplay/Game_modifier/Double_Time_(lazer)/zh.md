@@ -39,7 +39,7 @@ tags:
 **注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-**Double Time** 模组会将谱面的 BPM 提高 50%，将歌曲长度缩短 33.3%。取决于[游戏模式](/wiki/Game_mode)，该模组也会增加[缩圈速度 (AR)](/wiki/Beatmap/Approach_rate) 或[整体难度 (OD)](/wiki/Beatmap/Overall_difficulty)，或同时增加二者。
+**Double Time** 模组会将谱面的 BPM 提高 50%，歌曲长度缩短 33.3%。取决于[游戏模式](/wiki/Game_mode)，该模组也会增加[缩圈速度 (AR)](/wiki/Beatmap/Approach_rate) 或[整体难度 (OD)](/wiki/Beatmap/Overall_difficulty)，或同时增加二者。
 
 ## 自定义
 

@@ -43,7 +43,7 @@ tags:
 **注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-**Flashlight** 模组将[游戏区域](/wiki/Client/Playfield)的可见部分限制到一个较小的光亮区域，正如使用手电筒一般。随着玩家的[连击数](/wiki/Gameplay/Combo_(score_multiplier))增加，可见区域会逐渐缩小，直到达到最小大小，具体大小取决于[游戏模式](/wiki/Game_mode)。
+**Flashlight** 模组将[游戏区域](/wiki/Client/Playfield)的可见部分限制到一个较小的光亮区域，就像使用手电筒照一样。随着玩家的[连击数](/wiki/Gameplay/Combo_(score_multiplier))增加，可见区域会逐渐缩小，直到达到最小大小，具体大小取决于[游戏模式](/wiki/Game_mode)。
 
 ## 自定义
 
