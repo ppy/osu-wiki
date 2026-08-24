@@ -2,8 +2,6 @@
 stub: true
 tags:
   - AS
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Adaptive Speed（模组）
@@ -29,9 +27,18 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
-<!-- TODO description and settings -->
+**Adaptive Speed** 模组会动态调节[谱面](/wiki/Beatmap)的倍速。玩家过早点击[打击物件](/wiki/Gameplay/Hit_object)时会进行加速，过晚时则会减速。
+
+## 自定义
+
+![游戏客户端中的 Adaptive Speed 自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/AS.png)
+
+- `初始倍速 (Initial rate)` (0.50x–2.00x，默认 1.00x): 谱面开始时的倍速。
+- `调整音调 (Adjust pitch)` (默认启用): 根据当前倍速动态调整音频频率。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
