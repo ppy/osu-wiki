@@ -47,7 +47,7 @@ tags:
 - `速度削减 (Speed decrease)` (0.50x–0.99x，默认为 0.75x): 游玩谱面的速度。
 - `调节音调 (Adjust pitch)` (默认禁用): 依照所选速度更改音频频率。使用默认速度游玩时，其音频效果与 [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore) 模组相同。
 
-更改`速度削减 (Speed decrease)` 会导致分数**不计入排名**，而`调节音调 (Adjust pitch)` 不会产生影响。
+更改`速度削减 (Speed decrease)` 会导致分数**不计表现分**，而`调节音调 (Adjust pitch)` 不会产生影响。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

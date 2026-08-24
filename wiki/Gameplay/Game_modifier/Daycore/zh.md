@@ -41,7 +41,7 @@ tags:
 
 - `速度削减 (Speed decrease)` (0.50x–0.99x，默认为 0.75x): 游玩谱面的速度。
 
-更改该设置会导致分数**不计入排名**。
+更改该设置会导致分数**不计表现分**。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

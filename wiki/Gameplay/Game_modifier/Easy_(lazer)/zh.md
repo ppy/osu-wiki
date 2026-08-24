@@ -66,7 +66,7 @@ tags:
 
 - `额外生命数 (Extra Lives)` (0–10，默认为 2): 开始游玩谱面时，额外生命的数目。
 
-更改额外生命数会导致分数**不计入排名**。
+更改额外生命数会导致分数**不计表现分**。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -53,7 +53,7 @@ tags:
 
 - `仅隐藏缩圈 (Only fade approach circles)` (默认禁用): 使缩圈不可见，但物件不会渐隐。
 
-启用该设置会导致分数**不计入排名**。
+启用该设置会导致分数**不计表现分**。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

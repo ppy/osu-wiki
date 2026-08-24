@@ -53,7 +53,7 @@ tags:
 - `手电筒区域大小 (Flashlight size)` (![][osu!] 0.5–2.0，![][osu!taiko] ![][osu!catch] 0.5–1.5，![][osu!mania] 0.5–3.0，默认为 1.0): 0）：应用到默认手电筒区域大小的倍率。
 - `基于连击数改变大小 (Change size based on combo)` (![][osu!] ![][osu!taiko] ![][osu!catch] 默认启用，![][osu!mania] 默认禁用): （默认启用）：随连击数增加减小`手电筒区域大小 (Flashlight size)`。
 
-更改上述任意设置均会导致分数**不计入排名**。
+更改上述任意设置均会导致分数**不计表现分**。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

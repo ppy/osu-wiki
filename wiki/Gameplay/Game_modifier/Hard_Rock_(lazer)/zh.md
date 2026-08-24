@@ -27,7 +27,7 @@ tags:
 | 得分系数 ![][osu!catch] | `1.12x` |
 | 得分系数 ![][osu!mania] | `1.00x` |
 | 状态 ![][osu!] ![][osu!taiko] ![][osu!catch] | 计入排名 |
-| 状态 ![][osu!mania] | 不计入排名 |
+| 状态 ![][osu!mania] | 不计表现分 |
 | 不兼容的模组 ![][osu!] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust), [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror_(lazer)) |
 | 不兼容的模组 ![][osu!taiko] ![][osu!catch] ![][osu!mania] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
 

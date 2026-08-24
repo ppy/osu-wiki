@@ -22,7 +22,7 @@ tags:
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!] |
 | 得分系数 | `1.00x` |
-| 状态 | 不计入排名 |
+| 状态 | 不计表现分 |
 | 不兼容的模组 | [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
