@@ -12,7 +12,7 @@ Warto wspomnieć, że zawartość wszystkich paczek Video Game, Anime, Internet!
 
 ## Skill
 
-**Medale Skill** są przyznawane za ukończenie różnych wyzwań bazujących na umiejętnościach, takich jak uzyskanie konkretnej długości [combo](/wiki/Gameplay/Combo_(score_multiplier)),osiągnięcie konkretnej pozycji w [rankingu globalnym](https://osu.ppy.sh/rankings/osu/performance) czy przejście lub przejście z [pełnym combo](/wiki/Gameplay/Full_combo) dowolnej [zakwalifikowanej](/wiki/Beatmap/Category#zakwalifikowane), [rankingowej](/wiki/Beatmap/Category#rankingowe) lub [zatwierdzonej](/wiki/Beatmap/Category#zatwierdzone) beatmapy, której [ilość gwiazdek](/wiki/Beatmap/Star_rating) mieści się w określonym przedziale.
+**Medale Skill** są przyznawane za ukończenie różnych wyzwań bazujących na umiejętnościach, takich jak uzyskanie konkretnej długości [combo](/wiki/Gameplay/Combo_(score_multiplier)),osiągnięcie konkretnej pozycji w [rankingu globalnym](https://osu.ppy.sh/rankings/osu/performance) czy przejście lub przejście z [pełnym combo](/wiki/Gameplay/Full_combo) dowolnej [zakwalifikowanej](/wiki/Beatmap/Category#zakwalifikowane), [rankingowej](/wiki/Beatmap/Category#ranked) lub [zatwierdzonej](/wiki/Beatmap/Category#approved) beatmapy, której [ilość gwiazdek](/wiki/Beatmap/Star_rating) mieści się w określonym przedziale.
 
 ## Dedication
 
@@ -21,10 +21,10 @@ Warto wspomnieć, że zawartość wszystkich paczek Video Game, Anime, Internet!
 ## Mod Introduction
 
 ::: alert-note
-**Zobacz także:** [Mody](/wiki/Gameplay/Game_modifier).
+**Zobacz także:** [Modyfikatory gry](/wiki/Gameplay/Game_modifier).
 :::
 
-**Medale Mod Introduction** są przyznawane za przejście dowolnej [zakwalifikowanej](/wiki/Beatmap/Category#zakwalifikowane), [rankingowej](/wiki/Beatmap/Category#rankingowe) lub [zatwierdzonej](/wiki/Beatmap/Category#zatwierdzone) beatmapy z konkretnym [modem](/wiki/Gameplay/Game_modifier). Mają one za zadanie zachęcić nowszych graczy do wypróbowania każdego moda oraz odkrycia, co osu! ma do zaoferowania. Należy jednak zaznaczyć, że w przypadku korzystania z wielu modów naraz nie będzie możliwe zdobycie medalu za żaden z wybranych modów.
+**Medale Mod Introduction** są przyznawane za przejście dowolnej [zakwalifikowanej](/wiki/Beatmap/Category#qualifed), [rankingowej](/wiki/Beatmap/Category#ranked) lub [zatwierdzonej](/wiki/Beatmap/Category#approved) beatmapy z konkretnym [modem](/wiki/Gameplay/Game_modifier). Mają one za zadanie zachęcić nowszych graczy do wypróbowania każdego moda oraz odkrycia, co osu! ma do zaoferowania. Należy jednak zaznaczyć, że w przypadku korzystania z wielu modów naraz nie będzie możliwe zdobycie medalu za żaden z wybranych modów.
 
 Wszystkie medale Mod Introduction mogą zostać zdobyte w dowolnym [trybie gry](/wiki/Game_mode), o ile nie wskazano inaczej.
 
