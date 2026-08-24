@@ -4,7 +4,7 @@ stub: true
 
 # Stack
 
-![](img/stack.jpg "An example of two hit circles stacking on top of a slider head.")
+![](img/stack.jpg "Ein Beispiel mit zwei Hit-Circles, die auf einen Sliderhead gestapelt werden.")
 
 Ein **Stack** (zu Dt. *Stapel*) ist eine Gruppe von [Hit-Objekten](/wiki/Gameplay/Hit_object), die auf dem [Spielfeld](/wiki/Client/Playfield) miteinander [überlappen](/wiki/Beatmapping/Mapping_techniques/Overlap). Am häufigsten werden [Hit-Circles](/wiki/Gameplay/Hit_object/Hit_circle) gestapelt.
 
