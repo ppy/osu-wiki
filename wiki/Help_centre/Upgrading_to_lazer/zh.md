@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f287ccabf717f22c643ae835a042aeab3c24b569
+---
+
 # 升级到 lazer
 
 osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕后工作的结晶，并且，我们重构了游戏。
@@ -121,11 +126,11 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 这个更改是刻意的 | ![否][false] |
 | 这个更改需要进一步的考虑 | ![是][true] |
 
-#### 评价系统的区别
+#### 评级系统的区别
 
-在 stable 中，达成各[评价](/wiki/Gameplay/Grade)所需的准确率（和判定）条件如下：
+在 stable 中，达成各[评级](/wiki/Gameplay/Grade)所需的准确率（和判定）条件如下：
 
-| 评价 | osu! / osu!taiko | osu!catch | osu!mania |
+| 评级 | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
 | SS | 100% | 100% | 100% |
 | S | GREAT/300 数量 >90% (≤1% MEH/50，无失误) | >98% | >95% |
@@ -133,9 +138,9 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | B | GREAT/300 数量 >70% (无失误) 或者 GREAT/300 数量 >80% | >90% | >80% |
 | C | GREAT/300 数量 >60% | >85% | >70% |
 
-而在 osu!(lazer) 达成各评价所需的准确率要求如下：
+而在 osu!(lazer) 达成各评级所需的准确率要求如下：
 
-| 评价 | osu! / osu!taiko | osu!catch | osu!mania |
+| 评级 | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
 | SS | 100% | 100% | 所有[判定](/wiki/Gameplay/Judgement/osu!mania)均为 GREAT 或 PERFECT |
 | S | ≥95% (无失误) | ≥98% | ≥95% |

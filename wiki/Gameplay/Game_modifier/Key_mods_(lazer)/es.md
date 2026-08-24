@@ -18,6 +18,8 @@ tags:
   - mods de teclas
   - mod del número de teclas
   - mods del número de teclas
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Mods de teclas (lazer)
