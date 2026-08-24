@@ -18,7 +18,7 @@ tags:
 *Để xem hướng dẫn thiết lập timing, xem: [Cách timing bài hát](/wiki/Guides/How_to_time_songs)*\
 *Xem thêm: [Beatmapping/Timing](/wiki/Beatmapping/Timing)*
 
-**Timing** là tab trong [beatmap editor](/wiki/Client/Beatmap_editor) dùng để thay đổi và thiết lập timing của một [beatmap](/wiki/Beatmap), điều này là thiết yếu để thể hiện bài hát một cách chính xác. Tab này chứa các cài đặt và công cụ liên quan đến timing, đồng thời có một [cửa sổ riêng](#bảng-thiết-lập-timing) để làm việc với nhiều [điểm timing](#điểm-căn-nhịp), phục vụ cả mục đích thể hiện cấu trúc âm nhạc lẫn thiết kế beatmap.
+**Timing** là tab trong [beatmap editor](/wiki/Client/Beatmap_editor) dùng để thay đổi và thiết lập timing của một [beatmap](/wiki/Beatmap), điều này là thiết yếu để thể hiện bài hát một cách chính xác. Tab này chứa các cài đặt và công cụ liên quan đến timing, đồng thời có một [cửa sổ riêng](#bảng-thiết-lập-timing) để làm việc với nhiều [điểm timing](#điểm-timing), phục vụ cả mục đích thể hiện cấu trúc âm nhạc lẫn thiết kế beatmap.
 
 ## Điểm timing
 
@@ -29,7 +29,7 @@ Trong [mapping](/wiki/Beatmapping), một *timing*, thường được gọi là
 ### Điểm timing không kế thừa
 
 ::: Infobox
-![](img/uninherited-points.png "Một số điểm căn nhịp không kế thừa nằm trong bảng thiết lập timing")
+![](img/uninherited-points.png "Một số điểm timing không kế thừa nằm trong bảng thiết lập timing")
 :::
 
 Một điểm timing **không kế thừa** có các thiết lập timing riêng của nó. Nhiều điểm timing kiểu này được dùng để thể hiện các thay đổi timing trong bài hát, chẳng hạn như [nhịp điệu](/wiki/Music_theory/Tempo), nhịp không đều, hoặc các [thời gian signature](/wiki/Music_theory/Time_signature) khác nhau. Việc thêm một điểm timing không kế thừa mới sẽ khôi phục metronome, khiến nó đếm nhịp từ offset của điểm timing đó, được xác định bằng mili giây.
@@ -51,7 +51,7 @@ Một điểm timing **kế thừa** sử dụng các thiết lập timing đang
 - Chuyển đổi [sampleset](/wiki/Beatmapping/Sampleset) của hitsound đang hoạt động
 - Bật hoặc tắt [thời gian kiai](/wiki/Gameplay/Kiai_time)
 
-Điểm timing kế thừa có màu xanh lá trên dòng thời gian phía dưới và trong [bảng thiết lập timing](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "offset xanh" hoặc "line xanh".
+Điểm timing kế thừa có màu xanh lá trên khoảng thời gian phía dưới và trong [bảng thiết lập timing](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "offset xanh" hoặc "line xanh".
 
 ## Giao diện chính
 
