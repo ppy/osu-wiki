@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup 2026: Qualifiers Recap"
-date: 2026-08-24 12:00:00 +0000
+date: 2026-08-24 14:00:00 +0000
 series: world_cups
 ---
 
