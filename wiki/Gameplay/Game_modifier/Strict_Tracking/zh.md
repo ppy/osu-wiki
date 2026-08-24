@@ -22,7 +22,7 @@ tags:
 | 类别 | 增加难度 |
 | 游戏模式 | ![][osu!] |
 | 得分系数 | `1.00x` |
-| 状态 | 不计入排名 |
+| 状态 | 不计表现分 |
 | 不兼容的模组 | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) |
 
 :::
