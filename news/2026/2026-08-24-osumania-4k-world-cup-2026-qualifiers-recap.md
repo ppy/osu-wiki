@@ -16,7 +16,7 @@ This year's Qualifiers have not been the kindest to everyone, leading to many su
 Joining us this year's series of video recaps are [Dynascape](https://osu.ppy.sh/users/8784587), [SunApple](https://osu.ppy.sh/users/11817622), [Normiplier](https://osu.ppy.sh/users/10069850), and [akace100](https://osu.ppy.sh/users/9308128) who have been with us for the past couple years. Additionally, they will be joined by [Rush_FTK](https://osu.ppy.sh/users/3046856) throughout the year as well as this week's guest commentators: [epic man 2](https://osu.ppy.sh/users/14566000) and [Sparky](https://osu.ppy.sh/users/3187959)!
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/8OWGgG84tZ4" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/eoKjbBW_ToM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Mappool recap
