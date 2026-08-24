@@ -2,8 +2,6 @@
 stub: true
 tags:
   - CN
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Cinema（lazer 模组）
@@ -26,14 +24,24 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | 得分系数 | `1.00x` |
 | 状态 | 不计入排名 |
-| 不兼容的模组 | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast), [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) |
+| 不兼容的模组 ![][osu!] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) |
+| 不兼容的模组 ![][osu!taiko] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) |
+| 不兼容的模组 ![][osu!catch] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) |
+| 不兼容的模组 ![][osu!mania] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) |
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[Cinema（模组）](/wiki/Gameplay/Game_modifier/Cinema)*\
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于该文章的 osu!stable 版本，请见：[Cinema（模组）](/wiki/Gameplay/Game_modifier/Cinema)
+:::
 
-<!-- TODO description and settings -->
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
+
+与 [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)) 模组类似，**Cinema** 模组会自动完成所有[谱面](/wiki/Beatmap)，但只会显示背景图像（视频）以及[故事板](/wiki/Storyboard)（如果有）。音乐与[打击音效](/wiki/Beatmapping/Hitsound)依然会正常播放。使用该模组时，`背景暗化`将自动设置为 0%。
+
+**此模组不支持自定义。**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
