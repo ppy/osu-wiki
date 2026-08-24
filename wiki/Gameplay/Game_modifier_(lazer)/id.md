@@ -15,11 +15,11 @@ tags:
 # Game modifier (lazer)
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Game modifier](/wiki/Gameplay/Game_modifier)
+**Note:** Untuk versi osu!stable dari artikel ini, lihat [Game modifier](/wiki/Gameplay/Game_modifier)
 :::
 
 ::: alert-note
-**Note:** For other uses of "mod", see [Mod (disambiguation)](/wiki/Disambiguation/Mod)
+**Note:** Untuk penggunaan lain istilah "mod", lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod)
 :::
 
 ![](img/mod-select.jpg "Mod selection screen for the osu! game mode")
