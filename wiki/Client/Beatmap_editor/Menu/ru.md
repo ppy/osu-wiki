@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
----
-
 # Меню редактора карты
 
 ## Файл
@@ -80,7 +75,7 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 ## Редактор
 
 ::: alert-note
-**См. также:** [Редактор](/wiki/Client/Beatmap_editor/Compose)
+**Основная статья:** [Вкладка Compose](/wiki/Client/Beatmap_editor/Compose)
 :::
 
 ![Меню редактора](img/M_Compose-RU.png "Меню редактора")
@@ -98,7 +93,7 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 ## Дизайн
 
 ::: alert-note
-**См. также:** [Дизайн](/wiki/Client/Beatmap_editor/Design)
+**Основная статья:** [Вкладка Design](/wiki/Client/Beatmap_editor/Design)
 :::
 
 ![Меню дизайна](img/M_Design-RU.png "Меню дизайна")
@@ -110,7 +105,7 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 ## Тайминг
 
 ::: alert-note
-**См. также:** [Тайминг](/wiki/Client/Beatmap_editor/Timing)
+**Основная статья:** [Вкладка Timing](/wiki/Client/Beatmap_editor/Timing)
 :::
 
 ![Меня тайминга](img/M_Timing-RU.png "Меню тайминга")
@@ -129,7 +124,7 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 | Сдвинуть все ноты... | Сдвинуть все игровые объекты на заданное количество миллисекунд. |
 | Пересчитать длины слайдеров | Автоматически пересчитать[^recalculate-lengths-note] все [длины слайдеров](/wiki/Gameplay/Hit_object/Slider/Slidertail), чтобы они заканчивались на ближайшем к ним тике временно́й шкалы. **Это может привести к их укорочению** и потребовать ручной перепроверки всей карты. |
 | Удалить все тайминг-секции | Удалить все красные и зелёные тайминг-секции в сложности. |
-| Использовать текущий момент как превью | Использовать текущий момент как превью на веб-сайте и экране [выбора песни](/wiki/Client/Interface#song-select). |
+| Использовать текущий момент как превью | Использовать текущий момент как превью на веб-сайте и [экране выбора песни](/wiki/Client/Interface#экран-выбора-песни). |
 
 ## Веб
 
@@ -137,7 +132,7 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 
 | Название | Описание |
 | :-- | :-- |
-| Страница этой карты | Перейти на страницу карты<!-- TODO(TicClick): link after https://github.com/ppy/osu-wiki/issues/3122 is completed --> на веб-сайте osu!. |
+| Страница этой карты | Перейти на страницу [информации о карте](/wiki/Beatmap_information) на сайте osu!. |
 | Тема на форуме | Перейти в форумную тему, связанную с картой. |
 
 ## Помощь
