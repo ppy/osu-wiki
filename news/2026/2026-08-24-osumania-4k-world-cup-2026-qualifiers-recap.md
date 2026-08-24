@@ -5,7 +5,7 @@ date: 2026-08-24 12:00:00 +0000
 series: world_cups
 ---
 
-The apex of all osu!mania 4K competitions begins once more! After a decade of witnessing the most grueling bouts between the best of the best players across the globe, who knows what surprises are yet to come?
+The apex of all osu!mania 4K competitions begins once again! After a decade of witnessing the most grueling bouts between the best of the best players across the globe, who knows what surprises are still yet to come?
 
 ![](/wiki/Tournaments/MWC/2026_4K/img/mwc4k2026-banner.jpg)
 
