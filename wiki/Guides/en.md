@@ -21,7 +21,7 @@ Below is a sorted list of guides created by members of the osu! community, most 
 - [osu!mania mapping guide](osu!mania_mapping_guide)
 - [Setting the offset on the correct beat](Setting_the_offset_on_the_correct_beat)
 - [Using custom hitsounds](Using_custom_hitsounds)
-- [Timing songs with #/8 time signatures](Timing_songs_with_8_time_signatures)
+- [Timing songs with N/8 time signatures](Timing_songs_with_N_per_8_time_signatures)
 
 ## Modding
 
