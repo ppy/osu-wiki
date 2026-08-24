@@ -4,8 +4,6 @@ tags:
   - AT
   - auto
   - auto play
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Autoplay（lazer 模组）
@@ -28,14 +26,26 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | 得分系数 | `1.00x` |
 | 状态 | 不计入排名 |
-| 不兼容的模组 | [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast), [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) |
+| 不兼容的模组 ![][osu!] | [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) |
+| 不兼容的模组 ![][osu!taiko] | [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) |
+| 不兼容的模组 ![][osu!catch] | [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) |
+| 不兼容的模组 ![][osu!mania] | [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) |
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[Auto（模组）](/wiki/Gameplay/Game_modifier/Auto)*\
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于该文章的 osu!stable 版本，请见：[Auto（模组）](/wiki/Gameplay/Game_modifier/Auto)
+:::
 
-<!-- TODO description and settings -->
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
+
+**Autoplay** 模组会独自完成整张[谱面](/wiki/Beatmap)，供玩家观看谱面的完美分数。在 osu! 模式中，Autoplay 模组与 [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)) 类似，会以每分钟 477 转 (SPM) 的速度逆时针旋转[转盘](/wiki/Gameplay/Hit_object/Spinner)。
+
+使用该模组获得的分数不会提交到任何排行榜。在游玩期间，会根据游戏模式显示定制用户名：![][osu!] Autoplay，![][osu!taiko] mekkadosu!，![][osu!catch] osu!salad 或 ![][osu!mania] osu!topus。
+
+**此模组不支持自定义。**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
