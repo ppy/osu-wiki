@@ -34,7 +34,7 @@ tags:
 **注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-在 osu! 模式中，**Single Tap** 模组强制玩家只能使用一个按键。在开始游玩[谱面](/wiki/Beatmap)后、下一个[休息时段](/wiki/Beatmap/Break)前，用于点击首个[打击物件](/wiki/Gameplay/Hit_object)的按键需要一直使用。若使用其他按键点击，则会自动判定 Miss。在每个休息时段后，玩家可以重新选择要使用的按键。[转盘](/wiki/Gameplay/Hit_object/Spinner)总可以使用任意按键完成。
+在 osu! 模式中，**Single Tap** 模组强制玩家只能使用一个按键。从开始游玩[谱面](/wiki/Beatmap)至下一个[休息时段](/wiki/Beatmap/Break)前，需要一直使用点击首个[打击物件](/wiki/Gameplay/Hit_object)的那个按键点击。若使用其他按键点击，则会自动判定 Miss。在每个休息时段后，玩家可以重新选择要使用的按键。[转盘](/wiki/Gameplay/Hit_object/Spinner)总是可以使用任意按键完成。
 
 在 osu!taiko 模式中，**Single Tap** 模组强制玩家对[咚](/wiki/Gameplay/Hit_object/Hit)和[咔](/wiki/Gameplay/Hit_object/Hit)只能各使用一个按键。与 osu! 模式中的类似，使用错误的按键会导致 Miss，每个休息时段后可重新选择按键。[大音符](/wiki/Gameplay/Hit_object/Hit#finishers)仍可正常点击。
 
