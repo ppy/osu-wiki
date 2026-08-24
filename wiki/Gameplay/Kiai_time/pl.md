@@ -1,5 +1,7 @@
 ---
 tags:
+  - kiai mode
+  - kiai section
   - tryb kiai
   - sekcja kiai
 ---
@@ -7,7 +9,7 @@ tags:
 # Czas kiai
 
 ::: alert-note
-Zasady używania czasu kiai można zobaczyć w [kryteriach rankingowania](/wiki/Ranking_criteria)
+Zasady używania czasu kiai można zobaczyć w [kryteriach rankingowych](/wiki/Ranking_criteria)
 :::
 
 ::: Infobox
