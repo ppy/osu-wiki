@@ -59,13 +59,13 @@ Teile der Beatmap mit sehr hoher Geschwindigkeit oder schwierigen [Mustern](/wik
 
 ## FAQ
 
-### Wo kann ich meinen Performance-Rang sehen?
+### Wo kann ich die Performance-Rangliste sehen?
 
 **Die Performance-Points-Rangliste für alle Spieler kann auf der [Ranglistenseite](https://osu.ppy.sh/p/pp) gefunden werden.**
 
 Du kannst auch das Dropdown-Panel `Rankings` auf der alten Webseite benutzen und `Performance` auswählen.
 
-### Wie kann ich meinen Rang und insgesamte pp erhöhen?
+### Wie kann ich meinen Rang und meine insgesamten pp erhöhen?
 
 **Deine Performance wird überwiegend basierend auf deinen Scores auf einzelnen Beatmaps bewertet.**
 
@@ -78,7 +78,7 @@ Beachte folgende Tipps:
 - Versuche, deine Genauigkeit zu verbessern. Selbst 1 % macht einen großen Unterschied.
 - Versuche, hohe Combos zu erreichen. Eine [Full Combo (FC)](/wiki/Gameplay/Full_combo) oder ein [SS](/wiki/Gameplay/Grade) geben enorm viele Punkte.
 
-### Warum habe ich von der Beatmap, die ich gespielt habe, nicht die volle Menge an pp bekommen?
+### Warum habe ich von einer Beatmap, die ich gespielt habe, nicht die volle Menge an pp bekommen?
 
 **Performance-Points benutzen ein Gewichtungssystem, was bedeutet, dass dein bester Score die volle Menge gibt und alle darunter allmählich weniger geben.**
 
@@ -94,7 +94,7 @@ Du kannst den genauen Wert berechnen, indem du die [folgende Formel](https://www
 
 Der mittlere Wert, um die Hälfte des Bonus zu bekommen, ist ungefähr 137 Scores, d.h. die Bonus-pp steigen am Anfang schnell und danach langsamer, bis hin zu 1.000 Scores.
 
-#### Ist die Gewichtung der Grund, warum ich keine pp für einfachere Beatmaps bekomme?
+#### Ist die Gewichtung der Grund, warum ich keine pp für einfachere Beatmaps mehr bekomme?
 
 **Wie oben bereits erwähnt, werden ältere Scores schließlich mit weniger als einem Prozent ihres vollen Wertes gewichtet. Das heißt, dass diese fast nichts mehr zu deinem insgesamten Wert beitragen.**
 
@@ -106,7 +106,7 @@ Zu diesem Zeitpunkt wirst du jedoch schon ein paar beeindruckendere Scores geset
 
 Updates der Performance-Points-Systeme werden von Ankündigungen im Spiel und auf der Webseite begleitet, die mehr Informationen über den Prozess der Neuberechnung und die Änderungen selbst enthalten.
 
-### Manche Mods werden zu sehr/wenig belohnt. Warum ist das so?
+### Manche Mods werden zu stark/nicht genug belohnt. Warum ist das so?
 
 **Das ist Ansichtssache.**
 
