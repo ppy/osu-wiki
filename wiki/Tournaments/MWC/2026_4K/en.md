@@ -248,7 +248,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Round of 16
 
-**[Download the mappack here (76 MB)](https://packs.ppy.sh/P334%20-%20osu%21mania%204K%20World%20Cup%202026%3A%20Round%20of%2016.zip)**\
+**[Download the mappack here (76 MB)](https://packs.ppy.sh/P334%20-%20osu!mania%204K%20World%20Cup%202026%3A%20Round%20of%2016.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2854609593)
 
 - Rice
