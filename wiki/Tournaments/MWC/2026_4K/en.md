@@ -130,12 +130,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 | :-: | --: | :-- | :-- | :-: |
 | 22 | Qatar ::{ flag=QA }:: | ::{ flag=TW }:: Taiwan | [Aug 29 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T090000&p1=1440&p3=241) | [osulive](https://twitch.tv/osulive) |
 | 19 | Denmark ::{ flag=DK }:: | ::{ flag=HK }:: Hong Kong | [Aug 29 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T100000&p1=1440&p2=69&p3=102) | [osulive](https://twitch.tv/osulive) |
-| 17 | Czechia ::{ flag=CZ }:: | ::{ flag=VN }:: Vietnam | [Aug 29 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T110000&p1=1440&p2=204&p3=95) | [osulive](https://twitch.tv/osulive) |
 | 23 | Ukraine ::{ flag=UA }:: | ::{ flag=BR }:: Brazil | [Aug 29 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T120000&p1=1440&p2=367&p3=45) | [osulive](https://twitch.tv/osulive) |
 | 24 | Netherlands ::{ flag=NL }:: | ::{ flag=FI }:: Finland | [Aug 29 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T130000&p1=1440&p2=16&p3=101) | [osulive](https://twitch.tv/osulive) |
+| 25 | South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Aug 29 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T130000&p1=1440&p2=235&p3=145) | [osulive_2](https://twitch.tv/osulive_2) |
 | 21 | Norway ::{ flag=NO }:: | ::{ flag=ES }:: Spain | [Aug 29 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T140000&p1=1440&p2=187&p3=141) | [osulive](https://twitch.tv/osulive) |
 | 20 | Germany ::{ flag=DE }:: | ::{ flag=PL }:: Poland | [Aug 29 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T150000&p1=1440&p2=37&p3=262) | [osulive](https://twitch.tv/osulive) |
 | 18 | Portugal ::{ flag=PT }:: | ::{ flag=FR }:: France | [Aug 29 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T160000&p1=1440&p2=133&p3=195) | [osulive](https://twitch.tv/osulive) |
+| 31 | Chile ::{ flag=CL }:: | ::{ flag=AR }:: Argentina | [Aug 29 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T200000&p1=1440&p2=232&p3=51) | [osulive](https://twitch.tv/osulive) |
+| 29 | United States ::{ flag=US }:: | ::{ flag=MX }:: Mexico | [Aug 29 (Sat) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T210000&p1=1440&p2=263&p3=155) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 30 August 2026
 
@@ -143,12 +145,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 | :-: | --: | :-- | :-- | :-: |
 | 27 | China ::{ flag=CN }:: | ::{ flag=PE }:: Peru | [Aug 30 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T030000&p1=1440&p2=33&p3=131) | [osulive](https://twitch.tv/osulive) |
 | 32 | Russian Federation ::{ flag=RU }:: | ::{ flag=AU }:: Australia | [Aug 30 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T090000&p1=1440&p2=166&p3=57) | [osulive](https://twitch.tv/osulive) |
-| 25 | South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Aug 30 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T100000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) |
 | 26 | Thailand ::{ flag=TH }:: | ::{ flag=MY }:: Malaysia | [Aug 30 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T110000&p1=1440&p2=28&p3=122) | [osulive](https://twitch.tv/osulive) |
 | 28 | United Kingdom ::{ flag=GB }:: | ::{ flag=ID }:: Indonesia | [Aug 30 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T120000&p1=1440&p2=136&p3=108) | [osulive](https://twitch.tv/osulive) |
 | 30 | Canada ::{ flag=CA }:: | ::{ flag=SG }:: Singapore | [Aug 30 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T130000&p1=1440&p2=188&p3=236) | [osulive](https://twitch.tv/osulive) |
-| 31 | Chile ::{ flag=CL }:: | ::{ flag=AR }:: Argentina | [Aug 30 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T160000&p1=1440&p2=232&p3=51) | [osulive](https://twitch.tv/osulive) |
-| 29 | United States ::{ flag=US }:: | ::{ flag=MX }:: Mexico | [Aug 30 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T170000&p1=1440&p2=263&p3=155) | [osulive](https://twitch.tv/osulive) |
+| 17 | Czechia ::{ flag=CZ }:: | ::{ flag=VN }:: Vietnam | [Aug 30 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T140000&p1=1440&p2=204&p3=95) | [osulive](https://twitch.tv/osulive) |
 | SC | Quarterfinals | mappool showcase | [Aug 30 (Sun) 18:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T180000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Match results
@@ -290,7 +290,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
   2. [Natsume Chiaki - Hanairo Biyori (Cut Ver.) (Yuiesta) \[Spring\]](https://osu.ppy.sh/beatmapsets/2604473#mania/5825939)
   3. [dark cat - ELINE (Toaph Daddy) \[ECHOES (LN-Edit)\]](https://osu.ppy.sh/beatmapsets/2211538#mania/5826013)
 - Tiebreaker
-  1. **[Ashrount & polysha - ARCADEA (Hytex) \[CHRONOS\]](https://osu.ppy.sh/beatmapsets/2608631#mania/5840035)**
+  1. **[Christian McBride Trio - Cherokee (Live) (Cut Ver.) (-mint-) \[American Express 1.1x\]](https://osu.ppy.sh/beatmapsets/2604501#mania/5826029)**
 
 ### Qualifiers
 
