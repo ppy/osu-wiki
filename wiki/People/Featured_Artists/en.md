@@ -91,13 +91,16 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=LV }:: [hikota](https://osu.ppy.sh/users/12946286) | [hikota](https://osu.ppy.sh/beatmaps/artists/463) |
 | ::{ flag=US }:: [hornshoes](https://osu.ppy.sh/users/4057967) | [Strelitzia](https://osu.ppy.sh/beatmaps/artists/421) (member of) |
 | ::{ flag=JP }:: [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
+| ::{ flag=US }:: [itsawo](https://osu.ppy.sh/users/4636731) | [awoKen](https://osu.ppy.sh/beatmaps/artists/554) |
 | ::{ flag=AU }:: [J3C](https://osu.ppy.sh/users/15956540) | [jeko](https://osu.ppy.sh/beatmaps/artists/538) |
 | ::{ flag=US }:: [jinobeats](https://osu.ppy.sh/users/24763122) | [JinoBeats](https://osu.ppy.sh/beatmaps/artists/477) |
+| ::{ flag=CZ }:: [jjen](https://osu.ppy.sh/users/35876683) | [acromanic](https://osu.ppy.sh/beatmaps/artists/555) |
 | ::{ flag=PH }:: [JuwubiDTM](https://osu.ppy.sh/users/36335947) | [Juwubi](https://osu.ppy.sh/beatmaps/artists/490) |
 | ::{ flag=US }:: [Juztan](https://osu.ppy.sh/users/14272451) | [Juztan](https://osu.ppy.sh/beatmaps/artists/531) |
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ::{ flag=US }:: [Kardashevband](https://osu.ppy.sh/users/33736126) | [Kardashev](https://osu.ppy.sh/beatmaps/artists/375) (member of) |
 | ::{ flag=ES }:: [KeybladeMaster](https://osu.ppy.sh/users/5926683) | [xiiiac13](https://osu.ppy.sh/beatmaps/artists/423) |
+| ::{ flag=CA }:: [keyesgen](https://osu.ppy.sh/users/13278140) | [keyesgen](https://osu.ppy.sh/beatmaps/artists/558) |
 | ::{ flag=US }:: [kikoyu](https://osu.ppy.sh/users/10825836) | [kikoyu](https://osu.ppy.sh/beatmaps/artists/497) |
 | ::{ flag=DE }:: [KIRA\_old\_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ::{ flag=JP }:: [kissssy](https://osu.ppy.sh/users/40014064) | [Adust Rain](https://osu.ppy.sh/beatmaps/artists/548) (member of) |
@@ -166,6 +169,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=KR }:: [WyvernP](https://osu.ppy.sh/users/3611701) | [WyvernP](https://osu.ppy.sh/beatmaps/artists/445) |
 | ::{ flag=UA }:: [XenjeS](https://osu.ppy.sh/users/10166905) | [XenjeS](https://osu.ppy.sh/beatmaps/artists/482) |
 | ::{ flag=ID }:: [Xuande](https://osu.ppy.sh/users/23032672) | [Xeon Diversity](https://osu.ppy.sh/beatmaps/artists/499) |
+| ::{ flag=US }:: [yesandtheyes127](https://osu.ppy.sh/users/15943191) | [jorj1357](https://osu.ppy.sh/beatmaps/artists/556) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 | ::{ flag=US }:: [Yuuni](https://osu.ppy.sh/users/14238916) | [Yuuni](https://osu.ppy.sh/beatmaps/artists/408) |
 | ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) |

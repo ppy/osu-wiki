@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 322adbb5c9e8e17fc68e6e7f019e8ca93bd53544
----
-
 # Наборы карт
 
 **Наборы карт** (англ. *beatmap packs*) — сжатые архивы, содержащие [карты](/wiki/Beatmap) определённой категории. Их можно найти в [списке наборов карт](https://osu.ppy.sh/beatmaps/packs).
@@ -28,7 +23,7 @@ F2 - Rohi Pack.zip
 | Индикатор | Категория | Типы карт |
 | :-: | :-- | :-- |
 | **S** | Стандартные | [Рейтинговые](/wiki/Beatmap/Category#ranked) и [одобренные](/wiki/Beatmap/Category#approved) карты |
-| **F** | Featured Artists | Песни от исполнителей из списка [Featured Artists](/wiki/People/Featured_Artists) |
+| **F** | Featured Artists | Песни от исполнителей из списка [Featured Artists](/wiki/People/Featured_Artists), в основном из выполненных квестов [Mappers' Guild](/wiki/Community/Mappers_Guild) |
 | **P** | Турнирные | Группы карт для [официальных турниров](https://osu.ppy.sh/community/tournaments) |
 | **L** | Project Loved | Карты, выбранные сообществом в [Project Loved](/wiki/Community/Project_Loved) |
 | **R** | Spotlights | Сезонные соревновательные наборы карт из [Beatmap Spotlights](/wiki/Beatmap_Spotlights) (в прошлом — чарты) |
@@ -39,7 +34,7 @@ F2 - Rohi Pack.zip
 
 1. Распакуйте скачанный архив. Внутри будет много [файлов `.osz`](/wiki/Client/File_formats/osz_(file_format)).
 2. Перенесите файлы `.osz` в папку `Songs` в папке установки osu!, либо выделите и перетащите их в окно игры.
-3. Игра запустит процесс импорта карт и удалит исходные файлы `.osz`. Если импорт не произошёл, нажмите клавишу `F5` на [экране выбора песни](/wiki/Client/Interface#song-select) для повторной обработки карт.
+3. Игра запустит процесс импорта карт и удалит исходные файлы `.osz`. Если импорт не произошёл, нажмите клавишу `F5` на [экране выбора песни](/wiki/Client/Interface#экран-выбора-песни) для повторной обработки карт.
 
 ## Альтернативные источники карт
 
@@ -54,10 +49,12 @@ F2 - Rohi Pack.zip
 
 На данный момент все наборы карт находятся на сервере `packs.ppy.sh`. При недоступности или излишней медлительности сервера можно воспользоваться зеркалами, созданными другими людьми:
 
-- [(Не)официальный перечень наборов карт](https://osu.ppy.sh/community/forums/topics/1528191)
-  - [Таблица Google](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) от ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449)
+- Hinamizawa.ai — архив данных по osu!
+  - [Сайт-зеркало](https://hinamizawa.ai/osu/map-packs/) от ::{ flag=CW }:: [TheMoonBunny](https://osu.ppy.sh/users/902250)
 - Старое хранилище до миграции на `packs.ppy.sh` (в районе 07.05.2023)
   - [Диск MEGA](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw) от ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907)
+- [(Не)официальный перечень наборов карт](https://osu.ppy.sh/community/forums/topics/1528191)
+  - [Таблица Google](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) от ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449)
 - [Зеркало наборов карт osu! v2](https://osu.ppy.sh/community/forums/topics/57381)
   - [Сайт-зеркало](http://osu.yas-online.net/) от ::{ flag=DE }:: [nanashirei](https://osu.ppy.sh/users/807630)
 

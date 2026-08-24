@@ -302,6 +302,33 @@ Contributors who registered their accounts during an older era of the game have 
 | ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Outstanding contribution to the community via tooling development ([owo! bot](https://owo-bot.xyz/)) |
 | ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Outstanding contribution to the community via tooling development ([Bathbot](https://github.com/MaxOhn/Bathbot)) |
 
+### 2026
+
+#### August
+
+::: alert-note
+**Note:** For the news post, see [Community Contributors: 2025](https://osu.ppy.sh/home/news/2026-08-02-community-contributors-2025)
+:::
+
+| User | Contributions |
+| :-- | :-- |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Outstanding contribution to community excellence throughout osu! |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Outstanding contribution to the mapping and tournament scenes |
+| ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845) | Outstanding technical contributions to the osu! tournament scene |
+| ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692) | Outstanding technical contributions to the offline osu! tournament scene |
+| ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) | Outstanding contribution to the [Beatmap Packs](https://osu.ppy.sh/beatmaps/packs) project |
+| ::{ flag=PL }:: [Wiek](https://osu.ppy.sh/users/2584698) | Outstanding contribution to community tooling ([Danser](https://github.com/Wieku/danser-go)) |
+| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Outstanding contribution to community tooling ([circleguard](https://github.com/circleguard/circleguard), [ossapi](https://github.com/Liam-DeVoe/ossapi)) |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | Longstanding contribution to community and moderation affairs |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Outstanding contribution to player support over many years |
+| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Outstanding contribution to moderation across various platforms |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Longstanding contribution to the mapping and modding community |
+| ::{ flag=AT }:: [Maarvin](https://osu.ppy.sh/users/6411631) | Outstanding contribution to development affairs |
+| ::{ flag=DE }:: [The_Last_Cookie](https://osu.ppy.sh/users/11587828) | Longstanding contribution to osu! wiki German translations |
+| ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | Longstanding contribution to osu! wiki Spanish translations |
+| ::{ flag=ES }:: [Agatem](https://osu.ppy.sh/users/18202514) | Longstanding contribution to osu! wiki Spanish translations |
+| ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) | Longstanding contribution to osu! wiki Chinese translations |
+
 ## History
 
 During February 2018, the old contributor badge by ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) was redesigned by ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) due to not matching the new website's colour scheme.[^redesign-reasons]
