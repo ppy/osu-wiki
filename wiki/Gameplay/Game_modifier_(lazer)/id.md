@@ -26,11 +26,11 @@ tags:
 
 **Game modifiers**, atau **mod**, dibagi menjadi enam kategori utama: `Pengurang Kesulitan`, `Peningkat Kesulitan`, `Otomatisasi`, `Konversi`, `Hiburan` dan `Sistem`. Beberapa di antaranya dapat mengurangi atau menambah `Pengali Skor`. Saat dua atau lebih mod diaktifkan secara bersamaan, efek pengali skor dari mod-mod yang aktif juga akan ikut dikalikan satu sama lain (misalnya, `1.06x * 1.12x = 1.1872x`). Mod-mod dari kategori `Sistem` akan diterapkan secara otomatis saat dibutuhkan.
 
-## List of mods
+## Daftar Mod
 
-Next to each of the mods listed below the icons of their compatible ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] [game modes](/wiki/Game_mode) are displayed.
+Ikon-ikon mode permainan berikut (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) menunjukkan [mode permainan](/wiki/Game_mode) apa saja mod-mod berikut ini dapat digunakan.
 
-### Difficulty Reduction
+### Pengurang Kesulitan
 
 - [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -39,7 +39,7 @@ Next to each of the mods listed below the icons of their compatible ![][osu!] ![
 - [Simplified Rhythm (SR)](/wiki/Gameplay/Game_modifier/Simplified_Rhythm) ![][osu!taiko]
 - [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release) ![][osu!mania]
 
-### Difficulty Increase
+### Peningkat Kesulitan
 
 - [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -55,7 +55,7 @@ Next to each of the mods listed below the icons of their compatible ![][osu!] ![
 - [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) ![][osu!]
 - [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-### Automation
+### Otomatisasi
 
 - [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -63,7 +63,7 @@ Next to each of the mods listed below the icons of their compatible ![][osu!] ![
 - [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)) ![][osu!]
 - [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)) ![][osu!]
 
-### Conversion
+### Konversi
 
 - [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) ![][osu!]
 - [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -79,7 +79,7 @@ Next to each of the mods listed below the icons of their compatible ![][osu!] ![
 - [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) ![][osu!mania]
 - [Key mods (1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K)](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)) ![][osu!mania]
 
-### Fun
+### Hiburan
 
 - [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform) ![][osu!]
 - [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle) ![][osu!]
@@ -103,14 +103,14 @@ Next to each of the mods listed below the icons of their compatible ![][osu!] ![
 - [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) ![][osu!]
 - [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) ![][osu!]
 
-### System
+### Sistem
 
 - [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) ![][osu!]
 - [Score V2 (SV2)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-### Personal Presets
+### Preset Personal
 
-The **Personal Presets** are located in a separate category (left of **Difficulty Reduction**) and allow players to save any combination of mods directly into it. Each personal preset has to be assigned a name and optionally a description. Every game mode has a separate list of personal presets.
+Kategori **Preset Personal** terletak di kategori terpisah (di sebelah kiri **Pengurang Kesulitan**) yang memungkinkan pemain menyimpan kombinasi mod apa pun ke dalamnya. Setiap preset personal harus diberi nama, sedangkan untuk pemberian deskripsi bersifat opsional. Setiap mode permainan memiliki daftar preset personal masing-masing.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
