@@ -2,8 +2,6 @@
 stub: true
 tags:
   - HD
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Hidden（lazer 模组）
@@ -32,20 +30,30 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 得分系数 ![][osu!mania] | `1.00x` |
 | 状态 | 计入排名 |
 | 不兼容的模组 ![][osu!] | [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| 不兼容的模组 ![][osu!taiko] ![][osu!catch] | 无 |
 | 不兼容的模组 ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[Hidden（模组）](/wiki/Gameplay/Game_modifier/Hidden)*\
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于该文章的 osu!stable 版本，请见：[Hidden（模组）](/wiki/Gameplay/Game_modifier/Hidden)
+:::
 
-**Hidden** 模组移除了[缩圈](/wiki/Gameplay/Hit_object/Approach_circle)，让[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)在屏幕上出现后渐隐。
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
+
+**Hidden** 模组移除了游戏中的[缩圈](/wiki/Gameplay/Hit_object/Approach_circle)，让[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)在屏幕上出现后渐隐。该模组的效果与 [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) 模组相反。
 
 ## 自定义
 
 ![游戏客户端中 Hidden 模组的自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/HD.png)
 
-- **仅隐藏缩圈**（默认禁用）：使缩圈不可见，但物件不会渐隐。
+该模组仅在 osu! 模式支持自定义。
+
+- `仅隐藏缩圈 (Only fade approach circles)` (默认禁用): 使缩圈不可见，但物件不会渐隐。
+
+启用该设置会导致分数**不计表现分**。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
