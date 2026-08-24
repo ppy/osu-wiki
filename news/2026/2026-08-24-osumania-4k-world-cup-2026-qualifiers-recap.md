@@ -79,4 +79,4 @@ Finally, we did get to see some newer faces on the bracket this year, with Qatar
 
 We hope to see you soon in our next series of recaps! While the Qualifiers and Round of 32 may still be over, we have a long way ahead of us. Make sure to catch up live on the action on [osulive](https://www.twitch.tv/osulive) and [osulive_2](https://www.twitch.tv/osulive_2)! And for all things MWC 4K, the [wiki](/wiki/Tournaments/MWC/2026_4k) has you covered.
 
-—RandomeLoL
+—elexire and RandomeLoL
