@@ -22,9 +22,9 @@ tags:
 **Note:** Untuk penggunaan lain istilah "mod", lihat [Mod (disambiguasi)](/wiki/Disambiguation/Mod)
 :::
 
-![](img/mod-select.jpg "Mod selection screen for the osu! game mode")
+![](img/mod-select-ID.jpg "Layar pemilihan mod untuk mode permainan osu!")
 
-**Game modifiers**, or **mods**, are separated into six categories: `Difficulty Reduction`, `Difficulty Increase`, `Automation`, `Conversion`, `Fun` and `System`. Some of them can reduce or increase the score multiplier. When multiple mods are used simultaneously, their respective multipliers will be multiplied together (e.g. `1.06x * 1.12x = 1.1872x`). Mods from the `System` category are applied automatically when necessary.
+**Game modifiers**, atau **mod**, dibagi menjadi enam kategori utama: `Pengurang Kesulitan`, `Peningkat Kesulitan`, `Otomatisasi`, `Konversi`, `Hiburan` dan `Sistem`. Beberapa di antaranya dapat mengurangi atau menambah `Pengali Skor`. Saat dua atau lebih mod diaktifkan secara bersamaan, efek pengali skor dari mod-mod yang aktif juga akan ikut dikalikan satu sama lain (misalnya, `1.06x * 1.12x = 1.1872x`). Mod-mod dari kategori `Sistem` akan diterapkan secara otomatis saat dibutuhkan.
 
 ## List of mods
 
