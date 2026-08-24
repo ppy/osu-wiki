@@ -248,10 +248,11 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Round of 16
 
+**[Download the mappack here (76 MB)](https://packs.ppy.sh/P334%20-%20osu%21mania%204K%20World%20Cup%202026%3A%20Round%20of%2016.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2854609593)
 
 - Rice
-  1. Yuki Hsu - Ta Lang (Cut Ver.) (Yuiesta) \[Waves ) 1.15 )\] (link pending)
+  1. [Yuki Hsu - Ta Lang (Cut Ver.) (Yuiesta) \[Waves ) 1.15 )\]](https://osu.ppy.sh/beatmapsets/2608673#mania/5840129)
   2. [Hanaya - Realize in Death (hi19hi19) \[BRING BACK MIMA\]](https://osu.ppy.sh/beatmapsets/2608571#mania/5839923)
   3. [Feryquitous - CydraL (Cut Ver.) (0DZ0) \[Tower of Sacrifice\]](https://osu.ppy.sh/beatmapsets/2608609#mania/5839986)
   4. [Kolaa - Steamtekk (AutotelicBrown) \[2077\]](https://osu.ppy.sh/beatmapsets/2608577#mania/5839930)
@@ -264,9 +265,9 @@ The final standings for the Qualifier stage can be found in the following [sprea
 - Long Note
   1. [Camellia feat. Nanahira - Energy \* Drin-ko Fein-chan! (Cut Ver.) (fvrex) \[CRASH!\]](https://osu.ppy.sh/beatmapsets/2608611#mania/5839988)
   2. [EBIMAYO - NIGHTMARE INVITATION (Ballistic) \[ENTICEMENT\]](https://osu.ppy.sh/beatmapsets/2608614#mania/5839995)
-  3. Iyowa feat. Hatsune Miku & flower - Almost Ended (Micleak) \[D.C. al\] (link pending)
+  3. [Iyowa feat. Hatsune Miku & flower - Almost Ended (Micleak) \[D.C. al\]](https://osu.ppy.sh/beatmapsets/2608707#mania/5840234)
 - Tiebreaker
-  1. **Ashrount & polysha - ARCADEA (Hytex) \[CHRONOS\] (link pending)**
+  1. **[Ashrount & polysha - ARCADEA (Hytex) \[CHRONOS\]](https://osu.ppy.sh/beatmapsets/2608631#mania/5840035)**
 
 ### Round of 32
 
