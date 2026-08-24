@@ -49,7 +49,7 @@ Das Resultat daraus ist, dass Mods wie [Double Time](/wiki/Gameplay/Game_modifie
 
 *Genauigkeit* ist ein Prozentwert, der die Fähigkeit eines Spielers bewertet, [Hit-Objekte](/wiki/Gameplay/Hit_object) zur richtigen Zeit zu treffen. Sie ist auch ein Kernwert, um die individuelle Leistung eines Spielers auf einer Beatmap zu bewerten.
 
-Scores mit hoher Genauigkeit werden vom Algorithmus als beeindruckend betrachtet und geben deswegen hohe Punktzahlen. Eine [Full Combo](/wiki/Gameplay/Full_combo) mit 80 % Genauigkeit kann manchmal 2/3 so viel Wert haben wie eine mit 95 % Genauigkeit. Dadurch, dass der Algorithmus stark auf Genauigkeit beruht, geben Mods wie Hidden, Hardrock und Flashlight beachtlich mehr pp für Scores mit hoher Genauigkeit.
+Scores mit hoher Genauigkeit werden vom Algorithmus als beeindruckend betrachtet und geben deswegen hohe Punktzahlen. Eine [Full Combo](/wiki/Gameplay/Full_combo) mit 80 % Genauigkeit kann manchmal 2/3 so viel Wert haben wie eine mit 95 % Genauigkeit. Dadurch, dass der Algorithmus stark auf Genauigkeit beruht, geben Mods wie Hidden, Hard Rock und Flashlight beachtlich mehr pp für Scores mit hoher Genauigkeit.
 
 ### Anstrengung
 
@@ -96,19 +96,15 @@ Der mittlere Wert, um die Hälfte des Bonus zu bekommen, ist ungefähr 137 Score
 
 #### Ist die Gewichtung der Grund, warum ich keine pp für einfachere Beatmaps bekomme?
 
-**Wie oben schon erwähnt, ältere Scores werden langsam mit weniger als einem Prozent des vollen Wertes gewichtet. Das heißt, dass diese fast nichts mehr zum insgesamten Wert beitragen.**
+**Wie oben bereits erwähnt, werden ältere Scores schließlich mit weniger als einem Prozent ihres vollen Wertes gewichtet. Das heißt, dass diese fast nichts mehr zu deinem insgesamten Wert beitragen.**
 
-Ab dem Zeitpunkt hast du jedoch schon ein paar beeindruckende Scores gesetzt. Deswegen ist dein gesamter pp-Wert höher, da du schon beeindruckendere Scores gesetzt hast und die anderen entsprechend schlechter gewichtet werden.
+Zu diesem Zeitpunkt wirst du jedoch schon ein paar beeindruckendere Scores gesetzt haben, weswegen dein gesamter pp-Wert höher ist, da deine besseren Scores stärker als die älteren gewichtet werden.
 
 ### Warum habe ich pp verloren, nachdem ich einen neuen Score gesetzt habe?
 
-**Du kannst gelegentlich pp verlieren, indem du einen Score mit einer höheren Combo setzt, der aber schlechtere Genauigkeit hat.**
+**Der pp-Algorithmus wird gelegentlich aktualisiert und Scores werden neu berechnet, um die neuen Änderungen widerszuspiegeln, was eine plötzliche Verringerung oder Erhöhung deiner gesamten pp bewirken kann, wenn du während dieses Prozesses einen Score setzt.**
 
-Die gesamte Punktzahl ist immer noch wichtig für Ranglisten einzelner Beatmaps. Das kann unter Umständen dazu führen, dass eine höhere Punktzahl mit schlechterer Genauigkeit oder die Benutzung einer Mod ein "besseres" Ergebnis liefert, was dich letztlich pp verlieren lässt.
-
-**Der pp-Algorithmus wird gelegentlich aktualisiert und Scores werden neu berechnet, um die neuen Änderungen widerszuspiegeln, was als plötzliche Verringerung oder Erhöhung der gesamten pp, wenn du während dieses Prozesses einen Score setzt.**
-
-Updates der Performance-Points-Systeme werden von Ankündigungen im Spiel und auf der Webseite begleitet, die mehr Informationen über den Prozess der Neuberechnung und die Änderungen enthalten.
+Updates der Performance-Points-Systeme werden von Ankündigungen im Spiel und auf der Webseite begleitet, die mehr Informationen über den Prozess der Neuberechnung und die Änderungen selbst enthalten.
 
 ### Manche Mods werden zu sehr/wenig belohnt. Warum ist das so?
 
@@ -120,7 +116,7 @@ Zusammengefasst wurde das aktuelle Perfomance-Punkte-System so konstruiert, dass
 
 ## Geschichte
 
-Die erste Einführung von Performance-Points wurde der Öffentlichkeit im April 2012 bekanntgegeben und war nur als das mysteriöse Projekt *"???"* bekannt. Das rätselhafte System hat später im Monat seinen vollen Namen bekommen.
+Die erste Einführung von Performance-Points wurde der Öffentlichkeit im April 2012 bekanntgegeben und war nur als das mysteriöse Projekt *"???"* bekannt.
 
 Mit dem vollständigen Namen später im Monat enthüllt, versuchte dieses neue System, den alten Standard, der nur auf der [Gesamtpunktzahl](/wiki/Gameplay/Score) eines Spielers beruhte, zu etwas, dass die Fähigkeiten des Spielers widerspiegelt, zu verbessern. Das neue System wurde damals von den Spielern gelobt.
 
@@ -128,15 +124,15 @@ Ein paar Monate nach der Enthüllung wurde es in der osu!-Version 20120722-24 of
 
 Es blieb in dieser Weise mehr als ein Jahr lang im Einsatz, bis [Tom94](https://osu.ppy.sh/users/1857058), der Ersteller des Bewertungssystems namens *osu!tp*, dem [osu!-Team](/wiki/People/osu!_team) beitrat und sein Design in das System implementierte. Das resultierende System wurde *ppv2* genannt und am 27. Januar 2014 in Betrieb genommen. Infolgedessen wurde das alte System zu *[ppv1](/wiki/Performance_points/ppv1)* umbenannt. Seitdem wurde das System regelmäßig gepflegt, aber es wurden keine großen Aktualisierungen vorgenommen.
 
-Am 16. Januar 2021 wurde das ppv2-System verändert, mit dem Ziel an schwierigere Aspekte von Beatmaps eine passendere Anzahl von pp zu vergeben. Diese Veränderungen wurden größtenteils mit der Hilfe von verschiedenen Einzelpersonen, wie [Xexxar](https://osu.ppy.sh/users/2773526) und [StanR](https://osu.ppy.sh/users/7217455) vorgenommen. Die Details der Änderungen werden ausführlich erläutert im [dazugehörigen Newsbeitrag](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Die wichtigsten Punkte sind:
+Am 16. Januar 2021 wurde das ppv2-System verändert, mit dem Ziel an schwierigere Aspekte von Beatmaps eine passendere Anzahl von pp zu vergeben. Diese Veränderungen wurden größtenteils mit der Hilfe von verschiedenen Einzelpersonen, wie [Xexxar](https://osu.ppy.sh/users/2773526) und [StanR](https://osu.ppy.sh/users/7217455) vorgenommen. Die Details der Änderungen werden im [dazugehörigen Newsbeitrag](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates) ausführlich erläutert. Die wichtigsten Punkte sind:
 
-- Die Einführung von einem Skalierungsfaktor für die zusätzliche Vergabe von pp bei einer Approach-Rate von 11, basierend auf der Länge der Beatmap.
-- Die Einführung von einem Skalierungsfaktor für den Verlust von pp bei der Benutzung der Mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail), basierend darauf wie oft verfehlt wird.
-- Die Einführung von einem Skalierungsfaktor für den Verlust von pp bei der Benutzung der Mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out), basierend darauf wie viele Spinner in einer Beatmap sind.
+- Die Einführung eines Skalierungsfaktors für die zusätzliche Vergabe von pp bei einer Approach-Rate von 11, basierend auf der Länge der Beatmap.
+- Die Einführung eines Skalierungsfaktors für den Verlust von pp bei der Benutzung der Mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail), basierend darauf wie oft verfehlt wird.
+- Die Einführung eines Skalierungsfaktors für den Verlust von pp bei der Benutzung der Mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out), basierend darauf wie viele Spinner eine Beatmap enthält.
 - Die Rate des Verlusts von pp wurde angepasst, um bei längeren Beatmaps mit höherer Combo nachsichtiger zu sein.
 - Kleinerer Gewinn von pp bei schlechter [Genauigkeit](/wiki/Gameplay/Accuracy).
 
-Am 28. Oktober 2024 wurden weitere Änderungen eingebaut. Die Details dieser Änderungen werden ausführlich erläutert im [dazugehörigen Newsbeitrag](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates). Die wichtigsten Punkte sind:
+Am 28. Oktober 2024 wurden weitere Änderungen eingebaut. Die Details dieser Änderungen werden im [dazugehörigen Newsbeitrag](https://osu.ppy.sh/home/news/2024-10-28-performance-points-star-rating-updates) ausführlich erläutert. Die wichtigsten Punkte sind:
 
 - osu!
   - Entfernen der Combo-Skalierung
@@ -148,7 +144,7 @@ Am 28. Oktober 2024 wurden weitere Änderungen eingebaut. Die Details dieser Än
   - Anpassung der Boni von [Hidden](/wiki/Gameplay/Game_modifier/Hidden) und [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) in der Genauigkeits-Komponente der pp-Berechnung
   - Anpassung der Genauigkeits-Skalierung
 - osu!catch
-  - Die Einführung von einem Skalierungsfaktor für den Verlust von pp bei der Benutzung der Mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail), basierend darauf wie oft verfehlt wird.
+  - Die Einführung eines Skalierungsfaktors für den Verlust von pp bei der Benutzung der Mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail), basierend darauf wie oft verfehlt wird.
 - osu!mania
   - Anpassung der Skalierung von LN-Werten, um zu stark gewichtete LN-Beatmaps zu korrigieren
 
