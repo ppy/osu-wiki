@@ -3,8 +3,6 @@ stub: true
 tags:
   - fadein
   - FI
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Fade In（lazer 模组）
@@ -31,10 +29,15 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[Fade In（模组）](/wiki/Gameplay/Game_modifier/Fade_In)*\
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于该文章的 osu!stable 版本，请见：[Fade In（模组）](/wiki/Gameplay/Game_modifier/Fade_In)
+:::
 
-**Fade In** 模组使音符一开始从顶部进入游玩区域时不可见，接近游玩区域底部时逐渐显示。这种渐显效果最初覆盖约 20% 的游玩区域，但随着连击数的增加而扩大。在达到 500x 连击时，渐显效果达到最大，覆盖游玩区域的 70%，使音符出现得更晚。
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
+
+**Fade In** 模组使音符一开始从顶部进入[游戏区域](/wiki/Client/Playfield)时不可见，接近底部时逐渐显示。这种渐显效果最初覆盖约 20% 的游戏区域，但随着[连击数](/wiki/Gameplay/Combo_(score_multiplier))的增加而扩大。在达到 500x 连击时，渐显效果达到最大，覆盖游戏区域的 70%，使音符出现得明显更晚。
 
 **此模组不支持自定义。**
 
