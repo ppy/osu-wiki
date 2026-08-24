@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f287ccabf717f22c643ae835a042aeab3c24b569
+---
+
 # Umstellung auf lazer
 
 osu!(lazer) ist das nächste große Update des Spiels. Es ist das Ergebnis jahrelanger Arbeit hinter den Kulissen, die das Spiel von Grund auf neu implementiert.
