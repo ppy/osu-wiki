@@ -1,8 +1,6 @@
 ---
 tags:
   - BM
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Bloom（模组）
@@ -28,15 +26,17 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
-**Bloom** 模组会随着连击数累积增大光标大小，直到连击数达到可设置的上限。在 Miss 后，光标会恢复原来的大小。
+**Bloom** 模组会随着[连击数](/wiki/Gameplay/Combo_(score_multiplier))累积增大光标大小，直到连击数达到可设置的上限。在[断掉连击](/wiki/Gameplay/Judgement/Combobreak)后，光标会恢复原来的大小。
 
 ## 自定义
 
 ![游戏客户端中 Bloom 模组的自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/BM.png)
 
-- **最大大小所处连击数**（5–100，默认为 50）：光标达到最大大小时，对应的连击数目。
-- **最终大小倍率**（5.0–15.0，默认为 10.0）：连击数达到最大值时，为光标大小施加的倍数。
+- `最大大小所处连击数 (Max size at combo)` (5–100，默认为 50): 光标达到最大大小时，对应的连击数目。
+- `最终大小倍率 (Final size multiplier)` (5.0–15.0，默认为 10.0): 连击数达到最大值时，为光标大小施加的倍数。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
