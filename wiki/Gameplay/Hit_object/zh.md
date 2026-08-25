@@ -4,7 +4,7 @@ tags:
   - 打击物件
 needs_cleanup: true
 outdated_translation: true
-outdated_since: ae529c3d01b7067006ddbf21f2e9eadf2bd19192
+outdated_since: 28c05eafc4957754b0549d2992bb3802f08b59ff
 ---
 
 # 打击物件
@@ -14,8 +14,8 @@ outdated_since: ae529c3d01b7067006ddbf21f2e9eadf2bd19192
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
 | [圆圈](/wiki/Gameplay/Hit_object/Hit_circle) | [咚和咔](/wiki/Gameplay/Hit_object/Hit) | [水果](/wiki/Gameplay/Hit_object/Fruit) | 单点音符 |
-| [滑条](/wiki/Gameplay/Hit_object/Slider) | 长条 | [水果串](/wiki/Gameplay/Hit_object/Juice_stream) | 长按音符 |
-| [转盘](/wiki/Gameplay/Hit_object/Spinner) | 转盘 | [香蕉](/wiki/Gameplay/Hit_object/Banana) | x |
+| [滑条](/wiki/Gameplay/Hit_object/Slider) | [长条](/wiki/Gameplay/Hit_object/Drumroll) | [水果串](/wiki/Gameplay/Hit_object/Juice_stream) | 长按音符 |
+| [转盘](/wiki/Gameplay/Hit_object/Spinner) | [转盘](/wiki/Gameplay/Hit_object/Swell) | [香蕉](/wiki/Gameplay/Hit_object/Banana) | x |
 | x | x | [红果](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
 
 从编程的角度来看， osu!mania 中的长按音符并不等同于 osu! 的滑条。不过为了简化起见，在这个表中把它们放在一起。其他在游戏过程中不参与互动的元素（如血条或 kiai 星星）则被认为是游戏玩法的增强或用户界面的一部分。
