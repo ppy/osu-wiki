@@ -15,7 +15,7 @@ tags:
 
 # Tab Timing
 
-*Để xem hướng dẫn thiết lập timing, xem: [Cách căn nhịp bài hát](/wiki/Guides/How_to_time_songs)*\
+*Để xem hướng dẫn thiết lập căn nhịp, xem: [Cách căn nhịp bài hát](/wiki/Guides/How_to_time_songs)*\
 *Xem thêm: [Beatmapping/Timing](/wiki/Beatmapping/Timing)*
 
 **Timing** là tab trong [beatmap editor](/wiki/Client/Beatmap_editor) dùng để thay đổi và thiết lập căn nhịp của một [beatmap](/wiki/Beatmap), điều này là thiết yếu để thể hiện bài hát một cách chính xác. Tab này chứa các cài đặt và công cụ liên quan đến căn nhịp, đồng thời có một [cửa sổ riêng](#bảng-thiết-lập-timing) để làm việc với nhiều [điểm căn nhịp](#điểm-căn-nhịp), phục vụ cả mục đích thể hiện cấu trúc âm nhạc lẫn thiết kế beatmap.
@@ -38,7 +38,7 @@ Ngoài ra, điểm căn nhịp không kế thừa còn có thể được dùng 
 
 Điểm căn nhịp không kế thừa có màu đỏ trên khoảng thời gian phía dưới và trong [bảng thiết lập căn nhịp](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "offset đỏ" hoặc "line đỏ".
 
-### Điểm timing kế thừa
+### Điểm căn nhịp kế thừa
 
 ::: Infobox
 ![](img/inherited-points.png "Một số điểm căn nhịp kế thừa với các hệ số tốc độ nốt dài, âm lượng và thiết lập kiai khác nhau")
@@ -48,7 +48,7 @@ Một điểm căn nhịp **kế thừa** sử dụng các thiết lập căn nh
 
 - Thay đổi [tốc độ nốt dài](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)
 - Điều chỉnh âm lượng của [hitsound](/wiki/Beatmapping/Hitsound)
-- Chuyển đổi [sampleset](/wiki/Beatmapping/Sampleset) của hitsound đang hoạt động
+- Chuyển đổi [mẫu âm thanh](/wiki/Beatmapping/Sampleset) của hitsound đang hoạt động
 - Bật hoặc tắt [thời gian kiai](/wiki/Gameplay/Kiai_time)
 
 Điểm căn nhịp kế thừa có màu xanh lá trên khoảng thời gian phía dưới và trong [bảng thiết lập căn nhịp](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "offset xanh" hoặc "line xanh".
@@ -77,17 +77,17 @@ Tab timing có thể được mở bằng cách nhấn `F3` và cung cấp truy 
 
 ### Bộ đếm nhịp
 
-![](img/metronome.png "Metronome của osu! trong tab timing")
+![](img/metronome.png "Bộ đếm nhịp của osu! trong tab timing")
 
 Bộ đếm nhịp nằm ở góc trên bên phải của tab timing, giúp nhanh chóng tìm ra các thiết lập căn nhịp gần đúng. Giá trị BPM và offset ban đầu của bài hát có thể được xác định bằng cách nhấn `T` liên tục hoặc nhấp vào nút `Gõ vào đây!` theo nhịp của bài hát.
 
-Phần hiển thị trực quan của bộ đếm nhịp được thiết kế theo [số chỉ nhịp](/wiki/Music_theory/Time_signature) phổ biến nhất là 4/4. Phách đầu tiên biểu thị [phách mạnh](/wiki/Music_theory/Downbeat) và sẽ nhấp nháy màu xanh lá, trong khi các phách còn lại sẽ nhấp nháy màu trắng theo từng phách trong [ô nhịp](/wiki/Music_theory/Measure) của bài hát. Các số chỉ nhịp không phổ biến, như 7/4, sẽ thêm các lần nhấp nháy, nhưng tổng số phách của bộ đếm nhịp không thay đổi.
+Phần hiển thị trực quan của bộ đếm nhịp được thiết kế theo [số chỉ nhịp](/wiki/Music_theory/Time_signature) phổ biến nhất là 4/4. Phách đầu tiên biểu thị [phách mạnh](/wiki/Music_theory/Downbeat) và sẽ nhấp nháy màu xanh lá, trong khi các phách còn lại sẽ nhấp nháy màu trắng theo từng phách trong [ô nhịp](/wiki/Music_theory/Measure) của bài hát. Các số chỉ nhịp không phổ biến, như nhịp 7/4, thì sẽ thêm các lần nhấp nháy nhưng tổng số phách của bộ đếm nhịp không thay đổi.
 
-## Bảng thiết lập timing
+## Bảng thiết lập căn nhịp
 
-![Ảnh chụp bảng thiết lập timing](/wiki/shared/timing/TimingSetup.png)
+![Ảnh chụp bảng thiết lập căn nhịp](/wiki/shared/timing/TimingSetup.png)
 
-Bảng thiết lập timing, còn được gọi là `Timing and Control Points`, là một cửa sổ bật lên có thể mở bằng cách nhấn `F6`. Bảng thiết lập chứa nhiều tab để làm việc với các tuỳ chọn khác nhau của điểm căn nhịp, như timing, [hitsound](/wiki/Beatmapping/Hitsound), âm lượng, [sampleset](/wiki/Beatmapping/Sampleset), hoặc các hiệu ứng đặc biệt.
+Bảng thiết lập căn nhịp, còn được gọi là `Timing and Control Points`, là một cửa sổ bật lên có thể mở bằng cách nhấn `F6`. Bảng thiết lập chứa nhiều tab để làm việc với các tuỳ chọn khác nhau của điểm căn nhịp, như căn nhịp, [hitsound](/wiki/Beatmapping/Hitsound), âm lượng, [mẫu âm thanh](/wiki/Beatmapping/Sampleset), hoặc các hiệu ứng đặc biệt.
 
 ### Chọn và chia sẻ
 
