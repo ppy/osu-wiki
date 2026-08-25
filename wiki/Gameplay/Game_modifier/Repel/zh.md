@@ -27,8 +27,16 @@ tags:
 
 :::
 
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
-<!-- TODO description and settings -->
+使用 **Repel** 模组时，所有[打击物件](/wiki/Gameplay/Hit_object)都会自动远离光标，从而更难被玩家点击。该模组的效果与 [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised) 模组相反。
+
+## 自定义
+
+![游戏客户端中的 Repel 自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/RP.png)
+
+- `斥力强度 (Repulsion strength)` (0.05–1.0，默认 0.5): 光标排斥打击物件的强度。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

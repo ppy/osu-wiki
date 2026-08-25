@@ -2,6 +2,8 @@
 stub: true
 tags:
   - BU
+outdated_translation: true
+outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Bubbles (mod)

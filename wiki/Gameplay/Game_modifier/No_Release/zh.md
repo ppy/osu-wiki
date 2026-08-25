@@ -28,7 +28,9 @@ tags:
 
 :::
 
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 **No Release** 模组会移除[长按音符](/wiki/Beatmap/Pattern/osu!mania/Hold_note)尾部对松开按键的[准度](/wiki/Gameplay/Accuracy)判定。
 
