@@ -55,7 +55,7 @@ Một điểm căn nhịp **kế thừa** sử dụng các thiết lập căn nh
 
 ## Giao diện chính
 
-![Ảnh chụp tab căn nhịp trong editor](/wiki/shared/timing/Timing_base.jpg)
+![Ảnh chụp tab timing trong editor](/wiki/shared/timing/Timing_base.jpg)
 
 Tab timing có thể được mở bằng cách nhấn `F3` và cung cấp truy cập nhanh tới các thiết lập sau:
 
