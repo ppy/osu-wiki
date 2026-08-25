@@ -250,11 +250,9 @@ Before submitting, please check the following:
 
 After determining categories, [contest listing pages](https://osu.ppy.sh/community/contests) will be created for each category.
 
-The number of categories for a game mode may be reduced if there aren't enough entries for the game mode, either by having a general game mode category or cancelling prizes for the game mode altogether.
+The osu! game mode will feature the Visual Spectacle and Innovative Gameplay categories, with 2 votes available per category. osu!taiko, osu!catch, and osu!mania will feature a combined Aspire category, with 1 vote available per game mode.
 
-Users may freely vote for more than one entry for each category — the exact number of votes available will be dependent on the number of entries. Users are **not** required to play the maps in order to vote for them.
-
-Entries will be anonymised and uploaded to the [osu!team account](https://osu.ppy.sh/users/4341397) for voting. A playlist will also be provided for the submissions which aren't *too* unplayable.
+Entries will be anonymised and uploaded to the [osu!team account](https://osu.ppy.sh/users/4341397) for voting.
 
 After voting closes and results are announced, the ownership of all entries will be transferred to one of the entrants — contestants will be contacted to ask who will be the main set owner.
 
