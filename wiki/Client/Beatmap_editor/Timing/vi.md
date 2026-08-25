@@ -18,7 +18,7 @@ tags:
 *Để xem hướng dẫn thiết lập căn nhịp, xem: [Cách căn nhịp bài hát](/wiki/Guides/How_to_time_songs)*\
 *Xem thêm: [Beatmapping/Timing](/wiki/Beatmapping/Timing)*
 
-**Timing** là tab trong [beatmap editor](/wiki/Client/Beatmap_editor) dùng để thay đổi và thiết lập căn nhịp của một [beatmap](/wiki/Beatmap), điều này là thiết yếu để thể hiện bài hát một cách chính xác. Tab này chứa các cài đặt và công cụ liên quan đến căn nhịp, đồng thời có một [cửa sổ riêng](#bảng-thiết-lập-timing) để làm việc với nhiều [điểm căn nhịp](#điểm-căn-nhịp), phục vụ cả mục đích thể hiện cấu trúc âm nhạc lẫn thiết kế beatmap.
+**Timing** là tab trong [beatmap editor](/wiki/Client/Beatmap_editor) dùng để thay đổi và thiết lập căn nhịp của một [beatmap](/wiki/Beatmap), điều này là thiết yếu để thể hiện bài hát một cách chính xác. Tab này chứa các cài đặt và công cụ liên quan đến căn nhịp, đồng thời có một [cửa sổ riêng](#bảng-thiết-lập-căn-nhịp) để làm việc với nhiều [điểm căn nhịp](#điểm-căn-nhịp), phục vụ cả mục đích thể hiện cấu trúc âm nhạc lẫn thiết kế beatmap.
 
 ## Điểm căn nhịp
 
@@ -36,7 +36,7 @@ Một điểm căn nhịp **không kế thừa** có các thiết lập căn nh�
 
 Ngoài ra, điểm căn nhịp không kế thừa còn có thể được dùng để bỏ các vạch ô nhịp trong [osu!taiko](/wiki/Game_mode/osu!taiko) hoặc [osu!mania](/wiki/Game_mode/osu!mania).
 
-Điểm căn nhịp không kế thừa có màu đỏ trên khoảng thời gian phía dưới và trong [bảng thiết lập căn nhịp](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "offset đỏ" hoặc "line đỏ".
+Điểm căn nhịp không kế thừa có màu đỏ trên khoảng thời gian phía dưới và trong [bảng thiết lập căn nhịp](#bảng-thiết-lập-căn-nhịp). Vì vậy, chúng thường được gọi là "offset đỏ" hoặc "line đỏ".
 
 ### Điểm căn nhịp kế thừa
 
@@ -51,7 +51,7 @@ Một điểm căn nhịp **kế thừa** sử dụng các thiết lập căn nh
 - Chuyển đổi [mẫu âm thanh](/wiki/Beatmapping/Sampleset) của hitsound đang hoạt động
 - Bật hoặc tắt [thời gian kiai](/wiki/Gameplay/Kiai_time)
 
-Điểm căn nhịp kế thừa có màu xanh lá trên khoảng thời gian phía dưới và trong [bảng thiết lập căn nhịp](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "offset xanh" hoặc "line xanh".
+Điểm căn nhịp kế thừa có màu xanh lá trên khoảng thời gian phía dưới và trong [bảng thiết lập căn nhịp](#bảng-thiết-lập-căn-nhịp). Vì vậy, chúng thường được gọi là "offset xanh" hoặc "line xanh".
 
 ## Giao diện chính
 
