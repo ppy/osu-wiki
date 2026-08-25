@@ -23,13 +23,13 @@ The prizes for this contest are as follows:
 
 **Aspirant**: Awarded to the winners of each Aspire category.
 
-Winners will receive:
+Both participants will receive:
 
 - [*Elite Mapper: Aspirant* title](/wiki/People/Users_with_unique_titles#aspire-mapping-contest-winners) (or special increment for existing Elite Mappers)
 - Aspire 6 winner [badge](/wiki/Community/Profile_badge)
 - 1 year of [osu!supporter](/wiki/osu!supporter)
 
-**Runner Up**: Awarded to runners up and honourable mentions of each category.
+**Runner Up**: Awarded to runners up and honourable mentions of each category. Honourable mentions are entries selected by the osu!team that are deemed worthy of a special mention.
 
 Both participants will receive:
 
@@ -39,7 +39,7 @@ Both participants will receive:
 
 All prize-winning entries will also be added to the [Loved](/wiki/Community/Project_Loved) category, as long as their maps are passable by a human player.
 
-Contrary to what we mentioned before, we will not be doing an osu!(lazer) playlist leader award this time, given there were too many beatmaps we couldn't include due to thir gimmick not working properly on said client, or said beatmaps not working at all.
+Finally, contrary to what we mentioned before, we will not be doing an osu!(lazer) playlist leader award this time, given there were too many beatmaps we couldn't include due to thir gimmick not working properly on said client, or said beatmaps not working at all.
 
 ## Voting
 
@@ -51,13 +51,17 @@ It's time for what's everyone's been waiting for. Head over to the following con
 - osu!catch (vote) (download)
 - osu!mania (vote) (download)
 
-To aid with your journey, we've prepared a highlight reel of all submissions which you can watch below:
+In addition to the beatmap packs above, you can also find all entries in [the beatmap listing](https://osu.ppy.sh/beatmapsets?q=creator%3Dosu%21team+aspire6&sort=updated_asc&s=any) temporarily uploaded under the [osu!team account](https://osu.ppy.sh/users/4341397). After the contest concludes, the beatmaps will be transferred to their respective creators.
 
-<video width="100%" controls>
-  <source src="LINK" type="video/mp4">
-</video>
+To aid with your journey, we've also prepared a highlight reel of all submissions which you can watch below:
 
-Voting will close on DATE, after which the results will be streamed on the osulive Twitch channel.
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="LINK" type="video/mp4" preload="none">
+    </video>
+</div>
+
+Voting will close on DATE, after which the results will be streamed on the [osulive Twitch channel](https://www.twitch.tv/osulive).
 
 ---
 
