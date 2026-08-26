@@ -133,7 +133,7 @@ Voting will close on September 2 (23:59 UTC), after which the results will be st
 
 ---
 
-Aspire lives and dies by the creativity of its entries, since what's been seen once won't be as impressive the second time. Looking back at the history of Aspire, there's been a sentiment that time has left no stone unturned. Even so, even if it's been 6 years since Aspire V, we're convinced the community hasn't seen everything there is to osu! mapping quite yet.
+Aspire lives and dies by the creativity of its entries, since what's been seen once won't be as impressive the second time. Even so, even if it's been 6 years since Aspire V, even if the sentiment that time has left no stone unturned echoes in everyone's mind, we're convinced the community hasn't seen everything there is to osu! mapping just quite yet.
 
 You'll be the judge of that, though.
 
