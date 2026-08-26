@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aspire 6: Voting Open"
-date: 2026-08-24 18:00:00 +0000
+date: 2026-08-26 18:00:00 +0000
 series: official_contests
 ---
 Your duty to decide the fate of 40 boundary-breaking beatmaps.
