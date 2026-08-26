@@ -13,33 +13,33 @@ tags:
 
 #### No Fail
 
-![No Fail mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NF.png)
+![Ikon mod No Fail](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NF.png)
 
 *You can't fail, no matter what.*
 
 |  |  |
 | :-- | :-- |
-| Acronym | NF |
-| Type | Difficulty Reduction |
-| Default shortcut key | `W` |
-| Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | `0.50x` |
+| Singkatan | NF |
+| Jenis | Pengurang Kesulitan |
+| Tombol Pintasan | `W` |
+| Mode Permainan | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| Pengali Skor | `0.50x` |
 | Status | Ranked |
-| Incompatible mods | [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
+| Mod yang tidak cocok | [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [No Fail (mod)](/wiki/Gameplay/Game_modifier/No_Fail)
+**Catatan:** Untuk versi osu!stable dari artikel ini, lihat [No Fail (mod)](/wiki/Gameplay/Game_modifier/No_Fail)
 :::
 
 ::: alert-note
-**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+**Catatan:** Untuk melihat daftar keseluruhan dari semua mod [lazer](/wiki/Client/Release_stream/Lazer), kunjungi: [Game Modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **No Fail** mod prevents the player from failing on any [beatmap](/wiki/Beatmap), even if the [health bar](/wiki/Client/Interface/Health_bar) reaches zero or no points were scored. This mod has the same effect across all [game modes](/wiki/Game_mode).
+Mod **No Fail** mencegah pemain gagal pada [beatmap](/wiki/Beatmap) apa pun, meskipun [health bar](/wiki/Client/Interface/Health_bar) pemain mencapai nol atau tidak mendapatkan skor sama sekali. Mod ini mempunyai fungsi yang sama untuk semua [mode permainan](/wiki/Game_mode).
 
-**This mod cannot be customised.**
+**Mod ini tidak dapat disesuaikan.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
