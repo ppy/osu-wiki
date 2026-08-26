@@ -5,8 +5,6 @@ tags:
   - Easy
   - mod
   - game modifier
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Easy (mod)
@@ -54,13 +52,17 @@ Di [osu!](/wiki/Game_mode/osu!), mod Easy menurunkan setengah dari [circle size 
 
 Meskipun demikian, perlu diingat bahwa banyak pemain yang menganggap bahwa penggunaan mod Easy dapat membantu dalam mengurangi kesulitan dari beatmap, terutama yang berintensitas tinggi. Argumen untuk hal ini adalah bahwa penurunan approach rate justru menciptakan kekacauan, dan situasi ini menyebabkan pemain sulit untuk membaca karena kecepatan sebenarnya dari beatmap tersebut tidak divisualisasikan dengan baik (ditampilkan di atas).
 
-*Catatan: Poin-poin yang disebutkan di atas diuraikan pada "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)", sebuah permohonan fitur untuk meningkatkan mod ini.*
+::: alert-notice
+**Catatan**: Poin-poin yang disebutkan di atas diuraikan pada "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)", sebuah permohonan fitur untuk meningkatkan mod ini.
+:::
 
 ### osu!taiko
 
 Di [osu!taiko](/wiki/Game_mode/osu!taiko), mod Easy menurunkan setengah dari [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), overall difficulty (OD) dan HP drain.
 
-*Catatan: Jumlah hit yang dibutuhkan untuk menyelesaikan sebuah [spinner](/wiki/Gameplay/Hit_object/Spinner) dikurangi sesuai dengan nilai OD.*
+::: alert-notice
+**Catatan**: Jumlah hit yang dibutuhkan untuk menyelesaikan sebuah [spinner](/wiki/Gameplay/Hit_object/Spinner) dikurangi sesuai dengan nilai OD.
+:::
 
 Tidak seperti mode permainan lainnya, penggunaan mod Easy di osu!taiko dapat mengurangi persyaratan skor note untuk mendapatkan health, serta membuat life bar terisi lebih cepat sebagai pengganti dari dua "nyawa" tambahan karena tidak mungkin fail di tengah-tengah permainan.
 
