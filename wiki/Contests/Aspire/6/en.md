@@ -170,7 +170,7 @@ Aspire 6 is run by various members of the [osu! team](/wiki/People/osu!_team) an
 | osu!(stable) | [Camellia - illegal trap](https://osu.ppy.sh/beatmapsets/2607775#mania/5837299) |
 | osu!(stable) | [Camellia - KillerToy](https://osu.ppy.sh/beatmapsets/2607778#mania/5837304) |
 | osu!(stable) | [Camellia - Labyrinth in Kowloon: Walled World](https://osu.ppy.sh/beatmapsets/2607781#mania/5837308) |
-| osu!(stable) | [Kobaryo feat. HiTNEX-X - SUPER MEMORIES](https://osu.ppy.sh/beatmapsets/2607785#mania/5837319) |
+| Either | [Kobaryo feat. HiTNEX-X - SUPER MEMORIES](https://osu.ppy.sh/beatmapsets/2607785#mania/5837319) |
 | osu!(lazer) | [Symholic feat. Rina Komatsu - Veil of Ash](https://osu.ppy.sh/beatmapsets/2608389#mania/5839486) |
 | osu!(stable) | [TWC Sound Team "Strike Back Squad" - BUZZ CUTZ](https://osu.ppy.sh/beatmapsets/2607773#mania/5837297) |
 
