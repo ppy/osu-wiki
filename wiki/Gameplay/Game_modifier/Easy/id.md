@@ -12,7 +12,7 @@ tags:
 ![Ikon mod EZ](/wiki/shared/mods/EZ.png "Ikon mod Easy (EZ)")
 
 ::: alert-note
-**Catatan:** Untuk melihat artikel versi [osu!lazer](/wiki/Client/Release_stream/Lazer) dari mod ini, lihat [Easy (lazer mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))
+**Catatan:** Untuk versi [osu!lazer](/wiki/Client/Release_stream/Lazer) dari artikel ini, lihat [Easy (lazer mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))
 :::
 
 ::: alert-note

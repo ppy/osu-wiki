@@ -13,14 +13,20 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ![Ikon mod NF](/wiki/shared/mods/NF.png "Ikon mod No Fail (NF)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game modifier](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Catatan:** Untuk versi [osu!lazer](/wiki/Client/Release_stream/Lazer) dari artikel ini, lihat [No Fail (lazer mod)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer))
+:::
+
+::: alert-note
+**Catatan:** Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game modifier](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Tentang
 
 - Singkatan: NF
 - Tipe: Pengurang Kesulitan
 - Pengali Skor: 0.50x
-- Tombol shortcut default: `W`
+- Tombol shortcut: `W`
 - Caption: `Anda tak mungkin gagal. Tak peduli apapun yang terjadi..`
 - Mode-mode permainan yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
