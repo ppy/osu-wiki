@@ -31,7 +31,7 @@ tags:
 | Jenis | Pengurang Kesulitan |
 | Tombol Pintasan | `Q` |
 | Mode Permainan | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Pengali skor | `0.80x` |
+| Pengali skor | `0.80x*` |
 | Status | Ranked |
 | Mod yang tidak cocok ![][osu!] ![][osu!catch] ![][osu!mania] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
 | Mod yang tidak cocok ![][osu!taiko] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
