@@ -34,7 +34,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Flashlight (mod)](/wiki/Gameplay/Game_modifier/Flashlight)
+**Note:** For the osu!(stable) version of this article, see [Flashlight (mod)](/wiki/Gameplay/Game_modifier/Flashlight)
 :::
 
 ::: alert-note

@@ -34,7 +34,7 @@ tags:
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见：[Auto（模组）](/wiki/Gameplay/Game_modifier/Auto)
+**注:** 对于该文章的 osu!(stable) 版本，请见：[Auto（模组）](/wiki/Gameplay/Game_modifier/Auto)
 :::
 
 ::: alert-note

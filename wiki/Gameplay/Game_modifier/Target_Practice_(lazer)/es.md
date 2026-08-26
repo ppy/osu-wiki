@@ -31,7 +31,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [Target Practice (mod)](/wiki/Gameplay/Game_modifier/Target_Practice)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [Target Practice (mod)](/wiki/Gameplay/Game_modifier/Target_Practice)
 :::
 
 ::: alert-note

@@ -31,7 +31,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Double Time (mod)](/wiki/Gameplay/Game_modifier/Double_Time)
+**Note:** For the osu!(stable) version of this article, see [Double Time (mod)](/wiki/Gameplay/Game_modifier/Double_Time)
 :::
 
 ::: alert-note

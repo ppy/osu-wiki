@@ -31,7 +31,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Half Time (mod)](/wiki/Gameplay/Game_modifier/Half_Time)
+**Note:** For the osu!(stable) version of this article, see [Half Time (mod)](/wiki/Gameplay/Game_modifier/Half_Time)
 :::
 
 ::: alert-note

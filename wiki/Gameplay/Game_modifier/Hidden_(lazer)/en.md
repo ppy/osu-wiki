@@ -35,7 +35,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden)
+**Note:** For the osu!(stable) version of this article, see [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden)
 :::
 
 ::: alert-note

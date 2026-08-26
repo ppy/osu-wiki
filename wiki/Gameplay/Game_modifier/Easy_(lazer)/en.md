@@ -33,7 +33,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Easy (mod)](/wiki/Gameplay/Game_modifier/Easy)
+**Note:** For the osu!(stable) version of this article, see [Easy (mod)](/wiki/Gameplay/Game_modifier/Easy)
 :::
 
 ::: alert-note

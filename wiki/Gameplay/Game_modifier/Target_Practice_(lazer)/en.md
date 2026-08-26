@@ -29,7 +29,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Target Practice (mod)](/wiki/Gameplay/Game_modifier/Target_Practice)
+**Note:** For the osu!(stable) version of this article, see [Target Practice (mod)](/wiki/Gameplay/Game_modifier/Target_Practice)
 :::
 
 ::: alert-note

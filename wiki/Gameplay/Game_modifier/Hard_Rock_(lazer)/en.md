@@ -35,7 +35,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Hard Rock (mod)](/wiki/Gameplay/Game_modifier/Hard_Rock)
+**Note:** For the osu!(stable) version of this article, see [Hard Rock (mod)](/wiki/Gameplay/Game_modifier/Hard_Rock)
 :::
 
 ::: alert-note

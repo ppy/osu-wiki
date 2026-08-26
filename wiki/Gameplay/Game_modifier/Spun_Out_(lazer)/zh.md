@@ -30,7 +30,7 @@ tags:
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见 [Spun Out (模组)](/wiki/Gameplay/Game_modifier/Spun_Out)
+**注:** 对于该文章的 osu!(stable) 版本，请见 [Spun Out (模组)](/wiki/Gameplay/Game_modifier/Spun_Out)
 :::
 
 ::: alert-note
