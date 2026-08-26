@@ -25,7 +25,8 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Tipo | Aumento de dificultad |
 | Tecla de acceso directo predeterminada | `A` |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicador de puntuación ![][osu!] ![][osu!taiko] | `1,06x` |
+| Multiplicador de puntuación ![][osu!] | `1,09x` |
+| Multiplicador de puntuación ![][osu!taiko] | `1,06x` |
 | Multiplicador de puntuación ![][osu!catch] | `1,12x` |
 | Multiplicador de puntuación ![][osu!mania] | `1,00x` |
 | Estado ![][osu!] ![][osu!taiko] ![][osu!catch] | Clasificado |

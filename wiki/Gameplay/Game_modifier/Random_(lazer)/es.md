@@ -25,7 +25,8 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Acrónimo | RD |
 | Tipo | Conversion |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!mania] |
-| Multiplicador de puntuación | `1,00x` |
+| Multiplicador de puntuación ![][osu!] | `0,70x` |
+| Multiplicador de puntuación ![][osu!taiko] ![][osu!mania] | `1,00x` |
 | Estado | No clasificado |
 | Mods incompatibles | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) |
 

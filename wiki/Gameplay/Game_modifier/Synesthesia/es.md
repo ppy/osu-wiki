@@ -23,7 +23,8 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Acrónimo | SY |
 | Tipo | Diversión |
 | Modos de juego compatibles | ![][osu!] ![][osu!catch] |
-| Multiplicador de puntuación | `0,80x` |
+| Multiplicador de puntuación ![][osu!] | `0,99x` |
+| Multiplicador de puntuación ![][osu!catch] | `0,80x` |
 | Estado | No clasificado |
 | Mods incompatibles | Ninguno |
 
