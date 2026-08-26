@@ -119,15 +119,15 @@ Here's a full list of entries. As mentioned, we recommend playing or viewing all
 
 It's time for what's everyone's been waiting for. Head over to the following contest pages to check out each entry and cast your votes.
 
-[![**Click here to vote in the osu! Visual Spectacle category!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-button-vote-osu!.png)](https://osu.ppy.sh/community/contests/290)
+[![**Click here to vote in the osu! Visual Spectacle category!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-vote-osu!.png)](https://osu.ppy.sh/community/contests/290)
 
-[![**Click here to vote in the osu! Innovative Gameplay category!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-button-vote-osu!.png)](https://osu.ppy.sh/community/contests/291)
+[![**Click here to vote in the osu! Innovative Gameplay category!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-vote-osu!.png)](https://osu.ppy.sh/community/contests/291)
 
-[![**Click here to vote for the osu!taiko entries!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-button-vote-osu!taiko.png)](https://osu.ppy.sh/community/contests/292)
+[![**Click here to vote for the osu!taiko entries!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-vote-osu!taiko.png)](https://osu.ppy.sh/community/contests/292)
 
-[![**Click here to vote for the osu!catch entries!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-button-vote-osu!catch.png)](https://osu.ppy.sh/community/contests/293)
+[![**Click here to vote for the osu!catch entries!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-vote-osu!catch.png)](https://osu.ppy.sh/community/contests/293)
 
-[![**Click here to vote for the osu!mania entries!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-button-vote-osu!mania.png)](https://osu.ppy.sh/community/contests/294)
+[![**Click here to vote for the osu!mania entries!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-vote-osu!mania.png)](https://osu.ppy.sh/community/contests/294)
 
 Voting will close on September 2 (23:59 UTC), after which the results will be streamed on the [osulive Twitch channel](https://www.twitch.tv/osulive) on September 11 (15:00 UTC).
 
