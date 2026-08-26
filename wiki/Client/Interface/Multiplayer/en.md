@@ -113,7 +113,7 @@ Players in this list are highlighted with one of four colours, depending on thei
 | :-: | :-- |
 | **Red (no map)** | The player does not have the beatmap, indicated by a `[no map]` notice until they have downloaded the beatmap. |
 | **White (not ready)** | The player has the beatmap but is not ready yet. [Game modifiers](/wiki/Gameplay/Game_modifier) can be changed in this state. |
-| **Green (ready)** | The player is ready. Game modifiers cannot be changed in this state. The host will be able to start the game after readying, and any ready players will begin the match. |
+| **Green (ready)** | The player is ready. Game modifiers cannot be changed in this state. The host will be able to start the game after readying, and all ready players will begin the match. |
 | **Light Blue (playing)** | The player is playing, indicated by a `[playing]` notice until the match ends. |
 
 ### Match settings
