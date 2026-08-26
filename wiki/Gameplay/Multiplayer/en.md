@@ -41,7 +41,7 @@ Before a beatmap is played, players mark themselves as ready. The host then star
 
 ### Host
 
-The host decides what everyone plays and how: they pick the beatmap, the [mods](#mods), the [team mode](#team-modes), and the [win condition](#win-conditions), and they start the match. The host can also kick players, lock and unlock slots, and transfer room ownership to anyone else in the match.
+The host decides what everyone plays and how: they pick the beatmap, the [mods](#mods), the [team mode](#team-modes) and the [win condition](#win-conditions), and they start the match. The host can also kick players, lock and unlock slots and transfer room ownership to anyone else in the match.
 
 If the host leaves, the privileges are automatically transferred to the next player in slot order, so a match is never left without one. Once the last player has left, the match is closed. Matches made with `!mp` commands are an exception to both: they are run with chat commands instead of a host, and stay open for 30 minutes after everyone has left.
 
@@ -62,19 +62,19 @@ Only players who are alive by the end of the match count towards their teams' to
 ### Tag co-op / Tag-team VS
 
 ::: Infobox
-![Gameplay of the tag co-op multiplayer match](./img/tag-coop.gif "Gameplay of the tag co-op multiplayer match. Players take turns in completing single combos.")
+![Gameplay of a tag co-op multiplayer match](./img/tag-coop.gif "Gameplay of a tag co-op multiplayer match. Players take turns in completing single combos.")
 
-![Gameplay of the tag team VS multiplayer match](./img/tag-team-vs.gif "Gameplay of the tag team VS multiplayer match. The yellow crown signifying the leading team slides towards the red team, as the difference between scores grows.")
+![Gameplay of a tag team VS multiplayer match](./img/tag-team-vs.gif "Gameplay of a tag team VS multiplayer match. The yellow crown signifying the leading team slides towards the red team, as the difference between scores grows.")
 :::
 
 ::: alert-notice
 **Notice**
-These team modes are unranked and only available in osu! mode.
+These team modes are unranked and only available in the osu! game mode.
 :::
 
 `Tag co-op` makes all players in the match work together to pass the beatmap, one [combo](/wiki/Beatmapping/Combo) at a time. `Tag-team VS` is the same, but with two teams playing against each other.
 
-The players' slot placement in the lobby determines the order they play with, and every player is responsible for one combo. Beatmaps [intended for these modes](/wiki/Beatmap/TAG_beatmaps) are often made in a way that makes them nearly impossible to pass alone. Spinners are an exception to taking turns and must be completed by everyone at the same time, or the [combo](/wiki/Gameplay/Combo_(score_multiplier)) will break.
+The players' slot placement in the lobby determines the order they play in, and every player is responsible for one combo. Beatmaps [intended for these modes](/wiki/Beatmap/TAG_beatmaps) are often made in a way that makes them nearly impossible to pass alone. Spinners are an exception to taking turns and must be completed by everyone at the same time, or the [combo](/wiki/Gameplay/Combo_(score_multiplier)) will break.
 
 All players of a team share a [health bar](/wiki/Client/Interface/Health_bar). Once it depletes completely, the team has failed:
 
@@ -92,7 +92,7 @@ If a player quits while the beatmap is being played, the game will perfectly pla
 
 ## Win conditions
 
-There are four different winning conditions:
+There are four different win conditions:
 
 | Title | Description |
 | :-: | :-- |
@@ -109,7 +109,7 @@ Mods can only be changed while a player is not ready.
 
 ## Health and failing
 
-There is no way to pause a multiplayer match. Pressing `Esc` will give a warning in the lower-right corner, and pressing it again will quit the match.
+There is no way to pause a multiplayer match. Pressing `Esc` will display a warning in the lower-right corner, and pressing it again will quit the match.
 
 When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards, unless they use [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail). The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death).
 
@@ -140,4 +140,4 @@ For `Head-to-head` matches, the result is also displayed privately in the `#user
 - The initial multiplayer version was implemented on June 3, 2008 in osu! Public Release b335.
 - Match setup used to allow only up to a total of 8 players.
 - osu!mania was shown as a "3" in the lobby for players that had not yet updated their client to the latest release patch (which enabled osu!mania with no ranking support).
-- No Video used to be the only game modifier allowed for players to use, but it was removed in favour of its placement in the [visual settings](/wiki/Client/Interface/Visual_settings).
+- [No Video](/wiki/Gameplay/Game_modifier/No_Video) used to be the only game modifier allowed for players to use, but it was removed in favour of its placement in the [visual settings](/wiki/Client/Interface/Visual_settings).

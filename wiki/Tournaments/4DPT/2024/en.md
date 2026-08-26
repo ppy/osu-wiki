@@ -632,7 +632,7 @@ Sunday, 3 March 2024:
 [^accuracy]: This map is played under the ["accuracy" win condition](/wiki/Gameplay/Multiplayer#win-conditions).
 [^flashlight]: This map is played with the [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) mod enabled.
 [^sightreading]: Maps for this slot were revealed upon being picked at the match.
-[^cs]: This map is played under a specific condition in which the [circle size](/wiki/Client/Interface/Multiplayer#beatmap) exceeds the usual number in standard mappools.
+[^cs]: This map is played under a specific condition in which the [circle size](/wiki/Beatmap/Circle_size) exceeds the usual number in standard mappools.
 [^spinner]: This map features a heavy focus on spinners.
 [^hrdt]: This map is played with both [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) mods enabled.
 [^contb]: This map features a [convert](/wiki/Beatmap/Converts) in which its length is similar to a tiebreaker.

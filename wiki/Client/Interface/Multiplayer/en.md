@@ -206,7 +206,7 @@ The bottom section of the screen is the [chat console](/wiki/Client/Interface/Ch
 
 ## While playing
 
-The gameplay screen itself is the same as in solo play, with the multiplayer leaderboard and a few team mode specific parts on top of it.
+The gameplay screen itself is the same as in solo play, with the player's current placement in the lower-right corner, the multiplayer leaderboard and a few team mode specific parts on top of it.
 
 While the match is starting, moving the cursor to the bottom of the screen will open the [visual settings](/wiki/Client/Interface/Visual_settings) panel, allowing for visual customisations.
 
