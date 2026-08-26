@@ -412,8 +412,8 @@ X Y WIDTH HEIGHT REDIRECT TITLE
 
 | Название | Автор | Описание |
 | :-: | :-: | :-- |
-| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | Редактор BBCode для юзерпейджа со мгновенным показом результата |
-| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | Редактор BBCode для юзерпейджа со мгновенным показом результата (проект заброшен) |
+| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | Редактор BBCode для юзерпейджа с мгновенным показом результата |
+| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | Редактор BBCode для юзерпейджа с мгновенным показом результата (проект заброшен) |
 | [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[_____________]](https://osu.ppy.sh/users/12036908) | Создание цветовых градиентов для юзерпейджа |
 | [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Расширение для браузера, добавляющее на сайт osu! дополнительные кнопки BBCode и другие возможности |
 | [textcolorizer](https://www.stuffbydavid.com/textcolorizer) | david | Раскраска текста в BBCode и HTML |
