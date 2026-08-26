@@ -13,8 +13,17 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ![Ikon mod EZ](/wiki/shared/mods/EZ.png "Ikon mod Easy (EZ)")
 
-*Untuk penggunaan lainnya, lihat artikel [Easy (disambiguasi)](/wiki/Disambiguation/Easy).*\
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Catatan:** Untuk melihat artikel versi [osu!lazer](/wiki/Client/Release_stream/Lazer) dari mod ini, lihat [Easy (lazer mod)](/wiki/Gameplay/Game_modifier/Easy_(lazer))
+:::
+
+::: alert-note
+**Catatan:** Untuk penggunaan lain, lihat artikel [Easy (disambiguasi)](/wiki/Disambiguation/Easy).
+:::
+
+::: alert-note
+**Catatan:** Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Tentang
 
