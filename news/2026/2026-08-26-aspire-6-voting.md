@@ -10,7 +10,7 @@ Your duty to decide the fate of 40 boundary-breaking beatmaps.
 
 In case you've missed it, Aspire — the beatmapping contest all about pushing the boundaries of what's possible with the editor — returned for its sixth iteration [a couple of months ago](https://osu.ppy.sh/home/news/2026-06-14-aspire-6). It featured a bunch of format changes (which you can read about in [the contest's wiki page](/wiki/Contests/Aspire/6)), including an all-new team format.
 
-Registrations and submissions are now closed, and it's time for *you* to speak your mind on which contestants deverve to be recognised as all-mighty Aspirants.
+Registrations and submissions are now closed, and it's time for *you* to speak your mind on which contestants deserve to be recognised as almighty Aspirants.
 
 We've prepared a highlight reel to introduce you to the entries, which you can watch below.
 
