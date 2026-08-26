@@ -26,7 +26,7 @@ That said, the best way to experience and vote for the entries is to actually pl
 
 We mentioned that the exact categories and rewards will be confirmed after submissions close. After tallying the entries, we'll be locking down the voting phase to the following format:
 
-- **osu!:** Prizes are split between *Visual Spectacle* and *Innovative Gameplay* categories, which one winning Aspirant and two runner-ups each. You get to cast 3 votes.
+- **osu!:** Prizes are split between *Visual Spectacle* and *Innovative Gameplay* categories, with one winning Aspirant and two runner-ups each. You get to cast 3 votes.
 - **osu!taiko:** There will be one winning Aspirant. You get to cast 1 vote.
 - **osu!catch:** There will be one winning Aspirant. You get to cast 1 vote.
 - **osu!mania:** There will be one winning Aspirant and one runner-up. You get to cast 2 votes.
