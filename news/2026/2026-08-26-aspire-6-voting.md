@@ -58,7 +58,7 @@ Here's a full list of entries. As mentioned, we recommend playing or viewing all
 ### osu!
 
 | Client | Entry |
-| :-: | :-- |
+| :-- | :-- |
 | Either | [Akiri - Symphony Of The Beginning](https://osu.ppy.sh/beatmapsets/2608595#osu/5839960) |
 | osu!(lazer) | [Aquestion - We just wanted to live on the earth](https://osu.ppy.sh/beatmapsets/2608616#osu/5839997) |
 | osu!(lazer) | [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/2608581#osu/5839941) |
@@ -86,7 +86,7 @@ Here's a full list of entries. As mentioned, we recommend playing or viewing all
 ### osu!taiko
 
 | Client | Entry |
-| :-: | :-- |
+| :-- | :-- |
 | osu!(stable) | [Akiri - Break For Everest](https://osu.ppy.sh/beatmapsets/2608396#taiko/5839495) |
 | osu!(stable) | [Camellia - Fly Wit Me](https://osu.ppy.sh/beatmapsets/2608398#taiko/5839509) |
 | osu!(stable) | [Kikuo - Gakkou o Yasunda Hi no Koto](https://osu.ppy.sh/beatmapsets/2608406#taiko/5839532) |
@@ -96,7 +96,7 @@ Here's a full list of entries. As mentioned, we recommend playing or viewing all
 ### osu!catch
 
 | Client | Entry |
-| :-: | :-- |
+| :-- | :-- |
 | osu!(stable) | [Aiobahn feat. KOTOKO - Internet Yamero](https://osu.ppy.sh/beatmapsets/2608394#fruits/5839492) |
 | Either | [antiPLUR - Clockwork Spooks](https://osu.ppy.sh/beatmapsets/2608391#fruits/5839488) |
 | osu!(lazer) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608393#fruits/5839490) |
@@ -104,7 +104,7 @@ Here's a full list of entries. As mentioned, we recommend playing or viewing all
 ### osu!mania
 
 | Client | Entry |
-| :-: | :-- |
+| :-- | :-- |
 | Either | [Akiri - ATOMIC RAILGUN](https://osu.ppy.sh/beatmapsets/2607765#mania/5837285) |
 | osu!(stable) | [BilliumMoto - Amethyst Aurora](https://osu.ppy.sh/beatmapsets/2607762#mania/5837268) |
 | osu!(stable) | [Camellia - BAD ACCESS (FROM A MOE MAID)](https://osu.ppy.sh/beatmapsets/2607766#mania/5837286) |
