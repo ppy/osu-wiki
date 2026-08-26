@@ -129,7 +129,7 @@ It's time for what's everyone's been waiting for. Head over to the following con
 
 [![**Click here to vote for the osu!mania entries!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-button-vote-osu!mania.png)](https://osu.ppy.sh/community/contests/294)
 
-Voting will close on September 2 (23:59 UTC), after which the results will be streamed on the [osulive Twitch channel](https://www.twitch.tv/osulive) on September 12 (15:00 UTC).
+Voting will close on September 2 (23:59 UTC), after which the results will be streamed on the [osulive Twitch channel](https://www.twitch.tv/osulive) on September 11 (15:00 UTC).
 
 ---
 
