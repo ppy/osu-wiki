@@ -119,9 +119,9 @@ Here's a full list of entries. As mentioned, we recommend playing or viewing all
 
 It's time for what's everyone's been waiting for. Head over to the following contest pages to check out each entry and cast your votes.
 
-[![**Click here to vote in the osu! Visual Spectacle category!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-vote-osu!.png)](https://osu.ppy.sh/community/contests/290)
+[![**Click here to vote in the osu! Visual Spectacle category!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-vote-osu!-vs.png)](https://osu.ppy.sh/community/contests/290)
 
-[![**Click here to vote in the osu! Innovative Gameplay category!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-vote-osu!.png)](https://osu.ppy.sh/community/contests/291)
+[![**Click here to vote in the osu! Innovative Gameplay category!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-vote-osu!-ig.png)](https://osu.ppy.sh/community/contests/291)
 
 [![**Click here to vote for the osu!taiko entries!**](/wiki/shared/news/2026-08-26-aspire-6-voting/aspire-6-vote-osu!taiko.png)](https://osu.ppy.sh/community/contests/292)
 
