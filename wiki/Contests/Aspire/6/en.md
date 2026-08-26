@@ -65,7 +65,7 @@ Aspire 6 is run by various members of the [osu! team](/wiki/People/osu!_team) an
 | Host | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |
 | Designer | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) |
 | General assistance | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
-| Replayer | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136), ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
+| Replayer | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136), ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
 
 ## Participants
 
