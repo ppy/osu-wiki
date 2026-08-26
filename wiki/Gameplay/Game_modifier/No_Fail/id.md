@@ -5,8 +5,6 @@ tags:
   - NF
   - mod
   - game modifier
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # No Fail (mod)
@@ -32,7 +30,7 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ## Deskripsi
 
-Mod **No Fail** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang mencegah pemain untuk gagal dalam suatu [beatmap](/wiki/Beatmap). Menggunakan mod No Fail akan menyebabkan pemain mustahil untuk gagal dalam sebuah [beatmap](/wiki/Beatmap), bahkan jika [life bar](/wiki/Client/Interface/Health_bar) sudah kosong. Tetapi, jika pemain tidak mendapatkan skor apapun pada beatmap tersebut, play tersebut yang *akan* gagal, sebagai gantinya.
+Mod **No Fail** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang mencegah pemain untuk gagal dalam suatu [beatmap](/wiki/Beatmap). Menggunakan mod No Fail akan menyebabkan pemain mustahil untuk gagal dalam sebuah [beatmap](/wiki/Beatmap), bahkan jika [health bar](/wiki/Client/Interface/Health_bar) sudah kosong. Tetapi, jika pemain tidak mendapatkan skor berapapun pada beatmap tersebut, play tersebut yang *akan* gagal, sebagai gantinya.
 
 Sejak 16 Januari 2021, penggunaan mod No Fail dapat menyebabkan pemain mendapatkan penalti pada jumlah [performance points](/wiki/Performance_points) yang diraih berdasarkan miss yang didapatkan. Dimulai dari nilai dasar 1.0x (100%), setiap miss akan mengurangi pengali performance point sebesar -0.02x (0.5%) hingga pengali performance point mencapai 0.9x (90%).
 
