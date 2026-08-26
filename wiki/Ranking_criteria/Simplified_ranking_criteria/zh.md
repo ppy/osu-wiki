@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c33493a68ff0fd04d12d4432725bb13745b06696
+---
+
 # 简版上架标准
 
 *对于完整版谱面上架标准 (RC)，请参阅：[谱面上架标准](/wiki/Ranking_criteria)*
