@@ -6,6 +6,8 @@ tags:
   - mod
   - lazer mod
   - game modifier
+  - kustomisasi
+  - customise
 ---
 
 # Easy (lazer mod)
@@ -44,35 +46,35 @@ tags:
 **Catatan:** Untuk melihat daftar keseluruhan dari semua mod [lazer](/wiki/Client/Release_stream/Lazer), kunjungi: [Game Modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Easy** mod attempts to make gameplay easier by decreasing the difficulty settings of a [beatmap](/wiki/Beatmap).
+Mod **Easy** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang mencoba meringankan kesulitan pada sebuah [beatmap](/wiki/Beatmap).
 
-In all [game modes](/wiki/Game_mode) except osu!taiko, the mod grants the player two extra lives in case the [health bar](/wiki/Client/Interface/Health_bar) drops to zero, which will then be refilled instantly.
+Di semua [mode permainan](/wiki/Game_mode) kecuali [osu!taiko](/wiki/Game_mode/osu!taiko), mod Easy akan memberikan dua "nyawa" tambahan jika [health bar](/wiki/Client/Interface/Health_bar) pemain habis, yang akan diisi ulang secara instan.
 
 ### ![][osu!] osu!
 
-In osu!, [circle size](/wiki/Beatmap/Circle_size), [HP drain](/wiki/Beatmap/HP_drain_rate), [overall difficulty](/wiki/Beatmap/Overall_difficulty) and [approach rate](/wiki/Beatmap/Approach_rate) are cut in half.
+Di mode permainan osu!, nilai [circle size](/wiki/Beatmap/Circle_size), [HP drain](/wiki/Beatmap/HP_drain_rate), [overall difficulty](/wiki/Beatmap/Overall_difficulty) dan [approach rate](/wiki/Beatmap/Approach_rate) akan dikurangi setengah.
 
 ### ![][osu!taiko] osu!taiko
 
-In osu!taiko, [HP drain](/wiki/Beatmap/HP_drain_rate) and [overall difficulty](/wiki/Beatmap/Overall_difficulty) are cut in half, while the scroll speed is reduced by 20%.
+Di mode permainan osu!taiko, nilai [HP drain](/wiki/Beatmap/HP_drain_rate) and [overall difficulty](/wiki/Beatmap/Overall_difficulty) akan dikurangi setengah, sementara scroll speed akan dikurangi sebesar 20%.
 
 ### ![][osu!catch] osu!catch
 
-In osu!catch, [circle size](/wiki/Beatmap/Circle_size), [HP drain](/wiki/Beatmap/HP_drain_rate) and [approach rate](/wiki/Beatmap/Approach_rate) are cut in half.
+Di mode permainan osu!catch, nilai [circle size](/wiki/Beatmap/Circle_size), [HP drain](/wiki/Beatmap/HP_drain_rate) and [approach rate](/wiki/Beatmap/Approach_rate) akan dikurangi setengah.
 
 ### ![][osu!mania] osu!mania
 
-In osu!mania, the [HP drain](/wiki/Beatmap/HP_drain_rate) is cut in half, while the timing windows become approximately 40% less strict.
+Di mode permainan osu!mania, nilai [HP drain](/wiki/Beatmap/HP_drain_rate) akan dikurangi setengah, sementara timing window akan menjadi lebih toleran sebesar sekitar 40%.
 
-## Customisation
+## Penyesuaian
 
-![Easy customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/EZ.png)
+![Menu penyesuaian mod Easy di dalam game](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/EZ.png)
 
-This mod can be customised in all game modes except osu!taiko.
+Mod ini dapat disesuaikan di semua mode permainan kecuali osu!taiko.
 
-- `Extra Lives` (0–10, default: 2): The number of extra lives when starting a beatmap.
+- `Extra Lives` (0–10, bawaan: 2): Jumlah nyawa tambahan saat memulai sebuah beatmap.
 
-Changing the number of extra lives will cause your scores to be **unranked**.
+Mengubah jumlah nyawa tambahan akan menyebabkan skor pemain menjadi **unranked**.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
