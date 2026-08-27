@@ -287,7 +287,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
   3. [KOAN Sound - Forgotten Myths (Cut Ver.) (Alicia) \[once forgotten\]](https://osu.ppy.sh/beatmapsets/2604491#mania/5826005)
 - Long Note
   1. [Hyadain - Hyadain's Jojo Yujo (fvrex) \[Helvetica Standard (cut)\]](https://osu.ppy.sh/beatmapsets/2604526#mania/5826080)
-  2. [Natsume Chiaki - Hanairo Biyori (Cut Ver.) (Yuiesta) \[Spring\]](https://osu.ppy.sh/beatmapsets/2604473#mania/5825939)
+  2. [Natsume Chiaki - Hanairo Biyori (Cut Ver.) (Yuiesta) \[Spring\]](https://osu.ppy.sh/beatmapsets/2604473#mania/5845017)
   3. [dark cat - ELINE (Toaph Daddy) \[ECHOES (LN-Edit)\]](https://osu.ppy.sh/beatmapsets/2211538#mania/5826013)
 - Tiebreaker
   1. **[Christian McBride Trio - Cherokee (Live) (Cut Ver.) (-mint-) \[American Express 1.1x\]](https://osu.ppy.sh/beatmapsets/2604501#mania/5826029)**
