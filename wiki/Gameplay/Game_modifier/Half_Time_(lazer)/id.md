@@ -47,7 +47,7 @@ Mod **Half Time** mengurangi kecepatan tempo (BPM) dari beatmap apa pun sebesar 
 - `Speed decrease` (0.50x–0.99x, bawaan: 0.75x): Kecepatan beatmap yang dimainkan.
 - `Adjust pitch` (bawaan: nonaktif): Mengubah frekuensi audio berdasarkan kecepatan yang dipilih. Mengaktifkan `Adjust pitch` dengan kecepatan bawaan akan menghasilkan efek suara yang sama seperti mod [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore).
 
- Mengubah pengaturan `Speed decrease` akan menyebabkan skor pemain menjadi **unranked**, sedangkan mengaktifkan `Adjust pitch` tidak akan mengubah skor pemain menjadi unranked.
+Mengubah pengaturan `Speed decrease` akan menyebabkan skor pemain menjadi **unranked**, sedangkan mengaktifkan `Adjust pitch` tidak akan mengubah skor pemain menjadi unranked.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
