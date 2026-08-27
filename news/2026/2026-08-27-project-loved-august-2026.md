@@ -9,7 +9,7 @@ Pro ject Lo ved is ba ck !
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-A bit broken up, a bit late, but we made it anyway, for another month. Are you new to the game, just checking the news for the first time, or just unsure in general? Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll. Alternatively you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/).
+A bit broken up, a bit late, but we made it anyway for another month. Are you new to the game, just checking the news for the first time, or just unsure in general? Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved) and all of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll! Alternatively, you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/).
 
 Regarding last round, you can view the results here:
 
@@ -20,7 +20,7 @@ Regarding last round, you can view the results here:
 
 And finally, here are the August 2026 picks, as always remember you can test them out in our osu!(lazer) playlists pinned in the comments below!
 
-PS. The preview videos are back, please thank our editor [Yasuho](https://osu.ppy.sh/users/8458835)!
+PS: The preview videos are back, please thank our editor [Yasuho](https://osu.ppy.sh/users/8458835)!
 
 ### Navigation
 
@@ -318,13 +318,13 @@ Do you think you have what it takes to handle the rhythm? Vote yes.
 
 Hey! Any Hatsune Miku fans out there?
 
-Today, I present to you [IRUMA feat. Hatsune Miku - jigoku](https://osu.ppy.sh/beatmapsets/2284804#fruits/4873155) mapped by [Mochi -](https://osu.ppy.sh/users/20424806). A map that was introduced as a NoMod 3 Grand Finals custom map for [3 Digit Catch World Cup 2024](https://osu.ppy.sh/community/forums/topics/1977529?n=1). Usual NM3 slots are featured as a gimmick slot. This one is not any different but... the "gimmickiness" comes from the stacks rather than usual 1/4 with 1/2 density movement!
+Today, I present to you [IRUMA feat. Hatsune Miku - jigoku](https://osu.ppy.sh/beatmapsets/2284804#fruits/4873155) mapped by [Mochi -](https://osu.ppy.sh/users/20424806). A map that was introduced as a NM3 Grand Finals custom map for [3 Digit Catch World Cup 2024](https://osu.ppy.sh/community/forums/topics/1977529?n=1). Usual NM3 slots are featured as a gimmick slot. This one is not any different but... the "gimmickiness" comes from the stacks rather than usual 1/4 with 1/2 density movement!
 
 While playing the map, you can experience very unique usage of 1/8 stacks, which requires a smooth movement. Sometimes those are used in conjuction with sharper 1/12 sliders, so pay attention to that! Outside of the kiai section, this map tests your awareness by mixing low density sections with jumpscare stacks that represent the buzz sounds. Other than that, the section before second kiai is a great precision test, mixing low density with higher spacing until the slow part just before the kiai!
 
-The whole difficulty is great for most of players since of its approach rate being set to 9. That means, it is a great experience for amateurs who want to play with either NoMod (like in a tournament) or with Hidden making it a decent reading skill check. HardRock is also a good precision test, but be careful of patterns requiring much more precision (me when HR randomization). Finally, DoubleTime is perfect for end game specialists trying to find something other than usual patterns used in high star rating DoubleTime maps
+The whole difficulty is great for most players given its approach rate being set to 9. This means it is a great experience for amateurs who want to play with either no mods (like in a tournament) or with Hidden making it a decent reading skill check. Hard Rock is also a good precision test, but be careful of patterns requiring much more precision (me when HR randomisation). Finally, Double Time is perfect for end game specialists trying to find something other than usual patterns used in high star rating Double Time maps.
 
-Summarizing, if you want to see something unusual, made with passion or you are just a Vocaloid fan, well... give this map a try and click yes during the voting!
+In summary, if you want to see something unusual, made with passion or you are just a Vocaloid fan, well... give this map a try and click yes during the voting!
 
 ## osu!mania
 
@@ -367,7 +367,7 @@ This time, we'd like to introduce another of his signature tracks, blending trad
 Today's featured chart is [KOKUSHIMUSOU (国士無双)](https://osu.ppy.sh/beatmapsets/2032865#mania/4237590) by [nate](https://osu.ppy.sh/users/11787461), a mapper whose work specializes in mixed RC charts centered around jumpstreams with a strong technical influence.\
 Among his works, [KOKUSHIMUSOU](https://last-labyrinth1.bandcamp.com/track/--5) is perhaps the clearest showcase of his signature style. Clocking in at 340 (170) BPM, it delivers an intense challenge built around minijacks and broken jumpstreams, creating a chart that constantly demands quick adaptation and precise hand control.
 
-The opening immediately throws players into dense hand-alternating Minijacks formed by rapid Triple and Double combinations before seamlessly transitioning into broken streams and trill grace patterns. Throughout the section, jumpstreams frequently shift back into minijacks in sync with the drum rhythm, allowing the patterning to evolve naturally while maintaining an engaging sense of flow. After a brief break, the chart raises the stakes even further. Delays begin pouring in at a staggering 425 (213) BPM, pushing the difficulty to another level before leading into relentless combinations of jumpstreams and broken streams. The chart ultimately concludes with an impactful light handstream, delivering a satisfying finish to an already demanding experience.
+The opening immediately throws players into dense hand-alternating minijacks formed by rapid triple and double combinations before seamlessly transitioning into broken streams and trill grace patterns. Throughout the section, jumpstreams frequently shift back into minijacks in sync with the drum rhythm, allowing the patterning to evolve naturally while maintaining an engaging sense of flow. After a brief break, the chart raises the stakes even further. Delays begin pouring in at a staggering 425 (213) BPM, pushing the difficulty to another level before leading into relentless combinations of jumpstreams and broken streams. The chart ultimately concludes with an impactful light handstream, delivering a satisfying finish to an already demanding experience.
 
 [KOKUSHIMUSOU](https://last-labyrinth1.bandcamp.com/track/--5) is already a well-known chart within the community, but its reputation alone is not why it was selected for Loved.\
 After years of playing charts in this style, I can say without hesitation that it is one of the most distinctive and enjoyable jumpstream charts I have played, combining a strong sense of flow with unusually flexible transitions mixed jumpstream patterns.
