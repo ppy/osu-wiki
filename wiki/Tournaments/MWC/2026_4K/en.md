@@ -160,6 +160,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 
 ### Round of 32
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1rJx-h_6wkSc3o3SgOBMEMm_t6TpN7StK2TpXUkQB8Hk?rm=minimal).
+
 Friday, 21 August 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
