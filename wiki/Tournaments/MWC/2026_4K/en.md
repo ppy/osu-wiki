@@ -124,18 +124,22 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 
 ## Match schedule: Round of 16
 
+### Thursday, 27 August 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |
+| :-: | --: | :-- | :-- | :-: |
+| 22 | Qatar ::{ flag=QA }:: | ::{ flag=TW }:: Taiwan | [Aug 27 (Thu) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260827T150000&p1=1440&p3=241) | [osulive](https://twitch.tv/osulive) |
+
 ### Saturday, 29 August 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| 22 | Qatar ::{ flag=QA }:: | ::{ flag=TW }:: Taiwan | [Aug 29 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T090000&p1=1440&p3=241) | [osulive](https://twitch.tv/osulive) |
-| 19 | Denmark ::{ flag=DK }:: | ::{ flag=HK }:: Hong Kong | [Aug 29 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T100000&p1=1440&p2=69&p3=102) | [osulive](https://twitch.tv/osulive) |
 | 23 | Ukraine ::{ flag=UA }:: | ::{ flag=BR }:: Brazil | [Aug 29 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T120000&p1=1440&p2=367&p3=45) | [osulive](https://twitch.tv/osulive) |
 | 24 | Netherlands ::{ flag=NL }:: | ::{ flag=FI }:: Finland | [Aug 29 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T130000&p1=1440&p2=16&p3=101) | [osulive](https://twitch.tv/osulive) |
 | 25 | South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Aug 29 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T130000&p1=1440&p2=235&p3=145) | [osulive_2](https://twitch.tv/osulive_2) |
 | 21 | Norway ::{ flag=NO }:: | ::{ flag=ES }:: Spain | [Aug 29 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T140000&p1=1440&p2=187&p3=141) | [osulive](https://twitch.tv/osulive) |
-| 20 | Germany ::{ flag=DE }:: | ::{ flag=PL }:: Poland | [Aug 29 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T150000&p1=1440&p2=37&p3=262) | [osulive](https://twitch.tv/osulive) |
-| 18 | Portugal ::{ flag=PT }:: | ::{ flag=FR }:: France | [Aug 29 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T160000&p1=1440&p2=133&p3=195) | [osulive](https://twitch.tv/osulive) |
+| 30 | Canada ::{ flag=CA }:: | ::{ flag=SG }:: Singapore | [Aug 29 (Sat) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T153000&p1=1440&p2=188&p3=236) | [osulive](https://twitch.tv/osulive) |
+| 18 | Portugal ::{ flag=PT }:: | ::{ flag=FR }:: France | [Aug 29 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T160000&p1=1440&p2=133&p3=195) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] |
 | 31 | Chile ::{ flag=CL }:: | ::{ flag=AR }:: Argentina | [Aug 29 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T200000&p1=1440&p2=232&p3=51) | [osulive](https://twitch.tv/osulive) |
 | 29 | United States ::{ flag=US }:: | ::{ flag=MX }:: Mexico | [Aug 29 (Sat) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260829T210000&p1=1440&p2=263&p3=155) | [osulive](https://twitch.tv/osulive) |
 
@@ -144,16 +148,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
 | 27 | China ::{ flag=CN }:: | ::{ flag=PE }:: Peru | [Aug 30 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T030000&p1=1440&p2=33&p3=131) | [osulive](https://twitch.tv/osulive) |
-| 32 | Russian Federation ::{ flag=RU }:: | ::{ flag=AU }:: Australia | [Aug 30 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T090000&p1=1440&p2=166&p3=57) | [osulive](https://twitch.tv/osulive) |
-| 26 | Thailand ::{ flag=TH }:: | ::{ flag=MY }:: Malaysia | [Aug 30 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T110000&p1=1440&p2=28&p3=122) | [osulive](https://twitch.tv/osulive) |
-| 28 | United Kingdom ::{ flag=GB }:: | ::{ flag=ID }:: Indonesia | [Aug 30 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T120000&p1=1440&p2=136&p3=108) | [osulive](https://twitch.tv/osulive) |
-| 30 | Canada ::{ flag=CA }:: | ::{ flag=SG }:: Singapore | [Aug 30 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T130000&p1=1440&p2=188&p3=236) | [osulive](https://twitch.tv/osulive) |
-| 17 | Czechia ::{ flag=CZ }:: | ::{ flag=VN }:: Vietnam | [Aug 30 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T140000&p1=1440&p2=204&p3=95) | [osulive](https://twitch.tv/osulive) |
+| 26 | Thailand ::{ flag=TH }:: | ::{ flag=MY }:: Malaysia | [Aug 30 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T090000&p1=1440&p2=28&p3=122) | [osulive](https://twitch.tv/osulive) |
+| 32 | Russian Federation ::{ flag=RU }:: | ::{ flag=AU }:: Australia | [Aug 30 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T110000&p1=1440&p2=166&p3=57) | [osulive](https://twitch.tv/osulive) |
+| 19 | Denmark ::{ flag=DK }:: | ::{ flag=HK }:: Hong Kong | [Aug 30 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T130000&p1=1440&p2=69&p3=102) | [osulive_2](https://twitch.tv/osulive_2) |
+| 28 | United Kingdom ::{ flag=GB }:: | ::{ flag=ID }:: Indonesia | [Aug 30 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T130000&p1=1440&p2=136&p3=108) | [osulive](https://twitch.tv/osulive) |
+| 17 | Czechia ::{ flag=CZ }:: | ::{ flag=VN }:: Vietnam | [Aug 30 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T140000&p1=1440&p2=204&p3=95) | [osulive_2](https://twitch.tv/osulive_2) |
+| 20 | Germany ::{ flag=DE }:: | ::{ flag=PL }:: Poland | [Aug 30 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T140000&p1=1440&p2=37&p3=262) | [osulive](https://twitch.tv/osulive) |
 | SC | Quarterfinals | mappool showcase | [Aug 30 (Sun) 18:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260830T180000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Match results
 
 ### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1rJx-h_6wkSc3o3SgOBMEMm_t6TpN7StK2TpXUkQB8Hk?rm=minimal).
 
 Friday, 21 August 2026:
 
