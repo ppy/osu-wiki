@@ -20,7 +20,7 @@ Regarding last round, you can view the results here:
 
 And finally, here are the August 2026 picks, as always remember you can test them out in our osu!(lazer) playlists pinned in the comments below!
 
-PS. The preview videos are back, please thank our editor [Yasuho](url=https://osu.ppy.sh/users/8458835])!
+PS. The preview videos are back, please thank our editor [Yasuho](https://osu.ppy.sh/users/8458835)!
 
 ### Navigation
 
@@ -185,7 +185,7 @@ Let's keep the first Loved train going, and cast your precious vote for this map
 292 BPM, 2:21 | 7.11★, 7.72★\
 *description written by [nevqr](https://osu.ppy.sh/users/14269506)*
 
-[nass](nananass) map, double BPM and western music??? This map checks all the boxes to be an absolute banger!
+[nass](https://osu.ppy.sh/users/7231722) map, double BPM and western music??? This map checks all the boxes to be an absolute banger!
 
 To the untrained eye, [The Harvest](https://osu.ppy.sh/beatmapsets/1878351#taiko/3866455) may seem just like a normal speed map, although skilled singletappers will be quick to notice the hard coloring surrounding the various 1/3 and 1/4 patterns in the map! The map gets even crazier towards the end during the guitar solo where you'll find combinations of snaps that you wouldn't find in your wildest dreams!
 
