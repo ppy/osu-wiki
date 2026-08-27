@@ -20,12 +20,12 @@ tags:
 |  |  |
 | :-- | :-- |
 | Singkatan | NF |
-| Jenis | Pengurang Kesulitan |
-| Tombol Pintasan | `W` |
+| Tipe | Pengurang Kesulitan |
+| Tombol pintasan default | `W` |
 | Mode Permainan | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Pengali Skor | `0.50x` |
 | Status | Ranked |
-| Mod yang tidak cocok | [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
+| Mod yang tidak kompatibel | [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 
 :::
 

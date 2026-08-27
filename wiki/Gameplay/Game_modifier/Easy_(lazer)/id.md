@@ -28,13 +28,13 @@ tags:
 |  |  |
 | :-- | :-- |
 | Singkatan | EZ |
-| Jenis | Pengurang Kesulitan |
-| Tombol Pintasan | `Q` |
+| Tipe | Pengurang Kesulitan |
+| Tombol pintasan default | `Q` |
 | Mode Permainan | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Pengali skor | `0.80x*` |
 | Status | Ranked |
-| Mod yang tidak cocok ![][osu!] ![][osu!catch] ![][osu!mania] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
-| Mod yang tidak cocok ![][osu!taiko] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
+| Mod yang tidak kompatibel ![][osu!] ![][osu!catch] ![][osu!mania] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
+| Mod yang tidak kompatibel ![][osu!taiko] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
 
 :::
 
@@ -72,7 +72,7 @@ Di mode permainan osu!mania, nilai [HP drain](/wiki/Beatmap/HP_drain_rate) akan 
 
 Mod ini dapat disesuaikan di semua mode permainan kecuali osu!taiko.
 
-- `Extra Lives` (0–10, bawaan: 2): Jumlah nyawa tambahan saat memulai sebuah beatmap.
+- `Extra Lives` (0–10, default: 2): Jumlah nyawa tambahan saat memulai sebuah beatmap.
 
 Mengubah jumlah nyawa tambahan akan menyebabkan skor pemain menjadi **unranked**.
 

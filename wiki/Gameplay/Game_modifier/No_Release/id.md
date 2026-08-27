@@ -19,12 +19,12 @@ tags:
 |  |  |
 | :-- | :-- |
 | Singkatan | NR |
-| Jenis | Pengurang Kesulitan |
-| Tombol Pintasan | `T` |
+| Tipe | Pengurang Kesulitan |
+| Tombol pintasan default | `T` |
 | Mode Permainan | ![][osu!mania] |
 | Pengali Skor | `0.90x` |
 | Status | Unranked |
-| Mod yang tidak cocok | [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert), [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
+| Mod yang tidak kompatibel | [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert), [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
 
 :::
 

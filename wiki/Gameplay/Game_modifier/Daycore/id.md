@@ -19,13 +19,13 @@ tags:
 |  |  |
 | :-- | :-- |
 | Singkatan | DC |
-| Jenis | Pengurang Kesulitan |
-| Tombol Pintasan | `R` |
+| Tipe | Pengurang Kesulitan |
+| Tombol pintasan default | `R` |
 | Mode Permainan | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Pengali Skor | `0.30x*` |
 | Status | Ranked |
-| Mod yang tidak cocok ![][osu!] ![][osu!taiko] ![][osu!mania] | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) |
-| Mod yang tidak cocok ![][osu!catch] | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
+| Mod yang tidak kompatibel ![][osu!] ![][osu!taiko] ![][osu!mania] | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) |
+| Mod yang tidak kompatibel ![][osu!catch] | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
 
 :::
 
@@ -33,7 +33,7 @@ tags:
 **Catatan:** Untuk melihat daftar keseluruhan dari semua mod [lazer](/wiki/Client/Release_stream/Lazer), kunjungi: [Game Modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-The **Daycore** mod behaves exactly like [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) regarding speed changes and difficulty adjustments. Mod **Daycore** berfungsi persis seperti mod [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) terkait perubahan kecepatan dan pengaturan kesulitan. However, it decreases the audio frequency by 25% without offering the pitch adjustment options available in customisation settings. Namun, mod ini mengurangi frekuensi audio sebesar 25% tanpa menyediakan opsi untuk mengubah pitch di menu penyesuaian.
+Mod **Daycore** berfungsi persis seperti mod [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) terkait perubahan kecepatan dan pengaturan kesulitan. Namun, mod ini mengurangi frekuensi audio sebesar 25% tanpa menyediakan opsi untuk mengubah pitch di menu penyesuaian.
 
 ## Penyesuaian
 
