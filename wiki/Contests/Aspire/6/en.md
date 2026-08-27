@@ -231,7 +231,7 @@ Before submitting, please check the following:
 
 After determining categories, [contest listing pages](https://osu.ppy.sh/community/contests) will be created for each category.
 
-The osu! game mode will feature the Visual Spectacle and Innovative Gameplay categories, with 2 votes available per category. osu!taiko, osu!catch, and osu!mania will feature a combined Aspire category, with 1 vote available per game mode.
+The osu! game mode will feature the Visual Spectacle and Innovative Gameplay categories, with 3 votes available per category. osu!taiko, osu!catch, and osu!mania will feature a combined Aspire category, with 1 vote available for osu!taiko and osu!catch, and 2 votes available for osu!mania.
 
 Entries will be anonymised and uploaded to the [osu!team account](https://osu.ppy.sh/users/4341397) for voting.
 
