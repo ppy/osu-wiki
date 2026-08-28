@@ -8,7 +8,7 @@ tags:
 
 ![NDC banner](img/banner.jpg)
 
-The **National Dutch Championship 2026** (***NDC 2026***) is a 1v1, double elimination osu!standard tournament hosted by ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619), ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649) and ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731). It is the fifth instalment of the National Dutch Championship.
+The **National Dutch Championship 2026** (***NDC 2026***) is a 1v1, double elimination osu!standard tournament hosted by ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619), ::{ flag=NL }:: [vifiiy](https://osu.ppy.sh/users/12876323), ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649) and ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731). It is the fifth instalment of the National Dutch Championship.
 
 ## Tournament schedule
 
@@ -39,7 +39,7 @@ The tournament and prize pool is sponsored by both the organisation and communit
 
 - ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403): €500
 - ::{ flag=NL }:: [S O U R](https://osu.ppy.sh/users/4445948): €500
-- ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323): €350
+- ::{ flag=NL }:: [vifiiy](https://osu.ppy.sh/users/12876323): €350
 - ::{ flag=NL }:: [Aimy](https://osu.ppy.sh/users/20348925): €350
 - ::{ flag=NL }:: [Timper](https://osu.ppy.sh/users/11955929): €200
 
