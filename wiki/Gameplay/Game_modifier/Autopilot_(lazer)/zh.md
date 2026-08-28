@@ -3,8 +3,6 @@ stub: true
 tags:
   - AP
   - auto pilot
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Autopilot（lazer 模组）
@@ -31,9 +29,18 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[Autopilot（模组）](/wiki/Gameplay/Game_modifier/Autopilot)*\
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于该文章的 osu!stable 版本，请见：[Autopilot（模组）](/wiki/Gameplay/Game_modifier/Autopilot)
+:::
 
-<!-- TODO description and settings -->
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
+
+**Autopilot** 模组在[谱面](/wiki/Beatmap)游玩过程中，会自动完美移动光标，让玩家只需按时点击[打击物件](/wiki/Gameplay/Hit_object)即可进行游戏。当[转盘](/wiki/Gameplay/Hit_object/Spinner)出现时，该模组还会以旋转的方式移动光标，但玩家仍需按住按键或鼠标才能完成转盘。与 [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)) 模组类似，Autopilot 模组会以每分钟 477 转 (SPM) 的速度逆时针旋转转盘。
+
+在 osu!(lazer) 中，使用 Autopilot 模组完成谱面后会触发成绩上传，但不会获得[表现分](/wiki/Performance_points)。与 osu!(stable) 不同，使用该模组游玩是有可能失败的。
+
+**此模组不支持自定义。**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
