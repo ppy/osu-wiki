@@ -1,11 +1,6 @@
----
-outdated_translation: true
-outdated_since: 96d3a3d81d124a47b12e27e6f5016131231ee31f
----
-
 # 赛事处罚
 
-*主页面： [帮助中心](/wiki/Help_centre)*
+*主页面：[帮助中心](/wiki/Help_centre)*
 
 ## 赛事封禁
 
@@ -93,3 +88,11 @@ outdated_since: 96d3a3d81d124a47b12e27e6f5016131231ee31f
 尽管可以对无限期赛事封禁进行申诉，但必须强调，任何成功的可能都取决于在**撰写申诉之外**，于更广泛的社区中做出显著贡献。成功申诉无限期赛事封禁的用户名单可[在此论坛主题中查看](https://osu.ppy.sh/community/forums/topics/1798871)。
 
 在极少数情况下，[账户支持团队](/wiki/People/Account_support_team)可自行裁量复查个别案例，并撤销或重新施加适当的处罚，以确保与过往类似案例的处理标准保持一致。
+
+## 赛事处罚公开可见吗？{id=visibility}
+
+::: Infobox
+![](img/tourney-ban-profile.png "用户资料页显示的禁赛处罚")
+:::
+
+无限期的禁赛处罚以及通过[标准申诉流程](/wiki/Help_centre/Account_restrictions#appeal-granted)以外方式施加的禁赛处罚，将在用户资料中显示禁赛时长。时长为整个禁赛处罚期，加上额外的 **28 天**。其他类型的赛事处罚（即主办资格观察期、主办资格封禁与工作人员资格封禁）则不会以这种方式公开可见。
