@@ -62,7 +62,7 @@ La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=JP }:: [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
 | ::{ flag=US }:: [Absolute Zero](https://osu.ppy.sh/users/4847256) | [0 K](https://osu.ppy.sh/beatmaps/artists/424) |
 | ::{ flag=US }:: [Akiri](https://osu.ppy.sh/users/19587411) | [Akiri](https://osu.ppy.sh/beatmaps/artists/401) |
-| ::{ flag=CL }:: [Akts](https://osu.ppy.sh/users/6309660) | [Akts](https://osu.ppy.sh/beatmaps/artists/513) |
+| ::{ flag=CL }:: [akts](https://osu.ppy.sh/users/6309660) | [Akts](https://osu.ppy.sh/beatmaps/artists/513) |
 | ::{ flag=US }:: [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
 | ::{ flag=AU }:: [aquellex](https://osu.ppy.sh/users/3137790) | [Aquellex](https://osu.ppy.sh/beatmaps/artists/380) |
 | ::{ flag=HK }:: [Ardolf](https://osu.ppy.sh/users/12359061) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) |
@@ -118,7 +118,7 @@ La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=US }:: [MintyDoggo](https://osu.ppy.sh/users/10416815) | [Myntian](https://osu.ppy.sh/beatmaps/artists/495) |
 | ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ::{ flag=MY }:: [mochasan_](https://osu.ppy.sh/users/23804364) | [Ariz Kayaba](https://osu.ppy.sh/beatmaps/artists/533) |
-| ::{ flag=FI }:: [naikou_i_guess](https://osu.ppy.sh/users/29139453) | [Naikou](https://osu.ppy.sh/beatmaps/artists/471) |
+| ::{ flag=FI }:: [Naikoumusic](https://osu.ppy.sh/users/29139453) | [Naikou](https://osu.ppy.sh/beatmaps/artists/471) |
 | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
 | ::{ flag=JP }:: [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
 | ::{ flag=JP }:: [Namirin](https://osu.ppy.sh/users/2264828) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) |
@@ -137,6 +137,7 @@ La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
 | ::{ flag=HK }:: [Rose Quartz](https://osu.ppy.sh/users/17348593) | [Rose Quartz](https://osu.ppy.sh/beatmaps/artists/429) |
 | ::{ flag=PH }:: [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |
+| ::{ flag=CA }:: [samostara](https://osu.ppy.sh/users/13278140) | [keyesgen](https://osu.ppy.sh/beatmaps/artists/558) |
 | ::{ flag=GB }:: [SAMString](https://osu.ppy.sh/users/7273976) | [SAMString](https://osu.ppy.sh/beatmaps/artists/273) |
 | ::{ flag=PH }:: [SeiiYuumi](https://osu.ppy.sh/users/38160353) | [Sukima Altera](https://osu.ppy.sh/beatmaps/artists/542) |
 | ::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494) | [Shadren](https://osu.ppy.sh/beatmaps/artists/362) |
@@ -148,7 +149,7 @@ La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) | [Sydosys](https://osu.ppy.sh/beatmaps/artists/392) |
 | ::{ flag=JP }:: [Symholic](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (miembro de) |
 | ::{ flag=US }:: [synthion](https://osu.ppy.sh/users/2872433) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) |
-| ::{ flag=RU }:: [Tachibana_](https://osu.ppy.sh/users/13069714) | [tachibanaka](https://osu.ppy.sh/beatmaps/artists/520) |
+| ::{ flag=RU }:: [tachibanaka](https://osu.ppy.sh/users/13069714) | [tachibanaka](https://osu.ppy.sh/beatmaps/artists/520) |
 | ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794) | [takehirotei](https://osu.ppy.sh/beatmaps/artists/428) |
 | ::{ flag=US }:: [tephe](https://osu.ppy.sh/users/32666295) | [tephe](https://osu.ppy.sh/beatmaps/artists/361) |
 | ::{ flag=PH }:: [TheMusicalGhost](https://osu.ppy.sh/users/11908434) | [The Musical Ghost](https://osu.ppy.sh/beatmaps/artists/478) |
@@ -168,6 +169,7 @@ La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=KR }:: [WyvernP](https://osu.ppy.sh/users/3611701) | [WyvernP](https://osu.ppy.sh/beatmaps/artists/445) |
 | ::{ flag=UA }:: [XenjeS](https://osu.ppy.sh/users/10166905) | [XenjeS](https://osu.ppy.sh/beatmaps/artists/482) |
 | ::{ flag=ID }:: [Xuande](https://osu.ppy.sh/users/23032672) | [Xeon Diversity](https://osu.ppy.sh/beatmaps/artists/499) |
+| ::{ flag=US }:: [yesandtheyes127](https://osu.ppy.sh/users/15943191) | [jorj1357](https://osu.ppy.sh/beatmaps/artists/556) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 | ::{ flag=US }:: [Yuuni](https://osu.ppy.sh/users/14238916) | [Yuuni](https://osu.ppy.sh/beatmaps/artists/408) |
 | ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) |

@@ -19,7 +19,7 @@
 - **谱面长度必须至少为 30 秒。**
 - **谱面最早只能结束在 [80% 标记](img/percent.png)处。** 如果你想更早结束谱面，请截短歌曲。
 
-### 难度梯度
+### 难度分布
 
 - **难度名必须体现递进关系。**
   - 默认方案是 Easy -> Normal -> Hard -> Insane -> Expert。
@@ -29,17 +29,11 @@
 - **[谱面创建者](/wiki/Beatmap/Beatmap_host)制作的难度数量必须大于等于[客串谱师](/wiki/Beatmap/Guest_difficulty)制作的数量。**
 - **取决于游戏模式和歌曲长度，谱面所需的最低难度不能低于：**
 
-| [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!](/wiki/shared/mode/osu.png "osu!") osu! |
-| :-- | :-: |
-| **0:30 到 3:30** | Normal |
-| **3:30 到 4:15** | Hard |
-| **4:15 到 5:00** | Insane |
-
-| [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch |
-| :-- | :-: | :-: |
-| **0:30 到 2:30** | Futsuu | Salad |
-| **2:30 到 3:15** | Muzukashii | Platter |
-| **3:15 到 4:00** | Oni | Rain |
+| [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!](/wiki/shared/mode/osu.png "osu!") osu! | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch |
+| :-- | :-: | :-: | :-: |
+| **0:30 到 2:30** | Normal | Futsuu | Salad |
+| **2:30 到 3:15** | Hard | Muzukashii | Platter |
+| **3:15 到 4:00** | Insane | Oni | Rain |
 
 | [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania |
 | :-- | :-: |
@@ -171,7 +165,7 @@
 
 ### osu!mania
 
-- **[难度梯度 (Spread)](#难度梯度) 规则应在每一个键位模式或[游玩方式](/wiki/Ranking_criteria/osu!mania#常用术语)上得以体现。** 比如，你的谱面内含有 4K 和 7K 的难度，那么你需要两套难度梯度。
+- **[难度分布 (Spread)](#难度分布) 规则应在每一个键位模式或[游玩方式](/wiki/Ranking_criteria/osu!mania#常用术语)上得以体现。** 比如，你的谱面内含有 4K 和 7K 的难度，那么你需要两套难度分布。
 - **只能上架 4-10、12、14、16、18 键的谱面。** 大于等于 10 键的谱面需要符合[特定游玩方式](/wiki/Beatmapping/osu!mania_10K_plus_playstyles)。
 - **不能出现空轨道。**
 - **不允许在 Insane 或更低的难度中，出现同时按下 6 个键的情况。**

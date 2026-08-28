@@ -14,11 +14,9 @@ tags:
   - keymod
   - keymods
   - xK
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
-# Key mods (lazer)
+# 按键模组 (lazer)
 
 ::: Infobox
 
@@ -37,14 +35,21 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | 游戏模式 | ![][osu!mania] |
 | 得分系数 | `0.90x` |
 | 状态 (4K–9K) | 计入排名 |
-| 状态 (1K–3K, 10K) | 不计入排名 |
+| 状态 (1K–3K, 10K) | 不计表现分 |
 | 不兼容的模组 | 无 |
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[xK（模组）](/wiki/Gameplay/Game_modifier/xK)*\
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于该文章的 osu!stable 版本，请见：[xK（模组）](/wiki/Gameplay/Game_modifier/xK)
+:::
 
-<!-- TODO description and settings -->
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
+
+**按键模组** 让玩家能够更改 osu!mania [谱面](/wiki/Beatmap)的按键数目，支持使用 1 到 10 个键游玩。注意这些模组仅对[转谱](/wiki/Beatmap/Converts)生效。
+
+**这些模组不支持自定义。**
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

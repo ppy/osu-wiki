@@ -158,6 +158,7 @@ outdated_since: ae84174eff84817bb8e81adebf452128f27ea51c
 - ::{ flag=BA }:: [alisha-](https://osu.ppy.sh/users/29031839)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
+- ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227)
 - ::{ flag=DE }:: [KSN](https://osu.ppy.sh/users/5442251)
 - ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619)
 - ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264)
