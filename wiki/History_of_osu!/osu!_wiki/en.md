@@ -94,7 +94,7 @@ This article details the major events in the **history of the osu! wiki** from t
 #### June
 
 - **Unknown date:** ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) was given a special write-access to the osu! wiki repository.
-- **Unknown date:** [Search functionality](https://github.com/ppy/osu-web/pull/2331) was added to the wiki.
+- **2017-06-19:** [Search functionality](https://github.com/ppy/osu-web/pull/1259) was added to the wiki.
 
 ### 2018
 
