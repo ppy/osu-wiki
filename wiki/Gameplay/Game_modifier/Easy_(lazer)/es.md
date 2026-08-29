@@ -68,7 +68,7 @@ Este mod se puede personalizar en todos los modos de juego, excepto en osu!taiko
 
 - `Extra Lives` (0-10, predeterminado 2): El número de vidas extra al iniciar un beatmap.
 
-Si cambias el número de vidas extra, tus puntuaciones serán **no clasificadas**.
+Al cambiar el número de vidas extra, tus puntuaciones serán **no clasificadas**.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

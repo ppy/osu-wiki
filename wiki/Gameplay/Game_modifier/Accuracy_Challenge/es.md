@@ -47,7 +47,7 @@ El mod **Accuracy Challenge** le permite al jugador establecer una [precisión](
   - `Estándar`: El jugador fallará inmediatamente el beatmap si la precisión cae por debajo del valor seleccionado.
 - `Restart on fail` (predeterminado: desactivado): Reinicia automáticamente el beatmap si la barra de salud del jugador llega a 0.
 
-Cualquier combinación de las opciones anteriores permitirá establecer puntuaciones clasificadas.
+Cualquier combinación de los ajustes anteriores permitirá establecer puntuaciones clasificadas.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

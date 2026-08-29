@@ -41,7 +41,7 @@ El mod **Daycore** se comporta exactamente igual que [Half Time (HT)](/wiki/Game
 
 - `Speed decrease` (0,50x-0,99x, predeterminado: 0,75x): La velocidad a la que se jugará el mapa.
 
-Cambiar el ajuste `Speed decrease` hará que tus puntuaciones sean **no clasificadas**.
+Cambiar el ajuste predeterminado de `Speed decrease` hará que tus puntuaciones sean **no clasificadas**.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

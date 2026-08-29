@@ -42,7 +42,7 @@ El mod Difficulty Adjust le permite a los jugadores modificar los ajustes de dif
 
 - `Circle Size` (0-10, predeterminado: CS del beatmap seleccionado): Cambia el [tamaño del círculo](/wiki/Beatmap/Circle_size) a un valor específico.
 - `HP Drain` (0-10, predeterminado: HP del beatmap seleccionado): Cambia la [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) a un valor específico.
-- `Accuracy` (0-10, predeterminado: OD el beatmap seleccionado): Cambia la [dificultad general](/wiki/Beatmap/Overall_difficulty) a un valor específico.
+- `Accuracy` (0-10, predeterminado: OD del beatmap seleccionado): Cambia la [dificultad general](/wiki/Beatmap/Overall_difficulty) a un valor específico.
 - `Approach Rate` (0-10, predeterminado: AR el beatmap seleccionado): Cambia la [velocidad de aproximación](/wiki/Beatmap/Approach_rate) a un valor específico.
 - `Extended Limits` (predeterminado: desactivado): Permite al usuario aumentar el `Tamaño del círculo`, el `Drenaje de HP`, la `Precisión` y la `Velocidad de aproximación` hasta un máximo de 11. Además, la velocidad de aproximación se puede ajustar a valores negativos (hasta -10).
 
@@ -53,7 +53,7 @@ El mod Difficulty Adjust le permite a los jugadores modificar los ajustes de dif
 - `HP Drain` (0-10, predeterminado: HP del beatmap seleccionado): Cambia la [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) a un valor específico.
 - `Accuracy` (0-10, predeterminado: OD del beatmap seleccionado): Cambia la [dificultad general](/wiki/Beatmap/Overall_difficulty) a un valor específico.
 - `Scroll Speed` (0,25-4, predeterminado: SS del beatmap seleccionado): Cambia la velocidad de desplazamiento a un valor específico.
-- `Extended Limits` (predeterminado: desactivado): Permite al usuario aumentar el `Drenaje de HP` y la `Precisión` hasta  un máximo de 11.
+- `Extended Limits` (predeterminado: desactivado): Permite al usuario aumentar el `Drenaje de HP` y la `Precisión` hasta un máximo de 11.
 
 ### ![][osu!catch] osu!catch
 
@@ -62,7 +62,7 @@ El mod Difficulty Adjust le permite a los jugadores modificar los ajustes de dif
 - `Circle Size` (0-10, predeterminado: CS del beatmap seleccionado): Cambia el [tamaño del círculo](/wiki/Beatmap/Circle_size) a un valor específico.
 - `HP Drain` (0-10, predeterminado: HP del beatmap seleccionado):  Cambia la [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) a un valor específico.
 - `Accuracy` (0-10, predeterminado: OD del beatmap seleccionado): Cambia la [dificultad general](/wiki/Beatmap/Overall_difficulty) a un valor específico.
-- `Approach Rate` (0-10, predeterminado: AR el beatmap seleccionado): Cambia la [velocidad de aproximación](/wiki/Beatmap/Approach_rate) a un valor específico.
+- `Approach Rate` (0-10, predeterminado: AR del beatmap seleccionado): Cambia la [velocidad de aproximación](/wiki/Beatmap/Approach_rate) a un valor específico.
 - `Spicy Patterns` (predeterminado: desactivado): Aumenta la dificultad de algunos patrones [como si estuviera activado el mod Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock#osu!catch).
 - `Extended Limits` (predeterminado: desactivado): Permite al usuario aumentar el `Tamaño del círculo`, el `Drenaje de HP`, la `Precisión` y la `Velocidad de aproximación` hasta un máximo de 11.
 

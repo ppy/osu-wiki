@@ -39,10 +39,10 @@ El mod **Cover** oculta una parte del [campo de juego](/wiki/Client/Playfield) d
 ![Opciones de personalización del mod Cover en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/CO.png)
 
 - `Coverage` (0,2-0,8, predeterminado 0,5): Proporción de la altura del campo de juego donde se ocultarán las notas.
-- `Direction` (predeterminado: Along scroll): La dirección en la que se aplica la cobertura.
+- `Direction` (predeterminado: Along scroll): La dirección en la que se aplicará la cobertura.
   - `Along scroll`: Cubre el campo de juego tal y como lo hace [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)).
   - `Against scroll`: Cubre el campo de juego tal y como lo hace [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)).
 
-Cualquier combinación de las opciones anteriores permitirá establecer puntuaciones clasificadas.
+Cualquier combinación de los ajustes anteriores permitirá establecer puntuaciones clasificadas.
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

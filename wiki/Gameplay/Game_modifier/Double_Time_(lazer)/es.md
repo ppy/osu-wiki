@@ -50,7 +50,7 @@ El mod **Double Time** aumenta el BPM de cualquier beatmap en un 50 %, además
 - `Speed increase` (1,01x-2,00x, predeterminado: 1,50x): La velocidad a la que se jugará el mapa.
 - `Adjust pitch` (predeterminado: desactivado): Cambia la frecuencia de audio dependiendo de la velocidad elegida. Jugar con la velocidad predeterminada tendrá el mismo efecto de audio que [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)).
 
-Si cambias el ajuste `Speed increase`, tus puntuaciones serán **no clasificadas**; en cambio, si activas `Adjust pitch`, podrás establecer puntuaciones clasificadas.
+Cambiar el ajuste predeterminado de `Speed increase` hará que tus puntuaciones sean **no clasificadas**; en cambio, si activas `Adjust pitch`, podrás establecer puntuaciones clasificadas.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
