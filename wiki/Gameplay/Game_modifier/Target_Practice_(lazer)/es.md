@@ -49,7 +49,7 @@ El objetivo es acertar en todas las dianas, y fallar una de ellas hace que el ju
 
 ## Curiosidades
 
-- Al usar **Target Practice** junto con [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), se tienen en cuenta las vidas extra, lo que permite al jugador fallar unas cuantas veces antes de que se dé por fallada la jugada.
+- Al usar **Target Practice** junto con [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), se tienen en cuenta las vidas extra, lo que permite al jugador fallar unas cuantas veces antes de perder.
 - Usar [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) con la opción `Only fade approach circles` activada no tiene ningún efecto mientras se juega con **Target Practice**.
 - Al usar **Target Practice** junto con [Muted (MU)](/wiki/Gameplay/Game_modifier/Muted), la opción `Enabled metronome ticks` no tiene ningún efecto. En cambio, la opción `Enabled metronome ticks` del mod **Muted** determina si el metrónomo está activo.
 

@@ -58,7 +58,7 @@ En osu!catch, el mod **Relax** le permite al usuario controlar al catcher con el
 
 ## Curiosidades
 
-- En osu!, Relax hace clic en los objetos unos 10 ms antes de que se puedan pulsar. Como resultado, usar Relax junto con [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) provocará una aceleración constante a medida que avanza el mapa, siempre y cuando el jugador apunte correctamente.
+- En osu!, Relax hace clic en los objetos unos 10 ms antes del centro de la ventana de tiempo. Como resultado, usar Relax junto con [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) provocará una aceleración constante a medida que avanza el mapa, siempre y cuando el jugador apunte correctamente.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
