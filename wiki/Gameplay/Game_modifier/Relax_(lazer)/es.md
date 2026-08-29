@@ -48,11 +48,11 @@ En osu!, el mod **Relax** hace clic automáticamente en todos los [objetos](/wik
 
 ### ![][osu!taiko] osu!taiko
 
-En osu!taiko, el mod **Relax** le permite al usuario golpear cualquier con cualquier tecla, lo que significa que ya no es necesario distinguir qué notas son [dons](/wiki/Gameplay/Hit_object/Hit) y cuáles son [kats](/wiki/Gameplay/Hit_object/Hit).
+En osu!taiko, el mod **Relax** le permite al usuario golpear cualquier objeto con cualquier tecla, lo que significa que ya no es necesario distinguir qué notas son [dons](/wiki/Gameplay/Hit_object/Hit) y cuáles son [kats](/wiki/Gameplay/Hit_object/Hit).
 
 ### ![][osu!catch] osu!catch
 
-En osu!catch, el mod **Relax** le permite al usuario controlar al catcher con el ratón (o una tableta) en lugar del teclado. Esto también significa que el jugador ya no tiene que usar los [dash](/wiki/Gameplay/Dash).
+En osu!catch, el mod **Relax** le permite al usuario controlar al catcher con el ratón (o la tableta) en lugar del teclado. Esto también significa que el jugador ya no tiene que usar el [dash](/wiki/Gameplay/Dash).
 
 **Este mod no se puede personalizar.**
 

@@ -39,7 +39,7 @@ El mod **Wind Down** le permite al usuario jugar a una velocidad cada vez menor.
 ![Opciones de personalización del mod Wind Down en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/WD.png)
 
 - `Initial rate` (0,51x-2,00x, predeterminado: 1,00x): La velocidad con la que se iniciará el mapa.
-- `Final rate` (0,50x-1,99x, predeterminado: 0,75x): La velocidad que hay que alcanzar al final del mapa.
+- `Final rate` (0,50x-1,99x, predeterminado: 0,75x): La velocidad que se alcanzará al final del mapa.
 - `Adjust pitch` (predeterminado: enabled): Cambia continuamente la frecuencia de audio mientras se juega.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

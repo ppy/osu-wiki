@@ -28,7 +28,7 @@ tags:
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!(estable) de este artículo, véase [ScoreV2 (mod)](/wiki/Gameplay/Game_modifier/ScoreV2)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [ScoreV2 (mod)](/wiki/Gameplay/Game_modifier/ScoreV2)
 :::
 
 ::: alert-note

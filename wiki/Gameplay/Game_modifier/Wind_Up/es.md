@@ -32,14 +32,14 @@ tags:
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-El mod **Wind Up** le permite al usuario jugar a una velocidad cada vez mayor. Al iniciar un [beatmap](/wiki/Beatmap), la canción comienza a reproducirse a una velocidad inicial establecida en `Initial rate` (véase [personalización](#personalización)) y va aumentando linealmente hasta alcanzar la velocidad final establecida en `Final rate` al final del mapa.
+El mod **Wind Up** le permite al usuario jugar a una velocidad cada vez mayor. Al iniciar un [beatmap](/wiki/Beatmap), la canción comienza a reproducirse a una velocidad inicial establecida en `Initial rate` (véase la sección de [personalización](#personalización)) y va aumentando linealmente hasta alcanzar la velocidad final establecida en `Final rate` al final del mapa.
 
 ## Personalización
 
 ![Opciones de personalización del mod Wind Up en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/WU.png)
 
 - `Initial rate` (0,50x-1,99x, predeterminado: 1,00x): La velocidad con la que se iniciará el mapa.
-- `Final rate` (0,51x-2,00x, predeterminado: 0,75x): La velocidad que hay que alcanzar al final del mapa.
+- `Final rate` (0,51x-2,00x, predeterminado: 0,75x): La velocidad que se alcanzará al final del mapa.
 - `Adjust pitch` (predeterminado: activado): Cambia continuamente la frecuencia de audio mientras se juega.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

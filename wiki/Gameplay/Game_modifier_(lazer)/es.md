@@ -29,7 +29,7 @@ tags:
 
 ![](img/mod-select-ES.png "El selector de mods para el modo de juego osu!")
 
-Los **modificadores de juego**, o **mods**, se dividen en seis categorías: `Reducción de la dificultad`, `Aumento de la dificultad`, `Automatización`, `Conversión`, `Diversión` y `Sistema`. Algunos de ellos pueden reducir o aumentar el multiplicador de la puntuación. Cuando se usan varios mods a la vez, sus respectivos multiplicadores se multiplicarán entre sí (por ejemplo, `1,06x * 1,12x = 1,1872x`). Los mods de la categoría `Sistema` se aplican automáticamente cuando es necesario.
+Los **modificadores de juego**, o **mods**, se dividen en seis categorías: `Reducción de dificultad`, `Aumento de dificultad`, `Automatización`, `Conversión`, `Diversión` y `Sistema`. Algunos de ellos pueden reducir o aumentar el multiplicador de puntuación. Cuando se usan varios mods a la vez, sus respectivos multiplicadores se multiplicarán entre sí (por ejemplo, `1,06x * 1,12x = 1,1872x`). Los mods de la categoría `Sistema` se aplican automáticamente cuando es necesario.
 
 ## Lista de mods
 

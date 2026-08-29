@@ -38,7 +38,7 @@ tags:
 
 El mod **Target Practice** elimina todos los [objetos](/wiki/Gameplay/Hit_object) de un [beatmap](/wiki/Beatmap) y los reemplaza por «dianas», que son [círculos](/wiki/Gameplay/Hit_object/Hit_circle) situados una vez por cada [pulso completo](/wiki/Music_theory/Beat). Además, elimina los [círculos de aproximación](/wiki/Gameplay/Hit_object/Approach_circle), reduce a la mitad la [velocidad de aproximación](/wiki/Beatmap/Approach_rate) y hace que los círculos [crezcan](/wiki/Gameplay/Game_modifier/Grow) y aumenten de brillo a medida que aparecen.
 
-El objetivo es acertar en todos las dianas, y fallar una de ellas hace que el jugador pierda, a menos que esté activado el mod [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)). Por lo tanto, **Target Practice** es incompatible con [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)).
+El objetivo es acertar en todas las dianas, y fallar una de ellas hace que el jugador pierda, a menos que esté activado el mod [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)). Por lo tanto, **Target Practice** es incompatible con [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)).
 
 ## Personalización
 

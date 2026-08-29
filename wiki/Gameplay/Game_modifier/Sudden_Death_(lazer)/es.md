@@ -47,7 +47,7 @@ El mod **Sudden Death** provoca inmediatamente que el jugador muera al [romper e
 - `Also fail when missing a slider tail` (predeterminado: desactivado): Fallar una [cola de un slider](/wiki/Gameplay/Hit_object/Slider/Slidertail) provocará que el jugador muera. *Esta opción solo está disponible en el modo de juego osu!*.
 - `Restart on fail` (predeterminado: desactivado): Reinicia automáticamente el mapa tras un fallo.
 
-Cualquier combinación de los ajustes anteriores permite obtener puntuaciones clasificadas.
+Cualquier combinación de los ajustes anteriores permitirá establecer puntuaciones clasificadas.
 
 ## Trivia
 
