@@ -43,7 +43,7 @@ La visibilidad también se restablece temporalmente durante los [descansos](/wik
 
 - `Hidden at combo` (0-50, predeterminado: 10): El combo en el que el cursor o el catcher se ocultarán completamente. Si se establece en 0, solo será visible durante los descansos.
 
-Cualquier valor de los ajustes anteriores permite obtener puntuaciones clasificadas.
+Cualquier valor de los ajustes anteriores permitirá establecer puntuaciones clasificadas.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"

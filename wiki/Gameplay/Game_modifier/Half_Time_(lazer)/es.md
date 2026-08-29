@@ -48,7 +48,7 @@ El mod **Half Time** reduce el BPM de cualquier beatmap en un 25 %, aumentando
 - `Speed decrease` (0,50x-0,99x, predeterminado: 0,75x): La velocidad a la que se jugará el mapa.
 - `Adjust pitch` (predeterminado: desactivado): Cambia la frecuencia de audio dependiendo de la velocidad elegida. Activar el ajuste de tono con la velocidad predeterminada tendrá el mismo efecto de audio que [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore).
 
-Si cambias el ajuste `Speed decrease`, tus puntuaciones serán **no clasificadas**, mientras que si activas `Adjust pitch`, podrás establecer puntuaciones clasificadas.
+Si cambias el ajuste predeterminado de `Speed decrease` hará que tus puntuaciones sean **no clasificadas**; en cambio, si activas `Adjust pitch`, podrás establecer puntuaciones clasificadas.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -42,10 +42,10 @@ El mod **Perfect** activa inmediatamente un fallo si el jugador ya no puede cons
 
 ![Opciones de personalización del mod Perfect en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/PF.png)
 
-- `Require perfect hits` (predeterminado: desactivado): Si no consigues un juicio PERFECT (300 arcoíris), se considerará un fallo. *Esta opción solo está disponible en el modo de juego osu!mania.*
+- `Require perfect hits` (predeterminado: desactivado): Si no consigues un juicio PERFECT (300 arcoíris), se considerará un fallo. *Esta opción solo está disponible en el modo de juego osu!mania*.
 - `Restart on fail` (predeterminado: activado): Reinicia automáticamente el mapa tras un fallo.
 
-Cualquier combinación de los ajustes anteriores permite obtener puntuaciones clasificadas.
+Cualquier combinación de los ajustes anteriores permitirá establecer puntuaciones clasificadas.
 
 ## Curiosidades
 

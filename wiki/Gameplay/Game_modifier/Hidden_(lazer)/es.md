@@ -53,7 +53,7 @@ Este mod solo se puede personalizar en el modo de juego osu!.
 
 - `Only fade approach circles` (predeterminado: desactivado): Hace invisibles los círculos de aproximación sin aplicar el efecto de desvanecimiento en los objetos.
 
-Al activar esta opción, tus puntuaciones serán **no clasificadas**.
+Activar esta opción hará que tus puntuaciones sean **no clasificadas**.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

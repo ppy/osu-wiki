@@ -46,7 +46,7 @@ El mod **Nightcore** se comporta exactamente igual que [Double Time (DT)](/wiki/
 
 - `Speed increase` (1,01x-2,00x, predeterminado: 1,50x): La velocidad a la que se jugará el mapa.
 
-Al cambiar el ajuste `Speed increase`, tus puntuaciones serán **no clasificadas**.
+Cambiar el ajuste predeterminado de `Speed increase` hará que tus puntuaciones sean **no clasificadas**.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

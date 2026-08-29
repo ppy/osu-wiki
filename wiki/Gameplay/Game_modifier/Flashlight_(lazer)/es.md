@@ -30,7 +30,7 @@ tags:
 | Multiplicador de puntuación ![][osu!mania] | `1,00x` |
 | Estado | Clasificado |
 | Mods incompatibles ![][osu!] | [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
-| Incompatible mods ![][osu!taiko] ![][osu!catch] | Ninguno |
+| Mods incompatibles ![][osu!taiko] ![][osu!catch] | Ninguno |
 | Mods incompatibles ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover) |
 
 :::
@@ -49,11 +49,11 @@ El mod **Flashlight** restringe la visibilidad del [campo de juego](/wiki/Client
 
 ![Opciones de personalización del mod Flashlight en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/FL.png)
 
-- `Follow delay` (120-1200, predeterminado: 120): Milisegundos hasta que la linterna alcance al cursor. *Esta opción solo está disponible en el modo de juego osu!.*
+- `Follow delay` (120-1200, predeterminado: 120): Milisegundos hasta que la linterna alcance al cursor. *Esta opción solo está disponible en el modo de juego osu!*.
 - `Flashlight size` (![][osu!] 0,5-2,0, ![][osu!taiko] ![][osu!catch] 0,5-1,5, ![][osu!mania] 0,5-3,0, predeterminado: 1,0): Multiplicador aplicado al tamaño predeterminado de la linterna.
 - `Change size based on combo` (predeterminado ![][osu!] ![][osu!taiko] ![][osu!catch]: activado, predeterminado ![][osu!mania]: desactivado): Disminuye `Flashlight size` a medida que aumenta el combo.
 
-Si modificas cualquiera de estos ajustes, tus puntuaciones serán **no clasificadas**.
+Modificar cualquiera de estos ajustes hará que tus puntuaciones sean **no clasificadas**.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
