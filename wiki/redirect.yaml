@@ -333,8 +333,9 @@ buying_a_tablet:                        Guides/Tablet_purchase
 guides/changing_the_title_text:         Beatmap/Title_text#changing-title-text
 changing_the_title_text:                Beatmap/Title_text#changing-title-text
 
-# Moved in #6790 due to #6198
-ranking_criteria/timing_songs_with_8-signatures: Guides/Timing_songs_with_8-signatures
+# Moved in #6790 due to #6198, and later in #15138
+ranking_criteria/timing_songs_with_8-signatures:  Guides/Timing_songs_with_N_per_8_time_signatures
+guides/timing_songs_with_8-signatures:            Guides/Timing_songs_with_N_per_8_time_signatures
 
 help_center:                 Help_centre
 help:                        Help_centre
