@@ -84,7 +84,7 @@ Important to understand before using:
 
 ### Allowances
 
-- Backgrounds, Videos, and Storyboards created for osu! Official tournament releases can be used in other beatmaps of the same song. When used, ensure all relevant creators are tagged using current usernames or aliases when these assets are used.
+- Backgrounds, Videos, and Storyboards created for osu! Official tournament releases can be used in other beatmaps of the same song. When these assets are used, ensure all relevant creators are tagged using current usernames or aliases.
 
 ## Beatmap
 
