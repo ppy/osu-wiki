@@ -17,6 +17,6 @@ score(n) = 5.000 / 3 * (4n^3 - 3n^2 - n) + 1,25 * 1,8^(n - 60) falls n <= 100
 score(n) = 26.931.190.827 + 99.999.999.999 * (n - 100)         falls n > 100
 ```
 
-Beachte, dass die Werte für Level bis zu 100 aufgrund des verwendeten Rundungsverfahrens nicht genau der Formel entsprechen. Das liegt daran, dass das Spiel eine vorberechnete Liste der Punktzahldifferenzen zwischen den Leveln abspeichert, und jeder Eintrag dieser Liste auf die nächstgelegene ganze Zahl gerundet wird. Beispielsweise ist der achtzigste Eintrag der Liste `score(81) - score(80) = 128.927.482,36216`, was auf 128.927.482 gerundet wird. Bei Level 100 beträgt der Gesamtfehler +1,629 Punkte, weswegen `score(100) = 26.931.190.828,629` nicht mit den 26.931.190.827 Punkten aus dem zweiten Teil der Formel übereinstimmt.
+Beachte, dass die Werte bis einschließlich Level 100 aufgrund des verwendeten Rundungsverfahrens nicht genau der Formel entsprechen. Das liegt daran, dass das Spiel eine vorberechnete Liste der Punktzahldifferenzen zwischen den Leveln abspeichert, und jeder Eintrag dieser Liste auf die nächstgelegene ganze Zahl gerundet wird. Beispielsweise ist der achtzigste Eintrag der Liste `score(81) - score(80) = 128.927.482,36216`, was auf 128.927.482 gerundet wird. Bei Level 100 beträgt der Gesamtfehler +1,629 Punkte, weswegen `score(100) = 26.931.190.828,629` nicht mit den 26.931.190.827 Punkten aus dem zweiten Teil der Formel übereinstimmt.
 
-Der Fortschritt zum nächsten Level wird durch einen Balken neben dem Level des Spielers angezeigt.
+Der Fortschritt bis zum nächsten Level wird durch einen Balken neben dem Level des Spielers angezeigt.
