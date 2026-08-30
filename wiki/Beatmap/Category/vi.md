@@ -6,7 +6,7 @@ Các [beatmap](/wiki/Beatmap) sau khi tải lên trực tuyến sẽ được ch
 
 ### Đắp mộ {id=graveyard}
 
-Đắp mộ là nơi chứa các beatmap bị [tác giả](/wiki/Beatmap/Beatmap_host) bỏ dở. Các beatmap này không có bảng xếp hạng, nhưng vẫn có thể tải xuống và chơi bình thường, đồng thời vẫn [được tính vào thống kê chơi](#thống-kê-beatmap-chưa-xếp-hạng). Nó sử dụng biểu tượng dấu hỏi (![](/wiki/shared/status/graveyard.png)) trong [màn hình chọn bài hát](/wiki/Client/Interface#màn-hình-chọn-beatmap).
+Đắp mộ là nơi chứa các beatmap bị [tác giả](/wiki/Beatmap/Beatmap_host) bỏ dở. Các beatmap này không có bảng xếp hạng, nhưng vẫn có thể tải xuống và chơi bình thường, đồng thời vẫn [được tính vào thống kê chơi](#thống-kê-beatmap-chưa-xếp-hạng). Nó sử dụng biểu tượng dấu hỏi (![](/wiki/shared/status/graveyard.png)) trong [màn hình chọn bài hát](/wiki/Client/Interface#màn-hình-chọn-map).
 
 Một beatmap sẽ tự động bị chuyển vào đắp mộ từ [Đang thực hiện (WIP) và Đang chờ](#wip-and-pending) nếu không được cập nhật trong vòng 4 tuần. Tác giả có thể hồi sinh beatmap (tức là đưa trở lại [Đang chờ](#wip-and-pending)) bằng cách cập nhật thông qua [hệ thống gửi beatmap](/wiki/Beatmapping/Beatmap_submission). Beatmap nằm trong đắp mộ không được tính vào [giới hạn tổng số beatmap đã tải lên](/wiki/osu!supporter#increased-limits) của mapper, nhưng để khôi phục nó thì cần có một ô Đang chờ trống.
 
