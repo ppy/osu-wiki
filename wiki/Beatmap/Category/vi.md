@@ -6,7 +6,7 @@ Các [beatmap](/wiki/Beatmap) sau khi tải lên trực tuyến sẽ được ch
 
 ### Đắp mộ {id=graveyard}
 
-Đắp mộ là nơi chứa các beatmap bị [chủ beatmap](/wiki/Beatmap/Beatmap_host) bỏ dở. Các beatmap này không có bảng xếp hạng, nhưng vẫn có thể tải xuống và chơi, đồng thời vẫn [được tính vào thống kê chơi](#thống-kê-beatmap-chưa-xếp-hạng). Chúng sử dụng biểu tượng dấu hỏi (![](/wiki/shared/status/graveyard.png)) trong [màn hình chọn bài hát](/wiki/Client/Interface#màn-hình-chọn-map).
+Đắp mộ là nơi chứa các beatmap bị [tác giả](/wiki/Beatmap/Beatmap_host) bỏ dở. Các beatmap này không có bảng xếp hạng, nhưng vẫn có thể tải xuống và chơi bình thường, đồng thời vẫn [được tính vào thống kê chơi](#thống-kê-beatmap-chưa-xếp-hạng). Nó sử dụng biểu tượng dấu hỏi (![](/wiki/shared/status/graveyard.png)) trong [màn hình chọn bài hát](/wiki/Client/Interface#màn-hình-chọn-beatmap).
 
 Một beatmap sẽ tự động bị chuyển vào đắp mộ từ [Đang thực hiện (WIP) và Đang chờ](#wip-and-pending) nếu không được cập nhật trong vòng 4 tuần. Tác giả có thể hồi sinh beatmap (tức là đưa trở lại [Đang chờ](#wip-and-pending)) bằng cách cập nhật thông qua [hệ thống gửi beatmap](/wiki/Beatmapping/Beatmap_submission). Beatmap nằm trong đắp mộ không được tính vào [giới hạn tổng số beatmap đã tải lên](/wiki/osu!supporter#increased-limits) của mapper, nhưng để khôi phục nó thì cần có một ô Đang chờ trống.
 
@@ -20,9 +20,9 @@ Các beatmap không hoạt động và đã nằm trong trạng thái này sau 4
 
 ### Đủ tư cách {id=qualified}
 
-Đủ tư cách là giai đoạn cuối cùng trước khi xếp hạng trong [quy trình xếp hạng beatmap](/wiki/Beatmap_ranking_procedure). Các beatmap này đã được [Người đề cử beatmap](/wiki/People/Beatmap_Nominators) đề cử và đảm bảo rằng chúng đáp ứng các tiêu chuẩn của [tiêu chí xếp hạng](/wiki/Ranking_criteria).
+Đủ tư cách là giai đoạn cuối cùng trước khi được xếp hạng trong [quy trình xếp hạng beatmap](/wiki/Beatmap_ranking_procedure). Các beatmap này đã được [Người đề cử beatmap](/wiki/People/Beatmap_Nominators) đề cử và đảm bảo rằng chúng đáp ứng các tiêu chuẩn của [tiêu chí xếp hạng](/wiki/Ranking_criteria).
 
-Beatmap được đưa vào Đủ tư cách sẽ đi vào [hàng chờ xếp hạng](/wiki/Beatmap_ranking_procedure/Ranking_queue), và cuối cùng sẽ trở thành [Được xếp hạng](#ranked) nếu không bị [hủy đề cử](/wiki/Beatmap_ranking_procedure#nomination-resets). Giai đoạn này đóng vai trò như tuyến phòng thủ cuối cùng, nơi các lỗi hoặc sai sót còn sót lại có thể được sửa chữa.
+Beatmap được đưa vào đủ tư cách sẽ đi vào [hàng chờ xếp hạng](/wiki/Beatmap_ranking_procedure/Ranking_queue), và cuối cùng sẽ đạt trạng thái [được xếp hạng](#ranked) nếu không bị [hủy đề cử](/wiki/Beatmap_ranking_procedure#nomination-resets). Giai đoạn này đóng vai trò như tuyến phòng thủ cuối cùng, nơi các lỗi hoặc sai sót còn sót lại có thể được sửa chữa.
 
 Beatmap đủ tư cách có bảng xếp hạng, nhưng không được nhận [điểm hiệu suất](/wiki/Performance_points) và toàn bộ điểm số sẽ bị xóa khi beatmap rời khỏi Đủ tư cách. Chúng sử dụng biểu tượng dấu kiểm (![](/wiki/shared/status/qualified.png)) trong màn hình chọn bài hát.
 
@@ -34,7 +34,7 @@ Một khi beatmap đã đạt trạng thái Được xếp hạng, trạng thái
 
 ### Được yêu mến {id=loved}
 
-*Để xem lịch sử của danh mục Được yêu mến, xem: [Lịch sử Loved](/wiki/History_of_osu!/History_of_Loved)*
+*Để xem lịch sử của danh mục được yêu mến, xem: [Lịch sử Loved](/wiki/History_of_osu!/History_of_Loved)*
 
 Beatmap được yêu mến có thể không đáp ứng [tiêu chí xếp hạng](/wiki/Ranking_criteria), nhưng được cộng đồng *yêu thích* và vì vậy được thêm vào định kỳ thông qua bình chọn cộng đồng trong [Dự án Loved](/wiki/Community/Project_Loved).
 
@@ -48,7 +48,7 @@ Danh mục beatmap được chấp nhận được sử dụng trong giai đoạ
 
 Beatmap được chấp nhận không ảnh hưởng đến thứ hạng điểm số của người dùng cho đến một thời gian sau khi hệ thống chuyển từ xếp hạng theo điểm sang xếp hạng theo [điểm hiệu suất](/wiki/Performance_points). Sau thay đổi này, trạng thái được chấp nhận chỉ được dùng cho các beatmap có [thời lượng drain](/wiki/Beatmap/Drain_time) lớn hơn 6 phút.
 
-Beatmap được chấp nhận sử dụng biểu tượng dấu kiểm (![](/wiki/shared/status/approved.png)) trong màn hình chọn bài hát và hoạt động tương tự như beatmap Được xếp hạng.
+Beatmap được chấp nhận sử dụng biểu tượng dấu kiểm (![](/wiki/shared/status/approved.png)) trong màn hình chọn bài hát và hoạt động tương tự như beatmap được xếp hạng.
 
 ### Sự xuất hiện của đủ tư cách
 
@@ -60,4 +60,4 @@ Nếu một beatmap trong đủ tư cách bị hủy đề cử và bị chuyể
 
 Sau ngày [7 tháng 8 năm 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), các beatmap thuộc [đắp mộ](#graveyard) cũng như [Đang thực hiện và Đang chờ](#wip-and-pending) bắt đầu được tính vào số lần chơi và tổng điểm của người dùng.
 
-Chúng cũng bắt đầu có thống kê chơi trên trang riêng của từng beatmap (số lần chơi, tỷ lệ hoàn thành và các điểm thất bại), những thông tin trước đây chỉ hiển thị đối với beatmap thuộc [Đủ tư cách](#approved) và [Được xếp hạng](#ranked).
+Chúng cũng bắt đầu có thống kê chơi trên trang riêng của từng beatmap (số lần chơi, tỷ lệ thành công và điểm thất bại), những thông số trước đây chỉ hiển thị đối với beatmap thuộc [Đủ tư cách](#approved) và [Được xếp hạng](#ranked).
