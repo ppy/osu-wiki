@@ -7,7 +7,7 @@ series: featured_artists
 
 Anyone who appreciates Vocaloid already knows **Sasuke Haraguchi**, our latest Featured Artist!
 
-![](https://assets.ppy.sh/artists/558/header.jpg)
+![](https://assets.ppy.sh/artists/561/header.jpg)
 
 Born in 2003, **Sasuke Haraguchi** is a Tokyo-based musician who's been surrounded by music since the beginning. He began composing at the age of five and made his major-label debut at fifteen, followed by continuous progress through collaborations with other high profile artists (like *m-flo* and *Soushi Sakiyama*) and spots in major commercials (like one with *Apple*!).
 
@@ -21,10 +21,10 @@ Check things out for yourself:
 
 ### Sasuke Haraguchi - TAKER TAKER
 
-The only thing that could possibly make today's Featured Artist announcement even cooler would be an osu! original. Maybe one made for one of our World Cups. Maybe even the osu!mania 4K World Cup. ~~Maybe~~ Definitely [play this map](LINK) hosted by [USER](LINK):
+The only thing that could possibly make today's Featured Artist announcement even cooler would be an osu! original. Maybe one made for one of our World Cups. Maybe even the osu!mania 4K World Cup. ~~Maybe~~ Definitely play [the map](https://osu.ppy.sh/beatmapsets/2612669) by the one and only [-mint-](https://osu.ppy.sh/users/8976576):
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LINK" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/4cQb4tHDlr0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Sasuke Haraguchi - HITO Mania
@@ -75,7 +75,7 @@ Or experience [this osu! map](https://osu.ppy.sh/beatmapsets/2342880) hosted by 
 
 ### Sasuke Haraguchi - Kichi no Haji
 
-Not everything **Sasuke Haraguchi** crafts uses Kasane Teto. See for yourself through [this osu! map](https://osu.ppy.sh/beatmapsets/2489609) hosted by [faxaxaxa](https://osu.ppy.sh/users/11076738)
+Not everything **Sasuke Haraguchi** crafts uses Kasane Teto. See for yourself through [this osu! map](https://osu.ppy.sh/beatmapsets/2489609) hosted by [faxaxaxa](https://osu.ppy.sh/users/11076738)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/561/Songs/Sasuke%20Haraguchi%20-%20Kichi%20no%20Haji.mp3">
