@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Sasuke Haraguchi"
-date: 2026-08-30 21:30:00 +0000
+date: 2026-08-30 23:00:00 +0000
 series: featured_artists
 ---
 
