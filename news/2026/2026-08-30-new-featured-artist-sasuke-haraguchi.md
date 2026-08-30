@@ -33,7 +33,7 @@ If you're a human, you should be playing one of these maps:
 
 - [The first Ranked **Sasuke Haraguchi** map](https://osu.ppy.sh/beatmapsets/2070848) hosted by [Beige](https://osu.ppy.sh/users/685229)
 - [Multi-song beatmap (with *Igaku*)](https://osu.ppy.sh/beatmapsets/2308687) mapped by [aqila](https://osu.ppy.sh/users/11016828)
-- [Another osu! map](https://osu.ppy.sh/beatmapsets/2302431) hosted by [vipnice](https://osu.ppy.sh/users/14568062)
+- [Another osu! map](https://osu.ppy.sh/beatmapsets/2302431) hosted by [s-illy](https://osu.ppy.sh/users/14568062)
 - [Yet another osu! map](https://osu.ppy.sh/beatmapsets/2334712) hosted by [Pyo](https://osu.ppy.sh/users/6641784)
 - [osu!taiko map](https://osu.ppy.sh/beatmapsets/2448483) hosted by [Erowdi](https://osu.ppy.sh/users/22522738)
 - [4K osu!mania map](https://osu.ppy.sh/beatmapsets/2405793) hosted by [BlankFace74](https://osu.ppy.sh/users/21401083)
