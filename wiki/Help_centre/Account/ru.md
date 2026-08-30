@@ -37,8 +37,6 @@ tags:
   - флаг
   - смена флага
   - неправильный флаг
-outdated_translation: true
-outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Аккаунт
@@ -77,7 +75,7 @@ outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 
 Это запрет на участие во всех турнирах, имеющих официальную поддержку.
 
-Более подробно см. [Турнирные баны](/wiki/Help_centre/Tournament_bans).
+Более подробно см. [Турнирные санкции](/wiki/Help_centre/Tournament_sanctions).
 
 ## Доступ к аккаунту {id=sign-in}
 

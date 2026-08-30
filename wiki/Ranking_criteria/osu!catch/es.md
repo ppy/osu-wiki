@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c33493a68ff0fd04d12d4432725bb13745b06696
+---
+
 # Criterios de clasificación de osu!catch
 
 ***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
