@@ -304,7 +304,6 @@ Unofficial tournaments/competitions hosted by the communities.
 | [National Dutch Championship 2025](NDC/2025) | 2025-08-09 | 2025-10-12 | [Aheo](https://osu.ppy.sh/users/14919428) | [Tutel](https://osu.ppy.sh/users/12241010) | [John ethken](https://osu.ppy.sh/users/641155) |
 | [National Dutch Championship 2026](NDC/2026) | 2026-08-08 | 2026-10-12 | TBD | TBD | TBD |
 
-
 #### [nik's Tournaments](NT)
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
