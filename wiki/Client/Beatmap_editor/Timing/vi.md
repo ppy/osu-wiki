@@ -24,12 +24,12 @@ tags:
 
 *Xem thêm: [Offset](/wiki/Offset)*
 
-Trong [mapping](/wiki/Beatmapping), một *diểm căn nhịp*, thường được gọi là *offset*, là một cách để áp dụng các thiết lập chung như [căn nhịp](/wiki/Beatmapping/Timing), hệ số [tốc độ nốt dài](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), hoặc [hitsound](/wiki/Beatmapping/Hitsound) và âm lượng tương ứng của chúng, cho một đoạn cụ thể trong beatmap. Trong osu!, có hai loại điểm căn nhịp.
+Trong [mapping](/wiki/Beatmapping), một *điểm căn nhịp*, thường được gọi là *offset*, là một cách để áp dụng các thiết lập chung như [căn nhịp](/wiki/Beatmapping/Timing), hệ số [tốc độ nốt dài](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), hoặc [hitsound](/wiki/Beatmapping/Hitsound) và âm lượng tương ứng của chúng, cho một đoạn cụ thể trong beatmap. Trong osu!, có hai loại điểm căn nhịp.
 
 ### Điểm căn nhịp không kế thừa
 
 ::: Infobox
-![](img/uninherited-points.png "Một số điểm căn nhịp không kế thừa nằm trong bảng thiết lập timing")
+![](img/uninherited-points.png "Một số điểm căn nhịp không kế thừa nằm trong bảng thiết lập căn nhịp")
 :::
 
 Một điểm căn nhịp **không kế thừa** có các thiết lập căn nhịp riêng của nó. Nhiều điểm căn nhịp kiểu này được dùng để thể hiện các thay đổi căn nhịp trong bài hát, chẳng hạn như [nhịp độ](/wiki/Music_theory/Tempo), nhịp không đều, hoặc các [số chỉ nhịp](/wiki/Music_theory/Time_signature) khác nhau. Việc thêm một điểm căn nhịp không kế thừa mới sẽ đặt lại bộ đếm nhịp, khiến nó đếm nhịp từ offset của điểm căn nhịp đó, được xác định bằng mili giây.
