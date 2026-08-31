@@ -16,7 +16,7 @@ Một beatmap sẽ tự động từ [Đang thực hiện (WIP) và Đang chờ]
 
 Beatmap thuộc trạng thái Đang thực hiện và Đang chờ không có bảng xếp hạng, nhưng vẫn [được tính vào thống kê chơi](#thống-kê-beatmap-chưa-xếp-hạng). Chúng sử dụng biểu tượng dấu hỏi (![](/wiki/shared/status/pending.png)) trong màn hình chọn bài hát.
 
-Các beatmap không hoạt động và đã nằm trong trạng thái này sau 4 tuần sẽ tự động bị chuyển sang trạng thái [đắp mộ](#graveyard).
+Các beatmap không hoạt động và đã nằm trong trạng thái này 4 tuần sẽ tự động bị chuyển sang trạng thái [đắp mộ](#graveyard).
 
 ### Đủ tư cách {id=qualified}
 
