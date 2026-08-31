@@ -38,7 +38,7 @@ tags:
 
 ## ![][osu!catch] osu!catch
 
-По состоянию на 21 июля 2026 года игрок №1 в [топе osu!сatch по производительности](https://osu.ppy.sh/rankings/fruits/performance) — ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits).
+По состоянию на 27 августа 2026 года игрок №1 в [топе osu!сatch по производительности](https://osu.ppy.sh/rankings/fruits/performance) — ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283/fruits).
 
 ## ![][osu!mania] osu!mania
 
