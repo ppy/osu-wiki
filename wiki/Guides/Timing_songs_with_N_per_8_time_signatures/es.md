@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c1d60cd17c374554b1ba0b230a5c983d583f2956
+---
+
 # Temporizar canciones con compases de #/8
 
 De vez en cuando, se mapean canciones cuyo compás no está dividido en negras (por ejemplo, `3/4`, `4/4`, `7/4`, ...), sino en corcheas (por ejemplo, `6/8`, `7/8`, ...). El editor actual no es compatible con este tipo de compás de #/8, pero lo hará en el futuro.
