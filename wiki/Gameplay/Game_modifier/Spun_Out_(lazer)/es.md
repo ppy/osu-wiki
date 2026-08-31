@@ -3,8 +3,6 @@ stub: true
 tags:
   - SO
   - spunout
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Spun Out (mod de lazer)
@@ -38,5 +36,9 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+El mod **Spun Out** ayuda al jugador completando automáticamente todos los [spinners](/wiki/Gameplay/Hit_object/Spinner). Dependiendo de la [dificultad general](/wiki/Beatmap/Overall_difficulty) del [beatmap](/wiki/Beatmap), el mod gira a un número mayor o menor de giros por minuto (SPM). A diferencia de [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)) y [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), **Spun Out** gira en el sentido de las agujas del reloj.
+
+**Este mod no se puede personalizar.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
