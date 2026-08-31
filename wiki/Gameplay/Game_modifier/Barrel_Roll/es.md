@@ -2,8 +2,6 @@
 stub: true
 tags:
   - BR
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Barrel Roll (mod)
@@ -32,5 +30,16 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+El mod **Barrel Roll** hace que todo el [campo de juego](/wiki/Client/Playfield) gire en sentido horario o antihorario a una velocidad constante que se puede [personalizar](#personalización).
+
+## Personalización
+
+![Opciones de personalización del mod Barrel Roll en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/BR.png)
+
+- `Roll speed` (0,02-12,0 revoluciones por minuto, predeterminado: 0,5): Velocidad de rotación del campo de juego.
+- `Direction` (predeterminado: Clockwise): La dirección en la que girará el campo de juego.
+  - `Clockwise`: Gira el campo de juego en el sentido de las agujas del reloj.
+  - `Counterclockwise`: Gira el campo de juego en sentido antihorario.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

@@ -2,8 +2,6 @@
 stub: true
 tags:
   - AS
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Adaptive Speed (mod)
@@ -33,6 +31,15 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+El mod **Adaptive Speed** ajusta dinámicamente la velocidad a la que se juega un [beatmap](/wiki/Beatmap). Si el jugador hace clic en los [objetos](/wiki/Gameplay/Hit_object) demasiado pronto, la canción se acelerará, y si lo hace demasiado tarde, se ralentizará.
+
+## Personalización
+
+![Opciones de personalización del mod Adaptive Speed en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/AS.png)
+
+- `Initial rate` (0,50x-2,00x, predeterminado: 1,00x): La velocidad a la que se jugará inicialmente el mapa al iniciarlo.
+- `Adjust pitch` (predeterminado: activado): Ajusta dinámicamente la frecuencia del audio a la velocidad actual.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

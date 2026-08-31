@@ -2,8 +2,6 @@
 stub: true
 tags:
   - WG
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Wiggle (mod)
@@ -32,5 +30,13 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+El mod **Wiggle** hace que todos los [objetos](/wiki/Gameplay/Hit_object) de un [beatmap](/wiki/Beatmap) tiemblen con una intensidad personalizable.
+
+## Personalización
+
+![Opciones de personalización del mod Wiggle en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/WG.png)
+
+- `Strength` (0,1-2,0, predeterminado: 1,0): La intensidad con la que deberían temblar los objetos.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
