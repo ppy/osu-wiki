@@ -132,11 +132,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 | 45 | South Korea ::{ flag=KR }:: | ::{ flag=TH }:: Thailand | [Sep 05 (Sat) 06:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T063000&p1=1440&p2=235&p3=28) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 38 | Singapore ::{ flag=SG }:: | ::{ flag=HK }:: Hong Kong | [Sep 05 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T080000&p1=1440&p2=236&p3=102) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 33 | Philippines ::{ flag=PH }:: | ::{ flag=FI }:: Finland | [Sep 05 (Sat) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T093000&p1=1440&p2=145&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 40 | Russian Federation ::{ flag=RU }:: | ::{ flag=VN }:: Vietnam | [Sep 05 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T120000&p1=1440&p2=166&p3=95) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 36 | Indonesia ::{ flag=ID }:: | ::{ flag=ES }:: Spain | [Sep 05 (Sat) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T133000&p1=1440&p2=108&p3=141) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 40 | Russian Federation ::{ flag=RU }:: | ::{ flag=VN }:: Vietnam | [Sep 05 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T140000&p1=1440&p2=166&p3=95) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | 34 | Malaysia ::{ flag=MY }:: | ::{ flag=BR }:: Brazil | [Sep 05 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T150000&p1=1440&p2=122&p3=45) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 39 | Argentina ::{ flag=AR }:: | ::{ flag=FR }:: France | [Sep 05 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T163000&p1=1440&p2=51&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 37 | Mexico ::{ flag=MX }:: | ::{ flag=PL }:: Poland | [Sep 05 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T180000&p1=1440&p2=155&p3=262) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 37 | Mexico ::{ flag=MX }:: | ::{ flag=PL }:: Poland | [Sep 05 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T170000&p1=1440&p2=155&p3=262) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 
 ### Sunday, 6 September 2026
 
@@ -147,8 +147,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 | 41b | Malaysia ::{ flag=MY }:: | ::{ flag=FI }:: Finland | [Sep 06 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T120000&p1=1440&p2=122&p3=101) | *TBD* | [^potential-match] |
 | 42b | Indonesia ::{ flag=ID }:: | ::{ flag=TW }:: Taiwan | [Sep 06 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T120000&p1=1440&p2=108&p3=241) | *TBD* | [^potential-match] |
 | 42d | Spain ::{ flag=ES }:: | ::{ flag=TW }:: Taiwan | [Sep 06 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T120000&p1=1440&p2=141&p3=241) | *TBD* | [^potential-match] |
-| 43b | Singapore ::{ flag=SG }:: | ::{ flag=PL }:: Poland | [Sep 06 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T130000&p1=1440&p2=236&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 43d | Hong Kong ::{ flag=HK }:: | ::{ flag=PL }:: Poland | [Sep 06 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T130000&p1=1440&p2=102&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 43b | Singapore ::{ flag=SG }:: | ::{ flag=PL }:: Poland | [Sep 06 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T130000&p1=1440&p2=236&p3=262) | *TBD* | [^potential-match] |
+| 43d | Hong Kong ::{ flag=HK }:: | ::{ flag=PL }:: Poland | [Sep 06 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T130000&p1=1440&p2=102&p3=262) | *TBD* | [^potential-match] |
+| 44b | Russian Federation ::{ flag=RU }:: | ::{ flag=FR }:: France | [Sep 06 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T130000&p1=1440&p2=166&p3=195) | *TBD* | [^potential-match] |
 | 44c | Vietnam ::{ flag=VN }:: | ::{ flag=AR }:: Argentina | [Sep 06 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T140000&p1=1440&p2=95&p3=51) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | 44d | Vietnam ::{ flag=VN }:: | ::{ flag=FR }:: France | [Sep 06 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T140000&p1=1440&p2=95&p3=195) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | 46 | China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Sep 06 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T140000&p1=1440&p2=33&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
@@ -159,13 +160,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 | 43c | Hong Kong ::{ flag=HK }:: | ::{ flag=MX }:: Mexico | [Sep 06 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T150000&p1=1440&p2=102&p3=155) | *TBD* | [^potential-match] |
 | 42c | Spain ::{ flag=ES }:: | ::{ flag=PE }:: Peru | [Sep 06 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T163000&p1=1440&p2=141&p3=131) | *TBD* | [^potential-match] |
 | 44a | Russian Federation ::{ flag=RU }:: | ::{ flag=AR }:: Argentina | [Sep 06 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T170000&p1=1440&p2=166&p3=51) | *TBD* | [^potential-match] |
-| 44b | Russian Federation ::{ flag=RU }:: | ::{ flag=FR }:: France | [Sep 06 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T170000&p1=1440&p2=166&p3=195) | *TBD* | [^potential-match] |
 | 47 | United States ::{ flag=US }:: | ::{ flag=CA }:: Canada | [Sep 06 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T180000&p1=1440&p2=263&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | SC | Semifinals | mappool showcase | [Sep 06 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
 
 ### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/16jxcB8mdO8oficrc8Ex0L9tGk3pillyQBjwPRK_DaMg?rm=minimal).
 
 Thursday, 27 August 2026:
 
@@ -295,25 +297,26 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Quarterfinals
 
+**[Download the mappack here (155 MB)](https://packs.ppy.sh/P335%20-%20osu%21mania%204K%20World%20Cup%202026%3A%20Quarterfinals.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2860976351)
 
 - Rice
   1. [Rayuela - La Casa del Hombre (Valedict) \[El hogar es donde esta el odio\]](https://osu.ppy.sh/beatmapsets/2612668#mania/5852784)
-  2. bibuko - Sorairo Gahou (\[GS\]hina) \[Yasuragi (MWC Edit.)\] (link pending)
+  2. [bibuko - Sorairo Gahou (\[GS\]hina) \[Yasuragi (MWC Edit.)\]](https://osu.ppy.sh/beatmapsets/2612810#mania/5853293)
   3. [Jeff Williams feat. Casey Lee Williams - When It Falls (wolfyou) \[Deterioration \[1.05x\]\]](https://osu.ppy.sh/beatmapsets/2612648#mania/5852753)
-  4. yassu - before... (Miaurichesu) \[afterlike 1.05x\] (link pending)
+  4. [yassu - before... (Miaurichesu) \[. . . . . (1.05x)\]](https://osu.ppy.sh/beatmapsets/2612904#mania/5853552)
   5. [Sunnexo - Internet Exploder (James May) \[getting DDOSed on MW2's OP\]](https://osu.ppy.sh/beatmapsets/2612657#mania/5852770)
   6. [Path to Nowhere - Neon Glitchwave (Cut Ver.) (AutotelicBrown) \[Breakthrough\]](https://osu.ppy.sh/beatmapsets/2612656#mania/5852769)
   7. [Is-m - Anti Function (Elekton) \[bopis\]](https://osu.ppy.sh/beatmapsets/1422457#mania/2929583)
 - Hybrid
   1. [dennoko-P - MIRACLE GREAT (V1do-) \[Fog 1.1x\]](https://osu.ppy.sh/beatmapsets/2612671#mania/5852788)
   2. [Sasuke Haraguchi - TAKER TAKER (-mint-) \[KNOCKOUT KNOCKOUT\]](https://osu.ppy.sh/beatmapsets/2612669#mania/5852786)
-  3. Samuel Marquis - Soul Arcs Rework (Hudson Lee & False Noise) (Cut Ver.) (Micleak) \[A Train Of Pearls\] (link pending)
+  3. [Samuel Marquis - Soul Arcs Rework (Hudson Lee & False Noise) (Cut Ver.) (Micleak) \[A Train Of Pearls\]](https://osu.ppy.sh/beatmapsets/2612836#mania/5853349)
 - Long Note
-  1. Koujimachi-yousankan - Boot (Hytex) \[Hello, World!\] (link pending)
-  2. kooridori & TRIAL - Miracletale (gzdongsheng) \[Magical 1.05x\] (link pending)
+  1. [Koujimachi-Yousankan - Boot (Hytex) \[Hello, World!\]](https://osu.ppy.sh/beatmapsets/2612756#mania/5853113)
+  2. [kooridori & TRIAL - Miracletale (gzdongsheng) \[Magical 1.05x\]](https://osu.ppy.sh/beatmapsets/2612819#mania/5853310)
   3. [tn-shi - Synthesis. (elexire) \[Admixture\]](https://osu.ppy.sh/beatmapsets/2612712#mania/5852970)
-  4. Mili - String Theocracy (Micleak) \[Unravel My Story\] (link pending)
+  4. [Mili - String Theocracy (Micleak) \[Unravel My Story\]](https://osu.ppy.sh/beatmapsets/2612837#mania/5853350)
 - Tiebreaker
   1. **[NormalM vs. f2 - All in on Your Shadow (rikan) \[Bargaining Chip\]](https://osu.ppy.sh/beatmapsets/2612696#mania/5852880)**
 
