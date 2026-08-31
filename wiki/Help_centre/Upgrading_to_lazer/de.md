@@ -1,12 +1,6 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: 0ad74729d42a03df29f787cc719600ecd54f853b
----
-
 # Umstellung auf lazer
 
-osu!(lazer) ist das nächste große Update des Spiels. In den letzten Jahren wurde das Spiel von Grund auf neu implementiert.
+osu!(lazer) ist das nächste große Update des Spiels. Es ist das Ergebnis jahrelanger Arbeit hinter den Kulissen, die das Spiel von Grund auf neu implementiert.
 
 Auch wenn diese Version viele neue Funktionen bietet, die nicht in osu!(stable) zu finden sind, gibt es einige Funktionen, die nur in einem der beiden Clients vorhanden sind. Am Ende des Tages entscheiden **die Spieler**, auf welcher Version sie spielen möchten, und sie bestimmen, wie lange wir die vorherige Version weiter pflegen.
 
@@ -38,7 +32,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | :-- | :-- | :-- |
 | Skin-Unterstützung | ![Ja][true] | ![Teilweise][partial][^gameplay-only] |
 | Gruppierungsmodi in der Songauswahl | ![Ja][true] | ![Ja][true] |
-| Skin im Spiel / Bearbeitung des UI-Layouts | ![Nein][false] | ![Ja][true] |
+| Skins und UI-Layout im Spiel bearbeiten | ![Nein][false] | ![Ja][true] |
 | Dynamische, anpassbare Skinning-Komponenten | ![Nein][false] | ![Ja][true] |
 
 ### Benutzeroberfläche
@@ -49,13 +43,13 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Schwierigkeitsgrade ausblenden | ![Nein][false] | ![Ja][true] |
 | Einrichtungsassistent für den ersten Start | ![Nein][false] | ![Ja][true] |
 | Temporäre Löschung | ![Nein][false] | ![Ja][true][^soft-deletion] |
-| Unmittelbare Einstellungsänderungen während dem Spiel | ![Nein][false] | ![Ja][true] |
+| Unmittelbare Einstellungsänderungen während des Spiels | ![Nein][false] | ![Ja][true] |
 
 ### Gameplay
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| Detaillierte Performance-Punkte-Anzeige | ![Teilweise][partial][^online] | ![Ja][true] |
+| Genaue Anzeige von Performance-Punkten | ![Teilweise][partial][^online] | ![Ja][true] |
 | Anpassung der Schwierigkeit | ![Nein][false] | ![Ja][true][^difficulty-adjust] |
 | Mod-Voreinstellungen | ![Nein][false] | ![Ja][true] |
 | Einstellungen für Mods | ![Nein][false] | ![Ja][true] |
@@ -65,7 +59,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Offset-Kalibrierung pro Beatmap | ![Teilweise][partial][^offset-calibration-stable] | ![Ja][true][^offset-calibration-lazer] |
 | osu!-Slider "schlängeln" sich beim Halten | ![Nein][false] | ![Ja][true][^can-disable] |
 | Spielerfreundliches "Notelock" | ![Nein][false] | ![Ja][true][^note-lock] |
-| Zeitabhängige Einfärbung von Noten in osu! und osu!mania | ![Nein][false] | ![Ja][true] |
+| Einfärbung von Noten in osu!, osu!catch und osu!mania basierend auf dem Timing | ![Nein][false] | ![Ja][true] |
 | In Replays vor-/zurückspulen | ![Nein][false] | ![Ja][true] |
 | Durchlaufende Replay-Kommentare wie bei [Niconico](https://de.wikipedia.org/wiki/Nico_Nico_Douga) | ![Ja][true] | ![Nein][false] |
 
@@ -90,6 +84,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Mehrspieler-Befehle | ![Ja][true] | ![Nein][false] |
 | Tag Co-op | ![Ja][true] | ![Nein][false] |
 | Playlists (von Benutzern erstellte Ranglisten) | ![Nein][false] | ![Ja][true] |
+| Ranked play | ![Nein][false] | ![Ja][true] |
 | Beatmaps mit Online-Änderungen aktualisieren | ![Teilweise][partial][^map-only] | ![Ja][true][^all-files] |
 
 ### Editor
@@ -101,7 +96,8 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | osu!catch-Editor | ![Nein][false] | ![Ja][true] |
 | osu!mania-Editor | ![Ja][true] | ![Ja][true] |
 | Öffne einen Schwierigkeitsgrad als Referenz | ![Ja][true] | ![Nein][false] |
-| Anpassen der SV / Lautstärke pro Objekt | ![Nein][false] | ![Ja][true] |
+| Anpassen der Slidergeschwindigkeit / Lautstärke pro Objekt | ![Nein][false] | ![Ja][true] |
+| Benutzerdefinierte Hitsound-Samplesets | ![Ja][true] | ![Ja][true] |
 | Festlegen des Kurventyps von Slidern pro Segment | ![Nein][false] | ![Ja][true] |
 | Aufsplittung und Zusammenführung von Slidern | ![Nein][false] | ![Ja][true] |
 | Pattern-Rotation | ![Ja][true] | ![Ja][true] |
@@ -127,7 +123,7 @@ Anstatt, dass das Spiel pausiert während sich die Lebensleiste füllt, wird die
 
 #### Unterschiede im Bewertungssystem
 
-Die Anforderungen für die Genauigkeit (und Beurteilungen) für jede [Note](/wiki/Gameplay/Grade) sehen in osu!(stable) wie folgt aus:
+Die Anforderungen an die Genauigkeit (und die Beurteilungen) für jede [Note](/wiki/Gameplay/Grade) sehen in stable wie folgt aus:
 
 | Note | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
@@ -137,7 +133,7 @@ Die Anforderungen für die Genauigkeit (und Beurteilungen) für jede [Note](/wik
 | B | >70 % GREATs/300s (keine Misses) oder >80 % GREATs/300s | >90 % | >80 % |
 | C | >60 % GREATs/300s | >85 % | >70 % |
 
-In osu!(lazer) hingegen gibt es folgende Anforderungen:
+Hingegen hat lazer die folgenden Anforderungen:
 
 | Note | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
@@ -169,19 +165,13 @@ Darüber hinaus gibt es Unterschiede, wie viele Punkte man für jedes Hit-Objekt
 | Absichtliche Änderung | ![Ja][true] |
 | Weitere Prüfung notwendig | ![Ja][true] |
 
-#### Storyboardtrigger sind nicht implementiert
-
-Einige Storyboards enthalten Funktionen, die auf Spielereingaben oder die Lebenspunkte reagieren.
-
-![](img/sb-triggers.gif)
-
 ### osu!
 
 #### Notelock wurde lascher eingestellt
 
 ![](img/notelock.gif)
 
-In dichten Patterns ist es nun leichter, nach Verfehlen eines Hit-Objekts weiterzuspielen.
+In dichten Patterns ist es nun leichter, nach dem Verfehlen eines Hit-Objekts weiterzuspielen.
 
 |  |  |
 | :-- | :-: |
@@ -190,11 +180,11 @@ In dichten Patterns ist es nun leichter, nach Verfehlen eines Hit-Objekts weiter
 | Absichtliche Änderung | ![Ja][true] |
 | Weitere Prüfung notwendig | ![Nein][false] |
 
-#### Sliderköpfe erfassen beim Treffen die Genauigkeit
+#### Sliderheads erfassen beim Treffen die Genauigkeit
 
 ![](img/slideracc.gif)
 
-In stable musste man bei Slidern bisher nur die Genauigkeit einer MEH-Beurteilung (50er) erreichen, um eine perfekte Beurteilung zu bekommen. Das geschah aus historischen Gründen, fühlt sich aber in einem Rhythmusspiel nicht richtig an. Sliderköpfe erfassen nun die Genauigkeit.
+In stable musste man bei Slidern bisher nur die Genauigkeit einer MEH-Beurteilung (50er) erreichen, um eine perfekte Beurteilung zu bekommen. Das geschah aus historischen Gründen, fühlt sich aber in einem Rhythmusspiel nicht richtig an. Sliderheads erfassen nun die Genauigkeit.
 
 |  |  |
 | :-- | :-: |
@@ -203,13 +193,13 @@ In stable musste man bei Slidern bisher nur die Genauigkeit einer MEH-Beurteilun
 | Absichtliche Änderung | ![Ja][true] |
 | Weitere Prüfung notwendig | ![Nein][false] |
 
-#### Mehr Kulanz bei Sliderköpfen
+#### Mehr Kulanz bei Sliderheads
 
 Wenn man einen Slider zu früh trifft, startet der Follow-Circle jetzt sofort im Führungsmodus, auch wenn der Cursor den Sliderball verlässt, bevor der Slider startet.
 
 ![](img/slider-early-leniency.gif)
 
-Des Weiteren werden beim zu späten Klicken eines Sliders alle Ticks oder Wiederholungen, die bereits vorüber sind, als absolviert gewertet.
+Des Weiteren werden bei zu spätem Anlicken eines Sliders alle Ticks oder Wiederholungen, die bereits vorüber sind, als absolviert gewertet.
 
 ![](/wiki/shared/news/2023-12-18-osulazer-updates-preparing-for-ranked-play/slider-late-leniency.jpg)
 
@@ -224,7 +214,7 @@ Siehe [dieses englische YouTube-Video](https://www.youtube.com/watch?v=xTRwM3zhh
 
 #### Sliderenden sind nun leichter zu treffen
 
-Bei sehr schnellen Slidern muss der Cursor im Bereich für die letzten 36 ms sein, und nicht mehr im Bereich für exakt 36 ms vor dem Sliderende (Erhöhung der Trefferkulanz).
+Bei sehr schnellen Slidern muss der Cursor irgendwann innerhalb der letzten 36 ms im Follow-Circle sein, und nicht mehr exakt 36 ms vor dem Sliderende (Erhöhung der Trefferkulanz).
 
 Siehe [dieses englische YouTube-Video](https://www.youtube.com/watch?v=SlWKKA-ltZY) für eine detaillierte Erklärung.
 
@@ -235,11 +225,11 @@ Siehe [dieses englische YouTube-Video](https://www.youtube.com/watch?v=SlWKKA-lt
 | Absichtliche Änderung | ![Ja][true] |
 | Weitere Prüfung notwendig | ![Nein][false] |
 
-#### Das Verfehlen eines Sliderkopfes führt zu einem Miss
+#### Das Verfehlen eines Sliderheads führt zu einem Miss
 
-Bislang unterbrach die Combo beim Verfehlen eines Sliderkopfes (entweder, weil er nicht oder außerhalb des Trefferfensters getroffen wird), aber führte zu keinem Miss. Eine Beurteilung konnte man durch Abschluss des Rests des Sliders trotzdem noch erhalten. Dies ermöglichte Spielern Scores mit einer geringen maximalen Combo zu erzielen, obwohl sie genau genommen keine Misses hatten.
+Bislang unterbrach die Combo beim Verfehlen eines Sliderheads (weil er nicht oder außerhalb des Trefferfensters getroffen wird), aber führte nicht zu einem Miss. Eine Beurteilung konnte man durch Abschluss des Rests des Sliders trotzdem noch erhalten. Dies ermöglichte Spielern Scores mit einer geringen maximalen Combo zu erzielen, obwohl sie genau genommen keine Misses hatten.
 
-In lazer bekommt man beim Verfehlen des Sliderkopfes einen MISS für den gesamten Slider. Punkte, Combo und Genauigkeit können danach aber noch durch Sliderticks, -wiederholungen und -enden erzielt werden.
+In lazer bekommt man beim Verfehlen des Sliderheads einen MISS für den gesamten Slider. Punkte, Combo und Genauigkeit können danach aber noch durch Sliderticks, -wiederholungen und -enden erzielt werden.
 
 |  |  |
 | :-- | :-: |
@@ -261,7 +251,7 @@ Solange man Slider überhaupt trifft, spielt stable ihre Hitsounds ab, auch wenn
 
 #### Die Begrenzung der Spingeschwindigkeit von 477 RPM beim Spinner wurde entfernt
 
-Anstatt der Geschwindigkeitsbegrenzung werden nun die Punkte limitiert, die durch die Gesamtzahl der Rotationen, die bei einem bestimmten RPM-Wert (Umdrehungen pro Minute) im Spinner erreichbar sind, bestimmt werden (abhängig vom OD-Wert).
+Anstatt der Geschwindigkeitsbegrenzung werden nun die Punkte limitiert. Der Maximalwert wird durch die Gesamtzahl der Rotationen, die bei einem bestimmten RPM-Wert (Umdrehungen pro Minute) im Spinner erreichbar sind, bestimmt (abhängig vom OD-Wert).
 
 Das bedeutet, dass die maximale Punktzahl früh durch ein schnelleres Spinnen erzielt werden kann, wobei danach keine weiteren Punkte für die restliche Dauer des Spinners vergeben werden.
 
@@ -286,7 +276,7 @@ Die erforderliche RPM, um die maximale Punktzahl zu bekommen, ist wie folgt:
 
 Einige experimentelle Beatmaps nutzen Programmfehler im Stable-Client aus, die abartige Slidermechaniken ermöglichen. Dies geht von Slidern der Länge null, die sich wie unsichtbare Kreise verhalten, bis hin zu Slidern, die sich über den gesamten Bildschirm erstrecken oder die sehr stark gequetscht sind.
 
-Es steht noch zur Debatte, in wie weit Aspire-Beatmaps kompatibel sein sollen in Zukunft. Beispielsweise könnten unsichtbare Kreise eine tatsächlich unterstützte Funktion sein.
+Es steht noch zur Debatte, in wie weit Aspire-Beatmaps in Zukunft kompatibel sein werden. Beispielsweise könnten unsichtbare Kreise eine tatsächlich unterstützte Funktion sein.
 
 |  |  |
 | :-- | :-: |
@@ -319,17 +309,6 @@ In stable war es nicht möglich, Drumrolls zu schnell oder zu langsam zu treffen
 | Absichtliche Änderung | ![Ja][true] |
 | Weitere Prüfung notwendig | ![Ja][true] |
 
-#### Der Mittelpunkt der Taschenlampe stimmt mit dem Beurteilungskreis überein
-
-In stable ist der Mittelpunkt der Taschenlampe bei der Mod Flashlight etwas nach unten und nach rechts versetzt, wodurch mehr Hit-Objekte sichtbar sind.
-
-|  |  |
-| :-- | :-: |
-| Abwärtskompatibel | ![Ja][true] |
-| Umkehrbar mit der Classic-Mod | ![Nein][false] |
-| Absichtliche Änderung | ![Nein][false] |
-| Weitere Prüfung notwendig | ![Ja][true] |
-
 ### osu!catch
 
 #### Die Generierung von Hyperdashes kann in einigen Fällen unterschiedlich sein
@@ -356,7 +335,7 @@ Dies führt möglicherweise zu ungenauen Beurteilungen in Replays.
 
 ### osu!mania
 
-#### Köpfe und Enden von Hold-Notes vergeben Beurteilungen
+#### Anfänge und Enden von Hold-Notes vergeben Beurteilungen
 
 Dies funktioniert ähnlich zu ScoreV2 in stable.
 
@@ -382,7 +361,7 @@ Hold-Notes haben in lazer keine Ticks, was bedeutet, dass Hold-Notes die Combo n
 
 #### Übermäßige Scrollgeschwindigkeiten sind nur eingeschränkt verfügbar
 
-Einige Beatmaps mit SV-Gimmicks wie Teleportationen oder Stopps sehen nicht wie beabsichtigt aus, aber sind ansonsten spielbar.
+Einige Beatmaps mit SV-Gimmicks wie Teleportationen oder Stopps sehen nicht wie beabsichtigt aus, sind aber ansonsten spielbar.
 
 |  |  |
 | :-- | :-: |
@@ -391,7 +370,7 @@ Einige Beatmaps mit SV-Gimmicks wie Teleportationen oder Stopps sehen nicht wie 
 | Absichtliche Änderung | ![Ja][true] |
 | Weitere Prüfung notwendig | ![Ja][true] |
 
-#### Das Trefferfenster der Beurteilung PERFECT skaliert mit OD
+#### Das Trefferfenster der Beurteilung PERFECT skaliert mit der OD
 
 Früher waren das konstante ±16 ms, unabhängig von der [allgemeinen Schwierigkeit](/wiki/Beatmap/Overall_difficulty) (OD).
 
@@ -425,7 +404,7 @@ Du kannst es [hier](https://osu.ppy.sh/home/download) herunterladen. Bald wirst 
 
 #### Wird stable verschwinden? Werde ich zum Wechsel gezwungen?
 
-Solange der Stable-Client aktiv gespielt wird, wird dieser unterstützt.
+Solange der Stable-Client aktiv genutzt wird, wird dieser unterstützt. Zumindest wird stable mehrere Jahre aufrechterhalten.
 
 #### Kann ich alle meine Daten aus stable in lazer importieren?
 
@@ -459,9 +438,9 @@ Davon abgesehen können vorläufig einzelne Scores und Beatmaps aus lazer export
 
 #### Wenn ich einen Score in lazer erreiche, wird er dann in meinem Profil angezeigt?
 
-Ja, aber nicht unter "Beste Performance", wenn der "Lazer-Modus" auf der Webseite deaktiviert ist.
+Scores, die in lazer erreicht wurden, werden unter `Angepinnte Scores`, `Beste Performance`, `Zuletzt gespielt (24h)` und `Meistgesehene Replays` angezeigt.
 
-Außerdem wird der Score vorerst nicht unter der Übersicht "Erster Platz" erscheinen.
+Damit sie auch unter `Erster Platz` erscheinen, musst du den `Lazer-Modus` auf der Webseite aktivieren.
 
 #### Wenn ich einen Score in lazer erreiche, wird es dafür Performance-Punkte geben?
 
@@ -479,7 +458,7 @@ Du kannst tatsächlich die Einstellung `Spielstandanzeigemodus` auf `Klassisch` 
 
 Globale Score-Ranglisten nutzen ebenfalls das klassische Punktesystem.
 
-#### Wenn ich einen Score auf lazer erreiche, wird dieser für immer bleiben?
+#### Wenn ich einen Score in lazer erreiche, wird dieser für immer bleiben?
 
 Wir versuchen zwar, so viele Scores wie möglich zu erhalten, geben aber **keine Garantie, dass Scores dauerhaft erhalten bleiben**. Wir können uns jederzeit dazu entscheiden, einen Teil oder alle Scores zu vernichten, um das Spiel fair zu halten, z. B. wenn Cheats entdeckt werden.
 
@@ -487,7 +466,7 @@ Wir versuchen zwar, so viele Scores wie möglich zu erhalten, geben aber **keine
 
 Ja.
 
-#### Werden auf lazer erreichte Scores in stable auftauchen?
+#### Werden in lazer erreichte Scores in stable auftauchen?
 
 Vorerst nicht.
 
@@ -497,40 +476,46 @@ Auf Ranglisten erscheinen Scores jeglicher Mod-Kombinationen.
 
 Jedoch gibt es aktuell nur für die folgenden Mods Performance-Punkte:
 
+*Sofern nicht anders angegeben, werden Performance-Punkte nur für die **Standardkonfiguration** der Anpassungsoptionen vergeben.*
+
 - Verringerung der Schwierigkeit
   - Easy
   - No Fail
-  - Half Time (nur 0,75x, `Adjust pitch` anzupassen ist erlaubt)
-  - Daycore (nur 0,75x)
+  - Half Time (`Adjust pitch` anzupassen ist erlaubt)
+  - Daycore
 - Erhöhung der Schwierigkeit
   - Hard Rock (gilt nicht für osu!mania)
-  - Sudden Death (`Restart on fail` anzupassen ist erlaubt)
-  - Perfect (`Restart on fail` anzupassen ist erlaubt)
+  - Sudden Death (alle Optionen dürfen angepasst werden)
+  - Perfect (alle Optionen dürfen angepasst werden)
+  - Double Time (`Adjust pitch` anzupassen ist erlaubt)
+  - Nightcore
+  - Fade In (nur osu!mania)
   - Hidden
-  - Nightcore (nur 1,5x)
-  - Double Time (nur 1,5x, `Adjust pitch` anzupassen ist erlaubt)
+  - Traceable (nur osu!)
+  - Cover (nur osu!mania, alle Optionen dürfen angepasst werden)
   - Flashlight
-  - Blinds
-  - Accuracy Challenge
-- Konvertierung (betrifft nur osu!mania)
-  - Mirror
-  - Four Keys
-  - Five Keys
-  - Six Keys
-  - Seven Keys
-  - Eight Keys
-  - Nine Keys
+  - Blinds (nur osu!)
+  - Accuracy Challenge (alle Optionen dürfen angepasst werden)
+- Automatisierung
+  - Spun Out (nur osu!)
+- Konvertierung
+  - Alternate (nur osu!)
+  - Swap (nur osu!taiko)
+  - Single Tap (nur osu! und osu!taiko)
+  - Mirror (nur osu!mania)
+  - Four Keys (nur osu!mania)
+  - Five Keys (nur osu!mania)
+  - Six Keys (nur osu!mania)
+  - Seven Keys (nur osu!mania)
+  - Eight Keys (nur osu!mania)
+  - Nine Keys (nur osu!mania)
 - Zum Spaß
-  - Muted
-  - No Scope
-- Automatisierung (betrifft nur osu!)
-  - Spun out
+  - Muted (alle Optionen dürfen angepasst werden)
+  - No Scope (nur osu! und osu!catch, alle Optionen dürfen angepasst werden)
 - System
   - Touch Device
 
-Sofern oben nicht anders angegeben, werden Performance-Punkte nur für die Standardkonfiguration der Anpassungsoptionen vergeben.
-
-#### Ich mag die neuen Spielmechaniken nicht. Kann ich die alten Spielmechaniken wie auf stable wiederherstellen?
+#### Ich mag die neuen Spielmechaniken nicht. Kann ich die alten Spielmechaniken wie in stable wiederherstellen?
 
 Bitte probiere die Mod "Classic" aus, die vieles zurückbringt, was du gewohnt bist. Stelle ebenfalls sicher, in die Einstellungen zu schauen, die die Mod anbietet. Mit den dort vorhandenen Optionen kannst du dein Erlebnis besser anpassen.
 
@@ -566,7 +551,7 @@ Das Betriebssystem fragt weiterhin mit der hohen Rate ab, obwohl sich die Vortei
 
 #### Lazer läuft für mich schlechter als stable. Warum das?
 
-Während auf den meisten modernen Geräten lazer besser abschneidet als stable, gibt es immer Sonderfälle, da jeder Benutzer eine andere Hardwarekonfiguration hat. Die Unterstützung von DirectX (auch bekannt als "Kompatibilitätsmodus" auf stable) und Vulkan, welche beide in vielerlei Hardware bessere Treiberunterstützung als OpenGL haben, möchten wir in naher Zukunft hinzufügen. Sobald dies implementiert wurde, wird sich die Leistung auf Hardware wie integrierten Chipsätzen von Intel erheblich verbessern.
+Während auf den meisten modernen Geräten lazer besser abschneidet als stable, gibt es immer Sonderfälle, da jeder Benutzer eine andere Hardwarekonfiguration hat. Die Unterstützung von DirectX (auch bekannt als "Kompatibilitätsmodus" in stable) und Vulkan, welche beide in vielerlei Hardware bessere Treiberunterstützung als OpenGL haben, möchten wir in naher Zukunft hinzufügen. Sobald dies implementiert wurde, wird sich die Leistung auf Hardware wie integrierten Chipsätzen von Intel erheblich verbessern.
 
 ### Feedback geben
 
@@ -574,19 +559,19 @@ Während auf den meisten modernen Geräten lazer besser abschneidet als stable, 
 
 Es ist sehr wahrscheinlich, dass wir uns dessen bereits bewusst sind und es für die zukünftige Umsetzung einplanen! Bitte suche im [Issue-Tracker](https://github.com/ppy/osu/issues) und der [Diskussionsseite](https://github.com/ppy/osu/discussions). Wenn du keine passenden Beiträge finden kannst, darfst du gerne [eine Diskussion öffnen](https://github.com/ppy/osu/discussions/new).
 
-Bedenke, dass wir bereits über 1.000 Issues mit unterschiedlichen Prioritäten verfolgen und es kann einige Zeit dauern, Fehler zu beheben, die nur einen kleinen Teil der Nutzer beeinträchtigt.
+Bedenke, dass wir bereits über 1.000 Issues mit unterschiedlichen Prioritäten verfolgen und es kann einige Zeit dauern, Fehler zu beheben, die nur einen kleinen Teil der Nutzer beeinträchtigen.
 
 ### Sonstiges
 
 #### Warum wird es "lazer" genannt?
 
-Was ist schärfer als eine scharfe Kante? Ein Laser! Es handelt sich um ein Wortspiel mit der Updatequelle `Cutting Edge`, die experimentelle Version des Clients.
+Was ist schärfer als eine scharfe Kante? Ein Laser! Es handelt sich um ein Wortspiel mit der Updatequelle `Cutting Edge`, die experimentelle Version des Stable-Clients.
 
 #### Warum dauert es so lange, bis es die "Hauptversion" wird?
 
 Auch wenn osu! wie ein einfaches Spiel aussieht, gibt es Hunderte von Funktionen und Systemen, auf die sich die Nutzer inzwischen verlassen. Je nachdem, wen man fragt, ist lazer schon seit Jahren in einem voll spielbaren Zustand oder es fehlen noch zahlreiche Funktionen.
 
-Ein weiterer Bereich, der einen großen Teil der Arbeit einnimmt, ist die historische Erhaltung — es wird sichergestellt, dass die Beatmaps sich genauso verhalten, wie sie es sollen, einschließlich der Randfälle, die ursprünglich nicht eingeplant waren. osu! ist ein dynamisches Ökosystem und die Nutzer haben sich die Freiheit genommen, das Spiel weit über den geplanten Umfang hinaus zu erweitern. Wir versuchen unser Bestes, um das in Zukunft zu fördern und zu unterstützen.
+Ein weiterer Bereich, der einen großen Teil der Arbeit einnimmt, ist die historische Erhaltung — es wird sichergestellt, dass sich die Beatmaps genauso verhalten, wie sie es sollen, einschließlich der Randfälle, die ursprünglich nicht eingeplant waren. osu! ist ein dynamisches Ökosystem und die Nutzer haben sich die Freiheit genommen, das Spiel weit über den geplanten Umfang hinaus zu erweitern. Wir versuchen unser Bestes, das in Zukunft zu fördern und zu unterstützen.
 
 Zu guter Letzt investieren wir im Gegensatz zur letzten Iteration viel Zeit und Sorgfalt, um sicherzustellen, dass die Codebasis uns auch in Zukunft noch gute Dienste leisten wird. Wir haben die Voraussetzungen dafür geschaffen, dass neue Funktionen in Zukunft in rasantem Tempo online gehen können. Das beinhaltet neue UI-Komponenten, neue Optionen das Spiel zu verschönern, neue Mehrspieler-Systeme und nicht zu vergessen die Möglichkeit, alle deine existierenden Beatmaps in neuen Spielmodi (auch bekannt als Rulesets) zu spielen!
 
@@ -598,7 +583,7 @@ Wir haben eine riesige ToDo-Liste an Funktionen und Verbesserungen, die von den 
 
 Es gibt keinen Songs-Ordner in lazer! Das ermöglicht uns, coole Dinge zu machen, wie zum Beispiel, dass in der Songauswahl nicht mehr `F5` gedrückt werden muss, um Beatmaps neuzuladen (weil Beatmaps immer das richtige Format haben) und dass der Speicherplatz, der von Beatmaps verbraucht wird, um 20 bis 40 % reduziert wird. Wie lazer Dateien speichert, kannst du [in diesem Artikel](/wiki/Client/Release_stream/Lazer/File_storage) nachlesen.
 
-Wenn du Änderungen an Beatmaps vornehmen musst, dann verwende bitte den Editor. Künftig werden wir einen Modus im Editor einführen, der einen Beatmap-Ordner temporär für die externe Bearbeitung verfügbar macht. So kannst du während der Erstellung einer Beatmap externe Tools verwenden.
+Wenn du Änderungen an einer Beatmap vornehmen musst, verwende bitte den Editor im Spiel. Um auf die Dateien einer Beatmap zuzugreifen, kannst du die Option **Extern bearbeiten** im Menü **Datei** verwenden.
 
 #### Jetzt, da "osu!direct" für alle Spieler verfügbar ist, werden Supporter irgendwelche neuen Vorteile haben?
 
@@ -639,7 +624,7 @@ Du denkst wahrscheinlich an ein anderes Spiel.
 [^note-lock]: Existiert noch, sollte aber nicht stören.
 [^online-content]: Eingebauter Zugang zu den meisten Online-Inhalten.
 [^direct-supporter]: Über osu!direct, nur für osu!supporter.
-[^supporter]: nur für osu!supporter.
+[^supporter]: Nur für osu!supporter.
 [^soft-deletion]: Stelle gelöschte Beatmaps und andere Daten in den Einstellungen wieder her. Löschoperationen sind erst beim Verlassen des Spiels unumkehrbar.
 [^multi-room-max]: Maximal 16 Spieler.
 [^map-only]: Nur die Beatmap.

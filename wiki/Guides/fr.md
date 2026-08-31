@@ -21,7 +21,7 @@ Vous trouverez ci-dessous une liste de guides créés par des membres de la comm
 - [Guide de mapping osu!mania](osu!mania_mapping_guide)
 - [Problème avec le BSS](BSS_issues)
 - [Théorie musicale](/wiki/Music_theory)
-- [Timing des musiques avec des signatures en #/8](Timing_songs_with_8-signatures)
+- [Timing des musiques avec des signatures en #/8](Timing_songs_with_N_per_8_time_signatures)
 - [Utilisation de hitsounds personnalisés](Using_custom_hitsounds)
 - [Vue d'ensemble des échantillons personnalisées](Custom_sample_overrides)
 
