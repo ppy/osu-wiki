@@ -297,25 +297,26 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Quarterfinals
 
+**[Download the mappack here (155 MB)](https://packs.ppy.sh/P335%20-%20osu%21mania%204K%20World%20Cup%202026%3A%20Quarterfinals.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2860976351)
 
 - Rice
   1. [Rayuela - La Casa del Hombre (Valedict) \[El hogar es donde esta el odio\]](https://osu.ppy.sh/beatmapsets/2612668#mania/5852784)
-  2. bibuko - Sorairo Gahou (\[GS\]hina) \[Yasuragi (MWC Edit.)\] (link pending)
+  2. [bibuko - Sorairo Gahou (\[GS\]hina) \[Yasuragi (MWC Edit.)\]](https://osu.ppy.sh/beatmapsets/2612810#mania/5853293)
   3. [Jeff Williams feat. Casey Lee Williams - When It Falls (wolfyou) \[Deterioration \[1.05x\]\]](https://osu.ppy.sh/beatmapsets/2612648#mania/5852753)
-  4. yassu - before... (Miaurichesu) \[afterlike 1.05x\] (link pending)
+  4. [yassu - before... (Miaurichesu) \[. . . . . (1.05x)\]](https://osu.ppy.sh/beatmapsets/2612904#mania/5853552)
   5. [Sunnexo - Internet Exploder (James May) \[getting DDOSed on MW2's OP\]](https://osu.ppy.sh/beatmapsets/2612657#mania/5852770)
   6. [Path to Nowhere - Neon Glitchwave (Cut Ver.) (AutotelicBrown) \[Breakthrough\]](https://osu.ppy.sh/beatmapsets/2612656#mania/5852769)
   7. [Is-m - Anti Function (Elekton) \[bopis\]](https://osu.ppy.sh/beatmapsets/1422457#mania/2929583)
 - Hybrid
   1. [dennoko-P - MIRACLE GREAT (V1do-) \[Fog 1.1x\]](https://osu.ppy.sh/beatmapsets/2612671#mania/5852788)
   2. [Sasuke Haraguchi - TAKER TAKER (-mint-) \[KNOCKOUT KNOCKOUT\]](https://osu.ppy.sh/beatmapsets/2612669#mania/5852786)
-  3. Samuel Marquis - Soul Arcs Rework (Hudson Lee & False Noise) (Cut Ver.) (Micleak) \[A Train Of Pearls\] (link pending)
+  3. [Samuel Marquis - Soul Arcs Rework (Hudson Lee & False Noise) (Cut Ver.) (Micleak) \[A Train Of Pearls\]](https://osu.ppy.sh/beatmapsets/2612836#mania/5853349)
 - Long Note
-  1. Koujimachi-yousankan - Boot (Hytex) \[Hello, World!\] (link pending)
-  2. kooridori & TRIAL - Miracletale (gzdongsheng) \[Magical 1.05x\] (link pending)
+  1. [Koujimachi-Yousankan - Boot (Hytex) \[Hello, World!\]](https://osu.ppy.sh/beatmapsets/2612756#mania/5853113)
+  2. [kooridori & TRIAL - Miracletale (gzdongsheng) \[Magical 1.05x\]](https://osu.ppy.sh/beatmapsets/2612819#mania/5853310)
   3. [tn-shi - Synthesis. (elexire) \[Admixture\]](https://osu.ppy.sh/beatmapsets/2612712#mania/5852970)
-  4. Mili - String Theocracy (Micleak) \[Unravel My Story\] (link pending)
+  4. [Mili - String Theocracy (Micleak) \[Unravel My Story\]](https://osu.ppy.sh/beatmapsets/2612837#mania/5853350)
 - Tiebreaker
   1. **[NormalM vs. f2 - All in on Your Shadow (rikan) \[Bargaining Chip\]](https://osu.ppy.sh/beatmapsets/2612696#mania/5852880)**
 
