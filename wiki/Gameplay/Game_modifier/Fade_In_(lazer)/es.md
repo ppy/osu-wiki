@@ -31,7 +31,7 @@ tags:
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In)
 :::
 
 ::: alert-note

@@ -31,7 +31,7 @@ tags:
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)
 :::
 
 ::: alert-note
