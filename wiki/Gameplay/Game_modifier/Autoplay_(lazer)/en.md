@@ -34,7 +34,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Auto (mod)](/wiki/Gameplay/Game_modifier/Auto)
+**Note:** For the osu!(stable) version of this article, see [Auto (mod)](/wiki/Gameplay/Game_modifier/Auto)
 :::
 
 ::: alert-note

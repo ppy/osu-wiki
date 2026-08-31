@@ -23,7 +23,8 @@ tags:
 | Acronym | RD |
 | Type | Conversion |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!mania] |
-| Score multiplier | `1.00x` |
+| Score multiplier ![][osu!] | `0.70x` |
+| Score multiplier ![][osu!taiko] ![][osu!mania] | `1.00x` |
 | Status | Unranked |
 | Incompatible mods ![][osu!] | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
 | Incompatible mods ![][osu!taiko] | [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) |
@@ -32,7 +33,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Random (mod)](/wiki/Gameplay/Game_modifier/Random)
+**Note:** For the osu!(stable) version of this article, see [Random (mod)](/wiki/Gameplay/Game_modifier/Random)
 :::
 
 ::: alert-note

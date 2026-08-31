@@ -33,7 +33,7 @@ tags:
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [Relax (mod)](/wiki/Gameplay/Game_modifier/Relax)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [Relax (mod)](/wiki/Gameplay/Game_modifier/Relax)
 :::
 
 ::: alert-note

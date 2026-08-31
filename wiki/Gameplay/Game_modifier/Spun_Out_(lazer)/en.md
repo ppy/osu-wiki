@@ -23,14 +23,14 @@ tags:
 | Type | Automation |
 | Default shortcut key | `B` |
 | Game modes | ![][osu!] |
-| Score multiplier | `0.90x` |
+| Score multiplier | `0.95x` |
 | Status | Ranked |
 | Incompatible mods | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
 
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Spun Out (mod)](/wiki/Gameplay/Game_modifier/Spun_Out)
+**Note:** For the osu!(stable) version of this article, see [Spun Out (mod)](/wiki/Gameplay/Game_modifier/Spun_Out)
 :::
 
 ::: alert-note

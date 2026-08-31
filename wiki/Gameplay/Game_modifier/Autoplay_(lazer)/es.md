@@ -35,7 +35,7 @@ tags:
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [Auto (mod)](/wiki/Gameplay/Game_modifier/Auto)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [Auto (mod)](/wiki/Gameplay/Game_modifier/Auto)
 :::
 
 ::: alert-note

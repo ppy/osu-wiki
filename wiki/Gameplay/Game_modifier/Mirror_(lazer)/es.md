@@ -32,7 +32,7 @@ tags:
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [Mirror (mod)](/wiki/Gameplay/Game_modifier/Mirror)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [Mirror (mod)](/wiki/Gameplay/Game_modifier/Mirror)
 :::
 
 ::: alert-note
