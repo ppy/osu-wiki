@@ -132,11 +132,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 | 45 | South Korea ::{ flag=KR }:: | ::{ flag=TH }:: Thailand | [Sep 05 (Sat) 06:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T063000&p1=1440&p2=235&p3=28) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 38 | Singapore ::{ flag=SG }:: | ::{ flag=HK }:: Hong Kong | [Sep 05 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T080000&p1=1440&p2=236&p3=102) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 33 | Philippines ::{ flag=PH }:: | ::{ flag=FI }:: Finland | [Sep 05 (Sat) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T093000&p1=1440&p2=145&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 40 | Russian Federation ::{ flag=RU }:: | ::{ flag=VN }:: Vietnam | [Sep 05 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T120000&p1=1440&p2=166&p3=95) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 36 | Indonesia ::{ flag=ID }:: | ::{ flag=ES }:: Spain | [Sep 05 (Sat) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T133000&p1=1440&p2=108&p3=141) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 40 | Russian Federation ::{ flag=RU }:: | ::{ flag=VN }:: Vietnam | [Sep 05 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T140000&p1=1440&p2=166&p3=95) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | 34 | Malaysia ::{ flag=MY }:: | ::{ flag=BR }:: Brazil | [Sep 05 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T150000&p1=1440&p2=122&p3=45) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 39 | Argentina ::{ flag=AR }:: | ::{ flag=FR }:: France | [Sep 05 (Sat) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T163000&p1=1440&p2=51&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 37 | Mexico ::{ flag=MX }:: | ::{ flag=PL }:: Poland | [Sep 05 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T180000&p1=1440&p2=155&p3=262) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 37 | Mexico ::{ flag=MX }:: | ::{ flag=PL }:: Poland | [Sep 05 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260905T170000&p1=1440&p2=155&p3=262) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 
 ### Sunday, 6 September 2026
 
@@ -147,8 +147,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 | 41b | Malaysia ::{ flag=MY }:: | ::{ flag=FI }:: Finland | [Sep 06 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T120000&p1=1440&p2=122&p3=101) | *TBD* | [^potential-match] |
 | 42b | Indonesia ::{ flag=ID }:: | ::{ flag=TW }:: Taiwan | [Sep 06 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T120000&p1=1440&p2=108&p3=241) | *TBD* | [^potential-match] |
 | 42d | Spain ::{ flag=ES }:: | ::{ flag=TW }:: Taiwan | [Sep 06 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T120000&p1=1440&p2=141&p3=241) | *TBD* | [^potential-match] |
-| 43b | Singapore ::{ flag=SG }:: | ::{ flag=PL }:: Poland | [Sep 06 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T130000&p1=1440&p2=236&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 43d | Hong Kong ::{ flag=HK }:: | ::{ flag=PL }:: Poland | [Sep 06 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T130000&p1=1440&p2=102&p3=262) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 43b | Singapore ::{ flag=SG }:: | ::{ flag=PL }:: Poland | [Sep 06 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T130000&p1=1440&p2=236&p3=262) | *TBD* | [^potential-match] |
+| 43d | Hong Kong ::{ flag=HK }:: | ::{ flag=PL }:: Poland | [Sep 06 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T130000&p1=1440&p2=102&p3=262) | *TBD* | [^potential-match] |
+| 44b | Russian Federation ::{ flag=RU }:: | ::{ flag=FR }:: France | [Sep 06 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T130000&p1=1440&p2=166&p3=195) | *TBD* | [^potential-match] |
 | 44c | Vietnam ::{ flag=VN }:: | ::{ flag=AR }:: Argentina | [Sep 06 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T140000&p1=1440&p2=95&p3=51) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | 44d | Vietnam ::{ flag=VN }:: | ::{ flag=FR }:: France | [Sep 06 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T140000&p1=1440&p2=95&p3=195) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
 | 46 | China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Sep 06 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T140000&p1=1440&p2=33&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
@@ -159,13 +160,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 | 43c | Hong Kong ::{ flag=HK }:: | ::{ flag=MX }:: Mexico | [Sep 06 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T150000&p1=1440&p2=102&p3=155) | *TBD* | [^potential-match] |
 | 42c | Spain ::{ flag=ES }:: | ::{ flag=PE }:: Peru | [Sep 06 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T163000&p1=1440&p2=141&p3=131) | *TBD* | [^potential-match] |
 | 44a | Russian Federation ::{ flag=RU }:: | ::{ flag=AR }:: Argentina | [Sep 06 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T170000&p1=1440&p2=166&p3=51) | *TBD* | [^potential-match] |
-| 44b | Russian Federation ::{ flag=RU }:: | ::{ flag=FR }:: France | [Sep 06 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T170000&p1=1440&p2=166&p3=195) | *TBD* | [^potential-match] |
 | 47 | United States ::{ flag=US }:: | ::{ flag=CA }:: Canada | [Sep 06 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T180000&p1=1440&p2=263&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | SC | Semifinals | mappool showcase | [Sep 06 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260906T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
 
 ### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/16jxcB8mdO8oficrc8Ex0L9tGk3pillyQBjwPRK_DaMg?rm=minimal).
 
 Thursday, 27 August 2026:
 
