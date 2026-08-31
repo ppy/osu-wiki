@@ -1,5 +1,4 @@
 ---
-needs_cleanup: true
 stub: true
 tags:
   - mod
@@ -15,22 +14,25 @@ tags:
   - 模组列表
   - 个人预设
   - 自定义
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # 游戏模组 (lazer)
 
-*对于该文章的 osu!stable 版本，请见：[游戏模组](/wiki/Gameplay/Game_modifier)*\
-*对于 "Mod" 一词的其他用法，请见：[Mod（消歧义）](/wiki/Disambiguation/Mod)*
+::: alert-note
+**注:** 对于该文章的 osu!stable 版本，请见：[游戏模组](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**注:** 对于“Mod”一词的其他用法，请见：[Mod（消歧义）](/wiki/Disambiguation/Mod)
+:::
 
 ![](img/mod-select-ZH.jpg "osu! 游戏模式的模组选择界面")
 
-模组被分为五类：`降低难度`、`增加难度`、`自动化`、`转换`、`娱乐`，它们能够降低或增加得分系数。同时使用多个模组时，最终的得分系数是所有模组得分系数的乘积（如 1.06x * 1.12x = 1.1872x）。
+**游戏模组**（又称**模组**）被分为六类：`降低难度`、`增加难度`、`自动化`、`转换`、`娱乐`与`系统`。其中一些模组能够减少或增加得分倍率。同时使用多个模组时，最终的得分倍率是各模组得分倍率的乘积（如 `1.06x * 1.12x = 1.1872x`）。`系统`类别的模组会按需自动启用。
 
 ## 模组列表
 
-下表列出的所有模组只能在它们右侧列出的游戏模式（![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]）内发挥作用。
+在下表列出的每个模组旁，会显示模组兼容的[游戏模式](/wiki/Game_mode)图标 ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]。
 
 ### 降低难度
 
@@ -107,16 +109,12 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 ### 系统
 
-- [Score V2 (SV2)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) ![][osu!]
+- [Score V2 (SV2)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 #### 个人预设
 
-**个人预设**位于一个独立的类别中，允许你将任何模组组合直接保存到其中。你可以为它们命名或添加额外的描述。每个个人预设都是仅适用于其对应的游戏模式的。
-
-#### 自定义
-
-与 Difficulty Adjust (DA) 模组类似，预定义的**自定义**设置能够基于选择的模组，提供可定制的游戏体验。更改自定义设置可能会导致分数无法计入排名。
+**个人预设**是一个独立的类别（位于**降低难度**左侧），玩家能够直接在此保存任何模组组合。所有个人预设都需要命名，并可以选填描述。每个游戏模式的个人预设列表相互独立。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
