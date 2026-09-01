@@ -9,9 +9,9 @@ The debut of the osu!mania 4K World Cup bracket stage is here! Join us to discov
 
 ![](/wiki/Tournaments/MWC/2026_4K/img/mwc4k2026-banner.jpg)
 
-It's no wonder that Qualifiers tend to be one of the most stressful parts of a tournament. Different seed places can very well make or break a team's chance of making it into later rounds. And while all teams had one week to prepare for the first elimination round, the goal will always be to defend the placement they've earned at the start of the tournament.
+It's no wonder that Qualifiers tend to be one of the most stressful parts of a tournament. Different seed placements can very well make or break a team's chance of making it into later rounds. And while all teams had one week to prepare for the first elimination round, the goal will always be to defend the placement they've earned at the start of the tournament.
 
-As such, it is no wonder we've already seen teams and players alike giving their all on the first bracket round of the tournament! While the maps got comparatively easier than their Qualifiers counterparts, the competition and effort required to stay afloat remained very much the same.
+As such, it is no wonder we've already seen teams and players alike giving their all on the first bracket round of the tournament! The maps got comparatively easier than their Qualifiers counterparts, but the competition and effort required to stay afloat remained very much the same.
 
 While recapping all matches in one single news post would not be possible, thanks to the work of [Dynascape](https://osu.ppy.sh/users/8784587), [SunApple](https://osu.ppy.sh/users/11817622), [Normiplier](https://osu.ppy.sh/users/10069850), [akace100](https://osu.ppy.sh/users/9308128), and [Rush_FTK](https://osu.ppy.sh/users/3046856) you will be able to get up to speed with all matches that took place thanks to their video summary of the week!
 
@@ -31,9 +31,9 @@ While recapping all matches in one single news post would not be possible, thank
 
 Starting things off with [MEMODEMO - Extragalactic](https://osu.ppy.sh/beatmapsets/2604474#mania/5825943) (RC3) by ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), the trend of rather unorthodox chordjack picks in the first round continues. While it may be only 135 BPM, it manages to make up for that with its focus on heavy jack columns. Paired with the short bursts, it's easy to underestimate the difficulty, causing players to drop accuracy left and right. It's a true test of consistency!
 
-A great entry to this round's map pool would be [Polyphia - Ego Death feat. Steve Vai (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2604487#mania/5825998) (HB2) by ::{ flag=IT }:: [rikan](https://osu.ppy.sh/users/25263357) and ::{ flag=US }:: [Razzy](https://osu.ppy.sh/users/7690361). For one, it's already a surprise to see a four-minute-long pick in the first pool, and for two, it's another surprise to see Razzy make a return to charting after years of silence. Containing tons of shields and tricky high snap patterns, it's unsurprising to see that this is one of the hardest picks in the pool, especially knowing that this clocks in at 4 minutes long.
+A great entry to this round's mappool would be [Polyphia - Ego Death feat. Steve Vai (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2604487#mania/5825998) (HB2) by ::{ flag=IT }:: [rikan](https://osu.ppy.sh/users/25263357) and ::{ flag=US }:: [Razzy](https://osu.ppy.sh/users/7690361). For one, it's already a surprise to see a four-minute-long pick in the first pool, and for two, it's another surprise to see Razzy make a return to charting after years of silence. Containing tons of shields and tricky high snap patterns, it's unsurprising to see that this is one of the hardest picks in the pool, especially considering its length.
 
-The tiebreaker will always be here to wrap up the mappool, however this round is extra special. [Christian McBride Trio - Cherokee (Live) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2604501#mania/5826029) (TB) by ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) is possibly one of the most unique tiebreakers we'll ever see, with it being an entire jazz live performance with variable BPM. In live performance fashion, you're given a whole lot of variation, from slower LN-heavy sections, to very fast and tricky rice patterns. Even if you're not playing in the tournament, you should give this tremendous effort a try!
+The tiebreaker will always be here to wrap up the mappool. However, this round is extra special. [Christian McBride Trio - Cherokee (Live) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2604501#mania/5826029) (TB) by ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) is possibly one of the most unique tiebreakers we'll ever see, being an entire jazz live performance with variable BPM. In live performance fashion, you're given a whole lot of variation, from slower LN-heavy sections to very fast and tricky rice patterns. Even if you're not playing in the tournament, you should give this tremendous effort of a chart a try!
 
 ## Round of 32 summary
 
@@ -56,11 +56,11 @@ The tiebreaker will always be here to wrap up the mappool, however this round is
 | **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=QA }:: Qatar |
 | Brazil ::{ flag=BR }:: | 2 | **5** | ::{ flag=AR }:: **Argentina** |
 
-While not as exciting as later rounds or previous tournaments have been, we've still had a share of surprises left for us during this week's matches. Most notably, we had the Spanish derby between Mexico and Spain go to tiebreak, as well as the similarly-flagged match between Poland and Indonesia who valiantly fought to settle once and for all whether the red stripe should be at the top or bottom of their flags.
+While not as exciting as later rounds or previous tournaments have been, we've still had a share of surprises left for us during this week's matches. Most notably, we had the Spanish derby between Mexico and Spain go to the tiebreaker, as well as the similarly flagged match between Poland and Indonesia, valiantly fighting to settle once and for all whether the red stripe should be at the top or bottom.
 
 Despite the result, Brazil versus Argentina was also one of the closest matches in the round. With a team score delta of only **265 points** over the brazilians on [IVE - After LIKE (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2604483#mania/5825973) (RC4) by ::{ flag=PE }:: [Miaurichesu](https://osu.ppy.sh/users/10055648), that should tell you how close of a match it must've been. Make sure to [give the VOD a watch](https://www.twitch.tv/videos/2854555277) if you haven't already!
 
-Another thing to note is that the top 11 seeded teams still remain undefeated, with Poland being the ones to break the streak. All in all this was quite a chill weekend of matches. While there were some upsets here and there like the aforementioned LATAM derby, the overall results lined up with our expectations. This, however, may just be the calm before the storm.
+Another thing to note is that the top 11 seeded teams still remain undefeated, with Poland being the ones to break the streak. All in all, this was quite a chill weekend of matches. While there were some upsets here and there like the aforementioned LATAM derby, the overall results lined up with our expectations. This, however, may just be the calm before the storm.
 
 ---
 
