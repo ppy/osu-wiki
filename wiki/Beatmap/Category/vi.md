@@ -46,7 +46,7 @@ Chúng có bảng xếp hạng, nhưng không được nhận [điểm hiệu su
 
 Danh mục beatmap được chấp nhận được sử dụng trong giai đoạn từ năm 2008 đến 2014 để chứa các beatmap vượt quá yêu cầu về độ dài và điểm số tối đa theo các phiên bản cũ của [tiêu chí xếp hạng](/wiki/Ranking_criteria), cũng như một số beatmap hiếm hoi vi phạm các quy định khác.
 
-Beatmap được chấp nhận không ảnh hưởng đến thứ hạng điểm số của người dùng cho đến một thời gian ngắn sau khi hệ thống chuyển từ xếp hạng theo điểm sang xếp hạng theo [điểm hiệu suất](/wiki/Performance_points). Sau thay đổi này, trạng thái được chấp nhận chỉ được dùng cho các beatmap có [thời lượng drain](/wiki/Beatmap/Drain_time) lớn hơn 6 phút.
+Beatmap được chấp nhận không ảnh hưởng đến thứ hạng điểm số của người dùng cho đến một thời gian ngắn sau khi hệ thống chuyển từ xếp hạng theo điểm sang xếp hạng theo [điểm hiệu suất](/wiki/Performance_points). Sau thay đổi này, trạng thái được chấp nhận chỉ được dùng cho các beatmap có [thời lượng thực tế](/wiki/Beatmap/Drain_time) lớn hơn 6 phút.
 
 Beatmap được chấp nhận sử dụng biểu tượng dấu kiểm (![](/wiki/shared/status/approved.png)) trong màn hình chọn bài hát và hoạt động tương tự như beatmap được xếp hạng.
 
