@@ -49,7 +49,7 @@ On the [osu! forums](https://osu.ppy.sh/community/forums), users can obtain titl
 
 <!-- the bottom post on https://web.archive.org/web/20131107133826/https://osu.ppy.sh/forum/t/141240 -->
 
-For a time, post count titles were only accessible on the [old osu! website](https://old.ppy.sh)<!-- TODO: wiki page -->, with similar requirements on milestones <!-- https://osu.ppy.sh/community/forums/posts/2306316 -->
+For a time, post count titles were only accessible on the [old osu! website](https://old.ppy.sh)<!-- TODO: wiki page -->, with the same requirements on milestones. <!-- https://osu.ppy.sh/community/forums/posts/2306316 -->
 This was removed as osu! transitioned to a new design layout. Post count titles were re-implemented in September 2026.
 
 ## Trivia
