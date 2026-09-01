@@ -4,8 +4,6 @@ tags:
   - fadein
   - FI
   - desvanecimiento
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Fade In (mod de lazer)
@@ -33,15 +31,15 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In)
 :::
 
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-El mod **Fade In** hace que las notas sean inicialmente invisibles cuando caen desde arriba, revelándolas gradualmente a medida que se acercan a la parte inferior del campo de juego. El efecto de desvanecimiento cubre inicialmente alrededor del 20 % del campo de juego, pero se amplía a medida que aumenta el combo. A 500x de combo, el efecto de desvanecimiento alcanza su máximo, cubriendo el 70 % del campo de juego y haciendo que las notas aparezcan mucho más tarde.
+El mod **Fade In** hace que las notas sean invisibles al principio mientras entran en el [campo de juego](/wiki/Client/Playfield), revelándolas gradualmente a medida que se acercan a la línea de juicio. El efecto de desvanecimiento cubre inicialmente alrededor del 20 % del campo de juego, pero se amplía a medida que aumenta el [combo](/wiki/Gameplay/Combo_(score_multiplier)). A 500x de combo, el efecto de desvanecimiento alcanza su máximo, cubriendo el 70 % del campo de juego y haciendo que las notas aparezcan mucho más tarde.
 
-**Este mod no es personalizable.**
+**Este mod no se puede personalizar.**
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

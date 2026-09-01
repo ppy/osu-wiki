@@ -3,7 +3,7 @@ stub: true
 tags:
   - MG
 outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Magnetised (mod)
@@ -32,5 +32,17 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+Al usar el mod **Magnetised**, todos los [objetos](/wiki/Gameplay/Hit_object) se desplazan automáticamente hacia el cursor, lo que facilita golpearlos. Actúa de forma opuesta al mod [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel).
+
+## Personalización
+
+![Opciones de personalización del mod Magnetised en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MG.png)
+
+- `Attraction strength` (0,05-1,0, predeterminado: 0,5): La intensidad con la que el cursor atraerá los objetos.
+
+## Curiosidades
+
+- Magnetised [antes se llamaba](https://github.com/ppy/osu/pull/17588) Aim Assist.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

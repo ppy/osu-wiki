@@ -3,7 +3,7 @@ stub: true
 tags:
   - RP
 outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Repel (mod)
@@ -32,5 +32,13 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+Al usar el mod **Repel**, todos los [objetos](/wiki/Gameplay/Hit_object) se alejan automáticamente del cursor, lo que hace que sea más difícil golpearlos. Actúa de forma opuesta al mod [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised).
+
+## Personalización
+
+![Opciones de personalización del mod Repel en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/RP.png)
+
+- `Repulsion strength` (0,05-1,0, predeterminado: 0,5): La intensidad con la que el cursor repelerá los objetos.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

@@ -6,7 +6,7 @@ tags:
   - doble tiempo
   - tiempo doble
 outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Double Time (mod de lazer)
@@ -30,7 +30,8 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Multiplicador de puntuación ![][osu!] ![][osu!taiko] ![][osu!catch] | `1,10x*` |
 | Multiplicador de puntuación ![][osu!mania] | `1,00x` |
 | Estado | Clasificado |
-| Mods incompatibles | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
+| Mods incompatibles ![][osu!] ![][osu!taiko] ![][osu!mania] | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) |
+| Incompatible mods ![][osu!catch] | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
 
 :::
 
@@ -42,14 +43,16 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-El mod **Double Time** aumenta el BPM de cualquier beatmap en un 150 %, además de disminuir la duración de la canción en un 33 %. También aumenta la [velocidad de aproximación (AR)](/wiki/Beatmap/Approach_rate), la [dificultad general (OD)](/wiki/Beatmap/Overall_difficulty) o ambas a la vez según el [modo de juego](/wiki/Game_mode).
+El mod **Double Time** aumenta el BPM de cualquier beatmap en un 50 %, además de disminuir la duración de la canción en un 33,3 %. También puede aumentar la [velocidad de aproximación](/wiki/Beatmap/Approach_rate), la [dificultad general](/wiki/Beatmap/Overall_difficulty) o ambas, dependiendo del [modo de juego](/wiki/Game_mode) seleccionado.
 
 ## Personalización
 
 ![Opciones de personalización del mod Double Time en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DT.png)
 
-- **Speed increase** (1,01x-2,00x, predeterminado: 1,50x): La velocidad a la que se jugará el mapa.
-- **Adjust pitch** (predeterminado: desactivado): Cambia la frecuencia de audio dependiendo de la velocidad elegida. *Activar esta opción no hace que el mod sea no clasificado* (jugar con la velocidad predeterminada tendrá el mismo efecto de audio que [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)))
+- `Speed increase` (1,01x-2,00x, predeterminado: 1,50x): La velocidad a la que se jugará el mapa.
+- `Adjust pitch` (predeterminado: desactivado): Cambia la frecuencia de audio dependiendo de la velocidad elegida. Jugar con la velocidad predeterminada tendrá el mismo efecto de audio que [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)).
+
+Cambiar el ajuste predeterminado de `Speed increase` hará que tus puntuaciones sean **no clasificadas**; en cambio, si activas `Adjust pitch`, podrás establecer puntuaciones clasificadas.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
