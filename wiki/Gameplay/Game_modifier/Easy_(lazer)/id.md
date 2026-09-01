@@ -31,7 +31,7 @@ tags:
 | Tipe | Pengurang Kesulitan |
 | Tombol pintasan default | `Q` |
 | Mode Permainan | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Pengali skor | `0.80x*` |
+| Pengali skor | Lihat [Skoring](#skoring) |
 | Status | Ranked |
 | Mod yang tidak kompatibel ![][osu!] ![][osu!catch] ![][osu!mania] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
 | Mod yang tidak kompatibel ![][osu!taiko] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
@@ -39,7 +39,7 @@ tags:
 :::
 
 ::: alert-note
-**Catatan:** Untuk versi osu!stable dari artikel ini, lihat [Easy (mod)](/wiki/Gameplay/Game_modifier/Easy)
+**Catatan:** Untuk versi osu!(stable) dari artikel ini, lihat [Easy (mod)](/wiki/Gameplay/Game_modifier/Easy)
 :::
 
 ::: alert-note
@@ -75,6 +75,22 @@ Mod ini dapat disesuaikan di semua mode permainan kecuali osu!taiko.
 - `Extra Lives` (0–10, default: 2): Jumlah nyawa tambahan saat memulai sebuah beatmap.
 
 Mengubah jumlah nyawa tambahan akan menyebabkan skor pemain menjadi **unranked**.
+
+## Skoring
+
+### ![][osu!] osu!
+
+Di mode permainan osu!, mod Easy memiliki pengali skor bawaan `0.80x`. Untuk setiap nyawa tambahan di atas nilai bawaan, pengali skor akan dikurangi sebesar `0.10x` sampai batas minimum `0.40x` (dicapai saat nyawa tambahan berjumlah 6). Penggunaan kurang dari 2 nyawa tambahan tidak akan memengaruhi pengali skor.
+
+Formula pengali skor untuk mod Easy yaitu `max(0.4, 0.8 - max(0, 0.1 * (extra_lives - 2)))`.[^multiplier]
+
+### ![][osu!taiko] ![][osu!catch] ![][osu!mania] Mode permainan lain
+
+Di osu!taiko, osu!catch dan osu!mania, mod Easy memiliki pengali skor sebesar `0.50x`.
+
+## Referensi
+
+[^multiplier]: [`OsuScoreMultiplierCalculatorV2` di sumber kode osu!lazer](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L112-L119)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

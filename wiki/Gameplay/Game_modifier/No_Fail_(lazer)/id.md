@@ -30,7 +30,7 @@ tags:
 :::
 
 ::: alert-note
-**Catatan:** Untuk versi osu!stable dari artikel ini, lihat [No Fail (mod)](/wiki/Gameplay/Game_modifier/No_Fail)
+**Catatan:** Untuk versi osu!(stable) dari artikel ini, lihat [No Fail (mod)](/wiki/Gameplay/Game_modifier/No_Fail)
 :::
 
 ::: alert-note
