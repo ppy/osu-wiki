@@ -24,6 +24,8 @@ The colour of a user title is the same as the user's colour, which is also usual
 
 ![Screenshot of Ymir's post sidebar](img/rhythm-incarnate.png "The \"Rhythm Incarnate\" title sits above Ymir's team and country flags.")
 
+<!-- Image from https://osu.ppy.sh/community/forums/topics/145250?n=58271, previous user has a non-forum title -->
+
 On the [osu! forums](https://osu.ppy.sh/community/forums), users can obtain titles by reaching certain post count milestones as follows: 
 
 | Forum title | Total post count |
@@ -39,7 +41,7 @@ On the [osu! forums](https://osu.ppy.sh/community/forums), users can obtain titl
 | Combo Commander | 260–499 |
 | Rhythm Incarnate | 500+ |
 
-<!-- Image from https://osu.ppy.sh/community/forums/topics/145250?n=58271, previous user has a non-forum title -->
+These titles are only visible on the sidebars of forum posts (not on the users' profiles) and are not shown if another custom title has already been set.
 
 ### History
 
