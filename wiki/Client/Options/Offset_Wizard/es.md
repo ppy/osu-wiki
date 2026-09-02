@@ -1,6 +1,8 @@
 # Asistente de compensación
 
-*Véase también: [Cómo usar el asistente de compensación](/wiki/Guides/How_to_use_the_Offset_Wizard) y [Compensación universal](/wiki/Offset/Universal_offset)*
+::: alert-note
+**Véase también:** [Cómo usar el asistente de compensación](/wiki/Guides/How_to_use_the_Offset_Wizard) y [Compensación universal](/wiki/Offset/Universal_offset)
+:::
 
 El **asistente de compensación** es una herramienta integrada que ayuda al usuario a calibrar la [compensación universal](/wiki/Offset/Universal_offset) al valor correcto para su dispositivo. Esto es necesario cuando los [hitsounds](/wiki/Beatmapping/Hitsound) no están sincronizados con la música, en cada beatmap que juega. Para obtener más información sobre cómo hacer esto, véase [Cómo usar el asistente de compensación](/wiki/Guides/How_to_use_the_Offset_Wizard).
 

@@ -1,6 +1,8 @@
 # 界面自定义皮肤
 
-*参见：[界面](/wiki/Client/Interface)*
+::: alert-note
+**参见：** [界面](/wiki/Client/Interface)
+:::
 
 界面自定义皮肤的元素可以用于多个游戏模式，也可以作为客户端用户界面的一部分使用。
 

@@ -15,7 +15,9 @@ tags:
 
 # Комбо
 
-*У этого термина существуют и другие значения, см. [Комбо (значения)](/wiki/Disambiguation/Combo).*
+::: alert-note
+**Примечание:** У этого термина существуют и другие значения, см. [Комбо (значения)](/wiki/Disambiguation/Combo).
+:::
 
 **Комбо** (англ. *combo*, *comboset*) — группа из [нот](/wiki/Gameplay/Hit_object/Hit_circle) и [слайдеров](/wiki/Gameplay/Hit_object/Slider) в [картах](/wiki/Beatmap) режимов [osu!](/wiki/Game_mode/osu!) и [osu!catch](/wiki/Game_mode/osu!catch). [Игровые объекты](/wiki/Gameplay/Hit_object) в одном комбо имеют одинаковый [цвет](/wiki/Beatmapping/Combo_colour) и соединены метками, показывающими, где находится следующий объект. Успешное завершение комбо даёт небольшую прибавку к [здоровью](/wiki/Gameplay/Health). Начало каждого комбо вручную помечается в редакторе при создании карты.
 

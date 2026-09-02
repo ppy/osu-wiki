@@ -7,7 +7,9 @@ tags:
 
 # 技术支持团队
 
-*不要与 [账号支持团队](/wiki/People/Account_support_team) 相混淆。*
+::: alert-note
+**备注：** 不要与 [账号支持团队](/wiki/People/Account_support_team) 相混淆。
+:::
 
 **技术支持团队** (曾称为 *支持团队*，或 *重组支持团队*)，是专注于审核论坛的以下这些子板块的 osu! 工作人员：[开发](https://osu.ppy.sh/community/forums/2)、[功能请求](https://osu.ppy.sh/community/forums/4)、[帮助](https://osu.ppy.sh/community/forums/5)。
 

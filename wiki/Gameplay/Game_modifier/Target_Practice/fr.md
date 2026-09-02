@@ -16,8 +16,13 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ![Icône du mod TP](/wiki/shared/mods/TP.png "Icône du mod Target Practice (TP)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
-*Remarque : le mod Target Practice n'est accessible que dans le build `Cutting Edge`.*
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-notice
+**Remarque** : le mod Target Practice n'est accessible que dans le build `Cutting Edge`.
+:::
 
 ## À propos
 
@@ -28,7 +33,10 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ## Description
 
-*Remarque : L'activation de Target Practice entraînera un jeu non classé.*
+::: alert-notice
+**Note**
+L'activation de Target Practice entraînera un jeu non classé.
+:::
 
 Le mod **Target Practice** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) expérimental pour [osu!](/wiki/Game_mode/osu!), qui supprime tous les [objets](/wiki/Gameplay/Hit_object) mappés et les remplace par un ensemble simplifié de "cibles". Il est utilisé principalement pour s'amuser, mais peut également être utile pour s'entraîner à un tempo cohérent et améliorer la précision des coups.
 

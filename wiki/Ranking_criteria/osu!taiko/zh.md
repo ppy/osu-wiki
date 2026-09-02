@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c33493a68ff0fd04d12d4432725bb13745b06696
+---
+
 # osu!taiko 上架标准
 
 ***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_Criteria)的扩展。***
@@ -8,7 +13,9 @@
 
 ### 难度名
 
-*主页面：[难度命名](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**主文章：** [难度命名](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu

@@ -22,7 +22,9 @@ tags:
 
 ## 历史
 
-*参见：[作图和摸图时间线](/wiki/History_of_osu!/Mapping_and_modding_timeline)*
+::: alert-note
+**参见：** [作图和摸图时间线](/wiki/History_of_osu!/Mapping_and_modding_timeline)
+:::
 
 泡泡最初由 ::{ flag=AU }:: [peppy](/wiki/People/peppy) 在 2007 年 10 月 29 日提出，用于“正在考虑上架游玩（等待摸图员的进一步反馈）”的谱面。他将讨论串的图标设为一个泡泡，并用于 BAT 成员表示谱面质量良好，符合[谱面上架标准 (RC)](/wiki/Ranking_criteria)。<!-- internal reference: https://osu.ppy.sh/community/forums/topics/619 -->
 

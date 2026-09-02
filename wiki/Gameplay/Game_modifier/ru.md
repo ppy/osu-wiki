@@ -23,7 +23,9 @@ tags:
 # Игровой модификатор
 
 *Об списке модов в [lazer](/wiki/Client/Release_stream/Lazer) см. [Игровой модификатор (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*\
-*У этого термина существуют и другие значения, см. [Мод (значения)](/wiki/Disambiguation/Mod).*
+::: alert-note
+**Примечание:** У этого термина существуют и другие значения, см. [Мод (значения)](/wiki/Disambiguation/Mod).
+:::
 
 ![Экран выбора модов](img/mod-selection-screen.jpg "Сравнение экранов выбора модов в osu! (слева сверху), osu!taiko (справа сверху), osu!catch (слева снизу) и osu!mania (справа снизу)")
 
@@ -35,7 +37,9 @@ tags:
 
 ## Список модов
 
-*См. также: [Сводка по игровым модификаторам](/wiki/Gameplay/Game_modifier/Summary)*
+::: alert-note
+**См. также:** [Сводка по игровым модификаторам](/wiki/Gameplay/Game_modifier/Summary)
+:::
 
 После каждого мода указаны режимы игры, в которых он доступен (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]).
 
@@ -72,7 +76,10 @@ tags:
 
 ### Прочее
 
-*Примечание: эти моды когда-то были доступны, но потом их убрали из игры.*
+::: alert-notice
+**Внимание**
+эти моды когда-то были доступны, но потом их убрали из игры.
+:::
 
 - [10K](/wiki/Gameplay/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out) ![][osu!mania]

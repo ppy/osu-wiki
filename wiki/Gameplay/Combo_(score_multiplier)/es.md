@@ -9,7 +9,9 @@ tags:
 
 # Combo (multiplicador de puntuación)
 
-*Para otros usos, véase [Combo (desambiguación)](/wiki/Disambiguation/Combo).*
+::: alert-note
+**Nota:** [Combo (desambiguación)](/wiki/Disambiguation/Combo).
+:::
 
 **Combo** se refiere al número de [objetos](/wiki/Gameplay/Hit_object) que un jugador ha golpeado consecutivamente sin fallar ni romper un [slider](/wiki/Gameplay/Judgement/Slider_break) ninguna vez. Este número se muestra en varios lugares durante el juego:
 

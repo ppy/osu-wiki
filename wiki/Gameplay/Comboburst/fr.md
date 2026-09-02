@@ -15,6 +15,9 @@ Les **combo bursts** sont des effets visuels qui célèbrent l'obtention d'un [c
 
 Pour les modes osu!, osu!taiko et osu!catch, les étoiles jailliront du côté gauche ou droit du plateau pour les combos inférieurs à 100x, puis des deux côtés simultanément pour les combos de 100x ou plus. Pour le mode osu!mania, les étoiles jailliront des côtés gauche et droit de la scène.
 
-*Remarque : les combo bursts peuvent être désactivés dans les [options](/wiki/Client/Options) du jeu.*
+::: alert-notice
+**Note**
+les combo bursts peuvent être désactivés dans les [options](/wiki/Client/Options) du jeu.
+:::
 
 <!--TODO: Add images and links-->

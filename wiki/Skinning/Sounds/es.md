@@ -236,7 +236,10 @@ Estos sonidos aparecen como `S:C1` en las skins de los beatmaps:
 
 #### Sonidos para el mod Nightcore
 
-*Nota: Los archivos se obtienen de tu skin, no de la skin del beatmap.*
+::: alert-notice
+**Aviso**
+Los archivos se obtienen de tu skin, no de la skin del beatmap.
+:::
 
 Estos sonidos se reproducen junto a la canción cuando el [mod Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) está activado. En un compás de 4/4:
 

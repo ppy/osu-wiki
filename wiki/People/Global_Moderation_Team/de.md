@@ -9,7 +9,9 @@ tags:
 
 # Globales Moderationsteam
 
-*Siehe auch: [Mod (Begriffsabgrenzung)](/wiki/Disambiguation/Mod).*
+::: alert-note
+**Siehe auch:** [Mod (Begriffsabgrenzung)](/wiki/Disambiguation/Mod).
+:::
 
 Das **globale Moderationsteam** (früher auch bekannt als globales Modteam, Administratoren oder “GreenBAT”), allgemein auch **GMT**, besteht aus Mitgliedern der osu!-Community, die in erster Linie für die Moderation von Spielern sowie einschlägige Probleme im Team und in der gesamten Community zuständig sind. Sie sind anhand ihres zitrusgrünen Nutzertitels, dem zitrusgrünen [Gruppenabzeichen](/wiki/People/User_groups) mit der Aufschrift `GMT` sowie ihrem roten Nutzernamen im Spiel zu erkennen.
 
@@ -19,7 +21,9 @@ Das **globale Moderationsteam** (früher auch bekannt als globales Modteam, Admi
 
 ## Rollen und Verantwortlichkeiten
 
-*Siehe auch: [Schlechtes Verhalten melden](/wiki/Reporting_bad_behaviour)*
+::: alert-note
+**Siehe auch:** [Schlechtes Verhalten melden](/wiki/Reporting_bad_behaviour)
+:::
 
 Das globale Moderationsteam ist für das Wohlergehen des Chats und Forums zuständig und kümmert sich um reibungslose Interaktionen innerhalb der Community. Das GMT kann bei allen Fragen zu Moderationsthemen angesprochen werden. Dazu gehören beispielsweise:
 
@@ -67,7 +71,10 @@ Entscheidet sich ein globaler Moderator dazu, das Team im Guten zu verlassen, ka
 
 ## Teammitglieder
 
-*Anmerkung: Alle Mitglieder des GMTs sprechen Englisch, außer es wurde zusätzlich vermerkt.*
+::: alert-notice
+**Hinweis**
+Alle Mitglieder des GMTs sprechen Englisch, außer es wurde zusätzlich vermerkt.
+:::
 
 Die [Gruppenseite des GMTs](https://osu.ppy.sh/groups/4) listet alle Teammitglieder auf. Zusätzlich zu den unten genannten Bereichen nehmen alle globalen Moderatoren an der [Bewertung von visuellen und auditiven Inhalten in Beatmaps](/wiki/Rules/Visual_content_considerations#dein-bild-bewerten-lassen) teil.
 

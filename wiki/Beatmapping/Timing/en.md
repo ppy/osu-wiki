@@ -15,7 +15,9 @@ Timing partially reflects *properties of a specific audio file* and may change o
 
 ## Song structure
 
-*Main article: [Music theory](/wiki/Music_theory)*
+::: alert-note
+**Main page:** [Music theory](/wiki/Music_theory)
+:::
 
 Almost every song can be divided into sections of different tempo, and the goal of timing is to divide up a beatmap to match those sections. Understanding a few concepts in music theory may help when discussing this process:
 
@@ -27,8 +29,13 @@ Almost every song can be divided into sections of different tempo, and the goal 
 
 ## Timing process
 
-*Main article: [How to time songs](/wiki/Guides/How_to_time_songs)*\
-*See also: [Beatmap editor/Timing](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**Main page:** [How to time songs](/wiki/Guides/How_to_time_songs)
+:::
+
+::: alert-note
+**See also:** [Beatmap editor/Timing](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 ### Single BPM
 

@@ -138,7 +138,7 @@ Friday, 1 August 2025:
 | Bubbleman ::{ flag=GB }:: | 4 | **6** | ::{ flag=US }:: **WindowWife** | [#1](https://osu.ppy.sh/multiplayer/rooms/1534312) |
 | **mrekk** ::{ flag=AU }:: | **6** | 2 | ::{ flag=DE }:: criller | [#1](https://osu.ppy.sh/multiplayer/rooms/1534529) |
 
-Saturday, 2 August 2024:
+Saturday, 2 August 2025:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |

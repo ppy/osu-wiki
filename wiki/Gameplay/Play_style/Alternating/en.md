@@ -9,7 +9,9 @@ tags:
 
 # Alternating
 
-*Not to be confused with [Double tapping](/wiki/Gameplay/Play_style/Double_tapping).*
+::: alert-note
+**Note:** Not to be confused with [Double tapping](/wiki/Gameplay/Play_style/Double_tapping).
+:::
 
 **Alternating** is a tapping style for [osu!](/wiki/Game_mode/osu!) in which players click circles, slide sliders, and spin spinners by alternating between two set keys on their keyboard (`Z` and `X` by default) every other [hit object](/wiki/Gameplay/Hit_object) or so. Hence the name. This style is most common amongst more seasoned players and is one of the hardest to adapt to.
 

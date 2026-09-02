@@ -4,7 +4,9 @@ Below is a sorted list of guides created by members of the osu! community, most 
 
 ## Beatmapping
 
-*Main page: [Beatmapping](/wiki/Beatmapping)*
+::: alert-note
+**Main page:** [Beatmapping](/wiki/Beatmapping)
+:::
 
 - [Audio editing guide](Audio_editing)
 - [Changing the title text](/wiki/Beatmap/Title_text#changing-title-text)
@@ -14,16 +16,18 @@ Below is a sorted list of guides created by members of the osu! community, most 
 - [How to change a map's artist or title](Changing_the_artist_or_title)
 - [How to resolve BSS issues](BSS_issues)
 - [How to start a beatmap project](Starting_a_beatmap_project)
-- [How to time Songs](How_to_time_songs)
+- [How to time songs](How_to_time_songs)
 - [Music theory](/wiki/Music_theory)
 - [osu!mania mapping guide](osu!mania_mapping_guide)
 - [Setting the offset on the correct beat](Setting_the_offset_on_the_correct_beat)
 - [Using custom hitsounds](Using_custom_hitsounds)
-- [Timing Songs with #/8 Signatures](Timing_songs_with_8-signatures)
+- [Timing songs with N/8 time signatures](Timing_songs_with_N_per_8_time_signatures)
 
 ## Modding
 
-*Main page: [Modding](/wiki/Modding)*
+::: alert-note
+**Main page:** [Modding](/wiki/Modding)
+:::
 
 - [Common modding mistakes](Common_modding_mistakes)
 - [How to get your map modded](Getting_your_map_modded)
@@ -36,7 +40,9 @@ Below is a sorted list of guides created by members of the osu! community, most 
 
 ## Skinning
 
-*Main page: [Skinning guides and important threads](/wiki/Skinning/Guides_and_important_threads)*
+::: alert-note
+**Main page:** [Skinning guides and important threads](/wiki/Skinning/Guides_and_important_threads)
+:::
 
 - [How to crop images with complex backgrounds](Cropping_with_complex_backgrounds)
 - [How to crop images with simple backgrounds](Cropping_with_simple_backgrounds)

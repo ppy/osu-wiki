@@ -6,7 +6,9 @@ outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 
 # Critères de classement simplifiés
 
-*Pour les critères de classement complets, voir : [Critères de classement](/wiki/Ranking_criteria)*
+::: alert-note
+**Remarque** : Pour les critères de classement complets, voir [Critères de classement](/wiki/Ranking_criteria)
+:::
 
 La liste complète des [critères de classement](/wiki/Ranking_criteria) est complexe. Elle explique toutes les règles et directives nécessaires pour créer une [beatmap](/wiki/Beatmap) digne d'être [classée](/wiki/Beatmap_ranking_procedure#classée), y compris *beaucoup* de situations de niche que la majorité des mappeurs ne rencontrent jamais.
 
@@ -135,7 +137,9 @@ Les **critères de classement simplifiés** visent à donner aux mappeurs une pe
 
 ## Spécifique à un mode
 
-*Pour les critères de classement spécifiques au [mode de jeu](/wiki/Game_mode), voir : [osu!](../osu!), [osu!taiko](../osu!taiko), [osu!catch](../osu!catch), et [osu!mania](../osu!mania)*
+::: alert-note
+**Remarque** : Pour les critères de classement spécifiques au [mode de jeu](/wiki/Game_mode), voir [osu!](../osu!), [osu!taiko](../osu!taiko), [osu!catch](../osu!catch), et [osu!mania](../osu!mania)
+:::
 
 ### osu!
 
@@ -179,7 +183,10 @@ Les **critères de classement simplifiés** visent à donner aux mappeurs une pe
 
 ## Interprétation de la musique
 
-*Remarque : cette section est basée sur des vues subjectives du mapping, et non sur les critères de classement.*
+::: alert-notice
+**Note**
+cette section est basée sur des vues subjectives du mapping, et non sur les critères de classement.
+:::
 
 **Chaque élément d'un mapping doit représenter la musique.**
 

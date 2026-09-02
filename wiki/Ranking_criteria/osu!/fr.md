@@ -60,7 +60,9 @@ Les règles et directives spécifiques aux difficultés ne s'appliquent qu'au ni
 
 ### Noms des difficultés
 
-*Article principal : [Noms des difficultés](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Page principale** : [Noms des difficultés](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal

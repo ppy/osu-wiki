@@ -13,7 +13,9 @@ outdated_since: 8005b7188637f336568a496362d2f01a2d7ab9fe
 
 ### 난이도 이름
 
-*메인 문서: [난이도 작명](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**메인 페이지:** [난이도 작명](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu

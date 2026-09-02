@@ -34,7 +34,9 @@ Toutes les osu! originals sous licence officielle peuvent être utilisées sur o
 
 #### [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)
 
-*Pour l'article d'annonce, voir : [Mapping With Rewards (Sep. 2015)](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015)*
+::: alert-note
+**Remarque** : Pour l'article d'annonce, voir [Mapping With Rewards (Sep. 2015)](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015)
+:::
 
 | Musique |
 | :-: |
@@ -53,7 +55,9 @@ Toutes les osu! originals sous licence officielle peuvent être utilisées sur o
 
 #### [happy30](https://osu.ppy.sh/beatmaps/artists/317)
 
-*Pour l'article d'annonce, voir : [New Featured Artist: happy30](https://osu.ppy.sh/home/news/2022-11-02-new-featured-artist-happy30)*
+::: alert-note
+**Remarque** : Pour l'article d'annonce, voir [New Featured Artist: happy30](https://osu.ppy.sh/home/news/2022-11-02-new-featured-artist-happy30)
+:::
 
 | Musique |
 | :-: |
@@ -62,7 +66,9 @@ Toutes les osu! originals sous licence officielle peuvent être utilisées sur o
 
 #### [James Landino](https://osu.ppy.sh/beatmaps/artists/39)
 
-*Pour l'article d'annonce, voir : [New Featured Artist: James Landino](https://osu.ppy.sh/home/news/2019-05-31-new-featured-artist-james-landino)*
+::: alert-note
+**Remarque** : Pour l'article d'annonce, voir [New Featured Artist: James Landino](https://osu.ppy.sh/home/news/2019-05-31-new-featured-artist-james-landino)
+:::
 
 Ces musiques font partie du [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
 
@@ -87,7 +93,9 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 #### [kiraku](https://osu.ppy.sh/beatmaps/artists/101)
 
-*Pour l'article d'annonce, voir : [New Featured Artist: kiraku](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)*
+::: alert-note
+**Remarque** : Pour l'article d'annonce, voir [New Featured Artist: kiraku](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)
+:::
 
 | Musique |
 | :-: |
@@ -95,7 +103,9 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 #### [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165)
 
-*Pour l'article d'annonce, voir : [New Featured Artist: Kitazawa Kyouhei](https://osu.ppy.sh/home/news/2021-05-15-new-featured-artist-kitazawa-kyouhei)*
+::: alert-note
+**Remarque** : Pour l'article d'annonce, voir [New Featured Artist: Kitazawa Kyouhei](https://osu.ppy.sh/home/news/2021-05-15-new-featured-artist-kitazawa-kyouhei)
+:::
 
 | Musique |
 | :-: |
@@ -103,7 +113,9 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 #### [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242)
 
-*Pour l'article d'annonce, voir : [New Featured Artist: Rabbit House](https://osu.ppy.sh/home/news/2022-02-23-new-featured-artist-rabbit-house)*
+::: alert-note
+**Remarque** : Pour l'article d'annonce, voir [New Featured Artist: Rabbit House](https://osu.ppy.sh/home/news/2022-02-23-new-featured-artist-rabbit-house)
+:::
 
 | Musique |
 | :-: |
@@ -113,7 +125,9 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 #### [yuki.](https://osu.ppy.sh/beatmaps/artists/4)
 
-*Pour l'article d'annonce, voir : [Community Mapping Contest #1 - yuki. (Nadeshiko Sensation)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko)*
+::: alert-note
+**Remarque** : Pour l'article d'annonce, voir [Community Mapping Contest #1 - yuki. (Nadeshiko Sensation)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko)
+:::
 
 | Musique |
 | :-: |
@@ -129,7 +143,9 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 #### [ZxNX](https://osu.ppy.sh/beatmaps/artists/288)
 
-*Pour l'article d'annonce, voir : [New Featured Artist: ZxNX](https://osu.ppy.sh/home/news/2022-07-30-new-featured-artist-zxnx)*
+::: alert-note
+**Remarque** : Pour l'article d'annonce, voir [New Featured Artist: ZxNX](https://osu.ppy.sh/home/news/2022-07-30-new-featured-artist-zxnx)
+:::
 
 | Musique |
 | :-: |

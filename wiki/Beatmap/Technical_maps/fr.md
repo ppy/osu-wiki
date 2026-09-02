@@ -10,7 +10,10 @@ tags:
 
 # Beatmap technique
 
-*Remarque : Dans le cadre de cet article, le terme "beatmap tech" sera considéré comme un terme générique qui inclut toutes ces définitions.*
+::: alert-notice
+**Note**
+Dans le cadre de cet article, le terme "beatmap tech" sera considéré comme un terme générique qui inclut toutes ces définitions.
+:::
 
 Les **beatmaps techniques** (abrégé en "beatmap tech") est un terme qui n'a pas de définition claire et acceptée par la communauté d'osu!. En fonction de chaque utilisateur, la définition d'une "beatmap technique" peut être aussi large qu'une [beatmap](/wiki/Beatmap) qui contient simplement des [patterns](/wiki/Beatmap/Pattern) non génériques, ou aussi spécifique qu'une beatmap dense en [objets](/wiki/Gameplay/Hit_object) et contenant de nombreuses formes irrégulières de [slider](/wiki/Gameplay/Hit_object/Slider) qui changent rapidement et radicalement de vitesse (souvent à haute intensité).
 
@@ -24,7 +27,10 @@ En raison de la nature générale du terme "beatmap technique", il existe de nom
 
 ### Définition la plus large
 
-*Attention : La définition "la plus large" ne requiert qu'un ou deux des aspects énumérés pour définir une beatmap comme étant technique.*
+::: alert-caution
+**Attention**
+La définition "la plus large" ne requiert qu'un ou deux des aspects énumérés pour définir une beatmap comme étant technique.
+:::
 
 - Motifs d'une beatmap non génériques ou difficiles à lire (exemple ci-dessous)
   - Un "flow" difficile sur ladite beatmap
@@ -43,7 +49,10 @@ Voici de bons exemples de beatmaps techniques qui correspondent à cette défini
 
 ### Définition la plus restrictive/spécifique
 
-*Attention : La définition "la plus restrictive/spécifique" exige que **tous** les aspects énumérés soient présents afin de définir une beatmap comme étant technique.*
+::: alert-caution
+**Attention**
+La définition "la plus restrictive/spécifique" exige que **tous** les aspects énumérés soient présents afin de définir une beatmap comme étant technique.
+:::
 
 - Des formes irrégulières des sliders
 - Des changements rapides et nets de la vitesse des sliders

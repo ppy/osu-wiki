@@ -15,7 +15,10 @@ La **osu! Mapping Olympiad** est un concours de mapping destiné à tous les mod
 
 ## Règles
 
-*Note : Veuillez garder à l'esprit que les règles sont susceptibles de changer par rapport aux restrictions des éditions du tournoi.*
+::: alert-notice
+**Note**
+Veuillez garder à l'esprit que les règles sont susceptibles de changer par rapport aux restrictions des éditions du tournoi.
+:::
 
 - Chaque participation doit suivre les [critères de classement](/wiki/Ranking_criteria). Les participations ne respectant pas les critères de classement se verront obtenir des pénalités, allant du retrait de points à la disqualification en fonction de la gravité.
 - Le dépôt des beatmaps ne doit pas excéder 15 Mo.

@@ -4,7 +4,10 @@
 
 **Visuelle Einstellungen** ist ein im unteren Spielfeld verstecktes Overlay. Es kann während des Ladens der Beatmap oder während das Spiel pausiert ist darauf zugegriffen werden. Wenn das Overlay sichtbar ist, wird das Laden der Beatmap verzögert, bis der Cursor das Overlay verlässt.
 
-*Hinweis: Änderungen in den visuellen Einstellungen werden pro Beatmap gespeichert, aber manche davon gehen nach dem Schließen von osu! verloren. Um diese global zu setzen (und für immer), benutze die [Optionen](/wiki/Client/Options).*
+::: alert-notice
+**Hinweis**
+Änderungen in den visuellen Einstellungen werden pro Beatmap gespeichert, aber manche davon gehen nach dem Schließen von osu! verloren. Um diese global zu setzen (und für immer), benutze die [Optionen](/wiki/Client/Options).
+:::
 
 Alternativ ist es auch möglich durch das Pausieren des Spiels auf die visuellen Einstellungen zuzugreifen. Jedoch funktioniert diese Methode nicht in [Mehrspieler](/wiki/Client/Interface/Multiplayer)-Spielen, da das als Versuch, das Spiel zu verlassen, interpretiert wird und stattdessen der Raum verlassen wird.
 

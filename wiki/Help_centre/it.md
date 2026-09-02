@@ -5,8 +5,6 @@ tags:
   - problem
   - trouble
   - missing
-outdated_translation: true
-outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Centro di Supporto
@@ -26,7 +24,7 @@ Seleziona la sezione che corrisponde maggiormente al problema per trovare una so
 | [Installazione e registrazione](/wiki/Help_centre/Installation_and_registration) | Scaricamento del gioco, creazione di un account |
 | [Silenziamenti](/wiki/Help_centre/Silences) | Tutto sui silenziamenti: panoramica, procedura di ricorso, motivi comuni |
 | [Negozio](/wiki/Help_centre/Store) | Merchandise |
-| [Ban dai Tornei](/wiki/Help_centre/Tournament_bans) | Tutto sui Ban dai Tornei: panoramica, motivi comuni, e cooldown |
+| [Sanzioni dai tornei](/wiki/Help_centre/Tournament_sanctions) | Tutto sulle sanzioni dai tornei: panoramica, motivi comuni, e cooldown |
 | [Aggiornare a Lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migrazione alla [nuova versione principale](/wiki/Client/Release_stream/Lazer) di osu! |
 | [Sito Web](/wiki/Help_centre/Website) | Bloccare utenti, contattare il supporto, aspetto del sito |
 

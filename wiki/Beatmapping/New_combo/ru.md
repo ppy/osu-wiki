@@ -17,7 +17,10 @@ tags:
 
 В режиме [osu!](/wiki/Game_mode/osu!) у каждого [объекта](/wiki/Gameplay/Hit_object) есть свой [цвет](/wiki/Beatmapping/Combo_colour) и номер в текущем комбо. При начале нового комбо цвет меняется, а отсчёт объектов снова начинается с единицы.
 
-*Примечание: новое комбо всегда начинается автоматически после [спиннеров](/wiki/Gameplay/Hit_object/Spinner).*
+::: alert-notice
+**Внимание**
+новое комбо всегда начинается автоматически после [спиннеров](/wiki/Gameplay/Hit_object/Spinner).
+:::
 
 ## osu!catch
 

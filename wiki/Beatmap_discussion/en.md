@@ -10,7 +10,9 @@ tags:
 
 # Beatmap discussion
 
-*See also: [Modding v1](/wiki/Modding/Forum_modding)*
+::: alert-note
+**See also:** [Modding v1](/wiki/Modding/Forum_modding)
+:::
 
 **Beatmap discussion** (also known as *Modding v2*) is a system to manage and simplify the process of [modding](/wiki/Modding). It aims to provide a clear and understandable interface, where the improvement of a beatmap is in focus. When a beatmap is [submitted](/wiki/Beatmapping/Beatmap_submission), a discussion page is automatically created alongside the [beatmap info page](/wiki/Beatmap_information). When the beatmap is updated, the discussion page will be updated as well. The discussion page can be reached by clicking on the `Discussion` button on the info page. The beatmap discussion page consists of a few elements (from top-to-bottom):
 
@@ -44,7 +46,9 @@ Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is o
 
 ## Beatmap header
 
-*For information about setting metadata, see: [Song Setup § General](/wiki/Client/Beatmap_editor/Song_setup#general)*
+::: alert-note
+**Note:** For information about setting metadata, see [Song Setup § General](/wiki/Client/Beatmap_editor/Song_setup#general)
+:::
 
 ![](img/beatmap-header.png "Beatmap header")
 

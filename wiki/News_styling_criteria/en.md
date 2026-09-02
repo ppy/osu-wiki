@@ -1,6 +1,8 @@
 # News styling criteria
 
-*For wiki articles, see: [Article styling criteria](/wiki/Article_styling_criteria)*
+::: alert-note
+**Note:** For wiki articles, see [Article styling criteria](/wiki/Article_styling_criteria)
+:::
 
 **News posts**, or **news articles**, exist on a slightly different system to the main osu! wiki, but follow similar principles. Writing them involves careful attention to a few key features and formats as outlined below.
 
@@ -92,7 +94,9 @@ Markdown usage is covered by the [article styling criteria](/wiki/Article_stylin
 
 ### Images
 
-*For image format and quality standards, see: [Article styling criteria § Formats and quality](/wiki/Article_styling_criteria/Formatting#formats-and-quality)*
+::: alert-note
+**Note:** For image format and quality standards, see [Article styling criteria § Formats and quality](/wiki/Article_styling_criteria/Formatting#formats-and-quality)
+:::
 
 Images linked in news articles must either be hosted on osu! servers (i.e. `assets.ppy.sh`) or be placed in the `osu-wiki` GitHub repository.
 

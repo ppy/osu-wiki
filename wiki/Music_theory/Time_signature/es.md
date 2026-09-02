@@ -7,7 +7,9 @@ tags:
 
 # Signatura de compás
 
-*Para más información sobre la signatura de compás en teoría musical, véase: [Compás (música)](https://es.wikipedia.org/wiki/Compás_(música))*
+::: alert-note
+**Nota:** Para más información sobre la signatura de compás en teoría musical, véase [Compás (música)](https://es.wikipedia.org/wiki/Compás_(música))
+:::
 
 Una **signatura de compás** es un término musical que define el número de [pulsos](/wiki/Music_theory/Beat) en un único [compás](/wiki/Music_theory/Measure) de la canción (el número superior), y qué nota indica un solo tiempo (el número de abajo). Para una signatura de compás de 4/4 (también conocido como «tiempo común»), caben 4 1/4 notas (*negras*) en un compás, mientras que una signatura de compás de 3/4 (también conocido como «vals») significa que caben 3 1/4 notas en un compás.
 

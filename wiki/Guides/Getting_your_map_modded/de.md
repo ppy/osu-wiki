@@ -28,7 +28,10 @@ Es sollte angemerkt werden, dass du es vermeiden solltest, in den Warteschlangen
 
 ## #modreqs
 
-*Warnung: Bitte spamme keine Anfragen in diesem Kanal, da dies zu einer [Stummschaltung](/wiki/Silence) führen kann. Veröffentliche eine Mod-Anfrage in `#modreqs` etwa jede Stunde.*
+::: alert-warning
+**Warnung**
+Bitte spamme keine Anfragen in diesem Kanal, da dies zu einer [Stummschaltung](/wiki/Silence) führen kann. Veröffentliche eine Mod-Anfrage in `#modreqs` etwa jede Stunde.
+:::
 
 `#modreqs` ist ein Kanal im osu!-Chat, in dem Spieler Bewertungen für ihre Beatmaps durch das Verlinken mit dem Befehl `/np` anfragen können, zusammen mit der Art der Mod-Anfrage. Es ist zwar nicht die effektivste Methode, Mods zu finden, aber Modder und Beatmap-Nominatoren sind oft auf der Suche nach guten Beatmaps, die in diesem Kanal verlinkt werden.
 

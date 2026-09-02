@@ -1,6 +1,8 @@
 # Cómo usar el asistente de compensación
 
-*Véase también: [Asistente de compensación](/wiki/Client/Options/Offset_Wizard) y [Compensación universal](/wiki/Offset/Universal_offset)*
+::: alert-note
+**Véase también:** [Asistente de compensación](/wiki/Client/Options/Offset_Wizard) y [Compensación universal](/wiki/Offset/Universal_offset)
+:::
 
 Si los [hitsounds](/wiki/Beatmapping/Hitsound) no están sincronizados con la música en cada beatmap que juegas, lo más probable es que necesites cambiar tu [compensación universal](/wiki/Offset/Universal_offset). La forma más sencilla de hacerlo es mediante el **asistente de compensación**.
 

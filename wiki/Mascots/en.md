@@ -1,6 +1,8 @@
 # Mascots
 
-*See also: [Mascots/Gallery](/wiki/Mascots/Gallery)*
+::: alert-note
+**See also:** [Mascots/Gallery](/wiki/Mascots/Gallery)
+:::
 
 This article lists the many mascots of osu! along with their brief summary. A YouTube video showcasing the osu! mascots can be seen [here](https://youtu.be/mJF2cAs_MrI).
 
@@ -14,7 +16,9 @@ pippi, stylised with a lowercase "p", is the osu! game mode mascot that joined o
 
 ### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
 
-*For the news posts, see: [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) and [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
+::: alert-note
+**Note:** For the news posts, see [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) and [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)
+:::
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -22,7 +26,9 @@ Yuzu is the osu!catch mascot that joined on 2014-06-22. He was born on 2000-04-1
 
 ### ![osu!mania icon](/wiki/shared/mode/mania.png) Mani & Mari
 
-*For more information, see: [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)*
+::: alert-note
+**Note:** For more information, see [Introducing Mani and Mari, the New osu!mania Mascots.](https://osu.ppy.sh/home/news/2020-09-17-introducing-mani-mari-osumania)
+:::
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
@@ -32,7 +38,9 @@ Mani is something of a maverick, always looking to explore new styles and things
 
 ### ![osu!taiko icon](/wiki/shared/mode/taiko.png) Mocha
 
-*For the news post, see: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)*
+::: alert-note
+**Note:** For the news post, see [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)
+:::
 
 ![Mocha](img/Mocha.png "Mocha")
 

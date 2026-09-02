@@ -9,7 +9,9 @@ Also check if the article matches with ASC. See #5729 for more informations -->
 
 # Slider mapping techniques
 
-*See also: [Making Good Sliders](/wiki/Beatmapping/Mapping_techniques/Making_good_sliders)*
+::: alert-note
+**See also:** [Making Good Sliders](/wiki/Beatmapping/Mapping_techniques/Making_good_sliders)
+:::
 
 <!-- please place all mapping techniques in alphabetical order -->
 
@@ -60,7 +62,9 @@ They are usually done with [Etna sliders](#etna-sliders), but can also be used w
 
 *Also known as: **Kick Slider***
 
-*Not to be confused with [Hold Sliders](/wiki/Beatmapping/Mapping_techniques/Unrankable#hold-sliders).*
+::: alert-note
+**Note:** Not to be confused with [Hold Sliders](/wiki/Beatmapping/Mapping_techniques/Unrankable#hold-sliders).
+:::
 
 Nominator: [kingcobra52](https://osu.ppy.sh/users/9934)
 

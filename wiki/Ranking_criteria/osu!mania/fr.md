@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: c33493a68ff0fd04d12d4432725bb13745b06696
 ---
 
 # Critères de classement d'osu!mania
@@ -12,7 +14,9 @@ Cet ensemble de **critères de classement d'osu!mania** définit les [règles et
 
 ### Noms des difficultés
 
-*Article principal : [Noms des difficultés](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Page principale** : [Noms des difficultés](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal

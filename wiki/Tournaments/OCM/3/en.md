@@ -30,7 +30,10 @@ The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 | ![MVP icon](img/mvp.png "MVP") | 1 month of osu!supporter |
 
-*Note: The MVP is chosen by the tournament staff after the tournament concludes.*
+::: alert-notice
+**Notice**
+The MVP is chosen by the tournament staff after the tournament concludes.
+:::
 
 ## Organisation
 

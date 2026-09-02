@@ -58,7 +58,10 @@ En raison de ce pic de difficulté beaucoup plus important que pour les autres [
 
 ### osu!mania
 
-*Remarque : L'utilisation de ce mod dans le mode de jeu osu!mania ne permet pas de jouer une partie classée.*
+::: alert-notice
+**Note**
+L'utilisation de ce mod dans le mode de jeu osu!mania ne permet pas de jouer une partie classée.
+:::
 
 Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), l'HP drain est augmenté de 40% tandis que la fenêtre de timing est environ 29% plus stricte. Bien que la valeur AR soit affichée comme augmentée, cela n'affecte pas le gameplay.
 

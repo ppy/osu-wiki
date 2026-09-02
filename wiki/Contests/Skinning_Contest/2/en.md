@@ -80,7 +80,9 @@ The Skinning Contest #2 is run by various community members.
 
 ## Podium
 
-*For the full results, see the [contest page](https://osu.ppy.sh/community/contests/137).*
+::: alert-note
+**Note:** For the full results, see the [contest page](https://osu.ppy.sh/community/contests/137).
+:::
 
 ![](img/podium.png "Skinning Contest #2 podium")
 

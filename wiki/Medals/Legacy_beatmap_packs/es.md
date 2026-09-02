@@ -1,6 +1,6 @@
 # Paquetes de beatmaps heredados
 
-Los paquetes de beatmaps han sido una parte integral de la comunidad de osu! desde [su primera presentación](https://osu.ppy.sh/community/forums/topics/1853) por ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) en 2008, en el que algunos de los paquetes estaban vinculados a ciertos [logros](/wiki/Medals) disponibles. Sin embargo, como osu! y su comunidad siguió creciendo a lo largo de los años, el meta del mapping en general también experimentó un cambio importante desde sus primeros días, y —debido a una gran demanda del público— [el 16 de enero de 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) se hizo una revisión a fondo de numerosos paquetes de beatmaps con el fin de mantenerlos, en su conjunto, relevantes con los tiempos.
+Los paquetes de beatmaps han sido una parte integral de la comunidad de osu! desde [su primera presentación](https://osu.ppy.sh/community/forums/topics/1853) por ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) en 2008, en el que algunos de los paquetes estaban vinculados a ciertos [logros](/wiki/Medals) disponibles. Sin embargo, como osu! y su comunidad siguió creciendo a lo largo de los años, el meta del mapping en general también experimentó un cambio importante desde sus primeros días, y —debido a una gran demanda del público— [el 18 de enero de 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44) se hizo una revisión a fondo de numerosos paquetes de beatmaps con el fin de mantenerlos, en su conjunto, relevantes con los tiempos.
 
 Este artículo enumera el contenido de los paquetes de beatmaps, que se sometieron a dicha revisión, en su estado heredado/original.
 
@@ -10,9 +10,10 @@ Este artículo enumera el contenido de los paquetes de beatmaps, que se sometier
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
-- [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn)
+- [MediaFire](https://www.mediafire.com/file/8lhawybcuqucnw1)
+- [Google Drive](https://drive.google.com/file/d/1NULGFJOHN7v4Ea8rYv9eTqwZeGIBExk2)
 
 Beatmaps:
 
@@ -20,7 +21,7 @@ Beatmaps:
 - [Chieco Kawabe - Sakura Kiss](https://osu.ppy.sh/beatmapsets/147)
 - [Hirano Aya - Hare Hare Yukai](https://osu.ppy.sh/beatmapsets/301)
 - [Access - Doubt & Trust](https://osu.ppy.sh/beatmapsets/442)
-- [Pokemon - Pokerap](https://osu.ppy.sh/beatmapsets/551)
+- [Pokemon - Pokerap](https://osu.ppy.sh/beatmapsets/511)
 - [Hirano Aya (Haruhi Suzumiya) - God Knows](https://osu.ppy.sh/beatmapsets/584)
 - [Manzo - My-Pace Daiou](https://osu.ppy.sh/beatmapsets/842)
 - [Younha - Houkiboshi](https://osu.ppy.sh/beatmapsets/897)
@@ -34,9 +35,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
 - [MediaFire](https://www.mediafire.com/?722os55j52ikylq)
+- [Google Drive](https://drive.google.com/file/d/1yPZILb9Xx5fwnHEjWMf--LeysydGaeuN)
 
 Beatmaps:
 
@@ -58,9 +60,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
 - [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b)
+- [Google Drive](https://drive.google.com/file/d/1VDbDV5S-sM5XEpKrawoaF8oLAs6bQPrK)
 
 Beatmaps:
 
@@ -82,9 +85,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
 - [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv)
+- [Google Drive](https://drive.google.com/file/d/1_9_SrlZLFLyFuoCS7D2kMfXM3HoCGs5R)
 
 Beatmaps:
 
@@ -108,9 +112,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/6mev3rqllfehoo2)
+- [Google Drive](https://drive.google.com/file/d/18guMH62Qz-_d9N5XxJ9u7xN1uz36zhvJ)
 
 Beatmaps:
 
@@ -132,9 +137,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/fa3mowpssw768u9)
+- [Google Drive](https://drive.google.com/file/d/1eAPVDYmerJ0XRektY65HnQJxP19uoaXO)
 
 Beatmaps:
 
@@ -156,9 +162,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/3js4iqmbiuwnjvl)
+- [Google Drive](https://drive.google.com/file/d/1g4txYURnG-TsqYwMUDdFvyHP1cXUy3xY)
 
 Beatmaps:
 
@@ -180,9 +187,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/2hzig08nwo0qybz)
+- [Google Drive](https://drive.google.com/file/d/1Yp72hTfSMv3U0Vj8BVRhtdBxGF387Rob)
 
 Beatmaps:
 
@@ -206,9 +214,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
 - [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob)
+- [Google Drive](https://drive.google.com/file/d/11FAggRirdCVIvZdnOxAMsgL-vW7_4aMO)
 
 Beatmaps:
 
@@ -230,9 +239,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
 - [MediaFire](https://www.mediafire.com/?axvxrnx637767ls)
+- [Google Drive](https://drive.google.com/file/d/1ayAalcJxTEZUSpvIghow20d7WTND2i-Q)
 
 Beatmaps:
 
@@ -254,9 +264,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=DE }:: [Larto](https://osu.ppy.sh/users/12328) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
 - [MediaFire](https://www.mediafire.com/?781tio8fge7y7d2)
+- [Google Drive](https://drive.google.com/file/d/1dVvau6Okaon_8RfpmnrcChpLaVssbYoi)
 
 Beatmaps:
 
@@ -278,9 +289,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
 - [MediaFire](https://www.mediafire.com/?6hc29ws6j36dcag)
+- [Google Drive](https://drive.google.com/file/d/1JS66ZdT7Lu9w08L9ehxbqTO4sQW95YLh)
 
 Beatmaps:
 
@@ -304,9 +316,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/3jbn2u4f8xq9mvz)
+- [Google Drive](https://drive.google.com/file/d/1CmHDJ47-byxgfv-qIKyaWAIk9ltU9o4Q)
 
 Beatmaps:
 
@@ -328,9 +341,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/pxkhq3glo6pl25y)
+- [Google Drive](https://drive.google.com/file/d/1_-zqQEVaaz3A2tMIsKsJF5S8Pp1EgvIj)
 
 Beatmaps:
 
@@ -352,9 +366,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [Seibei4211](https://osu.ppy.sh/users/31537) y ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/wbpub78tjatwe8z)
+- [Google Drive](https://drive.google.com/file/d/1gK-lQcP706D97U5eE67zX5sestYCvaT5)
 
 Beatmaps:
 
@@ -376,9 +391,10 @@ Beatmaps:
 
 Este paquete de beatmaps fue presentado por primera vez por ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) en 2011.
 
-Enlace de descarga:
+Enlaces de descarga:
 
-- *N/A*
+- [MediaFire](https://www.mediafire.com/file/anvtgtiwmp0qq2v)
+- [Google Drive](https://drive.google.com/file/d/1cfWT7israZ06VKxuZrN7XpJhBthc_y2y)
 
 Beatmaps:
 

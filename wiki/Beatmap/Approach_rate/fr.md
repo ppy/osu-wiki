@@ -10,7 +10,9 @@ outdated_since: 0cba10a82a37c43b0eb79d44b66916ee06b30121
 
 # Approach Rate
 
-*Pour les valeurs d'AR suggérées, voir : [Critères de classement](/wiki/Ranking_criteria)*
+::: alert-note
+**Remarque** : Pour les valeurs d'AR suggérées, voir [Critères de classement](/wiki/Ranking_criteria)
+:::
 
 L'**Approach Rate** (abrégé en ***AR***) est un paramètre de difficulté d'une [beatmap](/wiki/Beatmap) qui défini à quel moment les [objets](/wiki/Gameplay/Hit_object) commencent à apparaître par rapport à quand ils doivent être frappés ou récoltés. Il existe seulement dans les modes [osu!](/wiki/Game_mode/osu!) et [osu!catch](/wiki/Game_mode/osu!catch).
 

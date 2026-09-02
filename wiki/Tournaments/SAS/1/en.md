@@ -52,7 +52,10 @@ The Score Attack Showdown was run by various community members.
 
 ## Participants
 
-*Note: Global ranks were recorded at the end of registration.*
+::: alert-notice
+**Notice**
+Global ranks were recorded at the end of registration.
+:::
 
 | Global rank | Player |
 | --: | :-- |
@@ -249,7 +252,10 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-*Note: All scores listed are the sum of scores from each mappool. More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0).*
+::: alert-notice
+**Notice**
+All scores listed are the sum of scores from each mappool. More detailed results are available on the [statistics sheet](https://docs.google.com/spreadsheets/d/1SN7zflqtF9mb37IeIdKzNbeZuiBttqUL-sdU0Eexwwg/edit#gid=0).
+:::
 
 ### Round 5
 

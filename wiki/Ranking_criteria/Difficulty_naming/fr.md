@@ -12,7 +12,10 @@ Le but de la désignation des difficultés est d'informer les joueurs de la diff
 
 Ces noms de difficultés sont les plus couramment utilisés pour chaque mode de jeu.
 
-*Note : Le nom de difficulté spéciale **Marathon** permettait historiquement aux mappeurs de soumettre des maps de musiques plus longues, et est donc devenu populaire pour les mapsets à difficulté unique. Aujourd'hui, ce nom n'a pas de signification particulière et n'est généralement utilisé que pour les chansons très longues ou les compilations de chansons.*
+::: alert-notice
+**Note**
+Le nom de difficulté spéciale **Marathon** permettait historiquement aux mappeurs de soumettre des maps de musiques plus longues, et est donc devenu populaire pour les mapsets à difficulté unique. Aujourd'hui, ce nom n'a pas de signification particulière et n'est généralement utilisé que pour les chansons très longues ou les compilations de chansons.
+:::
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -111,7 +114,10 @@ Les mapsets des musiques issues d'autres jeux de rythme empruntent souvent le sy
 
 ### SOUND VOLTEX
 
-*Remarque : les grands mapsets de musiques de SOUND VOLTEX utilisent souvent des noms de difficultés provenant de plusieurs versions du jeu, même si la musique n'apparaît pas dans toutes ces versions.*
+::: alert-notice
+**Note**
+les grands mapsets de musiques de SOUND VOLTEX utilisent souvent des noms de difficultés provenant de plusieurs versions du jeu, même si la musique n'apparaît pas dans toutes ces versions.
+:::
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) BASIC / BSC
 - ![](/wiki/shared/diff/normal-o.png?20211215) NOVICE / NOV

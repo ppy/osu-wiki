@@ -7,7 +7,9 @@ tags:
 
 # 노미네이션 어세스먼트 팀
 
-*또한 [비트맵 노미네이터 평가](Evaluations) 및 [SEV 등급](SEV_rating)도 참조하세요.*
+::: alert-note
+**참고:** 또한 [비트맵 노미네이터 평가](Evaluations) 및 [SEV 등급](SEV_rating)도 참조하세요.
+:::
 
 **노미네이션 어세스먼트 팀**(***NAT***)은 [비트맵 노미네이터](/wiki/People/Beatmap_Nominators) (*BN*)를 감독하고 osu!의 비트맵 관련 기능이 정상적으로 돌아가도록 관리하는 팀입니다.
 
@@ -92,7 +94,10 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 
 ## 팀 멤버
 
-*참고: 언급되지 않는 한 모든 NAT은 아래 나열된 언어 외에 영어를 구사할 수 있습니다.*
+::: alert-notice
+**알림**
+언급되지 않는 한 모든 NAT은 아래 나열된 언어 외에 영어를 구사할 수 있습니다.
+:::
 
 [노미네이션 어세스먼트 팀 그룹 페이지](https://osu.ppy.sh/groups/7) 본 페이지에서 모든 팀 멤버를 열람할 수 있습니다. 아래에 배정된 NAT 멤버들의 그룹 역할 외에도 모든 구성원은 [비트맵의 오디오 및 시각적 콘텐츠](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed)를 검토하는 데 참여합니다.
 

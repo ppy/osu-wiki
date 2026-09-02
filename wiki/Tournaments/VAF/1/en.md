@@ -67,7 +67,10 @@ The Vaf's Autumn Fiesta was run by various community members.
 
 ## Participants
 
-*Note: Global ranks were recorded at the end of registration.*
+::: alert-notice
+**Notice**
+Global ranks were recorded at the end of registration.
+:::
 
 | Global rank | Player |
 | --: | :-- |

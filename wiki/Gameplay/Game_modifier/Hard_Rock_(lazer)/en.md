@@ -23,9 +23,10 @@ tags:
 | Type | Difficulty Increase |
 | Default shortcut key | `A` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier ![][osu!] ![][osu!taiko] | 1.06x |
-| Score multiplier ![][osu!catch] | 1.12x |
-| Score multiplier ![][osu!mania] | 1.00x |
+| Score multiplier ![][osu!] | `1.09x` |
+| Score multiplier ![][osu!taiko] | `1.06x` |
+| Score multiplier ![][osu!catch] | `1.12x` |
+| Score multiplier ![][osu!mania] | `1.00x` |
 | Status ![][osu!] ![][osu!taiko] ![][osu!catch] | Ranked |
 | Status ![][osu!mania] | Unranked |
 | Incompatible mods ![][osu!] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust), [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror_(lazer)) |
@@ -33,12 +34,25 @@ tags:
 
 :::
 
-*For the osu!stable version of this article, see: [Hard Rock (mod)](/wiki/Gameplay/Game_modifier/Hard_Rock)*\
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the osu!(stable) version of this article, see [Hard Rock (mod)](/wiki/Gameplay/Game_modifier/Hard_Rock)
+:::
 
-The **Hard Rock** mod aims to make the gameplay on any [beatmap](/wiki/Beatmap) harder by increasing the overall difficulty. It does that by raising the [circle size (CS)](/wiki/Beatmap/Circle_size) by 30%, the [approach rate (AR)](/wiki/Beatmap/Approach_rate), [HP drain (HP)](/wiki/Beatmap/HP_drain_rate) and [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) by 40%, and more depending on the [game mode](/wiki/Game_mode) chosen.
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
-**This mod can't be customised through Customisation.**
+The **Hard Rock** mod aims to make gameplay harder by increasing the difficulty settings of a [beatmap](/wiki/Beatmap).
+
+In osu!, [HP drain](/wiki/Beatmap/HP_drain_rate), [overall difficulty](/wiki/Beatmap/Overall_difficulty) and [approach rate](/wiki/Beatmap/Approach_rate) are increased by 40% (up to a maximum of 10), while the [circle size](/wiki/Beatmap/Circle_size) is increased by 30% (up to a maximum of 10). Additionally, the [playfield](/wiki/Client/Playfield) is flipped vertically.
+
+In osu!taiko, [HP drain](/wiki/Beatmap/HP_drain_rate) and [overall difficulty](/wiki/Beatmap/Overall_difficulty) are increased by 40% (up to a maximum of 10), while the scroll speed is increased by 87%.
+
+In osu!catch, [HP drain](/wiki/Beatmap/HP_drain_rate) and [approach rate](/wiki/Beatmap/Approach_rate) are increased by 40% (up to a maximum of 10), while the [circle size](/wiki/Beatmap/Circle_size) is increased by 30% (up to a maximum of 10). Additionally, [the difficulty of some patterns is increased](/wiki/Gameplay/Game_modifier/Hard_Rock#osu!catch).
+
+In osu!mania, the [HP drain](/wiki/Beatmap/HP_drain_rate) is increased by 40% (up to a maximum of 10), while the timing windows become approximately 29% stricter.
+
+**This mod cannot be customised.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

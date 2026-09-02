@@ -76,7 +76,9 @@ Tournaments may be reported for violations of official support criteria via the 
 
 ### News posts
 
-*See also: [Official tournament support § News posts](/wiki/Tournaments/Official_support#news-posts) and [News styling criteria](/wiki/News_styling_criteria)*
+::: alert-note
+**See also:** [Official tournament support § News posts](/wiki/Tournaments/Official_support#news-posts) and [News styling criteria](/wiki/News_styling_criteria)
+:::
 
 When an email requesting a news post for a tournament is received, the Tournament Committee will be notified. If the tournament satisfies all eligibility criteria for news posts and the consensus in discussion is positive after 48 hours, the Tournament Committee will forward the request to the news post team for approval.
 
@@ -121,7 +123,10 @@ Applicants that fail to gather enough positive votes will be denied, and will no
 
 The Tournament Committee frequently makes use of voting when making important decisions. Typical uses are listed above, but those are not fully inclusive. The voting requirements also differ based on the use case. All typical votes also require "strict participation", meaning that if 75% of the Tournament Committee does not participate by the vote deadline, voting is extended until the required participation threshold is met. Furthermore, all votes require an absolute majority, i.e. at least 50%, for action to be taken. Votes on many topics have the same requirements, but there are slight differences on some common topics listed below.
 
-*Note: The participation threshold only considers members who have not abstained from the vote due to having a conflict of interest.*
+::: alert-notice
+**Notice**
+The participation threshold only considers members who have not abstained from the vote due to having a conflict of interest.
+:::
 
 | Vote type | Minimum length (days) | Approval threshold | Participation |
 | :-- | --: | --: | --: |
@@ -180,9 +185,10 @@ The [Tournament Committee group page](https://osu.ppy.sh/groups/50) lists all of
 - ::{ flag=BA }:: [alisha-](https://osu.ppy.sh/users/29031839)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
-- ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
+- ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227)
+- ::{ flag=DE }:: [KSN](https://osu.ppy.sh/users/5442251)
 - ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619)
-- ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
+- ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264)
 - ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
 - ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
@@ -196,6 +202,7 @@ The [Tournament Committee group page](https://osu.ppy.sh/groups/50) lists all of
 ### Contest Committee
 
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+- ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909)
 - ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853)
 - ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835)
@@ -205,6 +212,7 @@ The [Tournament Committee group page](https://osu.ppy.sh/groups/50) lists all of
 - ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
+- ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)

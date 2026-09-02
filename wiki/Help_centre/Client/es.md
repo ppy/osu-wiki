@@ -307,6 +307,12 @@ Desafortunadamente, si activas la sincronización vertical o juegas en modo vent
 
 Las últimas tarjetas gráficas de NVidia tienen una opción global en el panel de control de NVidia para establecer la frecuencia de refresco global a un valor llamado «Rápido», que también solucionará este problema.
 
+### ¡He cambiado a los drivers nativos para tabletas de osu!(lazer) y ahora mi área ha cambiado! {id=tablet-area}
+
+osu!(lazer) lleva integrado los drivers de [OpenTabletDriver](https://opentabletdriver.net/). Si antes no usabas estos drivers, esto ocurre porque tu tableta no está configurada correctamente para los drivers nativos.
+
+Para obtener más información sobre cómo convertir correctamente el área antigua de tu tableta a la configuración de OpenTabletDriver, consulta [Conversión de áreas para tabletas](/wiki/Guides/Tablet_conversion).
+
 ## Funciones en línea {id=online-features}
 
 ### ¡No puedo iniciar sesión ni conectarme al juego! {id=cannot-sign-in}

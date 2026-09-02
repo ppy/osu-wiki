@@ -4,7 +4,9 @@
 
 ### Qu'est-ce que osu!mania ?
 
-*Page principale : [osu!mania](/wiki/Game_mode/osu!mania)*
+::: alert-note
+**Page principale** : [osu!mania](/wiki/Game_mode/osu!mania)
+:::
 
 osu!mania est l'un des quatre modes de jeu. osu!mania fait partie du genre **Vertical Scrolling Rhythm Game** (VSRG). Comme son nom l'indique, les notes de musique descendent ou montent de manière verticale. Il existe de nombreux jeux assez similaires à osu!mania tels que "Stepmania", "O2Jam" ou "Beatmania IIDX".
 

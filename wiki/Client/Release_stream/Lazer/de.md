@@ -12,7 +12,9 @@ tags:
 
 # Updatequelle lazer
 
-*Für eine Liste an neuen Funktionen und allgemeinen Fragen zum neuen Client selbst, siehe: [Hilfecenter/Umstellung auf lazer](/wiki/Help_centre/Upgrading_to_lazer).*
+::: alert-note
+**Anmerkung:** Für eine Liste an neuen Funktionen und allgemeinen Fragen zum neuen Client selbst, siehe [Hilfecenter/Umstellung auf lazer](/wiki/Help_centre/Upgrading_to_lazer).
+:::
 
 ::: Infobox
 

@@ -12,7 +12,9 @@ tags:
 
 # Geki
 
-*См. также: [Katu](/wiki/Gameplay/Judgement/Katu)*
+::: alert-note
+**См. также:** [Katu](/wiki/Gameplay/Judgement/Katu)
+:::
 
 **Geki (激)** (жарг. *геки*) или *Elite Beat!* — [оценка нажатия](/wiki/Gameplay/Judgement), которая присуждается, если в только что завершённом [комбо](/wiki/Beatmapping/Combo) все объекты были пройдены с максимально возможной [точностью](/wiki/Gameplay/Accuracy). По сравнению с 300, полученной на неидеальном комбо, геки даёт максимальный бонус HP.
 

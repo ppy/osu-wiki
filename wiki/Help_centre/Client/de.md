@@ -24,6 +24,8 @@ tags:
   - Spiel
   - Verbindung
   - Benutzeroberfläche
+outdated_translation: true
+outdated_since: 93ee94cafcbd971726f274c065dcf20c3587b5ad
 ---
 
 # Client

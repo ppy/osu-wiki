@@ -6,12 +6,16 @@ tags:
   - score
   - mod
   - mod multiplier
+outdated_translation: true
+outdated_since: 6b1c578abe39d6f2eae6a0585e841a7a75c83dc4
 ---
 
 # Le mod multiplier
 
 *À ne pas confondre avec [Combo](/wiki/Gameplay/Combo_(score_multiplier))*\
-*Voir également : [Modificateurs de partie](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Voir également** : [Modificateurs de partie](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Description
 

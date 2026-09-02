@@ -27,13 +27,17 @@ tags:
 # L'onglet Timing
 
 *Pour un guide de réglage du timing, consultez : [Comment régler le timing d'une musique](/wiki/Guides/How_to_time_songs)*\
-*Voir également : [Beatmapping/Timing](/wiki/Beatmapping/Timing)*
+::: alert-note
+**Voir également** : [Beatmapping/Timing](/wiki/Beatmapping/Timing)
+:::
 
 L'onglet **Timing** de [l'éditeur de beatmap](/wiki/Client/Beatmap_editor) vous permet de modifier et de configurer le timing d'une [beatmap](/wiki/Beatmap), ce qui est essentiel pour la représentation correcte d'une musique. Il contient des paramètres et des outils liés au timing, ainsi qu'une [fenêtre dédiée](#timing-setup-panel) pour travailler avec plusieurs [points de timing](#points-de-timing), à la fois pour la représentation de la structure musicale et à des fins de conception.
 
 ## Points de timing
 
-*Voir également : [Décalage](/wiki/Offset)*
+::: alert-note
+**Voir également** : [Décalage](/wiki/Offset)
+:::
 
 Dans le [mapping](/wiki/Beatmapping), un *point de timing*, familièrement appelé *offset* ou *décalage* en français, est un moyen d'appliquer des paramètres communs, tels que les multiplicateurs de [timing](/wiki/Beatmapping/Timing), de [vitesse du slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), ou de [hitsounds](/wiki/Beatmapping/Hitsound) et leurs volumes respectifs, à une section spécifique d'une beatmap. Dans osu!, il existe deux types de points de timing.
 

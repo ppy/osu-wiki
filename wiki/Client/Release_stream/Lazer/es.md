@@ -13,7 +13,9 @@ tags:
 
 # Canal de lanzamiento lazer
 
-*Para obtener una lista de características en lazer y preguntas comunes sobre el nuevo cliente, véase: [Centro de ayuda/Actualizar a lazer](/wiki/Help_centre/Upgrading_to_lazer)*
+::: alert-note
+**Nota:** Para obtener una lista de características en lazer y preguntas comunes sobre el nuevo cliente, véase [Centro de ayuda/Actualizar a lazer](/wiki/Help_centre/Upgrading_to_lazer)
+:::
 
 ::: Infobox
 

@@ -5,8 +5,13 @@ outdated_since: ca470beb6a1d0e8c9575d6436e9f2d656c3f19c0
 
 # Rédaction
 
-*Pour les normes de mise en forme, voir : [Critères de mise en forme d'article/Mise en forme](../Formatting)*\
-*Note : Cet article utilise [RFC 2119](https://microformats.org/wiki/rfc-2119-fr) pour décrire les niveaux d'exigence.*
+::: alert-note
+**Remarque** : Pour les normes de mise en forme, voir [Critères de mise en forme d'article/Mise en forme](../Formatting)
+:::
+
+::: alert-notice
+**Note** : Cet article utilise [RFC 2119](https://microformats.org/wiki/rfc-2119-fr) pour décrire les niveaux d'exigence.
+:::
 
 Cet article concerne les normes de rédaction pour tous les articles en français. Reportez-vous à la version anglaise de cette page pour les normes de rédaction des articles en anglais.
 
@@ -113,7 +118,9 @@ Dean Herbert (aussi connu sous le nom de peppy) a créé osu! en 2007.
 
 ### Marques commerciales
 
-*Pour les règles concernant osu!, voir : [osu!](#osu!)*
+::: alert-note
+**Remarque** : Pour les règles concernant osu!, voir [osu!](#osu!)
+:::
 
 Les marques suivantes doivent être épelées comme suit (la casse des lettres doit correspondre) :
 

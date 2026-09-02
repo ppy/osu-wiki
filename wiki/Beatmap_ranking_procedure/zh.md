@@ -15,7 +15,9 @@ tags:
 
 # 谱面上架流程
 
-*参见：[Rank（消歧义页）](/wiki/Disambiguation/Rank) 以及 [上架队列 (Ranking queue)](Ranking_queue)*
+::: alert-note
+**参见：** [Rank（消歧义页）](/wiki/Disambiguation/Rank) 以及 [上架队列 (Ranking queue)](Ranking_queue)
+:::
 *有关下文提及的谱面类别，请参见：[谱面类别](/wiki/Beatmap/Category)*
 
 想要将一张[谱面](/wiki/Beatmap)更好地推向社区，谱面作者（以下简称谱师）需要遵循以下谱面审核流程，并让谱面进入[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 状态。

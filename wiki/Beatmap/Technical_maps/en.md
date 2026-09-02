@@ -12,7 +12,10 @@ tags:
 
 <!-- Line to be added eventually: *Not to be confused with [Slider Art](link) or [Taikosu maps](link) -->
 
-*Notice: For the purposes of this article, the term "tech map" will be treated as an umbrella term that includes all of these definitions.*
+::: alert-notice
+**Notice**
+For the purposes of this article, the term "tech map" will be treated as an umbrella term that includes all of these definitions.
+:::
 
 **Technical maps** (often shortened to "tech map") is a term that does not have a clear, agreed-upon definition amongst the osu! community. Depending on the user, "tech map" can be as broad as a [beatmap](/wiki/Beatmap) that simply contains non-generic beatmap [patterns](/wiki/Beatmap/Pattern), or as specific as a beatmap that is dense in [object](/wiki/Gameplay/Hit_object) count and contains many irregular [slider](/wiki/Gameplay/Hit_object/Slider) shapes that quickly and drastically change speeds (often at high intensity).
 
@@ -26,7 +29,10 @@ Due to the broad nature of the term "tech map," there are many different aspects
 
 ### Broadest definition
 
-*Notice: The "broadest" definition only requires one or two of the aspects listed to be present in order to define a beatmap as tech.*
+::: alert-notice
+**Notice**
+The "broadest" definition only requires one or two of the aspects listed to be present in order to define a beatmap as tech.
+:::
 
 - Non-generic or difficult-to-read beatmap patterns (example shown below)
   - A hard "flow" to the beatmap
@@ -45,7 +51,10 @@ Good examples of tech maps that fit this definition are [Silentroom - Nhelv (Nyx
 
 ### Most restrictive/specific definition
 
-*Notice: The "most restrictive/specific" definition requires **all** of the aspects listed to be present in order to define a beatmap as tech.*
+::: alert-notice
+**Notice**
+The "most restrictive/specific" definition requires **all** of the aspects listed to be present in order to define a beatmap as tech.
+:::
 
 - Irregular slider shapes
 - Quick and sharp changes in slider speed

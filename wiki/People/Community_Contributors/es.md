@@ -20,7 +20,13 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Agosto
 
-*Para el hilo del foro, véase: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)
+:::
+
+::: alert-note
+**Nota:** Para el hilo del foro, véase [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -54,7 +60,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Enero
 
-*Para la publicación de la noticia, véase: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -69,7 +77,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Marzo
 
-*Para la publicación de la noticia, véase: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -77,7 +87,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Noviembre
 
-*Para la publicación de la noticia, véase: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -95,7 +107,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Diciembre
 
-*Para la publicación de la noticia, véase: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -124,7 +138,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Febrero
 
-*Para la publicación de la noticia, véase: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -156,7 +172,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Febrero
 
-*Para la publicación de la noticia, véase: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -186,7 +204,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Marzo
 
-*Para la publicación de la noticia, véase: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -202,7 +222,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Junio
 
-*Para la publicación de la noticia, véase: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -226,7 +248,9 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 
 #### Noviembre
 
-*Para la publicación de la noticia, véase: [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: 2022 & 2023](https://osu.ppy.sh/home/news/2023-11-19-community-contributors-2022-2023)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -251,11 +275,13 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de Artistas Destacados |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de Artistas Destacados |
 
-### 2024
+### 2025
 
 #### Marzo
 
-*Para la publicación de la noticia, véase: [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: 2024](https://osu.ppy.sh/home/news/2025-03-25-community-contributors-2024)
+:::
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -273,6 +299,33 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([osuplus](https://github.com/limjeck/osuplus)) |
 | ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([owo! bot](https://owo-bot.xyz/)) |
 | ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([Bathbot](https://github.com/MaxOhn/Bathbot)) |
+
+### 2026
+
+#### Agosto
+
+::: alert-note
+**Note:** Para la publicación de la noticia, véase [Community Contributors: 2025](https://osu.ppy.sh/home/news/2026-08-02-community-contributors-2025)
+:::
+
+| Usuario | Contribuciones |
+| :-- | :-- |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Excelente contribución a la mejora de la comunidad en todos los rincones de osu! |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Excelente contribución a la escena de mapping y torneos |
+| ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845) | Excelentes contribuciones técnicas a la escena de los torneos de osu! |
+| ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692) | Excelentes contribuciones técnicas a la escena de los torneos de osu! fuera de línea |
+| ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) | Excelente contribución al proyecto del [empaquetado de mapas](https://osu.ppy.sh/beatmaps/packs) |
+| ::{ flag=PL }:: [Wiek](https://osu.ppy.sh/users/2584698) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([Danser](https://github.com/Wieku/danser-go)) |
+| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([circleguard](https://github.com/circleguard/circleguard), [ossapi](https://github.com/Liam-DeVoe/ossapi)) |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | Contribución de larga trayectoria en asuntos relacionados con la comunidad y la moderación |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Excelente contribución en la asistencia técnica proporcionada a los jugadores a lo largo de muchos años |
+| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Excelente contribución en la moderación en diversas plataformas |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Contribución de larga trayectoria a la comunidad de mapping y modding |
+| ::{ flag=AT }:: [Maarvin](https://osu.ppy.sh/users/6411631) | Excelente contribución en asuntos relacionados con el desarrollo |
+| ::{ flag=DE }:: [The_Last_Cookie](https://osu.ppy.sh/users/11587828) | Contribución de larga trayectoria en las traducciones al alemán de la osu! wiki |
+| ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | Contribución de larga trayectoria en las traducciones al español de la osu! wiki |
+| ::{ flag=ES }:: [Agatem](https://osu.ppy.sh/users/18202514) | Contribución de larga trayectoria en las traducciones al español de la osu! wiki |
+| ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) | Contribución de larga trayectoria en las traducciones al chino de la osu! wiki |
 
 ## Historia
 

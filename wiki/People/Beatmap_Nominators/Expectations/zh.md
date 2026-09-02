@@ -1,6 +1,8 @@
 # 对 BN 的期望
 
-*参见：[谱面审核成员 (BN) 规章制度](/wiki/People/Beatmap_Nominators/Rules)*
+::: alert-note
+**参见：** [谱面审核成员 (BN) 规章制度](/wiki/People/Beatmap_Nominators/Rules)
+:::
 
 作为 osu! 社区和 osu! 团队的核心人物，[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 通常相比于其他玩家要求更高。这里列出的期望是由[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 讨论得出的结果。虽然这些期望几乎不可能完美达成，但如果 BN 多次严重地违反这些期望，NAT 能综合常识，逐案判断这些行为的影响和恶劣程度，并警告或者直接革职 BN。
 

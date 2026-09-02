@@ -43,7 +43,10 @@ Les packs de beatmaps sont divisés en 7 catégories avec un indicateur pour les
 
 ## Téléchargements alternatifs
 
-*Attention : osu! ne peut pas garantir que les fichiers provenant de sources non officielles sont sûrs, à jour ou complets.*
+::: alert-caution
+**Attention**
+osu! ne peut pas garantir que les fichiers provenant de sources non officielles sont sûrs, à jour ou complets.
+:::
 
 Il est recommandé de télécharger directement les packs de beatmap depuis la liste officielle des packs. Cependant, si vous avez des difficultés à télécharger des packs à partir de là, il y a deux alternatives.
 

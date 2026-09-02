@@ -14,7 +14,10 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ![Icône du mod SD](/wiki/shared/mods/SD.png "Icône du mod Sudden Death (SD)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
+
 *Voir aussi : [Perfect (mod)](/wiki/Gameplay/Game_modifier/Perfect)*
 
 ## À propos

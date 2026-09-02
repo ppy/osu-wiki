@@ -11,7 +11,9 @@ tags:
 
 # BanchoBot
 
-*Pour d'autres utilisations, voir [Bancho (désambiguïsation)](/wiki/Disambiguation/Bancho).*
+::: alert-note
+**Remarque** : Pour d'autres utilisations, voir [Bancho (désambiguïsation)](/wiki/Disambiguation/Bancho).
+:::
 
 ![La carte d'utilisateur de BanchoBot](img/BanchoBot.jpg "La carte d'utilisateur de BanchoBot")
 
@@ -21,7 +23,9 @@ BanchoBot a aussi son propre [profil osu!](https://osu.ppy.sh/users/3) et son [c
 
 ## Commandes
 
-*Pour une liste des commandes du client en jeu, voir : [Console de tchat](/wiki/Client/Interface/Chat_console#liste-des-commandes)*
+::: alert-note
+**Remarque** : Pour une liste des commandes du client en jeu, voir [Console de tchat](/wiki/Client/Interface/Chat_console#liste-des-commandes)
+:::
 
 BanchoBot peut répondre aux commandes des joueurs par des messages spécifiques tapés dans le tchat. Toutes les commandes de BanchoBot commencent par un point d'exclamation (`!`) suivi du nom de la commande, qui n'est pas sensible à la casse (sans espace entre les deux). Ces commandes peuvent être utilisées dans les canaux de discussion et dans les messages privés avec BanchoBot.
 

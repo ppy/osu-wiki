@@ -27,7 +27,9 @@ If there are no open lobbies, wait for the next season. The break between season
 
 ## Spotlights seasons
 
-*For the list of Spotlights seasons, see: [Seasons](Seasons)*
+::: alert-note
+**Note:** For the list of Spotlights seasons, see [Seasons](Seasons)
+:::
 
 The Beatmap Spotlights project is currently organised in pre-defined seasons. Each season consists of a pool of curated beatmaps and a competitive seasonal league for the whole community.
 

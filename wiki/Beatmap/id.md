@@ -14,17 +14,24 @@ tags:
 - [storyboard](/wiki/Storyboard) dengan berbagai efek visual, yang berfungsi untuk menampilkan latar cerita atau tema lagu tertentu dalam permainan (opsional).
 - [skin khusus](/wiki/Skinning), yang mengubah tampilan elemen antarmuka dan permainan (opsional).
 
-*Catatan: Sebagian fitur bawaan beatmap dapat dinonaktifkan melalui menu [Visual Settings](/wiki/Client/Interface/Visual_settings).*
+::: alert-notice
+**Catatan**
+Sebagian fitur bawaan beatmap dapat dinonaktifkan melalui menu [Visual Settings](/wiki/Client/Interface/Visual_settings).
+:::
 
 ## Tingkat kesulitan
 
-*Artikel utama: [Tingkat kesulitan](/wiki/Beatmap/Difficulty)*
+::: alert-note
+**Artikel utama:** [Tingkat kesulitan](/wiki/Beatmap/Difficulty)
+:::
 
 *Tingkat kesulitan* merupakan [berkas `.osu`](/wiki/Client/File_formats/osu_(file_format)) yang menerakan penempatan objek permainan, hitsound, dan efek spesial lainnya seperti [kiai time](/wiki/Gameplay/Kiai_time). Berkas ini juga mengandung informasi seputar [pengaturan tingkat kesulitan](/wiki/Client/Beatmap_editor/Song_setup#difficulty) dan parameter lainnya yang memengaruhi permainan. Masing-masing tingkat kesulitan yang terdapat pada beatmap mempunyai strukturnya tersendiri dan terkadang hanya dapat dimainkan pada satu [mode permainan](/wiki/Game_mode). Adapun seberapa sulit suatu tingkat kesulitan ditentukan berdasarkan sistem [star rating](/wiki/Beatmap/Star_rating).
 
 ## Submisi
 
-*Artikel utama: [Submisi beatmap](/wiki/Beatmapping/Beatmap_submission)*
+::: alert-note
+**Artikel utama:** [Submisi beatmap](/wiki/Beatmapping/Beatmap_submission)
+:::
 
 Pembuat beatmap dapat [mengunggah](/wiki/Beatmapping/Beatmap_submission) beatmap yang mereka buat untuk dimunculkan pada [daftar beatmap](https://osu.ppy.sh/beatmapsets) yang tersedia secara publik. Walaupun status kepemilikan beatmap hanya dapat dipegang oleh [satu orang](/wiki/Beatmap/Beatmap_host), beatmap dapat tercipta atas hasil kerja sama antar beberapa pengguna: sering kali, sebagian tingkat kesulitan yang terdapat pada beatmap merupakan hasil karya mapper lain baik itu dalam bentuk [kolaborasi](/wiki/Beatmap/Beatmap_collaborations) ataupun [tingkat kesulitan tamu (*guest difficulty*)](/wiki/Beatmap/Guest_difficulty).
 
@@ -42,7 +49,9 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 ### Kategori beatmap
 
-*Artikel utama: [Kategori beatmap](Category)*
+::: alert-note
+**Artikel utama:** [Kategori beatmap](Category)
+:::
 
 Beatmap yang diunggah akan dikelompokkan ke dalam salah satu kategori berikut, yang dapat berubah seiring berjalannya waktu:
 
@@ -69,7 +78,9 @@ osu!direct merupakan fitur yang memungkinkan pengguna untuk mengunduh beatmap da
 
 ### Paket beatmap
 
-*Artikel utama: [Paket beatmap](Packs)*
+::: alert-note
+**Artikel utama:** [Paket beatmap](Packs)
+:::
 
 Beatmap yang di-rank pada bulan yang sama atau yang memiliki tema yang sama (cth. lagu dari artis tertentu) pada umumnya akan dikemas dalam bentuk paket beatmap untuk dapat kemudian diunduh secara massal. Daftar seluruh paket beatmap yang osu! miliki dapat dilihat pada [laman paket beatmap](https://osu.ppy.sh/beatmaps/packs).
 
@@ -99,7 +110,9 @@ Skor yang berada pada peringkat 1000 atau lebih tinggi pada masing-masing tingka
 
 <!-- TODO: would be very cool to have a separate article for osu!(lazer) as well (issue #4686) -->
 
-*Artikel utama: [Beatmap Spotlight](/wiki/Beatmap_Spotlights)*
+::: alert-note
+**Artikel utama:** [Beatmap Spotlight](/wiki/Beatmap_Spotlights)
+:::
 
 Sejak awal berdirinya osu!, komunitas osu! telah banyak berinisiatif untuk dapat mengedepankan berbagai beatmap yang dinilai unik dan luar biasa. Salah satu upaya yang dilakukan oleh komunitas osu! untuk melakukan hal ini adalah dengan membuat Ranking Chart bulanan dan musiman, yang berisikan berbagai beatmap pilihan yang berasal dari kurun waktu tertentu. Setiap bulan atau musimnya, pemain yang berhasil memperoleh total skor terbanyak dari seluruh map yang terkandung dalam masing-masing Ranking Chart akan memperoleh [osu!supporter](/wiki/osu!supporter).
 
@@ -107,12 +120,16 @@ Seiring berjalannya waktu, sistem Ranking Chart ini kemudian perlahan mulai beru
 
 ### Kontes beatmap
 
-*Artikel utama: [Kontes](/wiki/Contests)*
+::: alert-note
+**Artikel utama:** [Kontes](/wiki/Contests)
+:::
 
 Komunitas osu! secara rutin mengadakan berbagai kontes untuk mendorong kreativitas komunitas dan menghargai mereka yang ahli dalam bidang karyanya masing-masing. Kontes dapat berkisar dari kompetisi kecil, seperti kompetisi yang dibuat oleh komunitas lokal, hingga kompetisi berskala internasional dengan hadiah yang menggiurkan. Pemenang kontes pada umumnya akan memperoleh hadiah dalam bentuk [osu!supporter](/wiki/osu!supporter) dan [lencana profil](/wiki/Community/Profile_badge).
 
 ### Featured Artist
 
-*Artikel utama: [Featured Artist](/wiki/People/Featured_Artists)*
+::: alert-note
+**Artikel utama:** [Featured Artist](/wiki/People/Featured_Artists)
+:::
 
 Featured Artist merupakan program dari [tim osu!](/wiki/People/osu!_team) yang berfokus pada pembelian lisensi lagu dari berbagai musisi untuk keperluan mapping. Daftar Featured Artist selengkapnya beserta *template* beatmap dari masing-masing lagu yang telah dilisensi dapat dilihat pada [laman Featured Artist](https://osu.ppy.sh/beatmaps/artists).

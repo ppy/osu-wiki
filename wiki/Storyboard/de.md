@@ -9,6 +9,8 @@ Storyboards werden in Beatmap-Ordnern entweder im eigenständigen Dateiformat [`
 
 ## Erstellen eines Storyboards
 
-*Hauptartikel: [Storyboard-Skripting](/wiki/Storyboard/Scripting)*
+::: alert-note
+**Hauptseite:** [Storyboard-Skripting](/wiki/Storyboard/Scripting)
+:::
 
 Der Prozess des Erstellen eines Storyboards nennt sich *Storyboarding*, wobei die Person dahinter ein *Storyboarder* ist. Das Erstellen von Storyboards ist oft sehr schwer und benötigt viel Zeit sowie Expertise in Standardanimation und grafischer Gestaltung. osu! bietet einen [eingebauten Editor](/wiki/Client/Beatmap_editor/Design) innerhalb des [Beatmap-Editors](/wiki/Client/Beatmap_editor) an, um die Erstellung von Storyboards zu erleichtern. Jedoch wählen viele eifrige Storyboarder per [Storyboard-Skripting](/wiki/Storyboard/Scripting) direkt zu programmieren. Viele Ersteller entscheiden sich dazu, Programme in vollumfänglichen Programmiersprachen zu schreiben, die Storyboard-Skripte generieren, da komplexe und visuelle Effekte eine große Menge an Storyboard-Code benötigen.

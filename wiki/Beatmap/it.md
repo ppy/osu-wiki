@@ -14,17 +14,24 @@ Una **beatmap** (a volte chiamata *beatmapset*) è un insieme di livelli di gioc
 - [Storyboard](/wiki/Storyboard) con grafica in movimento ed effetti speciali, che funge da sfondo alla storia o tema della canzone (opzionale).
 - [Skin personalizzata](/wiki/Skinning), che modifica l'aspetto dell'interfaccia e degli elementi di gioco (opzionale).
 
-*Nota: alcune delle caratteristiche visive e sonore di una beatmap possono essere disattivate tramite l'overlay [visual settings](/wiki/Client/Interface/Visual_settings).*
+::: alert-notice
+**Nota**
+Alcune delle caratteristiche visive e sonore di una beatmap possono essere disattivate tramite l'overlay [visual settings](/wiki/Client/Interface/Visual_settings).
+:::
 
 ## Difficoltà
 
-*Articolo principale: [Difficoltà](/wiki/Beatmap/Difficulty)*
+::: alert-note
+**Pagina principale:** [Difficoltà](/wiki/Beatmap/Difficulty)
+:::
 
 Una *difficoltà* è un file con [estensione `.osu`](/wiki/Client/File_formats/osu_(file_format)) che descrive il posizionamento degli oggetti, degli hitsound e degli effetti speciali come le [sezioni kiai](/wiki/Gameplay/Kiai_time). Contiene anche [impostazioni di difficoltà](/wiki/Client/Beatmap_editor/Song_setup#difficulty) e altri parametri che influenzano direttamente il gameplay. Le difficoltà di una beatmap hanno strutture diverse e a volte possono essere giocate in una sola [modalità di gioco](/wiki/Game_mode). Il sistema di [valutazione in stelle](/wiki/Beatmap/Star_rating) è usato per visualizzare i requisiti di abilità di una difficoltà.
 
 ## Invio
 
-*Articolo principale: [Invio](/wiki/Beatmapping/Beatmap_submission)*
+::: alert-note
+**Pagina principale:** [Invio](/wiki/Beatmapping/Beatmap_submission)
+:::
 
 Gli autori di beatmap possono [inviare](/wiki/Beatmapping/Beatmap_submission) le loro creazioni alla pubblica [lista delle beatmap](https://osu.ppy.sh/beatmapsets). Sebbene ogni beatmap sia attribuita a [una singola persona](/wiki/Beatmap/Beatmap_host), spesso si tratta di un lavoro comune: alcune difficoltà possono essere mappate da altre persone che lavorano [in collaborazione](/wiki/Beatmap/Beatmap_collaborations) o [separatamente](/wiki/Beatmap/Guest_difficulty).
 
@@ -40,7 +47,9 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 ### Categorie di beatmap
 
-*Articolo principale: [Categorie di beatmap](Category)*
+::: alert-note
+**Pagina principale:** [Categorie di beatmap](Category)
+:::
 
 Una beatmap inviata appartiene a una delle seguenti categorie, che possono cambiare nel tempo:
 
@@ -67,7 +76,9 @@ osu!direct è la lista beatmap integrata nel client di gioco, che viene utilizza
 
 ### Pacchetti di beatmap
 
-*Articolo principale: [Pacchetti di beatmap](Packs)*
+::: alert-note
+**Pagina principale:** [Pacchetti di beatmap](Packs)
+:::
 
 Le beatmap che sono state classificate nello stesso mese o che condividono lo stesso tema (ad esempio lo stesso artista) vengono raccolte per download di massa in archivi, chiamati pacchetti di beatmap. L'elenco di tutti i pacchetti di beatmap ufficiali è disponibile sul [sito web](https://osu.ppy.sh/beatmaps/packs).
 
@@ -93,7 +104,9 @@ I primi 1000 punteggi a ogni difficoltà di una mappa di battuta forniscono [rep
 
 ### Charts e Spotlights
 
-*Articolo principale: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
+::: alert-note
+**Pagina principale:** [Beatmap Spotlights](/wiki/Beatmap_Spotlights)
+:::
 
 Fin dai primi giorni, la community ha avuto vari modi per mettere in mostra mappe uniche ed eccellenti. Uno dei primi approcci documentati è stato quello delle classifiche mensili e stagionali (charts), che consistevano in un piccolo sottoinsieme di beatmap classificate, in cui i migliori giocatori delle classifiche che mostravano il punteggio totale su queste mappe venivano premiati con [osu!supporter](/wiki/osu!supporter).
 
@@ -101,12 +114,16 @@ Il sistema di classifiche si è poi evoluto nel progetto [Beatmap Spotlights](/w
 
 ### Contest delle beatmap
 
-*Pagina principale: [Contests](/wiki/Contests)*
+::: alert-note
+**Pagina principale:** [Contests](/wiki/Contests)
+:::
 
 La community di osu! organizza regolarmente diversi contest per promuovere la creatività e premiare i mapper che danno il meglio di sé. I contest vanno da piccole competizioni, che si svolgono all'interno di community locali, ad altre più grandi che si svolgono su scala globale e hanno premi mozzafiato. I vincitori ricevono spesso premi sotto forma di [tag osu!supporter](/wiki/osu!supporter) e un [badge del profilo](/wiki/Community/Profile_badge) a tema.
 
 ### Artisti in primo piano
 
-*Pagina principale: [Artisti in primo piano](/wiki/People/Featured_Artists)*
+::: alert-note
+**Pagina principale:** [Artisti in primo piano](/wiki/People/Featured_Artists)
+:::
 
 Artisti in primo piano è un programma della community del [team di osu!](/wiki/People/osu!_team) che si concentra sulla concessione di licenze per la musica di vari artisti per osu! e la rende disponibile per il mapping. La [lista degli artisti in primo piano](https://osu.ppy.sh/beatmaps/artists) del sito web presenta ogni artista coinvolto e fornisce modelli predefiniti per il mapping.

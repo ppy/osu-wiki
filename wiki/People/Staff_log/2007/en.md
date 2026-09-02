@@ -1,6 +1,9 @@
 # Staff log 2007
 
-*Note: Some users' history may be incomplete during this year. "Moderators" were later renamed to "Beatmap Approval Team".*
+::: alert-notice
+**Notice**
+Some users' history may be incomplete during this year. "Moderators" were later renamed to "Beatmap Approval Team".
+:::
 
 - Added [phill](https://osu.ppy.sh/users/53) to Moderators <!-- set up website and IRC? https://osu.ppy.sh/community/forums/topics/21 -->
 - Added [eyup](https://osu.ppy.sh/users/88) to Moderators <!-- posted in 2007 moderator lounge forum https://osu.ppy.sh/community/forums/topics/619 -->

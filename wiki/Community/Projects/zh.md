@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 525e7209c9dbffe7b529d4c94545f2b8e054c014
+---
+
 # 项目
 
 本文章列出了由[开发者](/wiki/People/Developers)和社区为 osu! 制作的各种项目、工具与服务。
@@ -26,8 +31,8 @@
 |  | [osu! iPhone](https://osu.ppy.sh/community/forums/topics/9193) | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu! 的官方 iPhone 移植版 |
 | ![](img/logo_osu_osx.png) | [osu! on OS X](https://osuosx.tumblr.com/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | 可在 macOS 上原生运行的 osu! 实验性版本 |
 |  | [pTransl](/wiki/Community/Projects/pTransl) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | 基于社区的 osu! 本地化平台 |
-| ![](img/logo_rajio.png) | [rajio](/wiki/Community/Projects/rajio) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | 点播式在线电台服务 |
-| ![](img/logo_upppy.png) | [upppy](/wiki/Community/Projects/upppy) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | 基于浏览器的轻量级文件共享服务 |
+| ![](Defunct_projects/img/logo_rajio.png) | [rajio](/wiki/Community/Projects/rajio) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | 点播式在线电台服务 |
+| ![](Defunct_projects/img/logo_upppy.png) | [upppy](/wiki/Community/Projects/upppy) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | 基于浏览器的轻量级文件共享服务 |
 
 ## 社区项目
 
@@ -41,7 +46,7 @@
 |  | [osu!taiko made with Scratch](https://turbowarp.org/1067424534?fps=240&offscreen) | ::{ flag=US }:: [MrrJinxx](https://osu.ppy.sh/users/32908054) | 使用 [Scratch](https://scratch.mit.edu/about) 复刻的 osu!taiko |
 | ![](img/logo_opsu.png) | [opsu!](https://osu.ppy.sh/community/forums/topics/221726) | ::{ flag=US }:: [euphyy](https://osu.ppy.sh/users/2936932) | 使用 [Java](https://www.java.com/) 编写的开源 osu! 客户端 |
 | ![](img/logo_otu.png) | [otu!](https://gdladder.com/level/111345732) | ::{ flag=US }:: [CreatorCreepy](https://osu.ppy.sh/users/10436454) | [《几何冲刺》](https://en.wikipedia.org/wiki/Geometry_Dash)中的 osu! 重制版 |
-| ![](img/logo_t_aiko.png) | [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640/) | ::{ flag=GB }:: [Guy-kun](https://osu.ppy.sh/users/217431) | 免费的[《太鼓达人》](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)仿制版，可在移动设备上游玩 osu!taiko 谱面 |
+| ![](Defunct_projects/img/logo_t_aiko.png) | [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640/) | ::{ flag=GB }:: [Guy-kun](https://osu.ppy.sh/users/217431) | 免费的[《太鼓达人》](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)仿制版，可在移动设备上游玩 osu!taiko 谱面 |
 
 ### 游玩
 
@@ -165,7 +170,7 @@
 
 | 标识 | 名称 | 项目负责人 | 描述 |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_maniacheck.png) | [ManiaCheck](https://github.com/MChecaH/ManiaCheck) | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 用于检查 osu!mania 谱面的 Mapset Verifier 插件 |
+| ![](Defunct_projects/img/logo_maniacheck.png) | [ManiaCheck](https://github.com/MChecaH/ManiaCheck) | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 用于检查 osu!mania 谱面的 Mapset Verifier 插件 |
 
 ### 皮肤制作
 
@@ -205,7 +210,7 @@
 
 | 标识 | 名称 | 项目负责人 | 描述 |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_ezpp.png) | [ezpp!](https://osu.ppy.sh/community/forums/topics/466740) | ::{ flag=FI }:: [oam](https://osu.ppy.sh/users/3844204) | 表现分计算的浏览器扩展 |
+| ![](Defunct_projects/img/logo_ezpp.png) | [ezpp!](https://osu.ppy.sh/community/forums/topics/466740) | ::{ flag=FI }:: [oam](https://osu.ppy.sh/users/3844204) | 表现分计算的浏览器扩展 |
 |  | [osu! news scheduler](https://osunews.untone.uk) | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | [osu! 新闻源](https://osu.ppy.sh/home/news)的日程规划表 |
 | ![](img/logo_osu_preview.png) | [osu! preview](https://osu.ppy.sh/community/forums/topics/2062759) | ::{ flag=IT }:: [TechnoZamb](https://osu.ppy.sh/users/12958169) | 显示谱面预览的浏览器扩展 |
 |  | [osu!next Signature Generator](https://osu.ppy.sh/community/forums/topics/372346) | ::{ flag=GB }:: [Lemmmy](https://osu.ppy.sh/users/4656511) | [osu!next](https://osunext.tumblr.com) 风格的论坛签名生成器 |
@@ -251,7 +256,7 @@
 | ![](img/logo_osu_music_library.png) | [Osu Music Library](https://osu.ppy.sh/community/forums/topics/267236) | ::{ flag=SE }:: [Dayanto](https://osu.ppy.sh/users/4907353) | 在 osu! 客户端外组织、播放、搜索谱面歌曲的工具 |
 |  | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | 支持实时预览的 osu! 用户资料 [BBCode](/wiki/BBCode) 编辑器 |
 |  | [osu! mouse simulator for Leap](https://osu.ppy.sh/community/forums/topics/139360) | ::{ flag=CZ }:: [Brejlounek](https://osu.ppy.sh/users/931841) | 适用于 [Leap Motion](https://zh.wikipedia.org/wiki/Leap_Motion) 传感器的鼠标指针移动封装器 |
-| ![](img/logo_osu_music_player.png) | [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) | ::{ flag=CA }:: [Naviaux](https://osu.ppy.sh/users/2240370) | osu! 主题的音乐播放器 |
+| ![](Defunct_projects/img/logo_osu_music_player.png) | [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) | ::{ flag=CA }:: [Naviaux](https://osu.ppy.sh/users/2240370) | osu! 主题的音乐播放器 |
 |  | [osu! Windows 60 fps animated cursors](https://osu.ppy.sh/community/forums/topics/86671) | ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | osu! 样式的 Windows 光标 |
 |  | [o!subscribe](https://osu.ppy.sh/community/forums/topics/587110) | ::{ flag=CA }:: [Slow Twitch](https://osu.ppy.sh/users/3172543) | 提供喜爱谱师订阅支持的服务 |
 |  | [osu!APIlib](https://osu.ppy.sh/community/forums/topics/141331) | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | 与 osu! API 对接的简单库 |

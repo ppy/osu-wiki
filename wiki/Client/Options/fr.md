@@ -98,7 +98,10 @@ This section is about the appearance of your game client, parts of the interface
 
 ---
 
-*Note: Lorsque le client n'est pas la fenêtre active, la limite d'images par seconde est automatiquement ramenée à 30 images par seconde.*\
+::: alert-notice
+**Note** : Lorsque le client n'est pas la fenêtre active, la limite d'images par seconde est automatiquement ramenée à 30 images par seconde.
+:::
+
 *Attention aux utilisateurs d'ordinateurs portables : l'utilisation de l'option `Illimité (en jeu)` peut entraîner une surchauffe de votre ordinateur portable !*
 
 Si vous ouvrez la liste déroulante de l'option `Images par seconde :`, vous aurez les options suivantes :

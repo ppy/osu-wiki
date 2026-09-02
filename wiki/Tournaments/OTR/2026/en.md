@@ -11,7 +11,7 @@ tags:
 
 ![OTR26 banner](img/banner.png)
 
-The **osu!türkiye Open 2026** (***OTR26***) is a 2v2, double-elimination, Turkish-only regional osu! tournament hosted by ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252) and ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437). It is the 3rd instalment of the osu!türkiye Open series. Unlike the previous iterations, where the teams were formed via draft format, the 2026 edition features premade team signups.
+The **osu!türkiye Open 2026** (***OTR26***) was a 2v2, double-elimination, Turkish-only regional osu! tournament hosted by ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252) and ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437). It was the 3rd instalment of the osu!türkiye Open series. Unlike the previous iterations, where the teams were formed via draft format, the 2026 edition featured premade team signups.
 
 ## Tournament schedule
 
@@ -20,9 +20,9 @@ The **osu!türkiye Open 2026** (***OTR26***) is a 2v2, double-elimination, Turki
 | Registration phase | 2026-05-31/2026-06-14 |
 | Qualifiers | 2026-06-15/2026-06-28 |
 | Seeding results & live drawings | 2026-06-29 (19:00 UTC+03) |
-| Group Stage | 2026-07-04/2026-07-12 |
+| Group Stage | 2026-07-03/2026-07-13 |
 | Quarterfinals | 2026-07-18/2026-07-19 |
-| Semifinals | 2026-07-25/2026-07-26 |
+| Semifinals | 2026-07-24/2026-07-27 |
 | Finals | 2026-08-01/2026-08-02 |
 | Grand Finals | 2026-08-08/2026-08-09 |
 
@@ -36,6 +36,8 @@ The osu!türkiye Open 2026 features a prize pool that is funded by community don
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag, 4 months of o!rdr Supporter tag, 30% of the prize pool, 1000₺ worth of Google Play Gift Card, profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag, 2 months of o!rdr Supporter tag, 20% of the prize pool, 634₺ worth of Google Play Gift Card, profile banner |
 
+![Profile badge](img/badge.png "OTR26 winner badge")
+
 ## Organisation
 
 The osu!türkiye Open 2026 is run by [osu!türkiye](https://osuturkiye.com) and various community members.
@@ -43,31 +45,31 @@ The osu!türkiye Open 2026 is run by [osu!türkiye](https://osuturkiye.com) and 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437) |
-| Mappool selector | **::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674)**, ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [spray-](https://osu.ppy.sh/users/16750823), ::{ flag=TR }:: [yeyygitalp](https://osu.ppy.sh/users/26015902) |
-| Mappool playtester | ::{ flag=RU }:: [fedotoff](https://osu.ppy.sh/users/7351448), ::{ flag=DE }:: [Inflictives](https://osu.ppy.sh/users/10243433), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [Shinkiro](https://osu.ppy.sh/users/6093148), ::{ flag=TR }:: [spray-](https://osu.ppy.sh/users/16750823) |
-| Mapper | ::{ flag=TR }:: [Akhaten](https://osu.ppy.sh/users/12474487), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), *more TBA* |
-| Hitsounder | ::{ flag=TR }:: [Coeminals](https://osu.ppy.sh/users/10213311), ::{ flag=PH }:: [Mejiro Dober](https://osu.ppy.sh/users/19425672) |
-| Streamer | **::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741)**, ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [RokeT-](https://osu.ppy.sh/users/17151907) |
-| Commentator | **::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741)**, ::{ flag=TR }:: [Cureleux](https://osu.ppy.sh/users/25429183), ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [emrepkrr](https://osu.ppy.sh/users/19034045), ::{ flag=TR }:: [mostiza](https://osu.ppy.sh/users/7354243), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437) |
-| Commentator (special guests) | ::{ flag=TR }:: [Clutch](https://osu.ppy.sh/users/14958380), ::{ flag=TR }:: [emrepkrr](https://osu.ppy.sh/users/19034045) |
+| Mappool selector | **::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674)**, ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [spray-](https://osu.ppy.sh/users/16750823) |
+| Mappool quality assurance | ::{ flag=TR }:: [garvanturr](https://osu.ppy.sh/users/9143539), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [yeyygitalp](https://osu.ppy.sh/users/26015902) |
+| Mappool playtester | ::{ flag=ES }:: [ESCRUPULILLO](https://osu.ppy.sh/users/18217876), ::{ flag=RU }:: [fedotoff](https://osu.ppy.sh/users/7351448), ::{ flag=DE }:: [Inflictives](https://osu.ppy.sh/users/10243433), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [Shinkiro](https://osu.ppy.sh/users/6093148), ::{ flag=TR }:: [spray-](https://osu.ppy.sh/users/16750823) |
+| Mapper | ::{ flag=DE }:: [0ppInOsu](https://osu.ppy.sh/users/12551840), ::{ flag=TR }:: [Akhaten](https://osu.ppy.sh/users/12474487), ::{ flag=HK }:: [Arushii](https://osu.ppy.sh/users/15664628), ::{ flag=PH }:: [Auriga](https://osu.ppy.sh/users/15563306), ::{ flag=TR }:: [Coeminals](https://osu.ppy.sh/users/10213311), ::{ flag=VN }:: [Ducky-](https://osu.ppy.sh/users/9351565), ::{ flag=TR }:: [Ekrem Imamoglu](https://osu.ppy.sh/users/10801545), ::{ flag=TR }:: [garvanturr](https://osu.ppy.sh/users/9143539), ::{ flag=DE }:: [Keke Tang](https://osu.ppy.sh/users/16551148), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=US }:: [nooj](https://osu.ppy.sh/users/8271086), ::{ flag=US }:: [nuclei](https://osu.ppy.sh/users/25134566), ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TW }:: [oTwinkle](https://osu.ppy.sh/users/15095654), ::{ flag=AU }:: [ralsricat](https://osu.ppy.sh/users/12318332), ::{ flag=CY }:: [ravensong](https://osu.ppy.sh/users/10772580), ::{ flag=VN }:: [S_ounds](https://osu.ppy.sh/users/18230278), ::{ flag=TR }:: [Seiioh](https://osu.ppy.sh/users/9655150), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [Take](https://osu.ppy.sh/users/19322780), ::{ flag=FR }:: [Timevid](https://osu.ppy.sh/users/9125335) |
+| Hitsounder | ::{ flag=DE }:: [Celektus](https://osu.ppy.sh/users/4294993), ::{ flag=TR }:: [Coeminals](https://osu.ppy.sh/users/10213311), ::{ flag=PH }:: [Mejiro Dober](https://osu.ppy.sh/users/19425672), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674) |
+| Streamer | **::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741)**, ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [RokeT-](https://osu.ppy.sh/users/17151907) |
+| Commentator | **::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741)**, ::{ flag=TR }:: [AgorelL](https://osu.ppy.sh/users/16725049), ::{ flag=TR }:: [Cherpi](https://osu.ppy.sh/users/14828870), ::{ flag=TR }:: [Cureleux](https://osu.ppy.sh/users/25429183), ::{ flag=TR }:: [dragonsaga](https://osu.ppy.sh/users/4982690), ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [emrepkrr](https://osu.ppy.sh/users/19034045), ::{ flag=TR }:: [Lypophr3nia](https://osu.ppy.sh/users/34947009), ::{ flag=TR }:: [mostiza](https://osu.ppy.sh/users/7354243), ::{ flag=TR }:: [mustifafifax](https://osu.ppy.sh/users/14473721), ::{ flag=TR }:: [Nitrur](https://osu.ppy.sh/users/29649528), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [RokeT-](https://osu.ppy.sh/users/17151907), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [vuluvulu](https://osu.ppy.sh/users/35459987) |
+| Commentator (special guests) | ::{ flag=TR }:: [-K3RIM-](https://osu.ppy.sh/users/9187208), ::{ flag=TR }:: [ACLFT](https://osu.ppy.sh/users/25540750), ::{ flag=TR }:: [arda](https://osu.ppy.sh/users/15019357), ::{ flag=TR }:: [Cheas](https://osu.ppy.sh/users/15596748), ::{ flag=TR }:: [Clutch](https://osu.ppy.sh/users/14958380), ::{ flag=TR }:: [dia23](https://osu.ppy.sh/users/9365664), ::{ flag=TR }:: [garvanturr](https://osu.ppy.sh/users/9143539), ::{ flag=TR }:: [Liery](https://osu.ppy.sh/users/11551991), ::{ flag=TR }:: [me\_ozix](https://osu.ppy.sh/users/24326661), ::{ flag=TR }:: [Metro Turizm](https://osu.ppy.sh/users/14113711), ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407), ::{ flag=TR }:: [Serdar](https://osu.ppy.sh/users/9197580), ::{ flag=TR }:: [tingirmin](https://osu.ppy.sh/users/9027514), ::{ flag=TR }:: [Zybit](https://osu.ppy.sh/users/15333513) |
 | Tournament design | **::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437)**, ::{ flag=TR }:: [Aeshma](https://osu.ppy.sh/users/13845312), ::{ flag=TR }:: [BatuhanYtho](https://osu.ppy.sh/users/12091015), ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [lustorium](https://osu.ppy.sh/users/10066998), ::{ flag=TR }:: [mostiza](https://osu.ppy.sh/users/7354243), ::{ flag=TR }:: [Nitrur](https://osu.ppy.sh/users/29649528), ::{ flag=TR }:: [Noreu](https://osu.ppy.sh/users/21073648), ::{ flag=TR }:: [Seiioh](https://osu.ppy.sh/users/9655150) |
-| Referee | **::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647)**, ::{ flag=TR }:: [Cureleux](https://osu.ppy.sh/users/25429183), ::{ flag=TR }:: [HeroBabaa](https://osu.ppy.sh/users/29914048), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Nitrur](https://osu.ppy.sh/users/29649528), ::{ flag=TR }:: [purehalcyon](https://osu.ppy.sh/users/18258854), ::{ flag=TR }:: [Soroic](https://osu.ppy.sh/users/17163162), ::{ flag=TR }:: [Sweet](https://osu.ppy.sh/users/19650017), ::{ flag=TR }:: [vuluvulu](https://osu.ppy.sh/users/35459987) |
+| Referee | **::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647)**, ::{ flag=TR }:: [Cureleux](https://osu.ppy.sh/users/25429183), ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [HeroBabaa](https://osu.ppy.sh/users/29914048), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Nitrur](https://osu.ppy.sh/users/29649528), ::{ flag=TR }:: [purehalcyon](https://osu.ppy.sh/users/18258854), ::{ flag=TR }:: [RokeT-](https://osu.ppy.sh/users/17151907), ::{ flag=TR }:: [Soroic](https://osu.ppy.sh/users/17163162), ::{ flag=TR }:: [Sweet](https://osu.ppy.sh/users/19650017), ::{ flag=TR }:: [vuluvulu](https://osu.ppy.sh/users/35459987) |
 | Statistician | **::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034)**, ::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647) |
 | Developer | ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647), ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437) |
-| Musician | [Kagankaravana](https://www.youtube.com/@kagankaravana) |
+| Musician | [Akiri](https://osu.ppy.sh/beatmaps/artists/401), [flures](https://soundcloud.com/realflures), [Kagankaravana](https://www.youtube.com/@kagankaravana), [sumi](https://soundcloud.com/sumi-83860761), [XenjeS](https://osu.ppy.sh/beatmaps/artists/482), [Xennzor](https://soundcloud.com/xennzordnb), [Zeforex](https://soundcloud.com/zeforex), [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) |
 
 Group leaders are denoted in **bold**.
 
 ## Links
 
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/150VzfGWk3JyOoBBNDsJ_8NIgDPurbKbBbW-jMI-sRkI/edit?usp=sharing)**
-- [Weekly statistics](https://docs.google.com/spreadsheets/d/1jP4C3hDWVEz_NL7ue3uoTixqE_bYSRTkpiS2BtcVjX0/edit?usp=sharing)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2211098)
 - [Livestream](https://www.twitch.tv/osutrlive)
-- [Livestream archive](https://youtube.com/@osutrlive)
+- [Livestream archive](https://www.youtube.com/@osutrlive)
 - [Discord server](https://discord.gg/osuturkiye)
 - [Detailed ruleset](https://osuturkiye.com/wiki/otr26)
-- Challonge brackets: [Group Stage](https://challonge.com/otr26grup)
+- Challonge brackets: [Group Stage](https://challonge.com/otr26grup) / [Elimination Stage](https://challonge.com/OTR26cifteleme)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/198) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
@@ -110,7 +112,7 @@ Group leaders are denoted in **bold**.
 | Cortisol | ::{ flag=TR }:: **[dark sunn](https://osu.ppy.sh/users/20485889)**, ::{ flag=TR }:: [dodo0317](https://osu.ppy.sh/users/36458923) | 14.911pp |
 | Opsiyonel | ::{ flag=TR }:: **[Rokuchi](https://osu.ppy.sh/users/36182718)**, ::{ flag=TR }:: [Lnk](https://osu.ppy.sh/users/21053038) | 14.642pp |
 | İBO VE GAMİNG | ::{ flag=TR }:: **[onlyforK](https://osu.ppy.sh/users/29900877)**, ::{ flag=TR }:: [NaberMudur](https://osu.ppy.sh/users/19385395) | 14.487pp |
-| jembeyler | ::{ flag=TR }:: **[getsplited](https://osu.ppy.sh/users/17760960)**, ::{ flag=TR }:: [Waeif](https://osu.ppy.sh/users/25530991) | 14.381pp |
+| jembeyler | ::{ flag=TR }:: **[getsplited](https://osu.ppy.sh/users/17760960)**, ::{ flag=TR }:: [ayberk](https://osu.ppy.sh/users/25530991) | 14.381pp |
 | kaafi | ::{ flag=TR }:: **[erukedi](https://osu.ppy.sh/users/19693888)**, ::{ flag=TR }:: [hilmicem](https://osu.ppy.sh/users/37606341) | 14.298pp |
 | 8-5 mesai | ::{ flag=TR }:: **[Piince](https://osu.ppy.sh/users/17048466)**, ::{ flag=TR }:: [Scawroad](https://osu.ppy.sh/users/17636719) | 13.836pp |
 | Aşuk ile Maşuk | ::{ flag=TR }:: **[NeoShnn](https://osu.ppy.sh/users/33623009)**, ::{ flag=TR }:: [cago](https://osu.ppy.sh/users/22443340) | 13.616pp |
@@ -129,174 +131,376 @@ Group leaders are denoted in **bold**.
 | denizli horozları | ::{ flag=TR }:: **[kufukami](https://osu.ppy.sh/users/37929479)**, ::{ flag=TR }:: [without mercy](https://osu.ppy.sh/users/28436050) | 6.981pp |
 | low acc or quit | ::{ flag=TR }:: **[Emrecan](https://osu.ppy.sh/users/39182209)**, ::{ flag=TR }:: [fishtuna](https://osu.ppy.sh/users/38898878) | 4.769pp |
 
-Captains are denoted in **bold**. 
+Captains are denoted in **bold**.
 
-## Match schedule: Group Stage
+## Podium
 
-### Group A
+![OTR26 podium](img/podium.jpg "OTR26 podium")
 
-#### Friday, 3 July 2026
+## Mappools
 
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| A1 | steal balls and run | Pinterest kedipp | [Jul 03 (Fri) 15:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260703T120000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+### Grand Finals
 
-#### Saturday, 4 July 2026
+**[Download the mappack here! (183 MB)](https://osutr.s-ul.eu/ZrUy0tTF.zip)**\
+[View the showcase VOD here](https://www.youtube.com/watch?v=WrWk2D4pmgg)
 
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| A8 | washed gang | :steamhappy: | [Jul 04 (Sat) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+- No Mod
+  1. [Jeff Williams & Casey Lee Williams - Caffeine (feat. Lamar Hall) (Tycani) \[00:58:838 - afraid of teekyuu\]](https://osu.ppy.sh/beatmapsets/1972828#osu/4093667)
+  2. [BABYMETAL - Amore - Aoi Hoshi - (Bibbity Bill) \[Resonating Echo\]](https://osu.ppy.sh/beatmapsets/751611#osu/1582287)
+  3. [Tyler, The Creator - Sugar On My Tongue (an3) \[Sweet\]](https://osu.ppy.sh/beatmapsets/2408698#osu/5228654)
+  4. [XenjeS - GEAR SHIFT (nooj, 0ppInOsu) \[NUKED MAP 4\]](https://osu.ppy.sh/beatmapsets/2596926#osu/5802529)
+  5. [Cattle Decapitation - Circo Inhumanitas (HyperPigeon) \[Extra\]](https://osu.ppy.sh/beatmapsets/2025793#osu/4365546)
+  6. [Rish feat. Choko - Paa ~PaPaPaPaa ver~ (xidorn) \[pa pa pa pa papa pa\]](https://osu.ppy.sh/beatmapsets/2392242#osu/5179198)
+- Hidden
+  1. [Finger Eleven - Paralyzer (radar, piklopedia) \[xplklo's Expert\]](https://osu.ppy.sh/beatmapsets/2339744#osu/5072341)
+  2. [Ellen Joe (CV: Shion Wakayama) - MoeChakkaFire (vetoed) \[shaaaak\]](https://osu.ppy.sh/beatmapsets/2545454#osu/5638582)
+  3. [forest - 60th Summer of Love (Faito) \[eXtReme\]](https://osu.ppy.sh/beatmapsets/1556633#osu/3179973)
+- Hard Rock
+  1. [sokoninaru - saitei (Zelq) \[zelq's extra\]](https://osu.ppy.sh/beatmapsets/1883924#osu/4390052)
+  2. [Xennzor & flures - Restless (Okoayu) \[oko's Suffering (OTR26 Edit)\]](https://osu.ppy.sh/beatmapsets/2596930#osu/5802534)
+  3. [Gesu No Kiwami Otome - Watashi Igai Watashi Janai no (Hamano) \[Bean-jam cakes.\]](https://osu.ppy.sh/beatmapsets/2487518#osu/5462226)
+- Double Time
+  1. [ClariS - Connect (hime) \[Colorful\]](https://osu.ppy.sh/beatmapsets/1935954#osu/4001316)
+  2. [Ajda Pekkan - O Benim Dunyam (Orkay) \[Insane\]](https://osu.ppy.sh/beatmapsets/2596935#osu/5802542)
+  3. [EmoCosine - Cutter (Ixcors) \[Ix's Insane\]](https://osu.ppy.sh/beatmapsets/2471756#osu/5585702)
+  4. [KOTOKO - Wing my Way -Album Mix- (k0alcj) \[Reach for the Shine\]](https://osu.ppy.sh/beatmapsets/2479395#osu/5438664)
+- Forced Mod
+  1. [Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix) (IOException) \[Flower Dance\]](https://osu.ppy.sh/beatmapsets/822937#osu/2103267)
+  2. [paranoid void - Utsukushii Kodoku (chiv) \[Escapism \[BOB EDIT\]\]](https://osu.ppy.sh/beatmapsets/2459221#osu/5378366)
+  3. [Lucy Bedroque - MADAME LUCY (oatmilk) \[SYXXSYXX\]](https://osu.ppy.sh/beatmapsets/2577992#osu/5743578)
+- Tiebreaker
+  1. **[Akiri x ZxNX feat. eili - Hilarya (Timevid, Ducky-, ralsricat, oTwinkle, Arushii, S_ounds, nuclei) \[Densha Galaxie\]](https://osu.ppy.sh/beatmapsets/2596913#osu/5802506)**
 
-#### Sunday, 5 July 2026
+### Finals
 
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| A4 | steal balls and run | Opsiyonel | [Jul 05 (Sun) 15:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T120000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| A5 | Pinterest kedipp | washed gang | [Jul 05 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+**[Download the mappack here! (156 MB)](https://osutr.s-ul.eu/VxNHIbdS.zip)**\
+[View the showcase VOD here](https://www.youtube.com/watch?v=PY52Ok7CGgw)
 
-#### Monday, 6 July 2026
+- No Mod
+  1. [Coda - Fighting Gold (fartownik) \[Vento Aureo\]](https://osu.ppy.sh/beatmapsets/1884904#osu/3880922)
+  2. [ParagonX9 - Chaoz Fantasy (onlyforyou) \[egg pain++\]](https://osu.ppy.sh/beatmapsets/89799#osu/244487)
+  3. [Stormzy - Big For Your Boots (Yusomi) \[#Merky\]](https://osu.ppy.sh/beatmapsets/1200265#osu/2499534)
+  4. [N2 - NULL APOPHENIA (LyeRR) \[0pp's ANOTHER (OTR26 EDIT)\]](https://osu.ppy.sh/beatmapsets/2593179#osu/5789947)
+  5. [Stazma The Junglechrist - Burn Your TV (Silverboxer) \[Chaos\]](https://osu.ppy.sh/beatmapsets/2271539#osu/4838497)
+  6. [Tarkan - Acimayacak (Orkay) \[Seductive\]](https://osu.ppy.sh/beatmapsets/2593146#osu/5789875)
+- Hidden
+  1. [Kenshi Yonezu - KICK BACK (iljaaz) \[IMPURE'S CHAIN\]](https://osu.ppy.sh/beatmapsets/1864481#osu/3848197)
+  2. [inabakumori - Relayouter (jykca) \[Repetition of Love (Short ver.)\]](https://osu.ppy.sh/beatmapsets/2056084#osu/4296401)
+  3. [Vorso - Heliosphere (Wispy) \[Coronal Mass Ejection\]](https://osu.ppy.sh/beatmapsets/2455343#osu/5460183)
+- Hard Rock
+  1. [Pegboard Nerds x MisterWives - Coffins (NeilPerry) \[Neil x LCFC's Conflux\]](https://osu.ppy.sh/beatmapsets/823272#osu/1725369)
+  2. [la la larks - Q AND A -Album Ver.- (Keqing) \[Sorrow\]](https://osu.ppy.sh/beatmapsets/1557319#osu/3181344)
+  3. [xi - over the top (Rino Inosaki) \[MAAADBOT'S EXTREME\]](https://osu.ppy.sh/beatmapsets/2298941#osu/5012130)
+- Double Time
+  1. [Sangnoksu feat. SeeU - Maple Shower (Reiszen) \[Autumn\]](https://osu.ppy.sh/beatmapsets/1874516#osu/3857256)
+  2. [senya - Tamashii no Katari ni Michibikarete (Satellite) \[kowari's Lunatic\]](https://osu.ppy.sh/beatmapsets/2129313#osu/4477410)
+  3. [EPICA - Fight Your Demons (LMT) \[fight your primal urges\]](https://osu.ppy.sh/beatmapsets/1301404#osu/2699264)
+  4. [Kenichi Chiba - dreamland feat. EVO+ (garvanturr) \[Insane\]](https://osu.ppy.sh/beatmapsets/2593166#osu/5789927)
+- Forced Mod
+  1. [Zeforex - ANGELUS UNI-ALATUS (Orkay) \[VORAGO\]](https://osu.ppy.sh/beatmapsets/2593169#osu/5789931)
+  2. [paraoka - Astra walkthrough (ScubDomino) \[Corsace\]](https://osu.ppy.sh/beatmapsets/1563649#osu/3193066)
+  3. [vivid undress - FANFARE KOUSHINKYOKU (kelinimo) \[Extra\]](https://osu.ppy.sh/beatmapsets/1738049#osu/3813026)
+- Tiebreaker
+  1. **[Naikou - Beyond Reality (ajmosca) \[Reality Distortion\]](https://osu.ppy.sh/beatmapsets/2163553#osu/4562997)**
 
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| A9 | washed gang | Opsiyonel | [Jul 06 (Mon) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260706T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+### Semifinals
 
-#### Friday, 10 July 2026
+**[Download the mappack here! (137 MB)](https://lyerr.s-ul.eu/UbvGohMz.zip)**\
+[View the showcase VOD here](https://www.youtube.com/watch?v=FJJDekNiChw)
 
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| A10 | :steamhappy: | Opsiyonel | [Jul 10 (Fri) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260710T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+- No Mod
+  1. [DAYOUNG - body (LycaonMyHusband) \[let your body talk to me\]](https://osu.ppy.sh/beatmapsets/2461520#osu/5385047)
+  2. [Adust Rain - Nevxxxxerland (-database-) \[-DATABASE-'s EXTRA\]](https://osu.ppy.sh/beatmapsets/2046568#osu/4295556)
+  3. [Itou Miku - Shocking Blue (Vanya) \[Vanya's Extra\]](https://osu.ppy.sh/beatmapsets/2123966#osu/4551633)
+  4. [sumi - Fragmented Reality (Seiioh) \[Dual Nature\]](https://osu.ppy.sh/beatmapsets/2589239#osu/5776670)
+  5. [NIWASHI - I Am Amethyst (-jordan-) \[Violet\]](https://osu.ppy.sh/beatmapsets/2002849#osu/4165053)
+- Hidden
+  1. [DJ SHARPNEL - Mmmmmmm (tilda, meloge, KPMY, catgirlflowers, yuiyamu, pearls) \[yurukyankyan Collab Extra\]](https://osu.ppy.sh/beatmapsets/2475283#osu/5460256)
+  2. [Thirty Seconds To Mars - The Kill (Bury Me) (aishiteiru-) \[aishiteiru's Expert\]](https://osu.ppy.sh/beatmapsets/1988999#osu/4476097)
+  3. [Sephid - Break The Seal (Ekrem Imamoglu) \[Oops! All 6's\]](https://osu.ppy.sh/beatmapsets/2589253#osu/5776698)
+- Hard Rock
+  1. [Mylta - Mou Ichido Matane to Iwasete yo (feat. meimei) (Mir) \[Memoire\]](https://osu.ppy.sh/beatmapsets/2475201#osu/5425831)
+  2. [ETIA. - Kagami no Mary Sue (wa_) \[Eternal\]](https://osu.ppy.sh/beatmapsets/500743#osu/1065689)
+  3. [underscores - Stupid (Can't run from the urge) (wyit) \[Junkie church sunday service\]](https://osu.ppy.sh/beatmapsets/2206698#osu/4672521)
+- Double Time
+  1. [Sebnem Ferah - Savas Boyasi (Auriga, Keke Tang) \[Vay (OTR26 Edit)\]](https://osu.ppy.sh/beatmapsets/2589236#osu/5776660)
+  2. [-45 - Midorigo Queen Bee (44444444444444) \[4\]](https://osu.ppy.sh/beatmapsets/2502268#osu/5505750)
+  3. [Adust Rain - Imperfect Cherry Blossom (Sanch-KK) \[KK's Lunatic\]](https://osu.ppy.sh/beatmapsets/2069184#osu/4460247)
+- Forced Mod
+  1. [trung-nova - Prism of Chroma (Uruha Migaki) \[Uruha's Extra\]](https://osu.ppy.sh/beatmapsets/2551916#osu/5661763)
+  2. [Method Man & Redman - Da Rockwilder (Dada) \[Blackout \[MRC ver.\]\]](https://osu.ppy.sh/beatmapsets/2120649#osu/4455531)
+  3. [Sydosys - Neptune (Elcheer) \[Triton\]](https://osu.ppy.sh/beatmapsets/2163548#osu/4562987)
+- Tiebreaker
+  1. **[Camellia - Controlled Dive (Tycani) \[Final Descent\]](https://osu.ppy.sh/beatmapsets/1952344#osu/4042897)**
 
-#### Saturday, 11 July 2026
+### Quarterfinals
 
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| A6 | Pinterest kedipp | :steamhappy: | [Jul 11 (Sat) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+**[Download the mappack here! (146 MB)](https://lyerr.s-ul.eu/IHYJC7uO.zip)**\
+[View the showcase VOD here](https://www.youtube.com/watch?v=W3QkqFEfKjw)
 
-#### Sunday, 12 July 2026
+- No Mod
+  1. [Ultra Bra - Heppa (Karhu) \[hepo, humma, juhta, kaakki, liinaharja, luuska, polle, ratsu, ori, ruuna, tamma\]](https://osu.ppy.sh/beatmapsets/2470965#osu/5412808)
+  2. [Assemble The Chariots - As Was Seen by Augurers (ravensong) \[Unyielding Night\]](https://osu.ppy.sh/beatmapsets/2585548#osu/5766682)
+  3. [Advantage Lucy - Metro (Weoweet) \[Weoweet's .-. ..- -. .- .-- .- -.-- (OTR26 Edit)\]](https://osu.ppy.sh/beatmapsets/2585582#osu/5766803)
+  4. [Akov & Billain - The Syndicate (Cut Ver.) (LeCandy) \[LeCandy's Expert\]](https://osu.ppy.sh/beatmapsets/2449466#osu/5420616)
+  5. [Lily - Scarlet Rose (val0108) \[0108 style\]](https://osu.ppy.sh/beatmapsets/41686#osu/131564)
+- Hidden
+  1. [Knife - Jouzai (Coeminals) \[Extra\]](https://osu.ppy.sh/beatmapsets/2585584#osu/5766810)
+  2. [YurryCanon - Suicide Parade (Yoanie) \[reDemise\]](https://osu.ppy.sh/beatmapsets/2082395#osu/4361043)
+  3. [Hana - crocodile tears (gazimal, ponbot) \[ponbot & gazimal's collab x\]](https://osu.ppy.sh/beatmapsets/2051290#osu/4465444)
+- Hard Rock
+  1. [KARUT - Encountered (Atlust) \[Atlust's Torment\]](https://osu.ppy.sh/beatmapsets/2509717#osu/5528949)
+  2. [LE SSERAFIM - ANTIFRAGILE (hifu) \[chaechae\]](https://osu.ppy.sh/beatmapsets/2066922#osu/4324052)
+  3. [Mirkelam - Hey Sevgilim (Take) \[HR3\]](https://osu.ppy.sh/beatmapsets/2585595#osu/5766831)
+- Double Time
+  1. [Olivia Rodrigo - get him back! (jas) \[jas' insane\]](https://osu.ppy.sh/beatmapsets/2062732#osu/4364944)
+  2. [TRUSTRICK - FLYING FAFNIR (kowari) \[kowari's Insane\]](https://osu.ppy.sh/beatmapsets/2278203#osu/4894566)
+  3. [yanaginagi - Megumi no Ame (Asterisk DnB Remix) (Two Chorus Version) (Rentai) \[IROHA IS BEST GIRL\]](https://osu.ppy.sh/beatmapsets/1952083#osu/4042287)
+- Forced Mod
+  1. [The Sundays - My Finest Hour (giyokon) \[Extra\]](https://osu.ppy.sh/beatmapsets/2175591#osu/4593874)
+  2. [Midkokokuni.com + Hinayuri & Tsuneo - hikari no ruju (pip) \[koguma, o074, & pip's strawberry\]](https://osu.ppy.sh/beatmapsets/2146195#osu/4520642)
+  3. [Lime - Pixel Princess (Wavewy) \[Extra\]](https://osu.ppy.sh/beatmapsets/2129838#osu/4478624)
+- Tiebreaker
+  1. **[Helblinde - Nastrond (Blacky Design, Arushii, Amon-, yeyygitalp) \[Oblivion\]](https://osu.ppy.sh/beatmapsets/2542183#osu/5628934)**
 
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| A2 | steal balls and run | washed gang | [Jul 12 (Sun) 17:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T140000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| A3 | steal balls and run | :steamhappy: | [Jul 12 (Sun) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| A7 | Pinterest kedipp | Opsiyonel | [Jul 12 (Sun) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+### Group Stage
 
-### Group B
+**[Download the mappack here! (121 MB)](https://lyerr.s-ul.eu/98Blxxlw.zip)**\
+[View the showcase VOD here](https://www.youtube.com/watch?v=OIHdk48V86Q)
 
-#### Saturday, 4 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| B4 | 21cm pp limit | jembeyler | [Jul 04 (Sat) 17:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T140000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| B10 | Aşuk ile Maşuk | jembeyler | [Jul 04 (Sat) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-#### Sunday, 5 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| B8 | W puskevit | Aşuk ile Maşuk | [Jul 05 (Sun) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-#### Monday, 6 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| B5 | cansın | W puskevit | [Jul 06 (Mon) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260706T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-#### Tuesday, 7 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| B1 | 21cm pp limit | cansın | [Jul 07 (Tue) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260707T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-#### Saturday, 11 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| B2 | 21cm pp limit | W puskevit | [Jul 11 (Sat) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| B3 | 21cm pp limit | Aşuk ile Maşuk | [Jul 11 (Sat) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| B7 | cansın | jembeyler | [Jul 11 (Sat) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-#### Sunday, 12 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| B6 | cansın | Aşuk ile Maşuk | [Jul 12 (Sun) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| B9 | W puskevit | jembeyler | [Jul 12 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-### Group C
-
-#### Friday, 3 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| C1 | Dede ve Torunu | alındınmı? .p | [Jul 03 (Fri) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260703T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| C4 | Dede ve Torunu | takım olak | [Jul 03 (Fri) 22:30 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260703T193000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-#### Saturday, 4 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| C8 | barigadam | AvazAvazAğlayanYüz | [Jul 04 (Sat) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-#### Sunday, 5 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| C5 | alındınmı? .p | barigadam | [Jul 05 (Sun) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| C10 | AvazAvazAğlayanYüz | takım olak | [Jul 05 (Sun) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-#### Saturday, 11 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| C6 | alındınmı? .p | AvazAvazAğlayanYüz | [Jul 11 (Sat) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| C9 | barigadam | takım olak | [Jul 11 (Sat) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-#### Sunday, 12 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| C2 | Dede ve Torunu | barigadam | [Jul 12 (Sun) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| C3 | Dede ve Torunu | AvazAvazAğlayanYüz | [Jul 12 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| C7 | alındınmı? .p | takım olak | [Jul 12 (Sun) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-### Group D
-
-#### Saturday, 4 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| D4 | farketmez | ördek | [Jul 04 (Sat) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| D5 | cok zeki takim | zilla | [Jul 04 (Sat) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| D10 | Folklar | ördek | [Jul 04 (Sat) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-#### Sunday, 5 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| D1 | farketmez | cok zeki takim | [Jul 05 (Sun) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| D8 | zilla | Folklar | [Jul 05 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-#### Saturday, 11 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| D2 | farketmez | zilla | [Jul 11 (Sat) 17:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T140000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| D3 | farketmez | Folklar | [Jul 11 (Sat) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| D7 | cok zeki takim | ördek | [Jul 11 (Sat) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-#### Sunday, 12 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| D6 | cok zeki takim | Folklar | [Jul 12 (Sun) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| D9 | zilla | ördek | [Jul 12 (Sun) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-
-## Match results
+- No Mod
+  1. [Hepsi - Yalan (Akhaten) \[Hani Bensiz Bir Hictin\]](https://osu.ppy.sh/beatmapsets/2577712#osu/5742699)
+  2. [Xi - Densetsu no Sabori Shinigami ~ Make a quick escape (hime, Toumei Dragon) \[Cellina & TD's Collab Extra\]](https://osu.ppy.sh/beatmapsets/1621473#osu/3435049)
+  3. [King Krule - Dum Surfer (dsco) \[Don't Suffer\]](https://osu.ppy.sh/beatmapsets/716193#osu/1513180)
+  4. [patirchev - Angelfish (Mir) \[Bubbles\]](https://osu.ppy.sh/beatmapsets/1746011#osu/3571449)
+  5. [KOKIA - Chouwa oto ~with reflection~ (Cut Ver.) (PandaHero) \[Expert\]](https://osu.ppy.sh/beatmapsets/2156509#osu/4546068)
+- Hidden
+  1. [Sayako - Decide, longitude (feat. Lucy Bedroque) (oatmilk) \[~talk to me~\]](https://osu.ppy.sh/beatmapsets/2527076#osu/5582926)
+  2. [Laufey - From The Start (Ditzy Doo) \[Mekadon's Soliloquy\]](https://osu.ppy.sh/beatmapsets/2096549#osu/5242244)
+- Hard Rock
+  1. [Uchida Maaya - Soushou Innocence (Laurier) \[CrystLer\]](https://osu.ppy.sh/beatmapsets/171215#osu/414217)
+  2. [HuMeR - ChaserXX (KKipalt) \[KKip's Another\]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
+- Double Time
+  1. [Radiohead - Airbag (moonpoint) \[Insane\]](https://osu.ppy.sh/beatmapsets/2122619#osu/4461463)
+  2. [yuki - Clammbon (pnky) \[Insane\]](https://osu.ppy.sh/beatmapsets/1737221#osu/3588814)
+  3. [Dimrain47 - Cloud Control (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/1550498#osu/3168379)
+- Forced Mod
+  1. [Kano - Sukisuki Zecchoushou (Doormat) \[Doormat's Extra\]](https://osu.ppy.sh/beatmapsets/2191426#osu/4811028)
+  2. [goreshit - burn this moment into the retina of my eye (grumd) \[insane\]](https://osu.ppy.sh/beatmapsets/359890#osu/830322)
+  3. [Akiri feat. InabaYap - Tonight We Fly (nik) \[Extra (OTR26 Ver.)\]](https://osu.ppy.sh/beatmapsets/2577746#osu/5742787)
+- Tiebreaker
+  1. **[Chitose Haru & Kumagai Eri - Perfect Free (RLC, Nathan) \[xlNathan's Concert Extra\]](https://osu.ppy.sh/beatmapsets/456387#osu/990325)**
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1ZFUz6Az6mGqv6qo2WL1XQ7ZadocvdH125vnv3bQgi-8?rm=minimal).\
-[View the Qualifier seed reveal VOD here](https://youtu.be/MGS1g9xlZlg?si=aeU4BPz3CXABO7PD)
+**[Download the mappack here! (79.4 MB)](https://lyerr.s-ul.eu/okiPGQqD.zip)**\
+[View the showcase VOD here](https://www.youtube.com/watch?v=q4dDwSes-0c)
+
+- No Mod
+  1. [Nekomata Master - Despair of Elferia (dakiwii) \[An\]](https://osu.ppy.sh/beatmapsets/2239664#osu/4759737)
+  2. [blobdash - ARE WE FLOATING IN SPACE (DeviousPanda) \[EXPERT\]](https://osu.ppy.sh/beatmapsets/2206504#osu/4672134)
+  3. [AZKi x Such - GimmexGimme (lapix Remix) (fooders) \[she gimme gimme\]](https://osu.ppy.sh/beatmapsets/1693859#osu/3461180)
+  4. [NIWASHI - Y (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/1689372#osu/3452317)
+- Hidden
+  1. [Shoji Meguro feat. Lyn - Last Surprise (Daycore) \[I Fuzed Black Ooze And I Liked It\]](https://osu.ppy.sh/beatmapsets/2197607#osu/4650494)
+  2. [Denkishiki Karen Ongaku Shuudan - Silver Orbit (Lasse) \[Despair\]](https://osu.ppy.sh/beatmapsets/1062758#osu/2225505)
+- Hard Rock
+  1. [VeetaCrush - Mole (AncuL) \[AncuL's Extra\]](https://osu.ppy.sh/beatmapsets/1574603#osu/3756543)
+  2. [Kagankaravana - Ego Rock (feat. Kasane Teto) (SStoney) \[I need you in my life\]](https://osu.ppy.sh/beatmapsets/2570441#osu/5720331)
+- Double Time
+  1. [Hagumi Nishizawa - My Hero! Up to you! (GodHacc) \[Insane\]](https://osu.ppy.sh/beatmapsets/1840883#osu/3782347)
+  2. [underscores - Music (quantumvortex) \[quantumvortex's Insane\]](https://osu.ppy.sh/beatmapsets/2542651#osu/5647257)
+  3. [Nujabes - Lady Brown (feat. Cise Star) (Boden) \[Boden's Insane\]](https://osu.ppy.sh/beatmapsets/2477987#osu/5495728)
+
+## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/18LUMW0yEIo-Bbl1Zc25QOgwIcQPjIs0E_TNQhHIL6JI/edit?rm=minimal).
+
+Saturday, 8 August 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 21 | bak | 3 | **7** | **enes batur** | [#1](https://osu.ppy.sh/community/matches/121657637) | [#1](https://www.youtube.com/watch?v=Sq71qipII5o) |
+
+Sunday, 9 August 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 22 | baaa mi diyo la? :O | 4 | **7** | **enes batur** | [#1](https://osu.ppy.sh/community/matches/121663630) | [#1](https://www.youtube.com/watch?v=ADppM4v4tPI) |
+| 23 | enes batur | 2 | **7** | **baaa mi diyo la? :O** | [#1](https://osu.ppy.sh/community/matches/121664142) | [#1](https://www.youtube.com/watch?v=v09cQYIusbk) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1B7Xkqc8vmn5hnoTSqQy_7d9EVj2EeQUqf5mRXSLn_P0/edit?rm=minimal).
+
+Saturday, 1 August 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 17 | steal balls and run | 5 | **7** | **bak** | [#1](https://osu.ppy.sh/community/matches/121616332) | [#1](https://www.youtube.com/watch?v=60IotkqXwKQ) |
+| 18 | farketmez | 4 | **7** | **Dede ve Torunu** | [#1](https://osu.ppy.sh/community/matches/121618752) | [#1](https://www.youtube.com/watch?v=kzVaK5CUtKc) |
+
+Sunday, 2 August 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 19 | **bak** | **7** | 4 | Dede ve Torunu | [#1](https://osu.ppy.sh/community/matches/121623444) | [#1](https://www.youtube.com/watch?v=aAUQBPW7vB8) |
+| 20 | **baaa mi diyo la? :O** | **7** | 6 | enes batur | [#1](https://osu.ppy.sh/community/matches/121624065) | [#1](https://www.youtube.com/watch?v=3OygTdx2DpA) |
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1l3h5fCTFXzS04-38KFJeM3DQfUVo1IBAoykEXUntMWE/edit?rm=minimal).
+
+Friday, 24 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 9 | **steal balls and run** | **6** | 5 | 21cm pp limit | [#1](https://osu.ppy.sh/community/matches/121572437) | [#1](https://www.youtube.com/watch?v=-TCgTt0kJUw) |
+
+Saturday, 25 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 11 | alındınmı? .p | 5 | **6** | **Pinterest kedipp** | [#1](https://osu.ppy.sh/community/matches/121584064) | [#1](https://www.youtube.com/watch?v=inn5ABOIdxA) |
+| 15 | **baaa mi diyo la? :O** | **6** | 1 | bak | [#1](https://osu.ppy.sh/community/matches/121577599) | [#1](https://www.youtube.com/watch?v=K3VSbiLjBFc) |
+| 16 | Dede ve Torunu | 0 | **6** | **enes batur** | *win by default* |  |
+
+Sunday, 26 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 12 | W puskevit | 2 | **6** | **farketmez** | [#1](https://osu.ppy.sh/community/matches/121582930) | [#1](https://www.youtube.com/watch?v=TpGKY2q5DZM) |
+| 10 | cok zeki takim | 3 | **6** | **acil feet** | [#1](https://osu.ppy.sh/community/matches/121584064) | [#1](https://www.youtube.com/watch?v=5iyBnzJ-pXo) |
+| 14 | Pinterest kedipp | 0 | **6** | **farketmez** | *win by default* |  |
+
+Monday, 27 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 13 | **steal balls and run** | **6** | 4 | acil feet | [#1](https://osu.ppy.sh/community/matches/121587654) | [#1](https://www.youtube.com/watch?v=EUo_leBgaew) |
+
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1qgxHoj6mTkc07h5gmVBQHhKlLnBFNTyAp-SHA5B424U/edit?rm=minimal).
+
+Sunday, 19 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 5 | **steal balls and run** | **6** | 0 | zilla | [#1](https://osu.ppy.sh/community/matches/121541326) | [#1](https://www.youtube.com/watch?v=es6jsrCWCC8) |
+| 2 | **bak** | **6** | 0 | Pinterest kedipp | *win by default* |  |
+| 4 | **enes batur** | **6** | 2 | 21cm pp limit | [#1](https://osu.ppy.sh/community/matches/121542387) | [#1](https://www.youtube.com/watch?v=x3TjOcECuPM) |
+| 6 | **cok zeki takim** | **6** | 4 | washed gang | [#1](https://osu.ppy.sh/community/matches/121543102) | [#1](https://www.youtube.com/watch?v=e4YPKVQtnCk) |
+| 8 | barigadam | 5 | **6** | **W puskevit** | [#1](https://osu.ppy.sh/community/matches/121543119) | [#1](https://www.youtube.com/watch?v=GcRn4SyDZx4) |
+| 3 | acil feet | 2 | **6** | **Dede ve Torunu** | [#1](https://osu.ppy.sh/community/matches/121543543) | [#1](https://www.youtube.com/watch?v=AywM2Inx35E) |
+| 1 | **baaa mi diyo la? :O** | **6** | 1 | farketmez | [#1](https://osu.ppy.sh/community/matches/121543728) | [#1](https://www.youtube.com/watch?v=pMmFI6w7jxc) |
+
+Monday, 20 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 7 | cansın | 5 | **6** | **alındınmı? .p** | [#1](https://osu.ppy.sh/community/matches/121547288) | [#1](https://www.youtube.com/watch?v=yQO4ZK2_1zk) |
+
+### Group Stage
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1c4T_nVsP68ubnkB9Ucm8p2B1lDgrd6AMPkxLBwA0ZrA/edit?rm=minimal).
+
+Friday, 3 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| A1 | steal balls and run | 3 | **5** | **Pinterest kedipp** | [#1](https://osu.ppy.sh/community/matches/121443012) | [#1](https://www.youtube.com/watch?v=LPxeeoOMFms) |
+| C4 | **Dede ve Torunu** | **5** | 0 | takım olak | [#1](https://osu.ppy.sh/community/matches/121445501) | [#1](https://www.youtube.com/watch?v=fvdbYrvLG80) |
+
+Saturday, 4 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| A8 | **washed gang** | **5** | 0 | :steamhappy: | [#1](https://osu.ppy.sh/community/matches/121451273) | [#1](https://www.youtube.com/watch?v=Ne3xh9nR8kc) |
+| D5 | **cok zeki takim** | **5** | 2 | zilla | [#1](https://osu.ppy.sh/community/matches/121451217) | [#1](https://www.youtube.com/watch?v=-j9hvp4eWS8) |
+| C8 | **barigadam** | **5** | 4 | AvazAvazAğlayanYüz | [#1](https://osu.ppy.sh/community/matches/121451694) | [#1](https://www.youtube.com/watch?v=J-GGerLAKaw) |
+| B4 | **21cm pp limit** | **5** | 0 | jembeyler | [#1](https://osu.ppy.sh/community/matches/121452609) | [#1](https://www.youtube.com/watch?v=0u5aWMRf6hY) |
+
+Sunday, 5 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| A4 | **steal balls and run** | **5** | 1 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121456094) | [#1](https://www.youtube.com/watch?v=D1GVFMVK27Q) |
+| C5 | alındınmı? .p | 3 | **5** | **barigadam** | [#1](https://osu.ppy.sh/community/matches/121456379) | [#1](https://www.youtube.com/watch?v=iHuFCKigt_A) |
+| C1 | **Dede ve Torunu** | **5** | 2 | alındınmı? .p | [#1](https://osu.ppy.sh/community/matches/121457059) | [#1](https://www.youtube.com/watch?v=jjPXBmiL1Kc) |
+| D1 | **farketmez** | **5** | 1 | cok zeki takim | [#1](https://osu.ppy.sh/community/matches/121457074) | [#1](https://www.youtube.com/watch?v=tbZq4E1-jqk) |
+| D10 | **Folklar** | **5** | 3 | ördek | [#1](https://osu.ppy.sh/community/matches/121457079) |  |
+| D4 | **farketmez** | **5** | 0 | ördek | [#1](https://osu.ppy.sh/community/matches/121457796) | [#1](https://www.youtube.com/watch?v=oSOi_DX7p5s) |
+| D8 | **zilla** | **5** | 2 | Folklar | [#1](https://osu.ppy.sh/community/matches/121457829) | [#1](https://www.youtube.com/watch?v=YXF-Jei5n64) |
+| B8 | **W puskevit** | **5** | 1 | Aşuk ile Maşuk | [#1](https://osu.ppy.sh/community/matches/121458137) | [#1](https://www.youtube.com/watch?v=APsztlfsOec) |
+| C10 | **AvazAvazAğlayanYüz** | **5** | 2 | takım olak | [#1](https://osu.ppy.sh/community/matches/121458154) | [#1](https://www.youtube.com/watch?v=e2ETCWnRvlo) |
+
+Monday, 6 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| B10 | Aşuk ile Maşuk | 3 | **5** | **jembeyler** | [#1](https://osu.ppy.sh/community/matches/121459365) | [#1](https://www.youtube.com/watch?v=ehfOig5KRnQ) |
+| B5 | **cansın** | **5** | 2 | W puskevit | [#1](https://osu.ppy.sh/community/matches/121464516) | [#1](https://www.youtube.com/watch?v=PeU8lJXT2kg) |
+| A9 | **washed gang** | **5** | 1 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121464187) | [#1](https://www.youtube.com/watch?v=hoGx3Kq4v1c) |
+| A5 | **Pinterest kedipp** | **5** | 4 | washed gang | [#1](https://osu.ppy.sh/community/matches/121464837) | [#1](https://www.youtube.com/watch?v=8jzTcn7jWrA) |
+
+Tuesday, 7 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| B1 | **21cm pp limit** | **5** | 4 | cansın | [#1](https://osu.ppy.sh/community/matches/121469043) | [#1](https://www.youtube.com/watch?v=hwhwiMi_S0Y) |
+
+Thursday, 9 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| B6 | **cansın** | **5** | 1 | Aşuk ile Maşuk | [#1](https://osu.ppy.sh/community/matches/121481341) | [#1](https://www.youtube.com/watch?v=Ytc23e7q8AY) |
+| B3 | **21cm pp limit** | **5** | 0 | Aşuk ile Maşuk | [#1](https://osu.ppy.sh/community/matches/121481905) | [#1](https://www.youtube.com/watch?v=2zc0nNLTB2M) |
+
+Friday, 10 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| A3 | **steal balls and run** | **5** | 1 | :steamhappy: | [#1](https://osu.ppy.sh/community/matches/121487129) | [#1](https://www.youtube.com/watch?v=uvojNFfTwTg) |
+
+Saturday, 11 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| B2 | **21cm pp limit** | **5** | 3 | W puskevit | [#1](https://osu.ppy.sh/community/matches/121492959) | [#1](https://www.youtube.com/watch?v=CIlazKbl8dU) |
+| C6 | **alındınmı? .p** | **5** | 0 | AvazAvazAğlayanYüz | [#1](https://osu.ppy.sh/community/matches/121493006) | [#1](https://www.youtube.com/watch?v=Uvan4zEdCpQ) |
+| A6 | **Pinterest kedipp** | **5** | 4 | :steamhappy: | [#1](https://osu.ppy.sh/community/matches/121493373) | [#1](https://www.youtube.com/watch?v=WHSgLFnpGRE) |
+| D3 | **farketmez** | **5** | 0 | Folklar | [#1](https://osu.ppy.sh/community/matches/121493567) | [#1](https://www.youtube.com/watch?v=6ZXCz3UFAKE) |
+| C9 | **barigadam** | **5** | 2 | takım olak | [#1](https://osu.ppy.sh/community/matches/121493764) | [#1](https://www.youtube.com/watch?v=U9ZPx9WRfuY) |
+| C3 | **Dede ve Torunu** | **5** | 1 | AvazAvazAğlayanYüz | [#1](https://osu.ppy.sh/community/matches/121494090) | [#1](https://www.youtube.com/watch?v=EQQf-3oC-Ac) |
+| D7 | **cok zeki takim** | **5** | 0 | ördek | *win by default* |  |
+| C7 | **alındınmı? .p** | **5** | 0 | takım olak | [#1](https://osu.ppy.sh/community/matches/121494757) | [#1](https://www.youtube.com/watch?v=tIf5KVQXzYw) |
+
+Sunday, 12 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| C2 | **Dede ve Torunu** | **5** | 1 | barigadam | [#1](https://osu.ppy.sh/community/matches/121499653) | [#1](https://www.youtube.com/watch?v=tK0iiIA6UMQ) |
+| D6 | **cok zeki takim** | **5** | 2 | Folklar | [#1](https://osu.ppy.sh/community/matches/121500013) | [#1](https://www.youtube.com/watch?v=1AZZT8W5Odc) |
+| A10 | **:steamhappy:** | **5** | 2 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121500389) | [#1](https://www.youtube.com/watch?v=bm8lRQY3We0) |
+| B9 | **W puskevit** | **5** | 1 | jembeyler | [#1](https://osu.ppy.sh/community/matches/121500373) | [#1](https://www.youtube.com/watch?v=JtvJNMGyUp8) |
+| D9 | **zilla** | **5** | 0 | ördek | *win by default* |  |
+| A7 | **Pinterest kedipp** | **5** | 0 | Opsiyonel | [#1](https://osu.ppy.sh/community/matches/121501116) | [#1](https://www.youtube.com/watch?v=0ehk-bjbnns) |
+| B7 | **cansın** | **5** | 2 | jembeyler | [#1](https://osu.ppy.sh/community/matches/121501282) | [#1](https://www.youtube.com/watch?v=lcsaNjPn5YU) |
+| D2 | **farketmez** | **5** | 0 | zilla | *win by default* |  |
+
+Monday, 13 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| A2 | **steal balls and run** | **5** | 3 | washed gang | [#1](https://osu.ppy.sh/community/matches/121505055) | [#1](https://www.youtube.com/watch?v=3Ze9qIVkorQ) |
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1jP4C3hDWVEz_NL7ue3uoTixqE_bYSRTkpiS2BtcVjX0/edit?rm=minimal).\
+[View the Qualifier seed reveal VOD here](https://www.youtube.com/watch?v=MGS1g9xlZlg)
 
 | Seed | Team | rating[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] | Lobby link |
 | :-: | :-- | --: | --: | --: |
@@ -357,98 +561,47 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Groups
 
-[View the Group drawings VOD here](https://youtu.be/kAqSHrauUk0?si=f7sG_XjkGWKhzfn1)
+[View the Group drawings VOD here](https://www.youtube.com/watch?v=kAqSHrauUk0)
 
 Group A:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
-| #1 | steal balls and run | 0 | 0 | 0 | 0 | **0** | 5 |
-| #2 | Pinterest kedipp | 0 | 0 | 0 | 0 | **0** | 9 |
-| #3 | washed gang | 0 | 0 | 0 | 0 | **0** | 13 |
-| #4 | :steamhappy: | 0 | 0 | 0 | 0 | **0** | 20 |
-| #5 | Opsiyonel | 0 | 0 | 0 | 0 | **0** | 23 |
+| #1 | Pinterest kedipp | 4 | 0 | 20 | 11 | **+9** | 9 |
+| #2 | steal balls and run | 3 | 1 | 18 | 10 | **+8** | 5 |
+| #3 | washed gang | 2 | 2 | 17 | 11 | **+6** | 13 |
+| #4 | :steamhappy: | 1 | 3 | 10 | 17 | **-7** | 20 |
+| #5 | Opsiyonel | 0 | 4 | 4 | 20 | **-16** | 23 |
 
 Group B:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
-| #1 | 21cm pp limit | 0 | 0 | 0 | 0 | **0** | 6 |
-| #2 | cansın | 0 | 0 | 0 | 0 | **0** | 10 |
-| #3 | W puskevit | 0 | 0 | 0 | 0 | **0** | 16 |
-| #4 | Aşuk ile Maşuk | 0 | 0 | 0 | 0 | **0** | 18 |
-| #5 | jembeyler | 0 | 0 | 0 | 0 | **0** | 21 |
+| #1 | 21cm pp limit | 4 | 0 | 20 | 7 | **+13** | 6 |
+| #2 | cansın | 3 | 1 | 19 | 10 | **+9** | 10 |
+| #3 | W puskevit | 2 | 2 | 15 | 12 | **+3** | 16 |
+| #4 | jembeyler | 1 | 3 | 8 | 18 | **-10** | 21 |
+| #5 | Aşuk ile Maşuk | 0 | 4 | 5 | 20 | **-15** | 18 |
 
 Group C:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
-| #1 | Dede ve Torunu | 0 | 0 | 0 | 0 | **0** | 7 |
-| #2 | alındınmı? .p | 0 | 0 | 0 | 0 | **0** | 11 |
-| #3 | barigadam | 0 | 0 | 0 | 0 | **0** | 14 |
-| #4 | AvazAvazAğlayanYüz | 0 | 0 | 0 | 0 | **0** | 17 |
-| #5 | takım olak | 0 | 0 | 0 | 0 | **0** | 22 |
+| #1 | Dede ve Torunu | 4 | 0 | 20 | 4 | **+16** | 7 |
+| #2 | barigadam | 3 | 1 | 16 | 14 | **+2** | 14 |
+| #3 | alındınmı? .p | 2 | 2 | 15 | 10 | **+5** | 11 |
+| #4 | AvazAvazAğlayanYüz | 1 | 3 | 10 | 17 | **-7** | 17 |
+| #5 | takım olak | 0 | 4 | 4 | 20 | **-16** | 22 |
 
 Group D:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
-| #1 | farketmez | 0 | 0 | 0 | 0 | **0** | 8 |
-| #2 | cok zeki takim | 0 | 0 | 0 | 0 | **0** | 12 |
-| #3 | zilla | 0 | 0 | 0 | 0 | **0** | 15 |
-| #4 | Folklar | 0 | 0 | 0 | 0 | **0** | 19 |
-| #5 | ördek | 0 | 0 | 0 | 0 | **0** | 24 |
-
-## Mappools
-
-### Group Stage
-
-**[Download the mappack here! (121 MB)](https://lyerr.s-ul.eu/98Blxxlw.zip)**\
-[View the showcase VOD here](https://youtu.be/OIHdk48V86Q?si=0e8AnQi0deB5yndT)
-
-- No Mod
-  1. [Hepsi - Yalan [Hani Bensiz Bir Hictin]](https://osu.ppy.sh/beatmapsets/2577712#osu/5742699)
-  2. [Xi - Densetsu no Sabori Shinigami ~ Make a quick escape [Cellina & TD's Collab Extra]](https://osu.ppy.sh/beatmapsets/1621473#osu/3435049)
-  3. [King Krule - Dum Surfer [Don't Suffer]](https://osu.ppy.sh/beatmapsets/716193#osu/1513180)
-  4. [patirchev - Angelfish [Bubbles]](https://osu.ppy.sh/beatmapsets/1746011#osu/3571449)
-  5. [KOKIA - Chouwa oto ~with reflection~ (Cut Ver.) [Expert]](https://osu.ppy.sh/beatmapsets/2156509#osu/4546068)
-- Hidden
-  1. [Sayako - Decide, longitude (feat. Lucy Bedroque) [~talk to me~]](https://osu.ppy.sh/beatmapsets/2527076#osu/5582926)
-  2. [Laufey - From The Start [Mekadon's Soliloquy]](https://osu.ppy.sh/beatmapsets/2096549#osu/5242244)
-- Hard Rock
-  1. [Uchida Maaya - Soushou Innocence [CrystLer]](https://osu.ppy.sh/beatmapsets/171215#osu/414217)
-  2. [HuMeR - ChaserXX [KKip's Another]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
-- Double Time
-  1. [Radiohead - Airbag [Insane]](https://osu.ppy.sh/beatmapsets/2122619#osu/4461463)
-  2. [yuki - Clammbon [Insane]](https://osu.ppy.sh/beatmapsets/1737221#osu/3588814)
-  3. [Dimrain47 - Cloud Control [Insane]](https://osu.ppy.sh/beatmapsets/1550498#osu/3168379)
-- Forced Mod
-  1. [Kano - Sukisuki Zecchoushou [Doormat's Extra]](https://osu.ppy.sh/beatmapsets/2191426#osu/4811028)
-  2. [goreshit - burn this moment into the retina of my eye [insane]](https://osu.ppy.sh/beatmapsets/359890#osu/830322)
-  3. [Akiri feat. InabaYap - Tonight We Fly [Extra (OTR26 Ver.)]](https://osu.ppy.sh/beatmapsets/2577746#osu/5742787)
-- Tiebreaker
-  1. **[Chitose Haru & Kumagai Eri - Perfect Free [xlNathan's Concert Extra]](https://osu.ppy.sh/beatmapsets/456387#osu/990325)**
-
-### Qualifiers
-
-**[Download the mappack here! (79.4 MB)](https://lyerr.s-ul.eu/okiPGQqD.zip)**\
-[View the showcase VOD here](https://youtu.be/q4dDwSes-0c?si=h-wSDstVCYECoELt)
-
-- No Mod
-  1. [Nekomata Master - Despair of Elferia [An]](https://osu.ppy.sh/beatmapsets/2239664#osu/4759737)
-  2. [blobdash - ARE WE FLOATING IN SPACE [EXPERT]](https://osu.ppy.sh/beatmapsets/2206504#osu/4672134)
-  3. [AZKi x Such - GimmexGimme (lapix Remix) [she gimme gimme]](https://osu.ppy.sh/beatmapsets/1693859#osu/3461180)
-  4. [NIWASHI - Y [Extra]](https://osu.ppy.sh/beatmapsets/1689372#osu/3452317)
-- Hidden
-  1. [Shoji Meguro feat. Lyn - Last Surprise [I Fuzed Black Ooze And I Liked It]](https://osu.ppy.sh/beatmapsets/2197607#osu/4650494)
-  2. [Denkishiki Karen Ongaku Shuudan - Silver Orbit [Despair]](https://osu.ppy.sh/beatmapsets/1062758#osu/2225505)
-- Hard Rock
-  1. [VeetaCrush - Mole [AncuL's Extra]](https://osu.ppy.sh/beatmapsets/1574603#osu/3756543)
-  2. [Kagankaravana - Ego Rock (feat. Kasane Teto) [I need you in my life]](https://osu.ppy.sh/beatmapsets/2570441#osu/5720331)
-- Double Time
-  1. [Hagumi Nishizawa - My Hero! Up to you! [Insane]](https://osu.ppy.sh/beatmapsets/1840883#osu/3782347)
-  2. [underscores - Music [quantumvortex's Insane]](https://osu.ppy.sh/beatmapsets/2542651#osu/5647257)
-  3. [Nujabes - Lady Brown (feat. Cise Star) [Boden's Insane]](https://osu.ppy.sh/beatmapsets/2477987#osu/5495728)
+| #1 | farketmez | 4 | 0 | 20 | 1 | **+19** | 8 |
+| #2 | cok zeki takim | 3 | 1 | 16 | 9 | **+7** | 12 |
+| #3 | zilla | 2 | 2 | 12 | 12 | **0** | 15 |
+| #4 | Folklar | 1 | 3 | 9 | 18 | **-9** | 19 |
+| #5 | ördek | 0 | 4 | 3 | 20 | **-17** | 24 |
 
 ## Ruleset
 
@@ -626,6 +779,7 @@ Group D:
 9. Each team has 90 seconds to pick a beatmap.
    - If a team does not pick within 90 seconds, the pick automatically passes to the opposing team.
 10. In stages where each team has 2 bans, the ban order is ABBA.
+    - Each team will ban 1 beatmap in AB order before the first beatmaps picked by each team are played. After the first beatmaps are picked and played, each team will ban 1 additional beatmap in BA order.
 11. A team may not ban 2 beatmaps from the same non-NoMod mod bracket.
     - For example, banning two Hidden maps or two Hard Rock maps is not allowed.
     - This restriction does not apply to the NoMod bracket.
@@ -649,7 +803,7 @@ Group D:
 ### Mappool instructions
 
 1. Every stage will have its own mappool.
-2. Each mappool consists of 5 brackets: [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and  Forced Mod.
+2. Each mappool consists of 5 brackets: [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and Forced Mod.
 3. The mappool sizes are as follows:
    - Qualifiers: 11 beatmaps.
    - Group Stage: 15 beatmaps.
@@ -658,14 +812,15 @@ Group D:
    - Finals: 19 beatmaps.
    - Grand Finals: 19 beatmaps.
 4. The Qualifier mappool consists of 4 No Mod, 2 Hidden, 2 Hard Rock and 3 Double Time beatmaps. There are no bans and no tiebreaker in Qualifiers.
-5. The Group Stage mappool consists of 5 No Mod, 2 Hidden, 2 Hard Rock, 3 Double Time, 3  Forced Mod and 1 tiebreaker. Each team has 1 ban.
-6. The Quarterfinals and Semifinals mappools each consist of 5 No Mod, 3 Hidden, 3 Hard Rock, 3 Double Time, 3  Forced Mod and 1 tiebreaker. Each team has 2 bans.
-7. The Finals and Grand Finals mappools each consist of 5 No Mod, 3 Hidden, 3 Hard Rock, 4 Double Time, 4  Forced Mod and 1 tiebreaker. Each team has 2 bans.
+5. The Group Stage mappool consists of 5 No Mod, 2 Hidden, 2 Hard Rock, 3 Double Time, 3 Forced Mod and 1 tiebreaker. Each team has 1 ban.
+6. The Quarterfinals and Semifinals mappools each consist of 5 No Mod, 3 Hidden, 3 Hard Rock, 3 Double Time, 3 Forced Mod and 1 tiebreaker. Each team has 2 bans.
+7. The Finals and Grand Finals mappools each consist of 6 No Mod, 3 Hidden, 3 Hard Rock, 4 Double Time, 3 Forced Mod and 1 tiebreaker. Each team has 2 bans.
 8. All beatmaps must be played with the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod enabled, unless stated otherwise.
-9. FreeMod beatmaps must be played with one player on each team using [Hidden](/wiki/Gameplay/Game_modifier/Hidden) and the other player using [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock).
+9. Forced Mod beatmaps must be played with one player on each team using [Hidden](/wiki/Gameplay/Game_modifier/Hidden) and the other player using [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock).
    - If a player uses both Hidden and Hard Rock, that player is considered to have taken Hard Rock.
-10. Tiebreaker beatmaps follow  Forced Mod rules.
+10. Tiebreaker beatmaps will be played under [Free Mod](/wiki/Gameplay/Game_modifier#free-mod) conditions.
     - Mods other than Hidden and Hard Rock are not allowed on tiebreakers.
+    - Forced Mod restriction is not applicable for tiebreakers.
 
 ### Scheduling instructions
 

@@ -13,8 +13,13 @@ tags:
 
 ![Icono del mod HR](/wiki/shared/mods/HR.png "Icono del mod Hard Rock (HR)")
 
-*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Hard Rock (mod de lazer)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer))*\
-*Para la lista completa de los mods, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Nota:** Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase [Hard Rock (mod de lazer)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer))
+:::
+
+::: alert-note
+**Nota:** Para la lista completa de los mods, véase [Modificadores del juego](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Resumen
 
@@ -58,7 +63,10 @@ Debido a este aumento mucho mayor en la dificultad en comparación con otros [mo
 
 ### osu!mania
 
-*Aviso: Usar este mod en osu!mania resultará en una jugada no clasificada.*
+::: alert-notice
+**Aviso**
+Usar este mod en osu!mania resultará en una jugada no clasificada.
+:::
 
 En [osu!mania](/wiki/Game_mode/osu!mania), el drenaje de HP aumenta en un 40 %, mientras que las ventanas de tiempo son aproximadamente un 29 % más estrictas. Aunque el valor del AR se muestra aumentado, no afecta a la jugabilidad.
 

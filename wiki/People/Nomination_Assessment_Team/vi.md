@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Đội ngũ Đánh giá Đề cử
 
 *Xem thêm: [Đánh giá Đề cử viên](Evaluations), [Đánh giá mức độ nghiêm trọng](SEV_rating)*

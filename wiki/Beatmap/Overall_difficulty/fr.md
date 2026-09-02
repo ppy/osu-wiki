@@ -10,7 +10,9 @@ tags:
 
 # Overall difficulty
 
-*Pour les valeurs recommandées de l'OD, voir : [Critères de classement](/wiki/Ranking_criteria)*
+::: alert-note
+**Remarque** : Pour les valeurs recommandées de l'OD, voir [Critères de classement](/wiki/Ranking_criteria)
+:::
 
 **L'Overall difficulty** (***OD***) définit à quel point il est difficile d'atteindre une [précision](/wiki/Gameplay/Accuracy) élevée sur une [beatmap](/wiki/Beatmap). La valeur est comprise entre 0 et 10, une valeur plus élevée exigeant plus d'exactitude et de précision. Comme la précision est importante pour gagner de la [santé](/wiki/Gameplay/Health), l'overall difficulty influence également la difficulté à réussir une beatmap.
 

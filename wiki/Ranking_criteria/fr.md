@@ -86,7 +86,10 @@ Il est important de prendre en compte cela avant d'utiliser ces logiciels :
 
 ## Beatmap
 
-*Remarque : Chaque [key moode](osu!mania#termes-courants) et [style de jeu](osu!mania#termes-courants) [d'osu!mania](/wiki/Game_mode/osu!mania) est considéré comme un mode de jeu distinct dans cette section.*
+::: alert-notice
+**Note**
+Chaque [key moode](osu!mania#termes-courants) et [style de jeu](osu!mania#termes-courants) [d'osu!mania](/wiki/Game_mode/osu!mania) est considéré comme un mode de jeu distinct dans cette section.
+:::
 
 ### Règles
 

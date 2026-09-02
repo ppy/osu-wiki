@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9b78bd52e4862b87d9cc5fbe815982492a13eff3
+---
+
 # Collaboratori della community
 
 ::: Infobox
@@ -21,6 +26,8 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 ### 2013
 
 #### Agosto
+
+*Per l'articolo delle notizie, vedi: [osu! community contributors](https://osu.ppy.sh/home/news/2013-08-08-osu-community-contributors)*
 
 *Per il thread sul forum, vedi: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
@@ -253,7 +260,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Contributo eccezionale alla [Mappers' Guild](/wiki/Community/Mappers_Guild) e ai video degli artisti in primo piano |
 | ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Contributo eccezionale alla [Mappers' Guild](/wiki/Community/Mappers_Guild) e ai video degli artisti in primo piano |
 
-### 2024
+### 2025
 
 #### Marzo
 

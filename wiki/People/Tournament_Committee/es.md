@@ -77,7 +77,9 @@ Los torneos pueden ser reportados por violación de los criterios oficiales de s
 
 ### Publicaciones de noticias
 
-*Véase también: [Soporte oficial para torneos § Noticias](/wiki/Tournaments/Official_support#noticias) y [Criterios de estilo para las noticias](/wiki/News_styling_criteria)*
+::: alert-note
+**Véase también:** [Soporte oficial para torneos § Noticias](/wiki/Tournaments/Official_support#noticias) y [Criterios de estilo para las noticias](/wiki/News_styling_criteria)
+:::
 
 Cuando se reciba un correo electrónico solicitando una noticia para un torneo, se notificará al Comité de Torneos. Si el torneo cumple todos los criterios de elegibilidad para la publicación de una noticia y el consenso en la discusión es positivo después de 48 horas, el Comité de Torneos reenviará la solicitud al equipo de noticias para su aprobación.
 
@@ -122,7 +124,10 @@ Los solicitantes que no reúnan suficientes votos positivos serán rechazados y 
 
 El Comité de Torneos recurre con frecuencia a votaciones para tomar decisiones importantes. Los usos típicos se enumeran más arriba, pero no son totalmente generales. Los requisitos de las votaciones también difieren según el caso de uso. Todas las votaciones típicas requieren también una «participación estricta», lo que significa que si el 75 % del Comité de Torneos no participa antes de que finalice el plazo de votación, esta se prolongará hasta que se alcance el mínimo de participación requerido. Además, todas las votaciones requieren una mayoría absoluta; es decir, al menos el 50 % para poder tomar medidas. Las votaciones sobre muchos temas tienen los mismos requisitos, pero hay ligeras diferencias en algunos temas comunes que se enumeran a continuación.
 
-*Nota: El mínimo de participación solo tiene en cuenta a los miembros que no se han negado a votar por tener un conflicto de intereses.*
+::: alert-notice
+**Aviso**
+El mínimo de participación solo tiene en cuenta a los miembros que no se han negado a votar por tener un conflicto de intereses.
+:::
 
 | Tipo de la votación | Duración mínima (días) | Mínimo de aprobación | Participación |
 | :-- | --: | --: | --: |
@@ -181,9 +186,10 @@ En la [página del grupo del Comité de Torneos](https://osu.ppy.sh/groups/50) s
 - ::{ flag=BA }:: [alisha-](https://osu.ppy.sh/users/29031839)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
-- ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
+- ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227)
+- ::{ flag=DE }:: [KSN](https://osu.ppy.sh/users/5442251)
 - ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619)
-- ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
+- ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264)
 - ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
 - ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
@@ -197,6 +203,7 @@ En la [página del grupo del Comité de Torneos](https://osu.ppy.sh/groups/50) s
 ### Comité de Concursos
 
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+- ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909)
 - ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853)
 - ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835)
@@ -206,6 +213,7 @@ En la [página del grupo del Comité de Torneos](https://osu.ppy.sh/groups/50) s
 - ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
+- ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)

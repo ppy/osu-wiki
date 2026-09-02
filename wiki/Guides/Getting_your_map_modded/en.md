@@ -28,7 +28,10 @@ It is worth noting that you should avoid posting in Beatmap Nominators' queues u
 
 ## #modreqs
 
-*Warning: Do not spam requests in this channel, as doing so may result in a [silence](/wiki/Silence). Post a mod request in `#modreqs` once every hour or so.*
+::: alert-warning
+**Warning**
+Do not spam requests in this channel, as doing so may result in a [silence](/wiki/Silence). Post a mod request in `#modreqs` once every hour or so.
+:::
 
 `#modreqs` is a channel in the osu! chat where players can request mods for their beatmaps by linking them with the `/np` command, along with a mod request type. While it is not the most effective method of finding mods, modders and Beatmap Nominators are often on the lookout for good beatmaps being linked in this channel.
 

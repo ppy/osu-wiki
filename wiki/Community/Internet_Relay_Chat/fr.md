@@ -4,13 +4,18 @@ no_native_review_since: c34daf02455b8f990b944b902767086d9bf24346 Doryan
 
 # Internet Relay Chat
 
-*Pour plus d'informations, voir : [Internet Relay Chat (Wikipedia)](https://fr.wikipedia.org/wiki/Internet_Relay_Chat)*
+::: alert-note
+**Remarque** : Pour plus d'informations, voir [Internet Relay Chat (Wikipedia)](https://fr.wikipedia.org/wiki/Internet_Relay_Chat)
+:::
 
 Le **Internet Relay Chat** (**IRC**) est un protocole de niveau application utilisé pour discuter avec de nombreux clients en ligne.
 
 ## osu!Bancho
 
-*Remarque : ce serveur ne fournit qu'une implémentation partielle du protocole IRC. Certaines fonctionnalités non basiques de votre client IRC (par exemple [HexChat](https://hexchat.github.io/)) peuvent fonctionner de manière incorrecte, voire ne pas fonctionner du tout.*
+::: alert-notice
+**Note**
+ce serveur ne fournit qu'une implémentation partielle du protocole IRC. Certaines fonctionnalités non basiques de votre client IRC (par exemple [HexChat](https://hexchat.github.io/)) peuvent fonctionner de manière incorrecte, voire ne pas fonctionner du tout.
+:::
 
 *osu!Bancho* (parfois abrégé en *Bancho*) offre une passerelle pour l'accès IRC (tchat en jeu). Vous pouvez utiliser n'importe quel client IRC moderne pour vous y connecter (défilez vers le bas pour une liste des clients les plus populaires).
 
@@ -24,7 +29,10 @@ Ouvrez les paramètres de votre client IRC et remplissez les valeurs (il se peut
 - Nom d'utilisateur : votre nom d'utilisateur osu!. Remplacez les espaces par des underscores (par exemple, `beppy master 1000` devient `beppy_master_1000`)
 - Mot de passe : le mot de passe de la [page des paramètres du compte](https://osu.ppy.sh/home/account/edit#legacy-api)
 
-*Attention : Votre mot de passe IRC est différent du mot de passe de votre compte. **Ne le partagez pas avec d'autres**.*
+::: alert-caution
+**Attention**
+Votre mot de passe IRC est différent du mot de passe de votre compte. **Ne le partagez pas avec d'autres**.
+:::
 
 ## Commandes IRC de base
 

@@ -13,7 +13,9 @@ tags:
 
 # 콤보
 
-*다른 의미를 찾으려면 [콤보 (동음이의어)](/wiki/Disambiguation/Combo)문서를 참조하세요.*
+::: alert-note
+**참고:** 다른 의미를 찾으려면 [콤보 (동음이의어)](/wiki/Disambiguation/Combo)문서를 참조하세요.
+:::
 
 **콤보** (또는 **콤보 셋**)는 [osu!](/wiki/Game_mode/osu!)와 [osu!catch](/wiki/Game_mode/osu!catch) [비트맵](/wiki/Beatmap)의 [히트 서클](/wiki/Gameplay/Hit_object/Hit_circle) 및 [슬라이더](/wiki/Gameplay/Hit_object/Slider)의 묶음들을 의미합니다. 같은 콤보의 [히트 오브젝트](/wiki/Gameplay/Hit_object)는 [콤보 색상](/wiki/Beatmapping/Combo_colour)을 공유하며 팔로우 포인트로 연결됩니다. 콤보을 성공적으로 이었을 경우 마지막 콤보에 [체력](/wiki/Gameplay/Health)을 획득할 수 있습니다. 각 콤보는 뉴 콤보로 표기된 히트 오브젝트로부터 시작됩니다.
 

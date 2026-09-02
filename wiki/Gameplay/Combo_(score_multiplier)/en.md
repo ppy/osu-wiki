@@ -8,7 +8,9 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9919
 
 # Combo (score multiplier)
 
-*For other uses, see [Combo (disambiguation)](/wiki/Disambiguation/Combo).*
+::: alert-note
+**Note:** [Combo (disambiguation)](/wiki/Disambiguation/Combo).
+:::
 
 **Combo** refers to the number of [hit objects](/wiki/Gameplay/Hit_object) a player has hit consecutively without missing or [sliderbreaking](/wiki/Gameplay/Judgement/Slider_break) once. This number is displayed in various places during gameplay:
 

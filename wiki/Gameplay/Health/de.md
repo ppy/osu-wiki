@@ -62,7 +62,10 @@ Kein Effekt:
 - Dendens vervollständigen
 - Shakers vervollständigen
 
-*Anmerkung: Es ist durchaus möglich, dass eine Beatmap durch ihr Design niemals bestanden werden kann, weil sie nur Drumrolls und/oder Dendens/Shakers enthält.*
+::: alert-notice
+**Hinweis**
+Es ist durchaus möglich, dass eine Beatmap durch ihr Design niemals bestanden werden kann, weil sie nur Drumrolls und/oder Dendens/Shakers enthält.
+:::
 
 ## osu!catch
 

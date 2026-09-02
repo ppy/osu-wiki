@@ -12,7 +12,9 @@ tags:
 
 # Alternating
 
-*Nicht zu verwechseln mit [Double-Tapping](/wiki/Gameplay/Play_style/Double_tapping).*
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Double-Tapping](/wiki/Gameplay/Play_style/Double_tapping).
+:::
 
 **Alternating** (auf Deutsch *abwechselnd*) ist ein Tippstil für [osu!](/wiki/Game_mode/osu!), bei dem Spieler durch das Alternieren zwischen zwei eingestellten Tasten auf ihrer Tastatur (standardmäßig `Z` und `X`) Circles klicken, Slider verschieben und Spinner spinnen, um dadurch jedes zweite [Hit-Objekt](/wiki/Gameplay/Hit_object) zu treffen. Der Name kommt durch den Wechsel zwischen den Tasten. Dieser Stil ist am meisten verbreitet unter erfahrenen Spielern und ist sehr schwierig zu erlernen.
 

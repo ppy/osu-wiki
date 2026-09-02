@@ -1,6 +1,9 @@
 # Registre du personnel : 2007
 
-*Remarque : L'histoire de quelques utilisateurs peut être incomplète pendant cette année. "Moderators" ont ensuite été renommés en "Beatmap Approval Team".*
+::: alert-notice
+**Note**
+L'histoire de quelques utilisateurs peut être incomplète pendant cette année. "Moderators" ont ensuite été renommés en "Beatmap Approval Team".
+:::
 
 - Ajout de [phill](https://osu.ppy.sh/users/53) : Moderators
 - Ajout de [eyup](https://osu.ppy.sh/users/88) : Moderators

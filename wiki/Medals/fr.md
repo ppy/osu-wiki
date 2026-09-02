@@ -18,7 +18,7 @@ Il convient toutefois de noter que le contenu de tous les packs de jeux vidéo, 
 
 ## Skill
 
-**Les médailles de skill** sont des médailles attribuées lors de l'accomplissement de diverses compétences, que ce soit en atteignant certains [combo](/wiki/Beatmapping/Combo), en atteignant certains rangs dans le [classement global des points de performance](https://osu.ppy.sh/rankings/osu/performance), ou en réalisant un clear ou un [full combo](/wiki/Gameplay/Full_combo) sur n'importe quel beatmap [Qualifié](/wiki/Beatmap/Category#qualified), [Classé](/wiki/Beatmap/Category#ranked), ou [Approuvé](/wiki/Beatmap/Category#approved) dans certaines fourchettes de [star rating](/wiki/Beatmap/Star_rating).
+**Les médailles de skill** sont des médailles attribuées lors de l'accomplissement de diverses compétences, que ce soit en atteignant certains [combo](/wiki/Gameplay/Combo_(score_multiplier)), en atteignant certains rangs dans le [classement global des points de performance](https://osu.ppy.sh/rankings/osu/performance), ou en réalisant un clear ou un [full combo](/wiki/Gameplay/Full_combo) sur n'importe quel beatmap [Qualifié](/wiki/Beatmap/Category#qualified), [Classé](/wiki/Beatmap/Category#ranked), ou [Approuvé](/wiki/Beatmap/Category#approved) dans certaines fourchettes de [star rating](/wiki/Beatmap/Star_rating).
 
 ## Dedication
 
@@ -26,7 +26,9 @@ Il convient toutefois de noter que le contenu de tous les packs de jeux vidéo, 
 
 ## Mod Introduction
 
-*Voir également : [Modificateur de jeu](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Voir également** : [Modificateur de jeu](/wiki/Gameplay/Game_modifier)
+:::
 
 **Les médailles mod introduction** sont des médailles décernées aux joueurs qui ont réussi un beatmap [Qualifié](/wiki/Beatmap/Category#qualified), [Classé](/wiki/Beatmap/Category#ranked) ou [Approuvé](/wiki/Beatmap/Category#approved) avec le [modificateur de jeu (mod)](/wiki/Gameplay/Game_modifier) qui lui correspond. Ces médailles ont pour but d'encourager les nouveaux joueurs à essayer chaque mod et à explorer ce que le jeu peut offrir. Notez cependant que si les joueurs jouent avec plusieurs modificateurs de jeu à la fois, ils ne sont **pas** éligibles pour gagner *aucune* des médailles de modificateur de jeu pour ce gameplay.
 

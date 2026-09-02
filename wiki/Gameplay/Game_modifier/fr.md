@@ -17,7 +17,9 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 # Modificateur de jeu
 
-*Pour d'autres utilisations, voir [Mod (désambiguïsation)](/wiki/Disambiguation/Mod).*
+::: alert-note
+**Remarque** : Pour d'autres utilisations, voir [Mod (désambiguïsation)](/wiki/Disambiguation/Mod).
+:::
 
 ![Écran de sélection des mods](img/mod-selection-screen.jpg "comparaison entre les écrans de sélection des modes de jeu osu! (en haut à gauche), osu!taiko (en haut à droite), osu!catch (en bas à gauche), et osu!mania (en bas à droite)")
 
@@ -66,7 +68,10 @@ Chacun des mods ci-dessous aura l'icône de son mode de jeu compatible (![][osu!
 
 ### Autre
 
-*Note : Ces mods étaient utilisés et disponibles il y a quelque temps, mais sont maintenant indisponibles.*
+::: alert-notice
+**Note**
+Ces mods étaient utilisés et disponibles il y a quelque temps, mais sont maintenant indisponibles.
+:::
 
 - [10K](/wiki/Gameplay/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out) ![][osu!mania]

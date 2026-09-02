@@ -24,16 +24,41 @@ tags:
 | Type | Automation |
 | Default shortcut key | `C` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] |
-| Score multiplier | 0.10x |
+| Score multiplier | `0.10x` |
 | Status | Unranked |
-| Incompatible mods | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) |
+| Incompatible mods ![][osu!] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised) |
+| Incompatible mods ![][osu!taiko] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap) |
+| Incompatible mods ![][osu!catch] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) |
 
 :::
 
-*For the osu!stable version of this article, see: [Relax (mod)](/wiki/Gameplay/Game_modifier/Relax)*\
-*For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Note:** For the osu!(stable) version of this article, see [Relax (mod)](/wiki/Gameplay/Game_modifier/Relax)
+:::
 
-<!-- TODO description and settings -->
+::: alert-note
+**Note:** For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
+
+In osu!(lazer), completing a beatmap with Relax triggers a score submission without awarding [performance points](/wiki/Performance_points). It is also possible, unlike in osu!(stable), to fail the beatmap during the play.
+
+### ![][osu!] osu!
+
+In osu!, the **Relax** mod automatically clicks on all [hit objects](/wiki/Gameplay/Hit_object) in a [beatmap](/wiki/Beatmap), allowing the user to play by only moving the cursor.
+
+### ![][osu!taiko] osu!taiko
+
+In osu!taiko, the **Relax** mod allows the user to click on any hit object with any key, meaning it is no longer necessary to recognise which notes are [dons](/wiki/Gameplay/Hit_object/Hit) and which notes are [kats](/wiki/Gameplay/Hit_object/Hit).
+
+### ![][osu!catch] osu!catch
+
+In osu!catch, the **Relax** mod allows the user to control the catcher with a mouse (or tablet) instead of the keyboard. This also means the player no longer has to [dash](/wiki/Gameplay/Dash).
+
+**This mod cannot be customised.**
+
+## Trivia
+
+- In osu!, Relax clicks on hit objects approximately 10 ms early. As a result, Relax used in combination with [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) will cause constant speed up as the map progresses, as long as the player aims correctly.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

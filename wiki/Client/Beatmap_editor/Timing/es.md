@@ -30,14 +30,21 @@ tags:
 
 # Pestaña timing
 
-*Para obtener una guía de temporización, véase: [Cómo temporizar canciones](/wiki/Guides/How_to_time_songs)*\
-*Véase también: [Beatmapping/Temporización](/wiki/Beatmapping/Timing)*
+::: alert-note
+**Nota:** Para obtener una guía de temporización, véase [Cómo temporizar canciones](/wiki/Guides/How_to_time_songs)
+:::
+
+::: alert-note
+**Véase también:** [Beatmapping/Temporización](/wiki/Beatmapping/Timing)
+:::
 
 **Timing** es la pestaña del [editor de beatmaps](/wiki/Client/Beatmap_editor) para cambiar y configurar la temporización de un [beatmap](/wiki/Beatmap), la cual es esencial para la representación correcta de la canción. Contiene ajustes y herramientas relacionadas con la temporización, y también una [ventana dedicada](#panel-de-configuración-de-la-temporización) para trabajar con múltiples [puntos de tiempo](#puntos-de-tiempo), tanto para la representación de estructuras musicales como para el diseño de beatmaps.
 
 ## Puntos de tiempo
 
-*Véase también: [Compensación](/wiki/Offset)*
+::: alert-note
+**Véase también:** [Compensación](/wiki/Offset)
+:::
 
 En el [mapping](/wiki/Beatmapping), un *punto de tiempo*, coloquialmente llamado *offset*, es una forma de aplicar ajustes comunes, como la [temporización](/wiki/Beatmapping/Timing), los multiplicadores de la [velocidad del slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), o los [hitsounds](/wiki/Beatmapping/Hitsound) y sus respectivos volúmenes, a una sección específica de un beatmap. En osu!, hay dos tipos de puntos de tiempo.
 

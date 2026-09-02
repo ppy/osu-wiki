@@ -17,7 +17,10 @@ tags:
 
 *Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Nightcore (lazer)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer))*\
 *Не стоит путать с [Nightcore (жанр музыки)](https://en.wikipedia.org/wiki/Nightcore).*\
-*См. также: [NC (значения)](/wiki/Disambiguation/NC), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)*\
+::: alert-note
+**См. также:** [NC (значения)](/wiki/Disambiguation/NC), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)
+:::
+
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация

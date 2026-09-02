@@ -13,7 +13,9 @@ tags:
 
 # Nutzertitel
 
-*Für die Liste an Personen, die spezielle Benutzertitel erlangt haben, siehe [Benutzer mit einzigartigen Titeln](/wiki/People/Users_with_unique_titles).*
+::: alert-note
+**Anmerkung:** Für die Liste an Personen, die spezielle Benutzertitel erlangt haben, siehe [Benutzer mit einzigartigen Titeln](/wiki/People/Users_with_unique_titles).
+:::
 
 ![Screenshot von Ephemerals Profil](img/dev.png?1 "Der Titel \"osu!team\" ist nahe des oberen Rands in Ephemerals Profil zu sehen.")
 

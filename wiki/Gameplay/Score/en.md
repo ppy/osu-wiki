@@ -1,6 +1,8 @@
 # Score
 
-*For other uses, see [Score (disambiguation)](/wiki/Disambiguation/Score).*
+::: alert-note
+**Note:** [Score (disambiguation)](/wiki/Disambiguation/Score).
+:::
 
 How much score a player is awarded after successful completion of a [beatmap](/wiki/Beatmap) is determined by what [judgments](/wiki/Gameplay/Judgement) the player received for each [hit object](/wiki/Gameplay/Hit_object). The scoring system is split into two major versions currently in use.
 

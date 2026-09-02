@@ -40,7 +40,9 @@ You can also exit and reopen osu! or start the updater to reload the skin, but i
 
 ### What are skinning sets?
 
-*Main page: [Ranking Criteria/Skin Set List](/wiki/Ranking_criteria/Skin_set_list)*
+::: alert-note
+**Main page:** [Ranking Criteria/Skin Set List](/wiki/Ranking_criteria/Skin_set_list)
+:::
 
 In osu!, there are over 200 skinnable elements (not including the individual animated frames). However, you are not required to skin all of them. Instead, you can simply remove them as osu! will use the default images for the ones you don't include.
 
@@ -133,7 +135,9 @@ It is really important to include various screenshots of gameplay and the song s
 
 ### What is skin.ini?
 
-*Main page: [skin.ini](/wiki/Skinning/skin.ini)*
+::: alert-note
+**Main page:** [skin.ini](/wiki/Skinning/skin.ini)
+:::
 
 ### What is v1.0 and v2.0+?
 
@@ -210,7 +214,10 @@ However, the osu!mania ranking screen is an exception to this. That is, if an an
 2. The static image in root directory.
 3. The default image.
 
-*Notice: In osu!mania, osu! ignores the specified path from the `skin.ini` file and will only use the image from the root directory (the folder where the skin elements are loaded).*
+::: alert-notice
+**Notice**
+In osu!mania, osu! ignores the specified path from the `skin.ini` file and will only use the image from the root directory (the folder where the skin elements are loaded).
+:::
 
 ## Animations
 
@@ -220,7 +227,10 @@ First, check the elements listing to see if the element you want to animate can 
 
 For example, if you are trying to animate `scorebar-colour.png`, name the first frame `scorebar-colour-0.png`, then the second one `scorebar-colour-1.png`, then the third one `scorebar-colour-2.png`, and repeat for the rest.
 
-*Note: Not all elements have a hyphen (`-`) between the name and the frame number. Check the elements listing for animation names.*
+::: alert-notice
+**Notice**
+Not all elements have a hyphen (`-`) between the name and the frame number. Check the elements listing for animation names.
+:::
 
 The animation frame rates for each element are inconsistent. Some use a value defined in the skin.ini file, some use the client's defined value, while others are based on the BPM (beats per minute) of the beatmap. Due to this, animating skinning elements is trial-and-error (see the next section for methods on solving this).
 
@@ -273,7 +283,9 @@ You must have [osu!supporter](/wiki/osu!supporter) to see the background image i
 
 ### What does the @2x do?
 
-*Main page: [HD images](#hd-images)*
+::: alert-note
+**Main page:** [HD images](#hd-images)
+:::
 
 ### My taiko drums are in the wrong position!
 
@@ -281,7 +293,9 @@ Open the [skin.ini](/wiki/Skinning/skin.ini) file and change the `Version` to `2
 
 ### How do I change the combo colours?
 
-*Main page: [skin.ini](/wiki/Skinning/skin.ini#[colours])*
+::: alert-note
+**Main page:** [skin.ini](/wiki/Skinning/skin.ini#[colours])
+:::
 
 ### How do I disable one or more hitsounds?
 

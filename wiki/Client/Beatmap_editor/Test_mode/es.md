@@ -13,7 +13,10 @@ El **modo de prueba** es una función del [editor de beatmaps](/wiki/Client/Beat
 
 ![Botón del modo de prueba](img/test-mode-button.png "El botón del modo de prueba en el editor de beatmaps")
 
-*Nota: Se sabe que jugar un beatmap en el modo de prueba causa cierto retraso o caídas notables en la velocidad de los fotogramas para algunos usuarios.*
+::: alert-notice
+**Aviso**
+Se sabe que jugar un beatmap en el modo de prueba causa cierto retraso o caídas notables en la velocidad de los fotogramas para algunos usuarios.
+:::
 
 Jugar a un beatmap en modo de prueba difiere de jugarlo normalmente, ya que no enviará ninguna puntuación, no mostrará ninguna tabla de clasificación, no permitirá a los usuarios fallar el beatmap y siempre mostrará la siguiente información en la parte izquierda de la pantalla:
 

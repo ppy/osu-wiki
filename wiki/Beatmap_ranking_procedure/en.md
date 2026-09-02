@@ -10,8 +10,12 @@ tags:
 
 # Beatmap ranking procedure
 
-*See also: [Rank (disambiguation)](/wiki/Disambiguation/Rank) and [Ranking queue](Ranking_queue)*
-*For beatmap categories mentioned below, see: [Beatmap Category](/wiki/Beatmap/Category)*
+::: alert-note
+**See also:** [Rank (disambiguation)](/wiki/Disambiguation/Rank) and [Ranking queue](Ranking_queue)
+:::
+::: alert-note
+**Note:** For beatmap categories mentioned below, see [Beatmap Category](/wiki/Beatmap/Category)
+:::
 
 [Beatmaps](/wiki/Beatmap) can be promoted to the community by following the beatmap ranking procedure and entering the [Ranked](/wiki/Beatmap/Category#ranked) category.
 

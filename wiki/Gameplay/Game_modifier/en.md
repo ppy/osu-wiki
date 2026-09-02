@@ -16,8 +16,13 @@ tags:
 
 # Game modifier
 
-*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*\
-*For other uses of "mod", see: [Mod (disambiguation)](/wiki/Disambiguation/Mod)*
+::: alert-note
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
+
+::: alert-note
+**Note:** For other uses of "mod", see [Mod (disambiguation)](/wiki/Disambiguation/Mod)
+:::
 
 ![Mod selection screen](img/mod-selection-screen.jpg "comparison between the mod selection screens of osu!(top-left), osu!taiko (top-right), osu!catch (bottom-left), and osu!mania (bottom-right) game modes")
 
@@ -29,7 +34,9 @@ On the selection screen, mods are separated into three categories: `Difficulty R
 
 ## List of mods
 
-*See also: [Summary (Game Modifier)](/wiki/Gameplay/Game_modifier/Summary)*
+::: alert-note
+**See also:** [Summary (Game Modifier)](/wiki/Gameplay/Game_modifier/Summary)
+:::
 
 Each of the mods below listed will have their compatible game modes' icon (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) next to it.
 
@@ -66,7 +73,10 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 ### Other
 
-*Note: These mods were used and available some time ago, but are now unavailable.*
+::: alert-notice
+**Notice**
+These mods were used and available some time ago, but are now unavailable.
+:::
 
 - [10K](/wiki/Gameplay/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out) ![][osu!mania]

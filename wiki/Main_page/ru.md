@@ -22,7 +22,7 @@ layout: main_page
 </div>
 <div class="wiki-main-page-panel">
 
-# Игровой клиент
+# [Игровой клиент](/wiki/Client)
 
 osu! — это ваш проводник в мир ритма, музыки и ярких красок. Узнайте игру получше — от множества настроек и возможностей оформления до технических деталей и форматов файлов.
 
@@ -33,7 +33,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 </div>
 <div class="wiki-main-page-panel">
 
-# Игровой процесс
+# [Игровой процесс](/wiki/Gameplay)
 
 Всё про попадание по нотам, удары по барабанам, ловлю фруктов и игру на синтезаторе: ключевые элементы, основные понятия, игровые механики, соревновательная игра.
 
@@ -50,7 +50,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Разделы: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song setup](/wiki/Client/Beatmap_editor/Song_setup)
 
-Компоненты: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Шаг временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Меню редактора карт](/wiki/Client/Beatmap_editor/Menu) • [Нагрузка от сториборда](/wiki/Client/Beatmap_editor/SB_load) • [Таймлайны](/wiki/Client/Beatmap_editor/Timelines)
+Компоненты: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Делитель доли](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Меню редактора карт](/wiki/Client/Beatmap_editor/Menu) • [Нагрузка от сториборда](/wiki/Client/Beatmap_editor/SB_load) • [Таймлайны](/wiki/Client/Beatmap_editor/Timelines)
 
 Занятия: [Маппинг](/wiki/Beatmapping) • [Техники маппинга](/wiki/Beatmapping/Mapping_techniques) • [Сторибординг](/wiki/Storyboard) • [Скиннинг](/wiki/Skinning)
 
@@ -126,7 +126,7 @@ osu! бы не было без многих пользователей, учас
 
 О том, как работать с osu! или поучаствовать в разработке.
 
-[Объявления](/wiki/Announcement_messages) • [API](/wiki/osu!api) • [Бот-аккаунт](/wiki/Bot_account) • [Фирменный стиль osu!](/wiki/Brand_identity_guidelines) • [Дискорд-сервер osu!](/wiki/Community/Discord_servers#официальный)
+[Объявления](/wiki/Announcement_messages) • [API](/wiki/osu!api) • [Бот-аккаунт](/wiki/Bot_account) • [Фирменный стиль osu!](/wiki/Brand_identity_guidelines) • [Дискорд-сервер osu!](/wiki/Community/Discord_servers#официальный-сервер)
 
 </div>
 <div class="wiki-main-page-panel">
