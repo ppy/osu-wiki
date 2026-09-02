@@ -14,6 +14,7 @@ Apabila suatu artikel memiliki judul yang serupa dengan artikel lainnya, artikel
 - [Mod](Mod)
 - [NC](NC)
 - [NM](NM)
+- [Note](Note)
 - [osu!](osu!)
 - [Ouendan](Ouendan)
 - [Rank](Rank)
