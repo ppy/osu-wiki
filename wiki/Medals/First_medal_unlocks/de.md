@@ -1,10 +1,6 @@
----
-no_native_review: true
----
-
 # Medaillen-Ruhmeshalle
 
-Dies ist eine Auflistung der Nutzer, die in der Geschichte von osu! die jeweilige Medaille als erstes verliehen bekommen haben.
+Dies ist eine Auflistung der Nutzer, die in der Geschichte von osu! die jeweilige Medaille als Erstes freigeschaltet haben.
 
 ## Beatmap Challenge Packs
 
@@ -97,6 +93,11 @@ Dies ist eine Auflistung der Nutzer, die in der Geschichte von osu! die jeweilig
 | ![](/wiki/shared/medals/loved-seasonal-2023-summer.png) | Project Loved: Summer 2023 | ::{ flag=PL }:: [Psiki](https://osu.ppy.sh/users/12985528) | 22.10.2023 (10:42:19) |
 | ![](/wiki/shared/medals/catch-packs-ghostlove.png) | in love with a ghost | ::{ flag=FR }:: [Glassive](https://osu.ppy.sh/users/12453848) | 14.02.2024 (13:27:13) |
 | ![](/wiki/shared/medals/loved-seasonal-2024.png) | Project Loved: Best of 2024 | ::{ flag=DE }:: [respektive](https://osu.ppy.sh/users/1023489) | 17.01.2025 (14:56:56) |
+| ![](/wiki/shared/medals/loved-seasonal-2025.png) | Project Loved: Best of 2025 | ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 15.06.2026 (06:08:56) |
+| ![](/wiki/shared/medals/taiko-packs-chroma.png) | Chroma Pack | ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 15.06.2026 (06:26:47) |
+| ![](/wiki/shared/medals/catch-packs-mili.png) | Mili Pack | ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 15.06.2026 (06:40:10) |
+| ![](/wiki/shared/medals/mania-packs-4k-globe.png) | 4K Globetrotter | ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 15.06.2026 (06:53:30) |
+| ![](/wiki/shared/medals/mania-packs-7k-world-cup.png) | 7K World Cup Anthology | ::{ flag=JP }:: [hisuiohani-na](https://osu.ppy.sh/users/35005394) | 15.06.2026 (06:22:16) |
 
 ## Beatmap Spotlights
 
@@ -190,6 +191,9 @@ Dies ist eine Auflistung der Nutzer, die in der Geschichte von osu! die jeweilig
 | ![](/wiki/shared/medals/taiko-secret-stargazer.png) | Stargazer | ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 18.01.2025 (16:09:11) |
 | ![](/wiki/shared/medals/osu-secret-candescence.png) | Candescence | ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | 25.12.2024 (04:44:36) |
 | ![](/wiki/shared/medals/osu-secret-icefairy.png) | The Strongest Ice Fairy | ::{ flag=CL }:: [Bomb](https://osu.ppy.sh/users/10218998) | 26.12.2024 (07:43:13) |
+| ![](/wiki/shared/medals/osu-secret-uptoeleven.png) | Up To Eleven | ::{ flag=NZ }:: [Kiwioooooo](https://osu.ppy.sh/users/35778958) | 08.04.2026 (07:31:48) |
+| ![](/wiki/shared/medals/osu-secret-waningmemory.png) | Waning Memory | ::{ flag=US }:: [MalphasBV](https://osu.ppy.sh/users/26277287) | 08.04.2026 (08:56:03) |
+| ![](/wiki/shared/medals/osu-secret-fadingreflection.png) | Fading Reflection | ::{ flag=MN }:: [irku](https://osu.ppy.sh/users/33641422) | 08.04.2026 (07:57:45) |
 
 ## Hush-Hush
 
@@ -261,6 +265,10 @@ Dies ist eine Auflistung der Nutzer, die in der Geschichte von osu! die jeweilig
 | ![](/wiki/shared/medals/all-secret-skinoftheteeth.png) | By The Skin Of The Teeth | ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166) | 25.12.2024 (04:17:31) |
 | ![](/wiki/shared/medals/all-secret-infectiousenthusiasm.png) | Infectious Enthusiasm | ::{ flag=IT }:: [Crafterdark](https://osu.ppy.sh/users/6144467) | 26.12.2024 (09:49:43) |
 | ![](/wiki/shared/medals/all-secret-meticulousmayhem.png) | Meticulous Mayhem | ::{ flag=US }:: [lilybannanas9](https://osu.ppy.sh/users/26352046) | 25.12.2024 (03:52:22) |
+| ![](/wiki/shared/medals/all-secret-hotshot.png) | Hotshot | ::{ flag=CA }:: [DrDarkMage](https://osu.ppy.sh/users/13328853) | 08.04.2026 (07:29:54) |
+| ![](/wiki/shared/medals/all-secret-hamsterwheel.png) | Hamster Wheel | ::{ flag=US }:: [Loki](https://osu.ppy.sh/users/16213641) | 08.04.2026 (07:59:53) |
+| ![](/wiki/shared/medals/all-secret-couriercatapult.png) | Courier Catapult | ::{ flag=PL }:: [ZuzaWithTheZaza](https://osu.ppy.sh/users/9225061) | 08.04.2026 (07:18:07) |
+| ![](/wiki/shared/medals/catch-secret-weatherreverie.png) | Weather Reverie | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | 08.04.2026 (08:39:05) |
 
 ## Mod Introduction
 
@@ -379,10 +387,11 @@ Dies ist eine Auflistung der Nutzer, die in der Geschichte von osu! die jeweilig
 | ![](/wiki/shared/medals/all-skill-dc-1.png) | Daily Sprout | ::{ flag=JP }:: [Chie946](https://osu.ppy.sh/users/36897991) | 25.12.2024 (03:28:07) |
 | ![](/wiki/shared/medals/all-skill-dc-7.png) | Weekly Sapling | ::{ flag=US }:: [-unable](https://osu.ppy.sh/users/11894873) | 25.12.2024 (03:28:08) |
 | ![](/wiki/shared/medals/all-skill-dc-30.png) | Monthly Shrub | ::{ flag=US }:: [-unable](https://osu.ppy.sh/users/11894873) | 25.12.2024 (03:28:08) |
+| ![](/wiki/shared/medals/osu-skill-cyclone.png) | Cyclone | ::{ flag=MY }:: [HDonlyplayer](https://osu.ppy.sh/users/16321660) | 08.04.2026 (07:18:04) |
 
 ## Trivia
 
-Am 1. August 2008 (23:08:56) schaltete [Echo](https://osu.ppy.sh/users/431) als erste Person die Medaille **500 Combo** frei.
+Mit der **500 Combo**-Medaille schaltete [Echo](https://osu.ppy.sh/users/431) am 1. August 2008 (23:08:56) als erste Person eine Medaille frei.
 
 Diese Statistiken wurden erstmals in einem [Newsbeitrag](https://osu.ppy.sh/home/news/2025-01-19-meet-the-medal-pioneers) im Januar 2025 der Öffentlichkeit bekanntgegeben.
 
@@ -394,19 +403,20 @@ Im Folgenden sind verschiedene, erwähnenswerte Errungenschaften in Bezug auf Fr
 | ![](/wiki/shared/medals/taiko-hits-30000.png) | 30,000 Drum Hits | Erste osu!taiko-Medaille | ::{ flag=FR }:: [Makimoke](https://osu.ppy.sh/users/169796) | 09.04.2012 (06:37:30) |
 | ![](/wiki/shared/medals/fruits-hits-20000.png) | Catch 20,000 fruits | Erste osu!catch-Medaille | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | 22.11.2008 (02:55:10) |
 | ![](/wiki/shared/medals/mania-hits-40000.png) | 40,000 Keys | Erste osu!mania-Medaille | ::{ flag=CN }:: [pameira](https://osu.ppy.sh/users/1272596) | 28.05.2013 (05:01:06) |
-| ![](/wiki/shared/medals/osu-skill-fc-8.png) | Aberration | Erstes osu! 8★ FC | ::{ flag=KR }:: [firebat92](https://osu.ppy.sh/users/1777162) | 17.07.2016 (12:41:58) |
+| ![](/wiki/shared/medals/osu-skill-fc-8.png) | Aberration | Erster osu! 8★ FC | ::{ flag=KR }:: [firebat92](https://osu.ppy.sh/users/1777162) | 17.07.2016 (12:41:58) |
 | ![](/wiki/shared/medals/all-secret-bunny.png) | Don't let the bunny distract you! | Erste Hush-Hush Medaille | ::{ flag=AR }:: [Pokefanrichie](https://osu.ppy.sh/users/16629) | 11.08.2008 (12:47:24) |
 | ![](/wiki/shared/medals/all-secret-perseverance.png) | Perseverance | Erste Hush-Hush (Expert) Medaille | ::{ flag=BY }:: [wasderit](https://osu.ppy.sh/users/7837284) | 17.08.2016 (09:56:45) |
 | ![](/wiki/shared/medals/all-secret-trophy.png) | Creator's Gambit | Erste Medaille mit Bezug auf Mapping | ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 04.11.2022 (07:47:25) |
 
-Unten ist eine Rangliste der Nutzer, die zuerst 3 oder mehr Medaillen freigeschaltet haben, abgebildet:
+Dies ist eine Rangliste der Nutzer, die drei oder mehr Medaillen als Erstes freigeschaltet haben:
 
-| Spieler | Medaillen als erstes freigeschaltet |
+| Spieler | Medaillen als Erstes freigeschaltet |
 | :-- | --: |
 | ::{ flag=BR }:: [Dropinx](https://osu.ppy.sh/users/4687701) | 9 |
 | ::{ flag=US }:: [Weebs Suck](https://osu.ppy.sh/users/12948001) | 9 |
 | ::{ flag=HK }:: [Novoids](https://osu.ppy.sh/users/5163523) | 8 |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 6 |
+| ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 4 |
 | ::{ flag=PT }:: [Alucard96](https://osu.ppy.sh/users/3849450) | 3 |
 | ::{ flag=DE }:: [Bin_AFK](https://osu.ppy.sh/users/5840659) | 3 |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 3 |
@@ -417,3 +427,19 @@ Unten ist eine Rangliste der Nutzer, die zuerst 3 oder mehr Medaillen freigescha
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | 3 |
 | ::{ flag=PE }:: [Vaticanus](https://osu.ppy.sh/users/4454465) | 3 |
 | ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 3 |
+| ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 3 |
+
+Dies ist eine Rangliste der Nutzer, die zwei oder mehr Medaillen als Erstes freigeschaltet haben, wobei nur Hush-Hush und Hush-Hush (Expert) Medaillen gezählt werden:
+
+| Spieler | Hush-Hush Medaillen als Erstes freigeschaltet |
+| :-- | --: |
+| ::{ flag=PT }:: [Alucard96](https://osu.ppy.sh/users/3849450) | 3 |
+| ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166) | 3 |
+| ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 3 |
+| ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 3 |
+| ::{ flag=BR }:: [Dropinx](https://osu.ppy.sh/users/4687701) | 2 |
+| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | 2 |
+| ::{ flag=KR }:: [pseudophilia](https://osu.ppy.sh/users/6192650) | 2 |
+| ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | 2 |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | 2 |
+| ::{ flag=DE }:: [xenou](https://osu.ppy.sh/users/2539403) | 2 |
