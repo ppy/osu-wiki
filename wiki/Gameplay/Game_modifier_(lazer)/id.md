@@ -124,4 +124,3 @@ Kategori **Preset Personal** terletak di kategori terpisah (di sebelah kiri **Pe
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
-	
