@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Tworzenie skórek
 
 Tworzenie skórek to jedna z głównych funkcji w osu!, która umożliwia zamianę elementów graficznych gry na własne. Można znaleźć wiele rodzajów skórek, od stworzonych dla zabawy po w pełni profesjonalne. Niektóre mogą być celowo trudne lub wręcz niemożliwe do grania z nimi.
