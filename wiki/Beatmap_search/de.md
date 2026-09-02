@@ -7,8 +7,6 @@ tags:
   - website search
   - Beatmaps suchen
   - Beatmaps finden
-outdated_translation: true
-outdated_since: f980a0470699a513320cfb92f6f3c6ae7c636446
 ---
 
 # Beatmap-Suche
@@ -67,6 +65,7 @@ Diese Filter funktionieren nur in der Songauswahl, während [osu!direct](/wiki/o
 | `artist` | Name des Künstlers |
 | `title` | Name des Songs |
 | `source` | Das Medium, in dem der Song ursprünglich erschienen ist oder mit dem er in Verbindung gebracht wird (zum Beispiel ein Videospiel, ein Film, eine Serie oder ein Ereignis) |
+| `favourites` | Anzahl Favoriten eines Beatmapsets |
 | `featured_artist` | Kennung eines [Featured Artist](/wiki/People/Featured_Artists) |
 | `creator` | Name des Beatmap-Erstellers |
 | `difficulty` | Name des Schwierigkeitsgrads der Beatmap |
@@ -77,11 +76,12 @@ Diese Filter funktionieren nur in der Songauswahl, während [osu!direct](/wiki/o
 | `star`, `stars` | [Sternebewertung](/wiki/Beatmap/Star_rating) |
 | `bpm` | [Songtempo](/wiki/Music_theory/Tempo) |
 | `length` | [Länge](/wiki/Beatmap/Play_time) in Sekunden |
+| `divisor` | Der Nenner des [Taktteilers](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | `circles` | Anzahl der Circles in der Beatmap |
 | `sliders` | Anzahl der Slider in der Beatmap |
 | `key`, `keys` | Anzahl der Keys (betrifft nur osu!mania und konvertierte Beatmaps) |
 | `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. |
-| `created` | Erstellungsdatum der Beatmap (Datum, an dem sie hochgeladen wurde) |
+| `created`, `submitted` | Erstellungsdatum der Beatmap (Datum, an dem sie hochgeladen wurde) |
 | `updated` | Datum, an dem die Beatmap zuletzt aktualisiert wurde |
 | `ranked` | Datum, an dem die Beatmap gerankt/approved wurde |
 | `tag` | Bestimmter [Nutzer-Tag](/wiki/Beatmap/Beatmap_tags#user-tags) |
@@ -92,21 +92,23 @@ Diese Filter funktionieren nur in der Songauswahl, während [osu!direct](/wiki/o
 | :-- | :-- |
 | `artist` | Name des Künstlers |
 | `title` | Songtitel |
-| `creator` | Name des Beatmap-Erstellers |
+| `source` | Das Medium, in dem der Song ursprünglich erschienen ist oder mit dem er in Verbindung gebracht wird (zum Beispiel ein Videospiel, ein Film, eine Serie oder ein Ereignis) |
+| `creator`, `author`, `mapper` | Name des Beatmap-Erstellers |
 | `diff` | Name des Schwierigkeitsgrads der Beatmap |
 | `ar` | [Approach-Rate](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Circle-Size](/wiki/Beatmap/Circle_size) |
 | `od` | [Allgemeine Schwierigkeit](/wiki/Beatmap/Overall_difficulty) |
 | `hp`, `dr` | [HP Drain-Rate](/wiki/Beatmap/HP_drain_rate) |
-| `star`, `stars` | [Sternebewertung](/wiki/Beatmap/Star_rating) |
+| `star`, `stars`, `sr` | [Sternebewertung](/wiki/Beatmap/Star_rating) |
 | `bpm` | [Songtempo](/wiki/Music_theory/Tempo) |
 | `length` | [Länge](/wiki/Beatmap/Play_time) in Sekunden |
 | `key`, `keys` | Anzahl der Keys (betrifft nur osu!mania und konvertierte Beatmaps) |
+| `ln`, `lns` | Prozentsatz der Noten, die Long Notes sind (nur osu!mania und konvertierte Beatmaps) |
 | `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. Mehrere, durch Komma (`,`) getrennte Werte sind erlaubt. |
 | `lastplayed` | Die Zeit, seit der Schwierigkeitsgrad zuletzt gespielt wurde. Das gültige Format ist `#y#M#d#h#m#s`, entsprechend für Jahre, Monate, Tage, Stunden, Minuten und Sekunden. Zum Beispiel bedeutet `2d5s` "2 Tage und 5 Sekunden". |
 | `played` | Ob die Beatmap bereits gespielt wurde. Der Wert kann `yes`, `true` sowie `1` für gespielte Beatmaps oder `no`, `false` sowie `0` für ungespielte Beatmaps sein. |
 | `divisor` | Der Nenner des [Taktteilers](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
-| `submitted` | Erstellungsdatum der Beatmap (Datum, an dem sie hochgeladen wurde) |
+| `created`, `submitted` | Erstellungsdatum der Beatmap (Datum, an dem sie hochgeladen wurde) |
 | `ranked` | Datum, an dem die Beatmap den Status "Ranked" erhielt |
 | `tag` | Bestimmter [Nutzer-Tag](/wiki/Beatmap/Beatmap_tags#user-tags) (nur in der integrierten Beatmap-Auflistung verfügbar) |
 
@@ -162,8 +164,8 @@ j-pop tag="meta/custom skin"
 
 ## Referenzen
 
-[^website-filters]: [osu!web Quellcode](https://github.com/ppy/osu-web/blob/58514a67d1f38e9842045615993252a8810fd50b/app/Libraries/Search/BeatmapsetQueryParser.php)
-[^lazer-filters]: [osu!(lazer) Quellcode](https://github.com/ppy/osu/blob/6913d75792585bab7f0c649dd6b5687e05753d33/osu.Game/Screens/Select/FilterQueryParser.cs)
+[^website-filters]: [osu!web Quellcode](https://github.com/ppy/osu-web/blob/c31fa1db6802efbdbb3842c7df087b273cfa3c4a/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^lazer-filters]: [osu!(lazer) Quellcode](https://github.com/ppy/osu/blob/ae1402c9cd6644709b6c7c65703fecee55592061/osu.Game/Screens/Select/FilterQueryParser.cs)
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

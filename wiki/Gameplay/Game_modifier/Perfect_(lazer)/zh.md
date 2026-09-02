@@ -2,8 +2,6 @@
 stub: true
 tags:
   - PF
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Perfect（lazer 模组）
@@ -30,16 +28,28 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[Perfect（模组）](/wiki/Gameplay/Game_modifier/Perfect)*\
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于该文章的 osu!(stable) 版本，请见：[Perfect（模组）](/wiki/Gameplay/Game_modifier/Perfect)
+:::
 
-**Perfect** 模组在玩家无法获得 SS 评价时自动重试[谱面](/wiki/Beatmap)，包括 Miss 单点或[转盘](/wiki/Gameplay/Hit_object/Spinner)、漏掉[滑条点 (slider tick)](/wiki/Gameplay/Hit_object/Slider/Slider_tick) 或[滑条尾](/wiki/Gameplay/Hit_object/Slider/Slidertail)，以及在任何物件的打击上获得除 GREAT 外的其他判定。
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
+
+在一张[谱面](/wiki/Beatmap)中出现 miss 或绝大多数[打击物件](/wiki/Gameplay/Hit_object)上获得低于 GREAT 的判定时，玩家将无法获得 SS [评级](/wiki/Gameplay/Grade)，此时  **Perfect** 模组会立刻触发游戏失败。在 osu!taiko 中的[长条](/wiki/Gameplay/Hit_object/Drumroll)与[转盘](/wiki/Gameplay/Hit_object/Swell)，以及 osu!catch 中的[香蕉](/wiki/Gameplay/Hit_object/Banana) 产生 miss 时不会触发。
 
 ## 自定义
 
 ![游戏客户端中 Perfect 模组的自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/PF.png)
 
-- **失败时重试**（默认启用）：[血条](/wiki/Client/Interface/Health_bar)归零时重试谱面。*启用该设置不会影响分数计入排名。*
+- `需要完美判定 (Require perfect hits)` (默认禁用): 获得除 PERFECT（彩 300）外的所有判定均会导致失败。*该设置仅在 osu!mania 模式中可用。*
+- `失败时重试 (Restart on fail)` (默认启用): 失败时自动重试谱面。
+
+以上设置任意组合均不影响分数是否可计表现分。
+
+## 冷知识
+
+- 将 Perfect 模组与 [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)) 组合使用时，会同时考虑 Easy 模组的额外生命，从而让玩家在真正判作失败前能多失误几次，并有望提交分数。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
