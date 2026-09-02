@@ -1,4 +1,8 @@
 separator: ", "
+tables:
+  no_members: Временно нет номинаторов.
+  name: Имя
+  additional_languages: Языки
 alumni:
   roles:
     academy: основатель osu!academy
