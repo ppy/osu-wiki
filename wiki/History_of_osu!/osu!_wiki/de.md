@@ -12,7 +12,7 @@ Dieser Artikel enthält die wichtigsten Ereignisse in der **Geschichte des osu!-
 
 ### 2011
 
-#### December
+#### Dezember
 
 - **05.12.2011:** Das Grundgerüst des osu!-Wikis wurde aufgebaut, wobei ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) die ersten Bearbeitungen vornahm.
 - **06.12.2011:** Das osu!-Wiki [wurde veröffentlicht](https://osu.ppy.sh/community/forums/topics/68525).
@@ -108,7 +108,7 @@ Dieser Artikel enthält die wichtigsten Ereignisse in der **Geschichte des osu!-
 
 #### Juni
 
-- **01.06.2021:** ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349) implementierte das [osu!-Wiki-Overlay](https://github.com/ppy/osu/pull/12950) in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), wodurch man auf einige Seiten des Wikis direkt im osu!(lazer)-Client zugreifen kann.
+- **01.06.2021:** ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349) implementierte das [osu!-Wiki-Overlay](https://github.com/ppy/osu/pull/12950) in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), welches es ermöglicht, auf einige Seiten des Wikis direkt im osu!(lazer)-Client zuzugreifen.
 
 #### August
 
@@ -119,5 +119,5 @@ Dieser Artikel enthält die wichtigsten Ereignisse in der **Geschichte des osu!-
 
 #### Juli
 
-- **06.07.2026:** Um Kopfnoten stärker hervorzuheben, wurden [styled alerts](https://github.com/ppy/osu-web/pull/13079) hinzugefügt, welche die Kopfnoten mit einem Symbol und einer farbigen vertikalen Linie auf der linken Seite darstellen.
-- **30.07.2026:** Eine [Nutzerkarten-Komponente](https://github.com/ppy/osu-web/pull/13125) wurde hinzugefügt, die beim hovern eines Profillinks eine Karte mit verschiedenen Nutzerstatistiken anzeigt, ähnlich wie das [BBCode](/wiki/BBCode)-Tag `[profile]`.
+- **06.07.2026:** Um Kopfnoten stärker hervorzuheben, wurden [styled alerts](https://github.com/ppy/osu-web/pull/13079) hinzugefügt, welche die Kopfnoten mit einem Symbol und einer farbigen vertikalen Linie an der linken Seite darstellen.
+- **30.07.2026:** Eine [Nutzerkarten-Komponente](https://github.com/ppy/osu-web/pull/13125) wurde hinzugefügt, die beim Hovern eines Profil-Links eine Karte mit verschiedenen Nutzerstatistiken anzeigt, ähnlich wie das [BBCode](/wiki/BBCode)-Tag `[profile]`.
