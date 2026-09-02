@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # BBCode
 
 **BBCode** to [język znaczników](https://pl.wikipedia.org/wiki/J%C4%99zyk_znacznik%C3%B3w) używany na forach osu! oraz, w szerszym zakresie, na większości forów internetowych. Służy do formatowania tekstu i składa się z tagów otaczających treść, które umożliwiają formatowanie tekstu, oznaczanie atrybutów, osadzanie multimediów i wiele innych funkcji. BBCode jest wykorzystywany w różnych miejscach na stronie osu!, takich jak posty na forum, sygnatury, strony użytkownika oraz opisy beatmap.
