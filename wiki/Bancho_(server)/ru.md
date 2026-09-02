@@ -15,7 +15,7 @@ tags:
 
 - Чат, [онлайн-статус игроков](/wiki/Client/Interface/Chat_console#расширенное-окно-чата) и [IRC-сервер](/wiki/Community/Internet_Relay_Chat)
 - [Режим зрителя](/wiki/Gameplay/Spectating)
-- [Мультиплеер](/wiki/Client/Interface/Multiplayer) и [управление турнирами](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+- [Мультиплеер](/wiki/Gameplay/Multiplayer) и [управление турнирами](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
 ::: Infobox
 ![](img/connection-warning.png "Скриншот главного меню с иконкой плохого соединения (в правом нижнем углу, слева)")

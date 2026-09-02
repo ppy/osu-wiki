@@ -84,7 +84,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania) sind die Effekte die gleichen wie in o
 ## Trivia
 
 - Beim Anschauen eines Replays, bei dem ein weiteres Leben zum Einsatz kommt, wird die Nachfüllanimation für die Gesundheit ignoriert und das Replay fortgesetzt, als ob der Spieler mit der Mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) spielen würde.
-- Im [Mehrspielermodus](/wiki/Client/Interface/Multiplayer) funktioniert der Effekt von "Leben" im Teammodus [Tag Co-op / Tag Team Vs](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) nicht.
+- Im [Mehrspielermodus](/wiki/Gameplay/Multiplayer) funktioniert der Effekt von "Leben" im Teammodus [Tag Co-op / Tag Team Vs](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs) nicht.
 - Die Mod Easy hebt die Mod [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) auf und umgekehrt.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

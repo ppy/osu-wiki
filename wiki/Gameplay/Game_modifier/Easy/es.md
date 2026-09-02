@@ -85,7 +85,7 @@ En [osu!mania](/wiki/Game_mode/osu!mania), los efectos son los mismos que en osu
 ## Curiosidades
 
 - Al ver una repetición en la que se usa una vida extra, la animación de recarga de salud se ignorará y la repetición continuará como si el jugador estuviera jugando con el mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) activado.
-- En el modo [multijugador](/wiki/Client/Interface/Multiplayer), el efecto de «vidas» no funcionará en [Tag Co-op o Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs)
+- En el modo [multijugador](/wiki/Gameplay/Multiplayer), el efecto de «vidas» no funcionará en [Tag Co-op o Tag Team Vs.](/wiki/Gameplay/Multiplayer#tag-co-op-/-tag-team-vs)
 - El mod no se puede usar con el mod [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) activado y viceversa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
