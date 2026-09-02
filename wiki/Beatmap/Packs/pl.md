@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Paczki beatmap
 
 **Paczki beatmap** to skompresowane archiwa zawierające [beatmapy](/wiki/Beatmap) pogrupowane według różnych kategorii. Można je znaleźć na [liście paczek beatmap](https://osu.ppy.sh/beatmaps/packs).
