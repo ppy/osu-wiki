@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Medale
 
 **Medale**, dawniej znane jako *osiągnięcia*, to odznaki wyświetlające się na profilach użytkowników, przyznawane za wykonanie konkretnych zadań. Obecnie w grze jest łącznie **352** medali do odblokowania w ośmiu różnych kategoriach: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) oraz [Beatmap Challenge Packs](#beatmap-challenge-packs).
