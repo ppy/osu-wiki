@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Twitter
 
 osu! posiada kilka kont na Twitterze, z czego każde z nich pełni inne funkcje. Pomimo niewielkiej aktywności oferują one wystarczającą ilość informacji o tym, co dzieje się w świecie osu!.
