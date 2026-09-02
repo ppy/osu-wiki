@@ -2,8 +2,6 @@
 stub: true
 tags:
   - CO
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Cover (mod)
@@ -34,15 +32,17 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-El mod **Cover** oculta una parte del campo de juego de forma similar a [Fade In](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) y [Hidden](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) pero con la posibilidad de personalizar el tamaño del área oscurecida.
+El mod **Cover** oculta una parte del [campo de juego](/wiki/Client/Playfield) de forma similar a [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) y [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) pero con la posibilidad de personalizar el tamaño del área oscurecida.
 
 ## Personalización
 
 ![Opciones de personalización del mod Cover en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/CO.png)
 
-- **Coverage** (0,2-0,8, predeterminado 0,5): Proporción de la altura del campo de juego en la que se ocultarán las notas.
-- **Direction** (predeterminado: Along scroll): La dirección en la que se aplica la cobertura.
-  - **Along scroll**: Cubre el campo de juego desde arriba.
-  - **Against scroll**: Cubre el campo de juego desde abajo.
+- `Coverage` (0,2-0,8, predeterminado 0,5): Proporción de la altura del campo de juego donde se ocultarán las notas.
+- `Direction` (predeterminado: Along scroll): La dirección en la que se aplicará la cobertura.
+  - `Along scroll`: Cubre el campo de juego tal y como lo hace [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)).
+  - `Against scroll`: Cubre el campo de juego tal y como lo hace [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)).
+
+Cualquier combinación de los ajustes anteriores permitirá establecer puntuaciones clasificadas.
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

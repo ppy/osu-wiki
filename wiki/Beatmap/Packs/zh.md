@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 322adbb5c9e8e17fc68e6e7f019e8ca93bd53544
 tags:
   - beatmap packs
   - pack
@@ -33,7 +31,7 @@ F2 - Rohi Pack.zip
 | 标识 | 类别 | 谱面类型 |
 | :-: | :-- | :-- |
 | **S** | 常规 | [上架 (Ranked)](/wiki/Beatmap/Category#ranked) 或[达标 (Approved)](/wiki/Beatmap/Category#approved) 的谱面 |
-| **F** | 精选艺术家 | 来自[精选艺术家](/wiki/People/Featured_Artists)的歌曲 |
+| **F** | 精选艺术家 | 来自[精选艺术家](/wiki/People/Featured_Artists)的歌曲，以[谱师公会](/wiki/Community/Mappers_Guild)已完成的任务为主 |
 | **P** | 锦标赛 | [官方锦标赛](https://osu.ppy.sh/community/tournaments)图池谱面 |
 | **L** | 社区喜爱计划 | 社区在[社区喜爱计划](/wiki/Community/Project_Loved)选出的谱面 |
 | **R** | 聚光灯 | 来自[聚光灯](/wiki/Beatmap_Spotlights)的季度挑战谱面曲包，过去被称为 *Charts* |
@@ -48,7 +46,10 @@ F2 - Rohi Pack.zip
 
 ## 备用下载方式
 
-*注意：osu! 不能保证非官方来源的文件是安全、最新与完整的。*
+::: alert-caution
+**注意**
+osu! 不能保证非官方来源的文件是安全、最新与完整的。
+:::
 
 推荐你从官方曲包列表直接下载曲包。然而，如果从官方网页下载有困难，也有若干备选方式。
 
@@ -56,10 +57,12 @@ F2 - Rohi Pack.zip
 
 目前所有曲包都储存在 `packs.ppy.sh` 服务器内部。当你无法访问服务器，或者下载速度太慢时，为了方便，你也可以使用其他用户建立的镜像站点：
 
-- [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
-  - ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) 的 [Google 表格](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo)
+- Hinamizawa.ai - osu! 的数据聚集地
+  - ::{ flag=CW }:: [TheMoonBunny](https://osu.ppy.sh/users/902250) 的[镜像网站](https://hinamizawa.ai/osu/map-packs/)
 - 迁移到 `packs.ppy.sh` 服务器前使用的早期存储站点 ( ~2023-05-07)
   - ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) 的 [MEGA 网盘](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw)
+- [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
+  - ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) 的 [Google 表格](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo)
 - [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381)
   - ::{ flag=DE }:: [nanashirei](https://osu.ppy.sh/users/807630) 的[镜像网站](http://osu.yas-online.net/)
 
