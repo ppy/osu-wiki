@@ -4,6 +4,7 @@ tags:
   - kiai section
   - tryb kiai
   - sekcja kiai
+no_native_review: true
 ---
 
 # Czas kiai
