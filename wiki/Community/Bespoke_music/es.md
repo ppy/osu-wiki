@@ -10,8 +10,7 @@ tags:
   - música
 translation_keys:
   text:
-    total_count: Actualmente, hay un total de **{total}** canciones documentadas hechas
-      dentro de osu!.
+    total_count: Actualmente, hay un total de **{total}** canciones documentadas hechas dentro de osu!.
   graph:
     title: Música hecha a medida a lo largo del tiempo
     alt_text: Gráfico de la música hecha a medida a lo largo del tiempo
@@ -32,19 +31,15 @@ translation_keys:
     notes: Notas
   table_note:
     2015 osu! theme: Tema de osu! de 2015
-    Christmas/Winter (\d{4}) osu! theme: Tema de osu! para la Navidad/invierno de
-      \1
+    Christmas/Winter (\d{4}) osu! theme: Tema de osu! para la Navidad/invierno de \1
     Current osu!\(lazer\) main theme: Tema principal actual de osu!(lazer)
     Current tutorial song: Canción actual del tutorial
-    Former \[osu!stream\]\(/wiki/osu!stream\) main theme: Antiguo tema principal de
-      [osu!stream](/wiki/osu!stream)
-    osu!\(lazer\) "ranked play" theme: Tema del modo de «partidas clasificatorias»
-      de osu!(lazer)
+    Former \[osu!stream\]\(/wiki/osu!stream\) main theme: Antiguo tema principal de [osu!stream](/wiki/osu!stream)
+    osu!\(lazer\) "ranked play" theme: Tema del modo de «partidas clasificatorias» de osu!(lazer)
     Former osu! theme: Antiguo tema de osu!
     Former tutorial song: Antigua canción del tutorial
     Halloween 2016 osu! theme: Tema de osu! para Halloween de 2016
-    Original composition for \[osu!stream\]\(/wiki/osu!stream\): Composición original
-      para [osu!stream](/wiki/osu!stream)
+    Original composition for \[osu!stream\]\(/wiki/osu!stream\): Composición original para [osu!stream](/wiki/osu!stream)
     Summer 2023 osu! theme: Tema de osu! para el verano de 2023
     \[osu!stream\]\(/wiki/osu!stream\) main theme: Tema principal de [osu!stream](/wiki/osu!stream)
     Cutscene background music: Música de fondo para las escenas
@@ -52,24 +47,19 @@ translation_keys:
     Livestream BGM: Música de fondo de la transmisión en vivo
     Main theme: Tema principal
     Trailer music: Música del tráiler
-    "Finals & Last Chance Bracket Pool #1 (.+)": "\\1 de las finales y del bracket\
-      \ de última oportunidad \\#1"
-    Finals HD3 \(osu!\), finals NM1 \(osu!catch\): HD3 de las finales (osu!), NM1
-      de las finales (osu!catch)
-    Day (\d) (.{3}) \((.+)\) / Day (\d) (.{3}) \((.+)\): \2 del día \1 (\3) / \5 del
-      día \4 (\6)
+    "Finals & Last Chance Bracket Pool #1 (.+)": \1 de las finales y del bracket de última oportunidad \#1
+    Finals HD3 \(osu!\), finals NM1 \(osu!catch\): HD3 de las finales (osu!), NM1 de las finales (osu!catch)
+    Day (\d) (.{3}) \((.+)\) / Day (\d) (.{3}) \((.+)\): \2 del día \1 (\3) / \5 del día \4 (\6)
     (osu!(?:taiko|catch|mania)?) and (osu!(?:taiko|catch|mania)?): \1 y \2
     Day (\d+) tiebreaker \((.+)\): Mapa de desempate del día \1 (\2)
     Qualifier Stage (\d+): Mapa de la fase clasificatoria \1
-    Knockout Stage (\d+) Pool (.) (.+): \3 de la pool \2 en la fase de eliminación
-      \1
+    Knockout Stage (\d+) Pool (.) (.+): \3 de la pool \2 en la fase de eliminación \1
     Pool (.+) Free Mod pick: Pool \1, selección Free Mod
     Grand Finals 7th pick: Séptimo beatmap seleccionado en la gran final
     Finals 7th pick: Séptimo beatmap seleccionado en las finales
     Semifinals/Finals (.+)(?= \(): \1 de las semifinales/finales
     Quarterfinals HD pick \(B5\): Selección HD de los cuartos de final (B5)
-    Quarterfinals & Semifinals NM pick \(C11\): Selección NM de las semifinales/finales
-      (C11)
+    Quarterfinals & Semifinals NM pick \(C11\): Selección NM de las semifinales/finales (C11)
     Quarterfinals & Semifinals (.+): \1 de los cuartos de final y las semifinales
     Finals & Grand Finals (.+): \1 de las finales y la gran final
     Round of 16 & Quarterfinals (.+): \1 de los octavos y cuartos de final
@@ -109,7 +99,9 @@ translation_keys:
     technical: Mapa técnico
     wildcard: Comodín
     \b(.{2}) pick: Selección \1
-    '"Mango" pick': Selección «Mango»
+    "\"Mango\" pick": Selección «Mango»
+outdated_translation: true
+outdated_since: 99bedac1b49df96c9a0137ee9ed7e060d8df1eba
 ---
 
 <!-- Everything inside the "Estadísticas" (Statistics) and "Listado" (Listing) sections is automated. If a translation there is incorrect, malformatted or needs to be updated, please reach out to a wiki maintainer in the `#osu-wiki` channel on the development server. -->

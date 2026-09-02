@@ -3,7 +3,7 @@ stub: true
 tags:
   - MG
 outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Magnetised（模组）
@@ -29,8 +29,20 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
-<!-- TODO description and settings -->
+使用 **Magnetised** 模组时，所有[打击物件](/wiki/Gameplay/Hit_object)都会自动靠近光标，从而更容易被玩家点击。该模组的效果与 [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel) 模组相反。
+
+## 自定义
+
+![游戏客户端中的 Magnetised 自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MG.png)
+
+- `引力强度 (Attraction strength)` (0.05–1.0，默认为 0.5): 光标吸引物件的强度。
+
+## 冷知识
+
+- Magnetised 模组[曾被称作](https://github.com/ppy/osu/pull/17588) Aim Assist。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

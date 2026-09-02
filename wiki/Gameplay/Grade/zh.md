@@ -12,17 +12,17 @@ tags:
   - 评级
 ---
 
-# 评价
+# 评级
 
 有关其它用法，请参见 [Rank（消歧义）](/wiki/Disambiguation/Rank)。
 
-**评价** 是一组字母，用来衡量玩家在一张[谱面](/wiki/Beatmap)中表现如何。它们会在结算界面上和[分数](/wiki/Gameplay/Score)一起显示。
+**评级** 是一组字母，用来衡量玩家在一张[谱面](/wiki/Beatmap)中表现如何。它们会在结算界面上和[分数](/wiki/Gameplay/Score)一起显示。
 
-玩家能获得的所有评价是 **D**、 **C**、 **B**、 **A**、 **S** 和 **SS**，从最差到最好排序。**银 S** 和 **银 SS** 需要打开 [Hidden](/wiki/Gameplay/Game_modifier/Hidden)、 [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) 或 [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) 模组才能获得。
+玩家能获得的所有评级是 **D**、**C**、**B**、**A**、**S** 和 **SS**，从最差到最好排序。**银 S** 和**银 SS** 需要打开 [Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) 或 [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) 模组才能获得。
 
 ## osu!
 
-| 评价 | 获得方法 |
+| 评级 | 获得方法 |
 | :-: | :-- |
 | SS | 准确率达 100% |
 | S | 300 的个数超过 90%，50 的个数不超过 1%，没有失误（Misses） |
@@ -33,7 +33,7 @@ tags:
 
 ## osu!taiko
 
-| 评价 | 获得方法 |
+| 评级 | 获得方法 |
 | :-: | :-- |
 | SS | 准确率达 100% |
 | S | **良** 的个数超过 90%，没有失误 |
@@ -44,7 +44,7 @@ tags:
 
 ## osu!catch
 
-| 评价 | 获得方法 |
+| 评级 | 获得方法 |
 | :-: | :-- |
 | SS | 准确率达 100% |
 | S | 准确率在 98.01% 至 99.99% 之间（即使有失误也不影响 S 的获取，如同 osu!mania） |
@@ -55,7 +55,7 @@ tags:
 
 ## osu!mania
 
-| 评价 | 获得方法 |
+| 评级 | 获得方法 |
 | :-: | :-- |
 | SS | 准确率达 100% |
 | S | 准确率高于 95%（即使有失误也不影响 S 的获取，如同 osu!catch） |

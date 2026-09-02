@@ -300,6 +300,33 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([owo! bot](https://owo-bot.xyz/)) |
 | ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([Bathbot](https://github.com/MaxOhn/Bathbot)) |
 
+### 2026
+
+#### August
+
+::: alert-note
+**Note:** Für den Newsbeitrag, siehe [Community Contributors: 2025](https://osu.ppy.sh/home/news/2026-08-02-community-contributors-2025)
+:::
+
+| Benutzer | Beiträge |
+| :-- | :-- |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Herausragende Beiträge zur Exzellenz der osu!-Community |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Herausragende Beiträge zur Turnier- und Mappingszene |
+| ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845) | Herausragende technische Beiträge zur Turnierszene von osu! |
+| ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692) | Herausragende technische Beiträge zur Offline-Turnierszene von osu! |
+| ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) | Herausragende Beiträge zu den [Beatmap-Paketen](https://osu.ppy.sh/beatmaps/packs) |
+| ::{ flag=PL }:: [Wiek](https://osu.ppy.sh/users/2584698) | Herausragende Beiträge zu Tools der Community ([Danser](https://github.com/Wieku/danser-go)) |
+| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Herausragende Beiträge zu Tools der Community ([circleguard](https://github.com/circleguard/circleguard), [ossapi](https://github.com/Liam-DeVoe/ossapi)) |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | Langjährige Beiträge zu Community- und Moderationsangelegenheiten |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Herausragende Unterstützung von Spielern über viele Jahre hinweg |
+| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Herausragende Beiträge zur Moderation verschiedener Plattformen |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Langjährige Beiträge zur Mapping- und Moddingcommunity |
+| ::{ flag=AT }:: [Maarvin](https://osu.ppy.sh/users/6411631) | Herausragende Beiträge zu Entwicklungsangelegenheiten |
+| ::{ flag=DE }:: [The_Last_Cookie](https://osu.ppy.sh/users/11587828) | Langjährige Beiträge zu deutschen Übersetzungen des osu! wikis |
+| ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | Langjährige Beiträge zu spanischen Übersetzungen des osu! wikis |
+| ::{ flag=ES }:: [Agatem](https://osu.ppy.sh/users/18202514) | Langjährige Beiträge zu spanischen Übersetzungen des osu! wikis |
+| ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) | Langjährige Beiträge zu chinesischen Übersetzungen des osu! wikis |
+
 ## Geschichte
 
 Im Februar 2018 wurde das alte Contributor-Abzeichen von ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) von ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) neu gestaltet, da es nicht zum Farbschema der neuen Webseite passte.[^redesign-reasons]

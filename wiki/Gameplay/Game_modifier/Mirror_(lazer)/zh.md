@@ -2,8 +2,6 @@
 stub: true
 tags:
   - MR
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Mirror（lazer 模组）
@@ -33,10 +31,26 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[Mirror（模组）](/wiki/Gameplay/Game_modifier/Mirror)*\
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于该文章的 osu!(stable) 版本，请见：[Mirror（模组）](/wiki/Gameplay/Game_modifier/Mirror)
+:::
 
-<!-- TODO description and settings -->
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
+
+**Mirror** 模组将整个[游戏区域](/wiki/Client/Playfield)绕一个或两个轴翻转。在 osu!catch 与 osu!mania 模式中，游戏区域总会水平翻转；而在 osu! 模式中，翻转方式由玩家选择（见[自定义](#自定义)）。
+
+## 自定义
+
+![游戏客户端中的 Mirror 自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MR.png)
+
+该模组仅在 osu! 模式中支持自定义。
+
+- `翻转轴 (Flipped axes)` (默认水平): 用于翻转[打击物件](/wiki/Gameplay/Hit_object)的轴。
+  - `水平 (Horizontal)`: 水平翻转游戏区域。
+  - `垂直 (Vertical)`: 垂直翻转游戏区域（与 [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) 模组相同）。
+  - `水平与垂直 (Both)`: 将游戏区域同时进行水平与垂直翻转。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"

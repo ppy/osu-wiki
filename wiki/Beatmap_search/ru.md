@@ -77,7 +77,7 @@ tags:
 | `star`, `stars` | [Число звёзд](/wiki/Beatmap/Star_rating) |
 | `bpm` | [Скорость песни](/wiki/Music_theory/Tempo) |
 | `length` | [Общая длительность карты](/wiki/Beatmap/Play_time) в секундах |
-| `divisor` | Знаменатель, взятый из [шага временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
+| `divisor` | Число частей, на которые [делится доля](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | `circles` | Число нот в карте |
 | `sliders` | Число слайдеров в карте |
 | `key`, `keys` | Число клавиш (только для osu!mania и конвертированных карт) |
@@ -108,7 +108,7 @@ tags:
 | `status` | Статус карты. Может быть равен `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, `loved`, для краткости — `r`/`a`/`p`/`n`/`u`/`l`. Может принимать несколько значений, разделённые запятой (`,`) |
 | `lastplayed` | Время, прошедшее с момента последней игры. Формат значения: `#y#M#d#h#m#s` для лет, месяцев, дней, часов, минут и секунд соответственно. Например, `2d5s` означает "2 дня и 5 секунд". |
 | `played` | Пройденная сложность. Значение может быть равно `yes`, `true` или `1` для сыгранных карт и `no`, `false` или `0` для несыгранных. |
-| `divisor` | Знаменатель [шага временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
+| `divisor` | Число частей, на которые [делится доля](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | `created`, `submitted` | Дата создания/загрузки карт |
 | `ranked` | Дата, когда карта получила статус `ranked` или `approved` |
 | `tag` | [Пользовательский тег](/wiki/Beatmap/Beatmap_tags#пользовательские-теги) (работает только во встроенном поиске по картам) |

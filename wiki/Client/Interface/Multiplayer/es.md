@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 700c767c79ccf1b57d76b0acda46dc032cf94ce9
+---
+
 # Multijugador
 
 **Multijugador** (a veces abreviado como *Multi*) es un modo en el que hasta 16 jugadores pueden competir entre sí individualmente o en equipos, o jugar juntos de forma cooperativa, en mapas decididos por el anfitrión.

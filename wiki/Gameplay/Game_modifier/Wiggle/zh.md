@@ -3,7 +3,7 @@ stub: true
 tags:
   - WG
 outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Wiggle（模组）
@@ -29,8 +29,16 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
-<!-- TODO description and settings -->
+**Wiggle** 模组使[谱面](/wiki/Beatmap)中的所有[打击物件](/wiki/Gameplay/Hit_object)以可自定义的强度晃动。
+
+## 自定义
+
+![游戏客户端内的 Wiggle 自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/WG.png)
+
+- `强度 (Strength)` (0.1–2.0，默认 1.0): 打击物件晃动的强度。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
