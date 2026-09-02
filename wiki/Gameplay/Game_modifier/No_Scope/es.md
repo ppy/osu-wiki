@@ -2,8 +2,6 @@
 tags:
   - noscope
   - NS
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # No Scope (mod)
@@ -26,7 +24,8 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] ![][osu!catch] |
 | Multiplicador de puntuación | `1,00x` |
 | Estado | Clasificado |
-| Mods incompatibles | [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
+| Mods incompatibles ![][osu!] | [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
+| Mods incompatibles ![][osu!catch] | Ninguno |
 
 :::
 
@@ -42,7 +41,9 @@ La visibilidad también se restablece temporalmente durante los [descansos](/wik
 
 ![Opciones de personalización del mod No Scope en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/NS.png)
 
-- **Ocultar según el combo** (0-50, 10 de forma predeterminada): El combo en el que el cursor o el catcher se ocultarán completamente. Si se establece en 0, solo será visible durante los descansos.
+- `Hidden at combo` (0-50, predeterminado: 10): El combo en el que el cursor o el catcher se ocultarán completamente. Si se establece en 0, solo será visible durante los descansos.
+
+Cualquier valor de los ajustes anteriores permitirá establecer puntuaciones clasificadas.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"

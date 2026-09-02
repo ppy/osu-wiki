@@ -2,8 +2,6 @@
 tags:
   - ScoreV2
   - SV2
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Score V2 (mod de lazer)
@@ -30,7 +28,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!(estable) de este artículo, véase [ScoreV2 (mod)](/wiki/Gameplay/Game_modifier/ScoreV2)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [ScoreV2 (mod)](/wiki/Gameplay/Game_modifier/ScoreV2)
 :::
 
 ::: alert-note
