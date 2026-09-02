@@ -429,7 +429,7 @@ Poniższe projekty ułatwiają proces formatowania tekstu przy użyciu BBCode:
 | :-: | :-: | :-- |
 | [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | Edytor BBCode przeznaczony do strony osu! z podglądem w czasie rzeczywistym |
 | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | Edytor BBCode przeznaczony do strony osu! z podglądem w czasie rzeczywistym (Zarchiwizowany) |
-| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[_____________]](https://osu.ppy.sh/users/12036908) | Tworzenie kolorowych gradientów|
+| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[_____________]](https://osu.ppy.sh/users/12036908) | Tworzenie kolorowych gradientów |
 | [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Rozszerzenie przeglądarki dodające więcej przycisków BBCode oraz inne funkcje do strony internetowej osu! |
 | [textcolorizer](https://www.stuffbydavid.com/textcolorizer) | david | Zmiana koloru tekstu przy użyciu BBCode oraz HTML |
 
