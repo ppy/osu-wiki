@@ -2,8 +2,6 @@
 stub: true
 tags:
   - HO
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Hold Off (mod)
@@ -32,5 +30,9 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+El mod **Hold Off** elimina todas las [notas largas](/wiki/Beatmap/Pattern/osu!mania/Hold_note) de un [beatmap](/wiki/Beatmap) y las reemplaza por notas normales.
+
+**Este mod no se puede personalizar.**
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

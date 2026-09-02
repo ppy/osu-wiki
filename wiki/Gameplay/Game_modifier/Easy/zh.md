@@ -7,6 +7,8 @@ tags:
   - game modifier
   - 模组
   - 游戏模组
+outdated_translation: true
+outdated_since: 6f8002d584fe1170d5671e311cafb03daf702f31
 ---
 
 # Easy（模组）

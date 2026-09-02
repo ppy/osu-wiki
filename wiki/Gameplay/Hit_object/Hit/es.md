@@ -3,6 +3,8 @@ tags:
   - hit objects
   - objeto
   - objetos
+outdated_translation: true
+outdated_since: 28c05eafc4957754b0549d2992bb3802f08b59ff
 ---
 
 # Don & Kat
