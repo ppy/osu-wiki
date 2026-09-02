@@ -11,7 +11,7 @@ Aufzeichnungen der Geschichte von osu!, alle im osu!-Wiki.
 | [2007](2007) | Anfängliche Spielentwicklung |
 | [2008](2008) | osu!taiko, osu!catch, mehr Mods und wesentliche Verbesserungen |
 | [2009](2009) | osu! iPhone, neue Mehrspieler-Modi, Kudosu-System |
-| 2010 | Wai-con 2010 |
+| [2010](2010) | Wai-con 2010 |
 | [2011](2011) | osu!-Wiki |
 | [2012](2012) | Fünf Jahre osu!, osu!mania, Breitbildunterstützung und visuelle Einstellungen |
 | [2013](2013) | Überarbeitung der UI, HD-Skins, verbesserte Breitbildunterstützung, osu!mania-Editor, Sammlungen im Spiel, moddingV2 wurde vorgestellt, Disqus, osu!api, Overlays für Genauigkeit, Comic Fiesta 2013, unbegrenzte Downloads und osu!cuttingedge (nur für osu!supporter) |
