@@ -15,7 +15,7 @@ tags:
 # Game modifier (lazer)
 
 ::: alert-note
-**Note:** Untuk versi osu!stable dari artikel ini, lihat [Game modifier](/wiki/Gameplay/Game_modifier)
+**Note:** Untuk versi osu!(stable) dari artikel ini, lihat [Game modifier](/wiki/Gameplay/Game_modifier)
 :::
 
 ::: alert-note
@@ -24,7 +24,15 @@ tags:
 
 ![](img/mod-select-ID.jpg "Layar pemilihan mod untuk mode permainan osu!")
 
-**Game modifiers**, atau **mod**, dibagi menjadi enam kategori utama: `Pengurang Kesulitan`, `Peningkat Kesulitan`, `Otomatisasi`, `Konversi`, `Hiburan` dan `Sistem`. Beberapa di antaranya dapat mengurangi atau menambah `Pengali Skor`. Saat dua atau lebih mod diaktifkan secara bersamaan, efek pengali skor dari mod-mod yang aktif juga akan ikut dikalikan satu sama lain (misalnya, `1.06x * 1.12x = 1.1872x`). Mod-mod dari kategori `Sistem` akan diterapkan secara otomatis saat dibutuhkan.
+**Game modifiers**, atau **mod**, dibagi menjadi enam kategori utama: `Pengurang Kesulitan`, `Peningkat Kesulitan`, `Otomatisasi`, `Konversi`, `Hiburan` dan `Sistem`. Mod-mod ini dapat memiliki berbagai macam efek terhadap permainan, seperti penyesuaian visual terhadap [hit objek](/wiki/Gameplay/Hit_object) di suatu [beatmap](/wiki/Beatmap) atau mengubah kecepatan map yang dimainkan. Mod-mod dari kategori `Sistem` akan diterapkan secara otomatis saat dibutuhkan.
+
+## Pengali skor mod
+
+::: alert-note
+**Halaman Utama:** [Pengali skor (lazer)](/wiki/Gameplay/Game_modifier/Mod_multiplier_(lazer))
+:::
+
+Beberapa mod dapat mengurangi atau meningkatkan nilai pengali skor. Saat dua atau lebih mod digunakan secara bersamaan, pengali skor masing-masing mod akan dikalikan bersama (misalnya `1.04x * 1.09x = 1.1336x`). Ada beberapa pengecualian, yang mana sudah dijelaskan di dalam artikel mod-mod yang bersangkutan.
 
 ## Daftar Mod
 
