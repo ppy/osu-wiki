@@ -30,7 +30,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In)
+**Note:** For the osu!(stable) version of this article, see [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In)
 :::
 
 ::: alert-note

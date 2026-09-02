@@ -16,11 +16,6 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 - **Each beatmap must use at least two different custom [combo colours](/wiki/Beatmapping/Combo_colour) unless the default skin is forced.**
   - The combo colours must not blend with the beatmap's background, storyboard or video in any case.
 - **Do not use keysounds without hitnormal support.** If sounds blend perfectly with the song, feedback for catching [fruits](/wiki/Gameplay/Hit_object/Fruit) is minimal.
-- **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
-  - **...lower than 2:30**, the lowest difficulty cannot be harder than a Salad, or provide a proper spread[^proper-spread] containing at least 4 difficulties.
-  - **...between 2:30 and 3:15**, the lowest difficulty cannot be harder than a Platter, or provide a proper spread[^proper-spread] containing at least 3 difficulties.
-  - **...between 3:15 and 4:00**, the lowest difficulty cannot be harder than a Rain, or provide a proper spread[^proper-spread] containing at least 2 difficulties.
-  - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
 
 #### Guidelines
 
@@ -32,6 +27,16 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 - **The [slider tick rate](/wiki/Beatmapping/Slider_tick_rate) should be set according to the song.** For example, if your song contains a section that uses 1/3 rhythms only, tick rate 2 would not fit the entire beatmap.
 - **Avoid using [combo colours](/wiki/Beatmapping/Combo_colour) with ~50 luminosity or lower.** Dark colours impact the readability of [fruits](/wiki/Gameplay/Hit_object/Fruit) with low background dim.
 - **Avoid using [combo colours](/wiki/Beatmapping/Combo_colour) with ~220 luminosity or higher if [Kiai time](/wiki/Gameplay/Kiai_time) is used.** Light colours create bright pulses during Kiai time, which can be unpleasant to the eyes.
+
+### Spread
+
+#### Rules
+
+- **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
+  - **...lower than 2:30**, the lowest difficulty cannot be harder than a Salad, or provide a proper spread[^proper-spread] containing at least 4 difficulties.
+  - **...between 2:30 and 3:15**, the lowest difficulty cannot be harder than a Platter, or provide a proper spread[^proper-spread] containing at least 3 difficulties.
+  - **...between 3:15 and 4:00**, the lowest difficulty cannot be harder than a Rain, or provide a proper spread[^proper-spread] containing at least 2 difficulties.
+  - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
 
 ### Skinning
 
