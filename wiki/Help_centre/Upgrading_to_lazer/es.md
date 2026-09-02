@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f287ccabf717f22c643ae835a042aeab3c24b569
+---
+
 # Actualizar a lazer
 
 osu!(lazer) es la próxima gran actualización del juego. Es la culminación de varios años de trabajo detrás de escena para relanzar laboriosamente el juego.

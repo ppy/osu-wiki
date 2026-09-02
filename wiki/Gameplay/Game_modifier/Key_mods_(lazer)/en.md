@@ -41,7 +41,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [xK (mod)](/wiki/Gameplay/Game_modifier/xK)
+**Note:** For the osu!(stable) version of this article, see [xK (mod)](/wiki/Gameplay/Game_modifier/xK)
 :::
 
 ::: alert-note

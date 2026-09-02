@@ -3,7 +3,7 @@ stub: true
 tags:
   - BL
 outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Blinds (mod)
@@ -22,7 +22,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | :-- | :-- |
 | Acrónimo | BL |
 | Tipo | Aumento de dificultad |
-| Tecla de acceso directo predeterminada | `K` |
+| Tecla de acceso directo predeterminada | `L` |
 | Modos de juego compatibles | ![][osu!] |
 | Multiplicador de puntuación | `1,12x` |
 | Estado | Clasificado |
@@ -34,8 +34,8 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-El mod **Blinds** cubre toda la pantalla con [puertas shoji](https://es.wikipedia.org/wiki/Shōji) sin posibilidad de ver los objetos que hay detrás. Cuantos más fallos consecutivos consiga el jugador, más se abrirán las puertas. Acumular el combo tendrá el efecto contrario.
+El mod **Blinds** cubre todo el [campo de juego](/wiki/Client/Playfield) con [puertas shoji](https://es.wikipedia.org/wiki/Shōji), lo que impide ver los [objetos](/wiki/Gameplay/Hit_object) que hay detrás de ellas. Cuanto más baja sea la [salud](/wiki/Gameplay/Health) del jugador, más se abrirán las puertas, y viceversa. Por este motivo, los [puntos de rendimiento](/wiki/Performance_points) que otorga este mod dependen de la [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) del [beatmap](/wiki/Beatmap).
 
-**Este mod no es personalizable.**
+**Este mod no se puede personalizar.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

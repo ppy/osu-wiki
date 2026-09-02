@@ -5,8 +5,6 @@ tags:
   - acc challenge
   - desafío de precisión
   - reto de precisión
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Accuracy Challenge (mod)
@@ -37,19 +35,19 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-El mod **Accuracy Challenge** le permite al jugador establecer una precisión mínima que debe mantener para evitar fallar un beatmap.
+El mod **Accuracy Challenge** le permite al jugador establecer una [precisión](/wiki/Gameplay/Accuracy) mínima que debe mantener para evitar fallar un beatmap. Por lo tanto, funciona de forma similar a [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), excepto que se basa en la precisión en lugar del [combo](/wiki/Gameplay/Combo_(score_multiplier)).
 
 ## Personalización
 
 ![Opciones de personalización del mod Accuracy Challenge en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/AC.png)
 
-- **Minimum accuracy** (60,0 %-99,9 %, predeterminado: 90,0 %): El jugador fallará el beatmap si la precisión es inferior a este valor.
-- **Accuracy mode** (predeterminado: Máxima alcanzable): El modo de precisión que provocará que el jugador falle el beatmap. 
-  - **Máxima alcanzable**: El jugador fallará el [beatmap](/wiki/Beatmap) inmediatamente si no se alcanza el mínimo requerido al final de este.
-  - **Estándar**: El jugador fallará el beatmap si la precisión es estrictamente inferior al valor.
-- **Restart on fail** (predeterminado: desactivado): Reinicia el beatmap cuando la precisión descienda por debajo del valor mínimo especificado.
+- `Minimum accuracy` (60,0 %-99,9 %, predeterminado: 90,0 %): El jugador fallará el beatmap si la precisión cae por debajo de este valor.
+- `Accuracy mode` (predeterminado: Máxima alcanzable): El modo de precisión que provocará que el jugador falle el beatmap. 
+  - `Máxima alcanzable`: El jugador fallará el [beatmap](/wiki/Beatmap) si ya no puede alcanzar el valor mínimo seleccionado al final de este.
+  - `Estándar`: El jugador fallará inmediatamente el beatmap si la precisión cae por debajo del valor seleccionado.
+- `Restart on fail` (predeterminado: desactivado): Reinicia automáticamente el beatmap si la barra de salud del jugador llega a 0.
 
-*El mod está clasificado independientemente de las opciones de personalización.*
+Cualquier combinación de los ajustes anteriores permitirá establecer puntuaciones clasificadas.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
