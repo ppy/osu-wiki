@@ -36,12 +36,12 @@ The Catch Indonesia Cup Open 2026 offered the following initial prize pool as ge
 
 ## Organisation
 
-The Catch the Beat Indonesia Cup Open 2025 was run by various osu! community members from Indonesia and beyond.
+The Catch the Beat Indonesia Cup Open 2026 was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | :::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) |
-| Mappool selector | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811)  |
+| Mappool selector | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
 | Custom mapper | *TBA* |
 | Playtester | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
 | Streamer | *TBA* |
@@ -49,7 +49,7 @@ The Catch the Beat Indonesia Cup Open 2025 was run by various osu! community mem
 | Referee | *TBA* |
 | Design coordinator | ::{ flag=MY }:: [mochasan\_](https://osu.ppy.sh/users/23804364) |
 | Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [smsrdzc](https://osu.ppy.sh/users/38505034), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=CA }:: [Aquatic\_3](https://osu.ppy.sh/users/22711091) |
-| Illustrator |::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233), ::{ flag=ID }:: [Rezukitazu](https://osu.ppy.sh/users/2499880), ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=ID }:: Minato [(↗)](https://twitter.com/minato28507), ::{ flag=ID }:: Reminisensi [(↗)](https://twitter.com/Reminisensi_), ::{ flag=VN }:: Utopia [(↗)](https://twitter.com/_Utopia_Hope) |
+| Illustrator | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233), ::{ flag=ID }:: [Rezukitazu](https://osu.ppy.sh/users/2499880), ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=ID }:: Minato [(↗)](https://twitter.com/minato28507), ::{ flag=ID }:: Reminisensi [(↗)](https://twitter.com/Reminisensi_), ::{ flag=VN }:: Utopia [(↗)](https://twitter.com/_Utopia_Hope) |
 | Statisician | ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829) |
 | Wiki/newspost | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422) |
 
@@ -77,7 +77,7 @@ To be announced.
 4. A referee will create a multiplayer room ten minutes in advance and will start to send out invites.
 5. If a player does not show up within **fifteen minutes** of the start time, their opponent gets to win by default.
 6. If no staff or referee is available, the match will be postponed.
-7. **No Fail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards teams who perform better in general during the course of the beatmap regardless of their remaining health at the end.
+7. **No Fail will be enforced in all beatmaps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the beatmap regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they had failed the beatmap.
    - A match can be rematched for disconnects that occur within at most 30 seconds after it has been started or 25% of the beatmap's length, whichever happens first.
 9. Lag is not a valid reason to nullify a beatmap.
@@ -110,8 +110,8 @@ To be announced.
 ![%MAX sum formula](img/formula.png)
 
    - Where:
-   - `Si` = score achieved by player `i` on the map
-   - `Smax` = highest score achieved by any player on that map
+   - `Si` = score achieved by player `i` on the beatmap
+   - `Smax` = highest score achieved by any player on that beatmap
 
 6. The 32 players with the **highest `%MAX` sum** across all the Qualifier beatmaps will advance to the knock-out stages.
    - If there are two (or more) players who share the same `%MAX` sum, the player that holds the higher total raw score will be placed in the higher seed.
