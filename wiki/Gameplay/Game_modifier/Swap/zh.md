@@ -2,8 +2,6 @@
 stub: true
 tags:
   - SW
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Swap（模组）
@@ -29,8 +27,12 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 
 :::
 
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
-<!-- TODO description and settings -->
+**Swap** 模组将反转[谱面](/wiki/Beatmap)中的所有[咚](/wiki/Gameplay/Hit_object/Hit)和[咔](/wiki/Gameplay/Hit_object/Hit)。[长条](/wiki/Gameplay/Hit_object/Drumroll)与[转盘](/wiki/Gameplay/Hit_object/Swell)不受该模组影响。
+
+**该模组不支持自定义。**
 
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

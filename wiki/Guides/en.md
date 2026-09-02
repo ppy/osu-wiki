@@ -16,12 +16,12 @@ Below is a sorted list of guides created by members of the osu! community, most 
 - [How to change a map's artist or title](Changing_the_artist_or_title)
 - [How to resolve BSS issues](BSS_issues)
 - [How to start a beatmap project](Starting_a_beatmap_project)
-- [How to time Songs](How_to_time_songs)
+- [How to time songs](How_to_time_songs)
 - [Music theory](/wiki/Music_theory)
 - [osu!mania mapping guide](osu!mania_mapping_guide)
 - [Setting the offset on the correct beat](Setting_the_offset_on_the_correct_beat)
 - [Using custom hitsounds](Using_custom_hitsounds)
-- [Timing Songs with #/8 Signatures](Timing_songs_with_8-signatures)
+- [Timing songs with N/8 time signatures](Timing_songs_with_N_per_8_time_signatures)
 
 ## Modding
 
