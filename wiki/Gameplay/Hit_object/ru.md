@@ -1,8 +1,6 @@
 ---
 tags:
   - hit objects
-outdated_translation: true
-outdated_since: ae529c3d01b7067006ddbf21f2e9eadf2bd19192
 ---
 
 # Игровые объекты
@@ -11,9 +9,9 @@ outdated_since: ae529c3d01b7067006ddbf21f2e9eadf2bd19192
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [Ноты](/wiki/Gameplay/Hit_object/Hit_circle) (hit circles) | [Дон и кат](/wiki/Gameplay/Hit_object/Hit) | Фрукты (fruits) | Ноты (notes) |
-| [Слайдеры](/wiki/Gameplay/Hit_object/Slider) (sliders) | Драмроллы (drumrolls) | Цепочки фруктов (fruit trails) | Холд-ноты (hold notes) |
-| [Спиннеры](/wiki/Gameplay/Hit_object/Spinner) (spinners) | dendens | Бананы (bananas) | x |
+| [Ноты](/wiki/Gameplay/Hit_object/Hit_circle) (hit circles) | [Дон и кат](/wiki/Gameplay/Hit_object/Hit) | Фрукты (fruits) | [Ноты](/wiki/Gameplay/Hit_object/Note) (notes) |
+| [Слайдеры](/wiki/Gameplay/Hit_object/Slider) (sliders) | [Драмроллы](/wiki/Gameplay/Hit_object/Drumroll) (drumrolls) | Цепочки фруктов (fruit trails) | [Холд-ноты](/wiki/Gameplay/Hit_object/Hold_note) (hold notes) |
+| [Спиннеры](/wiki/Gameplay/Hit_object/Spinner) (spinners) | [TicClick please help](/wiki/Gameplay/Hit_object/Swell) (swells) | Бананы (bananas) | x |
 | x | x | Гиперфрукты (hyperfruits) | x |
 
 С точки зрения программирования, холд-ноты в osu!mania не эквивалентны слайдерам в osu!standart, хотя они и сопоставлены в этой таблице ради упрощения. Другие элементы, с которыми игрок не взаимодействует во время игры, такие как полоса здоровья или киай, считаются либо модификациями игрового процесса, либо частью пользовательского интерфейса.

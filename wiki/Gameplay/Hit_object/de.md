@@ -1,8 +1,6 @@
 ---
 tags:
   - Hit-Objekte
-outdated_translation: true
-outdated_since: d6c7c0584fb357f15e4cb27909721fed36058c8e
 ---
 
 # Hit-Objekt
@@ -11,9 +9,9 @@ outdated_since: d6c7c0584fb357f15e4cb27909721fed36058c8e
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [Hit-Circles](/wiki/Gameplay/Hit_object/Hit_circle) | Hit-Circles | [Fruits](/wiki/Gameplay/Hit_object/Fruit) | Notes |
-| [Slider](/wiki/Gameplay/Hit_object/Slider) | Drumrolls | [Juice Stream](/wiki/Gameplay/Hit_object/Juice_stream) | Hold-Notes |
-| [Spinner](/wiki/Gameplay/Hit_object/Spinner) | Dendens | [Bananen](/wiki/Gameplay/Hit_object/Banana) | x |
+| [Hit-Circles](/wiki/Gameplay/Hit_object/Hit_circle) | [Don & Kat](/wiki/Gameplay/Hit_object/Hit) | [Fruits](/wiki/Gameplay/Hit_object/Fruit) | [Notes](/wiki/Gameplay/Hit_object/Note) |
+| [Slider](/wiki/Gameplay/Hit_object/Slider) | [Drumrolls](/wiki/Gameplay/Hit_object/Drumroll) | [Juice Stream](/wiki/Gameplay/Hit_object/Juice_stream) | [Hold-Notes](/wiki/Gameplay/Hit_object/Hold_note) |
+| [Spinner](/wiki/Gameplay/Hit_object/Spinner) | [Swells](/wiki/Gameplay/Hit_object/Swell) | [Bananen](/wiki/Gameplay/Hit_object/Banana) | x |
 | x | x | [Hyperfruits](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
 
 Aus Programmiersicht sind Hold-Notes in osu!mania nicht gleichzusetzen mit Slidern in osu!, auch wenn sie zur Vereinfachung in dieser Tabelle zusammengefasst wurden. Andere Elemente, mit denen während des Spielens nicht interagiert wird, wie z. B. die Gesundheitsleiste oder die Kiai-Sterne, werden entweder als spielverbessernd oder als Teil der Benutzeroberfläche betrachtet.
