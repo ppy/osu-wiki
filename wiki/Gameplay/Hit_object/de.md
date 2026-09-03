@@ -10,7 +10,7 @@ tags:
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
 | [Hit-Circles](/wiki/Gameplay/Hit_object/Hit_circle) | [Don & Kat](/wiki/Gameplay/Hit_object/Hit) | [Fruits](/wiki/Gameplay/Hit_object/Fruit) | [Notes](/wiki/Gameplay/Hit_object/Note) |
-| [Slider](/wiki/Gameplay/Hit_object/Slider) | [Drumrolls](/wiki/Gameplay/Hit_object/Drumroll) | [Juice Stream](/wiki/Gameplay/Hit_object/Juice_stream) | [Hold-Notes](/wiki/Gameplay/Hit_object/Hold_note) |
+| [Slider](/wiki/Gameplay/Hit_object/Slider) | [Drumrolls](/wiki/Gameplay/Hit_object/Drumroll) | [Juice-Stream](/wiki/Gameplay/Hit_object/Juice_stream) | [Hold-Notes](/wiki/Gameplay/Hit_object/Hold_note) |
 | [Spinner](/wiki/Gameplay/Hit_object/Spinner) | [Swells](/wiki/Gameplay/Hit_object/Swell) | [Bananen](/wiki/Gameplay/Hit_object/Banana) | x |
 | x | x | [Hyperfruits](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
 
