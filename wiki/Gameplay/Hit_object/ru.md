@@ -11,7 +11,7 @@ tags:
 | :-: | :-: | :-: | :-: |
 | [Ноты](/wiki/Gameplay/Hit_object/Hit_circle) (hit circles) | [Дон и кат](/wiki/Gameplay/Hit_object/Hit) | [Фрукты](/wiki/Gameplay/Hit_object/Fruit) (fruits) | [Ноты](/wiki/Gameplay/Hit_object/Note) (notes) |
 | [Слайдеры](/wiki/Gameplay/Hit_object/Slider) (sliders) | [Драмроллы](/wiki/Gameplay/Hit_object/Drumroll) (drumrolls) | [Цепочки фруктов](/wiki/Gameplay/Hit_object/Juice_stream) (fruit trails) | [Холд-ноты](/wiki/Gameplay/Hit_object/Hold_note) (hold notes) |
-| [Спиннеры](/wiki/Gameplay/Hit_object/Spinner) (spinners) | [TicClick please help](/wiki/Gameplay/Hit_object/Swell) (swells) | [Бананы](/wiki/Gameplay/Hit_object/Banana) (bananas) | x |
+| [Спиннеры](/wiki/Gameplay/Hit_object/Spinner) (spinners) | [Свеллы](/wiki/Gameplay/Hit_object/Swell) (swells) | [Бананы](/wiki/Gameplay/Hit_object/Banana) (bananas) | x |
 | x | x | [Гиперфрукты](/wiki/Gameplay/Hit_object/Hyperfruit) (hyperfruits) | x |
 
 С точки зрения программирования, холд-ноты в osu!mania не эквивалентны слайдерам в osu!standart, хотя они и сопоставлены в этой таблице ради упрощения. Другие элементы, с которыми игрок не взаимодействует во время игры, такие как полоса здоровья или киай, считаются либо модификациями игрового процесса, либо частью пользовательского интерфейса.
