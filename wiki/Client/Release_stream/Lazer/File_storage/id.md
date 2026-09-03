@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: 85336b766cf167431bb7faf921f1a0f766ac270e
+outdated_translation: true
 ---
 
 # Penyimpanan berkas di osu!(lazer)
