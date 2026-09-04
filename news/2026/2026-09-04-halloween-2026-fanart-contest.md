@@ -5,7 +5,7 @@ date: 2026-09-04 20:00:00 +0000
 series: art_contests
 ---
 
-Spooky month is upon us (next month), which means pippi and co. have plenty of time to get ready for more tricks and treats!
+Spooky season is upon us (next month), which means pippi and co. have plenty of time to get ready for more tricks and treats!
 
 ![](https://assets.ppy.sh/contests/296/banner.jpg)
 
@@ -17,7 +17,7 @@ All pens, whether digital or traditional, were made for this moment:
 
 Ideas may be cheap, but good ideas often come from iterating on previous ones and adding your own twist. Maybe these would take your fancy?
 
-- pippi and Mocha serving coffee to Shadows resembling themselves.
+- pippi and Mocha serving coffee to shadows resembling themselves.
 - Alisa and Tama on a train trip passing by Kisaragi Station.
 - Mani and Mari exploring the deafening silence of a haunted school trapped in a pocket dimension.
 - Taikonator acting a little strange under the blood moon, about to turn Aiko(nator) into something a little less human.
