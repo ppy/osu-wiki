@@ -1,7 +1,7 @@
 # Punktzahl
 
 ::: alert-note
-**Anmerkung:** Siehe auch [Score (Begriffsabgrenzung)](/wiki/Disambiguation/Score).
+**Anmerkung:** [Score (Begriffsabgrenzung)](/wiki/Disambiguation/Score).
 :::
 
 Die Punktzahl eines Spielers nach dem erfolgreichen Abschluss einer [Beatmap](/wiki/Beatmap) hängt von den [Beurteilungen](/wiki/Gameplay/Judgement), die der Spieler bei jedem [Hit-Objekt](/wiki/Gameplay/Hit_object) erzielt, ab. Allgemein gibt es zwei Hauptversionen des Punktesystems.
