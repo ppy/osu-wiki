@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 54beafba216840adfed39a7224382435c05f119c
+---
+
 # Установка osu! на macOS
 
 ## Минимальные системные требования

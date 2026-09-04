@@ -1,5 +1,6 @@
 ---
-no_native_review: true
+outdated_translation: true
+outdated_since: 54beafba216840adfed39a7224382435c05f119c
 ---
 
 # 在 macOS 上安裝

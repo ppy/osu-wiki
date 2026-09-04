@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 54beafba216840adfed39a7224382435c05f119c
+---
+
 # Встановлення на macOS
 
 Ця стаття приблизно розкаже вам, як встановити osu! на девайсі під керівництвом macOS.
