@@ -17,7 +17,7 @@ All pens, whether digital or traditional, were made for this moment:
 
 Ideas may be cheap, but good ideas often come from iterating on previous ones and adding your own twist. Maybe these would take your fancy?
 
-- pippi and Mocha serving coffee to shadows resembling themselves.
+- pippi and Mocha serving coffee to Shadows resembling themselves.
 - Alisa and Tama on a train trip passing by Kisaragi Station.
 - Mani and Mari exploring the deafening silence of a haunted school trapped in a pocket dimension.
 - Taikonator acting a little strange under the blood moon, about to turn Aiko(nator) into something a little less human.
@@ -57,7 +57,7 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 Whenever you're ready, head over to the [Halloween 2026 Fanart Contest listing](https://osu.ppy.sh/community/contests/296) and drag-&-drop your entry into the box with the plus sign in it.
 
-You may reupload your entry to your heart's content if you want to make any adjustments, but you only have **20 days** until the fog sets, the sky turns red and it's too dark to submit anything (24 September 2026, 18:00 UTC), so don't waver over brush lines for too long (or the grue will get you)!
+You may reupload your entry to your heart's content if you want to make any adjustments, but you only have **26 days** until the fog sets, the sky turns red and it's too dark to submit anything (30 September 2026, 18:00 UTC), so don't waver over brush lines for too long (or the grue will get you)!
 
 Also, you're completely free to post and showcase your entry on social media! Maybe you'll want to tag it with `#osufanart` so people can find it easily.
 
