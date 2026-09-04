@@ -16,7 +16,9 @@ Numerosi giocatori hanno raggiunto il primo posto in ogni modalità di gioco con
 
 ## ![][osu!] osu!
 
-*Pagina principale: [Cronologia delle classifiche di osu!](osu!)*
+::: alert-note
+**Pagina principale:** [Cronologia delle classifiche di osu!](osu!)
+:::
 
 Al 11 luglio 2026, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
 
@@ -25,6 +27,10 @@ Al 11 luglio 2026, nella [classifica delle performance di osu!](https://osu.ppy.
 Al 23 luglio 2026, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
+
+::: alert-note
+**Pagina principale:** [Cronologia delle classifiche di osu!catch](osu!catch)
+:::
 
 Al 27 agosto 2026, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283/fruits).
 
