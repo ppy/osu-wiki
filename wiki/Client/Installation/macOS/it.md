@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 54beafba216840adfed39a7224382435c05f119c
+---
+
 # Installazione su macOS
 
 Questa pagina ti guiderà in linea di massima nell'installazione di osu! sul tuo dispositivo macOS.
