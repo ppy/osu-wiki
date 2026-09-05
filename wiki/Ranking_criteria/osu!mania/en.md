@@ -206,7 +206,7 @@ Additional guidelines for *4 key Insane* difficulties:
 Additional guidelines for *7 key Insane* difficulties:
 
 - **Avoid using 1/4 jacks with 3+ notes in the middle of chordstream.** These require finger independence that is too difficult for players at this level.
-- **In the middle of a long chordstream, avoid exceeding an average of 7 notes per beat.** Overlapping chords between two beats count towards the following or the preceding beat but not both.
+- **In the middle of a long chordstream, avoid exceeding an average of 7 notes per beat.** Overlapping chords between two beats count towards the following or preceding beat but not both.
 - **Bracket streams should be used sparingly.**
 
 ### ![](/wiki/shared/diff/expert-m.png?20211215) Expert
