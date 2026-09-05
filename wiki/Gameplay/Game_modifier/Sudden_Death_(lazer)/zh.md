@@ -31,7 +31,7 @@ tags:
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见 [Sudden Death (模组)](/wiki/Gameplay/Game_modifier/Sudden_Death)
+**注:** 对于该文章的 osu!(stable) 版本，请见 [Sudden Death (模组)](/wiki/Gameplay/Game_modifier/Sudden_Death)
 :::
 
 ::: alert-note

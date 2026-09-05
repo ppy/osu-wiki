@@ -1,5 +1,4 @@
 ---
-outdated: true
 tags:
   - カリフォルニア
   - クラブ

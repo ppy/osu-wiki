@@ -26,8 +26,7 @@ tags:
 | Default shortcut key ![][osu!] ![][osu!taiko] ![][osu!catch] | `H` |
 | Default shortcut key ![][osu!mania] | `J` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier ![][osu!] ![][osu!taiko] ![][osu!catch] | `1.06x` |
-| Score multiplier ![][osu!mania] | `1.00x` |
+| Score multiplier | See [Scoring](#scoring) |
 | Status | Ranked |
 | Incompatible mods ![][osu!] | [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 | Incompatible mods ![][osu!taiko] ![][osu!catch] | None |
@@ -36,7 +35,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden)
+**Note:** For the osu!(stable) version of this article, see [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden)
 :::
 
 ::: alert-note
@@ -54,6 +53,30 @@ This mod can only be customised in the osu! game mode.
 - `Only fade approach circles` (default: disabled): Make the approach circles invisible without applying the fade effect on hit objects.
 
 Enabling this setting will cause your scores to be **unranked**.
+
+## Scoring
+
+### ![][osu!] osu!
+
+In osu!, Hidden has a score multiplier of `1.04x` by default.[^multiplier]
+
+- If `Only fade approach circles` is enabled, the multiplier is reduced by `0.02x`.
+- If any of the mods [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate) or [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel) are enabled, the multiplier is reduced by `0.02x`.
+- If [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) is enabled, the two previous rules are ignored and the multiplier is set to `1.00x`.
+
+So for instance, when playing with Hidden, Grow and Repel, Hidden has a score multiplier of `1.02x`.
+
+### ![][osu!taiko] osu!taiko and ![][osu!catch] osu!catch
+
+In osu!taiko and osu!catch, Hidden has a score multiplier of `1.06x`.
+
+### ![][osu!mania] osu!mania
+
+In osu!mania, Hidden has a score multiplier of `1.00x`.
+
+## References
+
+[^multiplier]: [`OsuScoreMultiplierCalculatorV2` in osu!(lazer)'s source code](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L141-L152)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

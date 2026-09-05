@@ -30,7 +30,7 @@ tags:
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见：[Fade In（模组）](/wiki/Gameplay/Game_modifier/Fade_In)
+**注:** 对于该文章的 osu!(stable) 版本，请见：[Fade In（模组）](/wiki/Gameplay/Game_modifier/Fade_In)
 :::
 
 ::: alert-note

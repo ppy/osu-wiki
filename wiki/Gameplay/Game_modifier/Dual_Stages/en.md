@@ -28,7 +28,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Co-op (mod)](/wiki/Gameplay/Game_modifier/Co-op)
+**Note:** For the osu!(stable) version of this article, see [Co-op (mod)](/wiki/Gameplay/Game_modifier/Co-op)
 :::
 
 ::: alert-note

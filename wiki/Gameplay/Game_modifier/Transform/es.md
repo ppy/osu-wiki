@@ -2,8 +2,6 @@
 stub: true
 tags:
   - TR
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Transform (mod)
@@ -32,5 +30,9 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+El mod **Transform** hace que todos los [objetos](/wiki/Gameplay/Hit_object) aparezcan ligeramente desplazados con respecto a su posición en el [beatmap](/wiki/Beatmap) (el desplazamiento exacto depende de la [velocidad de aproximación](/wiki/Beatmap/Approach_rate)) para luego desplazarse a su posición real, momento en el que el jugador debe golpearlos.
+
+**Este mod no se puede personalizar.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

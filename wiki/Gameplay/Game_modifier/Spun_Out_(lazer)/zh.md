@@ -23,14 +23,14 @@ tags:
 | 类别 | 自动化 |
 | 默认快捷键 | `B` |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | `0.90x` |
+| 得分系数 | `0.95x` |
 | 状态 | 计入排名 |
 | 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
 
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见 [Spun Out (模组)](/wiki/Gameplay/Game_modifier/Spun_Out)
+**注:** 对于该文章的 osu!(stable) 版本，请见 [Spun Out (模组)](/wiki/Gameplay/Game_modifier/Spun_Out)
 :::
 
 ::: alert-note
