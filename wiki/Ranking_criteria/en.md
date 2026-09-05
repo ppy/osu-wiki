@@ -4,7 +4,7 @@ This article sets rules and guidelines that [beatmaps](/wiki/Beatmap) must follo
 
 - **Rules must not be broken under any circumstance.**
 - **Guidelines may be ignored and broken under exceptional circumstances.** When doing so, a sufficient explanation should be provided by the mapper either upfront or when prompted during the modding process.
-- **Allowances clarify what is already acceptable**. They grant no exception to any rule or guideline, and the absence of one carries no meaning.
+- **Allowances clarify what is already acceptable.** They grant no exception to any rule or guideline, and the absence of one carries no meaning.
 
 ## Table of contents
 
@@ -84,7 +84,7 @@ Important to understand before using:
 
 ### Allowances
 
-- Backgrounds, Videos, and Storyboards created for osu! Official tournament releases can be used in other beatmaps of the same song. When used, ensure all relevant creators are tagged using current usernames or aliases when these assets are used.
+- Backgrounds, videos, and storyboards created for osu! official tournament releases can be used in other beatmaps of the same song. When these assets are used, ensure all relevant creators are tagged using current usernames or aliases.
 
 ## Beatmap
 
