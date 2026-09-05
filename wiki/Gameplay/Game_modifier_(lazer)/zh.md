@@ -14,6 +14,8 @@ tags:
   - 模组列表
   - 个人预设
   - 自定义
+outdated_translation: true
+outdated_since: 7948b9f2ca3fe3533b6727d65cb9d514b5c82db7
 ---
 
 # 游戏模组 (lazer)

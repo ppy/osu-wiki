@@ -3,6 +3,8 @@ stub: true
 tags:
   - doubletime
   - DT
+outdated_translation: true
+outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 ---
 
 # Double Time（lazer 模组）

@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: f287ccabf717f22c643ae835a042aeab3c24b569
----
-
 # Umstellung auf lazer
 
 osu!(lazer) ist das nächste große Update des Spiels. Es ist das Ergebnis jahrelanger Arbeit hinter den Kulissen, die das Spiel von Grund auf neu implementiert.
@@ -64,7 +59,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Offset-Kalibrierung pro Beatmap | ![Teilweise][partial][^offset-calibration-stable] | ![Ja][true][^offset-calibration-lazer] |
 | osu!-Slider "schlängeln" sich beim Halten | ![Nein][false] | ![Ja][true][^can-disable] |
 | Spielerfreundliches "Notelock" | ![Nein][false] | ![Ja][true][^note-lock] |
-| Einfärbung von Noten in osu! und osu!mania basierend auf dem Timing | ![Nein][false] | ![Ja][true] |
+| Einfärbung von Noten in osu!, osu!catch und osu!mania basierend auf dem Timing | ![Nein][false] | ![Ja][true] |
 | In Replays vor-/zurückspulen | ![Nein][false] | ![Ja][true] |
 | Durchlaufende Replay-Kommentare wie bei [Niconico](https://de.wikipedia.org/wiki/Nico_Nico_Douga) | ![Ja][true] | ![Nein][false] |
 
@@ -128,7 +123,7 @@ Anstatt, dass das Spiel pausiert während sich die Lebensleiste füllt, wird die
 
 #### Unterschiede im Bewertungssystem
 
-Die Anforderungen an die Genauigkeit (und die Beurteilungen) für jede [Note](/wiki/Gameplay/Grade) sehen in osu!(stable) wie folgt aus:
+Die Anforderungen an die Genauigkeit (und die Beurteilungen) für jede [Note](/wiki/Gameplay/Grade) sehen in stable wie folgt aus:
 
 | Note | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
@@ -138,7 +133,7 @@ Die Anforderungen an die Genauigkeit (und die Beurteilungen) für jede [Note](/w
 | B | >70 % GREATs/300s (keine Misses) oder >80 % GREATs/300s | >90 % | >80 % |
 | C | >60 % GREATs/300s | >85 % | >70 % |
 
-Hingegen hat osu!(lazer) die folgenden Anforderungen:
+Hingegen hat lazer die folgenden Anforderungen:
 
 | Note | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
@@ -169,12 +164,6 @@ Darüber hinaus gibt es Unterschiede, wie viele Punkte man für jedes Hit-Objekt
 | Umkehrbar mit der Classic-Mod | ![Nein][false] |
 | Absichtliche Änderung | ![Ja][true] |
 | Weitere Prüfung notwendig | ![Ja][true] |
-
-#### Storyboardtrigger sind nicht implementiert
-
-Einige Storyboards enthalten Funktionen, die auf Spielereingaben oder die Lebenspunkte reagieren.
-
-![](img/sb-triggers.gif)
 
 ### osu!
 
@@ -320,17 +309,6 @@ In stable war es nicht möglich, Drumrolls zu schnell oder zu langsam zu treffen
 | Absichtliche Änderung | ![Ja][true] |
 | Weitere Prüfung notwendig | ![Ja][true] |
 
-#### Der Mittelpunkt der Taschenlampe stimmt mit dem Beurteilungskreis überein
-
-In stable ist der Mittelpunkt der Taschenlampe bei der Mod Flashlight etwas nach unten und nach rechts versetzt, wodurch mehr Hit-Objekte sichtbar sind.
-
-|  |  |
-| :-- | :-: |
-| Abwärtskompatibel | ![Ja][true] |
-| Umkehrbar mit der Classic-Mod | ![Nein][false] |
-| Absichtliche Änderung | ![Nein][false] |
-| Weitere Prüfung notwendig | ![Ja][true] |
-
 ### osu!catch
 
 #### Die Generierung von Hyperdashes kann in einigen Fällen unterschiedlich sein
@@ -460,9 +438,9 @@ Davon abgesehen können vorläufig einzelne Scores und Beatmaps aus lazer export
 
 #### Wenn ich einen Score in lazer erreiche, wird er dann in meinem Profil angezeigt?
 
-Ja, aber nicht unter "Beste Performance", wenn der "Lazer-Modus" auf der Webseite deaktiviert ist.
+Scores, die in lazer erreicht wurden, werden unter `Angepinnte Scores`, `Beste Performance`, `Zuletzt gespielt (24h)` und `Meistgesehene Replays` angezeigt.
 
-Außerdem wird der Score vorerst nicht unter der Übersicht "Erster Platz" erscheinen.
+Damit sie auch unter `Erster Platz` erscheinen, musst du den `Lazer-Modus` auf der Webseite aktivieren.
 
 #### Wenn ich einen Score in lazer erreiche, wird es dafür Performance-Punkte geben?
 
