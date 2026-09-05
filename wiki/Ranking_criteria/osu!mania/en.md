@@ -156,8 +156,8 @@ Additional guidelines for *4 key Normal* difficulties:
 
 Additional guidelines for *7 key Normal* difficulties:
 
-- **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns. However, using a double that is played with the other hand than the long note is fine.
-- **Bracket patterns should be used sparingly.**
+- **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns.
+- **Avoid 1/4 bracket patterns.** 1/2 bracket patterns should be used sparingly.
 - **Long notes played with adjacent keys that are held simultaneously should be released at the same time.** Long notes with multiple release timings require coordination that players of this level cannot reasonably handle.
 
 ### ![](/wiki/shared/diff/hard-m.png?20211215) Hard
@@ -184,8 +184,8 @@ Additional guidelines for *4 key Hard* difficulties:
 Additional guidelines for *7 key Hard* difficulties:
 
 - **Avoid chords with more than 4 notes.** This includes long note patterns that involve notes in more than four columns.
-- **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
 - **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
+- **In the middle of a long chordstream, chords should be at least 1/1 beat apart from each other.** Chordstreams with higher chord frequency should not be longer than 2/1 beats.
 
 ### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 
@@ -206,10 +206,7 @@ Additional guidelines for *4 key Insane* difficulties:
 Additional guidelines for *7 key Insane* difficulties:
 
 - **Avoid using 1/4 jacks with 3+ notes in the middle of chordstream.** These require finger independence that is too difficult for players at this level.
-- **In the middle of a long chord stream with a chord every...**
-  - ...1/1, there should not be more than 3 notes, except at the beginning/end of a stream, when 4 is acceptable.
-  - ...1/2, there should not be more than 2 notes.
-  - ...1/4, it's recommended to use a single note instead unless there is extremely clear musical justification.
+- **In the middle of a long chord stream, avoid exceeding an average of 7 notes per beat.** Overlapping chords between two beats count towards the following or the preceding beat but not both.
 - **Bracket streams should be used sparingly.**
 
 ### ![](/wiki/shared/diff/expert-m.png?20211215) Expert
