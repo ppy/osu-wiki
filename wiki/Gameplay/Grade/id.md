@@ -13,7 +13,7 @@ tags:
 # Grade
 
 ::: alert-note
-**Untuk penggunaan lain, lihat:** [Rank (disambiguasi)](/wiki/Disambiguation/Rank).
+**Catatan:** Untuk penggunaan lain, [Rank (disambiguasi)](/wiki/Disambiguation/Rank).
 :::
 
 **Grade (penilaian)**, di osu!, adalah sekumpulan huruf yang mewakili performa pemain dalam memainkan [beatmap](/wiki/Beatmap). Grade menyertai total [skor](/wiki/Gameplay/Score) yang diperoleh di layar hasil bermain (result screen) dan muncul di semua daftar beatmap di samping skor.
