@@ -59,7 +59,9 @@ Refer to the [osu!mania Mapping Guide](/wiki/Guides/osu!mania_mapping_guide) for
 
 Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
-### Rules
+### General
+
+#### Rules
 
 - **The `Auto` mod must be able to achieve the full score (1,000,000) in all difficulties.**
 - **Two notes cannot be placed in a single column at the same timestamp.**
@@ -70,12 +72,8 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **If the beatmap includes any key counts above 10, or multiple [key modes](#common-terms) or [playstyles](#common-terms), each difficulty's name must denote its key mode or playstyle. Otherwise, all difficulty names must not denote key modes or playstyles.**
 - **Each non-[standard playstyle](#common-terms) present in a beatmap must be denoted in the beatmap's tags.**
 - **Difficulties using an [N+1 playstyle](#common-terms) must enable the `Use special style (N+1 style) for mania` option under the `Advanced` tab of the `Song Setup` window. The beatmap must also include the "N+1" tag.** For the purposes of this rule, only playstyles with key counts below 10 can be considered "N+1".[^n-plus-1]
-- **If the [drain time](/wiki/Beatmap/Drain_time) of any difficulty is...**
-  - **...lower than 2:00**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Normal or lower, or provide a proper spread[^proper-spread] containing at least 4 difficulties.
-  - **...between 2:00 and 2:45**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Hard or lower, or provide a proper spread[^proper-spread] containing at least 3 difficulties.
-  - **...between 2:45 and 3:30**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Insane or lower, or provide a proper spread[^proper-spread] containing at least 2 difficulties.
 
-### Guidelines
+#### Guidelines
 
 - **Every note should correlate to a sound present in the music.** This should be a distinct sound, but can also coherently represent a continuous sound with an indistinguishable start or end. Exceptions in favour of simplification should be made when following the music completely accurately...
   - would be unreasonable to play with full accuracy.
@@ -90,6 +88,15 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **Slider velocity changes should be snapped according to the song's beat structure.** If the song is using a straight beat, 1/4, 1/8, 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used. If the song has a beat in a different position from what is recommended, snapping to an actual beat always takes priority.
 - **Avoid spamming short kiai time segments.** Doing so can be distracting and can negatively affect gameplay.
 - **Breaks should only be used when a section of music is extremely calm or silent.** Lower difficulties, especially on higher BPM songs, may use breaks to avoid parts of a song that are unreasonable for new players to play.
+
+### Spread
+
+#### Rules
+
+- **If the [drain time](/wiki/Beatmap/Drain_time) of any difficulty is...**
+  - **...lower than 2:00**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Normal or lower, or provide a proper spread[^proper-spread] containing at least 4 difficulties.
+  - **...between 2:00 and 2:45**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Hard or lower, or provide a proper spread[^proper-spread] containing at least 3 difficulties.
+  - **...between 2:45 and 3:30**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Insane or lower, or provide a proper spread[^proper-spread] containing at least 2 difficulties.
 
 ## Difficulty-specific
 

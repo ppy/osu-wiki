@@ -4,6 +4,7 @@ This article sets rules and guidelines that [beatmaps](/wiki/Beatmap) must follo
 
 - **Rules must not be broken under any circumstance.**
 - **Guidelines may be ignored and broken under exceptional circumstances.** When doing so, a sufficient explanation should be provided by the mapper either upfront or when prompted during the modding process.
+- **Allowances clarify what is already acceptable.** They grant no exception to any rule or guideline, and the absence of one carries no meaning.
 
 ## Table of contents
 
@@ -81,6 +82,10 @@ Important to understand before using:
 - **[Kiai](/wiki/Gameplay/Kiai_time) should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
 - **The `Enable countdown` setting should be consistent between difficulties of the same mode.** If a difficulty does not have a long enough intro period for the countdown to occur, this setting does not need to be consistent.
 
+### Allowances
+
+- Backgrounds, videos, and storyboards created for osu! official tournament releases can be used in other beatmaps of the same song. When these assets are used, ensure all relevant creators are tagged using current usernames or aliases.
+
 ## Beatmap
 
 ::: alert-notice
@@ -115,7 +120,7 @@ Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) a
 
 ### Rules
 
-- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be used to accurately beatmap the song's time signatures.** If an incorrect time signature lasts for more than one bar, an uninherited timing point must be added on the next downbeat to reset the time signature. For #/4-signatures unsupported by the editor, metronome resets or editing of the `.osu` file are acceptable. For other unsupported time signatures, refer to this [exemplary chart](/wiki/shared/timing/Timing_signature_reference_chart.png), and see the [Timing songs with #/8-signatures](/wiki/Guides/Timing_songs_with_8-signatures) guide for further information.
+- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be used to accurately beatmap the song's time signatures.** If an incorrect time signature lasts for more than one bar, an uninherited timing point must be added on the next downbeat to reset the time signature. For #/4-signatures unsupported by the editor, metronome resets or editing of the `.osu` file are acceptable. For other unsupported time signatures, refer to this [exemplary chart](/wiki/shared/timing/Timing_signature_reference_chart.png), and see the [Timing songs with N/8 time signatures](/wiki/Guides/Timing_songs_with_N_per_8_time_signatures) guide for further information.
 - **Beatmaps must be perfectly timed.** This means [BPM](/wiki/Music_theory/Tempo) and offset of each [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) are exactly synchronised with the song. Beatmaps with constantly changing BPM may be impossible to perfectly time and should instead be as accurate as possible without negatively affecting gameplay. Complex timing during breaks or spinners is optional.
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be the same in every difficulty of a beatmap.** Each point must have the same [BPM](/wiki/Music_theory/Tempo) and offset in each difficulty.
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) should only be used when required for timing purposes.** Unnecessary timing points may unintentionally affect main-menu pulsing, add unwanted sounds to the [Nightcore mod](/wiki/Gameplay/Game_modifier/Nightcore), or cause timing to shift. Acceptable uses include:

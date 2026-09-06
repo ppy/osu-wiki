@@ -20,7 +20,7 @@
 - [Руководство по редактированию аудио](Audio_editing)
 - [Сжатие файлов](Compressing_files)
 - [Нестандартные хитсаунды](Custom_sample_overrides)
-- [Тайминг песен с размером такта #/8](Timing_songs_with_8-signatures)
+- [Тайминг песен с размером такта #/8](Timing_songs_with_N_per_8_time_signatures)
 - [Теория музыки](/wiki/Music_theory)
 
 ## Моддинг

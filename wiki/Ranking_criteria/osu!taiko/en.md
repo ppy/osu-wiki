@@ -42,41 +42,56 @@ This set of **osu!taiko ranking criteria** lays out [rules and guidelines](/wiki
 
 General rules and guidelines apply to every kind of osu!taiko difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
-### Rules
+### Overall
+
+#### Rules
 
 All rules are exactly that: **rules**. They are **not** guidelines and must **not** be broken under **any** circumstances.
 
 - **Each note must have its colour clearly distinguishable from the previous and upcoming notes.**
 - **Every note must be clearly assignable to a [musical layer](/wiki/Music_theory/Layer) or layer unit it tries to represent, be it to enhance a layer the song provides, or be it an additional layer improvised by the mapper.** Do not improvise in a fashion that shifts the pace, contradicts the general music movement or misinterprets the song's current intensity. Improvising must either enhance a current layer of the song or add a new one. Otherwise, relation to the song is given up and this contradicts the main purpose of a rhythm game.
 - **The `Omit first bar line` feature of an uninherited timing point must be used when a BPM change/metronome reset would hinder gameplay experience aesthetically by adding unnecessary bar lines.**
-- **[Taiko template backgrounds](/wiki/Beatmap/Background/Taiko_template_background) must not be used.** They do not work as they were originally intended to in more common aspect ratios.
 - **Slider tails must not be wrongly snapped to correct missing slider ticks.** This behaviour is unintended and will be corrected in the future.
+- **[Taiko template backgrounds](/wiki/Beatmap/Background/Taiko_template_background) must not be used.** They do not work as they were originally intended to in more common aspect ratios.
+- **Do not leave any blank space between the taiko playfield and the background.** If this happens, you should alter the last zero in the `.osu` via notepad in the `0,0,"name_of_background.file_extension",0,0` line under the `[Events]` header. Positive values will lower the background while negative values will move it up.
+
+#### Guidelines
+
+Guidelines may be ignored under **exceptional** circumstances. These exceptional circumstances must be justified by an exhaustive explanation as to why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
+
+- **Avoid visually obstructing notes on the playfield with active spinners.** Spinners cover the majority of the screen, so ending them too close towards the upcoming notes can result in reading spikes. Usually having 1/2 distance between a spinner and the following note solves this.
+- **Substantial overlapping should be avoided so that the colour of each note is still easily readable and does not pose unnecessary visual disturbance.** Overlapping should only be done if the song's pacing or note snapping at that point could justify it.
+- **Avoid following multiple [layers](/wiki/Music_theory/Layer) of the song if it is unclear which rhythm is being prioritised.** Players should be able to discern what part of the song is being followed.
+- **Avoid rhythms which are in no way predictable.** Rhythm can be made intuitive through the usage of consistent timeline gaps bridging between different snappings or through rest moments.
+- **Kiai time should only be used for the chorus or emphasised parts of a song.** Kiai flashes/short kiais are discouraged for several reasons: they disturb the gameplay experience especially on low-end PC users, and can cause trouble for epileptic users.
+- **Slider tick rate should be set according to the song.** In most cases, it should be set to 1. If the song uses 1/3 as its main snapping, use tick rate 3 to snap the drumroll ticks to 1/3.
+- **If custom hitsounds are in use, they should be drum-related.** Heavier/lower tones should be set as don and a lighter/higher tones should be set as kat.
+- **Use low volume or silent spinners only when it suits a low volume section of the song.** In most other scenarios, having audible hitsound feedback on spinners is highly recommended.
+- **Avoid covering essential parts of the background with the taiko playfield.**
+
+### Spread
+
+#### Rules
+
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
   - **...lower than 2:30**, the lowest difficulty cannot be harder than a Futsuu.
   - **...between 2:30 and 3:15**, the lowest difficulty cannot be harder than a Muzukashii.
   - **...between 3:15 and 4:00**, the lowest difficulty cannot be harder than an Oni.
   - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
-- **Do not leave any blank space between the taiko playfield and the background.** If this happens, you should alter the last zero in the `.osu` via notepad in the `0,0,"name_of_background.file_extension",0,0` line under the `[Events]` header. Positive values will lower the background while negative values will move it up.
 
-### Guidelines
-
-Guidelines may be ignored under **exceptional** circumstances. These exceptional circumstances must be justified by an exhaustive explanation as to why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
+#### Guidelines
 
 - **There should not be any drastically large difficulty gaps between any two difficulties below Inner Oni**, with leniency being applied between guest difficulties to make coordinating a spread between multiple mappers easier.
-- **Avoid covering essential parts of the background with the taiko playfield.**
+
+### Slider Velocity
+
+#### Guidelines
+
+- **The base slider velocity should be 1.40 throughout all difficulties of a beatmap.** This is to ensure optimal quantity of notes on the playfield, as well as the optimal distance of separation between different notes.
 - **If slider velocity changes are in use, they should correspond to pacing changes in the song.** That means not speeding up calm parts, or slowing down fast paced parts of a song.
 - **Avoid using smooth slider velocity changes over sections which include variable snapping.** Doing so impacts the readability of these snappings, so keep the variation low enough to avoid overlapping.
 - **Avoid abrupt slider velocity changes within patterns that already overlap (e.g. 1/4 streams).** Smooth slider velocity changes should be used in these cases to ensure that the patterns stay readable.
-- **Substantial overlapping should be avoided so that the colour of each note is still easily readable and does not pose unnecessary visual disturbance.** Overlapping should only be done if the song's pacing or note snapping at that point could justify it.
-- **Avoid rhythms which are in no way predictable.** Rhythm can be made intuitive through the usage of consistent timeline gaps bridging between different snappings or through rest moments.
-- **Kiai time should only be used for the chorus or emphasised parts of a song.** Kiai flashes/short kiais are discouraged for several reasons: they disturb the gameplay experience especially on low-end PC users, and can cause trouble for epileptic users.
-- **The base slider velocity should be 1.40 throughout all difficulties of a beatmap.** This is to ensure optimal quantity of notes on the playfield, as well as the optimal distance of separation between different notes.
-- **Slider tick rate should be set according to the song.** In most cases, it should be set to 1. If the song uses 1/3 as its main snapping, use tick rate 3 to snap the drumroll ticks to 1/3.
-- **Avoid following multiple [layers](/wiki/Music_theory/Layer) of the song if it is unclear which rhythm is being prioritised.** Players should be able to discern what part of the song is being followed.
-- **Use low volume or silent spinners only when it suits a low volume section of the song.** In most other scenarios, having audible hitsound feedback on spinners is highly recommended.
 - **Songs with variable BPM may use frequent slider velocity changes in order to keep the scrolling speed at which notes move approximately constant.** Doing this will make the timeline gaps between notes easily predictable and enhance gameplay experience by avoiding overlaps due to BPM changes.
-- **Avoid visually obstructing notes on the playfield with active spinners.** Spinners cover the majority of the screen, so ending them too close towards the upcoming notes can result in reading spikes. Usually having 1/2 distance between a spinner and the following note solves this.
-- **If custom hitsounds are in use, they should be drum-related.** Heavier/lower tones should be set as don and a lighter/higher tones should be set as kat.
 
 ## Difficulty-specific
 

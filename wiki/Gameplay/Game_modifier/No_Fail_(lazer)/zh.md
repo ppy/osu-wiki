@@ -30,7 +30,7 @@ tags:
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见：[No Fail（模组）](/wiki/Gameplay/Game_modifier/No_Fail)
+**注:** 对于该文章的 osu!(stable) 版本，请见：[No Fail（模组）](/wiki/Gameplay/Game_modifier/No_Fail)
 :::
 
 ::: alert-note

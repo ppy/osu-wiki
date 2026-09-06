@@ -32,7 +32,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Cinema (mod)](/wiki/Gameplay/Game_modifier/Cinema)
+**Note:** For the osu!(stable) version of this article, see [Cinema (mod)](/wiki/Gameplay/Game_modifier/Cinema)
 :::
 
 ::: alert-note

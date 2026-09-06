@@ -2,8 +2,6 @@
 tags:
   - hit objects
   - objets
-outdated_translation: true
-outdated_since: d6c7c0584fb357f15e4cb27909721fed36058c8e
 ---
 
 # Objets
@@ -12,9 +10,9 @@ Les *objets* sont des éléments avec lesquels les joueurs peuvent intéragir pe
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [cercles](/wiki/Gameplay/Hit_object/Hit_circle) | cercles | [fruits](/wiki/Gameplay/Hit_object/Fruit) | notes |
-| [sliders](/wiki/Gameplay/Hit_object/Slider) | drumrolls | [juice stream](/wiki/Gameplay/Hit_object/Juice_stream) | hold notes |
-| [spinners](/wiki/Gameplay/Hit_object/Spinner) | dendens | [bananas](/wiki/Gameplay/Hit_object/Banana) | x |
+| [cercles](/wiki/Gameplay/Hit_object/Hit_circle) | [Don & Kat](/wiki/Gameplay/Hit_object/Hit) | [fruits](/wiki/Gameplay/Hit_object/Fruit) | [notes](/wiki/Gameplay/Hit_object/Note) |
+| [sliders](/wiki/Gameplay/Hit_object/Slider) | [drumrolls](/wiki/Gameplay/Hit_object/Drumroll) | [juice stream](/wiki/Gameplay/Hit_object/Juice_stream) | [hold notes](/wiki/Gameplay/Hit_object/Hold_note) |
+| [spinners](/wiki/Gameplay/Hit_object/Spinner) | [swells](/wiki/Gameplay/Hit_object/Swell) | [bananas](/wiki/Gameplay/Hit_object/Banana) | x |
 | x | x | [hyperfruits](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
 
 Du point de vue de la programmation, les hold notes dans osu!mania ne sont pas équivalentes aux curseurs dans le mode osu!, bien qu'elles aient été regroupées pour simplifier ce tableau. D'autres éléments avec lesquels on n'interagit pas pendant le jeu, comme la barre de santé ou les kiai stars, sont considérés comme améliorant le jeu ou faisant partie de l'interface utilisateur.

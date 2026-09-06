@@ -21,7 +21,7 @@ A continuación, se muestra una lista ordenada de guías creadas por miembros de
 - [Guía de mapping de osu!mania](osu!mania_mapping_guide)
 - [Cómo establecer la compensación en el compás correcto](Setting_the_offset_on_the_correct_beat)
 - [Usar hitsounds personalizados](Using_custom_hitsounds)
-- [Temporizar canciones con compases de #/8](Timing_songs_with_8-signatures)
+- [Temporizar canciones con compases de #/8](Timing_songs_with_N_per_8_time_signatures)
 
 ## Modding
 

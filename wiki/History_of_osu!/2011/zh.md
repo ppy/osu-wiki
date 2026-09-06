@@ -3,7 +3,7 @@ no_native_review: true
 stub: true
 ---
 
-# 2011
+# osu! 2011 大事记
 
 ## 二月
 
