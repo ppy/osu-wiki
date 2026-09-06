@@ -64,7 +64,7 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
 - Any region restrictions **must** be reasonable, e.g. between countries with a shared language, political history, or geographic region.
 - The tournament series **must not** run more than two times per year.
 - The tournament format **must** be at least Round of 16 double-elimination or Round of 32 single-elimination.
-  - For LAN tournaments, the format **must** be at least Round of 8 double-elimination or Round of 16 single-elimination.
+  - LAN tournaments **may** operate on a Quarterfinals double-elimination or Round of 16 single-elimination format **if and only if** their bracket is held entirely offline.
   - Larger formats, such as group stages and Swiss brackets, **may** also be used **if** they start with at least 16 teams.
     - If applicable and starting with only 16 teams, the format **must** break to a double-elimination bracket afterwards.
   - Draft or auction style tournaments **may** follow the same reduced bracket size as LAN events **if** they are open rank[^open-rank] and have a minimum team size of 8.
@@ -77,7 +77,7 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
   - osu!mania 4K: 40,000
   - osu!mania 7K: 5,000
 - Tournament organisers **shall not** collect, allow the submission of, or utilise any personal information[^personal-information] from any registrants for any reason outside of these defined exceptions:
-  - Email addresses **may** be collected and used by tournament organisers for any reason **if** it is absolutely necessary for the tournament to function.
+  - Email addresses **may** be collected and used by tournament organisers **if** it is absolutely necessary for the tournament to function.
   - Personal information **may** be collected as needed to fulfill legal, financial, or tax obligations and to fulfill the distribution of monetary or physical prizes.
   - Other exceptions to this rule **may** be granted by the committee, provided the tournament organiser provides a thorough justification to them via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
   - For tournaments restricting registrations by country, profile flags **should** be used as the basis for entry.
@@ -108,7 +108,7 @@ Officially-supported tournaments **must** meet certain quality standards and mai
 
 Below are header images used in various community tournaments. These headers should be used as a reference for **above average** graphics quality. This level of quality should be aimed for by tournaments seeking official support.
 
-For each of these tournaments, take note of the design of the forum post and other imagery used across the forum post and spreadsheets.
+For each of these tournaments, take note of the overall design of the forum post and other imagery used across the forum post and spreadsheets.
 
 ##### osu! finnish tournament 9
 
@@ -132,7 +132,7 @@ Tournaments requesting official support **must** adhere to the following:
     - Second offense: 6 month hosting ban
     - Third offense: 1 year hosting ban
     - Fourth offense: Indefinite hosting ban
-  - The sanction scale will reset by one step once a year has elapsed since the host's most recent offense. Repeat offenses will always result in at minimum a 6 month hosting ban.
+  - The sanction scale will reset by one step each year that has elapsed since the host's most recent offense. Repeat offenders are never re-eligible for a second warning.
 - All registrants **must** be screened by the [account support team](/wiki/People/Account_support_team) before play commences.[^play-commence] See [screening](#screening) for more details.
 - If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament **must not** prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the committee for a case-by-case review (see [contact](#contact)).
@@ -176,7 +176,7 @@ A list of all tournament staff **must** be publicly visible in an easily accessi
 
 Participants in officially supported tournaments are expected to adhere to the [osu! community rules](/wiki/Rules) at all times, regardless of their rank, accomplishments, or other achievements. They are also expected to treat all volunteers involved in hosting a tournament with respect, and to not deliberately attempt to waste their time or otherwise excessively complicate the undertaking of a tournament with their actions. Players are responsible for maintaining smooth communication with staff, team members, and opposing teams, particularly regarding scheduling.
 
-Additionally, players are expected to have participated in a given tournament in order to qualify for any prizes it **may** award — simply qualifying as a member of a winning team is not enough. Because there are intangible contributions to teams that players often make without playing maps, only players who *do not play any maps at all* throughout the course of a tournament **may** be denied a badge prize.
+Additionally, players are expected to have participated in a given tournament in order to qualify for any prizes it awards — simply qualifying as a member of a winning team is not enough. As such, players who *do not play any maps at all* throughout the course of a tournament **may** be denied a badge prize.
 
 At the account support team's discretion, offending players may be issued timed or indefinite [tournament bans](/wiki/Help_centre/Tournament_sanctions#tournament-bans) depending on the severity of their behaviour. Repeat offenders may risk incurring an indefinite tournament ban or a restriction.
 
@@ -224,7 +224,7 @@ Tournaments which are not seeking official support **may** request screening. If
 
 #### Overview
 
-Hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) before play commences[^play-commence] with a screening request. Hosts are then **required** to disqualify all screened users. This list is provided by the [account support team](/wiki/People/Account_support_team) as a response to the screening email. The typical wait time for a response is **10-14 days**. If a response is not received after 14 days, [contact the committee](#contact).
+Hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) before play commences[^play-commence] with a screening request. Hosts are then **required** to disqualify all screened users in accordance with the list provided by the [account support team](/wiki/People/Account_support_team) as a response to the screening email. The typical wait time for a response is **10–14 days**. If a response is not received after 14 days, [contact the committee](#contact).
 
 Screening exists to protect competitive integrity by preventing users with recent serious infringements or active tournament bans from participating.
 
@@ -299,7 +299,7 @@ At this time, a maximum of two news posts are permitted per tournament receiving
 
 If a news post advertising registrations is denied, the committee **may** inform hosts of their potential eligibility for a conclusionary news post. Hosts and organisers interested in doing so **must** send in a new request after the tournament has concluded.
 
-For assistance with authoring or merging, join the [osu! Discord](https://discord.gg/ppy) and ask for help in the `#osu-wiki` channel.
+For assistance with authoring or merging, join the [osu! Discord](https://discord.com/invite/ppy) and ask for help in the `#osu-wiki` channel.
 
 #### Main-menu banners
 
@@ -324,20 +324,22 @@ Due to main-menu banners appearing everywhere across osu!, they **must** be of *
 - It **must** be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 - It **must not** include any sort of sponsorship or promote anything besides the tournament.
 - It **must** clearly display the logo, motif, **and** name of the tournament, plus any information about the ongoing stage or section that is being advertised.
+- The design **must not** include any AI-generated assets.
 - The submission **must** be a `.png` file.
-- The width **must not** exceed `1000px`. Smaller widths **may** be used.
-- The height **must** be exactly `180px`.
+- The frame width **must not** exceed `1000px`. Smaller widths **may** be used.
+- The frame height **must** be exactly `180px`.
+- The banner **must** have sufficient padding around the edges.
 - All banner images will be treated as `2x`, meaning that they will be exported at 50% scale into a `1x` image. Design the images appropriately to ensure everything is legible at half size. The image shown to users depends on the resolution of their osu! client.
 
-Designers **should** make use of the [asset previewer tool](https://tcomm.hivie.tn/assets-previewer?tab=in-game-banners) to see how banners will appear in-game and on the website.
+Designers **should** make use of the template image (shown below) and the [asset previewer tool](https://tcomm.hivie.tn/assets-previewer?tab=in-game-banners) to see how banners will appear in-game and on the website.
+
+![](https://assets.ppy.sh/media/mainmenu_template.png)
 
 Below are examples of previously approved main-menu banners:
 
 [![](img/coegts-menubanner.png)](https://osu.ppy.sh/community/forums/topics/2098556?n=1)
 
 [![](img/4wc24-menubanner.png)](/wiki/Tournaments/4WC/2024)
-
-[**Click here to download the main-menu banner template image.**](https://assets.ppy.sh/media/mainmenu_template.png)
 
 ### Tri-badge {id=tri-badge-support}
 
@@ -421,8 +423,6 @@ Badge images **must** adhere to the following standards:
 - The design **must not** use any drawings or artwork without the permission from any rights holders.
 - The tournament **must** receive permission to use any trademarks referenced in the tournament's name, branding, or materials from the relevant rights holders.
 
-The committee reserves the right to require a badge be redesigned for any reason.
-
 Designers **should** make use of the [badge visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=badges) to preview how badges will appear on profiles.
 
 ### Examples
@@ -431,7 +431,7 @@ Below are examples of exemplary profile badge designs:
 
 [![](img/phkc-badge.png)](https://osu.ppy.sh/community/forums/topics/2036687?n=1) [![](img/egts-w-2022@2x.png)](/wiki/Tournaments/GTS/EGTS_2022) [![](img/PRISM241ST@2x.png)](/wiki/Tournaments/Project_Prism/2024)
 
-Submissions that do not meet these standards will be refused with reasoning. In some cases, a complete redesign may be required.
+Submissions that do not meet these standards will be refused with reasoning. Under these circumstances, the committee reserves the right to require a badge to be redesigned.
 
 ## Revocation of support
 
@@ -451,32 +451,24 @@ There are three main ways to get in contact with the committee:
 - Sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
   - When emailing, CC any co-hosts and always use "Reply to all" for ongoing threads.
 - Submitting a ticket or report through the [Tournament Committee website](https://tcomm.hivie.tn/).
-- Pinging the `@tournament-committee` role in the [osu! Discord](https://discord.gg/ppy).
+- Pinging the `@tournament-committee` role in the [osu! Discord](https://discord.com/invite/ppy).
 
-Generally, these are the reasons each method **should** be used. Contact methods with the ![false] icon **must not** be used for the corresponding contact reason.
+Generally, these are the reasons each method **should** be used alongside expected wait times for a response. Contact methods with the ![false] icon **must not** be used for the corresponding contact reason.
 
-| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy)[^intervention] |
-| :-- | :-: | :-: | :-: |
-| Official tournament support requests | ![true] | ![false] | ![false] |
-| News post and main-menu banner requests | ![true] | ![false] | ![false] |
-| Conclusion / prize request | ![true] | ![false] | ![false] |
-| Anonymous inquiry or report | ![true] | ![false] | ![false] |
-| Tournament format approval requests | ![partial] | ![true] | ![false] |
-| Quick clarification on beatmap compliance | ![partial] | ![true] | ![true] |
-| Quick questions about procedures | ![partial] | ![true] | ![true] |
-| Immediate assistance / intervention by the committee | ![partial] | ![partial] | ![true] |
+| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.com/invite/ppy)[^intervention] |
+| :-- | :-- | :-- | :-- |
+| Official tournament support requests / screening | ![true] 10–14 days | ![false] | ![false] |
+| News post and main-menu banner requests | ![true] 10–14 days | ![false] | ![false] |
+| Conclusion / badge request | ![true] [^badge-request] | ![false] | ![false] |
+| Anonymous inquiry or report | ![true] [^anonymous-inquiry] | ![false] | ![false] |
+| Tournament format approval requests | ![false] | ![true] 10–14 days | ![false] |
+| Complex issues requiring resolution by the committee | ![partial] 10–14 days | ![true] a few days | ![false] |
+| Tournament reports | ![false] | ![true] 10–14 days | ![false] |
+| Quick clarification on beatmap compliance | ![false] | ![true] a few hours | ![true] a few hours |
+| Quick questions about procedures | ![false] | ![true] a few days | ![true] a few hours |
+| Immediate assistance / intervention by the committee | ![false] | ![false] | ![true] a few hours |
 
-The following table details **approximate** wait times for common inquiries. Wait times vary depending on the complexity of the inquiry and method of contact. Simple queries are sometimes answered in minutes, while complex topics requiring group consensus can take longer. Response times also vary depending on the urgency of the request.
-
-| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy)[^intervention] |
-| :-- | :-: | :-: | :-: |
-| Official tournament support requests / screening | 10–14 days | ![false] | ![false] |
-| News post and main-menu banner requests | 10–14 days | ![false] | ![false] |
-| Tournament format approval requests | 10–14 days | 10–14 days | ![false] |
-| Complex issues requiring resolution by the committee | 10–14 days | 10–14 days | ![false] |
-| Tournament reports | No response | 10–14 days | ![false] |
-| Quick questions about procedures | A few days | A few days | A few hours |
-| Immediate assistance / intervention by the committee | A few days | A few days | A few hours |
+Wait times for a resolution vary depending on the complexity and urgency of the inquiry as well as the method of contact. Simple queries are sometimes answered in minutes, while complex topics requiring group consensus can take longer.
 
 ## FAQ
 
@@ -499,10 +491,12 @@ Yes! See [Official beatmapping contest support](/wiki/Contests/Official_support)
 ## Notes
 
 [^open-rank]: Open rank tournaments do not place restrictions on individual registrations based on rank or other skill metrics
-[^intervention]: After joining the [Discord server](https://discord.gg/ppy), navigate to `#tournaments` and ping the `@tournament-committee` role for immediate assistance. Emergency use only.
+[^intervention]: After joining the [Discord server](https://discord.com/invite/ppy), navigate to `#tournaments` and ping the `@tournament-committee` role for immediate assistance. Emergency use only.
 [^personal-information]: Personal information is defined as any information that can be used to identify, contact, or locate a specific individual, either directly or indirectly. This includes but is not limited to email addresses, ID cards, and passports.
 [^play-commence]: Play "commences" once any seedings or brackets have been finalised. Therefore, Qualifiers may be exempt from this.
 [^preliminary-event]: Other tournaments for which participation and/or placement can constitute a direct qualification into another are considered preliminary.
+[^badge-request]: You will receive a notification on the osu! website when your review has started
+[^anonymous-inquiry]: Requests requiring this level of anonymity are frequently routed to the support team and will carry longer response times
 
 [true]: /wiki/shared/true.png "Allowed, preferred"
 [false]: /wiki/shared/false.png "Not allowed"
