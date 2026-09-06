@@ -1,5 +1,9 @@
 # For help translating this file, see https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-info.
 separator: ", "
+tables:
+  no_members: No members at this time.
+  name: Name
+  additional_languages: Additional languages
 alumni:
   roles:
     academy: osu!academy founder
