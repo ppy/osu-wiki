@@ -312,11 +312,12 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Semifinals
 
+**[Download the mappack here (161 MB)](https://packs.ppy.sh/P336%20-%20osu%21mania%204K%20World%20Cup%202026%3A%20Semifinals.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2867287632)
 
 - Rice
   1. [Yoko Kanno - Inner Universe (Hyphen Bootleg) (DourGent) \[Challenge (Cut)\]](https://osu.ppy.sh/beatmapsets/2616500#mania/5867928)
-  2. Ariabl'eyeS - Kegarenaki Bara Juuji (Cut Ver.) (Miaurichesu) \[Sorrow 1.05x\] (link pending)
+  2. [Ariabl'eyeS - Kegarenaki Bara Juuji (Cut Ver.) (Miaurichesu) \[Sorrow 1.05x\]](https://osu.ppy.sh/beatmapsets/2616552#mania/5868054)
   3. [Falcom Sound Team jdk - RELEASE OF THE FAR WEST OCEAN (Hylotl) \[Great Vortex\]](https://osu.ppy.sh/beatmapsets/2616507#mania/5867951)
   4. [Lycoris vs. Pied d'Alouette - Kaleidoscope (koth) \[Warm, bright, indomitable.\]](https://osu.ppy.sh/beatmapsets/2616515#mania/5867970)
   5. [PUKE GIRL - BAD END (Doshowz) \[bad tech\]](https://osu.ppy.sh/beatmapsets/2410575#mania/5234173)
@@ -324,13 +325,13 @@ The final standings for the Qualifier stage can be found in the following [sprea
   7. [d.j.xaneiro - Risoku (caracol) \[Bust Card\]](https://osu.ppy.sh/beatmapsets/2616511#mania/5867959)
 - Hybrid
   1. [Yu\_Asahina - History Makers Rings (Hytex) \[The World Remembers\]](https://osu.ppy.sh/beatmapsets/2616533#mania/5867996)
-  2. Cansol - Jazz Invasion (V1do-) \[CRASH! (w Yuiesta)\] (link pending)
+  2. [Cansol - Jazz Invasion (V1do-) \[CRASH! (w/ Yuiesta)\]](https://osu.ppy.sh/beatmapsets/2616558#mania/5868133)
   3. [False Noise - Kek (Cut Ver.) (Alicia) \[w\]](https://osu.ppy.sh/beatmapsets/2616514#mania/5867969)
 - Long Note
   1. [Iwami Takashi - Noraneko no Shinryaku (rikan) \[Frenzy\]](https://osu.ppy.sh/beatmapsets/2616517#mania/5867974)
-  2. DECO27 - Telepathy feat. Hatsune Miku (Yuiesta) \[Dizzy / 1.10\] (link pending)
+  2. [DECO\*27 - Telepathy feat. Hatsune Miku (Yuiesta) \[Dizzy / 1.10\]](https://osu.ppy.sh/beatmapsets/2616547#mania/5868022)
   3. [Camellia vs. Kaminose Tsukasa - Resonant Musical Automaton of Twin Agates (elexire) \[Metamorphose\]](https://osu.ppy.sh/beatmapsets/2616518#mania/5867978)
-  4. Feryquitous feat. Aitsuki Nakuru - Kairikou (Abraxos) \[abrax / "REFRACT" / scotty\] (link pending)
+  4. [Feryquitous feat. Aitsuki Nakuru - Kairikou (Abraxos) \[abrax / "REFRACT" / scotty\]](https://osu.ppy.sh/beatmapsets/2616542#mania/5868014)
 - Tiebreaker
   1. **[penoreri - Vacant Rhapsody (-mint-) \[The Last Petal to Fall\]](https://osu.ppy.sh/beatmapsets/2616528#mania/5867991)**
 
