@@ -8,8 +8,6 @@ tags:
   - pantallas táctiles
   - dispositivo táctil
   - dispositivos táctiles
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Touch Device (mod de lazer)
@@ -39,7 +37,7 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-El mod **Touch Device** indica que una puntuación se jugó en [un dispositivo con pantalla táctil](/wiki/Gameplay/Input_device/Touch_device) y usó entradas táctiles durante una partida (excluyendo [descansos](/wiki/Beatmap/Break)).[^touch-inputs-ref] Ajusta los cálculos de la [calificación por estrellas](/wiki/Beatmap/Star_rating) y de los [puntos de rendimiento](/wiki/Performance_points) para tener en cuenta la dificultad reducida de los [jumps](/wiki/Beatmap/Pattern/osu!/Jump) con este estilo de juego.
+El mod **Touch Device** indica que una puntuación se jugó en un [dispositivo con pantalla táctil](/wiki/Gameplay/Input_device/Touch_device) y usó entradas táctiles durante una partida (excluyendo [descansos](/wiki/Beatmap/Break)).[^touch-inputs-ref] Ajusta los cálculos de la [calificación por estrellas](/wiki/Beatmap/Star_rating) y de los [puntos de rendimiento](/wiki/Performance_points) para tener en cuenta la dificultad reducida de los [jumps](/wiki/Beatmap/Pattern/osu!/Jump) con este estilo de juego.
 
 El usuario no puede seleccionar el mod Touch Device. Se aplica a las puntuaciones automáticamente cuando se cumplen las condiciones.
 

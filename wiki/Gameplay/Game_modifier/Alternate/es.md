@@ -2,8 +2,6 @@
 stub: true
 tags:
   - AL
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Alternate (mod)
@@ -32,5 +30,9 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+El mod **Alternate** obliga a los jugadores a alternar perfectamente sus dos teclas, lo que significa que no pueden pulsar la misma tecla dos veces seguidas. Si el jugador intenta golpear dos [objetos](/wiki/Gameplay/Hit_object) consecutivos con la misma tecla, el segundo golpe se considerará automáticamente un fallo. Después de cada [descanso](/wiki/Beatmap/Break), el jugador puede volver a elegir con qué tecla quiere empezar. Los [spinners](/wiki/Gameplay/Hit_object/Spinner) siempre se pueden completar usando cualquiera de las dos teclas.
+
+**Este mod no se puede personalizar.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

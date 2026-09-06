@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 54beafba216840adfed39a7224382435c05f119c
+---
+
 # Cài đặt trên macOS
 
 Trang này sẽ hướng dẫn bạn đại khái cách cài đặt osu! trên thiết bị macOS của bạn.

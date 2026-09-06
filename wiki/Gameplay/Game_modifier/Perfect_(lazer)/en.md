@@ -29,7 +29,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Perfect (mod)](/wiki/Gameplay/Game_modifier/Perfect)
+**Note:** For the osu!(stable) version of this article, see [Perfect (mod)](/wiki/Gameplay/Game_modifier/Perfect)
 :::
 
 ::: alert-note

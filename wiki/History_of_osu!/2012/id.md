@@ -3,7 +3,7 @@ outdated_translation: true
 outdated_since: fe17f11824c9c95a9ae81ce1cfea1de342428528
 ---
 
-# 2012
+# Sejarah osu! 2012
 
 ## September
 

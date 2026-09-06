@@ -4,8 +4,6 @@ tags:
   - AP
   - auto pilot
   - piloto automático
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # Autopilot (mod de lazer)
@@ -33,11 +31,17 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot)
 :::
 
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+El mod **Autopilot** mueve automáticamente el cursor por el [beatmap](/wiki/Beatmap) con total precisión, lo que permite al usuario jugar simplemente haciendo clic en los [objetos](/wiki/Gameplay/Hit_object) en el momento adecuado. El mod también hace que el cursor gire cada vez que aparece un [spinner](/wiki/Gameplay/Hit_object/Spinner), pero el jugador sigue teniendo que mantener presionada una tecla o un botón del ratón para que el spinner se complete. Al igual que [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), Autopilot gira en sentido antihorario a una velocidad de 477 giros por minuto (SPM).
+
+En osu!(lazer), al completar un beatmap con Autopilot se envía la puntuación sin que se otorguen [puntos de rendimiento](/wiki/Performance_points). Además, a diferencia de lo que ocurre en osu!(stable), es posible fallar el beatmap durante la jugada.
+
+**Este mod no se puede personalizar.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
