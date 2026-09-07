@@ -5,15 +5,15 @@ tags:
   - mod
   - game modifier
   - HT
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
 # Half Time (mod)
 
 ![Ikon mod HT](/wiki/shared/mods/HT.png "Ikon mod Half Time (HT)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Catatan:** Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Tentang
 
@@ -28,9 +28,11 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ## Deskripsi
 
-*Catatan: Cara yang digunakan untuk memperlambat lagu tersebut bisa mengakibatkan lagunya kedengaran seperti robot atau agak keruh.*
+::: alert-notice
+**Catatan:** Cara yang digunakan untuk memperlambat lagu tersebut bisa mengakibatkan lagunya terdengar seperti robot atau agak keruh.
+:::
 
-Mod **Half Time** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang berfungsi mengurangi kecepatan tempo (BPM) dari sebuah [beatmap](/wiki/Beatmap) menjadi 75% dari kecepatan awalnya, dengan meningkatkan durasi lagu sebesar 33%, dan mengurangi sedikit jumlah dari [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty), [dan health (HP)](/wiki/Gameplay/Health).
+Mod **Half Time** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang berfungsi mengurangi kecepatan tempo (BPM) dari sebuah [beatmap](/wiki/Beatmap) menjadi 75% dari kecepatan awalnya, dengan meningkatkan durasi lagu sebesar 33%, dan mengurangi sedikit nilai dari [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty), [dan health (HP)](/wiki/Gameplay/Health).
 
 ### osu!taiko
 
