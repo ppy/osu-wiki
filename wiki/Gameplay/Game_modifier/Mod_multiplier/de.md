@@ -14,7 +14,10 @@ outdated_since: 6b1c578abe39d6f2eae6a0585e841a7a75c83dc4
 
 # Mod-Multiplikator
 
-*Nicht zu verwechseln mit: [Combo](/wiki/Gameplay/Combo_(score_multiplier))*\
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit [Combo](/wiki/Gameplay/Combo_(score_multiplier))
+:::
+
 ::: alert-note
 **Siehe auch:** [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
 :::
