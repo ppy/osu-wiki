@@ -116,7 +116,7 @@ Next to each of the mods listed below the icons of their compatible ![][osu!] ![
 
 ### Personal Presets
 
-The **Personal Presets** are located in a separate category (left of **Difficulty Reduction**) and allow players to save any combination of mods directly into it. Each personal preset has to be assigned a name and optionally a description. Every game mode has a separate list of personal presets.
+The **Personal Presets** are located in a separate category (left of `Difficulty Reduction`) and allow players to save any combination of mods directly into it. Each personal preset has to be assigned a name and optionally a description. Every game mode has a separate list of personal presets.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
