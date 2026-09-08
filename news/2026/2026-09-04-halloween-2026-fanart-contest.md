@@ -63,4 +63,4 @@ Also, you're completely free to post and showcase your entry on social media! Ma
 
 Good luck and have fun drawing!
 
-— Walavouchey & Hivie
+—Walavouchey & Hivie

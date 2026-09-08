@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 90ad638e22909345d5081bc148e3ad86452ec412
+---
+
 # Evaluaciones de los Beatmap Nominators
 
 ::: alert-note
