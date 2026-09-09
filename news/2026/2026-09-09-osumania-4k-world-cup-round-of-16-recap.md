@@ -21,6 +21,12 @@ And what better way to showcase this than by enjoying our weekly video summary, 
 
 ## Mappool recap
 
+<style>
+    .osu-md--news .audio-player {
+        max-width: inherit;
+    }
+</style>
+
 [**Download the pool here! (76 MB)**](https://osu.ppy.sh/beatmaps/packs/P334)
 
 <div align="center" class="osu-md__paragraph">
