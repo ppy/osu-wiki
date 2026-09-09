@@ -47,7 +47,7 @@ And for the moment that many players and viewers alike have been waiting for, du
     </audio>
 </div>
 
-Our first osu! original appears! [Kolaa - Steamtekk](https://osu.ppy.sh/beatmapsets/2608577#mania/5839930) (RC4) charted by ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941) is a unique, steampunk-styled song by Kolaa, who took a very different approach in comparison to their other songs, which ended up working out nicely. The chart contains pretty much everything rice: from burst-heavy sections, to more flowy sections, and eventually climaxing with a very satisfying light jack section. Many thanks to [Minerva Rin](https://osu.ppy.sh/users/30314534) and [Hiro](https://osu.ppy.sh/users/15251809) for the illustration, [Isuzaki](https://osu.ppy.sh/users/39126469) and [Spoo](https://osu.ppy.sh/users/11805037) for the GFX, and [Initial D](https://osu.ppy.sh/users/8382535) for the storyboard!
+[Steamtekk](https://osu.ppy.sh/beatmapsets/2608577#mania/5839930) (RC4) charted by ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941) is a unique, steampunk-styled song by Kolaa, who took a very different approach in comparison to their other songs, which ended up working out nicely. The chart contains pretty much everything rice: from burst-heavy sections, to more flowy sections, and eventually climaxing with a very satisfying light jack section. Many thanks to [Minerva Rin](https://osu.ppy.sh/users/30314534) and [Hiro](https://osu.ppy.sh/users/15251809) for the illustration, [Isuzaki](https://osu.ppy.sh/users/39126469) and [Spoo](https://osu.ppy.sh/users/11805037) for the GFX, and [Initial D](https://osu.ppy.sh/users/8382535) for the storyboard!
 
 ## Round of 16 summary
 
