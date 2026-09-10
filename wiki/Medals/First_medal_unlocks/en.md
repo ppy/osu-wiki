@@ -93,6 +93,11 @@ This is a compendium of the first users to unlock each medal in osu! history.
 | ![](/wiki/shared/medals/loved-seasonal-2023-summer.png) | Project Loved: Summer 2023 | ::{ flag=PL }:: [Psiki](https://osu.ppy.sh/users/12985528) | 22 Oct 2023 (10:42:19) |
 | ![](/wiki/shared/medals/catch-packs-ghostlove.png) | in love with a ghost | ::{ flag=FR }:: [Glassive](https://osu.ppy.sh/users/12453848) | 14 Feb 2024 (13:27:13) |
 | ![](/wiki/shared/medals/loved-seasonal-2024.png) | Project Loved: Best of 2024 | ::{ flag=DE }:: [respektive](https://osu.ppy.sh/users/1023489) | 17 Jan 2025 (14:56:56) |
+| ![](/wiki/shared/medals/loved-seasonal-2025.png) | Project Loved: Best of 2025 | ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 15 Jun 2026 (06:08:56) |
+| ![](/wiki/shared/medals/taiko-packs-chroma.png) | Chroma Pack | ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 15 Jun 2026 (06:26:47) |
+| ![](/wiki/shared/medals/catch-packs-mili.png) | Mili Pack | ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 15 Jun 2026 (06:40:10) |
+| ![](/wiki/shared/medals/mania-packs-4k-globe.png) | 4K Globetrotter | ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 15 Jun 2026 (06:53:30) |
+| ![](/wiki/shared/medals/mania-packs-7k-world-cup.png) | 7K World Cup Anthology | ::{ flag=JP }:: [hisuiohani-na](https://osu.ppy.sh/users/35005394) | 15 Jun 2026 (06:22:16) |
 
 ## Beatmap Spotlights
 
@@ -186,6 +191,9 @@ This is a compendium of the first users to unlock each medal in osu! history.
 | ![](/wiki/shared/medals/taiko-secret-stargazer.png) | Stargazer | ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 18 Jan 2025 (16:09:11) |
 | ![](/wiki/shared/medals/osu-secret-candescence.png) | Candescence | ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | 25 Dec 2024 (04:44:36) |
 | ![](/wiki/shared/medals/osu-secret-icefairy.png) | The Strongest Ice Fairy | ::{ flag=CL }:: [Bomb](https://osu.ppy.sh/users/10218998) | 26 Dec 2024 (07:43:13) |
+| ![](/wiki/shared/medals/osu-secret-uptoeleven.png) | Up To Eleven | ::{ flag=NZ }:: [Kiwioooooo](https://osu.ppy.sh/users/35778958) | 08 Apr 2026 (07:31:48) |
+| ![](/wiki/shared/medals/osu-secret-waningmemory.png) | Waning Memory | ::{ flag=US }:: [MalphasBV](https://osu.ppy.sh/users/26277287) | 08 Apr 2026 (08:56:03) |
+| ![](/wiki/shared/medals/osu-secret-fadingreflection.png) | Fading Reflection | ::{ flag=MN }:: [irku](https://osu.ppy.sh/users/33641422) | 08 Apr 2026 (07:57:45) |
 
 ## Hush-Hush
 
@@ -257,6 +265,10 @@ This is a compendium of the first users to unlock each medal in osu! history.
 | ![](/wiki/shared/medals/all-secret-skinoftheteeth.png) | By The Skin Of The Teeth | ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166) | 25 Dec 2024 (04:17:31) |
 | ![](/wiki/shared/medals/all-secret-infectiousenthusiasm.png) | Infectious Enthusiasm | ::{ flag=IT }:: [Crafterdark](https://osu.ppy.sh/users/6144467) | 26 Dec 2024 (09:49:43) |
 | ![](/wiki/shared/medals/all-secret-meticulousmayhem.png) | Meticulous Mayhem | ::{ flag=US }:: [lilybannanas9](https://osu.ppy.sh/users/26352046) | 25 Dec 2024 (03:52:22) |
+| ![](/wiki/shared/medals/all-secret-hotshot.png) | Hotshot | ::{ flag=CA }:: [DrDarkMage](https://osu.ppy.sh/users/13328853) | 08 Apr 2026 (07:29:54) |
+| ![](/wiki/shared/medals/all-secret-hamsterwheel.png) | Hamster Wheel | ::{ flag=US }:: [Loki](https://osu.ppy.sh/users/16213641) | 08 Apr 2026 (07:59:53) |
+| ![](/wiki/shared/medals/all-secret-couriercatapult.png) | Courier Catapult | ::{ flag=PL }:: [ZuzaWithTheZaza](https://osu.ppy.sh/users/9225061) | 08 Apr 2026 (07:18:07) |
+| ![](/wiki/shared/medals/catch-secret-weatherreverie.png) | Weather Reverie | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | 08 Apr 2026 (08:39:05) |
 
 ## Mod Introduction
 
@@ -375,6 +387,7 @@ This is a compendium of the first users to unlock each medal in osu! history.
 | ![](/wiki/shared/medals/all-skill-dc-1.png) | Daily Sprout | ::{ flag=JP }:: [Chie946](https://osu.ppy.sh/users/36897991) | 25 Dec 2024 (03:28:07) |
 | ![](/wiki/shared/medals/all-skill-dc-7.png) | Weekly Sapling | ::{ flag=US }:: [-unable](https://osu.ppy.sh/users/11894873) | 25 Dec 2024 (03:28:08) |
 | ![](/wiki/shared/medals/all-skill-dc-30.png) | Monthly Shrub | ::{ flag=US }:: [-unable](https://osu.ppy.sh/users/11894873) | 25 Dec 2024 (03:28:08) |
+| ![](/wiki/shared/medals/osu-skill-cyclone.png) | Cyclone | ::{ flag=MY }:: [HDonlyplayer](https://osu.ppy.sh/users/16321660) | 08 Apr 2026 (07:18:04) |
 
 ## Trivia
 
@@ -392,7 +405,7 @@ Below are various notable milestones related to first medal unlocks:
 | ![](/wiki/shared/medals/mania-hits-40000.png) | 40,000 Keys | First osu!mania medal | ::{ flag=CN }:: [pameira](https://osu.ppy.sh/users/1272596) | 28 May 2013 (05:01:06) |
 | ![](/wiki/shared/medals/osu-skill-fc-8.png) | Aberration | First osu! 8★ FC | ::{ flag=KR }:: [firebat92](https://osu.ppy.sh/users/1777162) | 17 Jul 2016 (12:41:58) |
 | ![](/wiki/shared/medals/all-secret-bunny.png) | Don't let the bunny distract you! | First Hush-Hush medal | ::{ flag=AR }:: [Pokefanrichie](https://osu.ppy.sh/users/16629) | 11 Aug 2008 (12:47:24) |
-| ![](/wiki/shared/medals/all-secret-perseverance.png) | Perseverance | First Expert Hush-Hush medal | ::{ flag=BY }:: [wasderit](https://osu.ppy.sh/users/7837284) | 17 Aug 2016 (09:56:45) |
+| ![](/wiki/shared/medals/all-secret-perseverance.png) | Perseverance | First Hush-Hush (Expert) medal | ::{ flag=BY }:: [wasderit](https://osu.ppy.sh/users/7837284) | 17 Aug 2016 (09:56:45) |
 | ![](/wiki/shared/medals/all-secret-trophy.png) | Creator's Gambit | First mapping-related medal | ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 4 Nov 2022 (07:47:25) |
 
 The following is a leaderbord of users with three first medal unlocks or more:
@@ -403,6 +416,7 @@ The following is a leaderbord of users with three first medal unlocks or more:
 | ::{ flag=US }:: [Weebs Suck](https://osu.ppy.sh/users/12948001) | 9 |
 | ::{ flag=HK }:: [Novoids](https://osu.ppy.sh/users/5163523) | 8 |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 6 |
+| ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 4 |
 | ::{ flag=PT }:: [Alucard96](https://osu.ppy.sh/users/3849450) | 3 |
 | ::{ flag=DE }:: [Bin_AFK](https://osu.ppy.sh/users/5840659) | 3 |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 3 |
@@ -413,3 +427,19 @@ The following is a leaderbord of users with three first medal unlocks or more:
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | 3 |
 | ::{ flag=PE }:: [Vaticanus](https://osu.ppy.sh/users/4454465) | 3 |
 | ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 3 |
+| ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 3 |
+
+The following is a leaderbord of users with two first medal unlocks or more, only counting Hush-Hush and Hush-Hush (Expert) medals:
+
+| Player | First Hush-Hush medals unlocked |
+| :-- | --: |
+| ::{ flag=PT }:: [Alucard96](https://osu.ppy.sh/users/3849450) | 3 |
+| ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166) | 3 |
+| ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 3 |
+| ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 3 |
+| ::{ flag=BR }:: [Dropinx](https://osu.ppy.sh/users/4687701) | 2 |
+| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | 2 |
+| ::{ flag=KR }:: [pseudophilia](https://osu.ppy.sh/users/6192650) | 2 |
+| ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | 2 |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | 2 |
+| ::{ flag=DE }:: [xenou](https://osu.ppy.sh/users/2539403) | 2 |
