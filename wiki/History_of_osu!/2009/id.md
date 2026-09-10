@@ -4,7 +4,7 @@ outdated_translation: true
 outdated_since: 34b7cb6dfd54f38ac8029dedda25de24a78fc30e
 ---
 
-# 2009
+# Sejarah osu! 2009
 
 ## Januari
 
