@@ -1,6 +1,10 @@
 # File storage in osu!(lazer)
 
-By default, osu!(lazer) stores beatmaps, skins, and score replay files in the following directories:
+::: alert-note
+**Note:** For the osu!stable version of this article, see [osu!(stable) program files](/wiki/Client/File_formats)
+:::
+
+By default, osu!(lazer) stores user files in the following directories:
 
 - `%appdata%/osu` (Windows),
 - `~/.local/share/osu` (Linux),
@@ -9,31 +13,95 @@ By default, osu!(lazer) stores beatmaps, skins, and score replay files in the fo
 
 On desktop platforms, the file store can also be moved in its entirety to another location, using the `Change folder location...` button in the client settings.
 
-## Storage structure
+## Files
 
-osu!(stable)'s storage structure, where data was directly accessible to users as standard files, resulted in a lot of teething issues due to having to explicitly handle unwanted modifications of key files. To avoid this, osu!(lazer) employs a more stringent method of file storage. As such, there is no equivalent of the `Songs` and `Skins` folders. All files that are imported to lazer are stored under filenames that reflect their [SHA-256 hashes](https://en.wikipedia.org/wiki/SHA-2). Mappings to these files are held inside a client database.
+This section categorizes all files found in the root of osu!(lazer)'s storage directory, and whether or not they are safe to delete.
 
-For example, a file with the SHA-256 hash of
+### Configuration (`game.ini`, `framework.ini`, `input.json`)
+
+`game.ini` and `framework.ini` contain osu! settings and osu!framework settings, respectively.
+
+`game.ini` contains most settings relevant to the game itself, such as global audio offset, gameplay preferences, and most options in the settings screen. It also contains entries for things that osu!(lazer) would like to save, including but not limited to the last used song select filter, whether or not the user has seen the first-run setup, and the currently used skin.
+
+`game.ini` is **not safe to share**, as it contains the user's login token, which will allow anyone to log in to their account.
+
+`framework.ini` stores [osu!framework](https://github.com/ppy/osu-framework/) settings, such as the selected audio output, window size, and renderer settings.
+
+`input.json` stores settings related to input methods like tablet area, mouse sensitivity, and tablet rotation.
+
+It is safe to delete these files if the user would like to reset all configuration.
+
+### Database (`client.realm`)
+
+The `client.realm` file contains a [Realm database](https://en.wikipedia.org/wiki/Realm_(database)) which stores mappings to files located in the `files` directory, local scores, and more. 
+
+`client.realm` is an important file, and if it is deleted or lost, **osu!(lazer) will lose all user data, including beatmaps and skins.**
+
+### Others
+
+`AuthNative` (`AuthNative.dll` on Windows, `AuthNative.dylib` on Mac, `AuthNative.so` on Linux) and `.auth_startup` are part of how osu!(lazer)'s online connection works and should not be deleted.
+
+## Directory structure
+
+This section categorizes the subdirectories found in osu!(lazer)'s storage directory, and which are safe to delete without losing data.
+
+### Cache (`cache/`)
+
+The `cache` folder contains pre-computed [cached](https://en.wikipedia.org/wiki/Cache_(computing)) items such as font texture atlases, so they don't have to be recreated every time they are needed. It is safe to delete this folder.
+
+### Exports (`exports/`)
+
+The `exports` folder contains files exported by the player in-game, such as individual replays, beatmaps, and skins. It is safe to delete this folder.
+
+### Files (`files/`)
+
+The `files` folder holds all raw user data; including but not limited to beatmaps, skins, scores, and replays. This is in contrast to osu!(stable)'s storage structure, where the game reads from `Songs` and `Skins` folders directly.
+
+All files stored in this folder are placed and named corresponding to their [SHA-256 hash](https://en.wikipedia.org/wiki/SHA-2). For example, a file with the SHA-256 hash of:
 
 ```
 1a47929b6056d34d25a95eeb2012395ceed66af6f40cc37c898a08482d6325d2
 ```
 
-would be stored under the path of
+would be stored at: 
 
 ```
 files/1/1a/1a47929b6056d34d25a95eeb2012395ceed66af6f40cc37c898a08482d6325d2
 ```
 
-This allows for saving storage space by preventing duplicates of the same file from being persisted to disk, and prevents users (or other applications) from easily tampering with files that should not be tampered with. All inconveniences compared to stable that arise from this choice have been addressed by either allowing exports or adding new in-game management features, or will be addressed in due time by new features.
+Mappings from individual objects (i.e. skins, beatmaps) to their individual files (i.e. individual textures, sound effects, difficulties) are stored inside the `client.realm` database file.
 
-For now, the correct procedure to manually modify skins or beatmaps outside of the facilities available in-game is to export the item, update it, and then reimport it again with the desired changes.
+The decision was intentionally made early in osu!(lazer)'s development to store files as their SHA-256 hashes in order to prevent unwanted modification of key files; an added benefit is that duplicate files don't take up extra space. In order to modify files directly, the user must either export and re-import files, or use the `Edit externally` button in areas like the skin editor and beatmap editor.
+
+This folder is important, and if it is deleted or lost, **osu!(lazer) will lose all user data, including beatmaps and skins.**
+
+### Logs (`logs/`)
+
+The `logs` folder contains all logs emitted by the osu!(lazer) client during a particular session, separated by category.
+
+Although useful to diagnose individual problems, in case of submitting a report to the developers, logs are instead recommended to be retrieved using the `Export logs` function in the settings overlay.
+
+This folder is safe to delete while the game is not running.
+
+### Rulesets (`rulesets/`)
+
+::: alert-note
+**See also:** [Game mode § Custom game modes](/wiki/Game_mode#custom-game-modes)
+:::
+
+The `rulesets` folder contains all imported custom osu!(lazer) rulesets. This folder is safe to delete when the game is not running if the user is deleting all custom rulesets.
+
+### Screenshots (`screenshots/`)
+
+The `screenshots` folder contains all screenshots created in game (default key: F12). This folder is safe to delete if the user is deleting all screenshots.
 
 ## Migration from osu!(stable)
 
+During the first-run setup wizard in osu!(lazer) on desktop platforms, the player can choose to import data from osu!(stable). The game will choose one of two methods to import data, detailed below.
+
 ### Via hard links
 
-On most systems, osu!(lazer) will be able to import data from the stable version of the game without having to create a second copy of the data on disk. This is possible thanks to an operating system feature called *hard links*.
+On most systems, osu!(lazer) will be able to import data from osu!(stable) without having to create a second copy of the data on disk. This is possible thanks to an operating system feature called *hard links*.
 
 A hard link is conceptually similar to a *shortcut* in that it is a method that allows a user to have the same file available from multiple different places on their filesystem. However, while shortcuts are just plain files that point to a different file (and therefore require additional space), hard links work one level deeper, at the level of the filesystem itself.
 
