@@ -140,11 +140,12 @@ ppv1 is rather infeasible without a lot of digging, little information is public
 | ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | *2025-12-06* | 2026-01-26 | [\[1\]](https://www.reddit.com/r/osugame/comments/1pfaytk/story_reaches_rank_1_in_ctb_again_after_5_years/) |
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 2026-01-26 | 2026-07-01 | [\[1\]](https://www.reddit.com/r/osugame/comments/1qn42wu/qwhj79_reaches_rank_1_in_ctb_once_again_he_played/) |
 | ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 2026-07-01 | 2026-07-21 | [\[1\]](https://www.reddit.com/r/osugame/comments/1ukbvpu/story_has_once_again_became_1_surpassing_qwhj79/) |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2026-07-21 | Present | [\[1\]](https://web.archive.org/web/20260721170106/https://osu.ppy.sh/rankings/fruits/global/performance) [\[2\]](https://www.reddit.com/r/osugame/comments/1v25lkm/motion_returns_to_1_in_ctb/) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 2026-07-21 | 2026-08-27 | [\[1\]](https://web.archive.org/web/20260721170106/https://osu.ppy.sh/rankings/fruits/global/performance) [\[2\]](https://www.reddit.com/r/osugame/comments/1v25lkm/motion_returns_to_1_in_ctb/) |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 2026-08-27 | Present | [\[1\]](https://web.archive.org/web/20260831205135/https://osu.ppy.sh/rankings/fruits/global/performance) |
 
 ## Number of reigns
 
-The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 21 July 2026).
+The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 27 August 2026).
 
 | Player | Reigns |
 | --: | :-: |
@@ -153,7 +154,7 @@ The following is a list of the total number of times a player has reached the ra
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 6 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 4 |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 3 |
-| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 2 |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 3 |
 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 1 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 1 |
 
@@ -164,12 +165,12 @@ The following is a list of the total number of times a player has reached the ra
 The current rank #1 reign is excluded.
 :::
 
-The following is a list of the total number of days that a player has held the rank #1 spot (as of 21 July 2026).
+The following is a list of the total number of days that a player has held the rank #1 spot (as of 27 August 2026).
 
 | Player | Length (days) |
 | --: | :-: |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 1283 |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 873 |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 910 |
 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 666 |
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 561 |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 382 |
@@ -184,7 +185,7 @@ The following is a list of the total number of days that a player has held the r
 Only reigns over 100 days are included. The current rank #1 reign is excluded.
 :::
 
-The following is a list of the longest consecutive days a player has held the rank #1 spot (as of 21 July 2026).
+The following is a list of the longest consecutive days a player has held the rank #1 spot (as of 27 August 2026).
 
 | Player | From | To | Reign length (days) |
 | --: | :-- | :-- | :-: |

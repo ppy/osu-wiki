@@ -35,7 +35,7 @@ Mit Stand vom 23. Juli 2026 ist ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/us
 **Hauptseite:** [Geschichte der osu!catch-Rangliste](osu!catch)
 :::
 
-Mit Stand vom 21. Juli 2026 ist ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
+Mit Stand vom 27. August 2026 ist ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
 
 ## ![][osu!mania] osu!mania
 
