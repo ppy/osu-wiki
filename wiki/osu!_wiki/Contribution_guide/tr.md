@@ -32,10 +32,10 @@ Düzenlemelerinizi yapmayı bitirdiğinizde, yaptığınız düzenlemeleri kontr
 - **Ton**: osu!wiki makaleleri, istisnalar olsa da, nötr bir ton ile yazılmalıdır.
 - **Stil ve gramer**: Makaleler; okuyucudan çok mental efor gerektirmemeli, net ve anlaşılabilir olmalıdır. İstikrarlı olunuz ve aşırı komplike veya birdenbire biten cümleleri kullanmaktan kaçınınız. Yanlış yazılan kelimelerden, gramer veya sözdizimsel hatalardan kaçınmak için entegre yazım denetleyicisi içeren bir editör kullanınız.
 - **[İçerik denkliği](/wiki/Article_styling_criteria/Writing#content-parity)**: Çeviriler, orijinal makale ile aynı bilgileri içermelidir (noktalama, ifade ve biçimlendirme farklılıkları elbette beklenir). Eğer bir çeviri size eksik, hatalı veya eski gelirse; çevirinin içeriğini değiştirmek yerine, bir [sorun açınız](https://github.com/ppy/osu-wiki/issues/new) veya çevirinin orijinaline ekstra bir pull request açınız.
-- **Yapı ve biçimlendirme**: Makalenizin istediğiniz gibi göründüğünü teyit etmek için [jbt'nin Markdown Editörü] gibi bir araç ile makalenizi ön izleyiniz.
+- **Yapı ve biçimlendirme**: Makalenizin istediğiniz gibi göründüğünü teyit etmek için [jbt'nin Markdown Editörü](https://jbt.github.io/markdown-editor/) gibi bir araç ile makalenizi ön izleyiniz.
 - **Bütün görüntüler ve diğer yazı dışındaki dosyalar**'ın boyutu [1 megabayt'tan az](/wiki/Article_styling_criteria/Formatting#file-size) olmalıdır. **Ekran görüntülerinin** maksimum çözünürlük olarak 1280x720'yi kullanması, varsayılan osu! skin'ini ve [belirli ayarları](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay) kullanması zorunludur.
 
-Daha spesifik yazma ve biçimlendirme standartları için [makale stil kriteri](/wiki/Article_styling_criteria/)'ne gidiniz. Hepsini bir oturuşta okumanız önerilmez, keza bir şeyin değiştirilmesi gerekiyorsa bir gözden geçiren bunu söyleyecektir.
+Daha spesifik yazma ve biçimlendirme standartları için [makale stil kriteri](/wiki/Article_styling_criteria) linkine gidiniz. Hepsini bir oturuşta okumanız önerilmez, keza bir şeyin değiştirilmesi gerekiyorsa bir gözden geçiren bunu söyleyecektir.
 
 ## Pull request
 
@@ -53,7 +53,6 @@ Eğer hiç kimse yorum yapmamış ise, aşağıdakileri deneyiniz:
 - Bütün önerileri kaale aldığınızdan emin olunuz. İnsanlar yaptıkları yorumlara cevap bekliyor olabilir.
 - [osu! Discord sunucusu](/wiki/Community/Discord_servers#official)'ndaki `#osu-wiki` kanalında veya GitHub yorumlarında diğer osu! wiki editörlerine sorunuz.
 - Çeviride yardım almak için, dilinizdeki bazı ana projeye kaynaştırılmış pull requestlerin gözden geçirenleriyle veya yazarlarıyla iletişime geçiniz. ([örnek GitHub sorgusu](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ID]))
-
 - Arkadaşlarınızı bir bakış atmaları için dürtün!
 
 Bir manuel göz geçirmeye ek olarak, osu! wiki deposu sizin değişikliklerinizin wiki'nin ortak diline uyduğuna ve biçimlendirme hatalarından arınmış olduğuna emin olmak için [bir dizi otomatik kontroller](/wiki/osu!_wiki/Maintenance#ci-checks) yapar. Bu kontrollerin durumunu görmek için, pull request'inizin `Actions` sekmesini açın ve hataların altında teşhis mesajları varsa onları takip edin.
@@ -63,5 +62,3 @@ Bir manuel göz geçirmeye ek olarak, osu! wiki deposu sizin değişiklikleriniz
 Değişiklikleriniz er ya da geç bir [wiki bakımcısı](/wiki/People/osu!_wiki_maintainers) tarafından, genellikle diğer katkı sağlayan insanlardan sonra, kontrol edilecektir. Eğer belirli bir zamandan sonra hiçbir şey olmaz ise, pull request'inizin yorumlarında veya [osu! Discord sunucusu](/wiki/Community/Discord_servers#official)'nun `#osu-wiki` kanalında bir sorun. Değişiklikleriniz kaynaştırma olduktan kısa bir süre sonra osu! wiki'sinde görünür olur (bazen bu süre beş saate kadar sürebilir). 
 
 [osu_wiki]: https://github.com/ppy/osu-wiki
-
-
