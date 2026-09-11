@@ -127,7 +127,7 @@ When submitting their entry, [solor](https://osu.ppy.sh/users/25201175) left us 
 
 ![osu!catch podium](/wiki/shared/news/2026-09-11-aspire-6-results/podium-catch.jpg)
 
-Hey, catchers! It's me, the internet angel here to tell you a bit about this entry!
+![KAngel](/wiki/shared/news/2026-09-11-aspire-6-results/kangel-ascii.png "Hey, catchers! It's me, the internet angel here to tell you a bit about this entry!")
 
 Pushing the editor to the Limit, [Natsuko](https://osu.ppy.sh/users/8266817) and [Pitsuwa](https://osu.ppy.sh/users/8417565) managed to place hypers where they shouldn't be possible.
 
