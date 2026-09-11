@@ -65,7 +65,7 @@ Poniższe filtry działają jedynie w ekranie wyboru piosenki. W [osu!direct](/w
 | :-- | :-- |
 | `artist` | Nazwa artysty |
 | `title` | Tytuł utworu |
-| `source` | Nazwa gry, filmu, serii lub wydarzenia z które pochodzi utwór lub z którym jest powszechnie kojarzony  |
+| `source` | Nazwa gry, filmu, serii lub wydarzenia z które pochodzi utwór lub z którym jest powszechnie kojarzony |
 | `favourites` | Liczba polubień beatmapy |
 | `featured_artist` | Identyfikator utworów stworzonych przez [wyróżnionych artystów](/wiki/People/Featured_Artists) |
 | `creator` | Nazwa twórcy poziomu trudności |
@@ -93,7 +93,7 @@ Poniższe filtry działają jedynie w ekranie wyboru piosenki. W [osu!direct](/w
 | :-- | :-- |
 | `artist` | Nazwa artysty |
 | `title` | Tytuł utworu |
-| `source` | Nazwa gry, filmu, serii lub wydarzenia z które pochodzi utwór lub z którym jest powszechnie kojarzony  |
+| `source` | Nazwa gry, filmu, serii lub wydarzenia z które pochodzi utwór lub z którym jest powszechnie kojarzony |
 | `creator`, `author`, `mapper` | Nazwa twórcy poziomu trudności |
 | `diff` | Nazwa poziomu trudności |
 | `ar` | [Prędkość otoczki](/wiki/Beatmap/Approach_rate) |
