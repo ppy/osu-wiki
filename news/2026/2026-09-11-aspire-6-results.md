@@ -252,6 +252,8 @@ The format is also likely to change for next Aspire. While there were certainly 
 
 We have put together a [survey to gather your thoughts on Aspire](https://docs.google.com/forms/d/e/1FAIpQLSeV45u_x1Ldywt4zh0Rl5P3IB-8iqLKbK8pS87kQed2AgpaPg/viewform), which should take just a few minutes to complete. Please let us know your thoughts!
 
+[![Click here to open the Aspire 6 Feedback Survey](/wiki/shared/news/2026-09-11-aspire-6-results/survey-banner.png)](https://docs.google.com/forms/d/e/1FAIpQLSeV45u_x1Ldywt4zh0Rl5P3IB-8iqLKbK8pS87kQed2AgpaPg/viewform)
+
 Despite six iterations of Aspire, we are still seeing exciting new things from the osu! editor. We still have no idea how limitless the possibilities are, and the entries this year have shown us proof of that. We must refine the format in order to bring out the best that the ranking criteria cannot offer.
 
 ---
