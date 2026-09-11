@@ -12,7 +12,7 @@ Okno czatu można otworzyć z większości ekranów klienta poprzez naciśnięci
 | **Biały** | Ty |
 | **Jasnożółty** | Zwykli użytkownicy |
 | **Żółty** | Użytkownicy posiadający [status donatora osu!](/wiki/osu!supporter) |
-| **Czerwony** | [Moderatorzy globalni](/wiki/People/Global_Moderation_Team) lub członkowie [zespołu NAT](/wiki/People/The_Team/Nomination_Assessment_Team)  |
+| **Czerwony** | [Moderatorzy globalni](/wiki/People/Global_Moderation_Team) lub członkowie [zespołu NAT](/wiki/People/The_Team/Nomination_Assessment_Team) |
 | **Zielony** | Wiadomość zawierająca twoją nazwę użytkownika lub słowo, które dodałeś do listy wywołujących [podświetlenie](Highlight) na czacie. Kopia tej wiadomości pojawi się także na kanale `#highlight` zawierającym wszystkie tego typu wiadomości. |
 | **Niebieski** | Wiadomość prywatna |
 | **Turkusowy** | [peppy](https://osu.ppy.sh/users/2), twórca osu! |
