@@ -179,6 +179,7 @@ Aspire 6 was run by various members of the [osu! team](/wiki/People/osu!_team) a
 | [AdrianLazer](https://osu.ppy.sh/users/10292643) | [Akiri - Symphony Of The Beginning](https://osu.ppy.sh/beatmapsets/2608595#osu/5839960) | 8 |
 | [Kieost](https://osu.ppy.sh/users/17823832) | [rN - opia](https://osu.ppy.sh/beatmapsets/2608588#osu/5839952) | 8 |
 | [turt-](https://osu.ppy.sh/users/7630990) & [trainjumper](https://osu.ppy.sh/users/2272587) | [gladde paling - vleermuis](https://osu.ppy.sh/beatmapsets/2608597#osu/5839964) | 5 |
+
 ### osu!taiko
 
 | Creator(s) | Entry | Votes |
