@@ -457,6 +457,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Resurrection Cup 2023](RESC/2023) | 2023-06-16 | 2023-07-30 | ESSA | fresh off the boat | Sleep accommodation |
 | [Resurrection Cup 2024](RESC/2024) | 2024-06-14 | 2024-07-28 | kotomiler | fresh off the boat | Bobik |
 | [Resurrection Cup 2025](RESC/2025) | 2025-05-18 | 2025-08-10 | tarczynski esports | Monkey Business | FIAT MULTIPLA |
+| [Resurrection Cup 2026](RESC/2026) | 2026-06-12 | 2026-08-15 | 37AMCLOVERS | OWC READY | Waddle Dee |
 
 #### [ROI PRO Tournament](RPT)
 
