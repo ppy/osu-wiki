@@ -41,7 +41,7 @@ Unfortunately due to the way the sliders are constructed, this map is rather dif
 
 Pushing the boundary in a rather unorthodox way, *19ZZ* is mapped in a way where all of its hit object have negative timestamps, opening the doors for some very interesting effects such as auto-played notes.
 
-Mappers [add222](https://osu.ppy.sh/users/14261013) and [\_necroplasma](https://osu.ppy.sh/users/10805852) uses auto-played notes alongside sliders distorted in every way possible, follow point art, and disjointed combo numbers.
+Mappers [add222](https://osu.ppy.sh/users/14261013) and [\_necroplasma](https://osu.ppy.sh/users/10805852) uses auto-played notes alongside sliders distorted in every way possible, slider tick art, and disjointed combo numbers.
 
 #### BilliumMoto - HDHR
 
@@ -109,6 +109,8 @@ This map replicates some of the most popular mods from the osu!(lazer) client in
 
 ![osu!taiko podium](/wiki/shared/news/2026-09-11-aspire-6-results/podium-taiko.jpg)
 
+#### Kikuo - Gakkou o Yasunda Hi no Koto
+
 When submitting their entry, [solor](https://osu.ppy.sh/users/25201175) left us with the comment "quality over quantity", and it appears their philosophy has paid off.
 
 *Gakkou o Yasunda Hi no Koto* keeps things fairly low-key, with two very simple mechanics and only the most fitting visual gimmicks to accompany the map. Unlike most Aspire entries, this map is easy enough that anyone with even a modicum of taiko experience should be able to enjoy it to its fullest.
@@ -125,7 +127,11 @@ When submitting their entry, [solor](https://osu.ppy.sh/users/25201175) left us 
 
 ![osu!catch podium](/wiki/shared/news/2026-09-11-aspire-6-results/podium-catch.jpg)
 
-...
+Hey, catchers! It's me, the internet angel here to tell you a bit about this entry!
+
+Pushing the editor to the Limit, [Natsuko](https://osu.ppy.sh/users/8266817) and [Pitsuwa](https://osu.ppy.sh/users/8417565) managed to place hypers where they shouldn't be possible.
+
+Beyond that, the map also featured unorthodox sliders while still maintaining a surprisingly high level of playability if you're skilled enough.
 
 | Entry | Votes |
 | :-- | :-: |
@@ -137,7 +143,17 @@ When submitting their entry, [solor](https://osu.ppy.sh/users/25201175) left us 
 
 ![osu!mania podium](/wiki/shared/news/2026-09-11-aspire-6-results/podium-mania.jpg)
 
-...
+#### Kobaryo feat. HiTNEX-X - SUPER MEMORIES
+
+This was storyboarding on a scale where it feels like a completely different game. Veterans of VSRGs are no stranger to visual gimmicks that challenge the player on their reading, but [Tunnelblick](https://osu.ppy.sh/users/7737096) and [Utiba](https://osu.ppy.sh/users/11354436) have got the technique of their creation down to near perfection.
+
+We got over six and a half minutes of progressive visual effects that challenge the player to keep their rhythm and concentration on what is actually a very easy map. The technical ability and knowledge to craft an experience of this quality yet so accessible is fully deserving of the Aspirant title.
+
+#### BilliumMoto - Amethyst Aurora
+
+Those looking for a more pure Aspire experience within osu!mania should look no further than with [DraterTD](https://osu.ppy.sh/users/11671725)'s entry of *Amethyst Aurora*.
+
+Challengers of this map should pay careful attention to the position of the notes — the barrage of SV changes aren't just for show! This maps redraws the judgement line every other moment and moves notes in both directions, or even leaves them stationary! A unique experience well deserving of recognition.
 
 | Name | Votes |
 | :-- | :-: |
@@ -195,4 +211,4 @@ Thank you to everyone who mapped, played and helped organise Aspire! If only the
 
 Special congratulations to [-Arko](https://osu.ppy.sh/users/8802914), [blixys](https://osu.ppy.sh/users/13015896), [solor](https://osu.ppy.sh/users/25201175), [Natsuko](https://osu.ppy.sh/users/8266817), [Pitsuwa](https://osu.ppy.sh/users/8417565), [Tunnelblick](https://osu.ppy.sh/users/7737096), and [Utiba](https://osu.ppy.sh/users/11354436), our new Aspirants! Thank you for playing and see you next time!
 
-—Walavouchey, -Mo-, and RandomeLoL
+—Walavouchey, -Mo-, RandomeLoL & Daletto
