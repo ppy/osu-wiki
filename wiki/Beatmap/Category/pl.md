@@ -12,7 +12,7 @@ Beatmapa automatycznie zmienia kategorię z [obecnie rozwijanej lub oczekującej
 
 ### Obecnie rozwijane i oczekujące {id=wip-and-pending}
 
-Obecnie rozwijane (często skracane do *WIP*, z angielskiego *Work In Progress*) oraz Oczekujące to kategorie, do których beatmapy trafiają zaraz po wysłaniu ich na stronę. Znajdujące się w tych kategoriach beatmapy mogą zostać [zakwalifikowane](#zakwalifikowane) po [otrzymaniu nominacji](/wiki/Beatmap_ranking_procedure#nominations) od przynajmniej dwóch [nominatorów](/wiki/People/Beatmap_Nominators). Zwykle wymaga to ulepszenia beatmapy przez [mody](/wiki/Modding) od [modderów](/wiki/Modding/Modder). Obecnie rozwijane i oczekujące beatmapy nie posiadają tabeli wyników, ale [liczą się do statystyk](#statystyki-nierankingowych-beatmap). W ekranie wyboru piosenki oznaczone są znakiem zapytania (![](/wiki/shared/status/pending.png)).
+Obecnie rozwijane (często skracane do *WIP*, z angielskiego *Work In Progress*) oraz Oczekujące to kategorie, do których beatmapy trafiają zaraz po wysłaniu ich na stronę. Znajdujące się w tych kategoriach beatmapy mogą zostać [zakwalifikowane](#qualified) po [otrzymaniu nominacji](/wiki/Beatmap_ranking_procedure#nominations) od przynajmniej dwóch [nominatorów](/wiki/People/Beatmap_Nominators). Zwykle wymaga to ulepszenia beatmapy przez [mody](/wiki/Modding) od [modderów](/wiki/Modding/Modder). Obecnie rozwijane i oczekujące beatmapy nie posiadają tabeli wyników, ale [liczą się do statystyk](#statystyki-nierankingowych-beatmap). W ekranie wyboru piosenki oznaczone są znakiem zapytania (![](/wiki/shared/status/pending.png)).
 
 Beatmapy znajdujące się w tej kategorii po 4 tygodniach bez aktualizacji staną się [porzucone](#graveyard).
 
