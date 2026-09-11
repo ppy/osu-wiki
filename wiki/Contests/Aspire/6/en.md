@@ -45,13 +45,13 @@ Both participants will receive:
 - Aspire 6 winner [badge](/wiki/Community/Profile_badge)
 - 1 year of [osu!supporter](/wiki/osu!supporter)
 
-![Aspirant badge](img/badge-aspirant@2x.png "Aspirant badge")
+![Aspirant badge](img/aspire-6-aspirant@2x.png "Aspirant badge")
 
 **Runner-Up**: Awarded to runners up and honourable mentions[^honourable-mention] of each category.
 
 Both participants will receive:
 
-![Runner-up badge](img/badge-runner-up@2x.png "Runner-up badge")
+![Runner-up badge](img/aspire-6-runner-up@2x.png "Runner-up badge")
 
 - Aspire 6 runner-up [badge](/wiki/Community/Profile_badge)
 - 6 months of [osu!supporter](/wiki/osu!supporter)
