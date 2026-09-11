@@ -119,7 +119,7 @@ Opcje te pozwalają na podzielenie beatmap na różne rozwijane grupy:
 | `Po BPM` | Beatmapy zostaną pogrupowane według BPM piosenki w przedziałach będących wielokrotnościami liczby 60. |
 | `Po twórcy` | Beatmapy zostaną pogrupowane według pierwszego znaku nazwy użytkownika twórcy. |
 | `Po dacie dodania` | Beatmapy zostaną pogrupowane według tego, kiedy zostały dodane, od dziś do 5+ miesięcy temu. |
-| `Po długości` | Beatmapy zostaną pogrupowane według długości: 1, 2, 3, 4, 5, 10 minut lub mniej oraz ponad 10 minut.  |
+| `Po długości` | Beatmapy zostaną pogrupowane według długości: 1, 2, 3, 4, 5, 10 minut lub mniej oraz ponad 10 minut. |
 | `Po trybie gry` | Beatmapy zostaną pogrupowane według trybu gry. |
 | `Po uzyskanej ocenie` | Beatmapy zostaną pogrupowane według uzyskanej na nich [ocenie](/wiki/Gameplay/Grade). |
 | `Po tytule` | Beatmapy zostaną pogrupowane według pierwszego znaku tytułu utworu. |
@@ -250,7 +250,6 @@ Kliknij na **[logo osu!](/wiki/Client/Interface/Cookie)**, aby **zagrać wybran�
 Ekran z wynikiem jest wyświetlany po udanym przejściu beatmapy. Do swojego wyniku online możesz przejść przewijając w dół lub klikając `Online Ranking`.
 
 Poniżej pokazano ekrany wyniku dla pozostałych trybów gry.
-
 
 ![](img/results-taiko.jpg "Celność w trybie osu!taiko")
 
