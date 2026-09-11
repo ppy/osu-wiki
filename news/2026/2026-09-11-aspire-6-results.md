@@ -16,7 +16,7 @@ This year was no different, leaving us with 40 awesome entries across all gamemo
 For those who missed all the fun from the live showcase, we recommend checking out the entire Twitch VOD down below. Otherwise, for an abridged version of the event, stay with us a while longer! As a bonus, you will be one of the first to know what the future of Aspire will look like as well as its younger contest sibling.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=VIDEO_ID_DO_NOT_FORGET_TO_REPLACE&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2871277152&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 ## Results
