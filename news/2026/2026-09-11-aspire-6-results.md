@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aspire 6: Results"
-date: 2026-09-11 22:30:00 +0000
+date: 2026-09-11 23:00:00 +0000
 series: official_contests
 ---
 
