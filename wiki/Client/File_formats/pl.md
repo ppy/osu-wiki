@@ -10,7 +10,6 @@
 | [.osb](/wiki/Client/File_formats/osb_(file_format)) | `x-osu-storyboard` | [Storyboard](/wiki/Storyboard/Scripting) osu! |
 | [.osr](/wiki/Client/File_formats/osr_(file_format)) | `x-osu-replay` | [Powtórka](/wiki/Gameplay/Replay) osu! |
 
-
 ## Tworzenie plików .osz i .osk
 
 Pliki `.osz` oraz `.osk` to archiwa zawierające odpowiednio beatmapy oraz skórki. Po otworzeniu ich zawartość jest automatycznie rozpakowywana przez osu!:
