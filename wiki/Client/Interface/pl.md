@@ -243,11 +243,11 @@ Kliknij na **panel użytkownika**, aby otworzyć **opcje użytkownika**.
 
 Kliknij na **[logo osu!](/wiki/Client/Interface/Cookie)**, aby **zagrać wybraną beatmapę**.
 
-## Ekran z wynikiem
+## Ekran wyniku
 
 ![](img/results-osu.jpg "Celność w trybie osu!")
 
-Ekran z wynikiem jest wyświetlany po udanym przejściu beatmapy. Do swojego wyniku online możesz przejść przewijając w dół lub klikając `Online Ranking`.
+Ekran wyniku jest wyświetlany po udanym przejściu beatmapy. Do swojego wyniku online możesz przejść przewijając w dół lub klikając `Online Ranking`.
 
 Poniżej pokazano ekrany wyniku dla pozostałych trybów gry.
 
@@ -257,7 +257,7 @@ Poniżej pokazano ekrany wyniku dla pozostałych trybów gry.
 
 ![](img/results-catch.jpg "Celność w trybie osu!catch")
 
-### Rozszerzenie ekranu z wynikiem
+### Rozszerzony ekran wyniku
 
 ![](img/extended-results-screen.jpg "Przykład wyniku online w trybie osu!")
 
