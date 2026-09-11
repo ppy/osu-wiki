@@ -233,7 +233,7 @@ Those looking for a more pure Aspire experience within osu!mania should look no 
 Challengers of this map should pay careful attention to the position of the notes — the barrage of SV changes aren't just for show! This maps redraws the judgement line every other moment and moves notes in both directions, or even leaves them stationary! A unique experience well deserving of recognition.
 
 | Creator(s) | Entry | Votes |
-| --- | --- | --- |
+| :-- | :-- | --: |
 | [Tunnelblick](https://osu.ppy.sh/users/7737096) & [Utiba](https://osu.ppy.sh/users/11354436) | **[Kobaryo feat. HiTNEX-X - SUPER MEMORIES](https://osu.ppy.sh/beatmapsets/2607785#mania/5837319)** | **255** |
 | [DraterTD](https://osu.ppy.sh/users/11671725) | [BilliumMoto - Amethyst Aurora](https://osu.ppy.sh/beatmapsets/2607762#mania/5837268) | 217 |
 | [Hydria](https://osu.ppy.sh/users/808176) & [Antalf](https://osu.ppy.sh/users/8793773) | [TWC Sound Team "Strike Back Squad" - BUZZ CUTZ](https://osu.ppy.sh/beatmapsets/2607773#mania/5837297) | 98 |
