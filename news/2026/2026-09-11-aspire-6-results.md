@@ -81,7 +81,6 @@ This map replicates some of the most popular mods from the osu!(lazer) client in
 | [PukPow](https://osu.ppy.sh/users/16407679) & [Zuika](https://osu.ppy.sh/users/10222009) | [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/2608581#osu/5839941) | 90 |
 | [LunaUwU](https://osu.ppy.sh/users/39084830) | [Mili - world.execute(me);](https://osu.ppy.sh/beatmapsets/2608618#osu/5840004) | 90 |
 | [Akbo](https://osu.ppy.sh/users/7627061) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608565#osu/5839917) | 80 |
-| [WolfStarArtOSU](https://osu.ppy.sh/users/34821954) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608565#osu/5839917) | 80 |
 | [ThunderBirdo](https://osu.ppy.sh/users/22228239) & [bluirre](https://osu.ppy.sh/users/22241162) | [LeaF - Doppelganger](https://osu.ppy.sh/beatmapsets/2608568#osu/5839920) | 71 |
 | [UTAU](https://osu.ppy.sh/users/13859320) | [LeaF - Aleph-0](https://osu.ppy.sh/beatmapsets/2608557#osu/5839908) | 70 |
 | [amongusrtx30080](https://osu.ppy.sh/users/27476898) | [Frums - Mdrqnxtagon](https://osu.ppy.sh/beatmapsets/2608585#osu/5839947) | 66 |
@@ -110,7 +109,6 @@ This map replicates some of the most popular mods from the osu!(lazer) client in
 | [TheShadowOfDark](https://osu.ppy.sh/users/5795337) & [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | [Camellia - (The) Red * Room](https://osu.ppy.sh/beatmapsets/2608555#osu/5839905) | 124 |
 | [add222](https://osu.ppy.sh/users/14261013) & [_necroplasma](https://osu.ppy.sh/users/10805852) | [Frums (unknown "lambda") - 19ZZ](https://osu.ppy.sh/beatmapsets/2608542#osu/5839885) | 124 |
 | [Akbo](https://osu.ppy.sh/users/7627061) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608565#osu/5839917) | 98 |
-| [WolfStarArtOSU](https://osu.ppy.sh/users/34821954) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608565#osu/5839917) | 98 |
 | [ItzShadowCraft](https://osu.ppy.sh/users/27830521) | [Dimrain47 - Duality](https://osu.ppy.sh/beatmapsets/2608572#osu/5839925) | 72 |
 | [LunaUwU](https://osu.ppy.sh/users/39084830) | [Mili - world.execute(me);](https://osu.ppy.sh/beatmapsets/2608618#osu/5840004) | 68 |
 | [ThunderBirdo](https://osu.ppy.sh/users/22228239) & [bluirre](https://osu.ppy.sh/users/22241162) | [LeaF - Doppelganger](https://osu.ppy.sh/beatmapsets/2608568#osu/5839920) | 63 |
@@ -205,7 +203,6 @@ Beyond that, the map also featured unorthodox sliders while still maintaining a 
 | :-- | :-- | --: |
 | [Natsuko](https://osu.ppy.sh/users/8266817) & [Pitsuwa](https://osu.ppy.sh/users/8417565) | **[Aiobahn feat. KOTOKO - Internet Yamero](https://osu.ppy.sh/beatmapsets/2608394#fruits/5839492)** | 105 |
 | [Tomy](https://osu.ppy.sh/users/14889628) & [Tenexxt](https://osu.ppy.sh/users/34064854) | [antiPLUR - Clockwork Spooks](https://osu.ppy.sh/beatmapsets/2608391#fruits/5839488) | 90 |
-| [Akbo](https://osu.ppy.sh/users/7627061) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608393#fruits/5839490) | 31 |
 | [WolfStarArtOSU](https://osu.ppy.sh/users/34821954) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608393#fruits/5839490) | 31 |
 
 ### osu!mania
