@@ -44,7 +44,7 @@ Ten artykuł zawiera domyślne skróty klawiszowe. Niektóre z nich można zmien
 | `Up/Down Arrow` | Zmienia ogólną głośność. Użyj strzałki w lewo/prawo, aby zmienić głośność efektów lub muzyki. |
 | `Esc` | Cofa lub anuluje wybór. |
 | `P`, `E` lub `O` | Otwiera menu gry. |
-| trzy razy `P`  | Otwiera tryb jednoosobowy. |
+| trzy razy `P` | Otwiera tryb jednoosobowy. |
 | dwa razy `P`, a następnie `M` | Otwiera [tryb wieloosobowy](/wiki/Client/Interface/Multiplayer). |
 | dwa razy `E` | Otwiera edytor. |
 | `O` | Otwiera opcje. |
@@ -78,7 +78,7 @@ Nie wszystkie wymienione tutaj skróty klawiszowe działają w ekranie wyboru pi
 | `Shift` + `F2` | Powraca do beatmapy wybranej przed użyciem `F2`. |
 | `F3` | Otwiera opcje beatmapy. |
 | `F5` | Odświeża listę beatmap (może spytać o potwierdzenie). |
-| `Shift` + `Delete` | Otwiera opcje usuwania beatmap. Możesz wybrać, czy chcesz usunąć wszystkie poziomy trudności wybranej beatmapy, tylko jeden poziom trudności czy wszystkie widoczne beatmapy.  |
+| `Shift` + `Delete` | Otwiera opcje usuwania beatmap. Możesz wybrać, czy chcesz usunąć wszystkie poziomy trudności wybranej beatmapy, tylko jeden poziom trudności czy wszystkie widoczne beatmapy. |
 | `Ctrl` + `1` | Zmienia tryb gry na [osu!](/wiki/Game_mode/osu!). |
 | `Ctrl` + `2` | Zmienia tryb gry na [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Zmienia tryb gry na [osu!catch](/wiki/Game_mode/osu!catch). |
