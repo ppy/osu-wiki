@@ -61,7 +61,7 @@ W tym artykule przedstawiono ważne wydarzenia w **historii osu! wiki**, od czas
 
 #### Czerwiec
 
-- **26.06.2017:** osu! wiki bazujące na MediaWiki zostało [oficjalnie zamknięte](https://discord.com/channels/188630481301012481/218677502141399041/328851556453711872). Wszystkie linki przenoszące do starej wersji wiki od tego momentu przekierowują do nowej wiki opratej o repozytorium GitHub. [Tutaj można znaleźć archiwum starej wersji wiki pozbawionej różnych funkcji MediaWiki](https://web.archive.org/web/20171115173938/https://osu.ppy.sh/old-wiki/Main_Page).
+- **26.06.2017:** osu! wiki bazujące na MediaWiki zostało [oficjalnie zamknięte](https://discord.com/channels/188630481301012481/218677502141399041/328851556453711872). Wszystkie linki przenoszące do starej wersji wiki od tego momentu przekierowują do nowej wiki opartej o repozytorium GitHub. [Tutaj można znaleźć archiwum starej wersji wiki pozbawionej różnych funkcji MediaWiki](https://web.archive.org/web/20171115173938/https://osu.ppy.sh/old-wiki/Main_Page).
 
 ## Repozytorium GitHub (2016 - dziś)
 
