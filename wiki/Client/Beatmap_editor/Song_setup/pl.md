@@ -16,7 +16,7 @@ Informacje zawarte w zakładce `General` nie tylko pomagają znaleźć beatmapę
 | `Romanised Title` | Tytuł zapisany alfabetem łacińskim. *Można edytować jedynie, gdy pole `Title` zawiera znaki Unicode.* |
 | `Beatmap Creator` | Nazwa [hosta beatmapy](/wiki/Beatmap/Beatmap_host). Autorzy [gościnnych poziomów trudności](/wiki/Beatmap/Guest_difficulty) nie powinni być umieszczani tutaj, lecz w polu `Tags`. |
 | `Difficulty` | Nazwa poziomu trudności odzwierciedlająca jego zawartość. Może zawierać [nazwę twórcy poziomu trudności](/wiki/Beatmap/Guest_difficulty), a sama nazwa może być [standardowa](/wiki/Ranking_criteria/Difficulty_naming) lub [własna](/wiki/Ranking_criteria#rules.1). |
-| `Source` | (Opcjonalne) Nazwa filmu, gry itp., z której pochodzi utwór.
+| `Source` | (Opcjonalne) Nazwa filmu, gry itp., z których pochodzi utwór. |
 | `Tags` | Słowa kluczowe przydatne przy wyszukiwaniu, oddzielone spacjami. Można tutaj umieścić wszystkie informacje powiązane z beatmapą czy utworem, takie jak nazwa albumu, nazwy twórców gościnnych poziomów trudności czy gatunek utworu. |
 
 ## Difficulty
