@@ -189,15 +189,15 @@ When submitting their entry, [solor](https://osu.ppy.sh/users/25201175) left us 
 
 #### [Aiobahn feat. KOTOKO - Internet Yamero](https://osu.ppy.sh/beatmapsets/2608394#fruits/5839492)
 
-![KAngel](/wiki/shared/news/2026-09-11-aspire-6-results/kangel-ascii.png "Hey, catchers! It's me, the internet angel here to tell you a bit about this entry!")
-
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
         <source src="https://assets.ppy.sh/media/news/aspire-6-entry-vigilant-monitor.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
-Pushing the editor to the Limit, [Natsuko](https://osu.ppy.sh/users/8266817) and [Pitsuwa](https://osu.ppy.sh/users/8417565) managed to place hypers where they shouldn't be possible.
+![KAngel](/wiki/shared/news/2026-09-11-aspire-6-results/kangel-ascii.png "Hey, catchers! It's me, the internet angel here to tell you a bit about this entry!")
+
+Pushing the editor to the *limit*, [Natsuko](https://osu.ppy.sh/users/8266817) and [Pitsuwa](https://osu.ppy.sh/users/8417565) managed to place hypers where they shouldn't be possible.
 
 Beyond that, the map also featured unorthodox sliders while still maintaining a surprisingly high level of playability if you're skilled enough.
 
