@@ -31,7 +31,7 @@ For those who missed all the fun from the live showcase, we recommend checking o
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/nUlvuHuKl2w" frameborder="0" allowfullscreen></iframe>
 </div>
 
-By far the entry that has garnered the most discussion and praise, [-Arko](https://osu.ppy.sh/users/8802914) and [blixys](https://osu.ppy.sh/users/13015896) haven't just created a map, they have created an experience — one that many have reported to give genuine chills.
+By far the entry that has garnered the most discussion and praise, [-Arko](https://osu.ppy.sh/users/8802914) and [blixys](https://osu.ppy.sh/users/13015896) haven't just created a map, they have created an experience — one that many have reported to give genuine chills, and shall sit among beatmap legends such as [Transform](https://osu.ppy.sh/beatmapsets/484689) and [XNOR](https://osu.ppy.sh/beatmapsets/1236927).
 
 The marathon-length *FM Synthesis Experiment* offers mapping that's everything and more out of Aspire. Sliders distorted in ways never seen before, and objects covering your screen with a mysterious beauty behind every pattern. It's been six years since the last Aspire, and this map has made the wait well worth it.
 
@@ -55,7 +55,7 @@ Unfortunately due to the way the sliders are constructed, this map is rather dif
 
 Pushing the boundary in a rather unorthodox way, *19ZZ* is mapped in a way where all of its hit object have negative timestamps, opening the doors for some very interesting effects such as auto-played notes.
 
-Mappers [add222](https://osu.ppy.sh/users/14261013) and [\_necroplasma](https://osu.ppy.sh/users/10805852) uses auto-played notes alongside sliders distorted in every way possible, slider tick art, and disjointed combo numbers.
+Mappers [add222](https://osu.ppy.sh/users/14261013) and [\_necroplasma](https://osu.ppy.sh/users/10805852) used auto-played notes alongside sliders distorted in every way possible, slider tick art, and disjointed combo numbers.
 
 #### [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/2608581#osu/5839941)
 
@@ -171,7 +171,7 @@ Some of you may be familiar with [Exile-'s famous storyboard of this song](https
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ACt3zBgM9Vo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-When submitting their entry, [solor](https://osu.ppy.sh/users/25201175) left us with the comment "quality over quantity", and it appears their philosophy has paid off.
+When submitting their entry, [Solor](https://osu.ppy.sh/users/25201175) left us with the comment "quality over quantity", and it appears their philosophy has paid off.
 
 *Gakkou o Yasunda Hi no Koto* keeps things fairly low-key, with two very simple mechanics and only the most fitting visual gimmicks to accompany the map. Unlike most Aspire entries, this map is easy enough that anyone with even a modicum of taiko experience should be able to enjoy it to its fullest.
 
@@ -264,6 +264,6 @@ Thank you to everyone who mapped, played and helped organise Aspire! If only the
     </video>
 </div>
 
-Special congratulations to [-Arko](https://osu.ppy.sh/users/8802914), [blixys](https://osu.ppy.sh/users/13015896), [solor](https://osu.ppy.sh/users/25201175), [Natsuko](https://osu.ppy.sh/users/8266817), [Pitsuwa](https://osu.ppy.sh/users/8417565), [Tunnelblick](https://osu.ppy.sh/users/7737096), and [Utiba](https://osu.ppy.sh/users/11354436), our new Aspirants! Thank you for playing and see you next time!
+Special congratulations to [-Arko](https://osu.ppy.sh/users/8802914), [blixys](https://osu.ppy.sh/users/13015896), [Solor](https://osu.ppy.sh/users/25201175), [Natsuko](https://osu.ppy.sh/users/8266817), [Pitsuwa](https://osu.ppy.sh/users/8417565), [Tunnelblick](https://osu.ppy.sh/users/7737096), and [Utiba](https://osu.ppy.sh/users/11354436), our new Aspirants! Thank you for playing and see you next time!
 
 —Walavouchey, -Mo-, RandomeLoL & Daletto
