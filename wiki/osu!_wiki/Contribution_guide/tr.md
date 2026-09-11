@@ -22,7 +22,7 @@ Bu wiki'deki makaleler [GitHub][osu_wiki]'ta depolanmaktadır. Katkı sağlamak 
 1. [`ppy/osu-wiki`][osu_wiki] deposunu açın ve wiki'nin kontrollü bir kopyasını oluşturmak için `Fork` yani `Çatalla` yazan sağ üstteki butona tıklayın. Forkunuz'a geri dönmek için [`ppy/osu-wiki`][osu_wiki]'ye gidin ve yeniden `Fork`'a basın.
     - Eğer hâlihazırda bir fork oluşturmuş iseniz, forkunuzu [En iyi uygulamalar § Fork'u senkronize etmek](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork)'e uygun bir şekilde senkronize ediniz.
 2. [En iyi uygulamalar § Değişiklik yapma](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits)'yı okuyunuz ve gerekli değişiklikleri yapınız. Herhangi bir programı kullanmakta özgürsünüz fakat osu! wiki, şu iki iş akışı hakkında detaylı bilgi içermektedir:
-    - [GitHub tarayıcı tabanlı editör](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (çevrim içi, kurulum gerektirmez)
+    - [GitHub Tarayıcı Tabanlı Editör](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (çevrim içi, kurulum gerektirmez)
     - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (çevrim dışı, daha fazla kontrol)
 
 ## Kontroller {id=self-check}
