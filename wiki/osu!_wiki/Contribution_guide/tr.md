@@ -44,6 +44,7 @@ Değişikliklerinizin kontrol edildiğini ve fork'unuzda olduklarını varsayars
 1. **Kendi** osu! wiki forkunuza gidin, `master↓` yazan açılır listeyi bulun ve değişikliklerinizi içeren branşınıza tıklayınız.
 2. `Contribute↓` butonuna sonrasında ise `Open pull request`'e tıklayınız.
 3. [En iyi uygulamalar § Bir pull request açma](/wiki/osu!_wiki/Contribution_guide/Best_practices#opening-a-pull-request)'ya göre gerekli alanları doldurunuz ve `Create pull request`'e tıklayınız.
+
 ## Gözden geçirmeler {id=review}
 
 osu! wiki'deki bütün değişiklikler modere edilmektedir. Bu aşamada, diğer katkı sağlayan insanlar makaleyi düzenlerken kaçırdığınız hataları ve bu hataları düzeltmek için önerilerilerini ya pull request'e direkt düzenleme önererek ya da yazı ile (yorum yaparak) iletirler. Bu yorumları ya [önerileri uygulayarak](/wiki/osu!_wiki/Contribution_guide/Best_practices#applying-reviews) ya da olduğu gibi kalmasını istiyorsanız nedenini açıklayarak kaale almanız gerekir.
