@@ -25,9 +25,31 @@ For those who missed all the fun from the live showcase, we recommend checking o
 
 ![osu! podium](/wiki/shared/news/2026-09-11-aspire-6-results/podium-osu.jpg)
 
-#### Visual Spectacle
+#### Camellia - FM Synthesis Experiment
 
-...
+By far the entry that has garnered the most discussion and praise, [-Arko](https://osu.ppy.sh/users/8802914) and [blixys](https://osu.ppy.sh/users/13015896) haven't just created a map, they have created an experience - one that many have reported to give genuine chills.
+
+The marathon-length FM Synthesis Experiment offers an experience that's everything and more out of Aspire. Sliders distorted in ways never seen before, and objects covering your screen with a mysterious beauty behind every pattern. It's been six years since the last Aspire, and this map has made the wait well worth it.
+
+#### WangleLine - Doinkus
+
+As if modern tech wasn't enough, [Karoo13](https://osu.ppy.sh/users/1882522) and [Emotive](https://osu.ppy.sh/users/12381359) have found a way to exploit an older version of osu!'s file format to create some truly whacky sliders.
+
+Unfortunately due to the way the sliders are constructed, this map is rather difficult to load properly in game. However, for those fortunate enough to get it to load (or watch in a video), you will witness a true spectacle of glitchy sliders.
+
+#### Frums (unknown "lambda") - 19ZZ
+
+Pushing the boundary in a rather unorthodox way, 19ZZ is mapped in a way where all of its hit object are in negative time, opening the doors for some very interesting effects such as auto-played notes.
+
+Mappers [add222](https://osu.ppy.sh/users/14261013) and [\_necroplasma](https://osu.ppy.sh/users/10805852) uses negative time alongside distorted sliders to create a surprisingly colourful visual effect for the map.
+
+#### BilliumMoto - HDHR
+
+Very much leaning into the innovative gameplay call from Aspire is HDHR, mapped by [PukPow](https://osu.ppy.sh/users/16407679) and [Zuika](https://osu.ppy.sh/users/10222009).
+
+This map replicates some of the most popular mods from the osu!lazer client into one package, challenging the player on their adaptability and fast hands. If you're looking for an experience where your skills are tested, this is your map.
+
+#### Visual Spectacle
 
 | Entry | Votes |
 | :-- | :-: |
@@ -56,8 +78,6 @@ For those who missed all the fun from the live showcase, we recommend checking o
 | [KNOWER - More Than Just Another Try](https://osu.ppy.sh/beatmapsets/2608587#osu/5839949) | 10 |
 
 #### Innovative Gameplay
-
-Not satisfied with winning the Visual Spectacle category, [-Arko](https://osu.ppy.sh/users/8802914) and [Blixys](https://osu.ppy.sh/users/13015896)' entry left yet another commanding impression on the community where gameplay is concerned.
 
 | Entry | Votes |
 | :-- | :-: |
@@ -89,7 +109,9 @@ Not satisfied with winning the Visual Spectacle category, [-Arko](https://osu.pp
 
 ![osu!taiko podium](/wiki/shared/news/2026-09-11-aspire-6-results/podium-taiko.jpg)
 
-...
+When submitting their entry, [solor](https://osu.ppy.sh/users/25201175) left us with the comment "quality over quantity", and it appears their philosophy has paid off.
+
+Gakkou o Yasunda Hi no Koto keeps things fairly low-key, with two very simple mechanics to accompany the map. Unlike most Aspire entries, this map is easy enough that anyone with even a modicum of taiko experience should be able to enjoy it to its fullest. Sometimes simplicity is the best in ensuring top quality.
 
 | Entry | Votes |
 | :-- | :-: |
@@ -133,13 +155,29 @@ Not satisfied with winning the Visual Spectacle category, [-Arko](https://osu.pp
 
 ![Honorable mentions](/wiki/shared/news/2026-09-11-aspire-6-results/podium-honourable-mentions.jpg)
 
-...
+#### THE ENTIRE EARTH - conic
+
+Throwing out the ranking criteria doesn't mean you have to rely on glitches to make your map stand out, and [fowwo](https://osu.ppy.sh/users/4547551) has proven just that with their entry.
+
+conic goes against the expectations of past Aspire winners to bring us an experience founded on pure fun and whimsy. If any map deserves to have the storyboard enabled, it's this one, featuring the wholesome story of a pig's discovery of the cosmos. As a bonus, an SS is also achievable on this map, a true rarity in Aspire nowadays.
+
+#### Camellia - (The) Red * Room
+
+Previous entries to Aspire have explored slider art, slider animations, and even distorted sliders.
+
+[TheShadowOfDark](https://osu.ppy.sh/users/5795337) and [TheMagicAnimals](https://osu.ppy.sh/users/17274052) have levelled things up further by using slider balls to create a dancing effect as you play along to the map, adding an extra layer to the visual spectacle.  We were impressed with how Red * Room uses a mix of old and new slider trickery to create a unique experience visually and mechanically.
+
+#### Mili - world.execute(me);
+
+Some of you may be familiar with the [ranked map by Exile-](https://osu.ppy.sh/beatmapsets/470977#osu/1006822) which features one of the highest quality storyboards this game has seen. This rendition by [LunaUwU](https://osu.ppy.sh/users/39084830) looks to capture that same magic using sliders to highlight the keywords in the lyrics.
+
+world.execute(me); doesn't attempt anything over the top or too flashy, but instead has a focus on relatively down to earth visuals (by Aspire's standards) to represent the song in a clean and satisfying manner. However, the map is still an enjoyable experience even with the focus on visuals, something that we really appreciate in Aspire.
 
 ## Future of Aspire
 
 Aspire will be back in 2028. The plan is to host Aspire on alternating years with [Locus](/wiki/Contests/Locus/2025), so please look forward to the second iteration of Locus next year!
 
-The format is also likely to change for next Aspire. While there were certainly successes this year, there are still some sour points to be improved upon. Aspire shall continue to adapt, and your feedback will be key in its success! 
+The format is also likely to change for next Aspire. While there were certainly successes this year, there are still some sour points to be improved upon. Aspire shall continue to adapt, and your feedback will be key in its success!
 
 We have put together a survey to gather your thoughts on Aspire, which should take around 5(?) minutes to complete. Please let us know your thoughts!
 
