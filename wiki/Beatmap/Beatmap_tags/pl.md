@@ -123,7 +123,7 @@ Poniższe tabele zawierają listę wszystkich tagów użytkowników pogrupowanyc
 | [gimmick/delay](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fdelay%22%22) | Mapy charakteryzujące się streamami używającymi wysokiego podzielnika beatu, opartymi na efekcie opóźnienia w utworze. | ![][osu!mania] |
 | [gimmick/dodge the beat](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fdodge%20the%20beat%22%22) | Mapa, w której gracz musi unikać każdego obiektu. | ![][osu!catch] |
 | [gimmick/LN inverse](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2FLN%20inverse%22%22) | Mapy złożona z LN-ów, które opierają się na przytrzymywaniu i puszczaniu klawiszy w krótkich odstępach czasu. Najbardziej charakterystyczną cechą tego stylu jest użycie "przestrzeni negatywnej" w patternach. | ![][osu!mania] |
-| [gimmick/long sliders](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Flong%20sliders%22%22) | Mapa zawierające długie sekcje złożone ze sliderów, z rozgrywką opartą na łapaniu kropel zamiast owoców. ![][osu!catch] |
+| [gimmick/long sliders](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Flong%20sliders%22%22) | Mapa zawierające długie sekcje złożone ze sliderów, z rozgrywką opartą na łapaniu kropel zamiast owoców. | ![][osu!catch] |
 | [gimmick/mirrored](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fmirrored%22%22) | Mapa odbijająca lustrzanie patterny w krótkim odstępie czasu. | ![][osu!taiko] |
 | [gimmick/no hyperdashes](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fno%20hyperdashes%22%22) | Mapa, która nie używa hyperdashy, nawet jeśli są dozwolone na danym poziomie trudności. | ![][osu!catch] |
 | [gimmick/reversed](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Freversed%22%22) | Mapa regularnie wykorzystująca odwrócone wersje patternów | ![][osu!taiko] |
@@ -145,7 +145,7 @@ Poniższe tabele zawierają listę wszystkich tagów użytkowników pogrupowanyc
 | [style/freeform](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ffreeform%22%22) | Swobodne podejście do struktury wizualnej. | ![][osu!] |
 | [style/messy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fmessy%22%22) | Wizualnie chaotyczne i celowo niespójne patterny, często zawierające dużą ilość nakładających się na siebie obiektów i używające nierównych odstępów wizualnych pomiędzy nimi. | ![][osu!] |
 | [style/avant-garde](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Favant-garde%22%22) | Mapy wykonane w eksperymentalnym i nowatorskim stylu, często łamiące ogólno przyjęte normy w ekstremalnym stopniu. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [style/chordjack](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fchordjack%22%22) | Mapy z regularnie rozmieszczonymi chordami znajdującymi się w tych samych kolumnach.  | ![][osu!mania] |
+| [style/chordjack](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fchordjack%22%22) | Mapy z regularnie rozmieszczonymi chordami znajdującymi się w tych samych kolumnach. | ![][osu!mania] |
 | [style/chordstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fchordstream%22%22) | Mapy łączące streamy z chordami o różnej ilości nut. | ![][osu!mania] |
 | [style/convert](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fconvert%22%22) | Imituje mapy przekonwertowane z trybu osu!. | ![][osu!taiko] |
 | [style/convert](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fconvert%22%22) | Imituje mapy przekonwertowane z trybu osu!, w których struktura oraz odstępy pomiędzy obiektami są nieregularne. | ![][osu!catch] |
@@ -159,7 +159,7 @@ Poniższe tabele zawierają listę wszystkich tagów użytkowników pogrupowanyc
 | [style/LN density](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FLN%20density%22%22) | Mapy charakteryzujące się gęstymi streamami złożonymi z LN-ów. | ![][osu!mania] |
 | [style/LN mixed](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FLN%20mixed%22%22) | Mapy wykorzystujące wiele różnych stylów patternów złożonych z LN-ów. | ![][osu!mania] |
 | [style/LN release](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FLN%20release%22%22) | Mapy zawierające patterny złożone z zakończonych w różnych momentach LN-ów. | ![][osu!mania] |
-| [style/longjack](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Flongjack%22%22) | Mapy zawierające długie sekwencje nut ułożonych w tej samej kolumnie w krótkim odstępie czasu.  | ![][osu!mania] |
+| [style/longjack](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Flongjack%22%22) | Mapy zawierające długie sekwencje nut ułożonych w tej samej kolumnie w krótkim odstępie czasu. | ![][osu!mania] |
 | [style/mixed rice](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fmixed%20rice%22%22) | Mapy wykorzystujące wiele różnych stylów patternów złożonych z pojedynczych nut. | ![][osu!mania] |
 | [style/mono-heavy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fmono-heavy%22%22) | Zawiera dużą ilość jednokolorowych patternów. | ![][osu!taiko] |
 | [style/N+1](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FN%2B1%22%22) | Unikalny styl gry, w którym pierwsza od lewej kolumna jest mapowana niezależnie. Pozostałe kolumny zawierają obiekty ułożone w standardowy sposób. | ![][osu!mania] |
