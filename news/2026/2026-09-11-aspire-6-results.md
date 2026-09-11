@@ -31,7 +31,7 @@ For those who missed all the fun from the live showcase, we recommend checking o
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/nUlvuHuKl2w" frameborder="0" allowfullscreen></iframe>
 </div>
 
-By far the entry that has garnered the most discussion and praise, [-Arko](https://osu.ppy.sh/users/8802914) and [blixys](https://osu.ppy.sh/users/13015896) haven't just created a map, they have created an experience — one that many have reported to give genuine chills, and shall sit among beatmap legends such as [Transform](https://osu.ppy.sh/beatmapsets/484689) and [XNOR](https://osu.ppy.sh/beatmapsets/1236927).
+By far the entry that has garnered the most discussion and praise, [-Arko](https://osu.ppy.sh/users/8802914) and [blixys](https://osu.ppy.sh/users/13015896) haven't just created a map, they have created an experience — one that many have reported to give genuine chills, and shall sit among beatmap legends such as [Transform](https://osu.ppy.sh/beatmapsets/484689) and [XNOR XNOR XNOR](https://osu.ppy.sh/beatmapsets/1236927).
 
 The marathon-length *FM Synthesis Experiment* offers mapping that's everything and more out of Aspire. Sliders distorted in ways never seen before, and objects covering your screen with a mysterious beauty behind every pattern. It's been six years since the last Aspire, and this map has made the wait well worth it.
 
