@@ -125,6 +125,40 @@ This map replicates some of the most popular mods from the osu!(lazer) client in
 | [rN - opia](https://osu.ppy.sh/beatmapsets/2608588#osu/5839952) | 8 |
 | [gladde paling - vleermuis](https://osu.ppy.sh/beatmapsets/2608597#osu/5839964) | 5 |
 
+### Honourable mentions
+
+![Honorable mentions](/wiki/shared/news/2026-09-11-aspire-6-results/podium-honourable-mentions.jpg)
+
+#### [THE ENTIRE EARTH - conic](https://osu.ppy.sh/beatmapsets/2608562#osu/5839914)
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/bG_wnh1uMVQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Throwing out the ranking criteria doesn't mean you have to rely on glitches to make your map stand out, and [fowwo](https://osu.ppy.sh/users/4547551) has proven just that with their entry.
+
+conic goes against the expectations of past Aspire winners to bring us an experience founded on pure fun and whimsy. If any map deserves to have the storyboard enabled, it's this one, featuring the wholesome story of a pig's discovery of the cosmos. As a bonus, an SS is also achievable on this map, a true rarity in Aspire nowadays.
+
+#### [Camellia - (The) Red * Room](https://osu.ppy.sh/beatmapsets/2608555#osu/5839905)
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dwN2_h8p8xc" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Most Aspire maps have explore slider art, slider animations, and even distorted sliders.
+
+[TheShadowOfDark](https://osu.ppy.sh/users/5795337) and [TheMagicAnimals](https://osu.ppy.sh/users/17274052) made use of invisible sliders to make slider balls dancing around the playfield, making for an entry just as visually charming as it is fun to play.
+
+#### [Mili - world.execute(me);](https://osu.ppy.sh/beatmapsets/2608618#osu/5840004)
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ZgUw5f9k78c" frameborder="0" allowfullscreen></iframe>
+</div>
+
+Some of you may be familiar with [Exile-'s famous storyboard of this song](https://osu.ppy.sh/beatmapsets/470977#osu/1006822) that represents the Mili's lyrics in a very literal way. [LunaUwU](https://osu.ppy.sh/users/39084830)'s rendition of *world.execute(me);* looks to capture that same magic using sliders shaped to represent key words in the song's digital story.
+
+*world.execute(me);* doesn't attempt anything over the top or too flashy, many people being familiar with [this kind of 2B mapping](https://osu.ppy.sh/beatmapsets/756794#osu/1605148), but instead has a focus on representing the song in a clean manner while being satisfyingly playable.
+
 ### osu!taiko
 
 ![osu!taiko podium](/wiki/shared/news/2026-09-11-aspire-6-results/podium-taiko.jpg)
@@ -206,40 +240,6 @@ Challengers of this map should pay careful attention to the position of the note
 | [Symholic feat. Rina Komatsu - Veil of Ash](https://osu.ppy.sh/beatmapsets/2608389#mania/5839486) | 17 |
 | [Camellia - illegal trap](https://osu.ppy.sh/beatmapsets/2607775#mania/5837299) | 17 |
 | [Akiri - ATOMIC RAILGUN](https://osu.ppy.sh/beatmapsets/2607765#mania/5837285) | 13 |
-
-### Honorable mentions
-
-![Honorable mentions](/wiki/shared/news/2026-09-11-aspire-6-results/podium-honourable-mentions.jpg)
-
-#### [THE ENTIRE EARTH - conic](https://osu.ppy.sh/beatmapsets/2608562#osu/5839914)
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/bG_wnh1uMVQ" frameborder="0" allowfullscreen></iframe>
-</div>
-
-Throwing out the ranking criteria doesn't mean you have to rely on glitches to make your map stand out, and [fowwo](https://osu.ppy.sh/users/4547551) has proven just that with their entry.
-
-conic goes against the expectations of past Aspire winners to bring us an experience founded on pure fun and whimsy. If any map deserves to have the storyboard enabled, it's this one, featuring the wholesome story of a pig's discovery of the cosmos. As a bonus, an SS is also achievable on this map, a true rarity in Aspire nowadays.
-
-#### [Camellia - (The) Red * Room](https://osu.ppy.sh/beatmapsets/2608555#osu/5839905)
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dwN2_h8p8xc" frameborder="0" allowfullscreen></iframe>
-</div>
-
-Most Aspire maps have explore slider art, slider animations, and even distorted sliders.
-
-[TheShadowOfDark](https://osu.ppy.sh/users/5795337) and [TheMagicAnimals](https://osu.ppy.sh/users/17274052) made use of invisible sliders to make slider balls dancing around the playfield, making for an entry just as visually charming as it is fun to play.
-
-#### [Mili - world.execute(me);](https://osu.ppy.sh/beatmapsets/2608618#osu/5840004)
-
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ZgUw5f9k78c" frameborder="0" allowfullscreen></iframe>
-</div>
-
-Some of you may be familiar with [Exile-'s famous storyboard of this song](https://osu.ppy.sh/beatmapsets/470977#osu/1006822) that represents the Mili's lyrics in a very literal way. [LunaUwU](https://osu.ppy.sh/users/39084830)'s rendition of *world.execute(me);* looks to capture that same magic using sliders shaped to represent key words in the song's digital story.
-
-*world.execute(me);* doesn't attempt anything over the top or too flashy, many people being familiar with [this kind of 2B mapping](https://osu.ppy.sh/beatmapsets/756794#osu/1605148), but instead has a focus on representing the song in a clean manner while being satisfyingly playable.
 
 ## The future of Aspire
 
