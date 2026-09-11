@@ -14,7 +14,7 @@ Nakładkę można także otworzyć poprzez spauzowanie rozgrywki. Metoda ta nie 
 
 | Nazwa | Efekt | Dodatkowe informacje |
 | :-- | :-- | :-- |
-| `Przyciemnienie tła` | Przyciemnia obszar gry (wliczając storyboardy i/lub wideo w tle). |  Podczas przerw przyciemnienie jest zmniejszone o 30% (do maksymalnie 0%) (można wyłączyć w opcjach). *Uwaga: Zmiany przyciemnienia tła są zapisywane dla każdej beatmapy osobno, jednak zostaną zresetowane po zamknięciu osu!.* |
+| `Przyciemnienie tła` | Przyciemnia obszar gry (wliczając storyboardy i/lub wideo w tle). | Podczas przerw przyciemnienie jest zmniejszone o 30% (do maksymalnie 0%) (można wyłączyć w opcjach). *Uwaga: Zmiany przyciemnienia tła są zapisywane dla każdej beatmapy osobno, jednak zostaną zresetowane po zamknięciu osu!.* |
 | `Wyłącz storyboard` | Usuwa wszystkie elementy storyboardu. Nie ma wpływu na [czas kiai](/wiki/Gameplay/Kiai_time) ani na wideo w tle (jeżeli mapa je posiada). | Włączenie tej opcji jest zalecane osobom cierpiącym na epilepsję w przypadku beatmap z ostrzeżeniem dot. epilepsji. Opcja ta zostanie automatycznie wyłączona, jeżeli beatmapa nie posiada storyboardu. |
 | `Ignoruj skórkę beatmapy` | Podczas rozgrywki zostanie użyta wybrana przez gracza skórka zamiast tej zawartej w beatmapie. | Wymaga zrestartowania beatmapy. |
 | `Ignoruj efekty dźwiękowe beatmapy` | Jeżeli mapa posiada własne hitsoundy, zamiast nich zostaną użyte te z wybranej skórki gracza. | Wymaga zrestartowania beatmapy. |
