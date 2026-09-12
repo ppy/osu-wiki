@@ -39,7 +39,7 @@ Twoje hasło IRC nie jest tym samym hasłem, co hasło do twojego konta. **Pod �
 | `/ignore <użytkownik>` | Dodaje użytkownika do ignorowanych (przestaje wyświetlać jego wiadomości) |
 | `/away <wiadomość>` | Ustawia wiadomość dla osób, które będą próbowały wysłać wiadomość prywatną |
 | `/away` | Usuwa powyższą wiadomość |
-| `/query <użytkownik>` | Otwiera czat z danym użytkownikiem (spacje w nazwie zastąp znakami podkreślenia) ||
+| `/query <użytkownik>` | Otwiera czat z danym użytkownikiem (spacje w nazwie zastąp znakami podkreślenia) |
 
 ## Ukrywanie wiadomości o dołączeniu lub wyjściu
 
