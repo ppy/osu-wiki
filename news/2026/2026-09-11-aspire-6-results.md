@@ -53,9 +53,9 @@ Unfortunately due to the way the sliders are constructed, this map is rather dif
     </video>
 </div>
 
-Pushing the boundary in a rather unorthodox way, *19ZZ* is mapped in a way where all of its hit object have negative timestamps, opening the doors for some very interesting effects such as auto-played notes.
+Pushing the boundary in a rather unorthodox way, this map of *19ZZ*'s primary goal was to leave you speechless.
 
-Mappers [add222](https://osu.ppy.sh/users/14261013) and [\_necroplasma](https://osu.ppy.sh/users/10805852) used auto-played notes alongside sliders distorted in every way possible, slider tick art, and disjointed combo numbers.
+Mappers [add222](https://osu.ppy.sh/users/14261013) and [\_necroplasma](https://osu.ppy.sh/users/10805852) used all techniques at their disposal including sliders distorted in every way possible, slider tick art, auto-played notes, and disjointed combo numbers, all for a showcase that paints the entire screen in sliders.
 
 #### [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/2608581#osu/5839941)
 
