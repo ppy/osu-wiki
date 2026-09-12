@@ -9,7 +9,7 @@ series: featured_artists
 
 ![](https://assets.ppy.sh/artists/566/header.jpg)
 
-From amateur rap as a teenager in the early 2000s to deathcore with the band *Versus My Phobia* from 2009-2016 to increasingly more genre explorations up through today, **Inconsequentialist** is a musician who knows his limits (...or more specifically, he knows he has none).
+From amateur rap as a teenager in the early 2000s to deathcore with the band *Versus My Phobia* from 2009–2016 to increasingly more genre explorations up through today, **Inconsequentialist** is a musician who knows his limits (...or more specifically, he knows he has none).
 
 For [**Inconsequentialist**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/566), we're proud to showcase **13** songs from **4** of this artist's monikers, each associated with a different soundscape:
 
