@@ -1,88 +1,94 @@
----
-outdated_translation: true
----
-
 # Internet Relay Chat
 
-[Internet Relay Chat](https://pl.wikipedia.org/wiki/Internet_Relay_Chat), znany także jako IRC, jest ugruntowanym, standaryzowanym protokołem do czatu z wieloma klientami naraz.
+::: alert-note
+Więcej informacji znajdziesz w artykule Wikipedii [Internet Relay Chat](https://pl.wikipedia.org/wiki/Internet_Relay_Chat)
+:::
 
-## Czat osu!
+**Internet Relay Chat** (**IRC**) jest protokołem służącym do czatu z wieloma klientami naraz.
 
-osu! używa protokołu IRC dla [czatu wewnętrznego](/wiki/Client/Interface/Chat_console). Możesz połączyć się za pomocą własnego klienta IRC i rozmawiać ze swoimi znajomymi, nawet jeżeli nie masz samej gry. Należy zwrócić uwagę, że Bancho używa własnej implementacji protokołu IRC i nie zawiera w sobie wszystkich jego cech. Nie powinno się w tym wypadku spodziewać poprawnej obsługi wszystkich funkcji twojego klienta IRC.
+## osu!Bancho
 
-**Uwaga: Wiadomo, że [HexChat](https://hexchat.github.io/) ma pewne problemy z protokołem IRC osu!** ([raport błędu z GitHuba HexChatu](https://github.com/hexchat/hexchat/issues/818)), zaleca się użycie innego klienta IRC jeżeli nagminnie przysparza to kłopotów.
+::: alert-notice
+Ten serwer posiada jedynie częściową implementację protokołu IRC. Niektóre niestandardowe funkcje twojego klienta IRC (np. [HexChat](https://hexchat.github.io/)) mogą działać nieprawidłowo lub nie działać wcale.
+:::
 
-### Jak się połączyć?
+*osu!Bancho* (czasem skracane do *Bancho*) udostępnia bramkę umożliwiającą dostęp do czatu w grze poprzez IRC. Możesz użyć dowolnego współczesnego klienta IRC, aby się z nim połączyć (zjedź niżej, aby zobaczyć listę najpopularniejszych z nich).
 
-Po przygotowaniu klienta IRC, należy użyć swojej nazwy użytkownika jako nicku i połączyć się do `cho.ppy.sh` LUB `irc.ppy.sh` (oba łączą się do tego samego hosta) na porcie **6667** (domyślny port IRC).
+## Połączenie
 
-### Autoryzacja BanchoBot
+Otwórz ustawienia swojego klienta IRC i wypełnij pola poniższymi wartościami (czasem trzeba najpierw dodać serwer):
 
-Następująca wiadomość pojawi się przy pierwszym połączeniu:
+- Serwer: `irc.ppy.sh`
+- Port: `6667`
+- SSL: wyłączony
+- Nazwa użytkownika: twoja nazwa użytkownika osu!. Spacje zastąp znakami podkreślenia (np. `beppy master 1000` powinno być zapisane jako `beppy_master_1000`)
+- Hasło: hasło z [ustawień konta](https://osu.ppy.sh/home/account/edit#legacy-api)
 
-```
-* Welcome to osu!bancho.
-* -
-* - You are required to authenticate before accessing this service.
-* - Please click the following link to complete this process:
-```
-
-Na stronie podanej w otrzymanej wiadomości znajduje się przycisk „Authorise IRC connection”. Naciśnięcie go umożliwia czatowanie z innymi, a następnie automatycznie dołącza użytkownika do kanału `#osu`.
-
-Aby nie musieć klikać tego przycisku przy każdorazowym połączeniu, należy podane hasło umieścić w odpowiednim polu w kliencie IRC.
-
-`To permanently authorise a client, please change your IRC password (server password) to: XXXXXXX`
-
-**POD ŻADNYM POZOREM NIE NALEŻY DAWAĆ NIKOMU SWOJEGO HASŁA IRC**.
+::: alert-warning
+**Uwaga**
+Twoje hasło IRC nie jest tym samym hasłem, co hasło do twojego konta. **Pod żadnym pozorem nie dziel się nim z nikim**.
+:::
 
 ## Podstawowe komendy IRC
 
-| Opis | Komenda |
+| Komenda | Opis |
 | :-- | :-- |
-| Dołącza do kanału (np. \#lobby) | `/join #kanał` |
-| Opuszcza kanał | `/part` |
-| Ignoruje kogoś | `/ignore nick` |
-| Wypisuje czynność | `/me robi kanapkę` |
+| `/join <#kanał>` | Otwiera kanał |
+| `/part <#kanał>` | Opuszcza kanał |
+| `/me <wiadomość>` | Wysyła wiadomość w trzeciej osobie |
+| `/ignore <użytkownik>` | Dodaje użytkownika do ignorowanych (przestaje wyświetlać jego wiadomości) |
+| `/away <wiadomość>` | Ustawia wiadomość dla osób, które będą próbowały wysłać wiadomość prywatną |
+| `/away` | Usuwa powyższą wiadomość |
+| `/query <użytkownik>` | Otwiera czat z danym użytkownikiem (spacje w nazwie zastąp znakami podkreślenia) ||
 
-## Ukrywanie wiadomości o dołączaniu lub wychodzeniu
+## Ukrywanie wiadomości o dołączeniu lub wyjściu
 
-Za każdym razem gdy ktoś dołącza lub opuszcza kanał, zostaje wyświetlona następująca wiadomość:
+Większość klientów IRC domyślnie wyświetla wiadomość za każdym razem, gdy ktoś dołączy do kanału lub gdy z niego wyjdzie. W przypadku osu!Bancho, do którego regularnie logują się tysiące użytkowników, takie wiadomości często powadzą do spamu, który użytkownik może chcieć ukryć. Poniżej znajduje się lista popularnych klientów IRC oraz informacja, jak wyłączyć tego typu wiadomości w każdym z nich:
 
-```
-użytkownik has joined #kanał
-użytkownik has quit #kanał
-```
-
-Na mniejszych kanałach nie jest to zazwyczaj uciążliwe, natomiast zalew informacji o użytkownikach dołączających lub opuszczających kanał \#osu, sprawia, że czat nie nadaje się do czytania.
-
-### Ukrywanie wiadomości o dołączaniu lub wychodzeniu w najczęściej używanych klientach IRC
-
-| Klient | Komenda |
+| Klient IRC | Sposób wyłączenia |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/) | Kliknąć prawym przyciskiem na kanał na którym chce się dokonać zmiany (pod menu Settings) i zaznaczyć „Hide Join/Part Messages”. Settings » Preferences, (pod Chatting) » General i zaznaczyć „Hide join and part Messages” |
-| [ircII](http://www.eterna.com.au/ircii/) | `/ignore * crap` |
-| [Irssi](https://irssi.org) | `/ignore -channels #kanał * JOINS PARTS QUITS` |
-| [Weechat](https://weechat.org/) | `/filter add irc_smart_weechat irc.nick.#kanał irc_smart_filter *`. **Notka:** nick to nazwa podana przy dodawaniu serwera IRC do WeeChat. |
-| [KVIrc](https://www.kvirc.net/) | Należy odnieść się do [tego wątku](http://www.kvirc.ru/forum/?topic=609.0) na oficjalnym forum KVIrc |
-| [mIRC](https://www.mirc.com/) | Tools » Options » „IRC”. Kliknąć przycisk „Events...”, po czym zmienić „joins”, „parts”, „quits”, and „nicks” na pożądane opcje: „In Status” lub „Hide” są rekomendowanymi ustawieniami [1](http://web.archive.org/web/20160304201229/http://i.clintecker.com/disable-irc-msgs.html). |
-| [Quassel IRC](https://quassel-irc.org/) | Klikniąć prawym przyciskiem myszy okienko czatu, a następnie wybrać Hide Events » Join/Part/Quit. |
-| [XChat](http://xchat.org/) | Kliknąć prawym przyciskiem myszy na zakładkę na której chce się zmiany. W podmenu z nazwą kanału znajduje się przełączalna „Show join/part messages”. Można też napisać `/set irc_conf_mode 1` [2](http://xchat.org/faq/#q211), by wyłączyć powiadomienia na kanałach. |
+| [HexChat](https://hexchat.github.io/) | Przejdź do `Settings` -> `Preferences` -> `Chatting` -> `General` i kliknij "Hide join and part messages" (dla wersji Advanced pre-2.9.6) |
+| [ircII](http://www.eterna.com.au/ircii/) | Wpisz `IGNORE * CRAP` |
+| [Irssi](https://irssi.org) | Wpisz `/ignore * JOINS PARTS QUITS` |
+| [Weechat](https://weechat.org/) | Wpisz `/filter add joinquit * irc_join,irc_part,irc_quit *` |
+| [Konversation](https://konversation.kde.org/) | Przejdź do `Settings` -> `Configure Konversation...` (`Ctrl` + `Shift` + `,`) -> `Behavior` -> `Chat Window` i zaznacz "Hide Join/Part/Nick Events" |
+| [KVIrc](https://www.kvirc.net/) | Zapoznaj się z [wiki KVIrc](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages) |
+| [mIRC](https://www.mirc.com/) | Otwórz ustawienia (`Tools` -> `Options` lub `Alt` + `O`), wybierz `IRC`, kliknij przycisk `Events...` i wybierz `Hide` dla wiadomości o dołączeniu i wyjściu |
+| [Quassel IRC](https://quassel-irc.org/) | Kliknij prawym przyciskiem myszy okno czatu, a następnie wybierz Joins/Parts/Quits w menu "Hide Events" |
+| [XChat](http://xchat.org/) | Wpisz `/set irc_conf_mode 1` |
 
-Jeżeli używany klient nie został tutaj podany, należy odnieść się bezpośrednio do jego dokumentacji. Większość klientów posiada sposób na ukrycie tych powiadomień.
+## Często zadawane pytania
 
-## Często zadawane pytania (FAQ)
+### Nie mogę się zalogować
 
-### Pojawia się błąd „Bad Authentication Token”. Co robić?
+osu!Bancho używa zwykłej autoryzacji tekstowej. Upewnij się, że nie wybrano żadnego specjalnego trybu autoryzacji w ustawieniach twojego klienta IRC.
 
-1. Upewnić się że używa się hasła podanego na stronie [Autoryzacji IRC](https://osu.ppy.sh/p/irc).
-2. Jeżeli twój pseudonim ma spację, zastąp ją podkreślnikiem (np. **Ten pseudonim** na **Ten\_pseudonim**).
+Możesz też spróbować użyć innego adresu serwera, `cho.ppy.sh`, który również połączy cię z osu!Bancho.
 
-### Czy można użyć innego pseudonimu?
+### Pojawia się błąd "Bad Authentication Token"
 
-Nie. Jedynym dozwolonym pseudonimem jest ten posiadany w grze.
+Spróbuj następujących kroków:
 
-### Czym jest status +v? Widać także innych ludzi, którzy go mają
+1. Upewnij się, że używasz poprawnego hasła z [ustawień konta](https://osu.ppy.sh/home/account/edit#legacy-api).
+2. Jeżeli twoja nazwa użytkownika posiada spacje, zastąp je znakiem podkreślenia (np. `Ten pseudonim` jako `Ten_pseudonim`).
 
-Użytkownicy ze statusem głosowym (przedrostek +) są połączeni za pomocą klienta IRC (nie wliczając w to moderatorów czatu, którzy mają *status operatora (przedrostek @)*.
+### Czy mogę użyć innej nazwy użytkownika?
 
-Użytkownicy nieposiadający żadnego statusu są połączeni przez klienta gry.
+Nie.
+
+### Jak mogę szybko wpisać nazwę innego użytkownika?
+
+Wpisz kilka pierwszych liter nazwy użytkownika, a następnie naciśnij `Tab`, aby automatycznie ją uzupełnić.
+
+### Dlaczego niektóre nazwy użytkowników są poprzedzone różnymi znakami?
+
+Standard IRC zawiera tak zwane tryby kanałów. Określają one działania, które może wykonać każdy użytkownik. W osu!Bancho dwa tryby są używane do oznaczania specjalnych grup użytkowników:
+
+- `+`, czyli "voice status": użytkownik jest połączony przez klienta IRC
+- `@`, czyli "chat operator status": użytkownik jest moderatorem czatu ([moderatorem globalnym](/wiki/People/Global_Moderation_Team) lub członkiem [zespołu NAT](/wiki/People/Nomination_Assessment_Team))
+
+Nazwy użytkowników połączonych przez klienta osu! lub stronę internetową nie posiadają żadnego przedrostka.
+
+### Ktoś wysłał wiadomość, ale nie widać go na liście użytkowników kanału!
+
+Oznacza to, że używają [internetowej wersji czatu](https://osu.ppy.sh/community/chat) lub są połączeni przez [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
