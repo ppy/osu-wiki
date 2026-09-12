@@ -22,7 +22,7 @@ tags:
 | Tipo | Aumento de dificultad |
 | Tecla de acceso directo predeterminada | `T` |
 | Modos de juego compatibles | ![][osu!taiko] |
-| Multiplicador de puntuación | `0.60x` |
+| Multiplicador de puntuación | `0,60x` |
 | Estado | No clasificado |
 | Mods incompatibles | Ninguno |
 
