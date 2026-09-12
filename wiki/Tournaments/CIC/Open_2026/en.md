@@ -26,17 +26,17 @@ The **Catch Indonesia Cup Open 2026** (***CICO 2026***) is a double-elimination 
 
 ## Prizes
 
-The Catch Indonesia Cup Open 2026 offered the following initial prize pool as generously donated by ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422) and ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422). This prize pool was further increased from community donations through [Ko-Fi](https://ko-fi.com/oci).
+The Catch Indonesia Cup Open 2026 offers an initial prize pool of $50 as generously donated by ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422) and ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422). This prize pool are to be increased from community donations through [Ko-Fi](https://ko-fi.com/oci).
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, *more TBA* |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | *TBA* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | *TBA* |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 55% of the accumulated prize pool, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the accumulated prize pool |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15% of the accumulated prize pool |
 
 ## Organisation
 
-The Catch the Beat Indonesia Cup Open 2026 was run by various osu! community members from Indonesia and beyond.
+The Catch Indonesia Cup Open 2026 was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -51,12 +51,12 @@ The Catch the Beat Indonesia Cup Open 2026 was run by various osu! community mem
 | Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [smsrdzc](https://osu.ppy.sh/users/38505034), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=CA }:: [Aquatic\_3](https://osu.ppy.sh/users/22711091) |
 | Illustrator | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233), ::{ flag=ID }:: [Rezukitazu](https://osu.ppy.sh/users/2499880), ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=ID }:: Minato [(↗)](https://twitter.com/minato28507), ::{ flag=ID }:: Reminisensi [(↗)](https://twitter.com/Reminisensi_), ::{ flag=VN }:: Utopia [(↗)](https://twitter.com/_Utopia_Hope) |
 | Statisician | ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829) |
-| Wiki/newspost | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422) |
+| Wiki/newspost | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) |
 
 ## Links
 
 - **[Official website](https://wybin.xyz/cico2026)**
-- [Forum thread](TBA)
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/2241677)
 - [Discord server](https://discord.gg/YwAYbPa)
 - [Challonge brackets](https://challonge.com/CICO2026)
 - [Livestream channel](https://www.twitch.tv/osucatchid)
