@@ -8,7 +8,7 @@ tags:
 
 ![Catch Indonesia Cup Open 2026 banner](img/banner.jpg)
 
-The **Catch Indonesia Cup Open 2026** (***CICO 2026***) is a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), and ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898). Despite its name, the tournament is open to all osu!catch players from the around the world regardless of geographical location. It was the fourteenth iteration of the Catch the Beat Indonesia Cup, as well as the fourth one to be held under the "Open" format.
+The **Catch Indonesia Cup Open 2026** (***CICO 2026***) is a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), and ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898). Despite its name, the tournament is open to all osu!catch players from the around the world regardless of geographical location. It is the fourteenth iteration of the Catch the Beat Indonesia Cup, as well as the fourth one to be held under the "Open" format.
 
 ## Tournament schedule
 
@@ -36,11 +36,11 @@ The Catch Indonesia Cup Open 2026 offers an initial prize pool of $50 as generou
 
 ## Organisation
 
-The Catch Indonesia Cup Open 2026 was run by various osu! community members from Indonesia and beyond.
+The Catch Indonesia Cup Open 2026 is run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | :::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) |
+| Host | ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) |
 | Mappool selector | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
 | Custom mapper | *TBA* |
 | Playtester | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
@@ -50,8 +50,8 @@ The Catch Indonesia Cup Open 2026 was run by various osu! community members from
 | Design coordinator | ::{ flag=MY }:: [mochasan\_](https://osu.ppy.sh/users/23804364) |
 | Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [smsrdzc](https://osu.ppy.sh/users/38505034), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=CA }:: [Aquatic\_3](https://osu.ppy.sh/users/22711091) |
 | Illustrator | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233), ::{ flag=ID }:: [Rezukitazu](https://osu.ppy.sh/users/2499880), ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=ID }:: Minato [(↗)](https://twitter.com/minato28507), ::{ flag=ID }:: Reminisensi [(↗)](https://twitter.com/Reminisensi_), ::{ flag=VN }:: Utopia [(↗)](https://twitter.com/_Utopia_Hope) |
-| Statisician | ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829) |
-| Wiki/newspost | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) |
+| Statistician | ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829) |
+| Wiki and newspost | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) |
 
 ## Links
 
@@ -152,4 +152,4 @@ To be announced.
    - Playing a Free Mod pick without any mods applied is not allowed.
 8. In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled. Players are free to play the tiebreaker map with the Hidden mod should they wish to. 
    - Playing the tiebreaker map with a mod is *not* mandatory.
-7. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
+9. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
