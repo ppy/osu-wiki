@@ -12,7 +12,7 @@ tags:
 
 #### Random
 
-![Random 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RD.png)
+![Random 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RD.png?1)
 
 *![][osu!]: 从不会无聊！*\
 *![][osu!taiko]: 随机排布物件颜色！*\

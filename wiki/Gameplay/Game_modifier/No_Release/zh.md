@@ -12,7 +12,7 @@ tags:
 
 #### No Release
 
-![No Release 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NR.png)
+![No Release 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NR.png?1)
 
 *不用再考虑面条松开的时机了。*
 

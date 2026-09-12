@@ -12,7 +12,7 @@ tags:
 
 #### Adaptive Speed
 
-![Adaptive Speed mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AS.png)
+![Adaptive Speed mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AS.png?1)
 
 *Let track speed adapt to you.*
 

@@ -12,7 +12,7 @@ tags:
 
 #### Daycore
 
-![Daycore mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DC.png)
+![Daycore mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DC.png?1)
 
 *Whoaaaaa...*
 

@@ -13,7 +13,7 @@ tags:
 
 #### Hard Rock
 
-![Hard Rock 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HR.png)
+![Hard Rock 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HR.png?1)
 
 *各方面的难度都增加一点...*
 

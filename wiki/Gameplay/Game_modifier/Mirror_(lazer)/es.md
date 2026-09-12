@@ -12,7 +12,7 @@ tags:
 
 #### Mirror
 
-![Icono del mod Mirror](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MR.png)
+![Icono del mod Mirror](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MR.png?1)
 
 *![][osu!]: Invierte los objetos en los ejes elegidos.*\
 *![][osu!catch]: Las frutas se invierten horizontalmente.*\

@@ -12,7 +12,7 @@ tags:
 
 #### Alternate
 
-![Alternate 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AL.png)
+![Alternate 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AL.png?1)
 
 *不要连按同一个键！*
 

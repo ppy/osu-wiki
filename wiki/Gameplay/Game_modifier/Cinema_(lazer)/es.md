@@ -12,7 +12,7 @@ tags:
 
 #### Cinema
 
-![Icono del mod Cinema](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CN.png)
+![Icono del mod Cinema](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CN.png?1)
 
 *Reproduce el vídeo sin distracciones visuales.*
 

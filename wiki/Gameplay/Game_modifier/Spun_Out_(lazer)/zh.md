@@ -13,7 +13,7 @@ tags:
 
 #### Spun Out
 
-![Spun Out 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SO.png)
+![Spun Out 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SO.png?1)
 
 *转盘会自动完成。*
 

@@ -12,7 +12,7 @@ tags:
 
 #### No Release
 
-![No Release mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NR.png)
+![No Release mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NR.png?1)
 
 *No more timing the end of hold notes.*
 

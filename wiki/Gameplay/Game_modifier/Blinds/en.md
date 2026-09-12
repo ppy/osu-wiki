@@ -12,7 +12,7 @@ tags:
 
 #### Blinds
 
-![Blinds mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BL.png)
+![Blinds mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BL.png?1)
 
 *Play with blinds on your screen.*
 

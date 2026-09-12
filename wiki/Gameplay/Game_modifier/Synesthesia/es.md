@@ -12,7 +12,7 @@ tags:
 
 #### Synesthesia
 
-![Icono del mod Synesthesia](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SY.png)
+![Icono del mod Synesthesia](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SY.png?1)
 
 *Colorea los objetos según el ritmo.*
 

@@ -13,7 +13,7 @@ tags:
 
 #### Fade In
 
-![Fade In 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FI.png)
+![Fade In 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FI.png?1)
 
 *按键凭空出现！*
 

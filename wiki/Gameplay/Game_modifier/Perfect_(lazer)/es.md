@@ -12,7 +12,7 @@ tags:
 
 #### Perfect
 
-![Icono del mod Perfect](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/PF.png)
+![Icono del mod Perfect](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/PF.png?1)
 
 *SS o nada.*
 

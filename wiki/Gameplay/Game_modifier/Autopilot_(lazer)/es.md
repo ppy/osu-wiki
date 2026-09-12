@@ -14,7 +14,7 @@ tags:
 
 #### Autopilot
 
-![Icono del mod Autopilot](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AP.png)
+![Icono del mod Autopilot](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AP.png?1)
 
 *Movimiento automático del cursor; solo tienes que seguir el ritmo.*
 

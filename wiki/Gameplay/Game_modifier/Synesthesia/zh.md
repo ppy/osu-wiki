@@ -12,7 +12,7 @@ tags:
 
 #### Synesthesia
 
-![Synesthesia 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SY.png)
+![Synesthesia 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SY.png?1)
 
 *按节奏给物件上色。*
 

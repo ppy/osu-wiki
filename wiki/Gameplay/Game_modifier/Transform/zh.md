@@ -12,7 +12,7 @@ tags:
 
 #### Transform
 
-![Transform 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TR.png)
+![Transform 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TR.png?1)
 
 *一切都在转。一切。*
 

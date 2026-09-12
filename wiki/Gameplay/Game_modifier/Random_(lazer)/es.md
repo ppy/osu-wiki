@@ -12,7 +12,7 @@ tags:
 
 #### Random
 
-![Icono del mod Random](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RD.png)
+![Icono del mod Random](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RD.png?1)
 
 *![][osu!]: ¡Nunca se hace aburrido!*\
 *![][osu!taiko]: ¡Mezcla los colores!*\

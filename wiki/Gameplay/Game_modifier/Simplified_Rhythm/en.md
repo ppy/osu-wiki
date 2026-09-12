@@ -12,7 +12,7 @@ tags:
 
 #### Simplified Rhythm
 
-![Simplified Rhythm mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SR.png)
+![Simplified Rhythm mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SR.png?1)
 
 *Simplify tricky rhythms!*
 

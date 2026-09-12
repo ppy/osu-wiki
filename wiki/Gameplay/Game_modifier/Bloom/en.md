@@ -11,7 +11,7 @@ tags:
 
 #### Bloom
 
-![Bloom mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BM.png)
+![Bloom mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BM.png?1)
 
 *The cursor blooms into.. a larger cursor!*
 

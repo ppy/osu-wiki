@@ -14,7 +14,7 @@ tags:
 
 #### Autoplay
 
-![Autoplay mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AT.png)
+![Autoplay mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AT.png?1)
 
 *Watch a perfect automated play through the song.*
 

@@ -12,7 +12,7 @@ tags:
 
 #### Approach Different
 
-![Approach Different mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AD.png)
+![Approach Different mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AD.png?1)
 
 *Never trust the approach circles...*
 

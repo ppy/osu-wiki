@@ -12,7 +12,7 @@ tags:
 
 #### Invert
 
-![Invert mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/IN.png)
+![Invert mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/IN.png?1)
 
 *Hold the keys. To the beat.*
 

@@ -16,7 +16,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Flashlight
 
-![Flashlight 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FL.png)
+![Flashlight 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/FL.png?1)
 
 *限制视野。*
 

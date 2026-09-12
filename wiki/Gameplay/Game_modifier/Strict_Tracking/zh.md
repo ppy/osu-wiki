@@ -12,7 +12,7 @@ tags:
 
 #### Strict Tracking
 
-![Strict Tracking 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/ST.png)
+![Strict Tracking 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/ST.png?1)
 
 *点击滑条后，没跟上便 Miss。*
 

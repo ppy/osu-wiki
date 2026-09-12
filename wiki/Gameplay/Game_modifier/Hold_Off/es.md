@@ -12,7 +12,7 @@ tags:
 
 #### Hold Off
 
-![Icono del mod Hold Off](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HO.png)
+![Icono del mod Hold Off](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HO.png?1)
 
 *Reemplaza todas las notas largas por notas normales.*
 

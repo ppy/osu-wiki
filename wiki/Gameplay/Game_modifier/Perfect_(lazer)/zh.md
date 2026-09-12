@@ -12,7 +12,7 @@ tags:
 
 #### Perfect
 
-![Perfect 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/PF.png)
+![Perfect 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/PF.png?1)
 
 *不 SS，便失败。*
 

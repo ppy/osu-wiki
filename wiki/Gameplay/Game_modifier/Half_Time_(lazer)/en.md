@@ -13,7 +13,7 @@ tags:
 
 #### Half Time
 
-![Half Time mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HT.png)
+![Half Time mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HT.png?1)
 
 *Less zoom...*
 

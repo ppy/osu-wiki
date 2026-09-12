@@ -13,7 +13,7 @@ tags:
 
 #### Sudden Death
 
-![Sudden Death mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SD.png)
+![Sudden Death mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SD.png?1)
 
 *Miss and fail.*
 

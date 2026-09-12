@@ -13,7 +13,7 @@ tags:
 
 #### Double Time
 
-![Double Time mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DT.png)
+![Double Time mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DT.png?1)
 
 *Zoooooooooom...*
 

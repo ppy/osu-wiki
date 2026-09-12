@@ -12,7 +12,7 @@ tags:
 
 #### Hold Off
 
-![Hold Off 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HO.png)
+![Hold Off 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HO.png?1)
 
 *把面条都换成单点音符。*
 

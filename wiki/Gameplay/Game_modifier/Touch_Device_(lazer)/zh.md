@@ -15,7 +15,7 @@ tags:
 
 #### Touch Device
 
-![Touch Device 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TD.png)
+![Touch Device 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TD.png?1)
 
 *使用触摸屏游玩时会自动添加。*
 

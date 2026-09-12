@@ -13,7 +13,7 @@ tags:
 
 #### No Fail
 
-![Icono del mod No Fail](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NF.png)
+![Icono del mod No Fail](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NF.png?1)
 
 *No podrás perder, sin importar lo que hagas.*
 

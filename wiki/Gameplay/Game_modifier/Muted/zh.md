@@ -11,7 +11,7 @@ tags:
 
 #### Muted
 
-![Muted 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MU.png)
+![Muted 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MU.png?1)
 
 *没有音乐，你还能感知到节奏吗？*
 
