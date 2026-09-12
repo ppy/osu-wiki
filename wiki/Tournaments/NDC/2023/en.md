@@ -61,15 +61,15 @@ The National Dutch Championship 2023 was run by various community members.
 
 | Seed | Player | Global rank | Country rank |
 | :-: | :-- | :-: | :-: |
-| 1 | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) | #966 | #14 |
-| 2 | ::{ flag=NL }:: [Ohio](https://osu.ppy.sh/users/14919428) | #910 | #13 |
-| 3 | ::{ flag=NL }:: [Dolter](https://osu.ppy.sh/users/6920104) | #577 | #9 |
-| 4 | ::{ flag=NL }:: [TurtleSenpaii](https://osu.ppy.sh/users/12241010) | #225 | #5 |
+| 1 | ::{ flag=NL }:: [Burning John](https://osu.ppy.sh/users/6744123) | #966 | #14 |
+| 2 | ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) | #910 | #13 |
+| 3 | ::{ flag=NL }:: [PotJohn Nutella](https://osu.ppy.sh/users/6920104) | #577 | #9 |
+| 4 | ::{ flag=NL }:: [Tutel](https://osu.ppy.sh/users/12241010) | #225 | #5 |
 | 5 | ::{ flag=NL }:: [jackylam5](https://osu.ppy.sh/users/1540807) | #980 | #15 |
 | 6 | ::{ flag=NL }:: [Seleen](https://osu.ppy.sh/users/9362168) | #39478 | #475 |
 | 7 | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) | #427 | #7 |
-| 8 | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) | #61 | #1 |
-| 9 | ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731) | #886 | #11 |
+| 8 | ::{ flag=NL }:: [luciano](https://osu.ppy.sh/users/11604978) | #61 | #1 |
+| 9 | ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731) | #886 | #11 |
 | 10 | ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220) | #1988 | #31 |
 | 11 | ::{ flag=NL }:: [heikneuter](https://osu.ppy.sh/users/6765641) | #184 | #3 |
 | 12 | ::{ flag=NL }:: [xceller](https://osu.ppy.sh/users/12265149) | #436 | #8 |
@@ -83,7 +83,7 @@ The National Dutch Championship 2023 was run by various community members.
 | 20 | ::{ flag=NL }:: [oetluller](https://osu.ppy.sh/users/15218429) | #10589 | #128 |
 | 21 | ::{ flag=NL }:: [Lamp](https://osu.ppy.sh/users/15193535) | #6486 | #75 |
 | 22 | ::{ flag=NL }:: [Wittepoes](https://osu.ppy.sh/users/12984931) | #10104 | #122 |
-| 23 | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) | #7515 | #90 |
+| 23 | ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264) | #7515 | #90 |
 | 24 | ::{ flag=NL }:: [Kwal1976](https://osu.ppy.sh/users/18659783) | #10331 | #124 |
 | 25 | ::{ flag=NL }:: [Apollo685](https://osu.ppy.sh/users/14080825) | #7320 | #86 |
 | 26 | ::{ flag=NL }:: [Goose King](https://osu.ppy.sh/users/9387696) | #6487 | #75 |
@@ -97,10 +97,10 @@ The National Dutch Championship 2023 was run by various community members.
 | 34 | ::{ flag=NL }:: [OldEclipse](https://osu.ppy.sh/users/5174602) | #997 | #17 |
 | 35 | ::{ flag=NL }:: [MFC200](https://osu.ppy.sh/users/13141753) | #28649 | #351 |
 | 36 | ::{ flag=NL }:: [Sleppie](https://osu.ppy.sh/users/16072104) | #12756 | #155 |
-| 37 | ::{ flag=NL }:: [blexdark](https://osu.ppy.sh/users/12832395) | #18730 | #216 |
+| 37 | ::{ flag=NL }:: [Roestvrij Staal](https://osu.ppy.sh/users/12832395) | #18730 | #216 |
 | 38 | ::{ flag=NL }:: [TheDurpyOwl](https://osu.ppy.sh/users/11187258) | #9527 | #112 |
 | 39 | ::{ flag=NL }:: [Bittshrooms](https://osu.ppy.sh/users/9250996) | #60373 | #739 |
-| 40 | ::{ flag=NL }:: [ERA Rhythm](https://osu.ppy.sh/users/19161909) | #27254 | #337 |
+| 40 | ::{ flag=NL }:: [Arhythmix](https://osu.ppy.sh/users/19161909) | #27254 | #337 |
 | 41 | ::{ flag=NL }:: [- Ethereal -](https://osu.ppy.sh/users/9357932) | #35765 | #425 |
 | 42 | ::{ flag=NL }:: [Speed Kitty](https://osu.ppy.sh/users/15725070) | #47276 | #556 |
 | 43 | ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | #2640 | #37 |
@@ -116,8 +116,8 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NL }:: [Burning John](https://osu.ppy.sh/users/6744123) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=NL }:: [luciano](https://osu.ppy.sh/users/11604978) |
 
 ## Mappools
 

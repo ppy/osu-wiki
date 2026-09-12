@@ -43,6 +43,7 @@ The tournament and prize pool was sponsored by both the organisation and communi
 - ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155): €150
 - ::{ flag=NL }:: [wie ben jij](https://osu.ppy.sh/users/16322001): €100
 - ::{ flag=NL }:: [Astraea](https://osu.ppy.sh/users/17526061): €90
+- ::{ flag=NL }:: [Fubu](https://osu.ppy.sh/users/12719649): €90
 
 ![](img/badge.png "NDC 2025 winner badge")
 
@@ -75,20 +76,20 @@ The National Dutch Championship 2025 was run by various community members.
 
 | Seed | Player | Global rank | Country rank |
 | :-: | :-- | :-: | :-: |
-| 1 | ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155) | #2016 | #23 |
-| 2 | ::{ flag=NL }:: [flowerfields](https://osu.ppy.sh/users/11604978) | #102 | #1 |
-| 3 | ::{ flag=NL }:: [Manievat](https://osu.ppy.sh/users/6744123) | #1650 | #21 |
-| 4 | ::{ flag=NL }:: [draconia](https://osu.ppy.sh/users/20241831) | #3995 | #42 |
+| 1 | ::{ flag=NL }:: [John ethken](https://osu.ppy.sh/users/641155) | #2016 | #23 |
+| 2 | ::{ flag=NL }:: [luciano](https://osu.ppy.sh/users/11604978) | #102 | #1 |
+| 3 | ::{ flag=NL }:: [Burning John](https://osu.ppy.sh/users/6744123) | #1650 | #21 |
+| 4 | ::{ flag=NL }:: [dracoria](https://osu.ppy.sh/users/20241831) | #3995 | #42 |
 | 5 | ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) | #442 | #5 |
 | 6 | ::{ flag=NL }:: [Tutel](https://osu.ppy.sh/users/12241010) | #231 | #2 |
 | 7 | ::{ flag=NL }:: [PotjeNutella](https://osu.ppy.sh/users/10926707) | #9772 | #116 |
-| 8 | ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731) | #1623 | #19 |
-| 9 | ::{ flag=NL }:: [Dolter](https://osu.ppy.sh/users/6920104) | #1327 | #15 |
-| 10 | ::{ flag=NL }:: [808](https://osu.ppy.sh/users/15802126) | #531 | #7 |
+| 8 | ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731) | #1623 | #19 |
+| 9 | ::{ flag=NL }:: [PotJohn Nutella](https://osu.ppy.sh/users/6920104) | #1327 | #15 |
+| 10 | ::{ flag=NL }:: [Nederland](https://osu.ppy.sh/users/15802126) | #531 | #7 |
 | 11 | ::{ flag=NL }:: [Skyrovania](https://osu.ppy.sh/users/4696315) | #1383 | #16 |
 | 12 | ::{ flag=NL }:: [Goose King](https://osu.ppy.sh/users/9387696) | #9126 | #107 |
 | 13 | ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220) | #3188 | #34 |
-| 14 | ::{ flag=NL }:: [WeederBoss0](https://osu.ppy.sh/users/21574224) | #686 | #10 |
+| 14 | ::{ flag=NL }:: [Weeder](https://osu.ppy.sh/users/21574224) | #686 | #10 |
 | 15 | ::{ flag=NL }:: [Alphan](https://osu.ppy.sh/users/13298387) | #6264 | #65 |
 | 16 | ::{ flag=NL }:: [sofuraabu](https://osu.ppy.sh/users/7639453) | #8285 | #93 |
 | 17 | ::{ flag=NL }:: [Wittepoes](https://osu.ppy.sh/users/12984931) | #4823 | #49 |
@@ -100,15 +101,15 @@ The National Dutch Championship 2025 was run by various community members.
 | 23 | ::{ flag=NL }:: [TheCoolJfp](https://osu.ppy.sh/users/7041796) | #9765 | #115 |
 | 24 | ::{ flag=NL }:: [cozyin](https://osu.ppy.sh/users/12200180) | #9929 | #120 |
 | 25 | ::{ flag=NL }:: [permiss](https://osu.ppy.sh/users/8591929) | #2314 | #24 |
-| 26 | ::{ flag=NL }:: [Albert Epstein](https://osu.ppy.sh/users/13109448) | #6159 | #62 |
-| 27 | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) | #13033 | #151 |
+| 26 | ::{ flag=NL }:: [ysen](https://osu.ppy.sh/users/13109448) | #6159 | #62 |
+| 27 | ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264) | #13033 | #151 |
 | 28 | ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438) | #11847 | #138 |
 | 29 | ::{ flag=NL }:: [-Wyren-](https://osu.ppy.sh/users/12535083) | #17714 | #193 |
 | 30 | ::{ flag=NL }:: [GeKa_Z](https://osu.ppy.sh/users/13233381) | #9638 | #112 |
 | 31 | ::{ flag=NL }:: [HiuraMyBeloved](https://osu.ppy.sh/users/19412255) | #9439 | #110 |
 | 32 | ::{ flag=NL }:: [de boom 3 meter](https://osu.ppy.sh/users/3577226) | #2348 | #25 |
 | 33 | ::{ flag=NL }:: [NeonCircles](https://osu.ppy.sh/users/13702202) | #13352 | #154 |
-| 34 | ::{ flag=NL }:: [Noobicep192](https://osu.ppy.sh/users/19453671) | #7595 | #86 |
+| 34 | ::{ flag=NL }:: [olifanten](https://osu.ppy.sh/users/19453671) | #7595 | #86 |
 | 35 | ::{ flag=NL }:: [Stogdy](https://osu.ppy.sh/users/15120705) | #3672 | #38 |
 | 36 | ::{ flag=NL }:: [DuoSushi](https://osu.ppy.sh/users/9258670) | #28309 | #294 |
 | 37 | ::{ flag=NL }:: [gpvk](https://osu.ppy.sh/users/22600547) | #26270 | #278 |

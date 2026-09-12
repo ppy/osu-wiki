@@ -63,19 +63,19 @@ The National Dutch Championship 2022 was run by various community members.
 | Seed | Player | Global rank | Country rank |
 | :-: | :-- | :-: | :-: |
 | 1 | ::{ flag=NL }:: [Viveliam](https://osu.ppy.sh/users/3506793) | #52 | #1 |
-| 2 | ::{ flag=NL }:: [chillington 15](https://osu.ppy.sh/users/6744123) | #601 | #9 |
+| 2 | ::{ flag=NL }:: [Burning John](https://osu.ppy.sh/users/6744123) | #601 | #9 |
 | 3 | ::{ flag=NL }:: [Skyrovania](https://osu.ppy.sh/users/4696315) | #244 | #5 |
 | 4 | ::{ flag=NL }:: [Kushper](https://osu.ppy.sh/users/4832514) | #1591 | #22 |
 | 5 | ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403) | #524 | #7 |
-| 6 | ::{ flag=NL }:: [Dolter](https://osu.ppy.sh/users/6920104) | #702 | #10 |
+| 6 | ::{ flag=NL }:: [PotJohn Nutella](https://osu.ppy.sh/users/6920104) | #702 | #10 |
 | 7 | ::{ flag=NL }:: [xceller](https://osu.ppy.sh/users/12265149) | #752 | #11 |
 | 8 | ::{ flag=NL }:: [heikneuter](https://osu.ppy.sh/users/6765641) | #233 | #4 |
-| 9 | ::{ flag=NL }:: [Ohio](https://osu.ppy.sh/users/14919428) | #1104 | #14 |
+| 9 | ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428) | #1104 | #14 |
 | 10 | ::{ flag=NL }:: [Casalicious](https://osu.ppy.sh/users/12459807) | #4665 | #58 |
 | 11 | ::{ flag=NL }:: [wooz](https://osu.ppy.sh/users/6888206) | #1335 | #18 |
 | 12 | ::{ flag=NL }:: [wessel_osu2](https://osu.ppy.sh/users/4382220) | #2002 | #29 |
-| 13 | ::{ flag=NL }:: [LUCIANO](https://osu.ppy.sh/users/11604978) | #168 | #3 |
-| 14 | ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731) | #2296 | #33 |
+| 13 | ::{ flag=NL }:: [luciano](https://osu.ppy.sh/users/11604978) | #168 | #3 |
+| 14 | ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731) | #2296 | #33 |
 | 15 | ::{ flag=NL }:: [oetluller](https://osu.ppy.sh/users/15218429) | #13056 | #154 |
 | 16 | ::{ flag=NL }:: [Synchrostar](https://osu.ppy.sh/users/419705) | #5869 | #76 |
 | 17 | ::{ flag=NL }:: [sofuraabu](https://osu.ppy.sh/users/7639453) | #6297 | #81 |
@@ -94,12 +94,12 @@ The National Dutch Championship 2022 was run by various community members.
 | 30 | ::{ flag=NL }:: [OldEclipse](https://osu.ppy.sh/users/5174602) | #4330 | #54 |
 | 31 | ::{ flag=NL }:: [TheDurpyOwl](https://osu.ppy.sh/users/11187258) | #7518 | #95 |
 | 32 | ::{ flag=NL }:: [UnveiledGolem](https://osu.ppy.sh/users/14090438) | #30867 | #404 |
-| 33 | ::{ flag=NL }:: [Kut](https://osu.ppy.sh/users/3859899) | #14821 | #186 |
+| 33 | ::{ flag=NL }:: [Trainer Bad](https://osu.ppy.sh/users/3859899) | #14821 | #186 |
 | 34 | ::{ flag=NL }:: [Finny666](https://osu.ppy.sh/users/17271135) | #77607 | #1000 |
 | 35 | ::{ flag=NL }:: [Woebel](https://osu.ppy.sh/users/8454542) | #61120 | #792 |
 | 36 | ::{ flag=NL }:: [AintGotNoAim](https://osu.ppy.sh/users/18998391) | #137452 | #1656 |
 | 37 | ::{ flag=NL }:: [przemo52](https://osu.ppy.sh/users/11170330) | #64337 | #835 |
-| 38 | ::{ flag=NL }:: [Dutchi](https://osu.ppy.sh/users/15629640) | #70267 | #910 |
+| 38 | ::{ flag=NL }:: [HappyHippo1234](https://osu.ppy.sh/users/15629640) | #70267 | #910 |
 | 39 | ::{ flag=NL }:: [TheMad_N](https://osu.ppy.sh/users/10523988) | #81868 | #1046 |
 | 40 | ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722) | #124124 | #1520 |
 | 41 | ::{ flag=NL }:: [Maarten](https://osu.ppy.sh/users/24414822) | #205802 | #2425 |
