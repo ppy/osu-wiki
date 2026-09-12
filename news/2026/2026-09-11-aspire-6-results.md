@@ -53,9 +53,9 @@ Unfortunately due to the way the sliders are constructed, this map is rather dif
     </video>
 </div>
 
-Pushing the boundary in a rather unorthodox way, *19ZZ* is mapped in a way where all of its hit object have negative timestamps, opening the doors for some very interesting effects such as auto-played notes.
+Pushing the boundary in a rather unorthodox way, this map of *19ZZ*'s primary goal was to leave you speechless.
 
-Mappers [add222](https://osu.ppy.sh/users/14261013) and [\_necroplasma](https://osu.ppy.sh/users/10805852) used auto-played notes alongside sliders distorted in every way possible, slider tick art, and disjointed combo numbers.
+Mappers [add222](https://osu.ppy.sh/users/14261013) and [\_necroplasma](https://osu.ppy.sh/users/10805852) used all techniques at their disposal including sliders distorted in every way possible, slider tick art, auto-played notes, and disjointed combo numbers, all for a showcase that paints the entire screen in sliders.
 
 #### [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/2608581#osu/5839941)
 
@@ -81,7 +81,6 @@ This map replicates some of the most popular mods from the osu!(lazer) client in
 | [PukPow](https://osu.ppy.sh/users/16407679) & [Zuika](https://osu.ppy.sh/users/10222009) | [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/2608581#osu/5839941) | 90 |
 | [LunaUwU](https://osu.ppy.sh/users/39084830) | [Mili - world.execute(me);](https://osu.ppy.sh/beatmapsets/2608618#osu/5840004) | 90 |
 | [Akbo](https://osu.ppy.sh/users/7627061) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608565#osu/5839917) | 80 |
-| [WolfStarArtOSU](https://osu.ppy.sh/users/34821954) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608565#osu/5839917) | 80 |
 | [ThunderBirdo](https://osu.ppy.sh/users/22228239) & [bluirre](https://osu.ppy.sh/users/22241162) | [LeaF - Doppelganger](https://osu.ppy.sh/beatmapsets/2608568#osu/5839920) | 71 |
 | [UTAU](https://osu.ppy.sh/users/13859320) | [LeaF - Aleph-0](https://osu.ppy.sh/beatmapsets/2608557#osu/5839908) | 70 |
 | [amongusrtx30080](https://osu.ppy.sh/users/27476898) | [Frums - Mdrqnxtagon](https://osu.ppy.sh/beatmapsets/2608585#osu/5839947) | 66 |
@@ -110,7 +109,6 @@ This map replicates some of the most popular mods from the osu!(lazer) client in
 | [TheShadowOfDark](https://osu.ppy.sh/users/5795337) & [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | [Camellia - (The) Red * Room](https://osu.ppy.sh/beatmapsets/2608555#osu/5839905) | 124 |
 | [add222](https://osu.ppy.sh/users/14261013) & [_necroplasma](https://osu.ppy.sh/users/10805852) | [Frums (unknown "lambda") - 19ZZ](https://osu.ppy.sh/beatmapsets/2608542#osu/5839885) | 124 |
 | [Akbo](https://osu.ppy.sh/users/7627061) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608565#osu/5839917) | 98 |
-| [WolfStarArtOSU](https://osu.ppy.sh/users/34821954) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608565#osu/5839917) | 98 |
 | [ItzShadowCraft](https://osu.ppy.sh/users/27830521) | [Dimrain47 - Duality](https://osu.ppy.sh/beatmapsets/2608572#osu/5839925) | 72 |
 | [LunaUwU](https://osu.ppy.sh/users/39084830) | [Mili - world.execute(me);](https://osu.ppy.sh/beatmapsets/2608618#osu/5840004) | 68 |
 | [ThunderBirdo](https://osu.ppy.sh/users/22228239) & [bluirre](https://osu.ppy.sh/users/22241162) | [LeaF - Doppelganger](https://osu.ppy.sh/beatmapsets/2608568#osu/5839920) | 63 |
@@ -205,7 +203,6 @@ Beyond that, the map also featured unorthodox sliders while still maintaining a 
 | :-- | :-- | --: |
 | [Natsuko](https://osu.ppy.sh/users/8266817) & [Pitsuwa](https://osu.ppy.sh/users/8417565) | **[Aiobahn feat. KOTOKO - Internet Yamero](https://osu.ppy.sh/beatmapsets/2608394#fruits/5839492)** | 105 |
 | [Tomy](https://osu.ppy.sh/users/14889628) & [Tenexxt](https://osu.ppy.sh/users/34064854) | [antiPLUR - Clockwork Spooks](https://osu.ppy.sh/beatmapsets/2608391#fruits/5839488) | 90 |
-| [Akbo](https://osu.ppy.sh/users/7627061) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608393#fruits/5839490) | 31 |
 | [WolfStarArtOSU](https://osu.ppy.sh/users/34821954) | [Frums - Credits](https://osu.ppy.sh/beatmapsets/2608393#fruits/5839490) | 31 |
 
 ### osu!mania
@@ -251,6 +248,8 @@ Aspire will be back in 2028. The plan is to host Aspire on alternating years wit
 The format is also likely to change for next Aspire. While there were certainly successes this year, there are still some sour points to be improved upon. Aspire shall continue to adapt, and your feedback will be key in its success!
 
 We have put together a [survey to gather your thoughts on Aspire](https://docs.google.com/forms/d/e/1FAIpQLSeV45u_x1Ldywt4zh0Rl5P3IB-8iqLKbK8pS87kQed2AgpaPg/viewform), which should take just a few minutes to complete. Please let us know your thoughts!
+
+[![Click here to open the Aspire 6 Feedback Survey](/wiki/shared/news/2026-09-11-aspire-6-results/survey-banner.png)](https://docs.google.com/forms/d/e/1FAIpQLSeV45u_x1Ldywt4zh0Rl5P3IB-8iqLKbK8pS87kQed2AgpaPg/viewform)
 
 Despite six iterations of Aspire, we are still seeing exciting new things from the osu! editor. We still have no idea how limitless the possibilities are, and the entries this year have shown us proof of that. We must refine the format in order to bring out the best that the ranking criteria cannot offer.
 
