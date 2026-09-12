@@ -45,7 +45,7 @@ Try out a couple slow-mo maps that were recently Ranked:
 
 ### The Promise, The Lie - The Lie
 
-Or try [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2580472) produced by [the song's creator](https://osu.ppy.sh/beatmapsets/2580472)!
+Or try [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2580472) produced by [the song's creator](https://osu.ppy.sh/users/7792315)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/566/The%20Promise%2C%20The%20Lie/The%20Promise%2C%20The%20Lie%20-%20The%20Lie.mp3">
