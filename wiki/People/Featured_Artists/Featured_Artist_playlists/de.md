@@ -264,7 +264,7 @@ Für vollständige Informationen zu den Playlists, siehe die [Auflistung der Meh
 ### September 2022
 
 - Die 8 besten Beatmaps aus dem [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest) mit separaten Preisen
-- Nur für den Spielmodus osu! gültig
+- Nur im Spielmodus osu! verfügbar
 
 ### März 2023
 
@@ -274,51 +274,51 @@ Für vollständige Informationen zu den Playlists, siehe die [Auflistung der Meh
 ### Mai 2023
 
 - 6 Beatmaps aus den Featured Artist-Veröffentlichungen von Mai 2023, die von der [Mappers' Guild](/wiki/Community/Mappers_Guild) erstellt wurden
-- Nur für die Spielmodi osu! und osu!mania gültig
-- Die [Preise wurden verliehen](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek#featured-artist-playlists) entsprechend der [kumulierten Rangliste](#kumulierte-rangliste) mit Abwandlungen aufgrund Änderungen am Punktesystem, die in der Ankündigung der Ergebnisse erklärt sind
+- Nur in den Spielmodi osu! und osu!mania verfügbar
+- [Preise wurden verliehen](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek#featured-artist-playlists) entsprechend der [kumulierten Rangliste](#kumulierte-rangliste) mit Abwandlungen aufgrund Änderungen am Punktesystem, die in der Ankündigung der Ergebnisse erklärt sind
 
 ### Juni/Juli 2023
 
 - 6 Beatmaps aus den Featured Artist-Veröffentlichungen von Juni und Juli 2023, die von der [Mappers' Guild](/wiki/Community/Mappers_Guild) erstellt wurden
 - Alle Spielmodi
-- Die [Preise wurden verliehen](https://osu.ppy.sh/home/news/2023-08-19-new-featured-artist-soowamisu#featured-artist-playlists) entsprechend der [kumulierten Rangliste](#kumulierte-rangliste)
+- [Preise wurden verliehen](https://osu.ppy.sh/home/news/2023-08-19-new-featured-artist-soowamisu#featured-artist-playlists) entsprechend der [kumulierten Rangliste](#kumulierte-rangliste)
 
 ### August 2023
 
 - 6 Beatmaps aus den Featured Artist-Veröffentlichungen von August 2023, die von der [Mappers' Guild](/wiki/Community/Mappers_Guild) erstellt wurden
-- Nur für die Spielmodi osu!, osu!taiko und osu!mania gültig
-- Die [Preise wurden verliehen](https://osu.ppy.sh/home/news/2023-10-07-new-featured-artist-kou#featured-artist-playlists) entsprechend der [kumulierten Rangliste](#kumulierte-rangliste)
+- Nur in den Spielmodi osu!, osu!taiko und osu!mania verfügbar
+- [Preise wurden verliehen](https://osu.ppy.sh/home/news/2023-10-07-new-featured-artist-kou#featured-artist-playlists) entsprechend der [kumulierten Rangliste](#kumulierte-rangliste)
 
 ### September/Oktober 2023
 
 - 6 Beatmaps aus den Featured Artist-Veröffentlichungen von September und Oktober 2023, die von der [Mappers' Guild](/wiki/Community/Mappers_Guild) erstellt wurden
 - Alle Spielmodi
-- Die Preise wurden verliehen entsprechend der [kumulierten Rangliste](#kumulierte-rangliste)
+- Preise wurden entsprechend der [kumulierten Rangliste](#kumulierte-rangliste) verliehen
 
 ### Dezember 2024
 
 - Die 5 besten Beatmaps aus dem [Monthly Beatmapping Contest von Dezember 2024](https://osu.ppy.sh/home/news/2025-02-17-monthly-beatmapping-contest-february-2025)
-- Nur für die Spielmodi osu! und osu!mania gültig
-- Die Preise wurden verliehen entsprechend der [kumulierten Rangliste](#kumulierte-rangliste)
+- Nur in den Spielmodi osu! und osu!mania verfügbar
+- Preise wurden entsprechend der [kumulierten Rangliste](#kumulierte-rangliste) verliehen
 
 ### Januar/Februar 2025
 
 - Die 5 besten osu!catch- und osu!mania-Beatmaps aus [den jeweiligen Monthly Beatmapping Contests](https://osu.ppy.sh/home/news/2025-04-10-monthly-beatmapping-contest-april-2025)
-- Nur für die Spielmodi osu!catch und osu!mania gültig
-- Die Preise wurden verliehen entsprechend der [kumulierten Rangliste](#kumulierte-rangliste)
+- Nur in den Spielmodi osu!catch und osu!mania verfügbar
+- Preise wurden entsprechend der [kumulierten Rangliste](#kumulierte-rangliste) verliehen
 
 ### Mai 2025
 
 - Die 5 besten osu!- und osu!taiko-Beatmaps aus den jeweiligen Monthly Beatmapping Contests ([osu!](https://osu.ppy.sh/home/news/2025-02-17-monthly-beatmapping-contest-february-2025), [osu!taiko](https://osu.ppy.sh/home/news/2025-01-23-monthly-beatmapping-contest-january-2025))
-- Nur für die Spielmodi osu! und osu!taiko gültig
-- Die Preise wurden verliehen entsprechend der [kumulierten Rangliste](#kumulierte-rangliste)
+- Nur in den Spielmodi osu! und osu!taiko verfügbar
+- Preise wurden entsprechend der [kumulierten Rangliste](#kumulierte-rangliste) verliehen
 
 ### Juni 2025
 
 - Die 5 besten osu!mania-Beatmaps aus dem [Monthly Beatmapping Contest von April 2025](https://osu.ppy.sh/home/news/2025-04-10-monthly-beatmapping-contest-april-2025)
-- Nur für den Spielmodus osu!mania gültig
-- Die Preise wurden verliehen entsprechend der [kumulierten Rangliste](#kumulierte-rangliste)
+- Nur im Spielmodus osu!mania verfügbar
+- Preise wurden entsprechend der [kumulierten Rangliste](#kumulierte-rangliste) verliehen
 
 ## Anmerkungen
 
-[^previous-prize]: Dieser Nutzer erhield das Profilabzeichen vor der Einführung der kumulierten Rangliste im Juni 2023
+[^previous-prize]: Dieser Nutzer erhielt das Profilabzeichen vor der Einführung der kumulierten Rangliste im Juni 2023
