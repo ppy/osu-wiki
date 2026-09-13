@@ -147,6 +147,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 
 ### Semifinals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1QlON17szXf5_JekXZfw8BLVLBBR6eEA0pA2fCp3TYNs?rm=minimal).
+
 Saturday, 12 September 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
