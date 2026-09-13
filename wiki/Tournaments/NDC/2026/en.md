@@ -190,42 +190,42 @@ Monday, 7 September 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **luciano** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Joeri | [#1](https://osu.ppy.sh/mp/121821403) |
+| **luciano** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Joeri | [#1](https://osu.ppy.sh/community/matches/121821403) |
 
 Sunday, 6 September 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **olifanten** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: ghous | [#1](https://osu.ppy.sh/mp/121817181) |
-| **PotjeNutella** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: TheCoolJfp | [#1](https://osu.ppy.sh/mp/121816802) |
-| **Weeder** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: Eriror | [#1](https://osu.ppy.sh/mp/121816475) |
-| **cozyin** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: walcart | [#1](https://osu.ppy.sh/mp/121816373) |
-| **UC2** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Senyagi | [#1](https://osu.ppy.sh/mp/121815636) |
-| Rozeolifant13 ::{ flag=NL }:: | 2 | **5** | ::{ flag=NL }:: **Pisslow** | [#1](https://osu.ppy.sh/mp/121815127) |
-| **Heavymetal4life** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Wittepoes | [#1](https://osu.ppy.sh/mp/121814681) |
-| **wessel_osu2** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: wooz | [#1](https://osu.ppy.sh/mp/121814350) |
+| **olifanten** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: ghous | [#1](https://osu.ppy.sh/community/matches/121817181) |
+| **PotjeNutella** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: TheCoolJfp | [#1](https://osu.ppy.sh/community/matches/121816802) |
+| **Weeder** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: Eriror | [#1](https://osu.ppy.sh/community/matches/121816475) |
+| **cozyin** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: walcart | [#1](https://osu.ppy.sh/community/matches/121816373) |
+| **UC2** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Senyagi | [#1](https://osu.ppy.sh/community/matches/121815636) |
+| Rozeolifant13 ::{ flag=NL }:: | 2 | **5** | ::{ flag=NL }:: **Pisslow** | [#1](https://osu.ppy.sh/community/matches/121815127) |
+| **Heavymetal4life** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Wittepoes | [#1](https://osu.ppy.sh/community/matches/121814681) |
+| **wessel_osu2** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: wooz | [#1](https://osu.ppy.sh/community/matches/121814350) |
 
 Saturday, 5 September 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Goose King** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: GeKa_Z | [#1](https://osu.ppy.sh/mp/121811017) |
-| **Burning John** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Kyqn | [#1](https://osu.ppy.sh/mp/121810692) |
-| **Alphan** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: -Wyren- | [#1](https://osu.ppy.sh/mp/121810355) |
-| **dracoria** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Cootiezi | [#1](https://osu.ppy.sh/mp/121809994) |
+| **Goose King** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: GeKa_Z | [#1](https://osu.ppy.sh/community/matches/121811017) |
+| **Burning John** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Kyqn | [#1](https://osu.ppy.sh/community/matches/121810692) |
+| **Alphan** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: -Wyren- | [#1](https://osu.ppy.sh/community/matches/121810355) |
+| **dracoria** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Cootiezi | [#1](https://osu.ppy.sh/community/matches/121809994) |
 
 Friday, 4 September 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Aheo** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: Synchrostar | [#1](https://osu.ppy.sh/mp/121805062) |
+| **Aheo** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: Synchrostar | [#1](https://osu.ppy.sh/community/matches/121805062) |
 
 Thursday, 3 September 2026:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **John ethken** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: fuwmii | [#1](https://osu.ppy.sh/mp/121799799) |
-| **PotJohn Nutella** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: NeonCircles | [#1](https://osu.ppy.sh/mp/121798960) |
+| **John ethken** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: fuwmii | [#1](https://osu.ppy.sh/community/matches/121799799) |
+| **PotJohn Nutella** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: NeonCircles | [#1](https://osu.ppy.sh/community/matches/121798960) |
 
 ## Ruleset
 
