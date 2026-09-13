@@ -40,7 +40,7 @@ Matches will be streamed on the [@osucatchID](https://www.twitch.tv/osucatchid) 
 
 ## How do I register?
 
-[![](/wiki/shared/news/2026-09-16-catch-indonesia-cup-open-2026-registrations-now-open/register-here.png)](https://wybin.xyz/cico2026)
+[![](/wiki/shared/news/2026-09-16-catch-indonesia-cup-open-2026-registrations-now-open/registerhere.png)](https://wybin.xyz/cico2026)
 
 The deadline to register for this tournament is 30 September 2026 (23:59 UTC).
 
