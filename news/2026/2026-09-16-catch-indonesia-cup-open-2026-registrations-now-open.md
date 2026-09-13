@@ -7,7 +7,7 @@ series: community_tournaments
 
 What started as a humble Indonesian osu!catch tournament has grown all across Asia across the last few years. Now, it's ready for the world.
 
-![](/wiki/shared/news/2026-09-16-catch-indonesia-cup-open-2026-registrations-now-open/banner.jpg)
+![](/wiki/shared/news/2026-09-16-catch-indonesia-cup-open-2026-registrations-now-open/banner.png)
 
 ## What is it?
 
