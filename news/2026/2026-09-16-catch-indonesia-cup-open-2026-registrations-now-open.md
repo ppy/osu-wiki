@@ -11,7 +11,7 @@ What started as a humble Indonesian osu!catch tournament has grown all across As
 
 ## What is it?
 
-[Catch Indonesia Cup Open 2026](https://osu.ppy.sh/community/forums/topics/2241677), or CICO 2026 for short, is an international 1v1 open-rank osu!catch tournament that aims to celebrate the osu!catch community as a whole. As the name suggests, the tournament kicked off as a [grassroots competition for Indonesian players](https://osu.ppy.sh/wiki/en/Tournaments/CIC/2012) before evolving into a continental tournament and eventually becoming what is effectively one of — if not the — biggest 1v1 tournament in the osu!catch scene right now.
+[Catch Indonesia Cup Open 2026](https://osu.ppy.sh/community/forums/topics/2241677), or CICO 2026 for short, is an international 1v1 open-rank osu!catch tournament that aims to celebrate the osu!catch community as a whole. As the name suggests, the tournament kicked off as a [grassroots competition for Indonesian players](/wiki/Tournaments/CIC/2012) before evolving into a continental tournament and eventually becoming what is effectively one of — if not the — biggest 1v1 tournament in the osu!catch scene right now.
 
 ## What's new?
 
@@ -21,7 +21,7 @@ And just like last year, CICO 2026 will also be packed and loaded with **10+** b
 
 https://www.youtube.com/playlist?list=PL7WjLkQAh7tFDo605CsVHnttzAzYX4lNS I FORGOT HOW TO EMBED YOUTUBE PLAYLIST HELP ;~;
 
-Finally, following the footsteps of this year's [osu!catch World Cup](https://osu.ppy.sh/wiki/en/Tournaments/CWC/2026), CICO 2026 will not feature any convert beatmaps for the first time (i.e. all the beatmaps in the mappool will be osu!catch-specific).
+Finally, following the footsteps of this year's [osu!catch World Cup](/wiki/Tournaments/CWC/2026), CICO 2026 will not feature any convert beatmaps for the first time (i.e. all the beatmaps in the mappool will be osu!catch-specific).
 
 ## Tournament schedule
 
@@ -49,6 +49,6 @@ To be eligible to participate, you must:
 - Be a member of the [CICO 2026 Discord server](https://discord.com/invite/SdT9dvW).
 - Not have violated the [osu! community rules](/wiki/Rules) within the past 12 months.
 
-For more information, don't hesitate to [check out the tournament's wiki](https://osu.ppy.sh/wiki/en/Tournaments/CIC/Open_2026) or contact one of the hosts directly. We hope to see you around!
+For more information, don't hesitate to [check out the tournament's wiki](/wiki/Tournaments/CIC/Open_2026) or contact one of the hosts directly. We hope to see you around!
 
 —Intel21, Ekseff, Niva, Daletto
