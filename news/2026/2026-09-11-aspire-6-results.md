@@ -23,7 +23,7 @@ For those who missed all the fun from the live showcase, we recommend checking o
 
 ### osu!
 
-![osu! podium](/wiki/shared/news/2026-09-11-aspire-6-results/podium-osu.jpg)
+![osu! podium](/wiki/shared/news/2026-09-11-aspire-6-results/podium-osu.jpg?1)
 
 #### [Camellia - FM Synthesis Experiment](https://osu.ppy.sh/beatmapsets/2608578#osu/5839931)
 
@@ -127,7 +127,7 @@ This map replicates some of the most popular mods from the osu!(lazer) client in
 
 ### Honourable mentions
 
-![Honorable mentions](/wiki/shared/news/2026-09-11-aspire-6-results/podium-honourable-mentions.jpg)
+![Honorable mentions](/wiki/shared/news/2026-09-11-aspire-6-results/podium-honourable-mentions.jpg?1)
 
 #### [THE ENTIRE EARTH - conic](https://osu.ppy.sh/beatmapsets/2608562#osu/5839914)
 
