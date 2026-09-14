@@ -84,7 +84,7 @@ In osu!taiko, osu!catch und osu!mania hat Easy den Punktemultiplikator `0,50x`.
 
 ## Referenzen
 
-[^multiplier]: [`OsuScoreMultiplierCalculatorV2` in osu!(lazer)'s Quellcode](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L112-L119)
+[^multiplier]: [`OsuScoreMultiplierCalculatorV2` im Quellcode von osu!(lazer)](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs#L112-L119)
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
