@@ -27,12 +27,12 @@ Standardmäßig ist der Mod-Multiplikator `1,00x`, aber manche Mods verringern o
 
 Werden mehrere Mods gleichzeitig verwendet, ist der Mod-Multiplikator in den meisten Fällen einfach das Produkt der Multiplikatoren aller aktivierten Mods. Beispielsweise haben [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) und [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) bei gemeinsamer Verwendung einen Mod-Multiplikator von `1,04x * 1,09x = 1,1336x` (in [osu!](/wiki/Game_mode/osu!)). Es gibt jedoch einige Ausnahmen, beispielsweise haben [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) (mit Multiplikator `1,02x`) und [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) (mit Multiplikator `1,24x`) gemeinsam einen Mod-Multiplikator von `1,24x` (statt `1,02x * 1,24x = 1,2648x`).
 
-Der Multiplikator einer Mod kann auch von ihrer Personalisierung abhängen. Detaillierte Erklärungen zur Berechnung der Mod-Multiplikatoren befinden sich in den [Artikeln der jeweiligen Mods](/wiki/Gameplay/Game_modifier_(lazer)#liste-der-mods) oder in osu!(lazer)'s Quellcode:
+Der Multiplikator einer Mod kann auch von ihrer Personalisierung abhängen. Detaillierte Erklärungen zur Berechnung der Mod-Multiplikatoren befinden sich in den [Artikeln der jeweiligen Mods](/wiki/Gameplay/Game_modifier_(lazer)#liste-der-mods) oder im Quellcode von osu!(lazer):
 
-- [`OsuScoreMultiplierCalculatorV2`][OsuScoreMultiplierCalculatorV2] in osu!(lazer)'s Quellcode
-- [`TaikoScoreMultiplierCalculator`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Taiko/Scoring/TaikoScoreMultiplierCalculator.cs) in osu!(lazer)s Quellcode
-- [`CatchScoreMultiplierCalculator`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Catch/Scoring/CatchScoreMultiplierCalculator.cs) in osu!(lazer)s Quellcode
-- [`ManiaScoreMultiplierCalculator`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Mania/Scoring/ManiaScoreMultiplierCalculator.cs) in osu!(lazer)s Quellcode
+- [`OsuScoreMultiplierCalculatorV2`][OsuScoreMultiplierCalculatorV2] im Quellcode von osu!(lazer)
+- [`TaikoScoreMultiplierCalculator`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Taiko/Scoring/TaikoScoreMultiplierCalculator.cs) im Quellcode von osu!(lazer)
+- [`CatchScoreMultiplierCalculator`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Catch/Scoring/CatchScoreMultiplierCalculator.cs) im Quellcode von osu!(lazer)
+- [`ManiaScoreMultiplierCalculator`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Mania/Scoring/ManiaScoreMultiplierCalculator.cs) im Quellcode von osu!(lazer)
 
 ## Geschichte
 
@@ -44,7 +44,7 @@ Anfangs verwendete osu!(lazer) die gleichen konstanten Mod-Multiplikatoren wie o
 
 ### Einführung progressiver Multiplikatoren für Mods zur Anpassung der Geschwindigkeit
 
-[Am 19. April 2023](https://osu.ppy.sh/home/changelog/lazer/2023.419.0) wurden die Punktemultiplikatoren einiger zuvor angepasster Mods erneut verändert.[^linear-rate-multipliers] Die Multiplikatoren von [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) und [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)) skalierten nun linear von `1,00x` bis `1,20x` in 0,1er-Schritten, während die Multiplikatoren von [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) und [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore) linear von `0,50x` bis `0,90x` in 0,1er-Schritten skalierten. In einem Update [am 18. Dezember 2023](https://osu.ppy.sh/home/changelog/lazer/2023.1218.0) wurden diese weiter angepasst, um stattdessen zwischen `0,10x` to `0,50x` zu liegen.[^ht-dc-multiplier]
+[Am 19. April 2023](https://osu.ppy.sh/home/changelog/lazer/2023.419.0) wurden die Punktemultiplikatoren einiger zuvor angepasster Mods erneut verändert.[^linear-rate-multipliers] Die Multiplikatoren von [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) und [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)) skalierten nun linear von `1,00x` bis `1,20x` in 0,1er-Schritten, während die Multiplikatoren von [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) und [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore) linear von `0,50x` bis `0,90x` in 0,1er-Schritten skalierten. In einem Update [am 18. Dezember 2023](https://osu.ppy.sh/home/changelog/lazer/2023.1218.0) wurden diese weiter angepasst, um stattdessen zwischen `0,10x` und `0,50x` zu liegen.[^ht-dc-multiplier]
 
 Konkret sind die Mod-Multiplikatoren der Mods zur Anpassung der Geschwindigkeit, die bis zur [Überarbeitung der Multiplikatoren](#überarbeitung-der-mod-multiplikatoren) im Jahr 2026 verwendet wurden, in der folgenden Tabelle zusammengefasst:
 
@@ -81,7 +81,7 @@ Nach gründlicher Auswertung der Umfrageergebnisse wurde [am 20. Juni 2026](http
 
 In osu! waren durch das Update noch viele weitere Mods abgedeckt, beispielsweise wurden die Multiplikatoren der geschwindkeitsändernden Mods erneut angepasst, und auch einige Mods aus der [Kategorie `Spaß`](/wiki/Gameplay/Game_modifier_(lazer)#spaß) wurden überarbeitet. Alle Änderungen sind im [Newsbeitrag](https://osu.ppy.sh/home/news/2026-06-03-mod-multipliers-survey-results) erklärt, der am 3. Juni 2026 veröffentlicht wurde. Im zugehörigen [lazer Update-Video](https://www.youtube.com/watch?v=lmoad0MZZdg&t=114s) wurden die wichtigsten Änderungen ebenfalls angesprochen.
 
-Die genaue Implementierug der neuen Mod-Multiplikatoren befindet sich in [`OsuScoreMultiplierCalculatorV2`][OsuScoreMultiplierCalculatorV2] in osu!(lazer)'s Quellcode. Die vorherigen Multiplikatoren sind weiterhin in [`OsuScoreMultiplierCalculatorV1`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV1.cs) verfügbar.
+Die genaue Implementierug der neuen Mod-Multiplikatoren befindet sich in [`OsuScoreMultiplierCalculatorV2`][OsuScoreMultiplierCalculatorV2] im Quellcode von osu!(lazer). Die vorherigen Multiplikatoren sind weiterhin in [`OsuScoreMultiplierCalculatorV1`](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV1.cs) verfügbar.
 
 ## Trivia
 
@@ -93,7 +93,7 @@ Die genaue Implementierug der neuen Mod-Multiplikatoren befindet sich in [`OsuSc
 
 [^mania-note]: In [osu!mania](/wiki/Game_mode/osu!mania) erhöhen Spielmodifikationen niemals den Mod-Multiplator auf Werte größer als `1,00x`, damit die maximale Punktzahl von 1.000.000 nicht überschritten wird.
 
-[^mods-2017]: [`Mod` in osu!(lazer)'s Quellcode](https://github.com/ppy/osu/blob/0a58fc62db858db21bf8459e7af990ac6543ef27/osu.Game/Modes/Mod.cs)
+[^mods-2017]: [`Mod` im Quellcode von osu!(lazer)](https://github.com/ppy/osu/blob/0a58fc62db858db21bf8459e7af990ac6543ef27/osu.Game/Modes/Mod.cs)
 [^nerf-increase-multipliers]: [Pull-Request "Remove score multiplier on difficulty-increasing mods with customised settings #19208" von frenzibyte (18.07.2022) in ppy/osu](https://github.com/ppy/osu/pull/19208)
 [^linear-rate-multipliers]: [Pull-Request "Add progressive DT/HT mod multipliers #23177" von smoogipoo (10.04.2023) in ppy/osu](https://github.com/ppy/osu/pull/23177)
 [^ht-dc-multiplier]: [Pull-Request "Adjust some mod multipliers for initial leaderboard sanity #25744" von peppy (13.12.2023) in ppy/osu](https://github.com/ppy/osu/pull/25744/files#diff-0e7bca309dc46fc25dd1b43e704b028f01d6bee9b3ae68401e6e2b3726931c8e)
@@ -102,7 +102,7 @@ Die genaue Implementierug der neuen Mod-Multiplikatoren befindet sich in [`OsuSc
 [^multiplier-issues-2]: [GitHub-Diskussion von osuKingling (17.08.2024) "Current issues with osu!lazer mod multipliers #29486"](https://github.com/ppy/osu/discussions/29486)
 [^multiplier-rework]: [Pull-Request "Implement new score multipliers #37967" von tsunyoku (02.06.2026) in ppy/osu](https://github.com/ppy/osu/pull/37967)
 
-[^formatting]: [`ModUtils` in osu!(lazer)'s Quellcode](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game/Utils/ModUtils.cs#L272-L281)
+[^formatting]: [`ModUtils` im Quellcode von osu!(lazer)](https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game/Utils/ModUtils.cs#L272-L281)
 
 [OsuScoreMultiplierCalculatorV2]: https://github.com/ppy/osu/blob/d9c73e12adff2feaae4a3e158d36fe5883faf6ca/osu.Game.Rulesets.Osu/Scoring/OsuScoreMultiplierCalculatorV2.cs
 [osu!]: /wiki/shared/mode/osu.png "osu!"
