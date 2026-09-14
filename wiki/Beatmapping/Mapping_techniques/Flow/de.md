@@ -9,11 +9,11 @@ tags:
 
 # Flow
 
-Der Begriff **Flow** (zu Dt. *fließen*) ist ein Mapping-Konzept, das natürliche und intuitive Bewegungsmuster des Spielcursors während des Spiels beschreibt. Flow, oder das Fehlen dessen, bezieht sich auf den [osu!-Spielmodus](/wiki/Game_mode/osu!) mit seinem zweidimensionalen Spielfeld. Durch die große Vielfalt an [Patterns](/wiki/Beatmap/Pattern) und Sliderformen, die in osu!-Beatmaps möglich sind, können Mapper einen Spielcursor auf verschiedene Weise über das Spielfeld führen, was unterschiedliche Effekte auf das Spielerlebnis hat.
+**Flow** (zu Dt. *fließen*) ist ein Mapping-Konzept, das natürliche und intuitive Bewegungsmuster des Spielcursors während des Spiels beschreibt. Flow, oder das Fehlen dessen, bezieht sich auf den [osu!-Spielmodus](/wiki/Game_mode/osu!) mit seinem zweidimensionalen Spielfeld. Durch die große Vielfalt an [Patterns](/wiki/Beatmap/Pattern) und Sliderformen, die in osu!-Beatmaps möglich sind, können Mapper einen Spielcursor auf verschiedene Weise über das Spielfeld führen, was unterschiedliche Effekte auf das Spielerlebnis hat.
 
 Flow wird als **subjektives** Thema erachtet und hängt oftmals von den persönlichen Vorlieben ab, da Mapper und Spieler Bewegungen anders gestalten bzw. wahrnehmen. Einige Aspekte des Flows können sich je nach [Eingabegerät](/wiki/Gameplay/Input_device), wie beispielsweise [Grafiktablett](/wiki/Gameplay/Input_device/Graphics_tablet) oder [Maus](/wiki/Gameplay/Input_device/Mouse), oder der Erfahrung sowie dem Talent des Spielers in unterschiedlichem Maße auf das Gameplay auswirken.
 
-Das Gegenteil von Flow wird [Antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) genannt, das nicht intuitive oder unnatürliche Bewegungsmuster beschreibt.
+Das Gegenteil von Flow wird [Antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) genannt, und beschreibt nicht intuitive oder unnatürliche Bewegungsmuster.
 
 ## Wesentliche Elemente
 
@@ -21,17 +21,17 @@ Auch wenn sich Bewegungspräferenzen zwischen Personen unterscheiden, gibt es ei
 
 ### Weiche Bewegungen
 
-Zusammenhängende Hit-Objekte, die weiche Bewegungen ohne scharfe, abrupte Drehungen oder schnelle Tempowechsel verlangen, werden als angenehm zu spielen erachtet. Bei solchen Patterns bildet der Lauf des Spielcursors möglicherweise eine geschwungene Kurve. Diese Kurven bestehen typischerweise aus kreisförmigen oder halbkreisförmigen Segmenten (sog. *ovaler* oder *kreisförmiger Lauf*), die entweder im oder gegen den Uhrzeigersinn verlaufen. Beatmaps wechseln oft in regelmäßigen Abständen die Richtung der kreisförmigen Bewegungen,[^circular-flow] wobei Übergänge häufig von "neutralen" Patterns begleitet werden, um den Übergang zum nächsten Pattern zu erleichtern.
+Zusammenhängende Hit-Objekte, die weiche Bewegungen ohne scharfe, abrupte Drehungen oder schnelle Tempowechsel verlangen, werden als angenehm zu spielen erachtet. Bei solchen Patterns kann der Lauf des Spielcursors eine geschwungene Kurve bilden. Diese Kurven bestehen typischerweise aus kreisförmigen oder halbkreisförmigen Segmenten (sog. *ovaler* oder *kreisförmiger Flow*), die entweder im oder gegen den Uhrzeigersinn verlaufen. Beatmaps wechseln oft in regelmäßigen Abständen die Richtung der kreisförmigen Bewegungen,[^circular-flow] wobei Übergänge häufig von "neutralen" Patterns begleitet werden, um den Übergang zum nächsten Pattern zu erleichtern.
 
-Lineare Bewegungen können ebenfalls als eine Form des weichen Laufs angesehen werden. Diese Verwendung ist allerdings weniger gebräuchlich, da kein bestimmter Bewegungsverlauf des Cursors erzwungen wird.
+Lineare Bewegungen können ebenfalls als eine Form des weichen Flows angesehen werden. Diese Verwendung ist allerdings weniger gebräuchlich, da kein bestimmter Bewegungsverlauf des Cursors erzwungen wird.
 
 ### Wiederholungen
 
-Eine andere Form der natürlichen Bewegung ist die Wiederholung. Patterns mit ähnlichen, sich wiederholenden Bewegungen, die sich nur minimal unterscheiden (wie beispielsweise "Hin-und-her"-[Jumps](/wiki/Beatmap/Pattern/osu!/Jump) oder eine Reihe von Sliderpaaren), sind angenehm zu spielen, da die nachfolgenden Bewegungen einem bereits bekannten Verlauf folgen und so leicht vorauszusehen sind. Aus demselben Grund werden wiederholte Patterns in einer Beatmap mit der Zeit immer einfacher.
+Eine andere Form der natürlichen Bewegung ist die Wiederholung. Patterns mit ähnlichen, sich wiederholenden Bewegungen, die sich nur minimal unterscheiden (wie beispielsweise "Hin-und-her"-[Jumps](/wiki/Beatmap/Pattern/osu!/Jump) oder eine Reihe von Sliderpaaren), sind angenehm zu spielen, da die nachfolgenden Bewegungen bereits bekannten Verläufen folgen und somit leicht vorherzusehen sind. Aus demselben Grund werden wiederholte Patterns in einer Beatmap mit der Zeit immer einfacher.
 
 ### Visuelle Darstellung
 
-Damit eine Beatmap natürlicher aussieht und sich auch so anfühlt, können Mapper Slider mit verschiedenen Formen, die die empfohlene Bewegungsrichtung nahelegen, einsetzen. Da der Cursor nur die [Sliderticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick) erreichen muss und somit der Sliderkörper nicht perfekt nachgeführt werden muss, können Slider auf viele Arten angepasst und gebogen werden, ohne dass der Lauf für eine erfolgreiche Absolvierung verändert werden muss. Sliderformen können so bereits bestehende Bewegungsverläufe festigen oder dem Spieler dabei helfen, neue Bewegungsverläufe zu erlernen.
+Damit eine Beatmap natürlicher aussieht und sich auch so anfühlt, können Mapper Slider mit verschiedenen Formen, die die empfohlene Bewegungsrichtung nahelegen, einsetzen. Da der Cursor nur die [Sliderticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick) erreichen muss und somit der Sliderkörper nicht perfekt nachgeführt werden muss, können Slider auf viele Arten angepasst und gebogen werden, ohne dass die Bewegung für eine erfolgreiche Absolvierung verändert werden muss. Sliderformen können so bereits bestehende Bewegungsverläufe festigen oder dem Spieler dabei helfen, einen neuen Bewegungsverlauf anzunehmen.
 
 ## Anwendung
 
@@ -49,4 +49,4 @@ Es gibt aufgrund der Anzahl an möglichen Cursor-Bewegungsmuster und weil das Th
 
 ## Anmerkungen
 
-[^circular-flow]: Für Spieler mit einer Maus werden kreisförmige Bewegungen, die zu lange in dieselbe Richtung gehen, aufgrund des Abdriften der Maus als zu monoton sowie zu unangenehm zu spielen angesehen.
+[^circular-flow]: Spieler mit einer Maus sind der Auffassung, dass kreisförmige Bewegungen, die zu lange in dieselbe Richtung verlaufen, aufgrund des Abdriftens der Maus zu monoton sowie zu unangenehm zu spielen sind.
