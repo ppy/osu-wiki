@@ -15,7 +15,7 @@ What started as a humble Indonesian osu!catch tournament has grown all across As
 
 ## What's new?
 
-Aside from the fresh "sweets" theme, for its 14th iteration, CICO will be expanding into the global stage for the very first time. Yes, that means everyone from everywhere in the world is free to join now!
+Aside from the fresh "sweets" theme, for its 14th iteration, CICO will be expanding into the global stage for the very first time. Yes, that means anyone from anywhere in the world is free to join now!
 
 And just like last year, CICO 2026 will also be packed and loaded with **10+** brand-new custom songs along with plenty more of custom beatmaps to boot! For a sampler of what's to come, take a look at the following playlist of all the custom songs from the previous tournament:
 
