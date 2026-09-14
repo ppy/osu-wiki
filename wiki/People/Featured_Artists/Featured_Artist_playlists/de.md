@@ -21,7 +21,7 @@ Spieler können entsprechend der unten stehenden **kumulierten Rangliste** Profi
 
 ## Kumulierte Rangliste
 
-Seit Juni 2023 werden die obigen Abzeichen allen Nutzern verliehen, die 10 Punkte in einer **kumulierten Rangliste** der Featured Artist-Playlists erreichen. Scores aus verschiedenen Featured Artist-Playlists werden in die anderen Playlists übertragen, mit Ausnahme von [September 2022](#september-2022] und [März 2023](#märz-2023).
+Seit Juni 2023 werden die obigen Abzeichen allen Nutzern verliehen, die 10 Punkte in einer **kumulierten Rangliste** der Featured Artist-Playlists erreichen. Scores aus verschiedenen Featured Artist-Playlists werden in die anderen Playlists übertragen, mit Ausnahme von [September 2022](#september-2022) und [März 2023](#märz-2023).
 
 ### Basiswertung
 
