@@ -24,19 +24,19 @@ Seria podkastów jest zorganizowana tak, by każdy mógł swobodnie dołączyć 
 | 12 | [Ephemeral](https://osu.ppy.sh/users/102335) | Były członek zespołu osu! | [Link](https://www.youtube.com/watch?v=eXWmjo0-oyM) |
 | 13 | [ztrot](https://osu.ppy.sh/users/6347) | Twórca osu!talk | [Link](https://www.youtube.com/watch?v=8COmLt0IBRs) |
 | 14 | [Raiku](https://osu.ppy.sh/users/1525538) | Czołowy gracz | [Link](https://www.youtube.com/watch?v=5P9FaFrS0CM) |
-| 15 | [smoogipooo](https://osu.ppy.sh/users/1040328) | Deweloper | [Link](https://www.youtube.com/watch?v=vG1yx1xVQsk) |
+| 15 | [smoogipooo](https://osu.ppy.sh/users/1040328) | Programista | [Link](https://www.youtube.com/watch?v=vG1yx1xVQsk) |
 | 16 | [OnosakiHito](https://osu.ppy.sh/users/290128) | Członek QAT | [Link](https://www.youtube.com/watch?v=ZYby7r3YNPg) |
 | 17 | [RBRat3](https://osu.ppy.sh/users/307202) | Artysta osu! | [Link](https://www.youtube.com/watch?v=kSotXmkCN4I) |
 | 18 | [Andrea](https://osu.ppy.sh/users/33599) | Były moderator/Nominator beatmap | [Link](https://www.youtube.com/watch?v=dKEOVBiljdc) |
 | 19 | [Doomsday](https://osu.ppy.sh/users/18983) | Czołowy gracz | [Link](https://www.youtube.com/watch?v=0C74QeEcn_4) |
-| 20 | [Tom94](https://osu.ppy.sh/users/1857058) | Deweloper | [Link](https://www.youtube.com/watch?v=ONnUrG4jrto) |
+| 20 | [Tom94](https://osu.ppy.sh/users/1857058) | Programista | [Link](https://www.youtube.com/watch?v=ONnUrG4jrto) |
 | 21 | [Flanster](https://osu.ppy.sh/users/447818) | Moderator | [Link](https://www.youtube.com/watch?v=nvGP5x9ZseM) |
 | 21.5 | [Blue Dragon](https://osu.ppy.sh/users/19048) | Twórca beatmap | [Link](https://puu.sh/cmOO3/a737a268da.mp3) |
 | 22 | [HappyStick](https://osu.ppy.sh/users/256802) | Czołowy gracz | [Link](https://www.youtube.com/watch?v=zhAHOreuYp4) |
 | 23 | [Hayabusa](https://osu.ppy.sh/users/3104108) | Czołowy gracz osu!manii z Wielkiej Brytanii | [Link](https://www.youtube.com/watch?v=1C102Zzuyzg) |
 | 24 | [Kyonko Hiraza](https://osu.ppy.sh/users/444868) | Były czołowy gracz | [Link](https://www.youtube.com/watch?v=6RhBqhhn9F0) |
 | 25 | [PortalLife](https://osu.ppy.sh/users/929134) | Organizator turniejów społeczności | [Link](https://www.youtube.com/watch?v=odGwuBwqcmc) |
-| 26 | [MillhioreF](https://osu.ppy.sh/users/941094) | Gracz znany z używania moda Easy, deweloper | [Link](https://www.youtube.com/watch?v=dO3kv8nutSI) |
+| 26 | [MillhioreF](https://osu.ppy.sh/users/941094) | Gracz znany z używania moda Easy, programista | [Link](https://www.youtube.com/watch?v=dO3kv8nutSI) |
 | 27 | [machol30](https://osu.ppy.sh/users/5772) | Starożytny twórca beatmap | [Link](https://www.youtube.com/watch?v=PR-ItQJLQTE) |
 | 28 | [Nashmun](https://osu.ppy.sh/users/49031) | Mistrz osu!taiko z Francji | [Link](https://www.youtube.com/watch?v=C8I81f2Gw1s) |
 | 29 | [Luna](https://osu.ppy.sh/users/588007) | Gracz osu!taiko z Niemiec | [Link](https://www.youtube.com/watch?v=5akyzJuLLFI) |
