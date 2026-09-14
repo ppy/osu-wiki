@@ -1,3 +1,8 @@
+---
+outdated_since: 85336b766cf167431bb7faf921f1a0f766ac270e
+outdated_translation: true
+---
+
 # Datenspeicherung in osu!(lazer)
 
 Standardmäßig werden Dateien für Beatmaps, Skins und Score-Replays in osu!(lazer) in den folgenden Verzeichnissen abgelegt:

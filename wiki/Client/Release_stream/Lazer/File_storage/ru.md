@@ -1,3 +1,8 @@
+---
+outdated_since: 85336b766cf167431bb7faf921f1a0f766ac270e
+outdated_translation: true
+---
+
 # Хранилище файлов osu!(lazer)
 
 По умолчанию osu!(lazer) хранит карты, скины и записи игр в перечисленных ниже директориях:
