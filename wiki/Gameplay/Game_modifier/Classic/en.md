@@ -12,7 +12,7 @@ tags:
 
 #### Classic
 
-![Classic mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CL.png)
+![Classic mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CL.png?1)
 
 *Feeling nostalgic?*
 

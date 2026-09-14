@@ -15,7 +15,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Double Time
 
-![Double Time 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DT.png)
+![Double Time 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DT.png?1)
 
 *加>>>>>>>>>>>速...*
 

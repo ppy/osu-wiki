@@ -12,7 +12,7 @@ tags:
 
 #### Invert
 
-![Invert 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/IN.png)
+![Invert 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/IN.png?1)
 
 *跟着节拍。按住按键。*
 
