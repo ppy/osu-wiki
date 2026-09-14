@@ -222,7 +222,7 @@ Od 2020 roku wkład [nominatorów beatmap](/wiki/People/Beatmap_Nominators) i cz
 
 Zwycięzcy konkursów Aspire są nagradzani specjalną wersję tytułu Elite Mapper, **Elite Mapper: Aspirant**.
 
-- ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000)
+- ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000)[^charles445-note]
 - ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699)
 - ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438)
 - ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619)
