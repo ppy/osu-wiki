@@ -138,11 +138,12 @@ Am 7. Dezember 2008 wurde die globale osu!catch-Rangliste vollständig zurückge
 | ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 01.07.2026 | 21.07.2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1ukbvpu/story_has_once_again_became_1_surpassing_qwhj79/) |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 21.07.2026 | 27.08.2026 | [\[1\]](https://web.archive.org/web/20260721170106/https://osu.ppy.sh/rankings/fruits/global/performance) [\[2\]](https://www.reddit.com/r/osugame/comments/1v25lkm/motion_returns_to_1_in_ctb/) |
 | ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 27.08.2026 | 14.09.2026 | [\[1\]](https://web.archive.org/web/20260831205135/https://osu.ppy.sh/rankings/fruits/global/performance) |
-| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 14.09.2026 | heute | [\[1\]](https://www.reddit.com/r/osugame/comments/1wfqh0b/osucatch_qwhj79_redside_feat_hatsune_miku/) [\[2\]](https://osu.ppy.sh/scores/7476629017) |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 14.09.2026 | 15.09.2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1wfqh0b/osucatch_qwhj79_redside_feat_hatsune_miku/) [\[2\]](https://osu.ppy.sh/scores/7476629017) |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 15.09.2026 | heute | [\[1\]](https://osu.ppy.sh/scores/7483422941) |
 
 ## Anzahl der Titelverteidigungen
 
-Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den ersten Platz erreicht hat (Stand: 14. September 2026).
+Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den ersten Platz erreicht hat (Stand: 15. September 2026).
 
 | Spieler | Titelverteidigungen |
 | --: | :-: |
@@ -150,8 +151,8 @@ Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den erste
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 7 |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 6 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 4 |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 4 |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 3 |
-| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 3 |
 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 1 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 1 |
 
@@ -162,14 +163,14 @@ Die folgende Liste stellt dar, wie oft ein Spieler in seiner Spielzeit den erste
 Der aktuelle Spieler auf dem ersten Platz ist nicht in dieser Liste enthalten.
 :::
 
-Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den ersten Platz innehatte (Stand: 14. September 2026).
+Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den ersten Platz innehatte (Stand: 15. September 2026).
 
 | Spieler | Länge in Tagen |
 | --: | :-: |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 1283 |
 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 910 |
 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187) | 666 |
-| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 561 |
+| ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 562 |
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 382 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 357 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 203 |
@@ -182,7 +183,7 @@ Die folgende Liste enthält die Gesamtanzahl der Tage, die ein Spieler den erste
 Nur Titelverteidigungen mit mehr als 100 Tagen werden genannt. Der aktuelle Spieler auf dem ersten Platz ist nicht enthalten.
 :::
 
-Die folgende Liste stellt die größte Anzahl an aufeinanderfolgenden Tagen dar, in denen ein Spieler den ersten Platz innehatte (Stand: 14. September 2026).
+Die folgende Liste stellt die größte Anzahl an aufeinanderfolgenden Tagen dar, in denen ein Spieler den ersten Platz innehatte (Stand: 15. September 2026).
 
 | Spieler | von | bis | Länge in Tagen |
 | --: | :-- | :-- | :-: |
