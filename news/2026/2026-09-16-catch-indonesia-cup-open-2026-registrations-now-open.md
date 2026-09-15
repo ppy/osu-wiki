@@ -20,9 +20,7 @@ Aside from the fresh "sweets" theme, for its 14th iteration, CICO will be expand
 And just like last year, CICO 2026 will also be packed and loaded with **10+** brand-new custom songs along with plenty more of custom beatmaps to boot! For a sampler of what's to come, take a look at the following playlist of all the custom songs from the previous tournament:
 
 <div align="center" class="osu-md__paragraph">
-    <video width="100%" controls>
-        <source src="https://www.youtube.com/playlist?list=PL7WjLkQAh7tFDo605CsVHnttzAzYX4lNS" type="video/mp4" preload="none">
-    </video>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL7WjLkQAh7tFDo605CsVHnttzAzYX4lNS" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Finally, following the footsteps of the most recent [osu!catch World Cup](/wiki/Tournaments/CWC/2026), CICO 2026 will not feature any convert beatmaps for the first time (i.e. all the beatmaps in the mappool will be osu!catch-specific).
