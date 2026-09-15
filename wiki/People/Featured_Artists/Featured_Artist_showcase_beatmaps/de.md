@@ -960,7 +960,7 @@ Von Anfang an war es eins der wesentlichen Ziele der Mappers' Guild, Beatmap-Pak
 
 Da man der Mappers' Guild in ihrer Anfangszeit nur über ein geschlossenes Bewerbungsverfahren beitreten konnte, war der Zugang zu bevorstehenden Inhalten der Featured Artists oft einer Handvoll Mapper vorbehalten, die überwiegend im Spielmodus [osu!](/wiki/Game_mode/osu!) aktiv waren. Mit der Umstellung auf ein offenes und automatisiertes Zugangssystem [im März 2019](/wiki/History_of_osu!/Mapping_and_modding_timeline#march.5) wurden mit der Zeit jedoch immer mehr Mapper unabhängig von ihrem Spielmodus für die Erstellung von Showcase-Beatmaps für zukünftige Featured Artists gewonnen.
 
-Beginnend mit der [Ankündigung des Featured Artists MYUKKE.] im Dezember 2020, enthielten die Ankündigungsbeiträge der Featured Artists gelegentlich kurze Vorschauvideos, in denen diese Showcase-Beatmaps oft im Mittelpunkt standen.
+Beginnend mit der [Ankündigung des Featured Artists MYUKKE.](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) im Dezember 2020, enthielten die Ankündigungsbeiträge der Featured Artists gelegentlich kurze Vorschauvideos, in denen diese Showcase-Beatmaps oft im Mittelpunkt standen.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
