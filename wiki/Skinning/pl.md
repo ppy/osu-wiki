@@ -1,30 +1,31 @@
 ---
-outdated_translation: true
-outdated_since: cd53f694f7e0e700e57857590002cd09e6a07e07
+no_native_review: true
 ---
 
 # Tworzenie skórek
 
-Tworzenie skórek to jedna z najważniejszych funkcji w osu!, która umożliwia zamianę elementów graficznych gry na własne. Wyróżniamy kilka rodzajów skórek: stworzone dla zabawy, tematyczne, profesjonalne oraz nienadające się do użytku.
+Tworzenie skórek to jedna z głównych funkcji w osu!, która umożliwia zamianę elementów graficznych gry na własne. Można znaleźć wiele rodzajów skórek, od stworzonych dla zabawy po w pełni profesjonalne. Niektóre mogą być celowo trudne lub wręcz niemożliwe do grania z nimi.
 
 ## Zestawy elementów skórek
 
-*Główna strona: [Zestawy elementów skórek](/wiki/Ranking_criteria/Skin_set_list)*
+::: alert-note
+**Strona główna**: [Zestawy elementów skórek](/wiki/Ranking_criteria/Skin_set_list)
+:::
 
-**Ta sekcja odnosi się tylko do beatmap.** Jeżeli twoja beatmapa zawiera pojedynczy element z danego zestawu elementów, to musi zawierać każdy element z tego zestawu. Mimo że te zestawy są przyznaczone tylko dla beatmap, to twórcy skórek mogą również czerpać z nich korzyści.
+**Ta sekcja odnosi się tylko do beatmap.** Jeżeli twoja beatmapa zawiera pojedynczy element jednego z zestawów wypisanych w [kryteriach rankingowych](/wiki/Ranking_criteria), to musi zawierać również każdy element z tego zestawu. Tyczy się to jedynie skórek zawartych w beatmapach, jednak zaleca się, aby twórcy skórek również przestrzegali tej zasady w celu zachowania integralności skórki.
 
 ## Elementy skórek
 
 Elementy skórek są podzielone na następujące kategorie:
 
-- [Interfejs](/wiki/Skinning/Interface)
 - [osu!](/wiki/Skinning/osu!)
 - [osu!taiko](/wiki/Skinning/osu!taiko)
 - [osu!catch](/wiki/Skinning/osu!catch)
 - [osu!mania](/wiki/Skinning/osu!mania)
+- [Interfejs](/wiki/Skinning/Interface)
 - [Dźwięki](/wiki/Skinning/Sounds)
 
-## Zobacz
+## Zobacz także
 
 - [skin.ini](/wiki/Skinning/skin.ini)
 - [Dawne elementy skórek](/wiki/Skinning/History) - lista starych, nieużywanych elementów skórek

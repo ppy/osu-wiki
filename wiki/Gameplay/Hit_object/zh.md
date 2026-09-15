@@ -3,8 +3,6 @@ tags:
   - hit objects
   - 打击物件
 needs_cleanup: true
-outdated_translation: true
-outdated_since: 28c05eafc4957754b0549d2992bb3802f08b59ff
 ---
 
 # 打击物件
@@ -13,8 +11,8 @@ outdated_since: 28c05eafc4957754b0549d2992bb3802f08b59ff
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [圆圈](/wiki/Gameplay/Hit_object/Hit_circle) | [咚和咔](/wiki/Gameplay/Hit_object/Hit) | [水果](/wiki/Gameplay/Hit_object/Fruit) | 单点音符 |
-| [滑条](/wiki/Gameplay/Hit_object/Slider) | [长条](/wiki/Gameplay/Hit_object/Drumroll) | [水果串](/wiki/Gameplay/Hit_object/Juice_stream) | 长按音符 |
+| [圆圈](/wiki/Gameplay/Hit_object/Hit_circle) | [咚和咔](/wiki/Gameplay/Hit_object/Hit) | [水果](/wiki/Gameplay/Hit_object/Fruit) | [单点音符](/wiki/Gameplay/Hit_object/Note) |
+| [滑条](/wiki/Gameplay/Hit_object/Slider) | [长条](/wiki/Gameplay/Hit_object/Drumroll) | [水果串](/wiki/Gameplay/Hit_object/Juice_stream) | [长按音符](/wiki/Gameplay/Hit_object/Hold_note) |
 | [转盘](/wiki/Gameplay/Hit_object/Spinner) | [转盘](/wiki/Gameplay/Hit_object/Swell) | [香蕉](/wiki/Gameplay/Hit_object/Banana) | x |
 | x | x | [红果](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
 

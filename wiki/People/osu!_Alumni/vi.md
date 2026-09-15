@@ -1,9 +1,3 @@
----
-outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
-outdated_translation: true
-no_native_review: true
----
-
 # osu! Alumni
 
 **osu! Alumni** là những người đã từng đóng góp cho osu! và hiện đã gác lại công việc của mình. Nếu có điều kiện, chúng tôi sẽ dựng tượng cho mỗi thành viên trong đây để tri ân sự đóng góp của họ cho trò chơi.

@@ -1,5 +1,4 @@
 ---
-outdated: true
 outdated_translation: true
 ---
 
