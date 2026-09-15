@@ -20,15 +20,15 @@ Without further ado, let us present the winners:
 
 [![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/joori-Petrified-Bunting.jpg)](https://assets.ppy.sh/contests/48/winners/Petrified-Bunting.jpg)
 
-**Exploding into first place with a whopping _1595_ votes is [joori](https://osu.ppy.sh/users/6598966)'s stunningly colourful rendition of Mocha playing the taiko drums before a Shinto shrine.**
+**Exploding into first place with a whopping *1595* votes is [joori](https://osu.ppy.sh/users/6598966)'s stunningly colourful rendition of Mocha playing the taiko drums before a Shinto shrine.**
 
-As captivating as it is cute, **joori** took everything Mocha about Mocha and made it _more_ Mocha. From the colouring to the intricate detail on her dress (with matching motif on the shrine itself) and the cameo of two well-loved mascots from the Taiko no Tatsujin games, this is easily one of the best fan art entries we've ever seen.
+As captivating as it is cute, **joori** took everything Mocha about Mocha and made it *more* Mocha. From the colouring to the intricate detail on her dress (with matching motif on the shrine itself) and the cameo of two well-loved mascots from the Taiko no Tatsujin games, this is easily one of the best fan art entries we've ever seen.
 
 Astonishingly good. **joori** walks away with 8 months of osu! supporter status for this superb piece.
 
 [![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Sylux6-Truthful-Opossum.jpg)](https://assets.ppy.sh/contests/48/winners/Truthful-Opossum.jpg)
 
-**Snatching second place with _1103_ votes, [Sylux6](https://osu.ppy.sh/users/2607507)'s sensational summer swimsuits scored a place in our hearts.**
+**Snatching second place with *1103* votes, [Sylux6](https://osu.ppy.sh/users/2607507)'s sensational summer swimsuits scored a place in our hearts.**
 
 Featuring both pippi and Mocha enjoying some time at the beach, **Sylux6** brought us more of their signature style, sporting an abundance of compelling colours and even a distinctly stacked twist on our lovely mascots.
 
@@ -36,7 +36,7 @@ Enjoy the five months of osu!supporter to tide you through the coming colder mon
 
 [![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/shoriisna-Conscientious-Harrier.jpg)](https://assets.ppy.sh/contests/48/winners/Conscientious-Harrier.jpg)
 
-**Sizzling with summer heat and stealing _981_ votes, [shoriisna](https://osu.ppy.sh/users/5272918) surfs their way to third place with a striking portrayal of Mocha and the much-loved Taikonator!**
+**Sizzling with summer heat and stealing *981* votes, [shoriisna](https://osu.ppy.sh/users/5272918) surfs their way to third place with a striking portrayal of Mocha and the much-loved Taikonator!**
 
 Evocative and so very, very summer, **shoriisna**'s piece was rife with sea, sky, and wind abound. Lounging about on the seafront with a popsicle and the Taikonator enjoying some pp-brand cola, what more could you ask for?
 
@@ -44,13 +44,13 @@ Evocative and so very, very summer, **shoriisna**'s piece was rife with sea, sky
 
 [![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Amumizu-Ferocious-Whale.jpg)](https://assets.ppy.sh/contests/48/winners/Ferocious-Whale.jpg)
 
-**Set to a mesmerizing background of summer festival fireworks, [Amumizu](https://osu.ppy.sh/users/2920755) awed the crowed, scoring _898_ votes.**
+**Set to a mesmerizing background of summer festival fireworks, [Amumizu](https://osu.ppy.sh/users/2920755) awed the crowed, scoring *898* votes.**
 
 With Mocha hard at work on the drums while pippi and Tama watch, **Amumizu**'s festival-fueled entry struck all the right beats. Set before a scintillating firework firmament, there's simply nothing else to say but wow.
 
 [![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Crowie-Jolly-Creeper.jpg)](https://assets.ppy.sh/contests/48/winners/Jolly-Creeper.png)
 
-**Candy apples aren't the only thing sweet with this entry as [Crowie](https://osu.ppy.sh/users/6894067) nabs _864_ votes with her stunning portrayal of Mocha before a background of fireworks!**
+**Candy apples aren't the only thing sweet with this entry as [Crowie](https://osu.ppy.sh/users/6894067) nabs *864* votes with her stunning portrayal of Mocha before a background of fireworks!**
 
 Not content to simply leave her character design for the community to run with, **Crowie** couldn't help but show us more of that striking characterization that saw Mocha come to life in the first place.
 
@@ -58,19 +58,19 @@ Awash in movement and beautifully rendered colour, her work is every bit as impr
 
 [![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Evaine-Reckless-Creeper.jpg)](https://assets.ppy.sh/contests/48/winners/Reckless-Creeper.jpg)
 
-**Featuring Aiko and Mocha in a osu!taiko-print bikini, [Evaine](https://osu.ppy.sh/users/7295733)'s captivating entry stole the hearts of _846_ voters.**
+**Featuring Aiko and Mocha in a osu!taiko-print bikini, [Evaine](https://osu.ppy.sh/users/7295733)'s captivating entry stole the hearts of *846* voters.**
 
 Lounging on pristine sands and enjoying some beachfront snacks, **Evaine**'s portrayal of the winning osu!taiko mascots is strangely comfortable despite the sizzling heat.
 
 [![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Piyori-Irascible-Pintail.jpg)](https://assets.ppy.sh/contests/48/winners/Irascible-Pintail.png)
 
-**[\[ Piyori \]](https://osu.ppy.sh/users/4457608) pulls out all the stops with a striking rendition of Mocha enjoying the shallows, scoring _778_ votes!**
+**[\[ Piyori \]](https://osu.ppy.sh/users/4457608) pulls out all the stops with a striking rendition of Mocha enjoying the shallows, scoring *778* votes!**
 
 The only thing being let down in this entry is Mocha's hair, as a chibipippi floats about with a watermelon strapped to her head in the background. Simple, but beautifully executed.
 
 [![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/snowyani2000-Volatile-Wood-pewee.jpg)](https://assets.ppy.sh/contests/48/winners/Volatile-Wood-pewee.jpg)
 
-**Perhaps one of the unsung heroes of the contest, [snowyani2000](https://osu.ppy.sh/users/2691590)'s incredible entry fuses years of osu!'s history together with its newest mascot to create something truly amazing, scoring _731_ votes!**
+**Perhaps one of the unsung heroes of the contest, [snowyani2000](https://osu.ppy.sh/users/2691590)'s incredible entry fuses years of osu!'s history together with its newest mascot to create something truly amazing, scoring *731* votes!**
 
 Enter the endless rabbit-hole of osu! history with **snowyani2000**'s outstanding entry, which explores dozens of osu! names and references in the form of cameo characters. The more you look, the deeper it goes!
 
@@ -80,13 +80,13 @@ This one was a favourite among the osu!team. Super imaginative, and super inclus
 
 [![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Snow-Conservative-Chameleon.jpg)](https://assets.ppy.sh/contests/48/winners/Conservative-Chameleon.png)
 
-**Simple and clean, [Snow--](https://osu.ppy.sh/users/2484835)'s superb rendition of a smiling Mocha enjoying the beachfront scored _636_ votes!**
+**Simple and clean, [Snow--](https://osu.ppy.sh/users/2484835)'s superb rendition of a smiling Mocha enjoying the beachfront scored *636* votes!**
 
 There's jokes to be made about Mocha's seaweed hair, but how could you make fun of her when she's that adorable? **Snow--** captures every bit of that insidious cute and brings it to bear in a smile that rivals the summer sun for warmth.
 
 [![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/Ringarune-Humorous-Weasel.jpg)](https://assets.ppy.sh/contests/48/winners/Humorous-Weasel.png)
 
-**Making a splash in the shallows and in the votes, [Ringarune](https://osu.ppy.sh/users/1885176)'s captivatingly beautiful shot of Mocha scored _568_ votes!**
+**Making a splash in the shallows and in the votes, [Ringarune](https://osu.ppy.sh/users/1885176)'s captivatingly beautiful shot of Mocha scored *568* votes!**
 
 Wonderfully rendered colour and movement lend a compelling touch to **Ringarune**'s piece, capturing all of Mocha's glorious tones washed with the faintest touch of the sea.
 
