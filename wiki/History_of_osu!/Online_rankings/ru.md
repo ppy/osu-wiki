@@ -42,7 +42,7 @@ tags:
 **Основная статья:** [История ранкингов osu!catch](osu!catch)
 :::
 
-По состоянию на 27 августа 2026 года игрок №1 в [топе osu!сatch по производительности](https://osu.ppy.sh/rankings/fruits/performance) — ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283/fruits).
+По состоянию на 14 сентября 2026 года игрок №1 в [топе osu!сatch по производительности](https://osu.ppy.sh/rankings/fruits/performance) — ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506).
 
 ## ![][osu!mania] osu!mania
 

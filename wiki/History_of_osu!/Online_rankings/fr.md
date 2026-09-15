@@ -38,7 +38,7 @@ En date du 23 juillet 2026, sur [l'osu!taiko performance rankings](https://osu.p
 **Page principale** : [L'histoire des classements du mode osu!catch](osu!catch)
 :::
 
-En date du 27 août 2026, sur [l'osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance), le joueur #1 est ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283/fruits).
+En date du 14 septembre 2026, sur [l'osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance), le joueur #1 est ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506).
 
 ## ![][osu!mania] osu!mania
 
