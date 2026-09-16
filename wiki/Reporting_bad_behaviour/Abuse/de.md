@@ -36,7 +36,7 @@ Wenn du der Meinung bist, dass die Bemerkungen/Annäherungen höchst unangemesse
 
 Klicke dazu auf den Button `Beitrag melden` in der rechten oberen Ecke des Forenbeitrags.
 
-Falls der Beitrag nicht innerhalb eines angemessenen Zeitraums verschwindet, kannst du auf den Benutzernamen eines beliebigen GMT-Mitglieds in der Liste auf dieser Seite klicken. Dadurch gelangst du zu dessen Profil. Alternativ, kannst du stattdessen [diesen Link verwenden](https://osu.ppy.sh/groups/4) und auf einen beliebigen Benutzer klicken, der gerade online ist.
+Falls der Beitrag nicht innerhalb eines angemessenen Zeitraums verschwindet, kannst du auf den Benutzernamen eines beliebigen GMT-Mitglieds in der Liste auf dieser Seite klicken. Dadurch gelangst du zu dessen Profil. Alternativ kannst du stattdessen [diesen Link verwenden](https://osu.ppy.sh/groups/4) und auf einen beliebigen Benutzer klicken, der gerade online ist.
 
 Klicke auf die Schaltfläche mit einem Briefumschlag direkt unter der Landesflagge des Benutzers. Damit gelangst du zum Chat-Fenster.
 
@@ -52,7 +52,7 @@ Wenn du der Meinung bist, ein Muster von unangemessenen Annäherungen/Bemerkunge
 
 ### Auf einem öffentlichen osu!-bezogenen Discord-Server {id=discord}
 
-Blockiere den Benutzer sofort, indem du mit der rechten Maustaste auf seinen Benutzernamen klickst und in der angezeigten Dropdown-Liste `Blockieren` wählst. Beachte, dass der Benutzer möglicherweise bemerkt, dass du ihn blockiert hast — falls du besorgt bist, dass dies das Problem an anderer Stelle verschlimmert, kannst du `Ignorieren` wählen. Der Benutzer kann nicht herausfinden, dass du das gemacht hast. Siehe [Discords Leitfaden zum Ignorieren von Benutzern](https://support.discord.com/hc/de/articles/28084948873623-Wie-man-Benutzer-auf-Discord-ignoriert) für weitere Informationen.
+Blockiere den Benutzer sofort, indem du mit der rechten Maustaste auf seinen Benutzernamen klickst und in der angezeigten Dropdown-Liste `Blockieren` wählst. Beachte, dass der Benutzer möglicherweise bemerkt, dass du ihn blockiert hast — falls du besorgt bist, dass dies das Problem an anderer Stelle verschlimmert, kannst du `Ignorieren` wählen. Der Benutzer kann nicht herausfinden, dass du das gemacht hast. Siehe den [Discord-Leitfaden zum Ignorieren von Benutzern](https://support.discord.com/hc/de/articles/28084948873623-Wie-man-Benutzer-auf-Discord-ignoriert) für weitere Informationen.
 
 Wende dich danach umgehend an die Administratoren des Servers, indem du nach jemandem suchst, der ganz oben auf der Benutzerliste steht, und erzähle, was passiert ist. Falls du nicht herausfinden kannst, wer ein Administrator ist, halte Ausschau nach jemandem mit einer Krone neben seinem Namen – er ist der Server-Besitzer und verantwortlich dafür, was auf dem Server geschieht.
 
@@ -60,7 +60,7 @@ Sollte dieser Missbrauch anhalten und sollten die Administratoren nichts dagegen
 
 Wenn du außerdem den osu!-Benutzernamen der Person kennst, die dich belästigt, sende bitte eine E-Mail mit möglichst vielen Informationen an [abuse@ppy.sh](mailto:abuse@ppy.sh), und wir untersuchen es wenn möglich. Beachte, dass wir nichts gegen Inhalte auf Drittplattformen unternehmen können, also besteht keine Garantie, dass wir etwas dagegen tun, aber solche Fälle werden intern vermerkt.
 
-### Auf einem Twitter, der mit dem Profil eines osu!-Benutzers verknüpft ist {id=twitter}
+### Auf einem Twitter-Konto, das mit dem Profil eines osu!-Benutzers verknüpft ist {id=twitter}
 
 Klicke auf die drei Punkte oben rechts im Problemtweet und klicke auf 'Tweet melden'. Achte darauf, den Anweisungen zu folgen, und lies sie sorgfältig durch. Vielleicht möchtest du auch den [Twitter-Leitfaden zum Melden missbräuchlichen Verhaltens](https://help.twitter.com/de/safety-and-security/report-abusive-behavior) durchblättern, um weitere Informationen über den Prozess zu erhalten.
 
