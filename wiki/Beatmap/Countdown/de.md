@@ -6,9 +6,17 @@ tags:
 
 # Countdown
 
-*Für Turniertimer, siehe: [Befehle für das Turnier-Management](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)*\
-*Für Vorschriften zu Countdowns, siehe: [Ranking-Kriterien § Allgemein § Richtlinien](/wiki/Ranking_criteria#guidelines)*\
-*Siehe auch: [Offset (Begriffsabgrenzung)](/wiki/Offset)*
+::: alert-note
+**Anmerkung:** Für Turniertimer, siehe [Befehle für das Turnier-Management](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+:::
+
+::: alert-note
+**Anmerkung:** Für Vorschriften zu Countdowns, siehe [Ranking-Kriterien § Allgemein § Richtlinien](/wiki/Ranking_criteria#guidelines)
+:::
+
+::: alert-note
+**Siehe auch:** [Offset (Begriffsabgrenzung)](/wiki/Offset)
+:::
 
 Ein **Countdown** kann am Anfang einer [Beatmap](/wiki/Beatmap) erscheinen. Die meisten Beatmaps benötigen keinen Countdown, bei schnell oder abrupt startenden Songs kann er aber nützlich sein. Im `Design`-Tab des [Song-Setup-Fensters](/wiki/Client/Beatmap_editor/Song_setup) kann der Countdown an- und ausgeschaltet werden. In [osu!taiko](/wiki/Game_mode/osu!taiko)-Beatmaps darf allerdings kein Countdown verwendet werden.
 

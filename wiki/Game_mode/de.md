@@ -20,7 +20,9 @@ Um zwischen den Modi zu wechseln, klicke in osu!(stable) auf den Button `Mode` u
 
 ## ![][osu!] osu!
 
-*Hauptseite: [osu!](osu!)*
+::: alert-note
+**Hauptseite:** [osu!](osu!)
+:::
 
 *osu!* ist der Standardmodus, bei dem Spieler zum Beat der Musik Kreise klicken, Slider halten und Spinner drehen müssen. Er basiert auf dem originalen Rhythmusspiel *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* von [iNiS](https://en.wikipedia.org/wiki/INiS). osu! hat sein eigenes Maskottchen namens [pippi](/wiki/Mascots#pippi), einem pink/schwarzhaarigen Mädchen.
 
@@ -28,7 +30,9 @@ Um zwischen den Modi zu wechseln, klicke in osu!(stable) auf den Button `Mode` u
 
 ## ![][osu!taiko] osu!taiko
 
-*Hauptseite: [osu!taiko](osu!taiko)*
+::: alert-note
+**Hauptseite:** [osu!taiko](osu!taiko)
+:::
 
 *osu!taiko* simuliert das Spielen einer echten Trommel, bei der Spieler eine Tastatur oder Trommel nutzen, um verschiedenfarbige Kreise auf einem einzigen Förderband zu treffen. Er basiert auf der Spielreihe *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)*, die von [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment) produziert wurde. Das Maskottchen von osu!taiko ist [Mocha](/wiki/Mascots#mocha), ein grünhaariges Mädchen in einem Kimono, das Trommelstöcke hält.
 
@@ -36,7 +40,9 @@ Um zwischen den Modi zu wechseln, klicke in osu!(stable) auf den Button `Mode` u
 
 ## ![][osu!catch] osu!catch
 
-*Hauptseite: [osu!catch](osu!catch)*
+::: alert-note
+**Hauptseite:** [osu!catch](osu!catch)
+:::
 
 Beim Spielmodus *osu!catch* müssen Spieler einen Fänger steuern, um Früchte verschiedener Sorten, die vom oberen Bildschirmrand herabfallen, im Beat zu sammeln. Dieser Modus ist lose an das Minispiel "Catch It!!" aus den frühen Versionen von [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm] (eine [Beatmania](https://en.wikipedia.org/wiki/Beatmania)-Simulation für PC) angelehnt, die wiederum auf dem Modus *EZ2CATCH* aus dem [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ)-Arcadesystem basiert. Das Maskottchen von osu!catch ist [Yuzu](/wiki/Mascots#yuzu), ein blauhaariger Junge.
 
@@ -44,7 +50,9 @@ Beim Spielmodus *osu!catch* müssen Spieler einen Fänger steuern, um Früchte v
 
 ## ![][osu!mania] osu!mania
 
-*Hauptseite: [osu!mania](osu!mania)*
+::: alert-note
+**Hauptseite:** [osu!mania](osu!mania)
+:::
 
 *osu!mania* ist ein vertikal scrollender Rhythmusspielmodus (VSRG), der als Klavier-Simulator konzipiert wurde. Er wurde vor allem von [woc2006](https://osu.ppy.sh/users/1105845) [vorgestellt sowie implementiert](https://osu.ppy.sh/community/forums/topics/100751) und basiert auf einer Reihe Förderband-artiger Rhythmusspiele (nämlich [Dance Dance Revolution](https://de.wikipedia.org/wiki/Dance_Dance_Revolution) und [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Die Maskottchen von osu!mania sind die Zwillinge [Mani und Mari](/wiki/Mascots#mani-&-mari), die beide violettes und hellviolettes Haar haben.
 

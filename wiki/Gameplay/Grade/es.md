@@ -13,7 +13,9 @@ tags:
 
 # Grado
 
-*Para otros usos, véase [Rango (desambiguación)](/wiki/Disambiguation/Rank).*
+::: alert-note
+**Nota:** [Rango (desambiguación)](/wiki/Disambiguation/Rank).
+:::
 
 Las **grados** son un conjunto de letras que representan el rendimiento de un jugador en un [beatmap](/wiki/Beatmap) dado. Acompañan a la [puntuación](/wiki/Gameplay/Score) total en la pantalla de resultados y aparecen en todas las listas junto a las puntuaciones.
 

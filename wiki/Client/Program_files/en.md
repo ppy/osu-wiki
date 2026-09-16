@@ -1,6 +1,8 @@
 # osu! program files
 
-*See also: [osu! File Formats](/wiki/Client/File_formats)*
+::: alert-note
+**See also:** [osu! File Formats](/wiki/Client/File_formats)
+:::
 
 ![The file structure of osu!'s installation folder, on Windows and macOS](img/file_structure.jpg "The file structure of osu!'s installation folder, on Windows and macOS")
 
@@ -38,7 +40,10 @@ The Localisation folder appears when the player has switched their language in t
 
 ### Replays
 
-*Note: Replays used to be replayed at a lower sample rate, but are now more optimised of a better experience*
+::: alert-notice
+**Notice**
+Replays used to be replayed at a lower sample rate, but are now more optimised of a better experience
+:::
 
 The Replays folder holds the player's replay files. A replay file does not work when the beatmaps linked to it is missing. The replay also contains the results data, and reanimates the player's cursor movement while replaying. To create a replay, press F2 at the results screen, or click on the 'Save replay to Replays folder' (in Solo only).
 
@@ -52,7 +57,10 @@ The file name structure is `{Local player name} - {Artist} - {Title} {[Difficult
 
 The Screenshots folder holds screenshots the player has created in osu!. By default, the saved screenshot's file extension is `.jpg`, however this can be changed to `.png` in the Options menu.
 
-*Note: To create a screenshot, press the screenshot key (F12 by default).*
+::: alert-notice
+**Notice**
+To create a screenshot, press the screenshot key (F12 by default).
+:::
 
 The file name structure is `screenshot###`, where "###" is the screenshot number count.
 
@@ -60,7 +68,9 @@ The file name structure is `screenshot###`, where "###" is the screenshot number
 
 The Skins folder holds user-created skins, which can be used to customise the in-game interface. Players can download skins from the [Skinning subforum](https://osu.ppy.sh/community/forums/15). Players can install skins by double-clicking on the skin from a file manager. "osu! by peppy" is the only skin without its folder and cannot be deleted.
 
-*For further reference, see [Skinning](/wiki/Skinning)*
+::: alert-note
+**Note:** For further reference, see [Skinning](/wiki/Skinning)
+:::
 
 ### Songs
 
@@ -81,7 +91,10 @@ osu! data files. Contains some of osu!'s cache, like beatmap background cache an
 
 ## Files
 
-*Caution: Be careful with these files, you might break osu! if you are not careful.*
+::: alert-caution
+**Caution**
+Be careful with these files, you might break osu! if you are not careful.
+:::
 
 ### Database files (.db)
 

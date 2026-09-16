@@ -217,7 +217,10 @@ Prizes for this tournament are sponsored by ::{ flag=CN }:: [hans1999](https://o
 | 10 | **tuziel** ::{ flag=CN }:: | **5** | 0 | ::{ flag=CN }:: Snowkyou |  |
 | 14 | IA daisuki ::{ flag=CN }:: | 0 | **5** | ::{ flag=CN }:: **Toki 0w0** |  |
 
-*Note: ::{ flag=CN }:: Jazzsoldiers gave up tournament for some reasons.*
+::: alert-notice
+**Notice**
+::{ flag=CN }:: Jazzsoldiers gave up tournament for some reasons.
+:::
 
 ### Round of 16
 

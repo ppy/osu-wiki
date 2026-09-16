@@ -1,80 +1,76 @@
 ---
-outdated_since: 686edf8b6519252bb823e92350e052f669f344a5
-outdated_translation: true
+no_native_review: true
 ---
 
 # Medale
 
-Medale, znane także jako *osiągnięcia*, to odznaki wyświetlające się na profilach użytkowników. Są przyznawane za wykonanie konkretnego zadania.
-Obecnie medale są podzielone na 5 grup: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction) oraz [Hush-Hush](#hush-hush).
+**Medale**, dawniej znane jako *osiągnięcia*, to odznaki wyświetlające się na profilach użytkowników, przyznawane za wykonanie konkretnych zadań. Obecnie w grze jest łącznie **352** medali do odblokowania w ośmiu różnych kategoriach: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) oraz [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
-Medale **The Beatmap Packs** są przyznawane za **zagranie dowolnego poziomu trudności w każdej beatmapie** znajdującej się w danej [tematycznej paczce beatmap](https://osu.ppy.sh/p/packlist?t=t).
-Aby uzyskać status **`UKOŃCZONA`** dla danej beatmapy oraz odznakę, musisz grać w trybie [osu!](/wiki/Game_mode/osu!).
+**Medale Beatmap Packs** są przyznawane za ukończenie [tematycznych paczek beatmap](https://osu.ppy.sh/beatmaps/packs?type=theme), [paczek beatmap Project Loved](https://osu.ppy.sh/beatmaps/packs?type=loved) lub [paczek beatmap artysty/albumu](https://osu.ppy.sh/beatmaps/packs?type=artist). Medal można otrzymać za przejście dowolnego poziomu trudności każdej beatmapy znajdującej się w wybranej paczce.
 
-Na obecną chwilę w tej grupie istnieje 16 medali, które są podzielone na 4 sekcje: Video Game, Anime, Internet! oraz Rhythm Game.
+Aby zdobyć medal, wszystkie beatmapy należy przejść w trybie gry [osu!](/wiki/Game_mode/osu!), o ile nie wskazano inaczej. Używanie zarówno [modów ułatwiających](/wiki/Gameplay/Game_modifier#ułatwiające), jak i [modów utrudniających](/wiki/Gameplay/Game_modifier#utrudniające), a także [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out), jest dozwolone.
 
-Obecnie, każda z tych sekcji posiada po 4 zestawy.
-
-### Wymagania
-
-- Gracz musi ukończyć dowolny poziom trudności każdej beatmapy znajdującej się w danej [tematycznej paczce beatmap](https://osu.ppy.sh/p/packlist?t=t).
-- Liczy się tylko tryb osu!.
-- Wypakuj paczkę z pliku `.zip` i umieść jej zawartość w folderze `Songs`.
-  Następnie włącz klienta gry i pozwól, aby przetworzył on wszystkie beatmapy.
-  - Gracz może pobrać ręcznie wszystkie beatmapy z paczki i będzie się to liczyć.
-- Inne wersje tej samej piosenki nie będą liczone.
-- Gracz musi być zalogowany w kliencie gry (nie na stronie osu!).
-
-### Ważne
-
-- Dozwolone jest używanie modyfikacji, nie licząc tych nierankingowych.
-- Beatmapa może zostać bez żadnych skutków usunięta po tym, jak pojawi się status **`ukończona`** na [liście paczek beatmap](https://osu.ppy.sh/p/packlist?t=t).
+Warto wspomnieć, że zawartość wszystkich paczek Video Game, Anime, Internet! oraz Rhythm Game znacząco się zmieniła od [ich opublikowania po raz pierwszy w 2008 roku](https://osu.ppy.sh/community/forums/topics/1853). Aby zobaczyć oryginalną zawartość tych paczek, zobacz [archiwalne paczki beatmap](/wiki/Medals/Legacy_beatmap_packs).
 
 ## Skill
 
-Medale Skill są obecnie podzielone na trzy grupy: Combo, High Ranker oraz Star-based.
-
-Medale **The Combo** są przyznawane za uzyskanie specyficznego [combo](/wiki/Disambiguation/Combo) w trybie osu! na dowolnej beatmapie.
-Uzyskanie takiego samego combo w trybach [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch) czy [osu!mania](/wiki/Game_mode/osu!mania) nie będzie zaliczać się na medal.
-
-Dla medali 1000 i 2000 combo zaleca się wyszukiwanie beatmap zatwierdzonych zamiast rankingowych.
-Jednakże, **nie próbuj szukać bądź grać beatmap nierankingowych!**
-
----
-
-Medale The High Ranker są przyznawane za osiągnięcie konkretnej pozycji w rankingu globalnym w **dowolnym** trybie gry.
-
----
-
-Medale Star-based są podzielone na dwie grupy: *Pass* oraz *S*.
-Medale *Pass* są przyznawane za ukończenie dowolnej beatmapy o konkretnej liczbie gwiazdek.
-Medale *S* są przyznawane za uzyskanie [pełnego combo](/wiki/Gameplay/Full_combo) wraz z oceną S na dowolnej beatmapie o konkretnej liczbie gwiazdek.
-Trudność beatmapy zostanie zaokrąglona do najbliższej pełnej liczbie gwiazdek i zostanie przyznany medal.
-Użycie modyfikacji utrudniających bądź ułatwiających rozgrywkę jest dozwolone.
-Beatmapa musi także posiadać status rankingowej bądź zatwierdzonej.
-Poniżej zostały przedstawione warianty ośmiogwiazdkowe, ale istnieją medale także dla liczby gwiazdek od jednej do siedmiu.
+**Medale Skill** są przyznawane za ukończenie różnych wyzwań bazujących na umiejętnościach, takich jak uzyskanie konkretnej długości [combo](/wiki/Gameplay/Combo_(score_multiplier)),osiągnięcie konkretnej pozycji w [rankingu globalnym](https://osu.ppy.sh/rankings/osu/performance) czy przejście lub przejście z [pełnym combo](/wiki/Gameplay/Full_combo) dowolnej [zakwalifikowanej](/wiki/Beatmap/Category#zakwalifikowane), [rankingowej](/wiki/Beatmap/Category#ranked) lub [zatwierdzonej](/wiki/Beatmap/Category#approved) beatmapy, której [ilość gwiazdek](/wiki/Beatmap/Star_rating) mieści się w określonym przedziale.
 
 ## Dedication
 
-Medale Dedication są przyznawane za poświęcenie dużej ilości czasu w każdym trybie gry. Jest to rozgrywanie beatmap w trybie osu!, łapanie owoców w trybie osu!catch, uderzanie bębenków w trybie osu!taiko oraz naciskanie klawiszy w trybie osu!mania.
+**Medale Dedication** są przyznawane za osiąganie kamieni milowych ilości zagrań w trybie osu! lub kamieni milowych ilości uderzeń w trybach osu!taiko, osu!catch i osu!mania.
 
 ## Mod Introduction
 
-*Zobacz także: [Modyfikacje](/wiki/Gameplay/Game_modifier).*
+::: alert-note
+**Zobacz także:** [Modyfikatory gry](/wiki/Gameplay/Game_modifier).
+:::
 
-Medale Mod Introduction są przyznawane za ukończenie dowolnej beatmapy z konkretną modyfikacją.
-Mają one za zadanie zachęcić nowszych użytkowników do wypróbowania każdej modyfikacji oraz odkrycia, co osu! ma do zaoferowania.
-**Ważne:** Jeżeli gracz korzysta z wielu modyfikacji naraz, to zdobycie medali za żadną z tych modyfikacji nie będzie możliwe.
+**Medale Mod Introduction** są przyznawane za przejście dowolnej [zakwalifikowanej](/wiki/Beatmap/Category#qualifed), [rankingowej](/wiki/Beatmap/Category#ranked) lub [zatwierdzonej](/wiki/Beatmap/Category#approved) beatmapy z konkretnym [modem](/wiki/Gameplay/Game_modifier). Mają one za zadanie zachęcić nowszych graczy do wypróbowania każdego moda oraz odkrycia, co osu! ma do zaoferowania. Należy jednak zaznaczyć, że w przypadku korzystania z wielu modów naraz nie będzie możliwe zdobycie medalu za żaden z wybranych modów.
+
+Wszystkie medale Mod Introduction mogą zostać zdobyte w dowolnym [trybie gry](/wiki/Game_mode), o ile nie wskazano inaczej.
 
 ## Hush-Hush
 
-Te medale nie mają dosłownie określonego celu.
-Gracz musi samodzielnie znaleźć sposób na zdobycie danego medalu z tej grupy.
-Podpowiedź znajduje się w tytule medalu.
+**Medale Hush-Hush** są "sekretnymi" medalami przyznawanymi za osiągnięcie bardzo konkretnych celów, które nie są podane wprost (stąd nazwa). Cele te mogą polegać na ukończeniu beatmapy w osobliwy sposób czy ustawieniu wyniku z nietypową kombinacją modów. Choć cele te są tajemnicą, istnieją wskazówki naprowadzające graczy na sposób ich zdobycia:
 
-## Źródła
+- Nazwy medali,
+- Podpisy medali, oraz
+- Krótkie opisy, widoczne w przypadku niektórych medali po najechaniu na jego kartę.
 
-- [Oryginalne paczki beatmap (2009 - 2016) przed aktualizacją Stefana.](Legacy_beatmap_packs)
-- [Wątek peppy'ego dot. grafik medali](https://osu.ppy.sh/community/forums/topics/80448).
+Ponieważ medale z tej kategorii mają być sekretnymi osiągnięciami, sposoby ich osiągnięcia nie są podane wprost. Gracze jednak jak najbardziej mogą [współpracować ze sobą by odkryć, jak zdobyć wszystkie medale Hush-Hush](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
+
+Istnieje również podkategoria o nazwie "Hush-Hush (Expert)". Medale z tej podkategorii różnią się tym, że do ich zdobycia nie można użyć modów [ułatwiających](/wiki/Gameplay/Game_modifier#ułatwiające) ani [specjalnych](/wiki/Gameplay/Game_modifier#specjalne).
+
+## Beatmap Spotlights
+
+**Medale Beatmap Spotlights** są przyznawane za ukończenie paczek opublikowanych jako część [Monthly Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). Aby otrzymać medal, gracz musi przejść wszystkie mapy *w dowolnej z czterech paczek* (każdy tryb gry ma osobną paczkę). Dozwolone jest użycie następujących modów:
+
+- [Modów ułatwiających](/wiki/Gameplay/Game_modifier#ułatwiające)
+- [Modów utrudniających](/wiki/Gameplay/Game_modifier#utrudniające)
+- [xK](/wiki/Gameplay/Game_modifier/xK), [Mirror](/wiki/Gameplay/Game_modifier/Mirror) oraz [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out)
+
+Chociaż Monthly Beatmap Spotlights zawieszono w kwietniu 2018 roku na rzecz [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), wszyskie medale powiązane z nimi można zdobywać do dziś.
+
+## Seasonal Spotlights
+
+**Medale Seasonal Spotlights** są przyznawane za ukończenie paczek opublikowanych jako część [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Aby otrzymać medal, gracz musi przejść wszystkie mapy *w dowolnej z czterech paczek* (każdy tryb gry ma osobną paczkę). Dozwolone jest użycie następujących modów:
+
+- [Modów ułatwiających](/wiki/Gameplay/Game_modifier#ułatwiające)
+- [Modów utrudniających](/wiki/Gameplay/Game_modifier#utrudniające)
+- [xK](/wiki/Gameplay/Game_modifier/xK), [Mirror](/wiki/Gameplay/Game_modifier/Mirror) oraz [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out)
+
+Chociaż Seasonal Spotlights zawieszono na początku 2020 roku na rzecz [obecnego systemu Beatmap Spotlights](/wiki/Beatmap_Spotlights), wszystkie medale powiązane z nimi można zdobywać do dziś.
+
+## Beatmap Challenge Packs
+
+**Medale Beatmap Challenge Packs**, alternatywnie nazywane [*medalami Skill Packs*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs), są medalami przyznawanymi za przejście najwyższego poziomu trudności wszystkich beatmap w niektórych [tematycznych paczkach beatmap](https://osu.ppy.sh/beatmaps/packs?type=theme) lub [paczkach beatmap artysty/albumu](https://osu.ppy.sh/beatmaps/packs?type=artist) *bez użycia żadnych modów [ułatwiających](/wiki/Gameplay/Game_modifier#ułatwiające) lub [specjalnych](/wiki/Gameplay/Game_modifier#specjalne)*. Beatmapy w tych paczkach zostały starannie wybrane, aby przetestować rozumienie różnych aspektów gry przez gracza w zakresie konkretnego poziomu umiejętności, na przykład w danym zakresie [ilości gwiazdek](/wiki/Beatmap/Star_rating).
+
+Aby zdobyć medal, wszystkie beatmapy w paczce należy przejść w trybie gry [osu!](/wiki/Game_mode/osu!), o ile nie wskazano inaczej.
+
+## Zobacz także
+
+- [Pierwsze odblokowania medali](First_medal_unlocks)
+- [Wymagania dot. zdobycia medali](Unlock_requirements)

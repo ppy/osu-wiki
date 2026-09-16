@@ -1,9 +1,6 @@
----
-outdated_translation: true
-outdated_since: 77913d6cce75409e9d72a7fde2b35ec26d18214c
----
-
 # 挑战曲包奖章解锁条件
+
+完成这些曲包时，不可使用[降低难度的模组](/wiki/Gameplay/Game_modifier#降低难度)。
 
 | 奖章名称 | 条件 |
 | :-- | :-- |

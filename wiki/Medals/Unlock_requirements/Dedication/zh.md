@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 77913d6cce75409e9d72a7fde2b35ec26d18214c
----
-
 # 毅力奖章解锁条件
 
 ## osu!
@@ -28,7 +23,7 @@ outdated_since: 77913d6cce75409e9d72a7fde2b35ec26d18214c
 | 奖章名称 | 条件 | 描述 |
 | :-- | :-- | :-- |
 | Catch 20,000 fruits | 在 osu!catch 中接到水果总数达到 20,000 个。 | That is a lot of dietary fiber. |
-| Catch 200,000 fruits | 在 osu!catch 中接到水果总数达到 200,000 个。 | So, I heard you like fruit.. |
+| Catch 200,000 fruits | 在 osu!catch 中接到水果总数达到 200,000 个。 | So, I heard you like fruit... |
 | Catch 2,000,000 fruits | 在 osu!catch 中接到水果总数达到 2,000,000 个。 | Downright healthy. |
 | Catch 20,000,000 fruits | 在 osu!catch 中接到水果总数达到 20,000,000 个。 | Nothing left behind. |
 

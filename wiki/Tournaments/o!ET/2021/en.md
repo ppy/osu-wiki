@@ -58,7 +58,10 @@ The osu! European Tournament 2021 was run by various community members.
 
 ## Participants
 
-*Note: Tiers were recorded at the end of qualifiers. Remaining players who didn't qualify aren't listed.*
+::: alert-notice
+**Notice**
+Tiers were recorded at the end of qualifiers. Remaining players who didn't qualify aren't listed.
+:::
 
 | Tier | Player |
 | --: | :-- |
@@ -69,7 +72,10 @@ The osu! European Tournament 2021 was run by various community members.
 
 ## Teams
 
-*Note: The team captain is shown by the username in bold.*
+::: alert-notice
+**Notice**
+The team captain is shown by the username in bold.
+:::
 
 | Team | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
 | :-- | :-- | :-- | :-- | :-- |

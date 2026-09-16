@@ -14,7 +14,10 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ![Icône du mod CM](/wiki/shared/mods/CM.png "Icône du mod Cinema (CM)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
+
 *À ne pas confondre avec [Cinématographie](https://fr.wikipedia.org/wiki/Cinéma).*
 
 ## À propos
@@ -27,7 +30,10 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ## Description
 
-*Attention : L'activation du mod Cinema entraînera un jeu non classé.*
+::: alert-caution
+**Attention**
+L'activation du mod Cinema entraînera un jeu non classé.
+:::
 
 Le mod **Cinema** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) qui a pour but de permettre aux joueurs de se détendre et de regarder la vidéo ou les storyboards d'une beatmap sans l'apparition d'aucun [objets](/wiki/Gameplay/Hit_object). Cela se traduit par un jeu utilisant le mod [Auto](/wiki/Gameplay/Game_modifier/Auto), mais avec **seulement le fond et le storyboard affichés**.
 

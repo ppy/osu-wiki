@@ -4,8 +4,13 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 
 The latest tournament included in the data below is the [osu! World Cup 2023](/wiki/Tournaments/OWC/2023).
 
-*Note: Official tournaments which were allowing teams not representing countries are not taken into consideration.*\
-*Note: Mixed-country teams (e.g. Argentina-Colombia) are not taken into consideration.*
+::: alert-notice
+**Note:** Official tournaments which were allowing teams not representing countries are not taken into consideration.
+:::
+
+::: alert-notice
+**Note:** Mixed-country teams (e.g. Argentina-Colombia) are not taken into consideration.
+:::
 
 ## Rankings
 

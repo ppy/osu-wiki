@@ -7,7 +7,9 @@ tags:
 
 # Chart Assembly Team
 
-*For the modern version of the team, see: [Beatmap Spotlights § Curators](/wiki/Beatmap_Spotlights)*
+::: alert-note
+**Note:** For the modern version of the team, see [Beatmap Spotlights § Curators](/wiki/Beatmap_Spotlights)
+:::
 
 The **Chart Assembly Team** (often referred to as ***CAT***) was a dedicated group of users formed in August 2011[^cat-birth] and responsible for compiling monthly and themed beatmaps for the Ranking Charts (later renamed to [Beatmap Spotlights](/wiki/Beatmap_Spotlights)). Having being initially composed from the members of the [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) and the [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team), it was expanded to a curated set of renowned players and mappers in order to increase diversity.
 

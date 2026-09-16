@@ -8,7 +8,10 @@ Este artículo sirve de guía para ayudarte a realizar pequeñas modificaciones 
 
 ## Audacity
 
-*Nota: Este artículo usa la versión 3.4.2 de Audacity.*
+::: alert-notice
+**Aviso**
+Este artículo usa la versión 3.4.2 de Audacity.
+:::
 
 [Audacity](https://www.audacityteam.org/download) es un software gratuito de edición y grabación de audio de código abierto. Usa la biblioteca de codificación [LAME](https://lame.sourceforge.io) para poder exportar audio en formato MP3 y está integrada en Audacity para Windows y macOS.
 
@@ -16,7 +19,9 @@ Los usuarios de Linux deben consultar el [manual de referencia de Audacity](http
 
 ### Reducir la tasa de bits
 
-*Para obtener información sobre la compresión en general, véase: [Compresión de archivos](/wiki/Guides/Compressing_files)*
+::: alert-note
+**Nota:** Para obtener información sobre la compresión en general, véase [Compresión de archivos](/wiki/Guides/Compressing_files)
+:::
 
 Instala y abre Audacity, luego sigue estos pasos:
 
@@ -62,13 +67,19 @@ Instala y abre Audacity, luego sigue estos pasos:
 
 ## mp3DirectCut
 
-*Nota: Este artículo usa la versión 2.36 de mp3DirectCut.*
+::: alert-notice
+**Aviso**
+Este artículo usa la versión 2.36 de mp3DirectCut.
+:::
 
 [mp3DirectCut](https://mpesch3.de) es un software de edición de audio de uso gratuito que puede editar directamente archivos MP3 sin volver a codificarlos, lo que a menudo evita la pérdida de calidad. Se recomienda cuando se necesita subir/bajar el volumen o cortar el audio.
 
 ### Reducir la tasa de bits
 
-*Nota: Para usar esta función se necesita un archivo de biblioteca de 32 bits.*
+::: alert-notice
+**Aviso**
+Para usar esta función se necesita un archivo de biblioteca de 32 bits.
+:::
 
 1. Abre el archivo `.mp3` al que le quieres bajar la tasa de bits.
 2. Haz clic en `Opciones` -> `Configurar`, o presiona `F11`.

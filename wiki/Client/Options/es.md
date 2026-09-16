@@ -91,7 +91,10 @@ Esta sección trata sobre la apariencia de tu cliente del juego, partes de la in
 
 ---
 
-*Nota: cuando el cliente del juego no es la ventana activa, el límite de fps se reduce automáticamente a 30 fps.*\
+::: alert-notice
+**Nota:** cuando el cliente del juego no es la ventana activa, el límite de fps se reduce automáticamente a 30 fps.
+:::
+
 *Precaución para los usuarios de ordenadores portátiles: ¡el uso de `Ilimitado (en partida)` puede hacer que tu ordenador portátil se sobrecaliente!*
 
 Si abres la lista desplegable de `Límite de FPS`, se te presentarán estas opciones:

@@ -52,7 +52,10 @@ The **osu!Philippines Summer Tournament 2018** (***oPHST2018***) was a semi-invi
 | Finals week 1 | 2018-06-09/2018-06-10 |
 | Finals week 2 | 2018-06-16/2018-06-17 |
 
-*Note: Registrations may prematurely end when there are a sufficient number of registrants.*
+::: alert-notice
+**Notice**
+Registrations may prematurely end when there are a sufficient number of registrants.
+:::
 
 ## Prizes
 

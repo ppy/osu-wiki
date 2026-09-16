@@ -72,7 +72,7 @@ Ganadores de las osu! World Cups anteriores con el título de usuario **Former o
 | [OWC 2020](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2020 | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691), ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603) |
 | [OWC 2021](/wiki/Tournaments/OWC/2021) | Former osu! Champion: 2021 | ::{ flag=US }:: [Aireu](https://osu.ppy.sh/users/1650010), ::{ flag=US }:: [Aricin](https://osu.ppy.sh/users/1419095), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153) |
 | [OWC 2022](/wiki/Tournaments/OWC/2022) | Former osu! Champion: 2022 | ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650), ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013), ::{ flag=US }:: [Sawada](https://osu.ppy.sh/users/8198848), ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553) |
-| [OWC 2023](/wiki/Tournaments/OWC/2023) | Former osu! Champion: 2023 | ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [Kama](https://osu.ppy.sh/users/13380270), ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296), ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150), ::{ flage=US }:: [hotdog4000](https://osu.ppy.sh/users/4108547), ::{ flag=US }:: [wudci](https://osu.ppy.sh/users/2590257) |
+| [OWC 2023](/wiki/Tournaments/OWC/2023) | Former osu! Champion: 2023 | ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [Kama](https://osu.ppy.sh/users/13380270), ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296), ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150), ::{ flag=US }:: [hotdog4000](https://osu.ppy.sh/users/4108547), ::{ flag=US }:: [wudci](https://osu.ppy.sh/users/2590257) |
 
 Ganadores de las osu!taiko World Cups anteriores con el título de usuario **Former osu!taiko Champion**:
 
@@ -195,7 +195,9 @@ La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Map
 
 ## Elite Nominators
 
-*Página principal: [Elite Nominators](/wiki/People/Elite_Nominators)*
+::: alert-note
+**Página principal:** [Elite Nominators](/wiki/People/Elite_Nominators)
+:::
 
 Desde 2020, los miembros de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) y [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) con una exhibición excepcional para apoyar el sistema de clasificación en un año determinado son recompensados con el título **Elite Nominator**. Este título se otorga al inicio de cada año por las contribuciones realizadas durante el último, y dura aproximadamente un año o hasta que el usuario deje el equipo.
 
@@ -324,7 +326,9 @@ Estos storyboarders recibieron el título de **Elite Storyboarder** por demostra
 
 ## Relacionados con el juego
 
-*Véase también: [Completacionistas](/wiki/People/Completionists)*
+::: alert-note
+**Véase también:** [Completacionistas](/wiki/People/Completionists)
+:::
 
 Estos jugadores recibieron sus respectivos títulos a través de un logro de juego loco o al completar un desafío específico.
 

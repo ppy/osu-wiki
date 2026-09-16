@@ -116,7 +116,9 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 
 ### Storyboards
 
-*For information about storyboard syntax, see [Storyboard Scripting](/wiki/Storyboard/Scripting).*
+::: alert-note
+**Note:** For information about storyboard syntax, see [Storyboard Scripting](/wiki/Storyboard/Scripting).
+:::
 
 Storyboards can be defined in a separate optional storyboard file with the `.osb` extension. External storyboards are shared between all difficulties in a beatmap.
 
@@ -278,7 +280,10 @@ There are four types of slider curves in osu!:
 
 If the slider's `length` is longer than the defined curve, the slider will extend in a straight line from the end of the curve until it reaches the target length.
 
-*Notice: The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier * 100 * SV) * beatLength` tells how many milliseconds it takes to complete one slide of the slider (where `SV` is the slider velocity multiplier given by the effective inherited timing point, or `1` if there is none).*
+::: alert-notice
+**Notice**
+The slider's `length` can be used to determine the time it takes to complete the slider. `length / (SliderMultiplier * 100 * SV) * beatLength` tells how many milliseconds it takes to complete one slide of the slider (where `SV` is the slider velocity multiplier given by the effective inherited timing point, or `1` if there is none).
+:::
 
 #### Slider hitsounds
 

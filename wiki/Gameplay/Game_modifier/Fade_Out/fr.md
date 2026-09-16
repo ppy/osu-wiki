@@ -13,7 +13,10 @@ tags:
 
 ![Icône du mod FO](/wiki/shared/mods/FO.png "Icône du mod Fade Out (FO)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
+
 *À ne pas confondre avec le mod [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) ou [Hidden](/wiki/Gameplay/Game_modifier/Hidden).*
 
 ## À propos

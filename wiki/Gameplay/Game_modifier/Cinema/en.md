@@ -11,9 +11,17 @@ tags:
 
 ![CM mod icon](/wiki/shared/mods/CM.png "Cinema (CM) mod icon")
 
-*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Cinema (lazer mod)](/wiki/Gameplay/Game_modifier/Cinema_(lazer))*\
-*For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*\
-*Not to be confused with [Cinematography](https://en.wikipedia.org/wiki/Cinematography).*
+::: alert-note
+**Note:** For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see [Cinema (lazer mod)](/wiki/Gameplay/Game_modifier/Cinema_(lazer))
+:::
+
+::: alert-note
+**Note:** For the full list of all mods, see [Game modifier](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Note:** Not to be confused with [Cinematography](https://en.wikipedia.org/wiki/Cinematography).
+:::
 
 ## About
 
@@ -25,7 +33,10 @@ tags:
 
 ## Description
 
-*Notice: Enabling the Cinema mod will result in an unranked play.*
+::: alert-notice
+**Notice**
+Enabling the Cinema mod will result in an unranked play.
+:::
 
 The **Cinema** mod is a [game modifier](/wiki/Gameplay/Game_modifier) that aims to allow players to simply relax and watch the video or storyboards from a beatmap without the appearance of any [hit objects](/wiki/Gameplay/Hit_object). This will result in a play using the [Auto](/wiki/Gameplay/Game_modifier/Auto) mod, but with **only the background and storyboard being displayed**.
 

@@ -7,7 +7,9 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9613
 
 # Geki
 
-*See also: [Katu](/wiki/Gameplay/Judgement/Katu)*
+::: alert-note
+**See also:** [Katu](/wiki/Gameplay/Judgement/Katu)
+:::
 
 **Geki (激)**, or *Elite Beat!*, is a [judgement](/wiki/Gameplay/Judgement) term for when a [combo](/wiki/Beatmapping/Combo) is completed with the highest possible [accuracy](/wiki/Gameplay/Accuracy) on every note. It gives higher HP boost in comparison with the last 300 on a non-perfect combo.
 

@@ -13,7 +13,9 @@ no_native_review: true
 # Badge de profil
 
 *À ne pas confondre avec les badges de groupe, qui apparaissent également sur les profils des utilisateurs.*\
-*Pour les règles concernant l'utilisation comme prix de tournoi, voir : [Support officiel des tournois § Badges de profil](/wiki/Tournaments/Official_support#badges-de-profil)*
+::: alert-note
+**Remarque** : Pour les règles concernant l'utilisation comme prix de tournoi, voir [Support officiel des tournois § Badges de profil](/wiki/Tournaments/Official_support#badges-de-profil)
+:::
 
 ![Capture d'écran des badges de HappyStick sur le site web](img/HappyStick.png "Les badges de profil s'affichent sous l'avatar et le nom d'utilisateur sur le site web.")
 
@@ -23,7 +25,9 @@ Lorsque l'on survole un badge, une infobulle s'affiche avec plus de détails sur
 
 ## Classement du tournoi
 
-*Page principale : [Sélection pondérée par badge](/wiki/Tournaments/Badge-weighted_seeding)*
+::: alert-note
+**Page principale** : [Sélection pondérée par badge](/wiki/Tournaments/Badge-weighted_seeding)
+:::
 
 Dans le [client](/wiki/Client) et sur le site web, les badges sont purement décoratifs. Cependant, étant donné que les badges de prix des [tournois](/wiki/Tournaments) mettent en valeur les performances des joueurs, certains tournois ont adopté des méthodes [seeding](https://en.wikipedia.org/wiki/Seed_(sports)) qui prennent en compte le nombre de badges des joueurs, communément appelées [sélection pondérée par badge](/wiki/Tournaments/Badge-weighted_seeding).
 

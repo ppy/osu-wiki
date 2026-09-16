@@ -8,8 +8,13 @@ tags:
 
 # Profilabzeichen
 
-*Nicht zu verwechseln mit Gruppenabzeichen, die ebenfalls auf Nutzerprofilen erscheinen.*\
-*Für Regeln für die Verwendung als Turnierpreise, siehe: [Offizielle Turnierunterstützung § Profilabzeichen](/wiki/Tournaments/Official_support#profilabzeichen)*
+::: alert-note
+**Anmerkung:** Nicht zu verwechseln mit Gruppenabzeichen, die ebenfalls auf Nutzerprofilen erscheinen.
+:::
+
+::: alert-note
+**Anmerkung:** Für Regeln für die Verwendung als Turnierpreise, siehe [Offizielle Turnierunterstützung § Profilabzeichen](/wiki/Tournaments/Official_support#profilabzeichen)
+:::
 
 ![Screenshot von den Abzeichen von HappyStick auf der Webseite](img/HappyStick.png "Profilabzeichen werden unter dem Avatar und dem Nutzernamen auf der Webseite angezeigt.")
 
@@ -19,7 +24,9 @@ Wenn man mit dem Mauszeiger über das Abzeichen fährt, wird ein Tooltip mit wei
 
 ## Turnierplatzierung
 
-*Hauptseite: [Abzeichen-gewichtete Platzierung](/wiki/Tournaments/Badge-weighted_seeding)*
+::: alert-note
+**Hauptseite:** [Abzeichen-gewichtete Platzierung](/wiki/Tournaments/Badge-weighted_seeding)
+:::
 
 Im [Spiel-Client](/wiki/Client) und auf der Webseite sind Abzeichen rein dekorativ. Da die Preisauszeichnungen bei [Turnieren](/wiki/Tournaments) jedoch die Leistung der Spieler zeigen, haben einige Turniere [Auslosungsverfahren](https://en.wikipedia.org/wiki/Seed_(sports)) eingeführt, die die Anzahl der Abzeichen der Spieler berücksichtigen, allgemein bekannt als [Abzeichen-gewichtete Platzierung](/wiki/Tournaments/Badge-weighted_seeding) (im Englischen *badge-weighted seeding* oder *BWS*).
 

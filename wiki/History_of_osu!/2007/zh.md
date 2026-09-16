@@ -76,7 +76,7 @@ osu! 在最开始其实是一个叫做 “应援测试 (ouentest)”[^ouentest] 
 
 ## 十一月
 
-新的 SS 评价被加入了评分系统，在完美通过时取代 S 而给出。[No Video](/wiki/Gameplay/Game_modifier/No_Video) 模组、[Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组以及与 Hidden 模组配套的 SH (银 S) 和 SSH (银 SS) 评价被加入到游戏中。玩家们现在可以按时间轴分段设置皮肤和 normal、soft 音效组。现在可以通过双击 `.osz` 谱面包文件，或将其拖动到 osu! 的图标或窗口中来加载它们。
+新的 SS 评级被加入了评分系统，在完美通过时取代 S 而给出。[No Video](/wiki/Gameplay/Game_modifier/No_Video) 模组、[Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组以及与 Hidden 模组配套的 SH (银 S) 和 SSH (银 SS) 评级被加入到游戏中。玩家们现在可以按时间轴分段设置皮肤和 normal、soft 音效组。现在可以通过双击 `.osz` 谱面包文件，或将其拖动到 osu! 的图标或窗口中来加载它们。
 
 ![](img/no_video.png "No Video (v1)")![](img/hidden.png "Hidden (v1)")
 

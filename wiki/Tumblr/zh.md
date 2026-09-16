@@ -1,6 +1,8 @@
 # Tumblr
 
-*参见：[Twitter](/wiki/Twitter) 及 [Discord 服务器](/wiki/Community/Discord_servers)*
+::: alert-note
+**参见：** [Twitter](/wiki/Twitter) 及 [Discord 服务器](/wiki/Community/Discord_servers)
+:::
 
 本文列出 osu! 用于维护和支持游戏运营的所有 [Tumblr](https://tumblr.com/) 博客。
 

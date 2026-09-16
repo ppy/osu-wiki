@@ -8,7 +8,9 @@ This set of **osu!mania ranking criteria** lays out [rules and guidelines](/wiki
 
 ### Difficulty names
 
-*Main article: [Difficulty naming](/wiki/Ranking_criteria/Difficulty_naming)*
+::: alert-note
+**Main page:** [Difficulty naming](/wiki/Ranking_criteria/Difficulty_naming)
+:::
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal
@@ -57,7 +59,9 @@ Refer to the [osu!mania Mapping Guide](/wiki/Guides/osu!mania_mapping_guide) for
 
 Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
-### Rules
+### General
+
+#### Rules
 
 - **The `Auto` mod must be able to achieve the full score (1,000,000) in all difficulties.**
 - **Two notes cannot be placed in a single column at the same timestamp.**
@@ -68,12 +72,8 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **If the beatmap includes any key counts above 10, or multiple [key modes](#common-terms) or [playstyles](#common-terms), each difficulty's name must denote its key mode or playstyle. Otherwise, all difficulty names must not denote key modes or playstyles.**
 - **Each non-[standard playstyle](#common-terms) present in a beatmap must be denoted in the beatmap's tags.**
 - **Difficulties using an [N+1 playstyle](#common-terms) must enable the `Use special style (N+1 style) for mania` option under the `Advanced` tab of the `Song Setup` window. The beatmap must also include the "N+1" tag.** For the purposes of this rule, only playstyles with key counts below 10 can be considered "N+1".[^n-plus-1]
-- **If the [drain time](/wiki/Beatmap/Drain_time) of any difficulty is...**
-  - **...lower than 2:00**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Normal or lower, or provide a proper spread[^proper-spread] containing at least 4 difficulties.
-  - **...between 2:00 and 2:45**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Hard or lower, or provide a proper spread[^proper-spread] containing at least 3 difficulties.
-  - **...between 2:45 and 3:30**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Insane or lower, or provide a proper spread[^proper-spread] containing at least 2 difficulties.
 
-### Guidelines
+#### Guidelines
 
 - **Every note should correlate to a sound present in the music.** This should be a distinct sound, but can also coherently represent a continuous sound with an indistinguishable start or end. Exceptions in favour of simplification should be made when following the music completely accurately...
   - would be unreasonable to play with full accuracy.
@@ -88,6 +88,15 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **Slider velocity changes should be snapped according to the song's beat structure.** If the song is using a straight beat, 1/4, 1/8, 1/16 should be used. If the song is using a swing beat, 1/6 or 1/12 should be used. If the song has a beat in a different position from what is recommended, snapping to an actual beat always takes priority.
 - **Avoid spamming short kiai time segments.** Doing so can be distracting and can negatively affect gameplay.
 - **Breaks should only be used when a section of music is extremely calm or silent.** Lower difficulties, especially on higher BPM songs, may use breaks to avoid parts of a song that are unreasonable for new players to play.
+
+### Spread
+
+#### Rules
+
+- **If the [drain time](/wiki/Beatmap/Drain_time) of any difficulty is...**
+  - **...lower than 2:00**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Normal or lower, or provide a proper spread[^proper-spread] containing at least 4 difficulties.
+  - **...between 2:00 and 2:45**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Hard or lower, or provide a proper spread[^proper-spread] containing at least 3 difficulties.
+  - **...between 2:45 and 3:30**, each [key mode](#common-terms) and [playstyle](#common-terms) must either include a difficulty at Insane or lower, or provide a proper spread[^proper-spread] containing at least 2 difficulties.
 
 ## Difficulty-specific
 
@@ -147,8 +156,8 @@ Additional guidelines for *4 key Normal* difficulties:
 
 Additional guidelines for *7 key Normal* difficulties:
 
-- **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns. However, using a double that is played with the other hand than the long note is fine.
-- **Bracket patterns should be used sparingly.**
+- **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns. However, using a triple that is played with the other hand than the long note is fine.
+- **Avoid 1/4 bracket patterns.** 1/2 bracket patterns should be used sparingly.
 - **Long notes played with adjacent keys that are held simultaneously should be released at the same time.** Long notes with multiple release timings require coordination that players of this level cannot reasonably handle.
 
 ### ![](/wiki/shared/diff/hard-m.png?20211215) Hard
@@ -175,8 +184,8 @@ Additional guidelines for *4 key Hard* difficulties:
 Additional guidelines for *7 key Hard* difficulties:
 
 - **Avoid chords with more than 4 notes.** This includes long note patterns that involve notes in more than four columns.
-- **Keep chord distance in a chordstream at a 1/1 or higher interval.** Anything denser than that can hurt readability.
 - **Occasional hands can be used in streams, so long as they are separated by at least one measure (4 beats).**
+- **In the middle of a long chordstream, chords should be at least 1/1 beat apart from each other.** Chordstreams with higher chord frequency should not be longer than 2/1 beats.
 
 ### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 
@@ -197,10 +206,7 @@ Additional guidelines for *4 key Insane* difficulties:
 Additional guidelines for *7 key Insane* difficulties:
 
 - **Avoid using 1/4 jacks with 3+ notes in the middle of chordstream.** These require finger independence that is too difficult for players at this level.
-- **In the middle of a long chord stream with a chord every...**
-  - ...1/1, there should not be more than 3 notes, except at the beginning/end of a stream, when 4 is acceptable.
-  - ...1/2, there should not be more than 2 notes.
-  - ...1/4, it's recommended to use a single note instead unless there is extremely clear musical justification.
+- **In the middle of a long chordstream, avoid exceeding an average of 7 notes per beat.** Notes shared between two beats count towards the following or preceding beat but not both.
 - **Bracket streams should be used sparingly.**
 
 ### ![](/wiki/shared/diff/expert-m.png?20211215) Expert

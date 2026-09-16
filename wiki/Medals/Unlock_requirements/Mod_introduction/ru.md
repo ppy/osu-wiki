@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 8b6f6798c3487a7ec6bf1dbd592dbd96f50f4443
----
-
 # Условия получения медалей Mod Introduction
 
 | Название медали | Условие |
@@ -18,3 +13,5 @@ outdated_since: 8b6f6798c3487a7ec6bf1dbd592dbd96f50f4443
 | Risk Averse | Пройти квалифицированную, рейтинговую или одобренную карту с модом [NoFail](/wiki/Gameplay/Game_modifier/No_Fail). |
 | Slowboat | Пройти квалифицированную, рейтинговую или одобренную карту с модом [Half Time](/wiki/Gameplay/Game_modifier/Half_Time). |
 | Burned Out | Пройти квалифицированную, рейтинговую или одобренную карту с модом [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out). Эта медаль может быть получена только в [osu!](/wiki/Game_mode/osu!), так как мода `Spun Out` нет в других режимах игры. |
+| Gear Shift | Пройти квалифицированную, рейтинговую или одобренную карту с любым модом из категории [Conversion](/wiki/Gameplay/Game_modifier_(lazer)#conversion). Эта медаль может быть получена только в [osu!(lazer)](/wiki/Client/Release_stream/Lazer), так как этой категории модов больше нигде нет. |
+| Game Night | Пройти квалифицированную, рейтинговую или одобренную карту с любым модом из категории [Fun](/wiki/Gameplay/Game_modifier_(lazer)#fun). Эта медаль может быть получена только в [osu!(lazer)](/wiki/Client/Release_stream/Lazer), так как этой категории модов больше нигде нет. |

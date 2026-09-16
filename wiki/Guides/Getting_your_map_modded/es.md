@@ -28,7 +28,10 @@ Vale la pena señalar que debes evitar publicar en las colas de modding de los B
 
 ## #modreqs
 
-*Advertencia: No hagas spam de solicitudes en este canal, ya que hacerlo puede resultar en un [silencio](/wiki/Silence). Publica una solicitud de mod en `#modreqs` cada hora aproximadamente.*
+::: alert-warning
+**Advertencia**
+No hagas spam de solicitudes en este canal, ya que hacerlo puede resultar en un [silencio](/wiki/Silence). Publica una solicitud de mod en `#modreqs` cada hora aproximadamente.
+:::
 
 `#modreqs` es un canal del chat de osu! en el que los jugadores pueden solicitar mods para sus beatmaps enlazándolos con el comando `/np`, junto con el tipo de solicitud del mod. Aunque no es el método más eficaz para encontrar mods, los modders y los Beatmap Nominators suelen estar atentos a los buenos beatmaps que se enlazan en este canal.
 

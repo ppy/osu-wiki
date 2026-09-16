@@ -4,7 +4,9 @@ This page covers some of the tasks that you may face while contributing. The app
 
 ## Introduction
 
-*For more information on Git and GitHub, see [GitHub Documentation](https://docs.github.com)*
+::: alert-note
+**Note:** For more information on Git and GitHub, see [GitHub Documentation](https://docs.github.com)
+:::
 
 **Git** is a version control system which helps manage changes to files. The osu! wiki's data and history of changes are stored in a Git repository. **GitHub** is a platform for development that provides a web interface for Git repositories and offers a set of tools for project management.
 
@@ -24,7 +26,9 @@ A *fork* is a snapshot of the original repository which doesn't update itself au
 
 ## Making edits
 
-*See also: [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
+::: alert-note
+**See also:** [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+:::
 
 Within your fork of the osu! wiki, you are free to make any changes and save them. **Commits** are individual "save points" of the repository. **Branches** are workspaces, which let you switch between multiple versions of the repository. To make your workflow easier and keep the history of the wiki clean and free from noise, follow these guidelines:
 

@@ -1,12 +1,17 @@
 # Internet Relay Chat
 
-*Para más información, véase: [Internet Relay Chat (Wikipedia)](https://es.wikipedia.org/wiki/Internet_Relay_Chat)*
+::: alert-note
+**Nota:** Para más información, véase [Internet Relay Chat (Wikipedia)](https://es.wikipedia.org/wiki/Internet_Relay_Chat)
+:::
 
 El **Internet Relay Chat** es un protocolo de capa de aplicación usado para chatear con numerosos clientes en línea.
 
 ## osu!Bancho
 
-*Aviso: este servidor proporciona solo una implementación parcial del protocolo de IRC. Algunas características no básicas de tu cliente de IRC (por ejemplo, [HexChat](https://hexchat.github.io/)) pueden funcionar incorrectamente o no funcionar en absoluto.*
+::: alert-notice
+**Aviso**
+este servidor proporciona solo una implementación parcial del protocolo de IRC. Algunas características no básicas de tu cliente de IRC (por ejemplo, [HexChat](https://hexchat.github.io/)) pueden funcionar incorrectamente o no funcionar en absoluto.
+:::
 
 *osu!Bancho* (a veces abreviado como *Bancho*) ofrece una puerta de enlace para acceder al IRC (chat en el juego). Puedes usar cualquier cliente de IRC moderno para conectarte (desplázate hacia abajo para ver una lista de los más populares).
 
@@ -19,7 +24,10 @@ Abre la configuración de tu cliente de IRC y completa los valores (es posible q
 - Nombre de usuario: tu nombre de usuario de osu!. Reemplaza los espacios con guiones bajos (por ejemplo, `beppy master 1000` se convierte en `beppy_master_1000`)
 - Contraseña: la contraseña de la [página de configuración de la cuenta](https://osu.ppy.sh/home/account/edit#legacy-api)
 
-*Advertencia: Tu contraseña de IRC es diferente a la contraseña de tu cuenta. **No la compartas con otros**.*
+::: alert-warning
+**Advertencia**
+Tu contraseña de IRC es diferente a la contraseña de tu cuenta. **No la compartas con otros**.
+:::
 
 ## Comandos básicos de IRC
 

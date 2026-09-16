@@ -1,6 +1,8 @@
 # Skinning du mode osu!catch
 
-*Voir également : [Tutoriel de skinning du mode osu!catch](/wiki/Skinning/Guides_and_important_threads)*
+::: alert-note
+**Voir également** : [Tutoriel de skinning du mode osu!catch](/wiki/Skinning/Guides_and_important_threads)
+:::
 
 ## Attrapeur
 

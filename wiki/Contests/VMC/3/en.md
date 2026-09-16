@@ -251,7 +251,10 @@ Tip: form your team and start planning early to avoid last-minute rushes. Plan a
 
 ### DUET round
 
-*Note: Due to a judging error, the top 7 osu!taiko teams advance to this round.*
+::: alert-notice
+**Notice**
+Due to a judging error, the top 7 osu!taiko teams advance to this round.
+:::
 
 - The **top 6 teams** from the SWAP Round advance to this final phase.
 - Both team members will **collaborate directly** to create a **single cohesive mapset** for *FLOP ERA* by **ePiaeon**.

@@ -14,8 +14,13 @@ no_native_review: true
 
 ![RL Modsymbol](/wiki/shared/mods/RL.png "Relax (RL) Modsymbol")
 
-*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Relax (lazer-Mod)](/wiki/Gameplay/Game_modifier/Relax_(lazer))*\
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Relax (lazer-Mod)](/wiki/Gameplay/Game_modifier/Relax_(lazer))
+:::
+
+::: alert-note
+**Anmerkung:** Für die vollständige Liste aller Mods, siehe [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Übersicht
 
@@ -31,7 +36,10 @@ no_native_review: true
 
 ## Beschreibung
 
-*Hinweis: Das Aktivieren der Mod Relax sorgt dafür, dass das Spiel nicht gerankt wird und nicht in der lokalen Rangliste gespeichert wird.*
+::: alert-notice
+**Hinweis**
+Das Aktivieren der Mod Relax sorgt dafür, dass das Spiel nicht gerankt wird und nicht in der lokalen Rangliste gespeichert wird.
+:::
 
 Die Mod **Relax** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die das Ziel hat, Spielern ein entspanntes Spielerlebnis zu bieten. Aufgrund ihrer Funktionalität wird die Mod typischerweise verwendet, um schwierige [Patterns](/wiki/Beatmap/Pattern) auf [Beatmaps](/wiki/Beatmap) zu analysieren/üben oder um Spielern zu ermöglichen, der Hand, die zum Tippen benutzt wird, eine Pause zu gönnen.
 

@@ -19,7 +19,9 @@ The team names (`Team Name 1` and `Team Name 2`) can be replaced with any team n
 
 ### Tournament management commands
 
-*Main page: [Tournament management commands](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)*
+::: alert-note
+**Main page:** [Tournament management commands](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+:::
 
 Make sure to assign the correct slots to the players joining the room using the `!mp move` and `!mp team` commands.
 

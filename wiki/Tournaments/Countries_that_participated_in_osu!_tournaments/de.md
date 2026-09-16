@@ -4,8 +4,13 @@ In diesem Artikel werden Länder aufgelistet, die an offiziellen Turnieren in [o
 
 [osu! World Cup 2023](/wiki/Tournaments/OWC/2023) ist der zuletzt hinzugefügte Datensatz zu dieser Seite.
 
-*Anmerkung: Es werden keine offiziellen Turniere in Betracht gezogen, die Teams erlaubt haben, welche keine Länder repräsentieren.*\
-*Anmerkung: Gemischte Länderteams (z. B. Argentinien-Kolumbien) werden nicht in Betracht gezogen.*
+::: alert-notice
+**Anmerkung:** Es werden keine offiziellen Turniere in Betracht gezogen, die Teams erlaubt haben, welche keine Länder repräsentieren.
+:::
+
+::: alert-notice
+**Anmerkung:** Gemischte Länderteams (z. B. Argentinien-Kolumbien) werden nicht in Betracht gezogen.
+:::
 
 ## Ranglisten
 

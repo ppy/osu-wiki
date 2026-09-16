@@ -14,7 +14,9 @@ tags:
 
 # Alternado
 
-*No debe confundirse con [Double tapping](/wiki/Gameplay/Play_style/Double_tapping).*
+::: alert-note
+**Nota:** No debe confundirse con [Double tapping](/wiki/Gameplay/Play_style/Double_tapping).
+:::
 
 El **alternando** es un estilo de presionar las teclas para [osu!](/wiki/Game_mode/osu!) en el que los jugadores hacen clic en círculos, deslizan sliders y giran spinners alternando entre dos teclas configuradas en su teclado (`Z` y ` X` de forma predeterminada) cada dos [objetos](/wiki/Gameplay/Hit_object) más o menos. De ahí el nombre. Este estilo es más común entre los jugadores más experimentados y es uno de los más difíciles de adaptar.
 

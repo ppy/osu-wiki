@@ -2,7 +2,9 @@
 
 ![Ein Screenshot des Compose-Tabs des Editors, der die Beatmap Donor Song von pishifat zeigt](img/compose-DE.jpg)
 
-*Für Kürzel im Beatmap-Editor, siehe: [Tastenkürzel § Beatmap-Editor](/wiki/Client/Keyboard_shortcuts#beatmap-editor)*
+::: alert-note
+**Anmerkung:** Für Kürzel im Beatmap-Editor, siehe [Tastenkürzel § Beatmap-Editor](/wiki/Client/Keyboard_shortcuts#beatmap-editor)
+:::
 
 Der **Beatmap-Editor** ist die graphische Benutzeroberfläche in osu!, mit der [Beatmaps](/wiki/Beatmap) erstellt werden. Das Erstellen von Beatmaps für osu! nennt sich [Beatmapping](/wiki/Beatmapping).
 

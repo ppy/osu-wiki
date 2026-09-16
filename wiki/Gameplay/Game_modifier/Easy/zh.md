@@ -7,6 +7,8 @@ tags:
   - game modifier
   - 模组
   - 游戏模组
+outdated_translation: true
+outdated_since: 6f8002d584fe1170d5671e311cafb03daf702f31
 ---
 
 # Easy（模组）
@@ -14,7 +16,10 @@ tags:
 ![EZ 模组图标](/wiki/shared/mods/EZ.png "Easy (EZ) 模组图标")
 
 *对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Easy（lazer 模组）](/wiki/Gameplay/Game_modifier/Easy_(lazer))*\
-*对于更多义项，参见：[Easy（消歧义）](/wiki/Disambiguation/Easy)*\
+::: alert-note
+**备注：** 对于更多义项，参见[Easy（消歧义）](/wiki/Disambiguation/Easy)
+:::
+
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
 ## 关于

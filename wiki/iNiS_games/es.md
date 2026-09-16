@@ -18,7 +18,9 @@ tags:
 
 # Juegos de iNiS
 
-*Véase también: [osu! (desambiguación)](/wiki/Disambiguation/osu!)*
+::: alert-note
+**Véase también:** [osu! (desambiguación)](/wiki/Disambiguation/osu!)
+:::
 
 El [modo de juego](/wiki/Game_mode) [osu!](/wiki/Game_mode/osu!) y osu! en sí se basaron originalmente en juegos de ritmo desarrollados por **[iNiS](https://es.wikipedia.org/wiki/INiS)** para la [Nintendo DS](https://es.wikipedia.org/wiki/Nintendo_DS) a principios de la década de los 2000. ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) creó osu! como un simulador y editor de niveles para los juegos de iNiS, y los primeros miembros de la comunidad también eran fanáticos de ellos. Los [beatmaps](/wiki/Beatmap) más antiguos estaban fuertemente influenciados por el diseño de los niveles de iNiS.
 

@@ -68,7 +68,10 @@ The osu!mania South East Asia Champion 2020 was run by various community members
 
 ## Participants
 
-*Note: Global ranks were recorded at the end of registration.*
+::: alert-notice
+**Notice**
+Global ranks were recorded at the end of registration.
+:::
 
 | Global rank | Player |
 | --: | :-- |

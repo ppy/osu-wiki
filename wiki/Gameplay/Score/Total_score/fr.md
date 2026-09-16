@@ -4,7 +4,9 @@ no_native_review: true
 
 # Score total
 
-*Pour d'autres utilisations, voir [Score (désambiguïsation)](/wiki/Disambiguation/Score).*
+::: alert-note
+**Remarque** : Pour d'autres utilisations, voir [Score (désambiguïsation)](/wiki/Disambiguation/Score).
+:::
 
 Le **score total** est la somme de tout les scores sur des beatmaps classées et/ou approuvées, réussis ou non.
 

@@ -9,7 +9,9 @@ tags:
 
 # Kiai time
 
-*Para las regulaciones sobre el kiai time, véase: [Criterios de clasificación](/wiki/Ranking_criteria)*
+::: alert-note
+**Nota:** Para las regulaciones sobre el kiai time, véase [Criterios de clasificación](/wiki/Ranking_criteria)
+:::
 
 ::: Infobox
 ![](img/kiai-time-osu-gameplay.png "Fuentes al comienzo de una sección kiai de un beatmap de osu!")

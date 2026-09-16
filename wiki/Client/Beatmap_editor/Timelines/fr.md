@@ -4,7 +4,9 @@ Dans l'[éditeur de beatmap](/wiki/Client/Beatmap_editor), il existe trois timel
 
 ## Raccourcis
 
-*Pour une liste de raccourcis clavier pour la timeline, voir : [Référence des raccourcis clavier](/wiki/Client/Keyboard_shortcuts)*
+::: alert-note
+**Remarque** : Pour une liste de raccourcis clavier pour la timeline, voir [Référence des raccourcis clavier](/wiki/Client/Keyboard_shortcuts)
+:::
 
 ## Lecteur de morceaux
 

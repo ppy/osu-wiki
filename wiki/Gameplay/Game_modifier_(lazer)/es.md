@@ -15,20 +15,27 @@ tags:
   - lista de mods
   - preajustes personales
   - personalizar
+outdated_translation: true
+outdated_since: 7948b9f2ca3fe3533b6727d65cb9d514b5c82db7
 ---
 
 # Modificadores del juego (lazer)
 
-*Para la versión de osu!stable de este artículo, véase: [Modificadores del juego](/wiki/Gameplay/Game_modifier)*\
-*Para otros usos de «mod», véase: [Mod (desambiguación)](/wiki/Disambiguation/Mod)*
+::: alert-note
+**Nota:** Para la versión de osu!stable de este artículo, véase [Modificadores del juego](/wiki/Gameplay/Game_modifier)
+:::
+
+::: alert-note
+**Nota:** Para otros usos de «mod», véase [Mod (desambiguación)](/wiki/Disambiguation/Mod)
+:::
 
 ![](img/mod-select-ES.png "El selector de mods para el modo de juego osu!")
 
-Los mods se dividen en cinco categorías: `Reducción de dificultad`, `Aumento de dificultad`, `Automatización`, `Conversión` y `Diversión`. Pueden reducir o aumentar el multiplicador de puntuación. Cuando se usan dos mods simultáneamente, los multiplicadores respectivos de los mods se multiplicarán juntos (por ejemplo, 1,06x * 1,12x = 1,1872x).
+Los **modificadores de juego**, o **mods**, se dividen en seis categorías: `Reducción de dificultad`, `Aumento de dificultad`, `Automatización`, `Conversión`, `Diversión` y `Sistema`. Algunos de ellos pueden reducir o aumentar el multiplicador de puntuación. Cuando se usan varios mods a la vez, sus respectivos multiplicadores se multiplicarán entre sí (por ejemplo, `1,06x * 1,12x = 1,1872x`). Los mods de la categoría `Sistema` se aplican automáticamente cuando es necesario.
 
 ## Lista de mods
 
-Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de juego compatibles (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) al lado.
+Junto a cada uno de los mods que se enumeran a continuación aparecen los iconos de los [modos de juego](/wiki/Game_mode) con los que son compatibles: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania].
 
 ### Reducción de dificultad
 
@@ -48,12 +55,12 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 - [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) ![][osu!mania]
 - [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) ![][osu!]
 - [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover) ![][osu!mania]
 - [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) ![][osu!]
 - [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) ![][osu!]
 - [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) ![][osu!]
 
 ### Automatización
 
@@ -67,7 +74,7 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 
 - [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) ![][osu!]
 - [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) ![][osu!] ![][osu!taiko]
+- [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) ![][osu!] ![][osu!taiko] ![][osu!mania]
 - [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!mania]
 - [Dual Stages (DS)](/wiki/Gameplay/Game_modifier/Dual_Stages) ![][osu!mania]
 - [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror_(lazer)) ![][osu!] ![][osu!catch] ![][osu!mania]
@@ -99,22 +106,18 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 - [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) ![][osu!]
 - [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) ![][osu!]
 - [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) ![][osu!catch]
-- [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Synesthesia) ![][osu!]
+- [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Synesthesia) ![][osu!] ![][osu!catch]
 - [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) ![][osu!]
 - [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) ![][osu!]
 
 ### Sistema
 
-- [Score V2 (SV2)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) ![][osu!]
+- [Score V2 (SV2)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-#### Preajustes personales
+### Preajustes personales
 
-Los **preajustes personales** se encuentran en una categoría propia, que te permite guardar cualquier combinación de mods directamente en ella. Puedes ponerles el nombre que quieras o añadirles una descripción extra. Cada preajuste personal es único en su modo de juego.
-
-#### Personalizar
-
-Al igual que el mod Difficulty Adjust (DA), los ajustes preconfigurados de **Personalizar** garantizan una experiencia de juego personalizable basada en los mods que hayas elegido. Cualquier cambio en estos ajustes hará que tu puntuación deje de ser clasificable.
+Los **preajustes personales** se encuentran en una categoría independiente (a la izquierda de **Reducción de dificultad**) y permiten a los jugadores guardar cualquier combinación de mods directamente en ella. A cada preajuste personal hay que asignarle un nombre y, si se desea, una descripción. Cada modo de juego tiene una lista independiente de preajustes personales.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -11,7 +11,9 @@ tags:
 
 # Dificultad de invitado
 
-*Para conocer las regulaciones relacionadas con las dificultades de invitado, véase: [Criterios de clasificación](/wiki/Ranking_criteria)*
+::: alert-note
+**Nota:** Para conocer las regulaciones relacionadas con las dificultades de invitado, véase [Criterios de clasificación](/wiki/Ranking_criteria)
+:::
 
 Una **dificultad de invitado**, o *GD* para abreviar, es una [dificultad](/wiki/Beatmap/Difficulty) de un [beatmap](/wiki/Beatmap) que no es creada por el [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host). Por lo general, se puede identificar por su nombre de dificultad que contiene el nombre de usuario del mapper invitado.
 

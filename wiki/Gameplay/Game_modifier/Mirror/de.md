@@ -12,8 +12,13 @@ no_native_review: true
 
 ![MR Modsymbol](/wiki/shared/mods/MR.png "Mirror (MR) Modsymbol")
 
-*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Mirror (lazer-Mod)](/wiki/Gameplay/Game_modifier/Mirror_(lazer))*\
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Anmerkung:** Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe [Mirror (lazer-Mod)](/wiki/Gameplay/Game_modifier/Mirror_(lazer))
+:::
+
+::: alert-note
+**Anmerkung:** Für die vollständige Liste aller Mods, siehe [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+:::
 
 ## Übersicht
 

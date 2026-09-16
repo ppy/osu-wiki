@@ -4,7 +4,9 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/2026, also, could 
 
 # osu!taiko scoring system
 
-*See also: [osu!taiko judgement system](/wiki/Gameplay/Judgement/osu!taiko)*
+::: alert-note
+**See also:** [osu!taiko judgement system](/wiki/Gameplay/Judgement/osu!taiko)
+:::
 
 Each GREAT (excluding Kiai Time's 1.2x bonus) is worth `300 + RoundDown(Combo / 10)` times `n` up to a maximum of `300+10n` points, in which `n` depends on the difficulty rating of the song.
 

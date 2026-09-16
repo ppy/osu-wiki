@@ -15,7 +15,9 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ![Icône du mod RL](/wiki/shared/mods/RL.png "Icône du mod Relax (RL)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
 
 ## À propos
 
@@ -31,7 +33,10 @@ outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 
 ## Description
 
-*Attention : Si vous activez le mod Relax, le jeu ne sera pas classé et ne sera pas enregistré dans les classements locaux.*
+::: alert-caution
+**Attention**
+Si vous activez le mod Relax, le jeu ne sera pas classé et ne sera pas enregistré dans les classements locaux.
+:::
 
 Le mod **Relax** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) qui vise à permettre une expérience relaxante aux joueurs. En raison de sa nature, le mod est généralement utilisé pour analyser/pratiquer des [patterns](/wiki/Beatmap/Pattern) difficiles sur des [beatmaps](/wiki/Beatmap), ou lorsque les joueurs veulent laisser leurs mains se reposer.
 

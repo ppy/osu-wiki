@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 37adfc5ef491f9709016f0c4263911d301b0304f
+---
+
 # Submisi Beatmap
 
 [Beatmap](/wiki/Beatmap) dapat diunggah ke situs osu! melalui [in-game editor](/wiki/Client/Beatmap_editor). Mengunggah sebuah beatmap memberikan sebuah perhatian kepada pengguna lain dan berpotensi dapat mengikuti kategori [Ranked](/wiki/Beatmap/Category#ranked) atau [Loved](/wiki/Beatmap/Category#loved).

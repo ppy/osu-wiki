@@ -4,7 +4,9 @@ Bienvenido al tutorial para principiantes de osu!. El mundo de osu! puede ser a 
 
 ## Tipos de entrada
 
-*Página principal: [Estilos de juego](/wiki/Gameplay/Play_style)*
+::: alert-note
+**Página principal:** [Estilos de juego](/wiki/Gameplay/Play_style)
+:::
 
 De forma predeterminada, muchos jugadores empezarán con el ratón, ya que suele ser la herramienta disponible más común para apuntar. Pero en realidad hay múltiples tipos de entrada para controlar el cursor y hacer estallar los círculos:
 
@@ -84,7 +86,9 @@ No tengas miedo de practicar algo que siempre te hace fallar por una razón u ot
 
 ### Compensación global
 
-*Página principal: [Cómo usar el asistente de compensación](/wiki/Guides/How_to_use_the_Offset_Wizard)*
+::: alert-note
+**Página principal:** [Cómo usar el asistente de compensación](/wiki/Guides/How_to_use_the_Offset_Wizard)
+:::
 
 Dependiendo de los dispositivos que uses para jugar a osu!, puede que los círculos no sigan el ritmo de la música. Para corregir esto, puedes cambiar el valor de la compensación global en las [opciones](/wiki/Client/Options). La compensación global cambiará cuando la primera nota aparezca en los beatmaps (antes o después de lo predeterminado), lo que a su vez retrasará el resto de las notas en la misma cantidad. Un valor negativo en la compensación hará que las notas aparezcan ligeramente más tarde, y un valor positivo hará que aparezcan antes.
 
@@ -96,13 +100,17 @@ Ajusta la compensación global hasta que estés satisfecho. ¡Obtener el valor c
 
 ### Puntero directo
 
-*Véase también: [Opciones](/wiki/Client/Options#ratón)*
+::: alert-note
+**Véase también:** [Opciones](/wiki/Client/Options#ratón)
+:::
 
 Una función del juego que se suele pasar por alto es la del puntero directo. Esto permite la lectura directa de tu dispositivo de entrada en osu!. También puedes usar esto si no te gusta cómo Windows maneja el cursor del ratón, o especialmente recomendado si usas una tableta. Pruébalo y juega unos cuantos mapas con él, ¡puede que te sientas mucho más cómodo!
 
 ### Skins
 
-*Véase también: [Skinning](/wiki/Skinning)*
+::: alert-note
+**Véase también:** [Skinning](/wiki/Skinning)
+:::
 
 Hay muchísimas skins para elegir; puedes encontrarlas en los foros, enlazadas en el chat, ¡o incluso preguntando a los demás usuarios! Aunque no mejorarán tu juego, pueden ayudarte a motivarte o hacer que jugar a osu! sea más agradable a la vista. O, si prefieres no tener mucho del HUD de osu! bloqueando la pantalla, podrías encontrar una skin con un diseño minimalista. Incluso puedes encontrar skins formadas por [los profesionales](https://osu.ppy.sh/community/forums/topics/87675) y ver qué hace que esas skins sean más exitosas. Algunas skins se crearon para facilitar la visión, mientras que otras son extravagantes y están pensadas solo para divertirse. Es otra forma de disfrutar más de osu! y de hacer que tu experiencia mientras subes de rango sea un poco más agradable. ;)
 

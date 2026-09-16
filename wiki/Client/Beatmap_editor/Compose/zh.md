@@ -121,7 +121,9 @@ osu!、osu!taiko、osu!catch 使用的编辑器工具是相同的，而 osu!mani
 
 ### 节拍细分
 
-*主页面：[节拍细分](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+::: alert-note
+**主文章：** [节拍细分](/wiki/Client/Beatmap_editor/Beat_snap_divisor)
+:::
 
 ![](img/beat-snap-divisor-mania.jpg "osu!mania 谱面编辑器中的节拍细分设置")
 

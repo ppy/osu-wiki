@@ -116,7 +116,9 @@ Para empezar, descarga e instala [Audacity](https://www.audacityteam.org/), lueg
 
 ### Usar FFmpeg
 
-*Para obtener instrucciones sobre la instalación de FFmpeg, véase: [Vídeo/Usar FFmpeg](#usar-ffmpeg)*
+::: alert-note
+**Nota:** Para obtener instrucciones sobre la instalación de FFmpeg, véase [Vídeo/Usar FFmpeg](#usar-ffmpeg)
+:::
 
 Después de instalar FFmpeg, abre un terminal y usa uno de los siguientes comandos.
 

@@ -25,7 +25,10 @@ A lo largo de los años, se usaron tres sistemas diferentes para clasificar a lo
 
 Debido a esto, esta lista solo incluye a los jugadores que han alcanzado el puesto #1 en la tabla de clasificación principal que se usaba en ese momento. Las fechas y los números en *cursiva* indican que el jugador correspondiente continúa su reinado como puesto #1 de osu!catch, ya sea desde el año anterior o hasta el año siguiente.
 
-*Nota: osu!catch recibió un reinicio completo de la clasificación global el 7 de diciembre de 2008, por lo que las puntuaciones anteriores a esta fecha no están disponibles.*
+::: alert-notice
+**Aviso**
+osu!catch recibió un reinicio completo de la clasificación global el 7 de diciembre de 2008, por lo que las puntuaciones anteriores a esta fecha no están disponibles.
+:::
 
 ## 2014
 
@@ -134,15 +137,16 @@ Debido a esto, esta lista solo incluye a los jugadores que han alcanzado el pues
 | --: | :-- | :-- | :-- |
 | ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | *6/12/2025* | 26/1/2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1pfaytk/story_reaches_rank_1_in_ctb_again_after_5_years/) |
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 26/1/2026 | 1/7/2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1qn42wu/qwhj79_reaches_rank_1_in_ctb_once_again_he_played/) |
-| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 1/7/2026 | Presente | [\[1\]](https://www.reddit.com/r/osugame/comments/1ukbvpu/story_has_once_again_became_1_surpassing_qwhj79/) |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 1/7/2026 | 21/7/2026 | [\[1\]](https://www.reddit.com/r/osugame/comments/1ukbvpu/story_has_once_again_became_1_surpassing_qwhj79/) |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 21/7/2026 | Presente | [\[1\]](https://web.archive.org/web/20260721170106/https://osu.ppy.sh/rankings/fruits/global/performance) [\[2\]](https://www.reddit.com/r/osugame/comments/1v25lkm/motion_returns_to_1_in_ctb/) |
 
 ## Número de reinados
 
-Lo siguiente es una lista del número total de veces que un jugador ha alcanzado el puesto #1 en su tiempo de juego (al 1 de julio de 2026).
+Lo siguiente es una lista del número total de veces que un jugador ha alcanzado el puesto #1 en su tiempo de juego (al 21 de julio de 2026).
 
 | Jugador | Reinado |
 | --: | :-: |
-| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 9 |
+| ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626) | 10 |
 | ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) | 6 |
 | ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506) | 6 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 4 |
@@ -153,9 +157,12 @@ Lo siguiente es una lista del número total de veces que un jugador ha alcanzado
 
 ## Reinados combinados más largos
 
-*Nota: El reinado actual del puesto #1 está excluido.*
+::: alert-notice
+**Aviso**
+El reinado actual del puesto #1 está excluido.
+:::
 
-Lo siguiente es una lista del número total de días que un jugador ha ocupado el puesto #1 (al 1 de julio de 2026).
+Lo siguiente es una lista del número total de días que un jugador ha ocupado el puesto #1 (al 21 de julio de 2026).
 
 | Jugador | Duración (días) |
 | --: | :-: |
@@ -166,13 +173,16 @@ Lo siguiente es una lista del número total de días que un jugador ha ocupado e
 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | 382 |
 | ::{ flag=RU }:: [skvix](https://osu.ppy.sh/users/4447639) | 357 |
 | ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988) | 203 |
-| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 51 |
+| ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283) | 71 |
 
 ## Reinados individuales más largos
 
-*Nota: Solo se incluyen los reinados de más de 100 días. El actual reinado del puesto #1 está excluido.*
+::: alert-notice
+**Aviso**
+Solo se incluyen los reinados de más de 100 días. El actual reinado del puesto #1 está excluido.
+:::
 
-Lo siguiente es una lista de los días consecutivos más largos que un jugador ha ocupado el puesto #1 (al 1 de julio de 2026).
+Lo siguiente es una lista de los días consecutivos más largos que un jugador ha ocupado el puesto #1 (al 21 de julio de 2026).
 
 | Jugador | Desde | Hasta | Duración del reinado (días) |
 | --: | :-- | :-- | :-: |

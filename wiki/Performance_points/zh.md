@@ -40,7 +40,9 @@
 
 ### 精确 (Accuracy)
 
-*参见：[准确率](/wiki/Gameplay/Accuracy)*
+::: alert-note
+**参见：** [准确率](/wiki/Gameplay/Accuracy)
+:::
 
 *精确 (Accuracy)* 是衡量玩家在[打击物件](/wiki/Gameplay/Hit_object)出现时，准时击打能力的指标，通常描述为一个百分值。这在衡量玩家的表现分算法里，也是一项比较重要的指标。
 

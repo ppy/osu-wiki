@@ -11,3 +11,4 @@ Index page for all of the GB Cup series.
 - [GB Cup 2024 Autumn](GBC_2024_Autumn)
 - [GB Cup 2025 Spring](GBC_2025_Spring)
 - [GB Cup 2025 Autumn](GBC_2025_Autumn)
+- [GB Cup 2026 IRL](GBC_2026_IRL)

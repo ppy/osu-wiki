@@ -51,7 +51,10 @@ The Royal Danish osu!Cup 2016 was run by various community members.
 
 ## Participants
 
-*Note: This is an incomplete list, as all records before Round of 16 have been lost to time.*
+::: alert-notice
+**Notice**
+This is an incomplete list, as all records before Round of 16 have been lost to time.
+:::
 
 - ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653)
 - ::{ flag=DK }:: [Zog](https://osu.ppy.sh/users/3722715)

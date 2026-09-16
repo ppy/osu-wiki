@@ -22,7 +22,9 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 
 ### 2019
 
-*Para la publicación de la noticia, véase: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)
+:::
 
 | Nombre | Modo de juego | Premio |
 | :-- | :-: | :-: |
@@ -40,7 +42,9 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 
 ### 2020
 
-*Para la publicación de la noticia, véase: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)
+:::
 
 | Nombre | Modo de juego | Premio |
 | :-- | :-: | :-: |
@@ -58,7 +62,9 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 
 ### 2021
 
-*Para la publicación de la noticia, véase: [Community Contributors 2021: Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors 2021: Elite Nominators](https://osu.ppy.sh/home/news/2022-03-22-community-contributors-elite-nominators)
+:::
 
 | Nombre | Modo de juego | Premio |
 | :-- | :-: | :-: |
@@ -81,7 +87,9 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 
 ### 2022
 
-*Para la publicación de la noticia, véase: [Community Contributors 2022: Elite Nominators](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors 2022: Elite Nominators](https://osu.ppy.sh/home/news/2023-02-17-community-contributors-elite-nominators-2022)
+:::
 
 | Nombre | Modo de juego | Premio |
 | :-- | :-: | :-: |
@@ -102,7 +110,9 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 
 ### 2023
 
-*Para la publicación de la noticia, véase: [Community Contributors 2023: Elite Nominators](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors 2023: Elite Nominators](https://osu.ppy.sh/home/news/2024-02-28-community-contributors-elite-nominators-2023)
+:::
 
 | Nombre | Modo de juego | Premio |
 | :-- | :-: | :-: |
@@ -125,7 +135,9 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 
 ### 2024
 
-*Para la publicación de la noticia, véase: [Community Contributors 2024: Elite Nominators](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors 2024: Elite Nominators](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024)
+:::
 
 | Nombre | Modo de juego | Premio |
 | :-- | :-: | :-: |
@@ -149,7 +161,9 @@ A partir del [7 de febrero de 2020](https://osu.ppy.sh/home/news/2020-02-07-comm
 
 ### 2025
 
-*Para la publicación de la noticia, véase: [Community Contributors 2025: Elite Nominators](https://osu.ppy.sh/home/news/2026-05-01-elite-nominators-2025)*
+::: alert-note
+**Nota:** Para la publicación de la noticia, véase [Community Contributors 2025: Elite Nominators](https://osu.ppy.sh/home/news/2026-05-01-elite-nominators-2025)
+:::
 
 | Nombre | Modo de juego | Premio |
 | :-- | :-: | :-: |

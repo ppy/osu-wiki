@@ -10,7 +10,9 @@ tags:
 
 # BanchoBot
 
-*Für andere Bedeutungen, siehe [Bancho (Begriffsabgrenzung)](/wiki/Disambiguation/Bancho).*
+::: alert-note
+**Anmerkung:** [Bancho (Begriffsabgrenzung)](/wiki/Disambiguation/Bancho).
+:::
 
 ![BanchoBots Benutzerkarte](img/BanchoBot.jpg "BanchoBots Benutzerkarte")
 
@@ -20,7 +22,9 @@ BanchoBot hat auch sein eigenes [osu!-Profil](https://osu.ppy.sh/users/3) und [T
 
 ## Befehle
 
-*Für eine Liste der Client-Befehle im Spiel, siehe: [Chat-Konsole](/wiki/Client/Interface/Chat_console#liste-an-chatbefehlen)*
+::: alert-note
+**Anmerkung:** Für eine Liste der Client-Befehle im Spiel, siehe [Chat-Konsole](/wiki/Client/Interface/Chat_console#liste-an-chatbefehlen)
+:::
 
 BanchoBot kann durch spezifisch getippte Nachrichten im Chat auf Spielerbefehle reagieren. Alle BanchoBot-Befehle beginnen mit einem Ausrufezeichen (`!`), gefolgt von dem Namen des Befehls (ohne Leerzeichen dazwischen). Diese Befehle können in Chat-Kanälen und in privaten Nachrichten mit BanchoBot verwendet werden.
 
@@ -56,7 +60,10 @@ Eine Liste aller BanchoBot-Befehle befindet sich unten:
 
 <!--note for editors: the code block above reflects the exact response from banchobot -->
 
-*Hinweis: Der Befehl `!request` wird von BanchoBot nicht mehr unterstützt.*
+::: alert-notice
+**Hinweis**
+Der Befehl `!request` wird von BanchoBot nicht mehr unterstützt.
+:::
 
 ### Roll
 
@@ -139,7 +146,9 @@ Es gibt insgesamt 7 Status, die mit dem Befehl `!stats` angezeigt werden können
 
 ### Report
 
-*Für Informationen darüber, was gemeldet werden soll, siehe: [Schlechtes Verhalten melden](/wiki/Reporting_bad_behaviour).*
+::: alert-note
+**Anmerkung:** Für Informationen darüber, was gemeldet werden soll, siehe [Schlechtes Verhalten melden](/wiki/Reporting_bad_behaviour).
+:::
 
 ```
 !report <Benutzer> <Grund>

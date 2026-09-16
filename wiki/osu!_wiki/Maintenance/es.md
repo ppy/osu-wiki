@@ -1,12 +1,16 @@
 # Mantenimiento de la osu! wiki
 
-*Véase también: [Guía de contribución de la osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
+::: alert-note
+**Véase también:** [Guía de contribución de la osu! wiki](/wiki/osu!_wiki/Contribution_guide)
+:::
 
 Este artículo describe aspectos técnicos o administrativos de la osu! wiki. También cubre los procedimientos de mantenimiento, que son necesarios para mantenerlo fresco, tal vez puedas ayudar con [uno de ellos](#rutinas). Para todas las discusiones relacionadas con la wiki, usa el canal `#osu-wiki` en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!).
 
 ## Administradores
 
-*Página principal: [Lista de mantenedores de la osu! wiki](/wiki/People/osu!_wiki_maintainers)*
+::: alert-note
+**Página principal:** [Lista de mantenedores de la osu! wiki](/wiki/People/osu!_wiki_maintainers)
+:::
 
 Los administradores son personas con [acceso de colaborador](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) al [repositorio `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), donde se almacenan todos los artículos y publicaciones de noticias. Pueden clasificar y etiquetar problemas, administrar solicitudes de cambios abiertas y tomar decisiones con respecto al presente y futuro de la osu! wiki.
 
@@ -95,7 +99,9 @@ Creador de osu!.
 
 ##### Comprobación de enlaces de la wiki
 
-*Véase también: [Criterios de estilo para artículos/Formato § Enlaces de la wiki](/wiki/Article_styling_criteria/Formatting#enlaces-de-la-wiki)*
+::: alert-note
+**Véase también:** [Criterios de estilo para artículos/Formato § Enlaces de la wiki](/wiki/Article_styling_criteria/Formatting#enlaces-de-la-wiki)
+:::
 
 Se alienta a los contribuidores a corregir los enlaces rotos mientras actualizan los artículos. Dicho esto, para algunas situaciones, eso puede requerir más trabajo del relevante para la solicitud de cambios:
 
@@ -105,7 +111,9 @@ Se alienta a los contribuidores a corregir los enlaces rotos mientras actualizan
 
 ##### Traducciones obsoletas
 
-*Véase también: [Criterios de estilo para artículos/Formato § Traducciones obsoletas](/wiki/Article_styling_criteria/Formatting#traducciones-obsoletas) y [Criterios de estilo para artículos/Redacción § Paridad de contenido](/wiki/Article_styling_criteria/Writing#paridad-de-contenido)*
+::: alert-note
+**Véase también:** [Criterios de estilo para artículos/Formato § Traducciones obsoletas](/wiki/Article_styling_criteria/Formatting#traducciones-obsoletas) y [Criterios de estilo para artículos/Redacción § Paridad de contenido](/wiki/Article_styling_criteria/Writing#paridad-de-contenido)
+:::
 
 No es necesario marcar las traducciones como obsoletas por pequeños cambios de redacción, ajustes gramaticales y similares que no afecten al significado del artículo. En estos casos, puede omitirse el paso automático de marcar las traducciones como obsoletas.
 
@@ -136,13 +144,18 @@ Algunas características no están directamente relacionadas con el sitio web de
 
 ## Rutinas
 
-*Nota: el sitio web del [estado de la osu-wiki](https://osu.wiki/status/es) muestra una lista de todos los artículos que necesitan mantenimiento, desglosados por categoría.*
+::: alert-notice
+**Aviso**
+el sitio web del [estado de la osu-wiki](https://osu.wiki/status/es) muestra una lista de todos los artículos que necesitan mantenimiento, desglosados por categoría.
+:::
 
 La wiki depende del apoyo de la comunidad de osu!. Puedes ayudar a los mantenedores y otros contribuidores haciendo tu parte. Para obtener información sobre cómo hacerlo, lee la [guía de contribución](/wiki/osu!_wiki/Contribution_guide). Si en algún momento te sientes atascado, pide ayuda en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!).
 
 ### Traducciones
 
-*Para obtener una lista de las traducciones y su integridad, véase: [estado de la osu-wiki](https://osu.wiki/status/es)*
+::: alert-note
+**Nota:** Para obtener una lista de las traducciones y su integridad, véase [estado de la osu-wiki](https://osu.wiki/status/es)
+:::
 
 La osu! wiki es leída por personas de todo el mundo. Para ayudar a tu comunidad local y atraer nuevos increíbles jugadores, mappers, modders y desarrolladores del juego, puedes traducir artículos en inglés o actualizar las traducciones existentes que se han quedado atrás. Consulta la [lista de idiomas](/wiki/Article_styling_criteria/Formatting#configuraciones-regionales) compatibles con la osu! wiki y asegúrate de que tu traducción siga el principio de [paridad de contenido](/wiki/Article_styling_criteria/Writing#paridad-de-contenido). Si hablas con fluidez y eres un escritor experimentado, aborda temas clave como los artículos sobre las [reglas](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) o los [criterios de clasificación](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_criteria). En caso de que recién estés comenzando tu carrera como escritor, elige un artículo pequeño para recibir ayuda y orientación de revisores nativos.
 
@@ -150,7 +163,9 @@ Una traducción puede fusionarse sin una revisión nativa si ha pasado más de u
 
 ### Expansión de stubs
 
-*Para conocer el posible alcance del trabajo, véase: [Lista de stubs existentes (inglés)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
+::: alert-note
+**Nota:** Para conocer el posible alcance del trabajo, véase [Lista de stubs existentes (inglés)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)
+:::
 
 Algunos artículos de la osu! wiki están incompletos y carecen de información. Dichos artículos están marcados como *stubs*, lo que significa que son lo suficientemente importantes como para existir como páginas individuales, pero se completarán más adelante. Si estás familiarizado con el tema del artículo, contribuye y comparte tu conocimiento.
 
@@ -164,6 +179,8 @@ osu! es un entorno en constante cambio: la comunidad crea nuevos beatmaps, inven
 
 ### Actualizaciones
 
-*Para conocer el posible alcance del trabajo, véase: [Lista de TODO sin seguimiento (inglés)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
+::: alert-note
+**Nota:** Para conocer el posible alcance del trabajo, véase [Lista de TODO sin seguimiento (inglés)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)
+:::
 
 Los artículos existentes también necesitan mantenimiento. Si has encontrado un error fáctico, o faltan detalles, o si simplemente quieres reescribir/ampliar el artículo de acuerdo con la realidad, da un paso adelante y haz la osu! wiki un lugar mejor. En caso de que el cambio que planees sea lo suficientemente grande o significativo, asegúrate de mencionarlo para su discusión en el canal `#osu-wiki` o [crea un problema de seguimiento](https://github.com/ppy/osu-wiki/issues/new).

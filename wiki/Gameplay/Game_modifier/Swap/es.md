@@ -14,19 +14,25 @@ tags:
 
 ![Icono del mod Swap](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SW.png)
 
-*¡Los dons se convierten en kats, los kats se convierten en dons!*
+*Los dons se convierten en kats, los kats se convierten en dons*
 
 |  |  |
 | :-- | :-- |
 | Acrónimo | SW |
 | Tipo | Conversión |
 | Modos de juego compatibles | ![][osu!taiko] |
-| Multiplicador de puntuación | 1,00x |
-| Estado | No clasificado |
+| Multiplicador de puntuación | `1,00x` |
+| Estado | Clasificado |
 | Mods incompatibles | [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)) |
 
 :::
 
-*Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase: [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
+
+El mod **Swap** intercambia todos los [dons](/wiki/Gameplay/Hit_object/Hit) y [kats](/wiki/Gameplay/Hit_object/Hit) de un [beatmap](/wiki/Beatmap). Los [redobles de tambor](/wiki/Gameplay/Hit_object/Drumroll) y los [swells](/wiki/Gameplay/Hit_object/Swell) no se ven afectados.
+
+**Este mod no se puede personalizar.**
 
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -1,6 +1,8 @@
 # Tumblr
 
-*Siehe auch: [Twitter](/wiki/Twitter) und [Discord-Server](/wiki/Community/Discord_servers)*
+::: alert-note
+**Siehe auch:** [Twitter](/wiki/Twitter) und [Discord-Server](/wiki/Community/Discord_servers)
+:::
 
 In diesem Artikel werden alle Blogs auf [Tumblr](https://tumblr.com/) aufgelistet, die osu! verwendet, um den Spielbetrieb und die Kommunikation mit der Community zu unterstützen.
 

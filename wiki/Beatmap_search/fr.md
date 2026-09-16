@@ -17,7 +17,9 @@ outdated_since: 905340ee700a7e6885a56dffdced959df02686f1
 
 # Recherche des beatmaps
 
-*Voir également : [Beatmap § Télécharger des beatmaps](/wiki/Beatmap#télécharger-les-beatmaps)*
+::: alert-note
+**Voir également** : [Beatmap § Télécharger des beatmaps](/wiki/Beatmap#télécharger-les-beatmaps)
+:::
 
 Par défaut, tout texte saisi à [l'écran de sélection des musiques](/wiki/Client/Interface#sélection-de-la-musique) ou dans le champ de recherche du site web est comparé à l'artiste, au titre, au créateur et au nom de la difficulté, à la source et aux tags d'une beatmap. La saisie d'un seul chiffre permet de rechercher les beatmaps et les difficultés ayant un [identifiant](/wiki/Beatmap#identification) spécifique. Toutes les requêtes sont insensibles à la casse.
 
@@ -36,7 +38,10 @@ Les champs de métadonnées des beatmap peuvent être comparés à des valeurs s
 
 ## Client
 
-*Remarque : les filtres ne fonctionnent qu'à l'écran de sélection des musiques, alors [qu'osu!direct](/wiki/osu!supporter#osu!direct) prend en charge la recherche en texte intégral uniquement.*
+::: alert-notice
+**Note**
+les filtres ne fonctionnent qu'à l'écran de sélection des musiques, alors [qu'osu!direct](/wiki/osu!supporter#osu!direct) prend en charge la recherche en texte intégral uniquement.
+:::
 
 | Filtre | Description |
 | :-- | :-- |

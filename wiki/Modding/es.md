@@ -1,6 +1,8 @@
 # Modding
 
-*Para otros usos, véase [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
+::: alert-note
+**Nota:** [Mod (desambiguación)](/wiki/Disambiguation/Mod).
+:::
 
 El **modding** es el acto de dar comentarios sobre el [beatmap](/wiki/Beatmap) de otro usuario. Un usuario que modea es conocido como un *modder*, y sus mensajes colectivos en la discusión de un beatmap son conocidos como *mods*.
 

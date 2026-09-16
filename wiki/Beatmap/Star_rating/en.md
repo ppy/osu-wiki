@@ -11,7 +11,9 @@ tags:
 
 ## Difficulty
 
-*Main page: [Difficulty](/wiki/Beatmap/Difficulty)*
+::: alert-note
+**Main page:** [Difficulty](/wiki/Beatmap/Difficulty)
+:::
 
 As of 27 July 2021, the osu! website automatically assigns a beatmap's difficulty rating colour based on their star rating according to the following spectrum:
 

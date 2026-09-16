@@ -21,14 +21,19 @@ tags:
 | 缩写 | SV2 |
 | 类别 | 系统 |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 | 1.00x |
+| 得分系数 | `1.00x` |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | 无 |
 
 :::
 
-*对于该文章的 osu!stable 版本，请见：[ScoreV2（模组）](/wiki/Gameplay/Game_modifier/ScoreV2)*\
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于该文章的 osu!(stable) 版本，请见 [ScoreV2 (模组)](/wiki/Gameplay/Game_modifier/ScoreV2)
+:::
+
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
 **Score V2** 模组标志着分数在 osu!(stable) 获得，且使用了 [ScoreV2](/wiki/Gameplay/Score#scorev2) 游戏机制与计分算法。[^score-v2-ref] 带有该模组的分数会显示其原始分数值，而对于其他在 osu!(stable) 中获得的分数，则会使用新版计分算法重新计算。[^original-score-ref]
 

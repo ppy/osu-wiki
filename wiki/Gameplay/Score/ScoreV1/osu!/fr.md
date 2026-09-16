@@ -1,6 +1,8 @@
 # ScoreV1 (osu!)
 
-*Voir également : [système de jugement d'osu!](/wiki/Gameplay/Judgement/osu!)*
+::: alert-note
+**Voir également** : [système de jugement d'osu!](/wiki/Gameplay/Judgement/osu!)
+:::
 
 En **ScoreV1**, chacun des types d'objets d'osu! est noté de manière légèrement différente. Cependant, le score total est une simple somme des points attribués pour chaque objet individuel dans la beatmap.
 

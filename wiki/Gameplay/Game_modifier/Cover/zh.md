@@ -22,23 +22,27 @@ tags:
 | 类别 | 增加难度 |
 | 默认快捷键 | `K` |
 | 游戏模式 | ![][osu!mania] |
-| 得分系数 | 1.00x |
-| 状态 | 不计入排名 |
+| 得分系数 | `1.00x` |
+| 状态 | 计入排名 |
 | 不兼容的模组 | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
 
-*对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
+::: alert-note
+**注:** 对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+:::
 
-与 [Fade In](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) 和 [Hidden](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 模组类似，**Cover** 模组会隐藏部分游玩区域，但支持自定义隐藏区域的大小。
+与 [Fade In](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) 和 [Hidden](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 模组类似，**Cover** 模组会隐藏部分[游戏区域](/wiki/Client/Playfield)，但支持自定义隐藏区域的大小。
 
 ## 自定义
 
 ![游戏客户端中 Cover 模组的自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/CO.png)
 
-- **覆盖率**（0.2-0.8，默认为 0.5）：游玩区域中隐藏物件区域的高度占比。
-- **方向**（默认：顺着滚动方向）：应用遮挡的方向。
-  - **顺着滚动方向**；从上方遮挡游玩区域。
-  - **逆着滚动方向**：从下方遮挡游玩区域。
+- `覆盖率 (Coverage)` (0.2-0.8，默认为 0.5): 游玩区域中隐藏物件区域的高度占比。
+- `方向 (Direction)` (默认：顺着滚动方向): 应用遮挡的方向。
+  - `顺着滚动方向 (Along scroll)`: 遮挡方式与 [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) 模组相同。
+  - `逆着滚动方向 (Against scroll)`: 遮挡方式与 [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) 模组相同。
+
+以上设置任意组合均不会影响分数计入表现分。
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9b78bd52e4862b87d9cc5fbe815982492a13eff3
+---
+
 # Collaboratori della community
 
 ::: Infobox

@@ -12,7 +12,9 @@ tags:
 
 ![Icône du mod NV](/wiki/shared/mods/NV.png "Icône du mod No Video (NV)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*
+::: alert-note
+**Remarque** : Pour la liste complète de tous les mods, voir [modificateurs de jeu](/wiki/Gameplay/Game_modifier)
+:::
 
 ## À propos
 

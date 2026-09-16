@@ -10,7 +10,9 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 
 # Ranking
 
-*Pour d'autres utilisations, voir [Rank (désambiguïsation)](/wiki/Disambiguation/Rank).*
+::: alert-note
+**Remarque** : Pour d'autres utilisations, voir [Rank (désambiguïsation)](/wiki/Disambiguation/Rank).
+:::
 
 Le **ranking** (alternativement appelé "leaderboards") est une liste qui classe les membres de la communauté d'osu! selon certains critères.
 

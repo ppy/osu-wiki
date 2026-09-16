@@ -11,7 +11,9 @@ no_native_review: true
 
 # Offizielle Unterstützung für Mapping-Wettbewerbe
 
-*Für Turnierunterstützung, siehe: [Offizielle Turnierunterstützung](/wiki/Tournaments/Official_support).*
+::: alert-note
+**Anmerkung:** Für Turnierunterstützung, siehe [Offizielle Turnierunterstützung](/wiki/Tournaments/Official_support).
+:::
 
 [Beatmapping-Wettbewerbe](/wiki/Contests) können bei der Erfüllung bestimmter Kriterien eine Unterstützung vom [osu!-Team](/wiki/People/osu!_team) erhalten.
 

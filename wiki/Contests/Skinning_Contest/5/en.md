@@ -87,7 +87,9 @@ The Skinning Contest #4 is run by various community members.
 
 ## Podium
 
-*For the full results, see the [contest page](https://osu.ppy.sh/community/contests/208).*
+::: alert-note
+**Note:** For the full results, see the [contest page](https://osu.ppy.sh/community/contests/208).
+:::
 
 ![](/wiki/Contests/Skinning_Contest/5/img/podium.jpg "Skinning Contest #5 podium")
 

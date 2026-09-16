@@ -62,7 +62,10 @@ Sin efecto:
 - Completar los dendens
 - Completar los shakers
 
-*Nota: Es completamente posible que un beatmap nunca se pueda pasar por diseño debido a que solo contiene redobles de tambor y/o dendens/shakers.*
+::: alert-notice
+**Aviso**
+Es completamente posible que un beatmap nunca se pueda pasar por diseño debido a que solo contiene redobles de tambor y/o dendens/shakers.
+:::
 
 ## osu!catch
 

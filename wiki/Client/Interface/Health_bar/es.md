@@ -9,7 +9,9 @@ tags:
 
 # Barra de salud
 
-*Para la salud como mecánica, véase: [Salud](/wiki/Gameplay/Health)*
+::: alert-note
+**Nota:** Para la salud como mecánica, véase [Salud](/wiki/Gameplay/Health)
+:::
 
 La **barra de salud** (también conocida como *barra de HP*) es una barra que muestra la [salud](/wiki/Gameplay/Health) restante de un jugador. En todos los [modos de juego](/wiki/Game_mode) excepto [osu!mania](/wiki/Game_mode/osu!mania), hay un indicador moviéndose a lo largo de la barra de salud que muestra la salud actual de un jugador.
 

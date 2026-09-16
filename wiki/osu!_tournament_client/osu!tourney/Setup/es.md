@@ -1,7 +1,12 @@
 # Configuración de osu!tourney
 
-*Véase también: [Cliente para torneos de osu!](/wiki/osu!_tournament_client)*\
-*Nota: Actualmente se requiere una [etiqueta de osu!supporter](/wiki/osu!supporter) activa para usar el cliente osu!tourney.*
+::: alert-note
+**Véase también:** [Cliente para torneos de osu!](/wiki/osu!_tournament_client)
+:::
+
+::: alert-notice
+**Nota:** Actualmente se requiere una [etiqueta de osu!supporter](/wiki/osu!supporter) activa para usar el cliente osu!tourney.
+:::
 
 Se recomienda usar una **instalación nueva de osu!**. Esto se debe a que la base de datos `Songs` puede dañarse. Puedes tener múltiples instalaciones de osu!, solo tienes que mantenerlas en carpetas separadas.
 

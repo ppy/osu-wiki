@@ -74,7 +74,9 @@
 
 ## Komponieren
 
-*Hauptseite: [Komposition](/wiki/Client/Beatmap_editor/Compose)*
+::: alert-note
+**Hauptseite:** [Komposition](/wiki/Client/Beatmap_editor/Compose)
+:::
 
 ![Kompositionsmenü](img/M_Compose-DE.jpg "Kompositionsmenü")
 
@@ -90,7 +92,9 @@
 
 ## Design
 
-*Hauptseite: [Design](/wiki/Client/Beatmap_editor/Design)*
+::: alert-note
+**Hauptseite:** [Design](/wiki/Client/Beatmap_editor/Design)
+:::
 
 ![Designmenü](img/M_Design-DE.jpg "Designmenü")
 
@@ -100,7 +104,9 @@
 
 ## Timing
 
-*Hauptseite: [Timing](/wiki/Client/Beatmap_editor/Timing)*
+::: alert-note
+**Hauptseite:** [Timing](/wiki/Client/Beatmap_editor/Timing)
+:::
 
 ![Timingmenü](img/M_Timing-DE.jpg "Timingmenü")
 

@@ -3,6 +3,8 @@ tags:
   - Mapper's Guild
   - MG
   - гильдия мапперов
+outdated_translation: true
+outdated_since: 3610ba210d6c679c0d60201420ee64d700cbcc44
 ---
 
 # Mappers' Guild
@@ -81,7 +83,9 @@ tags:
 
 ### Промо-карты
 
-*Основная статья: [Промо-карты лицензированных исполнителей](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)*
+::: alert-note
+**Основная статья:** [Промо-карты лицензированных исполнителей](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)
+:::
 
 Члены Гильдии мапперов также могут участвовать в создании промо-карт для предстоящих анонсов лицензированных исполнителей. При анонсировании соответствующего исполнителя эти карты выделяются в [новостях](https://osu.ppy.sh/home/news), а также часто рекламируются в [твиттере @osugame](https://twitter.com/osugame).
 

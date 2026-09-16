@@ -41,7 +41,7 @@ Se anima a los beatmappers a crear mapas para las pistas de los Artistas Destaca
 
 Todos los concursos de mapping publicados en el [listado de concursos de la comunidad](https://osu.ppy.sh/community/contests), tales como el [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) y el [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), requieren que los participantes creen mapas con canciones de un Artista Destacado. Algunos concursos dirigidos por la comunidad también usan estas canciones.
 
-Para promocionar el mapping del contenido de los Artistas Destacados, los miembros de la comunidad crearon el [Mappers' Guild](/wiki/Community/Mappers_Guild), dándole a los mappers un sistema de misiones estilo MMO en el cual pueden participar junto a otros mappers. Los premios se conceden por crear y clasificar beatmaps, incluyendo tres niveles de insignias de perfil. Los mappers pueden unirse al gremio visitando el [sitio web del Mappers' Guild](https://mappersguild.com/). A partir de [abril de 2023](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), los mappers también pueden discutir todo lo relacionado a la creación de beatmaps de Artistas Destacados en el canal `#featured-artists` en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!).
+Para promocionar el mapping del contenido de los Artistas Destacados, los miembros de la comunidad crearon el [Mappers' Guild](/wiki/Community/Mappers_Guild), dándole a los mappers un sistema de misiones estilo MMO en el cual pueden participar junto a otros mappers. Los premios se conceden por crear y clasificar beatmaps, incluyendo tres niveles de [insignias de perfil](/wiki/Community/Profile_badge). Los mappers pueden unirse al gremio visitando el [sitio web del Mappers' Guild](https://mappersguild.com/). A partir de [abril de 2023](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), los mappers también pueden discutir todo lo relacionado a la creación de beatmaps de Artistas Destacados en el canal `#featured-artists` en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!).
 
 Si un `.osz` pre-temporizado del listado de los Artistas Destacados tiene errores de cualquier tipo, pueden ser reportados en este [hilo del foro](https://osu.ppy.sh/community/forums/topics/783985).
 
@@ -62,7 +62,7 @@ La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=JP }:: [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
 | ::{ flag=US }:: [Absolute Zero](https://osu.ppy.sh/users/4847256) | [0 K](https://osu.ppy.sh/beatmaps/artists/424) |
 | ::{ flag=US }:: [Akiri](https://osu.ppy.sh/users/19587411) | [Akiri](https://osu.ppy.sh/beatmaps/artists/401) |
-| ::{ flag=CL }:: [Akts](https://osu.ppy.sh/users/6309660) | [Akts](https://osu.ppy.sh/beatmaps/artists/513) |
+| ::{ flag=CL }:: [akts](https://osu.ppy.sh/users/6309660) | [Akts](https://osu.ppy.sh/beatmaps/artists/513) |
 | ::{ flag=US }:: [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
 | ::{ flag=AU }:: [aquellex](https://osu.ppy.sh/users/3137790) | [Aquellex](https://osu.ppy.sh/beatmaps/artists/380) |
 | ::{ flag=HK }:: [Ardolf](https://osu.ppy.sh/users/12359061) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) |
@@ -71,6 +71,7 @@ La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
 | ::{ flag=BR }:: [BrayanKitsn](https://osu.ppy.sh/users/34744443) | [BrayanKitsn](https://osu.ppy.sh/beatmaps/artists/506) |
 | ::{ flag=KR }:: [Cinamoro](https://osu.ppy.sh/users/18214510) | [Cinamoro](https://osu.ppy.sh/beatmaps/artists/341) |
+| ::{ flag=DE }:: [countingstars](https://osu.ppy.sh/users/7792315) | [Inconsequentialist](https://osu.ppy.sh/beatmaps/artists/566) |
 | ::{ flag=AT }:: [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=US }:: [dandeless](https://osu.ppy.sh/users/6111413) | [dandeless](https://osu.ppy.sh/beatmaps/artists/544) |
@@ -91,8 +92,10 @@ La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=LV }:: [hikota](https://osu.ppy.sh/users/12946286) | [hikota](https://osu.ppy.sh/beatmaps/artists/463) |
 | ::{ flag=US }:: [hornshoes](https://osu.ppy.sh/users/4057967) | [Strelitzia](https://osu.ppy.sh/beatmaps/artists/421) (miembro de) |
 | ::{ flag=JP }:: [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
+| ::{ flag=US }:: [itsawo](https://osu.ppy.sh/users/4636731) | [awoKen](https://osu.ppy.sh/beatmaps/artists/554) |
 | ::{ flag=AU }:: [J3C](https://osu.ppy.sh/users/15956540) | [jeko](https://osu.ppy.sh/beatmaps/artists/538) |
 | ::{ flag=US }:: [jinobeats](https://osu.ppy.sh/users/24763122) | [JinoBeats](https://osu.ppy.sh/beatmaps/artists/477) |
+| ::{ flag=CZ }:: [jjen](https://osu.ppy.sh/users/35876683) | [acromanic](https://osu.ppy.sh/beatmaps/artists/555) |
 | ::{ flag=PH }:: [JuwubiDTM](https://osu.ppy.sh/users/36335947) | [Juwubi](https://osu.ppy.sh/beatmaps/artists/490) |
 | ::{ flag=US }:: [Juztan](https://osu.ppy.sh/users/14272451) | [Juztan](https://osu.ppy.sh/beatmaps/artists/531) |
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
@@ -116,7 +119,7 @@ La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=US }:: [MintyDoggo](https://osu.ppy.sh/users/10416815) | [Myntian](https://osu.ppy.sh/beatmaps/artists/495) |
 | ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ::{ flag=MY }:: [mochasan_](https://osu.ppy.sh/users/23804364) | [Ariz Kayaba](https://osu.ppy.sh/beatmaps/artists/533) |
-| ::{ flag=FI }:: [naikou_i_guess](https://osu.ppy.sh/users/29139453) | [Naikou](https://osu.ppy.sh/beatmaps/artists/471) |
+| ::{ flag=FI }:: [Naikoumusic](https://osu.ppy.sh/users/29139453) | [Naikou](https://osu.ppy.sh/beatmaps/artists/471) |
 | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
 | ::{ flag=JP }:: [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
 | ::{ flag=JP }:: [Namirin](https://osu.ppy.sh/users/2264828) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) |
@@ -135,6 +138,7 @@ La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
 | ::{ flag=HK }:: [Rose Quartz](https://osu.ppy.sh/users/17348593) | [Rose Quartz](https://osu.ppy.sh/beatmaps/artists/429) |
 | ::{ flag=PH }:: [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |
+| ::{ flag=CA }:: [samostara](https://osu.ppy.sh/users/13278140) | [keyesgen](https://osu.ppy.sh/beatmaps/artists/558) |
 | ::{ flag=GB }:: [SAMString](https://osu.ppy.sh/users/7273976) | [SAMString](https://osu.ppy.sh/beatmaps/artists/273) |
 | ::{ flag=PH }:: [SeiiYuumi](https://osu.ppy.sh/users/38160353) | [Sukima Altera](https://osu.ppy.sh/beatmaps/artists/542) |
 | ::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494) | [Shadren](https://osu.ppy.sh/beatmaps/artists/362) |
@@ -146,7 +150,7 @@ La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) | [Sydosys](https://osu.ppy.sh/beatmaps/artists/392) |
 | ::{ flag=JP }:: [Symholic](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (miembro de) |
 | ::{ flag=US }:: [synthion](https://osu.ppy.sh/users/2872433) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) |
-| ::{ flag=RU }:: [Tachibana_](https://osu.ppy.sh/users/13069714) | [tachibanaka](https://osu.ppy.sh/beatmaps/artists/520) |
+| ::{ flag=RU }:: [tachibanaka](https://osu.ppy.sh/users/13069714) | [tachibanaka](https://osu.ppy.sh/beatmaps/artists/520) |
 | ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794) | [takehirotei](https://osu.ppy.sh/beatmaps/artists/428) |
 | ::{ flag=US }:: [tephe](https://osu.ppy.sh/users/32666295) | [tephe](https://osu.ppy.sh/beatmaps/artists/361) |
 | ::{ flag=PH }:: [TheMusicalGhost](https://osu.ppy.sh/users/11908434) | [The Musical Ghost](https://osu.ppy.sh/beatmaps/artists/478) |
@@ -166,6 +170,7 @@ La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=KR }:: [WyvernP](https://osu.ppy.sh/users/3611701) | [WyvernP](https://osu.ppy.sh/beatmaps/artists/445) |
 | ::{ flag=UA }:: [XenjeS](https://osu.ppy.sh/users/10166905) | [XenjeS](https://osu.ppy.sh/beatmaps/artists/482) |
 | ::{ flag=ID }:: [Xuande](https://osu.ppy.sh/users/23032672) | [Xeon Diversity](https://osu.ppy.sh/beatmaps/artists/499) |
+| ::{ flag=US }:: [yesandtheyes127](https://osu.ppy.sh/users/15943191) | [jorj1357](https://osu.ppy.sh/beatmaps/artists/556) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 | ::{ flag=US }:: [Yuuni](https://osu.ppy.sh/users/14238916) | [Yuuni](https://osu.ppy.sh/beatmaps/artists/408) |
 | ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) |

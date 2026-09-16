@@ -6,7 +6,9 @@ tags:
 
 # Kiai time
 
-*For regulations surrounding kiai time, see: [Ranking criteria](/wiki/Ranking_criteria)*
+::: alert-note
+**Note:** For regulations surrounding kiai time, see [Ranking criteria](/wiki/Ranking_criteria)
+:::
 
 ::: Infobox
 ![](img/kiai-time-osu-gameplay.png "Fountains at the start of a kiai section of an osu! beatmap")

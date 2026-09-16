@@ -11,7 +11,9 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 
 # Tempo
 
-*Voir également : [Timing](/wiki/Beatmapping/Timing)*
+::: alert-note
+**Voir également** : [Timing](/wiki/Beatmapping/Timing)
+:::
 
 ::: Infobox
 ![Capture d'écran de l'indicateur du BPM sur la page d'information de la beatmap](img/beatmap-info.png "Le tempo de la musique, égal à 187, est indiqué dans le coin supérieur de la page d'information sur la beatmap.")

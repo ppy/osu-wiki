@@ -19,7 +19,9 @@ Dans la [procédure de classement du beatmap](/wiki/Beatmap_ranking_procedure) m
 
 ## Histoire
 
-*Voir également : [Calendrier de mapping et de modding](/wiki/History_of_osu!/Mapping_and_modding_timeline)*
+::: alert-note
+**Voir également** : [Calendrier de mapping et de modding](/wiki/History_of_osu!/Mapping_and_modding_timeline)
+:::
 
 Les bubbles ont été introduites par ::{ flag=AU }:: [peppy](/wiki/People/peppy) le 29 octobre 2007, pour les "beatmaps qui sont considérés pour le jeu classé (en attendant les commentaires des modérateurs)". Le fait de transformer l'icône d'un fil de discussion d'une beatmap en une bubble était un moyen pour les membres de la BAT d'indiquer que la beatmap était de bonne qualité et qu'elle avait respecté les [critères de classement](/wiki/Ranking_criteria).
 

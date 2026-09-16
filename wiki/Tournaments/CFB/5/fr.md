@@ -68,7 +68,10 @@ La Catch French Beginner 5 était gérée par différents membres de la communau
 | Unseeded | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606), ::{ flag=FR }:: [Nos\_If](https://osu.ppy.sh/users/7365196), ::{ flag=FR }:: [Utopsia](https://osu.ppy.sh/users/11080305), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523) |
 | Eliminé | ::{ flag=FR }:: [SverdWyrd](https://osu.ppy.sh/users/10996443), ::{ flag=FR }:: [Hitsumo](https://osu.ppy.sh/users/3199415) |
 
-*Note : Les joueurs sont triés selon les résultats des qualifications.*
+::: alert-notice
+**Note**
+Les joueurs sont triés selon les résultats des qualifications.
+:::
 
 ## Podium
 
