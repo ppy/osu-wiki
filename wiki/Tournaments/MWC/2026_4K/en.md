@@ -125,23 +125,28 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e45
 
 ## Match schedule: Finals
 
+### Wednesday, 16 September 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |  |
+| :-: | --: | :-- | :-- | :-: | :-: |
+| 58 | Australia ::{ flag=AU }:: | ::{ flag=GB }:: United Kingdom | [Sep 16 (Wed) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260916T130000&p1=1440&p2=57&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+
 ### Saturday, 19 September 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 58 | Australia ::{ flag=AU }:: | ::{ flag=GB }:: United Kingdom | [Sep 19 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260919T120000&p1=1440&p2=57&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 57 | China ::{ flag=CN }:: | ::{ flag=CL }:: Chile | [Sep 19 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260919T140000&p1=1440&p2=33&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 57 | China ::{ flag=CN }:: | ::{ flag=CL }:: Chile | [Sep 19 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260919T150000&p1=1440&p2=33&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 20 September 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 60 | South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Sep 20 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260920T030000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 59b | Australia ::{ flag=AU }:: | ::{ flag=CL }:: Chile | [Sep 20 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260920T020000&p1=1440&p2=57&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 59a | Australia ::{ flag=AU }:: | ::{ flag=CN }:: China | [Sep 20 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260920T120000&p1=1440&p2=57&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 59b | Australia ::{ flag=AU }:: | ::{ flag=CL }:: Chile | [Sep 20 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260920T120000&p1=1440&p2=57&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 59c | United Kingdom ::{ flag=GB }:: | ::{ flag=CN }:: China | [Sep 20 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260920T120000&p1=1440&p2=136&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 59d | United Kingdom ::{ flag=GB }:: | ::{ flag=CL }:: Chile | [Sep 20 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260920T120000&p1=1440&p2=136&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| SC | Grand Finals | mappool showcase | [Sep 20 (Sun) 18:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260920T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 59c | United Kingdom ::{ flag=GB }:: | ::{ flag=CN }:: China | [Sep 20 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260920T140000&p1=1440&p2=136&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 60 | South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Sep 20 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260920T150000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 59d | United Kingdom ::{ flag=GB }:: | ::{ flag=CL }:: Chile | [Sep 20 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260920T170000&p1=1440&p2=136&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| SC | Grand Finals | mappool showcase | [Sep 20 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260920T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
 
@@ -329,6 +334,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Finals
 
+**[Download the mappack here (224 MB)](https://packs.ppy.sh/P337%20-%20osu%21mania%204K%20World%20Cup%202026%3A%20Finals.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2873402124)
 
 - Rice
@@ -338,7 +344,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
   4. [Blacklolita - SUPER BEAST GIGA (Cut Ver.) (caracol) \[3rd Climate Battery (cut) 1.05x (157bpm)\]](https://osu.ppy.sh/beatmapsets/2620229#mania/5880803)
   5. [LeaF - Breakcore WTF!? (AutotelicBrown) \[xD\]](https://osu.ppy.sh/beatmapsets/2620230#mania/5880806)
   6. [Static Dress - sweet. (epic man 2) \[famous last line\]](https://osu.ppy.sh/beatmapsets/2620232#mania/5880809)
-  7. Lamberti phil - Nebura (XingRen) \[Hard 1.05x\] (link pendig)
+  7. [Lamberti phil - Nebura (XingRen) \[Hard 1.05x\]](https://osu.ppy.sh/beatmapsets/2620380#mania/5881271)
   8. [Nanahoshi Kangengakudan - MAKE A LOSER (Instrumental Ver.) (IceDynamix) \[Anacrusis\]](https://osu.ppy.sh/beatmapsets/2620235#mania/5880813)
 - Hybrid
   1. [celtix - Primordial Complex (rikan) \[Luminance\]](https://osu.ppy.sh/beatmapsets/2620240#mania/5880820)
@@ -347,7 +353,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
   4. [Grizzly Bear - Ready, Able (doctormango) \[Gaze at the Pond\]](https://osu.ppy.sh/beatmapsets/2620252#mania/5880849)
 - Long Note
   1. [Adachi Kasuka feat. Chis-A - Yossha Uchuu, Ikou (MyZterioN-) \[let's get out of this place, shall we?\]](https://osu.ppy.sh/beatmapsets/2620223#mania/5880777)
-  2. Umeboshi Chazuke - ICHIBANBOSHIROCKET (Hytex) \[IN THE NIGHT SKY\] (link pending)
+  2. [Umeboshi Chazuke - ICHIBANBOSHI\*ROCKET (Hytex) \[IN THE NIGHT SKY\]](https://osu.ppy.sh/beatmapsets/2620358#mania/5881221)
   3. [BotchiBoromaru - TSUYOGARU GIRL feat. Mossa (NECRY TALKIE) (V1do-) \[LOOK AT ME!!! 1.05x\]](https://osu.ppy.sh/beatmapsets/2620259#mania/5880862)
   4. [Crywolf - Decensus Ad Nihilum (Hylotl) \[Do svidan'ya, do novykh vstrech.\]](https://osu.ppy.sh/beatmapsets/2620263#mania/5880867)
 - Tiebreaker
