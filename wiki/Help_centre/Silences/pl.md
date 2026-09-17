@@ -78,11 +78,3 @@ Co więcej, jeżeli istnieją stare posty na forum, beatmapy, komentarze lub inn
 ## Przypisy
 
 [^chat-cleanup]: [Wpis na blogu autorstwa ppy (17.12.2012) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
-
-
-*Ważne: Niewłaściwe zachowanie w wiadomościach prywatnych nie jest wbrew zasadom społeczności, dopóki zgadzają się na to obie strony konwersacji. Jeżeli takie zachowanie zostanie zgłoszone, moderatorzy nałożą na konto odpowiednią karę.*
-
-- Niewłaściwe zachowanie na czacie publicznym lub forum (np. na kanale `#multiplayer`, w dyskusjach, komentarzach, itd.), w tym spamowanie, pisanie bez sensu, rasizm itd.
-- Zamieszczanie niewłaściwych treści (np. jako awatar, w przesyłanych beatmapach, szczegółach profilu, stronie użytkownika, sygnaturze itd.).
-
-Długość uciszenia zależy od wagi przewinienia i stale się zwiększa wraz z kolejnymi uciszeniami.
