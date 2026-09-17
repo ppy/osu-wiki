@@ -12,7 +12,7 @@ tags:
 
 #### Approach Different
 
-![Approach Different 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AD.png)
+![Approach Different 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AD.png?1)
 
 *永远别相信缩圈...*
 

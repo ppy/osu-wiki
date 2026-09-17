@@ -14,7 +14,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Daycore
 
-![Icono del mod Daycore](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DC.png)
+![Icono del mod Daycore](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DC.png?1)
 
 *Vaya...*
 

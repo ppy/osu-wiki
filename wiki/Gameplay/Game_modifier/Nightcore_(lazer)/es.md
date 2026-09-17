@@ -14,7 +14,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Nightcore
 
-![Icono del mod Nightcore](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NC.png)
+![Icono del mod Nightcore](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/NC.png?1)
 
 *Uguuuuuuuu...*
 
