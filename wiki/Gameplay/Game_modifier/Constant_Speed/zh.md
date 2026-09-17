@@ -12,7 +12,7 @@ tags:
 
 #### Constant Speed
 
-![Constant Speed 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CS.png)
+![Constant Speed 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CS.png?1)
 
 *棘手的变速不存在了！*
 
