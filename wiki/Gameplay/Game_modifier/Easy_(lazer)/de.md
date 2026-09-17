@@ -12,7 +12,7 @@ tags:
 
 #### Easy
 
-![Easy Modsymbol](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png)
+![Easy Modsymbol](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png?1)
 
 *![][osu!] Größere Circles, niedrigerer HP-Drain, weniger strikte Treffergenauigkeit und zusätzliche Leben!*\
 *![][osu!taiko] Beats bewegen sich langsamer und weniger strikte Treffergenauigkeit!*\
