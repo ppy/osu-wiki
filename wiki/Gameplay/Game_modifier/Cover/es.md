@@ -12,7 +12,7 @@ tags:
 
 #### Cover
 
-![Icono del mod Cover](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CO.png)
+![Icono del mod Cover](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CO.png?1)
 
 *Reduce el área de visión del campo de juego.*
 

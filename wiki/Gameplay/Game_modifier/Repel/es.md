@@ -14,7 +14,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Repel
 
-![Icono del mod Repel](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RP.png)
+![Icono del mod Repel](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RP.png?1)
 
 *¡Los objetos están huyendo!*
 
