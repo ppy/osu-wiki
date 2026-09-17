@@ -31,7 +31,7 @@ tags:
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-El mod **Hold Off** elimina todas las [notas largas](/wiki/Beatmap/Pattern/osu!mania/Hold_note) de un [beatmap](/wiki/Beatmap) y las reemplaza por notas normales.
+El mod **Hold Off** elimina todas las [notas largas](/wiki/Gameplay/Hit_object/Hold_note) de un [beatmap](/wiki/Beatmap) y las reemplaza por notas normales.
 
 **Este mod no se puede personalizar.**
 
