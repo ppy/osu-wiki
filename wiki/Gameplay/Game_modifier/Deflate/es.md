@@ -14,7 +14,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Deflate
 
-![Icono del mod Deflate](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DF.png)
+![Icono del mod Deflate](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DF.png?1)
 
 *¡Dales el tamaño adecuado!*
 

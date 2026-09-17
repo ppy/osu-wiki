@@ -12,7 +12,7 @@ tags:
 
 #### Barrel Roll
 
-![Barrel Roll mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BR.png)
+![Barrel Roll mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/BR.png?1)
 
 *The whole playfield is on a wheel!*
 

@@ -11,7 +11,7 @@ tags:
 
 #### Muted
 
-![Icono del mod Muted](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MU.png)
+![Icono del mod Muted](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MU.png?1)
 
 *¿Puedes mantener el ritmo sin música?*
 

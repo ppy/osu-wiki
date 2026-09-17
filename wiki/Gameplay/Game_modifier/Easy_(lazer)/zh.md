@@ -14,7 +14,7 @@ outdated_since: 6188363b106ff99cd3ffb64e4116be419d1d798d
 
 #### Easy
 
-![Easy 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png)
+![Easy 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/EZ.png?1)
 
 *![][osu!] 更大的圈，掉血更慢，准度要求更低，还有三条命！*\
 *![][osu!taiko] 物件移动变慢，准度要求更低！*\
