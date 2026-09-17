@@ -2,6 +2,7 @@
 tags:
   - COE
   - COE2026
+no_native_review: true
 ---
 
 # cavoe's osu! event 2026
