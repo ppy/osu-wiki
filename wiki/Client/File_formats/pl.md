@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Formaty plików osu!
 
 ## Lista formatów plików
