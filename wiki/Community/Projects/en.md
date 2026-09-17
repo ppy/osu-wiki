@@ -197,6 +197,7 @@ These projects are all currently still in operation, although no longer under ac
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
+|  | [osu!arcade](/wiki/Community/Projects/osu!arcade) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Prototype for an arcade cabinet running a touch-based version of osu! |
 |  | [osu!performance](https://github.com/ppy/osu-performance/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Part of the game handling the calculations of [performance points](/wiki/Performance_points) (pp) |
 | ![](img/logo_osu_stream.png) | [osu!stream](/wiki/osu!stream) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Special version of osu! for handheld iOS and Android devices |
 | ![](img/logo_osu_osx.png) | [osu! on OS X](https://osuosx.tumblr.com/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Experimental build of osu! that runs natively on macOS |
