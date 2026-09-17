@@ -8,35 +8,39 @@ tags:
   - list of mods
   - personal presets
   - customise
-  - 模组
-  - 游戏模组
-  - 概览
-  - 模组列表
-  - 个人预设
-  - 自定义
-outdated_translation: true
-outdated_since: 7948b9f2ca3fe3533b6727d65cb9d514b5c82db7
+  - Spielmodifikation
+  - Übersicht
+  - Persönliche Voreinstellungen
+  - personalisieren
 ---
 
-# 游戏模组 (lazer)
+# Spielmodifikationen (lazer)
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见：[游戏模组](/wiki/Gameplay/Game_modifier)
+**Anmerkung:** Für die osu!(stable)-Version des Artikels, siehe [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
 :::
 
 ::: alert-note
-**注:** 对于“Mod”一词的其他用法，请见：[Mod（消歧义）](/wiki/Disambiguation/Mod)
+**Anmerkung:** [Mod (Begriffsabgrenzung)](/wiki/Disambiguation/Mod).
 :::
 
-![](img/mod-select-ZH.jpg "osu! 游戏模式的模组选择界面")
+![](img/mod-select-DE.jpg "Modauswahl im Spielmodus osu!")
 
-**游戏模组**（又称**模组**）被分为六类：`降低难度`、`增加难度`、`自动化`、`转换`、`娱乐`与`系统`。其中一些模组能够减少或增加得分倍率。同时使用多个模组时，最终的得分倍率是各模组得分倍率的乘积（如 `1.06x * 1.12x = 1.1872x`）。`系统`类别的模组会按需自动启用。
+**Spielmodifikationen**, oder **Mods**, sind in sechs Kategorien unterteilt: `Verringerung der Schwierigkeit`, `Erhöhung der Schwierigkeit`, `Automatisierung`, `Konvertierung`, `Spaß` und `System`. Sie können das Gameplay auf verschiedene Weisen beeinflussen, beispielsweise durch visuelle Anpassungen der [Hit-Objekte](/wiki/Gameplay/Hit_object) einer [Beatmap](/wiki/Beatmap) oder die Geschwindigkeit mit der die Beatmap gespielt wird. Mods aus der Kategorie `System` werden bei Bedarf automatisch aktiviert.
 
-## 模组列表
+## Mod-Multiplikator
 
-在下表列出的每个模组旁，会显示模组兼容的[游戏模式](/wiki/Game_mode)图标 ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]。
+::: alert-note
+**Hauptseite:** [Mod-Multiplikator (lazer)](/wiki/Gameplay/Game_modifier/Mod_multiplier_(lazer))
+:::
 
-### 降低难度
+Manche Mods können den Punktemultiplikator verringern oder erhöhen. Werden mehrere Mods gleichzeitig verwendet, werden ihre jeweiligen Multiplikatoren für gewöhnlich miteinander multipliziert (z.B. `1,04x * 1,09x = 1,1336x`). Es gibt jedoch einige Ausnahmen, auf die in den Artikeln der betroffenen Mods hingewiesen wird.
+
+## Liste der Mods
+
+Neben jeder der unten aufgelisteten Mods werden die Symbole ihrer kompatiblen ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] [Spielmodi](/wiki/Game_mode) angezeigt.
+
+### Verringerung der Schwierigkeit
 
 - [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -45,7 +49,7 @@ outdated_since: 7948b9f2ca3fe3533b6727d65cb9d514b5c82db7
 - [Simplified Rhythm (SR)](/wiki/Gameplay/Game_modifier/Simplified_Rhythm) ![][osu!taiko]
 - [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release) ![][osu!mania]
 
-### 增加难度
+### Erhöhung der Schwierigkeit
 
 - [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -61,7 +65,7 @@ outdated_since: 7948b9f2ca3fe3533b6727d65cb9d514b5c82db7
 - [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) ![][osu!]
 - [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-### 自动化
+### Automatisierung
 
 - [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -69,7 +73,7 @@ outdated_since: 7948b9f2ca3fe3533b6727d65cb9d514b5c82db7
 - [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)) ![][osu!]
 - [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)) ![][osu!]
 
-### 转换
+### Konvertierung
 
 - [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) ![][osu!]
 - [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -83,9 +87,9 @@ outdated_since: 7948b9f2ca3fe3533b6727d65cb9d514b5c82db7
 - [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert) ![][osu!mania]
 - [Constant Speed (CS)](/wiki/Gameplay/Game_modifier/Constant_Speed) ![][osu!taiko] ![][osu!mania]
 - [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) ![][osu!mania]
-- [按键模组 (1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K)](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)) ![][osu!mania]
+- [Key mods (1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K)](/wiki/Gameplay/Game_modifier/Key_mods_(lazer)) ![][osu!mania]
 
-### 娱乐
+### Spaß
 
 - [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform) ![][osu!]
 - [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle) ![][osu!]
@@ -109,14 +113,14 @@ outdated_since: 7948b9f2ca3fe3533b6727d65cb9d514b5c82db7
 - [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) ![][osu!]
 - [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) ![][osu!]
 
-### 系统
+### System
 
 - [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) ![][osu!]
 - [Score V2 (SV2)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-#### 个人预设
+### Persönliche Voreinstellungen
 
-**个人预设**是一个独立的类别（位于`降低难度`左侧），玩家能够直接在此保存任何模组组合。所有个人预设都需要命名，并可以选填描述。每个游戏模式的个人预设列表相互独立。
+Die **Persönlichen Voreinstellungen** befinden sich in einer separaten Kategorie (links neben `Verringerung der Schwierigkeit`) und bieten Spielern die Möglichkeit, beliebige Mod-Kombinationen direkt darin abzuspeichern. Jeder persönlichen Voreinstellung muss ein Name und optional eine Beschreibung zugewiesen werden. Jeder Spielmodus hat eine eigene Liste persönlicher Voreinstellungen.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
