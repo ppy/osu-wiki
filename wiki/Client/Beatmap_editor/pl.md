@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Edytor beatmap
 
 ![Zrzut ekranu przedstawiający beatmapę Donor Song autorstwa pishifat otwartą w trybie kompozycji edytora](img/compose.jpg)
