@@ -120,8 +120,8 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 | :-- | :-- | :-- | :-- |
 | `Resolution` | Set the game client resolution. The listed resolutions are limited to what your monitor/GPU supports. | Dropdown |  |
 | `Fullscreen mode` | Run the game client in fullscreen (usually decreases input latency). | Checkbox | `Enabled` |
-| `Render at native resolution` | Use the full native resolution but will display osu! in a smaller centred portion of the screen. | Checkbox | `Enabled` |
 | `Minimise on alt-tab during fullscreen` | Minimise the main window when pressing `Alt` + `Tab`. | Checkbox | `Enabled` |
+| `Render at native resolution` | Use the full native resolution but will display osu! in a smaller centred portion of the screen. | Checkbox | `Disabled` |
 | `Horizontal position` | Adjust horizontal offset for letterboxing mode. Only appears if `Render at native resolution` is enabled. | Slider | `0%` |
 | `Vertical position` | Adjust vertical offset for letterboxing mode. Only appears if `Render at native resolution` is enabled. | Slider | `0%` |
 
@@ -285,7 +285,7 @@ This section is about input peripherals.
 | :-- | :-- | :-- | :-- |
 | `Sensitivity` | Adjust the sensitivity of the mouse cursor. If changed, it may automatically enable `Raw Input`. | Slider | `1x` |
 | `Raw input` | Read mouse/tablet positional values directly from the hardware, without any post-processing (this is to ignore mouse acceleration). | Checkbox | `Disabled` |
-| `Map absolute raw input to the osu! window` | Confine input devices with absolute positioning (e.g. pen tablets) to the game client window only. | Checkbox | `Disabled` |
+| `Map absolute raw input to the osu! window` | Confine input devices with absolute positioning (e.g. pen tablets) to the game client window only. | Checkbox | `Enabled` |
 | `Confine mouse cursor` | Prevent mouse cursor from leaving the game client window. See below for details. | Dropdown | `Only when fullscreen` |
 | `Disable mouse wheel in play mode` | Disable mouse wheel during gameplay. Using the mouse wheel can change the master volume value. | Checkbox | `Disabled` |
 | `Disable mouse buttons in play mode` | Disable mouse buttons during gameplay. This is helpful for keyboard users. | Checkbox | `Disabled` |
@@ -330,7 +330,7 @@ These options only affect while working inside the beatmap editor or in test mod
 
 | Name | Description | Type | Default |
 | :-- | :-- | :-- | :-- |
-| `Background video` | Play the beatmap's background video while editing. | Checkbox | `Disabled` |
+| `Background video` | Play the beatmap's background video while editing. | Checkbox | `Enabled` |
 | `Always use default skin` | Use osu!'s default skin while editing, despite the current skin's settings. | Checkbox | `Disabled` |
 | `Snaking sliders` | Enable snaking sliders while editing. | Checkbox | `Enabled` |
 | `Hit animations` | Enable hit animations while editing. | Checkbox | `Disabled` |
