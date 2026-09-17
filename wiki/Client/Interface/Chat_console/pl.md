@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Czat
 
 Okno czatu można otworzyć z większości ekranów klienta poprzez naciśnięcie `F8` lub kliknięcie przycisku `Show Chat` w prawym dolnym rogu. Czat pojawi się wówczas w dolnej części ekranu.
