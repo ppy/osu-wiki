@@ -50,10 +50,10 @@ Verwende die folgenden Formeln, um die Werte für die Eingabefelder `Breite`, `H
 #### Umwandlung von Wacom und VEIKK zu OpenTabletDriver
 
 ```
-Breite   = (Rechts - Links) / ZPZ * 25.4
-Höhe  = (Unten - Oben) / ZPZ * 25.4
-XOffset = (Breite  / 2) + (Links / ZPZ * 25.4)
-YOffset = (Höhe / 2) + (Oben / ZPZ * 25.4)
+Breite  = (Rechts - Links) / ZPZ * 25,4
+Höhe    = (Unten - Oben) / ZPZ * 25,4
+XOffset = (Breite / 2) + (Links / ZPZ * 25,4)
+YOffset = (Höhe / 2) + (Oben / ZPZ * 25,4)
 ```
 
 ### XP-Pen-Tablets {id=xppen}
@@ -68,10 +68,10 @@ YOffset = (Höhe / 2) + (Oben / ZPZ * 25.4)
 #### Umwandlung von XP-Pen zu OpenTabletDriver
 
 ```
-Breite   = XPW / 3.937
-Höhe  = XPH / 3.937
-XOffset = (Breite  / 2) + (XPX / 3.937)
-YOffset = (Höhe / 2) + (XPY / 3.937)
+Breite  = XPW / 3,937
+Höhe    = XPH / 3,937
+XOffset = (Breite / 2) + (XPX / 3,937)
+YOffset = (Höhe / 2) + (XPY / 3,937)
 ```
 
 ### Huion- und Gaomon-Tablets {id=huion-and-gaomon}
@@ -86,9 +86,9 @@ YOffset = (Höhe / 2) + (XPY / 3.937)
 #### Umwandlung von Huion und Gaomon zu OpenTabletDriver
 
 ```
-Breite   = (Rechts - Links) * TBreite
-Höhe  = (Unten - Oben) * THöhe
-XOffset = (Breite  / 2) + (Links * TBreite)
+Breite  = (Rechts - Links) * TBreite
+Höhe    = (Unten - Oben) * THöhe
+XOffset = (Breite / 2) + (Links * TBreite)
 YOffset = (Höhe / 2) + (Oben * THöhe)
 ```
 
@@ -104,10 +104,10 @@ YOffset = (Höhe / 2) + (Oben * THöhe)
 #### Umwandlung von Gaomon-Tablets von 2024 und neuer zu OpenTabletDriver
 
 ```
-Breite   = (GaomonBreite  / THorizontal) * TBreite
-Höhe  = (GaomonHöhe / TVertikal)   * THöhe
-XOffset = (GaomonX / THorizontal) * TBreite  + (Breite / 2)
-YOffset = (GaomonY / TVertikal)   * THöhe + (Höhe / 2)
+Breite  = (GaomonBreite / THorizontal) * TBreite
+Höhe    = (GaomonHöhe / TVertikal) * THöhe
+XOffset = (GaomonX / THorizontal) * TBreite + (Breite / 2)
+YOffset = (GaomonY / TVertikal) * THöhe + (Höhe / 2)
 ```
 
 ## Referenzen
