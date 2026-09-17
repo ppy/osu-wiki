@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Interfejs
 
 Ten artykuł zawiera wszystko, co musisz wiedzieć o korzystaniu z klienta osu!. Znajdziesz tutaj informacje na temat ekranu wyboru piosenki, panelu rankingowego oraz ekranu z wynikiem. Gdy otworzysz klienta gry, zobaczysz poniższy ekran:
