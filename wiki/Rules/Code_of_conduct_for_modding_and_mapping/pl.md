@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Kodeks postępowania przy modowaniu i tworzeniu beatmap
 
 **Kodeks postępowania przy modowaniu i tworzeniu beatmap** to zbiór zasad i wytycznych, które dotyczą całego środowiska [modowania](/wiki/Modding) i [tworzenia beatmap](/wiki/Beatmapping). Jest rozszerzeniem [zasad dotyczących społeczności](/wiki/Rules). Kodeks postępowania jest niezbędny, aby dyskusje na temat beatmap i modowania mogły toczyć się w konstruktywnym, pozytywnym i produktywnym otoczeniu oraz aby wszyscy mogli się wzajemnie zrozumieć. Przestrzeganie tego kodeksu jest obowiązkowe podczas modowania oraz tworzenia beatmap. Niestosowanie się do tych zasad może prowadzić do nałożenia na konto [kar](/wiki/Silence).
