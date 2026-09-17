@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Opóźnienie
 
 **Opóźnienie** (ang. *offset*) odpowiada za przesunięcie różnych elementów [beatmapy](/wiki/Beatmap) w czasie, takich jak ścieżka utworu, [hitsoundy](/wiki/Beatmapping/Hitsound), [obiekty](/wiki/Gameplay/Hit_object) czy wideo. W grze istnieją różne rodzaje opóźnień wpływające na różne elementy gry.
