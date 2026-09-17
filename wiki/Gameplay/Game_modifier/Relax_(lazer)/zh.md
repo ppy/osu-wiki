@@ -12,7 +12,7 @@ tags:
 
 #### Relax
 
-![Relax 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RX.png)
+![Relax 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RX.png?1)
 
 *![][osu!]: 你不用点击，只需移动。让你点击/敲击用的手指放松一下。*\
 *![][osu!taiko]: 不必记住哪个键是对的了！*\
