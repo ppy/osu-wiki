@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Ustawienia beatmapy
 
 Okno **ustawień beatmapy** (`Song setup`) to czwarta sekcja [edytora beatmap](/wiki/Client/Beatmap_editor). Znajdują się w niej metadane beatmapy, ustawienia trudności oraz inne różnego rodzaju opcje.
