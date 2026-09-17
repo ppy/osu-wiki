@@ -10,7 +10,7 @@ no_native_review: true
 
 ### Porzucone {id=graveyard}
 
-W tej kategorii znajdują się beatmapy porzucone przez swoich [twórców](/wiki/Beatmap/Beatmap_host). Nie posiadają tabeli wyników, ale wciąż można je pobierać i grać, a także liczą się do [statystyk](#statystyki-nierankingowych-beatmap). W [ekranie wyboru piosenki](/wiki/Client/Interface#ekran-wyboru-piosenki) są oznaczone znakiem zapytania (![](/wiki/shared/status/graveyard.png)).
+W tej kategorii znajdują się beatmapy porzucone przez swoich [twórców](/wiki/Beatmap/Beatmap_host). Nie posiadają tabeli wyników, ale wciąż można je pobierać i grać, a także liczą się do [statystyk](#statystyki-nierankingowych-beatmap). W [ekranie wyboru piosenki](/wiki/Client/Interface#wybór-piosenki) są oznaczone znakiem zapytania (![](/wiki/shared/status/graveyard.png)).
 
 Beatmapa automatycznie zmienia kategorię z [obecnie rozwijanej lub oczekującej](#wip-and-pending) na porzuconą, jeżeli przez 4 tygodnie nie otrzyma żadnej aktualizacji. Twórca może "ożywić" beatmapę (przywrócić jej status [oczekującej](#wip-and-pending)) aktualizując ją poprzez [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). Porzucone beatmapy nie liczą się do [limitu beatmap](/wiki/osu!supporter#zwiększone-limity), jednak ożywienie wymaga wolnego miejsca na oczekujące beatmapy.
 
