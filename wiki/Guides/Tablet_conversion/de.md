@@ -52,7 +52,7 @@ Verwende die folgenden Formeln, um die Werte für die Eingabefelder `Breite`, `H
 ```
 Width   = (Right - Left) / LPI * 25.4
 Height  = (Bottom - Top) / LPI * 25.4
-XOffset = (Width / 2) + (Left / LPI * 25.4)
+XOffset = (Width  / 2) + (Left / LPI * 25.4)
 YOffset = (Height / 2) + (Top / LPI * 25.4)
 ```
 
