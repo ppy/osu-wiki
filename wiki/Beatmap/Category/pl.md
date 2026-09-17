@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Kategorie beatmap
 
 [Beatmapy](/wiki/Beatmap) opublikowane online są podzielone na kategorie w zależności od ich ostatniej aktywności, statusu [nominacji](/wiki/Beatmap_ranking_procedure#kwalifikacja) oraz popularności.
