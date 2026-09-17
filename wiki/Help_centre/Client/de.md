@@ -24,8 +24,6 @@ tags:
   - Spiel
   - Verbindung
   - Benutzeroberfläche
-outdated_translation: true
-outdated_since: 93ee94cafcbd971726f274c065dcf20c3587b5ad
 ---
 
 # Client
@@ -301,6 +299,12 @@ Du kannst auch versuchen im Fenster- oder randlosen Modus zu spielen, was stattd
 Das Aktivieren von VSync sowie das Spielen im Fenster- oder randlosen Modus wird leider eine *geringe* Verzögerung bei der Eingabe einführen. Für die meisten Menschen wird das keine signifikanten Probleme verursachen.
 
 Spätere NVidia-Grafikkarten haben eine globale Option im NVidia Control Panel, um die globale Bildwiederholrate auf die Einstellung "Fast" zu setzen, welche dieses Problem ebenfalls lösen wird.
+
+### Ich bin zu den nativen Tablet-Treibern von osu!(lazer) gewechselt und jetzt hat sich mein Tablet-Bereich verändert! {id=tablet-area}
+
+In osu!(lazer) ist der [OpenTabletDriver](https://opentabletdriver.net/) integriert. Falls du diesen zuvor nicht verwendet hast, passiert das, da dein Tablet für die nativen Treiber nicht richtig konfiguriert ist.
+
+Siehe den [Leitfaden zur Umwandlung des Tablet-Bereichs](/wiki/Guides/Tablet_conversion) für weitere Informationen wie du den Tablet-Bereich deines alten Treibers korrekt auf die Einstellungen des OpenTabletDrivers umwandelst.
 
 ## Online-Funktionen {id=online-features}
 
