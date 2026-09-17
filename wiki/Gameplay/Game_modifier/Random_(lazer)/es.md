@@ -44,9 +44,9 @@ El mod **Random** tiene como objetivo hacer que la jugabilidad sea más variada 
 
 En osu!, Random coloca todos los [círculos](/wiki/Gameplay/Hit_object/Hit_circle) y [sliders](/wiki/Gameplay/Hit_object/Slider) en posiciones arbitrarias, conservando siempre la distancia entre dos objetos.
 
-En osu!taiko, Random asigna un color aleatorio ([rojo o azul](/wiki/Gameplay/Hit_object/Hit)) a cada nota. Los [redobles de tambor](/wiki/Gameplay/Hit_object/Drumroll) y los [swells](/wiki/Gameplay/Hit_object/Swell) no se ven afectados.
+En osu!taiko, Random asigna un color aleatorio (rojo o azul) a cada [nota](/wiki/Gameplay/Hit_object/Hit). Los [redobles de tambor](/wiki/Gameplay/Hit_object/Drumroll) y los [swells](/wiki/Gameplay/Hit_object/Swell) no se ven afectados.
 
-En osu!mania, Random mueve todas las notas y las [notas largas](/wiki/Beatmap/Pattern/osu!mania/Hold_note) a una columna aleatoria.
+En osu!mania, Random mueve todas las [notas](/wiki/Gameplay/Hit_object/Note) y las [notas largas](/wiki/Gameplay/Hit_object/Hold_note) a una columna aleatoria.
 
 ## Personalización
 
