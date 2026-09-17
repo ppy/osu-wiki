@@ -13,7 +13,7 @@ tags:
 
 #### Spun Out
 
-![Spun Out mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SO.png)
+![Spun Out mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SO.png?1)
 
 *Spinners will be automatically completed.*
 

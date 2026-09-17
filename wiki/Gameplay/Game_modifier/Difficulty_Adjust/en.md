@@ -12,7 +12,7 @@ tags:
 
 #### Difficulty Adjust
 
-![Difficulty Adjust mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DA.png)
+![Difficulty Adjust mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DA.png?1)
 
 *Override a beatmap's difficulty settings.*
 

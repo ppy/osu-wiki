@@ -12,7 +12,7 @@ tags:
 
 #### Dual Stages
 
-![Dual Stages 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DS.png)
+![Dual Stages 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DS.png?1)
 
 *双重舞台，双倍乐趣！*
 

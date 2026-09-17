@@ -12,7 +12,7 @@ tags:
 
 #### Adaptive Speed
 
-![Icono del mod Adaptive Speed](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AS.png)
+![Icono del mod Adaptive Speed](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AS.png?1)
 
 *Deja que la velocidad de la pista se adapte a ti.*
 

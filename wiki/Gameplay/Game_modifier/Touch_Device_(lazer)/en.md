@@ -14,7 +14,7 @@ tags:
 
 #### Touch Device
 
-![Touch Device mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TD.png)
+![Touch Device mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TD.png?1)
 
 *Automatically applied to plays on devices with a touchscreen.*
 
