@@ -121,8 +121,8 @@ Khi mở danh sách `Giới hạn FPS`, bạn sẽ thấy các tùy chọn sau:
 | :-- | :-- | :-- | :-- |
 | `Chọn độ phân giải` | Đặt độ phân giải của trò chơi. Các độ phân giải được liệt kê bị giới hạn bởi những gì màn hình/GPU của bạn hỗ trợ. | Danh sách thả xuống |  |
 | `Toàn màn hình` | Chạy trò chơi ở chế độ toàn màn hình (thường giảm độ trễ đầu vào). | Hộp kiểm | `Bật` |
+| `Minimise on alt-tab during fullscreen` | Thu nhỏ cửa sổ chính khi nhấn `Alt` + `Tab`. | Hộp kiểm | `Tắt` |
 | `Render at native resolution` | Sử dụng độ phân giải gốc nhưng hiển thị osu! ở một phần nhỏ hơn của màn hình. | Hộp kiểm | `Bật` |
-| `Minimise on alt-tab during fullscreen` | Thu nhỏ cửa sổ chính khi nhấn `Alt` + `Tab`. | Hộp kiểm | `Bật` |
 | `Vị trí ngang` | Điều chỉnh độ lệch ngang cho chế độ letterboxing. Chỉ hiển thị khi `Render at native resolution` được bật. | Thanh trượt | `0%` |
 | `Vị trí dọc` | Điều chỉnh độ lệch dọc cho chế độ letterboxing. Chỉ hiển thị khi `Render at native resolution` được bật. | Thanh trượt | `0%` |
 
@@ -286,7 +286,7 @@ Phần này liên quan đến các thiết bị ngoại vi đầu vào.
 | :-- | :-- | :-- | :-- |
 | `Độ nhạy chuột` | Điều chỉnh độ nhạy của con trỏ chuột. Nếu thay đổi, nó có thể tự động bật `Raw Input`. | Thanh trượt | `1x` |
 | `Raw Input` | Đọc giá trị vị trí của chuột/bảng vẽ trực tiếp từ phần cứng, không qua xử lý hậu kỳ (để bỏ qua việc gia tốc chuột). | Hộp kiểm | `Tắt` |
-| `Chỉnh Raw Input chính xác vào cửa sổ của osu!` | Giới hạn vùng hoạt động của thiết bị đầu vào có vị trí tuyệt đối (ví dụ: bảng vẽ) chỉ nằm trong cửa sổ trò chơi. | Hộp kiểm | `Tắt` |
+| `Chỉnh Raw Input chính xác vào cửa sổ của osu!` | Giới hạn vùng hoạt động của thiết bị đầu vào có vị trí tuyệt đối (ví dụ: bảng vẽ) chỉ nằm trong cửa sổ trò chơi. | Hộp kiểm | `Bật` |
 | `Hạn chế khu điều khiển chuột` | Ngăn con trỏ chuột rời khỏi cửa sổ trò chơi. Xem chi tiết bên dưới. | Danh sách thả xuống | `Chỉ khi toàn màn hình` |
 | `Vô hiệu hoá con lăn chuột khi chơi` | Vô hiệu hóa con lăn chuột trong khi chơi. Sử dụng con lăn chuột có thể thay đổi giá trị âm lượng chính. | Hộp kiểm | `Tắt` |
 | `Vô hiệu hoá nút chuột khi chơi` | Vô hiệu hóa các nút chuột trong khi chơi. Điều này hữu ích cho người chơi bằng bàn phím. | Hộp kiểm | `Tắt` |
@@ -331,7 +331,7 @@ Các tùy chọn này chỉ ảnh hưởng khi làm việc trong trình chỉnh 
 
 | Tên | Mô tả | Loại | Mặc định |
 | :-- | :-- | :-- | :-- |
-| `Video nền` | Phát video nền của beatmap khi đang chỉnh sửa. | Hộp kiểm | `Tắt` |
+| `Video nền` | Phát video nền của beatmap khi đang chỉnh sửa. | Hộp kiểm | `Bật` |
 | `Sử dụng skin mặc định` | Sử dụng skin mặc định của osu! khi đang chỉnh sửa, bất kể cài đặt của skin hiện tại. | Hộp kiểm | `Tắt` |
 | `Nốt dài trượt` | Nốt dài trườn ra ngoài từ vị trí xuất phát trong Editor. | Hộp kiểm | `Bật` |
 | `Hiệu ứng động khi nhấn trúng` | Bật hoạt ảnh động khi nhấn trúng trong khi đang chỉnh sửa. | Hộp kiểm | `Tắt` |

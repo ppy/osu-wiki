@@ -120,8 +120,8 @@ Si abres la lista desplegable de `Límite de FPS`, se te presentarán estas opci
 | :-- | :-- | :-- | :-- |
 | `Resolución` | Establece la resolución del cliente del juego. Las resoluciones enumeradas se limitan a lo que admite tu monitor/GPU. | Lista desplegable |  |
 | `Pantalla completa` | Ejecuta el cliente del juego en pantalla completa (generalmente disminuye la latencia de entrada). | Casilla de verificación | `Activada` |
-| `Render at native resolution` | Usa la resolución nativa completa pero mostrará osu! en una porción más pequeña centrada de la pantalla. | Casilla de verificación | `Activada` |
 | `Minimise on alt-tab during fullscreen` | Minimiza la ventana principal al presionar `Alt` + `Tab`. | Casilla de verificación | `Activada` |
+| `Render at native resolution` | Usa la resolución nativa completa pero mostrará osu! en una porción más pequeña centrada de la pantalla. | Casilla de verificación | `Desactivada` |
 | `Posicion horizontal` | Ajusta el desplazamiento horizontal para el modo de pantalla ancha. Solo aparece si `Render at native resolution` está habilitado. | Control deslizante | `0 %` |
 | `Posición vertical` | Ajusta el desplazamiento vertical para el modo de pantalla ancha. Solo aparece si `Render at native resolution` está habilitado. | Control deslizante | `0 %` |
 
@@ -285,7 +285,7 @@ Esta sección trata sobre los periféricos de entrada.
 | :-- | :-- | :-- | :-- |
 | `Sensibilidad del ratón` | Ajusta la sensibilidad del cursor del ratón. Si se cambia, puede habilitar automáticamente `Puntero directo`. | Control deslizante | `1x` |
 | `Puntero directo` | Lee los valores posicionales del ratón/tableta directamente desde el hardware, sin ningún procesamiento posterior (esto es para ignorar la aceleración del ratón). | Casilla de verificación | `Desactivada` |
-| `Dirigir toda la entrada a la ventana de osu!` | Limita los dispositivos de entrada con posicionamiento absoluto (por ejemplo, tabletas gráficas) solo a la ventana del cliente del juego. | Casilla de verificación | `Desactivada` |
+| `Dirigir toda la entrada a la ventana de osu!` | Limita los dispositivos de entrada con posicionamiento absoluto (por ejemplo, tabletas gráficas) solo a la ventana del cliente del juego. | Casilla de verificación | `Activada` |
 | `Confinar cursor` | Evita que el cursor del ratón abandone la ventana del cliente del juego. Ve a continuación para más detalles. | Lista desplegable | `Solo en pantalla completa` |
 | `Deshabilitar la rueda del ratón mientras juegas` | Desactiva la rueda del ratón durante el juego. El uso de la rueda del ratón puede cambiar el valor del volumen general. | Casilla de verificación | `Desactivada` |
 | `Deshabilitar los botones del ratón mientras juegas` | Desactiva los botones del ratón durante el juego. Esto es útil para los usuarios de teclado. | Casilla de verificación | `Desactivada` |
@@ -330,7 +330,7 @@ Estas opciones solo afectan mientras se trabaja dentro del editor de beatmaps o 
 
 | Nombre | Descripción | Tipo | Por defecto |
 | :-- | :-- | :-- | :-- |
-| `Vídeo de fondo` | Reproduce el vídeo de fondo del beatmap mientras se edita. | Casilla de verificación | `Desactivada` |
+| `Vídeo de fondo` | Reproduce el vídeo de fondo del beatmap mientras se edita. | Casilla de verificación | `Activada` |
 | `Usar skin por defecto` | Usa la skin predeterminada de osu! mientras editas, a pesar de la configuración actual de la skin. | Casilla de verificación | `Desactivada` |
 | `Deslizadores serpenteantes` | Habilita los deslizadores serpenteantes mientras editas. | Casilla de verificación | `Activada` |
 | `Animaciones de golpeo` | Habilita las animaciones de golpeo mientras editas. | Casilla de verificación | `Desactivada` |
