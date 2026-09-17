@@ -12,7 +12,7 @@ tags:
 
 #### Repel
 
-![Repel mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RP.png)
+![Repel mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RP.png?1)
 
 *Hit objects run away!*
 
