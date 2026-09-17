@@ -13,7 +13,7 @@ tags:
 
 #### Hard Rock
 
-![Hard Rock mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HR.png)
+![Hard Rock mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/HR.png?1)
 
 *Everything just got a bit harder...*
 

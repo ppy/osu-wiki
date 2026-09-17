@@ -12,7 +12,7 @@ tags:
 
 #### Random
 
-![Random mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RD.png)
+![Random mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/RD.png?1)
 
 *![][osu!]: It never gets boring!*\
 *![][osu!taiko]: Shuffle around the colours!*\

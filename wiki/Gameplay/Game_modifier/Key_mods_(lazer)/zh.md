@@ -24,7 +24,7 @@ tags:
 
 #### 1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K, 10K
 
-![7K 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/7K.png)
+![7K 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/7K.png?1)
 
 *用 \[按键数\] 个按键来玩。*
 

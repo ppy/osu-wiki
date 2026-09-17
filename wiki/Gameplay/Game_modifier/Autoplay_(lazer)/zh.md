@@ -14,7 +14,7 @@ tags:
 
 #### Autoplay
 
-![Autoplay 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AT.png)
+![Autoplay 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AT.png?1)
 
 *来看看精彩绝伦的自动表演。*
 
