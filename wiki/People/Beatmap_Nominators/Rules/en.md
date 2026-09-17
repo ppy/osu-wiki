@@ -28,6 +28,7 @@ Beatmap Nominator activity is measured via nominations,[^multi-key-mode] and is 
   - Falling below **2** nominations in a given game mode will always result in removal from the Beatmap Nominators of said game mode.
 - When warned for activity, minimum activity requirements must be met after 30 days.
 - Failing to meet the required minimum when being warned for it within a period of 1 year will result in a removal from the Beatmap Nominators.
+- A Beatmap Nominator who rejoins on good terms must obtain at least 2 nominations within their first 30 days, and staying inactive during this period may result in a removal.
 
 When a Beatmap Nominator's evaluation is created and they still need to meet their minimum activity requirements, they will receive a reminder via the [NAT bot](https://osu.ppy.sh/users/6616586) and will be given **7** days to meet their quota.
 
