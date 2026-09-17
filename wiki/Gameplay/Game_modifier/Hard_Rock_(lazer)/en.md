@@ -23,7 +23,8 @@ tags:
 | Type | Difficulty Increase |
 | Default shortcut key | `A` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier ![][osu!] ![][osu!taiko] | `1.06x` |
+| Score multiplier ![][osu!] | `1.09x` |
+| Score multiplier ![][osu!taiko] | `1.06x` |
 | Score multiplier ![][osu!catch] | `1.12x` |
 | Score multiplier ![][osu!mania] | `1.00x` |
 | Status ![][osu!] ![][osu!taiko] ![][osu!catch] | Ranked |
@@ -34,7 +35,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Hard Rock (mod)](/wiki/Gameplay/Game_modifier/Hard_Rock)
+**Note:** For the osu!(stable) version of this article, see [Hard Rock (mod)](/wiki/Gameplay/Game_modifier/Hard_Rock)
 :::
 
 ::: alert-note

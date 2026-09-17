@@ -22,8 +22,7 @@ tags:
 | Type | Difficulty Increase |
 | Default shortcut key | `G` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier ![][osu!] ![][osu!taiko] ![][osu!catch] | `1.10x*` |
-| Score multiplier ![][osu!mania] | `1.00x` |
+| Score multiplier | See [Double Time (DT) § Scoring](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)#scoring) |
 | Status | Ranked |
 | Incompatible mods ![][osu!] ![][osu!taiko] ![][osu!mania] | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) |
 | Incompatible mods ![][osu!catch] | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
@@ -31,7 +30,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)
+**Note:** For the osu!(stable) version of this article, see [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)
 :::
 
 ::: alert-note

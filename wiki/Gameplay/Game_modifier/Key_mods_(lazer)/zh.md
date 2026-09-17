@@ -41,7 +41,7 @@ tags:
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见：[xK（模组）](/wiki/Gameplay/Game_modifier/xK)
+**注:** 对于该文章的 osu!(stable) 版本，请见：[xK（模组）](/wiki/Gameplay/Game_modifier/xK)
 :::
 
 ::: alert-note

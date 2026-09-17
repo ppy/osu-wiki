@@ -30,7 +30,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot)
+**Note:** For the osu!(stable) version of this article, see [Autopilot (mod)](/wiki/Gameplay/Game_modifier/Autopilot)
 :::
 
 ::: alert-note

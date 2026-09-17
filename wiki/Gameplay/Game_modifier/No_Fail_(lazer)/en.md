@@ -30,7 +30,7 @@ tags:
 :::
 
 ::: alert-note
-**Note:** For the osu!stable version of this article, see [No Fail (mod)](/wiki/Gameplay/Game_modifier/No_Fail)
+**Note:** For the osu!(stable) version of this article, see [No Fail (mod)](/wiki/Gameplay/Game_modifier/No_Fail)
 :::
 
 ::: alert-note

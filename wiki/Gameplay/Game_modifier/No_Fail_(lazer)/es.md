@@ -3,8 +3,6 @@ stub: true
 tags:
   - NF
   - nofail
-outdated_translation: true
-outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 ---
 
 # No Fail (mod de lazer)
@@ -27,17 +25,21 @@ outdated_since: 8845b6ba9a974f01fcbb7dfa9bfa4df092585c48
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Multiplicador de puntuación | `0,50x` |
 | Estado | Clasificado |
-| Mods incompatibles | [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
+| Mods incompatibles | [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 
 :::
 
 ::: alert-note
-**Nota:** Para la versión de osu!stable de este artículo, véase [No Fail (mod)](/wiki/Gameplay/Game_modifier/No_Fail)
+**Nota:** Para la versión de osu!(stable) de este artículo, véase [No Fail (mod)](/wiki/Gameplay/Game_modifier/No_Fail)
 :::
 
 ::: alert-note
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
+
+El mod **No Fail** impide que el jugador pierda en cualquier [beatmap](/wiki/Beatmap), incluso si la [barra de salud](/wiki/Client/Interface/Health_bar) llega a cero o no se ha conseguido ningún punto. Este mod tiene el mismo efecto en todos los [modos de juego](/wiki/Game_mode).
+
+**Este mod no se puede personalizar.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

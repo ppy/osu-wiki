@@ -32,7 +32,7 @@ tags:
 :::
 
 ::: alert-note
-**注:** 对于该文章的 osu!stable 版本，请见：[Cinema（模组）](/wiki/Gameplay/Game_modifier/Cinema)
+**注:** 对于该文章的 osu!(stable) 版本，请见：[Cinema（模组）](/wiki/Gameplay/Game_modifier/Cinema)
 :::
 
 ::: alert-note
