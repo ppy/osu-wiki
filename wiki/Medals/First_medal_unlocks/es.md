@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 21ea7a43c8a0935d9888f6a607782eadb1fd5177
+---
+
 # Desbloqueo de cada medalla por primera vez
 
 Este es un compendio de los primeros usuarios que desbloquearon cada medalla en la historia de osu!.
