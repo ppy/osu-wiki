@@ -31,6 +31,8 @@ tags:
   - falla
   - jugabilidad
   - interfaz
+outdated_translation: true
+outdated_since: 4479d2a14a95f9ff5041641cb23fd66d0c58ba38
 ---
 
 # Cliente

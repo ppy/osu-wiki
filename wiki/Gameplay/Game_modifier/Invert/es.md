@@ -31,7 +31,7 @@ tags:
 **Nota:** Para la lista completa de todos los mods de [lazer](/wiki/Client/Release_stream/Lazer), véase [Modificadores del juego (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 :::
 
-El mod **Invert** «invierte» la mecánica de juego de osu!mania al obligar al jugador a presionar todas las teclas y a soltarlas únicamente cuando aparece un [objeto](/wiki/Gameplay/Hit_object). Esto se consigue cubriendo cada columna por completo con [notas largas](/wiki/Beatmap/Pattern/osu!mania/Hold_note), excepto en la posición de las notas y los inicios de las notas largas.
+El mod **Invert** «invierte» la mecánica de juego de osu!mania al obligar al jugador a presionar todas las teclas y a soltarlas únicamente cuando aparece un [objeto](/wiki/Gameplay/Hit_object). Esto se consigue cubriendo cada columna por completo con [notas largas](/wiki/Gameplay/Hit_object/Hold_note), excepto en la posición de las notas y los inicios de las notas largas.
 
 **Este mod no se puede personalizar.**
 
