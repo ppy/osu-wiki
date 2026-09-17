@@ -12,7 +12,7 @@ tags:
 
 #### Transform
 
-![Transform mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TR.png)
+![Transform mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TR.png?1)
 
 *Everything rotates. EVERYTHING.*
 

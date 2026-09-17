@@ -12,7 +12,7 @@ tags:
 
 #### Spin In
 
-![Icono del mod Spin In](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SI.png)
+![Icono del mod Spin In](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SI.png?1)
 
 *Círculos girando. No hay círculos de aproximación.*
 

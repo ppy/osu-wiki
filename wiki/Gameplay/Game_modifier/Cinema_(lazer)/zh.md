@@ -12,7 +12,7 @@ tags:
 
 #### Cinema
 
-![Cinema 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CN.png)
+![Cinema 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/CN.png?1)
 
 *专心看视频，没有其他东西干扰。*
 
