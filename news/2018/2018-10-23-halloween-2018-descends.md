@@ -55,7 +55,7 @@ Whimsically commanding **4111** votes, [Vio](https://osu.ppy.sh/users/5661237)'s
 
 High above the clouds, **3927** voters approved of [Misakko](https://osu.ppy.sh/users/3173752)'s take on a flying Aiko set before an ominous blood mood. Simple, striking, and absolutely wonderful.
 
-[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Lee%20Narie.jpg)](https://assets.ppy.sh/contests/70/winners/Lee%20Narie.png)
+[![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Lee-Narie.jpg)](https://assets.ppy.sh/contests/70/winners/Lee%20Narie.png)
 
 Running straight into the grasp of **3851** voters, [Lee Narie](https://osu.ppy.sh/users/2667849)'s spooktacular entry features the main mascot gang in full, except Yuzu's insatiable attraction to plant and fruit-based lifeforms have resulted in him seating a pumpkin on his head.
 
