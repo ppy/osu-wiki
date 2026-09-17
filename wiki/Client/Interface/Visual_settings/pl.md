@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Ustawienia wizualne
 
 ![](img/visual-settings-PL.jpg "Nakładka ustawień wizualnych")
