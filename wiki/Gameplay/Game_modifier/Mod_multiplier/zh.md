@@ -9,6 +9,8 @@ tags:
   - 分数倍率
   - 模组
   - 模组倍率
+outdated_translation: true
+outdated_since: 7948b9f2ca3fe3533b6727d65cb9d514b5c82db7
 ---
 
 # 模组倍率

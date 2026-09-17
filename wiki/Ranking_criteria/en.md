@@ -4,6 +4,7 @@ This article sets rules and guidelines that [beatmaps](/wiki/Beatmap) must follo
 
 - **Rules must not be broken under any circumstance.**
 - **Guidelines may be ignored and broken under exceptional circumstances.** When doing so, a sufficient explanation should be provided by the mapper either upfront or when prompted during the modding process.
+- **Allowances clarify what is already acceptable.** They grant no exception to any rule or guideline, and the absence of one carries no meaning.
 
 ## Table of contents
 
@@ -81,6 +82,10 @@ Important to understand before using:
 - **[Kiai](/wiki/Gameplay/Kiai_time) should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
 - **The `Enable countdown` setting should be consistent between difficulties of the same mode.** If a difficulty does not have a long enough intro period for the countdown to occur, this setting does not need to be consistent.
 
+### Allowances
+
+- Backgrounds, videos, and storyboards created for osu! official tournament releases can be used in other beatmaps of the same song. When these assets are used, ensure all relevant creators are tagged using current usernames or aliases.
+
 ## Beatmap
 
 ::: alert-notice
@@ -127,7 +132,10 @@ Each [osu!mania](/wiki/Game_mode/osu!mania) [key mode](osu!mania#common-terms) a
 - **Hit objects must be snapped within less than 2 ms of any timeline tick.** [AiMod](/wiki/Client/Beatmap_editor/AiMod) will report these issues, as well as rare false positives. False positives mainly occur on slider ends and reverses, and should be verified manually or with other tools. Objects in a musical section requiring unsupported beat snap divisors (e.g. 1/11) can either:
   - Remain unsnapped, as long as they align with the intended beat snap divisor.
   - Be snapped through a temporary change in [BPM](/wiki/Music_theory/Tempo).
-- **An object which is wrongly snapped due to passing through or ending slightly before a new [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must have its tail snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging the end of the object in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the `.osu` file.
+- **An object which is wrongly snapped due to passing through or ending slightly before a new [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be snapped within the new timing section.**
+  - For osu!, this does not apply to slider repeats and reverses, as they are passive objects.
+  - For osu!catch, slider repeats and reverses have to be snapped as they affect drop generation.
+  - To fix unsnapped spinners and osu!mania long notes, this can be achieved through dragging the end of the object in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the `.osu` file. 
 
 ## Audio
 
