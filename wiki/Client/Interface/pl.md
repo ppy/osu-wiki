@@ -89,7 +89,7 @@ Ekran zawiera zbyt dużo elementów, aby dało się je oznaczyć za pomocą licz
 
 ![](img/metadata-comparison.jpg)
 
-Ta część ekranu wyświetla **informacje o obecnie wybranym poziomie trudności beatmapy**. Beatmapa utworu, który był odtwarzany w menu głównym zostanie wybrana automatycznie po przejściu do tego ekranu. Ikona w lewym górnym rogu przedstawia [kategorię beatmapy](/wiki/Beatmap/Category). W tym przypadku oznacza, że beatmapa jest [rankingowa](/wiki/Beatmap/Category#rankingowe).
+Ta część ekranu wyświetla **informacje o obecnie wybranym poziomie trudności beatmapy**. Beatmapa utworu, który był odtwarzany w menu głównym zostanie wybrana automatycznie po przejściu do tego ekranu. Ikona w lewym górnym rogu przedstawia [kategorię beatmapy](/wiki/Beatmap/Category). W tym przypadku oznacza, że beatmapa jest [rankingowa](/wiki/Beatmap/Category#ranked).
 
 Wyświetlany tytuł piosenki jest domyślnie zapisany alfabetem łacińskim (dolne zdjęcie), jednak można to zmienić w [opcjach](/wiki/Client/Options) zaznaczając `Preferuj oryginalne nazewnictwo` (dając rezultat jak na górnym zdjęciu). Nazwa poziomu trudności zawarta jest w nawiasach kwadratowych (`[]`), a pod tytułem widnieje nazwa twórcy beatmapy. Niżej znajdują się następujące informacje (czytane od lewej do prawej):
 
@@ -271,7 +271,7 @@ Na tym zdjęciu przedstawiony jest ranking online. Możesz tu przejść przewija
 - \[2\] `Zapisz powtórkę do folderu Replays`: Możesz obejrzeć powtórkę później zarówno otwierając ją z rankingu lokalnego, jak i poprzez podwójne kliknięcie pliku w folderze `Replays`.
 - \[3\] `Oznacz mapę jako ulubiona`: Dodaje beatmapę do twojej listy ulubionych beatmap, która znajduje się na twoim profilu osu! w sekcji `Beatmapy`.
 - \[4\] Ranking lokalny: Wszystkie twoje wyniki są przechowywane na twoim komputerze. Aby je zobaczyć, przejdź do [ekranu wyboru piosenki](#wybór-piosenki) i wybierz `Ranking lokalny` z rozwijanej listy znajdującej się nad tabelą wyników.
-- \[5\] Sekcja `Beatmap Ranking`. Dostępna jedynie dla beatmap z tabelą wyników ([zakwalifikowanych](/wiki/Beatmap/Category#zakwalifikowane), [rankingowych](/wiki/Beatmap/Category#rankingowe) oraz [ulubionych społeczności](/wiki/Beatmap/Category#ulubione-społeczności)). Żeby ją zobaczyć, musisz być również połączony z internetem. Więcej informacji znajdziesz poniżej.
+- \[5\] Sekcja `Beatmap Ranking`. Dostępna jedynie dla beatmap z tabelą wyników ([zakwalifikowanych](/wiki/Beatmap/Category#qualified), [rankingowych](/wiki/Beatmap/Category#ranked) oraz [ulubionych społeczności](/wiki/Beatmap/Category#loved)). Żeby ją zobaczyć, musisz być również połączony z internetem. Więcej informacji znajdziesz poniżej.
 - \[6\] Sekcja `Overall Ranking`. Dostępna jedynie dla beatmap z tabelą wyników. Żeby ją zobaczyć, musisz być również połączony z internetem. Więcej informacji znajdziesz poniżej.
 - \[7\] Informacje o beatmapie, jej liczba zagrań oraz procent przejść.
 - \[8\] Ocena beatmapy. Możesz tutaj wskazać, jak bardzo ci się podobała. Z oceną lepiej się wstrzymać, jeżeli nie potrafisz się zdecydować.
@@ -287,7 +287,7 @@ W panelu rankingowym znajdziesz następujące kategorie:
 | [`Celność`](/wiki/Gameplay/Accuracy) | Pokazuje, jak celnie trafiałeś w obiekty beatmapy. | Średnia ważona celności twoich najlepszych wyników. |
 | `Max Combo` | Najdłuższe combo, które udało ci się osiągnąć na tej beatmapie. | Najdłuższe combo, jakie udało ci się osiągnąć kiedykolwiek. |
 | [`Rankingowy wynik`](/wiki/Gameplay/Score/Ranked_score) | Największa [liczba punktów](/wiki/Gameplay/Score/Ranked_score), jaką udało ci się osiągnąć na beatmapie. | Liczba punktów zdobyta ze wszystkich kiedykolwiek zagranych rankingowych beatmap. Każda beatmapa liczy się do sumy tylko raz. |
-| [`Łączny wynik`](/wiki/Gameplay/Score/Total_score) | Nie jest brany pod uwagę, gdyż nie wpływa na twoją pozycję w rankingach online. | Tak samo jak przy rankingowym wyniku, przy czym łączny wynik bierze pod uwagę wszystkie beatmapy dostępne na stronie osu!, wliczając nieukończone przejścia. Liczy się do twojego [poziomu](/wiki/Gameplay/Score/Total_score#level). |
+| [`Łączny wynik`](/wiki/Gameplay/Score/Total_score) | Nie jest brany pod uwagę, gdyż nie wpływa na twoją pozycję w rankingach online. | Tak samo jak przy rankingowym wyniku, przy czym łączny wynik bierze pod uwagę wszystkie beatmapy dostępne na stronie osu!, wliczając nieukończone przejścia. Liczy się do twojego [poziomu](/wiki/Gameplay/Score/Total_score#poziom). |
 | [`Performance`](/wiki/Performance_points) | Liczba [ważonych punktów pp](/wiki/Performance_points#why-didn't-i-gain-the-full-amount-of-pp-from-a-map-i-played?) otrzymanych za dany wynik. | Łączna liczba posiadanych pp, a także ile pp wart był dany wynik. |
 
 ### Medale
