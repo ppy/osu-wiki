@@ -8,7 +8,7 @@ tags:
 
 ![DMX 3 logo](img/logo.png)
 
-The **DeltaMax's Mania Key Smasher** (***DMX 3***) was a 1v1 double-elimination osu!mania tournament hosted by ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the third instalment of the DeltaMax's Tournaments.
+The **DeltaMax's Mania Key Smasher** (***DMX 3***) was a 1v1 double-elimination osu!mania tournament hosted by ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }. It was the third instalment of the DeltaMax's Tournaments.
 
 ## Tournament schedule
 
@@ -38,14 +38,14 @@ The DeltaMax's Mania Key Smasher was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Mappool selector | ::{ flag=FR }:: [Adri](https://osu.ppy.sh/users/4579132), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=US }:: [\_untitld](https://osu.ppy.sh/users/10465260), ::{ flag=US }:: [qqqant](https://osu.ppy.sh/users/8976576) |
-| Designer | ::{ flag=DE }:: [Celektus](https://osu.ppy.sh/users/4294993) |
-| Streamer | ::{ flag=FR }:: [Adri](https://osu.ppy.sh/users/4579132), ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=BE }:: [NightNarumi](https://osu.ppy.sh/users/4381142) |
-| Referee | ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=AU }:: [Cactie](https://osu.ppy.sh/users/5592409), ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=BR }:: [Foxerus](https://osu.ppy.sh/users/7479684), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=NL }:: [Jinkela](https://osu.ppy.sh/users/5347374), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=DE }:: [lukili846](https://osu.ppy.sh/users/6278008), ::{ flag=US }:: [Raoul](https://osu.ppy.sh/users/9924405), ::{ flag=NL }:: [SpectreSan](https://osu.ppy.sh/users/11310442), ::{ flag=FR }:: [Spartan Plume](https://osu.ppy.sh/users/2553166) |
-| Commentator | ::{ flag=FR }:: [Adri](https://osu.ppy.sh/users/4579132), ::{ flag=US }:: [Edgar\_Figaro](https://osu.ppy.sh/users/6508754) |
-| Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Mappool selector | ::{ flag=FR }:: ::Adri::{ user=4579132 }, ::{ flag=SG }:: ::Raveille::{ user=1388767 }, ::{ flag=US }:: ::\_untitld::{ user=10465260 }, ::{ flag=US }:: ::qqqant::{ user=8976576 } |
+| Designer | ::{ flag=DE }:: ::Celektus::{ user=4294993 } |
+| Streamer | ::{ flag=FR }:: ::Adri::{ user=4579132 }, ::{ flag=MY }:: ::Bedwyr Aorta::{ user=10875855 }, ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 }, ::{ flag=BE }:: ::NightNarumi::{ user=4381142 } |
+| Referee | ::{ flag=HK }:: ::Akali393394::{ user=9686628 }, ::{ flag=JP }:: ::Briesmas::{ user=2865172 }, ::{ flag=AU }:: ::Cactie::{ user=5592409 }, ::{ flag=ID }:: ::fajar13k::{ user=7100002 }, ::{ flag=BR }:: ::Foxerus::{ user=7479684 }, ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 }, ::{ flag=NL }:: ::Jinkela::{ user=5347374 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=DE }:: ::lukili846::{ user=6278008 }, ::{ flag=US }:: ::Raoul::{ user=9924405 }, ::{ flag=NL }:: ::SpectreSan::{ user=11310442 }, ::{ flag=FR }:: ::Spartan Plume::{ user=2553166 } |
+| Commentator | ::{ flag=FR }:: ::Adri::{ user=4579132 }, ::{ flag=US }:: ::Edgar\_Figaro::{ user=6508754 } |
+| Statistician | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## Links
 
@@ -59,23 +59,23 @@ The DeltaMax's Mania Key Smasher was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=MY }:: [\[MY\]xRay](https://osu.ppy.sh/users/8287005), ::{ flag=GB }:: [xSnaggles](https://osu.ppy.sh/users/3799946), ::{ flag=AU }:: [Spartan-](https://osu.ppy.sh/users/2145124), ::{ flag=TH }:: [-\[DaNieL\_TH\]-](https://osu.ppy.sh/users/6456531), ::{ flag=US }:: [HeZeuS](https://osu.ppy.sh/users/7387788) |
-| High | ::{ flag=FI }:: [Camopoltergeist](https://osu.ppy.sh/users/8132964), ::{ flag=FR }:: [DemonWaves](https://osu.ppy.sh/users/3909293), ::{ flag=TH }:: [BossMadWolf](https://osu.ppy.sh/users/2772110), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=BE }:: [NightNarumi](https://osu.ppy.sh/users/4381142), ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) |
-| Low | ::{ flag=VE }:: [Edvo](https://osu.ppy.sh/users/8301758), ::{ flag=TH }:: [SharpKunG1412](https://osu.ppy.sh/users/6535376), ::{ flag=PL }:: [Arkitev](https://osu.ppy.sh/users/6905790), ::{ flag=CA }:: [Freeflow](https://osu.ppy.sh/users/2777647), ::{ flag=PL }:: [Hlimak](https://osu.ppy.sh/users/1340272), ::{ flag=US }:: [Laure](https://osu.ppy.sh/users/4565218), ::{ flag=IT }:: [CribobFangirl](https://osu.ppy.sh/users/2727928), ::{ flag=NL }:: [2fast4you98](https://osu.ppy.sh/users/5183940) |
-| Unseeded | ::{ flag=SE }:: [Craty](https://osu.ppy.sh/users/3918056), ::{ flag=IT }:: [-extradoge-](https://osu.ppy.sh/users/9135468), ::{ flag=FI }:: [princesswell](https://osu.ppy.sh/users/4789005), ::{ flag=IT }:: [Kiraz](https://osu.ppy.sh/users/3807675), ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607), ::{ flag=HK }:: [SamsonNote7](https://osu.ppy.sh/users/10353103), ::{ flag=DE }:: [Orange127](https://osu.ppy.sh/users/10244236), ::{ flag=FR }:: [ZayyKen](https://osu.ppy.sh/users/8624433) |
+| Top | ::{ flag=MY }:: ::cheewee10::{ user=4477497 }, ::{ flag=PL }:: ::SitekX::{ user=3840946 }, ::{ flag=TH }:: ::MyZterioN-::{ user=8521723 }, ::{ flag=MY }:: ::\[MY\]xRay::{ user=8287005 }, ::{ flag=GB }:: ::xSnaggles::{ user=3799946 }, ::{ flag=AU }:: ::Spartan-::{ user=2145124 }, ::{ flag=TH }:: ::-\[DaNieL\_TH\]-::{ user=6456531 }, ::{ flag=US }:: ::HeZeuS::{ user=7387788 } |
+| High | ::{ flag=FI }:: ::Camopoltergeist::{ user=8132964 }, ::{ flag=FR }:: ::DemonWaves::{ user=3909293 }, ::{ flag=TH }:: ::BossMadWolf::{ user=2772110 }, ::{ flag=CL }:: ::WalterToro::{ user=5281416 }, ::{ flag=PL }:: ::Kamikaze::{ user=2124783 }, ::{ flag=TH }:: ::HowToPlayLN::{ user=10879600 }, ::{ flag=BE }:: ::NightNarumi::{ user=4381142 }, ::{ flag=MY }:: ::Kibitz::{ user=7418493 } |
+| Low | ::{ flag=VE }:: ::Edvo::{ user=8301758 }, ::{ flag=TH }:: ::SharpKunG1412::{ user=6535376 }, ::{ flag=PL }:: ::Arkitev::{ user=6905790 }, ::{ flag=CA }:: ::Freeflow::{ user=2777647 }, ::{ flag=PL }:: ::Hlimak::{ user=1340272 }, ::{ flag=US }:: ::Laure::{ user=4565218 }, ::{ flag=IT }:: ::CribobFangirl::{ user=2727928 }, ::{ flag=NL }:: ::2fast4you98::{ user=5183940 } |
+| Unseeded | ::{ flag=SE }:: ::Craty::{ user=3918056 }, ::{ flag=IT }:: ::-extradoge-::{ user=9135468 }, ::{ flag=FI }:: ::princesswell::{ user=4789005 }, ::{ flag=IT }:: ::Kiraz::{ user=3807675 }, ::{ flag=PH }:: ::Shiyui-::{ user=9374607 }, ::{ flag=HK }:: ::SamsonNote7::{ user=10353103 }, ::{ flag=DE }:: ::Orange127::{ user=10244236 }, ::{ flag=FR }:: ::ZayyKen::{ user=8624433 } |
 
 ## Groups
 
 | Group | Top Seed | High Seed | Low Seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=TH }:: [-\[DaNieL\_TH\]-](https://osu.ppy.sh/users/6456531) | ::{ flag=FI }:: [Camopoltergeist](https://osu.ppy.sh/users/8132964) | ::{ flag=TH }:: [SharpKunG1412](https://osu.ppy.sh/users/6535376) | ::{ flag=SE }:: [Craty](https://osu.ppy.sh/users/3918056) |
-| **B** | ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723) | ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) | ::{ flag=US }:: [Laure](https://osu.ppy.sh/users/4565218) | ::{ flag=IT }:: [-extradoge-](https://osu.ppy.sh/users/9135468) |
-| **C** | ::{ flag=US }:: [HeZeuS](https://osu.ppy.sh/users/7387788) | ::{ flag=TH }:: [BossMadWolf](https://osu.ppy.sh/users/2772110) | ::{ flag=CA }:: [Freeflow](https://osu.ppy.sh/users/2777647) | ::{ flag=FI }:: [princesswell](https://osu.ppy.sh/users/4789005) |
-| **D** | ::{ flag=GB }:: [xSnaggles](https://osu.ppy.sh/users/3799946) | ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783) | ::{ flag=PL }:: [Hlimak](https://osu.ppy.sh/users/1340272) | ::{ flag=DE }:: [Orange127](https://osu.ppy.sh/users/10244236) |
-| **E** | ::{ flag=AU }:: [Spartan-](https://osu.ppy.sh/users/2145124) | ::{ flag=FR }:: [DemonWaves](https://osu.ppy.sh/users/3909293) | ::{ flag=NL }:: [2fast4you98](https://osu.ppy.sh/users/5183940) | ::{ flag=FR }:: [ZayyKen](https://osu.ppy.sh/users/8624433) |
-| **F** | ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | ::{ flag=PL }:: [Arkitev](https://osu.ppy.sh/users/6905790) | ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607) |
-| **G** | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600) | ::{ flag=IT }:: [CribobFangirl](https://osu.ppy.sh/users/2727928) | ::{ flag=IT }:: [Kiraz](https://osu.ppy.sh/users/3807675) |
-| **H** | ::{ flag=MY }:: [\[MY\]xRay](https://osu.ppy.sh/users/8287005) | ::{ flag=BE }:: [NightNarumi](https://osu.ppy.sh/users/4381142) | ::{ flag=VE }:: [Edvo](https://osu.ppy.sh/users/8301758) | ::{ flag=HK }:: [SamsonNote7](https://osu.ppy.sh/users/10353103) |
+| **A** | ::{ flag=TH }:: ::-\[DaNieL\_TH\]-::{ user=6456531 } | ::{ flag=FI }:: ::Camopoltergeist::{ user=8132964 } | ::{ flag=TH }:: ::SharpKunG1412::{ user=6535376 } | ::{ flag=SE }:: ::Craty::{ user=3918056 } |
+| **B** | ::{ flag=TH }:: ::MyZterioN-::{ user=8521723 } | ::{ flag=MY }:: ::Kibitz::{ user=7418493 } | ::{ flag=US }:: ::Laure::{ user=4565218 } | ::{ flag=IT }:: ::-extradoge-::{ user=9135468 } |
+| **C** | ::{ flag=US }:: ::HeZeuS::{ user=7387788 } | ::{ flag=TH }:: ::BossMadWolf::{ user=2772110 } | ::{ flag=CA }:: ::Freeflow::{ user=2777647 } | ::{ flag=FI }:: ::princesswell::{ user=4789005 } |
+| **D** | ::{ flag=GB }:: ::xSnaggles::{ user=3799946 } | ::{ flag=PL }:: ::Kamikaze::{ user=2124783 } | ::{ flag=PL }:: ::Hlimak::{ user=1340272 } | ::{ flag=DE }:: ::Orange127::{ user=10244236 } |
+| **E** | ::{ flag=AU }:: ::Spartan-::{ user=2145124 } | ::{ flag=FR }:: ::DemonWaves::{ user=3909293 } | ::{ flag=NL }:: ::2fast4you98::{ user=5183940 } | ::{ flag=FR }:: ::ZayyKen::{ user=8624433 } |
+| **F** | ::{ flag=PL }:: ::SitekX::{ user=3840946 } | ::{ flag=CL }:: ::WalterToro::{ user=5281416 } | ::{ flag=PL }:: ::Arkitev::{ user=6905790 } | ::{ flag=PH }:: ::Shiyui-::{ user=9374607 } |
+| **G** | ::{ flag=MY }:: ::cheewee10::{ user=4477497 } | ::{ flag=TH }:: ::HowToPlayLN::{ user=10879600 } | ::{ flag=IT }:: ::CribobFangirl::{ user=2727928 } | ::{ flag=IT }:: ::Kiraz::{ user=3807675 } |
+| **H** | ::{ flag=MY }:: ::\[MY\]xRay::{ user=8287005 } | ::{ flag=BE }:: ::NightNarumi::{ user=4381142 } | ::{ flag=VE }:: ::Edvo::{ user=8301758 } | ::{ flag=HK }:: ::SamsonNote7::{ user=10353103 } |
 
 ## Podium
 
@@ -83,9 +83,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [xSnaggles](https://osu.ppy.sh/users/3799946) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=MY }:: ::cheewee10::{ user=4477497 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: ::xSnaggles::{ user=3799946 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PL }:: ::SitekX::{ user=3840946 } |
 
 ## Mappools
 

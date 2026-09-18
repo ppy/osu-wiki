@@ -34,13 +34,13 @@ The Skinning Contest #4 is run by various community members.
 
 | User | Responsibility |
 | :-- | :-- |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | News post writing |
-| ::{ flag=DE }:: [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning |
-| ::{ flag=RO }:: [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Contest planning, internal tool development |
-| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening |
-| ::{ flag=GB }:: [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning |
-| ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) | Contest planning |
+| ::{ flag=RS }:: ::0x84f::{ user=7944724 } | News post writing |
+| ::{ flag=DE }:: ::Master-TigerKun::{ user=10688456 } | Contest planning |
+| ::{ flag=RO }:: ::Matt2e2::{ user=12144912 } | Contest planning |
+| ::{ flag=NL }:: ::Roan::{ user=8214639 } | Contest planning, internal tool development |
+| ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Contest planning, submission screening |
+| ::{ flag=GB }:: ::tetsui::{ user=10974678 } | Contest planning |
+| ::{ flag=TR }:: ::Zeus-::{ user=5464437 } | Contest planning |
 
 ## Links
 
@@ -57,33 +57,33 @@ The Skinning Contest #4 is run by various community members.
 
 | Skinner | Entry |
 | :-- | :-- |
-| ::{ flag=AU }:: [Mooyangon](https://osu.ppy.sh/users/18655444) | [Light Moon](https://osu.ppy.sh/community/forums/topics/1908624) |
-| ::{ flag=SA }:: [Dijjin](https://osu.ppy.sh/users/18400287) | [Comet IS0N](https://osu.ppy.sh/community/forums/topics/1908734) |
-| ::{ flag=CN }:: [1740-Tobari](https://osu.ppy.sh/users/24673124) | [-The adventures of ryunosuke seibu-(成歩堂龍ノ介の冒険)](https://osu.ppy.sh/community/forums/topics/1908862) |
-| ::{ flag=BR }:: [MSF12](https://osu.ppy.sh/users/16085671) | [MY WORLD SKIN](https://osu.ppy.sh/community/forums/topics/1909545) |
-| ::{ flag=RU }:: [xTerrion](https://osu.ppy.sh/users/15679478) | [TECH](https://osu.ppy.sh/community/forums/topics/1923252) |
-| ::{ flag=TH }:: [atturbo555](https://osu.ppy.sh/users/5730417) | [Cherry Corolla](https://osu.ppy.sh/community/forums/topics/1912102) |
-| ::{ flag=RU }:: [TogiraW](https://osu.ppy.sh/users/20149300) | [Bullet Hell Monday Finale [弾幕月曜日終章]](https://osu.ppy.sh/community/forums/topics/1918059) |
-| ::{ flag=CN }:: [Citrusis](https://osu.ppy.sh/users/30298378) | [Rainbow⁵¹⁴](https://osu.ppy.sh/community/forums/topics/1919980) |
-| ::{ flag=MX }:: [ZixStar](https://osu.ppy.sh/users/11844975) | [StickMania](https://osu.ppy.sh/community/forums/topics/1920401) |
-| ::{ flag=US }:: [Miorine](https://osu.ppy.sh/users/12630408) | [Phosphor](https://osu.ppy.sh/community/forums/topics/1920571) |
-| ::{ flag=TW }:: [fred9909](https://osu.ppy.sh/users/502239) | [Murasaki Purple](https://osu.ppy.sh/community/forums/topics/1923479) |
-| ::{ flag=MX }:: [XetThe](https://osu.ppy.sh/users/16274977) | [LineageOS](https://osu.ppy.sh/community/forums/topics/1923880) |
-| ::{ flag=FR }:: [GhoztTime](https://osu.ppy.sh/users/11635690) | [casinosu!](https://osu.ppy.sh/community/forums/topics/1924044) |
-| ::{ flag=ID }:: [Akshiro](https://osu.ppy.sh/users/10557490) | [Eris Greyrat](https://osu.ppy.sh/community/forums/topics/1924459) |
-| ::{ flag=BE }:: [maikayuii](https://osu.ppy.sh/users/27370842) | [「真実の魔女」 Witch Of Truth](https://osu.ppy.sh/community/forums/topics/1925018) |
-| ::{ flag=MY }:: [NyuPenyu](https://osu.ppy.sh/users/12233680) | [chromb-chan](https://osu.ppy.sh/community/forums/topics/1925084) |
-| ::{ flag=US }:: [Ayy Its L](https://osu.ppy.sh/users/17890847) | [Neon Purple](https://osu.ppy.sh/community/forums/topics/1925169) |
-| ::{ flag=ID }:: [mousewing](https://osu.ppy.sh/users/10837448) | [Bstation Skin!](https://osu.ppy.sh/community/forums/topics/1925215) |
-| ::{ flag=DE }:: [LeoFrn](https://osu.ppy.sh/users/19795875) | [I REFUSE TO LOSE](https://osu.ppy.sh/community/forums/topics/1925389) |
-| ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [echoing inside.](https://osu.ppy.sh/community/forums/topics/1925867) |
-| ::{ flag=AU }:: [Aveil](https://osu.ppy.sh/users/11635646) | [RAVENHUE](https://osu.ppy.sh/community/forums/topics/1925905) |
-| ::{ flag=US }:: [Chromasia](https://osu.ppy.sh/users/7306251) | [ROSULA](https://osu.ppy.sh/community/forums/topics/1925929) |
-| ::{ flag=US }:: [lilrawk](https://osu.ppy.sh/users/13799581) | [VISIONS](https://osu.ppy.sh/community/forums/topics/1925961) |
-| ::{ flag=VN }:: [Ben_5917](https://osu.ppy.sh/users/6026593) | [cTRL](https://osu.ppy.sh/community/forums/topics/1926175) |
-| ::{ flag=DE }:: [janmagtoast](https://osu.ppy.sh/users/16849319) | [osu!checkmate](https://osu.ppy.sh/community/forums/topics/1926184) |
-| ::{ flag=US }:: [Icysandwich](https://osu.ppy.sh/users/10961544) | [Apple Camp](https://osu.ppy.sh/community/forums/topics/1926191) |
-| ::{ flag=US }:: [Syvatzia](https://osu.ppy.sh/users/19082107) | [Reflections Unchained](https://osu.ppy.sh/community/forums/topics/1926206) |
+| ::{ flag=AU }:: ::Mooyangon::{ user=18655444 } | [Light Moon](https://osu.ppy.sh/community/forums/topics/1908624) |
+| ::{ flag=SA }:: ::Dijjin::{ user=18400287 } | [Comet IS0N](https://osu.ppy.sh/community/forums/topics/1908734) |
+| ::{ flag=CN }:: ::1740-Tobari::{ user=24673124 } | [-The adventures of ryunosuke seibu-(成歩堂龍ノ介の冒険)](https://osu.ppy.sh/community/forums/topics/1908862) |
+| ::{ flag=BR }:: ::MSF12::{ user=16085671 } | [MY WORLD SKIN](https://osu.ppy.sh/community/forums/topics/1909545) |
+| ::{ flag=RU }:: ::xTerrion::{ user=15679478 } | [TECH](https://osu.ppy.sh/community/forums/topics/1923252) |
+| ::{ flag=TH }:: ::atturbo555::{ user=5730417 } | [Cherry Corolla](https://osu.ppy.sh/community/forums/topics/1912102) |
+| ::{ flag=RU }:: ::TogiraW::{ user=20149300 } | [Bullet Hell Monday Finale [弾幕月曜日終章]](https://osu.ppy.sh/community/forums/topics/1918059) |
+| ::{ flag=CN }:: ::Citrusis::{ user=30298378 } | [Rainbow⁵¹⁴](https://osu.ppy.sh/community/forums/topics/1919980) |
+| ::{ flag=MX }:: ::ZixStar::{ user=11844975 } | [StickMania](https://osu.ppy.sh/community/forums/topics/1920401) |
+| ::{ flag=US }:: ::Miorine::{ user=12630408 } | [Phosphor](https://osu.ppy.sh/community/forums/topics/1920571) |
+| ::{ flag=TW }:: ::fred9909::{ user=502239 } | [Murasaki Purple](https://osu.ppy.sh/community/forums/topics/1923479) |
+| ::{ flag=MX }:: ::XetThe::{ user=16274977 } | [LineageOS](https://osu.ppy.sh/community/forums/topics/1923880) |
+| ::{ flag=FR }:: ::GhoztTime::{ user=11635690 } | [casinosu!](https://osu.ppy.sh/community/forums/topics/1924044) |
+| ::{ flag=ID }:: ::Akshiro::{ user=10557490 } | [Eris Greyrat](https://osu.ppy.sh/community/forums/topics/1924459) |
+| ::{ flag=BE }:: ::maikayuii::{ user=27370842 } | [「真実の魔女」 Witch Of Truth](https://osu.ppy.sh/community/forums/topics/1925018) |
+| ::{ flag=MY }:: ::NyuPenyu::{ user=12233680 } | [chromb-chan](https://osu.ppy.sh/community/forums/topics/1925084) |
+| ::{ flag=US }:: ::Ayy Its L::{ user=17890847 } | [Neon Purple](https://osu.ppy.sh/community/forums/topics/1925169) |
+| ::{ flag=ID }:: ::mousewing::{ user=10837448 } | [Bstation Skin!](https://osu.ppy.sh/community/forums/topics/1925215) |
+| ::{ flag=DE }:: ::LeoFrn::{ user=19795875 } | [I REFUSE TO LOSE](https://osu.ppy.sh/community/forums/topics/1925389) |
+| ::{ flag=BY }:: ::thetasigma::{ user=6234482 } | [echoing inside.](https://osu.ppy.sh/community/forums/topics/1925867) |
+| ::{ flag=AU }:: ::Aveil::{ user=11635646 } | [RAVENHUE](https://osu.ppy.sh/community/forums/topics/1925905) |
+| ::{ flag=US }:: ::Chromasia::{ user=7306251 } | [ROSULA](https://osu.ppy.sh/community/forums/topics/1925929) |
+| ::{ flag=US }:: ::lilrawk::{ user=13799581 } | [VISIONS](https://osu.ppy.sh/community/forums/topics/1925961) |
+| ::{ flag=VN }:: ::Ben\15917::{ user=6026593 } | [cTRL](https://osu.ppy.sh/community/forums/topics/1926175) |
+| ::{ flag=DE }:: ::janmagtoast::{ user=16849319 } | [osu!checkmate](https://osu.ppy.sh/community/forums/topics/1926184) |
+| ::{ flag=US }:: ::Icysandwich::{ user=10961544 } | [Apple Camp](https://osu.ppy.sh/community/forums/topics/1926191) |
+| ::{ flag=US }:: ::Syvatzia::{ user=19082107 } | [Reflections Unchained](https://osu.ppy.sh/community/forums/topics/1926206) |
 
 ## Podium
 

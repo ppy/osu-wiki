@@ -44,7 +44,7 @@ Priority quests are labelled by difficulty. Tier 1 is the easiest, while tier 5 
 
 Rewards are distributed through a point system. When a user reaches a specified point[^points] threshold, they earn a different rank signified by a profile badge.
 
-When the Mappers' Guild began, there were three profile badge tiers at 100, 250, and 500 points respectively. After [Annabel](https://osu.ppy.sh/users/3388410) became the first user to reach 1000 points, a fourth tier was created, and after [Hinsvar](https://osu.ppy.sh/users/1249323) became the first user to reach 2500 points, a fifth tier was created. Hinsvar is also the first user to reach 5000 points, but a sixth tier has not yet been introduced.
+When the Mappers' Guild began, there were three profile badge tiers at 100, 250, and 500 points respectively. After ::Annabel::{ user=3388410 } became the first user to reach 1000 points, a fourth tier was created, and after ::Hinsvar::{ user=1249323 } became the first user to reach 2500 points, a fifth tier was created. Hinsvar is also the first user to reach 5000 points, but a sixth tier has not yet been introduced.
 
 Points are earned for different Mappers' Guild tasks. Earnings vary between tasks, though they are generally weighted according to the amount of time required. For example, mapping a Hard difficulty takes more time than mapping an Easy difficulty, so the former rewards more points than the latter.
 
@@ -109,7 +109,7 @@ Following in the footsteps of both of these beatmap packs, the Mappers' Guild co
 
 ### Automation
 
-While the initial plan for the Mappers' Guild had always been to have MMO elements like quests, that was found to be impractical to handle while manually managing deadlines for the limited number of guild participants. ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) and ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) began development of a website to automate Mappers' Guild at the end of 2018, allowing for more adequate distribution of rewards and management of quest/party systems.
+While the initial plan for the Mappers' Guild had always been to have MMO elements like quests, that was found to be impractical to handle while manually managing deadlines for the limited number of guild participants. ::{ flag=US }:: ::pishifat::{ user=3178418 } and ::{ flag=CL }:: ::Milan-::{ user=1052994 } began development of a website to automate Mappers' Guild at the end of 2018, allowing for more adequate distribution of rewards and management of quest/party systems.
 
 The [Mappers' Guild website](https://mappersguild.com/) launched on the 1st of March 2019, and is where everything about the Mappers' Guild is currently controlled. Since being opened to the public, the guild has reached a member count over 500 and publishes [update news posts](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) to keep the rest of the osu! community up-to-date with Featured Artist mapping content.
 

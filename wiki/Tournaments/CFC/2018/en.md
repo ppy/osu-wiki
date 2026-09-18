@@ -8,7 +8,7 @@ tags:
 
 ![CFC 2018 logo](img/logo.png)
 
-The **Catch French Cup 2018** (***CFC 2018***) was a one-on-one French osu!catch tournament hosted by ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second instalment of the Catch French Cup.
+The **Catch French Cup 2018** (***CFC 2018***) was a one-on-one French osu!catch tournament hosted by ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }. It was the second instalment of the Catch French Cup.
 
 ## Tournament schedule
 
@@ -35,13 +35,13 @@ The Catch French Cup 2018 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Mappool selector | ::{ flag=FR }:: [Rougoku](https://osu.ppy.sh/users/6900166), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994) |
-| Referee | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=FR }:: [Rsuiono](https://osu.ppy.sh/users/9266902), ::{ flag=FR }:: [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [300BPM JUMPER](https://osu.ppy.sh/users/1893667), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
-| Streamer | ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [300BPM JUMPER](https://osu.ppy.sh/users/1893667), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=FR }:: [Star Sapphire](https://osu.ppy.sh/users/2953898) |
-| Commentator | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Corn-](https://osu.ppy.sh/users/4089232), ::{ flag=FR }:: [Orazeit](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [Star Sapphire](https://osu.ppy.sh/users/2953898), ::{ flag=FR }:: [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) |
-| Designer | ::{ flag=FR }:: [Lotchidych](https://osu.ppy.sh/users/8375240) |
-| Wiki editor | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Manager | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Mappool selector | ::{ flag=FR }:: ::Rougoku::{ user=6900166 }, ::{ flag=FR }:: ::Holloh::{ user=7612994 } |
+| Referee | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::Ryumi::{ user=6596270 }, ::{ flag=FR }:: ::Rsuiono::{ user=9266902 }, ::{ flag=FR }:: ::TLQ\1Yoshii::{ user=7157133 }, ::{ flag=FR }:: ::300BPM JUMPER::{ user=1893667 }, ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 } |
+| Streamer | ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 }, ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 }, ::{ flag=FR }:: ::300BPM JUMPER::{ user=1893667 }, ::{ flag=FR }:: ::Kaeldori::{ user=962519 }, ::{ flag=FR }:: ::Star Sapphire::{ user=2953898 } |
+| Commentator | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 }, ::{ flag=FR }:: ::Corn-::{ user=4089232 }, ::{ flag=FR }:: ::Orazeit::{ user=8335913 }, ::{ flag=FR }:: ::Star Sapphire::{ user=2953898 }, ::{ flag=FR }:: ::4L-Chan 3 Porte::{ user=7253987 } |
+| Designer | ::{ flag=FR }:: ::Lotchidych::{ user=8375240 } |
+| Wiki editor | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
 
 ## Links
 
@@ -53,10 +53,10 @@ The Catch French Cup 2018 was run by various community members.
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239) | ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640) | ::{ flag=FR }:: [\[E\] n i g m a](https://osu.ppy.sh/users/9354778) |
-| **B** | ::{ flag=FR }:: [Aqliva](https://osu.ppy.sh/users/2986875) | ::{ flag=FR }:: [Kyuare](https://osu.ppy.sh/users/2705312) | ::{ flag=FR }:: [CaptainAlexis](https://osu.ppy.sh/users/6872242) | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| **C** | ::{ flag=FR }:: [Sounny](https://osu.ppy.sh/users/7326109) | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) | ::{ flag=FR }:: [Orazeit](https://osu.ppy.sh/users/8335913) | ::{ flag=FR }:: [I Sora I](https://osu.ppy.sh/users/4843750) |
-| **D** | ::{ flag=FR }:: [Le grand casque](https://osu.ppy.sh/users/5490623) | ::{ flag=FR }:: [RemSuckMyDuck](https://osu.ppy.sh/users/1698323) | ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) | ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
+| **A** | ::{ flag=FR }:: ::bastoo0::{ user=4864877 } | ::{ flag=FR }:: ::Julo::{ user=4203239 } | ::{ flag=FR }:: ::Realmas::{ user=6567640 } | ::{ flag=FR }:: ::\[E\] n i g m a::{ user=9354778 } |
+| **B** | ::{ flag=FR }:: ::Aqliva::{ user=2986875 } | ::{ flag=FR }:: ::Kyuare::{ user=2705312 } | ::{ flag=FR }:: ::CaptainAlexis::{ user=6872242 } | ::{ flag=FR }:: ::Yruama::{ user=8221467 } |
+| **C** | ::{ flag=FR }:: ::Sounny::{ user=7326109 } | ::{ flag=FR }:: ::dracoV::{ user=7925725 } | ::{ flag=FR }:: ::Orazeit::{ user=8335913 } | ::{ flag=FR }:: ::I Sora I::{ user=4843750 } |
+| **D** | ::{ flag=FR }:: ::Le grand casque::{ user=5490623 } | ::{ flag=FR }:: ::RemSuckMyDuck::{ user=1698323 } | ::{ flag=FR }:: ::Electr0o::{ user=9484428 } | ::{ flag=FR }:: ::redjiii::{ user=1378728 } |
 
 ## Podium
 
@@ -64,9 +64,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Le grand casque](https://osu.ppy.sh/users/5490623) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: ::Le grand casque::{ user=5490623 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: ::Julo::{ user=4203239 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: ::Electr0o::{ user=9484428 } |
 
 ## Mappools
 

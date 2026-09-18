@@ -8,7 +8,7 @@ tags:
 
 ![oMMFF logo](img/logo.png)
 
-The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elimination tournament hosted by ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) for the osu!, osu!taiko, osu!catch, and the osu!mania game modes. It was the first instalment of the osu! Multi Mode French Fiesta.
+The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elimination tournament hosted by ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } for the osu!, osu!taiko, osu!catch, and the osu!mania game modes. It was the first instalment of the osu! Multi Mode French Fiesta.
 
 ## Tournament schedule
 
@@ -75,7 +75,7 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***) was a 1v1 French double-elim
 ![](img/badge-std.png "oMMFF winner badge (osu!)") ![](img/badge-tko.png "oMMFF winner badge (osu!taiko)") ![](img/badge-ctb.png "oMMFF winner badge (osu!catch)") ![](img/badge-mna.png "oMMFF winner badge (osu!mania)")
 
 - For the osu! division, all winners got a tablet cover sponsored by [Foxbox](https://foxbox.io/).
-- Physical trophy was custom made specially for the tournament courtesy of ::{ flag=FR }:: [Enygmatique](https://osu.ppy.sh/users/5146531).
+- Physical trophy was custom made specially for the tournament courtesy of ::{ flag=FR }:: ::Enygmatique::{ user=5146531 }.
 
 ## Organisation
 
@@ -83,21 +83,21 @@ The osu! Multi Mode French Fiesta was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Head referee | ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
-| Mappool selector (osu!) | ::{ flag=FR }:: [Barbex](https://osu.ppy.sh/users/4904410), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) |
-| Mappool selector (osu!taiko) | ::{ flag=FR }:: [Nofool](https://osu.ppy.sh/users/672430) |
-| Mappool selector (osu!catch) | ::{ flag=FR }:: [Emiru](https://osu.ppy.sh/users/3306180) |
-| Mappool selector (osu!mania) | ::{ flag=FR }:: [Adri](https://osu.ppy.sh/users/4579132), ::{ flag=FR }:: [AntoAa](https://osu.ppy.sh/users/3897919), ::{ flag=FR }:: [Tantei B](https://osu.ppy.sh/users/6063108), ::{ flag=FR }:: [Cunu](https://osu.ppy.sh/users/7190228), ::{ flag=CH }:: [Haprapra](https://osu.ppy.sh/users/3974114) |
-| Streamer | ::{ flag=FR }:: [Adri](https://osu.ppy.sh/users/4579132), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=CH }:: [Haprapra](https://osu.ppy.sh/users/3974114), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
-| Commentator (osu!) | ::{ flag=FR }:: [\[Haku\]](https://osu.ppy.sh/users/2329184), ::{ flag=FR }:: [Barbex](https://osu.ppy.sh/users/4904410), ::{ flag=FR }:: [Battquif](https://osu.ppy.sh/users/2389333), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [SiYes](https://osu.ppy.sh/users/8868144), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=FR }:: [Zonthem](https://osu.ppy.sh/users/7193908), ::{ flag=FR }:: [-raizen-](https://osu.ppy.sh/users/3872987), ::{ flag=FR }:: [-Unknow](https://osu.ppy.sh/users/3723612), ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042) |
-| Commentator (osu!taiko) | ::{ flag=FR }:: [\[Haku\]](https://osu.ppy.sh/users/2329184), ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042), ::{ flag=FR }:: [Nofool](https://osu.ppy.sh/users/672430), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TimmyAkmed](https://osu.ppy.sh/users/1799973), ::{ flag=FR }:: [Misieuroo](https://osu.ppy.sh/users/6732862), ::{ flag=FR }:: [omegaflo](https://osu.ppy.sh/users/83291), ::{ flag=FR }:: [-Valony-](https://osu.ppy.sh/users/6487540) |
-| Commentator (osu!catch) | ::{ flag=FR }:: [\[Haku\]](https://osu.ppy.sh/users/2329184), ::{ flag=FR }:: [Bloodenay](https://osu.ppy.sh/users/7303988), ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Libegon](https://osu.ppy.sh/users/9922381), ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728), ::{ flag=FR }:: [Rougoku](https://osu.ppy.sh/users/6900166) |
-| Commentator (osu!mania) | ::{ flag=FR }:: [\[Haku\]](https://osu.ppy.sh/users/2329184), ::{ flag=FR }:: [Adri](https://osu.ppy.sh/users/4579132), ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042), ::{ flag=FR }:: [DemonWaves](https://osu.ppy.sh/users/3909293), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683), ::{ flag=FR }:: [Ominy](https://osu.ppy.sh/users/9299077), ::{ flag=FR }:: [AntoAa](https://osu.ppy.sh/users/3897919), ::{ flag=FR }:: [Cunu](https://osu.ppy.sh/users/7190228), ::{ flag=FR }:: [Koiidex](https://osu.ppy.sh/users/5193488) |
-| Designer | ::{ flag=DE }:: [Celektus](https://osu.ppy.sh/users/4294993), ::{ flag=FR }:: [Lotchidych](https://osu.ppy.sh/users/8375240) |
-| Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Referee | ::{ flag=FR }:: [Amezurys](https://osu.ppy.sh/users/5207167), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Kebab De Poche](https://osu.ppy.sh/users/6467693), ::{ flag=FR }:: [\[ Mimir \]](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=FR }:: [Spartan Plume](https://osu.ppy.sh/users/2553166), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=GB }:: [Weavile](https://osu.ppy.sh/users/9665028), ::{ flag=FR }::[Tigzick](https://osu.ppy.sh/users/6745742), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517), ::{ flag=FR }:: [Nofool](https://osu.ppy.sh/users/672430) |
-| Wiki editor | ::{ flag=ID }:: [Naruk](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Head referee | ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 } |
+| Mappool selector (osu!) | ::{ flag=FR }:: ::Barbex::{ user=4904410 }, ::{ flag=FR }:: ::Nozhomi::{ user=2716981 } |
+| Mappool selector (osu!taiko) | ::{ flag=FR }:: ::Nofool::{ user=672430 } |
+| Mappool selector (osu!catch) | ::{ flag=FR }:: ::Emiru::{ user=3306180 } |
+| Mappool selector (osu!mania) | ::{ flag=FR }:: ::Adri::{ user=4579132 }, ::{ flag=FR }:: ::AntoAa::{ user=3897919 }, ::{ flag=FR }:: ::Tantei B::{ user=6063108 }, ::{ flag=FR }:: ::Cunu::{ user=7190228 }, ::{ flag=CH }:: ::Haprapra::{ user=3974114 } |
+| Streamer | ::{ flag=FR }:: ::Adri::{ user=4579132 }, ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 }, ::{ flag=FR }:: ::Kaeldori::{ user=962519 }, ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 }, ::{ flag=CA }:: ::Sinaeb::{ user=1576095 }, ::{ flag=CH }:: ::Haprapra::{ user=3974114 }, ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 } |
+| Commentator (osu!) | ::{ flag=FR }:: ::\[Haku\]::{ user=2329184 }, ::{ flag=FR }:: ::Barbex::{ user=4904410 }, ::{ flag=FR }:: ::Battquif::{ user=2389333 }, ::{ flag=FR }:: ::Kaeldori::{ user=962519 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::Musty::{ user=251683 }, ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 }, ::{ flag=FR }:: ::SiYes::{ user=8868144 }, ::{ flag=FR }:: ::ThePooN::{ user=718454 }, ::{ flag=FR }:: ::Zonthem::{ user=7193908 }, ::{ flag=FR }:: ::-raizen-::{ user=3872987 }, ::{ flag=FR }:: ::-Unknow::{ user=3723612 }, ::{ flag=FR }:: ::Chernobog::{ user=3317042 } |
+| Commentator (osu!taiko) | ::{ flag=FR }:: ::\[Haku\]::{ user=2329184 }, ::{ flag=FR }:: ::Chernobog::{ user=3317042 }, ::{ flag=FR }:: ::Nofool::{ user=672430 }, ::{ flag=FR }:: ::Kaeldori::{ user=962519 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::TimmyAkmed::{ user=1799973 }, ::{ flag=FR }:: ::Misieuroo::{ user=6732862 }, ::{ flag=FR }:: ::omegaflo::{ user=83291 }, ::{ flag=FR }:: ::-Valony-::{ user=6487540 } |
+| Commentator (osu!catch) | ::{ flag=FR }:: ::\[Haku\]::{ user=2329184 }, ::{ flag=FR }:: ::Bloodenay::{ user=7303988 }, ::{ flag=FR }:: ::Chernobog::{ user=3317042 }, ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 }, ::{ flag=FR }:: ::Kaeldori::{ user=962519 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::Libegon::{ user=9922381 }, ::{ flag=FR }:: ::\_Manyura::{ user=8335913 }, ::{ flag=FR }:: ::redjiii::{ user=1378728 }, ::{ flag=FR }:: ::Rougoku::{ user=6900166 } |
+| Commentator (osu!mania) | ::{ flag=FR }:: ::\[Haku\]::{ user=2329184 }, ::{ flag=FR }:: ::Adri::{ user=4579132 }, ::{ flag=FR }:: ::Chernobog::{ user=3317042 }, ::{ flag=FR }:: ::DemonWaves::{ user=3909293 }, ::{ flag=FR }:: ::Kaeldori::{ user=962519 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::Musty::{ user=251683 }, ::{ flag=FR }:: ::Ominy::{ user=9299077 }, ::{ flag=FR }:: ::AntoAa::{ user=3897919 }, ::{ flag=FR }:: ::Cunu::{ user=7190228 }, ::{ flag=FR }:: ::Koiidex::{ user=5193488 } |
+| Designer | ::{ flag=DE }:: ::Celektus::{ user=4294993 }, ::{ flag=FR }:: ::Lotchidych::{ user=8375240 } |
+| Statistician | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Referee | ::{ flag=FR }:: ::Amezurys::{ user=5207167 }, ::{ flag=JP }:: ::Briesmas::{ user=2865172 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::Kebab De Poche::{ user=6467693 }, ::{ flag=FR }:: ::\[ Mimir \]::{ user=7382734 }, ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 }, ::{ flag=FR }:: ::Ryumi::{ user=6596270 }, ::{ flag=CA }:: ::Sinaeb::{ user=1576095 }, ::{ flag=FR }:: ::Spartan Plume::{ user=2553166 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 }, ::{ flag=GB }:: ::Weavile::{ user=9665028 }, ::{ flag=FR }::::Tigzick::{ user=6745742 }, ::{ flag=FR }:: ::Mirthille::{ user=7548517 }, ::{ flag=FR }:: ::Nofool::{ user=672430 } |
+| Wiki editor | ::{ flag=ID }:: ::Naruk::{ user=7100002 } |
 
 ## Links
 
@@ -117,37 +117,37 @@ The osu! Multi Mode French Fiesta was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=FR }:: [-raizen-](https://osu.ppy.sh/users/3872987), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=FR }:: [Flaven](https://osu.ppy.sh/users/3213239), ::{ flag=FR }:: [SiYes](https://osu.ppy.sh/users/8868144), ::{ flag=FR }:: [Mooha](https://osu.ppy.sh/users/2705430), ::{ flag=FR }:: [NerO](https://osu.ppy.sh/users/1545031), ::{ flag=FR }:: [JustMan](https://osu.ppy.sh/users/7657831), ::{ flag=FR }:: [Besta](https://osu.ppy.sh/users/5189431) |
-| High | ::{ flag=FR }:: [Raiiden](https://osu.ppy.sh/users/6277316), ::{ flag=FR }:: [VicoTeen](https://osu.ppy.sh/users/4339470), ::{ flag=FR }:: [\_Aquatic\_](https://osu.ppy.sh/users/4604369), ::{ flag=FR }:: [FayeurS 2](https://osu.ppy.sh/users/4141918), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [BAKKALO](https://osu.ppy.sh/users/7948627), ::{ flag=FR }:: [cleminiti](https://osu.ppy.sh/users/5949547), ::{ flag=FR }:: [Wrys](https://osu.ppy.sh/users/3093139) |
-| Low | ::{ flag=FR }:: [Funta668](https://osu.ppy.sh/users/6608227), ::{ flag=FR }:: [Ice Tea citron](https://osu.ppy.sh/users/7298776), ::{ flag=FR }:: [RyuuBei](https://osu.ppy.sh/users/2222447), ::{ flag=FR }:: [volor](https://osu.ppy.sh/users/4898550), ::{ flag=BE }:: [steen](https://osu.ppy.sh/users/9441958), ::{ flag=FR }:: [SanaeFrost](https://osu.ppy.sh/users/4303161), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523), ::{ flag=FR }:: [-Unknow](https://osu.ppy.sh/users/3723612) |
-| Unseeded | ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=FR }:: [CreeDi](https://osu.ppy.sh/users/9790881), ::{ flag=IE }:: [S E K A I](https://osu.ppy.sh/users/8726490), ::{ flag=FR }:: [\[-Vanilla-\]](https://osu.ppy.sh/users/11717152), ::{ flag=FR }:: [GuiboxFR](https://osu.ppy.sh/users/11261739), ::{ flag=BF }:: [linkfire](https://osu.ppy.sh/users/11719870), ::{ flag=BE }:: [Xawaii](https://osu.ppy.sh/users/10609299) |
+| Top | ::{ flag=FR }:: ::-raizen-::{ user=3872987 }, ::{ flag=FR }:: ::ThePooN::{ user=718454 }, ::{ flag=FR }:: ::Flaven::{ user=3213239 }, ::{ flag=FR }:: ::SiYes::{ user=8868144 }, ::{ flag=FR }:: ::Mooha::{ user=2705430 }, ::{ flag=FR }:: ::NerO::{ user=1545031 }, ::{ flag=FR }:: ::JustMan::{ user=7657831 }, ::{ flag=FR }:: ::Besta::{ user=5189431 } |
+| High | ::{ flag=FR }:: ::Raiiden::{ user=6277316 }, ::{ flag=FR }:: ::VicoTeen::{ user=4339470 }, ::{ flag=FR }:: ::\_Aquatic\_::{ user=4604369 }, ::{ flag=FR }:: ::FayeurS 2::{ user=4141918 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 }, ::{ flag=FR }:: ::BAKKALO::{ user=7948627 }, ::{ flag=FR }:: ::cleminiti::{ user=5949547 }, ::{ flag=FR }:: ::Wrys::{ user=3093139 } |
+| Low | ::{ flag=FR }:: ::Funta668::{ user=6608227 }, ::{ flag=FR }:: ::Ice Tea citron::{ user=7298776 }, ::{ flag=FR }:: ::RyuuBei::{ user=2222447 }, ::{ flag=FR }:: ::volor::{ user=4898550 }, ::{ flag=BE }:: ::steen::{ user=9441958 }, ::{ flag=FR }:: ::SanaeFrost::{ user=4303161 }, ::{ flag=FR }:: ::Kammthaar::{ user=8802523 }, ::{ flag=FR }:: ::-Unknow::{ user=3723612 } |
+| Unseeded | ::{ flag=FR }:: ::Mirthille::{ user=7548517 }, ::{ flag=FR }:: ::Kaeldori::{ user=962519 }, ::{ flag=FR }:: ::CreeDi::{ user=9790881 }, ::{ flag=IE }:: ::S E K A I::{ user=8726490 }, ::{ flag=FR }:: ::\[-Vanilla-\]::{ user=11717152 }, ::{ flag=FR }:: ::GuiboxFR::{ user=11261739 }, ::{ flag=BF }:: ::linkfire::{ user=11719870 }, ::{ flag=BE }:: ::Xawaii::{ user=10609299 } |
 
 ### osu!taiko division
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=FR }:: [Romainnoda](https://osu.ppy.sh/users/8814218), ::{ flag=FR }:: [omegaflo](https://osu.ppy.sh/users/83291), ::{ flag=FR }:: [Yona la loutre](https://osu.ppy.sh/users/7930622), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=FR }:: [TimmyAkmed](https://osu.ppy.sh/users/1799973), ::{ flag=FR }:: [Marec](https://osu.ppy.sh/users/3569225) |
-| High | ::{ flag=CA }:: [DuckyDoom](https://osu.ppy.sh/users/3153062), ::{ flag=FR }:: [maximaxiU](https://osu.ppy.sh/users/4069690), ::{ flag=FR }:: [Aciitm1](https://osu.ppy.sh/users/11253595), ::{ flag=FR }:: [-Valony-](https://osu.ppy.sh/users/6487540), ::{ flag=FR }:: [ZeddaStake](https://osu.ppy.sh/users/8801844), ::{ flag=FR }:: [BananaW](https://osu.ppy.sh/users/9298106) |
-| Low | ::{ flag=FR }:: [Your Name](https://osu.ppy.sh/users/11525993), ::{ flag=FR }:: [BlackJames](https://osu.ppy.sh/users/5256037), ::{ flag=FR }:: [DwarfSpykerr](https://osu.ppy.sh/users/8453742), ::{ flag=FR }:: [estebdevil](https://osu.ppy.sh/users/9637676), ::{ flag=FR }:: [Niawlys](https://osu.ppy.sh/users/4833654), ::{ flag=FR }:: [Kaho-Hinata](https://osu.ppy.sh/users/8903888) |
-| Unseeded | ::{ flag=FR }:: [Gintoki8](https://osu.ppy.sh/users/2239411), ::{ flag=FR }:: [Sephiroth256](https://osu.ppy.sh/users/5362422), ::{ flag=FR }:: [Hickacou](https://osu.ppy.sh/users/7668748), ::{ flag=FR }:: [Fenrir029](https://osu.ppy.sh/users/11262025), ::{ flag=BF }:: [linkfire](https://osu.ppy.sh/users/11719870) |
+| Top | ::{ flag=FR }:: ::Romainnoda::{ user=8814218 }, ::{ flag=FR }:: ::omegaflo::{ user=83291 }, ::{ flag=FR }:: ::Yona la loutre::{ user=7930622 }, ::{ flag=JP }:: ::Briesmas::{ user=2865172 }, ::{ flag=FR }:: ::TimmyAkmed::{ user=1799973 }, ::{ flag=FR }:: ::Marec::{ user=3569225 } |
+| High | ::{ flag=CA }:: ::DuckyDoom::{ user=3153062 }, ::{ flag=FR }:: ::maximaxiU::{ user=4069690 }, ::{ flag=FR }:: ::Aciitm1::{ user=11253595 }, ::{ flag=FR }:: ::-Valony-::{ user=6487540 }, ::{ flag=FR }:: ::ZeddaStake::{ user=8801844 }, ::{ flag=FR }:: ::BananaW::{ user=9298106 } |
+| Low | ::{ flag=FR }:: ::Your Name::{ user=11525993 }, ::{ flag=FR }:: ::BlackJames::{ user=5256037 }, ::{ flag=FR }:: ::DwarfSpykerr::{ user=8453742 }, ::{ flag=FR }:: ::estebdevil::{ user=9637676 }, ::{ flag=FR }:: ::Niawlys::{ user=4833654 }, ::{ flag=FR }:: ::Kaho-Hinata::{ user=8903888 } |
+| Unseeded | ::{ flag=FR }:: ::Gintoki8::{ user=2239411 }, ::{ flag=FR }:: ::Sephiroth256::{ user=5362422 }, ::{ flag=FR }:: ::Hickacou::{ user=7668748 }, ::{ flag=FR }:: ::Fenrir029::{ user=11262025 }, ::{ flag=BF }:: ::linkfire::{ user=11719870 } |
 
 ### osu!catch division
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623) |
-| High | ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994), ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
-| Low | ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141) |
-| Unseeded | ::{ flag=FR }:: [Sageru](https://osu.ppy.sh/users/10769450), ::{ flag=FR }:: [MindLight](https://osu.ppy.sh/users/7664694) |
+| Top | ::{ flag=TN }:: ::-Ken::{ user=4430811 }, ::{ flag=FR }:: ::Boros::{ user=5490623 } |
+| High | ::{ flag=FR }:: ::Holloh::{ user=7612994 }, ::{ flag=FR }:: ::Noulayfe::{ user=4316542 } |
+| Low | ::{ flag=FR }:: ::Realmas::{ user=6567640 }, ::{ flag=FR }:: ::Aequo3::{ user=4495141 } |
+| Unseeded | ::{ flag=FR }:: ::Sageru::{ user=10769450 }, ::{ flag=FR }:: ::MindLight::{ user=7664694 } |
 
 ### osu!mania division
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=FR }:: [Azubeur](https://osu.ppy.sh/users/1594604), ::{ flag=FR }:: [PatouZ](https://osu.ppy.sh/users/7306522), ::{ flag=FR }:: [Elementaires](https://osu.ppy.sh/users/2284328), ::{ flag=FR }:: [\[ Odin \]](https://osu.ppy.sh/users/4304933), ::{ flag=FR }:: [DemonWaves](https://osu.ppy.sh/users/3909293), ::{ flag=FR }:: [ZayyKen](https://osu.ppy.sh/users/8624433) |
-| High | ::{ flag=FR }:: [Ping36](https://osu.ppy.sh/users/9388217), ::{ flag=FR }:: [Kyzoid](https://osu.ppy.sh/users/4089441), ::{ flag=FR }:: [Satsukel](https://osu.ppy.sh/users/9066390), ::{ flag=FR }:: [Min-eb](https://osu.ppy.sh/users/10874110), ::{ flag=FR }:: [YuzukiEba](https://osu.ppy.sh/users/7777816), ::{ flag=FR }:: [DragonSonic](https://osu.ppy.sh/users/7294830) |
-| Low | ::{ flag=FR }:: [polo2000](https://osu.ppy.sh/users/10169467), ::{ flag=FR }:: [quentin5110054](https://osu.ppy.sh/users/8756421), ::{ flag=FR }:: [Trypha](https://osu.ppy.sh/users/2812098), ::{ flag=FR }:: [Exilfaker](https://osu.ppy.sh/users/2735466), ::{ flag=FR }:: [PouletFurtif](https://osu.ppy.sh/users/1271018), ::{ flag=FR }:: [Vivio](https://osu.ppy.sh/users/4545868) |
-| Unseeded | ::{ flag=FR }:: [Roboclop](https://osu.ppy.sh/users/7126414), ::{ flag=FR }:: [-Leks](https://osu.ppy.sh/users/10403635), ::{ flag=FR }:: [The\_Azerty](https://osu.ppy.sh/users/11274064), ::{ flag=FR }:: [-Dragolord-](https://osu.ppy.sh/users/9473359), ::{ flag=FR }:: [\_Karibu\_](https://osu.ppy.sh/users/7339484), ::{ flag=FR }:: [Zulsramno](https://osu.ppy.sh/users/12563193) |
+| Top | ::{ flag=FR }:: ::Azubeur::{ user=1594604 }, ::{ flag=FR }:: ::PatouZ::{ user=7306522 }, ::{ flag=FR }:: ::Elementaires::{ user=2284328 }, ::{ flag=FR }:: ::\[ Odin \]::{ user=4304933 }, ::{ flag=FR }:: ::DemonWaves::{ user=3909293 }, ::{ flag=FR }:: ::ZayyKen::{ user=8624433 } |
+| High | ::{ flag=FR }:: ::Ping36::{ user=9388217 }, ::{ flag=FR }:: ::Kyzoid::{ user=4089441 }, ::{ flag=FR }:: ::Satsukel::{ user=9066390 }, ::{ flag=FR }:: ::Min-eb::{ user=10874110 }, ::{ flag=FR }:: ::YuzukiEba::{ user=7777816 }, ::{ flag=FR }:: ::DragonSonic::{ user=7294830 } |
+| Low | ::{ flag=FR }:: ::polo2000::{ user=10169467 }, ::{ flag=FR }:: ::quentin5110054::{ user=8756421 }, ::{ flag=FR }:: ::Trypha::{ user=2812098 }, ::{ flag=FR }:: ::Exilfaker::{ user=2735466 }, ::{ flag=FR }:: ::PouletFurtif::{ user=1271018 }, ::{ flag=FR }:: ::Vivio::{ user=4545868 } |
+| Unseeded | ::{ flag=FR }:: ::Roboclop::{ user=7126414 }, ::{ flag=FR }:: ::-Leks::{ user=10403635 }, ::{ flag=FR }:: ::The\_Azerty::{ user=11274064 }, ::{ flag=FR }:: ::-Dragolord-::{ user=9473359 }, ::{ flag=FR }:: ::\_Karibu\_::{ user=7339484 }, ::{ flag=FR }:: ::Zulsramno::{ user=12563193 } |
 
 ## Podium
 
@@ -157,33 +157,33 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [NerO](https://osu.ppy.sh/users/1545031) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Flaven](https://osu.ppy.sh/users/3213239) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: ::ThePooN::{ user=718454 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: ::NerO::{ user=1545031 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: ::Flaven::{ user=3213239 } |
 
 ### osu!taiko division
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Romainnoda](https://osu.ppy.sh/users/8814218) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Yona la loutre](https://osu.ppy.sh/users/7930622) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: ::TimmyAkmed::{ user=1799973 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: ::Romainnoda::{ user=8814218 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: ::Yona la loutre::{ user=7930622 } |
 
 ### osu!catch division
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=TN }:: ::-Ken::{ user=4430811 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: ::Boros::{ user=5490623 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: ::Noulayfe::{ user=4316542 } |
 
 ### osu!mania division
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Azubeur](https://osu.ppy.sh/users/1594604) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [PatouZ](https://osu.ppy.sh/users/7306522) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [DemonWaves](https://osu.ppy.sh/users/3909293) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: ::Azubeur::{ user=1594604 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: ::PatouZ::{ user=7306522 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: ::DemonWaves::{ user=3909293 } |
 
 ## Mappools
 

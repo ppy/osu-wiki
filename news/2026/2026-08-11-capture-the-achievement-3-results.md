@@ -25,11 +25,11 @@ Congratulations to **🖐️ Pawsome 🖐️** for one-upping their 2nd-place st
 
 | Player | Points | Completions |
 | :-: | :-: | :-- |
-| [Flyer](https://osu.ppy.sh/users/9767342) | 939 | 16 |
-| [- joshh](https://osu.ppy.sh/users/17957276) | 840 | 15 |
-| [frutiger aero](https://osu.ppy.sh/users/10976672) | 826 | 17 |
-| [brandwagen](https://osu.ppy.sh/users/13925852) | 790 | 16 |
-| [Skrub](https://osu.ppy.sh/users/10306849) | 529 | 11 |
+| ::Flyer::{ user=9767342 } | 939 | 16 |
+| ::- joshh::{ user=17957276 } | 840 | 15 |
+| ::frutiger aero::{ user=10976672 } | 826 | 17 |
+| ::brandwagen::{ user=13925852 } | 790 | 16 |
+| ::Skrub::{ user=10306849 } | 529 | 11 |
 
 ### 2nd place: team "read COTE"
 
@@ -37,11 +37,11 @@ Congratulations to **🖐️ Pawsome 🖐️** for one-upping their 2nd-place st
 
 | Player | Points | Completions |
 | :-: | :-: | :-- |
-| [Supernye](https://osu.ppy.sh/users/16197865) | 1,431 | 27 |
-| [squidstain](https://osu.ppy.sh/users/11073207) | 780 | 13 |
-| [Junkmaniac](https://osu.ppy.sh/users/5909569) | 698 | 15 |
-| [chairIess](https://osu.ppy.sh/users/26031453) | 573 | 10 |
-| [CopyPasted](https://osu.ppy.sh/users/9341983) | 404 | 10 |
+| ::Supernye::{ user=16197865 } | 1,431 | 27 |
+| ::squidstain::{ user=11073207 } | 780 | 13 |
+| ::Junkmaniac::{ user=5909569 } | 698 | 15 |
+| ::chairIess::{ user=26031453 } | 573 | 10 |
+| ::CopyPasted::{ user=9341983 } | 404 | 10 |
 
 ### 3rd place: team "data corruption symphony"
 
@@ -49,11 +49,11 @@ Congratulations to **🖐️ Pawsome 🖐️** for one-upping their 2nd-place st
 
 | Player | Points | Completions |
 | :-: | :-: | :-- |
-| [TheShadowOfDark](https://osu.ppy.sh/users/5795337) | 1,666 | 36 |
-| [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 752 | 15 |
-| [NO37](https://osu.ppy.sh/users/4653583) | 631 | 9 |
-| [Willy](https://osu.ppy.sh/users/3521482) | 482 | 9 |
-| [XimperiaL](https://osu.ppy.sh/users/11883100) | 296 | 6 |
+| ::TheShadowOfDark::{ user=5795337 } | 1,666 | 36 |
+| ::TheMagicAnimals::{ user=17274052 } | 752 | 15 |
+| ::NO37::{ user=4653583 } | 631 | 9 |
+| ::Willy::{ user=3521482 } | 482 | 9 |
+| ::XimperiaL::{ user=11883100 } | 296 | 6 |
 
 ## Achievement highlights
 
@@ -89,10 +89,10 @@ Building on the feedback from last year, the staff team did an excellent job wit
 | Description | Oh no! Someone has managed to break through CTA's security and now has access to all of the achievements. Help Sheppsu get to his computer and secure the website before the entire event is ruined! [Sudoku link](https://sudokupad.app/kaaseybimd) and [help doc](https://docs.google.com/document/d/1Mt5tFioZzcGWoVHnHJBrDXkBFeEUJ5nXuDv6WDTtpUw/edit?tab=t.0). |
 | Tags | Math, Password, Puzzle, Secret |
 | Mode | Any |
-| Creator | ::{ flag=GB }:: [Lunar_](https://osu.ppy.sh/users/13688990) |
+| Creator | ::{ flag=GB }:: ::Lunar\1::{ user=13688990 } |
 | Completions | 46 |
 | Solution | [Click here](https://cta.sheppsu.me/achievements/443) |
-| First completion | ::{ flag=US }:: [Cocoamallows](https://osu.ppy.sh/users/9436126) after 49 minutes and 50 seconds |
+| First completion | ::{ flag=US }:: ::Cocoamallows::{ user=9436126 } after 49 minutes and 50 seconds |
 
 <div class="news-chat-quote__text-container">
 
@@ -116,10 +116,10 @@ Thank you all for saving the event!! If you haven't already and want to try the 
 | Beatmap | [KillerBlood - Run Lags Run mapped by Anonymoose](https://osu.ppy.sh/beatmapsets/2581385#osu/5753898) |
 | Tags | Expert, Gimmick, Math, Score, Skill, Stable |
 | Mode | Standard |
-| Creator | ::{ flag=LV }:: [Anonymoose](https://osu.ppy.sh/users/11153810) |
+| Creator | ::{ flag=LV }:: ::Anonymoose::{ user=11153810 } |
 | Completions | 43 |
 | Solution | [Click here](https://cta.sheppsu.me/achievements/487) |
-| First completion | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) after 38 minutes |
+| First completion | ::{ flag=SG }:: ::\_gt::{ user=8301957 } after 38 minutes |
 
 This year we got a custom storyboard map from Anonymoose, though with some big inspirations from a map you may be familiar with. I encourage you to give the map a go! Now a comment from Anonymoose on how this achievement came to be:
 
@@ -147,9 +147,9 @@ This was quite a learning curve for myself, as I knew nothing about storyboardin
 | Beatmap | [TheFatRat - Mayday (feat. Laura Brehm) mapped by Voltaeyx](https://osu.ppy.sh/beatmapsets/756794#osu/1605148) |
 | Tags | Competition, Expert, Lazer, Score |
 | Mode | Standard |
-| Creator | ::{ flag=CA }:: [yandax](https://osu.ppy.sh/users/17465623) |
+| Creator | ::{ flag=CA }:: ::yandax::{ user=17465623 } |
 | Completions | 39 |
-| Best completion | ::{ flag=JP }:: [RAiMEi_BOTTliUM](https://osu.ppy.sh/users/18212788) with 601 sliderends hit after 3 days and 6 hours. Watch the replay [here](https://www.twitch.tv/videos/2819161566?t=1h3m4s). |
+| Best completion | ::{ flag=JP }:: ::RAiMEi\1BOTTliUM::{ user=18212788 } with 601 sliderends hit after 3 days and 6 hours. Watch the replay [here](https://www.twitch.tv/videos/2819161566?t=1h3m4s). |
 
 Read [yandax's writeup](https://yanda-dy.github.io/cta3-external/solutions_e654eec7da8c767f/solutions.html#sss-o-s) for extra insight.
 
@@ -160,10 +160,10 @@ Read [yandax's writeup](https://yanda-dy.github.io/cta3-external/solutions_e654e
 | Description | [image 1](https://willwam.s-ul.eu/misc/Akcs7543), [image 2](https://willwam.s-ul.eu/misc/cUcp1iCH), [image 3](https://willwam.s-ul.eu/misc/1IFAIZRF) |
 | Tags | Expert, Puzzle, Score, Secret, Trivia |
 | Mode | Any |
-| Creator | ::{ flag=GB }:: [willwam](https://osu.ppy.sh/users/11674122) |
+| Creator | ::{ flag=GB }:: ::willwam::{ user=11674122 } |
 | Completions | 38 |
 | Solution | [Click here](https://cta.sheppsu.me/achievements/473) |
-| First completion | ::{ flag=SG }:: [Junkmaniac](https://osu.ppy.sh/users/5909569) after 29 minutes |
+| First completion | ::{ flag=SG }:: ::Junkmaniac::{ user=5909569 } after 29 minutes |
 
 <div class="news-chat-quote__text-container">
 
@@ -190,10 +190,10 @@ Having both pieces come together so elegantly was purely just a stroke of luck a
 | Description | [Video](https://cta-external.sheppsu.me/GHwGdinCluZuezwaGuO_GMUVG8NgELPLDOB6MxGMQ8c/soda.mp4) (volume warning) |
 | Tags | Expert, Knowledge, Lazer, Score, Secret |
 | Mode | Standard |
-| Creator | ::{ flag=US }:: [bento](https://osu.ppy.sh/users/13175102) |
+| Creator | ::{ flag=US }:: ::bento::{ user=13175102 } |
 | Completions | 34 |
 | Solution | [Click here](https://cta.sheppsu.me/achievements/440) |
-| First completion | ::{ flag=US }:: [lilybannanas9](https://osu.ppy.sh/users/26352046) after 3 minutes |
+| First completion | ::{ flag=US }:: ::lilybannanas9::{ user=26352046 } after 3 minutes |
 
 This achievement is on the easier side, but includes a funny video that brings together a clean solution. For those that remember, this achievement is reminiscent of [INSERT COIN](https://cta.sheppsu.me/achievements/215) from CTA2.
 
@@ -204,10 +204,10 @@ This achievement is on the easier side, but includes a funny video that brings t
 | Description | [Puzzle](https://drive.google.com/file/d/17jiBGrSfMMEGOcdv7qkB8RhfXpWNOMdL/view?usp=drive_link) and [Copyable sheet](https://docs.google.com/spreadsheets/d/1bYKdOVy0rlXZTVlk-V3jIQzyIGNB_MzkWLL6ydy_bxg/edit?usp=sharing) |
 | Tags | Knowledge, Lazer, Puzzle, Score, Secret, Trivia |
 | Mode | Standard |
-| Creator | ::{ flag=CA }:: [yandax](https://osu.ppy.sh/users/17465623) |
+| Creator | ::{ flag=CA }:: ::yandax::{ user=17465623 } |
 | Completions | 28 |
 | Solution | [Click here](https://cta.sheppsu.me/achievements/411) |
-| First completion | ::{ flag=AU }:: [Supernye](https://osu.ppy.sh/users/16197865) after 1 hour and 26 minutes |
+| First completion | ::{ flag=AU }:: ::Supernye::{ user=16197865 } after 1 hour and 26 minutes |
 
 Read [yandax's writeup](https://yanda-dy.github.io/cta3-external/solutions_e654eec7da8c767f/solutions.html#li-le-spt-puzz) for extra insight.
 
@@ -218,10 +218,10 @@ Read [yandax's writeup](https://yanda-dy.github.io/cta3-external/solutions_e654e
 | Description | When's the last time you touched the "Ignore all beatmap skins" button? Every image corresponds to one map. If a skin is available on multiple maps, you should use the one that was ranked/loved/approved first. [image](https://drive.google.com/file/d/1uHnMpVmt9FmFKgAuakC2q55KP9aXYNdJ/) |
 | Tags | Knowledge, Puzzle, Score, Secret |
 | Mode | Any |
-| Creator | ::{ flag=HK }:: [nnamqahc](https://osu.ppy.sh/users/27780089) |
+| Creator | ::{ flag=HK }:: ::nnamqahc::{ user=27780089 } |
 | Completions | 24 |
 | Solution | [Click here](https://cta.sheppsu.me/achievements/380) |
-| First completion | ::{ flag=US }:: [Unique](https://osu.ppy.sh/users/6204231) after 52 minutes |
+| First completion | ::{ flag=US }:: ::Unique::{ user=6204231 } after 52 minutes |
 
 <div class="news-chat-quote__text-container">
 
@@ -244,10 +244,10 @@ There's still some parts that I am not completely satisfied with, like having pl
 | Description | Maybe this will help you navigate the repairs. It doesn't look like a map though... |
 | Tags | Knowledge, Password, Puzzle, Secret |
 | Mode | Any |
-| Creator | ::{ flag=CA }:: [yandax](https://osu.ppy.sh/users/17465623) |
+| Creator | ::{ flag=CA }:: ::yandax::{ user=17465623 } |
 | Completions | 17 |
 | Solution | [Click here](https://cta.sheppsu.me/achievements/485) |
-| First completion | ::{ flag=US }:: [Willy](https://osu.ppy.sh/users/3521482) after 55 minutes |
+| First completion | ::{ flag=US }:: ::Willy::{ user=3521482 } after 55 minutes |
 
 Read [yandax's writeup](https://yanda-dy.github.io/cta3-external/solutions_e654eec7da8c767f/solutions.html#broken-history) for extra insight.
 
@@ -258,10 +258,10 @@ Read [yandax's writeup](https://yanda-dy.github.io/cta3-external/solutions_e654e
 | Description | This dystopia has given everyone one of four statuses. Learn what makes each unique to unleash your luminous form within. |
 | Tags | Score, Secret, Trivia |
 | Mode | Any |
-| Creator | ::{ flag=US }:: [Hatsuratsu](https://osu.ppy.sh/users/18319269) |
+| Creator | ::{ flag=US }:: ::Hatsuratsu::{ user=18319269 } |
 | Completions | 14 |
 | Solution | [Click here](https://cta.sheppsu.me/achievements/456) |
-| First completion | ::{ flag=FR }:: [KebabONIICHAN](https://osu.ppy.sh/users/33565719) after 1 hour and 20 minutes |
+| First completion | ::{ flag=FR }:: ::KebabONIICHAN::{ user=33565719 } after 1 hour and 20 minutes |
 
 <div class="news-chat-quote__text-container">
 
@@ -282,10 +282,10 @@ My main goal though was to try and write as medal-like of an achievement as I co
 | Description | Take extreme measures, and best the guardians of journey's end at their own games. |
 | Tags | Expert, Score, Secret, Trivia |
 | Mode | Any |
-| Creator | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |
+| Creator | ::{ flag=GB }:: ::chromb::{ user=10238680 } |
 | Completions | 6 |
 | Solution | [Click here](https://cta.sheppsu.me/achievements/455) |
-| First completion | ::{ flag=BE }:: [brandwagen](https://osu.ppy.sh/users/13925852) after 8 days and 12 hours |
+| First completion | ::{ flag=BE }:: ::brandwagen::{ user=13925852 } after 8 days and 12 hours |
 
 **The Odyssey** was the big achievement this iteration, receiving only 6 completions despite releasing at the start of the event. It took a long 8.5 days for the first completion, so don't spend too long thinking on this one! Now a comment from the creator:
 
@@ -307,7 +307,7 @@ There were many other great achievements this iteration, so I encourage you all 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&video=2819161566&parent=osu.ppy.sh" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-If you'd like to read more about [yandax](https://osu.ppy.sh/users/17465623)'s achievements, he made a [writeup](https://yanda-dy.github.io/cta3-external/solutions_e654eec7da8c767f/solutions.html) with all kinds of extra insight. Lastly, you can see a more thorough breakdown of stats in [this spreadsheet](https://docs.google.com/spreadsheets/d/1cKOgvb2QfBeAG_5_pO1fT7V06IZVev4awcbUMMbgLHw/edit).
+If you'd like to read more about ::yandax::{ user=17465623 }'s achievements, he made a [writeup](https://yanda-dy.github.io/cta3-external/solutions_e654eec7da8c767f/solutions.html) with all kinds of extra insight. Lastly, you can see a more thorough breakdown of stats in [this spreadsheet](https://docs.google.com/spreadsheets/d/1cKOgvb2QfBeAG_5_pO1fT7V06IZVev4awcbUMMbgLHw/edit).
 
 ---
 

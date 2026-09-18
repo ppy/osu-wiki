@@ -34,11 +34,11 @@ tags:
 
 | 职位 | 成员 |
 | :-- | :-- |
-| 主办 | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) |
-| 管理 | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [mafumafu](https://osu.ppy.sh/users/3076909) |
-| 设计 | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799) |
-| 评委 | ::{ flag=MY }:: [AWMRone](https://osu.ppy.sh/users/10351684), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5374513), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534), ::{ flag=KR }:: [taba2](https://osu.ppy.sh/users/7850508) |
-| 统计 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) |
+| 主办 | ::{ flag=CN }:: ::\1Stan::{ user=1653229 } |
+| 管理 | ::{ flag=CN }:: ::\1Stan::{ user=1653229 }, ::{ flag=CN }:: ::mafumafu::{ user=3076909 } |
+| 设计 | ::{ flag=CN }:: ::\1Stan::{ user=1653229 }, ::{ flag=CN }:: ::AlexDunk::{ user=9194799 } |
+| 评委 | ::{ flag=MY }:: ::AWMRone::{ user=10351684 }, ::{ flag=PH }:: ::lenpai::{ user=5374513 }, ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 }, ::{ flag=CN }:: ::Seiran-::{ user=14351534 }, ::{ flag=KR }:: ::taba2::{ user=7850508 } |
+| 统计 | ::{ flag=CN }:: ::\1Crz\1Alleyne::{ user=11279273 } |
 
 ## 其他链接
 
@@ -62,10 +62,10 @@ tags:
 
 | 名次 | 谱师 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") 冠军 | ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 亚军 | ::{ flag=CN }:: [wIntEr7z](https://osu.ppy.sh/users/16509588) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 季军 | ::{ flag=CN }:: [just a GRJ](https://osu.ppy.sh/users/29957843) |
-| 参与奖（第4-第5） | ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [Wings_AnChen](https://osu.ppy.sh/users/12694894) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") 冠军 | ::{ flag=CN }:: ::G1NYA::{ user=31767575 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") 亚军 | ::{ flag=CN }:: ::wIntEr7z::{ user=16509588 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") 季军 | ::{ flag=CN }:: ::just a GRJ::{ user=29957843 } |
+| 参与奖（第4-第5） | ::{ flag=CN }:: ::tyrcs::{ user=13026904 }, ::{ flag=CN }:: ::Wings\1AnChen::{ user=12694894 } |
 
 ## 规章制度
 

@@ -42,14 +42,14 @@ The osu! Philippines Nationals 2019 - osu!mania 4K was run by various community 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Coordinator | ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675) |
-| Mappool selector | ::{ flag=PH }:: [Ainyan](https://osu.ppy.sh/users/3770641), ::{ flag=PH }:: [Lenfried-](https://osu.ppy.sh/users/5314573), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Referee | ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936), ::{ flag=PH }:: [samosita](https://osu.ppy.sh/users/6090289), ::{ flag=PH }:: [ggnakacarlz](https://osu.ppy.sh/users/4075421), ::{ flag=PH }:: [SilentVoice](https://osu.ppy.sh/users/9570552), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550), ::{ flag=PH }:: [LohaWarpe](https://osu.ppy.sh/users/8560810), ::{ flag=PH }:: [Afireee](https://osu.ppy.sh/users/7919913), ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259) |
-| Streamer | ::{ flag=PH }:: [aEverr](https://osu.ppy.sh/users/6027084), ::{ flag=PH }:: [Ainyan](https://osu.ppy.sh/users/3770641), ::{ flag=PH }:: [LohaWarpe](https://osu.ppy.sh/users/8560810) |
-| Commentator | ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=PH }:: [Toyohime-](https://osu.ppy.sh/users/9770359), ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [Afireee](https://osu.ppy.sh/users/7919913) |
-| Designer | ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867) |
-| Statistician | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Host | ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
+| Coordinator | ::{ flag=PH }:: ::Zaphirox::{ user=2478675 } |
+| Mappool selector | ::{ flag=PH }:: ::Ainyan::{ user=3770641 }, ::{ flag=PH }:: ::Lenfried-::{ user=5314573 }, ::{ flag=SG }:: ::Raveille::{ user=1388767 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=HK }:: ::zero2snow::{ user=7751516 } |
+| Referee | ::{ flag=PH }:: ::Zaphirox::{ user=2478675 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::MapleSyrup-::{ user=1192936 }, ::{ flag=PH }:: ::samosita::{ user=6090289 }, ::{ flag=PH }:: ::ggnakacarlz::{ user=4075421 }, ::{ flag=PH }:: ::SilentVoice::{ user=9570552 }, ::{ flag=PH }:: ::topecnz::{ user=2103927 }, ::{ flag=SG }:: ::Raveille::{ user=1388767 }, ::{ flag=PH }:: ::arge-::{ user=9919550 }, ::{ flag=PH }:: ::LohaWarpe::{ user=8560810 }, ::{ flag=PH }:: ::Afireee::{ user=7919913 }, ::{ flag=PH }:: ::muffleberry::{ user=8978259 } |
+| Streamer | ::{ flag=PH }:: ::aEverr::{ user=6027084 }, ::{ flag=PH }:: ::Ainyan::{ user=3770641 }, ::{ flag=PH }:: ::LohaWarpe::{ user=8560810 } |
+| Commentator | ::{ flag=PH }:: ::arge-::{ user=9919550 }, ::{ flag=AU }:: ::PotassiumF::{ user=4247722 }, ::{ flag=PH }:: ::Toyohime-::{ user=9770359 }, ::{ flag=PH }:: ::Zaphirox::{ user=2478675 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::Afireee::{ user=7919913 } |
+| Designer | ::{ flag=PH }:: ::OsuMe65::{ user=852867 } |
+| Statistician | ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
 
 ## Links
 
@@ -62,10 +62,10 @@ The osu! Philippines Nationals 2019 - osu!mania 4K was run by various community 
 
 | Seed | Players |
 | :-: | :-- |
-| Top (#1 - #4) | ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405), ::{ flag=PH }:: [windrush123](https://osu.ppy.sh/users/9087181), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [realqarp](https://osu.ppy.sh/users/10374991) |
-| High (#5 - #8) | ::{ flag=PH }:: [Arccat](https://osu.ppy.sh/users/4848294), ::{ flag=PH }:: [Koibenii](https://osu.ppy.sh/users/2471512), ::{ flag=PH }:: [nathan on mania](https://osu.ppy.sh/users/6152404), ::{ flag=PH }:: [Nikana](https://osu.ppy.sh/users/4345491) |
-| Low (#9 - #24) | ::{ flag=PH }:: [Swarmsii](https://osu.ppy.sh/users/11716111), ::{ flag=PH }:: [GTXCZE](https://osu.ppy.sh/users/9209185), ::{ flag=PH }:: [notapplicable](https://osu.ppy.sh/users/7170536), ::{ flag=PH }:: [Captain Cusheen](https://osu.ppy.sh/users/9158337), ::{ flag=PH }:: [ChristsuGaming](https://osu.ppy.sh/users/12203613), ::{ flag=PH }:: [Lordie09](https://osu.ppy.sh/users/10010130), ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607), ::{ flag=PH }:: [bananacake304](https://osu.ppy.sh/users/3741704), ::{ flag=PH }:: [kraken\_33](https://osu.ppy.sh/users/11379988), ::{ flag=PH }:: [Andrei--](https://osu.ppy.sh/users/7222840), ::{ flag=PH }:: [MiekoYanagi](https://osu.ppy.sh/users/12296324), ::{ flag=PH }:: [wallwap](https://osu.ppy.sh/users/5532163), ::{ flag=PH }:: [PotatoPresser](https://osu.ppy.sh/users/6965801), ::{ flag=PH }:: [vincent4399](https://osu.ppy.sh/users/9764388), ::{ flag=PH }:: [Edison](https://osu.ppy.sh/users/1325159), ::{ flag=PH }:: [pumpiyumpiyummm](https://osu.ppy.sh/users/13928542) |
-| Bottom (#25 - #32) | ::{ flag=PH }:: [didgey](https://osu.ppy.sh/users/11568208), ::{ flag=PH }:: [Loli-Sensei69](https://osu.ppy.sh/users/10994606), ::{ flag=PH }:: [Neoskiie](https://osu.ppy.sh/users/12239110), ::{ flag=US }:: [Chez](https://osu.ppy.sh/users/4866112), ::{ flag=PH }:: [Batujitsu](https://osu.ppy.sh/users/6402552), ::{ flag=PH }:: [Chiaki-chan](https://osu.ppy.sh/users/9378968), ::{ flag=PH }:: [Xidorn](https://osu.ppy.sh/users/7904667), ::{ flag=PH }:: [Hues](https://osu.ppy.sh/users/2367206) |
+| Top (#1 - #4) | ::{ flag=PH }:: ::- Kura -::{ user=11420405 }, ::{ flag=PH }:: ::windrush123::{ user=9087181 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=PH }:: ::realqarp::{ user=10374991 } |
+| High (#5 - #8) | ::{ flag=PH }:: ::Arccat::{ user=4848294 }, ::{ flag=PH }:: ::Koibenii::{ user=2471512 }, ::{ flag=PH }:: ::nathan on mania::{ user=6152404 }, ::{ flag=PH }:: ::Nikana::{ user=4345491 } |
+| Low (#9 - #24) | ::{ flag=PH }:: ::Swarmsii::{ user=11716111 }, ::{ flag=PH }:: ::GTXCZE::{ user=9209185 }, ::{ flag=PH }:: ::notapplicable::{ user=7170536 }, ::{ flag=PH }:: ::Captain Cusheen::{ user=9158337 }, ::{ flag=PH }:: ::ChristsuGaming::{ user=12203613 }, ::{ flag=PH }:: ::Lordie09::{ user=10010130 }, ::{ flag=PH }:: ::Shiyui-::{ user=9374607 }, ::{ flag=PH }:: ::bananacake304::{ user=3741704 }, ::{ flag=PH }:: ::kraken\_33::{ user=11379988 }, ::{ flag=PH }:: ::Andrei--::{ user=7222840 }, ::{ flag=PH }:: ::MiekoYanagi::{ user=12296324 }, ::{ flag=PH }:: ::wallwap::{ user=5532163 }, ::{ flag=PH }:: ::PotatoPresser::{ user=6965801 }, ::{ flag=PH }:: ::vincent4399::{ user=9764388 }, ::{ flag=PH }:: ::Edison::{ user=1325159 }, ::{ flag=PH }:: ::pumpiyumpiyummm::{ user=13928542 } |
+| Bottom (#25 - #32) | ::{ flag=PH }:: ::didgey::{ user=11568208 }, ::{ flag=PH }:: ::Loli-Sensei69::{ user=10994606 }, ::{ flag=PH }:: ::Neoskiie::{ user=12239110 }, ::{ flag=US }:: ::Chez::{ user=4866112 }, ::{ flag=PH }:: ::Batujitsu::{ user=6402552 }, ::{ flag=PH }:: ::Chiaki-chan::{ user=9378968 }, ::{ flag=PH }:: ::Xidorn::{ user=7904667 }, ::{ flag=PH }:: ::Hues::{ user=2367206 } |
 
 ## Mappools
 

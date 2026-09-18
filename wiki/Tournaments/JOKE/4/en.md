@@ -8,7 +8,7 @@ tags:
 
 ![JOKE 4 banner](img/banner.jpg)
 
-**Jaye's One Key Event 4: The Great Escape** (***JOKE***) is a 1v1, double-elimination, global osu!mania 1-key tournament hosted by ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352). It is the fourth instalment in the JOKE series.
+**Jaye's One Key Event 4: The Great Escape** (***JOKE***) is a 1v1, double-elimination, global osu!mania 1-key tournament hosted by ::{ flag=AU }:: ::Jaye::{ user=4841352 }. It is the fourth instalment in the JOKE series.
 
 ## Tournament schedule
 
@@ -39,13 +39,13 @@ tags:
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) |
-| Mapper | ::{ flag=AU }:: [\[Iron\]](https://osu.ppy.sh/users/13171482), ::{ flag=US }:: [ERA Basil](https://osu.ppy.sh/users/7097990), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639) |
-| Streamer | ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=US }:: [ethfan922](https://osu.ppy.sh/users/10402769) |
-| Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=US }:: [ERA Basil](https://osu.ppy.sh/users/7097990), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639) |
-| Referee | ::{ flag=GB }:: [--Dragon--](https://osu.ppy.sh/users/11924624), ::{ flag=VN }:: [\[LS\]Sagirium](https://osu.ppy.sh/users/16530364), ::{ flag=TH }:: [\[Ping\]](https://osu.ppy.sh/users/6291395), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PL }:: [bapril](https://osu.ppy.sh/users/12726001), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=US }:: [trooperr](https://osu.ppy.sh/users/32028459) |
-| Designer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
-| Admin | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Sydosys](https://osu.ppy.sh/users/17523947) |
+| Host | ::{ flag=AU }:: ::Jaye::{ user=4841352 } |
+| Mapper | ::{ flag=AU }:: ::\[Iron\]::{ user=13171482 }, ::{ flag=US }:: ::ERA Basil::{ user=7097990 }, ::{ flag=AU }:: ::Jaye::{ user=4841352 }, ::{ flag=NZ }:: ::Sparxe::{ user=5750235 }, ::{ flag=GB }:: ::Teezel::{ user=7528639 } |
+| Streamer | ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=US }:: ::ethfan922::{ user=10402769 } |
+| Commentator | ::{ flag=AU }:: ::Beat43210::{ user=5664171 }, ::{ flag=GB }:: ::epic man 2::{ user=14566000 }, ::{ flag=US }:: ::ERA Basil::{ user=7097990 }, ::{ flag=CA }:: ::ERA Sunny::{ user=16468962 }, ::{ flag=AU }:: ::Jaye::{ user=4841352 }, ::{ flag=US }:: ::Sparky::{ user=3187959 }, ::{ flag=NZ }:: ::Sparxe::{ user=5750235 }, ::{ flag=GB }:: ::Teezel::{ user=7528639 } |
+| Referee | ::{ flag=GB }:: ::--Dragon--::{ user=11924624 }, ::{ flag=VN }:: ::\[LS\]Sagirium::{ user=16530364 }, ::{ flag=TH }:: ::\[Ping\]::{ user=6291395 }, ::{ flag=US }:: ::akace100::{ user=9308128 }, ::{ flag=HK }:: ::Akali393394::{ user=9686628 }, ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=PL }:: ::bapril::{ user=12726001 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=US }:: ::trooperr::{ user=32028459 } |
+| Designer | ::{ flag=MY }:: ::Jerry::{ user=605973 } |
+| Admin | ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=US }:: ::Sydosys::{ user=17523947 } |
 
 ## Links
 

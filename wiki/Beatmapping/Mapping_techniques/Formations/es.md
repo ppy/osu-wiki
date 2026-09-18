@@ -10,14 +10,14 @@ outdated: true
 
 *También conocidos como: **Formación blanket***
 
-Nominador: [m980](https://osu.ppy.sh/users/3288)
+Nominador: ::m980::{ user=3288 }
 
 Los **combos blanket** están formados por un slider o círculo (como base) con un slider que rodea a ese objeto.
 El espaciado entre estos dos objetos es muy importante, ¡ya que no deben superponerse!
 
 ### Combos divebomb
 
-Nominador: [m980](https://osu.ppy.sh/users/3288)
+Nominador: ::m980::{ user=3288 }
 
 Los **combos divebomb** están formados por una línea recta de objetos que viajan desde la parte superior de la pantalla (o el centro) hacia la parte inferior.
 Esto hace que los objetos aparezcan como si estuvieran en caída libre.
@@ -28,7 +28,7 @@ El último objeto siempre debería ser un slider.
 
 *También conocidos como: **Formación con estilo de flor***
 
-Nominador: [0_o](https://osu.ppy.sh/users/56708)
+Nominador: ::0\1o::{ user=56708 }
 
 Los **combos en forma de flor** consisten de 5 o más círculos que se colocan alrededor de un punto central.
 El punto central puede ser un círculo o un slider.
@@ -42,7 +42,7 @@ Sin embargo, la diferencia aquí es que esto obliga al jugador a ir a lo largo d
 
 ### Ritmos en forma de panal
 
-Nominador: [mm201](https://osu.ppy.sh/users/30655)
+Nominador: ::mm201::{ user=30655 }
 
 Los **ritmos en forma de panal** son streams de círculos que suelen estar separados por medios pulsos.
 Se colocan de forma que todos encajen en una rejilla hexagonal.
@@ -54,7 +54,7 @@ Esto podría combinarse con un AR (velocidad de aproximación) bajo para confund
 
 ### Formaciones con estilo de estrella
 
-Nominador: [Xgor](https://osu.ppy.sh/users/98661)
+Nominador: ::Xgor::{ user=98661 }
 
 Una **formación con estilo de estrella** es una estrella de 5 puntas, que usa 5 o 6 círculos (el sexto se colocaría normalmente debajo de la primera punta para completar la estrella).
 La estrella puede aparecer visualmente siguiendo los puntos de seguimiento.
@@ -68,14 +68,14 @@ Sin embargo, la diferencia aquí es que esto obliga al jugador a pasar para form
 
 ### Kickstreams
 
-Nominador: [Daru](https://osu.ppy.sh/users/32480)
+Nominador: ::Daru::{ user=32480 }
 
 Un **kickstream** usa un kick slider (un slider realmente corto) dentro de un stream.
 Esto obliga al jugador a hacer una pausa en medio del stream para completar el golpe, antes de continuar el stream.
 
 ### Combos tornado
 
-Nominador: [Dragvon](https://osu.ppy.sh/users/126927)
+Nominador: ::Dragvon::{ user=126927 }
 
 Las **formaciones tornado** son conjuntos de notas que obligan al jugador a golpear círculos en un movimiento circular a gran velocidad.
 Se trata básicamente de una combinación de pequeños jumps (en cuanto a la distancia) y streams (en cuanto al tiempo de reacción).
@@ -86,7 +86,7 @@ También puede ser una [formación cuadrada](#formación-cuadrada) y/o [formaci�
 
 *También conocido como: **Formación de ztrot***
 
-Nominador: [Jarby](https://osu.ppy.sh/users/25615)
+Nominador: ::Jarby::{ user=25615 }
 
 El **espaciado de ztrot** usa ritmos consistentes colocados en forma de círculo.
 La distancia entre cada nota aumenta y luego disminuye.
@@ -112,13 +112,13 @@ La **formación de diamante** es igual que la [formación cuadrada](#formación-
 
 ### Stacks dobles
 
-Nominadores: [-Xero-](https://osu.ppy.sh/users/179314) y [F1r3tar](https://osu.ppy.sh/users/5590317)
+Nominadores: ::-Xero-::{ user=179314 } y [F1r3tar](https://osu.ppy.sh/users/5590317)
 
 Los **stacks dobles** usan dos notas (o una nota y un slider end) que se apilan una encima de la otra.
 
 ### Diamantes QQ
 
-Nominador: [Lybydose](https://osu.ppy.sh/users/64501)
+Nominador: ::Lybydose::{ user=64501 }
 
 Los **diamantes QQ** son cuatro círculos colocados a un pulso de distancia entre sí en forma de diamante a lo largo de los cuatro bordes (no esquinas) de la pantalla.
 Esto es similar a la [formación de diamante](#formación-de-diamante), pero estos se colocan en los extremos del eje x y el eje y.
@@ -144,7 +144,7 @@ El orden de los combos obliga al jugador a recorrer el cuadrado en lugar de atra
 
 ### Formación cuadrada v2
 
-Nominadores: Beuchi-chan y [mm201](https://osu.ppy.sh/users/30655)
+Nominadores: Beuchi-chan y ::mm201::{ user=30655 }
 
 La **formación cuadrada v2** es prácticamente lo mismo que la [formación cuadrada](#formación-cuadrada), pero el orden de los círculos te obliga a atravesar el cuadrado en diagonal.
 
@@ -152,7 +152,7 @@ La **formación cuadrada v2** es prácticamente lo mismo que la [formación cuad
 
 *También conocidos como: **Formación triangular***
 
-Nominador: [kingcobra52](https://osu.ppy.sh/users/9934)
+Nominador: ::kingcobra52::{ user=9934 }
 
 Los **ritmos triangulares** son una técnica de mapeo muy común en la que 3 círculos se ordenan en forma de triángulo.
 No importa el orden de los 3 círculos ni el tamaño del triángulo.
@@ -161,7 +161,7 @@ No importa el orden de los 3 círculos ni el tamaño del triángulo.
 
 *También conocidos como: **Formación en zigzag***
 
-Nominador: [0_o](https://osu.ppy.sh/users/56708)
+Nominador: ::0\1o::{ user=56708 }
 
 Los **sliders en zigzag** están formados por sliders de 1/2 ordenados en un patrón de zigzag hacia dentro.
 

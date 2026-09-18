@@ -48,54 +48,54 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | เบลารุส, รัสเซีย | Evaluation |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | กวางตุ้ง, จีน | Evaluation |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | โปรตุเกส | Evaluation |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | ดัตช์ | Evaluation |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | จีน | Evaluation |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | เยอรมัน | Evaluation, structural |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | จีน | Evaluation |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | สวีเดน | Structural |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | กวางตุ้ง, จีน | Evaluation |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | จีน | Evaluation |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, structural |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | ดัตช์ | Evaluation |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | โปแลนด์ | Evaluation |
+| ::{ flag=GB }:: ::-Mo-::{ user=2202163 } |  | Structural |
+| ::{ flag=BY }:: ::AirinCat::{ user=11119539 } | เบลารุส, รัสเซีย | Evaluation |
+| ::{ flag=HK }:: ::Chaoslitz::{ user=3621552 } | กวางตุ้ง, จีน | Evaluation |
+| ::{ flag=BR }:: ::Dada::{ user=9119507 } | โปรตุเกส | Evaluation |
+| ::{ flag=AU }:: ::elicz1::{ user=8039342 } |  | Evaluation |
+| ::{ flag=BE }:: ::enneya::{ user=10959501 } | ดัตช์ | Evaluation |
+| ::{ flag=CN }:: ::Firika::{ user=9590557 } | จีน | Evaluation |
+| ::{ flag=DE }:: ::FuJu::{ user=10773882 } | เยอรมัน | Evaluation, structural |
+| ::{ flag=CN }:: ::Garden::{ user=2849992 } | จีน | Evaluation |
+| ::{ flag=SE }:: ::Naxess::{ user=8129817 } | สวีเดน | Structural |
+| ::{ flag=US }:: ::Noffy::{ user=1541323 } |  | Evaluation |
+| ::{ flag=HK }:: ::Petal::{ user=7354729 } | กวางตุ้ง, จีน | Evaluation |
+| ::{ flag=US }:: ::pishifat::{ user=3178418 } |  | Structural |
+| ::{ flag=CN }:: ::Ryuusei Aika::{ user=7777875 } | จีน | Evaluation |
+| ::{ flag=US }:: ::StarCastler::{ user=12402453 } |  | Evaluation, structural |
+| ::{ flag=BE }:: ::yaspo::{ user=4945926 } | ดัตช์ | Evaluation |
+| ::{ flag=US }:: ::Yogurtt::{ user=2649717 } |  | Evaluation |
+| ::{ flag=PL }:: ::Zelq::{ user=8953955 } | โปแลนด์ | Evaluation |
 
 ### osu!taiko
 
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | เยอรมัน | Evaluation |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | อูรดู, อาหรับ บ้าง | Evaluation |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | อาหรับ, ฝรั่งเศส, อิตาลี บ้าง | Leadership |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | โปรตุเกส | Evaluation |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |
+| ::{ flag=DE }:: ::Capu::{ user=2474015 } | เยอรมัน | Evaluation |
+| ::{ flag=GB }:: ::Dusk-::{ user=6092181 } | อูรดู, อาหรับ บ้าง | Evaluation |
+| ::{ flag=TN }:: ::Hivie::{ user=14102976 } | อาหรับ, ฝรั่งเศส, อิตาลี บ้าง | Leadership |
+| ::{ flag=BR }:: ::Ideal::{ user=3869519 } | โปรตุเกส | Evaluation |
+| ::{ flag=US }:: ::radar::{ user=7131099 } |  | Leadership |
 
 ### osu!catch
 
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | สเปน, เยอรมัน | Evaluation |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | ดัตช์ | Evaluation |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluation |
+| ::{ flag=ES }:: ::Deif::{ user=318565 } | สเปน, เยอรมัน | Evaluation |
+| ::{ flag=NL }:: ::Greaper::{ user=2369776 } | ดัตช์ | Evaluation |
+| ::{ flag=US }:: ::Secre::{ user=2306637 } |  | Evaluation |
 
 ### osu!mania
 
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | เวียดนาม | Evaluation |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | จีน | Evaluation |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | อินโดนีเซีย | Evaluation |
-| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | เดนมาร์ก | Evaluation |
+| ::{ flag=VN }:: ::Akasha-::{ user=2596306 } | เวียดนาม | Evaluation |
+| ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 } | จีน | Evaluation |
+| ::{ flag=ID }:: ::Maxus::{ user=4335785 } | อินโดนีเซีย | Evaluation |
+| ::{ flag=DK }:: ::Tailsdk::{ user=6751666 } | เดนมาร์ก | Evaluation |
 
 ### Bot accounts
 
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
+| ::{ flag=XX }:: ::Nomination Assessment Team::{ user=6616586 } |  |  |

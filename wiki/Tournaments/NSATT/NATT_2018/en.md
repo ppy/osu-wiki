@@ -8,7 +8,7 @@ tags:
 
 ![NATT 2018 logo](img/logo.jpg)
 
-The **North American Taiko Tournament 2018** (***NATT 2018***) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035) and ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027). The tournament was restricted to players within the North American countries only. It was the third instalment of the North & South American Taiko Tournament.
+The **North American Taiko Tournament 2018** (***NATT 2018***) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=US }:: ::Backfire::{ user=263110 }, ::{ flag=US }:: ::Garpo::{ user=4097035 } and ::{ flag=US }:: ::incandescence::{ user=6256027 }. The tournament was restricted to players within the North American countries only. It was the third instalment of the North & South American Taiko Tournament.
 
 ## Tournament schedule
 
@@ -38,13 +38,13 @@ The North American Taiko Tournament 2018 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027) |
-| Mappool selector | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) |
-| Referee | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=US }:: [Dargin](https://osu.ppy.sh/users/7086439), ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416), ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897), ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) |
-| Commentator | ::{ flag=US }:: [Dargin](https://osu.ppy.sh/users/7086439), ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) |
-| Designer | ::{ flag=FI }:: [Micro](https://osu.ppy.sh/users/4801080) |
-| Statistician | ::{ flag=US }:: [Garpo](https://osu.ppy.sh/users/4097035) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organizer | ::{ flag=US }:: ::Backfire::{ user=263110 }, ::{ flag=US }:: ::Garpo::{ user=4097035 }, ::{ flag=US }:: ::incandescence::{ user=6256027 } |
+| Mappool selector | ::{ flag=US }:: ::Backfire::{ user=263110 }, ::{ flag=US }:: ::incandescence::{ user=6256027 }, ::{ flag=DE }:: ::Zetera::{ user=587737 } |
+| Referee | ::{ flag=US }:: ::Backfire::{ user=263110 }, ::{ flag=US }:: ::Dargin::{ user=7086439 }, ::{ flag=US }:: ::Das::{ user=3165416 }, ::{ flag=US }:: ::Garpo::{ user=4097035 }, ::{ flag=US }:: ::incandescence::{ user=6256027 }, ::{ flag=CA }:: ::janitoreihil::{ user=3307897 }, ::{ flag=DE }:: ::Zetera::{ user=587737 } |
+| Commentator | ::{ flag=US }:: ::Dargin::{ user=7086439 }, ::{ flag=US }:: ::Das::{ user=3165416 }, ::{ flag=US }:: ::incandescence::{ user=6256027 }, ::{ flag=CA }:: ::janitoreihil::{ user=3307897 } |
+| Designer | ::{ flag=FI }:: ::Micro::{ user=4801080 } |
+| Statistician | ::{ flag=US }:: ::Garpo::{ user=4097035 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## Links
 
@@ -57,23 +57,23 @@ The North American Taiko Tournament 2018 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897), ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416), ::{ flag=US }:: [Loopy542](https://osu.ppy.sh/users/5468461), ::{ flag=US }:: [yea](https://osu.ppy.sh/users/6874332), ::{ flag=US }:: [Shyguy](https://osu.ppy.sh/users/178038), ::{ flag=US }:: [Catgirl](https://osu.ppy.sh/users/2771995), ::{ flag=US }:: [\_knots](https://osu.ppy.sh/users/4407678) |
-| Middle | ::{ flag=MX }:: [Mennock](https://osu.ppy.sh/users/854580), ::{ flag=US }:: [Tem](https://osu.ppy.sh/users/5393042), ::{ flag=US }:: [JarHed](https://osu.ppy.sh/users/7488794), ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=US }:: worst player, ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=MX }:: [Ammy](https://osu.ppy.sh/users/4183406) |
-| Low | ::{ flag=CA }:: [ayyEve](https://osu.ppy.sh/users/5013564), ::{ flag=US }:: [jyake\_ou](https://osu.ppy.sh/users/9099822), ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [Obama Taichou](https://osu.ppy.sh/users/3220847), ::{ flag=US }:: [Brames](https://osu.ppy.sh/users/6417190), ::{ flag=US }:: [Voltaeyx](https://osu.ppy.sh/users/2715118), ::{ flag=US }:: [Karoshi\_tv](https://osu.ppy.sh/users/9879536), ::{ flag=MX }:: [GodEater7x](https://osu.ppy.sh/users/6911992) |
-| Unseeded | ::{ flag=US }:: [Kotu776](https://osu.ppy.sh/users/8494571), ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=CA }:: [DuckyDoom](https://osu.ppy.sh/users/3153062), ::{ flag=US }:: [booty](https://osu.ppy.sh/users/4605217), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977), ::{ flag=US }:: [-Treble](https://osu.ppy.sh/users/5750909), ::{ flag=US }:: [dragonworm](https://osu.ppy.sh/users/11464752) |
+| Top | ::{ flag=CA }:: ::vladyushko::{ user=4908773 }, ::{ flag=CA }:: ::janitoreihil::{ user=3307897 }, ::{ flag=US }:: ::Das::{ user=3165416 }, ::{ flag=US }:: ::Loopy542::{ user=5468461 }, ::{ flag=US }:: ::yea::{ user=6874332 }, ::{ flag=US }:: ::Shyguy::{ user=178038 }, ::{ flag=US }:: ::Catgirl::{ user=2771995 }, ::{ flag=US }:: ::\_knots::{ user=4407678 } |
+| Middle | ::{ flag=MX }:: ::Mennock::{ user=854580 }, ::{ flag=US }:: ::Tem::{ user=5393042 }, ::{ flag=US }:: ::JarHed::{ user=7488794 }, ::{ flag=US }:: ::Alchyr::{ user=4993032 }, ::{ flag=US }:: worst player, ::{ flag=US }:: ::closed::{ user=5116922 }, ::{ flag=US }:: ::cheese salad::{ user=6349821 }, ::{ flag=MX }:: ::Ammy::{ user=4183406 } |
+| Low | ::{ flag=CA }:: ::ayyEve::{ user=5013564 }, ::{ flag=US }:: ::jyake\_ou::{ user=9099822 }, ::{ flag=CA }:: ::Azer::{ user=2155578 }, ::{ flag=US }:: ::Obama Taichou::{ user=3220847 }, ::{ flag=US }:: ::Brames::{ user=6417190 }, ::{ flag=US }:: ::Voltaeyx::{ user=2715118 }, ::{ flag=US }:: ::Karoshi\_tv::{ user=9879536 }, ::{ flag=MX }:: ::GodEater7x::{ user=6911992 } |
+| Unseeded | ::{ flag=US }:: ::Kotu776::{ user=8494571 }, ::{ flag=CA }:: ::rubies87::{ user=4949934 }, ::{ flag=CA }:: ::DuckyDoom::{ user=3153062 }, ::{ flag=US }:: ::booty::{ user=4605217 }, ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 }, ::{ flag=US }:: ::CaptainEChan::{ user=9536977 }, ::{ flag=US }:: ::-Treble::{ user=5750909 }, ::{ flag=US }:: ::dragonworm::{ user=11464752 } |
 
 ## Groups
 
 | Group | Top seed | Middle seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) | ::{ flag=US }:: [JarHed](https://osu.ppy.sh/users/7488794) | ::{ flag=CA }:: [ayyEve](https://osu.ppy.sh/users/5013564) | ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
-| **B** | ::{ flag=US }:: [yea](https://osu.ppy.sh/users/6874332) | ::{ flag=MX }:: [Mennock](https://osu.ppy.sh/users/854580) | ::{ flag=US }:: [Obama Taichou](https://osu.ppy.sh/users/3220847) | ::{ flag=US }:: [dragonworm](https://osu.ppy.sh/users/11464752) |
-| **C** | ::{ flag=US }:: [\_knots](https://osu.ppy.sh/users/4407678) | ::{ flag=MX }:: [Ammy](https://osu.ppy.sh/users/4183406) | ::{ flag=US }:: [jyake\_ou](https://osu.ppy.sh/users/9099822) | ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934) |
-| **D** | ::{ flag=US }:: [Catgirl](https://osu.ppy.sh/users/2771995) | ::{ flag=US }:: worst player | ::{ flag=US }:: [Brames](https://osu.ppy.sh/users/6417190) | ::{ flag=CA }:: [DuckyDoom](https://osu.ppy.sh/users/3153062) |
-| **E** | ::{ flag=US }:: [Shyguy](https://osu.ppy.sh/users/178038) | ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821) | ::{ flag=US }:: [Karoshi\_tv](https://osu.ppy.sh/users/9879536) | ::{ flag=US }:: [-Treble](https://osu.ppy.sh/users/5750909) |
-| **F** | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=US }:: [Tem](https://osu.ppy.sh/users/5393042) | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | ::{ flag=US }:: [Kotu776](https://osu.ppy.sh/users/8494571) |
-| **G** | ::{ flag=US }:: [Loopy542](https://osu.ppy.sh/users/5468461) | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032) | ::{ flag=US }:: [Voltaeyx](https://osu.ppy.sh/users/2715118) | ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977) |
-| **H** | ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416) | ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922) | ::{ flag=MX }:: [GodEater7x](https://osu.ppy.sh/users/6911992) | ::{ flag=US }:: [booty](https://osu.ppy.sh/users/4605217) |
+| **A** | ::{ flag=CA }:: ::vladyushko::{ user=4908773 } | ::{ flag=US }:: ::JarHed::{ user=7488794 } | ::{ flag=CA }:: ::ayyEve::{ user=5013564 } | ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 } |
+| **B** | ::{ flag=US }:: ::yea::{ user=6874332 } | ::{ flag=MX }:: ::Mennock::{ user=854580 } | ::{ flag=US }:: ::Obama Taichou::{ user=3220847 } | ::{ flag=US }:: ::dragonworm::{ user=11464752 } |
+| **C** | ::{ flag=US }:: ::\_knots::{ user=4407678 } | ::{ flag=MX }:: ::Ammy::{ user=4183406 } | ::{ flag=US }:: ::jyake\_ou::{ user=9099822 } | ::{ flag=CA }:: ::rubies87::{ user=4949934 } |
+| **D** | ::{ flag=US }:: ::Catgirl::{ user=2771995 } | ::{ flag=US }:: worst player | ::{ flag=US }:: ::Brames::{ user=6417190 } | ::{ flag=CA }:: ::DuckyDoom::{ user=3153062 } |
+| **E** | ::{ flag=US }:: ::Shyguy::{ user=178038 } | ::{ flag=US }:: ::cheese salad::{ user=6349821 } | ::{ flag=US }:: ::Karoshi\_tv::{ user=9879536 } | ::{ flag=US }:: ::-Treble::{ user=5750909 } |
+| **F** | ::{ flag=CA }:: ::janitoreihil::{ user=3307897 } | ::{ flag=US }:: ::Tem::{ user=5393042 } | ::{ flag=CA }:: ::Azer::{ user=2155578 } | ::{ flag=US }:: ::Kotu776::{ user=8494571 } |
+| **G** | ::{ flag=US }:: ::Loopy542::{ user=5468461 } | ::{ flag=US }:: ::Alchyr::{ user=4993032 } | ::{ flag=US }:: ::Voltaeyx::{ user=2715118 } | ::{ flag=US }:: ::CaptainEChan::{ user=9536977 } |
+| **H** | ::{ flag=US }:: ::Das::{ user=3165416 } | ::{ flag=US }:: ::closed::{ user=5116922 } | ::{ flag=MX }:: ::GodEater7x::{ user=6911992 } | ::{ flag=US }:: ::booty::{ user=4605217 } |
 
 ## Podium
 
@@ -81,9 +81,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [Loopy542](https://osu.ppy.sh/users/5468461) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: ::janitoreihil::{ user=3307897 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: ::vladyushko::{ user=4908773 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: ::Loopy542::{ user=5468461 } |
 
 ## Mappools
 

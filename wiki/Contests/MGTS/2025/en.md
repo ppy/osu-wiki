@@ -25,9 +25,9 @@ The MGTS 2025 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Hosts | ::{ flag=TN }:: [**Hivie**](https://osu.ppy.sh/users/14102976), ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
-| Designer | ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966) |
-| Judges | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680), ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) |
+| Hosts | ::{ flag=TN }:: ::**Hivie**::{ user=14102976 }, ::{ flag=SG }:: ::arcpotato::{ user=12842392 }, ::{ flag=MY }:: ::Jerry::{ user=605973 } |
+| Designer | ::{ flag=MY }:: ::Z419::{ user=9912966 } |
+| Judges | ::{ flag=DE }:: ::Greenshell::{ user=8693851 }, ::{ flag=HK }:: ::iRedi::{ user=8005579 }, ::{ flag=MY }:: ::ler1211::{ user=19901680 }, ::{ flag=US }:: ::meiqth::{ user=12565402 }, ::{ flag=AT }:: ::Yasuho::{ user=8458835 } |
 
 ## Prizes
 

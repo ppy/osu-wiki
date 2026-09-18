@@ -10,7 +10,7 @@ tags:
 
 ![OFFC: SL 标识](img/logo.png)
 
-**osu! FumoFumo Cup: Summer Lights** (***OFFC: SL***) 由 ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389) 主办，是建立在 osu! 传统比赛制度基础之上，融合了全新下棋 ban / pick 玩法的 osu! 主模式 4v4 双败淘汰制团队赛。该比赛是 OFFC 系列赛的第二届比赛。
+**osu! FumoFumo Cup: Summer Lights** (***OFFC: SL***) 由 ::{ flag=CN }:: ::- Isuzu Ren -::{ user=13217389 } 主办，是建立在 osu! 传统比赛制度基础之上，融合了全新下棋 ban / pick 玩法的 osu! 主模式 4v4 双败淘汰制团队赛。该比赛是 OFFC 系列赛的第二届比赛。
 
 ## 赛事安排
 
@@ -57,17 +57,17 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 
 | 职责 | 成员 |
 | :-- | :-- |
-| 主办 | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389) |
-| 规则 | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [kitakore](https://osu.ppy.sh/users/33887163), ::{ flag=CN }:: [NaughtyChas](https://osu.ppy.sh/users/15349720) |
-| 程序 | ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=CN }:: [MoeRain233](https://osu.ppy.sh/users/30973609), ::{ flag=CN }:: [NaughtyChas](https://osu.ppy.sh/users/15349720) |
-| 美工 | ::{ flag=CN }:: [AeCw](https://osu.ppy.sh/users/6781503), ::{ flag=CN }:: [Citrusis](https://osu.ppy.sh/users/30298378), ::{ flag=CN }:: [sourflour](https://osu.ppy.sh/users/5237349) |
-| 选图 | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [5atori Komeiji](https://osu.ppy.sh/users/34282059), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=CN }:: [Koishi Komeiji](https://osu.ppy.sh/users/33295812), ::{ flag=CN }:: [My Angel Bronya](https://osu.ppy.sh/users/17857203) |
-| 定制图谱师 | ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908), ::{ flag=HK }:: [Arushii](https://osu.ppy.sh/users/15664628), ::{ flag=PH }:: [Flame Haze](https://osu.ppy.sh/users/8922155), ::{ flag=CN }:: [NatsuRin](https://osu.ppy.sh/users/20653857), ::{ flag=AU }:: [nominomu](https://osu.ppy.sh/users/30485380), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=VN }:: [Selcas](https://osu.ppy.sh/users/12545835), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=JP }:: [Soyuha](https://osu.ppy.sh/users/14208375), ::{ flag=CN }:: [SparkNights](https://osu.ppy.sh/users/9641731), ::{ flag=CN }:: [X Light](https://osu.ppy.sh/users/1814662) |
-| 测试 | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [-Rosmontis-](https://osu.ppy.sh/users/34323353), ::{ flag=CN }:: [[SHK]_Firra](https://osu.ppy.sh/users/15175276), ::{ flag=CN }:: [chanliuko](https://osu.ppy.sh/users/32289237), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=CN }:: [My Angel Bronya](https://osu.ppy.sh/users/17857203) |
-| 裁判 | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [[SHK]_Firra](https://osu.ppy.sh/users/15175276), ::{ flag=CN }:: [Koishi Komeiji](https://osu.ppy.sh/users/33295812), ::{ flag=CN }:: [Komeiji_Satori_](https://osu.ppy.sh/users/15114200), ::{ flag=CN }:: [Paraliesa](https://osu.ppy.sh/users/30595368), ::{ flag=CN }:: [SparkNights](https://osu.ppy.sh/users/9641731) |
-| 直播 | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [Dr_Shindo](https://osu.ppy.sh/users/30895664), ::{ flag=CN }:: [FroZZZZZen](https://osu.ppy.sh/users/29235972), ::{ flag=CN }:: [NaughtyChas](https://osu.ppy.sh/users/15349720) |
-| 解说 | ::{ flag=CN }:: [- Isuzu Ren -](https://osu.ppy.sh/users/13217389), ::{ flag=CN }:: [My Angel Bronya](https://osu.ppy.sh/users/17857203), ::{ flag=CN }:: [Nosenso](https://osu.ppy.sh/users/30329943), ::{ flag=CN }:: [S tella](https://osu.ppy.sh/users/16018639) |
-| 表格 | ::{ flag=CA }:: [Dura](https://osu.ppy.sh/users/5185609), ::{ flag=CN }:: [sourflour](https://osu.ppy.sh/users/5237349) |
+| 主办 | ::{ flag=CN }:: ::- Isuzu Ren -::{ user=13217389 } |
+| 规则 | ::{ flag=CN }:: ::- Isuzu Ren -::{ user=13217389 }, ::{ flag=CN }:: ::kitakore::{ user=33887163 }, ::{ flag=CN }:: ::NaughtyChas::{ user=15349720 } |
+| 程序 | ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=CN }:: ::MoeRain233::{ user=30973609 }, ::{ flag=CN }:: ::NaughtyChas::{ user=15349720 } |
+| 美工 | ::{ flag=CN }:: ::AeCw::{ user=6781503 }, ::{ flag=CN }:: ::Citrusis::{ user=30298378 }, ::{ flag=CN }:: ::sourflour::{ user=5237349 } |
+| 选图 | ::{ flag=CN }:: ::- Isuzu Ren -::{ user=13217389 }, ::{ flag=CN }:: ::5atori Komeiji::{ user=34282059 }, ::{ flag=CN }:: ::FcEazy::{ user=7825227 }, ::{ flag=CN }:: ::Koishi Komeiji::{ user=33295812 }, ::{ flag=CN }:: ::My Angel Bronya::{ user=17857203 } |
+| 定制图谱师 | ::{ flag=PH }:: ::Amateurre::{ user=7326908 }, ::{ flag=HK }:: ::Arushii::{ user=15664628 }, ::{ flag=PH }:: ::Flame Haze::{ user=8922155 }, ::{ flag=CN }:: ::NatsuRin::{ user=20653857 }, ::{ flag=AU }:: ::nominomu::{ user=30485380 }, ::{ flag=HK }:: ::Petal::{ user=7354729 }, ::{ flag=VN }:: ::Selcas::{ user=12545835 }, ::{ flag=ID }:: ::Shurelia::{ user=3807986 }, ::{ flag=JP }:: ::Soyuha::{ user=14208375 }, ::{ flag=CN }:: ::SparkNights::{ user=9641731 }, ::{ flag=CN }:: ::X Light::{ user=1814662 } |
+| 测试 | ::{ flag=CN }:: ::- Isuzu Ren -::{ user=13217389 }, ::{ flag=CN }:: ::-Rosmontis-::{ user=34323353 }, ::{ flag=CN }:: ::\1SHK\1\1Firra::{ user=15175276 }, ::{ flag=CN }:: ::chanliuko::{ user=32289237 }, ::{ flag=CN }:: ::FcEazy::{ user=7825227 }, ::{ flag=CN }:: ::My Angel Bronya::{ user=17857203 } |
+| 裁判 | ::{ flag=CN }:: ::- Isuzu Ren -::{ user=13217389 }, ::{ flag=CN }:: ::\1SHK\1\1Firra::{ user=15175276 }, ::{ flag=CN }:: ::Koishi Komeiji::{ user=33295812 }, ::{ flag=CN }:: ::Komeiji\1Satori\1::{ user=15114200 }, ::{ flag=CN }:: ::Paraliesa::{ user=30595368 }, ::{ flag=CN }:: ::SparkNights::{ user=9641731 } |
+| 直播 | ::{ flag=CN }:: ::- Isuzu Ren -::{ user=13217389 }, ::{ flag=CN }:: ::Dr\1Shindo::{ user=30895664 }, ::{ flag=CN }:: ::FroZZZZZen::{ user=29235972 }, ::{ flag=CN }:: ::NaughtyChas::{ user=15349720 } |
+| 解说 | ::{ flag=CN }:: ::- Isuzu Ren -::{ user=13217389 }, ::{ flag=CN }:: ::My Angel Bronya::{ user=17857203 }, ::{ flag=CN }:: ::Nosenso::{ user=30329943 }, ::{ flag=CN }:: ::S tella::{ user=16018639 } |
+| 表格 | ::{ flag=CA }:: ::Dura::{ user=5185609 }, ::{ flag=CN }:: ::sourflour::{ user=5237349 } |
 | 定制曲与曲绘 | ::{ flag=CN }:: [7Echo（哔哩哔哩）](https://space.bilibili.com/3461578621979492) ::{ flag=CN }:: [gwsscz_（哔哩哔哩）](https://space.bilibili.com/1840888539) |
 
 ## 链接
@@ -83,14 +83,14 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 
 | 队伍代号 | 队名 | 成员 |
 | :-: | :-: | :-- |
-| **Team A** | 多啦A梦 | ::{ flag=HK }:: [Kdlake](https://osu.ppy.sh/users/29938752), ::{ flag=HK }:: [Ayaneruuu](https://osu.ppy.sh/users/14533605), ::{ flag=DE }:: [yiyao1229](https://osu.ppy.sh/users/30979124), ::{ flag=CN }:: [- Rika Ayano -](https://osu.ppy.sh/users/9037287), ::{ flag=CN }:: [-SummerSky-](https://osu.ppy.sh/users/18955845), ::{ flag=TW }:: [touhou chef](https://osu.ppy.sh/users/24533023), ::{ flag=HK }:: [[SHK] Arcadia](https://osu.ppy.sh/users/13888511), ::{ flag=KR }:: [09X](https://osu.ppy.sh/users/36963238) |
-| **Team B** | 都是SummerSky害的 | ::{ flag=CN }:: [MogenNotFound](https://osu.ppy.sh/users/14494010), ::{ flag=CN }:: [Sonoboi](https://osu.ppy.sh/users/10040597), ::{ flag=TW }:: [[ Luka ]](https://osu.ppy.sh/users/11923800), ::{ flag=CN }:: [[SHK]T_T](https://osu.ppy.sh/users/13999223), ::{ flag=CN }:: [zmyk](https://osu.ppy.sh/users/11396041), ::{ flag=CN }:: [misaki233](https://osu.ppy.sh/users/14103871), ::{ flag=CN }:: [Hekiru](https://osu.ppy.sh/users/16446039), ::{ flag=CN }:: [misaki233](https://osu.ppy.sh/users/14103871) |
-| **Team C** | 不是夏天我不草 | ::{ flag=CN }:: [oliwakami](https://osu.ppy.sh/users/3046750), ::{ flag=CN }:: [jj986544591](https://osu.ppy.sh/users/2917990), ::{ flag=HK }:: [-xxx Rumia-](https://osu.ppy.sh/users/5936405), ::{ flag=CA }:: [Akisa 18](https://osu.ppy.sh/users/16134378), ::{ flag=CN }:: [HD1](https://osu.ppy.sh/users/21398264), ::{ flag=TW }:: [miltonfs](https://osu.ppy.sh/users/32610281), ::{ flag=US }:: [Yuan233123](https://osu.ppy.sh/users/15454134), ::{ flag=CN }:: [CloudLinker](https://osu.ppy.sh/users/19465414) |
-| **Team D** | 给你一拳 | ::{ flag=US }:: [Texas](https://osu.ppy.sh/users/8281276), ::{ flag=CN }:: [Pager](https://osu.ppy.sh/users/15030466), ::{ flag=CN }:: [gxytcgxytc](https://osu.ppy.sh/users/874891), ::{ flag=TW }:: [N i s u](https://osu.ppy.sh/users/4647311), ::{ flag=CN }:: [carrywind](https://osu.ppy.sh/users/12228018), ::{ flag=CN }:: [-SmilingTeresa](https://osu.ppy.sh/users/4524794), ::{ flag=CN }:: [noneght](https://osu.ppy.sh/users/16801578), ::{ flag=TW }:: [12231337](https://osu.ppy.sh/users/37845705) |
-| **Team E** | Valorant after this | ::{ flag=CA }:: [ShandenYamada](https://osu.ppy.sh/users/13413713), ::{ flag=TW }:: [jocore](https://osu.ppy.sh/users/30157397), ::{ flag=CN }:: [Firia](https://osu.ppy.sh/users/9164037), ::{ flag=CN }:: [Slay_conceit](https://osu.ppy.sh/users/5568835), ::{ flag=CN }:: [i hate TB](https://osu.ppy.sh/users/31443365), ::{ flag=HK }:: [itsushini](https://osu.ppy.sh/users/17074316), ::{ flag=CN }:: [Mars New](https://osu.ppy.sh/users/8926316) |
-| **Team F** | 原來OFFC:SL的S不是suiji的意思嗎 | ::{ flag=MO }:: [-PSC-](https://osu.ppy.sh/users/24350045), ::{ flag=HK }:: [AbbeyChan6203](https://osu.ppy.sh/users/20971891), ::{ flag=TW }:: [daiimu](https://osu.ppy.sh/users/17792515), ::{ flag=CN }:: [Hakumo Shiro](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [9898](https://osu.ppy.sh/users/1624459), ::{ flag=CN }:: [Fyu_Neru](https://osu.ppy.sh/users/6699436), ::{ flag=CN }:: [MizukiQwQ](https://osu.ppy.sh/users/15154497), ::{ flag=AE }:: [SzZzC](https://osu.ppy.sh/users/32630602) |
-| **Team G** | 让你选DT你龙吗 | ::{ flag=CN }:: [1611](https://osu.ppy.sh/users/10462385), ::{ flag=CN }:: [SongDD](https://osu.ppy.sh/users/17049803), ::{ flag=CN }:: [Bochi the osu](https://osu.ppy.sh/users/30284920), ::{ flag=CN }:: [Hakumo Ai](https://osu.ppy.sh/users/694480), ::{ flag=TW }:: [Ama_tw](https://osu.ppy.sh/users/28536684), ::{ flag=CN }:: [Lilim Harlot](https://osu.ppy.sh/users/29552621), ::{ flag=CN }:: [forzenyubi](https://osu.ppy.sh/users/9661461), ::{ flag=SG }:: [AthoraX](https://osu.ppy.sh/users/17689709) |
-| **Team H** | zako psc | ::{ flag=HK }:: [Fallen_HK](https://osu.ppy.sh/users/13981456), ::{ flag=CN }:: [eric1388](https://osu.ppy.sh/users/20384257), ::{ flag=HK }:: [Mithra Tercera](https://osu.ppy.sh/users/2955661), ::{ flag=CN }:: [RABBIT2](https://osu.ppy.sh/users/10260284), ::{ flag=MO }:: [7White](https://osu.ppy.sh/users/17159216), ::{ flag=TW }:: [Mou li kai](https://osu.ppy.sh/users/30593882), ::{ flag=CN }:: [Pouxba](https://osu.ppy.sh/users/16378561), ::{ flag=CN }:: [comgrat](https://osu.ppy.sh/users/12830046) |
+| **Team A** | 多啦A梦 | ::{ flag=HK }:: ::Kdlake::{ user=29938752 }, ::{ flag=HK }:: ::Ayaneruuu::{ user=14533605 }, ::{ flag=DE }:: ::yiyao1229::{ user=30979124 }, ::{ flag=CN }:: ::- Rika Ayano -::{ user=9037287 }, ::{ flag=CN }:: ::-SummerSky-::{ user=18955845 }, ::{ flag=TW }:: ::touhou chef::{ user=24533023 }, ::{ flag=HK }:: ::\1SHK\1 Arcadia::{ user=13888511 }, ::{ flag=KR }:: ::09X::{ user=36963238 } |
+| **Team B** | 都是SummerSky害的 | ::{ flag=CN }:: ::MogenNotFound::{ user=14494010 }, ::{ flag=CN }:: ::Sonoboi::{ user=10040597 }, ::{ flag=TW }:: ::\1 Luka \1::{ user=11923800 }, ::{ flag=CN }:: ::\1SHK\1T\1T::{ user=13999223 }, ::{ flag=CN }:: ::zmyk::{ user=11396041 }, ::{ flag=CN }:: ::misaki233::{ user=14103871 }, ::{ flag=CN }:: ::Hekiru::{ user=16446039 }, ::{ flag=CN }:: ::misaki233::{ user=14103871 } |
+| **Team C** | 不是夏天我不草 | ::{ flag=CN }:: ::oliwakami::{ user=3046750 }, ::{ flag=CN }:: ::jj986544591::{ user=2917990 }, ::{ flag=HK }:: ::-xxx Rumia-::{ user=5936405 }, ::{ flag=CA }:: ::Akisa 18::{ user=16134378 }, ::{ flag=CN }:: ::HD1::{ user=21398264 }, ::{ flag=TW }:: ::miltonfs::{ user=32610281 }, ::{ flag=US }:: ::Yuan233123::{ user=15454134 }, ::{ flag=CN }:: ::CloudLinker::{ user=19465414 } |
+| **Team D** | 给你一拳 | ::{ flag=US }:: ::Texas::{ user=8281276 }, ::{ flag=CN }:: ::Pager::{ user=15030466 }, ::{ flag=CN }:: ::gxytcgxytc::{ user=874891 }, ::{ flag=TW }:: ::N i s u::{ user=4647311 }, ::{ flag=CN }:: ::carrywind::{ user=12228018 }, ::{ flag=CN }:: ::-SmilingTeresa::{ user=4524794 }, ::{ flag=CN }:: ::noneght::{ user=16801578 }, ::{ flag=TW }:: ::12231337::{ user=37845705 } |
+| **Team E** | Valorant after this | ::{ flag=CA }:: ::ShandenYamada::{ user=13413713 }, ::{ flag=TW }:: ::jocore::{ user=30157397 }, ::{ flag=CN }:: ::Firia::{ user=9164037 }, ::{ flag=CN }:: ::Slay\1conceit::{ user=5568835 }, ::{ flag=CN }:: ::i hate TB::{ user=31443365 }, ::{ flag=HK }:: ::itsushini::{ user=17074316 }, ::{ flag=CN }:: ::Mars New::{ user=8926316 } |
+| **Team F** | 原來OFFC:SL的S不是suiji的意思嗎 | ::{ flag=MO }:: ::-PSC-::{ user=24350045 }, ::{ flag=HK }:: ::AbbeyChan6203::{ user=20971891 }, ::{ flag=TW }:: ::daiimu::{ user=17792515 }, ::{ flag=CN }:: ::Hakumo Shiro::{ user=5179557 }, ::{ flag=CN }:: ::9898::{ user=1624459 }, ::{ flag=CN }:: ::Fyu\1Neru::{ user=6699436 }, ::{ flag=CN }:: ::MizukiQwQ::{ user=15154497 }, ::{ flag=AE }:: ::SzZzC::{ user=32630602 } |
+| **Team G** | 让你选DT你龙吗 | ::{ flag=CN }:: ::1611::{ user=10462385 }, ::{ flag=CN }:: ::SongDD::{ user=17049803 }, ::{ flag=CN }:: ::Bochi the osu::{ user=30284920 }, ::{ flag=CN }:: ::Hakumo Ai::{ user=694480 }, ::{ flag=TW }:: ::Ama\1tw::{ user=28536684 }, ::{ flag=CN }:: ::Lilim Harlot::{ user=29552621 }, ::{ flag=CN }:: ::forzenyubi::{ user=9661461 }, ::{ flag=SG }:: ::AthoraX::{ user=17689709 } |
+| **Team H** | zako psc | ::{ flag=HK }:: ::Fallen\1HK::{ user=13981456 }, ::{ flag=CN }:: ::eric1388::{ user=20384257 }, ::{ flag=HK }:: ::Mithra Tercera::{ user=2955661 }, ::{ flag=CN }:: ::RABBIT2::{ user=10260284 }, ::{ flag=MO }:: ::7White::{ user=17159216 }, ::{ flag=TW }:: ::Mou li kai::{ user=30593882 }, ::{ flag=CN }:: ::Pouxba::{ user=16378561 }, ::{ flag=CN }:: ::comgrat::{ user=12830046 } |
 
 ## 颁奖信息
 
@@ -115,12 +115,12 @@ osu! FumoFumo Cup: Summer Lights 由众多的社区成员举办。
 
 | 名次 | 选手 |
 | :-- | :-- |
-| MVP（来自冠军队） | ::{ flag=DE }:: [yiyao1229](https://osu.ppy.sh/users/30979124) |
-| SVP（来自亚军队） | ::{ flag=HK }:: [Mithra Tercera](https://osu.ppy.sh/users/2955661) |
+| MVP（来自冠军队） | ::{ flag=DE }:: ::yiyao1229::{ user=30979124 } |
+| SVP（来自亚军队） | ::{ flag=HK }:: ::Mithra Tercera::{ user=2955661 } |
 | 最佳计谋策略师（投票选出） | 待定 |
 | 最佳劳模策略师（投票选出） | 待定 |
-| HD 图总分最高选手 | ::{ flag=CN }:: [Kdlake](https://osu.ppy.sh/users/29938752) |
-| HR 图总分最高选手 | ::{ flag=CN }:: [RABBIT2](https://osu.ppy.sh/users/10260284) |
+| HD 图总分最高选手 | ::{ flag=CN }:: ::Kdlake::{ user=29938752 } |
+| HR 图总分最高选手 | ::{ flag=CN }:: ::RABBIT2::{ user=10260284 } |
 
 ## 图池
 

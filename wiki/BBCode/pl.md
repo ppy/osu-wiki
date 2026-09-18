@@ -431,15 +431,15 @@ Poniższe projekty ułatwiają proces formatowania tekstu przy użyciu BBCode:
 
 | Nazwa | Twórca projektu | Opis |
 | :-: | :-: | :-- |
-| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | Edytor BBCode przeznaczony do strony osu! z podglądem w czasie rzeczywistym |
-| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | Edytor BBCode przeznaczony do strony osu! z podglądem w czasie rzeczywistym (Zarchiwizowany) |
-| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[_____________]](https://osu.ppy.sh/users/12036908) | Tworzenie kolorowych gradientów |
-| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Rozszerzenie przeglądarki dodające więcej przycisków BBCode oraz inne funkcje do strony internetowej osu! |
+| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: ::rezzvy::{ user=8804560 } | Edytor BBCode przeznaczony do strony osu! z podglądem w czasie rzeczywistym |
+| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: ::HonokaKousakaTV::{ user=18595366 } | Edytor BBCode przeznaczony do strony osu! z podglądem w czasie rzeczywistym (Zarchiwizowany) |
+| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: ::\1\1\1\1\1\1\1\1\1\1\1\1\1\1\1::{ user=12036908 } | Tworzenie kolorowych gradientów |
+| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Rozszerzenie przeglądarki dodające więcej przycisków BBCode oraz inne funkcje do strony internetowej osu! |
 | [textcolorizer](https://www.stuffbydavid.com/textcolorizer) | david | Zmiana koloru tekstu przy użyciu BBCode oraz HTML |
 
 ## Ciekawostki
 
-- Ten artykuł wiki został zaadaptowany z wątku na forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) autorstwa użytkownika [Stefan](https://osu.ppy.sh/users/626907).
+- Ten artykuł wiki został zaadaptowany z wątku na forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) autorstwa użytkownika ::Stefan::{ user=626907 }.
 - Kiedyś istniał błąd, który pozwalał użytkownikom pisać przezroczystym tekstem poprzez wpisanie "transparent" po znaku równości (`=`) w [tagu koloru](#kolor).
   - Obecnie, tekst powróci do domyślnego koloru (białego).
 - Zanim dodano tag `mapa obrazu`, użytkownicy tworzyli klikalne grafiki, łącząc tagi `url` i `img`. Ponieważ jeden obraz mógł mieć tylko jeden link, większe grafiki dzielono na mniejsze części (jedna część na każdy link) i układano je obok siebie poziomo.

@@ -49,7 +49,7 @@ osu! 擁有四種包含不同玩法的**遊戲模式**，這些遊戲模式都�
 
 *主頁面: [osu!mania](osu!mania)*
 
-*osu!mania* 是一個設計來模擬鋼琴的下落式節奏遊戲模式。這個模式主要由 [woc2006](https://osu.ppy.sh/users/1105845) [開發並移植](https://osu.ppy.sh/community/forums/topics/100751)。玩法基於各種軌道式節奏遊戲 (如 [勁爆熱舞](https://en.wikipedia.org/zh-tw/勁爆熱舞) 與 [狂熱節拍](https://en.wikipedia.org/wiki/zh-tw/狂熱節拍))。osu!mania 模式的吉祥物是一對名為 [Mani 和 Mari](/wiki/Mascots#mani-&-mari) 的雙胞胎姐妹，她們都擁有紫色與亮紫色的頭髮。
+*osu!mania* 是一個設計來模擬鋼琴的下落式節奏遊戲模式。這個模式主要由 ::woc2006::{ user=1105845 } [開發並移植](https://osu.ppy.sh/community/forums/topics/100751)。玩法基於各種軌道式節奏遊戲 (如 [勁爆熱舞](https://en.wikipedia.org/zh-tw/勁爆熱舞) 與 [狂熱節拍](https://en.wikipedia.org/wiki/zh-tw/狂熱節拍))。osu!mania 模式的吉祥物是一對名為 [Mani 和 Mari](/wiki/Mascots#mani-&-mari) 的雙胞胎姐妹，她們都擁有紫色與亮紫色的頭髮。
 
 ![osu!mania 的遊玩畫面](/wiki/shared/mania-gameplay.jpg "osu!mania 的遊玩畫面")
 

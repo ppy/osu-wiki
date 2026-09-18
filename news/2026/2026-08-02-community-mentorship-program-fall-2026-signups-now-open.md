@@ -23,19 +23,19 @@ The mentee signups are currently open, and close on the **9th of August**!
 
 | Mentor | Time zone |
 | :-- | :-- |
-| ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | UTC-7 |
-| ::{ flag=US }:: [Mizunashi Akari](https://osu.ppy.sh/users/12882468) | UTC-7 |
-| ::{ flag=US }:: [Nathan](https://osu.ppy.sh/users/4785223) | UTC-7 |
-| ::{ flag=US }:: [Scorf](https://osu.ppy.sh/users/17038784) | UTC-7 |
-| ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) | UTC-5 |
-| ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) | UTC-3.5 |
-| ::{ flag=BR }:: [Neto](https://osu.ppy.sh/users/5099768) | UTC-3 |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | UTC+2 |
-| ::{ flag=ES }:: [flouah](https://osu.ppy.sh/users/8030129) | UTC+2 |
-| ::{ flag=PL }:: [App](https://osu.ppy.sh/users/13650508) | UTC+2 |
-| ::{ flag=DE }:: [-eNVy-](https://osu.ppy.sh/users/10632422) | UTC+2 |
-| ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | UTC+2 |
-| ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | UTC+8 |
+| ::{ flag=KR }:: ::KeyWee::{ user=10476879 } | UTC-7 |
+| ::{ flag=US }:: ::Mizunashi Akari::{ user=12882468 } | UTC-7 |
+| ::{ flag=US }:: ::Nathan::{ user=4785223 } | UTC-7 |
+| ::{ flag=US }:: ::Scorf::{ user=17038784 } | UTC-7 |
+| ::{ flag=US }:: ::Local Hero::{ user=16134122 } | UTC-5 |
+| ::{ flag=CA }:: ::Sparhten::{ user=7601720 } | UTC-3.5 |
+| ::{ flag=BR }:: ::Neto::{ user=5099768 } | UTC-3 |
+| ::{ flag=DE }:: ::Okoayu::{ user=1623405 } | UTC+2 |
+| ::{ flag=ES }:: ::flouah::{ user=8030129 } | UTC+2 |
+| ::{ flag=PL }:: ::App::{ user=13650508 } | UTC+2 |
+| ::{ flag=DE }:: ::-eNVy-::{ user=10632422 } | UTC+2 |
+| ::{ flag=ZA }:: ::Mattay::{ user=9748303 } | UTC+2 |
+| ::{ flag=TW }:: ::Plus4j::{ user=4086497 } | UTC+8 |
 
 You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors?closed=&track=1).
 
@@ -43,8 +43,8 @@ You can find more information on these mentors — and apply to them — on the 
 
 | Mentor | Time zone |
 | :-- | :-- |
-| ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669) | UTC-4 |
-| ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767) | UTC+9 |
+| ::{ flag=CL }:: ::ulko::{ user=1263669 } | UTC-4 |
+| ::{ flag=JP }:: ::tasuke912::{ user=2774767 } | UTC+9 |
 
 You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors?closed=&track=4).
 
@@ -52,11 +52,11 @@ You can find more information on these mentors — and apply to them — on the 
 
 | Mentor | Time zone |
 | :-- | :-- |
-| ::{ flag=CN }:: [sxy62146214](https://osu.ppy.sh/users/8386591) | UTC+8 |
-| ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) | UTC+8 |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | UTC+9 |
-| ::{ flag=LV }:: [SspoksS](https://osu.ppy.sh/users/14380867) | UTC+2 |
-| ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) | UTC+2 |
+| ::{ flag=CN }:: ::sxy62146214::{ user=8386591 } | UTC+8 |
+| ::{ flag=PH }:: ::-Rustyy::{ user=16355636 } | UTC+8 |
+| ::{ flag=KR }:: ::Spectator::{ user=702598 } | UTC+9 |
+| ::{ flag=LV }:: ::SspoksS::{ user=14380867 } | UTC+2 |
+| ::{ flag=PL }:: ::Verti::{ user=10674528 } | UTC+2 |
 
 You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors?closed=&track=7).
 
@@ -64,12 +64,12 @@ You can find more information on these mentors — and apply to them — on the 
 
 | Mentor | Time zone |
 | :-- | :-- |
-| ::{ flag=NL }:: [Linlime](https://osu.ppy.sh/users/14438535) | UTC+2 |
-| ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968) | UTC+8 |
-| ::{ flag=HK }:: [NineSey](https://osu.ppy.sh/users/25454675) | UTC+8 |
-| ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) | UTC+8 |
-| ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | UTC+2 |
-| ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | UTC+2 |
+| ::{ flag=NL }:: ::Linlime::{ user=14438535 } | UTC+2 |
+| ::{ flag=CN }:: ::V1do-::{ user=17527968 } | UTC+8 |
+| ::{ flag=HK }:: ::NineSey::{ user=25454675 } | UTC+8 |
+| ::{ flag=CN }:: ::\1Stan::{ user=1653229 } | UTC+8 |
+| ::{ flag=CN }:: ::Carpihat::{ user=10085090 } | UTC+2 |
+| ::{ flag=NL }:: ::Muse Dash::{ user=13695676 } | UTC+2 |
 
 You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors?closed=&track=10).
 
@@ -77,17 +77,17 @@ You can find more information on these mentors — and apply to them — on the 
 
 | Mentor | Game mode | Time zone |
 | :-- | :-- | :-- |
-| ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | osu! | UTC-7 |
-| ::{ flag=BR }:: [Neto](https://osu.ppy.sh/users/5099768) | osu! | UTC-3 |
-| ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | osu! | UTC+2 |
-| ::{ flag=DE }:: [-eNVy-](https://osu.ppy.sh/users/10632422) | osu! | UTC+2 |
-| ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | osu! | UTC+8 |
-| ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | osu! | UTC-4 |
-| ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | osu!mania | UTC+8 |
-| ::{ flag=DE }:: [DizzyOracel](https://osu.ppy.sh/users/32159666) | osu!catch | UTC+2 |
-| ::{ flag=LV }:: [SspoksS](https://osu.ppy.sh/users/14380867) | osu!catch | UTC+2 |
-| ::{ flag=KR }:: [SN707](https://osu.ppy.sh/users/31404061) | osu!taiko | UTC+9 |
-| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) & ::{ flag=US }:: [pancakespk](https://osu.ppy.sh/users/26131645) | osu! | UTC-7 |
+| ::{ flag=KR }:: ::KeyWee::{ user=10476879 } | osu! | UTC-7 |
+| ::{ flag=BR }:: ::Neto::{ user=5099768 } | osu! | UTC-3 |
+| ::{ flag=NL }:: ::Syph::{ user=4858573 } | osu! | UTC+2 |
+| ::{ flag=DE }:: ::-eNVy-::{ user=10632422 } | osu! | UTC+2 |
+| ::{ flag=TW }:: ::Plus4j::{ user=4086497 } | osu! | UTC+8 |
+| ::{ flag=CL }:: ::Cris-::{ user=6175280 } | osu! | UTC-4 |
+| ::{ flag=CN }:: ::Carpihat::{ user=10085090 } | osu!mania | UTC+8 |
+| ::{ flag=DE }:: ::DizzyOracel::{ user=32159666 } | osu!catch | UTC+2 |
+| ::{ flag=LV }:: ::SspoksS::{ user=14380867 } | osu!catch | UTC+2 |
+| ::{ flag=KR }:: ::SN707::{ user=31404061 } | osu!taiko | UTC+9 |
+| ::{ flag=US }:: ::GodHacc::{ user=10023225 } & ::{ flag=US }:: ::pancakespk::{ user=26131645 } | osu! | UTC-7 |
 
 You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors).
 
@@ -95,8 +95,8 @@ You can find more information on these mentors — and apply to them — on the 
 
 | Mentor | Time zone |
 | :-- | :-- |
-| ::{ flag=VN }:: [Hokichi](https://osu.ppy.sh/users/6607303) | UTC+7 |
-| ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051) | UTC+8 |
+| ::{ flag=VN }:: ::Hokichi::{ user=6607303 } | UTC+7 |
+| ::{ flag=MY }:: ::R3aCt10n::{ user=17020051 } | UTC+8 |
 
 You can find more information on these mentors — and apply to them — on the [mentor listing](https://osucmp.com/mentors?closed=&track=13).
 

@@ -7,7 +7,7 @@ tags:
 
 ![Logo RPT](img/logo.jpg)
 
-**ROI PRO Tournament** (***RPT***) merupakan sebuah turnamen osu! 3v3 Regional Indonesia yang diselenggarakan oleh ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839). Peserta turnamen ini dibatasi khusus untuk pemain yang Berbahasa Indonesia saja. Kali ini merupakan yang pertama kalinya ROI PRO Tournament diselenggarakan.
+**ROI PRO Tournament** (***RPT***) merupakan sebuah turnamen osu! 3v3 Regional Indonesia yang diselenggarakan oleh ::{ flag=ID }:: ::wiam103::{ user=4109839 }. Peserta turnamen ini dibatasi khusus untuk pemain yang Berbahasa Indonesia saja. Kali ini merupakan yang pertama kalinya ROI PRO Tournament diselenggarakan.
 
 ## Jadwal turnamen
 
@@ -30,7 +30,7 @@ tags:
 | ![Mahkota perak](/wiki/shared/crown-silver.png "Posisi kedua") | 2 bulan osu!supporter tag untuk setiap anggota tim |
 | ![Mahkota perunggu](/wiki/shared/crown-bronze.png "Posisi ketiga") | 1 bulan osu!supporter tag untuk setiap anggota tim |
 
-Sumbangan dermawan dari ::{ flag=ID }:: [Akebono](https://osu.ppy.sh/users/1815316), ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490), ::{ flag=ID }:: [LLEENN](https://osu.ppy.sh/users/2427901), ::{ flag=US }:: [RandyV](https://osu.ppy.sh/users/5389220), dan ::{ flag=ID }:: [Tama-desu](https://osu.ppy.sh/users/3813174) yang telah membantu mendanai sejumlah hadiah.
+Sumbangan dermawan dari ::{ flag=ID }:: ::Akebono::{ user=1815316 }, ::{ flag=ID }:: ::Genjitsu::{ user=3531490 }, ::{ flag=ID }:: ::LLEENN::{ user=2427901 }, ::{ flag=US }:: ::RandyV::{ user=5389220 }, dan ::{ flag=ID }:: ::Tama-desu::{ user=3813174 } yang telah membantu mendanai sejumlah hadiah.
 
 ## Struktur organisasi
 
@@ -38,17 +38,17 @@ ROI PRO Tournament dapat terlaksana dikarenakan bantuan berbagai anggota komunit
 
 | Jabatan | Anggota |
 | :-- | :-- |
-| Penyelenggara | ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839) |
-| Asisten penyelenggara | ::{ flag=ID }:: [LLEENN](https://osu.ppy.sh/users/2427901), ::{ flag=ID }:: [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Administrator | ::{ flag=ID }:: [LLEENN](https://osu.ppy.sh/users/2427901), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839), ::{ flag=ID }:: [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Pemilih map | ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [LLEENN](https://osu.ppy.sh/users/2427901), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839), ::{ flag=ID }:: [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Penguji map | ::{ flag=ID }:: [CyberX](https://osu.ppy.sh/users/2156370), ::{ flag=ID }:: [Genjitsu](https://osu.ppy.sh/users/3531490), ::{ flag=ID }:: [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008), ::{ flag=ID }:: [xHirayuki](https://osu.ppy.sh/users/3245206), ::{ flag=TW }:: [XzCraftP](https://osu.ppy.sh/users/1593180) |
-| Wasit | ::{ flag=ID }:: [\_Ayz](https://osu.ppy.sh/users/3119560), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [NasKun](https://osu.ppy.sh/users/4072313), ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722), ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=ID }:: [nya10](https://osu.ppy.sh/users/1372608), ::{ flag=ID }:: [Remuru](https://osu.ppy.sh/users/3654220), ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465), ::{ flag=AU }:: [Walfurus](https://osu.ppy.sh/users/13684009), ::{ flag=ID }:: [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Penyiar | ::{ flag=ID }:: [LLEENN](https://osu.ppy.sh/users/2427901), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839), ::{ flag=TW }:: [XzCraftP](https://osu.ppy.sh/users/1593180) |
-| Komentator | ::{ flag=ID }:: [\_Ayz](https://osu.ppy.sh/users/3119560), ::{ flag=ID }:: [LLEENN](https://osu.ppy.sh/users/2427901), ::{ flag=ID }:: [Midwinter](https://osu.ppy.sh/users/9762056), ::{ flag=ID }:: [Nexa-](https://osu.ppy.sh/users/6155896), ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839), ::{ flag=ID }:: [xHirayuki](https://osu.ppy.sh/users/3245206), ::{ flag=GB }:: [Young Alpha](https://osu.ppy.sh/users/15383957) |
-| Desainer | ::{ flag=ID }:: [LLEENN](https://osu.ppy.sh/users/2427901), ::{ flag=ID }:: [Nexa-](https://osu.ppy.sh/users/6155896), ::{ flag=ID }:: [-Remilia-](https://osu.ppy.sh/users/2513995), ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465) |
-| Ahli statistik | ::{ flag=TR }:: [112servis](https://osu.ppy.sh/users/3953470), ::{ flag=ID }:: [Kazuyo](https://osu.ppy.sh/users/5604201), ::{ flag=CA }:: [Malikil](https://osu.ppy.sh/users/3208718), ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839) |
-| Editor wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Penyelenggara | ::{ flag=ID }:: ::wiam103::{ user=4109839 } |
+| Asisten penyelenggara | ::{ flag=ID }:: ::LLEENN::{ user=2427901 }, ::{ flag=ID }:: ::xHirayuki::{ user=3245206 } |
+| Administrator | ::{ flag=ID }:: ::LLEENN::{ user=2427901 }, ::{ flag=ID }:: ::wiam103::{ user=4109839 }, ::{ flag=ID }:: ::xHirayuki::{ user=3245206 } |
+| Pemilih map | ::{ flag=ID }:: ::Kuro Fuyusaki::{ user=2667496 }, ::{ flag=ID }:: ::LLEENN::{ user=2427901 }, ::{ flag=ID }:: ::wiam103::{ user=4109839 }, ::{ flag=ID }:: ::xHirayuki::{ user=3245206 } |
+| Penguji map | ::{ flag=ID }:: ::CyberX::{ user=2156370 }, ::{ flag=ID }:: ::Genjitsu::{ user=3531490 }, ::{ flag=ID }:: ::Rayhan Hamil::{ user=4085825 }, ::{ flag=ID }:: ::Skydiver::{ user=4750008 }, ::{ flag=ID }:: ::xHirayuki::{ user=3245206 }, ::{ flag=TW }:: ::XzCraftP::{ user=1593180 } |
+| Wasit | ::{ flag=ID }:: ::\_Ayz::{ user=3119560 }, ::{ flag=ID }:: ::Kuro Fuyusaki::{ user=2667496 }, ::{ flag=ID }:: ::NasKun::{ user=4072313 }, ::{ flag=ID }:: ::Naverlyn::{ user=14324722 }, ::{ flag=ID }:: ::NoVaLian::{ user=6459827 }, ::{ flag=ID }:: ::nya10::{ user=1372608 }, ::{ flag=ID }:: ::Remuru::{ user=3654220 }, ::{ flag=ID }:: ::Tix::{ user=11421465 }, ::{ flag=AU }:: ::Walfurus::{ user=13684009 }, ::{ flag=ID }:: ::xHirayuki::{ user=3245206 } |
+| Penyiar | ::{ flag=ID }:: ::LLEENN::{ user=2427901 }, ::{ flag=ID }:: ::Victim\_Crasher::{ user=2084869 }, ::{ flag=ID }:: ::wiam103::{ user=4109839 }, ::{ flag=TW }:: ::XzCraftP::{ user=1593180 } |
+| Komentator | ::{ flag=ID }:: ::\_Ayz::{ user=3119560 }, ::{ flag=ID }:: ::LLEENN::{ user=2427901 }, ::{ flag=ID }:: ::Midwinter::{ user=9762056 }, ::{ flag=ID }:: ::Nexa-::{ user=6155896 }, ::{ flag=ID }:: ::PatrickFPSGamer::{ user=4796773 }, ::{ flag=ID }:: ::Victim\_Crasher::{ user=2084869 }, ::{ flag=ID }:: ::wiam103::{ user=4109839 }, ::{ flag=ID }:: ::xHirayuki::{ user=3245206 }, ::{ flag=GB }:: ::Young Alpha::{ user=15383957 } |
+| Desainer | ::{ flag=ID }:: ::LLEENN::{ user=2427901 }, ::{ flag=ID }:: ::Nexa-::{ user=6155896 }, ::{ flag=ID }:: ::-Remilia-::{ user=2513995 }, ::{ flag=ID }:: ::Tix::{ user=11421465 } |
+| Ahli statistik | ::{ flag=TR }:: ::112servis::{ user=3953470 }, ::{ flag=ID }:: ::Kazuyo::{ user=5604201 }, ::{ flag=CA }:: ::Malikil::{ user=3208718 }, ::{ flag=ID }:: ::Tix::{ user=11421465 }, ::{ flag=ID }:: ::wiam103::{ user=4109839 } |
+| Editor wiki | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## Tautan terkait
 
@@ -62,22 +62,22 @@ ROI PRO Tournament dapat terlaksana dikarenakan bantuan berbagai anggota komunit
 
 | Tim | Anggota |
 | :-- | :-- |
-| **!faq ping** | ::{ flag=ID }:: **[- Rosemary -](https://osu.ppy.sh/users/2526649)**, ::{ flag=ID }:: [Alan-](https://osu.ppy.sh/users/8937198), ::{ flag=ID }:: [Aizu-](https://osu.ppy.sh/users/7074941), ::{ flag=ID }:: [Kiranaide](https://osu.ppy.sh/users/7661389) |
-| **Aerith > Tifa** | ::{ flag=ID }:: **[Agouka](https://osu.ppy.sh/users/9606647)**, ::{ flag=ID }:: [Xicyte](https://osu.ppy.sh/users/10212581), ::{ flag=ID }:: [LethanAxeger](https://osu.ppy.sh/users/11083463), ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079) |
-| **alan, kami basah** | ::{ flag=ID }:: **[Satsuki - desu](https://osu.ppy.sh/users/6591291)**, ::{ flag=ID }:: [Alice Pi](https://osu.ppy.sh/users/8787324), ::{ flag=ID }:: [Zlotz](https://osu.ppy.sh/users/11191544), ::{ flag=ID }:: [Agurin](https://osu.ppy.sh/users/8282074) |
-| **Anti Vtuber** | ::{ flag=ID }:: **[Walfrid](https://osu.ppy.sh/users/6600809)**, ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405), ::{ flag=ID }:: [Mimonel](https://osu.ppy.sh/users/13639020), ::{ flag=ID }:: [Flycoco](https://osu.ppy.sh/users/12111121) |
-| **Baqua** | ::{ flag=ID }:: **[Crezz](https://osu.ppy.sh/users/7108275)**, ::{ flag=ID }:: [SpitzerFam](https://osu.ppy.sh/users/12965045), ::{ flag=ID }:: [Medseba](https://osu.ppy.sh/users/9000010), ::{ flag=ID }:: [\_Fibel](https://osu.ppy.sh/users/10976513) |
-| **BINDAA** | ::{ flag=ID }:: **[Skitzor](https://osu.ppy.sh/users/3353314)**, ::{ flag=ID }:: [F4UZ4N](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [LeonBGaming](https://osu.ppy.sh/users/10589030), ::{ flag=ID }:: [OONZ](https://osu.ppy.sh/users/9276188) |
-| **F3B Takjil Hunter** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)**, ::{ flag=ID }:: [Firia](https://osu.ppy.sh/users/9730262), ::{ flag=ID }:: [Bunan-](https://osu.ppy.sh/users/2763354), ::{ flag=ID }:: [fadilfuadi](https://osu.ppy.sh/users/10683628) |
-| **LewdMegumin** | ::{ flag=ID }:: **[Kampret](https://osu.ppy.sh/users/8413114)**, ::{ flag=ID }:: [heik](https://osu.ppy.sh/users/9491555), ::{ flag=ID }:: [Contra](https://osu.ppy.sh/users/12011863), ::{ flag=ID }:: [Rielia](https://osu.ppy.sh/users/7865082) |
-| **Moonafic** | ::{ flag=ID }:: **[Fre](https://osu.ppy.sh/users/3484548)**, ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222), ::{ flag=ID }:: [ShovelKun](https://osu.ppy.sh/users/9948284), ::{ flag=ID }:: [RouxLouka](https://osu.ppy.sh/users/5179205) |
-| **Oni** | ::{ flag=ID }:: **[-Nao Tomori-](https://osu.ppy.sh/users/8819757)**, ::{ flag=ID }:: [RealViolence](https://osu.ppy.sh/users/5638585), ::{ flag=ID }:: [o\_ALICE\_o](https://osu.ppy.sh/users/14068737), ::{ flag=ID }:: [Grandidierite](https://osu.ppy.sh/users/11976077) |
-| **osu premium** | ::{ flag=ID }:: **[-Akiyama Nico-](https://osu.ppy.sh/users/11313751)**, ::{ flag=ID }:: [Fayn](https://osu.ppy.sh/users/5390495), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=ID }:: [atsudan](https://osu.ppy.sh/users/3287169) |
-| **seatard** | ::{ flag=ID }:: **[Celine](https://osu.ppy.sh/users/3545579)**, ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699), ::{ flag=ID }:: [DiamondPicko17](https://osu.ppy.sh/users/10459494) |
-| **Sudahan Ngosu** | ::{ flag=ID }:: **[pnsquad](https://osu.ppy.sh/users/11268297)**, ::{ flag=ID }:: [\[fry\]](https://osu.ppy.sh/users/4917604), ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253), ::{ flag=ID }:: [Midwinter](https://osu.ppy.sh/users/9762056) |
-| **team's sumippe** | ::{ flag=ID }:: **[sumippe](https://osu.ppy.sh/users/1929336)**, ::{ flag=ID }:: [FishStar](https://osu.ppy.sh/users/12563284), ::{ flag=ID }:: [liykun](https://osu.ppy.sh/users/9500057), ::{ flag=ID }:: [OTWGE](https://osu.ppy.sh/users/11759284) |
-| **ToedLover** | ::{ flag=ID }:: **[Rexeez](https://osu.ppy.sh/users/1987591)**, ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450), ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ::{ flag=ID }:: [Eg2nD](https://osu.ppy.sh/users/5365662) |
-| **xHirayuki** | ::{ flag=ID }:: **[MOMO543959](https://osu.ppy.sh/users/2373484)**, ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Takaichi](https://osu.ppy.sh/users/909745), ::{ flag=ID }:: [audreych](https://osu.ppy.sh/users/9181855) |
+| **!faq ping** | ::{ flag=ID }:: **::- Rosemary -::{ user=2526649 }**, ::{ flag=ID }:: ::Alan-::{ user=8937198 }, ::{ flag=ID }:: ::Aizu-::{ user=7074941 }, ::{ flag=ID }:: ::Kiranaide::{ user=7661389 } |
+| **Aerith > Tifa** | ::{ flag=ID }:: **::Agouka::{ user=9606647 }**, ::{ flag=ID }:: ::Xicyte::{ user=10212581 }, ::{ flag=ID }:: ::LethanAxeger::{ user=11083463 }, ::{ flag=ID }:: ::Veltlion::{ user=10999079 } |
+| **alan, kami basah** | ::{ flag=ID }:: **::Satsuki - desu::{ user=6591291 }**, ::{ flag=ID }:: ::Alice Pi::{ user=8787324 }, ::{ flag=ID }:: ::Zlotz::{ user=11191544 }, ::{ flag=ID }:: ::Agurin::{ user=8282074 } |
+| **Anti Vtuber** | ::{ flag=ID }:: **::Walfrid::{ user=6600809 }**, ::{ flag=ID }:: ::Splacten::{ user=10018405 }, ::{ flag=ID }:: ::Mimonel::{ user=13639020 }, ::{ flag=ID }:: ::Flycoco::{ user=12111121 } |
+| **Baqua** | ::{ flag=ID }:: **::Crezz::{ user=7108275 }**, ::{ flag=ID }:: ::SpitzerFam::{ user=12965045 }, ::{ flag=ID }:: ::Medseba::{ user=9000010 }, ::{ flag=ID }:: ::\_Fibel::{ user=10976513 } |
+| **BINDAA** | ::{ flag=ID }:: **::Skitzor::{ user=3353314 }**, ::{ flag=ID }:: ::F4UZ4N::{ user=11070577 }, ::{ flag=ID }:: ::LeonBGaming::{ user=10589030 }, ::{ flag=ID }:: ::OONZ::{ user=9276188 } |
+| **F3B Takjil Hunter** | ::{ flag=ID }:: **::Fuma::{ user=1501956 }**, ::{ flag=ID }:: ::Firia::{ user=9730262 }, ::{ flag=ID }:: ::Bunan-::{ user=2763354 }, ::{ flag=ID }:: ::fadilfuadi::{ user=10683628 } |
+| **LewdMegumin** | ::{ flag=ID }:: **::Kampret::{ user=8413114 }**, ::{ flag=ID }:: ::heik::{ user=9491555 }, ::{ flag=ID }:: ::Contra::{ user=12011863 }, ::{ flag=ID }:: ::Rielia::{ user=7865082 } |
+| **Moonafic** | ::{ flag=ID }:: **::Fre::{ user=3484548 }**, ::{ flag=ID }:: ::Lifeline::{ user=11367222 }, ::{ flag=ID }:: ::ShovelKun::{ user=9948284 }, ::{ flag=ID }:: ::RouxLouka::{ user=5179205 } |
+| **Oni** | ::{ flag=ID }:: **::-Nao Tomori-::{ user=8819757 }**, ::{ flag=ID }:: ::RealViolence::{ user=5638585 }, ::{ flag=ID }:: ::o\_ALICE\_o::{ user=14068737 }, ::{ flag=ID }:: ::Grandidierite::{ user=11976077 } |
+| **osu premium** | ::{ flag=ID }:: **::-Akiyama Nico-::{ user=11313751 }**, ::{ flag=ID }:: ::Fayn::{ user=5390495 }, ::{ flag=ID }:: ::CubeixID200::{ user=10678919 }, ::{ flag=ID }:: ::atsudan::{ user=3287169 } |
+| **seatard** | ::{ flag=ID }:: **::Celine::{ user=3545579 }**, ::{ flag=ID }:: ::Seox::{ user=3793938 }, ::{ flag=ID }:: ::ArchieA7::{ user=7087699 }, ::{ flag=ID }:: ::DiamondPicko17::{ user=10459494 } |
+| **Sudahan Ngosu** | ::{ flag=ID }:: **::pnsquad::{ user=11268297 }**, ::{ flag=ID }:: ::\[fry\]::{ user=4917604 }, ::{ flag=ID }:: ::fnayR::{ user=2800253 }, ::{ flag=ID }:: ::Midwinter::{ user=9762056 } |
+| **team's sumippe** | ::{ flag=ID }:: **::sumippe::{ user=1929336 }**, ::{ flag=ID }:: ::FishStar::{ user=12563284 }, ::{ flag=ID }:: ::liykun::{ user=9500057 }, ::{ flag=ID }:: ::OTWGE::{ user=11759284 } |
+| **ToedLover** | ::{ flag=ID }:: **::Rexeez::{ user=1987591 }**, ::{ flag=ID }:: ::Caruma::{ user=13187450 }, ::{ flag=ID }:: ::PatrickFPSGamer::{ user=4796773 }, ::{ flag=ID }:: ::Eg2nD::{ user=5365662 } |
+| **xHirayuki** | ::{ flag=ID }:: **::MOMO543959::{ user=2373484 }**, ::{ flag=ID }:: ::Felter::{ user=5865319 }, ::{ flag=ID }:: ::Takaichi::{ user=909745 }, ::{ flag=ID }:: ::audreych::{ user=9181855 } |
 
 ## Podium
 
@@ -371,90 +371,90 @@ Minggu, 19 April 2020:
 
 | Tingkat | Peserta | Rata-rata peringkat |
 | --: | :-- | --: |
-| #1 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 5.3 |
-| #2 | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) | 9.9 |
-| #3 | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) | 10.6 |
-| #4 | ::{ flag=ID }:: [- Rosemary -](https://osu.ppy.sh/users/2526649) | 11.6 |
-| #5 | ::{ flag=ID }:: [MOMO543959](https://osu.ppy.sh/users/2373484) | 12.6 |
-| #6 | ::{ flag=ID }:: [Celine](https://osu.ppy.sh/users/3545579) | 14.9 |
-| #7 | ::{ flag=ID }:: [Agouka](https://osu.ppy.sh/users/9606647) | 15.4 |
-| #8 | ::{ flag=ID }:: [pnsquad](https://osu.ppy.sh/users/11268297) | 16.5 |
-| #9 | ::{ flag=ID }:: [Skitzor](https://osu.ppy.sh/users/3353314) | 17.1 |
-| #10 | ::{ flag=ID }:: [-Akiyama Nico-](https://osu.ppy.sh/users/11313751) | 17.8 |
-| #11 | ::{ flag=ID }:: [sumippe](https://osu.ppy.sh/users/1929336) | 18.5 |
-| #12 | ::{ flag=ID }:: [Kampret](https://osu.ppy.sh/users/8413114) | 20.8 |
-| #13 | ::{ flag=ID }:: [Satsuki - desu](https://osu.ppy.sh/users/6591291) | 21.8 |
-| #14 | ::{ flag=ID }:: [-Nao Tomori-](https://osu.ppy.sh/users/8819757) | 21.9 |
-| #15 | ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809) | 22.4 |
-| #16 | ::{ flag=ID }:: [Fre](https://osu.ppy.sh/users/3484548) | 23.6 |
-| #17 | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | 24 |
-| #18 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | 24.5 |
-| #19 | ::{ flag=ID }:: [RealViolence](https://osu.ppy.sh/users/5638585) | 25.5 |
-| #19 | ::{ flag=ID }:: [heik](https://osu.ppy.sh/users/9491555) | 25.5 |
-| #19 | ::{ flag=ID }:: [SpitzerFam](https://osu.ppy.sh/users/12965045) | 25.5 |
-| #22 | ::{ flag=ID }:: [Alan-](https://osu.ppy.sh/users/8937198) | 25.9 |
-| #23 | ::{ flag=ID }:: [\[fry\]](https://osu.ppy.sh/users/4917604) | 26.6 |
-| #24 | ::{ flag=ID }:: [Xicyte](https://osu.ppy.sh/users/10212581) | 27.3 |
-| #25 | ::{ flag=ID }:: [FishStar](https://osu.ppy.sh/users/12563284) | 27.7 |
-| #26 | ::{ flag=ID }:: [F4UZ4N](https://osu.ppy.sh/users/11070577) | 27.8 |
-| #27 | ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) | 28.3 |
-| #28 | ::{ flag=ID }:: [Firia](https://osu.ppy.sh/users/9730262) | 29.4 |
-| #29 | ::{ flag=ID }:: [Fayn](https://osu.ppy.sh/users/5390495) | 29.6 |
-| #30 | ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938) | 32 |
-| #31 | ::{ flag=ID }:: [Alice Pi](https://osu.ppy.sh/users/8787324) | 33.4 |
-| #32 | ::{ flag=ID }:: [Splacten](https://osu.ppy.sh/users/10018405) | 33.6 |
-| #33 | ::{ flag=ID }:: [Takaichi](https://osu.ppy.sh/users/909745) | 34.6 |
-| #34 | ::{ flag=ID }:: [liykun](https://osu.ppy.sh/users/9500057) | 34.9 |
-| #35 | ::{ flag=ID }:: [PatrickFPSGamer](https://osu.ppy.sh/users/4796773) | 35.7 |
-| #35 | ::{ flag=ID }:: [Zlotz](https://osu.ppy.sh/users/11191544) | 35.7 |
-| #37 | ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) | 36.5 |
-| #38 | ::{ flag=ID }:: [ShovelKun](https://osu.ppy.sh/users/9948284) | 36.6 |
-| #39 | ::{ flag=ID }:: [LethanAxeger](https://osu.ppy.sh/users/11083463) | 37.2 |
-| #40 | ::{ flag=ID }:: [Contra](https://osu.ppy.sh/users/12011863) | 37.5 |
-| #41 | ::{ flag=ID }:: [o\_ALICE\_o](https://osu.ppy.sh/users/14068737) | 38 |
-| #42 | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) | 38.6 |
-| #43 | ::{ flag=ID }:: [Mimonel](https://osu.ppy.sh/users/13639020) | 40 |
-| #44 | ::{ flag=ID }:: [LeonBGaming](https://osu.ppy.sh/users/10589030) | 40.3 |
-| #45 | ::{ flag=ID }:: [Aizu-](https://osu.ppy.sh/users/7074941) | 40.7 |
-| #46 | ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | 42.7 |
-| #47 | ::{ flag=ID }:: [Medseba](https://osu.ppy.sh/users/9000010) | 45 |
-| #48 | ::{ flag=ID }:: [Bunan-](https://osu.ppy.sh/users/2763354) | 45.2 |
-| #48 | ::{ flag=ID }:: [OTWGE](https://osu.ppy.sh/users/11759284) | 45.2 |
-| #50 | ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079) | 47.5 |
-| #51 | ::{ flag=ID }:: [RouxLouka](https://osu.ppy.sh/users/5179205) | 47.6 |
-| #51 | ::{ flag=ID }:: [OONZ](https://osu.ppy.sh/users/9276188) | 47.6 |
-| #53 | ::{ flag=ID }:: [Midwinter](https://osu.ppy.sh/users/9762056) | 48.7 |
-| #54 | ::{ flag=ID }:: [Eg2nD](https://osu.ppy.sh/users/5365662) | 50.8 |
-| #55 | ::{ flag=ID }:: [Kiranaide](https://osu.ppy.sh/users/7661389) | 51 |
-| #56 | ::{ flag=ID }:: [fadilfuadi](https://osu.ppy.sh/users/10683628) | 52.1 |
-| #57 | ::{ flag=ID }:: [Rielia](https://osu.ppy.sh/users/7865082) | 53.3 |
-| #58 | ::{ flag=ID }:: [Agurin](https://osu.ppy.sh/users/8282074) | 53.4 |
-| #59 | ::{ flag=ID }:: [atsudan](https://osu.ppy.sh/users/3287169) | 54.4 |
-| #60 | ::{ flag=ID }:: [Grandidierite](https://osu.ppy.sh/users/11976077) | 55.3 |
-| #61 | ::{ flag=ID }:: [DiamondPicko17](https://osu.ppy.sh/users/10459494) | 56 |
-| #62 | ::{ flag=ID }:: [Flycoco](https://osu.ppy.sh/users/12111121) | 57.1 |
-| #63 | ::{ flag=ID }:: [_Fibel](https://osu.ppy.sh/users/10976513) | 57.6 |
-| #64 | ::{ flag=ID }:: [audreych](https://osu.ppy.sh/users/9181855) | 57.7 |
-| #65 | ::{ flag=ID }:: [Lau Doank](https://osu.ppy.sh/users/5249835) | 59.5 |
-| #66 | ::{ flag=ID }:: [Cornatha](https://osu.ppy.sh/users/8706044) | 59.8 |
-| #67 | ::{ flag=ID }:: [Naoko-kun](https://osu.ppy.sh/users/10734904) | 59.9 |
-| #68 | ::{ flag=ID }:: [thefarrel007](https://osu.ppy.sh/users/2429128) | 61.7 |
-| #69 | ::{ flag=ID }:: [Freya-](https://osu.ppy.sh/users/10659385) | 62.2 |
-| #70 | ::{ flag=ID }:: [Cumi769](https://osu.ppy.sh/users/14655480) | 63 |
-| #71 | ::{ flag=ID }:: [Oakenfold-](https://osu.ppy.sh/users/12305290) | 66 |
-| #72 | ::{ flag=ID }:: [Berkill](https://osu.ppy.sh/users/11185410) | 67.5 |
-| #73 | ::{ flag=ID }:: [GFigo](https://osu.ppy.sh/users/14539139) | 68.7 |
-| #74 | ::{ flag=ID }:: [Andhra\_](https://osu.ppy.sh/users/6176811) | 70.2 |
-| #75 | ::{ flag=ID }:: [MeikiHakiru](https://osu.ppy.sh/users/14591972) | 71.2 |
-| #76 | ::{ flag=ID }:: [STRYTUS](https://osu.ppy.sh/users/11184657) | 72 |
-| #77 | ::{ flag=ID }:: [Asterllia-](https://osu.ppy.sh/users/9456733) | 72.3 |
-| #78 | ::{ flag=ID }:: [Shirasaka](https://osu.ppy.sh/users/13356408) | 74.2 |
-| #79 | ::{ flag=ID }:: [notHardXD](https://osu.ppy.sh/users/12962096) | 76.4 |
-| #80 | ::{ flag=ID }:: [DevilAsassin](https://osu.ppy.sh/users/12558409) | 77 |
-| #81 | ::{ flag=ID }:: [-s1mpl3](https://osu.ppy.sh/users/10351729) | 79.9 |
-| #82 | ::{ flag=ID }:: [-Rieyu-](https://osu.ppy.sh/users/12737610) | 81.1 |
-| #83 | ::{ flag=ID }:: [AyamJAGO](https://osu.ppy.sh/users/14117880) | 82.5 |
-| #84 | ::{ flag=ID }:: [Aurelloyell](https://osu.ppy.sh/users/14861737) | 83.1 |
+| #1 | ::{ flag=ID }:: ::Fuma::{ user=1501956 } | 5.3 |
+| #2 | ::{ flag=ID }:: ::Rexeez::{ user=1987591 } | 9.9 |
+| #3 | ::{ flag=ID }:: ::Crezz::{ user=7108275 } | 10.6 |
+| #4 | ::{ flag=ID }:: ::- Rosemary -::{ user=2526649 } | 11.6 |
+| #5 | ::{ flag=ID }:: ::MOMO543959::{ user=2373484 } | 12.6 |
+| #6 | ::{ flag=ID }:: ::Celine::{ user=3545579 } | 14.9 |
+| #7 | ::{ flag=ID }:: ::Agouka::{ user=9606647 } | 15.4 |
+| #8 | ::{ flag=ID }:: ::pnsquad::{ user=11268297 } | 16.5 |
+| #9 | ::{ flag=ID }:: ::Skitzor::{ user=3353314 } | 17.1 |
+| #10 | ::{ flag=ID }:: ::-Akiyama Nico-::{ user=11313751 } | 17.8 |
+| #11 | ::{ flag=ID }:: ::sumippe::{ user=1929336 } | 18.5 |
+| #12 | ::{ flag=ID }:: ::Kampret::{ user=8413114 } | 20.8 |
+| #13 | ::{ flag=ID }:: ::Satsuki - desu::{ user=6591291 } | 21.8 |
+| #14 | ::{ flag=ID }:: ::-Nao Tomori-::{ user=8819757 } | 21.9 |
+| #15 | ::{ flag=ID }:: ::Walfrid::{ user=6600809 } | 22.4 |
+| #16 | ::{ flag=ID }:: ::Fre::{ user=3484548 } | 23.6 |
+| #17 | ::{ flag=ID }:: ::Lifeline::{ user=11367222 } | 24 |
+| #18 | ::{ flag=ID }:: ::Caruma::{ user=13187450 } | 24.5 |
+| #19 | ::{ flag=ID }:: ::RealViolence::{ user=5638585 } | 25.5 |
+| #19 | ::{ flag=ID }:: ::heik::{ user=9491555 } | 25.5 |
+| #19 | ::{ flag=ID }:: ::SpitzerFam::{ user=12965045 } | 25.5 |
+| #22 | ::{ flag=ID }:: ::Alan-::{ user=8937198 } | 25.9 |
+| #23 | ::{ flag=ID }:: ::\[fry\]::{ user=4917604 } | 26.6 |
+| #24 | ::{ flag=ID }:: ::Xicyte::{ user=10212581 } | 27.3 |
+| #25 | ::{ flag=ID }:: ::FishStar::{ user=12563284 } | 27.7 |
+| #26 | ::{ flag=ID }:: ::F4UZ4N::{ user=11070577 } | 27.8 |
+| #27 | ::{ flag=ID }:: ::Felter::{ user=5865319 } | 28.3 |
+| #28 | ::{ flag=ID }:: ::Firia::{ user=9730262 } | 29.4 |
+| #29 | ::{ flag=ID }:: ::Fayn::{ user=5390495 } | 29.6 |
+| #30 | ::{ flag=ID }:: ::Seox::{ user=3793938 } | 32 |
+| #31 | ::{ flag=ID }:: ::Alice Pi::{ user=8787324 } | 33.4 |
+| #32 | ::{ flag=ID }:: ::Splacten::{ user=10018405 } | 33.6 |
+| #33 | ::{ flag=ID }:: ::Takaichi::{ user=909745 } | 34.6 |
+| #34 | ::{ flag=ID }:: ::liykun::{ user=9500057 } | 34.9 |
+| #35 | ::{ flag=ID }:: ::PatrickFPSGamer::{ user=4796773 } | 35.7 |
+| #35 | ::{ flag=ID }:: ::Zlotz::{ user=11191544 } | 35.7 |
+| #37 | ::{ flag=ID }:: ::CubeixID200::{ user=10678919 } | 36.5 |
+| #38 | ::{ flag=ID }:: ::ShovelKun::{ user=9948284 } | 36.6 |
+| #39 | ::{ flag=ID }:: ::LethanAxeger::{ user=11083463 } | 37.2 |
+| #40 | ::{ flag=ID }:: ::Contra::{ user=12011863 } | 37.5 |
+| #41 | ::{ flag=ID }:: ::o\_ALICE\_o::{ user=14068737 } | 38 |
+| #42 | ::{ flag=ID }:: ::fnayR::{ user=2800253 } | 38.6 |
+| #43 | ::{ flag=ID }:: ::Mimonel::{ user=13639020 } | 40 |
+| #44 | ::{ flag=ID }:: ::LeonBGaming::{ user=10589030 } | 40.3 |
+| #45 | ::{ flag=ID }:: ::Aizu-::{ user=7074941 } | 40.7 |
+| #46 | ::{ flag=ID }:: ::ArchieA7::{ user=7087699 } | 42.7 |
+| #47 | ::{ flag=ID }:: ::Medseba::{ user=9000010 } | 45 |
+| #48 | ::{ flag=ID }:: ::Bunan-::{ user=2763354 } | 45.2 |
+| #48 | ::{ flag=ID }:: ::OTWGE::{ user=11759284 } | 45.2 |
+| #50 | ::{ flag=ID }:: ::Veltlion::{ user=10999079 } | 47.5 |
+| #51 | ::{ flag=ID }:: ::RouxLouka::{ user=5179205 } | 47.6 |
+| #51 | ::{ flag=ID }:: ::OONZ::{ user=9276188 } | 47.6 |
+| #53 | ::{ flag=ID }:: ::Midwinter::{ user=9762056 } | 48.7 |
+| #54 | ::{ flag=ID }:: ::Eg2nD::{ user=5365662 } | 50.8 |
+| #55 | ::{ flag=ID }:: ::Kiranaide::{ user=7661389 } | 51 |
+| #56 | ::{ flag=ID }:: ::fadilfuadi::{ user=10683628 } | 52.1 |
+| #57 | ::{ flag=ID }:: ::Rielia::{ user=7865082 } | 53.3 |
+| #58 | ::{ flag=ID }:: ::Agurin::{ user=8282074 } | 53.4 |
+| #59 | ::{ flag=ID }:: ::atsudan::{ user=3287169 } | 54.4 |
+| #60 | ::{ flag=ID }:: ::Grandidierite::{ user=11976077 } | 55.3 |
+| #61 | ::{ flag=ID }:: ::DiamondPicko17::{ user=10459494 } | 56 |
+| #62 | ::{ flag=ID }:: ::Flycoco::{ user=12111121 } | 57.1 |
+| #63 | ::{ flag=ID }:: ::\1Fibel::{ user=10976513 } | 57.6 |
+| #64 | ::{ flag=ID }:: ::audreych::{ user=9181855 } | 57.7 |
+| #65 | ::{ flag=ID }:: ::Lau Doank::{ user=5249835 } | 59.5 |
+| #66 | ::{ flag=ID }:: ::Cornatha::{ user=8706044 } | 59.8 |
+| #67 | ::{ flag=ID }:: ::Naoko-kun::{ user=10734904 } | 59.9 |
+| #68 | ::{ flag=ID }:: ::thefarrel007::{ user=2429128 } | 61.7 |
+| #69 | ::{ flag=ID }:: ::Freya-::{ user=10659385 } | 62.2 |
+| #70 | ::{ flag=ID }:: ::Cumi769::{ user=14655480 } | 63 |
+| #71 | ::{ flag=ID }:: ::Oakenfold-::{ user=12305290 } | 66 |
+| #72 | ::{ flag=ID }:: ::Berkill::{ user=11185410 } | 67.5 |
+| #73 | ::{ flag=ID }:: ::GFigo::{ user=14539139 } | 68.7 |
+| #74 | ::{ flag=ID }:: ::Andhra\_::{ user=6176811 } | 70.2 |
+| #75 | ::{ flag=ID }:: ::MeikiHakiru::{ user=14591972 } | 71.2 |
+| #76 | ::{ flag=ID }:: ::STRYTUS::{ user=11184657 } | 72 |
+| #77 | ::{ flag=ID }:: ::Asterllia-::{ user=9456733 } | 72.3 |
+| #78 | ::{ flag=ID }:: ::Shirasaka::{ user=13356408 } | 74.2 |
+| #79 | ::{ flag=ID }:: ::notHardXD::{ user=12962096 } | 76.4 |
+| #80 | ::{ flag=ID }:: ::DevilAsassin::{ user=12558409 } | 77 |
+| #81 | ::{ flag=ID }:: ::-s1mpl3::{ user=10351729 } | 79.9 |
+| #82 | ::{ flag=ID }:: ::-Rieyu-::{ user=12737610 } | 81.1 |
+| #83 | ::{ flag=ID }:: ::AyamJAGO::{ user=14117880 } | 82.5 |
+| #84 | ::{ flag=ID }:: ::Aurelloyell::{ user=14861737 } | 83.1 |
 
 - Hasil akan dibagi per 16 peserta:
   - Peserta yang berada di tingkat #1 - #16 akan ditunjuk menjadi peserta **Tingkat 1** dan juga menjadi kapten daripada tim yang akan dibuat.

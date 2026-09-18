@@ -311,6 +311,6 @@ osu!では、[ストーリーボード](/wiki/Storyboard)の投稿やBBCode、�
 
 ## その他
 
-- このWikiは、[Stefan](https://osu.ppy.sh/users/626907)の[BBCodeの使い方](https://osu.ppy.sh/community/forums/topics/445599)のフォーラムを改変したものです。
+- このWikiは、::Stefan::{ user=626907 }の[BBCodeの使い方](https://osu.ppy.sh/community/forums/topics/445599)のフォーラムを改変したものです。
 - 以前は、`[color]`タグの引数に`transparent`(透明)と指定するとテキストを透明にできるバグがありました。
   - 現在は、これを指定するとテキストはデフォルトの色(白)に戻ります。

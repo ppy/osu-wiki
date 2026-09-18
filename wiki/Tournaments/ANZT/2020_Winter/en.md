@@ -2,7 +2,7 @@
 
 ![ANZT 7W logo](img/logo.png)
 
-The **Aus/NZ osu!standard Tournament 7 - Winter** (***ANZT 7W***) was a 1v1 double-elimination osu! tournament with a score-based qualifier stage for Australian and New Zealand players hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102) and ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634). It was the tenth instalment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 7 - Winter** (***ANZT 7W***) was a 1v1 double-elimination osu! tournament with a score-based qualifier stage for Australian and New Zealand players hosted by ::{ flag=NZ }:: ::Diony::{ user=4294475 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=AU }:: ::TheOmyNomy::{ user=4241054 }, ::{ flag=AU }:: ::Fairy Bread::{ user=8306102 } and ::{ flag=AU }:: ::Gala::{ user=3385634 }. It was the tenth instalment of the Aus/NZ tourneys.
 
 ## Tournament schedule
 
@@ -33,12 +33,12 @@ The **Aus/NZ osu!standard Tournament 7 - Winter** (***ANZT 7W***) was a 1v1 doub
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634) |
-| Commentator | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634), ::{ flag=AU }:: [Aus](https://osu.ppy.sh/users/6541404), ::{ flag=AU }:: [Pepsi Max](https://osu.ppy.sh/users/7785655), ::{ flag=AU }:: [jixxi](https://osu.ppy.sh/users/11652827), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086), ::{ flag=AU }:: [Prosal](https://osu.ppy.sh/users/6654455), ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691), ::{ flag=AU }:: [Raphii](https://osu.ppy.sh/users/5126976) |
-| Streamer | ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [Aus](https://osu.ppy.sh/users/6541404), ::{ flag=AU }:: [jixxi](https://osu.ppy.sh/users/11652827), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=AU }:: [pewdekz](https://osu.ppy.sh/users/5754859) |
-| Referee | ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=HK }:: [Cindergoat](https://osu.ppy.sh/users/10168682), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259), ::{ flag=NZ }:: [- Abby -](https://osu.ppy.sh/users/7740118), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=AU }:: [Walfurus](https://osu.ppy.sh/users/13684009), ::{ flag=AU }:: [Astellis](https://osu.ppy.sh/users/8369780), ::{ flag=AU }:: [Soulskyeflare](https://osu.ppy.sh/users/8264319) |
-| Mappool selector | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634), ::{ flag=NZ }:: [SanaeB](https://osu.ppy.sh/users/9373724), ::{ flag=SG }:: [woahsia](https://osu.ppy.sh/users/195946), ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351) |
-| Designer | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634) |
+| Manager | ::{ flag=NZ }:: ::Diony::{ user=4294475 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=AU }:: ::TheOmyNomy::{ user=4241054 }, ::{ flag=AU }:: ::Fairy Bread::{ user=8306102 }, ::{ flag=AU }:: ::Gala::{ user=3385634 } |
+| Commentator | ::{ flag=AU }:: ::Gala::{ user=3385634 }, ::{ flag=AU }:: ::Aus::{ user=6541404 }, ::{ flag=AU }:: ::Pepsi Max::{ user=7785655 }, ::{ flag=AU }:: ::jixxi::{ user=11652827 }, ::{ flag=AU }:: ::Mavs::{ user=11076938 }, ::{ flag=AU }:: ::Monk Gyatso::{ user=4012086 }, ::{ flag=AU }:: ::Prosal::{ user=6654455 }, ::{ flag=AU }:: ::Vivace::{ user=3698691 }, ::{ flag=AU }:: ::Raphii::{ user=5126976 } |
+| Streamer | ::{ flag=AU }:: ::Fairy Bread::{ user=8306102 }, ::{ flag=AU }:: ::Aus::{ user=6541404 }, ::{ flag=AU }:: ::jixxi::{ user=11652827 }, ::{ flag=AU }:: ::Mavs::{ user=11076938 }, ::{ flag=AU }:: ::pewdekz::{ user=5754859 } |
+| Referee | ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=AU }:: ::Fairy Bread::{ user=8306102 }, ::{ flag=HK }:: ::Cindergoat::{ user=10168682 }, ::{ flag=DE }:: ::GDLenny::{ user=8406711 }, ::{ flag=VN }:: ::Hoaq::{ user=7696512 }, ::{ flag=PH }:: ::muffleberry::{ user=8978259 }, ::{ flag=NZ }:: ::- Abby -::{ user=7740118 }, ::{ flag=NZ }:: ::Sparxe::{ user=5750235 }, ::{ flag=AU }:: ::Walfurus::{ user=13684009 }, ::{ flag=AU }:: ::Astellis::{ user=8369780 }, ::{ flag=AU }:: ::Soulskyeflare::{ user=8264319 } |
+| Mappool selector | ::{ flag=AU }:: ::Gala::{ user=3385634 }, ::{ flag=NZ }:: ::SanaeB::{ user=9373724 }, ::{ flag=SG }:: ::woahsia::{ user=195946 }, ::{ flag=FR }:: ::Musty::{ user=251683 }, ::{ flag=US }:: ::M I L E S::{ user=6036351 } |
+| Designer | ::{ flag=AU }:: ::Gala::{ user=3385634 } |
 
 ## Links
 
@@ -53,9 +53,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: ::Dumii::{ user=3068044 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: ::-Machine-::{ user=5459981 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: ::mrekk::{ user=7562902 } |
 
 All individual match results can be found on the spreadsheet linked above.
 

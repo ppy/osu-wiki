@@ -25,10 +25,10 @@ Lista wszystkich członków pomocy technicznej znajduje się na [stronie grupy](
 
 | Użytkownik | Języki |
 | :-- | :-- |
-| ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | Włoski |
-| ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
-| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
-| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Koreański, japoński |
-| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Niemiecki |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipiński |
-| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polski |
+| ::{ flag=IT }:: ::- Marco -::{ user=1273955 } | Włoski |
+| ::{ flag=US }:: ::Blushing::{ user=5927823 } |  |
+| ::{ flag=GB }:: ::chromb::{ user=10238680 } |  |
+| ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Koreański, japoński |
+| ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | Niemiecki |
+| ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Filipiński |
+| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Polski |

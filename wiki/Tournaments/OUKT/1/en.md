@@ -10,7 +10,7 @@ tags:
 
 ![OUKT 1 banner](img/logo.png)
 
-The **UK osu!standard tournament!** (***OUKT1***) was a ::{ flag=GB }:: United Kingdom single elimination 1v1 osu! tournament hosted by ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134). It is the first iteration of the **osu! UK Tournament** (***OUKT***) series.
+The **UK osu!standard tournament!** (***OUKT1***) was a ::{ flag=GB }:: United Kingdom single elimination 1v1 osu! tournament hosted by ::{ flag=GB }:: ::PortalLife::{ user=929134 }. It is the first iteration of the **osu! UK Tournament** (***OUKT***) series.
 
 ## Tournament schedule
 
@@ -37,9 +37,9 @@ The OUKT1 was run by various community members
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134) |
-| Mappool selector | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Starry-](https://osu.ppy.sh/users/2166199) |
-| Referee | ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=US }:: [Rinnou Kouriri](https://osu.ppy.sh/users/1518370) |
+| Organizer | ::{ flag=GB }:: ::PortalLife::{ user=929134 } |
+| Mappool selector | ::{ flag=GB }:: ::PortalLife::{ user=929134 }, ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=GB }:: ::Starry-::{ user=2166199 } |
+| Referee | ::{ flag=GB }:: ::PortalLife::{ user=929134 }, ::{ flag=US }:: ::Rinnou Kouriri::{ user=1518370 } |
 
 ## Links
 
@@ -50,18 +50,18 @@ The OUKT1 was run by various community members
 
 | Seed | Players |
 | :-- | :-- |
-| 1-8 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [iLikeMudkipz](https://osu.ppy.sh/users/552515), ::{ flag=GB }:: [R a h a r u](https://osu.ppy.sh/users/785193), ::{ flag=GB }:: [jesus1412](https://osu.ppy.sh/users/230116), ::{ flag=GB }:: [Starry-](https://osu.ppy.sh/users/2166199), ::{ flag=GB }:: [Navi](https://osu.ppy.sh/users/926304), ::{ flag=GB }:: [Cozzzy](https://osu.ppy.sh/users/2003917), ::{ flag=GB }:: [Charleyzard](https://osu.ppy.sh/users/1062584) |
-| 9-16 | ::{ flag=GB }:: [vidya](https://osu.ppy.sh/users/413305), ::{ flag=GB }:: [bubby963](https://osu.ppy.sh/users/1050426), ::{ flag=GB }:: [PortalLife](https://osu.ppy.sh/users/929134), ::{ flag=GB }:: [\[Transcendence\]](https://osu.ppy.sh/users/2313772), ::{ flag=GB }:: [Deathosaurus](https://osu.ppy.sh/users/1825822), ::{ flag=GB }:: [Kardet](https://osu.ppy.sh/users/1438509), ::{ flag=GB }:: [Slvin](https://osu.ppy.sh/users/1219567), ::{ flag=GB }:: [Raiku](https://osu.ppy.sh/users/1525538) |
-| 17-24 | ::{ flag=GB }:: [Mahiro Yasaka](https://osu.ppy.sh/users/3481378), ::{ flag=GB }:: [Snookie](https://osu.ppy.sh/users/1484934), ::{ flag=GB }:: Nyaristoru , ::{ flag=GB }:: [Aaruen](https://osu.ppy.sh/users/1506750), ::{ flag=GB }:: [scouttt](https://osu.ppy.sh/users/2428292), ::{ flag=GB }:: [Lusory](https://osu.ppy.sh/users/2101270), ::{ flag=GB }:: [Viremon](https://osu.ppy.sh/users/827070), ::{ flag=GB }:: [Just Miku](https://osu.ppy.sh/users/2167861) |
-| 25-32 | ::{ flag=GB }:: [destructor966](https://osu.ppy.sh/users/2667584), ::{ flag=GB }:: [Yoishi](https://osu.ppy.sh/users/2167556), ::{ flag=GB }:: [Riari](https://osu.ppy.sh/users/2553016), ::{ flag=GB }:: [3lliot](https://osu.ppy.sh/users/2685857), ::{ flag=GB }:: [EzLyn](https://osu.ppy.sh/users/2709812), ::{ flag=GB }:: [Tekklorn](https://osu.ppy.sh/users/2094234), ::{ flag=GB }:: [ItzDom](https://osu.ppy.sh/users/1849257), ::{ flag=GB }:: [Zarfots](https://osu.ppy.sh/users/2253985) |
+| 1-8 | ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=GB }:: ::iLikeMudkipz::{ user=552515 }, ::{ flag=GB }:: ::R a h a r u::{ user=785193 }, ::{ flag=GB }:: ::jesus1412::{ user=230116 }, ::{ flag=GB }:: ::Starry-::{ user=2166199 }, ::{ flag=GB }:: ::Navi::{ user=926304 }, ::{ flag=GB }:: ::Cozzzy::{ user=2003917 }, ::{ flag=GB }:: ::Charleyzard::{ user=1062584 } |
+| 9-16 | ::{ flag=GB }:: ::vidya::{ user=413305 }, ::{ flag=GB }:: ::bubby963::{ user=1050426 }, ::{ flag=GB }:: ::PortalLife::{ user=929134 }, ::{ flag=GB }:: ::\[Transcendence\]::{ user=2313772 }, ::{ flag=GB }:: ::Deathosaurus::{ user=1825822 }, ::{ flag=GB }:: ::Kardet::{ user=1438509 }, ::{ flag=GB }:: ::Slvin::{ user=1219567 }, ::{ flag=GB }:: ::Raiku::{ user=1525538 } |
+| 17-24 | ::{ flag=GB }:: ::Mahiro Yasaka::{ user=3481378 }, ::{ flag=GB }:: ::Snookie::{ user=1484934 }, ::{ flag=GB }:: Nyaristoru , ::{ flag=GB }:: ::Aaruen::{ user=1506750 }, ::{ flag=GB }:: ::scouttt::{ user=2428292 }, ::{ flag=GB }:: ::Lusory::{ user=2101270 }, ::{ flag=GB }:: ::Viremon::{ user=827070 }, ::{ flag=GB }:: ::Just Miku::{ user=2167861 } |
+| 25-32 | ::{ flag=GB }:: ::destructor966::{ user=2667584 }, ::{ flag=GB }:: ::Yoishi::{ user=2167556 }, ::{ flag=GB }:: ::Riari::{ user=2553016 }, ::{ flag=GB }:: ::3lliot::{ user=2685857 }, ::{ flag=GB }:: ::EzLyn::{ user=2709812 }, ::{ flag=GB }:: ::Tekklorn::{ user=2094234 }, ::{ flag=GB }:: ::ItzDom::{ user=1849257 }, ::{ flag=GB }:: ::Zarfots::{ user=2253985 } |
 
 ## Podium
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [R a h a r u](https://osu.ppy.sh/users/785193) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [iLikeMudkipz](https://osu.ppy.sh/users/552515) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::Doomsday::{ user=18983 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: ::R a h a r u::{ user=785193 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::iLikeMudkipz::{ user=552515 } |
 
 ## Mappools
 

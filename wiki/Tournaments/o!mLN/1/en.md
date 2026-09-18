@@ -7,7 +7,7 @@ tags:
 
 ![o!mLN logo](img/logo.png)
 
-The **osu!mania LN Tournament** (***o!mLN***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), and ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. It was the first instalment of the osu!mania LN Tournaments.
+The **osu!mania LN Tournament** (***o!mLN***) was a double-elimination 1v1 osu!mania 4K tournament hosted by ::{ flag=CH }:: ::Icerite::{ user=7226287 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, and ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 }. The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. It was the first instalment of the osu!mania LN Tournaments.
 
 ## Tournament schedule
 
@@ -37,14 +37,14 @@ The osu!mania LN Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Mappool selector | ::{ flag=FR }:: [Skochan](https://osu.ppy.sh/users/7861278), ::{ flag=US }:: [AYAYAA](https://osu.ppy.sh/users/4980256) |
-| Referee | ::{ flag=AU }:: [Cactie](https://osu.ppy.sh/users/5592409), ::{ flag=AU }:: [nonamegohst](https://osu.ppy.sh/users/4384859), ::{ flag=FI }:: [Camopoltergeist](https://osu.ppy.sh/users/8132964), ::{ flag=BE }:: [DraQeu](https://osu.ppy.sh/users/4425520), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517), ::{ flag=FR }:: [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [Trypha](https://osu.ppy.sh/users/2812098), ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287), ::{ flag=PL }:: [Kondi](https://osu.ppy.sh/users/7382321), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=US }:: [Tuco](https://osu.ppy.sh/users/11706350), ::{ flag=GB }:: [Weavile](https://osu.ppy.sh/users/9665028) |
-| Streamer | ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=US }:: [Tuco](https://osu.ppy.sh/users/11706350), ::{ flag=FR }:: [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Commentator | ::{ flag=US }:: [AYAYAA](https://osu.ppy.sh/users/4980256), ::{ flag=GB }:: [Theresa May](https://osu.ppy.sh/users/8946085) |
-| Designer | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki editor | ::{ flag=ID }:: [Naruk](https://osu.ppy.sh/users/7100002) |
+| Organizer | ::{ flag=CH }:: ::Icerite::{ user=7226287 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 } |
+| Mappool selector | ::{ flag=FR }:: ::Skochan::{ user=7861278 }, ::{ flag=US }:: ::AYAYAA::{ user=4980256 } |
+| Referee | ::{ flag=AU }:: ::Cactie::{ user=5592409 }, ::{ flag=AU }:: ::nonamegohst::{ user=4384859 }, ::{ flag=FI }:: ::Camopoltergeist::{ user=8132964 }, ::{ flag=BE }:: ::DraQeu::{ user=4425520 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::Mimir::{ user=7382734 }, ::{ flag=FR }:: ::Mirthille::{ user=7548517 }, ::{ flag=FR }:: ::TLQ\1Yoshii::{ user=7157133 }, ::{ flag=FR }:: ::Trypha::{ user=2812098 }, ::{ flag=CH }:: ::Icerite::{ user=7226287 }, ::{ flag=PL }:: ::Kondi::{ user=7382321 }, ::{ flag=GR }:: ::nik::{ user=10077264 }, ::{ flag=CA }:: ::Sinaeb::{ user=1576095 }, ::{ flag=US }:: ::Tuco::{ user=11706350 }, ::{ flag=GB }:: ::Weavile::{ user=9665028 } |
+| Streamer | ::{ flag=CA }:: ::Sinaeb::{ user=1576095 }, ::{ flag=US }:: ::Tuco::{ user=11706350 }, ::{ flag=FR }:: ::TLQ\1Yoshii::{ user=7157133 } |
+| Commentator | ::{ flag=US }:: ::AYAYAA::{ user=4980256 }, ::{ flag=GB }:: ::Theresa May::{ user=8946085 } |
+| Designer | ::{ flag=TH }:: ::Trigonoculus::{ user=7627013 } |
+| Statistician | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Wiki editor | ::{ flag=ID }:: ::Naruk::{ user=7100002 } |
 
 ## Links
 
@@ -58,23 +58,23 @@ The osu!mania LN Tournament was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029), ::{ flag=GB }:: [Amascite](https://osu.ppy.sh/users/3359035), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=ID }:: [-Rem-](https://osu.ppy.sh/users/5767941), ::{ flag=BR }:: [andreymc](https://osu.ppy.sh/users/5691061), ::{ flag=FR }:: [AuraahDono](https://osu.ppy.sh/users/10015908), ::{ flag=KR }:: [NKEYBOARD](https://osu.ppy.sh/users/10132430), ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097) |
-| High | ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516), ::{ flag=FR }:: [Koiidex](https://osu.ppy.sh/users/5193488), ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=FR }:: [MillaMaxwelle](https://osu.ppy.sh/users/6264519), ::{ flag=TH }:: [basicmaime](https://osu.ppy.sh/users/6537441), ::{ flag=RU }:: [mvq](https://osu.ppy.sh/users/6283029) |
-| Low | ::{ flag=IT }:: [BadIsTheNewGod](https://osu.ppy.sh/users/5245132), ::{ flag=TH }:: [DifficultIV](https://osu.ppy.sh/users/4647001), ::{ flag=RU }:: [YaLTeR](https://osu.ppy.sh/users/3910006), ::{ flag=FI }:: [-Oreo-](https://osu.ppy.sh/users/5099222), ::{ flag=RU }:: [Mage](https://osu.ppy.sh/users/5527957), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=PL }:: [Arkitev](https://osu.ppy.sh/users/6905790), ::{ flag=PL }:: [8524171514518](https://osu.ppy.sh/users/4666635) |
-| Unseeded | ::{ flag=RU }:: [X\_Devil](https://osu.ppy.sh/users/6694908), ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607), ::{ flag=PH }:: [Bentai Bosmic](https://osu.ppy.sh/users/6375534), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=TH }:: [- SLAYER -](https://osu.ppy.sh/users/11622143), ::{ flag=PH }:: [Lenfried-](https://osu.ppy.sh/users/5314573), ::{ flag=RU }:: [Jormungand](https://osu.ppy.sh/users/5145890), ::{ flag=NL }:: [2fast4you98](https://osu.ppy.sh/users/5183940) |
+| Top | ::{ flag=KR }:: ::wonder5193::{ user=8474029 }, ::{ flag=GB }:: ::Amascite::{ user=3359035 }, ::{ flag=ID }:: ::\[Crz\]Crysarlene::{ user=5492871 }, ::{ flag=ID }:: ::-Rem-::{ user=5767941 }, ::{ flag=BR }:: ::andreymc::{ user=5691061 }, ::{ flag=FR }:: ::AuraahDono::{ user=10015908 }, ::{ flag=KR }:: ::NKEYBOARD::{ user=10132430 }, ::{ flag=PL }:: ::DaDarkDragon::{ user=8902097 } |
+| High | ::{ flag=TH }:: ::RuleBlazing::{ user=7312402 }, ::{ flag=HK }:: ::zero2snow::{ user=7751516 }, ::{ flag=FR }:: ::Koiidex::{ user=5193488 }, ::{ flag=PH }:: ::arge-::{ user=9919550 }, ::{ flag=AU }:: ::PotassiumF::{ user=4247722 }, ::{ flag=FR }:: ::MillaMaxwelle::{ user=6264519 }, ::{ flag=TH }:: ::basicmaime::{ user=6537441 }, ::{ flag=RU }:: ::mvq::{ user=6283029 } |
+| Low | ::{ flag=IT }:: ::BadIsTheNewGod::{ user=5245132 }, ::{ flag=TH }:: ::DifficultIV::{ user=4647001 }, ::{ flag=RU }:: ::YaLTeR::{ user=3910006 }, ::{ flag=FI }:: ::-Oreo-::{ user=5099222 }, ::{ flag=RU }:: ::Mage::{ user=5527957 }, ::{ flag=PL }:: ::SitekX::{ user=3840946 }, ::{ flag=PL }:: ::Arkitev::{ user=6905790 }, ::{ flag=PL }:: ::8524171514518::{ user=4666635 } |
+| Unseeded | ::{ flag=RU }:: ::X\_Devil::{ user=6694908 }, ::{ flag=PH }:: ::Shiyui-::{ user=9374607 }, ::{ flag=PH }:: ::Bentai Bosmic::{ user=6375534 }, ::{ flag=SG }:: ::Raveille::{ user=1388767 }, ::{ flag=TH }:: ::- SLAYER -::{ user=11622143 }, ::{ flag=PH }:: ::Lenfried-::{ user=5314573 }, ::{ flag=RU }:: ::Jormungand::{ user=5145890 }, ::{ flag=NL }:: ::2fast4you98::{ user=5183940 } |
 
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=GB }:: [Amascite](https://osu.ppy.sh/users/3359035) | ::{ flag=FR }:: [MillaMaxwelle](https://osu.ppy.sh/users/6264519) | ::{ flag=IT }:: [BadIsTheNewGod](https://osu.ppy.sh/users/5245132) | ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) |
-| **B** | ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097) | ::{ flag=FR }:: [Koiidex](https://osu.ppy.sh/users/5193488) | ::{ flag=PL }:: [Arkitev](https://osu.ppy.sh/users/6905790) | ::{ flag=TH }:: [- SLAYER -](https://osu.ppy.sh/users/11622143) |
-| **C** | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) | ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402) | ::{ flag=PL }:: [8524171514518](https://osu.ppy.sh/users/4666635) | ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607) |
-| **D** | ::{ flag=BR }:: [andreymc](https://osu.ppy.sh/users/5691061) | ::{ flag=RU }:: [mvq](https://osu.ppy.sh/users/6283029) | ::{ flag=RU }:: [Mage](https://osu.ppy.sh/users/5527957) | ::{ flag=RU }:: [X\_Devil](https://osu.ppy.sh/users/6694908) |
-| **E** | ::{ flag=ID }:: [-Rem-](https://osu.ppy.sh/users/5767941) | ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722) | ::{ flag=TH }:: [DifficultIV](https://osu.ppy.sh/users/4647001) | ::{ flag=NL }:: [2fast4you98](https://osu.ppy.sh/users/5183940) |
-| **F** | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) | ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516) | ::{ flag=RU }:: [YaLTeR](https://osu.ppy.sh/users/3910006) | ::{ flag=PH }:: [Lenfried-](https://osu.ppy.sh/users/5314573) |
-| **G** | ::{ flag=KR }:: [NKEYBOARD](https://osu.ppy.sh/users/10132430) | ::{ flag=TH }:: [basicmaime](https://osu.ppy.sh/users/6537441) | ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) | ::{ flag=RU }:: [Jormungand](https://osu.ppy.sh/users/5145890) |
-| **H** | ::{ flag=FR }:: [AuraahDono](https://osu.ppy.sh/users/10015908) | ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550) | ::{ flag=FI }:: [-Oreo-](https://osu.ppy.sh/users/5099222) | ::{ flag=PH }:: [Bentai Bosmic](https://osu.ppy.sh/users/6375534) |
+| **A** | ::{ flag=GB }:: ::Amascite::{ user=3359035 } | ::{ flag=FR }:: ::MillaMaxwelle::{ user=6264519 } | ::{ flag=IT }:: ::BadIsTheNewGod::{ user=5245132 } | ::{ flag=SG }:: ::Raveille::{ user=1388767 } |
+| **B** | ::{ flag=PL }:: ::DaDarkDragon::{ user=8902097 } | ::{ flag=FR }:: ::Koiidex::{ user=5193488 } | ::{ flag=PL }:: ::Arkitev::{ user=6905790 } | ::{ flag=TH }:: ::- SLAYER -::{ user=11622143 } |
+| **C** | ::{ flag=KR }:: ::wonder5193::{ user=8474029 } | ::{ flag=TH }:: ::RuleBlazing::{ user=7312402 } | ::{ flag=PL }:: ::8524171514518::{ user=4666635 } | ::{ flag=PH }:: ::Shiyui-::{ user=9374607 } |
+| **D** | ::{ flag=BR }:: ::andreymc::{ user=5691061 } | ::{ flag=RU }:: ::mvq::{ user=6283029 } | ::{ flag=RU }:: ::Mage::{ user=5527957 } | ::{ flag=RU }:: ::X\_Devil::{ user=6694908 } |
+| **E** | ::{ flag=ID }:: ::-Rem-::{ user=5767941 } | ::{ flag=AU }:: ::PotassiumF::{ user=4247722 } | ::{ flag=TH }:: ::DifficultIV::{ user=4647001 } | ::{ flag=NL }:: ::2fast4you98::{ user=5183940 } |
+| **F** | ::{ flag=ID }:: ::\[Crz\]Crysarlene::{ user=5492871 } | ::{ flag=HK }:: ::zero2snow::{ user=7751516 } | ::{ flag=RU }:: ::YaLTeR::{ user=3910006 } | ::{ flag=PH }:: ::Lenfried-::{ user=5314573 } |
+| **G** | ::{ flag=KR }:: ::NKEYBOARD::{ user=10132430 } | ::{ flag=TH }:: ::basicmaime::{ user=6537441 } | ::{ flag=PL }:: ::SitekX::{ user=3840946 } | ::{ flag=RU }:: ::Jormungand::{ user=5145890 } |
+| **H** | ::{ flag=FR }:: ::AuraahDono::{ user=10015908 } | ::{ flag=PH }:: ::arge-::{ user=9919550 } | ::{ flag=FI }:: ::-Oreo-::{ user=5099222 } | ::{ flag=PH }:: ::Bentai Bosmic::{ user=6375534 } |
 
 ## Podium
 
@@ -82,9 +82,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Amascite](https://osu.ppy.sh/users/3359035) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: ::wonder5193::{ user=8474029 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: ::\[Crz\]Crysarlene::{ user=5492871 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::Amascite::{ user=3359035 } |
 
 ## Mappools
 

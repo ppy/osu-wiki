@@ -9,7 +9,7 @@ tags:
 
 ![TCT v3 logo](img/logo.jpg)
 
-The **Taiko 2v2 Convert Tourney v3** (***TCT v3***) was a double-elimination 2v2 osu!taiko tournament hosted by ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831). The tournament featured a variety of maps converted from the osu! game mode in its mappools. It was the third instalment of the Taiko Convert Tournament.
+The **Taiko 2v2 Convert Tourney v3** (***TCT v3***) was a double-elimination 2v2 osu!taiko tournament hosted by ::{ flag=JP }:: ::Noko\_BSF::{ user=3811831 }. The tournament featured a variety of maps converted from the osu! game mode in its mappools. It was the third instalment of the Taiko Convert Tournament.
 
 ## Tournament schedule
 
@@ -40,15 +40,15 @@ The Taiko 2v2 Convert Tourney v3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831) |
-| Helper | ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078), ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000) |
-| Mappool selector | ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078), ::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961), ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000) |
-| Referee | ::{ flag=FR }:: [Aidown](https://osu.ppy.sh/users/1522146), ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=PL }:: [E-M-i](https://osu.ppy.sh/users/9148286), ::{ flag=DE }:: [Jason X](https://osu.ppy.sh/users/2904140), ::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961), ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831), ::{ flag=DE }:: [QEpicAce](https://osu.ppy.sh/users/9489153), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000), ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
-| Streamer | ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=NL }:: [oliebol](https://osu.ppy.sh/users/2756335), ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
-| Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000), ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
-| Designer | ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| Statistician | ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831) |
-| Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organiser | ::{ flag=JP }:: ::Noko\_BSF::{ user=3811831 } |
+| Helper | ::{ flag=DE }:: ::Drecksackblase::{ user=6278008 }, ::{ flag=PL }:: ::fafik99::{ user=1787011 }, ::{ flag=US }:: ::JDrago14::{ user=7690078 }, ::{ flag=MX }:: ::Warfu::{ user=2451000 } |
+| Mappool selector | ::{ flag=DE }:: ::Drecksackblase::{ user=6278008 }, ::{ flag=PL }:: ::fafik99::{ user=1787011 }, ::{ flag=US }:: ::JDrago14::{ user=7690078 }, ::{ flag=US }:: ::Ney::{ user=5991961 }, ::{ flag=MX }:: ::Warfu::{ user=2451000 } |
+| Referee | ::{ flag=FR }:: ::Aidown::{ user=1522146 }, ::{ flag=HK }:: ::Akali393394::{ user=9686628 }, ::{ flag=US }:: ::cheese salad::{ user=6349821 }, ::{ flag=DE }:: ::Drecksackblase::{ user=6278008 }, ::{ flag=PL }:: ::E-M-i::{ user=9148286 }, ::{ flag=DE }:: ::Jason X::{ user=2904140 }, ::{ flag=US }:: ::Ney::{ user=5991961 }, ::{ flag=JP }:: ::Noko\_BSF::{ user=3811831 }, ::{ flag=DE }:: ::QEpicAce::{ user=9489153 }, ::{ flag=SG }:: ::Spartric::{ user=7740442 }, ::{ flag=MX }:: ::Warfu::{ user=2451000 }, ::{ flag=CL }:: ::\[GS\]Myuka::{ user=10072733 } |
+| Streamer | ::{ flag=DE }:: ::Drecksackblase::{ user=6278008 }, ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 }, ::{ flag=NL }:: ::oliebol::{ user=2756335 }, ::{ flag=US }:: ::Rukairi::{ user=6642597 }, ::{ flag=SG }:: ::Spartric::{ user=7740442 }, ::{ flag=CL }:: ::\[GS\]Myuka::{ user=10072733 } |
+| Commentator | ::{ flag=AU }:: ::Beat43210::{ user=5664171 }, ::{ flag=DE }:: ::Drecksackblase::{ user=6278008 }, ::{ flag=PL }:: ::fafik99::{ user=1787011 }, ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 }, ::{ flag=US }:: ::Rukairi::{ user=6642597 }, ::{ flag=GB }:: ::Teezel::{ user=7528639 }, ::{ flag=MX }:: ::Warfu::{ user=2451000 }, ::{ flag=CL }:: ::\[GS\]Myuka::{ user=10072733 } |
+| Designer | ::{ flag=KR }:: ::POCARI SWEAT::{ user=5082685 } |
+| Statistician | ::{ flag=JP }:: ::Noko\_BSF::{ user=3811831 } |
+| Wiki writer | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## Links
 
@@ -62,37 +62,37 @@ The Taiko 2v2 Convert Tourney v3 was run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **Asian Egirls** | ::{ flag=NL }:: **[Boaz](https://osu.ppy.sh/users/13302996)**, ::{ flag=IT }:: [-Akyra](https://osu.ppy.sh/users/15457929) |
-| **Boshki** | ::{ flag=RU }:: **[Flexo](https://osu.ppy.sh/users/906825)**, ::{ flag=RU }:: [BaTpyxa](https://osu.ppy.sh/users/1414471) |
-| **Brzęczyszczykiewicz - Chrząszczyrzewoszyce** | ::{ flag=PL }:: **[boyan](https://osu.ppy.sh/users/2302140)**, ::{ flag=PL }:: [flatspot\_](https://osu.ppy.sh/users/13920423) |
-| **Crippling Depression** | ::{ flag=FR }:: **[kamaboko117](https://osu.ppy.sh/users/9508031)**, ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734) |
-| **CUM LEADERS** | ::{ flag=AR }:: **[elcho](https://osu.ppy.sh/users/11276129)**, ::{ flag=AR }:: [\_Doodle\_](https://osu.ppy.sh/users/5427801) |
-| **Deorum** | ::{ flag=CY }:: **[Def0ltt](https://osu.ppy.sh/users/12221151)**, ::{ flag=CY }:: [smooz1e](https://osu.ppy.sh/users/15556314) |
-| **Down Bad Gamers** | ::{ flag=US }:: **[Shyguy](https://osu.ppy.sh/users/178038)**, ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) |
-| **Floreros embriagados** | ::{ flag=MX }:: **[Sladak](https://osu.ppy.sh/users/4183406)**, ::{ flag=AR }:: [Coria](https://osu.ppy.sh/users/10980464) |
-| **Frog** | ::{ flag=MY }:: **[CrabCow](https://osu.ppy.sh/users/9755504)**, ::{ flag=MY }:: [ShirchiChan](https://osu.ppy.sh/users/20486311) |
-| **Gura is cute** | ::{ flag=DE }:: **[Ak1o](https://osu.ppy.sh/users/1600041)**, ::{ flag=TW }:: [Yuemiao](https://osu.ppy.sh/users/4493348) |
-| **Huachipato** | ::{ flag=CL }:: **[Aisha](https://osu.ppy.sh/users/2192669)**, ::{ flag=AR }:: [Jintsuu](https://osu.ppy.sh/users/7165127) |
-| **kasai ebet chugun** | ::{ flag=KZ }:: **[Lynerrr](https://osu.ppy.sh/users/14254867)**, ::{ flag=RU }:: [Den4ik228](https://osu.ppy.sh/users/7115174) |
-| **My Angel Rice** | ::{ flag=US }:: **[Ethaaaan](https://osu.ppy.sh/users/9536977)**, ::{ flag=CN }:: [A New Beginning](https://osu.ppy.sh/users/2349769) |
-| **Non-convert Gamers** | ::{ flag=MY }:: **[\[Zeth\]](https://osu.ppy.sh/users/9912966)**, ::{ flag=SG }:: [tzechi](https://osu.ppy.sh/users/4662795) |
-| **pe** | ::{ flag=IT }:: **[A-40](https://osu.ppy.sh/users/14510301)**, ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344) |
-| **Sex Speedrun** | ::{ flag=IT }:: **[D3kuu](https://osu.ppy.sh/users/7807444)**, ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116) |
-| **Standard Supremacy** | ::{ flag=DE }:: **[Phynta](https://osu.ppy.sh/users/9070739)**, ::{ flag=DE }:: [afe](https://osu.ppy.sh/users/7344333) |
-| **teamname :flag_pl: :handshake: :flag_nl:** | ::{ flag=NL }:: **[IronBeagle](https://osu.ppy.sh/users/16264764)**, ::{ flag=PL }:: [alq](https://osu.ppy.sh/users/1083605) |
-| **the** | ::{ flag=GB }:: **[Daniels](https://osu.ppy.sh/users/12439209)**, ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091) |
-| **the bros 4** | ::{ flag=GB }:: **[Horiiizon](https://osu.ppy.sh/users/8071438)**, ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669) |
-| **wheelchair v2** | ::{ flag=RU }:: **[cloudfags](https://osu.ppy.sh/users/5285786)**, ::{ flag=RU }:: [Ophthalmologist](https://osu.ppy.sh/users/5133613) |
-| **Why are you playing convert** | ::{ flag=KR }:: **[Jonah](https://osu.ppy.sh/users/5509009)**, ::{ flag=KR }:: [hyun1](https://osu.ppy.sh/users/6528929) |
-| **yes we love sucking sausages 🥵💦🌭** | ::{ flag=ID }:: **[XK2238](https://osu.ppy.sh/users/1139209)**, ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621) |
-| **(╯°□°）╯︵ ┻━┻** | ::{ flag=DE }:: **[Kirross](https://osu.ppy.sh/users/10893243)**, ::{ flag=DE }:: [Maou](https://osu.ppy.sh/users/3867109) |
-| **:photoblob:** | ::{ flag=DE }:: **[Sayira](https://osu.ppy.sh/users/7253958)**, ::{ flag=DE }:: [xMrtn-](https://osu.ppy.sh/users/866297) |
-| **\[insert-team-name-here\]** | ::{ flag=US }:: **[zachmanthethird](https://osu.ppy.sh/users/15048710)**, ::{ flag=US }:: [dhuragin](https://osu.ppy.sh/users/14443745) |
-| **ヴぇ** | ::{ flag=JP }:: **[Six b0xes](https://osu.ppy.sh/users/8303357)**, ::{ flag=JP }:: [In Dark Sky](https://osu.ppy.sh/users/8190266) |
-| **大山翔太** | ::{ flag=JP }:: **[Grape\_Tea](https://osu.ppy.sh/users/9540073)**, ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819) |
-| **老人** | ::{ flag=JP }:: **[crim](https://osu.ppy.sh/users/4125666)**, ::{ flag=JP }:: [yuzu\_\_rinrin](https://osu.ppy.sh/users/4616752) |
-| **🍣 guys** | ::{ flag=JP }:: **[Maimaing](https://osu.ppy.sh/users/14520910)**, ::{ flag=JP }:: [Rabar0209](https://osu.ppy.sh/users/2883899) |
-| **ＵＮＫＯ！！！！！** | ::{ flag=JP }:: **[Shamirin\_mzk](https://osu.ppy.sh/users/11325757)**, ::{ flag=JP }:: [C-light](https://osu.ppy.sh/users/7955738) |
+| **Asian Egirls** | ::{ flag=NL }:: **::Boaz::{ user=13302996 }**, ::{ flag=IT }:: ::-Akyra::{ user=15457929 } |
+| **Boshki** | ::{ flag=RU }:: **::Flexo::{ user=906825 }**, ::{ flag=RU }:: ::BaTpyxa::{ user=1414471 } |
+| **Brzęczyszczykiewicz - Chrząszczyrzewoszyce** | ::{ flag=PL }:: **::boyan::{ user=2302140 }**, ::{ flag=PL }:: ::flatspot\_::{ user=13920423 } |
+| **Crippling Depression** | ::{ flag=FR }:: **::kamaboko117::{ user=9508031 }**, ::{ flag=FR }:: ::Mimir::{ user=7382734 } |
+| **CUM LEADERS** | ::{ flag=AR }:: **::elcho::{ user=11276129 }**, ::{ flag=AR }:: ::\_Doodle\_::{ user=5427801 } |
+| **Deorum** | ::{ flag=CY }:: **::Def0ltt::{ user=12221151 }**, ::{ flag=CY }:: ::smooz1e::{ user=15556314 } |
+| **Down Bad Gamers** | ::{ flag=US }:: **::Shyguy::{ user=178038 }**, ::{ flag=US }:: ::Backfire::{ user=263110 } |
+| **Floreros embriagados** | ::{ flag=MX }:: **::Sladak::{ user=4183406 }**, ::{ flag=AR }:: ::Coria::{ user=10980464 } |
+| **Frog** | ::{ flag=MY }:: **::CrabCow::{ user=9755504 }**, ::{ flag=MY }:: ::ShirchiChan::{ user=20486311 } |
+| **Gura is cute** | ::{ flag=DE }:: **::Ak1o::{ user=1600041 }**, ::{ flag=TW }:: ::Yuemiao::{ user=4493348 } |
+| **Huachipato** | ::{ flag=CL }:: **::Aisha::{ user=2192669 }**, ::{ flag=AR }:: ::Jintsuu::{ user=7165127 } |
+| **kasai ebet chugun** | ::{ flag=KZ }:: **::Lynerrr::{ user=14254867 }**, ::{ flag=RU }:: ::Den4ik228::{ user=7115174 } |
+| **My Angel Rice** | ::{ flag=US }:: **::Ethaaaan::{ user=9536977 }**, ::{ flag=CN }:: ::A New Beginning::{ user=2349769 } |
+| **Non-convert Gamers** | ::{ flag=MY }:: **::\[Zeth\]::{ user=9912966 }**, ::{ flag=SG }:: ::tzechi::{ user=4662795 } |
+| **pe** | ::{ flag=IT }:: **::A-40::{ user=14510301 }**, ::{ flag=TW }:: ::X a v y::{ user=3738344 } |
+| **Sex Speedrun** | ::{ flag=IT }:: **::D3kuu::{ user=7807444 }**, ::{ flag=US }:: ::AuroraPhasmata::{ user=13664116 } |
+| **Standard Supremacy** | ::{ flag=DE }:: **::Phynta::{ user=9070739 }**, ::{ flag=DE }:: ::afe::{ user=7344333 } |
+| **teamname :flag_pl: :handshake: :flag_nl:** | ::{ flag=NL }:: **::IronBeagle::{ user=16264764 }**, ::{ flag=PL }:: ::alq::{ user=1083605 } |
+| **the** | ::{ flag=GB }:: **::Daniels::{ user=12439209 }**, ::{ flag=GR }:: ::Genjuro::{ user=3196091 } |
+| **the bros 4** | ::{ flag=GB }:: **::Horiiizon::{ user=8071438 }**, ::{ flag=CL }:: ::Ulqui::{ user=1263669 } |
+| **wheelchair v2** | ::{ flag=RU }:: **::cloudfags::{ user=5285786 }**, ::{ flag=RU }:: ::Ophthalmologist::{ user=5133613 } |
+| **Why are you playing convert** | ::{ flag=KR }:: **::Jonah::{ user=5509009 }**, ::{ flag=KR }:: ::hyun1::{ user=6528929 } |
+| **yes we love sucking sausages 🥵💦🌭** | ::{ flag=ID }:: **::XK2238::{ user=1139209 }**, ::{ flag=MY }:: ::cdh::{ user=2403621 } |
+| **(╯°□°）╯︵ ┻━┻** | ::{ flag=DE }:: **::Kirross::{ user=10893243 }**, ::{ flag=DE }:: ::Maou::{ user=3867109 } |
+| **:photoblob:** | ::{ flag=DE }:: **::Sayira::{ user=7253958 }**, ::{ flag=DE }:: ::xMrtn-::{ user=866297 } |
+| **\[insert-team-name-here\]** | ::{ flag=US }:: **::zachmanthethird::{ user=15048710 }**, ::{ flag=US }:: ::dhuragin::{ user=14443745 } |
+| **ヴぇ** | ::{ flag=JP }:: **::Six b0xes::{ user=8303357 }**, ::{ flag=JP }:: ::In Dark Sky::{ user=8190266 } |
+| **大山翔太** | ::{ flag=JP }:: **::Grape\_Tea::{ user=9540073 }**, ::{ flag=JP }:: ::Saikoro::{ user=741819 } |
+| **老人** | ::{ flag=JP }:: **::crim::{ user=4125666 }**, ::{ flag=JP }:: ::yuzu\_\_rinrin::{ user=4616752 } |
+| **🍣 guys** | ::{ flag=JP }:: **::Maimaing::{ user=14520910 }**, ::{ flag=JP }:: ::Rabar0209::{ user=2883899 } |
+| **ＵＮＫＯ！！！！！** | ::{ flag=JP }:: **::Shamirin\_mzk::{ user=11325757 }**, ::{ flag=JP }:: ::C-light::{ user=7955738 } |
 
 ## Groups
 
@@ -113,9 +113,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **🍣 guys** (::{ flag=JP }:: **[Maimaing](https://osu.ppy.sh/users/14520910)**, ::{ flag=JP }:: [Rabar0209](https://osu.ppy.sh/users/2883899)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **ＵＮＫＯ！！！！！** (::{ flag=JP }:: **[Shamirin\_mzk](https://osu.ppy.sh/users/11325757)**, ::{ flag=JP }:: [C-light](https://osu.ppy.sh/users/7955738)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **the bros 4** (::{ flag=GB }:: **[Horiiizon](https://osu.ppy.sh/users/8071438)**, ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **🍣 guys** (::{ flag=JP }:: **::Maimaing::{ user=14520910 }**, ::{ flag=JP }:: ::Rabar0209::{ user=2883899 }) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **ＵＮＫＯ！！！！！** (::{ flag=JP }:: **::Shamirin\_mzk::{ user=11325757 }**, ::{ flag=JP }:: ::C-light::{ user=7955738 }) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **the bros 4** (::{ flag=GB }:: **::Horiiizon::{ user=8071438 }**, ::{ flag=CL }:: ::Ulqui::{ user=1263669 }) |
 
 ## Mappools
 

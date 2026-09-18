@@ -40,11 +40,11 @@ osu!taiko 世界杯 2014 由众多社区成员举办。
 
 | 职位 | 成员 |
 | :-- | :-- |
-| 比赛管理 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) |
-| 选图 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
-| 直播 | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
-| 解说 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370), ::{ flag=NO }:: [Dolphin](https://osu.ppy.sh/users/1331438), ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
-| 统计 | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
+| 比赛管理 | ::{ flag=DE }:: ::Loctav::{ user=71366 }, ::{ flag=DE }:: ::p3n::{ user=123703 } |
+| 选图 | ::{ flag=DE }:: ::OnosakiHito::{ user=290128 } |
+| 直播 | ::{ flag=FR }:: ::shARPII::{ user=776257 } |
+| 解说 | ::{ flag=NZ }:: ::deadbeat::{ user=128370 }, ::{ flag=NO }:: ::Dolphin::{ user=1331438 }, ::{ flag=FR }:: ::Mr Color::{ user=116078 }, ::{ flag=DE }:: ::OnosakiHito::{ user=290128 }, ::{ flag=US }:: ::ztrot::{ user=6347 } |
+| 统计 | ::{ flag=PL }:: ::Marcin::{ user=722665 } |
 
 ## 链接
 
@@ -55,26 +55,26 @@ osu!taiko 世界杯 2014 由众多社区成员举办。
 
 |  | 国家/地区 | 选手 |
 | :-: | :-: | :-- |
-| ::{ flag=AR }:: | **阿根廷** | **[whosthebox](https://osu.ppy.sh/users/1451311)**, [Chillet](https://osu.ppy.sh/users/1236632), [cyntuu mirandaa](https://osu.ppy.sh/users/724230), [Lost The Lights](https://osu.ppy.sh/users/1255920), [Nearex](https://osu.ppy.sh/users/1893238), [Pollotuc](https://osu.ppy.sh/users/42440) |
-| ::{ flag=BR }:: | **巴西** | **[Kolbe](https://osu.ppy.sh/users/1254286)**, [- T i g e r -](https://osu.ppy.sh/users/1381781), [lubask](https://osu.ppy.sh/users/1897332), [suyama-chan](https://osu.ppy.sh/users/928298), [Wolf](https://osu.ppy.sh/users/555855), [Yuki-chan](https://osu.ppy.sh/users/93687) |
-| ::{ flag=CA }:: | **加拿大** | **[Tasha](https://osu.ppy.sh/users/1031958)**, [Crystalloid](https://osu.ppy.sh/users/699741), [kenny388](https://osu.ppy.sh/users/1098972), [Nanners](https://osu.ppy.sh/users/459886), [xlzqwerty1](https://osu.ppy.sh/users/1466365) |
-| ::{ flag=CL }:: | **智利** | **[-Anhedonia-](https://osu.ppy.sh/users/920861)**, [Gonzaalooo](https://osu.ppy.sh/users/1948903), [megadaisukeone](https://osu.ppy.sh/users/1577133), [MikuWhiteRockShooter](https://osu.ppy.sh/users/1619547) |
-| ::{ flag=CN }:: | **中国** | **[- Yuuka Niya -](https://osu.ppy.sh/users/1892059)**, [- Kagami Yuki -](https://osu.ppy.sh/users/1319686), [HM495](https://osu.ppy.sh/users/810813), [moe moe moe](https://osu.ppy.sh/users/1804904), [mousegoomba](https://osu.ppy.sh/users/1035291), [yys428](https://osu.ppy.sh/users/1061175) |
-| ::{ flag=FR }:: | **法国** | **[\_Gezo\_](https://osu.ppy.sh/users/481582)**, [Fraolinch](https://osu.ppy.sh/users/205257), [Jinyan](https://osu.ppy.sh/users/669531), [Nashmun](https://osu.ppy.sh/users/49031), [omegaflo](https://osu.ppy.sh/users/83291), [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
-| ::{ flag=DE }:: | **德国** | **[Luna](https://osu.ppy.sh/users/588007)**, [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), [BrokenArrow](https://osu.ppy.sh/users/384034), [DarkDunskin](https://osu.ppy.sh/users/98985), [Mew104](https://osu.ppy.sh/users/2345156), [tiamus](https://osu.ppy.sh/users/515277) |
-| ::{ flag=HK }:: | **香港** | **[thomas1195](https://osu.ppy.sh/users/1691488)**, [\[yuyuko\_Saigyouj\]](https://osu.ppy.sh/users/1378994), [aabc271](https://osu.ppy.sh/users/155707), [Andrew Chow](https://osu.ppy.sh/users/3043041), [ice man007](https://osu.ppy.sh/users/1926937), [Jikson\[m9\]](https://osu.ppy.sh/users/1485257) |
-| ::{ flag=JP }:: | **日本** | **[TKSalt](https://osu.ppy.sh/users/940878)**, [azger](https://osu.ppy.sh/users/2335982), [NeGaTiVeMinD](https://osu.ppy.sh/users/965038), [Orukaa](https://osu.ppy.sh/users/987895), [pagr42](https://osu.ppy.sh/users/1500725), [sobatsuyu100](https://osu.ppy.sh/users/2076374) |
-| ::{ flag=MY }:: | **马来西亚** | **[taiko_maniac1811](https://osu.ppy.sh/users/595764)**, [buhzidao](https://osu.ppy.sh/users/1655126), [cdhsausageboy](https://osu.ppy.sh/users/2403621), [HeatKai](https://osu.ppy.sh/users/332555), [huiko12](https://osu.ppy.sh/users/598553), [Jerry](https://osu.ppy.sh/users/605973) |
-| ::{ flag=PH }:: | **菲律宾** | **[Primrea](https://osu.ppy.sh/users/943743)**, [Kotaro](https://osu.ppy.sh/users/796530), [Pizzicato](https://osu.ppy.sh/users/692610), [senkai](https://osu.ppy.sh/users/1150178) |
-| ::{ flag=PL }:: | **波兰** | **[Acrith](https://osu.ppy.sh/users/389880)**, [DarkStoorM](https://osu.ppy.sh/users/174347), [IsonamiPL](https://osu.ppy.sh/users/1753234), [Minkodon](https://osu.ppy.sh/users/1385227), [LZMieczu](https://osu.ppy.sh/users/1797498), [Sylwia132](https://osu.ppy.sh/users/2037319) |
-| ::{ flag=RU }:: | **俄罗斯** | **[MarisaLover](https://osu.ppy.sh/users/1359539)**, [Livius777](https://osu.ppy.sh/users/1282662), [magax](https://osu.ppy.sh/users/918645) |
-| ::{ flag=SG }:: | **新加坡** | **[CoroQuetz](https://osu.ppy.sh/users/499843)**, [DJNightmare](https://osu.ppy.sh/users/70909), [minray](https://osu.ppy.sh/users/653771), [neonat](https://osu.ppy.sh/users/1561995) |
-| ::{ flag=KR }:: | **韩国** | **[Konpaku Sariel](https://osu.ppy.sh/users/533502)**, [\[Akita-Neru\]](https://osu.ppy.sh/users/613944), [-applerss-](https://osu.ppy.sh/users/983349), [eoe](https://osu.ppy.sh/users/659959), [L y s](https://osu.ppy.sh/users/211825) |
-| ::{ flag=ES }:: | **西班牙** | **[LZD](https://osu.ppy.sh/users/224335)**, [Ares267](https://osu.ppy.sh/users/174378), [CARRI](https://osu.ppy.sh/users/854536), [Hanjamon](https://osu.ppy.sh/users/1703330), [MYRKUL](https://osu.ppy.sh/users/255933), [son\_gohan\_2](https://osu.ppy.sh/users/443305) |
-| ::{ flag=SE }:: | **瑞典** | **[boat](https://osu.ppy.sh/users/276074)**, [birrin](https://osu.ppy.sh/users/2290294), [Fuwuwi](https://osu.ppy.sh/users/88200), [Tanaka](https://osu.ppy.sh/users/1897905) |
-| ::{ flag=UA }:: | **乌克兰** | **[Pagliaccio](https://osu.ppy.sh/users/1163187)**, [Aka](https://osu.ppy.sh/users/1307553), [Anny](https://osu.ppy.sh/users/249094) |
-| ::{ flag=GB }:: | **英国** | **[xWillx](https://osu.ppy.sh/users/696222)**, [abrian159](https://osu.ppy.sh/users/1159051), [Dainesl](https://osu.ppy.sh/users/1588551), [Lno](https://osu.ppy.sh/users/1900787), [TurnipLover](https://osu.ppy.sh/users/1133830) |
-| ::{ flag=US }:: | **美国** | **[MMzz](https://osu.ppy.sh/users/128993)**, [AnFace](https://osu.ppy.sh/users/233485), [Backfire](https://osu.ppy.sh/users/263110), [burntpurple1](https://osu.ppy.sh/users/2238673), [LoLBryster](https://osu.ppy.sh/users/1800629), [OzzyOzrock](https://osu.ppy.sh/users/465153) |
+| ::{ flag=AR }:: | **阿根廷** | **::whosthebox::{ user=1451311 }**, [Chillet](https://osu.ppy.sh/users/1236632), ::cyntuu mirandaa::{ user=724230 }, [Lost The Lights](https://osu.ppy.sh/users/1255920), ::Nearex::{ user=1893238 }, [Pollotuc](https://osu.ppy.sh/users/42440) |
+| ::{ flag=BR }:: | **巴西** | **::Kolbe::{ user=1254286 }**, [- T i g e r -](https://osu.ppy.sh/users/1381781), ::lubask::{ user=1897332 }, [suyama-chan](https://osu.ppy.sh/users/928298), ::Wolf::{ user=555855 }, [Yuki-chan](https://osu.ppy.sh/users/93687) |
+| ::{ flag=CA }:: | **加拿大** | **::Tasha::{ user=1031958 }**, [Crystalloid](https://osu.ppy.sh/users/699741), ::kenny388::{ user=1098972 }, [Nanners](https://osu.ppy.sh/users/459886), ::xlzqwerty1::{ user=1466365 } |
+| ::{ flag=CL }:: | **智利** | **::-Anhedonia-::{ user=920861 }**, [Gonzaalooo](https://osu.ppy.sh/users/1948903), ::megadaisukeone::{ user=1577133 }, [MikuWhiteRockShooter](https://osu.ppy.sh/users/1619547) |
+| ::{ flag=CN }:: | **中国** | **::- Yuuka Niya -::{ user=1892059 }**, [- Kagami Yuki -](https://osu.ppy.sh/users/1319686), ::HM495::{ user=810813 }, [moe moe moe](https://osu.ppy.sh/users/1804904), ::mousegoomba::{ user=1035291 }, [yys428](https://osu.ppy.sh/users/1061175) |
+| ::{ flag=FR }:: | **法国** | **::\_Gezo\_::{ user=481582 }**, [Fraolinch](https://osu.ppy.sh/users/205257), ::Jinyan::{ user=669531 }, [Nashmun](https://osu.ppy.sh/users/49031), ::omegaflo::{ user=83291 }, [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
+| ::{ flag=DE }:: | **德国** | **::Luna::{ user=588007 }**, [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), ::BrokenArrow::{ user=384034 }, [DarkDunskin](https://osu.ppy.sh/users/98985), ::Mew104::{ user=2345156 }, [tiamus](https://osu.ppy.sh/users/515277) |
+| ::{ flag=HK }:: | **香港** | **::thomas1195::{ user=1691488 }**, [\[yuyuko\_Saigyouj\]](https://osu.ppy.sh/users/1378994), ::aabc271::{ user=155707 }, [Andrew Chow](https://osu.ppy.sh/users/3043041), ::ice man007::{ user=1926937 }, [Jikson\[m9\]](https://osu.ppy.sh/users/1485257) |
+| ::{ flag=JP }:: | **日本** | **::TKSalt::{ user=940878 }**, [azger](https://osu.ppy.sh/users/2335982), ::NeGaTiVeMinD::{ user=965038 }, [Orukaa](https://osu.ppy.sh/users/987895), ::pagr42::{ user=1500725 }, [sobatsuyu100](https://osu.ppy.sh/users/2076374) |
+| ::{ flag=MY }:: | **马来西亚** | **::taiko\1maniac1811::{ user=595764 }**, [buhzidao](https://osu.ppy.sh/users/1655126), ::cdhsausageboy::{ user=2403621 }, [HeatKai](https://osu.ppy.sh/users/332555), ::huiko12::{ user=598553 }, [Jerry](https://osu.ppy.sh/users/605973) |
+| ::{ flag=PH }:: | **菲律宾** | **::Primrea::{ user=943743 }**, [Kotaro](https://osu.ppy.sh/users/796530), ::Pizzicato::{ user=692610 }, [senkai](https://osu.ppy.sh/users/1150178) |
+| ::{ flag=PL }:: | **波兰** | **::Acrith::{ user=389880 }**, [DarkStoorM](https://osu.ppy.sh/users/174347), ::IsonamiPL::{ user=1753234 }, [Minkodon](https://osu.ppy.sh/users/1385227), ::LZMieczu::{ user=1797498 }, [Sylwia132](https://osu.ppy.sh/users/2037319) |
+| ::{ flag=RU }:: | **俄罗斯** | **::MarisaLover::{ user=1359539 }**, [Livius777](https://osu.ppy.sh/users/1282662), ::magax::{ user=918645 } |
+| ::{ flag=SG }:: | **新加坡** | **::CoroQuetz::{ user=499843 }**, [DJNightmare](https://osu.ppy.sh/users/70909), ::minray::{ user=653771 }, [neonat](https://osu.ppy.sh/users/1561995) |
+| ::{ flag=KR }:: | **韩国** | **::Konpaku Sariel::{ user=533502 }**, [\[Akita-Neru\]](https://osu.ppy.sh/users/613944), ::-applerss-::{ user=983349 }, [eoe](https://osu.ppy.sh/users/659959), ::L y s::{ user=211825 } |
+| ::{ flag=ES }:: | **西班牙** | **::LZD::{ user=224335 }**, [Ares267](https://osu.ppy.sh/users/174378), ::CARRI::{ user=854536 }, [Hanjamon](https://osu.ppy.sh/users/1703330), ::MYRKUL::{ user=255933 }, [son\_gohan\_2](https://osu.ppy.sh/users/443305) |
+| ::{ flag=SE }:: | **瑞典** | **::boat::{ user=276074 }**, [birrin](https://osu.ppy.sh/users/2290294), ::Fuwuwi::{ user=88200 }, [Tanaka](https://osu.ppy.sh/users/1897905) |
+| ::{ flag=UA }:: | **乌克兰** | **::Pagliaccio::{ user=1163187 }**, [Aka](https://osu.ppy.sh/users/1307553), ::Anny::{ user=249094 } |
+| ::{ flag=GB }:: | **英国** | **::xWillx::{ user=696222 }**, [abrian159](https://osu.ppy.sh/users/1159051), ::Dainesl::{ user=1588551 }, [Lno](https://osu.ppy.sh/users/1900787), ::TurnipLover::{ user=1133830 } |
+| ::{ flag=US }:: | **美国** | **::MMzz::{ user=128993 }**, [AnFace](https://osu.ppy.sh/users/233485), ::Backfire::{ user=263110 }, [burntpurple1](https://osu.ppy.sh/users/2238673), ::LoLBryster::{ user=1800629 }, [OzzyOzrock](https://osu.ppy.sh/users/465153) |
 
 ## 分组
 
@@ -94,9 +94,9 @@ osu!taiko 世界杯 2014 由众多社区成员举办。
 
 | 名次 | 队伍 |
 | :-: | :-- |
-| ![金冠](/wiki/shared/crown-gold.png "冠军") | ::{ flag=JP }:: **日本** (**[TKSalt](https://osu.ppy.sh/users/940878)**, [azger](https://osu.ppy.sh/users/2335982), [NeGaTiVeMinD](https://osu.ppy.sh/users/965038), [Orukaa](https://osu.ppy.sh/users/987895), [pagr42](https://osu.ppy.sh/users/1500725), [sobatsuyu100](https://osu.ppy.sh/users/2076374)) |
-| ![银冠](/wiki/shared/crown-silver.png "亚军") | ::{ flag=HK }:: **香港** (**[thomas1195](https://osu.ppy.sh/users/1691488)**, [\[yuyuko\_Saigyouj\]](https://osu.ppy.sh/users/1378994), [aabc271](https://osu.ppy.sh/users/155707), [Andrew Chow](https://osu.ppy.sh/users/3043041), [ice man007](https://osu.ppy.sh/users/1926937), [Jikson\[m9\]](https://osu.ppy.sh/users/1485257)) |
-| ![铜冠](/wiki/shared/crown-bronze.png "季军") | ::{ flag=FR }:: **法国** (**[\_Gezo\_](https://osu.ppy.sh/users/481582)**, [Fraolinch](https://osu.ppy.sh/users/205257), [Jinyan](https://osu.ppy.sh/users/669531), [Nashmun](https://osu.ppy.sh/users/49031), [omegaflo](https://osu.ppy.sh/users/83291), [TimmyAkmed](https://osu.ppy.sh/users/1799973)) |
+| ![金冠](/wiki/shared/crown-gold.png "冠军") | ::{ flag=JP }:: **日本** (**::TKSalt::{ user=940878 }**, [azger](https://osu.ppy.sh/users/2335982), ::NeGaTiVeMinD::{ user=965038 }, [Orukaa](https://osu.ppy.sh/users/987895), ::pagr42::{ user=1500725 }, [sobatsuyu100](https://osu.ppy.sh/users/2076374)) |
+| ![银冠](/wiki/shared/crown-silver.png "亚军") | ::{ flag=HK }:: **香港** (**::thomas1195::{ user=1691488 }**, [\[yuyuko\_Saigyouj\]](https://osu.ppy.sh/users/1378994), ::aabc271::{ user=155707 }, [Andrew Chow](https://osu.ppy.sh/users/3043041), ::ice man007::{ user=1926937 }, [Jikson\[m9\]](https://osu.ppy.sh/users/1485257)) |
+| ![铜冠](/wiki/shared/crown-bronze.png "季军") | ::{ flag=FR }:: **法国** (**::\_Gezo\_::{ user=481582 }**, [Fraolinch](https://osu.ppy.sh/users/205257), ::Jinyan::{ user=669531 }, [Nashmun](https://osu.ppy.sh/users/49031), ::omegaflo::{ user=83291 }, [TimmyAkmed](https://osu.ppy.sh/users/1799973)) |
 
 ## 图池
 

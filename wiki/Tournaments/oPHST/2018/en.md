@@ -70,15 +70,15 @@ Registrations may prematurely end when there are a sufficient number of registra
 
 | Position | Member(s) |
 | :-- | :-- |
-| Executive committee | ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675)  (osu!), ::{ flag=PH }:: [Lobsterr](https://osu.ppy.sh/users/6575915)  (osu!catch), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) (osu!mania) |
-| Mappool selector (osu!) | ::{ flag=PH }:: [Mira-san](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [konawiki](https://osu.ppy.sh/users/4003979), ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512) |
-| Mappool selector (osu!catch) | ::{ flag=PH }:: [Lobsterr](https://osu.ppy.sh/users/6575915), ::{ flag=PH }:: [Chloebe](https://osu.ppy.sh/users/4577865), ::{ flag=PH }:: [MaMaiPonc](https://osu.ppy.sh/users/4169363), ::{ flag=PH }:: [-Plus-](https://osu.ppy.sh/users/829284) |
-| Mappool selector (osu!mania 4K and 7K) | ::{ flag=PH }:: [Lenfried-](https://osu.ppy.sh/users/5314573), ::{ flag=PH }:: [JztCallMeRon](https://osu.ppy.sh/users/2471512), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [Ainyan](https://osu.ppy.sh/users/3770641), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) |
-| Referee | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675), ::{ flag=PH }:: [Nitrous](https://osu.ppy.sh/users/7293512), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936), ::{ flag=PH }:: [samosita](https://osu.ppy.sh/users/6090289), ::{ flag=PH }:: [- Aries -](https://osu.ppy.sh/users/6639880), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103), ::{ flag=PH }:: [ggnakacarlz](https://osu.ppy.sh/users/4075421), ::{ flag=PH }:: [SilentVoice](https://osu.ppy.sh/users/9570552), ::{ flag=PH }:: [Deadpulse](https://osu.ppy.sh/users/8575527), ::{ flag=AU }:: [nonamegohst](https://osu.ppy.sh/users/4384859), ::{ flag=PH }:: [Tephtunia](https://osu.ppy.sh/users/5209045), ::{ flag=PH }:: [-Nicotine](https://osu.ppy.sh/users/4818935) |
-| Streamer | ::{ flag=PH }:: [aEverr](https://osu.ppy.sh/users/6027084), ::{ flag=PH }:: [Ainyan](https://osu.ppy.sh/users/3770641), ::{ flag=PH }:: [Deadpulse](https://osu.ppy.sh/users/8575527), ::{ flag=BR }:: [shadowsnoop](https://osu.ppy.sh/users/7064939) |
-| Commentator | ::{ flag=PH }:: [Zaphirox](https://osu.ppy.sh/users/2478675), ::{ flag=PH }:: [Deneb](https://osu.ppy.sh/users/2604212), ::{ flag=PH }:: [MaMaiPonc](https://osu.ppy.sh/users/4169363), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=PH }:: [Awishi](https://osu.ppy.sh/users/4290020) |
-| Designer | ::{ flag=PH }:: [Mira-san](https://osu.ppy.sh/users/4469895) |
-| Statistician | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
+| Executive committee | ::{ flag=PH }:: ::Zaphirox::{ user=2478675 }  (osu!), ::{ flag=PH }:: ::Lobsterr::{ user=6575915 }  (osu!catch), ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } (osu!mania) |
+| Mappool selector (osu!) | ::{ flag=PH }:: ::Mira-san::{ user=4469895 }, ::{ flag=PH }:: ::konawiki::{ user=4003979 }, ::{ flag=PH }:: ::Nitrous::{ user=7293512 } |
+| Mappool selector (osu!catch) | ::{ flag=PH }:: ::Lobsterr::{ user=6575915 }, ::{ flag=PH }:: ::Chloebe::{ user=4577865 }, ::{ flag=PH }:: ::MaMaiPonc::{ user=4169363 }, ::{ flag=PH }:: ::-Plus-::{ user=829284 } |
+| Mappool selector (osu!mania 4K and 7K) | ::{ flag=PH }:: ::Lenfried-::{ user=5314573 }, ::{ flag=PH }:: ::JztCallMeRon::{ user=2471512 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::Ainyan::{ user=3770641 }, ::{ flag=SG }:: ::Raveille::{ user=1388767 } |
+| Referee | ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::Zaphirox::{ user=2478675 }, ::{ flag=PH }:: ::Nitrous::{ user=7293512 }, ::{ flag=SG }:: ::Raveille::{ user=1388767 }, ::{ flag=PH }:: ::MapleSyrup-::{ user=1192936 }, ::{ flag=PH }:: ::samosita::{ user=6090289 }, ::{ flag=PH }:: ::- Aries -::{ user=6639880 }, ::{ flag=PH }:: ::Roido::{ user=6829103 }, ::{ flag=PH }:: ::ggnakacarlz::{ user=4075421 }, ::{ flag=PH }:: ::SilentVoice::{ user=9570552 }, ::{ flag=PH }:: ::Deadpulse::{ user=8575527 }, ::{ flag=AU }:: ::nonamegohst::{ user=4384859 }, ::{ flag=PH }:: ::Tephtunia::{ user=5209045 }, ::{ flag=PH }:: ::-Nicotine::{ user=4818935 } |
+| Streamer | ::{ flag=PH }:: ::aEverr::{ user=6027084 }, ::{ flag=PH }:: ::Ainyan::{ user=3770641 }, ::{ flag=PH }:: ::Deadpulse::{ user=8575527 }, ::{ flag=BR }:: ::shadowsnoop::{ user=7064939 } |
+| Commentator | ::{ flag=PH }:: ::Zaphirox::{ user=2478675 }, ::{ flag=PH }:: ::Deneb::{ user=2604212 }, ::{ flag=PH }:: ::MaMaiPonc::{ user=4169363 }, ::{ flag=AU }:: ::PotassiumF::{ user=4247722 }, ::{ flag=PH }:: ::Awishi::{ user=4290020 } |
+| Designer | ::{ flag=PH }:: ::Mira-san::{ user=4469895 } |
+| Statistician | ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::MapleSyrup-::{ user=1192936 } |
 
 ## Links
 
@@ -97,68 +97,68 @@ Registrations may prematurely end when there are a sufficient number of registra
 
 | Seed | Player |
 | :-: | :-- |
-| 1 | ::{ flag=PH }:: [HaruTachi-](https://osu.ppy.sh/users/6244066) |
-| 2 | ::{ flag=CA }:: [Dunois](https://osu.ppy.sh/users/4581715) |
-| 3 | ::{ flag=PH }:: [Varsagus](https://osu.ppy.sh/users/3885723) |
-| 4 | ::{ flag=PH }:: [-Marika](https://osu.ppy.sh/users/2199427) |
-| 5 | ::{ flag=US }:: [Fraye](https://osu.ppy.sh/users/5352971) |
-| 6 | ::{ flag=PH }:: [fixedbyglue](https://osu.ppy.sh/users/8296269) |
-| 7 | ::{ flag=PH }:: [PhasiconN](https://osu.ppy.sh/users/7183538) |
-| 8 | ::{ flag=PH }:: [- Neon -](https://osu.ppy.sh/users/7273455) |
-| 9 | ::{ flag=PH }:: [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
-| 10 | ::{ flag=PH }:: [Oooodriiin](https://osu.ppy.sh/users/7223737) |
-| 11 | ::{ flag=PH }:: [Xidorn](https://osu.ppy.sh/users/7904667) |
-| 12 | ::{ flag=PH }:: [Nezol](https://osu.ppy.sh/users/7509103) |
-| 13 | ::{ flag=PH }:: [xX\_MusicMan\_Xx](https://osu.ppy.sh/users/5718989) |
-| 14 | ::{ flag=PH }:: [\[Vik\]](https://osu.ppy.sh/users/5428448) |
-| 15 | ::{ flag=PH }:: [NymphSan05](https://osu.ppy.sh/users/5340700) |
-| 16 | ::{ flag=PH }:: [Eboryte](https://osu.ppy.sh/users/7243198) |
-| 17 | ::{ flag=PH }:: [NepNep-](https://osu.ppy.sh/users/4800093) |
-| 18 | ::{ flag=PH }:: [Natsume-](https://osu.ppy.sh/users/5682791) |
-| 19 | ::{ flag=PH }:: [Marika](https://osu.ppy.sh/users/1679638) |
-| 20 | ::{ flag=PH }:: [xchan](https://osu.ppy.sh/users/6100591) |
-| 21 | ::{ flag=PH }:: [CharlesMoveOn](https://osu.ppy.sh/users/8670152) |
-| 22 | ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514) |
-| 23 | ::{ flag=PH }:: [Caernarvon725](https://osu.ppy.sh/users/8208317) |
-| 24 | ::{ flag=PH }:: [SkyLifeHope](https://osu.ppy.sh/users/7417642) |
-| 25 | ::{ flag=PH }:: [CloudBlaze](https://osu.ppy.sh/users/5742581) |
-| 26 | ::{ flag=PH }:: [Awishi](https://osu.ppy.sh/users/4290020) |
-| 27 | ::{ flag=PH }:: [Scylz](https://osu.ppy.sh/users/8367043) |
-| 28 | ::{ flag=PH }:: [\[Paradoxum\]](https://osu.ppy.sh/users/6927531) |
-| 29 | ::{ flag=PH }:: [Aharu](https://osu.ppy.sh/users/5039816) |
-| 30 | ::{ flag=PH }:: [Mietzu](https://osu.ppy.sh/users/7960710) |
-| 31 | ::{ flag=PH }:: [Itsvet](https://osu.ppy.sh/users/9989784) |
-| 32 | ::{ flag=PH }:: [Afireee](https://osu.ppy.sh/users/7919913) |
+| 1 | ::{ flag=PH }:: ::HaruTachi-::{ user=6244066 } |
+| 2 | ::{ flag=CA }:: ::Dunois::{ user=4581715 } |
+| 3 | ::{ flag=PH }:: ::Varsagus::{ user=3885723 } |
+| 4 | ::{ flag=PH }:: ::-Marika::{ user=2199427 } |
+| 5 | ::{ flag=US }:: ::Fraye::{ user=5352971 } |
+| 6 | ::{ flag=PH }:: ::fixedbyglue::{ user=8296269 } |
+| 7 | ::{ flag=PH }:: ::PhasiconN::{ user=7183538 } |
+| 8 | ::{ flag=PH }:: ::- Neon -::{ user=7273455 } |
+| 9 | ::{ flag=PH }:: ::TyrantsEye2014::{ user=4530738 } |
+| 10 | ::{ flag=PH }:: ::Oooodriiin::{ user=7223737 } |
+| 11 | ::{ flag=PH }:: ::Xidorn::{ user=7904667 } |
+| 12 | ::{ flag=PH }:: ::Nezol::{ user=7509103 } |
+| 13 | ::{ flag=PH }:: ::xX\_MusicMan\_Xx::{ user=5718989 } |
+| 14 | ::{ flag=PH }:: ::\[Vik\]::{ user=5428448 } |
+| 15 | ::{ flag=PH }:: ::NymphSan05::{ user=5340700 } |
+| 16 | ::{ flag=PH }:: ::Eboryte::{ user=7243198 } |
+| 17 | ::{ flag=PH }:: ::NepNep-::{ user=4800093 } |
+| 18 | ::{ flag=PH }:: ::Natsume-::{ user=5682791 } |
+| 19 | ::{ flag=PH }:: ::Marika::{ user=1679638 } |
+| 20 | ::{ flag=PH }:: ::xchan::{ user=6100591 } |
+| 21 | ::{ flag=PH }:: ::CharlesMoveOn::{ user=8670152 } |
+| 22 | ::{ flag=PH }:: ::Rimazii::{ user=3831514 } |
+| 23 | ::{ flag=PH }:: ::Caernarvon725::{ user=8208317 } |
+| 24 | ::{ flag=PH }:: ::SkyLifeHope::{ user=7417642 } |
+| 25 | ::{ flag=PH }:: ::CloudBlaze::{ user=5742581 } |
+| 26 | ::{ flag=PH }:: ::Awishi::{ user=4290020 } |
+| 27 | ::{ flag=PH }:: ::Scylz::{ user=8367043 } |
+| 28 | ::{ flag=PH }:: ::\[Paradoxum\]::{ user=6927531 } |
+| 29 | ::{ flag=PH }:: ::Aharu::{ user=5039816 } |
+| 30 | ::{ flag=PH }:: ::Mietzu::{ user=7960710 } |
+| 31 | ::{ flag=PH }:: ::Itsvet::{ user=9989784 } |
+| 32 | ::{ flag=PH }:: ::Afireee::{ user=7919913 } |
 
 ### osu!catch
 
 | Seed | Player |
 | :-: | :-- |
-| 1 | ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) |
-| 2 | ::{ flag=PH }:: [-Nicotine](https://osu.ppy.sh/users/4818935) |
-| 3 | ::{ flag=PH }:: [- Kielzu -](https://osu.ppy.sh/users/6221114) |
-| 4 | ::{ flag=PH }:: [Crowley](https://osu.ppy.sh/users/6341006) |
-| 5 | ::{ flag=PH }:: [-MomoX](https://osu.ppy.sh/users/2150415) |
-| 6 | ::{ flag=PH }:: [Laqure](https://osu.ppy.sh/users/1642435) |
-| 7 | ::{ flag=PH }:: [Kuya Frex](https://osu.ppy.sh/users/8868701) |
-| 8 | ::{ flag=PH }:: [KaganimeRin](https://osu.ppy.sh/users/1626093) |
-| 9 | ::{ flag=PH }:: [JeirYagtama](https://osu.ppy.sh/users/7483452) |
-| 10 | ::{ flag=PH }:: [AJamez](https://osu.ppy.sh/users/7890134) |
-| 11 | ::{ flag=XX }:: [Contingent](https://osu.ppy.sh/users/11849880) |
-| 12 | ::{ flag=PH }:: [kaarin](https://osu.ppy.sh/users/10054160) |
-| 13 | ::{ flag=PH }:: [Weazle](https://osu.ppy.sh/users/7864598) |
-| 14 | ::{ flag=PH }:: [oSuTroop3r](https://osu.ppy.sh/users/7661767) |
-| 15 | ::{ flag=PH }:: [princealbert10](https://osu.ppy.sh/users/7804181) |
-| 16 | ::{ flag=PH }:: [justin1709](https://osu.ppy.sh/users/4699130) |
+| 1 | ::{ flag=PH }:: ::Roido::{ user=6829103 } |
+| 2 | ::{ flag=PH }:: ::-Nicotine::{ user=4818935 } |
+| 3 | ::{ flag=PH }:: ::- Kielzu -::{ user=6221114 } |
+| 4 | ::{ flag=PH }:: ::Crowley::{ user=6341006 } |
+| 5 | ::{ flag=PH }:: ::-MomoX::{ user=2150415 } |
+| 6 | ::{ flag=PH }:: ::Laqure::{ user=1642435 } |
+| 7 | ::{ flag=PH }:: ::Kuya Frex::{ user=8868701 } |
+| 8 | ::{ flag=PH }:: ::KaganimeRin::{ user=1626093 } |
+| 9 | ::{ flag=PH }:: ::JeirYagtama::{ user=7483452 } |
+| 10 | ::{ flag=PH }:: ::AJamez::{ user=7890134 } |
+| 11 | ::{ flag=XX }:: ::Contingent::{ user=11849880 } |
+| 12 | ::{ flag=PH }:: ::kaarin::{ user=10054160 } |
+| 13 | ::{ flag=PH }:: ::Weazle::{ user=7864598 } |
+| 14 | ::{ flag=PH }:: ::oSuTroop3r::{ user=7661767 } |
+| 15 | ::{ flag=PH }:: ::princealbert10::{ user=7804181 } |
+| 16 | ::{ flag=PH }:: ::justin1709::{ user=4699130 } |
 
 ### osu!mania 4K
 
 | Seed | Players |
 | :-: | :-- |
-| Top (#1 - #4) | ::{ flag=PH }:: [joseee-](https://osu.ppy.sh/users/10083439), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936), ::{ flag=PH }:: [windrush123](https://osu.ppy.sh/users/9087181), ::{ flag=PH }:: [nyx-](https://osu.ppy.sh/users/9883834) |
-| High (#5 - #8) | ::{ flag=PH }:: [TheArge](https://osu.ppy.sh/users/9919550), ::{ flag=PH }:: [Mk3605](https://osu.ppy.sh/users/8416824), ::{ flag=PH }:: [Nelvin\_27](https://osu.ppy.sh/users/2766029), ::{ flag=PH }:: [FeveredNickel](https://osu.ppy.sh/users/7331952) |
-| Middle (#9 - #24) | ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760), ::{ flag=PH }:: [\_Shirayukihime\_](https://osu.ppy.sh/users/875341), ::{ flag=PH }:: [Toyohime-](https://osu.ppy.sh/users/9770359), ::{ flag=CL }:: [Vigne Tsukinose](https://osu.ppy.sh/users/9793187), ::{ flag=XX }:: [exodia3000](https://osu.ppy.sh/users/10500797), ::{ flag=PH }:: [GTXCZE](https://osu.ppy.sh/users/9209185), ::{ flag=PH }:: [Baltz](https://osu.ppy.sh/users/6083463), ::{ flag=PH }:: [inverselina](https://osu.ppy.sh/users/6375534), ::{ flag=PH }:: [Mentai Cosmic](https://osu.ppy.sh/users/6908508), ::{ flag=PH }:: [\[\_blank-\]](https://osu.ppy.sh/users/10583118), ::{ flag=PH }:: [EikiShiki60](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [Kaleiodo](https://osu.ppy.sh/users/4657592), ::{ flag=PH }:: [takedown411](https://osu.ppy.sh/users/9374607), ::{ flag=US }:: [Chez](https://osu.ppy.sh/users/4866112), ::{ flag=PH }:: [Hezekiah-](https://osu.ppy.sh/users/6819871), ::{ flag=AU }:: [Victoria Artois](https://osu.ppy.sh/users/8021372) |
-| Low (#25 - #32) | ::{ flag=PH }:: [Otaku\_Gamer\_INF](https://osu.ppy.sh/users/3514479), ::{ flag=PH }:: [Lordie09](https://osu.ppy.sh/users/10010130), ::{ flag=PH }:: [Batujitsu](https://osu.ppy.sh/users/6402552), ::{ flag=PH }:: [szc19](https://osu.ppy.sh/users/11444817), ::{ flag=PH }:: [Inoariusu](https://osu.ppy.sh/users/8586656), ::{ flag=PH }:: [lord\_waker](https://osu.ppy.sh/users/7235545), ::{ flag=PH }:: [vincent4399](https://osu.ppy.sh/users/9764388), ::{ flag=PH }:: [Altertis](https://osu.ppy.sh/users/9374657) |
+| Top (#1 - #4) | ::{ flag=PH }:: ::joseee-::{ user=10083439 }, ::{ flag=PH }:: ::MapleSyrup-::{ user=1192936 }, ::{ flag=PH }:: ::windrush123::{ user=9087181 }, ::{ flag=PH }:: ::nyx-::{ user=9883834 } |
+| High (#5 - #8) | ::{ flag=PH }:: ::TheArge::{ user=9919550 }, ::{ flag=PH }:: ::Mk3605::{ user=8416824 }, ::{ flag=PH }:: ::Nelvin\_27::{ user=2766029 }, ::{ flag=PH }:: ::FeveredNickel::{ user=7331952 } |
+| Middle (#9 - #24) | ::{ flag=US }:: ::Trainer-::{ user=9331760 }, ::{ flag=PH }:: ::\_Shirayukihime\_::{ user=875341 }, ::{ flag=PH }:: ::Toyohime-::{ user=9770359 }, ::{ flag=CL }:: ::Vigne Tsukinose::{ user=9793187 }, ::{ flag=XX }:: ::exodia3000::{ user=10500797 }, ::{ flag=PH }:: ::GTXCZE::{ user=9209185 }, ::{ flag=PH }:: ::Baltz::{ user=6083463 }, ::{ flag=PH }:: ::inverselina::{ user=6375534 }, ::{ flag=PH }:: ::Mentai Cosmic::{ user=6908508 }, ::{ flag=PH }:: ::\[\_blank-\]::{ user=10583118 }, ::{ flag=PH }:: ::EikiShiki60::{ user=11517895 }, ::{ flag=PH }:: ::Kaleiodo::{ user=4657592 }, ::{ flag=PH }:: ::takedown411::{ user=9374607 }, ::{ flag=US }:: ::Chez::{ user=4866112 }, ::{ flag=PH }:: ::Hezekiah-::{ user=6819871 }, ::{ flag=AU }:: ::Victoria Artois::{ user=8021372 } |
+| Low (#25 - #32) | ::{ flag=PH }:: ::Otaku\_Gamer\_INF::{ user=3514479 }, ::{ flag=PH }:: ::Lordie09::{ user=10010130 }, ::{ flag=PH }:: ::Batujitsu::{ user=6402552 }, ::{ flag=PH }:: ::szc19::{ user=11444817 }, ::{ flag=PH }:: ::Inoariusu::{ user=8586656 }, ::{ flag=PH }:: ::lord\_waker::{ user=7235545 }, ::{ flag=PH }:: ::vincent4399::{ user=9764388 }, ::{ flag=PH }:: ::Altertis::{ user=9374657 } |
 
 #### Groups
 
@@ -173,10 +173,10 @@ Registrations may prematurely end when there are a sufficient number of registra
 
 | Group | Top | High | Low | Bottom |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | (#3) ::{ flag=PH }:: [cieloday05](https://osu.ppy.sh/users/2722489) | (#6) ::{ flag=PH }:: [joseee-](https://osu.ppy.sh/users/10083439) | (#9) ::{ flag=PH }:: [FeveredNickel](https://osu.ppy.sh/users/7331952) | (#14) ::{ flag=PH }:: [DrawdeX](https://osu.ppy.sh/users/2228215) |
-| **B** | (#2) ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405) | (#5) ::{ flag=PH }:: [LackPoints](https://osu.ppy.sh/users/8748664) | (#12) ::{ flag=PH }:: [windrush123](https://osu.ppy.sh/users/9087181) | (#13) ::{ flag=US }:: [Chez](https://osu.ppy.sh/users/4866112) |
-| **C** | (#1) ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936) | (#8) ::{ flag=PH }:: [Tots](https://osu.ppy.sh/users/3443131) | (#11) ::{ flag=PH }:: [\_Shirayukihime\_](https://osu.ppy.sh/users/875341) | (#15) ::{ flag=PH }:: [- Aries -](https://osu.ppy.sh/users/6639880) |
-| **D** | (#4) ::{ flag=CL }:: [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) | (#7) ::{ flag=PH }:: [fer789](https://osu.ppy.sh/users/8901267) | (#10) ::{ flag=PH }:: [nyx-](https://osu.ppy.sh/users/9883834) |  |
+| **A** | (#3) ::{ flag=PH }:: ::cieloday05::{ user=2722489 } | (#6) ::{ flag=PH }:: ::joseee-::{ user=10083439 } | (#9) ::{ flag=PH }:: ::FeveredNickel::{ user=7331952 } | (#14) ::{ flag=PH }:: ::DrawdeX::{ user=2228215 } |
+| **B** | (#2) ::{ flag=PH }:: ::- Kura -::{ user=11420405 } | (#5) ::{ flag=PH }:: ::LackPoints::{ user=8748664 } | (#12) ::{ flag=PH }:: ::windrush123::{ user=9087181 } | (#13) ::{ flag=US }:: ::Chez::{ user=4866112 } |
+| **C** | (#1) ::{ flag=PH }:: ::MapleSyrup-::{ user=1192936 } | (#8) ::{ flag=PH }:: ::Tots::{ user=3443131 } | (#11) ::{ flag=PH }:: ::\_Shirayukihime\_::{ user=875341 } | (#15) ::{ flag=PH }:: ::- Aries -::{ user=6639880 } |
+| **D** | (#4) ::{ flag=CL }:: ::Vigne Tsukinose::{ user=9793187 } | (#7) ::{ flag=PH }:: ::fer789::{ user=8901267 } | (#10) ::{ flag=PH }:: ::nyx-::{ user=9883834 } |  |
 
 The full list of registrants may be found on [this spreadsheet](https://docs.google.com/spreadsheets/d/1HCKuEBvxwIqw6a_8pq4YITd63eSVAqfOhpbAl-_ALe8/).
 
@@ -188,33 +188,33 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: [Dunois](https://osu.ppy.sh/users/4581715) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [-Marika](https://osu.ppy.sh/users/2199427) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [Varsagus](https://osu.ppy.sh/users/3885723), ::{ flag=PH }:: [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=CA }:: ::Dunois::{ user=4581715 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::-Marika::{ user=2199427 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::Varsagus::{ user=3885723 }, ::{ flag=PH }:: ::TyrantsEye2014::{ user=4530738 } |
 
 ### osu!catch division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [-Nicotine](https://osu.ppy.sh/users/4818935) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [KaganimeRin](https://osu.ppy.sh/users/1626093) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::Roido::{ user=6829103 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::-Nicotine::{ user=4818935 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::KaganimeRin::{ user=1626093 } |
 
 ### osu!mania 4K division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [joseee-](https://osu.ppy.sh/users/10083439) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=XX }:: [exodia3000](https://osu.ppy.sh/users/10500797) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CL }:: [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::joseee-::{ user=10083439 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=XX }:: ::exodia3000::{ user=10500797 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CL }:: ::Vigne Tsukinose::{ user=9793187 } |
 
 ### osu!mania 7K division
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [cieloday05](https://osu.ppy.sh/users/2722489) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CL }:: [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::cieloday05::{ user=2722489 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CL }:: ::Vigne Tsukinose::{ user=9793187 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::MapleSyrup-::{ user=1192936 } |
 
 ## Mappools
 
@@ -1207,7 +1207,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Addition of osu! and osu!catch
 
-- Initially, this tournament would have been just an osu!mania tournament, similar to the [previous](https://osu.ppy.sh/community/forums/topics/437448) [two](https://osu.ppy.sh/community/forums/topics/579557) editions. Though after the success of the [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068), [Zaphirox](https://osu.ppy.sh/users/2478675) has suggested adding osu! (and later, with [Lobsterr](https://osu.ppy.sh/users/6575915)'s go signal, osu!catch) to the fray. With a few modifications to the rules introduced, this tournament series was born.
+- Initially, this tournament would have been just an osu!mania tournament, similar to the [previous](https://osu.ppy.sh/community/forums/topics/437448) [two](https://osu.ppy.sh/community/forums/topics/579557) editions. Though after the success of the [osu!Philippines Holiday Friendlies 2017](https://osu.ppy.sh/community/forums/topics/640068), ::Zaphirox::{ user=2478675 } has suggested adding osu! (and later, with ::Lobsterr::{ user=6575915 }'s go signal, osu!catch) to the fray. With a few modifications to the rules introduced, this tournament series was born.
 
 ### "National championships"
 
@@ -1219,7 +1219,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 ### Qualification criteria (osu!mania)
 
-- During the staff discussions on the [Springtime osu!mania 4k Free-for-all Tournament](/wiki/Tournaments/SOFT/3) Qualification Criteria, there have been plans on adopting changes based on how the meta has shifted ever since its first edition. This has made variations on the scores obtained much more prevalent on recent tournaments which have used the same qualifier format, which omPHST has followed to during its past two editions. There have been proposals to move from the aggregate score format which has been used for the past two years to another seeding criteria. Some of which discussed were **(Weighted) Average of ranks** or a proposed **[Score Rating System](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217)** by ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) which computes a rating of the scores obtained according to which quartile it falls under. The effects of the latter system has been explained on the linked illustration, and for additional data regarding this, the tournament will adopt this system for the qualifiers.
+- During the staff discussions on the [Springtime osu!mania 4k Free-for-all Tournament](/wiki/Tournaments/SOFT/3) Qualification Criteria, there have been plans on adopting changes based on how the meta has shifted ever since its first edition. This has made variations on the scores obtained much more prevalent on recent tournaments which have used the same qualifier format, which omPHST has followed to during its past two editions. There have been proposals to move from the aggregate score format which has been used for the past two years to another seeding criteria. Some of which discussed were **(Weighted) Average of ranks** or a proposed **[Score Rating System](https://docs.google.com/spreadsheets/d/1etUNr3BI9a_kW4ysruo2mTNI3QOh_R2VZ5rnZE_TPQs/edit#gid=1590909217)** by ::{ flag=SG }:: ::Shoegazer::{ user=2520707 } which computes a rating of the scores obtained according to which quartile it falls under. The effects of the latter system has been explained on the linked illustration, and for additional data regarding this, the tournament will adopt this system for the qualifiers.
 
 ### Disconnection clauses
 

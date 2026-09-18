@@ -15,16 +15,16 @@ Now, more than a decade and [one successful small-scale iteration](/wiki/Tournam
 
 ## Tournament
 
-Ascaveth Invitational Tournament 2023 is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and members of the Indonesian osu! community. The tournament features a lineup of eight top osu! players from across Indonesia, all of whom have qualified through the [Last Chance Qualifiers (LCQ)](/wiki/Tournaments/AIT/2023_LCQ) and other means as follows:
+Ascaveth Invitational Tournament 2023 is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: ::Ascaveth::{ user=3245206 } and members of the Indonesian osu! community. The tournament features a lineup of eight top osu! players from across Indonesia, all of whom have qualified through the [Last Chance Qualifiers (LCQ)](/wiki/Tournaments/AIT/2023_LCQ) and other means as follows:
 
-- ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635)
-- ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008)
-- ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222)
-- ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553)
-- ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899)
-- ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956)
-- ::{ flag=ID }:: [ThatNOOBGuy](https://osu.ppy.sh/users/11091594)
-- ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909)
+- ::{ flag=ID }:: ::Hakui Koyori::{ user=10717635 }
+- ::{ flag=ID }:: ::Skydiver::{ user=4750008 }
+- ::{ flag=ID }:: ::lifeline::{ user=11367222 }
+- ::{ flag=ID }:: ::rHO::{ user=1629553 }
+- ::{ flag=ID }:: ::NazunaAmemiya::{ user=12159899 }
+- ::{ flag=ID }:: ::Fuma::{ user=1501956 }
+- ::{ flag=ID }:: ::ThatNOOBGuy::{ user=11091594 }
+- ::{ flag=ID }:: ::DEETO::{ user=10069909 }
 
 The tournament is scheduled to commence on **Saturday, December 9th** on **01:00 UTC** (08:00 local time). Unfortunately however, due to logistical and some other concerns, the tournament isn't going to be open for public attendance. But fear not! As you might already expect, the entirety of the event will be streamed live over at **[the osuIndonesia Twitch channel](https://www.twitch.tv/osuIndonesia)** as well as **[lifeline's Twitch channel](https://www.twitch.tv/lifeline)**.
 

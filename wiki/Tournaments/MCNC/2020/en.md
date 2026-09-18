@@ -43,13 +43,13 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=NZ }:: [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ::{ flag=US }:: [dblade](https://osu.ppy.sh/users/4272841), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083) |
-| Mappool selector | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [Sillyp](https://osu.ppy.sh/users/4556538), ::{ flag=CN }:: [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=MX }:: [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ::{ flag=MX }:: [Plutes](https://osu.ppy.sh/users/11188249), ::{ flag=MX }:: [\[OSC\]Amagai](https://osu.ppy.sh/users/9658070) |
-| Streamer | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [Ayase Eli](https://osu.ppy.sh/users/6764156) |
-| Commentator | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [Tamaki Iroha](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[Crz\]HDRoop_7](https://osu.ppy.sh/users/6336721), ::{ flag=NZ }:: [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208) |
-| Designer | ::{ flag=CN }:: [Dr\_Tissues](https://osu.ppy.sh/users/5106681) |
-| Referee | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=CN }:: [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), ::{ flag=CN }:: [Another Flower](https://osu.ppy.sh/users/6854920), ::{ flag=CN }:: [Sonoaoi](https://osu.ppy.sh/users/9755808), ::{ flag=NZ }:: [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083) |
-| Statistician | ::{ flag=CN }:: [Ayase Eli](https://osu.ppy.sh/users/6764156), ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
+| Manager | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=NZ }:: ::\[Crz\]NucleoAP::{ user=9237208 }, ::{ flag=US }:: ::dblade::{ user=4272841 }, ::{ flag=CN }:: ::crazybrother::{ user=8045083 } |
+| Mappool selector | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::Sillyp::{ user=4556538 }, ::{ flag=CN }:: ::\[Crz\]MemoryI::{ user=8179131 }, ::{ flag=CN }:: ::\[Crz\]Satori::{ user=7082178 }, ::{ flag=MX }:: ::\[Crz\]Noire::{ user=6031847 }, ::{ flag=MX }:: ::Plutes::{ user=11188249 }, ::{ flag=MX }:: ::\[OSC\]Amagai::{ user=9658070 } |
+| Streamer | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::crazybrother::{ user=8045083 }, ::{ flag=CN }:: ::\[Crz\]Satori::{ user=7082178 }, ::{ flag=CN }:: ::Rasis::{ user=1209363 }, ::{ flag=CN }:: ::Ayase Eli::{ user=6764156 } |
+| Commentator | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\[Crz\]Satori::{ user=7082178 }, ::{ flag=CN }:: ::crazybrother::{ user=8045083 }, ::{ flag=CN }:: ::Rasis::{ user=1209363 }, ::{ flag=CN }:: ::Tamaki Iroha::{ user=11238501 }, ::{ flag=CN }:: ::\[Crz\]HDRoop\17::{ user=6336721 }, ::{ flag=NZ }:: ::\[Crz\]NucleoAP::{ user=9237208 } |
+| Designer | ::{ flag=CN }:: ::Dr\_Tissues::{ user=5106681 } |
+| Referee | ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 }, ::{ flag=CN }:: ::\[Crz\]Satori::{ user=7082178 }, ::{ flag=CN }:: ::Another Flower::{ user=6854920 }, ::{ flag=CN }:: ::Sonoaoi::{ user=9755808 }, ::{ flag=NZ }:: ::\[Crz\]NucleoAP::{ user=9237208 }, ::{ flag=CN }:: ::crazybrother::{ user=8045083 } |
+| Statistician | ::{ flag=CN }:: ::Ayase Eli::{ user=6764156 }, ::{ flag=CN }:: ::\[Crz\]xz1z1z::{ user=10500832 } |
 
 ## Links
 
@@ -63,38 +63,38 @@ The osu!mania 4K Chinese National Cup 2020 was run by various community members.
 
 | Seed | Player |
 | :-: | :-- |
-| #1 | ::{ flag=CN }:: [WLYMinato](https://osu.ppy.sh/users/12703319) |
-| #2 | ::{ flag=CN }:: [Kakuko](https://osu.ppy.sh/users/10413362) |
-| #3 | ::{ flag=CN }:: [\[Crz\]Serika](https://osu.ppy.sh/users/6701729) |
-| #4 | ::{ flag=CN }:: [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
-| #5 | ::{ flag=CN }:: [Rbpencil](https://osu.ppy.sh/users/8004085) |
-| #6 | ::{ flag=CN }:: [CaOH2](https://osu.ppy.sh/users/10702235) |
-| #7 | ::{ flag=CN }:: [91sNake](https://osu.ppy.sh/users/8726178) |
-| #8 | ::{ flag=CN }:: [ImmortalphoeniX](https://osu.ppy.sh/users/7080633) |
-| #9 | ::{ flag=CN }:: [lxy20019xs](https://osu.ppy.sh/users/7673726) |
-| #10 | ::{ flag=CN }:: [\[Illustrious\]](https://osu.ppy.sh/users/4082595) |
-| #11 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) |
-| #12 | ::{ flag=CN }:: [Kagaku](https://osu.ppy.sh/users/11178148) |
-| #13 | ::{ flag=CN }:: [Cloud18](https://osu.ppy.sh/users/15889859) |
-| #14 | ::{ flag=CN }:: [- xiaoluoli -](https://osu.ppy.sh/users/9502281) |
-| #15 | ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517) |
-| #16 | ::{ flag=TW }:: [Timewasdeapsea](https://osu.ppy.sh/users/8682905) |
-| #17 | ::{ flag=TW }:: [Sakaki](https://osu.ppy.sh/users/2656856) |
-| #18 | ::{ flag=TW }:: [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
-| #19 | ::{ flag=CN }:: [\[ Emiya \]](https://osu.ppy.sh/users/4341197) |
-| #20 | ::{ flag=CN }:: [Hx\_032](https://osu.ppy.sh/users/11603156) |
-| #21 | ::{ flag=CN }:: [\[Crz\]Willis](https://osu.ppy.sh/users/6949941) |
-| #22 | ::{ flag=CN }:: [\[RT\]Alleyne](https://osu.ppy.sh/users/11279273) |
-| #23 | ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071) |
-| #24 | ::{ flag=CN }:: [Edward\_Tsui](https://osu.ppy.sh/users/8609627) |
-| #25 | ::{ flag=CN }:: [CherryG](https://osu.ppy.sh/users/7719449) |
-| #26 | ::{ flag=TW }:: [AW ZERO](https://osu.ppy.sh/users/4415146) |
-| #27 | ::{ flag=CN }:: [yuwenhao1](https://osu.ppy.sh/users/14318312) |
-| #28 | ::{ flag=CN }:: [GODV14138](https://osu.ppy.sh/users/13756517) |
-| #29 | ::{ flag=CN }:: [Rain 7](https://osu.ppy.sh/users/9787146) |
-| #30 | ::{ flag=CN }:: [3032656057](https://osu.ppy.sh/users/13844875) |
-| #31 | ::{ flag=CN }:: [GanYou](https://osu.ppy.sh/users/10358203) |
-| #32 | ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) |
+| #1 | ::{ flag=CN }:: ::WLYMinato::{ user=12703319 } |
+| #2 | ::{ flag=CN }:: ::Kakuko::{ user=10413362 } |
+| #3 | ::{ flag=CN }:: ::\[Crz\]Serika::{ user=6701729 } |
+| #4 | ::{ flag=CN }:: ::\[Crz\]I-Night::{ user=8790619 } |
+| #5 | ::{ flag=CN }:: ::Rbpencil::{ user=8004085 } |
+| #6 | ::{ flag=CN }:: ::CaOH2::{ user=10702235 } |
+| #7 | ::{ flag=CN }:: ::91sNake::{ user=8726178 } |
+| #8 | ::{ flag=CN }:: ::ImmortalphoeniX::{ user=7080633 } |
+| #9 | ::{ flag=CN }:: ::lxy20019xs::{ user=7673726 } |
+| #10 | ::{ flag=CN }:: ::\[Illustrious\]::{ user=4082595 } |
+| #11 | ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 } |
+| #12 | ::{ flag=CN }:: ::Kagaku::{ user=11178148 } |
+| #13 | ::{ flag=CN }:: ::Cloud18::{ user=15889859 } |
+| #14 | ::{ flag=CN }:: ::- xiaoluoli -::{ user=9502281 } |
+| #15 | ::{ flag=HK }:: ::Yana Feiya::{ user=7802517 } |
+| #16 | ::{ flag=TW }:: ::Timewasdeapsea::{ user=8682905 } |
+| #17 | ::{ flag=TW }:: ::Sakaki::{ user=2656856 } |
+| #18 | ::{ flag=TW }:: ::\[Crz\]FolAH1217::{ user=6232458 } |
+| #19 | ::{ flag=CN }:: ::\[ Emiya \]::{ user=4341197 } |
+| #20 | ::{ flag=CN }:: ::Hx\_032::{ user=11603156 } |
+| #21 | ::{ flag=CN }:: ::\[Crz\]Willis::{ user=6949941 } |
+| #22 | ::{ flag=CN }:: ::\[RT\]Alleyne::{ user=11279273 } |
+| #23 | ::{ flag=CN }:: ::Hidden is fun::{ user=10449071 } |
+| #24 | ::{ flag=CN }:: ::Edward\_Tsui::{ user=8609627 } |
+| #25 | ::{ flag=CN }:: ::CherryG::{ user=7719449 } |
+| #26 | ::{ flag=TW }:: ::AW ZERO::{ user=4415146 } |
+| #27 | ::{ flag=CN }:: ::yuwenhao1::{ user=14318312 } |
+| #28 | ::{ flag=CN }:: ::GODV14138::{ user=13756517 } |
+| #29 | ::{ flag=CN }:: ::Rain 7::{ user=9787146 } |
+| #30 | ::{ flag=CN }:: ::3032656057::{ user=13844875 } |
+| #31 | ::{ flag=CN }:: ::GanYou::{ user=10358203 } |
+| #32 | ::{ flag=CN }:: ::spensll::{ user=4547744 } |
 
 ## Groups
 

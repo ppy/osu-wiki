@@ -80,31 +80,31 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [RMoT #2](/wiki/Tournaments/RMoTI/2) | 2017-05-06 | 2017-05-14 | ::{ flag=PL }:: [MagBlood](https://osu.ppy.sh/users/6178640) | ::{ flag=PL }:: [bsurma](https://osu.ppy.sh/users/509575) | ::{ flag=PL }:: [MaIson](https://osu.ppy.sh/users/6047395) |
-| [RMoT #5](/wiki/Tournaments/RMoTI/5) | 2018-05-12 | 2018-05-27 | ::{ flag=FR }:: [Prosdokies](https://osu.ppy.sh/users/3852436) | ::{ flag=RU }:: [Well Halen](https://osu.ppy.sh/users/8660244) | ::{ flag=RU }:: [KoloMl](https://osu.ppy.sh/users/6544403) |
+| [RMoT #2](/wiki/Tournaments/RMoTI/2) | 2017-05-06 | 2017-05-14 | ::{ flag=PL }:: ::MagBlood::{ user=6178640 } | ::{ flag=PL }:: ::bsurma::{ user=509575 } | ::{ flag=PL }:: ::MaIson::{ user=6047395 } |
+| [RMoT #5](/wiki/Tournaments/RMoTI/5) | 2018-05-12 | 2018-05-27 | ::{ flag=FR }:: ::Prosdokies::{ user=3852436 } | ::{ flag=RU }:: ::Well Halen::{ user=8660244 } | ::{ flag=RU }:: ::KoloMl::{ user=6544403 } |
 
 ### ![](/wiki/shared/mode/osu.png) Aus/NZ osu!standard Tournament
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Aus/NZ osu!standard Tournament | 2014-06-20 | 2014-08-03 | ::{ flag=AU }:: [Tokichii](https://osu.ppy.sh/users/557197) | ::{ flag=AU }:: [Bauxe](https://osu.ppy.sh/users/1881685) | ::{ flag=AU }:: [Melt3dCheeze](https://osu.ppy.sh/users/634837) |
-| Aus/NZ osu!standard Tournament 2 | 2015-04-03 | 2015-05-18 | ::{ flag=AU }:: [Bauxe](https://osu.ppy.sh/users/1881685) | ::{ flag=NZ }:: [buny](https://osu.ppy.sh/users/1488796) | ::{ flag=AU }:: [Rivastyx](https://osu.ppy.sh/users/2719307) |
-| Aus/NZ osu!standard Tournament 3 | 2016-08-01 | 2016-09-13 | ::{ flag=NZ }:: [yellowy246](https://osu.ppy.sh/users/3833980) | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=AU }:: [II Jelli II](https://osu.ppy.sh/users/5113781) |
-| Aus/NZ osu!standard Tournament 4 | 2017-05-22 | 2017-07-09 | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=AU }:: [Dumi](https://osu.ppy.sh/users/2271615) | ::{ flag=AU }:: [ithgyu](https://osu.ppy.sh/users/5113781) |
-| [Aus/NZ osu!standard Tournament 5 - Summer](/wiki/Tournaments/ANZT/2018_Summer) | 2018-01-26 | 2018-03-17 | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) | ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
-| [Aus/NZ osu!standard Tournament 5 - Winter](/wiki/Tournaments/ANZT/2018_Winter) | 2018-08-17 | 2018-09-30 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
-| [Aus/NZ osu!standard Tournament 6 - Summer](/wiki/Tournaments/ANZT/2019_Summer) | 2019-01-11 | 2019-03-10 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ::{ flag=AU }:: [nickerdead3](https://osu.ppy.sh/users/4999984) |
-| [Aus/NZ osu!standard Tournament 6 - Winter](ANZT/2019_Winter) | 2019-07-26 | 2019-09-22 | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) | ::{ flag=AU }:: [Lunirs](https://osu.ppy.sh/users/2118945) | ::{ flag=NZ }:: [shortpotato](https://osu.ppy.sh/users/1266102) |
-| [Aus/NZ osu!standard Tournament 7 - Summer](ANZT/2020_Summer) | 2020-01-31 | 2020-04-12 | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
-| [Aus/NZ osu!standard Tournament 7 - Winter](ANZT/2020_Winter) | 2020-07-10 | 2020-08-30 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) |
-| [Aus/NZ osu!standard Tournament 8 - Summer](ANZT/2021_Summer) | 2021-01-22 | 2021-03-14 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
-| [Aus/NZ osu!standard Tournament 8 - Winter](ANZT/2021_Winter) | 2021-07-23 | 2021-09-12 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691) |
-| Aus/NZ osu!standard Tournament 9 - Summer | 2022-01-21 | 2022-03-06 | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691) |
-| Aus/NZ osu!standard Tournament 9 - Winter | 2022-07-23 | 2022-09-18 | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=NZ }:: [Saiyku](https://osu.ppy.sh/users/13767572) | ::{ flag=NZ }:: [Tedda](https://osu.ppy.sh/users/6906789) |
-| Aus/NZ osu!standard Tournament 10 - Summer | 2023-01-16 | 2023-03-12 | ::{ flag=AU }:: [sweetheart](https://osu.ppy.sh/users/12736534) | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183) | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) |
-| Aus/NZ osu!standard Tournament 10 - Winter | 2023-07-23 | 2023-09-18 | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Dumii](https://osu.ppy.sh/users/3068044) | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) |
+| Aus/NZ osu!standard Tournament | 2014-06-20 | 2014-08-03 | ::{ flag=AU }:: ::Tokichii::{ user=557197 } | ::{ flag=AU }:: ::Bauxe::{ user=1881685 } | ::{ flag=AU }:: ::Melt3dCheeze::{ user=634837 } |
+| Aus/NZ osu!standard Tournament 2 | 2015-04-03 | 2015-05-18 | ::{ flag=AU }:: ::Bauxe::{ user=1881685 } | ::{ flag=NZ }:: ::buny::{ user=1488796 } | ::{ flag=AU }:: ::Rivastyx::{ user=2719307 } |
+| Aus/NZ osu!standard Tournament 3 | 2016-08-01 | 2016-09-13 | ::{ flag=NZ }:: ::yellowy246::{ user=3833980 } | ::{ flag=AU }:: ::Lunirs::{ user=2118945 } | ::{ flag=AU }:: ::II Jelli II::{ user=5113781 } |
+| Aus/NZ osu!standard Tournament 4 | 2017-05-22 | 2017-07-09 | ::{ flag=AU }:: ::Lunirs::{ user=2118945 } | ::{ flag=AU }:: ::Dumi::{ user=2271615 } | ::{ flag=AU }:: ::ithgyu::{ user=5113781 } |
+| [Aus/NZ osu!standard Tournament 5 - Summer](/wiki/Tournaments/ANZT/2018_Summer) | 2018-01-26 | 2018-03-17 | ::{ flag=AU }:: ::Lunirs::{ user=2118945 } | ::{ flag=AU }:: ::Blobby3000::{ user=6916774 } | ::{ flag=AU }:: ::TheOmyNomy::{ user=4241054 } |
+| [Aus/NZ osu!standard Tournament 5 - Winter](/wiki/Tournaments/ANZT/2018_Winter) | 2018-08-17 | 2018-09-30 | ::{ flag=AU }:: ::Dumii::{ user=3068044 } | ::{ flag=AU }:: ::-Machine-::{ user=5459981 } | ::{ flag=AU }:: ::Blobby3000::{ user=6916774 } |
+| [Aus/NZ osu!standard Tournament 6 - Summer](/wiki/Tournaments/ANZT/2019_Summer) | 2019-01-11 | 2019-03-10 | ::{ flag=AU }:: ::Dumii::{ user=3068044 } | ::{ flag=AU }:: ::Jordan The Bear::{ user=7477458 } | ::{ flag=AU }:: ::nickerdead3::{ user=4999984 } |
+| [Aus/NZ osu!standard Tournament 6 - Winter](ANZT/2019_Winter) | 2019-07-26 | 2019-09-22 | ::{ flag=AU }:: ::Jordan The Bear::{ user=7477458 } | ::{ flag=AU }:: ::Lunirs::{ user=2118945 } | ::{ flag=NZ }:: ::shortpotato::{ user=1266102 } |
+| [Aus/NZ osu!standard Tournament 7 - Summer](ANZT/2020_Summer) | 2020-01-31 | 2020-04-12 | ::{ flag=AU }:: ::ASecretBox::{ user=7341183 } | ::{ flag=AU }:: ::-Machine-::{ user=5459981 } | ::{ flag=AU }:: ::Jordan The Bear::{ user=7477458 } |
+| [Aus/NZ osu!standard Tournament 7 - Winter](ANZT/2020_Winter) | 2020-07-10 | 2020-08-30 | ::{ flag=AU }:: ::Dumii::{ user=3068044 } | ::{ flag=AU }:: ::-Machine-::{ user=5459981 } | ::{ flag=AU }:: ::mrekk::{ user=7562902 } |
+| [Aus/NZ osu!standard Tournament 8 - Summer](ANZT/2021_Summer) | 2021-01-22 | 2021-03-14 | ::{ flag=AU }:: ::mrekk::{ user=7562902 } | ::{ flag=AU }:: ::-Machine-::{ user=5459981 } | ::{ flag=AU }:: ::Jordan The Bear::{ user=7477458 } |
+| [Aus/NZ osu!standard Tournament 8 - Winter](ANZT/2021_Winter) | 2021-07-23 | 2021-09-12 | ::{ flag=AU }:: ::mrekk::{ user=7562902 } | ::{ flag=AU }:: ::Dumii::{ user=3068044 } | ::{ flag=AU }:: ::Vivace::{ user=3698691 } |
+| Aus/NZ osu!standard Tournament 9 - Summer | 2022-01-21 | 2022-03-06 | ::{ flag=AU }:: ::ASecretBox::{ user=7341183 } | ::{ flag=AU }:: ::Dumii::{ user=3068044 } | ::{ flag=AU }:: ::Vivace::{ user=3698691 } |
+| Aus/NZ osu!standard Tournament 9 - Winter | 2022-07-23 | 2022-09-18 | ::{ flag=AU }:: ::Dumii::{ user=3068044 } | ::{ flag=NZ }:: ::Saiyku::{ user=13767572 } | ::{ flag=NZ }:: ::Tedda::{ user=6906789 } |
+| Aus/NZ osu!standard Tournament 10 - Summer | 2023-01-16 | 2023-03-12 | ::{ flag=AU }:: ::sweetheart::{ user=12736534 } | ::{ flag=AU }:: ::ASecretBox::{ user=7341183 } | ::{ flag=AU }:: ::cyo::{ user=8195473 } |
+| Aus/NZ osu!standard Tournament 10 - Winter | 2023-07-23 | 2023-09-18 | ::{ flag=AU }:: ::cyo::{ user=8195473 } | ::{ flag=AU }:: ::Dumii::{ user=3068044 } | ::{ flag=AU }:: ::aknzx::{ user=9938943 } |
 | Aus/NZ osu!standard Tournament 11 - Summer | 2024-01-27 | 2024-03-11 | santa deniers | jelqmaxxers | ASecretDozer |
-| Aus/NZ osu!standard Tournament 11 - Winter | 2024-07-15 | 2024-09-08 | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Zyntex](https://osu.ppy.sh/users/11806306) |
+| Aus/NZ osu!standard Tournament 11 - Winter | 2024-07-15 | 2024-09-08 | ::{ flag=AU }:: ::aknzx::{ user=9938943 } | ::{ flag=AU }:: ::cyo::{ user=8195473 } | ::{ flag=AU }:: ::Zyntex::{ user=11806306 } |
 | Aus/NZ osu!standard Tournament 12 - Summer | 2025-01-25 | 2025-03-23 | DELCHORAN ESPORTS | ChungusGlorp69420 | THE HOUSE |
 
 ### ![](/wiki/shared/mode/osu.png) SS Tournament
@@ -132,16 +132,16 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! Technical Championship](/wiki/Tournaments/OTC/1) | 2018-01-20 | 2018-03-04 | ::{ flag=FI }:: [SanteriP](https://osu.ppy.sh/users/1981187) | ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779) | ::{ flag=CN }:: [Play Offline](https://osu.ppy.sh/users/5791401) |
+| [osu! Technical Championship](/wiki/Tournaments/OTC/1) | 2018-01-20 | 2018-03-04 | ::{ flag=FI }:: ::SanteriP::{ user=1981187 } | ::{ flag=TR }:: ::heyronii::{ user=5642779 } | ::{ flag=CN }:: ::Play Offline::{ user=5791401 } |
 | [osu! Technical Championship #2](/wiki/Tournaments/OTC/2) | 2018-04-14 | 2018-05-27 | Rubber Conquest | Floating up | Latex Intolerance |
-| [osu! Technical Championship #3](/wiki/Tournaments/OTC/3) | 2019-01-12 | 2019-03-02 | ::{ flag=IL }:: [Xilver15](https://osu.ppy.sh/users/3099689) | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890) |
+| [osu! Technical Championship #3](/wiki/Tournaments/OTC/3) | 2019-01-12 | 2019-03-02 | ::{ flag=IL }:: ::Xilver15::{ user=3099689 } | ::{ flag=GB }:: ::Bubbleman::{ user=5182050 } | ::{ flag=RO }:: ::badeu::{ user=1473890 } |
 
 ### ![](/wiki/shared/mode/osu.png) osu! South East Asia Tournament
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| osu! South East Asia Tournament | 2017-12-07 | 2018-02-04 | ::{ flag=ID }:: [smh](https://osu.ppy.sh/users/1629553) | ::{ flag=MY }:: [wuhua](https://osu.ppy.sh/users/2932510) | ::{ flag=SG }:: [Elegant Loli](https://osu.ppy.sh/users/3010281) |
-| [osu! South East Asia Tournament 2](/wiki/Tournaments/oSEAT/2) | 2018-11-30 | 2019-01-27 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=SG }:: [GSBlank](https://osu.ppy.sh/users/2312106) | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) |
+| osu! South East Asia Tournament | 2017-12-07 | 2018-02-04 | ::{ flag=ID }:: ::smh::{ user=1629553 } | ::{ flag=MY }:: ::wuhua::{ user=2932510 } | ::{ flag=SG }:: ::Elegant Loli::{ user=3010281 } |
+| [osu! South East Asia Tournament 2](/wiki/Tournaments/oSEAT/2) | 2018-11-30 | 2019-01-27 | ::{ flag=ID }:: ::Skydiver::{ user=4750008 } | ::{ flag=SG }:: ::GSBlank::{ user=2312106 } | ::{ flag=ID }:: ::Rexeez::{ user=1987591 } |
 | [osu! South East Asia Tournament 3](/wiki/Tournaments/oSEAT/3) | 2019-12-14 | 2020-02-16 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/osu.png) osu! European Tournament
@@ -155,16 +155,16 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| #Game_Osu Tourney Summer Edition | 2018-08-25 | 2018-08-25 | ::{ flag=FR }:: [SiYes](https://osu.ppy.sh/users/8868144) | ::{ flag=FR }:: [Loazo](https://osu.ppy.sh/users/3925586) | ::{ flag=FR }:: [-raizen-](https://osu.ppy.sh/users/3872987) |
-| #Game_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ::{ flag=FR }:: [NerO](https://osu.ppy.sh/users/1545031) | ::{ flag=FR }:: [-raizen-](https://osu.ppy.sh/users/3872987) | ::{ flag=FR }:: [Musty](https://osu.ppy.sh/users/251683) |
-| [Game_Osu Tourney Winter/Spring Edition](/wiki/Tournaments/GO/3) | 2019-03-16 | 2019-05-06 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315) |
+| #Game_Osu Tourney Summer Edition | 2018-08-25 | 2018-08-25 | ::{ flag=FR }:: ::SiYes::{ user=8868144 } | ::{ flag=FR }:: ::Loazo::{ user=3925586 } | ::{ flag=FR }:: ::-raizen-::{ user=3872987 } |
+| #Game_Osu Tourney Autumn Edition | 2018-10-19 | 2018-11-04 | ::{ flag=FR }:: ::NerO::{ user=1545031 } | ::{ flag=FR }:: ::-raizen-::{ user=3872987 } | ::{ flag=FR }:: ::Musty::{ user=251683 } |
+| [Game_Osu Tourney Winter/Spring Edition](/wiki/Tournaments/GO/3) | 2019-03-16 | 2019-05-06 | ::{ flag=US }:: ::Vaxei::{ user=4787150 } | ::{ flag=GB }:: ::Bubbleman::{ user=5182050 } | ::{ flag=US }:: ::idke::{ user=4650315 } |
 
 ### ![](/wiki/shared/mode/osu.png) nik's Tournaments
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [nik's Winter Tour 2019](/wiki/Tournaments/NT/NWT_2019) | 2019-01-19 | 2019-03-10 | ::{ flag=US }:: [Fish-](https://osu.ppy.sh/users/3318654) | ::{ flag=AU }:: [loveleft](https://osu.ppy.sh/users/9240047) | ::{ flag=DE }:: [\[Lucky\]](https://osu.ppy.sh/users/1303685) |
-| [nik's Spring/Summer Tour 2019](/wiki/Tournaments/NT/NSST_2019) | 2019-04-27 | 2019-06-29 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) (Tier 1), ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) (Tier 2) | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) (Tier 1), ::{ flag=KR }:: [\_Suyong](https://osu.ppy.sh/users/7295276) (Tier 2) | ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650) (Tier 2), ::{ flag=NL }:: [Swerro](https://osu.ppy.sh/users/4507667) (Tier 2) |
+| [nik's Winter Tour 2019](/wiki/Tournaments/NT/NWT_2019) | 2019-01-19 | 2019-03-10 | ::{ flag=US }:: ::Fish-::{ user=3318654 } | ::{ flag=AU }:: ::loveleft::{ user=9240047 } | ::{ flag=DE }:: ::\[Lucky\]::{ user=1303685 } |
+| [nik's Spring/Summer Tour 2019](/wiki/Tournaments/NT/NSST_2019) | 2019-04-27 | 2019-06-29 | ::{ flag=GB }:: ::Bubbleman::{ user=5182050 } (Tier 1), ::{ flag=KR }:: ::Civil oath::{ user=3216107 } (Tier 2) | ::{ flag=US }:: ::fieryrage::{ user=3533958 } (Tier 1), ::{ flag=KR }:: ::\_Suyong::{ user=7295276 } (Tier 2) | ::{ flag=US }:: ::im a fancy lad::{ user=4908650 } (Tier 2), ::{ flag=NL }:: ::Swerro::{ user=4507667 } (Tier 2) |
 
 ### ![](/wiki/shared/mode/osu.png) osu! Asia Oceania Tournament
 
@@ -176,9 +176,9 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Indonesian Taiko Showdown](/wiki/Tournaments/AOTS/IDTS_1) | 2017-05-06 | 2017-06-11 | ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209) | ::{ flag=ID }:: [pmriva](https://osu.ppy.sh/users/2180885) | ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768) |
-| [Asian Taiko Showdown 2018](/wiki/Tournaments/AOTS/ATS_2018) | 2018-06-02 | 2018-07-08 | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ::{ flag=JP }:: [butter0414](https://osu.ppy.sh/users/7935022) |
-| [Asian-Oceanian Taiko Showdown](/wiki/Tournaments/AOTS/AOTS_1) | 2019-08-09 | 2019-09-15 | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819) | ::{ flag=HK }:: [MTDex](https://osu.ppy.sh/users/9468283) |
+| [Indonesian Taiko Showdown](/wiki/Tournaments/AOTS/IDTS_1) | 2017-05-06 | 2017-06-11 | ::{ flag=ID }:: ::XK2238::{ user=1139209 } | ::{ flag=ID }:: ::pmriva::{ user=2180885 } | ::{ flag=ID }:: ::Nishizumi::{ user=2496768 } |
+| [Asian Taiko Showdown 2018](/wiki/Tournaments/AOTS/ATS_2018) | 2018-06-02 | 2018-07-08 | ::{ flag=TW }:: ::Smallwu::{ user=2512120 } | ::{ flag=JP }:: ::nyanmi-1828::{ user=6866480 } | ::{ flag=JP }:: ::butter0414::{ user=7935022 } |
+| [Asian-Oceanian Taiko Showdown](/wiki/Tournaments/AOTS/AOTS_1) | 2019-08-09 | 2019-09-15 | ::{ flag=TW }:: ::Smallwu::{ user=2512120 } | ::{ flag=JP }:: ::Saikoro::{ user=741819 } | ::{ flag=HK }:: ::MTDex::{ user=9468283 } |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Last Man Standing
 
@@ -186,9 +186,9 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Taiko World Cup: Last Man Standing | 2014-05-10 | 2014-06-15 | ::{ flag=JP }:: Japonia | ::{ flag=CL }:: Chile | ::{ flag=TW }:: Tajwan A |
 | Taiko World Cup: Last Man Standing 2 | 2015-05-09 | 2015-06-16 | ::{ flag=TW }:: Tajwan A | ::{ flag=FR }:: Francja | ::{ flag=JP }:: Japonia A |
-| Taiko World Cup: Last Man Standing - Single Player Edition | 2016-10-10 | 2016-01-11 | ::{ flag=JP }:: [abeno](https://osu.ppy.sh/users/6565148) | ::{ flag=TW }:: [S a n d](https://osu.ppy.sh/users/676578) | ::{ flag=CA }:: [Fudgyking](https://osu.ppy.sh/users/3802922) |
+| Taiko World Cup: Last Man Standing - Single Player Edition | 2016-10-10 | 2016-01-11 | ::{ flag=JP }:: ::abeno::{ user=6565148 } | ::{ flag=TW }:: ::S a n d::{ user=676578 } | ::{ flag=CA }:: ::Fudgyking::{ user=3802922 } |
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ::{ flag=JP }:: Japonia A | ::{ flag=TW }:: Tajwan A | ::{ flag=JP }:: Japonia D |
-| Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ::{ flag=JP }:: [_yu68](https://osu.ppy.sh/users/6170507) | ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349) | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) |
+| Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ::{ flag=JP }:: ::\1yu68::{ user=6170507 } | ::{ flag=KR }:: ::applerss::{ user=983349 } | ::{ flag=CA }:: ::janitoreihil::{ user=3307897 } |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
 | [Taiko Last Man Standing: Shift Cup](/wiki/Tournaments/T_LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
 
@@ -199,7 +199,7 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 | [Intermediate Global Taiko Showdown 2018](/wiki/Tournaments/GTS/IGTS_2018) | 2018-08-04 | 2018-09-16 | ::{ flag=MY }:: Malezja | ::{ flag=NL }:: Holandia | ::{ flag=US }:: Stany Zjednoczone |
 | [Intermediate Global Taiko Showdown 2019](/wiki/Tournaments/GTS/IGTS_2019) | 2019-06-08 | 2019-07-14 | ::{ flag=HK }:: Hongkong | ::{ flag=US }:: Stany Zjednoczone A | ::{ flag=CL }:: Chile |
 | [Advanced Global Taiko Showdown 2019](/wiki/Tournaments/GTS/AGTS_2019) | 2019-08-10 | 2019-09-14 | ::{ flag=JP }:: Japonia | ::{ flag=CA }:: Kanada | ::{ flag=RU }:: Rosja A |
-| [Katacheh Global Taiko Showdown 2019](/wiki/Tournaments/GTS/KGTS_2019) | 2019-09-28 | 2019-10-13 | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=ES }:: [Maitgon](https://osu.ppy.sh/users/4875451) |
+| [Katacheh Global Taiko Showdown 2019](/wiki/Tournaments/GTS/KGTS_2019) | 2019-09-28 | 2019-10-13 | ::{ flag=IT }:: ::Ikkun::{ user=1059945 } | ::{ flag=CA }:: ::janitoreihil::{ user=3307897 } | ::{ flag=ES }:: ::Maitgon::{ user=4875451 } |
 | [Continental Global Taiko Showdown 2019](/wiki/Tournaments/GTS/CGTS_2019) | 2019-11-02 | 2020-01-26 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Suiji Cup
@@ -218,70 +218,70 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [European Taiko Tournament 2018](/wiki/Tournaments/EUTT/2018) | 2018-11-03 | 2018-12-09 | ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655) | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) | ::{ flag=ES }:: [AlvaroYL](https://osu.ppy.sh/users/6333166) |
+| [European Taiko Tournament 2018](/wiki/Tournaments/EUTT/2018) | 2018-11-03 | 2018-12-09 | ::{ flag=GB }:: ::goheegy::{ user=8057655 } | ::{ flag=IT }:: ::Ikkun::{ user=1059945 } | ::{ flag=ES }:: ::AlvaroYL::{ user=6333166 } |
 
 ### ![](/wiki/shared/mode/taiko.png) Beginners' Taiko Tournament
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Beginners' Taiko Tournament | 2017-02-15 | 2017-04-26 | ::{ flag=US }:: [Swovine](https://osu.ppy.sh/users/6666316) | ::{ flag=US }:: [InsaneToe](https://osu.ppy.sh/users/6389252) | ::{ flag=CL }:: [Furioso](https://osu.ppy.sh/users/8588666) |
+| Beginners' Taiko Tournament | 2017-02-15 | 2017-04-26 | ::{ flag=US }:: ::Swovine::{ user=6666316 } | ::{ flag=US }:: ::InsaneToe::{ user=6389252 } | ::{ flag=CL }:: ::Furioso::{ user=8588666 } |
 | Beginners' Taiko Tournament Season 2 | 2017-05-04 | 2017-06-25 | Team Yiff | Midnight Demons | Ghostly Kangies |
-| Beginners' Taiko Tournament Season 3 | 2018-02-18 | 2018-04-22 | ::{ flag=US }:: [Trilt](https://osu.ppy.sh/users/9292128) | ::{ flag=PT }:: [Just2Gud](https://osu.ppy.sh/users/4430263) | ::{ flag=FI }:: [Mara](https://osu.ppy.sh/users/194294) |
-| [Beginners' Taiko Tournament 4](/wiki/Tournaments/BTT/4) | 2019-03-02 | 2019-04-13 | ::{ flag=HK }:: [shikuro\_re](https://osu.ppy.sh/users/9338943) | ::{ flag=PL }:: [\_demo](https://osu.ppy.sh/users/3556891) | ::{ flag=US }:: [LuriCookie](https://osu.ppy.sh/users/9517612) |
+| Beginners' Taiko Tournament Season 3 | 2018-02-18 | 2018-04-22 | ::{ flag=US }:: ::Trilt::{ user=9292128 } | ::{ flag=PT }:: ::Just2Gud::{ user=4430263 } | ::{ flag=FI }:: ::Mara::{ user=194294 } |
+| [Beginners' Taiko Tournament 4](/wiki/Tournaments/BTT/4) | 2019-03-02 | 2019-04-13 | ::{ flag=HK }:: ::shikuro\_re::{ user=9338943 } | ::{ flag=PL }:: ::\_demo::{ user=3556891 } | ::{ flag=US }:: ::LuriCookie::{ user=9517612 } |
 | [Beginners' Taiko Tournament 5](/wiki/Tournaments/BTT/5) | 2020-01-18 | 2020-03-08 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Coupe de Francja CTB | 2017-10-28 | 2017-12-16 | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) | ::{ flag=FR }:: [Alostis](https://osu.ppy.sh/users/2986875) | ::{ flag=FR }:: [Le grand casque](https://osu.ppy.sh/users/5490623) |
-| [Catch French Cup 2](/wiki/Tournaments/CFC/2018) | 2018-04-07 | 2018-05-06 | ::{ flag=FR }:: [Le grand casque](https://osu.ppy.sh/users/5490623) | ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239) | ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) |
-| [Catch French Cup 3](/wiki/Tournaments/CFC/3) | 2018-09-08 | 2018-10-20 | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) | ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623) |
-| [Catch French Intermediate Cup](/wiki/Tournaments/CFC/CFIC_1) | 2019-03-01 | 2019-03-31 | ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640) | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) | ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626) |
-| [Catch French Cup 4](/wiki/Tournaments/CFC/4) | 2019-03-30 | 2019-04-28 | ::{ flag=FR }:: [Alostis](https://osu.ppy.sh/users/2986875) | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| Coupe de Francja CTB | 2017-10-28 | 2017-12-16 | ::{ flag=FR }:: ::Noulayfe::{ user=4316542 } | ::{ flag=FR }:: ::Alostis::{ user=2986875 } | ::{ flag=FR }:: ::Le grand casque::{ user=5490623 } |
+| [Catch French Cup 2](/wiki/Tournaments/CFC/2018) | 2018-04-07 | 2018-05-06 | ::{ flag=FR }:: ::Le grand casque::{ user=5490623 } | ::{ flag=FR }:: ::Julo::{ user=4203239 } | ::{ flag=FR }:: ::Electr0o::{ user=9484428 } |
+| [Catch French Cup 3](/wiki/Tournaments/CFC/3) | 2018-09-08 | 2018-10-20 | ::{ flag=TN }:: ::-Ken::{ user=4430811 } | ::{ flag=FR }:: ::Noulayfe::{ user=4316542 } | ::{ flag=FR }:: ::Boros::{ user=5490623 } |
+| [Catch French Intermediate Cup](/wiki/Tournaments/CFC/CFIC_1) | 2019-03-01 | 2019-03-31 | ::{ flag=FR }:: ::Realmas::{ user=6567640 } | ::{ flag=FR }:: ::Yruama::{ user=8221467 } | ::{ flag=FR }:: ::Zard::{ user=6277626 } |
+| [Catch French Cup 4](/wiki/Tournaments/CFC/4) | 2019-03-30 | 2019-04-28 | ::{ flag=FR }:: ::Alostis::{ user=2986875 } | ::{ flag=TN }:: ::-Ken::{ user=4430811 } | ::{ flag=FR }:: ::Noulayfe::{ user=4316542 } |
 
 ### ![](/wiki/shared/mode/catch.png) Catch the Beat Indonesia Cup
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Catch the Beat Indonesia Tournament | 2012-04-28 | 2012-06-28 | ::{ flag=ID }:: [Rey-volution](https://osu.ppy.sh/users/883990) | ::{ flag=ID }:: [nirvashzero](https://osu.ppy.sh/users/1254373) | ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422) |
-| Catch the Beat Indonesia Cup 2013 | 2013-04-26 | 2013-06-18 | ::{ flag=ID }:: [\_Tokage\_](https://osu.ppy.sh/users/1595221) | ::{ flag=ID }:: [FakeShield21](https://osu.ppy.sh/users/1739225) | ::{ flag=ID }:: [El SolarBeam](https://osu.ppy.sh/users/1074710) |
-| Catch the Beat Indonesia Cup 2014 | 2014-06-02 | 2014-07-06 | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) | ::{ flag=ID }:: [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) | ::{ flag=ID }:: [Ex-Rei](https://osu.ppy.sh/users/1929336) |
-| Catch the Beat Indonesia Cup 2016 | 2016-07-15 | 2016-08-06 | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Time-](https://osu.ppy.sh/users/2917987) |
-| Catch the Beat Indonesia Cup 2017 | 2017-08-07 | 2017-09-10 | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) |
-| [Catch the Beat Indonesia Cup 2018](/wiki/Tournaments/CIC/2018) | 2018-07-28 | 2018-09-10 | ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988) | ::{ flag=ID }:: [Toka-](https://osu.ppy.sh/users/1595221) | ::{ flag=ID }:: [LeWind](https://osu.ppy.sh/users/9718235) |
+| Catch the Beat Indonesia Tournament | 2012-04-28 | 2012-06-28 | ::{ flag=ID }:: ::Rey-volution::{ user=883990 } | ::{ flag=ID }:: ::nirvashzero::{ user=1254373 } | ::{ flag=ID }:: ::Intel21::{ user=1272422 } |
+| Catch the Beat Indonesia Cup 2013 | 2013-04-26 | 2013-06-18 | ::{ flag=ID }:: ::\_Tokage\_::{ user=1595221 } | ::{ flag=ID }:: ::FakeShield21::{ user=1739225 } | ::{ flag=ID }:: ::El SolarBeam::{ user=1074710 } |
+| Catch the Beat Indonesia Cup 2014 | 2014-06-02 | 2014-07-06 | ::{ flag=ID }:: ::Deceitful::{ user=1396447 } | ::{ flag=ID }:: ::DodyJesayaSinaga98::{ user=1380645 } | ::{ flag=ID }:: ::Ex-Rei::{ user=1929336 } |
+| Catch the Beat Indonesia Cup 2016 | 2016-07-15 | 2016-08-06 | ::{ flag=ID }:: ::Deceitful::{ user=1396447 } | ::{ flag=ID }:: ::Galaxi::{ user=2552435 } | ::{ flag=ID }:: ::Time-::{ user=2917987 } |
+| Catch the Beat Indonesia Cup 2017 | 2017-08-07 | 2017-09-10 | ::{ flag=ID }:: ::Deceitful::{ user=1396447 } | ::{ flag=ID }:: ::Galaxi::{ user=2552435 } | ::{ flag=ID }:: ::dika312::{ user=741613 } |
+| [Catch the Beat Indonesia Cup 2018](/wiki/Tournaments/CIC/2018) | 2018-07-28 | 2018-09-10 | ::{ flag=ID }:: ::-Hex-::{ user=8630988 } | ::{ flag=ID }:: ::Toka-::{ user=1595221 } | ::{ flag=ID }:: ::LeWind::{ user=9718235 } |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch Convert Cup
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu!catch Convert Cup](/wiki/Tournaments/o!cCC/1) | 2019-09-21 | 2019-11-03 | ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210) | ::{ flag=IT }:: [Karym](https://osu.ppy.sh/users/5220794) | ::{ flag=CL }:: [NachoL](https://osu.ppy.sh/users/1250096) |
+| [osu!catch Convert Cup](/wiki/Tournaments/o!cCC/1) | 2019-09-21 | 2019-11-03 | ::{ flag=CN }:: ::Dusk::{ user=533210 } | ::{ flag=IT }:: ::Karym::{ user=5220794 } | ::{ flag=CL }:: ::NachoL::{ user=1250096 } |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 2017-06-24 | 2017-08-06 | ::{ flag=TW }:: [- Choma -](https://osu.ppy.sh/users/4469570) | ::{ flag=CN }:: [\[Crz\]MemoryI](https://osu.ppy.sh/users/8179131) | ::{ flag=CN }:: [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215) |
+| [Chinese osu!mania 4K Tournament 2017](/wiki/Tournaments/CMT_4K/2017) | 2017-06-24 | 2017-08-06 | ::{ flag=TW }:: ::- Choma -::{ user=4469570 } | ::{ flag=CN }:: ::\[Crz\]MemoryI::{ user=8179131 } | ::{ flag=CN }:: ::\[Crz\]ScSolAr::{ user=1591215 } |
 
 ### ![](/wiki/shared/mode/mania.png) Springtime osu!mania Free-for-all Tournament
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Springtime osu!mania Free-for-all Tournament | 2016-02-19 | 2016-05-01 | ::{ flag=KR }:: [Cobo-](https://osu.ppy.sh/users/1482965) | ::{ flag=CL }:: [Urusai](https://osu.ppy.sh/users/469808) | ::{ flag=FR }:: [bumpinho](https://osu.ppy.sh/users/1594604) |
-| Springtime osu!mania Free-for-all Tournament 2 | 2017-02-18 | 2017-04-30 | ::{ flag=KR }:: [cheetose](https://osu.ppy.sh/users/3817144) | ::{ flag=KR }:: [Cobo-](https://osu.ppy.sh/users/1482965) | ::{ flag=VN }:: [Asrielly](https://osu.ppy.sh/users/2656302) |
-| [Springtime osu!mania Free-for-all Tournament 3](/wiki/Tournaments/SOFT/3) | 2018-02-17 | 2018-04-29 | ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019) | ::{ flag=JP }:: [inteliser](https://osu.ppy.sh/users/1824775) | ::{ flag=US }:: [TheToaphster](https://osu.ppy.sh/users/7616811) |
+| Springtime osu!mania Free-for-all Tournament | 2016-02-19 | 2016-05-01 | ::{ flag=KR }:: ::Cobo-::{ user=1482965 } | ::{ flag=CL }:: ::Urusai::{ user=469808 } | ::{ flag=FR }:: ::bumpinho::{ user=1594604 } |
+| Springtime osu!mania Free-for-all Tournament 2 | 2017-02-18 | 2017-04-30 | ::{ flag=KR }:: ::cheetose::{ user=3817144 } | ::{ flag=KR }:: ::Cobo-::{ user=1482965 } | ::{ flag=VN }:: ::Asrielly::{ user=2656302 } |
+| [Springtime osu!mania Free-for-all Tournament 3](/wiki/Tournaments/SOFT/3) | 2018-02-17 | 2018-04-29 | ::{ flag=BR }:: ::Lothus::{ user=9530019 } | ::{ flag=JP }:: ::inteliser::{ user=1824775 } | ::{ flag=US }:: ::TheToaphster::{ user=7616811 } |
 
 ### ![](/wiki/shared/mode/mania.png) The Heptakey osu!mania Cup
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [The Heptakey osu!mania Cup #1](/wiki/Tournaments/THOM_CUP/1) | 2018-04-16 | 2018-07-15 | ::{ flag=ES }:: [aitor98](https://osu.ppy.sh/users/3154852) | ::{ flag=IT }:: [Yomiel](https://osu.ppy.sh/users/3461860) | ::{ flag=CL }:: [Skalim](https://osu.ppy.sh/users/2225008) |
+| [The Heptakey osu!mania Cup #1](/wiki/Tournaments/THOM_CUP/1) | 2018-04-16 | 2018-07-15 | ::{ flag=ES }:: ::aitor98::{ user=3154852 } | ::{ flag=IT }:: ::Yomiel::{ user=3461860 } | ::{ flag=CL }:: ::Skalim::{ user=2225008 } |
 
 ### ![](/wiki/shared/mode/mania.png) CJB osu!mania 4K Tournament
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB_4K/2018) | 2018-07-02 | 2018-08-14 | ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397) | ::{ flag=CN }:: [Toki 0w0](https://osu.ppy.sh/users/10392201) | ::{ flag=CN }:: [Skyshifter](https://osu.ppy.sh/users/10572577) |
+| [The 4th CJB osu!mania 4K Tournament](/wiki/Tournaments/CJB_4K/2018) | 2018-07-02 | 2018-08-14 | ::{ flag=CN }:: ::Crystal::{ user=1646397 } | ::{ flag=CN }:: ::Toki 0w0::{ user=10392201 } | ::{ flag=CN }:: ::Skyshifter::{ user=10572577 } |
 
 ### ![](/wiki/shared/mode/mania.png) :thonking: Mania Tournament
 
@@ -294,48 +294,48 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| osu!mania Philippines 4K Summer Tournament 2016 | 2016-04-23 | 2016-05-28 | ::{ flag=PH }:: [Tokiiwa](https://osu.ppy.sh/users/4029511) | ::{ flag=PH }:: [Muttsulinii](https://osu.ppy.sh/users/4345491) | ::{ flag=AU }:: [scissorsf](https://osu.ppy.sh/users/6378800) |
-| osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ::{ flag=PH }:: [Niro-](https://osu.ppy.sh/users/6443899)(osu!mania 4K), ::{ flag=PH }:: [Dadots](https://osu.ppy.sh/users/3525251)(osu!mania 7K) | ::{ flag=AU }:: [scissorsf](https://osu.ppy.sh/users/6378800)(osu!mania 4K), ::{ flag=PH }:: [JztCallMeRon](https://osu.ppy.sh/users/2471512)(osu!mania 7K) | ::{ flag=PH }:: [Jsee](https://osu.ppy.sh/users/6573652)(osu!mania 4K), ::{ flag=PH }:: [SanniSanni](https://osu.ppy.sh/users/3036686)(osu!mania 7K) |
-| [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018) | 2018-04-14 | 2018-06-17 | ::{ flag=CA }:: [Dunois](https://osu.ppy.sh/users/4581715)(osu!), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103)(osu!catch), ::{ flag=PH }:: [joseee-](https://osu.ppy.sh/users/10083439)(osu!mania 4K), ::{ flag=PH }:: [cieloday05](https://osu.ppy.sh/users/2722489)(osu!mania 7K) | ::{ flag=PH }:: [-Marika](https://osu.ppy.sh/users/2199427)(osu!), ::{ flag=PH }:: [-Nicotine](https://osu.ppy.sh/users/4818935)(osu!catch), ::{ flag=PH }:: [exodia3000](https://osu.ppy.sh/users/10500797)(osu!mania 4K), ::{ flag=PH }:: [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(osu!mania 7K) | ::{ flag=PH }:: [Varsagus](https://osu.ppy.sh/users/3885723)(osu!), ::{ flag=PH }:: [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(osu!), ::{ flag=PH }:: [KaganimeRin](https://osu.ppy.sh/users/1626093)(osu!catch), ::{ flag=PH }:: [Vigne Tsukinose](https://osu.ppy.sh/users/9793187)(osu!mania 4K), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936)(osu!mania 7K) |
+| osu!mania Philippines 4K Summer Tournament 2016 | 2016-04-23 | 2016-05-28 | ::{ flag=PH }:: ::Tokiiwa::{ user=4029511 } | ::{ flag=PH }:: ::Muttsulinii::{ user=4345491 } | ::{ flag=AU }:: ::scissorsf::{ user=6378800 } |
+| osu!mania Philippines Summer Tournament 2017 | 2017-05-06 | 2017-06-25 | ::{ flag=PH }:: ::Niro-::{ user=6443899 }(osu!mania 4K), ::{ flag=PH }:: ::Dadots::{ user=3525251 }(osu!mania 7K) | ::{ flag=AU }:: ::scissorsf::{ user=6378800 }(osu!mania 4K), ::{ flag=PH }:: ::JztCallMeRon::{ user=2471512 }(osu!mania 7K) | ::{ flag=PH }:: ::Jsee::{ user=6573652 }(osu!mania 4K), ::{ flag=PH }:: ::SanniSanni::{ user=3036686 }(osu!mania 7K) |
+| [osu!Philippines Summer Tournament 2018](/wiki/Tournaments/oPHST/2018) | 2018-04-14 | 2018-06-17 | ::{ flag=CA }:: ::Dunois::{ user=4581715 }(osu!), ::{ flag=PH }:: ::Roido::{ user=6829103 }(osu!catch), ::{ flag=PH }:: ::joseee-::{ user=10083439 }(osu!mania 4K), ::{ flag=PH }:: ::cieloday05::{ user=2722489 }(osu!mania 7K) | ::{ flag=PH }:: ::-Marika::{ user=2199427 }(osu!), ::{ flag=PH }:: ::-Nicotine::{ user=4818935 }(osu!catch), ::{ flag=PH }:: ::exodia3000::{ user=10500797 }(osu!mania 4K), ::{ flag=PH }:: ::Vigne Tsukinose::{ user=9793187 }(osu!mania 7K) | ::{ flag=PH }:: ::Varsagus::{ user=3885723 }(osu!), ::{ flag=PH }:: ::TyrantsEye2014::{ user=4530738 }(osu!), ::{ flag=PH }:: ::KaganimeRin::{ user=1626093 }(osu!catch), ::{ flag=PH }:: ::Vigne Tsukinose::{ user=9793187 }(osu!mania 4K), ::{ flag=PH }:: ::MapleSyrup-::{ user=1192936 }(osu!mania 7K) |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania LN Tournament
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu!mania LN Tournament](/wiki/Tournaments/o!mLN/1) | 2019-03-23 | 2019-05-04 | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) | ::{ flag=GB }:: [Amascite](https://osu.ppy.sh/users/3359035) |
+| [osu!mania LN Tournament](/wiki/Tournaments/o!mLN/1) | 2019-03-23 | 2019-05-04 | ::{ flag=KR }:: ::wonder5193::{ user=8474029 } | ::{ flag=ID }:: ::\[Crz\]Crysarlene::{ user=5492871 } | ::{ flag=GB }:: ::Amascite::{ user=3359035 } |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/mania.png) DeltaMax's Tournaments
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| DeltaMax's Champ Division 2018 | 2018-04-07 | 2018-05-12 | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027) | ::{ flag=CA }:: [peng](https://osu.ppy.sh/users/6043452) | ::{ flag=JP }:: [katatakatata](https://osu.ppy.sh/users/3540294) |
-| [DeltaMax's Taiko Oni Overlord](/wiki/Tournaments/DMX/2) | 2018-07-14 | 2018-08-25 | ::{ flag=BR }:: [Foxerus](https://osu.ppy.sh/users/7479684) | ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621) | ::{ flag=MX }:: [Ammy](https://osu.ppy.sh/users/4183406) |
-| [DeltaMax's Mania Key Smasher](/wiki/Tournaments/DMX/3) | 2018-11-03 | 2019-01-12 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=GB }:: [xSnaggles](https://osu.ppy.sh/users/3799946) | ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
+| DeltaMax's Champ Division 2018 | 2018-04-07 | 2018-05-12 | ::{ flag=PL }:: ::Bartek22830::{ user=6404027 } | ::{ flag=CA }:: ::peng::{ user=6043452 } | ::{ flag=JP }:: ::katatakatata::{ user=3540294 } |
+| [DeltaMax's Taiko Oni Overlord](/wiki/Tournaments/DMX/2) | 2018-07-14 | 2018-08-25 | ::{ flag=BR }:: ::Foxerus::{ user=7479684 } | ::{ flag=MY }:: ::cdhsausageboy::{ user=2403621 } | ::{ flag=MX }:: ::Ammy::{ user=4183406 } |
+| [DeltaMax's Mania Key Smasher](/wiki/Tournaments/DMX/3) | 2018-11-03 | 2019-01-12 | ::{ flag=MY }:: ::cheewee10::{ user=4477497 } | ::{ flag=GB }:: ::xSnaggles::{ user=3799946 } | ::{ flag=PL }:: ::SitekX::{ user=3840946 } |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Holiday Friendlies 2018
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu!Philippines Holiday Friendlies 2018](/wiki/Tournaments/oPHF/2018) | 2018-11-03 | 2018-12-16 | ::{ flag=KR }:: [Stereo](https://osu.ppy.sh/users/1499137)(osu!), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742)(osu!taiko), ::{ flag=PH }:: [- Kielzu -](https://osu.ppy.sh/users/6221114)(osu!catch), ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550)(osu!mania 4K), ::{ flag=PH }:: [Nikana](https://osu.ppy.sh/users/4345491)(osu!mania 7K) | ::{ flag=PH }:: [TyrantsEye2014](https://osu.ppy.sh/users/4530738)(osu!), ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514)(osu!taiko), ::{ flag=PH }:: [KaganimeRin](https://osu.ppy.sh/users/1626093)(osu!catch), ::{ flag=PH }:: [Baltz](https://osu.ppy.sh/users/6083463)(osu!mania 4K), ::{ flag=PH }:: [fer789](https://osu.ppy.sh/users/8901267)(osu!mania 7K) | ::{ flag=PH }:: [ededed028](https://osu.ppy.sh/users/3932796)(osu!), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995)(osu!), ::{ flag=PH }:: [yuki\_momoiro722](https://osu.ppy.sh/users/7186791)(osu!taiko), ::{ flag=PH }:: [Crowley](https://osu.ppy.sh/users/6341006)(osu!catch), ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607)(osu!mania 4K), ::{ flag=PH }:: [Cielo Day](https://osu.ppy.sh/users/2722489)(osu!mania 7K) |
+| [osu!Philippines Holiday Friendlies 2018](/wiki/Tournaments/oPHF/2018) | 2018-11-03 | 2018-12-16 | ::{ flag=KR }:: ::Stereo::{ user=1499137 }(osu!), ::{ flag=PH }:: ::Pochacco::{ user=2927742 }(osu!taiko), ::{ flag=PH }:: ::- Kielzu -::{ user=6221114 }(osu!catch), ::{ flag=PH }:: ::arge-::{ user=9919550 }(osu!mania 4K), ::{ flag=PH }:: ::Nikana::{ user=4345491 }(osu!mania 7K) | ::{ flag=PH }:: ::TyrantsEye2014::{ user=4530738 }(osu!), ::{ flag=PH }:: ::Rimazii::{ user=3831514 }(osu!taiko), ::{ flag=PH }:: ::KaganimeRin::{ user=1626093 }(osu!catch), ::{ flag=PH }:: ::Baltz::{ user=6083463 }(osu!mania 4K), ::{ flag=PH }:: ::fer789::{ user=8901267 }(osu!mania 7K) | ::{ flag=PH }:: ::ededed028::{ user=3932796 }(osu!), ::{ flag=PH }:: ::zonelouise::{ user=1492995 }(osu!), ::{ flag=PH }:: ::yuki\_momoiro722::{ user=7186791 }(osu!taiko), ::{ flag=PH }:: ::Crowley::{ user=6341006 }(osu!catch), ::{ flag=PH }:: ::Shiyui-::{ user=9374607 }(osu!mania 4K), ::{ flag=PH }:: ::Cielo Day::{ user=2722489 }(osu!mania 7K) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Most Amazing LAN Ever](/wiki/Tournaments/osu!_Riverside/MALE) | 2019-01-27 | 2019-01-27 | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ::{ flag=US }:: [Zushen](https://osu.ppy.sh/users/2106316) (osu!mania) | ::{ flag=US }:: [Darin on osu](https://osu.ppy.sh/users/4839876) (osu!), ::{ flag=US }:: [Ecal](https://osu.ppy.sh/users/8384260) (osu!mania) | ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459) (osu!), ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+| [Most Amazing LAN Ever](/wiki/Tournaments/osu!_Riverside/MALE) | 2019-01-27 | 2019-01-27 | ::{ flag=US }:: ::Mathyu::{ user=6303313 } (osu!), ::{ flag=US }:: ::Zushen::{ user=2106316 } (osu!mania) | ::{ flag=US }:: ::Darin on osu::{ user=4839876 } (osu!), ::{ flag=US }:: ::Ecal::{ user=8384260 } (osu!mania) | ::{ flag=US }:: ::Kenny::{ user=1225459 } (osu!), ::{ flag=US }:: ::Ouchiee::{ user=6310052 } (osu!mania) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/taiko.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu! Multi Mode French Fiesta
 
 | Nazwa | Data rozpoczęcia | Data zakończenia | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-23 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)(osu!), ::{ flag=FR }:: [TimmyAkmed](https://osu.ppy.sh/users/1799973)(osu!taiko), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811)(osu!catch), ::{ flag=FR }:: [Azubeur](https://osu.ppy.sh/users/1594604)(osu!mania) | ::{ flag=FR }:: [NerO](https://osu.ppy.sh/users/1545031)(osu!), ::{ flag=FR }:: [Romainnoda](https://osu.ppy.sh/users/8814218)(osu!taiko), ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623)(osu!catch), ::{ flag=FR }:: [PatouZ](https://osu.ppy.sh/users/7306522)(osu!mania) | ::{ flag=FR }:: [Flaven](https://osu.ppy.sh/users/3213239)(osu!), ::{ flag=FR }:: [Yona la loutre](https://osu.ppy.sh/users/7930622)(osu!taiko), ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542)(osu!catch), ::{ flag=FR }:: [DemonWaves](https://osu.ppy.sh/users/3909293)(osu!mania) |
+| [osu! Multi Mode French Fiesta](/wiki/Tournaments/oMMFF/1) | 2018-12-15 | 2019-02-23 | ::{ flag=FR }:: ::ThePooN::{ user=718454 }(osu!), ::{ flag=FR }:: ::TimmyAkmed::{ user=1799973 }(osu!taiko), ::{ flag=TN }:: ::-Ken::{ user=4430811 }(osu!catch), ::{ flag=FR }:: ::Azubeur::{ user=1594604 }(osu!mania) | ::{ flag=FR }:: ::NerO::{ user=1545031 }(osu!), ::{ flag=FR }:: ::Romainnoda::{ user=8814218 }(osu!taiko), ::{ flag=FR }:: ::Boros::{ user=5490623 }(osu!catch), ::{ flag=FR }:: ::PatouZ::{ user=7306522 }(osu!mania) | ::{ flag=FR }:: ::Flaven::{ user=3213239 }(osu!), ::{ flag=FR }:: ::Yona la loutre::{ user=7930622 }(osu!taiko), ::{ flag=FR }:: ::Noulayfe::{ user=4316542 }(osu!catch), ::{ flag=FR }:: ::DemonWaves::{ user=3909293 }(osu!mania) |
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) osu! UCI
 
 | Nazwa | Data | ![Złota korona](/wiki/shared/crown-gold.png "1. miejsce") | ![Srebrna korona](/wiki/shared/crown-silver.png "2. miejsce") | ![Brązowa korona](/wiki/shared/crown-bronze.png "3. miejsce") |
 | :-- | :-- | :-- | :-- | :-- |
-| [The iDOL@NSTER: Irvine Spring Stage](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ::{ flag=US }:: [death grips](https://osu.ppy.sh/users/4829231) (osu!), ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
-| [Night Fall LAN](osu!_UCI/NFL) | 2020-01-18 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) (osu!), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) (osu!mania) | ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013) (osu!), ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ::{ flag=CA }:: [Dark lord bob](https://osu.ppy.sh/users/4588299) (osu!mania) |
+| [The iDOL@NSTER: Irvine Spring Stage](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ::{ flag=US }:: ::fieryrage::{ user=3533958 } (osu!), ::{ flag=US }:: ::Crescendo PiaNo::{ user=8798383 } (osu!mania) | ::{ flag=US }:: ::Mathyu::{ user=6303313 } (osu!), ::{ flag=US }:: ::Trainer-::{ user=9331760 } (osu!mania) | ::{ flag=US }:: ::death grips::{ user=4829231 } (osu!), ::{ flag=US }:: ::Ouchiee::{ user=6310052 } (osu!mania) |
+| [Night Fall LAN](osu!_UCI/NFL) | 2020-01-18 | ::{ flag=US }:: ::Vaxei::{ user=4787150 } (osu!), ::{ flag=US }:: ::-mint-::{ user=8976576 } (osu!mania) | ::{ flag=US }:: ::Monko2k::{ user=4852013 } (osu!), ::{ flag=US }:: ::Crescendo PiaNo::{ user=8798383 } (osu!mania) | ::{ flag=US }:: ::fieryrage::{ user=3533958 } (osu!), ::{ flag=CA }:: ::Dark lord bob::{ user=4588299 } (osu!mania) |
 
 ## Zobacz także
 

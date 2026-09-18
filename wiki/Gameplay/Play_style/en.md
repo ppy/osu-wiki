@@ -21,7 +21,7 @@ The key overlay shows left/right click as `M1` and `M2`.
 
 Dual mouse is a play style in which a player has a mouse in each hand; using one mouse to tap and another mouse to move the in-game cursor.
 
-The play style used to be considered a joke play style to most players until May 2013 when Canadian player ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) starting getting top scores on highly-respected maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) whilst playing with two mice.
+The play style used to be considered a joke play style to most players until May 2013 when Canadian player ::{ flag=CA }:: ::Azer::{ user=2155578 } starting getting top scores on highly-respected maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) whilst playing with two mice.
 
 ::: alert-notice
 **Notice**

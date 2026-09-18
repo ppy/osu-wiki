@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2017 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: [Hudda](https://osu.ppy.sh/users/4103629), ::{ flag=DK }:: [Crylizhy](https://osu.ppy.sh/users/3023138), and ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469). It was the third instalment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elimination osu! tournament hosted by ::{ flag=DK }:: ::Hudda::{ user=4103629 }, ::{ flag=DK }:: ::Crylizhy::{ user=3023138 }, and ::{ flag=DK }:: ::Spork Lover::{ user=3417469 }. It was the third instalment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -39,13 +39,13 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=DK }:: [Crylizhy](https://osu.ppy.sh/users/3023138), ::{ flag=DK }:: [Hudda](https://osu.ppy.sh/users/4103629), ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469), ::{ flag=DK }:: [TimG](https://osu.ppy.sh/users/1879963) |
-| Mappool selector | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469), ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366), ::{ flag=DK }:: [Lemmen](https://osu.ppy.sh/users/6090254) |
-| Referee | ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653), ::{ flag=DK }:: [-Gabby-](https://osu.ppy.sh/users/3727470), ::{ flag=DK }:: [Hudda](https://osu.ppy.sh/users/4103629), ::{ flag=DK }:: [Lemmen](https://osu.ppy.sh/users/6090254), ::{ flag=DK }:: [Asymmetry Echo](https://osu.ppy.sh/users/4290324), ::{ flag=DK }:: [Crylizhy](https://osu.ppy.sh/users/3023138), ::{ flag=DK }:: [TimG](https://osu.ppy.sh/users/1879963), ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380), ::{ flag=DK }:: [New Username](https://osu.ppy.sh/users/4745206), ::{ flag=DK }:: [\[ Pennek \]](https://osu.ppy.sh/users/3723742) |
-| Streamer | ::{ flag=DK }:: [Hudda](https://osu.ppy.sh/users/4103629), ::{ flag=DK }:: [Contaminate](https://osu.ppy.sh/users/4694589), ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380), ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653), ::{ flag=DK }:: [John Cena](https://osu.ppy.sh/users/2958963) |
-| Commentator | ::{ flag=DK }:: [Lemmen](https://osu.ppy.sh/users/6090254), ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380), ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469), ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653), ::{ flag=SE }:: [Velo](https://osu.ppy.sh/users/6245307), ::{ flag=DK }:: [Flyville](https://osu.ppy.sh/users/6124808), ::{ flag=DK }:: [John Cena](https://osu.ppy.sh/users/2958963) |
-| Designer | ::{ flag=DK }:: [Hudda](https://osu.ppy.sh/users/4103629), ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3417469), ::{ flag=US }:: [BearZyo](https://osu.ppy.sh/users/6116759) |
-| Donator | ::{ flag=DK }:: [MASQQ](https://osu.ppy.sh/users/5351497), ::{ flag=DK }:: [\_Adolfin\_](https://osu.ppy.sh/users/6735707) |
+| Manager | ::{ flag=DK }:: ::Crylizhy::{ user=3023138 }, ::{ flag=DK }:: ::Hudda::{ user=4103629 }, ::{ flag=DK }:: ::Spork Lover::{ user=3417469 }, ::{ flag=DK }:: ::TimG::{ user=1879963 } |
+| Mappool selector | ::{ flag=US }:: ::pishifat::{ user=3178418 }, ::{ flag=DK }:: ::Spork Lover::{ user=3417469 }, ::{ flag=DK }:: ::-Tochi::{ user=3664366 }, ::{ flag=DK }:: ::Lemmen::{ user=6090254 } |
+| Referee | ::{ flag=DK }:: ::waefwerf::{ user=3868653 }, ::{ flag=DK }:: ::-Gabby-::{ user=3727470 }, ::{ flag=DK }:: ::Hudda::{ user=4103629 }, ::{ flag=DK }:: ::Lemmen::{ user=6090254 }, ::{ flag=DK }:: ::Asymmetry Echo::{ user=4290324 }, ::{ flag=DK }:: ::Crylizhy::{ user=3023138 }, ::{ flag=DK }:: ::TimG::{ user=1879963 }, ::{ flag=DK }:: ::iamVill::{ user=6295380 }, ::{ flag=DK }:: ::New Username::{ user=4745206 }, ::{ flag=DK }:: ::\[ Pennek \]::{ user=3723742 } |
+| Streamer | ::{ flag=DK }:: ::Hudda::{ user=4103629 }, ::{ flag=DK }:: ::Contaminate::{ user=4694589 }, ::{ flag=DK }:: ::iamVill::{ user=6295380 }, ::{ flag=DK }:: ::waefwerf::{ user=3868653 }, ::{ flag=DK }:: ::John Cena::{ user=2958963 } |
+| Commentator | ::{ flag=DK }:: ::Lemmen::{ user=6090254 }, ::{ flag=DK }:: ::iamVill::{ user=6295380 }, ::{ flag=DK }:: ::Spork Lover::{ user=3417469 }, ::{ flag=DK }:: ::waefwerf::{ user=3868653 }, ::{ flag=SE }:: ::Velo::{ user=6245307 }, ::{ flag=DK }:: ::Flyville::{ user=6124808 }, ::{ flag=DK }:: ::John Cena::{ user=2958963 } |
+| Designer | ::{ flag=DK }:: ::Hudda::{ user=4103629 }, ::{ flag=DK }:: ::-Tochi::{ user=3417469 }, ::{ flag=US }:: ::BearZyo::{ user=6116759 } |
+| Donator | ::{ flag=DK }:: ::MASQQ::{ user=5351497 }, ::{ flag=DK }:: ::\_Adolfin\_::{ user=6735707 } |
 
 ## Links
 
@@ -57,23 +57,23 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=DK }:: [Zog](https://osu.ppy.sh/users/3722715), ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380), ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754), ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653), ::{ flag=DK }:: [Hudda](https://osu.ppy.sh/users/4103629), ::{ flag=DK }:: [Emub](https://osu.ppy.sh/users/4337359), ::{ flag=DK }:: [Zakura](https://osu.ppy.sh/users/3053599), ::{ flag=DK }:: [raser1234](https://osu.ppy.sh/users/2527887) |
-| High | ::{ flag=DK }:: [teamplayer51](https://osu.ppy.sh/users/3084508), ::{ flag=DK }:: [Kazutakee](https://osu.ppy.sh/users/2637514), ::{ flag=DK }:: [LeDoodeNiginz](https://osu.ppy.sh/users/5778925), ::{ flag=DK }:: [Crylizhy](https://osu.ppy.sh/users/3023138), ::{ flag=DK }:: [Kawatta](https://osu.ppy.sh/users/3731880), ::{ flag=DK }:: [Asymmetry Echo](https://osu.ppy.sh/users/4290324), ::{ flag=DK }:: [-Gabby-](https://osu.ppy.sh/users/3727470), ::{ flag=DK }:: [StevenDANK](https://osu.ppy.sh/users/1729766) |
-| Low | ::{ flag=DK }:: [Xanoxe](https://osu.ppy.sh/users/7060592), ::{ flag=DK }:: [Contaminate](https://osu.ppy.sh/users/4694589), ::{ flag=DK }:: [TimG](https://osu.ppy.sh/users/1879963), ::{ flag=DK }:: [ZcortezZ](https://osu.ppy.sh/users/2228245), ::{ flag=DK }:: [dobo-chan](https://osu.ppy.sh/users/4019641), ::{ flag=DK }:: [\[ Pennek \]](https://osu.ppy.sh/users/3723742), ::{ flag=DK }:: [Gudafild](https://osu.ppy.sh/users/5358569), ::{ flag=DK }:: [Hestai](https://osu.ppy.sh/users/4622337) |
-| Bottom | ::{ flag=DK }:: [HoarseFish](https://osu.ppy.sh/users/6344368), ::{ flag=DK }:: [Arild](https://osu.ppy.sh/users/3089925), ::{ flag=DK }:: [LedoodeNiss](https://osu.ppy.sh/users/7345263), ::{ flag=DK }:: [\_Adolfin\_](https://osu.ppy.sh/users/6735707), ::{ flag=DK }:: [seb2110](https://osu.ppy.sh/users/5323224), ::{ flag=DK }:: [Power Supply](https://osu.ppy.sh/users/7091513), ::{ flag=DK }:: [TheFancyPikachu](https://osu.ppy.sh/users/1946377), ::{ flag=DK }:: [DragonsDungeon](https://osu.ppy.sh/users/4134819) |
+| Top | ::{ flag=DK }:: ::Zog::{ user=3722715 }, ::{ flag=DK }:: ::iamVill::{ user=6295380 }, ::{ flag=DK }:: ::Vandabe::{ user=7050754 }, ::{ flag=DK }:: ::waefwerf::{ user=3868653 }, ::{ flag=DK }:: ::Hudda::{ user=4103629 }, ::{ flag=DK }:: ::Emub::{ user=4337359 }, ::{ flag=DK }:: ::Zakura::{ user=3053599 }, ::{ flag=DK }:: ::raser1234::{ user=2527887 } |
+| High | ::{ flag=DK }:: ::teamplayer51::{ user=3084508 }, ::{ flag=DK }:: ::Kazutakee::{ user=2637514 }, ::{ flag=DK }:: ::LeDoodeNiginz::{ user=5778925 }, ::{ flag=DK }:: ::Crylizhy::{ user=3023138 }, ::{ flag=DK }:: ::Kawatta::{ user=3731880 }, ::{ flag=DK }:: ::Asymmetry Echo::{ user=4290324 }, ::{ flag=DK }:: ::-Gabby-::{ user=3727470 }, ::{ flag=DK }:: ::StevenDANK::{ user=1729766 } |
+| Low | ::{ flag=DK }:: ::Xanoxe::{ user=7060592 }, ::{ flag=DK }:: ::Contaminate::{ user=4694589 }, ::{ flag=DK }:: ::TimG::{ user=1879963 }, ::{ flag=DK }:: ::ZcortezZ::{ user=2228245 }, ::{ flag=DK }:: ::dobo-chan::{ user=4019641 }, ::{ flag=DK }:: ::\[ Pennek \]::{ user=3723742 }, ::{ flag=DK }:: ::Gudafild::{ user=5358569 }, ::{ flag=DK }:: ::Hestai::{ user=4622337 } |
+| Bottom | ::{ flag=DK }:: ::HoarseFish::{ user=6344368 }, ::{ flag=DK }:: ::Arild::{ user=3089925 }, ::{ flag=DK }:: ::LedoodeNiss::{ user=7345263 }, ::{ flag=DK }:: ::\_Adolfin\_::{ user=6735707 }, ::{ flag=DK }:: ::seb2110::{ user=5323224 }, ::{ flag=DK }:: ::Power Supply::{ user=7091513 }, ::{ flag=DK }:: ::TheFancyPikachu::{ user=1946377 }, ::{ flag=DK }:: ::DragonsDungeon::{ user=4134819 } |
 
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Bottom seed |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=DK }:: [Emub](https://osu.ppy.sh/users/4337359) | ::{ flag=DK }:: [Kawatta](https://osu.ppy.sh/users/3731880) | ::{ flag=DK }:: [\[ Pennek \]](https://osu.ppy.sh/users/3723742) | ::{ flag=DK }:: [\_Adolfin\_](https://osu.ppy.sh/users/6735707) |
-| **B** | ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653) | ::{ flag=DK }:: [Kazutakee](https://osu.ppy.sh/users/2637514) | ::{ flag=DK }:: [Xanoxe](https://osu.ppy.sh/users/7060592) | ::{ flag=DK }:: [seb2110](https://osu.ppy.sh/users/5323224) |
-| **C** | ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380) | ::{ flag=DK }:: [teamplayer51](https://osu.ppy.sh/users/3084508) | ::{ flag=DK }:: [Hestai](https://osu.ppy.sh/users/4622337) | ::{ flag=DK }:: [LedoodeNiss](https://osu.ppy.sh/users/7345263) |
-| **D** | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) | ::{ flag=DK }:: [Asymmetry Echo](https://osu.ppy.sh/users/4290324) | ::{ flag=DK }:: [ZcortezZ](https://osu.ppy.sh/users/2228245) | ::{ flag=DK }:: [TheFancyPikachu](https://osu.ppy.sh/users/1946377) |
-| **E** | ::{ flag=DK }:: [Zog](https://osu.ppy.sh/users/3722715) | ::{ flag=DK }:: [Crylizhy](https://osu.ppy.sh/users/3023138) | ::{ flag=DK }:: [Contaminate](https://osu.ppy.sh/users/4694589) | ::{ flag=DK }:: [DragonsDungeon](https://osu.ppy.sh/users/4134819) |
-| **F** | ::{ flag=DK }:: [Zakura](https://osu.ppy.sh/users/3053599) | ::{ flag=DK }:: [LeDoodeNiginz](https://osu.ppy.sh/users/5778925) | ::{ flag=DK }:: [TimG](https://osu.ppy.sh/users/1879963) | ::{ flag=DK }:: [Arild](https://osu.ppy.sh/users/3089925) |
-| **G** | ::{ flag=DK }:: [Hudda](https://osu.ppy.sh/users/4103629) | ::{ flag=DK }:: [StevenDANK](https://osu.ppy.sh/users/1729766) | ::{ flag=DK }:: [Gudafild](https://osu.ppy.sh/users/5358569) | ::{ flag=DK }:: [HoarseFish](https://osu.ppy.sh/users/4361285) |
-| **H** | ::{ flag=DK }:: [raser1234](https://osu.ppy.sh/users/6344368) | ::{ flag=DK }:: [-Gabby-](https://osu.ppy.sh/users/3727470) | ::{ flag=DK }:: [dobo-chan](https://osu.ppy.sh/users/4019641) | ::{ flag=DK }:: [Power Supply](https://osu.ppy.sh/users/7091513) |
+| **A** | ::{ flag=DK }:: ::Emub::{ user=4337359 } | ::{ flag=DK }:: ::Kawatta::{ user=3731880 } | ::{ flag=DK }:: ::\[ Pennek \]::{ user=3723742 } | ::{ flag=DK }:: ::\_Adolfin\_::{ user=6735707 } |
+| **B** | ::{ flag=DK }:: ::waefwerf::{ user=3868653 } | ::{ flag=DK }:: ::Kazutakee::{ user=2637514 } | ::{ flag=DK }:: ::Xanoxe::{ user=7060592 } | ::{ flag=DK }:: ::seb2110::{ user=5323224 } |
+| **C** | ::{ flag=DK }:: ::iamVill::{ user=6295380 } | ::{ flag=DK }:: ::teamplayer51::{ user=3084508 } | ::{ flag=DK }:: ::Hestai::{ user=4622337 } | ::{ flag=DK }:: ::LedoodeNiss::{ user=7345263 } |
+| **D** | ::{ flag=DK }:: ::Vandabe::{ user=7050754 } | ::{ flag=DK }:: ::Asymmetry Echo::{ user=4290324 } | ::{ flag=DK }:: ::ZcortezZ::{ user=2228245 } | ::{ flag=DK }:: ::TheFancyPikachu::{ user=1946377 } |
+| **E** | ::{ flag=DK }:: ::Zog::{ user=3722715 } | ::{ flag=DK }:: ::Crylizhy::{ user=3023138 } | ::{ flag=DK }:: ::Contaminate::{ user=4694589 } | ::{ flag=DK }:: ::DragonsDungeon::{ user=4134819 } |
+| **F** | ::{ flag=DK }:: ::Zakura::{ user=3053599 } | ::{ flag=DK }:: ::LeDoodeNiginz::{ user=5778925 } | ::{ flag=DK }:: ::TimG::{ user=1879963 } | ::{ flag=DK }:: ::Arild::{ user=3089925 } |
+| **G** | ::{ flag=DK }:: ::Hudda::{ user=4103629 } | ::{ flag=DK }:: ::StevenDANK::{ user=1729766 } | ::{ flag=DK }:: ::Gudafild::{ user=5358569 } | ::{ flag=DK }:: ::HoarseFish::{ user=4361285 } |
+| **H** | ::{ flag=DK }:: ::raser1234::{ user=6344368 } | ::{ flag=DK }:: ::-Gabby-::{ user=3727470 } | ::{ flag=DK }:: ::dobo-chan::{ user=4019641 } | ::{ flag=DK }:: ::Power Supply::{ user=7091513 } |
 
 ## Podium
 
@@ -81,10 +81,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: [raser1234](https://osu.ppy.sh/users/2527887) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: [waefwerf](https://osu.ppy.sh/users/3868653) |
-| *4th place* | ::{ flag=DK }:: [teamplayer51](https://osu.ppy.sh/users/3084508) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=DK }:: ::raser1234::{ user=2527887 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DK }:: ::iamVill::{ user=6295380 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DK }:: ::waefwerf::{ user=3868653 } |
+| *4th place* | ::{ flag=DK }:: ::teamplayer51::{ user=3084508 } |
 
 ## Mappools
 

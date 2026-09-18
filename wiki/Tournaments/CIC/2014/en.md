@@ -6,7 +6,7 @@ tags:
 
 # Catch the Beat Indonesia Cup 2014
 
-The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) was an Indonesian 4-players osu!catch tournament hosted by ::{ flag=ID }:: [urs4chan](https://osu.ppy.sh/users/321063). It was the third instalment of the Catch the Beat Indonesia Cup.
+The **Catch the Beat Indonesia Cup 2014** (***CIC 2014***) was an Indonesian 4-players osu!catch tournament hosted by ::{ flag=ID }:: ::urs4chan::{ user=321063 }. It was the third instalment of the Catch the Beat Indonesia Cup.
 
 ## Tournament schedule
 
@@ -37,13 +37,13 @@ The Catch the Beat Indonesia Cup 2014 was run by various Indonesian osu!catch co
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=ID }:: [Ableh](https://osu.ppy.sh/users/917216), ::{ flag=ID }:: [ursa](https://osu.ppy.sh/users/321063), ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Toka-](https://osu.ppy.sh/users/1595221) |
-| Schedule organizer | ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: Nakata, ::{ flag=ID }:: [THS](https://osu.ppy.sh/users/1218514) |
-| Referee | ::{ flag=ID }:: [wendao2000](https://osu.ppy.sh/users/1843939), ::{ flag=ID }:: [Rey-volution](https://osu.ppy.sh/users/883990), ::{ flag=ID }:: [Xinely](https://osu.ppy.sh/users/1521445), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [nya10](https://osu.ppy.sh/users/678794), ::{ flag=ID }:: Nakata |
-| Mappool selector | ::{ flag=ID }:: [Nazalion](https://osu.ppy.sh/users/2272165), ::{ flag=ID }:: [THS](https://osu.ppy.sh/users/1218514), ::{ flag=ID }:: [Toka-](https://osu.ppy.sh/users/1595221) |
-| Screenshot database | ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [- Ruu -](https://osu.ppy.sh/users/3811821), ::{ flag=ID }:: [AllRiseSilver](https://osu.ppy.sh/users/2212857) |
-| Commentator | ::{ flag=ID }:: [Ava](https://osu.ppy.sh/users/1531280), ::{ flag=ID }:: [Meister-](https://osu.ppy.sh/users/1634252), ::{ flag=ID }:: Korakov |
-| Additional | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) |
+| Manager | ::{ flag=ID }:: ::Ableh::{ user=917216 }, ::{ flag=ID }:: ::ursa::{ user=321063 }, ::{ flag=ID }:: ::Intel21::{ user=1272422 }, ::{ flag=ID }:: ::Toka-::{ user=1595221 } |
+| Schedule organizer | ::{ flag=ID }:: ::Intel21::{ user=1272422 }, ::{ flag=ID }:: Nakata, ::{ flag=ID }:: ::THS::{ user=1218514 } |
+| Referee | ::{ flag=ID }:: ::wendao2000::{ user=1843939 }, ::{ flag=ID }:: ::Rey-volution::{ user=883990 }, ::{ flag=ID }:: ::Xinely::{ user=1521445 }, ::{ flag=ID }:: ::Shurelia::{ user=3807986 }, ::{ flag=ID }:: ::nya10::{ user=678794 }, ::{ flag=ID }:: Nakata |
+| Mappool selector | ::{ flag=ID }:: ::Nazalion::{ user=2272165 }, ::{ flag=ID }:: ::THS::{ user=1218514 }, ::{ flag=ID }:: ::Toka-::{ user=1595221 } |
+| Screenshot database | ::{ flag=ID }:: ::Intel21::{ user=1272422 }, ::{ flag=ID }:: ::- Ruu -::{ user=3811821 }, ::{ flag=ID }:: ::AllRiseSilver::{ user=2212857 } |
+| Commentator | ::{ flag=ID }:: ::Ava::{ user=1531280 }, ::{ flag=ID }:: ::Meister-::{ user=1634252 }, ::{ flag=ID }:: Korakov |
+| Additional | ::{ flag=ID }:: ::Niva::{ user=197805 }, ::{ flag=ID }:: ::Shurelia::{ user=3807986 } |
 
 ## Links
 
@@ -53,14 +53,14 @@ The Catch the Beat Indonesia Cup 2014 was run by various Indonesian osu!catch co
 
 | Group |  |  |  |  |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=ID }:: [- Nevermore -](https://osu.ppy.sh/users/2312569) | ::{ flag=ID }:: [ExKill](https://osu.ppy.sh/users/2788379) | ::{ flag=ID }:: [Fahroni](https://osu.ppy.sh/users/2556841) | ::{ flag=ID }:: [Ayumi Takahara](https://osu.ppy.sh/users/1972445) |
-| **B** | ::{ flag=ID }:: [\[WP\]](https://osu.ppy.sh/users/2271932) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | ::{ flag=ID }:: [Jekate](https://osu.ppy.sh/users/965708) |
-| **C** | ::{ flag=ID }:: [- Kelvzs -](https://osu.ppy.sh/users/4131204) | ::{ flag=ID }:: [Ex-Rei](https://osu.ppy.sh/users/1929336) | ::{ flag=ID }:: [moncar321](https://osu.ppy.sh/users/1400073) | ::{ flag=ID }:: [reverseps](https://osu.ppy.sh/users/3744408) |
-| **D** | ::{ flag=ID }:: [yogafm](https://osu.ppy.sh/users/3247173) | ::{ flag=ID }:: [\_EliteYud\_](https://osu.ppy.sh/users/2365634) | ::{ flag=ID }:: TheLastRaiderz | ::{ flag=ID }:: [RickoManes](https://osu.ppy.sh/users/1501891) |
-| **E** | ::{ flag=ID }:: [Yuka-](https://osu.ppy.sh/users/2594933) | ::{ flag=ID }:: [Time-](https://osu.ppy.sh/users/2917987) | ::{ flag=ID }:: [Rifle](https://osu.ppy.sh/users/2512725) | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) |
-| **F** | ::{ flag=ID }:: [miku no lentern](https://osu.ppy.sh/users/3305270) | ::{ flag=ID }:: [Shinnzan](https://osu.ppy.sh/users/1411817) | ::{ flag=ID }:: [- Rii -](https://osu.ppy.sh/users/3734591) | ::{ flag=ID }:: [iman25](https://osu.ppy.sh/users/3457553) |
-| **G** | ::{ flag=ID }:: [Yuina Hotaru](https://osu.ppy.sh/users/1104256) | ::{ flag=ID }:: [EternalGod](https://osu.ppy.sh/users/2251602) | ::{ flag=ID }:: [KinAce](https://osu.ppy.sh/users/3352940) | ::{ flag=ID }:: [Kazuyo](https://osu.ppy.sh/users/1830361) |
-| **H** | ::{ flag=ID }:: [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) | ::{ flag=ID }:: [mikevalent](https://osu.ppy.sh/users/2502590) | ::{ flag=ID }:: [Yuki Tanaka](https://osu.ppy.sh/users/1898048) | ::{ flag=ID }:: [Cera-](https://osu.ppy.sh/users/1974131) |
+| **A** | ::{ flag=ID }:: ::- Nevermore -::{ user=2312569 } | ::{ flag=ID }:: ::ExKill::{ user=2788379 } | ::{ flag=ID }:: ::Fahroni::{ user=2556841 } | ::{ flag=ID }:: ::Ayumi Takahara::{ user=1972445 } |
+| **B** | ::{ flag=ID }:: ::\[WP\]::{ user=2271932 } | ::{ flag=ID }:: ::Galaxi::{ user=2552435 } | ::{ flag=ID }:: ::Shurelia::{ user=3807986 } | ::{ flag=ID }:: ::Jekate::{ user=965708 } |
+| **C** | ::{ flag=ID }:: ::- Kelvzs -::{ user=4131204 } | ::{ flag=ID }:: ::Ex-Rei::{ user=1929336 } | ::{ flag=ID }:: ::moncar321::{ user=1400073 } | ::{ flag=ID }:: ::reverseps::{ user=3744408 } |
+| **D** | ::{ flag=ID }:: ::yogafm::{ user=3247173 } | ::{ flag=ID }:: ::\_EliteYud\_::{ user=2365634 } | ::{ flag=ID }:: TheLastRaiderz | ::{ flag=ID }:: ::RickoManes::{ user=1501891 } |
+| **E** | ::{ flag=ID }:: ::Yuka-::{ user=2594933 } | ::{ flag=ID }:: ::Time-::{ user=2917987 } | ::{ flag=ID }:: ::Rifle::{ user=2512725 } | ::{ flag=ID }:: ::Deceitful::{ user=1396447 } |
+| **F** | ::{ flag=ID }:: ::miku no lentern::{ user=3305270 } | ::{ flag=ID }:: ::Shinnzan::{ user=1411817 } | ::{ flag=ID }:: ::- Rii -::{ user=3734591 } | ::{ flag=ID }:: ::iman25::{ user=3457553 } |
+| **G** | ::{ flag=ID }:: ::Yuina Hotaru::{ user=1104256 } | ::{ flag=ID }:: ::EternalGod::{ user=2251602 } | ::{ flag=ID }:: ::KinAce::{ user=3352940 } | ::{ flag=ID }:: ::Kazuyo::{ user=1830361 } |
+| **H** | ::{ flag=ID }:: ::DodyJesayaSinaga98::{ user=1380645 } | ::{ flag=ID }:: ::mikevalent::{ user=2502590 } | ::{ flag=ID }:: ::Yuki Tanaka::{ user=1898048 } | ::{ flag=ID }:: ::Cera-::{ user=1974131 } |
 
 ## Podium
 
@@ -68,10 +68,10 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [Ex-Rei](https://osu.ppy.sh/users/1929336) |
-| *4th place* | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: ::Deceitful::{ user=1396447 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: ::DodyJesayaSinaga98::{ user=1380645 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: ::Ex-Rei::{ user=1929336 } |
+| *4th place* | ::{ flag=ID }:: ::Shurelia::{ user=3807986 } |
 
 ## Mappools
 
@@ -229,7 +229,7 @@ Sunday, 13 July 2014:
 
 | Match type |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| Championship | ::{ flag=ID }:: **[Deceitful](https://osu.ppy.sh/users/1396447) (25)** | ::{ flag=ID }:: [Ex-Rei](https://osu.ppy.sh/users/1929336) (9) | ::{ flag=ID }:: [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (15) | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) (-4) |
+| Championship | ::{ flag=ID }:: **::Deceitful::{ user=1396447 } (25)** | ::{ flag=ID }:: ::Ex-Rei::{ user=1929336 } (9) | ::{ flag=ID }:: ::DodyJesayaSinaga98::{ user=1380645 } (15) | ::{ flag=ID }:: ::Shurelia::{ user=3807986 } (-4) |
 
 ### Semifinals
 
@@ -237,13 +237,13 @@ Friday, 27 June 2014:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| B | ::{ flag=ID }:: [Yuka-](https://osu.ppy.sh/users/2594933) (11) | ::{ flag=ID }:: [\_EliteYud\_](https://osu.ppy.sh/users/2365634) (1) | ::{ flag=ID }:: **[DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (20)** | ::{ flag=ID }:: [Kazuyo](https://osu.ppy.sh/users/1830361) (0) |
+| B | ::{ flag=ID }:: ::Yuka-::{ user=2594933 } (11) | ::{ flag=ID }:: ::\_EliteYud\_::{ user=2365634 } (1) | ::{ flag=ID }:: **::DodyJesayaSinaga98::{ user=1380645 } (20)** | ::{ flag=ID }:: ::Kazuyo::{ user=1830361 } (0) |
 
 Thursday, 3 July 2014:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| A | ::{ flag=ID }:: **[Deceitful](https://osu.ppy.sh/users/1396447) (15)** | ::{ flag=ID }:: **[Ex-Rei](https://osu.ppy.sh/users/1929336) (8)** | ::{ flag=ID }:: [- Rii -](https://osu.ppy.sh/users/3734591) (3) | ::{ flag=ID }:: **[Shurelia](https://osu.ppy.sh/users/3807986) (6)** |
+| A | ::{ flag=ID }:: **::Deceitful::{ user=1396447 } (15)** | ::{ flag=ID }:: **::Ex-Rei::{ user=1929336 } (8)** | ::{ flag=ID }:: ::- Rii -::{ user=3734591 } (3) | ::{ flag=ID }:: **::Shurelia::{ user=3807986 } (6)** |
 
 ### Quarterfinals
 
@@ -251,19 +251,19 @@ Friday, 13 June 2014:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| D | ::{ flag=ID }:: [ExKill](https://osu.ppy.sh/users/2788379) (0) | ::{ flag=ID }:: **[\_EliteYud\_](https://osu.ppy.sh/users/2365634) (14)** | ::{ flag=ID }:: **[DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (15)** | ::{ flag=ID }:: [- Nevermore -](https://osu.ppy.sh/users/2312569) (4) |
+| D | ::{ flag=ID }:: ::ExKill::{ user=2788379 } (0) | ::{ flag=ID }:: **::\_EliteYud\_::{ user=2365634 } (14)** | ::{ flag=ID }:: **::DodyJesayaSinaga98::{ user=1380645 } (15)** | ::{ flag=ID }:: ::- Nevermore -::{ user=2312569 } (4) |
 
 Saturday, 14 June 2014:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| B | ::{ flag=ID }:: **[- Rii -](https://osu.ppy.sh/users/3734591) (13)** | ::{ flag=ID }:: [Yuki Tanaka](https://osu.ppy.sh/users/1898048) (-1) | ::{ flag=ID }:: [moncar321](https://osu.ppy.sh/users/1400073) (10) | ::{ flag=ID }:: **[Ex-Rei](https://osu.ppy.sh/users/1929336) (11)** |
+| B | ::{ flag=ID }:: **::- Rii -::{ user=3734591 } (13)** | ::{ flag=ID }:: ::Yuki Tanaka::{ user=1898048 } (-1) | ::{ flag=ID }:: ::moncar321::{ user=1400073 } (10) | ::{ flag=ID }:: **::Ex-Rei::{ user=1929336 } (11)** |
 
 Sunday, 15 June 2014:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| C | ::{ flag=ID }:: [miku no lentern](https://osu.ppy.sh/users/3305270) (0) | ::{ flag=ID }:: **[Kazuyo](https://osu.ppy.sh/users/1830361) (18)** | ::{ flag=ID }:: [Yuina Hotaru](https://osu.ppy.sh/users/1104256) (10) | ::{ flag=ID }:: **[Yuka-](https://osu.ppy.sh/users/2594933) (13)** |
+| C | ::{ flag=ID }:: ::miku no lentern::{ user=3305270 } (0) | ::{ flag=ID }:: **::Kazuyo::{ user=1830361 } (18)** | ::{ flag=ID }:: ::Yuina Hotaru::{ user=1104256 } (10) | ::{ flag=ID }:: **::Yuka-::{ user=2594933 } (13)** |
 
 ### Knockout stage
 
@@ -271,24 +271,24 @@ Friday, 6 June 2014:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| F | ::{ flag=ID }:: **[miku no lentern](https://osu.ppy.sh/users/3305270) (12)** | ::{ flag=ID }:: [Shinnzan](https://osu.ppy.sh/users/1411817) (0) | ::{ flag=ID }:: **[- Rii -](https://osu.ppy.sh/users/3734591) (16)** | ::{ flag=ID }:: [iman25](https://osu.ppy.sh/users/3457553) (0) |
+| F | ::{ flag=ID }:: **::miku no lentern::{ user=3305270 } (12)** | ::{ flag=ID }:: ::Shinnzan::{ user=1411817 } (0) | ::{ flag=ID }:: **::- Rii -::{ user=3734591 } (16)** | ::{ flag=ID }:: ::iman25::{ user=3457553 } (0) |
 
 Saturday, 7 June 2014:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| C | ::{ flag=ID }:: [- Kelvzs -](https://osu.ppy.sh/users/4131204) (0) | ::{ flag=ID }:: **[Ex-Rei](https://osu.ppy.sh/users/1929336) (18)** | ::{ flag=ID }:: **[moncar321](https://osu.ppy.sh/users/1400073) (11)** | ::{ flag=ID }:: [reverseps](https://osu.ppy.sh/users/3744408) (5) |
-| E | ::{ flag=ID }:: **[Yuka-](https://osu.ppy.sh/users/2594933) (14)** | ::{ flag=ID }:: [Time-](https://osu.ppy.sh/users/2917987) (0) | ::{ flag=ID }:: [Rifle](https://osu.ppy.sh/users/2512725) (11) | ::{ flag=ID }:: **[Deceitful](https://osu.ppy.sh/users/1396447) (18)** |
-| A | ::{ flag=ID }:: **[- Nevermore -](https://osu.ppy.sh/users/2312569) (12)** | ::{ flag=ID }:: **[ExKill](https://osu.ppy.sh/users/2788379) (11)** | ::{ flag=ID }:: [Fahroni](https://osu.ppy.sh/users/2556841) (11) | ::{ flag=ID }:: [Ayumi Takahara](https://osu.ppy.sh/users/1972445) (-2) |
-| D | ::{ flag=ID }:: [yogafm](https://osu.ppy.sh/users/3247173) (0) | ::{ flag=ID }:: **[\_EliteYud\_](https://osu.ppy.sh/users/2365634) (8)** | ::{ flag=ID }:: TheLastRaiderz (0) | ::{ flag=ID }:: **[RickoManes](https://osu.ppy.sh/users/1501891) (8)** |
-| G | ::{ flag=ID }:: **[Yuina Hotaru](https://osu.ppy.sh/users/1104256) (17)** | ::{ flag=ID }:: [EternalGod](https://osu.ppy.sh/users/2251602) (0) | ::{ flag=ID }:: [KinAce](https://osu.ppy.sh/users/3352940) (4) | ::{ flag=ID }:: **[Kazuyo](https://osu.ppy.sh/users/1830361) (9)** |
+| C | ::{ flag=ID }:: ::- Kelvzs -::{ user=4131204 } (0) | ::{ flag=ID }:: **::Ex-Rei::{ user=1929336 } (18)** | ::{ flag=ID }:: **::moncar321::{ user=1400073 } (11)** | ::{ flag=ID }:: ::reverseps::{ user=3744408 } (5) |
+| E | ::{ flag=ID }:: **::Yuka-::{ user=2594933 } (14)** | ::{ flag=ID }:: ::Time-::{ user=2917987 } (0) | ::{ flag=ID }:: ::Rifle::{ user=2512725 } (11) | ::{ flag=ID }:: **::Deceitful::{ user=1396447 } (18)** |
+| A | ::{ flag=ID }:: **::- Nevermore -::{ user=2312569 } (12)** | ::{ flag=ID }:: **::ExKill::{ user=2788379 } (11)** | ::{ flag=ID }:: ::Fahroni::{ user=2556841 } (11) | ::{ flag=ID }:: ::Ayumi Takahara::{ user=1972445 } (-2) |
+| D | ::{ flag=ID }:: ::yogafm::{ user=3247173 } (0) | ::{ flag=ID }:: **::\_EliteYud\_::{ user=2365634 } (8)** | ::{ flag=ID }:: TheLastRaiderz (0) | ::{ flag=ID }:: **::RickoManes::{ user=1501891 } (8)** |
+| G | ::{ flag=ID }:: **::Yuina Hotaru::{ user=1104256 } (17)** | ::{ flag=ID }:: ::EternalGod::{ user=2251602 } (0) | ::{ flag=ID }:: ::KinAce::{ user=3352940 } (4) | ::{ flag=ID }:: **::Kazuyo::{ user=1830361 } (9)** |
 
 Sunday, 8 June 2014:
 
 | Group |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- |
-| B | ::{ flag=ID }:: **[\[WP\]](https://osu.ppy.sh/users/2271932) (14)** | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) (9) | ::{ flag=ID }:: **[Shurelia](https://osu.ppy.sh/users/3807986) (16)** | ::{ flag=ID }:: [Jekate](https://osu.ppy.sh/users/965708) (0) |
-| H | ::{ flag=ID }:: **[DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) (8)** | ::{ flag=ID }:: [mikevalent](https://osu.ppy.sh/users/2502590) (0) | ::{ flag=ID }:: **[Yuki Tanaka](https://osu.ppy.sh/users/1898048) (8)** | ::{ flag=ID }:: [Cera-](https://osu.ppy.sh/users/1974131) (0) |
+| B | ::{ flag=ID }:: **::\[WP\]::{ user=2271932 } (14)** | ::{ flag=ID }:: ::Galaxi::{ user=2552435 } (9) | ::{ flag=ID }:: **::Shurelia::{ user=3807986 } (16)** | ::{ flag=ID }:: ::Jekate::{ user=965708 } (0) |
+| H | ::{ flag=ID }:: **::DodyJesayaSinaga98::{ user=1380645 } (8)** | ::{ flag=ID }:: ::mikevalent::{ user=2502590 } (0) | ::{ flag=ID }:: **::Yuki Tanaka::{ user=1898048 } (8)** | ::{ flag=ID }:: ::Cera-::{ user=1974131 } (0) |
 
 ## Ruleset
 

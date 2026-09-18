@@ -8,7 +8,7 @@ outdated: true
 
 ### 15 Degree Patterns
 
-Nominateur(s) : [grumd](https://osu.ppy.sh/users/530913)
+Nominateur(s) : ::grumd::{ user=530913 }
 
 Le **15 degree patterns** est une technique exclusive au slider.
 Vous commencez par mapper une section avec uniquement des sliders horizontaux et verticaux.
@@ -34,13 +34,13 @@ Des angles compris entre 10 et 80 degrés peuvent également être utilisés.
 
 *À ne pas confondre avec [Spacing Out](#spacing-out).*
 
-Nominateur(s) : [Gabi](https://osu.ppy.sh/users/57057)
+Nominateur(s) : ::Gabi::{ user=57057 }
 
 L'**accelerated spacing** consiste à espacer de plus en plus chaque objet, tout en conservant le même timing entre eux.
 
 ### Back and Forth Beats
 
-Nominateur(s) : [kingcobra52](https://osu.ppy.sh/users/9934)
+Nominateur(s) : ::kingcobra52::{ user=9934 }
 
 Les **back and forth beats** sont composés de deux piles de battements (ou plus), avec les notes impaires dans une pile et les notes paires dans l'autre.
 Pour l'utiliser, le joueur doit alterner entre les deux piles.
@@ -49,7 +49,7 @@ Il est recommandé de ne l'utiliser que pour les difficultés les plus difficile
 
 ### Differential Stacks
 
-Nominateur(s) : [NoHItter](https://osu.ppy.sh/users/124455)
+Nominateur(s) : ::NoHItter::{ user=124455 }
 
 Les **differential stacks** consistent en des notes qui sont espacées de manière incohérente les unes des autres dans la timeline.
 À noter que ces objets sont mappés comme s'ils étaient un battement uniforme.
@@ -60,7 +60,7 @@ Lorsque vous jouez une beatmap utilisant cette technique, il peut être très di
 
 ### Drain Sections
 
-Nominateur(s) : [SapphireGhost](https://osu.ppy.sh/users/388602)
+Nominateur(s) : ::SapphireGhost::{ user=388602 }
 
 Les **drain sections** sont des sections dans une beatmap qui deviennent soudainement *plus lentes* ou *moins difficiles* dans le but de mieux correspondre à la musique ou de faire baisser la barre de vie.
 
@@ -70,14 +70,14 @@ Les sections de drainage doivent être utilisées avec parcimonie et uniquement 
 
 ### Half-Backing
 
-Nominateur(s) : [Ekaru](https://osu.ppy.sh/users/17938)
+Nominateur(s) : ::Ekaru::{ user=17938 }
 
 Le **half-backing** est composé d'un quart de temps suivi de deux huitièmes de temps, arrangé de façon similaire aux [battements aller-retour](#back-and-forth-beats) sauf que la troisième note s'arrête.
 Cela permet de créer une ligne droite.
 
 ### Hub and Spoke
 
-Nominateur(s) : [Beuchi](https://osu.ppy.sh/users/67192)
+Nominateur(s) : ::Beuchi::{ user=67192 }
 
 La formation **hub and spoke** est littéralement un moyeu avec des rayons qui dépassent.
 Cette technique nécessite au moins 8 à 9 objets qui sont séparés d'un demi battement les uns des autres.
@@ -94,7 +94,7 @@ Vous pouvez toutefois utiliser 3, 5 ou 6 rayons à la place (dans ce cas, veille
 
 ### Linear Back and Forth
 
-Nominateur(s) : [Derekku](https://osu.ppy.sh/users/91341)
+Nominateur(s) : ::Derekku::{ user=91341 }
 
 Le **linear back and forth** est une variation des [back and forth beats](#back-and-forth-beats ).
 La différence réside dans le fait que ces derniers n'utilisent pas de piles, mais demandent au joueur de se déplacer entre les objets.
@@ -104,7 +104,7 @@ Il est très important que le mappeur indique clairement la direction dans laque
 
 *À ne pas confondre avec l'[Espacement accéléré](#accelerated-spacing)*
 
-Nominateur(s) : [Pasonia](https://osu.ppy.sh/users/43345)
+Nominateur(s) : ::Pasonia::{ user=43345 }
 
 Le **spacing out** fait référence aux objets tels qu'ils sont placés en termes de distance, et non de temps.
 Cette technique a l'avantage de maintenir l'élan d'un morceau pendant cette section de la beatmap.
@@ -117,7 +117,7 @@ Une autre variante que vous pouvez ajouter est de placer un cercle au centre apr
 
 ### Step-Too-Fars
 
-Nominateur(s) : [OzzyOzrock](https://osu.ppy.sh/users/465153)
+Nominateur(s) : ::OzzyOzrock::{ user=465153 }
 
 Les **step-too-fars** utilisent une trajectoire linéaire de cercles qui sont espacés d'un quart de temps.
 Cependant, lorsqu'ils atteignent la "fin" de la ligne, les objets reculent d'une case (le cercle avant la fin de la ligne) puis changent de direction.
@@ -126,7 +126,7 @@ Cependant, lorsqu'ils atteignent la "fin" de la ligne, les objets reculent d'une
 
 ### Slider Slowdowns
 
-Nominateur(s) : [123MegaApple123](https://osu.ppy.sh/users/2148208)
+Nominateur(s) : ::123MegaApple123::{ user=2148208 }
 
 Les **slider slowdowns** ralentissent brusquement un slider en divisant temporairement par deux un point de timing hérité (les verts) pour compléter la note longue de la musique (ou de la voix).
 
@@ -136,7 +136,7 @@ Les **slider slowdowns** ralentissent brusquement un slider en divisant temporai
 
 ### Compressed Streams
 
-Nominateur(s) : [pieguyn](https://osu.ppy.sh/users/107485)
+Nominateur(s) : ::pieguyn::{ user=107485 }
 
 Les **compressed streams** utilisent des cercles qui ne sont séparés que par 3 espaces de grille (sur un niveau à 2 ou 3 grilles).
 Sinon, il suffit de rendre le stream considérablement plus petit par rapport au reste de la beatmap.
@@ -145,13 +145,13 @@ La majorité des beatmaps qui utilisent des streams sont plus susceptibles d'uti
 
 ### Discontinuous Streams
 
-Nominateur(s) : [benguin](https://osu.ppy.sh/users/1322807)
+Nominateur(s) : ::benguin::{ user=1322807 }
 
 On parle de **discontinuous streams** lorsqu'il y a un *jump* dans le stream, même si le temps entre les notes du jump est de la même longueur que le temps entre les notes du reste du stream.
 
 ### Deathstreams
 
-Nominateur(s) : [NoHItter](https://osu.ppy.sh/users/124455)
+Nominateur(s) : ::NoHItter::{ user=124455 }
 
 Les **deathstream** sont *très* longs et difficiles.
 Il s'agit de sliders (avec ou sans répétitions), de cercles ou d'une combinaison des deux.
@@ -163,7 +163,7 @@ Cependant, il peut être accepté comme l'une des beatmaps *approuvée*.
 
 ### Slider Stream Jumps
 
-Nominateur(s) : [dkun](https://osu.ppy.sh/users/154400) et [MMzz](https://osu.ppy.sh/users/128993)
+Nominateur(s) : ::dkun::{ user=154400 } et [MMzz](https://osu.ppy.sh/users/128993)
 
 Le **slider stream jumps** est une technique plus avancée pour osu!.
 Au lieu d'utiliser un stream ordinaire, vous le remplacez par des sliders.
@@ -173,7 +173,7 @@ Essentiellement, vous sautez avec votre slider et votre stream, d'où le terme *
 
 ### Triplet Streams
 
-Nominateur(s) : [Lybydose](https://osu.ppy.sh/users/64501)
+Nominateur(s) : ::Lybydose::{ user=64501 }
 
 Les **triplet streams** utilisent un ensemble de trois cercles qui doivent être frappés en succession rapide.
 Ceux-ci sont généralement placés dans un diviseur d'un quart de temps en fonction du BPM de la beatmap.
@@ -184,13 +184,13 @@ Notez que Triplet Steams ne fait **pas** référence à un triplet réel en [th�
 
 ### Variable Spaced Streams
 
-Nominateur(s) : [fartownik](https://osu.ppy.sh/users/56917)
+Nominateur(s) : ::fartownik::{ user=56917 }
 
 Les **variable spaced streams** utilisent des streams plus longs dont l'espacement est irrégulier (généralement croissant).
 
 ### Zig-Zag Streams
 
-Nominateur(s) : [Daru](https://osu.ppy.sh/users/32480)
+Nominateur(s) : ::Daru::{ user=32480 }
 
 Les **zig-zag streams** sont des streams dont les objets sont placés de telle manière qu'ils forment une ligne très dentelée.
 Cependant, elles sont placées très près les unes des autres, de sorte qu'on peut les dépasser en déplaçant le curseur à travers elles en une ligne droite qui croise toutes les notes.

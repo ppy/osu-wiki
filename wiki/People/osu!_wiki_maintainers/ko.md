@@ -16,24 +16,24 @@ no_native_review: true
 
 | osu! 계정 | GitHub 계정 | 활동 상태 | 추가 언어 사용 여부 |
 | :-- | :-- | :-- | :-- |
-| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | 활동 중이 아님 |  |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | 활동 중이 아님 |  |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) | **활동 중** | 아랍어 |
-| ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | 활동 중이 아님 |  |
-| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | 활동 중이 아님 | 스페인어 |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | 활동 중이 아님 | 독일어 |
-| ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | 활동 중이 아님 |  |
-| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | [Nivalyx](https://github.com/Nivalyx) | **활동 중** | 인도네시아어 |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | 활동 중이 아님 | 독일어 |
-| ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **활동 중** | 일본어 |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) | 활동 중이 아님 |  |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | [MChecaH](https://github.com/MChecaH) | **활동 중** | 스페인어 |
-| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Repflez](https://github.com/Repflez) | 활동 중이 아님 | 스페인어 |
-| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | 활동 중이 아님 | 프랑스어 |
-| ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **활동 중** | 러시아어 |
-| ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | 활동 중이 아님 | 폴란드어 |
-| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | **활동 중** | 핀란드어, 스웨덴어 |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | 활동 중이 아님 | 스페인어 |
+| ::{ flag=US }:: ::clayton::{ user=3666350 } | [cl8n](https://github.com/cl8n) | 활동 중이 아님 |  |
+| ::{ flag=AU }:: ::Ephemeral::{ user=102335 } | [Ephemeralis](https://github.com/Ephemeralis) | 활동 중이 아님 |  |
+| ::{ flag=TN }:: ::Hivie::{ user=14102976 } | [Hiviexd](https://github.com/Hiviexd) | **활동 중** | 아랍어 |
+| ::{ flag=US }:: ::Joehu::{ user=8549835 } | [Joehuu](https://github.com/Joehuu) | 활동 중이 아님 |  |
+| ::{ flag=AR }:: ::juankristal::{ user=443656 } | [juankristal](https://github.com/juankristal) | 활동 중이 아님 | 스페인어 |
+| ::{ flag=DE }:: ::Loctav::{ user=71366 } | [Loctav](https://github.com/Loctav) | 활동 중이 아님 | 독일어 |
+| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | [MegaApplePi](https://github.com/MegaApplePi) | 활동 중이 아님 |  |
+| ::{ flag=ID }:: ::Niva::{ user=197805 } | [Nivalyx](https://github.com/Nivalyx) | **활동 중** | 인도네시아어 |
+| ::{ flag=DE }:: ::Okoratu::{ user=1623405 } | [Okorin](https://github.com/Okorin) | 활동 중이 아님 | 독일어 |
+| ::{ flag=AU }:: ::peppy::{ user=2 } | [peppy](https://github.com/peppy) | **활동 중** | 일본어 |
+| ::{ flag=US }:: ::pishifat::{ user=3178418 } | [pishifat](https://github.com/pishifat) | 활동 중이 아님 |  |
+| ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 } | [MChecaH](https://github.com/MChecaH) | **활동 중** | 스페인어 |
+| ::{ flag=MX }:: ::Repflez::{ user=201392 } | [Repflez](https://github.com/Repflez) | 활동 중이 아님 | 스페인어 |
+| ::{ flag=FR }:: ::Shiro::{ user=113005 } | [osuShiro](https://github.com/osuShiro) | 활동 중이 아님 | 프랑스어 |
+| ::{ flag=CH }:: ::TicClick::{ user=672931 } | [TicClick](https://github.com/TicClick) | **활동 중** | 러시아어 |
+| ::{ flag=PL }:: ::TPGPL::{ user=3944705 } | [TPGPL](https://github.com/TPGPL) | 활동 중이 아님 | 폴란드어 |
+| ::{ flag=SE }:: ::Walavouchey::{ user=5773079 } | [Walavouchey](https://github.com/Walavouchey) | **활동 중** | 핀란드어, 스웨덴어 |
+| ::{ flag=CL }:: ::WalterToro::{ user=5281416 } | [WalterToro](https://github.com/WalterToro) | 활동 중이 아님 | 스페인어 |
 
 ## 뉴스 관리자
 
@@ -41,18 +41,18 @@ no_native_review: true
 
 | osu! 계정 | GitHub 계정 |
 | :-- | :-- |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [Hiviexd](https://github.com/Hiviexd) |
-| ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) |
-| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) |
+| ::{ flag=AU }:: ::Ephemeral::{ user=102335 } | [Ephemeralis](https://github.com/Ephemeralis) |
+| ::{ flag=TN }:: ::Hivie::{ user=14102976 } | [Hiviexd](https://github.com/Hiviexd) |
+| ::{ flag=AU }:: ::peppy::{ user=2 } | [peppy](https://github.com/peppy) |
+| ::{ flag=US }:: ::pishifat::{ user=3178418 } | [pishifat](https://github.com/pishifat) |
+| ::{ flag=SE }:: ::Walavouchey::{ user=5773079 } | [Walavouchey](https://github.com/Walavouchey) |
 
 ## 전 관리자
 
 다음은 더 이상 [위키](https://github.com/orgs/ppy/teams/wiki/members)의 일원으로 등재되어 있지 않은 관리자들입니다. 여기에는 osu! 위키가 GitHub로 이전되기 전 이를 호스팅했던 [MediaWiki 설정](/wiki/History_of_osu!/osu!_wiki#mediawiki-(2011---2017))의 관리자들도 포함됩니다.
 
-- ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032)
-- ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)
-- ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570)
-- ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078)
-- ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865)
+- ::{ flag=RU }:: ::Dellirium::{ user=519032 }
+- ::{ flag=NZ }:: ::deadbeat::{ user=128370 }
+- ::{ flag=PL }:: ::Galkan::{ user=169570 }
+- ::{ flag=PH }:: ::Nathanael::{ user=2295078 }
+- ::{ flag=PL }:: ::Ukami::{ user=820865 }

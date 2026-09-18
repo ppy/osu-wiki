@@ -23,11 +23,11 @@ Zahlreiche Spieler hielten den ersten Rang in jedem Spielmodus mit verschiedenen
 **Hauptseite:** [Geschichte der osu!-Rangliste](osu!)
 :::
 
-Mit Stand vom 11. Juli 2026 ist ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu) auf Platz 1 der [osu! Performance-Rangliste](https://osu.ppy.sh/rankings/osu/performance).
+Mit Stand vom 11. Juli 2026 ist ::{ flag=AU }:: ::mrekk::{ user=7562902 } auf Platz 1 der [osu! Performance-Rangliste](https://osu.ppy.sh/rankings/osu/performance).
 
 ## ![][osu!taiko] osu!taiko
 
-Mit Stand vom 23. Juli 2026 ist ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
+Mit Stand vom 23. Juli 2026 ist ::{ flag=JP }:: ::Sinon\133::{ user=31148838 } auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
 
 ## ![][osu!catch] osu!catch
 
@@ -35,11 +35,11 @@ Mit Stand vom 23. Juli 2026 ist ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/us
 **Hauptseite:** [Geschichte der osu!catch-Rangliste](osu!catch)
 :::
 
-Mit Stand vom 21. Juli 2026 ist ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
+Mit Stand vom 21. Juli 2026 ist ::{ flag=KR }:: ::Motion::{ user=3885626 } auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
 
 ## ![][osu!mania] osu!mania
 
-Mit Stand vom 4. April 2026 ist ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania) auf Platz 1 der [osu!mania Performance-Rangliste](https://osu.ppy.sh/rankings/mania/performance).
+Mit Stand vom 4. April 2026 ist ::{ flag=KR }:: ::Kalkai::{ user=10790649 } auf Platz 1 der [osu!mania Performance-Rangliste](https://osu.ppy.sh/rankings/mania/performance).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

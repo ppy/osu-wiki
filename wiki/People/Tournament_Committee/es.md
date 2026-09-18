@@ -182,45 +182,45 @@ En la [página del grupo del Comité de Torneos](https://osu.ppy.sh/groups/50) s
 
 ### Comité de Torneos
 
-- ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
-- ::{ flag=BA }:: [alisha-](https://osu.ppy.sh/users/29031839)
-- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
-- ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
-- ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227)
-- ::{ flag=DE }:: [KSN](https://osu.ppy.sh/users/5442251)
-- ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619)
-- ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264)
-- ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
-- ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
-- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
-- ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
-- ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
-- ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
-- ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
-- ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973)
-- ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317)
+- ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }
+- ::{ flag=BA }:: ::alisha-::{ user=29031839 }
+- ::{ flag=US }:: ::ChillierPear::{ user=9501251 }
+- ::{ flag=CA }:: ::D I O::{ user=3958619 }
+- ::{ flag=CN }:: ::FcEazy::{ user=7825227 }
+- ::{ flag=DE }:: ::KSN::{ user=5442251 }
+- ::{ flag=KZ }:: ::Lightin::{ user=7595619 }
+- ::{ flag=GR }:: ::nik::{ user=10077264 }
+- ::{ flag=KR }:: ::Nopekjk::{ user=4585186 }
+- ::{ flag=SG }:: ::Polytetral::{ user=8612061 }
+- ::{ flag=MX }:: ::Riot::{ user=4256461 }
+- ::{ flag=FI }:: ::shdewz::{ user=10000899 }
+- ::{ flag=US }:: ::Snowleopard::{ user=3790227 }
+- ::{ flag=FR }:: ::ThePooN::{ user=718454 }
+- ::{ flag=US }:: ::this1neguy::{ user=1797189 }
+- ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }
+- ::{ flag=HK }:: ::YonGin::{ user=7109317 }
 
 ### Comité de Concursos
 
-- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
-- ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909)
-- ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063)
-- ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853)
-- ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835)
+- ::{ flag=TN }:: ::Hivie::{ user=14102976 }
+- ::{ flag=CN }:: ::Mafumafu::{ user=3076909 }
+- ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 }
+- ::{ flag=HK }:: ::seros::{ user=10562853 }
+- ::{ flag=AT }:: ::Yasuho::{ user=8458835 }
 
 ### Alumni
 
-- ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
-- ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
-- ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
-- ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
-- ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
-- ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
-- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
-- ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
-- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
-- ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
-- ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
-- ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
-- ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
-- ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)
+- ::{ flag=US }:: ::-White::{ user=16276548 }
+- ::{ flag=FR }:: ::\1yosh::{ user=7157133 }
+- ::{ flag=CA }:: ::Azer::{ user=2155578 }
+- ::{ flag=PH }:: ::enri::{ user=8640970 }
+- ::{ flag=AR }:: ::juankristal::{ user=443656 }
+- ::{ flag=FR }:: ::Kasumi-sama::{ user=6177263 }
+- ::{ flag=BR }:: ::LeoFLT::{ user=3668779 }
+- ::{ flag=GB }:: ::mangomizer::{ user=1893718 }
+- ::{ flag=ID }:: ::Maxus::{ user=4335785 }
+- ::{ flag=NL }:: ::n0ah::{ user=3086393 }
+- ::{ flag=SE }:: ::Raphalge::{ user=3918650 }
+- ::{ flag=US }:: ::Stage::{ user=8191845 }
+- ::{ flag=CL }:: ::WalterToro::{ user=5281416 }
+- ::{ flag=NL }:: ::Wesley::{ user=2407265 }

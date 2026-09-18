@@ -7,7 +7,7 @@ tags:
 
 ![DMX 2 logo](img/logo.png)
 
-The **DeltaMax's Taiko Oni Overlord** (***DMX 2***) was a 1v1 double elimination osu!taiko tournament hosted by ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second instalment of the DeltaMax's Tournaments.
+The **DeltaMax's Taiko Oni Overlord** (***DMX 2***) was a 1v1 double elimination osu!taiko tournament hosted by ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }. It was the second instalment of the DeltaMax's Tournaments.
 
 ## Tournament schedule
 
@@ -36,13 +36,13 @@ The DeltaMax's Taiko Oni Overlord was run by various osu!taiko community members
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Mappool selector | ::{ flag=HK }:: [tkdLolly](https://osu.ppy.sh/users/9035344), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=CA }:: [FlamingRok](https://osu.ppy.sh/users/2015353) |
-| Designer | ::{ flag=US }:: [Swovine](https://osu.ppy.sh/users/6666316) |
-| Streamer | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=CA }:: [FlamingRok](https://osu.ppy.sh/users/2015353), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
-| Referee | ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804), ::{ flag=CA }:: [390](https://osu.ppy.sh/users/7622460), ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=AU }:: [cactusthegreat](https://osu.ppy.sh/users/5592409), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=US }:: [KuraresaCupcake](https://osu.ppy.sh/users/6953271), ::{ flag=NZ }:: [Lizzielots](https://osu.ppy.sh/users/6949522), ::{ flag=DE }:: [lukili846](https://osu.ppy.sh/users/6278008), ::{ flag=GR }:: [nikolomara](https://osu.ppy.sh/users/10077264), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=US }:: [Raoul](https://osu.ppy.sh/users/9924405), ::{ flag=FR }:: [Spartan Plume](https://osu.ppy.sh/users/2553166), ::{ flag=CA }:: [xenonius](https://osu.ppy.sh/users/7426260) |
-| Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Mappool selector | ::{ flag=HK }:: ::tkdLolly::{ user=9035344 }, ::{ flag=US }:: ::Backfire::{ user=263110 }, ::{ flag=CA }:: ::FlamingRok::{ user=2015353 } |
+| Designer | ::{ flag=US }:: ::Swovine::{ user=6666316 } |
+| Streamer | ::{ flag=MY }:: ::Bedwyr Aorta::{ user=10875855 }, ::{ flag=CA }:: ::FlamingRok::{ user=2015353 }, ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 } |
+| Referee | ::{ flag=PL }:: ::-Sylvari::{ user=3493804 }, ::{ flag=CA }:: ::390::{ user=7622460 }, ::{ flag=HK }:: ::Akali393394::{ user=9686628 }, ::{ flag=JP }:: ::Briesmas::{ user=2865172 }, ::{ flag=AU }:: ::cactusthegreat::{ user=5592409 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=US }:: ::KuraresaCupcake::{ user=6953271 }, ::{ flag=NZ }:: ::Lizzielots::{ user=6949522 }, ::{ flag=DE }:: ::lukili846::{ user=6278008 }, ::{ flag=GR }:: ::nikolomara::{ user=10077264 }, ::{ flag=FR }:: ::Ryumi::{ user=6596270 }, ::{ flag=US }:: ::Raoul::{ user=9924405 }, ::{ flag=FR }:: ::Spartan Plume::{ user=2553166 }, ::{ flag=CA }:: ::xenonius::{ user=7426260 } |
+| Statistician | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## Links
 
@@ -56,23 +56,23 @@ The DeltaMax's Taiko Oni Overlord was run by various osu!taiko community members
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=BR }:: [Foxerus](https://osu.ppy.sh/users/7479684), ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385), ::{ flag=PT }:: [hi im costarino](https://osu.ppy.sh/users/9209430), ::{ flag=MX }:: [Ammy](https://osu.ppy.sh/users/4183406), ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621), ::{ flag=BR }:: [Mikudayo](https://osu.ppy.sh/users/5235718), ::{ flag=AT }:: [animexamera](https://osu.ppy.sh/users/7511357), ::{ flag=FR }:: [Yoshi-GH](https://osu.ppy.sh/users/3317042) |
-| High | ::{ flag=BR }:: [Lazarento](https://osu.ppy.sh/users/3224958), ::{ flag=PL }:: [Wolfgang](https://osu.ppy.sh/users/7184324), ::{ flag=GB }:: [Braixen-](https://osu.ppy.sh/users/8628814), ::{ flag=IT }:: [Kith190](https://osu.ppy.sh/users/7365988), ::{ flag=FR }:: [\_Infected\_](https://osu.ppy.sh/users/7432095), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=GB }:: [Ali161102](https://osu.ppy.sh/users/7582420), ::{ flag=US }:: [Konan](https://osu.ppy.sh/users/3252800) |
-| Low | ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=BR }:: [Kyoumo](https://osu.ppy.sh/users/8145223), ::{ flag=GB }:: [-Ryan](https://osu.ppy.sh/users/7822081), ::{ flag=AU }:: [cactusthegreat](https://osu.ppy.sh/users/5592409), ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183), ::{ flag=AU }:: [LordAverage](https://osu.ppy.sh/users/3101354), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=IT }:: [VenomPlus](https://osu.ppy.sh/users/7722827) |
-| Unseeded | ::{ flag=BR }:: [Omega Ranger](https://osu.ppy.sh/users/3234628), ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774), ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=CL }:: [ArmoredReaper](https://osu.ppy.sh/users/6276709), ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977), ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270), ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597) |
+| Top | ::{ flag=BR }:: ::Foxerus::{ user=7479684 }, ::{ flag=MX }:: ::xtrem3x::{ user=136385 }, ::{ flag=PT }:: ::hi im costarino::{ user=9209430 }, ::{ flag=MX }:: ::Ammy::{ user=4183406 }, ::{ flag=MY }:: ::cdhsausageboy::{ user=2403621 }, ::{ flag=BR }:: ::Mikudayo::{ user=5235718 }, ::{ flag=AT }:: ::animexamera::{ user=7511357 }, ::{ flag=FR }:: ::Yoshi-GH::{ user=3317042 } |
+| High | ::{ flag=BR }:: ::Lazarento::{ user=3224958 }, ::{ flag=PL }:: ::Wolfgang::{ user=7184324 }, ::{ flag=GB }:: ::Braixen-::{ user=8628814 }, ::{ flag=IT }:: ::Kith190::{ user=7365988 }, ::{ flag=FR }:: ::\_Infected\_::{ user=7432095 }, ::{ flag=JP }:: ::Briesmas::{ user=2865172 }, ::{ flag=GB }:: ::Ali161102::{ user=7582420 }, ::{ flag=US }:: ::Konan::{ user=3252800 } |
+| Low | ::{ flag=HK }:: ::Akali393394::{ user=9686628 }, ::{ flag=BR }:: ::Kyoumo::{ user=8145223 }, ::{ flag=GB }:: ::-Ryan::{ user=7822081 }, ::{ flag=AU }:: ::cactusthegreat::{ user=5592409 }, ::{ flag=AU }:: ::Tsubasa2::{ user=6835183 }, ::{ flag=AU }:: ::LordAverage::{ user=3101354 }, ::{ flag=AU }:: ::Beat43210::{ user=5664171 }, ::{ flag=IT }:: ::VenomPlus::{ user=7722827 } |
+| Unseeded | ::{ flag=BR }:: ::Omega Ranger::{ user=3234628 }, ::{ flag=AU }:: ::Blobby3000::{ user=6916774 }, ::{ flag=MY }:: ::Bedwyr Aorta::{ user=10875855 }, ::{ flag=EC }:: ::Gamelan4::{ user=9856910 }, ::{ flag=CL }:: ::ArmoredReaper::{ user=6276709 }, ::{ flag=US }:: ::CaptainEChan::{ user=9536977 }, ::{ flag=BR }:: ::AnonX32::{ user=2730270 }, ::{ flag=US }:: ::Rukairi::{ user=6642597 } |
 
 ## Groups
 
 | Group | Top Seed | High Seed | Low Seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=AT }:: [animexamera](https://osu.ppy.sh/users/7511357) | ::{ flag=IT }:: [Kith190](https://osu.ppy.sh/users/7365988) | ::{ flag=AU }:: [cactusthegreat](https://osu.ppy.sh/users/5592409) | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
-| **B** | ::{ flag=BR }:: [Mikudayo](https://osu.ppy.sh/users/5235718) | ::{ flag=US }:: [Konan](https://osu.ppy.sh/users/3252800) | ::{ flag=IT }:: [VenomPlus](https://osu.ppy.sh/users/7722827) | ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910) |
-| **C** | ::{ flag=FR }:: [Yoshi-GH](https://osu.ppy.sh/users/3317042) | ::{ flag=FR }:: [\_Infected\_](https://osu.ppy.sh/users/7432095) | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) | ::{ flag=BR }:: [Omega Ranger](https://osu.ppy.sh/users/3234628) |
-| **D** | ::{ flag=PT }:: [hi im costarino](https://osu.ppy.sh/users/9209430) | ::{ flag=PL }:: [Wolfgang](https://osu.ppy.sh/users/7184324) | ::{ flag=GB }:: [-Ryan](https://osu.ppy.sh/users/7822081) | ::{ flag=US }:: [CaptainEChan](https://osu.ppy.sh/users/9536977) |
-| **E** | ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621) | ::{ flag=BR }:: [Lazarento](https://osu.ppy.sh/users/3224958) | ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183) | ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597) |
-| **F** | ::{ flag=MX }:: [Ammy](https://osu.ppy.sh/users/4183406) | ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172) | ::{ flag=AU }:: [LordAverage](https://osu.ppy.sh/users/3101354) | ::{ flag=AU }:: [Blobby3000](https://osu.ppy.sh/users/6916774) |
-| **G** | ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | ::{ flag=GB }:: [Ali161102](https://osu.ppy.sh/users/7582420) | ::{ flag=BR }:: [Kyoumo](https://osu.ppy.sh/users/8145223) | ::{ flag=CL }:: [ArmoredReaper](https://osu.ppy.sh/users/6276709) |
-| **H** | ::{ flag=BR }:: [Foxerus](https://osu.ppy.sh/users/7479684) | ::{ flag=GB }:: [Braixen-](https://osu.ppy.sh/users/8628814) | ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628) | ::{ flag=BR }:: [AnonX32](https://osu.ppy.sh/users/2730270) |
+| **A** | ::{ flag=AT }:: ::animexamera::{ user=7511357 } | ::{ flag=IT }:: ::Kith190::{ user=7365988 } | ::{ flag=AU }:: ::cactusthegreat::{ user=5592409 } | ::{ flag=MY }:: ::Bedwyr Aorta::{ user=10875855 } |
+| **B** | ::{ flag=BR }:: ::Mikudayo::{ user=5235718 } | ::{ flag=US }:: ::Konan::{ user=3252800 } | ::{ flag=IT }:: ::VenomPlus::{ user=7722827 } | ::{ flag=EC }:: ::Gamelan4::{ user=9856910 } |
+| **C** | ::{ flag=FR }:: ::Yoshi-GH::{ user=3317042 } | ::{ flag=FR }:: ::\_Infected\_::{ user=7432095 } | ::{ flag=AU }:: ::Beat43210::{ user=5664171 } | ::{ flag=BR }:: ::Omega Ranger::{ user=3234628 } |
+| **D** | ::{ flag=PT }:: ::hi im costarino::{ user=9209430 } | ::{ flag=PL }:: ::Wolfgang::{ user=7184324 } | ::{ flag=GB }:: ::-Ryan::{ user=7822081 } | ::{ flag=US }:: ::CaptainEChan::{ user=9536977 } |
+| **E** | ::{ flag=MY }:: ::cdhsausageboy::{ user=2403621 } | ::{ flag=BR }:: ::Lazarento::{ user=3224958 } | ::{ flag=AU }:: ::Tsubasa2::{ user=6835183 } | ::{ flag=US }:: ::Rukairi::{ user=6642597 } |
+| **F** | ::{ flag=MX }:: ::Ammy::{ user=4183406 } | ::{ flag=JP }:: ::Briesmas::{ user=2865172 } | ::{ flag=AU }:: ::LordAverage::{ user=3101354 } | ::{ flag=AU }:: ::Blobby3000::{ user=6916774 } |
+| **G** | ::{ flag=MX }:: ::xtrem3x::{ user=136385 } | ::{ flag=GB }:: ::Ali161102::{ user=7582420 } | ::{ flag=BR }:: ::Kyoumo::{ user=8145223 } | ::{ flag=CL }:: ::ArmoredReaper::{ user=6276709 } |
+| **H** | ::{ flag=BR }:: ::Foxerus::{ user=7479684 } | ::{ flag=GB }:: ::Braixen-::{ user=8628814 } | ::{ flag=HK }:: ::Akali393394::{ user=9686628 } | ::{ flag=BR }:: ::AnonX32::{ user=2730270 } |
 
 ## Podium
 
@@ -80,9 +80,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=BR }:: [Foxerus](https://osu.ppy.sh/users/7479684) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MX }:: [Ammy](https://osu.ppy.sh/users/4183406) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=BR }:: ::Foxerus::{ user=7479684 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=MY }:: ::cdhsausageboy::{ user=2403621 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MX }:: ::Ammy::{ user=4183406 } |
 
 ## Mappools
 

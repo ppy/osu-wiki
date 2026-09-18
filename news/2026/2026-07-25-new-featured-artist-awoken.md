@@ -17,7 +17,7 @@ If your mapping muscles need some greasing first, these previews might do the tr
 
 ### awoKen - cantar!
 
-[The first ranked **awoKen** map](https://osu.ppy.sh/beatmapsets/2405849) hosted by [Faputa](https://osu.ppy.sh/users/845733) perfectly portrays what it means to combine electronic music with latin dance.
+[The first ranked **awoKen** map](https://osu.ppy.sh/beatmapsets/2405849) hosted by ::Faputa::{ user=845733 } perfectly portrays what it means to combine electronic music with latin dance.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>

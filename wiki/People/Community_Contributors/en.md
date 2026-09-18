@@ -32,21 +32,21 @@ Contributors who registered their accounts during an older era of the game have 
 
 | User | Contributions |
 | :-- | :-- |
-| ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | Developing and maintaining the [osu!record service](https://osu.ppy.sh/community/forums/topics/108092) (replay `.osr` to video file). |
-| ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | Hosting and maintaining one of osu!'s longest running [beatmap mirrors](https://osu.yas-online.net/). |
-| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Numerous (beyond count) graphical contributions to the game client and everything else. |
-| ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | [Achievement](/wiki/Medals)<!-- TODO: should link to something specifically about legacy achievements, not medals in general --> artwork. |
-| ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Developing and maintaining [AIBat](https://osu.ppy.sh/community/forums/topics/55305), the most popular third-party beatmap modding tool ever produced by most people on the community. |
-| ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Outstanding performance in bug-fix/feature testing and coding numerous utilities for mappers and modders. |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organising several major official tournaments (including the [OWC](/wiki/Tournaments/OWC)). |
-| ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | Insane moderation track record (equivalent to roughly 6 staff members) and almost single-handedly moderating `#osu` during peak hours (9k+ users). |
-| ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Developing and maintaining [osu!stats](https://osustats.ppy.sh/) and a number of useful utilities for both beatmapping, modding and general play. |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Outstanding performance in bugfix/feature testing and handling user support queries. |
-| ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3+ years of silent work tirelessly handling [beatmap packing](https://osu.ppy.sh/beatmaps/packs) and several years of managing the beatmap charts. |
-| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Years upon years of service, including designing the original beatmap skin, advancing [storyboarding](/wiki/Storyboard) as an art and motivation. |
-| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Early community management and moderation and huge contributions over the course of his time. |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Being the first community manager and global moderator, who set the bar extremely high for the [GMT](/wiki/People/Global_Moderation_Team) to follow. |
-| ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | Being the first staff manager and [BATmanager](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers) and single-handedly forming an elite beatmap moderation team from nothing. |
+| ::{ flag=GB }:: ::Darkimmortal::{ user=10886 } | Developing and maintaining the [osu!record service](https://osu.ppy.sh/community/forums/topics/108092) (replay `.osr` to video file). |
+| ::{ flag=DE }:: ::nanashiRei::{ user=807630 } | Hosting and maintaining one of osu!'s longest running [beatmap mirrors](https://osu.yas-online.net/). |
+| ::{ flag=US }:: ::RBRat3::{ user=307202 } | Numerous (beyond count) graphical contributions to the game client and everything else. |
+| ::{ flag=CN }:: ::Ballance::{ user=165946 } | [Achievement](/wiki/Medals)<!-- TODO: should link to something specifically about legacy achievements, not medals in general --> artwork. |
+| ::{ flag=US }:: ::akrolsmir::{ user=576800 } | Developing and maintaining [AIBat](https://osu.ppy.sh/community/forums/topics/55305), the most popular third-party beatmap modding tool ever produced by most people on the community. |
+| ::{ flag=NL }:: ::statementreply::{ user=126198 } | Outstanding performance in bug-fix/feature testing and coding numerous utilities for mappers and modders. |
+| ::{ flag=DE }:: ::Loctav::{ user=71366 } | Organising several major official tournaments (including the [OWC](/wiki/Tournaments/OWC)). |
+| ::{ flag=US }:: ::Blazevoir::{ user=120265 } | Insane moderation track record (equivalent to roughly 6 staff members) and almost single-handedly moderating `#osu` during peak hours (9k+ users). |
+| ::{ flag=PL }:: ::Piotrekol::{ user=304520 } | Developing and maintaining [osu!stats](https://osustats.ppy.sh/) and a number of useful utilities for both beatmapping, modding and general play. |
+| ::{ flag=NO }:: ::MillhioreF::{ user=941094 } | Outstanding performance in bugfix/feature testing and handling user support queries. |
+| ::{ flag=US }:: ::DeathxShinigami::{ user=49516 } | 3+ years of silent work tirelessly handling [beatmap packing](https://osu.ppy.sh/beatmaps/packs) and several years of managing the beatmap charts. |
+| ::{ flag=US }:: ::LuigiHann::{ user=1079 } | Years upon years of service, including designing the original beatmap skin, advancing [storyboarding](/wiki/Storyboard) as an art and motivation. |
+| ::{ flag=CA }:: ::awp::{ user=2650 } | Early community management and moderation and huge contributions over the course of his time. |
+| ::{ flag=GR }:: ::Sinistro::{ user=5530 } | Being the first community manager and global moderator, who set the bar extremely high for the [GMT](/wiki/People/Global_Moderation_Team) to follow. |
+| ::{ flag=US }:: ::Ivalset::{ user=827 } | Being the first staff manager and [BATmanager](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers) and single-handedly forming an elite beatmap moderation team from nothing. |
 
 ### 2015
 
@@ -54,9 +54,9 @@ Contributors who registered their accounts during an older era of the game have 
 
 | User | Contributions |
 | :-- | :-- |
-| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Outstanding contribution to the osu! wiki |
-| ::{ flag=MY }:: [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | Outstanding contribution to the osu! wiki |
-| ::{ flag=DE }:: [givenameplz](https://osu.ppy.sh/users/947499) | [osu!Rank](https://osu.ppy.sh/community/forums/topics/133966) & [osu!Post](https://osu.ppy.sh/community/forums/topics/164486) development |
+| ::{ flag=MX }:: ::Repflez::{ user=201392 } | Outstanding contribution to the osu! wiki |
+| ::{ flag=MY }:: ::RaikireHiuduo::{ user=1570014 } | Outstanding contribution to the osu! wiki |
+| ::{ flag=DE }:: ::givenameplz::{ user=947499 } | [osu!Rank](https://osu.ppy.sh/community/forums/topics/133966) & [osu!Post](https://osu.ppy.sh/community/forums/topics/164486) development |
 
 ### 2016
 
@@ -68,14 +68,14 @@ Contributors who registered their accounts during an older era of the game have 
 
 | User | Contributions |
 | :-- | :-- |
-| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Founding the [osu!academy](/wiki/Community/Video_series/osu!academy) |
-| ::{ flag=CA }:: [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + News Contributor |
-| ::{ flag=BG }:: [Flanster](https://osu.ppy.sh/users/447818) | Outstanding moderation presence (10k+ kills) |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Outstanding moderation presence (10k+ kills) |
-| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Outstanding moderation presence and commitment (30k+ kills) |
-| ::{ flag=DE }:: [MoonShade](https://osu.ppy.sh/users/273649) | Developing revolutionary storyboarding utilities (SGL) |
-| ::{ flag=PL }:: [iys](https://osu.ppy.sh/users/322480) | [Mikuia.tv](https://mikuia.tv) - osu! Twitch bot toolkit development |
-| ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) | Beatmap recommendation bot development |
+| ::{ flag=US }:: ::ztrot::{ user=6347 } | Founding the [osu!academy](/wiki/Community/Video_series/osu!academy) |
+| ::{ flag=CA }:: ::karterfreak::{ user=1031958 } | osu!weekly + News Contributor |
+| ::{ flag=BG }:: ::Flanster::{ user=447818 } | Outstanding moderation presence (10k+ kills) |
+| ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Outstanding moderation presence (10k+ kills) |
+| ::{ flag=SE }:: ::Saten::{ user=444506 } | Outstanding moderation presence and commitment (30k+ kills) |
+| ::{ flag=DE }:: ::MoonShade::{ user=273649 } | Developing revolutionary storyboarding utilities (SGL) |
+| ::{ flag=PL }:: ::iys::{ user=322480 } | [Mikuia.tv](https://mikuia.tv) - osu! Twitch bot toolkit development |
+| ::{ flag=DE }:: ::Tillerino::{ user=2070907 } | Beatmap recommendation bot development |
 
 #### March
 
@@ -85,7 +85,7 @@ Contributors who registered their accounts during an older era of the game have 
 
 | User | Contributions |
 | :-- | :-- |
-| ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | Years of upholding and improving the quality of mapping, providing assistance on many occasions to help resolve various issues in the community. |
+| ::{ flag=US }:: ::Charles445::{ user=85000 } | Years of upholding and improving the quality of mapping, providing assistance on many occasions to help resolve various issues in the community. |
 
 #### November
 
@@ -95,15 +95,15 @@ Contributors who registered their accounts during an older era of the game have 
 
 | User | Contributions |
 | :-- | :-- |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Exemplary performance in beatmap construction and education |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Exceptional leadership in beatmap management affairs |
-| ::{ flag=HK }:: [IamKwaN](https://osu.ppy.sh/users/1856463) | Outstanding moderation presence and overall contribution |
-| ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) | Outstanding contribution to community affairs, organisation and moderation |
-| ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384) | Outstanding development contribution (osu!next) |
-| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | Outstanding community contribution (osu!weekly) |
-| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Early community management and moderation |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Outstanding contribution to community affairs |
-| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Outstanding contribution to moderation, organisation and management |
+| ::{ flag=US }:: ::pishifat::{ user=3178418 } | Exemplary performance in beatmap construction and education |
+| ::{ flag=DE }:: ::Okoratu::{ user=1623405 } | Exceptional leadership in beatmap management affairs |
+| ::{ flag=HK }:: ::IamKwaN::{ user=1856463 } | Outstanding moderation presence and overall contribution |
+| ::{ flag=PL }:: ::Marcin::{ user=722665 } | Outstanding contribution to community affairs, organisation and moderation |
+| ::{ flag=PL }:: ::LiquidPL::{ user=5044384 } | Outstanding development contribution (osu!next) |
+| ::{ flag=CA }:: ::Nyquill::{ user=682935 } | Outstanding community contribution (osu!weekly) |
+| ::{ flag=US }:: ::Derekku::{ user=91341 } | Early community management and moderation |
+| ::{ flag=ES }:: ::Trosk-::{ user=3469385 } | Outstanding contribution to community affairs |
+| ::{ flag=FR }:: ::Shiro::{ user=113005 } | Outstanding contribution to moderation, organisation and management |
 
 ### 2017
 
@@ -115,26 +115,26 @@ Contributors who registered their accounts during an older era of the game have 
 
 | User | Contributions |
 | :-- | :-- |
-| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Outstanding work in forming the early osu!taiko community, several years of tenure in the [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team) |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Outstanding contribution to the osu!catch community, ranking criteria reworks, and tournaments |
-| ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Outstanding contribution to countless media projects, tournaments, and a long-term tenure in the [GMT](/wiki/People/Global_Moderation_Team) |
-| ::{ flag=US }:: [Garven](https://osu.ppy.sh/users/244216) | Years of dedicated service to the [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team), and immense contribution to ranking criteria reworks |
-| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Years of dedicated service to the [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team), major presence in the ranking criteria rework and Beatmap Nominator test management |
-| ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964) | Dedicated contribution to the [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team) across over countless years |
-| ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) | Hundreds of hours of World Cup tournaments statistics and analysis |
-| ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) | Outstanding referee presence in dozens of community tournaments |
-| ::{ flag=CA }:: [Evrien](https://osu.ppy.sh/users/791660) | Outstanding performance in casting, commentary, and event-based writeups/recaps |
-| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | The mastermind behind countless improvements to osu!, from pp, a graphics engine rewrite, star rating, and more! |
-| ::{ flag=CA }:: [DrabWeb](https://osu.ppy.sh/users/6946022) | Outstanding contribution to the osu!(lazer) project |
-| ::{ flag=BY }:: [EVAST](https://osu.ppy.sh/users/8195163) | Outstanding contribution to the osu!(lazer) project with 90+ pullreqs and hundreds of commits |
-| ::{ flag=CN }:: [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Outstanding contribution to the osu!(lazer) project |
-| ::{ flag=CN }:: [kj415j45](https://osu.ppy.sh/users/9367540) | Outstanding contribution and organisation of the Chinese localisation project for osu!, osu! wiki, and osu!(lazer) |
-| ::{ flag=DE }:: [jorolf](https://osu.ppy.sh/users/7004641) | Outstanding contribution to the osu!(lazer) project and creation of numerous media tools |
-| ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575) | Creator of [PerformancePlus](https://syrin.me/pp+/) and [osu!chan](https://osuchan.syrin.me) |
-| ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767) | Outstanding effort in the production and publishing of the Scorewatch project |
-| ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Outstanding effort in the production and publishing of the Scorewatch project |
-| ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Outstanding efforts in furthering the osu! wiki project with countless revisions, reworks and reviews |
-| ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) | Cornerstone of the osu! wiki project and outstanding contribution throughout the years |
+| ::{ flag=DE }:: ::OnosakiHito::{ user=290128 } | Outstanding work in forming the early osu!taiko community, several years of tenure in the [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team) |
+| ::{ flag=ES }:: ::Deif::{ user=318565 } | Outstanding contribution to the osu!catch community, ranking criteria reworks, and tournaments |
+| ::{ flag=NZ }:: ::deadbeat::{ user=128370 } | Outstanding contribution to countless media projects, tournaments, and a long-term tenure in the [GMT](/wiki/People/Global_Moderation_Team) |
+| ::{ flag=US }:: ::Garven::{ user=244216 } | Years of dedicated service to the [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team), and immense contribution to ranking criteria reworks |
+| ::{ flag=DE }:: ::Mao::{ user=2204515 } | Years of dedicated service to the [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team), major presence in the ranking criteria rework and Beatmap Nominator test management |
+| ::{ flag=CH }:: ::Irreversible::{ user=1287964 } | Dedicated contribution to the [BAT](/wiki/People/Beatmap_Appreciation_Team)/[QAT](/wiki/People/Quality_Assurance_Team) across over countless years |
+| ::{ flag=DE }:: ::Nwolf::{ user=1910766 } | Hundreds of hours of World Cup tournaments statistics and analysis |
+| ::{ flag=GB }:: ::Yazzehh::{ user=7068973 } | Outstanding referee presence in dozens of community tournaments |
+| ::{ flag=CA }:: ::Evrien::{ user=791660 } | Outstanding performance in casting, commentary, and event-based writeups/recaps |
+| ::{ flag=DE }:: ::Tom94::{ user=1857058 } | The mastermind behind countless improvements to osu!, from pp, a graphics engine rewrite, star rating, and more! |
+| ::{ flag=CA }:: ::DrabWeb::{ user=6946022 } | Outstanding contribution to the osu!(lazer) project |
+| ::{ flag=BY }:: ::EVAST::{ user=8195163 } | Outstanding contribution to the osu!(lazer) project with 90+ pullreqs and hundreds of commits |
+| ::{ flag=CN }:: ::huoyaoyuan::{ user=2428732 } | Outstanding contribution to the osu!(lazer) project |
+| ::{ flag=CN }:: ::kj415j45::{ user=9367540 } | Outstanding contribution and organisation of the Chinese localisation project for osu!, osu! wiki, and osu!(lazer) |
+| ::{ flag=DE }:: ::jorolf::{ user=7004641 } | Outstanding contribution to the osu!(lazer) project and creation of numerous media tools |
+| ::{ flag=AU }:: ::Syrin::{ user=5701575 } | Creator of [PerformancePlus](https://syrin.me/pp+/) and [osu!chan](https://osuchan.syrin.me) |
+| ::{ flag=SG }:: ::Raveille::{ user=1388767 } | Outstanding effort in the production and publishing of the Scorewatch project |
+| ::{ flag=FR }:: ::ThePooN::{ user=718454 } | Outstanding effort in the production and publishing of the Scorewatch project |
+| ::{ flag=US }:: ::MegaApple\1Pi::{ user=2148208 } | Outstanding efforts in furthering the osu! wiki project with countless revisions, reworks and reviews |
+| ::{ flag=PL }:: ::TPGPL::{ user=3944705 } | Cornerstone of the osu! wiki project and outstanding contribution throughout the years |
 
 ### 2019
 
@@ -146,29 +146,29 @@ Contributors who registered their accounts during an older era of the game have 
 
 | User | Contributions |
 | :-- | :-- |
-| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | World Cup organisation & osu! Coffee Hour host |
-| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Outstanding contribution to World Cup organisation and tournaments |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Outstanding contribution as a member of the [GMT](/wiki/People/Global_Moderation_Team) and osu! wiki team |
-| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | Outstanding contribution across many projects and domains |
-| ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | Outstanding work in player support and problem resolution |
-| ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | [Beatmap Packs](https://osu.ppy.sh/beatmaps/packs) project maintainer extraordinaire |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Developer of countless tools proven integral to the modern ranking cycle |
-| ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | Outstanding contribution to the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) project |
-| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Outstanding contribution across numerous projects and domains |
-| ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Outstanding contribution to the [GMT](/wiki/People/Global_Moderation_Team) and tournament maintenance |
-| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | [Project Loved](/wiki/Community/Project_Loved) team leader |
-| ::{ flag=CA }:: [Kaifin](https://osu.ppy.sh/users/2596942) | Early [Project Loved](/wiki/Community/Project_Loved) assistance and organisation |
-| ::{ flag=US }:: [Zak](https://osu.ppy.sh/users/1375955) | [Project Loved](/wiki/Community/Project_Loved) captain (osu!catch) |
-| ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) | [Project Loved](/wiki/Community/Project_Loved) captain (osu!taiko) |
-| ::{ flag=DE }:: [Tenshichan](https://osu.ppy.sh/users/1101600) | [Project Loved](/wiki/Community/Project_Loved) captain (osu!catch) |
-| ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783) | [Project Loved](/wiki/Community/Project_Loved) captain (osu!mania) |
-| ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) | [Project Loved](/wiki/Community/Project_Loved) captain (osu!mania) |
-| ::{ flag=AR }:: [Yuii-](https://osu.ppy.sh/users/2935923) | Outstanding contribution to the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
-| ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) | Outstanding contribution to the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
-| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | Outstanding contribution to the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
-| ::{ flag=US }:: [Mun](https://osu.ppy.sh/users/6699165) | Outstanding contribution to the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
-| ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) | Outstanding contribution to the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
-| ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706) | Outstanding contribution to the osu!(lazer) project |
+| ::{ flag=US }:: ::HappyStick::{ user=256802 } | World Cup organisation & osu! Coffee Hour host |
+| ::{ flag=AR }:: ::juankristal::{ user=443656 } | Outstanding contribution to World Cup organisation and tournaments |
+| ::{ flag=CL }:: ::WalterToro::{ user=5281416 } | Outstanding contribution as a member of the [GMT](/wiki/People/Global_Moderation_Team) and osu! wiki team |
+| ::{ flag=US }:: ::clayton::{ user=3666350 } | Outstanding contribution across many projects and domains |
+| ::{ flag=BE }:: ::VeilStar::{ user=4255720 } | Outstanding work in player support and problem resolution |
+| ::{ flag=AT }:: ::Stefan::{ user=626907 } | [Beatmap Packs](https://osu.ppy.sh/beatmaps/packs) project maintainer extraordinaire |
+| ::{ flag=SE }:: ::Naxess::{ user=8129817 } | Developer of countless tools proven integral to the modern ranking cycle |
+| ::{ flag=HU }:: ::Kurokami::{ user=260933 } | Outstanding contribution to the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) project |
+| ::{ flag=DE }:: ::p3n::{ user=123703 } | Outstanding contribution across numerous projects and domains |
+| ::{ flag=FR }:: ::shARPII::{ user=776257 } | Outstanding contribution to the [GMT](/wiki/People/Global_Moderation_Team) and tournament maintenance |
+| ::{ flag=US }:: ::Toy::{ user=2757689 } | [Project Loved](/wiki/Community/Project_Loved) team leader |
+| ::{ flag=CA }:: ::Kaifin::{ user=2596942 } | Early [Project Loved](/wiki/Community/Project_Loved) assistance and organisation |
+| ::{ flag=US }:: ::Zak::{ user=1375955 } | [Project Loved](/wiki/Community/Project_Loved) captain (osu!catch) |
+| ::{ flag=US }:: ::Backfire::{ user=263110 } | [Project Loved](/wiki/Community/Project_Loved) captain (osu!taiko) |
+| ::{ flag=DE }:: ::Tenshichan::{ user=1101600 } | [Project Loved](/wiki/Community/Project_Loved) captain (osu!catch) |
+| ::{ flag=PL }:: ::Kamikaze::{ user=2124783 } | [Project Loved](/wiki/Community/Project_Loved) captain (osu!mania) |
+| ::{ flag=GB }:: ::Pope Gadget::{ user=2288341 } | [Project Loved](/wiki/Community/Project_Loved) captain (osu!mania) |
+| ::{ flag=AR }:: ::Yuii-::{ user=2935923 } | Outstanding contribution to the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
+| ::{ flag=US }:: ::Halfslashed::{ user=4598899 } | Outstanding contribution to the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
+| ::{ flag=DE }:: ::Mir::{ user=8688812 } | Outstanding contribution to the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
+| ::{ flag=US }:: ::Mun::{ user=6699165 } | Outstanding contribution to the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
+| ::{ flag=FI }:: ::J1NX1337::{ user=3971179 } | Outstanding contribution to the [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program) |
+| ::{ flag=JP }:: ::ekr::{ user=4497706 } | Outstanding contribution to the osu!(lazer) project |
 
 ### 2020
 
@@ -180,27 +180,27 @@ Contributors who registered their accounts during an older era of the game have 
 
 | User | Contributions |
 | :-- | :-- |
-| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | Outstanding contribution to community affairs, events & tournaments |
-| ::{ flag=SG }:: [hehe](https://osu.ppy.sh/users/2123087) | Outstanding contribution to the mapping scene, events & tournaments |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Outstanding contribution to the mapping, modding and metadata scenes |
-| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | Outstanding contribution to the osu!mania game mode |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Outstanding contribution to the osu!catch game mode, and management |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Outstanding contribution to management and leadership affairs |
-| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | Outstanding contribution to the Global Moderation Team |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Outstanding contribution to the Mentorship project |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Outstanding contribution to the Mentorship project |
-| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Outstanding contribution to World Cup moderation and organisation |
-| ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | Outstanding, unwavering contribution to the osu!community at large |
-| ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943) | Outstanding contribution to the osu! World Cup |
-| ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203) | Outstanding contribution to the osu! World Cup |
-| ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992) | Outstanding contribution to the osu!mania tournament scene |
-| ::{ flag=DE }:: [Junihuhn](https://osu.ppy.sh/users/4182339) | Outstanding contribution to the osu! World Cups & tournament scene |
-| ::{ flag=NL }:: [Sartan](https://osu.ppy.sh/users/4100941) | Outstanding contribution to the osu!catch tournament scene |
-| ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Outstanding contribution to community moderation |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | Outstanding, unwavering contribution to player support & assistance |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Outstanding, unwavering contribution to player support & assistance |
-| ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and [Beatmap Nominators](/wiki/People/Beatmap_Nominators) |
-| ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | Outstanding contribution to osu! open source projects |
+| ::{ flag=CA }:: ::VINXIS::{ user=4323406 } | Outstanding contribution to community affairs, events & tournaments |
+| ::{ flag=SG }:: ::hehe::{ user=2123087 } | Outstanding contribution to the mapping scene, events & tournaments |
+| ::{ flag=US }:: ::Noffy::{ user=1541323 } | Outstanding contribution to the mapping, modding and metadata scenes |
+| ::{ flag=SG }:: ::Shoegazer::{ user=2520707 } | Outstanding contribution to the osu!mania game mode |
+| ::{ flag=GB }:: ::JBHyperion::{ user=4879508 } | Outstanding contribution to the osu!catch game mode, and management |
+| ::{ flag=GB }:: ::-Mo-::{ user=2202163 } | Outstanding contribution to management and leadership affairs |
+| ::{ flag=US }:: ::Chaos::{ user=2628870 } | Outstanding contribution to the Global Moderation Team |
+| ::{ flag=BE }:: ::yaspo::{ user=4945926 } | Outstanding contribution to the Mentorship project |
+| ::{ flag=CL }:: ::Uberzolik::{ user=1314547 } | Outstanding contribution to the Mentorship project |
+| ::{ flag=SE }:: ::PuffBuck::{ user=4234525 } | Outstanding contribution to World Cup moderation and organisation |
+| ::{ flag=GB }:: ::Doomsday::{ user=18983 } | Outstanding, unwavering contribution to the osu!community at large |
+| ::{ flag=AT }:: ::Omgforz::{ user=578943 } | Outstanding contribution to the osu! World Cup |
+| ::{ flag=AU }:: ::Kano::{ user=3036203 } | Outstanding contribution to the osu! World Cup |
+| ::{ flag=US }:: ::Halogen-::{ user=169992 } | Outstanding contribution to the osu!mania tournament scene |
+| ::{ flag=DE }:: ::Junihuhn::{ user=4182339 } | Outstanding contribution to the osu! World Cups & tournament scene |
+| ::{ flag=NL }:: ::Sartan::{ user=4100941 } | Outstanding contribution to the osu!catch tournament scene |
+| ::{ flag=RU }:: ::Kobold84::{ user=3227533 } | Outstanding contribution to community moderation |
+| ::{ flag=US }:: ::Death::{ user=3242450 } | Outstanding, unwavering contribution to player support & assistance |
+| ::{ flag=US }:: ::Dntm8kmeeatu::{ user=5428812 } | Outstanding, unwavering contribution to player support & assistance |
+| ::{ flag=CL }:: ::Milan-::{ user=1052994 } | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and [Beatmap Nominators](/wiki/People/Beatmap_Nominators) |
+| ::{ flag=US }:: ::Joehu::{ user=8549835 } | Outstanding contribution to osu! open source projects |
 
 ### 2021
 
@@ -212,13 +212,13 @@ Contributors who registered their accounts during an older era of the game have 
 
 | User | Contributions |
 | :-- | :-- |
-| ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) | Outstanding contribution to the community events and development |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Outstanding contribution to the World Cups and community events |
-| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | Outstanding contribution to the mapping and modding scene |
-| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Outstanding contribution to osu! development through many projects |
-| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Outstanding contribution to the osu! skinning and moderation scene |
-| ::{ flag=US }:: [I Must Decrease](https://osu.ppy.sh/users/2773526) | Outstanding contribution to scoring maintenance and development |
-| ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) | Outstanding contribution to the World Cups and community tournament scene |
+| ::{ flag=DE }:: ::hallowatcher::{ user=1874761 } | Outstanding contribution to the community events and development |
+| ::{ flag=GB }:: ::mangomizer::{ user=1893718 } | Outstanding contribution to the World Cups and community events |
+| ::{ flag=DE }:: ::Lasse::{ user=896613 } | Outstanding contribution to the mapping and modding scene |
+| ::{ flag=PL }:: ::spaceman\1atlas::{ user=3035836 } | Outstanding contribution to osu! development through many projects |
+| ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Outstanding contribution to the osu! skinning and moderation scene |
+| ::{ flag=US }:: ::I Must Decrease::{ user=2773526 } | Outstanding contribution to scoring maintenance and development |
+| ::{ flag=US }:: ::this1neguy::{ user=1797189 } | Outstanding contribution to the World Cups and community tournament scene |
 
 ### 2022
 
@@ -230,21 +230,21 @@ Contributors who registered their accounts during an older era of the game have 
 
 | User | Contributions |
 | :-- | :-- |
-| ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Outstanding contribution to the osu!taiko community tournament scene |
-| ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Outstanding contribution to the development of osu!(lazer) |
-| ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305) | Outstanding contribution to the development of osu!(lazer) and osu!framework |
-| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Outstanding contribution to osu! performance points development and maintenance |
-| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Outstanding contribution to osu! performance points development |
-| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Outstanding contribution to osu! performance points development and revitalizing the Flashlight mod |
-| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Outstanding contribution to the osu! wiki project |
-| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Outstanding contribution to the osu! wiki project |
-| ::{ flag=NZ }:: [Technocoder](https://osu.ppy.sh/users/10338558) | Outstanding contribution to macOS technical support |
-| ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) | Outstanding contribution to Project Loved management and organisation |
-| ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | Outstanding contribution to the osu! mapping scene via utility development |
-| ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Outstanding contribution to the osu!taiko mapping scene via utility development |
-| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Outstanding contribution to the osu! tournament scene and the World Cups |
-| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Outstanding contribution to the osu! tournament scene and the World Cups |
-| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Outstanding contribution to osu! IRL events and the tournament scene |
+| ::{ flag=FR }:: ::Kasumi-sama::{ user=6177263 } | Outstanding contribution to the osu!taiko community tournament scene |
+| ::{ flag=SA }:: ::frenzibyte::{ user=14210502 } | Outstanding contribution to the development of osu!(lazer) |
+| ::{ flag=HR }:: ::Susko3::{ user=18945305 } | Outstanding contribution to the development of osu!(lazer) and osu!framework |
+| ::{ flag=RU }:: ::StanR::{ user=7217455 } | Outstanding contribution to osu! performance points development and maintenance |
+| ::{ flag=GB }:: ::Apo11o::{ user=9558549 } | Outstanding contribution to osu! performance points development |
+| ::{ flag=AU }:: ::MBmasher::{ user=4498616 } | Outstanding contribution to osu! performance points development and revitalizing the Flashlight mod |
+| ::{ flag=SE }:: ::Walavouchey::{ user=5773079 } | Outstanding contribution to the osu! wiki project |
+| ::{ flag=ID }:: ::Niva::{ user=197805 } | Outstanding contribution to the osu! wiki project |
+| ::{ flag=NZ }:: ::Technocoder::{ user=10338558 } | Outstanding contribution to macOS technical support |
+| ::{ flag=LT }:: ::huu::{ user=6044237 } | Outstanding contribution to Project Loved management and organisation |
+| ::{ flag=NL }:: ::OliBomby::{ user=6573093 } | Outstanding contribution to the osu! mapping scene via utility development |
+| ::{ flag=TR }:: ::frukoyurdakul::{ user=7612550 } | Outstanding contribution to the osu!taiko mapping scene via utility development |
+| ::{ flag=BR }:: ::LeoFLT::{ user=3668779 } | Outstanding contribution to the osu! tournament scene and the World Cups |
+| ::{ flag=US }:: ::ChillierPear::{ user=9501251 } | Outstanding contribution to the osu! tournament scene and the World Cups |
+| ::{ flag=NL }:: ::cavoeboy::{ user=7361815 } | Outstanding contribution to osu! IRL events and the tournament scene |
 
 ### 2023
 
@@ -256,26 +256,26 @@ Contributors who registered their accounts during an older era of the game have 
 
 | User | Contributions |
 | :-- | :-- |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Exceptional and interminable dedication to community management over a decade |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Outstanding commitment to the moderation scene and the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
-| ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Outstanding contribution to moderation affairs & the osu! wiki (wikifriend) |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Outstanding and pioneering contribution to the osu!taiko game mode |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Outstanding leadership in beatmap management affairs |
-| ::{ flag=US }:: [Cychloryn](https://osu.ppy.sh/users/6921736) | Outstanding contribution to the mapping scene via utility development ([osumod.com](https://osumod.com)) |
-| ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | Outstanding contribution to offline tournaments and the growth of the community at large |
-| ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619) | Outstanding contribution to the osu! tournament scene and the World Cups |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | Outstanding contribution to the osu! tournament scene and the World Cups |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Outstanding contribution to the osu!taiko community and tournament scene |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Outstanding contribution to the skinning community |
-| ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Outstanding contribution to community moderation |
-| ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Outstanding contribution to graphic design across countless community projects |
-| ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | Outstanding contribution to beatmap quality assurance |
-| ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) | Outstanding contribution to osu! IRL events |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
-| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
-| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
-| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
-| ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
+| ::{ flag=AU }:: ::Ephemeral::{ user=102335 } | Exceptional and interminable dedication to community management over a decade |
+| ::{ flag=PL }:: ::Venix::{ user=5999631 } | Outstanding commitment to the moderation scene and the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| ::{ flag=CH }:: ::TicClick::{ user=672931 } | Outstanding contribution to moderation affairs & the osu! wiki (wikifriend) |
+| ::{ flag=TN }:: ::Hivie::{ user=14102976 } | Outstanding and pioneering contribution to the osu!taiko game mode |
+| ::{ flag=US }:: ::radar::{ user=7131099 } | Outstanding leadership in beatmap management affairs |
+| ::{ flag=US }:: ::Cychloryn::{ user=6921736 } | Outstanding contribution to the mapping scene via utility development ([osumod.com](https://osumod.com)) |
+| ::{ flag=US }:: ::BTMC::{ user=3171691 } | Outstanding contribution to offline tournaments and the growth of the community at large |
+| ::{ flag=CA }:: ::D I O::{ user=3958619 } | Outstanding contribution to the osu! tournament scene and the World Cups |
+| ::{ flag=CA }:: ::Azer::{ user=2155578 } | Outstanding contribution to the osu! tournament scene and the World Cups |
+| ::{ flag=MY }:: ::Jerry::{ user=605973 } | Outstanding contribution to the osu!taiko community and tournament scene |
+| ::{ flag=NL }:: ::Roan::{ user=8214639 } | Outstanding contribution to the skinning community |
+| ::{ flag=AR }:: ::Darksonic::{ user=570042 } | Outstanding contribution to community moderation |
+| ::{ flag=GB }:: ::Tanza3D::{ user=10379965 } | Outstanding contribution to graphic design across countless community projects |
+| ::{ flag=US }:: ::vrnl::{ user=4799788 } | Outstanding contribution to beatmap quality assurance |
+| ::{ flag=DE }:: ::Meyer::{ user=5452367 } | Outstanding contribution to osu! IRL events |
+| ::{ flag=ID }:: ::FAMoss::{ user=7707789 } | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
+| ::{ flag=ID }:: ::Hinsvar::{ user=1249323 } | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
+| ::{ flag=PH }:: ::Jemzuu::{ user=7890134 } | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
+| ::{ flag=RU }:: ::SMOKELIND::{ user=9327302 } | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
+| ::{ flag=LT }:: ::Strategas::{ user=2971837 } | Outstanding contribution to the [Mappers' Guild](/wiki/Community/Mappers_Guild) and Featured Artist showcase videos |
 
 ### 2025
 
@@ -287,20 +287,20 @@ Contributors who registered their accounts during an older era of the game have 
 
 | User | Contributions |
 | :-- | :-- |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Outstanding contribution to moderation affairs, team leadership and news coverage |
-| ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Outstanding coordination of osu! music and art production |
-| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | Outstanding contribution to the osu!catch community and mapping scene |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Outstanding contribution to the osu!catch community and integral tool development |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Outstanding contribution to the osu!mania modding and mapping scene |
-| ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Outstanding contribution to the osu!mania tournament and mapping scene |
-| ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Outstanding contribution to performance points development via integral tooling ([huismetbenen](https://pp.huismetbenen.nl/)) |
-| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Outstanding contribution to perfomance points development and osu!(stable) maintainance |
-| ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Outstanding contribution in uniting the community on Reddit [r/place](https://www.reddit.com/r/place/) events |
-| ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Outstanding contribution to the community replay documentation and tooling development |
-| ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Outstanding contribution to the community via tooling development ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |
-| ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Outstanding contribution to the community via tooling development ([osuplus](https://github.com/limjeck/osuplus)) |
-| ::{ flag=US }:: [Stevy](https://osu.ppy.sh/users/5053158) | Outstanding contribution to the community via tooling development ([owo! bot](https://owo-bot.xyz/)) |
-| ::{ flag=BE }:: [Badewanne3](https://osu.ppy.sh/users/2211396) | Outstanding contribution to the community via tooling development ([Bathbot](https://github.com/MaxOhn/Bathbot)) |
+| ::{ flag=RS }:: ::0x84f::{ user=7944724 } | Outstanding contribution to moderation affairs, team leadership and news coverage |
+| ::{ flag=CN }:: ::Sakura006::{ user=10365024 } | Outstanding coordination of osu! music and art production |
+| ::{ flag=US }:: ::Ascendance::{ user=2931883 } | Outstanding contribution to the osu!catch community and mapping scene |
+| ::{ flag=NL }:: ::Greaper::{ user=2369776 } | Outstanding contribution to the osu!catch community and integral tool development |
+| ::{ flag=ID }:: ::Maxus::{ user=4335785 } | Outstanding contribution to the osu!mania modding and mapping scene |
+| ::{ flag=US }:: ::-mint-::{ user=8976576 } | Outstanding contribution to the osu!mania tournament and mapping scene |
+| ::{ flag=NL }:: ::Mr HeliX::{ user=2330619 } | Outstanding contribution to performance points development via integral tooling ([huismetbenen](https://pp.huismetbenen.nl/)) |
+| ::{ flag=GB }:: ::tsunyoku::{ user=11315329 } | Outstanding contribution to perfomance points development and osu!(stable) maintainance |
+| ::{ flag=CA }:: ::emanfman::{ user=4136150 } | Outstanding contribution in uniting the community on Reddit [r/place](https://www.reddit.com/r/place/) events |
+| ::{ flag=RU }:: ::cyperdark::{ user=9893708 } | Outstanding contribution to the community replay documentation and tooling development |
+| ::{ flag=CA }:: ::FunOrange::{ user=2051389 } | Outstanding contribution to the community via tooling development ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |
+| ::{ flag=SG }:: ::oneplusone::{ user=1843447 } | Outstanding contribution to the community via tooling development ([osuplus](https://github.com/limjeck/osuplus)) |
+| ::{ flag=US }:: ::Stevy::{ user=5053158 } | Outstanding contribution to the community via tooling development ([owo! bot](https://owo-bot.xyz/)) |
+| ::{ flag=BE }:: ::Badewanne3::{ user=2211396 } | Outstanding contribution to the community via tooling development ([Bathbot](https://github.com/MaxOhn/Bathbot)) |
 
 ### 2026
 
@@ -312,30 +312,30 @@ Contributors who registered their accounts during an older era of the game have 
 
 | User | Contributions |
 | :-- | :-- |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Outstanding contribution to community excellence throughout osu! |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Outstanding contribution to the mapping and tournament scenes |
-| ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845) | Outstanding technical contributions to the osu! tournament scene |
-| ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692) | Outstanding technical contributions to the offline osu! tournament scene |
-| ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449) | Outstanding contribution to the [Beatmap Packs](https://osu.ppy.sh/beatmaps/packs) project |
-| ::{ flag=PL }:: [Wiek](https://osu.ppy.sh/users/2584698) | Outstanding contribution to community tooling ([Danser](https://github.com/Wieku/danser-go)) |
-| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Outstanding contribution to community tooling ([circleguard](https://github.com/circleguard/circleguard), [ossapi](https://github.com/Liam-DeVoe/ossapi)) |
-| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | Longstanding contribution to community and moderation affairs |
-| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Outstanding contribution to player support over many years |
-| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Outstanding contribution to moderation across various platforms |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Longstanding contribution to the mapping and modding community |
-| ::{ flag=AT }:: [Maarvin](https://osu.ppy.sh/users/6411631) | Outstanding contribution to development affairs |
-| ::{ flag=DE }:: [The_Last_Cookie](https://osu.ppy.sh/users/11587828) | Longstanding contribution to osu! wiki German translations |
-| ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | Longstanding contribution to osu! wiki Spanish translations |
-| ::{ flag=ES }:: [Agatem](https://osu.ppy.sh/users/18202514) | Longstanding contribution to osu! wiki Spanish translations |
-| ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) | Longstanding contribution to osu! wiki Chinese translations |
+| ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 } | Outstanding contribution to community excellence throughout osu! |
+| ::{ flag=BR }:: ::Dada::{ user=9119507 } | Outstanding contribution to the mapping and tournament scenes |
+| ::{ flag=US }:: ::Stage::{ user=8191845 } | Outstanding technical contributions to the osu! tournament scene |
+| ::{ flag=GB }:: ::ilw8::{ user=14167692 } | Outstanding technical contributions to the offline osu! tournament scene |
+| ::{ flag=KR }:: ::Shige-Tori\[a\]::{ user=4459449 } | Outstanding contribution to the [Beatmap Packs](https://osu.ppy.sh/beatmaps/packs) project |
+| ::{ flag=PL }:: ::Wiek::{ user=2584698 } | Outstanding contribution to community tooling ([Danser](https://github.com/Wieku/danser-go)) |
+| ::{ flag=US }:: ::tybug::{ user=12092800 } | Outstanding contribution to community tooling ([circleguard](https://github.com/circleguard/circleguard), [ossapi](https://github.com/Liam-DeVoe/ossapi)) |
+| ::{ flag=GB }:: ::chromb::{ user=10238680 } | Longstanding contribution to community and moderation affairs |
+| ::{ flag=DE }:: ::Lyawi::{ user=5851253 } | Outstanding contribution to player support over many years |
+| ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Outstanding contribution to moderation across various platforms |
+| ::{ flag=CN }:: ::Mafumafu::{ user=3076909 } | Longstanding contribution to the mapping and modding community |
+| ::{ flag=AT }:: ::Maarvin::{ user=6411631 } | Outstanding contribution to development affairs |
+| ::{ flag=DE }:: ::The\1Last\1Cookie::{ user=11587828 } | Longstanding contribution to osu! wiki German translations |
+| ::{ flag=PE }:: ::Tiburon::{ user=18115022 } | Longstanding contribution to osu! wiki Spanish translations |
+| ::{ flag=ES }:: ::Agatem::{ user=18202514 } | Longstanding contribution to osu! wiki Spanish translations |
+| ::{ flag=CN }:: ::Muziyami::{ user=7003013 } | Longstanding contribution to osu! wiki Chinese translations |
 
 ## History
 
-During February 2018, the old contributor badge by ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) was redesigned by ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) due to not matching the new website's colour scheme.[^redesign-reasons]
+During February 2018, the old contributor badge by ::{ flag=US }:: ::RBRat3::{ user=307202 } was redesigned by ::{ flag=JP }:: ::flyte::{ user=3103765 } due to not matching the new website's colour scheme.[^redesign-reasons]
 
 ![1st design change comparison](img/design-change-1.png)
 
-Due to a lack of "soul",[^redesign-reasons] the design was changed again on 21 July 2023. This time the initial design was refreshed by ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) and split into two versions, where older contributors (with a user ID below 4,000,000) saw a revert to the original while newer contributors received a more colourful variant.
+Due to a lack of "soul",[^redesign-reasons] the design was changed again on 21 July 2023. This time the initial design was refreshed by ::{ flag=US }:: ::RBRat3::{ user=307202 } and split into two versions, where older contributors (with a user ID below 4,000,000) saw a revert to the original while newer contributors received a more colourful variant.
 
 ![2nd design change comparison](img/design-change-2.png)
 

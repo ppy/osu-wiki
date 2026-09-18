@@ -8,7 +8,7 @@ tags:
 
 ![CFIC 2 logo](img/logo.jpg)
 
-The **Catch French Intermediate Cup 2** (***CFIC 2***) was an intermediate French double-elimination 1v1 osu!catch tournament hosted by ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). This was the second instalment of the Catch French Intermediate Cup and part of the Catch French Cup series.
+The **Catch French Intermediate Cup 2** (***CFIC 2***) was an intermediate French double-elimination 1v1 osu!catch tournament hosted by ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 }, and ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 }. This was the second instalment of the Catch French Intermediate Cup and part of the Catch French Cup series.
 
 ## Tournament schedule
 
@@ -37,14 +37,14 @@ The Catch French Intermediate Cup 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Mappool selector | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=FR }:: [Rougoku](https://osu.ppy.sh/users/6900166) |
-| Referee | ::{ flag=FR }:: [Apsuko](https://osu.ppy.sh/users/9313135), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Streamer | ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
-| Commentator | ::{ flag=FR }:: [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Kammthaar](https://osu.ppy.sh/users/8802523), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| Designer | ::{ flag=SG }:: [youi](https://osu.ppy.sh/users/7537133) |
-| Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 } |
+| Mappool selector | ::{ flag=TN }:: ::-Ken::{ user=4430811 }, ::{ flag=FR }:: ::Rougoku::{ user=6900166 } |
+| Referee | ::{ flag=FR }:: ::Apsuko::{ user=9313135 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::Mimir::{ user=7382734 }, ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 } |
+| Streamer | ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 }, ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 } |
+| Commentator | ::{ flag=FR }:: ::4L-Chan 3 Porte::{ user=7253987 }, ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 }, ::{ flag=FR }:: ::Kammthaar::{ user=8802523 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 }, ::{ flag=FR }:: ::Yruama::{ user=8221467 } |
+| Designer | ::{ flag=SG }:: ::youi::{ user=7537133 } |
+| Statistician | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## Links
 
@@ -60,19 +60,19 @@ The Catch French Intermediate Cup 2 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428), ::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397), ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688), ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) |
-| High | ::{ flag=FR }:: [Khalemm](https://osu.ppy.sh/users/11983416), ::{ flag=FR }:: [TomyLeFaux](https://osu.ppy.sh/users/9504653), ::{ flag=FR }:: [NoLimitFS](https://osu.ppy.sh/users/10411609), ::{ flag=FR }:: [KillingSpin](https://osu.ppy.sh/users/4073302) |
-| Low | ::{ flag=FR }:: [Pizu](https://osu.ppy.sh/users/9475990), ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141), ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626), ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Unseeded | ::{ flag=FR }:: [NinjaCoktail](https://osu.ppy.sh/users/11431902), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
+| Top | ::{ flag=FR }:: ::Electr0o::{ user=9484428 }, ::{ flag=FR }:: ::Dask::{ user=4151397 }, ::{ flag=FR }:: ::Fuka Pura::{ user=2326688 }, ::{ flag=FR }:: ::dracoV::{ user=7925725 } |
+| High | ::{ flag=FR }:: ::Khalemm::{ user=11983416 }, ::{ flag=FR }:: ::TomyLeFaux::{ user=9504653 }, ::{ flag=FR }:: ::NoLimitFS::{ user=10411609 }, ::{ flag=FR }:: ::KillingSpin::{ user=4073302 } |
+| Low | ::{ flag=FR }:: ::Pizu::{ user=9475990 }, ::{ flag=FR }:: ::Aequo3::{ user=4495141 }, ::{ flag=FR }:: ::Zard::{ user=6277626 }, ::{ flag=FR }:: ::Kaleesy Pura::{ user=1800077 } |
+| Unseeded | ::{ flag=FR }:: ::NinjaCoktail::{ user=11431902 }, ::{ flag=FR }:: ::YANOO123::{ user=5122949 }, ::{ flag=FR }:: ::Oasix::{ user=6183012 }, ::{ flag=FR }:: ::redjiii::{ user=1378728 } |
 
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| A | ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688) | ::{ flag=FR }:: [KillingSpin](https://osu.ppy.sh/users/4073302) | ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| B | ::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397) | ::{ flag=FR }:: [Khalemm](https://osu.ppy.sh/users/11983416) | ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141) | ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
-| C | ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) | ::{ flag=FR }:: [TomyLeFaux](https://osu.ppy.sh/users/9504653) | ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626) | ::{ flag=FR }:: [NinjaCoktail](https://osu.ppy.sh/users/11431902) |
-| D | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) | ::{ flag=FR }:: [NoLimitFS](https://osu.ppy.sh/users/10411609) | ::{ flag=FR }:: [Pizu](https://osu.ppy.sh/users/9475990) | ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012) |
+| A | ::{ flag=FR }:: ::Fuka Pura::{ user=2326688 } | ::{ flag=FR }:: ::KillingSpin::{ user=4073302 } | ::{ flag=FR }:: ::Kaleesy Pura::{ user=1800077 } | ::{ flag=FR }:: ::YANOO123::{ user=5122949 } |
+| B | ::{ flag=FR }:: ::Dask::{ user=4151397 } | ::{ flag=FR }:: ::Khalemm::{ user=11983416 } | ::{ flag=FR }:: ::Aequo3::{ user=4495141 } | ::{ flag=FR }:: ::redjiii::{ user=1378728 } |
+| C | ::{ flag=FR }:: ::Electr0o::{ user=9484428 } | ::{ flag=FR }:: ::TomyLeFaux::{ user=9504653 } | ::{ flag=FR }:: ::Zard::{ user=6277626 } | ::{ flag=FR }:: ::NinjaCoktail::{ user=11431902 } |
+| D | ::{ flag=FR }:: ::dracoV::{ user=7925725 } | ::{ flag=FR }:: ::NoLimitFS::{ user=10411609 } | ::{ flag=FR }:: ::Pizu::{ user=9475990 } | ::{ flag=FR }:: ::Oasix::{ user=6183012 } |
 
 ## Podium
 
@@ -80,9 +80,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: ::Fuka Pura::{ user=2326688 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: ::Kaleesy Pura::{ user=1800077 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: ::dracoV::{ user=7925725 } |
 
 ## Mappools
 

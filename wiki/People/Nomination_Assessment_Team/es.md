@@ -101,16 +101,16 @@ Una vez que un miembro del NAT decide dejar el equipo de forma amistosa, se le p
 
 Los antiguos miembros del NAT que actualmente tienen acceso interno son:
 
-- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
+- ::{ flag=GB }:: ::AJT::{ user=3181083 }
+- ::{ flag=DE }:: ::FuJu::{ user=10773882 }
+- ::{ flag=CN }:: ::Ryuusei Aika::{ user=7777875 }
+- ::{ flag=BE }:: ::yaspo::{ user=4945926 }
 
 ## Liderazgo del NAT
 
 A partir de marzo de 2023, el NAT decidió volver a adoptar el concepto de liderazgo, que [se usaba anteriormente](/wiki/People/Quality_Assurance_Team/QAT_Leaders) en el [QAT](/wiki/People/Quality_Assurance_Team). El líder del NAT tiene la responsabilidad de ambas categorías, la de evaluación y la de estructural, por lo que puede supervisar y participar en todos los aspectos del NAT.
 
-El líder actual del NAT es ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976).
+El líder actual del NAT es ::{ flag=TN }:: ::Hivie::{ user=14102976 }.
 
 ### Responsabilidades
 
@@ -138,49 +138,49 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italiano |
-| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
-| ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Finés |
-| ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | Sueco |
-| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Tailandés |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
-| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finés |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chino |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Francés, español |
-| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chino |
-| ::{ flag=RO }:: [bsm](https://osu.ppy.sh/users/12366071) | Rumano |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Alemán |
+| ::{ flag=IT }:: ::-kevincela-::{ user=266596 } | Italiano |
+| ::{ flag=US }:: ::-White::{ user=16276548 } |  |
+| ::{ flag=FI }:: ::Asphyxia::{ user=1715720 } | Finés |
+| ::{ flag=SE }:: ::byd::{ user=6398464 } | Sueco |
+| ::{ flag=TH }:: ::Electoz::{ user=6485263 } | Tailandés |
+| ::{ flag=BE }:: ::enneya::{ user=10959501 } | Neerlandés |
+| ::{ flag=FI }:: ::fllecc::{ user=14060327 } | Finés |
+| ::{ flag=CA }:: ::Lafayla::{ user=5312547 } |  |
+| ::{ flag=CN }:: ::Mafumafu::{ user=3076909 } | Chino |
+| ::{ flag=KR }:: ::momoyo::{ user=12469536 } | Francés, español |
+| ::{ flag=TW }:: ::Muchin::{ user=9834516 } | Chino |
+| ::{ flag=RO }:: ::bsm::{ user=12366071 } | Rumano |
+| ::{ flag=US }:: ::Noffy::{ user=1541323 } |  |
+| ::{ flag=DE }:: ::Okoayu::{ user=1623405 } | Alemán |
 
 #### osu!taiko
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chino |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonés, chino |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugués |
-| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Alemán, algo de francés |
+| ::{ flag=SG }:: ::arcpotato::{ user=12842392 } | Chino |
+| ::{ flag=HK }:: ::BlackBN::{ user=6291741 } | Cantonés, chino |
+| ::{ flag=TN }:: ::Hivie::{ user=14102976 } | Árabe, francés |
+| ::{ flag=BR }:: ::Ideal::{ user=3869519 } | Portugués |
+| ::{ flag=AT }:: ::Yasuho::{ user=8458835 } | Alemán, algo de francés |
 
 #### osu!catch
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Alemán |
-| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Coreano |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Coreano |
+| ::{ flag=AT }:: ::Daletto::{ user=7592136 } | Alemán |
+| ::{ flag=KR }:: ::Rocma::{ user=566276 } | Coreano |
+| ::{ flag=KR }:: ::Spectator::{ user=702598 } | Coreano |
 
 #### osu!mania
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Español |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chino |
-| ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | Italiano |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalán, español |
+| ::{ flag=VN }:: ::Akasha-::{ user=2596306 } | Vietnamita |
+| ::{ flag=DO }:: ::Antalf::{ user=8793773 } | Español |
+| ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 } | Chino |
+| ::{ flag=IT }:: ::Harbyter::{ user=1147679 } | Italiano |
+| ::{ flag=ID }:: ::Maxus::{ user=4335785 } | Indonesio |
+| ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 } | Catalán, español |
 
 ### Estructural
 
@@ -188,18 +188,18 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 
 | Usuario | Tarea |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Manejo de discusiones internas, asuntos y documentación |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Organización del programa BN Mentorship |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Desarrollo de [Nomination Planner](https://bnplanner.greaper.net/beatmaps) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) |
+| ::{ flag=GB }:: ::-Mo-::{ user=2202163 } | Manejo de discusiones internas, asuntos y documentación |
+| ::{ flag=BR }:: ::Dada::{ user=9119507 } | Organización del programa BN Mentorship |
+| ::{ flag=NL }:: ::Greaper::{ user=2369776 } | Desarrollo de [Nomination Planner](https://bnplanner.greaper.net/beatmaps) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
+| ::{ flag=US }:: ::pishifat::{ user=3178418 } | Desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) |
 
 Los siguientes miembros del NAT son principalmente evaluadores, pero también contribuyen a tareas estructurales:
 
 | Usuario | Tarea |
 | :-- | :-- |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Manejo de los reportes de contenido, desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
+| ::{ flag=TN }:: ::Hivie::{ user=14102976 } | Liderazgo del NAT, desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
+| ::{ flag=ES }:: ::RandomeLoL::{ user=7080063 } | Manejo de los reportes de contenido, desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
 
 ---
 
-Además, el bot del [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) actúa como un proxy para que el NAT entregue mensajes de forma colectiva bajo una cuenta de usuario sin atribuirlo directamente a nadie. Puede ser usado para respuestas de evaluación, evaluaciones simuladas, mediaciones, reportes y revisiones de contenido, entre otros fines diversos.
+Además, el bot del ::Nomination Assessment Team::{ user=6616586 } actúa como un proxy para que el NAT entregue mensajes de forma colectiva bajo una cuenta de usuario sin atribuirlo directamente a nadie. Puede ser usado para respuestas de evaluación, evaluaciones simuladas, mediaciones, reportes y revisiones de contenido, entre otros fines diversos.

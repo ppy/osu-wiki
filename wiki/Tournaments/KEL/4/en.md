@@ -9,7 +9,7 @@ tags:
 
 ![KEL LAN Tournament 4](img/banner.jpg)
 
-**KEL LAN Tournament 4** was a 1v1 multi-bracket LAN tournament located in Gdańsk, Poland hosted by ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988) and ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016). It was the fourth instalment of the KEL LAN Tournament series.
+**KEL LAN Tournament 4** was a 1v1 multi-bracket LAN tournament located in Gdańsk, Poland hosted by ::{ flag=PL }:: ::myksmyks::{ user=6840526 }, ::{ flag=PL }:: ::flapczek::{ user=8210988 } and ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }. It was the fourth instalment of the KEL LAN Tournament series.
 
 ## Tournament schedule
 
@@ -39,16 +39,16 @@ The KEL LAN Tournament 4 offered a $400 cash prize pool. A keyboard and keypads 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organisers | ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
-| Admins | ::{ flag=PL }:: [Daria Maria](https://osu.ppy.sh/users/10806219), ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=AT }:: [FCnt](https://osu.ppy.sh/users/7336729) |
-| Production team | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384) |
-| Developer | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384) |
-| Mappooler | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233) |
-| Playtesters | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285), ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731), ::{ flag=RU }:: [Markrum](https://osu.ppy.sh/users/11854446), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233), ::{ flag=RU }:: [nejzha](https://osu.ppy.sh/users/8105138) |
-| GFX | ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=RU }:: [Ang](https://osu.ppy.sh/users/19124145) |
-| Referees | ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=SE }:: [ellen-](https://osu.ppy.sh/users/7630166), ::{ flag=FI }:: [kimi321](https://osu.ppy.sh/users/6962961), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=HU }:: [Szofiianne](https://osu.ppy.sh/users/30979400), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=DE }:: [roseykira](https://osu.ppy.sh/users/29021628), ::{ flag=EE }:: [MEGAHELLO](https://osu.ppy.sh/users/11155994), ::{ flag=PL }:: [StalowyRycerz](https://osu.ppy.sh/users/36748030), ::{ flag=RO }:: [Wilted Rose](https://osu.ppy.sh/users/11068604), ::{ flag=PL }:: [Wojtulas](https://osu.ppy.sh/users/12975155), ::{ flag=FI }:: [Nikva](https://osu.ppy.sh/users/21353706), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026) |
-| Commentators | ::{ flag=PL }:: [_demo](https://osu.ppy.sh/users/3556891), ::{ flag=RO }:: [BeZonaurul](https://osu.ppy.sh/users/11068604), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [MrHyena](https://osu.ppy.sh/users/2442779), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650) |
-| Sheeter | ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521) |
+| Organisers | ::{ flag=PL }:: ::myksmyks::{ user=6840526 }, ::{ flag=PL }:: ::flapczek::{ user=8210988 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 } |
+| Admins | ::{ flag=PL }:: ::Daria Maria::{ user=10806219 }, ::{ flag=PL }:: ::Anczak::{ user=8587966 }, ::{ flag=AT }:: ::FCnt::{ user=7336729 } |
+| Production team | ::{ flag=GB }:: ::ilw8::{ user=14167692 }, ::{ flag=FR }:: ::ThePooN::{ user=718454 }, ::{ flag=PL }:: ::flapczek::{ user=8210988 }, ::{ flag=PL }:: ::myksmyks::{ user=6840526 }, ::{ flag=PL }:: ::LiquidPL::{ user=5044384 } |
+| Developer | ::{ flag=GB }:: ::ilw8::{ user=14167692 }, ::{ flag=AU }:: ::Fairy Bread::{ user=8306102 }, ::{ flag=FR }:: ::ThePooN::{ user=718454 }, ::{ flag=PL }:: ::LiquidPL::{ user=5044384 } |
+| Mappooler | ::{ flag=PL }:: ::Bartek22830::{ user=6404027 }, ::{ flag=PL }:: ::milosz::{ user=13108233 } |
+| Playtesters | ::{ flag=PL }:: ::Bartek22830::{ user=6404027 }, ::{ flag=RU }:: ::desuqe::{ user=9712285 }, ::{ flag=NL }:: ::G e n g a o z o::{ user=14390731 }, ::{ flag=RU }:: ::Markrum::{ user=11854446 }, ::{ flag=FI }:: ::nemq::{ user=11644972 }, ::{ flag=US }:: ::Pezz::{ user=10651106 }, ::{ flag=TR }:: ::Raikouhou::{ user=8007528 }, ::{ flag=MX }:: ::Riot::{ user=4256461 }, ::{ flag=SE }:: ::scylla::{ user=9405745 }, ::{ flag=PL }:: ::milosz::{ user=13108233 }, ::{ flag=RU }:: ::nejzha::{ user=8105138 } |
+| GFX | ::{ flag=US }:: ::Spoo::{ user=11805037 }, ::{ flag=PL }:: ::flapczek::{ user=8210988 }, ::{ flag=RU }:: ::Ang::{ user=19124145 } |
+| Referees | ::{ flag=PL }:: ::Anczak::{ user=8587966 }, ::{ flag=PL }:: ::flapczek::{ user=8210988 }, ::{ flag=SE }:: ::ellen-::{ user=7630166 }, ::{ flag=FI }:: ::kimi321::{ user=6962961 }, ::{ flag=SK }:: ::Mavosiik::{ user=18927594 }, ::{ flag=PL }:: ::myksmyks::{ user=6840526 }, ::{ flag=HU }:: ::Szofiianne::{ user=30979400 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=PL }:: ::Tutka::{ user=8170022 }, ::{ flag=DE }:: ::roseykira::{ user=29021628 }, ::{ flag=EE }:: ::MEGAHELLO::{ user=11155994 }, ::{ flag=PL }:: ::StalowyRycerz::{ user=36748030 }, ::{ flag=RO }:: ::Wilted Rose::{ user=11068604 }, ::{ flag=PL }:: ::Wojtulas::{ user=12975155 }, ::{ flag=FI }:: ::Nikva::{ user=21353706 }, ::{ flag=CL }:: ::Isita::{ user=13973026 } |
+| Commentators | ::{ flag=PL }:: ::\1demo::{ user=3556891 }, ::{ flag=RO }:: ::BeZonaurul::{ user=11068604 }, ::{ flag=ID }:: ::BlankTap::{ user=10137131 }, ::{ flag=UA }:: ::Filoxen::{ user=24454271 }, ::{ flag=SK }:: ::Mavosiik::{ user=18927594 }, ::{ flag=PL }:: ::MrHyena::{ user=2442779 }, ::{ flag=GB }:: ::SadShiba::{ user=10747626 }, ::{ flag=GB }:: ::TorvaZero::{ user=22609063 }, ::{ flag=US }:: ::M I L E S::{ user=6036351 }, ::{ flag=IT }:: ::Spazza17::{ user=3516241 }, ::{ flag=PL }:: ::Wilchq::{ user=2021758 }, ::{ flag=PL }:: ::Rafis::{ user=2558286 }, ::{ flag=GR }:: ::JackPaX::{ user=11226645 }, ::{ flag=US }:: ::im a fancy lad::{ user=4908650 } |
+| Sheeter | ::{ flag=SK }:: ::Mavosiik::{ user=18927594 }, ::{ flag=PL }:: ::P a t r i c k::{ user=6814521 } |
 
 ## Links
 
@@ -64,38 +64,38 @@ The KEL LAN Tournament 4 offered a $400 cash prize pool. A keyboard and keypads 
 
 |  | Country | Username |
 | :-: | :-: | :-- |
-| ::{ flag=PL }:: | **Poland** | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) |
-| ::{ flag=GB }:: | **United Kingdom** | [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ::{ flag=UA }:: | **Ukraine** | [GET LOVED](https://osu.ppy.sh/users/13705417) |
-| ::{ flag=NO }:: | **Norway** | [NINERIK](https://osu.ppy.sh/users/10549880) |
-| ::{ flag=DE }:: | **Germany** | [runnysunny](https://osu.ppy.sh/users/15339747) |
-| ::{ flag=PL }:: | **Poland** | [godzilla](https://osu.ppy.sh/users/4740837) |
-| ::{ flag=PL }:: | **Poland** | [gnahus](https://osu.ppy.sh/users/12779141) |
-| ::{ flag=ES }:: | **Spain** | [A L E P H](https://osu.ppy.sh/users/6735738) |
-| ::{ flag=PL }:: | **Poland** | [Rafis](https://osu.ppy.sh/users/2558286) |
-| ::{ flag=PL }:: | **Poland** | [Agent5d](https://osu.ppy.sh/users/5472693) |
-| ::{ flag=GB }:: | **United Kingdom** | [fudge](https://osu.ppy.sh/users/11592896) |
-| ::{ flag=PL }:: | **Poland** | [Kosiarek](https://osu.ppy.sh/users/9086565) |
-| ::{ flag=PL }:: | **Poland** | [Mastasz](https://osu.ppy.sh/users/1876565) |
-| ::{ flag=PL }:: | **Poland** | [DudsonZ](https://osu.ppy.sh/users/3245028) |
-| ::{ flag=PL }:: | **Poland** | [hedayo](https://osu.ppy.sh/users/9323821) |
-| ::{ flag=AL }:: | **Albania** | [Taldux](https://osu.ppy.sh/users/7249261) |
-| ::{ flag=GB }:: | **United Kingdom** | [Mahmood](https://osu.ppy.sh/users/7627844) |
-| ::{ flag=PL }:: | **Poland** | [masi paws](https://osu.ppy.sh/users/9091312) |
-| ::{ flag=PL }:: | **Poland** | [podlu](https://osu.ppy.sh/users/17454289) |
-| ::{ flag=PL }:: | **Poland** | [Kuba -](https://osu.ppy.sh/users/9322480) |
-| ::{ flag=PL }:: | **Poland** | [lolowyo](https://osu.ppy.sh/users/11692680) |
-| ::{ flag=PL }:: | **Poland** | [ianski](https://osu.ppy.sh/users/10481416) |
-| ::{ flag=PL }:: | **Poland** | [Victoor](https://osu.ppy.sh/users/8529128) |
-| ::{ flag=PL }:: | **Poland** | [kacperniszon](https://osu.ppy.sh/users/4656634) |
-| ::{ flag=PL }:: | **Poland** | [Mikjorn](https://osu.ppy.sh/users/11753451) |
-| ::{ flag=PL }:: | **Poland** | [nieudas](https://osu.ppy.sh/users/17195113) |
-| ::{ flag=PL }:: | **Poland** | [NieTheDie](https://osu.ppy.sh/users/9783155) |
-| ::{ flag=PL }:: | **Poland** | [kaenen](https://osu.ppy.sh/users/9599681) |
-| ::{ flag=PL }:: | **Poland** | [Tiler](https://osu.ppy.sh/users/11142471) |
-| ::{ flag=PL }:: | **Poland** | [konfi](https://osu.ppy.sh/users/12209670) |
-| ::{ flag=GB }:: | **United Kingdom** | [LilRaiN00](https://osu.ppy.sh/users/10903895) |
-| ::{ flag=PL }:: | **Poland** | [pokora](https://osu.ppy.sh/users/7109747) |
+| ::{ flag=PL }:: | **Poland** | ::MALISZEWSKI::{ user=12408961 } |
+| ::{ flag=GB }:: | **United Kingdom** | ::Bubbleman::{ user=5182050 } |
+| ::{ flag=UA }:: | **Ukraine** | ::GET LOVED::{ user=13705417 } |
+| ::{ flag=NO }:: | **Norway** | ::NINERIK::{ user=10549880 } |
+| ::{ flag=DE }:: | **Germany** | ::runnysunny::{ user=15339747 } |
+| ::{ flag=PL }:: | **Poland** | ::godzilla::{ user=4740837 } |
+| ::{ flag=PL }:: | **Poland** | ::gnahus::{ user=12779141 } |
+| ::{ flag=ES }:: | **Spain** | ::A L E P H::{ user=6735738 } |
+| ::{ flag=PL }:: | **Poland** | ::Rafis::{ user=2558286 } |
+| ::{ flag=PL }:: | **Poland** | ::Agent5d::{ user=5472693 } |
+| ::{ flag=GB }:: | **United Kingdom** | ::fudge::{ user=11592896 } |
+| ::{ flag=PL }:: | **Poland** | ::Kosiarek::{ user=9086565 } |
+| ::{ flag=PL }:: | **Poland** | ::Mastasz::{ user=1876565 } |
+| ::{ flag=PL }:: | **Poland** | ::DudsonZ::{ user=3245028 } |
+| ::{ flag=PL }:: | **Poland** | ::hedayo::{ user=9323821 } |
+| ::{ flag=AL }:: | **Albania** | ::Taldux::{ user=7249261 } |
+| ::{ flag=GB }:: | **United Kingdom** | ::Mahmood::{ user=7627844 } |
+| ::{ flag=PL }:: | **Poland** | ::masi paws::{ user=9091312 } |
+| ::{ flag=PL }:: | **Poland** | ::podlu::{ user=17454289 } |
+| ::{ flag=PL }:: | **Poland** | ::Kuba -::{ user=9322480 } |
+| ::{ flag=PL }:: | **Poland** | ::lolowyo::{ user=11692680 } |
+| ::{ flag=PL }:: | **Poland** | ::ianski::{ user=10481416 } |
+| ::{ flag=PL }:: | **Poland** | ::Victoor::{ user=8529128 } |
+| ::{ flag=PL }:: | **Poland** | ::kacperniszon::{ user=4656634 } |
+| ::{ flag=PL }:: | **Poland** | ::Mikjorn::{ user=11753451 } |
+| ::{ flag=PL }:: | **Poland** | ::nieudas::{ user=17195113 } |
+| ::{ flag=PL }:: | **Poland** | ::NieTheDie::{ user=9783155 } |
+| ::{ flag=PL }:: | **Poland** | ::kaenen::{ user=9599681 } |
+| ::{ flag=PL }:: | **Poland** | ::Tiler::{ user=11142471 } |
+| ::{ flag=PL }:: | **Poland** | ::konfi::{ user=12209670 } |
+| ::{ flag=GB }:: | **United Kingdom** | ::LilRaiN00::{ user=10903895 } |
+| ::{ flag=PL }:: | **Poland** | ::pokora::{ user=7109747 } |
 
 ## Mappools
 

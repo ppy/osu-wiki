@@ -412,15 +412,15 @@ X Y WIDTH HEIGHT REDIRECT TITLE
 
 | Название | Автор | Описание |
 | :-: | :-: | :-- |
-| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | Редактор BBCode для юзерпейджа с мгновенным показом результата |
-| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | Редактор BBCode для юзерпейджа с мгновенным показом результата (проект заброшен) |
-| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[_____________]](https://osu.ppy.sh/users/12036908) | Создание цветовых градиентов для юзерпейджа |
-| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Расширение для браузера, добавляющее на сайт osu! дополнительные кнопки BBCode и другие возможности |
+| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: ::rezzvy::{ user=8804560 } | Редактор BBCode для юзерпейджа с мгновенным показом результата |
+| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: ::HonokaKousakaTV::{ user=18595366 } | Редактор BBCode для юзерпейджа с мгновенным показом результата (проект заброшен) |
+| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: ::\1\1\1\1\1\1\1\1\1\1\1\1\1\1\1::{ user=12036908 } | Создание цветовых градиентов для юзерпейджа |
+| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Расширение для браузера, добавляющее на сайт osu! дополнительные кнопки BBCode и другие возможности |
 | [textcolorizer](https://www.stuffbydavid.com/textcolorizer) | david | Раскраска текста в BBCode и HTML |
 
 ## Заметки
 
-- Эта статья — переработанное руководство [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) от [Stefan](https://osu.ppy.sh/users/626907).
+- Эта статья — переработанное руководство [HOW TO: Forum BBCodes](https://osu.ppy.sh/community/forums/topics/445599) от ::Stefan::{ user=626907 }.
 - Когда-то при указании [цвета шрифта](#цвет-шрифта) можно было использовать слово `transparent`, делающее его прозрачным. В настоящее время эта возможность не работает (текст сохраняет белый цвет).
 - До добавления тега `imagemap` к картинке можно было добавлять ссылку, комбинируя теги `url` и `img`, — но всего одну. Если требовалось создать несколько ссылок, картинку приходилось резать на индивидуальные мелкие фрагменты, а затем вставлять и размечать каждый из них отдельно.
 

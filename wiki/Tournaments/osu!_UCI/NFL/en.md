@@ -37,11 +37,11 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Position | Member(s) |
 | :-- | :-- |
-| Mappool selector | ::{ flag=US }:: [[Blue]](https://osu.ppy.sh/users/13192092), ::{ flag=US }:: [[Nick]](https://osu.ppy.sh/users/9726582), ::{ flag=US }:: [migin](https://osu.ppy.sh/users/11118735), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659), ::{ flag=US }:: [slushy](https://osu.ppy.sh/users/3692940), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612) |
-| Streamer | ::{ flag=US }:: [R34pling](https://osu.ppy.sh/users/7662172) |
-| Commentator | ::{ flag=XX }:: Matthew<!-- TODO what is his osu profile -->, ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659), ::{ flag=US }:: [ruruchewy](https://osu.ppy.sh/users/7112839), ::{ flag=US }:: [Sukida](https://osu.ppy.sh/users/4097867), ::{ flag=US }:: [Yattaze](https://osu.ppy.sh/users/13870255) |
-| Referee | ::{ flag=US }:: [[Blue]](https://osu.ppy.sh/users/13192092), ::{ flag=US }:: [[Nick]](https://osu.ppy.sh/users/9726582), ::{ flag=US }:: [ilalalayou](https://osu.ppy.sh/users/3144766), ::{ flag=US }:: [migin](https://osu.ppy.sh/users/11118735), ::{ flag=US }:: [phamitsu](https://osu.ppy.sh/users/13045418), ::{ flag=US }:: [PingusKhan](https://osu.ppy.sh/users/9648050), ::{ flag=US }:: [Riku on osu](https://osu.ppy.sh/users/3071659) |
-| Designer | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=XX }:: Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
+| Mappool selector | ::{ flag=US }:: ::\1Blue\1::{ user=13192092 }, ::{ flag=US }:: ::\1Nick\1::{ user=9726582 }, ::{ flag=US }:: ::migin::{ user=11118735 }, ::{ flag=US }:: ::Riku on osu::{ user=3071659 }, ::{ flag=US }:: ::slushy::{ user=3692940 }, ::{ flag=US }:: ::stupud man::{ user=2141612 } |
+| Streamer | ::{ flag=US }:: ::R34pling::{ user=7662172 } |
+| Commentator | ::{ flag=XX }:: Matthew<!-- TODO what is his osu profile -->, ::{ flag=US }:: ::pishifat::{ user=3178418 }, ::{ flag=US }:: ::Riku on osu::{ user=3071659 }, ::{ flag=US }:: ::ruruchewy::{ user=7112839 }, ::{ flag=US }:: ::Sukida::{ user=4097867 }, ::{ flag=US }:: ::Yattaze::{ user=13870255 } |
+| Referee | ::{ flag=US }:: ::\1Blue\1::{ user=13192092 }, ::{ flag=US }:: ::\1Nick\1::{ user=9726582 }, ::{ flag=US }:: ::ilalalayou::{ user=3144766 }, ::{ flag=US }:: ::migin::{ user=11118735 }, ::{ flag=US }:: ::phamitsu::{ user=13045418 }, ::{ flag=US }:: ::PingusKhan::{ user=9648050 }, ::{ flag=US }:: ::Riku on osu::{ user=3071659 } |
+| Designer | ::{ flag=US }:: ::pishifat::{ user=3178418 }, ::{ flag=XX }:: Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
 
 ## Links
 
@@ -61,31 +61,31 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 ### osu!
 
-- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
-- ::{ flag=US }:: [Ikeda](https://osu.ppy.sh/users/9288843)
-- ::{ flag=US }:: [iolight](https://osu.ppy.sh/users/5141675)
-- ::{ flag=US }:: [jms8719](https://osu.ppy.sh/users/2042565)
-- ::{ flag=US }:: [Kenny](https://osu.ppy.sh/users/1225459)
-- ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313)
-- ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013)
-- ::{ flag=US }:: [MyAngelNeptune](https://osu.ppy.sh/users/5290308)
-- ::{ flag=US }:: [Pab](https://osu.ppy.sh/users/4753430)
-- ::{ flag=US }:: [ruruchewy](https://osu.ppy.sh/users/7112839)
-- ::{ flag=US }:: [R Y A N](https://osu.ppy.sh/users/2765201)
-- ::{ flag=US }:: [SSplosionz](https://osu.ppy.sh/users/9511965)
-- ::{ flag=US }:: [Sukida](https://osu.ppy.sh/users/4097867)
-- ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150)
+- ::{ flag=US }:: ::fieryrage::{ user=3533958 }
+- ::{ flag=US }:: ::Ikeda::{ user=9288843 }
+- ::{ flag=US }:: ::iolight::{ user=5141675 }
+- ::{ flag=US }:: ::jms8719::{ user=2042565 }
+- ::{ flag=US }:: ::Kenny::{ user=1225459 }
+- ::{ flag=US }:: ::Mathyu::{ user=6303313 }
+- ::{ flag=US }:: ::Monko2k::{ user=4852013 }
+- ::{ flag=US }:: ::MyAngelNeptune::{ user=5290308 }
+- ::{ flag=US }:: ::Pab::{ user=4753430 }
+- ::{ flag=US }:: ::ruruchewy::{ user=7112839 }
+- ::{ flag=US }:: ::R Y A N::{ user=2765201 }
+- ::{ flag=US }:: ::SSplosionz::{ user=9511965 }
+- ::{ flag=US }:: ::Sukida::{ user=4097867 }
+- ::{ flag=US }:: ::Vaxei::{ user=4787150 }
 
 ### osu!mania
 
-- ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576)
-- ::{ flag=US }:: [Chest Flattener](https://osu.ppy.sh/users/4292614)
-- ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383)
-- ::{ flag=CA }:: [Dark lord bob](https://osu.ppy.sh/users/4588299)
-- ::{ flag=US }:: [Ecal](https://osu.ppy.sh/users/8384260)
-- ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052)
-- ::{ flag=US }:: [Ralgrand](https://osu.ppy.sh/users/696447)
-- ::{ flag=US }:: [Zushen](https://osu.ppy.sh/users/2106316)
+- ::{ flag=US }:: ::-mint-::{ user=8976576 }
+- ::{ flag=US }:: ::Chest Flattener::{ user=4292614 }
+- ::{ flag=US }:: ::Crescendo PiaNo::{ user=8798383 }
+- ::{ flag=CA }:: ::Dark lord bob::{ user=4588299 }
+- ::{ flag=US }:: ::Ecal::{ user=8384260 }
+- ::{ flag=US }:: ::Ouchiee::{ user=6310052 }
+- ::{ flag=US }:: ::Ralgrand::{ user=696447 }
+- ::{ flag=US }:: ::Zushen::{ user=2106316 }
 
 ## Podium
 
@@ -93,17 +93,17 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: ::Vaxei::{ user=4787150 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: ::Monko2k::{ user=4852013 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: ::fieryrage::{ user=3533958 } |
 
 ### osu!mania
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CA }:: [Dark lord bob](https://osu.ppy.sh/users/4588299) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: ::-mint-::{ user=8976576 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: ::Crescendo PiaNo::{ user=8798383 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CA }:: ::Dark lord bob::{ user=4588299 } |
 
 ## Mappools
 

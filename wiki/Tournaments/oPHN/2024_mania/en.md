@@ -36,16 +36,16 @@ The osu! Philippines Nationals 2024 - osu!mania 4K/7K tournament was run by vari
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
-| Mappool Selector (4-key) | ::{ flag=US }:: [ElzeFanboy](https://osu.ppy.sh/users/15513303), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
-| Mappool Selector (7-key) | ::{ flag=PH }:: [paulkappa](https://osu.ppy.sh/users/7115625), ::{ flag=PH }:: [shadowkun-](https://osu.ppy.sh/users/13450837), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
-| Charters and Testers (4-key) | ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018), ::{ flag=IT }:: [\[GB\]Rick](https://osu.ppy.sh/users/25263357), ::{ flag=US }:: [\[GS\]Rose](https://osu.ppy.sh/users/9481266), ::{ flag=PH }:: [4Kenn](https://osu.ppy.sh/users/20496815), ::{ flag=PH }:: [Akatsumi Chan](https://osu.ppy.sh/users/11306351), ::{ flag=US }:: [chxu](https://osu.ppy.sh/users/13712190), ::{ flag=PH }:: [doctormango](https://osu.ppy.sh/users/13370527), ::{ flag=US }:: [ElzeFanBoy](https://osu.ppy.sh/users/15513303), ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=PH }:: [Gerwin13](https://osu.ppy.sh/users/15776185), ::{ flag=MX }:: [Herarudo](https://osu.ppy.sh/users/12086252), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) |
-| Charters and Testers (7-key) | ::{ flag=PH }:: [b1k4zo](https://osu.ppy.sh/users/3525251), ::{ flag=JP }:: [dota 2 invoker](https://osu.ppy.sh/users/13132585), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=PH }:: [Keishii](https://osu.ppy.sh/users/8381177), ::{ flag=DE }:: [Leeju](https://osu.ppy.sh/users/18219603), ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573), ::{ flag=BR }:: [Makiba](https://osu.ppy.sh/users/7539957), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=PH }:: [Ojisan-](https://osu.ppy.sh/users/11420405), ::{ flag=NL }:: [Outlasted](https://osu.ppy.sh/users/10944966), ::{ flag=PH }:: [paulkappa](https://osu.ppy.sh/users/7115625), ::{ flag=PH }:: [shadowkun-](https://osu.ppy.sh/users/13450837), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) |
-| Referee | ::{ flag=PH }:: [Gerwin13](https://osu.ppy.sh/users/15776185), ::{ flag=PH }:: [-Ichinose](https://osu.ppy.sh/users/12635292), ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
-| Streamer | ::{ flag=PH }:: [-VRX-](https://osu.ppy.sh/users/8597906), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), |
-| Commentator | ::{ flag=PH }:: [-VRX-](https://osu.ppy.sh/users/8597906), ::{ flag=PH }:: [\[LS\]Tenshi](https://osu.ppy.sh/users/18520056), ::{ flag=SG }:: [ERA Adam](https://osu.ppy.sh/users/12297375), ::{ flag=PH }:: [ERA Gregorii](https://osu.ppy.sh/users/14324153), ::{ flag=PH }:: [Itawachi](https://osu.ppy.sh/users/12929973), ::{ flag=PH }:: [Lazereed](https://osu.ppy.sh/users/12894120), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=PH }:: [paulkappa](https://osu.ppy.sh/users/7115625), ::{ flag=PH }:: [Sanni](https://osu.ppy.sh/users/3036686), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
-| GFX | ::{ flag=PH }:: [muffleberry](https://osu.ppy.sh/users/8978259), ::{ flag=PH }:: [Miyazumi](https://osu.ppy.sh/users/9919550), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550) |
-| Statistician | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Host | ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 } |
+| Mappool Selector (4-key) | ::{ flag=US }:: ::ElzeFanboy::{ user=15513303 }, ::{ flag=VN }:: ::Lott::{ user=13821222 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 } |
+| Mappool Selector (7-key) | ::{ flag=PH }:: ::paulkappa::{ user=7115625 }, ::{ flag=PH }:: ::shadowkun-::{ user=13450837 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
+| Charters and Testers (4-key) | ::{ flag=CN }:: ::\[GB\]Reisen::{ user=8586018 }, ::{ flag=IT }:: ::\[GB\]Rick::{ user=25263357 }, ::{ flag=US }:: ::\[GS\]Rose::{ user=9481266 }, ::{ flag=PH }:: ::4Kenn::{ user=20496815 }, ::{ flag=PH }:: ::Akatsumi Chan::{ user=11306351 }, ::{ flag=US }:: ::chxu::{ user=13712190 }, ::{ flag=PH }:: ::doctormango::{ user=13370527 }, ::{ flag=US }:: ::ElzeFanBoy::{ user=15513303 }, ::{ flag=GB }:: ::epic man 2::{ user=14566000 }, ::{ flag=PH }:: ::Gerwin13::{ user=15776185 }, ::{ flag=MX }:: ::Herarudo::{ user=12086252 }, ::{ flag=VN }:: ::Lott::{ user=13821222 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 }, ::{ flag=KR }:: ::yz1155::{ user=2071008 } |
+| Charters and Testers (7-key) | ::{ flag=PH }:: ::b1k4zo::{ user=3525251 }, ::{ flag=JP }:: ::dota 2 invoker::{ user=13132585 }, ::{ flag=SG }:: ::Evening::{ user=2193881 }, ::{ flag=PH }:: ::Keishii::{ user=8381177 }, ::{ flag=DE }:: ::Leeju::{ user=18219603 }, ::{ flag=PH }:: ::lenpai::{ user=5314573 }, ::{ flag=BR }:: ::Makiba::{ user=7539957 }, ::{ flag=ID }:: ::Maxus::{ user=4335785 }, ::{ flag=PH }:: ::Ojisan-::{ user=11420405 }, ::{ flag=NL }:: ::Outlasted::{ user=10944966 }, ::{ flag=PH }:: ::paulkappa::{ user=7115625 }, ::{ flag=PH }:: ::shadowkun-::{ user=13450837 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=CN }:: ::tyrcs::{ user=13026904 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 }, ::{ flag=KR }:: ::yz1155::{ user=2071008 } |
+| Referee | ::{ flag=PH }:: ::Gerwin13::{ user=15776185 }, ::{ flag=PH }:: ::-Ichinose::{ user=12635292 }, ::{ flag=PH }:: ::Normiplier::{ user=10069850 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 } |
+| Streamer | ::{ flag=PH }:: ::-VRX-::{ user=8597906 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, |
+| Commentator | ::{ flag=PH }:: ::-VRX-::{ user=8597906 }, ::{ flag=PH }:: ::\[LS\]Tenshi::{ user=18520056 }, ::{ flag=SG }:: ::ERA Adam::{ user=12297375 }, ::{ flag=PH }:: ::ERA Gregorii::{ user=14324153 }, ::{ flag=PH }:: ::Itawachi::{ user=12929973 }, ::{ flag=PH }:: ::Lazereed::{ user=12894120 }, ::{ flag=VN }:: ::Lott::{ user=13821222 }, ::{ flag=PH }:: ::paulkappa::{ user=7115625 }, ::{ flag=PH }:: ::Sanni::{ user=3036686 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 }, ::{ flag=PH }:: ::Silhoueska Elze::{ user=11517895 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 } |
+| GFX | ::{ flag=PH }:: ::muffleberry::{ user=8978259 }, ::{ flag=PH }:: ::Miyazumi::{ user=9919550 }, ::{ flag=PH }:: ::yukina meng::{ user=9919550 } |
+| Statistician | ::{ flag=NL }:: ::Albionthegreat::{ user=9853595 }, ::{ flag=PH }:: ::SurfChu85::{ user=4469895 } |
 
 ## Links
 
@@ -70,43 +70,43 @@ The following players qualified for the tournament:
 
 | Seed | Users |
 | :-- | :-- |
-| 1 | ::{ flag=PH }:: [Plana\_](https://osu.ppy.sh/users/24776314) |
-| 2 | ::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users/18560307) |
-| 3 | ::{ flag=BH }:: [Unitori-](https://osu.ppy.sh/users/15772814) |
-| 4 | ::{ flag=PH }:: [lyvet](https://osu.ppy.sh/users/18121419) |
-| 5 | ::{ flag=PH }:: [Soir0116](https://osu.ppy.sh/users/13193798) |
-| 6 | ::{ flag=PH }:: [Silicosis](https://osu.ppy.sh/users/15548876) |
-| 7 | ::{ flag=PH }:: [Xyrenoxx](https://osu.ppy.sh/users/14174524) |
-| 8 | ::{ flag=PH }:: [Vulpsi](https://osu.ppy.sh/users/12584420) |
-| 9 | ::{ flag=PH }:: [- O R E O](https://osu.ppy.sh/users/17802217) |
-| 10 | ::{ flag=PH }:: [Sen-](https://osu.ppy.sh/users/11379988) |
-| 11 | ::{ flag=PH }:: [Dyei](https://osu.ppy.sh/users/23643731) |
-| 12 | ::{ flag=PH }:: [MowseChow](https://osu.ppy.sh/users/11341964) |
-| 13 | ::{ flag=PH }:: [Velyria](https://osu.ppy.sh/users/9423922) |
-| 14 | ::{ flag=PH }:: [ScoliosisET](https://osu.ppy.sh/users/23604857) |
-| 15 | ::{ flag=IE }:: [MilkWatcher](https://osu.ppy.sh/users/13794811) |
-| 16 | ::{ flag=PH }:: [- Hago -](https://osu.ppy.sh/users/11923046) |
+| 1 | ::{ flag=PH }:: ::Plana\_::{ user=24776314 } |
+| 2 | ::{ flag=PH }:: ::Silicosis 2::{ user=18560307 } |
+| 3 | ::{ flag=BH }:: ::Unitori-::{ user=15772814 } |
+| 4 | ::{ flag=PH }:: ::lyvet::{ user=18121419 } |
+| 5 | ::{ flag=PH }:: ::Soir0116::{ user=13193798 } |
+| 6 | ::{ flag=PH }:: ::Silicosis::{ user=15548876 } |
+| 7 | ::{ flag=PH }:: ::Xyrenoxx::{ user=14174524 } |
+| 8 | ::{ flag=PH }:: ::Vulpsi::{ user=12584420 } |
+| 9 | ::{ flag=PH }:: ::- O R E O::{ user=17802217 } |
+| 10 | ::{ flag=PH }:: ::Sen-::{ user=11379988 } |
+| 11 | ::{ flag=PH }:: ::Dyei::{ user=23643731 } |
+| 12 | ::{ flag=PH }:: ::MowseChow::{ user=11341964 } |
+| 13 | ::{ flag=PH }:: ::Velyria::{ user=9423922 } |
+| 14 | ::{ flag=PH }:: ::ScoliosisET::{ user=23604857 } |
+| 15 | ::{ flag=IE }:: ::MilkWatcher::{ user=13794811 } |
+| 16 | ::{ flag=PH }:: ::- Hago -::{ user=11923046 } |
 
 ### osu!mania 7K
 
 | Seed | Users |
 | :-- | :-- |
-| 1 | ::{ flag=PH }:: [Sanni](https://osu.ppy.sh/users/3036686) |
-| 2 | ::{ flag=PH }:: [Cielo Day](https://osu.ppy.sh/users/2722489) |
-| 3 | ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664) |
-| 4 | ::{ flag=PH }:: [arcwinolivirus](https://osu.ppy.sh/users/2039089) |
-| 5 | ::{ flag=PH }:: [Wewoj](https://osu.ppy.sh/users/3166596) |
-| 6 | ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
-| 7 | ::{ flag=PH }:: [buenoo](https://osu.ppy.sh/users/11799958) |
-| 8 | ::{ flag=PH }:: [Konnichiyawaaaa](https://osu.ppy.sh/users/30686114) |
-| 9 | ::{ flag=PH }:: [-VRX-](https://osu.ppy.sh/users/8597906) |
-| 10 | ::{ flag=PH }:: [nickulott](https://osu.ppy.sh/users/12101157) |
-| 11 | ::{ flag=PH }:: [links009](https://osu.ppy.sh/users/32419529) |
-| 12 | ::{ flag=PH }:: [Yurippe-](https://osu.ppy.sh/users/35760812) |
-| 13 | ::{ flag=PH }:: [ERA Gregorii](https://osu.ppy.sh/users/14324153) |
-| 14 | ::{ flag=PH }:: [Janceee](https://osu.ppy.sh/users/10334005) |
-| 15 | ::{ flag=PH }:: [\[KN\]Lordieee](https://osu.ppy.sh/users/10010130) |
-| 16 | ::{ flag=PH }:: [kei101895](https://osu.ppy.sh/users/3032245) |
+| 1 | ::{ flag=PH }:: ::Sanni::{ user=3036686 } |
+| 2 | ::{ flag=PH }:: ::Cielo Day::{ user=2722489 } |
+| 3 | ::{ flag=PH }:: ::Arona::{ user=8748664 } |
+| 4 | ::{ flag=PH }:: ::arcwinolivirus::{ user=2039089 } |
+| 5 | ::{ flag=PH }:: ::Wewoj::{ user=3166596 } |
+| 6 | ::{ flag=PH }:: ::MapleSyrup-::{ user=1192936 } |
+| 7 | ::{ flag=PH }:: ::buenoo::{ user=11799958 } |
+| 8 | ::{ flag=PH }:: ::Konnichiyawaaaa::{ user=30686114 } |
+| 9 | ::{ flag=PH }:: ::-VRX-::{ user=8597906 } |
+| 10 | ::{ flag=PH }:: ::nickulott::{ user=12101157 } |
+| 11 | ::{ flag=PH }:: ::links009::{ user=32419529 } |
+| 12 | ::{ flag=PH }:: ::Yurippe-::{ user=35760812 } |
+| 13 | ::{ flag=PH }:: ::ERA Gregorii::{ user=14324153 } |
+| 14 | ::{ flag=PH }:: ::Janceee::{ user=10334005 } |
+| 15 | ::{ flag=PH }:: ::\[KN\]Lordieee::{ user=10010130 } |
+| 16 | ::{ flag=PH }:: ::kei101895::{ user=3032245 } |
 
 ## Podium
 
@@ -116,17 +116,17 @@ This competition ended with the following podiums:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [lyvet](https://osu.ppy.sh/users/18121419) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Plana_](https://osu.ppy.sh/users/24776314) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [Silicosis 2](https://osu.ppy.sh/users/18560307) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::lyvet::{ user=18121419 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::Plana\1::{ user=24776314 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::Silicosis 2::{ user=18560307 } |
 
 ### osu!mania 7K
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Sanni](https://osu.ppy.sh/users/3036686) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: [Cielo Day](https://osu.ppy.sh/users/2722489) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: [arcwinolivirus](https://osu.ppy.sh/users/2039089) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::Sanni::{ user=3036686 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PH }:: ::Cielo Day::{ user=2722489 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: ::arcwinolivirus::{ user=2039089 } |
 
 ## Mappools
 

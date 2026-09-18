@@ -13,7 +13,7 @@ Nếu bạn cảm thấy không thoải mái đến mức phải đọc trang n�
 
 Chúng tôi không khoan nhượng đối với bất kỳ hình thức chú ý hoặc tiếp cận tình dục không mong muốn nào trong cộng đồng này
 
-Địa chỉ email lạm dụng chỉ có thể được xem bởi [peppy](https://osu.ppy.sh/users/2)(người tạo ra trò chơi).
+Địa chỉ email lạm dụng chỉ có thể được xem bởi ::peppy::{ user=2 }(người tạo ra trò chơi).
 
 Mọi báo cáo bạn gửi đến [abuse@ppy.sh](mailto:abuse@ppy.sh) sẽ không được chia sẻ với bất kỳ ai khác ngoài anh ấy.
 
@@ -37,7 +37,7 @@ Nếu bạn cảm thấy những nhận xét/hành vi quấy rối là hoàn to�
 
 Để làm như vậy, hãy nhấp vào nút `báo cáo bài đăng` ở góc trên bên phải của bài đăng trên diễn đàn.
 
-Ngoài ra, bạn cũng có thể nhấp vào tên người dùng của bất kỳ thành viên GMT nào trong danh sách trên trang wiki trên để đến hồ sơ của họ. Nếu bạn không biết nên chọn ai để báo cáo, [hãy sử dụng liên kết này](https://osu.ppy.sh/users/5999631).
+Ngoài ra, bạn cũng có thể nhấp vào tên người dùng của bất kỳ thành viên GMT nào trong danh sách trên trang wiki trên để đến hồ sơ của họ. Nếu bạn không biết nên chọn ai để báo cáo, ::hãy sử dụng liên kết này::{ user=5999631 }.
 
 Nhấp vào nút có hình phong bì ngay bên dưới lá cờ quốc gia của người dùng, thao tác này sẽ đưa bạn đến cuộc trò chuyện.
 

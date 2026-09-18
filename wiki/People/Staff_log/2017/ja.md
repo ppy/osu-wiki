@@ -2,59 +2,59 @@
 
 ## 1月
 
-- [ToGlette](https://osu.ppy.sh/users/1076236)をosu! Alumniからグローバルモデレーションチームへ (2017-01-22)
-- [Atrue](https://osu.ppy.sh/users/1758523)をosu! Alumniからグローバルモデレーションチームへ (2017-01-22)
-- [n0ah](https://osu.ppy.sh/users/3086393)をグローバルモデレーションチームに追加 (2017-01-26)
-- [heyronii](https://osu.ppy.sh/users/5642779)をグローバルモデレーションチームに追加 (2017-01-28)
-- [ruexia](https://osu.ppy.sh/users/385069)をグローバルモデレーションチームに追加 (2017-01-29)
+- ::ToGlette::{ user=1076236 }をosu! Alumniからグローバルモデレーションチームへ (2017-01-22)
+- ::Atrue::{ user=1758523 }をosu! Alumniからグローバルモデレーションチームへ (2017-01-22)
+- ::n0ah::{ user=3086393 }をグローバルモデレーションチームに追加 (2017-01-26)
+- ::heyronii::{ user=5642779 }をグローバルモデレーションチームに追加 (2017-01-28)
+- ::ruexia::{ user=385069 }をグローバルモデレーションチームに追加 (2017-01-29)
 
 ### ビートマップノミネーター 追加
 
 以下の全てのユーザーは、2017-01-20に追加されました。
 
-- [riffy](https://osu.ppy.sh/users/597957)
-- [Battle](https://osu.ppy.sh/users/4037545)
-- [F D Flourite](https://osu.ppy.sh/users/2459589)
-- [Garden](https://osu.ppy.sh/users/2849992)
-- [Nao Tomori](https://osu.ppy.sh/users/5364763)
-- [Naxess](https://osu.ppy.sh/users/8129817)
+- ::riffy::{ user=597957 }
+- ::Battle::{ user=4037545 }
+- ::F D Flourite::{ user=2459589 }
+- ::Garden::{ user=2849992 }
+- ::Nao Tomori::{ user=5364763 }
+- ::Naxess::{ user=8129817 }
 
 ## 2月
 
-- [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)を品質保証チームに追加 (2017-02-20)
+- ::Nardoxyribonucleic::{ user=876419 }を品質保証チームに追加 (2017-02-20)
 
 ## 3月
 
-- [S o h](https://osu.ppy.sh/users/2234772)をグローバルモデレーションチームに追加 (2017-03-29)
-- [QHideaki13](https://osu.ppy.sh/users/733998)をグローバルモデレーションチームからosu! Alumniへ (2017-03-29)
+- ::S o h::{ user=2234772 }をグローバルモデレーションチームに追加 (2017-03-29)
+- ::QHideaki13::{ user=733998 }をグローバルモデレーションチームからosu! Alumniへ (2017-03-29)
 
 ## 4月
 
-- [Uni](https://osu.ppy.sh/users/617106)をosu! Alumniからグローバルモデレーションチームへ (2017-04-03)
-- [ErunamoJAZZ](https://osu.ppy.sh/users/1869764)をグローバルモデレーションチームからosu! Alumniへ (2017-04-03)
-- [DakeDekaane](https://osu.ppy.sh/users/1425253)を品質保証チームからosu! Alumniへ (2017-04-27)
-- [Myxo](https://osu.ppy.sh/users/2202645)を品質保証チームからosu! Alumniへ (2017-04-27)
-- [Fycho](https://osu.ppy.sh/users/1876867)をグローバルモデレーションチーム及び品質保証チームからosu! Alumniへ (2017-04-27)
+- ::Uni::{ user=617106 }をosu! Alumniからグローバルモデレーションチームへ (2017-04-03)
+- ::ErunamoJAZZ::{ user=1869764 }をグローバルモデレーションチームからosu! Alumniへ (2017-04-03)
+- ::DakeDekaane::{ user=1425253 }を品質保証チームからosu! Alumniへ (2017-04-27)
+- ::Myxo::{ user=2202645 }を品質保証チームからosu! Alumniへ (2017-04-27)
+- ::Fycho::{ user=1876867 }をグローバルモデレーションチーム及び品質保証チームからosu! Alumniへ (2017-04-27)
 
 ### ビートマップノミネーター 追加
 
 以下の全てのユーザーは、2017-04-25に追加されました。
 
-- [Arrival](https://osu.ppy.sh/users/1694000)
-- [Benny-](https://osu.ppy.sh/users/4023183)
-- [Jonawaga](https://osu.ppy.sh/users/3653035)
-- [Julie](https://osu.ppy.sh/users/2420987)
-- [Kin](https://osu.ppy.sh/users/480689)
-- [Skylish](https://osu.ppy.sh/users/2845958)
-- [Stefan](https://osu.ppy.sh/users/626907)
-- [Surono](https://osu.ppy.sh/users/3611370)
-- [thzz](https://osu.ppy.sh/users/1614839)
+- ::Arrival::{ user=1694000 }
+- ::Benny-::{ user=4023183 }
+- ::Jonawaga::{ user=3653035 }
+- ::Julie::{ user=2420987 }
+- ::Kin::{ user=480689 }
+- ::Skylish::{ user=2845958 }
+- ::Stefan::{ user=626907 }
+- ::Surono::{ user=3611370 }
+- ::thzz::{ user=1614839 }
 
 ## 5月
 
-- [Cryptic](https://osu.ppy.sh/users/3728904)を品質保証チームに追加 (2017-05-02)
-- [Doyak](https://osu.ppy.sh/users/2046893)をビートマップノミネーターから品質保証チームへ (2017-05-03)
-- [WalterToro](https://osu.ppy.sh/users/5281416)をグローバルモデレーションチームに追加 (2017-05-22)
+- ::Cryptic::{ user=3728904 }を品質保証チームに追加 (2017-05-02)
+- ::Doyak::{ user=2046893 }をビートマップノミネーターから品質保証チームへ (2017-05-03)
+- ::WalterToro::{ user=5281416 }をグローバルモデレーションチームに追加 (2017-05-22)
 
 ## 6月
 
@@ -62,90 +62,90 @@
 
 以下の全てのユーザーは、2017-06-30に追加されました。
 
-- [-Mo-](https://osu.ppy.sh/users/2202163)
-- [Delis](https://osu.ppy.sh/users/1603923)
-- [Doormat](https://osu.ppy.sh/users/3230571)
-- [Hobbes2](https://osu.ppy.sh/users/8157492)
-- [Kurai](https://osu.ppy.sh/users/77089)
-- [Mir](https://osu.ppy.sh/users/8688812)
-- [Plaudible](https://osu.ppy.sh/users/7149815)
-- [squirrelpascals](https://osu.ppy.sh/users/6151332)
-- [Voli](https://osu.ppy.sh/users/2522275)
+- ::-Mo-::{ user=2202163 }
+- ::Delis::{ user=1603923 }
+- ::Doormat::{ user=3230571 }
+- ::Hobbes2::{ user=8157492 }
+- ::Kurai::{ user=77089 }
+- ::Mir::{ user=8688812 }
+- ::Plaudible::{ user=7149815 }
+- ::squirrelpascals::{ user=6151332 }
+- ::Voli::{ user=2522275 }
 
 ## 8月
 
-- [alacat](https://osu.ppy.sh/users/869782)を品質保証チームからosu! Alumniへ (2017-08-20)
+- ::alacat::{ user=869782 }を品質保証チームからosu! Alumniへ (2017-08-20)
 
 ## 9月
 
-- [Lassikko](https://osu.ppy.sh/users/7253731)をグローバルモデレーションチームに追加 (2017-09-11)
-- [Pereira006](https://osu.ppy.sh/users/537344)をグローバルモデレーションチームからosu! Alumniへ (2017-09-21)
-- [Shockwave](https://osu.ppy.sh/users/251631)をグローバルモデレーションチームからosu! Alumniへ (2017-09-21)
+- ::Lassikko::{ user=7253731 }をグローバルモデレーションチームに追加 (2017-09-11)
+- ::Pereira006::{ user=537344 }をグローバルモデレーションチームからosu! Alumniへ (2017-09-21)
+- ::Shockwave::{ user=251631 }をグローバルモデレーションチームからosu! Alumniへ (2017-09-21)
 
 ### ビートマップノミネーター 追加
 
 以下の全てのユーザーは、2017-09-10に追加されました。
 
-- [Asherz007](https://osu.ppy.sh/users/9014047)
-- [Gabe](https://osu.ppy.sh/users/654108)
-- [frukoyurdakul](https://osu.ppy.sh/users/7612550)
-- [Taikocracy](https://osu.ppy.sh/users/6256027)
-- [Weber](https://osu.ppy.sh/users/6410432)
-- [Litharrale](https://osu.ppy.sh/users/3189995)
-- [Electoz](https://osu.ppy.sh/users/6485263)
-- [alienflybot](https://osu.ppy.sh/users/636114)
-- [neonat](https://osu.ppy.sh/users/1561995)
-- [xfraczynho](https://osu.ppy.sh/users/2192669)
-- [Chromoxx](https://osu.ppy.sh/users/1881639)
+- ::Asherz007::{ user=9014047 }
+- ::Gabe::{ user=654108 }
+- ::frukoyurdakul::{ user=7612550 }
+- ::Taikocracy::{ user=6256027 }
+- ::Weber::{ user=6410432 }
+- ::Litharrale::{ user=3189995 }
+- ::Electoz::{ user=6485263 }
+- ::alienflybot::{ user=636114 }
+- ::neonat::{ user=1561995 }
+- ::xfraczynho::{ user=2192669 }
+- ::Chromoxx::{ user=1881639 }
 
 ## 10月
 
-- [mancuso_JM_](https://osu.ppy.sh/users/521568)をosu! Alumniからグローバルモデレーションチームへ (2017-10-03)
-- [Cryptic](https://osu.ppy.sh/users/3728904)を品質保証チームから削除 (2017-10-03)
-- [Naxess](https://osu.ppy.sh/users/8129817)を品質保証チームに追加 (2017-10-05)
-- [Raiden](https://osu.ppy.sh/users/2239480)を品質保証チームに追加 (2017-10-05)
-- [IamKwaN](https://osu.ppy.sh/users/1856463)をグローバルモデレーションチームから削除 (2017-10-12)
-- [n0ah](https://osu.ppy.sh/users/3086393)をグローバルモデレーションチームからosu! Alumniへ (2017-10-12)
-- [Stefan](https://osu.ppy.sh/users/626907)をグローバルモデレーションチームからosu! Alumniへ (2017-10-12)
-- [IamKwaN](https://osu.ppy.sh/users/1856463)を品質保証チームからosu! Alumniへ (2017-10-14)
-- [Death](https://osu.ppy.sh/users/3242450)をグローバルモデレーションチーム及びSupport Teamに追加 (2017-10-20)
+- ::mancuso\1JM\1::{ user=521568 }をosu! Alumniからグローバルモデレーションチームへ (2017-10-03)
+- ::Cryptic::{ user=3728904 }を品質保証チームから削除 (2017-10-03)
+- ::Naxess::{ user=8129817 }を品質保証チームに追加 (2017-10-05)
+- ::Raiden::{ user=2239480 }を品質保証チームに追加 (2017-10-05)
+- ::IamKwaN::{ user=1856463 }をグローバルモデレーションチームから削除 (2017-10-12)
+- ::n0ah::{ user=3086393 }をグローバルモデレーションチームからosu! Alumniへ (2017-10-12)
+- ::Stefan::{ user=626907 }をグローバルモデレーションチームからosu! Alumniへ (2017-10-12)
+- ::IamKwaN::{ user=1856463 }を品質保証チームからosu! Alumniへ (2017-10-14)
+- ::Death::{ user=3242450 }をグローバルモデレーションチーム及びSupport Teamに追加 (2017-10-20)
 
 ### ビートマップノミネーター 追加
 
 以下の全てのユーザーは、2017-10-24に追加されました。
 
-- [celerih](https://osu.ppy.sh/users/4696296)
-- [Cerulean Veyron](https://osu.ppy.sh/users/1886524)
-- [Chewin](https://osu.ppy.sh/users/617323)
-- [DeRandom Otaku](https://osu.ppy.sh/users/5156153)
-- [Halfslashed](https://osu.ppy.sh/users/4598899)
-- [MaridiuS](https://osu.ppy.sh/users/4496961)
-- [Kisses](https://osu.ppy.sh/users/4276114)
-- [Sinnoh](https://osu.ppy.sh/users/4236057)
+- ::celerih::{ user=4696296 }
+- ::Cerulean Veyron::{ user=1886524 }
+- ::Chewin::{ user=617323 }
+- ::DeRandom Otaku::{ user=5156153 }
+- ::Halfslashed::{ user=4598899 }
+- ::MaridiuS::{ user=4496961 }
+- ::Kisses::{ user=4276114 }
+- ::Sinnoh::{ user=4236057 }
 
 ## 12月
 
-- [Protastic101](https://osu.ppy.sh/users/6712747)を品質保証チームに追加 (2017-12-11)
-- [OnosakiHito](https://osu.ppy.sh/users/290128)を品質保証チームからosu! Alumniへ (2017-12-11)
-- [Seijiro](https://osu.ppy.sh/users/2581696)をグローバルモデレーションチームからosu! Alumniへ (2017-12-17)
-- [Loctav](https://osu.ppy.sh/users/71366)をosu! Alumniへ移動 (2017-12-17)
-- [n0ah](https://osu.ppy.sh/users/3086393)をosu! Alumniからグローバルモデレーションチームへ (2017-12-26)
-- [Edu](https://osu.ppy.sh/users/5618109)をグローバルモデレーションチームに追加 (2017-12-29)
-- [Clobohne](https://osu.ppy.sh/users/499343)をグローバルモデレーションチームに追加 (2017-12-29)
-- [Kurai](https://osu.ppy.sh/users/77089)をビートマップノミネーターから品質保証チームへ (2017-12-31)
+- ::Protastic101::{ user=6712747 }を品質保証チームに追加 (2017-12-11)
+- ::OnosakiHito::{ user=290128 }を品質保証チームからosu! Alumniへ (2017-12-11)
+- ::Seijiro::{ user=2581696 }をグローバルモデレーションチームからosu! Alumniへ (2017-12-17)
+- ::Loctav::{ user=71366 }をosu! Alumniへ移動 (2017-12-17)
+- ::n0ah::{ user=3086393 }をosu! Alumniからグローバルモデレーションチームへ (2017-12-26)
+- ::Edu::{ user=5618109 }をグローバルモデレーションチームに追加 (2017-12-29)
+- ::Clobohne::{ user=499343 }をグローバルモデレーションチームに追加 (2017-12-29)
+- ::Kurai::{ user=77089 }をビートマップノミネーターから品質保証チームへ (2017-12-31)
 
 ### ビートマップノミネーター 追加
 
 以下の全てのユーザーは、2017-12-11に追加されました。
 
-- [Aloda](https://osu.ppy.sh/users/1190127)
-- [Garalulu](https://osu.ppy.sh/users/757783)
-- [Hareimu](https://osu.ppy.sh/users/4138746)
-- [Kamikaze](https://osu.ppy.sh/users/2124783)
-- [Nokashi](https://osu.ppy.sh/users/5431196)
-- [Sorcerer](https://osu.ppy.sh/users/1913190)
-- [Tofu1222](https://osu.ppy.sh/users/6089608)
+- ::Aloda::{ user=1190127 }
+- ::Garalulu::{ user=757783 }
+- ::Hareimu::{ user=4138746 }
+- ::Kamikaze::{ user=2124783 }
+- ::Nokashi::{ user=5431196 }
+- ::Sorcerer::{ user=1913190 }
+- ::Tofu1222::{ user=6089608 }
 
 ### ビートマップノミネーター 削除
 
-- [Monstrata](https://osu.ppy.sh/users/2706438) - 長期間に渡って、あまり良い印象を与えない行動 (2017-12-19)
+- ::Monstrata::{ user=2706438 } - 長期間に渡って、あまり良い印象を与えない行動 (2017-12-19)

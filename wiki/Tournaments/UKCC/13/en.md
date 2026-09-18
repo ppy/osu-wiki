@@ -9,7 +9,7 @@ tags:
 
 ![UKCC13 banner](img/banner.jpg)
 
-The **UK Community Cup 13** (***UKCC13***) is a British 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=GB }:: [baz](https://osu.ppy.sh/users/4422329) and ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568). It is the fourteenth instalment of the UK Community Cup series and the series' eighth 1v1 competition.
+The **UK Community Cup 13** (***UKCC13***) is a British 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=GB }:: ::Damarsh::{ user=7465147 }, ::{ flag=GB }:: ::baz::{ user=4422329 } and ::{ flag=NO }:: ::YokesPai::{ user=6399568 }. It is the fourteenth instalment of the UK Community Cup series and the series' eighth 1v1 competition.
 
 ## Tournament schedule
 
@@ -39,13 +39,13 @@ The UK Community Cup 13 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=GB }:: [baz](https://osu.ppy.sh/users/4422329), ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) |
-| Mappool selector | ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=IL }:: [FlagFlayer](https://osu.ppy.sh/users/14289115), ::{ flag=NL }:: [niqht](https://osu.ppy.sh/users/14390731), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351) |
-| Streamer | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=GB }:: [baz](https://osu.ppy.sh/users/4422329), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=GB }:: [jakk](https://osu.ppy.sh/users/9098192), ::{ flag=DK }:: [Mikkel-](https://osu.ppy.sh/users/15068978) |
-| Commentator | ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [hubbawubba](https://osu.ppy.sh/users/15910288), ::{ flag=GB }:: [jakk](https://osu.ppy.sh/users/9098192), ::{ flag=GB }:: [SteffoST](https://osu.ppy.sh/users/6566765) |
-| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=GB }:: [baz](https://osu.ppy.sh/users/4422329), ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=IL }:: [FlagFlayer](https://osu.ppy.sh/users/14289115), ::{ flag=GB }:: [jakk](https://osu.ppy.sh/users/9098192), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850) |
-| Statistician | ::{ flag=GB }:: [baz](https://osu.ppy.sh/users/4422329), ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) |
-| Designer | ::{ flag=CA }:: [kaetwo](https://osu.ppy.sh/users/1997719) |
+| Manager | ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=GB }:: ::Damarsh::{ user=7465147 }, ::{ flag=GB }:: ::baz::{ user=4422329 }, ::{ flag=NO }:: ::YokesPai::{ user=6399568 } |
+| Mappool selector | ::{ flag=NO }:: ::YokesPai::{ user=6399568 }, ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=BR }:: ::Dada::{ user=9119507 }, ::{ flag=IL }:: ::FlagFlayer::{ user=14289115 }, ::{ flag=NL }:: ::niqht::{ user=14390731 }, ::{ flag=US }:: ::M I L E S::{ user=6036351 } |
+| Streamer | ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=GB }:: ::Damarsh::{ user=7465147 }, ::{ flag=GB }:: ::baz::{ user=4422329 }, ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=GB }:: ::ilw8::{ user=14167692 }, ::{ flag=GB }:: ::jakk::{ user=9098192 }, ::{ flag=DK }:: ::Mikkel-::{ user=15068978 } |
+| Commentator | ::{ flag=GB }:: ::Damarsh::{ user=7465147 }, ::{ flag=GB }:: ::Bubbleman::{ user=5182050 }, ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=US }:: ::hubbawubba::{ user=15910288 }, ::{ flag=GB }:: ::jakk::{ user=9098192 }, ::{ flag=GB }:: ::SteffoST::{ user=6566765 } |
+| Referee | ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=GB }:: ::Damarsh::{ user=7465147 }, ::{ flag=GB }:: ::baz::{ user=4422329 }, ::{ flag=NO }:: ::YokesPai::{ user=6399568 }, ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=IL }:: ::FlagFlayer::{ user=14289115 }, ::{ flag=GB }:: ::jakk::{ user=9098192 }, ::{ flag=FI }:: ::Lefafel::{ user=2295850 } |
+| Statistician | ::{ flag=GB }:: ::baz::{ user=4422329 }, ::{ flag=NO }:: ::YokesPai::{ user=6399568 } |
+| Designer | ::{ flag=CA }:: ::kaetwo::{ user=1997719 } |
 
 ## Links
 

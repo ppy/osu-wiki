@@ -18,19 +18,19 @@ Numerosi giocatori hanno raggiunto il primo posto in ogni modalità di gioco con
 
 *Pagina principale: [Cronologia delle classifiche di osu!](osu!)*
 
-Al 11 luglio 2026, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
+Al 11 luglio 2026, nella [classifica delle performance di osu!](https://osu.ppy.sh/rankings/osu/performance) il giocatore numero 1 è ::{ flag=AU }:: ::mrekk::{ user=7562902 }.
 
 ## ![][osu!taiko] osu!taiko
 
-Al 23 luglio 2026, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
+Al 23 luglio 2026, nella [classifica delle performance di osu!taiko](https://osu.ppy.sh/rankings/taiko/performance) il giocatore numero uno è ::{ flag=JP }:: ::Sinon\133::{ user=31148838 }.
 
 ## ![][osu!catch] osu!catch
 
-Al 21 luglio 2026, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits).
+Al 21 luglio 2026, nella [classifica delle performance di osu!catch](https://osu.ppy.sh/rankings/fruits/performance) il giocatore numero 1 è ::{ flag=KR }:: ::Motion::{ user=3885626 }.
 
 ## ![][osu!mania] osu!mania
 
-Al 4 aprile 2026, nella [classifica delle performance di osu!mania](https://osu.ppy.sh/rankings/mania/performance) il giocatore numero 1 è ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
+Al 4 aprile 2026, nella [classifica delle performance di osu!mania](https://osu.ppy.sh/rankings/mania/performance) il giocatore numero 1 è ::{ flag=KR }:: ::Kalkai::{ user=10790649 }.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

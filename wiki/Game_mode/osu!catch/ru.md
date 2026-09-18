@@ -120,5 +120,5 @@
 ![Логотип osu!catch в разделе Special Modes](/wiki/shared/Ctb_logo.jpg "Логотип Catch the Beat в разделе Special Mode")
 
 - До 10 апреля 2012 года карты для osu!catch нельзя было ранкать — ни отдельно, ни в составе других ранкнутых карт. Сейчас это ограничение снято, и мапперы могут делать и ранкать как отдельные сложности для osu!catch, так и целые карты, если те соответствуют [критериям ранкинга](/wiki/Ranking_criteria/osu!catch).
-- Первая ранкнутая карта, содержащая хотя бы одну сложность для osu!catch, — [Yousei Teikoku - Dare so Ka no Gekka (TV Size)](https://osu.ppy.sh/beatmapsets/13676) от ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) с гостевой сложностью для osu!catch от ::{ flag=CN }:: [Uran](https://osu.ppy.sh/users/133302).
-- Первая ранкнутая карта исключительно для osu!catch — [Rita - Hajimari no Toki](https://osu.ppy.sh/beatmapsets/91485) от ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565).
+- Первая ранкнутая карта, содержащая хотя бы одну сложность для osu!catch, — [Yousei Teikoku - Dare so Ka no Gekka (TV Size)](https://osu.ppy.sh/beatmapsets/13676) от ::{ flag=CN }:: ::NatsumeRin::{ user=151679 } с гостевой сложностью для osu!catch от ::{ flag=CN }:: ::Uran::{ user=133302 }.
+- Первая ранкнутая карта исключительно для osu!catch — [Rita - Hajimari no Toki](https://osu.ppy.sh/beatmapsets/91485) от ::{ flag=ES }:: ::Deif::{ user=318565 }.

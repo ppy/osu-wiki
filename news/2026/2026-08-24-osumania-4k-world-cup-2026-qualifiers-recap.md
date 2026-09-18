@@ -13,7 +13,7 @@ MWC 4K 2026 is here, marking the thirteenth instalment of the tournament! This y
 
 This year's Qualifiers have not been the kindest to everyone, leading to many surprising outcomes not even the players themselves could have predicted. And as it seems to be tradition at this point, we'll be joined by debuting countries during this year's bracket stages!
 
-Joining us in this year's series of video recaps are [Dynascape](https://osu.ppy.sh/users/8784587), [SunApple](https://osu.ppy.sh/users/11817622), [Normiplier](https://osu.ppy.sh/users/10069850), and [akace100](https://osu.ppy.sh/users/9308128), who have been with us for the past couple years. Additionally, they will be joined by [Rush_FTK](https://osu.ppy.sh/users/3046856) throughout the year as well as this week's guest commentators: [epic man 2](https://osu.ppy.sh/users/14566000) and [Sparky](https://osu.ppy.sh/users/3187959)!
+Joining us in this year's series of video recaps are ::Dynascape::{ user=8784587 }, [SunApple](https://osu.ppy.sh/users/11817622), ::Normiplier::{ user=10069850 }, and [akace100](https://osu.ppy.sh/users/9308128), who have been with us for the past couple years. Additionally, they will be joined by ::Rush\1FTK::{ user=3046856 } throughout the year as well as this week's guest commentators: ::epic man 2::{ user=14566000 } and [Sparky](https://osu.ppy.sh/users/3187959)!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/eoKjbBW_ToM" frameborder="0" allowfullscreen></iframe>
@@ -31,11 +31,11 @@ Joining us in this year's series of video recaps are [Dynascape](https://osu.ppy
 
 This year's Qualifier mappool was rather peculiar and anything but straightforward. Given the amount of teams joining us this year, it was the perfect playground to test out the limits of all players' skills, even if the slots were all but ordinary!
 
-Take for example [Nanahoshi Kangengakudan feat. GUMI - FREEDMAN (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2600439#mania/5813230) (LN1) by ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260). What used to be a finger control–oriented map, with more methodical long note patterns to test players' coordination, has now been amped up a notch by introducing faster and longer stretches of tricky (but not as release-demanding) long note sections.
+Take for example [Nanahoshi Kangengakudan feat. GUMI - FREEDMAN (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2600439#mania/5813230) (LN1) by ::{ flag=CN }:: ::Hylotl::{ user=18270260 }. What used to be a finger control–oriented map, with more methodical long note patterns to test players' coordination, has now been amped up a notch by introducing faster and longer stretches of tricky (but not as release-demanding) long note sections.
 
-Another sweet surprise was [SAVE THE QUEEN - EX-Termination](https://osu.ppy.sh/beatmapsets/2600440#mania/5813231) by ::{ flag=CA }:: [Fullerene-](https://osu.ppy.sh/users/2531335). Not having uploaded a new map since 2021, Fullerene- took the stage by introducing the hardest map of the pool, one equivalent to its Semifinals stamina counterparts. This was the perfect example of what players should be expecting from future rounds with less predictable patterns that will still pose a challenge on all players' endurance.
+Another sweet surprise was [SAVE THE QUEEN - EX-Termination](https://osu.ppy.sh/beatmapsets/2600440#mania/5813231) by ::{ flag=CA }:: ::Fullerene-::{ user=2531335 }. Not having uploaded a new map since 2021, Fullerene- took the stage by introducing the hardest map of the pool, one equivalent to its Semifinals stamina counterparts. This was the perfect example of what players should be expecting from future rounds with less predictable patterns that will still pose a challenge on all players' endurance.
 
-But that wasn't all. Another great example of this year's unorthodox pool was [Machine Girl - Psychic Attack (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2600457#mania/5813270) (RC7) by ::{ flag=US }:: [Valedict](https://osu.ppy.sh/users/2537082) and ::{ flag=CN }:: [XingRen](https://osu.ppy.sh/users/5799435). This was arguably the trickiest beatmap this slot has ever seen. Its introduction was only the calm before the storm as every pattern onwards would quickly become a barrage of fast-paced, unevenly spaced streams riddled with minijacks that pair really well with the song's chaotic composition.
+But that wasn't all. Another great example of this year's unorthodox pool was [Machine Girl - Psychic Attack (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2600457#mania/5813270) (RC7) by ::{ flag=US }:: ::Valedict::{ user=2537082 } and ::{ flag=CN }:: ::XingRen::{ user=5799435 }. This was arguably the trickiest beatmap this slot has ever seen. Its introduction was only the calm before the storm as every pattern onwards would quickly become a barrage of fast-paced, unevenly spaced streams riddled with minijacks that pair really well with the song's chaotic composition.
 
 ## Qualifier highlights
 
@@ -73,7 +73,7 @@ With 51 teams fighting over just 32 bracket spots, the Qualifiers proved to be m
 
 We would also soon see why stages 6 and 7 were so important this year to decide the final seeding. Both maps showed one of the biggest variances in scores from the pool, with even very experienced players struggling to find the perfect scores across the pool's hardest rice maps. This was particularly evident in stage 7 where balancing accuracy and consistency was a hard-fought battle for many players.
 
-Finally, we did get to see some newer faces on the bracket this year, with Qatar being the biggest turnaround of the tournament so far. Congratulations to all players involved in this effort, with ::{ flag=QA }:: [Chara Undertale](https://osu.ppy.sh/users/13047982) taking the initiative and leading to many of their team's highest scores!
+Finally, we did get to see some newer faces on the bracket this year, with Qatar being the biggest turnaround of the tournament so far. Congratulations to all players involved in this effort, with ::{ flag=QA }:: ::Chara Undertale::{ user=13047982 } taking the initiative and leading to many of their team's highest scores!
 
 ---
 

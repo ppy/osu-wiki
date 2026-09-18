@@ -16,4 +16,4 @@ needs_cleanup: true  # несколько странных предложени�
 
 ## См. также
 
-- Тема на форуме: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) от [peppy](https://osu.ppy.sh/users/2)
+- Тема на форуме: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) от ::peppy::{ user=2 }

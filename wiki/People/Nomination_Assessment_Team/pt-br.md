@@ -48,54 +48,54 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Bielorrusso, russo | Evaluation |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, chinês | Evaluation |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Português | Evaluation |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Holandês | Evaluation |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinês | Evaluation |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemão | Evaluation, structural |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinês | Evaluation |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Structural |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonês, chinês | Evaluation |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinês | Evaluation |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, structural |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Holandês | Evaluation |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polonês | Evaluation |
+| ::{ flag=GB }:: ::-Mo-::{ user=2202163 } |  | Structural |
+| ::{ flag=BY }:: ::AirinCat::{ user=11119539 } | Bielorrusso, russo | Evaluation |
+| ::{ flag=HK }:: ::Chaoslitz::{ user=3621552 } | Cantonês, chinês | Evaluation |
+| ::{ flag=BR }:: ::Dada::{ user=9119507 } | Português | Evaluation |
+| ::{ flag=AU }:: ::elicz1::{ user=8039342 } |  | Evaluation |
+| ::{ flag=BE }:: ::enneya::{ user=10959501 } | Holandês | Evaluation |
+| ::{ flag=CN }:: ::Firika::{ user=9590557 } | Chinês | Evaluation |
+| ::{ flag=DE }:: ::FuJu::{ user=10773882 } | Alemão | Evaluation, structural |
+| ::{ flag=CN }:: ::Garden::{ user=2849992 } | Chinês | Evaluation |
+| ::{ flag=SE }:: ::Naxess::{ user=8129817 } | Sueco | Structural |
+| ::{ flag=US }:: ::Noffy::{ user=1541323 } |  | Evaluation |
+| ::{ flag=HK }:: ::Petal::{ user=7354729 } | Cantonês, chinês | Evaluation |
+| ::{ flag=US }:: ::pishifat::{ user=3178418 } |  | Structural |
+| ::{ flag=CN }:: ::Ryuusei Aika::{ user=7777875 } | Chinês | Evaluation |
+| ::{ flag=US }:: ::StarCastler::{ user=12402453 } |  | Evaluation, structural |
+| ::{ flag=BE }:: ::yaspo::{ user=4945926 } | Holandês | Evaluation |
+| ::{ flag=US }:: ::Yogurtt::{ user=2649717 } |  | Evaluation |
+| ::{ flag=PL }:: ::Zelq::{ user=8953955 } | Polonês | Evaluation |
 
 ### osu!taiko
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemão | Evaluation |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, um pouco de árabe | Evaluation |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francês, um pouco de italiano | Leadership |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Português | Evaluation |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |
+| ::{ flag=DE }:: ::Capu::{ user=2474015 } | Alemão | Evaluation |
+| ::{ flag=GB }:: ::Dusk-::{ user=6092181 } | Urdu, um pouco de árabe | Evaluation |
+| ::{ flag=TN }:: ::Hivie::{ user=14102976 } | Árabe, francês, um pouco de italiano | Leadership |
+| ::{ flag=BR }:: ::Ideal::{ user=3869519 } | Português | Evaluation |
+| ::{ flag=US }:: ::radar::{ user=7131099 } |  | Leadership |
 
 ### osu!catch
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Espanhol, alemão | Evaluation |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Holandês | Evaluation |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluation |
+| ::{ flag=ES }:: ::Deif::{ user=318565 } | Espanhol, alemão | Evaluation |
+| ::{ flag=NL }:: ::Greaper::{ user=2369776 } | Holandês | Evaluation |
+| ::{ flag=US }:: ::Secre::{ user=2306637 } |  | Evaluation |
 
 ### osu!mania
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita | Evaluation |
-| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinês | Evaluation |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonésio | Evaluation |
-| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Dinamarquês | Evaluation |
+| ::{ flag=VN }:: ::Akasha-::{ user=2596306 } | Vietnamita | Evaluation |
+| ::{ flag=CN }:: ::gzdongsheng::{ user=8660315 } | Chinês | Evaluation |
+| ::{ flag=ID }:: ::Maxus::{ user=4335785 } | Indonésio | Evaluation |
+| ::{ flag=DK }:: ::Tailsdk::{ user=6751666 } | Dinamarquês | Evaluation |
 
 ### Contas de bot
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ::{ flag=XX }:: [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) |  |  |
+| ::{ flag=XX }:: ::Nomination Assessment Team::{ user=6616586 } |  |  |

@@ -7,7 +7,7 @@ tags:
 
 ![ITBS logo](img/logo.jpg)
 
-The **Indonesian Taiko Beginner Showdown** (***ITBS***) was a beginner Indonesian double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=ID }:: [Reen](https://osu.ppy.sh/users/3285139). Indonesian players ranked below #10,000 were able to participate. It was the first instalment of the Indonesian Taiko Beginner Showdown and a part of the Indonesian Taiko Showdown series.
+The **Indonesian Taiko Beginner Showdown** (***ITBS***) was a beginner Indonesian double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=ID }:: ::Reen::{ user=3285139 }. Indonesian players ranked below #10,000 were able to participate. It was the first instalment of the Indonesian Taiko Beginner Showdown and a part of the Indonesian Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -35,7 +35,7 @@ The **Indonesian Taiko Beginner Showdown** (***ITBS***) was a beginner Indonesia
 
 ![](img/badge.jpg "ITBS winner badge")
 
-Generous donations from ::{ flag=ID }:: [\[R\]](https://osu.ppy.sh/users/3577322), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413), ::{ flag=ID }:: [Seshito](https://osu.ppy.sh/users/19820939), and ::{ flag=ID }:: [Zest2822](https://osu.ppy.sh/users/24002878) helped fund some of the prizes.
+Generous donations from ::{ flag=ID }:: ::\[R\]::{ user=3577322 }, ::{ flag=ID }:: ::raynald::{ user=25094413 }, ::{ flag=ID }:: ::Seshito::{ user=19820939 }, and ::{ flag=ID }:: ::Zest2822::{ user=24002878 } helped fund some of the prizes.
 
 ## Organisation
 
@@ -43,17 +43,17 @@ The Indonesian Taiko Beginner Showdown was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=ID }:: [Reen](https://osu.ppy.sh/users/3285139) |
-| Co-organiser | ::{ flag=ID }:: [Naverlyn](https://osu.ppy.sh/users/14324722) |
-| Mappool selector | ::{ flag=ID }:: [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=ID }:: [Poii](https://osu.ppy.sh/users/7924938) |
-| Mappool tester | ::{ flag=ID }:: [Konami-Kun](https://osu.ppy.sh/users/15931741), ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079), ::{ flag=ID }:: [Zedfish](https://osu.ppy.sh/users/22615825) |
-| Referee | ::{ flag=ID }:: [-Foxee-](https://osu.ppy.sh/users/14989473), ::{ flag=ID }:: [Joltzzz](https://osu.ppy.sh/users/15436568), ::{ flag=ID }:: [Konami-Kun](https://osu.ppy.sh/users/15931741), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413), ::{ flag=ID }:: [Rei Hakurei](https://osu.ppy.sh/users/704111), ::{ flag=ID }:: [Zedfish](https://osu.ppy.sh/users/22615825) |
-| Streamer | ::{ flag=HK }:: [-Storm7-](https://osu.ppy.sh/users/12248285), ::{ flag=DE }:: [Penggwin](https://osu.ppy.sh/users/14050018), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [wiam103](https://osu.ppy.sh/users/4109839) |
-| Commentator | ::{ flag=ID }:: [freezebear](https://osu.ppy.sh/users/1943301), ::{ flag=ID }:: [Konami-Kun](https://osu.ppy.sh/users/15931741), ::{ flag=ID }:: [Lxa](https://osu.ppy.sh/users/20983500), ::{ flag=ID }:: [Mirea](https://osu.ppy.sh/users/8404646), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413) |
-| Designer | ::{ flag=ID }:: [Poii](https://osu.ppy.sh/users/7924938) |
-| Recruiter | ::{ flag=ID }:: [Reed\_405](https://osu.ppy.sh/users/9965069) |
-| Statistician | ::{ flag=ID }:: [Reen](https://osu.ppy.sh/users/3285139) |
-| Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organiser | ::{ flag=ID }:: ::Reen::{ user=3285139 } |
+| Co-organiser | ::{ flag=ID }:: ::Naverlyn::{ user=14324722 } |
+| Mappool selector | ::{ flag=ID }:: ::Alwaysyukaz::{ user=4999506 }, ::{ flag=HK }:: ::BlackBN::{ user=6291741 }, ::{ flag=MY }:: ::Jerry::{ user=605973 }, ::{ flag=ID }:: ::Poii::{ user=7924938 } |
+| Mappool tester | ::{ flag=ID }:: ::Konami-Kun::{ user=15931741 }, ::{ flag=ID }:: ::Veltlion::{ user=10999079 }, ::{ flag=ID }:: ::Zedfish::{ user=22615825 } |
+| Referee | ::{ flag=ID }:: ::-Foxee-::{ user=14989473 }, ::{ flag=ID }:: ::Joltzzz::{ user=15436568 }, ::{ flag=ID }:: ::Konami-Kun::{ user=15931741 }, ::{ flag=ID }:: ::raynald::{ user=25094413 }, ::{ flag=ID }:: ::Rei Hakurei::{ user=704111 }, ::{ flag=ID }:: ::Zedfish::{ user=22615825 } |
+| Streamer | ::{ flag=HK }:: ::-Storm7-::{ user=12248285 }, ::{ flag=DE }:: ::Penggwin::{ user=14050018 }, ::{ flag=ID }:: ::Victim\_Crasher::{ user=2084869 }, ::{ flag=ID }:: ::wiam103::{ user=4109839 } |
+| Commentator | ::{ flag=ID }:: ::freezebear::{ user=1943301 }, ::{ flag=ID }:: ::Konami-Kun::{ user=15931741 }, ::{ flag=ID }:: ::Lxa::{ user=20983500 }, ::{ flag=ID }:: ::Mirea::{ user=8404646 }, ::{ flag=ID }:: ::raynald::{ user=25094413 } |
+| Designer | ::{ flag=ID }:: ::Poii::{ user=7924938 } |
+| Recruiter | ::{ flag=ID }:: ::Reed\_405::{ user=9965069 } |
+| Statistician | ::{ flag=ID }:: ::Reen::{ user=3285139 } |
+| Wiki writer | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## Links
 
@@ -67,11 +67,11 @@ The Indonesian Taiko Beginner Showdown was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=ID }:: [salym](https://osu.ppy.sh/users/19089549), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zarumu](https://osu.ppy.sh/users/18429972), ::{ flag=ID }:: [Aphelion-](https://osu.ppy.sh/users/8370351), ::{ flag=ID }:: [BitDust](https://osu.ppy.sh/users/9573836), ::{ flag=ID }:: [AZKiFanboy](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [WeebReen](https://osu.ppy.sh/users/10129901), ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) |
-| High | ::{ flag=ID }:: [kabukibuki](https://osu.ppy.sh/users/16526343), ::{ flag=ID }:: [hufuhufu](https://osu.ppy.sh/users/3057739), ::{ flag=ID }:: [ThePubliX](https://osu.ppy.sh/users/14856887), ::{ flag=ID }:: [Kazuyo](https://osu.ppy.sh/users/5604201), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=ID }:: [Kampret](https://osu.ppy.sh/users/8413114), ::{ flag=ID }:: [ProBeater](https://osu.ppy.sh/users/12064598), ::{ flag=ID }:: [zutu](https://osu.ppy.sh/users/11184912) |
-| Middle | ::{ flag=ID }:: [Zoont](https://osu.ppy.sh/users/7109269), ::{ flag=ID }:: [dedotikea](https://osu.ppy.sh/users/8805157), ::{ flag=ID }:: [NandoFernandez](https://osu.ppy.sh/users/10614731), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=ID }:: [N\_jaaayy](https://osu.ppy.sh/users/17787564), ::{ flag=ID }:: [Iskandar](https://osu.ppy.sh/users/17564331), ::{ flag=ID }:: [tamafx0](https://osu.ppy.sh/users/19154514), ::{ flag=ID }:: [MikeVT](https://osu.ppy.sh/users/23303599) |
-| Low | ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909), ::{ flag=ID }:: [epictuz](https://osu.ppy.sh/users/25644402), ::{ flag=ID }:: [-Reuto-](https://osu.ppy.sh/users/10717635), ::{ flag=ID }:: [\[-Elaina-\]](https://osu.ppy.sh/users/12532297), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613), ::{ flag=ID }:: [Endless Paradex](https://osu.ppy.sh/users/15455180), ::{ flag=ID }:: [DRMPG](https://osu.ppy.sh/users/11627890), ::{ flag=ID }:: [Rhifa](https://osu.ppy.sh/users/11607008) |
-| Unseeded | ::{ flag=ID }:: [SakuyaIz](https://osu.ppy.sh/users/14708166), ::{ flag=ID }:: [Mixuri](https://osu.ppy.sh/users/9153772), ::{ flag=ID }:: [mikey677](https://osu.ppy.sh/users/23806740), ::{ flag=ID }:: [Kinora](https://osu.ppy.sh/users/20571283), ::{ flag=ID }:: [Dapuluous](https://osu.ppy.sh/users/8140944), ::{ flag=ID }:: [-SJ-](https://osu.ppy.sh/users/6971620) |
+| Top | ::{ flag=ID }:: ::salym::{ user=19089549 }, ::{ flag=ID }:: ::Madoka Ayukawa::{ user=1595221 }, ::{ flag=ID }:: ::Zarumu::{ user=18429972 }, ::{ flag=ID }:: ::Aphelion-::{ user=8370351 }, ::{ flag=ID }:: ::BitDust::{ user=9573836 }, ::{ flag=ID }:: ::AZKiFanboy::{ user=5179764 }, ::{ flag=ID }:: ::WeebReen::{ user=10129901 }, ::{ flag=ID }:: ::Ihram-San::{ user=9908055 } |
+| High | ::{ flag=ID }:: ::kabukibuki::{ user=16526343 }, ::{ flag=ID }:: ::hufuhufu::{ user=3057739 }, ::{ flag=ID }:: ::ThePubliX::{ user=14856887 }, ::{ flag=ID }:: ::Kazuyo::{ user=5604201 }, ::{ flag=ID }:: ::Sololiquy::{ user=4350087 }, ::{ flag=ID }:: ::Kampret::{ user=8413114 }, ::{ flag=ID }:: ::ProBeater::{ user=12064598 }, ::{ flag=ID }:: ::zutu::{ user=11184912 } |
+| Middle | ::{ flag=ID }:: ::Zoont::{ user=7109269 }, ::{ flag=ID }:: ::dedotikea::{ user=8805157 }, ::{ flag=ID }:: ::NandoFernandez::{ user=10614731 }, ::{ flag=ID }:: ::Reihynn::{ user=16630515 }, ::{ flag=ID }:: ::N\_jaaayy::{ user=17787564 }, ::{ flag=ID }:: ::Iskandar::{ user=17564331 }, ::{ flag=ID }:: ::tamafx0::{ user=19154514 }, ::{ flag=ID }:: ::MikeVT::{ user=23303599 } |
+| Low | ::{ flag=ID }:: ::Revv-::{ user=12424909 }, ::{ flag=ID }:: ::epictuz::{ user=25644402 }, ::{ flag=ID }:: ::-Reuto-::{ user=10717635 }, ::{ flag=ID }:: ::\[-Elaina-\]::{ user=12532297 }, ::{ flag=ID }:: ::Dika312::{ user=741613 }, ::{ flag=ID }:: ::Endless Paradex::{ user=15455180 }, ::{ flag=ID }:: ::DRMPG::{ user=11627890 }, ::{ flag=ID }:: ::Rhifa::{ user=11607008 } |
+| Unseeded | ::{ flag=ID }:: ::SakuyaIz::{ user=14708166 }, ::{ flag=ID }:: ::Mixuri::{ user=9153772 }, ::{ flag=ID }:: ::mikey677::{ user=23806740 }, ::{ flag=ID }:: ::Kinora::{ user=20571283 }, ::{ flag=ID }:: ::Dapuluous::{ user=8140944 }, ::{ flag=ID }:: ::-SJ-::{ user=6971620 } |
 
 ## Podium
 

@@ -2,7 +2,7 @@
 
 ![ANZT 8S logo](img/logo.png)
 
-The **Aus/NZ osu!standard Tournament 8 - Summer** (***ANZT 8S***) was a 1v1 double-elimination osu! tournament with a two week, double elimination group stage for Australian and New Zealand players hosted by ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [TheOmyNomy](https://osu.ppy.sh/users/4241054), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102) and ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634). It was the eleventh instalment of the Aus/NZ tourneys.
+The **Aus/NZ osu!standard Tournament 8 - Summer** (***ANZT 8S***) was a 1v1 double-elimination osu! tournament with a two week, double elimination group stage for Australian and New Zealand players hosted by ::{ flag=NZ }:: ::Diony::{ user=4294475 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=AU }:: ::TheOmyNomy::{ user=4241054 }, ::{ flag=AU }:: ::Fairy Bread::{ user=8306102 } and ::{ flag=AU }:: ::Gala::{ user=3385634 }. It was the eleventh instalment of the Aus/NZ tourneys.
 
 ANZT 8S was the first tournament in the ANZT series to feature automatic qualification for players of the previous iteration; [ANZT 7W](../2020_Winter/). This allowed the top 16 players from [ANZT 7W](../2020_Winter/) to skip the group stage.
 
@@ -34,14 +34,14 @@ ANZT 8S was the first tournament in the ANZT series to feature automatic qualifi
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475), ::{ flag=AU }:: [EmeraldStar82](https://osu.ppy.sh/users/3772135), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634) |
-| Commentator | ::{ flag=AU }:: [jixxi](https://osu.ppy.sh/users/11652827), ::{ flag=AU }:: [Pepsi Max](https://osu.ppy.sh/users/7785655), ::{ flag=AU }:: [DJ Rinickulous](https://osu.ppy.sh/users/4999984), ::{ flag=AU }:: [Vivace](https://osu.ppy.sh/users/3698691), ::{ flag=AU }:: [zzzbored](https://osu.ppy.sh/users/3222676), ::{ flag=AU }:: [Arbusion](https://osu.ppy.sh/users/11469447), ::{ flag=AU }:: [Monk Gyatso](https://osu.ppy.sh/users/4012086), ::{ flag=NZ }:: [shortpotato](https://osu.ppy.sh/users/1266102), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=AU }:: [Raphii](https://osu.ppy.sh/users/5126976) |
-| Streamer | ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [jixxi](https://osu.ppy.sh/users/11652827), ::{ flag=AU }:: [pewdekz](https://osu.ppy.sh/users/5754859), ::{ flag=AU }:: [Snowpoint](https://osu.ppy.sh/users/9383377), ::{ flag=AU }:: [zzzbored](https://osu.ppy.sh/users/3222676), ::{ flag=US }:: [Xpekade](https://osu.ppy.sh/users/10775293), ::{ flag=NZ }:: [shortpotato](https://osu.ppy.sh/users/1266102), ::{ flag=AU }:: [Walfurus](https://osu.ppy.sh/users/13684009), ::{ flag=AU }:: [Aus](https://osu.ppy.sh/users/6541404), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938) |
-| Referee | ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=AU }:: [DJ Rinickulous](https://osu.ppy.sh/users/4999984), ::{ flag=AU }:: [Apsychos](https://osu.ppy.sh/users/13748308), ::{ flag=US }:: [Xpekade](https://osu.ppy.sh/users/10775293), ::{ flag=AU }:: [molneya](https://osu.ppy.sh/users/8945180), ::{ flag=US }:: [[K]](https://osu.ppy.sh/users/16551387), ::{ flag=NZ }:: [- Abby -](https://osu.ppy.sh/users/7740118), ::{ flag=AU }:: [Walfurus](https://osu.ppy.sh/users/13684009), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=GB }:: [SSScotty](https://osu.ppy.sh/users/10319851), ::{ flag=AU }:: [unicornlover](https://osu.ppy.sh/users/13179722) |
-| Head pooler | ::{ flag=AU }:: [DJ Rinickulous](https://osu.ppy.sh/users/4999984) |
-| Mappool selector | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634), ::{ flag=AU }:: [DJ Rinickulous](https://osu.ppy.sh/users/4999984), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637), ::{ flag=AU }:: [Maxibon](https://osu.ppy.sh/users/7042924), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650) |
-| Pool tester | ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609) |
-| Designer | ::{ flag=AU }:: [Gala](https://osu.ppy.sh/users/3385634) |
+| Manager | ::{ flag=NZ }:: ::Diony::{ user=4294475 }, ::{ flag=AU }:: ::EmeraldStar82::{ user=3772135 }, ::{ flag=AU }:: ::Fairy Bread::{ user=8306102 }, ::{ flag=AU }:: ::Gala::{ user=3385634 } |
+| Commentator | ::{ flag=AU }:: ::jixxi::{ user=11652827 }, ::{ flag=AU }:: ::Pepsi Max::{ user=7785655 }, ::{ flag=AU }:: ::DJ Rinickulous::{ user=4999984 }, ::{ flag=AU }:: ::Vivace::{ user=3698691 }, ::{ flag=AU }:: ::zzzbored::{ user=3222676 }, ::{ flag=AU }:: ::Arbusion::{ user=11469447 }, ::{ flag=AU }:: ::Monk Gyatso::{ user=4012086 }, ::{ flag=NZ }:: ::shortpotato::{ user=1266102 }, ::{ flag=AU }:: ::Mavs::{ user=11076938 }, ::{ flag=AU }:: ::Raphii::{ user=5126976 } |
+| Streamer | ::{ flag=AU }:: ::Fairy Bread::{ user=8306102 }, ::{ flag=AU }:: ::jixxi::{ user=11652827 }, ::{ flag=AU }:: ::pewdekz::{ user=5754859 }, ::{ flag=AU }:: ::Snowpoint::{ user=9383377 }, ::{ flag=AU }:: ::zzzbored::{ user=3222676 }, ::{ flag=US }:: ::Xpekade::{ user=10775293 }, ::{ flag=NZ }:: ::shortpotato::{ user=1266102 }, ::{ flag=AU }:: ::Walfurus::{ user=13684009 }, ::{ flag=AU }:: ::Aus::{ user=6541404 }, ::{ flag=AU }:: ::Mavs::{ user=11076938 } |
+| Referee | ::{ flag=AU }:: ::Fairy Bread::{ user=8306102 }, ::{ flag=AU }:: ::DJ Rinickulous::{ user=4999984 }, ::{ flag=AU }:: ::Apsychos::{ user=13748308 }, ::{ flag=US }:: ::Xpekade::{ user=10775293 }, ::{ flag=AU }:: ::molneya::{ user=8945180 }, ::{ flag=US }:: ::\1K\1::{ user=16551387 }, ::{ flag=NZ }:: ::- Abby -::{ user=7740118 }, ::{ flag=AU }:: ::Walfurus::{ user=13684009 }, ::{ flag=DE }:: ::GDLenny::{ user=8406711 }, ::{ flag=VN }:: ::Hoaq::{ user=7696512 }, ::{ flag=GB }:: ::SSScotty::{ user=10319851 }, ::{ flag=AU }:: ::unicornlover::{ user=13179722 } |
+| Head pooler | ::{ flag=AU }:: ::DJ Rinickulous::{ user=4999984 } |
+| Mappool selector | ::{ flag=AU }:: ::Gala::{ user=3385634 }, ::{ flag=AU }:: ::DJ Rinickulous::{ user=4999984 }, ::{ flag=TW }:: ::Imokora::{ user=2472609 }, ::{ flag=TW }:: ::Shiina Noriko::{ user=1285637 }, ::{ flag=AU }:: ::Maxibon::{ user=7042924 }, ::{ flag=US }:: ::im a fancy lad::{ user=4908650 } |
+| Pool tester | ::{ flag=TW }:: ::Imokora::{ user=2472609 } |
+| Designer | ::{ flag=AU }:: ::Gala::{ user=3385634 } |
 
 ## Links
 
@@ -56,9 +56,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: [-Machine-](https://osu.ppy.sh/users/5459981) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=AU }:: ::mrekk::{ user=7562902 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AU }:: ::-Machine-::{ user=5459981 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=AU }:: ::Jordan The Bear::{ user=7477458 } |
 
 All individual match results can be found on the spreadsheet linked above.
 

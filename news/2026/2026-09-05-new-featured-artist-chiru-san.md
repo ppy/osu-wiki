@@ -19,7 +19,7 @@ Before hopping into the editor, you might want to draw some inspiration from the
 
 ### Chiru-san - Butterfly VIP
 
-Try out [this map](https://osu.ppy.sh/beatmapsets/2538369) hosted by [kosi](https://osu.ppy.sh/users/17768842)!
+Try out [this map](https://osu.ppy.sh/beatmapsets/2538369) hosted by ::kosi::{ user=17768842 }!
 
 <div align="center" class="osu-md__paragraph">
     <video width="100%" controls>
@@ -29,7 +29,7 @@ Try out [this map](https://osu.ppy.sh/beatmapsets/2538369) hosted by [kosi](http
 
 ### Chiru-san - Glow
 
-Experience [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2472976) hosted by [Ryxliee](https://osu.ppy.sh/users/15823344) or [this 4K osu!mania rendition with a storyboard](https://osu.ppy.sh/beatmapsets/2538996) by [chocomilku-](https://osu.ppy.sh/users/16687756)!
+Experience [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2472976) hosted by ::Ryxliee::{ user=15823344 } or [this 4K osu!mania rendition with a storyboard](https://osu.ppy.sh/beatmapsets/2538996) by ::chocomilku-::{ user=16687756 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/564/Glow/Chiru-san%20-%20Glow.mp3">
@@ -37,7 +37,7 @@ Experience [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2472976) hosted b
 
 ### Chiru-san - Insomnia
 
-Here's [another 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2580819) hosted by [\_Yunazu](https://osu.ppy.sh/users/11330898)!
+Here's [another 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2580819) hosted by ::\_Yunazu::{ user=11330898 }!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/564/Insomnia/Chiru-san%20-%20Insomnia.mp3">

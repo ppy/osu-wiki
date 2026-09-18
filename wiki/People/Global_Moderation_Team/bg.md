@@ -63,111 +63,111 @@ tags:
 
 | Име | Допълнителен език | Област на фокус |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | Немски | Модериране на чат |
-| ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Унгарски | Модериране на чат |
-| ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Руски | Модериране на чат |
-| ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Модериране на форум |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Управление на турнири |
-| ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Китайски, Малайски | Модериране на чат |
-| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) |  | Модериране на чат |
-| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Шведски, Испански | Модериране на чат, Управление на турнири |
-| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Модериране на чат |
-| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Корейски, Японски | Модериране на чат |
-| ::{ flag=TR }:: [Coldrod](https://osu.ppy.sh/users/9065991) | Турски | Модериране на чат |
-| ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Испански | Модериране на чат, Модериране на форум |
-| ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413) | Шведски, малко Френски | Модериране обществото на създатели/редактори |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Модериране на форум, Техническа поддръжка |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Техническа поддръжка |
-| ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Португалски, Японски | Модериране на чат |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Поддръжка на играчи, Администрира wiki |
-| ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Полски | Модериране на чат |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Китайски | Модериране обществото на създатели/редактори |
-| ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Модериране обществото на създатели/редактори |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Модериране на чат, Модериране обществото на създатели/редактори |
-| ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Кантонски, Китайски, Японски | Модериране на чат |
-| ::{ flag=DE }:: [Kite](https://osu.ppy.sh/users/134572) | Немски | Модериране обществото на създатели/редактори |
-| ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Руски | Модериране на чат |
-| ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Японски | Модериране на чат |
-| ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Руски | Модериране на чат |
-| ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646) | Руски | Модериране на чат |
-| ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Финландски | Модериране на чат |
-| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Португалски, Испански | Модериране на чат, Управление на турнири |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Немски | Модериране обществото на създатели/редактори |
-| ::{ flag=TW }:: [Loneight](https://osu.ppy.sh/users/663131) | Китайски | Модериране на чат |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Кантонски, Китайски | Управление на турнири |
-| ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | Португалски | Модериране обществото на създатели/редактори |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | osu! разработчик |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Филипински | Модериране на чат, Модериране на форум, Техническа поддръжка |
-| ::{ flag=FR }:: [Neil Watts](https://osu.ppy.sh/users/3048059) | Френски | Модериране на чат |
-| ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Модериране обществото на създатели/редактори |
-| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Индонезийски | Модериране на чат |
-| ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Френски | Модериране на чат |
-| ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | Португалски, Испански | Модериране на чат |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Немски | Модериране обществото на създатели/редактори |
-| ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Немски, Сръбски | Модериране на чат, Модериране обществото на създатели/редактори |
-| ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Филипински | Модериране на чат |
-| ::{ flag=AU }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Официално представяне на екип |
-| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Немски | Управление на турнири |
-| ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | Френски, малко Испански | Модериране на чат, Модериране на форум, Модериране обществото на създатели/редактори |
-| ::{ flag=PT }:: [Pereira006](https://osu.ppy.sh/users/537344) | Португалски | Модериране на чат |
-| ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Кантонски, Китайски | Модериране на чат |
-| ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Корейски, Японски | Модериране на чат |
-| ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Модериране обществото на създатели/редактори |
-| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Испански | Модериране на чат |
-| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Немски | Модериране на форум |
-| ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Корейски | Модериране на чат |
-| ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Японски | Модериране на чат |
-| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Шведски, Испански | Модериране на чат |
-| ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | Италиански, Румънски | Модериране на чат |
-| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Френски, Испански | Модериране на чат |
-| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | Португалски | Модериране обществото на създатели/редактори |
-| ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Индонезийски | Модериране на чат |
-| ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Индонезийски | Модериране на чат |
-| ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Китайски | Модериране на чат |
-| ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Руски | Модериране на чат, Администрира wiki |
-| ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) | Корейски, Японски, Филипински | Модериране на чат |
-| ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | Филипински | Модериране на чат |
-| ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | Тайландски | Модериране на чат |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Испански | Техническа поддръжка |
-| ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) | Полски | Модериране на чат |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Полски | Модериране на чат |
-| ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Полски | Модериране на чат |
-| ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | Модериране на чат |
-| ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) | Турски, Немски | Модериране на чат |
+| ::{ flag=DE }:: ::- Felix::{ user=8503985 } | Немски | Модериране на чат |
+| ::{ flag=HU }:: ::\1 Another \1::{ user=3416573 } | Унгарски | Модериране на чат |
+| ::{ flag=CH }:: ::\[ryuu\]::{ user=5698467 } | Руски | Модериране на чат |
+| ::{ flag=US }:: ::abraker::{ user=4635891 } |  | Модериране на форум |
+| ::{ flag=CA }:: ::Azer::{ user=2155578 } |  | Управление на турнири |
+| ::{ flag=MY }:: ::bibitaru::{ user=4482419 } | Китайски, Малайски | Модериране на чат |
+| ::{ flag=US }:: ::Chaos::{ user=2628870 } |  | Модериране на чат |
+| ::{ flag=US }:: ::ChillierPear::{ user=9501251 } | Шведски, Испански | Модериране на чат, Управление на турнири |
+| ::{ flag=GB }:: ::chromb::{ user=10238680 } |  | Модериране на чат |
+| ::{ flag=KR }:: ::Civil oath::{ user=3216107 } | Корейски, Японски | Модериране на чат |
+| ::{ flag=TR }:: ::Coldrod::{ user=9065991 } | Турски | Модериране на чат |
+| ::{ flag=AR }:: ::Darksonic::{ user=570042 } | Испански | Модериране на чат, Модериране на форум |
+| ::{ flag=SE }:: ::Davvy::{ user=10047413 } | Шведски, малко Френски | Модериране обществото на създатели/редактори |
+| ::{ flag=US }:: ::Death::{ user=3242450 } |  | Модериране на форум, Техническа поддръжка |
+| ::{ flag=US }:: ::Dntm8kmeeatu::{ user=5428812 } |  | Техническа поддръжка |
+| ::{ flag=BR }:: ::Edward::{ user=5618109 } | Португалски, Японски | Модериране на чат |
+| ::{ flag=AU }:: ::Ephemeral::{ user=102335 } |  | Поддръжка на играчи, Администрира wiki |
+| ::{ flag=PL }:: ::Galkan::{ user=169570 } | Полски | Модериране на чат |
+| ::{ flag=CN }:: ::Garden::{ user=2849992 } | Китайски | Модериране обществото на създатели/редактори |
+| ::{ flag=US }:: ::Halfslashed::{ user=4598899 } |  | Модериране обществото на създатели/редактори |
+| ::{ flag=GB }:: ::JBHyperion::{ user=4879508 } |  | Модериране на чат, Модериране обществото на създатели/редактори |
+| ::{ flag=HK }:: ::kanpakyin::{ user=394326 } | Кантонски, Китайски, Японски | Модериране на чат |
+| ::{ flag=DE }:: ::Kite::{ user=134572 } | Немски | Модериране обществото на създатели/редактори |
+| ::{ flag=RU }:: ::Kobold84::{ user=3227533 } | Руски | Модериране на чат |
+| ::{ flag=JP }:: ::KSHR::{ user=409957 } | Японски | Модериране на чат |
+| ::{ flag=RU }:: ::Kudou Chitose::{ user=9936528 } | Руски | Модериране на чат |
+| ::{ flag=RU }:: ::Kyubey::{ user=2195646 } | Руски | Модериране на чат |
+| ::{ flag=FI }:: ::Laurakko::{ user=7253731 } | Финландски | Модериране на чат |
+| ::{ flag=BR }:: ::LeoFLT::{ user=3668779 } | Португалски, Испански | Модериране на чат, Управление на турнири |
+| ::{ flag=DE }:: ::Loctav::{ user=71366 } | Немски | Модериране обществото на създатели/редактори |
+| ::{ flag=TW }:: ::Loneight::{ user=663131 } | Китайски | Модериране на чат |
+| ::{ flag=GB }:: ::mangomizer::{ user=1893718 } | Кантонски, Китайски | Управление на турнири |
+| ::{ flag=BR }:: ::Maot::{ user=3914271 } | Португалски | Модериране обществото на създатели/редактори |
+| ::{ flag=NO }:: ::MillhioreF::{ user=941094 } |  | osu! разработчик |
+| ::{ flag=PH }:: ::Nathanael::{ user=2295078 } | Филипински | Модериране на чат, Модериране на форум, Техническа поддръжка |
+| ::{ flag=FR }:: ::Neil Watts::{ user=3048059 } | Френски | Модериране на чат |
+| ::{ flag=US }:: ::Nevo::{ user=7451883 } |  | Модериране обществото на създатели/редактори |
+| ::{ flag=ID }:: ::Niva::{ user=197805 } | Индонезийски | Модериране на чат |
+| ::{ flag=FR }:: ::Nozhomi::{ user=2716981 } | Френски | Модериране на чат |
+| ::{ flag=BR }:: ::Nukrid::{ user=2307484 } | Португалски, Испански | Модериране на чат |
+| ::{ flag=DE }:: ::Okoratu::{ user=1623405 } | Немски | Модериране обществото на създатели/редактори |
+| ::{ flag=DE }:: ::OnosakiHito::{ user=290128 } | Немски, Сръбски | Модериране на чат, Модериране обществото на създатели/редактори |
+| ::{ flag=PH }:: ::Osu Tatakae Ouendan::{ user=594210 } | Филипински | Модериране на чат |
+| ::{ flag=AU }:: ::osu!team::{ user=4341397 } |  | Официално представяне на екип |
+| ::{ flag=DE }:: ::p3n::{ user=123703 } | Немски | Управление на турнири |
+| ::{ flag=FR }:: ::Pachiru::{ user=2850983 } | Френски, малко Испански | Модериране на чат, Модериране на форум, Модериране обществото на създатели/редактори |
+| ::{ flag=PT }:: ::Pereira006::{ user=537344 } | Португалски | Модериране на чат |
+| ::{ flag=HK }:: ::Petal::{ user=7354729 } | Кантонски, Китайски | Модериране на чат |
+| ::{ flag=KR }:: ::Petit::{ user=4637369 } | Корейски, Японски | Модериране на чат |
+| ::{ flag=GB }:: ::Pope Gadget::{ user=2288341 } |  | Модериране обществото на създатели/редактори |
+| ::{ flag=MX }:: ::Repflez::{ user=201392 } | Испански | Модериране на чат |
+| ::{ flag=DE }:: ::RockRoller::{ user=8388854 } | Немски | Модериране на форум |
+| ::{ flag=KR }:: ::ruexia::{ user=385069 } | Корейски | Модериране на чат |
+| ::{ flag=JP }:: ::S o h::{ user=2234772 } | Японски | Модериране на чат |
+| ::{ flag=SE }:: ::Saten::{ user=444506 } | Шведски, Испански | Модериране на чат |
+| ::{ flag=IT }:: ::Seijiro::{ user=2581696 } | Италиански, Румънски | Модериране на чат |
+| ::{ flag=FR }:: ::Shiro::{ user=113005 } | Френски, Испански | Модериране на чат |
+| ::{ flag=SG }:: ::Shoegazer::{ user=2520707 } | Португалски | Модериране обществото на създатели/редактори |
+| ::{ flag=ID }:: ::Shurelia::{ user=3807986 } | Индонезийски | Модериране на чат |
+| ::{ flag=ID }:: ::Sies::{ user=6491991 } | Индонезийски | Модериране на чат |
+| ::{ flag=TW }:: ::spboxer3::{ user=197974 } | Китайски | Модериране на чат |
+| ::{ flag=CH }:: ::TicClick::{ user=672931 } | Руски | Модериране на чат, Администрира wiki |
+| ::{ flag=KR }:: ::ToGlette::{ user=1076236 } | Корейски, Японски, Филипински | Модериране на чат |
+| ::{ flag=PH }:: ::topecnz::{ user=2103927 } | Филипински | Модериране на чат |
+| ::{ flag=TH }:: ::Trigonoculus::{ user=7627013 } | Тайландски | Модериране на чат |
+| ::{ flag=ES }:: ::Trosk-::{ user=3469385 } | Испански | Техническа поддръжка |
+| ::{ flag=PL }:: ::Ukami::{ user=820865 } | Полски | Модериране на чат |
+| ::{ flag=PL }:: ::Venix::{ user=5999631 } | Полски | Модериране на чат |
+| ::{ flag=PL }:: ::Yason::{ user=2574392 } | Полски | Модериране на чат |
+| ::{ flag=HM }:: ::Zallius::{ user=55 } | <!-- TODO --> | Модериране на чат |
+| ::{ flag=TR }:: ::Zeus-::{ user=5464437 } | Турски, Немски | Модериране на чат |
 
 ### Групирано по модериран език
 
 | Канал | Подфорум | Модератори |
 | :-- | :-- | :-- |
 | `#arabic` |  |  |
-| `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| `#balkan` | [Balkan](https://osu.ppy.sh/community/forums/topics/83962) | ::{ flag=DE }:: ::OnosakiHito::{ user=290128 } |
 | `#bulgarian` |  |  |
-| `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
-| `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=TW }:: [Loneight](https://osu.ppy.sh/users/663131), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |
+| `#cantonese` |  | ::{ flag=HK }:: ::kanpakyin::{ user=394326 }, ::{ flag=HK }:: ::Petal::{ user=7354729 } |
+| `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: ::bibitaru::{ user=4482419 }, ::{ flag=TW }:: ::Loneight::{ user=663131 }, ::{ flag=HK }:: ::kanpakyin::{ user=394326 }, ::{ flag=HK }:: ::Petal::{ user=7354729 }, ::{ flag=TW }:: ::spboxer3::{ user=197974 } |
 | `#czechoslovak` |  |  |
 | `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) |  |
 | `#english` |  | *Всички модератори* |
-| `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078), ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
-| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) |
-| `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ::{ flag=FR }:: [Neil Watts](https://osu.ppy.sh/users/3048059), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983), ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) |
-| `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985), ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: ::Nathanael::{ user=2295078 }, ::{ flag=PH }:: ::Osu Tatakae Ouendan::{ user=594210 }, ::{ flag=KR }:: ::ToGlette::{ user=1076236 }, ::{ flag=PH }:: ::topecnz::{ user=2103927 } |
+| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: ::Laurakko::{ user=7253731 } |
+| `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ::{ flag=FR }:: ::Neil Watts::{ user=3048059 }, ::{ flag=FR }:: ::Nozhomi::{ user=2716981 }, ::{ flag=FR }:: ::Pachiru::{ user=2850983 }, ::{ flag=FR }:: ::Shiro::{ user=113005 } |
+| `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ::{ flag=DE }:: ::- Felix::{ user=8503985 }, ::{ flag=DE }:: ::Okoratu::{ user=1623405 }, ::{ flag=DE }:: ::OnosakiHito::{ user=290128 } |
 | `#greek` |  |  |
 | `#hebrew` |  |  |
-| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) |
-| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
-| `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) |
-| `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
-| `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
-| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) |
-| `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570), ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865), ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) |
-| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484), ::{ flag=PT }:: [Pereira006](https://osu.ppy.sh/users/537344) |
-| `#romanian` |  | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) |
-| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646), ::{ flag=RU }:: [mrrrk](https://osu.ppy.sh/users/9936528), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
-| `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |
-| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) |
-| `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ::{ flag=TR }:: [Coldrod](https://osu.ppy.sh/users/9065991), ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) |
-| `#ukrainian` |  | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
+| `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: ::\1 Another \1::{ user=3416573 } |
+| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: ::Niva::{ user=197805 }, ::{ flag=ID }:: ::Shurelia::{ user=3807986 }, ::{ flag=ID }:: ::Sies::{ user=6491991 } |
+| `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ::{ flag=IT }:: ::Seijiro::{ user=2581696 } |
+| `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: ::Civil oath::{ user=3216107 }, ::{ flag=BR }:: ::Edward::{ user=5618109 }, ::{ flag=HK }:: ::kanpakyin::{ user=394326 }, ::{ flag=JP }:: ::KSHR::{ user=409957 }, ::{ flag=KR }:: ::Petit::{ user=4637369 }, ::{ flag=JP }:: ::S o h::{ user=2234772 }, ::{ flag=KR }:: ::ToGlette::{ user=1076236 } |
+| `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: ::Civil oath::{ user=3216107 }, ::{ flag=KR }:: ::Petit::{ user=4637369 }, ::{ flag=KR }:: ::ruexia::{ user=385069 }, ::{ flag=KR }:: ::ToGlette::{ user=1076236 } |
+| `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: ::bibitaru::{ user=4482419 } |
+| `#polish` | [Polski](https://osu.ppy.sh/community/forums/26) | ::{ flag=PL }:: ::Galkan::{ user=169570 }, ::{ flag=PL }:: ::Ukami::{ user=820865 }, ::{ flag=PL }:: ::Venix::{ user=5999631 }, ::{ flag=PL }:: ::Yason::{ user=2574392 } |
+| `#portuguese` | [Português](https://osu.ppy.sh/community/forums/74) | ::{ flag=BR }:: ::Edward::{ user=5618109 }, ::{ flag=BR }:: ::Nukrid::{ user=2307484 }, ::{ flag=PT }:: ::Pereira006::{ user=537344 } |
+| `#romanian` |  | ::{ flag=IT }:: ::Seijiro::{ user=2581696 } |
+| `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: ::\[ryuu\]::{ user=5698467 }, ::{ flag=RU }:: ::Kobold84::{ user=3227533 }, ::{ flag=RU }:: ::Kyubey::{ user=2195646 }, ::{ flag=RU }:: ::mrrrk::{ user=9936528 }, ::{ flag=CH }:: ::TicClick::{ user=672931 } |
+| `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=SE }:: ::Saten::{ user=444506 } |
+| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=AR }:: ::Darksonic::{ user=570042 }, ::{ flag=BR }:: ::LeoFLT::{ user=3668779 }, ::{ flag=BR }:: ::Nukrid::{ user=2307484 }, ::{ flag=MX }:: ::Repflez::{ user=201392 } |
+| `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: ::Trigonoculus::{ user=7627013 } |
+| `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ::{ flag=TR }:: ::Coldrod::{ user=9065991 }, ::{ flag=TR }:: ::Zeus-::{ user=5464437 } |
+| `#ukrainian` |  | ::{ flag=RU }:: ::Kobold84::{ user=3227533 } |
 | `#vietnamese` |  |  |
 
 <!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->

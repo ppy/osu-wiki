@@ -8,7 +8,7 @@ tags:
 
 ![EUTT 2018 logo](img/logo.png)
 
-The **European Taiko Tournament 2018** (***EUTT 2018***) was a 1v1 European double elimination osu!taiko tournament hosted by ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110). It was the first instalment of the European Taiko Tournament.
+The **European Taiko Tournament 2018** (***EUTT 2018***) was a 1v1 European double elimination osu!taiko tournament hosted by ::{ flag=US }:: ::Backfire::{ user=263110 }. It was the first instalment of the European Taiko Tournament.
 
 ## Tournament schedule
 
@@ -39,14 +39,14 @@ The European Taiko Tournament 2018 was run by various osu!taiko community member
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Mappool selector | ::{ flag=DE }:: [Nepuri](https://osu.ppy.sh/users/6637817), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) |
-| Streamer | ::{ flag=DE }:: [Heamburger](https://osu.ppy.sh/users/4705120) |
-| Commentator | ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=GB }:: [Faithful](https://osu.ppy.sh/users/8283935), ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416), ::{ flag=NZ }:: [sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110) |
-| Designer | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=FI }:: [Micro](https://osu.ppy.sh/users/4801080) |
-| Referee | ::{ flag=AU }:: [Cactie](https://osu.ppy.sh/users/5592409), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=US }:: ::Backfire::{ user=263110 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Mappool selector | ::{ flag=DE }:: ::Nepuri::{ user=6637817 }, ::{ flag=SE }:: ::Raphalge::{ user=3918650 }, ::{ flag=US }:: ::Backfire::{ user=263110 } |
+| Streamer | ::{ flag=DE }:: ::Heamburger::{ user=4705120 } |
+| Commentator | ::{ flag=SE }:: ::Raphalge::{ user=3918650 }, ::{ flag=GB }:: ::Faithful::{ user=8283935 }, ::{ flag=US }:: ::Das::{ user=3165416 }, ::{ flag=NZ }:: ::sparxe::{ user=5750235 }, ::{ flag=US }:: ::Backfire::{ user=263110 } |
+| Designer | ::{ flag=US }:: ::Backfire::{ user=263110 }, ::{ flag=FI }:: ::Micro::{ user=4801080 } |
+| Referee | ::{ flag=AU }:: ::Cactie::{ user=5592409 }, ::{ flag=JP }:: ::Briesmas::{ user=2865172 }, ::{ flag=US }:: ::Backfire::{ user=263110 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Statistician | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## Links
 
@@ -60,10 +60,10 @@ The European Taiko Tournament 2018 was run by various osu!taiko community member
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655), ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945), ::{ flag=ES }:: [AlvaroYL](https://osu.ppy.sh/users/6333166), ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444), ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550), ::{ flag=FR }:: [Yona la loutre](https://osu.ppy.sh/users/7930622), ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=PT }:: [BabySnakes](https://osu.ppy.sh/users/4669728) |
-| High | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737), ::{ flag=UA }:: [Don Omar](https://osu.ppy.sh/users/689414), ::{ flag=PL }:: [Acrith](https://osu.ppy.sh/users/389880), ::{ flag=CH }:: [Oui](https://osu.ppy.sh/users/5538419), ::{ flag=RU }:: [Naninub](https://osu.ppy.sh/users/8188876), ::{ flag=DE }:: [-Leafeon](https://osu.ppy.sh/users/6956922), ::{ flag=DE }:: [lukili846](https://osu.ppy.sh/users/6278008), ::{ flag=DE }:: [jleste](https://osu.ppy.sh/users/8275687) |
-| Low | ::{ flag=RU }:: [DayzeekFeed](https://osu.ppy.sh/users/5009970), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=GB }:: [Lno](https://osu.ppy.sh/users/1900787), ::{ flag=RU }:: [night\_flower](https://osu.ppy.sh/users/11574707), ::{ flag=GB }:: [Grimbow](https://osu.ppy.sh/users/1387762), ::{ flag=AT }:: [animexamera](https://osu.ppy.sh/users/7511357), ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042), ::{ flag=FR }:: [maximaxiU](https://osu.ppy.sh/users/4069690) |
-| Bottom | ::{ flag=PL }:: [\_SC0RP10N](https://osu.ppy.sh/users/9511518), ::{ flag=EE }:: [Kizma](https://osu.ppy.sh/users/8325847), ::{ flag=GB }:: [Ali161102](https://osu.ppy.sh/users/7582420), ::{ flag=PL }:: [Agresywny Arbuz](https://osu.ppy.sh/users/7056658), ::{ flag=SV }:: [\[Carl S\]](https://osu.ppy.sh/users/6230047), ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015), ::{ flag=GB }:: [ControlPro](https://osu.ppy.sh/users/10633982), ::{ flag=ES }:: [alexinet232](https://osu.ppy.sh/users/5250153) |
+| Top | ::{ flag=GB }:: ::goheegy::{ user=8057655 }, ::{ flag=IT }:: ::Ikkun::{ user=1059945 }, ::{ flag=ES }:: ::AlvaroYL::{ user=6333166 }, ::{ flag=IT }:: ::D3kuu::{ user=7807444 }, ::{ flag=TR }:: ::frukoyurdakul::{ user=7612550 }, ::{ flag=FR }:: ::Yona la loutre::{ user=7930622 }, ::{ flag=GB }:: ::Horiiizon::{ user=8071438 }, ::{ flag=PT }:: ::BabySnakes::{ user=4669728 } |
+| High | ::{ flag=DE }:: ::Zetera::{ user=587737 }, ::{ flag=UA }:: ::Don Omar::{ user=689414 }, ::{ flag=PL }:: ::Acrith::{ user=389880 }, ::{ flag=CH }:: ::Oui::{ user=5538419 }, ::{ flag=RU }:: ::Naninub::{ user=8188876 }, ::{ flag=DE }:: ::-Leafeon::{ user=6956922 }, ::{ flag=DE }:: ::lukili846::{ user=6278008 }, ::{ flag=DE }:: ::jleste::{ user=8275687 } |
+| Low | ::{ flag=RU }:: ::DayzeekFeed::{ user=5009970 }, ::{ flag=GB }:: ::Teezel::{ user=7528639 }, ::{ flag=GB }:: ::Lno::{ user=1900787 }, ::{ flag=RU }:: ::night\_flower::{ user=11574707 }, ::{ flag=GB }:: ::Grimbow::{ user=1387762 }, ::{ flag=AT }:: ::animexamera::{ user=7511357 }, ::{ flag=FR }:: ::Chernobog::{ user=3317042 }, ::{ flag=FR }:: ::maximaxiU::{ user=4069690 } |
+| Bottom | ::{ flag=PL }:: ::\_SC0RP10N::{ user=9511518 }, ::{ flag=EE }:: ::Kizma::{ user=8325847 }, ::{ flag=GB }:: ::Ali161102::{ user=7582420 }, ::{ flag=PL }:: ::Agresywny Arbuz::{ user=7056658 }, ::{ flag=SV }:: ::\[Carl S\]::{ user=6230047 }, ::{ flag=DE }:: ::Capu::{ user=2474015 }, ::{ flag=GB }:: ::ControlPro::{ user=10633982 }, ::{ flag=ES }:: ::alexinet232::{ user=5250153 } |
 
 ## Podium
 
@@ -71,9 +71,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ES }:: [AlvaroYL](https://osu.ppy.sh/users/6333166) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::goheegy::{ user=8057655 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=IT }:: ::Ikkun::{ user=1059945 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ES }:: ::AlvaroYL::{ user=6333166 } |
 
 ## Mappools
 

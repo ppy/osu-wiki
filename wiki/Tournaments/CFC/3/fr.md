@@ -8,7 +8,7 @@ tags:
 
 ![CFC 3 logo](img/logo.png)
 
-La **Catch French Cup 3** (***CFC 3***) était un tournoi osu!catch français en 1v1 host par ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263). Ceci était la troisième édition de la Catch French Cup.
+La **Catch French Cup 3** (***CFC 3***) était un tournoi osu!catch français en 1v1 host par ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }. Ceci était la troisième édition de la Catch French Cup.
 
 ## Planning du tournoi
 
@@ -40,14 +40,14 @@ La Catch French Cup 3 était gérée par différents membres de la communauté.
 
 | Poste | Membre(s) |
 | :-- | :-- |
-| Organisateur | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Sélectionneur de beatmap | ::{ flag=FR }:: [Emiru](https://osu.ppy.sh/users/3306180) |
-| Arbitre | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=FR }:: [\[ Mimir \]](https://osu.ppy.sh/users/7382734) |
-| Streamer | ::{ flag=FR }:: [Purettsu Eru](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Kaeldori](https://osu.ppy.sh/users/962519), ::{ flag=FR }:: [Astreachan](https://osu.ppy.sh/users/2953898), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| Commentateur | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Orazeit](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ::{ flag=FR }:: [\[Haku\]](https://osu.ppy.sh/users/2329184), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
-| Designer | ::{ flag=FR }:: [Lotchidych](https://osu.ppy.sh/users/8375240) |
-| Statisticien | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Éditeur de wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Organisateur | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Sélectionneur de beatmap | ::{ flag=FR }:: ::Emiru::{ user=3306180 } |
+| Arbitre | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::Ryumi::{ user=6596270 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 }, ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 }, ::{ flag=CA }:: ::Sinaeb::{ user=1576095 }, ::{ flag=JP }:: ::Briesmas::{ user=2865172 }, ::{ flag=FR }:: ::\[ Mimir \]::{ user=7382734 } |
+| Streamer | ::{ flag=FR }:: ::Purettsu Eru::{ user=1542565 }, ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 }, ::{ flag=FR }:: ::Kaeldori::{ user=962519 }, ::{ flag=FR }:: ::Astreachan::{ user=2953898 }, ::{ flag=CA }:: ::Sinaeb::{ user=1576095 } |
+| Commentateur | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 }, ::{ flag=FR }:: ::Orazeit::{ user=8335913 }, ::{ flag=FR }:: ::4L-Chan 3 Porte::{ user=7253987 }, ::{ flag=FR }:: ::AAAAAAAAAAAAHHH::{ user=4864877 }, ::{ flag=FR }:: ::\[Haku\]::{ user=2329184 }, ::{ flag=FR }:: ::redjiii::{ user=1378728 } |
+| Designer | ::{ flag=FR }:: ::Lotchidych::{ user=8375240 } |
+| Statisticien | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Éditeur de wiki | ::{ flag=ID }:: ::fajar13k::{ user=7100002 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
 
 ## Liens
 
@@ -61,23 +61,23 @@ La Catch French Cup 3 était gérée par différents membres de la communauté.
 
 | Seed | Membres |
 | :-- | :-- |
-| Top | ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994), ::{ flag=FR }:: [Libegon](https://osu.ppy.sh/users/9922381), ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ::{ flag=FR }:: [Sounny](https://osu.ppy.sh/users/7326109), ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322) |
-| High | ::{ flag=FR }:: [SkaylleexSamaFR](https://osu.ppy.sh/users/7720945), ::{ flag=FR }:: [Orazeit](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239), ::{ flag=FR }:: [Mnemosyne](https://osu.ppy.sh/users/9255433), ::{ flag=FR }:: [tutiflo](https://osu.ppy.sh/users/2024185), ::{ flag=FR }:: [GyraFanBoy](https://osu.ppy.sh/users/8417565), ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) |
-| Low | ::{ flag=MA }:: [l3ssili](https://osu.ppy.sh/users/12123746), ::{ flag=FR }:: [CaptainAlexis](https://osu.ppy.sh/users/6872242), ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725), ::{ flag=FR }:: [\[Haku\]](https://osu.ppy.sh/users/2329184), ::{ flag=FR }:: [07th Loli](https://osu.ppy.sh/users/4122996), ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141), ::{ flag=FR }:: [ume-skills](https://osu.ppy.sh/users/1383450), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015) |
-| Unseeded | ::{ flag=FR }:: [Fanther](https://osu.ppy.sh/users/7415863), ::{ flag=BE }:: [-\[Smoked\]-](https://osu.ppy.sh/users/8731044), ::{ flag=FR }:: [Iyorin](https://osu.ppy.sh/users/1859986), ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042), ::{ flag=FR }:: [Astreachan](https://osu.ppy.sh/users/2953898), ::{ flag=FR }:: [deesse du mal](https://osu.ppy.sh/users/9177774), ::{ flag=FR }:: [Nyton](https://osu.ppy.sh/users/9475990), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
+| Top | ::{ flag=FR }:: ::Boros::{ user=5490623 }, ::{ flag=TN }:: ::-Ken::{ user=4430811 }, ::{ flag=FR }:: ::Holloh::{ user=7612994 }, ::{ flag=FR }:: ::Libegon::{ user=9922381 }, ::{ flag=FR }:: ::AAAAAAAAAAAAHHH::{ user=4864877 }, ::{ flag=FR }:: ::Sounny::{ user=7326109 }, ::{ flag=FR }:: ::Noulayfe::{ user=4316542 }, ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 } |
+| High | ::{ flag=FR }:: ::SkaylleexSamaFR::{ user=7720945 }, ::{ flag=FR }:: ::Orazeit::{ user=8335913 }, ::{ flag=FR }:: ::Noctalium::{ user=6488167 }, ::{ flag=FR }:: ::Julo::{ user=4203239 }, ::{ flag=FR }:: ::Mnemosyne::{ user=9255433 }, ::{ flag=FR }:: ::tutiflo::{ user=2024185 }, ::{ flag=FR }:: ::GyraFanBoy::{ user=8417565 }, ::{ flag=FR }:: ::Electr0o::{ user=9484428 } |
+| Low | ::{ flag=MA }:: ::l3ssili::{ user=12123746 }, ::{ flag=FR }:: ::CaptainAlexis::{ user=6872242 }, ::{ flag=FR }:: ::dracoV::{ user=7925725 }, ::{ flag=FR }:: ::\[Haku\]::{ user=2329184 }, ::{ flag=FR }:: ::07th Loli::{ user=4122996 }, ::{ flag=FR }:: ::Aequo3::{ user=4495141 }, ::{ flag=FR }:: ::ume-skills::{ user=1383450 }, ::{ flag=FR }:: ::floflim::{ user=5954015 } |
+| Unseeded | ::{ flag=FR }:: ::Fanther::{ user=7415863 }, ::{ flag=BE }:: ::-\[Smoked\]-::{ user=8731044 }, ::{ flag=FR }:: ::Iyorin::{ user=1859986 }, ::{ flag=FR }:: ::Chernobog::{ user=3317042 }, ::{ flag=FR }:: ::Astreachan::{ user=2953898 }, ::{ flag=FR }:: ::deesse du mal::{ user=9177774 }, ::{ flag=FR }:: ::Nyton::{ user=9475990 }, ::{ flag=CA }:: ::Sinaeb::{ user=1576095 } |
 
 ## Groupes
 
 | Groupe | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | ::{ flag=FR }:: [SkaylleexSamaFR](https://osu.ppy.sh/users/7720945) | ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015) | ::{ flag=FR }:: [Chernobog](https://osu.ppy.sh/users/3317042) |
-| **B** | ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877) | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167) | ::{ flag=FR }:: [07th Loli](https://osu.ppy.sh/users/4122996) | ::{ flag=FR }:: [Nyton](https://osu.ppy.sh/users/9475990) |
-| **C** | ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322) | ::{ flag=FR }:: [Orazeit](https://osu.ppy.sh/users/8335913) | ::{ flag=FR }:: [ume-skills](https://osu.ppy.sh/users/1383450) | ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| **D** | ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994) | ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239) | ::{ flag=FR }:: [\[Haku\]](https://osu.ppy.sh/users/2329184) | ::{ flag=FR }:: [Fanther](https://osu.ppy.sh/users/7415863) |
-| **E** | ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623) | ::{ flag=FR }:: [Electr0o](https://osu.ppy.sh/users/9484428) | ::{ flag=FR }:: [CaptainAlexis](https://osu.ppy.sh/users/6872242) | ::{ flag=FR }:: [deesse du mal](https://osu.ppy.sh/users/9177774) |
-| **F** | ::{ flag=FR }:: [Sounny](https://osu.ppy.sh/users/7326109) | ::{ flag=FR }:: [tutiflo](https://osu.ppy.sh/users/2024185) | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) | ::{ flag=FR }:: [Iyorin](https://osu.ppy.sh/users/1859986) |
-| **G** | ::{ flag=FR }:: [Libegon](https://osu.ppy.sh/users/9922381) | ::{ flag=FR }:: [GyraFanBoy](https://osu.ppy.sh/users/8417565) | ::{ flag=MA }:: [l3ssili](https://osu.ppy.sh/users/12123746) | ::{ flag=BE }:: [-\[Smoked\]-](https://osu.ppy.sh/users/8731044) |
-| **H** | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) | ::{ flag=FR }:: [Mnemosyne](https://osu.ppy.sh/users/9255433) | ::{ flag=FR }:: [Aequo3](https://osu.ppy.sh/users/4495141) | ::{ flag=FR }:: [Astreachan](https://osu.ppy.sh/users/2953898) |
+| **A** | ::{ flag=TN }:: ::-Ken::{ user=4430811 } | ::{ flag=FR }:: ::SkaylleexSamaFR::{ user=7720945 } | ::{ flag=FR }:: ::floflim::{ user=5954015 } | ::{ flag=FR }:: ::Chernobog::{ user=3317042 } |
+| **B** | ::{ flag=FR }:: ::AAAAAAAAAAAAHHH::{ user=4864877 } | ::{ flag=FR }:: ::Noctalium::{ user=6488167 } | ::{ flag=FR }:: ::07th Loli::{ user=4122996 } | ::{ flag=FR }:: ::Nyton::{ user=9475990 } |
+| **C** | ::{ flag=FR }:: ::FulgurentKille::{ user=4096322 } | ::{ flag=FR }:: ::Orazeit::{ user=8335913 } | ::{ flag=FR }:: ::ume-skills::{ user=1383450 } | ::{ flag=CA }:: ::Sinaeb::{ user=1576095 } |
+| **D** | ::{ flag=FR }:: ::Holloh::{ user=7612994 } | ::{ flag=FR }:: ::Julo::{ user=4203239 } | ::{ flag=FR }:: ::\[Haku\]::{ user=2329184 } | ::{ flag=FR }:: ::Fanther::{ user=7415863 } |
+| **E** | ::{ flag=FR }:: ::Boros::{ user=5490623 } | ::{ flag=FR }:: ::Electr0o::{ user=9484428 } | ::{ flag=FR }:: ::CaptainAlexis::{ user=6872242 } | ::{ flag=FR }:: ::deesse du mal::{ user=9177774 } |
+| **F** | ::{ flag=FR }:: ::Sounny::{ user=7326109 } | ::{ flag=FR }:: ::tutiflo::{ user=2024185 } | ::{ flag=FR }:: ::dracoV::{ user=7925725 } | ::{ flag=FR }:: ::Iyorin::{ user=1859986 } |
+| **G** | ::{ flag=FR }:: ::Libegon::{ user=9922381 } | ::{ flag=FR }:: ::GyraFanBoy::{ user=8417565 } | ::{ flag=MA }:: ::l3ssili::{ user=12123746 } | ::{ flag=BE }:: ::-\[Smoked\]-::{ user=8731044 } |
+| **H** | ::{ flag=FR }:: ::Noulayfe::{ user=4316542 } | ::{ flag=FR }:: ::Mnemosyne::{ user=9255433 } | ::{ flag=FR }:: ::Aequo3::{ user=4495141 } | ::{ flag=FR }:: ::Astreachan::{ user=2953898 } |
 
 ## Podium
 
@@ -85,9 +85,9 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=TN }:: ::-Ken::{ user=4430811 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: ::Noulayfe::{ user=4316542 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: ::Boros::{ user=5490623 } |
 
 ## Liste des beatmaps
 

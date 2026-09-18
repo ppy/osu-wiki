@@ -22,52 +22,52 @@ Le projet Beatmap Spotlights est géré par divers membres de la communauté dan
 
 | Rôle | Membres |
 | :-- | :-- |
-| Chef du projet | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
-| Gestionnaire du projet | ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850) |
+| Chef du projet | ::{ flag=PL }:: ::Venix::{ user=5999631 } |
+| Gestionnaire du projet | ::{ flag=AU }:: ::Crumpey::{ user=3518705 }, ::{ flag=FI }:: ::Lefafel::{ user=2295850 } |
 
 Chaque publication des Beatmap Spotlights est assemblée par une équipe de curateurs. Les chefs d'équipe sont indiqués en gras.
 
 ### Curateurs osu!
 
-- ::{ flag=FI }:: **[Lefafel](https://osu.ppy.sh/users/2295850)**
-- ::{ flag=US }:: [Boolin](https://osu.ppy.sh/users/10664409)
-- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
-- ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340)
-- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
-- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ::{ flag=RO }:: [verily](https://osu.ppy.sh/users/12366071)
-- ::{ flag=US }:: [Willy](https://osu.ppy.sh/users/3521482)
-- ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
-- ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802)
+- ::{ flag=FI }:: **::Lefafel::{ user=2295850 }**
+- ::{ flag=US }:: ::Boolin::{ user=10664409 }
+- ::{ flag=HK }:: ::Chaoslitz::{ user=3621552 }
+- ::{ flag=US }:: ::DigitalHypno::{ user=4384207 }
+- ::{ flag=GB }:: ::KnightC0re::{ user=7894340 }
+- ::{ flag=MX }:: ::Riot::{ user=4256461 }
+- ::{ flag=CN }:: ::Ryuusei Aika::{ user=7777875 }
+- ::{ flag=RO }:: ::verily::{ user=12366071 }
+- ::{ flag=US }:: ::Willy::{ user=3521482 }
+- ::{ flag=US }:: ::Wispy::{ user=11106929 }
+- ::{ flag=IT }:: ::zekk::{ user=9704802 }
 
 ### Curateurs osu!taiko
 
-- ::{ flag=AT }:: **[Yasuho](https://osu.ppy.sh/users/8458835)**
-- ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)
-- ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910)
-- ::{ flag=SK }:: [nevqr](https://osu.ppy.sh/users/14269506)
-- ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128)
-- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
+- ::{ flag=AT }:: **::Yasuho::{ user=8458835 }**
+- ::{ flag=GB }:: ::Horiiizon::{ user=8071438 }
+- ::{ flag=JP }:: ::Maimaing::{ user=14520910 }
+- ::{ flag=SK }:: ::nevqr::{ user=14269506 }
+- ::{ flag=DE }:: ::OnosakiHito::{ user=290128 }
+- ::{ flag=JP }:: ::uone::{ user=5321719 }
 
 ### Curateurs osu!catch
 
-- ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
-- ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898)
-- ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164)
-- ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
-- ::{ flag=FR }:: [Realmaas](https://osu.ppy.sh/users/6567640)
+- ::{ flag=CA }:: **::SadEgg::{ user=10278243 }**
+- ::{ flag=ID }:: ::Constantine::{ user=3221898 }
+- ::{ flag=RU }:: ::Nelly::{ user=4741164 }
+- ::{ flag=PL }:: ::Phob::{ user=6069462 }
+- ::{ flag=FR }:: ::Realmaas::{ user=6567640 }
 
 ### Curateurs osu!mania
 
-- ::{ flag=ID }:: **[Maxus](https://osu.ppy.sh/users/4335785)**
-- ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773)
-- ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
-- ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090)
-- ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705)
-- ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154)
-- ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676)
-- ::{ flag=KR }:: [Rurvker](https://osu.ppy.sh/users/24526335)
-- ::{ flag=KR }:: [Seulgi](https://osu.ppy.sh/users/4918394)
-- ::{ flag=TW }:: [Spy](https://osu.ppy.sh/users/1217122)
-- ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619)
+- ::{ flag=ID }:: **::Maxus::{ user=4335785 }**
+- ::{ flag=DO }:: ::Antalf::{ user=8793773 }
+- ::{ flag=VN }:: ::Akasha-::{ user=2596306 }
+- ::{ flag=CN }:: ::Carpihat::{ user=10085090 }
+- ::{ flag=AU }:: ::Crumpey::{ user=3518705 }
+- ::{ flag=ID }:: ::Ilham::{ user=3057154 }
+- ::{ flag=NL }:: ::Muse Dash::{ user=13695676 }
+- ::{ flag=KR }:: ::Rurvker::{ user=24526335 }
+- ::{ flag=KR }:: ::Seulgi::{ user=4918394 }
+- ::{ flag=TW }:: ::Spy::{ user=1217122 }
+- ::{ flag=CN }:: ::YuEast 2018::{ user=13953619 }

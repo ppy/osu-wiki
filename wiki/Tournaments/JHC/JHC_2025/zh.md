@@ -11,7 +11,7 @@ tags:
 
 ![JHC 2025 banner](img/JHC-2025-banner.jpg)
 
-**叠屋杯 2025**（***JHC 2025***）是由 ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831)，::{ flag=CN }:: [CuteNatro](https://osu.ppy.sh/users/27233308)，和 ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234) 主办的 1v1 队伍制 osu!mania 4K 项目赛事。本届比赛是叠屋杯系列赛事的第二届正式比赛。
+**叠屋杯 2025**（***JHC 2025***）是由 ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }，::{ flag=CN }:: ::CuteNatro::{ user=27233308 }，和 ::{ flag=CN }:: ::yks1::{ user=26030234 } 主办的 1v1 队伍制 osu!mania 4K 项目赛事。本届比赛是叠屋杯系列赛事的第二届正式比赛。
 
 ## 比赛日程
 
@@ -45,15 +45,15 @@ tags:
 
 | 职务 | 成员 |
 | --: | :-- |
-| 主办方 | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [CuteNatro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234) |
-| 图池管理 | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [ieFaH](https://osu.ppy.sh/users/24243177), ::{ flag=CN }:: [To2](https://osu.ppy.sh/users/26683857), ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234) |
-| 谱师 | ::{ flag=CN }:: [[GB]Azukisan](https://osu.ppy.sh/users/5378805), ::{ flag=VN }:: [[GB]Kita-](https://osu.ppy.sh/users/27175001), ::{ flag=CN }:: [[GB]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=JP }:: [[GS]hina](https://osu.ppy.sh/users/20040607), ::{ flag=CN }:: [[Paw]doudou0310](https://osu.ppy.sh/users/13478805), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=GB }:: [Chandelure](https://osu.ppy.sh/users/12013943), ::{ flag=MO }:: [crazyrenard](https://osu.ppy.sh/users/30325323), ::{ flag=CN }:: [Dreamemory](https://osu.ppy.sh/users/38061925), ::{ flag=CN }:: [HoshiMiya\_](https://osu.ppy.sh/users/20209900), [HowToPlaySV](https://osu.ppy.sh/users/32494511), ::{ flag=CN }:: [ieFaH](https://osu.ppy.sh/users/24243177), ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\_kokor0\_](https://osu.ppy.sh/users/35036109), ::{ flag=CN }:: [Kusb123](https://osu.ppy.sh/users/35856480), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [Muses](https://osu.ppy.sh/users/9705896), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=PE }:: [Sakisagee](https://osu.ppy.sh/users/9938020), ::{ flag=CN }:: [Suirent](https://osu.ppy.sh/users/10687430), ::{ flag=CN }:: [To2](https://osu.ppy.sh/users/26683857), ::{ flag=CN }:: [yaoliao2764](https://osu.ppy.sh/users/37360798), ::{ flag=CN }:: [Ycloki](https://osu.ppy.sh/users/10861624) |
-| 测试 | ::{ flag=CN }:: [[Crz]Sakuya](https://osu.ppy.sh/users/24756728), ::{ flag=CN }:: [[GB]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [HowToPlaySV](https://osu.ppy.sh/users/32494511), ::{ flag=CN }:: [Ice V](https://osu.ppy.sh/users/12302642), ::{ flag=CN }:: [ieFaH](https://osu.ppy.sh/users/24243177), ::{ flag=CN }:: [Idontknowwhathi](https://osu.ppy.sh/users/32379983),::{ flag=SG }:: [Koishi Komeijie](https://osu.ppy.sh/users/15763622), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747), ::{ flag=US }:: [noober](https://osu.ppy.sh/users/22674434), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=CN }:: [Shizuku-09](https://osu.ppy.sh/users/27288518), ::{ flag=CN }:: [Suirent](https://osu.ppy.sh/users/10687430), ::{ flag=CN }:: [To2](https://osu.ppy.sh/users/26683857), ::{ flag=CN }:: [v69v](https://osu.ppy.sh/users/17203049), ::{ flag=CN }:: [XeOF4](https://osu.ppy.sh/users/22692196) |
-| 裁判 | ::{ flag=CN }:: [[GB]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [CapooFanboy](https://osu.ppy.sh/users/27235859), ::{ flag=CN }:: [cdwcgt](https://osu.ppy.sh/users/14721101), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CN }:: [ieFaH](https://osu.ppy.sh/users/24243177), ::{ flag=SE }:: [Logg45vs](https://osu.ppy.sh/users/8684540), ::{ flag=JP }:: [Namakai](https://osu.ppy.sh/users/12017349), ::{ flag=CN }:: [RTrigger](https://osu.ppy.sh/users/25308131), ::{ flag=CN }:: [Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [TianRS](https://osu.ppy.sh/users/23929228), ::{ flag=CN }:: [Trolloli](https://osu.ppy.sh/users/4335279), ::{ flag=NZ }:: [XiaoLan9999](https://osu.ppy.sh/users/15748267), ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234), ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) |
-| 直播 | ::{ flag=CN }:: [[GB]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [CapooFanboy](https://osu.ppy.sh/users/27235859), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CN }:: [MGU1](https://osu.ppy.sh/users/27192847), ::{ flag=CN }:: [Rush_FTK](https://osu.ppy.sh/users/3046856) |
-| 解说 | ::{ flag=CN }:: [[GB]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [[GB]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [[Paw]doudou0310](https://osu.ppy.sh/users/13478805), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [MGU1](https://osu.ppy.sh/users/27192847), ::{ flag=CN }:: [Rush_FTK](https://osu.ppy.sh/users/3046856) |
-| 数据统计 & wiki 编写 | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [CuteNatro](https://osu.ppy.sh/users/27233308) |
-| 设计 | ::{ flag=CN }:: [AZSDSC](https://osu.ppy.sh/users/17895656), ::{ flag=CN }:: [ItzSocn](https://osu.ppy.sh/users/13971632) |
+| 主办方 | ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::CuteNatro::{ user=27233308 }, ::{ flag=CN }:: ::yks1::{ user=26030234 } |
+| 图池管理 | ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::ieFaH::{ user=24243177 }, ::{ flag=CN }:: ::To2::{ user=26683857 }, ::{ flag=CN }:: ::yks1::{ user=26030234 } |
+| 谱师 | ::{ flag=CN }:: ::\1GB\1Azukisan::{ user=5378805 }, ::{ flag=VN }:: ::\1GB\1Kita-::{ user=27175001 }, ::{ flag=CN }:: ::\1GB\1Tyris::{ user=10497659 }, ::{ flag=JP }:: ::\1GS\1hina::{ user=20040607 }, ::{ flag=CN }:: ::\1Paw\1doudou0310::{ user=13478805 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=GB }:: ::Chandelure::{ user=12013943 }, ::{ flag=MO }:: ::crazyrenard::{ user=30325323 }, ::{ flag=CN }:: ::Dreamemory::{ user=38061925 }, ::{ flag=CN }:: ::HoshiMiya\_::{ user=20209900 }, [HowToPlaySV](https://osu.ppy.sh/users/32494511), ::{ flag=CN }:: ::ieFaH::{ user=24243177 }, ::{ flag=CN }:: ::Koyori Chan::{ user=11238501 }, ::{ flag=CN }:: ::\_kokor0\_::{ user=35036109 }, ::{ flag=CN }:: ::Kusb123::{ user=35856480 }, ::{ flag=CN }:: ::MidRed::{ user=17641994 }, ::{ flag=CN }:: ::Muses::{ user=9705896 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=PE }:: ::Sakisagee::{ user=9938020 }, ::{ flag=CN }:: ::Suirent::{ user=10687430 }, ::{ flag=CN }:: ::To2::{ user=26683857 }, ::{ flag=CN }:: ::yaoliao2764::{ user=37360798 }, ::{ flag=CN }:: ::Ycloki::{ user=10861624 } |
+| 测试 | ::{ flag=CN }:: ::\1Crz\1Sakuya::{ user=24756728 }, ::{ flag=CN }:: ::\1GB\1Tyris::{ user=10497659 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::HowToPlaySV::{ user=32494511 }, ::{ flag=CN }:: ::Ice V::{ user=12302642 }, ::{ flag=CN }:: ::ieFaH::{ user=24243177 }, ::{ flag=CN }:: ::Idontknowwhathi::{ user=32379983 },::{ flag=SG }:: ::Koishi Komeijie::{ user=15763622 }, ::{ flag=CN }:: ::MidRed::{ user=17641994 }, ::{ flag=GB }:: ::Nathanial::{ user=9169747 }, ::{ flag=US }:: ::noober::{ user=22674434 }, ::{ flag=FR }:: ::Paturages::{ user=1375479 }, ::{ flag=CN }:: ::Shizuku-09::{ user=27288518 }, ::{ flag=CN }:: ::Suirent::{ user=10687430 }, ::{ flag=CN }:: ::To2::{ user=26683857 }, ::{ flag=CN }:: ::v69v::{ user=17203049 }, ::{ flag=CN }:: ::XeOF4::{ user=22692196 } |
+| 裁判 | ::{ flag=CN }:: ::\1GB\1ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::CapooFanboy::{ user=27235859 }, ::{ flag=CN }:: ::cdwcgt::{ user=14721101 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=CN }:: ::ieFaH::{ user=24243177 }, ::{ flag=SE }:: ::Logg45vs::{ user=8684540 }, ::{ flag=JP }:: ::Namakai::{ user=12017349 }, ::{ flag=CN }:: ::RTrigger::{ user=25308131 }, ::{ flag=CN }:: ::Rush\1FTK::{ user=3046856 }, ::{ flag=CN }:: ::TianRS::{ user=23929228 }, ::{ flag=CN }:: ::Trolloli::{ user=4335279 }, ::{ flag=NZ }:: ::XiaoLan9999::{ user=15748267 }, ::{ flag=CN }:: ::yks1::{ user=26030234 }, ::{ flag=US }:: ::Znow::{ user=15513303 } |
+| 直播 | ::{ flag=CN }:: ::\1GB\1Tyris::{ user=10497659 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::CapooFanboy::{ user=27235859 }, ::{ flag=US }:: ::EpsilonMaiagare::{ user=3855052 }, ::{ flag=CN }:: ::MGU1::{ user=27192847 }, ::{ flag=CN }:: ::Rush\1FTK::{ user=3046856 } |
+| 解说 | ::{ flag=CN }:: ::\1GB\1ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::\1GB\1Tyris::{ user=10497659 }, ::{ flag=CN }:: ::\1Paw\1doudou0310::{ user=13478805 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::MGU1::{ user=27192847 }, ::{ flag=CN }:: ::Rush\1FTK::{ user=3046856 } |
+| 数据统计 & wiki 编写 | ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::CuteNatro::{ user=27233308 } |
+| 设计 | ::{ flag=CN }:: ::AZSDSC::{ user=17895656 }, ::{ flag=CN }:: ::ItzSocn::{ user=13971632 } |
 
 ## 链接
 
@@ -68,92 +68,92 @@ tags:
 
 |  | 队名 | 队员 |
 | :-: | :-: | :-- |
-| 1 | AdrianLazer 2nd | ::{ flag=US }:: [AdrianLazer](https://osu.ppy.sh/users/10292643) |
-| 2 | 安若蝶 | ::{ flag=CN }:: [Old Pigeon](https://osu.ppy.sh/users/26116770) |
-| 3 | GangWonDuo | ::{ flag=KR }:: [Stereotype](https://osu.ppy.sh/users/25311011), ::{ flag=KR }:: [ggeexx1](https://osu.ppy.sh/users/17494164) |
-| 4 | Team Red | ::{ flag=TW }:: [kissnolook](https://osu.ppy.sh/users/11608591), ::{ flag=TW }:: [Kesrie](https://osu.ppy.sh/users/13631923) |
-| 5 | KAMITSUBAKI | ::{ flag=CN }:: [Endterminal](https://osu.ppy.sh/users/20992774), ::{ flag=CN }:: [ohhhhhhhhhh](https://osu.ppy.sh/users/29591499) |
-| 6 | yo gurt | ::{ flag=TR }:: [hel0l](https://osu.ppy.sh/users/28554005), ::{ flag=BH }:: [Unitori-](https://osu.ppy.sh/users/15772814) |
-| 7 | choke99 | ::{ flag=TH }:: [yoth99](https://osu.ppy.sh/users/15727775), ::{ flag=TH }:: [Achino](https://osu.ppy.sh/users/13349388) |
-| 8 | 1557 | ::{ flag=KR }:: [mandarin0302](https://osu.ppy.sh/users/34430543), ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661) |
-| 9 | hand injury | ::{ flag=US }:: [zyluu](https://osu.ppy.sh/users/20016795) |
-| 10 | LE-BG-RYLEX | ::{ flag=FR }:: [RYLEX](https://osu.ppy.sh/users/33852065) |
-| 11 | jacks r fun | ::{ flag=VN }:: [GamerChris](https://osu.ppy.sh/users/36042814) |
-| 12 | speed main | ::{ flag=TR }:: [dumbidot](https://osu.ppy.sh/users/19664675) |
-| 13 | Bomboclat | ::{ flag=ES }:: [Adr053](https://osu.ppy.sh/users/23517155) |
-| 14 | Team name | ::{ flag=PH }:: [MOSTULS](https://osu.ppy.sh/users/22411632), ::{ flag=ES }:: [GDNoob25xd](https://osu.ppy.sh/users/36326427) |
-| 15 | ts so kevin | ::{ flag=ES }:: [Madoka Kaname](https://osu.ppy.sh/users/10927389), ::{ flag=ES }:: [-Viktor-](https://osu.ppy.sh/users/19744986) |
-| 16 | Prototype | ::{ flag=US }:: [Omixronx](https://osu.ppy.sh/users/26646928) |
-| 17 | Chumbo | ::{ flag=ES }:: [Alen-](https://osu.ppy.sh/users/9552883) |
-| 18 | 莉可莉丝 | ::{ flag=CN }:: [atalin](https://osu.ppy.sh/users/34616472), ::{ flag=CN }:: [weilai0121](https://osu.ppy.sh/users/32596132) |
-| 19 | noize fanclub | ::{ flag=ES }:: [ime](https://osu.ppy.sh/users/11649450), ::{ flag=GB }:: [frawog](https://osu.ppy.sh/users/16018038) |
-| 20 | 4k男娘叠叠绝赞团 | ::{ flag=CN }:: [XeOF4](https://osu.ppy.sh/users/22692196), ::{ flag=CN }:: [Catcay12334](https://osu.ppy.sh/users/27308730) |
-| 21 | United Statedom | ::{ flag=US }:: [manwelcchii](https://osu.ppy.sh/users/26690747), ::{ flag=GB }:: [MiniEgg_23](https://osu.ppy.sh/users/25914360) |
-| 22 | Jack Black | ::{ flag=PL }:: [Murtaj](https://osu.ppy.sh/users/18962055) |
-| 23 | Hasalee | ::{ flag=CZ }:: [1qxz](https://osu.ppy.sh/users/24641997) |
-| 24 | Soloist | ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) |
-| 25 | Brr brr patapim | ::{ flag=VE }:: [ProbYes](https://osu.ppy.sh/users/24421250), ::{ flag=BR }:: [Guilherme9143](https://osu.ppy.sh/users/9196671) |
-| 26 | king jacks | ::{ flag=ES }:: [kzqdenix](https://osu.ppy.sh/users/30740782), ::{ flag=ES }:: [Rodrigo64go](https://osu.ppy.sh/users/25297441) |
-| 27 | Washed | ::{ flag=FI }:: [Tomskuu](https://osu.ppy.sh/users/14943370) |
-| 28 | Shrimp House Cup | ::{ flag=CA }:: [[LS]Nemesis](https://osu.ppy.sh/users/20544648) |
-| 29 | ядима | ::{ flag=RU }:: [DimonTheGood](https://osu.ppy.sh/users/19077203) |
-| 30 | 25-ji, Jacks de. | ::{ flag=ES }:: [abriI](https://osu.ppy.sh/users/21906254), ::{ flag=ID }:: [rezored](https://osu.ppy.sh/users/18309106) |
-| 31 | Speed mains | ::{ flag=IE }:: [Xboxplayer69](https://osu.ppy.sh/users/36833020), ::{ flag=IE }:: [C0mp1ex_](https://osu.ppy.sh/users/31706494) |
-| 32 | Judge Byrne | ::{ flag=GB }:: [LuvVivian](https://osu.ppy.sh/users/21530808), ::{ flag=CZ }:: [ERA Yuh](https://osu.ppy.sh/users/16978354) |
-| 33 | kutto | ::{ flag=VN }:: [Hawkfrost](https://osu.ppy.sh/users/15555328), ::{ flag=CN }:: [SaltFalt](https://osu.ppy.sh/users/31185655) |
-| 34 | quebec jack | ::{ flag=MX }:: [NoMore5555](https://osu.ppy.sh/users/23506403), ::{ flag=MX }:: [bsej](https://osu.ppy.sh/users/25005439) |
-| 35 | Speed Overlord | ::{ flag=JP }:: [ME1KO N3KO](https://osu.ppy.sh/users/17572282), ::{ flag=CN }:: [Plancktime](https://osu.ppy.sh/users/34756301) |
-| 36 | Moegi & Maria | ::{ flag=PE }:: [Ancuw](https://osu.ppy.sh/users/18342820), ::{ flag=JP }:: [Fuyuneel](https://osu.ppy.sh/users/33801604) |
-| 37 | hay trao cho anh | ::{ flag=VN }:: [ndglol](https://osu.ppy.sh/users/32338421) |
-| 38 | Vietnamese jack | ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267), ::{ flag=TH }:: [parponger](https://osu.ppy.sh/users/28098890) |
-| 39 | BAU BAU BAU BAU | ::{ flag=PH }:: [lyvet](https://osu.ppy.sh/users/18121419), ::{ flag=VN }:: [RantabFanboy](https://osu.ppy.sh/users/16005504) |
-| 40 | ε jackers | ::{ flag=SE }:: [Balanc3D3mon](https://osu.ppy.sh/users/20531318), ::{ flag=SE }:: [xBlazemlg](https://osu.ppy.sh/users/16441559) |
-| 41 | such happy people | ::{ flag=HK }:: [a202f](https://osu.ppy.sh/users/33869170), ::{ flag=HK }:: [Fubuki fan](https://osu.ppy.sh/users/13471840) |
-| 42 | 老笔试 | ::{ flag=CN }:: [F0rge](https://osu.ppy.sh/users/28569116) |
-| 43 | SP | ::{ flag=VN }:: [minhkhio](https://osu.ppy.sh/users/30143933) |
-| 44 | ratio secret | ::{ flag=TH }:: [Kakashiro](https://osu.ppy.sh/users/35768711), ::{ flag=TH }:: [- meloncoin -](https://osu.ppy.sh/users/31003592) |
-| 45 | NorikoFanboy | ::{ flag=GB }:: [AGuyCalledJeff](https://osu.ppy.sh/users/18750025), ::{ flag=US }:: [Noriko_Violet](https://osu.ppy.sh/users/23398266) |
-| 46 | Country Hand | ::{ flag=TW }:: [Tsukimia_](https://osu.ppy.sh/users/31548234), ::{ flag=TW }:: [JoeyGYGY](https://osu.ppy.sh/users/25690184) |
-| 47 | Zariweya | ::{ flag=ES }:: [Litrowo](https://osu.ppy.sh/users/21423715), ::{ flag=ES }:: [Lofro_](https://osu.ppy.sh/users/17781391) |
-| 48 | Skill issue | ::{ flag=AT }:: [Ghfg517 Mania](https://osu.ppy.sh/users/33620596) |
-| 49 | Beta jacker | ::{ flag=SE }:: [ManaCube](https://osu.ppy.sh/users/24889093) |
-| 50 | bagjetka to sure | ::{ flag=PL }:: [[Szy]polymaridd](https://osu.ppy.sh/users/20372838) |
-| 51 | Chui Sai On | ::{ flag=MO }:: [knight87](https://osu.ppy.sh/users/12648780), ::{ flag=MO }:: [Tokirii](https://osu.ppy.sh/users/11563694) |
-| 52 | asereje | ::{ flag=VE }:: [Gameryt1234](https://osu.ppy.sh/users/25192757) |
-| 53 | Bottom G | ::{ flag=GT }:: [hoshiteru](https://osu.ppy.sh/users/15683009), ::{ flag=GT }:: [[Crz]Miyako](https://osu.ppy.sh/users/32374576) |
-| 54 | 03 Jack Monkeys | ::{ flag=JP }:: [Na2303](https://osu.ppy.sh/users/31146692), ::{ flag=JP }:: [Makise_c](https://osu.ppy.sh/users/14962017) |
-| 55 | kim jeong hyeok | ::{ flag=KR }:: [ssrykat](https://osu.ppy.sh/users/15079888), ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131) |
-| 56 | apalah | ::{ flag=ID }:: [NizT](https://osu.ppy.sh/users/23115247) |
-| 57 | I can't acc | ::{ flag=US }:: [Chordjack](https://osu.ppy.sh/users/23738691), ::{ flag=LV }:: [Treeidk](https://osu.ppy.sh/users/18887843) |
-| 58 | Slaughterhouse | ::{ flag=SA }:: [Itsketork-](https://osu.ppy.sh/users/37941027), ::{ flag=SE }:: [Mr_SmellySocks](https://osu.ppy.sh/users/26864198) |
-| 59 | Mizuki Sensitive | ::{ flag=TR }:: [hsod](https://osu.ppy.sh/users/15391485), ::{ flag=GB }:: [laser](https://osu.ppy.sh/users/15809312) |
-| 60 | Jacking Time! | ::{ flag=US }:: [Tevelkin](https://osu.ppy.sh/users/18508394) |
-| 61 | 是青暮哇~ | ::{ flag=CN }:: [gamechocolate](https://osu.ppy.sh/users/27799476) |
-| 62 | Guardian Tales | ::{ flag=CN }:: [xuer](https://osu.ppy.sh/users/36210798) |
-| 63 | Nonsense | ::{ flag=CL }:: [maykolmejor](https://osu.ppy.sh/users/15267478) |
-| 64 | Pequeño hermano | ::{ flag=CL }:: [NikitodeuS](https://osu.ppy.sh/users/25323782) |
-| 65 | loushao | ::{ flag=CN }:: [ComboPower](https://osu.ppy.sh/users/19477584) |
-| 66 | exotic jackers | ::{ flag=PH }:: [Zero_Two16](https://osu.ppy.sh/users/30327837), ::{ flag=SA }:: [Agenius569](https://osu.ppy.sh/users/31209758) |
-| 67 | gangers | ::{ flag=KR }:: [Inclemetite](https://osu.ppy.sh/users/32785738) |
-| 68 | Dubrava Roadmen | ::{ flag=HR }:: [brainstorm](https://osu.ppy.sh/users/20846774), ::{ flag=DE }:: [f1lth7](https://osu.ppy.sh/users/30791599) |
-| 69 | 320 | ::{ flag=US }:: [z2a](https://osu.ppy.sh/users/12542173), ::{ flag=CA }:: [Resonance](https://osu.ppy.sh/users/16778970) |
-| 70 | spirit | ::{ flag=CN }:: [Cyandrip](https://osu.ppy.sh/users/32436952) |
-| 71 | venti best girl | ::{ flag=IT }:: [Juyukamii](https://osu.ppy.sh/users/32254514), ::{ flag=GB }:: [Rageinater](https://osu.ppy.sh/users/23151496) |
-| 72 | 黄油面包 | ::{ flag=CN }:: [Suang](https://osu.ppy.sh/users/20222452), ::{ flag=CN }:: [lovolyj](https://osu.ppy.sh/users/32082018) |
-| 73 | 最爱躺着 | ::{ flag=CN }:: [Herb](https://osu.ppy.sh/users/10042715), ::{ flag=CN }:: [qiaolilailai](https://osu.ppy.sh/users/13809991) |
-| 74 | Toh | ::{ flag=SG }:: [dolfin-_](https://osu.ppy.sh/users/24531833), ::{ flag=SG }:: [glskywalker](https://osu.ppy.sh/users/23850091) |
-| 75 | TheJackEra | ::{ flag=DE }:: [[GE] Arthur](https://osu.ppy.sh/users/24122055) |
-| 76 | Grug | ::{ flag=PK }:: [Suheer](https://osu.ppy.sh/users/23312307) |
-| 77 | ILoveHoshino❤️❤️ | ::{ flag=KR }:: [iserifanboy](https://osu.ppy.sh/users/26594580) |
-| 78 | sphealites | ::{ flag=SG }:: [Minlox](https://osu.ppy.sh/users/34578231) |
-| 79 | fiveDspaLking | ::{ flag=CN }:: [dddddspalw](https://osu.ppy.sh/users/33754290) |
-| 80 | MatteLatcha | ::{ flag=TH }:: [MatchaLatte-](https://osu.ppy.sh/users/15944956) |
-| 81 | sklættong | ::{ flag=NO }:: [Ziquids](https://osu.ppy.sh/users/10972799) |
-| 82 | OnlyJacks | ::{ flag=US }:: [-Kyoko-](https://osu.ppy.sh/users/34321607), ::{ flag=US }:: [letmegetauserna](https://osu.ppy.sh/users/32916219) |
-| 83 | Chino fans club | ::{ flag=CN }:: [[Crz]Nickname](https://osu.ppy.sh/users/10817494), ::{ flag=CN }:: [[Crz]bubu](https://osu.ppy.sh/users/28251667) |
-| 84 | Just a pinoy | ::{ flag=PH }:: [TriangleBear](https://osu.ppy.sh/users/9178623) |
-| 85 | Not a jack main | ::{ flag=LT }:: [Stockaxolotl](https://osu.ppy.sh/users/35391395) |
-| 86 | cxmpppp | ::{ flag=CN }:: [inblood1097](https://osu.ppy.sh/users/31684668) |
+| 1 | AdrianLazer 2nd | ::{ flag=US }:: ::AdrianLazer::{ user=10292643 } |
+| 2 | 安若蝶 | ::{ flag=CN }:: ::Old Pigeon::{ user=26116770 } |
+| 3 | GangWonDuo | ::{ flag=KR }:: ::Stereotype::{ user=25311011 }, ::{ flag=KR }:: ::ggeexx1::{ user=17494164 } |
+| 4 | Team Red | ::{ flag=TW }:: ::kissnolook::{ user=11608591 }, ::{ flag=TW }:: ::Kesrie::{ user=13631923 } |
+| 5 | KAMITSUBAKI | ::{ flag=CN }:: ::Endterminal::{ user=20992774 }, ::{ flag=CN }:: ::ohhhhhhhhhh::{ user=29591499 } |
+| 6 | yo gurt | ::{ flag=TR }:: ::hel0l::{ user=28554005 }, ::{ flag=BH }:: ::Unitori-::{ user=15772814 } |
+| 7 | choke99 | ::{ flag=TH }:: ::yoth99::{ user=15727775 }, ::{ flag=TH }:: ::Achino::{ user=13349388 } |
+| 8 | 1557 | ::{ flag=KR }:: ::mandarin0302::{ user=34430543 }, ::{ flag=KR }:: ::lianic::{ user=13975661 } |
+| 9 | hand injury | ::{ flag=US }:: ::zyluu::{ user=20016795 } |
+| 10 | LE-BG-RYLEX | ::{ flag=FR }:: ::RYLEX::{ user=33852065 } |
+| 11 | jacks r fun | ::{ flag=VN }:: ::GamerChris::{ user=36042814 } |
+| 12 | speed main | ::{ flag=TR }:: ::dumbidot::{ user=19664675 } |
+| 13 | Bomboclat | ::{ flag=ES }:: ::Adr053::{ user=23517155 } |
+| 14 | Team name | ::{ flag=PH }:: ::MOSTULS::{ user=22411632 }, ::{ flag=ES }:: ::GDNoob25xd::{ user=36326427 } |
+| 15 | ts so kevin | ::{ flag=ES }:: ::Madoka Kaname::{ user=10927389 }, ::{ flag=ES }:: ::-Viktor-::{ user=19744986 } |
+| 16 | Prototype | ::{ flag=US }:: ::Omixronx::{ user=26646928 } |
+| 17 | Chumbo | ::{ flag=ES }:: ::Alen-::{ user=9552883 } |
+| 18 | 莉可莉丝 | ::{ flag=CN }:: ::atalin::{ user=34616472 }, ::{ flag=CN }:: ::weilai0121::{ user=32596132 } |
+| 19 | noize fanclub | ::{ flag=ES }:: ::ime::{ user=11649450 }, ::{ flag=GB }:: ::frawog::{ user=16018038 } |
+| 20 | 4k男娘叠叠绝赞团 | ::{ flag=CN }:: ::XeOF4::{ user=22692196 }, ::{ flag=CN }:: ::Catcay12334::{ user=27308730 } |
+| 21 | United Statedom | ::{ flag=US }:: ::manwelcchii::{ user=26690747 }, ::{ flag=GB }:: ::MiniEgg\123::{ user=25914360 } |
+| 22 | Jack Black | ::{ flag=PL }:: ::Murtaj::{ user=18962055 } |
+| 23 | Hasalee | ::{ flag=CZ }:: ::1qxz::{ user=24641997 } |
+| 24 | Soloist | ::{ flag=TH }:: ::konkawe::{ user=15665805 } |
+| 25 | Brr brr patapim | ::{ flag=VE }:: ::ProbYes::{ user=24421250 }, ::{ flag=BR }:: ::Guilherme9143::{ user=9196671 } |
+| 26 | king jacks | ::{ flag=ES }:: ::kzqdenix::{ user=30740782 }, ::{ flag=ES }:: ::Rodrigo64go::{ user=25297441 } |
+| 27 | Washed | ::{ flag=FI }:: ::Tomskuu::{ user=14943370 } |
+| 28 | Shrimp House Cup | ::{ flag=CA }:: ::\1LS\1Nemesis::{ user=20544648 } |
+| 29 | ядима | ::{ flag=RU }:: ::DimonTheGood::{ user=19077203 } |
+| 30 | 25-ji, Jacks de. | ::{ flag=ES }:: ::abriI::{ user=21906254 }, ::{ flag=ID }:: ::rezored::{ user=18309106 } |
+| 31 | Speed mains | ::{ flag=IE }:: ::Xboxplayer69::{ user=36833020 }, ::{ flag=IE }:: ::C0mp1ex\1::{ user=31706494 } |
+| 32 | Judge Byrne | ::{ flag=GB }:: ::LuvVivian::{ user=21530808 }, ::{ flag=CZ }:: ::ERA Yuh::{ user=16978354 } |
+| 33 | kutto | ::{ flag=VN }:: ::Hawkfrost::{ user=15555328 }, ::{ flag=CN }:: ::SaltFalt::{ user=31185655 } |
+| 34 | quebec jack | ::{ flag=MX }:: ::NoMore5555::{ user=23506403 }, ::{ flag=MX }:: ::bsej::{ user=25005439 } |
+| 35 | Speed Overlord | ::{ flag=JP }:: ::ME1KO N3KO::{ user=17572282 }, ::{ flag=CN }:: ::Plancktime::{ user=34756301 } |
+| 36 | Moegi & Maria | ::{ flag=PE }:: ::Ancuw::{ user=18342820 }, ::{ flag=JP }:: ::Fuyuneel::{ user=33801604 } |
+| 37 | hay trao cho anh | ::{ flag=VN }:: ::ndglol::{ user=32338421 } |
+| 38 | Vietnamese jack | ::{ flag=TH }:: ::--Pavin--::{ user=12046267 }, ::{ flag=TH }:: ::parponger::{ user=28098890 } |
+| 39 | BAU BAU BAU BAU | ::{ flag=PH }:: ::lyvet::{ user=18121419 }, ::{ flag=VN }:: ::RantabFanboy::{ user=16005504 } |
+| 40 | ε jackers | ::{ flag=SE }:: ::Balanc3D3mon::{ user=20531318 }, ::{ flag=SE }:: ::xBlazemlg::{ user=16441559 } |
+| 41 | such happy people | ::{ flag=HK }:: ::a202f::{ user=33869170 }, ::{ flag=HK }:: ::Fubuki fan::{ user=13471840 } |
+| 42 | 老笔试 | ::{ flag=CN }:: ::F0rge::{ user=28569116 } |
+| 43 | SP | ::{ flag=VN }:: ::minhkhio::{ user=30143933 } |
+| 44 | ratio secret | ::{ flag=TH }:: ::Kakashiro::{ user=35768711 }, ::{ flag=TH }:: ::- meloncoin -::{ user=31003592 } |
+| 45 | NorikoFanboy | ::{ flag=GB }:: ::AGuyCalledJeff::{ user=18750025 }, ::{ flag=US }:: ::Noriko\1Violet::{ user=23398266 } |
+| 46 | Country Hand | ::{ flag=TW }:: ::Tsukimia\1::{ user=31548234 }, ::{ flag=TW }:: ::JoeyGYGY::{ user=25690184 } |
+| 47 | Zariweya | ::{ flag=ES }:: ::Litrowo::{ user=21423715 }, ::{ flag=ES }:: ::Lofro\1::{ user=17781391 } |
+| 48 | Skill issue | ::{ flag=AT }:: ::Ghfg517 Mania::{ user=33620596 } |
+| 49 | Beta jacker | ::{ flag=SE }:: ::ManaCube::{ user=24889093 } |
+| 50 | bagjetka to sure | ::{ flag=PL }:: ::\1Szy\1polymaridd::{ user=20372838 } |
+| 51 | Chui Sai On | ::{ flag=MO }:: ::knight87::{ user=12648780 }, ::{ flag=MO }:: ::Tokirii::{ user=11563694 } |
+| 52 | asereje | ::{ flag=VE }:: ::Gameryt1234::{ user=25192757 } |
+| 53 | Bottom G | ::{ flag=GT }:: ::hoshiteru::{ user=15683009 }, ::{ flag=GT }:: ::\1Crz\1Miyako::{ user=32374576 } |
+| 54 | 03 Jack Monkeys | ::{ flag=JP }:: ::Na2303::{ user=31146692 }, ::{ flag=JP }:: ::Makise\1c::{ user=14962017 } |
+| 55 | kim jeong hyeok | ::{ flag=KR }:: ::ssrykat::{ user=15079888 }, ::{ flag=KR }:: ::gaesol::{ user=12452131 } |
+| 56 | apalah | ::{ flag=ID }:: ::NizT::{ user=23115247 } |
+| 57 | I can't acc | ::{ flag=US }:: ::Chordjack::{ user=23738691 }, ::{ flag=LV }:: ::Treeidk::{ user=18887843 } |
+| 58 | Slaughterhouse | ::{ flag=SA }:: ::Itsketork-::{ user=37941027 }, ::{ flag=SE }:: ::Mr\1SmellySocks::{ user=26864198 } |
+| 59 | Mizuki Sensitive | ::{ flag=TR }:: ::hsod::{ user=15391485 }, ::{ flag=GB }:: ::laser::{ user=15809312 } |
+| 60 | Jacking Time! | ::{ flag=US }:: ::Tevelkin::{ user=18508394 } |
+| 61 | 是青暮哇~ | ::{ flag=CN }:: ::gamechocolate::{ user=27799476 } |
+| 62 | Guardian Tales | ::{ flag=CN }:: ::xuer::{ user=36210798 } |
+| 63 | Nonsense | ::{ flag=CL }:: ::maykolmejor::{ user=15267478 } |
+| 64 | Pequeño hermano | ::{ flag=CL }:: ::NikitodeuS::{ user=25323782 } |
+| 65 | loushao | ::{ flag=CN }:: ::ComboPower::{ user=19477584 } |
+| 66 | exotic jackers | ::{ flag=PH }:: ::Zero\1Two16::{ user=30327837 }, ::{ flag=SA }:: ::Agenius569::{ user=31209758 } |
+| 67 | gangers | ::{ flag=KR }:: ::Inclemetite::{ user=32785738 } |
+| 68 | Dubrava Roadmen | ::{ flag=HR }:: ::brainstorm::{ user=20846774 }, ::{ flag=DE }:: ::f1lth7::{ user=30791599 } |
+| 69 | 320 | ::{ flag=US }:: ::z2a::{ user=12542173 }, ::{ flag=CA }:: ::Resonance::{ user=16778970 } |
+| 70 | spirit | ::{ flag=CN }:: ::Cyandrip::{ user=32436952 } |
+| 71 | venti best girl | ::{ flag=IT }:: ::Juyukamii::{ user=32254514 }, ::{ flag=GB }:: ::Rageinater::{ user=23151496 } |
+| 72 | 黄油面包 | ::{ flag=CN }:: ::Suang::{ user=20222452 }, ::{ flag=CN }:: ::lovolyj::{ user=32082018 } |
+| 73 | 最爱躺着 | ::{ flag=CN }:: ::Herb::{ user=10042715 }, ::{ flag=CN }:: ::qiaolilailai::{ user=13809991 } |
+| 74 | Toh | ::{ flag=SG }:: ::dolfin-\1::{ user=24531833 }, ::{ flag=SG }:: ::glskywalker::{ user=23850091 } |
+| 75 | TheJackEra | ::{ flag=DE }:: ::\1GE\1 Arthur::{ user=24122055 } |
+| 76 | Grug | ::{ flag=PK }:: ::Suheer::{ user=23312307 } |
+| 77 | ILoveHoshino❤️❤️ | ::{ flag=KR }:: ::iserifanboy::{ user=26594580 } |
+| 78 | sphealites | ::{ flag=SG }:: ::Minlox::{ user=34578231 } |
+| 79 | fiveDspaLking | ::{ flag=CN }:: ::dddddspalw::{ user=33754290 } |
+| 80 | MatteLatcha | ::{ flag=TH }:: ::MatchaLatte-::{ user=15944956 } |
+| 81 | sklættong | ::{ flag=NO }:: ::Ziquids::{ user=10972799 } |
+| 82 | OnlyJacks | ::{ flag=US }:: ::-Kyoko-::{ user=34321607 }, ::{ flag=US }:: ::letmegetauserna::{ user=32916219 } |
+| 83 | Chino fans club | ::{ flag=CN }:: ::\1Crz\1Nickname::{ user=10817494 }, ::{ flag=CN }:: ::\1Crz\1bubu::{ user=28251667 } |
+| 84 | Just a pinoy | ::{ flag=PH }:: ::TriangleBear::{ user=9178623 } |
+| 85 | Not a jack main | ::{ flag=LT }:: ::Stockaxolotl::{ user=35391395 } |
+| 86 | cxmpppp | ::{ flag=CN }:: ::inblood1097::{ user=31684668 } |
 
 ## 领奖台
 

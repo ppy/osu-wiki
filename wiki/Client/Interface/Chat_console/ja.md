@@ -15,7 +15,7 @@ osu!のほとんどの画面では`F8`を押すか、右下の`Show Chat`ボタ�
 | **Red** | [グローバルモデレーションチーム](/wiki/People/Global_Moderation_Team)または[ノミネーションアセスメントチーム](/wiki/People/The_Team/Nomination_Assessment_Team)のメンバー |
 | **Green** | 行には、あなたの名前や[「ハイライト」](Highlight)を引き起こすために付けた特定のキーワードが含まれています。メッセージのコピーは、これらの行をすべて含む専用のチャンネル、`#highlight`にも表示されます。 |
 | **Blue** | プライベートメッセージ |
-| **Cyan** | [peppy](https://osu.ppy.sh/users/2)、osu!の製作者 |
+| **Cyan** | ::peppy::{ user=2 }、osu!の製作者 |
 | **Pink** | [BanchoBot](/wiki/BanchoBot) |
 
 - `Show Ticker`ボックスをクリックすると、チャットコンソールが表示されていない時に、最新のチャットメッセージが画面下に表示されます。
@@ -77,7 +77,7 @@ osu!にログインしている各ユーザーは、拡張チャットにユー�
 | `/addfriend [user]` | フレンドリストに`[user]`を追加します。 | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [user]` | フレンドリストから`[user]`を削除します。 | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [message]` | アウェイメッセージを設定します(自分にPMを送っているユーザーに送信されます)。キャンセルする場合は、メッセージを空白にします。 | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~? BanchoBot: I am John Smith. |
-| `/bb` | Banchoにメッセージを送り、`!stats [user]`のようなコマンドを実行させる。 | `/bb !stats Uan` | \[15/11/12\] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+| `/bb` | Banchoにメッセージを送り、`!stats [user]`のようなコマンドを実行させる。 | `/bb !stats Uan` | \[15/11/12\] Stats for ::Uan::{ user=147623 }: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [user]`、`/msg [user]`もしくは`/query [user]` | 指定したユーザーとの新しいチャットタブを開く。 | `/chat Amigo` | (Amigo tab is opened) |
 | `/clear` | 現在のチャットバッファを消去します。 | `/clear` | (Clears basically everything on the current tab) |
 | `/ignore [user][@chp]` | このセッションで指定したユーザーからのメッセージをすべて無視します。@の後にc、h、pの文字をつけることで、それぞれチャット、[ハイライト](Highlight)、PMで無視することができます。 | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Your chat console is set to: ignore any text written by Amigo \[c\], any possible text highlighting you by Amigo \[h\] any Private Message sent to you by Amigo \[p\]) |

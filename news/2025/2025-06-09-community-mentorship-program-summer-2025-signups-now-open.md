@@ -23,26 +23,26 @@ The mentee signups are currently open, and close on the 16th of June!
 
 | Mentor | Time zone |
 | :-- | :-- |
-| ::{ flag=US }:: [IllusionB](https://osu.ppy.sh/users/13292488) | UTC-8 |
-| ::{ flag=US }:: [Wanpachi](https://osu.ppy.sh/users/12157130) | UTC-7 |
-| ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | UTC-7 |
-| ::{ flag=US }:: [Scorf](https://osu.ppy.sh/users/17038784) | UTC-7 |
-| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | UTC-5 |
-| ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) | UTC-5 |
-| ::{ flag=US }:: [Jennifer](https://osu.ppy.sh/users/6761853) | UTC-5 |
-| ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) | UTC-3 |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | UTC+2 |
-| ::{ flag=DE }:: [\-eNVy-](https://osu.ppy.sh/users/10632422) | UTC+2 |
-| ::{ flag=PL }:: [App](https://osu.ppy.sh/users/13650508) | UTC+2 |
-| ::{ flag=DE }:: [Kojio](https://osu.ppy.sh/users/2054596) | UTC+2 |
-| ::{ flag=ES }:: [flouah](https://osu.ppy.sh/users/8030129) | UTC+2 |
-| ::{ flag=FR }:: [Kyuukai](https://osu.ppy.sh/users/5337374) | UTC+2 |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | UTC+2 |
-| ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802) | UTC+2 |
-| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | UTC+3 |
-| ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) | UTC+3 |
-| ::{ flag=KZ }:: [\-Hitomi](https://osu.ppy.sh/users/15583987) | UTC+5 |
-| ::{ flag=JP }:: [MochiA](https://osu.ppy.sh/users/9312734) | UTC+9 |
+| ::{ flag=US }:: ::IllusionB::{ user=13292488 } | UTC-8 |
+| ::{ flag=US }:: ::Wanpachi::{ user=12157130 } | UTC-7 |
+| ::{ flag=US }:: ::Annabel::{ user=3388410 } | UTC-7 |
+| ::{ flag=US }:: ::Scorf::{ user=17038784 } | UTC-7 |
+| ::{ flag=US }:: ::Usaha::{ user=6443117 } | UTC-5 |
+| ::{ flag=US }:: ::Local Hero::{ user=16134122 } | UTC-5 |
+| ::{ flag=US }:: ::Jennifer::{ user=6761853 } | UTC-5 |
+| ::{ flag=CA }:: ::Sparhten::{ user=7601720 } | UTC-3 |
+| ::{ flag=DE }:: ::Okoayu::{ user=1623405 } | UTC+2 |
+| ::{ flag=DE }:: ::\-eNVy-::{ user=10632422 } | UTC+2 |
+| ::{ flag=PL }:: ::App::{ user=13650508 } | UTC+2 |
+| ::{ flag=DE }:: ::Kojio::{ user=2054596 } | UTC+2 |
+| ::{ flag=ES }:: ::flouah::{ user=8030129 } | UTC+2 |
+| ::{ flag=FR }:: ::Kyuukai::{ user=5337374 } | UTC+2 |
+| ::{ flag=DE }:: ::FuJu::{ user=10773882 } | UTC+2 |
+| ::{ flag=IT }:: ::zekk::{ user=9704802 } | UTC+2 |
+| ::{ flag=RU }:: ::NeKroMan4ik::{ user=11387664 } | UTC+3 |
+| ::{ flag=FI }:: ::Nyanaro::{ user=4157611 } | UTC+3 |
+| ::{ flag=KZ }:: ::\-Hitomi::{ user=15583987 } | UTC+5 |
+| ::{ flag=JP }:: ::MochiA::{ user=9312734 } | UTC+9 |
 
 You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1PrL5cXwU-EMIkUaRKPHbRsi-AUeicQhZZR2QkjVDevM/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSfs10qNps9y4DrTcUjZEc5u28bpqUdHXaxDrcUDWGhmufN9eA/viewform). 
 
@@ -50,13 +50,13 @@ You can find more information on these mentors in their [detailed overview](http
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | UTC-4 |
-| ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | UTC+2 |
-| ::{ flag=RU }:: [Kurisu Makise](https://osu.ppy.sh/users/2790640) | UTC+3 |
-| ::{ flag=VN }:: [AHHHHHHHHHHHHHH](https://osu.ppy.sh/users/8249608) | UTC+7 |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | UTC+7 |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | UTC+8 |
-| ::{ flag=KR }:: [Dreamwalker](https://osu.ppy.sh/users/8946550) | UTC+9 |
+| ::{ flag=DO }:: ::Antalf::{ user=8793773 } | UTC-4 |
+| ::{ flag=NL }:: ::Muse Dash::{ user=13695676 } | UTC+2 |
+| ::{ flag=RU }:: ::Kurisu Makise::{ user=2790640 } | UTC+3 |
+| ::{ flag=VN }:: ::AHHHHHHHHHHHHHH::{ user=8249608 } | UTC+7 |
+| ::{ flag=ID }:: ::Maxus::{ user=4335785 } | UTC+7 |
+| ::{ flag=CN }:: ::Seiran-::{ user=14351534 } | UTC+8 |
+| ::{ flag=KR }:: ::Dreamwalker::{ user=8946550 } | UTC+9 |
 
 You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1g2KhhmBqiqNAe2I2PJPicaSFtWPQ5sScRluC9oQzFGg/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSeVdfghHjpjOiGJ1rw167rOsuAczWgub0sYYX_wYCP1_kwrTw/viewform).
 
@@ -64,8 +64,8 @@ You can find more information on these mentors in their [detailed overview](http
 
 | Mentor | Time zone |
 | :-- | :-- |
-| ::{ flag=DE }:: [Broadsword](https://osu.ppy.sh/users/11357694) | UTC+2 |
-| ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689) | UTC+2 |
+| ::{ flag=DE }:: ::Broadsword::{ user=11357694 } | UTC+2 |
+| ::{ flag=FR }:: ::Kin::{ user=480689 } | UTC+2 |
 
 You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1_bMj04v4kUhdBd_JS6yiex9pBSFcxh_Uunn--n7Ugt8/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSfb7Am7-lX0IzFNCCpY7gsACNzv9gcc_5KAEAK5wYVNiNFk4w/viewform).
 
@@ -73,10 +73,10 @@ You can find more information on these mentors in their [detailed overview](http
 
 | Mentor | Time zone |
 | :-- | :-- |
-| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | UTC-5 |
-| ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071) | UTC+2 |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | UTC+2 |
-| ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) | UTC+2 |
+| ::{ flag=US }:: ::Usaha::{ user=6443117 } | UTC-5 |
+| ::{ flag=DE }:: ::Du5t::{ user=6053071 } | UTC+2 |
+| ::{ flag=NL }:: ::Greaper::{ user=2369776 } | UTC+2 |
+| ::{ flag=PL }:: ::Verti::{ user=10674528 } | UTC+2 |
 
 You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/16J1nxWgHadycR2Qu232VufdcmHKPXWb6MFPixO-ehlg/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSdoi7VNJNfEv6V3aJ953255smnpBBqRX5XzUcOmACWeq3bG6Q/viewform).
 
@@ -84,18 +84,18 @@ You can find more information on these mentors in their [detailed overview](http
 
 | Mentor | Game mode | Time zone |
 | :-- | :-- | :-- |
-| ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | osu! | UTC-8 |
-| ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | osu! | UTC-7 |
-| ::{ flag=CL }:: [melleganol](https://osu.ppy.sh/users/16452371) | osu! | UTC-4 |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | osu! | UTC+2 |
-| ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | osu! | UTC+3 |
-| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | osu! | UTC+7 |
-| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | osu!catch | UTC+9 |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | osu!mania | UTC-4 |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | osu!mania | UTC+8 |
-| ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | osu!mania | UTC+9 |
-| ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689) | osu!taiko | UTC+2 |
-| ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | osu!taiko | UTC+3 |
+| ::{ flag=KR }:: ::KeyWee::{ user=10476879 } | osu! | UTC-8 |
+| ::{ flag=US }:: ::Annabel::{ user=3388410 } | osu! | UTC-7 |
+| ::{ flag=CL }:: ::melleganol::{ user=16452371 } | osu! | UTC-4 |
+| ::{ flag=DE }:: ::FuJu::{ user=10773882 } | osu! | UTC+2 |
+| ::{ flag=RU }:: ::Daycore::{ user=5596337 } | osu! | UTC+3 |
+| ::{ flag=TH }:: ::Electoz::{ user=6485263 } | osu! | UTC+7 |
+| ::{ flag=KR }:: ::Spectator::{ user=702598 } | osu!catch | UTC+9 |
+| ::{ flag=DO }:: ::Antalf::{ user=8793773 } | osu!mania | UTC-4 |
+| ::{ flag=CN }:: ::Seiran-::{ user=14351534 } | osu!mania | UTC+8 |
+| ::{ flag=KR }:: ::secXcscX::{ user=13543418 } | osu!mania | UTC+9 |
+| ::{ flag=FR }:: ::Kin::{ user=480689 } | osu!taiko | UTC+2 |
+| ::{ flag=RU }:: ::\_HeLLFly\_::{ user=14225226 } | osu!taiko | UTC+3 |
 
 For modding, each game mode has their separate overview: 
 
@@ -110,10 +110,10 @@ You can apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSedojsQxwa
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | UTC-4 |
-| ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) | UTC+2 |
-| ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127) | UTC+2 |
-| ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051) | UTC+8 |
+| ::{ flag=US }:: ::Noffy::{ user=1541323 } | UTC-4 |
+| ::{ flag=HU }:: ::Himada::{ user=10959366 } | UTC+2 |
+| ::{ flag=IT }:: ::Kuroise::{ user=14547127 } | UTC+2 |
+| ::{ flag=MY }:: ::R3aCt10n::{ user=17020051 } | UTC+8 |
 
 You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/18vLaEyRnsfc2hpUb53EpggRwY6Vg7PqTScbs2qI6otc/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSewCsK_L1pTr2vAMYiLtQZIfRMjqYLuepsBJNwEIYFDBM0P1A/viewform).
 

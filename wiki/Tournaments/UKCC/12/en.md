@@ -9,7 +9,7 @@ tags:
 
 ![UKCC12 banner](img/banner.jpg)
 
-The **UK Community Cup 12** (***UKCC12***) was a British 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147) and ::{ flag=TR }:: [oralekin](https://osu.ppy.sh/users/7631823). It was the thirteenth instalment of the UK Community Cup series and the series' seventh 1v1 competition.
+The **UK Community Cup 12** (***UKCC12***) was a British 1v1 double-elimination osu! tournament hosted by ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=GB }:: ::Damarsh::{ user=7465147 } and ::{ flag=TR }:: ::oralekin::{ user=7631823 }. It was the thirteenth instalment of the UK Community Cup series and the series' seventh 1v1 competition.
 
 ## Tournament schedule
 
@@ -41,13 +41,13 @@ The UK Community Cup 12 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=TR }:: [oralekin](https://osu.ppy.sh/users/7631823) |
-| Mappool selector | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374), ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) |
-| Streamer | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=GB }:: [Teejay](https://osu.ppy.sh/users/9499753), ::{ flag=GB }:: [T-Bunda](https://osu.ppy.sh/users/13347736), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) |
-| Commentator | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=GB }:: [Teejay](https://osu.ppy.sh/users/9499753), ::{ flag=GB }:: [T-Bunda](https://osu.ppy.sh/users/13347736), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850), ::{ flag=FR }:: [lardon](https://osu.ppy.sh/users/11409334) |
-| Designer | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) |
-| Referee | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=GB }:: [Domblade](https://osu.ppy.sh/users/6701945), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=PL }:: [Marzale](https://osu.ppy.sh/users/5194043), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=US }:: [Geag](https://osu.ppy.sh/users/16052525), ::{ flag=ID }:: [Raff](https://osu.ppy.sh/users/7227330), ::{ flag=GB }:: [Kezanub](https://osu.ppy.sh/users/6088641), ::{ flag=GB }:: [T-Bunda](https://osu.ppy.sh/users/13347736) |
-| Statistician | ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) |
+| Manager | ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=GB }:: ::Damarsh::{ user=7465147 }, ::{ flag=TR }:: ::oralekin::{ user=7631823 } |
+| Mappool selector | ::{ flag=CA }:: ::chiv::{ user=6701656 }, ::{ flag=US }:: ::M I L E S::{ user=6036351 }, ::{ flag=GB }:: ::Damarsh::{ user=7465147 }, ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=BR }:: ::dasdwqdf::{ user=5403374 }, ::{ flag=NO }:: ::YokesPai::{ user=6399568 }, ::{ flag=BR }:: ::Dada::{ user=9119507 } |
+| Streamer | ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=GB }:: ::Damarsh::{ user=7465147 }, ::{ flag=GB }:: ::Teejay::{ user=9499753 }, ::{ flag=GB }:: ::T-Bunda::{ user=13347736 }, ::{ flag=BR }:: ::Dada::{ user=9119507 } |
+| Commentator | ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=GB }:: ::SadShiba::{ user=10747626 }, ::{ flag=GB }:: ::Damarsh::{ user=7465147 }, ::{ flag=GB }:: ::Teejay::{ user=9499753 }, ::{ flag=GB }:: ::T-Bunda::{ user=13347736 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=FI }:: ::Lefafel::{ user=2295850 }, ::{ flag=FR }:: ::lardon::{ user=11409334 } |
+| Designer | ::{ flag=US }:: ::ChillierPear::{ user=9501251 } |
+| Referee | ::{ flag=GB }:: ::Yazzehh::{ user=7068973 }, ::{ flag=GB }:: ::Damarsh::{ user=7465147 }, ::{ flag=GB }:: ::Domblade::{ user=6701945 }, ::{ flag=US }:: ::ChillierPear::{ user=9501251 }, ::{ flag=PL }:: ::Marzale::{ user=5194043 }, ::{ flag=DE }:: ::TheHunter1::{ user=6496016 }, ::{ flag=US }:: ::Geag::{ user=16052525 }, ::{ flag=ID }:: ::Raff::{ user=7227330 }, ::{ flag=GB }:: ::Kezanub::{ user=6088641 }, ::{ flag=GB }:: ::T-Bunda::{ user=13347736 } |
+| Statistician | ::{ flag=NO }:: ::YokesPai::{ user=6399568 } |
 
 ## Links
 
@@ -63,10 +63,10 @@ See the [signups sheet](https://docs.google.com/spreadsheets/d/1Yeh9CVc8fCDQmSnJ
 
 | Seed | Members |
 | :-- | :-- |
-| 1-8 | ::{ flag=GB }:: [Plasma](https://osu.ppy.sh/users/10077431), ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761), ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034), ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896), ::{ flag=GB }:: [SinqHD](https://osu.ppy.sh/users/15887523), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [reshamen](https://osu.ppy.sh/users/17706086), ::{ flag=GB }:: [idealnettles](https://osu.ppy.sh/users/4010354) |
-| 9-16 | ::{ flag=GB }:: [Cozzzy](https://osu.ppy.sh/users/2003917), ::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614), ::{ flag=GB }:: [Gazzzaa](https://osu.ppy.sh/users/8624512), ::{ flag=GB }:: [Humsterlol](https://osu.ppy.sh/users/16218750), ::{ flag=GB }:: [Kwichi](https://osu.ppy.sh/users/16287466), ::{ flag=GB }:: [butter dog](https://osu.ppy.sh/users/12925539), ::{ flag=IE }:: [PoSharTo](https://osu.ppy.sh/users/11332703), ::{ flag=GB }:: [Teejay](https://osu.ppy.sh/users/9499753) |
-| 17-24 | ::{ flag=GB }:: [NinoMyAngel](https://osu.ppy.sh/users/14801826), ::{ flag=GB }:: [Woodzy](https://osu.ppy.sh/users/7361767), ::{ flag=GB }:: [Cornfield](https://osu.ppy.sh/users/4087422), ::{ flag=GB }:: [crashout](https://osu.ppy.sh/users/11839754), ::{ flag=GB }:: [velcro shoes](https://osu.ppy.sh/users/11345690), ::{ flag=GB }:: [Twiki](https://osu.ppy.sh/users/10329548), ::{ flag=GB }:: [Cors](https://osu.ppy.sh/users/11502740), ::{ flag=GB }:: [Cleveland Brown](https://osu.ppy.sh/users/18857412) |
-| 25-32 | ::{ flag=GB }:: [Buzzy](https://osu.ppy.sh/users/13915963), ::{ flag=GB }:: [Gaz](https://osu.ppy.sh/users/3648459), ::{ flag=CA }:: [Greninja](https://osu.ppy.sh/users/8579186), ::{ flag=GB }:: [MaypleFlower](https://osu.ppy.sh/users/10609949), ::{ flag=GB }:: [Ush](https://osu.ppy.sh/users/6069002), ::{ flag=GB }:: [lkgddr](https://osu.ppy.sh/users/4128132), ::{ flag=GB }:: [Mula Hwaka](https://osu.ppy.sh/users/19501020), ::{ flag=GB }:: [marzey](https://osu.ppy.sh/users/11584669) |
+| 1-8 | ::{ flag=GB }:: ::Plasma::{ user=10077431 }, ::{ flag=GB }:: ::Kingling::{ user=7010761 }, ::{ flag=GB }:: ::Accolibed::{ user=9269034 }, ::{ flag=GB }:: ::rudj::{ user=11592896 }, ::{ flag=GB }:: ::SinqHD::{ user=15887523 }, ::{ flag=GB }:: ::Doomsday::{ user=18983 }, ::{ flag=GB }:: ::reshamen::{ user=17706086 }, ::{ flag=GB }:: ::idealnettles::{ user=4010354 } |
+| 9-16 | ::{ flag=GB }:: ::Cozzzy::{ user=2003917 }, ::{ flag=GB }:: ::polski1::{ user=18131614 }, ::{ flag=GB }:: ::Gazzzaa::{ user=8624512 }, ::{ flag=GB }:: ::Humsterlol::{ user=16218750 }, ::{ flag=GB }:: ::Kwichi::{ user=16287466 }, ::{ flag=GB }:: ::butter dog::{ user=12925539 }, ::{ flag=IE }:: ::PoSharTo::{ user=11332703 }, ::{ flag=GB }:: ::Teejay::{ user=9499753 } |
+| 17-24 | ::{ flag=GB }:: ::NinoMyAngel::{ user=14801826 }, ::{ flag=GB }:: ::Woodzy::{ user=7361767 }, ::{ flag=GB }:: ::Cornfield::{ user=4087422 }, ::{ flag=GB }:: ::crashout::{ user=11839754 }, ::{ flag=GB }:: ::velcro shoes::{ user=11345690 }, ::{ flag=GB }:: ::Twiki::{ user=10329548 }, ::{ flag=GB }:: ::Cors::{ user=11502740 }, ::{ flag=GB }:: ::Cleveland Brown::{ user=18857412 } |
+| 25-32 | ::{ flag=GB }:: ::Buzzy::{ user=13915963 }, ::{ flag=GB }:: ::Gaz::{ user=3648459 }, ::{ flag=CA }:: ::Greninja::{ user=8579186 }, ::{ flag=GB }:: ::MaypleFlower::{ user=10609949 }, ::{ flag=GB }:: ::Ush::{ user=6069002 }, ::{ flag=GB }:: ::lkgddr::{ user=4128132 }, ::{ flag=GB }:: ::Mula Hwaka::{ user=19501020 }, ::{ flag=GB }:: ::marzey::{ user=11584669 } |
 
 ## Podium
 
@@ -74,9 +74,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::Accolibed::{ user=9269034 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: ::Kingling::{ user=7010761 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::rudj::{ user=11592896 } |
 
 ## Mappools
 
@@ -426,16 +426,16 @@ Top 10 qualification results:
 
 | Placing | Player | Normalised score |
 | --: | :-- | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Plasma](https://osu.ppy.sh/users/10077431) | 8,915,288 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | 8,816,664 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) | 8,108,148 |
-| *4th place* | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896) | 7,795,134 |
-| *5th place* | ::{ flag=GB }:: [SinqHD](https://osu.ppy.sh/users/15887523) | 7,206,017 |
-| *6th place* | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | 7,152,475 |
-| *7th place* | ::{ flag=GB }:: [reshamen](https://osu.ppy.sh/users/17706086) | 6,863,861 |
-| *8th place* | ::{ flag=GB }:: [idealnettles](https://osu.ppy.sh/users/4010354) | 6,454,921 |
-| *9th place* | ::{ flag=GB }:: [Cozzzy](https://osu.ppy.sh/users/2003917) | 6,351,398 |
-| *10th place* | ::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614) | 6,163,163 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: ::Plasma::{ user=10077431 } | 8,915,288 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=GB }:: ::Kingling::{ user=7010761 } | 8,816,664 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: ::Accolibed::{ user=9269034 } | 8,108,148 |
+| *4th place* | ::{ flag=GB }:: ::rudj::{ user=11592896 } | 7,795,134 |
+| *5th place* | ::{ flag=GB }:: ::SinqHD::{ user=15887523 } | 7,206,017 |
+| *6th place* | ::{ flag=GB }:: ::Doomsday::{ user=18983 } | 7,152,475 |
+| *7th place* | ::{ flag=GB }:: ::reshamen::{ user=17706086 } | 6,863,861 |
+| *8th place* | ::{ flag=GB }:: ::idealnettles::{ user=4010354 } | 6,454,921 |
+| *9th place* | ::{ flag=GB }:: ::Cozzzy::{ user=2003917 } | 6,351,398 |
+| *10th place* | ::{ flag=GB }:: ::polski1::{ user=18131614 } | 6,163,163 |
 
 ## Ruleset
 

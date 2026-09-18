@@ -11,7 +11,7 @@ tags:
 
 ![GB杯2024线下赛图片](img/gbc2024irl-banner.jpg)
 
-**GBC 2024 IRL** (***GB杯2024线下赛***) 是由[\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407)主办，由GB组织承办，在库璐璐音游嘉年华线下进行的osu!mania 4k 项目赛事。
+**GBC 2024 IRL** (***GB杯2024线下赛***) 是由::\[GB\]yobrevelc::{ user=14128407 }主办，由GB组织承办，在库璐璐音游嘉年华线下进行的osu!mania 4k 项目赛事。
 
 ## 比赛日程
 
@@ -40,13 +40,13 @@ GB杯2024线下赛由 GB 成员和多位社区成员举办。
 
 | 职位 | 成员 |
 | :-- | :-- |
-| 组织者 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| 工作人员 | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [[GB]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [zeroRain-](https://osu.ppy.sh/users/30440199), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [Mooos](https://osu.ppy.sh/users/13788556) |
-| 图池管理 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018) |
-| 转播 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856) |
-| 裁判 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018) |
-| 额外裁判 | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[Crz\]raber](https://osu.ppy.sh/users/6753592) |
-| 文档编写/数据统计 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| 组织者 | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 } |
+| 工作人员 | ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user=8586018 }, ::{ flag=CN }:: ::\1GB\1V1do::{ user=17527968 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 }, ::{ flag=CN }:: ::zeroRain-::{ user=30440199 }, ::{ flag=CN }:: ::\[GB\]Akamite::{ user=13418334 }, ::{ flag=CN }:: ::MidRed::{ user=17641994 }, ::{ flag=CN }:: ::\[GB\]ChickenGold::{ user=16586663 }, ::{ flag=CN }:: ::Mooos::{ user=13788556 } |
+| 图池管理 | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user=8586018 } |
+| 转播 | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 }, ::{ flag=CN }:: ::\[GB\]Rush\1FTK::{ user=3046856 } |
+| 裁判 | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 }, ::{ flag=CN }:: ::Blue\1Potion::{ user=13094831 }, ::{ flag=CN }:: ::\[GB\]Reisen::{ user=8586018 } |
+| 额外裁判 | ::{ flag=CN }:: ::\[GB\]Mafufu::{ user=10884561 }, ::{ flag=CN }:: ::\[Crz\]raber::{ user=6753592 } |
+| 文档编写/数据统计 | ::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 } |
 
 ## 链接
 
@@ -54,8 +54,8 @@ GB杯2024线下赛由 GB 成员和多位社区成员举办。
 - [报名表](https://wj.qq.com/s2/14725915/d201/)
 - [中文论坛帖](https://osu.ppy.sh/community/forums/topics/1933148?n=1)
 - 直播间
-  - [主舞台](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
-  - [副舞台](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
+  - [主舞台](https://live.bilibili.com/22545296) (::{ flag=CN }:: ::\[GB\]yobrevelc::{ user=14128407 })
+  - [副舞台](https://live.bilibili.com/10183) (::{ flag=CN }:: ::aiyulu::{ user=189617 })
 - [QQ 群](https://jq.qq.com/?_wv=1027&k=ZIwYVryh)
 - [第一天抽签录像](https://www.bilibili.com/video/BV1um421374R)
 - [第一天比赛录像](https://www.bilibili.com/video/BV1pb421J7AJ)
@@ -65,7 +65,7 @@ GB杯2024线下赛由 GB 成员和多位社区成员举办。
 
 | 参赛选手 |
 | :-- |
-| ::{ flag=CN }:: [\[ Classic \]](https://osu.ppy.sh/users/5858053), ::{ flag=CN }:: [Nyagato Yuki](https://osu.ppy.sh/users/32954144), ::{ flag=CN }:: [\[GB\]KCINE](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [neeeeeh](https://osu.ppy.sh/users/18586390), ::{ flag=CN }:: [Shenzouz](https://osu.ppy.sh/users/29606773), ::{ flag=CN }:: [Muze_0407](https://osu.ppy.sh/users/16551233), ::{ flag=CN }:: [Samyuan1216](https://osu.ppy.sh/users/23892945), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=CN }:: [2580697339](https://osu.ppy.sh/users/6311072), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Color0](https://osu.ppy.sh/users/31417108), ::{ flag=CN }:: [bili_TYL](https://osu.ppy.sh/users/30993101), ::{ flag=CN }:: [\[Crz\]Nickname](https://osu.ppy.sh/users/10817494), ::{ flag=CN }:: [\[ETX\]LinZi](https://osu.ppy.sh/users/28482727), ::{ flag=CN }:: [\[GB\]Fomurz](https://osu.ppy.sh/users/26883256), ::{ flag=CN }:: [\[GB\]Burger King](https://osu.ppy.sh/users/9841162), ::{ flag=CN }:: [\[Crz\]raber](https://osu.ppy.sh/users/6753592), ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [vanposen](https://osu.ppy.sh/users/15289293), ::{ flag=CN }:: [qlchedan](https://osu.ppy.sh/users/15522107), ::{ flag=CN }:: [lxw200839](https://osu.ppy.sh/users/27055297), ::{ flag=CN }:: [\[Crz\]Xinyi2016](https://osu.ppy.sh/users/14213841), ::{ flag=CN }:: [\[Crz\]Riko](https://osu.ppy.sh/users/7928981), ::{ flag=CN }:: [ToukiM](https://osu.ppy.sh/users/28917056), ::{ flag=CN }:: [\[GB\]Lingyu](https://osu.ppy.sh/users/29743849), ::{ flag=CA }:: [LazyGhost14](https://osu.ppy.sh/users/13185425), ::{ flag=CN }:: [Chiral Cabbage](https://osu.ppy.sh/users/32288791), ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840), ::{ flag=CN }:: [Zrc_2796](https://osu.ppy.sh/users/29837830), ::{ flag=CN }:: [nyasunfangirl](https://osu.ppy.sh/users/33886210), ::{ flag=CN }:: [\[GB\]THfairy](https://osu.ppy.sh/users/24972681), ::{ flag=CN }:: [SFangZhou](https://osu.ppy.sh/users/14023266), ::{ flag=CN }:: [Ghost Neko](https://osu.ppy.sh/users/31157409), ::{ flag=CN }:: [dzq](https://osu.ppy.sh/users/23697335), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [\[AR\]lv3plane](https://osu.ppy.sh/users/15964029), ::{ flag=CN }:: [ruler](https://osu.ppy.sh/users/31497468), ::{ flag=CN }:: [Mantozi](https://osu.ppy.sh/users/10764424), ::{ flag=CN }:: [c6H8o6_](https://osu.ppy.sh/users/20984576), ::{ flag=CN }:: [Starfeather2007](https://osu.ppy.sh/users/25502203), ::{ flag=CN }:: [Eliyaa](https://osu.ppy.sh/users/29547250), ::{ flag=CN }:: [\[Crz\]hinako1804](https://osu.ppy.sh/users/13747903), ::{ flag=CN }:: [\[GB\]QAQlingjiu](https://osu.ppy.sh/users/27288518), ::{ flag=CN }:: [6XvX7](https://osu.ppy.sh/users/33948486), ::{ flag=CN }:: [rfsfreffr](https://osu.ppy.sh/users/21693996), ::{ flag=CN }:: [Takoke](https://osu.ppy.sh/users/11628037), ::{ flag=CN }:: [Kirchhoff123](https://osu.ppy.sh/users/29546640), ::{ flag=CN }:: [nick-haoran](https://osu.ppy.sh/users/29944863), ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511), ::{ flag=CN }:: [shuaize](https://osu.ppy.sh/users/29620953), ::{ flag=CN }:: [\[Crz\]Sirius](https://osu.ppy.sh/users/8692698), ::{ flag=CN }:: [CLLbin](https://osu.ppy.sh/users/11837219), ::{ flag=CN }:: [awask233](https://osu.ppy.sh/users/30750250) |
+| ::{ flag=CN }:: ::\[ Classic \]::{ user=5858053 }, ::{ flag=CN }:: ::Nyagato Yuki::{ user=32954144 }, ::{ flag=CN }:: ::\[GB\]KCINE::{ user=24289042 }, ::{ flag=CN }:: ::neeeeeh::{ user=18586390 }, ::{ flag=CN }:: ::Shenzouz::{ user=29606773 }, ::{ flag=CN }:: ::Muze\10407::{ user=16551233 }, ::{ flag=CN }:: ::Samyuan1216::{ user=23892945 }, ::{ flag=CN }:: ::\[GB\]mmttyy233::{ user=28639641 }, ::{ flag=CN }:: ::2580697339::{ user=6311072 }, ::{ flag=CN }:: ::\[GB\]Mafufu::{ user=10884561 }, ::{ flag=CN }:: ::\[GB\]Color0::{ user=31417108 }, ::{ flag=CN }:: ::bili\1TYL::{ user=30993101 }, ::{ flag=CN }:: ::\[Crz\]Nickname::{ user=10817494 }, ::{ flag=CN }:: ::\[ETX\]LinZi::{ user=28482727 }, ::{ flag=CN }:: ::\[GB\]Fomurz::{ user=26883256 }, ::{ flag=CN }:: ::\[GB\]Burger King::{ user=9841162 }, ::{ flag=CN }:: ::\[Crz\]raber::{ user=6753592 }, ::{ flag=CN }:: ::\[GB\]GanyuAngel::{ user=27233308 }, ::{ flag=CN }:: ::vanposen::{ user=15289293 }, ::{ flag=CN }:: ::qlchedan::{ user=15522107 }, ::{ flag=CN }:: ::lxw200839::{ user=27055297 }, ::{ flag=CN }:: ::\[Crz\]Xinyi2016::{ user=14213841 }, ::{ flag=CN }:: ::\[Crz\]Riko::{ user=7928981 }, ::{ flag=CN }:: ::ToukiM::{ user=28917056 }, ::{ flag=CN }:: ::\[GB\]Lingyu::{ user=29743849 }, ::{ flag=CA }:: ::LazyGhost14::{ user=13185425 }, ::{ flag=CN }:: ::Chiral Cabbage::{ user=32288791 }, ::{ flag=CN }:: ::DawnX::{ user=8534840 }, ::{ flag=CN }:: ::Zrc\12796::{ user=29837830 }, ::{ flag=CN }:: ::nyasunfangirl::{ user=33886210 }, ::{ flag=CN }:: ::\[GB\]THfairy::{ user=24972681 }, ::{ flag=CN }:: ::SFangZhou::{ user=14023266 }, ::{ flag=CN }:: ::Ghost Neko::{ user=31157409 }, ::{ flag=CN }:: ::dzq::{ user=23697335 }, ::{ flag=CN }:: ::\[GB\]Tyris::{ user=10497659 }, ::{ flag=CN }:: ::\[AR\]lv3plane::{ user=15964029 }, ::{ flag=CN }:: ::ruler::{ user=31497468 }, ::{ flag=CN }:: ::Mantozi::{ user=10764424 }, ::{ flag=CN }:: ::c6H8o6\1::{ user=20984576 }, ::{ flag=CN }:: ::Starfeather2007::{ user=25502203 }, ::{ flag=CN }:: ::Eliyaa::{ user=29547250 }, ::{ flag=CN }:: ::\[Crz\]hinako1804::{ user=13747903 }, ::{ flag=CN }:: ::\[GB\]QAQlingjiu::{ user=27288518 }, ::{ flag=CN }:: ::6XvX7::{ user=33948486 }, ::{ flag=CN }:: ::rfsfreffr::{ user=21693996 }, ::{ flag=CN }:: ::Takoke::{ user=11628037 }, ::{ flag=CN }:: ::Kirchhoff123::{ user=29546640 }, ::{ flag=CN }:: ::nick-haoran::{ user=29944863 }, ::{ flag=CN }:: ::nyasunfanboy::{ user=14066511 }, ::{ flag=CN }:: ::shuaize::{ user=29620953 }, ::{ flag=CN }:: ::\[Crz\]Sirius::{ user=8692698 }, ::{ flag=CN }:: ::CLLbin::{ user=11837219 }, ::{ flag=CN }:: ::awask233::{ user=30750250 } |
 
 ## 领奖台
 

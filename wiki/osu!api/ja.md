@@ -12,4 +12,4 @@ osu!apiのバージョン2は[osu-web](https://github.com/ppy/osu-web)で開発�
 
 ## 参照
 
-- オリジナルのフォーラム投稿 [osu！apiオープンベータ](https://osu.ppy.sh/community/forums/topics/141240) by [peppy](https://osu.ppy.sh/users/2)
+- オリジナルのフォーラム投稿 [osu！apiオープンベータ](https://osu.ppy.sh/community/forums/topics/141240) by ::peppy::{ user=2 }

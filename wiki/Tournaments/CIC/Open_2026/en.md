@@ -8,7 +8,7 @@ tags:
 
 ![Catch Indonesia Cup Open 2026 banner](img/banner.jpg)
 
-The **Catch Indonesia Cup Open 2026** (***CICO 2026***) is a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), and ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898). Despite its name, the tournament is open to all osu!catch players from the around the world regardless of geographical location. It is the fourteenth iteration of the Catch the Beat Indonesia Cup, as well as the fourth one to be held under the "Open" format.
+The **Catch Indonesia Cup Open 2026** (***CICO 2026***) is a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: ::Intel21::{ user=1272422 }, ::{ flag=SG }:: ::Ekseff::{ user=13966422 }, ::{ flag=ID }:: ::Madoka Ayukawa::{ user=1595221 }, ::{ flag=ID }:: ::Zvenx::{ user=14613788 }, and ::{ flag=ID }:: ::Constantine::{ user=3221898 }. Despite its name, the tournament is open to all osu!catch players from the around the world regardless of geographical location. It is the fourteenth iteration of the Catch the Beat Indonesia Cup, as well as the fourth one to be held under the "Open" format.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **Catch Indonesia Cup Open 2026** (***CICO 2026***) is a double-elimination 
 
 ## Prizes
 
-The Catch Indonesia Cup Open 2026 offers an initial prize pool of $50 as generously donated by ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422) and ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422). This prize pool are to be increased from community donations through [Ko-Fi](https://ko-fi.com/oci).
+The Catch Indonesia Cup Open 2026 offers an initial prize pool of $50 as generously donated by ::{ flag=ID }:: ::Intel21::{ user=1272422 } and ::{ flag=SG }:: ::Ekseff::{ user=13966422 }. This prize pool are to be increased from community donations through [Ko-Fi](https://ko-fi.com/oci).
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -40,18 +40,18 @@ The Catch Indonesia Cup Open 2026 is run by various osu! community members from 
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898) |
-| Mappool selector | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Zvenx](https://osu.ppy.sh/users/14613788), ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
+| Host | ::{ flag=ID }:: ::Intel21::{ user=1272422 }, ::{ flag=SG }:: ::Ekseff::{ user=13966422 }, ::{ flag=ID }:: ::Madoka Ayukawa::{ user=1595221 }, ::{ flag=ID }:: ::Zvenx::{ user=14613788 }, ::{ flag=ID }:: ::Constantine::{ user=3221898 } |
+| Mappool selector | ::{ flag=ID }:: ::Madoka Ayukawa::{ user=1595221 }, ::{ flag=ID }:: ::Zvenx::{ user=14613788 }, ::{ flag=ID }:: ::Dika312::{ user=741613 }, ::{ flag=KR }:: ::Spectator::{ user=702598 }, ::{ flag=TW }:: ::Beepu::{ user=4958376 }, ::{ flag=TN }:: ::-Ken::{ user=4430811 } |
 | Custom mapper | *TBA* |
-| Playtester | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
+| Playtester | ::{ flag=FR }:: ::Natsuko::{ user=8266817 }, ::{ flag=US }:: ::Elux::{ user=12004983 }, ::{ flag=CL }:: ::Pekorrat::{ user=1250096 } |
 | Streamer | *TBA* |
 | Commentator | *TBA* |
 | Referee | *TBA* |
-| Design coordinator | ::{ flag=MY }:: [mochasan\_](https://osu.ppy.sh/users/23804364) |
-| Graphic designer | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [smsrdzc](https://osu.ppy.sh/users/38505034), ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919), ::{ flag=CA }:: [Aquatic\_3](https://osu.ppy.sh/users/22711091) |
-| Illustrator | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233), ::{ flag=ID }:: [Rezukitazu](https://osu.ppy.sh/users/2499880), ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635), ::{ flag=GB }:: [pericrayola](https://osu.ppy.sh/users/31184671), ::{ flag=ID }:: Minato [(↗)](https://twitter.com/minato28507), ::{ flag=ID }:: Reminisensi [(↗)](https://twitter.com/Reminisensi_), ::{ flag=VN }:: Utopia [(↗)](https://twitter.com/_Utopia_Hope) |
-| Statistician | ::{ flag=SG }:: [lovemathboy](https://osu.ppy.sh/users/4220829) |
-| Wiki and newspost | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=SG }:: [Ekseff](https://osu.ppy.sh/users/13966422), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) |
+| Design coordinator | ::{ flag=MY }:: ::mochasan\_::{ user=23804364 } |
+| Graphic designer | ::{ flag=ID }:: ::Niva::{ user=197805 }, ::{ flag=ID }:: ::Zavier::{ user=11379592 }, ::{ flag=ID }:: ::smsrdzc::{ user=38505034 }, ::{ flag=ID }:: ::CubeixID200::{ user=10678919 }, ::{ flag=CA }:: ::Aquatic\_3::{ user=22711091 } |
+| Illustrator | ::{ flag=ID }:: ::Dreamxiety::{ user=13103233 }, ::{ flag=ID }:: ::Rezukitazu::{ user=2499880 }, ::{ flag=SG }:: ::Hecatia::{ user=8244635 }, ::{ flag=GB }:: ::pericrayola::{ user=31184671 }, ::{ flag=ID }:: Minato [(↗)](https://twitter.com/minato28507), ::{ flag=ID }:: Reminisensi [(↗)](https://twitter.com/Reminisensi_), ::{ flag=VN }:: Utopia [(↗)](https://twitter.com/_Utopia_Hope) |
+| Statistician | ::{ flag=SG }:: ::lovemathboy::{ user=4220829 } |
+| Wiki and newspost | ::{ flag=ID }:: ::Niva::{ user=197805 }, ::{ flag=SG }:: ::Ekseff::{ user=13966422 }, ::{ flag=AT }:: ::Daletto::{ user=7592136 } |
 
 ## Links
 

@@ -8,7 +8,7 @@ tags:
 
 ![ATT 2020 logo](img/logo.jpg)
 
-The **Ausu!Taiko Tournament 2020** (**ATT 2020**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352). The tournament was restricted to players within the Southeast Asian countries only. It was the sixth instalment of the Ausu!Taiko Tournament.
+The **Ausu!Taiko Tournament 2020** (**ATT 2020**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=AU }:: ::Jaye::{ user=4841352 }. The tournament was restricted to players within the Southeast Asian countries only. It was the sixth instalment of the Ausu!Taiko Tournament.
 
 ## Tournament schedule
 
@@ -36,12 +36,12 @@ The Ausu!Taiko Tournament 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) |
-| Mappool selector | ::{ flag=DE }:: [frz](https://osu.ppy.sh/users/6956922), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) |
-| Referee | ::{ flag=AU }:: [anim shnacc](https://osu.ppy.sh/users/11373924), ::{ flag=AU }:: [Cactie](https://osu.ppy.sh/users/5592409), ::{ flag=AU }:: [chenny](https://osu.ppy.sh/users/5845305), ::{ flag=AU }:: [Likelihood](https://osu.ppy.sh/users/12998897), ::{ flag=AU }:: [soliderror](https://osu.ppy.sh/users/10630542), ::{ flag=AU }:: [sonniet](https://osu.ppy.sh/users/3773760) |
-| Streamer | ::{ flag=AU }:: [ill onion](https://osu.ppy.sh/users/8306102) |
-| Designer | ::{ flag=AU }:: [Likelihood](https://osu.ppy.sh/users/12998897) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organizer | ::{ flag=AU }:: ::Jaye::{ user=4841352 } |
+| Mappool selector | ::{ flag=DE }:: ::frz::{ user=6956922 }, ::{ flag=AU }:: ::Jaye::{ user=4841352 } |
+| Referee | ::{ flag=AU }:: ::anim shnacc::{ user=11373924 }, ::{ flag=AU }:: ::Cactie::{ user=5592409 }, ::{ flag=AU }:: ::chenny::{ user=5845305 }, ::{ flag=AU }:: ::Likelihood::{ user=12998897 }, ::{ flag=AU }:: ::soliderror::{ user=10630542 }, ::{ flag=AU }:: ::sonniet::{ user=3773760 } |
+| Streamer | ::{ flag=AU }:: ::ill onion::{ user=8306102 } |
+| Designer | ::{ flag=AU }:: ::Likelihood::{ user=12998897 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## Links
 
@@ -54,22 +54,22 @@ The Ausu!Taiko Tournament 2020 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Special | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=PH }:: [jmeh07](https://osu.ppy.sh/users/2852269), ::{ flag=AU }:: [acid](https://osu.ppy.sh/users/2913584), ::{ flag=AU }:: [r1chyy](https://osu.ppy.sh/users/11499467) |
-| Top | ::{ flag=SG }:: [Bobfree](https://osu.ppy.sh/users/10096125), ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183), ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664), ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621), ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514) |
-| High | ::{ flag=ID }:: [Kaemz](https://osu.ppy.sh/users/8494233), ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=ID }:: [ImChro](https://osu.ppy.sh/users/7280717), ::{ flag=PH }:: [FiNNb](https://osu.ppy.sh/users/2164993), ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) |
-| Mid | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302), ::{ flag=AU }:: [- Heatwave -](https://osu.ppy.sh/users/4166621), ::{ flag=NZ }:: [Blujae](https://osu.ppy.sh/users/10613885), ::{ flag=AU }:: [- ease -](https://osu.ppy.sh/users/10692856), ::{ flag=AU }:: [camx](https://osu.ppy.sh/users/4922423) |
-| Low | ::{ flag=AU }:: [Vezuri](https://osu.ppy.sh/users/11457644), ::{ flag=NZ }:: [Erkfir](https://osu.ppy.sh/users/7756939), ::{ flag=AU }:: [HD\_AdreNaline](https://osu.ppy.sh/users/10540368), ::{ flag=NZ }:: [NutAndGo](https://osu.ppy.sh/users/7740118), ::{ flag=AU }:: [jkl68](https://osu.ppy.sh/users/4560404), ::{ flag=AU }:: [Monk The Don](https://osu.ppy.sh/users/4012086) |
+| Special | ::{ flag=NZ }:: ::Sparxe::{ user=5750235 }, ::{ flag=PH }:: ::jmeh07::{ user=2852269 }, ::{ flag=AU }:: ::acid::{ user=2913584 }, ::{ flag=AU }:: ::r1chyy::{ user=11499467 } |
+| Top | ::{ flag=SG }:: ::Bobfree::{ user=10096125 }, ::{ flag=AU }:: ::Tsubasa2::{ user=6835183 }, ::{ flag=ID }:: ::Katdon\_donKat::{ user=8089664 }, ::{ flag=PH }:: ::Aiery::{ user=10363380 }, ::{ flag=MY }:: ::cdhsausageboy::{ user=2403621 }, ::{ flag=PH }:: ::Rimazii::{ user=3831514 } |
+| High | ::{ flag=ID }:: ::Kaemz::{ user=8494233 }, ::{ flag=ID }:: ::Volta::{ user=4154071 }, ::{ flag=AU }:: ::Beat43210::{ user=5664171 }, ::{ flag=ID }:: ::ImChro::{ user=7280717 }, ::{ flag=PH }:: ::FiNNb::{ user=2164993 }, ::{ flag=AU }:: ::AmateurMonkeyYT::{ user=8379046 } |
+| Mid | ::{ flag=MY }:: ::Bedwyr Aorta::{ user=10875855 }, ::{ flag=SG }:: ::uchuuj1n::{ user=9140302 }, ::{ flag=AU }:: ::- Heatwave -::{ user=4166621 }, ::{ flag=NZ }:: ::Blujae::{ user=10613885 }, ::{ flag=AU }:: ::- ease -::{ user=10692856 }, ::{ flag=AU }:: ::camx::{ user=4922423 } |
+| Low | ::{ flag=AU }:: ::Vezuri::{ user=11457644 }, ::{ flag=NZ }:: ::Erkfir::{ user=7756939 }, ::{ flag=AU }:: ::HD\_AdreNaline::{ user=10540368 }, ::{ flag=NZ }:: ::NutAndGo::{ user=7740118 }, ::{ flag=AU }:: ::jkl68::{ user=4560404 }, ::{ flag=AU }:: ::Monk The Don::{ user=4012086 } |
 
 ## Groups
 
 | Group | Top seed | High seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664) | ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071) | ::{ flag=AU }:: [camx](https://osu.ppy.sh/users/4922423) | ::{ flag=NZ }:: [Erkfir](https://osu.ppy.sh/users/7756939) |
-| **B** | ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621) | ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) | ::{ flag=SG }:: [uchuuj1n](https://osu.ppy.sh/users/9140302) | ::{ flag=NZ }:: [NutAndGo](https://osu.ppy.sh/users/7740118) |
-| **C** | ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183) | ::{ flag=ID }:: [Kaemz](https://osu.ppy.sh/users/8494233) | ::{ flag=AU }:: [- ease -](https://osu.ppy.sh/users/10692856) | ::{ flag=AU }:: [Vezuri](https://osu.ppy.sh/users/11457644) |
-| **D** | ::{ flag=SG }:: [Bobfree](https://osu.ppy.sh/users/10096125) | ::{ flag=PH }:: [FiNNb](https://osu.ppy.sh/users/2164993) | ::{ flag=AU }:: [- Heatwave -](https://osu.ppy.sh/users/4166621) | ::{ flag=AU }:: [HD\_AdreNaline](https://osu.ppy.sh/users/10540368) |
-| **E** | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380) | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) | ::{ flag=NZ }:: [Blujae](https://osu.ppy.sh/users/10613885) | ::{ flag=AU }:: [Monk The Don](https://osu.ppy.sh/users/4012086) |
-| **F** | ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514) | ::{ flag=ID }:: [ImChro](https://osu.ppy.sh/users/7280717) | ::{ flag=MY }:: [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) | ::{ flag=AU }:: [jkl68](https://osu.ppy.sh/users/4560404) |
+| **A** | ::{ flag=ID }:: ::Katdon\_donKat::{ user=8089664 } | ::{ flag=ID }:: ::Volta::{ user=4154071 } | ::{ flag=AU }:: ::camx::{ user=4922423 } | ::{ flag=NZ }:: ::Erkfir::{ user=7756939 } |
+| **B** | ::{ flag=MY }:: ::cdhsausageboy::{ user=2403621 } | ::{ flag=AU }:: ::AmateurMonkeyYT::{ user=8379046 } | ::{ flag=SG }:: ::uchuuj1n::{ user=9140302 } | ::{ flag=NZ }:: ::NutAndGo::{ user=7740118 } |
+| **C** | ::{ flag=AU }:: ::Tsubasa2::{ user=6835183 } | ::{ flag=ID }:: ::Kaemz::{ user=8494233 } | ::{ flag=AU }:: ::- ease -::{ user=10692856 } | ::{ flag=AU }:: ::Vezuri::{ user=11457644 } |
+| **D** | ::{ flag=SG }:: ::Bobfree::{ user=10096125 } | ::{ flag=PH }:: ::FiNNb::{ user=2164993 } | ::{ flag=AU }:: ::- Heatwave -::{ user=4166621 } | ::{ flag=AU }:: ::HD\_AdreNaline::{ user=10540368 } |
+| **E** | ::{ flag=PH }:: ::Aiery::{ user=10363380 } | ::{ flag=AU }:: ::Beat43210::{ user=5664171 } | ::{ flag=NZ }:: ::Blujae::{ user=10613885 } | ::{ flag=AU }:: ::Monk The Don::{ user=4012086 } |
+| **F** | ::{ flag=PH }:: ::Rimazii::{ user=3831514 } | ::{ flag=ID }:: ::ImChro::{ user=7280717 } | ::{ flag=MY }:: ::Bedwyr Aorta::{ user=10875855 } | ::{ flag=AU }:: ::jkl68::{ user=4560404 } |
 
 ## Podium
 
@@ -77,9 +77,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [jmeh07](https://osu.ppy.sh/users/2852269) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: ::jmeh07::{ user=2852269 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NZ }:: ::Sparxe::{ user=5750235 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=MY }:: ::cdhsausageboy::{ user=2403621 } |
 
 ## Mappools
 

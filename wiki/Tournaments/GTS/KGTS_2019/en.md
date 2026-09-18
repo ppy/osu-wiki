@@ -9,7 +9,7 @@ tags:
 
 ![KGTS 2019 logo](img/logo.jpg)
 
-The **Katacheh Global Taiko Showdown 2019** (***KGTS 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=CA }:: [DuckyDoom](https://osu.ppy.sh/users/3153062), and ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). The mappool used in the tournament includes only **[katacheh maps](https://osu.ppy.sh/beatmapsets?m=1&s=any&q=katacheh)**. It was the first instalment of the Katacheh Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Katacheh Global Taiko Showdown 2019** (***KGTS 2019***) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=CA }:: ::DuckyDoom::{ user=3153062 }, and ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 }. The mappool used in the tournament includes only **[katacheh maps](https://osu.ppy.sh/beatmapsets?m=1&s=any&q=katacheh)**. It was the first instalment of the Katacheh Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -35,14 +35,14 @@ The Katacheh Global Taiko Showdown 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=CA }:: [DuckyDoom](https://osu.ppy.sh/users/3153062), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Mappool selector | ::{ flag=TW }:: [katacheh](https://osu.ppy.sh/users/6651672) |
-| Referee | ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=FR }:: [Apsuko](https://osu.ppy.sh/users/9313135), ::{ flag=MA }:: [clorox\_1g](https://osu.ppy.sh/users/9702728), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=NL }:: [Krekker](https://osu.ppy.sh/users/8265940), ::{ flag=DE }:: [QEpicAce](https://osu.ppy.sh/users/9489153), ::{ flag=RU }:: [Starger](https://osu.ppy.sh/users/3398715), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Streamer | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910), ::{ flag=DE }:: [Heam](https://osu.ppy.sh/users/4705120), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897), ::{ flag=US }:: [kb131313](https://osu.ppy.sh/users/11229259), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235) |
-| Designer | ::{ flag=SG }:: [youi](https://osu.ppy.sh/users/7537133) |
-| Statistician | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki editor | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=CA }:: ::DuckyDoom::{ user=3153062 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 } |
+| Mappool selector | ::{ flag=TW }:: ::katacheh::{ user=6651672 } |
+| Referee | ::{ flag=HK }:: ::Akali393394::{ user=9686628 }, ::{ flag=FR }:: ::Apsuko::{ user=9313135 }, ::{ flag=MA }:: ::clorox\_1g::{ user=9702728 }, ::{ flag=US }:: ::JDrago14::{ user=7690078 }, ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 }, ::{ flag=NL }:: ::Krekker::{ user=8265940 }, ::{ flag=DE }:: ::QEpicAce::{ user=9489153 }, ::{ flag=RU }:: ::Starger::{ user=3398715 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 } |
+| Streamer | ::{ flag=AU }:: ::Beat43210::{ user=5664171 }, ::{ flag=US }:: ::cheese salad::{ user=6349821 }, ::{ flag=PL }:: ::Deroo::{ user=8360475 }, ::{ flag=US }:: ::ITotallyGetThat::{ user=8770622 }, ::{ flag=FR }:: ::TLQ\_Yoshii::{ user=7157133 } |
+| Commentator | ::{ flag=AU }:: ::Beat43210::{ user=5664171 }, ::{ flag=EC }:: ::Gamelan4::{ user=9856910 }, ::{ flag=DE }:: ::Heam::{ user=4705120 }, ::{ flag=CA }:: ::janitoreihil::{ user=3307897 }, ::{ flag=US }:: ::kb131313::{ user=11229259 }, ::{ flag=NZ }:: ::Sparxe::{ user=5750235 } |
+| Designer | ::{ flag=SG }:: ::youi::{ user=7537133 } |
+| Statistician | ::{ flag=FR }:: ::Kasumii-sama::{ user=6177263 } |
+| Wiki editor | ::{ flag=ID }:: ::fajar13k::{ user=7100002 } |
 
 ## Links
 
@@ -57,10 +57,10 @@ The Katacheh Global Taiko Showdown 2019 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945), ::{ flag=ES }:: [Maitgon](https://osu.ppy.sh/users/4875451), ::{ flag=ES }:: [AlvaroYL](https://osu.ppy.sh/users/6333166), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821) |
-| High | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897), ::{ flag=BR }:: [Foxeru](https://osu.ppy.sh/users/7479684), ::{ flag=TW }:: [seanhappy8520](https://osu.ppy.sh/users/949455), ::{ flag=KR }:: [POCARI-SWEAT](https://osu.ppy.sh/users/5082685) |
-| Low | ::{ flag=GB }:: [Metzo](https://osu.ppy.sh/users/10633982), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966), ::{ flag=FR }:: [maximaxiU](https://osu.ppy.sh/users/4069690), ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819) |
-| Unseeded | ::{ flag=BR }:: [Kyoumo](https://osu.ppy.sh/users/8145223), ::{ flag=BR }:: [Skull Kid](https://osu.ppy.sh/users/3044264), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=MY }:: [imnoobatosuosu](https://osu.ppy.sh/users/12086753) |
+| Top | ::{ flag=IT }:: ::Ikkun::{ user=1059945 }, ::{ flag=ES }:: ::Maitgon::{ user=4875451 }, ::{ flag=ES }:: ::AlvaroYL::{ user=6333166 }, ::{ flag=US }:: ::cheese salad::{ user=6349821 } |
+| High | ::{ flag=CA }:: ::janitoreihil::{ user=3307897 }, ::{ flag=BR }:: ::Foxeru::{ user=7479684 }, ::{ flag=TW }:: ::seanhappy8520::{ user=949455 }, ::{ flag=KR }:: ::POCARI-SWEAT::{ user=5082685 } |
+| Low | ::{ flag=GB }:: ::Metzo::{ user=10633982 }, ::{ flag=MY }:: ::\[Zeth\]::{ user=9912966 }, ::{ flag=FR }:: ::maximaxiU::{ user=4069690 }, ::{ flag=JP }:: ::Saikoro::{ user=741819 } |
+| Unseeded | ::{ flag=BR }:: ::Kyoumo::{ user=8145223 }, ::{ flag=BR }:: ::Skull Kid::{ user=3044264 }, ::{ flag=AU }:: ::Beat43210::{ user=5664171 }, ::{ flag=MY }:: ::imnoobatosuosu::{ user=12086753 } |
 
 ## Podium
 
@@ -68,9 +68,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ES }:: [Maitgon](https://osu.ppy.sh/users/4875451) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=IT }:: ::Ikkun::{ user=1059945 } |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CA }:: ::janitoreihil::{ user=3307897 } |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ES }:: ::Maitgon::{ user=4875451 } |
 
 ## Mappools
 
